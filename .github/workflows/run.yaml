@@ -1,7 +1,9 @@
 name: Build packages matrix
 on:
   workflow_dispatch: {}
-  push: {}
+  workflow_run:
+    workflows: ["Build packages matrix"]
+    types: [completed]
 #   schedule:
 #     - cron: '*/5 * * * *'
 
@@ -28,8 +30,8 @@ jobs:
 
       - id: matrix
         run: |
-          echo pkglist=$(echo "['$(head -n200 tobuild.txt |  paste -d, -s | sed s/,/\',\'/g)']") >> $GITHUB_OUTPUT
-          sed '1,200d' tobuild.txt > newtobuild && mv newtobuild tobuild.txt
+          echo pkglist=$(echo "['$(head -n10 tobuild.txt |  paste -d, -s | sed s/,/\',\'/g)']") >> $GITHUB_OUTPUT
+          sed '1,10d' tobuild.txt > newtobuild && mv newtobuild tobuild.txt
       - name: Update list
         uses: nick-fields/retry@v2
         with:
@@ -42,8 +44,8 @@ jobs:
             git config user.name github-actions
             git config user.email github-actions@github.com
             # PAT will trigger a push workflow, GITHUB_TOKEN won't
-            if [ -s tobuild.txt ]; then TOK=${{secrets.PAT}}; else TOK=${{secrets.GITHUB_TOKEN}}; fi
-            git remote set-url origin "https://github-actions:$TOK@github.com/${{github.repository}}.git"
+            # if [ -s tobuild.txt ]; then TOK=${{secrets.PAT}}; else TOK=${{secrets.GITHUB_TOKEN}}; fi
+            # git remote set-url origin "https://github-actions:$TOK@github.com/${{github.repository}}.git"
             git add tobuild.txt
             git commit -m "Updating tobuild list"
             git push
