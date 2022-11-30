@@ -1,7 +1,7 @@
 name: Build packages matrix
 on:
   workflow_dispatch: {}
-#   push: {}
+  push: {}
 #   schedule:
 #     - cron: '*/5 * * * *'
 
@@ -17,7 +17,7 @@ jobs:
         uses: nick-fields/retry@v2
         with:
           timeout_minutes: 10
-          max_attempts: 20
+          max_attempts: 50
           shell: bash
           command: |
             set -x
@@ -30,6 +30,23 @@ jobs:
         run: |
           echo pkglist=$(echo "['$(head -n200 tobuild.txt |  paste -d, -s | sed s/,/\',\'/g)']") >> $GITHUB_OUTPUT
           sed '1,200d' tobuild.txt > newtobuild && mv newtobuild tobuild.txt
+      - name: Update list
+        uses: nick-fields/retry@v2
+        with:
+          timeout_minutes: 10
+          max_attempts: 50
+          shell: bash
+          command: |
+            set -x
+            git config --global --add safe.directory "$GITHUB_WORKSPACE"
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            # PAT will trigger a push workflow, GITHUB_TOKEN won't
+            if [ -s tobuild.txt ]; then TOK=${{secrets.PAT}}; else TOK=${{secrets.GITHUB_TOKEN}}; fi
+            git remote set-url origin "https://github-actions:$TOK@github.com/${{github.repository}}.git"
+            git add tobuild.txt
+            git commit -m "Updating tobuild list"
+            git push
 
   build:
     needs: getlistformatrix
@@ -59,7 +76,7 @@ jobs:
         uses: nick-fields/retry@v2
         with:
           timeout_minutes: 10
-          max_attempts: 5
+          max_attempts: 50
           shell: bash
           command: |
             set -x
@@ -93,7 +110,7 @@ jobs:
         uses: nick-fields/retry@v2
         with:
           timeout_minutes: 10
-          max_attempts: 20
+          max_attempts: 50
           shell: bash
           command: |
             PKG="${{ matrix.pkg }}"
@@ -135,7 +152,7 @@ jobs:
         uses: nick-fields/retry@v2
         with:
           timeout_minutes: 10
-          max_attempts: 20
+          max_attempts: 50
           shell: bash
           command: |
             set -x
