@@ -28,7 +28,8 @@ jobs:
 
       - id: matrix
         run: |
-          echo pkglist=$(echo "['$(cat tobuild.txt |  paste -d, -s | sed s/,/\',\'/g)']") >> $GITHUB_OUTPUT
+          echo pkglist=$(echo "['$(head -n200 tobuild.txt |  paste -d, -s | sed s/,/\',\'/g)']") >> $GITHUB_OUTPUT
+          sed '1,200d' tobuild.txt > newtobuild && mv newtobuild tobuild.txt
 
   build:
     needs: getlistformatrix
