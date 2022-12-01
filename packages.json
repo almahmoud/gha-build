@@ -4281,7 +4281,6 @@
     "tLOH": [
         "VariantAnnotation",
         "naniar",
-        "visdat",
         "GenomicFeatures"
     ],
     "TNBC.CMS": [
@@ -4986,10 +4985,7 @@
         "labelled"
     ],
     "GenKern": [],
-    "naniar": [
-        "visdat"
-    ],
-    "visdat": [],
+    "naniar": [],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [],
     "msigdb": [
