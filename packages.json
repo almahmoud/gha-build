@@ -68797,7 +68797,6 @@
         "glmnet",
         "MotifDb",
         "RSQLite",
-        "lassopv",
         "xgboost",
         "RPostgreSQL",
         "BSgenome",
@@ -82930,7 +82929,6 @@
     ],
     "reportr": [],
     "vbsr": [],
-    "lassopv": [],
     "RPostgreSQL": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
