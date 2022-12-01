@@ -4835,7 +4835,6 @@
     "synergyfinder": [
         "drc",
         "tidyverse",
-        "gstat",
         "car",
         "pbkrtest",
         "lme4",
@@ -5788,7 +5787,6 @@
     "ggformula": [
         "labelled"
     ],
-    "gstat": [],
     "GenKern": [],
     "naniar": [
         "visdat"
