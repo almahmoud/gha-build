@@ -662,16 +662,10 @@
         "BiocVersion",
         "biovizBase"
     ],
-    "epivizr": [
-        "epivizrData"
-    ],
-    "epivizrChart": [
-        "epivizrData"
-    ],
-    "epivizrData": [],
+    "epivizr": [],
+    "epivizrChart": [],
     "epivizrStandalone": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "erma": [
         "Homo.sapiens",
@@ -1170,7 +1164,6 @@
     "metaseqR2": [],
     "metavizr": [
         "epivizr",
-        "epivizrData",
         "epivizrStandalone"
     ],
     "MethCP": [],
@@ -1920,7 +1913,6 @@
     "scTGIF": [],
     "scTreeViz": [
         "epivizr",
-        "epivizrData",
         "scater"
     ],
     "segmenter": [
