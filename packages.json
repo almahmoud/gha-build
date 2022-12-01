@@ -1586,8 +1586,7 @@
         "nloptr"
     ],
     "GENESIS": [
-        "GWASTools",
-        "SeqVarTools"
+        "GWASTools"
     ],
     "GeneStructureTools": [
         "BSgenome.Mmusculus.UCSC.mm10",
@@ -3709,7 +3708,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "SeqVarTools": [],
     "sesame": [
         "sesameData",
         "ExperimentHub",
@@ -4243,9 +4241,7 @@
     "VariantAnnotation": [
         "GenomicFeatures"
     ],
-    "VariantExperiment": [
-        "SeqVarTools"
-    ],
+    "VariantExperiment": [],
     "VariantFiltering": [
         "VariantAnnotation",
         "GenomicFeatures",
