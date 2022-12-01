@@ -587,7 +587,6 @@
     "doseR": [
         "lme4"
     ],
-    "drugTargetInteractions": [],
     "easier": [
         "easierData",
         "ggpubr",
