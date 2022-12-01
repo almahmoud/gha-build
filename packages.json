@@ -486,7 +486,6 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "BEARscc": [],
     "BEAT": [
         "ShortRead",
         "BSgenome",
