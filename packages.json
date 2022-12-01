@@ -13014,7 +13014,6 @@
     ],
     "sangeranalyseR": [
         "DECIPHER",
-        "sangerseqR",
         "shinydashboard",
         "plotly",
         "shinycssloaders",
@@ -13023,7 +13022,6 @@
         "BiocStyle",
         "tidyr"
     ],
-    "sangerseqR": [],
     "satuRn": [],
     "savR": [],
     "SBGNview": [
@@ -13285,7 +13283,6 @@
     ],
     "scifer": [
         "DECIPHER",
-        "sangerseqR",
         "kableExtra",
         "rvest"
     ],
