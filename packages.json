@@ -497,7 +497,6 @@
         "rstatix"
     ],
     "lisaClust": [],
-    "LowMACA": [],
     "LRcell": [
         "ExperimentHub",
         "AnnotationHub",
