@@ -364,7 +364,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "MAGAR": [],
     "MAGeCKFlute": [
         "depmap",
         "ExperimentHub",
