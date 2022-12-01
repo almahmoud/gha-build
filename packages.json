@@ -1298,7 +1298,6 @@
         "nloptr",
         "testthat"
     ],
-    "DMCHMM": [],
     "DMRcate": [
         "ExperimentHub",
         "bsseq",
