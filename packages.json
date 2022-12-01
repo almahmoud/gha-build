@@ -3654,8 +3654,7 @@
         "treeio"
     ],
     "M3Drop": [
-        "reldist",
-        "densEstBayes"
+        "reldist"
     ],
     "m6Aboost": [
         "adabag",
@@ -5959,8 +5958,7 @@
         "reldist",
         "DESeq2",
         "geneplotter",
-        "biomaRt",
-        "densEstBayes"
+        "biomaRt"
     ],
     "RiboProfiling": [
         "GenomicFeatures",
@@ -6386,8 +6384,7 @@
     "scmap": [],
     "scMerge": [
         "M3Drop",
-        "reldist",
-        "densEstBayes"
+        "reldist"
     ],
     "scmeth": [
         "bsseq",
@@ -6713,8 +6710,7 @@
         "M3Drop",
         "genefilter",
         "biomaRt",
-        "reldist",
-        "densEstBayes"
+        "reldist"
     ],
     "SingleMoleculeFootprinting": [
         "BSgenome",
@@ -8235,10 +8231,7 @@
         "oligo"
     ],
     "hgu95av2.db": [],
-    "reldist": [
-        "densEstBayes"
-    ],
-    "densEstBayes": [],
+    "reldist": [],
     "adabag": [
         "caret"
     ],
