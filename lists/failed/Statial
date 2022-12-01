@@ -1,0 +1,10 @@
++ '[' 0 = 0 ']'
+++ pwd
++ Rscript -e 'p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); install.packages('\''/__w/gha-build/gha-build/Statial'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE, type = '\''source'\'', repos = NULL); if('\''Statial'\'' %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+Installing package into ‘/__w/gha-build/gha-build/built’
+(as ‘lib’ is unspecified)
+ERROR: dependencies ‘spatstat.core’, ‘spatstat’ are not available for package ‘Statial’
+* removing ‘/__w/gha-build/gha-build/built/Statial’
+Warning message:
+In install.packages("/__w/gha-build/gha-build/Statial", INSTALL_opts = "--build",  :
+  installation of package ‘/__w/gha-build/gha-build/Statial’ had non-zero exit status
