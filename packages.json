@@ -2890,7 +2890,6 @@
     "CoreGx": [
         "MultiAssayExperiment",
         "piano",
-        "bench",
         "tidyr",
         "fgsea",
         "shinydashboard",
@@ -10516,7 +10515,6 @@
         "genefu",
         "verification",
         "recipes",
-        "bench",
         "biomaRt",
         "tidyr",
         "fgsea",
@@ -10628,7 +10626,6 @@
         "CoreGx",
         "MultiAssayExperiment",
         "piano",
-        "bench",
         "tidyr",
         "fgsea",
         "shinydashboard",
@@ -11535,7 +11532,6 @@
         "CoreGx",
         "MultiAssayExperiment",
         "piano",
-        "bench",
         "tidyr",
         "fgsea",
         "shinydashboard",
@@ -14961,7 +14957,6 @@
         "tidyr",
         "MultiAssayExperiment",
         "piano",
-        "bench",
         "fgsea",
         "shinydashboard",
         "cowplot"
@@ -15637,7 +15632,6 @@
         "CoreGx",
         "MultiAssayExperiment",
         "piano",
-        "bench",
         "tidyr",
         "fgsea",
         "shinydashboard",
@@ -16572,7 +16566,6 @@
         "GenomicAlignments",
         "dbplyr"
     ],
-    "bench": [],
     "faahKO": [
         "xcms",
         "MSnbase",
