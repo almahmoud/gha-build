@@ -765,7 +765,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "shinyMethyl": [],
     "signatureSearch": [
         "ExperimentHub",
         "AnnotationHub",
