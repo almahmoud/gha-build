@@ -39496,7 +39496,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "longitudinal",
         "reshape2",
         "mgcv",
         "scales",
@@ -45806,7 +45805,6 @@
         "glmnet",
         "network",
         "ggplot2",
-        "longitudinal",
         "igraph",
         "graph",
         "lifecycle",
@@ -66815,7 +66813,6 @@
         "igraph",
         "GSEABase",
         "GeneNet",
-        "longitudinal",
         "annotate",
         "graph",
         "AnnotationDbi",
@@ -83641,10 +83638,7 @@
     "rebus.datetimes": [],
     "rebus.numbers": [],
     "mhsmm": [],
-    "GeneNet": [
-        "longitudinal"
-    ],
-    "longitudinal": [],
+    "GeneNet": [],
     "ggmcmc": [
         "dplyr",
         "tidyr",
