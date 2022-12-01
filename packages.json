@@ -10920,7 +10920,6 @@
         "dplyr",
         "tidyr"
     ],
-    "MsBackendMgf": [],
     "MsExperiment": [
         "QFeatures",
         "MultiAssayExperiment",
