@@ -5910,7 +5910,6 @@
     ],
     "CONFESS": [
         "contrast",
-        "flowClust",
         "flowMeans",
         "flowMerge",
         "ggplot2",
@@ -6811,7 +6810,6 @@
     ],
     "cyanoFilter": [
         "flowDensity",
-        "flowClust",
         "cytometree",
         "ggplot2",
         "GGally",
@@ -6992,7 +6990,6 @@
         "pillar",
         "ggplot2",
         "flowViz",
-        "flowClust",
         "latticeExtra"
     ],
     "dada2": [
@@ -10606,7 +10603,6 @@
     "flowCL": [
         "SPARQL"
     ],
-    "flowClust": [],
     "flowCut": [
         "flowDensity",
         "flowViz",
@@ -10677,7 +10673,6 @@
     ],
     "flowMerge": [
         "feature",
-        "flowClust",
         "ks"
     ],
     "flowPloidy": [
@@ -10754,7 +10749,6 @@
     ],
     "flowTrans": [
         "flowViz",
-        "flowClust",
         "latticeExtra"
     ],
     "flowViz": [
@@ -20974,7 +20968,6 @@
     "openCyto": [
         "flowViz",
         "flowWorkspace",
-        "flowClust",
         "latticeExtra",
         "ggplot2",
         "dplyr",
