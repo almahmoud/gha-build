@@ -5955,7 +5955,6 @@
         "ggpubr",
         "plotly",
         "BiocFileCache",
-        "flextable",
         "dbplyr",
         "ggrepel",
         "ggsci",
@@ -6440,8 +6439,7 @@
         "cowplot",
         "epiR",
         "ggplotify",
-        "tidyr",
-        "flextable"
+        "tidyr"
     ],
     "graper": [
         "cowplot"
@@ -17767,7 +17765,6 @@
         "waiter"
     ],
     "tippy": [],
-    "flextable": [],
     "shinyHeatmaply": [
         "heatmaply",
         "plotly",
@@ -17791,9 +17788,7 @@
         "broom",
         "tidyr"
     ],
-    "epiR": [
-        "flextable"
-    ],
+    "epiR": [],
     "ggwordcloud": [],
     "BatchJobs": [],
     "HiContactsData": [
