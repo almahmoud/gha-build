@@ -4323,7 +4323,6 @@
         "nloptr",
         "testthat"
     ],
-    "oneSENSE": [],
     "onlineFDR": [],
     "ontoProc": [
         "AnnotationHub",
