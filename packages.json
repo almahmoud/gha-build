@@ -240,8 +240,7 @@
     ],
     "bandle": [
         "pRoloc",
-        "pRolocdata",
-        "MLInterfaces"
+        "pRolocdata"
     ],
     "Basic4Cseq": [
         "BSgenome.Ecoli.NCBI.20080805"
@@ -2947,7 +2946,6 @@
         "VariantAnnotation",
         "GenomicFeatures"
     ],
-    "MLInterfaces": [],
     "MLSeq": [
         "testthat",
         "DESeq2"
@@ -3696,12 +3694,9 @@
     ],
     "progeny": [],
     "projectR": [],
-    "pRoloc": [
-        "MLInterfaces"
-    ],
+    "pRoloc": [],
     "pRolocGUI": [
-        "pRoloc",
-        "MLInterfaces"
+        "pRoloc"
     ],
     "PROMISE": [],
     "PROPS": [
@@ -4450,9 +4445,7 @@
         "nloptr",
         "testthat"
     ],
-    "SigCheck": [
-        "MLInterfaces"
-    ],
+    "SigCheck": [],
     "signatureSearch": [
         "ExperimentHub",
         "clusterProfiler",
