@@ -10655,7 +10655,6 @@
     "CoRegNet": [
         "igraph",
         "shiny",
-        "arules",
         "httpuv",
         "fontawesome",
         "promises",
@@ -52662,7 +52661,6 @@
         "BiocParallel"
     ],
     "TFARM": [
-        "arules",
         "fields",
         "GenomicRanges",
         "viridis",
@@ -60509,7 +60507,6 @@
         "restfulr",
         "dbplyr"
     ],
-    "arules": [],
     "bench": [
         "pillar",
         "tibble",
