@@ -402,7 +402,6 @@
         "ExperimentHub",
         "BiocVersion"
     ],
-    "methylCC": [],
     "methylclock": [
         "methylclockData",
         "ExperimentHub",
