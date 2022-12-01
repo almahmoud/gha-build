@@ -1773,7 +1773,6 @@
     "BUSseq": [
         "SingleCellExperiment"
     ],
-    "CAEN": [],
     "CAFE": [
         "biovizBase",
         "ggbio",
