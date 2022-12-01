@@ -30341,7 +30341,6 @@
         "GenomicAlignments",
         "restfulr"
     ],
-    "NanoStringDiff": [],
     "NanoStringNCTools": [
         "ggplot2",
         "Biostrings",
