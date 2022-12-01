@@ -1635,7 +1635,6 @@
         "ggraph",
         "tidygraph",
         "epiNEM",
-        "metap",
         "mnem",
         "haven",
         "modelr",
@@ -2048,7 +2047,6 @@
         "PADOG",
         "GSVA",
         "globaltest",
-        "metap",
         "GSEABase",
         "hgu133plus2.db",
         "hgu133a.db"
@@ -3901,9 +3899,7 @@
         "ensembldb",
         "biomaRt"
     ],
-    "MetaVolcanoR": [
-        "metap"
-    ],
+    "MetaVolcanoR": [],
     "MethCP": [
         "bsseq",
         "DSS",
@@ -4535,9 +4531,7 @@
         "VariantAnnotation",
         "ensembldb"
     ],
-    "multiGSEA": [
-        "metap"
-    ],
+    "multiGSEA": [],
     "multiHiCcompare": [],
     "multiSight": [
         "anyLib",
@@ -4548,7 +4542,6 @@
         "clusterProfiler",
         "ReactomePA",
         "enrichplot",
-        "metap",
         "devtools",
         "ropls",
         "DOSE",
@@ -4638,7 +4631,6 @@
     ],
     "NADfinder": [
         "trackViewer",
-        "metap",
         "ATACseqQC",
         "BSgenome",
         "ChIPpeakAnno",
@@ -5049,7 +5041,6 @@
     "PanomiR": [
         "clusterProfiler",
         "GSEABase",
-        "metap",
         "DOSE",
         "enrichplot",
         "GOSemSim",
@@ -6067,7 +6058,6 @@
     "rqt": [
         "ropls",
         "car",
-        "metap",
         "pbkrtest",
         "lme4",
         "nloptr",
@@ -6559,7 +6549,6 @@
         "scRNAseq",
         "TENxPBMCData",
         "scDblFinder",
-        "metap",
         "TSCAN",
         "BiocVersion",
         "geneplotter",
@@ -7953,7 +7942,6 @@
         "testthat",
         "waldo"
     ],
-    "metap": [],
     "DMwR2": [
         "readr"
     ],
