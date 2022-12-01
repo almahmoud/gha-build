@@ -279,7 +279,6 @@
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "CNEr",
-        "googlesheets4",
         "haven",
         "modelr",
         "readr"
@@ -1660,7 +1659,6 @@
         "metap",
         "mnem",
         "Linnorm",
-        "googlesheets4",
         "haven",
         "modelr",
         "readr"
@@ -3705,7 +3703,6 @@
     "MAI": [
         "caret",
         "tidyverse",
-        "googlesheets4",
         "haven",
         "modelr",
         "readr"
@@ -4021,7 +4018,6 @@
         "bumphunter",
         "genefilter",
         "GEOquery",
-        "googlesheets4",
         "haven",
         "modelr",
         "readr",
@@ -4270,7 +4266,6 @@
         "ggtree",
         "rstatix",
         "tidygraph",
-        "googlesheets4",
         "haven",
         "modelr",
         "readr",
@@ -4299,7 +4294,6 @@
         "ggtree",
         "rstatix",
         "tidygraph",
-        "googlesheets4",
         "haven",
         "modelr",
         "readr",
@@ -4527,7 +4521,6 @@
         "rstatix",
         "lme4",
         "MSstatsTMT",
-        "googlesheets4",
         "haven",
         "modelr",
         "readr",
@@ -4738,7 +4731,6 @@
         "testthat",
         "tidyverse",
         "waldo",
-        "googlesheets4",
         "haven",
         "modelr",
         "readr"
@@ -6866,7 +6858,6 @@
         "ggpubr",
         "lme4",
         "rstatix",
-        "googlesheets4",
         "haven",
         "modelr",
         "readr",
@@ -6946,7 +6937,6 @@
     ],
     "Statial": [
         "tidyverse",
-        "googlesheets4",
         "haven",
         "modelr",
         "readr"
@@ -7033,7 +7023,6 @@
         "SpatialExtremes",
         "mice",
         "car",
-        "googlesheets4",
         "haven",
         "modelr",
         "readr",
@@ -7788,7 +7777,6 @@
     ],
     "mGSZ": [],
     "tidyverse": [
-        "googlesheets4",
         "haven",
         "modelr",
         "readr"
@@ -7810,7 +7798,6 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "googlesheets4": [],
     "haven": [
         "readr"
     ],
