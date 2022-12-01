@@ -3972,7 +3972,6 @@
         "ggplot2",
         "tibble"
     ],
-    "cnvGSA": [],
     "CNViz": [
         "shiny",
         "dplyr",
