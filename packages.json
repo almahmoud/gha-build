@@ -6283,7 +6283,6 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "KCsmart": [],
     "KEGGlincs": [
         "hgu133a.db",
         "org.Hs.eg.db"
