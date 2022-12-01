@@ -42159,7 +42159,6 @@
         "DelayedArray",
         "pillar"
     ],
-    "spkTools": [],
     "splatter": [
         "SingleCellExperiment",
         "BiocParallel",
