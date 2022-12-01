@@ -156,8 +156,7 @@
     ],
     "amplican": [
         "ShortRead",
-        "ggthemes",
-        "waffle"
+        "ggthemes"
     ],
     "Anaquin": [
         "qvalue",
@@ -11240,7 +11239,6 @@
     ],
     "readr": [],
     "ggthemes": [],
-    "waffle": [],
     "DescTools": [],
     "lmerTest": [
         "lme4",
