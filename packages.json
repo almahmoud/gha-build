@@ -9723,7 +9723,6 @@
         "Biobase",
         "cba",
         "dendextend",
-        "dtw",
         "EnvStats",
         "ggplot2",
         "ggrepel",
@@ -51173,7 +51172,6 @@
         "purrr",
         "ggtext",
         "fields",
-        "dtw",
         "AnnotationDbi",
         "progress",
         "httr",
@@ -74785,7 +74783,6 @@
     "tscR": [
         "dplyr",
         "gridExtra",
-        "dtw",
         "class",
         "kmlShape",
         "knitr",
@@ -82149,7 +82146,6 @@
     ],
     "magic": [],
     "cba": [],
-    "dtw": [],
     "EnvStats": [
         "ggplot2",
         "lifecycle",
@@ -87559,7 +87555,6 @@
     ],
     "verification": [
         "fields",
-        "dtw",
         "spam",
         "viridis",
         "ggplot2",
