@@ -27451,7 +27451,6 @@
         "vctrs",
         "openssl"
     ],
-    "miRcomp": [],
     "mirIntegrator": [
         "ROntoTools",
         "ggplot2",
