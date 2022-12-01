@@ -5096,7 +5096,6 @@
         "biscuiteerData",
         "bsseq",
         "readr",
-        "qualV",
         "HDF5Array",
         "Rsamtools",
         "GenomicRanges",
@@ -8633,7 +8632,6 @@
         "ggplot2",
         "ggrepel",
         "gggenes",
-        "qualV",
         "qs",
         "DT",
         "scran",
@@ -61964,7 +61962,6 @@
         "GenomeInfoDb",
         "sass"
     ],
-    "qualV": [],
     "betareg": [
         "lmtest",
         "sandwich"
