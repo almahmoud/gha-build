@@ -85,8 +85,7 @@
         "lmerTest",
         "nloptr",
         "scater",
-        "testthat",
-        "treeio"
+        "testthat"
     ],
     "animalcules": [
         "DESeq2"
@@ -305,7 +304,6 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "treeio",
         "scater",
         "testthat"
     ],
@@ -349,7 +347,6 @@
         "pbkrtest",
         "lme4",
         "ggtree",
-        "treeio",
         "nloptr",
         "testthat"
     ],
@@ -597,7 +594,6 @@
     "cardelino": [
         "ggtree",
         "VariantAnnotation",
-        "treeio",
         "BSgenome",
         "GenomicFeatures"
     ],
@@ -630,8 +626,7 @@
         "GenomicDataCommons"
     ],
     "CBEA": [
-        "TreeSummarizedExperiment",
-        "treeio"
+        "TreeSummarizedExperiment"
     ],
     "cBioPortalData": [
         "RTCGAToolbox",
@@ -676,8 +671,7 @@
         "DOSE",
         "enrichplot",
         "ggraph",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "censcyt": [
         "diffcyt",
@@ -707,7 +701,6 @@
         "car",
         "pbkrtest",
         "lme4",
-        "treeio",
         "nloptr",
         "testthat"
     ],
@@ -809,8 +802,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "DOSE",
         "ggraph",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "chipseq": [],
     "ChIPseqR": [],
@@ -884,8 +876,7 @@
         "DOSE",
         "enrichplot",
         "ggraph",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "clustifyr": [],
     "cn.farms": [],
@@ -940,8 +931,7 @@
         "testthat"
     ],
     "cogeqc": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "Cogito": [
         "GenomicFeatures",
@@ -1004,7 +994,6 @@
         "rstatix",
         "pbkrtest",
         "lme4",
-        "treeio",
         "nloptr",
         "testthat"
     ],
@@ -1293,8 +1282,7 @@
         "enrichplot",
         "pathview",
         "ggraph",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "DEComplexDisease": [
         "DESeq2"
@@ -1537,8 +1525,7 @@
         "DOSE",
         "enrichplot",
         "ggraph",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "easyRNASeq": [],
     "EBSEA": [
@@ -1567,8 +1554,7 @@
         "DOSE",
         "enrichplot",
         "ggraph",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "EGAD": [
         "GEOquery"
@@ -1616,8 +1602,7 @@
     "enrichplot": [
         "DOSE",
         "ggraph",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "enrichTF": [
         "pipeFrame",
@@ -1635,7 +1620,6 @@
         "car",
         "pbkrtest",
         "lme4",
-        "treeio",
         "nloptr",
         "testthat"
     ],
@@ -1660,8 +1644,7 @@
         "BSgenome",
         "DOSE",
         "ggraph",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "epidecodeR": [
         "rstatix",
@@ -1690,8 +1673,7 @@
         "enrichplot",
         "ggraph",
         "reactome.db",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "EpiMix": [
         "EpiMix.data",
@@ -1784,8 +1766,7 @@
         "DOSE",
         "CNEr",
         "ggraph",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "escape": [
         "GSVA"
@@ -1805,7 +1786,6 @@
         "ggtree",
         "AnnotationHub",
         "rstatix",
-        "treeio",
         "BiocVersion",
         "car",
         "pbkrtest",
@@ -1834,8 +1814,7 @@
     ],
     "ExperimentSubset": [
         "SpatialExperiment",
-        "TreeSummarizedExperiment",
-        "treeio"
+        "TreeSummarizedExperiment"
     ],
     "extraChIPs": [
         "GenomicInteractions",
@@ -1858,8 +1837,7 @@
         "DOSE",
         "enrichplot",
         "ggraph",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "fastLiquidAssociation": [
         "LiquidAssociation"
@@ -1876,8 +1854,7 @@
         "DOSE",
         "enrichplot",
         "ggraph",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "fcScan": [
         "VariantAnnotation",
@@ -2053,7 +2030,6 @@
         "ggraph",
         "ggtree",
         "rstatix",
-        "treeio",
         "car",
         "pbkrtest",
         "lme4",
@@ -2218,22 +2194,17 @@
         "ensembldb"
     ],
     "ggmsa": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "ggspavis": [
         "SpatialExperiment"
     ],
-    "ggtree": [
-        "treeio"
-    ],
+    "ggtree": [],
     "ggtreeDendro": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "ggtreeExtra": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "girafe": [],
     "GISPA": [],
@@ -2280,8 +2251,7 @@
         "DOSE",
         "enrichplot",
         "ggraph",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "goSTAG": [],
     "GOstats": [
@@ -2584,7 +2554,6 @@
         "car",
         "pbkrtest",
         "lme4",
-        "treeio",
         "nloptr",
         "testthat"
     ],
@@ -2704,8 +2673,7 @@
         "testthat"
     ],
     "LinTInd": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "lipidr": [
         "ropls"
@@ -2749,8 +2717,7 @@
         "GEOquery"
     ],
     "LymphoSeq": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "M3Drop": [
         "reldist"
@@ -2812,8 +2779,7 @@
         "AnnotationHub",
         "ggraph",
         "ggtree",
-        "BiocVersion",
-        "treeio"
+        "BiocVersion"
     ],
     "MAI": [
         "tidyverse",
@@ -2927,8 +2893,7 @@
         "AnnotationHub",
         "BiocVersion",
         "ggraph",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "meshr": [
         "Category"
@@ -2979,8 +2944,7 @@
         "DOSE",
         "enrichplot",
         "ggraph",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "metapone": [],
     "metaseqR2": [
@@ -3087,8 +3051,7 @@
         "GenomicFeatures",
         "bumphunter",
         "GEOquery",
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "treeio"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "methylInheritance": [
         "methylKit"
@@ -3126,20 +3089,17 @@
     "MGFR": [],
     "mia": [
         "TreeSummarizedExperiment",
-        "scater",
-        "treeio"
+        "scater"
     ],
     "miaSim": [
-        "TreeSummarizedExperiment",
-        "treeio"
+        "TreeSummarizedExperiment"
     ],
     "miaViz": [
         "TreeSummarizedExperiment",
         "mia",
         "ggraph",
         "scater",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "microbiomeExplorer": [
         "DESeq2",
@@ -3158,7 +3118,6 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "treeio",
         "scater",
         "testthat"
     ],
@@ -3167,12 +3126,10 @@
         "enrichplot",
         "DOSE",
         "ggraph",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "MicrobiotaProcess": [
         "ggtree",
-        "treeio",
         "ggtreeExtra"
     ],
     "midasHLA": [
@@ -3238,7 +3195,6 @@
         "ggtree",
         "rstatix",
         "haven",
-        "treeio",
         "nloptr",
         "car",
         "pbkrtest",
@@ -3259,7 +3215,6 @@
         "ggtree",
         "rstatix",
         "haven",
-        "treeio",
         "nloptr",
         "car",
         "pbkrtest",
@@ -3327,8 +3282,7 @@
         "GEOquery",
         "enrichplot",
         "ggraph",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "mosbi": [
         "QUBIC"
@@ -3493,8 +3447,7 @@
         "ggraph",
         "ggtree",
         "reactome.db",
-        "testthat",
-        "treeio"
+        "testthat"
     ],
     "mumosa": [],
     "MungeSumstats": [
@@ -3622,8 +3575,7 @@
         "DOSE",
         "enrichplot",
         "ggraph",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "netDx": [],
     "netOmics": [
@@ -3827,7 +3779,6 @@
         "ggpubr",
         "ggtree",
         "rstatix",
-        "treeio",
         "car",
         "pbkrtest",
         "lme4",
@@ -3871,8 +3822,7 @@
         "DOSE",
         "enrichplot",
         "ggraph",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "pareg": [
         "tfprobability",
@@ -3923,8 +3873,7 @@
         "DOSE",
         "enrichplot",
         "ggraph",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "phantasus": [
         "GEOquery",
@@ -3952,8 +3901,7 @@
         "testthat"
     ],
     "philr": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "PhosR": [
         "ggpubr",
@@ -3983,8 +3931,7 @@
         "enrichplot",
         "ggraph",
         "reactome.db",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "PING": [
         "Gviz",
@@ -4098,8 +4045,7 @@
         "chipseq",
         "DOSE",
         "ggraph",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "progeny": [],
     "projectR": [],
@@ -4314,8 +4260,7 @@
         "enrichplot",
         "ggraph",
         "reactome.db",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "recount": [
         "derfinder",
@@ -4606,7 +4551,6 @@
         "ggraph",
         "ggtree",
         "rstatix",
-        "treeio",
         "nloptr",
         "testthat"
     ],
@@ -4747,8 +4691,7 @@
     ],
     "scBubbletree": [
         "Seurat",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "scCB2": [
         "Seurat"
@@ -4849,8 +4792,7 @@
         "enrichplot",
         "ggraph",
         "Seurat",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "scTGIF": [
         "schex",
@@ -4876,8 +4818,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "DOSE",
         "ggraph",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "segmentSeq": [],
     "selectKSigs": [
@@ -4951,8 +4892,7 @@
         "AnnotationHub",
         "BiocVersion",
         "ggraph",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "signeR": [
         "VariantAnnotation",
@@ -5024,7 +4964,6 @@
         "TSCAN",
         "BiocVersion",
         "GenomicFeatures",
-        "treeio",
         "M3Drop",
         "reldist"
     ],
@@ -5043,8 +4982,7 @@
         "GenomicFeatures"
     ],
     "sitePath": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "skewr": [
         "methylumi",
@@ -5315,8 +5253,7 @@
     "systemPipeShiny": [],
     "systemPipeTools": [
         "DESeq2",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "TADCompare": [
         "ggpubr",
@@ -5328,8 +5265,7 @@
         "testthat"
     ],
     "tanggle": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "TAPseq": [
         "BSgenome",
@@ -5377,7 +5313,6 @@
         "AnnotationHub",
         "BiocVersion",
         "VariantAnnotation",
-        "treeio",
         "car",
         "pbkrtest",
         "lme4",
@@ -5432,8 +5367,7 @@
         "DOSE",
         "enrichplot",
         "ggraph",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "TIN": [],
     "TissueEnrich": [],
@@ -5498,13 +5432,11 @@
     ],
     "Travel": [],
     "traviz": [],
-    "treeio": [],
     "treekoR": [
         "ggtree",
         "diffcyt",
         "lme4",
         "FlowSOM",
-        "treeio",
         "nloptr",
         "ggpubr",
         "testthat",
@@ -5512,9 +5444,7 @@
         "car",
         "pbkrtest"
     ],
-    "TreeSummarizedExperiment": [
-        "treeio"
-    ],
+    "TreeSummarizedExperiment": [],
     "trena": [
         "MotifDb",
         "BSgenome",
