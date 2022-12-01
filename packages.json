@@ -3680,7 +3680,6 @@
         "GSEABase",
         "biomaRt"
     ],
-    "miRNAmeConverter": [],
     "miRSM": [
         "WGCNA",
         "BicARE",
