@@ -14666,7 +14666,6 @@
         "factoextra",
         "DESeq2",
         "systemPipeR",
-        "systemPipeRdata",
         "clusterProfiler",
         "org.Hs.eg.db",
         "org.Sc.sgd.db",
@@ -20854,7 +20853,6 @@
         "dbplyr"
     ],
     "TBX20BamSubset": [],
-    "systemPipeRdata": [],
     "fission": [],
     "treemap": [
         "ggplot2"
