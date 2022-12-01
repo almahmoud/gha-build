@@ -762,9 +762,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "OpenStats": [
-        "AICcmodavg"
-    ],
+    "OpenStats": [],
     "orthogene": [
         "ggpubr",
         "rstatix"
@@ -1269,7 +1267,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "AICcmodavg": [],
     "phastCons100way.UCSC.hg38": [
         "GenomicScores",
         "AnnotationHub",
