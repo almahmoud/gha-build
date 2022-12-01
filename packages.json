@@ -5658,7 +5658,6 @@
         "Category",
         "GSEABase"
     ],
-    "PCAtools": [],
     "PDATK": [
         "MultiAssayExperiment",
         "CoreGx",
