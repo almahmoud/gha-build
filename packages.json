@@ -713,7 +713,6 @@
         "FDb.InfiniumMethylation.hg19",
         "minfi"
     ],
-    "flagme": [],
     "FLAMES": [
         "scater",
         "ggbio",
