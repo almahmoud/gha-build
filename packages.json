@@ -13308,7 +13308,6 @@
         "RSQLite",
         "blob"
     ],
-    "IntramiRExploreR": [],
     "IONiseR": [
         "dplyr",
         "tidyr",
