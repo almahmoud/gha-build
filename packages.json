@@ -110,7 +110,6 @@
         "VariantAnnotation"
     ],
     "ATACCoGAPS": [
-        "TFBSTools",
         "motifmatchr",
         "chromVAR",
         "rGREAT",
@@ -125,20 +124,17 @@
         "GenomicScores",
         "motifStack",
         "AnnotationHub",
-        "TFBSTools",
         "BiocVersion"
     ],
     "ATACseqTFEA": [
-        "motifmatchr",
-        "TFBSTools"
+        "motifmatchr"
     ],
     "atena": [
         "AnnotationHub",
         "BiocVersion"
     ],
     "atSNP": [
-        "motifStack",
-        "TFBSTools"
+        "motifStack"
     ],
     "attract": [
         "GOstats"
@@ -446,9 +442,7 @@
     "ChromSCape": [
         "scater"
     ],
-    "chromVAR": [
-        "TFBSTools"
-    ],
+    "chromVAR": [],
     "cicero": [
         "Gviz",
         "biovizBase",
@@ -659,8 +653,7 @@
     ],
     "cytomapper": [],
     "dagLogo": [
-        "motifStack",
-        "TFBSTools"
+        "motifStack"
     ],
     "DAMEfinder": [
         "VariantAnnotation",
@@ -840,8 +833,7 @@
         "lme4"
     ],
     "enhancerHomologSearch": [
-        "motifmatchr",
-        "TFBSTools"
+        "motifmatchr"
     ],
     "ENmix": [
         "minfi",
@@ -853,7 +845,6 @@
     "enrichplot": [],
     "enrichTF": [
         "motifmatchr",
-        "TFBSTools",
         "ggpubr",
         "clusterProfiler",
         "enrichplot",
@@ -939,7 +930,6 @@
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
-        "TFBSTools",
         "motifmatchr",
         "enrichplot",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
@@ -1439,8 +1429,7 @@
         "cBioPortalData",
         "motifStack",
         "RTCGAToolbox",
-        "TCGAutils",
-        "TFBSTools"
+        "TCGAutils"
     ],
     "LRcell": [
         "ExperimentHub",
@@ -1512,9 +1501,7 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "MatrixRider": [
-        "TFBSTools"
-    ],
+    "MatrixRider": [],
     "MBECS": [
         "lme4",
         "lmerTest"
@@ -1782,9 +1769,7 @@
         "pbkrtest"
     ],
     "MobilityTransformR": [],
-    "monaLisa": [
-        "TFBSTools"
-    ],
+    "monaLisa": [],
     "MoonlightR": [
         "clusterProfiler",
         "enrichplot"
@@ -1793,15 +1778,10 @@
         "VariantAnnotation",
         "motifStack",
         "Gviz",
-        "biovizBase",
-        "TFBSTools"
+        "biovizBase"
     ],
-    "motifmatchr": [
-        "TFBSTools"
-    ],
-    "motifStack": [
-        "TFBSTools"
-    ],
+    "motifmatchr": [],
+    "motifStack": [],
     "MQmetrics": [
         "ggpubr",
         "rstatix",
@@ -1926,7 +1906,6 @@
         "Gviz",
         "AnnotationHub",
         "biovizBase",
-        "TFBSTools",
         "BiocVersion",
         "VariantAnnotation"
     ],
@@ -2079,8 +2058,7 @@
         "lme4"
     ],
     "pageRank": [
-        "motifmatchr",
-        "TFBSTools"
+        "motifmatchr"
     ],
     "PAIRADISE": [],
     "PanomiR": [
@@ -2179,7 +2157,6 @@
         "phastCons100way.UCSC.hg38",
         "GenomicScores",
         "Gviz",
-        "TFBSTools",
         "AnnotationHub",
         "biovizBase",
         "BiocVersion",
@@ -2394,8 +2371,7 @@
     "ribosomeProfilingQC": [
         "EDASeq",
         "motifStack",
-        "RUVSeq",
-        "TFBSTools"
+        "RUVSeq"
     ],
     "rifi": [
         "car",
@@ -2740,7 +2716,6 @@
     "spatzie": [
         "GenomicInteractions",
         "motifmatchr",
-        "TFBSTools",
         "Gviz",
         "biovizBase",
         "VariantAnnotation"
@@ -2885,7 +2860,6 @@
     "terraTCGAdata": [
         "TCGAutils"
     ],
-    "TFBSTools": [],
     "TFEA.ChIP": [],
     "TFHAZ": [
         "ORFik"
