@@ -18895,7 +18895,6 @@
         "dendextend",
         "psych",
         "sva",
-        "truncdist",
         "ggplot2",
         "viridis",
         "Biobase",
@@ -54587,7 +54586,6 @@
         "evmix",
         "foreach",
         "purrr",
-        "truncdist",
         "vegan",
         "mgcv",
         "Matrix"
@@ -65866,7 +65864,6 @@
         "Matrix",
         "evmix",
         "purrr",
-        "truncdist",
         "sp",
         "future",
         "future.apply",
@@ -86624,7 +86621,6 @@
         "xts",
         "TTR"
     ],
-    "truncdist": [],
     "imputeLCMD": [
         "tmvtnorm",
         "pcaMethods",
