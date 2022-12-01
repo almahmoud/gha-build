@@ -3721,7 +3721,6 @@
         "lme4",
         "nloptr"
     ],
-    "SigCheck": [],
     "signatureSearch": [
         "ExperimentHub",
         "clusterProfiler",
