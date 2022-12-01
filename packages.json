@@ -58214,7 +58214,6 @@
         "SingleCellExperiment",
         "vroom",
         "BiocNeighbors",
-        "RTriangle",
         "ggraph",
         "tidygraph",
         "ggplot2",
@@ -152920,7 +152919,6 @@
         "Rcpp",
         "RcppArmadillo"
     ],
-    "RTriangle": [],
     "concaveman": [
         "V8",
         "sf",
