@@ -81279,7 +81279,6 @@
         "GeomxTools",
         "repmis",
         "Matrix",
-        "logNormReg",
         "NanoStringNCTools",
         "S4Vectors",
         "readxl",
@@ -106903,7 +106902,6 @@
         "gmp"
     ],
     "sampSurf": [],
-    "logNormReg": [],
     "spdep": [
         "sp",
         "spData",
