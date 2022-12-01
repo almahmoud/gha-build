@@ -944,9 +944,7 @@
         "ensembldb"
     ],
     "CopywriteR": [],
-    "CoreGx": [
-        "piano"
-    ],
+    "CoreGx": [],
     "coseq": [
         "DESeq2",
         "HTSFilter"
@@ -3500,7 +3498,6 @@
     "PDATK": [
         "CoreGx",
         "survminer",
-        "piano",
         "genefu",
         "ggpubr",
         "rstatix",
@@ -3529,8 +3526,7 @@
         "DESeq2"
     ],
     "PharmacoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "phenomis": [
         "biodb",
@@ -3570,7 +3566,6 @@
         "dnet",
         "supraHex"
     ],
-    "piano": [],
     "Pigengene": [
         "clusterProfiler",
         "ReactomePA",
@@ -3824,8 +3819,7 @@
         "GenomicFeatures"
     ],
     "RadioGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "ramwas": [],
     "RandomWalkRestartMH": [
@@ -4909,8 +4903,7 @@
     "tomoseqr": [],
     "topdownr": [],
     "ToxicoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "TPP": [],
     "trackViewer": [
@@ -5133,8 +5126,7 @@
     "XDE": [],
     "Xeva": [
         "PharmacoGx",
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "XNAString": [],
     "YAPSA": [
