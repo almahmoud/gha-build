@@ -1966,7 +1966,6 @@
         "BiocVersion"
     ],
     "POMA": [],
-    "ppcseq": [],
     "preciseTAD": [
         "rCGH",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
