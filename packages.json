@@ -33521,7 +33521,6 @@
         "rematch2"
     ],
     "NormqPCR": [
-        "ReadqPCR",
         "qpcR",
         "rgl",
         "htmlwidgets"
@@ -39747,7 +39746,6 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "ReadqPCR": [],
     "REBET": [
         "ASSET",
         "msm",
