@@ -165,7 +165,6 @@
         "BiocVersion"
     ],
     "BiocVersion": [],
-    "biodbNcbi": [],
     "biomvRCNS": [
         "Gviz",
         "biovizBase"
