@@ -109241,7 +109241,6 @@
         "zlibbioc"
     ],
     "Scale4C": [
-        "smoothie",
         "GenomicRanges",
         "IRanges",
         "SummarizedExperiment",
@@ -158060,7 +158059,6 @@
         "R6",
         "rappdirs"
     ],
-    "smoothie": [],
     "scanMiRData": [
         "scanMiR",
         "Biostrings",
