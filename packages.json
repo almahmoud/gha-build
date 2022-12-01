@@ -13267,7 +13267,6 @@
         "RcppNumerical",
         "Matrix",
         "mixsqp",
-        "invgamma",
         "XML",
         "progress",
         "httr",
@@ -20156,7 +20155,6 @@
         "S4Vectors",
         "Matrix",
         "mixsqp",
-        "invgamma",
         "futile.logger",
         "GetoptLong",
         "clue",
@@ -21234,7 +21232,6 @@
         "RcppNumerical",
         "Matrix",
         "mixsqp",
-        "invgamma",
         "downloader",
         "dplyr",
         "GO.db",
@@ -23230,7 +23227,6 @@
         "RcppNumerical",
         "Matrix",
         "mixsqp",
-        "invgamma",
         "futile.logger",
         "Biobase",
         "geneplotter",
@@ -93150,7 +93146,6 @@
         "RcppEigen",
         "RcppNumerical",
         "mixsqp",
-        "invgamma",
         "futile.logger",
         "XML",
         "progress",
@@ -101261,7 +101256,6 @@
         "Matrix",
         "Rcpp",
         "mixsqp",
-        "invgamma",
         "irlba",
         "RcppArmadillo"
     ],
@@ -101271,7 +101265,6 @@
         "RcppArmadillo",
         "Matrix"
     ],
-    "invgamma": [],
     "ChIPXpressData": [
         "bigmemory",
         "Rcpp"
