@@ -15172,7 +15172,6 @@
         "zlibbioc"
     ],
     "CAEN": [
-        "PoiClaClu",
         "SummarizedExperiment",
         "MatrixGenerics",
         "GenomicRanges",
@@ -157434,7 +157433,6 @@
         "R6"
     ],
     "zeallot": [],
-    "PoiClaClu": [],
     "pryr": [
         "stringr",
         "codetools",
