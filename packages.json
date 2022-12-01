@@ -175,9 +175,7 @@
         "ExperimentHub",
         "BiocVersion"
     ],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "conclus": [
         "factoextra",
         "scater",
@@ -544,7 +542,6 @@
     "methylGSA": [
         "missMethyl"
     ],
-    "methylPipe": [],
     "mia": [
         "scater"
     ],
