@@ -442,7 +442,6 @@
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
         "BiocVersion"
     ],
-    "epivizrStandalone": [],
     "erma": [],
     "esATAC": [],
     "EWCE": [
@@ -730,9 +729,7 @@
         "rstatix"
     ],
     "metagene": [],
-    "metavizr": [
-        "epivizrStandalone"
-    ],
+    "metavizr": [],
     "MethReg": [
         "ggpubr",
         "sesameData",
