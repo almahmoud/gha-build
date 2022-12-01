@@ -7664,7 +7664,6 @@
         "tibble",
         "pillar"
     ],
-    "densvis": [],
     "DEP": [
         "ggplot2",
         "dplyr",
