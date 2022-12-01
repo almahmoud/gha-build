@@ -399,7 +399,6 @@
     "ChIPseeker": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "ChIPXpress": [],
     "ChromSCape": [
         "scater"
     ],
