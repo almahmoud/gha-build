@@ -14509,7 +14509,6 @@
         "SummarizedExperiment",
         "NMF",
         "ape",
-        "locfdr",
         "BiocSingular",
         "stringr",
         "S4Vectors",
@@ -26421,7 +26420,6 @@
     "EpiDISH": [
         "e1071",
         "stringr",
-        "locfdr",
         "Matrix",
         "class"
     ],
@@ -34426,8 +34424,7 @@
         "ellipsis"
     ],
     "GIGSEA": [
-        "Matrix",
-        "locfdr"
+        "Matrix"
     ],
     "girafe": [
         "S4Vectors",
@@ -56778,7 +56775,6 @@
         "HDF5Array",
         "NMF",
         "ape",
-        "locfdr",
         "BiocSingular",
         "stringr",
         "S4Vectors",
@@ -73723,7 +73719,6 @@
         "GenomeInfoDbData"
     ],
     "satuRn": [
-        "locfdr",
         "SummarizedExperiment",
         "BiocParallel",
         "ggplot2",
@@ -87515,7 +87510,6 @@
         "foreach",
         "e1071",
         "stringr",
-        "locfdr",
         "Matrix",
         "dplyr",
         "forcats",
@@ -99511,7 +99505,6 @@
         "rlang"
     ],
     "qtl": [],
-    "locfdr": [],
     "phylobase": [
         "ade4",
         "ape",
