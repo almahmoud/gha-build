@@ -33612,7 +33612,6 @@
         "MultiAssayExperiment",
         "BiocParallel",
         "ggplot2",
-        "magicaxis",
         "piano",
         "BumpyMatrix",
         "bench",
@@ -36484,7 +36483,6 @@
         "CoreGx",
         "SummarizedExperiment",
         "BiocParallel",
-        "magicaxis",
         "scales",
         "MultiAssayExperiment",
         "piano",
@@ -50248,7 +50246,6 @@
         "SummarizedExperiment",
         "MultiAssayExperiment",
         "BiocParallel",
-        "magicaxis",
         "piano",
         "BumpyMatrix",
         "bench",
@@ -56769,7 +56766,6 @@
         "httpuv",
         "openssl"
     ],
-    "magicaxis": [],
     "PMCMRplus": [
         "BWStest"
     ],
