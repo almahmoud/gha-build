@@ -2741,7 +2741,6 @@
         "DropletUtils",
         "treeio"
     ],
-    "ExploreModelMatrix": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
