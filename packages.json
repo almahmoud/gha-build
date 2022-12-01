@@ -668,7 +668,6 @@
     "deepSNV": [
         "VariantAnnotation"
     ],
-    "DEGreport": [],
     "DeMixT": [
         "DSS"
     ],
@@ -1316,9 +1315,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "IVAS": [
         "lme4"
     ],
