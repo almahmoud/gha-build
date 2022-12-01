@@ -1703,9 +1703,7 @@
     "epiNEM": [
         "mnem"
     ],
-    "epistasisGA": [
-        "qgraph"
-    ],
+    "epistasisGA": [],
     "EpiTxDb": [
         "GenomicFeatures"
     ],
@@ -5989,7 +5987,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "qgraph": [],
     "ewceData": [
         "ExperimentHub",
         "AnnotationHub",
