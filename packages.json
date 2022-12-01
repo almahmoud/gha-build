@@ -772,9 +772,7 @@
         "methylumi",
         "FDb.InfiniumMethylation.hg19"
     ],
-    "ideal": [
-        "pcaExplorer"
-    ],
+    "ideal": [],
     "igvR": [],
     "IMAS": [
         "IVAS"
@@ -1250,7 +1248,6 @@
     ],
     "pageRank": [],
     "PanomiR": [],
-    "pcaExplorer": [],
     "PDATK": [
         "survminer",
         "ggpubr",
