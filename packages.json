@@ -8474,7 +8474,6 @@
         "plotly",
         "shinyFiles",
         "stringi",
-        "randomizr",
         "patchwork",
         "bslib",
         "png",
@@ -133784,7 +133783,6 @@
         "plotly",
         "shinyFiles",
         "stringi",
-        "randomizr",
         "patchwork",
         "bslib",
         "png",
@@ -134110,7 +134108,6 @@
         "cli",
         "rappdirs"
     ],
-    "randomizr": [],
     "ggraph": [
         "ggplot2",
         "Rcpp",
