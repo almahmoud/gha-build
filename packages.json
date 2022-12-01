@@ -8815,7 +8815,6 @@
         "polyclip",
         "stringi",
         "mitools",
-        "SnowballC",
         "tidytree",
         "FNN",
         "dqrng",
@@ -13992,7 +13991,6 @@
         "stringr",
         "digest",
         "xml2",
-        "SnowballC",
         "BiocGenerics",
         "httpuv",
         "mime",
@@ -17063,7 +17061,6 @@
         "S4Vectors",
         "KEGGREST",
         "iterators",
-        "SnowballC",
         "Matrix",
         "jsonlite",
         "httr",
@@ -18212,8 +18209,7 @@
         "squash",
         "BiocGenerics",
         "gtools",
-        "caTools",
-        "SnowballC"
+        "caTools"
     ],
     "CellTrails": [
         "SingleCellExperiment",
@@ -27648,7 +27644,6 @@
         "Matrix",
         "IRanges",
         "backports",
-        "SnowballC",
         "matrixStats",
         "GenomicRanges",
         "BiocBaseUtils",
@@ -33791,7 +33786,6 @@
         "tfautograph",
         "rstudioapi",
         "stringi",
-        "SnowballC",
         "tm",
         "text2vec",
         "textstem",
@@ -51695,7 +51689,6 @@
         "dplyr",
         "networkD3",
         "RColorBrewer",
-        "SnowballC",
         "tm",
         "wordcloud",
         "AnnotationDbi",
@@ -53101,7 +53094,6 @@
         "koRpus",
         "lexicon",
         "quanteda",
-        "SnowballC",
         "textclean",
         "textshape",
         "backports",
@@ -57530,8 +57522,7 @@
         "labeling",
         "munsell",
         "RColorBrewer",
-        "viridisLite",
-        "SnowballC"
+        "viridisLite"
     ],
     "gsean": [
         "fgsea",
@@ -60819,7 +60810,6 @@
         "desc",
         "jsonlite",
         "memoise",
-        "SnowballC",
         "stringdist",
         "tibble",
         "yesno",
@@ -97155,7 +97145,6 @@
         "iC10TrainingData",
         "rpart",
         "nnet",
-        "SnowballC",
         "exactRankTests",
         "mvtnorm",
         "colorspace",
@@ -98177,7 +98166,6 @@
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
-        "SnowballC",
         "maps",
         "lattice",
         "matrixStats",
@@ -106611,7 +106599,6 @@
         "GenomeInfoDbData",
         "XVector",
         "cli",
-        "SnowballC",
         "maps",
         "lattice",
         "BiocBaseUtils",
@@ -110382,7 +110369,6 @@
         "survival",
         "Rcpp",
         "RcppEigen",
-        "SnowballC",
         "rngtools",
         "stringr",
         "digest",
@@ -139352,7 +139338,6 @@
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
-        "SnowballC",
         "lattice",
         "matrixStats",
         "nlme",
@@ -141766,7 +141751,6 @@
         "koRpus",
         "lexicon",
         "quanteda",
-        "SnowballC",
         "textclean",
         "textshape",
         "NLP",
@@ -143065,7 +143049,6 @@
         "stringi",
         "backports",
         "whisker",
-        "SnowballC",
         "tm",
         "text2vec",
         "textstem",
@@ -144498,7 +144481,6 @@
         "koRpus",
         "lexicon",
         "quanteda",
-        "SnowballC",
         "stringi",
         "textclean",
         "textshape",
@@ -146208,7 +146190,6 @@
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
-        "SnowballC",
         "maps",
         "gplots",
         "igraph",
@@ -153580,7 +153561,6 @@
         "cli",
         "lattice",
         "stringi",
-        "SnowballC",
         "utf8",
         "withr"
     ],
@@ -153626,8 +153606,7 @@
     "janeaustenr": [],
     "tokenizers": [
         "stringi",
-        "Rcpp",
-        "SnowballC"
+        "Rcpp"
     ],
     "softImpute": [
         "Matrix",
@@ -153656,7 +153635,6 @@
     "mitools": [
         "DBI"
     ],
-    "SnowballC": [],
     "slam": [],
     "sjmisc": [
         "dplyr",
@@ -155965,9 +155943,7 @@
         "colorspace",
         "fs"
     ],
-    "lsa": [
-        "SnowballC"
-    ],
+    "lsa": [],
     "BSgenome.Hsapiens.UCSC.hg38": [
         "BSgenome",
         "BiocGenerics",
@@ -161076,7 +161052,6 @@
         "koRpus",
         "lexicon",
         "quanteda",
-        "SnowballC",
         "stringi",
         "textclean",
         "textshape",
@@ -161188,7 +161163,6 @@
         "Matrix",
         "Rcpp",
         "RcppParallel",
-        "SnowballC",
         "stopwords",
         "stringi",
         "xml2",
@@ -163804,7 +163778,6 @@
         "desc",
         "jsonlite",
         "memoise",
-        "SnowballC",
         "stringdist",
         "tibble",
         "yesno",
