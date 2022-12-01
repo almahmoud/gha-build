@@ -1269,7 +1269,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "tximeta",
         "AnnotationHub",
