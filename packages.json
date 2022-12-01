@@ -361,12 +361,9 @@
         "scater"
     ],
     "miRSM": [
-        "miRspongeR",
-        "SPONGE"
+        "miRspongeR"
     ],
-    "miRspongeR": [
-        "SPONGE"
-    ],
+    "miRspongeR": [],
     "MSnID": [
         "AnnotationHub",
         "BiocVersion"
@@ -574,7 +571,6 @@
         "BiocVersion",
         "ExperimentHub"
     ],
-    "SPONGE": [],
     "Statial": [],
     "survtype": [],
     "TCGAbiolinksGUI": [
