@@ -11568,7 +11568,6 @@
         "derfinder",
         "DEFormats",
         "DESeq2",
-        "knitrBootstrap",
         "AnnotationDbi",
         "bumphunter",
         "GenomicAlignments",
@@ -16899,7 +16898,6 @@
         "rtracklayer",
         "GenomicAlignments"
     ],
-    "knitrBootstrap": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [
         "BSgenome",
         "rtracklayer",
