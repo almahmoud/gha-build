@@ -3487,7 +3487,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "RGMQL": [],
     "RgnTX": [
         "GenomicFeatures",
         "regioneR",
