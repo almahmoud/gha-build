@@ -73,7 +73,6 @@
     ],
     "annotatr": [
         "AnnotationHub",
-        "regioneR",
         "BiocVersion"
     ],
     "anota2seq": [],
@@ -146,7 +145,6 @@
         "GenomicScores",
         "motifStack",
         "ensembldb",
-        "regioneR",
         "AnnotationHub",
         "TFBSTools",
         "BiocVersion"
@@ -295,8 +293,7 @@
         "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
-        "BiocVersion",
-        "regioneR"
+        "BiocVersion"
     ],
     "BitSeq": [],
     "blacksheepr": [
@@ -495,8 +492,7 @@
         "ensembldb"
     ],
     "ChIPpeakAnno": [
-        "ensembldb",
-        "regioneR"
+        "ensembldb"
     ],
     "ChIPQC": [
         "DiffBind",
@@ -553,7 +549,6 @@
         "nloptr"
     ],
     "CNVfilteR": [
-        "regioneR",
         "karyoploteR",
         "CopyNumberPlots",
         "VariantAnnotation",
@@ -563,7 +558,6 @@
     "CNViz": [
         "karyoploteR",
         "CopyNumberPlots",
-        "regioneR",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb"
@@ -654,7 +648,6 @@
     ],
     "CopyNumberPlots": [
         "karyoploteR",
-        "regioneR",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb"
@@ -684,8 +677,7 @@
     "crisprseekplus": [
         "GUIDEseq",
         "ChIPpeakAnno",
-        "ensembldb",
-        "regioneR"
+        "ensembldb"
     ],
     "crisprVerse": [
         "crisprScore",
@@ -849,8 +841,7 @@
     ],
     "DEScan2": [
         "ChIPpeakAnno",
-        "ensembldb",
-        "regioneR"
+        "ensembldb"
     ],
     "destiny": [
         "VIM",
@@ -919,8 +910,7 @@
         "bumphunter",
         "annotatr",
         "AnnotationHub",
-        "BiocVersion",
-        "regioneR"
+        "BiocVersion"
     ],
     "DominoEffect": [
         "VariantAnnotation"
@@ -1451,8 +1441,7 @@
     ],
     "GUIDEseq": [
         "ChIPpeakAnno",
-        "ensembldb",
-        "regioneR"
+        "ensembldb"
     ],
     "Guitar": [],
     "Gviz": [
@@ -1650,7 +1639,6 @@
         "fda"
     ],
     "karyoploteR": [
-        "regioneR",
         "biovizBase",
         "VariantAnnotation",
         "ensembldb"
@@ -2178,7 +2166,6 @@
     "MultiBaC": [],
     "multicrispr": [
         "karyoploteR",
-        "regioneR",
         "biovizBase",
         "VariantAnnotation",
         "ensembldb"
@@ -2240,7 +2227,6 @@
         "motifStack",
         "Gviz",
         "ensembldb",
-        "regioneR",
         "AnnotationHub",
         "biovizBase",
         "TFBSTools",
@@ -2706,14 +2692,10 @@
     "recoup": [],
     "REDseq": [
         "ChIPpeakAnno",
-        "ensembldb",
-        "regioneR"
+        "ensembldb"
     ],
     "RegEnrich": [],
-    "regioneR": [],
-    "regioneReloaded": [
-        "regioneR"
-    ],
+    "regioneReloaded": [],
     "regionReport": [
         "derfinder",
         "DEFormats",
@@ -2764,7 +2746,6 @@
         "BiocVersion"
     ],
     "RgnTX": [
-        "regioneR",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "rGREAT": [
@@ -2803,7 +2784,6 @@
     ],
     "RIPAT": [
         "karyoploteR",
-        "regioneR",
         "biovizBase",
         "VariantAnnotation",
         "ensembldb"
@@ -2814,7 +2794,6 @@
         "EnsDb.Hsapiens.v86"
     ],
     "RLSeq": [
-        "regioneR",
         "caretEnsemble",
         "AnnotationHub",
         "RLHub",
@@ -2997,8 +2976,7 @@
     "scmeth": [
         "AnnotationHub",
         "annotatr",
-        "BiocVersion",
-        "regioneR"
+        "BiocVersion"
     ],
     "scone": [
         "RUVSeq",
@@ -3456,7 +3434,6 @@
         "BiocVersion"
     ],
     "UMI4Cats": [
-        "regioneR",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "fda"
     ],
@@ -3537,7 +3514,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "DiffBind",
         "ensembldb",
-        "regioneR",
         "GreyListChIP"
     ],
     "waddR": [
