@@ -2809,7 +2809,6 @@
         "survival",
         "RcppEigen",
         "statmod",
-        "rmutil",
         "dirmult",
         "ggrepel",
         "modeest",
@@ -25572,7 +25571,6 @@
         "R6",
         "RColorBrewer",
         "viridisLite",
-        "rmutil",
         "clue",
         "rpart",
         "pillar",
@@ -78645,7 +78643,6 @@
         "SparseM",
         "MatrixModels",
         "survival",
-        "rmutil",
         "clue",
         "rpart",
         "diffobj",
@@ -148657,7 +148654,6 @@
         "Matrix",
         "ape",
         "statmod",
-        "rmutil",
         "dirmult",
         "MASS",
         "ggrepel",
@@ -148757,7 +148753,6 @@
         "lazyeval"
     ],
     "statmod": [],
-    "rmutil": [],
     "dirmult": [],
     "modeest": [
         "fBasics",
@@ -148769,7 +148764,6 @@
         "MASS",
         "spatial",
         "gss",
-        "rmutil",
         "clue",
         "rpart",
         "cluster"
@@ -148798,9 +148792,7 @@
         "gss",
         "stabledist"
     ],
-    "stable": [
-        "rmutil"
-    ],
+    "stable": [],
     "stabledist": [],
     "statip": [
         "clue",
