@@ -431,7 +431,6 @@
         "car",
         "pbkrtest"
     ],
-    "ceRNAnetsim": [],
     "CeTF": [
         "clusterProfiler",
         "GenomicTools",
