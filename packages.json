@@ -13369,7 +13369,6 @@
     "SDAMS": [
         "qvalue"
     ],
-    "sechm": [],
     "segmenter": [
         "ChIPseeker",
         "AnnotationDbi",
@@ -13501,7 +13500,6 @@
         "AnnotationDbi"
     ],
     "SEtools": [
-        "sechm",
         "DESeq2",
         "sva",
         "geneplotter",
