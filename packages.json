@@ -1035,8 +1035,7 @@
     ],
     "OpenStats": [
         "AICcmodavg",
-        "car",
-        "unmarked"
+        "car"
     ],
     "orthogene": [
         "ggpubr",
@@ -1712,10 +1711,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "AICcmodavg": [
-        "unmarked"
-    ],
-    "unmarked": [],
+    "AICcmodavg": [],
     "phastCons100way.UCSC.hg38": [
         "GenomicScores",
         "AnnotationHub",
