@@ -1376,7 +1376,6 @@
         "ggrepel",
         "httr",
         "dplyr",
-        "RcppDE",
         "pillar",
         "tidyselect"
     ],
@@ -26982,7 +26981,6 @@
         "ptw",
         "ggplot2",
         "tibble",
-        "RcppDE",
         "pillar"
     ],
     "pepStat": [
@@ -41744,10 +41742,7 @@
         "tibble",
         "pillar"
     ],
-    "ptw": [
-        "RcppDE"
-    ],
-    "RcppDE": [],
+    "ptw": [],
     "DRaWR": [
         "ROCR"
     ],
