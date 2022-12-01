@@ -8009,7 +8009,6 @@
         "tidyr",
         "ggforce",
         "ggrepel",
-        "gghalves",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -15009,7 +15008,6 @@
         "tidyr"
     ],
     "MKmisc": [],
-    "gghalves": [],
     "anyLib": [
         "devtools",
         "testthat",
