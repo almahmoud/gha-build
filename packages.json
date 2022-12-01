@@ -2861,7 +2861,6 @@
         "ClusterR",
         "benchmarkme",
         "ggplot2",
-        "rncl",
         "RNeXML",
         "genefilter",
         "benchmarkmeData",
@@ -11689,7 +11688,6 @@
         "ggrepel",
         "ClusterR",
         "benchmarkme",
-        "rncl",
         "RNeXML",
         "genefilter",
         "benchmarkmeData",
@@ -19896,7 +19894,6 @@
         "GenomicAlignments"
     ],
     "phylobase": [
-        "rncl",
         "RNeXML",
         "dplyr",
         "tidyr"
@@ -19908,7 +19905,6 @@
         "benchmarkmeData",
         "dplyr"
     ],
-    "rncl": [],
     "RNeXML": [
         "dplyr",
         "tidyr"
