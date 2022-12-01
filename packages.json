@@ -2978,7 +2978,6 @@
         "scales",
         "BiocFileCache",
         "BiocSingular",
-        "RcppDist",
         "dbplyr",
         "dplyr",
         "RSQLite",
@@ -56136,7 +56135,6 @@
         "maxLik",
         "sandwich"
     ],
-    "RcppDist": [],
     "maxLik": [
         "sandwich"
     ],
