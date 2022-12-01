@@ -273,7 +273,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "GenomicSuperSignature": [],
     "GEOexplorer": [
         "factoextra"
     ],
