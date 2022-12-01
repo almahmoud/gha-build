@@ -1013,7 +1013,6 @@
     "CellBarcode": [
         "ShortRead"
     ],
-    "cellbaseR": [],
     "CellBench": [],
     "cellHTS2": [
         "genefilter",
