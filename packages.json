@@ -740,18 +740,13 @@
         "factoextra",
         "ggpubr",
         "FactoMineR",
-        "rstatix",
-        "MSstatsTMT"
+        "rstatix"
     ],
-    "MSstatsPTM": [
-        "MSstatsTMT"
-    ],
+    "MSstatsPTM": [],
     "MSstatsSampleSize": [],
     "MSstatsShiny": [
-        "MSstatsTMT",
         "MSstatsPTM"
     ],
-    "MSstatsTMT": [],
     "multicrispr": [
         "karyoploteR"
     ],
