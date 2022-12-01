@@ -3492,7 +3492,6 @@
         "dbplyr",
         "dplyr"
     ],
-    "CRImage": [],
     "crisprBowtie": [
         "BSgenome",
         "readr",
