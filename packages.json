@@ -1020,7 +1020,6 @@
         "epivizr",
         "epivizrStandalone"
     ],
-    "MethCP": [],
     "MethReg": [
         "ggpubr",
         "sesameData",
