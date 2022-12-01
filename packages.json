@@ -606,7 +606,6 @@
     "BiocDockerManager": [
         "readr"
     ],
-    "BiocFHIR": [],
     "biocGraph": [
         "geneplotter"
     ],
