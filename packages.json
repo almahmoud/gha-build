@@ -1782,7 +1782,6 @@
         "DESeq2"
     ],
     "genomation": [],
-    "genomes": [],
     "GenomicFeatures": [],
     "GenomicFiles": [
         "VariantAnnotation",
