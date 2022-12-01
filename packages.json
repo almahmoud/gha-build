@@ -796,7 +796,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "profileplyr": [],
     "protGear": [
         "ggpubr",
         "factoextra",
