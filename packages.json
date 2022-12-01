@@ -28150,7 +28150,6 @@
         "GenomicRanges",
         "IRanges",
         "ggplot2",
-        "rebus",
         "futile.logger",
         "GenomeInfoDb",
         "XVector",
@@ -59997,7 +59996,6 @@
     "PerformanceAnalytics": [
         "xts"
     ],
-    "rebus": [],
     "GeneNet": [],
     "ggmcmc": [
         "dplyr",
