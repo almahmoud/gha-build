@@ -52603,7 +52603,6 @@
         "hgu133plus2.db",
         "ROCR",
         "AnnotationDbi",
-        "LungCancerACvsSCCGEO",
         "BiocGenerics",
         "Biobase",
         "affyio",
@@ -122661,7 +122660,6 @@
         "class"
     ],
     "parmigene": [],
-    "LungCancerACvsSCCGEO": [],
     "venn": [],
     "PairedData": [
         "gld",
