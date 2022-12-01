@@ -4878,7 +4878,6 @@
         "KEGGREST",
         "emdbook",
         "RcppNumerical",
-        "mixsqp",
         "progress",
         "BiocFileCache",
         "geneplotter",
@@ -7409,7 +7408,6 @@
         "SummarizedExperiment",
         "ashr",
         "dplyr",
-        "mixsqp",
         "tibble",
         "tidyselect",
         "pillar",
@@ -7803,7 +7801,6 @@
         "KEGGREST",
         "emdbook",
         "RcppNumerical",
-        "mixsqp",
         "dplyr",
         "GO.db",
         "GOSemSim",
@@ -8490,7 +8487,6 @@
         "GreyListChIP",
         "emdbook",
         "RcppNumerical",
-        "mixsqp",
         "geneplotter",
         "tibble",
         "tidyselect",
@@ -34485,7 +34481,6 @@
         "RSQLite",
         "emdbook",
         "RcppNumerical",
-        "mixsqp",
         "progress",
         "BiocFileCache",
         "tibble",
@@ -37063,10 +37058,7 @@
         "tibble",
         "tidyselect"
     ],
-    "ashr": [
-        "mixsqp"
-    ],
-    "mixsqp": [],
+    "ashr": [],
     "ChIPXpressData": [],
     "shinyhelper": [
         "shiny",
