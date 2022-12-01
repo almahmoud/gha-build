@@ -7953,7 +7953,6 @@
         "viridis",
         "tidyselect",
         "pillar",
-        "rsparse",
         "lexicon",
         "textclean",
         "syuzhet",
@@ -12561,7 +12560,6 @@
         "tibble",
         "tidyr",
         "viridis",
-        "rsparse",
         "lexicon",
         "textclean",
         "tidyselect",
@@ -33422,7 +33420,6 @@
         "viridis",
         "tensorflow",
         "tfruns",
-        "rsparse",
         "lexicon",
         "textclean",
         "tidyselect",
@@ -33745,7 +33742,6 @@
         "text2vec",
         "textstem",
         "rvest",
-        "rsparse",
         "lexicon",
         "textclean",
         "progress",
@@ -37277,9 +37273,7 @@
         "tidyselect",
         "pillar"
     ],
-    "text2vec": [
-        "rsparse"
-    ],
+    "text2vec": [],
     "textstem": [
         "dplyr",
         "lexicon",
@@ -37290,7 +37284,6 @@
         "syuzhet",
         "tidyr"
     ],
-    "rsparse": [],
     "lexicon": [
         "syuzhet",
         "dplyr",
