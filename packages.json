@@ -525,7 +525,6 @@
     "CiteFuse": [
         "propr"
     ],
-    "cleanUpdTSeq": [],
     "clipper": [
         "qpgraph"
     ],
@@ -1506,9 +1505,7 @@
     "INDEED": [
         "devtools"
     ],
-    "InPAS": [
-        "cleanUpdTSeq"
-    ],
+    "InPAS": [],
     "INSPEcT": [
         "TxDb.Mmusculus.UCSC.mm9.knownGene"
     ],
