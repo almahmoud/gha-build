@@ -2569,7 +2569,6 @@
         "graphite",
         "org.Hs.eg.db",
         "shadowtext",
-        "TFisher",
         "Linnorm",
         "tidyr",
         "broom",
@@ -3204,7 +3203,6 @@
         "GO.db",
         "annotate",
         "GSEABase",
-        "TFisher",
         "hgu133plus2.db",
         "hgu133a.db",
         "tidyr"
@@ -6129,8 +6127,7 @@
     "MetaVolcanoR": [
         "tidyr",
         "plotly",
-        "metap",
-        "TFisher"
+        "metap"
     ],
     "MethCP": [
         "bsseq",
@@ -7129,8 +7126,7 @@
     "multiGSEA": [
         "graphite",
         "fgsea",
-        "metap",
-        "TFisher"
+        "metap"
     ],
     "multiHiCcompare": [
         "HiCcompare"
@@ -7164,7 +7160,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "TFisher",
         "reactome.db",
         "graphite",
         "ggfun",
@@ -7293,7 +7288,6 @@
         "ChIPpeakAnno",
         "GenomicScores",
         "motifStack",
-        "TFisher",
         "GenomicFeatures",
         "Gviz",
         "ensembldb",
@@ -7915,7 +7909,6 @@
         "qvalue",
         "tidyr",
         "annotate",
-        "TFisher",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -9528,7 +9521,6 @@
         "metap",
         "pbkrtest",
         "lme4",
-        "TFisher",
         "plotly",
         "MultiAssayExperiment",
         "MultiDataSet",
@@ -10345,7 +10337,6 @@
         "treeio",
         "annotate",
         "hgu95a.db",
-        "TFisher",
         "ggrastr",
         "M3Drop",
         "scattermore",
@@ -12569,10 +12560,7 @@
         "testthat",
         "waldo"
     ],
-    "metap": [
-        "TFisher"
-    ],
-    "TFisher": [],
+    "metap": [],
     "DMwR2": [
         "readr"
     ],
