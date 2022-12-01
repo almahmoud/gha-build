@@ -3400,7 +3400,6 @@
         "textclean"
     ],
     "VanillaICE": [],
-    "VarCon": [],
     "variancePartition": [
         "pbkrtest",
         "lmerTest",
