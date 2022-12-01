@@ -65,7 +65,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "BaalChIP": [],
     "BayesSpace": [
         "scater"
     ],
