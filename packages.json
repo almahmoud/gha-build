@@ -117,9 +117,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "cageminer": [],
     "CancerInSilico": [],
     "CATALYST": [
@@ -350,9 +348,7 @@
         "BiocCheck",
         "BiocVersion"
     ],
-    "extraChIPs": [
-        "GenomicInteractions"
-    ],
+    "extraChIPs": [],
     "ffpe": [
         "lumi"
     ],
@@ -389,7 +385,6 @@
     ],
     "GeneGeneInteR": [],
     "GeneStructureTools": [],
-    "GenomicInteractions": [],
     "GenomicOZone": [],
     "GenomicScores": [
         "AnnotationHub",
@@ -423,16 +418,13 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
     "HiCDOC": [
         "ggpubr",
         "rstatix"
     ],
     "HiContacts": [
         "HiContactsData",
-        "GenomicInteractions",
         "ExperimentHub",
         "AnnotationHub",
         "BiocVersion"
@@ -941,9 +933,7 @@
     "spatialHeatmap": [
         "scater"
     ],
-    "spatzie": [
-        "GenomicInteractions"
-    ],
+    "spatzie": [],
     "splatter": [
         "scater"
     ],
