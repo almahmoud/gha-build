@@ -1523,7 +1523,6 @@
         "enrichplot",
         "ggtree"
     ],
-    "goSTAG": [],
     "GOstats": [],
     "GRaNIE": [
         "DESeq2"
