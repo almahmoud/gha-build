@@ -33057,9 +33057,7 @@
     "RUVcorr": [
         "BiocParallel"
     ],
-    "RUVnormalize": [
-        "RUVnormalizeData"
-    ],
+    "RUVnormalize": [],
     "RUVSeq": [
         "EDASeq",
         "ShortRead",
@@ -46980,7 +46978,6 @@
         "bslib",
         "pillar"
     ],
-    "RUVnormalizeData": [],
     "GENLIB": [
         "kinship2"
     ],
