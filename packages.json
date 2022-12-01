@@ -10107,7 +10107,6 @@
         "shiny",
         "viridis"
     ],
-    "hierGWAS": [],
     "HilbertCurve": [],
     "HiLDA": [
         "ggplot2",
