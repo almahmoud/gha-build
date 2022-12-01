@@ -4516,7 +4516,6 @@
         "annotate",
         "dbplyr"
     ],
-    "diggit": [],
     "Dino": [
         "SingleCellExperiment",
         "Seurat",
