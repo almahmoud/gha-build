@@ -9310,7 +9310,6 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "TCseq": [],
     "TDARACNE": [
         "GenKern"
     ],
