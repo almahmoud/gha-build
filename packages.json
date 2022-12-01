@@ -1356,9 +1356,7 @@
         "pbkrtest",
         "lme4"
     ],
-    "ISAnalytics": [
-        "datamods"
-    ],
+    "ISAnalytics": [],
     "iSEEhub": [
         "ExperimentHub",
         "AnnotationHub",
@@ -3227,7 +3225,6 @@
         "BiocVersion"
     ],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
-    "datamods": [],
     "glmmTMB": [
         "lme4"
     ],
