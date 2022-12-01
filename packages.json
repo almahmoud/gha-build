@@ -782,8 +782,7 @@
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene"
     ],
     "consensusOV": [
-        "GSVA",
-        "genefu"
+        "GSVA"
     ],
     "consICA": [],
     "contiBAIT": [
@@ -1595,7 +1594,6 @@
     "geneAttribution": [
         "GenomicFeatures"
     ],
-    "genefu": [],
     "GeneGeneInteR": [
         "FactoMineR",
         "car",
@@ -3002,7 +3000,6 @@
     ],
     "PDATK": [
         "survminer",
-        "genefu",
         "ggpubr",
         "rstatix",
         "car",
@@ -3820,7 +3817,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "survminer",
-        "genefu",
         "GenomicFeatures",
         "ggpubr",
         "rstatix",
