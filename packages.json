@@ -2063,7 +2063,6 @@
     ],
     "M3Drop": [],
     "m6Aboost": [
-        "adabag",
         "ExperimentHub",
         "AnnotationHub",
         "BiocVersion"
@@ -4529,7 +4528,6 @@
         "GenomicFeatures"
     ],
     "datamods": [],
-    "adabag": [],
     "glmmTMB": [
         "lme4",
         "nloptr"
