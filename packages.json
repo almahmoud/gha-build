@@ -12764,7 +12764,6 @@
     "PECA": [
         "genefilter",
         "aroma.affymetrix",
-        "aroma.core",
         "AnnotationDbi",
         "annotate"
     ],
@@ -18045,7 +18044,6 @@
     "TIN": [
         "aroma.affymetrix",
         "WGCNA",
-        "aroma.core",
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
@@ -21097,10 +21095,7 @@
         "viridis",
         "ggplot2"
     ],
-    "aroma.affymetrix": [
-        "aroma.core"
-    ],
-    "aroma.core": [],
+    "aroma.affymetrix": [],
     "osfr": [],
     "tidybayes": [
         "ggdist",
