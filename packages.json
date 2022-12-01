@@ -294,9 +294,7 @@
     "ChIPexoQual": [
         "biovizBase"
     ],
-    "ChIPQC": [
-        "DiffBind"
-    ],
+    "ChIPQC": [],
     "ChIPseeker": [],
     "ChromSCape": [
         "scater"
@@ -504,7 +502,6 @@
         "car",
         "pbkrtest"
     ],
-    "DiffBind": [],
     "diffcyt": [
         "FlowSOM",
         "ggpubr",
@@ -2074,9 +2071,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "vulcan": [
-        "DiffBind"
-    ],
+    "vulcan": [],
     "waddR": [
         "arm"
     ],
