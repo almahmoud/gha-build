@@ -648,7 +648,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "debCAM": [],
     "debrowser": [
         "clusterProfiler",
         "enrichplot"
