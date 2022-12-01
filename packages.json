@@ -200,7 +200,6 @@
         "GOstats",
         "Category"
     ],
-    "AUCell": [],
     "BaalChIP": [
         "doBy",
         "pbkrtest",
@@ -3368,9 +3367,7 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "GenomicFeatures"
     ],
-    "RcisTarget": [
-        "AUCell"
-    ],
+    "RcisTarget": [],
     "Rcpi": [],
     "Rcwl": [],
     "RcwlPipelines": [
