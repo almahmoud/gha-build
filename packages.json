@@ -11265,7 +11265,6 @@
         "scMerge",
         "scran",
         "Seurat",
-        "SingleR",
         "SoupX",
         "sva",
         "celda",
@@ -11323,7 +11322,6 @@
         "VariantAnnotation",
         "BiocFileCache"
     ],
-    "SingleR": [],
     "singscore": [
         "GSEABase",
         "plotly",
