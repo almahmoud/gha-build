@@ -920,7 +920,6 @@
         "GSVA",
         "genefu"
     ],
-    "consensusSeekeR": [],
     "consICA": [],
     "contiBAIT": [
         "GenomicFiles",
@@ -4084,9 +4083,7 @@
         "ensembldb",
         "EnsDb.Hsapiens.v86"
     ],
-    "RJMCMCNucleosomes": [
-        "consensusSeekeR"
-    ],
+    "RJMCMCNucleosomes": [],
     "RLSeq": [
         "regioneR",
         "valr",
