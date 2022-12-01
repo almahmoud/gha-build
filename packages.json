@@ -6109,7 +6109,6 @@
         "heatmaply",
         "NBPSeq",
         "qvalue",
-        "rmdformats",
         "rtracklayer",
         "survcomp",
         "BiocFileCache",
@@ -12840,7 +12839,6 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "rmdformats": [],
     "sesameData": [
         "ExperimentHub",
         "AnnotationHub",
