@@ -4252,7 +4252,6 @@
     "biodb": [
         "BiocFileCache",
         "RSQLite",
-        "chk",
         "openssl",
         "progress",
         "testthat",
@@ -4274,7 +4273,6 @@
         "biodb",
         "BiocFileCache",
         "RSQLite",
-        "chk",
         "openssl",
         "progress",
         "testthat",
@@ -4294,7 +4292,6 @@
     ],
     "biodbExpasy": [
         "biodb",
-        "chk",
         "BiocFileCache",
         "RSQLite",
         "openssl",
@@ -4319,7 +4316,6 @@
         "testthat",
         "BiocFileCache",
         "RSQLite",
-        "chk",
         "openssl",
         "progress",
         "pkgload",
@@ -4338,7 +4334,6 @@
     ],
     "biodbKegg": [
         "biodb",
-        "chk",
         "BiocFileCache",
         "RSQLite",
         "openssl",
@@ -4362,7 +4357,6 @@
         "biodb",
         "BiocFileCache",
         "RSQLite",
-        "chk",
         "openssl",
         "progress",
         "testthat",
@@ -4382,7 +4376,6 @@
     ],
     "biodbMirbase": [
         "biodb",
-        "chk",
         "BiocFileCache",
         "RSQLite",
         "openssl",
@@ -4404,7 +4397,6 @@
     ],
     "biodbNcbi": [
         "biodb",
-        "chk",
         "BiocFileCache",
         "RSQLite",
         "openssl",
@@ -4426,7 +4418,6 @@
     ],
     "biodbNci": [
         "biodb",
-        "chk",
         "testthat",
         "BiocFileCache",
         "RSQLite",
@@ -4450,7 +4441,6 @@
         "biodb",
         "BiocFileCache",
         "RSQLite",
-        "chk",
         "openssl",
         "progress",
         "testthat",
@@ -38324,7 +38314,6 @@
         "VennDiagram",
         "BiocFileCache",
         "RSQLite",
-        "chk",
         "openssl",
         "progress",
         "testthat",
@@ -59943,7 +59932,6 @@
     "credentials": [
         "openssl"
     ],
-    "chk": [],
     "rms": [
         "Hmisc",
         "survival",
