@@ -8943,7 +8943,6 @@
         "vroom",
         "dbplyr"
     ],
-    "miRmine": [],
     "miRNAmeConverter": [
         "miRBaseVersions.db",
         "AnnotationDbi"
