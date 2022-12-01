@@ -856,7 +856,6 @@
         "IVAS",
         "Rsamtools",
         "biomaRt",
-        "DRaWR",
         "Gviz",
         "dplyr",
         "fgsea",
@@ -27224,7 +27223,6 @@
         "ggplot2",
         "tibble"
     ],
-    "DRaWR": [],
     "mGSZ": [],
     "ggfortify": [
         "ggplot2",
