@@ -3800,7 +3800,6 @@
         "survminer",
         "piano",
         "genefu",
-        "verification",
         "ggpubr",
         "rstatix",
         "car",
@@ -6086,7 +6085,6 @@
     ],
     "biomartr": [],
     "tfprobability": [],
-    "verification": [],
     "tidybayes": [],
     "phastCons100way.UCSC.hg38": [
         "GenomicScores",
