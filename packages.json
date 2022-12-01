@@ -38875,8 +38875,7 @@
     ],
     "seqCNA": [
         "GLAD",
-        "adehabitatLT",
-        "adehabitatMA"
+        "adehabitatLT"
     ],
     "seqcombo": [
         "ggplot2",
@@ -52630,10 +52629,7 @@
         "tweenr"
     ],
     "cvTools": [],
-    "adehabitatLT": [
-        "adehabitatMA"
-    ],
-    "adehabitatMA": [],
+    "adehabitatLT": [],
     "rbokeh": [
         "htmlwidgets",
         "gistr",
