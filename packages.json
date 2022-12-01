@@ -460,7 +460,6 @@
         "BiocVersion",
         "ExperimentHub"
     ],
-    "RNASeqR": [],
     "scanMiRApp": [
         "AnnotationHub",
         "BiocVersion"
