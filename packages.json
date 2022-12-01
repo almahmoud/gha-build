@@ -1441,7 +1441,6 @@
         "SummarizedExperiment",
         "tidyr",
         "assertive.datetimes",
-        "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
         "dbplyr",
@@ -19267,7 +19266,6 @@
         "tidyr",
         "tidyselect",
         "assertive.datetimes",
-        "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
         "Rsamtools",
@@ -33826,12 +33824,10 @@
     "mixtools": [],
     "assertive": [
         "assertive.datetimes",
-        "assertive.data",
         "assertive.data.uk",
         "assertive.data.us"
     ],
     "assertive.datetimes": [],
-    "assertive.data": [],
     "assertive.data.uk": [],
     "assertive.data.us": [],
     "doBy": [
