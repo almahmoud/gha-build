@@ -49,7 +49,6 @@
         "BiocVersion"
     ],
     "appreci8R": [
-        "Homo.sapiens",
         "MafDb.1Kgenomes.phase3.hs37d5",
         "MafDb.ExAC.r1.0.hs37d5",
         "MafDb.gnomADex.r2.1.hs37d5",
@@ -76,8 +75,7 @@
         "Gviz"
     ],
     "ATACCoGAPS": [
-        "rGREAT",
-        "Homo.sapiens"
+        "rGREAT"
     ],
     "ATACseqQC": [
         "GenomicScores",
@@ -140,7 +138,6 @@
     ],
     "biscuiteer": [
         "biscuiteerData",
-        "Homo.sapiens",
         "dmrseq",
         "ExperimentHub",
         "AnnotationHub",
@@ -516,7 +513,6 @@
         "BiocVersion"
     ],
     "epimutacions": [
-        "Homo.sapiens",
         "Gviz",
         "AnnotationHub",
         "ExperimentHub",
@@ -528,7 +524,6 @@
     ],
     "epivizrStandalone": [],
     "erma": [
-        "Homo.sapiens",
         "GenomicFiles"
     ],
     "esATAC": [],
@@ -692,9 +687,7 @@
         "ExperimentHub",
         "BiocVersion"
     ],
-    "GSReg": [
-        "Homo.sapiens"
-    ],
+    "GSReg": [],
     "GUIDEseq": [],
     "Gviz": [],
     "gwascat": [
@@ -862,7 +855,6 @@
     ],
     "MBECS": [],
     "mCSEA": [
-        "Homo.sapiens",
         "Gviz"
     ],
     "MEAL": [
@@ -1693,8 +1685,7 @@
     ],
     "UMI4Cats": [],
     "uncoverappLib": [
-        "Gviz",
-        "Homo.sapiens"
+        "Gviz"
     ],
     "Uniquorn": [],
     "VAExprs": [
@@ -1768,7 +1759,6 @@
         "ExperimentHub",
         "BiocVersion"
     ],
-    "Homo.sapiens": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [
         "GenomicScores",
         "AnnotationHub",
