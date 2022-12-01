@@ -2766,7 +2766,6 @@
         "EnsDb.Hsapiens.v86"
     ],
     "RLSeq": [
-        "caretEnsemble",
         "AnnotationHub",
         "RLHub",
         "BiocVersion",
@@ -3847,7 +3846,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "caretEnsemble": [],
     "RLHub": [
         "AnnotationHub",
         "ExperimentHub",
