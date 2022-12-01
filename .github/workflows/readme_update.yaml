@@ -1,7 +1,7 @@
 name: Repopulate README
 on:
   workflow_dispatch: {}
-  # push: {}
+  push: {}
 
 jobs:
   readme:
