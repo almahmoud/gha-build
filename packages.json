@@ -1540,7 +1540,6 @@
         "rtracklayer",
         "ggforce",
         "Gviz",
-        "tweenr",
         "biomaRt",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -1626,7 +1625,6 @@
         "progress",
         "ggfun",
         "ggplotify",
-        "tweenr",
         "tidytree",
         "treeio",
         "nloptr",
@@ -2199,7 +2197,6 @@
         "ensembldb",
         "AnnotationDbi",
         "AnnotationFilter",
-        "tweenr",
         "RSQLite",
         "KEGGREST",
         "biomaRt",
@@ -2684,7 +2681,6 @@
         "ggrastr",
         "pbkrtest",
         "lme4",
-        "tweenr",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -3038,8 +3034,7 @@
         "ggforce",
         "tidygraph",
         "tidytree",
-        "treeio",
-        "tweenr"
+        "treeio"
     ],
     "censcyt": [
         "diffcyt",
@@ -3060,7 +3055,6 @@
         "ggnewscale",
         "ggpubr",
         "testthat",
-        "tweenr",
         "ggrepel",
         "ggsci",
         "cowplot",
@@ -3093,8 +3087,7 @@
         "tidyr",
         "ggforce",
         "ggrepel",
-        "viridis",
-        "tweenr"
+        "viridis"
     ],
     "CeTF": [
         "clusterProfiler",
@@ -3153,7 +3146,6 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "tweenr",
         "nloptr",
         "testthat",
         "waldo",
@@ -3493,8 +3485,7 @@
         "treeio",
         "GO.db",
         "dbplyr",
-        "cowplot",
-        "tweenr"
+        "cowplot"
     ],
     "chipseq": [
         "ShortRead",
@@ -3683,8 +3674,7 @@
         "tibble",
         "ggforce",
         "ggrepel",
-        "viridis",
-        "tweenr"
+        "viridis"
     ],
     "CINdex": [
         "dplyr",
@@ -3761,7 +3751,6 @@
         "scuttle",
         "BiocSingular",
         "bluster",
-        "tweenr",
         "tidyr"
     ],
     "ClassifyR": [
@@ -3896,8 +3885,7 @@
         "viridis",
         "tidygraph",
         "tidytree",
-        "treeio",
-        "tweenr"
+        "treeio"
     ],
     "clusterSeq": [
         "baySeq"
@@ -4413,7 +4401,6 @@
         "tidytree",
         "treeio",
         "broom",
-        "tweenr",
         "nloptr",
         "testthat",
         "waldo",
@@ -5194,7 +5181,6 @@
         "nloptr",
         "viridis",
         "car",
-        "tweenr",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -5458,7 +5444,6 @@
         "rvest",
         "RSQLite",
         "KEGGREST",
-        "tweenr",
         "cellranger",
         "rematch2",
         "ggdendro",
@@ -5560,8 +5545,7 @@
         "ggrepel",
         "tidygraph",
         "tidytree",
-        "treeio",
-        "tweenr"
+        "treeio"
     ],
     "DECIPHER": [
         "RSQLite"
@@ -6058,7 +6042,6 @@
         "ggplot2",
         "ggpubr",
         "nloptr",
-        "tweenr",
         "ggrepel",
         "ggsci",
         "cowplot",
@@ -6511,7 +6494,6 @@
         "tidyr",
         "gganimate",
         "tibble",
-        "tweenr",
         "progress"
     ],
     "easier": [
@@ -6591,8 +6573,7 @@
         "viridis",
         "tidygraph",
         "tidytree",
-        "treeio",
-        "tweenr"
+        "treeio"
     ],
     "easyreporting": [
         "rmarkdown",
@@ -6712,8 +6693,7 @@
         "viridis",
         "tidygraph",
         "tidytree",
-        "treeio",
-        "tweenr"
+        "treeio"
     ],
     "EGAD": [
         "GEOquery",
@@ -6924,8 +6904,7 @@
         "GO.db",
         "RSQLite",
         "KEGGREST",
-        "cowplot",
-        "tweenr"
+        "cowplot"
     ],
     "enrichTF": [
         "pipeFrame",
@@ -6981,7 +6960,6 @@
         "tidytree",
         "treeio",
         "vroom",
-        "tweenr",
         "nloptr",
         "progress",
         "testthat",
@@ -7079,8 +7057,7 @@
         "tidytree",
         "treeio",
         "GO.db",
-        "cowplot",
-        "tweenr"
+        "cowplot"
     ],
     "epidecodeR": [
         "EnvStats",
@@ -7182,7 +7159,6 @@
         "ggplotify",
         "patchwork",
         "cowplot",
-        "tweenr",
         "tidytree",
         "treeio"
     ],
@@ -7483,8 +7459,7 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "vroom",
-        "tweenr"
+        "vroom"
     ],
     "escape": [
         "dplyr",
@@ -7723,7 +7698,6 @@
         "rtracklayer",
         "tidyr",
         "patchwork",
-        "tweenr",
         "biomaRt",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -7812,8 +7786,7 @@
         "viridis",
         "tidygraph",
         "tidytree",
-        "treeio",
-        "tweenr"
+        "treeio"
     ],
     "fastLiquidAssociation": [
         "LiquidAssociation",
@@ -7904,8 +7877,7 @@
         "viridis",
         "tidygraph",
         "tidytree",
-        "treeio",
-        "tweenr"
+        "treeio"
     ],
     "fcScan": [
         "VariantAnnotation",
@@ -8184,7 +8156,6 @@
         "ggpubr",
         "tidyr",
         "tibble",
-        "tweenr",
         "ggrepel",
         "ggsci",
         "cowplot",
@@ -8263,7 +8234,6 @@
         "ipred",
         "lexicon",
         "progress",
-        "tweenr",
         "prodlim",
         "syuzhet",
         "lava"
@@ -8596,7 +8566,6 @@
         "car",
         "pbkrtest",
         "lme4",
-        "tweenr",
         "nloptr",
         "testthat",
         "waldo",
@@ -8813,7 +8782,6 @@
         "patchwork",
         "geneplotter",
         "tibble",
-        "tweenr",
         "annotate"
     ],
     "geneXtendeR": [
@@ -9293,7 +9261,6 @@
         "patchwork",
         "tibble",
         "plotly",
-        "tweenr",
         "tidytree",
         "treeio"
     ],
@@ -9635,8 +9602,7 @@
         "viridis",
         "tidygraph",
         "tidytree",
-        "treeio",
-        "tweenr"
+        "treeio"
     ],
     "goSTAG": [
         "AnnotationDbi",
@@ -10408,7 +10374,6 @@
         "rmarkdown",
         "shiny",
         "tibble",
-        "tweenr",
         "rvest",
         "babelgene"
     ],
@@ -10681,8 +10646,7 @@
         "tidyr",
         "progress",
         "dbplyr",
-        "RSQLite",
-        "tweenr"
+        "RSQLite"
     ],
     "IMMAN": [
         "STRINGdb",
@@ -11061,7 +11025,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "tweenr",
         "broom",
         "car",
         "ggfun",
@@ -11637,7 +11600,6 @@
         "dbplyr",
         "RSQLite",
         "scuttle",
-        "tweenr",
         "nloptr",
         "testthat",
         "waldo",
@@ -11987,7 +11949,6 @@
         "tidytree",
         "treeio",
         "dbplyr",
-        "tweenr",
         "shiny"
     ],
     "MAI": [
@@ -12494,8 +12455,7 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "shiny",
-        "tweenr"
+        "shiny"
     ],
     "meshr": [
         "rmarkdown",
@@ -12622,7 +12582,6 @@
         "ggnewscale",
         "ggpubr",
         "tibble",
-        "tweenr",
         "ggrepel",
         "ggsci",
         "cowplot",
@@ -12727,8 +12686,7 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "lava",
-        "tweenr"
+        "lava"
     ],
     "metapone": [
         "fields",
@@ -13088,7 +13046,6 @@
         "treeio",
         "progress",
         "BiocFileCache",
-        "tweenr",
         "vroom",
         "Rsamtools",
         "GenomicAlignments",
@@ -13314,8 +13271,7 @@
         "ggrastr",
         "ggplotify",
         "patchwork",
-        "RSQLite",
-        "tweenr"
+        "RSQLite"
     ],
     "microbiome": [
         "phyloseq",
@@ -13464,8 +13420,7 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "cowplot",
-        "tweenr"
+        "cowplot"
     ],
     "MicrobiotaProcess": [
         "tidyr",
@@ -13536,8 +13491,7 @@
         "ggbeeswarm",
         "ggforce",
         "viridis",
-        "tidygraph",
-        "tweenr"
+        "tidygraph"
     ],
     "mimager": [
         "affyPLM",
@@ -13798,7 +13752,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "tweenr",
         "tidytree",
         "treeio",
         "cellranger",
@@ -13879,7 +13832,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "tweenr",
         "tidytree",
         "treeio",
         "cellranger",
@@ -14214,8 +14166,7 @@
         "viridis",
         "tidygraph",
         "tidytree",
-        "treeio",
-        "tweenr"
+        "treeio"
     ],
     "mosaics": [
         "GenomicAlignments",
@@ -14353,7 +14304,6 @@
         "ggrepel",
         "gghalves",
         "tibble",
-        "tweenr",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -14861,7 +14811,6 @@
         "plotly",
         "sn",
         "cowplot",
-        "tweenr",
         "prodlim",
         "waldo",
         "lava",
@@ -15356,8 +15305,7 @@
         "viridis",
         "tidygraph",
         "tidytree",
-        "treeio",
-        "tweenr"
+        "treeio"
     ],
     "netDx": [
         "ggplot2",
@@ -15577,7 +15525,6 @@
         "ggforce",
         "pbkrtest",
         "lme4",
-        "tweenr",
         "tibble",
         "Hmisc",
         "haven",
@@ -16405,8 +16352,7 @@
         "viridis",
         "tidygraph",
         "tidytree",
-        "treeio",
-        "tweenr"
+        "treeio"
     ],
     "PanViz": [
         "tidyr",
@@ -16440,7 +16386,6 @@
         "RSQLite",
         "KEGGREST",
         "cowplot",
-        "tweenr",
         "GO.db",
         "waldo",
         "rematch2"
@@ -16706,8 +16651,7 @@
         "viridis",
         "tidygraph",
         "tidytree",
-        "treeio",
-        "tweenr"
+        "treeio"
     ],
     "phantasus": [
         "ggplot2",
@@ -16969,7 +16913,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "tweenr",
         "tidytree",
         "treeio"
     ],
@@ -17470,8 +17413,7 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "cowplot",
-        "tweenr"
+        "cowplot"
     ],
     "progeny": [
         "dplyr",
@@ -18428,7 +18370,6 @@
         "ggplotify",
         "patchwork",
         "cowplot",
-        "tweenr",
         "tidytree",
         "treeio",
         "GO.db"
@@ -19533,7 +19474,6 @@
         "treeio",
         "nloptr",
         "broom",
-        "tweenr",
         "testthat",
         "waldo",
         "rematch2"
@@ -20263,7 +20203,6 @@
         "ggrepel",
         "viridis",
         "tidygraph",
-        "tweenr",
         "annotate",
         "AnnotationDbi",
         "tidyr",
@@ -20397,7 +20336,6 @@
         "concaveman",
         "sf",
         "tibble",
-        "tweenr",
         "cowplot",
         "ggrepel",
         "ggridges",
@@ -20416,7 +20354,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "ggforce",
-        "tweenr",
         "tibble"
     ],
     "scifer": [
@@ -20663,8 +20600,7 @@
         "tidyr",
         "ggforce",
         "ggrepel",
-        "viridis",
-        "tweenr"
+        "viridis"
     ],
     "scruff": [
         "GenomicAlignments",
@@ -20762,7 +20698,6 @@
         "shadowtext",
         "ggtree",
         "cowplot",
-        "tweenr",
         "ggrepel",
         "tidygraph",
         "ggridges",
@@ -20804,7 +20739,6 @@
         "KEGGREST",
         "sf",
         "viridis",
-        "tweenr",
         "cowplot",
         "ggrepel",
         "ggridges",
@@ -20857,7 +20791,6 @@
         "rtracklayer",
         "Rsamtools",
         "biomaRt",
-        "tweenr",
         "tidyr",
         "KEGGREST",
         "progress",
@@ -20920,8 +20853,7 @@
         "treeio",
         "GO.db",
         "dbplyr",
-        "cowplot",
-        "tweenr"
+        "cowplot"
     ],
     "segmentSeq": [
         "baySeq",
@@ -21293,8 +21225,7 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "shiny",
-        "tweenr"
+        "shiny"
     ],
     "signeR": [
         "VariantAnnotation",
@@ -21952,7 +21883,6 @@
         "SummarizedExperiment",
         "tibble",
         "tidyr",
-        "tweenr",
         "vroom",
         "progress"
     ],
@@ -22149,7 +22079,6 @@
         "ggforce",
         "sf",
         "tibble",
-        "tweenr",
         "nloptr",
         "DropletUtils",
         "BiocFileCache",
@@ -22454,7 +22383,6 @@
         "SummarizedExperiment",
         "ggforce",
         "ggnewscale",
-        "tweenr",
         "ggrepel",
         "viridis",
         "tidygraph",
@@ -22480,7 +22408,6 @@
         "labelled",
         "dplyr",
         "tidyr",
-        "tweenr",
         "haven",
         "forcats",
         "readr",
@@ -22620,7 +22547,6 @@
         "ggforce",
         "ggfun",
         "tidyr",
-        "tweenr",
         "dplyr"
     ],
     "stJoincount": [
@@ -22914,7 +22840,6 @@
         "tibble",
         "car",
         "multcomp",
-        "tweenr",
         "sf",
         "sftime",
         "stars",
@@ -23267,7 +23192,6 @@
         "car",
         "pbkrtest",
         "lme4",
-        "tweenr",
         "lava",
         "nloptr",
         "testthat",
@@ -23575,8 +23499,7 @@
         "viridis",
         "tidygraph",
         "tidytree",
-        "treeio",
-        "tweenr"
+        "treeio"
     ],
     "TIN": [
         "aroma.affymetrix",
@@ -23948,7 +23871,6 @@
         "ggnewscale",
         "ggpubr",
         "testthat",
-        "tweenr",
         "ggrepel",
         "ggsci",
         "cowplot",
@@ -24598,7 +24520,6 @@
         "textstem",
         "tidygraph",
         "ggraph",
-        "tweenr",
         "tibble",
         "dplyr",
         "viridis",
@@ -25851,10 +25772,8 @@
     ],
     "ggforce": [
         "ggplot2",
-        "tweenr",
         "tibble"
     ],
-    "tweenr": [],
     "radiant.data": [
         "ggplot2",
         "tidyr",
@@ -25923,7 +25842,6 @@
         "viridis",
         "tidygraph",
         "tibble",
-        "tweenr",
         "tidyr"
     ],
     "aplot": [
@@ -25942,7 +25860,6 @@
         "ggforce",
         "ggfun",
         "tidyr",
-        "tweenr",
         "tibble",
         "dplyr"
     ],
@@ -26881,7 +26798,6 @@
     ],
     "gganimate": [
         "ggplot2",
-        "tweenr",
         "progress",
         "tibble"
     ],
@@ -28071,8 +27987,7 @@
         "ggrepel",
         "tibble",
         "ggforce",
-        "tidyr",
-        "tweenr"
+        "tidyr"
     ],
     "rbokeh": [
         "gistr",
@@ -28262,7 +28177,6 @@
         "labelled",
         "dplyr",
         "tidyr",
-        "tweenr",
         "haven",
         "forcats",
         "readr",
@@ -28278,7 +28192,6 @@
         "tibble",
         "ggforce",
         "labelled",
-        "tweenr",
         "haven",
         "dplyr",
         "tidyr",
