@@ -1437,7 +1437,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "meshr": [],
     "MetaboAnnotation": [],
     "MetaboSignal": [
         "hpar",
@@ -2379,7 +2378,6 @@
     ],
     "scTensor": [
         "AnnotationHub",
-        "meshr",
         "GOstats",
         "ReactomePA",
         "BiocVersion"
