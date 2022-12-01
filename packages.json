@@ -2134,7 +2134,6 @@
         "testthat",
         "waldo"
     ],
-    "EnhancedVolcano": [],
     "enhancerHomologSearch": [
         "BSgenome",
         "motifmatchr",
