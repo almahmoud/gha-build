@@ -11271,7 +11271,6 @@
         "AnnotationForge",
         "ggplot2",
         "viridis",
-        "mboost",
         "biomaRt",
         "rvest",
         "readr",
@@ -22516,10 +22515,7 @@
         "Rsamtools",
         "GenomicAlignments"
     ],
-    "InvariantCausalPrediction": [
-        "mboost"
-    ],
-    "mboost": [],
+    "InvariantCausalPrediction": [],
     "miRBaseVersions.db": [
         "AnnotationDbi",
         "RSQLite"
