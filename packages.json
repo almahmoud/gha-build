@@ -566,7 +566,6 @@
         "lumi",
         "methylumi"
     ],
-    "IMAS": [],
     "InTAD": [
         "ggpubr",
         "rstatix"
