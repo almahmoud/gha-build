@@ -3183,9 +3183,7 @@
     "POMA": [
         "DESeq2"
     ],
-    "ppcseq": [
-        "tidybayes"
-    ],
+    "ppcseq": [],
     "PPInfer": [],
     "preciseTAD": [
         "rCGH",
@@ -4904,7 +4902,6 @@
     ],
     "biomartr": [],
     "tfprobability": [],
-    "tidybayes": [],
     "phastCons100way.UCSC.hg38": [
         "GenomicScores",
         "AnnotationHub",
