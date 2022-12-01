@@ -10731,7 +10731,6 @@
         "caret",
         "tidyr",
         "ggnetwork",
-        "osfr",
         "readr",
         "recipes",
         "sna",
@@ -17156,7 +17155,6 @@
         "viridis"
     ],
     "aroma.affymetrix": [],
-    "osfr": [],
     "tidybayes": [
         "ggdist",
         "tidyr",
