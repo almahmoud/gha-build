@@ -351,9 +351,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "frenchFISH": [
-        "NHPoisson"
-    ],
+    "frenchFISH": [],
     "funtooNorm": [],
     "FuseSOM": [
         "ggpubr",
@@ -1095,7 +1093,6 @@
         "BiocVersion"
     ],
     "SPARQL": [],
-    "NHPoisson": [],
     "survminer": [
         "ggpubr",
         "rstatix"
