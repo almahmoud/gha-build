@@ -69,7 +69,6 @@
         "GenomicRanges",
         "XVector",
         "tibble",
-        "CGHcall",
         "Rsamtools",
         "future.apply",
         "Biostrings",
@@ -3164,7 +3163,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Mm.eg.db",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
-        "CGHcall",
         "future.apply",
         "hms",
         "tibble",
@@ -4848,7 +4846,6 @@
         "DelayedArray"
     ],
     "CGEN": [],
-    "CGHcall": [],
     "cghMCR": [
         "CNTools",
         "genefilter",
@@ -4860,9 +4857,7 @@
         "blob",
         "XVector"
     ],
-    "CGHnormaliter": [
-        "CGHcall"
-    ],
+    "CGHnormaliter": [],
     "ChAMP": [
         "minfi",
         "ChAMPdata",
@@ -12921,7 +12916,6 @@
     ],
     "GeneBreak": [
         "QDNAseq",
-        "CGHcall",
         "GenomicRanges",
         "XVector",
         "Rsamtools",
@@ -15098,7 +15092,6 @@
         "pillar",
         "XVector",
         "SummarizedExperiment",
-        "CGHcall",
         "Rsamtools",
         "future.apply",
         "Biostrings",
@@ -15176,7 +15169,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "CGHcall",
         "Rsamtools",
         "future.apply",
         "nloptr",
@@ -21891,7 +21883,6 @@
         "InteractionSet",
         "QDNAseq",
         "SummarizedExperiment",
-        "CGHcall",
         "Rsamtools",
         "future.apply",
         "Biostrings",
@@ -26490,7 +26481,6 @@
     ],
     "qcmetrics": [],
     "QDNAseq": [
-        "CGHcall",
         "GenomicRanges",
         "Rsamtools",
         "future.apply",
@@ -32881,7 +32871,6 @@
         "InteractionSet",
         "QDNAseq",
         "SummarizedExperiment",
-        "CGHcall",
         "Rsamtools",
         "future.apply",
         "Biostrings",
@@ -34312,7 +34301,6 @@
         "QDNAseq",
         "XVector",
         "SummarizedExperiment",
-        "CGHcall",
         "Rsamtools",
         "future.apply",
         "broom",
