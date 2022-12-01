@@ -6483,7 +6483,6 @@
         "reldist",
         "densEstBayes"
     ],
-    "scMET": [],
     "scmeth": [
         "bsseq",
         "AnnotationHub",
