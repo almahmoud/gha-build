@@ -27,7 +27,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "adSplit": [],
     "AffiXcan": [],
     "affycoretools": [
         "GOstats",
