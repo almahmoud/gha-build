@@ -816,7 +816,6 @@
     ],
     "censcyt": [
         "diffcyt",
-        "broom.mixed",
         "lme4",
         "mice",
         "FlowSOM",
@@ -7118,7 +7117,6 @@
         "nloptr",
         "testthat"
     ],
-    "broom.mixed": [],
     "mice": [],
     "GenomicTools": [],
     "IlluminaHumanMethylationEPICmanifest": [
