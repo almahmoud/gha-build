@@ -2624,7 +2624,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "ToxicoGx": [],
     "trackViewer": [
         "Gviz",
         "biovizBase",
