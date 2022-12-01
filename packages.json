@@ -2349,7 +2349,6 @@
         "zinbwave",
         "phylobase",
         "mbkmeans",
-        "ClusterR",
         "benchmarkme",
         "RNeXML",
         "genefilter",
@@ -7463,7 +7462,6 @@
         "waldo"
     ],
     "mbkmeans": [
-        "ClusterR",
         "benchmarkme",
         "benchmarkmeData"
     ],
@@ -8701,7 +8699,6 @@
     "moanin": [
         "topGO",
         "viridis",
-        "ClusterR",
         "GO.db",
         "AnnotationDbi"
     ],
@@ -9550,7 +9547,6 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "ClusterR",
         "benchmarkme",
         "RNeXML",
         "genefilter",
@@ -16031,7 +16027,6 @@
         "RNeXML",
         "tidyr"
     ],
-    "ClusterR": [],
     "benchmarkme": [
         "benchmarkmeData"
     ],
