@@ -34,10 +34,8 @@
         "ggplot2",
         "Rsamtools"
     ],
-    "aCGH": [],
     "ADaCGH2": [
         "tilingArray",
-        "aCGH",
         "snapCGH",
         "vsn",
         "genefilter",
@@ -3870,9 +3868,7 @@
         "dplyr"
     ],
     "cqn": [],
-    "CRImage": [
-        "aCGH"
-    ],
+    "CRImage": [],
     "crisprBowtie": [
         "BSgenome",
         "readr",
@@ -14265,7 +14261,6 @@
         "org.Hs.eg.db",
         "GenomicFeatures",
         "AnnotationDbi",
-        "aCGH",
         "RSQLite",
         "rtracklayer",
         "biomaRt",
@@ -15125,7 +15120,6 @@
         "org.Hs.eg.db",
         "GenomicFeatures",
         "AnnotationDbi",
-        "aCGH",
         "RSQLite",
         "rtracklayer",
         "biomaRt",
@@ -17969,7 +17963,6 @@
         "dplyr"
     ],
     "snapCGH": [
-        "aCGH",
         "tilingArray",
         "vsn",
         "genefilter",
