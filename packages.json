@@ -286,7 +286,6 @@
         "ReactomePA",
         "enrichplot",
         "car",
-        "ggraph",
         "pbkrtest",
         "lme4",
         "ggtree",
@@ -557,7 +556,6 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "ggraph",
         "ggtree"
     ],
     "censcyt": [
@@ -571,9 +569,7 @@
         "pbkrtest"
     ],
     "Cepo": [],
-    "ceRNAnetsim": [
-        "ggraph"
-    ],
+    "ceRNAnetsim": [],
     "CeTF": [
         "clusterProfiler",
         "DESeq2",
@@ -582,7 +578,6 @@
         "DOSE",
         "enrichplot",
         "rstatix",
-        "ggraph",
         "ggtree",
         "car",
         "pbkrtest",
@@ -674,7 +669,6 @@
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "DOSE",
-        "ggraph",
         "ggtree"
     ],
     "ChIPsim": [],
@@ -696,9 +690,7 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "CIMICE": [
-        "ggraph"
-    ],
+    "CIMICE": [],
     "circRNAprofiler": [
         "DESeq2",
         "AnnotationHub",
@@ -714,8 +706,7 @@
         "SGSeq"
     ],
     "CiteFuse": [
-        "propr",
-        "ggraph"
+        "propr"
     ],
     "cleanUpdTSeq": [
         "BSgenome.Drerio.UCSC.danRer7"
@@ -733,7 +724,6 @@
     "clusterProfiler": [
         "DOSE",
         "enrichplot",
-        "ggraph",
         "ggtree"
     ],
     "CNORfuzzy": [
@@ -826,7 +816,6 @@
         "enrichplot",
         "FactoMineR",
         "ggpubr",
-        "ggraph",
         "ggtree",
         "car",
         "rstatix",
@@ -1051,7 +1040,6 @@
     ],
     "dce": [
         "tidyverse",
-        "ggraph",
         "epiNEM",
         "mnem"
     ],
@@ -1069,7 +1057,6 @@
         "clusterProfiler",
         "sva",
         "enrichplot",
-        "ggraph",
         "ggtree"
     ],
     "DEComplexDisease": [
@@ -1280,7 +1267,6 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "ggraph",
         "ggtree"
     ],
     "easyRNASeq": [],
@@ -1305,7 +1291,6 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "ggraph",
         "ggtree"
     ],
     "EGAD": [
@@ -1345,7 +1330,6 @@
     "EnrichmentBrowser": [],
     "enrichplot": [
         "DOSE",
-        "ggraph",
         "ggtree"
     ],
     "enrichTF": [
@@ -1357,7 +1341,6 @@
         "DOSE",
         "enrichplot",
         "rstatix",
-        "ggraph",
         "ggtree",
         "car",
         "pbkrtest",
@@ -1382,7 +1365,6 @@
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "DOSE",
-        "ggraph",
         "ggtree"
     ],
     "epidecodeR": [
@@ -1407,7 +1389,6 @@
         "ReactomePA",
         "DOSE",
         "enrichplot",
-        "ggraph",
         "ggtree"
     ],
     "EpiMix": [
@@ -1494,7 +1475,6 @@
         "enrichplot",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "DOSE",
-        "ggraph",
         "ggtree"
     ],
     "escape": [
@@ -1556,7 +1536,6 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "ggraph",
         "ggtree"
     ],
     "fastLiquidAssociation": [],
@@ -1568,7 +1547,6 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "ggraph",
         "ggtree"
     ],
     "fcScan": [
@@ -1640,7 +1618,6 @@
         "fda"
     ],
     "fobitools": [
-        "ggraph",
         "textclean",
         "lexicon"
     ],
@@ -1713,7 +1690,6 @@
         "survminer",
         "enrichplot",
         "ggpubr",
-        "ggraph",
         "ggtree",
         "rstatix",
         "car",
@@ -1903,7 +1879,6 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "ggraph",
         "ggtree"
     ],
     "goSTAG": [],
@@ -2079,8 +2054,7 @@
         "nloptr"
     ],
     "imcRtools": [
-        "cytomapper",
-        "ggraph"
+        "cytomapper"
     ],
     "INDEED": [
         "devtools"
@@ -2151,7 +2125,6 @@
     "IRISFGM": [
         "clusterProfiler",
         "ggpubr",
-        "ggraph",
         "scater",
         "DOSE",
         "enrichplot",
@@ -2345,7 +2318,6 @@
         "depmap",
         "ExperimentHub",
         "AnnotationHub",
-        "ggraph",
         "ggtree",
         "BiocVersion"
     ],
@@ -2443,7 +2415,6 @@
         "enrichplot",
         "AnnotationHub",
         "BiocVersion",
-        "ggraph",
         "ggtree"
     ],
     "meshr": [
@@ -2487,7 +2458,6 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "ggraph",
         "ggtree"
     ],
     "metaseqR2": [
@@ -2578,7 +2548,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
         "methylumi",
-        "ggraph",
         "ggtree",
         "FDb.InfiniumMethylation.hg19",
         "GenomicFeatures",
@@ -2625,7 +2594,6 @@
     "miaViz": [
         "TreeSummarizedExperiment",
         "mia",
-        "ggraph",
         "scater",
         "ggtree"
     ],
@@ -2651,7 +2619,6 @@
         "clusterProfiler",
         "enrichplot",
         "DOSE",
-        "ggraph",
         "ggtree"
     ],
     "MicrobiotaProcess": [
@@ -2663,9 +2630,7 @@
         "GOstats",
         "Category"
     ],
-    "miloR": [
-        "ggraph"
-    ],
+    "miloR": [],
     "mimager": [],
     "MIMOSA": [],
     "MineICA": [
@@ -2705,7 +2670,6 @@
         "ReactomePA",
         "DOSE",
         "enrichplot",
-        "ggraph",
         "tidyverse",
         "cvms",
         "ggpubr",
@@ -2722,7 +2686,6 @@
         "ReactomePA",
         "DOSE",
         "enrichplot",
-        "ggraph",
         "tidyverse",
         "cvms",
         "ggpubr",
@@ -2782,7 +2745,6 @@
         "TCGAbiolinks",
         "GEOquery",
         "enrichplot",
-        "ggraph",
         "ggtree"
     ],
     "mosbi": [],
@@ -2915,7 +2877,6 @@
         "enrichplot",
         "devtools",
         "DOSE",
-        "ggraph",
         "ggtree"
     ],
     "mumosa": [],
@@ -3024,7 +2985,6 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "ggraph",
         "ggtree"
     ],
     "netOmics": [
@@ -3234,12 +3194,10 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "ggraph",
         "ggtree"
     ],
     "pareg": [
         "tfprobability",
-        "ggraph",
         "nloptr",
         "DOSE"
     ],
@@ -3274,7 +3232,6 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "ggraph",
         "ggtree"
     ],
     "phantasus": [
@@ -3322,7 +3279,6 @@
         "ReactomePA",
         "DOSE",
         "enrichplot",
-        "ggraph",
         "ggtree"
     ],
     "PING": [
@@ -3416,7 +3372,6 @@
         "rGREAT",
         "enrichplot",
         "DOSE",
-        "ggraph",
         "ggtree"
     ],
     "progeny": [],
@@ -3598,7 +3553,6 @@
     "ReactomePA": [
         "DOSE",
         "enrichplot",
-        "ggraph",
         "ggtree"
     ],
     "recount": [
@@ -3846,7 +3800,6 @@
         "car",
         "pbkrtest",
         "lme4",
-        "ggraph",
         "ggtree",
         "rstatix",
         "nloptr"
@@ -3966,7 +3919,6 @@
     ],
     "scCB2": [],
     "scClassify": [
-        "ggraph",
         "Cepo"
     ],
     "sccomp": [],
@@ -4024,9 +3976,7 @@
     "scRecover": [
         "Rmagic"
     ],
-    "scRepertoire": [
-        "ggraph"
-    ],
+    "scRepertoire": [],
     "scruff": [
         "GenomicFeatures",
         "ggbio",
@@ -4045,7 +3995,6 @@
         "schex",
         "BiocVersion",
         "enrichplot",
-        "ggraph",
         "ggtree"
     ],
     "scTGIF": [
@@ -4055,7 +4004,6 @@
         "epivizr",
         "clustree",
         "epivizrData",
-        "ggraph",
         "scater",
         "bumphunter",
         "OrganismDbi",
@@ -4068,7 +4016,6 @@
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "DOSE",
-        "ggraph",
         "ggtree"
     ],
     "segmentSeq": [],
@@ -4133,7 +4080,6 @@
         "enrichplot",
         "AnnotationHub",
         "BiocVersion",
-        "ggraph",
         "ggtree"
     ],
     "signeR": [
@@ -4338,9 +4284,7 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "sSNAPPY": [
-        "ggraph"
-    ],
+    "sSNAPPY": [],
     "ssPATHS": [
         "MESS",
         "ggformula",
@@ -4470,7 +4414,6 @@
         "Gviz",
         "ggpubr",
         "sesameData",
-        "ggraph",
         "ggtree",
         "rstatix",
         "ensembldb",
@@ -4523,7 +4466,6 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "ggraph",
         "ggtree"
     ],
     "TIN": [],
@@ -4706,7 +4648,6 @@
     "vissE": [
         "msigdb",
         "textstem",
-        "ggraph",
         "ExperimentHub",
         "AnnotationHub",
         "lexicon",
@@ -4903,7 +4844,6 @@
         "lme4",
         "nloptr"
     ],
-    "ggraph": [],
     "synaptome.db": [
         "synaptome.data",
         "AnnotationHub",
@@ -5234,9 +5174,7 @@
         "BiocVersion"
     ],
     "Rmagic": [],
-    "clustree": [
-        "ggraph"
-    ],
+    "clustree": [],
     "survivalAnalysis": [
         "survminer",
         "ggpubr",
