@@ -15443,7 +15443,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "config",
         "processx",
         "tfautograph",
         "futile.logger",
@@ -15545,7 +15544,6 @@
         "readr",
         "openssl",
         "cellranger",
-        "config",
         "processx",
         "tfautograph",
         "lambda.r",
@@ -17991,7 +17989,6 @@
         "itertools",
         "RcppTOML",
         "here",
-        "config",
         "processx",
         "tfautograph",
         "text2vec",
@@ -28140,7 +28137,6 @@
         "ellipsis",
         "RcppTOML",
         "here",
-        "config",
         "processx",
         "tfautograph",
         "text2vec",
@@ -30689,7 +30685,6 @@
         "cachem",
         "vroom",
         "tzdb",
-        "config",
         "processx",
         "tfautograph"
     ],
@@ -33813,7 +33808,6 @@
         "memoise"
     ],
     "InterCellar": [
-        "config",
         "golem",
         "shiny",
         "DT",
@@ -41578,7 +41572,6 @@
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler",
-        "config",
         "DT",
         "enrichplot",
         "golem",
@@ -45567,7 +45560,6 @@
         "htmltools",
         "openssl",
         "hms",
-        "config",
         "processx",
         "tfautograph",
         "lambda.r",
@@ -45737,7 +45729,6 @@
     ],
     "multiSight": [
         "golem",
-        "config",
         "shiny",
         "shinydashboard",
         "DT",
@@ -47851,7 +47842,6 @@
         "RcppTOML",
         "here",
         "Biobase",
-        "config",
         "processx",
         "tfautograph",
         "tidyselect",
@@ -50768,7 +50758,6 @@
         "hms",
         "RcppTOML",
         "here",
-        "config",
         "processx",
         "tfautograph",
         "Biobase",
@@ -62030,7 +62019,6 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "DelayedArray",
-        "config",
         "processx",
         "tfruns",
         "tfautograph",
@@ -74752,7 +74740,6 @@
         "plotly",
         "dplyr",
         "pryr",
-        "config",
         "golem",
         "lifecycle",
         "tibble",
@@ -75002,7 +74989,6 @@
         "RcppTOML",
         "here",
         "MatrixExtra",
-        "config",
         "processx",
         "tfautograph",
         "ggplot2",
@@ -75646,7 +75632,6 @@
         "Biobase",
         "IRanges",
         "GenomeInfoDb",
-        "config",
         "processx",
         "tfautograph",
         "RcppHNSW",
@@ -77101,7 +77086,6 @@
     "wpm": [
         "Biobase",
         "SummarizedExperiment",
-        "config",
         "golem",
         "shiny",
         "DT",
@@ -83863,7 +83847,6 @@
         "Matrix",
         "RcppTOML",
         "here",
-        "config",
         "processx",
         "tfautograph",
         "tidyselect",
@@ -83874,7 +83857,6 @@
         "Matrix"
     ],
     "tensorflow": [
-        "config",
         "processx",
         "reticulate",
         "tfruns",
@@ -83887,7 +83869,6 @@
         "vctrs"
     ],
     "tfruns": [
-        "config",
         "tidyselect",
         "reticulate",
         "Matrix",
@@ -83896,7 +83877,6 @@
         "lifecycle",
         "vctrs"
     ],
-    "config": [],
     "tfautograph": [
         "reticulate",
         "Matrix",
@@ -85683,7 +85663,6 @@
     "Rsolnp": [],
     "golem": [
         "attempt",
-        "config",
         "here",
         "htmltools",
         "pkgload",
@@ -87699,7 +87678,6 @@
         "Matrix",
         "RcppTOML",
         "here",
-        "config",
         "processx",
         "tfautograph",
         "tidyselect",
