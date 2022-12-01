@@ -2514,7 +2514,6 @@
         "vsn",
         "rmarkdown",
         "ggplot2",
-        "pcalg",
         "Linnorm",
         "genefilter",
         "AnnotationDbi",
@@ -6224,7 +6223,6 @@
         "rematch2"
     ],
     "dce": [
-        "pcalg",
         "tidyverse",
         "ggraph",
         "tidygraph",
@@ -8281,7 +8279,6 @@
         "vroom"
     ],
     "epiNEM": [
-        "pcalg",
         "mnem",
         "Linnorm",
         "ggplot2",
@@ -15566,7 +15563,6 @@
     ],
     "miRLAB": [
         "Hmisc",
-        "pcalg",
         "TCGAbiolinks",
         "dplyr",
         "SummarizedExperiment",
@@ -17416,7 +17412,6 @@
     "nempi": [
         "mnem",
         "epiNEM",
-        "pcalg",
         "Linnorm",
         "ggplot2",
         "tibble",
@@ -29730,7 +29725,6 @@
         "Biostrings",
         "blob"
     ],
-    "pcalg": [],
     "GenomicState": [
         "AnnotationHub",
         "GenomicFeatures",
