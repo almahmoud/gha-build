@@ -14222,7 +14222,6 @@
         "ggpp",
         "confintr",
         "quantreg",
-        "splus2R",
         "lubridate",
         "purrr",
         "digest",
@@ -58942,7 +58941,6 @@
         "ggpp",
         "confintr",
         "quantreg",
-        "splus2R",
         "plyr",
         "lubridate",
         "ggrepel",
@@ -121301,7 +121299,6 @@
         "rlang",
         "confintr",
         "quantreg",
-        "splus2R",
         "tibble",
         "plyr",
         "dplyr",
@@ -121367,7 +121364,6 @@
     "confintr": [
         "boot"
     ],
-    "splus2R": [],
     "broom.mixed": [
         "broom",
         "coda",
