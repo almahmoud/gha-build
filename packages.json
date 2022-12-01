@@ -11178,7 +11178,6 @@
         "RSQLite"
     ],
     "ImmuneSpaceR": [
-        "Rlabkey",
         "ggplot2",
         "plotly",
         "heatmaply",
@@ -28489,7 +28488,6 @@
         "tibble",
         "tidyselect"
     ],
-    "Rlabkey": [],
     "golem": [
         "shiny",
         "usethis"
