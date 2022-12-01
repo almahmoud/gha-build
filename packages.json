@@ -1064,7 +1064,6 @@
         "osqp",
         "RcppEigen",
         "expm",
-        "Exact",
         "gld",
         "readxl",
         "httr",
@@ -3783,7 +3782,6 @@
         "bit64",
         "osqp",
         "expm",
-        "Exact",
         "gld",
         "readxl",
         "ROI.plugin.lpsolve",
@@ -23928,7 +23926,6 @@
         "DescTools",
         "pryr",
         "expm",
-        "Exact",
         "gld",
         "readxl",
         "httr",
@@ -26267,7 +26264,6 @@
         "doSNOW",
         "viridis",
         "expm",
-        "Exact",
         "gld",
         "readxl",
         "httr",
@@ -33176,7 +33172,6 @@
         "osqp",
         "RcppEigen",
         "expm",
-        "Exact",
         "gld",
         "readxl",
         "httr",
@@ -51061,7 +51056,6 @@
         "XVector",
         "rtracklayer",
         "expm",
-        "Exact",
         "gld",
         "readxl",
         "httr",
@@ -63000,7 +62994,6 @@
     ],
     "DescTools": [
         "expm",
-        "Exact",
         "gld",
         "readxl",
         "httr",
@@ -63033,7 +63026,6 @@
         "rematch2"
     ],
     "osqp": [],
-    "Exact": [],
     "gld": [
         "e1071"
     ],
