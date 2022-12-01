@@ -12251,7 +12251,6 @@
         "BSgenome",
         "dbplyr"
     ],
-    "regsplice": [],
     "regutools": [
         "AnnotationDbi",
         "AnnotationHub",
