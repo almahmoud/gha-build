@@ -15656,7 +15656,6 @@
         "rtracklayer",
         "GenomicAlignments"
     ],
-    "yamss": [],
     "YAPSA": [
         "SomaticSignatures",
         "VariantAnnotation",
