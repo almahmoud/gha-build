@@ -581,7 +581,6 @@
     ],
     "ANCOMBC": [
         "mia",
-        "CVXR",
         "DescTools",
         "Hmisc",
         "SingleCellExperiment",
@@ -2100,7 +2099,6 @@
         "GenomicRanges",
         "multtest",
         "mia",
-        "CVXR",
         "DescTools",
         "Hmisc",
         "SingleCellExperiment",
@@ -19249,7 +19247,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "mia",
-        "CVXR",
         "DescTools",
         "Hmisc",
         "SingleCellExperiment",
@@ -36450,7 +36447,6 @@
         "tibble",
         "pillar"
     ],
-    "CVXR": [],
     "DescTools": [
         "gld",
         "readxl",
