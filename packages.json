@@ -20,7 +20,6 @@
         "KEGGREST"
     ],
     "a4Classif": [],
-    "ABarray": [],
     "abseqR": [
         "ggplot2",
         "flexdashboard",
