@@ -1707,7 +1707,6 @@
         "lmerTest",
         "MSstats"
     ],
-    "MultiBaC": [],
     "multicrispr": [
         "karyoploteR",
         "biovizBase",
