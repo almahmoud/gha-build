@@ -25826,7 +25826,6 @@
         "bslib",
         "progress"
     ],
-    "nnNorm": [],
     "nnSVG": [
         "SpatialExperiment",
         "SingleCellExperiment",
