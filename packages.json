@@ -550,9 +550,7 @@
         "lme4",
         "nloptr"
     ],
-    "CexoR": [
-        "genomation"
-    ],
+    "CexoR": [],
     "cfDNAPro": [],
     "ChAMP": [
         "minfi",
@@ -1258,7 +1256,6 @@
         "AnnotationHub",
         "BRGenomics",
         "ChIPseeker",
-        "genomation",
         "BiocVersion",
         "DESeq2",
         "enrichplot",
@@ -1433,8 +1430,7 @@
         "ggtree"
     ],
     "fCCAC": [
-        "fda",
-        "genomation"
+        "fda"
     ],
     "fcoex": [
         "clusterProfiler",
@@ -1622,7 +1618,6 @@
     "GeneTonic": [
         "DESeq2"
     ],
-    "genomation": [],
     "GenomicFeatures": [],
     "GenomicFiles": [
         "VariantAnnotation",
@@ -3296,8 +3291,7 @@
     "Rbec": [],
     "RCAS": [
         "BSgenome.Hsapiens.UCSC.hg19",
-        "GenomicFeatures",
-        "genomation"
+        "GenomicFeatures"
     ],
     "rCGH": [
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
