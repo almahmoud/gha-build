@@ -538,10 +538,7 @@
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
         "BiocVersion"
     ],
-    "epivizr": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "erma": [
         "Homo.sapiens",
         "GenomicFiles"
@@ -943,7 +940,6 @@
     "metagene": [],
     "MetaPhOR": [],
     "metavizr": [
-        "epivizr",
         "epivizrStandalone"
     ],
     "MethReg": [
@@ -1531,7 +1527,6 @@
         "BiocVersion"
     ],
     "scTreeViz": [
-        "epivizr",
         "scater"
     ],
     "segmenter": [
