@@ -7171,7 +7171,6 @@
         "AnnotationDbi",
         "RSQLite"
     ],
-    "GeneRegionScan": [],
     "GENESIS": [
         "GWASTools",
         "SeqArray",
