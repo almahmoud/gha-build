@@ -1838,7 +1838,6 @@
         "ExperimentHub",
         "BiocVersion"
     ],
-    "terraTCGAdata": [],
     "TFHAZ": [],
     "timeOmics": [
         "propr"
