@@ -803,7 +803,6 @@
         "pbkrtest",
         "nloptr"
     ],
-    "DAPAR": [],
     "dasper": [
         "ggpubr",
         "megadepth",
@@ -2671,9 +2670,7 @@
     "progeny": [],
     "pRolocGUI": [],
     "PROPS": [],
-    "Prostar": [
-        "DAPAR"
-    ],
+    "Prostar": [],
     "proteasy": [
         "ensembldb",
         "EnsDb.Hsapiens.v86",
