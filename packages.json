@@ -5589,7 +5589,6 @@
         "Hmisc",
         "VariantAnnotation"
     ],
-    "methylscaper": [],
     "MethylSeekR": [
         "rtracklayer",
         "BSgenome",
