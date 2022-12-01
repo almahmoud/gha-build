@@ -431,7 +431,6 @@
         "recipes",
         "genefilter"
     ],
-    "barcodetrackR": [],
     "basecallQC": [
         "ShortRead"
     ],
