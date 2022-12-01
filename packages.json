@@ -14293,7 +14293,6 @@
         "shinyalert",
         "tibble",
         "umap",
-        "wordcloud2",
         "readxl",
         "biomaRt",
         "AnnotationDbi",
@@ -35849,7 +35848,6 @@
         "shiny",
         "bslib"
     ],
-    "wordcloud2": [],
     "AdaptGauss": [
         "shiny",
         "DataVisualizations",
