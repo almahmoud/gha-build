@@ -665,7 +665,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "HiLDA": [],
     "hipathia": [
         "AnnotationHub",
         "BiocVersion"
@@ -1356,9 +1355,7 @@
         "scater"
     ],
     "segmenter": [],
-    "selectKSigs": [
-        "HiLDA"
-    ],
+    "selectKSigs": [],
     "seqCAT": [],
     "SeqSQC": [
         "ExperimentHub",
