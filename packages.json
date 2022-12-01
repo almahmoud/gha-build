@@ -11635,7 +11635,6 @@
         "bslib",
         "pillar"
     ],
-    "flowBeads": [],
     "flowBin": [
         "flowFP",
         "flowViz",
