@@ -2853,7 +2853,6 @@
         "PADOG",
         "GSVA",
         "globaltest",
-        "safe",
         "metap",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -2924,7 +2923,6 @@
         "GO.db",
         "graphite",
         "pathview",
-        "safe",
         "annotate",
         "org.Hs.eg.db"
     ],
@@ -4189,7 +4187,6 @@
         "GO.db",
         "graphite",
         "pathview",
-        "safe",
         "annotate",
         "org.Hs.eg.db"
     ],
@@ -8520,7 +8517,6 @@
         "broom"
     ],
     "rWikiPathways": [],
-    "safe": [],
     "sampleClassifier": [
         "MGFM",
         "MGFR",
@@ -10494,7 +10490,6 @@
         "GO.db",
         "graphite",
         "pathview",
-        "safe",
         "annotate",
         "pbkrtest",
         "lmerTest",
