@@ -30,7 +30,6 @@
         "OrganismDbi",
         "ensembldb"
     ],
-    "AGDEX": [],
     "AgiMicroRna": [
         "affycoretools",
         "GOstats",
