@@ -34,7 +34,6 @@
     ],
     "ANCOMBC": [
         "mia",
-        "lmerTest",
         "scater"
     ],
     "AnnotationHub": [
@@ -102,7 +101,6 @@
     "benchdamic": [
         "ANCOMBC",
         "mia",
-        "lmerTest",
         "scater"
     ],
     "bigmelon": [
@@ -280,7 +278,6 @@
     "coMethDMR": [
         "AnnotationHub",
         "ExperimentHub",
-        "lmerTest",
         "BiocVersion"
     ],
     "compEpiTools": [
@@ -661,8 +658,7 @@
         "ttgsea"
     ],
     "GeoDiff": [
-        "GeomxTools",
-        "lmerTest"
+        "GeomxTools"
     ],
     "GEOexplorer": [
         "factoextra",
@@ -672,9 +668,7 @@
         "rstatix",
         "pbkrtest"
     ],
-    "GeomxTools": [
-        "lmerTest"
-    ],
+    "GeomxTools": [],
     "GEWIST": [
         "car",
         "pbkrtest"
@@ -820,8 +814,7 @@
         "pbkrtest"
     ],
     "lisaClust": [
-        "spicyR",
-        "lmerTest"
+        "spicyR"
     ],
     "LowMACA": [
         "cBioPortalData"
@@ -841,13 +834,11 @@
     ],
     "Maaslin2": [
         "car",
-        "lmerTest",
         "pbkrtest"
     ],
     "Macarron": [
         "Maaslin2",
         "car",
-        "lmerTest",
         "pbkrtest"
     ],
     "MACSr": [
@@ -870,9 +861,7 @@
     "maser": [
         "Gviz"
     ],
-    "MBECS": [
-        "lmerTest"
-    ],
+    "MBECS": [],
     "mCSEA": [
         "Homo.sapiens",
         "Gviz"
@@ -975,7 +964,6 @@
     "microbiomeMarker": [
         "ANCOMBC",
         "mia",
-        "lmerTest",
         "scater"
     ],
     "MicrobiomeProfiler": [],
@@ -1010,7 +998,6 @@
     "MMUPHin": [
         "Maaslin2",
         "car",
-        "lmerTest",
         "pbkrtest"
     ],
     "MoonlightR": [],
@@ -1046,13 +1033,11 @@
         "rstatix",
         "MSstatsTMT",
         "car",
-        "lmerTest",
         "pbkrtest"
     ],
     "MSstatsPTM": [
         "MSstatsTMT",
-        "MSstats",
-        "lmerTest"
+        "MSstats"
     ],
     "MSstatsSampleSize": [
         "MSstats"
@@ -1060,11 +1045,9 @@
     "MSstatsShiny": [
         "MSstats",
         "MSstatsTMT",
-        "MSstatsPTM",
-        "lmerTest"
+        "MSstatsPTM"
     ],
     "MSstatsTMT": [
-        "lmerTest",
         "MSstats"
     ],
     "multicrispr": [
@@ -1074,7 +1057,6 @@
     "MungeSumstats": [],
     "muscat": [
         "blme",
-        "lmerTest",
         "scater",
         "variancePartition",
         "pbkrtest"
@@ -1516,9 +1498,7 @@
     "shinyMethyl": [
         "IlluminaHumanMethylation450kmanifest"
     ],
-    "SIAMCAT": [
-        "lmerTest"
-    ],
+    "SIAMCAT": [],
     "signatureSearch": [
         "ExperimentHub",
         "AnnotationHub",
@@ -1576,8 +1556,7 @@
     ],
     "spaSim": [],
     "SpatialDecon": [
-        "GeomxTools",
-        "lmerTest"
+        "GeomxTools"
     ],
     "spatialHeatmap": [
         "scater"
@@ -1586,9 +1565,7 @@
         "GenomicInteractions",
         "Gviz"
     ],
-    "spicyR": [
-        "lmerTest"
-    ],
+    "spicyR": [],
     "splatter": [
         "scater"
     ],
@@ -1727,8 +1704,7 @@
         "ttgsea"
     ],
     "variancePartition": [
-        "pbkrtest",
-        "lmerTest"
+        "pbkrtest"
     ],
     "VariantFiltering": [
         "GenomicScores",
@@ -1768,8 +1744,7 @@
     ],
     "zenith": [
         "variancePartition",
-        "pbkrtest",
-        "lmerTest"
+        "pbkrtest"
     ],
     "ggpubr": [
         "rstatix",
@@ -1794,7 +1769,6 @@
         "ExperimentHub",
         "BiocVersion"
     ],
-    "lmerTest": [],
     "Homo.sapiens": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [
         "GenomicScores",
