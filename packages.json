@@ -2584,9 +2584,7 @@
         "geneplotter",
         "annotate"
     ],
-    "deltaGseg": [
-        "tseries"
-    ],
+    "deltaGseg": [],
     "DeMixT": [
         "DSS",
         "dendextend",
@@ -7889,8 +7887,7 @@
     "PrInCE": [
         "forecast",
         "Hmisc",
-        "MSnbase",
-        "tseries"
+        "MSnbase"
     ],
     "proActiv": [
         "DESeq2",
@@ -8337,7 +8334,6 @@
         "annotate"
     ],
     "RCM": [
-        "tseries",
         "phyloseq"
     ],
     "Rcpi": [
@@ -11857,7 +11853,6 @@
         "syuzhet"
     ],
     "syuzhet": [],
-    "tseries": [],
     "VIM": [
         "car",
         "pbkrtest",
@@ -12230,9 +12225,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "forecast": [
-        "tseries"
-    ],
+    "forecast": [],
     "EnsDb.Mmusculus.v79": [
         "ensembldb",
         "GenomicFeatures",
