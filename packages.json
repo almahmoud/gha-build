@@ -1708,7 +1708,6 @@
         "bumphunter",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "methylInheritance": [],
     "methylPipe": [
         "Gviz",
         "biovizBase",
