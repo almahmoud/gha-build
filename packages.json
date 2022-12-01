@@ -1752,8 +1752,7 @@
         "genefilter",
         "GO.db",
         "AnnotationForge",
-        "IRkernel",
-        "IRdisplay"
+        "IRkernel"
     ],
     "cbaf": [
         "BiocFileCache",
@@ -2038,7 +2037,6 @@
         "ggsignif",
         "rstatix",
         "IRkernel",
-        "IRdisplay",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -3731,8 +3729,7 @@
     "DEGraph": [
         "NCIgraph",
         "RCy3",
-        "IRkernel",
-        "IRdisplay"
+        "IRkernel"
     ],
     "DEGreport": [
         "broom",
@@ -5229,8 +5226,7 @@
     "fedup": [
         "ggthemes",
         "RCy3",
-        "IRkernel",
-        "IRdisplay"
+        "IRkernel"
     ],
     "FELLA": [],
     "ffpe": [
@@ -8343,7 +8339,6 @@
         "qvalue",
         "tidyr",
         "IRkernel",
-        "IRdisplay",
         "ipred",
         "HDO.db",
         "fgsea",
@@ -9329,8 +9324,7 @@
     ],
     "MOGAMUN": [
         "RCy3",
-        "IRkernel",
-        "IRdisplay"
+        "IRkernel"
     ],
     "mogsa": [
         "graphite",
@@ -10095,8 +10089,7 @@
     ],
     "NCIgraph": [
         "RCy3",
-        "IRkernel",
-        "IRdisplay"
+        "IRkernel"
     ],
     "ncRNAtools": [],
     "ndexr": [
@@ -10249,7 +10242,6 @@
         "annotate",
         "AnnotationForge",
         "IRkernel",
-        "IRdisplay",
         "sqldf",
         "biomaRt",
         "readr",
@@ -12164,8 +12156,7 @@
         "vroom"
     ],
     "RCy3": [
-        "IRkernel",
-        "IRdisplay"
+        "IRkernel"
     ],
     "ReactomeGraph4R": [
         "neo4r",
@@ -12354,7 +12345,6 @@
         "biovizBase",
         "GenomicAlignments",
         "IRkernel",
-        "IRdisplay",
         "Hmisc",
         "VariantAnnotation",
         "viridis"
@@ -15546,7 +15536,6 @@
         "qvalue",
         "ggrepel",
         "IRkernel",
-        "IRdisplay",
         "dbplyr",
         "HDO.db",
         "fgsea",
@@ -15753,8 +15742,7 @@
     ],
     "transomics2cytoscape": [
         "RCy3",
-        "IRkernel",
-        "IRdisplay"
+        "IRkernel"
     ],
     "TraRe": [
         "vbsr"
@@ -17092,10 +17080,7 @@
         "waldo",
         "rematch2"
     ],
-    "IRkernel": [
-        "IRdisplay"
-    ],
-    "IRdisplay": [],
+    "IRkernel": [],
     "rintrojs": [],
     "enrichR": [],
     "multipanelfigure": [],
