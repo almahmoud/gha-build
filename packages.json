@@ -27629,9 +27629,7 @@
         "stringi",
         "pillar"
     ],
-    "DTA": [
-        "LSD"
-    ],
+    "DTA": [],
     "Dune": [
         "BiocParallel",
         "SummarizedExperiment",
@@ -27952,7 +27950,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "IRanges",
-        "LSD",
         "locfit",
         "Rsamtools",
         "S4Vectors",
@@ -59519,7 +59516,6 @@
         "BiocParallel",
         "biomaRt",
         "genomeIntervals",
-        "LSD",
         "locfit",
         "ShortRead",
         "Rcpp",
@@ -114115,7 +114111,6 @@
         "askpass",
         "lifecycle"
     ],
-    "LSD": [],
     "gganimate": [
         "ggplot2",
         "stringi",
