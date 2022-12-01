@@ -1015,7 +1015,6 @@
     "DegNorm": [
         "GenomicFeatures"
     ],
-    "DEGraph": [],
     "DEGreport": [
         "DESeq2"
     ],
