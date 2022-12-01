@@ -6,10 +6,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "affycoretools": [],
-    "AgiMicroRna": [
-        "affycoretools"
-    ],
+    "AgiMicroRna": [],
     "airpart": [
         "scater"
     ],
