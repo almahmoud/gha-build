@@ -195,7 +195,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "bnem": [],
     "BOBaFIT": [
         "ggbio",
         "biovizBase"
