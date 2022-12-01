@@ -6231,9 +6231,7 @@
         "AnnotationDbi",
         "viridis"
     ],
-    "h5vc": [
-        "BatchJobs"
-    ],
+    "h5vc": [],
     "hca": [
         "tidyr",
         "readr",
@@ -10205,9 +10203,7 @@
         "GO.db",
         "waldo"
     ],
-    "parglms": [
-        "BatchJobs"
-    ],
+    "parglms": [],
     "PAST": [
         "qvalue",
         "rtracklayer",
@@ -16422,7 +16418,6 @@
     ],
     "epiR": [],
     "ggwordcloud": [],
-    "BatchJobs": [],
     "HiContactsData": [
         "ExperimentHub",
         "BiocFileCache",
