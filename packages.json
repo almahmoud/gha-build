@@ -171,7 +171,6 @@
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
-    "ballgown": [],
     "bambu": [],
     "bandle": [],
     "Basic4Cseq": [],
@@ -2810,7 +2809,6 @@
         "VariantAnnotation"
     ],
     "RNASeqR": [
-        "ballgown",
         "FactoMineR",
         "factoextra",
         "clusterProfiler",
@@ -3418,9 +3416,7 @@
     "VariantTools": [
         "VariantAnnotation"
     ],
-    "VaSP": [
-        "ballgown"
-    ],
+    "VaSP": [],
     "VCFArray": [
         "VariantAnnotation",
         "GenomicFiles"
