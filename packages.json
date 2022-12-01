@@ -1666,7 +1666,6 @@
         "GEOquery"
     ],
     "EGSEA": [
-        "gage",
         "topGO",
         "pathview",
         "PADOG",
@@ -2133,7 +2132,6 @@
         "VariantAnnotation",
         "BSgenome"
     ],
-    "gage": [],
     "GARS": [
         "DaMiRseq",
         "MLSeq",
