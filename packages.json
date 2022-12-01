@@ -1195,7 +1195,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "rgsepd": [],
     "Rhisat2": [],
     "RiboProfiling": [
         "ggbio"
