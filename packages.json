@@ -13729,7 +13729,6 @@
         "dbplyr"
     ],
     "seqcombo": [],
-    "SeqGate": [],
     "SeqGSEA": [
         "DESeq2",
         "biomaRt",
