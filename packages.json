@@ -6,16 +6,14 @@
         "genefilter",
         "GO.db",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "a4Base": [
         "annaffy",
         "genefilter",
         "GO.db",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "a4Classif": [],
     "abseqR": [
@@ -41,14 +39,12 @@
         "genefilter",
         "AnnotationDbi",
         "annotate",
-        "ggplot2",
-        "RSQLite"
+        "ggplot2"
     ],
     "ADAM": [
         "GO.db",
         "dplyr",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "ADAMgui": [
         "ADAM",
@@ -66,7 +62,6 @@
         "rstatix",
         "AnnotationDbi",
         "waldo",
-        "RSQLite",
         "broom",
         "car",
         "rematch2",
@@ -82,7 +77,6 @@
         "smoother",
         "dplyr",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -93,8 +87,7 @@
     ],
     "adSplit": [
         "AnnotationDbi",
-        "GO.db",
-        "RSQLite"
+        "GO.db"
     ],
     "AffiXcan": [
         "MultiAssayExperiment",
@@ -107,7 +100,6 @@
         "ggplot2",
         "oligoClasses",
         "ReportingTools",
-        "RSQLite",
         "Glimma",
         "DESeq2",
         "Category",
@@ -141,15 +133,13 @@
     "affyILM": [],
     "affylmGUI": [
         "affyPLM",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "affyPLM": [],
     "AGDEX": [
         "GSEABase",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "aggregateBioVar": [
         "SingleCellExperiment"
@@ -161,7 +151,6 @@
         "ggplot2",
         "oligoClasses",
         "ReportingTools",
-        "RSQLite",
         "Glimma",
         "DESeq2",
         "Category",
@@ -225,7 +214,6 @@
         "Rsamtools",
         "GenomicFeatures",
         "Gviz",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "ensembldb",
@@ -248,7 +236,6 @@
         "Rsamtools",
         "GenomicFeatures",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -274,7 +261,6 @@
         "readr",
         "ggplot2",
         "dbplyr",
-        "RSQLite",
         "AnnotationHub",
         "ExperimentHub",
         "tidyr",
@@ -298,8 +284,7 @@
         "DESeq2",
         "geneplotter",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "ANCOMBC": [
         "mia",
@@ -322,7 +307,6 @@
         "scater",
         "testthat",
         "treeio",
-        "RSQLite",
         "cellranger",
         "BiocSingular",
         "ggbeeswarm",
@@ -359,35 +343,27 @@
         "AnnotationDbi",
         "hardhat",
         "ipred",
-        "RSQLite",
         "prodlim"
     ],
     "annaffy": [
         "GO.db",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "annmap": [
         "Rsamtools",
         "genefilter",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "annotate": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
-    "AnnotationDbi": [
-        "RSQLite"
-    ],
+    "AnnotationDbi": [],
     "AnnotationForge": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "AnnotationHub": [
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -402,7 +378,6 @@
         "BiocCheck",
         "AnnotationDbi",
         "OrganismDbi",
-        "RSQLite",
         "AnnotationForge",
         "BiocFileCache",
         "BiocVersion",
@@ -421,7 +396,6 @@
         "readr",
         "regioneR",
         "rtracklayer",
-        "RSQLite",
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
@@ -442,8 +416,7 @@
         "geneplotter",
         "ggplot2",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "AnVIL": [
         "dplyr",
@@ -479,7 +452,6 @@
         "Rsamtools",
         "geneplotter",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "BSgenome",
         "BiocFileCache",
@@ -488,8 +460,7 @@
     ],
     "apComplex": [
         "org.Sc.sgd.db",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "apeglm": [],
     "APL": [
@@ -511,8 +482,7 @@
         "scattermore",
         "sctransform",
         "spatstat.explore",
-        "GO.db",
-        "RSQLite"
+        "GO.db"
     ],
     "appreci8R": [
         "shinyjs",
@@ -534,7 +504,6 @@
         "GenomicScores",
         "rtracklayer",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "AnnotationHub",
@@ -549,8 +518,7 @@
     ],
     "ArrayExpress": [
         "oligo",
-        "oligoClasses",
-        "RSQLite"
+        "oligoClasses"
     ],
     "ArrayExpressHTS": [
         "Rsamtools",
@@ -562,7 +530,6 @@
         "ggplot2",
         "viridis",
         "GenomicAlignments",
-        "RSQLite",
         "dbplyr",
         "dplyr"
     ],
@@ -571,7 +538,6 @@
         "methylumi",
         "GenomicFeatures",
         "annotate",
-        "RSQLite",
         "AnnotationDbi",
         "rtracklayer",
         "biomaRt",
@@ -602,8 +568,7 @@
         "AnnotationDbi",
         "ggplot2",
         "annotate",
-        "viridis",
-        "RSQLite"
+        "viridis"
     ],
     "artMS": [
         "AnnotationDbi",
@@ -616,7 +581,6 @@
         "plotly",
         "tidyr",
         "UpSetR",
-        "RSQLite",
         "lme4",
         "nloptr",
         "testthat",
@@ -649,7 +613,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "cowplot",
-        "RSQLite",
         "ensembldb",
         "BSgenome",
         "biovizBase",
@@ -674,7 +637,6 @@
         "BiocStyle",
         "UpSetR",
         "tidyr",
-        "RSQLite",
         "bookdown",
         "rtracklayer",
         "biomaRt",
@@ -690,16 +652,14 @@
         "viridis"
     ],
     "AssessORF": [
-        "DECIPHER",
-        "RSQLite"
+        "DECIPHER"
     ],
     "ASSIGN": [
         "sva",
         "ggplot2",
         "genefilter",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "ASURAT": [
         "SingleCellExperiment"
@@ -728,7 +688,6 @@
         "SingleCellExperiment",
         "cowplot",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "OrganismDbi",
@@ -782,7 +741,6 @@
         "BiocFileCache",
         "AnnotationHub",
         "TFBSTools",
-        "RSQLite",
         "BiocVersion",
         "interactiveDisplayBase",
         "dbplyr",
@@ -802,7 +760,6 @@
         "dplyr",
         "BSgenome",
         "CNEr",
-        "RSQLite",
         "rtracklayer",
         "readr",
         "annotate",
@@ -815,7 +772,6 @@
         "Rsamtools",
         "AnnotationHub",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -830,7 +786,6 @@
         "testthat",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "rtracklayer",
         "Rsamtools",
         "TFBSTools",
@@ -849,7 +804,6 @@
         "GOstats",
         "reactome.db",
         "org.Hs.eg.db",
-        "RSQLite",
         "Category",
         "GO.db",
         "annotate",
@@ -860,8 +814,7 @@
     "AUCell": [
         "GSEABase",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "autonomics": [
         "BiocFileCache",
@@ -872,7 +825,6 @@
         "tidyr",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "cellranger"
     ],
     "awst": [],
@@ -903,7 +855,6 @@
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "dbplyr",
         "dplyr",
         "GenomicAlignments"
@@ -915,8 +866,7 @@
         "GenomicAlignments",
         "genefilter",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "bambu": [
         "BSgenome",
@@ -927,7 +877,6 @@
         "Rsamtools",
         "rtracklayer",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "dbplyr"
@@ -959,7 +908,6 @@
         "annotate",
         "genefilter",
         "ggvis",
-        "RSQLite",
         "dbplyr",
         "hardhat",
         "ipred",
@@ -1046,8 +994,7 @@
         "genefilter",
         "AnnotationDbi",
         "annotate",
-        "tidyr",
-        "RSQLite"
+        "tidyr"
     ],
     "BayesSpace": [
         "SingleCellExperiment",
@@ -1058,7 +1005,6 @@
         "BiocSingular",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "scuttle",
         "ggbeeswarm",
         "viridis",
@@ -1075,7 +1021,6 @@
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "GenomicAlignments",
         "BiocFileCache",
@@ -1087,8 +1032,7 @@
     ],
     "beadarray": [
         "AnnotationDbi",
-        "ggplot2",
-        "RSQLite"
+        "ggplot2"
     ],
     "beadarraySNP": [
         "quantsmooth"
@@ -1108,8 +1052,7 @@
         "PhIPData",
         "BiocFileCache",
         "dbplyr",
-        "dplyr",
-        "RSQLite"
+        "dplyr"
     ],
     "benchdamic": [
         "phyloseq",
@@ -1158,7 +1101,6 @@
         "scater",
         "testthat",
         "tidytree",
-        "RSQLite",
         "cellranger",
         "BiocSingular",
         "ggbeeswarm",
@@ -1174,7 +1116,6 @@
         "sjmisc",
         "AnnotationDbi",
         "BiocFileCache",
-        "RSQLite",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr"
@@ -1183,7 +1124,6 @@
         "topGO",
         "tidyr",
         "dplyr",
-        "RSQLite",
         "GO.db",
         "AnnotationDbi"
     ],
@@ -1191,8 +1131,7 @@
     "BicARE": [
         "GSEABase",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "bigmelon": [
         "wateRmelon",
@@ -1212,7 +1151,6 @@
         "siggenes",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "RSQLite",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
         "rtracklayer",
@@ -1250,7 +1188,6 @@
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
-        "RSQLite",
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
@@ -1258,7 +1195,6 @@
         "viridis"
     ],
     "bioassayR": [
-        "RSQLite",
         "ChemmineR",
         "ggplot2"
     ],
@@ -1281,7 +1217,6 @@
         "ReactomePA",
         "DiagrammeR",
         "GO.db",
-        "RSQLite",
         "enrichplot",
         "GOSemSim",
         "gson",
@@ -1335,14 +1270,12 @@
     ],
     "BiocFileCache": [
         "dbplyr",
-        "dplyr",
-        "RSQLite"
+        "dplyr"
     ],
     "biocGraph": [
         "geneplotter",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "BiocOncoTK": [
         "bigrquery",
@@ -1358,7 +1291,6 @@
         "AnnotationHub",
         "ExperimentHub",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "ggrepel",
@@ -1382,8 +1314,7 @@
     "BioCor": [
         "GSEABase",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "BiocPkgTools": [
         "BiocFileCache",
@@ -1392,14 +1323,12 @@
         "readr",
         "rorcid",
         "dbplyr",
-        "RSQLite",
         "vroom"
     ],
     "BiocSet": [
         "dplyr",
         "AnnotationDbi",
-        "tidyr",
-        "RSQLite"
+        "tidyr"
     ],
     "BiocSingular": [],
     "BiocSklearn": [],
@@ -1417,7 +1346,6 @@
     ],
     "biodb": [
         "BiocFileCache",
-        "RSQLite",
         "testthat",
         "dbplyr",
         "dplyr",
@@ -1427,7 +1355,6 @@
     "biodbChebi": [
         "biodb",
         "BiocFileCache",
-        "RSQLite",
         "testthat",
         "dbplyr",
         "dplyr",
@@ -1437,7 +1364,6 @@
     "biodbExpasy": [
         "biodb",
         "BiocFileCache",
-        "RSQLite",
         "testthat",
         "dbplyr",
         "dplyr",
@@ -1448,7 +1374,6 @@
         "biodb",
         "testthat",
         "BiocFileCache",
-        "RSQLite",
         "waldo",
         "dbplyr",
         "dplyr",
@@ -1457,7 +1382,6 @@
     "biodbKegg": [
         "biodb",
         "BiocFileCache",
-        "RSQLite",
         "testthat",
         "dbplyr",
         "dplyr",
@@ -1467,7 +1391,6 @@
     "biodbLipidmaps": [
         "biodb",
         "BiocFileCache",
-        "RSQLite",
         "testthat",
         "dbplyr",
         "dplyr",
@@ -1477,7 +1400,6 @@
     "biodbMirbase": [
         "biodb",
         "BiocFileCache",
-        "RSQLite",
         "testthat",
         "dbplyr",
         "dplyr",
@@ -1487,7 +1409,6 @@
     "biodbNcbi": [
         "biodb",
         "BiocFileCache",
-        "RSQLite",
         "testthat",
         "dbplyr",
         "dplyr",
@@ -1498,7 +1419,6 @@
         "biodb",
         "testthat",
         "BiocFileCache",
-        "RSQLite",
         "waldo",
         "dbplyr",
         "dplyr",
@@ -1507,7 +1427,6 @@
     "biodbUniprot": [
         "biodb",
         "BiocFileCache",
-        "RSQLite",
         "testthat",
         "dbplyr",
         "dplyr",
@@ -1517,7 +1436,6 @@
     "biomaRt": [
         "AnnotationDbi",
         "BiocFileCache",
-        "RSQLite",
         "dbplyr",
         "dplyr"
     ],
@@ -1530,7 +1448,6 @@
         "multcomp",
         "GO.db",
         "AnnotationDbi",
-        "RSQLite",
         "viridis"
     ],
     "biomvRCNS": [
@@ -1544,7 +1461,6 @@
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
-        "RSQLite",
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
@@ -1563,7 +1479,6 @@
         "WGCNA",
         "ggplot2",
         "ggrepel",
-        "RSQLite",
         "cowplot",
         "synaptome.data",
         "dbplyr",
@@ -1591,13 +1506,11 @@
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
-        "RSQLite",
         "annotate",
         "viridis"
     ],
     "BioNet": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "BioNetStat": [
         "shinyBS",
@@ -1606,8 +1519,7 @@
         "Hmisc",
         "viridis",
         "AnnotationDbi",
-        "org.Hs.eg.db",
-        "RSQLite"
+        "org.Hs.eg.db"
     ],
     "biosigner": [
         "MultiAssayExperiment",
@@ -1643,7 +1555,6 @@
         "AnnotationDbi",
         "VariantAnnotation",
         "ensembldb",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "ggplot2",
@@ -1680,7 +1591,6 @@
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "vroom",
         "GenomicAlignments",
-        "RSQLite",
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
@@ -1695,8 +1605,7 @@
         "AnnotationDbi",
         "annotate",
         "Rsamtools",
-        "GenomicAlignments",
-        "RSQLite"
+        "GenomicAlignments"
     ],
     "BitSeq": [
         "Rsamtools"
@@ -1712,7 +1621,6 @@
         "Rsamtools",
         "geneplotter",
         "genefilter",
-        "RSQLite",
         "BiocFileCache",
         "annotate",
         "dbplyr",
@@ -1721,8 +1629,7 @@
     "blima": [
         "beadarray",
         "AnnotationDbi",
-        "ggplot2",
-        "RSQLite"
+        "ggplot2"
     ],
     "BLMA": [
         "ROntoTools",
@@ -1730,7 +1637,6 @@
         "AnnotationDbi",
         "hgu133plus2.db",
         "hgu133a.db",
-        "RSQLite",
         "org.Hs.eg.db"
     ],
     "BloodGen3Module": [
@@ -1740,7 +1646,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "waldo",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -1752,8 +1657,7 @@
         "sva",
         "genefilter",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "bnem": [
         "CellNOptR",
@@ -1766,8 +1670,7 @@
         "genefilter",
         "AnnotationDbi",
         "annotate",
-        "ggdendro",
-        "RSQLite"
+        "ggdendro"
     ],
     "BOBaFIT": [
         "dplyr",
@@ -1788,7 +1691,6 @@
         "GGally",
         "ensembldb",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "forcats",
         "viridis",
@@ -1832,7 +1734,6 @@
         "ggbio",
         "AnnotationHub",
         "org.Hs.eg.db",
-        "RSQLite",
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
@@ -1853,7 +1754,6 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "AnnotationDbi"
     ],
     "branchpointer": [
@@ -1869,7 +1769,6 @@
         "recipes",
         "Rsamtools",
         "GenomicAlignments",
-        "RSQLite",
         "dbplyr",
         "dplyr",
         "hardhat",
@@ -1887,8 +1786,7 @@
         "dplyr",
         "tidyr",
         "BiocFileCache",
-        "dbplyr",
-        "RSQLite"
+        "dbplyr"
     ],
     "BRGenomics": [
         "rtracklayer",
@@ -1898,8 +1796,7 @@
         "geneplotter",
         "ggplot2",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "BSgenome": [
         "rtracklayer",
@@ -1925,7 +1822,6 @@
         "AnnotationDbi",
         "VariantAnnotation",
         "ensembldb",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "viridis",
@@ -1937,8 +1833,7 @@
         "BiocFileCache",
         "vroom",
         "dbplyr",
-        "dplyr",
-        "RSQLite"
+        "dplyr"
     ],
     "BUMHMM": [
         "devtools",
@@ -1952,7 +1847,6 @@
     "bumphunter": [
         "GenomicFeatures",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -1972,7 +1866,6 @@
         "ggplot2",
         "plyranges",
         "tidyr",
-        "RSQLite",
         "BiocFileCache",
         "rtracklayer",
         "Rsamtools",
@@ -1999,7 +1892,6 @@
         "rtracklayer",
         "OrganismDbi",
         "GGally",
-        "RSQLite",
         "biomaRt",
         "dplyr",
         "forcats",
@@ -2018,7 +1910,6 @@
         "GenomicInteractions",
         "Rsamtools",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "VariantAnnotation",
         "ggplot2",
@@ -2056,7 +1947,6 @@
         "GGally",
         "ensembldb",
         "AnnotationDbi",
-        "RSQLite",
         "dplyr",
         "biomaRt",
         "forcats",
@@ -2100,7 +1990,6 @@
         "biomaRt",
         "genefilter",
         "hgu133a.db",
-        "RSQLite",
         "BiocFileCache",
         "org.Hs.eg.db",
         "viridis",
@@ -2128,7 +2017,6 @@
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "ggplotify",
         "patchwork",
         "biomaRt",
@@ -2148,7 +2036,6 @@
         "rtracklayer",
         "sqldf",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "GenomicAlignments",
         "BiocFileCache",
@@ -2191,8 +2078,7 @@
         "AnnotationDbi",
         "GSEABase",
         "genefilter",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "categoryCompare": [
         "AnnotationDbi",
@@ -2201,7 +2087,6 @@
         "GOstats",
         "annotate",
         "RCy3",
-        "RSQLite",
         "genefilter",
         "GO.db",
         "AnnotationForge",
@@ -2214,7 +2099,6 @@
         "genefilter",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "AnVIL",
         "MultiAssayExperiment",
         "readr",
@@ -2242,7 +2126,6 @@
         "AnnotationDbi",
         "SingleCellExperiment",
         "treeio",
-        "RSQLite",
         "tidytree"
     ],
     "cBioPortalData": [
@@ -2257,7 +2140,6 @@
         "TCGAutils",
         "miniUI",
         "dbplyr",
-        "RSQLite",
         "vroom",
         "rvest",
         "AnnotationDbi",
@@ -2280,15 +2162,13 @@
         "SingleCellExperiment"
     ],
     "ccmap": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "CCPROMISE": [
         "PROMISE",
         "GSEABase",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "celaref": [
         "MAST",
@@ -2334,8 +2214,7 @@
         "BiocFileCache",
         "dplyr",
         "tidyr",
-        "dbplyr",
-        "RSQLite"
+        "dbplyr"
     ],
     "cellHTS2": [
         "genefilter",
@@ -2344,8 +2223,7 @@
         "Category",
         "AnnotationDbi",
         "annotate",
-        "ggplot2",
-        "RSQLite"
+        "ggplot2"
     ],
     "CelliD": [
         "Seurat",
@@ -2376,7 +2254,6 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "topGO",
-        "RSQLite",
         "GO.db"
     ],
     "cellmigRation": [
@@ -2428,8 +2305,7 @@
     "cellTree": [
         "topGO",
         "GO.db",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "cellxgenedp": [
         "dplyr"
@@ -2458,7 +2334,6 @@
         "cowplot",
         "ggpp",
         "Hmisc",
-        "RSQLite",
         "HDO.db",
         "aplot",
         "ggnewscale",
@@ -2509,8 +2384,7 @@
         "patchwork",
         "dplyr",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "ceRNAnetsim": [
         "dplyr",
@@ -2552,7 +2426,6 @@
         "rstatix",
         "IRkernel",
         "IRdisplay",
-        "RSQLite",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -2602,8 +2475,7 @@
         "CNTools",
         "genefilter",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "ChAMP": [
         "minfi",
@@ -2645,7 +2517,6 @@
         "tidyr",
         "dplyr",
         "lumi",
-        "RSQLite",
         "BSgenome",
         "AnnotationHub",
         "BiocFileCache",
@@ -2705,7 +2576,6 @@
         "org.Mm.eg.db",
         "dplyr",
         "BiocStyle",
-        "RSQLite",
         "bookdown",
         "GenomicFeatures",
         "rtracklayer",
@@ -2743,7 +2613,6 @@
         "org.Rn.eg.db",
         "rms",
         "rtracklayer",
-        "RSQLite",
         "readr",
         "Hmisc",
         "ggplot2",
@@ -2767,7 +2636,6 @@
         "VariantAnnotation",
         "ensembldb",
         "tidyr",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BSgenome",
@@ -2786,7 +2654,6 @@
         "InteractionSet",
         "regioneR",
         "rtracklayer",
-        "RSQLite",
         "BiocFileCache",
         "BSgenome",
         "dbplyr"
@@ -2813,7 +2680,6 @@
         "apeglm",
         "GreyListChIP",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -2830,7 +2696,6 @@
         "dplyr",
         "rtracklayer",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "RSQLite",
         "aplot",
         "DOSE",
         "ggnewscale",
@@ -2883,14 +2748,12 @@
         "readr",
         "dplyr",
         "tidyr",
-        "RSQLite",
         "vroom"
     ],
     "ChromHeatMap": [
         "annotate",
         "AnnotationDbi",
         "rtracklayer",
-        "RSQLite",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -2898,7 +2761,6 @@
         "biomaRt",
         "AnnotationDbi",
         "BiocFileCache",
-        "RSQLite",
         "dbplyr",
         "dplyr"
     ],
@@ -2964,7 +2826,6 @@
         "tidyr",
         "dplyr",
         "CNEr",
-        "RSQLite",
         "GenomicAlignments",
         "readr",
         "annotate",
@@ -2976,7 +2837,6 @@
         "biomaRt",
         "AnnotationDbi",
         "BiocFileCache",
-        "RSQLite",
         "dbplyr",
         "dplyr"
     ],
@@ -2996,7 +2856,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "viridis",
-        "RSQLite",
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
@@ -3028,7 +2887,6 @@
         "gwascat",
         "BSgenome",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -3054,7 +2912,6 @@
         "SGSeq",
         "GenomicAlignments",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -3083,8 +2940,7 @@
         "dplyr",
         "tidyr",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "cleanUpdTSeq": [
         "BSgenome.Drerio.UCSC.danRer7",
@@ -3098,7 +2954,6 @@
         "annotate",
         "AnnotationDbi",
         "GenomicFeatures",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -3122,9 +2977,7 @@
         "ggplot2",
         "MsFeatures"
     ],
-    "clstutils": [
-        "RSQLite"
-    ],
+    "clstutils": [],
     "CluMSID": [
         "network",
         "GGally",
@@ -3154,8 +3007,7 @@
         "dplyr",
         "AnnotationDbi",
         "annotate",
-        "tidyr",
-        "RSQLite"
+        "tidyr"
     ],
     "clusterProfiler": [
         "AnnotationDbi",
@@ -3167,7 +3019,6 @@
         "gson",
         "qvalue",
         "tidyr",
-        "RSQLite",
         "HDO.db",
         "fgsea",
         "ggplot2",
@@ -3202,15 +3053,13 @@
     "cmapR": [],
     "cn.farms": [
         "oligoClasses",
-        "oligo",
-        "RSQLite"
+        "oligo"
     ],
     "cn.mops": [
         "Rsamtools",
         "exomeCopy"
     ],
     "CNEr": [
-        "RSQLite",
         "rtracklayer",
         "GenomicAlignments",
         "readr",
@@ -3244,8 +3093,7 @@
     "CNTools": [
         "genefilter",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "CNVfilteR": [
         "regioneR",
@@ -3259,7 +3107,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "BSgenome",
-        "RSQLite",
         "Hmisc",
         "GenomicAlignments",
         "ensembldb",
@@ -3289,7 +3136,6 @@
         "AnnotationDbi",
         "ggplot2",
         "tidyr",
-        "RSQLite",
         "Hmisc",
         "GenomicAlignments",
         "ensembldb",
@@ -3323,7 +3169,6 @@
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "GenomicAlignments",
         "BiocFileCache",
@@ -3332,8 +3177,7 @@
     ],
     "CoCiteStats": [
         "org.Hs.eg.db",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "COCOA": [
         "ggplot2",
@@ -3348,8 +3192,7 @@
     ],
     "codelink": [
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "CODEX": [
         "Rsamtools",
@@ -3368,8 +3211,7 @@
         "tidyr",
         "sqldf",
         "ggplot2",
-        "vroom",
-        "RSQLite"
+        "vroom"
     ],
     "CoGAPS": [
         "SingleCellExperiment"
@@ -3403,7 +3245,6 @@
         "AnnotationDbi",
         "ggplot2",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -3427,7 +3268,6 @@
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
-        "RSQLite",
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
@@ -3451,7 +3291,6 @@
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
-        "RSQLite",
         "dbplyr",
         "dplyr",
         "Hmisc",
@@ -3465,7 +3304,6 @@
         "ExperimentHub",
         "lmerTest",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -3507,7 +3345,6 @@
         "GenomicFeatures",
         "methylPipe",
         "GO.db",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "Gviz",
@@ -3527,7 +3364,6 @@
         "ChemmineR",
         "dplyr",
         "dbplyr",
-        "RSQLite",
         "ggplot2"
     ],
     "ComPrAn": [
@@ -3558,7 +3394,6 @@
         "SingleCellExperiment",
         "GEOquery",
         "clusterProfiler",
-        "RSQLite",
         "dbplyr",
         "DOSE",
         "enrichplot",
@@ -3656,7 +3491,6 @@
         "Rsamtools",
         "RUVSeq",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
-        "RSQLite",
         "ggplot2",
         "viridis",
         "geneplotter",
@@ -3681,7 +3515,6 @@
         "annotate",
         "prodlim",
         "ipred",
-        "RSQLite",
         "dbplyr",
         "dplyr"
     ],
@@ -3694,8 +3527,7 @@
         "org.Hs.eg.db",
         "GO.db",
         "topGO",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "contiBAIT": [
         "Rsamtools",
@@ -3708,7 +3540,6 @@
         "AnnotationDbi",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "dbplyr",
@@ -3733,7 +3564,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "RSQLite",
         "biomaRt",
         "vroom",
         "BiocFileCache",
@@ -3751,7 +3581,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "BSgenome",
-        "RSQLite",
         "Hmisc",
         "GenomicAlignments",
         "ensembldb",
@@ -3799,8 +3628,7 @@
         "HTSFilter",
         "geneplotter",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "cosmiq": [
         "xcms",
@@ -3819,7 +3647,6 @@
         "tidyr",
         "annotate",
         "AnnotationDbi",
-        "RSQLite",
         "vroom"
     ],
     "COTAN": [
@@ -3836,8 +3663,7 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "CoverageView": [
         "Rsamtools",
@@ -3847,15 +3673,13 @@
     "covRNA": [
         "genefilter",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "cpvSNP": [
         "GenomicFeatures",
         "GSEABase",
         "ggplot2",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "annotate",
@@ -3891,7 +3715,6 @@
         "GenomicFeatures",
         "rtracklayer",
         "VariantAnnotation",
-        "RSQLite",
         "Rsamtools",
         "readr",
         "crisprScoreData",
@@ -3911,7 +3734,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -3935,7 +3757,6 @@
         "GenomicFeatures",
         "BSgenome",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "Rsamtools",
         "dplyr",
@@ -3965,8 +3786,7 @@
         "ggplot2",
         "AnnotationDbi",
         "GenomicAlignments",
-        "Rsamtools",
-        "RSQLite"
+        "Rsamtools"
     ],
     "crisprVerse": [
         "crisprBowtie",
@@ -3981,7 +3801,6 @@
         "VariantAnnotation",
         "crisprScoreData",
         "Gviz",
-        "RSQLite",
         "Rsamtools",
         "ExperimentHub",
         "AnnotationHub",
@@ -4010,7 +3829,6 @@
         "crisprBowtie",
         "crisprScore",
         "VariantAnnotation",
-        "RSQLite",
         "biomaRt",
         "ensembldb",
         "biovizBase",
@@ -4030,15 +3848,13 @@
         "interactiveDisplayBase"
     ],
     "crlmm": [
-        "oligoClasses",
-        "RSQLite"
+        "oligoClasses"
     ],
     "crossmeta": [
         "AnnotationDbi",
         "GEOquery",
         "miniUI",
         "oligo",
-        "RSQLite",
         "sva",
         "shinyjs",
         "shinyBS",
@@ -4062,7 +3878,6 @@
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
-        "RSQLite",
         "ggplot2",
         "viridis"
     ],
@@ -4073,7 +3888,6 @@
         "Rsamtools",
         "ggplot2",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "dbplyr",
@@ -4083,8 +3897,7 @@
         "ggplot2",
         "BiocFileCache",
         "dbplyr",
-        "dplyr",
-        "RSQLite"
+        "dplyr"
     ],
     "cTRAP": [
         "AnnotationDbi",
@@ -4097,7 +3910,6 @@
         "highcharter",
         "readxl",
         "shinycssloaders",
-        "RSQLite",
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
@@ -4118,11 +3930,9 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "scuttle"
     ],
     "cummeRbund": [
-        "RSQLite",
         "ggplot2",
         "rtracklayer",
         "Gviz",
@@ -4143,7 +3953,6 @@
     ],
     "customCMPdb": [
         "AnnotationHub",
-        "RSQLite",
         "ChemmineR",
         "BiocFileCache",
         "BiocVersion",
@@ -4161,7 +3970,6 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "rtracklayer",
-        "RSQLite",
         "BiocFileCache",
         "BSgenome",
         "dbplyr",
@@ -4280,7 +4088,6 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "scuttle"
     ],
     "CytoML": [
@@ -4304,7 +4111,6 @@
         "BiocFileCache",
         "ggplot2",
         "TFBSTools",
-        "RSQLite",
         "dbplyr",
         "dplyr",
         "BSgenome",
@@ -4330,7 +4136,6 @@
         "vroom",
         "rtracklayer",
         "BSgenome",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "dbplyr",
@@ -4358,7 +4163,6 @@
         "ggrepel",
         "viridis",
         "genefilter",
-        "RSQLite",
         "BiocFileCache",
         "pbkrtest",
         "annotate",
@@ -4399,7 +4203,6 @@
         "rtracklayer",
         "tidyr",
         "dbplyr",
-        "RSQLite",
         "AnnotationDbi",
         "biomaRt",
         "ggsci",
@@ -4452,7 +4255,6 @@
         "readxl",
         "reprex",
         "rvest",
-        "RSQLite",
         "cellranger",
         "rematch2",
         "ggdendro",
@@ -4512,7 +4314,6 @@
         "heatmaply",
         "pathview",
         "apeglm",
-        "RSQLite",
         "dplyr",
         "GO.db",
         "GOSemSim",
@@ -4543,15 +4344,12 @@
         "tidytree",
         "treeio"
     ],
-    "DECIPHER": [
-        "RSQLite"
-    ],
+    "DECIPHER": [],
     "deco": [
         "AnnotationDbi",
         "ggplot2",
         "BiocStyle",
         "made4",
-        "RSQLite",
         "bookdown"
     ],
     "DEComplexDisease": [
@@ -4559,8 +4357,7 @@
         "geneplotter",
         "ggplot2",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "decompTumor2Sig": [
         "ggplot2",
@@ -4572,7 +4369,6 @@
         "readxl",
         "BSgenome",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "cellranger",
@@ -4642,7 +4438,6 @@
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "GenomicAlignments",
         "BiocFileCache",
@@ -4654,8 +4449,7 @@
         "geneplotter",
         "ggplot2",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "DegNorm": [
         "GenomicFeatures",
@@ -4666,7 +4460,6 @@
         "plotly",
         "viridis",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "dendextend",
@@ -4693,8 +4486,7 @@
         "tidyr",
         "geneplotter",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "DEGseq": [
         "qvalue",
@@ -4708,8 +4500,7 @@
         "DESeq2",
         "geneplotter",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "deltaGseg": [
         "ggplot2",
@@ -4726,7 +4517,6 @@
         "BSgenome",
         "AnnotationDbi",
         "annotate",
-        "RSQLite",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments"
@@ -4766,7 +4556,6 @@
         "qvalue",
         "Rsamtools",
         "rtracklayer",
-        "RSQLite",
         "biomaRt",
         "VariantAnnotation",
         "ggplot2",
@@ -4789,7 +4578,6 @@
         "qvalue",
         "Rsamtools",
         "rtracklayer",
-        "RSQLite",
         "biomaRt",
         "biovizBase",
         "BSgenome",
@@ -4817,7 +4605,6 @@
         "ggplot2",
         "InteractionSet",
         "regioneR",
-        "RSQLite",
         "BiocFileCache",
         "BSgenome",
         "dbplyr"
@@ -4826,8 +4613,7 @@
         "geneplotter",
         "ggplot2",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "destiny": [
         "SingleCellExperiment",
@@ -4858,7 +4644,6 @@
         "annotate",
         "AnnotationDbi",
         "waldo",
-        "RSQLite",
         "rematch2"
     ],
     "DEWSeq": [
@@ -4866,8 +4651,7 @@
         "geneplotter",
         "ggplot2",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "DExMA": [
         "GEOquery",
@@ -4878,8 +4662,7 @@
         "genefilter",
         "AnnotationDbi",
         "annotate",
-        "vroom",
-        "RSQLite"
+        "vroom"
     ],
     "DEXSeq": [
         "DESeq2",
@@ -4888,7 +4671,6 @@
         "Rsamtools",
         "geneplotter",
         "genefilter",
-        "RSQLite",
         "BiocFileCache",
         "ggplot2",
         "annotate",
@@ -4898,8 +4680,7 @@
     "DIAlignR": [
         "dplyr",
         "tidyr",
-        "ggplot2",
-        "RSQLite"
+        "ggplot2"
     ],
     "DiffBind": [
         "GenomicAlignments",
@@ -4916,15 +4697,13 @@
         "rtracklayer",
         "ShortRead",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "diffcoexp": [
         "WGCNA",
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
-        "RSQLite",
         "ggplot2",
         "viridis"
     ],
@@ -4983,7 +4762,6 @@
         "geneplotter",
         "genefilter",
         "GenomicFeatures",
-        "RSQLite",
         "GenomicAlignments",
         "BiocFileCache",
         "annotate",
@@ -5105,7 +4883,6 @@
         "methylumi",
         "org.Hs.eg.db",
         "ruv",
-        "RSQLite",
         "BiocVersion",
         "interactiveDisplayBase",
         "dplyr",
@@ -5132,7 +4909,6 @@
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
-        "RSQLite",
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
@@ -5149,7 +4925,6 @@
         "AnnotationHub",
         "rtracklayer",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -5181,7 +4956,6 @@
         "biomaRt",
         "VariantAnnotation",
         "AnnotationDbi",
-        "RSQLite",
         "BiocFileCache",
         "Rsamtools",
         "rtracklayer",
@@ -5195,8 +4969,7 @@
         "sva",
         "genefilter",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "Doscheda": [
         "drc",
@@ -5225,7 +4998,6 @@
         "ggplot2",
         "GOSemSim",
         "qvalue",
-        "RSQLite",
         "cowplot",
         "GO.db"
     ],
@@ -5257,7 +5029,6 @@
         "scuttle"
     ],
     "drugTargetInteractions": [
-        "RSQLite",
         "UniProt.ws",
         "biomaRt",
         "ensembldb",
@@ -5287,7 +5058,6 @@
         "tidyr",
         "org.Hs.eg.db",
         "ggplot2",
-        "RSQLite",
         "dbplyr",
         "oligoClasses",
         "vroom"
@@ -5332,7 +5102,6 @@
         "broom",
         "car",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -5353,7 +5122,6 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "AnnotationDbi",
-        "RSQLite",
         "DOSE",
         "enrichplot",
         "GO.db",
@@ -5389,7 +5157,6 @@
         "ShortRead",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "AnnotationDbi"
     ],
     "EBSEA": [
@@ -5397,8 +5164,7 @@
         "geneplotter",
         "ggplot2",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "EBSeq": [
         "testthat",
@@ -5417,7 +5183,6 @@
         "biomaRt",
         "AnnotationDbi",
         "GenomicFeatures",
-        "RSQLite",
         "BiocFileCache",
         "rtracklayer",
         "GenomicAlignments",
@@ -5434,7 +5199,6 @@
         "AnnotationDbi",
         "annotate",
         "nloptr",
-        "RSQLite",
         "testthat",
         "waldo",
         "rematch2"
@@ -5448,7 +5212,6 @@
         "org.Mm.eg.db",
         "DOSE",
         "AnnotationDbi",
-        "RSQLite",
         "dplyr",
         "enrichplot",
         "GO.db",
@@ -5500,7 +5263,6 @@
         "org.Mm.eg.db",
         "org.Rn.eg.db",
         "plotly",
-        "RSQLite",
         "GO.db",
         "annotate",
         "GSEABase",
@@ -5538,7 +5300,6 @@
         "rtracklayer",
         "AnnotationDbi",
         "BiocFileCache",
-        "RSQLite",
         "ggsci",
         "cowplot",
         "ggsignif",
@@ -5576,7 +5337,6 @@
         "rtracklayer",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "Rsamtools",
         "TFBSTools",
         "GenomicAlignments",
@@ -5595,7 +5355,6 @@
         "AnnotationHub",
         "genefilter",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -5622,7 +5381,6 @@
         "graphite",
         "pathview",
         "safe",
-        "RSQLite",
         "dbplyr",
         "dplyr",
         "annotate",
@@ -5654,7 +5412,6 @@
         "tidytree",
         "treeio",
         "GO.db",
-        "RSQLite",
         "cowplot"
     ],
     "enrichTF": [
@@ -5683,7 +5440,6 @@
         "rstatix",
         "GenomicAlignments",
         "CNEr",
-        "RSQLite",
         "readr",
         "annotate",
         "HDO.db",
@@ -5714,7 +5470,6 @@
     ],
     "ensembldb": [
         "GenomicFeatures",
-        "RSQLite",
         "AnnotationDbi",
         "rtracklayer",
         "Rsamtools",
@@ -5731,7 +5486,6 @@
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "GenomicAlignments",
         "BiocFileCache",
@@ -5747,7 +5501,6 @@
         "plotly",
         "rtracklayer",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -5818,8 +5571,7 @@
         "Rsamtools",
         "beadarray",
         "AnnotationDbi",
-        "ggplot2",
-        "RSQLite"
+        "ggplot2"
     ],
     "epigraHMM": [
         "rtracklayer",
@@ -5861,7 +5613,6 @@
         "gson",
         "Hmisc",
         "GO.db",
-        "RSQLite",
         "HDO.db",
         "fgsea",
         "GOSemSim",
@@ -5895,7 +5646,6 @@
         "GEOquery",
         "ggplot2",
         "tidyr",
-        "RSQLite",
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
@@ -5927,7 +5677,6 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
         "ggrepel",
-        "RSQLite",
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
@@ -5969,7 +5718,6 @@
         "AnnotationDbi",
         "GenomicFeatures",
         "BiocFileCache",
-        "RSQLite",
         "tRNAdbImport",
         "dbplyr",
         "dplyr",
@@ -5988,7 +5736,6 @@
         "AnnotationDbi",
         "OrganismDbi",
         "ensembldb",
-        "RSQLite",
         "rtracklayer",
         "Rsamtools",
         "biomaRt",
@@ -6002,7 +5749,6 @@
         "OrganismDbi",
         "GenomicFeatures",
         "ensembldb",
-        "RSQLite",
         "AnnotationDbi",
         "rtracklayer",
         "Rsamtools",
@@ -6016,7 +5762,6 @@
         "OrganismDbi",
         "GenomicFeatures",
         "ensembldb",
-        "RSQLite",
         "AnnotationDbi",
         "rtracklayer",
         "Rsamtools",
@@ -6032,7 +5777,6 @@
         "epivizrData",
         "bumphunter",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -6053,7 +5797,6 @@
         "rtracklayer",
         "ggplot2",
         "AnnotationDbi",
-        "RSQLite",
         "Rsamtools",
         "GenomicAlignments",
         "VariantAnnotation",
@@ -6073,8 +5816,7 @@
         "ggplot2",
         "geneplotter",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "esATAC": [
         "Rsamtools",
@@ -6091,7 +5833,6 @@
         "GenomicFeatures",
         "TFBSTools",
         "motifmatchr",
-        "RSQLite",
         "enrichplot",
         "dplyr",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -6142,13 +5883,11 @@
         "annotate",
         "AnnotationDbi",
         "BiocSingular",
-        "babelgene",
-        "RSQLite"
+        "babelgene"
     ],
     "esetVis": [
         "MLP",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "eudysbiome": [
         "Rsamtools"
@@ -6175,7 +5914,6 @@
         "ggplot2",
         "cowplot",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "GenomicAlignments",
         "BiocFileCache",
@@ -6209,7 +5947,6 @@
         "treeio",
         "plotly",
         "readr",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -6243,7 +5980,6 @@
         "rtracklayer",
         "geneplotter",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "annotate",
@@ -6253,7 +5989,6 @@
     "ExperimentHub": [
         "AnnotationHub",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -6270,7 +6005,6 @@
         "BiocCheck",
         "AnnotationDbi",
         "OrganismDbi",
-        "RSQLite",
         "AnnotationForge",
         "BiocFileCache",
         "BiocVersion",
@@ -6289,7 +6023,6 @@
         "dplyr",
         "treeio",
         "dbplyr",
-        "RSQLite",
         "scuttle",
         "tidytree",
         "tidyr"
@@ -6331,7 +6064,6 @@
         "BSgenome",
         "biovizBase",
         "GenomicAlignments",
-        "RSQLite",
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
@@ -6348,7 +6080,6 @@
         "ggplot2",
         "readr",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "Rsamtools",
         "GenomicAlignments",
@@ -6383,7 +6114,6 @@
         "gson",
         "qvalue",
         "ggplot2",
-        "RSQLite",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -6413,7 +6143,6 @@
         "org.Sc.sgd.db",
         "GO.db",
         "AnnotationDbi",
-        "RSQLite",
         "broom",
         "dplyr",
         "tidyr"
@@ -6460,7 +6189,6 @@
         "gson",
         "qvalue",
         "tidyr",
-        "RSQLite",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -6487,7 +6215,6 @@
         "AnnotationDbi",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "dbplyr",
@@ -6515,7 +6242,6 @@
         "methylumi",
         "GenomicFeatures",
         "annotate",
-        "RSQLite",
         "AnnotationDbi",
         "ggplot2",
         "FDb.InfiniumMethylation.hg19",
@@ -6540,8 +6266,7 @@
     "fgga": [
         "BiocFileCache",
         "dbplyr",
-        "dplyr",
-        "RSQLite"
+        "dplyr"
     ],
     "fgsea": [
         "ggplot2",
@@ -6561,7 +6286,6 @@
         "tidyr",
         "MultiAssayExperiment",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "Rsamtools",
         "GenomicAlignments",
@@ -6602,7 +6326,6 @@
         "BSgenome",
         "GenomicAlignments",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "Hmisc",
         "biovizBase",
@@ -6765,7 +6488,6 @@
         "ggforce",
         "ggrepel",
         "viridis",
-        "RSQLite",
         "ipred",
         "lexicon",
         "prodlim",
@@ -6777,8 +6499,7 @@
         "tidyr",
         "dplyr",
         "GO.db",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "FRASER": [
         "Rsamtools",
@@ -6792,7 +6513,6 @@
         "ggrepel",
         "OUTRIDER",
         "plotly",
-        "RSQLite",
         "BiocFileCache",
         "rtracklayer",
         "DESeq2",
@@ -6830,8 +6550,7 @@
     ],
     "frma": [
         "oligo",
-        "oligoClasses",
-        "RSQLite"
+        "oligoClasses"
     ],
     "FunChIP": [
         "fda",
@@ -6856,7 +6575,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -6896,7 +6614,6 @@
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "GenomicAlignments",
         "BiocFileCache",
@@ -6910,7 +6627,6 @@
         "shinyjs",
         "tidyr",
         "shinythemes",
-        "RSQLite",
         "VariantAnnotation",
         "rtracklayer",
         "biomaRt",
@@ -6922,8 +6638,7 @@
     ],
     "gage": [
         "AnnotationDbi",
-        "GO.db",
-        "RSQLite"
+        "GO.db"
     ],
     "GARS": [
         "ggplot2",
@@ -6951,7 +6666,6 @@
         "viridis",
         "genefilter",
         "waldo",
-        "RSQLite",
         "BiocFileCache",
         "pbkrtest",
         "annotate",
@@ -6986,7 +6700,6 @@
         "ggplot2"
     ],
     "GCSscore": [
-        "RSQLite",
         "devtools",
         "usethis",
         "miniUI",
@@ -7022,7 +6735,6 @@
         "broom",
         "survMisc",
         "ggtext",
-        "RSQLite",
         "dbplyr",
         "aplot",
         "ggnewscale",
@@ -7072,7 +6784,6 @@
         "VariantAnnotation",
         "rtracklayer",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "Rsamtools",
         "GenomicAlignments",
@@ -7094,7 +6805,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "RSQLite",
         "dbplyr",
         "broom",
         "car",
@@ -7110,7 +6820,6 @@
         "GenomicFeatures",
         "rtracklayer",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "Rsamtools",
         "GenomicAlignments",
@@ -7124,8 +6833,7 @@
     ],
     "genefilter": [
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "genefu": [
         "survcomp",
@@ -7134,7 +6842,6 @@
         "BiocFileCache",
         "prodlim",
         "ipred",
-        "RSQLite",
         "dbplyr",
         "dplyr"
     ],
@@ -7158,19 +6865,16 @@
     "GeneMeta": [
         "genefilter",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "geneplotter": [
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "GENESIS": [
         "GWASTools",
         "SeqArray",
         "SeqVarTools",
-        "RSQLite",
         "logistf",
         "quantsmooth",
         "mice",
@@ -7191,7 +6895,6 @@
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
-        "RSQLite",
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
@@ -7220,7 +6923,6 @@
         "tidyr",
         "tippy",
         "viridis",
-        "RSQLite",
         "fresh",
         "waiter",
         "miniUI",
@@ -7236,7 +6938,6 @@
         "AnnotationDbi",
         "BiocStyle",
         "org.Rn.eg.db",
-        "RSQLite",
         "bookdown",
         "Rsamtools",
         "GenomicAlignments"
@@ -7277,7 +6978,6 @@
     ],
     "GenomicFeatures": [
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -7294,7 +6994,6 @@
         "AnnotationDbi",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "dbplyr",
@@ -7305,7 +7004,6 @@
         "AnnotationDbi",
         "GO.db",
         "GenomicFeatures",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -7328,7 +7026,6 @@
         "BSgenome",
         "biovizBase",
         "GenomicAlignments",
-        "RSQLite",
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
@@ -7352,7 +7049,6 @@
         "OrganismDbi",
         "GGally",
         "ensembldb",
-        "RSQLite",
         "dbplyr",
         "dplyr",
         "forcats",
@@ -7362,7 +7058,6 @@
     "GenomicScores": [
         "BiocFileCache",
         "AnnotationHub",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -7377,7 +7072,6 @@
         "BiocFileCache",
         "flextable",
         "dbplyr",
-        "RSQLite",
         "ggrepel",
         "ggsci",
         "tidyr",
@@ -7402,7 +7096,6 @@
         "AnnotationDbi",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "dbplyr",
@@ -7437,7 +7130,6 @@
         "viridis",
         "BSgenome",
         "VariantAnnotation",
-        "RSQLite",
         "BiocFileCache",
         "rtracklayer",
         "dbplyr",
@@ -7504,7 +7196,6 @@
     ],
     "GEOmetadb": [
         "GEOquery",
-        "RSQLite",
         "readr",
         "dplyr",
         "tidyr",
@@ -7539,8 +7230,7 @@
     "gep2pep": [
         "GSEABase",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "gespeR": [
         "ggplot2",
@@ -7553,7 +7243,6 @@
         "vsn",
         "GSEABase",
         "Category",
-        "RSQLite",
         "dbplyr",
         "annotate"
     ],
@@ -7585,7 +7274,6 @@
         "GGally",
         "ensembldb",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "dplyr",
         "forcats",
@@ -7640,7 +7328,6 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "scuttle"
     ],
     "ggtree": [
@@ -7692,12 +7379,10 @@
         "annotate",
         "multcomp",
         "Hmisc",
-        "RSQLite",
         "ggplot2",
         "viridis"
     ],
     "GladiaTOX": [
-        "RSQLite",
         "ggplot2",
         "ggrepel",
         "tidyr",
@@ -7708,8 +7393,7 @@
         "geneplotter",
         "ggplot2",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "glmGamPoi": [
         "SingleCellExperiment"
@@ -7730,7 +7414,6 @@
         "broom",
         "survMisc",
         "ggtext",
-        "RSQLite",
         "dbplyr",
         "ggrepel",
         "ggsci",
@@ -7751,14 +7434,12 @@
         "AnnotationDbi",
         "dendextend",
         "GSEABase",
-        "RSQLite",
         "ggplot2",
         "viridis"
     ],
     "globaltest": [
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "gmapR": [
         "Rsamtools",
@@ -7768,7 +7449,6 @@
         "BSgenome",
         "GenomicAlignments",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "dbplyr",
@@ -7783,7 +7463,6 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "WGCNA",
-        "RSQLite",
         "genefilter",
         "annotate",
         "GO.db",
@@ -7801,7 +7480,6 @@
         "GenomicFeatures",
         "rtracklayer",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "dbplyr",
@@ -7821,13 +7499,11 @@
         "ggplot2",
         "AnnotationDbi",
         "BiocFileCache",
-        "RSQLite",
         "dbplyr",
         "dplyr"
     ],
     "GOfuncR": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "GOpro": [
         "AnnotationDbi",
@@ -7835,7 +7511,6 @@
         "org.Hs.eg.db",
         "GO.db",
         "MultiAssayExperiment",
-        "RSQLite",
         "ggplot2",
         "viridis",
         "tidyr",
@@ -7843,19 +7518,16 @@
     ],
     "goProfiles": [
         "AnnotationDbi",
-        "GO.db",
-        "RSQLite"
+        "GO.db"
     ],
     "GOSemSim": [
         "AnnotationDbi",
-        "GO.db",
-        "RSQLite"
+        "GO.db"
     ],
     "goseq": [
         "geneLenDataBase",
         "AnnotationDbi",
         "GO.db",
-        "RSQLite",
         "rtracklayer",
         "GenomicFeatures",
         "biomaRt",
@@ -7870,8 +7542,7 @@
         "annotate",
         "org.Hs.eg.db",
         "AnnotationDbi",
-        "topGO",
-        "RSQLite"
+        "topGO"
     ],
     "goSorensen": [
         "GO.db",
@@ -7886,7 +7557,6 @@
         "gson",
         "qvalue",
         "tidyr",
-        "RSQLite",
         "HDO.db",
         "fgsea",
         "ggplot2",
@@ -7911,7 +7581,6 @@
         "AnnotationDbi",
         "biomaRt",
         "GO.db",
-        "RSQLite",
         "BiocFileCache",
         "dbplyr",
         "dplyr"
@@ -7922,7 +7591,6 @@
         "GO.db",
         "annotate",
         "AnnotationForge",
-        "RSQLite",
         "GSEABase",
         "genefilter"
     ],
@@ -7939,8 +7607,7 @@
     ],
     "goTools": [
         "GO.db",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "GPA": [
         "ggplot2",
@@ -7966,7 +7633,6 @@
         "BiocFileCache",
         "geneplotter",
         "vroom",
-        "RSQLite",
         "dbplyr",
         "annotate"
     ],
@@ -7987,8 +7653,7 @@
         "MCMCpack"
     ],
     "graphite": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "GraphPAC": [],
     "GRENITS": [
@@ -8032,8 +7697,7 @@
     ],
     "GSEABase": [
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "GSEABenchmarkeR": [
         "AnnotationDbi",
@@ -8041,7 +7705,6 @@
         "BiocFileCache",
         "EnrichmentBrowser",
         "ExperimentHub",
-        "RSQLite",
         "BiocVersion",
         "interactiveDisplayBase",
         "dplyr",
@@ -8072,7 +7735,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "sqldf",
-        "RSQLite",
         "dbplyr",
         "dplyr"
     ],
@@ -8081,7 +7743,6 @@
         "org.Hs.eg.db",
         "GenomicFeatures",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "OrganismDbi",
@@ -8097,16 +7758,14 @@
         "genefilter",
         "GSEABase",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "GSVA": [
         "GSEABase",
         "SingleCellExperiment",
         "BiocSingular",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "GUIDEseq": [
         "CRISPRseek",
@@ -8127,7 +7786,6 @@
         "InteractionSet",
         "regioneR",
         "keras",
-        "RSQLite",
         "haven",
         "readxl",
         "BiocFileCache",
@@ -8145,7 +7803,6 @@
         "AnnotationDbi",
         "ggplot2",
         "dplyr",
-        "RSQLite",
         "biomaRt",
         "Rsamtools",
         "GenomicAlignments",
@@ -8162,7 +7819,6 @@
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
-        "RSQLite",
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
@@ -8188,7 +7844,6 @@
         "BiocFileCache",
         "VariantAnnotation",
         "AnnotationHub",
-        "RSQLite",
         "BiocVersion",
         "interactiveDisplayBase",
         "dplyr",
@@ -8201,7 +7856,6 @@
         "GenomicAlignments"
     ],
     "GWASTools": [
-        "RSQLite",
         "logistf",
         "quantsmooth",
         "mice",
@@ -8213,7 +7867,6 @@
     "gwasurvivr": [
         "GWASTools",
         "VariantAnnotation",
-        "RSQLite",
         "logistf",
         "quantsmooth",
         "Rsamtools",
@@ -8241,14 +7894,12 @@
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
-        "RSQLite",
         "viridis"
     ],
     "h5vc": [
         "ggplot2",
         "Rsamtools",
-        "BatchJobs",
-        "RSQLite"
+        "BatchJobs"
     ],
     "Harshlight": [],
     "hca": [
@@ -8258,7 +7909,6 @@
         "BiocFileCache",
         "miniUI",
         "dbplyr",
-        "RSQLite",
         "vroom"
     ],
     "HelloRanges": [
@@ -8269,7 +7919,6 @@
         "GenomicAlignments",
         "rtracklayer",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "dbplyr",
@@ -8289,7 +7938,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "geneplotter",
-        "RSQLite",
         "dbplyr",
         "annotate"
     ],
@@ -8337,7 +7985,6 @@
         "GenomicFeatures",
         "ensembldb",
         "biovizBase",
-        "RSQLite",
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
@@ -8388,7 +8035,6 @@
         "ExperimentHub",
         "BiocFileCache",
         "AnnotationHub",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -8413,7 +8059,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "BSgenome",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "dplyr",
@@ -8427,7 +8072,6 @@
         "MultiAssayExperiment",
         "coin",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -8490,7 +8134,6 @@
         "GenomicAlignments",
         "VariantTools",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "BSgenome",
         "BiocFileCache",
@@ -8502,8 +8145,7 @@
         "geneplotter",
         "ggplot2",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "HubPub": [
         "available",
@@ -8553,7 +8195,6 @@
         "TxDb.Dmelanogaster.UCSC.dm6.ensGene",
         "geneplotter",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "BSgenome",
         "BiocFileCache",
@@ -8566,7 +8207,6 @@
         "methylumi",
         "GenomicFeatures",
         "annotate",
-        "RSQLite",
         "AnnotationDbi",
         "rtracklayer",
         "biomaRt",
@@ -8626,7 +8266,6 @@
         "rintrojs",
         "ggrepel",
         "shinyAce",
-        "RSQLite",
         "geneplotter",
         "geneLenDataBase",
         "Category",
@@ -8654,8 +8293,7 @@
     ],
     "idiogram": [
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "idpr": [
         "ggplot2",
@@ -8677,7 +8315,6 @@
         "AnnotationDbi",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "dbplyr",
@@ -8702,8 +8339,7 @@
         "Category",
         "ggplot2",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "IMAS": [
         "GenomicFeatures",
@@ -8714,7 +8350,6 @@
         "ggfortify",
         "Rsamtools",
         "GenomicAlignments",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "dplyr",
@@ -8746,13 +8381,11 @@
         "DropletUtils",
         "BiocFileCache",
         "tidyr",
-        "dbplyr",
-        "RSQLite"
+        "dbplyr"
     ],
     "IMMAN": [
         "STRINGdb",
-        "sqldf",
-        "RSQLite"
+        "sqldf"
     ],
     "ImmuneSpaceR": [
         "ggplot2",
@@ -8810,7 +8443,6 @@
         "ggplot2",
         "plyranges",
         "readr",
-        "RSQLite",
         "rtracklayer",
         "Rsamtools",
         "BSgenome.Drerio.UCSC.danRer7",
@@ -8830,7 +8462,6 @@
         "geneplotter",
         "ggplot2",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "annotate",
@@ -8876,7 +8507,6 @@
         "GGally",
         "ensembldb",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "dplyr",
         "forcats",
@@ -8895,7 +8525,6 @@
         "ggplot2",
         "Category",
         "AnnotationDbi",
-        "RSQLite",
         "GSEABase",
         "genefilter",
         "annotate"
@@ -8927,7 +8556,6 @@
         "ggrepel",
         "usethis",
         "cellranger",
-        "RSQLite",
         "dbplyr",
         "car",
         "ggsci",
@@ -8953,7 +8581,6 @@
         "AnnotationDbi",
         "biomaRt",
         "genefilter",
-        "RSQLite",
         "rtracklayer",
         "BiocFileCache",
         "annotate",
@@ -8961,8 +8588,7 @@
         "dplyr"
     ],
     "InterMineR": [
-        "sqldf",
-        "RSQLite"
+        "sqldf"
     ],
     "IONiseR": [
         "dplyr",
@@ -8997,7 +8623,6 @@
     "ipdDb": [
         "AnnotationDbi",
         "AnnotationHub",
-        "RSQLite",
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
@@ -9028,7 +8653,6 @@
         "scater",
         "scran",
         "DataVisualizations",
-        "RSQLite",
         "DOSE",
         "dplyr",
         "enrichplot",
@@ -9126,7 +8750,6 @@
         "shinydashboard",
         "shinyjs",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -9159,7 +8782,6 @@
         "ggplot2",
         "AnnotationDbi",
         "BiocFileCache",
-        "RSQLite",
         "dbplyr",
         "dplyr"
     ],
@@ -9199,7 +8821,6 @@
         "ensembldb",
         "BiocFileCache",
         "AnnotationHub",
-        "RSQLite",
         "BiocVersion",
         "interactiveDisplayBase",
         "dbplyr",
@@ -9216,7 +8837,6 @@
         "GGally",
         "readr",
         "tidyr",
-        "RSQLite",
         "ggdendro",
         "ggrepel",
         "geneplotter",
@@ -9227,8 +8847,7 @@
     "ITALICS": [
         "oligo",
         "pd.mapping50k.xba240",
-        "oligoClasses",
-        "RSQLite"
+        "oligoClasses"
     ],
     "IVAS": [
         "GenomicFeatures",
@@ -9236,7 +8855,6 @@
         "lme4",
         "AnnotationDbi",
         "ggfortify",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "dplyr",
@@ -9289,7 +8907,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "VariantAnnotation",
-        "RSQLite",
         "Hmisc",
         "GenomicAlignments",
         "ensembldb",
@@ -9316,7 +8933,6 @@
         "GenomicAlignments",
         "AnnotationDbi",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "dbplyr"
@@ -9328,18 +8944,15 @@
     "KEGGlincs": [
         "hgu133a.db",
         "org.Hs.eg.db",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "keggorthology": [
         "hgu95av2.db",
         "AnnotationDbi",
-        "RSQLite",
         "org.Hs.eg.db"
     ],
     "KinSwingR": [
-        "sqldf",
-        "RSQLite"
+        "sqldf"
     ],
     "kissDE": [
         "DESeq2",
@@ -9364,7 +8977,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "RSQLite",
         "rtracklayer",
         "Rsamtools",
         "pbkrtest",
@@ -9391,7 +9003,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "RSQLite",
         "prodlim"
     ],
     "LACE": [
@@ -9411,7 +9022,6 @@
         "BiocFileCache",
         "vroom",
         "learnr",
-        "RSQLite",
         "dbplyr"
     ],
     "LedPred": [
@@ -9445,7 +9055,6 @@
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "GenomicAlignments",
         "BiocFileCache",
@@ -9516,7 +9125,6 @@
         "org.Sc.sgd.db",
         "broom",
         "AnnotationDbi",
-        "RSQLite",
         "dplyr",
         "tidyr",
         "ggplot2"
@@ -9536,7 +9144,6 @@
         "lme4",
         "ggforce",
         "dbplyr",
-        "RSQLite",
         "scuttle",
         "nloptr",
         "testthat",
@@ -9572,7 +9179,6 @@
         "TFBSTools",
         "miniUI",
         "dbplyr",
-        "RSQLite",
         "vroom",
         "rvest",
         "AnnotationDbi",
@@ -9588,8 +9194,7 @@
         "biomaRt"
     ],
     "LRBaseDbi": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "LRcell": [
         "ExperimentHub",
@@ -9598,7 +9203,6 @@
         "ggplot2",
         "ggrepel",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -9608,7 +9212,6 @@
         "methylumi",
         "GenomicFeatures",
         "annotate",
-        "RSQLite",
         "AnnotationDbi",
         "rtracklayer",
         "biomaRt",
@@ -9666,7 +9269,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "GenomicAlignments",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -9707,7 +9309,6 @@
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
-        "RSQLite",
         "pbkrtest",
         "viridis",
         "nloptr",
@@ -9719,8 +9320,7 @@
     ],
     "macat": [
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "MACSQuantifyR": [
         "readxl",
@@ -9734,7 +9334,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -9753,7 +9352,6 @@
         "AnnotationDbi",
         "GenomicFeatures",
         "dplyr",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "dbplyr"
@@ -9775,7 +9373,6 @@
         "genefilter",
         "AnnotationDbi",
         "GenomicFeatures",
-        "RSQLite",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
         "rtracklayer",
@@ -9820,7 +9417,6 @@
         "ggtree",
         "babelgene",
         "org.Hs.eg.db",
-        "RSQLite",
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
@@ -9891,14 +9487,12 @@
     ],
     "mAPKL": [
         "AnnotationDbi",
-        "reactome.db",
-        "RSQLite"
+        "reactome.db"
     ],
     "maPredictDSC": [
         "caret",
         "hgu133plus2.db",
         "AnnotationDbi",
-        "RSQLite",
         "ggplot2",
         "recipes",
         "org.Hs.eg.db",
@@ -9926,7 +9520,6 @@
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
-        "RSQLite",
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
@@ -9956,7 +9549,6 @@
         "TFBSTools",
         "BSgenome",
         "CNEr",
-        "RSQLite",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -9982,7 +9574,6 @@
         "AnnotationDbi",
         "annotate",
         "testthat",
-        "RSQLite",
         "waldo",
         "rematch2"
     ],
@@ -9999,14 +9590,12 @@
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
-        "RSQLite",
         "ggplot2",
         "viridis"
     ],
     "mBPCR": [
         "oligoClasses",
         "GWASTools",
-        "RSQLite",
         "logistf",
         "quantsmooth",
         "mice",
@@ -10020,8 +9609,7 @@
         "ggplot2",
         "PairedData",
         "dbplyr",
-        "dplyr",
-        "RSQLite"
+        "dplyr"
     ],
     "MCbiclust": [
         "AnnotationDbi",
@@ -10030,7 +9618,6 @@
         "GGally",
         "ggplot2",
         "WGCNA",
-        "RSQLite",
         "dplyr",
         "forcats",
         "tidyr",
@@ -10047,7 +9634,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "cowplot",
-        "RSQLite",
         "rtracklayer",
         "ensembldb",
         "BSgenome",
@@ -10103,7 +9689,6 @@
         "ruv",
         "ggrepel",
         "sva",
-        "RSQLite",
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
@@ -10133,7 +9718,6 @@
         "annotate",
         "readr",
         "tidyr",
-        "RSQLite",
         "ggplot2",
         "FDb.InfiniumMethylation.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -10155,7 +9739,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
-        "RSQLite",
         "dbplyr",
         "dplyr"
     ],
@@ -10213,8 +9796,7 @@
         "rematch2"
     ],
     "MeSHDbi": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "meshes": [
         "AnnotationDbi",
@@ -10223,7 +9805,6 @@
         "GOSemSim",
         "AnnotationHub",
         "MeSHDbi",
-        "RSQLite",
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
@@ -10256,7 +9837,6 @@
         "BiocStyle",
         "MeSHDbi",
         "Category",
-        "RSQLite",
         "bookdown",
         "AnnotationDbi",
         "GSEABase",
@@ -10270,8 +9850,7 @@
         "ggridges",
         "AnnotationDbi",
         "cowplot",
-        "ggplot2",
-        "RSQLite"
+        "ggplot2"
     ],
     "messina": [
         "ggplot2"
@@ -10299,7 +9878,6 @@
         "ChemmineR",
         "dplyr",
         "dbplyr",
-        "RSQLite",
         "MultiAssayExperiment",
         "plotly",
         "ggplot2",
@@ -10323,7 +9901,6 @@
         "AnnotationDbi",
         "MWASTools",
         "mygene",
-        "RSQLite",
         "BiocFileCache",
         "ensembldb",
         "qvalue",
@@ -10377,7 +9954,6 @@
         "Rsamtools",
         "ensembldb",
         "EnsDb.Hsapiens.v86",
-        "RSQLite",
         "AnnotationDbi",
         "biomaRt",
         "BiocFileCache",
@@ -10424,7 +10000,6 @@
         "tidyr",
         "IRkernel",
         "IRdisplay",
-        "RSQLite",
         "ipred",
         "HDO.db",
         "fgsea",
@@ -10466,7 +10041,6 @@
         "qvalue",
         "rmdformats",
         "Rsamtools",
-        "RSQLite",
         "rtracklayer",
         "survcomp",
         "vsn",
@@ -10500,7 +10074,6 @@
         "ensembldb",
         "ggplot2",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "Rsamtools",
         "biomaRt",
@@ -10558,7 +10131,6 @@
         "ExperimentHub",
         "readr",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -10599,7 +10171,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -10627,7 +10198,6 @@
         "rtracklayer",
         "GenomicAlignments",
         "Rsamtools",
-        "RSQLite",
         "biomaRt",
         "readr",
         "tidyr",
@@ -10676,7 +10246,6 @@
         "readxl",
         "reprex",
         "rvest",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -10709,7 +10278,6 @@
         "AnnotationDbi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "RSQLite",
         "DOSE",
         "dplyr",
         "enrichplot",
@@ -10786,7 +10354,6 @@
         "ensembldb",
         "BSgenome",
         "biovizBase",
-        "RSQLite",
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
@@ -10806,8 +10373,7 @@
         "Rsamtools",
         "annotate",
         "AnnotationDbi",
-        "GenomicAlignments",
-        "RSQLite"
+        "GenomicAlignments"
     ],
     "methylSig": [
         "bsseq",
@@ -10825,7 +10391,6 @@
         "genefilter",
         "AnnotationDbi",
         "GenomicFeatures",
-        "RSQLite",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
         "rtracklayer",
@@ -10870,15 +10435,13 @@
     ],
     "MGFM": [
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "MGFR": [
         "biomaRt",
         "annotate",
         "AnnotationDbi",
         "BiocFileCache",
-        "RSQLite",
         "dbplyr",
         "dplyr"
     ],
@@ -10892,7 +10455,6 @@
         "scater",
         "dplyr",
         "tidyr",
-        "RSQLite",
         "ggplot2",
         "BiocSingular",
         "ggbeeswarm",
@@ -10937,8 +10499,7 @@
         "ggbeeswarm",
         "ggrastr",
         "ggplotify",
-        "patchwork",
-        "RSQLite"
+        "patchwork"
     ],
     "microbiome": [
         "phyloseq",
@@ -10975,7 +10536,6 @@
         "annotate",
         "AnnotationDbi",
         "nloptr",
-        "RSQLite",
         "testthat",
         "waldo",
         "rematch2"
@@ -11023,7 +10583,6 @@
         "testthat",
         "hardhat",
         "ipred",
-        "RSQLite",
         "prodlim",
         "cellranger",
         "BiocSingular",
@@ -11055,7 +10614,6 @@
         "shadowtext",
         "ggtree",
         "usethis",
-        "RSQLite",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -11109,7 +10667,6 @@
         "GOstats",
         "GSEABase",
         "org.Hs.eg.db",
-        "RSQLite",
         "Category",
         "annotate",
         "AnnotationForge",
@@ -11133,8 +10690,7 @@
     "mimager": [
         "affyPLM",
         "oligo",
-        "oligoClasses",
-        "RSQLite"
+        "oligoClasses"
     ],
     "MIMOSA": [
         "ggplot2",
@@ -11159,7 +10715,6 @@
         "AnnotationDbi",
         "lumi",
         "lumiHumanAll.db",
-        "RSQLite",
         "BiocFileCache",
         "Category",
         "GO.db",
@@ -11196,7 +10751,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -11208,7 +10762,6 @@
     "MinimumDistance": [
         "VanillaICE",
         "oligoClasses",
-        "RSQLite",
         "crlmm",
         "BSgenome.Hsapiens.UCSC.hg18",
         "BSgenome",
@@ -11229,15 +10782,13 @@
         "GenomicAlignments"
     ],
     "MiRaGE": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "mirIntegrator": [
         "ROntoTools",
         "ggplot2",
         "org.Hs.eg.db",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "miRLAB": [
         "Hmisc",
@@ -11259,7 +10810,6 @@
         "rvest",
         "readr",
         "tidyr",
-        "RSQLite",
         "BiocFileCache",
         "vroom",
         "dbplyr"
@@ -11267,12 +10817,10 @@
     "miRmine": [],
     "miRNAmeConverter": [
         "miRBaseVersions.db",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "miRNAtap": [
         "AnnotationDbi",
-        "RSQLite",
         "sqldf"
     ],
     "miRSM": [
@@ -11305,7 +10853,6 @@
         "ggvis",
         "Hmisc",
         "GO.db",
-        "RSQLite",
         "dplyr",
         "enrichplot",
         "GOSemSim",
@@ -11396,7 +10943,6 @@
         "cvms",
         "MetBrewer",
         "ggpubr",
-        "RSQLite",
         "BiocFileCache",
         "recipes",
         "groupdata2",
@@ -11459,7 +11005,6 @@
         "minfi",
         "org.Hs.eg.db",
         "ruv",
-        "RSQLite",
         "ggplot2",
         "FDb.InfiniumMethylation.hg19",
         "annotate",
@@ -11516,7 +11061,6 @@
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "GenomicAlignments",
         "BiocFileCache",
@@ -11534,12 +11078,10 @@
         "genefilter",
         "ggvis",
         "AnnotationDbi",
-        "dplyr",
-        "RSQLite"
+        "dplyr"
     ],
     "MLP": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "MLSeq": [
         "caret",
@@ -11556,7 +11098,6 @@
         "ipred",
         "tidyr",
         "rematch2",
-        "RSQLite",
         "prodlim"
     ],
     "MMDiff2": [
@@ -11595,8 +11136,7 @@
         "ClusterR",
         "ggplot2",
         "GO.db",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "MobilityTransformR": [
         "MSnbase",
@@ -11610,7 +11150,6 @@
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
-        "RSQLite",
         "ggplot2",
         "viridis"
     ],
@@ -11632,8 +11171,7 @@
         "genefilter",
         "GSEABase",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "MOMA": [
         "dplyr",
@@ -11651,7 +11189,6 @@
         "rtracklayer",
         "Rsamtools",
         "CNEr",
-        "RSQLite",
         "GenomicAlignments",
         "readr",
         "ggplot2",
@@ -11684,7 +11221,6 @@
         "readr",
         "biomaRt",
         "rvest",
-        "RSQLite",
         "BiocFileCache",
         "aplot",
         "ggnewscale",
@@ -11743,7 +11279,6 @@
         "GenomicAlignments",
         "ggplot2",
         "TFBSTools",
-        "RSQLite",
         "BiocFileCache",
         "Hmisc",
         "CNEr",
@@ -11766,7 +11301,6 @@
         "Rsamtools",
         "rtracklayer",
         "CNEr",
-        "RSQLite",
         "GenomicAlignments",
         "readr",
         "ggplot2",
@@ -11780,7 +11314,6 @@
         "TFBSTools",
         "BSgenome",
         "CNEr",
-        "RSQLite",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -11797,7 +11330,6 @@
         "biomaRt",
         "AnnotationDbi",
         "BiocFileCache",
-        "RSQLite",
         "dbplyr"
     ],
     "mpra": [],
@@ -11856,7 +11388,6 @@
         "biomaRt",
         "ShortRead",
         "AnnotationDbi",
-        "RSQLite",
         "Hmisc",
         "biovizBase",
         "VariantAnnotation",
@@ -11879,8 +11410,7 @@
     ],
     "mslp": [
         "org.Hs.eg.db",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "msmsEDA": [
         "MSnbase",
@@ -11906,7 +11436,6 @@
         "ggplot2",
         "AnnotationHub",
         "AnnotationDbi",
-        "RSQLite",
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
@@ -11927,7 +11456,6 @@
         "lme4",
         "AnnotationDbi",
         "annotate",
-        "RSQLite",
         "nloptr",
         "broom",
         "ggplot2",
@@ -11938,8 +11466,7 @@
     "msPurity": [
         "dplyr",
         "dbplyr",
-        "ggplot2",
-        "RSQLite"
+        "ggplot2"
     ],
     "msqrob2": [
         "QFeatures",
@@ -12136,7 +11663,6 @@
         "dplyr",
         "keras",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "regioneR",
         "biovizBase",
@@ -12160,7 +11686,6 @@
         "dplyr",
         "fgsea",
         "metap",
-        "RSQLite",
         "ggplot2",
         "cowplot",
         "TFisher",
@@ -12178,8 +11703,7 @@
     ],
     "multiMiR": [
         "AnnotationDbi",
-        "dplyr",
-        "RSQLite"
+        "dplyr"
     ],
     "multiOmicsViz": [],
     "multiSight": [
@@ -12222,7 +11746,6 @@
         "ggrepel",
         "reactome.db",
         "graphite",
-        "RSQLite",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -12263,7 +11786,6 @@
         "GenomicAlignments",
         "AnnotationDbi",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "dbplyr"
@@ -12293,7 +11815,6 @@
         "AnnotationDbi",
         "testthat",
         "broom",
-        "RSQLite",
         "tidyr",
         "waldo",
         "rematch2"
@@ -12334,7 +11855,6 @@
         "FactoMineR",
         "ggpubr",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "learnr",
         "rvest",
@@ -12371,7 +11891,6 @@
         "Rsamtools",
         "AnnotationDbi",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "GenomicAlignments",
         "BiocFileCache",
@@ -12396,7 +11915,6 @@
         "Hmisc",
         "sqldf",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "ggplot2",
@@ -12417,7 +11935,6 @@
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "GenomicAlignments",
         "BiocFileCache",
@@ -12442,7 +11959,6 @@
         "Gviz",
         "AnnotationDbi",
         "InteractionSet",
-        "RSQLite",
         "dplyr",
         "ensembldb",
         "biomaRt",
@@ -12476,7 +11992,6 @@
         "dplyr",
         "ggrastr",
         "patchwork",
-        "RSQLite",
         "Rsamtools",
         "tidyr",
         "BSgenome",
@@ -12495,7 +12010,6 @@
         "AnnotationDbi",
         "org.Hs.eg.db",
         "NMF",
-        "RSQLite",
         "ggplot2"
     ],
     "nanotatoR": [
@@ -12505,7 +12019,6 @@
         "VarfromPDB",
         "org.Hs.eg.db",
         "dplyr",
-        "RSQLite",
         "waldo",
         "broom",
         "dbplyr",
@@ -12536,8 +12049,7 @@
         "geneplotter",
         "ggplot2",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "NBSplice": [
         "car",
@@ -12583,7 +12095,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "dbplyr"
@@ -12617,15 +12128,13 @@
         "geneplotter",
         "ggplot2",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "netboost": [
         "WGCNA",
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
-        "RSQLite",
         "ggplot2",
         "viridis"
     ],
@@ -12640,7 +12149,6 @@
         "gson",
         "qvalue",
         "tidyr",
-        "RSQLite",
         "HDO.db",
         "fgsea",
         "ggplot2",
@@ -12667,7 +12175,6 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "tidyr"
     ],
     "nethet": [
@@ -12684,7 +12191,6 @@
         "GO.db",
         "RandomWalkRestartMH",
         "gprofiler2",
-        "RSQLite",
         "plotly",
         "dnet",
         "supraHex",
@@ -12706,7 +12212,6 @@
         "biomaRt",
         "AnnotationDbi",
         "GO.db",
-        "RSQLite",
         "BiocFileCache",
         "Hmisc",
         "dbplyr",
@@ -12738,8 +12243,7 @@
         "dplyr",
         "AnnotationDbi",
         "annotate",
-        "tidyr",
-        "RSQLite"
+        "tidyr"
     ],
     "netZooR": [
         "pandaR",
@@ -12754,7 +12258,6 @@
         "ggdendro",
         "tidyr",
         "dplyr",
-        "RSQLite",
         "Category",
         "annotate",
         "AnnotationForge",
@@ -12806,7 +12309,6 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "scuttle"
     ],
     "nondetects": [
@@ -12819,7 +12321,6 @@
     ],
     "NoRCE": [
         "dplyr",
-        "RSQLite",
         "tidyr",
         "reactome.db",
         "rWikiPathways",
@@ -12877,8 +12378,7 @@
     "npGSEA": [
         "GSEABase",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "nucleR": [
         "Rsamtools",
@@ -12906,7 +12406,6 @@
         "genefilter",
         "plotly",
         "rtracklayer",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -12930,7 +12429,6 @@
         "GSVA",
         "plotly",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -12959,7 +12457,6 @@
         "rtracklayer",
         "megadepth",
         "dbplyr",
-        "RSQLite",
         "GenomicFeatures",
         "plyranges",
         "readr",
@@ -13005,7 +12502,6 @@
         "shinyBS",
         "tidyr",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -13023,12 +12519,9 @@
         "viridis"
     ],
     "oligo": [
-        "oligoClasses",
-        "RSQLite"
+        "oligoClasses"
     ],
-    "oligoClasses": [
-        "RSQLite"
-    ],
+    "oligoClasses": [],
     "omada": [
         "diceR",
         "ggplot2",
@@ -13049,8 +12542,7 @@
     "OmaDB": [
         "topGO",
         "GO.db",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "omicade4": [
         "made4"
@@ -13083,7 +12575,6 @@
         "broom",
         "dplyr",
         "tidyr",
-        "RSQLite",
         "pbkrtest",
         "testthat",
         "waldo",
@@ -13118,7 +12609,6 @@
         "lme4",
         "viridis",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "ggsci",
         "ggsignif",
@@ -13147,7 +12637,6 @@
         "ggseqlogo",
         "shinyjs",
         "ggplot2",
-        "RSQLite",
         "shinycssloaders",
         "cowplot",
         "tidyr",
@@ -13196,7 +12685,6 @@
         "biomaRt",
         "AnnotationDbi",
         "BiocFileCache",
-        "RSQLite",
         "dbplyr",
         "dplyr"
     ],
@@ -13226,7 +12714,6 @@
         "BiocFileCache",
         "dplyr",
         "AnnotationHub",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -13242,7 +12729,6 @@
         "dplyr",
         "DECIPHER",
         "Hmisc",
-        "RSQLite",
         "viridis"
     ],
     "openPrimeRui": [
@@ -13253,7 +12739,6 @@
         "dplyr",
         "DECIPHER",
         "Hmisc",
-        "RSQLite",
         "viridis"
     ],
     "OpenStats": [
@@ -13278,7 +12763,6 @@
         "biomaRt",
         "AnnotationDbi",
         "BiocFileCache",
-        "RSQLite",
         "dbplyr",
         "dplyr"
     ],
@@ -13288,8 +12772,7 @@
         "annotate",
         "AnnotationDbi",
         "SingleCellExperiment",
-        "BiocSingular",
-        "RSQLite"
+        "BiocSingular"
     ],
     "oppti": [
         "ggplot2",
@@ -13328,7 +12811,6 @@
         "ggplot2",
         "Rsamtools",
         "rtracklayer",
-        "RSQLite",
         "BiocFileCache",
         "dplyr",
         "readr",
@@ -13339,7 +12821,6 @@
     ],
     "Organism.dplyr": [
         "dplyr",
-        "RSQLite",
         "GenomicFeatures",
         "AnnotationDbi",
         "BiocFileCache",
@@ -13352,7 +12833,6 @@
     "OrganismDbi": [
         "AnnotationDbi",
         "GenomicFeatures",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -13412,7 +12892,6 @@
         "plotly",
         "geneplotter",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "viridis",
@@ -13431,8 +12910,7 @@
         "sva",
         "genefilter",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "packFinder": [],
     "padma": [
@@ -13455,7 +12933,6 @@
         "AnnotationDbi",
         "hgu133plus2.db",
         "hgu133a.db",
-        "RSQLite",
         "org.Hs.eg.db"
     ],
     "pageRank": [
@@ -13465,7 +12942,6 @@
         "Rsamtools",
         "rtracklayer",
         "CNEr",
-        "RSQLite",
         "GenomicAlignments",
         "readr",
         "ggplot2",
@@ -13507,7 +12983,6 @@
         "annotate",
         "TFisher",
         "mutoss",
-        "RSQLite",
         "HDO.db",
         "fgsea",
         "ggplot2",
@@ -13556,15 +13031,13 @@
         "viridis",
         "tfruns",
         "testthat",
-        "RSQLite",
         "cowplot",
         "GO.db",
         "waldo",
         "rematch2"
     ],
     "parglms": [
-        "BatchJobs",
-        "RSQLite"
+        "BatchJobs"
     ],
     "PAST": [
         "dplyr",
@@ -13593,20 +13066,17 @@
         "annotate",
         "AnnotationDbi",
         "waldo",
-        "RSQLite",
         "rematch2"
     ],
     "pathRender": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "pathVar": [
         "ggplot2"
     ],
     "pathview": [
         "AnnotationDbi",
-        "org.Hs.eg.db",
-        "RSQLite"
+        "org.Hs.eg.db"
     ],
     "paxtoolsr": [
         "readr",
@@ -13629,7 +13099,6 @@
         "shinyAce",
         "biomaRt",
         "tidyr",
-        "RSQLite",
         "BiocFileCache",
         "geneplotter",
         "annotate",
@@ -13683,7 +13152,6 @@
         "ggsignif",
         "rstatix",
         "hardhat",
-        "RSQLite",
         "dbplyr",
         "car",
         "pbkrtest",
@@ -13694,7 +13162,6 @@
         "rematch2"
     ],
     "pdInfoBuilder": [
-        "RSQLite",
         "oligo",
         "oligoClasses"
     ],
@@ -13714,8 +13181,7 @@
         "aroma.affymetrix",
         "aroma.core",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "peco": [
         "scater",
@@ -13761,7 +13227,6 @@
         "GOSemSim",
         "gson",
         "qvalue",
-        "RSQLite",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -13787,7 +13252,6 @@
         "fgsea",
         "AnnotationDbi",
         "DESeq2",
-        "RSQLite",
         "geneplotter",
         "cowplot",
         "readr",
@@ -13823,7 +13287,6 @@
         "ropls",
         "tidyr",
         "BiocFileCache",
-        "RSQLite",
         "testthat",
         "dplyr",
         "dbplyr",
@@ -13845,7 +13308,6 @@
         "GSEABase",
         "genefilter",
         "hgu133a.db",
-        "RSQLite",
         "BiocFileCache",
         "org.Hs.eg.db",
         "viridis",
@@ -13882,8 +13344,7 @@
     "PhIPData": [
         "BiocFileCache",
         "dbplyr",
-        "dplyr",
-        "RSQLite"
+        "dplyr"
     ],
     "PhosR": [
         "ruv",
@@ -13926,7 +13387,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "topGO",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -13989,7 +13449,6 @@
         "reactome.db",
         "graphite",
         "Hmisc",
-        "RSQLite",
         "aplot",
         "ggnewscale",
         "scatterpie",
@@ -14020,7 +13479,6 @@
         "ensembldb",
         "biovizBase",
         "GenomicAlignments",
-        "RSQLite",
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
@@ -14064,7 +13522,6 @@
         "dplyr"
     ],
     "plethy": [
-        "RSQLite",
         "ggplot2"
     ],
     "PloGO2": [
@@ -14074,7 +13531,6 @@
         "Category",
         "annotate",
         "AnnotationForge",
-        "RSQLite",
         "GSEABase",
         "genefilter"
     ],
@@ -14151,7 +13607,6 @@
         "BiocFileCache",
         "dplyr",
         "AnnotationHub",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -14173,14 +13628,12 @@
         "AnnotationDbi",
         "hardhat",
         "ipred",
-        "RSQLite",
         "prodlim"
     ],
     "PoTRA": [
         "org.Hs.eg.db",
         "graphite",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "powerTCR": [],
     "POWSC": [
@@ -14209,7 +13662,6 @@
         "BiocFileCache",
         "cowplot",
         "sqldf",
-        "RSQLite",
         "dbplyr",
         "dplyr"
     ],
@@ -14239,7 +13691,6 @@
         "org.Hs.eg.db",
         "GenomicFeatures",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "dplyr",
@@ -14254,8 +13705,7 @@
     ],
     "PREDA": [
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "primirTSS": [
         "rtracklayer",
@@ -14277,7 +13727,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "CNEr",
-        "RSQLite",
         "BiocVersion",
         "interactiveDisplayBase",
         "dbplyr",
@@ -14308,7 +13757,6 @@
         "GenomicFeatures",
         "GenomicAlignments",
         "ggplot2",
-        "RSQLite",
         "geneplotter",
         "Rsamtools",
         "rtracklayer",
@@ -14321,7 +13769,6 @@
         "AnnotationDbi",
         "GenomicFeatures",
         "rtracklayer",
-        "RSQLite",
         "biomaRt",
         "Rsamtools",
         "GenomicAlignments",
@@ -14344,7 +13791,6 @@
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
-        "RSQLite",
         "annotate",
         "nloptr",
         "testthat",
@@ -14387,7 +13833,6 @@
         "Rsamtools",
         "AnnotationDbi",
         "enrichplot",
-        "RSQLite",
         "biomaRt",
         "GO.db",
         "GenomicAlignments",
@@ -14450,7 +13895,6 @@
         "genefilter",
         "ggvis",
         "vsn",
-        "RSQLite",
         "dbplyr",
         "dplyr",
         "hardhat",
@@ -14484,7 +13928,6 @@
         "annotate",
         "genefilter",
         "ggvis",
-        "RSQLite",
         "dbplyr",
         "hardhat",
         "ipred",
@@ -14494,15 +13937,13 @@
     "PROMISE": [
         "GSEABase",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "PROPS": [
         "sva",
         "genefilter",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "Prostar": [
         "DAPAR",
@@ -14528,7 +13969,6 @@
         "EnsDb.Rnorvegicus.v79",
         "Rcpi",
         "GenomicFeatures",
-        "RSQLite",
         "AnnotationDbi",
         "rtracklayer",
         "Rsamtools",
@@ -14546,7 +13986,6 @@
         "tidyr",
         "VariantAnnotation",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -14561,7 +14000,6 @@
         "ggrepel",
         "AnnotationDbi",
         "BiocFileCache",
-        "RSQLite",
         "dbplyr",
         "dplyr"
     ],
@@ -14592,7 +14030,6 @@
         "rstatix",
         "rvest",
         "vroom",
-        "RSQLite",
         "pbkrtest",
         "lme4",
         "viridis",
@@ -14615,7 +14052,6 @@
         "pairsD3",
         "recount",
         "shinyjs",
-        "RSQLite",
         "BiocVersion",
         "interactiveDisplayBase",
         "dbplyr",
@@ -14655,7 +14091,6 @@
         "GO.db",
         "tidyr",
         "dplyr",
-        "RSQLite",
         "AnnotationDbi",
         "BiocFileCache",
         "dbplyr"
@@ -14687,8 +14122,7 @@
     ],
     "puma": [
         "oligo",
-        "oligoClasses",
-        "RSQLite"
+        "oligoClasses"
     ],
     "PureCN": [
         "VariantAnnotation",
@@ -14697,7 +14131,6 @@
         "rtracklayer",
         "ggplot2",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "GenomicAlignments",
         "BSgenome",
@@ -14727,7 +14160,6 @@
         "rtracklayer",
         "biomaRt",
         "BSgenome",
-        "RSQLite",
         "BiocFileCache",
         "ggplot2",
         "viridis",
@@ -14740,7 +14172,6 @@
         "AnnotationDbi",
         "biomaRt",
         "AnnotationHub",
-        "RSQLite",
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
@@ -14757,7 +14188,6 @@
         "AnnotationDbi",
         "annotate",
         "ExperimentHub",
-        "RSQLite",
         "AnnotationHub",
         "BiocFileCache",
         "BiocVersion",
@@ -14803,7 +14233,6 @@
         "annotate",
         "AnnotationDbi",
         "GenomicFeatures",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -14834,7 +14263,6 @@
         "VariantAnnotation",
         "ensembldb",
         "waldo",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "viridis",
@@ -14857,8 +14285,7 @@
         "viridis",
         "genefilter",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "QSutils": [],
     "qsvaR": [
@@ -14866,8 +14293,7 @@
         "ggplot2",
         "genefilter",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "quantiseqr": [
         "ggplot2",
@@ -14887,7 +14313,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -14909,7 +14334,6 @@
         "rtracklayer",
         "GenomicFiles",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "GenomicAlignments",
         "VariantAnnotation",
@@ -14945,7 +14369,6 @@
         "ensembldb",
         "AnnotationDbi",
         "viridis",
-        "RSQLite",
         "biomaRt",
         "dplyr",
         "forcats",
@@ -14959,8 +14382,7 @@
         "qvalue",
         "sqldf",
         "ggplot2",
-        "GenomicAlignments",
-        "RSQLite"
+        "GenomicAlignments"
     ],
     "R453Plus1Toolbox": [
         "VariantAnnotation",
@@ -14973,7 +14395,6 @@
         "rtracklayer",
         "GenomicAlignments",
         "GenomicFeatures",
-        "RSQLite",
         "dbplyr",
         "dplyr"
     ],
@@ -15002,7 +14423,6 @@
         "biomaRt",
         "AnnotationDbi",
         "BiocFileCache",
-        "RSQLite",
         "dbplyr",
         "dplyr"
     ],
@@ -15031,7 +14451,6 @@
         "rtracklayer",
         "Rsamtools",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "AnnotationHub",
@@ -15064,7 +14483,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "genomation",
-        "RSQLite",
         "ggplot2",
         "cowplot",
         "ggseqlogo",
@@ -15092,7 +14510,6 @@
         "org.Hs.eg.db",
         "GenomicFeatures",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -15107,8 +14524,7 @@
         "dplyr",
         "GSEABase",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "RCM": [
         "tseries",
@@ -15118,8 +14534,7 @@
     "Rcpi": [
         "GOSemSim",
         "AnnotationDbi",
-        "GO.db",
-        "RSQLite"
+        "GO.db"
     ],
     "RCSL": [
         "ggplot2"
@@ -15139,7 +14554,6 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "batchtools",
         "DiagrammeR",
         "readr",
@@ -15172,7 +14586,6 @@
         "reactome.db",
         "graphite",
         "gson",
-        "RSQLite",
         "HDO.db",
         "fgsea",
         "GOSemSim",
@@ -15225,7 +14638,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "RSQLite",
         "biomaRt",
         "VariantAnnotation",
         "ggplot2",
@@ -15240,7 +14652,6 @@
         "rtracklayer",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -15250,7 +14661,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "bumphunter",
         "siggenes",
         "genefilter",
@@ -15271,7 +14681,6 @@
         "ggplot2",
         "biomaRt",
         "GenomicFeatures",
-        "RSQLite",
         "Rsamtools",
         "rtracklayer",
         "AnnotationDbi",
@@ -15284,7 +14693,6 @@
         "BSgenome",
         "ChIPpeakAnno",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "Rsamtools",
         "dplyr",
@@ -15318,7 +14726,6 @@
         "cowplot",
         "Hmisc",
         "GO.db",
-        "RSQLite",
         "annotate",
         "viridis"
     ],
@@ -15355,7 +14762,6 @@
         "rtracklayer",
         "geneplotter",
         "ggplot2",
-        "RSQLite",
         "annotate",
         "biomaRt",
         "VariantAnnotation",
@@ -15371,7 +14777,6 @@
         "AnnotationHub",
         "Gviz",
         "RCy3",
-        "RSQLite",
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
@@ -15401,7 +14806,6 @@
         "AnnotationHub",
         "org.Hs.eg.db",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -15434,8 +14838,7 @@
         "vsn",
         "AnnotationDbi",
         "annotate",
-        "ggplot2",
-        "RSQLite"
+        "ggplot2"
     ],
     "ReportingTools": [
         "Category",
@@ -15447,7 +14850,6 @@
         "DESeq2",
         "ggplot2",
         "ggbio",
-        "RSQLite",
         "genefilter",
         "geneplotter",
         "Hmisc",
@@ -15476,7 +14878,6 @@
         "biomaRt",
         "AnnotationDbi",
         "BiocFileCache",
-        "RSQLite",
         "dbplyr",
         "dplyr"
     ],
@@ -15500,7 +14901,6 @@
         "bigrquery",
         "ExperimentHub",
         "AnnotationHub",
-        "RSQLite",
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
@@ -15543,7 +14943,6 @@
         "rGenomeTracksData",
         "AnnotationHub",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -15562,7 +14961,6 @@
         "regioneR",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BSgenome",
@@ -15582,7 +14980,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "org.Hs.eg.db",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -15598,7 +14995,6 @@
         "org.Hs.eg.db",
         "GO.db",
         "AnnotationDbi",
-        "RSQLite",
         "BiocFileCache",
         "geneplotter",
         "ggplot2",
@@ -15615,7 +15011,6 @@
         "GenomicFeatures",
         "SGSeq",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -15631,7 +15026,6 @@
         "ggplot2",
         "plotly",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "GenomicAlignments",
@@ -15659,7 +15053,6 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "geneplotter",
         "AnnotationDbi",
         "rtracklayer",
@@ -15677,7 +15070,6 @@
         "rtracklayer",
         "sqldf",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "Hmisc",
         "biovizBase",
@@ -15714,7 +15106,6 @@
         "ggplot2",
         "ggfittext",
         "ggrepel",
-        "RSQLite",
         "ShortRead",
         "biomaRt",
         "TFBSTools",
@@ -15747,16 +15138,14 @@
     ],
     "RImmPort": [
         "dplyr",
-        "sqldf",
-        "RSQLite"
+        "sqldf"
     ],
     "Ringo": [
         "genefilter",
         "vsn",
         "AnnotationDbi",
         "annotate",
-        "ggplot2",
-        "RSQLite"
+        "ggplot2"
     ],
     "RIPAT": [
         "biomaRt",
@@ -15772,7 +15161,6 @@
         "VariantAnnotation",
         "BSgenome",
         "GenomicAlignments",
-        "RSQLite",
         "dbplyr",
         "dplyr",
         "Hmisc",
@@ -15797,7 +15185,6 @@
         "topGO",
         "tidyr",
         "dplyr",
-        "RSQLite",
         "AnnotationDbi",
         "rtracklayer",
         "Rsamtools",
@@ -15829,7 +15216,6 @@
         "ggprism",
         "RLHub",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -15875,7 +15261,6 @@
         "AnnotationDbi",
         "Rsamtools",
         "GenomicFeatures",
-        "RSQLite",
         "annotate",
         "rtracklayer",
         "biomaRt",
@@ -15896,7 +15281,6 @@
         "recount",
         "AnnotationDbi",
         "org.Hs.eg.db",
-        "RSQLite",
         "derfinder",
         "GEOquery",
         "rtracklayer",
@@ -15931,7 +15315,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "mice",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "broom",
@@ -15954,7 +15337,6 @@
         "Category",
         "annotate",
         "AnnotationDbi",
-        "RSQLite",
         "ggplot2"
     ],
     "RNAmodR": [
@@ -15966,7 +15348,6 @@
         "ggplot2",
         "Gviz",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "ensembldb",
         "biovizBase",
@@ -15990,7 +15371,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "ggplot2",
-        "RSQLite",
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
@@ -16008,7 +15388,6 @@
         "ggplot2",
         "Gviz",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "ensembldb",
         "biovizBase",
@@ -16032,7 +15411,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "ggplot2",
-        "RSQLite",
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
@@ -16077,7 +15455,6 @@
         "ggrepel",
         "car",
         "ShortRead",
-        "RSQLite",
         "pbkrtest",
         "lme4",
         "viridis",
@@ -16124,7 +15501,6 @@
         "derfinder",
         "GEOquery",
         "rtracklayer",
-        "RSQLite",
         "dbplyr",
         "bumphunter",
         "GenomicAlignments",
@@ -16158,7 +15534,6 @@
         "genefilter",
         "AnnotationDbi",
         "GenomicFeatures",
-        "RSQLite",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
         "rtracklayer",
@@ -16213,8 +15588,7 @@
     "rpx": [
         "BiocFileCache",
         "dbplyr",
-        "dplyr",
-        "RSQLite"
+        "dplyr"
     ],
     "Rqc": [
         "ShortRead",
@@ -16231,7 +15605,6 @@
         "VariantAnnotation",
         "ensembldb",
         "rtracklayer",
-        "RSQLite",
         "biomaRt",
         "viridis",
         "BSgenome",
@@ -16275,8 +15648,7 @@
         "GO.db",
         "ggplot2",
         "ggrepel",
-        "treemap",
-        "RSQLite"
+        "treemap"
     ],
     "Rsamtools": [],
     "rScudo": [],
@@ -16321,7 +15693,6 @@
         "GenomicFeatures",
         "GenomicDataCommons",
         "MultiAssayExperiment",
-        "RSQLite",
         "readr",
         "dplyr",
         "rtracklayer",
@@ -16392,8 +15763,7 @@
         "viridis"
     ],
     "rTRM": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "rTRMui": [
         "rTRM",
@@ -16402,7 +15772,6 @@
         "org.Mm.eg.db",
         "rtracklayer",
         "AnnotationDbi",
-        "RSQLite",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -16422,7 +15791,6 @@
         "biomaRt",
         "AnnotationDbi",
         "GenomicFeatures",
-        "RSQLite",
         "BiocFileCache",
         "rtracklayer",
         "GenomicAlignments",
@@ -16441,8 +15809,7 @@
         "dplyr"
     ],
     "safe": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "SAIGEgds": [
         "SeqArray"
@@ -16454,7 +15821,6 @@
         "ggplot2",
         "AnnotationDbi",
         "biomaRt",
-        "RSQLite",
         "BiocFileCache",
         "dbplyr",
         "dplyr"
@@ -16470,7 +15836,6 @@
         "shinyWidgets",
         "BiocStyle",
         "bookdown",
-        "RSQLite",
         "ggplot2",
         "tidyr",
         "dplyr"
@@ -16488,7 +15853,6 @@
         "SBGNview.data",
         "AnnotationDbi",
         "bookdown",
-        "RSQLite",
         "org.Hs.eg.db"
     ],
     "SC3": [
@@ -16522,7 +15886,6 @@
         "dplyr",
         "tidyr",
         "oligoClasses",
-        "RSQLite",
         "genefilter",
         "AnnotationDbi",
         "annotate",
@@ -16548,7 +15911,6 @@
         "shinydashboard",
         "shinyjqui",
         "waiter",
-        "RSQLite",
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
@@ -16569,7 +15931,6 @@
         "caret",
         "AnnotationHub",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -16604,7 +15965,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -16644,8 +16004,7 @@
         "AnnotationDbi",
         "annotate",
         "tidyr",
-        "dplyr",
-        "RSQLite"
+        "dplyr"
     ],
     "scBubbletree": [
         "Seurat",
@@ -16700,8 +16059,7 @@
         "tidygraph",
         "annotate",
         "AnnotationDbi",
-        "tidyr",
-        "RSQLite"
+        "tidyr"
     ],
     "sccomp": [
         "rstan",
@@ -16793,7 +16151,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "RSQLite",
         "prodlim"
     ],
     "schex": [
@@ -16825,7 +16182,6 @@
         "DECIPHER",
         "sangerseqR",
         "kableExtra",
-        "RSQLite",
         "rvest"
     ],
     "scMAGeCK": [
@@ -16876,7 +16232,6 @@
         "BSgenome",
         "annotatr",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -16906,7 +16261,6 @@
         "biomaRt",
         "AnnotationDbi",
         "GenomicFeatures",
-        "RSQLite",
         "BiocFileCache",
         "rtracklayer",
         "GenomicAlignments",
@@ -16936,7 +16290,6 @@
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "GenomicAlignments",
         "BiocFileCache",
@@ -16967,7 +16320,6 @@
         "dplyr",
         "scater",
         "testthat",
-        "RSQLite",
         "BiocFileCache",
         "forcats",
         "tidyr",
@@ -17025,7 +16377,6 @@
         "ggbio",
         "rtracklayer",
         "SingleCellExperiment",
-        "RSQLite",
         "biomaRt",
         "Hmisc",
         "biovizBase",
@@ -17046,7 +16397,6 @@
         "BiocSingular"
     ],
     "scTensor": [
-        "RSQLite",
         "plotly",
         "reactome.db",
         "AnnotationDbi",
@@ -17129,7 +16479,6 @@
         "Seurat",
         "ggforce",
         "concaveman",
-        "RSQLite",
         "viridis",
         "cowplot",
         "ggrepel",
@@ -17172,7 +16521,6 @@
         "sctransform",
         "spatstat.explore",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "Rsamtools",
         "biomaRt",
@@ -17198,7 +16546,6 @@
         "dplyr",
         "rtracklayer",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "RSQLite",
         "aplot",
         "DOSE",
         "ggnewscale",
@@ -17244,7 +16591,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "BSgenome",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "dplyr",
@@ -17257,8 +16603,7 @@
     "SemDist": [
         "AnnotationDbi",
         "GO.db",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "seq2pathway": [
         "WGCNA",
@@ -17267,7 +16612,6 @@
         "BiocFileCache",
         "Hmisc",
         "GO.db",
-        "RSQLite",
         "dbplyr",
         "dplyr",
         "ggplot2",
@@ -17290,7 +16634,6 @@
         "AnnotationDbi",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "dbplyr"
@@ -17306,7 +16649,6 @@
         "BiocFileCache",
         "geneplotter",
         "ggplot2",
-        "RSQLite",
         "dbplyr",
         "dplyr",
         "annotate"
@@ -17332,7 +16674,6 @@
         "forcats",
         "tidyr",
         "gistr",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -17354,7 +16695,6 @@
         "BiocFileCache",
         "dplyr",
         "dbplyr",
-        "RSQLite",
         "vroom",
         "ExperimentHub",
         "AnnotationHub",
@@ -17370,8 +16710,7 @@
         "ggplot2",
         "genefilter",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "sevenC": [
         "InteractionSet",
@@ -17387,7 +16726,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "rtracklayer",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "dbplyr",
@@ -17418,7 +16756,6 @@
         "AnnotationDbi",
         "annotate",
         "readr",
-        "RSQLite",
         "biomaRt",
         "vroom",
         "BiocFileCache",
@@ -17437,7 +16774,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -17471,8 +16807,7 @@
         "genefilter",
         "ggvis",
         "AnnotationDbi",
-        "dplyr",
-        "RSQLite"
+        "dplyr"
     ],
     "sigFeature": [],
     "SigFuge": [
@@ -17488,7 +16823,6 @@
         "AnnotationDbi",
         "ggplot2",
         "ExperimentHub",
-        "RSQLite",
         "dplyr",
         "fgsea",
         "qvalue",
@@ -17547,7 +16881,6 @@
         "rtracklayer",
         "BSgenome",
         "dbplyr",
-        "RSQLite",
         "Rsamtools",
         "ggrepel",
         "ggsci",
@@ -17586,7 +16919,6 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "survminer",
         "viridis",
-        "RSQLite",
         "genefu",
         "GenomicFeatures",
         "rtracklayer",
@@ -17630,7 +16962,6 @@
         "GenomicAlignments",
         "AnnotationDbi",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "dbplyr",
@@ -17640,8 +16971,7 @@
         "globaltest",
         "quantsmooth",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "SIMAT": [
         "ggplot2"
@@ -17652,8 +16982,7 @@
         "vsn",
         "AnnotationDbi",
         "annotate",
-        "ggplot2",
-        "RSQLite"
+        "ggplot2"
     ],
     "SimBu": [
         "dplyr",
@@ -17677,15 +17006,13 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "scuttle"
     ],
     "simplifyEnrichment": [
         "GOSemSim",
         "GO.db",
         "org.Hs.eg.db",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "sincell": [
         "ggplot2",
@@ -17751,7 +17078,6 @@
         "TrajectoryUtils",
         "scuttle",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -17804,7 +17130,6 @@
         "ShortRead",
         "GenomicFiles",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "GenomicAlignments",
         "VariantAnnotation",
@@ -17823,8 +17148,7 @@
         "tidyr",
         "annotate",
         "AnnotationDbi",
-        "dplyr",
-        "RSQLite"
+        "dplyr"
     ],
     "SISPA": [
         "genefilter",
@@ -17834,14 +17158,12 @@
         "annotate",
         "GSEABase",
         "SingleCellExperiment",
-        "BiocSingular",
-        "RSQLite"
+        "BiocSingular"
     ],
     "sitadela": [
         "biomaRt",
         "GenomicFeatures",
         "Rsamtools",
-        "RSQLite",
         "rtracklayer",
         "AnnotationDbi",
         "BiocFileCache",
@@ -17878,7 +17200,6 @@
         "GEOquery",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "RSQLite",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
         "rtracklayer",
@@ -17897,8 +17218,7 @@
         "GSEABase",
         "SingleCellExperiment",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "slingshot": [
         "TrajectoryUtils",
@@ -17917,7 +17237,6 @@
         "BioNet",
         "goseq",
         "geneLenDataBase",
-        "RSQLite",
         "rtracklayer",
         "GenomicFeatures",
         "GO.db",
@@ -17935,8 +17254,7 @@
         "genefilter",
         "AnnotationDbi",
         "annotate",
-        "ggplot2",
-        "RSQLite"
+        "ggplot2"
     ],
     "snapcount": [],
     "snm": [
@@ -17956,7 +17274,6 @@
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "annotate",
         "biomaRt",
         "GenomicAlignments",
@@ -17994,7 +17311,6 @@
         "GGally",
         "ensembldb",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "dplyr",
         "forcats",
@@ -18038,8 +17354,7 @@
         "dplyr",
         "AnnotationDbi",
         "tidyr",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "sparseDOSSA": [
         "MCMCpack"
@@ -18060,7 +17375,6 @@
         "DropletUtils",
         "BiocFileCache",
         "dbplyr",
-        "RSQLite",
         "scuttle"
     ],
     "SpatialCPie": [
@@ -18085,7 +17399,6 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "scuttle"
     ],
     "SpatialDecon": [
@@ -18115,7 +17428,6 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "scuttle"
     ],
     "SpatialFeatureExperiment": [
@@ -18126,7 +17438,6 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "scuttle"
     ],
     "spatialHeatmap": [
@@ -18145,7 +17456,6 @@
         "shinydashboard",
         "UpSetR",
         "dbplyr",
-        "RSQLite",
         "AnnotationDbi",
         "annotate",
         "tidyr",
@@ -18167,7 +17477,6 @@
         "rtracklayer",
         "Rsamtools",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "InteractionSet",
         "dplyr",
@@ -18186,9 +17495,7 @@
         "vroom",
         "viridis"
     ],
-    "specL": [
-        "RSQLite"
-    ],
+    "specL": [],
     "SpeCond": [
         "fields",
         "viridis",
@@ -18222,7 +17529,6 @@
         "colourpicker",
         "shinyjs",
         "dbplyr",
-        "RSQLite",
         "miniUI",
         "scuttle"
     ],
@@ -18241,7 +17547,6 @@
         "DropletUtils",
         "BiocFileCache",
         "dbplyr",
-        "RSQLite",
         "scuttle",
         "testthat",
         "waldo",
@@ -18252,7 +17557,6 @@
         "miRNAtap.db",
         "AnnotationDbi",
         "org.Hs.eg.db",
-        "RSQLite",
         "sqldf"
     ],
     "spiky": [
@@ -18286,7 +17590,6 @@
         "shinyWidgets",
         "shinydashboard",
         "heatmaply",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -18307,7 +17610,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -18317,8 +17619,7 @@
     "splineTimeR": [
         "GSEABase",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "SPLINTER": [
         "ggplot2",
@@ -18331,7 +17632,6 @@
         "BiocFileCache",
         "BSgenome",
         "Rsamtools",
-        "RSQLite",
         "rtracklayer",
         "ensembldb",
         "biovizBase",
@@ -18375,7 +17675,6 @@
         "readxl",
         "reprex",
         "rvest",
-        "RSQLite",
         "cellranger",
         "rematch2",
         "nloptr",
@@ -18407,7 +17706,6 @@
         "DropletUtils",
         "BiocFileCache",
         "dbplyr",
-        "RSQLite",
         "scuttle",
         "tidyr"
     ],
@@ -18428,19 +17726,16 @@
         "ggplot2",
         "viridis",
         "GO.db",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "SQLDataFrame": [
         "dplyr",
-        "dbplyr",
-        "RSQLite"
+        "dbplyr"
     ],
     "sRACIPE": [
         "ggplot2"
     ],
     "SRAdb": [
-        "RSQLite",
         "GEOquery",
         "readr",
         "dplyr",
@@ -18464,7 +17759,6 @@
         "pkgdown",
         "testthat",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "ensembldb",
         "BSgenome",
@@ -18492,7 +17786,6 @@
         "viridis",
         "tidygraph",
         "AnnotationDbi",
-        "RSQLite",
         "tidyr"
     ],
     "ssPATHS": [
@@ -18531,7 +17824,6 @@
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
-        "RSQLite",
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
@@ -18556,7 +17848,6 @@
         "DropletUtils",
         "BiocFileCache",
         "dbplyr",
-        "RSQLite",
         "scuttle",
         "ShortRead",
         "Rsamtools",
@@ -18574,15 +17865,13 @@
         "Category",
         "AnnotationDbi",
         "annotate",
-        "ggplot2",
-        "RSQLite"
+        "ggplot2"
     ],
     "StarBioTrek": [
         "SpidermiR",
         "graphite",
         "AnnotationDbi",
         "ggplot2",
-        "RSQLite",
         "miRNAtap",
         "miRNAtap.db",
         "org.Hs.eg.db",
@@ -18643,7 +17932,6 @@
         "DropletUtils",
         "BiocFileCache",
         "dbplyr",
-        "RSQLite",
         "scuttle",
         "tidyr"
     ],
@@ -18655,15 +17943,13 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "GenomicFeatures",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
         "dbplyr"
     ],
     "STRINGdb": [
-        "sqldf",
-        "RSQLite"
+        "sqldf"
     ],
     "struct": [
         "rols"
@@ -18681,7 +17967,6 @@
         "dplyr",
         "GenomicFeatures",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "Rsamtools",
         "GenomicAlignments",
@@ -18695,7 +17980,6 @@
         "ggrepel",
         "org.Hs.eg.db",
         "AnnotationDbi",
-        "RSQLite",
         "recipes",
         "dplyr",
         "hardhat",
@@ -18752,7 +18036,6 @@
         "BiocFileCache",
         "vroom",
         "waldo",
-        "RSQLite",
         "dbplyr",
         "rematch2"
     ],
@@ -18785,8 +18068,7 @@
     "sva": [
         "genefilter",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "svaNUMT": [
         "rtracklayer",
@@ -18795,7 +18077,6 @@
         "dplyr",
         "GenomicFeatures",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "Rsamtools",
         "GenomicAlignments",
@@ -18810,7 +18091,6 @@
         "dplyr",
         "GenomicFeatures",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "Rsamtools",
         "GenomicAlignments",
@@ -18823,7 +18103,6 @@
         "biomaRt",
         "AnnotationDbi",
         "BiocFileCache",
-        "RSQLite",
         "dbplyr",
         "dplyr"
     ],
@@ -18882,8 +18161,7 @@
         "waldo"
     ],
     "SynExtend": [
-        "DECIPHER",
-        "RSQLite"
+        "DECIPHER"
     ],
     "synlet": [
         "ggplot2",
@@ -18935,7 +18213,6 @@
         "shinyjs",
         "shinytoastr",
         "vroom",
-        "RSQLite",
         "tidyr",
         "fresh",
         "waiter"
@@ -18958,8 +18235,7 @@
         "ggplotify",
         "patchwork",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "TADCompare": [
         "dplyr",
@@ -19005,7 +18281,6 @@
         "rtracklayer",
         "Rsamtools",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "dbplyr"
@@ -19056,16 +18331,14 @@
         "annotate",
         "AnnotationDbi",
         "dplyr",
-        "genefilter",
-        "RSQLite"
+        "genefilter"
     ],
     "TCC": [
         "DESeq2",
         "geneplotter",
         "ggplot2",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "TCGAbiolinks": [
         "biomaRt",
@@ -19077,7 +18350,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "vroom",
-        "RSQLite",
         "dbplyr"
     ],
     "TCGAbiolinksGUI": [
@@ -19119,7 +18391,6 @@
         "vroom",
         "sesameData",
         "BiocFileCache",
-        "RSQLite",
         "dbplyr",
         "HDO.db",
         "fgsea",
@@ -19171,7 +18442,6 @@
         "MultiAssayExperiment",
         "RaggedExperiment",
         "rvest",
-        "RSQLite",
         "readr",
         "dplyr",
         "rtracklayer",
@@ -19199,7 +18469,6 @@
         "BiocFileCache",
         "geneplotter",
         "ggplot2",
-        "RSQLite",
         "dbplyr",
         "dplyr",
         "annotate"
@@ -19214,7 +18483,6 @@
         "ontoProc",
         "AnnotationDbi",
         "org.Mm.eg.db",
-        "RSQLite",
         "BiocFileCache",
         "dplyr",
         "AnnotationHub",
@@ -19239,7 +18507,6 @@
         "TCGAutils",
         "miniUI",
         "dbplyr",
-        "RSQLite",
         "vroom",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -19258,7 +18525,6 @@
     "TFBSTools": [
         "BSgenome",
         "CNEr",
-        "RSQLite",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -19276,7 +18542,6 @@
         "org.Hs.eg.db",
         "AnnotationDbi",
         "BiocFileCache",
-        "RSQLite",
         "rtracklayer",
         "dbplyr",
         "Rsamtools",
@@ -19295,7 +18560,6 @@
         "ggplot2",
         "Rsamtools",
         "rtracklayer",
-        "RSQLite",
         "BiocFileCache",
         "dplyr",
         "readr",
@@ -19313,7 +18577,6 @@
         "readxl",
         "AnnotationDbi",
         "org.Hs.eg.db",
-        "RSQLite",
         "dbplyr",
         "annotate",
         "cellranger"
@@ -19340,8 +18603,7 @@
     ],
     "tigre": [
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "TileDBArray": [],
     "tilingArray": [
@@ -19349,8 +18611,7 @@
         "genefilter",
         "AnnotationDbi",
         "annotate",
-        "ggplot2",
-        "RSQLite"
+        "ggplot2"
     ],
     "timeOmics": [
         "mixOmics",
@@ -19388,7 +18649,6 @@
         "IRkernel",
         "IRdisplay",
         "cellranger",
-        "RSQLite",
         "dbplyr",
         "HDO.db",
         "fgsea",
@@ -19415,7 +18675,6 @@
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
-        "RSQLite",
         "ggplot2",
         "viridis"
     ],
@@ -19425,8 +18684,7 @@
         "dplyr",
         "tidyr",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "TitanCNA": [
         "VariantAnnotation",
@@ -19436,7 +18694,6 @@
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "GenomicAlignments",
         "BiocFileCache",
@@ -19461,7 +18718,6 @@
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "hardhat",
         "ipred",
@@ -19492,7 +18748,6 @@
         "AnnotationDbi",
         "broom",
         "car",
-        "RSQLite",
         "pbkrtest",
         "lme4",
         "nloptr",
@@ -19518,7 +18773,6 @@
         "plotly",
         "ggplot2",
         "dbplyr",
-        "RSQLite",
         "tidyr",
         "vroom"
     ],
@@ -19532,8 +18786,7 @@
     ],
     "topGO": [
         "GO.db",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "ToxicoGx": [
         "CoreGx",
@@ -19571,7 +18824,6 @@
         "rtracklayer",
         "AnnotationDbi",
         "InteractionSet",
-        "RSQLite",
         "biomaRt",
         "ensembldb",
         "BSgenome",
@@ -19606,7 +18858,6 @@
         "BiocFileCache",
         "dplyr",
         "GO.db",
-        "RSQLite",
         "dbplyr"
     ],
     "transcriptR": [
@@ -19620,7 +18871,6 @@
         "recipes",
         "ShortRead",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "dplyr",
@@ -19650,7 +18900,6 @@
         "ggplot2",
         "AnnotationDbi",
         "GO.db",
-        "RSQLite",
         "annotate"
     ],
     "transomics2cytoscape": [
@@ -19726,7 +18975,6 @@
     "TREG": [],
     "trena": [
         "MotifDb",
-        "RSQLite",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg38",
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -19755,7 +19003,6 @@
         "GenomicFeatures",
         "Rsamtools",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "GenomicAlignments",
         "BiocFileCache",
@@ -19770,7 +19017,6 @@
         "scater",
         "scattermore",
         "dplyr",
-        "RSQLite",
         "scuttle",
         "BiocSingular",
         "ggbeeswarm",
@@ -19784,8 +19030,7 @@
         "ggplot2",
         "genefilter",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "trio": [
         "siggenes"
@@ -19859,7 +19104,6 @@
         "AnnotationDbi",
         "GenomicFeatures",
         "rtracklayer",
-        "RSQLite",
         "biomaRt",
         "Rsamtools",
         "GenomicAlignments",
@@ -19873,7 +19117,6 @@
         "ensembldb",
         "BiocFileCache",
         "AnnotationHub",
-        "RSQLite",
         "BiocVersion",
         "interactiveDisplayBase",
         "dplyr",
@@ -19900,7 +19143,6 @@
         "shinydashboard",
         "shinyFiles",
         "shinyjs",
-        "RSQLite",
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
@@ -19931,7 +19173,6 @@
         "fda",
         "AnnotationDbi",
         "dbplyr",
-        "RSQLite",
         "rtracklayer",
         "geneplotter",
         "fds",
@@ -19959,7 +19200,6 @@
         "Rsamtools",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "BSgenome",
         "ensembldb",
         "rtracklayer",
@@ -19975,7 +19215,6 @@
         "viridis"
     ],
     "UniProt.ws": [
-        "RSQLite",
         "AnnotationDbi",
         "BiocFileCache",
         "dbplyr",
@@ -19988,7 +19227,6 @@
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "GenomicAlignments",
         "BiocFileCache",
@@ -20036,7 +19274,6 @@
         "crlmm",
         "BSgenome.Hsapiens.UCSC.hg18",
         "BSgenome",
-        "RSQLite",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments"
@@ -20069,7 +19306,6 @@
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "GenomicAlignments",
         "BiocFileCache",
@@ -20098,7 +19334,6 @@
         "shinythemes",
         "shinyjs",
         "shinyTree",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -20121,7 +19356,6 @@
         "rtracklayer",
         "BSgenome",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "GenomicAlignments",
         "BiocFileCache",
@@ -20136,8 +19370,7 @@
         "rtracklayer",
         "genefilter",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "VCFArray": [
         "VariantAnnotation",
@@ -20148,7 +19381,6 @@
         "AnnotationDbi",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "BiocFileCache",
         "dbplyr",
@@ -20163,7 +19395,6 @@
         "biomaRt",
         "AnnotationDbi",
         "BiocFileCache",
-        "RSQLite",
         "dbplyr",
         "dplyr"
     ],
@@ -20188,8 +19419,7 @@
         "dplyr",
         "forcats",
         "annotate",
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "ViSEAGO": [
         "AnnotationDbi",
@@ -20205,7 +19435,6 @@
         "plotly",
         "topGO",
         "UpSetR",
-        "RSQLite",
         "BiocFileCache",
         "viridis",
         "dplyr",
@@ -20237,7 +19466,6 @@
         "lexicon",
         "textclean",
         "tidyr",
-        "RSQLite",
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
@@ -20256,7 +19484,6 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "scuttle"
     ],
     "VplotR": [
@@ -20283,7 +19510,6 @@
         "BiocFileCache",
         "VariantAnnotation",
         "AnnotationHub",
-        "RSQLite",
         "BiocVersion",
         "interactiveDisplayBase",
         "dplyr",
@@ -20317,7 +19543,6 @@
         "ggrepel",
         "apeglm",
         "GreyListChIP",
-        "RSQLite",
         "BiocFileCache",
         "annotate",
         "BSgenome",
@@ -20332,7 +19557,6 @@
         "lme4",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "EnvStats",
         "ggplot2",
         "nloptr",
@@ -20347,7 +19571,6 @@
         "minfi",
         "GenomicFeatures",
         "annotate",
-        "RSQLite",
         "AnnotationDbi",
         "ggplot2",
         "FDb.InfiniumMethylation.hg19",
@@ -20375,7 +19598,6 @@
         "Hmisc",
         "rtracklayer",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "viridis",
         "GenomicAlignments",
@@ -20389,8 +19611,7 @@
         "qvalue",
         "GO.db",
         "AnnotationDbi",
-        "ggplot2",
-        "RSQLite"
+        "ggplot2"
     ],
     "weitrix": [
         "topconfects",
@@ -20440,8 +19661,7 @@
         "GeneMeta",
         "siggenes",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "Xeva": [
         "ggplot2",
@@ -20460,8 +19680,7 @@
     "XINA": [
         "ggplot2",
         "STRINGdb",
-        "sqldf",
-        "RSQLite"
+        "sqldf"
     ],
     "XNAString": [
         "BSgenome",
@@ -20487,7 +19706,6 @@
         "AnnotationDbi",
         "rtracklayer",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "Hmisc",
         "biovizBase",
@@ -20509,7 +19727,6 @@
         "minfi",
         "ggplot2",
         "vroom",
-        "RSQLite",
         "dbplyr",
         "dplyr",
         "bumphunter",
@@ -20545,7 +19762,6 @@
         "pbkrtest",
         "lmerTest",
         "lme4",
-        "RSQLite",
         "dbplyr",
         "nloptr",
         "org.Hs.eg.db",
@@ -20563,14 +19779,11 @@
         "SingleCellExperiment",
         "genefilter",
         "AnnotationDbi",
-        "annotate",
-        "RSQLite"
+        "annotate"
     ],
     "GO.db": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
-    "RSQLite": [],
     "ggplot2": [],
     "flexdashboard": [],
     "ggcorrplot": [
@@ -20684,7 +19897,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -20697,8 +19909,7 @@
         "dplyr"
     ],
     "PFAM.db": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "Hmisc": [
         "ggplot2",
@@ -20736,7 +19947,6 @@
         "AnnotationHub",
         "ExperimentHub",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -20802,8 +20012,7 @@
     "bigrquery": [],
     "shinytoastr": [],
     "org.Sc.sgd.db": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "Seurat": [
         "cowplot",
@@ -20820,12 +20029,10 @@
         "dplyr"
     ],
     "org.Hs.eg.db": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "org.Mm.eg.db": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "ggridges": [
         "ggplot2"
@@ -20850,7 +20057,6 @@
     "TxDb.Hsapiens.UCSC.hg19.knownGene": [
         "GenomicFeatures",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -20866,7 +20072,6 @@
         "GO.db",
         "org.Hs.eg.db",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -20894,7 +20099,6 @@
         "Rsamtools",
         "BiocFileCache",
         "AnnotationHub",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -20909,7 +20113,6 @@
         "Rsamtools",
         "BiocFileCache",
         "AnnotationHub",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -20924,7 +20127,6 @@
         "Rsamtools",
         "BiocFileCache",
         "AnnotationHub",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -20939,7 +20141,6 @@
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
-        "RSQLite",
         "biomaRt",
         "GenomicAlignments",
         "BiocFileCache",
@@ -20948,7 +20149,6 @@
     ],
     "PolyPhen.Hsapiens.dbSNP131": [
         "VariantAnnotation",
-        "RSQLite",
         "AnnotationDbi",
         "Rsamtools",
         "rtracklayer",
@@ -20962,7 +20162,6 @@
     ],
     "SIFT.Hsapiens.dbSNP137": [
         "VariantAnnotation",
-        "RSQLite",
         "AnnotationDbi",
         "Rsamtools",
         "rtracklayer",
@@ -20979,7 +20178,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -21028,7 +20226,6 @@
         "GO.db",
         "org.Mm.eg.db",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -21049,7 +20246,6 @@
     "TxDb.Mmusculus.UCSC.mm10.knownGene": [
         "GenomicFeatures",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -21069,7 +20265,6 @@
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [
         "GenomicFeatures",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -21100,8 +20295,7 @@
     ],
     "reprex": [],
     "reactome.db": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "doBy": [
         "broom",
@@ -21184,7 +20378,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -21220,8 +20413,7 @@
     ],
     "shinythemes": [],
     "org.Bt.eg.db": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "DiagrammeR": [
         "dplyr",
@@ -21236,8 +20428,7 @@
         "dplyr"
     ],
     "HDO.db": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "shinyAce": [],
     "shinyFiles": [],
@@ -21293,7 +20484,6 @@
     "multcomp": [],
     "synaptome.db": [
         "synaptome.data",
-        "RSQLite",
         "dplyr",
         "dbplyr",
         "AnnotationHub",
@@ -21306,14 +20496,12 @@
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
-        "RSQLite",
         "ggplot2",
         "viridis"
     ],
     "synaptome.data": [
         "AnnotationHub",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -21349,7 +20537,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -21364,7 +20551,6 @@
         "Rsamtools",
         "geneplotter",
         "genefilter",
-        "RSQLite",
         "BiocFileCache",
         "ggplot2",
         "annotate",
@@ -21373,13 +20559,11 @@
     ],
     "hgu133plus2.db": [
         "AnnotationDbi",
-        "org.Hs.eg.db",
-        "RSQLite"
+        "org.Hs.eg.db"
     ],
     "hgu133a.db": [
         "AnnotationDbi",
-        "org.Hs.eg.db",
-        "RSQLite"
+        "org.Hs.eg.db"
     ],
     "GenomicState": [
         "AnnotationHub",
@@ -21389,7 +20573,6 @@
         "derfinder",
         "AnnotationDbi",
         "org.Hs.eg.db",
-        "RSQLite",
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
@@ -21427,9 +20610,7 @@
     "vcfR": [
         "dplyr"
     ],
-    "sqldf": [
-        "RSQLite"
-    ],
+    "sqldf": [],
     "drc": [
         "car",
         "multcomp",
@@ -21508,7 +20689,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -21529,7 +20709,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -21550,7 +20729,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -21567,7 +20745,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "AnnotationDbi",
-        "RSQLite",
         "biomaRt",
         "Rsamtools",
         "GenomicAlignments",
@@ -21599,27 +20776,22 @@
         "AnnotationDbi",
         "readr",
         "rtracklayer",
-        "RSQLite",
         "vroom",
         "Rsamtools",
         "GenomicAlignments"
     ],
     "org.Dm.eg.db": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "org.Dr.eg.db": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "org.Rn.eg.db": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [
         "GenomicFeatures",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -21631,7 +20803,6 @@
     "TxDb.Mmusculus.UCSC.mm9.knownGene": [
         "GenomicFeatures",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -21643,7 +20814,6 @@
     "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [
         "GenomicFeatures",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -21655,7 +20825,6 @@
     "TxDb.Celegans.UCSC.ce6.ensGene": [
         "GenomicFeatures",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -21667,7 +20836,6 @@
     "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [
         "GenomicFeatures",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -21791,7 +20959,6 @@
     "EnsDb.Hsapiens.v86": [
         "ensembldb",
         "GenomicFeatures",
-        "RSQLite",
         "AnnotationDbi",
         "rtracklayer",
         "Rsamtools",
@@ -21813,7 +20980,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -21837,7 +21003,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -21990,8 +21155,7 @@
     "fastDummies": [],
     "hgu133a2.db": [
         "AnnotationDbi",
-        "org.Hs.eg.db",
-        "RSQLite"
+        "org.Hs.eg.db"
     ],
     "gganimate": [
         "ggplot2"
@@ -22000,7 +21164,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -22016,7 +21179,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -22033,7 +21195,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -22093,7 +21254,6 @@
         "ggplot2"
     ],
     "RecordLinkage": [
-        "RSQLite",
         "ipred",
         "prodlim"
     ],
@@ -22196,14 +21356,11 @@
     "ggwordcloud": [
         "ggplot2"
     ],
-    "BatchJobs": [
-        "RSQLite"
-    ],
+    "BatchJobs": [],
     "HiContactsData": [
         "ExperimentHub",
         "BiocFileCache",
         "AnnotationHub",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -22222,7 +21379,6 @@
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "GenomicFeatures",
         "AnnotationDbi",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -22254,14 +21410,12 @@
         "vroom"
     ],
     "pd.mapping50k.xba240": [
-        "RSQLite",
         "oligoClasses",
         "oligo"
     ],
     "hgu95av2.db": [
         "AnnotationDbi",
-        "org.Hs.eg.db",
-        "RSQLite"
+        "org.Hs.eg.db"
     ],
     "sortable": [
         "learnr"
@@ -22307,7 +21461,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -22369,13 +21522,11 @@
         "genefilter",
         "AnnotationDbi",
         "annotate",
-        "ggplot2",
-        "RSQLite"
+        "ggplot2"
     ],
     "EnsDb.Hsapiens.v75": [
         "ensembldb",
         "GenomicFeatures",
-        "RSQLite",
         "AnnotationDbi",
         "rtracklayer",
         "Rsamtools",
@@ -22393,7 +21544,6 @@
         "AnnotationHub",
         "readr",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -22413,7 +21563,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "RSQLite",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -22428,7 +21577,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "AnnotationHubData",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -22464,8 +21612,7 @@
     ],
     "lumiHumanAll.db": [
         "AnnotationDbi",
-        "org.Hs.eg.db",
-        "RSQLite"
+        "org.Hs.eg.db"
     ],
     "BSgenome.Hsapiens.UCSC.hg18": [
         "BSgenome",
@@ -22475,8 +21622,7 @@
     ],
     "InvariantCausalPrediction": [],
     "miRBaseVersions.db": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "s4vd": [
         "biclust",
@@ -22608,7 +21754,6 @@
         "rtracklayer",
         "dbplyr",
         "dplyr",
-        "RSQLite",
         "AnnotationHub",
         "Rsamtools",
         "GenomicAlignments",
@@ -22620,7 +21765,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -22678,7 +21822,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "vroom",
-        "RSQLite",
         "dbplyr"
     ],
     "tfprobability": [
@@ -22723,7 +21866,6 @@
         "Rsamtools",
         "BiocFileCache",
         "AnnotationHub",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -22738,7 +21880,6 @@
     "EnsDb.Mmusculus.v79": [
         "ensembldb",
         "GenomicFeatures",
-        "RSQLite",
         "AnnotationDbi",
         "rtracklayer",
         "Rsamtools",
@@ -22751,7 +21892,6 @@
     "EnsDb.Rnorvegicus.v79": [
         "ensembldb",
         "GenomicFeatures",
-        "RSQLite",
         "AnnotationDbi",
         "rtracklayer",
         "Rsamtools",
@@ -22767,7 +21907,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -22781,7 +21920,6 @@
         "Rsamtools",
         "BiocFileCache",
         "AnnotationHub",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -22810,7 +21948,6 @@
     "rGenomeTracksData": [
         "AnnotationHub",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -22845,7 +21982,6 @@
         "AnnotationHub",
         "ExperimentHub",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -22875,7 +22011,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "Rsamtools",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -22958,7 +22093,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "AnnotationDbi",
-        "RSQLite",
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
@@ -22970,8 +22104,7 @@
         "hgu95a.db",
         "annotate",
         "AnnotationDbi",
-        "org.Hs.eg.db",
-        "RSQLite"
+        "org.Hs.eg.db"
     ],
     "SoupX": [
         "ggplot2",
@@ -22995,7 +22128,6 @@
         "AnnotationDbi",
         "ensembldb",
         "GenomicFeatures",
-        "RSQLite",
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
@@ -23011,7 +22143,6 @@
         "AnnotationHub",
         "ExperimentHub",
         "BiocFileCache",
-        "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -23020,8 +22151,7 @@
     ],
     "hgu95a.db": [
         "AnnotationDbi",
-        "org.Hs.eg.db",
-        "RSQLite"
+        "org.Hs.eg.db"
     ],
     "sampSurf": [],
     "spdep": [],
@@ -23037,7 +22167,6 @@
     "miRNAtap.db": [
         "miRNAtap",
         "AnnotationDbi",
-        "RSQLite",
         "sqldf"
     ],
     "dml": [],
@@ -23162,8 +22291,7 @@
     ],
     "kml": [],
     "mirbase.db": [
-        "AnnotationDbi",
-        "RSQLite"
+        "AnnotationDbi"
     ],
     "condformat": [
         "dplyr"
@@ -23176,7 +22304,6 @@
         "org.Hs.eg.db",
         "AnnotationDbi",
         "AnnotationHub",
-        "RSQLite",
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
