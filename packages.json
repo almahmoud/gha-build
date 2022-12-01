@@ -1814,9 +1814,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "ssPATHS": [
-        "MESS"
-    ],
+    "ssPATHS": [],
     "STAN": [
         "Gviz",
         "biovizBase"
@@ -2233,7 +2231,6 @@
         "BiocVersion"
     ],
     "sampSurf": [],
-    "MESS": [],
     "GenKern": [],
     "vbsr": [],
     "msigdb": [
