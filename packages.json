@@ -13166,7 +13166,6 @@
         "ggvis",
         "AnnotationDbi"
     ],
-    "sigFeature": [],
     "SigFuge": [],
     "sights": [
         "qvalue"
