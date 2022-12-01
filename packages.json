@@ -3887,7 +3887,6 @@
     "msImpute": [
         "scran"
     ],
-    "mslp": [],
     "msmsEDA": [],
     "msmsTests": [
         "msmsEDA"
