@@ -1182,7 +1182,6 @@
     ],
     "ChromSCape": [
         "rtracklayer",
-        "shinydashboardPlus",
         "kableExtra",
         "batchelor",
         "scran",
@@ -5946,7 +5945,6 @@
     "pRolocGUI": [
         "pRoloc",
         "MSnbase",
-        "shinydashboardPlus",
         "MLInterfaces",
         "caret",
         "biomaRt",
@@ -7708,9 +7706,7 @@
     "systemPipeR": [
         "ShortRead"
     ],
-    "systemPipeShiny": [
-        "shinydashboardPlus"
-    ],
+    "systemPipeShiny": [],
     "systemPipeTools": [
         "DESeq2",
         "ggtree",
@@ -8721,7 +8717,6 @@
         "rtracklayer",
         "biomaRt"
     ],
-    "shinydashboardPlus": [],
     "kableExtra": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
