@@ -130387,7 +130387,6 @@
         "lifecycle",
         "zlibbioc"
     ],
-    "spikeLI": [],
     "spiky": [
         "Rsamtools",
         "GenomicRanges",
