@@ -2881,7 +2881,6 @@
         "lme4",
         "nloptr"
     ],
-    "rrvgo": [],
     "RTCGA": [
         "survminer",
         "ggpubr",
