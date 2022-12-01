@@ -897,7 +897,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "IPO": [],
     "IRISFGM": [
         "ggpubr",
         "scater",
