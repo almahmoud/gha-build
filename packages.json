@@ -616,9 +616,7 @@
         "BiocVersion",
         "rstatix"
     ],
-    "methylCC": [
-        "FlowSorted.Blood.450k"
-    ],
+    "methylCC": [],
     "methylclock": [
         "methylclockData",
         "ExperimentHub",
@@ -1253,7 +1251,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "FlowSorted.Blood.450k": [],
     "methylclockData": [
         "ExperimentHubData",
         "ExperimentHub",
