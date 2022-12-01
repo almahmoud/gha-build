@@ -375,7 +375,6 @@
         "mzR",
         "ade4",
         "rvest",
-        "pastecs",
         "reshape2",
         "DT",
         "fpc",
@@ -83056,7 +83055,6 @@
         "vctrs",
         "askpass"
     ],
-    "pastecs": [],
     "fpc": [
         "flexmix",
         "prabclus",
