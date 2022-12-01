@@ -993,9 +993,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "CTSV": [
-        "SpatialExperiment"
-    ],
+    "CTSV": [],
     "cummeRbund": [
         "Gviz",
         "GenomicFeatures",
@@ -1043,9 +1041,7 @@
         "nloptr",
         "pbkrtest"
     ],
-    "cytomapper": [
-        "SpatialExperiment"
-    ],
+    "cytomapper": [],
     "dada2": [],
     "dagLogo": [
         "motifStack",
@@ -1577,7 +1573,6 @@
         "BiocVersion"
     ],
     "ExperimentSubset": [
-        "SpatialExperiment",
         "TreeSummarizedExperiment"
     ],
     "extraChIPs": [
@@ -1906,9 +1901,7 @@
     "ggmsa": [
         "ggtree"
     ],
-    "ggspavis": [
-        "SpatialExperiment"
-    ],
+    "ggspavis": [],
     "ggtree": [],
     "ggtreeDendro": [
         "ggtree"
@@ -2133,7 +2126,6 @@
         "nloptr"
     ],
     "imcRtools": [
-        "SpatialExperiment",
         "cytomapper",
         "ggraph"
     ],
@@ -2318,7 +2310,6 @@
     "lipidr": [],
     "lisaClust": [
         "spicyR",
-        "SpatialExperiment",
         "lmerTest",
         "lme4",
         "nloptr"
@@ -3125,9 +3116,7 @@
     ],
     "NeuCA": [],
     "ngsReports": [],
-    "nnSVG": [
-        "SpatialExperiment"
-    ],
+    "nnSVG": [],
     "nondetects": [
         "arm",
         "lme4",
@@ -4261,8 +4250,7 @@
     "SIM": [],
     "SimBindProfiles": [],
     "simpleSeg": [
-        "cytomapper",
-        "SpatialExperiment"
+        "cytomapper"
     ],
     "simplifyEnrichment": [],
     "SingleCellSignalR": [],
@@ -4351,23 +4339,16 @@
     ],
     "sparrow": [],
     "SparseSignatures": [],
-    "spaSim": [
-        "SpatialExperiment"
-    ],
+    "spaSim": [],
     "SpatialCPie": [],
-    "spatialDE": [
-        "SpatialExperiment"
-    ],
+    "spatialDE": [],
     "SpatialDecon": [
         "GeomxTools",
         "lmerTest",
         "lme4",
         "nloptr"
     ],
-    "SpatialExperiment": [],
-    "SpatialFeatureExperiment": [
-        "SpatialExperiment"
-    ],
+    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [
         "scater"
     ],
@@ -4382,13 +4363,10 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "SPIAT": [
-        "SpatialExperiment"
-    ],
+    "SPIAT": [],
     "spicyR": [
         "lmerTest",
         "lme4",
-        "SpatialExperiment",
         "nloptr"
     ],
     "SpidermiR": [
@@ -4426,9 +4404,7 @@
         "car",
         "pbkrtest"
     ],
-    "SpotClean": [
-        "SpatialExperiment"
-    ],
+    "SpotClean": [],
     "SPsimSeq": [],
     "SRAdb": [
         "GEOquery"
@@ -4458,7 +4434,6 @@
         "VariantAnnotation"
     ],
     "standR": [
-        "SpatialExperiment",
         "RUVSeq",
         "EDASeq",
         "GenomicFeatures"
@@ -4474,9 +4449,7 @@
     "Statial": [
         "tidyverse"
     ],
-    "stJoincount": [
-        "SpatialExperiment"
-    ],
+    "stJoincount": [],
     "strandCheckR": [
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "GenomicFeatures"
@@ -4830,7 +4803,6 @@
         "BiocVersion"
     ],
     "Voyager": [
-        "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
     "vsclust": [],
