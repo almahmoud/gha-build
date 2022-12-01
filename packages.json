@@ -103859,7 +103859,6 @@
         "ipred",
         "lubridate",
         "stringr",
-        "warp",
         "zlibbioc",
         "tzdb",
         "digest",
@@ -132472,7 +132471,6 @@
         "magrittr",
         "future",
         "globals",
-        "warp",
         "cpp11",
         "withr",
         "digest",
@@ -132482,10 +132480,8 @@
     "slider": [
         "rlang",
         "vctrs",
-        "warp",
         "lifecycle"
     ],
-    "warp": [],
     "clustvarsel": [
         "mclust",
         "Matrix",
