@@ -270,7 +270,6 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "ScaledMatrix",
         "ragg"
     ],
     "ALDEx2": [
@@ -442,7 +441,6 @@
         "ggrepel",
         "waldo",
         "tidytree",
-        "ScaledMatrix",
         "ragg",
         "rematch2"
     ],
@@ -1311,8 +1309,7 @@
         "shinyjs",
         "tibble",
         "BiocSingular",
-        "bluster",
-        "ScaledMatrix"
+        "bluster"
     ],
     "BASiCStan": [
         "BASiCS",
@@ -1328,7 +1325,6 @@
         "viridis",
         "BiocSingular",
         "bluster",
-        "ScaledMatrix",
         "colourpicker",
         "miniUI",
         "shiny",
@@ -1345,8 +1341,7 @@
         "SummarizedExperiment",
         "BiocSingular",
         "scuttle",
-        "ResidualMatrix",
-        "ScaledMatrix"
+        "ResidualMatrix"
     ],
     "BatchQC": [
         "rmarkdown",
@@ -1382,7 +1377,6 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "ScaledMatrix",
         "tibble",
         "scuttle",
         "ggbeeswarm",
@@ -1523,7 +1517,6 @@
         "ggbeeswarm",
         "ggrastr",
         "waldo",
-        "ScaledMatrix",
         "ragg",
         "rematch2"
     ],
@@ -1825,9 +1818,7 @@
         "RSQLite",
         "tidyselect"
     ],
-    "BiocSingular": [
-        "ScaledMatrix"
-    ],
+    "BiocSingular": [],
     "BiocSklearn": [
         "SummarizedExperiment"
     ],
@@ -2116,8 +2107,7 @@
         "scuttle",
         "SummarizedExperiment",
         "BiocSingular",
-        "bluster",
-        "ScaledMatrix"
+        "bluster"
     ],
     "biotmle": [
         "dplyr",
@@ -2830,7 +2820,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrastr",
-        "ScaledMatrix",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -3006,7 +2995,6 @@
         "viridis",
         "ggrastr",
         "bluster",
-        "ScaledMatrix",
         "ragg"
     ],
     "CellaRepertorium": [
@@ -3081,7 +3069,6 @@
         "SeuratObject",
         "shiny",
         "spatstat.explore",
-        "ScaledMatrix",
         "ragg",
         "tidyr",
         "dplyr",
@@ -3135,7 +3122,6 @@
         "ggbeeswarm",
         "ggrastr",
         "ggrepel",
-        "ScaledMatrix",
         "ragg"
     ],
     "CellNOptR": [
@@ -3781,7 +3767,6 @@
         "BiocSingular",
         "scuttle",
         "ResidualMatrix",
-        "ScaledMatrix",
         "miniUI",
         "tidyselect",
         "ggfittext",
@@ -3975,7 +3960,6 @@
         "scuttle",
         "BiocSingular",
         "bluster",
-        "ScaledMatrix",
         "tidyselect",
         "tweenr",
         "tidyr"
@@ -4069,7 +4053,6 @@
         "zinbwave",
         "phylobase",
         "mbkmeans",
-        "ScaledMatrix",
         "ClusterR",
         "benchmarkme",
         "ggplot2",
@@ -4521,7 +4504,6 @@
         "BiocSingular",
         "ggplot2",
         "rtracklayer",
-        "ScaledMatrix",
         "tibble",
         "Rsamtools",
         "GenomicAlignments"
@@ -4637,7 +4619,6 @@
         "viridis",
         "ggrastr",
         "bluster",
-        "ScaledMatrix",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -4694,7 +4675,6 @@
         "spatstat.explore",
         "spatstat.model",
         "spatstat.linnet",
-        "ScaledMatrix",
         "ragg",
         "hardhat",
         "ipred",
@@ -4758,7 +4738,6 @@
         "GSEABase",
         "SingleCellExperiment",
         "BiocSingular",
-        "ScaledMatrix",
         "AnnotationDbi",
         "progress",
         "BiocFileCache",
@@ -6085,8 +6064,7 @@
         "tibble"
     ],
     "DelayedTensor": [
-        "BiocSingular",
-        "ScaledMatrix"
+        "BiocSingular"
     ],
     "deltaCaptureC": [
         "SummarizedExperiment",
@@ -6471,7 +6449,6 @@
         "SingleCellExperiment",
         "Seurat",
         "scran",
-        "ScaledMatrix",
         "scuttle",
         "bluster",
         "cowplot",
@@ -6536,7 +6513,6 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "ScaledMatrix",
         "ragg"
     ],
     "dittoSeq": [
@@ -7126,7 +7102,6 @@
         "hgu133a.db",
         "tidyr",
         "dplyr",
-        "ScaledMatrix",
         "tidyselect",
         "multcomp",
         "sn",
@@ -7909,8 +7884,7 @@
         "BiocSingular",
         "babelgene",
         "RSQLite",
-        "KEGGREST",
-        "ScaledMatrix"
+        "KEGGREST"
     ],
     "esetVis": [
         "MLP",
@@ -8503,7 +8477,6 @@
         "ggrepel",
         "bluster",
         "KEGGREST",
-        "ScaledMatrix",
         "progress",
         "BiocFileCache",
         "forcats",
@@ -10425,7 +10398,6 @@
         "GSEABase",
         "SingleCellExperiment",
         "BiocSingular",
-        "ScaledMatrix",
         "annotate",
         "AnnotationDbi",
         "RSQLite",
@@ -11666,7 +11638,6 @@
         "sctransform",
         "SeuratObject",
         "spatstat.explore",
-        "ScaledMatrix",
         "HDO.db",
         "fgsea",
         "tidyselect",
@@ -14004,7 +13975,6 @@
         "ggrastr",
         "ggrepel",
         "treeio",
-        "ScaledMatrix",
         "ragg",
         "tidytree"
     ],
@@ -14051,7 +14021,6 @@
         "ggrastr",
         "ggplotify",
         "patchwork",
-        "ScaledMatrix",
         "RSQLite",
         "tweenr",
         "ragg"
@@ -14172,7 +14141,6 @@
         "ggrastr",
         "ggrepel",
         "waldo",
-        "ScaledMatrix",
         "ragg",
         "lava",
         "rematch2"
@@ -14290,7 +14258,6 @@
         "dplyr",
         "ggrepel",
         "ggbeeswarm",
-        "ScaledMatrix",
         "tidyselect",
         "ggforce",
         "viridis",
@@ -15243,8 +15210,7 @@
         "scuttle",
         "SummarizedExperiment",
         "BiocSingular",
-        "bluster",
-        "ScaledMatrix"
+        "bluster"
     ],
     "mslp": [
         "org.Hs.eg.db",
@@ -15709,7 +15675,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "BiocSingular",
-        "ScaledMatrix",
         "scuttle",
         "scran",
         "batchelor",
@@ -15761,7 +15726,6 @@
         "ggrastr",
         "ggrepel",
         "pbkrtest",
-        "ScaledMatrix",
         "annotate",
         "AnnotationDbi",
         "ragg",
@@ -15995,7 +15959,6 @@
         "tibble",
         "tidyr",
         "KEGGREST",
-        "ScaledMatrix",
         "BSgenome",
         "tidyselect",
         "ggbeeswarm",
@@ -16310,7 +16273,6 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "ScaledMatrix",
         "tibble",
         "ragg",
         "ClusterR",
@@ -16383,8 +16345,7 @@
     "NewWave": [
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "BiocSingular",
-        "ScaledMatrix"
+        "BiocSingular"
     ],
     "ngsReports": [
         "ggplot2",
@@ -16587,7 +16548,6 @@
         "tidyr",
         "KEGGREST",
         "dbplyr",
-        "ScaledMatrix",
         "progress",
         "annotate",
         "rtracklayer",
@@ -17034,8 +16994,7 @@
         "SingleCellExperiment",
         "BiocSingular",
         "RSQLite",
-        "KEGGREST",
-        "ScaledMatrix"
+        "KEGGREST"
     ],
     "oppti": [
         "ggplot2",
@@ -17491,7 +17450,6 @@
         "ggrepel",
         "cowplot",
         "BiocSingular",
-        "ScaledMatrix",
         "tibble"
     ],
     "PDATK": [
@@ -17592,7 +17550,6 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "ScaledMatrix",
         "tibble",
         "ragg"
     ],
@@ -17999,7 +17956,6 @@
         "SeuratObject",
         "shiny",
         "spatstat.explore",
-        "ScaledMatrix",
         "ragg",
         "tidyr"
     ],
@@ -21142,7 +21098,6 @@
     "Scale4C": [
         "SummarizedExperiment"
     ],
-    "ScaledMatrix": [],
     "scAlign": [
         "SingleCellExperiment",
         "Seurat",
@@ -21300,7 +21255,6 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "ScaledMatrix",
         "tibble",
         "ragg"
     ],
@@ -21455,7 +21409,6 @@
         "bluster",
         "Rsamtools",
         "rtracklayer",
-        "ScaledMatrix",
         "GenomicAlignments",
         "ggplot2",
         "ggbeeswarm",
@@ -21480,7 +21433,6 @@
         "scuttle",
         "BiocSingular",
         "bluster",
-        "ScaledMatrix",
         "nloptr",
         "waldo",
         "rematch2"
@@ -21614,7 +21566,6 @@
         "ruv",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "ScaledMatrix",
         "reldist",
         "Hmisc",
         "ggplot2",
@@ -21754,7 +21705,6 @@
         "tibble",
         "dplyr",
         "origami",
-        "ScaledMatrix",
         "tidyselect"
     ],
     "scPipe": [
@@ -21788,7 +21738,6 @@
         "ggrepel",
         "waldo",
         "dbplyr",
-        "ScaledMatrix",
         "ragg",
         "rematch2"
     ],
@@ -21797,8 +21746,7 @@
         "scuttle",
         "SummarizedExperiment",
         "BiocSingular",
-        "bluster",
-        "ScaledMatrix"
+        "bluster"
     ],
     "scReClassify": [
         "SummarizedExperiment",
@@ -21872,8 +21820,7 @@
     "scry": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "BiocSingular",
-        "ScaledMatrix"
+        "BiocSingular"
     ],
     "scShapes": [],
     "scTensor": [
@@ -22025,7 +21972,6 @@
         "SeuratObject",
         "shiny",
         "spatstat.explore",
-        "ScaledMatrix",
         "AnnotationDbi",
         "tidyselect",
         "AnnotationFilter",
@@ -22575,7 +22521,6 @@
         "broom",
         "survMisc",
         "ggtext",
-        "ScaledMatrix",
         "survcomp",
         "biomaRt",
         "iC10",
@@ -22712,8 +22657,7 @@
         "scuttle",
         "SummarizedExperiment",
         "BiocSingular",
-        "bluster",
-        "ScaledMatrix"
+        "bluster"
     ],
     "singleCellTK": [
         "SummarizedExperiment",
@@ -22771,7 +22715,6 @@
         "interactiveDisplayBase",
         "BiocSingular",
         "ResidualMatrix",
-        "ScaledMatrix",
         "multipanelfigure",
         "miniUI",
         "geneplotter",
@@ -22844,8 +22787,7 @@
     ],
     "SingleR": [
         "SummarizedExperiment",
-        "BiocSingular",
-        "ScaledMatrix"
+        "BiocSingular"
     ],
     "singscore": [
         "ggplot2",
@@ -22874,8 +22816,7 @@
         "SingleCellExperiment",
         "BiocSingular",
         "RSQLite",
-        "KEGGREST",
-        "ScaledMatrix"
+        "KEGGREST"
     ],
     "sitadela": [
         "biomaRt",
@@ -23121,7 +23062,6 @@
         "sctransform",
         "SeuratObject",
         "spatstat.explore",
-        "ScaledMatrix",
         "ragg",
         "tidyr"
     ],
@@ -23290,7 +23230,6 @@
         "Hmisc",
         "GO.db",
         "KEGGREST",
-        "ScaledMatrix",
         "ragg"
     ],
     "spatzie": [
@@ -23436,7 +23375,6 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "ScaledMatrix",
         "ragg"
     ],
     "SpliceWiz": [
@@ -24450,7 +24388,6 @@
         "ggrepel",
         "plotly",
         "tidyr",
-        "ScaledMatrix",
         "annotate",
         "AnnotationDbi",
         "dplyr",
@@ -25010,7 +24947,6 @@
         "GSEABase",
         "SingleCellExperiment",
         "BiocSingular",
-        "ScaledMatrix",
         "tidyselect",
         "annotate",
         "AnnotationDbi",
@@ -25393,7 +25329,6 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "ScaledMatrix",
         "ragg"
     ],
     "trigger": [
@@ -25720,7 +25655,6 @@
         "ggbeeswarm",
         "ggrastr",
         "ggrepel",
-        "ScaledMatrix",
         "tidyselect",
         "ragg",
         "vroom",
@@ -25913,8 +25847,7 @@
         "zellkonverter",
         "scuttle",
         "SingleCellExperiment",
-        "BiocSingular",
-        "ScaledMatrix"
+        "BiocSingular"
     ],
     "VennDetail": [
         "dplyr",
