@@ -209,7 +209,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "BioNERO": [],
     "biovizBase": [
         "VariantAnnotation"
     ],
@@ -276,7 +275,6 @@
     ],
     "cageminer": [
         "ggbio",
-        "BioNERO",
         "biovizBase",
         "VariantAnnotation"
     ],
