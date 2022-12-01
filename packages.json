@@ -1149,7 +1149,6 @@
     "cardelino": [
         "ggtree",
         "VariantAnnotation",
-        "vcfR",
         "aplot",
         "tidytree",
         "treeio",
@@ -5251,7 +5250,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "VariantAnnotation",
         "rtracklayer",
-        "vcfR",
         "GenomicFeatures",
         "biomaRt",
         "BiocFileCache"
@@ -11376,7 +11374,6 @@
         "testthat",
         "waldo"
     ],
-    "vcfR": [],
     "sqldf": [],
     "drc": [
         "car",
