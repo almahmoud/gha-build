@@ -1333,9 +1333,7 @@
     "DegNorm": [
         "GenomicFeatures"
     ],
-    "DEGraph": [
-        "NCIgraph"
-    ],
+    "DEGraph": [],
     "DEGreport": [
         "DESeq2"
     ],
@@ -3611,7 +3609,6 @@
     "ncGTW": [
         "xcms"
     ],
-    "NCIgraph": [],
     "nearBynding": [
         "plyranges",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
