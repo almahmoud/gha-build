@@ -146285,7 +146285,6 @@
         "cachem",
         "fastmap"
     ],
-    "xmapbridge": [],
     "XNAString": [
         "Biostrings",
         "BSgenome",
