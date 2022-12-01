@@ -43879,7 +43879,6 @@
     "Xeva": [
         "ggplot2",
         "ComplexHeatmap",
-        "Rmisc",
         "PharmacoGx",
         "mgcv",
         "tibble",
@@ -50561,6 +50560,5 @@
         "tibble",
         "vctrs",
         "pillar"
-    ],
-    "Rmisc": []
+    ]
 }
