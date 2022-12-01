@@ -21845,7 +21845,6 @@
         "Rsamtools",
         "Biostrings"
     ],
-    "rbsurv": [],
     "Rcade": [
         "Rsamtools",
         "baySeq",
