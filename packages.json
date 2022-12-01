@@ -1675,7 +1675,6 @@
         "testthat",
         "waldo"
     ],
-    "CNORode": [],
     "CNTools": [
         "genefilter",
         "annotate"
@@ -5284,9 +5283,7 @@
         "testthat",
         "waldo"
     ],
-    "MEIGOR": [
-        "CNORode"
-    ],
+    "MEIGOR": [],
     "Melissa": [],
     "memes": [
         "cmdfun",
