@@ -3233,7 +3233,6 @@
         "tidybayes"
     ],
     "PPInfer": [],
-    "prebs": [],
     "preciseTAD": [
         "rCGH",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
