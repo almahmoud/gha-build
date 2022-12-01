@@ -15310,7 +15310,6 @@
         "waldo",
         "rematch2"
     ],
-    "scde": [],
     "scds": [
         "SingleCellExperiment",
         "dplyr"
