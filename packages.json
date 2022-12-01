@@ -249,7 +249,6 @@
     ],
     "ChIPexoQual": [],
     "ChIPQC": [],
-    "ChIPseeker": [],
     "ChromSCape": [
         "scater"
     ],
@@ -503,7 +502,6 @@
     "epialleleR": [],
     "EpiCompare": [
         "AnnotationHub",
-        "ChIPseeker",
         "BiocVersion"
     ],
     "epidecodeR": [
@@ -543,9 +541,7 @@
         "Homo.sapiens",
         "GenomicFiles"
     ],
-    "esATAC": [
-        "ChIPseeker"
-    ],
+    "esATAC": [],
     "EventPointer": [],
     "EWCE": [
         "ewceData",
@@ -1291,7 +1287,6 @@
         "pvca"
     ],
     "profileplyr": [
-        "ChIPseeker",
         "rGREAT"
     ],
     "proteasy": [],
@@ -1529,9 +1524,7 @@
     "scTreeViz": [
         "scater"
     ],
-    "segmenter": [
-        "ChIPseeker"
-    ],
+    "segmenter": [],
     "selectKSigs": [
         "HiLDA"
     ],
