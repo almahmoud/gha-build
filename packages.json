@@ -418,7 +418,6 @@
         "ggplot2",
         "cowplot",
         "Rsamtools",
-        "bamsignals",
         "GenomicAlignments",
         "ggdendro",
         "ggrepel",
@@ -1146,7 +1145,6 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "bamsignals": [],
     "BANDITS": [
         "ggplot2",
         "DRIMSeq",
@@ -3563,7 +3561,6 @@
         "ggplot2",
         "Rsamtools",
         "GenomicAlignments",
-        "bamsignals",
         "SummarizedExperiment",
         "tibble"
     ],
@@ -3949,7 +3946,6 @@
         "rtracklayer",
         "biovizBase",
         "GenomicFeatures",
-        "bamsignals",
         "AnnotationDbi",
         "BSgenome",
         "RSQLite",
@@ -3986,7 +3982,6 @@
         "rtracklayer",
         "biovizBase",
         "GenomicFeatures",
-        "bamsignals",
         "AnnotationDbi",
         "ggplot2",
         "tidyr",
@@ -4540,7 +4535,6 @@
         "rtracklayer",
         "biovizBase",
         "GenomicFeatures",
-        "bamsignals",
         "AnnotationDbi",
         "BSgenome",
         "RSQLite",
@@ -6269,7 +6263,6 @@
         "tibble"
     ],
     "DNAfusion": [
-        "bamsignals",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -7043,7 +7036,6 @@
         "SummarizedExperiment",
         "rtracklayer",
         "Rsamtools",
-        "bamsignals",
         "csaw",
         "ggpubr",
         "ggplot2",
@@ -11214,7 +11206,6 @@
         "rtracklayer",
         "biovizBase",
         "GenomicFeatures",
-        "bamsignals",
         "AnnotationDbi",
         "VariantAnnotation",
         "RSQLite",
@@ -14588,7 +14579,6 @@
         "tibble",
         "regioneR",
         "biovizBase",
-        "bamsignals",
         "VariantAnnotation",
         "GenomicAlignments",
         "KEGGREST",
@@ -15445,7 +15435,6 @@
     ],
     "normr": [
         "qvalue",
-        "bamsignals",
         "rtracklayer",
         "ggplot2",
         "Rsamtools",
@@ -18950,7 +18939,6 @@
         "Rsamtools",
         "biovizBase",
         "GenomicFeatures",
-        "bamsignals",
         "VariantAnnotation",
         "BSgenome",
         "GenomicAlignments",
@@ -20682,7 +20670,6 @@
     "segmenter": [
         "ChIPseeker",
         "SummarizedExperiment",
-        "bamsignals",
         "AnnotationDbi",
         "enrichplot",
         "GenomicFeatures",
