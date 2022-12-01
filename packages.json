@@ -1370,8 +1370,7 @@
     "MAI": [],
     "MAIT": [
         "agricolae",
-        "klaR",
-        "questionr"
+        "klaR"
     ],
     "maser": [
         "Gviz",
@@ -1826,8 +1825,7 @@
     ],
     "omada": [
         "diceR",
-        "klaR",
-        "questionr"
+        "klaR"
     ],
     "omicRexposome": [
         "rexposome",
@@ -3012,13 +3010,9 @@
         "BiocVersion"
     ],
     "agricolae": [
-        "klaR",
-        "questionr"
+        "klaR"
     ],
-    "klaR": [
-        "questionr"
-    ],
-    "questionr": [],
+    "klaR": [],
     "EnsDb.Hsapiens.v75": [],
     "sesameData": [
         "ExperimentHub",
@@ -3060,8 +3054,7 @@
         "BiocVersion"
     ],
     "diceR": [
-        "klaR",
-        "questionr"
+        "klaR"
     ],
     "AICcmodavg": [
         "unmarked",
