@@ -38637,7 +38637,6 @@
     "ORFhunteR": [
         "Biostrings",
         "rtracklayer",
-        "Peptides",
         "BSgenome.Hsapiens.UCSC.hg38",
         "IRanges",
         "XVector",
@@ -67459,7 +67458,6 @@
         "pillar",
         "vctrs"
     ],
-    "Peptides": [],
     "biomartr": [
         "biomaRt",
         "Biostrings",
