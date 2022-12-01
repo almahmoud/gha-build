@@ -707,7 +707,6 @@
         "BiocVersion"
     ],
     "YAPSA": [],
-    "zenith": [],
     "adductData": [
         "ExperimentHub",
         "AnnotationHub",
