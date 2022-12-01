@@ -986,7 +986,6 @@
         "MatrixGenerics",
         "Biobase",
         "GenomeInfoDb",
-        "mvtnorm",
         "RcppHNSW",
         "futile.logger",
         "ScaledMatrix",
@@ -1284,7 +1283,6 @@
         "rARPACK",
         "gridExtra",
         "ggrepel",
-        "mvtnorm",
         "cellranger",
         "progress",
         "plyr",
@@ -1564,7 +1562,6 @@
         "Rmpfr",
         "osqp",
         "RcppEigen",
-        "mvtnorm",
         "expm",
         "Exact",
         "gld",
@@ -2502,7 +2499,6 @@
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
-        "mvtnorm",
         "RCurl",
         "GenomeInfoDbData"
     ],
@@ -3074,7 +3070,6 @@
         "ggplot2",
         "glmnet",
         "gridExtra",
-        "mvtnorm",
         "PepsNMR",
         "plyr",
         "ropls",
@@ -3354,7 +3349,6 @@
     "ASSET": [
         "msm",
         "survival",
-        "mvtnorm",
         "expm",
         "Matrix"
     ],
@@ -3371,7 +3365,6 @@
         "vctrs",
         "caTools",
         "survival",
-        "mvtnorm",
         "expm",
         "genefilter",
         "BiocParallel",
@@ -4426,7 +4419,6 @@
         "class",
         "hexbin",
         "dendextend",
-        "mvtnorm",
         "coda",
         "mixtools",
         "biomaRt",
@@ -4511,7 +4503,6 @@
     "banocc": [
         "rstan",
         "coda",
-        "mvtnorm",
         "stringr",
         "StanHeaders",
         "ggplot2",
@@ -5503,7 +5494,6 @@
         "gmp",
         "Rmpfr",
         "osqp",
-        "mvtnorm",
         "expm",
         "Exact",
         "gld",
@@ -7181,7 +7171,6 @@
         "knitr",
         "checkmate",
         "htmlwidgets",
-        "mvtnorm",
         "TH.data",
         "sandwich",
         "MatrixModels",
@@ -7212,7 +7201,6 @@
         "IRanges",
         "GenomicRanges",
         "Gviz",
-        "mvtnorm",
         "S4Vectors",
         "GenomeInfoDb",
         "XVector",
@@ -8516,7 +8504,6 @@
         "foreach",
         "IRanges",
         "S4Vectors",
-        "mvtnorm",
         "ggplot2",
         "cowplot",
         "BiocStyle",
@@ -9832,7 +9819,6 @@
         "Biostrings",
         "interp",
         "hms",
-        "mvtnorm",
         "pcaPP",
         "bit64",
         "blob",
@@ -10156,7 +10142,6 @@
         "ggsignif",
         "rstatix",
         "ragg",
-        "mvtnorm",
         "survival",
         "TH.data",
         "sandwich",
@@ -11144,7 +11129,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "mvtnorm",
         "lifecycle",
         "rlang",
         "tibble",
@@ -11556,7 +11540,6 @@
         "minqa",
         "nloptr",
         "RcppEigen",
-        "mvtnorm",
         "TH.data",
         "sandwich",
         "MatrixGenerics",
@@ -11946,7 +11929,6 @@
     ],
     "CGEN": [
         "survival",
-        "mvtnorm",
         "Matrix"
     ],
     "CGHbase": [
@@ -12541,7 +12523,6 @@
         "htmlwidgets",
         "RcppEigen",
         "httr",
-        "mvtnorm",
         "TH.data",
         "sandwich",
         "MatrixModels",
@@ -12811,7 +12792,6 @@
         "cachem",
         "irlba",
         "hms",
-        "mvtnorm",
         "purrr",
         "ellipsis",
         "askpass"
@@ -13283,7 +13263,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "bamsignals",
-        "mvtnorm",
         "Rhtslib",
         "RCurl",
         "GenomeInfoDbData",
@@ -14018,7 +13997,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "GenomicFeatures",
-        "mvtnorm",
         "qtl",
         "httr",
         "RSQLite",
@@ -16349,7 +16327,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "mvtnorm",
         "lambda.r",
         "ggforce",
         "tidygraph",
@@ -16545,7 +16522,6 @@
         "multcomp",
         "htmlTable",
         "robustbase",
-        "mvtnorm",
         "pcaPP",
         "munsell",
         "viridisLite",
@@ -17250,7 +17226,6 @@
         "HTSFilter",
         "HTSCluster",
         "compositions",
-        "mvtnorm",
         "futile.logger",
         "robustbase",
         "bayesm",
@@ -17510,7 +17485,6 @@
         "askpass"
     ],
     "covEB": [
-        "mvtnorm",
         "igraph",
         "Biobase",
         "Matrix",
@@ -18323,7 +18297,6 @@
         "Biobase",
         "affyio",
         "illuminaio",
-        "mvtnorm",
         "ff",
         "foreach",
         "RcppEigen",
@@ -18727,7 +18700,6 @@
         "memoise",
         "nlme",
         "Matrix",
-        "mvtnorm",
         "munsell",
         "viridisLite",
         "pillar"
@@ -19251,7 +19223,6 @@
         "nloptr",
         "RcppEigen",
         "bigmemory",
-        "mvtnorm",
         "survival",
         "TH.data",
         "sandwich",
@@ -19371,7 +19342,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "mvtnorm",
         "survival",
         "prodlim",
         "timechange",
@@ -19827,7 +19797,6 @@
         "htmltools",
         "igraph",
         "timechange",
-        "mvtnorm",
         "progress",
         "MSQC",
         "stringr",
@@ -20186,7 +20155,6 @@
         "gmodels",
         "timechange",
         "nlme",
-        "mvtnorm",
         "multtest",
         "multcomp",
         "vroom",
@@ -20367,7 +20335,6 @@
         "doParallel",
         "ggplot2",
         "reshape2",
-        "mvtnorm",
         "MatrixGenerics",
         "GenomicRanges",
         "S4Vectors",
@@ -20530,7 +20497,6 @@
         "qap",
         "gclus",
         "callr",
-        "mvtnorm",
         "processx",
         "lambda.r",
         "tweenr",
@@ -20820,7 +20786,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "mvtnorm",
         "futile.logger",
         "SummarizedExperiment",
         "scales",
@@ -21171,7 +21136,6 @@
         "R.utils",
         "graph",
         "KEGGgraph",
-        "mvtnorm",
         "RBGL",
         "Rgraphviz",
         "rrcov",
@@ -21590,7 +21554,6 @@
         "nlme",
         "munsell",
         "viridisLite",
-        "mvtnorm",
         "gmm",
         "bit64",
         "progress",
@@ -21968,7 +21931,6 @@
         "maxLik",
         "pscl",
         "BiocParallel",
-        "mvtnorm",
         "futile.logger",
         "gamlss.dist",
         "nlme",
@@ -22403,7 +22365,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-        "mvtnorm",
         "png",
         "interp",
         "openssl",
@@ -22515,7 +22476,6 @@
         "minqa",
         "nloptr",
         "RcppEigen",
-        "mvtnorm",
         "survival",
         "TH.data",
         "sandwich",
@@ -22747,7 +22707,6 @@
         "Matrix",
         "mgcv",
         "multicool",
-        "mvtnorm",
         "plot3D",
         "mixtools",
         "e1071",
@@ -23166,7 +23125,6 @@
         "futile.logger",
         "GenomeInfoDb",
         "XVector",
-        "mvtnorm",
         "survival",
         "TH.data",
         "sandwich",
@@ -23417,7 +23375,6 @@
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
-        "mvtnorm",
         "S4Vectors",
         "RCurl",
         "GenomeInfoDbData",
@@ -23731,7 +23688,6 @@
         "future.apply",
         "progressr",
         "Matrix",
-        "mvtnorm",
         "TH.data",
         "sandwich",
         "askpass",
@@ -24215,7 +24171,6 @@
         "futile.logger",
         "survival",
         "libcoin",
-        "mvtnorm",
         "multcomp",
         "S4Vectors",
         "IRanges",
@@ -24926,7 +24881,6 @@
         "openssl",
         "RCurl",
         "Biostrings",
-        "mvtnorm",
         "multtest",
         "multcomp",
         "later",
@@ -28381,7 +28335,6 @@
         "lambda.r",
         "locfit",
         "multicool",
-        "mvtnorm",
         "plot3D"
     ],
     "fCI": [
@@ -28595,7 +28548,6 @@
         "vctrs",
         "caTools",
         "nlme",
-        "mvtnorm",
         "pcaPP",
         "httpuv",
         "fontawesome",
@@ -29201,7 +29153,6 @@
         "highr",
         "stringr",
         "robustbase",
-        "mvtnorm",
         "pcaPP"
     ],
     "flowBin": [
@@ -29556,7 +29507,6 @@
         "S4Vectors",
         "RProtoBufLib",
         "robustbase",
-        "mvtnorm",
         "pcaPP",
         "Matrix",
         "mgcv",
@@ -29578,7 +29528,6 @@
         "S4Vectors",
         "RProtoBufLib",
         "robustbase",
-        "mvtnorm",
         "pcaPP",
         "Matrix",
         "mgcv",
@@ -29762,7 +29711,6 @@
         "Matrix",
         "mgcv",
         "multicool",
-        "mvtnorm",
         "plot3D",
         "robustbase",
         "pcaPP",
@@ -29859,7 +29807,6 @@
         "Matrix",
         "mgcv",
         "multicool",
-        "mvtnorm",
         "plot3D",
         "png",
         "interp",
@@ -30209,7 +30156,6 @@
         "Matrix",
         "mgcv",
         "multicool",
-        "mvtnorm",
         "plot3D",
         "lifecycle",
         "rlang",
@@ -30302,7 +30248,6 @@
         "ggplot2",
         "mgcv",
         "multicool",
-        "mvtnorm",
         "plot3D",
         "scales",
         "tibble",
@@ -30718,7 +30663,6 @@
         "htmltools",
         "igraph",
         "timechange",
-        "mvtnorm",
         "progress",
         "MSQC",
         "stringr",
@@ -31100,7 +31044,6 @@
         "openssl",
         "RCurl",
         "Biostrings",
-        "mvtnorm",
         "nlme",
         "hms",
         "vroom",
@@ -31545,7 +31488,6 @@
     ],
     "GeneGeneInteR": [
         "snpStats",
-        "mvtnorm",
         "Rsamtools",
         "igraph",
         "FactoMineR",
@@ -31856,8 +31798,7 @@
     ],
     "GeneticsPed": [
         "gdata",
-        "genetics",
-        "mvtnorm"
+        "genetics"
     ],
     "GeneTonic": [
         "AnnotationDbi",
@@ -32995,7 +32936,6 @@
         "purrr",
         "mgcv",
         "cellranger",
-        "mvtnorm",
         "pcaPP",
         "sp",
         "future",
@@ -33102,7 +33042,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "mvtnorm",
         "highr",
         "broom",
         "foreach",
@@ -33838,7 +33777,6 @@
         "viridis",
         "htmltools",
         "RcppEigen",
-        "mvtnorm",
         "TH.data",
         "sandwich",
         "stringr",
@@ -34048,7 +33986,6 @@
         "ggsignif",
         "rstatix",
         "gridtext",
-        "mvtnorm",
         "nlme",
         "askpass",
         "munsell",
@@ -34950,7 +34887,6 @@
         "DescTools",
         "pryr",
         "stringr",
-        "mvtnorm",
         "expm",
         "Exact",
         "gld",
@@ -35256,7 +35192,6 @@
         "GenomeInfoDbData",
         "XVector",
         "openssl",
-        "mvtnorm",
         "survival",
         "TH.data",
         "sandwich",
@@ -35314,7 +35249,6 @@
         "survival",
         "graph",
         "glmnet",
-        "mvtnorm",
         "Matrix",
         "foreach",
         "RcppEigen",
@@ -36737,7 +36671,6 @@
         "rtracklayer",
         "S4Vectors",
         "Matrix",
-        "mvtnorm",
         "XVector",
         "Rsamtools",
         "lifecycle",
@@ -37133,7 +37066,6 @@
         "dplyr",
         "survival",
         "libcoin",
-        "mvtnorm",
         "multcomp",
         "Matrix",
         "MatrixGenerics",
@@ -38394,7 +38326,6 @@
         "doSNOW",
         "rlang",
         "viridis",
-        "mvtnorm",
         "expm",
         "Exact",
         "gld",
@@ -38913,7 +38844,6 @@
         "nlme",
         "survival",
         "libcoin",
-        "mvtnorm",
         "multcomp",
         "lifecycle",
         "rlang",
@@ -39095,9 +39025,7 @@
         "lambda.r",
         "askpass"
     ],
-    "INPower": [
-        "mvtnorm"
-    ],
+    "INPower": [],
     "INSPEcT": [
         "Biobase",
         "BiocParallel",
@@ -39589,7 +39517,6 @@
         "quantreg",
         "lme4",
         "blob",
-        "mvtnorm",
         "credentials",
         "Biostrings",
         "bit64",
@@ -39825,7 +39752,6 @@
         "pillar",
         "lambda.r",
         "gridtext",
-        "mvtnorm",
         "nlme",
         "car",
         "munsell",
@@ -40076,7 +40002,6 @@
         "spatstat.geom",
         "RcppEigen",
         "GenomicRanges",
-        "mvtnorm",
         "RcppHNSW",
         "futile.logger",
         "ScaledMatrix",
@@ -40793,7 +40718,6 @@
         "robustbase",
         "inline",
         "rrcov",
-        "mvtnorm",
         "pcaPP",
         "Matrix"
     ],
@@ -40804,7 +40728,6 @@
         "inline",
         "rrcov",
         "Matrix",
-        "mvtnorm",
         "pcaPP"
     ],
     "iterClust": [
@@ -40946,7 +40869,6 @@
         "rstatix",
         "gridtext",
         "openssl",
-        "mvtnorm",
         "nlme",
         "munsell",
         "knitr",
@@ -40994,7 +40916,6 @@
         "Matrix",
         "mgcv",
         "multicool",
-        "mvtnorm",
         "plot3D",
         "lifecycle",
         "rlang",
@@ -41367,7 +41288,6 @@
         "quantreg",
         "lme4",
         "sparseMatrixStats",
-        "mvtnorm",
         "lambda.r",
         "RCurl",
         "GenomeInfoDbData",
@@ -41635,7 +41555,6 @@
         "ggplot2",
         "survival",
         "libcoin",
-        "mvtnorm",
         "multcomp",
         "lifecycle",
         "mgcv",
@@ -41828,7 +41747,6 @@
         "MultiAssayExperiment",
         "emmeans",
         "reshape2",
-        "mvtnorm",
         "lifecycle",
         "mgcv",
         "rlang",
@@ -42033,7 +41951,6 @@
         "crosstalk",
         "promises",
         "munsell",
-        "mvtnorm",
         "gmm",
         "lambda.r",
         "sandwich",
@@ -42669,7 +42586,6 @@
         "irlba",
         "reldist",
         "Hmisc",
-        "mvtnorm",
         "caTools",
         "survival",
         "ggplot2",
@@ -42853,7 +42769,6 @@
         "foreach",
         "gplots",
         "Wrench",
-        "mvtnorm",
         "survival",
         "caTools",
         "testthat",
@@ -42955,7 +42870,6 @@
         "glmnet",
         "gplots",
         "Wrench",
-        "mvtnorm",
         "caTools",
         "stringr",
         "knitr",
@@ -43226,7 +43140,6 @@
         "Biobase",
         "affyio",
         "illuminaio",
-        "mvtnorm",
         "RcppEigen",
         "DelayedArray",
         "rhdf5",
@@ -44037,7 +43950,6 @@
         "here",
         "RcppEigen",
         "munsell",
-        "mvtnorm",
         "gmm",
         "sandwich",
         "zoo"
@@ -44398,7 +44310,6 @@
         "tibble",
         "vctrs",
         "gld",
-        "mvtnorm",
         "bslib",
         "htmltools",
         "jquerylib",
@@ -44943,7 +44854,6 @@
         "nlme",
         "RCurl",
         "GenomeInfoDbData",
-        "mvtnorm",
         "survival",
         "TH.data",
         "sandwich",
@@ -45069,7 +44979,6 @@
         "foreach",
         "MCMCpack",
         "cowplot",
-        "mvtnorm",
         "BiocStyle",
         "bookdown",
         "knitr",
@@ -46406,7 +46315,6 @@
         "promises",
         "ellipsis",
         "openssl",
-        "mvtnorm",
         "multtest",
         "multcomp",
         "later",
@@ -46510,7 +46418,6 @@
         "munsell",
         "rlang",
         "viridisLite",
-        "mvtnorm",
         "tibble",
         "vctrs",
         "stringr",
@@ -46560,7 +46467,6 @@
         "R.utils",
         "Rhtslib",
         "survival",
-        "mvtnorm",
         "expm",
         "plyr",
         "coda",
@@ -47317,7 +47223,6 @@
         "munsell",
         "viridisLite",
         "pillar",
-        "mvtnorm",
         "SummarizedExperiment",
         "stringr",
         "MatrixGenerics",
@@ -47354,7 +47259,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "mvtnorm",
         "futile.logger",
         "SummarizedExperiment",
         "lifecycle",
@@ -47540,7 +47444,6 @@
         "Biobase",
         "annotate",
         "AnnotationDbi",
-        "mvtnorm",
         "XML",
         "RCurl",
         "GenomicAlignments",
@@ -48190,7 +48093,6 @@
         "ggplot2",
         "tmvtnorm",
         "Matrix",
-        "mvtnorm",
         "phyloseq",
         "metagenomeSeq",
         "Biobase",
@@ -48422,7 +48324,6 @@
         "reshape2",
         "survival",
         "libcoin",
-        "mvtnorm",
         "multcomp",
         "circlize",
         "GetoptLong",
@@ -48700,7 +48601,6 @@
         "GenomeInfoDb",
         "survival",
         "libcoin",
-        "mvtnorm",
         "multcomp",
         "lifecycle",
         "vctrs",
@@ -49258,7 +49158,6 @@
         "BSgenome.Hsapiens.UCSC.hg18",
         "BSgenome",
         "illuminaio",
-        "mvtnorm",
         "RcppEigen",
         "bit64",
         "blob",
@@ -49524,7 +49423,6 @@
         "zoo",
         "nlme",
         "libcoin",
-        "mvtnorm",
         "inum",
         "bit64",
         "blob",
@@ -50651,7 +50549,6 @@
         "foreach",
         "gplots",
         "Wrench",
-        "mvtnorm",
         "munsell",
         "viridisLite",
         "survival",
@@ -52043,7 +51940,6 @@
         "softImpute",
         "reticulate",
         "scran",
-        "mvtnorm",
         "tidyr",
         "dplyr",
         "lifecycle",
@@ -52637,7 +52533,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "mvtnorm",
         "highr",
         "testthat",
         "askpass",
@@ -53346,7 +53241,6 @@
         "openssl",
         "png",
         "Biostrings",
-        "mvtnorm",
         "multtest",
         "multcomp",
         "robustbase",
@@ -53608,7 +53502,6 @@
         "highr",
         "DelayedArray",
         "qqman",
-        "mvtnorm",
         "multtest",
         "multcomp",
         "robustbase",
@@ -54045,7 +53938,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "mvtnorm",
         "askpass",
         "tinytex",
         "broom",
@@ -54439,7 +54331,6 @@
         "htmltools",
         "ade4",
         "TFBSTools",
-        "mvtnorm",
         "multcomp",
         "robustbase",
         "rhdf5filters",
@@ -55085,7 +54976,6 @@
         "tibble",
         "vctrs",
         "multicool",
-        "mvtnorm",
         "plot3D",
         "cowplot",
         "fitdistrplus",
@@ -55470,7 +55360,6 @@
         "cachem"
     ],
     "nethet": [
-        "mvtnorm",
         "GeneNet",
         "huge",
         "ggm",
@@ -56107,7 +55996,6 @@
     ],
     "nondetects": [
         "Biobase",
-        "mvtnorm",
         "arm",
         "HTqPCR",
         "Matrix",
@@ -56408,9 +56296,7 @@
         "GenomeInfoDbData",
         "lifecycle"
     ],
-    "NTW": [
-        "mvtnorm"
-    ],
+    "NTW": [],
     "nucleoSim": [
         "IRanges",
         "S4Vectors"
@@ -56478,7 +56364,6 @@
         "SummarizedExperiment",
         "Matrix",
         "multicool",
-        "mvtnorm",
         "plot3D",
         "dplyr",
         "tidyselect",
@@ -57294,7 +57179,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "mvtnorm",
         "lambda.r",
         "knitr",
         "checkmate",
@@ -57441,7 +57325,6 @@
         "pillar",
         "crosstalk",
         "promises",
-        "mvtnorm",
         "BiocParallel",
         "AnnotationDbi",
         "RSQLite",
@@ -57593,7 +57476,6 @@
         "ggsignif",
         "rstatix",
         "gridtext",
-        "mvtnorm",
         "askpass",
         "munsell",
         "knitr",
@@ -58368,7 +58250,6 @@
         "stringr",
         "Matrix",
         "RcppGSL",
-        "mvtnorm",
         "pcaPP",
         "mgcv",
         "multicool",
@@ -58944,7 +58825,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "mvtnorm",
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
@@ -59235,7 +59115,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "mvtnorm",
         "multtest",
         "multcomp",
         "robustbase",
@@ -59975,7 +59854,6 @@
         "gridtext",
         "caTools",
         "pamr",
-        "mvtnorm",
         "lava",
         "clock",
         "hardhat",
@@ -60201,7 +60079,6 @@
         "scater",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "mvtnorm",
         "Matrix",
         "igraph",
         "scuttle",
@@ -60547,7 +60424,6 @@
         "highr",
         "nlme",
         "askpass",
-        "mvtnorm",
         "R.oo",
         "hms",
         "vroom",
@@ -60699,7 +60575,6 @@
         "crosstalk",
         "purrr",
         "promises",
-        "mvtnorm",
         "gmp",
         "Rmpfr",
         "kSamples",
@@ -60817,7 +60692,6 @@
         "Biostrings",
         "interp",
         "hms",
-        "mvtnorm",
         "pcaPP",
         "bit64",
         "blob",
@@ -61344,7 +61218,6 @@
         "mgcv",
         "scales",
         "libcoin",
-        "mvtnorm",
         "survival",
         "inum",
         "ggraph",
@@ -61496,7 +61369,6 @@
         "checkmate",
         "htmlwidgets",
         "multicool",
-        "mvtnorm",
         "plot3D",
         "cachem",
         "askpass",
@@ -63348,7 +63220,6 @@
         "dendextend",
         "scales",
         "knitr",
-        "mvtnorm",
         "coda",
         "mixtools",
         "plyr",
@@ -63501,7 +63372,6 @@
         "hexbin",
         "dendextend",
         "knitr",
-        "mvtnorm",
         "coda",
         "mixtools",
         "biomaRt",
@@ -63994,7 +63864,6 @@
         "lme4",
         "nlme",
         "viridis",
-        "mvtnorm",
         "openssl",
         "Matrix",
         "R.oo",
@@ -64912,7 +64781,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "GenomicFeatures",
-        "mvtnorm",
         "qtl",
         "Rgraphviz",
         "XML",
@@ -65494,8 +65362,7 @@
     "qusage": [
         "Biobase",
         "nlme",
-        "emmeans",
-        "mvtnorm"
+        "emmeans"
     ],
     "qvalue": [
         "ggplot2",
@@ -66840,7 +66707,6 @@
         "ASSET",
         "msm",
         "survival",
-        "mvtnorm",
         "expm",
         "Matrix"
     ],
@@ -66907,7 +66773,6 @@
         "tibble",
         "vctrs",
         "multicool",
-        "mvtnorm",
         "plot3D",
         "ade4",
         "ape",
@@ -68221,7 +68086,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "mvtnorm",
         "knitr",
         "checkmate",
         "png",
@@ -70042,7 +69906,6 @@
         "annotate",
         "AnnotationDbi",
         "caTools",
-        "mvtnorm",
         "survey",
         "png",
         "interp",
@@ -70540,7 +70403,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "mvtnorm",
         "aplot",
         "ggnewscale",
         "ggraph",
@@ -71239,7 +71101,6 @@
         "tidyr",
         "ggrepel",
         "qqman",
-        "mvtnorm",
         "multtest",
         "multcomp",
         "broom",
@@ -71504,7 +71365,6 @@
         "rstatix",
         "gridtext",
         "openssl",
-        "mvtnorm",
         "nlme",
         "zoo",
         "km.ci",
@@ -72450,7 +72310,6 @@
         "tibble",
         "vctrs",
         "gplots",
-        "mvtnorm",
         "pcaPP",
         "httpuv",
         "fontawesome",
@@ -73085,7 +72944,6 @@
         "ggplot2",
         "DESeq2",
         "Matrix",
-        "mvtnorm",
         "pcaPP",
         "S4Vectors",
         "IRanges",
@@ -74318,7 +74176,6 @@
         "GenomicRanges",
         "Biobase",
         "GenomeInfoDb",
-        "mvtnorm",
         "lambda.r",
         "RCurl",
         "GenomeInfoDbData",
@@ -74670,7 +74527,6 @@
         "S4Vectors",
         "XVector",
         "rtracklayer",
-        "mvtnorm",
         "expm",
         "Exact",
         "gld",
@@ -75009,7 +74865,6 @@
         "SAVER",
         "Rmagic",
         "BiocParallel",
-        "mvtnorm",
         "futile.logger",
         "gamlss.dist",
         "nlme",
@@ -75230,7 +75085,6 @@
         "plyr",
         "coda",
         "bbmle",
-        "mvtnorm",
         "lambda.r"
     ],
     "scTensor": [
@@ -77389,7 +77243,6 @@
         "foreach",
         "RcppEigen",
         "igraph",
-        "mvtnorm",
         "testthat",
         "rngtools",
         "doParallel",
@@ -77526,7 +77379,6 @@
         "DelayedMatrixStats",
         "HDF5Array",
         "BiocSingular",
-        "mvtnorm",
         "purrr",
         "tidyr",
         "readr",
@@ -78333,7 +78185,6 @@
         "assertive.properties",
         "assertive.types",
         "magick",
-        "mvtnorm",
         "multcomp",
         "hms",
         "robustbase",
@@ -78697,7 +78548,6 @@
         "DelayedArray",
         "HDF5Array",
         "BiocParallel",
-        "mvtnorm",
         "lumi",
         "ROC",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -79513,7 +79363,6 @@
         "MCMCpack",
         "coda",
         "quantreg",
-        "mvtnorm",
         "Matrix",
         "gmm",
         "sandwich",
@@ -80546,7 +80395,6 @@
         "coda",
         "mgcv",
         "MBA",
-        "mvtnorm",
         "sp",
         "Matrix",
         "survival",
@@ -81258,7 +81106,6 @@
         "edgeR",
         "Hmisc",
         "WGCNA",
-        "mvtnorm",
         "phyloseq",
         "locfit",
         "survival",
@@ -81643,7 +81490,6 @@
         "ggformula",
         "glmnet",
         "kinship2",
-        "mvtnorm",
         "RcppArmadillo",
         "gplots",
         "MatrixGenerics",
@@ -82152,7 +81998,6 @@
         "rrcov",
         "knitr",
         "robustbase",
-        "mvtnorm",
         "pcaPP",
         "highr",
         "stringr"
@@ -82938,7 +82783,6 @@
         "ggsignif",
         "rstatix",
         "gridtext",
-        "mvtnorm",
         "munsell",
         "viridisLite",
         "knitr",
@@ -83354,7 +83198,6 @@
         "timechange",
         "cachem",
         "Matrix",
-        "mvtnorm",
         "survival",
         "TH.data",
         "sandwich",
@@ -84105,7 +83948,6 @@
         "rhdf5filters",
         "nlme",
         "survival",
-        "mvtnorm",
         "expm",
         "httr",
         "viridisLite",
@@ -84596,7 +84438,6 @@
         "vctrs",
         "openssl",
         "hms",
-        "mvtnorm",
         "blob",
         "pillar",
         "purrr",
@@ -85741,7 +85582,6 @@
         "globals"
     ],
     "TMixClust": [
-        "mvtnorm",
         "zoo",
         "BiocParallel",
         "flexclust",
@@ -86874,7 +86714,6 @@
         "minqa",
         "nloptr",
         "RcppEigen",
-        "mvtnorm",
         "survival",
         "TH.data",
         "sandwich",
@@ -87180,7 +87019,6 @@
         "Biobase",
         "RSQLite",
         "KEGGREST",
-        "mvtnorm",
         "lifecycle",
         "rlang",
         "tibble",
@@ -88024,7 +87862,6 @@
         "ks",
         "ellipsis",
         "multicool",
-        "mvtnorm",
         "plot3D"
     ],
     "uncoverappLib": [
@@ -88453,7 +88290,6 @@
         "BSgenome",
         "affyio",
         "illuminaio",
-        "mvtnorm",
         "ff",
         "RcppEigen",
         "RCurl",
@@ -89704,7 +89540,6 @@
         "munsell",
         "viridisLite",
         "latticeExtra",
-        "mvtnorm",
         "purrr",
         "ellipsis",
         "interp",
@@ -90257,7 +90092,6 @@
     "XDE": [
         "Biobase",
         "genefilter",
-        "mvtnorm",
         "GeneMeta",
         "siggenes",
         "AnnotationDbi",
@@ -90508,7 +90342,6 @@
         "mgcv",
         "scales",
         "httr",
-        "mvtnorm",
         "gmp",
         "Rmpfr",
         "kSamples",
@@ -91888,8 +91721,7 @@
         "plyr",
         "coda",
         "bbmle",
-        "Matrix",
-        "mvtnorm"
+        "Matrix"
     ],
     "clue": [],
     "forestplot": [
@@ -91902,8 +91734,7 @@
     "GetoptLong": [],
     "coda": [],
     "bbmle": [
-        "Matrix",
-        "mvtnorm"
+        "Matrix"
     ],
     "ggbeeswarm": [
         "ggplot2",
@@ -91963,7 +91794,6 @@
     "speedglm": [
         "Matrix"
     ],
-    "mvtnorm": [],
     "RcppHNSW": [],
     "irlba": [
         "Matrix"
@@ -92078,9 +91908,7 @@
         "pillar",
         "askpass"
     ],
-    "pcaPP": [
-        "mvtnorm"
-    ],
+    "pcaPP": [],
     "baseline": [
         "SparseM",
         "limSolve"
@@ -92242,7 +92070,6 @@
         "RcppEigen"
     ],
     "DescTools": [
-        "mvtnorm",
         "expm",
         "Exact",
         "gld",
@@ -92265,9 +92092,7 @@
         "ellipsis"
     ],
     "Rdpack": [],
-    "emmeans": [
-        "mvtnorm"
-    ],
+    "emmeans": [],
     "energy": [],
     "lmerTest": [
         "lme4",
@@ -93586,7 +93411,6 @@
     "pbmcapply": [],
     "msm": [
         "survival",
-        "mvtnorm",
         "expm",
         "Matrix"
     ],
@@ -95170,7 +94994,6 @@
         "knitr",
         "checkmate",
         "htmlwidgets",
-        "mvtnorm",
         "TH.data",
         "sandwich",
         "Matrix",
@@ -95224,7 +95047,6 @@
         "png"
     ],
     "multcomp": [
-        "mvtnorm",
         "survival",
         "TH.data",
         "sandwich",
@@ -96073,13 +95895,11 @@
         "robustbase",
         "inline",
         "rrcov",
-        "mvtnorm",
         "pcaPP",
         "Matrix"
     ],
     "rrcov": [
         "robustbase",
-        "mvtnorm",
         "pcaPP"
     ],
     "ALL": [
@@ -96127,7 +95947,6 @@
         "quantreg",
         "lme4",
         "nlme",
-        "mvtnorm",
         "survival",
         "TH.data",
         "sandwich",
@@ -96294,7 +96113,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "mvtnorm",
         "lifecycle",
         "rlang",
         "tibble",
@@ -97712,7 +97530,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "mvtnorm",
         "Matrix",
         "broom",
         "munsell",
@@ -97854,7 +97671,6 @@
         "knitr",
         "checkmate",
         "htmlwidgets",
-        "mvtnorm",
         "TH.data",
         "Matrix",
         "MatrixModels",
@@ -97873,14 +97689,12 @@
         "Matrix",
         "mgcv",
         "multicool",
-        "mvtnorm",
         "nlme"
     ],
     "ks": [
         "Matrix",
         "mgcv",
         "multicool",
-        "mvtnorm",
         "plot3D",
         "nlme"
     ],
@@ -98302,8 +98116,7 @@
     "ccaPP": [
         "pcaPP",
         "robustbase",
-        "RcppArmadillo",
-        "mvtnorm"
+        "RcppArmadillo"
     ],
     "pscl": [],
     "AhoCorasickTrie": [],
@@ -98493,7 +98306,6 @@
         "askpass"
     ],
     "plsVarSel": [
-        "mvtnorm",
         "progress",
         "MSQC",
         "rgl",
@@ -98622,7 +98434,6 @@
         "TFisher",
         "mutoss",
         "qqconf",
-        "mvtnorm",
         "multtest",
         "multcomp",
         "robustbase",
@@ -98641,7 +98452,6 @@
     "harmonicmeanp": [],
     "TFisher": [
         "sn",
-        "mvtnorm",
         "Matrix",
         "quantreg",
         "SparseM",
@@ -98649,7 +98459,6 @@
         "survival"
     ],
     "mutoss": [
-        "mvtnorm",
         "multtest",
         "multcomp",
         "survival",
@@ -98890,14 +98699,12 @@
         "tmvtnorm",
         "pcaMethods",
         "Biobase",
-        "mvtnorm",
         "Matrix",
         "gmm",
         "sandwich",
         "zoo"
     ],
     "tmvtnorm": [
-        "mvtnorm",
         "Matrix",
         "gmm",
         "sandwich",
@@ -99149,16 +98956,13 @@
     "coin": [
         "survival",
         "libcoin",
-        "mvtnorm",
         "multcomp",
         "TH.data",
         "sandwich",
         "Matrix",
         "zoo"
     ],
-    "libcoin": [
-        "mvtnorm"
-    ],
+    "libcoin": [],
     "wordcloud": [],
     "HTMLUtils": [],
     "ELMER.data": [
@@ -99471,7 +99275,6 @@
         "Matrix",
         "mgcv",
         "multicool",
-        "mvtnorm",
         "plot3D",
         "lifecycle",
         "rlang",
@@ -99494,7 +99297,6 @@
         "Matrix",
         "mgcv",
         "multicool",
-        "mvtnorm",
         "plot3D",
         "lifecycle",
         "rlang",
@@ -99515,7 +99317,6 @@
         "Matrix",
         "mgcv",
         "multicool",
-        "mvtnorm",
         "plot3D",
         "lifecycle",
         "rlang",
@@ -99539,7 +99340,6 @@
         "vctrs",
         "Matrix",
         "multicool",
-        "mvtnorm",
         "plot3D",
         "nlme",
         "munsell",
@@ -99721,7 +99521,6 @@
         "ggsignif",
         "rstatix",
         "gridtext",
-        "mvtnorm",
         "munsell",
         "viridisLite",
         "Matrix",
@@ -99751,9 +99550,7 @@
         "diffobj",
         "rematch2"
     ],
-    "maxstat": [
-        "mvtnorm"
-    ],
+    "maxstat": [],
     "survMisc": [
         "survival",
         "knitr",
@@ -99803,8 +99600,7 @@
         "viridisLite"
     ],
     "genetics": [
-        "gdata",
-        "mvtnorm"
+        "gdata"
     ],
     "backbone": [
         "igraph",
@@ -99875,7 +99671,6 @@
         "fit.models",
         "robustbase",
         "rrcov",
-        "mvtnorm",
         "pcaPP"
     ],
     "roptim": [
@@ -100031,7 +99826,6 @@
         "htmltools",
         "png",
         "interp",
-        "mvtnorm",
         "TH.data",
         "sandwich",
         "plyr",
@@ -100825,8 +100619,7 @@
         "e1071",
         "pcaPP",
         "robustbase",
-        "som",
-        "mvtnorm"
+        "som"
     ],
     "optparse": [],
     "glmmTMB": [
@@ -101151,7 +100944,6 @@
     "venn": [],
     "PairedData": [
         "gld",
-        "mvtnorm",
         "ggplot2",
         "lifecycle",
         "mgcv",
@@ -101516,9 +101308,7 @@
     "rebus.datetimes": [],
     "rebus.numbers": [],
     "rebus.unicode": [],
-    "mhsmm": [
-        "mvtnorm"
-    ],
+    "mhsmm": [],
     "GeneNet": [
         "longitudinal"
     ],
@@ -101695,7 +101485,6 @@
         "stabs",
         "partykit",
         "libcoin",
-        "mvtnorm",
         "inum"
     ],
     "mboost": [
@@ -101704,19 +101493,16 @@
         "survival",
         "partykit",
         "libcoin",
-        "mvtnorm",
         "inum"
     ],
     "partykit": [
         "libcoin",
-        "mvtnorm",
         "survival",
         "inum",
         "Matrix"
     ],
     "inum": [
-        "libcoin",
-        "mvtnorm"
+        "libcoin"
     ],
     "miRBaseVersions.db": [
         "AnnotationDbi",
@@ -102279,7 +102065,6 @@
         "rlang"
     ],
     "ICSNP": [
-        "mvtnorm",
         "ICS",
         "survey",
         "Matrix",
@@ -102288,7 +102073,6 @@
         "mitools"
     ],
     "ICS": [
-        "mvtnorm",
         "survey",
         "Matrix",
         "survival",
@@ -102906,9 +102690,7 @@
         "R.oo",
         "R.utils"
     ],
-    "circular": [
-        "mvtnorm"
-    ],
+    "circular": [],
     "conicfit": [],
     "genlasso": [
         "Matrix",
@@ -102937,7 +102719,6 @@
     ],
     "celestial": [],
     "PMCMRplus": [
-        "mvtnorm",
         "gmp",
         "Rmpfr",
         "kSamples",
@@ -102982,7 +102763,6 @@
         "Cubist",
         "reshape2",
         "libcoin",
-        "mvtnorm",
         "survival",
         "inum",
         "plyr",
@@ -103971,7 +103751,6 @@
     ],
     "copula": [
         "Matrix",
-        "mvtnorm",
         "pcaPP"
     ],
     "proxyC": [
@@ -104257,7 +104036,6 @@
         "ggsignif",
         "rstatix",
         "gridtext",
-        "mvtnorm",
         "nlme",
         "knitr",
         "zoo",
@@ -104663,9 +104441,7 @@
         "askpass",
         "lifecycle"
     ],
-    "mixsmsn": [
-        "mvtnorm"
-    ],
+    "mixsmsn": [],
     "RcppAlgos": [
         "gmp"
     ],
@@ -104793,7 +104569,6 @@
         "coda",
         "mgcv",
         "MBA",
-        "mvtnorm",
         "sp",
         "Matrix",
         "survival",
@@ -104815,7 +104590,6 @@
         "ggformula",
         "glmnet",
         "kinship2",
-        "mvtnorm",
         "RcppArmadillo",
         "broom",
         "ggstance",
@@ -104971,7 +104745,6 @@
         "robustbase",
         "inline",
         "rrcov",
-        "mvtnorm",
         "pcaPP"
     ],
     "gstat": [
