@@ -1910,7 +1910,6 @@
         "rtracklayer"
     ],
     "COMPASS": [],
-    "compcodeR": [],
     "compEpiTools": [
         "topGO",
         "GenomicFeatures",
