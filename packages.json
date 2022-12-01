@@ -342,7 +342,6 @@
         "AnnotationHubData",
         "BiocCheck"
     ],
-    "methylGSA": [],
     "mia": [
         "scater"
     ],
