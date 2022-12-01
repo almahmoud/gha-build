@@ -41803,7 +41803,6 @@
         "org.Mm.eg.db",
         "org.Rn.eg.db",
         "RColorBrewer",
-        "EGSEAdata",
         "htmlwidgets",
         "plotly",
         "DT",
@@ -168501,7 +168500,6 @@
     "HTMLUtils": [
         "R2HTML"
     ],
-    "EGSEAdata": [],
     "ELMER.data": [
         "GenomicRanges",
         "BiocGenerics",
