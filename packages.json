@@ -19670,7 +19670,6 @@
         "RSQLite",
         "ape",
         "phangorn",
-        "RMSNumpress",
         "RcppEigen",
         "lifecycle",
         "tibble",
@@ -86721,7 +86720,6 @@
         "igraph",
         "Matrix"
     ],
-    "RMSNumpress": [],
     "DiffCorr": [
         "pcaMethods",
         "igraph",
