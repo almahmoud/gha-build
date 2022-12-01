@@ -439,7 +439,6 @@
         "ScaledMatrix",
         "XVector",
         "ragg",
-        "dqrng",
         "textshaping"
     ],
     "ALDEx2": [
@@ -722,7 +721,6 @@
         "ragg",
         "hms",
         "blob",
-        "dqrng",
         "rematch2",
         "textshaping"
     ],
@@ -1136,7 +1134,6 @@
         "httpuv",
         "bslib",
         "spatstat.random",
-        "dqrng",
         "Biostrings",
         "blob"
     ],
@@ -2085,7 +2082,6 @@
         "DelayedMatrixStats",
         "BiocSingular",
         "bluster",
-        "dqrng",
         "beachmat",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -2117,7 +2113,6 @@
         "pkgbuild",
         "BiocSingular",
         "bluster",
-        "dqrng",
         "GenomicRanges",
         "GenomeInfoDb",
         "ScaledMatrix",
@@ -2224,7 +2219,6 @@
         "ggrastr",
         "ggrepel",
         "bluster",
-        "dqrng",
         "GenomicRanges",
         "GenomeInfoDb",
         "blob",
@@ -2456,7 +2450,6 @@
         "bslib",
         "spatstat.random",
         "tidytree",
-        "dqrng",
         "NADA",
         "RSQLite",
         "KEGGREST",
@@ -3379,7 +3372,6 @@
         "DelayedMatrixStats",
         "BiocSingular",
         "bluster",
-        "dqrng",
         "beachmat",
         "ScaledMatrix",
         "BiocNeighbors"
@@ -4519,7 +4511,6 @@
         "rstatix",
         "ragg",
         "TH.data",
-        "dqrng",
         "nloptr",
         "broom",
         "textshaping",
@@ -4778,7 +4769,6 @@
         "pheatmap",
         "ggrastr",
         "bluster",
-        "dqrng",
         "GenomicRanges",
         "GenomeInfoDb",
         "ScaledMatrix",
@@ -4921,7 +4911,6 @@
         "bslib",
         "spatstat.random",
         "pillar",
-        "dqrng",
         "tidyselect",
         "textshaping"
     ],
@@ -4999,7 +4988,6 @@
         "ScaledMatrix",
         "XVector",
         "ragg",
-        "dqrng",
         "textshaping"
     ],
     "CellNOptR": [
@@ -5962,7 +5950,6 @@
         "pheatmap",
         "ggrastr",
         "bluster",
-        "dqrng",
         "httpuv",
         "bslib",
         "fresh",
@@ -6243,7 +6230,6 @@
         "DelayedMatrixStats",
         "BiocSingular",
         "bluster",
-        "dqrng",
         "beachmat",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -7284,7 +7270,6 @@
         "uwot",
         "ggrastr",
         "bluster",
-        "dqrng",
         "GenomicRanges",
         "GenomeInfoDb",
         "ScaledMatrix",
@@ -7373,7 +7358,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "dqrng",
         "prodlim",
         "textshaping",
         "lava",
@@ -8407,7 +8391,6 @@
         "httr",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "XVector",
@@ -8714,7 +8697,6 @@
         "RSQLite",
         "httr",
         "DelayedMatrixStats",
-        "dqrng",
         "beachmat",
         "scuttle",
         "XVector",
@@ -9494,8 +9476,7 @@
         "DelayedArray"
     ],
     "DelayedRandomArray": [
-        "DelayedArray",
-        "dqrng"
+        "DelayedArray"
     ],
     "DelayedTensor": [
         "DelayedArray",
@@ -9504,8 +9485,7 @@
         "DelayedRandomArray",
         "BiocParallel",
         "ScaledMatrix",
-        "beachmat",
-        "dqrng"
+        "beachmat"
     ],
     "deltaCaptureC": [
         "GenomicRanges",
@@ -10113,7 +10093,6 @@
         "scuttle",
         "DelayedMatrixStats",
         "bluster",
-        "dqrng",
         "cowplot",
         "fitdistrplus",
         "future.apply",
@@ -10221,7 +10200,6 @@
         "XVector",
         "ragg",
         "pillar",
-        "dqrng",
         "textshaping"
     ],
     "dittoSeq": [
@@ -10642,7 +10620,6 @@
         "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "GenomeInfoDb",
@@ -12497,7 +12474,6 @@
         "pillar",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "tidytree",
@@ -13087,7 +13063,6 @@
         "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "AnnotationDbi",
         "RSQLite",
@@ -15074,7 +15049,6 @@
         "BiocParallel",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "XVector",
@@ -17297,7 +17271,6 @@
         "dbplyr",
         "RSQLite",
         "httr",
-        "dqrng",
         "XVector",
         "tweenr",
         "httpuv",
@@ -17417,12 +17390,10 @@
         "TH.data",
         "httpuv",
         "bslib",
-        "spatstat.random",
-        "dqrng"
+        "spatstat.random"
     ],
     "infinityFlow": [
-        "uwot",
-        "dqrng"
+        "uwot"
     ],
     "InPAS": [
         "AnnotationDbi",
@@ -17893,7 +17864,6 @@
         "uwot",
         "ggrastr",
         "bluster",
-        "dqrng",
         "fitdistrplus",
         "future.apply",
         "ggridges",
@@ -18818,7 +18788,6 @@
         "httr",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "XVector",
@@ -21439,7 +21408,6 @@
         "ragg",
         "blob",
         "tidytree",
-        "dqrng",
         "textshaping"
     ],
     "miaSim": [
@@ -21510,7 +21478,6 @@
         "RSQLite",
         "tweenr",
         "ragg",
-        "dqrng",
         "textshaping",
         "blob"
     ],
@@ -21696,7 +21663,6 @@
         "lava",
         "hms",
         "blob",
-        "dqrng",
         "rematch2",
         "future.apply",
         "textshaping"
@@ -22767,8 +22733,7 @@
         "basilisk",
         "tibble",
         "tidyselect",
-        "pillar",
-        "dqrng"
+        "pillar"
     ],
     "MOGAMUN": [
         "RCy3",
@@ -23277,7 +23242,6 @@
         "DelayedMatrixStats",
         "BiocSingular",
         "bluster",
-        "dqrng",
         "beachmat",
         "ScaledMatrix",
         "BiocNeighbors",
@@ -23952,7 +23916,6 @@
         "uwot",
         "ResidualMatrix",
         "bluster",
-        "dqrng",
         "GenomicRanges",
         "GenomeInfoDb",
         "XVector"
@@ -24035,7 +23998,6 @@
         "ragg",
         "testthat",
         "broom",
-        "dqrng",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -24109,7 +24071,6 @@
         "DelayedArray",
         "rvest",
         "readr",
-        "dqrng",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -24611,7 +24572,6 @@
         "bslib",
         "spatstat.random",
         "pillar",
-        "dqrng",
         "tidyselect"
     ],
     "nempi": [
@@ -24859,7 +24819,6 @@
         "benchmarkme",
         "rncl",
         "RNeXML",
-        "dqrng",
         "genefilter",
         "benchmarkmeData",
         "dplyr",
@@ -25002,7 +24961,6 @@
         "httr",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "XVector",
@@ -26668,7 +26626,6 @@
         "DelayedArray",
         "BiocSingular",
         "BiocParallel",
-        "dqrng",
         "beachmat",
         "ScaledMatrix",
         "tibble",
@@ -26838,7 +26795,6 @@
         "XVector",
         "tibble",
         "ragg",
-        "dqrng",
         "textshaping",
         "pillar"
     ],
@@ -27419,7 +27375,6 @@
         "ggrastr",
         "ggrepel",
         "bluster",
-        "dqrng",
         "fitdistrplus",
         "future.apply",
         "ggridges",
@@ -27680,7 +27635,6 @@
         "bslib",
         "GenomeInfoDb",
         "DelayedArray",
-        "dqrng",
         "annotate",
         "AnnotationDbi",
         "XVector",
@@ -32317,8 +32271,7 @@
         "bslib",
         "spatstat.random",
         "tidyselect",
-        "pillar",
-        "dqrng"
+        "pillar"
     ],
     "SCAN.UPC": [
         "oligo",
@@ -32459,7 +32412,6 @@
         "httpuv",
         "bslib",
         "spatstat.random",
-        "dqrng",
         "prodlim",
         "Biostrings",
         "lava"
@@ -32539,7 +32491,6 @@
         "ragg",
         "GenomicRanges",
         "GenomeInfoDb",
-        "dqrng",
         "XVector",
         "textshaping",
         "pillar"
@@ -32591,7 +32542,6 @@
         "bslib",
         "spatstat.random",
         "pillar",
-        "dqrng",
         "RSQLite",
         "KEGGREST",
         "tidyselect",
@@ -32632,8 +32582,7 @@
         "pillar",
         "httpuv",
         "bslib",
-        "spatstat.random",
-        "dqrng"
+        "spatstat.random"
     ],
     "scCB2": [
         "SingleCellExperiment",
@@ -32645,7 +32594,6 @@
         "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "cowplot",
@@ -32775,7 +32723,6 @@
         "bslib",
         "spatstat.random",
         "pillar",
-        "dqrng",
         "tidyselect"
     ],
     "scDblFinder": [
@@ -32807,7 +32754,6 @@
         "pheatmap",
         "ggrastr",
         "ggrepel",
-        "dqrng",
         "tibble",
         "ragg",
         "textshaping",
@@ -32831,7 +32777,6 @@
         "DelayedMatrixStats",
         "BiocSingular",
         "bluster",
-        "dqrng",
         "beachmat",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -32961,8 +32906,7 @@
         "XVector",
         "tidyr",
         "classInt",
-        "spatstat.random",
-        "dqrng"
+        "spatstat.random"
     ],
     "scHOT": [
         "SingleCellExperiment",
@@ -33030,7 +32974,6 @@
         "bslib",
         "spatstat.random",
         "pillar",
-        "dqrng",
         "tidyselect"
     ],
     "scmap": [
@@ -33338,7 +33281,6 @@
         "ragg",
         "hms",
         "blob",
-        "dqrng",
         "rematch2",
         "textshaping"
     ],
@@ -33351,7 +33293,6 @@
         "DelayedMatrixStats",
         "BiocSingular",
         "bluster",
-        "dqrng",
         "beachmat",
         "ScaledMatrix",
         "BiocNeighbors",
@@ -33570,8 +33511,7 @@
         "tidytree",
         "treeio",
         "classInt",
-        "spatstat.random",
-        "dqrng"
+        "spatstat.random"
     ],
     "scTGIF": [
         "GSEABase",
@@ -33628,8 +33568,7 @@
         "Biostrings",
         "blob",
         "classInt",
-        "spatstat.random",
-        "dqrng"
+        "spatstat.random"
     ],
     "scTHI": [
         "BiocParallel"
@@ -33674,7 +33613,6 @@
         "pheatmap",
         "ggrastr",
         "bluster",
-        "dqrng",
         "cowplot",
         "fitdistrplus",
         "future.apply",
@@ -34743,7 +34681,6 @@
         "RSQLite",
         "httr",
         "DelayedMatrixStats",
-        "dqrng",
         "beachmat",
         "scuttle",
         "pillar",
@@ -34807,7 +34744,6 @@
         "DelayedMatrixStats",
         "BiocSingular",
         "bluster",
-        "dqrng",
         "beachmat",
         "RSpectra",
         "ScaledMatrix",
@@ -34892,7 +34828,6 @@
         "tidyselect",
         "pillar",
         "HDF5Array",
-        "dqrng",
         "GenomicFeatures",
         "AnnotationFilter",
         "GenomeInfoDb",
@@ -35403,7 +35338,6 @@
         "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "BiocNeighbors",
@@ -35516,7 +35450,6 @@
         "BiocParallel",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "XVector",
@@ -35569,7 +35502,6 @@
         "BiocParallel",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "XVector",
@@ -35626,7 +35558,6 @@
         "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "GenomeInfoDb",
@@ -35655,7 +35586,6 @@
         "httr",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "XVector",
@@ -35705,7 +35635,6 @@
         "ggrastr",
         "ggrepel",
         "bluster",
-        "dqrng",
         "GenomicRanges",
         "httpuv",
         "bslib",
@@ -35854,7 +35783,6 @@
         "BiocParallel",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "XVector",
@@ -35895,7 +35823,6 @@
         "httr",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "XVector",
@@ -35963,7 +35890,6 @@
         "XVector",
         "ragg",
         "pillar",
-        "dqrng",
         "textshaping"
     ],
     "SpliceWiz": [
@@ -36215,7 +36141,6 @@
         "BiocParallel",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "XVector",
@@ -36545,7 +36470,6 @@
         "BiocParallel",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "ShortRead",
@@ -36712,7 +36636,6 @@
         "BiocParallel",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "XVector",
@@ -38706,7 +38629,6 @@
         "ggplot2",
         "glmnet",
         "vbsr",
-        "dqrng",
         "SummarizedExperiment",
         "BiocParallel",
         "tibble",
@@ -38946,7 +38868,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "dqrng",
         "textshaping"
     ],
     "trigger": [
@@ -39469,7 +39390,6 @@
         "vroom",
         "text2vec",
         "textstem",
-        "dqrng",
         "httr",
         "rvest",
         "textshaping",
@@ -39931,7 +39851,6 @@
         "httr",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "XVector",
@@ -40883,9 +40802,7 @@
         "pillar"
     ],
     "RcppML": [],
-    "uwot": [
-        "dqrng"
-    ],
+    "uwot": [],
     "pheatmap": [],
     "ggrastr": [
         "ggplot2",
@@ -40898,7 +40815,6 @@
     "ragg": [
         "textshaping"
     ],
-    "dqrng": [],
     "textshaping": [],
     "zCompositions": [
         "NADA"
@@ -41158,7 +41074,6 @@
         "bslib",
         "spatstat.random",
         "pillar",
-        "dqrng",
         "tidyselect"
     ],
     "org.Hs.eg.db": [
@@ -45787,7 +45702,6 @@
         "bslib",
         "spatstat.random",
         "pillar",
-        "dqrng",
         "tidyselect"
     ],
     "scRNAseq": [
