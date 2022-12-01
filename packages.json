@@ -63,8 +63,7 @@
     "ArrayExpressHTS": [],
     "arrayMvout": [
         "lumi",
-        "methylumi",
-        "FDb.InfiniumMethylation.hg19"
+        "methylumi"
     ],
     "artMS": [
         "MSstats"
@@ -109,7 +108,6 @@
     "bigmelon": [
         "wateRmelon",
         "methylumi",
-        "FDb.InfiniumMethylation.hg19",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
@@ -238,7 +236,6 @@
         "methylumi",
         "lumi",
         "AnnotationHub",
-        "FDb.InfiniumMethylation.hg19",
         "BiocVersion"
     ],
     "ChIC": [
@@ -448,8 +445,7 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
         "methylumi",
-        "BiocVersion",
-        "FDb.InfiniumMethylation.hg19"
+        "BiocVersion"
     ],
     "DMRforPairs": [
         "Gviz"
@@ -571,8 +567,7 @@
     "fcScan": [],
     "ffpe": [
         "lumi",
-        "methylumi",
-        "FDb.InfiniumMethylation.hg19"
+        "methylumi"
     ],
     "FLAMES": [
         "scater",
@@ -751,8 +746,7 @@
     "icetea": [],
     "iCheck": [
         "lumi",
-        "methylumi",
-        "FDb.InfiniumMethylation.hg19"
+        "methylumi"
     ],
     "ideal": [],
     "igvR": [],
@@ -844,8 +838,7 @@
         "BiocVersion"
     ],
     "lumi": [
-        "methylumi",
-        "FDb.InfiniumMethylation.hg19"
+        "methylumi"
     ],
     "m6Aboost": [
         "ExperimentHub",
@@ -871,8 +864,7 @@
     "MADSEQ": [],
     "MAGAR": [
         "RnBeads",
-        "methylumi",
-        "FDb.InfiniumMethylation.hg19"
+        "methylumi"
     ],
     "MAGeCKFlute": [
         "depmap",
@@ -898,15 +890,13 @@
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
-        "methylumi",
-        "FDb.InfiniumMethylation.hg19"
+        "methylumi"
     ],
     "MEAT": [
         "wateRmelon",
         "methylumi",
         "lumi",
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "FDb.InfiniumMethylation.hg19"
+        "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
     "MEDME": [
         "drc",
@@ -971,15 +961,12 @@
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
-        "methylumi",
-        "FDb.InfiniumMethylation.hg19"
+        "methylumi"
     ],
     "methylPipe": [
         "Gviz"
     ],
-    "methylumi": [
-        "FDb.InfiniumMethylation.hg19"
-    ],
+    "methylumi": [],
     "mia": [
         "scater"
     ],
@@ -1000,8 +987,7 @@
     "MicrobiomeProfiler": [],
     "MineICA": [
         "lumi",
-        "methylumi",
-        "FDb.InfiniumMethylation.hg19"
+        "methylumi"
     ],
     "MinimumDistance": [],
     "miRSM": [
@@ -1024,8 +1010,7 @@
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
-        "methylumi",
-        "FDb.InfiniumMethylation.hg19"
+        "methylumi"
     ],
     "mitoClone2": [],
     "MMUPHin": [
@@ -1443,8 +1428,7 @@
         "pbkrtest"
     ],
     "RnBeads": [
-        "methylumi",
-        "FDb.InfiniumMethylation.hg19"
+        "methylumi"
     ],
     "Rqc": [
         "GenomicFiles"
@@ -1582,7 +1566,6 @@
         "methylumi",
         "wateRmelon",
         "IlluminaHumanMethylation450kmanifest",
-        "FDb.InfiniumMethylation.hg19",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
@@ -1780,8 +1763,7 @@
     "wateRmelon": [
         "methylumi",
         "lumi",
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "FDb.InfiniumMethylation.hg19"
+        "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
     "Xeva": [],
     "YAPSA": [
@@ -1838,7 +1820,6 @@
     ],
     "PolyPhen.Hsapiens.dbSNP131": [],
     "SIFT.Hsapiens.dbSNP137": [],
-    "FDb.InfiniumMethylation.hg19": [],
     "mGSZ": [],
     "doBy": [
         "pbkrtest"
