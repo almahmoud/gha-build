@@ -6166,7 +6166,6 @@
         "survival",
         "annotate",
         "gdata",
-        "pls",
         "sfsmisc",
         "rpart",
         "genefilter",
@@ -27807,7 +27806,6 @@
         "reshape2",
         "ineq",
         "arm",
-        "pls",
         "RSNNS",
         "edgeR",
         "plyr",
@@ -42791,7 +42789,6 @@
         "pillar"
     ],
     "funtooNorm": [
-        "pls",
         "matrixStats",
         "minfi",
         "IlluminaHumanMethylation450kmanifest",
@@ -43275,7 +43272,6 @@
         "reshape2",
         "ineq",
         "arm",
-        "pls",
         "RSNNS",
         "edgeR",
         "plyr",
@@ -59574,9 +59570,7 @@
         "diffobj",
         "rematch2"
     ],
-    "lmdme": [
-        "pls"
-    ],
+    "lmdme": [],
     "LOBSTAHS": [
         "xcms",
         "CAMERA",
@@ -60513,7 +60507,6 @@
         "e1071",
         "som",
         "lars",
-        "pls",
         "mclust",
         "coda",
         "Matrix",
@@ -60658,7 +60651,6 @@
         "e1071",
         "som",
         "lars",
-        "pls",
         "mclust",
         "coda",
         "minqa",
@@ -61495,7 +61487,6 @@
     "MAIT": [
         "CAMERA",
         "Rcpp",
-        "pls",
         "gplots",
         "e1071",
         "class",
@@ -71140,7 +71131,6 @@
         "Biobase",
         "annotate",
         "gdata",
-        "pls",
         "sfsmisc",
         "rpart",
         "genefilter",
@@ -71511,7 +71501,6 @@
         "e1071",
         "som",
         "lars",
-        "pls",
         "coda",
         "minqa",
         "reshape2",
@@ -89589,7 +89578,6 @@
         "survival",
         "annotate",
         "gdata",
-        "pls",
         "sfsmisc",
         "rpart",
         "genefilter",
@@ -89812,7 +89800,6 @@
         "survival",
         "annotate",
         "gdata",
-        "pls",
         "sfsmisc",
         "rpart",
         "genefilter",
@@ -100707,7 +100694,6 @@
         "metap",
         "CompQuadForm",
         "glmnet",
-        "pls",
         "abind",
         "mgcv",
         "nnet",
@@ -108978,7 +108964,6 @@
         "Rcpp",
         "annotate",
         "gdata",
-        "pls",
         "sfsmisc",
         "rpart",
         "genefilter",
@@ -116064,7 +116049,6 @@
         "pdist",
         "ROC",
         "rrcov",
-        "pls",
         "impute",
         "Rcpp",
         "knitr",
@@ -133546,7 +133530,6 @@
         "lattice"
     ],
     "gdata": [],
-    "pls": [],
     "sfsmisc": [],
     "ggvis": [
         "assertthat",
@@ -140108,7 +140091,6 @@
         "askpass"
     ],
     "plsVarSel": [
-        "pls",
         "mvtnorm",
         "progress",
         "MSQC",
@@ -143724,7 +143706,6 @@
         "robustbase",
         "som",
         "lars",
-        "pls",
         "mclust",
         "proxy",
         "mvtnorm"
