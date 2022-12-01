@@ -623,7 +623,6 @@
         "GenomicFeatures",
         "rtracklayer",
         "biomaRt",
-        "sjmisc",
         "BiocFileCache"
     ],
     "BgeeDB": [
@@ -11179,7 +11178,6 @@
     "corncob": [
         "phyloseq"
     ],
-    "sjmisc": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
         "bumphunter",
