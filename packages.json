@@ -1557,7 +1557,6 @@
         "testthat",
         "waldo"
     ],
-    "cydar": [],
     "CyTOFpower": [
         "CytoGLMM",
         "diffcyt",
