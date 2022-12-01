@@ -1914,7 +1914,6 @@
         "scater",
         "ggrastr"
     ],
-    "dittoSeq": [],
     "DMCFB": [
         "arm",
         "lme4",
@@ -6945,7 +6944,6 @@
     "SpectralTAD": [],
     "SPIAT": [
         "SpatialExperiment",
-        "dittoSeq",
         "xROI",
         "DropletUtils"
     ],
