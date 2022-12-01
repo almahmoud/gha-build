@@ -14,8 +14,8 @@ for pkg in list(pkgs):
     status = "Unclaimed"
     tarname = ""
     plog = ""
-    if exists(f"logs/run_ids/{pkg}"):
-        with open(f"logs/run_ids/{pkg}", "r") as frun:
+    if exists(f"logs/run_ids/container/{pkg}"):
+        with open(f"logs/run_ids/container/{pkg}", "r") as frun:
             runid = frun.read()
             runurl = runid.strip().replace("null\n", "").split("\n")[-1]
             name = f"[{pkg}]({runurl})"
