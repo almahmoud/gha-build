@@ -5882,7 +5882,6 @@
         "ggpubr",
         "BiocFileCache",
         "recipes",
-        "groupdata2",
         "lme4",
         "aplot",
         "scatterpie",
@@ -5923,7 +5922,6 @@
         "ggpubr",
         "BiocFileCache",
         "recipes",
-        "groupdata2",
         "lme4",
         "aplot",
         "scatterpie",
@@ -9466,7 +9464,6 @@
         "ggpubr",
         "BiocFileCache",
         "recipes",
-        "groupdata2",
         "lme4",
         "rstatix",
         "broom",
@@ -11373,14 +11370,12 @@
     "subspace": [],
     "SOMbrero": [],
     "cvms": [
-        "groupdata2",
         "lme4",
         "recipes",
         "nloptr",
         "testthat",
         "waldo"
     ],
-    "groupdata2": [],
     "echarts4r": [
         "broom"
     ],
