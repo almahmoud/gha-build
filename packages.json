@@ -14403,9 +14403,7 @@
         "dbplyr",
         "dplyr"
     ],
-    "ReQON": [
-        "seqbias"
-    ],
+    "ReQON": [],
     "RESOLVE": [
         "NMF",
         "BSgenome",
@@ -16070,7 +16068,6 @@
         "ggplot2",
         "ggseqlogo"
     ],
-    "seqbias": [],
     "seqCAT": [
         "VariantAnnotation",
         "dplyr",
