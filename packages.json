@@ -233,7 +233,6 @@
         "readxl",
         "viridis",
         "MultiAssayExperiment",
-        "decontam",
         "scuttle",
         "scater",
         "testthat",
@@ -848,7 +847,6 @@
         "annotate",
         "viridis",
         "MultiAssayExperiment",
-        "decontam",
         "scuttle",
         "scater",
         "testthat",
@@ -3405,7 +3403,6 @@
         "dbplyr"
     ],
     "DeconRNASeq": [],
-    "decontam": [],
     "deconvR": [
         "methylKit",
         "rsq",
@@ -8124,7 +8121,6 @@
     "mia": [
         "TreeSummarizedExperiment",
         "MultiAssayExperiment",
-        "decontam",
         "scuttle",
         "scater",
         "tidyr",
@@ -8158,7 +8154,6 @@
         "ggfun",
         "treeio",
         "MultiAssayExperiment",
-        "decontam",
         "scuttle",
         "ggbeeswarm",
         "ggrastr",
@@ -8222,7 +8217,6 @@
         "AnnotationDbi",
         "viridis",
         "MultiAssayExperiment",
-        "decontam",
         "scuttle",
         "scater",
         "testthat",
