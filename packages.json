@@ -365,7 +365,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "futile.logger",
-        "RcppArmadillo",
         "glmnet",
         "doParallel",
         "GenomicRanges",
@@ -482,7 +481,6 @@
         "genefilter",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "reshape2",
         "Hmisc",
         "biovizBase",
@@ -649,7 +647,6 @@
         "genefilter",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "reshape2",
         "Hmisc",
         "biovizBase",
@@ -737,7 +734,6 @@
         "ggrepel",
         "glmnet",
         "speedglm",
-        "RcppArmadillo",
         "Biobase",
         "GenomeInfoDb",
         "futile.logger",
@@ -768,7 +764,6 @@
         "Biobase",
         "survival",
         "RcppZiggurat",
-        "RcppArmadillo",
         "DelayedArray",
         "NADA"
     ],
@@ -985,7 +980,6 @@
         "hms",
         "RSpectra",
         "RcppZiggurat",
-        "RcppArmadillo",
         "httr",
         "selectr",
         "openssl",
@@ -1122,7 +1116,6 @@
         "Biobase",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "mgcv",
         "scales",
@@ -1316,7 +1309,6 @@
         "Biobase",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "tidyselect",
         "vctrs",
@@ -1663,7 +1655,6 @@
         "BiocParallel",
         "geneplotter",
         "ggplot2",
-        "RcppArmadillo",
         "survival",
         "reshape2",
         "GenomeInfoDb",
@@ -1812,7 +1803,6 @@
         "Biobase",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "tibble",
         "tidyselect",
@@ -1949,7 +1939,6 @@
         "openssl",
         "gplots",
         "reshape2",
-        "RcppArmadillo",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -2279,7 +2268,6 @@
         "MSstatsConvert",
         "lme4",
         "survival",
-        "RcppArmadillo",
         "httr",
         "htmlwidgets",
         "crosstalk",
@@ -2344,7 +2332,6 @@
         "pillar",
         "tidyselect",
         "openssl",
-        "RcppArmadillo",
         "ellipsis"
     ],
     "ASpediaFI": [
@@ -2601,7 +2588,6 @@
         "DT",
         "Rtsne",
         "SummarizedExperiment",
-        "RcppArmadillo",
         "SingleCellExperiment",
         "rhdf5",
         "lifecycle",
@@ -2805,7 +2791,6 @@
         "mgcv",
         "scales",
         "BSgenome",
-        "RcppArmadillo",
         "Rhtslib",
         "Biobase",
         "DelayedArray",
@@ -3229,7 +3214,6 @@
         "GenomicRanges",
         "Rsamtools",
         "xgboost",
-        "RcppArmadillo",
         "futile.logger",
         "Biostrings",
         "rtracklayer",
@@ -3275,7 +3259,6 @@
         "ggplot2",
         "DRIMSeq",
         "BiocParallel",
-        "RcppArmadillo",
         "futile.logger",
         "GenomicRanges",
         "IRanges",
@@ -3304,7 +3287,6 @@
         "ggalluvial",
         "ggrepel",
         "tidyr",
-        "RcppArmadillo",
         "futile.logger",
         "bookdown",
         "rmarkdown",
@@ -3519,7 +3501,6 @@
         "reshape2",
         "BiocParallel",
         "hexbin",
-        "RcppArmadillo",
         "futile.logger",
         "scales",
         "colourpicker",
@@ -3579,7 +3560,6 @@
         "reshape2",
         "BiocParallel",
         "hexbin",
-        "RcppArmadillo",
         "DelayedMatrixStats",
         "DelayedArray",
         "HDF5Array",
@@ -3749,7 +3729,6 @@
         "scales",
         "BiocFileCache",
         "BiocSingular",
-        "RcppArmadillo",
         "RcppDist",
         "dbplyr",
         "dplyr",
@@ -3810,7 +3789,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "BiocParallel",
-        "RcppArmadillo",
         "futile.logger",
         "survival",
         "GenomicRanges",
@@ -3887,7 +3865,6 @@
         "ggplot2",
         "ape",
         "SummarizedExperiment",
-        "RcppArmadillo",
         "RcppEigen",
         "lifecycle",
         "mgcv",
@@ -4068,7 +4045,6 @@
         "survey",
         "Biobase",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "mgcv",
         "vctrs",
@@ -4648,7 +4624,6 @@
         "ape",
         "tidytree",
         "treeio",
-        "RcppArmadillo",
         "nloptr",
         "MatrixModels",
         "survival",
@@ -5481,7 +5456,6 @@
         "mgcv",
         "RcppEigen",
         "graph",
-        "RcppArmadillo",
         "synaptome.data",
         "dbplyr",
         "AnnotationHub",
@@ -5549,7 +5523,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "RcppArmadillo",
         "htmlwidgets",
         "GenomicRanges",
         "Biobase",
@@ -6004,7 +5977,6 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "RcppArmadillo",
         "annotate",
         "survival",
         "Biostrings",
@@ -6220,7 +6192,6 @@
         "vctrs",
         "highr",
         "interp",
-        "RcppArmadillo",
         "fpc",
         "vegan",
         "apcluster",
@@ -6366,7 +6337,6 @@
         "ggplot2",
         "cowplot",
         "BiocStyle",
-        "RcppArmadillo",
         "bookdown",
         "knitr",
         "rmarkdown",
@@ -6646,7 +6616,6 @@
         "BiocParallel",
         "geneplotter",
         "ggplot2",
-        "RcppArmadillo",
         "Biostrings",
         "XVector",
         "Rhtslib",
@@ -6938,7 +6907,6 @@
         "plyranges",
         "tibble",
         "tidyr",
-        "RcppArmadillo",
         "Biobase",
         "RSQLite",
         "KEGGREST",
@@ -7192,7 +7160,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "RcppArmadillo",
         "htmlwidgets",
         "graph",
         "RBGL",
@@ -8006,7 +7973,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "RcppArmadillo",
         "assertive.files",
         "assertive.types",
         "scuttle",
@@ -8182,7 +8148,6 @@
     "CelliD": [
         "Seurat",
         "SingleCellExperiment",
-        "RcppArmadillo",
         "scater",
         "irlba",
         "umap",
@@ -8320,7 +8285,6 @@
         "htmlTable",
         "viridis",
         "spBayes",
-        "RcppArmadillo",
         "mgcv",
         "pbkrtest",
         "quantreg",
@@ -8600,7 +8564,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "RcppArmadillo",
         "openssl"
     ],
     "censcyt": [
@@ -8739,8 +8702,7 @@
         "ellipsis",
         "tweenr",
         "systemfonts",
-        "RcppEigen",
-        "RcppArmadillo"
+        "RcppEigen"
     ],
     "CeTF": [
         "ComplexHeatmap",
@@ -8758,7 +8720,6 @@
         "network",
         "RCy3",
         "SummarizedExperiment",
-        "RcppArmadillo",
         "AnnotationDbi",
         "DOSE",
         "enrichplot",
@@ -9565,7 +9526,6 @@
         "httr",
         "BiocFileCache",
         "geneplotter",
-        "RcppArmadillo",
         "tidyselect",
         "pillar",
         "BSgenome",
@@ -9658,7 +9618,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "RcppArmadillo",
         "openssl",
         "cachem",
         "hms",
@@ -10020,7 +9979,6 @@
         "Rtsne",
         "SummarizedExperiment",
         "BSgenome",
-        "RcppArmadillo",
         "futile.logger",
         "XVector",
         "rtracklayer",
@@ -10211,8 +10169,7 @@
         "ellipsis",
         "tweenr",
         "systemfonts",
-        "RcppEigen",
-        "RcppArmadillo"
+        "RcppEigen"
     ],
     "CINdex": [
         "GenomicRanges",
@@ -10258,7 +10215,6 @@
         "Biobase",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "tibble",
         "tidyselect",
@@ -10413,7 +10369,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "RcppArmadillo",
         "tidyr",
         "ellipsis",
         "purrr"
@@ -10501,7 +10456,6 @@
         "RBGL",
         "Rgraphviz",
         "RcppEigen",
-        "RcppArmadillo",
         "annotate",
         "BiocParallel",
         "AnnotationDbi",
@@ -10575,7 +10529,6 @@
         "MSnbase",
         "igraph",
         "qlcMatrix",
-        "RcppArmadillo",
         "Biobase",
         "mzR",
         "MsCoreUtils",
@@ -10686,7 +10639,6 @@
         "rhdf5",
         "ClusterR",
         "benchmarkme",
-        "RcppArmadillo",
         "doParallel",
         "ggplot2",
         "reshape2",
@@ -10791,7 +10743,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "RcppArmadillo",
         "openssl",
         "cachem"
     ],
@@ -11640,8 +11591,7 @@
         "DelayedArray"
     ],
     "COHCAP": [
-        "gplots",
-        "RcppArmadillo"
+        "gplots"
     ],
     "cola": [
         "ComplexHeatmap",
@@ -11654,7 +11604,6 @@
         "doParallel",
         "irlba",
         "IRanges",
-        "RcppArmadillo",
         "openssl",
         "highr"
     ],
@@ -12234,7 +12183,6 @@
         "textshaping",
         "broom",
         "tweenr",
-        "RcppArmadillo",
         "nloptr",
         "knitr",
         "MatrixModels",
@@ -12263,7 +12211,6 @@
         "doRNG",
         "ggplot2",
         "scater",
-        "RcppArmadillo",
         "lifecycle",
         "tibble",
         "tidyselect",
@@ -12412,7 +12359,6 @@
         "viridis",
         "GenomicRanges",
         "geneplotter",
-        "RcppArmadillo",
         "ShortRead",
         "aroma.light",
         "biomaRt",
@@ -12906,7 +12852,6 @@
         "GenomicRanges",
         "Biobase",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "mgcv",
         "tibble",
@@ -13027,7 +12972,6 @@
         "pillar",
         "mgcv",
         "RcppZiggurat",
-        "RcppArmadillo",
         "ellipsis",
         "purrr"
     ],
@@ -13047,7 +12991,6 @@
         "Biobase",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "tibble",
         "tidyselect",
@@ -13985,7 +13928,6 @@
         "reshape2",
         "shiny",
         "pcaPP",
-        "RcppArmadillo",
         "lifecycle",
         "mgcv",
         "scales",
@@ -14208,7 +14150,6 @@
         "igraph",
         "cowplot",
         "GoFKernel",
-        "RcppArmadillo",
         "graph",
         "flowViz",
         "car",
@@ -14506,8 +14447,7 @@
         "GenomeInfoDb",
         "DelayedArray",
         "XVector",
-        "irlba",
-        "RcppArmadillo"
+        "irlba"
     ],
     "cytomapper": [
         "EBImage",
@@ -14771,7 +14711,6 @@
         "Biobase",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "ShortRead",
         "aroma.light",
         "Rsamtools",
@@ -15029,7 +14968,6 @@
         "RBGL",
         "ggm",
         "vcd",
-        "RcppArmadillo",
         "tidyr",
         "broom",
         "dbplyr",
@@ -15256,7 +15194,6 @@
         "miniUI",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "HDO.db",
         "fgsea",
         "crosstalk",
@@ -15391,7 +15328,6 @@
         "Biobase",
         "geneplotter",
         "ggplot2",
-        "RcppArmadillo",
         "GenomeInfoDb",
         "DelayedArray",
         "annotate",
@@ -15617,7 +15553,6 @@
         "textclean",
         "textshape",
         "syuzhet",
-        "RcppArmadillo",
         "hms",
         "vroom",
         "tzdb",
@@ -15680,7 +15615,6 @@
         "BiocParallel",
         "geneplotter",
         "ggplot2",
-        "RcppArmadillo",
         "GenomeInfoDb",
         "XVector",
         "DelayedArray",
@@ -15714,7 +15648,6 @@
         "IRanges",
         "plotly",
         "viridis",
-        "RcppArmadillo",
         "GenomeInfoDb",
         "SummarizedExperiment",
         "Biostrings",
@@ -15813,7 +15746,6 @@
         "GenomicRanges",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "tidyselect",
         "vctrs",
@@ -15890,7 +15822,6 @@
         "Biobase",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "GenomeInfoDb",
         "XVector",
         "lifecycle",
@@ -16257,7 +16188,6 @@
         "IRanges",
         "rtracklayer",
         "SummarizedExperiment",
-        "RcppArmadillo",
         "futile.logger",
         "AnnotationDbi",
         "Biostrings",
@@ -16311,7 +16241,6 @@
         "BiocParallel",
         "geneplotter",
         "ggplot2",
-        "RcppArmadillo",
         "futile.logger",
         "annotate",
         "AnnotationDbi",
@@ -16413,7 +16342,6 @@
         "Biobase",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "blockmodeling",
         "gplots",
         "testthat",
@@ -16458,7 +16386,6 @@
         "Biobase",
         "geneplotter",
         "ggplot2",
-        "RcppArmadillo",
         "XVector",
         "DelayedArray",
         "annotate",
@@ -16546,7 +16473,6 @@
         "httr",
         "BiocFileCache",
         "ggplot2",
-        "RcppArmadillo",
         "annotate",
         "survival",
         "GenomeInfoDb",
@@ -16626,7 +16552,6 @@
         "futile.logger",
         "Biobase",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "tibble",
         "tidyselect",
@@ -16771,7 +16696,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "ggplot2",
-        "RcppArmadillo",
         "R.utils",
         "DRIMSeq",
         "BiocParallel",
@@ -16818,7 +16742,6 @@
     "diffuStats": [
         "expm",
         "igraph",
-        "RcppArmadillo",
         "precrec",
         "ggplot2",
         "lifecycle",
@@ -16873,7 +16796,6 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "RcppArmadillo",
         "annotate",
         "survival",
         "Rhtslib",
@@ -16967,7 +16889,6 @@
         "RcppTOML",
         "gplots",
         "reshape2",
-        "RcppArmadillo",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -17074,7 +16995,6 @@
         "doRNG",
         "ggplot2",
         "scater",
-        "RcppArmadillo",
         "lifecycle",
         "mgcv",
         "scales",
@@ -17978,7 +17898,6 @@
         "SummarizedExperiment",
         "Biobase",
         "geneplotter",
-        "RcppArmadillo",
         "bcellViper",
         "viper",
         "lifecycle",
@@ -18110,8 +18029,7 @@
         "cachem",
         "tweenr",
         "systemfonts",
-        "RcppEigen",
-        "RcppArmadillo"
+        "RcppEigen"
     ],
     "easyreporting": [
         "rmarkdown",
@@ -18192,7 +18110,6 @@
         "BiocParallel",
         "geneplotter",
         "ggplot2",
-        "RcppArmadillo",
         "futile.logger",
         "annotate",
         "AnnotationDbi",
@@ -18368,7 +18285,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "HDO.db",
         "fgsea",
         "reshape2",
@@ -18692,7 +18608,6 @@
         "openssl",
         "TFBSTools",
         "SummarizedExperiment",
-        "RcppArmadillo",
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -18905,7 +18820,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "RcppArmadillo",
         "ellipsis",
         "httr",
         "Biostrings",
@@ -18955,7 +18869,6 @@
         "ggsignif",
         "rstatix",
         "SummarizedExperiment",
-        "RcppArmadillo",
         "visNetwork",
         "bslib",
         "jquerylib",
@@ -19172,7 +19085,6 @@
         "memoise",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "tidyselect",
         "pillar",
         "aplot",
@@ -19332,7 +19244,6 @@
         "ggplot2",
         "GreyListChIP",
         "pheatmap",
-        "RcppArmadillo",
         "Rhtslib",
         "edgeR",
         "BiocParallel",
@@ -19444,7 +19355,6 @@
         "ape",
         "tidytree",
         "treeio",
-        "RcppArmadillo",
         "knitr",
         "htmlwidgets",
         "openssl",
@@ -19653,7 +19563,6 @@
         "RBGL",
         "ggm",
         "vcd",
-        "RcppArmadillo",
         "lifecycle",
         "mgcv",
         "scales",
@@ -19686,7 +19595,6 @@
         "batchtools",
         "qgraph",
         "ggplot2",
-        "RcppArmadillo",
         "base64url",
         "progress",
         "futile.logger",
@@ -20052,7 +19960,6 @@
         "SummarizedExperiment",
         "Biobase",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "mgcv",
         "scales",
@@ -20122,7 +20029,6 @@
         "tibble",
         "vctrs",
         "highr",
-        "RcppArmadillo",
         "visNetwork",
         "bslib",
         "jquerylib",
@@ -20411,7 +20317,6 @@
         "patchwork",
         "repmis",
         "ggtree",
-        "RcppArmadillo",
         "GenomicRanges",
         "Biobase",
         "GenomeInfoDb",
@@ -20533,7 +20438,6 @@
         "XVector",
         "Biobase",
         "geneplotter",
-        "RcppArmadillo",
         "AnnotationDbi",
         "RSQLite",
         "BiocIO",
@@ -21007,8 +20911,7 @@
         "blob",
         "tweenr",
         "systemfonts",
-        "RcppEigen",
-        "RcppArmadillo"
+        "RcppEigen"
     ],
     "farms": [
         "affy",
@@ -21249,7 +21152,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "RcppArmadillo",
         "openssl",
         "cachem"
     ],
@@ -21313,7 +21215,6 @@
         "pheatmap",
         "ROCR",
         "rrcov",
-        "RcppArmadillo",
         "GenomicRanges",
         "DelayedArray",
         "Biobase",
@@ -21461,7 +21362,6 @@
         "Rgraphviz",
         "igraph",
         "RcppEigen",
-        "RcppArmadillo",
         "blob",
         "lifecycle",
         "pillar",
@@ -21652,7 +21552,6 @@
         "BiocParallel",
         "GenomicAlignments",
         "xgboost",
-        "RcppArmadillo",
         "basilisk.utils",
         "XVector",
         "GetoptLong",
@@ -22285,7 +22184,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "RcppArmadillo",
         "survival",
         "prodlim",
         "syuzhet",
@@ -22356,7 +22254,6 @@
         "Rsubread",
         "R.utils",
         "tibble",
-        "RcppArmadillo",
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -22613,7 +22510,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "reshape2",
-        "RcppArmadillo",
         "tidyselect",
         "pillar",
         "XVector",
@@ -22807,7 +22703,6 @@
         "recipes",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "ShortRead",
         "aroma.light",
         "Rsamtools",
@@ -23057,7 +22952,6 @@
         "SummarizedExperiment",
         "Biobase",
         "geneplotter",
-        "RcppArmadillo",
         "HDO.db",
         "fgsea",
         "reshape2",
@@ -23718,7 +23612,6 @@
         "GenomicRanges",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -24420,7 +24313,6 @@
         "pillar",
         "openssl",
         "syuzhet",
-        "RcppArmadillo",
         "hms",
         "vroom",
         "tzdb",
@@ -24486,7 +24378,6 @@
         "testthat",
         "GeomxTools",
         "NanoStringNCTools",
-        "RcppArmadillo",
         "roptim",
         "readxl",
         "EnvStats",
@@ -24980,7 +24871,6 @@
         "network",
         "sna",
         "scales",
-        "RcppArmadillo",
         "ggplot2",
         "dplyr",
         "forcats",
@@ -25214,7 +25104,6 @@
         "BiocParallel",
         "geneplotter",
         "ggplot2",
-        "RcppArmadillo",
         "GenomeInfoDb",
         "DelayedArray",
         "futile.logger",
@@ -25243,7 +25132,6 @@
         "HDF5Array",
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "RcppArmadillo",
         "beachmat",
         "IRanges",
         "sparseMatrixStats",
@@ -25450,7 +25338,6 @@
         "Rgraphviz",
         "igraph",
         "broom",
-        "RcppArmadillo",
         "RcppEigen",
         "httpuv",
         "fontawesome",
@@ -25829,7 +25716,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "RcppArmadillo",
         "openssl",
         "cachem"
     ],
@@ -26028,7 +25914,6 @@
         "Biobase",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "vctrs",
         "pillar",
@@ -26089,7 +25974,6 @@
     "graper": [
         "ggplot2",
         "cowplot",
-        "RcppArmadillo",
         "scales",
         "lifecycle",
         "mgcv",
@@ -26139,7 +26023,6 @@
         "survival"
     ],
     "GRENITS": [
-        "RcppArmadillo",
         "ggplot2",
         "reshape2",
         "lifecycle",
@@ -26238,8 +26121,7 @@
         "survival",
         "graph",
         "glmnet",
-        "RcppEigen",
-        "RcppArmadillo"
+        "RcppEigen"
     ],
     "GSALightning": [],
     "GSAR": [
@@ -26440,8 +26322,7 @@
         "doParallel",
         "matchingR",
         "nsga2R",
-        "survival",
-        "RcppArmadillo"
+        "survival"
     ],
     "GSReg": [
         "Homo.sapiens",
@@ -26752,7 +26633,6 @@
         "e1071",
         "pROC",
         "recipes",
-        "RcppArmadillo",
         "lifecycle",
         "mgcv",
         "scales",
@@ -26945,7 +26825,6 @@
         "scales",
         "plotly",
         "crosstalk",
-        "RcppArmadillo",
         "GenomicRanges",
         "Biobase",
         "IRanges",
@@ -27066,9 +26945,7 @@
         "rhdf5",
         "IRanges"
     ],
-    "HDTD": [
-        "RcppArmadillo"
-    ],
+    "HDTD": [],
     "heatmaps": [
         "Biostrings",
         "GenomicRanges",
@@ -27155,7 +27032,6 @@
         "doParallel",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -27873,7 +27749,6 @@
         "SummarizedExperiment",
         "geneplotter",
         "ggplot2",
-        "RcppArmadillo",
         "annotate",
         "AnnotationDbi",
         "GenomeInfoDb",
@@ -28094,7 +27969,6 @@
         "Rhtslib",
         "Biobase",
         "geneplotter",
-        "RcppArmadillo",
         "AnnotationDbi",
         "RSQLite",
         "BiocIO",
@@ -28307,7 +28181,6 @@
         "KEGGREST",
         "futile.logger",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "tibble",
         "tidyselect",
@@ -28549,7 +28422,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "RcppArmadillo",
         "RcppEigen",
         "GenomicRanges",
         "DelayedArray",
@@ -28732,7 +28604,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "RcppArmadillo",
         "ellipsis",
         "terra",
         "httpuv",
@@ -28926,7 +28797,6 @@
         "globals",
         "mgcv",
         "scales",
-        "RcppArmadillo",
         "cowplot",
         "future.apply",
         "ggrepel",
@@ -29073,7 +28943,6 @@
         "futile.logger",
         "geneplotter",
         "ggplot2",
-        "RcppArmadillo",
         "Biostrings",
         "AnnotationDbi",
         "RSQLite",
@@ -29456,7 +29325,6 @@
         "Biobase",
         "geneplotter",
         "ggplot2",
-        "RcppArmadillo",
         "AnnotationDbi",
         "biomaRt",
         "genefilter",
@@ -29570,7 +29438,6 @@
         "ggpubr",
         "ggplot2",
         "survminer",
-        "RcppArmadillo",
         "futile.logger",
         "lifecycle",
         "mgcv",
@@ -29731,7 +29598,6 @@
         "gamlss",
         "maxLik",
         "BiocParallel",
-        "RcppArmadillo",
         "lifecycle",
         "mgcv",
         "scales",
@@ -30218,7 +30084,6 @@
         "httr",
         "dbplyr",
         "progress",
-        "RcppArmadillo",
         "AnnotationFilter",
         "annotate",
         "survival",
@@ -30275,7 +30140,6 @@
         "psych",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "tidyselect",
         "vctrs",
@@ -30698,7 +30562,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "bsseq",
         "htmlwidgets",
         "crosstalk",
@@ -30885,7 +30748,6 @@
         "vroom",
         "tzdb",
         "RcppZiggurat",
-        "RcppArmadillo",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -31129,7 +30991,6 @@
         "rematch2"
     ],
     "Linnorm": [
-        "RcppArmadillo",
         "fpc",
         "vegan",
         "apcluster",
@@ -31700,7 +31561,6 @@
         "densEstBayes",
         "rstan",
         "rstantools",
-        "RcppArmadillo",
         "RcppEigen",
         "StanHeaders",
         "lifecycle",
@@ -32094,7 +31954,6 @@
         "rmio",
         "RSpectra",
         "tibble",
-        "RcppArmadillo",
         "oligoClasses",
         "Biobase",
         "illuminaio",
@@ -32235,7 +32094,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "RcppArmadillo",
         "openssl",
         "shiny",
         "DT",
@@ -32845,7 +32703,6 @@
         "ClusterR",
         "benchmarkme",
         "BiocParallel",
-        "RcppArmadillo",
         "beachmat",
         "benchmarkmeData",
         "doParallel",
@@ -33475,7 +33332,6 @@
         "e1071",
         "earth",
         "IRanges",
-        "RcppArmadillo",
         "scales",
         "GenomeInfoDb",
         "XVector",
@@ -33624,7 +33480,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "RcppArmadillo",
         "cachem",
         "httpuv",
         "fontawesome",
@@ -34222,7 +34077,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "RcppArmadillo",
         "future.apply",
         "future",
         "globals"
@@ -34288,7 +34142,6 @@
         "XVector",
         "geneplotter",
         "ggplot2",
-        "RcppArmadillo",
         "bsseq",
         "htmlwidgets",
         "crosstalk",
@@ -35100,7 +34953,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "RcppArmadillo",
         "hms",
         "vroom",
         "tzdb",
@@ -35265,7 +35117,6 @@
         "XVector",
         "GenomeInfoDb",
         "RcppZiggurat",
-        "RcppArmadillo",
         "ade4",
         "segmented",
         "TSP",
@@ -35743,7 +35594,6 @@
         "systemfonts",
         "RcppEigen",
         "ragg",
-        "RcppArmadillo",
         "RcppAnnoy",
         "dqrng",
         "sitmo",
@@ -35785,7 +35635,6 @@
         "multtest",
         "ellipsis",
         "purrr",
-        "RcppArmadillo",
         "rhdf5",
         "survival"
     ],
@@ -35860,7 +35709,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "tidyselect",
         "vctrs",
@@ -35971,7 +35819,6 @@
         "multcomp",
         "GetoptLong",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "tidyselect",
         "vctrs",
@@ -36147,7 +35994,6 @@
         "systemfonts",
         "RcppEigen",
         "httr",
-        "RcppArmadillo",
         "Biostrings",
         "highr",
         "bit64",
@@ -36334,8 +36180,7 @@
         "XVector",
         "tweenr",
         "systemfonts",
-        "RcppEigen",
-        "RcppArmadillo"
+        "RcppEigen"
     ],
     "mimager": [
         "Biobase",
@@ -36370,7 +36215,6 @@
         "scales",
         "dplyr",
         "tidyr",
-        "RcppArmadillo",
         "lifecycle",
         "tibble",
         "tidyselect",
@@ -36398,7 +36242,6 @@
         "reshape2",
         "biganalytics",
         "Hmisc",
-        "RcppArmadillo",
         "lifecycle",
         "mgcv",
         "scales",
@@ -36748,7 +36591,6 @@
         "igraph",
         "ggm",
         "vcd",
-        "RcppArmadillo",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -36870,7 +36712,6 @@
         "ade4",
         "progress",
         "RSpectra",
-        "RcppArmadillo",
         "expm",
         "SPONGE",
         "clusterProfiler",
@@ -37108,7 +36949,6 @@
         "graph",
         "RBGL",
         "Rgraphviz",
-        "RcppArmadillo",
         "ellipsis",
         "broom",
         "dbplyr",
@@ -37517,7 +37357,6 @@
         "GenomicRanges",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "mgcv",
         "scales",
@@ -37663,7 +37502,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "RcppArmadillo",
         "fpc",
         "vegan",
         "apcluster",
@@ -37684,7 +37522,6 @@
         "ClusterR",
         "ggplot2",
         "lifecycle",
-        "RcppArmadillo",
         "GenomicRanges",
         "Biobase",
         "IRanges",
@@ -38061,7 +37898,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "RcppArmadillo",
         "cachem"
     ],
     "mosaics": [
@@ -38089,7 +37925,6 @@
         "tidyr",
         "ggplot2",
         "Biobase",
-        "RcppArmadillo",
         "lifecycle",
         "mgcv",
         "scales",
@@ -38248,7 +38083,6 @@
         "IRanges",
         "Rsamtools",
         "GenomeInfoDb",
-        "RcppArmadillo",
         "XVector",
         "rtracklayer",
         "BiocParallel",
@@ -38963,7 +38797,6 @@
         "ggplot2",
         "ggrepel",
         "gplots",
-        "RcppArmadillo",
         "lifecycle",
         "mgcv",
         "scales",
@@ -39013,7 +38846,6 @@
         "lme4",
         "survival",
         "gplots",
-        "RcppArmadillo",
         "MSstatsTMT",
         "ellipsis",
         "broom",
@@ -39098,7 +38930,6 @@
         "lme4",
         "survival",
         "gplots",
-        "RcppArmadillo",
         "lmerTest",
         "nloptr",
         "RcppEigen",
@@ -39224,7 +39055,6 @@
         "survival",
         "ggrepel",
         "gplots",
-        "RcppArmadillo",
         "nloptr",
         "RcppEigen",
         "dplyr",
@@ -39281,7 +39111,6 @@
         "htmlTable",
         "viridis",
         "lme4",
-        "RcppArmadillo",
         "Biostrings",
         "lmerTest",
         "httpuv",
@@ -39322,7 +39151,6 @@
         "survival",
         "ggrepel",
         "gplots",
-        "RcppArmadillo",
         "testthat",
         "pillar",
         "callr",
@@ -39693,7 +39521,6 @@
         "GenomicRanges",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "tibble",
         "tidyselect",
@@ -39909,7 +39736,6 @@
         "GenomicRanges",
         "Biobase",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "tibble",
         "tidyselect",
@@ -40043,7 +39869,6 @@
         "mgcv",
         "Rhtslib",
         "survival",
-        "RcppArmadillo",
         "RcppEigen",
         "httr",
         "htmlwidgets",
@@ -40654,7 +40479,6 @@
         "Biobase",
         "geneplotter",
         "ggplot2",
-        "RcppArmadillo",
         "AnnotationDbi",
         "annotate",
         "survival",
@@ -40897,7 +40721,6 @@
         "RcppTOML",
         "gplots",
         "reshape2",
-        "RcppArmadillo",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -40939,7 +40762,6 @@
         "tibble",
         "vctrs",
         "interp",
-        "RcppArmadillo",
         "fpc",
         "vegan",
         "apcluster",
@@ -40967,7 +40789,6 @@
         "BiocParallel",
         "geneplotter",
         "ggplot2",
-        "RcppArmadillo",
         "GenomeInfoDb",
         "futile.logger",
         "annotate",
@@ -41094,7 +40915,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "RcppArmadillo",
         "openssl",
         "cachem"
     ],
@@ -41347,7 +41167,6 @@
         "ragg",
         "ClusterR",
         "benchmarkme",
-        "RcppArmadillo",
         "doParallel",
         "reshape2",
         "ade4",
@@ -41423,7 +41242,6 @@
         "Rgraphviz",
         "hexbin",
         "survival",
-        "RcppArmadillo",
         "httr",
         "base64url",
         "IRkernel",
@@ -41592,7 +41410,6 @@
         "beachmat",
         "scuttle",
         "XVector",
-        "RcppArmadillo",
         "blob",
         "lifecycle",
         "pillar",
@@ -41998,7 +41815,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "tibble",
         "tidyselect",
@@ -42411,7 +42227,6 @@
         "lifecycle",
         "mgcv",
         "NADA",
-        "RcppArmadillo",
         "futile.logger",
         "sass",
         "memoise",
@@ -43126,7 +42941,6 @@
         "ellipsis",
         "purrr",
         "TMB",
-        "RcppArmadillo",
         "testthat",
         "callr",
         "pkgload",
@@ -43228,7 +43042,6 @@
         "tibble",
         "vctrs",
         "highr",
-        "RcppArmadillo",
         "cachem",
         "shiny",
         "callr",
@@ -43273,7 +43086,6 @@
         "feature",
         "flowCore",
         "RcppZiggurat",
-        "RcppArmadillo",
         "htmlwidgets",
         "knitr",
         "RcppEigen",
@@ -43353,7 +43165,6 @@
         "XVector",
         "scales",
         "geneplotter",
-        "RcppArmadillo",
         "BiocIO",
         "lifecycle",
         "mgcv",
@@ -43577,7 +43388,6 @@
         "pcaMethods",
         "reshape2",
         "scales",
-        "RcppArmadillo",
         "futile.logger",
         "Biobase",
         "geneplotter",
@@ -43761,7 +43571,6 @@
         "BSgenome",
         "SummarizedExperiment",
         "Rsamtools",
-        "RcppArmadillo",
         "rtracklayer",
         "BiocParallel",
         "Rhtslib",
@@ -43951,7 +43760,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "RcppArmadillo",
         "cachem",
         "MatrixModels"
     ],
@@ -44033,7 +43841,6 @@
         "systemfonts",
         "RcppEigen",
         "GO.db",
-        "RcppArmadillo",
         "callr",
         "pkgload",
         "waldo",
@@ -44131,7 +43938,6 @@
         "Biobase",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "usethis",
         "ellipsis",
         "lifecycle",
@@ -44304,7 +44110,6 @@
         "BiocFileCache",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "htmlwidgets",
         "crosstalk",
         "jquerylib",
@@ -44688,7 +44493,6 @@
         "tibble",
         "vctrs",
         "RcppDE",
-        "RcppArmadillo",
         "pillar"
     ],
     "pepStat": [
@@ -44825,7 +44629,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "RcppArmadillo",
         "openssl",
         "cachem"
     ],
@@ -44849,7 +44652,6 @@
         "RSQLite",
         "KEGGREST",
         "pcaPP",
-        "RcppArmadillo",
         "GenomicRanges",
         "SummarizedExperiment",
         "BiocParallel",
@@ -45109,7 +44911,6 @@
         "MatrixModels",
         "survival",
         "RcppZiggurat",
-        "RcppArmadillo",
         "pillar",
         "ellipsis",
         "purrr",
@@ -45509,7 +45310,6 @@
         "ape",
         "tidytree",
         "treeio",
-        "RcppArmadillo",
         "htmlwidgets",
         "openssl",
         "Biostrings",
@@ -45673,7 +45473,6 @@
         "promises",
         "RcppTOML",
         "gplots",
-        "RcppArmadillo",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -46080,7 +45879,6 @@
         "Biobase",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "tidyselect",
         "vctrs",
@@ -46536,7 +46334,6 @@
         "lmtest",
         "tseries",
         "urca",
-        "RcppArmadillo",
         "survival",
         "latticeExtra",
         "htmlTable",
@@ -46584,7 +46381,6 @@
         "KEGGREST",
         "futile.logger",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "tidyselect",
         "vctrs",
@@ -46886,7 +46682,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "RcppArmadillo",
         "interp"
     ],
     "progeny": [
@@ -46955,7 +46750,6 @@
         "mixtools",
         "ggplot2",
         "biomaRt",
-        "RcppArmadillo",
         "futile.logger",
         "AnnotationDbi",
         "progress",
@@ -47072,7 +46866,6 @@
         "knitr",
         "mixtools",
         "biomaRt",
-        "RcppArmadillo",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -47525,7 +47318,6 @@
         "rentrez",
         "rtracklayer",
         "RcppZiggurat",
-        "RcppArmadillo",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -48526,7 +48318,6 @@
     ],
     "QUBIC": [
         "biclust",
-        "RcppArmadillo",
         "flexclust",
         "tidyr",
         "ggplot2",
@@ -49521,7 +49312,6 @@
         "tidytree",
         "treeio",
         "GO.db",
-        "RcppArmadillo",
         "openssl",
         "Biostrings",
         "bit64",
@@ -49915,7 +49705,6 @@
         "GenomicRanges",
         "Biobase",
         "geneplotter",
-        "RcppArmadillo",
         "HDO.db",
         "GOSemSim",
         "qvalue",
@@ -50041,7 +49830,6 @@
         "Biobase",
         "geneplotter",
         "ggplot2",
-        "RcppArmadillo",
         "XVector",
         "highr",
         "markdown",
@@ -50349,7 +50137,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "scales",
         "reshape2",
         "Hmisc",
@@ -50857,7 +50644,6 @@
         "BiocParallel",
         "geneplotter",
         "ggplot2",
-        "RcppArmadillo",
         "geneLenDataBase",
         "mgcv",
         "GenomeInfoDb",
@@ -50987,7 +50773,6 @@
         "BiocFileCache",
         "readr",
         "geneplotter",
-        "RcppArmadillo",
         "openssl",
         "Rhtslib",
         "bit64",
@@ -51024,7 +50809,6 @@
         "Biobase",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "GenomeInfoDb",
         "Biostrings",
         "AnnotationDbi",
@@ -51677,7 +51461,6 @@
         "BiocParallel",
         "geneplotter",
         "ggplot2",
-        "RcppArmadillo",
         "usethis",
         "ellipsis",
         "lifecycle",
@@ -52267,7 +52050,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "HDO.db",
         "fgsea",
         "dendextend",
@@ -53436,7 +53218,6 @@
         "Rgraphviz",
         "igraph",
         "broom",
-        "RcppArmadillo",
         "RcppEigen",
         "knitr",
         "survival",
@@ -53488,7 +53269,6 @@
     ],
     "SAIGEgds": [
         "SeqArray",
-        "RcppArmadillo",
         "IRanges",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -53692,7 +53472,6 @@
         "rrcov",
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "RcppArmadillo",
         "lifecycle",
         "mgcv",
         "scales",
@@ -53786,7 +53565,6 @@
         "RcppTOML",
         "gplots",
         "reshape2",
-        "RcppArmadillo",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -54017,7 +53795,6 @@
         "bit64",
         "blob",
         "memoise",
-        "RcppArmadillo",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -54079,7 +53856,6 @@
         "BiocParallel",
         "XVector",
         "ExperimentHub",
-        "RcppArmadillo",
         "futile.logger",
         "AnnotationHub",
         "BiocFileCache",
@@ -54185,7 +53961,6 @@
         "Biobase",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "mgcv",
         "scales",
@@ -54314,7 +54089,6 @@
         "promises",
         "RcppTOML",
         "gplots",
-        "RcppArmadillo",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -54397,7 +54171,6 @@
         "RcppTOML",
         "gplots",
         "reshape2",
-        "RcppArmadillo",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -54444,7 +54217,6 @@
         "Biobase",
         "segmented",
         "survival",
-        "RcppArmadillo",
         "IRanges",
         "sparseMatrixStats",
         "tidyselect",
@@ -54571,7 +54343,6 @@
         "promises",
         "RcppTOML",
         "gplots",
-        "RcppArmadillo",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -54725,7 +54496,6 @@
     ],
     "scde": [
         "flexmix",
-        "RcppArmadillo",
         "mgcv",
         "Rook",
         "edgeR",
@@ -54788,7 +54558,6 @@
         "caret",
         "ggplot2",
         "dplyr",
-        "RcppArmadillo",
         "DESeq2",
         "e1071",
         "pROC",
@@ -54907,7 +54676,6 @@
         "RcppTOML",
         "gplots",
         "reshape2",
-        "RcppArmadillo",
         "classInt",
         "s2",
         "spatstat.data",
@@ -55035,7 +54803,6 @@
         "RcppTOML",
         "gplots",
         "reshape2",
-        "RcppArmadillo",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -55060,7 +54827,6 @@
         "reshape2",
         "ggplot2",
         "e1071",
-        "RcppArmadillo",
         "lifecycle",
         "tibble",
         "tidyselect",
@@ -55112,7 +54878,6 @@
         "densEstBayes",
         "rstan",
         "rstantools",
-        "RcppArmadillo",
         "RcppEigen",
         "StanHeaders",
         "knitr",
@@ -55289,7 +55054,6 @@
         "DelayedArray",
         "IRanges",
         "GenomeInfoDb",
-        "RcppArmadillo",
         "ShortRead",
         "Rsamtools",
         "biomaRt",
@@ -55615,7 +55379,6 @@
         "BiocParallel",
         "futile.logger",
         "survival",
-        "RcppArmadillo",
         "glmnet",
         "RcppEigen"
     ],
@@ -55676,7 +55439,6 @@
         "XVector",
         "tweenr",
         "systemfonts",
-        "RcppArmadillo",
         "ellipsis"
     ],
     "scruff": [
@@ -55917,7 +55679,6 @@
         "ape",
         "tidytree",
         "treeio",
-        "RcppArmadillo",
         "RcppTOML",
         "gplots",
         "classInt",
@@ -56023,7 +55784,6 @@
         "bit64",
         "blob",
         "reshape2",
-        "RcppArmadillo",
         "classInt",
         "s2",
         "spatstat.data",
@@ -56132,7 +55892,6 @@
         "tweenr",
         "systemfonts",
         "ragg",
-        "RcppArmadillo",
         "promises",
         "graph",
         "RBGL",
@@ -56295,7 +56054,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "RcppArmadillo",
         "openssl",
         "cachem",
         "hms",
@@ -56573,7 +56331,6 @@
         "BiocParallel",
         "geneplotter",
         "ggplot2",
-        "RcppArmadillo",
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -56620,7 +56377,6 @@
         "rtracklayer",
         "UpSetR",
         "scales",
-        "RcppArmadillo",
         "SummarizedExperiment",
         "Biostrings",
         "BiocParallel",
@@ -56796,7 +56552,6 @@
         "Biobase",
         "geneplotter",
         "ggplot2",
-        "RcppArmadillo",
         "scales",
         "seriation",
         "ComplexHeatmap",
@@ -57340,7 +57095,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "RcppArmadillo",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -57384,7 +57138,6 @@
         "BiocFileCache",
         "rtracklayer",
         "BSgenome",
-        "RcppArmadillo",
         "dbplyr",
         "RSQLite",
         "httr",
@@ -57725,7 +57478,6 @@
         "multtest",
         "reshape2",
         "vegan",
-        "RcppArmadillo",
         "RcppTOML",
         "GenomicRanges",
         "IRanges",
@@ -57841,7 +57593,6 @@
         "RSQLite",
         "KEGGREST",
         "doParallel",
-        "RcppArmadillo",
         "httr",
         "Biostrings",
         "bit64",
@@ -58030,7 +57781,6 @@
         "sparseMatrixStats",
         "GenomicRanges",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "tidyselect",
         "vctrs",
@@ -58451,7 +58201,6 @@
         "Rhtslib"
     ],
     "slalom": [
-        "RcppArmadillo",
         "ggplot2",
         "GSEABase",
         "rsvd",
@@ -58655,7 +58404,6 @@
         "XVector",
         "Biobase",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "mgcv",
         "tibble",
@@ -58932,7 +58680,6 @@
         "RcppTOML",
         "gplots",
         "reshape2",
-        "RcppArmadillo",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -59440,7 +59187,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "RcppArmadillo",
         "DelayedArray",
         "BiocParallel",
         "CNEr",
@@ -60102,7 +59848,6 @@
         "graph",
         "RBGL",
         "Rgraphviz",
-        "RcppArmadillo",
         "ellipsis",
         "broom",
         "dbplyr",
@@ -60232,7 +59977,6 @@
         "RcppTOML",
         "gplots",
         "reshape2",
-        "RcppArmadillo",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -60427,7 +60171,6 @@
         "Biobase",
         "geneplotter",
         "ggplot2",
-        "RcppArmadillo",
         "usethis",
         "ellipsis",
         "lifecycle",
@@ -60537,7 +60280,6 @@
         "ggforce",
         "ggnewscale",
         "pheatmap",
-        "RcppArmadillo",
         "futile.logger",
         "lifecycle",
         "tidyselect",
@@ -60584,7 +60326,6 @@
         "ggformula",
         "glmnet",
         "kinship2",
-        "RcppArmadillo",
         "gplots",
         "GenomicRanges",
         "Biobase",
@@ -60753,7 +60494,6 @@
         "mgcv",
         "scales",
         "Rdpack",
-        "RcppArmadillo",
         "hms",
         "vroom",
         "tzdb",
@@ -60981,7 +60721,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "RcppArmadillo",
         "ggforce",
         "ggfun",
         "tidyr",
@@ -61073,7 +60812,6 @@
         "RcppTOML",
         "gplots",
         "reshape2",
-        "RcppArmadillo",
         "classInt",
         "httpuv",
         "fontawesome",
@@ -62069,7 +61807,6 @@
         "Biobase",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "tidyselect",
         "vctrs",
@@ -62363,7 +62100,6 @@
         "GenomicRanges",
         "Biobase",
         "geneplotter",
-        "RcppArmadillo",
         "htmlwidgets",
         "crosstalk",
         "jquerylib",
@@ -62424,7 +62160,6 @@
         "BiocParallel",
         "geneplotter",
         "ggplot2",
-        "RcppArmadillo",
         "knitr",
         "futile.logger",
         "annotate",
@@ -62646,7 +62381,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "RcppArmadillo",
         "htmlTable",
         "lava",
         "future.apply",
@@ -62759,7 +62493,6 @@
         "BiocParallel",
         "geneplotter",
         "ggplot2",
-        "RcppArmadillo",
         "GenomeInfoDb",
         "DelayedArray",
         "RSQLite",
@@ -63094,7 +62827,6 @@
         "purrr",
         "scales",
         "geneplotter",
-        "RcppArmadillo",
         "BiocIO",
         "lifecycle",
         "mgcv",
@@ -63432,8 +63164,7 @@
         "bit64",
         "tweenr",
         "systemfonts",
-        "RcppEigen",
-        "RcppArmadillo"
+        "RcppEigen"
     ],
     "TIN": [
         "aroma.affymetrix",
@@ -64212,7 +63943,6 @@
         "IRanges",
         "DelayedMatrixStats",
         "SingleCellExperiment",
-        "RcppArmadillo",
         "beachmat",
         "rhdf5",
         "GenomicRanges",
@@ -64257,7 +63987,6 @@
         "BiocParallel",
         "geneplotter",
         "ggplot2",
-        "RcppArmadillo",
         "AnnotationDbi",
         "GO.db",
         "graph",
@@ -64974,7 +64703,6 @@
         "vctrs",
         "pillar",
         "syuzhet",
-        "RcppArmadillo",
         "hms",
         "vroom",
         "tzdb",
@@ -65248,7 +64976,6 @@
         "rtracklayer",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "lifecycle",
         "tibble",
         "tidyselect",
@@ -65585,7 +65312,6 @@
         "bit64",
         "progress",
         "syuzhet",
-        "RcppArmadillo",
         "MatrixExtra"
     ],
     "VanillaICE": [
@@ -66072,8 +65798,7 @@
     "VERSO": [
         "ape",
         "Rfast",
-        "RcppZiggurat",
-        "RcppArmadillo"
+        "RcppZiggurat"
     ],
     "vidger": [
         "Biobase",
@@ -66091,7 +65816,6 @@
         "GenomicRanges",
         "BiocParallel",
         "geneplotter",
-        "RcppArmadillo",
         "dplyr",
         "forcats",
         "lifecycle",
@@ -66248,7 +65972,6 @@
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
-        "RcppArmadillo",
         "syuzhet",
         "ellipsis",
         "purrr",
@@ -66495,7 +66218,6 @@
         "BiocParallel",
         "Rhtslib",
         "geneplotter",
-        "RcppArmadillo",
         "systemPipeR",
         "ggrepel",
         "apeglm",
@@ -66550,7 +66272,6 @@
         "BiocFileCache",
         "BiocParallel",
         "SingleCellExperiment",
-        "RcppArmadillo",
         "lme4",
         "dbplyr",
         "dplyr",
@@ -67286,7 +67007,6 @@
         "tidyselect",
         "hms",
         "RcppZiggurat",
-        "RcppArmadillo",
         "ellipsis",
         "purrr",
         "BiocParallel",
@@ -67925,9 +67645,7 @@
         "vctrs"
     ],
     "xts": [],
-    "DrImpute": [
-        "RcppArmadillo"
-    ],
+    "DrImpute": [],
     "rsvd": [],
     "SAVER": [
         "glmnet",
@@ -67935,7 +67653,6 @@
         "survival",
         "RcppEigen"
     ],
-    "RcppArmadillo": [],
     "doParallel": [],
     "affydata": [
         "affy",
@@ -68041,7 +67758,6 @@
         "glmnet",
         "mgcv",
         "speedglm",
-        "RcppArmadillo",
         "survival",
         "RcppEigen"
     ],
@@ -68110,8 +67826,7 @@
         "survival"
     ],
     "Rfast": [
-        "RcppZiggurat",
-        "RcppArmadillo"
+        "RcppZiggurat"
     ],
     "RcppZiggurat": [],
     "NADA": [
@@ -68161,7 +67876,6 @@
         "vctrs",
         "doRNG",
         "RcppZiggurat",
-        "RcppArmadillo",
         "httr",
         "selectr",
         "openssl",
@@ -68605,7 +68319,6 @@
         "RcppTOML",
         "gplots",
         "reshape2",
-        "RcppArmadillo",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -68700,7 +68413,6 @@
         "future",
         "ggplot2",
         "reshape2",
-        "RcppArmadillo",
         "lifecycle",
         "tibble",
         "tidyselect",
@@ -69238,13 +68950,10 @@
         "pillar"
     ],
     "ptw": [
-        "RcppDE",
-        "RcppArmadillo"
+        "RcppDE"
     ],
     "qqman": [],
-    "RcppDE": [
-        "RcppArmadillo"
-    ],
+    "RcppDE": [],
     "DRaWR": [
         "ROCR",
         "gplots"
@@ -69900,9 +69609,7 @@
         "miscTools",
         "sandwich"
     ],
-    "RcppDist": [
-        "RcppArmadillo"
-    ],
+    "RcppDist": [],
     "maxLik": [
         "miscTools",
         "sandwich"
@@ -70278,7 +69985,6 @@
         "systemfonts",
         "RcppEigen",
         "mgcv",
-        "RcppArmadillo",
         "tidyr",
         "ellipsis",
         "purrr"
@@ -70345,8 +70051,7 @@
         "purrr"
     ],
     "graphlayouts": [
-        "igraph",
-        "RcppArmadillo"
+        "igraph"
     ],
     "ggfun": [
         "ggplot2",
@@ -70505,8 +70210,7 @@
     "rSpectral": [
         "Rdpack",
         "igraph",
-        "graph",
-        "RcppArmadillo"
+        "graph"
     ],
     "WGCNA": [
         "Hmisc",
@@ -70610,9 +70314,7 @@
         "htmlwidgets",
         "igraph"
     ],
-    "NetRep": [
-        "RcppArmadillo"
-    ],
+    "NetRep": [],
     "network": [
         "tibble",
         "statnet.common",
@@ -70750,7 +70452,6 @@
         "httr",
         "BiocFileCache",
         "ggplot2",
-        "RcppArmadillo",
         "annotate",
         "survival",
         "GenomeInfoDb",
@@ -70835,7 +70536,6 @@
         "igraph",
         "ggm",
         "vcd",
-        "RcppArmadillo",
         "lmtest"
     ],
     "gmodels": [
@@ -71170,7 +70870,6 @@
         "pillar"
     ],
     "MCMCprecision": [
-        "RcppArmadillo",
         "RcppEigen"
     ],
     "multipanelfigure": [
@@ -71190,8 +70889,7 @@
     "mvoutlier": [],
     "FME": [],
     "SpatialTools": [
-        "spBayes",
-        "RcppArmadillo"
+        "spBayes"
     ],
     "FactoMineR": [
         "car",
@@ -71929,12 +71627,10 @@
     ],
     "ashr": [
         "mixsqp",
-        "irlba",
-        "RcppArmadillo"
+        "irlba"
     ],
     "mixsqp": [
-        "irlba",
-        "RcppArmadillo"
+        "irlba"
     ],
     "ChIPXpressData": [],
     "biganalytics": [],
@@ -72095,8 +71791,7 @@
         "RBGL",
         "Rgraphviz",
         "igraph",
-        "RcppEigen",
-        "RcppArmadillo"
+        "RcppEigen"
     ],
     "phylobase": [
         "ade4",
@@ -72121,7 +71816,6 @@
     "ClusterR": [
         "ggplot2",
         "lifecycle",
-        "RcppArmadillo",
         "mgcv",
         "scales",
         "tibble",
@@ -72174,9 +71868,7 @@
     "kohonen": [],
     "biwt": [],
     "skmeans": [],
-    "eulerr": [
-        "RcppArmadillo"
-    ],
+    "eulerr": [],
     "cobs": [
         "quantreg",
         "MatrixModels",
@@ -72492,12 +72184,9 @@
         "capushe"
     ],
     "compositions": [
-        "bayesm",
-        "RcppArmadillo"
+        "bayesm"
     ],
-    "bayesm": [
-        "RcppArmadillo"
-    ],
+    "bayesm": [],
     "faahKO": [
         "xcms",
         "BiocParallel",
@@ -72656,15 +72345,13 @@
         "scales"
     ],
     "ccaPP": [
-        "pcaPP",
-        "RcppArmadillo"
+        "pcaPP"
     ],
     "cytometree": [
         "ggplot2",
         "igraph",
         "cowplot",
         "GoFKernel",
-        "RcppArmadillo",
         "scales",
         "lifecycle",
         "mgcv",
@@ -72677,7 +72364,6 @@
         "geometry",
         "reshape2",
         "RcppEigen",
-        "RcppArmadillo",
         "lifecycle",
         "mgcv",
         "scales",
@@ -72959,8 +72645,7 @@
     "text2vec": [
         "rsparse",
         "mlapi",
-        "MatrixExtra",
-        "RcppArmadillo"
+        "MatrixExtra"
     ],
     "textstem": [
         "koRpus.lang.en",
@@ -72976,14 +72661,12 @@
         "vctrs",
         "pillar",
         "syuzhet",
-        "RcppArmadillo",
         "tidyr",
         "ellipsis",
         "purrr"
     ],
     "rsparse": [
-        "MatrixExtra",
-        "RcppArmadillo"
+        "MatrixExtra"
     ],
     "mlapi": [],
     "koRpus.lang.en": [
@@ -73003,9 +72686,7 @@
         "ellipsis",
         "purrr"
     ],
-    "quanteda": [
-        "RcppArmadillo"
-    ],
+    "quanteda": [],
     "textclean": [
         "lexicon",
         "textshape",
@@ -73307,9 +72988,7 @@
         "RcppEigen",
         "highr"
     ],
-    "RNOmni": [
-        "RcppArmadillo"
-    ],
+    "RNOmni": [],
     "ewceData": [
         "ExperimentHub",
         "AnnotationHub",
@@ -73566,7 +73245,6 @@
         "ggplot2",
         "DataVisualizations",
         "reshape2",
-        "RcppArmadillo",
         "lifecycle",
         "mgcv",
         "scales",
@@ -73582,7 +73260,6 @@
     "DataVisualizations": [
         "ggplot2",
         "reshape2",
-        "RcppArmadillo",
         "lifecycle",
         "mgcv",
         "scales",
@@ -73723,9 +73400,7 @@
         "rrcov",
         "pcaPP"
     ],
-    "roptim": [
-        "RcppArmadillo"
-    ],
+    "roptim": [],
     "maptools": [],
     "shinyHeatmaply": [
         "heatmaply",
@@ -73863,7 +73538,6 @@
         "Rgraphviz",
         "igraph",
         "broom",
-        "RcppArmadillo",
         "RcppEigen",
         "dplyr",
         "ellipsis",
@@ -73911,8 +73585,7 @@
     ],
     "s2": [],
     "penalized": [
-        "survival",
-        "RcppArmadillo"
+        "survival"
     ],
     "fGarch": [
         "fBasics",
@@ -73942,13 +73615,9 @@
     "yeastExpData": [
         "graph"
     ],
-    "matchingR": [
-        "RcppArmadillo"
-    ],
+    "matchingR": [],
     "nsga2R": [],
-    "GA": [
-        "RcppArmadillo"
-    ],
+    "GA": [],
     "BatchJobs": [
         "BBmisc",
         "RSQLite",
@@ -74089,9 +73758,7 @@
         "ellipsis",
         "DelayedArray"
     ],
-    "parallelDist": [
-        "RcppArmadillo"
-    ],
+    "parallelDist": [],
     "concaveman": [
         "V8",
         "sf",
@@ -74162,7 +73829,6 @@
         "DataVisualizations",
         "ggplot2",
         "reshape2",
-        "RcppArmadillo",
         "httpuv",
         "fontawesome",
         "promises",
@@ -74337,7 +74003,6 @@
         "densEstBayes",
         "rstan",
         "rstantools",
-        "RcppArmadillo",
         "RcppEigen",
         "StanHeaders",
         "ggplot2",
@@ -74353,7 +74018,6 @@
     "densEstBayes": [
         "rstan",
         "rstantools",
-        "RcppArmadillo",
         "RcppEigen",
         "StanHeaders",
         "ggplot2",
@@ -74439,7 +74103,6 @@
         "rmio",
         "RSpectra",
         "tibble",
-        "RcppArmadillo",
         "doParallel",
         "scales",
         "lifecycle",
@@ -75178,7 +74841,6 @@
     "MatrixCorrelation": [
         "progress",
         "RSpectra",
-        "RcppArmadillo",
         "hms",
         "RcppEigen",
         "ellipsis",
@@ -75490,12 +75152,9 @@
     ],
     "sparseMVN": [],
     "BRISC": [
-        "rdist",
-        "RcppArmadillo"
+        "rdist"
     ],
-    "rdist": [
-        "RcppArmadillo"
-    ],
+    "rdist": [],
     "RcmdrMisc": [
         "car",
         "sandwich",
@@ -75743,7 +75402,6 @@
         "unmarked",
         "lme4",
         "TMB",
-        "RcppArmadillo",
         "RcppEigen",
         "nloptr",
         "testthat",
@@ -75776,7 +75434,6 @@
     "unmarked": [
         "lme4",
         "TMB",
-        "RcppArmadillo",
         "RcppEigen",
         "nloptr",
         "testthat",
@@ -75940,8 +75597,7 @@
     ],
     "SmoothWin": [
         "Rfast",
-        "RcppZiggurat",
-        "RcppArmadillo"
+        "RcppZiggurat"
     ],
     "pingr": [],
     "osfr": [
@@ -76077,7 +75733,6 @@
         "lmtest",
         "tseries",
         "urca",
-        "RcppArmadillo",
         "lifecycle",
         "mgcv",
         "scales",
@@ -76649,9 +76304,7 @@
         "vctrs",
         "pillar"
     ],
-    "splines2": [
-        "RcppArmadillo"
-    ],
+    "splines2": [],
     "SCATEData": [
         "ExperimentHub",
         "GenomicAlignments",
@@ -76703,16 +76356,11 @@
     "copula": [
         "pcaPP"
     ],
-    "proxyC": [
-        "RcppArmadillo"
-    ],
+    "proxyC": [],
     "extRemes": [
-        "Lmoments",
-        "RcppArmadillo"
+        "Lmoments"
     ],
-    "Lmoments": [
-        "RcppArmadillo"
-    ],
+    "Lmoments": [],
     "torch": [
         "bit64",
         "callr",
@@ -76785,7 +76433,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "RcppArmadillo",
         "ellipsis",
         "purrr"
     ],
@@ -77083,7 +76730,6 @@
         "RcppTOML",
         "gplots",
         "reshape2",
-        "RcppArmadillo",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -77320,7 +76966,6 @@
         "ggformula",
         "glmnet",
         "kinship2",
-        "RcppArmadillo",
         "broom",
         "ggstance",
         "scales",
@@ -77410,16 +77055,13 @@
         "purrr"
     ],
     "mclustcomp": [
-        "Rdpack",
-        "RcppArmadillo"
+        "Rdpack"
     ],
     "MLmetrics": [
         "ROCR",
         "gplots"
     ],
-    "liger": [
-        "RcppArmadillo"
-    ],
+    "liger": [],
     "rsample": [
         "dplyr",
         "ellipsis",
