@@ -29365,7 +29365,6 @@
         "rematch2"
     ],
     "EMDomics": [
-        "emdist",
         "BiocParallel",
         "ggplot2",
         "futile.logger",
@@ -116891,7 +116890,6 @@
         "GenomeInfoDbData"
     ],
     "TCGAbiolinksGUI.data": [],
-    "emdist": [],
     "heatmap3": [],
     "EntropyExplorer": [],
     "EpiMix.data": [
