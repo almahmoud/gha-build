@@ -617,7 +617,6 @@
     "EasyCellType": [
         "clusterProfiler"
     ],
-    "EBSeqHMM": [],
     "edge": [
         "snm",
         "lme4"
