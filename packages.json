@@ -11762,7 +11762,6 @@
         "viridis",
         "vroom"
     ],
-    "motifcounter": [],
     "MotifDb": [
         "rtracklayer",
         "Rsamtools",
