@@ -808,7 +808,6 @@
         "BiocVersion",
         "ExperimentHub"
     ],
-    "SPLINTER": [],
     "SPONGE": [
         "ggpubr"
     ],
