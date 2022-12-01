@@ -502,8 +502,7 @@
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "TxDb.Rnorvegicus.UCSC.rn4.ensGene",
         "TxDb.Celegans.UCSC.ce6.ensGene",
-        "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
-        "GreyListChIP"
+        "TxDb.Dmelanogaster.UCSC.dm3.ensGene"
     ],
     "ChIPseeker": [
         "enrichplot",
@@ -856,9 +855,7 @@
     "DEWSeq": [],
     "DExMA": [],
     "DEXSeq": [],
-    "DiffBind": [
-        "GreyListChIP"
-    ],
+    "DiffBind": [],
     "diffcyt": [
         "FlowSOM",
         "lme4",
@@ -1023,7 +1020,6 @@
     ],
     "epigraHMM": [
         "ggpubr",
-        "GreyListChIP",
         "rstatix",
         "car",
         "pbkrtest",
@@ -1404,7 +1400,6 @@
     ],
     "GOstats": [],
     "GRaNIE": [],
-    "GreyListChIP": [],
     "GRmetrics": [
         "drc",
         "car",
@@ -3458,8 +3453,7 @@
         "ChIPpeakAnno",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "DiffBind",
-        "ensembldb",
-        "GreyListChIP"
+        "ensembldb"
     ],
     "waddR": [
         "arm",
