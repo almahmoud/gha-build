@@ -2981,8 +2981,7 @@
         "VariantAnnotation"
     ],
     "tLOH": [
-        "VariantAnnotation",
-        "naniar"
+        "VariantAnnotation"
     ],
     "TNBC.CMS": [
         "ggpubr",
@@ -3484,7 +3483,6 @@
     "sampSurf": [],
     "MESS": [],
     "GenKern": [],
-    "naniar": [],
     "vbsr": [],
     "msigdb": [
         "ExperimentHub",
