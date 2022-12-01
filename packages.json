@@ -356,7 +356,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "MSstatsLiP": [],
     "muscat": [
         "scater"
     ],
