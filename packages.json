@@ -45377,7 +45377,6 @@
         "GenomeInfoDbData",
         "zlibbioc"
     ],
-    "globalSeq": [],
     "globaltest": [
         "survival",
         "Biobase",
