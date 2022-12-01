@@ -2004,7 +2004,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "isobar": [],
     "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
