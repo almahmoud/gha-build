@@ -11977,7 +11977,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "geometry",
         "reshape2",
         "RcppEigen",
         "pbkrtest",
@@ -12783,7 +12782,6 @@
     "debCAM": [
         "BiocParallel",
         "SummarizedExperiment",
-        "geometry",
         "NMF",
         "DMwR2",
         "apcluster",
@@ -35750,7 +35748,6 @@
         "scales",
         "survival",
         "RcppEigen",
-        "geometry",
         "questionr",
         "doParallel",
         "reshape2",
@@ -61303,7 +61300,6 @@
     ],
     "mrfDepth": [
         "ggplot2",
-        "geometry",
         "reshape2",
         "RcppEigen",
         "mgcv",
@@ -61325,7 +61321,6 @@
         "vctrs",
         "pillar"
     ],
-    "geometry": [],
     "GEOmap": [
         "splancs",
         "fields",
@@ -63724,9 +63719,7 @@
         "GenomeInfoDb",
         "sass"
     ],
-    "pdfCluster": [
-        "geometry"
-    ],
+    "pdfCluster": [],
     "diceR": [
         "clValid",
         "dplyr",
