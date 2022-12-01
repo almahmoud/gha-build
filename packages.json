@@ -17239,7 +17239,6 @@
         "DT",
         "GenomeInfoDbData",
         "caTools",
-        "randtests",
         "ragg",
         "S4Vectors",
         "IRanges",
@@ -96988,7 +96987,6 @@
     "bcellViper": [
         "Biobase"
     ],
-    "randtests": [],
     "crisprScoreData": [
         "ExperimentHub",
         "AnnotationHub",
