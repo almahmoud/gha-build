@@ -11422,7 +11422,6 @@
         "pROC",
         "recipes",
         "reshape2",
-        "intervals",
         "GenomeInfoDb",
         "XVector",
         "hms",
@@ -22745,7 +22744,6 @@
         "stringr",
         "XVector",
         "RCurl",
-        "intervals",
         "Rhtslib",
         "latticeExtra",
         "MatrixGenerics",
@@ -29856,7 +29854,6 @@
         "RCurl"
     ],
     "genomeIntervals": [
-        "intervals",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -31401,7 +31398,6 @@
     "girafe": [
         "S4Vectors",
         "Rsamtools",
-        "intervals",
         "ShortRead",
         "genomeIntervals",
         "Biobase",
@@ -48319,7 +48315,6 @@
         "futile.logger",
         "progress",
         "stringr",
-        "intervals",
         "forcats",
         "reshape",
         "tidyr",
@@ -77540,7 +77535,6 @@
         "s2",
         "units",
         "xts",
-        "intervals",
         "lwgeom",
         "processx",
         "e1071",
@@ -89934,7 +89928,6 @@
         "pROC",
         "recipes",
         "reshape2",
-        "intervals",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -89970,7 +89963,6 @@
         "future",
         "globals"
     ],
-    "intervals": [],
     "RcppRoll": [],
     "BSgenome.Mmusculus.UCSC.mm9": [
         "BSgenome",
@@ -97436,7 +97428,6 @@
         "s2",
         "units",
         "xts",
-        "intervals",
         "lwgeom",
         "e1071",
         "class",
@@ -97470,8 +97461,7 @@
     "spacetime": [
         "sp",
         "zoo",
-        "xts",
-        "intervals"
+        "xts"
     ],
     "stars": [
         "sf",
