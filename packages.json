@@ -2137,7 +2137,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "mistyR": [],
-    "mitch": [],
     "mitoClone2": [
         "deepSNV",
         "VariantAnnotation"
