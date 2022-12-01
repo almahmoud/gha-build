@@ -24319,7 +24319,6 @@
         "changepoint",
         "wavethresh",
         "tseries",
-        "pvclust",
         "fBasics",
         "reshape",
         "scales",
@@ -67523,7 +67522,6 @@
     ],
     "PANR": [
         "igraph",
-        "pvclust",
         "RedeR",
         "magrittr",
         "Matrix",
@@ -88102,7 +88100,6 @@
         "IRanges",
         "nloptr",
         "PMCMRplus",
-        "pvclust",
         "ppclust",
         "clue",
         "survival",
@@ -98781,7 +98778,6 @@
         "glmnet",
         "vbsr",
         "gplots",
-        "pvclust",
         "R.utils",
         "dqrng",
         "SummarizedExperiment",
@@ -113214,7 +113210,6 @@
         "xts",
         "TTR"
     ],
-    "pvclust": [],
     "truncdist": [],
     "imputeLCMD": [
         "tmvtnorm",
