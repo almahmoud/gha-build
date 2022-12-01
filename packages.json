@@ -47880,7 +47880,6 @@
     ],
     "SpectralTAD": [
         "dplyr",
-        "PRIMME",
         "BiocParallel",
         "HiCcompare",
         "GenomicRanges",
@@ -49962,7 +49961,6 @@
     ],
     "TADCompare": [
         "dplyr",
-        "PRIMME",
         "HiCcompare",
         "ggplot2",
         "tidyr",
@@ -61804,7 +61802,6 @@
         "classInt"
     ],
     "spData": [],
-    "PRIMME": [],
     "alphahull": [
         "ggplot2",
         "interp",
