@@ -1166,7 +1166,6 @@
     "EGSEA": [],
     "ELMER": [
         "GenomicFeatures",
-        "TCGAbiolinks",
         "Gviz",
         "ggpubr",
         "rstatix",
@@ -2412,7 +2411,6 @@
     ],
     "MIRA": [],
     "miRLAB": [
-        "TCGAbiolinks",
         "Category",
         "GOstats"
     ],
@@ -2487,7 +2485,6 @@
     "MoonlightR": [
         "clusterProfiler",
         "DOSE",
-        "TCGAbiolinks",
         "enrichplot",
         "ggtree"
     ],
@@ -2636,7 +2633,6 @@
         "deconstructSigs",
         "decompTumor2Sig",
         "factoextra",
-        "TCGAbiolinks",
         "FactoMineR",
         "ggpubr",
         "car",
@@ -3976,11 +3972,9 @@
     "TCC": [
         "DESeq2"
     ],
-    "TCGAbiolinks": [],
     "TCGAbiolinksGUI": [
         "ELMER",
         "clusterProfiler",
-        "TCGAbiolinks",
         "sesame",
         "DOSE",
         "enrichplot",
