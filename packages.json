@@ -127670,7 +127670,6 @@
         "utf8",
         "withr"
     ],
-    "SMAP": [],
     "SMITE": [
         "GenomicRanges",
         "scales",
