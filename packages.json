@@ -2837,7 +2837,6 @@
     "cydar": [
         "viridis"
     ],
-    "CytoDx": [],
     "CyTOFpower": [
         "CytoGLMM",
         "diffcyt",
