@@ -19950,7 +19950,6 @@
         "e1071",
         "epiR",
         "dplyr",
-        "dtangle",
         "ggplot2",
         "ggplotify",
         "pheatmap",
@@ -56711,7 +56710,6 @@
         "jquerylib",
         "sass"
     ],
-    "dtangle": [],
     "sf": [
         "classInt",
         "e1071"
