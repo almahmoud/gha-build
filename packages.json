@@ -987,9 +987,7 @@
         "gmapR",
         "VariantTools"
     ],
-    "icetea": [
-        "TxDb.Dmelanogaster.UCSC.dm6.ensGene"
-    ],
+    "icetea": [],
     "iCheck": [
         "lumi",
         "methylumi",
@@ -2535,7 +2533,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
     "glmmTMB": [
         "lme4"
     ],
