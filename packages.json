@@ -1467,7 +1467,6 @@
         "lme4",
         "nloptr"
     ],
-    "GlobalAncova": [],
     "gmapR": [
         "VariantAnnotation"
     ],
