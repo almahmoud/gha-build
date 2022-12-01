@@ -51946,7 +51946,6 @@
         "abind",
         "BiocParallel",
         "BatchJobs",
-        "h5vcData",
         "GenomeInfoDb",
         "Rhtslib",
         "BBmisc",
@@ -144827,7 +144826,6 @@
         "cli",
         "lifecycle"
     ],
-    "h5vcData": [],
     "aggregation": [],
     "HiContactsData": [
         "ExperimentHub",
