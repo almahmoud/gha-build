@@ -36583,7 +36583,6 @@
         "Hmisc",
         "e1071",
         "haven",
-        "readstata13",
         "readxl",
         "GenomicRanges",
         "IRanges",
@@ -66000,7 +65999,6 @@
         "Hmisc",
         "e1071",
         "haven",
-        "readstata13",
         "readxl",
         "mgcv",
         "pbkrtest",
@@ -66038,7 +66036,6 @@
         "waldo",
         "rematch2"
     ],
-    "readstata13": [],
     "qpcR": [
         "rgl",
         "htmlwidgets",
