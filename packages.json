@@ -1505,7 +1505,6 @@
         "bit64",
         "blob",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -2104,7 +2103,6 @@
         "lmtest",
         "miniUI",
         "patchwork",
-        "progressr",
         "RcppAnnoy",
         "ROCR",
         "Rtsne",
@@ -3713,7 +3711,6 @@
         "bit64",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -4404,7 +4401,6 @@
         "rjags",
         "edgeR",
         "BiocParallel",
-        "progressr",
         "SummarizedExperiment",
         "futile.logger",
         "BiocFileCache",
@@ -4513,7 +4509,6 @@
         "lmtest",
         "miniUI",
         "plotly",
-        "progressr",
         "RcppAnnoy",
         "reticulate",
         "ROCR",
@@ -7256,7 +7251,6 @@
         "cachem",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -9065,7 +9059,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "progressr",
         "RcppAnnoy",
         "ROCR",
         "scattermore",
@@ -10133,7 +10126,6 @@
         "prodlim",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -13574,7 +13566,6 @@
         "textshaping",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -13767,7 +13758,6 @@
         "ellipsis",
         "Biostrings",
         "future.apply",
-        "progressr",
         "bit64",
         "memoise",
         "future",
@@ -15878,7 +15868,6 @@
         "rematch2",
         "highr",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -15954,7 +15943,6 @@
         "waldo",
         "highr",
         "future.apply",
-        "progressr",
         "rematch2",
         "future",
         "globals"
@@ -16363,7 +16351,6 @@
         "processx",
         "waldo",
         "future.apply",
-        "progressr",
         "rematch2",
         "future",
         "globals"
@@ -18681,7 +18668,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "progressr",
         "RcppAnnoy",
         "reticulate",
         "ROCR",
@@ -19461,7 +19447,6 @@
         "quantreg",
         "lme4",
         "future.apply",
-        "progressr",
         "Matrix",
         "TH.data",
         "sandwich",
@@ -22446,7 +22431,6 @@
         "tibble",
         "vctrs",
         "future.apply",
-        "progressr",
         "MatrixModels",
         "plyr",
         "Rhtslib",
@@ -24564,7 +24548,6 @@
         "lava",
         "zoo",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -25206,7 +25189,6 @@
         "cachem",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -25805,7 +25787,6 @@
         "ellipsis",
         "Biostrings",
         "future.apply",
-        "progressr",
         "bit64",
         "memoise",
         "XVector",
@@ -27015,7 +26996,6 @@
         "sp",
         "future",
         "future.apply",
-        "progressr",
         "rematch2",
         "globals",
         "RCurl",
@@ -27186,7 +27166,6 @@
         "future",
         "future.apply",
         "Matrix",
-        "progressr",
         "RcppEigen",
         "XVector",
         "GenomeInfoDb",
@@ -29482,7 +29461,6 @@
         "prodlim",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -30616,7 +30594,6 @@
         "prodlim",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -31872,7 +31849,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "progressr",
         "RcppAnnoy",
         "reticulate",
         "ROCR",
@@ -32796,7 +32772,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "progressr",
         "RcppAnnoy",
         "reticulate",
         "ROCR",
@@ -33957,7 +33932,6 @@
         "XVector",
         "GenomeInfoDb",
         "future.apply",
-        "progressr",
         "future",
         "globals",
         "RCurl"
@@ -35013,7 +34987,6 @@
         "sass",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -35609,8 +35582,7 @@
         "sass",
         "cachem",
         "memoise",
-        "lava",
-        "progressr"
+        "lava"
     ],
     "maigesPack": [
         "convert",
@@ -35708,7 +35680,6 @@
         "hms",
         "readr",
         "future.apply",
-        "progressr",
         "R.utils",
         "future",
         "globals",
@@ -35806,7 +35777,6 @@
         "cachem",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -37208,7 +37178,6 @@
         "prodlim",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -37703,7 +37672,6 @@
         "RcppEigen",
         "RcppArmadillo",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -37842,7 +37810,6 @@
         "ellipsis",
         "interp",
         "future.apply",
-        "progressr",
         "foreach",
         "future",
         "globals",
@@ -39734,7 +39701,6 @@
         "rematch2",
         "sitmo",
         "future.apply",
-        "progressr",
         "systemfonts",
         "textshaping",
         "future",
@@ -40788,7 +40754,6 @@
         "pkgload",
         "waldo",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -40944,7 +40909,6 @@
         "pkgload",
         "waldo",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -41116,8 +41080,7 @@
         "survival",
         "prodlim",
         "lava",
-        "future.apply",
-        "progressr"
+        "future.apply"
     ],
     "mitch": [
         "plyr",
@@ -41369,7 +41332,6 @@
         "blob",
         "memoise",
         "future.apply",
-        "progressr",
         "cachem",
         "future",
         "globals"
@@ -43247,7 +43209,6 @@
         "processx",
         "waldo",
         "future.apply",
-        "progressr",
         "rematch2",
         "future",
         "globals"
@@ -43861,7 +43822,6 @@
         "zoo",
         "rematch2",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -45032,7 +44992,6 @@
         "lmtest",
         "miniUI",
         "plotly",
-        "progressr",
         "RcppAnnoy",
         "reticulate",
         "ROCR",
@@ -49031,7 +48990,6 @@
         "openssl",
         "highr",
         "future.apply",
-        "progressr",
         "hms",
         "car",
         "pbkrtest",
@@ -50021,7 +49979,6 @@
         "prodlim",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -50309,7 +50266,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "progressr",
         "RcppAnnoy",
         "reticulate",
         "ROCR",
@@ -50840,7 +50796,6 @@
         "bit64",
         "blob",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -51148,7 +51103,6 @@
         "Rhtslib",
         "futile.logger",
         "future.apply",
-        "progressr",
         "MatrixGenerics",
         "DelayedArray",
         "future",
@@ -51840,7 +51794,6 @@
         "bit64",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -51950,7 +51903,6 @@
         "bit64",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -55423,7 +55375,6 @@
         "sass",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -56887,7 +56838,6 @@
         "prodlim",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -59265,7 +59215,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "progressr",
         "RcppAnnoy",
         "reticulate",
         "ROCR",
@@ -59511,7 +59460,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "progressr",
         "RcppAnnoy",
         "reticulate",
         "Rtsne",
@@ -59760,7 +59708,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "progressr",
         "RcppAnnoy",
         "reticulate",
         "ROCR",
@@ -59857,7 +59804,6 @@
         "Matrix",
         "miniUI",
         "plotly",
-        "progressr",
         "RcppAnnoy",
         "reticulate",
         "ROCR",
@@ -59935,7 +59881,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "progressr",
         "RcppAnnoy",
         "reticulate",
         "ROCR",
@@ -60090,7 +60035,6 @@
         "sp",
         "future",
         "future.apply",
-        "progressr",
         "SummarizedExperiment",
         "GenomicRanges",
         "DelayedArray",
@@ -60135,7 +60079,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "progressr",
         "RcppAnnoy",
         "reticulate",
         "ROCR",
@@ -60462,7 +60405,6 @@
         "blob",
         "memoise",
         "future.apply",
-        "progressr",
         "cachem",
         "future",
         "globals"
@@ -60503,7 +60445,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "progressr",
         "RcppAnnoy",
         "reticulate",
         "ROCR",
@@ -60661,7 +60602,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "progressr",
         "RcppAnnoy",
         "reticulate",
         "ROCR",
@@ -61384,7 +61324,6 @@
         "sp",
         "future",
         "future.apply",
-        "progressr",
         "RcppEigen",
         "GenomicRanges",
         "DelayedArray",
@@ -61637,7 +61576,6 @@
         "lmtest",
         "miniUI",
         "patchwork",
-        "progressr",
         "RcppAnnoy",
         "reticulate",
         "ROCR",
@@ -61754,7 +61692,6 @@
         "lmtest",
         "miniUI",
         "patchwork",
-        "progressr",
         "RcppAnnoy",
         "reticulate",
         "ROCR",
@@ -61859,7 +61796,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "progressr",
         "RcppAnnoy",
         "reticulate",
         "ROCR",
@@ -63486,7 +63422,6 @@
         "lme4",
         "lava",
         "future.apply",
-        "progressr",
         "nloptr",
         "MatrixModels",
         "future",
@@ -64058,7 +63993,6 @@
         "leiden",
         "lmtest",
         "patchwork",
-        "progressr",
         "RcppAnnoy",
         "scattermore",
         "sctransform",
@@ -64954,7 +64888,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "progressr",
         "RcppAnnoy",
         "reticulate",
         "ROCR",
@@ -65301,7 +65234,6 @@
         "sp",
         "future",
         "future.apply",
-        "progressr",
         "RcppEigen",
         "lifecycle",
         "tibble",
@@ -66362,7 +66294,6 @@
         "waldo",
         "RCurl",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -66398,7 +66329,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "progressr",
         "RcppAnnoy",
         "reticulate",
         "ROCR",
@@ -67324,7 +67254,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "progressr",
         "RcppAnnoy",
         "reticulate",
         "ROCR",
@@ -67640,7 +67569,6 @@
         "RCurl",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -67773,8 +67701,7 @@
         "survival",
         "prodlim",
         "lava",
-        "future.apply",
-        "progressr"
+        "future.apply"
     ],
     "supraHex": [
         "hexbin",
@@ -67852,7 +67779,6 @@
         "lava",
         "Matrix",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -69114,7 +69040,6 @@
         "htmlTable",
         "lava",
         "future.apply",
-        "progressr",
         "nloptr",
         "MatrixModels",
         "future",
@@ -70188,7 +70113,6 @@
         "cachem",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -70825,7 +70749,6 @@
         "RcppEigen",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -75491,7 +75414,6 @@
         "prodlim",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -75577,7 +75499,6 @@
         "prodlim",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -75613,7 +75534,6 @@
         "lava",
         "Matrix",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -75624,20 +75544,17 @@
         "survival",
         "lava",
         "future.apply",
-        "progressr",
         "Matrix",
         "future",
         "globals"
     ],
     "lava": [
         "future.apply",
-        "progressr",
         "survival",
         "future",
         "globals",
         "Matrix"
     ],
-    "progressr": [],
     "RMySQL": [],
     "rapiclient": [
         "httr",
@@ -75734,7 +75651,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "progressr",
         "RcppAnnoy",
         "reticulate",
         "ROCR",
@@ -75891,7 +75807,6 @@
         "future",
         "future.apply",
         "Matrix",
-        "progressr",
         "RcppEigen",
         "globals"
     ],
@@ -79116,7 +79031,6 @@
         "prodlim",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -79865,7 +79779,6 @@
         "prodlim",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -81292,7 +81205,6 @@
         "lava",
         "Matrix",
         "future.apply",
-        "progressr",
         "lifecycle",
         "future",
         "globals"
@@ -82266,7 +82178,6 @@
         "prodlim",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -83188,7 +83099,6 @@
         "processx",
         "waldo",
         "future.apply",
-        "progressr",
         "rematch2",
         "future",
         "globals"
@@ -84595,7 +84505,6 @@
         "prodlim",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
@@ -85204,7 +85113,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "progressr",
         "RcppAnnoy",
         "reticulate",
         "ROCR",
@@ -85828,7 +85736,6 @@
         "plyr",
         "lava",
         "future.apply",
-        "progressr",
         "future",
         "globals"
     ],
