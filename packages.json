@@ -3120,7 +3120,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "ProteoMM": [],
     "protGear": [
         "ggpubr",
         "factoextra",
