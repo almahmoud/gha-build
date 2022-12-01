@@ -374,7 +374,6 @@
         "rstatix"
     ],
     "GeneGeneInteR": [],
-    "GeneStructureTools": [],
     "GenomicScores": [
         "AnnotationHub",
         "BiocVersion"
