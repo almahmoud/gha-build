@@ -231,7 +231,6 @@
         "mzR",
         "rvest",
         "DT",
-        "doSNOW",
         "RcppEigen",
         "smoother",
         "dplyr",
@@ -728,7 +727,6 @@
         "progress",
         "bslib",
         "jquerylib",
-        "doSNOW",
         "Rfast",
         "rvest",
         "missForest",
@@ -2879,7 +2877,6 @@
         "textshaping"
     ],
     "bayNorm": [
-        "doSNOW",
         "fitdistrplus",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -12262,7 +12259,6 @@
         "ggplot2",
         "dplyr",
         "viridis",
-        "doSNOW",
         "mixOmics",
         "RcppEigen",
         "tibble",
@@ -14920,7 +14916,6 @@
         "AnnotationDbi",
         "biomaRt",
         "doParallel",
-        "doSNOW",
         "dplyr",
         "ELMER.data",
         "ExperimentHub",
@@ -21818,7 +21813,6 @@
         "doRNG",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "doSNOW",
         "viridis",
         "gld",
         "readxl",
@@ -24200,7 +24194,6 @@
     ],
     "M3C": [
         "ggplot2",
-        "doSNOW",
         "doParallel",
         "umap",
         "mgcv",
@@ -29826,7 +29819,6 @@
     "msPurity": [
         "dplyr",
         "dbplyr",
-        "doSNOW",
         "mzR",
         "ggplot2",
         "RSQLite",
@@ -35516,7 +35508,6 @@
         "e1071",
         "pROC",
         "caret",
-        "doSNOW",
         "rCGH",
         "ggplot2",
         "recipes",
@@ -36760,7 +36751,6 @@
         "shiny",
         "ggplot2",
         "shinyWidgets",
-        "doSNOW",
         "genefilter",
         "pwrEWAS.data",
         "AnnotationDbi",
@@ -43404,7 +43394,6 @@
     ],
     "seqCNA": [
         "GLAD",
-        "doSNOW",
         "adehabitatLT",
         "adehabitatMA"
     ],
@@ -49266,7 +49255,6 @@
     ],
     "transcriptogramer": [
         "biomaRt",
-        "doSNOW",
         "ggplot2",
         "igraph",
         "progress",
@@ -52163,7 +52151,6 @@
         "pillar",
         "vctrs"
     ],
-    "doSNOW": [],
     "smoother": [
         "TTR",
         "xts"
@@ -52344,7 +52331,6 @@
         "vctrs"
     ],
     "speaq": [
-        "doSNOW",
         "Rfast",
         "ggplot2",
         "rvest",
