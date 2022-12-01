@@ -344,10 +344,7 @@
         "mia",
         "scater"
     ],
-    "miRSM": [
-        "miRspongeR"
-    ],
-    "miRspongeR": [],
+    "miRSM": [],
     "MSnID": [
         "AnnotationHub",
         "BiocVersion"
