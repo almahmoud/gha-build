@@ -23642,7 +23642,6 @@
         "progress",
         "rmarkdown"
     ],
-    "statTarget": [],
     "STdeconvolve": [
         "ggplot2",
         "scatterpie",
