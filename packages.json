@@ -3143,7 +3143,6 @@
         "DESeq2",
         "devtools"
     ],
-    "paxtoolsr": [],
     "pcaExplorer": [
         "DESeq2",
         "GOstats",
