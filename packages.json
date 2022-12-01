@@ -69033,7 +69033,6 @@
         "stringr",
         "Rdpack",
         "BiocParallel",
-        "elasticnet",
         "sparsepca",
         "origami",
         "RSpectra",
@@ -95797,7 +95796,6 @@
         "processx"
     ],
     "coro": [],
-    "elasticnet": [],
     "sparsepca": [
         "rsvd",
         "Matrix"
