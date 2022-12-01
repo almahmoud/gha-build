@@ -17242,9 +17242,7 @@
         "RSQLite",
         "KEGGREST"
     ],
-    "packFinder": [
-        "kmer"
-    ],
+    "packFinder": [],
     "padma": [
         "SummarizedExperiment",
         "FactoMineR",
@@ -29425,7 +29423,6 @@
         "KEGGREST",
         "dbplyr"
     ],
-    "kmer": [],
     "tfprobability": [
         "tensorflow",
         "keras",
