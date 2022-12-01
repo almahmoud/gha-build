@@ -2991,7 +2991,6 @@
         "lme4"
     ],
     "VariantAnnotation": [],
-    "VariantExperiment": [],
     "VariantFiltering": [
         "VariantAnnotation",
         "GenomicScores",
