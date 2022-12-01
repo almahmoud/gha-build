@@ -1086,7 +1086,6 @@
         "biomaRt"
     ],
     "ChromSCape": [
-        "kableExtra",
         "batchelor",
         "scran",
         "scater",
@@ -1887,7 +1886,6 @@
     ],
     "DiscoRhythm": [
         "ggExtra",
-        "kableExtra",
         "heatmaply"
     ],
     "distinct": [
@@ -2353,8 +2351,7 @@
     ],
     "esetVis": [],
     "evaluomeR": [
-        "MultiAssayExperiment",
-        "kableExtra"
+        "MultiAssayExperiment"
     ],
     "EventPointer": [
         "SGSeq",
@@ -3225,9 +3222,7 @@
     ],
     "HubPub": [],
     "HumanTranscriptomeCompendium": [],
-    "hypeR": [
-        "kableExtra"
-    ],
+    "hypeR": [],
     "iBBiG": [],
     "iCARE": [],
     "icetea": [
@@ -3357,9 +3352,7 @@
         "ensembldb",
         "biomaRt"
     ],
-    "InteractiveComplexHeatmap": [
-        "kableExtra"
-    ],
+    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category",
         "GSEABase",
@@ -4203,7 +4196,6 @@
     "midasHLA": [
         "MultiAssayExperiment",
         "HardyWeinberg",
-        "kableExtra",
         "mice"
     ],
     "MIGSA": [
@@ -4993,7 +4985,6 @@
         "OMICsPCAdata",
         "HelloRanges",
         "MultiAssayExperiment",
-        "kableExtra",
         "factoextra",
         "FactoMineR",
         "ggpubr",
@@ -5533,7 +5524,6 @@
         "ggpubr",
         "genefilter",
         "readr",
-        "kableExtra",
         "factoextra",
         "FactoMineR",
         "car",
@@ -6369,9 +6359,7 @@
     "schex": [
         "Seurat"
     ],
-    "scifer": [
-        "kableExtra"
-    ],
+    "scifer": [],
     "scMAGeCK": [
         "Seurat"
     ],
@@ -8030,7 +8018,6 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "kableExtra": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome"
