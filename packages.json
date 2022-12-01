@@ -18500,7 +18500,6 @@
         "cowplot",
         "biomaRt",
         "STRINGdb",
-        "yeastExpData",
         "httr",
         "AnnotationDbi",
         "progress",
@@ -32485,7 +32484,6 @@
         "fgsea",
         "ggplot2",
         "STRINGdb",
-        "yeastExpData",
         "httr",
         "AnnotationDbi",
         "progress",
@@ -51933,7 +51931,6 @@
         "vctrs",
         "pillar"
     ],
-    "yeastExpData": [],
     "matchingR": [],
     "BatchJobs": [
         "BBmisc",
