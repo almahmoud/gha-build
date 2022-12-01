@@ -13608,7 +13608,6 @@
         "interactiveDisplayBase",
         "dbplyr"
     ],
-    "polyester": [],
     "POMA": [
         "broom",
         "caret",
