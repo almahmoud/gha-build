@@ -8199,7 +8199,6 @@
         "BSgenome",
         "BiocFileCache"
     ],
-    "rgoslin": [],
     "rGREAT": [
         "GenomicFeatures",
         "GO.db",
