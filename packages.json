@@ -12728,7 +12728,6 @@
         "phyloseq",
         "Matrix",
         "reshape2",
-        "alabama",
         "cobs",
         "Biobase",
         "vegan",
@@ -53397,7 +53396,6 @@
         "blob"
     ],
     "RCM": [
-        "alabama",
         "edgeR",
         "reshape2",
         "tseries",
@@ -78470,7 +78468,6 @@
     "eulerr": [
         "RcppArmadillo"
     ],
-    "alabama": [],
     "cobs": [
         "quantreg",
         "Matrix",
