@@ -9257,7 +9257,6 @@
         "DelayedArray",
         "hms",
         "GEOmap",
-        "splancs",
         "fields",
         "interp",
         "nloptr",
@@ -9827,7 +9826,6 @@
         "ncdfFlow",
         "DelayedArray",
         "GEOmap",
-        "splancs",
         "pillar",
         "tidyselect",
         "fields",
@@ -14280,7 +14278,6 @@
         "ncdfFlow",
         "DelayedArray",
         "GEOmap",
-        "splancs",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -14315,7 +14312,6 @@
         "ncdfFlow",
         "DelayedArray",
         "GEOmap",
-        "splancs",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -14928,7 +14924,6 @@
         "future.apply"
     ],
     "GateFinder": [
-        "splancs",
         "flowFP",
         "flowViz",
         "latticeExtra",
@@ -39002,7 +38997,6 @@
         "SummarizedExperiment",
         "interp",
         "spatstat.random",
-        "splancs",
         "cowplot",
         "pheatmap",
         "ggrepel",
@@ -47441,7 +47435,6 @@
     ],
     "RFOC": [
         "GEOmap",
-        "splancs",
         "fields",
         "viridis",
         "ggplot2",
@@ -47451,7 +47444,6 @@
         "pillar"
     ],
     "GEOmap": [
-        "splancs",
         "fields",
         "viridis",
         "ggplot2",
@@ -47460,7 +47452,6 @@
         "vctrs",
         "pillar"
     ],
-    "splancs": [],
     "fields": [
         "viridis",
         "ggplot2",
@@ -50216,7 +50207,6 @@
         "interp",
         "spatstat.geom",
         "spatstat.random",
-        "splancs",
         "mgcv",
         "tibble",
         "vctrs",
