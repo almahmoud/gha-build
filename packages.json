@@ -359,7 +359,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "ChIPComp": [],
     "ChIPexoQual": [
         "biovizBase",
         "VariantAnnotation"
