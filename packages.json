@@ -1364,7 +1364,6 @@
         "rstatix",
         "car"
     ],
-    "SigsPack": [],
     "singleCellTK": [
         "AnnotationHub",
         "celldex",
