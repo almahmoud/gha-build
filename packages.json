@@ -1522,7 +1522,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "vulcan": [],
     "waddR": [],
     "wateRmelon": [
         "methylumi",
