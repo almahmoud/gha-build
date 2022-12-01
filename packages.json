@@ -1156,7 +1156,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "interactiveDisplay": [],
     "InterCellar": [
         "factoextra",
         "FactoMineR",
