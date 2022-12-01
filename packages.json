@@ -448,8 +448,7 @@
         "ipred",
         "RSQLite",
         "KEGGREST",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "annaffy": [
         "GO.db",
@@ -1183,8 +1182,7 @@
         "dbplyr",
         "hardhat",
         "ipred",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "banocc": [
         "rstan",
@@ -2284,8 +2282,7 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "breakpointR": [
         "cowplot",
@@ -3251,8 +3248,7 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "Chicago": [
         "Hmisc",
@@ -4378,8 +4374,7 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "CONFESS": [
         "contrast",
@@ -4441,7 +4436,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "lava",
         "tibble"
     ],
     "consensusSeekeR": [
@@ -5125,7 +5119,6 @@
         "prodlim",
         "broom",
         "waldo",
-        "lava",
         "rematch2"
     ],
     "CytoGLMM": [
@@ -5155,7 +5148,6 @@
         "prodlim",
         "testthat",
         "broom",
-        "lava",
         "waldo",
         "rematch2"
     ],
@@ -5286,7 +5278,6 @@
         "prodlim",
         "testthat",
         "broom",
-        "lava",
         "waldo",
         "rematch2"
     ],
@@ -6288,7 +6279,6 @@
         "car",
         "multcomp",
         "tibble",
-        "lava",
         "cellranger",
         "progress",
         "pbkrtest",
@@ -7426,7 +7416,6 @@
         "AnnotationDbi",
         "RSQLite",
         "biomaRt",
-        "lava",
         "GenomicAlignments",
         "KEGGREST",
         "progress",
@@ -8121,8 +8110,7 @@
         "lexicon",
         "progress",
         "prodlim",
-        "syuzhet",
-        "lava"
+        "syuzhet"
     ],
     "FoldGO": [
         "topGO",
@@ -8350,8 +8338,7 @@
         "rematch2",
         "dbplyr",
         "prodlim",
-        "broom",
-        "lava"
+        "broom"
     ],
     "GateFinder": [
         "flowFP"
@@ -8555,7 +8542,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "lava",
         "tibble"
     ],
     "GeneGA": [],
@@ -9811,8 +9797,7 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "gwascat": [
         "GenomicFeatures",
@@ -10176,8 +10161,7 @@
         "hardhat",
         "ipred",
         "progress",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "HTSeqGenie": [
         "gmapR",
@@ -11277,8 +11261,7 @@
         "tidyr",
         "RSQLite",
         "KEGGREST",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "LACE": [
         "sortable",
@@ -11620,8 +11603,7 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "Maaslin2": [
         "car",
@@ -11833,8 +11815,7 @@
         "hardhat",
         "ipred",
         "rmarkdown",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "MAIT": [
         "CAMERA",
@@ -11864,7 +11845,6 @@
         "styler",
         "labelled",
         "haven",
-        "lava",
         "forcats",
         "readr",
         "vroom",
@@ -11891,8 +11871,7 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "marr": [
         "SummarizedExperiment",
@@ -12355,8 +12334,7 @@
         "tibble",
         "hardhat",
         "ipred",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "MetaboAnnotation": [
         "SummarizedExperiment",
@@ -12532,8 +12510,7 @@
         "viridis",
         "tidygraph",
         "tidytree",
-        "treeio",
-        "lava"
+        "treeio"
     ],
     "metapone": [
         "fields",
@@ -12583,8 +12560,7 @@
         "dplyr",
         "BSgenome",
         "tibble",
-        "tidyr",
-        "lava"
+        "tidyr"
     ],
     "metavizr": [
         "epivizr",
@@ -13216,7 +13192,6 @@
         "ggrastr",
         "ggrepel",
         "waldo",
-        "lava",
         "rematch2"
     ],
     "MicrobiomeProfiler": [
@@ -13601,7 +13576,6 @@
         "pbkrtest",
         "prodlim",
         "testthat",
-        "lava",
         "waldo"
     ],
     "miRspongeR": [
@@ -13681,7 +13655,6 @@
         "pbkrtest",
         "prodlim",
         "testthat",
-        "lava",
         "waldo"
     ],
     "mirTarRnaSeq": [
@@ -13745,8 +13718,7 @@
         "hardhat",
         "ipred",
         "progress",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "mitch": [
         "GGally",
@@ -13824,8 +13796,7 @@
         "rematch2",
         "RSQLite",
         "KEGGREST",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "MMDiff2": [
         "Rsamtools",
@@ -14420,7 +14391,6 @@
         "tidyr",
         "prodlim",
         "testthat",
-        "lava",
         "waldo",
         "rematch2"
     ],
@@ -14638,7 +14608,6 @@
         "cowplot",
         "prodlim",
         "waldo",
-        "lava",
         "rematch2"
     ],
     "mumosa": [
@@ -16348,7 +16317,6 @@
         "ggsci",
         "ggsignif",
         "rstatix",
-        "lava",
         "hardhat",
         "RSQLite",
         "KEGGREST",
@@ -16670,8 +16638,7 @@
         "hardhat",
         "ipred",
         "progress",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "piano": [
         "fgsea",
@@ -16933,8 +16900,7 @@
         "ipred",
         "RSQLite",
         "KEGGREST",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "PoTRA": [
         "org.Hs.eg.db",
@@ -17028,8 +16994,7 @@
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
-        "SummarizedExperiment",
-        "lava"
+        "SummarizedExperiment"
     ],
     "PREDA": [
         "annotate",
@@ -17272,8 +17237,7 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "pRolocGUI": [
         "pRoloc",
@@ -17311,8 +17275,7 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "PROMISE": [
         "GSEABase",
@@ -18452,8 +18415,7 @@
         "ipred",
         "progress",
         "biomaRt",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "Repitools": [
         "Rsamtools",
@@ -18963,8 +18925,7 @@
         "vroom",
         "hardhat",
         "ipred",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "Rmagpie": [],
     "RMassBank": [
@@ -19857,8 +19818,7 @@
         "tidyr",
         "hardhat",
         "ipred",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "SCANVIS": [
         "rtracklayer",
@@ -20110,8 +20070,7 @@
         "tidyr",
         "RSQLite",
         "KEGGREST",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "schex": [
         "SingleCellExperiment",
@@ -21106,7 +21065,6 @@
         "dbplyr",
         "pbkrtest",
         "lme4",
-        "lava",
         "nloptr",
         "testthat",
         "waldo",
@@ -22023,7 +21981,6 @@
         "pbkrtest",
         "prodlim",
         "testthat",
-        "lava",
         "waldo"
     ],
     "SpotClean": [
@@ -22412,8 +22369,7 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "subSeq": [
         "dplyr",
@@ -22453,8 +22409,7 @@
         "tibble",
         "hardhat",
         "ipred",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "supraHex": [
         "readr",
@@ -22484,8 +22439,7 @@
     ],
     "survcomp": [
         "prodlim",
-        "ipred",
-        "lava"
+        "ipred"
     ],
     "survtype": [
         "SummarizedExperiment",
@@ -22954,7 +22908,6 @@
         "car",
         "pbkrtest",
         "lme4",
-        "lava",
         "nloptr",
         "testthat",
         "waldo",
@@ -23340,8 +23293,7 @@
         "BiocFileCache",
         "prodlim",
         "vroom",
-        "dbplyr",
-        "lava"
+        "dbplyr"
     ],
     "TNBC.CMS": [
         "SummarizedExperiment",
@@ -23536,8 +23488,7 @@
         "ipred",
         "tidyr",
         "dbplyr",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "transformGamPoi": [
         "glmGamPoi",
@@ -24975,8 +24926,7 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "plotROC": [
         "ggplot2",
@@ -24994,20 +24944,15 @@
         "ipred",
         "tibble",
         "tidyr",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "hardhat": [
         "tibble"
     ],
     "ipred": [
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
-    "prodlim": [
-        "lava"
-    ],
-    "lava": [],
+    "prodlim": [],
     "miniUI": [
         "shiny"
     ],
@@ -26017,8 +25962,7 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "BSgenome.Mmusculus.UCSC.mm9": [
         "BSgenome",
@@ -26252,8 +26196,7 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "spatstat": [
         "spatstat.explore",
@@ -26667,8 +26610,7 @@
     "RecordLinkage": [
         "RSQLite",
         "ipred",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "NHPoisson": [
         "car",
@@ -26918,8 +26860,7 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "glmmTMB": [
         "lme4",
@@ -27218,7 +27159,6 @@
         "ipred",
         "prodlim",
         "testthat",
-        "lava",
         "waldo",
         "rematch2"
     ],
@@ -27633,8 +27573,7 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "ggprism": [
         "ggplot2",
@@ -28002,8 +27941,7 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "prodlim",
-        "lava"
+        "prodlim"
     ],
     "naniar": [
         "dplyr",
