@@ -446,7 +446,6 @@
     ],
     "dasper": [
         "ggpubr",
-        "megadepth",
         "rstatix",
         "car",
         "pbkrtest"
@@ -1016,7 +1015,6 @@
         "car",
         "pbkrtest"
     ],
-    "megadepth": [],
     "meshes": [
         "AnnotationHub",
         "BiocVersion"
@@ -1283,7 +1281,6 @@
         "dasper",
         "derfinder",
         "ggpubr",
-        "megadepth",
         "GenomicFiles",
         "rstatix",
         "car",
