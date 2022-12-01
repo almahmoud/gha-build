@@ -27531,7 +27531,6 @@
         "lmtest",
         "dbplyr",
         "Biostrings",
-        "inum",
         "blob"
     ],
     "miRmine": [
@@ -34057,7 +34056,6 @@
         "mgcv",
         "scales",
         "survival",
-        "inum",
         "ggraph",
         "reactome.db",
         "igraph",
@@ -56141,19 +56139,15 @@
         "mboost",
         "survival",
         "RcppEigen",
-        "partykit",
-        "inum"
+        "partykit"
     ],
     "mboost": [
         "survival",
-        "partykit",
-        "inum"
+        "partykit"
     ],
     "partykit": [
-        "survival",
-        "inum"
+        "survival"
     ],
-    "inum": [],
     "miRBaseVersions.db": [
         "AnnotationDbi",
         "RSQLite",
@@ -56817,8 +56811,7 @@
     "C50": [
         "partykit",
         "Cubist",
-        "survival",
-        "inum"
+        "survival"
     ],
     "Cubist": [],
     "tidybayes": [
