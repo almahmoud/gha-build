@@ -247,7 +247,6 @@
     "BgeeCall": [
         "GenomicFeatures"
     ],
-    "BicARE": [],
     "bigmelon": [
         "wateRmelon",
         "minfi",
@@ -2542,7 +2541,6 @@
         "GOstats"
     ],
     "miRSM": [
-        "BicARE",
         "miRspongeR",
         "SPONGE",
         "clusterProfiler",
