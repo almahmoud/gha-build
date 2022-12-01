@@ -992,7 +992,6 @@
         "pbkrtest"
     ],
     "cytomapper": [],
-    "dada2": [],
     "dagLogo": [
         "motifStack",
         "TFBSTools"
@@ -3482,9 +3481,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "Rbec": [
-        "dada2"
-    ],
+    "Rbec": [],
     "RCAS": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicFeatures",
