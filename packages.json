@@ -18905,7 +18905,6 @@
         "survcomp",
         "genefu",
         "ggplot2",
-        "switchBox",
         "verification",
         "recipes",
         "bench",
@@ -26119,7 +26118,6 @@
         "Biostrings"
     ],
     "SwathXtend": [],
-    "switchBox": [],
     "switchde": [
         "SingleCellExperiment",
         "SummarizedExperiment",
