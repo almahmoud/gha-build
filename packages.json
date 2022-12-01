@@ -363,7 +363,6 @@
         "Hmisc",
         "VariantAnnotation"
     ],
-    "AssessORF": [],
     "ASSIGN": [
         "sva",
         "genefilter",
