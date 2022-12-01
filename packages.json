@@ -15491,7 +15491,6 @@
     "MANOR": [],
     "mAPKL": [
         "multtest",
-        "clusterSim",
         "AnnotationDbi",
         "reactome.db",
         "RSQLite",
@@ -15677,7 +15676,6 @@
     ],
     "mbOmic": [
         "WGCNA",
-        "clusterSim",
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
@@ -35318,7 +35316,6 @@
         "vroom",
         "progress"
     ],
-    "clusterSim": [],
     "PairedData": [
         "gld",
         "ggplot2",
