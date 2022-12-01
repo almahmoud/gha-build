@@ -5086,8 +5086,7 @@
     "PoTRA": [],
     "POWSC": [],
     "ppcseq": [
-        "tidybayes",
-        "posterior"
+        "tidybayes"
     ],
     "PPInfer": [
         "biomaRt"
@@ -7918,10 +7917,7 @@
         "keras"
     ],
     "verification": [],
-    "tidybayes": [
-        "posterior"
-    ],
-    "posterior": [],
+    "tidybayes": [],
     "phastCons100way.UCSC.hg38": [
         "GenomicScores",
         "BSgenome",
