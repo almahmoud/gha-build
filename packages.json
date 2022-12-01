@@ -975,7 +975,6 @@
         "lme4",
         "nloptr"
     ],
-    "dpeak": [],
     "drugTargetInteractions": [
         "ensembldb"
     ],
