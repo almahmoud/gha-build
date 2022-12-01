@@ -5057,7 +5057,6 @@
         "GGally",
         "mrfDepth",
         "cowplot",
-        "flowViz",
         "car",
         "RFOC",
         "flowWorkspace",
@@ -5191,8 +5190,7 @@
         "dplyr",
         "ggcyto",
         "tibble",
-        "ggplot2",
-        "flowViz"
+        "ggplot2"
     ],
     "dada2": [
         "ggplot2",
@@ -5393,7 +5391,6 @@
     "ddPCRclust": [
         "ggplot2",
         "flowDensity",
-        "flowViz",
         "car",
         "RFOC",
         "flowWorkspace",
@@ -7965,8 +7962,7 @@
         "tibble"
     ],
     "flowBin": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "flowcatchR": [
         "plotly",
@@ -7985,7 +7981,6 @@
     ],
     "flowCut": [
         "flowDensity",
-        "flowViz",
         "car",
         "RFOC",
         "flowWorkspace",
@@ -8006,7 +8001,6 @@
     ],
     "flowCyBar": [],
     "flowDensity": [
-        "flowViz",
         "car",
         "RFOC",
         "flowWorkspace",
@@ -8025,9 +8019,7 @@
         "waldo",
         "rematch2"
     ],
-    "flowFP": [
-        "flowViz"
-    ],
+    "flowFP": [],
     "flowGraph": [
         "ggiraph",
         "ggrepel",
@@ -8080,7 +8072,6 @@
     ],
     "flowStats": [
         "flowWorkspace",
-        "flowViz",
         "fda",
         "fds",
         "ggplot2",
@@ -8093,12 +8084,8 @@
         "dplyr",
         "tibble"
     ],
-    "flowTrans": [
-        "flowViz"
-    ],
-    "flowViz": [],
+    "flowTrans": [],
     "flowVS": [
-        "flowViz",
         "flowStats",
         "flowWorkspace",
         "fda",
@@ -8373,8 +8360,7 @@
         "lava"
     ],
     "GateFinder": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "GBScleanR": [
         "SeqArray",
@@ -15852,7 +15838,6 @@
         "KEGGREST"
     ],
     "openCyto": [
-        "flowViz",
         "flowWorkspace",
         "ggplot2",
         "dplyr",
