@@ -42055,7 +42055,6 @@
         "hms",
         "progress",
         "colourpicker",
-        "rgdal",
         "shiny",
         "shinyjs",
         "dbplyr",
@@ -54292,7 +54291,6 @@
     ],
     "xROI": [
         "colourpicker",
-        "rgdal",
         "shiny",
         "shinyjs",
         "ggplot2",
@@ -54309,7 +54307,6 @@
         "pillar"
     ],
     "elsa": [],
-    "rgdal": [],
     "miRNAtap.db": [
         "miRNAtap",
         "AnnotationDbi",
