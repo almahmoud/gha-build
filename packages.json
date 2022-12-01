@@ -3867,7 +3867,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "recount3": [],
     "recountmethylation": [
         "minfi",
         "IlluminaHumanMethylation450kmanifest",
