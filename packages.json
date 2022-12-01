@@ -3849,7 +3849,6 @@
         "ensembldb",
         "ggtree",
         "GSVA",
-        "GSVAdata",
         "scater",
         "scMerge",
         "SoupX",
@@ -4843,7 +4842,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "GSVAdata": [],
     "SoupX": [],
     "scRNAseq": [
         "ExperimentHub",
