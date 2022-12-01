@@ -1953,9 +1953,7 @@
         "wiggleplotr",
         "drawProteins"
     ],
-    "FamAgg": [
-        "gap"
-    ],
+    "FamAgg": [],
     "famat": [
         "reactome.db",
         "clusterProfiler",
@@ -6404,7 +6402,6 @@
         "BiocVersion"
     ],
     "homologene": [],
-    "gap": [],
     "fda": [
         "fds"
     ],
