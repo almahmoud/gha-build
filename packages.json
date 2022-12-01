@@ -7079,7 +7079,6 @@
         "WGCNA",
         "biomaRt"
     ],
-    "seqArchR": [],
     "seqCAT": [
         "VariantAnnotation",
         "rtracklayer",
