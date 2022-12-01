@@ -1336,8 +1336,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "BiocSingular",
-        "scuttle",
-        "ResidualMatrix"
+        "scuttle"
     ],
     "BatchQC": [
         "rmarkdown",
@@ -3739,7 +3738,6 @@
         "forcats",
         "BiocSingular",
         "scuttle",
-        "ResidualMatrix",
         "miniUI",
         "tidyselect",
         "ggfittext",
@@ -15532,7 +15530,6 @@
         "scuttle",
         "scran",
         "batchelor",
-        "ResidualMatrix",
         "bluster"
     ],
     "MungeSumstats": [
@@ -19615,7 +19612,6 @@
         "Rsamtools",
         "seqbias"
     ],
-    "ResidualMatrix": [],
     "RESOLVE": [
         "NMF",
         "BSgenome",
@@ -22505,7 +22501,6 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "BiocSingular",
-        "ResidualMatrix",
         "multipanelfigure",
         "miniUI",
         "geneplotter",
