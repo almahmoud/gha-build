@@ -511,10 +511,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "Maaslin2": [],
-    "Macarron": [
-        "Maaslin2"
-    ],
+    "Macarron": [],
     "MACSr": [
         "ExperimentHub",
         "AnnotationHub",
@@ -606,9 +603,7 @@
         "rstatix"
     ],
     "missMethyl": [],
-    "MMUPHin": [
-        "Maaslin2"
-    ],
+    "MMUPHin": [],
     "motifbreakR": [],
     "MQmetrics": [
         "ggpubr",
