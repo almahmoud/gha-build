@@ -61174,7 +61174,6 @@
     ],
     "RareVariantVis": [
         "VariantAnnotation",
-        "googleVis",
         "GenomicFeatures",
         "S4Vectors",
         "IRanges",
@@ -68901,7 +68900,6 @@
         "S4Vectors",
         "dplyr",
         "reshape2",
-        "googleVis",
         "ggplot2",
         "e1071",
         "RcppArmadillo",
@@ -75067,7 +75065,6 @@
         "plyr",
         "stringr",
         "BSgenome.Mmusculus.UCSC.mm9",
-        "googleVis",
         "AnnotationDbi",
         "progress",
         "httr",
@@ -95726,7 +95723,6 @@
     "ExtDist": [
         "optimx"
     ],
-    "googleVis": [],
     "phastCons100way.UCSC.hg19": [
         "GenomicScores",
         "S4Vectors",
