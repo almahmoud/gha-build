@@ -683,7 +683,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "data.table",
-        "OrgMassSpecR",
         "foreach",
         "mzR",
         "ade4",
@@ -151137,7 +151136,6 @@
         "fs",
         "zlibbioc"
     ],
-    "OrgMassSpecR": [],
     "ade4": [
         "MASS",
         "sp",
