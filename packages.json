@@ -17759,7 +17759,6 @@
         "AnnotationDbi",
         "annotate"
     ],
-    "TileDBArray": [],
     "tilingArray": [
         "vsn",
         "genefilter",
