@@ -2286,7 +2286,6 @@
         "OrganismDbi",
         "ensembldb"
     ],
-    "flowcatchR": [],
     "flowCL": [
         "SPARQL"
     ],
