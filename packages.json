@@ -10,13 +10,11 @@
         "BiocVersion"
     ],
     "affycoretools": [
-        "ReportingTools",
-        "ggbio"
+        "ReportingTools"
     ],
     "AgiMicroRna": [
         "affycoretools",
-        "ReportingTools",
-        "ggbio"
+        "ReportingTools"
     ],
     "airpart": [
         "scater"
@@ -130,27 +128,20 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "BOBaFIT": [
-        "ggbio"
-    ],
+    "BOBaFIT": [],
     "brainflowprobes": [
         "derfinder",
         "derfinderPlot",
         "GenomicState",
-        "ggbio",
         "AnnotationHub",
         "BiocVersion"
     ],
-    "CAFE": [
-        "ggbio"
-    ],
+    "CAFE": [],
     "CAGEfightR": [
         "Gviz",
         "GenomicInteractions"
     ],
-    "cageminer": [
-        "ggbio"
-    ],
+    "cageminer": [],
     "CancerInSilico": [],
     "CATALYST": [
         "drc",
@@ -341,8 +332,7 @@
     ],
     "derfinder": [],
     "derfinderPlot": [
-        "derfinder",
-        "ggbio"
+        "derfinder"
     ],
     "destiny": [
         "VIM"
@@ -464,8 +454,7 @@
         "methylumi"
     ],
     "FLAMES": [
-        "scater",
-        "ggbio"
+        "scater"
     ],
     "flowCL": [
         "SPARQL"
@@ -513,9 +502,7 @@
     "GenomicInteractions": [
         "Gviz"
     ],
-    "GenomicOZone": [
-        "ggbio"
-    ],
+    "GenomicOZone": [],
     "GenomicScores": [
         "AnnotationHub",
         "BiocVersion"
@@ -536,7 +523,6 @@
         "rstatix"
     ],
     "GEWIST": [],
-    "ggbio": [],
     "glmSparseNet": [
         "survminer",
         "ggpubr",
@@ -587,9 +573,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "intansv": [
-        "ggbio"
-    ],
+    "intansv": [],
     "InterCellar": [
         "factoextra",
         "FactoMineR",
@@ -799,9 +783,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "msgbsR": [
-        "ggbio"
-    ],
+    "msgbsR": [],
     "MSnID": [
         "AnnotationHub",
         "BiocVersion"
@@ -1001,9 +983,7 @@
     "qrqc": [],
     "quantro": [],
     "QuasR": [],
-    "R3CPET": [
-        "ggbio"
-    ],
+    "R3CPET": [],
     "RareVariantVis": [
         "phastCons100way.UCSC.hg19",
         "GenomicScores",
@@ -1028,9 +1008,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "ReportingTools": [
-        "ggbio"
-    ],
+    "ReportingTools": [],
     "restfulSE": [
         "ExperimentHub",
         "AnnotationHub",
@@ -1044,9 +1022,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "RiboProfiling": [
-        "ggbio"
-    ],
+    "RiboProfiling": [],
     "ribosomeProfilingQC": [],
     "rifi": [],
     "RIPAT": [
@@ -1141,9 +1117,7 @@
     "scRecover": [
         "Rmagic"
     ],
-    "scruff": [
-        "ggbio"
-    ],
+    "scruff": [],
     "scTensor": [
         "AnnotationHub",
         "BiocVersion"
@@ -1209,9 +1183,7 @@
     "sojourner": [
         "sampSurf"
     ],
-    "SomaticSignatures": [
-        "ggbio"
-    ],
+    "SomaticSignatures": [],
     "Spaniel": [
         "scater"
     ],
@@ -1356,8 +1328,7 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
     "YAPSA": [
-        "SomaticSignatures",
-        "ggbio"
+        "SomaticSignatures"
     ],
     "yarn": [
         "quantro"
