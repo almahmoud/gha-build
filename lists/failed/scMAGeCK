@@ -1,0 +1,24 @@
++ '[' 0 = 0 ']'
+++ pwd
++ Rscript -e 'p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); install.packages('\''/__w/gha-build/gha-build/scMAGeCK'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE, type = '\''source'\'', repos = NULL); if('\''scMAGeCK'\'' %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+Installing package into ‘/__w/gha-build/gha-build/built’
+(as ‘lib’ is unspecified)
+* installing *source* package ‘scMAGeCK’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Error: package or namespace load failed for ‘scMAGeCK’ in library.dynam(lib, package, package.lib):
+ shared object ‘scMAGeCK.so’ not found
+Error: loading failed
+Execution halted
+ERROR: loading failed
+* removing ‘/__w/gha-build/gha-build/built/scMAGeCK’
+Warning message:
+In install.packages("/__w/gha-build/gha-build/scMAGeCK", INSTALL_opts = "--build",  :
+  installation of package ‘/__w/gha-build/gha-build/scMAGeCK’ had non-zero exit status
