@@ -2331,15 +2331,12 @@
         "datamods",
         "rio"
     ],
-    "iSEEhex": [],
     "iSEEhub": [
         "ExperimentHub",
         "AnnotationHub",
         "BiocVersion"
     ],
-    "iSEEu": [
-        "iSEEhex"
-    ],
+    "iSEEu": [],
     "isobar": [],
     "IsoCorrectoR": [],
     "IsoCorrectoRGUI": [
