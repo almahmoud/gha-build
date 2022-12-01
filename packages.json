@@ -43018,7 +43018,6 @@
         "pillar",
         "dplyr"
     ],
-    "stepNorm": [],
     "stJoincount": [
         "dplyr",
         "spdep",
