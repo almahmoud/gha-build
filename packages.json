@@ -1141,7 +1141,6 @@
         "httpuv",
         "bslib",
         "spatstat.random",
-        "spatstat.sparse",
         "dqrng",
         "Biostrings",
         "blob"
@@ -2469,7 +2468,6 @@
         "httpuv",
         "bslib",
         "spatstat.random",
-        "spatstat.sparse",
         "tidytree",
         "dqrng",
         "NADA",
@@ -4950,7 +4948,6 @@
         "httpuv",
         "bslib",
         "spatstat.random",
-        "spatstat.sparse",
         "pillar",
         "dqrng",
         "tidyselect",
@@ -7414,7 +7411,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "spatstat.sparse",
         "dqrng",
         "prodlim",
         "textshaping",
@@ -10197,7 +10193,6 @@
         "httpuv",
         "bslib",
         "spatstat.random",
-        "spatstat.sparse",
         "pillar",
         "tidyselect"
     ],
@@ -17497,7 +17492,6 @@
         "httpuv",
         "bslib",
         "spatstat.random",
-        "spatstat.sparse",
         "dqrng"
     ],
     "infinityFlow": [
@@ -18011,7 +18005,6 @@
         "httpuv",
         "bslib",
         "spatstat.random",
-        "spatstat.sparse",
         "ggfun",
         "ggplotify",
         "pbkrtest",
@@ -18892,7 +18885,6 @@
         "DropletUtils",
         "BiocFileCache",
         "spatstat.random",
-        "spatstat.sparse",
         "lmerTest",
         "lme4",
         "scam",
@@ -24731,7 +24723,6 @@
         "httpuv",
         "bslib",
         "spatstat.random",
-        "spatstat.sparse",
         "pillar",
         "dqrng",
         "tidyselect"
@@ -27578,7 +27569,6 @@
         "httpuv",
         "bslib",
         "spatstat.random",
-        "spatstat.sparse",
         "textshaping"
     ],
     "pipeFrame": [
@@ -32465,7 +32455,6 @@
         "httpuv",
         "bslib",
         "spatstat.random",
-        "spatstat.sparse",
         "tidyselect",
         "pillar",
         "dqrng"
@@ -32609,7 +32598,6 @@
         "httpuv",
         "bslib",
         "spatstat.random",
-        "spatstat.sparse",
         "dqrng",
         "prodlim",
         "Biostrings",
@@ -32741,7 +32729,6 @@
         "httpuv",
         "bslib",
         "spatstat.random",
-        "spatstat.sparse",
         "pillar",
         "dqrng",
         "RSQLite",
@@ -32785,7 +32772,6 @@
         "httpuv",
         "bslib",
         "spatstat.random",
-        "spatstat.sparse",
         "dqrng"
     ],
     "scCB2": [
@@ -32828,7 +32814,6 @@
         "httpuv",
         "bslib",
         "spatstat.random",
-        "spatstat.sparse",
         "pillar",
         "tidyselect"
     ],
@@ -32928,7 +32913,6 @@
         "httpuv",
         "bslib",
         "spatstat.random",
-        "spatstat.sparse",
         "pillar",
         "dqrng",
         "tidyselect"
@@ -33117,7 +33101,6 @@
         "tidyr",
         "classInt",
         "spatstat.random",
-        "spatstat.sparse",
         "dqrng"
     ],
     "scHOT": [
@@ -33186,7 +33169,6 @@
         "httpuv",
         "bslib",
         "spatstat.random",
-        "spatstat.sparse",
         "pillar",
         "dqrng",
         "tidyselect"
@@ -33731,7 +33713,6 @@
         "treeio",
         "classInt",
         "spatstat.random",
-        "spatstat.sparse",
         "dqrng"
     ],
     "scTGIF": [
@@ -33790,7 +33771,6 @@
         "blob",
         "classInt",
         "spatstat.random",
-        "spatstat.sparse",
         "dqrng"
     ],
     "scTHI": [
@@ -33868,7 +33848,6 @@
         "tidyr",
         "bslib",
         "spatstat.random",
-        "spatstat.sparse",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -35113,7 +35092,6 @@
         "blob",
         "GenomicAlignments",
         "spatstat.random",
-        "spatstat.sparse",
         "sn",
         "latticeExtra",
         "htmlTable",
@@ -35611,7 +35589,6 @@
         "ragg",
         "tidyr",
         "spatstat.random",
-        "spatstat.sparse",
         "textshaping"
     ],
     "sparrow": [
@@ -36014,7 +35991,6 @@
         "tidyr",
         "DropletUtils",
         "BiocFileCache",
-        "spatstat.sparse",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -36065,7 +36041,6 @@
         "DropletUtils",
         "BiocFileCache",
         "spatstat.random",
-        "spatstat.sparse",
         "GenomeInfoDb",
         "dbplyr",
         "RSQLite",
@@ -36400,7 +36375,6 @@
         "httpuv",
         "bslib",
         "spatstat.random",
-        "spatstat.sparse",
         "blob"
     ],
     "SPOTlight": [
@@ -36807,7 +36781,6 @@
         "GenomicRanges",
         "DelayedArray",
         "spatstat.random",
-        "spatstat.sparse",
         "broom",
         "dbplyr",
         "dtplyr",
@@ -36902,7 +36875,6 @@
         "httpuv",
         "bslib",
         "spatstat.random",
-        "spatstat.sparse",
         "blob"
     ],
     "strandCheckR": [
@@ -41355,7 +41327,6 @@
         "httpuv",
         "bslib",
         "spatstat.random",
-        "spatstat.sparse",
         "pillar",
         "dqrng",
         "tidyselect"
@@ -41410,14 +41381,12 @@
     ],
     "spatstat.explore": [
         "spatstat.geom",
-        "spatstat.random",
-        "spatstat.sparse"
+        "spatstat.random"
     ],
     "spatstat.geom": [],
     "spatstat.random": [
         "spatstat.geom"
     ],
-    "spatstat.sparse": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
         "GenomeInfoDb",
@@ -43415,7 +43384,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "spatstat.sparse",
         "prodlim",
         "lava",
         "future.apply"
@@ -43425,22 +43393,19 @@
         "spatstat.random",
         "spatstat.explore",
         "spatstat.model",
-        "spatstat.linnet",
-        "spatstat.sparse"
+        "spatstat.linnet"
     ],
     "transport": [],
     "spatstat.model": [
         "spatstat.geom",
         "spatstat.random",
-        "spatstat.explore",
-        "spatstat.sparse"
+        "spatstat.explore"
     ],
     "spatstat.linnet": [
         "spatstat.geom",
         "spatstat.random",
         "spatstat.explore",
-        "spatstat.model",
-        "spatstat.sparse"
+        "spatstat.model"
     ],
     "contrast": [
         "rms",
@@ -46007,7 +45972,6 @@
         "httpuv",
         "bslib",
         "spatstat.random",
-        "spatstat.sparse",
         "pillar",
         "dqrng",
         "tidyselect"
