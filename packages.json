@@ -29011,7 +29011,6 @@
         "pillar",
         "ggplot2",
         "tseries",
-        "urca",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -47042,14 +47041,12 @@
     "forecast": [
         "ggplot2",
         "tseries",
-        "urca",
         "mgcv",
         "tibble",
         "quantmod",
         "TTR",
         "pillar"
     ],
-    "urca": [],
     "rhandsontable": [],
     "EnsDb.Mmusculus.v79": [
         "ensembldb",
