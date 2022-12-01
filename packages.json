@@ -6554,9 +6554,7 @@
         "biocthis",
         "tidytext"
     ],
-    "HumanTranscriptomeCompendium": [
-        "ssrch"
-    ],
+    "HumanTranscriptomeCompendium": [],
     "hypeR": [
         "ggforce",
         "msigdbr",
@@ -14200,7 +14198,6 @@
         "haven",
         "readr"
     ],
-    "ssrch": [],
     "ssviz": [],
     "stageR": [],
     "STAN": [
