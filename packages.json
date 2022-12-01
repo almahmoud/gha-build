@@ -55858,7 +55858,6 @@
     ],
     "peco": [
         "circular",
-        "conicfit",
         "doParallel",
         "foreach",
         "genlasso",
@@ -95369,7 +95368,6 @@
         "R.utils"
     ],
     "circular": [],
-    "conicfit": [],
     "genlasso": [
         "Matrix",
         "igraph"
