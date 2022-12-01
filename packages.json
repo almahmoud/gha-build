@@ -483,7 +483,6 @@
         "car",
         "pbkrtest"
     ],
-    "epialleleR": [],
     "EpiCompare": [
         "AnnotationHub",
         "BiocVersion"
