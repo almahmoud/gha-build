@@ -11454,9 +11454,7 @@
         "cachem",
         "askpass"
     ],
-    "bridge": [
-        "rama"
-    ],
+    "bridge": [],
     "BridgeDbR": [
         "rJava"
     ],
@@ -85590,7 +85588,6 @@
         "survival",
         "Matrix"
     ],
-    "rama": [],
     "ramr": [
         "GenomicRanges",
         "doParallel",
