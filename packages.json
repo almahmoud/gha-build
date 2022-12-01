@@ -311,7 +311,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "HiCDCPlus": [],
     "HiCDOC": [],
     "HiContacts": [
         "HiContactsData",
