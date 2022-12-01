@@ -32182,7 +32182,6 @@
         "SummarizedExperiment",
         "GenomicRanges"
     ],
-    "TurboNorm": [],
     "tweeDEseq": [
         "cqn",
         "quantreg"
