@@ -290,7 +290,6 @@
         "DOSE",
         "clusterProfiler",
         "ReactomePA",
-        "DiagrammeR",
         "enrichplot",
         "car",
         "ggraph",
@@ -1112,7 +1111,6 @@
     "DeepPINCS": [
         "ttgsea",
         "textstem",
-        "DiagrammeR",
         "lexicon",
         "textclean"
     ],
@@ -1834,7 +1832,6 @@
         "DeepPINCS",
         "ttgsea",
         "textstem",
-        "DiagrammeR",
         "lexicon",
         "textclean"
     ],
@@ -1924,9 +1921,7 @@
     "gmoviz": [
         "GenomicFeatures"
     ],
-    "GNET2": [
-        "DiagrammeR"
-    ],
+    "GNET2": [],
     "GOexpress": [],
     "GOpro": [],
     "goseq": [
@@ -3640,12 +3635,9 @@
         "AUCell"
     ],
     "Rcpi": [],
-    "Rcwl": [
-        "DiagrammeR"
-    ],
+    "Rcwl": [],
     "RcwlPipelines": [
-        "Rcwl",
-        "DiagrammeR"
+        "Rcwl"
     ],
     "ReactomePA": [
         "DOSE",
@@ -4663,7 +4655,6 @@
     "tRNAscanImport": [],
     "ttgsea": [
         "textstem",
-        "DiagrammeR",
         "lexicon",
         "textclean"
     ],
@@ -4714,7 +4705,6 @@
     "VAExprs": [
         "scater",
         "DeepPINCS",
-        "DiagrammeR",
         "ttgsea",
         "textstem",
         "lexicon",
@@ -4763,9 +4753,7 @@
     "vidger": [
         "DESeq2"
     ],
-    "ViSEAGO": [
-        "DiagrammeR"
-    ],
+    "ViSEAGO": [],
     "vissE": [
         "msigdb",
         "textstem",
@@ -4967,7 +4955,6 @@
         "lme4",
         "nloptr"
     ],
-    "DiagrammeR": [],
     "ggraph": [],
     "synaptome.db": [
         "synaptome.data",
