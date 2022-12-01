@@ -795,7 +795,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "FRGEpistasis": [],
     "FunChIP": [],
     "funtooNorm": [
         "minfi",
