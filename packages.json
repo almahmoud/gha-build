@@ -732,7 +732,6 @@
         "BiocVersion"
     ],
     "recount": [],
-    "recountmethylation": [],
     "regionReport": [],
     "regutools": [
         "AnnotationHub",
