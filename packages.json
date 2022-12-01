@@ -420,9 +420,7 @@
     "CiteFuse": [
         "propr"
     ],
-    "clipper": [
-        "qpgraph"
-    ],
+    "clipper": [],
     "clusterProfiler": [],
     "CNORfuzzy": [],
     "CNVfilteR": [
@@ -2060,7 +2058,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "qpgraph": [],
     "qrqc": [
         "biovizBase",
         "VariantAnnotation"
