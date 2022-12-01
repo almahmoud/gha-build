@@ -942,7 +942,6 @@
         "ropls",
         "SummarizedExperiment",
         "tibble",
-        "ptw",
         "plotly",
         "MultiAssayExperiment",
         "MultiDataSet",
@@ -19082,7 +19081,6 @@
     ],
     "pengls": [],
     "PepsNMR": [
-        "ptw",
         "ggplot2",
         "tibble"
     ],
@@ -29346,7 +29344,6 @@
         "ggplot2",
         "tibble"
     ],
-    "ptw": [],
     "DRaWR": [],
     "mGSZ": [],
     "ggfortify": [
