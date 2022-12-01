@@ -428,7 +428,6 @@
     "DAMEfinder": [],
     "DaMiRseq": [
         "FactoMineR",
-        "arm",
         "car",
         "pbkrtest"
     ],
@@ -477,9 +476,7 @@
     "distinct": [
         "scater"
     ],
-    "DMCFB": [
-        "arm"
-    ],
+    "DMCFB": [],
     "DMRcate": [
         "ExperimentHub",
         "missMethyl",
@@ -682,7 +679,6 @@
     "GARS": [
         "DaMiRseq",
         "FactoMineR",
-        "arm",
         "car",
         "pbkrtest"
     ],
@@ -1230,9 +1226,7 @@
         "yarn",
         "quantro"
     ],
-    "nondetects": [
-        "arm"
-    ],
+    "nondetects": [],
     "NormalyzerDE": [
         "car",
         "RcmdrMisc",
@@ -1607,9 +1601,7 @@
     "scDblFinder": [
         "scater"
     ],
-    "scDD": [
-        "arm"
-    ],
+    "scDD": [],
     "scDDboost": [],
     "scMAGeCK": [],
     "scmeth": [
@@ -1909,9 +1901,7 @@
         "BiocVersion"
     ],
     "vulcan": [],
-    "waddR": [
-        "arm"
-    ],
+    "waddR": [],
     "wateRmelon": [
         "methylumi",
         "lumi",
@@ -2033,7 +2023,6 @@
         "BiocVersion"
     ],
     "mbest": [],
-    "arm": [],
     "rsq": [],
     "VIM": [
         "car",
