@@ -24400,7 +24400,6 @@
         "vctrs",
         "Matrix",
         "psych",
-        "lavaan",
         "plyr",
         "Hmisc",
         "reshape2",
@@ -91144,7 +91143,6 @@
     ],
     "qgraph": [
         "psych",
-        "lavaan",
         "plyr",
         "Hmisc",
         "igraph",
@@ -91173,7 +91171,6 @@
         "RcppEigen",
         "highr"
     ],
-    "lavaan": [],
     "RNOmni": [
         "plyr",
         "RcppArmadillo"
