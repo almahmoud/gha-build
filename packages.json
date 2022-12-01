@@ -4629,7 +4629,6 @@
     ],
     "ASSET": [
         "msm",
-        "rmeta",
         "survival",
         "mvtnorm",
         "expm",
@@ -23315,7 +23314,6 @@
         "survival",
         "prodlim",
         "ipred",
-        "rmeta",
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -44204,7 +44202,6 @@
         "survival",
         "prodlim",
         "ipred",
-        "rmeta",
         "BiocGenerics",
         "IRanges",
         "RSQLite",
@@ -65031,7 +65028,6 @@
         "DelayedArray",
         "prodlim",
         "ipred",
-        "rmeta",
         "affy",
         "affyio",
         "preprocessCore",
@@ -84245,7 +84241,6 @@
         "GenomeInfoDb",
         "prodlim",
         "ipred",
-        "rmeta",
         "ggpubr",
         "gridExtra",
         "maxstat",
@@ -94005,7 +94000,6 @@
     "REBET": [
         "ASSET",
         "msm",
-        "rmeta",
         "survival",
         "mvtnorm",
         "expm",
@@ -109101,7 +109095,6 @@
         "car",
         "prodlim",
         "ipred",
-        "rmeta",
         "dbplyr",
         "abind",
         "nnet",
@@ -116476,7 +116469,6 @@
         "survival",
         "prodlim",
         "ipred",
-        "rmeta",
         "rpart",
         "nnet",
         "class",
@@ -131929,7 +131921,6 @@
         "Matrix",
         "lattice"
     ],
-    "rmeta": [],
     "plot3D": [
         "misc3d"
     ],
