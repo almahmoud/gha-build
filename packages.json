@@ -25517,7 +25517,6 @@
         "DelayedArray"
     ],
     "hmdbQuery": [],
-    "HMMcopy": [],
     "hopach": [],
     "HPAanalyze": [
         "dplyr",
@@ -44503,7 +44502,6 @@
     ],
     "qsea": [
         "Biostrings",
-        "HMMcopy",
         "rtracklayer",
         "BSgenome",
         "GenomicRanges",
