@@ -459,9 +459,7 @@
     "netSmooth": [
         "scater"
     ],
-    "netZooR": [
-        "yarn"
-    ],
+    "netZooR": [],
     "NormalyzerDE": [],
     "NxtIRFcore": [
         "NxtIRFdata",
@@ -760,7 +758,6 @@
     ],
     "wateRmelon": [],
     "YAPSA": [],
-    "yarn": [],
     "zenith": [],
     "adductData": [
         "ExperimentHub",
