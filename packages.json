@@ -23993,7 +23993,6 @@
     ],
     "systemPipeShiny": [
         "shiny",
-        "spsUtil",
         "spsComps",
         "drawer",
         "bsplus",
@@ -29623,7 +29622,6 @@
     "lwgeom": [
         "sf"
     ],
-    "spsUtil": [],
     "spsComps": [
         "shiny",
         "shinytoastr",
