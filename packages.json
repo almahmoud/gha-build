@@ -1000,7 +1000,6 @@
         "OrganismDbi",
         "BiocVersion"
     ],
-    "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
