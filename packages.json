@@ -347,7 +347,6 @@
         "survminer",
         "ggpubr"
     ],
-    "GRmetrics": [],
     "GSEABenchmarkeR": [
         "AnnotationHub",
         "ExperimentHub",
