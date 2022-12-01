@@ -555,7 +555,6 @@
         "BSgenome.Hsapiens.UCSC.hg38",
         "BSgenome"
     ],
-    "brendaDb": [],
     "BRGenomics": [
         "DESeq2",
         "geneplotter"
