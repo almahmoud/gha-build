@@ -215,7 +215,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "epigraHMM": [],
     "epihet": [
         "EntropyExplorer"
     ],
