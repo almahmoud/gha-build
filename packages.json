@@ -8776,7 +8776,6 @@
         "ggplot2",
         "apcluster",
         "doParallel",
-        "biwt",
         "tibble",
         "tidyr",
         "dplyr",
@@ -12989,7 +12988,6 @@
     ],
     "DirichletMultinomial": [],
     "discordant": [
-        "biwt",
         "dplyr",
         "tibble",
         "tidyselect",
@@ -55408,7 +55406,6 @@
         "vctrs",
         "pillar"
     ],
-    "biwt": [],
     "skmeans": [],
     "eulerr": [],
     "cobs": [
