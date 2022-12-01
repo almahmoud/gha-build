@@ -3774,7 +3774,6 @@
     ],
     "bnem": [
         "CellNOptR",
-        "flexclust",
         "epiNEM",
         "mnem",
         "sva",
@@ -9312,7 +9311,6 @@
         "httr",
         "TFisher",
         "mutoss",
-        "flexclust",
         "Linnorm",
         "ggm",
         "vcd",
@@ -12257,7 +12255,6 @@
         "pcalg",
         "mnem",
         "interp",
-        "flexclust",
         "Linnorm",
         "ggplot2",
         "ggm",
@@ -17456,7 +17453,6 @@
     ],
     "iBBiG": [
         "biclust",
-        "flexclust",
         "tidyr",
         "ggplot2",
         "mgcv",
@@ -23006,7 +23002,6 @@
         "dendextend",
         "randomcoloR",
         "multtest",
-        "flexclust",
         "tidyr",
         "ggplot2",
         "annotate",
@@ -23523,7 +23518,6 @@
         "rematch2"
     ],
     "mnem": [
-        "flexclust",
         "Linnorm",
         "e1071",
         "ggplot2",
@@ -23786,7 +23780,6 @@
     "mosbi": [
         "biclust",
         "QUBIC",
-        "flexclust",
         "tidyr",
         "ggplot2",
         "mgcv",
@@ -25547,7 +25540,6 @@
         "BoolNet",
         "latticeExtra",
         "pcalg",
-        "flexclust",
         "Linnorm",
         "ggplot2",
         "mgcv",
@@ -30244,7 +30236,6 @@
     ],
     "QUBIC": [
         "biclust",
-        "flexclust",
         "tidyr",
         "ggplot2",
         "mgcv",
@@ -32958,7 +32949,6 @@
     ],
     "rqubic": [
         "biclust",
-        "flexclust",
         "tidyr",
         "ggplot2",
         "mgcv",
@@ -33266,7 +33256,6 @@
         "biclust",
         "SummarizedExperiment",
         "testthat",
-        "flexclust",
         "tidyr",
         "ggplot2",
         "GenomicRanges",
@@ -39768,7 +39757,6 @@
     ],
     "TMixClust": [
         "BiocParallel",
-        "flexclust",
         "SPEM"
     ],
     "TNBC.CMS": [
@@ -44036,7 +44024,6 @@
         "GenomeInfoDb"
     ],
     "randomcoloR": [],
-    "flexclust": [],
     "BoolNet": [],
     "pcalg": [
         "ggm",
@@ -45852,7 +45839,6 @@
     ],
     "reactable": [],
     "biclust": [
-        "flexclust",
         "tidyr",
         "ggplot2",
         "mgcv",
@@ -46457,7 +46443,6 @@
     "linkcomm": [],
     "s4vd": [
         "biclust",
-        "flexclust",
         "tidyr",
         "ggplot2",
         "mgcv",
@@ -46471,7 +46456,6 @@
         "dendextend",
         "randomcoloR",
         "biclust",
-        "flexclust",
         "tidyr",
         "ggplot2",
         "mgcv",
