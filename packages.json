@@ -110,7 +110,6 @@
         "shiny"
     ],
     "ADImpute": [
-        "SAVER",
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
@@ -19864,7 +19863,6 @@
         "SingleCellExperiment"
     ],
     "scRecover": [
-        "SAVER",
         "Rmagic"
     ],
     "ScreenR": [
@@ -24251,7 +24249,6 @@
         "dplyr",
         "tibble"
     ],
-    "SAVER": [],
     "PFAM.db": [
         "AnnotationDbi",
         "RSQLite",
