@@ -693,9 +693,7 @@
     "cfDNAPro": [
         "plyranges"
     ],
-    "cghMCR": [
-        "CNTools"
-    ],
+    "cghMCR": [],
     "ChAMP": [
         "minfi",
         "DMRcate",
@@ -867,7 +865,6 @@
         "nloptr",
         "testthat"
     ],
-    "CNTools": [],
     "CNVfilteR": [
         "regioneR",
         "karyoploteR",
