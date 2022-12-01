@@ -23806,7 +23806,6 @@
         "ggplot2",
         "SummarizedExperiment",
         "tibble",
-        "longitudinalData",
         "kml"
     ],
     "ttgsea": [
@@ -28062,13 +28061,9 @@
         "SummarizedExperiment"
     ],
     "kmlShape": [
-        "longitudinalData",
         "kml"
     ],
-    "longitudinalData": [],
-    "kml": [
-        "longitudinalData"
-    ],
+    "kml": [],
     "mirbase.db": [
         "AnnotationDbi",
         "RSQLite",
