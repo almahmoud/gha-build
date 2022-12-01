@@ -14997,9 +14997,7 @@
         "waldo",
         "rematch2"
     ],
-    "NormqPCR": [
-        "qpcR"
-    ],
+    "NormqPCR": [],
     "normr": [
         "qvalue",
         "rtracklayer",
@@ -26646,7 +26644,6 @@
         "waldo",
         "rematch2"
     ],
-    "qpcR": [],
     "NxtIRFdata": [
         "ExperimentHub",
         "BiocFileCache",
