@@ -344,7 +344,6 @@
         "testthat"
     ],
     "BiocCheck": [],
-    "BiocDockerManager": [],
     "biocGraph": [],
     "BiocOncoTK": [
         "GenomicFeatures",
