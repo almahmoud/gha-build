@@ -20283,7 +20283,6 @@
         "Biostrings",
         "XVector"
     ],
-    "mgsa": [],
     "mia": [
         "SummarizedExperiment",
         "SingleCellExperiment",
