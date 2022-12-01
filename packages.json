@@ -3290,7 +3290,6 @@
         "car",
         "rmarkdown",
         "shinyAce",
-        "psych",
         "readxl",
         "plotly",
         "shinyFiles",
@@ -3979,7 +3978,6 @@
         "pheatmap",
         "ggplot2",
         "Hmisc",
-        "psych",
         "rmarkdown",
         "htmlwidgets",
         "jquerylib",
@@ -4041,7 +4039,6 @@
         "GenomeInfoDb"
     ],
     "BioTIP": [
-        "psych",
         "GenomicRanges",
         "scran",
         "GenomeInfoDb",
@@ -8432,7 +8429,6 @@
     "coMET": [
         "biomaRt",
         "Gviz",
-        "psych",
         "rtracklayer",
         "GenomicRanges",
         "AnnotationDbi",
@@ -11369,7 +11365,6 @@
         "ggplot2",
         "ggdendro",
         "ggrepel",
-        "psych",
         "reshape",
         "scales",
         "SummarizedExperiment",
@@ -11467,7 +11462,6 @@
         "rmarkdown",
         "DSS",
         "dendextend",
-        "psych",
         "sva",
         "ggplot2",
         "viridis",
@@ -11994,7 +11988,6 @@
         "WGCNA",
         "SummarizedExperiment",
         "DiffCorr",
-        "psych",
         "pcaMethods",
         "multtest",
         "GenomicRanges",
@@ -14246,7 +14239,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "psych",
         "Hmisc",
         "latticeExtra",
         "htmlTable",
@@ -15314,7 +15306,6 @@
         "progress"
     ],
     "fCI": [
-        "psych",
         "rgl",
         "VennDiagram",
         "htmlwidgets"
@@ -16306,7 +16297,6 @@
         "dbplyr"
     ],
     "FuseSOM": [
-        "psych",
         "FCPS",
         "analogue",
         "pheatmap",
@@ -21545,7 +21535,6 @@
         "tibble",
         "ggplot2",
         "ggrepel",
-        "psych",
         "readxl",
         "forcats",
         "shiny",
@@ -21851,7 +21840,6 @@
         "edgeR",
         "ggdendro",
         "ggrepel",
-        "psych",
         "BiocParallel",
         "geneplotter",
         "tidyselect",
@@ -22984,7 +22972,6 @@
         "DelayedArray",
         "WGCNA",
         "Maaslin2",
-        "psych",
         "edgeR",
         "metagenomeSeq",
         "car",
@@ -23728,7 +23715,6 @@
     ],
     "mbOmic": [
         "doParallel",
-        "psych",
         "WGCNA",
         "visNetwork",
         "clusterSim",
@@ -25676,7 +25662,6 @@
         "dplyr",
         "ggplot2",
         "GENIE3",
-        "psych",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -30919,7 +30904,6 @@
         "networkD3",
         "httr",
         "fgsea",
-        "psych",
         "shinybusy",
         "ggseqlogo",
         "htmlwidgets",
@@ -32379,7 +32363,6 @@
         "sn",
         "ggplot2",
         "phyloseq",
-        "psych",
         "fitdistrplus",
         "survival",
         "mgcv",
@@ -34988,7 +34971,6 @@
     "QSutils": [
         "Biostrings",
         "ape",
-        "psych",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -38669,7 +38651,6 @@
         "pillar"
     ],
     "RUVcorr": [
-        "psych",
         "BiocParallel"
     ],
     "RUVnormalize": [
@@ -39667,7 +39648,6 @@
     "SCFA": [
         "BiocParallel",
         "torch",
-        "psych",
         "glmnet",
         "survival",
         "RcppEigen"
@@ -50787,7 +50767,6 @@
         "rmarkdown",
         "shiny",
         "shinyAce",
-        "psych",
         "DT",
         "readr",
         "readxl",
@@ -50886,7 +50865,6 @@
         "sass",
         "jquerylib"
     ],
-    "psych": [],
     "shinyFiles": [
         "shiny",
         "tibble",
@@ -53038,7 +53016,6 @@
         "vctrs"
     ],
     "qgraph": [
-        "psych",
         "Hmisc",
         "ggplot2",
         "mgcv",
