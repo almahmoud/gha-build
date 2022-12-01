@@ -2629,7 +2629,6 @@
         "cachem"
     ],
     "arrayMvout": [
-        "parody",
         "Biobase",
         "affy",
         "mdqc",
@@ -55202,7 +55201,6 @@
         "cachem",
         "lifecycle"
     ],
-    "parody": [],
     "PAST": [
         "dplyr",
         "foreach",
