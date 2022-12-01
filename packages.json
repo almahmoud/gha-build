@@ -9564,7 +9564,6 @@
         "viridis",
         "vsn"
     ],
-    "logicFS": [],
     "LoomExperiment": [
         "SingleCellExperiment"
     ],
