@@ -2206,8 +2206,7 @@
         "enrichplot"
     ],
     "netOmics": [
-        "RandomWalkRestartMH",
-        "dnet"
+        "RandomWalkRestartMH"
     ],
     "netSmooth": [
         "scater",
@@ -2415,9 +2414,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "Pi": [
-        "dnet"
-    ],
+    "Pi": [],
     "Pigengene": [
         "clusterProfiler",
         "ReactomePA",
@@ -2588,9 +2585,7 @@
         "VariantAnnotation"
     ],
     "RadioGx": [],
-    "RandomWalkRestartMH": [
-        "dnet"
-    ],
+    "RandomWalkRestartMH": [],
     "RAREsim": [
         "nloptr"
     ],
@@ -3745,7 +3740,6 @@
         "nloptr"
     ],
     "mppa": [],
-    "dnet": [],
     "RcmdrMisc": [
         "car",
         "pbkrtest",
