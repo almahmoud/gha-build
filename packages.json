@@ -549,9 +549,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "lisaClust": [
-        "spicyR"
-    ],
+    "lisaClust": [],
     "LowMACA": [],
     "LRcell": [
         "ExperimentHub",
@@ -1036,7 +1034,6 @@
     "spatzie": [
         "GenomicInteractions"
     ],
-    "spicyR": [],
     "splatter": [
         "scater"
     ],
