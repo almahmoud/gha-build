@@ -4442,7 +4442,6 @@
         "GSVA",
         "consensusOV",
         "ensembldb",
-        "openair",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "survminer",
@@ -5640,7 +5639,6 @@
         "nloptr",
         "testthat"
     ],
-    "openair": [],
     "celldex": [
         "ExperimentHub",
         "AnnotationHub",
