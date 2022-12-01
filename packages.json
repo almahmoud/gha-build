@@ -2670,7 +2670,6 @@
     ],
     "famat": [
         "gprofiler2",
-        "rWikiPathways",
         "reactome.db",
         "clusterProfiler",
         "DOSE",
@@ -5054,7 +5053,6 @@
         "mixOmics",
         "DESeq2",
         "clusterProfiler",
-        "rWikiPathways",
         "ReactomePA",
         "enrichplot",
         "metap",
@@ -5311,7 +5309,6 @@
     ],
     "NoRCE": [
         "reactome.db",
-        "rWikiPathways",
         "readr",
         "biomaRt",
         "rtracklayer",
@@ -6853,7 +6850,6 @@
     "RVS": [
         "gRain"
     ],
-    "rWikiPathways": [],
     "sampleClassifier": [
         "MGFM",
         "MGFR",
@@ -7946,7 +7942,6 @@
         "biomaRt",
         "clusterProfiler",
         "gghighlight",
-        "rWikiPathways",
         "DOSE",
         "enrichplot",
         "GOSemSim",
