@@ -8940,7 +8940,6 @@
     "KCsmart": [
         "siggenes"
     ],
-    "kebabs": [],
     "KEGGlincs": [
         "hgu133a.db",
         "org.Hs.eg.db",
@@ -12489,8 +12488,7 @@
         "rematch2"
     ],
     "odseq": [
-        "msa",
-        "kebabs"
+        "msa"
     ],
     "OGRE": [
         "ggplot2",
@@ -13797,9 +13795,7 @@
         "waldo",
         "rematch2"
     ],
-    "procoil": [
-        "kebabs"
-    ],
+    "procoil": [],
     "proDA": [],
     "proFIA": [
         "xcms",
