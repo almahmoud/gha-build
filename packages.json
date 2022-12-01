@@ -564,7 +564,6 @@
         "RUVSeq",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene"
     ],
-    "consensusOV": [],
     "contiBAIT": [
         "GenomicFiles",
         "VariantAnnotation"
@@ -2745,7 +2744,6 @@
         "lme4"
     ],
     "signifinder": [
-        "consensusOV",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "survminer",
