@@ -19816,7 +19816,6 @@
         "GSVA",
         "globaltest",
         "edgeR",
-        "HTMLUtils",
         "gplots",
         "ggplot2",
         "safe",
@@ -78667,7 +78666,6 @@
     ],
     "libcoin": [],
     "wordcloud": [],
-    "HTMLUtils": [],
     "ELMER.data": [
         "GenomicRanges",
         "IRanges",
