@@ -1291,14 +1291,11 @@
     "BiocStyle": [
         "bookdown"
     ],
-    "biocthis": [
-        "usethis"
-    ],
+    "biocthis": [],
     "BiocVersion": [],
     "BiocWorkflowTools": [
         "BiocStyle",
-        "bookdown",
-        "usethis"
+        "bookdown"
     ],
     "biodb": [
         "BiocFileCache",
@@ -1776,7 +1773,6 @@
     ],
     "BUMHMM": [
         "devtools",
-        "usethis",
         "miniUI",
         "pkgdown",
         "testthat",
@@ -3109,7 +3105,6 @@
         "tidyr",
         "dplyr",
         "devtools",
-        "usethis",
         "miniUI",
         "pkgdown",
         "testthat",
@@ -4068,7 +4063,6 @@
         "GenomicAlignments",
         "vroom",
         "testthat",
-        "usethis",
         "broom",
         "car",
         "pbkrtest",
@@ -6475,7 +6469,6 @@
     ],
     "GCSscore": [
         "devtools",
-        "usethis",
         "miniUI",
         "pkgdown",
         "testthat",
@@ -7876,7 +7869,6 @@
     ],
     "HubPub": [
         "available",
-        "usethis",
         "biocthis",
         "dplyr",
         "tidytext"
@@ -8127,7 +8119,6 @@
     ],
     "INDEED": [
         "devtools",
-        "usethis",
         "miniUI",
         "pkgdown",
         "testthat",
@@ -8268,7 +8259,6 @@
         "FactoMineR",
         "ggpubr",
         "ggrepel",
-        "usethis",
         "cellranger",
         "dbplyr",
         "car",
@@ -9447,7 +9437,6 @@
         "cmdfun",
         "dplyr",
         "testthat",
-        "usethis",
         "vroom",
         "waldo",
         "rematch2"
@@ -9473,7 +9462,6 @@
         "patchwork",
         "readr",
         "tidyr",
-        "usethis",
         "universalmotif",
         "testthat",
         "vroom",
@@ -9890,7 +9878,6 @@
         "minfi",
         "tidyr",
         "planet",
-        "usethis",
         "miniUI",
         "pkgdown",
         "testthat",
@@ -10073,7 +10060,6 @@
         "devtools",
         "ChemmineR",
         "ggplot2",
-        "usethis",
         "miniUI",
         "pkgdown",
         "testthat",
@@ -10274,7 +10260,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "usethis",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -11381,7 +11366,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "usethis",
         "TFisher",
         "mutoss",
         "ggrepel",
@@ -12097,7 +12081,6 @@
         "rstatix",
         "cmdfun",
         "testthat",
-        "usethis",
         "biomaRt",
         "VariantAnnotation",
         "viridis",
@@ -12396,7 +12379,6 @@
     "oppti": [
         "ggplot2",
         "devtools",
-        "usethis",
         "miniUI",
         "pkgdown",
         "testthat",
@@ -12668,7 +12650,6 @@
         "devtools",
         "bookdown",
         "geneplotter",
-        "usethis",
         "miniUI",
         "pkgdown",
         "testthat",
@@ -14779,7 +14760,6 @@
         "bookdown",
         "geneplotter",
         "ggplot2",
-        "usethis",
         "miniUI",
         "pkgdown",
         "testthat",
@@ -17186,7 +17166,6 @@
         "bookdown",
         "geneplotter",
         "ggplot2",
-        "usethis",
         "miniUI",
         "pkgdown",
         "testthat",
@@ -18439,7 +18418,6 @@
         "plotly",
         "dplyr",
         "golem",
-        "usethis",
         "ggplot2",
         "tidyr"
     ],
@@ -19006,8 +18984,7 @@
         "dplyr",
         "shinydashboard",
         "shinyWidgets",
-        "shinycustomloader",
-        "usethis"
+        "shinycustomloader"
     ],
     "wppi": [
         "dplyr",
@@ -19817,7 +19794,6 @@
         "ggplot2"
     ],
     "rorcid": [],
-    "usethis": [],
     "rms": [
         "Hmisc",
         "ggplot2",
@@ -19937,7 +19913,6 @@
         "GenomicAlignments"
     ],
     "devtools": [
-        "usethis",
         "miniUI",
         "pkgdown",
         "testthat",
@@ -20391,7 +20366,6 @@
     ],
     "cmdfun": [
         "testthat",
-        "usethis",
         "waldo",
         "rematch2"
     ],
@@ -20706,9 +20680,7 @@
     "concaveman": [
         "dplyr"
     ],
-    "golem": [
-        "usethis"
-    ],
+    "golem": [],
     "shinyalert": [],
     "AdaptGauss": [
         "DataVisualizations",
@@ -21003,7 +20975,6 @@
     ],
     "anyLib": [
         "devtools",
-        "usethis",
         "miniUI",
         "pkgdown",
         "testthat",
