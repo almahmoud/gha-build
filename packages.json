@@ -979,7 +979,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "shinyepico": [],
     "shinyMethyl": [],
     "signatureSearch": [
         "ExperimentHub",
