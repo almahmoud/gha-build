@@ -101,7 +101,6 @@
         "tidyr",
         "dplyr"
     ],
-    "AffyCompatible": [],
     "affycoretools": [
         "GOstats",
         "AnnotationDbi",
