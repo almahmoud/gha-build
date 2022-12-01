@@ -719,12 +719,8 @@
         "survminer",
         "ggpubr"
     ],
-    "RTN": [],
-    "RTNduals": [
-        "RTN"
-    ],
+    "RTNduals": [],
     "RTNsurvival": [
-        "RTN",
         "RTNduals"
     ],
     "scanMiRApp": [
