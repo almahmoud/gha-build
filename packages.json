@@ -11415,7 +11415,6 @@
         "Biostrings",
         "blob"
     ],
-    "GeneNetworkBuilder": [],
     "geneplotter": [
         "annotate",
         "AnnotationDbi",
