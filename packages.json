@@ -7895,7 +7895,6 @@
     "MatrixQCvis": [
         "plotly",
         "Hmisc",
-        "proDA",
         "shinydashboard",
         "shinyhelper",
         "shinyjs",
@@ -11439,7 +11438,6 @@
         "rematch2"
     ],
     "procoil": [],
-    "proDA": [],
     "proFIA": [
         "xcms",
         "ropls",
