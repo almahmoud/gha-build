@@ -11439,7 +11439,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "tidyr",
-        "gistr",
         "BiocVersion"
     ],
     "SeqVarTools": [
@@ -14863,10 +14862,7 @@
         "ggforce",
         "tidyr"
     ],
-    "rbokeh": [
-        "gistr"
-    ],
-    "gistr": [],
+    "rbokeh": [],
     "survivalAnalysis": [
         "tidyr",
         "survminer",
