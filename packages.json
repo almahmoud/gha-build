@@ -18485,7 +18485,6 @@
         "mvtnorm",
         "futile.logger",
         "BH",
-        "tensorA",
         "robustbase",
         "bayesm",
         "IRanges",
@@ -51332,7 +51331,6 @@
         "Matrix",
         "ape",
         "corpcor",
-        "tensorA",
         "cubature",
         "quantreg",
         "nlme",
@@ -51670,7 +51668,6 @@
         "IRanges",
         "XVector",
         "GenomeInfoDb",
-        "tensorA",
         "robustbase",
         "bayesm",
         "lifecycle",
@@ -61330,7 +61327,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "multtest",
-        "tensorA",
         "robustbase",
         "bayesm",
         "htmltools",
@@ -66903,7 +66899,6 @@
         "nlme",
         "callr",
         "processx",
-        "tensorA",
         "munsell",
         "viridisLite",
         "askpass"
@@ -80037,7 +80032,6 @@
         "R.utils",
         "futile.logger",
         "BH",
-        "tensorA",
         "robustbase",
         "bayesm",
         "locfit",
@@ -105574,13 +105568,11 @@
         "Rcpp"
     ],
     "compositions": [
-        "tensorA",
         "robustbase",
         "bayesm",
         "Rcpp",
         "RcppArmadillo"
     ],
-    "tensorA": [],
     "bayesm": [
         "Rcpp",
         "RcppArmadillo"
@@ -109478,7 +109470,6 @@
         "coda",
         "ape",
         "corpcor",
-        "tensorA",
         "cubature",
         "nlme",
         "Rcpp"
@@ -111112,7 +111103,6 @@
         "distributional",
         "mgcv",
         "checkmate",
-        "tensorA",
         "ellipsis",
         "purrr",
         "digest",
@@ -111146,7 +111136,6 @@
         "rlang",
         "tibble",
         "vctrs",
-        "tensorA",
         "pillar",
         "distributional",
         "ggplot2",
