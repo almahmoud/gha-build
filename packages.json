@@ -381,7 +381,6 @@
     "GenProSeq": [
         "DeepPINCS"
     ],
-    "GeoDiff": [],
     "GEOexplorer": [
         "factoextra",
         "ggpubr",
