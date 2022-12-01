@@ -160,10 +160,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "cbaf": [
-        "cBioPortalData"
-    ],
-    "cBioPortalData": [],
+    "cbaf": [],
     "celda": [
         "scater"
     ],
@@ -654,9 +651,7 @@
     "lisaClust": [
         "spicyR"
     ],
-    "LowMACA": [
-        "cBioPortalData"
-    ],
+    "LowMACA": [],
     "LRcell": [
         "ExperimentHub",
         "AnnotationHub",
