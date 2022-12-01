@@ -1,0 +1,10 @@
++ '[' 0 = 0 ']'
+++ pwd
++ Rscript -e 'p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); install.packages('\''/__w/gha-build/gha-build/spaSim'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE, type = '\''source'\'', repos = NULL); if('\''spaSim'\'' %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+Installing package into ‘/__w/gha-build/gha-build/built’
+(as ‘lib’ is unspecified)
+ERROR: dependency ‘RANN’ is not available for package ‘spaSim’
+* removing ‘/__w/gha-build/gha-build/built/spaSim’
+Warning message:
+In install.packages("/__w/gha-build/gha-build/spaSim", INSTALL_opts = "--build",  :
+  installation of package ‘/__w/gha-build/gha-build/spaSim’ had non-zero exit status
