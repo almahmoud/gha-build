@@ -24101,7 +24101,6 @@
         "sqldf",
         "RSQLite"
     ],
-    "STROMA4": [],
     "struct": [
         "SummarizedExperiment",
         "rols",
