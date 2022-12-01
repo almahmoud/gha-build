@@ -12567,8 +12567,7 @@
         "pillar",
         "sf",
         "flextable",
-        "rmarkdown",
-        "classInt"
+        "rmarkdown"
     ],
     "graper": [
         "ggplot2",
@@ -13816,7 +13815,6 @@
         "hms",
         "GenomicRanges",
         "DelayedMatrixStats",
-        "classInt",
         "DropletUtils",
         "BiocFileCache",
         "tidyr",
@@ -15032,7 +15030,6 @@
         "scuttle",
         "tweenr",
         "nloptr",
-        "classInt",
         "blob",
         "testthat",
         "waldo",
@@ -15551,7 +15548,6 @@
         "shiny",
         "miniUI",
         "styler",
-        "classInt",
         "labelled",
         "haven",
         "lava",
@@ -20406,7 +20402,6 @@
         "shiny",
         "miniUI",
         "styler",
-        "classInt",
         "labelled",
         "haven",
         "forcats",
@@ -26365,7 +26360,6 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "tidyr",
-        "classInt",
         "spatstat.random"
     ],
     "scHOT": [
@@ -26839,7 +26833,6 @@
         "ggplotify",
         "tidytree",
         "treeio",
-        "classInt",
         "spatstat.random"
     ],
     "scTGIF": [
@@ -26886,7 +26879,6 @@
         "uwot",
         "Biostrings",
         "blob",
-        "classInt",
         "spatstat.random"
     ],
     "scTHI": [],
@@ -28471,7 +28463,6 @@
         "SpatialExperiment",
         "spdep",
         "SummarizedExperiment",
-        "classInt",
         "GenomicRanges",
         "DropletUtils",
         "BiocFileCache",
@@ -28665,7 +28656,6 @@
         "HDF5Array",
         "scuttle",
         "testthat",
-        "classInt",
         "blob",
         "waldo",
         "rematch2"
@@ -29260,8 +29250,7 @@
         "rematch2",
         "vroom",
         "progress",
-        "rmarkdown",
-        "classInt"
+        "rmarkdown"
     ],
     "statTarget": [],
     "STdeconvolve": [
@@ -29311,7 +29300,6 @@
         "HDF5Array",
         "scuttle",
         "tidyr",
-        "classInt",
         "spatstat.random",
         "blob"
     ],
@@ -29698,7 +29686,6 @@
         "vroom",
         "progress",
         "rmarkdown",
-        "classInt",
         "lwgeom",
         "nloptr",
         "testthat",
@@ -31877,7 +31864,6 @@
         "SummarizedExperiment",
         "BiocNeighbors",
         "tibble",
-        "classInt",
         "GenomicRanges",
         "DropletUtils",
         "BiocFileCache",
@@ -35224,13 +35210,9 @@
     "epiR": [
         "sf",
         "flextable",
-        "rmarkdown",
-        "classInt"
+        "rmarkdown"
     ],
-    "sf": [
-        "classInt"
-    ],
-    "classInt": [],
+    "sf": [],
     "penalized": [],
     "fGarch": [],
     "ggwordcloud": [
@@ -35304,8 +35286,7 @@
         "dplyr",
         "tibble",
         "tidyselect",
-        "pillar",
-        "classInt"
+        "pillar"
     ],
     "Rlabkey": [],
     "golem": [
@@ -35458,7 +35439,6 @@
         "shiny",
         "miniUI",
         "styler",
-        "classInt",
         "labelled",
         "haven",
         "dplyr",
@@ -35477,7 +35457,6 @@
         "shiny",
         "miniUI",
         "styler",
-        "classInt",
         "labelled",
         "haven",
         "dplyr",
@@ -35495,7 +35474,6 @@
         "shiny",
         "miniUI",
         "styler",
-        "classInt",
         "labelled",
         "haven",
         "dplyr",
@@ -35989,7 +35967,6 @@
         "shiny",
         "miniUI",
         "styler",
-        "classInt",
         "labelled",
         "haven",
         "forcats",
@@ -36655,8 +36632,7 @@
     ],
     "sampSurf": [],
     "spdep": [
-        "sf",
-        "classInt"
+        "sf"
     ],
     "alphahull": [
         "ggplot2",
@@ -36763,7 +36739,6 @@
         "sftime",
         "spacetime",
         "stars",
-        "classInt",
         "lwgeom"
     ],
     "SpatialExtremes": [
@@ -36774,18 +36749,15 @@
         "pillar"
     ],
     "sftime": [
-        "sf",
-        "classInt"
+        "sf"
     ],
     "spacetime": [],
     "stars": [
         "sf",
-        "classInt",
         "lwgeom"
     ],
     "lwgeom": [
-        "sf",
-        "classInt"
+        "sf"
     ],
     "spsUtil": [],
     "spsComps": [
