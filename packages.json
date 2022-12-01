@@ -12128,7 +12128,6 @@
     "gscreend": [
         "SummarizedExperiment",
         "nloptr",
-        "fGarch",
         "testthat",
         "waldo",
         "rematch2",
@@ -33792,7 +33791,6 @@
     ],
     "sf": [],
     "penalized": [],
-    "fGarch": [],
     "ggwordcloud": [
         "ggplot2",
         "tibble",
