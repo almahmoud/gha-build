@@ -11547,7 +11547,6 @@
         "globaltest",
         "annotate"
     ],
-    "SIMAT": [],
     "SimBindProfiles": [
         "Ringo",
         "genefilter",
