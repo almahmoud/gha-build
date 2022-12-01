@@ -1880,7 +1880,6 @@
         "OrganismDbi",
         "ensembldb"
     ],
-    "erccdashboard": [],
     "erma": [
         "Homo.sapiens",
         "GenomicFiles",
