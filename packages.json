@@ -292,7 +292,6 @@
         "XVector",
         "Biostrings"
     ],
-    "AffyRNADegradation": [],
     "AGDEX": [
         "GSEABase",
         "annotate",
