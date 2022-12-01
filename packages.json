@@ -5139,7 +5139,6 @@
         "magrittr",
         "pillar"
     ],
-    "BADER": [],
     "BadRegionFinder": [
         "VariantAnnotation",
         "Rsamtools",
