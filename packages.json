@@ -23857,7 +23857,6 @@
     "ontoProc": [
         "BiocFileCache",
         "shiny",
-        "ontologyPlot",
         "dplyr",
         "DT",
         "AnnotationHub",
@@ -25539,7 +25538,6 @@
         "ggplot2",
         "tibble",
         "BiocFileCache",
-        "ontologyPlot",
         "dplyr",
         "DT",
         "AnnotationHub",
@@ -34919,7 +34917,6 @@
         "RSQLite",
         "KEGGREST",
         "BiocFileCache",
-        "ontologyPlot",
         "dplyr",
         "DT",
         "AnnotationHub",
@@ -41633,7 +41630,6 @@
     ],
     "pdftools": [],
     "flatxml": [],
-    "ontologyPlot": [],
     "AICcmodavg": [
         "unmarked",
         "lme4",
