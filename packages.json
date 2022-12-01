@@ -2460,7 +2460,6 @@
     "scTGIF": [],
     "scTreeViz": [
         "epivizr",
-        "clustree",
         "epivizrData",
         "scater"
     ],
@@ -3204,7 +3203,6 @@
         "BiocVersion"
     ],
     "Rmagic": [],
-    "clustree": [],
     "survivalAnalysis": [
         "survminer",
         "ggpubr",
