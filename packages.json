@@ -115,7 +115,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "BOBaFIT": [],
     "brainflowprobes": [
         "derfinder",
         "derfinderPlot",
