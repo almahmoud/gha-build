@@ -13076,7 +13076,6 @@
         "MultiAssayExperiment",
         "biomaRt",
         "clusterProfiler",
-        "FreqProf",
         "ggdendro",
         "gghighlight",
         "RCy3",
@@ -15358,7 +15357,6 @@
     "drawer": [],
     "GenKern": [],
     "ttservice": [],
-    "FreqProf": [],
     "gghighlight": [
         "ggrepel"
     ],
