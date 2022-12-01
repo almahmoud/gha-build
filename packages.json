@@ -3235,7 +3235,6 @@
     ],
     "MAIT": [
         "CAMERA",
-        "plsgenomics",
         "agricolae",
         "xcms",
         "caret",
@@ -7048,7 +7047,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "plsgenomics": [],
     "agricolae": [
         "klaR",
         "questionr",
