@@ -4331,9 +4331,7 @@
         "geneplotter",
         "annotate"
     ],
-    "granulator": [
-        "epiR"
-    ],
+    "granulator": [],
     "graper": [],
     "graphite": [],
     "GreyListChIP": [
@@ -11735,7 +11733,6 @@
     "gRain": [
         "broom"
     ],
-    "epiR": [],
     "HiContactsData": [
         "ExperimentHub",
         "BiocFileCache",
