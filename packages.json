@@ -8083,8 +8083,7 @@
         "futile.logger",
         "htmltools",
         "htmlwidgets",
-        "RCurl",
-        "biglm"
+        "RCurl"
     ],
     "CARNIVAL": [
         "readr",
@@ -10553,7 +10552,6 @@
         "affy",
         "biganalytics",
         "foreach",
-        "biglm",
         "oligo",
         "oligoClasses",
         "readr",
@@ -34467,7 +34465,6 @@
         "Biobase"
     ],
     "Maaslin2": [
-        "biglm",
         "pcaPP",
         "edgeR",
         "metagenomeSeq",
@@ -34530,7 +34527,6 @@
         "Matrix",
         "MatrixGenerics",
         "IRanges",
-        "biglm",
         "pcaPP",
         "edgeR",
         "metagenomeSeq",
@@ -35514,7 +35510,6 @@
         "BiocParallel",
         "Matrix",
         "irlba",
-        "biglm",
         "futile.logger"
     ],
     "MBASED": [
@@ -39443,7 +39438,6 @@
         "Hmisc",
         "RcppArmadillo",
         "Matrix",
-        "biglm",
         "lifecycle",
         "mgcv",
         "scales",
@@ -40739,7 +40733,6 @@
         "flexmix",
         "mgcv",
         "Matrix",
-        "biglm",
         "pcaPP",
         "edgeR",
         "metagenomeSeq",
@@ -77162,7 +77155,6 @@
         "mgcv",
         "Matrix"
     ],
-    "biglm": [],
     "sqldf": [
         "RSQLite",
         "bit64",
@@ -78102,8 +78094,7 @@
     ],
     "ChIPXpressData": [],
     "biganalytics": [
-        "foreach",
-        "biglm"
+        "foreach"
     ],
     "shinyhelper": [
         "shiny",
@@ -80872,7 +80863,6 @@
     ],
     "cplm": [
         "Matrix",
-        "biglm",
         "ggplot2",
         "reshape2",
         "lifecycle",
