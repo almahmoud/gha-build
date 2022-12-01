@@ -3642,8 +3642,7 @@
     "DECIPHER": [],
     "deco": [
         "AnnotationDbi",
-        "BiocStyle",
-        "made4"
+        "BiocStyle"
     ],
     "DEComplexDisease": [
         "DESeq2",
@@ -7813,7 +7812,6 @@
         "AnnotationDbi",
         "dbplyr"
     ],
-    "made4": [],
     "MADSEQ": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -10509,9 +10507,7 @@
         "GO.db",
         "AnnotationDbi"
     ],
-    "omicade4": [
-        "made4"
-    ],
+    "omicade4": [],
     "omicplotR": [
         "ALDEx2"
     ],
@@ -10524,7 +10520,6 @@
         "SmartSVA",
         "isva",
         "qvalue",
-        "made4",
         "FactoMineR",
         "Hmisc",
         "lme4",
