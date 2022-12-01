@@ -3213,7 +3213,6 @@
         "vsn",
         "rmarkdown",
         "ggplot2",
-        "BoolNet",
         "latticeExtra",
         "pcalg",
         "Linnorm",
@@ -7939,7 +7938,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "BoolNet",
         "latticeExtra",
         "ggforce",
         "ggrepel",
@@ -10496,7 +10494,6 @@
         "bslib"
     ],
     "epiNEM": [
-        "BoolNet",
         "latticeExtra",
         "pcalg",
         "mnem",
@@ -21936,7 +21933,6 @@
     "nempi": [
         "mnem",
         "epiNEM",
-        "BoolNet",
         "latticeExtra",
         "pcalg",
         "Linnorm",
@@ -37712,7 +37708,6 @@
         "XVector"
     ],
     "randomcoloR": [],
-    "BoolNet": [],
     "pcalg": [
         "ggm"
     ],
