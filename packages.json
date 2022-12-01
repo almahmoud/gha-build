@@ -181,7 +181,6 @@
     "CNViz": [
         "CopyNumberPlots"
     ],
-    "coMET": [],
     "coMethDMR": [
         "AnnotationHub",
         "ExperimentHub",
