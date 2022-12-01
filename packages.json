@@ -236,8 +236,7 @@
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "CNEr",
-        "haven",
-        "modelr"
+        "haven"
     ],
     "ATACseqQC": [
         "BSgenome",
@@ -1457,8 +1456,7 @@
         "ggraph",
         "epiNEM",
         "mnem",
-        "haven",
-        "modelr"
+        "haven"
     ],
     "ddPCRclust": [
         "flowDensity",
@@ -3240,8 +3238,7 @@
     "MAI": [
         "caret",
         "tidyverse",
-        "haven",
-        "modelr"
+        "haven"
     ],
     "MAIT": [
         "CAMERA",
@@ -3514,7 +3511,6 @@
         "bumphunter",
         "GEOquery",
         "haven",
-        "modelr",
         "BiocVersion",
         "GenomicFeatures",
         "AnnotationHubData",
@@ -3722,7 +3718,6 @@
         "ggtree",
         "rstatix",
         "haven",
-        "modelr",
         "treeio",
         "nloptr",
         "car",
@@ -3747,7 +3742,6 @@
         "ggtree",
         "rstatix",
         "haven",
-        "modelr",
         "treeio",
         "nloptr",
         "car",
@@ -3935,7 +3929,6 @@
         "lme4",
         "MSstatsTMT",
         "haven",
-        "modelr",
         "car",
         "nloptr",
         "lmerTest",
@@ -4117,8 +4110,7 @@
     "nanotatoR": [
         "testthat",
         "tidyverse",
-        "haven",
-        "modelr"
+        "haven"
     ],
     "NanoTube": [],
     "NBAMSeq": [
@@ -5972,7 +5964,6 @@
         "lme4",
         "rstatix",
         "haven",
-        "modelr",
         "nloptr",
         "car",
         "pbkrtest",
@@ -6037,8 +6028,7 @@
     ],
     "Statial": [
         "tidyverse",
-        "haven",
-        "modelr"
+        "haven"
     ],
     "STdeconvolve": [],
     "stJoincount": [
@@ -6109,7 +6099,6 @@
         "SpatialExtremes",
         "car",
         "haven",
-        "modelr",
         "pbkrtest",
         "lme4",
         "nloptr",
@@ -6766,8 +6755,7 @@
     ],
     "mGSZ": [],
     "tidyverse": [
-        "haven",
-        "modelr"
+        "haven"
     ],
     "Mus.musculus": [
         "OrganismDbi",
@@ -6787,7 +6775,6 @@
         "biomaRt"
     ],
     "haven": [],
-    "modelr": [],
     "reactome.db": [],
     "doBy": [
         "pbkrtest",
