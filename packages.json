@@ -50130,7 +50130,6 @@
         "memoise",
         "cachem"
     ],
-    "MPFE": [],
     "mpra": [
         "SummarizedExperiment",
         "S4Vectors",
