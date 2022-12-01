@@ -2260,7 +2260,6 @@
         "bumphunter",
         "GEOquery"
     ],
-    "fgga": [],
     "FindIT2": [
         "GenomicFeatures",
         "biomaRt"
