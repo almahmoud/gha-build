@@ -308,9 +308,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "crisprseekplus": [
-        "GUIDEseq"
-    ],
+    "crisprseekplus": [],
     "crisprVerse": [
         "crisprScore",
         "crisprDesign",
@@ -638,7 +636,6 @@
         "BiocVersion"
     ],
     "GSReg": [],
-    "GUIDEseq": [],
     "Gviz": [],
     "gwascat": [
         "AnnotationHub",
