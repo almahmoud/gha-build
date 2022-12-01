@@ -551,7 +551,6 @@
         "ExperimentHub",
         "BiocVersion"
     ],
-    "GSReg": [],
     "Gviz": [],
     "gwascat": [
         "AnnotationHub",
