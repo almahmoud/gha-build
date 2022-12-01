@@ -107933,7 +107933,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "car",
-        "pwr",
         "pheatmap",
         "carData",
         "abind",
@@ -108032,7 +108031,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "car",
-        "pwr",
         "pheatmap",
         "carData",
         "abind",
@@ -108149,7 +108147,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "car",
-        "pwr",
         "farver",
         "labeling",
         "munsell",
@@ -158118,7 +158115,6 @@
         "utf8",
         "rappdirs"
     ],
-    "pwr": [],
     "bladderbatch": [
         "Biobase",
         "BiocGenerics"
