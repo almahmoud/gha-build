@@ -511,7 +511,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "maser": [],
     "mCSEA": [],
     "MEAL": [
         "missMethyl"
