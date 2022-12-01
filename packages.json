@@ -411,7 +411,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "omicRexposome": [],
     "OMICsPCA": [],
     "omicsViewer": [],
     "onlineFDR": [],
