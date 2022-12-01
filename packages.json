@@ -25930,7 +25930,6 @@
         "knitr",
         "gdtools",
         "classInt",
-        "s2",
         "systemfonts",
         "highr",
         "bslib",
@@ -28544,7 +28543,6 @@
         "DelayedMatrixStats",
         "beachmat",
         "classInt",
-        "s2",
         "DropletUtils",
         "BiocFileCache",
         "Biobase",
@@ -31138,7 +31136,6 @@
         "RcppEigen",
         "nloptr",
         "classInt",
-        "s2",
         "e1071",
         "blob",
         "sparseMatrixStats",
@@ -54600,7 +54597,6 @@
         "gplots",
         "reshape2",
         "classInt",
-        "s2",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -55603,7 +55599,6 @@
         "treeio",
         "gplots",
         "classInt",
-        "s2",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -55705,7 +55700,6 @@
         "blob",
         "reshape2",
         "classInt",
-        "s2",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -58939,7 +58933,6 @@
         "SummarizedExperiment",
         "futile.logger",
         "classInt",
-        "s2",
         "GenomicRanges",
         "DelayedArray",
         "DropletUtils",
@@ -59367,7 +59360,6 @@
         "XVector",
         "testthat",
         "classInt",
-        "s2",
         "e1071",
         "blob",
         "sparseMatrixStats",
@@ -60597,7 +60589,6 @@
         "rmarkdown",
         "selectr",
         "classInt",
-        "s2",
         "Biobase",
         "e1071",
         "highr",
@@ -60691,7 +60682,6 @@
         "BiocFileCache",
         "spData",
         "sf",
-        "s2",
         "e1071",
         "GenomicRanges",
         "Biobase",
@@ -61501,7 +61491,6 @@
         "rmarkdown",
         "selectr",
         "classInt",
-        "s2",
         "xts",
         "lwgeom",
         "e1071",
@@ -65919,7 +65908,6 @@
         "tibble",
         "vctrs",
         "classInt",
-        "s2",
         "GenomicRanges",
         "DelayedArray",
         "DropletUtils",
@@ -73453,7 +73441,6 @@
         "knitr",
         "gdtools",
         "classInt",
-        "s2",
         "e1071",
         "systemfonts",
         "highr",
@@ -73467,13 +73454,11 @@
     "dtangle": [],
     "sf": [
         "classInt",
-        "s2",
         "e1071"
     ],
     "classInt": [
         "e1071"
     ],
-    "s2": [],
     "penalized": [
         "survival"
     ],
@@ -73659,7 +73644,6 @@
         "vctrs",
         "pillar",
         "classInt",
-        "s2",
         "e1071"
     ],
     "Rlabkey": [
@@ -76759,7 +76743,6 @@
     "spdep": [
         "spData",
         "sf",
-        "s2",
         "e1071",
         "classInt"
     ],
@@ -76978,7 +76961,6 @@
         "spacetime",
         "stars",
         "classInt",
-        "s2",
         "xts",
         "lwgeom",
         "e1071"
@@ -76997,7 +76979,6 @@
     "sftime": [
         "sf",
         "classInt",
-        "s2",
         "e1071"
     ],
     "spacetime": [
@@ -77007,13 +76988,11 @@
         "sf",
         "classInt",
         "lwgeom",
-        "e1071",
-        "s2"
+        "e1071"
     ],
     "lwgeom": [
         "sf",
         "classInt",
-        "s2",
         "e1071"
     ],
     "spsUtil": [
