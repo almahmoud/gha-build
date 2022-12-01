@@ -28406,7 +28406,6 @@
         "ids",
         "rematch2",
         "nloptr",
-        "bayestestR",
         "vroom",
         "clock",
         "hardhat",
@@ -28525,7 +28524,6 @@
         "openssl",
         "Biostrings",
         "nloptr",
-        "bayestestR",
         "vroom",
         "clock",
         "hardhat",
@@ -46246,7 +46244,6 @@
         "rematch2",
         "openssl",
         "nloptr",
-        "bayestestR",
         "vroom",
         "clock",
         "hardhat",
@@ -57681,7 +57678,6 @@
         "scales",
         "nloptr",
         "RcppEigen",
-        "bayestestR",
         "clock",
         "hardhat",
         "ipred",
@@ -57716,9 +57712,7 @@
         "vctrs",
         "pillar"
     ],
-    "parameters": [
-        "bayestestR"
-    ],
+    "parameters": [],
     "rearrr": [
         "dplyr",
         "tibble",
@@ -57726,7 +57720,6 @@
         "vctrs",
         "pillar"
     ],
-    "bayestestR": [],
     "echarts4r": [
         "htmlwidgets",
         "dplyr",
