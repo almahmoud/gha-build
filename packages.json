@@ -3966,9 +3966,7 @@
         "testthat",
         "waldo"
     ],
-    "flowGraph": [
-        "ggiraph"
-    ],
+    "flowGraph": [],
     "flowPloidy": [
         "car",
         "pbkrtest",
@@ -4424,7 +4422,6 @@
         "lmerTest",
         "GGally",
         "nloptr",
-        "ggiraph",
         "ggthemes",
         "waldo",
         "tidyr"
@@ -4464,7 +4461,6 @@
         "GGally",
         "tidyr",
         "lme4",
-        "ggiraph",
         "ggthemes",
         "nloptr",
         "testthat",
@@ -7427,7 +7423,6 @@
         "rtracklayer"
     ],
     "NanoStringNCTools": [
-        "ggiraph",
         "ggthemes"
     ],
     "NanoStringQCPro": [
@@ -10682,7 +10677,6 @@
         "scuttle"
     ],
     "SpatialCPie": [
-        "ggiraph",
         "readr",
         "tidyr"
     ],
@@ -10700,7 +10694,6 @@
         "GGally",
         "tidyr",
         "lme4",
-        "ggiraph",
         "ggthemes",
         "nloptr",
         "testthat",
@@ -11600,7 +11593,6 @@
     ],
     "treekoR": [
         "tidyr",
-        "ggiraph",
         "ggtree",
         "patchwork",
         "diffcyt",
@@ -12875,7 +12867,6 @@
     ],
     "hdrcde": [],
     "SPARQL": [],
-    "ggiraph": [],
     "RecordLinkage": [
         "ipred"
     ],
