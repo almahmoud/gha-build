@@ -13802,7 +13802,6 @@
         "reshape2",
         "dplyr",
         "Rgraphviz",
-        "harmonicmeanp",
         "org.Hs.eg.db",
         "shadowtext",
         "lifecycle",
@@ -31554,7 +31553,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "gplots",
-        "harmonicmeanp",
         "heatmaply",
         "httr",
         "IRanges",
@@ -67217,7 +67215,6 @@
         "quantreg",
         "MatrixModels"
     ],
-    "harmonicmeanp": [],
     "TFisher": [
         "sn",
         "quantreg",
