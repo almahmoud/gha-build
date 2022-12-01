@@ -297,7 +297,6 @@
         "Rsamtools",
         "GenomicFeatures",
         "Gviz",
-        "seqinr",
         "RSQLite",
         "KEGGREST",
         "rtracklayer",
@@ -702,7 +701,6 @@
         "COSMIC.67",
         "PolyPhen.Hsapiens.dbSNP131",
         "SIFT.Hsapiens.dbSNP137",
-        "seqinr",
         "Rsamtools",
         "GenomicFeatures",
         "GenomicScores",
@@ -807,7 +805,6 @@
         "MSstats",
         "org.Hs.eg.db",
         "plotly",
-        "seqinr",
         "tidyr",
         "UpSetR",
         "RSQLite",
@@ -2985,7 +2982,6 @@
         "ggplot2",
         "ShortRead",
         "egg",
-        "seqinr",
         "tibble",
         "Rsamtools",
         "GenomicAlignments",
@@ -3856,7 +3852,6 @@
         "readr",
         "rtracklayer",
         "DESeq2",
-        "seqinr",
         "ggplot2",
         "universalmotif",
         "AnnotationHub",
@@ -3945,7 +3940,6 @@
     "cleanUpdTSeq": [
         "BSgenome.Drerio.UCSC.danRer7",
         "BSgenome",
-        "seqinr",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -5025,7 +5019,6 @@
         "shiny"
     ],
     "CRISPRseek": [
-        "seqinr",
         "BSgenome",
         "dplyr",
         "keras",
@@ -5050,7 +5043,6 @@
         "KEGGREST",
         "rtracklayer",
         "Rsamtools",
-        "seqinr",
         "dplyr",
         "keras",
         "biomaRt",
@@ -9072,9 +9064,7 @@
         "tibble",
         "tidyselect"
     ],
-    "GeneGA": [
-        "seqinr"
-    ],
+    "GeneGA": [],
     "GeneGeneInteR": [
         "Rsamtools",
         "FactoMineR",
@@ -10334,7 +10324,6 @@
         "InteractionSet",
         "KEGGREST",
         "regioneR",
-        "seqinr",
         "keras",
         "tibble",
         "tidyselect",
@@ -11153,7 +11142,6 @@
     ],
     "IMMAN": [
         "STRINGdb",
-        "seqinr",
         "sqldf",
         "RSQLite"
     ],
@@ -11235,7 +11223,6 @@
         "rtracklayer",
         "Rsamtools",
         "BSgenome.Drerio.UCSC.danRer7",
-        "seqinr",
         "tibble",
         "tidyselect",
         "biomaRt",
@@ -11401,7 +11388,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "GenomicFeatures",
-        "seqinr",
         "GenomicAlignments",
         "DEXSeq",
         "DESeq2",
@@ -13462,9 +13448,7 @@
         "tibble",
         "GenomicAlignments"
     ],
-    "MethTargetedNGS": [
-        "seqinr"
-    ],
+    "MethTargetedNGS": [],
     "MethylAid": [
         "ggplot2",
         "minfi",
@@ -13715,7 +13699,6 @@
     "methylscaper": [
         "shiny",
         "shinyjs",
-        "seqinr",
         "shinyFiles",
         "SummarizedExperiment",
         "tibble"
@@ -14996,7 +14979,6 @@
     "msa": [],
     "MSA2dist": [
         "dplyr",
-        "seqinr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -15374,7 +15356,6 @@
         "tidyr",
         "tidyselect",
         "Rsamtools",
-        "seqinr",
         "dplyr",
         "keras",
         "AnnotationDbi",
@@ -16758,7 +16739,6 @@
         "tidyselect"
     ],
     "openPrimeR": [
-        "seqinr",
         "ggplot2",
         "dplyr",
         "DECIPHER",
@@ -16774,7 +16754,6 @@
         "shinyjs",
         "shinyBS",
         "rmarkdown",
-        "seqinr",
         "ggplot2",
         "dplyr",
         "DECIPHER",
@@ -20848,7 +20827,6 @@
         "ggdendro",
         "shinyWidgets",
         "rmarkdown",
-        "seqinr",
         "BiocStyle",
         "bookdown",
         "RSQLite",
@@ -22619,7 +22597,6 @@
         "ggplot2",
         "ggrepel",
         "ggtree",
-        "seqinr",
         "tidytree",
         "ggfun",
         "ggplotify",
@@ -23043,8 +23020,7 @@
         "viridis"
     ],
     "specL": [
-        "RSQLite",
-        "seqinr"
+        "RSQLite"
     ],
     "SpeCond": [
         "fields",
@@ -23412,9 +23388,7 @@
         "rematch2",
         "tidyselect"
     ],
-    "sscu": [
-        "seqinr"
-    ],
+    "sscu": [],
     "sSNAPPY": [
         "dplyr",
         "graphite",
@@ -23761,7 +23735,6 @@
     "surfaltr": [
         "dplyr",
         "biomaRt",
-        "seqinr",
         "ggplot2",
         "readr",
         "testthat",
@@ -23959,9 +23932,7 @@
         "waldo",
         "rematch2"
     ],
-    "SynMut": [
-        "seqinr"
-    ],
+    "SynMut": [],
     "syntenet": [
         "rtracklayer",
         "ggplot2",
@@ -25856,7 +25827,6 @@
         "ggplot2",
         "Hmisc",
         "rtracklayer",
-        "seqinr",
         "AnnotationDbi",
         "RSQLite",
         "biomaRt",
@@ -26334,7 +26304,6 @@
     "shinydashboard": [
         "shiny"
     ],
-    "seqinr": [],
     "readxl": [
         "cellranger",
         "tibble",
