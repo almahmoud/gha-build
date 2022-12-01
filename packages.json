@@ -160,8 +160,7 @@
         "testthat",
         "treeio",
         "ggrastr",
-        "waldo",
-        "tidytree"
+        "waldo"
     ],
     "AneuFinder": [],
     "animalcules": [
@@ -551,7 +550,6 @@
         "MultiAssayExperiment",
         "scater",
         "testthat",
-        "tidytree",
         "ggrastr",
         "waldo"
     ],
@@ -630,7 +628,6 @@
         "lme4",
         "ggtree",
         "tidygraph",
-        "tidytree",
         "treeio",
         "nloptr",
         "testthat",
@@ -1052,7 +1049,6 @@
     "cardelino": [
         "ggtree",
         "VariantAnnotation",
-        "tidytree",
         "treeio",
         "rtracklayer",
         "BSgenome",
@@ -1111,8 +1107,7 @@
     "CBEA": [
         "BiocSet",
         "TreeSummarizedExperiment",
-        "treeio",
-        "tidytree"
+        "treeio"
     ],
     "cBioPortalData": [
         "MultiAssayExperiment",
@@ -1201,7 +1196,6 @@
         "ggraph",
         "ggtree",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "censcyt": [
@@ -1248,7 +1242,6 @@
         "pbkrtest",
         "lme4",
         "tidygraph",
-        "tidytree",
         "treeio",
         "nloptr",
         "testthat",
@@ -1414,7 +1407,6 @@
         "HDO.db",
         "fgsea",
         "tidygraph",
-        "tidytree",
         "treeio",
         "GO.db"
     ],
@@ -1560,7 +1552,6 @@
         "ggraph",
         "ggtree",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "clustifyr": [
@@ -1655,7 +1646,6 @@
     ],
     "cogeqc": [
         "ggtree",
-        "tidytree",
         "treeio"
     ],
     "Cogito": [
@@ -1758,7 +1748,6 @@
         "pbkrtest",
         "lme4",
         "tidygraph",
-        "tidytree",
         "treeio",
         "broom",
         "nloptr",
@@ -2236,7 +2225,6 @@
         "dendextend",
         "genefilter",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "deco": [],
@@ -2644,7 +2632,6 @@
         "ggraph",
         "ggtree",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "easyRNASeq": [
@@ -2696,7 +2683,6 @@
         "ggraph",
         "ggtree",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "EGAD": [
@@ -2787,7 +2773,6 @@
         "HDO.db",
         "fgsea",
         "tidygraph",
-        "tidytree",
         "treeio",
         "GO.db"
     ],
@@ -2815,7 +2800,6 @@
         "pbkrtest",
         "lme4",
         "tidygraph",
-        "tidytree",
         "treeio",
         "nloptr",
         "testthat",
@@ -2859,7 +2843,6 @@
         "HDO.db",
         "fgsea",
         "tidygraph",
-        "tidytree",
         "treeio",
         "GO.db"
     ],
@@ -2908,7 +2891,6 @@
         "GOSemSim",
         "ggtree",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "EpiMix": [
@@ -3050,7 +3032,6 @@
         "ggraph",
         "ggtree",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "escape": [
@@ -3083,7 +3064,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "rstatix",
-        "tidytree",
         "treeio",
         "plotly",
         "readr",
@@ -3130,8 +3110,7 @@
         "TreeSummarizedExperiment",
         "DropletUtils",
         "BiocFileCache",
-        "treeio",
-        "tidytree"
+        "treeio"
     ],
     "ExploreModelMatrix": [],
     "extraChIPs": [
@@ -3177,7 +3156,6 @@
         "ggraph",
         "ggtree",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "fastLiquidAssociation": [
@@ -3212,7 +3190,6 @@
         "ggraph",
         "ggtree",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "fcScan": [
@@ -3495,7 +3472,6 @@
         "ggtree",
         "rstatix",
         "tidygraph",
-        "tidytree",
         "treeio",
         "car",
         "pbkrtest",
@@ -3774,7 +3750,6 @@
         "ggalt",
         "ggtree",
         "plotly",
-        "tidytree",
         "treeio"
     ],
     "GGPA": [
@@ -3786,17 +3761,14 @@
         "BiocFileCache"
     ],
     "ggtree": [
-        "tidytree",
         "treeio"
     ],
     "ggtreeDendro": [
         "ggtree",
-        "tidytree",
         "treeio"
     ],
     "ggtreeExtra": [
         "ggtree",
-        "tidytree",
         "treeio"
     ],
     "girafe": [
@@ -3910,7 +3882,6 @@
         "ggraph",
         "ggtree",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "goSTAG": [
@@ -4461,7 +4432,6 @@
         "car",
         "pbkrtest",
         "lme4",
-        "tidytree",
         "treeio",
         "nloptr",
         "testthat",
@@ -4660,7 +4630,6 @@
     "Linnorm": [],
     "LinTInd": [
         "ggtree",
-        "tidytree",
         "treeio"
     ],
     "lipidr": [
@@ -4733,7 +4702,6 @@
     ],
     "LymphoSeq": [
         "ggtree",
-        "tidytree",
         "treeio"
     ],
     "M3Drop": [
@@ -4831,7 +4799,6 @@
         "BiocFileCache",
         "BiocVersion",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "MAI": [
@@ -5036,7 +5003,6 @@
         "ggtree",
         "GO.db",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "meshr": [
@@ -5123,7 +5089,6 @@
         "ggraph",
         "ggtree",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "metapone": [
@@ -5288,7 +5253,6 @@
         "biomaRt",
         "readr",
         "tidygraph",
-        "tidytree",
         "treeio",
         "BiocFileCache"
     ],
@@ -5356,13 +5320,11 @@
         "MultiAssayExperiment",
         "scater",
         "ggrastr",
-        "treeio",
-        "tidytree"
+        "treeio"
     ],
     "miaSim": [
         "TreeSummarizedExperiment",
-        "treeio",
-        "tidytree"
+        "treeio"
     ],
     "miaViz": [
         "TreeSummarizedExperiment",
@@ -5370,7 +5332,6 @@
         "ggraph",
         "scater",
         "ggtree",
-        "tidytree",
         "tidygraph",
         "treeio",
         "MultiAssayExperiment",
@@ -5395,7 +5356,6 @@
     ],
     "microbiomeMarker": [
         "ggtree",
-        "tidytree",
         "DESeq2",
         "ANCOMBC",
         "caret",
@@ -5425,12 +5385,10 @@
         "HDO.db",
         "fgsea",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "MicrobiotaProcess": [
         "ggtree",
-        "tidytree",
         "treeio",
         "ggtreeExtra"
     ],
@@ -5568,7 +5526,6 @@
         "haven",
         "modelr",
         "readr",
-        "tidytree",
         "treeio",
         "nloptr",
         "car",
@@ -5606,7 +5563,6 @@
         "haven",
         "modelr",
         "readr",
-        "tidytree",
         "treeio",
         "nloptr",
         "car",
@@ -5736,7 +5692,6 @@
         "ggraph",
         "ggtree",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "mosbi": [
@@ -6012,7 +5967,6 @@
         "HDO.db",
         "fgsea",
         "tidygraph",
-        "tidytree",
         "treeio",
         "plotly",
         "waldo"
@@ -6218,7 +6172,6 @@
         "ggraph",
         "ggtree",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "netDx": [
@@ -6570,7 +6523,6 @@
         "ggpubr",
         "ggtree",
         "rstatix",
-        "tidytree",
         "treeio",
         "plotly",
         "readr",
@@ -6652,7 +6604,6 @@
         "ggraph",
         "ggtree",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "PanViz": [],
@@ -6757,7 +6708,6 @@
         "ggraph",
         "ggtree",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "phantasus": [
@@ -6807,7 +6757,6 @@
     ],
     "philr": [
         "ggtree",
-        "tidytree",
         "treeio"
     ],
     "PhIPData": [
@@ -6864,7 +6813,6 @@
         "Hmisc",
         "ggtree",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "PING": [
@@ -7069,7 +7017,6 @@
         "HDO.db",
         "fgsea",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "progeny": [
@@ -7449,7 +7396,6 @@
         "GOSemSim",
         "ggtree",
         "tidygraph",
-        "tidytree",
         "treeio",
         "GO.db"
     ],
@@ -7932,7 +7878,6 @@
         "rstatix",
         "genefilter",
         "tidygraph",
-        "tidytree",
         "treeio",
         "nloptr",
         "broom",
@@ -8184,7 +8129,6 @@
     "scBubbletree": [
         "Seurat",
         "ggtree",
-        "tidytree",
         "treeio",
         "plotly"
     ],
@@ -8365,7 +8309,6 @@
         "Seurat",
         "ggtree",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "scTGIF": [
@@ -8410,7 +8353,6 @@
         "HDO.db",
         "fgsea",
         "tidygraph",
-        "tidytree",
         "treeio",
         "GO.db"
     ],
@@ -8549,7 +8491,6 @@
         "ggraph",
         "ggtree",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "signeR": [
@@ -8664,7 +8605,6 @@
         "geneplotter",
         "GenomicFeatures",
         "rtracklayer",
-        "tidytree",
         "treeio",
         "hgu95a.db",
         "ggrastr",
@@ -8704,7 +8644,6 @@
     ],
     "sitePath": [
         "ggtree",
-        "tidytree",
         "treeio"
     ],
     "skewr": [
@@ -9192,7 +9131,6 @@
         "ggtree",
         "plotly",
         "geneplotter",
-        "tidytree",
         "treeio"
     ],
     "TADCompare": [
@@ -9209,7 +9147,6 @@
     ],
     "tanggle": [
         "ggtree",
-        "tidytree",
         "treeio"
     ],
     "TAPseq": [
@@ -9291,7 +9228,6 @@
         "Hmisc",
         "VariantAnnotation",
         "tidygraph",
-        "tidytree",
         "treeio",
         "broom",
         "car",
@@ -9407,7 +9343,6 @@
         "ggraph",
         "ggtree",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "TIN": [
@@ -9536,15 +9471,12 @@
     "traviz": [
         "slingshot"
     ],
-    "treeio": [
-        "tidytree"
-    ],
+    "treeio": [],
     "treekoR": [
         "ggtree",
         "diffcyt",
         "lme4",
         "FlowSOM",
-        "tidytree",
         "treeio",
         "nloptr",
         "ggpubr",
@@ -9556,8 +9488,7 @@
         "pbkrtest"
     ],
     "TreeSummarizedExperiment": [
-        "treeio",
-        "tidytree"
+        "treeio"
     ],
     "trena": [
         "MotifDb",
@@ -10043,7 +9974,6 @@
         "testthat",
         "waldo"
     ],
-    "tidytree": [],
     "caret": [
         "recipes"
     ],
