@@ -23770,7 +23770,6 @@
         "recipes",
         "tibble",
         "tidyselect",
-        "slider",
         "hardhat",
         "ipred",
         "prodlim",
@@ -29627,12 +29626,10 @@
     ],
     "rsample": [
         "dplyr",
-        "slider",
         "tibble",
         "tidyr",
         "tidyselect"
     ],
-    "slider": [],
     "clustvarsel": [],
     "gstat": [
         "sf",
