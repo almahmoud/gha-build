@@ -2870,9 +2870,7 @@
         "ggtree",
         "ggtreeExtra"
     ],
-    "midasHLA": [
-        "HardyWeinberg"
-    ],
+    "midasHLA": [],
     "MIGSA": [
         "GOstats",
         "Category"
@@ -5606,7 +5604,6 @@
         "BiocCheck",
         "OrganismDbi"
     ],
-    "HardyWeinberg": [],
     "BSgenome.Hsapiens.UCSC.hg18": [],
     "cvms": [
         "lme4",
