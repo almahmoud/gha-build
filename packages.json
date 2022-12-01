@@ -2865,7 +2865,6 @@
         "survival",
         "httr",
         "tidyr",
-        "TSP",
         "RSQLite",
         "KEGGREST",
         "openssl",
@@ -9726,7 +9725,6 @@
     "contiBAIT": [
         "Rsamtools",
         "GenomicRanges",
-        "TSP",
         "GenomicFiles",
         "rtracklayer",
         "BiocParallel",
@@ -11877,7 +11875,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "TSP",
         "tweenr"
     ],
     "DECIPHER": [
@@ -12221,7 +12218,6 @@
         "openssl",
         "blob",
         "restfulr",
-        "TSP",
         "DelayedArray",
         "dbplyr",
         "hms"
@@ -13239,8 +13235,7 @@
         "sass",
         "XVector",
         "openssl",
-        "selectr",
-        "TSP"
+        "selectr"
     ],
     "distinct": [
         "Rfast",
@@ -17418,8 +17413,7 @@
         "hms",
         "blob",
         "restfulr",
-        "annotate",
-        "TSP"
+        "annotate"
     ],
     "frenchFISH": [
         "MCMCpack",
@@ -19107,7 +19101,6 @@
         "cellranger",
         "progress",
         "RcppEigen",
-        "TSP",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -20284,7 +20277,6 @@
     "GraphPAC": [
         "iPAC",
         "igraph",
-        "TSP",
         "Biostrings",
         "multtest",
         "XVector",
@@ -22014,7 +22006,6 @@
         "Biostrings",
         "doParallel",
         "blob",
-        "TSP",
         "igraph",
         "dbplyr",
         "hms",
@@ -22359,8 +22350,7 @@
         "jquerylib",
         "sass",
         "tidyselect",
-        "pillar",
-        "TSP"
+        "pillar"
     ],
     "immunoClust": [],
     "immunotation": [
@@ -26674,7 +26664,6 @@
         "tidyr",
         "lava",
         "hms",
-        "TSP",
         "latticeExtra",
         "pillar",
         "tidyselect",
@@ -27435,7 +27424,6 @@
         "GenomeInfoDb",
         "ade4",
         "segmented",
-        "TSP",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -27926,7 +27914,6 @@
         "RcppEigen",
         "openssl",
         "nloptr",
-        "TSP",
         "DelayedArray",
         "progress",
         "RSQLite",
@@ -32153,7 +32140,6 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "TSP",
         "Hmisc",
         "dbplyr",
         "dplyr",
@@ -33964,7 +33950,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "TSP",
         "dbplyr",
         "hms"
     ],
@@ -34529,8 +34514,7 @@
         "openssl",
         "Biostrings",
         "hms",
-        "blob",
-        "TSP"
+        "blob"
     ],
     "pcaMethods": [],
     "PCAN": [
@@ -37446,7 +37430,6 @@
         "tidyr",
         "dplyr",
         "RcppEigen",
-        "TSP",
         "pillar",
         "lmtest",
         "tidyselect",
@@ -37740,7 +37723,6 @@
         "GraphPAC",
         "SpacePAC",
         "igraph",
-        "TSP",
         "Biostrings",
         "multtest",
         "XVector",
@@ -43552,7 +43534,6 @@
         "openssl",
         "DT",
         "Biostrings",
-        "TSP",
         "fitdistrplus",
         "future",
         "future.apply",
@@ -43798,7 +43779,6 @@
         "randomcoloR",
         "doParallel",
         "scales",
-        "TSP",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -44280,7 +44260,6 @@
         "XVector",
         "tibble",
         "vctrs",
-        "TSP",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -44412,7 +44391,6 @@
         "rhdf5",
         "openssl",
         "base64",
-        "TSP",
         "multtest",
         "RSQLite",
         "KEGGREST",
@@ -45102,7 +45080,6 @@
     ],
     "sincell": [
         "igraph",
-        "TSP",
         "ggplot2",
         "reshape2",
         "fields",
@@ -46728,8 +46705,7 @@
         "blob",
         "pillar",
         "tidyselect",
-        "openssl",
-        "TSP"
+        "openssl"
     ],
     "SplicingFactory": [
         "SummarizedExperiment",
@@ -51635,7 +51611,6 @@
         "hms",
         "vroom",
         "blob",
-        "TSP",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -54438,14 +54413,11 @@
         "httr",
         "tidyr",
         "dplyr",
-        "TSP",
         "tidyselect",
         "pillar",
         "openssl"
     ],
-    "seriation": [
-        "TSP"
-    ],
+    "seriation": [],
     "webshot": [],
     "egg": [
         "ggplot2",
@@ -54455,7 +54427,6 @@
         "vctrs",
         "pillar"
     ],
-    "TSP": [],
     "DirichletReg": [
         "maxLik",
         "sandwich"
@@ -57393,8 +57364,7 @@
         "sass",
         "mgcv",
         "openssl",
-        "hms",
-        "TSP"
+        "hms"
     ],
     "shinybusy": [
         "shiny",
