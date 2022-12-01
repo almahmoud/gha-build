@@ -6961,7 +6961,6 @@
         "diffobj",
         "rematch2"
     ],
-    "BAC": [],
     "bacon": [
         "ggplot2",
         "BiocParallel",
