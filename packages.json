@@ -2482,7 +2482,6 @@
         "lmerTest",
         "lme4"
     ],
-    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [
         "scater"
     ],
@@ -2745,9 +2744,7 @@
         "textclean",
         "BiocVersion"
     ],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "vtpnet": [
         "gwascat",
         "VariantAnnotation",
