@@ -13106,7 +13106,6 @@
         "DelayedArray",
         "XVector"
     ],
-    "dks": [],
     "DMCFB": [
         "SummarizedExperiment",
         "BiocParallel",
