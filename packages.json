@@ -26882,7 +26882,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "officer",
         "rmarkdown",
         "knitr",
         "htmltools",
@@ -28851,7 +28850,6 @@
         "lubridate",
         "zoo",
         "flextable",
-        "officer",
         "mgcv",
         "ellipsis",
         "rmarkdown",
@@ -81875,7 +81873,6 @@
         "memoise"
     ],
     "flextable": [
-        "officer",
         "rmarkdown",
         "knitr",
         "htmltools",
@@ -81889,7 +81886,6 @@
         "cachem",
         "memoise"
     ],
-    "officer": [],
     "gdtools": [
         "systemfonts"
     ],
@@ -82081,7 +82077,6 @@
         "lubridate",
         "zoo",
         "flextable",
-        "officer",
         "rmarkdown",
         "knitr",
         "htmltools",
