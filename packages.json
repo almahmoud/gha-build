@@ -1115,9 +1115,7 @@
         "nloptr",
         "testthat"
     ],
-    "DAPAR": [
-        "DAPARdata"
-    ],
+    "DAPAR": [],
     "dasper": [
         "GenomicFeatures",
         "ggpubr",
@@ -3719,8 +3717,7 @@
         "sva"
     ],
     "Prostar": [
-        "DAPAR",
-        "DAPARdata"
+        "DAPAR"
     ],
     "proteasy": [
         "ensembldb",
@@ -5456,7 +5453,6 @@
         "nloptr",
         "testthat"
     ],
-    "DAPARdata": [],
     "cmdfun": [
         "testthat"
     ],
