@@ -50,9 +50,7 @@
         "BiocVersion"
     ],
     "ArrayExpressHTS": [],
-    "arrayMvout": [
-        "lumi"
-    ],
+    "arrayMvout": [],
     "ASpediaFI": [
         "mGSZ"
     ],
@@ -74,8 +72,7 @@
         "scater"
     ],
     "bigmelon": [
-        "wateRmelon",
-        "lumi"
+        "wateRmelon"
     ],
     "bioCancer": [
         "radiant.data"
@@ -150,7 +147,6 @@
         "wateRmelon",
         "missMethyl",
         "ExperimentHub",
-        "lumi",
         "AnnotationHub",
         "BiocVersion"
     ],
@@ -346,9 +342,7 @@
         "BiocVersion"
     ],
     "extraChIPs": [],
-    "ffpe": [
-        "lumi"
-    ],
+    "ffpe": [],
     "FLAMES": [
         "scater"
     ],
@@ -432,9 +426,7 @@
     ],
     "hpar": [],
     "HTSeqGenie": [],
-    "iCheck": [
-        "lumi"
-    ],
+    "iCheck": [],
     "InTAD": [
         "ggpubr",
         "rstatix"
@@ -490,7 +482,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "lumi": [],
     "m6Aboost": [
         "ExperimentHub",
         "AnnotationHub",
@@ -516,8 +507,7 @@
         "missMethyl"
     ],
     "MEAT": [
-        "wateRmelon",
-        "lumi"
+        "wateRmelon"
     ],
     "MEDME": [],
     "meshes": [
@@ -572,9 +562,7 @@
         "mia",
         "scater"
     ],
-    "MineICA": [
-        "lumi"
-    ],
+    "MineICA": [],
     "miRSM": [
         "miRspongeR",
         "SPONGE",
@@ -913,8 +901,7 @@
         "QuasR"
     ],
     "skewr": [
-        "wateRmelon",
-        "lumi"
+        "wateRmelon"
     ],
     "sojourner": [
         "sampSurf"
@@ -1034,9 +1021,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "wateRmelon": [
-        "lumi"
-    ],
+    "wateRmelon": [],
     "YAPSA": [
         "SomaticSignatures"
     ],
