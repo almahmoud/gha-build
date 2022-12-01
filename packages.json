@@ -6822,7 +6822,6 @@
         "RcppGSL",
         "cellranger",
         "rhdf5filters",
-        "slam",
         "beachmat",
         "BiocNeighbors",
         "BiocSingular",
@@ -9594,7 +9593,6 @@
     ],
     "BiRewire": [
         "igraph",
-        "slam",
         "Rtsne",
         "Matrix",
         "magrittr",
@@ -13972,7 +13970,6 @@
     "cellTree": [
         "topGO",
         "topicmodels",
-        "slam",
         "maptpx",
         "igraph",
         "gplots",
@@ -16680,7 +16677,6 @@
         "leidenbase",
         "qlcMatrix",
         "pheatmap",
-        "slam",
         "viridis",
         "biocViews",
         "Rcpp",
@@ -17404,7 +17400,6 @@
         "ggplot2",
         "XML",
         "scales",
-        "slam",
         "sparsesvd",
         "robustbase",
         "SummarizedExperiment",
@@ -19266,7 +19261,6 @@
         "Matrix",
         "highr",
         "stringr",
-        "slam",
         "S4Vectors",
         "askpass",
         "magrittr",
@@ -21230,7 +21224,6 @@
         "caTools",
         "lifecycle",
         "vctrs",
-        "slam",
         "farver",
         "labeling",
         "munsell",
@@ -25952,7 +25945,6 @@
         "textshape",
         "whisker",
         "NLP",
-        "slam",
         "BH",
         "sylly.en",
         "syuzhet",
@@ -37256,7 +37248,6 @@
         "labeling",
         "munsell",
         "viridisLite",
-        "slam",
         "gridExtra",
         "lambda.r",
         "cachem",
@@ -39713,7 +39704,6 @@
         "restfulr",
         "NLP",
         "Rcpp",
-        "slam",
         "BH",
         "htmltools",
         "jquerylib",
@@ -40761,7 +40751,6 @@
         "whisker",
         "tidyselect",
         "NLP",
-        "slam",
         "BH",
         "httr",
         "rvest",
@@ -47346,7 +47335,6 @@
         "seriation",
         "webshot",
         "egg",
-        "slam",
         "highr",
         "genefilter",
         "NMF",
@@ -47678,7 +47666,6 @@
         "ellipsis"
     ],
     "IHW": [
-        "slam",
         "BiocGenerics"
     ],
     "illuminaio": [
@@ -63535,7 +63522,6 @@
         "qlcMatrix",
         "pheatmap",
         "stringr",
-        "slam",
         "viridis",
         "biocViews",
         "Rcpp",
@@ -67149,7 +67135,6 @@
         "readr",
         "cpp11",
         "modeltools",
-        "slam",
         "tm",
         "FNN",
         "RcppAnnoy",
@@ -74604,7 +74589,6 @@
         "clock",
         "hardhat",
         "lubridate",
-        "slam",
         "httpuv",
         "mime",
         "fontawesome",
@@ -75422,7 +75406,6 @@
         "jquerylib",
         "promises",
         "cowplot",
-        "slam",
         "httpuv",
         "mime",
         "fontawesome",
@@ -76212,7 +76195,6 @@
         "BH",
         "caTools",
         "rlang",
-        "slam",
         "farver",
         "labeling",
         "lifecycle",
@@ -81852,7 +81834,6 @@
         "ggplot2",
         "cowplot",
         "vctrs",
-        "slam",
         "httpuv",
         "mime",
         "fontawesome",
@@ -88813,7 +88794,6 @@
         "cachem",
         "ellipsis",
         "NLP",
-        "slam",
         "BH",
         "igraph",
         "Matrix",
@@ -97043,7 +97023,6 @@
         "GO.db",
         "org.Hs.eg.db",
         "AnnotationDbi",
-        "slam",
         "clue",
         "proxyC",
         "Matrix",
@@ -102211,7 +102190,6 @@
         "ggplot2",
         "scatterpie",
         "viridis",
-        "slam",
         "clue",
         "liger",
         "reshape2",
@@ -107166,7 +107144,6 @@
         "jquerylib",
         "promises",
         "cowplot",
-        "slam",
         "httpuv",
         "mime",
         "fontawesome",
@@ -109019,7 +108996,6 @@
         "textclean",
         "textshape",
         "NLP",
-        "slam",
         "BH",
         "lifecycle",
         "tidyselect",
@@ -109882,7 +109858,6 @@
         "qlcMatrix",
         "pheatmap",
         "stringr",
-        "slam",
         "viridis",
         "biocViews",
         "Rcpp",
@@ -110049,7 +110024,6 @@
         "textclean",
         "textshape",
         "NLP",
-        "slam",
         "bit64",
         "progress",
         "zlibbioc",
@@ -111133,7 +111107,6 @@
         "pillar",
         "cpp11",
         "NLP",
-        "slam",
         "BH",
         "httr",
         "IRanges",
@@ -112446,7 +112419,6 @@
         "jquerylib",
         "promises",
         "cowplot",
-        "slam",
         "httpuv",
         "mime",
         "fontawesome",
@@ -117849,7 +117821,6 @@
         "desc",
         "rprojroot",
         "stringr",
-        "slam",
         "permute",
         "RCurl",
         "GenomeInfoDbData",
@@ -117890,8 +117861,7 @@
         "desc",
         "rlang",
         "rprojroot",
-        "withr",
-        "slam"
+        "withr"
     ],
     "CompQuadForm": [],
     "survey": [
@@ -117912,13 +117882,10 @@
     "softImpute": [
         "Matrix"
     ],
-    "ROI": [
-        "slam"
-    ],
+    "ROI": [],
     "ROI.plugin.lpsolve": [
         "ROI",
-        "lpSolveAPI",
-        "slam"
+        "lpSolveAPI"
     ],
     "lpSolveAPI": [],
     "optextras": [],
@@ -117929,7 +117896,6 @@
         "optextras"
     ],
     "mitools": [],
-    "slam": [],
     "sjmisc": [
         "dplyr",
         "magrittr",
@@ -120278,19 +120244,15 @@
     "maptree": [],
     "topicmodels": [
         "modeltools",
-        "slam",
         "tm",
         "NLP",
         "Rcpp",
         "BH"
     ],
-    "maptpx": [
-        "slam"
-    ],
+    "maptpx": [],
     "tm": [
         "NLP",
         "Rcpp",
-        "slam",
         "BH"
     ],
     "NLP": [],
@@ -121710,7 +121672,6 @@
     ],
     "qlcMatrix": [
         "Matrix",
-        "slam",
         "sparsesvd"
     ],
     "sparsesvd": [
@@ -121920,7 +121881,6 @@
         "robustbase"
     ],
     "skmeans": [
-        "slam",
         "clue"
     ],
     "eulerr": [
@@ -122454,9 +122414,7 @@
         "magrittr"
     ],
     "profmem": [],
-    "relations": [
-        "slam"
-    ],
+    "relations": [],
     "pals": [
         "dichromat",
         "mapproj"
@@ -123447,7 +123405,6 @@
         "RcppArmadillo",
         "mgsub",
         "qdapRegex",
-        "slam",
         "NLP",
         "zoo",
         "tidyr",
@@ -123493,7 +123450,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "slam",
         "stringi",
         "ellipsis",
         "purrr",
@@ -123515,7 +123471,6 @@
         "stringi",
         "textshape",
         "syuzhet",
-        "slam",
         "NLP",
         "zoo",
         "dplyr",
@@ -123533,7 +123488,6 @@
         "withr"
     ],
     "textshape": [
-        "slam",
         "stringi"
     ],
     "sylly.en": [],
@@ -123550,7 +123504,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "slam",
         "stringi",
         "ellipsis",
         "purrr",
