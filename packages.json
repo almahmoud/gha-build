@@ -238,7 +238,6 @@
     ],
     "EWCE": [
         "ewceData",
-        "orthogene",
         "ExperimentHub",
         "AnnotationHub",
         "BiocVersion"
@@ -437,7 +436,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "orthogene": [],
     "PDATK": [],
     "peco": [
         "scater"
