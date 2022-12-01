@@ -28331,7 +28331,6 @@
         "ggplot2",
         "pheatmap",
         "lmerTest",
-        "optparse",
         "glmmTMB",
         "cplm",
         "lme4",
@@ -28382,7 +28381,6 @@
         "ggplot2",
         "pheatmap",
         "lmerTest",
-        "optparse",
         "glmmTMB",
         "cplm",
         "lme4",
@@ -33568,7 +33566,6 @@
         "chemometrics",
         "pheatmap",
         "lmerTest",
-        "optparse",
         "glmmTMB",
         "cplm",
         "lme4",
@@ -52689,7 +52686,6 @@
         "memoise"
     ],
     "sparseDOSSA": [
-        "optparse",
         "tmvtnorm",
         "MCMCpack",
         "quantreg",
@@ -66259,7 +66255,6 @@
         "e1071",
         "pcaPP"
     ],
-    "optparse": [],
     "glmmTMB": [
         "TMB",
         "lme4",
