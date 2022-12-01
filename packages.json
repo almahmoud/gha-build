@@ -884,7 +884,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "VCFArray": [],
     "vissE": [
         "msigdb",
         "ExperimentHub",
