@@ -4278,7 +4278,6 @@
         "SummarizedExperiment"
     ],
     "ChIPXpress": [
-        "ChIPXpressData",
         "GEOquery",
         "frma",
         "oligo",
@@ -32068,7 +32067,6 @@
         "tidyselect"
     ],
     "ashr": [],
-    "ChIPXpressData": [],
     "shinyhelper": [
         "shiny"
     ],
