@@ -428,7 +428,6 @@
     "clipper": [
         "qpgraph"
     ],
-    "clusterExperiment": [],
     "clusterProfiler": [],
     "CNORfuzzy": [],
     "CNVfilteR": [
@@ -1807,8 +1806,7 @@
         "RandomWalkRestartMH"
     ],
     "netSmooth": [
-        "scater",
-        "clusterExperiment"
+        "scater"
     ],
     "netZooR": [
         "yarn",
