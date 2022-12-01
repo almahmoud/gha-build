@@ -2470,7 +2470,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome"
     ],
-    "iCOBRA": [],
     "ideal": [
         "topGO",
         "DESeq2",
