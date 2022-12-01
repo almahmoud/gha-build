@@ -3681,7 +3681,6 @@
         "BicARE",
         "s4vd",
         "BiBitR",
-        "rqubic",
         "miRspongeR",
         "GSEABase",
         "SPONGE",
@@ -5322,7 +5321,6 @@
         "nloptr",
         "testthat"
     ],
-    "rqubic": [],
     "rrvgo": [
         "GOSemSim"
     ],
