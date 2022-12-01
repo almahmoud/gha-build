@@ -83,7 +83,6 @@
     "animalcules": [
         "DESeq2"
     ],
-    "annmap": [],
     "AnnotationHub": [
         "BiocVersion"
     ],
