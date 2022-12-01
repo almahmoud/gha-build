@@ -2199,7 +2199,6 @@
     "easier": [
         "progeny",
         "easierData",
-        "quantiseqr",
         "ggpubr",
         "DESeq2",
         "rstatix",
@@ -6126,7 +6125,6 @@
         "sva",
         "genefilter"
     ],
-    "quantiseqr": [],
     "quantro": [
         "minfi",
         "bumphunter",
