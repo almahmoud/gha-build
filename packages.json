@@ -10576,7 +10576,6 @@
     ],
     "cogena": [
         "ggplot2",
-        "kohonen",
         "gplots",
         "apcluster",
         "doParallel",
@@ -66566,7 +66565,6 @@
         "pillar"
     ],
     "princurve": [],
-    "kohonen": [],
     "biwt": [],
     "skmeans": [],
     "eulerr": [],
