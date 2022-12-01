@@ -1651,7 +1651,6 @@
     "MethCP": [
         "DSS"
     ],
-    "methInheritSim": [],
     "MethReg": [
         "ggpubr",
         "sesameData",
