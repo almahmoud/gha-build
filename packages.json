@@ -2107,7 +2107,6 @@
         "rvest",
         "dplyr",
         "readr",
-        "gh",
         "rorcid",
         "dbplyr",
         "RSQLite",
@@ -2142,8 +2141,7 @@
     "biocthis": [
         "styler",
         "usethis",
-        "gert",
-        "gh"
+        "gert"
     ],
     "BiocVersion": [],
     "BiocWorkflowTools": [
@@ -2151,8 +2149,7 @@
         "bookdown",
         "rmarkdown",
         "usethis",
-        "gert",
-        "gh"
+        "gert"
     ],
     "biodb": [
         "BiocFileCache",
@@ -2957,7 +2954,6 @@
         "tibble",
         "waldo",
         "gert",
-        "gh",
         "pillar",
         "rematch2"
     ],
@@ -5057,7 +5053,6 @@
         "rmarkdown",
         "waldo",
         "gert",
-        "gh",
         "rematch2"
     ],
     "cogeqc": [
@@ -6581,7 +6576,6 @@
         "lme4",
         "waldo",
         "gert",
-        "gh",
         "nloptr",
         "rematch2"
     ],
@@ -10270,7 +10264,6 @@
         "tibble",
         "waldo",
         "gert",
-        "gh",
         "pillar",
         "rematch2"
     ],
@@ -12526,8 +12519,7 @@
         "styler",
         "tidyselect",
         "pillar",
-        "gert",
-        "gh"
+        "gert"
     ],
     "HumanTranscriptomeCompendium": [
         "shiny",
@@ -12929,7 +12921,6 @@
         "tibble",
         "waldo",
         "gert",
-        "gh",
         "pillar",
         "rematch2"
     ],
@@ -13152,7 +13143,6 @@
         "ggsignif",
         "rstatix",
         "gert",
-        "gh",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -14954,7 +14944,6 @@
         "vroom",
         "waldo",
         "gert",
-        "gh",
         "progress",
         "rematch2"
     ],
@@ -14995,7 +14984,6 @@
         "pillar",
         "vroom",
         "gert",
-        "gh",
         "waldo",
         "progress",
         "rematch2"
@@ -15678,7 +15666,6 @@
         "multtest",
         "waldo",
         "gert",
-        "gh",
         "KEGGREST",
         "Rsamtools",
         "rtracklayer",
@@ -15906,7 +15893,6 @@
         "rmarkdown",
         "waldo",
         "gert",
-        "gh",
         "pillar",
         "rematch2"
     ],
@@ -16225,7 +16211,6 @@
         "tidytree",
         "treeio",
         "gert",
-        "gh",
         "cowplot",
         "tweenr",
         "Biostrings",
@@ -17904,7 +17889,6 @@
         "plotly",
         "sn",
         "gert",
-        "gh",
         "cowplot",
         "tweenr",
         "prodlim",
@@ -18984,7 +18968,6 @@
         "lme4",
         "waldo",
         "gert",
-        "gh",
         "BSgenome",
         "nloptr",
         "rematch2"
@@ -19450,7 +19433,6 @@
         "waldo",
         "pillar",
         "gert",
-        "gh",
         "rematch2"
     ],
     "optimalFlow": [
@@ -19878,7 +19860,6 @@
         "ragg",
         "waldo",
         "gert",
-        "gh",
         "RSQLite",
         "KEGGREST",
         "rematch2",
@@ -23245,7 +23226,6 @@
         "ragg",
         "waldo",
         "gert",
-        "gh",
         "progress",
         "BiocFileCache",
         "blob",
@@ -27090,7 +27070,6 @@
         "blob",
         "waldo",
         "gert",
-        "gh",
         "dbplyr",
         "dplyr",
         "viridis",
@@ -29064,8 +29043,7 @@
         "usethis",
         "ggplot2",
         "tidyr",
-        "gert",
-        "gh"
+        "gert"
     ],
     "tRNA": [
         "Structstrings",
@@ -29984,8 +29962,7 @@
         "tidyselect",
         "pillar",
         "usethis",
-        "gert",
-        "gh"
+        "gert"
     ],
     "wppi": [
         "dplyr",
@@ -31428,15 +31405,13 @@
         "tibble",
         "pillar"
     ],
-    "gh": [],
     "rorcid": [
         "tibble",
         "pillar"
     ],
     "styler": [],
     "usethis": [
-        "gert",
-        "gh"
+        "gert"
     ],
     "gert": [],
     "rms": [
@@ -31665,7 +31640,6 @@
         "tibble",
         "waldo",
         "gert",
-        "gh",
         "pillar",
         "rematch2"
     ],
@@ -32468,7 +32442,6 @@
         "usethis",
         "waldo",
         "gert",
-        "gh",
         "rematch2",
         "tibble",
         "pillar"
@@ -32997,8 +32970,7 @@
     "golem": [
         "shiny",
         "usethis",
-        "gert",
-        "gh"
+        "gert"
     ],
     "shinyalert": [
         "shiny"
@@ -33511,7 +33483,6 @@
         "tibble",
         "waldo",
         "gert",
-        "gh",
         "pillar",
         "rematch2"
     ],
