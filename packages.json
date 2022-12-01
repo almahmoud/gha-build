@@ -1858,7 +1858,6 @@
         "latticeExtra",
         "SummarizedExperiment"
     ],
-    "BEclear": [],
     "beer": [
         "PhIPData",
         "SummarizedExperiment",
