@@ -2349,7 +2349,6 @@
         "benchmarkme",
         "RNeXML",
         "genefilter",
-        "benchmarkmeData",
         "AnnotationDbi",
         "annotate",
         "tidyr"
@@ -3756,7 +3755,6 @@
         "rtracklayer",
         "benchmarkme",
         "lme4",
-        "benchmarkmeData",
         "GenomicAlignments",
         "nloptr",
         "testthat",
@@ -7447,8 +7445,7 @@
         "waldo"
     ],
     "mbkmeans": [
-        "benchmarkme",
-        "benchmarkmeData"
+        "benchmarkme"
     ],
     "mbOmic": [
         "WGCNA",
@@ -9531,7 +9528,6 @@
         "benchmarkme",
         "RNeXML",
         "genefilter",
-        "benchmarkmeData",
         "AnnotationDbi",
         "annotate",
         "tidyr"
@@ -10609,7 +10605,6 @@
         "tidyr",
         "tidybayes",
         "benchmarkme",
-        "benchmarkmeData",
         "ggdist",
         "posterior",
         "distributional"
@@ -16007,13 +16002,10 @@
         "RNeXML",
         "tidyr"
     ],
-    "benchmarkme": [
-        "benchmarkmeData"
-    ],
+    "benchmarkme": [],
     "RNeXML": [
         "tidyr"
     ],
-    "benchmarkmeData": [],
     "rio": [
         "haven",
         "readxl",
