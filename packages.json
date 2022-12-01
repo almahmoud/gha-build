@@ -2742,7 +2742,6 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "GenomicFeatures"
     ],
-    "Nebulosa": [],
     "nempi": [
         "epiNEM"
     ],
