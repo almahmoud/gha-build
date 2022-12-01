@@ -64175,7 +64175,6 @@
         "Biostrings",
         "BiocParallel",
         "Rhtslib",
-        "reportr",
         "futile.logger"
     ],
     "trackViewer": [
@@ -77923,10 +77922,7 @@
     ],
     "lamW": [],
     "animation": [],
-    "tractor.base": [
-        "reportr"
-    ],
-    "reportr": [],
+    "tractor.base": [],
     "vbsr": [],
     "RPostgreSQL": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
