@@ -10442,7 +10442,6 @@
         "textclean",
         "syuzhet"
     ],
-    "tweeDEseq": [],
     "txcutr": [
         "GenomicFeatures",
         "rtracklayer",
