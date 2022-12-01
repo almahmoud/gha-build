@@ -1793,8 +1793,7 @@
         "shinydashboard",
         "vroom",
         "shinyBS",
-        "shinycssloaders",
-        "rintrojs"
+        "shinycssloaders"
     ],
     "ccfindR": [
         "SingleCellExperiment"
@@ -5019,7 +5018,6 @@
         "shinydashboard",
         "cowplot",
         "tidyr",
-        "rintrojs",
         "shinyjs"
     ],
     "ExpressionAtlas": [
@@ -5747,7 +5745,6 @@
         "ggrepel",
         "GO.db",
         "plotly",
-        "rintrojs",
         "shinyAce",
         "shinycssloaders",
         "shinyWidgets",
@@ -6841,7 +6838,6 @@
         "AnnotationDbi",
         "shinydashboard",
         "shinyBS",
-        "rintrojs",
         "ggrepel",
         "shinyAce",
         "geneplotter",
@@ -7225,7 +7221,6 @@
         "shinydashboard",
         "shinyAce",
         "shinyjs",
-        "rintrojs",
         "ggrepel",
         "colourpicker",
         "shinyWidgets"
@@ -7236,7 +7231,6 @@
         "shinydashboard",
         "shinyAce",
         "shinyjs",
-        "rintrojs",
         "ggrepel",
         "colourpicker",
         "shinyWidgets"
@@ -7246,7 +7240,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "iSEE",
-        "rintrojs",
         "shinydashboard",
         "shinyjs",
         "BiocFileCache",
@@ -7266,7 +7259,6 @@
         "shinyAce",
         "shinyjs",
         "shinydashboard",
-        "rintrojs",
         "ggrepel",
         "shinyWidgets"
     ],
@@ -13153,7 +13145,6 @@
         "ensembldb",
         "GenomicFeatures",
         "plotly",
-        "rintrojs",
         "rtracklayer",
         "scanMiR",
         "scanMiRData",
@@ -16938,7 +16929,6 @@
         "rematch2"
     ],
     "IRkernel": [],
-    "rintrojs": [],
     "enrichR": [],
     "multipanelfigure": [],
     "FactoMineR": [
