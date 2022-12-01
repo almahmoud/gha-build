@@ -49513,7 +49513,6 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "timecourse": [],
     "timeOmics": [
         "mixOmics",
         "dplyr",
