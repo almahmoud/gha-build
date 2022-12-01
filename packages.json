@@ -10316,7 +10316,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "sgeostat",
         "graph",
         "GO.db",
         "httr",
@@ -16417,7 +16416,6 @@
         "aCGH",
         "e1071",
         "foreach",
-        "sgeostat",
         "survival",
         "multtest",
         "Biobase",
@@ -28636,7 +28634,6 @@
         "cytolib",
         "S4Vectors",
         "flowViz",
-        "sgeostat",
         "robustbase",
         "sp",
         "latticeExtra",
@@ -74620,7 +74617,6 @@
         "SummarizedExperiment",
         "interp",
         "R.utils",
-        "sgeostat",
         "spatstat.random",
         "splancs",
         "Matrix",
@@ -89331,10 +89327,8 @@
         "Rdpack"
     ],
     "mvoutlier": [
-        "sgeostat",
         "robustbase"
     ],
-    "sgeostat": [],
     "FME": [
         "coda",
         "minqa"
@@ -97079,7 +97073,6 @@
         "ggplot2",
         "interp",
         "R.utils",
-        "sgeostat",
         "spatstat.geom",
         "spatstat.random",
         "splancs",
