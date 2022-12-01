@@ -1064,7 +1064,6 @@
     ],
     "MetaboSignal": [
         "hpar",
-        "EnsDb.Hsapiens.v75",
         "MWASTools",
         "car",
         "pbkrtest"
@@ -2031,7 +2030,6 @@
     "uncoverappLib": [
         "Gviz",
         "Homo.sapiens",
-        "EnsDb.Hsapiens.v75",
         "EnsDb.Hsapiens.v86",
         "biovizBase"
     ],
@@ -2257,7 +2255,6 @@
         "BiocVersion"
     ],
     "agricolae": [],
-    "EnsDb.Hsapiens.v75": [],
     "sesameData": [
         "ExperimentHub",
         "AnnotationHub",
