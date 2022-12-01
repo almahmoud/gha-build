@@ -4732,7 +4732,6 @@
     "IRISFGM": [
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "AdaptGauss",
         "Seurat",
         "clusterProfiler",
         "ggpubr",
@@ -11321,7 +11320,6 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "AdaptGauss": [],
     "datamods": [
         "rio",
         "haven",
