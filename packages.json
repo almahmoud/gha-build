@@ -450,13 +450,11 @@
     ],
     "BioNAR": [
         "synaptome.db",
-        "WGCNA",
         "synaptome.data",
         "AnnotationHub",
         "BiocVersion"
     ],
     "BioNERO": [
-        "WGCNA",
         "sva"
     ],
     "BioNetStat": [
@@ -608,7 +606,6 @@
     "cageminer": [
         "ggbio",
         "BioNERO",
-        "WGCNA",
         "sva",
         "biovizBase",
         "BSgenome",
@@ -714,7 +711,6 @@
         "topGO"
     ],
     "CEMiTool": [
-        "WGCNA",
         "clusterProfiler",
         "DOSE",
         "enrichplot",
@@ -1220,9 +1216,7 @@
         "GEOquery",
         "sva"
     ],
-    "csdR": [
-        "WGCNA"
-    ],
+    "csdR": [],
     "CSSQ": [
         "GenomicFeatures"
     ],
@@ -1489,9 +1483,7 @@
         "geneplotter",
         "BSgenome"
     ],
-    "diffcoexp": [
-        "WGCNA"
-    ],
+    "diffcoexp": [],
     "diffcyt": [
         "FlowSOM",
         "lme4",
@@ -1796,7 +1788,6 @@
     ],
     "epihet": [
         "EntropyExplorer",
-        "WGCNA",
         "ReactomePA",
         "DOSE",
         "enrichplot",
@@ -1983,8 +1974,7 @@
         "treeio"
     ],
     "fastLiquidAssociation": [
-        "LiquidAssociation",
-        "WGCNA"
+        "LiquidAssociation"
     ],
     "FastqCleaner": [],
     "fCCAC": [
@@ -2402,8 +2392,7 @@
     "GmicR": [
         "Category",
         "GSEABase",
-        "GOstats",
-        "WGCNA"
+        "GOstats"
     ],
     "gmoviz": [
         "GenomicFeatures"
@@ -2521,9 +2510,7 @@
         "BSgenome",
         "GenomicFeatures"
     ],
-    "GWENA": [
-        "WGCNA"
-    ],
+    "GWENA": [],
     "hca": [],
     "HelloRanges": [
         "BSgenome",
@@ -2948,7 +2935,6 @@
         "testthat"
     ],
     "Macarron": [
-        "WGCNA",
         "Maaslin2",
         "car",
         "lmerTest",
@@ -3033,17 +3019,13 @@
         "nloptr",
         "testthat"
     ],
-    "mbOmic": [
-        "WGCNA"
-    ],
+    "mbOmic": [],
     "mBPCR": [
         "GWASTools",
         "logistf"
     ],
     "MBQN": [],
-    "MCbiclust": [
-        "WGCNA"
-    ],
+    "MCbiclust": [],
     "mCSEA": [
         "Homo.sapiens",
         "GenomicFeatures",
@@ -3421,7 +3403,6 @@
         "GSEABase"
     ],
     "miRSM": [
-        "WGCNA",
         "BicARE",
         "s4vd",
         "miRspongeR",
@@ -3517,9 +3498,7 @@
     "MobilityTransformR": [
         "xcms"
     ],
-    "MODA": [
-        "WGCNA"
-    ],
+    "MODA": [],
     "MOGAMUN": [],
     "mogsa": [
         "GSEABase"
@@ -3840,9 +3819,7 @@
         "DESeq2",
         "geneplotter"
     ],
-    "netboost": [
-        "WGCNA"
-    ],
+    "netboost": [],
     "netboxr": [
         "clusterProfiler",
         "DOSE",
@@ -3858,9 +3835,7 @@
         "dnet",
         "supraHex"
     ],
-    "NetSAM": [
-        "WGCNA"
-    ],
+    "NetSAM": [],
     "netSmooth": [
         "scater",
         "clusterExperiment",
@@ -4231,7 +4206,6 @@
     ],
     "piano": [],
     "Pigengene": [
-        "WGCNA",
         "clusterProfiler",
         "ReactomePA",
         "DOSE",
@@ -4337,7 +4311,6 @@
     "proBatch": [
         "pvca",
         "sva",
-        "WGCNA",
         "lme4",
         "nloptr",
         "testthat"
@@ -4621,7 +4594,6 @@
     "RegEnrich": [
         "DOSE",
         "DESeq2",
-        "WGCNA",
         "geneplotter",
         "GOSemSim"
     ],
@@ -5184,9 +5156,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "BSgenome"
     ],
-    "seq2pathway": [
-        "WGCNA"
-    ],
+    "seq2pathway": [],
     "seqCAT": [
         "VariantAnnotation",
         "BSgenome",
@@ -5440,7 +5410,6 @@
         "SpatialExperiment"
     ],
     "spatialHeatmap": [
-        "WGCNA",
         "scater"
     ],
     "spatzie": [
@@ -5513,9 +5482,7 @@
         "SpatialExperiment",
         "Seurat"
     ],
-    "SPsimSeq": [
-        "WGCNA"
-    ],
+    "SPsimSeq": [],
     "SRAdb": [
         "GEOquery"
     ],
@@ -5771,9 +5738,7 @@
         "ggtree",
         "treeio"
     ],
-    "TIN": [
-        "WGCNA"
-    ],
+    "TIN": [],
     "TissueEnrich": [
         "GSEABase"
     ],
@@ -5864,8 +5829,7 @@
         "BSgenome.Hsapiens.UCSC.hg38",
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Mmusculus.UCSC.mm10",
-        "SNPlocs.Hsapiens.dbSNP150.GRCh38",
-        "WGCNA"
+        "SNPlocs.Hsapiens.dbSNP150.GRCh38"
     ],
     "TRESS": [
         "GenomicFeatures"
@@ -6266,7 +6230,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "WGCNA": [],
     "synaptome.data": [
         "AnnotationHub",
         "BiocVersion"
