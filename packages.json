@@ -41706,7 +41706,6 @@
         "DelayedArray",
         "DropletUtils",
         "BiocFileCache",
-        "spData",
         "e1071",
         "GenomeInfoDb",
         "dbplyr",
@@ -42939,7 +42938,6 @@
         "SingleCellExperiment",
         "DropletUtils",
         "BiocFileCache",
-        "spData",
         "sf",
         "e1071",
         "GenomicRanges",
@@ -46690,7 +46688,6 @@
         "DelayedArray",
         "DropletUtils",
         "BiocFileCache",
-        "spData",
         "e1071",
         "GenomeInfoDb",
         "dbplyr",
@@ -54138,12 +54135,10 @@
     ],
     "sampSurf": [],
     "spdep": [
-        "spData",
         "sf",
         "e1071",
         "classInt"
     ],
-    "spData": [],
     "alphahull": [
         "ggplot2",
         "interp",
