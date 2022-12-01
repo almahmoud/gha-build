@@ -7998,9 +7998,7 @@
         "AnnotationDbi",
         "RSQLite"
     ],
-    "GraphPAC": [
-        "iPAC"
-    ],
+    "GraphPAC": [],
     "GRENITS": [
         "ggplot2"
     ],
@@ -8985,7 +8983,6 @@
         "Rsamtools",
         "GenomicAlignments"
     ],
-    "iPAC": [],
     "iPath": [
         "ggpubr",
         "ggplot2",
@@ -14922,7 +14919,6 @@
     ],
     "quantsmooth": [],
     "QuartPAC": [
-        "iPAC",
         "GraphPAC",
         "SpacePAC"
     ],
@@ -18034,9 +18030,7 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "SpacePAC": [
-        "iPAC"
-    ],
+    "SpacePAC": [],
     "Spaniel": [
         "Seurat",
         "SingleCellExperiment",
