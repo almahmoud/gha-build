@@ -3912,7 +3912,6 @@
         "tidygraph",
         "treeio"
     ],
-    "microbiomeDASim": [],
     "microbiomeExplorer": [
         "DESeq2",
         "heatmaply",
