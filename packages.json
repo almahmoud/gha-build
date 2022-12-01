@@ -2300,7 +2300,6 @@
         "colourpicker",
         "rtracklayer",
         "shinyFiles",
-        "shinyhelper",
         "shinyWidgets",
         "shinydashboardPlus",
         "shinycssloaders",
@@ -7844,7 +7843,6 @@
         "plotly",
         "Hmisc",
         "shinydashboard",
-        "shinyhelper",
         "tidyr",
         "UpSetR",
         "vsn",
@@ -11443,7 +11441,6 @@
         "MSnbase",
         "shinydashboardPlus",
         "colourpicker",
-        "shinyhelper",
         "shinyWidgets",
         "shinydashboard",
         "vsn",
@@ -16979,7 +16976,6 @@
         "GenomicAlignments",
         "dbplyr"
     ],
-    "shinyhelper": [],
     "shinyWidgets": [],
     "shinydashboardPlus": [
         "shinydashboard",
