@@ -966,7 +966,6 @@
         "org.Hs.eg.db"
     ],
     "CancerInSilico": [],
-    "CancerSubtypes": [],
     "cardelino": [
         "ggtree",
         "VariantAnnotation",
