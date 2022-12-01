@@ -8944,7 +8944,6 @@
     ],
     "waddR": [
         "arm",
-        "eva",
         "lme4",
         "nloptr",
         "testthat",
@@ -9990,6 +9989,5 @@
         "GSEABase",
         "AnnotationHub",
         "BiocVersion"
-    ],
-    "eva": []
+    ]
 }
