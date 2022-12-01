@@ -3078,7 +3078,6 @@
     "Oscope": [
         "EBSeq"
     ],
-    "OTUbase": [],
     "OUTRIDER": [
         "GenomicFeatures",
         "DESeq2"
