@@ -10129,7 +10129,6 @@
         "viridis"
     ],
     "hierGWAS": [],
-    "hierinf": [],
     "HilbertCurve": [],
     "HiLDA": [
         "ggplot2",
