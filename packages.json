@@ -49023,7 +49023,6 @@
         "pillar"
     ],
     "tomoseqr": [
-        "animation",
         "tibble",
         "dplyr",
         "shiny",
@@ -59480,7 +59479,6 @@
         "vroom",
         "progress"
     ],
-    "animation": [],
     "tractor.base": [],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
