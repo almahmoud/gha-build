@@ -8309,7 +8309,6 @@
         "enrichplot",
         "golem",
         "shinyWidgets",
-        "shinycustomloader",
         "AnnotationDbi",
         "DOSE",
         "GO.db",
@@ -15274,8 +15273,7 @@
     ],
     "wpm": [
         "golem",
-        "shinyWidgets",
-        "shinycustomloader"
+        "shinyWidgets"
     ],
     "wppi": [
         "OmnipathR",
@@ -16619,7 +16617,6 @@
         "tidyr",
         "GGally"
     ],
-    "shinycustomloader": [],
     "ggstar": [],
     "HardyWeinberg": [
         "mice",
