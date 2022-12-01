@@ -3491,7 +3491,6 @@
         "vctrs",
         "pillar",
         "jquerylib",
-        "EBarrays",
         "e1071",
         "openssl",
         "lubridate",
@@ -5548,7 +5547,6 @@
         "survival",
         "phenoTest",
         "httr",
-        "EBarrays",
         "e1071",
         "annotate",
         "AnnotationDbi",
@@ -5674,7 +5672,6 @@
     ],
     "casper": [
         "GenomicRanges",
-        "EBarrays",
         "gaga",
         "GenomeInfoDb",
         "GenomicFeatures",
@@ -13907,10 +13904,7 @@
         "hms",
         "RcppEigen"
     ],
-    "EBarrays": [],
-    "EBcoexpress": [
-        "EBarrays"
-    ],
+    "EBcoexpress": [],
     "EBImage": [
         "htmlwidgets"
     ],
@@ -17404,7 +17398,6 @@
         "futile.logger"
     ],
     "gaga": [
-        "EBarrays",
         "mgcv"
     ],
     "gage": [
@@ -18102,7 +18095,6 @@
         "htmlwidgets"
     ],
     "geNetClassifier": [
-        "EBarrays",
         "e1071"
     ],
     "GeneticsPed": [
