@@ -698,7 +698,6 @@
         "Homo.sapiens",
         "SNPlocs.Hsapiens.dbSNP144.GRCh37",
         "XtraSNPlocs.Hsapiens.dbSNP144.GRCh37",
-        "rsnps",
         "MafDb.1Kgenomes.phase3.hs37d5",
         "MafDb.ExAC.r1.0.hs37d5",
         "MafDb.gnomADex.r2.1.hs37d5",
@@ -26619,7 +26618,6 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "rsnps": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [
         "GenomicScores",
         "BSgenome",
