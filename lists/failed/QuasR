@@ -1,0 +1,9 @@
++ '[' 0 = 0 ']'
+++ pwd
++ Rscript -e 'p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); install.packages('\''/__w/gha-build/gha-build/QuasR'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE, type = '\''source'\'', repos = NULL); if('\''QuasR'\'' %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+Installing package into ‘/__w/gha-build/gha-build/built’
+(as ‘lib’ is unspecified)
+ERROR: this R is version 4.2.2, package 'QuasR' requires R >= 4.3
+Warning message:
+In install.packages("/__w/gha-build/gha-build/QuasR", INSTALL_opts = "--build",  :
+  installation of package ‘/__w/gha-build/gha-build/QuasR’ had non-zero exit status
