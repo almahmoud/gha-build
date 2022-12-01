@@ -255,7 +255,6 @@
     "flowCL": [
         "SPARQL"
     ],
-    "GARS": [],
     "GDCRNATools": [],
     "GenomicScores": [
         "AnnotationHub",
