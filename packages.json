@@ -24865,7 +24865,6 @@
     "snapcount": [
         "SummarizedExperiment"
     ],
-    "snifter": [],
     "snm": [
         "lme4",
         "nloptr",
