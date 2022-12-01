@@ -3766,7 +3766,6 @@
         "VariantAnnotation",
         "GenomicFeatures"
     ],
-    "SIM": [],
     "SimBindProfiles": [],
     "simpleSeg": [
         "cytomapper"
