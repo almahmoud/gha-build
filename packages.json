@@ -227,7 +227,6 @@
         "ggpubr"
     ],
     "ddPCRclust": [],
-    "DeepPINCS": [],
     "derfinderPlot": [],
     "destiny": [],
     "diffcyt": [
@@ -344,9 +343,7 @@
     "GenomicSuperSignature": [
         "ggpubr"
     ],
-    "GenProSeq": [
-        "DeepPINCS"
-    ],
+    "GenProSeq": [],
     "GEOexplorer": [
         "factoextra",
         "ggpubr"
@@ -863,8 +860,7 @@
     ],
     "uncoverappLib": [],
     "VAExprs": [
-        "scater",
-        "DeepPINCS"
+        "scater"
     ],
     "VariantFiltering": [
         "GenomicScores",
