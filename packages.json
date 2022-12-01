@@ -27072,7 +27072,6 @@
         "SpidermiR",
         "graphite",
         "AnnotationDbi",
-        "MLmetrics",
         "ggplot2",
         "RSQLite",
         "KEGGREST",
@@ -34155,7 +34154,6 @@
         "tidyselect",
         "pillar"
     ],
-    "MLmetrics": [],
     "rsample": [
         "dplyr",
         "furrr",
