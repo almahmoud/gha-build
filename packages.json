@@ -970,9 +970,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "MAIT": [
-        "agricolae"
-    ],
+    "MAIT": [],
     "maser": [
         "Gviz",
         "biovizBase"
@@ -2108,7 +2106,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "agricolae": [],
     "sesameData": [
         "ExperimentHub",
         "AnnotationHub",
