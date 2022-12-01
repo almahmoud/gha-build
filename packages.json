@@ -10850,7 +10850,6 @@
     "savR": [],
     "SBGNview": [
         "pathview",
-        "SBGNview.data",
         "org.Hs.eg.db"
     ],
     "SC3": [],
@@ -14728,7 +14727,6 @@
     ],
     "TBX20BamSubset": [],
     "treemap": [],
-    "SBGNview.data": [],
     "scanMiRData": [
         "scanMiR",
         "ggseqlogo"
