@@ -3379,7 +3379,6 @@
     "qpgraph": [
         "GenomicFeatures"
     ],
-    "qPLEXanalyzer": [],
     "qrqc": [
         "biovizBase",
         "GenomicFeatures",
