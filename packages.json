@@ -1588,7 +1588,6 @@
         "readxl",
         "SummarizedExperiment",
         "tidyr",
-        "assertive.strings",
         "assertive.datetimes",
         "assertive.data",
         "assertive.data.uk",
@@ -21226,7 +21225,6 @@
         "rtracklayer",
         "tidyr",
         "tidyselect",
-        "assertive.strings",
         "assertive.datetimes",
         "assertive.data",
         "assertive.data.uk",
@@ -37343,23 +37341,15 @@
     ],
     "mixtools": [],
     "assertive": [
-        "assertive.strings",
         "assertive.datetimes",
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us"
     ],
-    "assertive.strings": [],
     "assertive.datetimes": [],
-    "assertive.data": [
-        "assertive.strings"
-    ],
-    "assertive.data.uk": [
-        "assertive.strings"
-    ],
-    "assertive.data.us": [
-        "assertive.strings"
-    ],
+    "assertive.data": [],
+    "assertive.data.uk": [],
+    "assertive.data.us": [],
     "doBy": [
         "broom",
         "dplyr",
