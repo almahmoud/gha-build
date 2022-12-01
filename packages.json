@@ -3883,7 +3883,6 @@
         "lme4",
         "testthat",
         "GeomxTools",
-        "NanoStringNCTools",
         "lmerTest",
         "GGally",
         "nloptr",
@@ -3914,7 +3913,6 @@
         "readr"
     ],
     "GeomxTools": [
-        "NanoStringNCTools",
         "lmerTest",
         "GGally",
         "lme4",
@@ -6453,7 +6451,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "NanoStringNCTools": [],
     "NanoStringQCPro": [
         "org.Hs.eg.db"
     ],
@@ -9272,7 +9269,6 @@
     ],
     "SpatialDecon": [
         "GeomxTools",
-        "NanoStringNCTools",
         "lmerTest",
         "GGally",
         "lme4",
