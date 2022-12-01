@@ -4027,7 +4027,6 @@
         "vioplot",
         "imager",
         "topGO",
-        "xlsx",
         "futile.logger",
         "mgcv",
         "scales",
@@ -54123,7 +54122,6 @@
     "imager": [
         "igraph"
     ],
-    "xlsx": [],
     "multcomp": [
         "survival",
         "TH.data",
