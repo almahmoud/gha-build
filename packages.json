@@ -105,9 +105,7 @@
     "CellMixS": [
         "scater"
     ],
-    "censcyt": [
-        "diffcyt"
-    ],
+    "censcyt": [],
     "CeTF": [
         "GenomicTools"
     ],
@@ -181,10 +179,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "CyTOFpower": [
-        "diffcyt"
-    ],
-    "diffcyt": [],
+    "CyTOFpower": [],
     "distinct": [
         "scater"
     ],
@@ -584,9 +579,7 @@
         "vbsr"
     ],
     "Travel": [],
-    "treekoR": [
-        "diffcyt"
-    ],
+    "treekoR": [],
     "tricycle": [
         "scater"
     ],
