@@ -7666,12 +7666,10 @@
         "topGO",
         "GO.db"
     ],
-    "omicade4": [],
     "omicplotR": [],
     "omicRexposome": [
         "rexposome",
         "sva",
-        "omicade4",
         "MultiDataSet",
         "SmartSVA",
         "isva",
