@@ -638,7 +638,6 @@
         "BiocVersion",
         "rstatix"
     ],
-    "MethylAid": [],
     "methylCC": [
         "FlowSorted.Blood.450k",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
