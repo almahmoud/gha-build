@@ -746,7 +746,6 @@
     "scRecover": [
         "Rmagic"
     ],
-    "scruff": [],
     "scTensor": [
         "AnnotationHub",
         "BiocVersion"
