@@ -1194,7 +1194,6 @@
     "CSSQ": [
         "GenomicFeatures"
     ],
-    "CTDquerier": [],
     "cTRAP": [
         "AnnotationHub",
         "highcharter",
