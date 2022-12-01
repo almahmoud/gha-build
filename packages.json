@@ -2759,7 +2759,6 @@
         "GSEABase",
         "pathview"
     ],
-    "GSEAmining": [],
     "gsean": [
         "PPInfer",
         "biomaRt"
