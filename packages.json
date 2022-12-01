@@ -13586,7 +13586,6 @@
         "tidyselect"
     ],
     "geNetClassifier": [],
-    "GeneticsPed": [],
     "GeneTonic": [
         "AnnotationDbi",
         "backbone",
