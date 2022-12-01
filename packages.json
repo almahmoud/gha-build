@@ -3022,7 +3022,6 @@
         "promises",
         "mgcv",
         "scales",
-        "terra",
         "bslib",
         "BiocParallel",
         "Biostrings",
@@ -10819,7 +10818,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "terra",
         "ks",
         "Hmisc",
         "survival",
@@ -12726,7 +12724,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "terra",
         "httpuv",
         "fontawesome",
         "promises",
@@ -25138,7 +25135,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "terra",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -25351,7 +25347,6 @@
         "raster",
         "uwot",
         "xgboost",
-        "terra",
         "irlba",
         "dqrng",
         "sitmo"
@@ -36560,7 +36555,6 @@
         "systemfonts",
         "RcppEigen",
         "tibble",
-        "terra",
         "sandwich",
         "Hmisc",
         "e1071",
@@ -50649,7 +50643,6 @@
     "simpleSeg": [
         "BiocParallel",
         "EBImage",
-        "terra",
         "spatstat.geom",
         "SummarizedExperiment",
         "cytomapper",
@@ -52286,7 +52279,6 @@
         "tidyr",
         "crosstalk",
         "promises",
-        "terra",
         "DropletUtils",
         "BiocFileCache",
         "spatstat.data",
@@ -53521,7 +53513,6 @@
         "pillar",
         "mgcv",
         "scales",
-        "terra",
         "cowplot",
         "fitdistrplus",
         "future",
@@ -61114,10 +61105,7 @@
         "sass",
         "memoise"
     ],
-    "raster": [
-        "terra"
-    ],
-    "terra": [],
+    "raster": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "IRanges",
@@ -67443,7 +67431,6 @@
         "ggplot2",
         "htmlwidgets",
         "miniUI",
-        "terra",
         "httpuv",
         "fontawesome",
         "promises",
@@ -67458,8 +67445,7 @@
         "pillar"
     ],
     "elsa": [
-        "raster",
-        "terra"
+        "raster"
     ],
     "rgdal": [],
     "miRNAtap.db": [
