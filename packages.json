@@ -5677,7 +5677,6 @@
         "webchem",
         "ttgsea",
         "tfruns",
-        "text2vec",
         "textstem",
         "DiagrammeR",
         "rvest",
@@ -9075,7 +9074,6 @@
         "ttgsea",
         "webchem",
         "tfruns",
-        "text2vec",
         "textstem",
         "DiagrammeR",
         "dplyr",
@@ -24176,7 +24174,6 @@
     ],
     "ttgsea": [
         "keras",
-        "text2vec",
         "textstem",
         "DiagrammeR",
         "dplyr",
@@ -24414,7 +24411,6 @@
         "ggrastr",
         "ggrepel",
         "vroom",
-        "text2vec",
         "textstem",
         "rvest",
         "lexicon",
@@ -26884,7 +26880,6 @@
         "dplyr",
         "tibble"
     ],
-    "text2vec": [],
     "textstem": [
         "dplyr",
         "lexicon",
