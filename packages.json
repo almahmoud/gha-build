@@ -1758,7 +1758,6 @@
         "geneLenDataBase",
         "GenomicFeatures"
     ],
-    "GOSim": [],
     "goSorensen": [
         "clusterProfiler",
         "DOSE",
