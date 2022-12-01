@@ -1142,7 +1142,6 @@
         "testthat"
     ],
     "condiments": [
-        "slingshot",
         "Ecume",
         "distinct",
         "scater",
@@ -5766,7 +5765,6 @@
     "slalom": [
         "GSEABase"
     ],
-    "slingshot": [],
     "SMITE": [
         "reactome.db",
         "goseq",
@@ -6253,9 +6251,7 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "tradeSeq": [
-        "slingshot"
-    ],
+    "tradeSeq": [],
     "transcriptogramer": [
         "biomaRt",
         "topGO"
@@ -6282,9 +6278,7 @@
         "BSgenome"
     ],
     "Travel": [],
-    "traviz": [
-        "slingshot"
-    ],
+    "traviz": [],
     "treeio": [],
     "treekoR": [
         "ggtree",
