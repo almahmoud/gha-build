@@ -5846,7 +5846,6 @@
         "VariantAnnotation"
     ],
     "SpeCond": [],
-    "SpectralTAD": [],
     "SPIAT": [
         "SpatialExperiment",
         "xROI"
