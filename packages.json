@@ -29,7 +29,6 @@
         "plotly",
         "BiocStyle",
         "bookdown",
-        "shiny",
         "tidyr",
         "dplyr"
     ],
@@ -62,7 +61,6 @@
         "ADAM",
         "GO.db",
         "dplyr",
-        "shiny",
         "ggplot2",
         "ggrepel",
         "ggpubr",
@@ -97,8 +95,7 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "KEGGREST",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "ADImpute": [
         "SingleCellExperiment"
@@ -238,7 +235,6 @@
         "ggplot2",
         "GGally",
         "dplyr",
-        "shiny",
         "shinydashboard",
         "cowplot",
         "forcats",
@@ -312,8 +308,7 @@
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "KEGGREST",
-        "shiny"
+        "KEGGREST"
     ],
     "amplican": [
         "ShortRead",
@@ -374,7 +369,6 @@
         "ggrepel"
     ],
     "animalcules": [
-        "shiny",
         "shinyjs",
         "DESeq2",
         "caret",
@@ -433,8 +427,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "KEGGREST",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "AnnotationHubData": [
         "AnnotationHub",
@@ -453,8 +446,7 @@
         "dplyr",
         "biomaRt",
         "GenomicAlignments",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "annotatr": [
         "AnnotationDbi",
@@ -475,8 +467,7 @@
         "BSgenome",
         "Rsamtools",
         "GenomicAlignments",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "anota": [
         "qvalue",
@@ -495,11 +486,9 @@
     "AnVIL": [
         "dplyr",
         "tidyr",
-        "shiny",
         "miniUI"
     ],
     "AnVILBilling": [
-        "shiny",
         "bigrquery",
         "shinytoastr",
         "dplyr",
@@ -512,7 +501,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "shiny",
         "miniUI",
         "vroom"
     ],
@@ -562,14 +550,12 @@
         "patchwork",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "GO.db",
         "RSQLite",
         "KEGGREST"
     ],
     "appreci8R": [
-        "shiny",
         "shinyjs",
         "VariantAnnotation",
         "BSgenome",
@@ -789,7 +775,6 @@
         "ggplot2",
         "Rsamtools",
         "plotly",
-        "shiny",
         "miniUI",
         "SingleCellExperiment",
         "cowplot",
@@ -858,7 +843,6 @@
         "readr",
         "annotate",
         "GO.db",
-        "shiny",
         "vroom"
     ],
     "ATACseqTFEA": [
@@ -891,8 +875,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "KEGGREST",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "atSNP": [
         "BSgenome",
@@ -933,7 +916,6 @@
     ],
     "AUCell": [
         "GSEABase",
-        "shiny",
         "annotate",
         "AnnotationDbi",
         "RSQLite",
@@ -1039,7 +1021,6 @@
         "annotate",
         "genefilter",
         "ggvis",
-        "shiny",
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -1057,7 +1038,6 @@
         "ggplot2",
         "ggdendro",
         "ggridges",
-        "shiny",
         "tidyr",
         "viridis"
     ],
@@ -1087,7 +1067,6 @@
         "viridis",
         "colourpicker",
         "miniUI",
-        "shiny",
         "shinyjs",
         "BiocSingular"
     ],
@@ -1105,7 +1084,6 @@
         "BiocSingular",
         "colourpicker",
         "miniUI",
-        "shiny",
         "shinyjs"
     ],
     "BasicSTARRseq": [
@@ -1119,7 +1097,6 @@
     ],
     "BatchQC": [
         "MCMCpack",
-        "shiny",
         "sva",
         "ggvis",
         "heatmaply",
@@ -1235,7 +1212,6 @@
         "miniUI",
         "plotly",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "treeio",
         "genefilter",
@@ -1328,7 +1304,6 @@
         "ggplot2",
         "Hmisc",
         "plotly",
-        "shiny",
         "shinycssloaders",
         "shinydashboard",
         "tidyr",
@@ -1372,7 +1347,6 @@
     "bioCancer": [
         "radiant.data",
         "dplyr",
-        "shiny",
         "AnnotationDbi",
         "shinythemes",
         "org.Hs.eg.db",
@@ -1433,7 +1407,6 @@
         "vroom"
     ],
     "BiocFHIR": [
-        "shiny",
         "tidyr",
         "dplyr"
     ],
@@ -1451,7 +1424,6 @@
     ],
     "BiocOncoTK": [
         "bigrquery",
-        "shiny",
         "dplyr",
         "ggplot2",
         "GenomicFeatures",
@@ -1685,8 +1657,7 @@
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
-        "viridis",
-        "shiny"
+        "viridis"
     ],
     "BioNERO": [
         "WGCNA",
@@ -1716,7 +1687,6 @@
         "KEGGREST"
     ],
     "BioNetStat": [
-        "shiny",
         "shinyBS",
         "pathview",
         "ggplot2",
@@ -1807,8 +1777,7 @@
         "dplyr",
         "regioneR",
         "biomaRt",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "BiSeq": [
         "rtracklayer",
@@ -1872,8 +1841,7 @@
         "dplyr",
         "dbplyr",
         "rematch2",
-        "KEGGREST",
-        "shiny"
+        "KEGGREST"
     ],
     "bnbc": [
         "sva",
@@ -1978,13 +1946,11 @@
         "viridis",
         "dbplyr",
         "forcats",
-        "tidyr",
-        "shiny"
+        "tidyr"
     ],
     "BrainSABER": [
         "biomaRt",
         "BiocFileCache",
-        "shiny",
         "dbplyr",
         "dplyr",
         "RSQLite",
@@ -2084,7 +2050,6 @@
         "miniUI",
         "pkgdown",
         "testthat",
-        "shiny",
         "waldo",
         "rematch2"
     ],
@@ -2374,7 +2339,6 @@
         "AnnotationDbi",
         "annotate",
         "KEGGREST",
-        "shiny",
         "miniUI",
         "vroom",
         "rvest",
@@ -2407,7 +2371,6 @@
         "RTCGAToolbox",
         "tidyr",
         "TCGAutils",
-        "shiny",
         "miniUI",
         "dbplyr",
         "RSQLite",
@@ -2423,7 +2386,6 @@
         "GenomicAlignments"
     ],
     "cbpManager": [
-        "shiny",
         "shinydashboard",
         "vroom",
         "dplyr",
@@ -2525,7 +2487,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "tidyr",
         "dplyr"
@@ -2594,8 +2555,7 @@
         "KEGGREST"
     ],
     "cellxgenedp": [
-        "dplyr",
-        "shiny"
+        "dplyr"
     ],
     "CEMiTool": [
         "dplyr",
@@ -2791,7 +2751,6 @@
         "qvalue",
         "isva",
         "bumphunter",
-        "shiny",
         "shinythemes",
         "plotly",
         "dendextend",
@@ -2841,7 +2800,6 @@
     "CHETAH": [
         "ggplot2",
         "SingleCellExperiment",
-        "shiny",
         "plotly",
         "dendextend",
         "cowplot",
@@ -3083,7 +3041,6 @@
         "dplyr"
     ],
     "ChromSCape": [
-        "shiny",
         "colourpicker",
         "shinyjs",
         "rtracklayer",
@@ -3139,7 +3096,6 @@
         "TFBSTools",
         "Rsamtools",
         "plotly",
-        "shiny",
         "miniUI",
         "BSgenome",
         "rtracklayer",
@@ -3226,8 +3182,7 @@
         "KEGGREST",
         "dbplyr",
         "annotate",
-        "biomaRt",
-        "shiny"
+        "biomaRt"
     ],
     "CircSeqAlignTk": [
         "dplyr",
@@ -3471,7 +3426,6 @@
         "ggplot2"
     ],
     "CNViz": [
-        "shiny",
         "dplyr",
         "plotly",
         "karyoploteR",
@@ -3503,7 +3457,6 @@
         "exomeCopy",
         "ggplot2",
         "testthat",
-        "shiny",
         "shinyFiles",
         "shinyjs",
         "waldo",
@@ -3585,7 +3538,6 @@
         "miniUI",
         "pkgdown",
         "testthat",
-        "shiny",
         "waldo",
         "rematch2"
     ],
@@ -3683,7 +3635,6 @@
         "dbplyr",
         "rtracklayer",
         "biomaRt",
-        "shiny",
         "nloptr",
         "testthat",
         "Rsamtools",
@@ -3744,7 +3695,6 @@
         "forcats",
         "ggplot2",
         "tidyr",
-        "shiny",
         "rio",
         "shinydashboard",
         "shinyjs",
@@ -3989,16 +3939,13 @@
         "dplyr",
         "ggplot2"
     ],
-    "CoRegNet": [
-        "shiny"
-    ],
+    "CoRegNet": [],
     "CoreGx": [
         "MultiAssayExperiment",
         "piano",
         "bench",
         "tidyr",
         "fgsea",
-        "shiny",
         "shinyjs",
         "shinydashboard",
         "ggplot2",
@@ -4136,8 +4083,7 @@
         "BiocVersion",
         "interactiveDisplayBase",
         "dplyr",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "crisprScore": [
         "crisprScoreData",
@@ -4150,8 +4096,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "KEGGREST",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "CRISPRseek": [
         "BSgenome",
@@ -4164,7 +4109,6 @@
         "GenomicAlignments"
     ],
     "crisprseekplus": [
-        "shiny",
         "shinyjs",
         "CRISPRseek",
         "GUIDEseq",
@@ -4237,8 +4181,7 @@
         "Hmisc",
         "dbplyr",
         "ggplot2",
-        "viridis",
-        "shiny"
+        "viridis"
     ],
     "crisprViz": [
         "crisprBase",
@@ -4270,8 +4213,7 @@
         "viridis",
         "vroom",
         "BiocVersion",
-        "interactiveDisplayBase",
-        "shiny"
+        "interactiveDisplayBase"
     ],
     "crlmm": [
         "oligoClasses",
@@ -4284,7 +4226,6 @@
         "oligo",
         "RSQLite",
         "sva",
-        "shiny",
         "shinyjs",
         "shinyBS",
         "shinyWidgets",
@@ -4344,7 +4285,6 @@
         "ggrepel",
         "highcharter",
         "readxl",
-        "shiny",
         "shinycssloaders",
         "RSQLite",
         "KEGGREST",
@@ -4358,8 +4298,7 @@
         "dbplyr"
     ],
     "ctsGE": [
-        "ggplot2",
-        "shiny"
+        "ggplot2"
     ],
     "CTSV": [
         "qvalue",
@@ -4405,8 +4344,7 @@
         "dplyr",
         "dbplyr",
         "ggplot2",
-        "KEGGREST",
-        "shiny"
+        "KEGGREST"
     ],
     "customProDB": [
         "AnnotationDbi",
@@ -4451,7 +4389,6 @@
     "cydar": [
         "SingleCellExperiment",
         "viridis",
-        "shiny",
         "ggplot2"
     ],
     "CytoDx": [
@@ -4462,7 +4399,6 @@
         "diffcyt",
         "dplyr",
         "ggplot2",
-        "shiny",
         "shinyFeedback",
         "shinyjs",
         "shinyMatrix",
@@ -4534,7 +4470,6 @@
         "viridis",
         "ggplot2",
         "ggbeeswarm",
-        "shiny",
         "shinydashboard",
         "DropletUtils",
         "BiocFileCache",
@@ -4761,7 +4696,6 @@
         "vroom"
     ],
     "debrowser": [
-        "shiny",
         "shinyjs",
         "shinydashboard",
         "shinyBS",
@@ -5021,7 +4955,6 @@
         "MSnbase",
         "vsn",
         "ggrepel",
-        "shiny",
         "shinydashboard",
         "imputeLCMD",
         "vroom"
@@ -5298,7 +5231,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "tidyr",
         "dplyr"
@@ -5311,7 +5243,6 @@
         "ggExtra",
         "dplyr",
         "broom",
-        "shiny",
         "shinyBS",
         "shinycssloaders",
         "shinydashboard",
@@ -5415,7 +5346,6 @@
         "FDb.InfiniumMethylation.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "viridis",
-        "shiny",
         "vroom"
     ],
     "DMRforPairs": [
@@ -5461,7 +5391,6 @@
         "KEGGREST",
         "dbplyr",
         "biomaRt",
-        "shiny",
         "vroom"
     ],
     "DNABarcodeCompatibility": [
@@ -5504,7 +5433,6 @@
         "drc",
         "vsn",
         "ggplot2",
-        "shiny",
         "shinydashboard",
         "readxl",
         "prodlim",
@@ -5647,7 +5575,6 @@
         "annotate",
         "KEGGREST",
         "dbplyr",
-        "shiny",
         "nloptr",
         "testthat",
         "waldo",
@@ -5689,9 +5616,7 @@
         "tidytree",
         "treeio"
     ],
-    "easyreporting": [
-        "shiny"
-    ],
+    "easyreporting": [],
     "easyRNASeq": [
         "BiocFileCache",
         "biomaRt",
@@ -5928,7 +5853,6 @@
         "GenomicFeatures",
         "readr",
         "tidyr",
-        "shiny",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -6101,7 +6025,6 @@
         "GOSemSim",
         "ggtree",
         "biomaRt",
-        "shiny",
         "vroom",
         "ggfun",
         "ggplotify",
@@ -6234,7 +6157,6 @@
         "rtracklayer",
         "readr",
         "dbplyr",
-        "shiny",
         "vroom",
         "Rsamtools",
         "GenomicAlignments"
@@ -6282,7 +6204,6 @@
         "annotate",
         "readr",
         "tidyr",
-        "shiny",
         "viridis",
         "vroom"
     ],
@@ -6393,7 +6314,6 @@
         "GenomicFiles",
         "rtracklayer",
         "ggplot2",
-        "shiny",
         "AnnotationDbi",
         "RSQLite",
         "KEGGREST",
@@ -6569,7 +6489,6 @@
         "KEGGREST",
         "pbkrtest",
         "lme4",
-        "shiny",
         "nloptr",
         "testthat",
         "waldo",
@@ -6610,8 +6529,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "dbplyr",
-        "KEGGREST",
-        "shiny"
+        "KEGGREST"
     ],
     "ExperimentHubData": [
         "AnnotationHubData",
@@ -6632,8 +6550,7 @@
         "dplyr",
         "dbplyr",
         "biomaRt",
-        "GenomicAlignments",
-        "shiny"
+        "GenomicAlignments"
     ],
     "ExperimentSubset": [
         "SingleCellExperiment",
@@ -6650,7 +6567,6 @@
         "tidyr"
     ],
     "ExploreModelMatrix": [
-        "shiny",
         "shinydashboard",
         "cowplot",
         "dplyr",
@@ -6730,7 +6646,6 @@
         "reactome.db",
         "GO.db",
         "tidyr",
-        "shiny",
         "shinydashboard",
         "shinyBS",
         "plotly",
@@ -6780,7 +6695,6 @@
         "tidyr"
     ],
     "FastqCleaner": [
-        "shiny",
         "ShortRead",
         "shinyBS",
         "Rsamtools",
@@ -6861,7 +6775,6 @@
         "SingleCellExperiment",
         "TSCAN",
         "SC3",
-        "shiny",
         "ggplot2",
         "TrajectoryUtils"
     ],
@@ -6997,7 +6910,6 @@
     ],
     "flowcatchR": [
         "plotly",
-        "shiny",
         "ggplot2",
         "tidyr",
         "dplyr"
@@ -7056,7 +6968,6 @@
     "flowMerge": [],
     "flowPloidy": [
         "car",
-        "shiny",
         "pbkrtest",
         "lme4",
         "nloptr",
@@ -7208,7 +7119,6 @@
         "RSQLite"
     ],
     "FunChIP": [
-        "shiny",
         "fda",
         "GenomicAlignments",
         "Rsamtools",
@@ -7284,7 +7194,6 @@
         "AnnotationDbi",
         "dplyr",
         "GenomicFeatures",
-        "shiny",
         "shinyjs",
         "tidyr",
         "shinythemes",
@@ -7374,12 +7283,10 @@
         "miniUI",
         "pkgdown",
         "testthat",
-        "shiny",
         "waldo",
         "rematch2"
     ],
     "GDCRNATools": [
-        "shiny",
         "DESeq2",
         "clusterProfiler",
         "DOSE",
@@ -7608,7 +7515,6 @@
         "GO.db",
         "plotly",
         "rintrojs",
-        "shiny",
         "shinyAce",
         "shinycssloaders",
         "shinyWidgets",
@@ -7770,8 +7676,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "dbplyr",
-        "KEGGREST",
-        "shiny"
+        "KEGGREST"
     ],
     "GenomicSuperSignature": [
         "ggplot2",
@@ -7872,7 +7777,6 @@
         "rematch2"
     ],
     "GEOexplorer": [
-        "shiny",
         "plotly",
         "shinyBS",
         "factoextra",
@@ -8101,7 +8005,6 @@
         "AnnotationDbi",
         "annotate",
         "multcomp",
-        "shiny",
         "Hmisc",
         "RSQLite",
         "KEGGREST",
@@ -8199,7 +8102,6 @@
         "GOstats",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "shiny",
         "WGCNA",
         "RSQLite",
         "KEGGREST",
@@ -8376,7 +8278,6 @@
     "GPA": [
         "ggplot2",
         "ggrepel",
-        "shiny",
         "shinyBS"
     ],
     "gpuMagic": [
@@ -8460,7 +8361,6 @@
     ],
     "GRridge": [],
     "GSCA": [
-        "shiny",
         "ggplot2"
     ],
     "gscreend": [
@@ -8494,7 +8394,6 @@
         "pathview",
         "safe",
         "annotate",
-        "shiny",
         "org.Hs.eg.db"
     ],
     "GSEAmining": [
@@ -8649,7 +8548,6 @@
         "vroom",
         "Rsamtools",
         "BSgenome",
-        "shiny",
         "GenomicAlignments"
     ],
     "GWASTools": [
@@ -8712,7 +8610,6 @@
         "tidyr",
         "readr",
         "BiocFileCache",
-        "shiny",
         "miniUI",
         "dbplyr",
         "RSQLite",
@@ -8813,7 +8710,6 @@
         "multiHiCcompare",
         "colourpicker",
         "miniUI",
-        "shiny",
         "shinyjs",
         "ggrepel",
         "ggsci",
@@ -8864,7 +8760,6 @@
         "KEGGREST",
         "Hmisc",
         "VariantAnnotation",
-        "shiny",
         "viridis"
     ],
     "HiLDA": [
@@ -8900,8 +8795,7 @@
         "multcomp",
         "tidyr",
         "KEGGREST",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "HIPPO": [
         "ggplot2",
@@ -8932,8 +8826,7 @@
     "hpar": [],
     "HPAStainR": [
         "dplyr",
-        "tidyr",
-        "shiny"
+        "tidyr"
     ],
     "HPiP": [
         "dplyr",
@@ -8983,7 +8876,6 @@
         "tidytext"
     ],
     "HumanTranscriptomeCompendium": [
-        "shiny",
         "ssrch"
     ],
     "hummingbird": [],
@@ -8993,7 +8885,6 @@
         "dplyr",
         "msigdbr",
         "kableExtra",
-        "shiny",
         "rvest",
         "babelgene"
     ],
@@ -9076,7 +8967,6 @@
         "GenomicAlignments"
     ],
     "iCOBRA": [
-        "shiny",
         "shinydashboard",
         "shinyBS",
         "ggplot2",
@@ -9096,7 +8986,6 @@
         "GOstats",
         "GO.db",
         "AnnotationDbi",
-        "shiny",
         "shinydashboard",
         "shinyBS",
         "rintrojs",
@@ -9222,7 +9111,6 @@
         "sf",
         "concaveman",
         "ggbeeswarm",
-        "shiny",
         "shinydashboard",
         "ggforce",
         "ggrepel",
@@ -9262,7 +9150,6 @@
         "miniUI",
         "pkgdown",
         "testthat",
-        "shiny",
         "waldo",
         "rematch2"
     ],
@@ -9282,7 +9169,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore"
     ],
     "infinityFlow": [],
@@ -9314,7 +9200,6 @@
         "DESeq2",
         "rtracklayer",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
-        "shiny",
         "geneplotter",
         "ggplot2",
         "AnnotationDbi",
@@ -9377,13 +9262,11 @@
     ],
     "InteractionSet": [],
     "InteractiveComplexHeatmap": [
-        "shiny",
         "kableExtra",
         "rvest"
     ],
     "interactiveDisplay": [
         "interactiveDisplayBase",
-        "shiny",
         "ggplot2",
         "Category",
         "AnnotationDbi",
@@ -9393,12 +9276,9 @@
         "genefilter",
         "annotate"
     ],
-    "interactiveDisplayBase": [
-        "shiny"
-    ],
+    "interactiveDisplayBase": [],
     "InterCellar": [
         "golem",
-        "shiny",
         "shinydashboard",
         "shinyFiles",
         "shinycssloaders",
@@ -9502,8 +9382,7 @@
         "BiocVersion",
         "interactiveDisplayBase",
         "dplyr",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "IPO": [
         "xcms",
@@ -9528,7 +9407,6 @@
         "ggraph",
         "scater",
         "scran",
-        "shiny",
         "DataVisualizations",
         "RSQLite",
         "KEGGREST",
@@ -9587,7 +9465,6 @@
         "ggrepel",
         "readxl",
         "forcats",
-        "shiny",
         "shinyWidgets",
         "datamods",
         "rio",
@@ -9598,7 +9475,6 @@
     ],
     "iSEE": [
         "SingleCellExperiment",
-        "shiny",
         "shinydashboard",
         "shinyAce",
         "shinyjs",
@@ -9612,7 +9488,6 @@
     "iSEEhex": [
         "iSEE",
         "ggplot2",
-        "shiny",
         "SingleCellExperiment",
         "shinydashboard",
         "shinyAce",
@@ -9629,7 +9504,6 @@
         "AnnotationHub",
         "iSEE",
         "rintrojs",
-        "shiny",
         "shinydashboard",
         "shinyjs",
         "BiocFileCache",
@@ -9650,7 +9524,6 @@
     "iSEEu": [
         "iSEE",
         "iSEEhex",
-        "shiny",
         "SingleCellExperiment",
         "ggplot2",
         "colourpicker",
@@ -9714,8 +9587,7 @@
         "BiocVersion",
         "interactiveDisplayBase",
         "dbplyr",
-        "annotate",
-        "shiny"
+        "annotate"
     ],
     "isomiRs": [
         "AnnotationDbi",
@@ -9765,7 +9637,6 @@
         "rematch2"
     ],
     "ivygapSE": [
-        "shiny",
         "survminer",
         "plotly",
         "ggplot2",
@@ -9865,7 +9736,6 @@
         "DESeq2",
         "DSS",
         "ggplot2",
-        "shiny",
         "shinycssloaders",
         "factoextra",
         "geneplotter",
@@ -9924,7 +9794,6 @@
         "readr",
         "bsplus",
         "shinyvalidate",
-        "shiny",
         "shinythemes",
         "shinyFiles",
         "shinyjs",
@@ -9953,7 +9822,6 @@
     "levi": [
         "dplyr",
         "ggplot2",
-        "shiny",
         "shinydashboard",
         "shinyjs",
         "testthat",
@@ -10101,7 +9969,6 @@
         "TCGAutils",
         "ggplot2",
         "TFBSTools",
-        "shiny",
         "miniUI",
         "dbplyr",
         "RSQLite",
@@ -10137,8 +10004,7 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "KEGGREST",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "lumi": [
         "methylumi",
@@ -10211,7 +10077,6 @@
         "ggplot2",
         "recipes",
         "KEGGREST",
-        "shiny",
         "hardhat",
         "ipred",
         "tidyr",
@@ -10281,8 +10146,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "KEGGREST",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "made4": [],
     "MADSEQ": [
@@ -10380,8 +10244,7 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "MAI": [
         "caret",
@@ -10430,7 +10293,6 @@
         "ipred",
         "tidyr",
         "prodlim",
-        "shiny",
         "miniUI",
         "labelled",
         "haven",
@@ -10495,7 +10357,6 @@
     ],
     "MatrixQCvis": [
         "plotly",
-        "shiny",
         "dplyr",
         "ggplot2",
         "Hmisc",
@@ -10817,8 +10678,7 @@
         "tidygraph",
         "tidyr",
         "tidytree",
-        "treeio",
-        "shiny"
+        "treeio"
     ],
     "meshr": [
         "BiocStyle",
@@ -11098,7 +10958,6 @@
         "sn"
     ],
     "MetCirc": [
-        "shiny",
         "ggplot2"
     ],
     "MethCP": [
@@ -11146,7 +11005,6 @@
         "vroom",
         "KEGGREST",
         "dbplyr",
-        "shiny",
         "broom",
         "car",
         "pbkrtest",
@@ -11167,7 +11025,6 @@
     "MethylAid": [
         "ggplot2",
         "minfi",
-        "shiny",
         "bumphunter",
         "siggenes",
         "genefilter",
@@ -11266,7 +11123,6 @@
         "annotate",
         "cellranger",
         "rematch2",
-        "shiny",
         "vroom",
         "car",
         "waldo",
@@ -11290,7 +11146,6 @@
         "reactome.db",
         "GO.db",
         "AnnotationDbi",
-        "shiny",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "RSQLite",
@@ -11382,7 +11237,6 @@
         "viridis"
     ],
     "methylscaper": [
-        "shiny",
         "shinyjs",
         "shinyFiles"
     ],
@@ -11439,7 +11293,6 @@
         "miniUI",
         "pkgdown",
         "testthat",
-        "shiny",
         "waldo",
         "rematch2"
     ],
@@ -11543,7 +11396,6 @@
         "phyloseq"
     ],
     "microbiomeExplorer": [
-        "shiny",
         "shinyjs",
         "shinydashboard",
         "shinycssloaders",
@@ -11604,7 +11456,6 @@
         "aplot",
         "ggfun",
         "treeio",
-        "shiny",
         "ggplotify",
         "readxl",
         "annotate",
@@ -11633,7 +11484,6 @@
         "clusterProfiler",
         "enrichplot",
         "golem",
-        "shiny",
         "shinyWidgets",
         "shinycustomloader",
         "ggplot2",
@@ -11909,7 +11759,6 @@
         "clusterProfiler",
         "ReactomePA",
         "DOSE",
-        "shiny",
         "ggwordcloud",
         "metR",
         "ggvis",
@@ -12117,7 +11966,6 @@
         "echarts4r",
         "dplyr",
         "broom",
-        "shiny",
         "forcats",
         "tidyr"
     ],
@@ -12148,7 +11996,6 @@
         "annotate",
         "genefilter",
         "ggvis",
-        "shiny",
         "AnnotationDbi",
         "dplyr",
         "RSQLite",
@@ -12181,7 +12028,6 @@
     "MMDiff2": [
         "Rsamtools",
         "BSgenome",
-        "shiny",
         "ggplot2",
         "rtracklayer",
         "GenomicAlignments"
@@ -12548,8 +12394,7 @@
         "msmsEDA",
         "qvalue",
         "vsn",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "MSPrep": [
         "dplyr",
@@ -12664,13 +12509,11 @@
         "MSnbase",
         "colourpicker",
         "miniUI",
-        "shiny",
         "shinyjs",
         "vsn",
         "tidyr"
     ],
     "MSstatsQCgui": [
-        "shiny",
         "MSstatsQC",
         "ggExtra",
         "plotly",
@@ -12701,7 +12544,6 @@
         "rematch2"
     ],
     "MSstatsShiny": [
-        "shiny",
         "shinyBS",
         "shinyjs",
         "shinybusy",
@@ -12827,7 +12669,6 @@
     "multiOmicsViz": [],
     "multiSight": [
         "golem",
-        "shiny",
         "shinydashboard",
         "dplyr",
         "anyLib",
@@ -12969,7 +12810,6 @@
         "factoextra",
         "shinydashboard",
         "sortable",
-        "shiny",
         "shinyjs",
         "shinyalert",
         "shinybusy",
@@ -13120,7 +12960,6 @@
         "annotate",
         "GO.db",
         "viridis",
-        "shiny",
         "vroom"
     ],
     "NanoMethViz": [
@@ -13262,7 +13101,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "tidyr",
         "dplyr"
@@ -13589,8 +13427,7 @@
         "ExperimentHub",
         "tidyr",
         "GenomicAlignments",
-        "KEGGREST",
-        "shiny"
+        "KEGGREST"
     ],
     "OCplus": [],
     "octad": [
@@ -13622,7 +13459,6 @@
         "dbplyr",
         "annotate",
         "rtracklayer",
-        "shiny",
         "GenomicAlignments"
     ],
     "ODER": [
@@ -13677,7 +13513,6 @@
         "ggplot2",
         "Gviz",
         "AnnotationHub",
-        "shiny",
         "shinyFiles",
         "rtracklayer",
         "shinydashboard",
@@ -13719,7 +13554,6 @@
         "yardstick",
         "questionr",
         "hardhat",
-        "shiny",
         "miniUI",
         "labelled",
         "haven",
@@ -13739,7 +13573,6 @@
     ],
     "omicplotR": [
         "ALDEx2",
-        "shiny",
         "zCompositions"
     ],
     "omicRexposome": [
@@ -13825,7 +13658,6 @@
     ],
     "omicsViewer": [
         "survminer",
-        "shiny",
         "shinythemes",
         "shinyWidgets",
         "plotly",
@@ -13903,7 +13735,6 @@
         "rematch2"
     ],
     "oneSENSE": [
-        "shiny",
         "shinyFiles",
         "plotly",
         "ggplot2",
@@ -13913,7 +13744,6 @@
     "onlineFDR": [],
     "ontoProc": [
         "BiocFileCache",
-        "shiny",
         "dplyr",
         "AnnotationHub",
         "RSQLite",
@@ -13938,7 +13768,6 @@
     ],
     "openPrimeRui": [
         "openPrimeR",
-        "shiny",
         "shinyjs",
         "shinyBS",
         "ggplot2",
@@ -13992,7 +13821,6 @@
         "miniUI",
         "pkgdown",
         "testthat",
-        "shiny",
         "waldo",
         "rematch2"
     ],
@@ -14285,7 +14113,6 @@
         "tidyr",
         "dplyr",
         "phyloseq",
-        "shiny",
         "BiocStyle",
         "DESeq2",
         "plotly",
@@ -14333,7 +14160,6 @@
         "GOstats",
         "GO.db",
         "AnnotationDbi",
-        "shiny",
         "shinydashboard",
         "shinyBS",
         "ggrepel",
@@ -14377,7 +14203,6 @@
         "biomaRt",
         "tidyr",
         "fgsea",
-        "shiny",
         "shinyjs",
         "shinydashboard",
         "prodlim",
@@ -14420,7 +14245,6 @@
     "peakPantheR": [
         "ggplot2",
         "MSnbase",
-        "shiny",
         "shinycssloaders",
         "vsn"
     ],
@@ -14522,7 +14346,6 @@
         "bench",
         "tidyr",
         "fgsea",
-        "shiny",
         "shinyjs",
         "shinydashboard",
         "dplyr",
@@ -14637,7 +14460,6 @@
         "colourpicker",
         "ExperimentHub",
         "ggplot2",
-        "shiny",
         "shinyBS",
         "shinyFiles",
         "shinyjs",
@@ -14680,7 +14502,6 @@
     ],
     "piano": [
         "fgsea",
-        "shiny",
         "shinyjs",
         "shinydashboard",
         "ggplot2",
@@ -14777,7 +14598,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "tidyr"
     ],
@@ -14823,7 +14643,6 @@
         "readxl",
         "egg",
         "ggpubr",
-        "shiny",
         "shinythemes",
         "colourpicker",
         "Hmisc",
@@ -14864,7 +14683,6 @@
     ],
     "PoDCall": [
         "ggplot2",
-        "shiny",
         "shinyjs",
         "readr",
         "vroom"
@@ -14876,7 +14694,6 @@
         "GenomicAlignments"
     ],
     "pogos": [
-        "shiny",
         "ontoProc",
         "ggplot2",
         "BiocFileCache",
@@ -14968,7 +14785,6 @@
         "rCGH",
         "ggplot2",
         "recipes",
-        "shiny",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -15003,7 +14819,6 @@
         "BSgenome.Hsapiens.UCSC.hg38",
         "phastCons100way.UCSC.hg38",
         "GenomicScores",
-        "shiny",
         "Gviz",
         "TFBSTools",
         "BSgenome",
@@ -15135,7 +14950,6 @@
         "enrichplot",
         "RSQLite",
         "biomaRt",
-        "shiny",
         "GO.db",
         "GenomicAlignments",
         "chipseq",
@@ -15197,7 +15011,6 @@
         "annotate",
         "genefilter",
         "ggvis",
-        "shiny",
         "vsn",
         "RSQLite",
         "KEGGREST",
@@ -15211,7 +15024,6 @@
     "pRolocGUI": [
         "pRoloc",
         "MSnbase",
-        "shiny",
         "dplyr",
         "ggplot2",
         "shinydashboardPlus",
@@ -15261,7 +15073,6 @@
     "Prostar": [
         "DAPAR",
         "DAPARdata",
-        "shiny",
         "shinyBS",
         "shinyAce",
         "highcharter",
@@ -15333,7 +15144,6 @@
         "ggpubr",
         "genefilter",
         "readr",
-        "shiny",
         "plotly",
         "flexdashboard",
         "shinydashboard",
@@ -15365,7 +15175,6 @@
         "rematch2"
     ],
     "psichomics": [
-        "shiny",
         "shinyBS",
         "AnnotationDbi",
         "AnnotationHub",
@@ -15432,7 +15241,6 @@
         "Hmisc",
         "MSnbase",
         "plotly",
-        "shiny",
         "shinyscreenshot",
         "ggrepel",
         "ggsci",
@@ -15516,12 +15324,10 @@
         "interactiveDisplayBase",
         "dplyr",
         "sqldf",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "pwrEWAS": [
         "shinyBS",
-        "shiny",
         "ggplot2",
         "shinyWidgets",
         "genefilter",
@@ -15767,7 +15573,6 @@
         "bench",
         "tidyr",
         "fgsea",
-        "shiny",
         "shinyjs",
         "shinydashboard",
         "ggplot2",
@@ -15825,8 +15630,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "dbplyr",
-        "GenomicAlignments",
-        "shiny"
+        "GenomicAlignments"
     ],
     "Rbec": [
         "dada2",
@@ -15870,12 +15674,10 @@
         "dbplyr"
     ],
     "rcellminer": [
-        "ggplot2",
-        "shiny"
+        "ggplot2"
     ],
     "rCGH": [
         "ggplot2",
-        "shiny",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -15898,7 +15700,6 @@
         "arrow",
         "dplyr",
         "GSEABase",
-        "shiny",
         "annotate",
         "AnnotationDbi",
         "RSQLite",
@@ -15923,7 +15724,6 @@
     "Rcwl": [
         "batchtools",
         "DiagrammeR",
-        "shiny",
         "dplyr",
         "readr",
         "tidyr",
@@ -15939,7 +15739,6 @@
         "RSQLite",
         "batchtools",
         "DiagrammeR",
-        "shiny",
         "readr",
         "tidyr",
         "viridis",
@@ -15953,7 +15752,6 @@
     "RCyjs": [],
     "ReactomeGraph4R": [
         "neo4r",
-        "shiny",
         "tidyr",
         "dplyr"
     ],
@@ -16199,7 +15997,6 @@
         "IRdisplay",
         "Hmisc",
         "VariantAnnotation",
-        "shiny",
         "ggplot2",
         "viridis"
     ],
@@ -16231,7 +16028,6 @@
         "GenomicFeatures",
         "annotate",
         "tidyr",
-        "shiny",
         "hardhat",
         "ipred",
         "biomaRt",
@@ -16321,8 +16117,7 @@
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "rexposome": [
         "FactoMineR",
@@ -16368,8 +16163,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "KEGGREST",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "RGMQL": [
         "rtracklayer",
@@ -16398,7 +16192,6 @@
         "dplyr"
     ],
     "rGREAT": [
-        "shiny",
         "GenomicFeatures",
         "GO.db",
         "AnnotationDbi",
@@ -16678,7 +16471,6 @@
         "dbplyr",
         "tidyr",
         "recipes",
-        "shiny",
         "vroom",
         "hardhat",
         "ipred",
@@ -16715,7 +16507,6 @@
         "annotate",
         "rtracklayer",
         "biomaRt",
-        "shiny",
         "waldo",
         "BiocFileCache",
         "GenomicAlignments",
@@ -17060,7 +16851,6 @@
     "rprimer": [
         "ggplot2",
         "patchwork",
-        "shiny",
         "shinycssloaders",
         "shinyFeedback"
     ],
@@ -17075,7 +16865,6 @@
         "ggplot2",
         "BiocStyle",
         "biovizBase",
-        "shiny",
         "Rsamtools",
         "GenomicAlignments",
         "GenomicFiles",
@@ -17132,7 +16921,6 @@
         "ggplot2",
         "ggrepel",
         "treemap",
-        "shiny",
         "RSQLite",
         "KEGGREST"
     ],
@@ -17256,7 +17044,6 @@
         "KEGGREST"
     ],
     "rTRMui": [
-        "shiny",
         "rTRM",
         "MotifDb",
         "org.Hs.eg.db",
@@ -17327,7 +17114,6 @@
     "sangeranalyseR": [
         "DECIPHER",
         "sangerseqR",
-        "shiny",
         "shinydashboard",
         "shinyjs",
         "plotly",
@@ -17341,9 +17127,7 @@
         "tidyr",
         "dplyr"
     ],
-    "sangerseqR": [
-        "shiny"
-    ],
+    "sangerseqR": [],
     "sarks": [],
     "satuRn": [
         "ggplot2"
@@ -17361,7 +17145,6 @@
         "org.Hs.eg.db"
     ],
     "SC3": [
-        "shiny",
         "ggplot2",
         "SingleCellExperiment"
     ],
@@ -17379,7 +17162,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "tfruns",
         "tidyr",
@@ -17416,7 +17198,6 @@
         "rtracklayer",
         "scanMiR",
         "scanMiRData",
-        "shiny",
         "shinycssloaders",
         "shinydashboard",
         "shinyjqui",
@@ -17456,7 +17237,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "KEGGREST",
         "dbplyr",
@@ -17486,8 +17266,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "dbplyr",
-        "KEGGREST",
-        "shiny"
+        "KEGGREST"
     ],
     "scater": [
         "SingleCellExperiment",
@@ -17517,7 +17296,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "genefilter",
         "AnnotationDbi",
@@ -17545,7 +17323,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "ggplotify"
     ],
@@ -17563,7 +17340,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "tidyr",
         "dplyr"
@@ -17610,7 +17386,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "tidyr",
         "dplyr"
@@ -17685,7 +17460,6 @@
         "SingleCellExperiment",
         "Seurat",
         "ggplot2",
-        "shiny",
         "dplyr",
         "ggforce",
         "concaveman",
@@ -17713,8 +17487,7 @@
         "sangerseqR",
         "kableExtra",
         "RSQLite",
-        "rvest",
-        "shiny"
+        "rvest"
     ],
     "scMAGeCK": [
         "Seurat",
@@ -17727,7 +17500,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "tidyr",
         "dplyr"
@@ -17779,7 +17551,6 @@
         "KEGGREST",
         "dbplyr",
         "biomaRt",
-        "shiny",
         "vroom",
         "GenomicAlignments"
     ],
@@ -17984,7 +17755,6 @@
         "graphite",
         "gson",
         "Seurat",
-        "shiny",
         "ggforce",
         "concaveman",
         "dbplyr",
@@ -18025,7 +17795,6 @@
         "fields",
         "tidyr",
         "Seurat",
-        "shiny",
         "ggforce",
         "concaveman",
         "RSQLite",
@@ -18071,7 +17840,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "AnnotationDbi",
         "RSQLite",
@@ -18246,8 +18014,7 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "dbplyr",
-        "KEGGREST",
-        "shiny"
+        "KEGGREST"
     ],
     "SeqVarTools": [
         "SeqArray",
@@ -18272,8 +18039,7 @@
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "KEGGREST",
-        "shiny"
+        "KEGGREST"
     ],
     "SEtools": [
         "sechm",
@@ -18315,7 +18081,6 @@
         "minfi",
         "plotly",
         "rtracklayer",
-        "shiny",
         "shinyWidgets",
         "shinycssloaders",
         "shinyjs",
@@ -18342,7 +18107,6 @@
         "dbplyr"
     ],
     "shinyMethyl": [
-        "shiny",
         "minfi",
         "IlluminaHumanMethylation450kmanifest",
         "bumphunter",
@@ -18389,7 +18153,6 @@
         "annotate",
         "genefilter",
         "ggvis",
-        "shiny",
         "AnnotationDbi",
         "dplyr",
         "RSQLite",
@@ -18447,8 +18210,7 @@
         "viridis",
         "tidygraph",
         "tidytree",
-        "treeio",
-        "shiny"
+        "treeio"
     ],
     "signeR": [
         "VariantAnnotation",
@@ -18461,7 +18223,6 @@
         "ggpubr",
         "cowplot",
         "readr",
-        "shiny",
         "shinydashboard",
         "shinycssloaders",
         "shinyWidgets",
@@ -18601,7 +18362,6 @@
         "viridis",
         "ggplot2",
         "ggbeeswarm",
-        "shiny",
         "shinydashboard",
         "DropletUtils",
         "BiocFileCache",
@@ -18661,7 +18421,6 @@
         "scMerge",
         "scran",
         "Seurat",
-        "shiny",
         "shinyjs",
         "SingleR",
         "SoupX",
@@ -18919,7 +18678,6 @@
         "ggplot2",
         "dplyr",
         "sampSurf",
-        "shiny",
         "shinyjs"
     ],
     "SomaticSignatures": [
@@ -18958,7 +18716,6 @@
         "ggplot2",
         "scater",
         "scran",
-        "shiny",
         "DropletUtils",
         "scuttle",
         "BiocSingular",
@@ -19020,7 +18777,6 @@
         "ggplot2",
         "ggrepel",
         "readr",
-        "shiny",
         "shinycssloaders",
         "shinyjs",
         "shinyWidgets",
@@ -19088,7 +18844,6 @@
         "genefilter",
         "ggplot2",
         "ggdendro",
-        "shiny",
         "ggplotify",
         "plotly",
         "scater",
@@ -19176,7 +18931,6 @@
         "DropletUtils",
         "BiocFileCache",
         "colourpicker",
-        "shiny",
         "shinyjs",
         "dbplyr",
         "RSQLite",
@@ -19241,7 +18995,6 @@
         "genefilter",
         "plotly",
         "rtracklayer",
-        "shiny",
         "shinyFiles",
         "shinyWidgets",
         "shinydashboard",
@@ -19367,7 +19120,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "SingleCellExperiment",
         "DropletUtils",
@@ -19441,7 +19193,6 @@
         "Hmisc",
         "VariantAnnotation",
         "annotate",
-        "shiny",
         "waldo",
         "dbplyr",
         "dplyr",
@@ -19484,9 +19235,7 @@
         "readr",
         "vroom"
     ],
-    "ssrch": [
-        "shiny"
-    ],
+    "ssrch": [],
     "ssviz": [
         "Rsamtools",
         "ggplot2"
@@ -19615,7 +19364,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "SingleCellExperiment",
         "DropletUtils",
@@ -19909,7 +19657,6 @@
         "GenomicAlignments"
     ],
     "systemPipeShiny": [
-        "shiny",
         "spsComps",
         "drawer",
         "bsplus",
@@ -20002,14 +19749,11 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "target": [
-        "shiny"
-    ],
+    "target": [],
     "TargetDecoy": [
         "ggplot2",
         "ggpubr",
         "miniUI",
-        "shiny",
         "ggrepel",
         "ggsci",
         "tidyr",
@@ -20080,7 +19824,6 @@
     ],
     "TCGAbiolinksGUI": [
         "shinydashboard",
-        "shiny",
         "plotly",
         "readr",
         "ggrepel",
@@ -20212,7 +19955,6 @@
         "vroom"
     ],
     "tenXplore": [
-        "shiny",
         "restfulSE",
         "ontoProc",
         "AnnotationDbi",
@@ -20241,7 +19983,6 @@
         "readr",
         "tidyr",
         "TCGAutils",
-        "shiny",
         "miniUI",
         "dbplyr",
         "RSQLite",
@@ -20316,7 +20057,6 @@
     "TFutils": [
         "dplyr",
         "miniUI",
-        "shiny",
         "Rsamtools",
         "GSEABase",
         "BiocFileCache",
@@ -20397,7 +20137,6 @@
         "GOSemSim",
         "gson",
         "qvalue",
-        "shiny",
         "ggrepel",
         "IRkernel",
         "IRdisplay",
@@ -20534,7 +20273,6 @@
     ],
     "tomoseqr": [
         "dplyr",
-        "shiny",
         "BiocFileCache",
         "readr",
         "plotly",
@@ -20567,7 +20305,6 @@
         "piano",
         "bench",
         "fgsea",
-        "shiny",
         "shinyjs",
         "shinydashboard",
         "cowplot"
@@ -20779,7 +20516,6 @@
         "GenomicAlignments"
     ],
     "Trendy": [
-        "shiny",
         "shinyFiles"
     ],
     "TRESS": [
@@ -20827,7 +20563,6 @@
     ],
     "triplex": [],
     "tripr": [
-        "shiny",
         "shinyBS",
         "shinyjs",
         "shinyFiles",
@@ -20862,8 +20597,7 @@
     "TSCAN": [
         "SingleCellExperiment",
         "TrajectoryUtils",
-        "ggplot2",
-        "shiny"
+        "ggplot2"
     ],
     "tscR": [
         "dplyr",
@@ -20893,8 +20627,7 @@
         "cqn"
     ],
     "twoddpcr": [
-        "ggplot2",
-        "shiny"
+        "ggplot2"
     ],
     "txcutr": [
         "AnnotationDbi",
@@ -20924,7 +20657,6 @@
         "rtracklayer",
         "Rsamtools",
         "biomaRt",
-        "shiny",
         "GenomicAlignments"
     ],
     "UCell": [
@@ -20941,7 +20673,6 @@
         "mirbase.db",
         "Organism.dplyr",
         "plotgardener",
-        "shiny",
         "shinydashboard",
         "shinyFiles",
         "shinyjs",
@@ -20987,7 +20718,6 @@
         "hdrcde"
     ],
     "uncoverappLib": [
-        "shiny",
         "shinyjs",
         "shinyBS",
         "shinyWidgets",
@@ -21094,7 +20824,6 @@
     ],
     "VarCon": [
         "BSgenome",
-        "shiny",
         "shinycssloaders",
         "shinyFiles",
         "ggplot2",
@@ -21148,7 +20877,6 @@
         "BSgenome",
         "GenomicScores",
         "Gviz",
-        "shiny",
         "shinythemes",
         "shinyjs",
         "shinyTree",
@@ -21304,8 +21032,7 @@
         "BiocVersion",
         "interactiveDisplayBase",
         "syuzhet",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "Voyager": [
         "ggnewscale",
@@ -21330,7 +21057,6 @@
         "Rsamtools"
     ],
     "vsclust": [
-        "shiny",
         "qvalue",
         "MultiAssayExperiment",
         "tidyr",
@@ -21359,7 +21085,6 @@
         "vroom",
         "Rsamtools",
         "BSgenome",
-        "shiny",
         "GenomicAlignments"
     ],
     "vulcan": [
@@ -21479,7 +21204,6 @@
     ],
     "wpm": [
         "golem",
-        "shiny",
         "ggplot2",
         "dplyr",
         "shinydashboard",
@@ -21526,7 +21250,6 @@
         "bench",
         "tidyr",
         "fgsea",
-        "shiny",
         "shinyjs",
         "shinydashboard",
         "dplyr",
@@ -21653,9 +21376,7 @@
     ],
     "RSQLite": [],
     "ggplot2": [],
-    "flexdashboard": [
-        "shiny"
-    ],
+    "flexdashboard": [],
     "ggcorrplot": [
         "ggplot2"
     ],
@@ -21668,7 +21389,6 @@
         "dplyr"
     ],
     "bookdown": [],
-    "shiny": [],
     "tidyr": [
         "dplyr"
     ],
@@ -21697,9 +21417,7 @@
     "ggsignif": [
         "ggplot2"
     ],
-    "shinyjs": [
-        "shiny"
-    ],
+    "shinyjs": [],
     "testthat": [
         "waldo",
         "rematch2"
@@ -21776,8 +21494,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "KEGGREST",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "rvest": [],
     "smoother": [],
@@ -21812,9 +21529,7 @@
         "ggbeeswarm"
     ],
     "zCompositions": [],
-    "shinydashboard": [
-        "shiny"
-    ],
+    "shinydashboard": [],
     "readxl": [
         "cellranger"
     ],
@@ -21835,8 +21550,7 @@
         "dplyr",
         "tidyr",
         "KEGGREST",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "readr": [
         "vroom"
@@ -21874,8 +21588,7 @@
         "prodlim"
     ],
     "plotROC": [
-        "ggplot2",
-        "shiny"
+        "ggplot2"
     ],
     "GUniFrac": [
         "ggplot2",
@@ -21893,13 +21606,9 @@
         "prodlim"
     ],
     "prodlim": [],
-    "miniUI": [
-        "shiny"
-    ],
+    "miniUI": [],
     "bigrquery": [],
-    "shinytoastr": [
-        "shiny"
-    ],
+    "shinytoastr": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi",
         "RSQLite",
@@ -21915,7 +21624,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "tidyr",
         "dplyr"
@@ -22006,8 +21714,7 @@
         "dplyr",
         "dbplyr",
         "GenomicAlignments",
-        "KEGGREST",
-        "shiny"
+        "KEGGREST"
     ],
     "MafDb.ExAC.r1.0.hs37d5": [
         "GenomicScores",
@@ -22023,8 +21730,7 @@
         "dplyr",
         "dbplyr",
         "GenomicAlignments",
-        "KEGGREST",
-        "shiny"
+        "KEGGREST"
     ],
     "MafDb.gnomADex.r2.1.hs37d5": [
         "GenomicScores",
@@ -22040,8 +21746,7 @@
         "dplyr",
         "dbplyr",
         "GenomicAlignments",
-        "KEGGREST",
-        "shiny"
+        "KEGGREST"
     ],
     "COSMIC.67": [
         "VariantAnnotation",
@@ -22245,7 +21950,6 @@
         "viridis"
     ],
     "ggvis": [
-        "shiny",
         "dplyr"
     ],
     "rstan": [
@@ -22262,13 +21966,11 @@
         "colourpicker",
         "ggplot2",
         "miniUI",
-        "shiny",
         "shinyjs"
     ],
     "colourpicker": [
         "ggplot2",
         "miniUI",
-        "shiny",
         "shinyjs"
     ],
     "MCMCpack": [],
@@ -22317,9 +22019,7 @@
         "GenomicAlignments",
         "dbplyr"
     ],
-    "shinycssloaders": [
-        "shiny"
-    ],
+    "shinycssloaders": [],
     "ggforce": [
         "ggplot2"
     ],
@@ -22329,7 +22029,6 @@
         "dplyr",
         "broom",
         "car",
-        "shiny",
         "shinyAce",
         "readr",
         "readxl",
@@ -22345,9 +22044,7 @@
         "waldo",
         "rematch2"
     ],
-    "shinythemes": [
-        "shiny"
-    ],
+    "shinythemes": [],
     "org.Bt.eg.db": [
         "AnnotationDbi",
         "RSQLite",
@@ -22370,12 +22067,8 @@
         "RSQLite",
         "KEGGREST"
     ],
-    "shinyAce": [
-        "shiny"
-    ],
-    "shinyFiles": [
-        "shiny"
-    ],
+    "shinyAce": [],
+    "shinyFiles": [],
     "ggraph": [
         "ggplot2",
         "dplyr",
@@ -22436,8 +22129,7 @@
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "KEGGREST",
-        "shiny"
+        "KEGGREST"
     ],
     "WGCNA": [
         "Hmisc",
@@ -22457,8 +22149,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "KEGGREST",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "ggnetwork": [
         "ggplot2",
@@ -22473,9 +22164,7 @@
     "sna": [
         "network"
     ],
-    "shinyBS": [
-        "shiny"
-    ],
+    "shinyBS": [],
     "superheat": [
         "dplyr",
         "ggplot2",
@@ -22497,8 +22186,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "KEGGREST",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "pasilla": [
         "DEXSeq",
@@ -22552,7 +22240,6 @@
         "VariantAnnotation",
         "ggplot2",
         "viridis",
-        "shiny",
         "BSgenome"
     ],
     "BSgenome.Hsapiens.UCSC.hg38": [
@@ -22566,7 +22253,6 @@
         "miniUI",
         "pkgdown",
         "testthat",
-        "shiny",
         "waldo",
         "rematch2"
     ],
@@ -22598,9 +22284,7 @@
         "IRdisplay"
     ],
     "IRdisplay": [],
-    "rintrojs": [
-        "shiny"
-    ],
+    "rintrojs": [],
     "enrichR": [
         "ggplot2"
     ],
@@ -22843,14 +22527,9 @@
         "dbplyr",
         "dplyr"
     ],
-    "shinyhelper": [
-        "shiny"
-    ],
-    "shinyWidgets": [
-        "shiny"
-    ],
+    "shinyhelper": [],
+    "shinyWidgets": [],
     "shinydashboardPlus": [
-        "shiny",
         "shinydashboard",
         "fresh",
         "waiter"
@@ -22865,12 +22544,8 @@
     "ggfittext": [
         "ggplot2"
     ],
-    "fresh": [
-        "shiny"
-    ],
-    "waiter": [
-        "shiny"
-    ],
+    "fresh": [],
+    "waiter": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
@@ -23021,8 +22696,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "KEGGREST",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "keras": [
         "tensorflow",
@@ -23034,7 +22708,6 @@
     "tfruns": [],
     "shinypanel": [
         "shinyjs",
-        "shiny",
         "shinyBS"
     ],
     "highcharter": [
@@ -23066,12 +22739,8 @@
         "viridis",
         "ggplot2"
     ],
-    "shinyFeedback": [
-        "shiny"
-    ],
-    "shinyMatrix": [
-        "shiny"
-    ],
+    "shinyFeedback": [],
+    "shinyMatrix": [],
     "mbest": [
         "lme4",
         "nloptr",
@@ -23198,8 +22867,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "KEGGREST",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "coin": [
         "multcomp"
@@ -23216,8 +22884,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "dbplyr",
-        "KEGGREST",
-        "shiny"
+        "KEGGREST"
     ],
     "batchtools": [],
     "qgraph": [
@@ -23235,8 +22902,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "dbplyr",
-        "KEGGREST",
-        "shiny"
+        "KEGGREST"
     ],
     "homologene": [
         "dplyr",
@@ -23348,17 +23014,13 @@
         "ggplot2"
     ],
     "bs4Dash": [
-        "shiny",
         "fresh",
         "waiter"
     ],
-    "tippy": [
-        "shiny"
-    ],
+    "tippy": [],
     "flextable": [],
     "shinyHeatmaply": [
         "heatmaply",
-        "shiny",
         "plotly",
         "dplyr",
         "readxl",
@@ -23369,9 +23031,7 @@
         "tidyr",
         "cellranger"
     ],
-    "shinybusy": [
-        "shiny"
-    ],
+    "shinybusy": [],
     "ggalt": [
         "ggplot2",
         "dplyr",
@@ -23384,7 +23044,6 @@
     ],
     "HH": [
         "multcomp",
-        "shiny",
         "Hmisc",
         "ggplot2",
         "viridis"
@@ -23416,8 +23075,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "dbplyr",
-        "KEGGREST",
-        "shiny"
+        "KEGGREST"
     ],
     "available": [
         "tidytext",
@@ -23446,21 +23104,16 @@
         "dplyr"
     ],
     "golem": [
-        "shiny",
         "usethis"
     ],
-    "shinyalert": [
-        "shiny"
-    ],
+    "shinyalert": [],
     "AdaptGauss": [
-        "shiny",
         "DataVisualizations",
         "ggplot2"
     ],
     "datamods": [
         "readxl",
         "rio",
-        "shiny",
         "shinyWidgets",
         "shinybusy",
         "cellranger",
@@ -23481,16 +23134,11 @@
         "KEGGREST"
     ],
     "sortable": [
-        "learnr",
-        "shiny"
+        "learnr"
     ],
     "bsplus": [],
-    "shinyvalidate": [
-        "shiny"
-    ],
-    "learnr": [
-        "shiny"
-    ],
+    "shinyvalidate": [],
+    "learnr": [],
     "reldist": [
         "densEstBayes",
         "rstan",
@@ -23535,8 +23183,7 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "KEGGREST",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "plsgenomics": [
         "fields",
@@ -23546,7 +23193,6 @@
     "agricolae": [
         "klaR",
         "questionr",
-        "shiny",
         "miniUI",
         "labelled",
         "haven",
@@ -23558,7 +23204,6 @@
     ],
     "klaR": [
         "questionr",
-        "shiny",
         "miniUI",
         "labelled",
         "haven",
@@ -23569,7 +23214,6 @@
         "vroom"
     ],
     "questionr": [
-        "shiny",
         "miniUI",
         "labelled",
         "haven",
@@ -23630,8 +23274,7 @@
         "dplyr",
         "vroom",
         "KEGGREST",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "FlowSorted.Blood.450k": [
         "minfi",
@@ -23675,7 +23318,6 @@
         "dbplyr",
         "KEGGREST",
         "biomaRt",
-        "shiny",
         "GenomicAlignments"
     ],
     "ggmcmc": [
@@ -23685,9 +23327,7 @@
         "GGally",
         "forcats"
     ],
-    "shinycustomloader": [
-        "shiny"
-    ],
+    "shinycustomloader": [],
     "ggstar": [
         "ggplot2"
     ],
@@ -23736,11 +23376,9 @@
     ],
     "subspace": [
         "ggvis",
-        "shiny",
         "dplyr"
     ],
     "SOMbrero": [
-        "shiny",
         "ggplot2",
         "ggwordcloud",
         "metR"
@@ -23779,7 +23417,6 @@
     "echarts4r": [
         "dplyr",
         "broom",
-        "shiny",
         "tidyr",
         "ggplot2"
     ],
@@ -23795,7 +23432,6 @@
         "miniUI",
         "pkgdown",
         "testthat",
-        "shiny",
         "waldo",
         "rematch2"
     ],
@@ -23814,9 +23450,7 @@
         "Rsamtools",
         "GenomicAlignments"
     ],
-    "shinyjqui": [
-        "shiny"
-    ],
+    "shinyjqui": [],
     "VarfromPDB": [],
     "mppa": [],
     "ICSNP": [
@@ -23864,8 +23498,7 @@
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "KEGGREST",
-        "shiny"
+        "KEGGREST"
     ],
     "octad.db": [
         "ExperimentHub",
@@ -23877,8 +23510,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "dbplyr",
-        "KEGGREST",
-        "shiny"
+        "KEGGREST"
     ],
     "diceR": [
         "dplyr",
@@ -23889,7 +23521,6 @@
         "yardstick",
         "questionr",
         "hardhat",
-        "shiny",
         "miniUI",
         "labelled",
         "haven",
@@ -23986,8 +23617,7 @@
         "dplyr",
         "dbplyr",
         "GenomicAlignments",
-        "KEGGREST",
-        "shiny"
+        "KEGGREST"
     ],
     "forecast": [
         "ggplot2",
@@ -24022,12 +23652,8 @@
         "dbplyr",
         "dplyr"
     ],
-    "pairsD3": [
-        "shiny"
-    ],
-    "shinyscreenshot": [
-        "shiny"
-    ],
+    "pairsD3": [],
+    "shinyscreenshot": [],
     "pwrEWAS.data": [
         "ExperimentHub",
         "AnnotationHub",
@@ -24038,8 +23664,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "dbplyr",
-        "KEGGREST",
-        "shiny"
+        "KEGGREST"
     ],
     "phastCons100way.UCSC.hg19": [
         "GenomicScores",
@@ -24055,12 +23680,10 @@
         "dplyr",
         "dbplyr",
         "GenomicAlignments",
-        "KEGGREST",
-        "shiny"
+        "KEGGREST"
     ],
     "arrow": [],
     "neo4r": [
-        "shiny",
         "tidyr",
         "dplyr"
     ],
@@ -24086,8 +23709,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "KEGGREST",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "valr": [
         "broom",
@@ -24123,8 +23745,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "KEGGREST",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "TBX20BamSubset": [
         "Rsamtools"
@@ -24132,8 +23753,7 @@
     "systemPipeRdata": [],
     "fission": [],
     "treemap": [
-        "ggplot2",
-        "shiny"
+        "ggplot2"
     ],
     "SBGNview.data": [
         "bookdown"
@@ -24156,8 +23776,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "dbplyr",
-        "KEGGREST",
-        "shiny"
+        "KEGGREST"
     ],
     "Rmagic": [],
     "ggvenn": [
@@ -24241,8 +23860,7 @@
         "BiocVersion",
         "interactiveDisplayBase",
         "dplyr",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "GSVAdata": [
         "GSEABase",
@@ -24264,7 +23882,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "tidyr",
         "dplyr"
@@ -24286,7 +23903,6 @@
         "Rsamtools",
         "biomaRt",
         "dbplyr",
-        "shiny",
         "GenomicAlignments"
     ],
     "TENxPBMCData": [
@@ -24300,8 +23916,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "KEGGREST",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "hgu95a.db": [
         "AnnotationDbi",
@@ -24318,7 +23933,6 @@
     ],
     "xROI": [
         "colourpicker",
-        "shiny",
         "shinyjs",
         "ggplot2",
         "miniUI"
@@ -24395,21 +24009,18 @@
         "sf"
     ],
     "spsComps": [
-        "shiny",
         "shinytoastr",
         "shinyAce"
     ],
     "drawer": [
-        "bsplus",
-        "shiny"
+        "bsplus"
     ],
     "GenKern": [],
     "ttservice": [
         "dplyr"
     ],
     "FreqProf": [
-        "ggplot2",
-        "shiny"
+        "ggplot2"
     ],
     "gghighlight": [
         "ggplot2",
@@ -24468,9 +24079,7 @@
     "condformat": [
         "dplyr"
     ],
-    "shinyTree": [
-        "shiny"
-    ],
+    "shinyTree": [],
     "msigdb": [
         "ExperimentHub",
         "GSEABase",
@@ -24485,8 +24094,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "annotate",
-        "dbplyr",
-        "shiny"
+        "dbplyr"
     ],
     "eva": [
         "EnvStats",
