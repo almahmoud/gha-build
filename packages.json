@@ -1045,7 +1045,6 @@
         "ComplexHeatmap",
         "forestplot",
         "rlang",
-        "lpSolve",
         "GenomicRanges",
         "Rcpp",
         "RcppEigen",
@@ -1466,7 +1465,6 @@
         "lambda.r",
         "Matrix",
         "highr",
-        "lpSolve",
         "nlme",
         "randomForest",
         "itertools",
@@ -3119,7 +3117,6 @@
         "viridis",
         "htmltools",
         "BiocParallel",
-        "lpSolve",
         "GenomicAlignments",
         "RSQLite",
         "KEGGREST",
@@ -5020,7 +5017,6 @@
         "doParallel",
         "iterators",
         "bslib",
-        "lpSolve",
         "labeling",
         "munsell",
         "viridisLite",
@@ -6486,7 +6482,6 @@
         "graph",
         "Rgraphviz",
         "diagram",
-        "lpSolve",
         "magrittr",
         "stringi"
     ],
@@ -11351,7 +11346,6 @@
     "CARNIVAL": [
         "readr",
         "stringr",
-        "lpSolve",
         "igraph",
         "dplyr",
         "tibble",
@@ -19744,7 +19738,6 @@
         "stringr",
         "visNetwork",
         "readr",
-        "lpSolve",
         "tibble",
         "tidyr",
         "rmarkdown",
@@ -21665,7 +21658,6 @@
         "DelayedArray",
         "ellipsis",
         "magic",
-        "lpSolve",
         "linprog",
         "caTools",
         "Matrix",
@@ -23181,7 +23173,6 @@
         "dplyr",
         "readr",
         "magic",
-        "lpSolve",
         "linprog",
         "rngtools",
         "stringr",
@@ -23613,7 +23604,6 @@
         "tibble",
         "vctrs",
         "withr",
-        "lpSolve",
         "Biobase",
         "Rcpp",
         "nlme",
@@ -27660,7 +27650,6 @@
         "GenomeInfoDb",
         "XVector",
         "caTools",
-        "lpSolve",
         "TH.data",
         "sandwich",
         "labeling",
@@ -31107,7 +31096,6 @@
         "Biostrings",
         "glmnet",
         "iterators",
-        "lpSolve",
         "poibin",
         "speedglm",
         "fgsea",
@@ -40007,7 +39995,6 @@
         "officer",
         "mgcv",
         "withr",
-        "lpSolve",
         "ellipsis",
         "rmarkdown",
         "knitr",
@@ -47451,7 +47438,6 @@
         "tibble",
         "vctrs",
         "withr",
-        "lpSolve",
         "Rcpp",
         "gplots",
         "brio",
@@ -48370,9 +48356,7 @@
     "LPEadj": [
         "LPE"
     ],
-    "lpNet": [
-        "lpSolve"
-    ],
+    "lpNet": [],
     "LRBaseDbi": [
         "AnnotationDbi",
         "RSQLite",
@@ -62106,7 +62090,6 @@
         "latticeExtra",
         "digest",
         "htmltools",
-        "lpSolve",
         "ade4",
         "TFBSTools",
         "mvtnorm",
@@ -65093,7 +65076,6 @@
         "plyr",
         "iterators",
         "magic",
-        "lpSolve",
         "linprog",
         "questionr",
         "nlme",
@@ -72347,7 +72329,6 @@
         "affy",
         "pcaMethods",
         "mzID",
-        "lpSolve",
         "labeling",
         "munsell",
         "viridisLite",
@@ -72522,7 +72503,6 @@
         "clue",
         "doParallel",
         "iterators",
-        "lpSolve",
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -74486,7 +74466,6 @@
         "tibble",
         "vctrs",
         "withr",
-        "lpSolve",
         "MatrixGenerics",
         "GenomicRanges",
         "Matrix",
@@ -90930,7 +90909,6 @@
         "ggplot2",
         "ggrepel",
         "igraph",
-        "lpSolve",
         "purrr",
         "readr",
         "rlang",
@@ -103319,7 +103297,6 @@
         "scales",
         "withr",
         "httr",
-        "lpSolve",
         "mvtnorm",
         "multcompView",
         "gmp",
@@ -105002,7 +104979,6 @@
     "forestplot": [
         "checkmate"
     ],
-    "lpSolve": [],
     "RcppNumerical": [
         "Rcpp",
         "RcppEigen",
@@ -105235,12 +105211,9 @@
     ],
     "baseline": [
         "SparseM",
-        "limSolve",
-        "lpSolve"
+        "limSolve"
     ],
-    "limSolve": [
-        "lpSolve"
-    ],
+    "limSolve": [],
     "corpcor": [],
     "rARPACK": [
         "RSpectra",
@@ -106897,9 +106870,7 @@
     "triebeard": [
         "Rcpp"
     ],
-    "sampling": [
-        "lpSolve"
-    ],
+    "sampling": [],
     "rJava": [],
     "sendmailR": [],
     "FDb.InfiniumMethylation.hg19": [
@@ -108236,8 +108207,7 @@
     "poibin": [],
     "LIM": [
         "limSolve",
-        "diagram",
-        "lpSolve"
+        "diagram"
     ],
     "diagram": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
@@ -112763,7 +112733,6 @@
         "Rcpp",
         "RcppArmadillo",
         "magic",
-        "lpSolve",
         "linprog",
         "lifecycle",
         "mgcv",
@@ -112818,13 +112787,10 @@
     "geometry": [
         "magic",
         "Rcpp",
-        "lpSolve",
         "linprog"
     ],
     "IDPmisc": [],
-    "linprog": [
-        "lpSolve"
-    ],
+    "linprog": [],
     "GEOmap": [
         "splancs",
         "fields",
@@ -115678,9 +115644,7 @@
     "akima": [
         "sp"
     ],
-    "irr": [
-        "lpSolve"
-    ],
+    "irr": [],
     "scam": [
         "mgcv",
         "Matrix",
@@ -117851,7 +117815,6 @@
         "geometry",
         "magic",
         "Rcpp",
-        "lpSolve",
         "linprog"
     ],
     "diceR": [
