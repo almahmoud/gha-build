@@ -760,7 +760,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "FunChIP": [],
     "funtooNorm": [
         "minfi",
         "IlluminaHumanMethylation450kmanifest",
