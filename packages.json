@@ -409,7 +409,6 @@
         "BiocManager",
         "preprocessCore",
         "zlibbioc",
-        "awsMethods",
         "gsl",
         "AnnotationDbi",
         "annotate",
@@ -56469,7 +56468,6 @@
     ],
     "GLAD": [
         "aws",
-        "awsMethods",
         "gsl"
     ],
     "GladiaTOX": [
@@ -68034,7 +68032,6 @@
         "foreach",
         "BiocManager",
         "S4Vectors",
-        "awsMethods",
         "gsl",
         "XVector",
         "GenomeInfoDb",
@@ -72867,7 +72864,6 @@
     "MANOR": [
         "GLAD",
         "aws",
-        "awsMethods",
         "gsl"
     ],
     "MantelCorr": [],
@@ -127203,7 +127199,6 @@
         "aws",
         "MASS",
         "pixmap",
-        "awsMethods",
         "gsl",
         "boot",
         "codetools",
@@ -131644,7 +131639,6 @@
         "BiocManager",
         "preprocessCore",
         "zlibbioc",
-        "awsMethods",
         "gsl",
         "AnnotationDbi",
         "annotate",
@@ -152246,7 +152240,6 @@
     ],
     "waveslim": [],
     "aws": [
-        "awsMethods",
         "gsl"
     ],
     "pixmap": [],
@@ -152255,7 +152248,6 @@
         "sandwich",
         "lattice"
     ],
-    "awsMethods": [],
     "gsl": [],
     "zoo": [
         "lattice"
