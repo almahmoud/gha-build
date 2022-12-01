@@ -2928,7 +2928,6 @@
         "MSnbase",
         "pRoloc",
         "pRolocdata",
-        "lbfgs",
         "ggplot2",
         "dplyr",
         "knitr",
@@ -62201,7 +62200,6 @@
         "doParallel",
         "pillar"
     ],
-    "lbfgs": [],
     "dendextend": [
         "ggplot2",
         "viridis",
