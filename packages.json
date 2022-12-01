@@ -2354,7 +2354,6 @@
         "lmerTest",
         "lme4"
     ],
-    "SpidermiR": [],
     "splatter": [
         "scater"
     ],
@@ -2395,9 +2394,7 @@
         "RUVSeq"
     ],
     "staRank": [],
-    "StarBioTrek": [
-        "SpidermiR"
-    ],
+    "StarBioTrek": [],
     "Statial": [],
     "strandCheckR": [],
     "StructuralVariantAnnotation": [
