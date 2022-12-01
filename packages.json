@@ -1764,7 +1764,6 @@
         "lme4"
     ],
     "oppti": [],
-    "ORFik": [],
     "orthogene": [
         "ggpubr",
         "rstatix",
@@ -2028,9 +2027,7 @@
         "goseq"
     ],
     "Rhisat2": [],
-    "RiboCrypt": [
-        "ORFik"
-    ],
+    "RiboCrypt": [],
     "RiboProfiling": [
         "ggbio",
         "biovizBase",
@@ -2467,9 +2464,7 @@
     ],
     "terraTCGAdata": [],
     "TFEA.ChIP": [],
-    "TFHAZ": [
-        "ORFik"
-    ],
+    "TFHAZ": [],
     "timeOmics": [
         "propr"
     ],
