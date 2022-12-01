@@ -2551,8 +2551,7 @@
         "ensembldb",
         "EnsDb.Hsapiens.v86",
         "EnsDb.Mmusculus.v79",
-        "EnsDb.Rnorvegicus.v79",
-        "Rcpi"
+        "EnsDb.Rnorvegicus.v79"
     ],
     "ProteoDisco": [
         "VariantAnnotation"
@@ -2666,7 +2665,6 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene"
     ],
     "RcisTarget": [],
-    "Rcpi": [],
     "Rcwl": [],
     "RcwlPipelines": [
         "Rcwl"
