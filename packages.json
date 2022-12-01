@@ -43315,7 +43315,6 @@
         "httr",
         "openssl"
     ],
-    "Rdisop": [],
     "RDRToolbox": [
         "rgl",
         "htmlwidgets",
