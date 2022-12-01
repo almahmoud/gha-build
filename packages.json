@@ -2465,10 +2465,7 @@
         "XVector",
         "DelayedArray"
     ],
-    "basilisk": [
-        "basilisk.utils"
-    ],
-    "basilisk.utils": [],
+    "basilisk": [],
     "batchelor": [
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -3355,7 +3352,6 @@
     ],
     "BiocSklearn": [
         "SummarizedExperiment",
-        "basilisk.utils",
         "basilisk",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -5340,7 +5336,6 @@
         "shinyBS",
         "shinycssloaders",
         "rintrojs",
-        "basilisk.utils",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -9045,7 +9040,6 @@
         "readr",
         "crisprScoreData",
         "basilisk",
-        "basilisk.utils",
         "biomaRt",
         "GenomicAlignments",
         "SummarizedExperiment",
@@ -9078,7 +9072,6 @@
     "crisprScore": [
         "crisprScoreData",
         "basilisk",
-        "basilisk.utils",
         "Biostrings",
         "XVector",
         "GenomeInfoDb",
@@ -9232,7 +9225,6 @@
         "VariantAnnotation",
         "crisprScoreData",
         "basilisk",
-        "basilisk.utils",
         "XVector",
         "Gviz",
         "RSQLite",
@@ -9310,7 +9302,6 @@
         "readr",
         "crisprScoreData",
         "basilisk",
-        "basilisk.utils",
         "BiocParallel",
         "interp",
         "blob",
@@ -10169,7 +10160,6 @@
         "rtracklayer",
         "SummarizedExperiment",
         "tidyr",
-        "basilisk.utils",
         "dbplyr",
         "RSQLite",
         "httr",
@@ -10904,8 +10894,7 @@
         "pillar"
     ],
     "densvis": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "DEP": [
         "ggplot2",
@@ -14832,7 +14821,6 @@
         "BSgenome",
         "BiocParallel",
         "GenomicAlignments",
-        "basilisk.utils",
         "XVector",
         "doParallel",
         "tibble",
@@ -21838,7 +21826,6 @@
         "interactiveDisplayBase",
         "httr",
         "dplyr",
-        "basilisk.utils",
         "KEGGREST",
         "dbplyr",
         "tibble",
@@ -25893,7 +25880,6 @@
         "DelayedArray",
         "uwot",
         "basilisk",
-        "basilisk.utils",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -28844,7 +28830,6 @@
         "cmdfun",
         "Biostrings",
         "KEGGREST",
-        "basilisk.utils",
         "testthat",
         "usethis",
         "blob",
@@ -33745,7 +33730,6 @@
         "DiagrammeR",
         "shiny",
         "basilisk",
-        "basilisk.utils",
         "progress",
         "dplyr",
         "htmlwidgets",
@@ -33779,7 +33763,6 @@
         "DiagrammeR",
         "shiny",
         "basilisk",
-        "basilisk.utils",
         "progress",
         "blob",
         "pillar",
@@ -39543,7 +39526,6 @@
         "proxyC",
         "SummarizedExperiment",
         "tidyr",
-        "basilisk.utils",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -40178,8 +40160,7 @@
         "DelayedArray"
     ],
     "snifter": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "snm": [
         "lme4",
@@ -40534,7 +40515,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "ggrepel",
-        "basilisk.utils",
         "mgcv",
         "tibble",
         "vctrs",
@@ -45263,7 +45243,6 @@
         "ggplot2",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "basilisk.utils",
         "mgcv",
         "tibble",
         "vctrs",
@@ -45302,7 +45281,6 @@
         "SingleCellExperiment",
         "BiocParallel",
         "BiocSingular",
-        "basilisk.utils",
         "ScaledMatrix",
         "beachmat",
         "GenomicRanges",
@@ -46143,7 +46121,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "DelayedArray",
-        "basilisk.utils",
         "GenomicRanges",
         "GenomeInfoDb",
         "XVector"
