@@ -8704,7 +8704,6 @@
         "ggplot2",
         "tibble"
     ],
-    "fmrs": [],
     "fobitools": [
         "dplyr",
         "fgsea",
