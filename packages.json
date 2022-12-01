@@ -5497,8 +5497,7 @@
     ],
     "SpeCond": [],
     "SPIAT": [
-        "SpatialExperiment",
-        "xROI"
+        "SpatialExperiment"
     ],
     "spicyR": [
         "lmerTest",
@@ -6761,7 +6760,6 @@
         "BiocVersion"
     ],
     "sampSurf": [],
-    "xROI": [],
     "miRNAtap.db": [],
     "MESS": [
         "ggformula",
