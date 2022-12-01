@@ -286,7 +286,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "HiCDOC": [],
     "HiContacts": [
         "HiContactsData",
         "ExperimentHub",
