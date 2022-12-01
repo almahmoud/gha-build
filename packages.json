@@ -22857,7 +22857,6 @@
         "DelayedArray",
         "pillar"
     ],
-    "MethPed": [],
     "MethReg": [
         "dplyr",
         "GenomicRanges",
