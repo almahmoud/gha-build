@@ -12402,7 +12402,6 @@
         "slingshot",
         "TrajectoryUtils"
     ],
-    "TrajectoryGeometry": [],
     "TrajectoryUtils": [],
     "transcriptogramer": [
         "biomaRt",
