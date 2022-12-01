@@ -8133,7 +8133,6 @@
         "FactoMineR",
         "caret",
         "plsVarSel",
-        "kknn",
         "FSelector",
         "arm",
         "lme4",
@@ -12660,7 +12659,6 @@
         "FactoMineR",
         "caret",
         "plsVarSel",
-        "kknn",
         "FSelector",
         "arm",
         "tibble",
@@ -31836,7 +31834,6 @@
         "PMCMRplus",
         "ppclust",
         "survivalAnalysis",
-        "kknn",
         "glmnet",
         "future.apply",
         "ggplot2",
@@ -40184,7 +40181,6 @@
         "rgl",
         "hms"
     ],
-    "kknn": [],
     "FSelector": [
         "RWeka"
     ],
