@@ -23823,7 +23823,6 @@
         "pillar"
     ],
     "RUVcorr": [],
-    "RUVnormalize": [],
     "RUVSeq": [
         "EDASeq",
         "ShortRead",
