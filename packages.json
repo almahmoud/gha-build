@@ -19633,7 +19633,6 @@
         "edgeR",
         "EnrichmentBrowser",
         "ExperimentHub",
-        "KEGGandMetacoreDzPathwaysGEO",
         "KEGGdzPathwaysGEO",
         "RSQLite",
         "KEGGREST",
@@ -55336,7 +55335,6 @@
         "gbutils"
     ],
     "gbutils": [],
-    "KEGGandMetacoreDzPathwaysGEO": [],
     "ggwordcloud": [
         "ggplot2",
         "scales",
