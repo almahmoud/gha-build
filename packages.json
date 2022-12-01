@@ -78,7 +78,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "atSNP": [],
     "BaalChIP": [
         "doBy"
     ],
