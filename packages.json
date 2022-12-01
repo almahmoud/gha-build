@@ -5180,7 +5180,6 @@
         "latticeExtra",
         "GenomicAlignments",
         "leidenbase",
-        "qlcMatrix",
         "viridis",
         "RSQLite",
         "KEGGREST",
@@ -5403,7 +5402,6 @@
     "cliqueMS": [
         "xcms",
         "MSnbase",
-        "qlcMatrix",
         "vsn",
         "ggplot2",
         "SummarizedExperiment",
@@ -19648,7 +19646,6 @@
         "leidenbase",
         "tibble",
         "dplyr",
-        "qlcMatrix",
         "viridis",
         "tidyselect",
         "pillar"
@@ -33826,7 +33823,6 @@
         "leidenbase",
         "tibble",
         "dplyr",
-        "qlcMatrix",
         "viridis",
         "tidyselect",
         "pillar"
@@ -36982,7 +36978,6 @@
         "bslib"
     ],
     "leidenbase": [],
-    "qlcMatrix": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
