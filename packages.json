@@ -1686,8 +1686,7 @@
     "FastqCleaner": [],
     "fCCAC": [
         "fda",
-        "genomation",
-        "fds"
+        "genomation"
     ],
     "fcoex": [
         "clusterProfiler",
@@ -1765,13 +1764,11 @@
         "testthat"
     ],
     "flowStats": [
-        "fda",
-        "fds"
+        "fda"
     ],
     "flowVS": [
         "flowStats",
-        "fda",
-        "fds"
+        "fda"
     ],
     "fobitools": [
         "ggraph",
@@ -1793,13 +1790,11 @@
         "testthat"
     ],
     "FRGEpistasis": [
-        "fda",
-        "fds"
+        "fda"
     ],
     "frma": [],
     "FunChIP": [
-        "fda",
-        "fds"
+        "fda"
     ],
     "funtooNorm": [
         "minfi",
@@ -2392,8 +2387,7 @@
         "testthat"
     ],
     "IWTomics": [
-        "fda",
-        "fds"
+        "fda"
     ],
     "karyoploteR": [
         "regioneR",
@@ -3643,7 +3637,6 @@
     "PING": [
         "Gviz",
         "fda",
-        "fds",
         "GenomicFeatures",
         "ensembldb",
         "biovizBase",
@@ -5072,8 +5065,7 @@
         "DESeq2",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "GenomicFeatures",
-        "fda",
-        "fds"
+        "fda"
     ],
     "uncoverappLib": [
         "Gviz",
@@ -5550,10 +5542,7 @@
         "BiocVersion"
     ],
     "homologene": [],
-    "fda": [
-        "fds"
-    ],
-    "fds": [],
+    "fda": [],
     "SPARQL": [],
     "NHPoisson": [
         "car",
