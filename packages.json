@@ -11944,7 +11944,6 @@
         "SummarizedExperiment",
         "edgeR",
         "DESeq2",
-        "capushe",
         "Rmixmod",
         "e1071",
         "BiocParallel",
@@ -67292,13 +67291,11 @@
     ],
     "relations": [],
     "pals": [],
-    "capushe": [],
     "Rmixmod": [
         "RcppEigen"
     ],
     "HTSCluster": [
-        "edgeR",
-        "capushe"
+        "edgeR"
     ],
     "compositions": [
         "bayesm"
