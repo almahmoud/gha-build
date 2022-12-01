@@ -1,7 +1,6 @@
 {
     "a4": [
         "a4Base",
-        "a4Preproc",
         "a4Classif",
         "a4Core",
         "annaffy",
@@ -24,7 +23,6 @@
         "vctrs"
     ],
     "a4Base": [
-        "a4Preproc",
         "a4Core",
         "annaffy",
         "genefilter",
@@ -45,7 +43,6 @@
     ],
     "a4Classif": [
         "a4Core",
-        "a4Preproc",
         "ROCR",
         "pamr",
         "glmnet",
@@ -55,7 +52,6 @@
         "glmnet",
         "survival"
     ],
-    "a4Preproc": [],
     "ABarray": [
         "multtest",
         "survival"
