@@ -418,7 +418,6 @@
     ],
     "BASiCStan": [
         "BASiCS",
-        "glmGamPoi",
         "scran",
         "ggExtra"
     ],
@@ -3265,7 +3264,6 @@
         "DESeq2",
         "geneplotter"
     ],
-    "glmGamPoi": [],
     "glmSparseNet": [
         "MultiAssayExperiment",
         "biomaRt",
@@ -8166,9 +8164,7 @@
         "ShortRead",
         "biomaRt"
     ],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "tRanslatome": [
         "anota",
         "DESeq2",
