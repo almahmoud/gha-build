@@ -517,7 +517,6 @@
         "annotate",
         "genefilter"
     ],
-    "banocc": [],
     "barcodetrackR": [],
     "basecallQC": [
         "ShortRead"
