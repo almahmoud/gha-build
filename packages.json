@@ -1138,7 +1138,6 @@
         "Biostrings",
         "blob"
     ],
-    "antiProfiles": [],
     "AnVIL": [
         "dplyr",
         "httr",
