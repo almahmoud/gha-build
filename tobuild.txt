@@ -1,7 +1,0 @@
-MAGAR
-RNAmodR.ML
-RNAmodR.AlkAnilineSeq
-affycoretools
-RNAmodR.RiboMethSeq
-RTNduals
-bioCancer
