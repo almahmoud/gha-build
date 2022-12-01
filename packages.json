@@ -2599,7 +2599,6 @@
     "GmicR": [
         "Category",
         "GSEABase",
-        "gRain",
         "GOstats",
         "WGCNA"
     ],
@@ -5447,9 +5446,7 @@
         "biomaRt",
         "GenomicFeatures"
     ],
-    "RVS": [
-        "gRain"
-    ],
+    "RVS": [],
     "sampleClassifier": [
         "MGFM",
         "MGFR",
@@ -7103,7 +7100,6 @@
         "heatmaply"
     ],
     "ggalt": [],
-    "gRain": [],
     "HiContactsData": [
         "ExperimentHub",
         "AnnotationHub",
