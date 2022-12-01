@@ -1110,7 +1110,6 @@
         "enrichplot",
         "ggtree"
     ],
-    "easyRNASeq": [],
     "EBSEA": [
         "DESeq2"
     ],
@@ -2452,7 +2451,6 @@
     ],
     "MsExperiment": [],
     "msgbsR": [
-        "easyRNASeq",
         "GenomicFeatures",
         "ggbio",
         "biovizBase",
