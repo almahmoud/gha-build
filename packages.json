@@ -80707,7 +80707,6 @@
         "futile.logger",
         "lambda.r"
     ],
-    "swfdr": [],
     "switchBox": [
         "pROC",
         "gplots",
