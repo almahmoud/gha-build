@@ -2477,7 +2477,6 @@
         "XVector",
         "fBasics",
         "stable",
-        "stabledist",
         "statip",
         "askpass",
         "clock",
@@ -17825,7 +17824,6 @@
         "GenomeInfoDb",
         "timeSeries",
         "spatial",
-        "stabledist",
         "lattice",
         "BiocParallel",
         "Rsamtools",
@@ -22115,7 +22113,6 @@
         "mime",
         "fBasics",
         "stable",
-        "stabledist",
         "statip",
         "future.apply",
         "magrittr",
@@ -29631,7 +29628,6 @@
         "zoo",
         "timeSeries",
         "spatial",
-        "stabledist",
         "cli",
         "gtable",
         "isoband",
@@ -49197,7 +49193,6 @@
         "gbutils",
         "Rdpack",
         "spatial",
-        "stabledist",
         "lambda.r",
         "RCurl",
         "GenomeInfoDbData",
@@ -68104,7 +68099,6 @@
         "quantreg",
         "fBasics",
         "stable",
-        "stabledist",
         "statip",
         "farver",
         "labeling",
@@ -101813,7 +101807,6 @@
         "Matrix",
         "lattice",
         "gsl",
-        "stabledist",
         "mvtnorm",
         "pcaPP",
         "S4Vectors",
@@ -128980,7 +128973,6 @@
         "withr",
         "fBasics",
         "stable",
-        "stabledist",
         "statip",
         "permute",
         "timeSeries",
@@ -129049,7 +129041,6 @@
     "modeest": [
         "fBasics",
         "stable",
-        "stabledist",
         "statip",
         "timeSeries",
         "spatial",
@@ -129072,11 +129063,9 @@
     ],
     "fBasics": [
         "timeSeries",
-        "spatial",
-        "stabledist"
+        "spatial"
     ],
     "stable": [],
-    "stabledist": [],
     "statip": [
         "clue",
         "rpart"
@@ -140582,7 +140571,6 @@
         "gbutils",
         "Rdpack",
         "spatial",
-        "stabledist",
         "lattice"
     ],
     "cvar": [
@@ -146196,7 +146184,6 @@
         "Matrix",
         "lattice",
         "gsl",
-        "stabledist",
         "mvtnorm",
         "pcaPP"
     ],
