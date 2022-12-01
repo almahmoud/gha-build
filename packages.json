@@ -26849,7 +26849,6 @@
         "dqrng",
         "sitmo"
     ],
-    "Informeasure": [],
     "InPAS": [
         "AnnotationDbi",
         "batchtools",
