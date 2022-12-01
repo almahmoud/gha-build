@@ -219,7 +219,6 @@
         "Seurat",
         "topGO",
         "org.Hs.eg.db",
-        "org.Mm.eg.db",
         "GO.db"
     ],
     "appreci8R": [
@@ -343,7 +342,6 @@
         "GO.db",
         "org.Hs.eg.db",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "org.Mm.eg.db",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "ggalluvial",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -765,7 +763,6 @@
         "GO.db",
         "org.Hs.eg.db",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "org.Mm.eg.db",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "BiocVersion",
         "regioneR",
@@ -1078,7 +1075,6 @@
     ],
     "cellity": [
         "org.Hs.eg.db",
-        "org.Mm.eg.db",
         "topGO",
         "GO.db"
     ],
@@ -1241,7 +1237,6 @@
         "Gviz",
         "ensembldb",
         "org.Hs.eg.db",
-        "org.Mm.eg.db",
         "GenomicFeatures",
         "rtracklayer",
         "biomaRt",
@@ -1264,7 +1259,6 @@
         "chipenrich.data",
         "org.Dm.eg.db",
         "org.Hs.eg.db",
-        "org.Mm.eg.db",
         "org.Rn.eg.db",
         "rms",
         "rtracklayer",
@@ -1624,7 +1618,6 @@
     ],
     "conclus": [
         "org.Hs.eg.db",
-        "org.Mm.eg.db",
         "factoextra",
         "biomaRt",
         "scran",
@@ -2084,7 +2077,6 @@
         "DESeq2",
         "DOSE",
         "org.Hs.eg.db",
-        "org.Mm.eg.db",
         "clusterProfiler",
         "sva",
         "enrichplot",
@@ -2482,7 +2474,6 @@
     "EasyCellType": [
         "clusterProfiler",
         "org.Hs.eg.db",
-        "org.Mm.eg.db",
         "DOSE",
         "enrichplot",
         "GO.db",
@@ -2530,7 +2521,6 @@
         "DESeq2",
         "clusterProfiler",
         "org.Hs.eg.db",
-        "org.Mm.eg.db",
         "DOSE",
         "enrichplot",
         "GO.db",
@@ -2556,7 +2546,6 @@
         "globaltest",
         "metap",
         "org.Hs.eg.db",
-        "org.Mm.eg.db",
         "org.Rn.eg.db",
         "plotly",
         "GO.db",
@@ -3625,7 +3614,6 @@
         "gRain",
         "GOstats",
         "org.Hs.eg.db",
-        "org.Mm.eg.db",
         "WGCNA",
         "genefilter",
         "GO.db",
@@ -4176,7 +4164,6 @@
     ],
     "IRISFGM": [
         "org.Hs.eg.db",
-        "org.Mm.eg.db",
         "Seurat",
         "clusterProfiler",
         "ggpubr",
@@ -6676,7 +6663,6 @@
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "org.Hs.eg.db",
-        "org.Mm.eg.db",
         "rGREAT",
         "rtracklayer",
         "enrichplot",
@@ -7370,7 +7356,6 @@
     "Rmmquant": [
         "devtools",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
-        "org.Mm.eg.db",
         "DESeq2",
         "geneplotter",
         "testthat",
@@ -7648,7 +7633,6 @@
         "rTRM",
         "MotifDb",
         "org.Hs.eg.db",
-        "org.Mm.eg.db",
         "rtracklayer"
     ],
     "runibic": [
@@ -7848,7 +7832,6 @@
         "biomaRt",
         "GGally",
         "org.Hs.eg.db",
-        "org.Mm.eg.db",
         "rtracklayer",
         "scater",
         "testthat",
@@ -8810,7 +8793,6 @@
     "tenXplore": [
         "restfulSE",
         "ontoProc",
-        "org.Mm.eg.db",
         "AnnotationHub",
         "GO.db",
         "ExperimentHub",
@@ -9254,7 +9236,6 @@
         "tidygraph",
         "ggraph",
         "ExperimentHub",
-        "org.Mm.eg.db",
         "org.Hs.eg.db",
         "AnnotationHub",
         "lexicon",
@@ -9491,7 +9472,6 @@
         "plotly"
     ],
     "org.Hs.eg.db": [],
-    "org.Mm.eg.db": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
         "rtracklayer"
@@ -9579,7 +9559,6 @@
         "OrganismDbi",
         "GenomicFeatures",
         "GO.db",
-        "org.Mm.eg.db",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "rtracklayer",
         "biomaRt"
@@ -10412,7 +10391,6 @@
     "msigdb": [
         "ExperimentHub",
         "GSEABase",
-        "org.Mm.eg.db",
         "org.Hs.eg.db",
         "AnnotationHub",
         "BiocVersion"
