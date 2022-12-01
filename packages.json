@@ -4400,7 +4400,6 @@
         "VariantAnnotation",
         "GenomicFeatures"
     ],
-    "uSORT": [],
     "VAExprs": [
         "scater",
         "DeepPINCS",
