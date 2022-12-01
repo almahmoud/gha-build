@@ -558,9 +558,7 @@
     "netZooR": [
         "yarn"
     ],
-    "NormalyzerDE": [
-        "RcmdrMisc"
-    ],
+    "NormalyzerDE": [],
     "NxtIRFcore": [
         "NxtIRFdata",
         "AnnotationHub",
@@ -1019,7 +1017,6 @@
         "BiocCheck"
     ],
     "mppa": [],
-    "RcmdrMisc": [],
     "NxtIRFdata": [
         "ExperimentHub",
         "AnnotationHub",
