@@ -397,7 +397,6 @@
     ],
     "bnem": [
         "epiNEM",
-        "mnem",
         "sva"
     ],
     "BOBaFIT": [
@@ -1025,8 +1024,7 @@
     ],
     "dce": [
         "tidyverse",
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "ddPCRclust": [
         "flowDensity",
@@ -1395,9 +1393,7 @@
         "OrganismDbi",
         "VariantAnnotation"
     ],
-    "epiNEM": [
-        "mnem"
-    ],
+    "epiNEM": [],
     "epistasisGA": [],
     "EpiTxDb": [
         "GenomicFeatures"
@@ -2671,7 +2667,6 @@
         "pbkrtest",
         "nloptr"
     ],
-    "mnem": [],
     "moanin": [],
     "MobilityTransformR": [],
     "MODA": [],
@@ -2910,7 +2905,6 @@
     ],
     "Nebulosa": [],
     "nempi": [
-        "mnem",
         "epiNEM"
     ],
     "NetActivity": [
