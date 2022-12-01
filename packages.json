@@ -2033,7 +2033,6 @@
     "MetID": [
         "devtools"
     ],
-    "MGFR": [],
     "mia": [
         "scater"
     ],
@@ -3062,9 +3061,7 @@
     "RUVSeq": [
         "EDASeq"
     ],
-    "sampleClassifier": [
-        "MGFR"
-    ],
+    "sampleClassifier": [],
     "SBGNview": [],
     "scAlign": [],
     "SCAN.UPC": [],
