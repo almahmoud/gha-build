@@ -230,7 +230,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "Doscheda": [],
     "easier": [
         "easierData",
         "ExperimentHub",
