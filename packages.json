@@ -182,7 +182,6 @@
         "dplyr",
         "ggplot2",
         "scuttle",
-        "BiocSingular",
         "ggbeeswarm",
         "viridis",
         "ggrastr",
@@ -297,7 +296,6 @@
         "testthat",
         "treeio",
         "cellranger",
-        "BiocSingular",
         "ggbeeswarm",
         "ggrastr",
         "ggrepel",
@@ -918,8 +916,7 @@
         "viridis",
         "colourpicker",
         "miniUI",
-        "shinyjs",
-        "BiocSingular"
+        "shinyjs"
     ],
     "BASiCStan": [
         "BASiCS",
@@ -932,7 +929,6 @@
         "ggExtra",
         "ggplot2",
         "viridis",
-        "BiocSingular",
         "colourpicker",
         "miniUI",
         "shinyjs"
@@ -942,7 +938,6 @@
     ],
     "batchelor": [
         "SingleCellExperiment",
-        "BiocSingular",
         "scuttle"
     ],
     "BatchQC": [
@@ -967,7 +962,6 @@
         "scran",
         "ggplot2",
         "BiocFileCache",
-        "BiocSingular",
         "dbplyr",
         "dplyr",
         "scuttle",
@@ -1063,7 +1057,6 @@
         "testthat",
         "tidytree",
         "cellranger",
-        "BiocSingular",
         "ggbeeswarm",
         "ggrastr",
         "waldo",
@@ -1286,7 +1279,6 @@
         "AnnotationDbi",
         "tidyr"
     ],
-    "BiocSingular": [],
     "BiocSklearn": [],
     "BiocStyle": [
         "bookdown"
@@ -1486,8 +1478,7 @@
     "BioTIP": [
         "scran",
         "SingleCellExperiment",
-        "scuttle",
-        "BiocSingular"
+        "scuttle"
     ],
     "biotmle": [
         "dplyr",
@@ -1986,7 +1977,6 @@
         "ggpubr",
         "tidyr",
         "scuttle",
-        "BiocSingular",
         "ggbeeswarm",
         "viridis",
         "ggrastr",
@@ -2112,7 +2102,6 @@
         "scran",
         "multipanelfigure",
         "scuttle",
-        "BiocSingular",
         "ggbeeswarm",
         "viridis",
         "ggrastr"
@@ -2156,7 +2145,6 @@
         "fgsea",
         "cowplot",
         "scuttle",
-        "BiocSingular",
         "ggbeeswarm",
         "viridis",
         "ggrastr",
@@ -2205,7 +2193,6 @@
         "dplyr",
         "ggridges",
         "scuttle",
-        "BiocSingular",
         "ggbeeswarm",
         "ggrastr",
         "ggrepel"
@@ -2691,7 +2678,6 @@
         "SingleCellExperiment",
         "msigdbr",
         "forcats",
-        "BiocSingular",
         "scuttle",
         "miniUI",
         "ggfittext",
@@ -2827,7 +2813,6 @@
         "viridis",
         "tidygraph",
         "scuttle",
-        "BiocSingular",
         "tidyr"
     ],
     "ClassifyR": [
@@ -2886,7 +2871,6 @@
     "clusterExperiment": [
         "SingleCellExperiment",
         "NMF",
-        "BiocSingular",
         "zinbwave",
         "phylobase",
         "mbkmeans",
@@ -3200,7 +3184,6 @@
     ],
     "compartmap": [
         "RaggedExperiment",
-        "BiocSingular",
         "ggplot2",
         "rtracklayer",
         "GenomicAlignments"
@@ -3283,7 +3266,6 @@
         "ggrepel",
         "readr",
         "scuttle",
-        "BiocSingular",
         "ggbeeswarm",
         "viridis",
         "ggrastr",
@@ -3329,7 +3311,6 @@
         "caret",
         "recipes",
         "scuttle",
-        "BiocSingular",
         "ggbeeswarm",
         "viridis",
         "ggrastr",
@@ -3382,7 +3363,6 @@
         "biomaRt",
         "GSEABase",
         "SingleCellExperiment",
-        "BiocSingular",
         "AnnotationDbi",
         "BiocFileCache",
         "annotate",
@@ -4332,9 +4312,7 @@
         "qvalue",
         "ggplot2"
     ],
-    "DelayedTensor": [
-        "BiocSingular"
-    ],
+    "DelayedTensor": [],
     "deltaCaptureC": [
         "ggplot2",
         "DESeq2",
@@ -4600,7 +4578,6 @@
     ],
     "diggit": [],
     "Dino": [
-        "BiocSingular",
         "SingleCellExperiment",
         "Seurat",
         "scran",
@@ -4648,7 +4625,6 @@
         "ggplot2",
         "scater",
         "scuttle",
-        "BiocSingular",
         "ggbeeswarm",
         "viridis",
         "ggrastr",
@@ -5084,7 +5060,6 @@
         "annotate",
         "GSEABase",
         "SingleCellExperiment",
-        "BiocSingular",
         "TFisher",
         "mutoss",
         "hgu133plus2.db",
@@ -5675,7 +5650,6 @@
         "tidyr",
         "annotate",
         "AnnotationDbi",
-        "BiocSingular",
         "babelgene"
     ],
     "esetVis": [
@@ -6106,7 +6080,6 @@
         "OrganismDbi",
         "GGally",
         "ensembldb",
-        "BiocSingular",
         "ggbeeswarm",
         "viridis",
         "ggrastr",
@@ -7492,7 +7465,6 @@
     "GSVA": [
         "GSEABase",
         "SingleCellExperiment",
-        "BiocSingular",
         "annotate",
         "AnnotationDbi"
     ],
@@ -8364,7 +8336,6 @@
         "viridis",
         "tidygraph",
         "scuttle",
-        "BiocSingular",
         "ggbeeswarm",
         "ggrastr",
         "ggridges",
@@ -10094,7 +10065,6 @@
         "dplyr",
         "tidyr",
         "ggplot2",
-        "BiocSingular",
         "ggbeeswarm",
         "viridis",
         "ggrastr",
@@ -10133,7 +10103,6 @@
         "decontam",
         "DECIPHER",
         "scuttle",
-        "BiocSingular",
         "ggbeeswarm",
         "ggrastr",
         "ggplotify",
@@ -10222,7 +10191,6 @@
         "ipred",
         "prodlim",
         "cellranger",
-        "BiocSingular",
         "ggbeeswarm",
         "ggrastr",
         "ggrepel",
@@ -10311,7 +10279,6 @@
     "miloR": [
         "SingleCellExperiment",
         "cowplot",
-        "BiocSingular",
         "ggplot2",
         "ggraph",
         "patchwork",
@@ -11023,8 +10990,7 @@
         "tidyr",
         "dplyr",
         "SingleCellExperiment",
-        "scuttle",
-        "BiocSingular"
+        "scuttle"
     ],
     "mslp": [
         "org.Hs.eg.db",
@@ -11387,7 +11353,6 @@
     ],
     "mumosa": [
         "SingleCellExperiment",
-        "BiocSingular",
         "scuttle",
         "scran",
         "batchelor"
@@ -11420,7 +11385,6 @@
         "viridis",
         "geneplotter",
         "nloptr",
-        "BiocSingular",
         "ggbeeswarm",
         "ggrastr",
         "ggrepel",
@@ -11594,7 +11558,6 @@
     "NanoMethViz": [
         "ggplot2",
         "readr",
-        "BiocSingular",
         "bsseq",
         "forcats",
         "AnnotationDbi",
@@ -11830,7 +11793,6 @@
         "clusterExperiment",
         "SingleCellExperiment",
         "NMF",
-        "BiocSingular",
         "zinbwave",
         "phylobase",
         "mbkmeans",
@@ -11892,8 +11854,7 @@
         "tfruns"
     ],
     "NewWave": [
-        "SingleCellExperiment",
-        "BiocSingular"
+        "SingleCellExperiment"
     ],
     "ngsReports": [
         "ggplot2",
@@ -12037,7 +11998,6 @@
         "GenomicFeatures",
         "GSEABase",
         "SingleCellExperiment",
-        "BiocSingular",
         "tidyr",
         "dbplyr",
         "annotate",
@@ -12363,8 +12323,7 @@
         "GSVA",
         "annotate",
         "AnnotationDbi",
-        "SingleCellExperiment",
-        "BiocSingular"
+        "SingleCellExperiment"
     ],
     "oppti": [
         "ggplot2",
@@ -12694,8 +12653,7 @@
     "PCAtools": [
         "ggplot2",
         "ggrepel",
-        "cowplot",
-        "BiocSingular"
+        "cowplot"
     ],
     "PDATK": [
         "MultiAssayExperiment",
@@ -12767,7 +12725,6 @@
         "SingleCellExperiment",
         "scuttle",
         "ggplot2",
-        "BiocSingular",
         "ggbeeswarm",
         "viridis",
         "ggrastr",
@@ -13074,7 +13031,6 @@
         "cowplot",
         "scater",
         "scuttle",
-        "BiocSingular",
         "ggbeeswarm",
         "viridis",
         "ggrastr",
@@ -15434,7 +15390,6 @@
         "SingleCellExperiment",
         "scuttle",
         "ggplot2",
-        "BiocSingular",
         "ggbeeswarm",
         "viridis",
         "ggrastr",
@@ -15546,7 +15501,6 @@
     ],
     "scDblFinder": [
         "SingleCellExperiment",
-        "BiocSingular",
         "scran",
         "scater",
         "scuttle",
@@ -15569,7 +15523,6 @@
         "testthat",
         "viridis",
         "scuttle",
-        "BiocSingular",
         "nloptr",
         "waldo",
         "rematch2"
@@ -15657,7 +15610,6 @@
         "ggplot2"
     ],
     "scMerge": [
-        "BiocSingular",
         "M3Drop",
         "ruv",
         "SingleCellExperiment",
@@ -15773,7 +15725,6 @@
         "tidyr",
         "GenomicAlignments",
         "scuttle",
-        "BiocSingular",
         "ggbeeswarm",
         "viridis",
         "ggrastr",
@@ -15784,8 +15735,7 @@
     ],
     "scran": [
         "SingleCellExperiment",
-        "scuttle",
-        "BiocSingular"
+        "scuttle"
     ],
     "scReClassify": [
         "SingleCellExperiment"
@@ -15839,8 +15789,7 @@
         "dbplyr"
     ],
     "scry": [
-        "SingleCellExperiment",
-        "BiocSingular"
+        "SingleCellExperiment"
     ],
     "scTensor": [
         "plotly",
@@ -15953,7 +15902,6 @@
         "ensembldb",
         "ggforce",
         "scuttle",
-        "BiocSingular",
         "ggbeeswarm",
         "ggrastr",
         "cowplot",
@@ -16345,7 +16293,6 @@
         "rtracklayer",
         "GSEABase",
         "SingleCellExperiment",
-        "BiocSingular",
         "tidyr",
         "readr",
         "ggpubr",
@@ -16446,8 +16393,7 @@
     "SingleCellSignalR": [
         "scran",
         "SingleCellExperiment",
-        "scuttle",
-        "BiocSingular"
+        "scuttle"
     ],
     "singleCellTK": [
         "SingleCellExperiment",
@@ -16498,7 +16444,6 @@
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "BiocSingular",
         "multipanelfigure",
         "miniUI",
         "geneplotter",
@@ -16551,9 +16496,7 @@
         "dbplyr",
         "dplyr"
     ],
-    "SingleR": [
-        "BiocSingular"
-    ],
+    "SingleR": [],
     "singscore": [
         "ggplot2",
         "ggrepel",
@@ -16571,8 +16514,7 @@
         "AnnotationDbi",
         "annotate",
         "GSEABase",
-        "SingleCellExperiment",
-        "BiocSingular"
+        "SingleCellExperiment"
     ],
     "sitadela": [
         "biomaRt",
@@ -16736,7 +16678,6 @@
         "scran",
         "DropletUtils",
         "scuttle",
-        "BiocSingular",
         "ggbeeswarm",
         "viridis",
         "ggrastr",
@@ -16864,7 +16805,6 @@
         "AnnotationDbi",
         "annotate",
         "tidyr",
-        "BiocSingular",
         "ggbeeswarm",
         "viridis",
         "ggrastr",
@@ -16971,7 +16911,6 @@
         "ggplot2",
         "scater",
         "scuttle",
-        "BiocSingular",
         "ggbeeswarm",
         "viridis",
         "ggrastr",
@@ -17702,7 +17641,6 @@
         "geneplotter",
         "GSEABase",
         "SingleCellExperiment",
-        "BiocSingular",
         "ggrepel",
         "plotly",
         "tidyr",
@@ -18108,7 +18046,6 @@
         "rstatix",
         "GSEABase",
         "SingleCellExperiment",
-        "BiocSingular",
         "annotate",
         "AnnotationDbi",
         "broom",
@@ -18376,7 +18313,6 @@
         "scattermore",
         "dplyr",
         "scuttle",
-        "BiocSingular",
         "ggbeeswarm",
         "viridis",
         "ggrastr",
@@ -18600,7 +18536,6 @@
         "tfruns",
         "scuttle",
         "ggplot2",
-        "BiocSingular",
         "ggbeeswarm",
         "ggrastr",
         "ggrepel",
@@ -18735,8 +18670,7 @@
     "velociraptor": [
         "zellkonverter",
         "scuttle",
-        "SingleCellExperiment",
-        "BiocSingular"
+        "SingleCellExperiment"
     ],
     "VennDetail": [
         "dplyr",
