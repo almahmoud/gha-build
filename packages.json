@@ -36740,7 +36740,6 @@
     "pwrEWAS": [
         "shinyBS",
         "doParallel",
-        "CpGassoc",
         "shiny",
         "ggplot2",
         "shinyWidgets",
@@ -58362,7 +58361,6 @@
         "sass",
         "jquerylib"
     ],
-    "CpGassoc": [],
     "pwrEWAS.data": [
         "ExperimentHub",
         "AnnotationHub",
