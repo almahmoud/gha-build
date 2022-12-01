@@ -7122,7 +7122,6 @@
         "GenomicFeatures",
         "car",
         "ggrepel",
-        "RWeka",
         "tibble",
         "latticeExtra",
         "viridis",
@@ -11135,7 +11134,6 @@
         "GenomicFeatures",
         "car",
         "ggrepel",
-        "RWeka",
         "latticeExtra",
         "viridis",
         "progress",
@@ -35377,9 +35375,7 @@
         "rgl",
         "hms"
     ],
-    "FSelector": [
-        "RWeka"
-    ],
+    "FSelector": [],
     "arm": [
         "lme4",
         "nloptr",
@@ -35389,7 +35385,6 @@
         "tibble",
         "pillar"
     ],
-    "RWeka": [],
     "MSQC": [
         "rgl"
     ],
