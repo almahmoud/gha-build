@@ -1506,7 +1506,6 @@
     ],
     "proteasy": [
         "EnsDb.Hsapiens.v86",
-        "EnsDb.Mmusculus.v79",
         "EnsDb.Rnorvegicus.v79"
     ],
     "ProteoDisco": [],
@@ -2317,7 +2316,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "EnsDb.Mmusculus.v79": [],
     "EnsDb.Rnorvegicus.v79": [],
     "pwrEWAS.data": [
         "ExperimentHub",
