@@ -385,7 +385,6 @@
         "VariantAnnotation"
     ],
     "ChIPComp": [],
-    "chipenrich": [],
     "ChIPexoQual": [
         "biovizBase",
         "VariantAnnotation"
