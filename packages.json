@@ -157,7 +157,6 @@
         "ShortRead"
     ],
     "Anaquin": [
-        "qvalue",
         "DESeq2",
         "geneplotter",
         "annotate"
@@ -225,11 +224,8 @@
         "biomaRt",
         "BSgenome"
     ],
-    "anota": [
-        "qvalue"
-    ],
+    "anota": [],
     "anota2seq": [
-        "qvalue",
         "DESeq2",
         "geneplotter",
         "annotate"
@@ -682,7 +678,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "readr",
         "HDO.db",
         "fgsea",
@@ -978,7 +973,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "rtracklayer",
         "ggbio",
         "AnnotationHub",
@@ -1295,7 +1289,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "Hmisc",
         "HDO.db",
         "aplot",
@@ -1342,7 +1335,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "geneplotter",
         "rstatix",
         "HDO.db",
@@ -1390,7 +1382,6 @@
         "wateRmelon",
         "goseq",
         "missMethyl",
-        "qvalue",
         "isva",
         "bumphunter",
         "plotly",
@@ -1529,7 +1520,6 @@
         "BiocFileCache",
         "HDO.db",
         "fgsea",
-        "qvalue",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -1685,7 +1675,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -1888,7 +1877,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "dendextend",
         "FactoMineR",
         "ggpubr",
@@ -2183,7 +2171,6 @@
         "broom"
     ],
     "CTSV": [
-        "qvalue",
         "SpatialExperiment",
         "DropletUtils",
         "BiocFileCache",
@@ -2403,7 +2390,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "geneplotter",
         "HDO.db",
         "fgsea",
@@ -2436,7 +2422,6 @@
     "deconvR": [
         "methylKit",
         "rsq",
-        "qvalue",
         "rtracklayer",
         "lme4",
         "nloptr",
@@ -2492,9 +2477,7 @@
         "geneplotter",
         "annotate"
     ],
-    "DEGseq": [
-        "qvalue"
-    ],
+    "DEGseq": [],
     "deltaCaptureC": [
         "DESeq2",
         "geneplotter",
@@ -2523,7 +2506,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "rtracklayer",
         "biomaRt",
         "VariantAnnotation",
@@ -2537,7 +2519,6 @@
         "bumphunter",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "rtracklayer",
         "biomaRt",
         "biovizBase",
@@ -2578,7 +2559,6 @@
         "DESeq2",
         "geneplotter",
         "testthat",
-        "qvalue",
         "annotate",
         "waldo"
     ],
@@ -2775,7 +2755,6 @@
         "HDO.db",
         "fgsea",
         "GOSemSim",
-        "qvalue",
         "GO.db"
     ],
     "doseR": [
@@ -2806,7 +2785,6 @@
         "biomaRt",
         "ArrayExpress",
         "GEOquery",
-        "qvalue",
         "annotate",
         "hgu133a.db",
         "hgu133a2.db",
@@ -2853,7 +2831,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -2893,7 +2870,6 @@
     "edge": [
         "sva",
         "snm",
-        "qvalue",
         "lme4",
         "genefilter",
         "annotate",
@@ -2911,7 +2887,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "geneplotter",
         "HDO.db",
         "fgsea",
@@ -3020,7 +2995,6 @@
         "ggtree",
         "HDO.db",
         "fgsea",
-        "qvalue",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -3039,7 +3013,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "rstatix",
         "CNEr",
         "readr",
@@ -3100,7 +3073,6 @@
         "biomaRt",
         "HDO.db",
         "fgsea",
-        "qvalue",
         "annotate",
         "tidygraph",
         "tidytree",
@@ -3138,7 +3110,6 @@
     ],
     "epihet": [
         "EntropyExplorer",
-        "qvalue",
         "WGCNA",
         "ReactomePA",
         "DOSE",
@@ -3257,9 +3228,7 @@
         "OrganismDbi",
         "ensembldb"
     ],
-    "erccdashboard": [
-        "qvalue"
-    ],
+    "erccdashboard": [],
     "erma": [
         "Homo.sapiens",
         "GenomicFiles",
@@ -3295,7 +3264,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "biomaRt",
         "CNEr",
         "BiocFileCache",
@@ -3329,7 +3297,6 @@
     "EventPointer": [
         "SGSeq",
         "GenomicFeatures",
-        "qvalue",
         "BSgenome",
         "fgsea",
         "rtracklayer",
@@ -3443,7 +3410,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -3482,7 +3448,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -3533,14 +3498,11 @@
     "FindIT2": [
         "rtracklayer",
         "GenomicFeatures",
-        "qvalue",
         "MultiAssayExperiment",
         "biomaRt",
         "BiocFileCache"
     ],
-    "fishpond": [
-        "qvalue"
-    ],
+    "fishpond": [],
     "flagme": [
         "xcms",
         "CAMERA",
@@ -3779,7 +3741,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "geneplotter",
         "HDO.db",
         "fgsea",
@@ -4231,7 +4192,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -4715,7 +4675,6 @@
     "InTAD": [
         "MultiAssayExperiment",
         "rtracklayer",
-        "qvalue",
         "ggpubr",
         "rstatix",
         "broom",
@@ -4820,7 +4779,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "rstatix",
         "tidygraph",
         "scuttle",
@@ -5216,7 +5174,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "ExperimentHub",
         "AnnotationHub",
         "HDO.db",
@@ -5360,7 +5317,6 @@
         "ensembldb",
         "BSgenome",
         "biovizBase",
-        "qvalue",
         "bumphunter",
         "genefilter",
         "GEOquery",
@@ -5444,7 +5400,6 @@
         "BiocVersion",
         "HDO.db",
         "fgsea",
-        "qvalue",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -5488,7 +5443,6 @@
         "mygene",
         "BiocFileCache",
         "ensembldb",
-        "qvalue",
         "car",
         "GenomicFeatures",
         "Hmisc",
@@ -5539,7 +5493,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -5563,7 +5516,6 @@
         "GenomicFeatures",
         "heatmaply",
         "NBPSeq",
-        "qvalue",
         "rtracklayer",
         "survcomp",
         "BiocFileCache",
@@ -5596,12 +5548,10 @@
         "DSS",
         "methylKit",
         "BSgenome",
-        "qvalue",
         "rtracklayer"
     ],
     "methInheritSim": [
         "methylKit",
-        "qvalue",
         "rtracklayer"
     ],
     "MethReg": [
@@ -5704,7 +5654,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "minfi",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
@@ -5732,11 +5681,9 @@
     ],
     "methylInheritance": [
         "methylKit",
-        "qvalue",
         "rtracklayer"
     ],
     "methylKit": [
-        "qvalue",
         "rtracklayer"
     ],
     "methylPipe": [
@@ -5875,7 +5822,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -6019,7 +5965,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "HDO.db",
         "fgsea",
         "ggraph",
@@ -6062,7 +6007,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "HDO.db",
         "fgsea",
         "ggraph",
@@ -6197,7 +6141,6 @@
     ],
     "MOMA": [
         "MultiAssayExperiment",
-        "qvalue",
         "readr"
     ],
     "monaLisa": [
@@ -6219,7 +6162,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "HDO.db",
         "fgsea",
         "readr",
@@ -6333,8 +6275,7 @@
     ],
     "msmsTests": [
         "MSnbase",
-        "msmsEDA",
-        "qvalue"
+        "msmsEDA"
     ],
     "MSnbase": [],
     "MSnID": [
@@ -6343,8 +6284,7 @@
         "AnnotationHub",
         "BiocFileCache",
         "BiocVersion",
-        "msmsEDA",
-        "qvalue"
+        "msmsEDA"
     ],
     "MSPrep": [
         "sva",
@@ -6510,7 +6450,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "geneplotter",
         "aplot",
         "ggraph",
@@ -6600,7 +6539,6 @@
         "BiocFileCache"
     ],
     "MWASTools": [
-        "qvalue",
         "car",
         "pbkrtest",
         "lme4",
@@ -6735,7 +6673,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -6760,9 +6697,7 @@
         "supraHex",
         "readr"
     ],
-    "netresponse": [
-        "qvalue"
-    ],
+    "netresponse": [],
     "NetSAM": [
         "WGCNA",
         "biomaRt",
@@ -6850,7 +6785,6 @@
         "waldo"
     ],
     "normr": [
-        "qvalue",
         "rtracklayer"
     ],
     "NPARC": [
@@ -6911,7 +6845,6 @@
         "bumphunter",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "rstatix",
         "cmdfun",
         "testthat",
@@ -6959,7 +6892,6 @@
         "MultiDataSet",
         "SmartSVA",
         "isva",
-        "qvalue",
         "FactoMineR",
         "Hmisc",
         "lme4",
@@ -7081,9 +7013,7 @@
         "testthat",
         "waldo"
     ],
-    "OPWeight": [
-        "qvalue"
-    ],
+    "OPWeight": [],
     "ORFhunteR": [
         "rtracklayer",
         "BSgenome.Hsapiens.UCSC.hg38",
@@ -7201,7 +7131,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "annotate",
         "HDO.db",
         "fgsea",
@@ -7224,14 +7153,12 @@
         "HDO.db",
         "fgsea",
         "GOSemSim",
-        "qvalue",
         "testthat",
         "GO.db",
         "waldo"
     ],
     "parglms": [],
     "PAST": [
-        "qvalue",
         "rtracklayer"
     ],
     "PathoStat": [
@@ -7323,7 +7250,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -7435,7 +7361,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "HDO.db",
         "fgsea",
         "ggraph",
@@ -7666,7 +7591,6 @@
         "ggtree",
         "HDO.db",
         "fgsea",
-        "qvalue",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -7780,7 +7704,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "readr",
         "biomaRt",
         "VariantAnnotation",
@@ -7940,7 +7863,6 @@
     "QUBIC": [
         "biclust"
     ],
-    "qvalue": [],
     "R3CPET": [
         "Hmisc",
         "ggbio",
@@ -7956,8 +7878,7 @@
         "BiocFileCache"
     ],
     "r3Cseq": [
-        "rtracklayer",
-        "qvalue"
+        "rtracklayer"
     ],
     "R453Plus1Toolbox": [
         "VariantAnnotation",
@@ -8066,7 +7987,6 @@
         "HDO.db",
         "fgsea",
         "GOSemSim",
-        "qvalue",
         "aplot",
         "scatterpie",
         "ggtree",
@@ -8086,7 +8006,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "readr",
         "biomaRt",
         "VariantAnnotation",
@@ -8136,7 +8055,6 @@
         "geneplotter",
         "HDO.db",
         "GOSemSim",
-        "qvalue",
         "Hmisc",
         "GO.db",
         "annotate"
@@ -8158,7 +8076,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "rtracklayer",
         "geneplotter",
         "annotate",
@@ -8330,7 +8247,6 @@
     "RiboDiPA": [
         "GenomicFeatures",
         "reldist",
-        "qvalue",
         "DESeq2",
         "BiocFileCache",
         "geneplotter",
@@ -8468,7 +8384,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "readr",
         "biomaRt",
         "VariantAnnotation",
@@ -8550,8 +8465,7 @@
         "VariantAnnotation"
     ],
     "RNAsense": [
-        "NBPSeq",
-        "qvalue"
+        "NBPSeq"
     ],
     "RNASeqR": [
         "pathview",
@@ -8570,7 +8484,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "geneplotter",
         "HDO.db",
         "fgsea",
@@ -8608,7 +8521,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "readr",
         "broom",
         "car",
@@ -8640,9 +8552,7 @@
     "roar": [
         "rtracklayer"
     ],
-    "RolDE": [
-        "qvalue"
-    ],
+    "RolDE": [],
     "ropls": [
         "plotly",
         "MultiAssayExperiment",
@@ -9037,7 +8947,6 @@
         "HDO.db",
         "fgsea",
         "GOSemSim",
-        "qvalue",
         "GO.db",
         "AnnotationForge",
         "dendextend",
@@ -9084,9 +8993,7 @@
         "BiocFileCache"
     ],
     "scuttle": [],
-    "SDAMS": [
-        "qvalue"
-    ],
+    "SDAMS": [],
     "segmenter": [
         "ChIPseeker",
         "enrichplot",
@@ -9103,7 +9010,6 @@
         "BiocFileCache",
         "HDO.db",
         "fgsea",
-        "qvalue",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -9232,14 +9138,11 @@
         "annotate",
         "genefilter"
     ],
-    "sights": [
-        "qvalue"
-    ],
+    "sights": [],
     "signatureSearch": [
         "org.Hs.eg.db",
         "ExperimentHub",
         "fgsea",
-        "qvalue",
         "reactome.db",
         "clusterProfiler",
         "readr",
@@ -9388,7 +9291,6 @@
         "geneplotter",
         "GenomicFeatures",
         "rtracklayer",
-        "qvalue",
         "aplot",
         "tidytree",
         "treeio",
@@ -9845,9 +9747,7 @@
         "org.Hs.eg.db",
         "recipes"
     ],
-    "subSeq": [
-        "qvalue"
-    ],
+    "subSeq": [],
     "SummarizedBenchmark": [
         "UpSetR"
     ],
@@ -9913,7 +9813,6 @@
     "switchde": [],
     "synapter": [
         "MSnbase",
-        "qvalue",
         "readr"
     ],
     "synergyfinder": [
@@ -10049,7 +9948,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "GenomicFeatures",
         "Gviz",
         "MultiAssayExperiment",
@@ -10199,7 +10097,6 @@
         "GO.db",
         "GOSemSim",
         "gson",
-        "qvalue",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -10325,7 +10222,6 @@
         "topGO",
         "org.Hs.eg.db",
         "GOSemSim",
-        "qvalue",
         "geneplotter",
         "GO.db",
         "annotate"
@@ -10398,7 +10294,6 @@
         "ggrastr"
     ],
     "trigger": [
-        "qvalue",
         "sva",
         "genefilter",
         "annotate"
@@ -10655,7 +10550,6 @@
     ],
     "VplotR": [],
     "vsclust": [
-        "qvalue",
         "MultiAssayExperiment"
     ],
     "vtpnet": [
@@ -10724,7 +10618,6 @@
     ],
     "webbioc": [
         "annaffy",
-        "qvalue",
         "GO.db"
     ],
     "weitrix": [],
@@ -11147,7 +11040,6 @@
         "BiocVersion",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "biomaRt",
         "VariantAnnotation",
         "BSgenome"
@@ -11222,9 +11114,7 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "isva": [
-        "qvalue"
-    ],
+    "isva": [],
     "geneLenDataBase": [
         "rtracklayer",
         "GenomicFeatures",
@@ -11416,9 +11306,7 @@
         "testthat",
         "waldo"
     ],
-    "NBPSeq": [
-        "qvalue"
-    ],
+    "NBPSeq": [],
     "hgu133a2.db": [
         "org.Hs.eg.db"
     ],
@@ -11582,7 +11470,6 @@
     "SmartSVA": [
         "sva",
         "isva",
-        "qvalue",
         "genefilter",
         "annotate"
     ],
