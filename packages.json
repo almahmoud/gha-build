@@ -1010,8 +1010,7 @@
     "CluMSID": [],
     "clusterExperiment": [
         "zinbwave",
-        "phylobase",
-        "mbkmeans"
+        "phylobase"
     ],
     "clusterProfiler": [
         "DOSE",
@@ -3279,7 +3278,6 @@
         "nloptr",
         "testthat"
     ],
-    "mbkmeans": [],
     "mbOmic": [
         "WGCNA"
     ],
@@ -4172,8 +4170,7 @@
         "scater",
         "clusterExperiment",
         "zinbwave",
-        "phylobase",
-        "mbkmeans"
+        "phylobase"
     ],
     "netZooR": [
         "yarn",
