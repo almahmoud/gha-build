@@ -12563,7 +12563,6 @@
         "ExperimentHub",
         "BiocVersion"
     ],
-    "TEQC": [],
     "terraTCGAdata": [
         "AnVIL",
         "MultiAssayExperiment",
