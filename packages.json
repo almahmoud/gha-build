@@ -558,7 +558,6 @@
         "GenomicInteractions",
         "Gviz"
     ],
-    "fcoex": [],
     "ffpe": [
         "lumi",
         "methylumi"
