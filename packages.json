@@ -92,7 +92,6 @@
     ],
     "ATACCoGAPS": [
         "motifmatchr",
-        "chromVAR",
         "rGREAT",
         "Homo.sapiens",
         "Mus.musculus"
@@ -317,7 +316,6 @@
     "ChromSCape": [
         "scater"
     ],
-    "chromVAR": [],
     "cicero": [
         "Gviz",
         "biovizBase"
