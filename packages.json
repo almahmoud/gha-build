@@ -336,7 +336,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "enhancerHomologSearch": [],
     "ENmix": [
         "ExperimentHub",
         "AnnotationHub",
