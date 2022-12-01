@@ -2132,7 +2132,6 @@
         "bumphunter",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "mistyR": [],
     "mitoClone2": [
         "deepSNV",
         "VariantAnnotation"
