@@ -46253,7 +46253,6 @@
         "ggplot2",
         "plyr",
         "gridExtra",
-        "lsr",
         "ggbio",
         "S4Vectors",
         "IRanges",
@@ -81683,7 +81682,6 @@
         "qqman",
         "ade4",
         "made4",
-        "lsr",
         "FactoMineR",
         "circlize",
         "corrplot",
@@ -97340,7 +97338,6 @@
     ],
     "rexposome": [
         "Biobase",
-        "lsr",
         "FactoMineR",
         "stringr",
         "circlize",
@@ -143703,7 +143700,6 @@
         "magrittr",
         "rappdirs"
     ],
-    "lsr": [],
     "flextable": [
         "officer",
         "rmarkdown",
