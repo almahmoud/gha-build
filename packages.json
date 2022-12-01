@@ -1563,7 +1563,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "GWAS.BAYES": [],
     "gwascat": [
         "VariantAnnotation",
         "AnnotationHub",
