@@ -5026,7 +5026,6 @@
         "annotate"
     ],
     "LACE": [
-        "sortable",
         "readr",
         "biomaRt",
         "BiocFileCache"
@@ -6612,7 +6611,6 @@
         "decompTumor2Sig",
         "plotly",
         "factoextra",
-        "sortable",
         "TCGAbiolinks",
         "rtracklayer",
         "dendextend",
@@ -11628,7 +11626,6 @@
     "hgu95av2.db": [
         "org.Hs.eg.db"
     ],
-    "sortable": [],
     "reldist": [
         "densEstBayes"
     ],
