@@ -309,7 +309,6 @@
         "ggridges",
         "patchwork",
         "scattermore",
-        "sctransform",
         "GO.db"
     ],
     "appreci8R": [
@@ -721,7 +720,6 @@
         "scattermore",
         "geneplotter",
         "plotly",
-        "sctransform",
         "treeio",
         "genefilter",
         "readxl",
@@ -1500,7 +1498,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "tidyr"
     ],
     "cellity": [
@@ -3249,7 +3246,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "tidyr"
     ],
     "DiscoRhythm": [
@@ -5775,8 +5771,7 @@
         "ggridges",
         "patchwork",
         "plotly",
-        "scattermore",
-        "sctransform"
+        "scattermore"
     ],
     "InPAS": [
         "BSgenome",
@@ -5948,7 +5943,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -8096,7 +8090,6 @@
         "lme4",
         "scater",
         "scuttle",
-        "sctransform",
         "variancePartition",
         "viridis",
         "geneplotter",
@@ -8301,7 +8294,6 @@
         "ggridges",
         "plotly",
         "scattermore",
-        "sctransform",
         "tidyr"
     ],
     "nempi": [
@@ -9247,7 +9239,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "tidyr"
     ],
     "pipeFrame": [
@@ -10871,7 +10862,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "tidyr"
     ],
     "SCAN.UPC": [
@@ -10912,7 +10902,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "tidyr",
         "ipred"
     ],
@@ -10944,7 +10933,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "genefilter",
         "annotate",
         "tidyr"
@@ -10961,7 +10949,6 @@
         "ggridges",
         "plotly",
         "scattermore",
-        "sctransform",
         "ggplotify"
     ],
     "scCB2": [
@@ -10972,7 +10959,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "tidyr"
     ],
     "scClassify": [
@@ -10998,7 +10984,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "tidyr"
     ],
     "scDblFinder": [
@@ -11047,7 +11032,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "tidyr"
     ],
     "scHOT": [
@@ -11062,7 +11046,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "tidyr"
     ],
     "scmap": [],
@@ -11233,7 +11216,6 @@
         "ggridges",
         "patchwork",
         "scattermore",
-        "sctransform",
         "ggfun",
         "ggplotify",
         "tidytree",
@@ -11254,8 +11236,7 @@
         "viridis",
         "ggridges",
         "patchwork",
-        "scattermore",
-        "sctransform"
+        "scattermore"
     ],
     "scTreeViz": [
         "epivizr",
@@ -11278,7 +11259,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "rtracklayer",
         "biomaRt",
         "tidyr",
@@ -11679,7 +11659,6 @@
         "ggridges",
         "patchwork",
         "scattermore",
-        "sctransform",
         "genefilter",
         "biomaRt",
         "org.Hs.eg.db",
@@ -11840,7 +11819,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "tidyr"
     ],
     "sparrow": [
@@ -12072,7 +12050,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "DropletUtils",
         "BiocFileCache",
         "scuttle",
@@ -12216,7 +12193,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "DropletUtils",
         "BiocFileCache",
         "scuttle",
@@ -13568,7 +13544,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "tidyr"
     ],
     "org.Hs.eg.db": [],
@@ -13576,7 +13551,6 @@
     "ggridges": [],
     "patchwork": [],
     "scattermore": [],
-    "sctransform": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
         "rtracklayer",
@@ -14833,7 +14807,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "tidyr"
     ],
     "scRNAseq": [
