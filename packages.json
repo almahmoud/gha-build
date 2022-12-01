@@ -3061,7 +3061,6 @@
         "ExperimentHub",
         "testthat",
         "ggplot2",
-        "randomcoloR",
         "AnnotationHub",
         "BiocFileCache",
         "tibble",
@@ -19082,7 +19081,6 @@
         "MatrixCorrelation",
         "viridis",
         "dendextend",
-        "randomcoloR",
         "multtest",
         "tidyr",
         "ggplot2",
@@ -23589,7 +23587,6 @@
         "Seurat",
         "dplyr",
         "scran",
-        "randomcoloR",
         "ggplot2",
         "cowplot",
         "scater",
@@ -28992,7 +28989,6 @@
     "sechm": [
         "SummarizedExperiment",
         "seriation",
-        "randomcoloR",
         "GenomicRanges",
         "XVector"
     ],
@@ -29312,7 +29308,6 @@
         "geneplotter",
         "ggplot2",
         "seriation",
-        "randomcoloR",
         "genefilter",
         "AnnotationDbi",
         "annotate",
@@ -36426,7 +36421,6 @@
         "blob",
         "XVector"
     ],
-    "randomcoloR": [],
     "pcalg": [],
     "gamlss": [],
     "GenomicState": [
@@ -38473,7 +38467,6 @@
     "BiBitR": [
         "viridis",
         "dendextend",
-        "randomcoloR",
         "biclust",
         "tidyr",
         "ggplot2",
