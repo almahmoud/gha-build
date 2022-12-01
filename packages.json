@@ -956,7 +956,6 @@
     "CoreGx": [
         "piano"
     ],
-    "corral": [],
     "coseq": [
         "DESeq2",
         "HTSFilter"
