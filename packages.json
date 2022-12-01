@@ -26720,7 +26720,6 @@
         "dplyr",
         "DECIPHER",
         "Hmisc",
-        "distrEx",
         "fitdistrplus",
         "XVector",
         "GenomeInfoDb",
@@ -26750,7 +26749,6 @@
         "dplyr",
         "DECIPHER",
         "Hmisc",
-        "distrEx",
         "fitdistrplus",
         "bslib",
         "httpuv",
@@ -46632,7 +46630,6 @@
         "httr"
     ],
     "ontologyPlot": [],
-    "distrEx": [],
     "AICcmodavg": [
         "unmarked",
         "lme4",
