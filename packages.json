@@ -81,7 +81,6 @@
         "httr",
         "tidyr",
         "dplyr",
-        "jquerylib",
         "tidyselect",
         "pillar",
         "httpuv"
@@ -141,7 +140,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "AnnotationDbi",
         "httr",
         "Biostrings",
@@ -170,7 +168,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "mgcv",
         "ggsci",
         "tidyr",
@@ -217,7 +214,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "TTR",
         "KEGGREST",
         "dbplyr",
@@ -523,7 +519,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "forcats",
         "progress",
         "reshape",
@@ -638,7 +633,6 @@
         "cellranger",
         "progress",
         "bslib",
-        "jquerylib",
         "Rfast",
         "rvest",
         "missForest",
@@ -675,7 +669,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "mgcv",
         "survival",
         "GenomicRanges",
@@ -715,7 +708,6 @@
         "pillar",
         "mgcv",
         "bslib",
-        "jquerylib",
         "Rsamtools",
         "GenomicAlignments",
         "latticeExtra",
@@ -869,7 +861,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "mgcv",
         "survival",
         "ggrepel",
@@ -979,7 +970,6 @@
         "shiny",
         "DT",
         "blob",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -1021,7 +1011,6 @@
         "SummarizedExperiment",
         "shiny",
         "DT",
-        "jquerylib",
         "hms",
         "httpuv",
         "bslib",
@@ -1065,7 +1054,6 @@
         "shiny",
         "DT",
         "blob",
-        "jquerylib",
         "httpuv",
         "bslib",
         "DelayedArray",
@@ -1118,7 +1106,6 @@
         "miniUI",
         "vctrs",
         "pillar",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -1138,7 +1125,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "mgcv",
         "tidyr",
         "httpuv",
@@ -1162,7 +1148,6 @@
         "hms",
         "vroom",
         "bslib",
-        "jquerylib",
         "sass",
         "vctrs",
         "pillar",
@@ -1281,7 +1266,6 @@
         "spatstat.sparse",
         "dqrng",
         "sass",
-        "jquerylib",
         "Biostrings",
         "blob"
     ],
@@ -1314,7 +1298,6 @@
         "XVector",
         "GenomeInfoDb",
         "rtracklayer",
-        "jquerylib",
         "AnnotationDbi",
         "RSQLite",
         "biomaRt",
@@ -1612,7 +1595,6 @@
         "KEGGREST",
         "bookdown",
         "rmarkdown",
-        "jquerylib",
         "GenomeInfoDb",
         "SummarizedExperiment",
         "Biostrings",
@@ -1768,7 +1750,6 @@
         "GenomicAlignments",
         "annotate",
         "blob",
-        "jquerylib",
         "mgcv",
         "gargle",
         "cellranger",
@@ -1833,7 +1814,6 @@
         "shiny",
         "DT",
         "hms",
-        "jquerylib",
         "vroom",
         "httpuv",
         "bslib",
@@ -1902,7 +1882,6 @@
         "shiny",
         "DT",
         "blob",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -1987,7 +1966,6 @@
         "RSQLite",
         "KEGGREST",
         "sass",
-        "jquerylib",
         "XVector",
         "Biostrings",
         "blob",
@@ -2203,7 +2181,6 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "jquerylib",
         "pROC",
         "recipes",
         "viridis",
@@ -2268,7 +2245,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "sass",
-        "jquerylib",
         "XVector"
     ],
     "basecallQC": [
@@ -2283,7 +2259,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "mgcv",
         "bslib",
         "BiocParallel",
@@ -2344,8 +2319,7 @@
         "httpuv",
         "bslib",
         "pillar",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "BASiCStan": [
         "BASiCS",
@@ -2385,8 +2359,7 @@
         "httpuv",
         "bslib",
         "pillar",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "BasicSTARRseq": [
         "GenomicRanges",
@@ -2433,7 +2406,6 @@
         "egg",
         "quantreg",
         "bslib",
-        "jquerylib",
         "httpuv",
         "mgcv",
         "genefilter",
@@ -2744,7 +2716,6 @@
         "RSQLite",
         "KEGGREST",
         "sass",
-        "jquerylib",
         "e1071",
         "interp",
         "cellranger",
@@ -2924,7 +2895,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "sass",
-        "jquerylib",
         "XVector",
         "interp",
         "hms"
@@ -2981,7 +2951,6 @@
         "DT",
         "blob",
         "vctrs",
-        "jquerylib",
         "mgcv",
         "tibble",
         "pillar"
@@ -3037,7 +3006,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "e1071",
         "broom",
         "car",
@@ -3106,7 +3074,6 @@
         "shiny",
         "tidyr",
         "visNetwork",
-        "jquerylib",
         "httpuv",
         "bslib",
         "dplyr",
@@ -3171,7 +3138,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "GenomeInfoDb",
         "AnnotationDbi",
         "RSQLite",
@@ -3237,7 +3203,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "hms",
         "vroom",
         "crul",
@@ -3277,7 +3242,6 @@
     "BiocStyle": [
         "bookdown",
         "rmarkdown",
-        "jquerylib",
         "bslib",
         "sass"
     ],
@@ -3299,7 +3263,6 @@
         "httr",
         "rmarkdown",
         "usethis",
-        "jquerylib",
         "bslib",
         "gert",
         "gh",
@@ -3623,7 +3586,6 @@
         "shiny",
         "DT",
         "interp",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -3693,7 +3655,6 @@
         "ggplot2",
         "Hmisc",
         "rmarkdown",
-        "jquerylib",
         "mgcv",
         "tibble",
         "vctrs",
@@ -3888,7 +3849,6 @@
         "shiny",
         "DT",
         "blob",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -4028,7 +3988,6 @@
         "tidyselect",
         "shiny",
         "DT",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -4075,7 +4034,6 @@
         "latex2exp",
         "Linnorm",
         "bslib",
-        "jquerylib",
         "mgcv",
         "genefilter",
         "BiocParallel",
@@ -4191,7 +4149,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "jquerylib",
         "bslib",
         "pillar",
         "sass"
@@ -4261,7 +4218,6 @@
         "interp",
         "blob",
         "DelayedArray",
-        "jquerylib",
         "hms",
         "httpuv",
         "bslib",
@@ -4285,7 +4241,6 @@
         "DelayedArray",
         "KEGGREST",
         "sass",
-        "jquerylib",
         "blob",
         "pillar",
         "tibble",
@@ -4455,7 +4410,6 @@
         "mgcv",
         "RSQLite",
         "KEGGREST",
-        "jquerylib",
         "rtracklayer",
         "BiocParallel",
         "biomaRt",
@@ -4518,7 +4472,6 @@
         "gert",
         "gh",
         "sass",
-        "jquerylib",
         "vctrs",
         "credentials",
         "textshaping",
@@ -4936,7 +4889,6 @@
         "hms",
         "vroom",
         "bslib",
-        "jquerylib",
         "sass",
         "progress"
     ],
@@ -5109,7 +5061,6 @@
         "rvest",
         "GenomicFeatures",
         "GenomicDataCommons",
-        "jquerylib",
         "Biostrings",
         "rtracklayer",
         "biomaRt",
@@ -5185,7 +5136,6 @@
         "GenomicDataCommons",
         "KEGGREST",
         "blob",
-        "jquerylib",
         "Biostrings",
         "rtracklayer",
         "biomaRt",
@@ -5212,7 +5162,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "httpuv",
         "bslib",
         "hms",
@@ -5465,7 +5414,6 @@
         "pillar",
         "dqrng",
         "sass",
-        "jquerylib",
         "tidyselect",
         "textshaping"
     ],
@@ -5506,7 +5454,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "jquerylib",
         "tibble",
         "vctrs",
         "interp",
@@ -5563,7 +5510,6 @@
         "tibble",
         "vctrs",
         "bslib",
-        "jquerylib",
         "sass",
         "pillar"
     ],
@@ -5614,7 +5560,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -5646,7 +5591,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "BiocParallel",
         "cowplot",
         "mgcv",
@@ -5966,7 +5910,6 @@
         "DSS",
         "Gviz",
         "SummarizedExperiment",
-        "jquerylib",
         "XVector",
         "mgcv",
         "tibble",
@@ -6032,7 +5975,6 @@
     "ChemmineR": [
         "ggplot2",
         "DT",
-        "jquerylib",
         "mgcv",
         "tibble",
         "vctrs",
@@ -6060,7 +6002,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "sass",
-        "jquerylib",
         "tidyselect",
         "pillar",
         "XVector"
@@ -6134,7 +6075,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "GenomicFeatures",
         "rtracklayer",
         "SummarizedExperiment",
@@ -6261,7 +6201,6 @@
         "XVector",
         "mgcv",
         "bslib",
-        "jquerylib",
         "RSQLite",
         "KEGGREST",
         "sass",
@@ -6590,7 +6529,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "GenomeInfoDb",
         "XVector",
         "ggfittext",
@@ -6674,7 +6612,6 @@
         "BSgenome",
         "XVector",
         "rtracklayer",
-        "jquerylib",
         "mgcv",
         "tibble",
         "vctrs",
@@ -6850,7 +6787,6 @@
         "survival",
         "DelayedArray",
         "progress",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -7283,7 +7219,6 @@
         "tibble",
         "vctrs",
         "bslib",
-        "jquerylib",
         "sass",
         "pillar"
     ],
@@ -7295,7 +7230,6 @@
         "tibble",
         "vctrs",
         "bslib",
-        "jquerylib",
         "sass",
         "pillar"
     ],
@@ -7309,7 +7243,6 @@
         "tibble",
         "vctrs",
         "bslib",
-        "jquerylib",
         "waldo",
         "sass",
         "pillar",
@@ -7323,7 +7256,6 @@
         "tibble",
         "vctrs",
         "bslib",
-        "jquerylib",
         "sass",
         "pillar"
     ],
@@ -7418,7 +7350,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "XVector",
         "rtracklayer",
         "biovizBase",
@@ -7483,7 +7414,6 @@
         "bslib",
         "waldo",
         "sass",
-        "jquerylib",
         "pillar",
         "rematch2"
     ],
@@ -7609,7 +7539,6 @@
         "dplyr",
         "tidyr",
         "bslib",
-        "jquerylib",
         "multtest",
         "sqldf",
         "GenomicRanges",
@@ -7668,7 +7597,6 @@
         "gert",
         "gh",
         "sass",
-        "jquerylib",
         "credentials",
         "textshaping",
         "httpuv",
@@ -7712,7 +7640,6 @@
         "tibble",
         "vctrs",
         "bslib",
-        "jquerylib",
         "progress",
         "httr",
         "BiocFileCache",
@@ -7876,7 +7803,6 @@
         "nloptr",
         "blob",
         "progress",
-        "jquerylib",
         "testthat",
         "Rsamtools",
         "GenomicAlignments",
@@ -7923,7 +7849,6 @@
         "vctrs",
         "pillar",
         "bslib",
-        "jquerylib",
         "sass"
     ],
     "compcodeR": [
@@ -8002,7 +7927,6 @@
         "tidyselect",
         "vctrs",
         "BiocParallel",
-        "jquerylib",
         "GenomeInfoDb",
         "XVector",
         "mgcv"
@@ -8022,7 +7946,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "mgcv",
         "haven",
         "readxl",
@@ -8116,7 +8039,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "jquerylib",
         "ggforce",
         "tidygraph",
         "graphlayouts",
@@ -8503,8 +8425,7 @@
         "shiny",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "CoreGx": [
         "SummarizedExperiment",
@@ -8525,7 +8446,6 @@
         "shinydashboard",
         "visNetwork",
         "GenomeInfoDb",
-        "jquerylib",
         "ggplot2",
         "cowplot",
         "XVector",
@@ -8632,7 +8552,6 @@
         "KEGGREST",
         "vroom",
         "bslib",
-        "jquerylib",
         "mixtools",
         "e1071",
         "sass",
@@ -8673,7 +8592,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "AnnotationDbi",
         "annotate",
         "survival",
@@ -8852,7 +8770,6 @@
         "tidyselect",
         "shiny",
         "DT",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -8881,7 +8798,6 @@
         "shiny",
         "DT",
         "blob",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -8931,7 +8847,6 @@
         "DelayedArray",
         "dplyr",
         "keras",
-        "jquerylib",
         "biomaRt",
         "ChIPpeakAnno",
         "multtest",
@@ -9049,7 +8964,6 @@
         "viridis",
         "shiny",
         "DT",
-        "jquerylib",
         "mgcv",
         "httpuv",
         "bslib",
@@ -9110,7 +9024,6 @@
         "mgcv",
         "shiny",
         "DT",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -9145,7 +9058,6 @@
         "tibble",
         "readxl",
         "KEGGREST",
-        "jquerylib",
         "readr",
         "dplyr",
         "tidyr",
@@ -9279,7 +9191,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "BiocParallel",
         "mgcv",
         "broom",
@@ -9309,7 +9220,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "pillar"
     ],
     "CTSV": [
@@ -9402,7 +9312,6 @@
         "pillar",
         "tibble",
         "tidyselect",
-        "jquerylib",
         "mgcv",
         "shiny",
         "Biostrings",
@@ -9501,7 +9410,6 @@
         "GenomeInfoDb",
         "ggplot2",
         "sass",
-        "jquerylib",
         "XVector",
         "mgcv",
         "tibble",
@@ -9545,7 +9453,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "mgcv",
         "httpuv",
         "bslib",
@@ -9621,7 +9528,6 @@
         "ipred",
         "pbkrtest",
         "quantreg",
-        "jquerylib",
         "survival",
         "prodlim",
         "testthat",
@@ -9676,7 +9582,6 @@
         "RSQLite",
         "httr",
         "sass",
-        "jquerylib",
         "DelayedMatrixStats",
         "dqrng",
         "beachmat",
@@ -9852,7 +9757,6 @@
         "XVector",
         "pbkrtest",
         "quantreg",
-        "jquerylib",
         "annotate",
         "rtracklayer",
         "interp",
@@ -10030,7 +9934,6 @@
         "survival",
         "TH.data",
         "bslib",
-        "jquerylib",
         "quantreg",
         "XVector",
         "GenomeInfoDb",
@@ -10150,7 +10053,6 @@
         "geneplotter",
         "HDO.db",
         "fgsea",
-        "jquerylib",
         "aplot",
         "ggnewscale",
         "ggraph",
@@ -10216,7 +10118,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "jquerylib",
         "XVector",
         "httr",
         "Biostrings",
@@ -10606,7 +10507,6 @@
         "tibble",
         "vctrs",
         "bslib",
-        "jquerylib",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -10659,7 +10559,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "mgcv",
         "tmvtnorm",
         "pcaMethods",
@@ -11282,7 +11181,6 @@
         "spatstat.sparse",
         "pillar",
         "sass",
-        "jquerylib",
         "tidyselect"
     ],
     "DirichletMultinomial": [],
@@ -11320,7 +11218,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "colourpicker",
         "miniUI",
         "mgcv",
@@ -11520,7 +11417,6 @@
         "DT",
         "hms",
         "vroom",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -11616,7 +11512,6 @@
         "vroom",
         "blob",
         "progress",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -11718,7 +11613,6 @@
         "prodlim",
         "car",
         "multcomp",
-        "jquerylib",
         "mgcv",
         "tibble",
         "vctrs",
@@ -12007,7 +11901,6 @@
         "nloptr",
         "segmented",
         "blob",
-        "jquerylib",
         "Biostrings",
         "testthat",
         "httpuv",
@@ -12069,7 +11962,6 @@
         "rmarkdown",
         "shiny",
         "bslib",
-        "jquerylib",
         "httpuv",
         "sass"
     ],
@@ -12292,7 +12184,6 @@
         "DT",
         "RSQLite",
         "KEGGREST",
-        "jquerylib",
         "GO.db",
         "mgcv",
         "tibble",
@@ -12336,7 +12227,6 @@
         "ChemmineR",
         "ggplot2",
         "DT",
-        "jquerylib",
         "mgcv",
         "tibble",
         "vctrs",
@@ -12397,7 +12287,6 @@
         "hms",
         "vroom",
         "bslib",
-        "jquerylib",
         "KEGGREST",
         "dbplyr",
         "Hmisc",
@@ -12516,7 +12405,6 @@
         "DT",
         "blob",
         "multtest",
-        "jquerylib",
         "rtracklayer",
         "biomaRt",
         "hms",
@@ -12641,7 +12529,6 @@
         "SummarizedExperiment",
         "visNetwork",
         "bslib",
-        "jquerylib",
         "GenomicAlignments",
         "BiocParallel",
         "CNEr",
@@ -12782,7 +12669,6 @@
         "vctrs",
         "tidyr",
         "bslib",
-        "jquerylib",
         "KEGGREST",
         "dbplyr",
         "sass",
@@ -13030,7 +12916,6 @@
         "blob",
         "Rsamtools",
         "GenomicAlignments",
-        "jquerylib",
         "BiocParallel",
         "httpuv",
         "bslib",
@@ -13107,7 +12992,6 @@
         "hms",
         "blob",
         "multtest",
-        "jquerylib",
         "htmlTable",
         "viridis",
         "vroom",
@@ -13375,7 +13259,6 @@
         "bslib",
         "DelayedArray",
         "sass",
-        "jquerylib",
         "biomaRt",
         "httr",
         "blob",
@@ -13450,7 +13333,6 @@
         "vctrs",
         "visNetwork",
         "bslib",
-        "jquerylib",
         "latticeExtra",
         "CNEr",
         "DirichletMultinomial",
@@ -13566,7 +13448,6 @@
         "GenomeInfoDb",
         "XVector",
         "bslib",
-        "jquerylib",
         "httr",
         "pillar",
         "dplyr",
@@ -13675,7 +13556,6 @@
         "shiny",
         "DT",
         "progress",
-        "jquerylib",
         "Biostrings",
         "nloptr",
         "survival",
@@ -13759,7 +13639,6 @@
         "vctrs",
         "shiny",
         "DT",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -13803,7 +13682,6 @@
         "SummarizedExperiment",
         "shiny",
         "DT",
-        "jquerylib",
         "hms",
         "httpuv",
         "bslib",
@@ -13855,7 +13733,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "mgcv",
         "httpuv",
         "bslib",
@@ -13870,7 +13747,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "jquerylib",
         "XVector",
         "bslib",
         "sass"
@@ -14010,7 +13886,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "ggplot2",
         "httr",
         "Biostrings",
@@ -14082,7 +13957,6 @@
         "shinyBS",
         "XVector",
         "GenomeInfoDb",
-        "jquerylib",
         "httpuv",
         "bslib",
         "BiocParallel",
@@ -14259,7 +14133,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "pillar"
     ],
     "fedup": [
@@ -14532,7 +14405,6 @@
         "tibble",
         "vctrs",
         "bslib",
-        "jquerylib",
         "sass",
         "pillar"
     ],
@@ -14557,7 +14429,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "tidyselect",
         "pillar",
         "mgcv"
@@ -14682,7 +14553,6 @@
         "quantreg",
         "lme4",
         "bslib",
-        "jquerylib",
         "httpuv",
         "sass",
         "nloptr",
@@ -14810,7 +14680,6 @@
         "ChemmineR",
         "ggplot2",
         "DT",
-        "jquerylib",
         "mgcv",
         "tibble",
         "vctrs",
@@ -14986,7 +14855,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "rainbow",
         "DelayedArray",
         "hdrcde",
@@ -15127,7 +14995,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "Biostrings",
         "GenomicRanges",
         "httr",
@@ -15227,7 +15094,6 @@
         "BiocFileCache",
         "pbkrtest",
         "quantreg",
-        "jquerylib",
         "annotate",
         "rtracklayer",
         "interp",
@@ -15295,7 +15161,6 @@
         "tibble",
         "vctrs",
         "bslib",
-        "jquerylib",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -15334,7 +15199,6 @@
         "gert",
         "gh",
         "sass",
-        "jquerylib",
         "credentials",
         "textshaping",
         "httpuv",
@@ -15371,7 +15235,6 @@
         "geneplotter",
         "HDO.db",
         "fgsea",
-        "jquerylib",
         "readr",
         "tibble",
         "mgcv",
@@ -15645,7 +15508,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "jquerylib",
         "tibble",
         "vctrs",
         "nloptr",
@@ -15816,7 +15678,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "tweenr",
         "mgcv",
         "sass",
@@ -15849,7 +15710,6 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "jquerylib",
         "SummarizedExperiment",
         "BiocParallel",
         "httr",
@@ -16171,7 +16031,6 @@
         "vctrs",
         "shiny",
         "DT",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -16207,7 +16066,6 @@
         "blob",
         "XVector",
         "bslib",
-        "jquerylib",
         "broom",
         "car",
         "sass",
@@ -16375,7 +16233,6 @@
         "ggplot2",
         "umap",
         "GEOquery",
-        "jquerylib",
         "dendextend",
         "FactoMineR",
         "ggpubr",
@@ -16793,7 +16650,6 @@
         "bslib",
         "lmtest",
         "sass",
-        "jquerylib",
         "mgcv",
         "tibble",
         "vctrs",
@@ -16981,7 +16837,6 @@
         "KEGGREST",
         "genefilter",
         "annotate",
-        "jquerylib",
         "GO.db",
         "AnnotationForge",
         "broom",
@@ -17329,7 +17184,6 @@
         "DT",
         "shiny",
         "shinyBS",
-        "jquerylib",
         "mgcv",
         "tibble",
         "vctrs",
@@ -17408,7 +17262,6 @@
         "gdtools",
         "classInt",
         "bslib",
-        "jquerylib",
         "sass"
     ],
     "graper": [
@@ -17520,7 +17373,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "pillar"
     ],
     "gscreend": [
@@ -17589,7 +17441,6 @@
         "DT",
         "Biostrings",
         "org.Hs.eg.db",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -17901,7 +17752,6 @@
         "BiocParallel",
         "GenomicAlignments",
         "DelayedArray",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -18039,7 +17889,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "hms",
         "vroom",
         "httpuv",
@@ -18278,7 +18127,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -18345,7 +18193,6 @@
         "shiny",
         "DT",
         "interp",
-        "jquerylib",
         "survival",
         "htmlTable",
         "viridis",
@@ -18435,7 +18282,6 @@
         "DT",
         "TH.data",
         "blob",
-        "jquerylib",
         "Biostrings",
         "bslib",
         "sass"
@@ -18517,8 +18363,7 @@
         "pillar",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "HPiP": [
         "dplyr",
@@ -18635,7 +18480,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "sass",
-        "jquerylib",
         "XVector"
     ],
     "hummingbird": [
@@ -18670,7 +18514,6 @@
         "svglite",
         "babelgene",
         "bslib",
-        "jquerylib",
         "httpuv",
         "sass"
     ],
@@ -18849,7 +18692,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "mgcv",
         "httpuv",
         "bslib",
@@ -18888,7 +18730,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "GenomeInfoDb",
         "XVector",
         "mgcv",
@@ -19146,7 +18987,6 @@
         "tibble",
         "vctrs",
         "pillar",
-        "jquerylib",
         "mgcv",
         "ggforce",
         "ggrepel",
@@ -19207,7 +19047,6 @@
         "egg",
         "tidyr",
         "bslib",
-        "jquerylib",
         "sass",
         "tidyselect",
         "pillar"
@@ -19252,7 +19091,6 @@
         "gert",
         "gh",
         "sass",
-        "jquerylib",
         "vctrs",
         "credentials",
         "textshaping",
@@ -19305,8 +19143,7 @@
         "spatstat.random",
         "spatstat.sparse",
         "dqrng",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "infinityFlow": [
         "uwot",
@@ -19382,7 +19219,6 @@
         "httr",
         "BiocFileCache",
         "sass",
-        "jquerylib",
         "annotate",
         "mgcv",
         "tibble",
@@ -19498,7 +19334,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "httr",
         "tibble",
         "pillar",
@@ -19523,7 +19358,6 @@
         "bslib",
         "httr",
         "sass",
-        "jquerylib",
         "survival",
         "Biostrings",
         "blob",
@@ -19534,7 +19368,6 @@
     "interactiveDisplayBase": [
         "shiny",
         "DT",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -19572,7 +19405,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "FactoMineR",
         "ggpubr",
         "ggrepel",
@@ -19746,7 +19578,6 @@
         "pillar",
         "shiny",
         "DT",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -19880,7 +19711,6 @@
         "ggfun",
         "ggplotify",
         "sass",
-        "jquerylib",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -19906,7 +19736,6 @@
         "datamods",
         "bslib",
         "sass",
-        "jquerylib",
         "reactable",
         "rio",
         "shinybusy",
@@ -19937,7 +19766,6 @@
         "shinyWidgets",
         "ComplexHeatmap",
         "miniUI",
-        "jquerylib",
         "tibble",
         "vctrs",
         "httpuv",
@@ -19973,7 +19801,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "sass",
-        "jquerylib",
         "miniUI",
         "XVector",
         "pillar"
@@ -19996,7 +19823,6 @@
         "interactiveDisplayBase",
         "httr",
         "dplyr",
-        "jquerylib",
         "shinyAce",
         "ggplot2",
         "ggrepel",
@@ -20033,7 +19859,6 @@
         "shinyAce",
         "miniUI",
         "shinyjs",
-        "jquerylib",
         "mgcv",
         "tibble",
         "vctrs",
@@ -20156,7 +19981,6 @@
         "blob",
         "shiny",
         "DT",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -20284,7 +20108,6 @@
         "survMisc",
         "ggtext",
         "sass",
-        "jquerylib",
         "tidyselect",
         "pillar",
         "XVector",
@@ -20466,7 +20289,6 @@
         "BiocParallel",
         "geneplotter",
         "bsseq",
-        "jquerylib",
         "dendextend",
         "FactoMineR",
         "ggpubr",
@@ -20534,7 +20356,6 @@
         "htmlTable",
         "viridis",
         "bslib",
-        "jquerylib",
         "genefilter",
         "BiocParallel",
         "sass",
@@ -20584,7 +20405,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "hms",
         "vroom",
         "httpuv",
@@ -20647,7 +20467,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "mgcv",
         "bslib",
         "httpuv",
@@ -20984,7 +20803,6 @@
         "annotate",
         "GO.db",
         "blob",
-        "jquerylib",
         "biomaRt",
         "httpuv",
         "bslib",
@@ -21025,7 +20843,6 @@
         "shiny",
         "DT",
         "blob",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -21178,7 +20995,6 @@
         "ipred",
         "tidyr",
         "DelayedArray",
-        "jquerylib",
         "survival",
         "prodlim",
         "httpuv",
@@ -21297,7 +21113,6 @@
         "cellranger",
         "progress",
         "bslib",
-        "jquerylib",
         "httr",
         "sass",
         "hms",
@@ -21323,7 +21138,6 @@
         "shiny",
         "DT",
         "blob",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -21496,7 +21310,6 @@
         "shiny",
         "DT",
         "blob",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -21554,7 +21367,6 @@
         "survival",
         "prodlim",
         "bslib",
-        "jquerylib",
         "sass",
         "lava"
     ],
@@ -21613,7 +21425,6 @@
         "bslib",
         "R.cache",
         "sass",
-        "jquerylib",
         "forcats",
         "hms",
         "readr",
@@ -21706,7 +21517,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "XVector",
         "mgcv",
         "biomaRt",
@@ -21791,7 +21601,6 @@
         "tmvtnorm",
         "httr",
         "bslib",
-        "jquerylib",
         "httpuv",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -21868,7 +21677,6 @@
         "Biostrings",
         "multtest",
         "bslib",
-        "jquerylib",
         "genefilter",
         "BiocParallel",
         "XVector",
@@ -21974,7 +21782,6 @@
         "vctrs",
         "gld",
         "bslib",
-        "jquerylib",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -22312,7 +22119,6 @@
         "tibble",
         "vctrs",
         "bslib",
-        "jquerylib",
         "sass",
         "pillar"
     ],
@@ -22333,7 +22139,6 @@
         "tibble",
         "vctrs",
         "quantreg",
-        "jquerylib",
         "survival",
         "bslib",
         "pillar",
@@ -22430,7 +22235,6 @@
         "blob",
         "XVector",
         "GenomeInfoDb",
-        "jquerylib",
         "tweenr",
         "httpuv",
         "bslib",
@@ -22448,7 +22252,6 @@
         "genefilter",
         "annotate",
         "bslib",
-        "jquerylib",
         "blob",
         "httr",
         "KEGGREST",
@@ -22560,7 +22363,6 @@
         "XVector",
         "tidyr",
         "httr",
-        "jquerylib",
         "mgcv"
     ],
     "MetaboCoreUtils": [
@@ -22892,7 +22694,6 @@
         "geneplotter",
         "ggplot2",
         "bsseq",
-        "jquerylib",
         "ShortRead",
         "aroma.light",
         "annotate",
@@ -23012,7 +22813,6 @@
         "bslib",
         "BiocParallel",
         "sass",
-        "jquerylib",
         "pillar"
     ],
     "MethCP": [
@@ -23126,7 +22926,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -23189,7 +22988,6 @@
         "bslib",
         "XVector",
         "sass",
-        "jquerylib",
         "GenomicFeatures",
         "AnnotationDbi",
         "annotate",
@@ -23367,7 +23165,6 @@
         "OrganismDbi",
         "AnnotationForge",
         "sass",
-        "jquerylib",
         "pbkrtest",
         "lme4",
         "biomaRt",
@@ -23412,7 +23209,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "HDO.db",
         "fgsea",
         "tidyselect",
@@ -23580,7 +23376,6 @@
         "GenomicRanges",
         "DelayedArray",
         "sass",
-        "jquerylib",
         "pillar",
         "vctrs"
     ],
@@ -23685,7 +23480,6 @@
         "rcmdcheck",
         "roxygen2",
         "testthat",
-        "jquerylib",
         "mgcv",
         "tibble",
         "vctrs",
@@ -23974,7 +23768,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "viridis",
         "dendextend",
         "seriation",
@@ -24086,7 +23879,6 @@
         "RSQLite",
         "KEGGREST",
         "sass",
-        "jquerylib",
         "prodlim",
         "interp",
         "cellranger",
@@ -24128,7 +23920,6 @@
         "gson",
         "qvalue",
         "tidyr",
-        "jquerylib",
         "aplot",
         "ggnewscale",
         "ggraph",
@@ -24235,7 +24026,6 @@
         "XVector",
         "mgcv",
         "bslib",
-        "jquerylib",
         "httr",
         "sass"
     ],
@@ -24707,7 +24497,6 @@
         "tidyselect",
         "BiocFileCache",
         "sass",
-        "jquerylib",
         "e1071",
         "pROC",
         "recipes",
@@ -24873,7 +24662,6 @@
         "prodlim",
         "testthat",
         "bslib",
-        "jquerylib",
         "sass",
         "lava",
         "waldo",
@@ -25004,7 +24792,6 @@
         "tibble",
         "vctrs",
         "bslib",
-        "jquerylib",
         "sass",
         "tidyselect",
         "pillar",
@@ -25079,7 +24866,6 @@
         "RSQLite",
         "KEGGREST",
         "sass",
-        "jquerylib",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -25157,7 +24943,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "GenomicAlignments",
         "pillar",
         "SummarizedExperiment",
@@ -25712,7 +25497,6 @@
         "hms",
         "vroom",
         "bslib",
-        "jquerylib",
         "sass",
         "broom",
         "car",
@@ -25961,7 +25745,6 @@
         "vsn",
         "pcaMethods",
         "dbplyr",
-        "jquerylib",
         "shiny",
         "DT",
         "bslib",
@@ -26122,7 +25905,6 @@
         "rmarkdown",
         "pbkrtest",
         "quantreg",
-        "jquerylib",
         "testthat",
         "bslib",
         "sass",
@@ -26183,8 +25965,7 @@
         "tidyr",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "MSstatsQCgui": [
         "shiny",
@@ -26207,7 +25988,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "mgcv",
         "mzR",
         "MsCoreUtils",
@@ -26263,7 +26043,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "mgcv",
         "survival",
         "latticeExtra",
@@ -26560,7 +26339,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -26817,7 +26595,6 @@
         "progress",
         "BiocFileCache",
         "sass",
-        "jquerylib",
         "viridis",
         "car",
         "DT",
@@ -27057,7 +26834,6 @@
         "shiny",
         "DT",
         "hms",
-        "jquerylib",
         "vroom",
         "httpuv",
         "bslib",
@@ -27185,7 +26961,6 @@
         "progress",
         "rmarkdown",
         "bslib",
-        "jquerylib",
         "sass"
     ],
     "NanoTube": [
@@ -27374,7 +27149,6 @@
         "pillar",
         "dqrng",
         "sass",
-        "jquerylib",
         "tidyselect"
     ],
     "NeighborNet": [],
@@ -27460,7 +27234,6 @@
         "gson",
         "qvalue",
         "tidyr",
-        "jquerylib",
         "RSQLite",
         "KEGGREST",
         "HDO.db",
@@ -27586,7 +27359,6 @@
         "tibble",
         "vctrs",
         "bslib",
-        "jquerylib",
         "sass",
         "pillar"
     ],
@@ -27786,7 +27558,6 @@
         "GenomeInfoDb",
         "vctrs",
         "pillar",
-        "jquerylib",
         "mgcv",
         "httr",
         "hms",
@@ -28056,7 +27827,6 @@
         "tidyselect",
         "shiny",
         "DT",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -28120,7 +27890,6 @@
         "blob",
         "GenomicAlignments",
         "latticeExtra",
-        "jquerylib",
         "interp",
         "hms",
         "httpuv",
@@ -28225,7 +27994,6 @@
         "interactiveDisplayBase",
         "httr",
         "dplyr",
-        "jquerylib",
         "XVector",
         "mgcv",
         "tibble",
@@ -28314,7 +28082,6 @@
         "bslib",
         "R.cache",
         "sass",
-        "jquerylib",
         "forcats",
         "hms",
         "readr",
@@ -28361,7 +28128,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "multtest",
-        "jquerylib",
         "bslib",
         "httpuv",
         "mgcv",
@@ -28422,7 +28188,6 @@
         "pbkrtest",
         "quantreg",
         "tidyselect",
-        "jquerylib",
         "interp",
         "testthat",
         "gmm",
@@ -28482,7 +28247,6 @@
         "DelayedArray",
         "xts",
         "bslib",
-        "jquerylib",
         "XVector",
         "dplyr",
         "tidyselect",
@@ -28547,7 +28311,6 @@
         "SummarizedExperiment",
         "RSQLite",
         "shinycssloaders",
-        "jquerylib",
         "BiocParallel",
         "cowplot",
         "mgcv",
@@ -28614,7 +28377,6 @@
         "vroom",
         "cellranger",
         "bslib",
-        "jquerylib",
         "sass"
     ],
     "oncomix": [
@@ -28698,7 +28460,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "tidyselect",
         "pillar",
         "mgcv"
@@ -28726,7 +28487,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "httpuv",
         "bslib",
         "GenomicRanges",
@@ -28787,7 +28547,6 @@
         "shinyBS",
         "DT",
         "rmarkdown",
-        "jquerylib",
         "Biostrings",
         "seqinr",
         "GenomicRanges",
@@ -28918,7 +28677,6 @@
         "gert",
         "gh",
         "sass",
-        "jquerylib",
         "credentials",
         "textshaping",
         "httpuv",
@@ -29223,7 +28981,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "jquerylib",
         "XVector",
         "tibble",
         "vctrs",
@@ -29516,7 +29273,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "mgcv",
         "survival",
         "biomformat",
@@ -29620,7 +29376,6 @@
         "BiocFileCache",
         "BiocParallel",
         "geneplotter",
-        "jquerylib",
         "annotate",
         "survival",
         "GenomeInfoDb",
@@ -29724,7 +29479,6 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "jquerylib",
         "cowplot",
         "viridis",
         "XVector",
@@ -29792,7 +29546,6 @@
         "shinycssloaders",
         "DT",
         "sass",
-        "jquerylib",
         "mgcv",
         "tibble",
         "vctrs",
@@ -30033,7 +29786,6 @@
         "visNetwork",
         "dplyr",
         "tidyselect",
-        "jquerylib",
         "cowplot",
         "httpuv",
         "bslib",
@@ -30256,7 +30008,6 @@
         "XVector",
         "GenomeInfoDb",
         "miniUI",
-        "jquerylib",
         "AnnotationHub",
         "BiocFileCache",
         "mgcv",
@@ -30341,7 +30092,6 @@
         "shinyjs",
         "shinydashboard",
         "visNetwork",
-        "jquerylib",
         "BiocParallel",
         "ggplot2",
         "cowplot",
@@ -30400,7 +30150,6 @@
         "Hmisc",
         "RSQLite",
         "KEGGREST",
-        "jquerylib",
         "aplot",
         "ggnewscale",
         "scatterpie",
@@ -30537,7 +30286,6 @@
         "spatstat.random",
         "spatstat.sparse",
         "sass",
-        "jquerylib",
         "textshaping"
     ],
     "pipeFrame": [
@@ -30551,7 +30299,6 @@
         "rtracklayer",
         "Rsamtools",
         "bslib",
-        "jquerylib",
         "sass",
         "BiocParallel",
         "GenomicAlignments",
@@ -30653,7 +30400,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "interp",
         "broom",
         "car",
@@ -30713,7 +30459,6 @@
         "DT",
         "shinyjs",
         "readr",
-        "jquerylib",
         "mgcv",
         "tibble",
         "vctrs",
@@ -30761,7 +30506,6 @@
         "interactiveDisplayBase",
         "dbplyr",
         "sass",
-        "jquerylib",
         "tidyselect",
         "pillar",
         "GenomicRanges",
@@ -30806,7 +30550,6 @@
         "survival",
         "rARPACK",
         "bslib",
-        "jquerylib",
         "GenomeInfoDb",
         "DelayedArray",
         "dqrng",
@@ -30947,7 +30690,6 @@
         "multtest",
         "vegan",
         "bslib",
-        "jquerylib",
         "DelayedArray",
         "sass",
         "mgcv",
@@ -30996,7 +30738,6 @@
         "httr",
         "BiocFileCache",
         "sass",
-        "jquerylib",
         "pillar",
         "prodlim",
         "blob",
@@ -31072,7 +30813,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "sass",
-        "jquerylib",
         "readr",
         "ggplot2",
         "annotate",
@@ -31314,7 +31054,6 @@
         "httr",
         "BiocFileCache",
         "ShortRead",
-        "jquerylib",
         "aplot",
         "DOSE",
         "ggnewscale",
@@ -31433,7 +31172,6 @@
         "DelayedArray",
         "pillar",
         "sass",
-        "jquerylib",
         "blob",
         "XVector",
         "prodlim",
@@ -31459,7 +31197,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "mgcv",
         "mzR",
         "MsCoreUtils",
@@ -31569,7 +31306,6 @@
         "bslib",
         "pillar",
         "sass",
-        "jquerylib",
         "tidyselect",
         "mzR",
         "MsCoreUtils",
@@ -31717,7 +31453,6 @@
         "httr",
         "hms",
         "vroom",
-        "jquerylib",
         "httpuv",
         "R.cache",
         "RSQLite",
@@ -31766,7 +31501,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "mgcv",
         "broom",
         "xts",
@@ -31864,7 +31598,6 @@
         "plotly",
         "shiny",
         "shinyscreenshot",
-        "jquerylib",
         "mgcv",
         "tibble",
         "vctrs",
@@ -32035,7 +31768,6 @@
         "Biostrings",
         "hms",
         "blob",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -32060,7 +31792,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-        "jquerylib",
         "AnnotationHub",
         "BiocFileCache",
         "pillar",
@@ -32593,7 +32324,6 @@
         "shinyjs",
         "shinydashboard",
         "visNetwork",
-        "jquerylib",
         "ggplot2",
         "cowplot",
         "vctrs",
@@ -32717,7 +32447,6 @@
         "shiny",
         "DT",
         "hms",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -32793,7 +32522,6 @@
         "gprofiler2",
         "XVector",
         "Rsamtools",
-        "jquerylib",
         "GenomicAlignments",
         "readr",
         "seqPattern",
@@ -32829,7 +32557,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "pillar"
     ],
     "rCGH": [
@@ -32861,7 +32588,6 @@
         "httr",
         "BiocFileCache",
         "sass",
-        "jquerylib",
         "blob",
         "Rsamtools",
         "GenomicAlignments",
@@ -32901,7 +32627,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "Biostrings",
         "blob"
     ],
@@ -32964,7 +32689,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "tidyselect",
         "vctrs",
         "pillar",
@@ -32999,7 +32723,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "hms",
         "vroom",
         "ggplot2",
@@ -33040,8 +32763,7 @@
         "pillar",
         "vctrs",
         "dplyr",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "ReactomeGSA": [
         "httr",
@@ -33113,7 +32835,6 @@
         "BiocStyle",
         "bookdown",
         "bslib",
-        "jquerylib",
         "sass"
     ],
     "receptLoss": [
@@ -33447,7 +33168,6 @@
         "XVector",
         "httr",
         "bslib",
-        "jquerylib",
         "DelayedArray",
         "RSQLite",
         "KEGGREST",
@@ -33526,7 +33246,6 @@
         "DT",
         "repr",
         "interp",
-        "jquerylib",
         "survival",
         "ggplot2",
         "htmlTable",
@@ -33597,7 +33316,6 @@
         "blob",
         "multtest",
         "progress",
-        "jquerylib",
         "biomaRt",
         "prodlim",
         "httpuv",
@@ -33779,7 +33497,6 @@
         "Biostrings",
         "hms",
         "blob",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -33812,7 +33529,6 @@
         "quantreg",
         "tidyselect",
         "pillar",
-        "jquerylib",
         "interp",
         "testthat",
         "gmm",
@@ -33877,7 +33593,6 @@
         "shiny",
         "DT",
         "blob",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -33958,7 +33673,6 @@
         "GenomeInfoDb",
         "RSQLite",
         "KEGGREST",
-        "jquerylib",
         "XVector",
         "Biostrings",
         "rtracklayer",
@@ -34496,7 +34210,6 @@
         "hms",
         "vroom",
         "blob",
-        "jquerylib",
         "clock",
         "hardhat",
         "ipred",
@@ -34535,7 +34248,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "mgcv"
     ],
     "Rmmquant": [
@@ -34568,7 +34280,6 @@
         "GenomicFeatures",
         "RSQLite",
         "KEGGREST",
-        "jquerylib",
         "annotate",
         "Biostrings",
         "rtracklayer",
@@ -34986,7 +34697,6 @@
         "viridis",
         "tidyselect",
         "pillar",
-        "jquerylib",
         "aplot",
         "ggnewscale",
         "ggraph",
@@ -35218,7 +34928,6 @@
         "multtest",
         "vegan",
         "bslib",
-        "jquerylib",
         "XVector",
         "GenomeInfoDb",
         "sass",
@@ -35240,7 +34949,6 @@
         "XVector",
         "GenomeInfoDb",
         "sass",
-        "jquerylib",
         "mgcv",
         "tibble",
         "vctrs",
@@ -35291,7 +34999,6 @@
         "latticeExtra",
         "RSQLite",
         "KEGGREST",
-        "jquerylib",
         "sass",
         "biomaRt",
         "survival",
@@ -35389,7 +35096,6 @@
         "bslib",
         "RSpectra",
         "sass",
-        "jquerylib",
         "httr",
         "Biostrings",
         "blob",
@@ -35448,7 +35154,6 @@
         "pillar",
         "mgcv",
         "bslib",
-        "jquerylib",
         "httr",
         "ggpubr",
         "broom",
@@ -35672,7 +35377,6 @@
         "XVector",
         "GenomeInfoDb",
         "sass",
-        "jquerylib",
         "blob",
         "Rsamtools",
         "GenomicAlignments",
@@ -35832,7 +35536,6 @@
         "XVector",
         "GenomeInfoDb",
         "RSQLite",
-        "jquerylib",
         "ggplot2",
         "httr",
         "tidyr",
@@ -35855,8 +35558,7 @@
         "GenomeInfoDb",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "SANTA": [],
     "sarks": [
@@ -35894,7 +35596,6 @@
         "KEGGREST",
         "bookdown",
         "RSQLite",
-        "jquerylib",
         "Biostrings",
         "KEGGgraph",
         "org.Hs.eg.db",
@@ -35924,7 +35625,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "sass",
-        "jquerylib",
         "XVector",
         "pillar"
     ],
@@ -35982,8 +35682,7 @@
         "tidyselect",
         "pillar",
         "dqrng",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "SCAN.UPC": [
         "oligo",
@@ -36062,7 +35761,6 @@
         "httr",
         "dplyr",
         "XVector",
-        "jquerylib",
         "Rsamtools",
         "biomaRt",
         "mgcv",
@@ -36143,7 +35841,6 @@
         "spatstat.sparse",
         "dqrng",
         "sass",
-        "jquerylib",
         "prodlim",
         "Biostrings",
         "lava"
@@ -36199,7 +35896,6 @@
         "vctrs",
         "shiny",
         "DT",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -36292,7 +35988,6 @@
         "RSQLite",
         "KEGGREST",
         "sass",
-        "jquerylib",
         "tidyselect",
         "Biostrings",
         "blob"
@@ -36338,8 +36033,7 @@
         "spatstat.random",
         "spatstat.sparse",
         "dqrng",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "scCB2": [
         "SingleCellExperiment",
@@ -36388,7 +36082,6 @@
         "spatstat.sparse",
         "pillar",
         "sass",
-        "jquerylib",
         "tidyselect"
     ],
     "scClassify": [
@@ -36503,7 +36196,6 @@
         "pillar",
         "dqrng",
         "sass",
-        "jquerylib",
         "tidyselect"
     ],
     "scDblFinder": [
@@ -36708,7 +36400,6 @@
         "GenomicRanges",
         "DelayedArray",
         "sass",
-        "jquerylib",
         "survival",
         "GenomeInfoDb",
         "XVector",
@@ -36757,7 +36448,6 @@
         "webshot",
         "svglite",
         "bslib",
-        "jquerylib",
         "shiny",
         "sass",
         "blob",
@@ -36799,7 +36489,6 @@
         "pillar",
         "dqrng",
         "sass",
-        "jquerylib",
         "tidyselect"
     ],
     "scmap": [
@@ -36873,7 +36562,6 @@
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
-        "jquerylib",
         "XVector",
         "bslib",
         "sass"
@@ -36908,7 +36596,6 @@
         "DelayedMatrixStats",
         "BiocParallel",
         "beachmat",
-        "jquerylib",
         "bslib",
         "KEGGREST",
         "dbplyr",
@@ -37345,7 +37032,6 @@
         "graphite",
         "gson",
         "bslib",
-        "jquerylib",
         "blob",
         "Seurat",
         "shiny",
@@ -37422,7 +37108,6 @@
         "httr",
         "tidyr",
         "bslib",
-        "jquerylib",
         "Seurat",
         "shiny",
         "ggforce",
@@ -37548,7 +37233,6 @@
         "progress",
         "BiocFileCache",
         "sass",
-        "jquerylib",
         "textshaping",
         "blob",
         "GenomicAlignments",
@@ -37905,7 +37589,6 @@
         "vctrs",
         "gistr",
         "bslib",
-        "jquerylib",
         "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
@@ -37976,7 +37659,6 @@
         "KEGGREST",
         "shiny",
         "DT",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -38084,7 +37766,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "GenomeInfoDb",
         "XVector",
         "mgcv",
@@ -38150,7 +37831,6 @@
         "bslib",
         "XVector",
         "sass",
-        "jquerylib",
         "GenomicFeatures",
         "AnnotationDbi",
         "annotate",
@@ -38253,7 +37933,6 @@
         "RSQLite",
         "KEGGREST",
         "sass",
-        "jquerylib",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -38361,7 +38040,6 @@
         "treeio",
         "shiny",
         "DT",
-        "jquerylib",
         "tweenr",
         "httpuv",
         "bslib",
@@ -38410,7 +38088,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "mgcv",
         "ggrepel",
         "ggsci",
@@ -38684,7 +38361,6 @@
         "RSQLite",
         "httr",
         "sass",
-        "jquerylib",
         "DelayedMatrixStats",
         "dqrng",
         "beachmat",
@@ -38844,7 +38520,6 @@
         "pillar",
         "HDF5Array",
         "dqrng",
-        "jquerylib",
         "GenomicFeatures",
         "AnnotationFilter",
         "GenomeInfoDb",
@@ -39330,8 +39005,7 @@
         "segmented",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "SomaticSignatures": [
         "VariantAnnotation",
@@ -39447,7 +39121,6 @@
         "GenomeInfoDb",
         "ScaledMatrix",
         "sass",
-        "jquerylib",
         "survival",
         "XVector",
         "ragg",
@@ -39572,7 +39245,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "jquerylib",
         "XVector",
         "progress"
     ],
@@ -39753,7 +39425,6 @@
         "KEGGREST",
         "ScaledMatrix",
         "sass",
-        "jquerylib",
         "blob",
         "XVector",
         "ragg",
@@ -39917,7 +39588,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "blob"
     ],
     "spicyR": [
@@ -40071,7 +39741,6 @@
         "dbplyr",
         "XVector",
         "Rsamtools",
-        "jquerylib",
         "annotate",
         "survival",
         "mgcv",
@@ -40255,7 +39924,6 @@
         "Biostrings",
         "testthat",
         "bslib",
-        "jquerylib",
         "XVector",
         "GenomeInfoDb",
         "sass",
@@ -40316,7 +39984,6 @@
         "spatstat.random",
         "spatstat.sparse",
         "sass",
-        "jquerylib",
         "blob"
     ],
     "SPOTlight": [
@@ -40461,7 +40128,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "jquerylib",
         "annotate",
         "mgcv",
         "tibble",
@@ -40573,7 +40239,6 @@
     "ssrch": [
         "shiny",
         "DT",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -40792,7 +40457,6 @@
         "classInt",
         "e1071",
         "bslib",
-        "jquerylib",
         "sass"
     ],
     "statTarget": [
@@ -40872,7 +40536,6 @@
         "spatstat.random",
         "spatstat.sparse",
         "sass",
-        "jquerylib",
         "blob"
     ],
     "strandCheckR": [
@@ -40894,7 +40557,6 @@
         "XVector",
         "mgcv",
         "bslib",
-        "jquerylib",
         "GenomicFeatures",
         "AnnotationDbi",
         "RSQLite",
@@ -41332,7 +40994,6 @@
         "tibble",
         "vroom",
         "bslib",
-        "jquerylib",
         "sass",
         "mgcv",
         "vctrs",
@@ -41402,7 +41063,6 @@
         "e1071",
         "nloptr",
         "bslib",
-        "jquerylib",
         "sass",
         "testthat",
         "waldo"
@@ -41514,7 +41174,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "mgcv",
         "httr",
         "tidyr",
@@ -41546,7 +41205,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "forcats",
         "progress",
         "reshape",
@@ -41665,8 +41323,7 @@
         "XVector",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "TargetDecoy": [
         "ggplot2",
@@ -41688,7 +41345,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "tidyselect",
         "pillar",
         "broom",
@@ -41740,7 +41396,6 @@
         "sva",
         "GenomicRanges",
         "geneplotter",
-        "jquerylib",
         "mgcv",
         "tibble",
         "vctrs",
@@ -41857,7 +41512,6 @@
         "qvalue",
         "tidyr",
         "miniUI",
-        "jquerylib",
         "ELMER.data",
         "GenomicRanges",
         "reshape",
@@ -42086,7 +41740,6 @@
         "tibble",
         "dbplyr",
         "sass",
-        "jquerylib",
         "tidyselect",
         "vctrs",
         "pillar",
@@ -42139,7 +41792,6 @@
         "rvest",
         "KEGGREST",
         "blob",
-        "jquerylib",
         "Biostrings",
         "rtracklayer",
         "biomaRt",
@@ -42283,7 +41935,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "annotate",
         "cellranger",
         "progress",
@@ -42472,7 +42123,6 @@
         "ggplotify",
         "patchwork",
         "sass",
-        "jquerylib",
         "blob",
         "cowplot",
         "ggforce",
@@ -42743,7 +42393,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "blob",
         "progress"
     ],
@@ -42809,7 +42458,6 @@
         "shinyjs",
         "shinydashboard",
         "visNetwork",
-        "jquerylib",
         "cowplot",
         "httpuv",
         "bslib",
@@ -42829,7 +42477,6 @@
         "pillar",
         "mgcv",
         "bslib",
-        "jquerylib",
         "sass"
     ],
     "TPP2D": [
@@ -43264,7 +42911,6 @@
         "SummarizedExperiment",
         "shiny",
         "shinyFiles",
-        "jquerylib",
         "httpuv",
         "bslib",
         "tibble",
@@ -43391,7 +43037,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "roxygen2",
         "usethis",
         "ggplot2",
@@ -43472,7 +43117,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "sass",
-        "jquerylib",
         "XVector",
         "pillar"
     ],
@@ -43495,7 +43139,6 @@
         "longitudinalData",
         "kml",
         "bslib",
-        "jquerylib",
         "DelayedArray",
         "sass",
         "rgl"
@@ -43553,7 +43196,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "pillar"
     ],
     "txcutr": [
@@ -43617,7 +43259,6 @@
         "DT",
         "BiocParallel",
         "GenomicAlignments",
-        "jquerylib",
         "hms",
         "httpuv",
         "bslib",
@@ -43662,7 +43303,6 @@
         "XVector",
         "rtracklayer",
         "Rsamtools",
-        "jquerylib",
         "SummarizedExperiment",
         "BiocParallel",
         "biomaRt",
@@ -43760,7 +43400,6 @@
         "rmarkdown",
         "tibble",
         "tidyselect",
-        "jquerylib",
         "ensembldb",
         "GenomeInfoDb",
         "XVector",
@@ -43974,7 +43613,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "BiocParallel",
         "GenomicAlignments",
         "pillar",
@@ -44076,7 +43714,6 @@
         "RSQLite",
         "KEGGREST",
         "rtracklayer",
-        "jquerylib",
         "biomaRt",
         "httr",
         "BiocFileCache",
@@ -44284,7 +43921,6 @@
         "tibble",
         "vctrs",
         "bslib",
-        "jquerylib",
         "GenomeInfoDb",
         "DelayedArray",
         "tidyselect",
@@ -44333,7 +43969,6 @@
         "tibble",
         "tidyr",
         "visNetwork",
-        "jquerylib",
         "BiocParallel",
         "cowplot",
         "mgcv",
@@ -44396,7 +44031,6 @@
         "blob",
         "XVector",
         "GenomeInfoDb",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -44468,7 +44102,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "GenomeInfoDb",
         "XVector",
         "mgcv",
@@ -44524,7 +44157,6 @@
         "BiocParallel",
         "GenomicAlignments",
         "DelayedArray",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -44783,7 +44415,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "jquerylib",
         "mgcv",
         "roxygen2",
         "usethis",
@@ -44817,7 +44448,6 @@
         "vroom",
         "cellranger",
         "bslib",
-        "jquerylib",
         "sass"
     ],
     "Wrench": [],
@@ -44903,7 +44533,6 @@
         "visNetwork",
         "dplyr",
         "tidyselect",
-        "jquerylib",
         "cowplot",
         "httpuv",
         "bslib",
@@ -44932,7 +44561,6 @@
         "Rsamtools",
         "rmarkdown",
         "bslib",
-        "jquerylib",
         "BiocParallel",
         "GenomicAlignments",
         "sass",
@@ -45184,12 +44812,10 @@
         "shiny",
         "sass",
         "bslib",
-        "jquerylib",
         "httpuv"
     ],
     "rmarkdown": [
         "bslib",
-        "jquerylib",
         "sass"
     ],
     "vegan": [
@@ -45222,20 +44848,17 @@
     ],
     "bookdown": [
         "rmarkdown",
-        "jquerylib",
         "bslib",
         "sass"
     ],
     "shiny": [
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "sass": [],
     "bslib": [
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "mgcv": [],
     "tibble": [
@@ -45255,7 +44878,6 @@
         "vctrs",
         "pillar"
     ],
-    "jquerylib": [],
     "tidyselect": [
         "vctrs"
     ],
@@ -45265,9 +44887,7 @@
     "httpuv": [],
     "future.apply": [],
     "strucchange": [],
-    "DT": [
-        "jquerylib"
-    ],
+    "DT": [],
     "ggrepel": [
         "ggplot2",
         "mgcv",
@@ -45311,8 +44931,7 @@
         "shiny",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "testthat": [
         "waldo",
@@ -45450,7 +45069,6 @@
         "shiny",
         "DT",
         "blob",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -45597,8 +45215,7 @@
         "shiny",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "seqinr": [
         "segmented"
@@ -45660,7 +45277,6 @@
         "shiny",
         "DT",
         "blob",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -45769,7 +45385,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "pillar"
     ],
     "umap": [
@@ -45836,8 +45451,7 @@
         "shiny",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "bigrquery": [
         "gargle",
@@ -45852,8 +45466,7 @@
         "shiny",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "gargle": [
         "httr"
@@ -45908,7 +45521,6 @@
         "pillar",
         "dqrng",
         "sass",
-        "jquerylib",
         "tidyselect"
     ],
     "org.Hs.eg.db": [
@@ -46116,7 +45728,6 @@
         "SummarizedExperiment",
         "shiny",
         "DT",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -46152,7 +45763,6 @@
         "SummarizedExperiment",
         "shiny",
         "DT",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -46188,7 +45798,6 @@
         "SummarizedExperiment",
         "shiny",
         "DT",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -46384,7 +45993,6 @@
         "progress",
         "rmarkdown",
         "bslib",
-        "jquerylib",
         "sass"
     ],
     "Mus.musculus": [
@@ -46563,7 +46171,6 @@
     "reprex": [
         "rmarkdown",
         "bslib",
-        "jquerylib",
         "sass"
     ],
     "ids": [],
@@ -46650,8 +46257,7 @@
         "pillar",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "gbm": [
         "survival"
@@ -46671,7 +46277,6 @@
     "prettydoc": [
         "rmarkdown",
         "bslib",
-        "jquerylib",
         "sass"
     ],
     "BSgenome.Ecoli.NCBI.20080805": [
@@ -46699,7 +46304,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "pillar"
     ],
     "colourpicker": [
@@ -46713,7 +46317,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "pillar"
     ],
     "rstantools": [],
@@ -46846,8 +46449,7 @@
         "shiny",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "ggforce": [
         "ggplot2",
@@ -46879,7 +46481,6 @@
         "patchwork",
         "bslib",
         "sass",
-        "jquerylib",
         "mgcv",
         "pbkrtest",
         "quantreg",
@@ -46903,8 +46504,7 @@
         "shiny",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "org.Bt.eg.db": [
         "AnnotationDbi",
@@ -46959,8 +46559,7 @@
         "shiny",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "shinyFiles": [
         "shiny",
@@ -46969,8 +46568,7 @@
         "bslib",
         "pillar",
         "vctrs",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "ggraph": [
         "ggplot2",
@@ -47124,7 +46722,6 @@
         "KEGGREST",
         "shiny",
         "DT",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -47174,7 +46771,6 @@
         "shiny",
         "DT",
         "blob",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -47220,8 +46816,7 @@
         "shiny",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "superheat": [
         "dplyr",
@@ -47272,7 +46867,6 @@
         "shiny",
         "DT",
         "blob",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -47399,7 +46993,6 @@
         "shiny",
         "DT",
         "blob",
-        "jquerylib",
         "mgcv",
         "interp",
         "hms",
@@ -47443,7 +47036,6 @@
         "gert",
         "gh",
         "sass",
-        "jquerylib",
         "vctrs",
         "credentials",
         "textshaping",
@@ -47459,7 +47051,6 @@
         "rmarkdown",
         "tibble",
         "sass",
-        "jquerylib",
         "vctrs",
         "textshaping",
         "pillar"
@@ -47540,8 +47131,7 @@
         "shiny",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "enrichR": [
         "httr",
@@ -47570,7 +47160,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "jquerylib",
         "tibble",
         "vctrs",
         "nloptr",
@@ -48078,14 +47667,12 @@
         "shiny",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "shinyWidgets": [
         "bslib",
         "sass",
         "shiny",
-        "jquerylib",
         "httpuv"
     ],
     "shinydashboardPlus": [
@@ -48095,8 +47682,7 @@
         "waiter",
         "sass",
         "httpuv",
-        "bslib",
-        "jquerylib"
+        "bslib"
     ],
     "kableExtra": [
         "rvest",
@@ -48104,7 +47690,6 @@
         "webshot",
         "svglite",
         "bslib",
-        "jquerylib",
         "httr",
         "tibble",
         "sass",
@@ -48130,15 +47715,13 @@
         "sass",
         "shiny",
         "httpuv",
-        "bslib",
-        "jquerylib"
+        "bslib"
     ],
     "waiter": [
         "shiny",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "DDRTree": [],
     "leidenbase": [],
@@ -48255,7 +47838,6 @@
         "quantreg",
         "lme4",
         "pillar",
-        "jquerylib",
         "broom",
         "nloptr",
         "survival",
@@ -48486,7 +48068,6 @@
         "shiny",
         "DT",
         "blob",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -48518,8 +48099,7 @@
         "shinyBS",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "highcharter": [
         "dplyr",
@@ -48585,15 +48165,13 @@
         "shiny",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "shinyMatrix": [
         "shiny",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "mbest": [
         "lme4",
@@ -48890,7 +48468,6 @@
         "shiny",
         "DT",
         "blob",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -48926,7 +48503,6 @@
         "vctrs",
         "shiny",
         "DT",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -48973,7 +48549,6 @@
         "vctrs",
         "shiny",
         "DT",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -49201,21 +48776,18 @@
         "httpuv",
         "bslib",
         "httr",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "tippy": [
         "shiny",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "flextable": [
         "rmarkdown",
         "gdtools",
         "bslib",
-        "jquerylib",
         "sass"
     ],
     "gdtools": [],
@@ -49242,7 +48814,6 @@
         "cellranger",
         "progress",
         "bslib",
-        "jquerylib",
         "httpuv",
         "sass",
         "mgcv",
@@ -49252,8 +48823,7 @@
         "shiny",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "ggalt": [
         "ggplot2",
@@ -49295,7 +48865,6 @@
         "bslib",
         "lmtest",
         "sass",
-        "jquerylib",
         "mgcv",
         "tibble",
         "vctrs",
@@ -49322,7 +48891,6 @@
         "classInt",
         "e1071",
         "bslib",
-        "jquerylib",
         "sass"
     ],
     "sf": [
@@ -49371,7 +48939,6 @@
         "vctrs",
         "shiny",
         "DT",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -49458,7 +49025,6 @@
         "gert",
         "gh",
         "sass",
-        "jquerylib",
         "credentials",
         "httr"
     ],
@@ -49466,8 +49032,7 @@
         "shiny",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "wordcloud2": [],
     "AdaptGauss": [
@@ -49477,7 +49042,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "mgcv",
         "tibble",
         "vctrs",
@@ -49499,7 +49063,6 @@
         "sass",
         "pillar",
         "vctrs",
-        "jquerylib",
         "forcats",
         "hms",
         "readr",
@@ -49538,27 +49101,23 @@
         "rmarkdown",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "bsplus": [
         "rmarkdown",
         "bslib",
-        "jquerylib",
         "sass"
     ],
     "shinyvalidate": [
         "shiny",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "learnr": [
         "rmarkdown",
         "shiny",
         "bslib",
-        "jquerylib",
         "httpuv",
         "sass"
     ],
@@ -49669,7 +49228,6 @@
         "shiny",
         "DT",
         "blob",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -49703,7 +49261,6 @@
         "bslib",
         "R.cache",
         "sass",
-        "jquerylib",
         "tibble",
         "tidyselect",
         "pillar",
@@ -49729,7 +49286,6 @@
         "bslib",
         "R.cache",
         "sass",
-        "jquerylib",
         "tibble",
         "tidyselect",
         "pillar",
@@ -49754,7 +49310,6 @@
         "bslib",
         "R.cache",
         "sass",
-        "jquerylib",
         "tibble",
         "tidyselect",
         "pillar",
@@ -49847,7 +49402,6 @@
     "rmdformats": [
         "rmarkdown",
         "bookdown",
-        "jquerylib",
         "bslib",
         "sass"
     ],
@@ -49877,7 +49431,6 @@
         "DT",
         "blob",
         "progress",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -49963,7 +49516,6 @@
         "BiocParallel",
         "GenomicAlignments",
         "progress",
-        "jquerylib",
         "SummarizedExperiment",
         "httpuv",
         "bslib",
@@ -49994,8 +49546,7 @@
         "shiny",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "ggstar": [
         "ggplot2",
@@ -50007,7 +49558,6 @@
     "formattable": [
         "rmarkdown",
         "bslib",
-        "jquerylib",
         "sass"
     ],
     "HardyWeinberg": [
@@ -50112,8 +49662,7 @@
         "pillar",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "SOMbrero": [
         "shiny",
@@ -50127,7 +49676,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "pillar"
     ],
     "ppclust": [],
@@ -50211,7 +49759,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "mgcv"
     ],
     "MKmisc": [
@@ -50259,7 +49806,6 @@
         "gert",
         "gh",
         "sass",
-        "jquerylib",
         "vctrs",
         "credentials",
         "textshaping",
@@ -50299,8 +49845,7 @@
         "shiny",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "scico": [],
     "VarfromPDB": [
@@ -50403,7 +49948,6 @@
         "shiny",
         "DT",
         "DelayedArray",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -50428,7 +49972,6 @@
         "vctrs",
         "shiny",
         "DT",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -50462,7 +50005,6 @@
         "bslib",
         "R.cache",
         "sass",
-        "jquerylib",
         "forcats",
         "hms",
         "readr",
@@ -50709,7 +50251,6 @@
         "SummarizedExperiment",
         "shiny",
         "DT",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -50793,15 +50334,13 @@
         "shiny",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "shinyscreenshot": [
         "shiny",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "pwrEWAS.data": [
         "ExperimentHub",
@@ -50822,7 +50361,6 @@
         "vctrs",
         "shiny",
         "DT",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -50861,7 +50399,6 @@
         "SummarizedExperiment",
         "shiny",
         "DT",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -50881,8 +50418,7 @@
         "pillar",
         "vctrs",
         "dplyr",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "BSgenome.Celegans.UCSC.ce2": [
         "BSgenome",
@@ -50900,7 +50436,6 @@
     "knitrBootstrap": [
         "rmarkdown",
         "bslib",
-        "jquerylib",
         "sass"
     ],
     "RefManageR": [
@@ -50937,7 +50472,6 @@
         "shiny",
         "DT",
         "blob",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -51017,7 +50551,6 @@
         "shiny",
         "DT",
         "blob",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -51056,7 +50589,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "pillar"
     ],
     "RUVnormalizeData": [],
@@ -51067,7 +50599,6 @@
     "SBGNview.data": [
         "rmarkdown",
         "bookdown",
-        "jquerylib",
         "bslib",
         "sass"
     ],
@@ -51115,7 +50646,6 @@
         "vctrs",
         "shiny",
         "DT",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -51185,7 +50715,6 @@
         "vctrs",
         "pillar",
         "bslib",
-        "jquerylib",
         "sass"
     ],
     "gistr": [
@@ -51198,7 +50727,6 @@
         "vctrs",
         "pillar",
         "bslib",
-        "jquerylib",
         "sass"
     ],
     "mlr3": [
@@ -51309,7 +50837,6 @@
         "DT",
         "Biostrings",
         "blob",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
@@ -51364,7 +50891,6 @@
         "pillar",
         "dqrng",
         "sass",
-        "jquerylib",
         "tidyselect"
     ],
     "scRNAseq": [
@@ -51402,7 +50928,6 @@
         "BiocParallel",
         "blob",
         "GenomicAlignments",
-        "jquerylib",
         "hms",
         "httpuv",
         "bslib",
@@ -51434,7 +50959,6 @@
         "shiny",
         "DT",
         "blob",
-        "jquerylib",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -51479,7 +51003,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "mgcv",
         "tibble",
         "vctrs",
@@ -51645,8 +51168,7 @@
         "shinyAce",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "drawer": [
         "bsplus",
@@ -51654,8 +51176,7 @@
         "rmarkdown",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "GenKern": [],
     "ttservice": [
@@ -51678,7 +51199,6 @@
         "httpuv",
         "bslib",
         "sass",
-        "jquerylib",
         "pillar"
     ],
     "gghighlight": [
@@ -51802,15 +51322,13 @@
         "vctrs",
         "pillar",
         "bslib",
-        "jquerylib",
         "sass"
     ],
     "shinyTree": [
         "shiny",
         "httpuv",
         "bslib",
-        "sass",
-        "jquerylib"
+        "sass"
     ],
     "msigdb": [
         "ExperimentHub",
@@ -51838,7 +51356,6 @@
         "blob",
         "XVector",
         "GenomeInfoDb",
-        "jquerylib",
         "httpuv",
         "bslib",
         "sass"
