@@ -4227,7 +4227,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "SCANVIS": [],
     "SCATE": [
         "SCATEData",
         "ExperimentHub",
