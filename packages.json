@@ -9,8 +9,7 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "a4Base": [
         "a4Core",
@@ -20,8 +19,7 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "a4Classif": [
         "a4Core"
@@ -62,8 +60,7 @@
         "ggplot2",
         "RSQLite",
         "KEGGREST",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "ADAM": [
         "GO.db",
@@ -73,8 +70,7 @@
         "tibble",
         "tidyselect",
         "AnnotationDbi",
-        "RSQLite",
-        "blob"
+        "RSQLite"
     ],
     "ADAMgui": [
         "ADAM",
@@ -104,7 +100,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "blob",
         "nloptr"
     ],
     "adductomicsR": [
@@ -124,8 +119,7 @@
         "TTR",
         "KEGGREST",
         "dbplyr",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "ADImpute": [
         "SAVER",
@@ -136,8 +130,7 @@
         "AnnotationDbi",
         "GO.db",
         "KEGGREST",
-        "RSQLite",
-        "blob"
+        "RSQLite"
     ],
     "AffiXcan": [
         "SummarizedExperiment",
@@ -168,7 +161,6 @@
         "PFAM.db",
         "GSEABase",
         "ggbio",
-        "blob",
         "genefilter",
         "geneplotter",
         "Hmisc",
@@ -201,8 +193,7 @@
         "gcrma",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "affyPLM": [
         "gcrma"
@@ -212,8 +203,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "aggregateBioVar": [
         "SummarizedExperiment",
@@ -241,7 +231,6 @@
         "PFAM.db",
         "GSEABase",
         "ggbio",
-        "blob",
         "genefilter",
         "geneplotter",
         "Hmisc",
@@ -324,7 +313,6 @@
         "BiocFileCache",
         "Hmisc",
         "AnnotationFilter",
-        "blob",
         "dbplyr",
         "dplyr",
         "ggplot2",
@@ -352,7 +340,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -394,7 +381,6 @@
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "blob",
         "progress",
         "KEGGREST",
         "shiny"
@@ -422,8 +408,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "ANCOMBC": [
         "mia",
@@ -462,7 +447,6 @@
         "tidytree",
         "ScaledMatrix",
         "ragg",
-        "blob",
         "rematch2"
     ],
     "AneuFinder": [
@@ -506,15 +490,13 @@
         "RSQLite",
         "KEGGREST",
         "prodlim",
-        "lava",
-        "blob"
+        "lava"
     ],
     "annaffy": [
         "GO.db",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "annmap": [
         "Rsamtools",
@@ -522,26 +504,22 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "annotate": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "AnnotationDbi": [
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "AnnotationFilter": [],
     "AnnotationForge": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "AnnotationHub": [
         "BiocFileCache",
@@ -554,8 +532,7 @@
         "dbplyr",
         "tibble",
         "tidyselect",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "AnnotationHubData": [
         "AnnotationHub",
@@ -573,7 +550,6 @@
         "interactiveDisplayBase",
         "dplyr",
         "biomaRt",
-        "blob",
         "GenomicAlignments",
         "dbplyr",
         "progress",
@@ -606,8 +582,7 @@
         "dbplyr",
         "progress",
         "SummarizedExperiment",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "anota": [
         "qvalue",
@@ -624,8 +599,7 @@
         "AnnotationDbi",
         "tibble",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "AnVIL": [
         "dplyr",
@@ -687,15 +661,13 @@
         "progress",
         "BiocFileCache",
         "annotate",
-        "blob",
         "dbplyr"
     ],
     "apComplex": [
         "org.Sc.sgd.db",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "apeglm": [
         "SummarizedExperiment"
@@ -726,8 +698,7 @@
         "GO.db",
         "RSQLite",
         "KEGGREST",
-        "tidyselect",
-        "blob"
+        "tidyselect"
     ],
     "appreci8R": [
         "shiny",
@@ -766,7 +737,6 @@
         "dplyr",
         "dbplyr",
         "progress",
-        "blob",
         "GenomicAlignments",
         "tibble",
         "tidyselect"
@@ -775,8 +745,7 @@
         "oligo",
         "oligoClasses",
         "RSQLite",
-        "SummarizedExperiment",
-        "blob"
+        "SummarizedExperiment"
     ],
     "ArrayExpressHTS": [
         "Rsamtools",
@@ -795,7 +764,6 @@
         "dplyr",
         "SummarizedExperiment",
         "tibble",
-        "blob",
         "tidyselect"
     ],
     "arrayMvout": [
@@ -813,7 +781,6 @@
         "minfi",
         "SummarizedExperiment",
         "genefilter",
-        "blob",
         "progress",
         "BiocFileCache",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -844,8 +811,7 @@
         "viridis",
         "RSQLite",
         "KEGGREST",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "artMS": [
         "AnnotationDbi",
@@ -865,7 +831,6 @@
         "tidyselect",
         "lme4",
         "nloptr",
-        "blob",
         "testthat",
         "waldo",
         "rematch2"
@@ -917,7 +882,6 @@
         "AnnotationFilter",
         "tidyr",
         "nloptr",
-        "blob",
         "viridis",
         "testthat",
         "waldo",
@@ -951,14 +915,12 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "blob",
         "dbplyr",
         "viridis"
     ],
     "AssessORF": [
         "DECIPHER",
-        "RSQLite",
-        "blob"
+        "RSQLite"
     ],
     "ASSET": [
         "msm"
@@ -972,8 +934,7 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "ASURAT": [
         "SingleCellExperiment",
@@ -1040,7 +1001,6 @@
         "BiocFileCache",
         "GenomicAlignments",
         "annotate",
-        "blob",
         "gargle",
         "cellranger",
         "rematch2",
@@ -1080,7 +1040,6 @@
         "readr",
         "annotate",
         "GO.db",
-        "blob",
         "shiny",
         "vroom"
     ],
@@ -1103,7 +1062,6 @@
         "annotate",
         "GO.db",
         "KEGGREST",
-        "blob",
         "AnnotationDbi",
         "vroom",
         "progress"
@@ -1123,8 +1081,7 @@
         "dbplyr",
         "tibble",
         "tidyselect",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "atSNP": [
         "BSgenome",
@@ -1140,7 +1097,6 @@
         "tibble",
         "TFBSTools",
         "waldo",
-        "blob",
         "tidyselect",
         "GenomicAlignments",
         "CNEr",
@@ -1166,8 +1122,7 @@
         "annotate",
         "AnnotationForge",
         "GSEABase",
-        "genefilter",
-        "blob"
+        "genefilter"
     ],
     "AUCell": [
         "GSEABase",
@@ -1176,8 +1131,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "autonomics": [
         "assertive",
@@ -1194,8 +1148,7 @@
         "tibble",
         "cellranger",
         "progress",
-        "tidyselect",
-        "blob"
+        "tidyselect"
     ],
     "awst": [
         "SummarizedExperiment"
@@ -1238,7 +1191,6 @@
         "dbplyr",
         "dplyr",
         "GenomicAlignments",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -1252,8 +1204,7 @@
         "annotate",
         "SummarizedExperiment",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "bambu": [
         "SummarizedExperiment",
@@ -1272,7 +1223,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr"
     ],
     "bamsignals": [],
@@ -1317,7 +1267,6 @@
         "clock",
         "hardhat",
         "ipred",
-        "blob",
         "prodlim",
         "lava"
     ],
@@ -1434,8 +1383,7 @@
         "annotate",
         "tidyr",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "BayesSpace": [
         "SingleCellExperiment",
@@ -1456,7 +1404,6 @@
         "ggrastr",
         "ggrepel",
         "bluster",
-        "blob",
         "tidyselect",
         "ragg"
     ],
@@ -1479,7 +1426,6 @@
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -1498,8 +1444,7 @@
         "ggplot2",
         "RSQLite",
         "KEGGREST",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "beadarraySNP": [
         "quantsmooth",
@@ -1526,7 +1471,6 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -1598,7 +1542,6 @@
         "waldo",
         "ScaledMatrix",
         "ragg",
-        "blob",
         "rematch2"
     ],
     "BgeeCall": [
@@ -1617,8 +1560,7 @@
         "GenomicAlignments",
         "KEGGREST",
         "dbplyr",
-        "SummarizedExperiment",
-        "blob"
+        "SummarizedExperiment"
     ],
     "BgeeDB": [
         "topGO",
@@ -1627,7 +1569,6 @@
         "RSQLite",
         "tibble",
         "tidyselect",
-        "blob",
         "GO.db",
         "AnnotationDbi",
         "KEGGREST"
@@ -1640,8 +1581,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "BiFET": [],
     "bigmelon": [
@@ -1674,7 +1614,6 @@
         "vroom",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr"
@@ -1723,14 +1662,12 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "dbplyr",
-        "viridis",
-        "blob"
+        "viridis"
     ],
     "bioassayR": [
         "RSQLite",
         "ChemmineR",
         "ggplot2",
-        "blob",
         "tibble"
     ],
     "biobroom": [
@@ -1795,7 +1732,6 @@
         "vroom",
         "cellranger",
         "progress",
-        "blob",
         "ggfun",
         "ggplotify",
         "tweenr",
@@ -1826,7 +1762,6 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -1835,8 +1770,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "BiocOncoTK": [
         "bigrquery",
@@ -1874,7 +1808,6 @@
         "interactiveDisplayBase",
         "nloptr",
         "broom",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -1887,8 +1820,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "BiocPkgTools": [
         "BiocFileCache",
@@ -1901,7 +1833,6 @@
         "RSQLite",
         "tidyselect",
         "vroom",
-        "blob",
         "progress"
     ],
     "BiocSet": [
@@ -1911,8 +1842,7 @@
         "KEGGREST",
         "tidyr",
         "RSQLite",
-        "tidyselect",
-        "blob"
+        "tidyselect"
     ],
     "BiocSingular": [
         "ScaledMatrix"
@@ -1944,7 +1874,6 @@
         "testthat",
         "dbplyr",
         "dplyr",
-        "blob",
         "waldo",
         "tibble",
         "tidyselect",
@@ -1958,7 +1887,6 @@
         "testthat",
         "dbplyr",
         "dplyr",
-        "blob",
         "waldo",
         "tibble",
         "tidyselect",
@@ -1972,7 +1900,6 @@
         "testthat",
         "dbplyr",
         "dplyr",
-        "blob",
         "waldo",
         "tibble",
         "tidyselect",
@@ -1987,7 +1914,6 @@
         "waldo",
         "dbplyr",
         "dplyr",
-        "blob",
         "rematch2",
         "tibble",
         "tidyselect"
@@ -2000,7 +1926,6 @@
         "testthat",
         "dbplyr",
         "dplyr",
-        "blob",
         "waldo",
         "tibble",
         "tidyselect",
@@ -2014,7 +1939,6 @@
         "testthat",
         "dbplyr",
         "dplyr",
-        "blob",
         "waldo",
         "tibble",
         "tidyselect",
@@ -2028,7 +1952,6 @@
         "testthat",
         "dbplyr",
         "dplyr",
-        "blob",
         "waldo",
         "tibble",
         "tidyselect",
@@ -2042,7 +1965,6 @@
         "testthat",
         "dbplyr",
         "dplyr",
-        "blob",
         "waldo",
         "tibble",
         "tidyselect",
@@ -2057,7 +1979,6 @@
         "waldo",
         "dbplyr",
         "dplyr",
-        "blob",
         "rematch2",
         "tibble",
         "tidyselect"
@@ -2070,7 +1991,6 @@
         "testthat",
         "dbplyr",
         "dplyr",
-        "blob",
         "waldo",
         "tibble",
         "tidyselect",
@@ -2084,7 +2004,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -2102,8 +2021,7 @@
         "RSQLite",
         "KEGGREST",
         "viridis",
-        "TH.data",
-        "blob"
+        "TH.data"
     ],
     "biomvRCNS": [
         "Gviz",
@@ -2128,7 +2046,6 @@
         "dplyr",
         "ggplot2",
         "viridis",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -2154,7 +2071,6 @@
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
-        "blob",
         "viridis",
         "shiny"
     ],
@@ -2181,14 +2097,12 @@
         "KEGGREST",
         "tidyselect",
         "annotate",
-        "viridis",
-        "blob"
+        "viridis"
     ],
     "BioNet": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "BioNetStat": [
         "shiny",
@@ -2202,8 +2116,7 @@
         "AnnotationDbi",
         "org.Hs.eg.db",
         "KEGGREST",
-        "RSQLite",
-        "blob"
+        "RSQLite"
     ],
     "biosigner": [
         "MultiAssayExperiment",
@@ -2262,7 +2175,6 @@
         "progress",
         "BiocFileCache",
         "tibble",
-        "blob",
         "dbplyr",
         "dplyr",
         "tidyselect"
@@ -2307,8 +2219,7 @@
         "tidyselect",
         "progress",
         "dbplyr",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "BiSeq": [
         "SummarizedExperiment",
@@ -2319,8 +2230,7 @@
         "Rsamtools",
         "GenomicAlignments",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "BitSeq": [
         "Rsamtools"
@@ -2345,7 +2255,6 @@
         "annotate",
         "dbplyr",
         "dplyr",
-        "blob",
         "tidyselect"
     ],
     "blima": [
@@ -2354,8 +2263,7 @@
         "ggplot2",
         "RSQLite",
         "KEGGREST",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "BLMA": [
         "ROntoTools",
@@ -2365,8 +2273,7 @@
         "hgu133a.db",
         "KEGGREST",
         "RSQLite",
-        "org.Hs.eg.db",
-        "blob"
+        "org.Hs.eg.db"
     ],
     "BloodGen3Module": [
         "SummarizedExperiment",
@@ -2385,7 +2292,6 @@
         "dbplyr",
         "rematch2",
         "KEGGREST",
-        "blob",
         "tidyselect",
         "shiny"
     ],
@@ -2397,8 +2303,7 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "bnem": [
         "CellNOptR",
@@ -2416,8 +2321,7 @@
         "vegan",
         "ggdendro",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "BOBaFIT": [
         "dplyr",
@@ -2450,7 +2354,6 @@
         "progress",
         "viridis",
         "BiocFileCache",
-        "blob",
         "dbplyr"
     ],
     "borealis": [
@@ -2517,8 +2420,7 @@
         "tidyselect",
         "forcats",
         "tidyr",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "BrainSABER": [
         "biomaRt",
@@ -2531,7 +2433,6 @@
         "AnnotationDbi",
         "progress",
         "KEGGREST",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -2561,7 +2462,6 @@
         "ipred",
         "tidyr",
         "tidyselect",
-        "blob",
         "prodlim",
         "lava"
     ],
@@ -2580,8 +2480,7 @@
         "BiocFileCache",
         "dbplyr",
         "RSQLite",
-        "tidyselect",
-        "blob"
+        "tidyselect"
     ],
     "BRGenomics": [
         "rtracklayer",
@@ -2595,8 +2494,7 @@
         "AnnotationDbi",
         "tibble",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "BSgenome": [
         "rtracklayer",
@@ -2637,7 +2535,6 @@
         "BSgenome",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr"
     ],
     "bugsigdbr": [
@@ -2648,8 +2545,7 @@
         "RSQLite",
         "tibble",
         "tidyselect",
-        "progress",
-        "blob"
+        "progress"
     ],
     "BUMHMM": [
         "devtools",
@@ -2677,7 +2573,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -2710,8 +2605,7 @@
         "tidyselect",
         "GenomicAlignments",
         "dbplyr",
-        "SummarizedExperiment",
-        "blob"
+        "SummarizedExperiment"
     ],
     "BUSseq": [
         "SingleCellExperiment",
@@ -2749,7 +2643,6 @@
         "viridis",
         "BiocFileCache",
         "tidyselect",
-        "blob",
         "dbplyr"
     ],
     "CAGEfightR": [
@@ -2778,7 +2671,6 @@
         "AnnotationFilter",
         "tibble",
         "tidyselect",
-        "blob",
         "dbplyr",
         "viridis"
     ],
@@ -2825,7 +2717,6 @@
         "BiocFileCache",
         "tidyselect",
         "annotate",
-        "blob",
         "dbplyr"
     ],
     "CAGEr": [
@@ -2873,7 +2764,6 @@
         "viridis",
         "dbplyr",
         "dplyr",
-        "blob",
         "tidyselect"
     ],
     "CancerInSilico": [],
@@ -2911,7 +2801,6 @@
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr"
     ],
     "Cardinal": [],
@@ -2938,7 +2827,6 @@
         "progress",
         "BiocFileCache",
         "SummarizedExperiment",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -2990,8 +2878,7 @@
         "genefilter",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "categoryCompare": [
         "AnnotationDbi",
@@ -3007,8 +2894,7 @@
         "AnnotationForge",
         "IRkernel",
         "IRdisplay",
-        "repr",
-        "blob"
+        "repr"
     ],
     "cbaf": [
         "BiocFileCache",
@@ -3033,7 +2919,6 @@
         "tidyselect",
         "shiny",
         "miniUI",
-        "blob",
         "vroom",
         "rvest",
         "GenomicFeatures",
@@ -3057,8 +2942,7 @@
         "SingleCellExperiment",
         "treeio",
         "RSQLite",
-        "tidytree",
-        "blob"
+        "tidytree"
     ],
     "cBioPortalData": [
         "AnVIL",
@@ -3084,7 +2968,6 @@
         "GenomicFeatures",
         "GenomicDataCommons",
         "KEGGREST",
-        "blob",
         "rtracklayer",
         "biomaRt",
         "progress",
@@ -3111,8 +2994,7 @@
     "ccmap": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "CCPROMISE": [
         "PROMISE",
@@ -3120,8 +3002,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "celaref": [
         "SummarizedExperiment",
@@ -3188,8 +3069,7 @@
         "tidyselect",
         "dbplyr",
         "RSQLite",
-        "SummarizedExperiment",
-        "blob"
+        "SummarizedExperiment"
     ],
     "cellHTS2": [
         "genefilter",
@@ -3201,8 +3081,7 @@
         "ggplot2",
         "RSQLite",
         "KEGGREST",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "CelliD": [
         "Seurat",
@@ -3243,8 +3122,7 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "GO.db",
-        "blob"
+        "GO.db"
     ],
     "cellmigRation": [
         "FactoMineR",
@@ -3311,8 +3189,7 @@
         "GO.db",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "cellxgenedp": [
         "dplyr",
@@ -3365,7 +3242,6 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "blob",
         "tweenr"
     ],
     "censcyt": [
@@ -3414,8 +3290,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "ceRNAnetsim": [
         "dplyr",
@@ -3491,7 +3366,6 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "blob",
         "tweenr",
         "nloptr",
         "testthat",
@@ -3532,8 +3406,7 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "ChAMP": [
         "minfi",
@@ -3601,8 +3474,7 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "vroom",
-        "blob"
+        "vroom"
     ],
     "ChemmineR": [
         "ggplot2",
@@ -3674,7 +3546,6 @@
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
-        "blob",
         "dbplyr",
         "ggplot2",
         "viridis"
@@ -3719,7 +3590,6 @@
         "viridis",
         "TH.data",
         "vroom",
-        "blob",
         "tidyselect",
         "progress"
     ],
@@ -3749,7 +3619,6 @@
         "BSgenome",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr"
     ],
     "ChIPpeakAnno": [
@@ -3773,8 +3642,7 @@
         "tidyselect",
         "AnnotationFilter",
         "BSgenome",
-        "dbplyr",
-        "blob"
+        "dbplyr"
     ],
     "ChIPQC": [
         "ggplot2",
@@ -3809,7 +3677,6 @@
         "geneplotter",
         "tidyselect",
         "BSgenome",
-        "blob",
         "dbplyr",
         "annotate"
     ],
@@ -3853,7 +3720,6 @@
         "tidytree",
         "treeio",
         "GO.db",
-        "blob",
         "dbplyr",
         "cowplot",
         "tweenr"
@@ -3889,7 +3755,6 @@
         "RSQLite",
         "SummarizedExperiment",
         "vroom",
-        "blob",
         "progress"
     ],
     "chopsticks": [],
@@ -3902,8 +3767,7 @@
         "KEGGREST",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "blob"
+        "SummarizedExperiment"
     ],
     "chromPlot": [
         "biomaRt",
@@ -3914,7 +3778,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -4005,7 +3868,6 @@
         "GO.db",
         "KEGGREST",
         "tidyselect",
-        "blob",
         "AnnotationDbi",
         "vroom",
         "progress"
@@ -4019,7 +3881,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -4049,8 +3910,7 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "AnnotationFilter",
-        "dbplyr",
-        "blob"
+        "dbplyr"
     ],
     "CIMICE": [
         "dplyr",
@@ -4103,7 +3963,6 @@
         "annotate",
         "biomaRt",
         "shiny",
-        "blob",
         "progress"
     ],
     "CircSeqAlignTk": [
@@ -4127,7 +3986,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr"
     ],
     "CiteFuse": [
@@ -4164,8 +4022,7 @@
         "annotate",
         "SummarizedExperiment",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "cleanUpdTSeq": [
         "BSgenome.Drerio.UCSC.danRer7",
@@ -4189,7 +4046,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -4219,8 +4075,7 @@
         "tibble"
     ],
     "clstutils": [
-        "RSQLite",
-        "blob"
+        "RSQLite"
     ],
     "CluMSID": [
         "network",
@@ -4261,8 +4116,7 @@
         "tidyr",
         "RSQLite",
         "KEGGREST",
-        "tidyselect",
-        "blob"
+        "tidyselect"
     ],
     "ClusterJudge": [],
     "clusterProfiler": [
@@ -4298,7 +4152,6 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "blob",
         "tweenr"
     ],
     "clusterSeq": [
@@ -4325,8 +4178,7 @@
         "oligoClasses",
         "oligo",
         "RSQLite",
-        "SummarizedExperiment",
-        "blob"
+        "SummarizedExperiment"
     ],
     "cn.mops": [
         "Rsamtools",
@@ -4346,7 +4198,6 @@
         "Rsamtools",
         "tibble",
         "vroom",
-        "blob",
         "tidyselect",
         "progress"
     ],
@@ -4383,8 +4234,7 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "CNVfilteR": [
         "SummarizedExperiment",
@@ -4412,7 +4262,6 @@
         "BiocFileCache",
         "ggplot2",
         "viridis",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -4455,7 +4304,6 @@
         "progress",
         "BiocFileCache",
         "viridis",
-        "blob",
         "dbplyr"
     ],
     "CNVMetrics": [],
@@ -4493,7 +4341,6 @@
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tidyselect"
@@ -4502,8 +4349,7 @@
         "org.Hs.eg.db",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "COCOA": [
         "ggplot2",
@@ -4523,8 +4369,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "CODEX": [
         "Rsamtools",
@@ -4550,7 +4395,6 @@
         "tidyselect",
         "vroom",
         "RSQLite",
-        "blob",
         "progress"
     ],
     "CoGAPS": [
@@ -4604,7 +4448,6 @@
         "tibble",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -4639,8 +4482,7 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "dbplyr",
-        "viridis",
-        "blob"
+        "viridis"
     ],
     "combi": [
         "ggplot2",
@@ -4672,7 +4514,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "AnnotationFilter",
-        "blob",
         "tibble",
         "tidyselect",
         "ggplot2",
@@ -4700,7 +4541,6 @@
         "biomaRt",
         "shiny",
         "nloptr",
-        "blob",
         "progress",
         "testthat",
         "Rsamtools",
@@ -4754,7 +4594,6 @@
         "ensembldb",
         "BSgenome",
         "biovizBase",
-        "blob",
         "dbplyr",
         "dplyr",
         "Hmisc",
@@ -4774,7 +4613,6 @@
         "RSQLite",
         "Spectra",
         "ggplot2",
-        "blob",
         "tidyselect"
     ],
     "ComPrAn": [
@@ -4835,7 +4673,6 @@
         "ggrastr",
         "bluster",
         "ScaledMatrix",
-        "blob",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -4943,7 +4780,6 @@
         "BiocFileCache",
         "annotate",
         "tibble",
-        "blob",
         "dbplyr",
         "dplyr",
         "tidyselect"
@@ -4970,7 +4806,6 @@
         "dbplyr",
         "dplyr",
         "lava",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -4987,8 +4822,7 @@
         "topGO",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "contiBAIT": [
         "Rsamtools",
@@ -5008,7 +4842,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tidyselect"
@@ -5041,7 +4874,6 @@
         "vroom",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr"
     ],
     "copynumber": [],
@@ -5070,7 +4902,6 @@
         "BiocFileCache",
         "ggplot2",
         "viridis",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -5129,8 +4960,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "cosmiq": [
         "xcms",
@@ -5158,8 +4988,7 @@
         "AnnotationDbi",
         "RSQLite",
         "KEGGREST",
-        "vroom",
-        "blob"
+        "vroom"
     ],
     "COTAN": [
         "dplyr",
@@ -5184,8 +5013,7 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "CoverageView": [
         "Rsamtools",
@@ -5198,8 +5026,7 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "cpvSNP": [
         "GenomicFeatures",
@@ -5214,7 +5041,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -5278,7 +5104,6 @@
         "AnnotationHub",
         "tibble",
         "vroom",
-        "blob",
         "BiocVersion",
         "interactiveDisplayBase",
         "dplyr",
@@ -5300,8 +5125,7 @@
         "dbplyr",
         "tibble",
         "tidyselect",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "CRISPRseek": [
         "seqinr",
@@ -5351,7 +5175,6 @@
         "tfruns",
         "haven",
         "readxl",
-        "blob",
         "dbplyr",
         "AnnotationFilter",
         "forcats",
@@ -5367,8 +5190,7 @@
         "RSQLite",
         "KEGGREST",
         "SummarizedExperiment",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "crisprVerse": [
         "crisprBase",
@@ -5403,7 +5225,6 @@
         "progress",
         "Hmisc",
         "AnnotationFilter",
-        "blob",
         "tidyselect",
         "dbplyr",
         "ggplot2",
@@ -5435,7 +5256,6 @@
         "AnnotationFilter",
         "readr",
         "crisprScoreData",
-        "blob",
         "dbplyr",
         "dplyr",
         "ExperimentHub",
@@ -5452,8 +5272,7 @@
     "crlmm": [
         "oligoClasses",
         "SummarizedExperiment",
-        "RSQLite",
-        "blob"
+        "RSQLite"
     ],
     "crossmeta": [
         "AnnotationDbi",
@@ -5476,7 +5295,6 @@
         "oligoClasses",
         "cellranger",
         "progress",
-        "blob",
         "genefilter",
         "tidyselect",
         "annotate",
@@ -5497,8 +5315,7 @@
         "KEGGREST",
         "ggplot2",
         "viridis",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "CSSQ": [
         "SummarizedExperiment",
@@ -5514,7 +5331,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tidyselect"
@@ -5526,7 +5342,6 @@
         "dplyr",
         "RSQLite",
         "tibble",
-        "blob",
         "tidyselect"
     ],
     "cTRAP": [
@@ -5554,8 +5369,7 @@
         "cellranger",
         "progress",
         "dbplyr",
-        "TTR",
-        "blob"
+        "TTR"
     ],
     "ctsGE": [
         "ggplot2",
@@ -5575,7 +5389,6 @@
         "RSQLite",
         "scuttle",
         "tibble",
-        "blob",
         "tidyselect"
     ],
     "cummeRbund": [
@@ -5592,7 +5405,6 @@
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
-        "blob",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -5616,7 +5428,6 @@
         "dplyr",
         "dbplyr",
         "ggplot2",
-        "blob",
         "KEGGREST",
         "tibble",
         "tidyselect",
@@ -5635,7 +5446,6 @@
         "progress",
         "BiocFileCache",
         "SummarizedExperiment",
-        "blob",
         "BSgenome",
         "dbplyr",
         "dplyr",
@@ -5790,7 +5600,6 @@
         "dplyr",
         "RSQLite",
         "scuttle",
-        "blob",
         "tidyselect"
     ],
     "CytoML": [
@@ -5826,7 +5635,6 @@
         "dbplyr",
         "dplyr",
         "tibble",
-        "blob",
         "BSgenome",
         "CNEr",
         "rtracklayer",
@@ -5860,7 +5668,6 @@
         "tidyselect",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr"
     ],
@@ -5910,7 +5717,6 @@
         "prodlim",
         "testthat",
         "broom",
-        "blob",
         "lava",
         "waldo",
         "rematch2"
@@ -5960,7 +5766,6 @@
         "progress",
         "testthat",
         "usethis",
-        "blob",
         "broom",
         "car",
         "pbkrtest",
@@ -6007,7 +5812,6 @@
         "rvest",
         "RSQLite",
         "KEGGREST",
-        "blob",
         "tweenr",
         "gargle",
         "cellranger",
@@ -6123,12 +5927,10 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "blob",
         "tweenr"
     ],
     "DECIPHER": [
-        "RSQLite",
-        "blob"
+        "RSQLite"
     ],
     "deco": [
         "AnnotationDbi",
@@ -6140,8 +5942,7 @@
         "KEGGREST",
         "bookdown",
         "rmarkdown",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "DEComplexDisease": [
         "DESeq2",
@@ -6152,8 +5953,7 @@
         "AnnotationDbi",
         "tibble",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "decompTumor2Sig": [
         "ggplot2",
@@ -6175,7 +5975,6 @@
         "Rsamtools",
         "KEGGREST",
         "BiocFileCache",
-        "blob",
         "GenomicAlignments",
         "dbplyr",
         "dplyr",
@@ -6263,7 +6062,6 @@
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -6278,8 +6076,7 @@
         "AnnotationDbi",
         "tibble",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "DegNorm": [
         "GenomicFeatures",
@@ -6303,7 +6100,6 @@
         "progress",
         "BiocFileCache",
         "tidyselect",
-        "blob",
         "dbplyr"
     ],
     "DEGraph": [
@@ -6329,8 +6125,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "DEGseq": [
         "qvalue",
@@ -6353,8 +6148,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "deltaGseg": [
         "ggplot2",
@@ -6381,7 +6175,6 @@
         "KEGGREST",
         "rtracklayer",
         "Rsamtools",
-        "blob",
         "GenomicAlignments"
     ],
     "demuxmix": [
@@ -6441,7 +6234,6 @@
         "progress",
         "BiocFileCache",
         "tibble",
-        "blob",
         "BSgenome",
         "dbplyr",
         "dplyr",
@@ -6478,7 +6270,6 @@
         "forcats",
         "tidyr",
         "viridis",
-        "blob",
         "dbplyr",
         "tidyselect"
     ],
@@ -6504,8 +6295,7 @@
         "tidyselect",
         "AnnotationFilter",
         "BSgenome",
-        "dbplyr",
-        "blob"
+        "dbplyr"
     ],
     "DESeq2": [
         "SummarizedExperiment",
@@ -6515,8 +6305,7 @@
         "AnnotationDbi",
         "tibble",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "DEsingle": [],
     "destiny": [
@@ -6557,8 +6346,7 @@
         "waldo",
         "RSQLite",
         "KEGGREST",
-        "rematch2",
-        "blob"
+        "rematch2"
     ],
     "DEWSeq": [
         "DESeq2",
@@ -6569,8 +6357,7 @@
         "AnnotationDbi",
         "tibble",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "DExMA": [
         "GEOquery",
@@ -6587,8 +6374,7 @@
         "vroom",
         "RSQLite",
         "KEGGREST",
-        "progress",
-        "blob"
+        "progress"
     ],
     "DEXSeq": [
         "SummarizedExperiment",
@@ -6607,7 +6393,6 @@
         "dbplyr",
         "dplyr",
         "tibble",
-        "blob",
         "tidyselect"
     ],
     "DIAlignR": [
@@ -6616,8 +6401,7 @@
         "ggplot2",
         "RSQLite",
         "tibble",
-        "tidyselect",
-        "blob"
+        "tidyselect"
     ],
     "DiffBind": [
         "SummarizedExperiment",
@@ -6639,8 +6423,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "diffcoexp": [
         "WGCNA",
@@ -6653,8 +6436,7 @@
         "KEGGREST",
         "ggplot2",
         "viridis",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "diffcyt": [
         "FlowSOM",
@@ -6731,7 +6513,6 @@
         "progress",
         "BiocFileCache",
         "annotate",
-        "blob",
         "dbplyr"
     ],
     "diggit": [
@@ -6896,7 +6677,6 @@
         "tidyr",
         "ggplot2",
         "FDb.InfiniumMethylation.hg19",
-        "blob",
         "tibble",
         "tidyselect",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -6927,7 +6707,6 @@
         "dplyr",
         "ggplot2",
         "viridis",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -6959,7 +6738,6 @@
         "biomaRt",
         "shiny",
         "vroom",
-        "blob",
         "progress"
     ],
     "DNABarcodeCompatibility": [
@@ -6995,7 +6773,6 @@
         "GenomicFeatures",
         "dbplyr",
         "dplyr",
-        "blob",
         "GenomicAlignments",
         "tibble",
         "tidyselect"
@@ -7007,8 +6784,7 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "Doscheda": [
         "drc",
@@ -7048,8 +6824,7 @@
         "KEGGREST",
         "cowplot",
         "tibble",
-        "GO.db",
-        "blob"
+        "GO.db"
     ],
     "doseR": [
         "lme4",
@@ -7102,7 +6877,6 @@
         "GenomicFeatures",
         "rtracklayer",
         "Rsamtools",
-        "blob",
         "httpcache",
         "KEGGREST",
         "GenomicAlignments",
@@ -7133,7 +6907,6 @@
         "tidyselect",
         "oligoClasses",
         "vroom",
-        "blob",
         "SummarizedExperiment"
     ],
     "DSS": [
@@ -7200,7 +6973,6 @@
         "dbplyr",
         "shiny",
         "nloptr",
-        "blob",
         "testthat",
         "waldo",
         "rematch2"
@@ -7232,7 +7004,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "blob",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -7263,7 +7034,6 @@
         "AnnotationDbi",
         "progress",
         "KEGGREST",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -7276,8 +7046,7 @@
         "AnnotationDbi",
         "tibble",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "EBSeq": [
         "testthat",
@@ -7307,7 +7076,6 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -7325,7 +7093,6 @@
         "RSQLite",
         "KEGGREST",
         "testthat",
-        "blob",
         "waldo",
         "rematch2"
     ],
@@ -7362,7 +7129,6 @@
         "ggtree",
         "cowplot",
         "annotate",
-        "blob",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -7417,7 +7183,6 @@
         "ScaledMatrix",
         "tidyselect",
         "multcomp",
-        "blob",
         "sn",
         "TH.data",
         "quantreg"
@@ -7469,7 +7234,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "blob",
         "broom",
         "car",
         "pbkrtest",
@@ -7502,7 +7266,6 @@
         "TFBSTools",
         "SummarizedExperiment",
         "GenomicAlignments",
-        "blob",
         "tibble",
         "tidyselect",
         "CNEr",
@@ -7540,7 +7303,6 @@
         "readr",
         "tidyr",
         "shiny",
-        "blob",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -7565,7 +7327,6 @@
         "dplyr",
         "annotate",
         "org.Hs.eg.db",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -7600,8 +7361,7 @@
         "KEGGREST",
         "tidyselect",
         "cowplot",
-        "tweenr",
-        "blob"
+        "tweenr"
     ],
     "enrichTF": [
         "pipeFrame",
@@ -7645,7 +7405,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "blob",
         "broom",
         "car",
         "ggfun",
@@ -7676,7 +7435,6 @@
         "Rsamtools",
         "KEGGREST",
         "biomaRt",
-        "blob",
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
@@ -7700,7 +7458,6 @@
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -7748,7 +7505,6 @@
         "biomaRt",
         "shiny",
         "vroom",
-        "blob",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -7804,8 +7560,7 @@
         "quantreg",
         "RSQLite",
         "KEGGREST",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "epigraHMM": [
         "SummarizedExperiment",
@@ -7876,8 +7631,7 @@
         "cowplot",
         "tweenr",
         "tidytree",
-        "treeio",
-        "blob"
+        "treeio"
     ],
     "EpiMix": [
         "EpiMix.data",
@@ -7905,7 +7659,6 @@
         "dbplyr",
         "shiny",
         "vroom",
-        "blob",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -7958,7 +7711,6 @@
         "readr",
         "tidyr",
         "shiny",
-        "blob",
         "viridis",
         "vroom"
     ],
@@ -7994,7 +7746,6 @@
         "dplyr",
         "rtracklayer",
         "biomaRt",
-        "blob",
         "Structstrings",
         "tRNA",
         "progress",
@@ -8021,7 +7772,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "GenomicAlignments",
         "dbplyr",
         "dplyr",
@@ -8043,7 +7793,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "GenomicAlignments",
         "dbplyr",
         "dplyr",
@@ -8064,7 +7813,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "GenomicAlignments",
         "dbplyr",
         "dplyr",
@@ -8086,7 +7834,6 @@
         "SummarizedExperiment",
         "OrganismDbi",
         "ensembldb",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -8120,7 +7867,6 @@
         "org.Hs.eg.db",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "biomaRt",
-        "blob",
         "BSgenome",
         "progress",
         "BiocFileCache",
@@ -8137,8 +7883,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "esATAC": [
         "Rsamtools",
@@ -8184,7 +7929,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "blob",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -8220,15 +7964,13 @@
         "babelgene",
         "RSQLite",
         "KEGGREST",
-        "ScaledMatrix",
-        "blob"
+        "ScaledMatrix"
     ],
     "esetVis": [
         "MLP",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "eudysbiome": [
         "Rsamtools"
@@ -8269,7 +8011,6 @@
         "progress",
         "BiocFileCache",
         "tibble",
-        "blob",
         "dbplyr",
         "dplyr",
         "tidyselect"
@@ -8318,7 +8059,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "blob",
         "shiny",
         "progress",
         "nloptr",
@@ -8353,7 +8093,6 @@
         "progress",
         "BiocFileCache",
         "annotate",
-        "blob",
         "dbplyr",
         "dplyr",
         "tidyselect"
@@ -8368,7 +8107,6 @@
         "dplyr",
         "dbplyr",
         "KEGGREST",
-        "blob",
         "tibble",
         "tidyselect",
         "shiny"
@@ -8392,7 +8130,6 @@
         "dplyr",
         "dbplyr",
         "biomaRt",
-        "blob",
         "GenomicAlignments",
         "progress",
         "tibble",
@@ -8415,7 +8152,6 @@
         "tidyselect",
         "scuttle",
         "tidytree",
-        "blob",
         "tidyr"
     ],
     "ExploreModelMatrix": [
@@ -8473,8 +8209,7 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "dbplyr",
-        "viridis",
-        "blob"
+        "viridis"
     ],
     "factR": [
         "dplyr",
@@ -8498,7 +8233,6 @@
         "BiocFileCache",
         "SummarizedExperiment",
         "vroom",
-        "blob",
         "dbplyr"
     ],
     "FamAgg": [
@@ -8553,7 +8287,6 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "blob",
         "tweenr"
     ],
     "fastLiquidAssociation": [
@@ -8572,7 +8305,6 @@
         "tibble",
         "dplyr",
         "tidyr",
-        "blob",
         "tidyselect"
     ],
     "FastqCleaner": [
@@ -8650,7 +8382,6 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "blob",
         "tweenr"
     ],
     "fcScan": [
@@ -8667,7 +8398,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -8720,7 +8450,6 @@
         "bumphunter",
         "siggenes",
         "GEOquery",
-        "blob",
         "progress",
         "BiocFileCache",
         "readr",
@@ -8737,7 +8466,6 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -8770,7 +8498,6 @@
         "GenomicAlignments",
         "KEGGREST",
         "BiocFileCache",
-        "blob",
         "dbplyr"
     ],
     "FISHalyseR": [],
@@ -8836,7 +8563,6 @@
         "BiocFileCache",
         "forcats",
         "ragg",
-        "blob",
         "dbplyr"
     ],
     "flowAI": [
@@ -9045,7 +8771,6 @@
         "tweenr",
         "prodlim",
         "syuzhet",
-        "blob",
         "lava"
     ],
     "FoldGO": [
@@ -9058,8 +8783,7 @@
         "GO.db",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "FRASER": [
         "Rsamtools",
@@ -9090,7 +8814,6 @@
         "viridis",
         "dendextend",
         "egg",
-        "blob",
         "annotate"
     ],
     "frenchFISH": [
@@ -9123,8 +8846,7 @@
         "oligo",
         "oligoClasses",
         "RSQLite",
-        "SummarizedExperiment",
-        "blob"
+        "SummarizedExperiment"
     ],
     "FunChIP": [
         "shiny",
@@ -9162,7 +8884,6 @@
         "vroom",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr"
@@ -9212,7 +8933,6 @@
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr"
     ],
     "GA4GHshiny": [
@@ -9233,7 +8953,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
@@ -9244,8 +8963,7 @@
         "KEGGREST",
         "AnnotationDbi",
         "GO.db",
-        "RSQLite",
-        "blob"
+        "RSQLite"
     ],
     "GAprediction": [],
     "GARS": [
@@ -9298,7 +9016,6 @@
         "dbplyr",
         "prodlim",
         "broom",
-        "blob",
         "lava"
     ],
     "GateFinder": [
@@ -9335,7 +9052,6 @@
         "pkgdown",
         "rcmdcheck",
         "testthat",
-        "blob",
         "shiny",
         "downlit",
         "ragg",
@@ -9396,7 +9112,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "blob",
         "ggforce",
         "viridis",
         "tidygraph",
@@ -9446,7 +9161,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -9476,7 +9190,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "blob",
         "nloptr",
         "testthat",
         "waldo",
@@ -9495,7 +9208,6 @@
         "progress",
         "BiocFileCache",
         "SummarizedExperiment",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -9509,8 +9221,7 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "genefu": [
         "survcomp",
@@ -9526,7 +9237,6 @@
         "dbplyr",
         "dplyr",
         "lava",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -9558,15 +9268,13 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "geneplotter": [
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "GeneRegionScan": [],
     "geneRxCluster": [],
@@ -9579,7 +9287,6 @@
         "quantsmooth",
         "mice",
         "quantreg",
-        "blob",
         "broom",
         "dplyr",
         "tidyr",
@@ -9611,7 +9318,6 @@
         "dplyr",
         "ggplot2",
         "viridis",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -9649,8 +9355,7 @@
         "tibble",
         "tidyselect",
         "tweenr",
-        "annotate",
-        "blob"
+        "annotate"
     ],
     "geneXtendeR": [
         "rtracklayer",
@@ -9667,8 +9372,7 @@
         "tidyselect",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "blob"
+        "SummarizedExperiment"
     ],
     "GENIE3": [
         "dplyr",
@@ -9730,7 +9434,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -9753,7 +9456,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -9772,7 +9474,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -9806,8 +9507,7 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "dbplyr",
-        "viridis",
-        "blob"
+        "viridis"
     ],
     "GenomicOZone": [
         "biomaRt",
@@ -9837,7 +9537,6 @@
         "forcats",
         "tidyr",
         "viridis",
-        "blob",
         "tidyselect"
     ],
     "GenomicScores": [
@@ -9850,7 +9549,6 @@
         "dplyr",
         "dbplyr",
         "KEGGREST",
-        "blob",
         "tibble",
         "tidyselect",
         "shiny"
@@ -9874,7 +9572,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "blob",
         "broom",
         "car",
         "pbkrtest",
@@ -9902,7 +9599,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tidyselect"
@@ -9949,7 +9645,6 @@
         "SummarizedExperiment",
         "dbplyr",
         "dplyr",
-        "blob",
         "GenomicAlignments",
         "tidyselect"
     ],
@@ -10028,7 +9723,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "blob",
         "tibble",
         "tidyselect",
         "vroom",
@@ -10072,8 +9766,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "gespeR": [
         "ggplot2",
@@ -10092,8 +9785,7 @@
         "RSQLite",
         "KEGGREST",
         "dbplyr",
-        "annotate",
-        "blob"
+        "annotate"
     ],
     "getDEE2": [
         "SummarizedExperiment"
@@ -10141,7 +9833,6 @@
         "viridis",
         "BiocFileCache",
         "tidyselect",
-        "blob",
         "dbplyr"
     ],
     "ggcyto": [
@@ -10203,7 +9894,6 @@
         "dplyr",
         "RSQLite",
         "scuttle",
-        "blob",
         "tidyselect"
     ],
     "ggtree": [
@@ -10269,8 +9959,7 @@
         "ggplot2",
         "viridis",
         "TH.data",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "GladiaTOX": [
         "RSQLite",
@@ -10278,7 +9967,6 @@
         "ggrepel",
         "tidyr",
         "tibble",
-        "blob",
         "dplyr",
         "tidyselect"
     ],
@@ -10291,8 +9979,7 @@
         "AnnotationDbi",
         "tibble",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "glmGamPoi": [
         "SummarizedExperiment",
@@ -10326,7 +10013,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "blob",
         "car",
         "pbkrtest",
         "quantreg",
@@ -10346,15 +10032,13 @@
         "KEGGREST",
         "ggplot2",
         "viridis",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "globaltest": [
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "gmapR": [
         "Rsamtools",
@@ -10370,7 +10054,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -10399,7 +10082,6 @@
         "tidyr",
         "ggplot2",
         "viridis",
-        "blob",
         "tidyselect"
     ],
     "gmoviz": [
@@ -10414,7 +10096,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -10445,14 +10126,12 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "blob",
         "tidyselect"
     ],
     "GOfuncR": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "GOpro": [
         "AnnotationDbi",
@@ -10467,7 +10146,6 @@
         "SummarizedExperiment",
         "tidyr",
         "tibble",
-        "blob",
         "dplyr",
         "tidyselect"
     ],
@@ -10475,15 +10153,13 @@
         "AnnotationDbi",
         "GO.db",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "GOSemSim": [
         "AnnotationDbi",
         "GO.db",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "goseq": [
         "geneLenDataBase",
@@ -10494,7 +10170,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "biomaRt",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "progress",
@@ -10512,8 +10187,7 @@
         "AnnotationDbi",
         "topGO",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "goSorensen": [
         "GO.db",
@@ -10551,7 +10225,6 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "blob",
         "tweenr"
     ],
     "goSTAG": [
@@ -10564,7 +10237,6 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -10577,8 +10249,7 @@
         "RSQLite",
         "KEGGREST",
         "GSEABase",
-        "genefilter",
-        "blob"
+        "genefilter"
     ],
     "GOsummaries": [
         "ggplot2",
@@ -10598,8 +10269,7 @@
         "GO.db",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "GPA": [
         "ggplot2",
@@ -10638,8 +10308,7 @@
         "RSQLite",
         "KEGGREST",
         "dbplyr",
-        "annotate",
-        "blob"
+        "annotate"
     ],
     "granulator": [
         "cowplot",
@@ -10666,8 +10335,7 @@
     "graphite": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "GraphPAC": [
         "iPAC"
@@ -10728,8 +10396,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "GSEABenchmarkeR": [
         "SummarizedExperiment",
@@ -10750,7 +10417,6 @@
         "graphite",
         "pathview",
         "safe",
-        "blob",
         "tibble",
         "tidyselect",
         "annotate",
@@ -10783,7 +10449,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "blob",
         "tidyselect"
     ],
     "GSgalgoR": [],
@@ -10801,7 +10466,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -10816,8 +10480,7 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "GSVA": [
         "SummarizedExperiment",
@@ -10828,8 +10491,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "gtrellis": [],
     "GUIDEseq": [
@@ -10867,7 +10529,6 @@
         "tensorflow",
         "tfruns",
         "cellranger",
-        "blob",
         "dbplyr",
         "vroom"
     ],
@@ -10887,7 +10548,6 @@
         "progress",
         "BiocFileCache",
         "SummarizedExperiment",
-        "blob",
         "dbplyr"
     ],
     "Gviz": [
@@ -10912,7 +10572,6 @@
         "dplyr",
         "ggplot2",
         "viridis",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -10952,7 +10611,6 @@
         "Rsamtools",
         "BSgenome",
         "progress",
-        "blob",
         "tidyselect",
         "shiny",
         "GenomicAlignments"
@@ -10963,7 +10621,6 @@
         "quantsmooth",
         "mice",
         "quantreg",
-        "blob",
         "broom",
         "dplyr",
         "tidyr",
@@ -10987,7 +10644,6 @@
         "biomaRt",
         "mice",
         "quantreg",
-        "blob",
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
@@ -11014,16 +10670,14 @@
         "AnnotationDbi",
         "RSQLite",
         "KEGGREST",
-        "viridis",
-        "blob"
+        "viridis"
     ],
     "h5vc": [
         "ggplot2",
         "Rsamtools",
         "BatchJobs",
         "RSQLite",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "Harshlight": [
         "altcdfenvs"
@@ -11040,7 +10694,6 @@
         "RSQLite",
         "tidyselect",
         "vroom",
-        "blob",
         "progress"
     ],
     "heatmaps": [],
@@ -11058,7 +10711,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -11085,8 +10737,7 @@
         "RSQLite",
         "KEGGREST",
         "dbplyr",
-        "annotate",
-        "blob"
+        "annotate"
     ],
     "HGC": [
         "dendextend",
@@ -11154,8 +10805,7 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "dbplyr",
-        "viridis",
-        "blob"
+        "viridis"
     ],
     "HiCDOC": [
         "InteractionSet",
@@ -11226,7 +10876,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "blob",
         "shiny",
         "viridis"
     ],
@@ -11253,7 +10902,6 @@
         "progress",
         "BiocFileCache",
         "Rsamtools",
-        "blob",
         "GenomicAlignments",
         "dbplyr",
         "SummarizedExperiment"
@@ -11277,8 +10925,7 @@
         "tibble",
         "tidyselect",
         "shiny",
-        "TH.data",
-        "blob"
+        "TH.data"
     ],
     "HIPPO": [
         "ggplot2",
@@ -11359,7 +11006,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -11374,8 +11020,7 @@
         "AnnotationDbi",
         "tibble",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "HubPub": [
         "available",
@@ -11454,7 +11099,6 @@
         "progress",
         "BiocFileCache",
         "annotate",
-        "blob",
         "dbplyr",
         "dplyr",
         "tidyselect"
@@ -11474,7 +11118,6 @@
         "minfi",
         "SummarizedExperiment",
         "genefilter",
-        "blob",
         "progress",
         "BiocFileCache",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -11560,7 +11203,6 @@
         "GSEABase",
         "rtracklayer",
         "GenomicFeatures",
-        "blob",
         "dbplyr",
         "Rsamtools",
         "GenomicAlignments"
@@ -11575,8 +11217,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "idpr": [
         "ggplot2",
@@ -11610,7 +11251,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -11643,8 +11283,7 @@
         "annotate",
         "tibble",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "IMAS": [
         "GenomicFeatures",
@@ -11668,7 +11307,6 @@
         "BiocFileCache",
         "tidyselect",
         "testthat",
-        "blob",
         "dbplyr",
         "waldo",
         "rematch2"
@@ -11701,15 +11339,13 @@
         "progress",
         "dbplyr",
         "RSQLite",
-        "tweenr",
-        "blob"
+        "tweenr"
     ],
     "IMMAN": [
         "STRINGdb",
         "seqinr",
         "sqldf",
-        "RSQLite",
-        "blob"
+        "RSQLite"
     ],
     "ImmuneSpaceR": [
         "Rlabkey",
@@ -11800,7 +11436,6 @@
         "biomaRt",
         "GenomicAlignments",
         "vroom",
-        "blob",
         "BiocFileCache",
         "SummarizedExperiment",
         "dbplyr"
@@ -11824,7 +11459,6 @@
         "BiocFileCache",
         "annotate",
         "tibble",
-        "blob",
         "dbplyr",
         "dplyr",
         "tidyselect"
@@ -11885,7 +11519,6 @@
         "viridis",
         "BiocFileCache",
         "tidyselect",
-        "blob",
         "dbplyr"
     ],
     "InteractionSet": [
@@ -11909,8 +11542,7 @@
         "GSEABase",
         "genefilter",
         "annotate",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "interactiveDisplayBase": [
         "shiny"
@@ -11957,7 +11589,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "blob",
         "broom",
         "nloptr",
         "testthat",
@@ -11984,7 +11615,6 @@
         "BiocFileCache",
         "annotate",
         "tibble",
-        "blob",
         "dbplyr",
         "dplyr",
         "tidyselect"
@@ -11992,8 +11622,7 @@
     "InterMineR": [
         "sqldf",
         "SummarizedExperiment",
-        "RSQLite",
-        "blob"
+        "RSQLite"
     ],
     "IONiseR": [
         "dplyr",
@@ -12041,7 +11670,6 @@
         "BiocVersion",
         "interactiveDisplayBase",
         "dplyr",
-        "blob",
         "dbplyr",
         "tibble",
         "tidyselect",
@@ -12119,7 +11747,6 @@
         "ggtree",
         "tweenr",
         "ragg",
-        "blob",
         "broom",
         "car",
         "ggfun",
@@ -12210,8 +11837,7 @@
         "dbplyr",
         "miniUI",
         "tibble",
-        "tidyselect",
-        "blob"
+        "tidyselect"
     ],
     "iSEEu": [
         "iSEE",
@@ -12244,7 +11870,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "blob",
         "tidyselect"
     ],
     "IsoCorrectoR": [
@@ -12300,7 +11925,6 @@
         "progress",
         "AnnotationFilter",
         "annotate",
-        "blob",
         "shiny"
     ],
     "isomiRs": [
@@ -12325,16 +11949,14 @@
         "forcats",
         "progress",
         "vroom",
-        "annotate",
-        "blob"
+        "annotate"
     ],
     "ITALICS": [
         "oligo",
         "pd.mapping50k.xba240",
         "oligoClasses",
         "RSQLite",
-        "SummarizedExperiment",
-        "blob"
+        "SummarizedExperiment"
     ],
     "iterativeBMA": [],
     "iterativeBMAsurv": [],
@@ -12356,7 +11978,6 @@
         "BiocFileCache",
         "tidyselect",
         "testthat",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -12423,7 +12044,6 @@
         "BiocFileCache",
         "ggplot2",
         "viridis",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -12452,7 +12072,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr"
     ],
     "KCsmart": [
@@ -12464,22 +12083,19 @@
         "org.Hs.eg.db",
         "AnnotationDbi",
         "KEGGREST",
-        "RSQLite",
-        "blob"
+        "RSQLite"
     ],
     "keggorthology": [
         "hgu95av2.db",
         "AnnotationDbi",
         "RSQLite",
         "KEGGREST",
-        "org.Hs.eg.db",
-        "blob"
+        "org.Hs.eg.db"
     ],
     "KEGGREST": [],
     "KinSwingR": [
         "sqldf",
-        "RSQLite",
-        "blob"
+        "RSQLite"
     ],
     "kissDE": [
         "DESeq2",
@@ -12517,7 +12133,6 @@
         "lme4",
         "broom",
         "nloptr",
-        "blob",
         "GenomicAlignments",
         "testthat",
         "waldo",
@@ -12546,8 +12161,7 @@
         "RSQLite",
         "KEGGREST",
         "prodlim",
-        "lava",
-        "blob"
+        "lava"
     ],
     "LACE": [
         "sortable",
@@ -12574,8 +12188,7 @@
         "learnr",
         "RSQLite",
         "KEGGREST",
-        "dbplyr",
-        "blob"
+        "dbplyr"
     ],
     "LedPred": [
         "ggplot2",
@@ -12625,7 +12238,6 @@
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -12717,8 +12329,7 @@
         "tibble",
         "tidyr",
         "ggplot2",
-        "tidyselect",
-        "blob"
+        "tidyselect"
     ],
     "lisaClust": [
         "ggplot2",
@@ -12743,7 +12354,6 @@
         "scuttle",
         "tweenr",
         "nloptr",
-        "blob",
         "testthat",
         "waldo",
         "rematch2"
@@ -12804,15 +12414,13 @@
         "GenomicAlignments",
         "annotate",
         "GO.db",
-        "blob",
         "biomaRt",
         "progress"
     ],
     "LRBaseDbi": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "LRcell": [
         "ExperimentHub",
@@ -12829,8 +12437,7 @@
         "tidyselect",
         "KEGGREST",
         "dbplyr",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "lumi": [
         "methylumi",
@@ -12846,7 +12453,6 @@
         "minfi",
         "SummarizedExperiment",
         "genefilter",
-        "blob",
         "progress",
         "BiocFileCache",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -12915,7 +12521,6 @@
         "recipes",
         "SummarizedExperiment",
         "KEGGREST",
-        "blob",
         "shiny",
         "clock",
         "hardhat",
@@ -12973,7 +12578,6 @@
         "nloptr",
         "testthat",
         "broom",
-        "blob",
         "tidyr",
         "waldo",
         "rematch2"
@@ -12982,8 +12586,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "MACSQuantifyR": [
         "readxl",
@@ -13009,8 +12612,7 @@
         "dbplyr",
         "tibble",
         "tidyselect",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "made4": [
         "SummarizedExperiment"
@@ -13035,7 +12637,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr"
     ],
     "MAGAR": [
@@ -13068,7 +12669,6 @@
         "bumphunter",
         "siggenes",
         "GEOquery",
-        "blob",
         "progress",
         "BiocFileCache",
         "readr",
@@ -13126,8 +12726,7 @@
         "treeio",
         "dbplyr",
         "tweenr",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "MAI": [
         "caret",
@@ -13150,7 +12749,6 @@
         "rvest",
         "tibble",
         "tidyr",
-        "blob",
         "tidyselect",
         "gargle",
         "cellranger",
@@ -13204,8 +12802,7 @@
         "AnnotationDbi",
         "reactome.db",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "maPredictDSC": [
         "gcrma",
@@ -13224,7 +12821,6 @@
         "ipred",
         "tidyr",
         "tidyselect",
-        "blob",
         "prodlim",
         "lava"
     ],
@@ -13262,8 +12858,7 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "dbplyr",
-        "viridis",
-        "blob"
+        "viridis"
     ],
     "maskBAD": [
         "gcrma"
@@ -13308,7 +12903,6 @@
         "annotate",
         "GO.db",
         "KEGGREST",
-        "blob",
         "AnnotationDbi",
         "SummarizedExperiment",
         "tibble",
@@ -13340,7 +12934,6 @@
         "RSQLite",
         "KEGGREST",
         "waldo",
-        "blob",
         "rematch2"
     ],
     "mbkmeans": [
@@ -13363,8 +12956,7 @@
         "KEGGREST",
         "ggplot2",
         "viridis",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "mBPCR": [
         "oligoClasses",
@@ -13375,7 +12967,6 @@
         "SummarizedExperiment",
         "mice",
         "quantreg",
-        "blob",
         "broom",
         "dplyr",
         "tidyr",
@@ -13394,7 +12985,6 @@
         "RSQLite",
         "tibble",
         "gld",
-        "blob",
         "tidyselect"
     ],
     "MCbiclust": [
@@ -13413,8 +13003,7 @@
         "tibble",
         "Hmisc",
         "tidyselect",
-        "viridis",
-        "blob"
+        "viridis"
     ],
     "mCSEA": [
         "Homo.sapiens",
@@ -13446,7 +13035,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "blob",
         "tidyselect",
         "viridis"
     ],
@@ -13510,8 +13098,7 @@
         "tidyselect",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "viridis",
-        "vroom",
-        "blob"
+        "vroom"
     ],
     "MEAT": [
         "tibble",
@@ -13541,7 +13128,6 @@
         "rtracklayer",
         "biomaRt",
         "vroom",
-        "blob",
         "progress",
         "BiocFileCache",
         "Rsamtools",
@@ -13565,7 +13151,6 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -13642,8 +13227,7 @@
     "MeSHDbi": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "meshes": [
         "AnnotationDbi",
@@ -13684,7 +13268,6 @@
         "tidytree",
         "treeio",
         "shiny",
-        "blob",
         "tweenr"
     ],
     "meshr": [
@@ -13698,7 +13281,6 @@
         "GSEABase",
         "genefilter",
         "annotate",
-        "blob",
         "KEGGREST"
     ],
     "MesKit": [
@@ -13712,8 +13294,7 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
-        "blob"
+        "tidyselect"
     ],
     "messina": [
         "ggplot2",
@@ -13756,7 +13337,6 @@
         "MultiAssayExperiment",
         "plotly",
         "ggplot2",
-        "blob",
         "tidyselect",
         "tidyr"
     ],
@@ -13805,7 +13385,6 @@
         "Rsamtools",
         "tibble",
         "viridis",
-        "blob",
         "tidyselect",
         "nloptr",
         "broom",
@@ -13858,7 +13437,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tidyselect"
@@ -13927,7 +13505,6 @@
         "ggtree",
         "prodlim",
         "repr",
-        "blob",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -13982,7 +13559,6 @@
         "dendextend",
         "egg",
         "bookdown",
-        "blob",
         "prodlim",
         "ipred",
         "KEGGREST",
@@ -14017,7 +13593,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "GenomicAlignments",
         "dbplyr",
         "dplyr",
@@ -14104,7 +13679,6 @@
         "KEGGREST",
         "dbplyr",
         "shiny",
-        "blob",
         "broom",
         "car",
         "pbkrtest",
@@ -14151,7 +13725,6 @@
         "vroom",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr"
@@ -14186,7 +13759,6 @@
         "progress",
         "BiocFileCache",
         "vroom",
-        "blob",
         "dbplyr"
     ],
     "methylclock": [
@@ -14240,7 +13812,6 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "GenomicFeatures",
-        "blob",
         "AnnotationHubData",
         "annotate",
         "gargle",
@@ -14310,7 +13881,6 @@
         "bumphunter",
         "siggenes",
         "GEOquery",
-        "blob",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -14381,7 +13951,6 @@
         "dplyr",
         "ggplot2",
         "viridis",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -14403,8 +13972,7 @@
         "GenomicAlignments",
         "RSQLite",
         "KEGGREST",
-        "SummarizedExperiment",
-        "blob"
+        "SummarizedExperiment"
     ],
     "methylSig": [
         "bsseq",
@@ -14439,7 +14007,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -14491,8 +14058,7 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "MGFR": [
         "biomaRt",
@@ -14504,7 +14070,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -14532,7 +14097,6 @@
         "treeio",
         "ScaledMatrix",
         "ragg",
-        "blob",
         "tidytree"
     ],
     "miaSim": [
@@ -14581,8 +14145,7 @@
         "ScaledMatrix",
         "RSQLite",
         "tweenr",
-        "ragg",
-        "blob"
+        "ragg"
     ],
     "microbiome": [
         "phyloseq",
@@ -14637,7 +14200,6 @@
         "RSQLite",
         "KEGGREST",
         "testthat",
-        "blob",
         "waldo",
         "rematch2"
     ],
@@ -14707,7 +14269,6 @@
         "ScaledMatrix",
         "ragg",
         "lava",
-        "blob",
         "rematch2"
     ],
     "MicrobiomeProfiler": [
@@ -14750,8 +14311,7 @@
         "treeio",
         "gert",
         "cowplot",
-        "tweenr",
-        "blob"
+        "tweenr"
     ],
     "MicrobiotaProcess": [
         "tidyr",
@@ -14810,8 +14370,7 @@
         "Category",
         "annotate",
         "AnnotationForge",
-        "genefilter",
-        "blob"
+        "genefilter"
     ],
     "miloR": [
         "SingleCellExperiment",
@@ -14839,8 +14398,7 @@
         "oligoClasses",
         "gcrma",
         "RSQLite",
-        "SummarizedExperiment",
-        "blob"
+        "SummarizedExperiment"
     ],
     "MIMOSA": [
         "ggplot2",
@@ -14890,7 +14448,6 @@
         "FDb.InfiniumMethylation.hg19",
         "minfi",
         "SummarizedExperiment",
-        "blob",
         "tidyselect",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "bumphunter",
@@ -14923,7 +14480,6 @@
         "vroom",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr"
@@ -14936,7 +14492,6 @@
         "crlmm",
         "BSgenome.Hsapiens.UCSC.hg18",
         "BSgenome",
-        "blob",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments"
@@ -14960,8 +14515,7 @@
     "MiRaGE": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "mirIntegrator": [
         "ROntoTools",
@@ -14970,8 +14524,7 @@
         "AnnotationDbi",
         "RSQLite",
         "KEGGREST",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "miRLAB": [
         "Hmisc",
@@ -15003,8 +14556,7 @@
         "BiocFileCache",
         "partykit",
         "vroom",
-        "dbplyr",
-        "blob"
+        "dbplyr"
     ],
     "miRmine": [
         "SummarizedExperiment"
@@ -15013,15 +14565,13 @@
         "miRBaseVersions.db",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "miRNAtap": [
         "AnnotationDbi",
         "RSQLite",
         "sqldf",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "miRSM": [
         "WGCNA",
@@ -15095,7 +14645,6 @@
         "rstatix",
         "ggforce",
         "tidygraph",
-        "blob",
         "broom",
         "dbplyr",
         "dtplyr",
@@ -15197,7 +14746,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "blob",
         "tweenr",
         "tidytree",
         "treeio",
@@ -15253,7 +14801,6 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "blob",
         "progress",
         "BiocFileCache",
         "tidyselect",
@@ -15320,7 +14867,6 @@
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tidyselect"
@@ -15345,14 +14891,12 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
-        "blob"
+        "tidyselect"
     ],
     "MLP": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "MLSeq": [
         "caret",
@@ -15376,8 +14920,7 @@
         "RSQLite",
         "KEGGREST",
         "prodlim",
-        "lava",
-        "blob"
+        "lava"
     ],
     "MMDiff2": [
         "Rsamtools",
@@ -15430,8 +14973,7 @@
         "AnnotationDbi",
         "RSQLite",
         "KEGGREST",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "MobilityTransformR": [
         "MSnbase",
@@ -15452,8 +14994,7 @@
         "KEGGREST",
         "ggplot2",
         "viridis",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "Modstrings": [],
     "MOFA2": [
@@ -15479,8 +15020,7 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "MOMA": [
         "dplyr",
@@ -15510,7 +15050,6 @@
         "annotate",
         "GO.db",
         "KEGGREST",
-        "blob",
         "AnnotationDbi",
         "tibble",
         "vroom",
@@ -15570,7 +15109,6 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "blob",
         "tweenr"
     ],
     "mosaics": [
@@ -15632,7 +15170,6 @@
         "annotate",
         "GO.db",
         "viridis",
-        "blob",
         "tidyselect",
         "vroom"
     ],
@@ -15657,7 +15194,6 @@
         "annotate",
         "GO.db",
         "KEGGREST",
-        "blob",
         "AnnotationDbi",
         "tibble",
         "vroom",
@@ -15678,7 +15214,6 @@
         "annotate",
         "GO.db",
         "KEGGREST",
-        "blob",
         "AnnotationDbi",
         "SummarizedExperiment",
         "vroom",
@@ -15697,8 +15232,7 @@
         "tidyselect",
         "RSQLite",
         "KEGGREST",
-        "dbplyr",
-        "blob"
+        "dbplyr"
     ],
     "mpra": [
         "SummarizedExperiment"
@@ -15803,7 +15337,6 @@
         "forcats",
         "tidyr",
         "viridis",
-        "blob",
         "tidyselect"
     ],
     "msImpute": [
@@ -15823,8 +15356,7 @@
         "org.Hs.eg.db",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "msmsEDA": [
         "MSnbase",
@@ -15866,8 +15398,7 @@
         "qvalue",
         "vsn",
         "dbplyr",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "MSPrep": [
         "SummarizedExperiment",
@@ -15890,7 +15421,6 @@
         "broom",
         "ggplot2",
         "testthat",
-        "blob",
         "waldo",
         "rematch2"
     ],
@@ -15899,7 +15429,6 @@
         "dbplyr",
         "ggplot2",
         "RSQLite",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -15962,7 +15491,6 @@
         "readxl",
         "reprex",
         "rvest",
-        "blob",
         "viridis",
         "car",
         "gargle",
@@ -16158,7 +15686,6 @@
         "AnnotationFilter",
         "tensorflow",
         "tfruns",
-        "blob",
         "dbplyr",
         "viridis"
     ],
@@ -16183,7 +15710,6 @@
         "TFisher",
         "mutoss",
         "multcomp",
-        "blob",
         "sn",
         "TH.data",
         "quantreg"
@@ -16205,8 +15731,7 @@
         "dplyr",
         "RSQLite",
         "KEGGREST",
-        "tidyselect",
-        "blob"
+        "tidyselect"
     ],
     "multiOmicsViz": [
         "SummarizedExperiment"
@@ -16286,7 +15811,6 @@
         "TH.data",
         "downlit",
         "ragg",
-        "blob",
         "quantreg",
         "waldo",
         "lava",
@@ -16322,7 +15846,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr"
     ],
     "muscat": [
@@ -16360,7 +15883,6 @@
         "KEGGREST",
         "tidyr",
         "waldo",
-        "blob",
         "rematch2"
     ],
     "muscle": [],
@@ -16420,7 +15942,6 @@
         "rmarkdown",
         "vroom",
         "cellranger",
-        "blob",
         "GenomicAlignments",
         "dbplyr",
         "pbkrtest",
@@ -16455,7 +15976,6 @@
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr"
     ],
     "MWASTools": [
@@ -16491,7 +16011,6 @@
         "progress",
         "BiocFileCache",
         "tibble",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -16517,7 +16036,6 @@
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tidyselect"
@@ -16564,7 +16082,6 @@
         "tibble",
         "tidyselect",
         "TH.data",
-        "blob",
         "quantreg",
         "CNEr",
         "readr",
@@ -16596,7 +16113,6 @@
         "ggbeeswarm",
         "ragg",
         "vroom",
-        "blob",
         "rtracklayer",
         "progress",
         "GenomicAlignments"
@@ -16615,8 +16131,7 @@
         "RSQLite",
         "KEGGREST",
         "ggplot2",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "nanotatoR": [
         "testthat",
@@ -16645,7 +16160,6 @@
         "rvest",
         "tidyr",
         "RISmed",
-        "blob",
         "gargle",
         "cellranger",
         "rematch2",
@@ -16669,8 +16183,7 @@
         "annotate",
         "RSQLite",
         "KEGGREST",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "NBSplice": [
         "car",
@@ -16733,7 +16246,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr"
     ],
     "Nebulosa": [
@@ -16776,8 +16288,7 @@
         "AnnotationDbi",
         "tibble",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "netboost": [
         "WGCNA",
@@ -16788,8 +16299,7 @@
         "KEGGREST",
         "ggplot2",
         "viridis",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "netboxr": [
         "clusterProfiler",
@@ -16825,7 +16335,6 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "blob",
         "tweenr"
     ],
     "netDx": [
@@ -16838,7 +16347,6 @@
         "tibble",
         "SummarizedExperiment",
         "tidyr",
-        "blob",
         "tidyselect"
     ],
     "nethet": [
@@ -16864,7 +16372,6 @@
         "plotly",
         "dnet",
         "supraHex",
-        "blob",
         "readr",
         "vroom",
         "progress"
@@ -16897,7 +16404,6 @@
         "dplyr",
         "ggplot2",
         "viridis",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -16933,8 +16439,7 @@
         "tidyr",
         "RSQLite",
         "KEGGREST",
-        "tidyselect",
-        "blob"
+        "tidyselect"
     ],
     "netZooR": [
         "pandaR",
@@ -16970,7 +16475,6 @@
         "repr",
         "minfi",
         "vroom",
-        "blob",
         "dbplyr",
         "SummarizedExperiment",
         "bumphunter",
@@ -17020,7 +16524,6 @@
         "dplyr",
         "RSQLite",
         "scuttle",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -17051,7 +16554,6 @@
         "AnnotationDbi",
         "progress",
         "BiocFileCache",
-        "blob",
         "tibble",
         "tidyselect",
         "vroom",
@@ -17115,8 +16617,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "nucleR": [
         "Rsamtools",
@@ -17165,7 +16666,6 @@
         "tidyr",
         "GenomicAlignments",
         "KEGGREST",
-        "blob",
         "tidyselect",
         "shiny"
     ],
@@ -17205,7 +16705,6 @@
         "annotate",
         "rtracklayer",
         "shiny",
-        "blob",
         "GenomicAlignments"
     ],
     "ODER": [
@@ -17242,7 +16741,6 @@
         "KEGGREST",
         "testthat",
         "usethis",
-        "blob",
         "biomaRt",
         "VariantAnnotation",
         "viridis",
@@ -17295,19 +16793,16 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "AnnotationFilter",
-        "blob",
         "viridis"
     ],
     "oligo": [
         "oligoClasses",
         "RSQLite",
-        "SummarizedExperiment",
-        "blob"
+        "SummarizedExperiment"
     ],
     "oligoClasses": [
         "SummarizedExperiment",
-        "RSQLite",
-        "blob"
+        "RSQLite"
     ],
     "omada": [
         "diceR",
@@ -17336,8 +16831,7 @@
         "GO.db",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "omicade4": [
         "made4",
@@ -17386,7 +16880,6 @@
         "quantreg",
         "tidyselect",
         "testthat",
-        "blob",
         "waldo",
         "rematch2"
     ],
@@ -17436,7 +16929,6 @@
         "BiocFileCache",
         "nloptr",
         "broom",
-        "blob",
         "dbplyr",
         "testthat",
         "waldo",
@@ -17469,7 +16961,6 @@
         "tibble",
         "tidyr",
         "dplyr",
-        "blob",
         "ggpubr",
         "broom",
         "survMisc",
@@ -17533,7 +17024,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -17580,8 +17070,7 @@
         "dbplyr",
         "tibble",
         "tidyselect",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "openCyto": [
         "flowViz",
@@ -17600,8 +17089,7 @@
         "RSQLite",
         "tibble",
         "tidyselect",
-        "viridis",
-        "blob"
+        "viridis"
     ],
     "openPrimeRui": [
         "openPrimeR",
@@ -17617,8 +17105,7 @@
         "RSQLite",
         "tibble",
         "tidyselect",
-        "viridis",
-        "blob"
+        "viridis"
     ],
     "OpenStats": [
         "Hmisc",
@@ -17650,7 +17137,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -17664,8 +17150,7 @@
         "BiocSingular",
         "RSQLite",
         "KEGGREST",
-        "ScaledMatrix",
-        "blob"
+        "ScaledMatrix"
     ],
     "oppti": [
         "ggplot2",
@@ -17728,8 +17213,7 @@
         "dbplyr",
         "tidyselect",
         "annotate",
-        "vroom",
-        "blob"
+        "vroom"
     ],
     "Organism.dplyr": [
         "dplyr",
@@ -17741,7 +17225,6 @@
         "dbplyr",
         "tibble",
         "KEGGREST",
-        "blob",
         "tidyselect",
         "rtracklayer",
         "biomaRt",
@@ -17759,7 +17242,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -17842,7 +17324,6 @@
         "BiocFileCache",
         "tidyselect",
         "annotate",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr"
@@ -17856,8 +17337,7 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "packFinder": [
         "kmer"
@@ -17888,8 +17368,7 @@
         "hgu133a.db",
         "KEGGREST",
         "RSQLite",
-        "org.Hs.eg.db",
-        "blob"
+        "org.Hs.eg.db"
     ],
     "pageRank": [
         "motifmatchr",
@@ -17906,7 +17385,6 @@
         "annotate",
         "GO.db",
         "KEGGREST",
-        "blob",
         "AnnotationDbi",
         "tibble",
         "vroom",
@@ -17979,7 +17457,6 @@
         "tidytree",
         "treeio",
         "TH.data",
-        "blob",
         "quantreg",
         "tweenr"
     ],
@@ -18021,13 +17498,11 @@
         "tweenr",
         "GO.db",
         "waldo",
-        "blob",
         "rematch2"
     ],
     "parglms": [
         "BatchJobs",
-        "RSQLite",
-        "blob"
+        "RSQLite"
     ],
     "PAST": [
         "dplyr",
@@ -18071,14 +17546,12 @@
         "gert",
         "RSQLite",
         "KEGGREST",
-        "rematch2",
-        "blob"
+        "rematch2"
     ],
     "pathRender": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "pathVar": [
         "ggplot2",
@@ -18088,8 +17561,7 @@
         "AnnotationDbi",
         "org.Hs.eg.db",
         "KEGGREST",
-        "RSQLite",
-        "blob"
+        "RSQLite"
     ],
     "paxtoolsr": [
         "readr",
@@ -18133,8 +17605,7 @@
         "dplyr",
         "tidyselect",
         "dbplyr",
-        "GSEABase",
-        "blob"
+        "GSEABase"
     ],
     "PCAN": [],
     "PCAtools": [
@@ -18195,7 +17666,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "blob",
         "nloptr",
         "testthat",
         "waldo",
@@ -18205,8 +17675,7 @@
         "RSQLite",
         "oligo",
         "oligoClasses",
-        "SummarizedExperiment",
-        "blob"
+        "SummarizedExperiment"
     ],
     "PeacoQC": [
         "flowWorkspace",
@@ -18234,8 +17703,7 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "peco": [
         "scater",
@@ -18315,7 +17783,6 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "blob",
         "tweenr"
     ],
     "phantasus": [
@@ -18337,7 +17804,6 @@
         "tidyselect",
         "annotate",
         "vroom",
-        "blob",
         "progress"
     ],
     "PharmacoGx": [
@@ -18381,7 +17847,6 @@
         "dplyr",
         "tidyselect",
         "dbplyr",
-        "blob",
         "waldo",
         "rematch2"
     ],
@@ -18412,7 +17877,6 @@
         "viridis",
         "dbplyr",
         "dplyr",
-        "blob",
         "tidyselect"
     ],
     "PhenStat": [
@@ -18453,7 +17917,6 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -18514,7 +17977,6 @@
         "dbplyr",
         "GO.db",
         "KEGGREST",
-        "blob",
         "tidyselect"
     ],
     "phyloseq": [
@@ -18604,8 +18066,7 @@
         "patchwork",
         "tweenr",
         "tidytree",
-        "treeio",
-        "blob"
+        "treeio"
     ],
     "PING": [
         "PICS",
@@ -18635,7 +18096,6 @@
         "ggplot2",
         "viridis",
         "hdrcde",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -18686,8 +18146,7 @@
     "plethy": [
         "RSQLite",
         "ggplot2",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "PloGO2": [
         "GO.db",
@@ -18699,8 +18158,7 @@
         "RSQLite",
         "KEGGREST",
         "GSEABase",
-        "genefilter",
-        "blob"
+        "genefilter"
     ],
     "plotgardener": [
         "dplyr",
@@ -18803,8 +18261,7 @@
         "interactiveDisplayBase",
         "dbplyr",
         "tidyselect",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "polyester": [],
     "POMA": [
@@ -18831,16 +18288,14 @@
         "RSQLite",
         "KEGGREST",
         "prodlim",
-        "lava",
-        "blob"
+        "lava"
     ],
     "PoTRA": [
         "org.Hs.eg.db",
         "graphite",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "powerTCR": [
         "vegan"
@@ -18883,7 +18338,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "blob",
         "tidyselect"
     ],
     "pqsfinder": [],
@@ -18933,7 +18387,6 @@
         "progress",
         "BiocFileCache",
         "prodlim",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -18944,8 +18397,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "primirTSS": [
         "rtracklayer",
@@ -18984,7 +18436,6 @@
         "ggplot2",
         "annotate",
         "GO.db",
-        "blob",
         "viridis",
         "vroom"
     ],
@@ -19023,7 +18474,6 @@
         "progress",
         "BiocFileCache",
         "annotate",
-        "blob",
         "dbplyr"
     ],
     "proBAMr": [
@@ -19038,7 +18488,6 @@
         "progress",
         "BiocFileCache",
         "SummarizedExperiment",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -19066,7 +18515,6 @@
         "annotate",
         "nloptr",
         "testthat",
-        "blob",
         "waldo",
         "rematch2"
     ],
@@ -19136,7 +18584,6 @@
         "shadowtext",
         "GOSemSim",
         "ggtree",
-        "blob",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -19205,7 +18652,6 @@
         "ipred",
         "tidyr",
         "tidyselect",
-        "blob",
         "prodlim",
         "lava"
     ],
@@ -19248,7 +18694,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "blob",
         "prodlim",
         "lava"
     ],
@@ -19257,8 +18702,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "PROPS": [
         "sva",
@@ -19266,8 +18710,7 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "Prostar": [
         "DAPAR",
@@ -19307,7 +18750,6 @@
         "KEGGREST",
         "biomaRt",
         "GO.db",
-        "blob",
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
@@ -19335,7 +18777,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "GenomicAlignments",
         "dbplyr"
     ],
@@ -19351,7 +18792,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "blob",
         "tidyselect"
     ],
     "protGear": [
@@ -19395,7 +18835,6 @@
         "viridis",
         "broom",
         "nloptr",
-        "blob",
         "testthat",
         "waldo",
         "rematch2"
@@ -19429,7 +18868,6 @@
         "derfinder",
         "GEOquery",
         "rtracklayer",
-        "blob",
         "bumphunter",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -19473,8 +18911,7 @@
         "tibble",
         "KEGGREST",
         "dbplyr",
-        "tidyselect",
-        "blob"
+        "tidyselect"
     ],
     "ptairMS": [
         "ggplot2",
@@ -19509,8 +18946,7 @@
         "oligo",
         "oligoClasses",
         "RSQLite",
-        "SummarizedExperiment",
-        "blob"
+        "SummarizedExperiment"
     ],
     "PureCN": [
         "VariantAnnotation",
@@ -19528,7 +18964,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tidyselect"
@@ -19567,7 +19002,6 @@
         "dbplyr",
         "dplyr",
         "tibble",
-        "blob",
         "tidyselect"
     ],
     "PWMEnrich": [],
@@ -19587,8 +19021,7 @@
         "dbplyr",
         "tibble",
         "tidyselect",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "pwrEWAS": [
         "shinyBS",
@@ -19609,7 +19042,6 @@
         "interactiveDisplayBase",
         "dplyr",
         "dbplyr",
-        "blob",
         "tidyselect"
     ],
     "qckitfastq": [
@@ -19666,7 +19098,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -19712,7 +19143,6 @@
         "rematch2",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tidyselect"
@@ -19735,8 +19165,7 @@
         "annotate",
         "tibble",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "QSutils": [],
     "qsvaR": [
@@ -19748,8 +19177,7 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "Qtlizer": [],
     "quantiseqr": [
@@ -19783,7 +19211,6 @@
         "vroom",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr"
@@ -19812,7 +19239,6 @@
         "VariantAnnotation",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -19863,7 +19289,6 @@
         "tidyr",
         "BiocFileCache",
         "tidyselect",
-        "blob",
         "dbplyr"
     ],
     "r3Cseq": [
@@ -19875,8 +19300,7 @@
         "GenomicAlignments",
         "RSQLite",
         "SummarizedExperiment",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "R453Plus1Toolbox": [
         "VariantAnnotation",
@@ -19895,7 +19319,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -19938,7 +19361,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -19982,7 +19404,6 @@
         "dplyr",
         "dbplyr",
         "progress",
-        "blob",
         "GenomicAlignments",
         "tibble",
         "tidyselect",
@@ -20032,7 +19453,6 @@
         "tibble",
         "tidyr",
         "dplyr",
-        "blob",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -20063,7 +19483,6 @@
         "tibble",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -20083,8 +19502,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "RCM": [
         "tseries",
@@ -20100,8 +19518,7 @@
         "AnnotationDbi",
         "GO.db",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "RCSL": [
         "ggplot2",
@@ -20131,7 +19548,6 @@
         "DiagrammeR",
         "shiny",
         "progress",
-        "blob",
         "tibble",
         "tidyselect",
         "readr",
@@ -20198,8 +19614,7 @@
         "tweenr",
         "tidytree",
         "treeio",
-        "GO.db",
-        "blob"
+        "GO.db"
     ],
     "REBET": [
         "ASSET",
@@ -20251,7 +19666,6 @@
         "vroom",
         "progress",
         "BiocFileCache",
-        "blob",
         "BSgenome",
         "dbplyr"
     ],
@@ -20264,7 +19678,6 @@
         "RSQLite",
         "Rsamtools",
         "GenomicAlignments",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -20282,7 +19695,6 @@
         "GEOquery",
         "GenomicFeatures",
         "AnnotationDbi",
-        "blob",
         "tibble",
         "tidyselect",
         "annotate",
@@ -20309,7 +19721,6 @@
         "BiocFileCache",
         "SummarizedExperiment",
         "tibble",
-        "blob",
         "KEGGREST",
         "dbplyr",
         "dplyr",
@@ -20338,7 +19749,6 @@
         "tibble",
         "tidyselect",
         "AnnotationFilter",
-        "blob",
         "dbplyr"
     ],
     "RefPlus": [
@@ -20368,8 +19778,7 @@
         "GO.db",
         "RSQLite",
         "annotate",
-        "viridis",
-        "blob"
+        "viridis"
     ],
     "regioneR": [
         "BSgenome",
@@ -20419,7 +19828,6 @@
         "viridis",
         "progress",
         "BiocFileCache",
-        "blob",
         "BSgenome",
         "dbplyr",
         "dplyr",
@@ -20450,7 +19858,6 @@
         "GenomicAlignments",
         "IRkernel",
         "IRdisplay",
-        "blob",
         "progress",
         "Hmisc",
         "SummarizedExperiment",
@@ -20498,7 +19905,6 @@
         "clock",
         "hardhat",
         "ipred",
-        "blob",
         "progress",
         "biomaRt",
         "prodlim",
@@ -20518,8 +19924,7 @@
         "ggplot2",
         "RSQLite",
         "KEGGREST",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "ReportingTools": [
         "Category",
@@ -20557,7 +19962,6 @@
         "progress",
         "tidyr",
         "viridis",
-        "blob",
         "BiocFileCache",
         "tidyselect",
         "dbplyr"
@@ -20572,7 +19976,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -20611,8 +20014,7 @@
         "tibble",
         "tidyselect",
         "dbplyr",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "rexposome": [
         "FactoMineR",
@@ -20667,8 +20069,7 @@
         "dbplyr",
         "tibble",
         "tidyselect",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "RGMQL": [
         "rtracklayer",
@@ -20694,7 +20095,6 @@
         "progress",
         "BiocFileCache",
         "Rsamtools",
-        "blob",
         "GenomicAlignments",
         "dbplyr",
         "dplyr",
@@ -20720,7 +20120,6 @@
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -20750,7 +20149,6 @@
         "GenomicFeatures",
         "annotate",
         "tibble",
-        "blob",
         "tidyselect",
         "Rsamtools",
         "GenomicAlignments"
@@ -20769,7 +20167,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -20800,7 +20197,6 @@
         "BiocFileCache",
         "readr",
         "geneplotter",
-        "blob",
         "dbplyr",
         "annotate",
         "vroom"
@@ -20826,7 +20222,6 @@
         "densEstBayes",
         "KEGGREST",
         "progress",
-        "blob",
         "tidyselect",
         "rstan",
         "annotate"
@@ -20859,7 +20254,6 @@
         "forcats",
         "tidyr",
         "viridis",
-        "blob",
         "dbplyr",
         "tidyselect"
     ],
@@ -20896,7 +20290,6 @@
         "TFBSTools",
         "progress",
         "BiocFileCache",
-        "blob",
         "CNEr",
         "dbplyr",
         "dplyr",
@@ -20933,8 +20326,7 @@
         "sqldf",
         "RSQLite",
         "tibble",
-        "tidyselect",
-        "blob"
+        "tidyselect"
     ],
     "Ringo": [
         "genefilter",
@@ -20944,8 +20336,7 @@
         "ggplot2",
         "RSQLite",
         "KEGGREST",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "RIPAT": [
         "biomaRt",
@@ -20972,7 +20363,6 @@
         "SummarizedExperiment",
         "ensembldb",
         "AnnotationFilter",
-        "blob",
         "tidyselect",
         "viridis"
     ],
@@ -21007,7 +20397,6 @@
         "progress",
         "BiocFileCache",
         "tidyselect",
-        "blob",
         "GenomicAlignments",
         "GO.db",
         "dbplyr",
@@ -21060,7 +20449,6 @@
         "SummarizedExperiment",
         "shiny",
         "vroom",
-        "blob",
         "clock",
         "hardhat",
         "ipred",
@@ -21112,7 +20500,6 @@
         "gert",
         "progress",
         "BiocFileCache",
-        "blob",
         "GenomicAlignments",
         "rematch2",
         "dbplyr",
@@ -21147,7 +20534,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "blob",
         "tidyselect",
         "biomaRt",
         "VariantAnnotation",
@@ -21184,7 +20570,6 @@
         "tibble",
         "ggplot2",
         "tidyselect",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -21205,8 +20590,7 @@
         "RSQLite",
         "KEGGREST",
         "ggplot2",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "RNAmodR": [
         "Modstrings",
@@ -21230,7 +20614,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "blob",
         "dbplyr",
         "dplyr",
         "viridis",
@@ -21262,7 +20645,6 @@
         "dbplyr",
         "dplyr",
         "viridis",
-        "blob",
         "tidyselect"
     ],
     "RNAmodR.ML": [
@@ -21288,7 +20670,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "blob",
         "dbplyr",
         "dplyr",
         "viridis",
@@ -21320,7 +20701,6 @@
         "dbplyr",
         "dplyr",
         "viridis",
-        "blob",
         "tidyselect"
     ],
     "RNAsense": [
@@ -21393,7 +20773,6 @@
         "treeio",
         "nloptr",
         "broom",
-        "blob",
         "tweenr",
         "testthat",
         "waldo",
@@ -21436,7 +20815,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "blob",
         "VariantAnnotation",
         "viridis",
         "vroom",
@@ -21473,7 +20851,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -21536,7 +20913,6 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -21567,7 +20943,6 @@
         "BSgenome",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tidyselect"
@@ -21620,8 +20995,7 @@
         "shiny",
         "RSQLite",
         "KEGGREST",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "Rsamtools": [],
     "rScudo": [
@@ -21688,7 +21062,6 @@
         "BiocFileCache",
         "tidyselect",
         "vroom",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr"
@@ -21773,8 +21146,7 @@
     "rTRM": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "rTRMui": [
         "shiny",
@@ -21786,7 +21158,6 @@
         "AnnotationDbi",
         "RSQLite",
         "KEGGREST",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -21819,7 +21190,6 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -21842,8 +21212,7 @@
     "safe": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "SAIGEgds": [
         "SeqArray"
@@ -21862,7 +21231,6 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "blob",
         "tidyselect"
     ],
     "sangeranalyseR": [
@@ -21884,8 +21252,7 @@
         "tidyr",
         "dplyr",
         "tibble",
-        "tidyselect",
-        "blob"
+        "tidyselect"
     ],
     "sangerseqR": [
         "shiny"
@@ -21909,8 +21276,7 @@
         "KEGGREST",
         "bookdown",
         "RSQLite",
-        "org.Hs.eg.db",
-        "blob"
+        "org.Hs.eg.db"
     ],
     "SC3": [
         "shiny",
@@ -21962,7 +21328,6 @@
         "annotate",
         "SummarizedExperiment",
         "vroom",
-        "blob",
         "KEGGREST",
         "progress"
     ],
@@ -22005,8 +21370,7 @@
         "dbplyr",
         "progress",
         "tidyselect",
-        "SummarizedExperiment",
-        "blob"
+        "SummarizedExperiment"
     ],
     "scAnnotatR": [
         "Seurat",
@@ -22041,7 +21405,6 @@
         "clock",
         "hardhat",
         "ipred",
-        "blob",
         "prodlim",
         "lava"
     ],
@@ -22070,7 +21433,6 @@
         "dplyr",
         "dbplyr",
         "KEGGREST",
-        "blob",
         "tibble",
         "tidyselect",
         "shiny"
@@ -22120,8 +21482,7 @@
         "dplyr",
         "RSQLite",
         "KEGGREST",
-        "tidyselect",
-        "blob"
+        "tidyselect"
     ],
     "scBubbletree": [
         "Seurat",
@@ -22191,8 +21552,7 @@
         "AnnotationDbi",
         "tidyr",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "sccomp": [
         "rstan",
@@ -22320,8 +21680,7 @@
         "RSQLite",
         "KEGGREST",
         "prodlim",
-        "lava",
-        "blob"
+        "lava"
     ],
     "schex": [
         "SingleCellExperiment",
@@ -22368,8 +21727,7 @@
         "RSQLite",
         "tidyselect",
         "rvest",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "scMAGeCK": [
         "Seurat",
@@ -22453,7 +21811,6 @@
         "biomaRt",
         "shiny",
         "vroom",
-        "blob",
         "GenomicAlignments",
         "progress"
     ],
@@ -22483,7 +21840,6 @@
         "GenomicAlignments",
         "dbplyr",
         "dplyr",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -22525,7 +21881,6 @@
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -22584,7 +21939,6 @@
         "dbplyr",
         "ScaledMatrix",
         "ragg",
-        "blob",
         "rematch2"
     ],
     "scran": [
@@ -22661,7 +22015,6 @@
         "forcats",
         "tidyr",
         "viridis",
-        "blob",
         "dbplyr",
         "tidyselect"
     ],
@@ -22718,7 +22071,6 @@
         "ggraph",
         "graphite",
         "gson",
-        "blob",
         "Seurat",
         "shiny",
         "ggforce",
@@ -22784,8 +22136,7 @@
         "scattermore",
         "sctransform",
         "SeuratObject",
-        "spatstat.explore",
-        "blob"
+        "spatstat.explore"
     ],
     "scTHI": [],
     "scTreeViz": [
@@ -22838,7 +22189,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "GenomicAlignments",
         "dbplyr"
     ],
@@ -22897,7 +22247,6 @@
         "tidytree",
         "treeio",
         "GO.db",
-        "blob",
         "dbplyr",
         "cowplot",
         "tweenr"
@@ -22930,7 +22279,6 @@
         "progress",
         "BiocFileCache",
         "Rsamtools",
-        "blob",
         "GenomicAlignments",
         "dbplyr",
         "SummarizedExperiment"
@@ -22941,8 +22289,7 @@
         "GO.db",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "seq2pathway": [
         "WGCNA",
@@ -22958,7 +22305,6 @@
         "dplyr",
         "ggplot2",
         "viridis",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -22988,7 +22334,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr"
     ],
     "seqcombo": [
@@ -23013,7 +22358,6 @@
         "dplyr",
         "annotate",
         "tibble",
-        "blob",
         "tidyselect"
     ],
     "seqPattern": [],
@@ -23049,7 +22393,6 @@
         "dbplyr",
         "tidyselect",
         "KEGGREST",
-        "blob",
         "shiny"
     ],
     "SeqVarTools": [
@@ -23080,7 +22423,6 @@
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "blob",
         "progress",
         "KEGGREST",
         "shiny"
@@ -23097,8 +22439,7 @@
         "annotate",
         "tibble",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "sevenbridges": [],
     "sevenC": [
@@ -23125,7 +22466,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -23167,7 +22507,6 @@
         "vroom",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr"
     ],
     "shinyMethyl": [
@@ -23194,7 +22533,6 @@
         "vroom",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr"
@@ -23236,8 +22574,7 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
-        "blob"
+        "tidyselect"
     ],
     "sigFeature": [
         "SummarizedExperiment"
@@ -23281,7 +22618,6 @@
         "cowplot",
         "annotate",
         "vroom",
-        "blob",
         "BiocVersion",
         "interactiveDisplayBase",
         "dbplyr",
@@ -23346,7 +22682,6 @@
         "AnnotationDbi",
         "GenomicFeatures",
         "KEGGREST",
-        "blob",
         "biomaRt",
         "car",
         "waldo",
@@ -23402,7 +22737,6 @@
         "rstatix",
         "annotate",
         "vroom",
-        "blob",
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
@@ -23433,7 +22767,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -23446,8 +22779,7 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "SIMAT": [
         "ggplot2",
@@ -23462,8 +22794,7 @@
         "ggplot2",
         "RSQLite",
         "KEGGREST",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "SimBu": [
         "dplyr",
@@ -23498,7 +22829,6 @@
         "dplyr",
         "RSQLite",
         "scuttle",
-        "blob",
         "tidyselect"
     ],
     "simplifyEnrichment": [
@@ -23507,8 +22837,7 @@
         "org.Hs.eg.db",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "sincell": [
         "ggplot2",
@@ -23635,7 +22964,6 @@
         "reldist",
         "Hmisc",
         "multcomp",
-        "blob",
         "GenomicAlignments",
         "sn",
         "TH.data",
@@ -23660,7 +22988,6 @@
         "VariantAnnotation",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -23684,8 +23011,7 @@
         "dplyr",
         "tidyselect",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "SISPA": [
         "genefilter",
@@ -23700,8 +23026,7 @@
         "BiocSingular",
         "RSQLite",
         "KEGGREST",
-        "ScaledMatrix",
-        "blob"
+        "ScaledMatrix"
     ],
     "sitadela": [
         "biomaRt",
@@ -23712,7 +23037,6 @@
         "AnnotationDbi",
         "progress",
         "BiocFileCache",
-        "blob",
         "GenomicAlignments",
         "KEGGREST",
         "dbplyr",
@@ -23768,7 +23092,6 @@
         "BiocFileCache",
         "tidyselect",
         "vroom",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr"
@@ -23782,8 +23105,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "slingshot": [
         "TrajectoryUtils",
@@ -23813,7 +23135,6 @@
         "GO.db",
         "viridis",
         "biomaRt",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "progress",
@@ -23833,8 +23154,7 @@
         "ggplot2",
         "RSQLite",
         "KEGGREST",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "snapcount": [
         "SummarizedExperiment"
@@ -23866,7 +23186,6 @@
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tidyselect"
@@ -23920,7 +23239,6 @@
         "viridis",
         "BiocFileCache",
         "tidyselect",
-        "blob",
         "dbplyr"
     ],
     "SpacePAC": [
@@ -23972,8 +23290,7 @@
         "tidyr",
         "annotate",
         "RSQLite",
-        "tidyselect",
-        "blob"
+        "tidyselect"
     ],
     "sparseDOSSA": [
         "MCMCpack",
@@ -24002,8 +23319,7 @@
         "BiocFileCache",
         "dbplyr",
         "RSQLite",
-        "scuttle",
-        "blob"
+        "scuttle"
     ],
     "SpatialCPie": [
         "dplyr",
@@ -24037,7 +23353,6 @@
         "dplyr",
         "RSQLite",
         "scuttle",
-        "blob",
         "tidyselect"
     ],
     "SpatialDecon": [
@@ -24075,7 +23390,6 @@
         "dplyr",
         "RSQLite",
         "scuttle",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -24091,7 +23405,6 @@
         "dplyr",
         "RSQLite",
         "scuttle",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -24129,7 +23442,6 @@
         "GO.db",
         "KEGGREST",
         "ScaledMatrix",
-        "blob",
         "ragg"
     ],
     "spatzie": [
@@ -24160,7 +23472,6 @@
         "tidyselect",
         "ensembldb",
         "biovizBase",
-        "blob",
         "dbplyr",
         "Hmisc",
         "VariantAnnotation",
@@ -24170,8 +23481,7 @@
     ],
     "specL": [
         "RSQLite",
-        "seqinr",
-        "blob"
+        "seqinr"
     ],
     "SpeCond": [
         "fields",
@@ -24219,8 +23529,7 @@
         "dbplyr",
         "RSQLite",
         "miniUI",
-        "scuttle",
-        "blob"
+        "scuttle"
     ],
     "spicyR": [
         "ggplot2",
@@ -24245,7 +23554,6 @@
         "RSQLite",
         "scuttle",
         "testthat",
-        "blob",
         "waldo",
         "rematch2"
     ],
@@ -24256,8 +23564,7 @@
         "org.Hs.eg.db",
         "RSQLite",
         "KEGGREST",
-        "sqldf",
-        "blob"
+        "sqldf"
     ],
     "spiky": [
         "Rsamtools",
@@ -24315,7 +23622,6 @@
         "tidyr",
         "GenomicAlignments",
         "KEGGREST",
-        "blob",
         "tidyselect"
     ],
     "SplicingFactory": [
@@ -24333,7 +23639,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -24344,8 +23649,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "SPLINTER": [
         "ggplot2",
@@ -24371,7 +23675,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "blob",
         "tidyselect",
         "viridis"
     ],
@@ -24415,7 +23718,6 @@
         "rvest",
         "RSQLite",
         "KEGGREST",
-        "blob",
         "gargle",
         "cellranger",
         "rematch2",
@@ -24459,8 +23761,7 @@
         "dbplyr",
         "RSQLite",
         "scuttle",
-        "tidyr",
-        "blob"
+        "tidyr"
     ],
     "SPOTlight": [
         "ggplot2",
@@ -24488,15 +23789,13 @@
         "AnnotationDbi",
         "RSQLite",
         "KEGGREST",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "SQLDataFrame": [
         "dplyr",
         "dbplyr",
         "RSQLite",
         "tibble",
-        "blob",
         "tidyselect"
     ],
     "sRACIPE": [
@@ -24510,7 +23809,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "blob",
         "tibble",
         "tidyselect",
         "vroom",
@@ -24553,7 +23851,6 @@
         "shiny",
         "downlit",
         "ragg",
-        "blob",
         "waldo",
         "gert",
         "dbplyr",
@@ -24583,8 +23880,7 @@
         "AnnotationDbi",
         "RSQLite",
         "KEGGREST",
-        "tidyr",
-        "blob"
+        "tidyr"
     ],
     "ssPATHS": [
         "SummarizedExperiment",
@@ -24645,7 +23941,6 @@
         "dplyr",
         "ggplot2",
         "viridis",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -24677,7 +23972,6 @@
         "GenomicFeatures",
         "progress",
         "KEGGREST",
-        "blob",
         "rtracklayer",
         "GenomicAlignments"
     ],
@@ -24692,8 +23986,7 @@
         "ggplot2",
         "RSQLite",
         "KEGGREST",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "StarBioTrek": [
         "SpidermiR",
@@ -24706,8 +23999,7 @@
         "miRNAtap",
         "miRNAtap.db",
         "org.Hs.eg.db",
-        "sqldf",
-        "blob"
+        "sqldf"
     ],
     "STATegRa": [
         "ggplot2",
@@ -24737,7 +24029,6 @@
         "readxl",
         "reprex",
         "rvest",
-        "blob",
         "gargle",
         "cellranger",
         "rematch2",
@@ -24785,8 +24076,7 @@
         "dbplyr",
         "RSQLite",
         "scuttle",
-        "tidyr",
-        "blob"
+        "tidyr"
     ],
     "strandCheckR": [
         "dplyr",
@@ -24806,13 +24096,11 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr"
     ],
     "STRINGdb": [
         "sqldf",
-        "RSQLite",
-        "blob"
+        "RSQLite"
     ],
     "STROMA4": [],
     "struct": [
@@ -24847,7 +24135,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr"
     ],
     "SubCellBarCode": [
@@ -24866,7 +24153,6 @@
         "ipred",
         "tidyr",
         "tidyselect",
-        "blob",
         "prodlim",
         "lava"
     ],
@@ -24944,8 +24230,7 @@
         "RSQLite",
         "KEGGREST",
         "dbplyr",
-        "rematch2",
-        "blob"
+        "rematch2"
     ],
     "survcomp": [
         "prodlim",
@@ -24984,8 +24269,7 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "svaNUMT": [
         "rtracklayer",
@@ -25005,7 +24289,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr"
     ],
     "svaRetro": [
@@ -25026,7 +24309,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr"
     ],
     "SWATH2stats": [
@@ -25040,7 +24322,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "blob",
         "tidyselect"
     ],
     "SwathXtend": [],
@@ -25106,7 +24387,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "blob",
         "viridis",
         "gargle",
         "cellranger",
@@ -25122,8 +24402,7 @@
     ],
     "SynExtend": [
         "DECIPHER",
-        "RSQLite",
-        "blob"
+        "RSQLite"
     ],
     "synlet": [
         "ggplot2",
@@ -25191,7 +24470,6 @@
         "rmarkdown",
         "tidyselect",
         "tidyr",
-        "blob",
         "fresh",
         "waiter",
         "progress"
@@ -25220,8 +24498,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "TADCompare": [
         "dplyr",
@@ -25281,7 +24558,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr"
     ],
     "target": [
@@ -25345,8 +24621,7 @@
         "genefilter",
         "tidyselect",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "TCC": [
         "DESeq2",
@@ -25358,8 +24633,7 @@
         "AnnotationDbi",
         "tibble",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "TCGAbiolinks": [
         "biomaRt",
@@ -25377,8 +24651,7 @@
         "vroom",
         "RSQLite",
         "KEGGREST",
-        "dbplyr",
-        "blob"
+        "dbplyr"
     ],
     "TCGAbiolinksGUI": [
         "shinydashboard",
@@ -25458,7 +24731,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "blob",
         "ggforce",
         "viridis",
         "tidygraph",
@@ -25497,7 +24769,6 @@
         "BiocFileCache",
         "tidyselect",
         "vroom",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr"
@@ -25528,7 +24799,6 @@
         "dplyr",
         "annotate",
         "tibble",
-        "blob",
         "tidyselect"
     ],
     "TENxIO": [
@@ -25562,8 +24832,7 @@
         "progress",
         "tibble",
         "dbplyr",
-        "tidyselect",
-        "blob"
+        "tidyselect"
     ],
     "TEQC": [
         "Rsamtools"
@@ -25592,7 +24861,6 @@
         "GenomicDataCommons",
         "rvest",
         "KEGGREST",
-        "blob",
         "rtracklayer",
         "biomaRt",
         "progress",
@@ -25617,7 +24885,6 @@
         "annotate",
         "GO.db",
         "KEGGREST",
-        "blob",
         "AnnotationDbi",
         "SummarizedExperiment",
         "tibble",
@@ -25639,7 +24906,6 @@
         "rtracklayer",
         "KEGGREST",
         "dbplyr",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -25669,8 +24935,7 @@
         "dbplyr",
         "tidyselect",
         "annotate",
-        "vroom",
-        "blob"
+        "vroom"
     ],
     "TFutils": [
         "dplyr",
@@ -25689,8 +24954,7 @@
         "tidyselect",
         "annotate",
         "cellranger",
-        "progress",
-        "blob"
+        "progress"
     ],
     "tidybulk": [
         "tibble",
@@ -25726,8 +24990,7 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "TileDBArray": [
         "tiledb"
@@ -25740,8 +25003,7 @@
         "ggplot2",
         "RSQLite",
         "KEGGREST",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "timeOmics": [
         "mixOmics",
@@ -25804,7 +25066,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "blob",
         "cowplot",
         "ggforce",
         "viridis",
@@ -25828,8 +25089,7 @@
         "PSCBS",
         "ggplot2",
         "viridis",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "TissueEnrich": [
         "ggplot2",
@@ -25842,8 +25102,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "TitanCNA": [
         "VariantAnnotation",
@@ -25862,7 +25121,6 @@
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr"
     ],
     "tLOH": [
@@ -25899,7 +25157,6 @@
         "BiocFileCache",
         "prodlim",
         "vroom",
-        "blob",
         "dbplyr",
         "lava"
     ],
@@ -25934,7 +25191,6 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "blob",
         "testthat",
         "waldo",
         "rematch2"
@@ -25970,7 +25226,6 @@
         "tidyselect",
         "tidyr",
         "vroom",
-        "blob",
         "progress"
     ],
     "topconfects": [
@@ -25987,8 +25242,7 @@
         "GO.db",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "ToxicoGx": [
         "CoreGx",
@@ -26047,7 +25301,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "blob",
         "dbplyr",
         "dplyr",
         "ggplot2",
@@ -26086,8 +25339,7 @@
         "GO.db",
         "RSQLite",
         "KEGGREST",
-        "dbplyr",
-        "blob"
+        "dbplyr"
     ],
     "transcriptR": [
         "caret",
@@ -26113,7 +25365,6 @@
         "ipred",
         "tidyr",
         "tidyselect",
-        "blob",
         "dbplyr",
         "prodlim",
         "lava"
@@ -26145,8 +25396,7 @@
         "RSQLite",
         "KEGGREST",
         "annotate",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "transomics2cytoscape": [
         "RCy3",
@@ -26260,7 +25510,6 @@
         "BiocFileCache",
         "rtracklayer",
         "Rsamtools",
-        "blob",
         "Hmisc",
         "GO.db",
         "dbplyr",
@@ -26290,7 +25539,6 @@
         "progress",
         "BiocFileCache",
         "SummarizedExperiment",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -26316,8 +25564,7 @@
         "ggrastr",
         "ggrepel",
         "ScaledMatrix",
-        "ragg",
-        "blob"
+        "ragg"
     ],
     "trigger": [
         "qvalue",
@@ -26328,8 +25575,7 @@
         "annotate",
         "tibble",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "trio": [
         "siggenes",
@@ -26441,7 +25687,6 @@
         "progress",
         "BiocFileCache",
         "SummarizedExperiment",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -26466,7 +25711,6 @@
         "Rsamtools",
         "biomaRt",
         "progress",
-        "blob",
         "tidyselect",
         "shiny",
         "GenomicAlignments"
@@ -26506,7 +25750,6 @@
         "ggplotify",
         "plyranges",
         "progress",
-        "blob",
         "tidyselect"
     ],
     "UMI4Cats": [
@@ -26538,7 +25781,6 @@
         "biomaRt",
         "KEGGREST",
         "progress",
-        "blob",
         "rainbow",
         "hdrcde"
     ],
@@ -26582,7 +25824,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "AnnotationFilter",
-        "blob",
         "ggplot2",
         "viridis"
     ],
@@ -26596,7 +25837,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -26614,7 +25854,6 @@
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -26675,7 +25914,6 @@
         "RSQLite",
         "rtracklayer",
         "Rsamtools",
-        "blob",
         "GenomicAlignments"
     ],
     "VarCon": [
@@ -26719,7 +25957,6 @@
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -26769,7 +26006,6 @@
         "progress",
         "Hmisc",
         "AnnotationFilter",
-        "blob",
         "tibble",
         "tidyselect",
         "ggplot2",
@@ -26789,7 +26025,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -26806,8 +26041,7 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "VCFArray": [
         "VariantAnnotation",
@@ -26824,7 +26058,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -26846,7 +26079,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "blob",
         "tibble",
         "tidyselect"
     ],
@@ -26883,8 +26115,7 @@
         "annotate",
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "viper": [],
     "ViSEAGO": [
@@ -26914,8 +26145,7 @@
         "egg",
         "dbplyr",
         "tidyselect",
-        "vroom",
-        "blob"
+        "vroom"
     ],
     "vissE": [
         "ggplot2",
@@ -26948,8 +26178,7 @@
         "interactiveDisplayBase",
         "syuzhet",
         "dbplyr",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "Voyager": [
         "bluster",
@@ -26969,7 +26198,6 @@
         "dplyr",
         "RSQLite",
         "scuttle",
-        "blob",
         "tidyselect"
     ],
     "VplotR": [
@@ -27018,7 +26246,6 @@
         "Rsamtools",
         "BSgenome",
         "progress",
-        "blob",
         "tidyselect",
         "shiny",
         "GenomicAlignments"
@@ -27057,8 +26284,7 @@
         "annotate",
         "BSgenome",
         "ShortRead",
-        "dbplyr",
-        "blob"
+        "dbplyr"
     ],
     "waddR": [
         "arm",
@@ -27071,7 +26297,6 @@
         "RSQLite",
         "EnvStats",
         "SummarizedExperiment",
-        "blob",
         "tibble",
         "tidyselect",
         "ggplot2",
@@ -27102,7 +26327,6 @@
         "bumphunter",
         "siggenes",
         "GEOquery",
-        "blob",
         "progress",
         "BiocFileCache",
         "readr",
@@ -27131,7 +26355,6 @@
         "progress",
         "BiocFileCache",
         "SummarizedExperiment",
-        "blob",
         "dbplyr",
         "dplyr",
         "tidyselect"
@@ -27146,8 +26369,7 @@
         "ggplot2",
         "RSQLite",
         "KEGGREST",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "weitrix": [
         "SummarizedExperiment",
@@ -27219,8 +26441,7 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "Xeva": [
         "ggplot2",
@@ -27245,8 +26466,7 @@
         "STRINGdb",
         "tibble",
         "sqldf",
-        "RSQLite",
-        "blob"
+        "RSQLite"
     ],
     "XNAString": [
         "BSgenome",
@@ -27294,7 +26514,6 @@
         "BiocFileCache",
         "forcats",
         "tidyr",
-        "blob",
         "dbplyr"
     ],
     "yarn": [
@@ -27319,7 +26538,6 @@
         "GEOquery",
         "tidyselect",
         "GenomicFeatures",
-        "blob",
         "annotate",
         "tidyr",
         "rtracklayer",
@@ -27360,7 +26578,6 @@
         "nloptr",
         "org.Hs.eg.db",
         "broom",
-        "blob",
         "testthat",
         "waldo",
         "rematch2"
@@ -27380,19 +26597,14 @@
         "AnnotationDbi",
         "annotate",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "GO.db": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
-    "RSQLite": [
-        "blob"
-    ],
-    "blob": [],
+    "RSQLite": [],
     "ggplot2": [
         "tibble"
     ],
@@ -27562,8 +26774,7 @@
         "dbplyr",
         "tibble",
         "tidyselect",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "rvest": [
         "tibble"
@@ -27573,7 +26784,6 @@
     ],
     "TTR": [],
     "dbplyr": [
-        "blob",
         "dplyr",
         "tibble",
         "tidyselect"
@@ -27582,8 +26792,7 @@
     "PFAM.db": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "Hmisc": [
         "ggplot2",
@@ -27656,8 +26865,7 @@
         "dbplyr",
         "tibble",
         "tidyselect",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "readr": [
         "tibble",
@@ -27768,8 +26976,7 @@
     "org.Sc.sgd.db": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "Seurat": [
         "cowplot",
@@ -27792,14 +26999,12 @@
     "org.Hs.eg.db": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "org.Mm.eg.db": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "ggridges": [
         "ggplot2",
@@ -27837,7 +27042,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -27859,7 +27063,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -27898,7 +27101,6 @@
         "dbplyr",
         "GenomicAlignments",
         "KEGGREST",
-        "blob",
         "tibble",
         "tidyselect",
         "SummarizedExperiment",
@@ -27919,7 +27121,6 @@
         "dbplyr",
         "GenomicAlignments",
         "KEGGREST",
-        "blob",
         "tibble",
         "tidyselect",
         "SummarizedExperiment",
@@ -27940,7 +27141,6 @@
         "dbplyr",
         "GenomicAlignments",
         "KEGGREST",
-        "blob",
         "tibble",
         "tidyselect",
         "SummarizedExperiment",
@@ -27960,7 +27160,6 @@
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -27971,7 +27170,6 @@
         "RSQLite",
         "AnnotationDbi",
         "KEGGREST",
-        "blob",
         "SummarizedExperiment",
         "Rsamtools",
         "rtracklayer",
@@ -27991,7 +27189,6 @@
         "RSQLite",
         "AnnotationDbi",
         "KEGGREST",
-        "blob",
         "SummarizedExperiment",
         "Rsamtools",
         "rtracklayer",
@@ -28017,7 +27214,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -28063,7 +27259,6 @@
         "rvest",
         "tibble",
         "tidyr",
-        "blob",
         "tidyselect",
         "gargle",
         "cellranger",
@@ -28085,7 +27280,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -28115,7 +27309,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -28144,7 +27337,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -28191,8 +27383,7 @@
     "reactome.db": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "assertive": [],
     "doBy": [
@@ -28317,7 +27508,6 @@
         "vroom",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr"
@@ -28365,8 +27555,7 @@
     "org.Bt.eg.db": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "DiagrammeR": [
         "dplyr",
@@ -28388,8 +27577,7 @@
     "HDO.db": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "shinyAce": [
         "shiny"
@@ -28484,7 +27672,6 @@
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "blob",
         "tibble",
         "tidyselect",
         "KEGGREST",
@@ -28498,8 +27685,7 @@
         "KEGGREST",
         "ggplot2",
         "viridis",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "synaptome.data": [
         "AnnotationHub",
@@ -28513,8 +27699,7 @@
         "dbplyr",
         "tibble",
         "tidyselect",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "ggnetwork": [
         "ggplot2",
@@ -28570,8 +27755,7 @@
         "dbplyr",
         "tibble",
         "tidyselect",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "pasilla": [
         "DEXSeq",
@@ -28591,22 +27775,19 @@
         "dbplyr",
         "dplyr",
         "tibble",
-        "blob",
         "tidyselect"
     ],
     "hgu133plus2.db": [
         "AnnotationDbi",
         "org.Hs.eg.db",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "hgu133a.db": [
         "AnnotationDbi",
         "org.Hs.eg.db",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "GenomicState": [
         "AnnotationHub",
@@ -28637,7 +27818,6 @@
         "ggplot2",
         "viridis",
         "shiny",
-        "blob",
         "BSgenome"
     ],
     "BSgenome.Hsapiens.UCSC.hg38": [
@@ -28681,8 +27861,7 @@
         "tidyselect"
     ],
     "sqldf": [
-        "RSQLite",
-        "blob"
+        "RSQLite"
     ],
     "drc": [
         "car",
@@ -28805,7 +27984,6 @@
         "vroom",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr"
@@ -28832,7 +28010,6 @@
         "vroom",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr"
@@ -28859,7 +28036,6 @@
         "vroom",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr"
@@ -28881,7 +28057,6 @@
         "progress",
         "BiocFileCache",
         "SummarizedExperiment",
-        "blob",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -28925,27 +28100,23 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "blob",
         "tidyselect",
         "progress"
     ],
     "org.Dm.eg.db": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "org.Dr.eg.db": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "org.Rn.eg.db": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [
         "GenomicFeatures",
@@ -28956,7 +28127,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -28974,7 +28144,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -28992,7 +28161,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -29010,7 +28178,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -29028,7 +28195,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -29204,7 +28370,6 @@
         "Rsamtools",
         "KEGGREST",
         "biomaRt",
-        "blob",
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
@@ -29237,7 +28402,6 @@
         "vroom",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr"
@@ -29273,8 +28437,7 @@
         "dbplyr",
         "tibble",
         "tidyselect",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "keras": [
         "tensorflow",
@@ -29489,8 +28652,7 @@
         "AnnotationDbi",
         "org.Hs.eg.db",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "gganimate": [
         "ggplot2",
@@ -29512,8 +28674,7 @@
         "dbplyr",
         "tibble",
         "tidyselect",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "coin": [
         "multcomp",
@@ -29532,7 +28693,6 @@
         "dplyr",
         "dbplyr",
         "KEGGREST",
-        "blob",
         "tibble",
         "tidyselect",
         "shiny"
@@ -29557,7 +28717,6 @@
         "dplyr",
         "dbplyr",
         "KEGGREST",
-        "blob",
         "tibble",
         "tidyselect",
         "shiny"
@@ -29634,7 +28793,6 @@
         "RSQLite",
         "ipred",
         "prodlim",
-        "blob",
         "lava"
     ],
     "NHPoisson": [
@@ -29774,8 +28932,7 @@
         "tibble"
     ],
     "BatchJobs": [
-        "RSQLite",
-        "blob"
+        "RSQLite"
     ],
     "HiContactsData": [
         "ExperimentHub",
@@ -29788,7 +28945,6 @@
         "dplyr",
         "dbplyr",
         "KEGGREST",
-        "blob",
         "tibble",
         "tidyselect",
         "shiny"
@@ -29816,7 +28972,6 @@
         "biomaRt",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -29865,15 +29020,13 @@
         "RSQLite",
         "oligoClasses",
         "oligo",
-        "SummarizedExperiment",
-        "blob"
+        "SummarizedExperiment"
     ],
     "hgu95av2.db": [
         "AnnotationDbi",
         "org.Hs.eg.db",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "sortable": [
         "learnr",
@@ -29948,8 +29101,7 @@
         "tidyselect",
         "KEGGREST",
         "dbplyr",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "plsgenomics": [
         "fields",
@@ -30031,8 +29183,7 @@
         "ggplot2",
         "RSQLite",
         "KEGGREST",
-        "tibble",
-        "blob"
+        "tibble"
     ],
     "EnsDb.Hsapiens.v75": [
         "ensembldb",
@@ -30044,7 +29195,6 @@
         "Rsamtools",
         "KEGGREST",
         "biomaRt",
-        "blob",
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
@@ -30074,7 +29224,6 @@
         "dbplyr",
         "tidyselect",
         "shiny",
-        "blob",
         "progress"
     ],
     "FlowSorted.Blood.450k": [
@@ -30099,7 +29248,6 @@
         "vroom",
         "progress",
         "BiocFileCache",
-        "blob",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr"
@@ -30123,7 +29271,6 @@
         "AnnotationForge",
         "dbplyr",
         "KEGGREST",
-        "blob",
         "tibble",
         "tidyselect",
         "biomaRt",
@@ -30165,8 +29312,7 @@
         "AnnotationDbi",
         "org.Hs.eg.db",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "BSgenome.Hsapiens.UCSC.hg18": [
         "BSgenome",
@@ -30186,8 +29332,7 @@
     "miRBaseVersions.db": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "s4vd": [
         "biclust",
@@ -30382,7 +29527,6 @@
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "blob",
         "tibble",
         "tidyselect",
         "SummarizedExperiment",
@@ -30400,7 +29544,6 @@
         "dplyr",
         "dbplyr",
         "KEGGREST",
-        "blob",
         "tibble",
         "tidyselect",
         "shiny"
@@ -30475,8 +29618,7 @@
         "vroom",
         "RSQLite",
         "KEGGREST",
-        "dbplyr",
-        "blob"
+        "dbplyr"
     ],
     "kmer": [],
     "tfprobability": [
@@ -30555,7 +29697,6 @@
         "dbplyr",
         "GenomicAlignments",
         "KEGGREST",
-        "blob",
         "tibble",
         "tidyselect",
         "SummarizedExperiment",
@@ -30578,7 +29719,6 @@
         "Rsamtools",
         "KEGGREST",
         "biomaRt",
-        "blob",
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
@@ -30598,7 +29738,6 @@
         "Rsamtools",
         "KEGGREST",
         "biomaRt",
-        "blob",
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
@@ -30625,7 +29764,6 @@
         "dplyr",
         "dbplyr",
         "KEGGREST",
-        "blob",
         "tibble",
         "tidyselect",
         "shiny"
@@ -30645,7 +29783,6 @@
         "dbplyr",
         "GenomicAlignments",
         "KEGGREST",
-        "blob",
         "tibble",
         "tidyselect",
         "SummarizedExperiment",
@@ -30691,8 +29828,7 @@
         "dbplyr",
         "tibble",
         "tidyselect",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "valr": [
         "broom",
@@ -30740,8 +29876,7 @@
         "dbplyr",
         "tibble",
         "tidyselect",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "TBX20BamSubset": [
         "Rsamtools"
@@ -30780,7 +29915,6 @@
         "dplyr",
         "dbplyr",
         "KEGGREST",
-        "blob",
         "tibble",
         "tidyselect",
         "shiny"
@@ -30900,8 +30034,7 @@
         "dbplyr",
         "tibble",
         "tidyselect",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "GSVAdata": [
         "GSEABase",
@@ -30910,8 +30043,7 @@
         "AnnotationDbi",
         "org.Hs.eg.db",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "SoupX": [
         "ggplot2",
@@ -30955,7 +30087,6 @@
         "tibble",
         "tidyselect",
         "shiny",
-        "blob",
         "GenomicAlignments"
     ],
     "TENxPBMCData": [
@@ -30973,15 +30104,13 @@
         "dbplyr",
         "tibble",
         "tidyselect",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "hgu95a.db": [
         "AnnotationDbi",
         "org.Hs.eg.db",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "sampSurf": [],
     "spdep": [
@@ -31004,8 +30133,7 @@
         "AnnotationDbi",
         "RSQLite",
         "KEGGREST",
-        "sqldf",
-        "blob"
+        "sqldf"
     ],
     "dml": [
         "lfda"
@@ -31189,8 +30317,7 @@
     "mirbase.db": [
         "AnnotationDbi",
         "RSQLite",
-        "KEGGREST",
-        "blob"
+        "KEGGREST"
     ],
     "condformat": [
         "dplyr",
@@ -31218,8 +30345,7 @@
         "dbplyr",
         "tibble",
         "tidyselect",
-        "shiny",
-        "blob"
+        "shiny"
     ],
     "eva": [
         "EnvStats",
