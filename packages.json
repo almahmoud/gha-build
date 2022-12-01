@@ -7486,7 +7486,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "vroom",
-        "learnr",
         "dbplyr"
     ],
     "LedPred": [
@@ -9853,7 +9852,6 @@
         "ggpubr",
         "AnnotationDbi",
         "biomaRt",
-        "learnr",
         "rvest",
         "readr",
         "BiocFileCache",
@@ -17565,11 +17563,8 @@
         "AnnotationDbi",
         "org.Hs.eg.db"
     ],
-    "sortable": [
-        "learnr"
-    ],
+    "sortable": [],
     "shinyvalidate": [],
-    "learnr": [],
     "reldist": [
         "densEstBayes",
         "rstan"
