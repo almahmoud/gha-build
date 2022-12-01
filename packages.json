@@ -691,7 +691,6 @@
         "ggraph",
         "ggtree"
     ],
-    "ChIPseqR": [],
     "ChIPsim": [],
     "ChIPXpress": [
         "GEOquery",
