@@ -4868,8 +4868,7 @@
         "hypergraph",
         "limSolve",
         "graph",
-        "Rgraphviz",
-        "diagram"
+        "Rgraphviz"
     ],
     "bigmelon": [
         "wateRmelon",
@@ -14177,7 +14176,6 @@
         "ggplot2",
         "exomeCopy",
         "GenomicAlignments",
-        "diagram",
         "futile.logger",
         "GenomeInfoDb",
         "SummarizedExperiment",
@@ -28861,7 +28859,6 @@
         "ellipsis"
     ],
     "GMRP": [
-        "diagram",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -79200,10 +79197,8 @@
     "rslurm": [],
     "sjlabelled": [],
     "LIM": [
-        "limSolve",
-        "diagram"
+        "limSolve"
     ],
-    "diagram": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
         "GenomicRanges",
