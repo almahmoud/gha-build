@@ -384,8 +384,7 @@
         "VariantAnnotation"
     ],
     "CircSeqAlignTk": [
-        "Rhisat2",
-        "SGSeq"
+        "Rhisat2"
     ],
     "CiteFuse": [
         "propr"
@@ -804,9 +803,7 @@
         "motifmatchr",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "EventPointer": [
-        "SGSeq"
-    ],
+    "EventPointer": [],
     "EWCE": [
         "ewceData",
         "orthogene",
@@ -2035,9 +2032,7 @@
     "rgsepd": [
         "goseq"
     ],
-    "Rhisat2": [
-        "SGSeq"
-    ],
+    "Rhisat2": [],
     "RiboCrypt": [
         "ORFik"
     ],
@@ -2250,7 +2245,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "SGSeq": [],
     "shinyepico": [
         "minfi"
     ],
