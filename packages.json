@@ -24496,7 +24496,6 @@
         "BiocParallel",
         "DelayedArray"
     ],
-    "Path2PPI": [],
     "PathoStat": [
         "ggplot2",
         "rentrez",
