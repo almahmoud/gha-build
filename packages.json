@@ -171,9 +171,7 @@
         "BiocVersion"
     ],
     "BitSeq": [],
-    "blacksheepr": [
-        "pasilla"
-    ],
+    "blacksheepr": [],
     "BloodGen3Module": [
         "ExperimentHub",
         "AnnotationHub",
@@ -2091,7 +2089,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "pasilla": [],
     "GenomicState": [
         "AnnotationHub",
         "derfinder",
