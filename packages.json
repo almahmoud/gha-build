@@ -753,10 +753,7 @@
         "pbkrtest",
         "lme4"
     ],
-    "flowStats": [],
-    "flowVS": [
-        "flowStats"
-    ],
+    "flowVS": [],
     "fobitools": [],
     "FRASER": [],
     "frenchFISH": [
