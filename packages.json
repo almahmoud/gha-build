@@ -1081,7 +1081,6 @@
     "HelloRanges": [
         "VariantAnnotation"
     ],
-    "hermes": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
