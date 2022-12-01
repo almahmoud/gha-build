@@ -179,7 +179,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "CyTOFpower": [],
     "distinct": [
         "scater"
     ],
