@@ -987,7 +987,6 @@
         "annotate",
         "AnnotationDbi",
         "XVector",
-        "fBasics",
         "statip",
         "clock",
         "hardhat",
@@ -7195,7 +7194,6 @@
     ],
     "ChIPseqR": [
         "Biostrings",
-        "fBasics",
         "GenomicRanges",
         "ShortRead",
         "XVector",
@@ -8873,7 +8871,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "fBasics",
         "statip",
         "future.apply",
         "future",
@@ -11837,7 +11834,6 @@
     "deltaGseg": [
         "ggplot2",
         "tseries",
-        "fBasics",
         "reshape",
         "scales",
         "mgcv",
@@ -19594,7 +19590,6 @@
         "nloptr",
         "fGarch",
         "BiocParallel",
-        "fBasics",
         "cvar",
         "testthat",
         "GenomicRanges",
@@ -27219,7 +27214,6 @@
         "pillar",
         "mgcv",
         "quantreg",
-        "fBasics",
         "statip",
         "waldo",
         "survival",
@@ -51278,7 +51272,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "fBasics",
         "statip",
         "pillar"
     ],
@@ -51301,10 +51294,8 @@
         "future"
     ],
     "modeest": [
-        "fBasics",
         "statip"
     ],
-    "fBasics": [],
     "statip": [],
     "clock": [
         "vctrs"
@@ -55307,7 +55298,6 @@
         "survival"
     ],
     "fGarch": [
-        "fBasics",
         "cvar",
         "gbutils"
     ],
