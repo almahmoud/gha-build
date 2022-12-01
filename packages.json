@@ -3638,7 +3638,6 @@
         "rtracklayer"
     ],
     "idiogram": [],
-    "IgGeneUsage": [],
     "igvR": [
         "rtracklayer",
         "VariantAnnotation",
