@@ -11422,7 +11422,6 @@
         "SingleCellExperiment",
         "Rtsne",
         "ape",
-        "Rmpi",
         "irlba",
         "Rcpp",
         "Rdpack",
@@ -105006,7 +105005,6 @@
         "Rcpp",
         "magrittr"
     ],
-    "Rmpi": [],
     "ccdata": [],
     "enrichR": [
         "httr",
