@@ -2108,10 +2108,7 @@
         "lmerTest",
         "nloptr"
     ],
-    "MSstatsQC": [],
-    "MSstatsQCgui": [
-        "MSstatsQC"
-    ],
+    "MSstatsQCgui": [],
     "MSstatsSampleSize": [
         "MSstats",
         "lme4",
