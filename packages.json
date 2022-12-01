@@ -1073,7 +1073,6 @@
     "AlphaBeta": [
         "dplyr",
         "stringr",
-        "optimx",
         "expm",
         "BiocParallel",
         "igraph",
@@ -41859,7 +41858,6 @@
     ],
     "metabomxtr": [
         "Biobase",
-        "optimx",
         "plyr",
         "multtest",
         "BiocParallel",
@@ -60406,7 +60404,6 @@
         "ExtDist",
         "S4Vectors",
         "rngtools",
-        "optimx",
         "GenomeInfoDb",
         "XVector",
         "lifecycle",
@@ -84492,7 +84489,6 @@
     "segmented": [
         "nlme"
     ],
-    "optimx": [],
     "expm": [
         "Matrix"
     ],
@@ -94719,9 +94715,7 @@
         "sass",
         "RCurl"
     ],
-    "ExtDist": [
-        "optimx"
-    ],
+    "ExtDist": [],
     "phastCons100way.UCSC.hg19": [
         "GenomicScores",
         "S4Vectors",
