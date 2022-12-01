@@ -127,10 +127,8 @@
     ],
     "affyILM": [],
     "affylmGUI": [
-        "affyPLM",
         "AnnotationDbi"
     ],
-    "affyPLM": [],
     "AGDEX": [
         "GSEABase",
         "annotate",
@@ -536,7 +534,6 @@
         "vroom"
     ],
     "arrayQualityMetrics": [
-        "affyPLM",
         "beadarray",
         "genefilter",
         "Hmisc",
@@ -10204,7 +10201,6 @@
         "tidygraph"
     ],
     "mimager": [
-        "affyPLM",
         "oligo",
         "oligoClasses"
     ],
@@ -14059,9 +14055,7 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "RefPlus": [
-        "affyPLM"
-    ],
+    "RefPlus": [],
     "RegEnrich": [
         "dplyr",
         "BiocSet",
