@@ -839,9 +839,7 @@
         "lme4",
         "nloptr"
     ],
-    "DEsubs": [
-        "EBSeq"
-    ],
+    "DEsubs": [],
     "DEWSeq": [],
     "DExMA": [],
     "DEXSeq": [],
@@ -936,10 +934,7 @@
         "enrichplot"
     ],
     "EBSEA": [],
-    "EBSeq": [],
-    "EBSeqHMM": [
-        "EBSeq"
-    ],
+    "EBSeqHMM": [],
     "EDASeq": [],
     "edge": [
         "snm",
@@ -2355,9 +2350,7 @@
         "lme4",
         "nloptr"
     ],
-    "Oscope": [
-        "EBSeq"
-    ],
+    "Oscope": [],
     "OUTRIDER": [],
     "PAA": [],
     "padma": [
@@ -2906,13 +2899,11 @@
         "scater"
     ],
     "scDD": [
-        "EBSeq",
         "arm",
         "lme4",
         "nloptr"
     ],
     "scDDboost": [
-        "EBSeq",
         "Oscope"
     ],
     "scGPS": [],
