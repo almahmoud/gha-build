@@ -8267,7 +8267,6 @@
         "RSQLite",
         "vroom"
     ],
-    "heatmaps": [],
     "HelloRanges": [
         "BSgenome",
         "GenomicFeatures",
