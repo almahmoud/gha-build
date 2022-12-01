@@ -2017,7 +2017,6 @@
         "readr",
         "annotate"
     ],
-    "COTAN": [],
     "countsimQC": [
         "DESeq2",
         "genefilter",
