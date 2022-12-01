@@ -86469,7 +86469,6 @@
         "iterators",
         "gplots",
         "RhpcBLASctl",
-        "aod",
         "Rdpack",
         "RcppHNSW",
         "ScaledMatrix",
@@ -142044,7 +142043,6 @@
         "RhpcBLASctl",
         "progress",
         "reshape2",
-        "aod",
         "scales",
         "Rdpack",
         "rlang",
@@ -145560,7 +145558,6 @@
         "doParallel",
         "gplots",
         "RhpcBLASctl",
-        "aod",
         "lme4",
         "DBI",
         "xtable",
@@ -165670,7 +165667,6 @@
         "vctrs",
         "utf8"
     ],
-    "aod": [],
     "deconstructSigs": [
         "reshape2",
         "BSgenome",
