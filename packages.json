@@ -7844,7 +7844,6 @@
         "Rcpp",
         "munsell",
         "viridisLite",
-        "nnls",
         "gam",
         "cvAUC",
         "ROCR",
@@ -10258,7 +10257,6 @@
         "ggridges",
         "gridExtra",
         "Matrix",
-        "nnls",
         "purrr",
         "reshape2",
         "Rtsne",
@@ -19776,7 +19774,6 @@
         "shiny",
         "shinydashboard",
         "rhdf5",
-        "nnls",
         "futile.logger",
         "Matrix",
         "MatrixGenerics",
@@ -20686,7 +20683,6 @@
         "SummarizedExperiment",
         "geometry",
         "NMF",
-        "nnls",
         "DMwR2",
         "pcaPP",
         "apcluster",
@@ -21124,7 +21120,6 @@
         "GenomicRanges",
         "foreach",
         "e1071",
-        "nnls",
         "rsq",
         "dplyr",
         "tidyr",
@@ -27751,7 +27746,6 @@
         "stringr",
         "GenomeInfoDb",
         "igraph",
-        "nnls",
         "RBGL",
         "prodlim",
         "graph",
@@ -35665,7 +35659,6 @@
         "ggplot2",
         "ggplotify",
         "limSolve",
-        "nnls",
         "pheatmap",
         "purrr",
         "rlang",
@@ -39282,7 +39275,6 @@
         "shiny",
         "shinydashboard",
         "rhdf5",
-        "nnls",
         "lifecycle",
         "rlang",
         "tibble",
@@ -50353,7 +50345,6 @@
         "png",
         "interp",
         "stabs",
-        "nnls",
         "partykit",
         "askpass",
         "R.oo",
@@ -69220,7 +69211,6 @@
         "gridExtra",
         "IRanges",
         "lsa",
-        "nnls",
         "reshape2",
         "S4Vectors",
         "XVector",
@@ -79211,7 +79201,6 @@
         "shiny",
         "shinydashboard",
         "rhdf5",
-        "nnls",
         "png",
         "locfit",
         "htmltools",
@@ -80887,7 +80876,6 @@
     ],
     "SparseSignatures": [
         "NMF",
-        "nnls",
         "Biostrings",
         "GenomicRanges",
         "IRanges",
@@ -82569,7 +82557,6 @@
         "ggplot2",
         "NMF",
         "Matrix",
-        "nnls",
         "SingleCellExperiment",
         "lifecycle",
         "mgcv",
@@ -87322,7 +87309,6 @@
     ],
     "TOAST": [
         "EpiDISH",
-        "nnls",
         "SummarizedExperiment",
         "doParallel",
         "ggplot2",
@@ -89628,8 +89614,7 @@
         "nlme"
     ],
     "UNDO": [
-        "Biobase",
-        "nnls"
+        "Biobase"
     ],
     "unifiedWMWqPCR": [
         "HTqPCR",
@@ -97220,7 +97205,6 @@
         "globals",
         "cubature",
         "quantreg",
-        "nnls",
         "gam",
         "cvAUC",
         "Rcpp",
@@ -97234,7 +97218,6 @@
         "caTools"
     ],
     "SuperLearner": [
-        "nnls",
         "gam",
         "cvAUC",
         "ROCR",
@@ -97254,7 +97237,6 @@
     "cubature": [
         "Rcpp"
     ],
-    "nnls": [],
     "gam": [
         "foreach"
     ],
@@ -103644,7 +103626,6 @@
         "Rcpp",
         "RcppEigen",
         "stabs",
-        "nnls",
         "partykit",
         "libcoin",
         "mvtnorm",
@@ -103654,7 +103635,6 @@
         "stabs",
         "Matrix",
         "survival",
-        "nnls",
         "partykit",
         "libcoin",
         "mvtnorm",
