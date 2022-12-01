@@ -3374,7 +3374,6 @@
         "XVector",
         "ragg",
         "openssl",
-        "miscTools",
         "sandwich",
         "RcppEigen",
         "bit64",
@@ -14583,7 +14582,6 @@
         "BiocParallel",
         "futile.logger",
         "survival",
-        "miscTools",
         "sandwich"
     ],
     "destiny": [
@@ -20786,7 +20784,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "miscTools",
         "sandwich",
         "IRanges",
         "RSQLite",
@@ -26580,7 +26577,6 @@
         "ragg",
         "openssl",
         "Biostrings",
-        "miscTools",
         "sandwich",
         "htmlwidgets",
         "crosstalk",
@@ -62420,15 +62416,12 @@
     "TSP": [],
     "DirichletReg": [
         "maxLik",
-        "miscTools",
         "sandwich"
     ],
     "RcppDist": [],
     "maxLik": [
-        "miscTools",
         "sandwich"
     ],
-    "miscTools": [],
     "rjags": [],
     "corncob": [
         "optimr",
