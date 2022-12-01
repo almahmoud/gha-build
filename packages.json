@@ -109,7 +109,6 @@
     ],
     "airpart": [
         "scater",
-        "scuttle",
         "ggrastr"
     ],
     "alevinQC": [
@@ -164,7 +163,6 @@
         "lmerTest",
         "nloptr",
         "MultiAssayExperiment",
-        "scuttle",
         "scater",
         "testthat",
         "treeio",
@@ -514,21 +512,17 @@
     "BASiCS": [
         "ggExtra",
         "scran",
-        "scuttle",
         "colourpicker"
     ],
     "BASiCStan": [
         "BASiCS",
         "glmGamPoi",
         "scran",
-        "scuttle",
         "ggExtra",
         "colourpicker"
     ],
     "BasicSTARRseq": [],
-    "batchelor": [
-        "scuttle"
-    ],
+    "batchelor": [],
     "BatchQC": [
         "sva",
         "heatmaply",
@@ -541,7 +535,6 @@
         "scater",
         "scran",
         "BiocFileCache",
-        "scuttle",
         "ggrastr"
     ],
     "bayNorm": [],
@@ -581,7 +574,6 @@
         "genefilter",
         "annotate",
         "MultiAssayExperiment",
-        "scuttle",
         "scater",
         "testthat",
         "tidytree",
@@ -827,8 +819,7 @@
         "plotly"
     ],
     "BioTIP": [
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "biotmle": [
         "superheat"
@@ -1125,7 +1116,6 @@
         "scater",
         "car",
         "ggpubr",
-        "scuttle",
         "ggrastr",
         "pbkrtest",
         "lme4",
@@ -1193,7 +1183,6 @@
     "celda": [
         "scater",
         "scran",
-        "scuttle",
         "ggrastr"
     ],
     "CellBarcode": [
@@ -1213,7 +1202,6 @@
         "Seurat",
         "scater",
         "fgsea",
-        "scuttle",
         "ggrastr",
         "plotly"
     ],
@@ -1236,7 +1224,6 @@
     ],
     "CellMixS": [
         "scater",
-        "scuttle",
         "ggrastr"
     ],
     "CellTrails": [
@@ -1521,7 +1508,6 @@
         "batchelor",
         "scran",
         "scater",
-        "scuttle",
         "ggrastr"
     ],
     "chromswitch": [
@@ -1587,8 +1573,7 @@
         "propr",
         "scran",
         "ggraph",
-        "tidygraph",
-        "scuttle"
+        "tidygraph"
     ],
     "ClassifyR": [
         "MultiAssayExperiment",
@@ -1835,7 +1820,6 @@
         "FactoMineR",
         "ggpubr",
         "readr",
-        "scuttle",
         "ggrastr",
         "HDO.db",
         "fgsea",
@@ -1864,7 +1848,6 @@
         "spatstat",
         "caret",
         "recipes",
-        "scuttle",
         "ggrastr",
         "spatstat.linnet"
     ],
@@ -2125,8 +2108,7 @@
     "CTSV": [
         "SpatialExperiment",
         "DropletUtils",
-        "BiocFileCache",
-        "scuttle"
+        "BiocFileCache"
     ],
     "cummeRbund": [
         "rtracklayer",
@@ -2207,8 +2189,7 @@
     "cytomapper": [
         "SpatialExperiment",
         "DropletUtils",
-        "BiocFileCache",
-        "scuttle"
+        "BiocFileCache"
     ],
     "CytoML": [],
     "dada2": [
@@ -2576,7 +2557,6 @@
     "Dino": [
         "Seurat",
         "scran",
-        "scuttle",
         "plotly"
     ],
     "DiscoRhythm": [
@@ -2590,7 +2570,6 @@
     ],
     "distinct": [
         "scater",
-        "scuttle",
         "ggrastr"
     ],
     "dittoSeq": [],
@@ -2708,9 +2687,7 @@
     "drawProteins": [
         "readr"
     ],
-    "DropletUtils": [
-        "scuttle"
-    ],
+    "DropletUtils": [],
     "drugTargetInteractions": [
         "UniProt.ws",
         "biomaRt",
@@ -3290,7 +3267,6 @@
         "DropletUtils",
         "BiocFileCache",
         "treeio",
-        "scuttle",
         "tidytree"
     ],
     "ExploreModelMatrix": [],
@@ -3431,7 +3407,6 @@
     "FLAMES": [
         "MultiAssayExperiment",
         "scater",
-        "scuttle",
         "rtracklayer",
         "ggbio",
         "scran",
@@ -3966,8 +3941,7 @@
     "ggspavis": [
         "SpatialExperiment",
         "DropletUtils",
-        "BiocFileCache",
-        "scuttle"
+        "BiocFileCache"
     ],
     "ggtree": [
         "aplot",
@@ -4515,7 +4489,6 @@
     ],
     "imcRtools": [
         "SpatialExperiment",
-        "scuttle",
         "readr",
         "cytomapper",
         "ggraph",
@@ -4670,7 +4643,6 @@
         "GOSemSim",
         "rstatix",
         "tidygraph",
-        "scuttle",
         "ggrastr",
         "plotly",
         "HDO.db",
@@ -4908,7 +4880,6 @@
         "BiocFileCache",
         "lmerTest",
         "lme4",
-        "scuttle",
         "nloptr",
         "testthat",
         "waldo"
@@ -5610,7 +5581,6 @@
     "mia": [
         "TreeSummarizedExperiment",
         "MultiAssayExperiment",
-        "scuttle",
         "scater",
         "ggrastr",
         "treeio",
@@ -5632,7 +5602,6 @@
         "aplot",
         "treeio",
         "MultiAssayExperiment",
-        "scuttle",
         "ggrastr"
     ],
     "microbiome": [],
@@ -5671,7 +5640,6 @@
         "treeio",
         "annotate",
         "MultiAssayExperiment",
-        "scuttle",
         "scater",
         "testthat",
         "ggrastr",
@@ -6108,8 +6076,7 @@
         "ensembldb"
     ],
     "msImpute": [
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "mslp": [
         "org.Hs.eg.db"
@@ -6308,7 +6275,6 @@
         "waldo"
     ],
     "mumosa": [
-        "scuttle",
         "scran",
         "batchelor"
     ],
@@ -6327,7 +6293,6 @@
         "lmerTest",
         "lme4",
         "scater",
-        "scuttle",
         "variancePartition",
         "geneplotter",
         "nloptr",
@@ -6546,7 +6511,6 @@
         "zinbwave",
         "phylobase",
         "mbkmeans",
-        "scuttle",
         "ggrastr",
         "RNeXML",
         "genefilter",
@@ -6583,8 +6547,7 @@
     "nnSVG": [
         "SpatialExperiment",
         "DropletUtils",
-        "BiocFileCache",
-        "scuttle"
+        "BiocFileCache"
     ],
     "nondetects": [
         "arm",
@@ -7058,7 +7021,6 @@
     ],
     "peco": [
         "scater",
-        "scuttle",
         "ggrastr"
     ],
     "pepStat": [],
@@ -7214,7 +7176,6 @@
         "Seurat",
         "scran",
         "scater",
-        "scuttle",
         "ggrastr",
         "plotly"
     ],
@@ -8545,7 +8506,6 @@
         "BiocVersion"
     ],
     "scater": [
-        "scuttle",
         "ggrastr"
     ],
     "scBFA": [
@@ -8568,7 +8528,6 @@
     "scCB2": [
         "DropletUtils",
         "Seurat",
-        "scuttle",
         "plotly"
     ],
     "scClassify": [
@@ -8588,7 +8547,6 @@
     "scDblFinder": [
         "scran",
         "scater",
-        "scuttle",
         "rtracklayer",
         "ggrastr"
     ],
@@ -8598,7 +8556,6 @@
         "scran",
         "lme4",
         "testthat",
-        "scuttle",
         "nloptr",
         "waldo"
     ],
@@ -8688,13 +8645,10 @@
         "scater",
         "testthat",
         "BiocFileCache",
-        "scuttle",
         "ggrastr",
         "waldo"
     ],
-    "scran": [
-        "scuttle"
-    ],
+    "scran": [],
     "scReClassify": [],
     "scRecover": [
         "Rmagic"
@@ -8777,14 +8731,12 @@
         "OrganismDbi",
         "GenomicFeatures",
         "ensembldb",
-        "scuttle",
         "ggrastr",
         "plotly",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache"
     ],
-    "scuttle": [],
     "SDAMS": [],
     "segmenter": [
         "ChIPseeker",
@@ -9025,8 +8977,7 @@
         "cytomapper",
         "SpatialExperiment",
         "DropletUtils",
-        "BiocFileCache",
-        "scuttle"
+        "BiocFileCache"
     ],
     "simplifyEnrichment": [
         "GOSemSim",
@@ -9036,8 +8987,7 @@
     "sincell": [],
     "single": [],
     "SingleCellSignalR": [
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "singleCellTK": [
         "AnnotationHub",
@@ -9068,7 +9018,6 @@
         "metap",
         "TSCAN",
         "TrajectoryUtils",
-        "scuttle",
         "BiocFileCache",
         "BiocVersion",
         "geneplotter",
@@ -9211,7 +9160,6 @@
         "scater",
         "scran",
         "DropletUtils",
-        "scuttle",
         "ggrastr",
         "plotly"
     ],
@@ -9228,8 +9176,7 @@
     "spaSim": [
         "SpatialExperiment",
         "DropletUtils",
-        "BiocFileCache",
-        "scuttle"
+        "BiocFileCache"
     ],
     "SpatialCPie": [
         "readr"
@@ -9237,8 +9184,7 @@
     "spatialDE": [
         "SpatialExperiment",
         "DropletUtils",
-        "BiocFileCache",
-        "scuttle"
+        "BiocFileCache"
     ],
     "SpatialDecon": [
         "GeomxTools",
@@ -9251,14 +9197,12 @@
     ],
     "SpatialExperiment": [
         "DropletUtils",
-        "BiocFileCache",
-        "scuttle"
+        "BiocFileCache"
     ],
     "SpatialFeatureExperiment": [
         "SpatialExperiment",
         "DropletUtils",
-        "BiocFileCache",
-        "scuttle"
+        "BiocFileCache"
     ],
     "spatialHeatmap": [
         "BiocFileCache",
@@ -9266,7 +9210,6 @@
         "genefilter",
         "plotly",
         "scater",
-        "scuttle",
         "scran",
         "annotate",
         "ggrastr",
@@ -9303,8 +9246,7 @@
         "xROI",
         "DropletUtils",
         "BiocFileCache",
-        "colourpicker",
-        "scuttle"
+        "colourpicker"
     ],
     "spicyR": [
         "lmerTest",
@@ -9313,7 +9255,6 @@
         "nloptr",
         "DropletUtils",
         "BiocFileCache",
-        "scuttle",
         "testthat",
         "waldo"
     ],
@@ -9328,7 +9269,6 @@
     ],
     "splatter": [
         "scater",
-        "scuttle",
         "ggrastr"
     ],
     "SpliceWiz": [
@@ -9394,8 +9334,7 @@
         "Seurat",
         "plotly",
         "DropletUtils",
-        "BiocFileCache",
-        "scuttle"
+        "BiocFileCache"
     ],
     "SPOTlight": [],
     "spqn": [],
@@ -9461,7 +9400,6 @@
         "EDASeq",
         "DropletUtils",
         "BiocFileCache",
-        "scuttle",
         "ShortRead",
         "biomaRt",
         "GenomicFeatures",
@@ -9497,8 +9435,7 @@
         "SpatialExperiment",
         "plotly",
         "DropletUtils",
-        "BiocFileCache",
-        "scuttle"
+        "BiocFileCache"
     ],
     "strandCheckR": [
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -10053,7 +9990,6 @@
     ],
     "tricycle": [
         "scater",
-        "scuttle",
         "ggrastr"
     ],
     "trigger": [
@@ -10172,7 +10108,6 @@
         "webchem",
         "ttgsea",
         "readr",
-        "scuttle",
         "ggrastr",
         "textstem",
         "lexicon",
@@ -10256,8 +10191,7 @@
         "BiocFileCache"
     ],
     "velociraptor": [
-        "zellkonverter",
-        "scuttle"
+        "zellkonverter"
     ],
     "VennDetail": [],
     "vidger": [
@@ -10300,8 +10234,7 @@
         "SpatialExperiment",
         "SpatialFeatureExperiment",
         "DropletUtils",
-        "BiocFileCache",
-        "scuttle"
+        "BiocFileCache"
     ],
     "VplotR": [],
     "vsclust": [
