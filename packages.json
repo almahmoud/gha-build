@@ -6597,7 +6597,6 @@
         "clusterProfiler",
         "ReactomePA",
         "DOSE",
-        "metR",
         "ggvis",
         "Hmisc",
         "GO.db",
@@ -10926,7 +10925,6 @@
         "SpatialExtremes",
         "plotly",
         "mice",
-        "metR",
         "car",
         "stars",
         "broom",
@@ -12868,10 +12866,7 @@
     "subspace": [
         "ggvis"
     ],
-    "SOMbrero": [
-        "metR"
-    ],
-    "metR": [],
+    "SOMbrero": [],
     "cvms": [
         "groupdata2",
         "lme4",
