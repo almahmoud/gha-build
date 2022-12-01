@@ -2789,7 +2789,6 @@
     ],
     "beer": [
         "PhIPData",
-        "rjags",
         "edgeR",
         "BiocParallel",
         "SummarizedExperiment",
@@ -7943,7 +7942,6 @@
     ],
     "CNVrd2": [
         "VariantAnnotation",
-        "rjags",
         "ggplot2",
         "Rsamtools",
         "mgcv",
@@ -19498,7 +19496,6 @@
         "biomaRt",
         "mgcv",
         "vctrs",
-        "rjags",
         "dplyr",
         "tidyselect",
         "KEGGREST",
@@ -20431,7 +20428,6 @@
         "ggplot2",
         "edgeR",
         "coin",
-        "rjags",
         "fitdistrplus",
         "future",
         "doParallel",
@@ -22643,7 +22639,6 @@
         "XVector"
     ],
     "MADSEQ": [
-        "rjags",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicAlignments",
@@ -40001,7 +39996,6 @@
         "biomaRt",
         "mgcv",
         "vctrs",
-        "rjags",
         "dplyr",
         "tidyselect",
         "KEGGREST",
@@ -49639,7 +49633,6 @@
     "maxLik": [
         "sandwich"
     ],
-    "rjags": [],
     "corncob": [
         "optimr",
         "ggplot2",
@@ -52455,9 +52448,7 @@
         "GenomeInfoDb",
         "sass"
     ],
-    "R2jags": [
-        "rjags"
-    ],
+    "R2jags": [],
     "servr": [
         "httpuv"
     ],
