@@ -160,9 +160,7 @@
         "biomaRt",
         "BSgenome"
     ],
-    "apComplex": [
-        "org.Sc.sgd.db"
-    ],
+    "apComplex": [],
     "APL": [
         "Seurat",
         "topGO"
@@ -2309,8 +2307,7 @@
     "fastLiquidAssociation": [
         "LiquidAssociation",
         "WGCNA",
-        "geepack",
-        "org.Sc.sgd.db"
+        "geepack"
     ],
     "FastqCleaner": [],
     "fCCAC": [
@@ -3388,8 +3385,7 @@
         "ropls"
     ],
     "LiquidAssociation": [
-        "geepack",
-        "org.Sc.sgd.db"
+        "geepack"
     ],
     "lisaClust": [
         "spicyR",
@@ -5720,7 +5716,6 @@
         "DESeq2",
         "systemPipeR",
         "clusterProfiler",
-        "org.Sc.sgd.db",
         "DOSE",
         "sva",
         "enrichplot",
@@ -7265,7 +7260,6 @@
         "waldo"
     ],
     "caret": [],
-    "org.Sc.sgd.db": [],
     "Seurat": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome"
