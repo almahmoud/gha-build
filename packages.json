@@ -1429,9 +1429,7 @@
         "ExperimentHub",
         "BiocVersion"
     ],
-    "gsean": [
-        "PPInfer"
-    ],
+    "gsean": [],
     "GSReg": [
         "Homo.sapiens",
         "OrganismDbi",
@@ -2505,7 +2503,6 @@
     ],
     "POMA": [],
     "ppcseq": [],
-    "PPInfer": [],
     "preciseTAD": [
         "rCGH",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
