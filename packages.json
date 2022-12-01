@@ -208,9 +208,7 @@
         "Biostrings",
         "XVector"
     ],
-    "affyContam": [
-        "affydata"
-    ],
+    "affyContam": [],
     "affycoretools": [
         "GOstats",
         "gcrma",
@@ -1096,7 +1094,6 @@
     "arrayMvout": [
         "affyContam",
         "lumi",
-        "affydata",
         "methylumi",
         "GenomicFeatures",
         "GenomicRanges",
@@ -36457,7 +36454,6 @@
     "SAVER": [
         "glmnet"
     ],
-    "affydata": [],
     "PFAM.db": [
         "AnnotationDbi",
         "RSQLite",
