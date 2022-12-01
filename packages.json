@@ -4626,7 +4626,6 @@
         "biomaRt",
         "dplyr",
         "sjmisc",
-        "rslurm",
         "rhdf5",
         "AnnotationDbi",
         "progress",
@@ -77299,7 +77298,6 @@
         "vctrs",
         "pillar"
     ],
-    "rslurm": [],
     "sjlabelled": [],
     "LIM": [
         "limSolve"
