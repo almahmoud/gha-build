@@ -15322,7 +15322,6 @@
         "tibble",
         "pillar"
     ],
-    "metaSeq": [],
     "metaseqR2": [
         "DESeq2",
         "baySeq",
