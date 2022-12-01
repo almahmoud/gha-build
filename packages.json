@@ -2303,7 +2303,6 @@
         "GGally",
         "car",
         "RFOC",
-        "flowWorkspace",
         "pbkrtest",
         "lme4",
         "GEOmap",
@@ -2362,7 +2361,6 @@
         "scuttle"
     ],
     "CytoML": [
-        "flowWorkspace",
         "openCyto",
         "ggcyto"
     ],
@@ -2466,7 +2464,6 @@
         "flowDensity",
         "car",
         "RFOC",
-        "flowWorkspace",
         "pbkrtest",
         "lme4",
         "GEOmap",
@@ -3719,7 +3716,6 @@
         "flowDensity",
         "car",
         "RFOC",
-        "flowWorkspace",
         "pbkrtest",
         "lme4",
         "GEOmap",
@@ -3732,7 +3728,6 @@
     "flowDensity": [
         "car",
         "RFOC",
-        "flowWorkspace",
         "pbkrtest",
         "lme4",
         "GEOmap",
@@ -3765,19 +3760,16 @@
         "waldo"
     ],
     "flowStats": [
-        "flowWorkspace",
         "fda",
         "fds",
         "rainbow"
     ],
     "flowVS": [
         "flowStats",
-        "flowWorkspace",
         "fda",
         "fds",
         "rainbow"
     ],
-    "flowWorkspace": [],
     "fmcsR": [],
     "fobitools": [
         "fgsea",
@@ -4245,9 +4237,7 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "ggcyto": [
-        "flowWorkspace"
-    ],
+    "ggcyto": [],
     "ggmanh": [],
     "ggmsa": [
         "aplot",
@@ -4868,7 +4858,6 @@
     "ImmuneSpaceR": [
         "plotly",
         "heatmaply",
-        "flowWorkspace",
         "dendextend"
     ],
     "immunotation": [
@@ -7354,9 +7343,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "openCyto": [
-        "flowWorkspace"
-    ],
+    "openCyto": [],
     "openPrimeR": [
         "Hmisc"
     ],
@@ -7617,9 +7604,7 @@
     "pdInfoBuilder": [
         "oligo"
     ],
-    "PeacoQC": [
-        "flowWorkspace"
-    ],
+    "PeacoQC": [],
     "peakPantheR": [
         "MSnbase"
     ],
