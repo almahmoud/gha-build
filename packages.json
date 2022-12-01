@@ -1477,8 +1477,7 @@
     ],
     "cellscape": [],
     "CellTrails": [
-        "dendextend",
-        "EnvStats"
+        "dendextend"
     ],
     "cellTree": [
         "topGO",
@@ -3666,7 +3665,6 @@
         "GO.db"
     ],
     "epidecodeR": [
-        "EnvStats",
         "rtracklayer",
         "rstatix",
         "ggpubr",
@@ -4747,7 +4745,6 @@
         "GeomxTools",
         "NanoStringNCTools",
         "readxl",
-        "EnvStats",
         "lmerTest",
         "GGally",
         "nloptr",
@@ -4789,7 +4786,6 @@
     "GeomxTools": [
         "NanoStringNCTools",
         "readxl",
-        "EnvStats",
         "lmerTest",
         "GGally",
         "tidyr",
@@ -5272,7 +5268,6 @@
         "ggfortify",
         "biomaRt",
         "DESeq2",
-        "EnvStats",
         "MultiAssayExperiment",
         "tidyr",
         "BiocFileCache",
@@ -9523,9 +9518,7 @@
         "tidyr",
         "fgsea"
     ],
-    "ramr": [
-        "EnvStats"
-    ],
+    "ramr": [],
     "ramwas": [
         "GenomicAlignments",
         "biomaRt",
@@ -11458,7 +11451,6 @@
         "GeomxTools",
         "NanoStringNCTools",
         "readxl",
-        "EnvStats",
         "lmerTest",
         "GGally",
         "tidyr",
@@ -12829,7 +12821,6 @@
         "eva",
         "BiocFileCache",
         "lme4",
-        "EnvStats",
         "nloptr",
         "testthat",
         "waldo"
@@ -13443,7 +13434,6 @@
         "testthat",
         "waldo"
     ],
-    "EnvStats": [],
     "ggpmisc": [
         "ggpp"
     ],
@@ -14410,7 +14400,5 @@
         "BiocVersion",
         "annotate"
     ],
-    "eva": [
-        "EnvStats"
-    ]
+    "eva": []
 }
