@@ -553,7 +553,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "ChIPanalyser": [],
     "ChIPComp": [],
     "chipenrich": [],
     "ChIPexoQual": [
