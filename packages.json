@@ -837,7 +837,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "proBatch": [],
     "profileplyr": [],
     "protGear": [
         "ggpubr",
