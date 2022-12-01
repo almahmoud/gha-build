@@ -3245,7 +3245,6 @@
         "CytoGLMM",
         "diffcyt",
         "shinyFeedback",
-        "shinyMatrix",
         "tidyr",
         "cowplot",
         "factoextra",
@@ -16862,7 +16861,6 @@
         "viridis"
     ],
     "shinyFeedback": [],
-    "shinyMatrix": [],
     "mbest": [
         "lme4",
         "nloptr",
