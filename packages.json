@@ -53648,7 +53648,6 @@
         "igraph",
         "car",
         "dplyr",
-        "smatr",
         "ggplot2",
         "ggrepel",
         "stringr",
@@ -95176,7 +95175,6 @@
         "openssl",
         "askpass"
     ],
-    "smatr": [],
     "ontologyPlot": [
         "Rgraphviz",
         "graph"
