@@ -1502,7 +1502,6 @@
         "readr"
     ],
     "celda": [
-        "enrichR",
         "ggrepel",
         "scater",
         "scran",
@@ -12013,7 +12012,6 @@
         "SingleR",
         "SoupX",
         "sva",
-        "enrichR",
         "celda",
         "DropletUtils",
         "scds",
@@ -14363,7 +14361,6 @@
         "waldo"
     ],
     "IRkernel": [],
-    "enrichR": [],
     "multipanelfigure": [],
     "FactoMineR": [
         "car",
