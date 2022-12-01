@@ -3312,7 +3312,6 @@
         "viridis"
     ],
     "consensusDE": [
-        "airway",
         "AnnotationDbi",
         "dendextend",
         "DESeq2",
@@ -11580,7 +11579,6 @@
         "ggdendro"
     ],
     "NetActivity": [
-        "airway",
         "DESeq2",
         "geneplotter",
         "ggplot2",
@@ -19974,7 +19972,6 @@
         "ggplot2",
         "viridis"
     ],
-    "airway": [],
     "EnsDb.Hsapiens.v86": [
         "ensembldb",
         "GenomicFeatures",
