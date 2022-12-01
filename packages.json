@@ -9445,7 +9445,6 @@
         "BiocFileCache"
     ],
     "STRINGdb": [],
-    "structToolbox": [],
     "StructuralVariantAnnotation": [
         "rtracklayer",
         "VariantAnnotation",
