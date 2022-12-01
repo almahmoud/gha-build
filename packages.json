@@ -3204,9 +3204,7 @@
         "car",
         "pbkrtest"
     ],
-    "trena": [
-        "SNPlocs.Hsapiens.dbSNP150.GRCh38"
-    ],
+    "trena": [],
     "TRESS": [],
     "tricycle": [
         "scater"
@@ -3715,7 +3713,6 @@
     "GenKern": [],
     "naniar": [],
     "vbsr": [],
-    "SNPlocs.Hsapiens.dbSNP150.GRCh38": [],
     "msigdb": [
         "ExperimentHub",
         "AnnotationHub",
