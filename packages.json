@@ -390,7 +390,6 @@
     ],
     "ALDEx2": [
         "zCompositions",
-        "Rfast",
         "GenomicRanges",
         "SummarizedExperiment",
         "multtest",
@@ -501,7 +500,6 @@
         "cellranger",
         "progress",
         "bslib",
-        "Rfast",
         "rvest",
         "hms",
         "RSpectra"
@@ -2105,7 +2103,6 @@
         "cowplot",
         "tidytext",
         "zCompositions",
-        "Rfast",
         "GenomicRanges",
         "multtest",
         "mia",
@@ -6499,7 +6496,6 @@
         "Ecume",
         "TrajectoryUtils",
         "distinct",
-        "Rfast",
         "ggplot2",
         "scater",
         "tibble",
@@ -6904,7 +6900,6 @@
         "ggrepel",
         "tibble",
         "tidyr",
-        "Rfast",
         "tidyselect",
         "pillar"
     ],
@@ -9051,7 +9046,6 @@
         "XVector"
     ],
     "distinct": [
-        "Rfast",
         "SummarizedExperiment",
         "SingleCellExperiment",
         "ggplot2",
@@ -16551,7 +16545,6 @@
     "LACE": [
         "sortable",
         "dplyr",
-        "Rfast",
         "SummarizedExperiment",
         "tidyr",
         "readr",
@@ -18941,7 +18934,6 @@
         "seriation",
         "seqinr",
         "Biostrings",
-        "Rfast",
         "shinyFiles",
         "SummarizedExperiment",
         "XVector",
@@ -19312,7 +19304,6 @@
         "plotROC",
         "vegan",
         "zCompositions",
-        "Rfast",
         "GenomicRanges",
         "SummarizedExperiment",
         "mia",
@@ -22554,7 +22545,6 @@
         "ggplot2",
         "RUVSeq",
         "DESeq2",
-        "Rfast",
         "octad.db",
         "ExperimentHub",
         "AnnotationHub",
@@ -22790,7 +22780,6 @@
         "shiny",
         "vegan",
         "zCompositions",
-        "Rfast",
         "GenomicRanges",
         "SummarizedExperiment",
         "multtest",
@@ -23246,7 +23235,6 @@
     "optimalFlow": [
         "dplyr",
         "transport",
-        "Rfast",
         "flowMeans",
         "rgl",
         "tibble",
@@ -24222,7 +24210,6 @@
         "tibble",
         "nloptr",
         "mice",
-        "Rfast",
         "broom",
         "dplyr",
         "tidyr",
@@ -25491,7 +25478,6 @@
         "highcharter",
         "pairsD3",
         "recount",
-        "Rfast",
         "shinyjs",
         "SummarizedExperiment",
         "RSQLite",
@@ -35503,9 +35489,7 @@
         "tidyselect",
         "pillar"
     ],
-    "VERSO": [
-        "Rfast"
-    ],
+    "VERSO": [],
     "vidger": [
         "DESeq2",
         "GGally",
@@ -36143,7 +36127,6 @@
         "EnrichmentBrowser",
         "GSEABase",
         "msigdbr",
-        "Rfast",
         "ggplot2",
         "tidyr",
         "progress",
@@ -36518,7 +36501,6 @@
     "zCompositions": [
         "NADA"
     ],
-    "Rfast": [],
     "NADA": [],
     "shinydashboard": [
         "shiny",
@@ -36533,7 +36515,6 @@
         "pillar"
     ],
     "speaq": [
-        "Rfast",
         "ggplot2",
         "rvest",
         "tibble",
@@ -40347,9 +40328,7 @@
         "BWStest"
     ],
     "BWStest": [],
-    "SmoothWin": [
-        "Rfast"
-    ],
+    "SmoothWin": [],
     "osfr": [
         "tibble",
         "pillar"
