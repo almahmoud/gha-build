@@ -8,12 +8,9 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "affycoretools": [
-        "ReportingTools"
-    ],
+    "affycoretools": [],
     "AgiMicroRna": [
-        "affycoretools",
-        "ReportingTools"
+        "affycoretools"
     ],
     "airpart": [
         "scater"
@@ -684,7 +681,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "ReportingTools": [],
     "restfulSE": [
         "ExperimentHub",
         "AnnotationHub",
