@@ -7336,7 +7336,6 @@
         "dplyr",
         "tidyselect"
     ],
-    "Cormotif": [],
     "corral": [
         "ggplot2",
         "ggthemes",
