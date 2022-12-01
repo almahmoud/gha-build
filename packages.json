@@ -118843,7 +118843,6 @@
         "sp",
         "SpatialExtremes",
         "ggrepel",
-        "kriging",
         "plotly",
         "stringr",
         "future",
@@ -151484,7 +151483,6 @@
         "pillar",
         "lattice"
     ],
-    "kriging": [],
     "sftime": [
         "sf",
         "classInt",
