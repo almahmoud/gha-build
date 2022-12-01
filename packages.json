@@ -915,11 +915,8 @@
         "DECIPHER",
         "RSQLite"
     ],
-    "ASSET": [
-        "msm"
-    ],
+    "ASSET": [],
     "ASSIGN": [
-        "msm",
         "sva",
         "ggplot2",
         "tibble",
@@ -13566,7 +13563,6 @@
     ],
     "methInheritSim": [
         "methylKit",
-        "msm",
         "qvalue",
         "Rsamtools",
         "fastseg",
@@ -19495,8 +19491,7 @@
         "GO.db"
     ],
     "REBET": [
-        "ASSET",
-        "msm"
+        "ASSET"
     ],
     "rebook": [
         "rmarkdown",
@@ -24462,7 +24457,6 @@
         "GSVA",
         "singscore",
         "SummarizedExperiment",
-        "msm",
         "sva",
         "geneplotter",
         "tibble",
@@ -27068,7 +27062,6 @@
         "tibble",
         "tidyselect"
     ],
-    "msm": [],
     "msigdbr": [
         "babelgene",
         "dplyr",
