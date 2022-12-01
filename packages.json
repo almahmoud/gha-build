@@ -790,7 +790,6 @@
         "tidyr",
         "repmis",
         "Rsamtools",
-        "HybridMTest",
         "geneplotter",
         "tibble",
         "tidyselect",
@@ -12927,7 +12926,6 @@
     "hummingbird": [
         "SummarizedExperiment"
     ],
-    "HybridMTest": [],
     "hypeR": [
         "ggplot2",
         "ggforce",
