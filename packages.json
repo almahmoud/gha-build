@@ -1803,7 +1803,6 @@
     "PFP": [
         "clusterProfiler"
     ],
-    "PharmacoGx": [],
     "phenomis": [
         "biodbChebi"
     ],
@@ -2598,9 +2597,7 @@
         "FDb.InfiniumMethylation.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "YAPSA": [
         "SomaticSignatures",
         "VariantAnnotation",
