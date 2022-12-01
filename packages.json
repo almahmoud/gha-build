@@ -360,7 +360,6 @@
     ],
     "ASURAT": [],
     "ATACCoGAPS": [
-        "CoGAPS",
         "projectR",
         "TFBSTools",
         "msigdbr",
@@ -1742,7 +1741,6 @@
         "STRINGdb",
         "readr"
     ],
-    "CoGAPS": [],
     "cogena": [
         "devtools",
         "testthat",
@@ -7467,7 +7465,6 @@
         "broom"
     ],
     "projectR": [
-        "CoGAPS",
         "ggalluvial"
     ],
     "pRoloc": [
