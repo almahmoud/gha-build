@@ -719,7 +719,6 @@
         "rmarkdown",
         "speaq",
         "ggplot2",
-        "baseline",
         "vctrs",
         "BiocParallel",
         "futile.logger",
@@ -31020,7 +31019,6 @@
     "NADfinder": [
         "GenomicRanges",
         "SummarizedExperiment",
-        "baseline",
         "GenomicAlignments",
         "GenomeInfoDb",
         "rtracklayer",
@@ -52471,7 +52469,6 @@
         "openssl",
         "pillar"
     ],
-    "baseline": [],
     "rARPACK": [
         "RSpectra",
         "RcppEigen"
