@@ -876,7 +876,6 @@
         "FDb.InfiniumMethylation.hg19",
         "minfi"
     ],
-    "iCNV": [],
     "ideal": [
         "pcaExplorer"
     ],
