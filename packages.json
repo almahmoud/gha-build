@@ -22658,7 +22658,6 @@
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
-        "qvcalc",
         "openssl",
         "nlme",
         "selectr",
@@ -97784,14 +97783,11 @@
     ],
     "MetaCycle": [
         "gnm",
-        "Matrix",
-        "qvcalc"
+        "Matrix"
     ],
     "gnm": [
-        "Matrix",
-        "qvcalc"
+        "Matrix"
     ],
-    "qvcalc": [],
     "fastDummies": [
         "tibble",
         "stringr",
