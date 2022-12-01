@@ -57550,8 +57550,7 @@
         "Biobase",
         "venn",
         "mclust",
-        "BiocGenerics",
-        "admisc"
+        "BiocGenerics"
     ],
     "maskBAD": [
         "gcrma",
@@ -133463,10 +133462,7 @@
     ],
     "parmigene": [],
     "LungCancerACvsSCCGEO": [],
-    "venn": [
-        "admisc"
-    ],
-    "admisc": [],
+    "venn": [],
     "PairedData": [
         "gld",
         "mvtnorm",
