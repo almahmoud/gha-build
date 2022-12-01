@@ -15243,7 +15243,6 @@
     "GSRI": [
         "genefilter",
         "GSEABase",
-        "les",
         "AnnotationDbi",
         "annotate",
         "httr",
@@ -17778,7 +17777,6 @@
         "TH.data",
         "pillar"
     ],
-    "les": [],
     "levi": [
         "DT",
         "dplyr",
