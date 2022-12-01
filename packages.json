@@ -145,7 +145,6 @@
         "survival",
         "multtest",
         "strucchange",
-        "affy",
         "vsn",
         "genefilter",
         "AnnotationDbi",
@@ -354,7 +353,6 @@
         "vctrs",
         "pillar"
     ],
-    "affy": [],
     "affycomp": [],
     "AffyCompatible": [
         "Biostrings",
@@ -363,11 +361,9 @@
         "GenomeInfoDb"
     ],
     "affyContam": [
-        "affy",
         "affydata"
     ],
     "affycoretools": [
-        "affy",
         "GOstats",
         "gcrma",
         "AnnotationDbi",
@@ -446,14 +442,12 @@
     ],
     "affyILM": [
         "gcrma",
-        "affy",
         "XVector",
         "Biostrings",
         "IRanges",
         "GenomeInfoDb"
     ],
     "affylmGUI": [
-        "affy",
         "affyPLM",
         "gcrma",
         "AnnotationDbi",
@@ -470,16 +464,13 @@
         "openssl"
     ],
     "affyPLM": [
-        "affy",
         "gcrma",
         "XVector",
         "Biostrings",
         "IRanges",
         "GenomeInfoDb"
     ],
-    "AffyRNADegradation": [
-        "affy"
-    ],
+    "AffyRNADegradation": [],
     "AGDEX": [
         "GSEABase",
         "annotate",
@@ -509,7 +500,6 @@
         "XVector"
     ],
     "AgiMicroRna": [
-        "affy",
         "affycoretools",
         "GOstats",
         "gcrma",
@@ -843,7 +833,6 @@
         "RcppEigen"
     ],
     "altcdfenvs": [
-        "affy",
         "makecdfenv",
         "Biostrings",
         "hypergraph",
@@ -1806,7 +1795,6 @@
         "DelayedArray"
     ],
     "arrayMvout": [
-        "affy",
         "affyContam",
         "lumi",
         "affydata",
@@ -1873,7 +1861,6 @@
     ],
     "arrayQuality": [],
     "arrayQualityMetrics": [
-        "affy",
         "affyPLM",
         "beadarray",
         "genefilter",
@@ -2831,7 +2818,6 @@
         "MsCoreUtils",
         "IRanges",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "MLInterfaces",
@@ -3645,7 +3631,6 @@
         "openssl"
     ],
     "bgx": [
-        "affy",
         "gcrma",
         "XVector",
         "Biostrings",
@@ -3737,7 +3722,6 @@
         "biomaRt",
         "mgcv",
         "rhdf5",
-        "affy",
         "hms",
         "vroom",
         "knitr",
@@ -5272,7 +5256,6 @@
         "flexclust",
         "epiNEM",
         "mnem",
-        "affy",
         "sva",
         "vsn",
         "rmarkdown",
@@ -5968,7 +5951,6 @@
         "GenomicRanges",
         "IRanges",
         "ggbio",
-        "affy",
         "ggplot2",
         "annotate",
         "AnnotationDbi",
@@ -6224,7 +6206,6 @@
         "htmlwidgets",
         "interp",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "GenomicRanges",
@@ -6958,7 +6939,6 @@
         "RBGL",
         "annotate",
         "survival",
-        "affy",
         "ggplot2",
         "httr",
         "IRanges",
@@ -7753,7 +7733,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "interp",
-        "affy",
         "FDb.InfiniumMethylation.hg19",
         "multtest",
         "BiocVersion",
@@ -8326,7 +8305,6 @@
         "ChIPXpressData",
         "GEOquery",
         "frma",
-        "affy",
         "biganalytics",
         "oligo",
         "oligoClasses",
@@ -9052,7 +9030,6 @@
         "BiocParallel",
         "IRanges",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "ggplot2",
@@ -9108,7 +9085,6 @@
         "BiocParallel",
         "IRanges",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "statnet.common",
@@ -9780,7 +9756,6 @@
         "DelayedArray"
     ],
     "coexnet": [
-        "affy",
         "siggenes",
         "GEOquery",
         "vsn",
@@ -10997,9 +10972,7 @@
         "memoise",
         "mgcv"
     ],
-    "Cormotif": [
-        "affy"
-    ],
+    "Cormotif": [],
     "corral": [
         "ggplot2",
         "ggthemes",
@@ -11075,7 +11048,6 @@
         "MsFeatures",
         "futile.logger",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "ggplot2",
@@ -11746,7 +11718,6 @@
         "vctrs"
     ],
     "crossmeta": [
-        "affy",
         "AnnotationDbi",
         "DT",
         "edgeR",
@@ -12737,7 +12708,6 @@
         "BiocParallel",
         "IRanges",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "ggplot2",
@@ -13742,7 +13712,6 @@
         "mzR",
         "MsCoreUtils",
         "BiocParallel",
-        "affy",
         "mzID",
         "hms",
         "vroom",
@@ -15090,7 +15059,6 @@
         "httr",
         "reshape2",
         "vsn",
-        "affy",
         "ggplot2",
         "DT",
         "shiny",
@@ -15297,7 +15265,6 @@
         "DelayedArray"
     ],
     "DrugVsDisease": [
-        "affy",
         "biomaRt",
         "ArrayExpress",
         "GEOquery",
@@ -17608,9 +17575,7 @@
         "futile.logger",
         "DelayedArray"
     ],
-    "ExiMiR": [
-        "affy"
-    ],
+    "ExiMiR": [],
     "exomeCopy": [
         "IRanges",
         "GenomicRanges",
@@ -18045,9 +18010,7 @@
         "tweenr",
         "RcppEigen"
     ],
-    "farms": [
-        "affy"
-    ],
+    "farms": [],
     "fastLiquidAssociation": [
         "LiquidAssociation",
         "doParallel",
@@ -18359,7 +18322,6 @@
     ],
     "ffpe": [
         "TTR",
-        "affy",
         "lumi",
         "methylumi",
         "GenomicFeatures",
@@ -18558,7 +18520,6 @@
         "htmlTable",
         "viridis",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "scales",
@@ -19264,7 +19225,6 @@
         "pillar"
     ],
     "frma": [
-        "affy",
         "oligo",
         "oligoClasses",
         "Biostrings",
@@ -19279,9 +19239,7 @@
         "DelayedArray",
         "vctrs"
     ],
-    "frmaTools": [
-        "affy"
-    ],
+    "frmaTools": [],
     "FunChIP": [
         "GenomicRanges",
         "shiny",
@@ -19700,7 +19658,6 @@
         "pillar"
     ],
     "gcrma": [
-        "affy",
         "XVector",
         "Biostrings",
         "IRanges",
@@ -21186,9 +21143,7 @@
         "vroom",
         "progress"
     ],
-    "GEOsubmission": [
-        "affy"
-    ],
+    "GEOsubmission": [],
     "gep2pep": [
         "GSEABase",
         "rhdf5",
@@ -21238,7 +21193,6 @@
         "annotate",
         "openssl",
         "hms",
-        "affy",
         "blob",
         "Biostrings",
         "memoise",
@@ -23122,7 +23076,6 @@
         "Ckmeans.1d.dp"
     ],
     "Harshlight": [
-        "affy",
         "altcdfenvs",
         "makecdfenv",
         "Biostrings",
@@ -23802,7 +23755,6 @@
         "future"
     ],
     "HTqPCR": [
-        "affy",
         "gplots"
     ],
     "HTSeqGenie": [
@@ -24077,7 +24029,6 @@
     "iCheck": [
         "lumi",
         "gplots",
-        "affy",
         "GeneSelectMMD",
         "rgl",
         "lmtest",
@@ -24466,7 +24417,6 @@
         "GSEABase",
         "Category",
         "htmlwidgets",
-        "affy",
         "ggplot2",
         "AnnotationDbi",
         "RBGL",
@@ -25397,7 +25347,6 @@
         "htmlTable",
         "viridis",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "scales",
@@ -26842,7 +26791,6 @@
         "htmlTable",
         "viridis",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "scales",
@@ -26874,9 +26822,7 @@
         "LogicReg",
         "survival"
     ],
-    "logitT": [
-        "affy"
-    ],
+    "logitT": [],
     "LOLA": [
         "IRanges",
         "GenomicRanges",
@@ -27023,7 +26969,6 @@
         "sass"
     ],
     "lumi": [
-        "affy",
         "methylumi",
         "GenomicFeatures",
         "GenomicRanges",
@@ -27730,7 +27675,6 @@
         "htmlTable",
         "questionr",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "dplyr",
@@ -27775,9 +27719,7 @@
         "vroom",
         "progress"
     ],
-    "makecdfenv": [
-        "affy"
-    ],
+    "makecdfenv": [],
     "MANOR": [
         "GLAD"
     ],
@@ -27804,7 +27746,6 @@
         "openssl"
     ],
     "maPredictDSC": [
-        "affy",
         "gcrma",
         "ROC",
         "e1071",
@@ -27932,7 +27873,6 @@
     "maSigPro": [],
     "maskBAD": [
         "gcrma",
-        "affy",
         "XVector",
         "Biostrings",
         "IRanges",
@@ -28006,7 +27946,6 @@
         "openssl",
         "reticulate",
         "RSpectra",
-        "affy",
         "sass",
         "memoise",
         "XVector",
@@ -28514,7 +28453,6 @@
         "R.utils",
         "rhdf5",
         "base64",
-        "affy",
         "mgcv",
         "RSQLite",
         "scales",
@@ -28895,7 +28833,6 @@
         "MsFeatures",
         "futile.logger",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "ggplot2",
@@ -29220,7 +29157,6 @@
         "htmlTable",
         "viridis",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "scales",
@@ -29411,7 +29347,6 @@
         "DelayedArray",
         "prodlim",
         "ipred",
-        "affy",
         "KEGGREST",
         "R.utils",
         "dbplyr",
@@ -31179,7 +31114,6 @@
     ],
     "mimager": [
         "scales",
-        "affy",
         "affyPLM",
         "oligo",
         "oligoClasses",
@@ -31275,7 +31209,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "affy",
         "methylumi",
         "GenomicFeatures",
         "GenomicRanges",
@@ -32370,7 +32303,6 @@
         "BiocParallel",
         "IRanges",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "ggplot2",
@@ -33207,7 +33139,6 @@
         "BiocParallel",
         "IRanges",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "ggplot2",
@@ -33230,7 +33161,6 @@
         "BiocParallel",
         "IRanges",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "ggplot2",
@@ -33249,7 +33179,6 @@
         "BiocParallel",
         "IRanges",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "ggplot2",
@@ -33299,7 +33228,6 @@
         "MsCoreUtils",
         "BiocParallel",
         "vsn",
-        "affy",
         "pcaMethods",
         "R.utils",
         "dbplyr",
@@ -33588,7 +33516,6 @@
         "BiocParallel",
         "IRanges",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "httr",
@@ -33642,7 +33569,6 @@
         "BiocParallel",
         "IRanges",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "knitr",
@@ -34963,7 +34889,6 @@
         "MsCoreUtils",
         "MsFeatures",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "ggplot2",
@@ -35716,7 +35641,6 @@
         "arm",
         "HTqPCR",
         "lme4",
-        "affy",
         "gplots",
         "nloptr",
         "RcppEigen",
@@ -35807,7 +35731,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "affy",
         "XVector",
         "forcats",
         "hms",
@@ -37729,9 +37652,7 @@
         "RcppEigen",
         "MatrixModels"
     ],
-    "panp": [
-        "affy"
-    ],
+    "panp": [],
     "PANR": [
         "igraph",
         "RedeR"
@@ -38262,7 +38183,6 @@
         "BiocParallel",
         "IRanges",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "httpuv",
@@ -38272,7 +38192,6 @@
     ],
     "PECA": [
         "ROTS",
-        "affy",
         "genefilter",
         "aroma.affymetrix",
         "aroma.core",
@@ -39267,9 +39186,7 @@
         "pillar"
     ],
     "plgem": [],
-    "plier": [
-        "affy"
-    ],
+    "plier": [],
     "PloGO2": [
         "GO.db",
         "GOstats",
@@ -39717,7 +39634,6 @@
     ],
     "prebs": [
         "GenomicAlignments",
-        "affy",
         "RPA",
         "GenomicRanges",
         "IRanges",
@@ -39768,7 +39684,6 @@
         "GenomeInfoDb",
         "XVector",
         "shiny",
-        "affy",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -39944,7 +39859,6 @@
         "BiocParallel",
         "IRanges",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "scales",
@@ -40072,7 +39986,6 @@
         "htmlTable",
         "nloptr",
         "RcppEigen",
-        "affy",
         "httr",
         "knitr",
         "htmlwidgets",
@@ -40132,7 +40045,6 @@
         "tibble",
         "vctrs",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "GenomicRanges",
@@ -40330,7 +40242,6 @@
         "MsCoreUtils",
         "IRanges",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "RSQLite",
@@ -40397,7 +40308,6 @@
         "BiocParallel",
         "IRanges",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "MLInterfaces",
@@ -40542,7 +40452,6 @@
         "BiocParallel",
         "IRanges",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "TTR",
@@ -40714,7 +40623,6 @@
         "httpuv",
         "fontawesome",
         "R.cache",
-        "affy",
         "IRanges",
         "RSQLite",
         "KEGGREST",
@@ -40929,7 +40837,6 @@
         "BiocParallel",
         "IRanges",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "httr",
@@ -40961,7 +40868,6 @@
     "puma": [
         "oligo",
         "oligoClasses",
-        "affy",
         "Biostrings",
         "RSQLite",
         "IRanges",
@@ -41014,15 +40920,12 @@
         "hms",
         "tidyselect"
     ],
-    "pvac": [
-        "affy"
-    ],
+    "pvac": [],
     "pvca": [
         "vsn",
         "lme4",
         "nloptr",
         "RcppEigen",
-        "affy",
         "ggplot2",
         "mgcv",
         "scales",
@@ -41290,9 +41193,7 @@
         "waldo",
         "rematch2"
     ],
-    "qpcrNorm": [
-        "affy"
-    ],
+    "qpcrNorm": [],
     "qpgraph": [
         "annotate",
         "BiocParallel",
@@ -41350,7 +41251,6 @@
         "MsCoreUtils",
         "BiocParallel",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "hms",
@@ -42155,7 +42055,6 @@
     "rCGH": [
         "ggplot2",
         "shiny",
-        "affy",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -42805,7 +42704,6 @@
         "hms"
     ],
     "RefPlus": [
-        "affy",
         "affyPLM",
         "gcrma",
         "XVector",
@@ -43176,7 +43074,6 @@
         "annotate",
         "survival",
         "DelayedArray",
-        "affy",
         "ggplot2",
         "httr",
         "RSQLite",
@@ -44033,7 +43930,6 @@
         "AnnotationDbi",
         "annotate",
         "survival",
-        "affy",
         "ggplot2",
         "httr",
         "IRanges",
@@ -44107,7 +44003,6 @@
     ],
     "Risa": [
         "biocViews",
-        "affy",
         "xcms",
         "RBGL",
         "BiocParallel",
@@ -44325,7 +44220,6 @@
         "BiocParallel",
         "IRanges",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "scales",
@@ -44582,7 +44476,6 @@
         "RBGL",
         "survival",
         "RcppEigen",
-        "affy",
         "ggplot2",
         "mgcv",
         "scales",
@@ -45196,7 +45089,6 @@
     ],
     "ROTS": [],
     "RPA": [
-        "affy",
         "BiocStyle",
         "rmarkdown",
         "phyloseq",
@@ -46199,7 +46091,6 @@
         "oligo",
         "Biostrings",
         "GEOquery",
-        "affy",
         "sva",
         "IRanges",
         "XVector",
@@ -49528,7 +49419,6 @@
         "AnnotationDbi",
         "annotate",
         "survival",
-        "affy",
         "ggplot2",
         "httr",
         "IRanges",
@@ -50188,7 +50078,6 @@
         "vctrs",
         "rhdf5",
         "base64",
-        "affy",
         "knitr",
         "multtest",
         "openssl",
@@ -50311,7 +50200,6 @@
         "survival",
         "multtest",
         "strucchange",
-        "affy",
         "vsn",
         "genefilter",
         "AnnotationDbi",
@@ -51970,9 +51858,7 @@
         "rematch2",
         "tidyselect"
     ],
-    "sscore": [
-        "affy"
-    ],
+    "sscore": [],
     "sscu": [
         "Biostrings",
         "seqinr",
@@ -52234,7 +52120,6 @@
         "RBGL",
         "annotate",
         "survival",
-        "affy",
         "ggplot2",
         "httr",
         "IRanges",
@@ -52287,7 +52172,6 @@
         "ggplot2",
         "gplots",
         "edgeR",
-        "affy",
         "mgcv",
         "scales",
         "tibble",
@@ -53015,7 +52899,6 @@
         "MsCoreUtils",
         "BiocParallel",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "ggplot2",
@@ -54330,7 +54213,6 @@
     ],
     "tilingArray": [
         "strucchange",
-        "affy",
         "vsn",
         "genefilter",
         "AnnotationDbi",
@@ -54825,7 +54707,6 @@
         "MsCoreUtils",
         "BiocParallel",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "futile.logger",
@@ -55814,8 +55695,7 @@
         "XVector"
     ],
     "TurboNorm": [
-        "convert",
-        "affy"
+        "convert"
     ],
     "tweeDEseq": [
         "edgeR",
@@ -56136,7 +56016,6 @@
     "UNDO": [],
     "unifiedWMWqPCR": [
         "HTqPCR",
-        "affy",
         "gplots"
     ],
     "UniProt.ws": [
@@ -56998,7 +56877,6 @@
         "pillar"
     ],
     "vsn": [
-        "affy",
         "ggplot2",
         "mgcv",
         "scales",
@@ -57180,7 +57058,6 @@
         "illuminaio",
         "minfi",
         "base64",
-        "affy",
         "GenomicFeatures",
         "GenomicRanges",
         "annotate",
@@ -57289,7 +57166,6 @@
         "tidyselect"
     ],
     "webbioc": [
-        "affy",
         "multtest",
         "annaffy",
         "vsn",
@@ -57441,7 +57317,6 @@
         "MsFeatures",
         "futile.logger",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "ggplot2",
@@ -58306,9 +58181,7 @@
         "RcppEigen"
     ],
     "doParallel": [],
-    "affydata": [
-        "affy"
-    ],
+    "affydata": [],
     "PFAM.db": [
         "AnnotationDbi",
         "IRanges",
@@ -59766,7 +59639,6 @@
         "BiocParallel",
         "IRanges",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "ggplot2",
@@ -62125,7 +61997,6 @@
         "MsFeatures",
         "futile.logger",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "ggplot2",
@@ -62380,7 +62251,6 @@
         "BiocParallel",
         "IRanges",
         "vsn",
-        "affy",
         "pcaMethods",
         "mzID",
         "ggplot2",
