@@ -2631,7 +2631,6 @@
     "scoreInvHap": [
         "VariantAnnotation"
     ],
-    "scp": [],
     "scPipe": [
         "scater"
     ],
