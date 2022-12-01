@@ -4491,7 +4491,6 @@
         "uwot",
         "enrichR",
         "SummarizedExperiment",
-        "MCMCprecision",
         "ggrepel",
         "scater",
         "scran",
@@ -22774,7 +22773,6 @@
         "Biostrings",
         "tibble",
         "tidyr",
-        "MCMCprecision",
         "dplyr",
         "BSgenome",
         "GenomicFeatures",
@@ -33000,7 +32998,6 @@
         "ScaledMatrix",
         "beachmat",
         "uwot",
-        "MCMCprecision",
         "multipanelfigure",
         "miniUI",
         "GenomicRanges",
@@ -40284,7 +40281,6 @@
         "tibble",
         "pillar"
     ],
-    "MCMCprecision": [],
     "multipanelfigure": [
         "ggplot2",
         "tibble",
