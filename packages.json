@@ -413,7 +413,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "biobroom": [],
     "bioCancer": [
         "radiant.data",
         "DOSE",
@@ -6576,9 +6575,7 @@
         "CoreGx",
         "piano"
     ],
-    "TPP": [
-        "biobroom"
-    ],
+    "TPP": [],
     "trackViewer": [
         "GenomicFeatures",
         "Gviz",
