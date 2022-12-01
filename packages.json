@@ -2611,7 +2611,6 @@
     ],
     "ChAMP": [
         "minfi",
-        "ChAMPdata",
         "DMRcate",
         "IlluminaHumanMethylationEPICmanifest",
         "prettydoc",
@@ -21550,7 +21549,6 @@
     "GenomicTools": [],
     "GenomicTools.fileHandler": [],
     "quantmod": [],
-    "ChAMPdata": [],
     "IlluminaHumanMethylationEPICmanifest": [
         "minfi",
         "bumphunter",
