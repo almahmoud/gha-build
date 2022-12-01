@@ -5596,7 +5596,6 @@
         "ggplot2",
         "TFBSTools",
         "RSQLite",
-        "httpcache",
         "KEGGREST",
         "dbplyr",
         "dplyr",
@@ -6832,7 +6831,6 @@
         "GenomicFeatures",
         "rtracklayer",
         "Rsamtools",
-        "httpcache",
         "KEGGREST",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -25687,7 +25685,6 @@
         "RSQLite",
         "AnnotationDbi",
         "BiocFileCache",
-        "httpcache",
         "progress",
         "KEGGREST",
         "dbplyr",
@@ -28325,7 +28322,6 @@
         "rematch2",
         "tibble"
     ],
-    "httpcache": [],
     "plsVarSel": [
         "progress",
         "MSQC"
