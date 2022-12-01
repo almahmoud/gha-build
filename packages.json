@@ -1313,7 +1313,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "hiReadsProcessor": [],
     "hpar": [],
     "HTSeqGenie": [
         "gmapR",
