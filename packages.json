@@ -114,8 +114,7 @@
         "pillar",
         "openssl",
         "httpuv",
-        "fontawesome",
-        "ellipsis"
+        "fontawesome"
     ],
     "ABSSeq": [],
     "acde": [],
@@ -249,7 +248,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "callr",
         "pkgload",
         "waldo",
@@ -322,7 +320,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "XVector",
         "GenomeInfoDb",
         "sass"
@@ -376,7 +373,6 @@
         "GenomeInfoDb",
         "XVector",
         "dplyr",
-        "ellipsis",
         "lifecycle",
         "purrr",
         "tibble",
@@ -473,7 +469,6 @@
         "restfulr",
         "BiocFileCache",
         "tidyselect",
-        "ellipsis",
         "interp",
         "hms",
         "purrr",
@@ -628,7 +623,6 @@
         "restfulr",
         "BiocFileCache",
         "tidyselect",
-        "ellipsis",
         "interp",
         "hms",
         "purrr",
@@ -738,7 +732,6 @@
         "knitr",
         "httpuv",
         "fontawesome",
-        "ellipsis",
         "sass",
         "memoise",
         "highr",
@@ -800,7 +793,6 @@
         "tibble",
         "tidyselect",
         "mgcv",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "highr"
@@ -826,8 +818,7 @@
         "crosstalk",
         "purrr",
         "promises",
-        "openssl",
-        "ellipsis"
+        "openssl"
     ],
     "alpine": [
         "Biostrings",
@@ -867,8 +858,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "AlpsNMR": [
         "future",
@@ -905,7 +895,6 @@
         "Rfast",
         "rvest",
         "missForest",
-        "ellipsis",
         "sass",
         "memoise",
         "highr",
@@ -982,7 +971,6 @@
         "GenomeInfoDb",
         "XVector",
         "rhdf5",
-        "ellipsis",
         "bit64",
         "progress",
         "KEGGREST",
@@ -1112,7 +1100,6 @@
         "testthat",
         "GenomicRanges",
         "GenomeInfoDb",
-        "ellipsis",
         "purrr",
         "treeio",
         "futile.logger",
@@ -1232,7 +1219,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "ellipsis",
         "mgcv",
         "survival",
         "RcppEigen",
@@ -1395,7 +1381,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "XVector",
         "GenomeInfoDb",
         "sass"
@@ -1455,7 +1440,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "DelayedArray",
         "sass"
     ],
@@ -1501,7 +1485,6 @@
         "progress",
         "SummarizedExperiment",
         "BiocParallel",
-        "ellipsis",
         "openssl",
         "shiny",
         "DT",
@@ -1589,7 +1572,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "purrr",
         "sass",
         "memoise"
@@ -1623,7 +1605,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass",
         "memoise",
         "openssl",
@@ -1657,7 +1638,6 @@
         "htmlwidgets",
         "crosstalk",
         "promises",
-        "ellipsis",
         "highr",
         "httpuv",
         "fontawesome",
@@ -1703,7 +1683,6 @@
         "R.cache",
         "restfulr",
         "DelayedArray",
-        "ellipsis",
         "purrr",
         "BSgenome",
         "KEGGREST",
@@ -1816,7 +1795,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -1883,7 +1861,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "KEGGREST",
         "BiocVersion",
@@ -1972,7 +1949,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "RcppEigen",
         "highr",
         "bit64",
@@ -2046,7 +2022,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "vroom"
     ],
     "arrayQuality": [
@@ -2133,7 +2108,6 @@
         "promises",
         "ade4",
         "segmented",
-        "ellipsis",
         "futile.logger",
         "openssl",
         "Biostrings",
@@ -2187,8 +2161,7 @@
         "RcppDE",
         "pillar",
         "tidyselect",
-        "openssl",
-        "ellipsis"
+        "openssl"
     ],
     "ASpediaFI": [
         "SummarizedExperiment",
@@ -2257,7 +2230,6 @@
         "survival",
         "htmlTable",
         "viridis",
-        "ellipsis",
         "testthat",
         "knitr",
         "htmlwidgets",
@@ -2303,7 +2275,6 @@
         "biovizBase",
         "latticeExtra",
         "dplyr",
-        "ellipsis",
         "lifecycle",
         "purrr",
         "tibble",
@@ -2485,7 +2456,6 @@
         "KEGGREST",
         "futile.logger",
         "BiocFileCache",
-        "ellipsis",
         "GenomicAlignments",
         "poweRlaw",
         "annotate",
@@ -2595,7 +2565,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "ellipsis",
         "vroom",
         "httpuv",
         "fontawesome",
@@ -2648,7 +2617,6 @@
         "httr",
         "hms",
         "vroom",
-        "ellipsis",
         "openssl",
         "progress"
     ],
@@ -2695,7 +2663,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass"
     ],
     "atSNP": [
@@ -2726,7 +2693,6 @@
         "htmlwidgets",
         "TFBSTools",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "blob",
@@ -2805,7 +2771,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -2858,7 +2823,6 @@
         "cellranger",
         "progress",
         "GenomeInfoDb",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "blob",
@@ -2904,7 +2868,6 @@
         "mgcv",
         "vctrs",
         "futile.logger",
-        "ellipsis",
         "purrr",
         "tidyr",
         "tidyselect",
@@ -2968,7 +2931,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "ellipsis",
         "bit64",
         "memoise"
     ],
@@ -3032,7 +2994,6 @@
         "BiocIO",
         "biomaRt",
         "DelayedArray",
-        "ellipsis",
         "purrr",
         "KEGGREST",
         "progress",
@@ -3111,7 +3072,6 @@
         "dendextend",
         "mixtools",
         "biomaRt",
-        "ellipsis",
         "purrr",
         "AnnotationDbi",
         "progress",
@@ -3202,7 +3162,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -3246,7 +3205,6 @@
         "GenomicRanges",
         "latticeExtra",
         "XVector",
-        "ellipsis",
         "purrr",
         "futile.logger",
         "sass",
@@ -3320,7 +3278,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "pillar",
         "sass",
         "jquerylib",
@@ -3382,7 +3339,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "pillar",
         "sass",
         "jquerylib",
@@ -3455,7 +3411,6 @@
         "httpuv",
         "fontawesome",
         "promises",
-        "ellipsis",
         "lifecycle",
         "mgcv",
         "genefilter",
@@ -3613,8 +3568,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "BCRANK": [
         "Biostrings",
@@ -3882,7 +3836,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -3956,7 +3909,6 @@
         "blob",
         "memoise",
         "futile.logger",
-        "ellipsis",
         "DelayedArray"
     ],
     "BgeeDB": [
@@ -3974,7 +3926,6 @@
         "bit64",
         "blob",
         "memoise",
-        "ellipsis",
         "purrr",
         "GO.db",
         "AnnotationDbi",
@@ -4089,7 +4040,6 @@
         "vroom",
         "knitr",
         "multtest",
-        "ellipsis",
         "purrr",
         "progress",
         "BiocFileCache",
@@ -4138,7 +4088,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "GenomicRanges",
         "GenomeInfoDb",
         "sass",
@@ -4185,7 +4134,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "ellipsis",
         "purrr",
         "RSQLite",
         "KEGGREST",
@@ -4236,7 +4184,6 @@
         "broom",
         "dplyr",
         "tidyr",
-        "ellipsis",
         "purrr",
         "tibble",
         "ggplot2",
@@ -4319,7 +4266,6 @@
         "graphite",
         "httpuv",
         "fontawesome",
-        "ellipsis",
         "futile.logger",
         "sass",
         "memoise",
@@ -4387,7 +4333,6 @@
         "openssl",
         "hms",
         "vroom",
-        "ellipsis",
         "bit64",
         "progress"
     ],
@@ -4405,7 +4350,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "dplyr",
         "purrr",
@@ -4515,7 +4459,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "DelayedArray",
         "KEGGREST",
         "BiocFileCache",
@@ -4601,7 +4544,6 @@
         "urltools",
         "blob",
         "purrr",
-        "ellipsis",
         "bit64",
         "memoise",
         "progress"
@@ -4621,7 +4563,6 @@
         "pillar",
         "httr",
         "Biostrings",
-        "ellipsis",
         "purrr",
         "XVector",
         "GenomeInfoDb",
@@ -4715,7 +4656,6 @@
         "blob",
         "memoise",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "vctrs",
@@ -4742,7 +4682,6 @@
         "blob",
         "memoise",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "vctrs",
@@ -4769,7 +4708,6 @@
         "blob",
         "memoise",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "vctrs",
@@ -4789,7 +4727,6 @@
         "openssl",
         "progress",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "dbplyr",
@@ -4823,7 +4760,6 @@
         "blob",
         "memoise",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "vctrs",
@@ -4850,7 +4786,6 @@
         "blob",
         "memoise",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "vctrs",
@@ -4877,7 +4812,6 @@
         "blob",
         "memoise",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "vctrs",
@@ -4904,7 +4838,6 @@
         "blob",
         "memoise",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "vctrs",
@@ -4924,7 +4857,6 @@
         "openssl",
         "progress",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "dbplyr",
@@ -4958,7 +4890,6 @@
         "blob",
         "memoise",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "vctrs",
@@ -4988,7 +4919,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "ellipsis",
         "Biostrings",
         "bit64",
         "memoise",
@@ -5105,7 +5035,6 @@
         "tibble",
         "tidyselect",
         "mgcv",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "highr"
@@ -5176,7 +5105,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass"
     ],
     "BioNERO": [
@@ -5295,7 +5223,6 @@
         "bslib",
         "httpuv",
         "fontawesome",
-        "ellipsis",
         "IRanges",
         "RSQLite",
         "sass",
@@ -5341,7 +5268,6 @@
         "crosstalk",
         "purrr",
         "promises",
-        "ellipsis",
         "tidyselect",
         "pillar",
         "openssl"
@@ -5465,8 +5391,7 @@
         "hms",
         "pillar",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "BiRewire": [
         "igraph",
@@ -5539,7 +5464,6 @@
         "biomaRt",
         "mgcv",
         "vctrs",
-        "ellipsis",
         "graph",
         "RBGL",
         "pillar",
@@ -5647,8 +5571,7 @@
         "blob",
         "memoise",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "blima": [
         "beadarray",
@@ -5727,7 +5650,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "RSQLite",
@@ -5894,7 +5816,6 @@
         "systemfonts",
         "RcppEigen",
         "mgcv",
-        "ellipsis",
         "purrr",
         "RSQLite",
         "KEGGREST",
@@ -6077,7 +5998,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "ellipsis",
         "RcppEigen",
         "highr",
         "hms",
@@ -6101,7 +6021,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "GenomicRanges",
         "IRanges",
@@ -6164,7 +6083,6 @@
         "openssl",
         "hms",
         "clock",
-        "ellipsis",
         "hardhat",
         "ipred",
         "lubridate",
@@ -6220,7 +6138,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "ellipsis",
         "blob",
         "openssl",
         "bit64",
@@ -6365,8 +6282,7 @@
         "openssl",
         "RcppEigen",
         "hms",
-        "purrr",
-        "ellipsis"
+        "purrr"
     ],
     "bugsigdbr": [
         "BiocFileCache",
@@ -6385,7 +6301,6 @@
         "blob",
         "pillar",
         "purrr",
-        "ellipsis",
         "openssl",
         "memoise"
     ],
@@ -6397,7 +6312,6 @@
         "XVector",
         "GenomeInfoDb",
         "usethis",
-        "ellipsis",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -6477,7 +6391,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "BumpyMatrix": [
@@ -6525,7 +6438,6 @@
         "mgcv",
         "scales",
         "GenomicAlignments",
-        "ellipsis",
         "purrr",
         "dbplyr",
         "SummarizedExperiment",
@@ -6611,7 +6523,6 @@
         "futile.logger",
         "BiocFileCache",
         "tidyselect",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "interp",
@@ -6682,7 +6593,6 @@
         "RcppEigen",
         "hms",
         "purrr",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "highr"
@@ -6761,7 +6671,6 @@
         "httr",
         "BiocFileCache",
         "tidyselect",
-        "ellipsis",
         "annotate",
         "knitr",
         "interp",
@@ -6807,7 +6716,6 @@
         "restfulr",
         "pillar",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyselect"
     ],
@@ -6907,7 +6815,6 @@
         "GenomeInfoDb",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "RcppEigen",
         "highr"
     ],
@@ -6973,7 +6880,6 @@
         "GenomicAlignments",
         "restfulr",
         "DelayedArray",
-        "ellipsis",
         "futile.logger",
         "progress",
         "httr",
@@ -7009,7 +6915,6 @@
         "bslib",
         "jquerylib",
         "knitr",
-        "ellipsis",
         "purrr",
         "sass",
         "memoise",
@@ -7057,8 +6962,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "CATALYST": [
         "SingleCellExperiment",
@@ -7128,7 +7032,6 @@
         "survival",
         "TH.data",
         "sandwich",
-        "ellipsis",
         "RcppAnnoy",
         "dqrng",
         "sitmo",
@@ -7248,7 +7151,6 @@
         "rvest",
         "GenomicFeatures",
         "GenomicDataCommons",
-        "ellipsis",
         "htmlwidgets",
         "crosstalk",
         "jquerylib",
@@ -7292,7 +7194,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "ellipsis",
         "purrr",
         "SingleCellExperiment",
         "Biostrings",
@@ -7344,7 +7245,6 @@
         "AnnotationDbi",
         "GenomicFeatures",
         "GenomicDataCommons",
-        "ellipsis",
         "purrr",
         "KEGGREST",
         "blob",
@@ -7396,7 +7296,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "bit64",
         "hms",
         "progress",
@@ -7486,7 +7385,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "XVector",
-        "ellipsis",
         "bit64"
     ],
     "celda": [
@@ -7562,7 +7460,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "ellipsis",
         "hms"
     ],
     "CellBarcode": [
@@ -7610,7 +7507,6 @@
         "IRanges",
         "XVector",
         "dplyr",
-        "ellipsis",
         "lifecycle",
         "purrr",
         "tibble",
@@ -7639,7 +7535,6 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "DelayedArray",
-        "ellipsis",
         "blob",
         "IRanges",
         "GenomeInfoDb",
@@ -7752,7 +7647,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -7833,7 +7727,6 @@
         "dplyr",
         "MatrixModels",
         "pillar",
-        "ellipsis",
         "purrr",
         "tidyr",
         "tidyselect",
@@ -7879,7 +7772,6 @@
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
-        "ellipsis",
         "ScaledMatrix",
         "irlba",
         "rsvd",
@@ -7989,7 +7881,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass",
         "memoise"
     ],
@@ -8060,7 +7951,6 @@
         "htmlTable",
         "viridis",
         "MatrixModels",
-        "ellipsis",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -8117,7 +8007,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "ellipsis",
         "ggplot2",
         "doParallel",
         "igraph",
@@ -8211,7 +8100,6 @@
         "ggrepel",
         "viridis",
         "graphlayouts",
-        "ellipsis",
         "tweenr",
         "systemfonts",
         "RcppEigen"
@@ -8282,7 +8170,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "ellipsis",
         "annotate",
         "XVector",
         "openssl",
@@ -8348,7 +8235,6 @@
         "vctrs",
         "hms",
         "vroom",
-        "ellipsis",
         "DelayedArray",
         "pillar",
         "bit64",
@@ -8497,7 +8383,6 @@
         "knitr",
         "httpuv",
         "fontawesome",
-        "ellipsis",
         "lumi",
         "ROC",
         "RSQLite",
@@ -8584,7 +8469,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "GenomicRanges",
         "DelayedArray",
         "IRanges",
@@ -8622,7 +8506,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "ellipsis",
         "dplyr",
         "clock",
         "hardhat",
@@ -8725,8 +8608,7 @@
         "RcppEigen",
         "hms",
         "purrr",
-        "mgcv",
-        "ellipsis"
+        "mgcv"
     ],
     "ChIPanalyser": [
         "GenomicRanges",
@@ -8817,7 +8699,6 @@
         "blob",
         "memoise",
         "futile.logger",
-        "ellipsis",
         "openssl",
         "highr",
         "DelayedArray",
@@ -8849,7 +8730,6 @@
         "VariantAnnotation",
         "ensembldb",
         "AnnotationFilter",
-        "ellipsis",
         "purrr",
         "tibble",
         "tidyr",
@@ -8936,8 +8816,7 @@
         "hms",
         "bit64",
         "blob",
-        "purrr",
-        "ellipsis"
+        "purrr"
     ],
     "ChIPQC": [
         "ggplot2",
@@ -9007,8 +8886,7 @@
         "interp",
         "irlba",
         "hms",
-        "purrr",
-        "ellipsis"
+        "purrr"
     ],
     "ChIPseeker": [
         "AnnotationDbi",
@@ -9081,8 +8959,7 @@
         "RcppEigen",
         "openssl",
         "hms",
-        "DelayedArray",
-        "ellipsis"
+        "DelayedArray"
     ],
     "chipseq": [
         "IRanges",
@@ -9161,7 +9038,6 @@
         "SummarizedExperiment",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr",
         "XVector",
         "GenomeInfoDb",
@@ -9230,7 +9106,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "ellipsis",
         "Biostrings",
         "bit64",
         "memoise"
@@ -9294,7 +9169,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "ellipsis",
         "GenomeInfoDb",
         "XVector",
         "ggfittext",
@@ -9390,7 +9264,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "ellipsis",
         "purrr",
         "SummarizedExperiment",
         "mgcv",
@@ -9434,7 +9307,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "DelayedArray",
         "CNEr",
         "DirichletMultinomial",
@@ -9486,7 +9358,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "ellipsis",
         "Biostrings",
         "bit64",
         "memoise",
@@ -9531,7 +9402,6 @@
         "pheatmap",
         "viridis",
         "biocViews",
-        "ellipsis",
         "purrr",
         "RSQLite",
         "KEGGREST",
@@ -9591,7 +9461,6 @@
         "graphlayouts",
         "survival",
         "htmlwidgets",
-        "ellipsis",
         "tweenr",
         "systemfonts",
         "RcppEigen"
@@ -9661,7 +9530,6 @@
         "futile.logger",
         "annotate",
         "biomaRt",
-        "ellipsis",
         "openssl",
         "shiny",
         "DT",
@@ -9706,7 +9574,6 @@
         "BiocParallel",
         "GenomicAlignments",
         "latticeExtra",
-        "ellipsis",
         "purrr",
         "futile.logger",
         "SummarizedExperiment",
@@ -9787,7 +9654,6 @@
         "systemfonts",
         "RcppEigen",
         "tidyr",
-        "ellipsis",
         "purrr"
     ],
     "ClassifyR": [
@@ -9811,7 +9677,6 @@
         "DelayedArray",
         "IRanges",
         "RcppEigen",
-        "ellipsis",
         "purrr",
         "httr",
         "RSQLite",
@@ -9902,7 +9767,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "cliProfiler": [
@@ -10016,7 +9880,6 @@
         "futile.logger",
         "tidyselect",
         "pillar",
-        "ellipsis",
         "openssl",
         "doParallel",
         "hms"
@@ -10073,7 +9936,6 @@
         "pillar",
         "openssl",
         "hms",
-        "ellipsis",
         "purrr",
         "Biostrings",
         "bit64",
@@ -10118,7 +9980,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "ellipsis",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -10185,7 +10046,6 @@
         "DelayedArray",
         "IRanges",
         "GenomeInfoDb",
-        "ellipsis",
         "purrr",
         "futile.logger",
         "XVector",
@@ -10266,7 +10126,6 @@
         "BiocIO",
         "restfulr",
         "futile.logger",
-        "ellipsis",
         "openssl",
         "DelayedArray",
         "pillar",
@@ -10334,7 +10193,6 @@
         "jquerylib",
         "knitr",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "sass",
@@ -10442,7 +10300,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "RcppEigen",
         "highr"
     ],
@@ -10502,7 +10359,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "RSQLite",
         "KEGGREST",
         "Hmisc",
@@ -10573,7 +10429,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "callr",
         "pkgload",
         "waldo",
@@ -10642,8 +10497,7 @@
         "openssl",
         "hms",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "CoCiteStats": [
         "org.Hs.eg.db",
@@ -10681,7 +10535,6 @@
         "vctrs",
         "bsseq",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "SummarizedExperiment",
@@ -10778,7 +10631,6 @@
         "hms",
         "vroom",
         "RSQLite",
-        "ellipsis",
         "purrr",
         "bit64",
         "blob",
@@ -10810,7 +10662,6 @@
         "dplyr",
         "devtools",
         "usethis",
-        "ellipsis",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -10879,8 +10730,7 @@
         "treeio",
         "ggplotify",
         "tidyselect",
-        "pillar",
-        "ellipsis"
+        "pillar"
     ],
     "Cogito": [
         "GenomicRanges",
@@ -10927,7 +10777,6 @@
         "futile.logger",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "COHCAP": [
@@ -10984,7 +10833,6 @@
         "purrr",
         "promises",
         "DelayedArray",
-        "ellipsis",
         "RSQLite",
         "KEGGREST",
         "progress",
@@ -11085,7 +10933,6 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "ellipsis",
         "RcppEigen",
         "bit64",
         "memoise",
@@ -11151,7 +10998,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass",
         "SummarizedExperiment",
         "hms",
@@ -11212,7 +11058,6 @@
         "highr",
         "bslib",
         "jquerylib",
-        "ellipsis",
         "purrr",
         "sass",
         "memoise"
@@ -11296,7 +11141,6 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "ellipsis",
         "RcppEigen",
         "mgcv",
         "knitr",
@@ -11362,7 +11206,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "ellipsis",
         "mgcv",
         "haven",
         "readxl",
@@ -11474,7 +11317,6 @@
         "vroom",
         "bit64",
         "memoise",
-        "ellipsis",
         "RcppAnnoy",
         "ggfun",
         "ggplotify",
@@ -11570,7 +11412,6 @@
         "sparseMatrixStats",
         "ragg",
         "clock",
-        "ellipsis",
         "hardhat",
         "ipred",
         "lubridate",
@@ -11696,7 +11537,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "RcppEigen"
     ],
     "consensusOV": [
@@ -11751,7 +11591,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "ellipsis",
         "Biostrings",
         "future.apply",
         "bit64",
@@ -11848,8 +11687,7 @@
         "openssl",
         "hms",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "conumee": [
         "minfi",
@@ -11904,7 +11742,6 @@
         "biomaRt",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr",
         "progress",
         "BiocFileCache",
@@ -11979,7 +11816,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "RcppEigen",
         "highr"
     ],
@@ -12025,7 +11861,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -12068,7 +11903,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "dplyr",
         "purrr",
         "tidyselect",
@@ -12104,7 +11938,6 @@
         "XVector",
         "pillar",
         "dplyr",
-        "ellipsis",
         "tidyselect"
     ],
     "CORREP": [
@@ -12204,7 +12037,6 @@
         "IRanges",
         "RSQLite",
         "KEGGREST",
-        "ellipsis",
         "vroom",
         "bslib",
         "jquerylib",
@@ -12241,7 +12073,6 @@
         "pillar",
         "mgcv",
         "RcppZiggurat",
-        "ellipsis",
         "purrr"
     ],
     "countsimQC": [
@@ -12279,7 +12110,6 @@
         "knitr",
         "GenomeInfoDb",
         "DelayedArray",
-        "ellipsis",
         "purrr",
         "httr",
         "RSQLite",
@@ -12374,7 +12204,6 @@
         "hms",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "cqn": [
@@ -12412,7 +12241,6 @@
         "lifecycle",
         "tibble",
         "vroom",
-        "ellipsis",
         "vctrs",
         "BiocParallel",
         "GenomicAlignments",
@@ -12441,7 +12269,6 @@
         "lifecycle",
         "tibble",
         "vroom",
-        "ellipsis",
         "vctrs",
         "BiocParallel",
         "GenomicAlignments",
@@ -12502,7 +12329,6 @@
         "dbplyr",
         "futile.logger",
         "vctrs",
-        "ellipsis",
         "openssl",
         "pillar",
         "tidyselect",
@@ -12557,7 +12383,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass"
     ],
     "CRISPRseek": [
@@ -12583,7 +12408,6 @@
         "pillar",
         "tensorflow",
         "tfruns",
-        "ellipsis",
         "ade4",
         "segmented",
         "BiocParallel",
@@ -12636,7 +12460,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "progress",
         "httr",
@@ -12756,7 +12579,6 @@
         "Hmisc",
         "AnnotationFilter",
         "BiocParallel",
-        "ellipsis",
         "vctrs",
         "interp",
         "bit64",
@@ -12854,7 +12676,6 @@
         "purrr",
         "tidyselect",
         "mgcv",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "shiny",
@@ -12927,7 +12748,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "mgcv",
@@ -13041,8 +12861,7 @@
         "openssl",
         "hms",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "CTDquerier": [
         "ggplot2",
@@ -13114,7 +12933,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "dbplyr",
         "futile.logger",
         "sass",
@@ -13142,7 +12960,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "memoise",
@@ -13246,7 +13063,6 @@
         "DelayedArray",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "highr"
@@ -13287,7 +13103,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "XVector",
         "GenomeInfoDb",
         "sass"
@@ -13329,8 +13144,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "cyanoFilter": [
         "flowCore",
@@ -13373,7 +13187,6 @@
         "Rgraphviz",
         "ncdfFlow",
         "DelayedArray",
-        "ellipsis",
         "hms",
         "GEOmap",
         "splancs",
@@ -13412,7 +13225,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "GenomicRanges",
         "DelayedArray",
@@ -13485,7 +13297,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -13571,7 +13382,6 @@
         "mgcv",
         "lme4",
         "sandwich",
-        "ellipsis",
         "purrr",
         "viridis",
         "car",
@@ -13658,7 +13468,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "GenomicRanges",
         "DropletUtils",
         "BiocFileCache",
@@ -13794,7 +13603,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "BiocIO",
         "restfulr",
         "SummarizedExperiment",
@@ -13835,7 +13643,6 @@
         "futile.logger",
         "BiocIO",
         "biomaRt",
-        "ellipsis",
         "restfulr",
         "pillar",
         "bit64",
@@ -13925,7 +13732,6 @@
         "hms",
         "dplyr",
         "clock",
-        "ellipsis",
         "hardhat",
         "ipred",
         "purrr",
@@ -13979,7 +13785,6 @@
         "ggplot2",
         "scales",
         "futile.logger",
-        "ellipsis",
         "lifecycle",
         "tidyselect",
         "vctrs",
@@ -14039,7 +13844,6 @@
         "vroom",
         "restfulr",
         "DelayedArray",
-        "ellipsis",
         "KEGGREST",
         "progress",
         "R.utils",
@@ -14139,7 +13943,6 @@
         "IRanges",
         "RSQLite",
         "KEGGREST",
-        "ellipsis",
         "blob",
         "tweenr",
         "systemfonts",
@@ -14227,7 +14030,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "ellipsis",
         "purrr",
         "tidyr",
         "viridis",
@@ -14285,7 +14087,6 @@
         "TTR",
         "hms",
         "vroom",
-        "ellipsis",
         "bit64",
         "progress"
     ],
@@ -14367,7 +14168,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "DelayedArray",
         "genefilter",
         "ggfun",
@@ -14526,7 +14326,6 @@
         "dbplyr",
         "dplyr",
         "futile.logger",
-        "ellipsis",
         "openssl",
         "purrr",
         "tidyselect"
@@ -14574,7 +14373,6 @@
         "mgcv",
         "R.utils",
         "lme4",
-        "ellipsis",
         "purrr",
         "bbmle",
         "nloptr",
@@ -14603,7 +14401,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "ellipsis",
         "ggplot2",
         "lifecycle",
         "vctrs",
@@ -14646,7 +14443,6 @@
         "ttgsea",
         "reticulate",
         "tfruns",
-        "ellipsis",
         "tfautograph",
         "text2vec",
         "textstem",
@@ -14722,8 +14518,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "DEFormats": [
         "DESeq2",
@@ -14807,7 +14602,6 @@
         "TSP",
         "gclus",
         "DelayedArray",
-        "ellipsis",
         "callr",
         "dbplyr",
         "hms"
@@ -14850,7 +14644,6 @@
         "SummarizedExperiment",
         "tidyr",
         "tibble",
-        "ellipsis",
         "purrr",
         "IRanges",
         "doParallel",
@@ -15080,7 +14873,6 @@
         "knitr",
         "httpuv",
         "fontawesome",
-        "ellipsis",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -15119,7 +14911,6 @@
         "BiocParallel",
         "futile.logger",
         "RSpectra",
-        "ellipsis",
         "purrr"
     ],
     "DepInfeR": [
@@ -15194,8 +14985,7 @@
         "hms",
         "pillar",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "derfinderHelper": [
         "IRanges"
@@ -15261,7 +15051,6 @@
         "pillar",
         "dbplyr",
         "tidyselect",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "openssl",
@@ -15320,8 +15109,7 @@
         "hms",
         "bit64",
         "blob",
-        "purrr",
-        "ellipsis"
+        "purrr"
     ],
     "DESeq2": [
         "IRanges",
@@ -15389,7 +15177,6 @@
         "IRanges",
         "GenomeInfoDb",
         "dplyr",
-        "ellipsis",
         "car",
         "vcd",
         "e1071",
@@ -15445,7 +15232,6 @@
         "reshape2",
         "DelayedArray",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "pillar",
@@ -15519,7 +15305,6 @@
         "annotate",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr",
         "httr",
         "IRanges",
@@ -15572,8 +15357,7 @@
         "memoise",
         "pillar",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "DFP": [],
     "DIAlignR": [
@@ -15597,7 +15381,6 @@
         "igraph",
         "blob",
         "memoise",
-        "ellipsis",
         "purrr"
     ],
     "DiffBind": [
@@ -15728,7 +15511,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "ellipsis",
         "purrr",
         "ALL",
         "XVector",
@@ -15864,8 +15646,7 @@
         "dbplyr",
         "openssl",
         "hms",
-        "purrr",
-        "ellipsis"
+        "purrr"
     ],
     "diggit": [
         "ks",
@@ -15947,7 +15728,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -15994,7 +15774,6 @@
         "SummarizedExperiment",
         "reshape2",
         "bookdown",
-        "ellipsis",
         "purrr",
         "tibble",
         "tidyr",
@@ -16148,7 +15927,6 @@
         "RcppEigen",
         "testthat",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "rematch2"
@@ -16275,7 +16053,6 @@
         "vroom",
         "bit64",
         "memoise",
-        "ellipsis",
         "htmlwidgets",
         "crosstalk",
         "jquerylib",
@@ -16339,7 +16116,6 @@
         "tibble",
         "tidyselect",
         "mgcv",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "highr"
@@ -16413,7 +16189,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "ellipsis",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -16428,8 +16203,7 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "pillar",
-        "ellipsis"
+        "pillar"
     ],
     "DNABarcodes": [],
     "DNAfusion": [
@@ -16499,8 +16273,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "doppelgangR": [
         "BiocParallel",
@@ -16560,7 +16333,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass",
         "memoise",
         "pbkrtest",
@@ -16632,7 +16404,6 @@
         "XVector",
         "testthat",
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -16674,7 +16445,6 @@
         "openssl",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr",
         "bit64",
         "progress"
@@ -16756,7 +16526,6 @@
         "restfulr",
         "futile.logger",
         "SummarizedExperiment",
-        "ellipsis",
         "DelayedArray"
     ],
     "DrugVsDisease": [
@@ -16797,7 +16566,6 @@
         "Biostrings",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr",
         "XVector",
         "GenomeInfoDb",
@@ -16869,7 +16637,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "ellipsis",
         "XVector",
         "hms"
     ],
@@ -16926,7 +16693,6 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "httr",
-        "ellipsis",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -16990,7 +16756,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "ellipsis",
         "mgcv",
         "scales",
         "HDO.db",
@@ -17039,7 +16804,6 @@
         "httpuv",
         "fontawesome",
         "promises",
-        "ellipsis",
         "lifecycle",
         "sass",
         "memoise",
@@ -17082,7 +16846,6 @@
         "hms",
         "bit64",
         "memoise",
-        "ellipsis",
         "RcppEigen"
     ],
     "EBarrays": [],
@@ -17126,7 +16889,6 @@
         "gplots",
         "testthat",
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -17141,7 +16903,6 @@
         "gplots",
         "testthat",
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -17191,7 +16952,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
         "RcppEigen",
         "DelayedArray"
     ],
@@ -17228,7 +16988,6 @@
         "blob",
         "memoise",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "XVector",
@@ -17296,7 +17055,6 @@
         "blob",
         "memoise",
         "DelayedArray",
-        "ellipsis",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -17328,7 +17086,6 @@
         "pillar",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr",
         "bit64",
         "progress"
@@ -17408,7 +17165,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "sn",
-        "ellipsis",
         "XVector",
         "TH.data",
         "sandwich",
@@ -17503,7 +17259,6 @@
         "restfulr",
         "selectr",
         "R.utils",
-        "ellipsis",
         "KEGGREST",
         "dbplyr",
         "Hmisc",
@@ -17605,7 +17360,6 @@
         "scales",
         "hms",
         "vroom",
-        "ellipsis",
         "progress"
     ],
     "ENmix": [
@@ -17676,7 +17430,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "progress",
         "sass",
         "Rsamtools",
@@ -17776,7 +17529,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "ellipsis",
         "httr",
         "Biostrings",
         "bit64",
@@ -17861,7 +17613,6 @@
         "broom",
         "car",
         "DelayedArray",
-        "ellipsis",
         "htmlwidgets",
         "httr",
         "ggfun",
@@ -17929,8 +17680,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "epialleleR": [
         "GenomicRanges",
@@ -17969,8 +17719,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "EpiCompare": [
         "AnnotationHub",
@@ -18047,7 +17796,6 @@
         "bit64",
         "blob",
         "DelayedArray",
-        "ellipsis",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -18104,7 +17852,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "ellipsis",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -18204,7 +17951,6 @@
         "pillar",
         "broom",
         "car",
-        "ellipsis",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -18294,7 +18040,6 @@
         "bit64",
         "blob",
         "memoise",
-        "ellipsis",
         "highr"
     ],
     "EpiMix": [
@@ -18338,7 +18083,6 @@
         "scales",
         "hms",
         "DelayedArray",
-        "ellipsis",
         "purrr",
         "dbplyr",
         "openssl",
@@ -18456,7 +18200,6 @@
         "promises",
         "htmlTable",
         "viridis",
-        "ellipsis",
         "RcppEigen",
         "vroom",
         "httpuv",
@@ -18529,7 +18272,6 @@
         "viridis",
         "hms",
         "pillar",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "interp",
@@ -18578,7 +18320,6 @@
         "mgcv",
         "hms",
         "futile.logger",
-        "ellipsis",
         "DelayedArray"
     ],
     "epivizr": [
@@ -18627,8 +18368,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "epivizrChart": [
         "epivizrData",
@@ -18674,8 +18414,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "epivizrData": [
         "epivizrServer",
@@ -18720,8 +18459,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "epivizrServer": [
         "httpuv",
@@ -18774,8 +18512,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "erccdashboard": [
         "ggplot2",
@@ -18827,7 +18564,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "DelayedArray",
         "sass",
         "jquerylib",
@@ -18959,7 +18695,6 @@
         "bit64",
         "blob",
         "DelayedArray",
-        "ellipsis",
         "htmlwidgets",
         "ggfun",
         "ggplotify",
@@ -18996,7 +18731,6 @@
         "patchwork",
         "SummarizedExperiment",
         "futile.logger",
-        "ellipsis",
         "purrr",
         "tibble",
         "tidyr",
@@ -19098,7 +18832,6 @@
         "systemfonts",
         "pillar",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "callr",
@@ -19167,8 +18900,7 @@
         "hms",
         "pillar",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "EWCE": [
         "RNOmni",
@@ -19234,7 +18966,6 @@
         "vroom",
         "broom",
         "car",
-        "ellipsis",
         "KEGGREST",
         "pbkrtest",
         "quantreg",
@@ -19336,8 +19067,7 @@
         "openssl",
         "hms",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "ExperimentHub": [
         "AnnotationHub",
@@ -19371,7 +19101,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "XVector",
         "GenomeInfoDb",
         "sass"
@@ -19433,7 +19162,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "DelayedArray",
         "sass"
     ],
@@ -19479,8 +19207,7 @@
         "openssl",
         "bit64",
         "memoise",
-        "tidyr",
-        "ellipsis"
+        "tidyr"
     ],
     "ExploreModelMatrix": [
         "shiny",
@@ -19506,7 +19233,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "purrr",
         "sass",
         "memoise"
@@ -19560,7 +19286,6 @@
         "vctrs",
         "VennDiagram",
         "futile.logger",
-        "ellipsis",
         "purrr",
         "patchwork",
         "lifecycle",
@@ -19640,7 +19365,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "ellipsis",
         "cowplot",
         "KEGGREST",
         "progress",
@@ -19679,8 +19403,7 @@
         "crosstalk",
         "purrr",
         "promises",
-        "openssl",
-        "ellipsis"
+        "openssl"
     ],
     "famat": [
         "KEGGREST",
@@ -19721,7 +19444,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "IRanges",
         "RSQLite",
         "XVector",
@@ -19790,7 +19512,6 @@
         "htmlwidgets",
         "interp",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyr",
         "RcppEigen",
@@ -19822,7 +19543,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "BiocParallel",
         "Rsamtools",
@@ -19895,7 +19615,6 @@
         "restfulr",
         "pillar",
         "futile.logger",
-        "ellipsis",
         "pcaPP",
         "hdrcde",
         "ks",
@@ -19964,7 +19683,6 @@
         "ggtree",
         "GenomeInfoDb",
         "XVector",
-        "ellipsis",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -20025,8 +19743,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "FEAST": [
         "BiocParallel",
@@ -20062,7 +19779,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "memoise",
@@ -20079,7 +19795,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "ellipsis",
         "mgcv",
         "scales",
         "purrr",
@@ -20168,7 +19883,6 @@
         "tidyselect",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr"
     ],
     "fgga": [
@@ -20263,7 +19977,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "ellipsis",
         "KEGGREST",
         "httr",
         "BiocFileCache",
@@ -20408,7 +20121,6 @@
         "ggrastr",
         "ggrepel",
         "bluster",
-        "ellipsis",
         "purrr",
         "KEGGREST",
         "futile.logger",
@@ -20498,7 +20210,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -20577,7 +20288,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "ellipsis",
         "purrr",
         "tidyr",
         "viridis",
@@ -20632,7 +20342,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "ellipsis",
         "purrr",
         "tidyr",
         "viridis",
@@ -20719,7 +20428,6 @@
         "httpuv",
         "fontawesome",
         "promises",
-        "ellipsis",
         "lifecycle",
         "sass",
         "memoise",
@@ -20770,7 +20478,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "ellipsis",
         "broom",
         "car",
         "pbkrtest",
@@ -20956,7 +20663,6 @@
         "e1071",
         "ipred",
         "lexicon",
-        "ellipsis",
         "bit64",
         "hms",
         "progress",
@@ -20984,7 +20690,6 @@
         "tibble",
         "vctrs",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "graph",
@@ -21069,7 +20774,6 @@
         "blob",
         "memoise",
         "restfulr",
-        "ellipsis",
         "annotate",
         "TSP",
         "gclus",
@@ -21092,7 +20796,6 @@
         "dplyr",
         "knitr",
         "lifecycle",
-        "ellipsis",
         "purrr",
         "tibble",
         "tidyr",
@@ -21162,7 +20865,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "futile.logger",
         "sass",
@@ -21229,7 +20931,6 @@
         "biomaRt",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr",
         "progress",
         "BiocFileCache",
@@ -21277,7 +20978,6 @@
         "XVector",
         "broom",
         "car",
-        "ellipsis",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -21330,8 +21030,7 @@
         "memoise",
         "dbplyr",
         "hms",
-        "purrr",
-        "ellipsis"
+        "purrr"
     ],
     "GA4GHshiny": [
         "GA4GHclient",
@@ -21368,7 +21067,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "progress",
         "BiocFileCache",
         "sass",
@@ -21476,7 +21174,6 @@
         "MSQC",
         "genefilter",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "pillar",
@@ -21552,7 +21249,6 @@
         "GenomeInfoDb",
         "Biostrings",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "XVector",
@@ -21612,7 +21308,6 @@
         "devtools",
         "dplR",
         "usethis",
-        "ellipsis",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -21709,7 +21404,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "ggpubr",
         "broom",
         "survMisc",
@@ -21822,7 +21516,6 @@
         "pillar",
         "vctrs",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "XVector"
@@ -21865,8 +21558,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "GeneAccord": [
         "biomaRt",
@@ -21903,7 +21595,6 @@
         "hms",
         "broom",
         "car",
-        "ellipsis",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -21961,8 +21652,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "GeneBreak": [
         "QDNAseq",
@@ -22030,7 +21720,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "ellipsis",
         "Biostrings",
         "future.apply",
         "bit64",
@@ -22081,7 +21770,6 @@
         "knitr",
         "MatrixModels",
         "pillar",
-        "ellipsis",
         "purrr",
         "tidyr",
         "tidyselect",
@@ -22184,7 +21872,6 @@
         "dplyr",
         "tidyr",
         "MatrixModels",
-        "ellipsis",
         "purrr",
         "tibble",
         "ggplot2",
@@ -22246,7 +21933,6 @@
         "tibble",
         "tidyselect",
         "mgcv",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "highr"
@@ -22320,7 +22006,6 @@
         "purrr",
         "knitr",
         "fontawesome",
-        "ellipsis",
         "sass",
         "GenomeInfoDb",
         "DelayedArray",
@@ -22413,7 +22098,6 @@
         "BiocIO",
         "restfulr",
         "futile.logger",
-        "ellipsis",
         "DelayedArray",
         "pillar",
         "bit64",
@@ -22451,7 +22135,6 @@
         "lifecycle",
         "tibble",
         "vroom",
-        "ellipsis",
         "vctrs",
         "pillar",
         "bit64",
@@ -22486,7 +22169,6 @@
         "openssl",
         "hms",
         "vroom",
-        "ellipsis",
         "bit64",
         "progress"
     ],
@@ -22501,7 +22183,6 @@
         "broom",
         "GenomeInfoDb",
         "XVector",
-        "ellipsis",
         "purrr",
         "tibble",
         "tidyr",
@@ -22545,7 +22226,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "GenomicFiles": [
@@ -22585,8 +22265,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "genomicInstability": [
         "mixtools",
@@ -22637,7 +22316,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "GenomicInteractions": [
@@ -22694,7 +22372,6 @@
         "blob",
         "memoise",
         "purrr",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "highr"
@@ -22757,7 +22434,6 @@
         "blob",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "interp",
@@ -22809,7 +22485,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass"
     ],
     "GenomicSuperSignature": [
@@ -22861,7 +22536,6 @@
         "memoise",
         "broom",
         "car",
-        "ellipsis",
         "sass",
         "pbkrtest",
         "quantreg",
@@ -22922,8 +22596,7 @@
         "openssl",
         "hms",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "GenProSeq": [
         "keras",
@@ -22936,7 +22609,6 @@
         "webchem",
         "purrr",
         "tfruns",
-        "ellipsis",
         "tfautograph",
         "text2vec",
         "textstem",
@@ -23017,8 +22689,7 @@
         "DelayedArray",
         "pillar",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "GeoDiff": [
         "robust",
@@ -23045,7 +22716,6 @@
         "pheatmap",
         "rrcov",
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -23113,7 +22783,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "rmarkdown",
         "readxl",
         "openssl",
@@ -23179,7 +22848,6 @@
         "pillar",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr",
         "progress"
     ],
@@ -23217,7 +22885,6 @@
         "RcppEigen",
         "XVector",
         "GenomeInfoDb",
-        "ellipsis",
         "globals",
         "htmlwidgets",
         "systemfonts",
@@ -23242,7 +22909,6 @@
         "pillar",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr",
         "bit64",
         "progress"
@@ -23307,7 +22973,6 @@
         "affy",
         "blob",
         "purrr",
-        "ellipsis",
         "Biostrings",
         "bit64",
         "memoise",
@@ -23338,7 +23003,6 @@
         "MatrixModels",
         "survival",
         "lifecycle",
-        "ellipsis",
         "purrr",
         "tibble",
         "tidyr",
@@ -23403,7 +23067,6 @@
         "BiocFileCache",
         "tidyselect",
         "pillar",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "interp",
@@ -23486,7 +23149,6 @@
         "purrr",
         "tidytree",
         "treeio",
-        "ellipsis",
         "httr",
         "htmlwidgets",
         "crosstalk",
@@ -23510,7 +23172,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "ellipsis",
         "mgcv",
         "hms",
         "purrr"
@@ -23575,8 +23236,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "mgcv",
-        "ellipsis"
+        "mgcv"
     ],
     "ggtreeDendro": [
         "ggtree",
@@ -23597,8 +23257,7 @@
         "tidyselect",
         "pillar",
         "ggplotify",
-        "patchwork",
-        "ellipsis"
+        "patchwork"
     ],
     "ggtreeExtra": [
         "ggplot2",
@@ -23620,8 +23279,7 @@
         "tidyselect",
         "pillar",
         "ggplotify",
-        "patchwork",
-        "ellipsis"
+        "patchwork"
     ],
     "GIGSEA": [],
     "girafe": [
@@ -23672,7 +23330,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "lmtest",
         "sass",
@@ -23708,7 +23365,6 @@
         "blob",
         "memoise",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "pillar"
@@ -23779,7 +23435,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "ellipsis",
         "mgcv",
         "scales",
         "survival",
@@ -23910,8 +23565,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "GmicR": [
         "AnnotationDbi",
@@ -23948,7 +23602,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "Hmisc",
         "survival",
@@ -24015,8 +23668,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "GMRP": [
         "GenomicRanges",
@@ -24053,7 +23705,6 @@
         "XVector",
         "hms",
         "vroom",
-        "ellipsis",
         "bit64",
         "progress"
     ],
@@ -24081,7 +23732,6 @@
         "blob",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "Biostrings",
         "bit64",
         "memoise",
@@ -24135,7 +23785,6 @@
         "blob",
         "memoise",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "pillar",
@@ -24213,8 +23862,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "GOSim": [
         "GO.db",
@@ -24272,7 +23920,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "ellipsis",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -24325,8 +23972,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "GOstats": [
         "Category",
@@ -24429,7 +24075,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass",
         "memoise",
         "pillar"
@@ -24451,8 +24096,7 @@
         "hms",
         "lifecycle",
         "pillar",
-        "vctrs",
-        "ellipsis"
+        "vctrs"
     ],
     "GRaNIE": [
         "futile.logger",
@@ -24487,7 +24131,6 @@
         "lifecycle",
         "vctrs",
         "pillar",
-        "ellipsis",
         "mgcv",
         "hms",
         "vroom",
@@ -24524,7 +24167,6 @@
         "lubridate",
         "flextable",
         "mgcv",
-        "ellipsis",
         "rmarkdown",
         "knitr",
         "gdtools",
@@ -24644,7 +24286,6 @@
         "survival",
         "TH.data",
         "sandwich",
-        "ellipsis",
         "nloptr",
         "RcppEigen",
         "broom",
@@ -24699,7 +24340,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "memoise",
@@ -24722,7 +24362,6 @@
         "Rdpack",
         "XVector",
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -24804,7 +24443,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass"
     ],
     "GSEAlm": [],
@@ -24858,7 +24496,6 @@
         "blob",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "Biostrings",
         "bit64",
         "memoise",
@@ -24913,7 +24550,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "GSRI": [
@@ -25028,7 +24664,6 @@
         "survival",
         "haven",
         "readxl",
-        "ellipsis",
         "futile.logger",
         "progress",
         "httr",
@@ -25091,8 +24726,7 @@
         "openssl",
         "hms",
         "DelayedArray",
-        "purrr",
-        "ellipsis"
+        "purrr"
     ],
     "Gviz": [
         "IRanges",
@@ -25145,7 +24779,6 @@
         "tibble",
         "tidyselect",
         "mgcv",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "highr"
@@ -25168,7 +24801,6 @@
         "vctrs",
         "dplyr",
         "clock",
-        "ellipsis",
         "hardhat",
         "ipred",
         "lubridate",
@@ -25220,7 +24852,6 @@
         "purrr",
         "tidyselect",
         "vctrs",
-        "ellipsis",
         "openssl",
         "shiny",
         "DT",
@@ -25258,7 +24889,6 @@
         "dplyr",
         "tidyr",
         "MatrixModels",
-        "ellipsis",
         "purrr",
         "tibble",
         "ggplot2",
@@ -25310,7 +24940,6 @@
         "tidyr",
         "MatrixModels",
         "dbplyr",
-        "ellipsis",
         "purrr",
         "tibble",
         "ggplot2",
@@ -25344,7 +24973,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "ellipsis",
         "Hmisc",
         "doParallel",
         "survival",
@@ -25439,7 +25067,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "purrr",
         "sass",
         "memoise",
@@ -25499,8 +25126,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "HELP": [],
     "HEM": [],
@@ -25534,7 +25160,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "ellipsis",
         "GenomeInfoDb",
         "XVector",
         "scales",
@@ -25618,7 +25243,6 @@
         "hms",
         "vroom",
         "pillar",
-        "ellipsis",
         "bit64",
         "tidyselect",
         "progress"
@@ -25681,7 +25305,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "ellipsis",
         "purrr",
         "BiocParallel",
         "mgcv",
@@ -25763,7 +25386,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "memoise",
@@ -25822,7 +25444,6 @@
         "BiocFileCache",
         "AnnotationHub",
         "SummarizedExperiment",
-        "ellipsis",
         "purrr",
         "bit64",
         "hms",
@@ -25910,7 +25531,6 @@
         "GenomeInfoDb",
         "BSgenome",
         "scales",
-        "ellipsis",
         "lifecycle",
         "tibble",
         "AnnotationDbi",
@@ -25984,7 +25604,6 @@
         "bit64",
         "blob",
         "memoise",
-        "ellipsis",
         "purrr",
         "htmlwidgets",
         "crosstalk",
@@ -26050,8 +25669,7 @@
         "hms",
         "BiocIO",
         "restfulr",
-        "DelayedArray",
-        "ellipsis"
+        "DelayedArray"
     ],
     "HIREewas": [
         "gplots"
@@ -26101,7 +25719,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "purrr",
         "sass",
         "jquerylib",
@@ -26132,7 +25749,6 @@
         "expm",
         "hms",
         "vroom",
-        "ellipsis",
         "clock",
         "hardhat",
         "ipred",
@@ -26194,8 +25810,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "HTSFilter": [
         "edgeR",
@@ -26258,7 +25873,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "DT",
         "GenomicRanges",
@@ -26320,7 +25934,6 @@
         "httpuv",
         "fontawesome",
         "promises",
-        "ellipsis",
         "sass",
         "memoise",
         "highr",
@@ -26358,7 +25971,6 @@
         "tibble",
         "vctrs",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "pillar"
@@ -26444,8 +26056,7 @@
         "RcppEigen",
         "hms",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "iCheck": [
         "lumi",
@@ -26519,7 +26130,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "vroom"
     ],
     "iCNV": [
@@ -26541,7 +26151,6 @@
         "viridis",
         "mgcv",
         "scales",
-        "ellipsis",
         "purrr",
         "XVector",
         "BSgenome",
@@ -26581,7 +26190,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass",
         "memoise"
     ],
@@ -26655,7 +26263,6 @@
         "bslib",
         "httpuv",
         "fontawesome",
-        "ellipsis",
         "DelayedArray",
         "progress",
         "BiocFileCache",
@@ -26810,8 +26417,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "illuminaio": [
         "base64",
@@ -26858,8 +26464,7 @@
         "e1071",
         "cellranger",
         "progress",
-        "hms",
-        "ellipsis"
+        "hms"
     ],
     "imageHTS": [
         "EBImage",
@@ -26939,7 +26544,6 @@
         "memoise",
         "restfulr",
         "DelayedArray",
-        "ellipsis",
         "purrr",
         "dbplyr",
         "openssl",
@@ -27019,7 +26623,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "ellipsis",
         "terra",
         "httpuv",
         "fontawesome",
@@ -27095,7 +26698,6 @@
         "highr",
         "TSP",
         "gclus",
-        "ellipsis",
         "callr"
     ],
     "immunoClust": [
@@ -27116,7 +26718,6 @@
         "httr",
         "selectr",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "pillar",
@@ -27129,7 +26730,6 @@
         "igraph",
         "visNetwork",
         "usethis",
-        "ellipsis",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -27229,7 +26829,6 @@
         "DelayedArray",
         "IRanges",
         "GenomeInfoDb",
-        "ellipsis",
         "purrr",
         "XVector",
         "openssl",
@@ -27309,7 +26908,6 @@
         "BiocFileCache",
         "SummarizedExperiment",
         "BiocParallel",
-        "ellipsis",
         "restfulr",
         "ade4",
         "segmented",
@@ -27349,7 +26947,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "DelayedArray",
         "KEGGREST",
@@ -27410,7 +27007,6 @@
         "BiocParallel",
         "broom",
         "car",
-        "ellipsis",
         "futile.logger",
         "pbkrtest",
         "quantreg",
@@ -27478,7 +27074,6 @@
         "BiocFileCache",
         "tidyselect",
         "pillar",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "interp",
@@ -27519,7 +27114,6 @@
         "httpuv",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "systemfonts",
         "sass",
@@ -27559,7 +27153,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "httr",
         "sass",
         "jquerylib",
@@ -27585,7 +27178,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "memoise"
@@ -27645,7 +27237,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "knitr",
         "openssl",
         "reticulate",
@@ -27731,8 +27322,7 @@
         "hms",
         "pillar",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "InterMineR": [
         "Biostrings",
@@ -27785,7 +27375,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "latticeExtra",
-        "ellipsis",
         "purrr",
         "SummarizedExperiment",
         "interp",
@@ -27824,7 +27413,6 @@
         "broom",
         "survMisc",
         "ggtext",
-        "ellipsis",
         "tidyselect",
         "pillar",
         "gridtext",
@@ -27880,7 +27468,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass"
     ],
     "IPO": [
@@ -28055,7 +27642,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -28106,7 +27692,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "ellipsis",
         "mgcv",
         "scales",
         "hms",
@@ -28150,7 +27735,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass",
         "GenomicRanges",
         "DelayedArray",
@@ -28185,7 +27769,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -28233,7 +27816,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "GenomicRanges",
         "DelayedArray",
@@ -28289,7 +27871,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
@@ -28332,7 +27913,6 @@
         "blob",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "Biostrings",
         "bit64",
         "memoise",
@@ -28352,7 +27932,6 @@
         "vroom",
         "cellranger",
         "progress",
-        "ellipsis",
         "bit64"
     ],
     "IsoCorrectoRGUI": [
@@ -28369,7 +27948,6 @@
         "pillar",
         "hms",
         "vroom",
-        "ellipsis",
         "bit64"
     ],
     "IsoformSwitchAnalyzeR": [
@@ -28424,7 +28002,6 @@
         "AnnotationFilter",
         "annotate",
         "survival",
-        "ellipsis",
         "DelayedArray",
         "bit64",
         "blob",
@@ -28461,7 +28038,6 @@
         "tibble",
         "RSQLite",
         "KEGGREST",
-        "ellipsis",
         "purrr",
         "scales",
         "ComplexHeatmap",
@@ -28569,7 +28145,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "ellipsis",
         "purrr",
         "dbplyr",
         "SummarizedExperiment",
@@ -28604,7 +28179,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -28717,7 +28291,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "RcppEigen",
         "highr"
     ],
@@ -28754,7 +28327,6 @@
         "gridtext",
         "survival",
         "GenomicAlignments",
-        "ellipsis",
         "purrr",
         "SummarizedExperiment",
         "AnnotationDbi",
@@ -28888,7 +28460,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "futile.logger",
         "sass",
         "memoise",
@@ -28983,7 +28554,6 @@
         "MatrixModels",
         "dplyr",
         "clock",
-        "ellipsis",
         "hardhat",
         "ipred",
         "lubridate",
@@ -29049,7 +28619,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "learnr",
         "GenomicRanges",
         "IRanges",
@@ -29088,7 +28657,6 @@
         "vctrs",
         "gplots",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "pillar",
@@ -29147,7 +28715,6 @@
         "bslib",
         "httpuv",
         "fontawesome",
-        "ellipsis",
         "callr",
         "pkgload",
         "waldo",
@@ -29215,8 +28782,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "LinkHD": [
         "ggplot2",
@@ -29255,7 +28821,6 @@
         "progress",
         "broom",
         "car",
-        "ellipsis",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -29320,8 +28885,7 @@
         "htmlwidgets",
         "igraph",
         "ggplotify",
-        "patchwork",
-        "ellipsis"
+        "patchwork"
     ],
     "lionessR": [
         "SummarizedExperiment",
@@ -29347,7 +28911,6 @@
         "pillar",
         "BiocParallel",
         "cowplot",
-        "ellipsis",
         "mgcv",
         "scales",
         "tmvtnorm",
@@ -29382,7 +28945,6 @@
         "RSQLite",
         "KEGGREST",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tibble",
         "tidyr",
@@ -29439,7 +29001,6 @@
         "scam",
         "ggforce",
         "GenomeInfoDb",
-        "ellipsis",
         "dbplyr",
         "RSQLite",
         "httr",
@@ -29602,7 +29163,6 @@
         "DirichletMultinomial",
         "rtracklayer",
         "TFMPvalue",
-        "ellipsis",
         "purrr",
         "KEGGREST",
         "Rsamtools",
@@ -29682,7 +29242,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "XVector",
         "GenomeInfoDb",
         "sass"
@@ -29751,7 +29310,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "vroom"
     ],
     "LymphoSeq": [
@@ -29784,8 +29342,7 @@
         "igraph",
         "futile.logger",
         "ggplotify",
-        "patchwork",
-        "ellipsis"
+        "patchwork"
     ],
     "M3C": [
         "ggplot2",
@@ -29881,7 +29438,6 @@
         "shiny",
         "DT",
         "clock",
-        "ellipsis",
         "hardhat",
         "ipred",
         "lubridate",
@@ -29942,7 +29498,6 @@
         "broom",
         "knitr",
         "MatrixModels",
-        "ellipsis",
         "purrr",
         "tidyr",
         "highr",
@@ -30015,7 +29570,6 @@
         "bit64",
         "blob",
         "memoise",
-        "ellipsis",
         "purrr",
         "tidyr",
         "openssl",
@@ -30070,8 +29624,7 @@
         "RcppEigen",
         "highr",
         "hms",
-        "pillar",
-        "ellipsis"
+        "pillar"
     ],
     "MACSr": [
         "reticulate",
@@ -30109,7 +29662,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "XVector",
         "GenomeInfoDb",
         "sass"
@@ -30167,8 +29719,7 @@
         "dbplyr",
         "openssl",
         "hms",
-        "purrr",
-        "ellipsis"
+        "purrr"
     ],
     "maftools": [
         "survival"
@@ -30253,7 +29804,6 @@
         "tidyselect",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr"
     ],
     "MAGeCKFlute": [
@@ -30318,7 +29868,6 @@
         "tidytree",
         "treeio",
         "Biostrings",
-        "ellipsis",
         "dbplyr",
         "XVector",
         "GenomeInfoDb",
@@ -30384,7 +29933,6 @@
         "rvest",
         "tibble",
         "tidyr",
-        "ellipsis",
         "blob",
         "lifecycle",
         "tidyselect",
@@ -30462,7 +30010,6 @@
         "mzID",
         "dplyr",
         "clock",
-        "ellipsis",
         "hardhat",
         "ipred",
         "lubridate",
@@ -30568,7 +30115,6 @@
         "highr",
         "dplyr",
         "clock",
-        "ellipsis",
         "hardhat",
         "ipred",
         "lubridate",
@@ -30671,7 +30217,6 @@
         "memoise",
         "DelayedArray",
         "purrr",
-        "ellipsis",
         "knitr",
         "highr"
     ],
@@ -30704,7 +30249,6 @@
         "IRanges",
         "GenomeInfoDb",
         "XVector",
-        "ellipsis",
         "pillar"
     ],
     "MatrixQCvis": [
@@ -30751,7 +30295,6 @@
         "knitr",
         "httpuv",
         "fontawesome",
-        "ellipsis",
         "markdown",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -30809,7 +30352,6 @@
         "tibble",
         "hms",
         "vroom",
-        "ellipsis",
         "openssl",
         "DelayedArray",
         "pillar",
@@ -30865,7 +30407,6 @@
         "genefilter",
         "BiocParallel",
         "edgeR",
-        "ellipsis",
         "purrr",
         "futile.logger",
         "rhdf5",
@@ -30984,7 +30525,6 @@
         "dplyr",
         "tidyr",
         "MatrixModels",
-        "ellipsis",
         "purrr",
         "tibble",
         "ggplot2",
@@ -31058,7 +30598,6 @@
         "survival",
         "tidyselect",
         "pillar",
-        "ellipsis",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -31138,7 +30677,6 @@
         "survival",
         "htmlTable",
         "viridis",
-        "ellipsis",
         "RcppEigen",
         "knitr",
         "htmlwidgets",
@@ -31259,7 +30797,6 @@
         "bit64",
         "blob",
         "memoise",
-        "ellipsis",
         "purrr",
         "knitr",
         "htmlwidgets",
@@ -31331,7 +30868,6 @@
         "bit64",
         "blob",
         "memoise",
-        "ellipsis",
         "purrr",
         "progress",
         "BiocFileCache",
@@ -31383,7 +30919,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "ellipsis",
         "bit64",
         "memoise",
         "DelayedArray"
@@ -31411,7 +30946,6 @@
         "dplyr",
         "knitr",
         "MatrixModels",
-        "ellipsis",
         "purrr",
         "tibble",
         "tidyr",
@@ -31445,7 +30979,6 @@
         "XVector",
         "hms",
         "vroom",
-        "ellipsis",
         "callr",
         "pkgload",
         "waldo",
@@ -31540,7 +31073,6 @@
         "scales",
         "hms",
         "vroom",
-        "ellipsis",
         "gert",
         "gh",
         "credentials",
@@ -31640,7 +31172,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass"
     ],
     "meshr": [
@@ -31702,7 +31233,6 @@
         "pillar",
         "mgcv",
         "igraph",
-        "ellipsis",
         "purrr",
         "httr",
         "bit64",
@@ -31762,7 +31292,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "ellipsis",
         "purrr",
         "scales",
         "clock",
@@ -31817,8 +31346,7 @@
         "memoise",
         "jquerylib",
         "mgcv",
-        "openssl",
-        "ellipsis"
+        "openssl"
     ],
     "MetaboCoreUtils": [
         "MsCoreUtils"
@@ -31840,7 +31368,6 @@
         "highr",
         "progress",
         "dplyr",
-        "ellipsis",
         "lifecycle",
         "purrr",
         "tibble",
@@ -31922,7 +31449,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "interp",
@@ -31960,7 +31486,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "ALL",
@@ -32031,8 +31556,7 @@
         "dplyr",
         "openssl",
         "hms",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "metagene2": [
         "GenomicRanges",
@@ -32128,7 +31652,6 @@
         "DelayedArray",
         "IRanges",
         "GenomeInfoDb",
-        "ellipsis",
         "purrr",
         "XVector"
     ],
@@ -32184,7 +31707,6 @@
         "bit64",
         "blob",
         "memoise",
-        "ellipsis",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -32323,7 +31845,6 @@
         "pillar",
         "tidyselect",
         "sparseMatrixStats",
-        "ellipsis",
         "interp",
         "future.apply",
         "future",
@@ -32396,8 +31917,7 @@
         "futile.logger",
         "hms",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "MetaVolcanoR": [
         "dplyr",
@@ -32424,7 +31944,6 @@
         "crosstalk",
         "purrr",
         "promises",
-        "ellipsis",
         "openssl",
         "multtest",
         "multcomp",
@@ -32449,7 +31968,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "BiocParallel",
         "IRanges",
         "futile.logger",
@@ -32586,7 +32104,6 @@
         "BiocParallel",
         "illuminaio",
         "reshape2",
-        "ellipsis",
         "KEGGREST",
         "dbplyr",
         "futile.logger",
@@ -32691,7 +32208,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "XVector",
         "sass",
         "jquerylib",
@@ -32792,7 +32308,6 @@
         "bit64",
         "blob",
         "memoise",
-        "ellipsis",
         "purrr",
         "dbplyr"
     ],
@@ -32811,7 +32326,6 @@
         "tidyr",
         "planet",
         "usethis",
-        "ellipsis",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -32979,7 +32493,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "memoise",
@@ -33179,7 +32692,6 @@
         "tibble",
         "tidyselect",
         "mgcv",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "highr"
@@ -33207,7 +32719,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "tibble",
         "GenomicRanges",
@@ -33337,7 +32848,6 @@
         "tidyselect",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr"
     ],
     "MetID": [
@@ -33347,7 +32857,6 @@
         "ggplot2",
         "DT",
         "usethis",
-        "ellipsis",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -33414,7 +32923,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "ellipsis",
         "purrr",
         "XVector"
     ],
@@ -33440,7 +32948,6 @@
         "reshape",
         "MatrixModels",
         "survival",
-        "ellipsis",
         "purrr",
         "hms"
     ],
@@ -33485,7 +32992,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "ellipsis",
         "Biostrings",
         "bit64",
         "memoise",
@@ -33538,7 +33044,6 @@
         "pheatmap",
         "ggrastr",
         "ggrepel",
-        "ellipsis",
         "purrr",
         "treeio",
         "mgcv",
@@ -33581,7 +33086,6 @@
         "pillar",
         "tidytree",
         "tidyr",
-        "ellipsis",
         "purrr"
     ],
     "miaViz": [
@@ -33638,7 +33142,6 @@
         "ggrastr",
         "GenomicRanges",
         "GenomeInfoDb",
-        "ellipsis",
         "ggplotify",
         "patchwork",
         "ScaledMatrix",
@@ -33687,7 +33190,6 @@
         "biomformat",
         "igraph",
         "multtest",
-        "ellipsis",
         "purrr",
         "rhdf5",
         "survival"
@@ -33749,7 +33251,6 @@
         "lubridate",
         "plotly",
         "rhdf5",
-        "ellipsis",
         "ggplot2",
         "mgcv",
         "pbkrtest",
@@ -33881,7 +33382,6 @@
         "ade4",
         "igraph",
         "shiny",
-        "ellipsis",
         "ggplotify",
         "bit64",
         "osqp",
@@ -34002,7 +33502,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass",
         "IRanges",
         "RSQLite",
@@ -34071,7 +33570,6 @@
         "multcomp",
         "lifecycle",
         "vctrs",
-        "ellipsis",
         "mgcv",
         "scales",
         "aplot",
@@ -34101,7 +33599,6 @@
         "SummarizedExperiment",
         "tibble",
         "qdapTools",
-        "ellipsis",
         "purrr",
         "tidyr",
         "ggplot2",
@@ -34209,7 +33706,6 @@
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
-        "ellipsis",
         "purrr",
         "XVector",
         "tweenr",
@@ -34256,7 +33752,6 @@
         "fBasics",
         "statip",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "purrr",
@@ -34354,7 +33849,6 @@
         "purrr",
         "tidyselect",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "ellipsis",
         "base64",
         "RcppEigen",
         "highr",
@@ -34424,7 +33918,6 @@
         "biomaRt",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr",
         "progress",
         "BiocFileCache",
@@ -34623,7 +34116,6 @@
         "hms",
         "vroom",
         "selectr",
-        "ellipsis",
         "lmtest",
         "dbplyr",
         "Biostrings",
@@ -34766,7 +34258,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "doRNG",
         "gRbase",
         "glmnet",
@@ -34942,7 +34433,6 @@
         "graph",
         "RBGL",
         "Rgraphviz",
-        "ellipsis",
         "broom",
         "dbplyr",
         "dtplyr",
@@ -35086,7 +34576,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "ellipsis",
         "purrr",
         "dbplyr"
     ],
@@ -35107,7 +34596,6 @@
         "XVector",
         "pillar",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyselect"
     ],
@@ -35137,7 +34625,6 @@
         "RcppEigen",
         "hms",
         "vroom",
-        "ellipsis",
         "clock",
         "hardhat",
         "ipred",
@@ -35174,7 +34661,6 @@
         "highr",
         "bslib",
         "jquerylib",
-        "ellipsis",
         "sass",
         "memoise",
         "tidyselect",
@@ -35227,8 +34713,7 @@
         "openssl",
         "hms",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "mixOmics": [
         "ggplot2",
@@ -35248,7 +34733,6 @@
         "mgcv",
         "scales",
         "RSpectra",
-        "ellipsis",
         "purrr",
         "RcppEigen"
     ],
@@ -35270,7 +34754,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "GenomicRanges",
         "IRanges",
@@ -35338,7 +34821,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "futile.logger",
@@ -35390,7 +34872,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "futile.logger",
         "sass",
         "jquerylib",
@@ -35430,7 +34911,6 @@
         "glmmTMB",
         "cplm",
         "lme4",
-        "ellipsis",
         "purrr",
         "pbkrtest",
         "quantreg",
@@ -35602,7 +35082,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "ellipsis",
         "mgcv",
         "purrr",
         "RcppAnnoy",
@@ -35674,7 +35153,6 @@
         "DelayedArray",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr",
         "GenomeInfoDb",
         "XVector",
@@ -35728,7 +35206,6 @@
         "tibble",
         "hms",
         "vroom",
-        "ellipsis",
         "openssl",
         "pillar",
         "tidyselect",
@@ -35821,7 +35298,6 @@
         "vroom",
         "htmlwidgets",
         "selectr",
-        "ellipsis",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -35870,7 +35346,6 @@
         "tibble",
         "vctrs",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "pillar"
@@ -35887,8 +35362,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "mgcv",
-        "ellipsis"
+        "mgcv"
     ],
     "Motif2Site": [
         "BSgenome",
@@ -35977,7 +35451,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "knitr",
         "vroom",
         "highr"
@@ -36045,7 +35518,6 @@
         "tibble",
         "hms",
         "vroom",
-        "ellipsis",
         "openssl",
         "pillar",
         "tidyselect",
@@ -36094,7 +35566,6 @@
         "SummarizedExperiment",
         "hms",
         "vroom",
-        "ellipsis",
         "openssl",
         "DelayedArray",
         "tidyselect",
@@ -36122,7 +35593,6 @@
         "XVector",
         "mgcv",
         "openssl",
-        "ellipsis",
         "purrr",
         "RSQLite",
         "KEGGREST",
@@ -36154,7 +35624,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "XVector",
-        "ellipsis",
         "lifecycle",
         "vctrs"
     ],
@@ -36190,7 +35659,6 @@
         "vroom",
         "bslib",
         "jquerylib",
-        "ellipsis",
         "sass",
         "memoise",
         "broom",
@@ -36233,7 +35701,6 @@
         "pillar",
         "ade4",
         "segmented",
-        "ellipsis",
         "purrr"
     ],
     "MsBackendMassbank": [
@@ -36296,8 +35763,7 @@
         "tidyselect",
         "pillar",
         "mgcv",
-        "openssl",
-        "ellipsis"
+        "openssl"
     ],
     "MsFeatures": [
         "MsCoreUtils",
@@ -36369,7 +35835,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "openssl",
@@ -36401,7 +35866,6 @@
         "bluster",
         "dqrng",
         "beachmat",
-        "ellipsis",
         "purrr",
         "futile.logger",
         "ScaledMatrix",
@@ -36560,8 +36024,7 @@
         "crosstalk",
         "promises",
         "httpuv",
-        "fontawesome",
-        "ellipsis"
+        "fontawesome"
     ],
     "MSPrep": [
         "SummarizedExperiment",
@@ -36586,7 +36049,6 @@
         "genefilter",
         "BiocParallel",
         "edgeR",
-        "ellipsis",
         "purrr",
         "car",
         "vcd",
@@ -36673,7 +36135,6 @@
         "tibble",
         "crosstalk",
         "promises",
-        "ellipsis",
         "lifecycle",
         "tidyselect",
         "pillar",
@@ -36701,7 +36162,6 @@
         "testthat",
         "pillar",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "rematch2"
@@ -36741,7 +36201,6 @@
         "survival",
         "gplots",
         "MSstatsTMT",
-        "ellipsis",
         "broom",
         "dbplyr",
         "dtplyr",
@@ -36826,7 +36285,6 @@
         "RcppEigen",
         "testthat",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "rematch2"
@@ -36871,7 +36329,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "memoise"
@@ -36903,7 +36360,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "memoise",
@@ -36946,7 +36402,6 @@
         "RcppEigen",
         "dplyr",
         "clock",
-        "ellipsis",
         "hardhat",
         "ipred",
         "lubridate",
@@ -37002,7 +36457,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "purrr",
         "IRanges",
         "XVector",
@@ -37039,7 +36493,6 @@
         "testthat",
         "pillar",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "rematch2"
@@ -37056,7 +36509,6 @@
         "GenomeInfoDb",
         "XVector",
         "dplyr",
-        "ellipsis",
         "lifecycle",
         "purrr",
         "tibble",
@@ -37084,7 +36536,6 @@
         "GenomeInfoDb",
         "XVector",
         "dplyr",
-        "ellipsis",
         "lifecycle",
         "purrr",
         "tibble",
@@ -37120,7 +36571,6 @@
         "purrr",
         "promises",
         "pillar",
-        "ellipsis",
         "tidyselect",
         "openssl"
     ],
@@ -37185,7 +36635,6 @@
         "VariantAnnotation",
         "GenomicAlignments",
         "restfulr",
-        "ellipsis",
         "purrr",
         "KEGGREST",
         "progress",
@@ -37414,7 +36863,6 @@
         "knitr",
         "httpuv",
         "fontawesome",
-        "ellipsis",
         "RSQLite",
         "KEGGREST",
         "ggfun",
@@ -37560,8 +37008,7 @@
         "blob",
         "dbplyr",
         "hms",
-        "purrr",
-        "ellipsis"
+        "purrr"
     ],
     "muscat": [
         "BiocParallel",
@@ -37627,7 +37074,6 @@
         "AnnotationDbi",
         "XVector",
         "ragg",
-        "ellipsis",
         "testthat",
         "broom",
         "knitr",
@@ -37727,7 +37173,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "knitr",
         "learnr",
         "DelayedArray",
@@ -37804,7 +37249,6 @@
         "mgcv",
         "doParallel",
         "reshape2",
-        "ellipsis",
         "SummarizedExperiment",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -37864,7 +37308,6 @@
         "MatrixModels",
         "survival",
         "pillar",
-        "ellipsis",
         "purrr",
         "tidyr",
         "tidyselect",
@@ -37924,7 +37367,6 @@
         "futile.logger",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "myvariant": [
@@ -37977,8 +37419,7 @@
         "dplyr",
         "hms",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "mzID": [
         "doParallel"
@@ -38086,7 +37527,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "ellipsis",
         "knitr",
         "vroom",
         "httpuv",
@@ -38134,7 +37574,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "ellipsis",
         "XVector",
         "mgcv",
         "ggbeeswarm",
@@ -38229,7 +37668,6 @@
         "openssl",
         "highr",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "broom",
@@ -38337,7 +37775,6 @@
         "MatrixModels",
         "survival",
         "pillar",
-        "ellipsis",
         "purrr",
         "tidyr",
         "tidyselect",
@@ -38416,7 +37853,6 @@
         "openssl",
         "igraph",
         "dplyr",
-        "ellipsis",
         "lifecycle",
         "purrr",
         "tibble",
@@ -38469,8 +37905,7 @@
         "dbplyr",
         "openssl",
         "hms",
-        "purrr",
-        "ellipsis"
+        "purrr"
     ],
     "Nebulosa": [
         "ggplot2",
@@ -38529,7 +37964,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -38686,7 +38120,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "ellipsis",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -38749,8 +38182,7 @@
         "purrr",
         "tidyselect",
         "bit64",
-        "memoise",
-        "ellipsis"
+        "memoise"
     ],
     "nethet": [
         "GeneNet",
@@ -38798,7 +38230,6 @@
         "plotly",
         "crosstalk",
         "dnet",
-        "ellipsis",
         "supraHex",
         "graph",
         "Rgraphviz",
@@ -38899,7 +38330,6 @@
         "tidyselect",
         "mgcv",
         "scales",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "interp",
@@ -38979,7 +38409,6 @@
         "tidyselect",
         "openssl",
         "hms",
-        "ellipsis",
         "purrr",
         "Biostrings",
         "bit64",
@@ -39029,7 +38458,6 @@
         "IRkernel",
         "IRdisplay",
         "sqldf",
-        "ellipsis",
         "purrr",
         "biomaRt",
         "edgeR",
@@ -39082,7 +38510,6 @@
         "reticulate",
         "tensorflow",
         "tfruns",
-        "ellipsis",
         "SummarizedExperiment",
         "GenomicRanges",
         "DelayedArray",
@@ -39138,7 +38565,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "ellipsis",
         "mgcv",
         "httr",
         "purrr",
@@ -39205,7 +38631,6 @@
         "RcppEigen",
         "testthat",
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -39258,7 +38683,6 @@
         "GenomicAlignments",
         "restfulr",
         "DelayedArray",
-        "ellipsis",
         "BiocParallel",
         "openssl",
         "futile.logger"
@@ -39317,7 +38741,6 @@
         "cellranger",
         "progress",
         "pillar",
-        "ellipsis",
         "purrr",
         "tidyr",
         "htmlwidgets",
@@ -39371,7 +38794,6 @@
         "BiocParallel",
         "broom",
         "futile.logger",
-        "ellipsis",
         "purrr",
         "tibble",
         "ggplot2",
@@ -39458,7 +38880,6 @@
         "pillar",
         "Biostrings",
         "BiocParallel",
-        "ellipsis",
         "BiocIO",
         "restfulr",
         "DelayedArray",
@@ -39521,7 +38942,6 @@
         "DT",
         "bit64",
         "memoise",
-        "ellipsis",
         "jquerylib",
         "httpuv",
         "fontawesome",
@@ -39609,7 +39029,6 @@
         "memoise",
         "GenomicAlignments",
         "latticeExtra",
-        "ellipsis",
         "jquerylib",
         "interp",
         "hms",
@@ -39692,7 +39111,6 @@
         "broom",
         "car",
         "DelayedArray",
-        "ellipsis",
         "progress",
         "pbkrtest",
         "quantreg",
@@ -39768,7 +39186,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "KEGGREST",
@@ -39858,7 +39275,6 @@
         "questionr",
         "doParallel",
         "reshape2",
-        "ellipsis",
         "hardhat",
         "shiny",
         "miniUI",
@@ -39946,7 +39362,6 @@
         "bslib",
         "httpuv",
         "fontawesome",
-        "ellipsis",
         "lifecycle",
         "mgcv",
         "NADA",
@@ -40018,7 +39433,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-        "ellipsis",
         "purrr",
         "pbkrtest",
         "quantreg",
@@ -40113,7 +39527,6 @@
         "XVector",
         "restfulr",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "sass",
@@ -40167,7 +39580,6 @@
         "GenomeInfoDb",
         "XVector",
         "dplyr",
-        "ellipsis",
         "lifecycle",
         "purrr",
         "tibble",
@@ -40218,7 +39630,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass",
         "GenomicRanges",
         "IRanges",
@@ -40264,7 +39675,6 @@
         "lifecycle",
         "vctrs",
         "pillar",
-        "ellipsis",
         "mgcv",
         "scales",
         "hms",
@@ -40296,7 +39706,6 @@
         "jquerylib",
         "knitr",
         "selectr",
-        "ellipsis",
         "sass",
         "memoise",
         "highr",
@@ -40328,7 +39737,6 @@
         "lifecycle",
         "tibble",
         "vroom",
-        "ellipsis",
         "vctrs",
         "pillar",
         "bit64",
@@ -40355,7 +39763,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "ellipsis",
         "Biostrings",
         "bit64",
         "memoise",
@@ -40386,7 +39793,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "ellipsis",
         "purrr",
         "tidyr",
         "highr",
@@ -40418,7 +39824,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "callr",
         "sass",
@@ -40432,7 +39837,6 @@
     "onlineFDR": [
         "progress",
         "hms",
-        "ellipsis",
         "lifecycle",
         "vctrs"
     ],
@@ -40465,7 +39869,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -40571,7 +39974,6 @@
         "knitr",
         "httpuv",
         "fontawesome",
-        "ellipsis",
         "lifecycle",
         "XVector",
         "GenomeInfoDb",
@@ -40631,7 +40033,6 @@
         "lobstr",
         "MatrixModels",
         "reshape2",
-        "ellipsis",
         "purrr",
         "TMB",
         "testthat",
@@ -40663,7 +40064,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "ellipsis",
         "Biostrings",
         "bit64",
         "memoise",
@@ -40713,7 +40113,6 @@
         "devtools",
         "parallelDist",
         "usethis",
-        "ellipsis",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -40862,8 +40261,7 @@
         "vroom",
         "bit64",
         "blob",
-        "memoise",
-        "ellipsis"
+        "memoise"
     ],
     "Organism.dplyr": [
         "dplyr",
@@ -40901,7 +40299,6 @@
         "BiocParallel",
         "hms",
         "futile.logger",
-        "ellipsis",
         "DelayedArray"
     ],
     "OrganismDbi": [
@@ -40941,7 +40338,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "orthogene": [
@@ -40989,7 +40385,6 @@
         "vroom",
         "broom",
         "car",
-        "ellipsis",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -41015,7 +40410,6 @@
         "blockmodeling",
         "gplots",
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -41100,7 +40494,6 @@
         "restfulr",
         "TSP",
         "gclus",
-        "ellipsis",
         "callr",
         "dbplyr",
         "hms"
@@ -41182,7 +40575,6 @@
         "tibble",
         "vctrs",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "pillar",
@@ -41263,7 +40655,6 @@
         "tibble",
         "hms",
         "vroom",
-        "ellipsis",
         "openssl",
         "pillar",
         "tidyselect",
@@ -41281,7 +40672,6 @@
         "DelayedArray",
         "XVector",
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -41356,7 +40746,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "ellipsis",
         "annotate",
         "graph",
         "Rdpack",
@@ -41432,7 +40821,6 @@
         "vctrs",
         "pillar",
         "httr",
-        "ellipsis",
         "purrr",
         "openssl"
     ],
@@ -41474,7 +40862,6 @@
         "viridis",
         "graphlayouts",
         "tfruns",
-        "ellipsis",
         "testthat",
         "hms",
         "tfautograph",
@@ -41579,7 +40966,6 @@
         "BiocParallel",
         "geneplotter",
         "usethis",
-        "ellipsis",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -41701,7 +41087,6 @@
         "lifecycle",
         "tibble",
         "vroom",
-        "ellipsis",
         "vctrs",
         "pillar",
         "bit64",
@@ -41772,7 +41157,6 @@
         "bslib",
         "httpuv",
         "fontawesome",
-        "ellipsis",
         "DelayedArray",
         "igraph",
         "tidyselect",
@@ -41890,7 +41274,6 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "ellipsis",
         "crosstalk",
         "jquerylib",
         "promises",
@@ -42008,7 +41391,6 @@
         "mzID",
         "httpuv",
         "fontawesome",
-        "ellipsis",
         "futile.logger",
         "pillar"
     ],
@@ -42200,7 +41582,6 @@
         "tibble",
         "vctrs",
         "Rgraphviz",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "IRanges",
@@ -42292,7 +41673,6 @@
         "blob",
         "memoise",
         "DelayedArray",
-        "ellipsis",
         "purrr",
         "progress"
     ],
@@ -42331,7 +41711,6 @@
         "shinydashboard",
         "visNetwork",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "crosstalk",
@@ -42395,7 +41774,6 @@
         "RcppEigen",
         "GenomeInfoDb",
         "pillar",
-        "ellipsis",
         "tidyselect",
         "dbplyr",
         "memoise",
@@ -42424,7 +41802,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "ellipsis",
         "purrr",
         "XVector"
     ],
@@ -42477,7 +41854,6 @@
         "GenomeInfoDb",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "RcppEigen",
         "highr"
     ],
@@ -42511,7 +41887,6 @@
         "survival",
         "RcppZiggurat",
         "pillar",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "callr",
@@ -42537,7 +41912,6 @@
         "tidytree",
         "treeio",
         "igraph",
-        "ellipsis",
         "tidyselect",
         "ggplotify",
         "patchwork",
@@ -42608,7 +41982,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "ellipsis",
         "XVector",
         "markdown",
         "hms",
@@ -42667,7 +42040,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
@@ -42754,7 +42126,6 @@
         "gplots",
         "hexbin",
         "ape",
-        "ellipsis",
         "urltools",
         "openssl",
         "statnet.common",
@@ -42792,7 +42163,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "futile.logger",
         "sass",
         "memoise",
@@ -42881,7 +42251,6 @@
         "htmlTable",
         "highr",
         "bslib",
-        "ellipsis",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -42961,7 +42330,6 @@
         "tibble",
         "tidyselect",
         "mgcv",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "plot3D",
@@ -43053,7 +42421,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -43219,7 +42586,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "memoise",
@@ -43270,7 +42636,6 @@
         "RcppEigen",
         "testthat",
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -43319,7 +42684,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass",
         "memoise",
         "pillar",
@@ -43368,7 +42732,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "RSQLite",
         "BiocVersion",
         "AnnotationDbi",
@@ -43415,7 +42778,6 @@
         "tidyr",
         "uwot",
         "vegan",
-        "ellipsis",
         "purrr",
         "e1071",
         "pROC",
@@ -43517,8 +42879,7 @@
         "GenomeInfoDb",
         "XVector",
         "hms",
-        "pillar",
-        "ellipsis"
+        "pillar"
     ],
     "ppcseq": [
         "rstan",
@@ -43549,7 +42910,6 @@
         "pkgbuild",
         "ggdist",
         "posterior",
-        "ellipsis",
         "distributional",
         "openssl",
         "callr"
@@ -43587,7 +42947,6 @@
         "blob",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "Biostrings",
         "bit64",
         "memoise",
@@ -43695,7 +43054,6 @@
         "vctrs",
         "dplyr",
         "clock",
-        "ellipsis",
         "hardhat",
         "ipred",
         "lubridate",
@@ -43793,7 +43151,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "BiocParallel",
         "CNEr",
         "DirichletMultinomial",
@@ -43871,7 +43228,6 @@
         "scales",
         "hms",
         "RcppEigen",
-        "ellipsis",
         "futile.logger",
         "mgcv",
         "knitr",
@@ -43925,8 +43281,7 @@
         "dbplyr",
         "openssl",
         "hms",
-        "purrr",
-        "ellipsis"
+        "purrr"
     ],
     "proBAMr": [
         "IRanges",
@@ -43963,8 +43318,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "proBatch": [
         "dplyr",
@@ -43991,7 +43345,6 @@
         "genefilter",
         "BiocParallel",
         "edgeR",
-        "ellipsis",
         "Hmisc",
         "doParallel",
         "survival",
@@ -44088,8 +43441,7 @@
         "pillar",
         "XVector",
         "openssl",
-        "doParallel",
-        "ellipsis"
+        "doParallel"
     ],
     "profileplyr": [
         "SummarizedExperiment",
@@ -44142,7 +43494,6 @@
         "reshape2",
         "chipseq",
         "DelayedArray",
-        "ellipsis",
         "purrr",
         "KEGGREST",
         "httr",
@@ -44207,8 +43558,7 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "scales",
-        "ellipsis"
+        "scales"
     ],
     "projectR": [
         "CoGAPS",
@@ -44238,7 +43588,6 @@
         "DelayedArray",
         "IRanges",
         "GenomeInfoDb",
-        "ellipsis",
         "purrr",
         "XVector"
     ],
@@ -44295,7 +43644,6 @@
         "doParallel",
         "hms",
         "clock",
-        "ellipsis",
         "hardhat",
         "ipred",
         "lubridate",
@@ -44370,7 +43718,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "fresh",
         "waiter",
         "markdown",
@@ -44506,7 +43853,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "pillar",
         "callr",
         "sass",
@@ -44570,8 +43916,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "ProteoDisco": [
         "BiocParallel",
@@ -44596,7 +43941,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "ellipsis",
         "purrr",
         "SummarizedExperiment",
         "Rsamtools",
@@ -44640,7 +43984,6 @@
         "blob",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "Biostrings",
         "bit64",
         "memoise",
@@ -44705,7 +44048,6 @@
         "jquerylib",
         "httpuv",
         "fontawesome",
-        "ellipsis",
         "R.cache",
         "affy",
         "IRanges",
@@ -44795,7 +44137,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "DelayedArray",
         "futile.logger",
         "sass",
@@ -44861,8 +44202,7 @@
         "pillar",
         "XVector",
         "mgcv",
-        "openssl",
-        "ellipsis"
+        "openssl"
     ],
     "psygenet2r": [
         "igraph",
@@ -44896,7 +44236,6 @@
         "bit64",
         "blob",
         "memoise",
-        "ellipsis",
         "purrr",
         "Biostrings",
         "XVector",
@@ -44947,7 +44286,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "futile.logger",
         "sass",
         "memoise",
@@ -45030,8 +44368,7 @@
         "openssl",
         "hms",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "pvac": [
         "affy"
@@ -45050,7 +44387,6 @@
         "vctrs",
         "testthat",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "pillar",
@@ -45110,7 +44446,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "highr"
     ],
     "PWMEnrich": [
@@ -45160,7 +44495,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "ellipsis",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -45189,7 +44523,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "sass",
         "httr",
         "IRanges",
@@ -45276,8 +44609,7 @@
         "pillar",
         "XVector",
         "mgcv",
-        "openssl",
-        "ellipsis"
+        "openssl"
     ],
     "qmtools": [
         "SummarizedExperiment",
@@ -45331,7 +44663,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "ellipsis",
         "highr",
         "testthat",
         "pkgload",
@@ -45379,7 +44710,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "qPLEXanalyzer": [
@@ -45410,7 +44740,6 @@
         "mzID",
         "hms",
         "vroom",
-        "ellipsis",
         "futile.logger",
         "doParallel",
         "bit64",
@@ -45441,7 +44770,6 @@
         "tibble",
         "vctrs",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "RSQLite",
@@ -45597,7 +44925,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "pillar",
@@ -45653,7 +44980,6 @@
         "biomaRt",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr",
         "progress",
         "BiocFileCache",
@@ -45726,8 +45052,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "QuaternaryProd": [
         "dplyr",
@@ -45748,7 +45073,6 @@
         "tibble",
         "vctrs",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "pillar"
@@ -45821,7 +45145,6 @@
         "httr",
         "BiocFileCache",
         "tidyselect",
-        "ellipsis",
         "RcppEigen",
         "highr",
         "hms",
@@ -45901,7 +45224,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "ellipsis",
         "RcppEigen",
         "bit64",
         "memoise"
@@ -45952,7 +45274,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "dplyr",
         "purrr",
         "tidyselect",
@@ -46023,7 +45344,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "ellipsis",
         "bit64",
         "memoise"
     ],
@@ -46046,7 +45366,6 @@
         "pillar",
         "hms",
         "vroom",
-        "ellipsis",
         "bit64",
         "progress"
     ],
@@ -46059,7 +45378,6 @@
         "nloptr",
         "testthat",
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -46121,7 +45439,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "ellipsis",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -46148,7 +45465,6 @@
         "hms",
         "vroom",
         "GenomeInfoDb",
-        "ellipsis",
         "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
@@ -46264,7 +45580,6 @@
         "openssl",
         "hms",
         "vroom",
-        "ellipsis",
         "dbplyr",
         "futile.logger",
         "DelayedArray"
@@ -46283,7 +45598,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "memoise",
@@ -46321,7 +45635,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "progress",
         "httr",
         "BiocFileCache",
@@ -46380,7 +45693,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "memoise",
@@ -46479,7 +45791,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -46532,7 +45843,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "hms",
@@ -46593,7 +45903,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "pillar",
         "vctrs",
@@ -46618,7 +45927,6 @@
         "scales",
         "openssl",
         "hms",
-        "ellipsis",
         "purrr"
     ],
     "ReactomePA": [
@@ -46679,7 +45987,6 @@
         "bit64",
         "blob",
         "memoise",
-        "ellipsis",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -46719,7 +46026,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "ellipsis",
         "purrr",
         "XVector"
     ],
@@ -46797,7 +46103,6 @@
         "reshape2",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr",
         "progress",
         "BiocFileCache",
@@ -46900,7 +46205,6 @@
         "biomaRt",
         "hms",
         "vroom",
-        "ellipsis",
         "progress",
         "Rsamtools",
         "GenomicAlignments",
@@ -46946,8 +46250,7 @@
         "DelayedArray",
         "pillar",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "RedeR": [
         "igraph"
@@ -47007,8 +46310,7 @@
         "dbplyr",
         "openssl",
         "hms",
-        "purrr",
-        "ellipsis"
+        "purrr"
     ],
     "RefPlus": [
         "affy",
@@ -47063,7 +46365,6 @@
         "viridis",
         "httr",
         "Biostrings",
-        "ellipsis",
         "purrr",
         "knitr",
         "htmlwidgets",
@@ -47199,8 +46500,7 @@
         "RcppEigen",
         "hms",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "regsplice": [
         "glmnet",
@@ -47282,7 +46582,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "DelayedArray",
         "sass",
         "mgcv",
@@ -47352,7 +46651,6 @@
         "mgcv",
         "scales",
         "rhdf5",
-        "ellipsis",
         "openssl",
         "base64",
         "shiny",
@@ -47492,7 +46790,6 @@
         "pillar",
         "BiocFileCache",
         "tidyselect",
-        "ellipsis",
         "htmlwidgets",
         "interp",
         "hms",
@@ -47527,7 +46824,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "ellipsis",
         "bit64",
         "memoise"
     ],
@@ -47619,7 +46915,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "ellipsis",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -47656,7 +46951,6 @@
         "dplyr",
         "tidyr",
         "lobstr",
-        "ellipsis",
         "purrr",
         "pbkrtest",
         "quantreg",
@@ -47765,7 +47059,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "XVector",
         "GenomeInfoDb",
         "sass"
@@ -47835,7 +47128,6 @@
         "futile.logger",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "rgoslin": [
@@ -47881,7 +47173,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "httr",
         "BiocFileCache",
@@ -47950,7 +47241,6 @@
         "purrr",
         "tidyselect",
         "BiocIO",
-        "ellipsis",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr"
@@ -47999,8 +47289,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "RiboCrypt": [
         "ORFik",
@@ -48053,7 +47342,6 @@
         "memoise",
         "restfulr",
         "DelayedArray",
-        "ellipsis",
         "dbplyr",
         "annotate",
         "hms",
@@ -48112,7 +47400,6 @@
         "hms",
         "loo",
         "pkgbuild",
-        "ellipsis",
         "callr"
     ],
     "RiboProfiling": [
@@ -48171,7 +47458,6 @@
         "pillar",
         "dbplyr",
         "tidyselect",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "openssl",
@@ -48193,7 +47479,6 @@
         "pillar",
         "mgcv",
         "scales",
-        "ellipsis",
         "purrr"
     ],
     "riboSeqR": [
@@ -48271,7 +47556,6 @@
         "hms",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "RcppEigen",
         "vroom"
     ],
@@ -48313,7 +47597,6 @@
         "MatrixModels",
         "survival",
         "futile.logger",
-        "ellipsis",
         "purrr",
         "tidyr",
         "highr",
@@ -48413,7 +47696,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "ellipsis",
         "bit64",
         "DelayedArray",
         "knitr",
@@ -48502,7 +47784,6 @@
         "memoise",
         "GenomicAlignments",
         "restfulr",
-        "ellipsis",
         "purrr",
         "GO.db",
         "dbplyr",
@@ -48599,7 +47880,6 @@
         "KEGGREST",
         "dbplyr",
         "progress",
-        "ellipsis",
         "purrr",
         "tidyr",
         "e1071",
@@ -48698,7 +47978,6 @@
         "geneplotter",
         "ggplot2",
         "usethis",
-        "ellipsis",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -48836,7 +48115,6 @@
         "reshape2",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr",
         "progress",
         "BiocFileCache",
@@ -48861,7 +48139,6 @@
         "testthat",
         "RcppEigen",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "pillar",
@@ -48892,7 +48169,6 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "ellipsis",
         "purrr",
         "tibble",
         "ggplot2",
@@ -49010,7 +48286,6 @@
         "hms",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "highr"
@@ -49072,7 +48347,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "highr"
@@ -49135,7 +48409,6 @@
         "hms",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "highr"
@@ -49197,7 +48470,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "highr"
@@ -49307,7 +48579,6 @@
         "latticeExtra",
         "DelayedArray",
         "genefilter",
-        "ellipsis",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -49375,7 +48646,6 @@
         "rentrez",
         "rtracklayer",
         "DelayedArray",
-        "ellipsis",
         "RSQLite",
         "dbplyr",
         "futile.logger",
@@ -49490,7 +48760,6 @@
         "tidyselect",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr"
     ],
     "roar": [
@@ -49549,7 +48818,6 @@
         "progress",
         "openssl",
         "hms",
-        "ellipsis",
         "lifecycle",
         "vctrs"
     ],
@@ -49592,8 +48860,7 @@
         "tidyselect",
         "pillar",
         "XVector",
-        "openssl",
-        "ellipsis"
+        "openssl"
     ],
     "ROSeq": [
         "edgeR"
@@ -49658,7 +48925,6 @@
         "vctrs",
         "httpuv",
         "fontawesome",
-        "ellipsis",
         "pillar"
     ],
     "rpx": [
@@ -49717,7 +48983,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "latticeExtra",
         "RSQLite",
         "KEGGREST",
@@ -49793,7 +49058,6 @@
         "promises",
         "MatrixModels",
         "sn",
-        "ellipsis",
         "tidyselect",
         "pillar",
         "openssl",
@@ -49817,7 +49081,6 @@
         "tibble",
         "vctrs",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "pillar"
@@ -49855,7 +49118,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "igraph",
         "openssl",
         "reticulate",
@@ -49950,7 +49212,6 @@
         "tidyr",
         "survMisc",
         "ggtext",
-        "ellipsis",
         "sass",
         "memoise",
         "ggrepel",
@@ -50017,7 +49278,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "ellipsis",
         "purrr",
         "dbplyr",
         "BiocParallel",
@@ -50051,7 +49311,6 @@
         "knitr",
         "MatrixModels",
         "lifecycle",
-        "ellipsis",
         "purrr",
         "tibble",
         "tidyr",
@@ -50095,7 +49354,6 @@
         "knitr",
         "MatrixModels",
         "lifecycle",
-        "ellipsis",
         "purrr",
         "tibble",
         "tidyr",
@@ -50145,7 +49403,6 @@
         "dplyr",
         "knitr",
         "MatrixModels",
-        "ellipsis",
         "purrr",
         "tidyr",
         "tidyselect",
@@ -50172,7 +49429,6 @@
         "pillar",
         "mgcv",
         "scales",
-        "ellipsis",
         "purrr"
     ],
     "rtracklayer": [
@@ -50244,7 +49500,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "KEGGREST",
         "XVector",
@@ -50278,7 +49533,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -50345,7 +49599,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
         "RcppEigen",
         "DelayedArray"
     ],
@@ -50364,7 +49617,6 @@
         "knitr",
         "survival",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tibble",
         "tidyr",
@@ -50383,7 +49635,6 @@
         "tidyr",
         "openssl",
         "dplyr",
-        "ellipsis",
         "lifecycle",
         "purrr",
         "tibble",
@@ -50446,8 +49697,7 @@
         "XVector",
         "GenomeInfoDb",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "sangeranalyseR": [
         "ape",
@@ -50493,7 +49743,6 @@
         "segmented",
         "httpuv",
         "fontawesome",
-        "ellipsis",
         "lifecycle",
         "sass",
         "memoise",
@@ -50514,7 +49763,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -50613,7 +49861,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "GenomicRanges",
         "DelayedArray",
         "IRanges",
@@ -50694,7 +49941,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -50741,7 +49987,6 @@
         "bit64",
         "blob",
         "memoise",
-        "ellipsis",
         "purrr",
         "httr",
         "KEGGREST",
@@ -50821,7 +50066,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "dbplyr",
         "progress",
         "sass",
@@ -50904,7 +50148,6 @@
         "purrr",
         "promises",
         "clock",
-        "ellipsis",
         "hardhat",
         "ipred",
         "lubridate",
@@ -50998,7 +50241,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass"
     ],
     "scater": [
@@ -51121,7 +50363,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -51195,7 +50436,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -51274,7 +50514,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -51333,7 +50572,6 @@
         "RSQLite",
         "KEGGREST",
         "XVector",
-        "ellipsis",
         "purrr",
         "openssl",
         "Biostrings",
@@ -51362,7 +50600,6 @@
         "StanHeaders",
         "vctrs",
         "pillar",
-        "ellipsis",
         "mgcv",
         "hms",
         "vroom",
@@ -51439,7 +50676,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -51547,7 +50783,6 @@
         "nloptr",
         "RcppEigen",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "pillar",
@@ -51576,7 +50811,6 @@
         "GenomeInfoDb",
         "XVector",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "pillar",
@@ -51622,8 +50856,7 @@
         "futile.logger",
         "RcppEigen",
         "bit64",
-        "callr",
-        "ellipsis"
+        "callr"
     ],
     "scFeatureFilter": [
         "dplyr",
@@ -51668,7 +50901,6 @@
         "AnnotationDbi",
         "XVector",
         "clock",
-        "ellipsis",
         "hardhat",
         "ipred",
         "lubridate",
@@ -51737,7 +50969,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "SummarizedExperiment",
         "GenomicRanges",
         "DelayedArray",
@@ -51826,7 +51057,6 @@
         "httpuv",
         "fontawesome",
         "promises",
-        "ellipsis",
         "systemfonts",
         "callr",
         "openssl"
@@ -51879,7 +51109,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -52061,7 +51290,6 @@
         "restfulr",
         "progress",
         "purrr",
-        "ellipsis",
         "httpuv",
         "fontawesome"
     ],
@@ -52073,7 +51301,6 @@
         "ggplot2",
         "forcats",
         "futile.logger",
-        "ellipsis",
         "lifecycle",
         "tibble",
         "mgcv",
@@ -52144,8 +51371,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "Sconify": [
         "tibble",
@@ -52162,7 +51388,6 @@
         "scales",
         "hms",
         "vroom",
-        "ellipsis",
         "bit64",
         "progress"
     ],
@@ -52199,7 +51424,6 @@
         "lifecycle",
         "pillar",
         "vctrs",
-        "ellipsis",
         "DelayedArray"
     ],
     "scoreInvHap": [
@@ -52241,8 +51465,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "scp": [
         "QFeatures",
@@ -52272,7 +51495,6 @@
         "crosstalk",
         "purrr",
         "promises",
-        "ellipsis",
         "mgcv",
         "openssl"
     ],
@@ -52352,7 +51574,6 @@
         "ggrastr",
         "ggrepel",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "dbplyr",
@@ -52440,8 +51661,7 @@
         "lifecycle",
         "vctrs",
         "pillar",
-        "mgcv",
-        "ellipsis"
+        "mgcv"
     ],
     "scRepertoire": [
         "ggplot2",
@@ -52481,8 +51701,7 @@
         "globals",
         "XVector",
         "tweenr",
-        "systemfonts",
-        "ellipsis"
+        "systemfonts"
     ],
     "scruff": [
         "GenomicAlignments",
@@ -52545,7 +51764,6 @@
         "pillar",
         "dbplyr",
         "tidyselect",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "openssl",
@@ -52707,7 +51925,6 @@
         "uwot",
         "httpuv",
         "fontawesome",
-        "ellipsis",
         "callr",
         "ggfun",
         "ggplotify",
@@ -52806,7 +52023,6 @@
         "uwot",
         "httpuv",
         "fontawesome",
-        "ellipsis",
         "survival",
         "globals",
         "Biostrings",
@@ -52931,7 +52147,6 @@
         "reshape2",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -53073,8 +52288,7 @@
         "systemfonts",
         "RcppEigen",
         "openssl",
-        "hms",
-        "ellipsis"
+        "hms"
     ],
     "segmentSeq": [
         "baySeq",
@@ -53112,7 +52326,6 @@
         "GenomeInfoDb",
         "BSgenome",
         "scales",
-        "ellipsis",
         "lifecycle",
         "tibble",
         "AnnotationDbi",
@@ -53204,7 +52417,6 @@
         "vctrs",
         "mgcv",
         "scales",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "Biostrings",
@@ -53272,7 +52484,6 @@
         "BiocIO",
         "restfulr",
         "DelayedArray",
-        "ellipsis",
         "purrr",
         "AnnotationDbi",
         "BSgenome",
@@ -53351,7 +52562,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "Biostrings",
         "bit64",
         "memoise"
@@ -53431,7 +52641,6 @@
         "memoise",
         "tidyselect",
         "pillar",
-        "ellipsis",
         "crul",
         "highr",
         "hms",
@@ -53463,7 +52672,6 @@
         "broom",
         "dplyr",
         "tidyr",
-        "ellipsis",
         "purrr",
         "tibble",
         "ggplot2",
@@ -53510,7 +52718,6 @@
         "openssl",
         "blob",
         "purrr",
-        "ellipsis",
         "bit64",
         "memoise",
         "progress",
@@ -53595,7 +52802,6 @@
         "BiocIO",
         "restfulr",
         "BiocParallel",
-        "ellipsis",
         "vctrs",
         "DelayedArray",
         "pillar",
@@ -53640,8 +52846,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "SharedObject": [],
     "shinyepico": [
@@ -53704,7 +52909,6 @@
         "restfulr",
         "httpuv",
         "fontawesome",
-        "ellipsis",
         "sass",
         "futile.logger",
         "memoise",
@@ -53758,7 +52962,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "futile.logger",
         "XVector",
@@ -53855,7 +53058,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "ellipsis",
         "nloptr",
         "testthat",
         "pillar",
@@ -53897,7 +53099,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "GenomicRanges",
         "IRanges",
@@ -54030,7 +53231,6 @@
         "shadowtext",
         "ggtree",
         "XVector",
-        "ellipsis",
         "Biostrings",
         "progress",
         "ggfun",
@@ -54132,7 +53332,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass",
         "forcats",
         "tidytidbits",
@@ -54231,7 +53430,6 @@
         "rsvd",
         "beachmat",
         "XVector",
-        "ellipsis",
         "survcomp",
         "biomaRt",
         "iC10",
@@ -54321,8 +53519,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "sigsquared": [
         "survival"
@@ -54419,7 +53616,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "ellipsis",
         "purrr",
         "rhdf5",
         "XVector",
@@ -54487,7 +53683,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "DropletUtils",
         "BiocFileCache",
         "systemfonts",
@@ -54568,7 +53763,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "BiocParallel",
-        "ellipsis",
         "purrr",
         "futile.logger",
         "DelayedArray"
@@ -54769,7 +53963,6 @@
         "spatstat.geom",
         "httpuv",
         "fontawesome",
-        "ellipsis",
         "genefilter",
         "softImpute",
         "KEGGREST",
@@ -54861,8 +54054,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "SingleR": [
         "SummarizedExperiment",
@@ -54912,7 +54104,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "ellipsis",
         "tidyselect",
         "RSQLite",
         "KEGGREST",
@@ -55002,7 +54193,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "sitePath": [
@@ -55028,8 +54218,7 @@
         "ade4",
         "segmented",
         "tidyselect",
-        "pillar",
-        "ellipsis"
+        "pillar"
     ],
     "skewr": [
         "methylumi",
@@ -55101,7 +54290,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "ellipsis",
         "purrr",
         "dbplyr"
     ],
@@ -55154,7 +54342,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "ellipsis",
         "purrr"
     ],
     "SMITE": [
@@ -55214,8 +54401,7 @@
         "hms",
         "DelayedArray",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "snapCGH": [
         "aCGH",
@@ -55272,7 +54458,6 @@
         "RcppEigen",
         "testthat",
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -55326,8 +54511,7 @@
         "openssl",
         "hms",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "snpStats": [
         "survival"
@@ -55388,7 +54572,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "memoise"
@@ -55447,7 +54630,6 @@
         "httr",
         "BiocFileCache",
         "tidyselect",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "interp",
@@ -55540,7 +54722,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "GenomeInfoDb",
         "futile.logger",
         "ScaledMatrix",
@@ -55606,7 +54787,6 @@
         "pillar",
         "openssl",
         "Biostrings",
-        "ellipsis",
         "XVector",
         "GenomeInfoDb",
         "bit64",
@@ -55734,7 +54914,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "sass",
         "GenomicRanges",
         "IRanges",
@@ -55832,7 +55011,6 @@
         "cellranger",
         "XVector",
         "GenomeInfoDb",
-        "ellipsis",
         "htmlwidgets",
         "systemfonts",
         "purrr",
@@ -55986,7 +55164,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "IRanges",
         "GenomeInfoDb",
         "Hmisc",
@@ -56083,7 +55260,6 @@
         "survival",
         "htmlTable",
         "viridis",
-        "ellipsis",
         "RcppEigen",
         "knitr",
         "htmlwidgets",
@@ -56230,7 +55406,6 @@
         "beachmat",
         "scuttle",
         "XVector",
-        "ellipsis",
         "RcppEigen",
         "httpuv",
         "fontawesome",
@@ -56282,7 +55457,6 @@
         "spatstat.random",
         "spatstat.sparse",
         "GenomeInfoDb",
-        "ellipsis",
         "purrr",
         "dbplyr",
         "RSQLite",
@@ -56474,7 +55648,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass",
         "KEGGREST",
         "memoise",
@@ -56533,8 +55706,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "splineTimeR": [
         "igraph",
@@ -56609,7 +55781,6 @@
         "survival",
         "htmlTable",
         "viridis",
-        "ellipsis",
         "RcppEigen",
         "knitr",
         "htmlwidgets",
@@ -56666,7 +55837,6 @@
         "graph",
         "RBGL",
         "Rgraphviz",
-        "ellipsis",
         "broom",
         "dbplyr",
         "dtplyr",
@@ -56793,7 +55963,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -56946,7 +56115,6 @@
         "pillar",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr",
         "progress"
     ],
@@ -56973,7 +56141,6 @@
         "geneplotter",
         "ggplot2",
         "usethis",
-        "ellipsis",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -57106,8 +56273,7 @@
         "Biostrings",
         "bit64",
         "blob",
-        "memoise",
-        "ellipsis"
+        "memoise"
     ],
     "ssPATHS": [
         "SummarizedExperiment",
@@ -57143,7 +56309,6 @@
         "knitr",
         "rARPACK",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyr",
         "tweenr",
@@ -57170,7 +56335,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "memoise"
@@ -57253,7 +56417,6 @@
         "tibble",
         "tidyselect",
         "mgcv",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "highr"
@@ -57289,7 +56452,6 @@
         "BiocFileCache",
         "IRanges",
         "GenomeInfoDb",
-        "ellipsis",
         "purrr",
         "dbplyr",
         "RSQLite",
@@ -57432,7 +56594,6 @@
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
-        "ellipsis",
         "purrr",
         "broom",
         "dbplyr",
@@ -57503,7 +56664,6 @@
         "RcppEigen",
         "pillar",
         "dplyr",
-        "ellipsis",
         "purrr"
     ],
     "stepNorm": [],
@@ -57586,7 +56746,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -57645,8 +56804,7 @@
         "dbplyr",
         "openssl",
         "hms",
-        "purrr",
-        "ellipsis"
+        "purrr"
     ],
     "Streamer": [
         "graph",
@@ -57681,7 +56839,6 @@
         "XVector",
         "openssl",
         "hms",
-        "ellipsis",
         "lifecycle",
         "vctrs"
     ],
@@ -57714,8 +56871,7 @@
         "pillar",
         "XVector",
         "openssl",
-        "hms",
-        "ellipsis"
+        "hms"
     ],
     "StructuralVariantAnnotation": [
         "GenomicRanges",
@@ -57754,8 +56910,7 @@
         "futile.logger",
         "openssl",
         "hms",
-        "purrr",
-        "ellipsis"
+        "purrr"
     ],
     "SubCellBarCode": [
         "Rtsne",
@@ -57783,7 +56938,6 @@
         "Biostrings",
         "dplyr",
         "clock",
-        "ellipsis",
         "hardhat",
         "ipred",
         "lubridate",
@@ -57817,7 +56971,6 @@
         "mgcv",
         "scales",
         "reshape2",
-        "ellipsis",
         "purrr"
     ],
     "SUITOR": [
@@ -57851,7 +57004,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "ellipsis",
         "purrr",
         "XVector"
     ],
@@ -57866,7 +57018,6 @@
         "nloptr",
         "testthat",
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -57895,7 +57046,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "ellipsis",
         "furrr",
         "purrr",
         "slider",
@@ -57929,7 +57079,6 @@
         "pillar",
         "hms",
         "vroom",
-        "ellipsis",
         "bit64",
         "progress"
     ],
@@ -57962,7 +57111,6 @@
         "ade4",
         "segmented",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "RSQLite",
@@ -58005,7 +57153,6 @@
         "tibble",
         "ggtext",
         "rrcov",
-        "ellipsis",
         "lifecycle",
         "tidyselect",
         "vctrs",
@@ -58097,8 +57244,7 @@
         "futile.logger",
         "openssl",
         "hms",
-        "purrr",
-        "ellipsis"
+        "purrr"
     ],
     "svaRetro": [
         "GenomicRanges",
@@ -58138,8 +57284,7 @@
         "futile.logger",
         "openssl",
         "hms",
-        "purrr",
-        "ellipsis"
+        "purrr"
     ],
     "SWATH2stats": [
         "reshape2",
@@ -58165,7 +57310,6 @@
         "blob",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "Biostrings",
         "bit64",
         "memoise",
@@ -58237,7 +57381,6 @@
         "memoise",
         "mgcv",
         "vctrs",
-        "ellipsis",
         "highr",
         "doParallel",
         "pillar",
@@ -58288,7 +57431,6 @@
         "crosstalk",
         "promises",
         "fields",
-        "ellipsis",
         "dbplyr",
         "dtplyr",
         "forcats",
@@ -58363,7 +57505,6 @@
         "pillar",
         "mgcv",
         "scales",
-        "ellipsis",
         "purrr",
         "tidyr",
         "lme4",
@@ -58414,7 +57555,6 @@
         "BiocIO",
         "restfulr",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "SummarizedExperiment",
@@ -58494,7 +57634,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "fresh",
         "waiter",
         "sass",
@@ -58548,7 +57687,6 @@
         "ggplotify",
         "patchwork",
         "futile.logger",
-        "ellipsis",
         "annotate",
         "AnnotationDbi",
         "XVector",
@@ -58589,7 +57727,6 @@
         "QDNAseq",
         "pheatmap",
         "rhdf5",
-        "ellipsis",
         "futile.logger",
         "GenomeInfoDb",
         "XVector",
@@ -58641,8 +57778,7 @@
         "ggplotify",
         "patchwork",
         "tidyselect",
-        "pillar",
-        "ellipsis"
+        "pillar"
     ],
     "TAPseq": [
         "GenomicAlignments",
@@ -58669,7 +57805,6 @@
         "RSQLite",
         "BiocIO",
         "biomaRt",
-        "ellipsis",
         "purrr",
         "KEGGREST",
         "progress",
@@ -58694,7 +57829,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -58725,7 +57859,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "memoise",
@@ -58839,7 +57972,6 @@
         "purrr",
         "genefilter",
         "pillar",
-        "ellipsis",
         "tidyselect",
         "RSQLite",
         "KEGGREST",
@@ -58915,7 +58047,6 @@
         "vroom",
         "selectr",
         "DelayedArray",
-        "ellipsis",
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -59001,7 +58132,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "knitr",
         "R.utils",
         "RSQLite",
@@ -59124,7 +58254,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "ellipsis",
         "purrr",
         "dbplyr",
         "BiocParallel",
@@ -59196,7 +58325,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-        "ellipsis",
         "Biostrings",
         "bit64",
         "memoise"
@@ -59216,7 +58344,6 @@
         "tibble",
         "vroom",
         "DelayedArray",
-        "ellipsis",
         "vctrs",
         "pillar",
         "bit64",
@@ -59251,7 +58378,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -59327,7 +58453,6 @@
         "GenomicFeatures",
         "GenomicDataCommons",
         "rvest",
-        "ellipsis",
         "purrr",
         "KEGGREST",
         "blob",
@@ -59409,7 +58534,6 @@
         "tibble",
         "hms",
         "vroom",
-        "ellipsis",
         "openssl",
         "DelayedArray",
         "pillar",
@@ -59452,7 +58576,6 @@
         "purrr",
         "SummarizedExperiment",
         "BiocParallel",
-        "ellipsis",
         "futile.logger",
         "DelayedArray"
     ],
@@ -59505,8 +58628,7 @@
         "vroom",
         "bit64",
         "blob",
-        "memoise",
-        "ellipsis"
+        "memoise"
     ],
     "TFutils": [
         "dplyr",
@@ -59546,7 +58668,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "futile.logger",
         "sass",
         "memoise",
@@ -59574,7 +58695,6 @@
         "hms",
         "vroom",
         "DelayedArray",
-        "ellipsis",
         "bit64",
         "progress"
     ],
@@ -59590,7 +58710,6 @@
         "purrr",
         "lifecycle",
         "tidyselect",
-        "ellipsis",
         "pillar",
         "vctrs",
         "mgcv",
@@ -59616,7 +58735,6 @@
         "lifecycle",
         "plotly",
         "tidyselect",
-        "ellipsis",
         "vctrs",
         "pillar",
         "mgcv",
@@ -59706,7 +58824,6 @@
         "reshape2",
         "rARPACK",
         "BiocParallel",
-        "ellipsis",
         "futile.logger",
         "RSpectra",
         "RcppEigen"
@@ -59766,7 +58883,6 @@
         "IRkernel",
         "IRdisplay",
         "cellranger",
-        "ellipsis",
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -59877,7 +58993,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "ellipsis",
         "purrr",
         "httr",
         "RSQLite",
@@ -59926,8 +59041,7 @@
         "dbplyr",
         "openssl",
         "hms",
-        "purrr",
-        "ellipsis"
+        "purrr"
     ],
     "tLOH": [
         "scales",
@@ -59968,7 +59082,6 @@
         "RSQLite",
         "KEGGREST",
         "lobstr",
-        "ellipsis",
         "BiocIO",
         "biomaRt",
         "lamW",
@@ -60051,7 +59164,6 @@
         "beachmat",
         "tidyselect",
         "pillar",
-        "ellipsis",
         "XVector",
         "annotate",
         "graph",
@@ -60112,7 +59224,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "pillar",
@@ -60170,7 +59281,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "memoise",
@@ -60253,7 +59363,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "ellipsis",
         "purrr",
         "XVector",
         "gplots",
@@ -60290,7 +59399,6 @@
         "rmarkdown",
         "tibble",
         "VennDiagram",
-        "ellipsis",
         "lifecycle",
         "tidyselect",
         "vctrs",
@@ -60317,7 +59425,6 @@
         "pillar",
         "mgcv",
         "scales",
-        "ellipsis",
         "purrr"
     ],
     "tracktables": [
@@ -60389,7 +59496,6 @@
         "tibble",
         "tidyselect",
         "mgcv",
-        "ellipsis",
         "knitr",
         "highr"
     ],
@@ -60459,7 +59565,6 @@
         "vctrs",
         "hms",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "graph",
@@ -60514,7 +59619,6 @@
         "BiocFileCache",
         "dplyr",
         "clock",
-        "ellipsis",
         "hardhat",
         "ipred",
         "lubridate",
@@ -60728,7 +59832,6 @@
         "vctrs",
         "pillar",
         "tidyr",
-        "ellipsis",
         "purrr"
     ],
     "treekoR": [
@@ -60771,7 +59874,6 @@
         "sandwich",
         "GenomicRanges",
         "DelayedArray",
-        "ellipsis",
         "ggplotify",
         "IRanges",
         "doParallel",
@@ -60824,7 +59926,6 @@
         "DelayedArray",
         "tidytree",
         "tidyr",
-        "ellipsis",
         "purrr"
     ],
     "TREG": [
@@ -60892,7 +59993,6 @@
         "SummarizedExperiment",
         "mgcv",
         "scales",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "interp",
@@ -60915,7 +60015,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "tibble",
         "GenomicRanges",
@@ -60963,8 +60062,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "tricycle": [
         "SingleCellExperiment",
@@ -61097,7 +60195,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass",
         "memoise",
         "mgcv",
@@ -61199,7 +60296,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "GenomicRanges",
         "GenomeInfoDb",
         "sass",
@@ -61259,7 +60355,6 @@
         "reticulate",
         "tensorflow",
         "tfruns",
-        "ellipsis",
         "rsparse",
         "mlapi",
         "koRpus.lang.en",
@@ -61318,7 +60413,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "memoise",
@@ -61359,8 +60453,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "tximeta": [
         "SummarizedExperiment",
@@ -61412,7 +60505,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass"
     ],
     "UCell": [
@@ -61480,7 +60572,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "futile.logger",
         "progress",
         "sass",
@@ -61554,7 +60645,6 @@
         "pcaPP",
         "hdrcde",
         "ks",
-        "ellipsis",
         "plot3D"
     ],
     "uncoverappLib": [
@@ -61613,7 +60703,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "KEGGREST",
@@ -61670,7 +60759,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -61714,8 +60802,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "universalmotif": [
         "ggplot2",
@@ -61785,7 +60872,6 @@
         "viridis",
         "visNetwork",
         "tfruns",
-        "ellipsis",
         "scuttle",
         "ggplot2",
         "DelayedArray",
@@ -61895,7 +60981,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "memoise",
@@ -61931,7 +61016,6 @@
         "dplyr",
         "knitr",
         "hms",
-        "ellipsis",
         "purrr",
         "tidyr",
         "tidyselect",
@@ -61979,8 +61063,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "VariantExperiment": [
         "SummarizedExperiment",
@@ -62000,7 +61083,6 @@
         "broom",
         "dplyr",
         "tidyr",
-        "ellipsis",
         "purrr",
         "tibble",
         "ggplot2",
@@ -62055,7 +61137,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "BiocVersion",
         "interactiveDisplayBase",
@@ -62124,8 +61205,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "VaSP": [
         "ballgown",
@@ -62198,8 +61278,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "VDJdive": [
         "basilisk",
@@ -62243,7 +61322,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "ellipsis",
         "Biostrings",
         "bit64",
         "memoise",
@@ -62327,7 +61405,6 @@
         "jquerylib",
         "GenomeInfoDb",
         "DelayedArray",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "futile.logger",
@@ -62411,7 +61488,6 @@
         "memoise",
         "TSP",
         "gclus",
-        "ellipsis",
         "callr",
         "XVector",
         "GenomeInfoDb"
@@ -62463,7 +61539,6 @@
         "BiocVersion",
         "interactiveDisplayBase",
         "syuzhet",
-        "ellipsis",
         "purrr",
         "dbplyr",
         "openssl",
@@ -62574,7 +61649,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -62640,7 +61714,6 @@
         "purrr",
         "tidyselect",
         "vctrs",
-        "ellipsis",
         "openssl",
         "shiny",
         "DT",
@@ -62737,7 +61810,6 @@
         "blob",
         "latticeExtra",
         "purrr",
-        "ellipsis",
         "interp"
     ],
     "waddR": [
@@ -62776,7 +61848,6 @@
         "scales",
         "testthat",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "rematch2"
@@ -62850,7 +61921,6 @@
         "tidyselect",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr"
     ],
     "wavClusteR": [
@@ -62904,8 +61974,7 @@
         "hms",
         "DelayedArray",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "webbioc": [
         "affy",
@@ -63017,7 +62086,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass",
         "GenomicRanges",
         "IRanges",
@@ -63052,7 +62120,6 @@
         "rmarkdown",
         "rvest",
         "hms",
-        "ellipsis",
         "openssl",
         "vroom",
         "cellranger",
@@ -63106,7 +62173,6 @@
         "SummarizedExperiment",
         "tidyr",
         "dplyr",
-        "ellipsis",
         "lifecycle",
         "purrr",
         "tibble",
@@ -63176,7 +62242,6 @@
         "shinydashboard",
         "visNetwork",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "crosstalk",
@@ -63316,7 +62381,6 @@
         "bit64",
         "blob",
         "dbplyr",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "interp",
@@ -63350,7 +62414,6 @@
         "mgcv",
         "scales",
         "vctrs",
-        "ellipsis",
         "openssl",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -63437,7 +62500,6 @@
         "tidyselect",
         "hms",
         "RcppZiggurat",
-        "ellipsis",
         "purrr",
         "BiocParallel",
         "pbkrtest",
@@ -63488,7 +62550,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "ellipsis",
         "purrr",
         "XVector"
     ],
@@ -63595,8 +62656,7 @@
         "lifecycle",
         "httpuv",
         "fontawesome",
-        "promises",
-        "ellipsis"
+        "promises"
     ],
     "rmarkdown": [
         "bslib",
@@ -63647,8 +62707,7 @@
         "tidyselect",
         "pillar",
         "mgcv",
-        "openssl",
-        "ellipsis"
+        "openssl"
     ],
     "futile.logger": [],
     "bookdown": [
@@ -63666,7 +62725,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -63690,7 +62748,6 @@
     "highr": [],
     "tidyr": [
         "dplyr",
-        "ellipsis",
         "lifecycle",
         "purrr",
         "tibble",
@@ -63721,7 +62778,6 @@
         "promises"
     ],
     "fontawesome": [],
-    "ellipsis": [],
     "R.utils": [],
     "future.apply": [
         "future",
@@ -63769,7 +62825,6 @@
         "mgcv",
         "broom",
         "car",
-        "ellipsis",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -63800,7 +62855,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -63808,7 +62862,6 @@
     ],
     "testthat": [
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -63843,7 +62896,6 @@
         "dplyr",
         "tidyselect",
         "car",
-        "ellipsis",
         "ggplot2",
         "mgcv",
         "pbkrtest",
@@ -63876,7 +62928,6 @@
     ],
     "broom": [
         "dplyr",
-        "ellipsis",
         "purrr",
         "tibble",
         "tidyr",
@@ -63902,7 +62953,6 @@
         "MatrixModels",
         "survival",
         "lifecycle",
-        "ellipsis",
         "purrr",
         "tibble",
         "tidyr",
@@ -63928,7 +62978,6 @@
         "broom",
         "dplyr",
         "knitr",
-        "ellipsis",
         "purrr",
         "tibble",
         "tidyr",
@@ -63957,7 +63006,6 @@
         "RcppEigen",
         "testthat",
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -63969,7 +63017,6 @@
     "nloptr": [
         "testthat",
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -64012,7 +63059,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "XVector",
         "GenomeInfoDb",
         "sass"
@@ -64107,13 +63153,11 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "ellipsis",
         "mgcv",
         "hms",
         "purrr"
     ],
     "forcats": [
-        "ellipsis",
         "lifecycle",
         "tibble",
         "pillar",
@@ -64121,7 +63165,6 @@
     ],
     "progress": [
         "hms",
-        "ellipsis",
         "lifecycle",
         "vctrs"
     ],
@@ -64149,7 +63192,6 @@
         "RcppEigen"
     ],
     "hms": [
-        "ellipsis",
         "lifecycle",
         "vctrs"
     ],
@@ -64237,7 +63279,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -64257,8 +63298,7 @@
         "hms",
         "lifecycle",
         "pillar",
-        "vctrs",
-        "ellipsis"
+        "vctrs"
     ],
     "speaq": [
         "doSNOW",
@@ -64331,7 +63371,6 @@
         "bit64",
         "blob",
         "memoise",
-        "ellipsis",
         "purrr",
         "htmlwidgets",
         "crosstalk",
@@ -64348,7 +63387,6 @@
         "lifecycle",
         "tibble",
         "vroom",
-        "ellipsis",
         "vctrs",
         "pillar",
         "bit64",
@@ -64363,7 +63401,6 @@
         "tidyselect",
         "vctrs",
         "progress",
-        "ellipsis",
         "pillar"
     ],
     "ggthemes": [
@@ -64404,8 +63441,7 @@
         "hms",
         "lifecycle",
         "pillar",
-        "vctrs",
-        "ellipsis"
+        "vctrs"
     ],
     "Rdpack": [],
     "lmerTest": [
@@ -64421,7 +63457,6 @@
         "testthat",
         "pillar",
         "callr",
-        "ellipsis",
         "pkgload",
         "waldo",
         "rematch2"
@@ -64441,7 +63476,6 @@
         "pillar",
         "lifecycle",
         "vctrs",
-        "ellipsis",
         "purrr"
     ],
     "ReorderCluster": [
@@ -64460,7 +63494,6 @@
         "vctrs",
         "dplyr",
         "clock",
-        "ellipsis",
         "hardhat",
         "ipred",
         "lubridate",
@@ -64496,7 +63529,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "memoise",
@@ -64527,7 +63559,6 @@
     "recipes": [
         "dplyr",
         "clock",
-        "ellipsis",
         "hardhat",
         "ipred",
         "lifecycle",
@@ -64595,7 +63626,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -64611,8 +63641,7 @@
         "openssl",
         "hms",
         "pillar",
-        "vctrs",
-        "ellipsis"
+        "vctrs"
     ],
     "shinytoastr": [
         "shiny",
@@ -64620,7 +63649,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -64702,7 +63730,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -64869,7 +63896,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "Homo.sapiens": [
@@ -64913,7 +63939,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "SNPlocs.Hsapiens.dbSNP144.GRCh37": [
@@ -65004,7 +64029,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass"
     ],
     "MafDb.ExAC.r1.0.hs37d5": [
@@ -65055,7 +64079,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass"
     ],
     "MafDb.gnomADex.r2.1.hs37d5": [
@@ -65106,7 +64129,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass"
     ],
     "COSMIC.67": [
@@ -65146,8 +64168,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "PolyPhen.Hsapiens.dbSNP131": [
         "VariantAnnotation",
@@ -65186,8 +64207,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "SIFT.Hsapiens.dbSNP137": [
         "VariantAnnotation",
@@ -65226,8 +64246,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "crul": [
         "urltools"
@@ -65271,7 +64290,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "base64": [
@@ -65311,7 +64329,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "ellipsis",
         "purrr"
     ],
     "msm": [
@@ -65350,7 +64367,6 @@
         "rvest",
         "tibble",
         "tidyr",
-        "ellipsis",
         "blob",
         "lifecycle",
         "tidyselect",
@@ -65416,7 +64432,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "BSgenome.Mmusculus.UCSC.mm10": [
@@ -65482,7 +64497,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "NMF": [
@@ -65507,7 +64521,6 @@
         "pillar",
         "mgcv",
         "scales",
-        "ellipsis",
         "purrr"
     ],
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [
@@ -65545,13 +64558,11 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "TFMPvalue": [],
     "dtplyr": [
         "dplyr",
-        "ellipsis",
         "lifecycle",
         "tibble",
         "tidyselect",
@@ -65590,7 +64601,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "ellipsis",
         "vroom",
         "pillar",
         "bit64",
@@ -65604,7 +64614,6 @@
         "tidyselect",
         "vctrs",
         "dplyr",
-        "ellipsis",
         "ggplot2",
         "lifecycle",
         "pillar",
@@ -65688,7 +64697,6 @@
         "ggplot2",
         "pbkrtest",
         "tibble",
-        "ellipsis",
         "purrr",
         "tidyr",
         "lifecycle",
@@ -65753,7 +64761,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "memoise"
@@ -65833,7 +64840,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "memoise",
@@ -65854,7 +64860,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "memoise",
@@ -65892,8 +64897,7 @@
         "callr",
         "tidyselect",
         "pillar",
-        "openssl",
-        "ellipsis"
+        "openssl"
     ],
     "seriation": [
         "TSP",
@@ -66045,7 +65049,6 @@
         "biomaRt",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr",
         "progress",
         "BiocFileCache",
@@ -66063,7 +65066,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -66108,7 +65110,6 @@
         "shinyFiles",
         "patchwork",
         "bslib",
-        "ellipsis",
         "purrr",
         "sass",
         "jquerylib",
@@ -66150,7 +65151,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -66190,7 +65190,6 @@
         "pillar",
         "hms",
         "vroom",
-        "ellipsis",
         "ggplot2",
         "mgcv",
         "bit64",
@@ -66202,7 +65201,6 @@
     "gson": [
         "tidyr",
         "dplyr",
-        "ellipsis",
         "lifecycle",
         "purrr",
         "tibble",
@@ -66236,7 +65234,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -66250,7 +65247,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "pillar",
         "vctrs",
@@ -66278,7 +65274,6 @@
         "RcppEigen",
         "mgcv",
         "tidyr",
-        "ellipsis",
         "purrr"
     ],
     "aplot": [
@@ -66317,7 +65312,6 @@
         "mgcv",
         "tibble",
         "dplyr",
-        "ellipsis",
         "purrr",
         "pillar"
     ],
@@ -66339,7 +65333,6 @@
         "lifecycle",
         "tidyselect",
         "vctrs",
-        "ellipsis",
         "purrr"
     ],
     "graphlayouts": [
@@ -66489,7 +65482,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "XVector",
         "GenomeInfoDb",
         "sass"
@@ -66568,7 +65560,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "XVector",
         "GenomeInfoDb",
         "sass"
@@ -66623,7 +65614,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -66704,7 +65694,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "XVector",
         "GenomeInfoDb",
         "sass"
@@ -66753,8 +65742,7 @@
         "memoise",
         "pillar",
         "purrr",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "metafor": [],
     "KEGGdzPathwaysGEO": [],
@@ -66892,7 +65880,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "DelayedArray",
         "BSgenome",
         "sass",
@@ -66918,7 +65905,6 @@
     ],
     "devtools": [
         "usethis",
-        "ellipsis",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -67068,7 +66054,6 @@
         "dplyr",
         "knitr",
         "MatrixModels",
-        "ellipsis",
         "purrr",
         "tibble",
         "tidyr",
@@ -67110,7 +66095,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -67174,7 +66158,6 @@
         "MatrixModels",
         "survival",
         "pillar",
-        "ellipsis",
         "purrr",
         "tidyr",
         "tidyselect",
@@ -67234,7 +66217,6 @@
         "tibble",
         "tidyr",
         "furrr",
-        "ellipsis",
         "ggplot2",
         "lifecycle",
         "tidyselect",
@@ -67249,7 +66231,6 @@
         "broom",
         "dplyr",
         "tidyr",
-        "ellipsis",
         "purrr",
         "tibble",
         "ggplot2",
@@ -67328,7 +66309,6 @@
         "biomaRt",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr",
         "progress",
         "BiocFileCache",
@@ -67386,7 +66366,6 @@
         "biomaRt",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr",
         "progress",
         "BiocFileCache",
@@ -67444,7 +66423,6 @@
         "biomaRt",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr",
         "progress",
         "BiocFileCache",
@@ -67503,8 +66481,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "JADE": [],
     "ruv": [
@@ -67536,7 +66513,6 @@
         "vctrs",
         "dplyr",
         "clock",
-        "ellipsis",
         "hardhat",
         "ipred",
         "lubridate",
@@ -67589,7 +66565,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "ellipsis",
         "vctrs",
         "httr",
         "bit64",
@@ -67685,7 +66660,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "TxDb.Mmusculus.UCSC.mm9.knownGene": [
@@ -67723,7 +66697,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [
@@ -67761,7 +66734,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "TxDb.Celegans.UCSC.ce6.ensGene": [
@@ -67799,7 +66771,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [
@@ -67837,7 +66808,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "ashr": [
@@ -67856,7 +66826,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -67871,7 +66840,6 @@
         "httpuv",
         "fontawesome",
         "promises",
-        "ellipsis",
         "lifecycle"
     ],
     "shinydashboardPlus": [
@@ -67885,7 +66853,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "jquerylib",
         "memoise"
     ],
@@ -67938,7 +66905,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "jquerylib",
         "memoise"
@@ -67949,7 +66915,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -68013,7 +66978,6 @@
         "pillar",
         "openssl",
         "hms",
-        "ellipsis",
         "purrr"
     ],
     "ClusterR": [
@@ -68040,7 +67004,6 @@
     "rncl": [
         "progress",
         "hms",
-        "ellipsis",
         "lifecycle",
         "vctrs"
     ],
@@ -68056,7 +67019,6 @@
         "vctrs",
         "pillar",
         "openssl",
-        "ellipsis",
         "purrr"
     ],
     "benchmarkmeData": [
@@ -68096,7 +67058,6 @@
         "cellranger",
         "progress",
         "pillar",
-        "ellipsis",
         "vroom",
         "bit64"
     ],
@@ -68122,7 +67083,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "ellipsis",
         "tidyselect",
         "pbkrtest",
         "quantreg",
@@ -68170,7 +67130,6 @@
         "mgcv",
         "scales",
         "clock",
-        "ellipsis",
         "hardhat",
         "ipred",
         "lubridate",
@@ -68294,8 +67253,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "iC10": [
         "pamr",
@@ -68347,7 +67305,6 @@
         "biomaRt",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr",
         "progress",
         "BiocFileCache",
@@ -68455,7 +67412,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "XVector",
         "GenomeInfoDb",
         "sass"
@@ -68464,7 +67420,6 @@
         "reticulate",
         "tensorflow",
         "tfruns",
-        "ellipsis",
         "tfautograph",
         "tidyselect",
         "lifecycle",
@@ -68498,7 +67453,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -68515,7 +67469,6 @@
         "tidyr",
         "igraph",
         "lubridate",
-        "ellipsis",
         "ggplot2",
         "lifecycle",
         "tidyselect",
@@ -68598,7 +67551,6 @@
         "httpuv",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -68610,7 +67562,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -68622,7 +67573,6 @@
         "RcppEigen",
         "testthat",
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -68643,7 +67593,6 @@
         "MSQC",
         "rgl",
         "hms",
-        "ellipsis",
         "lifecycle",
         "vctrs",
         "htmlwidgets",
@@ -68663,7 +67612,6 @@
         "RcppEigen",
         "testthat",
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -68708,7 +67656,6 @@
         "testthat",
         "usethis",
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -68769,7 +67716,6 @@
         "TTR",
         "hms",
         "vroom",
-        "ellipsis",
         "bit64",
         "progress"
     ],
@@ -68788,7 +67734,6 @@
         "RcppEigen",
         "testthat",
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -68834,7 +67779,6 @@
         "pillar",
         "syuzhet",
         "tidyr",
-        "ellipsis",
         "purrr"
     ],
     "rsparse": [
@@ -68854,7 +67798,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "ellipsis",
         "purrr"
     ],
     "quanteda": [],
@@ -68868,7 +67811,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "ellipsis",
         "purrr"
     ],
     "syuzhet": [
@@ -68879,7 +67821,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "ellipsis",
         "purrr"
     ],
     "MatrixExtra": [],
@@ -68930,7 +67871,6 @@
         "MatrixModels",
         "survival",
         "lifecycle",
-        "ellipsis",
         "purrr",
         "tibble",
         "tidyr",
@@ -69014,7 +67954,6 @@
         "tibble",
         "vctrs",
         "hms",
-        "ellipsis",
         "pillar"
     ],
     "aricode": [],
@@ -69056,7 +67995,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass"
     ],
     "coin": [
@@ -69108,7 +68046,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "XVector",
         "GenomeInfoDb",
         "sass"
@@ -69119,7 +68056,6 @@
     "batchtools": [
         "progress",
         "hms",
-        "ellipsis",
         "lifecycle",
         "vctrs"
     ],
@@ -69179,7 +68115,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "XVector",
         "GenomeInfoDb",
         "sass"
@@ -69196,7 +68131,6 @@
         "pillar",
         "hms",
         "vroom",
-        "ellipsis",
         "bit64",
         "progress"
     ],
@@ -69217,7 +68151,6 @@
         "htmlwidgets",
         "purrr",
         "promises",
-        "ellipsis",
         "openssl"
     ],
     "ComplexUpset": [
@@ -69260,13 +68193,11 @@
         "crosstalk",
         "purrr",
         "promises",
-        "openssl",
-        "ellipsis"
+        "openssl"
     ],
     "geepack": [
         "broom",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tibble",
         "tidyr",
@@ -69377,7 +68308,6 @@
         "MatrixModels",
         "survival",
         "lifecycle",
-        "ellipsis",
         "purrr",
         "tibble",
         "tidyr",
@@ -69433,7 +68363,6 @@
         "purrr",
         "tibble",
         "ggtext",
-        "ellipsis",
         "lifecycle",
         "tidyselect",
         "vctrs",
@@ -69484,7 +68413,6 @@
         "broom",
         "dplyr",
         "tidyr",
-        "ellipsis",
         "purrr",
         "tibble",
         "ggplot2",
@@ -69513,8 +68441,7 @@
         "memoise",
         "promises",
         "openssl",
-        "fontawesome",
-        "ellipsis"
+        "fontawesome"
     ],
     "tippy": [
         "htmlwidgets",
@@ -69523,7 +68450,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -69582,7 +68508,6 @@
         "knitr",
         "httpuv",
         "fontawesome",
-        "ellipsis",
         "sass",
         "memoise",
         "mgcv",
@@ -69600,7 +68525,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -69623,8 +68547,7 @@
         "crosstalk",
         "purrr",
         "promises",
-        "openssl",
-        "ellipsis"
+        "openssl"
     ],
     "seqmagick": [
         "Biostrings",
@@ -69659,7 +68582,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "lmtest",
         "sass",
@@ -69683,7 +68605,6 @@
         "broom",
         "RcppEigen",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tibble",
         "tidyr",
@@ -69797,7 +68718,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "XVector",
         "GenomeInfoDb",
         "sass"
@@ -69844,7 +68764,6 @@
         "tibble",
         "vctrs",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "pillar"
@@ -69884,7 +68803,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
         "DelayedArray"
     ],
     "parallelDist": [],
@@ -69919,7 +68837,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "gert",
         "gh",
@@ -69939,7 +68856,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -69958,7 +68874,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -69987,7 +68902,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "pillar",
@@ -70044,7 +68958,6 @@
         "htmlwidgets",
         "learnr",
         "shiny",
-        "ellipsis",
         "knitr",
         "lifecycle",
         "markdown",
@@ -70076,14 +68989,12 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
         "memoise"
     ],
     "learnr": [
-        "ellipsis",
         "htmlwidgets",
         "knitr",
         "lifecycle",
@@ -70154,7 +69065,6 @@
         "vctrs",
         "dplyr",
         "clock",
-        "ellipsis",
         "hardhat",
         "ipred",
         "lubridate",
@@ -70181,7 +69091,6 @@
         "nloptr",
         "testthat",
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -70261,7 +69170,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "XVector",
         "GenomeInfoDb",
         "sass"
@@ -70297,7 +69205,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "purrr",
         "R.cache",
         "sass",
@@ -70332,7 +69239,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "purrr",
         "R.cache",
         "sass",
@@ -70366,7 +69272,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "purrr",
         "R.cache",
         "sass",
@@ -70395,7 +69300,6 @@
         "forcats",
         "hms",
         "readr",
-        "ellipsis",
         "purrr",
         "vroom",
         "bit64",
@@ -70487,8 +69391,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "rmdformats": [
         "knitr",
@@ -70524,7 +69427,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "ellipsis",
         "openssl",
         "shiny",
         "DT",
@@ -70589,7 +69491,6 @@
         "biomaRt",
         "hms",
         "vroom",
-        "ellipsis",
         "purrr",
         "progress",
         "BiocFileCache",
@@ -70658,7 +69559,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass",
         "hms",
         "DelayedArray"
@@ -70687,7 +69587,6 @@
         "reshape",
         "scales",
         "mgcv",
-        "ellipsis",
         "purrr",
         "hms"
     ],
@@ -70700,7 +69599,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -70730,7 +69628,6 @@
         "broom",
         "dplyr",
         "tidyr",
-        "ellipsis",
         "purrr",
         "tibble",
         "ggplot2",
@@ -70834,7 +69731,6 @@
         "tibble",
         "vctrs",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "pillar"
@@ -70855,7 +69751,6 @@
         "tibble",
         "vctrs",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyselect",
         "pillar"
@@ -70873,7 +69768,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "memoise"
@@ -70899,7 +69793,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "pillar"
@@ -70912,7 +69805,6 @@
         "RSpectra",
         "hms",
         "RcppEigen",
-        "ellipsis",
         "lifecycle",
         "vctrs"
     ],
@@ -70952,7 +69844,6 @@
         "RcppEigen",
         "bayestestR",
         "clock",
-        "ellipsis",
         "hardhat",
         "ipred",
         "lubridate",
@@ -70990,8 +69881,7 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "pillar",
-        "ellipsis"
+        "pillar"
     ],
     "MuMIn": [],
     "parameters": [
@@ -71014,7 +69904,6 @@
         "broom",
         "shiny",
         "scales",
-        "ellipsis",
         "tibble",
         "tidyr",
         "ggplot2",
@@ -71066,7 +69955,6 @@
         "devtools",
         "httr",
         "usethis",
-        "ellipsis",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -71119,7 +70007,6 @@
         "RcppEigen",
         "testthat",
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -71154,7 +70041,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -71204,7 +70090,6 @@
         "pillar",
         "hms",
         "vroom",
-        "ellipsis",
         "bit64",
         "progress"
     ],
@@ -71240,7 +70125,6 @@
         "viridis",
         "cellranger",
         "progress",
-        "ellipsis",
         "knitr",
         "htmlwidgets",
         "interp",
@@ -71314,7 +70198,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass"
     ],
     "fst": [],
@@ -71351,7 +70234,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "XVector",
         "GenomeInfoDb",
         "sass"
@@ -71378,7 +70260,6 @@
         "questionr",
         "doParallel",
         "reshape2",
-        "ellipsis",
         "hardhat",
         "shiny",
         "miniUI",
@@ -71424,7 +70305,6 @@
         "GenomeInfoDb",
         "XVector",
         "dplyr",
-        "ellipsis",
         "lifecycle",
         "purrr",
         "tibble",
@@ -71454,7 +70334,6 @@
         "nloptr",
         "testthat",
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -71476,7 +70355,6 @@
         "pillar",
         "lobstr",
         "reshape2",
-        "ellipsis",
         "purrr"
     ],
     "unmarked": [
@@ -71486,7 +70364,6 @@
         "nloptr",
         "testthat",
         "callr",
-        "ellipsis",
         "lifecycle",
         "pkgload",
         "waldo",
@@ -71521,7 +70398,6 @@
         "RSQLite",
         "KEGGREST",
         "dbplyr",
-        "ellipsis",
         "bit64",
         "blob",
         "memoise"
@@ -71543,7 +70419,6 @@
         "reticulate",
         "keras",
         "tfruns",
-        "ellipsis",
         "tfautograph",
         "tidyselect",
         "lifecycle",
@@ -71678,7 +70553,6 @@
         "scales",
         "distributional",
         "mgcv",
-        "ellipsis",
         "purrr"
     ],
     "ggdist": [
@@ -71760,7 +70634,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass"
     ],
     "forecast": [
@@ -71819,8 +70692,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "EnsDb.Rnorvegicus.v79": [
         "ensembldb",
@@ -71859,8 +70731,7 @@
         "pillar",
         "purrr",
         "tibble",
-        "tidyselect",
-        "ellipsis"
+        "tidyselect"
     ],
     "pairsD3": [
         "htmlwidgets",
@@ -71869,7 +70740,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -71881,7 +70751,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -71921,7 +70790,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "XVector",
         "GenomeInfoDb",
         "sass"
@@ -71975,7 +70843,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass"
     ],
     "rcellminerData": [],
@@ -71999,7 +70866,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "pillar",
         "vctrs",
@@ -72093,7 +70959,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "XVector",
         "GenomeInfoDb",
         "sass"
@@ -72106,7 +70971,6 @@
         "readr",
         "rtracklayer",
         "tibble",
-        "ellipsis",
         "purrr",
         "tidyr",
         "lifecycle",
@@ -72147,7 +71011,6 @@
         "vctrs",
         "dplyr",
         "clock",
-        "ellipsis",
         "hardhat",
         "ipred",
         "lubridate",
@@ -72204,7 +71067,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "XVector",
         "GenomeInfoDb",
         "sass"
@@ -72250,7 +71112,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "memoise",
@@ -72339,7 +71200,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass"
     ],
     "copula": [
@@ -72352,8 +71212,7 @@
     "Lmoments": [],
     "torch": [
         "bit64",
-        "callr",
-        "ellipsis"
+        "callr"
     ],
     "sparsepca": [
         "rsvd"
@@ -72422,7 +71281,6 @@
         "tweenr",
         "systemfonts",
         "RcppEigen",
-        "ellipsis",
         "purrr"
     ],
     "cvTools": [],
@@ -72528,7 +71386,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "ellipsis",
         "mgcv",
         "ggpubr",
         "broom",
@@ -72565,8 +71422,7 @@
         "tidyselect",
         "lifecycle",
         "vctrs",
-        "pillar",
-        "ellipsis"
+        "pillar"
     ],
     "DGEobj.utils": [
         "DGEobj",
@@ -72594,7 +71450,6 @@
         "interp",
         "hms",
         "vroom",
-        "ellipsis",
         "RcppEigen",
         "bit64",
         "progress"
@@ -72640,7 +71495,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass"
     ],
     "GSVAdata": [
@@ -72712,7 +71566,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -72776,7 +71629,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass"
     ],
     "TENxPBMCData": [
@@ -72820,7 +71672,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass"
     ],
     "VAM": [],
@@ -72881,7 +71732,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -72948,7 +71798,6 @@
         "RcppEigen",
         "knitr",
         "dplyr",
-        "ellipsis",
         "purrr",
         "tidyr",
         "tweenr",
@@ -72993,7 +71842,6 @@
         "forcats",
         "hms",
         "readr",
-        "ellipsis",
         "purrr",
         "vroom",
         "bit64",
@@ -73016,7 +71864,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "ellipsis",
         "purrr"
     ],
     "mclustcomp": [
@@ -73029,7 +71876,6 @@
     "liger": [],
     "rsample": [
         "dplyr",
-        "ellipsis",
         "furrr",
         "pillar",
         "purrr",
@@ -73104,7 +71950,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -73120,7 +71965,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -73157,7 +72001,6 @@
         "fontawesome",
         "promises",
         "bslib",
-        "ellipsis",
         "sass",
         "jquerylib",
         "memoise",
@@ -73194,7 +72037,6 @@
         "lamW",
         "reshape2",
         "clock",
-        "ellipsis",
         "hardhat",
         "ipred",
         "lubridate",
@@ -73222,7 +72064,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "ellipsis",
         "mgcv",
         "scales",
         "readr",
@@ -73265,7 +72106,6 @@
         "scales",
         "hms",
         "vroom",
-        "ellipsis",
         "bit64",
         "progress"
     ],
@@ -73357,7 +72197,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "lifecycle",
         "sass",
         "jquerylib",
@@ -73403,7 +72242,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "ellipsis",
         "sass"
     ],
     "eva": [
