@@ -18416,7 +18416,6 @@
         "kknn",
         "FSelector",
         "reshape2",
-        "ineq",
         "arm",
         "RSNNS",
         "edgeR",
@@ -28529,7 +28528,6 @@
         "kknn",
         "FSelector",
         "reshape2",
-        "ineq",
         "arm",
         "RSNNS",
         "edgeR",
@@ -39567,7 +39565,6 @@
         "reshape",
         "VennDiagram",
         "ggplot2",
-        "ineq",
         "circlize",
         "ggtree",
         "msa",
@@ -91528,7 +91525,6 @@
         "RWeka",
         "RWekajars"
     ],
-    "ineq": [],
     "arm": [
         "Matrix",
         "lme4",
