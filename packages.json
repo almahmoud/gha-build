@@ -33790,9 +33790,7 @@
         "dbplyr",
         "hms"
     ],
-    "seqCNA": [
-        "adehabitatLT"
-    ],
+    "seqCNA": [],
     "seqcombo": [
         "ggplot2",
         "tibble",
@@ -45406,7 +45404,6 @@
         "tidyr",
         "tweenr"
     ],
-    "adehabitatLT": [],
     "rbokeh": [
         "gistr",
         "crul",
