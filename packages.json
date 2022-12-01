@@ -6086,7 +6086,6 @@
         "testthat",
         "waldo"
     ],
-    "MSA2dist": [],
     "MsExperiment": [
         "QFeatures",
         "MultiAssayExperiment",
