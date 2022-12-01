@@ -15628,7 +15628,6 @@
         "blob",
         "dbplyr"
     ],
-    "interacCircos": [],
     "InteractionSet": [
         "GenomicRanges",
         "SummarizedExperiment",
