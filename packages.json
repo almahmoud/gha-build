@@ -52,7 +52,6 @@
         "MafDb.ExAC.r1.0.hs37d5",
         "MafDb.gnomADex.r2.1.hs37d5",
         "PolyPhen.Hsapiens.dbSNP131",
-        "SIFT.Hsapiens.dbSNP137",
         "GenomicScores",
         "AnnotationHub",
         "BiocVersion"
@@ -1583,7 +1582,6 @@
         "BiocVersion"
     ],
     "PolyPhen.Hsapiens.dbSNP131": [],
-    "SIFT.Hsapiens.dbSNP137": [],
     "mGSZ": [],
     "doBy": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [],
