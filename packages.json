@@ -34628,7 +34628,6 @@
         "ps",
         "cli",
         "selectr",
-        "ISOcodes",
         "rsparse",
         "mlapi",
         "lgr",
@@ -54336,7 +54335,6 @@
         "rJava",
         "iterators",
         "itertools",
-        "ISOcodes",
         "rsparse",
         "stringi",
         "mlapi",
@@ -145171,7 +145169,6 @@
         "zeallot",
         "R6",
         "ellipsis",
-        "ISOcodes",
         "Matrix",
         "Rcpp",
         "rsparse",
@@ -146540,7 +146537,6 @@
         "systemfonts",
         "textshaping",
         "selectr",
-        "ISOcodes",
         "rsparse",
         "mlapi",
         "lgr",
@@ -148037,7 +148033,6 @@
         "blob",
         "memoise",
         "plogr",
-        "ISOcodes",
         "zoo",
         "dtt",
         "XVector",
@@ -165069,7 +165064,6 @@
         "cli",
         "lattice",
         "utf8",
-        "ISOcodes",
         "NLP",
         "zoo",
         "dtt",
@@ -165080,14 +165074,11 @@
         "purrr",
         "cpp11"
     ],
-    "stopwords": [
-        "ISOcodes"
-    ],
+    "stopwords": [],
     "data.tree": [
         "R6",
         "stringi"
     ],
-    "ISOcodes": [],
     "rsparse": [
         "Matrix",
         "MatrixExtra",
@@ -165160,8 +165151,7 @@
         "xml2",
         "yaml",
         "RcppArmadillo",
-        "lattice",
-        "ISOcodes"
+        "lattice"
     ],
     "textclean": [
         "data.table",
