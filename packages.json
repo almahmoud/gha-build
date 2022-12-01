@@ -8597,7 +8597,6 @@
         "dearseq",
         "metagenomeSeq",
         "corncob",
-        "MGLM",
         "ggplot2",
         "RColorBrewer",
         "plyr",
@@ -153615,7 +153614,6 @@
         "stringi",
         "zlibbioc"
     ],
-    "MGLM": [],
     "tidytext": [
         "dplyr",
         "generics",
