@@ -80570,7 +80570,6 @@
         "DelayedArray",
         "matrixStats"
     ],
-    "nuCpos": [],
     "nullranges": [
         "IRanges",
         "GenomicRanges",
