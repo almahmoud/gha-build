@@ -278,7 +278,6 @@
         "vctrs",
         "pillar"
     ],
-    "affycomp": [],
     "AffyCompatible": [
         "Biostrings",
         "XVector",
