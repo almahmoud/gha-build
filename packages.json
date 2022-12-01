@@ -530,7 +530,6 @@
         "HTSFilter"
     ],
     "cosmiq": [],
-    "countsimQC": [],
     "crisprDesign": [
         "crisprScore",
         "VariantAnnotation",
