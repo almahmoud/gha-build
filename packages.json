@@ -1199,9 +1199,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "omada": [
-        "diceR"
-    ],
+    "omada": [],
     "omicRexposome": [
         "rexposome",
         "FactoMineR",
@@ -2008,7 +2006,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "diceR": [],
     "AICcmodavg": [
         "unmarked"
     ],
