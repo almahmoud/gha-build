@@ -105,7 +105,6 @@
     "APL": [],
     "appreci8R": [
         "VariantAnnotation",
-        "BSgenome.Hsapiens.UCSC.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "Homo.sapiens",
         "SNPlocs.Hsapiens.dbSNP144.GRCh37",
@@ -166,7 +165,6 @@
         "rGREAT",
         "Homo.sapiens",
         "Mus.musculus",
-        "BSgenome.Hsapiens.UCSC.hg19",
         "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
@@ -382,7 +380,6 @@
         "DSS"
     ],
     "brainflowprobes": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "bumphunter",
         "derfinder",
         "derfinderPlot",
@@ -581,9 +578,7 @@
         "VariantAnnotation"
     ],
     "ChIPanalyser": [],
-    "ChIPComp": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "ChIPComp": [],
     "chipenrich": [],
     "ChIPexoQual": [
         "biovizBase",
@@ -635,7 +630,6 @@
     "circRNAprofiler": [
         "DESeq2",
         "AnnotationHub",
-        "BSgenome.Hsapiens.UCSC.hg19",
         "gwascat",
         "BiocVersion",
         "GenomicFeatures",
@@ -692,9 +686,7 @@
     "COCOA": [
         "MIRA"
     ],
-    "CODEX": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "CODEX": [],
     "coexnet": [],
     "cogena": [
         "devtools"
@@ -972,7 +964,6 @@
     ],
     "decompTumor2Sig": [
         "GenomicFeatures",
-        "BSgenome.Hsapiens.UCSC.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation"
     ],
@@ -1829,7 +1820,6 @@
     ],
     "HiLDA": [
         "GenomicFeatures",
-        "BSgenome.Hsapiens.UCSC.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "hipathia": [
@@ -1864,8 +1854,7 @@
         "bumphunter"
     ],
     "iCNV": [
-        "CODEX",
-        "BSgenome.Hsapiens.UCSC.hg19"
+        "CODEX"
     ],
     "ideal": [
         "DESeq2",
@@ -2018,7 +2007,6 @@
     ],
     "katdetectr": [
         "VariantAnnotation",
-        "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicFeatures"
     ],
     "kissDE": [
@@ -2115,7 +2103,6 @@
         "BiocVersion"
     ],
     "MADSEQ": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "VariantAnnotation",
         "GenomicFeatures"
     ],
@@ -2666,7 +2653,6 @@
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "BSgenome.Hsapiens.UCSC.hg19",
         "deconstructSigs",
         "decompTumor2Sig",
         "factoextra",
@@ -3214,7 +3200,6 @@
     "RareVariantVis": [
         "VariantAnnotation",
         "GenomicFeatures",
-        "BSgenome.Hsapiens.UCSC.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "phastCons100way.UCSC.hg19",
         "GenomicScores",
@@ -3223,7 +3208,6 @@
     ],
     "Rbec": [],
     "RCAS": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicFeatures"
     ],
     "rCGH": [
@@ -3616,9 +3600,7 @@
         "EDASeq",
         "GenomicFeatures"
     ],
-    "SCOPE": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "SCOPE": [],
     "scoreInvHap": [
         "VariantAnnotation",
         "GenomicFeatures"
@@ -3675,7 +3657,6 @@
     "selectKSigs": [
         "HiLDA",
         "GenomicFeatures",
-        "BSgenome.Hsapiens.UCSC.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "seqCAT": [
@@ -4124,9 +4105,7 @@
     "TraRe": [
         "vbsr"
     ],
-    "traseR": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "traseR": [],
     "Travel": [],
     "traviz": [],
     "treekoR": [
@@ -4142,7 +4121,6 @@
     ],
     "TreeSummarizedExperiment": [],
     "trena": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "SNPlocs.Hsapiens.dbSNP150.GRCh38"
     ],
     "TRESS": [
@@ -4188,7 +4166,6 @@
         "EnsDb.Hsapiens.v75",
         "EnsDb.Hsapiens.v86",
         "OrganismDbi",
-        "BSgenome.Hsapiens.UCSC.hg19",
         "ensembldb",
         "GenomicFeatures",
         "biovizBase",
@@ -4300,7 +4277,6 @@
     "YAPSA": [
         "SomaticSignatures",
         "VariantAnnotation",
-        "BSgenome.Hsapiens.UCSC.hg19",
         "ggbio",
         "GenomicFeatures",
         "biovizBase",
@@ -4361,7 +4337,6 @@
         "lme4",
         "nloptr"
     ],
-    "BSgenome.Hsapiens.UCSC.hg19": [],
     "TxDb.Hsapiens.UCSC.hg19.knownGene": [
         "GenomicFeatures"
     ],
@@ -4655,9 +4630,7 @@
         "lme4",
         "nloptr"
     ],
-    "deconstructSigs": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "deconstructSigs": [],
     "mppa": [],
     "dnet": [],
     "RcmdrMisc": [
