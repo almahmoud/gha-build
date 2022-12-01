@@ -17695,7 +17695,6 @@
         "aroma.affymetrix",
         "aroma.core",
         "R.filesets",
-        "aroma.apd",
         "R.rsp",
         "PSCBS",
         "AnnotationDbi",
@@ -25076,7 +25075,6 @@
         "WGCNA",
         "aroma.core",
         "R.filesets",
-        "aroma.apd",
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
@@ -29632,7 +29630,6 @@
     "aroma.affymetrix": [
         "aroma.core",
         "R.filesets",
-        "aroma.apd",
         "R.rsp",
         "PSCBS"
     ],
@@ -29642,7 +29639,6 @@
         "PSCBS"
     ],
     "R.filesets": [],
-    "aroma.apd": [],
     "R.rsp": [],
     "PSCBS": [],
     "opencpu": [],
