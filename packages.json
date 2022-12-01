@@ -12023,7 +12023,6 @@
         "GEOquery",
         "miniUI",
         "oligo",
-        "reader",
         "RSQLite",
         "sva",
         "shiny",
@@ -63540,7 +63539,6 @@
     "tfautograph": [
         "reticulate"
     ],
-    "reader": [],
     "shinypanel": [
         "shinyjs",
         "shiny",
