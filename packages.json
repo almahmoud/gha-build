@@ -2923,7 +2923,6 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "sva",
-        "EBImage",
         "genefilter",
         "AnnotationDbi",
         "annotate",
@@ -3558,7 +3557,6 @@
         "hms"
     ],
     "Cardinal": [
-        "EBImage",
         "matter"
     ],
     "CARNIVAL": [
@@ -5964,7 +5962,6 @@
     ],
     "CONFESS": [
         "contrast",
-        "EBImage",
         "flowClust",
         "flowMeans",
         "flowMerge",
@@ -6366,7 +6363,6 @@
         "quantreg"
     ],
     "CRImage": [
-        "EBImage",
         "aCGH",
         "multtest"
     ],
@@ -7022,7 +7018,6 @@
         "GenomicRanges"
     ],
     "cytomapper": [
-        "EBImage",
         "SingleCellExperiment",
         "SpatialExperiment",
         "HDF5Array",
@@ -8818,7 +8813,6 @@
         "tidyselect",
         "hms"
     ],
-    "EBImage": [],
     "EBSEA": [
         "DESeq2",
         "GenomicRanges",
@@ -10587,9 +10581,7 @@
         "blob",
         "dbplyr"
     ],
-    "FISHalyseR": [
-        "EBImage"
-    ],
+    "FISHalyseR": [],
     "fishpond": [
         "qvalue",
         "SummarizedExperiment",
@@ -10683,7 +10675,6 @@
         "latticeExtra"
     ],
     "flowcatchR": [
-        "EBImage",
         "plotly",
         "shiny",
         "ggplot2",
@@ -10695,7 +10686,6 @@
         "pillar"
     ],
     "flowCHIC": [
-        "EBImage",
         "vegan",
         "ggplot2",
         "tibble",
@@ -13309,8 +13299,7 @@
     "HDF5Array": [],
     "heatmaps": [
         "Biostrings",
-        "GenomicRanges",
-        "EBImage"
+        "GenomicRanges"
     ],
     "HelloRanges": [
         "GenomicRanges",
@@ -14033,7 +14022,6 @@
         "hms"
     ],
     "imageHTS": [
-        "EBImage",
         "cellHTS2",
         "vsn",
         "genefilter",
@@ -14085,7 +14073,6 @@
         "SummarizedExperiment",
         "scuttle",
         "readr",
-        "EBImage",
         "cytomapper",
         "viridis",
         "dplyr",
@@ -28321,7 +28308,6 @@
     ],
     "SIMLR": [],
     "simpleSeg": [
-        "EBImage",
         "SummarizedExperiment",
         "cytomapper",
         "SingleCellExperiment",
@@ -28814,7 +28800,6 @@
     "sojourner": [
         "ggplot2",
         "dplyr",
-        "EBImage",
         "fitdistrplus",
         "mixtools",
         "sampSurf",
@@ -30257,9 +30242,7 @@
         "pillar",
         "GenomicRanges"
     ],
-    "synapsis": [
-        "EBImage"
-    ],
+    "synapsis": [],
     "synapter": [
         "MSnbase",
         "qvalue",
@@ -32925,7 +32908,6 @@
     ],
     "yamss": [
         "SummarizedExperiment",
-        "EBImage",
         "GenomicRanges"
     ],
     "YAPSA": [
