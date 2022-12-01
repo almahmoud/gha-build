@@ -448,9 +448,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "MAGAR": [
-        "RnBeads"
-    ],
+    "MAGAR": [],
     "MAGeCKFlute": [
         "depmap",
         "ExperimentHub",
@@ -713,7 +711,6 @@
         "recount",
         "ggpubr"
     ],
-    "RnBeads": [],
     "Rqc": [],
     "RTCGA": [
         "survminer",
