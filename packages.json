@@ -216,7 +216,6 @@
     "airpart": [
         "SingleCellExperiment",
         "scater",
-        "smurf",
         "apeglm",
         "dplyr",
         "ggplot2",
@@ -21505,7 +21504,6 @@
     "viridis": [
         "ggplot2"
     ],
-    "smurf": [],
     "ggbeeswarm": [
         "ggplot2"
     ],
