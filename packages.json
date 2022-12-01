@@ -6820,13 +6820,11 @@
         "readr",
         "genefilter"
     ],
-    "scanMiR": [],
     "scanMiRApp": [
         "AnnotationHub",
         "ensembldb",
         "GenomicFeatures",
         "rtracklayer",
-        "scanMiR",
         "scanMiRData",
         "BiocVersion",
         "biomaRt"
@@ -9148,9 +9146,7 @@
         "ExperimentHub",
         "BiocVersion"
     ],
-    "scanMiRData": [
-        "scanMiR"
-    ],
+    "scanMiRData": [],
     "SCATEData": [
         "ExperimentHub",
         "AnnotationHub",
