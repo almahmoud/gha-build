@@ -1139,7 +1139,6 @@
         "FDb.InfiniumMethylation.hg19",
         "minfi"
     ],
-    "MetID": [],
     "mia": [
         "scater"
     ],
