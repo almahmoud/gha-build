@@ -41844,7 +41844,6 @@
     "rebook": [
         "knitr",
         "rmarkdown",
-        "CodeDepends",
         "BiocStyle",
         "bookdown",
         "bslib",
@@ -64288,7 +64287,6 @@
         "jquerylib",
         "memoise"
     ],
-    "CodeDepends": [],
     "redux": [],
     "BSgenome.Celegans.UCSC.ce2": [
         "BSgenome",
