@@ -110149,7 +110149,6 @@
     "XINA": [
         "mclust",
         "plyr",
-        "alluvial",
         "ggplot2",
         "igraph",
         "gridExtra",
@@ -129437,6 +129436,5 @@
     "Rmisc": [
         "plyr",
         "Rcpp"
-    ],
-    "alluvial": []
+    ]
 }
