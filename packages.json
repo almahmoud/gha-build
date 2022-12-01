@@ -14281,7 +14281,6 @@
         "AnnotationDbi",
         "annotate"
     ],
-    "QSutils": [],
     "qsvaR": [
         "sva",
         "ggplot2",
