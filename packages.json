@@ -13,7 +13,6 @@
         "annotate"
     ],
     "abseqR": [
-        "ggcorrplot",
         "ggdendro",
         "plotly",
         "tidyr"
@@ -2004,7 +2003,6 @@
     ],
     "CIMICE": [
         "tidyr",
-        "ggcorrplot",
         "ggraph",
         "tidygraph",
         "ggforce",
@@ -13866,7 +13864,6 @@
         "annotate"
     ],
     "GO.db": [],
-    "ggcorrplot": [],
     "ggdendro": [],
     "plotly": [
         "tidyr"
