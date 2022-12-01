@@ -272,7 +272,6 @@
         "BiocVersion"
     ],
     "BioNERO": [],
-    "biosigner": [],
     "biovizBase": [
         "VariantAnnotation",
         "ensembldb"
@@ -2143,7 +2142,6 @@
     ],
     "multiSight": [
         "anyLib",
-        "biosigner",
         "clusterProfiler",
         "ReactomePA",
         "enrichplot",
