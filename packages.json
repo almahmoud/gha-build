@@ -238,7 +238,6 @@
     "beer": [],
     "benchdamic": [
         "TreeSummarizedExperiment",
-        "zinbwave",
         "DESeq2",
         "ANCOMBC",
         "mia",
@@ -689,9 +688,7 @@
     ],
     "cliProfiler": [],
     "cliqueMS": [],
-    "clusterExperiment": [
-        "zinbwave"
-    ],
+    "clusterExperiment": [],
     "clusterProfiler": [
         "DOSE",
         "enrichplot",
@@ -2872,8 +2869,7 @@
     "NetSAM": [],
     "netSmooth": [
         "scater",
-        "clusterExperiment",
-        "zinbwave"
+        "clusterExperiment"
     ],
     "netZooR": [
         "yarn",
@@ -3735,7 +3731,6 @@
     ],
     "scater": [],
     "scBFA": [
-        "zinbwave",
         "DESeq2"
     ],
     "scBubbletree": [
@@ -3946,7 +3941,6 @@
         "scMerge",
         "SoupX",
         "celda",
-        "zinbwave",
         "scRNAseq",
         "TENxPBMCData",
         "scDblFinder",
@@ -4514,7 +4508,6 @@
         "lme4",
         "nloptr"
     ],
-    "zinbwave": [],
     "ggpubr": [
         "rstatix",
         "car",
