@@ -1,7 +1,5 @@
 {
-    "ADaCGH2": [
-        "snapCGH"
-    ],
+    "ADaCGH2": [],
     "ADAMgui": [
         "ggpubr",
         "rstatix",
@@ -2441,7 +2439,6 @@
     "SMITE": [
         "goseq"
     ],
-    "snapCGH": [],
     "snm": [
         "lme4"
     ],
