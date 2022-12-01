@@ -494,7 +494,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "mCSEA": [],
     "MEAL": [
         "missMethyl"
     ],
