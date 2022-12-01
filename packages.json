@@ -638,7 +638,6 @@
         "heatmaply",
         "plotly",
         "dendextend",
-        "egg",
         "genefilter",
         "annotate",
         "tidyr"
@@ -1412,7 +1411,6 @@
     ],
     "CellBarcode": [
         "ShortRead",
-        "egg",
         "GenomicAlignments"
     ],
     "cellbaseR": [
@@ -2802,7 +2800,6 @@
         "shadowtext",
         "ggtree",
         "dendextend",
-        "egg",
         "genefilter",
         "ggfun",
         "patchwork",
@@ -2884,7 +2881,6 @@
         "rtracklayer",
         "biomaRt",
         "dendextend",
-        "egg",
         "tidyr",
         "BiocFileCache"
     ],
@@ -3100,8 +3096,7 @@
         "plotly",
         "tidyr",
         "colourpicker",
-        "dendextend",
-        "egg"
+        "dendextend"
     ],
     "distinct": [
         "scater",
@@ -4265,7 +4260,6 @@
         "tidyr",
         "geneplotter",
         "dendextend",
-        "egg",
         "annotate"
     ],
     "frenchFISH": [
@@ -4692,7 +4686,6 @@
         "ggpubr",
         "tidyr",
         "readr",
-        "egg",
         "readxl",
         "car",
         "ggsci",
@@ -5400,7 +5393,6 @@
         "annotate",
         "AnnotationForge",
         "dendextend",
-        "egg",
         "genefilter",
         "biomaRt",
         "tidyr",
@@ -5477,7 +5469,6 @@
         "heatmaply",
         "flowWorkspace",
         "dendextend",
-        "egg",
         "tidyr"
     ],
     "immunotation": [
@@ -6536,7 +6527,6 @@
         "annotate",
         "plotly",
         "dendextend",
-        "egg",
         "ipred",
         "BSgenome",
         "tidyr"
@@ -6856,7 +6846,6 @@
         "lme4",
         "geneplotter",
         "dendextend",
-        "egg",
         "annotate",
         "nloptr",
         "testthat",
@@ -8405,7 +8394,6 @@
         "rtracklayer",
         "biomaRt",
         "dendextend",
-        "egg",
         "tidyr",
         "BiocFileCache",
         "annotate",
@@ -8544,7 +8532,6 @@
         "Category",
         "AnnotationForge",
         "dendextend",
-        "egg",
         "GSEABase"
     ],
     "PCAtools": [],
@@ -8822,7 +8809,6 @@
         "tidyr",
         "readr",
         "readxl",
-        "egg",
         "ggpubr",
         "colourpicker",
         "Hmisc",
@@ -9255,7 +9241,6 @@
         "VIM",
         "plotly",
         "dendextend",
-        "egg",
         "car",
         "pbkrtest",
         "lme4",
@@ -9850,7 +9835,6 @@
     ],
     "rifi": [
         "car",
-        "egg",
         "rtracklayer",
         "pbkrtest",
         "lme4",
@@ -10270,7 +10254,6 @@
     "RTNsurvival": [
         "RTN",
         "RTNduals",
-        "egg",
         "car",
         "pbkrtest",
         "lme4",
@@ -10658,7 +10641,6 @@
         "GO.db",
         "AnnotationForge",
         "dendextend",
-        "egg",
         "tidyr",
         "enrichplot",
         "ggraph",
@@ -10850,7 +10832,6 @@
         "rtracklayer",
         "tidyr",
         "dendextend",
-        "egg",
         "bumphunter",
         "genefilter",
         "GEOquery",
@@ -11392,7 +11373,6 @@
         "BiocVersion",
         "annotate",
         "dendextend",
-        "egg",
         "ExperimentHub",
         "tidyr",
         "GenomicAlignments"
@@ -12544,8 +12524,7 @@
         "UpSetR",
         "BiocFileCache",
         "readr",
-        "tidyr",
-        "egg"
+        "tidyr"
     ],
     "vissE": [
         "ggwordcloud",
@@ -13067,10 +13046,8 @@
     "heatmaply": [
         "plotly",
         "dendextend",
-        "egg",
         "tidyr"
     ],
-    "egg": [],
     "corncob": [
         "phyloseq"
     ],
@@ -13618,7 +13595,6 @@
         "plotly",
         "readxl",
         "dendextend",
-        "egg",
         "tidyr"
     ],
     "ggalt": [
