@@ -65695,7 +65695,6 @@
     "IsoCorrectoRGUI": [
         "IsoCorrectoR",
         "readxl",
-        "tcltk2",
         "dplyr",
         "magrittr",
         "quadprog",
@@ -71517,7 +71516,6 @@
         "zlibbioc"
     ],
     "MBCB": [
-        "tcltk2",
         "preprocessCore"
     ],
     "MBECS": [
@@ -164252,7 +164250,6 @@
         "MASS"
     ],
     "startupmsg": [],
-    "tcltk2": [],
     "pd.mapping50k.xba240": [
         "Biostrings",
         "RSQLite",
