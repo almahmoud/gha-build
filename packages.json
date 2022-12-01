@@ -5434,7 +5434,6 @@
         "readr"
     ],
     "PrInCE": [
-        "forecast",
         "MSnbase"
     ],
     "proActiv": [
@@ -8404,7 +8403,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "forecast": [],
     "EnsDb.Mmusculus.v79": [
         "ensembldb",
         "GenomicFeatures",
