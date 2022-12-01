@@ -1596,7 +1596,6 @@
         "bookdown"
     ],
     "biocthis": [
-        "styler",
         "usethis"
     ],
     "BiocVersion": [],
@@ -9505,8 +9504,7 @@
         "biocthis",
         "dplyr",
         "tidytext",
-        "tibble",
-        "styler"
+        "tibble"
     ],
     "HumanTranscriptomeCompendium": [
         "shiny",
@@ -11038,7 +11036,6 @@
         "prodlim",
         "shiny",
         "miniUI",
-        "styler",
         "labelled",
         "haven",
         "forcats",
@@ -14515,7 +14512,6 @@
         "hardhat",
         "shiny",
         "miniUI",
-        "styler",
         "labelled",
         "haven",
         "forcats",
@@ -16232,7 +16228,6 @@
         "shinydashboard",
         "kableExtra",
         "GGally",
-        "styler",
         "factoextra",
         "FactoMineR",
         "dendextend",
@@ -21094,7 +21089,6 @@
         "shinyjqui",
         "shinyjs",
         "shinytoastr",
-        "styler",
         "tibble",
         "vroom",
         "RSQLite",
@@ -23813,7 +23807,6 @@
     "rorcid": [
         "tibble"
     ],
-    "styler": [],
     "usethis": [],
     "rms": [
         "Hmisc",
@@ -25073,7 +25066,6 @@
         "questionr",
         "shiny",
         "miniUI",
-        "styler",
         "labelled",
         "haven",
         "dplyr",
@@ -25087,7 +25079,6 @@
         "questionr",
         "shiny",
         "miniUI",
-        "styler",
         "labelled",
         "haven",
         "dplyr",
@@ -25100,7 +25091,6 @@
     "questionr": [
         "shiny",
         "miniUI",
-        "styler",
         "labelled",
         "haven",
         "dplyr",
@@ -25451,7 +25441,6 @@
         "hardhat",
         "shiny",
         "miniUI",
-        "styler",
         "labelled",
         "haven",
         "forcats",
