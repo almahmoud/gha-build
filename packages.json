@@ -1777,9 +1777,7 @@
         "testthat",
         "waldo"
     ],
-    "CNVRanger": [
-        "GDSArray"
-    ],
+    "CNVRanger": [],
     "CNVrd2": [
         "VariantAnnotation",
         "rtracklayer",
@@ -3845,7 +3843,6 @@
         "testthat",
         "waldo"
     ],
-    "GDSArray": [],
     "GEM": [],
     "gemma.R": [],
     "genbankr": [
@@ -10741,7 +10738,6 @@
         "BiocFileCache"
     ],
     "VariantExperiment": [
-        "GDSArray",
         "SeqVarTools",
         "logistf",
         "mice",
