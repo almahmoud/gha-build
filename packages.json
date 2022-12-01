@@ -1728,7 +1728,6 @@
     ],
     "GEOexplorer": [
         "factoextra",
-        "shinyHeatmaply",
         "FactoMineR",
         "ggpubr",
         "car",
@@ -4805,7 +4804,6 @@
         "lme4",
         "nloptr"
     ],
-    "shinyHeatmaply": [],
     "HiContactsData": [
         "ExperimentHub",
         "AnnotationHub",
