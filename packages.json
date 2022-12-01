@@ -5261,7 +5261,6 @@
         "FactoMineR",
         "caret",
         "plsVarSel",
-        "FSelector",
         "arm",
         "lme4",
         "recipes",
@@ -8338,7 +8337,6 @@
         "FactoMineR",
         "caret",
         "plsVarSel",
-        "FSelector",
         "arm",
         "tibble",
         "testthat",
@@ -26466,7 +26464,6 @@
         "progress",
         "MSQC"
     ],
-    "FSelector": [],
     "arm": [
         "lme4",
         "nloptr",
