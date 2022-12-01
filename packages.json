@@ -2355,10 +2355,7 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene"
     ],
     "RcisTarget": [],
-    "Rcwl": [],
-    "RcwlPipelines": [
-        "Rcwl"
-    ],
+    "RcwlPipelines": [],
     "ReactomePA": [
         "enrichplot"
     ],
