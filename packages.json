@@ -2073,7 +2073,6 @@
         "lifecycle"
     ],
     "ArrayExpressHTS": [
-        "sampling",
         "Rsamtools",
         "Biobase",
         "Biostrings",
@@ -3327,7 +3326,6 @@
         "MLInterfaces",
         "caret",
         "e1071",
-        "sampling",
         "hexbin",
         "dendextend",
         "mixtools",
@@ -46950,7 +46948,6 @@
         "Biobase",
         "caret",
         "e1071",
-        "sampling",
         "hexbin",
         "dendextend",
         "scales",
@@ -47070,7 +47067,6 @@
         "MLInterfaces",
         "caret",
         "e1071",
-        "sampling",
         "hexbin",
         "dendextend",
         "knitr",
@@ -69181,7 +69177,6 @@
         "urltools"
     ],
     "urltools": [],
-    "sampling": [],
     "sendmailR": [],
     "FDb.InfiniumMethylation.hg19": [
         "GenomicFeatures",
