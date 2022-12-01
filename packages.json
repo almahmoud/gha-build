@@ -3176,7 +3176,6 @@
         "MultiAssayExperiment",
         "BiocVersion"
     ],
-    "HIPPO": [],
     "hiReadsProcessor": [
         "hiAnnotator",
         "BSgenome"
