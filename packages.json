@@ -620,7 +620,6 @@
         "rstatix",
         "car"
     ],
-    "gmapR": [],
     "goSorensen": [],
     "GRmetrics": [
         "drc",
@@ -660,7 +659,6 @@
     ],
     "hpar": [],
     "HTSeqGenie": [
-        "gmapR",
         "VariantTools"
     ],
     "iCheck": [
