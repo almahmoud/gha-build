@@ -79824,7 +79824,6 @@
         "askpass"
     ],
     "TissueEnrich": [
-        "ensurer",
         "ggplot2",
         "SummarizedExperiment",
         "GSEABase",
@@ -97937,7 +97936,6 @@
         "Matrix",
         "munsell"
     ],
-    "ensurer": [],
     "bestNormalize": [
         "LambertW",
         "dplyr",
