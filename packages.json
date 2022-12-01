@@ -4437,7 +4437,6 @@
         "SummarizedExperiment",
         "tidyselect"
     ],
-    "cola": [],
     "comapr": [
         "ggplot2",
         "dplyr",
