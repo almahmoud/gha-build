@@ -59069,7 +59069,6 @@
         "pillar"
     ],
     "pcxn": [
-        "pcxnData",
         "pheatmap",
         "scales",
         "lifecycle",
@@ -101512,7 +101511,6 @@
     ],
     "matrixLaplacian": [],
     "Matching": [],
-    "pcxnData": [],
     "reportROC": [
         "pROC",
         "vcd",
