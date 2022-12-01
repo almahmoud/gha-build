@@ -362,7 +362,6 @@
         "CytoGLMM",
         "diffcyt",
         "factoextra",
-        "mbest",
         "FlowSOM",
         "FactoMineR",
         "ggpubr",
@@ -372,7 +371,6 @@
     ],
     "CytoGLMM": [
         "factoextra",
-        "mbest",
         "FactoMineR",
         "ggpubr",
         "car",
@@ -1830,7 +1828,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "mbest": [],
     "rsq": [],
     "VIM": [
         "car",
