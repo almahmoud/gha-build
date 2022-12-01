@@ -12739,7 +12739,6 @@
         "openssl",
         "selectr",
         "rsparse",
-        "mlapi",
         "koRpus.lang.en",
         "koRpus",
         "lexicon",
@@ -19945,7 +19944,6 @@
         "viridis",
         "visNetwork",
         "rsparse",
-        "mlapi",
         "koRpus.lang.en",
         "koRpus",
         "lexicon",
@@ -53345,7 +53343,6 @@
         "tensorflow",
         "tfruns",
         "rsparse",
-        "mlapi",
         "koRpus.lang.en",
         "koRpus",
         "lexicon",
@@ -53841,7 +53838,6 @@
         "textshaping",
         "selectr",
         "rsparse",
-        "mlapi",
         "koRpus.lang.en",
         "koRpus",
         "lexicon",
@@ -59752,7 +59748,6 @@
     ],
     "text2vec": [
         "rsparse",
-        "mlapi",
         "MatrixExtra"
     ],
     "textstem": [
@@ -59772,7 +59767,6 @@
     "rsparse": [
         "MatrixExtra"
     ],
-    "mlapi": [],
     "koRpus.lang.en": [
         "koRpus"
     ],
