@@ -8339,7 +8339,6 @@
         "GO.db",
         "RSQLite"
     ],
-    "GAprediction": [],
     "GARS": [
         "ggplot2",
         "DaMiRseq",
