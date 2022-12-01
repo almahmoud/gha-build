@@ -13104,7 +13104,6 @@
     "flowCL": [
         "SPARQL"
     ],
-    "flowClean": [],
     "flowClust": [],
     "flowCut": [
         "flowDensity",
