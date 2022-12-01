@@ -14058,7 +14058,6 @@
     ],
     "RcisTarget": [
         "AUCell",
-        "arrow",
         "dplyr",
         "GSEABase",
         "annotate",
@@ -21187,7 +21186,6 @@
         "dbplyr",
         "GenomicAlignments"
     ],
-    "arrow": [],
     "neo4r": [
         "tidyr",
         "dplyr"
