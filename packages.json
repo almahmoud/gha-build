@@ -7516,9 +7516,7 @@
         "BiocFileCache",
         "tidyr"
     ],
-    "nethet": [
-        "ICSNP"
-    ],
+    "nethet": [],
     "netOmics": [
         "tidyr",
         "GO.db",
@@ -9451,7 +9449,6 @@
         "BiocFileCache"
     ],
     "RNAinteract": [
-        "ICSNP",
         "cellHTS2",
         "geneplotter",
         "genefilter",
@@ -13092,7 +13089,6 @@
         "rtracklayer"
     ],
     "mppa": [],
-    "ICSNP": [],
     "dnet": [
         "supraHex",
         "readr",
