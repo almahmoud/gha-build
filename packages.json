@@ -2209,9 +2209,7 @@
     "LymphoSeq": [
         "ggtree"
     ],
-    "M3Drop": [
-        "reldist"
-    ],
+    "M3Drop": [],
     "m6Aboost": [
         "adabag",
         "ExperimentHub",
@@ -3578,7 +3576,6 @@
     ],
     "RiboDiPA": [
         "GenomicFeatures",
-        "reldist",
         "DESeq2"
     ],
     "RiboProfiling": [
@@ -3837,8 +3834,7 @@
     "scifer": [],
     "scMAGeCK": [],
     "scMerge": [
-        "M3Drop",
-        "reldist"
+        "M3Drop"
     ],
     "scmeth": [
         "bsseq",
@@ -4033,8 +4029,7 @@
         "scDblFinder",
         "BiocVersion",
         "GenomicFeatures",
-        "M3Drop",
-        "reldist"
+        "M3Drop"
     ],
     "SingleMoleculeFootprinting": [
         "QuasR",
@@ -4902,7 +4897,6 @@
     "datamods": [
         "rio"
     ],
-    "reldist": [],
     "adabag": [],
     "glmmTMB": [
         "lme4",
