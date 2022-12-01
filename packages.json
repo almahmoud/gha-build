@@ -457,8 +457,7 @@
         "rsq"
     ],
     "DeepPINCS": [
-        "ttgsea",
-        "textstem"
+        "ttgsea"
     ],
     "deepSNV": [],
     "derfinder": [
@@ -740,8 +739,7 @@
     "genotypeeval": [],
     "GenProSeq": [
         "DeepPINCS",
-        "ttgsea",
-        "textstem"
+        "ttgsea"
     ],
     "GenVisR": [],
     "GeoDiff": [
@@ -1883,9 +1881,7 @@
     "tricycle": [
         "scater"
     ],
-    "ttgsea": [
-        "textstem"
-    ],
+    "ttgsea": [],
     "tximeta": [
         "AnnotationHub",
         "BiocVersion"
@@ -1904,8 +1900,7 @@
     "VAExprs": [
         "scater",
         "DeepPINCS",
-        "ttgsea",
-        "textstem"
+        "ttgsea"
     ],
     "variancePartition": [
         "pbkrtest",
@@ -1924,7 +1919,6 @@
     ],
     "vissE": [
         "msigdb",
-        "textstem",
         "ExperimentHub",
         "AnnotationHub",
         "BiocVersion"
@@ -2063,7 +2057,6 @@
     "mbest": [],
     "arm": [],
     "rsq": [],
-    "textstem": [],
     "VIM": [
         "car",
         "pbkrtest"
