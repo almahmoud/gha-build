@@ -1072,7 +1072,6 @@
         "annotate"
     ],
     "bnem": [
-        "CellNOptR",
         "epiNEM",
         "mnem",
         "sva",
@@ -1478,7 +1477,6 @@
         "scuttle",
         "ggrastr"
     ],
-    "CellNOptR": [],
     "cellscape": [],
     "CellTrails": [
         "dendextend",
@@ -2013,21 +2011,14 @@
         "annotate",
         "GO.db"
     ],
-    "CNORdt": [
-        "CellNOptR"
-    ],
-    "CNORfeeder": [
-        "CellNOptR"
-    ],
+    "CNORdt": [],
+    "CNORfeeder": [],
     "CNORfuzzy": [
-        "CellNOptR",
         "nloptr",
         "testthat",
         "waldo"
     ],
-    "CNORode": [
-        "CellNOptR"
-    ],
+    "CNORode": [],
     "CNTools": [
         "genefilter",
         "annotate"
@@ -6470,8 +6461,7 @@
         "waldo"
     ],
     "MEIGOR": [
-        "CNORode",
-        "CellNOptR"
+        "CNORode"
     ],
     "Melissa": [
         "BPRMeth"
