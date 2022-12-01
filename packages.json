@@ -2427,7 +2427,6 @@
         "ggtree",
         "ggtreeExtra"
     ],
-    "midasHLA": [],
     "MIGSA": [
         "GOstats",
         "Category"
