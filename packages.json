@@ -3198,9 +3198,7 @@
         "blob",
         "dbplyr"
     ],
-    "Cardinal": [
-        "matter"
-    ],
+    "Cardinal": [],
     "CARNIVAL": [
         "readr",
         "dplyr",
@@ -14545,7 +14543,6 @@
         "tidyselect",
         "progress"
     ],
-    "matter": [],
     "MBASED": [
         "SummarizedExperiment"
     ],
