@@ -8359,7 +8359,6 @@
         "diceR",
         "klaR",
         "tidyr",
-        "yardstick",
         "questionr",
         "labelled",
         "haven",
@@ -14215,13 +14214,11 @@
     "diceR": [
         "klaR",
         "tidyr",
-        "yardstick",
         "questionr",
         "labelled",
         "haven",
         "readr"
     ],
-    "yardstick": [],
     "OMICsPCAdata": [
         "MultiAssayExperiment",
         "tidyr"
