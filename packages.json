@@ -1469,7 +1469,6 @@
         "RCurl",
         "XVector",
         "fBasics",
-        "stable",
         "statip",
         "clock",
         "hardhat",
@@ -12986,7 +12985,6 @@
         "vctrs",
         "highr",
         "fBasics",
-        "stable",
         "statip",
         "future.apply",
         "zoo",
@@ -39471,7 +39469,6 @@
         "mgcv",
         "quantreg",
         "fBasics",
-        "stable",
         "statip",
         "callr",
         "ellipsis",
@@ -74362,7 +74359,6 @@
         "tibble",
         "vctrs",
         "fBasics",
-        "stable",
         "statip",
         "pillar"
     ],
@@ -74393,7 +74389,6 @@
     "rex": [],
     "modeest": [
         "fBasics",
-        "stable",
         "statip"
     ],
     "reticulate": [
@@ -74402,7 +74397,6 @@
         "here"
     ],
     "fBasics": [],
-    "stable": [],
     "statip": [],
     "clock": [
         "tzdb",
