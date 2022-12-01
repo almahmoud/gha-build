@@ -13455,7 +13455,6 @@
         "blob"
     ],
     "DExMA": [
-        "DExMAdata",
         "GEOquery",
         "pheatmap",
         "scales",
@@ -59876,7 +59875,6 @@
         "pillar"
     ],
     "blockmodeling": [],
-    "DExMAdata": [],
     "swamp": [],
     "bnstruct": [
         "igraph"
