@@ -3503,7 +3503,6 @@
         "testthat",
         "waldo"
     ],
-    "LineagePulse": [],
     "lineagespot": [
         "VariantAnnotation",
         "BSgenome",
