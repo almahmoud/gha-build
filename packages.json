@@ -473,8 +473,7 @@
         "DESeq2"
     ],
     "BLMA": [
-        "PADOG",
-        "hgu133plus2.db"
+        "PADOG"
     ],
     "BloodGen3Module": [
         "ExperimentHub",
@@ -1512,8 +1511,7 @@
     ],
     "DrugVsDisease": [
         "ArrayExpress",
-        "GEOquery",
-        "hgu133plus2.db"
+        "GEOquery"
     ],
     "DSS": [
         "bsseq",
@@ -1579,8 +1577,7 @@
         "topGO",
         "pathview",
         "PADOG",
-        "GSVA",
-        "hgu133plus2.db"
+        "GSVA"
     ],
     "ELMER": [
         "GenomicFeatures",
@@ -2836,9 +2833,7 @@
     "mAPKL": [
         "reactome.db"
     ],
-    "maPredictDSC": [
-        "hgu133plus2.db"
-    ],
+    "maPredictDSC": [],
     "maser": [
         "Gviz",
         "GenomicFeatures",
@@ -3865,9 +3860,7 @@
         "nloptr",
         "testthat"
     ],
-    "PADOG": [
-        "hgu133plus2.db"
-    ],
+    "PADOG": [],
     "pageRank": [
         "motifmatchr",
         "TFBSTools",
@@ -5942,7 +5935,6 @@
         "DEXSeq",
         "DESeq2"
     ],
-    "hgu133plus2.db": [],
     "GenomicState": [
         "AnnotationHub",
         "GenomicFeatures",
