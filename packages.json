@@ -1357,7 +1357,6 @@
         "AnnotationDbi"
     ],
     "BLMA": [
-        "ROntoTools",
         "PADOG",
         "AnnotationDbi",
         "hgu133plus2.db",
@@ -8936,7 +8935,6 @@
         "AnnotationDbi"
     ],
     "mirIntegrator": [
-        "ROntoTools",
         "org.Hs.eg.db",
         "AnnotationDbi"
     ],
@@ -12888,7 +12886,6 @@
     "RolDE": [
         "qvalue"
     ],
-    "ROntoTools": [],
     "ropls": [
         "plotly",
         "MultiAssayExperiment",
