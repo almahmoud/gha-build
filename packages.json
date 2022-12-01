@@ -362,7 +362,6 @@
     "ATACCoGAPS": [
         "projectR",
         "TFBSTools",
-        "msigdbr",
         "tidyverse",
         "motifmatchr",
         "chromVAR",
@@ -1525,7 +1524,6 @@
         "batchelor",
         "scran",
         "scater",
-        "msigdbr",
         "scuttle",
         "ggrastr"
     ],
@@ -3222,7 +3220,6 @@
     "escape": [
         "GSEABase",
         "GSVA",
-        "msigdbr",
         "UCell",
         "broom",
         "annotate"
@@ -4428,7 +4425,6 @@
     ],
     "HumanTranscriptomeCompendium": [],
     "hypeR": [
-        "msigdbr",
         "kableExtra"
     ],
     "iBBiG": [
@@ -5069,7 +5065,6 @@
         "clusterProfiler",
         "pathview",
         "enrichplot",
-        "msigdbr",
         "depmap",
         "GO.db",
         "GOSemSim",
@@ -8807,7 +8802,6 @@
         "GSEABase",
         "plotly",
         "nnTensor",
-        "msigdbr",
         "schex",
         "annotate",
         "Seurat"
@@ -9099,7 +9093,6 @@
         "ggtree",
         "GSVA",
         "GSVAdata",
-        "msigdbr",
         "plotly",
         "scater",
         "scMerge",
@@ -10501,7 +10494,6 @@
         "variancePartition",
         "EnrichmentBrowser",
         "GSEABase",
-        "msigdbr",
         "BiocFileCache",
         "GO.db",
         "graphite",
@@ -10693,7 +10685,6 @@
         "BiocFileCache"
     ],
     "mGSZ": [],
-    "msigdbr": [],
     "tidyverse": [
         "broom",
         "googlesheets4",
