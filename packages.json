@@ -3073,7 +3073,6 @@
     "escape": [
         "GSEABase",
         "GSVA",
-        "UCell",
         "broom"
     ],
     "esetVis": [],
@@ -9690,7 +9689,6 @@
         "rtracklayer",
         "biomaRt"
     ],
-    "UCell": [],
     "Ularcirc": [
         "AnnotationHub",
         "BSgenome",
