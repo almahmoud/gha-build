@@ -820,7 +820,6 @@
         "lme4"
     ],
     "drugTargetInteractions": [],
-    "DrugVsDisease": [],
     "DSS": [],
     "easier": [
         "easierData",
