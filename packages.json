@@ -2432,7 +2432,6 @@
     "peco": [
         "scater"
     ],
-    "periodicDNA": [],
     "PFP": [
         "clusterProfiler",
         "enrichplot"
