@@ -190,9 +190,7 @@
         "OrganismDbi",
         "BiocVersion"
     ],
-    "ArrayExpress": [
-        "oligo"
-    ],
+    "ArrayExpress": [],
     "ArrayExpressHTS": [
         "biomaRt"
     ],
@@ -1027,8 +1025,7 @@
     "ChIPsim": [],
     "ChIPXpress": [
         "GEOquery",
-        "frma",
-        "oligo"
+        "frma"
     ],
     "ChromHeatMap": [],
     "chromPlot": [
@@ -1124,9 +1121,7 @@
         "treeio"
     ],
     "clustifyr": [],
-    "cn.farms": [
-        "oligo"
-    ],
+    "cn.farms": [],
     "CNEr": [],
     "CNORfuzzy": [
         "nloptr",
@@ -1442,7 +1437,6 @@
     ],
     "crossmeta": [
         "GEOquery",
-        "oligo",
         "sva",
         "genefilter"
     ],
@@ -1903,8 +1897,7 @@
         "GEOquery",
         "hgu133a.db",
         "hgu133a2.db",
-        "hgu133plus2.db",
-        "oligo"
+        "hgu133plus2.db"
     ],
     "DSS": [
         "bsseq",
@@ -2489,9 +2482,7 @@
         "fds",
         "rainbow"
     ],
-    "frma": [
-        "oligo"
-    ],
+    "frma": [],
     "FunChIP": [
         "fda",
         "fds",
@@ -3313,7 +3304,6 @@
         "geneplotter"
     ],
     "ITALICS": [
-        "oligo",
         "pd.mapping50k.xba240"
     ],
     "IVAS": [
@@ -4007,9 +3997,7 @@
         "ggraph",
         "tidygraph"
     ],
-    "mimager": [
-        "oligo"
-    ],
+    "mimager": [],
     "MIMOSA": [
         "testthat",
         "waldo"
@@ -4698,7 +4686,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "oligo": [],
     "omada": [
         "diceR",
         "klaR",
@@ -4939,9 +4926,7 @@
         "testthat",
         "waldo"
     ],
-    "pdInfoBuilder": [
-        "oligo"
-    ],
+    "pdInfoBuilder": [],
     "peakPantheR": [
         "MSnbase"
     ],
@@ -5281,9 +5266,7 @@
         "testthat",
         "waldo"
     ],
-    "puma": [
-        "oligo"
-    ],
+    "puma": [],
     "PureCN": [
         "VariantAnnotation",
         "GenomicFeatures",
@@ -5956,7 +5939,6 @@
         "Seurat"
     ],
     "SCAN.UPC": [
-        "oligo",
         "GEOquery",
         "sva",
         "genefilter"
@@ -7787,9 +7769,7 @@
         "rio",
         "haven"
     ],
-    "pd.mapping50k.xba240": [
-        "oligo"
-    ],
+    "pd.mapping50k.xba240": [],
     "hgu95av2.db": [],
     "reldist": [],
     "adabag": [
