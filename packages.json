@@ -8970,7 +8970,6 @@
     "midasHLA": [
         "MultiAssayExperiment",
         "broom",
-        "formattable",
         "HardyWeinberg",
         "kableExtra",
         "tidyr",
@@ -16530,7 +16529,6 @@
     ],
     "XNAString": [
         "BSgenome",
-        "formattable",
         "rtracklayer",
         "GenomicAlignments"
     ],
@@ -17993,7 +17991,6 @@
     ],
     "shinycustomloader": [],
     "ggstar": [],
-    "formattable": [],
     "HardyWeinberg": [
         "mice",
         "broom",
