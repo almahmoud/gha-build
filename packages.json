@@ -15851,7 +15851,6 @@
         "bigstatsr",
         "UpSetR",
         "RnBeads.hg19",
-        "bigparallelr",
         "cowplot",
         "ggplot2",
         "tibble",
@@ -36476,7 +36475,6 @@
         "pillar"
     ],
     "bigstatsr": [
-        "bigparallelr",
         "cowplot",
         "ggplot2",
         "tibble",
@@ -36485,7 +36483,6 @@
     "RnBeads.hg19": [
         "GenomicRanges"
     ],
-    "bigparallelr": [],
     "depmap": [
         "dplyr",
         "ExperimentHub",
