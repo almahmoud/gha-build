@@ -2332,9 +2332,7 @@
     ],
     "Metab": [],
     "metabCombiner": [],
-    "MetaboAnnotation": [
-        "QFeatures"
-    ],
+    "MetaboAnnotation": [],
     "MetaboSignal": [
         "hpar",
         "EnsDb.Hsapiens.v75",
@@ -2668,9 +2666,7 @@
         "lme4",
         "nloptr"
     ],
-    "MsExperiment": [
-        "QFeatures"
-    ],
+    "MsExperiment": [],
     "msgbsR": [
         "easyRNASeq",
         "GenomicFeatures",
@@ -2695,7 +2691,6 @@
         "nloptr"
     ],
     "msqrob2": [
-        "QFeatures",
         "lme4",
         "nloptr"
     ],
@@ -3286,9 +3281,7 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "PSMatch": [
-        "QFeatures"
-    ],
+    "PSMatch": [],
     "psygenet2r": [
         "BgeeDB"
     ],
@@ -3325,7 +3318,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "QFeatures": [],
     "qmtools": [
         "VIM",
         "car",
@@ -3807,9 +3799,7 @@
         "VariantAnnotation",
         "GenomicFeatures"
     ],
-    "scp": [
-        "QFeatures"
-    ],
+    "scp": [],
     "scPipe": [
         "scater"
     ],
