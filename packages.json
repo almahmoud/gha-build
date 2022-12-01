@@ -7046,7 +7046,6 @@
         "glmnet",
         "rms",
         "precrec",
-        "nsprcomp",
         "ranger",
         "e1071",
         "ggplot2",
@@ -94082,7 +94081,6 @@
         "viridisLite",
         "pillar"
     ],
-    "nsprcomp": [],
     "ranger": [
         "Matrix",
         "RcppEigen"
