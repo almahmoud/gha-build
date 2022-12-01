@@ -215,12 +215,9 @@
         "rstatix"
     ],
     "cbaf": [
-        "cBioPortalData",
-        "RTCGAToolbox"
+        "cBioPortalData"
     ],
-    "cBioPortalData": [
-        "RTCGAToolbox"
-    ],
+    "cBioPortalData": [],
     "celda": [
         "scater"
     ],
@@ -921,8 +918,7 @@
         "lmerTest"
     ],
     "LowMACA": [
-        "cBioPortalData",
-        "RTCGAToolbox"
+        "cBioPortalData"
     ],
     "LRcell": [
         "ExperimentHub",
@@ -1592,7 +1588,6 @@
         "car",
         "pbkrtest"
     ],
-    "RTCGAToolbox": [],
     "RTN": [
         "car",
         "pbkrtest"
