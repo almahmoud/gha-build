@@ -1630,8 +1630,7 @@
         "textstem",
         "DiagrammeR",
         "lexicon",
-        "textclean",
-        "syuzhet"
+        "textclean"
     ],
     "deepSNV": [
         "VariantAnnotation",
@@ -2429,8 +2428,7 @@
         "RecordLinkage",
         "textclean",
         "tidygraph",
-        "lexicon",
-        "syuzhet"
+        "lexicon"
     ],
     "FoldGO": [
         "topGO"
@@ -2672,8 +2670,7 @@
         "textstem",
         "DiagrammeR",
         "lexicon",
-        "textclean",
-        "syuzhet"
+        "textclean"
     ],
     "GenVisR": [
         "biomaRt",
@@ -6926,8 +6923,7 @@
         "textstem",
         "DiagrammeR",
         "lexicon",
-        "textclean",
-        "syuzhet"
+        "textclean"
     ],
     "txcutr": [
         "GenomicFeatures",
@@ -6994,8 +6990,7 @@
         "ttgsea",
         "textstem",
         "lexicon",
-        "textclean",
-        "syuzhet"
+        "textclean"
     ],
     "VanillaICE": [
         "BSgenome.Hsapiens.UCSC.hg18",
@@ -7079,8 +7074,7 @@
         "AnnotationHub",
         "lexicon",
         "textclean",
-        "BiocVersion",
-        "syuzhet"
+        "BiocVersion"
     ],
     "Voyager": [
         "SpatialExperiment",
@@ -7577,17 +7571,12 @@
     ],
     "textstem": [
         "lexicon",
-        "textclean",
-        "syuzhet"
+        "textclean"
     ],
-    "lexicon": [
-        "syuzhet"
-    ],
+    "lexicon": [],
     "textclean": [
-        "lexicon",
-        "syuzhet"
+        "lexicon"
     ],
-    "syuzhet": [],
     "VIM": [
         "car",
         "pbkrtest",
