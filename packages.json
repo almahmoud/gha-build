@@ -375,9 +375,7 @@
         "car"
     ],
     "debrowser": [],
-    "deconvR": [
-        "rsq"
-    ],
+    "deconvR": [],
     "DeepPINCS": [
         "ttgsea"
     ],
@@ -1665,7 +1663,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "rsq": [],
     "VIM": [
         "car"
     ],
