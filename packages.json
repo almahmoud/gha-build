@@ -53110,7 +53110,6 @@
         "RcppEigen",
         "DelayedArray"
     ],
-    "rSWeeP": [],
     "RTCA": [
         "Biobase"
     ],
