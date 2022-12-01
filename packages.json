@@ -5,7 +5,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "AgiMicroRna": [],
     "airpart": [
         "scater"
     ],
