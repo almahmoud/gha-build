@@ -2096,7 +2096,6 @@
         "GEOquery",
         "oligo",
         "sva",
-        "shinypanel",
         "readr",
         "genefilter",
         "annotate"
@@ -10988,7 +10987,6 @@
         "BiocVersion"
     ],
     "keras": [],
-    "shinypanel": [],
     "highcharter": [
         "broom"
     ],
