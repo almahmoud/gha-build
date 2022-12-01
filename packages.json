@@ -130,7 +130,6 @@
         "BiocVersion"
     ],
     "BitSeq": [],
-    "blacksheepr": [],
     "BloodGen3Module": [
         "ExperimentHub",
         "AnnotationHub",
