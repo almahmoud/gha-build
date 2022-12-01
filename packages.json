@@ -8597,7 +8597,6 @@
         "KEGGREST"
     ],
     "GeneRegionScan": [],
-    "geneRxCluster": [],
     "GENESIS": [
         "GWASTools",
         "SeqArray",
