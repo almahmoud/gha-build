@@ -18741,7 +18741,6 @@
         "ggplotify",
         "patchwork"
     ],
-    "GIGSEA": [],
     "girafe": [
         "Rsamtools",
         "ShortRead",
