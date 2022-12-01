@@ -2971,7 +2971,6 @@
         "BSgenome.Hsapiens.UCSC.hg38"
     ],
     "ORFik": [
-        "biomartr",
         "DESeq2",
         "GenomicFeatures"
     ],
@@ -3460,7 +3459,6 @@
     "RiboCrypt": [
         "ORFik",
         "GenomicFeatures",
-        "biomartr",
         "DESeq2"
     ],
     "RiboDiPA": [
@@ -4198,7 +4196,6 @@
     ],
     "TFHAZ": [
         "ORFik",
-        "biomartr",
         "DESeq2",
         "GenomicFeatures"
     ],
@@ -4837,7 +4834,6 @@
         "lme4",
         "nloptr"
     ],
-    "biomartr": [],
     "tfprobability": [],
     "phastCons100way.UCSC.hg38": [
         "GenomicScores",
