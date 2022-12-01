@@ -9840,7 +9840,6 @@
     ],
     "ccmap": [
         "AnnotationDbi",
-        "ccdata",
         "doParallel",
         "foreach",
         "xgboost",
@@ -89282,7 +89281,6 @@
         "jquerylib",
         "memoise"
     ],
-    "ccdata": [],
     "enrichR": [
         "httr",
         "ggplot2",
