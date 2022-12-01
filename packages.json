@@ -527,7 +527,6 @@
     "clipper": [
         "qpgraph"
     ],
-    "cliqueMS": [],
     "clusterExperiment": [],
     "clusterProfiler": [
         "enrichplot"
