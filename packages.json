@@ -2688,7 +2688,6 @@
         "GenomicFeatures",
         "ensembldb"
     ],
-    "MetaVolcanoR": [],
     "MethCP": [
         "bsseq",
         "DSS",
