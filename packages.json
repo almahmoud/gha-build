@@ -40,7 +40,6 @@
         "Glimma",
         "DESeq2",
         "Category",
-        "PFAM.db",
         "GSEABase",
         "ggbio",
         "genefilter",
@@ -63,7 +62,6 @@
         "Glimma",
         "DESeq2",
         "Category",
-        "PFAM.db",
         "GSEABase",
         "ggbio",
         "genefilter",
@@ -5461,7 +5459,6 @@
     "ReportingTools": [
         "Category",
         "GOstats",
-        "PFAM.db",
         "GSEABase",
         "DESeq2",
         "ggbio",
@@ -7232,7 +7229,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "PFAM.db": [],
     "curatedTCGAData": [
         "AnnotationHub",
         "ExperimentHub",
