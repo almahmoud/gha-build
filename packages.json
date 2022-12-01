@@ -5171,7 +5171,6 @@
         "BSgenome"
     ],
     "SubCellBarCode": [],
-    "SummarizedBenchmark": [],
     "Summix": [
         "nloptr",
         "testthat"
