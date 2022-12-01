@@ -7944,7 +7944,6 @@
         "graph",
         "AnnotationDbi",
         "openssl",
-        "Heatplus",
         "BMA",
         "ggplot2",
         "Hmisc",
@@ -29373,7 +29372,6 @@
         "htmlwidgets",
         "RCurl"
     ],
-    "Heatplus": [],
     "HelloRanges": [
         "IRanges",
         "GenomicRanges",
@@ -48851,7 +48849,6 @@
     "phenoTest": [
         "Biobase",
         "annotate",
-        "Heatplus",
         "BMA",
         "ggplot2",
         "Hmisc",
@@ -69725,7 +69722,6 @@
         "topGO",
         "org.Hs.eg.db",
         "GOSemSim",
-        "Heatplus",
         "gplots",
         "Biobase",
         "qvalue",
