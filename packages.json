@@ -614,7 +614,6 @@
         "dplyr",
         "plotly",
         "ggplot2",
-        "gargle",
         "progress",
         "tibble",
         "tidyselect",
@@ -997,7 +996,6 @@
         "BiocFileCache",
         "GenomicAlignments",
         "annotate",
-        "gargle",
         "cellranger",
         "rematch2",
         "vroom",
@@ -1773,7 +1771,6 @@
         "curatedTCGAData",
         "ggpubr",
         "car",
-        "gargle",
         "progress",
         "tibble",
         "pbkrtest",
@@ -5787,7 +5784,6 @@
         "RSQLite",
         "KEGGREST",
         "tweenr",
-        "gargle",
         "cellranger",
         "rematch2",
         "vegan",
@@ -12706,7 +12702,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "gargle",
         "cellranger",
         "rematch2",
         "vroom",
@@ -13763,7 +13758,6 @@
         "GenomicFeatures",
         "AnnotationHubData",
         "annotate",
-        "gargle",
         "cellranger",
         "rematch2",
         "shiny",
@@ -14607,7 +14601,6 @@
         "tweenr",
         "tidytree",
         "treeio",
-        "gargle",
         "cellranger",
         "rematch2",
         "nloptr",
@@ -14692,7 +14685,6 @@
         "tweenr",
         "tidytree",
         "treeio",
-        "gargle",
         "cellranger",
         "rematch2",
         "nloptr",
@@ -15430,7 +15422,6 @@
         "rvest",
         "viridis",
         "car",
-        "gargle",
         "cellranger",
         "rematch2",
         "nloptr",
@@ -15770,7 +15761,6 @@
         "Rsamtools",
         "tibble",
         "tidyselect",
-        "gargle",
         "GenomicAlignments",
         "SummarizedExperiment",
         "AnnotationDbi",
@@ -16094,7 +16084,6 @@
         "rvest",
         "tidyr",
         "RISmed",
-        "gargle",
         "cellranger",
         "rematch2",
         "vroom",
@@ -19926,7 +19915,6 @@
         "BiocFileCache",
         "BiocVersion",
         "interactiveDisplayBase",
-        "gargle",
         "progress",
         "tibble",
         "tidyselect",
@@ -23628,7 +23616,6 @@
         "rvest",
         "RSQLite",
         "KEGGREST",
-        "gargle",
         "cellranger",
         "rematch2",
         "nloptr",
@@ -23937,7 +23924,6 @@
         "readxl",
         "reprex",
         "rvest",
-        "gargle",
         "cellranger",
         "rematch2",
         "vroom",
@@ -24291,7 +24277,6 @@
         "quantreg",
         "lme4",
         "viridis",
-        "gargle",
         "cellranger",
         "rematch2",
         "TH.data",
@@ -24730,7 +24715,6 @@
         "ExperimentHub",
         "BiocVersion",
         "interactiveDisplayBase",
-        "gargle",
         "progress",
         "tibble",
         "dbplyr",
@@ -26854,14 +26838,12 @@
         "shiny"
     ],
     "bigrquery": [
-        "gargle",
         "progress",
         "tibble"
     ],
     "shinytoastr": [
         "shiny"
     ],
-    "gargle": [],
     "repmis": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi",
@@ -27149,7 +27131,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "gargle",
         "cellranger",
         "rematch2",
         "vroom",
@@ -27240,12 +27221,10 @@
         "tidyselect"
     ],
     "googledrive": [
-        "gargle",
         "tibble"
     ],
     "googlesheets4": [
         "cellranger",
-        "gargle",
         "googledrive",
         "rematch2",
         "tibble"
@@ -29312,9 +29291,7 @@
         "waldo",
         "rematch2"
     ],
-    "googleAuthR": [
-        "gargle"
-    ],
+    "googleAuthR": [],
     "blme": [
         "lme4",
         "nloptr",
