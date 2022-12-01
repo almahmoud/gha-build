@@ -10881,7 +10881,6 @@
         "SummarizedExperiment",
         "msigdbr",
         "forcats",
-        "matrixTests",
         "DelayedArray",
         "igraph",
         "BiocNeighbors",
@@ -18787,7 +18786,6 @@
         "pillar"
     ],
     "DiscoRhythm": [
-        "matrixTests",
         "MetaCycle",
         "ggplot2",
         "ggExtra",
@@ -44137,7 +44135,6 @@
         "tibble",
         "tidyr",
         "MCMCprecision",
-        "matrixTests",
         "dplyr",
         "BSgenome",
         "GenomeInfoDb",
@@ -79675,7 +79672,6 @@
         "stringfish"
     ],
     "rlist": [],
-    "matrixTests": [],
     "ggfittext": [
         "ggplot2",
         "lifecycle",
