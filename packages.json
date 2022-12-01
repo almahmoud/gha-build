@@ -545,7 +545,6 @@
         "car",
         "plotly",
         "ggraph",
-        "graphite",
         "pbkrtest",
         "lme4",
         "ggtree",
@@ -1908,7 +1907,6 @@
         "epiNEM",
         "metap",
         "mnem",
-        "graphite",
         "Linnorm",
         "googlesheets4",
         "haven",
@@ -2426,7 +2424,6 @@
     "EnrichmentBrowser": [
         "GSEABase",
         "GO.db",
-        "graphite",
         "pathview"
     ],
     "enrichplot": [
@@ -2536,7 +2533,6 @@
         "enrichplot",
         "ggraph",
         "reactome.db",
-        "graphite",
         "GO.db",
         "fgsea",
         "GOSemSim",
@@ -3443,7 +3439,6 @@
         "biomaRt",
         "geneplotter"
     ],
-    "graphite": [],
     "GreyListChIP": [
         "BSgenome",
         "rtracklayer"
@@ -3474,7 +3469,6 @@
         "BiocVersion",
         "GSEABase",
         "GO.db",
-        "graphite",
         "pathview"
     ],
     "GSEAmining": [],
@@ -4852,7 +4846,6 @@
         "fgsea",
         "ggraph",
         "reactome.db",
-        "graphite",
         "tidyverse",
         "caret",
         "biomaRt",
@@ -4885,7 +4878,6 @@
         "fgsea",
         "ggraph",
         "reactome.db",
-        "graphite",
         "tidyverse",
         "caret",
         "biomaRt",
@@ -4988,7 +4980,6 @@
     ],
     "MOGAMUN": [],
     "mogsa": [
-        "graphite",
         "genefilter",
         "GSEABase"
     ],
@@ -5235,7 +5226,6 @@
         "ensembldb"
     ],
     "multiGSEA": [
-        "graphite",
         "fgsea",
         "metap"
     ],
@@ -5264,7 +5254,6 @@
         "ggraph",
         "ggtree",
         "reactome.db",
-        "graphite",
         "testthat",
         "fgsea",
         "tidygraph",
@@ -6022,7 +6011,6 @@
         "fgsea",
         "ggraph",
         "reactome.db",
-        "graphite",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -6102,9 +6090,7 @@
         "recipes",
         "geneplotter"
     ],
-    "PoTRA": [
-        "graphite"
-    ],
+    "PoTRA": [],
     "POWSC": [],
     "ppcseq": [
         "tidybayes",
@@ -6535,7 +6521,6 @@
         "enrichplot",
         "ggraph",
         "reactome.db",
-        "graphite",
         "fgsea",
         "GOSemSim",
         "ggtree",
@@ -7344,7 +7329,6 @@
         "GO.db",
         "enrichplot",
         "ggraph",
-        "graphite",
         "Seurat",
         "ggtree",
         "tidygraph",
@@ -7901,7 +7885,6 @@
         "waldo"
     ],
     "sSNAPPY": [
-        "graphite",
         "ggraph",
         "tidygraph"
     ],
@@ -7943,7 +7926,6 @@
     ],
     "StarBioTrek": [
         "SpidermiR",
-        "graphite",
         "miRNAtap",
         "miRNAtap.db"
     ],
@@ -8752,7 +8734,6 @@
         "EnrichmentBrowser",
         "GSEABase",
         "GO.db",
-        "graphite",
         "pathview",
         "pbkrtest",
         "lmerTest",
