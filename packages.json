@@ -52072,7 +52072,6 @@
         "randomcoloR",
         "ggplot2",
         "cowplot",
-        "intrinsicDimension",
         "scater",
         "knitr",
         "reshape2",
@@ -87010,7 +87009,6 @@
         "reshape2",
         "plyr"
     ],
-    "intrinsicDimension": [],
     "strawr": [],
     "evmix": [],
     "tidybayes": [
