@@ -584,9 +584,7 @@
     "coseq": [
         "HTSFilter"
     ],
-    "cosmiq": [
-        "faahKO"
-    ],
+    "cosmiq": [],
     "countsimQC": [],
     "crisprDesign": [
         "crisprScore",
@@ -3305,7 +3303,6 @@
         "minfi",
         "bumphunter"
     ],
-    "faahKO": [],
     "crisprScoreData": [
         "ExperimentHub",
         "AnnotationHub",
