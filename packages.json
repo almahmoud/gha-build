@@ -47887,9 +47887,7 @@
         "RColorBrewer",
         "viridisLite"
     ],
-    "ibh": [
-        "simpIntLists"
-    ],
+    "ibh": [],
     "iBMQ": [
         "Biobase",
         "ggplot2",
@@ -128238,7 +128236,6 @@
         "RColorBrewer",
         "viridisLite"
     ],
-    "simpIntLists": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "GenomicFeatures",
         "AnnotationDbi",
