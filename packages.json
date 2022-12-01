@@ -24200,7 +24200,6 @@
         "dplyr",
         "tidyselect"
     ],
-    "SwathXtend": [],
     "switchde": [
         "SingleCellExperiment",
         "SummarizedExperiment",
