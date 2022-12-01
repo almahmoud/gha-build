@@ -139,7 +139,6 @@
         "BiocVersion"
     ],
     "conclus": [
-        "factoextra",
         "scater"
     ],
     "condiments": [
@@ -186,12 +185,9 @@
     ],
     "CyTOFpower": [
         "CytoGLMM",
-        "diffcyt",
-        "factoextra"
+        "diffcyt"
     ],
-    "CytoGLMM": [
-        "factoextra"
-    ],
+    "CytoGLMM": [],
     "diffcyt": [],
     "distinct": [
         "scater"
@@ -265,9 +261,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "GEOexplorer": [
-        "factoextra"
-    ],
+    "GEOexplorer": [],
     "glmSparseNet": [],
     "GSEABenchmarkeR": [
         "AnnotationHub",
@@ -289,9 +283,7 @@
         "BiocVersion"
     ],
     "hpar": [],
-    "InterCellar": [
-        "factoextra"
-    ],
+    "InterCellar": [],
     "IntEREst": [],
     "iPath": [],
     "ipdDb": [
@@ -313,9 +305,7 @@
         "BiocVersion"
     ],
     "ivygapSE": [],
-    "kissDE": [
-        "factoextra"
-    ],
+    "kissDE": [],
     "LRcell": [
         "ExperimentHub",
         "AnnotationHub",
@@ -387,15 +377,11 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "MSstatsLiP": [
-        "factoextra"
-    ],
+    "MSstatsLiP": [],
     "muscat": [
         "scater"
     ],
-    "musicatk": [
-        "factoextra"
-    ],
+    "musicatk": [],
     "NADfinder": [
         "ATACseqQC",
         "GenomicScores",
@@ -427,9 +413,7 @@
         "BiocVersion"
     ],
     "omicRexposome": [],
-    "OMICsPCA": [
-        "factoextra"
-    ],
+    "OMICsPCA": [],
     "omicsViewer": [],
     "onlineFDR": [],
     "ontoProc": [
@@ -460,9 +444,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "protGear": [
-        "factoextra"
-    ],
+    "protGear": [],
     "psichomics": [
         "AnnotationHub",
         "BiocVersion"
@@ -509,9 +491,7 @@
         "ExperimentHub"
     ],
     "RNAAgeCalc": [],
-    "RNASeqR": [
-        "factoextra"
-    ],
+    "RNASeqR": [],
     "RnaSeqSampleSize": [],
     "RTCGA": [],
     "RTNsurvival": [],
@@ -713,7 +693,6 @@
     "GenomicTools": [],
     "spp": [],
     "propr": [],
-    "factoextra": [],
     "crisprScoreData": [
         "ExperimentHub",
         "AnnotationHub",
