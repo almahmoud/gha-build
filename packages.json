@@ -496,9 +496,7 @@
         "TCGAutils",
         "GenomicFeatures"
     ],
-    "CCPROMISE": [
-        "PROMISE"
-    ],
+    "CCPROMISE": [],
     "celda": [
         "scater"
     ],
@@ -3148,7 +3146,6 @@
     "pRolocGUI": [
         "pRoloc"
     ],
-    "PROMISE": [],
     "PROPS": [],
     "Prostar": [
         "DAPAR"
