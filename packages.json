@@ -557,9 +557,7 @@
     "CiteFuse": [
         "propr"
     ],
-    "cleanUpdTSeq": [
-        "BSgenome.Drerio.UCSC.danRer7"
-    ],
+    "cleanUpdTSeq": [],
     "clipper": [
         "qpgraph"
     ],
@@ -1623,8 +1621,7 @@
         "devtools"
     ],
     "InPAS": [
-        "cleanUpdTSeq",
-        "BSgenome.Drerio.UCSC.danRer7"
+        "cleanUpdTSeq"
     ],
     "INSPEcT": [
         "DESeq2",
@@ -3887,7 +3884,6 @@
     "TxDb.Celegans.UCSC.ce6.ensGene": [],
     "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [],
     "propr": [],
-    "BSgenome.Drerio.UCSC.danRer7": [],
     "factoextra": [
         "FactoMineR",
         "ggpubr",
