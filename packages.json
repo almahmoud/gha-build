@@ -584,7 +584,6 @@
         "ensembldb",
         "GenomicFeatures",
         "biomaRt",
-        "InteractionSet",
         "regioneR",
         "BiocFileCache",
         "AnnotationHub",
@@ -1509,7 +1508,6 @@
         "GenomicAlignments",
         "GenomicFiles",
         "Gviz",
-        "InteractionSet",
         "GenomicInteractions",
         "AnnotationDbi",
         "biomaRt",
@@ -2105,7 +2103,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "biomaRt",
-        "InteractionSet",
         "regioneR",
         "rtracklayer",
         "BiocFileCache",
@@ -2984,7 +2981,6 @@
         "patchwork",
         "BiocFileCache",
         "ensembldb",
-        "InteractionSet",
         "regioneR",
         "tensorflow",
         "haven",
@@ -3633,7 +3629,6 @@
         "ensembldb",
         "GenomicFeatures",
         "biomaRt",
-        "InteractionSet",
         "regioneR",
         "BiocFileCache",
         "BSgenome",
@@ -3740,7 +3735,6 @@
         "DRIMSeq"
     ],
     "diffHic": [
-        "InteractionSet",
         "BSgenome",
         "csaw",
         "rtracklayer",
@@ -4820,7 +4814,6 @@
         "ggrepel",
         "ggside",
         "Gviz",
-        "InteractionSet",
         "rtracklayer",
         "tidyr",
         "patchwork",
@@ -5574,7 +5567,6 @@
         "dbplyr"
     ],
     "GenomicInteractions": [
-        "InteractionSet",
         "rtracklayer",
         "Gviz",
         "biomaRt",
@@ -6194,7 +6186,6 @@
         "AnnotationDbi",
         "ensembldb",
         "biomaRt",
-        "InteractionSet",
         "regioneR",
         "keras",
         "haven",
@@ -6329,11 +6320,9 @@
         "readr"
     ],
     "HiCcompare": [
-        "InteractionSet",
         "QDNAseq"
     ],
     "HiCDCPlus": [
-        "InteractionSet",
         "GenomicInteractions",
         "BSgenome",
         "tidyr",
@@ -6352,7 +6341,6 @@
         "viridis"
     ],
     "HiCDOC": [
-        "InteractionSet",
         "ggpubr",
         "ggExtra",
         "multiHiCcompare",
@@ -6375,7 +6363,6 @@
     ],
     "HiContacts": [
         "HiContactsData",
-        "InteractionSet",
         "GenomicInteractions",
         "tidyr",
         "ggrastr",
@@ -6751,7 +6738,6 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "InteractionSet": [],
     "InteractiveComplexHeatmap": [
         "kableExtra"
     ],
@@ -9247,7 +9233,6 @@
     ],
     "multiHiCcompare": [
         "HiCcompare",
-        "InteractionSet",
         "QDNAseq"
     ],
     "multiMiR": [
@@ -9462,7 +9447,6 @@
         "GenomicFeatures",
         "Gviz",
         "AnnotationDbi",
-        "InteractionSet",
         "ensembldb",
         "biomaRt",
         "regioneR",
@@ -9787,7 +9771,6 @@
         "GenomicAlignments"
     ],
     "nullranges": [
-        "InteractionSet",
         "plyranges",
         "ggridges",
         "rtracklayer",
@@ -11604,7 +11587,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "biomaRt",
-        "InteractionSet",
         "regioneR",
         "BiocFileCache",
         "dbplyr"
@@ -13151,7 +13133,6 @@
         "annotate"
     ],
     "sevenC": [
-        "InteractionSet",
         "rtracklayer",
         "readr",
         "GenomicAlignments"
@@ -13759,7 +13740,6 @@
         "rtracklayer",
         "AnnotationDbi",
         "biomaRt",
-        "InteractionSet",
         "Gviz",
         "CNEr",
         "BiocFileCache",
@@ -13781,7 +13761,6 @@
     ],
     "SpectralTAD": [
         "HiCcompare",
-        "InteractionSet",
         "QDNAseq"
     ],
     "SPIAT": [
@@ -14336,7 +14315,6 @@
         "ggsci",
         "ggsignif",
         "rstatix",
-        "InteractionSet",
         "QDNAseq",
         "broom",
         "car",
@@ -14784,7 +14762,6 @@
         "Gviz",
         "rtracklayer",
         "AnnotationDbi",
-        "InteractionSet",
         "biomaRt",
         "ensembldb",
         "BSgenome",
@@ -15334,7 +15311,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "biomaRt",
-        "InteractionSet",
         "regioneR",
         "rtracklayer",
         "geneplotter",
