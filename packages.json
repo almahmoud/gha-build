@@ -1983,7 +1983,6 @@
         "DESeq2"
     ],
     "hiAnnotator": [],
-    "HiCBricks": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
