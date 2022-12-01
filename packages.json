@@ -1939,7 +1939,6 @@
         "FDb.InfiniumMethylation.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "MEDIPS": [],
     "MEDME": [
         "drc",
         "car",
