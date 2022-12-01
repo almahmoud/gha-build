@@ -50,7 +50,6 @@
         "MafDb.1Kgenomes.phase3.hs37d5",
         "MafDb.ExAC.r1.0.hs37d5",
         "MafDb.gnomADex.r2.1.hs37d5",
-        "PolyPhen.Hsapiens.dbSNP131",
         "GenomicScores",
         "AnnotationHub",
         "BiocVersion"
@@ -1423,7 +1422,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "PolyPhen.Hsapiens.dbSNP131": [],
     "mGSZ": [],
     "doBy": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [],
