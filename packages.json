@@ -3207,7 +3207,6 @@
     "MineICA": [
         "GOstats",
         "lumi",
-        "lumiHumanAll.db",
         "Category",
         "methylumi",
         "GenomicFeatures",
@@ -6218,7 +6217,6 @@
         "OrganismDbi"
     ],
     "HardyWeinberg": [],
-    "lumiHumanAll.db": [],
     "BSgenome.Hsapiens.UCSC.hg18": [
         "BSgenome"
     ],
