@@ -3565,7 +3565,6 @@
     "BLMA": [
         "ROntoTools",
         "PADOG",
-        "KEGGdzPathwaysGEO",
         "AnnotationDbi",
         "hgu133plus2.db",
         "hgu133a.db",
@@ -11030,7 +11029,6 @@
         "BiocSingular",
         "TFisher",
         "mutoss",
-        "KEGGdzPathwaysGEO",
         "hgu133plus2.db",
         "hgu133a.db",
         "KEGGgraph",
@@ -15780,7 +15778,6 @@
         "BiocParallel",
         "EnrichmentBrowser",
         "ExperimentHub",
-        "KEGGdzPathwaysGEO",
         "RSQLite",
         "KEGGREST",
         "BiocVersion",
@@ -26157,7 +26154,6 @@
         "rematch2"
     ],
     "PADOG": [
-        "KEGGdzPathwaysGEO",
         "AnnotationDbi",
         "hgu133plus2.db",
         "hgu133a.db",
@@ -42151,7 +42147,6 @@
         "pillar",
         "tidyselect"
     ],
-    "KEGGdzPathwaysGEO": [],
     "hgu133plus2.db": [
         "AnnotationDbi",
         "org.Hs.eg.db",
