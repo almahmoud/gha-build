@@ -707,7 +707,6 @@
         "dearseq",
         "corncob",
         "ggridges",
-        "tidytext",
         "mia",
         "DescTools",
         "Hmisc",
@@ -5303,7 +5302,6 @@
         "org.Hs.eg.db"
     ],
     "GSEAmining": [
-        "tidytext",
         "dendextend",
         "ggwordcloud",
         "viridis"
@@ -5584,8 +5582,7 @@
         "annotate"
     ],
     "HubPub": [
-        "available",
-        "tidytext"
+        "available"
     ],
     "HumanTranscriptomeCompendium": [],
     "hypeR": [
@@ -13718,7 +13715,6 @@
     "corncob": [
         "phyloseq"
     ],
-    "tidytext": [],
     "sjmisc": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
@@ -14313,9 +14309,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "available": [
-        "tidytext"
-    ],
+    "available": [],
     "biclust": [
         "tidyr"
     ],
