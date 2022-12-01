@@ -1454,7 +1454,6 @@
         "DelayedArray",
         "tidyr",
         "purrr",
-        "gridSVG",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -2396,7 +2395,6 @@
         "beadarray",
         "Biobase",
         "genefilter",
-        "gridSVG",
         "Hmisc",
         "latticeExtra",
         "vsn",
@@ -31907,7 +31905,6 @@
         "shiny",
         "ggplot2",
         "reshape2",
-        "gridSVG",
         "Category",
         "AnnotationDbi",
         "Biobase",
@@ -39200,7 +39197,6 @@
         "Wrench",
         "ade4",
         "igraph",
-        "gridSVG",
         "shiny",
         "ellipsis",
         "sp",
@@ -74606,7 +74602,6 @@
     ],
     "plotROC": [
         "ggplot2",
-        "gridSVG",
         "shiny",
         "lifecycle",
         "mgcv",
@@ -74683,7 +74678,6 @@
         "stable",
         "statip"
     ],
-    "gridSVG": [],
     "reticulate": [
         "Matrix",
         "RcppTOML",
