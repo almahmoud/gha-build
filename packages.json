@@ -51,7 +51,6 @@
         "waldo",
         "broom",
         "car",
-        "rematch2",
         "pbkrtest",
         "lme4",
         "nloptr"
@@ -246,8 +245,7 @@
         "ggrastr",
         "ggrepel",
         "waldo",
-        "tidytree",
-        "rematch2"
+        "tidytree"
     ],
     "AneuFinder": [
         "cowplot",
@@ -463,8 +461,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "ASICS": [
         "PepsNMR",
@@ -499,8 +496,7 @@
         "nloptr",
         "viridis",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "ASpli": [
         "AnnotationDbi",
@@ -575,8 +571,7 @@
         "tidyr",
         "BiocFileCache",
         "GenomicAlignments",
-        "annotate",
-        "rematch2"
+        "annotate"
     ],
     "ATACseqQC": [
         "BSgenome",
@@ -633,7 +628,6 @@
         "waldo",
         "GenomicAlignments",
         "CNEr",
-        "rematch2",
         "readr",
         "annotate",
         "GO.db",
@@ -673,8 +667,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "bacon": [],
     "BadRegionFinder": [
@@ -875,8 +868,7 @@
         "tidytree",
         "ggbeeswarm",
         "ggrastr",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "BgeeCall": [
         "GenomicFeatures",
@@ -1001,8 +993,7 @@
         "treeio",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "BiocCheck": [],
     "BiocDockerManager": [
@@ -1045,8 +1036,7 @@
         "GenomicAlignments",
         "dbplyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "BioCor": [
         "GSEABase",
@@ -1073,80 +1063,70 @@
         "BiocFileCache",
         "testthat",
         "dbplyr",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "biodbChebi": [
         "biodb",
         "BiocFileCache",
         "testthat",
         "dbplyr",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "biodbExpasy": [
         "biodb",
         "BiocFileCache",
         "testthat",
         "dbplyr",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "biodbHmdb": [
         "biodb",
         "testthat",
         "BiocFileCache",
         "waldo",
-        "dbplyr",
-        "rematch2"
+        "dbplyr"
     ],
     "biodbKegg": [
         "biodb",
         "BiocFileCache",
         "testthat",
         "dbplyr",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "biodbLipidmaps": [
         "biodb",
         "BiocFileCache",
         "testthat",
         "dbplyr",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "biodbMirbase": [
         "biodb",
         "BiocFileCache",
         "testthat",
         "dbplyr",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "biodbNcbi": [
         "biodb",
         "BiocFileCache",
         "testthat",
         "dbplyr",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "biodbNci": [
         "biodb",
         "testthat",
         "BiocFileCache",
         "waldo",
-        "dbplyr",
-        "rematch2"
+        "dbplyr"
     ],
     "biodbUniprot": [
         "biodb",
         "BiocFileCache",
         "testthat",
         "dbplyr",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "biomaRt": [
         "AnnotationDbi",
@@ -1325,8 +1305,7 @@
         "waldo",
         "BiocVersion",
         "AnnotationDbi",
-        "dbplyr",
-        "rematch2"
+        "dbplyr"
     ],
     "bnbc": [
         "sva",
@@ -1479,8 +1458,7 @@
     "BUMHMM": [
         "devtools",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "bumphunter": [
         "GenomicFeatures",
@@ -1668,8 +1646,7 @@
         "nloptr",
         "broom",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "Category": [
         "AnnotationDbi",
@@ -1822,8 +1799,7 @@
         "broom",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "CellMixS": [
         "scater",
@@ -1907,7 +1883,6 @@
         "rstatix",
         "waldo",
         "car",
-        "rematch2",
         "pbkrtest"
     ],
     "Cepo": [
@@ -1971,8 +1946,7 @@
         "treeio",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "CexoR": [
         "rtracklayer",
@@ -2475,8 +2449,7 @@
         "CellNOptR",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "CNORode": [
         "CellNOptR"
@@ -2533,8 +2506,7 @@
         "exomeCopy",
         "testthat",
         "shinyFiles",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "CNVRanger": [
         "GDSArray"
@@ -2585,8 +2557,7 @@
         "tidyr",
         "devtools",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "cogeqc": [
         "ggtree",
@@ -2661,8 +2632,7 @@
         "nloptr",
         "testthat",
         "GenomicAlignments",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "compartmap": [
         "rtracklayer",
@@ -2757,8 +2727,7 @@
         "broom",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "condiments": [
         "slingshot",
@@ -3192,8 +3161,7 @@
         "broom",
         "viridis",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "cydar": [
         "viridis"
@@ -3226,8 +3194,7 @@
         "ipred",
         "pbkrtest",
         "broom",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "CytoGLMM": [
         "cowplot",
@@ -3251,8 +3218,7 @@
         "pbkrtest",
         "testthat",
         "broom",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "cytoKernel": [],
     "cytomapper": [
@@ -3334,8 +3300,7 @@
         "dbplyr",
         "testthat",
         "broom",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "DAPAR": [
         "MSnbase",
@@ -3370,8 +3335,7 @@
         "pbkrtest",
         "lme4",
         "waldo",
-        "nloptr",
-        "rematch2"
+        "nloptr"
     ],
     "dce": [
         "tidyverse",
@@ -3399,7 +3363,6 @@
         "modelr",
         "readr",
         "readxl",
-        "rematch2",
         "ggdendro"
     ],
     "ddPCRclust": [
@@ -3416,8 +3379,7 @@
         "tidyr",
         "viridis",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "dearseq": [
         "patchwork",
@@ -3510,8 +3472,7 @@
         "nloptr",
         "GenomicAlignments",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "decoupleR": [
         "broom",
@@ -3694,8 +3655,7 @@
         "nloptr",
         "broom",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "DEsubs": [
         "EBSeq",
@@ -3706,8 +3666,7 @@
         "qvalue",
         "annotate",
         "AnnotationDbi",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "DEWSeq": [
         "DESeq2",
@@ -3774,8 +3733,7 @@
         "broom",
         "car",
         "waldo",
-        "pbkrtest",
-        "rematch2"
+        "pbkrtest"
     ],
     "DifferentialRegulation": [
         "BANDITS",
@@ -3860,8 +3818,7 @@
         "GenomicAlignments",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "DMCHMM": [
         "rtracklayer",
@@ -3978,8 +3935,7 @@
         "broom",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "DOSE": [
         "AnnotationDbi",
@@ -3994,8 +3950,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "dpeak": [
         "BSgenome",
@@ -4079,8 +4034,7 @@
         "dbplyr",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "EasyCellType": [
         "clusterProfiler",
@@ -4129,14 +4083,12 @@
     ],
     "EBSeq": [
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "EBSeqHMM": [
         "EBSeq",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "EDASeq": [
         "ShortRead",
@@ -4158,8 +4110,7 @@
         "annotate",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "eegc": [
         "sna",
@@ -4259,8 +4210,7 @@
         "viridis",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "EMDomics": [],
     "EnhancedVolcano": [
@@ -4385,8 +4335,7 @@
         "treeio",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "ensembldb": [
         "GenomicFeatures",
@@ -4470,8 +4419,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "epigenomix": [
         "beadarray",
@@ -4496,8 +4444,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "epihet": [
         "EntropyExplorer",
@@ -4802,8 +4749,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "ExCluster": [
         "rtracklayer",
@@ -5135,8 +5081,7 @@
         "tidyr",
         "viridis",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "flowDensity": [
         "car",
@@ -5151,8 +5096,7 @@
         "tidyr",
         "viridis",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "flowGraph": [
         "ggiraph",
@@ -5166,8 +5110,7 @@
         "broom",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "FlowSOM": [
         "ggforce",
@@ -5185,8 +5128,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "flowSpecs": [],
     "flowStats": [
@@ -5261,8 +5203,7 @@
         "broom",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "FRGEpistasis": [
         "fda",
@@ -5316,8 +5257,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "GA4GHclient": [
         "VariantAnnotation",
@@ -5378,7 +5318,6 @@
         "ipred",
         "tidyr",
         "GenomicAlignments",
-        "rematch2",
         "dbplyr",
         "broom"
     ],
@@ -5395,8 +5334,7 @@
     "GCSscore": [
         "devtools",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "GDCRNATools": [
         "DESeq2",
@@ -5449,8 +5387,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "GDSArray": [],
     "GEM": [],
@@ -5487,8 +5424,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "geneAttribution": [
         "org.Hs.eg.db",
@@ -5525,8 +5461,7 @@
         "broom",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "GeneMeta": [
         "genefilter",
@@ -5698,8 +5633,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "genotypeeval": [
         "VariantAnnotation",
@@ -5753,8 +5687,7 @@
         "ggiraph",
         "ggthemes",
         "waldo",
-        "tidyr",
-        "rematch2"
+        "tidyr"
     ],
     "GEOexplorer": [
         "plotly",
@@ -5782,8 +5715,7 @@
         "broom",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "GEOfastq": [],
     "GEOmetadb": [
@@ -5804,8 +5736,7 @@
         "ggthemes",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "GEOquery": [
         "readr",
@@ -5836,8 +5767,7 @@
         "broom",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "ggbio": [
         "Hmisc",
@@ -5967,8 +5897,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "GlobalAncova": [
         "globaltest",
@@ -6178,8 +6107,7 @@
         "nloptr",
         "broom",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "groHMM": [
         "GenomicAlignments",
@@ -6189,8 +6117,7 @@
     "gscreend": [
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "GSEABase": [
         "annotate",
@@ -6444,8 +6371,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "HiContacts": [
         "HiContactsData",
@@ -6705,8 +6631,7 @@
         "BiocFileCache",
         "testthat",
         "dbplyr",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "imcRtools": [
         "SpatialExperiment",
@@ -6746,8 +6671,7 @@
     "INDEED": [
         "devtools",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "infercnv": [
         "coin",
@@ -6806,8 +6730,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "intansv": [
         "ggbio",
@@ -6868,8 +6791,7 @@
         "broom",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "IntEREst": [
         "GenomicFeatures",
@@ -6910,8 +6832,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "ipdDb": [
         "AnnotationDbi",
@@ -6980,8 +6901,7 @@
         "treeio",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "ISAnalytics": [
         "readr",
@@ -7095,8 +7015,7 @@
         "testthat",
         "GenomicAlignments",
         "dbplyr",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "ivygapSE": [
         "survminer",
@@ -7117,8 +7036,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "IWTomics": [
         "fda",
@@ -7200,8 +7118,7 @@
         "nloptr",
         "GenomicAlignments",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "KnowSeq": [
         "caret",
@@ -7229,8 +7146,7 @@
     ],
     "LedPred": [
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "lefser": [
         "coin"
@@ -7238,8 +7154,7 @@
     "levi": [
         "shinydashboard",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "LineagePulse": [],
     "lineagespot": [
@@ -7272,8 +7187,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "Linnorm": [
         "ggdendro"
@@ -7322,8 +7236,7 @@
         "scuttle",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "LOBSTAHS": [
         "xcms",
@@ -7435,8 +7348,7 @@
         "testthat",
         "broom",
         "tidyr",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "Macarron": [
         "WGCNA",
@@ -7455,8 +7367,7 @@
         "testthat",
         "broom",
         "tidyr",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "macat": [
         "annotate",
@@ -7567,7 +7478,6 @@
         "readr",
         "readxl",
         "tidyr",
-        "rematch2",
         "ipred"
     ],
     "MAIT": [
@@ -7653,8 +7563,7 @@
         "AnnotationDbi",
         "annotate",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "mbkmeans": [
         "ClusterR",
@@ -7799,15 +7708,13 @@
         "broom",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "megadepth": [
         "readr",
         "cmdfun",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "MEIGOR": [
         "CNORode",
@@ -7826,8 +7733,7 @@
         "tidyr",
         "universalmotif",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "MeSHDbi": [
         "AnnotationDbi"
@@ -7932,8 +7838,7 @@
         "GenomicAlignments",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "MetaCyto": [
         "tidyr",
@@ -7952,8 +7857,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "metagene": [
         "rtracklayer",
@@ -8116,8 +8020,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "methrix": [
         "rtracklayer",
@@ -8198,7 +8101,6 @@
         "GenomicFeatures",
         "AnnotationHubData",
         "annotate",
-        "rematch2",
         "car",
         "waldo",
         "rtracklayer",
@@ -8332,8 +8234,7 @@
         "devtools",
         "ChemmineR",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "MetNet": [
         "GENIE3",
@@ -8429,8 +8330,7 @@
         "AnnotationDbi",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "microbiomeMarker": [
         "phyloseq",
@@ -8472,8 +8372,7 @@
         "ggbeeswarm",
         "ggrastr",
         "ggrepel",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler",
@@ -8562,8 +8461,7 @@
     "MIMOSA": [
         "testthat",
         "tidyr",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "mina": [
         "Hmisc",
@@ -8737,7 +8635,6 @@
         "patchwork",
         "tidytree",
         "treeio",
-        "rematch2",
         "nloptr",
         "ipred",
         "car",
@@ -8801,7 +8698,6 @@
         "patchwork",
         "tidytree",
         "treeio",
-        "rematch2",
         "nloptr",
         "ipred",
         "car",
@@ -8888,8 +8784,7 @@
         "annotate",
         "AnnotationDbi",
         "ipred",
-        "tidyr",
-        "rematch2"
+        "tidyr"
     ],
     "MMDiff2": [
         "BSgenome",
@@ -8909,8 +8804,7 @@
         "nloptr",
         "testthat",
         "broom",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "mnem": [
         "Linnorm",
@@ -9096,8 +8990,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "MSA2dist": [
         "tidyr"
@@ -9177,8 +9070,7 @@
         "nloptr",
         "broom",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "msPurity": [
         "dbplyr"
@@ -9191,16 +9083,14 @@
         "tidyr",
         "plotly",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "MSstats": [
         "lme4",
         "ggrepel",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "MSstatsLiP": [
         "MSstats",
@@ -9228,7 +9118,6 @@
         "readxl",
         "viridis",
         "car",
-        "rematch2",
         "nloptr",
         "lmerTest",
         "pbkrtest",
@@ -9244,8 +9133,7 @@
         "lmerTest",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "MSstatsQC": [
         "plotly",
@@ -9274,8 +9162,7 @@
         "ipred",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "MSstatsShiny": [
         "shinyBS",
@@ -9290,8 +9177,7 @@
         "lmerTest",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "MSstatsTMT": [
         "lme4",
@@ -9300,8 +9186,7 @@
         "nloptr",
         "ggrepel",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "MuData": [
         "MultiAssayExperiment",
@@ -9420,8 +9305,7 @@
         "ipred",
         "plotly",
         "cowplot",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "mumosa": [
         "scuttle",
@@ -9461,8 +9345,7 @@
         "testthat",
         "broom",
         "tidyr",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "musicatk": [
         "NMF",
@@ -9509,8 +9392,7 @@
         "broom",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "MutationalPatterns": [
         "NMF",
@@ -9537,8 +9419,7 @@
         "broom",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "mygene": [
         "GenomicFeatures",
@@ -9635,8 +9516,7 @@
         "modelr",
         "readr",
         "readxl",
-        "tidyr",
-        "rematch2"
+        "tidyr"
     ],
     "NanoTube": [
         "fgsea",
@@ -9658,8 +9538,7 @@
         "broom",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "ncGTW": [
         "xcms",
@@ -9855,8 +9734,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "NoRCE": [
         "tidyr",
@@ -9888,8 +9766,7 @@
         "broom",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "normr": [
         "qvalue",
@@ -9989,8 +9866,7 @@
         "lme4",
         "waldo",
         "BSgenome",
-        "nloptr",
-        "rematch2"
+        "nloptr"
     ],
     "odseq": [],
     "OGRE": [
@@ -10062,8 +9938,7 @@
         "tidyr",
         "pbkrtest",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "OmicsLonDA": [],
     "OMICsPCA": [
@@ -10097,8 +9972,7 @@
         "broom",
         "dbplyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "omicsPrint": [
         "MultiAssayExperiment",
@@ -10126,8 +10000,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "Omixer": [
         "readr"
@@ -10158,8 +10031,7 @@
         "broom",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "oneSENSE": [
         "shinyFiles",
@@ -10202,8 +10074,7 @@
         "nloptr",
         "broom",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "oposSOM": [
         "biomaRt",
@@ -10220,8 +10091,7 @@
     "oppti": [
         "devtools",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "optimalFlow": [],
     "OPWeight": [
@@ -10293,14 +10163,12 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "Oscope": [
         "EBSeq",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "OTUbase": [
         "ShortRead",
@@ -10341,8 +10209,7 @@
         "nloptr",
         "broom",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "PADOG": [
         "AnnotationDbi",
@@ -10365,8 +10232,7 @@
     "PAIRADISE": [
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "pandaR": [],
     "panelcn.mops": [
@@ -10432,8 +10298,7 @@
         "testthat",
         "cowplot",
         "GO.db",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "parglms": [
         "BatchJobs"
@@ -10454,8 +10319,7 @@
         "testthat",
         "annotate",
         "AnnotationDbi",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "pathRender": [
         "AnnotationDbi"
@@ -10533,8 +10397,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "pdInfoBuilder": [
         "oligo",
@@ -10638,8 +10501,7 @@
         "BiocFileCache",
         "testthat",
         "dbplyr",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "phenopath": [
         "tidyr"
@@ -10668,8 +10530,7 @@
         "broom",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "philr": [
         "tidyr",
@@ -10705,8 +10566,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "PhyloProfile": [
         "BiocStyle",
@@ -10860,8 +10720,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "plyranges": [
         "rtracklayer",
@@ -10871,8 +10730,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "pmp": [],
     "PoDCall": [
@@ -11037,8 +10895,7 @@
         "annotate",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "procoil": [],
     "proFIA": [
@@ -11235,8 +11092,7 @@
         "broom",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "psichomics": [
         "shinyBS",
@@ -11301,8 +11157,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "puma": [
         "oligo",
@@ -11324,8 +11179,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "Pviz": [
         "Gviz",
@@ -11388,8 +11242,7 @@
         "nloptr",
         "broom",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "qpgraph": [
         "annotate",
@@ -11422,7 +11275,6 @@
         "biomaRt",
         "viridis",
         "BSgenome",
-        "rematch2",
         "BiocFileCache",
         "dbplyr"
     ],
@@ -11549,8 +11401,7 @@
     "RAREsim": [
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "RareVariantVis": [
         "VariantAnnotation",
@@ -11930,8 +11781,7 @@
         "tidyr",
         "pbkrtest",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "rfaRm": [],
     "Rfastp": [],
@@ -12097,8 +11947,7 @@
         "broom",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "RImmPort": [
         "sqldf"
@@ -12202,7 +12051,6 @@
         "waldo",
         "BiocFileCache",
         "GenomicAlignments",
-        "rematch2",
         "dbplyr"
     ],
     "rmspc": [
@@ -12234,8 +12082,7 @@
     "RNAdecay": [
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "rnaEditr": [
         "bumphunter",
@@ -12387,8 +12234,7 @@
         "nloptr",
         "broom",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "RnaSeqSampleSize": [
         "biomaRt",
@@ -12422,8 +12268,7 @@
         "nloptr",
         "BSgenome",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "RnBeads": [
         "fields",
@@ -12508,8 +12353,7 @@
         "ggrepel",
         "broom",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "rqubic": [
         "biclust",
@@ -12546,8 +12390,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "RTCGAToolbox": [
         "TCGAutils",
@@ -12571,8 +12414,7 @@
         "broom",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "RTNduals": [
         "RTN",
@@ -12583,8 +12425,7 @@
         "broom",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "RTNsurvival": [
         "RTN",
@@ -12597,8 +12438,7 @@
         "broom",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "Rtpca": [
         "tidyr"
@@ -12626,8 +12466,7 @@
         "biclust",
         "testthat",
         "tidyr",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "RUVSeq": [
         "EDASeq",
@@ -12869,15 +12708,13 @@
         "viridis",
         "scuttle",
         "nloptr",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "scDDboost": [
         "EBSeq",
         "Oscope",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "scds": [],
     "scFeatureFilter": [],
@@ -13014,8 +12851,7 @@
         "ggrastr",
         "ggrepel",
         "waldo",
-        "dbplyr",
-        "rematch2"
+        "dbplyr"
     ],
     "scran": [
         "scuttle"
@@ -13378,8 +13214,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "SICtools": [],
     "SigCheck": [
@@ -13466,8 +13301,7 @@
         "car",
         "waldo",
         "pbkrtest",
-        "lme4",
-        "rematch2"
+        "lme4"
     ],
     "signifinder": [
         "org.Hs.eg.db",
@@ -13510,8 +13344,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "SigsPack": [
         "BSgenome",
@@ -13761,8 +13594,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "SNPhood": [
         "DESeq2",
@@ -13880,8 +13712,7 @@
         "ggthemes",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "SpatialExperiment": [
         "DropletUtils",
@@ -13982,8 +13813,7 @@
         "dbplyr",
         "scuttle",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "SpidermiR": [
         "miRNAtap",
@@ -14087,7 +13917,6 @@
         "modelr",
         "readr",
         "readxl",
-        "rematch2",
         "nloptr",
         "ipred",
         "car",
@@ -14156,8 +13985,7 @@
         "annotate",
         "waldo",
         "dbplyr",
-        "viridis",
-        "rematch2"
+        "viridis"
     ],
     "sSNAPPY": [
         "graphite",
@@ -14253,8 +14081,7 @@
         "haven",
         "modelr",
         "readr",
-        "readxl",
-        "rematch2"
+        "readxl"
     ],
     "STdeconvolve": [
         "scatterpie",
@@ -14329,8 +14156,7 @@
     "Summix": [
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "supersigs": [
         "caret",
@@ -14350,8 +14176,7 @@
         "AnnotationDbi",
         "BiocFileCache",
         "waldo",
-        "dbplyr",
-        "rematch2"
+        "dbplyr"
     ],
     "survcomp": [
         "ipred"
@@ -14373,8 +14198,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "sva": [
         "genefilter",
@@ -14443,7 +14267,6 @@
         "pbkrtest",
         "lme4",
         "viridis",
-        "rematch2",
         "nloptr",
         "testthat",
         "waldo"
@@ -14459,8 +14282,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "syntenet": [
         "rtracklayer",
@@ -14470,8 +14292,7 @@
         "ggrepel",
         "sna",
         "GenomicAlignments",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "systemPipeR": [
         "ShortRead",
@@ -14523,8 +14344,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "tanggle": [
         "ggtree",
@@ -14562,8 +14382,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "TarSeqQC": [
         "cowplot",
@@ -14669,8 +14488,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "TCGAutils": [
         "AnnotationDbi",
@@ -14917,8 +14735,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "TOAST": [
         "tidyr",
@@ -15076,7 +14893,6 @@
         "waldo",
         "broom",
         "car",
-        "rematch2",
         "pbkrtest"
     ],
     "TreeSummarizedExperiment": [
@@ -15330,8 +15146,7 @@
         "broom",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "VariantAnnotation": [
         "AnnotationDbi",
@@ -15541,8 +15356,7 @@
         "EnvStats",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "wateRmelon": [
         "methylumi",
@@ -15701,8 +15515,7 @@
         "org.Hs.eg.db",
         "broom",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "zFPKM": [
         "tidyr"
@@ -15735,13 +15548,11 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "ggsignif": [],
     "testthat": [
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "ggsci": [],
     "cowplot": [],
@@ -15753,12 +15564,9 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
-    "waldo": [
-        "rematch2"
-    ],
+    "waldo": [],
     "broom": [
         "tidyr"
     ],
@@ -15769,29 +15577,24 @@
         "broom",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
-    "rematch2": [],
     "pbkrtest": [
         "lme4",
         "broom",
         "tidyr",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "lme4": [
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "nloptr": [
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "adductData": [
         "ExperimentHub",
@@ -15839,8 +15642,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "tidytree": [
         "tidyr"
@@ -16014,8 +15816,7 @@
         "modelr",
         "readr",
         "readxl",
-        "tidyr",
-        "rematch2"
+        "tidyr"
     ],
     "Mus.musculus": [
         "AnnotationDbi",
@@ -16059,9 +15860,7 @@
         "dbplyr"
     ],
     "dtplyr": [],
-    "googlesheets4": [
-        "rematch2"
-    ],
+    "googlesheets4": [],
     "haven": [
         "readr"
     ],
@@ -16079,8 +15878,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "pRolocdata": [
         "MSnbase",
@@ -16144,8 +15942,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "org.Bt.eg.db": [
         "AnnotationDbi"
@@ -16278,8 +16075,7 @@
     ],
     "devtools": [
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "ggtext": [],
     "vcfR": [],
@@ -16292,8 +16088,7 @@
         "broom",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "IRkernel": [],
     "enrichR": [],
@@ -16307,8 +16102,7 @@
         "broom",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "EnvStats": [],
     "ggpmisc": [
@@ -16506,8 +16300,7 @@
         "broom",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "Ecume": [
         "spatstat",
@@ -16602,15 +16395,13 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "arm": [
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "DAPARdata": [
         "MSnbase",
@@ -16618,8 +16409,7 @@
     ],
     "cmdfun": [
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "metap": [
         "TFisher",
@@ -16635,8 +16425,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "webchem": [],
     "textstem": [
@@ -16667,8 +16456,7 @@
         "broom",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "NBPSeq": [
         "qvalue"
@@ -16753,8 +16541,7 @@
         "broom",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "FCPS": [
         "DataVisualizations"
@@ -16776,8 +16563,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "survMisc": [],
     "logistf": [
@@ -16873,8 +16659,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "cplm": [],
     "bigstatsr": [
@@ -17030,8 +16815,7 @@
         "nloptr",
         "ipred",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "MetBrewer": [],
     "groupdata2": [
@@ -17048,15 +16832,13 @@
     "anyLib": [
         "devtools",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "blme": [
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "deconstructSigs": [
         "BSgenome",
@@ -17085,8 +16867,7 @@
         "broom",
         "tidyr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "NxtIRFdata": [
         "ExperimentHub",
@@ -17126,8 +16907,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "summarytools": [
         "tidyr"
@@ -17136,8 +16916,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "biomartr": [
         "biomaRt",
@@ -17321,8 +17100,7 @@
         "lme4",
         "nloptr",
         "testthat",
-        "waldo",
-        "rematch2"
+        "waldo"
     ],
     "tidytidbits": [
         "tidyr"
