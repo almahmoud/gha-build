@@ -14236,7 +14236,6 @@
         "tidyr",
         "GenomicAlignments"
     ],
-    "SplicingFactory": [],
     "SplicingGraphs": [
         "GenomicFeatures",
         "GenomicAlignments",
