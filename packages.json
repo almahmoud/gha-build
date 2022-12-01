@@ -61462,7 +61462,6 @@
         "lifecycle"
     ],
     "semisup": [],
-    "SEPIRA": [],
     "seq2pathway": [
         "WGCNA",
         "biomaRt",
