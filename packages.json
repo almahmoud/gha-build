@@ -4738,7 +4738,6 @@
         "GenomicAlignments",
         "broom"
     ],
-    "GateFinder": [],
     "GBScleanR": [
         "tidyr"
     ],
