@@ -110430,7 +110430,6 @@
         "stabledist",
         "mvtnorm",
         "pcaPP",
-        "pspline",
         "numDeriv",
         "S4Vectors",
         "IRanges",
@@ -158685,10 +158684,8 @@
         "stabledist",
         "mvtnorm",
         "pcaPP",
-        "pspline",
         "numDeriv"
     ],
-    "pspline": [],
     "proxyC": [
         "Matrix",
         "Rcpp",
