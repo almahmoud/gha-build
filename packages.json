@@ -4479,7 +4479,6 @@
         "tidyr",
         "ggcorrplot",
         "ggraph",
-        "maftools",
         "tidygraph",
         "tibble",
         "tidyselect",
@@ -13659,7 +13658,6 @@
     ],
     "katdetectr": [
         "dplyr",
-        "maftools",
         "tibble",
         "VariantAnnotation",
         "ggplot2",
@@ -14329,7 +14327,6 @@
         "blob",
         "dbplyr"
     ],
-    "maftools": [],
     "MAGAR": [
         "HDF5Array",
         "RnBeads",
@@ -18009,7 +18006,6 @@
         "factoextra",
         "shinydashboard",
         "sortable",
-        "maftools",
         "shiny",
         "shinyjs",
         "shinyalert",
@@ -27980,7 +27976,6 @@
         "shiny",
         "plotly",
         "readr",
-        "maftools",
         "SummarizedExperiment",
         "ggrepel",
         "caret",
