@@ -51821,7 +51821,6 @@
         "stringi",
         "withr"
     ],
-    "genoCN": [],
     "genomation": [
         "Biostrings",
         "BSgenome",
