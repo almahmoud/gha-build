@@ -5141,7 +5141,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "SpeCond": [],
     "SPIAT": [
         "SpatialExperiment"
     ],
