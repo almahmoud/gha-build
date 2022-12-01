@@ -4523,7 +4523,6 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "copynumber": [],
     "CopyNumberPlots": [
         "karyoploteR",
         "regioneR",
