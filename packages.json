@@ -58607,7 +58607,6 @@
     "qckitfastq": [
         "ggplot2",
         "dplyr",
-        "seqTools",
         "reshape2",
         "RSeqAn",
         "lifecycle",
@@ -69290,7 +69289,6 @@
         "later",
         "triebeard"
     ],
-    "seqTools": [],
     "SeqVarTools": [
         "SeqArray",
         "Biobase",
