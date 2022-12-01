@@ -732,7 +732,6 @@
     ],
     "BiocSet": [],
     "BiocVersion": [],
-    "BiocWorkflowTools": [],
     "biodb": [
         "BiocFileCache",
         "testthat",
