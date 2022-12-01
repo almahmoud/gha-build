@@ -281,8 +281,7 @@
     ],
     "BitSeq": [],
     "blacksheepr": [
-        "pasilla",
-        "DEXSeq"
+        "pasilla"
     ],
     "BloodGen3Module": [
         "ExperimentHub",
@@ -791,7 +790,6 @@
     ],
     "DEsubs": [],
     "DExMA": [],
-    "DEXSeq": [],
     "DiffBind": [],
     "diffcyt": [
         "FlowSOM",
@@ -802,9 +800,7 @@
         "car",
         "pbkrtest"
     ],
-    "diffUTR": [
-        "DEXSeq"
-    ],
+    "diffUTR": [],
     "distinct": [
         "scater"
     ],
@@ -1459,9 +1455,7 @@
         "lme4",
         "nloptr"
     ],
-    "IntEREst": [
-        "DEXSeq"
-    ],
+    "IntEREst": [],
     "iPath": [
         "ggpubr",
         "survminer",
@@ -1499,7 +1493,6 @@
     ],
     "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
-        "DEXSeq",
         "tximeta",
         "AnnotationHub",
         "BiocVersion"
@@ -3437,9 +3430,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "pasilla": [
-        "DEXSeq"
-    ],
+    "pasilla": [],
     "GenomicState": [
         "AnnotationHub",
         "bumphunter",
