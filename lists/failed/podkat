@@ -1,0 +1,34 @@
++ '[' 0 = 0 ']'
+++ pwd
++ Rscript -e 'p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); install.packages('\''/__w/gha-build/gha-build/podkat'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE, type = '\''source'\'', repos = NULL); if('\''podkat'\'' %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+Installing package into ‘/__w/gha-build/gha-build/built’
+(as ‘lib’ is unspecified)
+* installing *source* package ‘podkat’ ...
+** using staged installation
+** libs
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_podkat.cpp -o R_init_podkat.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c bernoulliExact.cpp -o bernoulliExact.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c checkAndFixGenotype.cpp -o checkAndFixGenotype.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c cumMax.cpp -o cumMax.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c doubleMale.cpp -o doubleMale.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c kernels.cpp -o kernels.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c pValues.cpp -o pValues.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c partitionRegions.cpp -o partitionRegions.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c qfc.cpp -o qfc.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c readGenotypeMatrix.cpp -o readGenotypeMatrix.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c readVariantInfo.cpp -o readVariantInfo.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o podkat.so R_init_podkat.o bernoulliExact.o checkAndFixGenotype.o cumMax.o doubleMale.o kernels.o pValues.o partitionRegions.o qfc.o readGenotypeMatrix.o readVariantInfo.o /__w/gha-build/gha-build/built/Rhtslib/usrlib/libhts.a -lcurl -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-podkat/00new/podkat/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Error in loadNamespace(j <- i[[1L]], c(lib.loc, .libPaths()), versionCheck = vI[[j]]) : 
+  namespace ‘stats’ 4.2.2 is already loaded, but >= 4.3.0 is required
+Calls: <Anonymous> ... namespaceImportFrom -> asNamespace -> loadNamespace
+Execution halted
+ERROR: lazy loading failed for package ‘podkat’
+* removing ‘/__w/gha-build/gha-build/built/podkat’
+Warning message:
+In install.packages("/__w/gha-build/gha-build/podkat", INSTALL_opts = "--build",  :
+  installation of package ‘/__w/gha-build/gha-build/podkat’ had non-zero exit status
