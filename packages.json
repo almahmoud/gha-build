@@ -2634,7 +2634,6 @@
     "GOTHiC": [
         "BSgenome"
     ],
-    "gpuMagic": [],
     "GRaNIE": [
         "DESeq2",
         "biomaRt",
