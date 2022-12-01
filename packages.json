@@ -1021,7 +1021,6 @@
         "baseline",
         "vctrs",
         "BiocParallel",
-        "limSolve",
         "futile.logger",
         "lifecycle",
         "pillar",
@@ -4594,7 +4593,6 @@
         "hyperdraw",
         "LIM",
         "hypergraph",
-        "limSolve",
         "graph",
         "Rgraphviz"
     ],
@@ -16476,7 +16474,6 @@
         "tidyselect"
     ],
     "DeconRNASeq": [
-        "limSolve",
         "pcaMethods",
         "ggplot2",
         "lifecycle",
@@ -19201,7 +19198,6 @@
         "cowplot",
         "ggsignif",
         "decoupleR",
-        "limSolve",
         "gplots",
         "broom",
         "car",
@@ -27760,7 +27756,6 @@
         "dtangle",
         "ggplot2",
         "ggplotify",
-        "limSolve",
         "pheatmap",
         "purrr",
         "tibble",
@@ -42957,7 +42952,6 @@
         "motifStack",
         "preseqR",
         "edgeR",
-        "limSolve",
         "Matrix",
         "BiocParallel",
         "Rhtslib",
@@ -51488,7 +51482,6 @@
     ],
     "quantiseqr": [
         "Biobase",
-        "limSolve",
         "SummarizedExperiment",
         "ggplot2",
         "tidyr",
@@ -71494,7 +71487,6 @@
     "YAPSA": [
         "GenomicRanges",
         "ggplot2",
-        "limSolve",
         "SomaticSignatures",
         "VariantAnnotation",
         "GenomeInfoDb",
@@ -72669,10 +72661,7 @@
         "pillar"
     ],
     "pcaPP": [],
-    "baseline": [
-        "limSolve"
-    ],
-    "limSolve": [],
+    "baseline": [],
     "rARPACK": [
         "RSpectra",
         "Matrix",
@@ -74623,9 +74612,7 @@
         "pillar"
     ],
     "sjlabelled": [],
-    "LIM": [
-        "limSolve"
-    ],
+    "LIM": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
         "GenomicRanges",
