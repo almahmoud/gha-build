@@ -12280,7 +12280,6 @@
         "tibble",
         "tidyselect"
     ],
-    "FGNet": [],
     "fgsea": [
         "BiocParallel",
         "ggplot2",
@@ -16798,9 +16797,7 @@
         "DelayedArray",
         "blob"
     ],
-    "IntramiRExploreR": [
-        "FGNet"
-    ],
+    "IntramiRExploreR": [],
     "IONiseR": [
         "dplyr",
         "tidyr",
