@@ -154,12 +154,8 @@
     "CiteFuse": [
         "propr"
     ],
-    "CNVfilteR": [
-        "CopyNumberPlots"
-    ],
-    "CNViz": [
-        "CopyNumberPlots"
-    ],
+    "CNVfilteR": [],
+    "CNViz": [],
     "coMethDMR": [
         "AnnotationHub",
         "ExperimentHub",
@@ -176,7 +172,6 @@
         "scater"
     ],
     "conumee": [],
-    "CopyNumberPlots": [],
     "crisprDesign": [
         "crisprScore",
         "crisprScoreData",
