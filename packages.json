@@ -70,9 +70,7 @@
     "ASpli": [
         "Gviz"
     ],
-    "ATACCoGAPS": [
-        "rGREAT"
-    ],
+    "ATACCoGAPS": [],
     "ATACseqQC": [
         "GenomicScores",
         "AnnotationHub",
@@ -1105,9 +1103,7 @@
         "BiocVersion"
     ],
     "proBatch": [],
-    "profileplyr": [
-        "rGREAT"
-    ],
+    "profileplyr": [],
     "proteasy": [],
     "ProteoDisco": [],
     "protGear": [
@@ -1200,7 +1196,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "rGREAT": [],
     "rgsepd": [],
     "Rhisat2": [],
     "RiboProfiling": [
