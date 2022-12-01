@@ -107715,9 +107715,7 @@
         "ellipsis",
         "matrixStats"
     ],
-    "SNAGEE": [
-        "SNAGEEdata"
-    ],
+    "SNAGEE": [],
     "snapCGH": [
         "aCGH",
         "GLAD",
@@ -144108,7 +144106,6 @@
         "gmp",
         "cpp11"
     ],
-    "SNAGEEdata": [],
     "sampSurf": [],
     "logNormReg": [],
     "spdep": [
