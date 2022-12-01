@@ -6685,7 +6685,6 @@
         "GenomeInfoDb",
         "XVector"
     ],
-    "clusterStab": [],
     "clustifyr": [
         "cowplot",
         "dplyr",
