@@ -3873,10 +3873,8 @@
     "CRImage": [
         "aCGH"
     ],
-    "crisprBase": [],
     "crisprBowtie": [
         "BSgenome",
-        "crisprBase",
         "readr",
         "rtracklayer",
         "Rsamtools",
@@ -3885,7 +3883,6 @@
     ],
     "crisprBwa": [
         "BSgenome",
-        "crisprBase",
         "readr",
         "rtracklayer",
         "Rsamtools",
@@ -3893,7 +3890,6 @@
         "GenomicAlignments"
     ],
     "crisprDesign": [
-        "crisprBase",
         "AnnotationDbi",
         "BSgenome",
         "crisprBowtie",
@@ -3979,7 +3975,6 @@
         "RSQLite"
     ],
     "crisprVerse": [
-        "crisprBase",
         "crisprBowtie",
         "crisprScore",
         "crisprDesign",
@@ -4011,7 +4006,6 @@
         "viridis"
     ],
     "crisprViz": [
-        "crisprBase",
         "crisprDesign",
         "BSgenome",
         "GenomicFeatures",
