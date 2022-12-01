@@ -364,7 +364,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "customProDB": [],
     "cyanoFilter": [
         "flowDensity",
         "car",
