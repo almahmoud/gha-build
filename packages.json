@@ -3788,7 +3788,6 @@
         "EDASeq",
         "GenomicFeatures"
     ],
-    "Sconify": [],
     "SCOPE": [
         "BSgenome.Hsapiens.UCSC.hg19"
     ],
