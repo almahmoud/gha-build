@@ -147,7 +147,6 @@
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
-    "bambu": [],
     "bandle": [],
     "BayesSpace": [
         "scater"
@@ -988,7 +987,6 @@
     "FLAMES": [
         "scater",
         "ggbio",
-        "bambu",
         "biovizBase",
         "VariantAnnotation"
     ],
