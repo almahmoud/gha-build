@@ -166,7 +166,6 @@
     ],
     "ChAMP": [
         "DMRcate",
-        "IlluminaHumanMethylationEPICmanifest",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "wateRmelon",
@@ -228,8 +227,7 @@
     "conumee": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
-        "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
-        "IlluminaHumanMethylationEPICmanifest"
+        "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
     ],
     "CopyNumberPlots": [
         "karyoploteR"
@@ -328,7 +326,6 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylation450kmanifest",
-        "IlluminaHumanMethylationEPICmanifest",
         "methylumi",
         "BiocVersion"
     ],
@@ -389,7 +386,6 @@
         "AnnotationHub",
         "ExperimentHub",
         "IlluminaHumanMethylation450kmanifest",
-        "IlluminaHumanMethylationEPICmanifest",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
         "BiocVersion"
@@ -627,7 +623,6 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylation450kmanifest",
-        "IlluminaHumanMethylationEPICmanifest",
         "methylumi"
     ],
     "MEAT": [
@@ -685,7 +680,6 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylation450kmanifest",
-        "IlluminaHumanMethylationEPICmanifest",
         "methylumi"
     ],
     "methylPipe": [],
@@ -722,7 +716,6 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylation450kmanifest",
-        "IlluminaHumanMethylationEPICmanifest",
         "methylumi"
     ],
     "mitoClone2": [],
@@ -1314,7 +1307,6 @@
     "drc": [],
     "FactoMineR": [],
     "GenomicTools": [],
-    "IlluminaHumanMethylationEPICmanifest": [],
     "IlluminaHumanMethylation450kmanifest": [],
     "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [],
     "spp": [],
