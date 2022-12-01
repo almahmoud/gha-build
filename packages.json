@@ -3749,7 +3749,6 @@
         "scales",
         "SummarizedExperiment",
         "tidyr",
-        "assertive.properties",
         "assertive.types",
         "assertive.numbers",
         "assertive.strings",
@@ -9960,7 +9959,6 @@
         "RcppArmadillo",
         "assertive.files",
         "assertive.numbers",
-        "assertive.properties",
         "assertive.types",
         "magick",
         "munsell",
@@ -49367,7 +49365,6 @@
         "rtracklayer",
         "tidyr",
         "tidyselect",
-        "assertive.properties",
         "assertive.types",
         "assertive.numbers",
         "assertive.strings",
@@ -72746,7 +72743,6 @@
         "Hmisc",
         "assertive.files",
         "assertive.numbers",
-        "assertive.properties",
         "assertive.types",
         "magick",
         "multcomp",
@@ -87263,7 +87259,6 @@
         "Matrix"
     ],
     "assertive": [
-        "assertive.properties",
         "assertive.types",
         "assertive.numbers",
         "assertive.strings",
@@ -87281,18 +87276,13 @@
         "highr",
         "stringr"
     ],
-    "assertive.properties": [],
-    "assertive.types": [
-        "assertive.properties"
-    ],
+    "assertive.types": [],
     "assertive.numbers": [],
     "assertive.strings": [
-        "assertive.types",
-        "assertive.properties"
+        "assertive.types"
     ],
     "assertive.datetimes": [
-        "assertive.types",
-        "assertive.properties"
+        "assertive.types"
     ],
     "assertive.files": [
         "assertive.numbers"
@@ -87302,22 +87292,18 @@
     "assertive.models": [],
     "assertive.data": [
         "assertive.strings",
-        "assertive.types",
-        "assertive.properties"
+        "assertive.types"
     ],
     "assertive.data.uk": [
         "assertive.strings",
-        "assertive.types",
-        "assertive.properties"
+        "assertive.types"
     ],
     "assertive.data.us": [
         "assertive.strings",
-        "assertive.types",
-        "assertive.properties"
+        "assertive.types"
     ],
     "assertive.reflection": [],
     "assertive.code": [
-        "assertive.properties",
         "assertive.types"
     ],
     "doBy": [
@@ -89271,7 +89257,6 @@
     "multipanelfigure": [
         "assertive.files",
         "assertive.numbers",
-        "assertive.properties",
         "assertive.types",
         "ggplot2",
         "magick",
