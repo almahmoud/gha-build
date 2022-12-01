@@ -6074,7 +6074,6 @@
         "nloptr",
         "testthat"
     ],
-    "TarSeqQC": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "DESeq2",
