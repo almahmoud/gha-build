@@ -49876,7 +49876,6 @@
         "edgeR",
         "qqman",
         "pheatmap",
-        "aggregation",
         "rhdf5filters",
         "MatrixGenerics",
         "Biobase",
@@ -72353,7 +72352,6 @@
         "GenomicRanges",
         "GenomeInfoDbData",
         "GenomeInfoDb",
-        "aggregation",
         "futile.logger",
         "snow",
         "BH",
@@ -136771,7 +136769,6 @@
         "cli",
         "lifecycle"
     ],
-    "aggregation": [],
     "HiContactsData": [
         "ExperimentHub",
         "BiocFileCache",
