@@ -11482,7 +11482,6 @@
     ],
     "loci2path": [],
     "logicFS": [],
-    "LOLA": [],
     "LoomExperiment": [
         "SingleCellExperiment",
         "SummarizedExperiment"
