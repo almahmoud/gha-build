@@ -507,8 +507,7 @@
         "BiocVersion"
     ],
     "MetaboSignal": [
-        "hpar",
-        "MWASTools"
+        "hpar"
     ],
     "MetaCyto": [
         "FlowSOM",
@@ -591,7 +590,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "MWASTools": [],
     "NADfinder": [
         "trackViewer",
         "ATACseqQC",
