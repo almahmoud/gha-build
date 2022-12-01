@@ -2694,7 +2694,6 @@
         "rms",
         "precrec",
         "ggplot2",
-        "imager",
         "topGO",
         "tibble",
         "Hmisc",
@@ -26149,7 +26148,6 @@
         "SummarizedExperiment"
     ],
     "rGenomeTracks": [
-        "imager",
         "rGenomeTracksData",
         "AnnotationHub",
         "BiocFileCache",
@@ -36223,7 +36221,6 @@
         "tibble",
         "pillar"
     ],
-    "imager": [],
     "multcomp": [
         "TH.data"
     ],
