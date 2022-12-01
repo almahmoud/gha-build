@@ -208,7 +208,6 @@
     "chimeraviz": [
         "Gviz"
     ],
-    "ChIPexoQual": [],
     "ChIPQC": [],
     "ChromSCape": [
         "scater"
