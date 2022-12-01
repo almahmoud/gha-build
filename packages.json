@@ -11760,7 +11760,6 @@
     ],
     "systemPipeShiny": [
         "spsComps",
-        "drawer",
         "plotly",
         "shinydashboardPlus",
         "tidyr"
@@ -14151,7 +14150,6 @@
     ],
     "stars": [],
     "spsComps": [],
-    "drawer": [],
     "GenKern": [],
     "gghighlight": [],
     "bestNormalize": [
