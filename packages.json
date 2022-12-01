@@ -479,9 +479,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "omicRexposome": [
-        "rexposome"
-    ],
+    "omicRexposome": [],
     "OMICsPCA": [
         "factoextra"
     ],
@@ -563,7 +561,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "rexposome": [],
     "rGenomeTracks": [
         "rGenomeTracksData",
         "AnnotationHub",
