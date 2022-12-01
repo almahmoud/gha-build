@@ -22185,7 +22185,6 @@
         "SummarizedExperiment",
         "dml",
         "MESS",
-        "lfda",
         "geepack",
         "ggplot2",
         "ggformula",
@@ -27923,9 +27922,7 @@
         "KEGGREST",
         "sqldf"
     ],
-    "dml": [
-        "lfda"
-    ],
+    "dml": [],
     "MESS": [
         "geepack",
         "ggplot2",
@@ -27945,7 +27942,6 @@
         "vroom",
         "progress"
     ],
-    "lfda": [],
     "ggformula": [
         "ggplot2",
         "ggstance",
