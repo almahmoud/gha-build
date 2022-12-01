@@ -494,7 +494,6 @@
     "RNASeqR": [],
     "RnaSeqSampleSize": [],
     "RTCGA": [],
-    "RTNsurvival": [],
     "scanMiRApp": [
         "AnnotationHub",
         "BiocVersion"
