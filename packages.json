@@ -3307,8 +3307,7 @@
         "GenomicAlignments"
     ],
     "Dune": [
-        "tidyr",
-        "gganimate"
+        "tidyr"
     ],
     "easier": [
         "progeny",
@@ -13689,7 +13688,6 @@
     "hgu133a2.db": [
         "org.Hs.eg.db"
     ],
-    "gganimate": [],
     "easierData": [
         "ExperimentHub",
         "AnnotationHub",
