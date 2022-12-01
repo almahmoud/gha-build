@@ -1362,7 +1362,6 @@
     "pipeComp": [
         "scater"
     ],
-    "PloGO2": [],
     "plotGrouper": [
         "ggpubr",
         "rstatix",
