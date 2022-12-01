@@ -1623,7 +1623,6 @@
     "escape": [
         "GSVA"
     ],
-    "evaluomeR": [],
     "EventPointer": [
         "SGSeq",
         "GenomicFeatures"
