@@ -299,7 +299,6 @@
         "BASiCS",
         "ggExtra"
     ],
-    "batchelor": [],
     "BatchQC": [
         "sva"
     ],
@@ -878,7 +877,6 @@
     "ChromHeatMap": [],
     "chromPlot": [],
     "ChromSCape": [
-        "batchelor",
         "scater"
     ],
     "chromswitch": [],
@@ -3749,9 +3747,7 @@
         "testthat",
         "treeio"
     ],
-    "mumosa": [
-        "batchelor"
-    ],
+    "mumosa": [],
     "MungeSumstats": [
         "BSgenome",
         "VariantAnnotation",
@@ -5357,7 +5353,6 @@
     "SingleCellSignalR": [],
     "singleCellTK": [
         "AnnotationHub",
-        "batchelor",
         "celldex",
         "DESeq2",
         "ExperimentHub",
