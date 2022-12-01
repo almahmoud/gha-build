@@ -16354,7 +16354,6 @@
         "aroma.affymetrix",
         "aroma.core",
         "R.filesets",
-        "R.rsp",
         "PSCBS",
         "AnnotationDbi",
         "annotate",
@@ -23224,7 +23223,6 @@
         "AnnotationDbi",
         "RSQLite",
         "KEGGREST",
-        "R.rsp",
         "PSCBS",
         "ggplot2",
         "viridis",
@@ -27375,16 +27373,13 @@
     "aroma.affymetrix": [
         "aroma.core",
         "R.filesets",
-        "R.rsp",
         "PSCBS"
     ],
     "aroma.core": [
         "R.filesets",
-        "R.rsp",
         "PSCBS"
     ],
     "R.filesets": [],
-    "R.rsp": [],
     "PSCBS": [],
     "osfr": [
         "tibble"
