@@ -1064,7 +1064,6 @@
     "DeepPINCS": [
         "ttgsea",
         "textstem",
-        "lexicon",
         "textclean"
     ],
     "deepSNV": [
@@ -1595,8 +1594,7 @@
         "fda"
     ],
     "fobitools": [
-        "textclean",
-        "lexicon"
+        "textclean"
     ],
     "FoldGO": [],
     "FRASER": [
@@ -1755,7 +1753,6 @@
         "DeepPINCS",
         "ttgsea",
         "textstem",
-        "lexicon",
         "textclean"
     ],
     "GenVisR": [
@@ -4484,7 +4481,6 @@
     "tRNAscanImport": [],
     "ttgsea": [
         "textstem",
-        "lexicon",
         "textclean"
     ],
     "txcutr": [
@@ -4536,7 +4532,6 @@
         "DeepPINCS",
         "ttgsea",
         "textstem",
-        "lexicon",
         "textclean"
     ],
     "VanillaICE": [
@@ -4588,7 +4583,6 @@
         "textstem",
         "ExperimentHub",
         "AnnotationHub",
-        "lexicon",
         "textclean",
         "BiocVersion"
     ],
@@ -4904,13 +4898,9 @@
         "nloptr"
     ],
     "textstem": [
-        "lexicon",
         "textclean"
     ],
-    "lexicon": [],
-    "textclean": [
-        "lexicon"
-    ],
+    "textclean": [],
     "VIM": [
         "car",
         "pbkrtest",
