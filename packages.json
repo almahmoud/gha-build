@@ -65,7 +65,6 @@
     "airpart": [
         "scater"
     ],
-    "alevinQC": [],
     "AllelicImbalance": [
         "BSgenome",
         "VariantAnnotation",
