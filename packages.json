@@ -4058,8 +4058,7 @@
         "cellranger",
         "rematch2",
         "ggdendro",
-        "vroom",
-        "sn"
+        "vroom"
     ],
     "ddPCRclust": [
         "ggplot2",
@@ -5033,8 +5032,7 @@
         "hgu133plus2.db",
         "hgu133a.db",
         "tidyr",
-        "dplyr",
-        "sn"
+        "dplyr"
     ],
     "eiR": [
         "ChemmineR",
@@ -9643,8 +9641,7 @@
         "metap",
         "topconfects",
         "TFisher",
-        "mutoss",
-        "sn"
+        "mutoss"
     ],
     "MetCirc": [
         "ggplot2"
@@ -11176,8 +11173,7 @@
         "ggplot2",
         "cowplot",
         "TFisher",
-        "mutoss",
-        "sn"
+        "mutoss"
     ],
     "multiHiCcompare": [
         "dplyr",
@@ -11247,7 +11243,6 @@
         "hardhat",
         "ipred",
         "plotly",
-        "sn",
         "cowplot",
         "waldo",
         "rematch2"
@@ -11442,7 +11437,6 @@
         "AnnotationHub",
         "biovizBase",
         "TFBSTools",
-        "sn",
         "BiocVersion",
         "interactiveDisplayBase",
         "dbplyr",
@@ -12428,7 +12422,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "sn",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -12631,7 +12624,6 @@
         "viridis"
     ],
     "PERFect": [
-        "sn",
         "ggplot2",
         "phyloseq"
     ],
@@ -14942,7 +14934,6 @@
         "ggrepel",
         "broom",
         "dplyr",
-        "sn",
         "testthat",
         "waldo",
         "rematch2"
@@ -16349,7 +16340,6 @@
         "reldist",
         "Hmisc",
         "GenomicAlignments",
-        "sn",
         "densEstBayes",
         "rstan"
     ],
@@ -20110,14 +20100,10 @@
     ],
     "metap": [
         "TFisher",
-        "mutoss",
-        "sn"
+        "mutoss"
     ],
-    "TFisher": [
-        "sn"
-    ],
+    "TFisher": [],
     "mutoss": [],
-    "sn": [],
     "DMwR2": [
         "dplyr",
         "readr",
