@@ -345,7 +345,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "CexoR": [],
     "ChAMP": [
         "minfi",
         "DMRcate",
