@@ -69184,7 +69184,6 @@
         "XVector"
     ],
     "SMAD": [
-        "RcppAlgos",
         "dplyr",
         "tidyr",
         "lifecycle",
@@ -91611,7 +91610,6 @@
         "lifecycle"
     ],
     "mixsmsn": [],
-    "RcppAlgos": [],
     "sampSurf": [],
     "spdep": [
         "sp",
