@@ -25614,7 +25614,6 @@
         "XVector"
     ],
     "peco": [
-        "genlasso",
         "scater",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -43183,7 +43182,6 @@
         "aroma.light"
     ],
     "R.huge": [],
-    "genlasso": [],
     "opencpu": [
         "httpuv"
     ],
