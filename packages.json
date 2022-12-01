@@ -16858,7 +16858,6 @@
         "XVector",
         "Biostrings"
     ],
-    "massiR": [],
     "MAST": [
         "SingleCellExperiment",
         "ggplot2",
