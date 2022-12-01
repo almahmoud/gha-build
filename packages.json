@@ -94474,7 +94474,6 @@
         "ranger",
         "LiblineaR",
         "speedglm",
-        "tester",
         "magrittr",
         "Biobase",
         "MSnbase",
@@ -156939,7 +156938,6 @@
         "utf8"
     ],
     "naivebayes": [],
-    "tester": [],
     "fracdiff": [],
     "urca": [
         "nlme",
