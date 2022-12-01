@@ -3139,8 +3139,7 @@
     ],
     "combi": [
         "ggplot2",
-        "phyloseq",
-        "cobs"
+        "phyloseq"
     ],
     "coMET": [
         "biomaRt",
@@ -5669,7 +5668,6 @@
         "GenomicFeatures",
         "prodlim",
         "qvalue",
-        "cobs",
         "BSgenome",
         "fgsea",
         "rtracklayer",
@@ -20088,7 +20086,6 @@
     "benchmarkmeData": [
         "dplyr"
     ],
-    "cobs": [],
     "rio": [
         "haven",
         "readxl",
