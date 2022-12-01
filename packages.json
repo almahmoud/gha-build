@@ -2057,7 +2057,6 @@
         "httpuv",
         "fontawesome"
     ],
-    "AMOUNTAIN": [],
     "amplican": [
         "BiocGenerics",
         "Biostrings",
@@ -74069,7 +74068,6 @@
         "WGCNA",
         "dynamicTreeCut",
         "igraph",
-        "AMOUNTAIN",
         "RColorBrewer",
         "magrittr",
         "Matrix",
