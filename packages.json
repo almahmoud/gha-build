@@ -265,7 +265,6 @@
         "nloptr"
     ],
     "BiocCheck": [],
-    "biocGraph": [],
     "BiocOncoTK": [
         "GenomicFeatures",
         "curatedTCGAData",
