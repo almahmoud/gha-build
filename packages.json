@@ -3749,7 +3749,6 @@
         "mgcv",
         "scales",
         "withr",
-        "fdrtool",
         "survival",
         "data.table",
         "digest",
@@ -28654,7 +28653,6 @@
         "DBI",
         "data.table",
         "edgeR",
-        "fdrtool",
         "GEOquery",
         "limma",
         "matrixStats",
@@ -33683,7 +33681,6 @@
         "MSnbase",
         "limma",
         "vsn",
-        "fdrtool",
         "ggrepel",
         "ComplexHeatmap",
         "RColorBrewer",
@@ -35117,7 +35114,6 @@
         "igraph",
         "BiocGenerics",
         "pcaMethods",
-        "fdrtool",
         "multtest",
         "magrittr",
         "Matrix",
@@ -36254,7 +36250,6 @@
         "BiocParallel",
         "GenomicRanges",
         "IRanges",
-        "fdrtool",
         "rtracklayer",
         "multcomp",
         "calibrate",
@@ -41410,7 +41405,6 @@
         "colorspace",
         "corpcor",
         "reshape2",
-        "fdrtool",
         "gtools",
         "pbapply",
         "abind",
@@ -45304,7 +45298,6 @@
     ],
     "FitHiC": [
         "data.table",
-        "fdrtool",
         "Rcpp"
     ],
     "flagme": [
@@ -55990,7 +55983,6 @@
         "utf8"
     ],
     "GSRI": [
-        "fdrtool",
         "genefilter",
         "Biobase",
         "GSEABase",
@@ -59102,7 +59094,6 @@
     ],
     "HybridMTest": [
         "Biobase",
-        "fdrtool",
         "MASS",
         "survival",
         "BiocGenerics",
@@ -59897,7 +59888,6 @@
         "egg",
         "slam",
         "lpsymphony",
-        "fdrtool",
         "highr",
         "yaml",
         "xfun",
@@ -60319,7 +60309,6 @@
     "IHW": [
         "slam",
         "lpsymphony",
-        "fdrtool",
         "BiocGenerics"
     ],
     "illuminaio": [
@@ -65449,7 +65438,6 @@
         "zlibbioc"
     ],
     "les": [
-        "fdrtool",
         "boot",
         "gplots",
         "RColorBrewer",
@@ -71241,7 +71229,6 @@
         "rmarkdown",
         "BiocStyle",
         "knitr",
-        "fdrtool",
         "MeSHDbi",
         "Category",
         "S4Vectors",
@@ -72588,7 +72575,6 @@
         "BiocParallel",
         "fields",
         "markdown",
-        "fdrtool",
         "fgsea",
         "ggplot2",
         "ggrepel",
@@ -75201,7 +75187,6 @@
         "vctrs",
         "pillar",
         "longitudinal",
-        "fdrtool",
         "reshape2",
         "cli",
         "gtable",
@@ -87244,7 +87229,6 @@
         "ggplot2",
         "corpcor",
         "longitudinal",
-        "fdrtool",
         "igraph",
         "graph",
         "cli",
@@ -91490,7 +91474,6 @@
         "igraph",
         "tsne",
         "scatterplot3d",
-        "fdrtool",
         "ape",
         "biomaRt",
         "Biobase",
@@ -92530,7 +92513,6 @@
         "BiocParallel",
         "SummarizedExperiment",
         "limma",
-        "fdrtool",
         "Rcpp",
         "futile.logger",
         "snow",
@@ -112981,7 +112963,6 @@
         "Biobase",
         "ggplot2",
         "pROC",
-        "fdrtool",
         "tibble",
         "BiocGenerics",
         "generics",
@@ -118447,7 +118428,6 @@
         "stringr",
         "xfun",
         "markdown",
-        "fdrtool",
         "plot3D",
         "jsonlite",
         "digest",
@@ -126951,7 +126931,6 @@
         "longitudinal",
         "BiocGenerics",
         "corpcor",
-        "fdrtool",
         "annotate",
         "graph",
         "AnnotationDbi",
@@ -145977,7 +145956,6 @@
         "R.utils",
         "askpass"
     ],
-    "fdrtool": [],
     "R.cache": [
         "R.methodsS3",
         "R.oo",
@@ -156814,7 +156792,6 @@
     "DiffCorr": [
         "pcaMethods",
         "igraph",
-        "fdrtool",
         "multtest",
         "magrittr",
         "Matrix",
@@ -157175,7 +157152,6 @@
         "corpcor",
         "reshape2",
         "ggplot2",
-        "fdrtool",
         "gtools",
         "pbapply",
         "abind",
@@ -161130,8 +161106,7 @@
     ],
     "GeneNet": [
         "corpcor",
-        "longitudinal",
-        "fdrtool"
+        "longitudinal"
     ],
     "stabs": [],
     "longitudinal": [
