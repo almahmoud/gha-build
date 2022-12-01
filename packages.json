@@ -64,9 +64,7 @@
         "mia",
         "scater"
     ],
-    "bigmelon": [
-        "wateRmelon"
-    ],
+    "bigmelon": [],
     "BiocCheck": [],
     "BiocOncoTK": [
         "curatedTCGAData",
@@ -123,7 +121,6 @@
     ],
     "ChAMP": [
         "DMRcate",
-        "wateRmelon",
         "missMethyl",
         "ExperimentHub",
         "AnnotationHub",
@@ -379,9 +376,7 @@
     "MEAL": [
         "missMethyl"
     ],
-    "MEAT": [
-        "wateRmelon"
-    ],
+    "MEAT": [],
     "meshes": [
         "AnnotationHub",
         "BiocVersion"
@@ -659,9 +654,7 @@
     "SingleMoleculeFootprinting": [
         "QuasR"
     ],
-    "skewr": [
-        "wateRmelon"
-    ],
+    "skewr": [],
     "sojourner": [
         "sampSurf"
     ],
@@ -748,7 +741,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "wateRmelon": [],
     "YAPSA": [],
     "zenith": [],
     "adductData": [
