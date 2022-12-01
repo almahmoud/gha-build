@@ -47965,7 +47965,6 @@
         "RcppArmadillo",
         "interp"
     ],
-    "profileScoreDist": [],
     "progeny": [
         "Biobase",
         "dplyr",
