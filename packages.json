@@ -28292,8 +28292,7 @@
         "rematch2"
     ],
     "scde": [
-        "quantreg",
-        "extRemes"
+        "quantreg"
     ],
     "scds": [
         "SingleCellExperiment",
@@ -39294,7 +39293,6 @@
         "DT",
         "bslib"
     ],
-    "extRemes": [],
     "origami": [
         "future.apply"
     ],
