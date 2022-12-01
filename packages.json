@@ -1465,8 +1465,7 @@
         "VariantAnnotation"
     ],
     "factR": [
-        "GenomicFeatures",
-        "wiggleplotr"
+        "GenomicFeatures"
     ],
     "FamAgg": [],
     "famat": [
@@ -4484,7 +4483,6 @@
         "GenomicFeatures"
     ],
     "webbioc": [],
-    "wiggleplotr": [],
     "wppi": [],
     "XDE": [],
     "Xeva": [
