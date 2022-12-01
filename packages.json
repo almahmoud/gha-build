@@ -577,7 +577,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "CTSV": [],
     "cummeRbund": [
         "Gviz",
         "biovizBase",
