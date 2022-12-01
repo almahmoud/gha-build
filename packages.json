@@ -31430,7 +31430,6 @@
         "DelayedArray",
         "purrr"
     ],
-    "INPower": [],
     "INSPEcT": [
         "Biobase",
         "BiocParallel",
