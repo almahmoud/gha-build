@@ -158,7 +158,6 @@
     "ALDEx2": [],
     "alevinQC": [
         "GGally",
-        "shinydashboard",
         "cowplot",
         "tidyr"
     ],
@@ -918,7 +917,6 @@
         "Hmisc",
         "plotly",
         "shinycssloaders",
-        "shinydashboard",
         "tidyr",
         "viridis"
     ],
@@ -1707,7 +1705,6 @@
         "GenomicAlignments"
     ],
     "cbpManager": [
-        "shinydashboard",
         "shinyBS",
         "shinycssloaders"
     ],
@@ -2208,7 +2205,6 @@
         "shinydashboardPlus",
         "shinycssloaders",
         "plotly",
-        "shinydashboard",
         "kableExtra",
         "viridis",
         "batchelor",
@@ -2664,7 +2660,6 @@
     "ComPrAn": [
         "tidyr",
         "rio",
-        "shinydashboard",
         "haven",
         "readxl",
         "readr"
@@ -2855,7 +2850,6 @@
         "piano",
         "tidyr",
         "fgsea",
-        "shinydashboard",
         "cowplot"
     ],
     "corral": [
@@ -3219,7 +3213,6 @@
         "SpatialExperiment",
         "viridis",
         "ggbeeswarm",
-        "shinydashboard",
         "DropletUtils",
         "BiocFileCache",
         "dbplyr",
@@ -3385,7 +3378,6 @@
         "readr"
     ],
     "debrowser": [
-        "shinydashboard",
         "shinyBS",
         "annotate",
         "AnnotationDbi",
@@ -3570,8 +3562,7 @@
         "tidyr",
         "MSnbase",
         "vsn",
-        "ggrepel",
-        "shinydashboard"
+        "ggrepel"
     ],
     "DepecheR": [
         "viridis",
@@ -3776,7 +3767,6 @@
         "broom",
         "shinyBS",
         "shinycssloaders",
-        "shinydashboard",
         "BiocStyle",
         "kableExtra",
         "UpSetR",
@@ -3918,7 +3908,6 @@
     "Doscheda": [
         "drc",
         "vsn",
-        "shinydashboard",
         "readxl",
         "car",
         "pbkrtest",
@@ -4796,7 +4785,6 @@
         "tidyr"
     ],
     "ExploreModelMatrix": [
-        "shinydashboard",
         "cowplot",
         "tidyr"
     ],
@@ -4853,7 +4841,6 @@
         "reactome.db",
         "GO.db",
         "tidyr",
-        "shinydashboard",
         "shinyBS",
         "plotly",
         "clusterProfiler",
@@ -6525,7 +6512,6 @@
         "GenomicAlignments"
     ],
     "iCOBRA": [
-        "shinydashboard",
         "shinyBS",
         "UpSetR"
     ],
@@ -6540,7 +6526,6 @@
         "GOstats",
         "GO.db",
         "AnnotationDbi",
-        "shinydashboard",
         "shinyBS",
         "ggrepel",
         "geneplotter",
@@ -6628,7 +6613,6 @@
         "tidygraph",
         "concaveman",
         "ggbeeswarm",
-        "shinydashboard",
         "ggforce",
         "ggrepel",
         "DropletUtils",
@@ -6748,7 +6732,6 @@
     ],
     "InterCellar": [
         "golem",
-        "shinydashboard",
         "shinyFiles",
         "shinycssloaders",
         "tidyr",
@@ -6898,14 +6881,12 @@
         "haven"
     ],
     "iSEE": [
-        "shinydashboard",
         "ggrepel",
         "colourpicker",
         "shinyWidgets"
     ],
     "iSEEhex": [
         "iSEE",
-        "shinydashboard",
         "ggrepel",
         "colourpicker",
         "shinyWidgets"
@@ -6914,7 +6895,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "iSEE",
-        "shinydashboard",
         "BiocFileCache",
         "BiocVersion",
         "AnnotationDbi",
@@ -6927,7 +6907,6 @@
         "iSEE",
         "iSEEhex",
         "colourpicker",
-        "shinydashboard",
         "ggrepel",
         "shinyWidgets"
     ],
@@ -7122,7 +7101,6 @@
         "readr",
         "shinyFiles",
         "shinyBS",
-        "shinydashboard",
         "biomaRt",
         "AnnotationDbi",
         "BiocFileCache",
@@ -7136,7 +7114,6 @@
         "coin"
     ],
     "levi": [
-        "shinydashboard",
         "testthat",
         "waldo"
     ],
@@ -7518,7 +7495,6 @@
     "MatrixQCvis": [
         "plotly",
         "Hmisc",
-        "shinydashboard",
         "tidyr",
         "UpSetR",
         "vsn",
@@ -8294,7 +8270,6 @@
         "phyloseq"
     ],
     "microbiomeExplorer": [
-        "shinydashboard",
         "shinycssloaders",
         "shinyWidgets",
         "DESeq2",
@@ -9238,7 +9213,6 @@
     ],
     "multiSight": [
         "golem",
-        "shinydashboard",
         "anyLib",
         "caret",
         "biosigner",
@@ -9348,7 +9322,6 @@
         "ggrepel",
         "plotly",
         "factoextra",
-        "shinydashboard",
         "sortable",
         "shinyBS",
         "TCGAbiolinks",
@@ -9855,7 +9828,6 @@
         "AnnotationHub",
         "shinyFiles",
         "rtracklayer",
-        "shinydashboard",
         "shinyBS",
         "tidyr",
         "BiocFileCache",
@@ -10323,7 +10295,6 @@
         "GOstats",
         "GO.db",
         "AnnotationDbi",
-        "shinydashboard",
         "shinyBS",
         "ggrepel",
         "biomaRt",
@@ -10357,7 +10328,6 @@
         "biomaRt",
         "tidyr",
         "fgsea",
-        "shinydashboard",
         "ipred",
         "ggpubr",
         "broom",
@@ -10466,7 +10436,6 @@
         "piano",
         "tidyr",
         "fgsea",
-        "shinydashboard",
         "cowplot"
     ],
     "PhenoGeneRanker": [],
@@ -10579,7 +10548,6 @@
     ],
     "piano": [
         "fgsea",
-        "shinydashboard",
         "cowplot"
     ],
     "PICS": [
@@ -10971,7 +10939,6 @@
         "shinydashboardPlus",
         "colourpicker",
         "shinyWidgets",
-        "shinydashboard",
         "vsn",
         "MLInterfaces",
         "caret",
@@ -11053,7 +11020,6 @@
         "genefilter",
         "readr",
         "plotly",
-        "shinydashboard",
         "kableExtra",
         "GGally",
         "factoextra",
@@ -11360,7 +11326,6 @@
         "piano",
         "tidyr",
         "fgsea",
-        "shinydashboard",
         "cowplot"
     ],
     "ramr": [
@@ -12482,7 +12447,6 @@
     ],
     "sangeranalyseR": [
         "DECIPHER",
-        "shinydashboard",
         "plotly",
         "shinycssloaders",
         "ggdendro",
@@ -12536,7 +12500,6 @@
         "scanMiR",
         "scanMiRData",
         "shinycssloaders",
-        "shinydashboard",
         "shinyjqui",
         "BiocFileCache",
         "BiocVersion",
@@ -13256,7 +13219,6 @@
         "ggpubr",
         "cowplot",
         "readr",
-        "shinydashboard",
         "shinycssloaders",
         "shinyWidgets",
         "tidyr",
@@ -13359,7 +13321,6 @@
         "SpatialExperiment",
         "viridis",
         "ggbeeswarm",
-        "shinydashboard",
         "DropletUtils",
         "BiocFileCache",
         "dbplyr",
@@ -13716,7 +13677,6 @@
         "scater",
         "scuttle",
         "scran",
-        "shinydashboard",
         "UpSetR",
         "dbplyr",
         "AnnotationDbi",
@@ -13822,7 +13782,6 @@
         "rtracklayer",
         "shinyFiles",
         "shinyWidgets",
-        "shinydashboard",
         "heatmaply",
         "BiocVersion",
         "AnnotationDbi",
@@ -14281,7 +14240,6 @@
         "plotly",
         "shinyFiles",
         "shinyWidgets",
-        "shinydashboard",
         "shinydashboardPlus",
         "shinyjqui",
         "shinytoastr",
@@ -14396,7 +14354,6 @@
         "dbplyr"
     ],
     "TCGAbiolinksGUI": [
-        "shinydashboard",
         "plotly",
         "readr",
         "ggrepel",
@@ -14741,7 +14698,6 @@
         "MultiAssayExperiment",
         "piano",
         "fgsea",
-        "shinydashboard",
         "cowplot"
     ],
     "TPP": [
@@ -14993,7 +14949,6 @@
         "mirbase.db",
         "Organism.dplyr",
         "plotgardener",
-        "shinydashboard",
         "shinyFiles",
         "BiocFileCache",
         "BiocVersion",
@@ -15380,7 +15335,6 @@
     ],
     "wpm": [
         "golem",
-        "shinydashboard",
         "shinyWidgets",
         "shinycustomloader"
     ],
@@ -15411,7 +15365,6 @@
         "piano",
         "tidyr",
         "fgsea",
-        "shinydashboard",
         "cowplot"
     ],
     "XINA": [
@@ -15591,7 +15544,6 @@
     "ggrastr": [
         "ggbeeswarm"
     ],
-    "shinydashboard": [],
     "readxl": [],
     "speaq": [],
     "curatedTCGAData": [
@@ -16223,9 +16175,7 @@
         "dbplyr"
     ],
     "shinyWidgets": [],
-    "shinydashboardPlus": [
-        "shinydashboard"
-    ],
+    "shinydashboardPlus": [],
     "kableExtra": [],
     "gggenes": [
         "ggfittext"
