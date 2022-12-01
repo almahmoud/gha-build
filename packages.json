@@ -56526,7 +56526,6 @@
         "egg",
         "foreach",
         "ggplot2",
-        "nls2",
         "scales",
         "SummarizedExperiment",
         "tibble",
@@ -64827,7 +64826,6 @@
         "fitdistrplus",
         "mixtools",
         "mltools",
-        "nls2",
         "plyr",
         "sampSurf",
         "scales",
@@ -70581,7 +70579,6 @@
         "futile.logger",
         "ggplot2",
         "knitr",
-        "nls2",
         "plyr",
         "purrr",
         "RCurl",
@@ -84580,7 +84577,6 @@
     "doMC": [
         "foreach"
     ],
-    "nls2": [],
     "valr": [
         "broom",
         "dplyr",
