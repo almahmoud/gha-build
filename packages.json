@@ -3222,7 +3222,6 @@
         "testthat",
         "tidyverse"
     ],
-    "NanoTube": [],
     "NBAMSeq": [
         "DESeq2"
     ],
