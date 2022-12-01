@@ -8092,7 +8092,6 @@
         "ensembldb",
         "BiocFileCache"
     ],
-    "ribor": [],
     "ribosomeProfilingQC": [
         "BSgenome",
         "EDASeq",
