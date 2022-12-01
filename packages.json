@@ -17131,7 +17131,6 @@
         "oligoClasses",
         "Biostrings",
         "ff",
-        "NCmisc",
         "cellranger",
         "progress",
         "bit64",
@@ -91275,9 +91274,7 @@
         "here"
     ],
     "metaMA": [],
-    "reader": [
-        "NCmisc"
-    ],
+    "reader": [],
     "shinypanel": [
         "shinyjs",
         "shiny",
@@ -91295,7 +91292,6 @@
         "jquerylib",
         "memoise"
     ],
-    "NCmisc": [],
     "highcharter": [
         "htmlwidgets",
         "purrr",
