@@ -975,7 +975,6 @@
     ],
     "GARS": [
         "DaMiRseq",
-        "MLSeq",
         "FactoMineR",
         "arm",
         "lme4",
@@ -1612,7 +1611,6 @@
         "deepSNV",
         "VariantAnnotation"
     ],
-    "MLSeq": [],
     "MMUPHin": [
         "Maaslin2",
         "car",
