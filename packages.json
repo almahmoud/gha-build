@@ -11025,7 +11025,6 @@
         "tibble",
         "tidyr",
         "rmarkdown",
-        "bcellViper",
         "viper",
         "tidyselect",
         "vctrs",
@@ -15321,7 +15320,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "geneplotter",
-        "bcellViper",
         "viper",
         "tibble",
         "tidyselect",
@@ -61719,7 +61717,6 @@
     ],
     "dorothea": [
         "dplyr",
-        "bcellViper",
         "viper",
         "tibble",
         "tidyselect",
@@ -61730,7 +61727,6 @@
         "segmented",
         "survival"
     ],
-    "bcellViper": [],
     "crisprScoreData": [
         "ExperimentHub",
         "AnnotationHub",
