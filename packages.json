@@ -2380,7 +2380,6 @@
         "plyranges",
         "GenomicFeatures"
     ],
-    "KEGGlincs": [],
     "kissDE": [
         "DESeq2",
         "DSS",
