@@ -1042,7 +1042,6 @@
         "BiocVersion",
         "bumphunter"
     ],
-    "EnrichmentBrowser": [],
     "enrichplot": [],
     "enrichTF": [
         "pipeFrame",
@@ -1497,7 +1496,6 @@
     ],
     "GSEABenchmarkeR": [
         "AnnotationHub",
-        "EnrichmentBrowser",
         "ExperimentHub",
         "BiocVersion"
     ],
@@ -3714,7 +3712,6 @@
     ],
     "zenith": [
         "variancePartition",
-        "EnrichmentBrowser",
         "pbkrtest",
         "lmerTest",
         "lme4",
