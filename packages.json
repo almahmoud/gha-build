@@ -8869,7 +8869,6 @@
         "BSgenome",
         "rstatix",
         "testthat",
-        "tidytidbits",
         "broom",
         "GenomicFeatures",
         "biomaRt",
@@ -11309,7 +11308,6 @@
     ],
     "survivalAnalysis": [
         "survminer",
-        "tidytidbits",
         "ggpubr",
         "broom",
         "rstatix",
@@ -11320,7 +11318,6 @@
         "testthat",
         "waldo"
     ],
-    "tidytidbits": [],
     "openair": [
         "readr"
     ],
