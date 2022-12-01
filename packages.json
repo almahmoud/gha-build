@@ -56606,7 +56606,6 @@
         "MotifDb",
         "RSQLite",
         "xgboost",
-        "RPostgreSQL",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg38",
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -67820,7 +67819,6 @@
     "animation": [],
     "tractor.base": [],
     "vbsr": [],
-    "RPostgreSQL": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
         "IRanges",
