@@ -1932,7 +1932,6 @@
         "nloptr",
         "testthat"
     ],
-    "epigenomix": [],
     "epigraHMM": [
         "ggpubr",
         "GreyListChIP",
