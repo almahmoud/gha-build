@@ -1832,9 +1832,7 @@
         "BSgenome",
         "GenomicFeatures"
     ],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "ffpe": [
         "lumi",
         "methylumi",
@@ -4878,7 +4876,6 @@
         "scRNAseq",
         "TENxPBMCData",
         "scDblFinder",
-        "TSCAN",
         "BiocVersion",
         "GenomicFeatures",
         "M3Drop",
@@ -5371,7 +5368,6 @@
     "tRNAscanImport": [
         "BSgenome"
     ],
-    "TSCAN": [],
     "ttgsea": [
         "textstem",
         "DiagrammeR",
