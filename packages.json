@@ -8284,7 +8284,6 @@
         "XVector",
         "progress"
     ],
-    "CMA": [],
     "cmapR": [
         "rhdf5",
         "SummarizedExperiment",
