@@ -1053,7 +1053,6 @@
         "Hmisc",
         "latticeExtra",
         "vsn",
-        "svglite",
         "gcrma",
         "AnnotationDbi",
         "GenomicRanges",
@@ -4851,7 +4850,6 @@
         "ggfittext",
         "rvest",
         "rmarkdown",
-        "svglite",
         "babelgene",
         "Biostrings",
         "GenomicAlignments",
@@ -7093,7 +7091,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "ggbeeswarm",
-        "svglite",
         "shiny",
         "shinydashboard",
         "tibble",
@@ -8313,7 +8310,6 @@
         "dendextend",
         "egg",
         "rvest",
-        "svglite",
         "bslib",
         "GenomicRanges"
     ],
@@ -10038,7 +10034,6 @@
         "tibble",
         "rvest",
         "rmarkdown",
-        "svglite",
         "GenomicRanges",
         "tidyr",
         "bslib",
@@ -13869,7 +13864,6 @@
         "pillar",
         "tweenr",
         "rvest",
-        "svglite",
         "babelgene",
         "bslib"
     ],
@@ -14216,7 +14210,6 @@
         "tidyselect",
         "HDF5Array",
         "ggbeeswarm",
-        "svglite",
         "shiny",
         "shinydashboard",
         "tibble",
@@ -14464,7 +14457,6 @@
     "InteractiveComplexHeatmap": [
         "shiny",
         "kableExtra",
-        "svglite",
         "rvest",
         "rmarkdown",
         "bslib",
@@ -17972,7 +17964,6 @@
         "rmarkdown",
         "mice",
         "rvest",
-        "svglite",
         "GenomicRanges",
         "bslib"
     ],
@@ -21119,7 +21110,6 @@
         "GenomicAlignments",
         "SummarizedExperiment",
         "rvest",
-        "svglite",
         "bslib",
         "dplyr",
         "tidyselect",
@@ -22216,7 +22206,6 @@
         "GEOquery",
         "opencpu",
         "fgsea",
-        "svglite",
         "AnnotationDbi",
         "DESeq2",
         "RSQLite",
@@ -23484,7 +23473,6 @@
         "ggsignif",
         "rstatix",
         "rvest",
-        "svglite",
         "hms",
         "vroom",
         "R.cache",
@@ -27149,7 +27137,6 @@
         "tidyselect",
         "pillar",
         "rvest",
-        "svglite",
         "bslib",
         "shiny",
         "blob"
@@ -28551,7 +28538,6 @@
         "viridis",
         "ggplot2",
         "ggbeeswarm",
-        "svglite",
         "shiny",
         "shinydashboard",
         "GenomicRanges",
@@ -34138,7 +34124,6 @@
         "tibble",
         "tidyselect"
     ],
-    "svglite": [],
     "UpSetR": [
         "ggplot2",
         "tibble",
@@ -35402,7 +35387,6 @@
     "kableExtra": [
         "rvest",
         "rmarkdown",
-        "svglite",
         "bslib",
         "tibble",
         "pillar"
