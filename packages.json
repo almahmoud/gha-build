@@ -363,7 +363,6 @@
         "ExperimentHub",
         "DSS",
         "Gviz",
-        "geneLenDataBase",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "methylumi",
         "lumi",
@@ -1095,9 +1094,7 @@
         "GOstats"
     ],
     "GNET2": [],
-    "goseq": [
-        "geneLenDataBase"
-    ],
+    "goseq": [],
     "goSorensen": [
         "clusterProfiler"
     ],
@@ -1190,8 +1187,7 @@
     "ideal": [
         "pcaExplorer",
         "goseq",
-        "GOstats",
-        "geneLenDataBase"
+        "GOstats"
     ],
     "igvR": [
         "VariantAnnotation"
@@ -2174,8 +2170,7 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene"
     ],
     "rgsepd": [
-        "goseq",
-        "geneLenDataBase"
+        "goseq"
     ],
     "Rhisat2": [
         "SGSeq"
@@ -2479,8 +2474,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "SMITE": [
-        "goseq",
-        "geneLenDataBase"
+        "goseq"
     ],
     "snapCGH": [],
     "snm": [
@@ -2939,7 +2933,6 @@
     "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [
         "minfi"
     ],
-    "geneLenDataBase": [],
     "spp": [],
     "TxDb.Mmusculus.UCSC.mm9.knownGene": [],
     "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [],
