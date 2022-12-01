@@ -7634,7 +7634,6 @@
     "COHCAP": [],
     "cola": [
         "ComplexHeatmap",
-        "skmeans",
         "httr",
         "eulerr"
     ],
@@ -47535,7 +47534,6 @@
         "vctrs",
         "pillar"
     ],
-    "skmeans": [],
     "eulerr": [],
     "cobs": [
         "quantreg",
