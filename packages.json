@@ -2539,7 +2539,6 @@
         "genefilter",
         "annotate"
     ],
-    "csaw": [],
     "csdR": [
         "WGCNA",
         "Hmisc",
@@ -3101,7 +3100,6 @@
     ],
     "diffHic": [
         "BSgenome",
-        "csaw",
         "rtracklayer",
         "GenomicAlignments"
     ],
@@ -3689,7 +3687,6 @@
     ],
     "epigraHMM": [
         "rtracklayer",
-        "csaw",
         "ggpubr",
         "GreyListChIP",
         "ggsci",
@@ -4020,7 +4017,6 @@
     "extraChIPs": [
         "broom",
         "ComplexUpset",
-        "csaw",
         "GenomicInteractions",
         "ggforce",
         "Gviz",
@@ -5435,7 +5431,6 @@
         "GenomicAlignments",
         "rtracklayer",
         "VariantAnnotation",
-        "csaw",
         "DESeq2",
         "TxDb.Dmelanogaster.UCSC.dm6.ensGene",
         "geneplotter",
@@ -7925,7 +7920,6 @@
         "trackViewer",
         "metap",
         "ATACseqQC",
-        "csaw",
         "BSgenome",
         "ChIPpeakAnno",
         "GenomicScores",
@@ -12815,7 +12809,6 @@
         "ChIPpeakAnno",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "DiffBind",
-        "csaw",
         "DESeq2",
         "ensembldb",
         "GenomicAlignments",
