@@ -3338,7 +3338,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "TIN": [],
     "TissueEnrich": [],
     "TitanCNA": [
         "VariantAnnotation"
