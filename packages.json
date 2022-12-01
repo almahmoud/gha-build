@@ -158,7 +158,6 @@
         "ExperimentHub",
         "BiocVersion"
     ],
-    "compEpiTools": [],
     "conclus": [
         "factoextra",
         "scater",
