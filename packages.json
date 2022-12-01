@@ -13119,7 +13119,6 @@
     "SC3": [
         "SingleCellExperiment"
     ],
-    "Scale4C": [],
     "scAlign": [
         "SingleCellExperiment",
         "Seurat",
