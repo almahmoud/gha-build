@@ -4272,7 +4272,6 @@
         "DT",
         "vroom",
         "dplyr",
-        "rapportools",
         "basilisk",
         "shinyBS",
         "shinycssloaders",
@@ -23844,7 +23843,6 @@
         "htmlTable",
         "viridis",
         "dplyr",
-        "rapportools",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -39106,7 +39104,6 @@
     "repr": [
         "pillar"
     ],
-    "rapportools": [],
     "rintrojs": [
         "shiny",
         "bslib"
@@ -41431,7 +41428,6 @@
     ],
     "summarytools": [
         "dplyr",
-        "rapportools",
         "tibble",
         "tidyr",
         "tidyselect",
