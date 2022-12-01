@@ -801,7 +801,6 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "BDMMAcorrect": [],
     "beadarray": [
         "AnnotationDbi"
     ],
