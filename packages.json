@@ -774,7 +774,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "MADSEQ": [],
     "MAGAR": [
         "RnBeads",
         "methylumi"
