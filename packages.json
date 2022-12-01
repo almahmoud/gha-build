@@ -4241,7 +4241,6 @@
         "GenomicFiles",
         "GenomicFeatures"
     ],
-    "VegaMC": [],
     "vidger": [
         "DESeq2"
     ],
