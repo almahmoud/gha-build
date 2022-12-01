@@ -5449,7 +5449,6 @@
         "GO.db",
         "plotly",
         "tidyr",
-        "tippy",
         "viridis",
         "patchwork",
         "geneplotter",
@@ -16333,7 +16332,6 @@
         "tidyr"
     ],
     "bs4Dash": [],
-    "tippy": [],
     "shinyHeatmaply": [
         "heatmaply",
         "plotly",
