@@ -508,7 +508,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "signeR": [],
     "singleCellTK": [
         "AnnotationHub",
         "celldex",
