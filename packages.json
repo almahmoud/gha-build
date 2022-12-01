@@ -216,7 +216,6 @@
         "survival",
         "multtest",
         "Biobase",
-        "aws",
         "strucchange",
         "affy",
         "vsn",
@@ -31279,9 +31278,7 @@
         "pillar",
         "RCurl"
     ],
-    "GLAD": [
-        "aws"
-    ],
+    "GLAD": [],
     "GladiaTOX": [
         "RMySQL",
         "RSQLite",
@@ -37605,7 +37602,6 @@
         "oligo",
         "pd.mapping50k.xba240",
         "oligoClasses",
-        "aws",
         "Biobase",
         "Biostrings",
         "affyio",
@@ -40261,8 +40257,7 @@
         "affy"
     ],
     "MANOR": [
-        "GLAD",
-        "aws"
+        "GLAD"
     ],
     "mAPKL": [
         "Biobase",
@@ -70338,8 +70333,7 @@
         "ade4",
         "adehabitatMA",
         "CircStats",
-        "foreach",
-        "aws"
+        "foreach"
     ],
     "seqcombo": [
         "ggplot2",
@@ -72854,7 +72848,6 @@
         "survival",
         "multtest",
         "Biobase",
-        "aws",
         "strucchange",
         "affy",
         "vsn",
@@ -84179,7 +84172,6 @@
     ],
     "globals": [],
     "R.oo": [],
-    "aws": [],
     "strucchange": [
         "zoo",
         "sandwich"
