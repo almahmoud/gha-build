@@ -8627,7 +8627,6 @@
         "blob",
         "dbplyr"
     ],
-    "convert": [],
     "copynumber": [
         "GenomicRanges",
         "GenomeInfoDb",
@@ -22089,9 +22088,7 @@
         "sass",
         "lava"
     ],
-    "maigesPack": [
-        "convert"
-    ],
+    "maigesPack": [],
     "MAIT": [
         "CAMERA",
         "e1071",
@@ -44593,9 +44590,7 @@
         "DelayedArray",
         "XVector"
     ],
-    "TurboNorm": [
-        "convert"
-    ],
+    "TurboNorm": [],
     "tweeDEseq": [
         "edgeR",
         "cqn",
