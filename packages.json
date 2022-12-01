@@ -16490,7 +16490,6 @@
         "ComplexHeatmap",
         "MIRA",
         "tidyr",
-        "simpleCache",
         "fitdistrplus",
         "circlize",
         "GetoptLong",
@@ -106722,7 +106721,6 @@
     ],
     "brglm": [],
     "splitstackshape": [],
-    "simpleCache": [],
     "hash": [],
     "kohonen": [
         "Rcpp"
