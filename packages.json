@@ -111,8 +111,7 @@
         "Homo.sapiens",
         "Mus.musculus",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Mmusculus.UCSC.mm10.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene"
+        "TxDb.Mmusculus.UCSC.mm10.knownGene"
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
@@ -807,7 +806,6 @@
         "Homo.sapiens",
         "Gviz",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "AnnotationHub",
         "ExperimentHub",
         "IlluminaHumanMethylation450kmanifest",
@@ -1695,7 +1693,6 @@
     "musicatk": [
         "VariantAnnotation",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "decompTumor2Sig",
         "factoextra",
         "FactoMineR",
@@ -1737,8 +1734,7 @@
     ],
     "ncGTW": [],
     "nearBynding": [
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "nempi": [],
     "NetActivity": [],
@@ -1947,8 +1943,7 @@
     "POMA": [],
     "preciseTAD": [
         "rCGH",
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "primirTSS": [
         "phastCons100way.UCSC.hg38",
@@ -1967,7 +1962,6 @@
     "profileplyr": [
         "ChIPseeker",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "rGREAT"
     ],
@@ -2063,8 +2057,7 @@
         "BiocVersion"
     ],
     "rCGH": [
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "RcisTarget": [],
     "RcwlPipelines": [],
@@ -2125,8 +2118,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "rGREAT": [
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "rgsepd": [
         "goseq"
@@ -2378,7 +2370,6 @@
     ],
     "signifinder": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "survminer",
         "ggpubr",
         "rstatix",
@@ -2507,9 +2498,7 @@
         "SpidermiR"
     ],
     "Statial": [],
-    "strandCheckR": [
-        "TxDb.Hsapiens.UCSC.hg38.knownGene"
-    ],
+    "strandCheckR": [],
     "StructuralVariantAnnotation": [
         "VariantAnnotation"
     ],
@@ -2647,7 +2636,6 @@
     "uncoverappLib": [
         "Gviz",
         "Homo.sapiens",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "EnsDb.Hsapiens.v75",
         "EnsDb.Hsapiens.v86",
@@ -2804,7 +2792,6 @@
         "TxDb.Mmusculus.UCSC.mm10.knownGene"
     ],
     "TxDb.Mmusculus.UCSC.mm10.knownGene": [],
-    "TxDb.Hsapiens.UCSC.hg38.knownGene": [],
     "doBy": [
         "pbkrtest",
         "lme4"
