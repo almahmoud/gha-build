@@ -531,16 +531,13 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "GeoDiff": [
-        "GeomxTools"
-    ],
+    "GeoDiff": [],
     "GEOexplorer": [
         "factoextra",
         "FactoMineR",
         "ggpubr",
         "rstatix"
     ],
-    "GeomxTools": [],
     "GEWIST": [],
     "ggbio": [],
     "glmSparseNet": [
@@ -1223,9 +1220,7 @@
         "scater"
     ],
     "spaSim": [],
-    "SpatialDecon": [
-        "GeomxTools"
-    ],
+    "SpatialDecon": [],
     "spatialHeatmap": [
         "scater"
     ],
