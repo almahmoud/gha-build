@@ -46336,7 +46336,6 @@
         "ff",
         "argparse",
         "RnBeads.hg19",
-        "bigassertr",
         "bigparallelr",
         "cowplot",
         "foreach",
@@ -108633,7 +108632,6 @@
         "Rcpp"
     ],
     "bigstatsr": [
-        "bigassertr",
         "bigparallelr",
         "cowplot",
         "foreach",
@@ -108670,10 +108668,8 @@
         "RCurl",
         "GenomeInfoDbData"
     ],
-    "bigassertr": [],
     "bigparallelr": [
         "foreach",
-        "bigassertr",
         "doParallel",
         "flock",
         "RhpcBLASctl",
@@ -108681,7 +108677,6 @@
         "Rcpp"
     ],
     "rmio": [
-        "bigassertr",
         "ff"
     ],
     "depmap": [
