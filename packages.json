@@ -17408,7 +17408,6 @@
         "blob",
         "vctrs"
     ],
-    "gaggle": [],
     "GAprediction": [
         "glmnet",
         "survival",
