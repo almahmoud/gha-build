@@ -3170,7 +3170,6 @@
     ],
     "miRSM": [
         "BicARE",
-        "s4vd",
         "miRspongeR",
         "SPONGE",
         "clusterProfiler",
@@ -6099,7 +6098,6 @@
     "BSgenome.Hsapiens.UCSC.hg18": [
         "BSgenome"
     ],
-    "s4vd": [],
     "cvms": [
         "lme4",
         "nloptr",
