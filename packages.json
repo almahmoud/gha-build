@@ -1258,8 +1258,7 @@
         "distinct",
         "scater",
         "spatstat",
-        "caret",
-        "spatstat.linnet"
+        "caret"
     ],
     "CONFESS": [
         "contrast",
@@ -7520,13 +7519,9 @@
     ],
     "Ecume": [
         "spatstat",
-        "caret",
-        "spatstat.linnet"
+        "caret"
     ],
-    "spatstat": [
-        "spatstat.linnet"
-    ],
-    "spatstat.linnet": [],
+    "spatstat": [],
     "contrast": [
         "rms"
     ],
