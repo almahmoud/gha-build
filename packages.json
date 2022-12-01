@@ -345,7 +345,6 @@
         "BSgenome",
         "biovizBase",
         "lme4",
-        "ggfortify",
         "Hmisc",
         "VariantAnnotation",
         "nloptr",
@@ -4380,7 +4379,6 @@
         "BiocFileCache"
     ],
     "hermes": [
-        "ggfortify",
         "biomaRt",
         "DESeq2",
         "MultiAssayExperiment",
@@ -4596,7 +4594,6 @@
         "GenomicFeatures",
         "IVAS",
         "lme4",
-        "ggfortify",
         "rtracklayer",
         "biomaRt",
         "nloptr",
@@ -4852,7 +4849,6 @@
     "IVAS": [
         "GenomicFeatures",
         "lme4",
-        "ggfortify",
         "rtracklayer",
         "biomaRt",
         "nloptr",
@@ -7511,7 +7507,6 @@
         "BiocFileCache"
     ],
     "proBatch": [
-        "ggfortify",
         "pvca",
         "sva",
         "WGCNA",
@@ -10824,7 +10819,6 @@
         "BiocFileCache"
     ],
     "mGSZ": [],
-    "ggfortify": [],
     "msigdbr": [],
     "tidyverse": [
         "broom",
