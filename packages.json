@@ -1060,7 +1060,6 @@
         "VariantAnnotation"
     ],
     "ggmsa": [],
-    "ggtreeDendro": [],
     "glmSparseNet": [
         "survminer",
         "ggpubr",
