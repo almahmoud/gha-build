@@ -1114,7 +1114,6 @@
     ],
     "ggmsa": [],
     "ggtreeDendro": [],
-    "ggtreeExtra": [],
     "Glimma": [],
     "glmSparseNet": [
         "survminer",
@@ -1605,9 +1604,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MicrobiotaProcess": [
-        "ggtreeExtra"
-    ],
+    "MicrobiotaProcess": [],
     "MIGSA": [
         "GOstats"
     ],
