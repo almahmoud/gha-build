@@ -2425,7 +2425,6 @@
     ],
     "fobitools": [
         "ggraph",
-        "RecordLinkage",
         "textclean",
         "tidygraph",
         "lexicon"
@@ -3703,7 +3702,6 @@
     ],
     "MetaPhOR": [
         "clusterProfiler",
-        "RecordLinkage",
         "DOSE",
         "enrichplot",
         "GOSemSim",
@@ -7612,7 +7610,6 @@
     ],
     "fds": [],
     "SPARQL": [],
-    "RecordLinkage": [],
     "NHPoisson": [
         "car",
         "pbkrtest",
