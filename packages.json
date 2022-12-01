@@ -3240,8 +3240,7 @@
     ],
     "netOmics": [
         "RandomWalkRestartMH",
-        "dnet",
-        "supraHex"
+        "dnet"
     ],
     "NetSAM": [],
     "netSmooth": [
@@ -3551,8 +3550,7 @@
         "BiocVersion"
     ],
     "Pi": [
-        "dnet",
-        "supraHex"
+        "dnet"
     ],
     "Pigengene": [
         "clusterProfiler",
@@ -3810,8 +3808,7 @@
     ],
     "ramwas": [],
     "RandomWalkRestartMH": [
-        "dnet",
-        "supraHex"
+        "dnet"
     ],
     "RAREsim": [
         "nloptr",
@@ -4698,7 +4695,6 @@
         "testthat"
     ],
     "supersigs": [],
-    "supraHex": [],
     "surfaltr": [
         "testthat"
     ],
@@ -5541,9 +5537,7 @@
         "BSgenome.Hsapiens.UCSC.hg19"
     ],
     "mppa": [],
-    "dnet": [
-        "supraHex"
-    ],
+    "dnet": [],
     "RcmdrMisc": [
         "car",
         "pbkrtest",
