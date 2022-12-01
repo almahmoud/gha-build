@@ -351,9 +351,7 @@
         "distinct",
         "scater"
     ],
-    "consensusDE": [
-        "RUVSeq"
-    ],
+    "consensusDE": [],
     "contiBAIT": [
         "GenomicFiles"
     ],
@@ -1295,7 +1293,6 @@
         "ExperimentHub"
     ],
     "octad": [
-        "RUVSeq",
         "octad.db",
         "ExperimentHub",
         "AnnotationHub",
@@ -1558,9 +1555,7 @@
         "ggbio",
         "biovizBase"
     ],
-    "ribosomeProfilingQC": [
-        "RUVSeq"
-    ],
+    "ribosomeProfilingQC": [],
     "rifi": [
         "car",
         "pbkrtest"
@@ -1656,7 +1651,6 @@
         "car",
         "pbkrtest"
     ],
-    "RUVSeq": [],
     "scanMiRApp": [
         "AnnotationHub",
         "BiocVersion"
@@ -1686,9 +1680,7 @@
         "annotatr",
         "BiocVersion"
     ],
-    "scone": [
-        "RUVSeq"
-    ],
+    "scone": [],
     "scoreInvHap": [],
     "scPipe": [
         "scater"
@@ -1842,9 +1834,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "standR": [
-        "RUVSeq"
-    ],
+    "standR": [],
     "StarBioTrek": [],
     "Statial": [],
     "strandCheckR": [],
