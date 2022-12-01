@@ -3248,9 +3248,7 @@
         "SummarizedExperiment",
         "SingleCellExperiment"
     ],
-    "ccImpute": [
-        "SIMLR"
-    ],
+    "ccImpute": [],
     "ccmap": [
         "AnnotationDbi",
         "RSQLite",
@@ -24472,7 +24470,6 @@
         "tibble",
         "tidyselect"
     ],
-    "SIMLR": [],
     "simpleSeg": [
         "SummarizedExperiment",
         "cytomapper",
@@ -24523,7 +24520,6 @@
         "SummarizedExperiment"
     ],
     "SingleCellSignalR": [
-        "SIMLR",
         "scran",
         "SingleCellExperiment",
         "scuttle",
