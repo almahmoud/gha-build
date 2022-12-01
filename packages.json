@@ -111,7 +111,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "ASSIGN": [],
     "ATACCoGAPS": [
         "TFBSTools",
         "motifmatchr",
@@ -2865,9 +2864,7 @@
         "pbkrtest",
         "lme4"
     ],
-    "TBSignatureProfiler": [
-        "ASSIGN"
-    ],
+    "TBSignatureProfiler": [],
     "TCC": [],
     "TCGAbiolinksGUI": [
         "ELMER",
