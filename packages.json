@@ -15833,7 +15833,6 @@
         "tidyselect",
         "XVector"
     ],
-    "genArise": [],
     "genbankr": [
         "GenomicRanges",
         "GenomicFeatures",
