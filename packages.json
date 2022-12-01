@@ -2478,7 +2478,6 @@
         "BSgenome",
         "GenomicFeatures"
     ],
-    "ILoReg": [],
     "imageHTS": [
         "cellHTS2",
         "Category"
