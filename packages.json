@@ -1243,7 +1243,6 @@
         "testthat",
         "waldo"
     ],
-    "CNVRanger": [],
     "CNVrd2": [
         "VariantAnnotation",
         "BSgenome",
