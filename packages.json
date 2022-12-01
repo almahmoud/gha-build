@@ -20904,7 +20904,6 @@
         "patchwork",
         "RSQLite",
         "Rsamtools",
-        "scico",
         "tibble",
         "tidyr",
         "KEGGREST",
@@ -34113,7 +34112,6 @@
     ],
     "vissE": [
         "ggplot2",
-        "scico",
         "ggwordcloud",
         "GSEABase",
         "ggforce",
@@ -34156,7 +34154,6 @@
         "ggnewscale",
         "ggplot2",
         "patchwork",
-        "scico",
         "sf",
         "SingleCellExperiment",
         "SpatialExperiment",
@@ -38468,7 +38465,6 @@
         "shiny",
         "bslib"
     ],
-    "scico": [],
     "VarfromPDB": [
         "RISmed"
     ],
