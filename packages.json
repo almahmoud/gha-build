@@ -1013,7 +1013,6 @@
         "enrichplot",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "escape": [],
     "EventPointer": [
         "SGSeq"
     ],
