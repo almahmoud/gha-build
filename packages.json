@@ -27787,7 +27787,6 @@
     ],
     "NxtIRFcore": [
         "NxtIRFdata",
-        "fst",
         "ggplot2",
         "AnnotationHub",
         "BiocFileCache",
@@ -28729,7 +28728,6 @@
         "BSgenome",
         "cowplot",
         "DESeq2",
-        "fst",
         "GenomeInfoDb",
         "GenomicFeatures",
         "ggplot2",
@@ -33790,7 +33788,6 @@
         "BSgenome",
         "cowplot",
         "DESeq2",
-        "fst",
         "httr",
         "Rsamtools",
         "SummarizedExperiment",
@@ -35737,7 +35734,6 @@
         "Biostrings",
         "DT",
         "ensembldb",
-        "fst",
         "GenomeInfoDb",
         "GenomicFeatures",
         "GenomicRanges",
@@ -39705,7 +39701,6 @@
     ],
     "SpliceWiz": [
         "NxtIRFdata",
-        "fst",
         "ggplot2",
         "AnnotationHub",
         "BiocFileCache",
@@ -41887,7 +41882,6 @@
         "BSgenome",
         "cowplot",
         "DESeq2",
-        "fst",
         "GenomicFeatures",
         "ggplot2",
         "httr",
@@ -49949,7 +49943,6 @@
         "bslib",
         "sass"
     ],
-    "fst": [],
     "octad.db": [
         "ExperimentHub",
         "AnnotationHub",
