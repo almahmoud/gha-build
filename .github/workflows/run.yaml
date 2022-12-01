@@ -1,0 +1,220 @@
+name: Build packages matrix
+on:
+  workflow_dispatch: {}
+  push: {}
+  schedule:
+    - cron: '*/10 * * * *'
+
+jobs:
+  getlistformatrix:
+    concurrency:
+      group: dispatch
+      cancel-in-progress: false
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.matrix.outputs.pkglist }}
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Initialize if necessary
+        id: claim
+        uses: nick-fields/retry@v2
+        with:
+          timeout_minutes: 10
+          max_attempts: 50
+          shell: bash
+          command: |
+            set -x
+            git config --global --add safe.directory "$GITHUB_WORKSPACE"
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            bash .github/scripts/list_tobuild.sh
+
+      - id: matrix
+        run: |
+          mkdir -p /tmp
+          head -n90 tobuild.txt > /tmp/pkglist
+          echo pkglist=$(echo "['$(cat /tmp/pkglist |  paste -d, -s | sed s/,/\',\'/g)']") >> $GITHUB_OUTPUT
+          sed '1,90d' tobuild.txt > /tmp/newtobuild
+
+      - id: tokenlist
+        run: |
+          # PAT will trigger a push workflow, GITHUB_TOKEN won't
+          if [ -s tobuild.txt ]; then TOK=${{secrets.PAT}}; else TOK=${{secrets.GITHUB_TOKEN}}; fi
+          echo tok=$(echo "$TOK") >> $GITHUB_OUTPUT
+
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ steps.tokenlist.outputs.tok }}
+          persist-credentials: true
+
+      - name: Update list
+        uses: nick-fields/retry@v2
+        with:
+          timeout_minutes: 10
+          max_attempts: 50
+          shell: bash
+          command: |
+            set -x
+            git config --global --add safe.directory "$GITHUB_WORKSPACE"
+            git pull origin main || git reset --hard origin/main
+            cp /tmp/newtobuild tobuild.txt
+            cat /tmp/pkglist | xargs -i sed -i 's/readytobuild/claimed/g' "lists/{}"
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add lists
+            git add tobuild.txt
+            git commit -m "Updating tobuild list"
+            git push
+
+  build:
+    needs: getlistformatrix
+    strategy:
+      fail-fast: false
+      matrix:
+        pkg: ${{fromJson(needs.getlistformatrix.outputs.matrix)}}
+    runs-on: ubuntu-latest
+    container:
+      image: bioconductor/bioconductor_docker:RELEASE_3_16
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Get Current Job Log URL
+        uses: Tiryoh/gha-jobid-action@v0
+        id: jobs
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          job_name: build (${{ matrix.pkg }})
+          per_page: 100
+
+      - id: checkurl
+        run: |
+          JOBURL="${{ steps.jobs.outputs.html_url }}"
+          mkdir -p /tmp/logs/run_ids/container
+          if [ "$JOBURL" = "null" ]; then sleep 20; exit 1; else if [ "$JOBURL" = "" ]; then sleep 20; exit 1; else echo "$JOBURL" >> /tmp/logs/run_ids/container/${{ matrix.pkg }}; exit 0; fi; fi;
+        continue-on-error: true
+
+      - name: Get Current Job Log URL x2
+        uses: Tiryoh/gha-jobid-action@v0
+        if: steps.checkurl.outcome=='failure'
+        id: jobs2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          job_name: build (${{ matrix.pkg }})
+          per_page: 100
+
+      - id: checkurl2
+        if: steps.checkurl.outcome=='failure'
+        run: |
+          JOBURL="${{ steps.jobs2.outputs.html_url }}"
+          mkdir -p /tmp/logs/run_ids/container
+          if [ "$JOBURL" = "null" ]; then sleep 20; exit 1; else if [ "$JOBURL" = "" ]; then sleep 20; exit 1; else echo "$JOBURL" >> /tmplogs/run_ids/container/${{ matrix.pkg }}; exit 0; fi; fi;
+        continue-on-error: true
+
+      - name: Get Current Job Log URL x3
+        uses: Tiryoh/gha-jobid-action@v0
+        if: steps.checkurl2.outcome=='failure'
+        id: jobs3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          job_name: build (${{ matrix.pkg }})
+          per_page: 100
+
+      - id: checkurl3
+        if: steps.checkurl2.outcome=='failure'
+        run: |
+          JOBURL="${{ steps.jobs3.outputs.html_url }}"
+          mkdir -p /tmp/logs/run_ids/container
+          if [ "$JOBURL" = "null" ]; then sleep 20; exit 1; else if [ "$JOBURL" = "" ]; then sleep 20; exit 1; else echo "$JOBURL" >> /tmp/logs/run_ids/container/${{ matrix.pkg }}; exit 0; fi; fi;
+        continue-on-error: true
+
+      - name: Push run_id
+        uses: nick-fields/retry@v2
+        with:
+          timeout_minutes: 10
+          max_attempts: 50
+          shell: bash
+          command: |
+            set -x
+            git config --global --add safe.directory "$GITHUB_WORKSPACE"
+            git pull origin main || git reset --hard origin/main
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            mkdir -p logs/run_ids/container
+            PKG="${{ matrix.pkg }}"
+            sed -i 's/claimed/building/g' "lists/$PKG"
+            cat /tmp/logs/run_ids/container/$PKG >> logs/run_ids/container/$PKG
+            echo "${{ github.repository }}/actions/runs/${{ github.run_id }}" >> logs/run_ids/container/$PKG
+            git add logs
+            git commit -m "push run_id container $PKG"
+            git push
+
+      - name: Build claimed package
+        id: pkgbuild
+        run: |
+          LIBRARY=$(echo "$(pwd)/built/")
+          PKG="${{ matrix.pkg }}"
+          bash .github/scripts/build_package.sh $LIBRARY $PKG
+        continue-on-error: true
+
+      - name: Get tar name
+        id: tar
+        run: |
+          echo name=$(ls /tmp/tars/ | grep ${{matrix.pkg}} | sed 's#/tmp/tars/##g') >> $GITHUB_OUTPUT
+        if: steps.pkgbuild.outcome=='success'
+
+      - name: Push failed before exit
+        uses: nick-fields/retry@v2
+        with:
+          timeout_minutes: 10
+          max_attempts: 50
+          shell: bash
+          command: |
+            PKG="${{ matrix.pkg }}"
+            git pull origin main || git reset --hard origin/main
+            mkdir -p lists/failed
+            cp /tmp/$PKG lists/failed/$PKG;
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add lists
+            git commit -m "Marked failed $PKG"
+            git push
+        if: steps.pkgbuild.outcome=='failure'
+
+      - name: Exit on failure
+        run: exit 1
+        if: steps.pkgbuild.outcome=='failure'
+
+      - uses: actions/upload-artifact@v3
+        with:
+          name: "artifact-${{ matrix.pkg }}"
+          path: /tmp/tars/${{steps.tar.outputs.name}}
+
+      - name: Install rclone
+        shell: bash
+        run: "sudo -v ; curl https://rclone.org/install.sh | sudo bash"
+
+      - name: Add rclone conf file
+        run: |
+          echo "$RCLONE_CONF" > ~/.rclone.conf
+        env:
+          RCLONE_CONF: ${{secrets.RCLONE_CONF}}
+
+      - name: Rclone push package
+        run: |
+          set -x
+          rclone copy /tmp/tars/${{steps.tar.outputs.name}} js2:/gha-build/container/ -vvvvvv
+
+      - name: Rclone mark as pushed
+        uses: nick-fields/retry@v2
+        with:
+          timeout_minutes: 10
+          max_attempts: 50
+          shell: bash
+          command: |
+            set -x
+            git config --global --add safe.directory "$GITHUB_WORKSPACE"
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            if bash -c "bash .github/scripts/rclone_push.sh ${{ matrix.pkg }} ${{steps.tar.outputs.name}} 2>&1 | grep -i 'error'"; then exit 1; else 
+            echo "Marked pushed ${{ matrix.pkg }}"; fi
