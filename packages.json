@@ -3412,7 +3412,6 @@
         "purrr",
         "MatrixModels",
         "TSP",
-        "gclus",
         "callr",
         "IRanges",
         "RSQLite",
@@ -14097,7 +14096,6 @@
         "bit64",
         "blob",
         "TSP",
-        "gclus",
         "callr",
         "tweenr",
         "systemfonts"
@@ -14501,7 +14499,6 @@
         "memoise",
         "restfulr",
         "TSP",
-        "gclus",
         "DelayedArray",
         "callr",
         "dbplyr",
@@ -15707,7 +15704,6 @@
         "openssl",
         "selectr",
         "TSP",
-        "gclus",
         "systemfonts",
         "callr"
     ],
@@ -20639,7 +20635,6 @@
         "restfulr",
         "annotate",
         "TSP",
-        "gclus",
         "callr"
     ],
     "frenchFISH": [
@@ -22655,7 +22650,6 @@
         "knitr",
         "RcppEigen",
         "TSP",
-        "gclus",
         "callr",
         "pbkrtest",
         "quantreg",
@@ -26096,7 +26090,6 @@
         "bit64",
         "blob",
         "TSP",
-        "gclus",
         "igraph",
         "callr",
         "dbplyr",
@@ -26512,7 +26505,6 @@
         "pillar",
         "highr",
         "TSP",
-        "gclus",
         "callr"
     ],
     "immunoClust": [
@@ -31623,7 +31615,6 @@
         "lava",
         "hms",
         "TSP",
-        "gclus",
         "latticeExtra",
         "callr",
         "pillar",
@@ -32495,7 +32486,6 @@
         "ade4",
         "segmented",
         "TSP",
-        "gclus",
         "httpuv",
         "fontawesome",
         "promises",
@@ -33079,7 +33069,6 @@
         "nloptr",
         "MatrixModels",
         "TSP",
-        "gclus",
         "DelayedArray",
         "bit64",
         "progress",
@@ -38048,7 +38037,6 @@
         "httr",
         "BiocFileCache",
         "TSP",
-        "gclus",
         "Hmisc",
         "dbplyr",
         "dplyr",
@@ -40225,7 +40213,6 @@
         "GenomicAlignments",
         "restfulr",
         "TSP",
-        "gclus",
         "callr",
         "dbplyr",
         "hms"
@@ -40897,7 +40884,6 @@
         "bit64",
         "blob",
         "TSP",
-        "gclus",
         "callr"
     ],
     "pcaMethods": [],
@@ -44344,7 +44330,6 @@
         "promises",
         "RcppEigen",
         "TSP",
-        "gclus",
         "pillar",
         "lmtest",
         "callr",
@@ -51541,7 +51526,6 @@
         "DT",
         "Biostrings",
         "TSP",
-        "gclus",
         "fitdistrplus",
         "future",
         "future.apply",
@@ -51839,7 +51823,6 @@
         "scales",
         "Rtsne",
         "TSP",
-        "gclus",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -52399,7 +52382,6 @@
         "V8",
         "Rtsne",
         "TSP",
-        "gclus",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -52558,7 +52540,6 @@
         "base64",
         "highr",
         "TSP",
-        "gclus",
         "multtest",
         "callr",
         "RSQLite",
@@ -55268,7 +55249,6 @@
         "openssl",
         "bit64",
         "TSP",
-        "gclus",
         "callr"
     ],
     "SplicingFactory": [
@@ -61055,7 +61035,6 @@
         "blob",
         "memoise",
         "TSP",
-        "gclus",
         "callr",
         "XVector",
         "GenomeInfoDb"
@@ -64438,15 +64417,13 @@
         "purrr",
         "promises",
         "TSP",
-        "gclus",
         "callr",
         "tidyselect",
         "pillar",
         "openssl"
     ],
     "seriation": [
-        "TSP",
-        "gclus"
+        "TSP"
     ],
     "webshot": [
         "callr"
@@ -64461,7 +64438,6 @@
         "pillar"
     ],
     "TSP": [],
-    "gclus": [],
     "DirichletReg": [
         "maxLik",
         "miscTools",
@@ -68041,7 +68017,6 @@
         "highr",
         "hms",
         "TSP",
-        "gclus",
         "callr"
     ],
     "shinybusy": [
