@@ -3858,7 +3858,6 @@
         "DOSE",
         "ggtree"
     ],
-    "segmentSeq": [],
     "selectKSigs": [
         "HiLDA",
         "GenomicFeatures",
