@@ -414,7 +414,6 @@
     "DeepPINCS": [
         "ttgsea"
     ],
-    "deepSNV": [],
     "derfinder": [
         "GenomicFiles"
     ],
@@ -1042,9 +1041,7 @@
         "methylumi",
         "FDb.InfiniumMethylation.hg19"
     ],
-    "mitoClone2": [
-        "deepSNV"
-    ],
+    "mitoClone2": [],
     "MMUPHin": [
         "Maaslin2",
         "car",
