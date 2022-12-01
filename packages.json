@@ -1135,9 +1135,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "proBatch": [
-        "pvca"
-    ],
+    "proBatch": [],
     "profileplyr": [
         "rGREAT"
     ],
@@ -1163,7 +1161,6 @@
         "car"
     ],
     "PureCN": [],
-    "pvca": [],
     "Pviz": [
         "Gviz"
     ],
