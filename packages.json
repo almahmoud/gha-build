@@ -15525,7 +15525,6 @@
         "Matrix",
         "hms",
         "GEOmap",
-        "RSEIS",
         "splancs",
         "purrr",
         "MatrixGenerics",
@@ -16492,7 +16491,6 @@
         "DelayedArray",
         "Matrix",
         "GEOmap",
-        "RSEIS",
         "splancs",
         "pillar",
         "MatrixGenerics",
@@ -23818,7 +23816,6 @@
         "ncdfFlow",
         "DelayedArray",
         "GEOmap",
-        "RSEIS",
         "splancs",
         "Matrix",
         "MatrixGenerics",
@@ -23880,7 +23877,6 @@
         "ncdfFlow",
         "DelayedArray",
         "GEOmap",
-        "RSEIS",
         "splancs",
         "Matrix",
         "MatrixGenerics",
@@ -79386,7 +79382,6 @@
     ],
     "RFOC": [
         "GEOmap",
-        "RSEIS",
         "splancs",
         "fields",
         "MBA",
@@ -79419,7 +79414,6 @@
         "Matrix",
         "pillar"
     ],
-    "RSEIS": [],
     "splancs": [
         "sp"
     ],
