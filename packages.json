@@ -9758,7 +9758,6 @@
         "ggplot2",
         "GenomicAlignments"
     ],
-    "MethTargetedNGS": [],
     "MethylAid": [
         "ggplot2",
         "minfi",
