@@ -2801,7 +2801,6 @@
         "pbkrtest"
     ],
     "SpotClean": [],
-    "SRAdb": [],
     "srnadiff": [
         "devtools",
         "Gviz",
