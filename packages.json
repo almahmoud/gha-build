@@ -28120,7 +28120,6 @@
         "Biobase",
         "affyio"
     ],
-    "FScanR": [],
     "FunChIP": [
         "GenomicRanges",
         "shiny",
