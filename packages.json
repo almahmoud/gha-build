@@ -653,7 +653,6 @@
     "ptairMS": [
         "ggpubr"
     ],
-    "Pviz": [],
     "pwOmics": [
         "AnnotationHub",
         "BiocVersion"
