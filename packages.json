@@ -39715,7 +39715,6 @@
         "htmltools",
         "base64enc",
         "mnormt",
-        "pbivnorm",
         "nlme",
         "hms",
         "prettyunits",
@@ -150728,7 +150727,6 @@
         "base64enc",
         "magrittr",
         "mnormt",
-        "pbivnorm",
         "nlme",
         "stringr",
         "knitr",
@@ -150755,10 +150753,8 @@
     ],
     "lavaan": [
         "MASS",
-        "mnormt",
-        "pbivnorm"
+        "mnormt"
     ],
-    "pbivnorm": [],
     "RNOmni": [
         "plyr",
         "Rcpp",
