@@ -277,7 +277,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "DMRforPairs": [],
     "dmrseq": [
         "annotatr",
         "AnnotationHub",
