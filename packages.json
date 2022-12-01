@@ -1075,7 +1075,6 @@
         "GO.db",
         "AnnotationDbi"
     ],
-    "bgx": [],
     "BicARE": [
         "GSEABase",
         "annotate",
