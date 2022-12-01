@@ -991,9 +991,7 @@
         "AnnotationDbi",
         "ggplot2"
     ],
-    "beadarraySNP": [
-        "quantsmooth"
-    ],
+    "beadarraySNP": [],
     "BEARscc": [
         "ggplot2",
         "SingleCellExperiment"
@@ -6587,7 +6585,6 @@
         "GWASTools",
         "SeqVarTools",
         "logistf",
-        "quantsmooth",
         "mice",
         "broom",
         "dplyr",
@@ -7536,7 +7533,6 @@
     ],
     "GWASTools": [
         "logistf",
-        "quantsmooth",
         "mice",
         "broom",
         "dplyr",
@@ -7547,7 +7543,6 @@
         "GWASTools",
         "VariantAnnotation",
         "logistf",
-        "quantsmooth",
         "AnnotationDbi",
         "rtracklayer",
         "BSgenome",
@@ -9222,7 +9217,6 @@
         "oligoClasses",
         "GWASTools",
         "logistf",
-        "quantsmooth",
         "mice",
         "broom",
         "dplyr",
@@ -13797,7 +13791,6 @@
         "GenomicAlignments",
         "dbplyr"
     ],
-    "quantsmooth": [],
     "QuartPAC": [
         "GraphPAC",
         "SpacePAC"
@@ -16306,7 +16299,6 @@
     ],
     "SIM": [
         "globaltest",
-        "quantsmooth",
         "AnnotationDbi",
         "annotate"
     ],
