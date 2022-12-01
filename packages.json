@@ -6904,7 +6904,6 @@
         "BSgenome"
     ],
     "TSCAN": [],
-    "tscR": [],
     "ttgsea": [
         "keras",
         "textstem",
