@@ -262,7 +262,6 @@
     ],
     "GARS": [],
     "GDCRNATools": [],
-    "GeneAccord": [],
     "GenomicScores": [
         "AnnotationHub",
         "BiocVersion"
