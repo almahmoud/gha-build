@@ -1672,7 +1672,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "nempi": [],
-    "NetActivity": [],
     "netboxr": [
         "clusterProfiler"
     ],
