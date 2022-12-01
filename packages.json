@@ -27898,7 +27898,6 @@
         "stringi",
         "pillar"
     ],
-    "DriverNet": [],
     "DropletUtils": [
         "SingleCellExperiment",
         "Matrix",
