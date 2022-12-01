@@ -15148,7 +15148,6 @@
         "BSgenome",
         "GenomicScores",
         "Gviz",
-        "shinyTree",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -17222,7 +17221,6 @@
         "AnnotationDbi"
     ],
     "condformat": [],
-    "shinyTree": [],
     "msigdb": [
         "ExperimentHub",
         "GSEABase",
