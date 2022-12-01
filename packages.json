@@ -2622,7 +2622,6 @@
         "biomaRt"
     ],
     "GOpro": [],
-    "goProfiles": [],
     "GOSemSim": [],
     "goseq": [
         "geneLenDataBase",
@@ -2633,7 +2632,6 @@
         "topGO"
     ],
     "goSorensen": [
-        "goProfiles",
         "clusterProfiler",
         "DOSE",
         "enrichplot",
