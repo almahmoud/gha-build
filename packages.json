@@ -1801,7 +1801,6 @@
         "Hmisc",
         "VariantAnnotation"
     ],
-    "combi": [],
     "coMET": [
         "biomaRt",
         "Gviz",
