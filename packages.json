@@ -266,9 +266,7 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "BUMHMM": [
-        "devtools"
-    ],
+    "BUMHMM": [],
     "BUSpaRse": [],
     "CAFE": [
         "biovizBase",
@@ -457,9 +455,7 @@
     "COCOA": [
         "MIRA"
     ],
-    "cogena": [
-        "devtools"
-    ],
+    "cogena": [],
     "Cogito": [
         "TxDb.Mmusculus.UCSC.mm9.knownGene"
     ],
@@ -1017,9 +1013,7 @@
         "car",
         "pbkrtest"
     ],
-    "GCSscore": [
-        "devtools"
-    ],
+    "GCSscore": [],
     "GDCRNATools": [
         "clusterProfiler",
         "survminer",
@@ -1249,9 +1243,7 @@
     "imcRtools": [
         "cytomapper"
     ],
-    "INDEED": [
-        "devtools"
-    ],
+    "INDEED": [],
     "InPAS": [],
     "INSPEcT": [
         "TxDb.Mmusculus.UCSC.mm9.knownGene"
@@ -1550,7 +1542,6 @@
     ],
     "methylclock": [
         "methylclockData",
-        "devtools",
         "ExperimentHub",
         "ggpubr",
         "minfi",
@@ -1590,9 +1581,7 @@
         "minfi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "MetID": [
-        "devtools"
-    ],
+    "MetID": [],
     "mia": [
         "scater"
     ],
@@ -1779,8 +1768,7 @@
         "anyLib",
         "clusterProfiler",
         "ReactomePA",
-        "enrichplot",
-        "devtools"
+        "enrichplot"
     ],
     "MungeSumstats": [
         "VariantAnnotation"
@@ -1956,9 +1944,7 @@
         "pbkrtest",
         "lme4"
     ],
-    "oppti": [
-        "devtools"
-    ],
+    "oppti": [],
     "ORFik": [],
     "Organism.dplyr": [],
     "orthogene": [
@@ -1985,9 +1971,7 @@
         "enrichplot"
     ],
     "pareg": [],
-    "PathoStat": [
-        "devtools"
-    ],
+    "PathoStat": [],
     "pcaExplorer": [
         "GOstats"
     ],
@@ -2303,7 +2287,6 @@
         "ExperimentHub"
     ],
     "Rmmquant": [
-        "devtools",
         "TxDb.Mmusculus.UCSC.mm9.knownGene"
     ],
     "RNAAgeCalc": [
@@ -2651,7 +2634,6 @@
     ],
     "SpotClean": [],
     "srnadiff": [
-        "devtools",
         "Gviz",
         "biovizBase",
         "VariantAnnotation"
@@ -3026,7 +3008,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "devtools": [],
     "drc": [
         "car",
         "pbkrtest",
@@ -3160,9 +3141,7 @@
     "cvms": [
         "lme4"
     ],
-    "anyLib": [
-        "devtools"
-    ],
+    "anyLib": [],
     "blme": [
         "lme4"
     ],
