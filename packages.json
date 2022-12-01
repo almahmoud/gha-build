@@ -2502,7 +2502,6 @@
         "rstan",
         "StanHeaders",
         "ggplot2",
-        "loo",
         "pkgbuild",
         "RcppEigen",
         "mgcv",
@@ -2643,7 +2642,6 @@
         "DelayedArray",
         "HDF5Array",
         "beachmat",
-        "loo",
         "pkgbuild",
         "edgeR",
         "igraph",
@@ -21230,7 +21228,6 @@
         "RcppEigen",
         "StanHeaders",
         "ggplot2",
-        "loo",
         "pkgbuild",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -23648,7 +23645,6 @@
         "vctrs",
         "htmlwidgets",
         "interp",
-        "loo",
         "pkgbuild",
         "pillar"
     ],
@@ -34607,7 +34603,6 @@
         "pillar",
         "mgcv",
         "scales",
-        "loo",
         "pkgbuild",
         "ggdist",
         "posterior",
@@ -38262,7 +38257,6 @@
         "restfulr",
         "DelayedArray",
         "hms",
-        "loo",
         "pkgbuild"
     ],
     "RiboProfiling": [
@@ -40859,7 +40853,6 @@
         "mgcv",
         "hms",
         "vroom",
-        "loo",
         "pkgbuild",
         "future",
         "future.apply",
@@ -41316,7 +41309,6 @@
         "htmlwidgets",
         "interp",
         "pillar",
-        "loo",
         "pkgbuild"
     ],
     "scMET": [
@@ -41339,7 +41331,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "loo",
         "pkgbuild",
         "GenomicRanges",
         "DelayedArray",
@@ -43614,7 +43605,6 @@
         "rstantools",
         "StanHeaders",
         "interp",
-        "loo",
         "pkgbuild"
     ],
     "SingleMoleculeFootprinting": [
@@ -52298,7 +52288,6 @@
     "rstan": [
         "StanHeaders",
         "ggplot2",
-        "loo",
         "pkgbuild",
         "RcppEigen",
         "mgcv",
@@ -52310,7 +52299,6 @@
     "StanHeaders": [
         "RcppEigen"
     ],
-    "loo": [],
     "pkgbuild": [],
     "prettydoc": [
         "rmarkdown",
@@ -55628,7 +55616,6 @@
         "RcppEigen",
         "StanHeaders",
         "ggplot2",
-        "loo",
         "pkgbuild",
         "scales",
         "tibble",
@@ -55641,7 +55628,6 @@
         "RcppEigen",
         "StanHeaders",
         "ggplot2",
-        "loo",
         "pkgbuild",
         "mgcv",
         "scales",
