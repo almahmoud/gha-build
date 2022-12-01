@@ -60967,7 +60967,6 @@
         "reticulate",
         "ballgown",
         "gridExtra",
-        "rafalib",
         "FactoMineR",
         "factoextra",
         "PerformanceAnalytics",
@@ -75311,7 +75310,6 @@
         "SummarizedExperiment",
         "Matrix",
         "purrr",
-        "rafalib",
         "MatrixGenerics",
         "GenomicRanges",
         "Biobase",
@@ -89565,7 +89563,6 @@
         "RCurl",
         "lambda.r"
     ],
-    "rafalib": [],
     "systemPipeRdata": [
         "Biostrings",
         "IRanges",
