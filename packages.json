@@ -33692,9 +33692,7 @@
         "mgcv",
         "scales"
     ],
-    "OrderedList": [
-        "twilight"
-    ],
+    "OrderedList": [],
     "ORFhunteR": [
         "Biostrings",
         "rtracklayer",
@@ -50687,7 +50685,6 @@
         "quantreg",
         "survival"
     ],
-    "twilight": [],
     "twoddpcr": [
         "ggplot2",
         "scales",
