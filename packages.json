@@ -31463,7 +31463,6 @@
     ],
     "MethylSeekR": [
         "rtracklayer",
-        "mhsmm",
         "IRanges",
         "BSgenome",
         "GenomicRanges",
@@ -66708,7 +66707,6 @@
         "rebus.datetimes"
     ],
     "rebus.datetimes": [],
-    "mhsmm": [],
     "GeneNet": [],
     "ggmcmc": [
         "dplyr",
