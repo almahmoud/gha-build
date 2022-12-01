@@ -982,7 +982,6 @@
     "MWASTools": [
         "car"
     ],
-    "myvariant": [],
     "NADfinder": [
         "trackViewer",
         "ATACseqQC",
