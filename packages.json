@@ -58,7 +58,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "anota2seq": [],
     "APAlyzer": [
         "VariantAnnotation"
     ],
