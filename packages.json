@@ -20475,7 +20475,6 @@
         "rqubic",
         "subspace",
         "SOMbrero",
-        "ppclust",
         "miRspongeR",
         "SummarizedExperiment",
         "GSEABase",
@@ -31809,7 +31808,6 @@
         "GenomicRanges",
         "nloptr",
         "PMCMRplus",
-        "ppclust",
         "survivalAnalysis",
         "glmnet",
         "future.apply",
@@ -41314,7 +41312,6 @@
         "bslib",
         "pillar"
     ],
-    "ppclust": [],
     "MatrixCorrelation": [
         "progress",
         "RSpectra",
