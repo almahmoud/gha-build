@@ -3738,7 +3738,6 @@
         "testthat",
         "waldo"
     ],
-    "gemma.R": [],
     "genbankr": [
         "GenomicFeatures",
         "VariantAnnotation",
