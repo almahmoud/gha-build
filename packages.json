@@ -2950,7 +2950,6 @@
         "Oscope"
     ],
     "scGPS": [],
-    "schex": [],
     "scMAGeCK": [],
     "scMerge": [
         "M3Drop"
@@ -2988,13 +2987,10 @@
         "meshr",
         "GOstats",
         "ReactomePA",
-        "schex",
         "BiocVersion",
         "enrichplot"
     ],
-    "scTGIF": [
-        "schex"
-    ],
+    "scTGIF": [],
     "scTreeViz": [
         "epivizr",
         "clustree",
