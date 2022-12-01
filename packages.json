@@ -3017,15 +3017,11 @@
         "ensembldb"
     ],
     "msImpute": [],
-    "msmsEDA": [],
-    "msmsTests": [
-        "msmsEDA"
-    ],
+    "msmsTests": [],
     "MSnID": [
         "msmsTests",
         "AnnotationHub",
-        "BiocVersion",
-        "msmsEDA"
+        "BiocVersion"
     ],
     "MSPrep": [
         "sva",
