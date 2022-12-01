@@ -5629,7 +5629,6 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "genomicInstability": [],
     "GenomicInteractionNodes": [
         "AnnotationDbi",
         "GO.db",
