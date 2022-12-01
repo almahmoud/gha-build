@@ -9862,7 +9862,6 @@
         "dplyr",
         "shiny",
         "AlgDesign",
-        "import",
         "AnnotationDbi",
         "shinythemes",
         "Biobase",
@@ -156814,7 +156813,6 @@
         "scales",
         "curl",
         "rstudioapi",
-        "import",
         "plotly",
         "shinyFiles",
         "stringi",
@@ -156922,7 +156920,6 @@
         "rematch2"
     ],
     "AlgDesign": [],
-    "import": [],
     "shinythemes": [
         "shiny",
         "httpuv",
