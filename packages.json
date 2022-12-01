@@ -5775,7 +5775,6 @@
     "scTensor": [
         "reactome.db",
         "nnTensor",
-        "ccTensor",
         "heatmaply",
         "AnnotationHub",
         "Category",
@@ -7550,7 +7549,6 @@
     ],
     "Rmagic": [],
     "nnTensor": [],
-    "ccTensor": [],
     "clustree": [
         "ggraph"
     ],
