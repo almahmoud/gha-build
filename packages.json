@@ -941,7 +941,6 @@
     ],
     "multiSight": [],
     "muscat": [
-        "blme",
         "scater",
         "variancePartition"
     ],
@@ -1690,7 +1689,6 @@
         "BiocVersion",
         "BiocCheck"
     ],
-    "blme": [],
     "mppa": [],
     "RcmdrMisc": [
         "car"
