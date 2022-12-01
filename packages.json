@@ -848,7 +848,6 @@
         "lmerTest",
         "lme4"
     ],
-    "gespeR": [],
     "GEWIST": [
         "car",
         "pbkrtest",
