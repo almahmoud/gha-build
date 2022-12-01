@@ -7869,7 +7869,6 @@
     "TPP": [
         "biobroom"
     ],
-    "TPP2D": [],
     "trackViewer": [
         "GenomicFeatures",
         "Gviz",
