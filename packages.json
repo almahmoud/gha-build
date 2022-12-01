@@ -1322,7 +1322,6 @@
         "lme4",
         "lmerTest"
     ],
-    "mBPCR": [],
     "mCSEA": [
         "Homo.sapiens",
         "Gviz",
