@@ -782,9 +782,7 @@
         "distinct",
         "scater"
     ],
-    "CONFESS": [
-        "contrast"
-    ],
+    "CONFESS": [],
     "consensusDE": [
         "DESeq2",
         "EDASeq",
@@ -4665,7 +4663,6 @@
         "nloptr"
     ],
     "Ecume": [],
-    "contrast": [],
     "EnsDb.Hsapiens.v86": [
         "ensembldb",
         "GenomicFeatures"
