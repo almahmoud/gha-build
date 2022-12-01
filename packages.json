@@ -6834,7 +6834,6 @@
         "annotate"
     ],
     "netZooR": [
-        "pandaR",
         "yarn",
         "RCy3",
         "STRINGdb",
@@ -7241,7 +7240,6 @@
         "testthat",
         "waldo"
     ],
-    "pandaR": [],
     "panelcn.mops": [
         "cn.mops"
     ],
