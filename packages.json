@@ -3218,7 +3218,6 @@
         "Rsamtools",
         "GenomicAlignments"
     ],
-    "cleaver": [],
     "clipper": [
         "qpgraph",
         "annotate",
@@ -15070,7 +15069,6 @@
         "dplyr"
     ],
     "ProteoDisco": [
-        "cleaver",
         "dplyr",
         "GenomicFeatures",
         "tidyr",
@@ -19518,7 +19516,6 @@
     "synapter": [
         "MSnbase",
         "qvalue",
-        "cleaver",
         "readr",
         "vsn",
         "ggplot2",
