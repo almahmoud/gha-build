@@ -5373,7 +5373,6 @@
         "Hmisc",
         "MSnbase"
     ],
-    "MetaNeighbor": [],
     "MetaPhOR": [
         "clusterProfiler",
         "RecordLinkage",
