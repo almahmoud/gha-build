@@ -2182,7 +2182,6 @@
     "ChromSCape": [
         "colourpicker",
         "rtracklayer",
-        "shinyWidgets",
         "shinydashboardPlus",
         "plotly",
         "kableExtra",
@@ -3018,7 +3017,6 @@
         "GEOquery",
         "oligo",
         "sva",
-        "shinyWidgets",
         "shinypanel",
         "readxl",
         "readr",
@@ -5450,7 +5448,6 @@
         "ggrepel",
         "GO.db",
         "plotly",
-        "shinyWidgets",
         "tidyr",
         "tippy",
         "viridis",
@@ -6827,21 +6824,18 @@
         "tidyr",
         "ggrepel",
         "readxl",
-        "shinyWidgets",
         "datamods",
         "rio",
         "haven"
     ],
     "iSEE": [
         "ggrepel",
-        "colourpicker",
-        "shinyWidgets"
+        "colourpicker"
     ],
     "iSEEhex": [
         "iSEE",
         "ggrepel",
-        "colourpicker",
-        "shinyWidgets"
+        "colourpicker"
     ],
     "iSEEhub": [
         "ExperimentHub",
@@ -6852,15 +6846,13 @@
         "AnnotationDbi",
         "ggrepel",
         "colourpicker",
-        "shinyWidgets",
         "dbplyr"
     ],
     "iSEEu": [
         "iSEE",
         "iSEEhex",
         "colourpicker",
-        "ggrepel",
-        "shinyWidgets"
+        "ggrepel"
     ],
     "isobar": [
         "biomaRt",
@@ -8213,7 +8205,6 @@
         "phyloseq"
     ],
     "microbiomeExplorer": [
-        "shinyWidgets",
         "DESeq2",
         "tidyr",
         "readr",
@@ -8279,7 +8270,6 @@
         "clusterProfiler",
         "enrichplot",
         "golem",
-        "shinyWidgets",
         "AnnotationDbi",
         "DOSE",
         "GO.db",
@@ -9867,7 +9857,6 @@
     ],
     "omicsViewer": [
         "survminer",
-        "shinyWidgets",
         "plotly",
         "fgsea",
         "ggseqlogo",
@@ -10858,7 +10847,6 @@
         "MSnbase",
         "shinydashboardPlus",
         "colourpicker",
-        "shinyWidgets",
         "vsn",
         "MLInterfaces",
         "caret",
@@ -11071,7 +11059,6 @@
         "dbplyr"
     ],
     "pwrEWAS": [
-        "shinyWidgets",
         "genefilter",
         "pwrEWAS.data",
         "AnnotationDbi",
@@ -12356,7 +12343,6 @@
         "DECIPHER",
         "plotly",
         "ggdendro",
-        "shinyWidgets",
         "tidyr"
     ],
     "satuRn": [],
@@ -13011,7 +12997,6 @@
         "minfi",
         "plotly",
         "rtracklayer",
-        "shinyWidgets",
         "tidyr",
         "viridis",
         "dendextend",
@@ -13116,7 +13101,6 @@
         "ggpubr",
         "cowplot",
         "readr",
-        "shinyWidgets",
         "tidyr",
         "BiocFileCache",
         "rtracklayer",
@@ -13519,7 +13503,6 @@
         "ggiraph",
         "ggrepel",
         "readr",
-        "shinyWidgets",
         "tidyr"
     ],
     "spatialDE": [
@@ -13672,7 +13655,6 @@
         "genefilter",
         "plotly",
         "rtracklayer",
-        "shinyWidgets",
         "heatmaply",
         "BiocVersion",
         "AnnotationDbi",
@@ -14127,7 +14109,6 @@
         "spsComps",
         "drawer",
         "plotly",
-        "shinyWidgets",
         "shinydashboardPlus",
         "tidyr"
     ],
@@ -14860,7 +14841,6 @@
         "hdrcde"
     ],
     "uncoverappLib": [
-        "shinyWidgets",
         "Gviz",
         "Homo.sapiens",
         "condformat",
@@ -15208,8 +15188,7 @@
         "GenomicAlignments"
     ],
     "wpm": [
-        "golem",
-        "shinyWidgets"
+        "golem"
     ],
     "wppi": [
         "OmnipathR",
@@ -16038,7 +16017,6 @@
         "GenomicAlignments",
         "dbplyr"
     ],
-    "shinyWidgets": [],
     "shinydashboardPlus": [],
     "kableExtra": [],
     "gggenes": [
@@ -16411,7 +16389,6 @@
     "datamods": [
         "readxl",
         "rio",
-        "shinyWidgets",
         "haven",
         "readr"
     ],
