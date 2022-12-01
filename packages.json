@@ -30163,7 +30163,6 @@
         "plotly",
         "pheatmap",
         "pcaExplorer",
-        "IHW",
         "gplots",
         "UpSetR",
         "goseq",
@@ -30414,7 +30413,6 @@
         "tidyselect",
         "ellipsis"
     ],
-    "IHW": [],
     "illuminaio": [
         "base64",
         "openssl"
