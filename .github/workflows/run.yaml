@@ -56,7 +56,7 @@ jobs:
             git config --global --add safe.directory "$GITHUB_WORKSPACE"
             git pull origin main || git reset --hard origin/main
             cp /tmp/newtobuild tobuild.txt
-            cat /tmp/pkglist | xargs -i sed -i 's/readytobuild/claimed/g' >> "lists/{}"
+            cat /tmp/pkglist | xargs -i sed -i 's/readytobuild/claimed/g' "lists/{}"
             git config user.name github-actions
             git config user.email github-actions@github.com
             git add lists
@@ -104,7 +104,7 @@ jobs:
             git config user.email github-actions@github.com
             mkdir -p logs/run_ids/container
             PKG="${{ matrix.pkg }}"
-            sed -i 's/claimed/building/g' >> "lists/$PKG"
+            sed -i 's/claimed/building/g' "lists/$PKG"
             git add logs
             git commit -m "push run_id container $PKG"
             git push
@@ -120,7 +120,7 @@ jobs:
       - name: Get tar name
         id: tar
         run: |
-          echo "::set-output name=name::$(ls /tmp/tars/ | grep ${{steps.claim.outputs.pkg}} | sed 's#/tmp/tars/##g')"
+          echo name=$(ls /tmp/tars/ | grep ${{matrix.pkg}} | sed 's#/tmp/tars/##g') >> $GITHUB_OUTPUT
         if: steps.pkgbuild.outcome=='success'
 
       - name: Push failed before exit
@@ -160,7 +160,7 @@ jobs:
         env:
           RCLONE_CONF: ${{secrets.RCLONE_CONF}}
 
-      - name: Rclone push package and mark as pushed
+      - name: Rclone push package
         run: |
           set -x
           rclone copy /tmp/tars/${{steps.tar.outputs.name}} js2:/gha-build/container/ -vvvvvv
