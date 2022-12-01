@@ -114,7 +114,6 @@
         "BiocVersion"
     ],
     "brainflowprobes": [
-        "derfinder",
         "derfinderPlot",
         "GenomicState",
         "AnnotationHub",
@@ -274,10 +273,7 @@
     ],
     "ddPCRclust": [],
     "DeepPINCS": [],
-    "derfinder": [],
-    "derfinderPlot": [
-        "derfinder"
-    ],
+    "derfinderPlot": [],
     "destiny": [
         "VIM"
     ],
@@ -703,7 +699,6 @@
     ],
     "ODER": [
         "dasper",
-        "derfinder",
         "ggpubr",
         "rstatix"
     ],
@@ -788,8 +783,7 @@
     "psichomics": [
         "AnnotationHub",
         "recount",
-        "BiocVersion",
-        "derfinder"
+        "BiocVersion"
     ],
     "ptairMS": [
         "ggpubr",
@@ -817,13 +811,9 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "recount": [
-        "derfinder"
-    ],
+    "recount": [],
     "recountmethylation": [],
-    "regionReport": [
-        "derfinder"
-    ],
+    "regionReport": [],
     "regutools": [
         "AnnotationHub",
         "BiocVersion"
@@ -856,8 +846,7 @@
         "ExperimentHub"
     ],
     "RNAAgeCalc": [
-        "recount",
-        "derfinder"
+        "recount"
     ],
     "RNAmodR": [],
     "RNAmodR.AlkAnilineSeq": [
@@ -878,8 +867,7 @@
     "RnaSeqSampleSize": [
         "recount",
         "ggpubr",
-        "rstatix",
-        "derfinder"
+        "rstatix"
     ],
     "RnBeads": [],
     "Rqc": [],
@@ -1156,7 +1144,6 @@
     ],
     "GenomicState": [
         "AnnotationHub",
-        "derfinder",
         "BiocVersion"
     ],
     "FactoMineR": [],
