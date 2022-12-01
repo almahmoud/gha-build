@@ -4793,7 +4793,6 @@
         "GenomicFeatures",
         "ensembldb"
     ],
-    "SDAMS": [],
     "segmenter": [
         "ChIPseeker",
         "enrichplot",
