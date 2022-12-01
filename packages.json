@@ -3616,7 +3616,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "statnet.common",
         "httr",
         "Biostrings",
         "interp",
@@ -4704,7 +4703,6 @@
         "tidyselect",
         "annotate",
         "interp",
-        "statnet.common",
         "hms",
         "blob",
         "dbplyr"
@@ -5576,7 +5574,6 @@
         "mgcv",
         "ggpp",
         "quantreg",
-        "statnet.common",
         "bslib",
         "Hmisc",
         "survival",
@@ -5741,7 +5738,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "statnet.common",
         "httr",
         "IRkernel",
         "IRdisplay",
@@ -6998,7 +6994,6 @@
         "BiocParallel",
         "vsn",
         "mzID",
-        "statnet.common",
         "httr",
         "tidyselect",
         "pillar",
@@ -12072,7 +12067,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "statnet.common",
         "network",
         "tidyselect",
         "pillar",
@@ -13994,7 +13988,6 @@
         "pillar",
         "SummarizedExperiment",
         "mgcv",
-        "statnet.common",
         "survival",
         "hms",
         "GenomicRanges",
@@ -16461,7 +16454,6 @@
         "reshape",
         "tidyr",
         "tibble",
-        "statnet.common",
         "tidyselect",
         "vctrs",
         "pillar",
@@ -27164,7 +27156,6 @@
         "vctrs",
         "survival",
         "ICS",
-        "statnet.common",
         "survey",
         "pillar"
     ],
@@ -29820,7 +29811,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "statnet.common",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -29922,7 +29912,6 @@
         "httr",
         "hms",
         "vroom",
-        "statnet.common",
         "clock",
         "hardhat",
         "ipred",
@@ -40896,7 +40885,6 @@
         "waldo",
         "SummarizedExperiment",
         "BiocParallel",
-        "statnet.common",
         "pillar",
         "rematch2",
         "DelayedArray"
@@ -46532,13 +46520,11 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "statnet.common",
         "pillar"
     ],
     "intergraph": [
         "network",
         "tibble",
-        "statnet.common",
         "pillar",
         "vctrs"
     ],
@@ -46546,18 +46532,15 @@
     "NetRep": [],
     "network": [
         "tibble",
-        "statnet.common",
         "pillar",
         "vctrs"
     ],
     "sna": [
-        "statnet.common",
         "network",
         "tibble",
         "pillar",
         "vctrs"
     ],
-    "statnet.common": [],
     "shinyBS": [
         "shiny",
         "httpuv",
