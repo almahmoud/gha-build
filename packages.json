@@ -10187,7 +10187,6 @@
         "mixOmics",
         "propr"
     ],
-    "timescape": [],
     "TimiRGeN": [
         "MultiAssayExperiment",
         "biomaRt",
