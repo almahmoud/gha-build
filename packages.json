@@ -13447,7 +13447,6 @@
         "tidyselect"
     ],
     "EWCE": [
-        "RNOmni",
         "ewceData",
         "dplyr",
         "ggplot2",
@@ -48268,7 +48267,6 @@
         "interp",
         "pillar"
     ],
-    "RNOmni": [],
     "ewceData": [
         "ExperimentHub",
         "AnnotationHub",
