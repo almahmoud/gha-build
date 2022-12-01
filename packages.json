@@ -7868,7 +7868,6 @@
         "plyr",
         "foreach",
         "gamlss",
-        "gamlss.dist",
         "bsseq",
         "DSS",
         "R.utils",
@@ -20400,7 +20399,6 @@
         "pscl",
         "BiocParallel",
         "futile.logger",
-        "gamlss.dist",
         "nlme",
         "survival",
         "miscTools",
@@ -37172,7 +37170,6 @@
         "shadowtext",
         "ggtree",
         "globals",
-        "gamlss.dist",
         "nlme",
         "GenomeInfoDb",
         "XVector",
@@ -69588,7 +69585,6 @@
         "Rmagic",
         "BiocParallel",
         "futile.logger",
-        "gamlss.dist",
         "nlme",
         "survival",
         "RcppArmadillo",
@@ -88771,12 +88767,10 @@
         "zoo"
     ],
     "gamlss": [
-        "gamlss.dist",
         "nlme",
         "survival",
         "Matrix"
     ],
-    "gamlss.dist": [],
     "earth": [
         "plotmo"
     ],
