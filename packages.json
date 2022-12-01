@@ -22318,7 +22318,6 @@
         "DOSE",
         "bookdown",
         "rmarkdown",
-        "Cubist",
         "AnnotationDbi",
         "enrichplot",
         "GOSemSim",
@@ -36922,10 +36921,8 @@
         "pillar"
     ],
     "C50": [
-        "partykit",
-        "Cubist"
+        "partykit"
     ],
-    "Cubist": [],
     "tidybayes": [
         "ggdist",
         "dplyr",
