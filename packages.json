@@ -22,7 +22,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -46,7 +45,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -98,7 +96,6 @@
         "dplyr",
         "promises",
         "jquerylib",
-        "memoise",
         "tidyselect",
         "pillar",
         "openssl",
@@ -157,7 +154,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "pillar",
         "XVector",
         "GenomeInfoDb"
@@ -186,8 +182,7 @@
         "RSQLite",
         "XVector",
         "openssl",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "ADAMgui": [
         "ADAM",
@@ -227,7 +222,6 @@
         "IRanges",
         "RSQLite",
         "sass",
-        "memoise",
         "httr",
         "Biostrings",
         "broom",
@@ -281,7 +275,6 @@
         "openssl",
         "shiny",
         "blob",
-        "memoise",
         "xts",
         "Biostrings",
         "httpuv",
@@ -323,7 +316,6 @@
         "GenomeInfoDb",
         "openssl",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "AffiXcan": [
@@ -387,7 +379,6 @@
         "R.utils",
         "ggbio",
         "blob",
-        "memoise",
         "httr",
         "GenomeInfoDb",
         "genefilter",
@@ -447,7 +438,6 @@
         "GenomeInfoDb",
         "httr",
         "blob",
-        "memoise",
         "vctrs",
         "openssl"
     ],
@@ -470,7 +460,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -522,7 +511,6 @@
         "R.utils",
         "ggbio",
         "blob",
-        "memoise",
         "httr",
         "GenomeInfoDb",
         "genefilter",
@@ -659,7 +647,6 @@
         "httpuv",
         "fontawesome",
         "sass",
-        "memoise",
         "hms"
     ],
     "AllelicImbalance": [
@@ -698,7 +685,6 @@
         "AnnotationFilter",
         "RcppEigen",
         "blob",
-        "memoise",
         "restfulr",
         "dbplyr",
         "dplyr",
@@ -759,7 +745,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "restfulr",
         "dbplyr",
         "dplyr",
@@ -802,7 +787,6 @@
         "rvest",
         "missForest",
         "sass",
-        "memoise",
         "doRNG",
         "hms",
         "RSpectra",
@@ -864,7 +848,6 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "sass",
-        "memoise",
         "blob",
         "GenomeInfoDb",
         "XVector",
@@ -903,7 +886,6 @@
         "GenomicAlignments",
         "latticeExtra",
         "sass",
-        "memoise",
         "SummarizedExperiment",
         "interp",
         "RcppEigen",
@@ -937,8 +919,7 @@
         "KEGGREST",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "ANCOMBC": [
         "mia",
@@ -1018,7 +999,6 @@
         "ragg",
         "hms",
         "blob",
-        "memoise",
         "dqrng",
         "rematch2",
         "textshaping"
@@ -1108,7 +1088,6 @@
         "RSpectra",
         "futile.logger",
         "sass",
-        "memoise",
         "annotate",
         "AnnotationDbi",
         "XVector",
@@ -1136,7 +1115,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -1160,7 +1138,6 @@
         "futile.logger",
         "openssl",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "annotate": [
@@ -1172,7 +1149,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -1184,7 +1160,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -1202,7 +1177,6 @@
         "IRanges",
         "KEGGREST",
         "blob",
-        "memoise",
         "vctrs",
         "httr",
         "Biostrings",
@@ -1229,7 +1203,6 @@
         "shiny",
         "DT",
         "blob",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -1269,7 +1242,6 @@
         "biomaRt",
         "BiocParallel",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "dbplyr",
@@ -1323,7 +1295,6 @@
         "scales",
         "hms",
         "vroom",
-        "memoise",
         "BSgenome",
         "Rsamtools",
         "GenomicAlignments",
@@ -1387,8 +1358,7 @@
         "pillar",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "antiProfiles": [],
     "AnVIL": [
@@ -1411,8 +1381,7 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "AnVILBilling": [
         "DT",
@@ -1440,7 +1409,6 @@
         "fontawesome",
         "bslib",
         "sass",
-        "memoise",
         "openssl",
         "hms"
     ],
@@ -1465,7 +1433,6 @@
         "jquerylib",
         "knitr",
         "sass",
-        "memoise",
         "vctrs",
         "pillar",
         "htmlwidgets",
@@ -1519,7 +1486,6 @@
         "openssl",
         "R.utils",
         "blob",
-        "memoise",
         "dbplyr",
         "hms"
     ],
@@ -1534,7 +1500,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -1615,7 +1580,6 @@
         "dqrng",
         "sass",
         "jquerylib",
-        "memoise",
         "Biostrings",
         "blob"
     ],
@@ -1679,7 +1643,6 @@
         "futile.logger",
         "progress",
         "sass",
-        "memoise",
         "urltools",
         "openssl",
         "RBGL",
@@ -1706,7 +1669,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "blob",
-        "memoise",
         "vctrs",
         "DelayedArray"
     ],
@@ -1751,7 +1713,6 @@
         "pillar",
         "tidyselect",
         "RcppEigen",
-        "memoise",
         "DelayedArray"
     ],
     "arrayMvout": [
@@ -1782,7 +1743,6 @@
         "genefilter",
         "illuminaio",
         "blob",
-        "memoise",
         "progress",
         "BiocFileCache",
         "vctrs",
@@ -1854,7 +1814,6 @@
         "RcppEigen",
         "openssl",
         "blob",
-        "memoise",
         "pillar"
     ],
     "artMS": [
@@ -1894,7 +1853,6 @@
         "nloptr",
         "RcppEigen",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "testthat",
@@ -1997,7 +1955,6 @@
         "RcppEigen",
         "hms",
         "blob",
-        "memoise",
         "survival",
         "htmlTable",
         "viridis",
@@ -2059,7 +2016,6 @@
         "interp",
         "bslib",
         "blob",
-        "memoise",
         "restfulr",
         "DelayedArray",
         "dbplyr",
@@ -2080,7 +2036,6 @@
         "GenomeInfoDb",
         "RSQLite",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "ASSET": [
@@ -2110,7 +2065,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -2223,7 +2177,6 @@
         "vroom",
         "knitr",
         "rmarkdown",
-        "memoise",
         "restfulr",
         "selectr",
         "httpuv",
@@ -2285,7 +2238,6 @@
         "scales",
         "openssl",
         "survival",
-        "memoise",
         "CNEr",
         "DirichletMultinomial",
         "readr",
@@ -2340,7 +2292,6 @@
         "R.utils",
         "KEGGREST",
         "blob",
-        "memoise",
         "restfulr",
         "AnnotationDbi",
         "httr",
@@ -2381,7 +2332,6 @@
         "shiny",
         "DT",
         "blob",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -2422,7 +2372,6 @@
         "pillar",
         "tidyselect",
         "openssl",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "CNEr",
@@ -2463,7 +2412,6 @@
         "genefilter",
         "openssl",
         "blob",
-        "memoise",
         "vctrs",
         "survival"
     ],
@@ -2492,7 +2440,6 @@
         "KEGGREST",
         "sass",
         "jquerylib",
-        "memoise",
         "XVector",
         "openssl",
         "Biostrings",
@@ -2538,8 +2485,7 @@
         "pillar",
         "XVector",
         "openssl",
-        "hms",
-        "memoise"
+        "hms"
     ],
     "AWFisher": [
         "edgeR"
@@ -2629,8 +2575,7 @@
         "pillar",
         "tibble",
         "tidyselect",
-        "vctrs",
-        "memoise"
+        "vctrs"
     ],
     "BAGS": [],
     "ballgown": [
@@ -2659,7 +2604,6 @@
         "DelayedArray",
         "openssl",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "bambu": [
@@ -2692,7 +2636,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "restfulr",
         "dbplyr",
         "openssl",
@@ -2781,7 +2724,6 @@
         "KEGGREST",
         "dbplyr",
         "sass",
-        "memoise",
         "openssl",
         "hms",
         "clock",
@@ -2844,7 +2786,6 @@
         "DelayedArray",
         "sass",
         "jquerylib",
-        "memoise",
         "XVector"
     ],
     "basecallQC": [
@@ -2878,7 +2819,6 @@
         "XVector",
         "futile.logger",
         "sass",
-        "memoise",
         "SummarizedExperiment",
         "interp",
         "RcppEigen",
@@ -2946,8 +2886,7 @@
         "bslib",
         "pillar",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "BASiCStan": [
         "BASiCS",
@@ -3003,8 +2942,7 @@
         "bslib",
         "pillar",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "BasicSTARRseq": [
         "GenomicRanges",
@@ -3077,7 +3015,6 @@
         "edgeR",
         "futile.logger",
         "sass",
-        "memoise",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -3153,7 +3090,6 @@
         "openssl",
         "sandwich",
         "RcppEigen",
-        "memoise",
         "textshaping"
     ],
     "bayNorm": [
@@ -3202,7 +3138,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "vctrs",
@@ -3265,7 +3200,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "pillar"
     ],
     "beadarraySNP": [
@@ -3337,8 +3271,7 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "openssl",
-        "memoise"
+        "openssl"
     ],
     "benchdamic": [
         "phyloseq",
@@ -3466,7 +3399,6 @@
         "KEGGREST",
         "sass",
         "jquerylib",
-        "memoise",
         "sparseMatrixStats",
         "e1071",
         "knitr",
@@ -3519,7 +3451,6 @@
         "openssl",
         "hms",
         "blob",
-        "memoise",
         "futile.logger",
         "DelayedArray"
     ],
@@ -3534,7 +3465,6 @@
         "vctrs",
         "pillar",
         "blob",
-        "memoise",
         "GO.db",
         "AnnotationDbi",
         "IRanges",
@@ -3565,7 +3495,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -3643,7 +3572,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -3685,7 +3613,6 @@
         "GenomeInfoDb",
         "sass",
         "jquerylib",
-        "memoise",
         "XVector",
         "knitr",
         "openssl",
@@ -3742,7 +3669,6 @@
         "openssl",
         "hms",
         "blob",
-        "memoise",
         "DelayedArray",
         "knitr",
         "htmlwidgets"
@@ -3753,7 +3679,6 @@
         "ggplot2",
         "DT",
         "blob",
-        "memoise",
         "vctrs",
         "htmlwidgets",
         "jquerylib",
@@ -3845,7 +3770,6 @@
         "fontawesome",
         "futile.logger",
         "sass",
-        "memoise",
         "mgcv",
         "pbkrtest",
         "quantreg",
@@ -3894,7 +3818,6 @@
         "httr",
         "readr",
         "dplyr",
-        "memoise",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -3921,7 +3844,6 @@
         "tidyselect",
         "vctrs",
         "sass",
-        "memoise",
         "pillar"
     ],
     "BiocFileCache": [
@@ -3934,8 +3856,7 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "openssl",
-        "memoise"
+        "openssl"
     ],
     "biocGraph": [
         "Rgraphviz",
@@ -3949,7 +3870,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -4016,7 +3936,6 @@
         "BiocVersion",
         "interactiveDisplayBase",
         "sass",
-        "memoise",
         "rhdf5",
         "nloptr",
         "RcppEigen",
@@ -4050,7 +3969,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -4086,7 +4004,6 @@
         "selectr",
         "urltools",
         "blob",
-        "memoise",
         "progress"
     ],
     "BiocSet": [
@@ -4105,8 +4022,7 @@
         "XVector",
         "GenomeInfoDb",
         "openssl",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "BiocSingular": [
         "DelayedArray",
@@ -4135,8 +4051,7 @@
         "rmarkdown",
         "jquerylib",
         "bslib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "biocthis": [
         "styler",
@@ -4167,7 +4082,6 @@
         "gert",
         "gh",
         "sass",
-        "memoise",
         "credentials"
     ],
     "biodb": [
@@ -4181,7 +4095,6 @@
         "httr",
         "hms",
         "blob",
-        "memoise",
         "pkgload",
         "waldo",
         "vctrs",
@@ -4202,7 +4115,6 @@
         "httr",
         "hms",
         "blob",
-        "memoise",
         "pkgload",
         "waldo",
         "vctrs",
@@ -4223,7 +4135,6 @@
         "httr",
         "hms",
         "blob",
-        "memoise",
         "pkgload",
         "waldo",
         "vctrs",
@@ -4246,7 +4157,6 @@
         "httr",
         "hms",
         "blob",
-        "memoise",
         "rematch2",
         "tibble",
         "vctrs",
@@ -4265,7 +4175,6 @@
         "httr",
         "hms",
         "blob",
-        "memoise",
         "pkgload",
         "waldo",
         "vctrs",
@@ -4286,7 +4195,6 @@
         "httr",
         "hms",
         "blob",
-        "memoise",
         "pkgload",
         "waldo",
         "vctrs",
@@ -4307,7 +4215,6 @@
         "httr",
         "hms",
         "blob",
-        "memoise",
         "pkgload",
         "waldo",
         "vctrs",
@@ -4328,7 +4235,6 @@
         "httr",
         "hms",
         "blob",
-        "memoise",
         "pkgload",
         "waldo",
         "vctrs",
@@ -4351,7 +4257,6 @@
         "httr",
         "hms",
         "blob",
-        "memoise",
         "rematch2",
         "tibble",
         "vctrs",
@@ -4370,7 +4275,6 @@
         "httr",
         "hms",
         "blob",
-        "memoise",
         "pkgload",
         "waldo",
         "vctrs",
@@ -4398,7 +4302,6 @@
         "tidyselect",
         "vctrs",
         "Biostrings",
-        "memoise",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -4446,7 +4349,6 @@
         "Biostrings",
         "interp",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "openssl"
@@ -4495,7 +4397,6 @@
         "RcppEigen",
         "hms",
         "blob",
-        "memoise",
         "DelayedArray",
         "vctrs",
         "pillar",
@@ -4549,7 +4450,6 @@
         "htmlTable",
         "viridis",
         "Biostrings",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "knitr",
@@ -4617,7 +4517,6 @@
         "Biostrings",
         "interp",
         "blob",
-        "memoise",
         "openssl",
         "RcppEigen"
     ],
@@ -4631,7 +4530,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -4673,7 +4571,6 @@
         "IRanges",
         "RSQLite",
         "sass",
-        "memoise",
         "httr",
         "Biostrings",
         "interp",
@@ -4817,7 +4714,6 @@
         "htmlwidgets",
         "interp",
         "blob",
-        "memoise",
         "restfulr",
         "dbplyr",
         "dplyr",
@@ -4901,7 +4797,6 @@
         "openssl",
         "shiny",
         "DT",
-        "memoise",
         "blob",
         "htmlwidgets",
         "jquerylib",
@@ -4937,7 +4832,6 @@
         "futile.logger",
         "openssl",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "BitSeq": [
@@ -4989,7 +4883,6 @@
         "openssl",
         "hms",
         "blob",
-        "memoise",
         "tidyselect"
     ],
     "blima": [
@@ -5013,7 +4906,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "pillar"
     ],
     "BLMA": [
@@ -5037,7 +4929,6 @@
         "GenomeInfoDb",
         "openssl",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "BloodGen3Module": [
@@ -5077,7 +4968,6 @@
         "openssl",
         "shiny",
         "DT",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -5118,7 +5008,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "bnem": [
@@ -5149,7 +5038,6 @@
         "edgeR",
         "futile.logger",
         "sass",
-        "memoise",
         "AnnotationDbi",
         "annotate",
         "survival",
@@ -5231,7 +5119,6 @@
         "interp",
         "hms",
         "blob",
-        "memoise",
         "dbplyr",
         "openssl"
     ],
@@ -5292,8 +5179,7 @@
         "jquerylib",
         "bslib",
         "pillar",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "BRAIN": [
         "Biostrings",
@@ -5370,7 +5256,6 @@
         "interp",
         "RBGL",
         "blob",
-        "memoise",
         "DelayedArray",
         "jquerylib",
         "promises",
@@ -5403,7 +5288,6 @@
         "KEGGREST",
         "sass",
         "jquerylib",
-        "memoise",
         "blob",
         "pillar",
         "tibble",
@@ -5462,7 +5346,6 @@
         "futile.logger",
         "blob",
         "prodlim",
-        "memoise",
         "DelayedArray",
         "lava",
         "future.apply",
@@ -5503,8 +5386,7 @@
         "vctrs",
         "pillar",
         "blob",
-        "openssl",
-        "memoise"
+        "openssl"
     ],
     "BRGenomics": [
         "rtracklayer",
@@ -5534,8 +5416,7 @@
         "KEGGREST",
         "pillar",
         "openssl",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "BrowserViz": [
         "httpuv",
@@ -5626,7 +5507,6 @@
         "httr",
         "BiocFileCache",
         "sass",
-        "memoise",
         "htmlwidgets",
         "interp",
         "blob",
@@ -5650,8 +5530,7 @@
         "progress",
         "blob",
         "pillar",
-        "openssl",
-        "memoise"
+        "openssl"
     ],
     "BUMHMM": [
         "devtools",
@@ -5661,7 +5540,6 @@
         "XVector",
         "GenomeInfoDb",
         "usethis",
-        "memoise",
         "miniUI",
         "pkgbuild",
         "pkgdown",
@@ -5714,7 +5592,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -5779,7 +5656,6 @@
         "openssl",
         "hms",
         "blob",
-        "memoise",
         "restfulr",
         "futile.logger",
         "DelayedArray"
@@ -5856,7 +5732,6 @@
         "interp",
         "hms",
         "blob",
-        "memoise",
         "dbplyr",
         "RcppEigen"
     ],
@@ -5905,7 +5780,6 @@
         "mgcv",
         "interp",
         "blob",
-        "memoise",
         "dbplyr",
         "survival",
         "htmlTable",
@@ -5991,7 +5865,6 @@
         "statnet.common",
         "hms",
         "blob",
-        "memoise",
         "dbplyr",
         "openssl",
         "RcppEigen"
@@ -6007,7 +5880,6 @@
         "GenomicRanges",
         "ggplot2",
         "IRanges",
-        "memoise",
         "Rsamtools",
         "reshape2",
         "rtracklayer",
@@ -6108,7 +5980,6 @@
         "interp",
         "hms",
         "blob",
-        "memoise",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -6176,7 +6047,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "openssl",
         "hms"
@@ -6205,7 +6075,6 @@
         "jquerylib",
         "knitr",
         "sass",
-        "memoise",
         "progress"
     ],
     "casper": [
@@ -6235,7 +6104,6 @@
         "BiocFileCache",
         "SummarizedExperiment",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "vctrs",
@@ -6333,7 +6201,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -6361,7 +6228,6 @@
         "repr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -6408,7 +6274,6 @@
         "DelayedArray",
         "hms",
         "vroom",
-        "memoise",
         "rvest",
         "GenomicFeatures",
         "GenomicDataCommons",
@@ -6460,8 +6325,7 @@
         "httr",
         "tidytree",
         "openssl",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "cBioPortalData": [
         "AnVIL",
@@ -6507,7 +6371,6 @@
         "Biostrings",
         "rtracklayer",
         "biomaRt",
-        "memoise",
         "selectr",
         "httpuv",
         "fontawesome",
@@ -6545,8 +6408,7 @@
         "bslib",
         "hms",
         "progress",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "ccfindR": [
         "SummarizedExperiment",
@@ -6577,7 +6439,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -6595,7 +6456,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -6743,7 +6603,6 @@
         "BiocFileCache",
         "BiocParallel",
         "dplyr",
-        "memoise",
         "tidyr",
         "tidyselect",
         "lubridate",
@@ -6783,7 +6642,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "pillar",
         "XVector",
         "GenomeInfoDb"
@@ -6863,7 +6721,6 @@
         "dqrng",
         "sass",
         "jquerylib",
-        "memoise",
         "tidyselect",
         "textshaping"
     ],
@@ -6886,7 +6743,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -6990,7 +6846,6 @@
         "jquerylib",
         "knitr",
         "sass",
-        "memoise",
         "pillar"
     ],
     "cellscape": [
@@ -7036,7 +6891,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -7058,8 +6912,7 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "CEMiTool": [
         "scales",
@@ -7110,7 +6963,6 @@
         "KEGGREST",
         "futile.logger",
         "sass",
-        "memoise",
         "HDO.db",
         "reshape2",
         "aplot",
@@ -7234,8 +7086,7 @@
         "XVector",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "ceRNAnetsim": [
         "dplyr",
@@ -7344,7 +7195,6 @@
         "treeio",
         "Biostrings",
         "blob",
-        "memoise",
         "tweenr",
         "RcppEigen",
         "nloptr",
@@ -7432,7 +7282,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -7527,7 +7376,6 @@
         "openssl",
         "futile.logger",
         "sass",
-        "memoise",
         "R.utils",
         "BSgenome",
         "rhdf5",
@@ -7602,7 +7450,6 @@
         "GenomeInfoDb",
         "sass",
         "jquerylib",
-        "memoise",
         "tidyselect",
         "pillar",
         "XVector",
@@ -7710,7 +7557,6 @@
         "Hmisc",
         "VariantAnnotation",
         "sass",
-        "memoise",
         "interp",
         "blob",
         "restfulr",
@@ -7806,7 +7652,6 @@
         "hms",
         "vroom",
         "blob",
-        "memoise",
         "futile.logger",
         "openssl",
         "DelayedArray",
@@ -7850,7 +7695,6 @@
         "RSQLite",
         "KEGGREST",
         "sass",
-        "memoise",
         "rtracklayer",
         "biomaRt",
         "survival",
@@ -7905,7 +7749,6 @@
         "mgcv",
         "scales",
         "survival",
-        "memoise",
         "BSgenome",
         "restfulr",
         "DelayedArray",
@@ -7967,7 +7810,6 @@
         "pillar",
         "BSgenome",
         "blob",
-        "memoise",
         "restfulr",
         "latticeExtra",
         "DelayedArray",
@@ -8037,7 +7879,6 @@
         "treeio",
         "GO.db",
         "blob",
-        "memoise",
         "dbplyr",
         "futile.logger",
         "cowplot",
@@ -8124,7 +7965,6 @@
         "XVector",
         "GenomeInfoDb",
         "blob",
-        "memoise",
         "DelayedArray",
         "progress"
     ],
@@ -8156,7 +7996,6 @@
         "BiocParallel",
         "openssl",
         "blob",
-        "memoise",
         "futile.logger",
         "vctrs",
         "DelayedArray"
@@ -8182,8 +8021,7 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "Biostrings",
-        "memoise"
+        "Biostrings"
     ],
     "ChromSCape": [
         "shiny",
@@ -8271,7 +8109,6 @@
         "reticulate",
         "RSpectra",
         "rsvd",
-        "memoise",
         "sparseMatrixStats",
         "ragg",
         "RcppEigen",
@@ -8365,7 +8202,6 @@
         "DirichletMultinomial",
         "RSQLite",
         "sass",
-        "memoise",
         "GenomicAlignments",
         "readr",
         "reshape2",
@@ -8405,7 +8241,6 @@
         "tidyselect",
         "vctrs",
         "Biostrings",
-        "memoise",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -8467,7 +8302,6 @@
         "openssl",
         "hms",
         "blob",
-        "memoise",
         "DelayedArray",
         "knitr",
         "htmlwidgets"
@@ -8564,7 +8398,6 @@
         "shiny",
         "DT",
         "blob",
-        "memoise",
         "survival",
         "DelayedArray",
         "progress",
@@ -8614,7 +8447,6 @@
         "BiocFileCache",
         "RcppEigen",
         "blob",
-        "memoise",
         "restfulr",
         "DelayedArray",
         "dbplyr",
@@ -8700,8 +8532,7 @@
         "XVector",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "cleanUpdTSeq": [
         "BSgenome.Drerio.UCSC.danRer7",
@@ -8762,7 +8593,6 @@
         "BiocFileCache",
         "openssl",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -8838,7 +8668,6 @@
         "RSQLite",
         "ROC",
         "blob",
-        "memoise",
         "vctrs",
         "knitr"
     ],
@@ -8929,8 +8758,7 @@
         "openssl",
         "hms",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "ClusterJudge": [
         "latticeExtra",
@@ -8986,7 +8814,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "tweenr",
@@ -9054,7 +8881,6 @@
         "XVector",
         "GenomeInfoDb",
         "blob",
-        "memoise",
         "DelayedArray",
         "vctrs"
     ],
@@ -9097,7 +8923,6 @@
         "hms",
         "vroom",
         "blob",
-        "memoise",
         "restfulr",
         "futile.logger",
         "openssl",
@@ -9121,7 +8946,6 @@
         "jquerylib",
         "knitr",
         "sass",
-        "memoise",
         "pillar"
     ],
     "CNORfeeder": [
@@ -9139,7 +8963,6 @@
         "jquerylib",
         "knitr",
         "sass",
-        "memoise",
         "pillar"
     ],
     "CNORfuzzy": [
@@ -9161,7 +8984,6 @@
         "pkgload",
         "waldo",
         "sass",
-        "memoise",
         "pillar",
         "rematch2"
     ],
@@ -9180,7 +9002,6 @@
         "bslib",
         "jquerylib",
         "sass",
-        "memoise",
         "pillar"
     ],
     "CNTools": [
@@ -9195,7 +9016,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -9214,7 +9034,6 @@
         "XVector",
         "cn.mops",
         "rhdf5",
-        "memoise",
         "rtracklayer",
         "biovizBase",
         "GenomicFeatures",
@@ -9297,7 +9116,6 @@
         "jquerylib",
         "promises",
         "XVector",
-        "memoise",
         "rtracklayer",
         "biovizBase",
         "GenomicFeatures",
@@ -9378,7 +9196,6 @@
         "futile.logger",
         "sass",
         "jquerylib",
-        "memoise",
         "pillar",
         "rematch2"
     ],
@@ -9431,7 +9248,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "openssl",
@@ -9447,7 +9263,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -9500,7 +9315,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -9545,7 +9359,6 @@
         "DelayedArray",
         "ggplot2",
         "sass",
-        "memoise",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -9583,7 +9396,6 @@
         "dplyr",
         "devtools",
         "usethis",
-        "memoise",
         "miniUI",
         "pkgbuild",
         "pkgdown",
@@ -9670,7 +9482,6 @@
         "httr",
         "BiocFileCache",
         "sass",
-        "memoise",
         "blob",
         "Rsamtools",
         "GenomicAlignments",
@@ -9750,7 +9561,6 @@
         "RcppEigen",
         "hms",
         "blob",
-        "memoise",
         "knitr"
     ],
     "combi": [
@@ -9827,7 +9637,6 @@
         "htmlTable",
         "viridis",
         "RcppEigen",
-        "memoise",
         "DelayedArray",
         "mgcv",
         "knitr",
@@ -9872,7 +9681,6 @@
         "nloptr",
         "RcppEigen",
         "blob",
-        "memoise",
         "progress",
         "htmlwidgets",
         "jquerylib",
@@ -9939,8 +9747,7 @@
         "pillar",
         "bslib",
         "jquerylib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "compcodeR": [
         "knitr",
@@ -9990,7 +9797,6 @@
         "biovizBase",
         "latticeExtra",
         "blob",
-        "memoise",
         "restfulr",
         "DelayedArray",
         "dbplyr",
@@ -10037,7 +9843,6 @@
         "pillar",
         "tidyselect",
         "vctrs",
-        "memoise",
         "BiocParallel",
         "futile.logger",
         "htmlwidgets",
@@ -10075,7 +9880,6 @@
         "bslib",
         "futile.logger",
         "sass",
-        "memoise",
         "hms",
         "readr",
         "cellranger",
@@ -10170,7 +9974,6 @@
         "hms",
         "RcppEigen",
         "vroom",
-        "memoise",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -10352,7 +10155,6 @@
         "tibble",
         "vctrs",
         "blob",
-        "memoise",
         "restfulr",
         "latticeExtra",
         "dbplyr",
@@ -10414,7 +10216,6 @@
         "vctrs",
         "Biostrings",
         "future.apply",
-        "memoise",
         "future"
     ],
     "consensusSeekeR": [
@@ -10453,7 +10254,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "vctrs",
         "openssl"
     ],
@@ -10492,7 +10292,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "openssl",
@@ -10553,7 +10352,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr"
     ],
     "convert": [],
@@ -10577,7 +10375,6 @@
         "rhdf5",
         "exomeCopy",
         "XVector",
-        "memoise",
         "rtracklayer",
         "biovizBase",
         "GenomicFeatures",
@@ -10660,8 +10457,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "CoreGx": [
         "SummarizedExperiment",
@@ -10699,7 +10495,6 @@
         "dplyr",
         "tidyselect",
         "sass",
-        "memoise",
         "mgcv"
     ],
     "Cormotif": [],
@@ -10763,8 +10558,7 @@
         "KEGGREST",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "cosmiq": [
         "xcms",
@@ -10823,7 +10617,6 @@
         "mixtools",
         "e1071",
         "sass",
-        "memoise",
         "openssl",
         "Biostrings",
         "segmented",
@@ -10887,7 +10680,6 @@
         "KEGGREST",
         "futile.logger",
         "sass",
-        "memoise",
         "XVector",
         "openssl",
         "Biostrings",
@@ -10924,7 +10716,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -10954,7 +10745,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -11073,7 +10863,6 @@
         "tibble",
         "vroom",
         "blob",
-        "memoise",
         "DelayedArray",
         "BiocVersion",
         "interactiveDisplayBase",
@@ -11122,7 +10911,6 @@
         "shiny",
         "DT",
         "blob",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -11205,7 +10993,6 @@
         "httr",
         "BiocFileCache",
         "sass",
-        "memoise",
         "ensembldb",
         "RBGL",
         "SummarizedExperiment",
@@ -11261,7 +11048,6 @@
         "vctrs",
         "httr",
         "blob",
-        "memoise",
         "DelayedArray",
         "pillar",
         "openssl"
@@ -11316,7 +11102,6 @@
         "vctrs",
         "interp",
         "blob",
-        "memoise",
         "DelayedArray",
         "pillar",
         "tidyselect",
@@ -11379,7 +11164,6 @@
         "BiocParallel",
         "interp",
         "blob",
-        "memoise",
         "restfulr",
         "dbplyr",
         "dplyr",
@@ -11427,7 +11211,6 @@
         "XVector",
         "GenomeInfoDb",
         "blob",
-        "memoise",
         "DelayedArray",
         "vctrs"
     ],
@@ -11461,7 +11244,6 @@
         "cellranger",
         "progress",
         "blob",
-        "memoise",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -11528,7 +11310,6 @@
         "Biostrings",
         "interp",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "openssl",
@@ -11563,7 +11344,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "pillar",
         "dbplyr",
         "dplyr",
@@ -11586,8 +11366,7 @@
         "blob",
         "pillar",
         "tidyselect",
-        "openssl",
-        "memoise"
+        "openssl"
     ],
     "cTRAP": [
         "AnnotationDbi",
@@ -11638,7 +11417,6 @@
         "dbplyr",
         "futile.logger",
         "sass",
-        "memoise",
         "Biostrings",
         "hms",
         "TTR",
@@ -11661,7 +11439,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "pillar"
     ],
     "CTSV": [
@@ -11701,8 +11478,7 @@
         "pillar",
         "tidyselect",
         "sparseMatrixStats",
-        "openssl",
-        "memoise"
+        "openssl"
     ],
     "cummeRbund": [
         "RSQLite",
@@ -11729,7 +11505,6 @@
         "GenomicAlignments",
         "GenomeInfoDb",
         "blob",
-        "memoise",
         "restfulr",
         "KEGGREST",
         "progress",
@@ -11770,7 +11545,6 @@
         "ggplot2",
         "DT",
         "blob",
-        "memoise",
         "IRanges",
         "KEGGREST",
         "vctrs",
@@ -11813,7 +11587,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "blob",
-        "memoise",
         "restfulr",
         "BSgenome",
         "dbplyr",
@@ -11902,7 +11675,6 @@
         "ggplot2",
         "sass",
         "jquerylib",
-        "memoise",
         "XVector",
         "mgcv",
         "scales",
@@ -11967,7 +11739,6 @@
         "DelayedArray",
         "futile.logger",
         "sass",
-        "memoise",
         "e1071",
         "pROC",
         "recipes",
@@ -12126,7 +11897,6 @@
         "httr",
         "sass",
         "jquerylib",
-        "memoise",
         "DelayedMatrixStats",
         "edgeR",
         "R.utils",
@@ -12217,7 +11987,6 @@
         "vctrs",
         "hms",
         "blob",
-        "memoise",
         "BiocParallel",
         "BSgenome",
         "CNEr",
@@ -12278,7 +12047,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "openssl"
@@ -12368,7 +12136,6 @@
         "broom",
         "MatrixModels",
         "blob",
-        "memoise",
         "restfulr",
         "lava",
         "pkgload",
@@ -12462,7 +12229,6 @@
         "usethis",
         "blob",
         "openssl",
-        "memoise",
         "broom",
         "car",
         "pbkrtest",
@@ -12571,7 +12337,6 @@
         "sandwich",
         "bslib",
         "jquerylib",
-        "memoise",
         "quantreg",
         "XVector",
         "GenomeInfoDb",
@@ -12749,7 +12514,6 @@
         "patchwork",
         "futile.logger",
         "sass",
-        "memoise",
         "tidyselect",
         "pillar",
         "bbmle",
@@ -12776,7 +12540,6 @@
         "XVector",
         "GenomeInfoDb",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "deco": [
@@ -12808,7 +12571,6 @@
         "Biostrings",
         "bslib",
         "blob",
-        "memoise",
         "pillar",
         "sass",
         "openssl"
@@ -12840,8 +12602,7 @@
         "pillar",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "decompTumor2Sig": [
         "ggplot2",
@@ -12876,7 +12637,6 @@
         "hms",
         "BiocParallel",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "pillar",
@@ -13049,7 +12809,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "vctrs",
@@ -13084,8 +12843,7 @@
         "pillar",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "DegNorm": [
         "GenomicFeatures",
@@ -13129,7 +12887,6 @@
         "pillar",
         "openssl",
         "blob",
-        "memoise",
         "restfulr",
         "TSP",
         "DelayedArray",
@@ -13190,8 +12947,7 @@
         "KEGGREST",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "DEGseq": [
         "qvalue",
@@ -13259,8 +13015,7 @@
         "KEGGREST",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "deltaGseg": [
         "ggplot2",
@@ -13302,7 +13057,6 @@
         "edgeR",
         "futile.logger",
         "sass",
-        "memoise",
         "R.utils",
         "DelayedMatrixStats",
         "BSgenome",
@@ -13383,7 +13137,6 @@
         "DelayedArray",
         "futile.logger",
         "sass",
-        "memoise",
         "XVector",
         "gmm",
         "progress",
@@ -13468,7 +13221,6 @@
         "htmlwidgets",
         "interp",
         "blob",
-        "memoise",
         "DelayedArray",
         "BSgenome",
         "dbplyr",
@@ -13533,7 +13285,6 @@
         "viridis",
         "RBGL",
         "blob",
-        "memoise",
         "restfulr",
         "DelayedArray",
         "pillar",
@@ -13585,7 +13336,6 @@
         "mgcv",
         "scales",
         "survival",
-        "memoise",
         "BSgenome",
         "dbplyr",
         "openssl",
@@ -13615,8 +13365,7 @@
         "pillar",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "DEsingle": [
         "bbmle",
@@ -13710,8 +13459,7 @@
         "rematch2",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "DEWSeq": [
         "R.utils",
@@ -13738,8 +13486,7 @@
         "pillar",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "DExMA": [
         "DExMAdata",
@@ -13777,7 +13524,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -13814,7 +13560,6 @@
         "openssl",
         "hms",
         "blob",
-        "memoise",
         "pillar",
         "tidyselect"
     ],
@@ -13836,8 +13581,7 @@
         "mgcv",
         "scales",
         "igraph",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "DiffBind": [
         "GenomicRanges",
@@ -13885,8 +13629,7 @@
         "KEGGREST",
         "interp",
         "openssl",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "diffcoexp": [
         "WGCNA",
@@ -13922,7 +13665,6 @@
         "Biostrings",
         "interp",
         "blob",
-        "memoise",
         "openssl",
         "RcppEigen",
         "pillar"
@@ -14076,7 +13818,6 @@
         "annotate",
         "survival",
         "blob",
-        "memoise",
         "dbplyr",
         "openssl",
         "hms"
@@ -14158,7 +13899,6 @@
         "pillar",
         "sass",
         "jquerylib",
-        "memoise",
         "tidyselect"
     ],
     "DirichletMultinomial": [
@@ -14225,7 +13965,6 @@
         "DelayedArray",
         "futile.logger",
         "sass",
-        "memoise",
         "XVector",
         "openssl",
         "selectr",
@@ -14453,7 +14192,6 @@
         "RcppEigen",
         "hms",
         "vroom",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -14504,7 +14242,6 @@
         "RcppEigen",
         "hms",
         "blob",
-        "memoise",
         "DelayedArray",
         "vctrs",
         "pillar",
@@ -14572,7 +14309,6 @@
         "DT",
         "hms",
         "vroom",
-        "memoise",
         "blob",
         "progress",
         "htmlwidgets",
@@ -14648,7 +14384,6 @@
         "hms",
         "BiocParallel",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
@@ -14679,7 +14414,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "Doscheda": [
@@ -14711,7 +14445,6 @@
         "fontawesome",
         "bslib",
         "sass",
-        "memoise",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -14756,7 +14489,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -14874,7 +14606,6 @@
         "IRanges",
         "Biostrings",
         "blob",
-        "memoise",
         "httpcache",
         "KEGGREST",
         "XVector",
@@ -14928,7 +14659,6 @@
         "blob",
         "GenomicRanges",
         "SummarizedExperiment",
-        "memoise",
         "DelayedArray"
     ],
     "DSS": [
@@ -15059,7 +14789,6 @@
         "knitr",
         "MatrixModels",
         "blob",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -15111,7 +14840,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -15140,8 +14868,7 @@
         "httpuv",
         "fontawesome",
         "promises",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "easyRNASeq": [
         "BiocFileCache",
@@ -15176,7 +14903,6 @@
         "openssl",
         "interp",
         "hms",
-        "memoise",
         "RcppEigen"
     ],
     "EBarrays": [],
@@ -15210,8 +14936,7 @@
         "pillar",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "EBSeq": [
         "blockmodeling",
@@ -15265,7 +14990,6 @@
         "interp",
         "hms",
         "blob",
-        "memoise",
         "restfulr",
         "vctrs",
         "pillar",
@@ -15303,7 +15027,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "pkgload",
         "waldo",
         "XVector",
@@ -15364,7 +15087,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "DelayedArray",
         "ggfun",
         "ggplotify",
@@ -15460,7 +15182,6 @@
         "multtest",
         "multcomp",
         "blob",
-        "memoise",
         "GenomicRanges",
         "GenomeInfoDb",
         "sn",
@@ -15557,7 +15278,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "sass",
-        "memoise",
         "BiocParallel",
         "openssl",
         "interp",
@@ -15625,7 +15345,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "memoise",
         "DelayedArray",
         "CNEr",
         "DirichletMultinomial",
@@ -15693,7 +15412,6 @@
         "shiny",
         "DT",
         "blob",
-        "memoise",
         "multtest",
         "htmlwidgets",
         "jquerylib",
@@ -15750,8 +15468,7 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "openssl",
-        "memoise"
+        "openssl"
     ],
     "enrichplot": [
         "aplot",
@@ -15800,7 +15517,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "openssl"
@@ -15854,7 +15570,6 @@
         "KEGGREST",
         "futile.logger",
         "sass",
-        "memoise",
         "readr",
         "reshape2",
         "annotate",
@@ -15918,7 +15633,6 @@
         "biomaRt",
         "BiocParallel",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
@@ -15961,7 +15675,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "vctrs",
@@ -16017,7 +15730,6 @@
         "KEGGREST",
         "dbplyr",
         "sass",
-        "memoise",
         "BiocParallel",
         "geneplotter",
         "tidyselect",
@@ -16141,7 +15853,6 @@
         "openssl",
         "httr",
         "blob",
-        "memoise",
         "pillar"
     ],
     "epigraHMM": [
@@ -16261,8 +15972,7 @@
         "openssl",
         "Biostrings",
         "interp",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "EpiMix": [
         "EpiMix.data",
@@ -16309,7 +16019,6 @@
         "DT",
         "vroom",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -16404,7 +16113,6 @@
         "RBGL",
         "hms",
         "blob",
-        "memoise",
         "multtest",
         "htmlwidgets",
         "jquerylib",
@@ -16500,7 +16208,6 @@
         "biomaRt",
         "openssl",
         "blob",
-        "memoise",
         "Structstrings",
         "tRNA",
         "progress",
@@ -16550,7 +16257,6 @@
         "BiocFileCache",
         "BiocParallel",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "dbplyr",
@@ -16591,7 +16297,6 @@
         "BiocFileCache",
         "BiocParallel",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "dbplyr",
@@ -16631,7 +16336,6 @@
         "promises",
         "BiocParallel",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "dbplyr",
@@ -16674,7 +16378,6 @@
         "ensembldb",
         "promises",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -16741,7 +16444,6 @@
         "DelayedArray",
         "sass",
         "jquerylib",
-        "memoise",
         "biomaRt",
         "httr",
         "RBGL",
@@ -16781,8 +16483,7 @@
         "KEGGREST",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "esATAC": [
         "Rsamtools",
@@ -16839,7 +16540,6 @@
         "httr",
         "BiocFileCache",
         "sass",
-        "memoise",
         "readr",
         "reshape2",
         "annotate",
@@ -16921,8 +16621,7 @@
         "rhdf5",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "esetVis": [
         "MLP",
@@ -16933,7 +16632,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -16980,7 +16678,6 @@
         "dplyr",
         "tidyselect",
         "sass",
-        "memoise",
         "openssl"
     ],
     "EventPointer": [
@@ -17030,7 +16727,6 @@
         "future.apply",
         "MatrixModels",
         "blob",
-        "memoise",
         "restfulr",
         "dbplyr",
         "dplyr",
@@ -17108,7 +16804,6 @@
         "blob",
         "shiny",
         "DT",
-        "memoise",
         "progress",
         "jquerylib",
         "Biostrings",
@@ -17186,7 +16881,6 @@
         "BiocFileCache",
         "annotate",
         "blob",
-        "memoise",
         "pillar",
         "dbplyr",
         "dplyr",
@@ -17214,7 +16908,6 @@
         "openssl",
         "shiny",
         "DT",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -17258,7 +16951,6 @@
         "biomaRt",
         "BiocParallel",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "progress",
@@ -17316,7 +17008,6 @@
         "blob",
         "sparseMatrixStats",
         "openssl",
-        "memoise",
         "tidyr"
     ],
     "ExploreModelMatrix": [
@@ -17341,8 +17032,7 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "ExpressionAtlas": [
         "SummarizedExperiment",
@@ -17359,8 +17049,7 @@
         "jquerylib",
         "XVector",
         "bslib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "extraChIPs": [
         "BiocParallel",
@@ -17427,7 +17116,6 @@
         "openssl",
         "hms",
         "blob",
-        "memoise",
         "knitr",
         "htmlwidgets"
     ],
@@ -17470,7 +17158,6 @@
         "hms",
         "vroom",
         "blob",
-        "memoise",
         "dbplyr",
         "DelayedArray"
     ],
@@ -17537,7 +17224,6 @@
         "XVector",
         "GenomeInfoDb",
         "sass",
-        "memoise",
         "HDO.db",
         "BiocParallel",
         "fgsea",
@@ -17600,7 +17286,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -17629,7 +17314,6 @@
         "latticeExtra",
         "futile.logger",
         "sass",
-        "memoise",
         "SummarizedExperiment",
         "interp",
         "RcppEigen",
@@ -17767,7 +17451,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "tweenr",
         "RcppEigen",
         "openssl"
@@ -17798,7 +17481,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "vctrs",
@@ -17841,7 +17523,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "pillar"
     ],
     "fedup": [
@@ -17914,7 +17595,6 @@
         "HDF5Array",
         "BiocParallel",
         "blob",
-        "memoise",
         "openssl",
         "futile.logger",
         "progress",
@@ -17953,8 +17633,7 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "openssl",
-        "memoise"
+        "openssl"
     ],
     "FGNet": [
         "igraph",
@@ -18024,7 +17703,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "openssl"
     ],
@@ -18172,7 +17850,6 @@
         "RBGL",
         "RcppEigen",
         "blob",
-        "memoise",
         "dbplyr",
         "knitr",
         "htmlwidgets",
@@ -18193,7 +17870,6 @@
         "bslib",
         "jquerylib",
         "sass",
-        "memoise",
         "pillar"
     ],
     "flowBeads": [
@@ -18227,7 +17903,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "tidyselect",
         "pillar",
         "mgcv",
@@ -18394,7 +18069,6 @@
         "fontawesome",
         "promises",
         "sass",
-        "memoise",
         "nloptr",
         "RcppEigen",
         "broom",
@@ -18598,7 +18272,6 @@
         "prodlim",
         "syuzhet",
         "blob",
-        "memoise",
         "lava",
         "future.apply",
         "future"
@@ -18622,7 +18295,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "openssl"
@@ -18686,7 +18358,6 @@
         "openssl",
         "hms",
         "blob",
-        "memoise",
         "restfulr",
         "annotate",
         "TSP"
@@ -18742,7 +18413,6 @@
         "XVector",
         "GenomeInfoDb",
         "blob",
-        "memoise",
         "DelayedArray",
         "vctrs"
     ],
@@ -18768,7 +18438,6 @@
         "futile.logger",
         "sass",
         "jquerylib",
-        "memoise",
         "rainbow",
         "DelayedArray",
         "hdrcde",
@@ -18829,7 +18498,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -18911,7 +18579,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "hms"
     ],
@@ -18949,7 +18616,6 @@
         "progress",
         "BiocFileCache",
         "sass",
-        "memoise",
         "openssl",
         "blob",
         "Rsamtools",
@@ -18979,7 +18645,6 @@
         "GenomeInfoDb",
         "openssl",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "gaggle": [],
@@ -19081,7 +18746,6 @@
         "broom",
         "MatrixModels",
         "blob",
-        "memoise",
         "restfulr",
         "lava",
         "future.apply",
@@ -19148,7 +18812,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "sass",
-        "memoise",
         "XVector",
         "pillar"
     ],
@@ -19163,7 +18826,6 @@
         "devtools",
         "dplR",
         "usethis",
-        "memoise",
         "miniUI",
         "pkgbuild",
         "pkgdown",
@@ -19254,7 +18916,6 @@
         "RSQLite",
         "dbplyr",
         "sass",
-        "memoise",
         "tidyselect",
         "pillar",
         "aplot",
@@ -19334,7 +18995,6 @@
         "survival"
     ],
     "gemma.R": [
-        "memoise",
         "lubridate",
         "SummarizedExperiment",
         "tibble",
@@ -19375,7 +19035,6 @@
         "BiocFileCache",
         "BiocParallel",
         "blob",
-        "memoise",
         "DelayedArray",
         "dbplyr",
         "dplyr",
@@ -19424,7 +19083,6 @@
         "lme4",
         "blob",
         "Biostrings",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "nloptr",
@@ -19459,7 +19117,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "futile.logger",
@@ -19499,7 +19156,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -19533,7 +19189,6 @@
         "vctrs",
         "Biostrings",
         "future.apply",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "future"
@@ -19596,7 +19251,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -19620,7 +19274,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -19662,7 +19315,6 @@
         "mgcv",
         "quantreg",
         "blob",
-        "memoise",
         "vctrs",
         "broom",
         "dplyr",
@@ -19716,7 +19368,6 @@
         "RcppEigen",
         "hms",
         "blob",
-        "memoise",
         "DelayedArray",
         "vctrs",
         "pillar",
@@ -19793,7 +19444,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "futile.logger",
-        "memoise",
         "annotate",
         "XVector",
         "openssl",
@@ -19833,7 +19483,6 @@
         "httr",
         "bslib",
         "blob",
-        "memoise",
         "futile.logger",
         "sass",
         "openssl",
@@ -19972,7 +19621,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -20014,7 +19662,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "vctrs",
@@ -20053,7 +19700,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -20119,7 +19765,6 @@
         "RcppEigen",
         "hms",
         "blob",
-        "memoise",
         "knitr",
         "htmlwidgets"
     ],
@@ -20178,7 +19823,6 @@
         "knitr",
         "htmlwidgets",
         "interp",
-        "memoise",
         "RcppEigen"
     ],
     "GenomicRanges": [
@@ -20213,7 +19857,6 @@
         "vctrs",
         "shiny",
         "DT",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -20262,7 +19905,6 @@
         "openssl",
         "bslib",
         "jquerylib",
-        "memoise",
         "broom",
         "car",
         "sass",
@@ -20315,7 +19957,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "openssl",
@@ -20401,7 +20042,6 @@
         "openssl",
         "hms",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "DelayedArray",
@@ -20496,7 +20136,6 @@
         "reticulate",
         "RSpectra",
         "sass",
-        "memoise",
         "tidyselect",
         "pillar",
         "car",
@@ -20541,7 +20180,6 @@
         "tidyr",
         "R.utils",
         "blob",
-        "memoise",
         "vctrs",
         "tibble",
         "tidyselect",
@@ -20617,7 +20255,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -20656,7 +20293,6 @@
         "hms",
         "blob",
         "Biostrings",
-        "memoise",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -20745,7 +20381,6 @@
         "interp",
         "hms",
         "blob",
-        "memoise",
         "dbplyr",
         "openssl",
         "RcppEigen"
@@ -20870,8 +20505,7 @@
         "blob",
         "tidyselect",
         "sparseMatrixStats",
-        "openssl",
-        "memoise"
+        "openssl"
     ],
     "ggtree": [
         "ape",
@@ -20980,7 +20614,6 @@
         "lmtest",
         "sass",
         "jquerylib",
-        "memoise",
         "mgcv",
         "scales",
         "tibble",
@@ -21005,7 +20638,6 @@
         "tibble",
         "vctrs",
         "blob",
-        "memoise",
         "dplyr",
         "tidyselect",
         "pillar"
@@ -21036,8 +20668,7 @@
         "pillar",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "glmGamPoi": [
         "DelayedMatrixStats",
@@ -21102,7 +20733,6 @@
         "km.ci",
         "blob",
         "Biostrings",
-        "memoise",
         "car",
         "pbkrtest",
         "quantreg",
@@ -21134,7 +20764,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "pillar"
@@ -21150,7 +20779,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -21179,7 +20807,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "DelayedArray",
         "dbplyr",
         "dplyr",
@@ -21231,7 +20858,6 @@
         "tidyr",
         "ggplot2",
         "sass",
-        "memoise",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -21272,7 +20898,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "DelayedArray",
         "dbplyr",
         "dplyr",
@@ -21340,7 +20965,6 @@
         "blob",
         "tidyselect",
         "Biostrings",
-        "memoise",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -21356,7 +20980,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "vctrs",
         "openssl"
     ],
@@ -21385,7 +21008,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "dplyr",
         "tidyselect",
         "pillar",
@@ -21400,7 +21022,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -21415,7 +21036,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -21438,7 +21058,6 @@
         "biomaRt",
         "httr",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -21471,7 +21090,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -21526,7 +21144,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "tweenr",
@@ -21537,7 +21154,6 @@
         "AnnotationDbi",
         "biomaRt",
         "GO.db",
-        "memoise",
         "IRanges",
         "RSQLite",
         "KEGGREST",
@@ -21575,7 +21191,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -21625,7 +21240,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -21649,7 +21263,6 @@
         "fontawesome",
         "bslib",
         "sass",
-        "memoise",
         "pillar"
     ],
     "gpuMagic": [
@@ -21708,8 +21321,7 @@
         "dbplyr",
         "annotate",
         "openssl",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "granulator": [
         "cowplot",
@@ -21737,8 +21349,7 @@
         "classInt",
         "bslib",
         "jquerylib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "graper": [
         "ggplot2",
@@ -21764,7 +21375,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -21885,7 +21495,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "pillar"
     ],
     "gscreend": [
@@ -21920,7 +21529,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -21968,7 +21576,6 @@
         "DT",
         "Biostrings",
         "org.Hs.eg.db",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -22022,7 +21629,6 @@
         "blob",
         "tidyselect",
         "Biostrings",
-        "memoise",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -22053,7 +21659,6 @@
         "BiocFileCache",
         "RBGL",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -22084,7 +21689,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -22117,7 +21721,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "gtrellis": [
@@ -22182,7 +21785,6 @@
         "tensorflow",
         "tfruns",
         "cellranger",
-        "memoise",
         "blob",
         "restfulr",
         "ade4",
@@ -22222,7 +21824,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "blob",
-        "memoise",
         "dbplyr",
         "futile.logger",
         "openssl",
@@ -22269,7 +21870,6 @@
         "RcppEigen",
         "hms",
         "blob",
-        "memoise",
         "DelayedArray",
         "vctrs",
         "pillar",
@@ -22285,7 +21885,6 @@
         "caret",
         "ggplot2",
         "doParallel",
-        "memoise",
         "reshape2",
         "e1071",
         "pROC",
@@ -22346,7 +21945,6 @@
         "shiny",
         "DT",
         "BiocParallel",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "DelayedArray",
@@ -22370,7 +21968,6 @@
         "mgcv",
         "quantreg",
         "blob",
-        "memoise",
         "vctrs",
         "broom",
         "dplyr",
@@ -22410,7 +22007,6 @@
         "quantreg",
         "BiocParallel",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
@@ -22470,7 +22066,6 @@
         "Biostrings",
         "interp",
         "blob",
-        "memoise",
         "RcppEigen"
     ],
     "h5vc": [
@@ -22493,7 +22088,6 @@
         "tibble",
         "vctrs",
         "blob",
-        "memoise",
         "pillar"
     ],
     "hapFabia": [],
@@ -22532,7 +22126,6 @@
         "fontawesome",
         "bslib",
         "sass",
-        "memoise",
         "blob",
         "progress"
     ],
@@ -22576,7 +22169,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "vctrs",
@@ -22627,8 +22219,7 @@
         "openssl",
         "hms",
         "blob",
-        "Biostrings",
-        "memoise"
+        "Biostrings"
     ],
     "Herper": [
         "reticulate"
@@ -22777,7 +22368,6 @@
         "RcppEigen",
         "hms",
         "blob",
-        "memoise",
         "knitr",
         "htmlwidgets"
     ],
@@ -22827,7 +22417,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -22909,7 +22498,6 @@
         "shiny",
         "DT",
         "interp",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -22974,7 +22562,6 @@
         "Rsamtools",
         "pillar",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "dbplyr",
@@ -23021,7 +22608,6 @@
         "TH.data",
         "sandwich",
         "blob",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "Biostrings",
@@ -23126,8 +22712,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "HPiP": [
         "dplyr",
@@ -23194,7 +22779,6 @@
         "BiocFileCache",
         "interp",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "vctrs",
@@ -23230,8 +22814,7 @@
         "pillar",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "HubPub": [
         "available",
@@ -23240,7 +22823,6 @@
         "dplyr",
         "aws.s3",
         "tidytext",
-        "memoise",
         "tibble",
         "httr",
         "styler",
@@ -23269,7 +22851,6 @@
         "DelayedArray",
         "sass",
         "jquerylib",
-        "memoise",
         "htmlwidgets",
         "XVector"
     ],
@@ -23319,7 +22900,6 @@
         "fontawesome",
         "promises",
         "sass",
-        "memoise",
         "selectr"
     ],
     "hyperdraw": [
@@ -23419,7 +22999,6 @@
         "annotate",
         "interp",
         "blob",
-        "memoise",
         "pillar",
         "dbplyr",
         "dplyr",
@@ -23459,7 +23038,6 @@
         "genefilter",
         "illuminaio",
         "blob",
-        "memoise",
         "progress",
         "BiocFileCache",
         "vctrs",
@@ -23546,8 +23124,7 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "ideal": [
         "topGO",
@@ -23617,7 +23194,6 @@
         "progress",
         "BiocFileCache",
         "sass",
-        "memoise",
         "GSEABase",
         "survival",
         "rtracklayer",
@@ -23659,7 +23235,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -23745,7 +23320,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "vctrs",
@@ -23823,7 +23397,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -23865,7 +23438,6 @@
         "pillar",
         "testthat",
         "blob",
-        "memoise",
         "restfulr",
         "DelayedArray",
         "dbplyr",
@@ -23944,7 +23516,6 @@
         "fontawesome",
         "bslib",
         "sass",
-        "memoise",
         "blob",
         "openssl"
     ],
@@ -23961,7 +23532,6 @@
         "sqldf",
         "RSQLite",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "ImmuneSpaceR": [
@@ -23996,7 +23566,6 @@
         "jquerylib",
         "knitr",
         "sass",
-        "memoise",
         "IRanges",
         "tidyselect",
         "pillar",
@@ -24027,7 +23596,6 @@
         "igraph",
         "visNetwork",
         "usethis",
-        "memoise",
         "miniUI",
         "pkgbuild",
         "pkgdown",
@@ -24127,8 +23695,7 @@
         "spatstat.sparse",
         "dqrng",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "infinityFlow": [
         "raster",
@@ -24174,7 +23741,6 @@
         "hms",
         "vroom",
         "blob",
-        "memoise",
         "httr",
         "BiocFileCache",
         "SummarizedExperiment",
@@ -24222,7 +23788,6 @@
         "BiocFileCache",
         "sass",
         "jquerylib",
-        "memoise",
         "annotate",
         "mgcv",
         "scales",
@@ -24336,7 +23901,6 @@
         "interp",
         "hms",
         "blob",
-        "memoise",
         "dbplyr",
         "openssl",
         "RcppEigen"
@@ -24370,7 +23934,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "httr",
         "selectr",
         "tibble",
@@ -24404,7 +23967,6 @@
         "httr",
         "sass",
         "jquerylib",
-        "memoise",
         "htmlwidgets",
         "survival",
         "Biostrings",
@@ -24423,8 +23985,7 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "InterCellar": [
         "golem",
@@ -24486,7 +24047,6 @@
         "KEGGREST",
         "dbplyr",
         "sass",
-        "memoise",
         "car",
         "ggsci",
         "cowplot",
@@ -24549,7 +24109,6 @@
         "tibble",
         "vctrs",
         "blob",
-        "memoise",
         "restfulr",
         "dbplyr",
         "dplyr",
@@ -24572,7 +24131,6 @@
         "RSQLite",
         "DelayedArray",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "IntramiRExploreR": [
@@ -24670,7 +24228,6 @@
         "XVector",
         "GenomeInfoDb",
         "blob",
-        "memoise",
         "dbplyr",
         "vctrs",
         "tibble",
@@ -24835,7 +24392,6 @@
         "htmlwidgets",
         "promises",
         "blob",
-        "memoise",
         "broom",
         "car",
         "httpuv",
@@ -24879,7 +24435,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "htmlwidgets",
         "phosphoricons",
         "reactable",
@@ -24932,7 +24487,6 @@
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
-        "memoise",
         "XVector",
         "pillar"
     ],
@@ -24966,7 +24520,6 @@
         "DelayedArray",
         "sass",
         "jquerylib",
-        "memoise",
         "htmlwidgets",
         "miniUI",
         "doParallel",
@@ -25012,7 +24565,6 @@
         "KEGGREST",
         "dbplyr",
         "sass",
-        "memoise",
         "miniUI",
         "doParallel",
         "tibble",
@@ -25058,7 +24610,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "sass",
-        "memoise",
         "doParallel",
         "XVector",
         "pillar"
@@ -25095,7 +24646,6 @@
         "blob",
         "tidyselect",
         "Biostrings",
-        "memoise",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -25181,7 +24731,6 @@
         "openssl",
         "shiny",
         "DT",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -25235,7 +24784,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "openssl"
     ],
     "ITALICS": [
@@ -25251,7 +24799,6 @@
         "XVector",
         "GenomeInfoDb",
         "blob",
-        "memoise",
         "DelayedArray",
         "vctrs"
     ],
@@ -25299,7 +24846,6 @@
         "pillar",
         "testthat",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -25342,7 +24888,6 @@
         "ggtext",
         "sass",
         "jquerylib",
-        "memoise",
         "tidyselect",
         "pillar",
         "XVector",
@@ -25388,7 +24933,6 @@
         "GenomicRanges",
         "IRanges",
         "Rsamtools",
-        "memoise",
         "rtracklayer",
         "GenomeInfoDb",
         "biovizBase",
@@ -25476,7 +25020,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "openssl",
         "hms"
@@ -25513,7 +25056,6 @@
         "XVector",
         "GenomeInfoDb",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "keggorthology": [
@@ -25526,7 +25068,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -25546,7 +25087,6 @@
         "futile.logger",
         "RSQLite",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "kissDE": [
@@ -25583,7 +25123,6 @@
         "bslib",
         "futile.logger",
         "sass",
-        "memoise",
         "GenomeInfoDb",
         "R.utils",
         "DelayedMatrixStats",
@@ -25660,7 +25199,6 @@
         "BiocParallel",
         "futile.logger",
         "sass",
-        "memoise",
         "AnnotationDbi",
         "annotate",
         "htmlwidgets",
@@ -25735,7 +25273,6 @@
         "KEGGREST",
         "dbplyr",
         "sass",
-        "memoise",
         "XVector",
         "openssl",
         "knitr",
@@ -25811,7 +25348,6 @@
         "pkgload",
         "waldo",
         "sass",
-        "memoise",
         "rematch2"
     ],
     "LineagePulse": [
@@ -25860,7 +25396,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "vctrs",
@@ -26026,7 +25561,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "openssl"
@@ -26086,7 +25620,6 @@
         "sparseMatrixStats",
         "openssl",
         "testthat",
-        "memoise",
         "pkgload",
         "waldo",
         "rematch2"
@@ -26222,7 +25755,6 @@
         "jquerylib",
         "promises",
         "biomaRt",
-        "memoise",
         "restfulr",
         "selectr",
         "httpuv",
@@ -26237,7 +25769,6 @@
         "IRanges",
         "KEGGREST",
         "blob",
-        "memoise",
         "vctrs",
         "httr",
         "Biostrings",
@@ -26272,7 +25803,6 @@
         "shiny",
         "DT",
         "blob",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -26309,7 +25839,6 @@
         "genefilter",
         "illuminaio",
         "blob",
-        "memoise",
         "progress",
         "BiocFileCache",
         "vctrs",
@@ -26464,7 +25993,6 @@
         "ipred",
         "lubridate",
         "tidyr",
-        "memoise",
         "DelayedArray",
         "htmlwidgets",
         "jquerylib",
@@ -26576,7 +26104,6 @@
         "broom",
         "MatrixModels",
         "blob",
-        "memoise",
         "tidyr",
         "openssl",
         "pkgload",
@@ -26593,7 +26120,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -26619,7 +26145,6 @@
         "httr",
         "selectr",
         "sass",
-        "memoise",
         "openssl",
         "RcppEigen",
         "hms",
@@ -26649,7 +26174,6 @@
         "shiny",
         "DT",
         "blob",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -26706,7 +26230,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "openssl",
         "hms"
@@ -26772,7 +26295,6 @@
         "GEOquery",
         "BiocParallel",
         "blob",
-        "memoise",
         "futile.logger",
         "progress",
         "BiocFileCache",
@@ -26859,7 +26381,6 @@
         "shiny",
         "DT",
         "blob",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -26934,7 +26455,6 @@
         "bslib",
         "jquerylib",
         "sass",
-        "memoise",
         "lava"
     ],
     "maigesPack": [
@@ -27008,7 +26528,6 @@
         "R.cache",
         "sass",
         "jquerylib",
-        "memoise",
         "forcats",
         "hms",
         "readr",
@@ -27038,7 +26557,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -27077,7 +26595,6 @@
         "tidyr",
         "tidyselect",
         "blob",
-        "memoise",
         "pillar",
         "openssl",
         "survival",
@@ -27162,7 +26679,6 @@
         "RcppEigen",
         "hms",
         "blob",
-        "memoise",
         "DelayedArray",
         "knitr"
     ],
@@ -27240,7 +26756,6 @@
         "reticulate",
         "RSpectra",
         "sass",
-        "memoise",
         "XVector",
         "interp",
         "RcppEigen",
@@ -27271,7 +26786,6 @@
         "R.utils",
         "KEGGREST",
         "blob",
-        "memoise",
         "restfulr",
         "AnnotationDbi",
         "httr",
@@ -27342,7 +26856,6 @@
         "XVector",
         "GenomeInfoDb",
         "sass",
-        "memoise",
         "AnnotationDbi",
         "annotate",
         "survival",
@@ -27412,7 +26925,6 @@
         "Biostrings",
         "interp",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "openssl",
@@ -27438,7 +26950,6 @@
         "mgcv",
         "quantreg",
         "blob",
-        "memoise",
         "DelayedArray",
         "vctrs",
         "broom",
@@ -27474,7 +26985,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "sass",
-        "memoise",
         "blob",
         "pillar",
         "tidyselect",
@@ -27516,7 +27026,6 @@
         "Biostrings",
         "hms",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "knitr",
@@ -27573,7 +27082,6 @@
         "RBGL",
         "hms",
         "blob",
-        "memoise",
         "restfulr",
         "pillar",
         "tidyselect",
@@ -27694,7 +27202,6 @@
         "hms",
         "vroom",
         "blob",
-        "memoise",
         "knitr",
         "htmlwidgets"
     ],
@@ -27758,7 +27265,6 @@
         "hms",
         "vroom",
         "blob",
-        "memoise",
         "progress",
         "BiocFileCache",
         "Rsamtools",
@@ -27806,7 +27312,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "memoise",
         "DelayedArray"
     ],
     "MEDME": [
@@ -27885,7 +27390,6 @@
         "bslib",
         "jquerylib",
         "sass",
-        "memoise",
         "pillar"
     ],
     "Melissa": [
@@ -27915,8 +27419,7 @@
         "survival",
         "bslib",
         "pillar",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "memes": [
         "Biostrings",
@@ -27959,7 +27462,6 @@
         "IRanges",
         "KEGGREST",
         "blob",
-        "memoise",
         "vctrs",
         "httr",
         "Biostrings",
@@ -28022,7 +27524,6 @@
         "DT",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "htmlwidgets",
@@ -28051,7 +27552,6 @@
         "bslib",
         "jquerylib",
         "blob",
-        "memoise",
         "httr",
         "IRanges",
         "KEGGREST",
@@ -28090,7 +27590,6 @@
         "igraph",
         "httr",
         "blob",
-        "memoise",
         "openssl"
     ],
     "messina": [
@@ -28186,7 +27685,6 @@
         "httr",
         "htmlwidgets",
         "promises",
-        "memoise",
         "jquerylib",
         "mgcv",
         "openssl"
@@ -28279,7 +27777,6 @@
         "hms",
         "reshape2",
         "blob",
-        "memoise",
         "DelayedArray",
         "pillar",
         "tidyselect",
@@ -28368,7 +27865,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "DelayedArray",
         "pillar",
         "dbplyr",
@@ -28509,7 +28005,6 @@
         "prodlim",
         "repr",
         "blob",
-        "memoise",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -28607,7 +28102,6 @@
         "knitr",
         "bookdown",
         "blob",
-        "memoise",
         "restfulr",
         "DelayedArray",
         "prodlim",
@@ -28690,7 +28184,6 @@
         "BiocFileCache",
         "BiocParallel",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "pillar",
@@ -28749,7 +28242,6 @@
         "futile.logger",
         "sass",
         "jquerylib",
-        "memoise",
         "pillar"
     ],
     "MethCP": [
@@ -28880,7 +28372,6 @@
         "shiny",
         "DT",
         "blob",
-        "memoise",
         "broom",
         "car",
         "pbkrtest",
@@ -28970,7 +28461,6 @@
         "XVector",
         "sass",
         "jquerylib",
-        "memoise",
         "doRNG",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -29060,7 +28550,6 @@
         "hms",
         "vroom",
         "blob",
-        "memoise",
         "dbplyr"
     ],
     "methylclock": [
@@ -29078,7 +28567,6 @@
         "tidyr",
         "planet",
         "usethis",
-        "memoise",
         "miniUI",
         "pkgbuild",
         "pkgdown",
@@ -29235,7 +28723,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "HDO.db",
         "fgsea",
         "reshape2",
@@ -29411,7 +28898,6 @@
         "RcppEigen",
         "hms",
         "blob",
-        "memoise",
         "vctrs",
         "pillar",
         "tibble",
@@ -29447,7 +28933,6 @@
         "DelayedArray",
         "sass",
         "jquerylib",
-        "memoise",
         "pillar",
         "vctrs"
     ],
@@ -29473,7 +28958,6 @@
         "futile.logger",
         "openssl",
         "blob",
-        "memoise",
         "DelayedArray",
         "vctrs"
     ],
@@ -29551,7 +29035,6 @@
         "R.utils",
         "rhdf5",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -29569,7 +29052,6 @@
         "ggplot2",
         "DT",
         "usethis",
-        "memoise",
         "miniUI",
         "pkgbuild",
         "pkgdown",
@@ -29664,7 +29146,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -29689,7 +29170,6 @@
         "tidyselect",
         "vctrs",
         "Biostrings",
-        "memoise",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -29744,7 +29224,6 @@
         "ragg",
         "RcppEigen",
         "blob",
-        "memoise",
         "tidytree",
         "dqrng",
         "textshaping"
@@ -29836,8 +29315,7 @@
         "ragg",
         "dqrng",
         "textshaping",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "MiChip": [],
     "microbiome": [
@@ -29953,7 +29431,6 @@
         "fontawesome",
         "sass",
         "futile.logger",
-        "memoise",
         "annotate",
         "AnnotationDbi",
         "GenomeInfoDb",
@@ -30076,7 +29553,6 @@
         "KEGGREST",
         "sass",
         "jquerylib",
-        "memoise",
         "sparseMatrixStats",
         "knitr",
         "htmlwidgets",
@@ -30154,7 +29630,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "memoise",
         "HDO.db",
         "BiocParallel",
         "fgsea",
@@ -30261,7 +29736,6 @@
         "httr",
         "selectr",
         "sass",
-        "memoise",
         "openssl"
     ],
     "MIGSA": [
@@ -30294,7 +29768,6 @@
         "genefilter",
         "Biostrings",
         "blob",
-        "memoise",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -30354,7 +29827,6 @@
         "XVector",
         "GenomeInfoDb",
         "blob",
-        "memoise",
         "DelayedArray",
         "vctrs"
     ],
@@ -30457,7 +29929,6 @@
         "illuminaio",
         "hms",
         "blob",
-        "memoise",
         "pillar",
         "tidyselect",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -30530,7 +30001,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -30553,7 +30023,6 @@
         "illuminaio",
         "RcppEigen",
         "blob",
-        "memoise",
         "vctrs",
         "rtracklayer",
         "Rsamtools",
@@ -30619,7 +30088,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -30643,7 +30111,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -30711,8 +30178,7 @@
         "dbplyr",
         "Biostrings",
         "inum",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "miRmine": [
         "SummarizedExperiment",
@@ -30732,7 +30198,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -30745,7 +30210,6 @@
         "IRanges",
         "KEGGREST",
         "blob",
-        "memoise",
         "vctrs",
         "httr",
         "Biostrings",
@@ -30824,7 +30288,6 @@
         "latticeExtra",
         "htmlTable",
         "RcppEigen",
-        "memoise",
         "lubridate",
         "hms",
         "ggraph",
@@ -31036,7 +30499,6 @@
         "ipred",
         "knitr",
         "rmarkdown",
-        "memoise",
         "car",
         "selectr",
         "XVector",
@@ -31121,7 +30583,6 @@
         "rhdf5",
         "base64",
         "blob",
-        "memoise",
         "multtest",
         "openssl",
         "progress",
@@ -31208,7 +30669,6 @@
         "bslib",
         "jquerylib",
         "sass",
-        "memoise",
         "tidyselect",
         "pillar",
         "hms",
@@ -31250,7 +30710,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "openssl",
@@ -31302,7 +30761,6 @@
         "KEGGREST",
         "sass",
         "jquerylib",
-        "memoise",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -31320,7 +30778,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -31374,7 +30831,6 @@
         "Biostrings",
         "lava",
         "blob",
-        "memoise",
         "future.apply",
         "future"
     ],
@@ -31401,7 +30857,6 @@
         "futile.logger",
         "sass",
         "jquerylib",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "pillar",
@@ -31491,7 +30946,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "pillar",
         "openssl"
     ],
@@ -31547,7 +31001,6 @@
         "Biostrings",
         "interp",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "openssl",
@@ -31614,7 +31067,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -31678,7 +31130,6 @@
         "R.utils",
         "KEGGREST",
         "blob",
-        "memoise",
         "restfulr",
         "AnnotationDbi",
         "httr",
@@ -31787,7 +31238,6 @@
         "treeio",
         "Biostrings",
         "blob",
-        "memoise",
         "tweenr",
         "RcppEigen"
     ],
@@ -31908,7 +31358,6 @@
         "RcppEigen",
         "hms",
         "blob",
-        "memoise",
         "pillar",
         "tidyselect",
         "knitr",
@@ -31961,7 +31410,6 @@
         "R.utils",
         "KEGGREST",
         "blob",
-        "memoise",
         "restfulr",
         "AnnotationDbi",
         "httr",
@@ -32006,7 +31454,6 @@
         "R.utils",
         "KEGGREST",
         "blob",
-        "memoise",
         "restfulr",
         "pillar",
         "AnnotationDbi",
@@ -32045,8 +31492,7 @@
         "dbplyr",
         "hms",
         "blob",
-        "Biostrings",
-        "memoise"
+        "Biostrings"
     ],
     "mpra": [
         "SummarizedExperiment",
@@ -32099,7 +31545,6 @@
         "bslib",
         "jquerylib",
         "sass",
-        "memoise",
         "broom",
         "car",
         "progress",
@@ -32258,7 +31703,6 @@
         "viridis",
         "RBGL",
         "blob",
-        "memoise",
         "restfulr",
         "pillar",
         "tidyselect",
@@ -32314,7 +31758,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -32425,7 +31868,6 @@
         "DT",
         "bslib",
         "blob",
-        "memoise",
         "sass",
         "htmlwidgets",
         "promises",
@@ -32481,7 +31923,6 @@
         "Biostrings",
         "testthat",
         "blob",
-        "memoise",
         "pkgload",
         "waldo",
         "rematch2"
@@ -32500,8 +31941,7 @@
         "tidyselect",
         "vctrs",
         "mgcv",
-        "scales",
-        "memoise"
+        "scales"
     ],
     "msqrob2": [
         "QFeatures",
@@ -32629,7 +32069,6 @@
         "testthat",
         "bslib",
         "sass",
-        "memoise",
         "MatrixModels",
         "pkgload",
         "waldo"
@@ -32705,8 +32144,7 @@
         "fontawesome",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "MSstatsQCgui": [
         "shiny",
@@ -32734,7 +32172,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "mgcv",
         "openssl",
         "mzR",
@@ -32823,7 +32260,6 @@
         "XVector",
         "GenomeInfoDb",
         "sass",
-        "memoise",
         "knitr",
         "interp",
         "nloptr",
@@ -32973,7 +32409,6 @@
         "tibble",
         "vctrs",
         "regioneR",
-        "memoise",
         "biovizBase",
         "bamsignals",
         "VariantAnnotation",
@@ -33051,7 +32486,6 @@
         "multtest",
         "multcomp",
         "blob",
-        "memoise",
         "sn",
         "XVector",
         "GenomeInfoDb",
@@ -33106,7 +32540,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "openssl"
@@ -33196,7 +32629,6 @@
         "patchwork",
         "futile.logger",
         "sass",
-        "memoise",
         "miniUI",
         "pkgbuild",
         "pkgdown",
@@ -33303,7 +32735,6 @@
         "vctrs",
         "pillar",
         "gargle",
-        "memoise",
         "openssl",
         "GenomicAlignments",
         "restfulr",
@@ -33394,7 +32825,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "rematch2"
     ],
     "muscle": [
@@ -33482,7 +32912,6 @@
         "BiocFileCache",
         "sass",
         "jquerylib",
-        "memoise",
         "viridis",
         "car",
         "DT",
@@ -33552,7 +32981,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "openssl",
         "hms"
@@ -33630,7 +33058,6 @@
         "htmlwidgets",
         "interp",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -33685,7 +33112,6 @@
         "BiocFileCache",
         "RcppEigen",
         "blob",
-        "memoise",
         "pillar",
         "dbplyr",
         "dplyr",
@@ -33768,7 +33194,6 @@
         "survival",
         "TH.data",
         "sandwich",
-        "memoise",
         "blob",
         "quantreg",
         "CNEr",
@@ -33838,7 +33263,6 @@
         "hms",
         "vroom",
         "blob",
-        "memoise",
         "futile.logger",
         "rtracklayer",
         "sparseMatrixStats",
@@ -33885,7 +33309,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "openssl",
@@ -33943,7 +33366,6 @@
         "vroom",
         "progress",
         "rmarkdown",
-        "memoise",
         "selectr",
         "bslib",
         "jquerylib",
@@ -33988,7 +33410,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "pillar"
     ],
     "NBSplice": [
@@ -34122,7 +33543,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "DelayedArray",
         "dbplyr",
         "openssl",
@@ -34184,7 +33604,6 @@
         "dqrng",
         "sass",
         "jquerylib",
-        "memoise",
         "tidyselect"
     ],
     "NeighborNet": [],
@@ -34243,8 +33662,7 @@
         "pillar",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "netbiov": [
         "igraph"
@@ -34274,7 +33692,6 @@
         "Biostrings",
         "interp",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "openssl",
@@ -34333,7 +33750,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "tweenr",
@@ -34369,8 +33785,7 @@
         "tidyr",
         "blob",
         "pillar",
-        "tidyselect",
-        "memoise"
+        "tidyselect"
     ],
     "nethet": [
         "GeneNet",
@@ -34420,7 +33835,6 @@
         "htmlwidgets",
         "promises",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "openssl",
@@ -34463,7 +33877,6 @@
         "bslib",
         "jquerylib",
         "sass",
-        "memoise",
         "pillar"
     ],
     "NetSAM": [
@@ -34493,7 +33906,6 @@
         "Biostrings",
         "hms",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -34576,8 +33988,7 @@
         "openssl",
         "hms",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "netZooR": [
         "igraph",
@@ -34633,7 +34044,6 @@
         "hms",
         "vroom",
         "blob",
-        "memoise",
         "dbplyr",
         "XVector",
         "GenomeInfoDb",
@@ -34725,7 +34135,6 @@
         "bslib",
         "knitr",
         "sass",
-        "memoise",
         "openssl",
         "progress"
     ],
@@ -34763,8 +34172,7 @@
         "tidyselect",
         "vctrs",
         "sparseMatrixStats",
-        "openssl",
-        "memoise"
+        "openssl"
     ],
     "NOISeq": [],
     "nondetects": [
@@ -34816,7 +34224,6 @@
         "scales",
         "hms",
         "vroom",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -34939,7 +34346,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -35053,7 +34459,6 @@
         "openssl",
         "shiny",
         "DT",
-        "memoise",
         "jquerylib",
         "httpuv",
         "fontawesome",
@@ -35132,7 +34537,6 @@
         "shiny",
         "DT",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "latticeExtra",
         "jquerylib",
@@ -35209,7 +34613,6 @@
         "reshape2",
         "hms",
         "vroom",
-        "memoise",
         "broom",
         "car",
         "DelayedArray",
@@ -35292,7 +34695,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "sass",
-        "memoise",
         "pillar",
         "BiocParallel",
         "openssl",
@@ -35317,7 +34719,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "blob",
-        "memoise",
         "vctrs",
         "DelayedArray"
     ],
@@ -35330,7 +34731,6 @@
         "XVector",
         "GenomeInfoDb",
         "blob",
-        "memoise",
         "DelayedArray",
         "vctrs"
     ],
@@ -35376,7 +34776,6 @@
         "R.cache",
         "sass",
         "jquerylib",
-        "memoise",
         "forcats",
         "hms",
         "readr",
@@ -35399,7 +34798,6 @@
         "RSQLite",
         "KEGGREST",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "omicade4": [
@@ -35444,7 +34842,6 @@
         "NADA",
         "futile.logger",
         "sass",
-        "memoise",
         "GenomeInfoDb",
         "XVector",
         "survival",
@@ -35522,7 +34919,6 @@
         "Biostrings",
         "MatrixModels",
         "blob",
-        "memoise",
         "pkgload",
         "waldo",
         "rematch2"
@@ -35594,7 +34990,6 @@
         "dplyr",
         "tidyselect",
         "sass",
-        "memoise",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -35679,7 +35074,6 @@
         "tidyr",
         "dplyr",
         "blob",
-        "memoise",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -35751,8 +35145,7 @@
         "jquerylib",
         "knitr",
         "selectr",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "oncomix": [
         "ggplot2",
@@ -35802,7 +35195,6 @@
         "tidyselect",
         "vctrs",
         "Biostrings",
-        "memoise",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -35853,7 +35245,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "tidyselect",
         "pillar",
         "mgcv",
@@ -35896,7 +35287,6 @@
         "DelayedArray",
         "KEGGREST",
         "sass",
-        "memoise",
         "blob",
         "XVector",
         "openssl",
@@ -35955,7 +35345,6 @@
         "htmlwidgets",
         "interp",
         "blob",
-        "memoise",
         "RcppEigen"
     ],
     "openPrimeRui": [
@@ -35988,7 +35377,6 @@
         "XVector",
         "GenomeInfoDb",
         "sass",
-        "memoise",
         "RSQLite",
         "tibble",
         "tidyselect",
@@ -36065,7 +35453,6 @@
         "tidyselect",
         "vctrs",
         "Biostrings",
-        "memoise",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -36098,7 +35485,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "oppti": [
@@ -36109,7 +35495,6 @@
         "devtools",
         "parallelDist",
         "usethis",
-        "memoise",
         "miniUI",
         "pkgbuild",
         "pkgdown",
@@ -36237,8 +35622,7 @@
         "annotate",
         "hms",
         "vroom",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "Organism.dplyr": [
         "dplyr",
@@ -36262,7 +35646,6 @@
         "Biostrings",
         "rtracklayer",
         "biomaRt",
-        "memoise",
         "progress",
         "openssl",
         "Rsamtools",
@@ -36291,7 +35674,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -36442,7 +35824,6 @@
         "annotate",
         "openssl",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -36481,7 +35862,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -36551,7 +35931,6 @@
         "GenomeInfoDb",
         "openssl",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "pageRank": [
@@ -36582,7 +35961,6 @@
         "R.utils",
         "KEGGREST",
         "blob",
-        "memoise",
         "restfulr",
         "AnnotationDbi",
         "httr",
@@ -36719,7 +36097,6 @@
         "TH.data",
         "sandwich",
         "blob",
-        "memoise",
         "quantreg",
         "XVector",
         "GenomeInfoDb",
@@ -36796,7 +36173,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "rematch2",
         "XVector",
         "GenomeInfoDb",
@@ -36808,7 +36184,6 @@
         "BBmisc",
         "RSQLite",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "PAST": [
@@ -36873,7 +36248,6 @@
         "BiocParallel",
         "geneplotter",
         "usethis",
-        "memoise",
         "miniUI",
         "pkgbuild",
         "pkgdown",
@@ -36932,7 +36306,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -36960,7 +36333,6 @@
         "GenomeInfoDb",
         "openssl",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "pathwayPCA": [
@@ -37045,7 +36417,6 @@
         "dbplyr",
         "futile.logger",
         "sass",
-        "memoise",
         "GSEABase",
         "pillar",
         "openssl",
@@ -37169,7 +36540,6 @@
         "KEGGREST",
         "dbplyr",
         "sass",
-        "memoise",
         "openssl",
         "future.apply",
         "hms",
@@ -37199,7 +36569,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "blob",
-        "memoise",
         "vctrs",
         "DelayedArray"
     ],
@@ -37233,7 +36602,6 @@
         "DT",
         "sass",
         "jquerylib",
-        "memoise",
         "htmlwidgets",
         "promises",
         "mgcv",
@@ -37275,7 +36643,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -37453,7 +36820,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "tweenr",
@@ -37502,7 +36868,6 @@
         "hms",
         "vroom",
         "blob",
-        "memoise",
         "DelayedArray",
         "progress"
     ],
@@ -37545,8 +36910,7 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "PhenoGeneRanker": [
         "igraph",
@@ -37596,7 +36960,6 @@
         "pillar",
         "tidyselect",
         "dbplyr",
-        "memoise",
         "XVector",
         "hms",
         "blob",
@@ -37659,7 +37022,6 @@
         "interp",
         "hms",
         "blob",
-        "memoise",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -37737,8 +37099,7 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "openssl",
-        "memoise"
+        "openssl"
     ],
     "phosphonormalizer": [],
     "PhosR": [
@@ -37838,7 +37199,6 @@
         "dplyr",
         "dbplyr",
         "sass",
-        "memoise",
         "openssl",
         "pillar",
         "GO.db",
@@ -37901,7 +37261,6 @@
         "survival",
         "RcppEigen",
         "crul",
-        "memoise",
         "httr",
         "hms",
         "vroom",
@@ -37939,7 +37298,6 @@
         "bslib",
         "futile.logger",
         "sass",
-        "memoise",
         "mgcv",
         "tibble",
         "vctrs",
@@ -38023,7 +37381,6 @@
         "ggplotify",
         "patchwork",
         "sass",
-        "memoise",
         "tweenr",
         "RcppEigen",
         "ape",
@@ -38084,7 +37441,6 @@
         "hdrcde",
         "ks",
         "blob",
-        "memoise",
         "DelayedArray",
         "vctrs",
         "pillar",
@@ -38175,7 +37531,6 @@
         "spatstat.sparse",
         "sass",
         "jquerylib",
-        "memoise",
         "textshaping"
     ],
     "pipeFrame": [
@@ -38194,7 +37549,6 @@
         "knitr",
         "htmlwidgets",
         "sass",
-        "memoise",
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
@@ -38223,7 +37577,6 @@
         "tibble",
         "vctrs",
         "blob",
-        "memoise",
         "RBGL",
         "pillar"
     ],
@@ -38248,7 +37601,6 @@
         "survival",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -38318,7 +37670,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "knitr",
         "interp",
         "broom",
@@ -38404,7 +37755,6 @@
         "fontawesome",
         "bslib",
         "sass",
-        "memoise",
         "pillar",
         "tidyselect",
         "progress"
@@ -38454,7 +37804,6 @@
         "dbplyr",
         "sass",
         "jquerylib",
-        "memoise",
         "tidyselect",
         "pillar",
         "htmlwidgets",
@@ -38517,7 +37866,6 @@
         "dqrng",
         "futile.logger",
         "sass",
-        "memoise",
         "annotate",
         "AnnotationDbi",
         "XVector",
@@ -38549,7 +37897,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -38638,7 +37985,6 @@
         "blob",
         "tidyselect",
         "Biostrings",
-        "memoise",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -38695,7 +38041,6 @@
         "DelayedArray",
         "rhdf5",
         "sass",
-        "memoise",
         "mgcv",
         "tibble",
         "vctrs",
@@ -38750,7 +38095,6 @@
         "BiocFileCache",
         "sass",
         "jquerylib",
-        "memoise",
         "pillar",
         "prodlim",
         "blob",
@@ -38780,7 +38124,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -38842,7 +38185,6 @@
         "AnnotationFilter",
         "sass",
         "jquerylib",
-        "memoise",
         "readr",
         "reshape2",
         "ggplot2",
@@ -38936,7 +38278,6 @@
         "BiocFileCache",
         "annotate",
         "blob",
-        "memoise",
         "restfulr",
         "dbplyr",
         "openssl",
@@ -38963,7 +38304,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "futile.logger",
@@ -39019,7 +38359,6 @@
         "interp",
         "testthat",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "openssl",
@@ -39154,7 +38493,6 @@
         "ggtree",
         "hms",
         "blob",
-        "memoise",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -39288,7 +38626,6 @@
         "pillar",
         "sass",
         "jquerylib",
-        "memoise",
         "blob",
         "XVector",
         "prodlim",
@@ -39345,7 +38682,6 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "memoise",
         "pROC",
         "recipes",
         "reshape2",
@@ -39392,7 +38728,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -39418,7 +38753,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -39459,7 +38793,6 @@
         "pillar",
         "sass",
         "jquerylib",
-        "memoise",
         "tidyselect",
         "mzR",
         "MsCoreUtils",
@@ -39497,7 +38830,6 @@
         "GO.db",
         "BiocParallel",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
@@ -39544,7 +38876,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "DelayedArray",
@@ -39575,7 +38906,6 @@
         "blob",
         "tidyselect",
         "Biostrings",
-        "memoise",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -39637,7 +38967,6 @@
         "IRanges",
         "RSQLite",
         "KEGGREST",
-        "memoise",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -39718,7 +39047,6 @@
         "DelayedArray",
         "futile.logger",
         "sass",
-        "memoise",
         "blob",
         "bumphunter",
         "derfinderHelper",
@@ -39804,7 +39132,6 @@
         "openssl",
         "hms",
         "blob",
-        "memoise",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -39851,7 +39178,6 @@
         "bslib",
         "futile.logger",
         "sass",
-        "memoise",
         "tidyselect",
         "pillar",
         "knitr",
@@ -39881,7 +39207,6 @@
         "XVector",
         "GenomeInfoDb",
         "blob",
-        "memoise",
         "DelayedArray",
         "vctrs"
     ],
@@ -39916,7 +39241,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "pillar",
         "dbplyr",
         "dplyr",
@@ -39988,7 +39312,6 @@
         "RcppEigen",
         "hms",
         "blob",
-        "memoise",
         "pillar",
         "tidyselect"
     ],
@@ -40028,7 +39351,6 @@
         "Biostrings",
         "hms",
         "blob",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -40065,7 +39387,6 @@
         "RSQLite",
         "KEGGREST",
         "jquerylib",
-        "memoise",
         "AnnotationHub",
         "BiocFileCache",
         "pillar",
@@ -40211,7 +39532,6 @@
         "BiocFileCache",
         "openssl",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -40300,7 +39620,6 @@
         "htmlwidgets",
         "interp",
         "blob",
-        "memoise",
         "restfulr",
         "dbplyr",
         "dplyr",
@@ -40359,8 +39678,7 @@
         "pillar",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "QSutils": [
         "Biostrings",
@@ -40396,8 +39714,7 @@
         "KEGGREST",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "Qtlizer": [
         "httr",
@@ -40475,7 +39792,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -40527,7 +39843,6 @@
         "BiocFileCache",
         "interp",
         "blob",
-        "memoise",
         "DelayedArray",
         "dbplyr",
         "dplyr",
@@ -40626,7 +39941,6 @@
         "RcppEigen",
         "hms",
         "blob",
-        "memoise",
         "dbplyr",
         "openssl"
     ],
@@ -40653,7 +39967,6 @@
         "tibble",
         "vctrs",
         "blob",
-        "memoise",
         "DelayedArray",
         "pillar"
     ],
@@ -40693,8 +40006,7 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "RcppEigen",
-        "memoise"
+        "RcppEigen"
     ],
     "R4RNA": [
         "Biostrings",
@@ -40741,7 +40053,6 @@
         "dplyr",
         "tidyselect",
         "sass",
-        "memoise",
         "mgcv"
     ],
     "RaggedExperiment": [
@@ -40802,8 +40113,7 @@
         "pillar",
         "tibble",
         "tidyselect",
-        "vctrs",
-        "memoise"
+        "vctrs"
     ],
     "RandomWalkRestartMH": [
         "igraph",
@@ -40869,7 +40179,6 @@
         "openssl",
         "BiocParallel",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
@@ -40996,7 +40305,6 @@
         "RcppEigen",
         "bslib",
         "blob",
-        "memoise",
         "restfulr",
         "KEGGREST",
         "progress",
@@ -41027,7 +40335,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "pillar"
     ],
     "rCGH": [
@@ -41064,7 +40371,6 @@
         "BiocFileCache",
         "sass",
         "jquerylib",
-        "memoise",
         "blob",
         "Rsamtools",
         "GenomicAlignments",
@@ -41113,7 +40419,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "openssl",
         "Biostrings",
         "blob"
@@ -41159,7 +40464,6 @@
         "KEGGREST",
         "httr",
         "blob",
-        "memoise",
         "vctrs",
         "openssl"
     ],
@@ -41204,7 +40508,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "tidyselect",
         "vctrs",
         "pillar",
@@ -41244,7 +40547,6 @@
         "tidyr",
         "viridis",
         "visNetwork",
-        "memoise",
         "httpuv",
         "fontawesome",
         "promises",
@@ -41306,8 +40608,7 @@
         "vctrs",
         "dplyr",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "ReactomeGSA": [
         "httr",
@@ -41376,7 +40677,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -41393,8 +40693,7 @@
         "bookdown",
         "bslib",
         "jquerylib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "receptLoss": [
         "dplyr",
@@ -41491,7 +40790,6 @@
         "htmlwidgets",
         "interp",
         "blob",
-        "memoise",
         "BSgenome",
         "dbplyr",
         "RcppEigen"
@@ -41521,7 +40819,6 @@
         "vctrs",
         "BiocParallel",
         "openssl",
-        "memoise",
         "futile.logger"
     ],
     "recountmethylation": [
@@ -41566,7 +40863,6 @@
         "tidyr",
         "openssl",
         "base64",
-        "memoise",
         "multtest",
         "KEGGREST",
         "rtracklayer",
@@ -41605,7 +40901,6 @@
         "vctrs",
         "openssl",
         "blob",
-        "memoise",
         "restfulr",
         "KEGGREST",
         "dbplyr",
@@ -41662,7 +40957,6 @@
         "BiocParallel",
         "mgcv",
         "scales",
-        "memoise",
         "blob",
         "restfulr",
         "DelayedArray",
@@ -41726,12 +41020,10 @@
         "openssl",
         "interp",
         "blob",
-        "memoise",
         "RcppEigen"
     ],
     "regioneR": [
         "GenomicRanges",
-        "memoise",
         "IRanges",
         "BSgenome",
         "Biostrings",
@@ -41757,7 +41049,6 @@
         "tibble",
         "vctrs",
         "GenomicRanges",
-        "memoise",
         "IRanges",
         "BSgenome",
         "Biostrings",
@@ -41815,7 +41106,6 @@
         "KEGGREST",
         "futile.logger",
         "sass",
-        "memoise",
         "doRNG",
         "annotate",
         "Biostrings",
@@ -41887,7 +41177,6 @@
         "IRkernel",
         "IRdisplay",
         "blob",
-        "memoise",
         "progress",
         "scales",
         "Hmisc",
@@ -41993,7 +41282,6 @@
         "ipred",
         "lubridate",
         "blob",
-        "memoise",
         "multtest",
         "progress",
         "htmlwidgets",
@@ -42041,7 +41329,6 @@
         "vctrs",
         "openssl",
         "blob",
-        "memoise",
         "pillar"
     ],
     "ReportingTools": [
@@ -42103,7 +41390,6 @@
         "viridis",
         "openssl",
         "blob",
-        "memoise",
         "restfulr",
         "DelayedArray",
         "pillar",
@@ -42139,8 +41425,7 @@
         "pillar",
         "tibble",
         "tidyselect",
-        "vctrs",
-        "memoise"
+        "vctrs"
     ],
     "ReQON": [
         "Rsamtools",
@@ -42220,7 +41505,6 @@
         "Biostrings",
         "hms",
         "blob",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -42346,7 +41630,6 @@
         "shiny",
         "DT",
         "blob",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -42398,7 +41681,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "memoise",
         "BSgenome",
         "KEGGREST",
         "progress",
@@ -42458,7 +41740,6 @@
         "httr",
         "BiocFileCache",
         "sass",
-        "memoise",
         "vctrs",
         "blob",
         "Rsamtools",
@@ -42511,7 +41792,6 @@
         "Biostrings",
         "hms",
         "blob",
-        "memoise",
         "pillar",
         "tidyselect",
         "Rsamtools",
@@ -42547,7 +41827,6 @@
         "BiocFileCache",
         "BiocParallel",
         "blob",
-        "memoise",
         "restfulr",
         "DelayedArray",
         "dbplyr",
@@ -42603,7 +41882,6 @@
         "geneplotter",
         "openssl",
         "blob",
-        "memoise",
         "restfulr",
         "DelayedArray",
         "dbplyr",
@@ -42654,7 +41932,6 @@
         "StanHeaders",
         "annotate",
         "openssl",
-        "memoise",
         "restfulr",
         "DelayedArray",
         "hms",
@@ -42708,7 +41985,6 @@
         "viridis",
         "RBGL",
         "blob",
-        "memoise",
         "DelayedArray",
         "pillar",
         "dbplyr",
@@ -42785,7 +42061,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "latticeExtra",
         "DelayedArray",
         "CNEr",
@@ -42855,8 +42130,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "Ringo": [
         "genefilter",
@@ -42876,7 +42150,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "pillar",
         "XVector",
         "GenomeInfoDb"
@@ -42900,7 +42173,6 @@
         "tibble",
         "vctrs",
         "Rsamtools",
-        "memoise",
         "biovizBase",
         "GenomicFeatures",
         "bamsignals",
@@ -43001,7 +42273,6 @@
         "pillar",
         "BiocParallel",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "GO.db",
@@ -43082,7 +42353,6 @@
         "biomaRt",
         "mgcv",
         "scales",
-        "memoise",
         "BSgenome",
         "ExperimentHub",
         "Rsamtools",
@@ -43181,7 +42451,6 @@
         "geneplotter",
         "ggplot2",
         "usethis",
-        "memoise",
         "miniUI",
         "pkgbuild",
         "pkgdown",
@@ -43290,7 +42559,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "restfulr",
         "pillar",
         "doRNG",
@@ -43359,7 +42627,6 @@
         "vctrs",
         "pillar",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -43401,7 +42668,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "pillar"
@@ -43445,7 +42711,6 @@
         "AnnotationFilter",
         "interp",
         "blob",
-        "memoise",
         "DelayedArray",
         "pillar",
         "dbplyr",
@@ -43508,7 +42773,6 @@
         "RcppEigen",
         "hms",
         "blob",
-        "memoise",
         "DelayedArray",
         "pillar",
         "tidyselect",
@@ -43557,7 +42821,6 @@
         "AnnotationFilter",
         "interp",
         "blob",
-        "memoise",
         "DelayedArray",
         "pillar",
         "dbplyr",
@@ -43619,7 +42882,6 @@
         "RcppEigen",
         "hms",
         "blob",
-        "memoise",
         "DelayedArray",
         "pillar",
         "tidyselect",
@@ -43743,7 +43005,6 @@
         "knitr",
         "MatrixModels",
         "blob",
-        "memoise",
         "tweenr",
         "testthat",
         "pkgload",
@@ -43817,7 +43078,6 @@
         "viridis",
         "reshape2",
         "vroom",
-        "memoise",
         "knitr",
         "htmlwidgets",
         "interp",
@@ -43883,7 +43143,6 @@
         "R.utils",
         "rhdf5",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -44011,7 +43270,6 @@
         "XVector",
         "GenomeInfoDb",
         "sass",
-        "memoise",
         "mgcv",
         "tibble",
         "vctrs",
@@ -44033,7 +43291,6 @@
         "GenomeInfoDb",
         "sass",
         "jquerylib",
-        "memoise",
         "htmlwidgets",
         "promises",
         "mgcv",
@@ -44055,8 +43312,7 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "openssl",
-        "memoise"
+        "openssl"
     ],
     "Rqc": [
         "BiocParallel",
@@ -44099,7 +43355,6 @@
         "KEGGREST",
         "jquerylib",
         "sass",
-        "memoise",
         "biomaRt",
         "survival",
         "htmlTable",
@@ -44222,7 +43477,6 @@
         "RSpectra",
         "sass",
         "jquerylib",
-        "memoise",
         "httr",
         "Biostrings",
         "RcppEigen",
@@ -44303,7 +43557,6 @@
         "survMisc",
         "ggtext",
         "sass",
-        "memoise",
         "ggrepel",
         "ggsci",
         "cowplot",
@@ -44358,7 +43611,6 @@
         "hms",
         "vroom",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -44538,7 +43790,6 @@
         "IRanges",
         "KEGGREST",
         "blob",
-        "memoise",
         "vctrs",
         "httr",
         "Biostrings",
@@ -44568,7 +43819,6 @@
         "GenomeInfoDb",
         "sass",
         "jquerylib",
-        "memoise",
         "blob",
         "Rsamtools",
         "GenomicAlignments",
@@ -44645,7 +43895,6 @@
         "interp",
         "hms",
         "blob",
-        "memoise",
         "restfulr",
         "vctrs",
         "pillar",
@@ -44696,7 +43945,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -44735,7 +43983,6 @@
         "Biostrings",
         "hms",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "tidyselect"
@@ -44782,7 +44029,6 @@
         "httpuv",
         "fontawesome",
         "sass",
-        "memoise",
         "tidyselect",
         "pillar",
         "mgcv",
@@ -44800,8 +44046,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "SANTA": [
         "igraph"
@@ -44862,7 +44107,6 @@
         "DelayedArray",
         "XVector",
         "sass",
-        "memoise",
         "blob",
         "vctrs"
     ],
@@ -44891,7 +44135,6 @@
         "GenomeInfoDb",
         "sass",
         "jquerylib",
-        "memoise",
         "XVector",
         "pillar"
     ],
@@ -44965,8 +44208,7 @@
         "pillar",
         "dqrng",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "SCAN.UPC": [
         "oligo",
@@ -44999,7 +44241,6 @@
         "hms",
         "vroom",
         "blob",
-        "memoise",
         "httr",
         "KEGGREST",
         "DelayedArray",
@@ -45076,7 +44317,6 @@
         "dbplyr",
         "progress",
         "sass",
-        "memoise",
         "tidyselect",
         "pillar",
         "SummarizedExperiment",
@@ -45151,7 +44391,6 @@
         "ipred",
         "lubridate",
         "blob",
-        "memoise",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -45225,7 +44464,6 @@
         "openssl",
         "shiny",
         "DT",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -45349,7 +44587,6 @@
         "KEGGREST",
         "sass",
         "jquerylib",
-        "memoise",
         "tidyselect",
         "Biostrings",
         "blob"
@@ -45409,8 +44646,7 @@
         "spatstat.sparse",
         "dqrng",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "scCB2": [
         "SingleCellExperiment",
@@ -45479,7 +44715,6 @@
         "pillar",
         "sass",
         "jquerylib",
-        "memoise",
         "tidyselect"
     ],
     "scClassify": [
@@ -45530,8 +44765,7 @@
         "XVector",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "sccomp": [
         "rstantools",
@@ -45624,7 +44858,6 @@
         "dqrng",
         "sass",
         "jquerylib",
-        "memoise",
         "tidyselect"
     ],
     "scDblFinder": [
@@ -45834,7 +45067,6 @@
         "Biostrings",
         "lava",
         "blob",
-        "memoise",
         "future.apply",
         "future"
     ],
@@ -45886,7 +45118,6 @@
         "DelayedArray",
         "sass",
         "jquerylib",
-        "memoise",
         "IRanges",
         "survival",
         "GenomeInfoDb",
@@ -45951,7 +45182,6 @@
         "jquerylib",
         "shiny",
         "sass",
-        "memoise",
         "blob",
         "httr",
         "selectr",
@@ -46008,7 +45238,6 @@
         "dqrng",
         "sass",
         "jquerylib",
-        "memoise",
         "tidyselect"
     ],
     "scmap": [
@@ -46104,8 +45333,7 @@
         "jquerylib",
         "XVector",
         "bslib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "scmeth": [
         "knitr",
@@ -46151,7 +45379,6 @@
         "dbplyr",
         "futile.logger",
         "sass",
-        "memoise",
         "sparseMatrixStats",
         "tibble",
         "tidyselect",
@@ -46235,7 +45462,6 @@
         "interp",
         "hms",
         "blob",
-        "memoise",
         "restfulr",
         "vctrs",
         "pillar",
@@ -46313,7 +45539,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "vctrs",
@@ -46432,7 +45657,6 @@
         "hms",
         "RcppEigen",
         "blob",
-        "memoise",
         "dqrng",
         "rematch2",
         "textshaping"
@@ -46586,7 +45810,6 @@
         "interp",
         "RBGL",
         "blob",
-        "memoise",
         "pillar",
         "dbplyr",
         "tidyselect",
@@ -46685,7 +45908,6 @@
         "bslib",
         "jquerylib",
         "blob",
-        "memoise",
         "Seurat",
         "shiny",
         "ggforce",
@@ -46789,7 +46011,6 @@
         "RSQLite",
         "KEGGREST",
         "sass",
-        "memoise",
         "sf",
         "viridis",
         "XVector",
@@ -46933,7 +46154,6 @@
         "BiocFileCache",
         "sass",
         "jquerylib",
-        "memoise",
         "textshaping",
         "blob",
         "GenomicAlignments",
@@ -47047,7 +46267,6 @@
         "treeio",
         "GO.db",
         "blob",
-        "memoise",
         "dbplyr",
         "futile.logger",
         "cowplot",
@@ -47110,7 +46329,6 @@
         "Rsamtools",
         "pillar",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "dbplyr",
@@ -47138,7 +46356,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -47179,7 +46396,6 @@
         "htmlwidgets",
         "Biostrings",
         "interp",
-        "memoise",
         "RcppEigen"
     ],
     "seqArchR": [
@@ -47248,7 +46464,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "openssl",
         "hms"
@@ -47309,8 +46524,7 @@
         "blob",
         "pillar",
         "tidyselect",
-        "Biostrings",
-        "memoise"
+        "Biostrings"
     ],
     "seqPattern": [
         "Biostrings",
@@ -47380,7 +46594,6 @@
         "httr",
         "dbplyr",
         "sass",
-        "memoise",
         "tidyselect",
         "pillar",
         "crul",
@@ -47451,7 +46664,6 @@
         "interactiveDisplayBase",
         "openssl",
         "blob",
-        "memoise",
         "progress",
         "KEGGREST",
         "shiny",
@@ -47500,8 +46712,7 @@
         "pillar",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "sevenbridges": [
         "httr",
@@ -47555,7 +46766,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "vctrs",
@@ -47622,7 +46832,6 @@
         "fontawesome",
         "sass",
         "futile.logger",
-        "memoise",
         "doRNG",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -47673,7 +46882,6 @@
         "XVector",
         "sass",
         "jquerylib",
-        "memoise",
         "doRNG",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -47807,7 +47015,6 @@
         "KEGGREST",
         "sass",
         "jquerylib",
-        "memoise",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -47902,7 +47109,6 @@
         "hms",
         "vroom",
         "blob",
-        "memoise",
         "GenomicRanges",
         "GenomeInfoDb",
         "htmlwidgets",
@@ -48022,7 +47228,6 @@
         "AnnotationDbi",
         "GenomicFeatures",
         "KEGGREST",
-        "memoise",
         "blob",
         "BiocParallel",
         "biomaRt",
@@ -48117,7 +47322,6 @@
         "hms",
         "vroom",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "knitr",
@@ -48170,7 +47374,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "vctrs",
@@ -48198,7 +47401,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -48232,7 +47434,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "pillar",
         "XVector",
         "GenomeInfoDb"
@@ -48338,7 +47539,6 @@
         "httr",
         "sass",
         "jquerylib",
-        "memoise",
         "DelayedMatrixStats",
         "edgeR",
         "R.utils",
@@ -48365,7 +47565,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -48594,7 +47793,6 @@
         "rsvd",
         "XVector",
         "sass",
-        "memoise",
         "biomaRt",
         "ragg",
         "org.Hs.eg.db",
@@ -48656,7 +47854,6 @@
         "BiocFileCache",
         "interp",
         "blob",
-        "memoise",
         "DelayedArray",
         "dbplyr",
         "dplyr",
@@ -48719,8 +47916,7 @@
         "XVector",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "SISPA": [
         "genefilter",
@@ -48758,8 +47954,7 @@
         "XVector",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "sitadela": [
         "biomaRt",
@@ -48778,7 +47973,6 @@
         "XVector",
         "BiocParallel",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "KEGGREST",
@@ -48878,7 +48072,6 @@
         "hms",
         "vroom",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -48907,8 +48100,7 @@
         "pillar",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "slingshot": [
         "TrajectoryUtils",
@@ -48965,7 +48157,6 @@
         "openssl",
         "interp",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -49006,7 +48197,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "pillar",
         "XVector",
         "GenomeInfoDb"
@@ -49075,7 +48265,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "openssl",
@@ -49139,8 +48328,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "SomaticSignatures": [
         "VariantAnnotation",
@@ -49198,7 +48386,6 @@
         "interp",
         "hms",
         "blob",
-        "memoise",
         "dbplyr",
         "openssl",
         "RcppEigen"
@@ -49284,7 +48471,6 @@
         "rsvd",
         "sass",
         "jquerylib",
-        "memoise",
         "sparseMatrixStats",
         "survival",
         "XVector",
@@ -49334,8 +48520,7 @@
         "Biostrings",
         "XVector",
         "GenomeInfoDb",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "sparseDOSSA": [
         "tmvtnorm",
@@ -49416,8 +48601,7 @@
         "futile.logger",
         "blob",
         "sparseMatrixStats",
-        "openssl",
-        "memoise"
+        "openssl"
     ],
     "SpatialCPie": [
         "dplyr",
@@ -49454,7 +48638,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "jquerylib",
-        "memoise",
         "XVector",
         "progress"
     ],
@@ -49496,8 +48679,7 @@
         "blob",
         "tidyselect",
         "sparseMatrixStats",
-        "openssl",
-        "memoise"
+        "openssl"
     ],
     "SpatialDecon": [
         "SeuratObject",
@@ -49576,8 +48758,7 @@
         "vctrs",
         "sparseMatrixStats",
         "XVector",
-        "openssl",
-        "memoise"
+        "openssl"
     ],
     "SpatialFeatureExperiment": [
         "BiocParallel",
@@ -49615,8 +48796,7 @@
         "tidyselect",
         "vctrs",
         "sparseMatrixStats",
-        "openssl",
-        "memoise"
+        "openssl"
     ],
     "spatialHeatmap": [
         "BiocParallel",
@@ -49685,7 +48865,6 @@
         "rsvd",
         "sass",
         "jquerylib",
-        "memoise",
         "blob",
         "sparseMatrixStats",
         "XVector",
@@ -49746,7 +48925,6 @@
         "biovizBase",
         "latticeExtra",
         "blob",
-        "memoise",
         "restfulr",
         "dbplyr",
         "Hmisc",
@@ -49767,7 +48945,6 @@
         "RSQLite",
         "seqinr",
         "blob",
-        "memoise",
         "ade4",
         "segmented",
         "vctrs"
@@ -49899,7 +49076,6 @@
         "futile.logger",
         "sass",
         "jquerylib",
-        "memoise",
         "blob",
         "sparseMatrixStats"
     ],
@@ -49957,7 +49133,6 @@
         "blob",
         "sparseMatrixStats",
         "openssl",
-        "memoise",
         "pkgload",
         "waldo",
         "rematch2"
@@ -49976,7 +49151,6 @@
         "sqldf",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -50113,7 +49287,6 @@
         "bslib",
         "sass",
         "KEGGREST",
-        "memoise",
         "blob",
         "pillar",
         "tidyselect",
@@ -50151,7 +49324,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "restfulr",
         "DelayedArray",
         "dbplyr",
@@ -50176,7 +49348,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -50221,7 +49392,6 @@
         "interp",
         "hms",
         "blob",
-        "memoise",
         "restfulr",
         "DelayedArray",
         "pillar",
@@ -50319,7 +49489,6 @@
         "testthat",
         "bslib",
         "jquerylib",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "sass",
@@ -50401,7 +49570,6 @@
         "futile.logger",
         "sass",
         "jquerylib",
-        "memoise",
         "blob",
         "sparseMatrixStats"
     ],
@@ -50480,7 +49648,6 @@
         "RcppEigen",
         "httr",
         "blob",
-        "memoise",
         "pillar",
         "openssl"
     ],
@@ -50492,8 +49659,7 @@
         "blob",
         "pillar",
         "tidyselect",
-        "vctrs",
-        "memoise"
+        "vctrs"
     ],
     "sRACIPE": [
         "SummarizedExperiment",
@@ -50525,7 +49691,6 @@
         "tidyr",
         "R.utils",
         "blob",
-        "memoise",
         "vctrs",
         "tibble",
         "tidyselect",
@@ -50557,7 +49722,6 @@
         "geneplotter",
         "ggplot2",
         "usethis",
-        "memoise",
         "miniUI",
         "pkgbuild",
         "pkgdown",
@@ -50670,8 +49834,7 @@
         "openssl",
         "tidyr",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "ssPATHS": [
         "SummarizedExperiment",
@@ -50726,8 +49889,7 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "ssviz": [
         "Rsamtools",
@@ -50795,7 +49957,6 @@
         "RcppEigen",
         "hms",
         "blob",
-        "memoise",
         "DelayedArray",
         "vctrs",
         "pillar",
@@ -50860,7 +50021,6 @@
         "sparseMatrixStats",
         "rtracklayer",
         "openssl",
-        "memoise",
         "GenomicAlignments",
         "latticeExtra",
         "interp",
@@ -50889,7 +50049,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "pillar",
         "XVector",
         "GenomeInfoDb"
@@ -50919,7 +50078,6 @@
         "Biostrings",
         "sqldf",
         "blob",
-        "memoise",
         "pillar",
         "XVector",
         "GenomeInfoDb"
@@ -50990,8 +50148,7 @@
         "e1071",
         "bslib",
         "jquerylib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "statTarget": [
         "ROC",
@@ -51098,7 +50255,6 @@
         "futile.logger",
         "sass",
         "jquerylib",
-        "memoise",
         "blob",
         "sparseMatrixStats"
     ],
@@ -51132,7 +50288,6 @@
         "KEGGREST",
         "futile.logger",
         "sass",
-        "memoise",
         "rtracklayer",
         "biomaRt",
         "DelayedArray",
@@ -51153,7 +50308,6 @@
         "igraph",
         "RSQLite",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "STROMA4": [
@@ -51232,7 +50386,6 @@
         "BiocFileCache",
         "BiocParallel",
         "blob",
-        "memoise",
         "dbplyr",
         "futile.logger",
         "openssl",
@@ -51268,7 +50421,6 @@
         "tidyr",
         "tidyselect",
         "blob",
-        "memoise",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -51421,8 +50573,7 @@
         "KEGGREST",
         "dbplyr",
         "rematch2",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "survcomp": [
         "survival",
@@ -51493,7 +50644,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -51527,7 +50677,6 @@
         "BiocFileCache",
         "BiocParallel",
         "blob",
-        "memoise",
         "DelayedArray",
         "dbplyr",
         "futile.logger",
@@ -51563,7 +50712,6 @@
         "BiocFileCache",
         "BiocParallel",
         "blob",
-        "memoise",
         "DelayedArray",
         "dbplyr",
         "futile.logger",
@@ -51593,7 +50741,6 @@
         "blob",
         "tidyselect",
         "Biostrings",
-        "memoise",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -51655,7 +50802,6 @@
         "knitr",
         "futile.logger",
         "sass",
-        "memoise",
         "mgcv",
         "vctrs",
         "doParallel",
@@ -51694,7 +50840,6 @@
         "sftime",
         "spacetime",
         "stars",
-        "memoise",
         "lubridate",
         "broom",
         "httr",
@@ -51752,7 +50897,6 @@
         "GenomeInfoDb",
         "RSQLite",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "synlet": [
@@ -51883,7 +51027,6 @@
         "httr",
         "tidyr",
         "blob",
-        "memoise",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -51943,8 +51086,7 @@
         "RSQLite",
         "KEGGREST",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "TADCompare": [
         "dplyr",
@@ -52048,7 +51190,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "restfulr",
         "DelayedArray",
         "dbplyr",
@@ -52066,8 +51207,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "TargetDecoy": [
         "ggplot2",
@@ -52094,7 +51234,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "tidyselect",
         "pillar",
         "broom",
@@ -52199,8 +51338,7 @@
         "KEGGREST",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "TCC": [
         "DESeq2",
@@ -52230,8 +51368,7 @@
         "pillar",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "TCGAbiolinks": [
         "biomaRt",
@@ -52266,8 +51403,7 @@
         "KEGGREST",
         "dbplyr",
         "blob",
-        "Biostrings",
-        "memoise"
+        "Biostrings"
     ],
     "TCGAbiolinksGUI": [
         "shinydashboard",
@@ -52348,7 +51484,6 @@
         "dbplyr",
         "futile.logger",
         "sass",
-        "memoise",
         "HDO.db",
         "fgsea",
         "tidyselect",
@@ -52451,7 +51586,6 @@
         "hms",
         "vroom",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -52521,8 +51655,7 @@
         "blob",
         "pillar",
         "tidyselect",
-        "Biostrings",
-        "memoise"
+        "Biostrings"
     ],
     "TENxIO": [
         "SingleCellExperiment",
@@ -52580,7 +51713,6 @@
         "dbplyr",
         "sass",
         "jquerylib",
-        "memoise",
         "tidyselect",
         "vctrs",
         "pillar",
@@ -52648,7 +51780,6 @@
         "rtracklayer",
         "biomaRt",
         "openssl",
-        "memoise",
         "selectr",
         "httpuv",
         "fontawesome",
@@ -52697,7 +51828,6 @@
         "R.utils",
         "KEGGREST",
         "blob",
-        "memoise",
         "restfulr",
         "AnnotationDbi",
         "httr",
@@ -52740,7 +51870,6 @@
         "openssl",
         "hms",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -52793,8 +51922,7 @@
         "annotate",
         "hms",
         "vroom",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "TFutils": [
         "dplyr",
@@ -52833,7 +51961,6 @@
         "bslib",
         "futile.logger",
         "sass",
-        "memoise",
         "blob",
         "hms"
     ],
@@ -52910,7 +52037,6 @@
         "IRanges",
         "KEGGREST",
         "blob",
-        "memoise",
         "vctrs",
         "openssl",
         "Biostrings",
@@ -52943,7 +52069,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "pillar",
         "XVector",
         "GenomeInfoDb"
@@ -53048,7 +52173,6 @@
         "futile.logger",
         "sass",
         "jquerylib",
-        "memoise",
         "blob",
         "cowplot",
         "ggforce",
@@ -53098,7 +52222,6 @@
         "interp",
         "aroma.light",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "openssl",
@@ -53129,8 +52252,7 @@
         "XVector",
         "openssl",
         "Biostrings",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "TitanCNA": [
         "IRanges",
@@ -53162,7 +52284,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "openssl",
         "hms"
@@ -53222,7 +52343,6 @@
         "hms",
         "vroom",
         "blob",
-        "memoise",
         "dbplyr",
         "openssl",
         "lava",
@@ -53297,7 +52417,6 @@
         "knitr",
         "MatrixModels",
         "blob",
-        "memoise",
         "testthat",
         "pkgload",
         "waldo",
@@ -53384,7 +52503,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "blob",
         "openssl",
         "progress"
@@ -53427,7 +52545,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -53471,8 +52588,7 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "TPP": [
         "dplyr",
@@ -53494,8 +52610,7 @@
         "scales",
         "bslib",
         "jquerylib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "TPP2D": [
         "dplyr",
@@ -53558,7 +52673,6 @@
         "AnnotationFilter",
         "interp",
         "blob",
-        "memoise",
         "DelayedArray",
         "dbplyr",
         "dplyr",
@@ -53647,7 +52761,6 @@
         "openssl",
         "blob",
         "Biostrings",
-        "memoise",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -53692,7 +52805,6 @@
         "tidyr",
         "tidyselect",
         "blob",
-        "memoise",
         "latticeExtra",
         "DelayedArray",
         "pillar",
@@ -53772,7 +52884,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "pillar",
         "openssl"
     ],
@@ -53998,7 +53109,6 @@
         "survival",
         "RcppEigen",
         "blob",
-        "memoise",
         "Hmisc",
         "doParallel",
         "GO.db",
@@ -54046,7 +53156,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "sass",
-        "memoise",
         "XVector",
         "pillar",
         "vctrs"
@@ -54073,7 +53182,6 @@
         "BiocFileCache",
         "SummarizedExperiment",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "vctrs",
@@ -54129,7 +53237,6 @@
         "Biostrings",
         "RcppEigen",
         "blob",
-        "memoise",
         "dqrng",
         "openssl",
         "textshaping"
@@ -54158,7 +53265,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -54203,7 +53309,6 @@
         "fontawesome",
         "bslib",
         "sass",
-        "memoise",
         "mgcv",
         "openssl",
         "knitr",
@@ -54298,7 +53403,6 @@
         "GenomeInfoDb",
         "sass",
         "jquerylib",
-        "memoise",
         "XVector",
         "pillar"
     ],
@@ -54327,7 +53431,6 @@
         "jquerylib",
         "DelayedArray",
         "sass",
-        "memoise",
         "clv",
         "rgl",
         "htmlwidgets"
@@ -54404,7 +53507,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "pillar"
     ],
     "txcutr": [
@@ -54429,7 +53531,6 @@
         "BiocFileCache",
         "SummarizedExperiment",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "vctrs",
@@ -54474,7 +53575,6 @@
         "shiny",
         "DT",
         "BiocParallel",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
@@ -54550,7 +53650,6 @@
         "futile.logger",
         "progress",
         "sass",
-        "memoise",
         "blob",
         "pillar",
         "tidyselect",
@@ -54599,7 +53698,6 @@
         "fds",
         "biomaRt",
         "mgcv",
-        "memoise",
         "latticeExtra",
         "DelayedArray",
         "KEGGREST",
@@ -54676,7 +53774,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "AnnotationFilter",
-        "memoise",
         "blob",
         "pillar",
         "vctrs",
@@ -54709,7 +53806,6 @@
         "openssl",
         "hms",
         "blob",
-        "memoise",
         "vctrs",
         "pillar",
         "tibble",
@@ -54745,7 +53841,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "vctrs",
@@ -54886,7 +53981,6 @@
         "Rsamtools",
         "base64",
         "blob",
-        "memoise",
         "openssl",
         "vctrs",
         "BiocParallel",
@@ -54917,7 +54011,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
@@ -54978,7 +54071,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "vctrs",
@@ -55064,7 +54156,6 @@
         "Hmisc",
         "AnnotationFilter",
         "sass",
-        "memoise",
         "openssl",
         "interp",
         "blob",
@@ -55106,7 +54197,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "DelayedArray",
         "dbplyr",
         "dplyr",
@@ -55144,7 +54234,6 @@
         "KEGGREST",
         "openssl",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "VCFArray": [
@@ -55173,7 +54262,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "vctrs",
@@ -55223,7 +54311,6 @@
         "tidyselect",
         "vctrs",
         "Biostrings",
-        "memoise",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -55303,7 +54390,6 @@
         "tidyselect",
         "futile.logger",
         "sass",
-        "memoise",
         "pillar",
         "annotate",
         "AnnotationDbi",
@@ -55373,7 +54459,6 @@
         "hms",
         "vroom",
         "blob",
-        "memoise",
         "TSP",
         "XVector",
         "GenomeInfoDb"
@@ -55428,7 +54513,6 @@
         "DT",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "htmlwidgets",
@@ -55485,8 +54569,7 @@
         "blob",
         "tidyselect",
         "sparseMatrixStats",
-        "openssl",
-        "memoise"
+        "openssl"
     ],
     "VplotR": [
         "GenomicRanges",
@@ -55526,7 +54609,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "GenomeInfoDb",
         "XVector",
         "mgcv",
@@ -55585,7 +54667,6 @@
         "shiny",
         "DT",
         "BiocParallel",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "DelayedArray",
@@ -55656,7 +54737,6 @@
         "BSgenome",
         "segmented",
         "survival",
-        "memoise",
         "restfulr",
         "DelayedArray",
         "ShortRead",
@@ -55698,7 +54778,6 @@
         "openssl",
         "nloptr",
         "RcppEigen",
-        "memoise",
         "mgcv",
         "scales",
         "testthat",
@@ -55750,7 +54829,6 @@
         "HDF5Array",
         "BiocParallel",
         "blob",
-        "memoise",
         "futile.logger",
         "progress",
         "BiocFileCache",
@@ -55809,7 +54887,6 @@
         "htmlwidgets",
         "interp",
         "blob",
-        "memoise",
         "pillar",
         "dbplyr",
         "dplyr",
@@ -55842,7 +54919,6 @@
         "vctrs",
         "httr",
         "blob",
-        "memoise",
         "pillar",
         "openssl"
     ],
@@ -55922,7 +54998,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "memoise",
         "XVector",
         "knitr",
         "gert",
@@ -55954,8 +55029,7 @@
         "jquerylib",
         "knitr",
         "selectr",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "Wrench": [],
     "xcms": [
@@ -56016,7 +55090,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -56065,8 +55138,7 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "XINA": [
         "ggplot2",
@@ -56079,8 +55151,7 @@
         "sqldf",
         "RSQLite",
         "pillar",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "XNAString": [
         "Biostrings",
@@ -56104,7 +55175,6 @@
         "restfulr",
         "futile.logger",
         "sass",
-        "memoise",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -56160,7 +55230,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "RSQLite",
-        "memoise",
         "biomaRt",
         "Hmisc",
         "biovizBase",
@@ -56243,7 +55312,6 @@
         "R.utils",
         "rhdf5",
         "base64",
-        "memoise",
         "multtest",
         "rtracklayer",
         "Rsamtools",
@@ -56318,7 +55386,6 @@
         "blob",
         "openssl",
         "testthat",
-        "memoise",
         "pkgload",
         "waldo",
         "rematch2"
@@ -56362,7 +55429,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "glmnet": [
@@ -56381,7 +55447,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -56394,14 +55459,12 @@
     ],
     "RSQLite": [
         "blob",
-        "memoise",
         "vctrs"
     ],
     "openssl": [],
     "blob": [
         "vctrs"
     ],
-    "memoise": [],
     "vctrs": [],
     "ggplot2": [
         "mgcv",
@@ -56423,7 +55486,6 @@
         "sass",
         "bslib",
         "jquerylib",
-        "memoise",
         "httpuv",
         "fontawesome",
         "promises"
@@ -56432,8 +55494,7 @@
         "bslib",
         "jquerylib",
         "knitr",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "knitr": [],
     "vegan": [
@@ -56477,8 +55538,7 @@
         "rmarkdown",
         "jquerylib",
         "bslib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "htmlwidgets": [],
     "shiny": [
@@ -56487,15 +55547,13 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "scales": [],
     "sass": [],
     "bslib": [
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "mgcv": [],
     "tibble": [
@@ -56594,8 +55652,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "testthat": [
         "pkgload",
@@ -56759,7 +55816,6 @@
         "shiny",
         "DT",
         "blob",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -56816,7 +55872,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -56955,8 +56010,7 @@
         "fontawesome",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "seqinr": [
         "ade4",
@@ -57037,7 +56091,6 @@
         "shiny",
         "DT",
         "blob",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -57172,7 +56225,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "pillar"
     ],
     "umap": [
@@ -57258,8 +56310,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "bigrquery": [
         "gargle",
@@ -57278,8 +56329,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "gargle": [
         "httr",
@@ -57302,7 +56352,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -57355,7 +56404,6 @@
         "dqrng",
         "sass",
         "jquerylib",
-        "memoise",
         "tidyselect"
     ],
     "org.Hs.eg.db": [
@@ -57366,7 +56414,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -57380,7 +56427,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -57483,7 +56529,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -57521,7 +56566,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -57612,7 +56656,6 @@
         "SummarizedExperiment",
         "shiny",
         "DT",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -57657,7 +56700,6 @@
         "SummarizedExperiment",
         "shiny",
         "DT",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -57702,7 +56744,6 @@
         "SummarizedExperiment",
         "shiny",
         "DT",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -57736,7 +56777,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "vctrs",
@@ -57753,7 +56793,6 @@
         "IRanges",
         "KEGGREST",
         "blob",
-        "memoise",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -57788,7 +56827,6 @@
         "IRanges",
         "KEGGREST",
         "blob",
-        "memoise",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -57838,7 +56876,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -57936,8 +56973,7 @@
         "selectr",
         "bslib",
         "jquerylib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "Mus.musculus": [
         "AnnotationDbi",
@@ -57960,7 +56996,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -58019,7 +57054,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -58073,7 +57107,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -58145,8 +57178,7 @@
         "rmarkdown",
         "bslib",
         "jquerylib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "ids": [
         "openssl"
@@ -58159,7 +57191,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -58262,8 +57293,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "gbm": [
         "survival"
@@ -58294,8 +57324,7 @@
         "bslib",
         "jquerylib",
         "knitr",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "raster": [],
     "BSgenome.Ecoli.NCBI.20080805": [
@@ -58331,7 +57360,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "pillar"
     ],
     "colourpicker": [
@@ -58350,7 +57378,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "pillar"
     ],
     "rstantools": [],
@@ -58513,7 +57540,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -58526,8 +57552,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "ggforce": [
         "ggplot2",
@@ -58566,7 +57591,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "mgcv",
         "pbkrtest",
         "quantreg",
@@ -58600,8 +57624,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "org.Bt.eg.db": [
         "AnnotationDbi",
@@ -58611,7 +57634,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -58659,7 +57681,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -58672,8 +57693,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "psych": [],
     "shinyFiles": [
@@ -58686,8 +57706,7 @@
         "pillar",
         "vctrs",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "ggraph": [
         "ggplot2",
@@ -58874,7 +57893,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "memoise",
         "IRanges",
         "KEGGREST",
         "openssl",
@@ -58920,7 +57938,6 @@
         "Biostrings",
         "interp",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "openssl",
@@ -58948,7 +57965,6 @@
         "shiny",
         "DT",
         "blob",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -59007,8 +58023,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "superheat": [
         "dplyr",
@@ -59068,7 +58083,6 @@
         "shiny",
         "DT",
         "blob",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -59118,7 +58132,6 @@
         "openssl",
         "hms",
         "blob",
-        "memoise",
         "pillar",
         "tidyselect"
     ],
@@ -59133,7 +58146,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -59148,7 +58160,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -59227,7 +58238,6 @@
         "DT",
         "reshape2",
         "blob",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -59262,7 +58272,6 @@
     ],
     "devtools": [
         "usethis",
-        "memoise",
         "miniUI",
         "pkgbuild",
         "pkgdown",
@@ -59300,7 +58309,6 @@
         "bslib",
         "downlit",
         "httr",
-        "memoise",
         "ragg",
         "rmarkdown",
         "tibble",
@@ -59324,7 +58332,6 @@
         "pkgload"
     ],
     "downlit": [
-        "memoise",
         "vctrs"
     ],
     "xopen": [],
@@ -59355,7 +58362,6 @@
     "sqldf": [
         "RSQLite",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "drc": [
@@ -59411,8 +58417,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "enrichR": [
         "httr",
@@ -59601,7 +58606,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -59654,7 +58658,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -59707,7 +58710,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -59745,7 +58747,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "blob",
-        "memoise",
         "dbplyr",
         "dplyr",
         "futile.logger",
@@ -59835,7 +58836,6 @@
         "vctrs",
         "httr",
         "blob",
-        "memoise",
         "pillar",
         "tidyselect",
         "progress",
@@ -59851,7 +58851,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -59865,7 +58864,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -59879,7 +58877,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -59901,7 +58898,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -59934,7 +58930,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -59967,7 +58962,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -60000,7 +58994,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -60033,7 +59026,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -60066,15 +59058,13 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "shinyWidgets": [
         "bslib",
         "sass",
         "shiny",
         "jquerylib",
-        "memoise",
         "httpuv",
         "fontawesome",
         "promises"
@@ -60089,8 +59079,7 @@
         "fontawesome",
         "promises",
         "bslib",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "kableExtra": [
         "knitr",
@@ -60105,7 +59094,6 @@
         "selectr",
         "tibble",
         "sass",
-        "memoise",
         "openssl",
         "pillar",
         "vctrs"
@@ -60135,8 +59123,7 @@
         "fontawesome",
         "promises",
         "bslib",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "waiter": [
         "shiny",
@@ -60145,8 +59132,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "DDRTree": [
         "irlba",
@@ -60432,7 +59418,6 @@
         "biomaRt",
         "BiocParallel",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
@@ -60501,7 +59486,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -60581,7 +59565,6 @@
         "shiny",
         "DT",
         "blob",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -60626,8 +59609,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "highcharter": [
         "htmlwidgets",
@@ -60709,8 +59691,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "shinyMatrix": [
         "shiny",
@@ -60719,8 +59700,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "mbest": [
         "lme4",
@@ -61048,7 +60028,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -61092,7 +60071,6 @@
         "shiny",
         "DT",
         "blob",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -61136,7 +60114,6 @@
         "openssl",
         "shiny",
         "DT",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -61198,7 +60175,6 @@
         "openssl",
         "shiny",
         "DT",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -61346,7 +60322,6 @@
         "survival",
         "prodlim",
         "blob",
-        "memoise",
         "vctrs",
         "lava",
         "future.apply",
@@ -61478,7 +60453,6 @@
         "httr",
         "sass",
         "jquerylib",
-        "memoise",
         "promises",
         "openssl",
         "fontawesome"
@@ -61491,8 +60465,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "flextable": [
         "rmarkdown",
@@ -61500,8 +60473,7 @@
         "gdtools",
         "bslib",
         "jquerylib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "gdtools": [],
     "robust": [
@@ -61539,7 +60511,6 @@
         "httpuv",
         "fontawesome",
         "sass",
-        "memoise",
         "mgcv",
         "openssl",
         "hms",
@@ -61553,8 +60524,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "ggalt": [
         "ggplot2",
@@ -61607,7 +60577,6 @@
         "lmtest",
         "sass",
         "jquerylib",
-        "memoise",
         "mgcv",
         "scales",
         "tibble",
@@ -61647,8 +60616,7 @@
         "e1071",
         "bslib",
         "jquerylib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "dtangle": [],
     "sf": [
@@ -61686,7 +60654,6 @@
         "BBmisc",
         "RSQLite",
         "blob",
-        "memoise",
         "vctrs"
     ],
     "HiContactsData": [
@@ -61710,7 +60677,6 @@
         "openssl",
         "shiny",
         "DT",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -61734,7 +60700,6 @@
     "MCL": [],
     "available": [
         "tidytext",
-        "memoise",
         "tibble",
         "pillar",
         "vctrs",
@@ -61778,7 +60743,6 @@
         "httr",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -61827,7 +60791,6 @@
         "gh",
         "sass",
         "jquerylib",
-        "memoise",
         "credentials",
         "openssl",
         "httr"
@@ -61840,8 +60803,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "wordcloud2": [
         "htmlwidgets"
@@ -61857,7 +60819,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "mgcv",
         "scales",
         "tibble",
@@ -61886,7 +60847,6 @@
         "pillar",
         "vctrs",
         "jquerylib",
-        "memoise",
         "forcats",
         "hms",
         "readr",
@@ -61905,7 +60865,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "blob",
-        "memoise",
         "vctrs",
         "DelayedArray"
     ],
@@ -61919,7 +60878,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -61936,8 +60894,7 @@
         "fontawesome",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "configr": [],
     "bsplus": [
@@ -61946,8 +60903,7 @@
         "bslib",
         "jquerylib",
         "knitr",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "shinyvalidate": [
         "shiny",
@@ -61956,8 +60912,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "learnr": [
         "htmlwidgets",
@@ -61969,8 +60924,7 @@
         "jquerylib",
         "httpuv",
         "fontawesome",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "akima": [],
     "scam": [
@@ -62107,7 +61061,6 @@
         "shiny",
         "DT",
         "blob",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -62150,7 +61103,6 @@
         "R.cache",
         "sass",
         "jquerylib",
-        "memoise",
         "tibble",
         "tidyselect",
         "pillar",
@@ -62180,7 +61132,6 @@
         "R.cache",
         "sass",
         "jquerylib",
-        "memoise",
         "tibble",
         "tidyselect",
         "pillar",
@@ -62209,7 +61160,6 @@
         "R.cache",
         "sass",
         "jquerylib",
-        "memoise",
         "tibble",
         "tidyselect",
         "pillar",
@@ -62275,7 +61225,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "pillar",
         "XVector",
         "GenomeInfoDb"
@@ -62297,7 +61246,6 @@
         "biomaRt",
         "BiocParallel",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
@@ -62321,8 +61269,7 @@
         "bookdown",
         "jquerylib",
         "bslib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "sesameData": [
         "ExperimentHub",
@@ -62351,7 +61298,6 @@
         "shiny",
         "DT",
         "blob",
-        "memoise",
         "progress",
         "htmlwidgets",
         "jquerylib",
@@ -62409,7 +61355,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "memoise",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -62454,7 +61399,6 @@
         "shiny",
         "DT",
         "BiocParallel",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "progress",
@@ -62500,8 +61444,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "ggstar": [
         "ggplot2",
@@ -62517,8 +61460,7 @@
         "rmarkdown",
         "bslib",
         "jquerylib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "HardyWeinberg": [
         "mice",
@@ -62546,7 +61488,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -62592,7 +61533,6 @@
         "IRanges",
         "KEGGREST",
         "blob",
-        "memoise",
         "vctrs",
         "httr",
         "Biostrings",
@@ -62646,8 +61586,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "SOMbrero": [
         "igraph",
@@ -62661,7 +61600,6 @@
         "tibble",
         "vctrs",
         "RcppEigen",
-        "memoise",
         "lubridate",
         "httpuv",
         "fontawesome",
@@ -62684,7 +61622,6 @@
     "inaparc": [],
     "metR": [
         "ggplot2",
-        "memoise",
         "scales",
         "lubridate",
         "mgcv",
@@ -62777,7 +61714,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "mgcv"
     ],
     "MKmisc": [
@@ -62812,7 +61748,6 @@
         "devtools",
         "httr",
         "usethis",
-        "memoise",
         "miniUI",
         "pkgbuild",
         "pkgdown",
@@ -62848,7 +61783,6 @@
     "googleAuthR": [
         "gargle",
         "httr",
-        "memoise",
         "openssl"
     ],
     "blme": [
@@ -62889,8 +61823,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "scico": [
         "scales"
@@ -63012,7 +61945,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "openssl",
-        "memoise",
         "KEGGREST",
         "futile.logger",
         "shiny",
@@ -63048,7 +61980,6 @@
         "openssl",
         "shiny",
         "DT",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -63093,7 +62024,6 @@
         "R.cache",
         "sass",
         "jquerylib",
-        "memoise",
         "forcats",
         "hms",
         "readr",
@@ -63200,8 +62130,7 @@
         "RSQLite",
         "KEGGREST",
         "dbplyr",
-        "blob",
-        "memoise"
+        "blob"
     ],
     "mRMRe": [
         "survival",
@@ -63297,12 +62226,9 @@
     ],
     "magicaxis": [],
     "PMCMRplus": [
-        "BWStest",
-        "memoise"
+        "BWStest"
     ],
-    "BWStest": [
-        "memoise"
-    ],
+    "BWStest": [],
     "SmoothWin": [
         "Rfast",
         "RcppZiggurat"
@@ -63311,7 +62237,6 @@
     "osfr": [
         "crul",
         "tibble",
-        "memoise",
         "httr",
         "urltools",
         "openssl",
@@ -63406,7 +62331,6 @@
         "SummarizedExperiment",
         "shiny",
         "DT",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -63450,7 +62374,6 @@
         "biomaRt",
         "BiocParallel",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
@@ -63485,7 +62408,6 @@
         "biomaRt",
         "BiocParallel",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
@@ -63511,8 +62433,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "shinyscreenshot": [
         "shiny",
@@ -63521,8 +62442,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "CpGassoc": [],
     "pwrEWAS.data": [
@@ -63546,7 +62466,6 @@
         "openssl",
         "shiny",
         "DT",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -63594,7 +62513,6 @@
         "SummarizedExperiment",
         "shiny",
         "DT",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -63624,8 +62542,7 @@
         "vctrs",
         "dplyr",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "redux": [],
     "BSgenome.Celegans.UCSC.ce2": [
@@ -63649,8 +62566,7 @@
         "rmarkdown",
         "bslib",
         "jquerylib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "RefManageR": [
         "httr",
@@ -63693,7 +62609,6 @@
         "shiny",
         "DT",
         "blob",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -63789,7 +62704,6 @@
         "shiny",
         "DT",
         "blob",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -63843,7 +62757,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "pillar"
     ],
     "RUVnormalizeData": [],
@@ -63861,8 +62774,7 @@
         "bookdown",
         "jquerylib",
         "bslib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "scanMiRData": [
         "scanMiR",
@@ -63914,7 +62826,6 @@
         "openssl",
         "shiny",
         "DT",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -64013,8 +62924,7 @@
         "openssl",
         "bslib",
         "jquerylib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "gistr": [
         "crul",
@@ -64030,8 +62940,7 @@
         "openssl",
         "bslib",
         "jquerylib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "mlr3": [
         "future",
@@ -64167,7 +63076,6 @@
         "DT",
         "Biostrings",
         "blob",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -64189,7 +63097,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs"
@@ -64242,7 +63149,6 @@
         "dqrng",
         "sass",
         "jquerylib",
-        "memoise",
         "tidyselect"
     ],
     "scRNAseq": [
@@ -64281,7 +63187,6 @@
         "DT",
         "BiocParallel",
         "blob",
-        "memoise",
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
@@ -64323,7 +63228,6 @@
         "shiny",
         "DT",
         "blob",
-        "memoise",
         "htmlwidgets",
         "jquerylib",
         "promises",
@@ -64343,7 +63247,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -64389,7 +63292,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "mgcv",
         "scales",
         "tibble",
@@ -64408,7 +63310,6 @@
         "KEGGREST",
         "sqldf",
         "blob",
-        "memoise",
         "vctrs",
         "httr",
         "Biostrings",
@@ -64580,8 +63481,7 @@
         "promises",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "drawer": [
         "bsplus",
@@ -64594,7 +63494,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "knitr"
     ],
     "GenKern": [],
@@ -64623,7 +63522,6 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
         "pillar"
     ],
     "gghighlight": [
@@ -64760,7 +63658,6 @@
         "httr",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "vctrs",
@@ -64779,8 +63676,7 @@
         "htmlwidgets",
         "bslib",
         "jquerylib",
-        "sass",
-        "memoise"
+        "sass"
     ],
     "shinyTree": [
         "shiny",
@@ -64790,8 +63686,7 @@
         "fontawesome",
         "bslib",
         "sass",
-        "jquerylib",
-        "memoise"
+        "jquerylib"
     ],
     "msigdb": [
         "ExperimentHub",
@@ -64819,7 +63714,6 @@
         "DT",
         "Biostrings",
         "blob",
-        "memoise",
         "XVector",
         "GenomeInfoDb",
         "htmlwidgets",
