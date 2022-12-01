@@ -1378,7 +1378,6 @@
         "nloptr",
         "testthat"
     ],
-    "decoupleR": [],
     "DeepBlueR": [],
     "DeepPINCS": [
         "keras",
@@ -1611,7 +1610,6 @@
         "geneplotter",
         "ExperimentHub",
         "AnnotationHub",
-        "decoupleR",
         "car",
         "BiocVersion",
         "pbkrtest",
@@ -4331,9 +4329,7 @@
         "ggtree",
         "treeio"
     ],
-    "progeny": [
-        "decoupleR"
-    ],
+    "progeny": [],
     "projectR": [],
     "pRoloc": [
         "MLInterfaces"
