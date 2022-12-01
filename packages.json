@@ -2788,7 +2788,6 @@
         "nloptr",
         "testthat"
     ],
-    "macat": [],
     "MACSr": [
         "ExperimentHub",
         "AnnotationHub",
