@@ -5813,7 +5813,6 @@
         "foreach",
         "survival",
         "RcppEigen",
-        "readbitmap",
         "purrr",
         "igraph",
         "Hmisc",
@@ -13409,7 +13408,6 @@
         "foreach",
         "ggplot2",
         "raster",
-        "readbitmap",
         "reshape2",
         "zoo",
         "sandwich",
@@ -55030,7 +55028,6 @@
         "imager",
         "reticulate",
         "rGenomeTracksData",
-        "readbitmap",
         "purrr",
         "igraph",
         "Matrix",
@@ -65389,7 +65386,6 @@
         "Matrix",
         "rhdf5",
         "ggplot2",
-        "readbitmap",
         "tibble",
         "viridis",
         "Seurat",
@@ -76658,13 +76654,11 @@
         "zoo"
     ],
     "imager": [
-        "readbitmap",
         "purrr",
         "igraph",
         "Matrix"
     ],
     "xlsx": [],
-    "readbitmap": [],
     "multcomp": [
         "survival",
         "TH.data",
