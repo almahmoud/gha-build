@@ -16309,7 +16309,6 @@
         "raster",
         "readbitmap",
         "reshape2",
-        "SamSPECTRAL",
         "waveslim",
         "wavethresh",
         "zoo",
@@ -19996,7 +19995,6 @@
         "R.utils",
         "flowCore",
         "flowDensity",
-        "SamSPECTRAL",
         "Biobase",
         "cytolib",
         "S4Vectors",
@@ -71350,7 +71348,6 @@
         "RCurl",
         "GenomeInfoDbData"
     ],
-    "SamSPECTRAL": [],
     "sangeranalyseR": [
         "stringr",
         "ape",
