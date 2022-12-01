@@ -119837,7 +119837,6 @@
     ],
     "SparseSignatures": [
         "NMF",
-        "nnlasso",
         "nnls",
         "Biostrings",
         "GenomicRanges",
@@ -159496,7 +159495,6 @@
     ],
     "SNAGEEdata": [],
     "sampSurf": [],
-    "nnlasso": [],
     "logNormReg": [],
     "spdep": [
         "sp",
