@@ -774,7 +774,6 @@
         "viridis"
     ],
     "basecallQC": [
-        "prettydoc",
         "tidyr",
         "ShortRead",
         "GenomicAlignments"
@@ -2086,7 +2085,6 @@
         "minfi",
         "DMRcate",
         "IlluminaHumanMethylationEPICmanifest",
-        "prettydoc",
         "Hmisc",
         "globaltest",
         "sva",
@@ -7780,7 +7778,6 @@
     "MACSQuantifyR": [
         "readxl",
         "ggrepel",
-        "prettydoc",
         "rvest"
     ],
     "MACSr": [
@@ -15869,8 +15866,7 @@
         "TrajectoryUtils"
     ],
     "tscR": [
-        "kmlShape",
-        "prettydoc"
+        "kmlShape"
     ],
     "ttgsea": [
         "keras",
@@ -16849,7 +16845,6 @@
     ],
     "ggvis": [],
     "rstan": [],
-    "prettydoc": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "rtracklayer",
