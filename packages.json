@@ -229,12 +229,10 @@
         "geneplotter",
         "annotate"
     ],
-    "AnVIL": [],
     "AnVILBilling": [
         "plotly"
     ],
     "AnVILPublish": [
-        "AnVIL",
         "readr"
     ],
     "APAlyzer": [
@@ -1172,7 +1170,6 @@
         "BiocFileCache",
         "cBioPortalData",
         "genefilter",
-        "AnVIL",
         "MultiAssayExperiment",
         "readr",
         "RTCGAToolbox",
@@ -1190,7 +1187,6 @@
         "tidytree"
     ],
     "cBioPortalData": [
-        "AnVIL",
         "MultiAssayExperiment",
         "BiocFileCache",
         "readr",
@@ -4994,7 +4990,6 @@
     "LowMACA": [
         "cBioPortalData",
         "motifStack",
-        "AnVIL",
         "MultiAssayExperiment",
         "BiocFileCache",
         "readr",
@@ -9943,7 +9938,6 @@
         "BiocVersion"
     ],
     "terraTCGAdata": [
-        "AnVIL",
         "MultiAssayExperiment",
         "BiocFileCache",
         "readr",
