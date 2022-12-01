@@ -1193,7 +1193,6 @@
     ],
     "cTRAP": [
         "AnnotationHub",
-        "highcharter",
         "BiocVersion"
     ],
     "CTSV": [
@@ -1284,8 +1283,7 @@
         "testthat"
     ],
     "DAPAR": [
-        "DAPARdata",
-        "highcharter"
+        "DAPARdata"
     ],
     "dasper": [
         "GenomicFeatures",
@@ -4269,8 +4267,7 @@
     ],
     "Prostar": [
         "DAPAR",
-        "DAPARdata",
-        "highcharter"
+        "DAPARdata"
     ],
     "proteasy": [
         "ensembldb",
@@ -4300,7 +4297,6 @@
     ],
     "psichomics": [
         "AnnotationHub",
-        "highcharter",
         "recount",
         "BiocVersion",
         "derfinder",
@@ -6243,7 +6239,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "highcharter": [],
     "RFOC": [],
     "mbest": [
         "lme4",
