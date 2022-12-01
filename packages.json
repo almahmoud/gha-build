@@ -1260,9 +1260,7 @@
     ],
     "nearBynding": [],
     "netboxr": [],
-    "netOmics": [
-        "RandomWalkRestartMH"
-    ],
+    "netOmics": [],
     "netSmooth": [
         "scater"
     ],
@@ -1485,7 +1483,6 @@
         "biovizBase"
     ],
     "R453Plus1Toolbox": [],
-    "RandomWalkRestartMH": [],
     "RareVariantVis": [
         "phastCons100way.UCSC.hg19",
         "GenomicScores",
