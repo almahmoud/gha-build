@@ -2861,7 +2861,6 @@
         "RSQLite",
         "Rsamtools",
         "GenomicAlignments",
-        "sjlabelled",
         "KEGGREST",
         "dbplyr",
         "SummarizedExperiment",
@@ -47941,13 +47940,11 @@
     "Rcgmin": [],
     "sjmisc": [
         "dplyr",
-        "sjlabelled",
         "tidyselect",
         "tibble",
         "vctrs",
         "pillar"
     ],
-    "sjlabelled": [],
     "LIM": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
