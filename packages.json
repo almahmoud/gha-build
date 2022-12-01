@@ -28453,7 +28453,6 @@
         "iPAC",
         "igraph",
         "TSP",
-        "RMallow",
         "Matrix",
         "gdata",
         "Biostrings",
@@ -52788,7 +52787,6 @@
         "SpacePAC",
         "igraph",
         "TSP",
-        "RMallow",
         "gdata",
         "Biostrings",
         "multtest",
@@ -80771,7 +80769,6 @@
     ],
     "s2": [],
     "units": [],
-    "RMallow": [],
     "penalized": [
         "survival",
         "RcppArmadillo",
