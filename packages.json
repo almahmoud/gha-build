@@ -250,7 +250,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "GEOexplorer": [],
     "GSEABenchmarkeR": [
         "AnnotationHub",
         "ExperimentHub",
