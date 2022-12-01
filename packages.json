@@ -20205,7 +20205,6 @@
         "GenomicRanges",
         "IRanges",
         "ggpubr",
-        "heatmap3",
         "ggplot2",
         "clusterProfiler",
         "rmarkdown",
@@ -55770,7 +55769,6 @@
         "RnaSeqSampleSizeData",
         "biomaRt",
         "edgeR",
-        "heatmap3",
         "KEGGREST",
         "recount",
         "ggpubr",
@@ -78195,7 +78193,6 @@
         "XVector",
         "RCurl"
     ],
-    "heatmap3": [],
     "EntropyExplorer": [],
     "EpiMix.data": [
         "ExperimentHub",
