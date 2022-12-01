@@ -2056,7 +2056,6 @@
         "reshape2",
         "matrixStats",
         "sparseMatrixStats",
-        "rootSolve",
         "RCurl",
         "GenomeInfoDbData",
         "isoband",
@@ -7076,7 +7075,6 @@
         "memoise",
         "sparseMatrixStats",
         "sitmo",
-        "rootSolve",
         "e1071",
         "lmom",
         "rprojroot",
@@ -14219,7 +14217,6 @@
         "multcompView",
         "ggplot2",
         "ggrepel",
-        "rootSolve",
         "coda",
         "minqa",
         "survival",
@@ -45162,7 +45159,6 @@
         "lobstr",
         "magrittr",
         "stringi",
-        "rootSolve",
         "Matrix",
         "e1071",
         "lmom",
@@ -49664,7 +49660,6 @@
         "GenomeInfoDb",
         "openssl",
         "reticulate",
-        "rootSolve",
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
@@ -50538,7 +50533,6 @@
         "Biobase",
         "BiocParallel",
         "pROC",
-        "rootSolve",
         "gdata",
         "GenomicFeatures",
         "GenomicRanges",
@@ -62706,7 +62700,6 @@
         "memoise",
         "tzdb",
         "sparseMatrixStats",
-        "rootSolve",
         "gridGraphics",
         "lmom",
         "knitr",
@@ -96694,7 +96687,6 @@
         "futile.logger",
         "snow",
         "cpp11",
-        "rootSolve",
         "Matrix",
         "e1071",
         "lmom",
@@ -119506,7 +119498,6 @@
         "readxl",
         "httr",
         "BH",
-        "rootSolve",
         "Matrix",
         "e1071",
         "lmom",
@@ -119585,9 +119576,7 @@
         "Rcpp",
         "Matrix"
     ],
-    "Exact": [
-        "rootSolve"
-    ],
+    "Exact": [],
     "gld": [
         "e1071",
         "lmom",
@@ -119598,7 +119587,6 @@
         "nlme",
         "Rcpp"
     ],
-    "rootSolve": [],
     "lmom": [],
     "tidytree": [
         "ape",
@@ -124915,7 +124903,6 @@
     ],
     "sgeostat": [],
     "FME": [
-        "rootSolve",
         "coda",
         "minqa",
         "Rcpp"
