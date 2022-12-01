@@ -21266,7 +21266,6 @@
     ],
     "CNORode": [
         "CellNOptR",
-        "genalg",
         "knitr",
         "RBGL",
         "graph",
@@ -28772,7 +28771,6 @@
         "igraph",
         "timechange",
         "generics",
-        "genalg",
         "mvtnorm",
         "progress",
         "MSQC",
@@ -44751,7 +44749,6 @@
         "igraph",
         "timechange",
         "generics",
-        "genalg",
         "mvtnorm",
         "progress",
         "MSQC",
@@ -65699,7 +65696,6 @@
         "CNORode",
         "deSolve",
         "CellNOptR",
-        "genalg",
         "knitr",
         "truncnorm",
         "snow",
@@ -143185,7 +143181,6 @@
     "princurve": [
         "Rcpp"
     ],
-    "genalg": [],
     "bezier": [],
     "brglm": [],
     "splitstackshape": [],
@@ -144574,7 +144569,6 @@
     ],
     "plsVarSel": [
         "pls",
-        "genalg",
         "mvtnorm",
         "MASS",
         "progress",
