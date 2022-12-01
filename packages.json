@@ -3746,7 +3746,6 @@
         "SummarizedExperiment",
         "tidyr",
         "assertive.types",
-        "assertive.numbers",
         "assertive.strings",
         "assertive.datetimes",
         "assertive.files",
@@ -9952,7 +9951,6 @@
         "vctrs",
         "RcppArmadillo",
         "assertive.files",
-        "assertive.numbers",
         "assertive.types",
         "magick",
         "munsell",
@@ -49339,7 +49337,6 @@
         "tidyr",
         "tidyselect",
         "assertive.types",
-        "assertive.numbers",
         "assertive.strings",
         "assertive.datetimes",
         "assertive.files",
@@ -72706,7 +72703,6 @@
         "reldist",
         "Hmisc",
         "assertive.files",
-        "assertive.numbers",
         "assertive.types",
         "magick",
         "multcomp",
@@ -87222,7 +87218,6 @@
     ],
     "assertive": [
         "assertive.types",
-        "assertive.numbers",
         "assertive.strings",
         "assertive.datetimes",
         "assertive.files",
@@ -87239,16 +87234,13 @@
         "stringr"
     ],
     "assertive.types": [],
-    "assertive.numbers": [],
     "assertive.strings": [
         "assertive.types"
     ],
     "assertive.datetimes": [
         "assertive.types"
     ],
-    "assertive.files": [
-        "assertive.numbers"
-    ],
+    "assertive.files": [],
     "assertive.sets": [],
     "assertive.matrices": [],
     "assertive.models": [],
@@ -89215,7 +89207,6 @@
     "dbscan": [],
     "multipanelfigure": [
         "assertive.files",
-        "assertive.numbers",
         "assertive.types",
         "ggplot2",
         "magick",
