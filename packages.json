@@ -5680,7 +5680,6 @@
         "memoise"
     ],
     "BRAIN": [
-        "PolynomF",
         "Biostrings",
         "IRanges",
         "XVector",
@@ -63203,7 +63202,6 @@
         "survival"
     ],
     "earth": [],
-    "PolynomF": [],
     "GenomicState": [
         "AnnotationHub",
         "GenomicFeatures",
