@@ -5045,8 +5045,7 @@
         "org.Hs.eg.db"
     ],
     "GSEAmining": [
-        "dendextend",
-        "ggwordcloud"
+        "dendextend"
     ],
     "gsean": [
         "fgsea",
@@ -7056,7 +7055,6 @@
         "clusterProfiler",
         "ReactomePA",
         "DOSE",
-        "ggwordcloud",
         "metR",
         "ggvis",
         "Hmisc",
@@ -12527,7 +12525,6 @@
         "tidyr"
     ],
     "vissE": [
-        "ggwordcloud",
         "GSEABase",
         "msigdb",
         "textstem",
@@ -13610,7 +13607,6 @@
         "tidyr"
     ],
     "epiR": [],
-    "ggwordcloud": [],
     "HiContactsData": [
         "ExperimentHub",
         "BiocFileCache",
@@ -13784,7 +13780,6 @@
         "ggvis"
     ],
     "SOMbrero": [
-        "ggwordcloud",
         "metR"
     ],
     "metR": [],
