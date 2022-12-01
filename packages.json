@@ -2149,8 +2149,7 @@
         "SuperLearner",
         "np",
         "ggdendro",
-        "quantreg",
-        "cvAUC"
+        "quantreg"
     ],
     "biovizBase": [
         "Hmisc",
@@ -27712,16 +27711,12 @@
     "drtmle": [
         "SuperLearner",
         "np",
-        "quantreg",
-        "cvAUC"
+        "quantreg"
     ],
-    "SuperLearner": [
-        "cvAUC"
-    ],
+    "SuperLearner": [],
     "np": [
         "quantreg"
     ],
-    "cvAUC": [],
     "biscuiteerData": [
         "ExperimentHub",
         "AnnotationHub",
