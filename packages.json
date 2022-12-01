@@ -40919,7 +40919,6 @@
         "munsell",
         "pillar"
     ],
-    "matchBox": [],
     "MatrixGenerics": [],
     "MatrixQCvis": [
         "SummarizedExperiment",
