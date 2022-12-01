@@ -488,7 +488,6 @@
         "BiocVersion",
         "ExperimentHub"
     ],
-    "RNAAgeCalc": [],
     "RNASeqR": [],
     "RnaSeqSampleSize": [],
     "RTCGA": [],
