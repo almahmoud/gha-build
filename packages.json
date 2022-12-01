@@ -3179,7 +3179,6 @@
     ],
     "HiTC": [],
     "hpar": [],
-    "HPAStainR": [],
     "HPiP": [
         "readr",
         "caret"
