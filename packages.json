@@ -2378,7 +2378,6 @@
         "GenomicAlignments",
         "ggbeeswarm",
         "ggrastr",
-        "fresh",
         "waiter"
     ],
     "chromstaR": [
@@ -5844,7 +5843,6 @@
         "tidyr",
         "tippy",
         "viridis",
-        "fresh",
         "waiter",
         "miniUI",
         "shinyjs",
@@ -11749,7 +11747,6 @@
         "caret",
         "dendextend",
         "biomaRt",
-        "fresh",
         "waiter",
         "AnnotationDbi",
         "BiocFileCache",
@@ -15326,7 +15323,6 @@
         "shinytoastr",
         "vroom",
         "tidyr",
-        "fresh",
         "waiter"
     ],
     "systemPipeTools": [
@@ -17442,7 +17438,6 @@
     "shinyWidgets": [],
     "shinydashboardPlus": [
         "shinydashboard",
-        "fresh",
         "waiter"
     ],
     "kableExtra": [
@@ -17452,7 +17447,6 @@
         "ggfittext"
     ],
     "ggfittext": [],
-    "fresh": [],
     "waiter": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
@@ -17791,7 +17785,6 @@
         "tidyr"
     ],
     "bs4Dash": [
-        "fresh",
         "waiter"
     ],
     "tippy": [],
