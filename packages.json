@@ -2446,7 +2446,6 @@
     "HTSFilter": [
         "DESeq2"
     ],
-    "HubPub": [],
     "hypeR": [],
     "icetea": [
         "GenomicFeatures",
