@@ -815,7 +815,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "Pigengene": [],
     "PING": [],
     "pipeComp": [
         "scater"
