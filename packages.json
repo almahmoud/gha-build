@@ -110452,7 +110452,6 @@
         "Biobase",
         "nlme",
         "emmeans",
-        "fftw",
         "BiocGenerics",
         "estimability",
         "numDeriv",
@@ -176264,7 +176263,6 @@
         "fs",
         "zlibbioc"
     ],
-    "fftw": [],
     "ExtDist": [
         "numDeriv",
         "optimx"
