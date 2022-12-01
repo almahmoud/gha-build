@@ -2077,7 +2077,6 @@
     "motifStack": [
         "TFBSTools"
     ],
-    "MouseFM": [],
     "MQmetrics": [
         "ggpubr",
         "rstatix",
