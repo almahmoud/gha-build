@@ -25164,7 +25164,6 @@
     ],
     "spiky": [
         "Rsamtools",
-        "bamlss",
         "Biostrings",
         "GenomicAlignments",
         "BSgenome",
@@ -32121,7 +32120,6 @@
         "blob",
         "Biostrings"
     ],
-    "bamlss": [],
     "dml": [
         "lfda"
     ],
