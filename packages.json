@@ -154,8 +154,7 @@
         "BiocVersion"
     ],
     "amplican": [
-        "ShortRead",
-        "ggthemes"
+        "ShortRead"
     ],
     "Anaquin": [
         "qvalue",
@@ -1300,7 +1299,6 @@
     "CEMiTool": [
         "WGCNA",
         "ggpmisc",
-        "ggthemes",
         "sna",
         "clusterProfiler",
         "fgsea",
@@ -2033,7 +2031,6 @@
         "fgsea"
     ],
     "corral": [
-        "ggthemes",
         "MultiAssayExperiment"
     ],
     "coseq": [
@@ -2588,7 +2585,6 @@
         "annotate"
     ],
     "destiny": [
-        "ggthemes",
         "VIM",
         "car",
         "pbkrtest",
@@ -3536,7 +3532,6 @@
         "TrajectoryUtils"
     ],
     "fedup": [
-        "ggthemes",
         "RCy3"
     ],
     "ffpe": [
@@ -4039,7 +4034,6 @@
         "lmerTest",
         "GGally",
         "nloptr",
-        "ggthemes",
         "waldo"
     ],
     "GEOexplorer": [
@@ -4071,7 +4065,6 @@
         "lmerTest",
         "GGally",
         "lme4",
-        "ggthemes",
         "nloptr",
         "testthat",
         "waldo"
@@ -6721,9 +6714,7 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "NanoStringNCTools": [
-        "ggthemes"
-    ],
+    "NanoStringNCTools": [],
     "NanoStringQCPro": [
         "org.Hs.eg.db"
     ],
@@ -8790,7 +8781,6 @@
     ],
     "RTCGA": [
         "survminer",
-        "ggthemes",
         "ggpubr",
         "broom",
         "rstatix",
@@ -9110,7 +9100,6 @@
     "scruff": [
         "GenomicFeatures",
         "ShortRead",
-        "ggthemes",
         "ggbio",
         "rtracklayer",
         "biomaRt",
@@ -9681,7 +9670,6 @@
         "lmerTest",
         "GGally",
         "lme4",
-        "ggthemes",
         "nloptr",
         "testthat",
         "waldo"
@@ -9960,8 +9948,7 @@
     ],
     "struct": [],
     "structToolbox": [
-        "struct",
-        "ggthemes"
+        "struct"
     ],
     "StructuralVariantAnnotation": [
         "rtracklayer",
@@ -11024,7 +11011,6 @@
         "BiocVersion"
     ],
     "readr": [],
-    "ggthemes": [],
     "DescTools": [],
     "lmerTest": [
         "lme4",
