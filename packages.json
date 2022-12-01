@@ -46633,7 +46633,6 @@
         "desc",
         "memoise",
         "tibble",
-        "yesno",
         "httr",
         "base64enc",
         "digest",
@@ -125436,7 +125435,6 @@
         "desc",
         "memoise",
         "tibble",
-        "yesno",
         "rprojroot",
         "rlang",
         "cachem",
@@ -125465,7 +125463,6 @@
         "openssl",
         "askpass"
     ],
-    "yesno": [],
     "aws.signature": [
         "digest",
         "base64enc"
