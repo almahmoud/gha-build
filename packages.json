@@ -17162,7 +17162,6 @@
         "GenomeInfoDb",
         "XVector"
     ],
-    "HilbertVisGUI": [],
     "HiLDA": [
         "ggplot2",
         "R2jags",
