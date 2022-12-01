@@ -315,7 +315,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "CAMERA": [],
     "canceR": [
         "phenoTest"
     ],
@@ -986,9 +985,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "bumphunter"
     ],
-    "flagme": [
-        "CAMERA"
-    ],
+    "flagme": [],
     "FLAMES": [
         "scater",
         "ggbio",
@@ -1343,9 +1340,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "IPO": [
-        "CAMERA"
-    ],
+    "IPO": [],
     "IRISFGM": [
         "clusterProfiler",
         "ggpubr",
@@ -1418,9 +1413,7 @@
         "lmerTest",
         "lme4"
     ],
-    "LOBSTAHS": [
-        "CAMERA"
-    ],
+    "LOBSTAHS": [],
     "LowMACA": [
         "cBioPortalData",
         "motifStack",
@@ -1487,7 +1480,6 @@
     ],
     "MAI": [],
     "MAIT": [
-        "CAMERA",
         "agricolae",
         "klaR",
         "questionr"
@@ -1573,9 +1565,7 @@
     "metagene": [
         "EnsDb.Hsapiens.v86"
     ],
-    "metaMS": [
-        "CAMERA"
-    ],
+    "metaMS": [],
     "MetaPhOR": [
         "clusterProfiler",
         "enrichplot"
