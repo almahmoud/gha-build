@@ -962,9 +962,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "preciseTAD": [
-        "rCGH"
-    ],
+    "preciseTAD": [],
     "primirTSS": [
         "phastCons100way.UCSC.hg38",
         "GenomicScores",
@@ -1019,7 +1017,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "rCGH": [],
     "recount": [
         "derfinder"
     ],
