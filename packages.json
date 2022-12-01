@@ -4226,7 +4226,6 @@
         "AnnotationHub",
         "ensembldb",
         "GenomicFeatures",
-        "scanMiRData",
         "BiocVersion"
     ],
     "scAnnotatR": [
@@ -5618,7 +5617,6 @@
         "ExperimentHub",
         "BiocVersion"
     ],
-    "scanMiRData": [],
     "SCATEData": [
         "ExperimentHub",
         "AnnotationHub",
