@@ -20135,7 +20135,6 @@
     "chromstaR": [
         "GenomicRanges",
         "ggplot2",
-        "chromstaRData",
         "foreach",
         "doParallel",
         "BiocGenerics",
@@ -150717,7 +150716,6 @@
         "BH"
     ],
     "shades": [],
-    "chromstaRData": [],
     "DDRTree": [
         "irlba",
         "Rcpp",
