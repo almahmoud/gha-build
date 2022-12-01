@@ -5004,7 +5004,6 @@
         "testthat",
         "waldo"
     ],
-    "msPurity": [],
     "msqrob2": [
         "QFeatures",
         "lme4",
