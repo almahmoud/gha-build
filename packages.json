@@ -46844,7 +46844,6 @@
         "klaR",
         "NMF",
         "purrr",
-        "RankAggreg",
         "tidyr",
         "yardstick",
         "lifecycle",
@@ -84047,7 +84046,6 @@
         "klaR",
         "NMF",
         "purrr",
-        "RankAggreg",
         "tidyr",
         "yardstick",
         "lifecycle",
@@ -84096,7 +84094,6 @@
         "progress"
     ],
     "clValid": [],
-    "RankAggreg": [],
     "yardstick": [
         "dplyr",
         "hardhat",
