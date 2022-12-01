@@ -542,7 +542,6 @@
         "GenomicFiles"
     ],
     "esATAC": [],
-    "EventPointer": [],
     "EWCE": [
         "ewceData",
         "orthogene",
