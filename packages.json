@@ -7138,7 +7138,6 @@
         "testthat",
         "waldo"
     ],
-    "phenopath": [],
     "phenoTest": [
         "annotate",
         "Hmisc",
