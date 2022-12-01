@@ -9470,7 +9470,6 @@
         "MultiAssayExperiment",
         "struct",
         "tidyr",
-        "rols",
         "dplyr"
     ],
     "metabomxtr": [
@@ -14911,7 +14910,6 @@
         "qvalue",
         "ggplot2"
     ],
-    "rols": [],
     "ROntoTools": [],
     "ropls": [
         "ggplot2",
@@ -17183,14 +17181,11 @@
     "STRINGdb": [
         "sqldf"
     ],
-    "struct": [
-        "rols"
-    ],
+    "struct": [],
     "structToolbox": [
         "struct",
         "ggplot2",
-        "ggthemes",
-        "rols"
+        "ggthemes"
     ],
     "StructuralVariantAnnotation": [
         "rtracklayer",
