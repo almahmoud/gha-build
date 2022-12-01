@@ -799,7 +799,6 @@
     "sojourner": [
         "sampSurf"
     ],
-    "SomaticSignatures": [],
     "Spaniel": [
         "scater"
     ],
@@ -906,9 +905,7 @@
         "BiocVersion"
     ],
     "wateRmelon": [],
-    "YAPSA": [
-        "SomaticSignatures"
-    ],
+    "YAPSA": [],
     "yarn": [],
     "zenith": [],
     "ggpubr": [],
