@@ -30585,7 +30585,6 @@
         "tibble",
         "dplyr",
         "BiocParallel",
-        "sparsepca",
         "origami",
         "RSpectra",
         "DelayedArray",
@@ -41913,7 +41912,6 @@
     ],
     "extRemes": [],
     "torch": [],
-    "sparsepca": [],
     "origami": [
         "future.apply"
     ],
