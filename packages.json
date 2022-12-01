@@ -3479,7 +3479,6 @@
         "DOSE",
         "testthat"
     ],
-    "PAST": [],
     "PathoStat": [
         "DESeq2",
         "devtools",
