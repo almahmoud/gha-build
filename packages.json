@@ -20690,7 +20690,6 @@
         "cowplot",
         "RSpectra",
         "umap",
-        "parallelDist",
         "dendextend",
         "DescTools",
         "scales",
@@ -20946,7 +20945,6 @@
     "infercnv": [
         "ape",
         "phyclust",
-        "parallelDist",
         "dplyr",
         "ggplot2",
         "edgeR",
@@ -26477,7 +26475,6 @@
         "RSpectra",
         "apcluster",
         "ggplot2",
-        "parallelDist",
         "Hmisc",
         "mgcv",
         "scales",
@@ -31461,7 +31458,6 @@
         "ggplot2",
         "pheatmap",
         "devtools",
-        "parallelDist",
         "usethis",
         "miniUI",
         "pkgbuild",
@@ -53852,7 +53848,6 @@
         "tidyselect",
         "DelayedArray"
     ],
-    "parallelDist": [],
     "concaveman": [
         "sf",
         "dplyr",
