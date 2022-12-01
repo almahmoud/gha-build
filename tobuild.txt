@@ -1,5 +1,0 @@
-APL
-fda
-GreyListChIP
-caretEnsemble
-MSstatsQC
