@@ -11839,7 +11839,6 @@
         "usethis",
         "biocthis",
         "dplyr",
-        "aws.s3",
         "tidytext",
         "tibble",
         "styler",
@@ -21860,7 +21859,6 @@
         "ggplotify",
         "ggprism",
         "RLHub",
-        "aws.s3",
         "BiocFileCache",
         "RSQLite",
         "BiocVersion",
@@ -30939,7 +30937,6 @@
         "dplyr",
         "tidyselect"
     ],
-    "aws.s3": [],
     "biclust": [
         "tidyr",
         "ggplot2",
