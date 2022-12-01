@@ -3354,7 +3354,6 @@
         "testthat"
     ],
     "OMICsPCA": [
-        "OMICsPCAdata",
         "HelloRanges",
         "factoextra",
         "FactoMineR",
@@ -5578,7 +5577,6 @@
         "questionr",
         "labelled"
     ],
-    "OMICsPCAdata": [],
     "AICcmodavg": [
         "unmarked",
         "lme4",
