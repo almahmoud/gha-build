@@ -69,7 +69,6 @@
     ],
     "ANCOMBC": [
         "mia",
-        "TreeSummarizedExperiment",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -226,7 +225,6 @@
     ],
     "beer": [],
     "benchdamic": [
-        "TreeSummarizedExperiment",
         "DESeq2",
         "ANCOMBC",
         "mia",
@@ -478,9 +476,7 @@
         "TCGAutils",
         "GenomicFeatures"
     ],
-    "CBEA": [
-        "TreeSummarizedExperiment"
-    ],
+    "CBEA": [],
     "cBioPortalData": [
         "RTCGAToolbox",
         "TCGAutils",
@@ -1378,9 +1374,7 @@
         "OrganismDbi",
         "BiocVersion"
     ],
-    "ExperimentSubset": [
-        "TreeSummarizedExperiment"
-    ],
+    "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
@@ -2362,14 +2356,10 @@
     ],
     "MGFR": [],
     "mia": [
-        "TreeSummarizedExperiment",
         "scater"
     ],
-    "miaSim": [
-        "TreeSummarizedExperiment"
-    ],
+    "miaSim": [],
     "miaViz": [
-        "TreeSummarizedExperiment",
         "mia",
         "scater",
         "ggtree"
@@ -2386,7 +2376,6 @@
         "DESeq2",
         "ANCOMBC",
         "mia",
-        "TreeSummarizedExperiment",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -4118,7 +4107,6 @@
         "car",
         "pbkrtest"
     ],
-    "TreeSummarizedExperiment": [],
     "trena": [
         "SNPlocs.Hsapiens.dbSNP150.GRCh38"
     ],
