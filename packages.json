@@ -6439,7 +6439,6 @@
     "VegaMC": [
         "biomaRt"
     ],
-    "velociraptor": [],
     "vidger": [
         "DESeq2",
         "geneplotter"
