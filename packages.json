@@ -360,7 +360,6 @@
         "scater"
     ],
     "consensusDE": [
-        "EnsDb.Hsapiens.v86",
         "RUVSeq"
     ],
     "contiBAIT": [
@@ -1075,9 +1074,7 @@
         "car",
         "pbkrtest"
     ],
-    "metagene": [
-        "EnsDb.Hsapiens.v86"
-    ],
+    "metagene": [],
     "metaMS": [],
     "MetaPhOR": [],
     "metaseqR2": [],
@@ -1490,9 +1487,7 @@
         "ChIPseeker",
         "rGREAT"
     ],
-    "proteasy": [
-        "EnsDb.Hsapiens.v86"
-    ],
+    "proteasy": [],
     "ProteoDisco": [],
     "protGear": [
         "ggpubr",
@@ -1625,9 +1620,7 @@
         "karyoploteR",
         "biovizBase"
     ],
-    "RITAN": [
-        "EnsDb.Hsapiens.v86"
-    ],
+    "RITAN": [],
     "RLSeq": [
         "AnnotationHub",
         "RLHub",
@@ -2022,7 +2015,6 @@
     "uncoverappLib": [
         "Gviz",
         "Homo.sapiens",
-        "EnsDb.Hsapiens.v86",
         "biovizBase"
     ],
     "Uniquorn": [],
@@ -2191,7 +2183,6 @@
         "rstatix",
         "pbkrtest"
     ],
-    "EnsDb.Hsapiens.v86": [],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "minfi"
     ],
