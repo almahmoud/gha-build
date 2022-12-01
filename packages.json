@@ -32414,7 +32414,6 @@
         "genefilter",
         "limma",
         "edgeR",
-        "evd",
         "futile.logger",
         "snow",
         "BH",
@@ -45444,7 +45443,6 @@
         "rpart",
         "ada",
         "ipred",
-        "evd",
         "nnet",
         "xtable",
         "stringi",
@@ -70040,7 +70038,6 @@
         "rpart",
         "ada",
         "ipred",
-        "evd",
         "nnet",
         "xtable",
         "stringi",
@@ -94656,7 +94653,6 @@
         "gsl",
         "SparseM",
         "rlang",
-        "evd",
         "permute",
         "lattice",
         "mgcv",
@@ -98177,7 +98173,6 @@
         "Biostrings",
         "seqLogo",
         "gdata",
-        "evd",
         "S4Vectors",
         "IRanges",
         "XVector",
@@ -114277,7 +114272,6 @@
         "RColorBrewer",
         "viridisLite",
         "ellipsis",
-        "evd",
         "gridExtra",
         "colorspace",
         "zlibbioc"
@@ -151477,10 +151471,7 @@
         "lattice"
     ],
     "pvclust": [],
-    "truncdist": [
-        "evd"
-    ],
-    "evd": [],
+    "truncdist": [],
     "imputeLCMD": [
         "tmvtnorm",
         "norm",
@@ -152645,7 +152636,6 @@
         "rpart",
         "ada",
         "ipred",
-        "evd",
         "nnet",
         "xtable",
         "class",
