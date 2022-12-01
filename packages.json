@@ -563,7 +563,6 @@
         "rstatix",
         "pbkrtest"
     ],
-    "cytomapper": [],
     "dagLogo": [
         "motifStack"
     ],
@@ -1143,9 +1142,7 @@
         "IVAS",
         "lme4"
     ],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "INDEED": [],
     "InPAS": [],
     "INSPEcT": [],
@@ -2324,9 +2321,7 @@
     "SigsPack": [
         "VariantAnnotation"
     ],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "singleCellTK": [
         "AnnotationHub",
         "celldex",
