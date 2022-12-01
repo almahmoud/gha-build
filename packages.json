@@ -20873,7 +20873,6 @@
         "SummarizedExperiment"
     ],
     "SIAMCAT": [
-        "mlr3",
         "phyloseq",
         "progress",
         "lmerTest",
@@ -27673,13 +27672,8 @@
         "dplyr",
         "tibble"
     ],
-    "mlr3": [],
-    "mlr3learners": [
-        "mlr3"
-    ],
-    "mlr3tuning": [
-        "mlr3"
-    ],
+    "mlr3learners": [],
+    "mlr3tuning": [],
     "survivalAnalysis": [
         "dplyr",
         "forcats",
