@@ -14446,7 +14446,6 @@
         "lme4",
         "viridis",
         "rematch2",
-        "lwgeom",
         "nloptr",
         "testthat",
         "waldo"
@@ -17428,17 +17427,13 @@
         "tidyr"
     ],
     "gstat": [
-        "stars",
-        "lwgeom"
+        "stars"
     ],
     "SpatialExtremes": [
         "fields",
         "viridis"
     ],
-    "stars": [
-        "lwgeom"
-    ],
-    "lwgeom": [],
+    "stars": [],
     "spsComps": [
         "shinytoastr"
     ],
