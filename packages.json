@@ -13,7 +13,6 @@
         "annotate"
     ],
     "abseqR": [
-        "ggdendro",
         "plotly",
         "tidyr"
     ],
@@ -213,8 +212,7 @@
         "tidytree"
     ],
     "AneuFinder": [
-        "GenomicAlignments",
-        "ggdendro"
+        "GenomicAlignments"
     ],
     "animalcules": [
         "DESeq2",
@@ -382,7 +380,6 @@
         "viridis"
     ],
     "artMS": [
-        "ggdendro",
         "MSstats",
         "org.Hs.eg.db",
         "plotly",
@@ -624,7 +621,6 @@
         "rstan"
     ],
     "barcodetrackR": [
-        "ggdendro",
         "ggridges",
         "tidyr",
         "viridis"
@@ -716,7 +712,6 @@
         "ANCOMBC",
         "dearseq",
         "corncob",
-        "ggdendro",
         "ggridges",
         "tidytext",
         "mia",
@@ -1033,8 +1028,7 @@
     ],
     "biotmle": [
         "ggsci",
-        "superheat",
-        "ggdendro"
+        "superheat"
     ],
     "biovizBase": [
         "Hmisc",
@@ -1124,8 +1118,7 @@
         "vsn",
         "Linnorm",
         "genefilter",
-        "annotate",
-        "ggdendro"
+        "annotate"
     ],
     "BOBaFIT": [
         "ggbio",
@@ -1562,7 +1555,6 @@
         "clusterProfiler",
         "fgsea",
         "intergraph",
-        "ggdendro",
         "DOSE",
         "enrichplot",
         "GO.db",
@@ -2914,8 +2906,7 @@
         "haven",
         "modelr",
         "readr",
-        "readxl",
-        "ggdendro"
+        "readxl"
     ],
     "ddPCRclust": [
         "flowDensity",
@@ -3070,7 +3061,6 @@
     "DEGreport": [
         "broom",
         "DESeq2",
-        "ggdendro",
         "tidyr",
         "geneplotter",
         "annotate"
@@ -3949,8 +3939,7 @@
     ],
     "epiNEM": [
         "mnem",
-        "Linnorm",
-        "ggdendro"
+        "Linnorm"
     ],
     "epistasisGA": [
         "qgraph",
@@ -4089,7 +4078,6 @@
     ],
     "evaluomeR": [
         "MultiAssayExperiment",
-        "ggdendro",
         "kableExtra",
         "tidyr"
     ],
@@ -6070,7 +6058,6 @@
         "GGally",
         "readr",
         "tidyr",
-        "ggdendro",
         "geneplotter",
         "annotate"
     ],
@@ -6236,9 +6223,7 @@
         "testthat",
         "waldo"
     ],
-    "Linnorm": [
-        "ggdendro"
-    ],
+    "Linnorm": [],
     "LinTInd": [
         "ggnewscale",
         "ggtree",
@@ -7339,7 +7324,6 @@
         "mice"
     ],
     "MIGSA": [
-        "ggdendro",
         "GO.db",
         "GOstats",
         "GSEABase",
@@ -7681,8 +7665,7 @@
         "waldo"
     ],
     "mnem": [
-        "Linnorm",
-        "ggdendro"
+        "Linnorm"
     ],
     "moanin": [
         "topGO",
@@ -8209,7 +8192,6 @@
         "BSgenome",
         "VariantAnnotation",
         "tidyr",
-        "ggdendro",
         "ggalluvial",
         "rtracklayer",
         "GenomicFeatures",
@@ -8367,8 +8349,7 @@
     "nempi": [
         "mnem",
         "epiNEM",
-        "Linnorm",
-        "ggdendro"
+        "Linnorm"
     ],
     "NetActivity": [
         "DESeq2",
@@ -8461,7 +8442,6 @@
         "GOstats",
         "GO.db",
         "org.Hs.eg.db",
-        "ggdendro",
         "tidyr",
         "Category",
         "annotate",
@@ -8488,7 +8468,6 @@
     "NewWave": [],
     "ngsReports": [
         "patchwork",
-        "ggdendro",
         "plotly",
         "readr",
         "tidyr"
@@ -9218,7 +9197,6 @@
         "dendextend",
         "tidyr",
         "GGally",
-        "ggdendro",
         "ggpubr",
         "viridis",
         "ggsci",
@@ -9832,7 +9810,6 @@
     ],
     "qPLEXanalyzer": [
         "MSnbase",
-        "ggdendro",
         "readr",
         "tidyr",
         "vsn"
@@ -10939,7 +10916,6 @@
     ],
     "sangeranalyseR": [
         "plotly",
-        "ggdendro",
         "tidyr"
     ],
     "satuRn": [],
@@ -11998,7 +11974,6 @@
         "BiocFileCache",
         "WGCNA",
         "genefilter",
-        "ggdendro",
         "ggplotify",
         "plotly",
         "scater",
@@ -12778,7 +12753,6 @@
         "MultiAssayExperiment",
         "biomaRt",
         "clusterProfiler",
-        "ggdendro",
         "gghighlight",
         "RCy3",
         "readxl",
@@ -13550,7 +13524,6 @@
         "annotate"
     ],
     "GO.db": [],
-    "ggdendro": [],
     "plotly": [
         "tidyr"
     ],
@@ -13964,9 +13937,7 @@
     ],
     "intergraph": [],
     "sna": [],
-    "superheat": [
-        "ggdendro"
-    ],
+    "superheat": [],
     "biscuiteerData": [
         "ExperimentHub",
         "AnnotationHub",
