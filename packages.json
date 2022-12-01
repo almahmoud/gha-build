@@ -14201,7 +14201,6 @@
         "doParallel",
         "irlba",
         "IRanges",
-        "polylabelr",
         "RcppArmadillo",
         "openssl",
         "Matrix",
@@ -33605,7 +33604,6 @@
         "circlize",
         "IRanges",
         "GenomicRanges",
-        "polylabelr",
         "S4Vectors",
         "GenomeInfoDb",
         "XVector",
@@ -69186,7 +69184,6 @@
         "S4Vectors",
         "UpSetR",
         "scales",
-        "polylabelr",
         "RcppArmadillo",
         "RCurl",
         "SummarizedExperiment",
@@ -88353,10 +88350,8 @@
     ],
     "skmeans": [],
     "eulerr": [
-        "polylabelr",
         "RcppArmadillo"
     ],
-    "polylabelr": [],
     "alabama": [],
     "cobs": [
         "quantreg",
