@@ -2122,7 +2122,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "Repitools": [],
     "ReportingTools": [
         "GOstats",
         "ggbio",
