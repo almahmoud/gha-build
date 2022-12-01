@@ -44526,7 +44526,6 @@
         "jquerylib",
         "DelayedArray",
         "sass",
-        "clv",
         "rgl",
         "htmlwidgets"
     ],
@@ -53005,22 +53004,18 @@
     "kmlShape": [
         "longitudinalData",
         "kml",
-        "clv",
         "rgl",
         "htmlwidgets"
     ],
     "longitudinalData": [
-        "clv",
         "rgl",
         "htmlwidgets"
     ],
     "kml": [
-        "clv",
         "longitudinalData",
         "rgl",
         "htmlwidgets"
     ],
-    "clv": [],
     "mirbase.db": [
         "AnnotationDbi",
         "RSQLite",
