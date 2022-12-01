@@ -29282,7 +29282,6 @@
         "XVector"
     ],
     "SCFA": [
-        "torch",
         "glmnet"
     ],
     "scFeatureFilter": [
@@ -40608,7 +40607,6 @@
         "bslib"
     ],
     "extRemes": [],
-    "torch": [],
     "origami": [
         "future.apply"
     ],
