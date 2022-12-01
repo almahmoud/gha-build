@@ -108365,7 +108365,6 @@
         "mime",
         "openssl",
         "R6",
-        "objectSignals",
         "BiocGenerics",
         "magrittr",
         "stringi",
@@ -148714,10 +148713,7 @@
         "triebeard",
         "rappdirs"
     ],
-    "objectProperties": [
-        "objectSignals"
-    ],
-    "objectSignals": [],
+    "objectProperties": [],
     "mlr3": [
         "R6",
         "backports",
