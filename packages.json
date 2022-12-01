@@ -64753,7 +64753,6 @@
     "miRBaseConverter": [],
     "miRcomp": [
         "Biobase",
-        "miRcompData",
         "BiocGenerics"
     ],
     "mirIntegrator": [
@@ -134155,7 +134154,6 @@
         "Matrix",
         "DelayedArray"
     ],
-    "miRcompData": [],
     "InvariantCausalPrediction": [
         "glmnet",
         "mboost",
