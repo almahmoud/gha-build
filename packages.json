@@ -28452,7 +28452,6 @@
         "GenomeInfoDb",
         "vctrs"
     ],
-    "maCorrPlot": [],
     "MACSQuantifyR": [
         "readxl",
         "ggplot2",
