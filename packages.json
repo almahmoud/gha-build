@@ -923,7 +923,6 @@
         "nloptr",
         "tibble",
         "tidyr",
-        "osqp",
         "RcppEigen",
         "gld",
         "readxl",
@@ -3317,7 +3316,6 @@
         "genefilter",
         "rhdf5",
         "XVector",
-        "osqp",
         "gld",
         "readxl",
         "ROI.plugin.lpsolve",
@@ -29067,7 +29065,6 @@
         "igraph",
         "shiny",
         "ggplotify",
-        "osqp",
         "RcppEigen",
         "gld",
         "readxl",
@@ -55257,7 +55254,6 @@
         "pillar"
     ],
     "CVXR": [
-        "osqp",
         "RcppEigen"
     ],
     "DescTools": [
@@ -55287,7 +55283,6 @@
         "waldo",
         "rematch2"
     ],
-    "osqp": [],
     "gld": [
         "e1071"
     ],
