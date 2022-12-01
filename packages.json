@@ -585,7 +585,6 @@
         "MAST",
         "Seurat",
         "ANCOMBC",
-        "dearseq",
         "corncob",
         "mia",
         "DescTools",
@@ -2359,7 +2358,6 @@
         "testthat",
         "waldo"
     ],
-    "dearseq": [],
     "debCAM": [
         "DMwR2",
         "readr"
