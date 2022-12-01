@@ -96833,7 +96833,6 @@
         "askpass",
         "lifecycle"
     ],
-    "vbmp": [],
     "VCFArray": [
         "DelayedArray",
         "GenomicRanges",
