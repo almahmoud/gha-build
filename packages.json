@@ -60876,7 +60876,6 @@
         "highr"
     ],
     "specL": [
-        "protViz",
         "RSQLite",
         "seqinr",
         "bit64",
@@ -78982,7 +78981,6 @@
     "spData": [
         "sp"
     ],
-    "protViz": [],
     "PRIMME": [],
     "alphahull": [
         "ggplot2",
