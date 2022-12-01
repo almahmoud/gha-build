@@ -479,7 +479,6 @@
     "edge": [
         "snm"
     ],
-    "eegc": [],
     "ELMER": [
         "Gviz",
         "ggpubr",
