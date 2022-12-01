@@ -335,7 +335,6 @@
         "dplyr",
         "ggplot2",
         "GenomicRanges",
-        "RcppNumerical",
         "tibble",
         "tidyselect",
         "pillar",
@@ -864,8 +863,7 @@
     "apeglm": [
         "emdbook",
         "SummarizedExperiment",
-        "GenomicRanges",
-        "RcppNumerical"
+        "GenomicRanges"
     ],
     "APL": [
         "ggrepel",
@@ -4590,7 +4588,6 @@
         "tibble",
         "KEGGREST",
         "emdbook",
-        "RcppNumerical",
         "progress",
         "BiocFileCache",
         "geneplotter",
@@ -7338,7 +7335,6 @@
         "RSQLite",
         "KEGGREST",
         "emdbook",
-        "RcppNumerical",
         "dplyr",
         "GO.db",
         "GOSemSim",
@@ -7983,7 +7979,6 @@
         "ashr",
         "GreyListChIP",
         "emdbook",
-        "RcppNumerical",
         "geneplotter",
         "tibble",
         "tidyselect",
@@ -30572,7 +30567,6 @@
         "SummarizedExperiment",
         "emdbook",
         "GenomicRanges",
-        "RcppNumerical",
         "AnnotationDbi",
         "progress",
         "BiocFileCache",
@@ -32427,7 +32421,6 @@
         "mixtools",
         "RSQLite",
         "emdbook",
-        "RcppNumerical",
         "progress",
         "BiocFileCache",
         "tibble",
@@ -33114,7 +33107,6 @@
         "glmnet"
     ],
     "emdbook": [],
-    "RcppNumerical": [],
     "ggbeeswarm": [
         "ggplot2",
         "tibble",
