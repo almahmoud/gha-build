@@ -3956,9 +3956,7 @@
         "DESeq2",
         "geneplotter"
     ],
-    "HubPub": [
-        "available"
-    ],
+    "HubPub": [],
     "HumanTranscriptomeCompendium": [],
     "hypeR": [
         "kableExtra"
@@ -10041,7 +10039,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "available": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "GenomicFeatures",
         "rtracklayer",
