@@ -6197,7 +6197,6 @@
     ],
     "tLOH": [
         "VariantAnnotation",
-        "bestNormalize",
         "naniar",
         "visdat",
         "BSgenome",
@@ -7198,7 +7197,6 @@
     ],
     "gstat": [],
     "GenKern": [],
-    "bestNormalize": [],
     "naniar": [
         "visdat"
     ],
