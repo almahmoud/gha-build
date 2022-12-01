@@ -408,9 +408,7 @@
     "CNVrd2": [
         "VariantAnnotation"
     ],
-    "COCOA": [
-        "MIRA"
-    ],
+    "COCOA": [],
     "cogena": [],
     "Cogito": [],
     "comapr": [
@@ -1477,7 +1475,6 @@
     "MinimumDistance": [
         "VanillaICE"
     ],
-    "MIRA": [],
     "miRLAB": [],
     "miRSM": [
         "miRspongeR",
