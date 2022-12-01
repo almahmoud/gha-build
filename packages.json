@@ -1348,7 +1348,6 @@
         "minfi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "LymphoSeq": [],
     "M3Drop": [],
     "m6Aboost": [
         "ExperimentHub",
