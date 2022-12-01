@@ -18742,7 +18742,6 @@
     "sparseDOSSA": [
         "MCMCpack"
     ],
-    "sparsenetgls": [],
     "SparseSignatures": [
         "NMF",
         "BSgenome",
