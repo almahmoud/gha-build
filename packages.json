@@ -9197,7 +9197,6 @@
         "GenomeInfoDb"
     ],
     "ctsGE": [
-        "ccaPP",
         "ggplot2",
         "shiny",
         "mgcv",
@@ -29657,7 +29656,6 @@
         "fgsea",
         "svglite",
         "pheatmap",
-        "ccaPP",
         "AnnotationDbi",
         "DESeq2",
         "RSQLite",
@@ -47985,7 +47983,6 @@
         "TTR",
         "mgcv"
     ],
-    "ccaPP": [],
     "cytometree": [
         "ggplot2",
         "cowplot",
