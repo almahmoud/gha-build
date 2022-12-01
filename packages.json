@@ -6166,7 +6166,6 @@
         "GenomicDataCommons",
         "biomaRt"
     ],
-    "TFARM": [],
     "TFBSTools": [
         "BSgenome",
         "CNEr"
