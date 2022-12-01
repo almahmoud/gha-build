@@ -2630,7 +2630,6 @@
     "MetaboAnnotation": [
         "QFeatures"
     ],
-    "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
         "hpar",
         "EnsDb.Hsapiens.v75",
