@@ -5933,7 +5933,6 @@
         "pillar",
         "spatstat",
         "caret",
-        "transport",
         "GenomicRanges",
         "recipes",
         "scuttle",
@@ -6224,7 +6223,6 @@
         "MultiAssayExperiment",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "transport",
         "tibble",
         "GenomicRanges",
         "tidyr",
@@ -20077,7 +20075,6 @@
     ],
     "nearBynding": [
         "plyranges",
-        "transport",
         "Rsamtools",
         "rtracklayer",
         "dplyr",
@@ -21264,7 +21261,6 @@
     ],
     "optimalFlow": [
         "dplyr",
-        "transport",
         "flowMeans",
         "rgl",
         "tibble",
@@ -35246,7 +35242,6 @@
         "spatstat",
         "caret",
         "dplyr",
-        "transport",
         "ggplot2",
         "recipes",
         "tibble",
@@ -35270,7 +35265,6 @@
         "spatstat.model",
         "spatstat.linnet"
     ],
-    "transport": [],
     "spatstat.model": [
         "spatstat.random",
         "spatstat.explore"
