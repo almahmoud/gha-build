@@ -290,7 +290,6 @@
         "BiocVersion"
     ],
     "GenomicSuperSignature": [],
-    "GenProSeq": [],
     "GEOexplorer": [
         "factoextra"
     ],
