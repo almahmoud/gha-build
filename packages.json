@@ -318,7 +318,6 @@
         "BiocManager",
         "preprocessCore",
         "zlibbioc",
-        "gsl",
         "AnnotationDbi",
         "annotate",
         "zoo",
@@ -2069,7 +2068,6 @@
         "vctrs",
         "pillar",
         "estimability",
-        "gsl",
         "lattice",
         "survival",
         "ggplot2",
@@ -7195,7 +7193,6 @@
         "tidyselect",
         "pillar",
         "estimability",
-        "gsl",
         "survival",
         "lambda.r",
         "digest",
@@ -23166,7 +23163,6 @@
     "covEB": [
         "mvtnorm",
         "igraph",
-        "gsl",
         "Biobase",
         "Matrix",
         "BiocGenerics",
@@ -45049,8 +45045,7 @@
         "zlibbioc"
     ],
     "GLAD": [
-        "aws",
-        "gsl"
+        "aws"
     ],
     "GladiaTOX": [
         "RMySQL",
@@ -54230,7 +54225,6 @@
         "foreach",
         "BiocManager",
         "S4Vectors",
-        "gsl",
         "XVector",
         "GenomeInfoDb",
         "iterators",
@@ -58064,8 +58058,7 @@
     ],
     "MANOR": [
         "GLAD",
-        "aws",
-        "gsl"
+        "aws"
     ],
     "mAPKL": [
         "Biobase",
@@ -64479,7 +64472,6 @@
         "iterators",
         "class",
         "estimability",
-        "gsl",
         "lambda.r",
         "annotate",
         "AnnotationDbi",
@@ -65784,7 +65776,6 @@
         "pillar",
         "Rcpp",
         "boot",
-        "gsl",
         "foreach",
         "survival",
         "RcppEigen",
@@ -66014,7 +66005,6 @@
         "ggplot2",
         "BiocGenerics",
         "boot",
-        "gsl",
         "annotate",
         "graph",
         "AnnotationDbi",
@@ -81276,7 +81266,6 @@
         "jquerylib",
         "promises",
         "boot",
-        "gsl",
         "AnnotationHub",
         "BiocFileCache",
         "rappdirs",
@@ -82857,7 +82846,6 @@
         "VGAM",
         "Rcpp",
         "iterators",
-        "gsl",
         "SparseM",
         "rlang",
         "permute",
@@ -97352,7 +97340,6 @@
         "DESeq2",
         "Matrix",
         "lattice",
-        "gsl",
         "mvtnorm",
         "pcaPP",
         "S4Vectors",
@@ -100031,7 +100018,6 @@
         "cpp11",
         "permute",
         "lattice",
-        "gsl",
         "SparseM",
         "globals",
         "listenv",
@@ -101515,7 +101501,6 @@
         "iterators",
         "snow",
         "aws",
-        "gsl",
         "boot",
         "lattice"
     ],
@@ -105098,7 +105083,6 @@
         "BiocManager",
         "preprocessCore",
         "zlibbioc",
-        "gsl",
         "AnnotationDbi",
         "annotate",
         "zoo",
@@ -121543,15 +121527,12 @@
     "parallelly": [],
     "ff": [],
     "waveslim": [],
-    "aws": [
-        "gsl"
-    ],
+    "aws": [],
     "strucchange": [
         "zoo",
         "sandwich",
         "lattice"
     ],
-    "gsl": [],
     "zoo": [
         "lattice"
     ],
@@ -123043,8 +123024,7 @@
     ],
     "energy": [
         "Rcpp",
-        "boot",
-        "gsl"
+        "boot"
     ],
     "lmerTest": [
         "lme4",
@@ -138124,7 +138104,6 @@
     ],
     "logspline": [],
     "evmix": [
-        "gsl",
         "SparseM"
     ],
     "tidybayes": [
@@ -139465,7 +139444,6 @@
     "copula": [
         "Matrix",
         "lattice",
-        "gsl",
         "mvtnorm",
         "pcaPP"
     ],
