@@ -46,7 +46,6 @@
         "ensembldb",
         "biovizBase"
     ],
-    "alpine": [],
     "AMARETTO": [
         "curatedTCGAData",
         "AnnotationHub",
