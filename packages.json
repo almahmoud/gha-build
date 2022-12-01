@@ -2297,7 +2297,6 @@
         "ensembldb"
     ],
     "ggmsa": [
-        "ggalt",
         "ggtree",
         "treeio"
     ],
@@ -6322,7 +6321,6 @@
     ],
     "logistf": [],
     "shinyHeatmaply": [],
-    "ggalt": [],
     "HiContactsData": [
         "ExperimentHub",
         "AnnotationHub",
