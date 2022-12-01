@@ -283,7 +283,6 @@
         "BiocVersion"
     ],
     "extraChIPs": [],
-    "ffpe": [],
     "FLAMES": [
         "scater"
     ],
