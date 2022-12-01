@@ -653,7 +653,6 @@
         "biomaRt",
         "BSgenome"
     ],
-    "bugsigdbr": [],
     "BUMHMM": [
         "devtools",
         "testthat"
