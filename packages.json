@@ -16227,7 +16227,6 @@
     "Chicago": [
         "matrixStats",
         "Hmisc",
-        "Delaporte",
         "lattice",
         "survival",
         "Formula",
@@ -129830,7 +129829,6 @@
         "parallelly"
     ],
     "intervals": [],
-    "Delaporte": [],
     "RcppRoll": [
         "Rcpp"
     ],
