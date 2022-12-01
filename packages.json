@@ -2752,7 +2752,6 @@
         "DESeq2",
         "geneplotter"
     ],
-    "HGC": [],
     "hiAnnotator": [
         "BSgenome"
     ],
