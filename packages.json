@@ -485,7 +485,6 @@
         "scran",
         "ggrastr"
     ],
-    "bayNorm": [],
     "BBCAnalyzer": [
         "VariantAnnotation",
         "rtracklayer",
