@@ -11117,7 +11117,6 @@
         "RSQLite",
         "SummarizedExperiment"
     ],
-    "iterativeBMA": [],
     "iterativeBMAsurv": [],
     "IVAS": [
         "GenomicFeatures",
