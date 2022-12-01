@@ -740,7 +740,6 @@
         "DECIPHER",
         "RSQLite"
     ],
-    "ASSET": [],
     "ASSIGN": [
         "sva",
         "ggplot2",
@@ -15787,9 +15786,7 @@
         "treeio",
         "GO.db"
     ],
-    "REBET": [
-        "ASSET"
-    ],
+    "REBET": [],
     "rebook": [
         "BiocStyle",
         "bookdown"
