@@ -574,7 +574,6 @@
         "MAST",
         "Seurat",
         "ANCOMBC",
-        "corncob",
         "mia",
         "Hmisc",
         "lme4",
@@ -10780,7 +10779,6 @@
         "plotly",
         "dendextend"
     ],
-    "corncob": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
         "bumphunter",
