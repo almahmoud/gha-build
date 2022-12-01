@@ -6891,7 +6891,6 @@
         "annotate"
     ],
     "MOMA": [
-        "MKmisc",
         "MultiAssayExperiment",
         "qvalue",
         "readr",
@@ -13068,7 +13067,6 @@
         "broom",
         "tidyr"
     ],
-    "MKmisc": [],
     "anyLib": [
         "devtools",
         "testthat",
