@@ -3660,7 +3660,6 @@
         "WGCNA",
         "BicARE",
         "s4vd",
-        "BiBitR",
         "miRspongeR",
         "GSEABase",
         "SPONGE",
@@ -7029,7 +7028,6 @@
         "BSgenome"
     ],
     "s4vd": [],
-    "BiBitR": [],
     "cvms": [
         "lme4",
         "nloptr",
