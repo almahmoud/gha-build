@@ -355,7 +355,6 @@
     "distinct": [
         "scater"
     ],
-    "DMCFB": [],
     "DMRcate": [
         "ExperimentHub",
         "missMethyl",
