@@ -122260,7 +122260,6 @@
         "base64enc"
     ],
     "tximport": [],
-    "TypeInfo": [],
     "UCell": [
         "Matrix",
         "BiocParallel",
