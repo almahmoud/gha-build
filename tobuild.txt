@@ -1,3 +1,0 @@
-RIPAT
-CopyNumberPlots
-multicrispr
