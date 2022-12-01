@@ -8310,7 +8310,6 @@
         "ggplot2",
         "ggplotify",
         "tidyr",
-        "sf",
         "flextable"
     ],
     "graper": [
@@ -9107,7 +9106,6 @@
         "ggraph",
         "tidygraph",
         "ggplot2",
-        "sf",
         "concaveman",
         "ggbeeswarm",
         "shinydashboard",
@@ -9926,7 +9924,6 @@
         "tidyr",
         "SingleCellExperiment",
         "SpatialExperiment",
-        "sf",
         "DropletUtils",
         "BiocFileCache",
         "lmerTest",
@@ -17462,7 +17459,6 @@
         "dplyr",
         "ggforce",
         "concaveman",
-        "sf",
         "cowplot",
         "ggrepel",
         "ggridges",
@@ -17757,7 +17753,6 @@
         "ggforce",
         "concaveman",
         "dbplyr",
-        "sf",
         "aplot",
         "ggnewscale",
         "scatterpie",
@@ -17798,7 +17793,6 @@
         "concaveman",
         "RSQLite",
         "KEGGREST",
-        "sf",
         "viridis",
         "cowplot",
         "ggrepel",
@@ -18825,7 +18819,6 @@
         "scuttle"
     ],
     "SpatialFeatureExperiment": [
-        "sf",
         "SingleCellExperiment",
         "SpatialExperiment",
         "spdep",
@@ -18947,7 +18940,6 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "ggforce",
-        "sf",
         "nloptr",
         "DropletUtils",
         "BiocFileCache",
@@ -19323,7 +19315,6 @@
         "tidyr",
         "SingleCellExperiment",
         "ggplot2",
-        "sf",
         "broom",
         "dbplyr",
         "dtplyr",
@@ -19367,7 +19358,6 @@
         "SingleCellExperiment",
         "DropletUtils",
         "BiocFileCache",
-        "sf",
         "dbplyr",
         "RSQLite",
         "scuttle",
@@ -19590,7 +19580,6 @@
         "metR",
         "car",
         "multcomp",
-        "sf",
         "sftime",
         "stars",
         "broom",
@@ -21037,7 +21026,6 @@
         "ggnewscale",
         "ggplot2",
         "patchwork",
-        "sf",
         "SingleCellExperiment",
         "SpatialExperiment",
         "SpatialFeatureExperiment",
@@ -23054,10 +23042,8 @@
         "ggplot2"
     ],
     "epiR": [
-        "sf",
         "flextable"
     ],
-    "sf": [],
     "ggwordcloud": [
         "ggplot2"
     ],
@@ -23099,7 +23085,6 @@
         "dplyr"
     ],
     "concaveman": [
-        "sf",
         "dplyr"
     ],
     "golem": [
@@ -23924,9 +23909,7 @@
         "KEGGREST"
     ],
     "sampSurf": [],
-    "spdep": [
-        "sf"
-    ],
+    "spdep": [],
     "alphahull": [
         "ggplot2"
     ],
@@ -23987,7 +23970,6 @@
         "tidyr"
     ],
     "gstat": [
-        "sf",
         "sftime",
         "stars",
         "lwgeom"
@@ -23997,16 +23979,11 @@
         "viridis",
         "ggplot2"
     ],
-    "sftime": [
-        "sf"
-    ],
+    "sftime": [],
     "stars": [
-        "sf",
         "lwgeom"
     ],
-    "lwgeom": [
-        "sf"
-    ],
+    "lwgeom": [],
     "spsComps": [
         "shinytoastr",
         "shinyAce"
