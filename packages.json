@@ -7675,7 +7675,6 @@
         "testthat",
         "waldo"
     ],
-    "rfaRm": [],
     "rGADEM": [
         "BSgenome",
         "rtracklayer"
