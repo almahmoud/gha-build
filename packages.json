@@ -3242,7 +3242,6 @@
         "ggraph",
         "ggtree"
     ],
-    "netDx": [],
     "netOmics": [
         "RandomWalkRestartMH",
         "dnet",
