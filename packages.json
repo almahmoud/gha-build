@@ -1038,7 +1038,6 @@
     ],
     "chipenrich": [
         "chipenrich.data",
-        "org.Rn.eg.db",
         "rms",
         "readr"
     ],
@@ -2122,7 +2121,6 @@
         "GSVA",
         "globaltest",
         "metap",
-        "org.Rn.eg.db",
         "GSEABase",
         "hgu133plus2.db",
         "hgu133a.db"
@@ -2814,9 +2812,7 @@
         "DESeq2",
         "geneplotter"
     ],
-    "geneXtendeR": [
-        "org.Rn.eg.db"
-    ],
+    "geneXtendeR": [],
     "genomation": [
         "BSgenome",
         "readr"
@@ -8129,7 +8125,6 @@
     "chipenrich.data": [
         "readr"
     ],
-    "org.Rn.eg.db": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [
         "GenomicFeatures",
         "biomaRt"
