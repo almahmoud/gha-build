@@ -112,7 +112,6 @@
         "fontawesome"
     ],
     "ABSSeq": [],
-    "acde": [],
     "ACE": [
         "QDNAseq",
         "ggplot2",
@@ -9975,7 +9974,6 @@
         "GEOquery",
         "vsn",
         "igraph",
-        "acde",
         "STRINGdb",
         "SummarizedExperiment",
         "rmarkdown",
