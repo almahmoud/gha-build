@@ -4391,7 +4391,6 @@
         "FCPS",
         "ggplotify",
         "ggpubr",
-        "DataVisualizations",
         "ggsci",
         "tidyr",
         "ggsignif",
@@ -5738,7 +5737,6 @@
         "ggraph",
         "scater",
         "scran",
-        "DataVisualizations",
         "DOSE",
         "enrichplot",
         "GO.db",
@@ -13827,10 +13825,7 @@
         "testthat",
         "waldo"
     ],
-    "FCPS": [
-        "DataVisualizations"
-    ],
-    "DataVisualizations": [],
+    "FCPS": [],
     "survminer": [
         "ggpubr",
         "broom",
@@ -13892,9 +13887,7 @@
     ],
     "concaveman": [],
     "golem": [],
-    "AdaptGauss": [
-        "DataVisualizations"
-    ],
+    "AdaptGauss": [],
     "datamods": [
         "readxl",
         "rio",
