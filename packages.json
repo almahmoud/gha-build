@@ -13232,7 +13232,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "gamlss.data",
         "nlme",
         "MASS",
         "survival",
@@ -34535,7 +34534,6 @@
         "snow",
         "BH",
         "cpp11",
-        "gamlss.data",
         "gamlss.dist",
         "nlme",
         "survival",
@@ -63226,7 +63224,6 @@
         "globals",
         "listenv",
         "parallelly",
-        "gamlss.data",
         "gamlss.dist",
         "nlme",
         "GenomeInfoDb",
@@ -118414,7 +118411,6 @@
         "BH",
         "cpp11",
         "iterators",
-        "gamlss.data",
         "gamlss.dist",
         "nlme",
         "survival",
@@ -151731,7 +151727,6 @@
     ],
     "NbClust": [],
     "gamlss": [
-        "gamlss.data",
         "gamlss.dist",
         "nlme",
         "MASS",
@@ -151742,7 +151737,6 @@
     "gamlss.dist": [
         "MASS"
     ],
-    "gamlss.data": [],
     "earth": [
         "Formula",
         "plotmo",
