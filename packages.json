@@ -2142,7 +2142,6 @@
         "orthogene",
         "ExperimentHub",
         "homologene",
-        "gprofiler2",
         "ggpubr",
         "ggtree",
         "AnnotationHub",
@@ -2203,7 +2202,6 @@
         "gap"
     ],
     "famat": [
-        "gprofiler2",
         "reactome.db",
         "clusterProfiler",
         "DOSE",
@@ -2825,8 +2823,7 @@
         "mice"
     ],
     "GWENA": [
-        "WGCNA",
-        "gprofiler2"
+        "WGCNA"
     ],
     "hca": [],
     "HelloRanges": [
@@ -4324,7 +4321,6 @@
     "netDx": [],
     "netOmics": [
         "RandomWalkRestartMH",
-        "gprofiler2",
         "dnet",
         "supraHex"
     ],
@@ -4562,7 +4558,6 @@
     ],
     "orthogene": [
         "homologene",
-        "gprofiler2",
         "ggpubr",
         "ggtree",
         "rstatix",
@@ -5120,7 +5115,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicFeatures",
         "genomation",
-        "gprofiler2",
         "biomaRt"
     ],
     "rCGH": [
@@ -7289,7 +7283,6 @@
         "BiocVersion"
     ],
     "homologene": [],
-    "gprofiler2": [],
     "gap": [],
     "fda": [
         "fds"
