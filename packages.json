@@ -385,7 +385,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "OMICsPCA": [],
     "omicsViewer": [],
     "onlineFDR": [],
     "ontoProc": [
