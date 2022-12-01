@@ -541,7 +541,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "qmtools": [],
     "QuasR": [],
     "RareVariantVis": [
         "phastCons100way.UCSC.hg19",
