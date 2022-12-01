@@ -128,7 +128,6 @@
     "cageminer": [],
     "CancerInSilico": [],
     "CATALYST": [
-        "drc",
         "FlowSOM",
         "scater",
         "ggpubr",
@@ -309,9 +308,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "Doscheda": [
-        "drc"
-    ],
+    "Doscheda": [],
     "easier": [
         "easierData",
         "ggpubr",
@@ -452,9 +449,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "GRmetrics": [
-        "drc"
-    ],
+    "GRmetrics": [],
     "GSEABenchmarkeR": [
         "AnnotationHub",
         "ExperimentHub",
@@ -579,9 +574,7 @@
         "wateRmelon",
         "lumi"
     ],
-    "MEDME": [
-        "drc"
-    ],
+    "MEDME": [],
     "meshes": [
         "AnnotationHub",
         "BiocVersion"
@@ -1037,9 +1030,7 @@
     ],
     "svaNUMT": [],
     "svaRetro": [],
-    "synergyfinder": [
-        "drc"
-    ],
+    "synergyfinder": [],
     "synlet": [],
     "TADCompare": [
         "ggpubr",
@@ -1178,7 +1169,6 @@
         "derfinder",
         "BiocVersion"
     ],
-    "drc": [],
     "FactoMineR": [],
     "GenomicTools": [],
     "spp": [],
