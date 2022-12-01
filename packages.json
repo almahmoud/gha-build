@@ -21188,7 +21188,6 @@
     ],
     "LedPred": [
         "e1071",
-        "akima",
         "ggplot2",
         "ROCR",
         "testthat",
@@ -50966,7 +50965,6 @@
         "httpuv",
         "sass"
     ],
-    "akima": [],
     "scam": [
         "mgcv"
     ],
