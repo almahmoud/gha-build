@@ -10757,7 +10757,6 @@
         "babelgene",
         "httr",
         "purrr",
-        "stringfish",
         "Biostrings",
         "Rhtslib",
         "RCurl",
@@ -15163,7 +15162,6 @@
         "igraph",
         "lubridate",
         "openssl",
-        "stringfish",
         "cellranger",
         "progress",
         "httpuv",
@@ -78350,9 +78348,7 @@
         "Matrix",
         "pillar"
     ],
-    "qs": [
-        "stringfish"
-    ],
+    "qs": [],
     "rlist": [],
     "ggfittext": [
         "ggplot2",
@@ -78364,7 +78360,6 @@
         "Matrix",
         "pillar"
     ],
-    "stringfish": [],
     "fresh": [
         "sass",
         "htmltools",
