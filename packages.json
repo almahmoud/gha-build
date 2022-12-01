@@ -15992,7 +15992,6 @@
         "genefilter",
         "aroma.affymetrix",
         "aroma.core",
-        "R.filesets",
         "AnnotationDbi",
         "annotate",
         "RSQLite",
@@ -22699,7 +22698,6 @@
         "aroma.affymetrix",
         "WGCNA",
         "aroma.core",
-        "R.filesets",
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
@@ -26752,13 +26750,9 @@
         "tibble"
     ],
     "aroma.affymetrix": [
-        "aroma.core",
-        "R.filesets"
+        "aroma.core"
     ],
-    "aroma.core": [
-        "R.filesets"
-    ],
-    "R.filesets": [],
+    "aroma.core": [],
     "osfr": [
         "tibble"
     ],
