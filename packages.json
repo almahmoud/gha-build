@@ -1275,7 +1275,6 @@
         "zinbwave",
         "phylobase",
         "mbkmeans",
-        "RNeXML",
         "genefilter"
     ],
     "clusterProfiler": [
@@ -5245,7 +5244,6 @@
         "phylobase",
         "mbkmeans",
         "ggrastr",
-        "RNeXML",
         "genefilter"
     ],
     "netZooR": [
@@ -8734,10 +8732,7 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "phylobase": [
-        "RNeXML"
-    ],
-    "RNeXML": [],
+    "phylobase": [],
     "rio": [
         "haven",
         "readr"
