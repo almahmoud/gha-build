@@ -22205,7 +22205,6 @@
         "rtracklayer",
         "DelayedMatrixStats",
         "Matrix",
-        "RMTstat",
         "BiocGenerics",
         "S4Vectors",
         "BiocParallel",
@@ -103834,7 +103833,6 @@
         "edgeR",
         "quantreg",
         "nnet",
-        "RMTstat",
         "extRemes",
         "pcaMethods",
         "BiocParallel",
@@ -138062,7 +138060,6 @@
         "survival",
         "lattice"
     ],
-    "RMTstat": [],
     "pdist": [],
     "phylolm": [
         "ape",
