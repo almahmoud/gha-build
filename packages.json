@@ -7039,7 +7039,6 @@
         "factoextra",
         "plotly",
         "shinyFeedback",
-        "shinyalert",
         "readxl",
         "biomaRt",
         "AnnotationDbi",
@@ -9752,7 +9751,6 @@
         "factoextra",
         "shinydashboard",
         "sortable",
-        "shinyalert",
         "shinyBS",
         "TCGAbiolinks",
         "shinyjqui",
@@ -14004,7 +14002,6 @@
         "SingleR",
         "SoupX",
         "sva",
-        "shinyalert",
         "enrichR",
         "celda",
         "shinycssloaders",
@@ -17378,7 +17375,6 @@
     ],
     "concaveman": [],
     "golem": [],
-    "shinyalert": [],
     "AdaptGauss": [
         "DataVisualizations"
     ],
