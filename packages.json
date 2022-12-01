@@ -627,7 +627,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "preciseTAD": [],
     "primirTSS": [
         "phastCons100way.UCSC.hg38",
         "GenomicScores",
