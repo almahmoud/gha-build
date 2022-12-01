@@ -28142,7 +28142,6 @@
     "mslp": [
         "org.Hs.eg.db",
         "pROC",
-        "RankProd",
         "AnnotationDbi",
         "RSQLite",
         "KEGGREST",
@@ -33501,7 +33500,6 @@
         "ggrepel",
         "glmnet",
         "mixOmics",
-        "RankProd",
         "rmarkdown",
         "SummarizedExperiment",
         "tibble",
@@ -35541,7 +35539,6 @@
         "progress"
     ],
     "randPack": [],
-    "RankProd": [],
     "RAREsim": [
         "nloptr",
         "testthat",
@@ -45068,7 +45065,6 @@
         "ggplot2",
         "doBy",
         "dplyr",
-        "RankProd",
         "broom",
         "pbkrtest",
         "tibble",
@@ -46814,7 +46810,6 @@
         "anota",
         "DESeq2",
         "edgeR",
-        "RankProd",
         "topGO",
         "org.Hs.eg.db",
         "GOSemSim",
