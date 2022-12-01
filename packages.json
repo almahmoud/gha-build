@@ -5269,7 +5269,6 @@
         "tibble",
         "viridis",
         "progress",
-        "MSQC",
         "genefilter",
         "RSQLite",
         "KEGGREST",
@@ -8334,7 +8333,6 @@
         "ggrepel",
         "viridis",
         "progress",
-        "MSQC",
         "genefilter",
         "waldo",
         "RSQLite",
@@ -26417,8 +26415,7 @@
         "tibble"
     ],
     "plsVarSel": [
-        "progress",
-        "MSQC"
+        "progress"
     ],
     "arm": [
         "lme4",
@@ -26428,7 +26425,6 @@
         "rematch2",
         "tibble"
     ],
-    "MSQC": [],
     "DAPARdata": [
         "MSnbase",
         "vsn",
