@@ -2678,7 +2678,6 @@
         "XVector",
         "gld",
         "readxl",
-        "ROI.plugin.lpsolve",
         "tidyselect",
         "pillar",
         "survival",
@@ -46090,7 +46089,6 @@
         "dplyr",
         "detectseparation",
         "phyloseq",
-        "ROI.plugin.lpsolve",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -46112,13 +46110,10 @@
         "pillar"
     ],
     "optimr": [],
-    "detectseparation": [
-        "ROI.plugin.lpsolve"
-    ],
+    "detectseparation": [],
     "survey": [
         "survival"
     ],
-    "ROI.plugin.lpsolve": [],
     "sjmisc": [
         "dplyr",
         "tidyselect",
