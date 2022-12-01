@@ -4405,7 +4405,6 @@
         "flowMerge",
         "ggplot2",
         "rms",
-        "feature",
         "tibble",
         "Hmisc",
         "multcomp",
@@ -8061,12 +8060,8 @@
         "ggplot2",
         "tibble"
     ],
-    "flowMeans": [
-        "feature"
-    ],
-    "flowMerge": [
-        "feature"
-    ],
+    "flowMeans": [],
+    "flowMerge": [],
     "flowPloidy": [
         "car",
         "rmarkdown",
@@ -15984,8 +15979,7 @@
     "optimalFlow": [
         "dplyr",
         "flowMeans",
-        "tibble",
-        "feature"
+        "tibble"
     ],
     "OPWeight": [
         "qvalue",
@@ -26379,7 +26373,6 @@
         "tibble",
         "viridis"
     ],
-    "feature": [],
     "airway": [
         "SummarizedExperiment"
     ],
