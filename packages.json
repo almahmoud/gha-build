@@ -538,7 +538,6 @@
         "VariantAnnotation",
         "GenomicFeatures"
     ],
-    "CARNIVAL": [],
     "casper": [
         "GenomicFeatures"
     ],
@@ -961,9 +960,7 @@
         "xcms",
         "faahKO"
     ],
-    "cosmosR": [
-        "CARNIVAL"
-    ],
+    "cosmosR": [],
     "countsimQC": [
         "DESeq2"
     ],
