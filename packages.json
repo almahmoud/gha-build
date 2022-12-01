@@ -5799,7 +5799,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "miQC": [],
     "MIRA": [
         "bsseq",
         "BSgenome",
