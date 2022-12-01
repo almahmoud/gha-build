@@ -548,7 +548,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "CNVPanelizer": [],
     "CNVrd2": [
         "VariantAnnotation"
     ],
