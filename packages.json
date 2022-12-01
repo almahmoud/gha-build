@@ -4453,7 +4453,6 @@
         "readr",
         "tibble",
         "tidyr",
-        "viper",
         "annotate",
         "AnnotationDbi",
         "RSQLite",
@@ -5831,9 +5830,7 @@
         "annotate",
         "dbplyr"
     ],
-    "diggit": [
-        "viper"
-    ],
+    "diggit": [],
     "Dino": [
         "BiocSingular",
         "SummarizedExperiment",
@@ -6223,7 +6220,6 @@
         "multcomp",
         "SummarizedExperiment",
         "geneplotter",
-        "viper",
         "tibble",
         "ExperimentHub",
         "AnnotationHub",
@@ -18937,7 +18933,6 @@
         "dbplyr"
     ],
     "RTN": [
-        "viper",
         "SummarizedExperiment",
         "car",
         "pbkrtest",
@@ -18954,7 +18949,6 @@
     ],
     "RTNduals": [
         "RTN",
-        "viper",
         "SummarizedExperiment",
         "car",
         "pbkrtest",
@@ -18975,7 +18969,6 @@
         "egg",
         "ggplot2",
         "tibble",
-        "viper",
         "SummarizedExperiment",
         "car",
         "pbkrtest",
@@ -23486,7 +23479,6 @@
         "RSQLite",
         "KEGGREST"
     ],
-    "viper": [],
     "ViSEAGO": [
         "AnnotationDbi",
         "AnnotationForge",
@@ -23612,7 +23604,6 @@
     "vulcan": [
         "ChIPpeakAnno",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "viper",
         "DiffBind",
         "csaw",
         "DESeq2",
@@ -25509,7 +25500,6 @@
     ],
     "dorothea": [
         "dplyr",
-        "viper",
         "tibble"
     ],
     "crisprScoreData": [
