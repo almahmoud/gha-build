@@ -866,7 +866,6 @@
         "VariantAnnotation",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "CHETAH": [],
     "ChIC": [
         "spp",
         "ChIC.data",
