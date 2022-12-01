@@ -281,9 +281,7 @@
         "BiocVersion"
     ],
     "bnbc": [],
-    "bnem": [
-        "epiNEM"
-    ],
+    "bnem": [],
     "BOBaFIT": [
         "ggbio",
         "biovizBase",
@@ -705,9 +703,7 @@
         "pbkrtest",
         "lme4"
     ],
-    "dce": [
-        "epiNEM"
-    ],
+    "dce": [],
     "ddPCRclust": [
         "flowDensity",
         "car",
@@ -943,7 +939,6 @@
         "OrganismDbi",
         "VariantAnnotation"
     ],
-    "epiNEM": [],
     "EpiTxDb": [],
     "epivizr": [
         "epivizrData",
@@ -2008,9 +2003,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene"
     ],
-    "nempi": [
-        "epiNEM"
-    ],
+    "nempi": [],
     "NetActivity": [],
     "netboxr": [
         "clusterProfiler",
