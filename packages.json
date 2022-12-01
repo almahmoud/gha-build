@@ -281,7 +281,6 @@
     "hpar": [],
     "InterCellar": [],
     "IntEREst": [],
-    "iPath": [],
     "ipdDb": [
         "AnnotationHub",
         "BiocVersion"
