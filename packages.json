@@ -533,7 +533,6 @@
         "ggpubr"
     ],
     "NADfinder": [
-        "trackViewer",
         "ATACseqQC",
         "GenomicScores",
         "AnnotationHub",
@@ -843,7 +842,6 @@
     "TNBC.CMS": [
         "ggpubr"
     ],
-    "trackViewer": [],
     "TraRe": [
         "vbsr"
     ],
