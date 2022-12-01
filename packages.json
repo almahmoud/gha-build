@@ -472,7 +472,6 @@
     ],
     "biomaRt": [],
     "BioMM": [
-        "rms",
         "topGO"
     ],
     "biomvRCNS": [
@@ -884,8 +883,7 @@
         "BSgenome"
     ],
     "chipenrich": [
-        "chipenrich.data",
-        "rms"
+        "chipenrich.data"
     ],
     "ChIPexoQual": [
         "biovizBase",
@@ -1161,8 +1159,7 @@
         "caret"
     ],
     "CONFESS": [
-        "contrast",
-        "rms"
+        "contrast"
     ],
     "consensusDE": [
         "DESeq2",
@@ -6775,7 +6772,6 @@
     ],
     "DiagrammeR": [],
     "ggraph": [],
-    "rms": [],
     "synaptome.db": [
         "synaptome.data",
         "AnnotationHub",
@@ -6905,9 +6901,7 @@
         "caret"
     ],
     "spatstat": [],
-    "contrast": [
-        "rms"
-    ],
+    "contrast": [],
     "EnsDb.Hsapiens.v86": [
         "ensembldb",
         "GenomicFeatures",
