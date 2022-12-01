@@ -16587,7 +16587,6 @@
         "GenomicAlignments",
         "dbplyr"
     ],
-    "SELEX": [],
     "SemDist": [
         "AnnotationDbi",
         "GO.db",
