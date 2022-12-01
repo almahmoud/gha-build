@@ -5356,8 +5356,7 @@
         "broom"
     ],
     "MBQN": [
-        "BiocFileCache",
-        "PairedData"
+        "BiocFileCache"
     ],
     "MCbiclust": [
         "GO.db",
@@ -11710,7 +11709,6 @@
         "haven",
         "readr"
     ],
-    "PairedData": [],
     "SmartSVA": [
         "sva",
         "isva",
