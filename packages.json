@@ -24007,7 +24007,6 @@
         "tidyselect"
     ],
     "RVS": [
-        "GENLIB",
         "gRain",
         "snpStats",
         "broom",
@@ -33986,7 +33985,6 @@
         "tibble",
         "pillar"
     ],
-    "GENLIB": [],
     "SBGNview.data": [
         "rmarkdown",
         "bookdown"
