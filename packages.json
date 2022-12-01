@@ -65811,7 +65811,6 @@
         "memoise",
         "cachem"
     ],
-    "SQUADD": [],
     "sRACIPE": [
         "SummarizedExperiment",
         "ggplot2",
