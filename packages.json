@@ -669,7 +669,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "RIPAT": [],
     "RLSeq": [
         "AnnotationHub",
         "RLHub",
