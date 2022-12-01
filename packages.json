@@ -17575,7 +17575,6 @@
         "DelayedArray",
         "ellipsis",
         "magic",
-        "linprog",
         "Matrix",
         "hms",
         "stringr",
@@ -18773,7 +18772,6 @@
         "dplyr",
         "readr",
         "magic",
-        "linprog",
         "rngtools",
         "stringr",
         "foreach",
@@ -52469,7 +52467,6 @@
         "geometry",
         "plyr",
         "magic",
-        "linprog",
         "questionr",
         "nlme",
         "rngtools",
@@ -90361,7 +90358,6 @@
         "RcppEigen",
         "RcppArmadillo",
         "magic",
-        "linprog",
         "lifecycle",
         "mgcv",
         "scales",
@@ -90400,10 +90396,8 @@
         "pillar"
     ],
     "geometry": [
-        "magic",
-        "linprog"
+        "magic"
     ],
-    "linprog": [],
     "GEOmap": [
         "splancs",
         "fields",
@@ -94155,8 +94149,7 @@
     ],
     "pdfCluster": [
         "geometry",
-        "magic",
-        "linprog"
+        "magic"
     ],
     "diceR": [
         "class",
