@@ -158,7 +158,6 @@
     "AffyCompatible": [
         "Biostrings"
     ],
-    "affyContam": [],
     "affycoretools": [
         "GOstats",
         "gcrma",
@@ -847,7 +846,6 @@
         "tidyselect"
     ],
     "arrayMvout": [
-        "affyContam",
         "lumi",
         "methylumi",
         "GenomicFeatures",
