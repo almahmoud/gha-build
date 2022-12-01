@@ -850,7 +850,6 @@
         "WGCNA",
         "sva",
         "ggnetwork",
-        "intergraph",
         "sna",
         "genefilter",
         "Hmisc",
@@ -1105,7 +1104,6 @@
         "WGCNA",
         "sva",
         "ggnetwork",
-        "intergraph",
         "Hmisc",
         "biovizBase",
         "BSgenome",
@@ -1309,7 +1307,6 @@
         "sna",
         "clusterProfiler",
         "fgsea",
-        "intergraph",
         "DOSE",
         "enrichplot",
         "GO.db",
@@ -3518,7 +3515,6 @@
         "rainbow"
     ],
     "fcoex": [
-        "intergraph",
         "clusterProfiler",
         "sna",
         "DOSE",
@@ -10135,7 +10131,6 @@
     "syntenet": [
         "rtracklayer",
         "ggnetwork",
-        "intergraph",
         "testthat",
         "sna",
         "waldo"
@@ -11324,7 +11319,6 @@
     "ggnetwork": [
         "sna"
     ],
-    "intergraph": [],
     "sna": [],
     "superheat": [],
     "biscuiteerData": [
