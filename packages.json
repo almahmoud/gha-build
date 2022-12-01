@@ -7483,7 +7483,6 @@
         "recipes",
         "groupdata2",
         "lme4",
-        "rearrr",
         "aplot",
         "ggnewscale",
         "scatterpie",
@@ -7541,7 +7540,6 @@
         "recipes",
         "groupdata2",
         "lme4",
-        "rearrr",
         "aplot",
         "ggnewscale",
         "scatterpie",
@@ -12116,7 +12114,6 @@
         "recipes",
         "groupdata2",
         "lme4",
-        "rearrr",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -14632,7 +14629,6 @@
     "cvms": [
         "groupdata2",
         "lme4",
-        "rearrr",
         "recipes",
         "tidyr",
         "nloptr",
@@ -14642,10 +14638,8 @@
     ],
     "MetBrewer": [],
     "groupdata2": [
-        "rearrr",
         "tidyr"
     ],
-    "rearrr": [],
     "echarts4r": [
         "broom",
         "tidyr"
