@@ -22639,8 +22639,7 @@
         "Biostrings",
         "GenomicRanges",
         "kmer",
-        "XVector",
-        "phylogram"
+        "XVector"
     ],
     "padma": [
         "SummarizedExperiment",
@@ -38881,10 +38880,7 @@
         "blob"
     ],
     "mRMRe": [],
-    "kmer": [
-        "phylogram"
-    ],
-    "phylogram": [],
+    "kmer": [],
     "tfprobability": [
         "tensorflow",
         "keras",
