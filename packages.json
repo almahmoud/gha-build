@@ -380,7 +380,6 @@
         "OrganismDbi",
         "ensembldb"
     ],
-    "BrainSABER": [],
     "branchpointer": [],
     "BRGenomics": [
         "DESeq2"
