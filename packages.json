@@ -9736,7 +9736,6 @@
         "RSQLite",
         "KEGGREST"
     ],
-    "gtrellis": [],
     "GUIDEseq": [
         "CRISPRseek",
         "ChIPpeakAnno",
@@ -24609,7 +24608,6 @@
         "SomaticSignatures",
         "VariantAnnotation",
         "dendextend",
-        "gtrellis",
         "ggbeeswarm",
         "KEGGREST",
         "BSgenome.Hsapiens.UCSC.hg19",
