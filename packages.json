@@ -82975,7 +82975,6 @@
         "GSVA",
         "reshape2",
         "rlang",
-        "ROCit",
         "S4Vectors",
         "singscore",
         "SummarizedExperiment",
@@ -103762,7 +103761,6 @@
         "tinytex",
         "highr"
     ],
-    "ROCit": [],
     "GenKern": [],
     "ttservice": [
         "dplyr",
