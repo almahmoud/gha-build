@@ -297,7 +297,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "kissDE": [],
     "LRcell": [
         "ExperimentHub",
         "AnnotationHub",
