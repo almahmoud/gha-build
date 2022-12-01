@@ -6796,7 +6796,6 @@
         "struct",
         "tidyr"
     ],
-    "metabomxtr": [],
     "MetaboSignal": [
         "hpar",
         "EnsDb.Hsapiens.v75",
