@@ -2185,7 +2185,6 @@
         "lmerTest",
         "nloptr"
     ],
-    "mbOmic": [],
     "mBPCR": [
         "GWASTools"
     ],
