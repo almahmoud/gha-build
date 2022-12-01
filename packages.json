@@ -3484,9 +3484,7 @@
     ],
     "missRows": [],
     "mistyR": [],
-    "mitch": [
-        "echarts4r"
-    ],
+    "mitch": [],
     "mitoClone2": [
         "deepSNV",
         "VariantAnnotation",
@@ -6560,7 +6558,6 @@
         "nloptr",
         "testthat"
     ],
-    "echarts4r": [],
     "anyLib": [
         "devtools",
         "testthat"
