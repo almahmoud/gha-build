@@ -443,7 +443,6 @@
     "peco": [
         "scater"
     ],
-    "PhosR": [],
     "PhyloProfile": [
         "ExperimentHub",
         "AnnotationHub",
