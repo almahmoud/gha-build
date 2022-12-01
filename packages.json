@@ -4140,7 +4140,6 @@
         "testthat"
     ],
     "rrvgo": [],
-    "RSVSim": [],
     "RTCGA": [
         "survminer",
         "ggpubr",
