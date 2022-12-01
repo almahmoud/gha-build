@@ -1386,8 +1386,7 @@
         "BiocVersion"
     ],
     "CTSV": [
-        "SpatialExperiment",
-        "DropletUtils"
+        "SpatialExperiment"
     ],
     "cummeRbund": [
         "Gviz",
@@ -1447,8 +1446,7 @@
         "testthat"
     ],
     "cytomapper": [
-        "SpatialExperiment",
-        "DropletUtils"
+        "SpatialExperiment"
     ],
     "CytoML": [],
     "dada2": [],
@@ -1791,7 +1789,6 @@
         "BSgenome"
     ],
     "drawProteins": [],
-    "DropletUtils": [],
     "drugTargetInteractions": [
         "UniProt.ws",
         "biomaRt",
@@ -2178,7 +2175,6 @@
     "ExperimentSubset": [
         "SpatialExperiment",
         "TreeSummarizedExperiment",
-        "DropletUtils",
         "treeio"
     ],
     "extraChIPs": [
@@ -2267,7 +2263,6 @@
         "scran",
         "bambu",
         "GenomicFeatures",
-        "DropletUtils",
         "BSgenome",
         "biomaRt",
         "biovizBase",
@@ -2627,8 +2622,7 @@
     ],
     "GGPA": [],
     "ggspavis": [
-        "SpatialExperiment",
-        "DropletUtils"
+        "SpatialExperiment"
     ],
     "ggtree": [
         "treeio"
@@ -2981,8 +2975,7 @@
     "imcRtools": [
         "SpatialExperiment",
         "cytomapper",
-        "ggraph",
-        "DropletUtils"
+        "ggraph"
     ],
     "IMMAN": [],
     "ImmuneSpaceR": [
@@ -3244,7 +3237,6 @@
     "lisaClust": [
         "spicyR",
         "SpatialExperiment",
-        "DropletUtils",
         "lmerTest",
         "lme4",
         "nloptr",
@@ -4354,8 +4346,7 @@
     ],
     "ngsReports": [],
     "nnSVG": [
-        "SpatialExperiment",
-        "DropletUtils"
+        "SpatialExperiment"
     ],
     "nondetects": [
         "arm",
@@ -5658,7 +5649,6 @@
         "treeio"
     ],
     "scCB2": [
-        "DropletUtils",
         "Seurat"
     ],
     "scClassify": [
@@ -5954,8 +5944,7 @@
     ],
     "simpleSeg": [
         "cytomapper",
-        "SpatialExperiment",
-        "DropletUtils"
+        "SpatialExperiment"
     ],
     "simplifyEnrichment": [
         "GOSemSim"
@@ -5981,7 +5970,6 @@
         "SoupX",
         "sva",
         "celda",
-        "DropletUtils",
         "fishpond",
         "GSEABase",
         "zinbwave",
@@ -6085,8 +6073,7 @@
     "Spaniel": [
         "Seurat",
         "scater",
-        "scran",
-        "DropletUtils"
+        "scran"
     ],
     "sparrow": [
         "GSEABase"
@@ -6095,13 +6082,11 @@
         "BSgenome"
     ],
     "spaSim": [
-        "SpatialExperiment",
-        "DropletUtils"
+        "SpatialExperiment"
     ],
     "SpatialCPie": [],
     "spatialDE": [
-        "SpatialExperiment",
-        "DropletUtils"
+        "SpatialExperiment"
     ],
     "SpatialDecon": [
         "GeomxTools",
@@ -6110,12 +6095,9 @@
         "nloptr",
         "testthat"
     ],
-    "SpatialExperiment": [
-        "DropletUtils"
-    ],
+    "SpatialExperiment": [],
     "SpatialFeatureExperiment": [
-        "SpatialExperiment",
-        "DropletUtils"
+        "SpatialExperiment"
     ],
     "spatialHeatmap": [
         "WGCNA",
@@ -6140,15 +6122,13 @@
     "SpectralTAD": [],
     "SPIAT": [
         "SpatialExperiment",
-        "xROI",
-        "DropletUtils"
+        "xROI"
     ],
     "spicyR": [
         "lmerTest",
         "lme4",
         "SpatialExperiment",
         "nloptr",
-        "DropletUtils",
         "testthat"
     ],
     "SpidermiR": [
@@ -6203,8 +6183,7 @@
     ],
     "SpotClean": [
         "SpatialExperiment",
-        "Seurat",
-        "DropletUtils"
+        "Seurat"
     ],
     "SPsimSeq": [
         "WGCNA"
@@ -6247,7 +6226,6 @@
         "SpatialExperiment",
         "RUVSeq",
         "EDASeq",
-        "DropletUtils",
         "biomaRt",
         "GenomicFeatures"
     ],
@@ -6269,8 +6247,7 @@
     "STdeconvolve": [],
     "stJoincount": [
         "Seurat",
-        "SpatialExperiment",
-        "DropletUtils"
+        "SpatialExperiment"
     ],
     "strandCheckR": [
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -6791,8 +6768,7 @@
     ],
     "Voyager": [
         "SpatialExperiment",
-        "SpatialFeatureExperiment",
-        "DropletUtils"
+        "SpatialFeatureExperiment"
     ],
     "vsclust": [],
     "vtpnet": [
