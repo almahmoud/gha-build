@@ -113,7 +113,6 @@
     "AffyCompatible": [],
     "affycoretools": [
         "GOstats",
-        "gcrma",
         "AnnotationDbi",
         "ggplot2",
         "oligoClasses",
@@ -150,19 +149,14 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "affyILM": [
-        "gcrma"
-    ],
+    "affyILM": [],
     "affylmGUI": [
         "affyPLM",
-        "gcrma",
         "AnnotationDbi",
         "RSQLite",
         "KEGGREST"
     ],
-    "affyPLM": [
-        "gcrma"
-    ],
+    "affyPLM": [],
     "AGDEX": [
         "GSEABase",
         "annotate",
@@ -176,7 +170,6 @@
     "AgiMicroRna": [
         "affycoretools",
         "GOstats",
-        "gcrma",
         "AnnotationDbi",
         "ggplot2",
         "oligoClasses",
@@ -640,7 +633,6 @@
         "genefilter",
         "Hmisc",
         "vsn",
-        "gcrma",
         "AnnotationDbi",
         "ggplot2",
         "annotate",
@@ -1252,9 +1244,7 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "bgx": [
-        "gcrma"
-    ],
+    "bgx": [],
     "BicARE": [
         "GSEABase",
         "annotate",
@@ -7268,7 +7258,6 @@
     "gCrisprTools": [
         "ggplot2"
     ],
-    "gcrma": [],
     "GCSscore": [
         "RSQLite",
         "devtools",
@@ -10294,7 +10283,6 @@
         "KEGGREST"
     ],
     "maPredictDSC": [
-        "gcrma",
         "caret",
         "hgu133plus2.db",
         "AnnotationDbi",
@@ -10335,9 +10323,7 @@
         "dbplyr",
         "viridis"
     ],
-    "maskBAD": [
-        "gcrma"
-    ],
+    "maskBAD": [],
     "MAST": [
         "SingleCellExperiment",
         "ggplot2"
@@ -11571,7 +11557,6 @@
         "affyPLM",
         "oligo",
         "oligoClasses",
-        "gcrma",
         "RSQLite"
     ],
     "MIMOSA": [
@@ -15887,8 +15872,7 @@
         "dbplyr"
     ],
     "RefPlus": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
     "RegEnrich": [
         "dplyr",
@@ -21152,7 +21136,6 @@
     "webbioc": [
         "annaffy",
         "vsn",
-        "gcrma",
         "qvalue",
         "GO.db",
         "AnnotationDbi",
