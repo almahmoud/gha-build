@@ -960,7 +960,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "GENESIS": [],
     "GeneStructureTools": [
         "Gviz",
         "biovizBase",
