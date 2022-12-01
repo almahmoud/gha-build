@@ -118,7 +118,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "CAFE": [],
     "CAGEfightR": [
         "GenomicInteractions"
     ],
