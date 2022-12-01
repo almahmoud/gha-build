@@ -50312,7 +50312,6 @@
         "askpass",
         "lifecycle"
     ],
-    "miRBaseConverter": [],
     "miRcomp": [
         "Biobase"
     ],
@@ -50665,7 +50664,6 @@
         "biomaRt",
         "ggridges",
         "cvms",
-        "miRBaseConverter",
         "ComplexHeatmap",
         "MetBrewer",
         "tnet",
@@ -50816,7 +50814,6 @@
         "biomaRt",
         "ggridges",
         "cvms",
-        "miRBaseConverter",
         "ComplexHeatmap",
         "MetBrewer",
         "tnet",
@@ -82475,7 +82472,6 @@
         "biomaRt",
         "ggridges",
         "cvms",
-        "miRBaseConverter",
         "ComplexHeatmap",
         "ggplot2",
         "MetBrewer",
