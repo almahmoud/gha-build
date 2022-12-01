@@ -44376,7 +44376,6 @@
         "tidyselect",
         "DelayedArray"
     ],
-    "RGSEA": [],
     "rgsepd": [
         "DESeq2",
         "goseq",
