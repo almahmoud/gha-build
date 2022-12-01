@@ -841,7 +841,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "factR": [],
     "famat": [
         "clusterProfiler"
     ],
