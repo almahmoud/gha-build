@@ -3189,7 +3189,6 @@
         "ExperimentHub"
     ],
     "SplicingGraphs": [],
-    "splineTimeR": [],
     "SPLINTER": [
         "Gviz",
         "ensembldb",
