@@ -4637,7 +4637,6 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "PREDA": [],
     "primirTSS": [
         "BSgenome.Hsapiens.UCSC.hg38",
         "phastCons100way.UCSC.hg38",
