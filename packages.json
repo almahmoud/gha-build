@@ -2595,7 +2595,6 @@
         "tzdb",
         "timeSeries",
         "spatial",
-        "gss",
         "lambda.r",
         "futile.options",
         "rprojroot",
@@ -18487,7 +18486,6 @@
         "timeSeries",
         "MASS",
         "spatial",
-        "gss",
         "stabledist",
         "lattice",
         "BiocParallel",
@@ -22936,7 +22934,6 @@
         "timeDate",
         "timeSeries",
         "spatial",
-        "gss",
         "future",
         "globals",
         "Matrix",
@@ -30734,7 +30731,6 @@
         "timeSeries",
         "MASS",
         "spatial",
-        "gss",
         "stabledist",
         "cli",
         "gtable",
@@ -51005,7 +51001,6 @@
         "Rdpack",
         "MASS",
         "spatial",
-        "gss",
         "stabledist",
         "lambda.r",
         "futile.options",
@@ -70640,7 +70635,6 @@
         "timeDate",
         "timeSeries",
         "spatial",
-        "gss",
         "nlme",
         "Matrix",
         "SparseM",
@@ -82734,7 +82728,6 @@
     ],
     "OmicsLonDA": [
         "SummarizedExperiment",
-        "gss",
         "plyr",
         "zoo",
         "pracma",
@@ -123673,7 +123666,6 @@
         "parallelly"
     ],
     "TMixClust": [
-        "gss",
         "mvtnorm",
         "zoo",
         "BiocParallel",
@@ -133734,7 +133726,6 @@
         "timeDate",
         "timeSeries",
         "spatial",
-        "gss",
         "farver",
         "labeling",
         "munsell",
@@ -133810,7 +133801,6 @@
         "timeSeries",
         "MASS",
         "spatial",
-        "gss",
         "clue",
         "rpart"
     ],
@@ -133833,7 +133823,6 @@
         "timeSeries",
         "MASS",
         "spatial",
-        "gss",
         "stabledist"
     ],
     "stable": [],
@@ -133895,7 +133884,6 @@
         "timeDate"
     ],
     "spatial": [],
-    "gss": [],
     "prodlim": [
         "Rcpp",
         "survival",
@@ -145714,7 +145702,6 @@
         "Rdpack",
         "MASS",
         "spatial",
-        "gss",
         "stabledist",
         "lattice"
     ],
