@@ -2420,7 +2420,6 @@
         "readr",
         "tidyr"
     ],
-    "cmapR": [],
     "cn.farms": [
         "oligoClasses",
         "oligo"
