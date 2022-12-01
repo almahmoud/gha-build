@@ -17,7 +17,13 @@ for pkg in list(pkgs):
     if exists(f"logs/run_ids/container/{pkg}"):
         with open(f"logs/run_ids/container/{pkg}", "r") as frun:
             runid = frun.read()
-            runurl = runid.strip().replace("null\n", "").split("\n")[-1]
+            runurls = runid.strip().replace("null\n", "").split("\n")
+            runurl = ""
+            for u in runurls:
+                if "github.com" in u:
+                    runurl = u
+            if not runurl:
+                runurl = runurls[-1]
             name = f"[{pkg}]({runurl})"
     # if "https://github.com/" in runid:
     #     runurl = runid.strip().replace("null\n", "").split("\n")[-1]
