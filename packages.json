@@ -16394,7 +16394,6 @@
         "tidyselect"
     ],
     "katdetectr": [
-        "changepoint.np",
         "dplyr",
         "GenomicRanges",
         "maftools",
@@ -39510,7 +39509,6 @@
         "blob",
         "DelayedArray"
     ],
-    "changepoint.np": [],
     "hgu95av2.db": [
         "AnnotationDbi",
         "org.Hs.eg.db",
