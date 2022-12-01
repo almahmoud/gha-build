@@ -2091,8 +2091,7 @@
     "CRISPRseek": [
         "BSgenome",
         "keras",
-        "rtracklayer",
-        "tensorflow"
+        "rtracklayer"
     ],
     "crisprseekplus": [
         "CRISPRseek",
@@ -2107,7 +2106,6 @@
         "BiocFileCache",
         "ensembldb",
         "regioneR",
-        "tensorflow",
         "haven",
         "readr"
     ],
@@ -2454,7 +2452,6 @@
     ],
     "DeepPINCS": [
         "keras",
-        "tensorflow",
         "webchem",
         "ttgsea",
         "textstem",
@@ -3985,7 +3982,6 @@
     ],
     "GenProSeq": [
         "keras",
-        "tensorflow",
         "DeepPINCS",
         "ttgsea",
         "webchem",
@@ -4366,8 +4362,7 @@
         "keras",
         "haven",
         "BiocFileCache",
-        "readr",
-        "tensorflow"
+        "readr"
     ],
     "Guitar": [
         "GenomicFeatures",
@@ -6484,8 +6479,7 @@
         "VariantAnnotation",
         "BiocFileCache",
         "Hmisc",
-        "ensembldb",
-        "tensorflow"
+        "ensembldb"
     ],
     "MultiDataSet": [],
     "multiGSEA": [
@@ -6813,8 +6807,7 @@
         "rtracklayer"
     ],
     "NeuCA": [
-        "keras",
-        "tensorflow"
+        "keras"
     ],
     "NewWave": [],
     "ngsReports": [
@@ -7223,7 +7216,6 @@
     ],
     "PanViz": [],
     "pareg": [
-        "tensorflow",
         "tfprobability",
         "tidygraph",
         "ggraph",
@@ -8802,7 +8794,6 @@
     "SC3": [],
     "scAlign": [
         "Seurat",
-        "tensorflow",
         "plotly"
     ],
     "SCAN.UPC": [
@@ -10437,7 +10428,6 @@
         "textstem",
         "DiagrammeR",
         "readr",
-        "tensorflow",
         "lexicon",
         "textclean",
         "syuzhet"
@@ -10526,7 +10516,6 @@
     ],
     "VAExprs": [
         "keras",
-        "tensorflow",
         "scater",
         "DeepPINCS",
         "DiagrammeR",
@@ -11365,10 +11354,7 @@
         "BiocFileCache",
         "BiocVersion"
     ],
-    "keras": [
-        "tensorflow"
-    ],
-    "tensorflow": [],
+    "keras": [],
     "shinypanel": [],
     "highcharter": [
         "broom"
@@ -11756,7 +11742,6 @@
         "BiocFileCache"
     ],
     "tfprobability": [
-        "tensorflow",
         "keras"
     ],
     "verification": [
