@@ -81648,7 +81648,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "fracdiff",
         "ggplot2",
         "lmtest",
         "Rcpp",
@@ -134948,7 +134947,6 @@
         "base64enc"
     ],
     "forecast": [
-        "fracdiff",
         "ggplot2",
         "lmtest",
         "magrittr",
@@ -134979,7 +134977,6 @@
         "pillar"
     ],
     "naivebayes": [],
-    "fracdiff": [],
     "urca": [
         "nlme"
     ],
