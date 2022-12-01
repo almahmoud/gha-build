@@ -238,9 +238,7 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "borealis": [
-        "DSS"
-    ],
+    "borealis": [],
     "brainflowprobes": [
         "derfinder",
         "derfinderPlot",
@@ -349,7 +347,6 @@
         "goseq",
         "missMethyl",
         "ExperimentHub",
-        "DSS",
         "Gviz",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "methylumi",
@@ -625,9 +622,7 @@
     "deepSNV": [
         "VariantAnnotation"
     ],
-    "DeMixT": [
-        "DSS"
-    ],
+    "DeMixT": [],
     "derfinder": [
         "GenomicFiles",
         "VariantAnnotation"
@@ -668,7 +663,6 @@
     ],
     "DMRcate": [
         "ExperimentHub",
-        "DSS",
         "minfi",
         "missMethyl",
         "Gviz",
@@ -707,7 +701,6 @@
         "lme4"
     ],
     "drugTargetInteractions": [],
-    "DSS": [],
     "easier": [
         "easierData",
         "ggpubr",
@@ -1252,7 +1245,6 @@
         "VariantAnnotation"
     ],
     "kissDE": [
-        "DSS",
         "factoextra",
         "FactoMineR",
         "ggpubr",
@@ -1418,17 +1410,13 @@
     "MetaPhOR": [
         "clusterProfiler"
     ],
-    "metaseqR2": [
-        "DSS"
-    ],
+    "metaseqR2": [],
     "metavizr": [
         "epivizr",
         "epivizrData",
         "epivizrStandalone"
     ],
-    "MethCP": [
-        "DSS"
-    ],
+    "MethCP": [],
     "MethReg": [
         "ggpubr",
         "sesameData",
@@ -1482,9 +1470,7 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "methylSig": [
-        "DSS"
-    ],
+    "methylSig": [],
     "methylumi": [
         "FDb.InfiniumMethylation.hg19",
         "minfi",
