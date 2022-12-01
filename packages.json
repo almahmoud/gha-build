@@ -1327,7 +1327,6 @@
     "celda": [
         "scater",
         "scran",
-        "multipanelfigure",
         "scuttle",
         "ggrastr"
     ],
@@ -10347,7 +10346,6 @@
         "scuttle",
         "BiocFileCache",
         "BiocVersion",
-        "multipanelfigure",
         "geneplotter",
         "GenomicFeatures",
         "rtracklayer",
@@ -12348,7 +12346,6 @@
         "testthat",
         "waldo"
     ],
-    "multipanelfigure": [],
     "FactoMineR": [
         "car",
         "pbkrtest",
