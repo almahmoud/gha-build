@@ -221,7 +221,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "crisprseekplus": [],
     "crisprVerse": [
         "crisprScore",
         "crisprDesign",
