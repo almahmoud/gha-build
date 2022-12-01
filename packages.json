@@ -1279,7 +1279,6 @@
         "shiny",
         "shinydashboard",
         "DT",
-        "tximport",
         "cowplot",
         "rlang",
         "Rcpp",
@@ -6912,7 +6911,6 @@
     ],
     "BgeeCall": [
         "GenomicFeatures",
-        "tximport",
         "Biostrings",
         "rtracklayer",
         "biomaRt",
@@ -34131,7 +34129,6 @@
         "lpSolve",
         "poibin",
         "speedglm",
-        "tximport",
         "fgsea",
         "BiocGenerics",
         "XVector",
@@ -50865,7 +50862,6 @@
         "rtracklayer",
         "VennDiagram",
         "GenomeInfoDb",
-        "tximport",
         "tximeta",
         "edgeR",
         "futile.logger",
@@ -98110,7 +98106,6 @@
         "DropletUtils",
         "scds",
         "reticulate",
-        "tximport",
         "fishpond",
         "withr",
         "GSEABase",
@@ -110141,7 +110136,6 @@
     ],
     "tximeta": [
         "SummarizedExperiment",
-        "tximport",
         "S4Vectors",
         "IRanges",
         "GenomicRanges",
@@ -110224,7 +110218,6 @@
         "lambda.r",
         "base64enc"
     ],
-    "tximport": [],
     "UCell": [
         "Matrix",
         "BiocParallel",
