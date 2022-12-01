@@ -44439,7 +44439,6 @@
         "pcaMethods",
         "BiocParallel",
         "futile.logger",
-        "Lmoments",
         "survival"
     ],
     "scds": [
@@ -62088,10 +62087,7 @@
     ],
     "copula": [],
     "proxyC": [],
-    "extRemes": [
-        "Lmoments"
-    ],
-    "Lmoments": [],
+    "extRemes": [],
     "torch": [],
     "sparsepca": [
         "rsvd"
