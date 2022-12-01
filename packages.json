@@ -267,9 +267,7 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "canceR": [
-        "phenoTest"
-    ],
+    "canceR": [],
     "CancerInSilico": [],
     "cardelino": [
         "VariantAnnotation"
@@ -1817,7 +1815,6 @@
     "phenomis": [
         "biodbChebi"
     ],
-    "phenoTest": [],
     "PhenStat": [
         "car",
         "lme4",
