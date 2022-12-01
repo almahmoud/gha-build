@@ -14451,7 +14451,6 @@
         "ggplot2",
         "ggforce",
         "dplyr",
-        "reactable",
         "msigdbr",
         "kableExtra",
         "rmarkdown",
@@ -15406,7 +15405,6 @@
         "shinyWidgets",
         "datamods",
         "bslib",
-        "reactable",
         "rio",
         "shinybusy",
         "tidyselect",
@@ -37886,7 +37884,6 @@
         "tidyselect"
     ],
     "aws.s3": [],
-    "reactable": [],
     "biclust": [
         "tidyr",
         "ggplot2",
@@ -37948,7 +37945,6 @@
         "pillar"
     ],
     "datamods": [
-        "reactable",
         "readxl",
         "rio",
         "shiny",
