@@ -2219,8 +2219,7 @@
     ],
     "fastLiquidAssociation": [
         "LiquidAssociation",
-        "WGCNA",
-        "geepack"
+        "WGCNA"
     ],
     "FastqCleaner": [],
     "fCCAC": [
@@ -3252,9 +3251,7 @@
     "lipidr": [
         "ropls"
     ],
-    "LiquidAssociation": [
-        "geepack"
-    ],
+    "LiquidAssociation": [],
     "lisaClust": [
         "spicyR",
         "SpatialExperiment",
@@ -6247,7 +6244,6 @@
     ],
     "ssPATHS": [
         "MESS",
-        "geepack",
         "ggformula",
         "labelled",
         "haven"
@@ -7305,7 +7301,6 @@
     "homologene": [],
     "gprofiler2": [],
     "gap": [],
-    "geepack": [],
     "fda": [
         "fds"
     ],
@@ -7593,7 +7588,6 @@
     "xROI": [],
     "miRNAtap.db": [],
     "MESS": [
-        "geepack",
         "ggformula",
         "labelled",
         "haven"
