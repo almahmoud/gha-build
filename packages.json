@@ -686,8 +686,7 @@
     ],
     "ChIPsim": [],
     "ChIPXpress": [
-        "GEOquery",
-        "frma"
+        "GEOquery"
     ],
     "chromPlot": [],
     "ChromSCape": [
@@ -1679,7 +1678,6 @@
     "FRGEpistasis": [
         "fda"
     ],
-    "frma": [],
     "FunChIP": [
         "fda"
     ],
