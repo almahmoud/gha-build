@@ -7642,7 +7642,6 @@
         "TH.data",
         "sandwich",
         "MatrixModels",
-        "bmp",
         "munsell",
         "viridisLite",
         "pillar",
@@ -17654,7 +17653,6 @@
         "vctrs",
         "sp",
         "terra",
-        "bmp",
         "plyr",
         "stringr",
         "ks",
@@ -73066,7 +73064,6 @@
         "dplyr",
         "digest",
         "rlang",
-        "bmp",
         "Biobase",
         "IRanges",
         "KEGGREST",
@@ -86702,7 +86699,6 @@
         "pillar",
         "mgcv",
         "scales",
-        "bmp",
         "png",
         "rhdf5filters",
         "cowplot",
@@ -101975,14 +101971,12 @@
         "igraph",
         "digest",
         "Matrix",
-        "rlang",
-        "bmp"
+        "rlang"
     ],
     "xlsx": [
         "xlsxjars"
     ],
     "readbitmap": [
-        "bmp",
         "png"
     ],
     "multcomp": [
@@ -101998,7 +101992,6 @@
         "survival",
         "Matrix"
     ],
-    "bmp": [],
     "latex2exp": [
         "stringr",
         "magrittr"
