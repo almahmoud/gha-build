@@ -2371,7 +2371,6 @@
         "Rsamtools",
         "rtracklayer",
         "motifStack",
-        "preseqR",
         "edgeR",
         "XVector",
         "AnnotationDbi",
@@ -35379,7 +35378,6 @@
         "ChIPpeakAnno",
         "GenomicScores",
         "motifStack",
-        "preseqR",
         "edgeR",
         "BiocParallel",
         "XVector",
@@ -48763,7 +48761,6 @@
         "rsvd",
         "bbmle",
         "gamlss",
-        "preseqR",
         "SAVER",
         "Rmagic",
         "BiocParallel",
@@ -60982,7 +60979,6 @@
     "ids": [
         "openssl"
     ],
-    "preseqR": [],
     "reactome.db": [
         "AnnotationDbi",
         "IRanges",
