@@ -1281,8 +1281,7 @@
         "RCy3",
         "genefilter",
         "GO.db",
-        "AnnotationForge",
-        "IRkernel"
+        "AnnotationForge"
     ],
     "cbaf": [
         "BiocFileCache",
@@ -1475,7 +1474,6 @@
         "sna",
         "ggsignif",
         "rstatix",
-        "IRkernel",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -2733,8 +2731,7 @@
     ],
     "DEGraph": [
         "NCIgraph",
-        "RCy3",
-        "IRkernel"
+        "RCy3"
     ],
     "DEGreport": [
         "broom",
@@ -3861,8 +3858,7 @@
     ],
     "fedup": [
         "ggthemes",
-        "RCy3",
-        "IRkernel"
+        "RCy3"
     ],
     "ffpe": [
         "lumi",
@@ -6147,7 +6143,6 @@
         "gson",
         "qvalue",
         "tidyr",
-        "IRkernel",
         "ipred",
         "HDO.db",
         "fgsea",
@@ -6889,8 +6884,7 @@
         "tidyr"
     ],
     "MOGAMUN": [
-        "RCy3",
-        "IRkernel"
+        "RCy3"
     ],
     "mogsa": [
         "graphite",
@@ -7458,8 +7452,7 @@
         "MSnbase"
     ],
     "NCIgraph": [
-        "RCy3",
-        "IRkernel"
+        "RCy3"
     ],
     "ncRNAtools": [],
     "ndexr": [
@@ -7572,7 +7565,6 @@
         "Category",
         "annotate",
         "AnnotationForge",
-        "IRkernel",
         "sqldf",
         "biomaRt",
         "readr",
@@ -8982,9 +8974,7 @@
         "readr",
         "tidyr"
     ],
-    "RCy3": [
-        "IRkernel"
-    ],
+    "RCy3": [],
     "ReactomeGraph4R": [
         "neo4r",
         "tidyr"
@@ -9127,7 +9117,6 @@
         "ensembldb",
         "BSgenome",
         "biovizBase",
-        "IRkernel",
         "Hmisc",
         "VariantAnnotation"
     ],
@@ -11412,7 +11401,6 @@
         "GOSemSim",
         "gson",
         "qvalue",
-        "IRkernel",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -11562,8 +11550,7 @@
         "annotate"
     ],
     "transomics2cytoscape": [
-        "RCy3",
-        "IRkernel"
+        "RCy3"
     ],
     "TraRe": [
         "vbsr"
@@ -12509,7 +12496,6 @@
         "testthat",
         "waldo"
     ],
-    "IRkernel": [],
     "multipanelfigure": [],
     "FactoMineR": [
         "car",
