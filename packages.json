@@ -3324,7 +3324,6 @@
     ],
     "CONFESS": [
         "contrast",
-        "flowMeans",
         "ggplot2",
         "rms",
         "Hmisc",
@@ -6148,7 +6147,6 @@
         "ggrepel",
         "ggplot2"
     ],
-    "flowMeans": [],
     "flowPloidy": [
         "car",
         "pbkrtest",
@@ -12333,8 +12331,7 @@
         "rematch2"
     ],
     "optimalFlow": [
-        "dplyr",
-        "flowMeans"
+        "dplyr"
     ],
     "OPWeight": [
         "qvalue",
