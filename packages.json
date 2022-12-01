@@ -11457,7 +11457,6 @@
         "vsn",
         "tibble"
     ],
-    "loci2path": [],
     "logicFS": [],
     "LoomExperiment": [
         "SingleCellExperiment",
