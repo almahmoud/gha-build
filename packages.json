@@ -22611,7 +22611,6 @@
         "digest",
         "pkgconfig",
         "DDRTree",
-        "HSMMSingleCell",
         "cluster",
         "combinat",
         "fastICA",
@@ -86128,7 +86127,6 @@
         "DDRTree",
         "igraph",
         "BiocGenerics",
-        "HSMMSingleCell",
         "plyr",
         "cluster",
         "combinat",
@@ -148686,7 +148684,6 @@
         "lattice",
         "ggplot2",
         "DDRTree",
-        "HSMMSingleCell",
         "combinat",
         "fastICA",
         "irlba",
@@ -165334,7 +165331,6 @@
         "Matrix",
         "lattice"
     ],
-    "HSMMSingleCell": [],
     "leidenbase": [
         "igraph",
         "magrittr",
