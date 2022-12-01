@@ -4181,7 +4181,6 @@
         "XVector"
     ],
     "cellmigRation": [
-        "SpatialTools",
         "FactoMineR",
         "Hmisc",
         "car",
@@ -36437,7 +36436,6 @@
         "tibble",
         "pillar"
     ],
-    "SpatialTools": [],
     "FactoMineR": [
         "car",
         "DT",
