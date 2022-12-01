@@ -3173,7 +3173,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "treeio",
-        "softImpute",
         "genefilter",
         "rhdf5",
         "XVector",
@@ -8283,7 +8282,6 @@
         "RNeXML",
         "GenomicRanges",
         "GenomeInfoDb",
-        "softImpute",
         "genefilter",
         "benchmarkmeData",
         "dplyr",
@@ -30075,7 +30073,6 @@
         "RcppEigen"
     ],
     "msImpute": [
-        "softImpute",
         "scran",
         "tidyr",
         "dplyr",
@@ -32208,7 +32205,6 @@
         "RNeXML",
         "RcppEigen",
         "dqrng",
-        "softImpute",
         "genefilter",
         "benchmarkmeData",
         "dplyr",
@@ -42229,7 +42225,6 @@
         "RcppEigen",
         "DelayedArray",
         "GenomeInfoDb",
-        "softImpute",
         "genefilter",
         "edgeR",
         "futile.logger",
@@ -45278,7 +45273,6 @@
         "httpuv",
         "fontawesome",
         "genefilter",
-        "softImpute",
         "KEGGREST",
         "dbplyr",
         "rsvd",
@@ -52507,7 +52501,6 @@
         "SummarizedExperiment",
         "SingleCellExperiment",
         "BiocParallel",
-        "softImpute",
         "genefilter",
         "edgeR",
         "futile.logger",
@@ -54473,7 +54466,6 @@
     "survey": [
         "survival"
     ],
-    "softImpute": [],
     "ROI.plugin.lpsolve": [],
     "Rvmmin": [],
     "Rcgmin": [],
