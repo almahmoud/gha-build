@@ -9989,7 +9989,6 @@
         "cowplot",
         "flowViz",
         "car",
-        "rgeos",
         "RFOC",
         "flowWorkspace",
         "dplyr",
@@ -10625,7 +10624,6 @@
         "flowDensity",
         "flowViz",
         "car",
-        "rgeos",
         "RFOC",
         "flowWorkspace",
         "mgcv",
@@ -15442,7 +15440,6 @@
         "e1071",
         "flowViz",
         "car",
-        "rgeos",
         "RFOC",
         "flowWorkspace",
         "mgcv",
@@ -15480,7 +15477,6 @@
     "flowDensity": [
         "flowViz",
         "car",
-        "rgeos",
         "RFOC",
         "flowWorkspace",
         "mgcv",
@@ -51474,7 +51470,6 @@
         "vctrs",
         "pillar"
     ],
-    "rgeos": [],
     "RFOC": [
         "GEOmap",
         "splancs",
