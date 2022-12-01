@@ -3709,9 +3709,7 @@
         "devtools",
         "testthat"
     ],
-    "mfa": [
-        "ggmcmc"
-    ],
+    "mfa": [],
     "MGFM": [],
     "MGFR": [
         "biomaRt"
@@ -7370,7 +7368,6 @@
         "OrganismDbi",
         "biomaRt"
     ],
-    "ggmcmc": [],
     "HardyWeinberg": [
         "mice"
     ],
