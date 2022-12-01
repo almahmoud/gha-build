@@ -2196,9 +2196,7 @@
         "DEGreport",
         "DESeq2"
     ],
-    "ITALICS": [
-        "pd.mapping50k.xba240"
-    ],
+    "ITALICS": [],
     "IVAS": [
         "GenomicFeatures",
         "lme4",
@@ -5100,7 +5098,6 @@
     "datamods": [
         "rio"
     ],
-    "pd.mapping50k.xba240": [],
     "reldist": [],
     "adabag": [],
     "glmmTMB": [
