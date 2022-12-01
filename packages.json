@@ -2727,7 +2727,6 @@
     "cardelino": [
         "ggplot2",
         "ggtree",
-        "snpStats",
         "VariantAnnotation",
         "vcfR",
         "tibble",
@@ -3269,7 +3268,6 @@
         "geneplotter",
         "tibble",
         "tidyselect",
-        "snpStats",
         "forcats",
         "progress",
         "sna",
@@ -3885,7 +3883,6 @@
         "tibble",
         "tidyselect",
         "GenomicFeatures",
-        "snpStats",
         "VariantAnnotation",
         "vroom",
         "GenomicAlignments",
@@ -6246,7 +6243,6 @@
     ],
     "DExMA": [
         "GEOquery",
-        "snpStats",
         "sva",
         "readr",
         "dplyr",
@@ -9094,7 +9090,6 @@
         "seqinr"
     ],
     "GeneGeneInteR": [
-        "snpStats",
         "Rsamtools",
         "FactoMineR",
         "car",
@@ -10432,7 +10427,6 @@
         "readr",
         "AnnotationDbi",
         "BiocFileCache",
-        "snpStats",
         "VariantAnnotation",
         "AnnotationHub",
         "RSQLite",
@@ -12448,7 +12442,6 @@
     ],
     "MAGAR": [
         "RnBeads",
-        "snpStats",
         "crlmm",
         "bigstatsr",
         "UpSetR",
@@ -12634,9 +12627,7 @@
         "tibble",
         "tidyselect"
     ],
-    "martini": [
-        "snpStats"
-    ],
+    "martini": [],
     "maser": [
         "ggplot2",
         "dplyr",
@@ -20848,7 +20839,6 @@
     ],
     "RVS": [
         "gRain",
-        "snpStats",
         "broom",
         "dplyr",
         "tibble",
@@ -21507,7 +21497,6 @@
         "SummarizedExperiment"
     ],
     "scoreInvHap": [
-        "snpStats",
         "VariantAnnotation",
         "SummarizedExperiment",
         "Rsamtools",
@@ -22810,7 +22799,6 @@
         "dplyr",
         "tidyselect"
     ],
-    "snpStats": [],
     "soGGi": [
         "SummarizedExperiment",
         "ggplot2",
@@ -25800,7 +25788,6 @@
         "readr",
         "AnnotationDbi",
         "BiocFileCache",
-        "snpStats",
         "VariantAnnotation",
         "AnnotationHub",
         "RSQLite",
@@ -27471,9 +27458,7 @@
         "tidyselect"
     ],
     "GenomicTools": [],
-    "GenomicTools.fileHandler": [
-        "snpStats"
-    ],
+    "GenomicTools.fileHandler": [],
     "quantmod": [],
     "ChAMPdata": [],
     "IlluminaHumanMethylationEPICmanifest": [
