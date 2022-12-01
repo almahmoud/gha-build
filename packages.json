@@ -15432,7 +15432,6 @@
         "Biostrings",
         "BiocParallel"
     ],
-    "GeneExpressionSignature": [],
     "genefilter": [
         "AnnotationDbi",
         "annotate",
