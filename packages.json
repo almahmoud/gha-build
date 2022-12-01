@@ -403,7 +403,6 @@
         "pbkrtest"
     ],
     "debrowser": [],
-    "decompTumor2Sig": [],
     "deconvR": [
         "rsq"
     ],
@@ -1086,7 +1085,6 @@
         "pbkrtest"
     ],
     "musicatk": [
-        "decompTumor2Sig",
         "factoextra",
         "FactoMineR",
         "ggpubr",
