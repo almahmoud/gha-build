@@ -11100,7 +11100,6 @@
         "ggnewscale",
         "ggplotify"
     ],
-    "microRNA": [],
     "midasHLA": [
         "MultiAssayExperiment",
         "broom",
