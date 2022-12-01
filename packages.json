@@ -5836,7 +5836,6 @@
         "ipred",
         "tidyr"
     ],
-    "marr": [],
     "maser": [
         "rtracklayer",
         "Gviz",
