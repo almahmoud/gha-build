@@ -69744,7 +69744,6 @@
     "pathVar": [
         "ggplot2",
         "gridExtra",
-        "EMT",
         "mclust",
         "Matching",
         "gtable",
@@ -121112,7 +121111,6 @@
         "vctrs"
     ],
     "matrixLaplacian": [],
-    "EMT": [],
     "Matching": [],
     "pcxnData": [],
     "reportROC": [
