@@ -426,7 +426,6 @@
         "ropls"
     ],
     "BioTIP": [],
-    "biotmle": [],
     "biovizBase": [
         "GenomicFeatures",
         "VariantAnnotation",
