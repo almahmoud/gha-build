@@ -2587,7 +2587,6 @@
         "bit64",
         "gmp",
         "Rmpfr",
-        "ECOSolveR",
         "scs",
         "osqp",
         "RcppEigen",
@@ -9002,7 +9001,6 @@
         "bit64",
         "gmp",
         "Rmpfr",
-        "ECOSolveR",
         "scs",
         "osqp",
         "boot",
@@ -80886,7 +80884,6 @@
         "bit64",
         "gmp",
         "Rmpfr",
-        "ECOSolveR",
         "scs",
         "osqp",
         "RcppEigen",
@@ -154173,7 +154170,6 @@
         "bit64",
         "gmp",
         "Rmpfr",
-        "ECOSolveR",
         "scs",
         "osqp",
         "RcppEigen",
@@ -154296,7 +154292,6 @@
     "Rmpfr": [
         "gmp"
     ],
-    "ECOSolveR": [],
     "scs": [],
     "osqp": [
         "Rcpp",
