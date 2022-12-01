@@ -399,7 +399,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "biomaRt"
     ],
-    "bigPint": [],
     "BindingSiteFinder": [
         "Gviz",
         "biomaRt",
