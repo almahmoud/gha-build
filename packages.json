@@ -2192,7 +2192,6 @@
         "enrichplot",
         "devtools"
     ],
-    "mumosa": [],
     "MungeSumstats": [
         "VariantAnnotation"
     ],
