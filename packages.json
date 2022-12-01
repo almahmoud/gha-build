@@ -41857,7 +41857,6 @@
         "PRROC",
         "igraph",
         "purrr",
-        "protr",
         "MCL",
         "e1071",
         "foreach",
@@ -92781,7 +92780,6 @@
     "surfaltr": [
         "dplyr",
         "biomaRt",
-        "protr",
         "seqinr",
         "ggplot2",
         "stringr",
@@ -112973,7 +112971,6 @@
         "rlang",
         "magrittr"
     ],
-    "protr": [],
     "MCL": [
         "expm",
         "Matrix"
