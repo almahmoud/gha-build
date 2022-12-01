@@ -4066,9 +4066,7 @@
         "lme4",
         "nloptr"
     ],
-    "SpidermiR": [
-        "miRNAtap.db"
-    ],
+    "SpidermiR": [],
     "spiky": [],
     "splatter": [
         "scater"
@@ -4136,8 +4134,7 @@
         "Category"
     ],
     "StarBioTrek": [
-        "SpidermiR",
-        "miRNAtap.db"
+        "SpidermiR"
     ],
     "Statial": [
         "tidyverse"
@@ -5007,7 +5004,6 @@
         "BiocVersion"
     ],
     "sampSurf": [],
-    "miRNAtap.db": [],
     "MESS": [
         "ggformula",
         "labelled"
