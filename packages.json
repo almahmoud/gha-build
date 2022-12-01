@@ -13233,7 +13233,6 @@
         "lambda.r",
         "askpass"
     ],
-    "clustComp": [],
     "clusterExperiment": [
         "SingleCellExperiment",
         "SummarizedExperiment",
