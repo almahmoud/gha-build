@@ -16884,7 +16884,6 @@
         "vctrs",
         "pillar"
     ],
-    "DTA": [],
     "Dune": [
         "BiocParallel",
         "SummarizedExperiment",
