@@ -3,14 +3,12 @@
         "a4Base",
         "annaffy",
         "genefilter",
-        "GO.db",
-        "annotate"
+        "GO.db"
     ],
     "a4Base": [
         "annaffy",
         "genefilter",
-        "GO.db",
-        "annotate"
+        "GO.db"
     ],
     "abseqR": [
         "plotly"
@@ -18,8 +16,7 @@
     "ADaCGH2": [
         "tilingArray",
         "snapCGH",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "ADAM": [
         "GO.db"
@@ -58,7 +55,6 @@
         "DESeq2",
         "Category",
         "GO.db",
-        "annotate",
         "PFAM.db",
         "GSEABase",
         "ggbio",
@@ -78,8 +74,7 @@
     ],
     "affylmGUI": [],
     "AGDEX": [
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "AgiMicroRna": [
         "affycoretools",
@@ -89,7 +84,6 @@
         "DESeq2",
         "Category",
         "GO.db",
-        "annotate",
         "PFAM.db",
         "GSEABase",
         "ggbio",
@@ -152,8 +146,7 @@
     ],
     "Anaquin": [
         "DESeq2",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "ANCOMBC": [
         "mia",
@@ -177,17 +170,14 @@
         "plotly",
         "MultiAssayExperiment",
         "recipes",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "annaffy": [
         "GO.db"
     ],
     "annmap": [
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
-    "annotate": [],
     "AnnotationHub": [
         "BiocFileCache",
         "BiocVersion"
@@ -216,8 +206,7 @@
     "anota": [],
     "anota2seq": [
         "DESeq2",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "AnVILBilling": [
         "plotly"
@@ -233,8 +222,7 @@
         "geneplotter",
         "biomaRt",
         "BSgenome",
-        "BiocFileCache",
-        "annotate"
+        "BiocFileCache"
     ],
     "apComplex": [
         "org.Sc.sgd.db"
@@ -285,7 +273,6 @@
         "lumi",
         "methylumi",
         "GenomicFeatures",
-        "annotate",
         "rtracklayer",
         "biomaRt",
         "FDb.InfiniumMethylation.hg19",
@@ -301,8 +288,7 @@
     "arrayQualityMetrics": [
         "beadarray",
         "genefilter",
-        "Hmisc",
-        "annotate"
+        "Hmisc"
     ],
     "artMS": [
         "MSstats",
@@ -352,8 +338,7 @@
     ],
     "ASSIGN": [
         "sva",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "ASURAT": [],
     "ATACCoGAPS": [
@@ -387,8 +372,7 @@
         "haven",
         "modelr",
         "readr",
-        "BiocFileCache",
-        "annotate"
+        "BiocFileCache"
     ],
     "ATACseqQC": [
         "BSgenome",
@@ -406,7 +390,6 @@
         "BiocVersion",
         "CNEr",
         "readr",
-        "annotate",
         "GO.db"
     ],
     "ATACseqTFEA": [
@@ -416,7 +399,6 @@
         "CNEr",
         "rtracklayer",
         "readr",
-        "annotate",
         "GO.db"
     ],
     "atena": [
@@ -434,7 +416,6 @@
         "waldo",
         "CNEr",
         "readr",
-        "annotate",
         "GO.db"
     ],
     "attract": [
@@ -443,13 +424,11 @@
         "org.Hs.eg.db",
         "Category",
         "GO.db",
-        "annotate",
         "GSEABase",
         "genefilter"
     ],
     "AUCell": [
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "autonomics": [
         "BiocFileCache",
@@ -475,8 +454,7 @@
     "ballgown": [
         "sva",
         "rtracklayer",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "bambu": [
         "BSgenome",
@@ -497,7 +475,6 @@
         "biomaRt",
         "BiocFileCache",
         "recipes",
-        "annotate",
         "genefilter"
     ],
     "barcodetrackR": [],
@@ -528,8 +505,7 @@
         "heatmaply",
         "plotly",
         "dendextend",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "BayesSpace": [
         "scater",
@@ -572,7 +548,6 @@
         "plotly",
         "treeio",
         "genefilter",
-        "annotate",
         "MultiAssayExperiment",
         "scater",
         "testthat",
@@ -591,8 +566,7 @@
         "GO.db"
     ],
     "BicARE": [
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "bigmelon": [
         "wateRmelon",
@@ -601,7 +575,6 @@
         "GEOquery",
         "readr",
         "FDb.InfiniumMethylation.hg19",
-        "annotate",
         "genefilter",
         "GenomicFeatures",
         "bumphunter",
@@ -671,8 +644,7 @@
     "BiocFHIR": [],
     "BiocFileCache": [],
     "biocGraph": [
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "BiocOncoTK": [
         "GenomicFeatures",
@@ -695,8 +667,7 @@
         "waldo"
     ],
     "BioCor": [
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "BiocPkgTools": [
         "BiocFileCache",
@@ -802,8 +773,7 @@
         "ggnetwork",
         "genefilter",
         "Hmisc",
-        "GO.db",
-        "annotate"
+        "GO.db"
     ],
     "BioNet": [],
     "BioNetStat": [
@@ -861,8 +831,7 @@
     ],
     "BiSeq": [
         "rtracklayer",
-        "globaltest",
-        "annotate"
+        "globaltest"
     ],
     "BitSeq": [],
     "blacksheepr": [
@@ -872,8 +841,7 @@
         "biomaRt",
         "geneplotter",
         "genefilter",
-        "BiocFileCache",
-        "annotate"
+        "BiocFileCache"
     ],
     "blima": [
         "beadarray"
@@ -894,16 +862,14 @@
     ],
     "bnbc": [
         "sva",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "bnem": [
         "epiNEM",
         "mnem",
         "sva",
         "Linnorm",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "BOBaFIT": [
         "ggbio",
@@ -969,8 +935,7 @@
     "BRGenomics": [
         "rtracklayer",
         "DESeq2",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "BSgenome": [
         "rtracklayer"
@@ -1017,7 +982,6 @@
     "CAFE": [
         "biovizBase",
         "ggbio",
-        "annotate",
         "Hmisc",
         "GenomicFeatures",
         "VariantAnnotation",
@@ -1061,8 +1025,7 @@
         "biomaRt",
         "genefilter",
         "GO.db",
-        "BiocFileCache",
-        "annotate"
+        "BiocFileCache"
     ],
     "CAGEr": [
         "MultiAssayExperiment",
@@ -1077,7 +1040,6 @@
     "canceR": [
         "GSEABase",
         "phenoTest",
-        "annotate",
         "Hmisc",
         "Category",
         "biomaRt",
@@ -1126,14 +1088,12 @@
     ],
     "Category": [
         "GSEABase",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "categoryCompare": [
         "GSEABase",
         "Category",
         "GOstats",
-        "annotate",
         "genefilter",
         "GO.db"
     ],
@@ -1145,7 +1105,6 @@
         "readr",
         "RTCGAToolbox",
         "TCGAutils",
-        "annotate",
         "GenomicFeatures",
         "GenomicDataCommons",
         "rtracklayer",
@@ -1173,8 +1132,7 @@
     "ccmap": [],
     "CCPROMISE": [
         "PROMISE",
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "celaref": [
         "readr"
@@ -1194,8 +1152,7 @@
     "cellHTS2": [
         "genefilter",
         "GSEABase",
-        "Category",
-        "annotate"
+        "Category"
     ],
     "CelliD": [
         "Seurat",
@@ -1266,8 +1223,7 @@
         "pbkrtest"
     ],
     "Cepo": [
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "ceRNAnetsim": [
         "tidygraph",
@@ -1291,7 +1247,6 @@
         "aplot",
         "ggraph",
         "ggtree",
-        "annotate",
         "broom",
         "car",
         "pbkrtest",
@@ -1315,8 +1270,7 @@
     ],
     "cghMCR": [
         "CNTools",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "ChAMP": [
         "minfi",
@@ -1339,7 +1293,6 @@
         "bsseq",
         "DSS",
         "Gviz",
-        "annotate",
         "geneLenDataBase",
         "GO.db",
         "genefilter",
@@ -1449,8 +1402,7 @@
         "biomaRt",
         "BiocFileCache",
         "geneplotter",
-        "BSgenome",
-        "annotate"
+        "BSgenome"
     ],
     "ChIPseeker": [
         "enrichplot",
@@ -1487,7 +1439,6 @@
         "readr"
     ],
     "ChromHeatMap": [
-        "annotate",
         "rtracklayer"
     ],
     "chromPlot": [
@@ -1515,7 +1466,6 @@
         "rtracklayer",
         "CNEr",
         "readr",
-        "annotate",
         "GO.db"
     ],
     "CHRONOS": [
@@ -1552,7 +1502,6 @@
         "geneplotter",
         "GenomicFeatures",
         "VariantAnnotation",
-        "annotate",
         "biomaRt"
     ],
     "CircSeqAlignTk": [
@@ -1572,8 +1521,7 @@
     ],
     "ClassifyR": [
         "MultiAssayExperiment",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "cleanUpdTSeq": [
         "BSgenome.Drerio.UCSC.danRer7",
@@ -1582,7 +1530,6 @@
     ],
     "clipper": [
         "qpgraph",
-        "annotate",
         "GenomicFeatures",
         "rtracklayer",
         "biomaRt",
@@ -1606,8 +1553,7 @@
         "phylobase",
         "mbkmeans",
         "RNeXML",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "clusterProfiler": [
         "DOSE",
@@ -1634,7 +1580,6 @@
     "CNEr": [
         "rtracklayer",
         "readr",
-        "annotate",
         "GO.db"
     ],
     "CNORfeeder": [],
@@ -1644,8 +1589,7 @@
         "waldo"
     ],
     "CNTools": [
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "CNVfilteR": [
         "regioneR",
@@ -1700,9 +1644,7 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "codelink": [
-        "annotate"
-    ],
+    "codelink": [],
     "CODEX": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome",
@@ -1861,8 +1803,7 @@
         "ShortRead",
         "biomaRt",
         "rtracklayer",
-        "BiocFileCache",
-        "annotate"
+        "BiocFileCache"
     ],
     "consensusOV": [
         "GSVA",
@@ -1870,8 +1811,7 @@
         "survcomp",
         "biomaRt",
         "GSEABase",
-        "BiocFileCache",
-        "annotate"
+        "BiocFileCache"
     ],
     "consensusSeekeR": [
         "rtracklayer"
@@ -1901,7 +1841,6 @@
         "genefilter",
         "GEOquery",
         "GenomicFeatures",
-        "annotate",
         "readr",
         "biomaRt",
         "BiocFileCache"
@@ -1935,8 +1874,7 @@
     "coseq": [
         "DESeq2",
         "HTSFilter",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "cosmiq": [
         "xcms",
@@ -1946,28 +1884,24 @@
     "cosmosR": [
         "CARNIVAL",
         "GSEABase",
-        "readr",
-        "annotate"
+        "readr"
     ],
     "countsimQC": [
         "DESeq2",
         "genefilter",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "CoverageView": [
         "rtracklayer"
     ],
     "covRNA": [
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "cpvSNP": [
         "GenomicFeatures",
         "GSEABase",
         "rtracklayer",
         "biomaRt",
-        "annotate",
         "BiocFileCache"
     ],
     "crisprBowtie": [
@@ -2071,8 +2005,7 @@
         "oligo",
         "sva",
         "readr",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "csdR": [
         "WGCNA",
@@ -2196,7 +2129,6 @@
         "CNEr",
         "rtracklayer",
         "readr",
-        "annotate",
         "GO.db"
     ],
     "DAMEfinder": [
@@ -2227,7 +2159,6 @@
         "genefilter",
         "BiocFileCache",
         "pbkrtest",
-        "annotate",
         "rtracklayer",
         "nloptr",
         "testthat",
@@ -2292,7 +2223,6 @@
         "readr"
     ],
     "debrowser": [
-        "annotate",
         "DESeq2",
         "DOSE",
         "org.Hs.eg.db",
@@ -2321,8 +2251,7 @@
     "deco": [],
     "DEComplexDisease": [
         "DESeq2",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "decompTumor2Sig": [
         "GenomicFeatures",
@@ -2370,8 +2299,7 @@
     ],
     "DEFormats": [
         "DESeq2",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "DegNorm": [
         "GenomicFeatures",
@@ -2388,14 +2316,12 @@
     "DEGreport": [
         "broom",
         "DESeq2",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "DEGseq": [],
     "deltaCaptureC": [
         "DESeq2",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "deltaGseg": [],
     "DeMixT": [
@@ -2405,7 +2331,6 @@
         "bsseq",
         "genefilter",
         "BSgenome",
-        "annotate",
         "rtracklayer"
     ],
     "DEP": [
@@ -2454,8 +2379,7 @@
         "BSgenome"
     ],
     "DESeq2": [
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "destiny": [
         "VIM",
@@ -2473,28 +2397,24 @@
         "DESeq2",
         "geneplotter",
         "testthat",
-        "annotate",
         "waldo"
     ],
     "DEWSeq": [
         "DESeq2",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "DExMA": [
         "GEOquery",
         "sva",
         "readr",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "DEXSeq": [
         "DESeq2",
         "biomaRt",
         "geneplotter",
         "genefilter",
-        "BiocFileCache",
-        "annotate"
+        "BiocFileCache"
     ],
     "DIAlignR": [],
     "DiffBind": [
@@ -2504,8 +2424,7 @@
         "geneplotter",
         "BSgenome",
         "rtracklayer",
-        "ShortRead",
-        "annotate"
+        "ShortRead"
     ],
     "diffcoexp": [
         "WGCNA",
@@ -2541,8 +2460,7 @@
         "geneplotter",
         "genefilter",
         "GenomicFeatures",
-        "BiocFileCache",
-        "annotate"
+        "BiocFileCache"
     ],
     "Dino": [
         "Seurat",
@@ -2602,7 +2520,6 @@
         "BiocVersion",
         "Hmisc",
         "VariantAnnotation",
-        "annotate",
         "readr",
         "FDb.InfiniumMethylation.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
@@ -2645,8 +2562,7 @@
     ],
     "doppelgangR": [
         "sva",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "Doscheda": [
         "drc",
@@ -2690,7 +2606,6 @@
         "biomaRt",
         "ArrayExpress",
         "GEOquery",
-        "annotate",
         "hgu133a.db",
         "hgu133a2.db",
         "hgu133plus2.db",
@@ -2722,7 +2637,6 @@
         "BiocVersion",
         "pbkrtest",
         "lme4",
-        "annotate",
         "nloptr",
         "testthat",
         "waldo"
@@ -2751,8 +2665,7 @@
     ],
     "EBSEA": [
         "DESeq2",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "EBSeq": [
         "testthat",
@@ -2775,7 +2688,6 @@
         "snm",
         "lme4",
         "genefilter",
-        "annotate",
         "nloptr",
         "testthat",
         "waldo"
@@ -2795,7 +2707,6 @@
         "aplot",
         "ggraph",
         "ggtree",
-        "annotate",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -2817,7 +2728,6 @@
         "org.Rn.eg.db",
         "plotly",
         "GO.db",
-        "annotate",
         "GSEABase",
         "hgu133plus2.db",
         "hgu133a.db"
@@ -2856,7 +2766,6 @@
         "TFBSTools",
         "CNEr",
         "readr",
-        "annotate",
         "GO.db"
     ],
     "ENmix": [
@@ -2867,7 +2776,6 @@
         "genefilter",
         "BiocFileCache",
         "BiocVersion",
-        "annotate",
         "bumphunter",
         "GEOquery",
         "GenomicFeatures",
@@ -2881,7 +2789,6 @@
         "GO.db",
         "graphite",
         "pathview",
-        "annotate",
         "org.Hs.eg.db"
     ],
     "enrichplot": [
@@ -2912,7 +2819,6 @@
         "rstatix",
         "CNEr",
         "readr",
-        "annotate",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -2967,7 +2873,6 @@
         "biomaRt",
         "HDO.db",
         "fgsea",
-        "annotate",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -3063,7 +2968,6 @@
         "GEOquery",
         "Hmisc",
         "VariantAnnotation",
-        "annotate",
         "readr"
     ],
     "epiNEM": [
@@ -3136,8 +3040,7 @@
     ],
     "ERSSA": [
         "DESeq2",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "esATAC": [
         "ShortRead",
@@ -3158,7 +3061,6 @@
         "CNEr",
         "BiocFileCache",
         "readr",
-        "annotate",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -3172,8 +3074,7 @@
         "GSEABase",
         "GSVA",
         "UCell",
-        "broom",
-        "annotate"
+        "broom"
     ],
     "esetVis": [],
     "evaluomeR": [
@@ -3224,8 +3125,7 @@
         "rtracklayer",
         "geneplotter",
         "biomaRt",
-        "BiocFileCache",
-        "annotate"
+        "BiocFileCache"
     ],
     "ExperimentHub": [
         "AnnotationHub",
@@ -3353,7 +3253,6 @@
         "lumi",
         "methylumi",
         "GenomicFeatures",
-        "annotate",
         "FDb.InfiniumMethylation.hg19",
         "minfi",
         "genefilter",
@@ -3489,8 +3388,7 @@
         "DESeq2",
         "heatmaply",
         "geneplotter",
-        "dendextend",
-        "annotate"
+        "dendextend"
     ],
     "frenchFISH": [
         "NHPoisson",
@@ -3523,7 +3421,6 @@
         "genefilter",
         "GEOquery",
         "GenomicFeatures",
-        "annotate",
         "readr",
         "rtracklayer",
         "biomaRt",
@@ -3582,7 +3479,6 @@
         "waldo",
         "BiocFileCache",
         "pbkrtest",
-        "annotate",
         "rtracklayer",
         "nloptr",
         "broom"
@@ -3619,7 +3515,6 @@
         "aplot",
         "ggraph",
         "ggtree",
-        "annotate",
         "rstatix",
         "tidygraph",
         "tidytree",
@@ -3660,9 +3555,7 @@
         "BiocFileCache"
     ],
     "GeneBreak": [],
-    "genefilter": [
-        "annotate"
-    ],
+    "genefilter": [],
     "genefu": [
         "survcomp",
         "biomaRt",
@@ -3679,12 +3572,9 @@
         "waldo"
     ],
     "GeneMeta": [
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
-    "geneplotter": [
-        "annotate"
-    ],
+    "geneplotter": [],
     "GENESIS": [
         "GWASTools",
         "SeqVarTools",
@@ -3712,8 +3602,7 @@
         "DESeq2",
         "GO.db",
         "plotly",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "geneXtendeR": [
         "rtracklayer",
@@ -3871,8 +3760,7 @@
         "readr"
     ],
     "gep2pep": [
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "gespeR": [
         "cellHTS2",
@@ -3880,8 +3768,7 @@
         "BiocFileCache",
         "genefilter",
         "GSEABase",
-        "Category",
-        "annotate"
+        "Category"
     ],
     "GEWIST": [
         "car",
@@ -3946,14 +3833,12 @@
         "genefilter",
         "GSEABase",
         "HH",
-        "annotate",
         "Hmisc"
     ],
     "GladiaTOX": [],
     "Glimma": [
         "DESeq2",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "glmGamPoi": [],
     "glmSparseNet": [
@@ -3974,13 +3859,10 @@
     ],
     "GlobalAncova": [
         "globaltest",
-        "annotate",
         "dendextend",
         "GSEABase"
     ],
-    "globaltest": [
-        "annotate"
-    ],
+    "globaltest": [],
     "gmapR": [
         "rtracklayer",
         "GenomicFeatures",
@@ -3998,7 +3880,6 @@
         "org.Mm.eg.db",
         "WGCNA",
         "genefilter",
-        "annotate",
         "GO.db",
         "broom",
         "Hmisc"
@@ -4040,7 +3921,6 @@
     ],
     "GOSim": [
         "GO.db",
-        "annotate",
         "org.Hs.eg.db",
         "topGO"
     ],
@@ -4069,7 +3949,6 @@
     "GOstats": [
         "Category",
         "GO.db",
-        "annotate",
         "GSEABase",
         "genefilter"
     ],
@@ -4088,8 +3967,7 @@
         "readr",
         "biomaRt",
         "BiocFileCache",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "graphite": [],
     "GreyListChIP": [
@@ -4115,9 +3993,7 @@
         "testthat",
         "waldo"
     ],
-    "GSEABase": [
-        "annotate"
-    ],
+    "GSEABase": [],
     "GSEABenchmarkeR": [
         "AnnotationHub",
         "BiocFileCache",
@@ -4128,7 +4004,6 @@
         "GO.db",
         "graphite",
         "pathview",
-        "annotate",
         "org.Hs.eg.db"
     ],
     "GSEAmining": [
@@ -4153,12 +4028,10 @@
     ],
     "GSRI": [
         "genefilter",
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "GSVA": [
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "GUIDEseq": [
         "CRISPRseek",
@@ -4249,8 +4122,7 @@
         "DESeq2",
         "MultiAssayExperiment",
         "BiocFileCache",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "HGC": [
         "dendextend"
@@ -4354,8 +4226,7 @@
     ],
     "HTSFilter": [
         "DESeq2",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "HubPub": [
         "available"
@@ -4380,14 +4251,12 @@
         "geneplotter",
         "biomaRt",
         "BSgenome",
-        "BiocFileCache",
-        "annotate"
+        "BiocFileCache"
     ],
     "iCheck": [
         "lumi",
         "methylumi",
         "GenomicFeatures",
-        "annotate",
         "rtracklayer",
         "biomaRt",
         "FDb.InfiniumMethylation.hg19",
@@ -4419,7 +4288,6 @@
         "geneplotter",
         "geneLenDataBase",
         "Category",
-        "annotate",
         "dendextend",
         "genefilter",
         "biomaRt",
@@ -4431,9 +4299,7 @@
     "IdeoViz": [
         "rtracklayer"
     ],
-    "idiogram": [
-        "annotate"
-    ],
+    "idiogram": [],
     "IgGeneUsage": [],
     "igvR": [
         "rtracklayer",
@@ -4450,8 +4316,7 @@
         "cellHTS2",
         "genefilter",
         "GSEABase",
-        "Category",
-        "annotate"
+        "Category"
     ],
     "IMAS": [
         "GenomicFeatures",
@@ -4509,8 +4374,7 @@
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "geneplotter",
         "biomaRt",
-        "BiocFileCache",
-        "annotate"
+        "BiocFileCache"
     ],
     "InTAD": [
         "MultiAssayExperiment",
@@ -4545,8 +4409,7 @@
     "interactiveDisplay": [
         "Category",
         "GSEABase",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "InterCellar": [
         "colourpicker",
@@ -4574,8 +4437,7 @@
         "biomaRt",
         "genefilter",
         "rtracklayer",
-        "BiocFileCache",
-        "annotate"
+        "BiocFileCache"
     ],
     "IONiseR": [
         "ShortRead"
@@ -4685,8 +4547,7 @@
         "ensembldb",
         "BiocFileCache",
         "AnnotationHub",
-        "BiocVersion",
-        "annotate"
+        "BiocVersion"
     ],
     "isomiRs": [
         "broom",
@@ -4694,8 +4555,7 @@
         "DESeq2",
         "GGally",
         "readr",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "ITALICS": [
         "oligo",
@@ -4772,7 +4632,6 @@
         "ggpubr",
         "BSgenome",
         "car",
-        "annotate",
         "rstatix",
         "rtracklayer",
         "pbkrtest",
@@ -4787,8 +4646,7 @@
         "sva",
         "Hmisc",
         "recipes",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "LACE": [
         "readr",
@@ -4878,7 +4736,6 @@
         "BSgenome",
         "CNEr",
         "rtracklayer",
-        "annotate",
         "GO.db",
         "biomaRt"
     ],
@@ -4892,7 +4749,6 @@
     "lumi": [
         "methylumi",
         "GenomicFeatures",
-        "annotate",
         "rtracklayer",
         "biomaRt",
         "FDb.InfiniumMethylation.hg19",
@@ -4953,9 +4809,7 @@
         "broom",
         "waldo"
     ],
-    "macat": [
-        "annotate"
-    ],
+    "macat": [],
     "MACSQuantifyR": [],
     "MACSr": [
         "ExperimentHub",
@@ -4979,7 +4833,6 @@
         "methylumi",
         "FDb.InfiniumMethylation.hg19",
         "minfi",
-        "annotate",
         "genefilter",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -5069,7 +4922,6 @@
         "CNEr",
         "rtracklayer",
         "readr",
-        "annotate",
         "GO.db"
     ],
     "MBECS": [
@@ -5078,7 +4930,6 @@
         "sva",
         "nloptr",
         "genefilter",
-        "annotate",
         "testthat",
         "waldo"
     ],
@@ -5150,7 +5001,6 @@
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
-        "annotate",
         "readr",
         "FDb.InfiniumMethylation.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
@@ -5165,7 +5015,6 @@
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "GenomicFeatures",
-        "annotate",
         "readr",
         "FDb.InfiniumMethylation.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -5227,8 +5076,7 @@
         "MeSHDbi",
         "Category",
         "GSEABase",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "Metab": [
         "xcms",
@@ -5330,7 +5178,6 @@
         "geneplotter",
         "bsseq",
         "ShortRead",
-        "annotate",
         "plotly",
         "dendextend",
         "BSgenome"
@@ -5390,7 +5237,6 @@
         "genefilter",
         "GEOquery",
         "GenomicFeatures",
-        "annotate",
         "readr",
         "rtracklayer",
         "biomaRt",
@@ -5407,7 +5253,6 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "BSgenome",
         "GenomicFeatures",
-        "annotate",
         "GEOquery",
         "rtracklayer",
         "biomaRt",
@@ -5438,7 +5283,6 @@
         "BiocVersion",
         "GenomicFeatures",
         "AnnotationHubData",
-        "annotate",
         "car",
         "waldo",
         "rtracklayer",
@@ -5470,7 +5314,6 @@
         "ggraph",
         "ggtree",
         "FDb.InfiniumMethylation.hg19",
-        "annotate",
         "genefilter",
         "GenomicFeatures",
         "bumphunter",
@@ -5506,8 +5349,7 @@
     "MethylSeekR": [
         "rtracklayer",
         "BSgenome",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "methylSig": [
         "bsseq",
@@ -5518,7 +5360,6 @@
     "methylumi": [
         "FDb.InfiniumMethylation.hg19",
         "minfi",
-        "annotate",
         "genefilter",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -5540,12 +5381,9 @@
         "ggmcmc",
         "GGally"
     ],
-    "MGFM": [
-        "annotate"
-    ],
+    "MGFM": [],
     "MGFR": [
         "biomaRt",
-        "annotate",
         "BiocFileCache"
     ],
     "mia": [
@@ -5587,7 +5425,6 @@
         "lme4",
         "geneplotter",
         "dendextend",
-        "annotate",
         "nloptr",
         "testthat",
         "waldo"
@@ -5608,7 +5445,6 @@
         "geneplotter",
         "aplot",
         "treeio",
-        "annotate",
         "MultiAssayExperiment",
         "scater",
         "testthat",
@@ -5650,7 +5486,6 @@
         "GSEABase",
         "org.Hs.eg.db",
         "Category",
-        "annotate",
         "genefilter"
     ],
     "miloR": [
@@ -5670,7 +5505,6 @@
     "MineICA": [
         "biomaRt",
         "GOstats",
-        "annotate",
         "Hmisc",
         "lumi",
         "lumiHumanAll.db",
@@ -5695,7 +5529,6 @@
         "genefilter",
         "GEOquery",
         "GenomicFeatures",
-        "annotate",
         "readr",
         "rtracklayer",
         "biomaRt",
@@ -5724,7 +5557,6 @@
         "org.Hs.eg.db",
         "GSEABase",
         "genefilter",
-        "annotate",
         "GO.db",
         "biomaRt",
         "readr",
@@ -5746,7 +5578,6 @@
         "GSEABase",
         "org.Hs.eg.db",
         "dendextend",
-        "annotate",
         "SPONGE",
         "clusterProfiler",
         "ReactomePA",
@@ -5834,7 +5665,6 @@
         "minfi",
         "org.Hs.eg.db",
         "FDb.InfiniumMethylation.hg19",
-        "annotate",
         "genefilter",
         "GenomicFeatures",
         "bumphunter",
@@ -5869,7 +5699,6 @@
     ],
     "mixOmics": [],
     "MLInterfaces": [
-        "annotate",
         "genefilter"
     ],
     "MLSeq": [
@@ -5878,8 +5707,7 @@
         "DESeq2",
         "recipes",
         "geneplotter",
-        "waldo",
-        "annotate"
+        "waldo"
     ],
     "MMDiff2": [
         "BSgenome",
@@ -5918,8 +5746,7 @@
     "mogsa": [
         "graphite",
         "genefilter",
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "MOMA": [
         "MultiAssayExperiment",
@@ -5931,7 +5758,6 @@
         "rtracklayer",
         "CNEr",
         "readr",
-        "annotate",
         "GO.db"
     ],
     "monocle": [],
@@ -5980,7 +5806,6 @@
         "Hmisc",
         "CNEr",
         "readr",
-        "annotate",
         "GO.db"
     ],
     "MotifDb": [
@@ -5992,7 +5817,6 @@
         "rtracklayer",
         "CNEr",
         "readr",
-        "annotate",
         "GO.db"
     ],
     "motifStack": [
@@ -6001,7 +5825,6 @@
         "CNEr",
         "rtracklayer",
         "readr",
-        "annotate",
         "GO.db"
     ],
     "MouseFM": [
@@ -6070,7 +5893,6 @@
         "car",
         "pbkrtest",
         "lme4",
-        "annotate",
         "nloptr",
         "broom",
         "testthat",
@@ -6232,7 +6054,6 @@
         "testthat",
         "HDO.db",
         "fgsea",
-        "annotate",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -6263,7 +6084,6 @@
         "nloptr",
         "ggrastr",
         "pbkrtest",
-        "annotate",
         "testthat",
         "broom",
         "waldo"
@@ -6356,7 +6176,6 @@
         "VariantAnnotation",
         "CNEr",
         "readr",
-        "annotate",
         "GO.db"
     ],
     "NanoMethViz": [
@@ -6386,8 +6205,7 @@
     "NBAMSeq": [
         "DESeq2",
         "genefilter",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "NBSplice": [
         "car",
@@ -6425,8 +6243,7 @@
     ],
     "NetActivity": [
         "DESeq2",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "netboost": [
         "WGCNA",
@@ -6477,8 +6294,7 @@
         "mbkmeans",
         "ggrastr",
         "RNeXML",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "netZooR": [
         "yarn",
@@ -6486,7 +6302,6 @@
         "GO.db",
         "org.Hs.eg.db",
         "Category",
-        "annotate",
         "biomaRt",
         "readr",
         "quantro",
@@ -6549,8 +6364,7 @@
         "broom"
     ],
     "npGSEA": [
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "nucleR": [
         "ShortRead"
@@ -6568,7 +6382,6 @@
         "plotly",
         "rtracklayer",
         "BiocVersion",
-        "annotate",
         "ExperimentHub"
     ],
     "octad": [
@@ -6587,7 +6400,6 @@
         "biomaRt",
         "GenomicFeatures",
         "GSEABase",
-        "annotate",
         "rtracklayer"
     ],
     "ODER": [
@@ -6656,7 +6468,6 @@
         "mice",
         "genefilter",
         "car",
-        "annotate",
         "nloptr",
         "broom",
         "pbkrtest",
@@ -6761,8 +6572,7 @@
     ],
     "oppar": [
         "GSEABase",
-        "GSVA",
-        "annotate"
+        "GSVA"
     ],
     "oppti": [
         "devtools",
@@ -6784,8 +6594,7 @@
         "rtracklayer",
         "BiocFileCache",
         "readr",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "Organism.dplyr": [
         "GenomicFeatures",
@@ -6835,13 +6644,11 @@
         "rtracklayer",
         "biomaRt",
         "dendextend",
-        "BiocFileCache",
-        "annotate"
+        "BiocFileCache"
     ],
     "PAA": [
         "sva",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "padma": [
         "FactoMineR",
@@ -6866,7 +6673,6 @@
         "rtracklayer",
         "CNEr",
         "readr",
-        "annotate",
         "GO.db"
     ],
     "PAIRADISE": [
@@ -6886,7 +6692,6 @@
         "enrichplot",
         "GO.db",
         "GOSemSim",
-        "annotate",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -6920,7 +6725,6 @@
         "devtools",
         "geneplotter",
         "testthat",
-        "annotate",
         "waldo"
     ],
     "pathRender": [],
@@ -6941,7 +6745,6 @@
         "biomaRt",
         "BiocFileCache",
         "geneplotter",
-        "annotate",
         "Category",
         "dendextend",
         "GSEABase"
@@ -6978,8 +6781,7 @@
         "MSnbase"
     ],
     "PECA": [
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "peco": [
         "scater",
@@ -7010,8 +6812,7 @@
         "fgsea",
         "DESeq2",
         "geneplotter",
-        "readr",
-        "annotate"
+        "readr"
     ],
     "PharmacoGx": [
         "CoreGx",
@@ -7031,7 +6832,6 @@
         "waldo"
     ],
     "phenoTest": [
-        "annotate",
         "Hmisc",
         "Category",
         "biomaRt",
@@ -7147,7 +6947,6 @@
         "GO.db",
         "GOstats",
         "Category",
-        "annotate",
         "GSEABase",
         "genefilter"
     ],
@@ -7197,8 +6996,7 @@
         "DESeq2",
         "mixOmics",
         "recipes",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "PoTRA": [
         "org.Hs.eg.db",
@@ -7234,9 +7032,7 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "PREDA": [
-        "annotate"
-    ],
+    "PREDA": [],
     "primirTSS": [
         "rtracklayer",
         "BSgenome.Hsapiens.UCSC.hg38",
@@ -7256,7 +7052,6 @@
         "Hmisc",
         "VariantAnnotation",
         "readr",
-        "annotate",
         "GO.db"
     ],
     "PrInCE": [
@@ -7270,8 +7065,7 @@
         "geneplotter",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
-        "annotate"
+        "BiocFileCache"
     ],
     "proBAMr": [
         "GenomicFeatures",
@@ -7287,7 +7081,6 @@
         "genefilter",
         "Hmisc",
         "GO.db",
-        "annotate",
         "nloptr",
         "testthat",
         "waldo"
@@ -7344,7 +7137,6 @@
         "biomaRt",
         "BiocFileCache",
         "recipes",
-        "annotate",
         "genefilter"
     ],
     "pRolocGUI": [
@@ -7358,17 +7150,14 @@
         "biomaRt",
         "BiocFileCache",
         "recipes",
-        "annotate",
         "genefilter"
     ],
     "PROMISE": [
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "PROPS": [
         "sva",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "Prostar": [
         "DAPAR",
@@ -7413,7 +7202,6 @@
         "FactoMineR",
         "dendextend",
         "car",
-        "annotate",
         "rstatix",
         "pbkrtest",
         "lme4",
@@ -7506,7 +7294,6 @@
     "pwrEWAS": [
         "genefilter",
         "pwrEWAS.data",
-        "annotate",
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
@@ -7530,7 +7317,6 @@
         "waldo"
     ],
     "qpgraph": [
-        "annotate",
         "GenomicFeatures",
         "rtracklayer",
         "biomaRt",
@@ -7560,13 +7346,11 @@
     "qsmooth": [
         "sva",
         "Hmisc",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "qsvaR": [
         "sva",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "quantiseqr": [],
     "quantro": [
@@ -7575,7 +7359,6 @@
         "genefilter",
         "GEOquery",
         "GenomicFeatures",
-        "annotate",
         "readr",
         "rtracklayer",
         "biomaRt",
@@ -7685,8 +7468,7 @@
     ],
     "RcisTarget": [
         "AUCell",
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "RCM": [],
     "Rcpi": [
@@ -7750,7 +7532,6 @@
         "genefilter",
         "GEOquery",
         "GenomicFeatures",
-        "annotate",
         "readr",
         "rtracklayer",
         "biomaRt"
@@ -7782,8 +7563,7 @@
         "HDO.db",
         "GOSemSim",
         "Hmisc",
-        "GO.db",
-        "annotate"
+        "GO.db"
     ],
     "regioneR": [
         "BSgenome",
@@ -7804,7 +7584,6 @@
         "Hmisc",
         "rtracklayer",
         "geneplotter",
-        "annotate",
         "biomaRt",
         "VariantAnnotation",
         "BiocFileCache",
@@ -7839,20 +7618,17 @@
         "genefilter",
         "GEOquery",
         "GenomicFeatures",
-        "annotate",
         "biomaRt"
     ],
     "Repitools": [
         "rtracklayer",
         "BSgenome",
         "Ringo",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "ReportingTools": [
         "Category",
         "GOstats",
-        "annotate",
         "PFAM.db",
         "GSEABase",
         "DESeq2",
@@ -7943,8 +7719,7 @@
         "geneplotter",
         "geneLenDataBase",
         "rtracklayer",
-        "GenomicFeatures",
-        "annotate"
+        "GenomicFeatures"
     ],
     "Rhisat2": [
         "GenomicFeatures",
@@ -7964,8 +7739,7 @@
         "DESeq2",
         "BiocFileCache",
         "readr",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "RiboDiPA": [
         "GenomicFeatures",
@@ -7975,8 +7749,7 @@
         "geneplotter",
         "rtracklayer",
         "biomaRt",
-        "densEstBayes",
-        "annotate"
+        "densEstBayes"
     ],
     "RiboProfiling": [
         "GenomicFeatures",
@@ -8005,7 +7778,6 @@
         "BiocFileCache",
         "CNEr",
         "readr",
-        "annotate",
         "GO.db"
     ],
     "rifi": [
@@ -8019,8 +7791,7 @@
         "waldo"
     ],
     "Ringo": [
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "RIPAT": [
         "biomaRt",
@@ -8084,7 +7855,6 @@
         "geneplotter",
         "testthat",
         "GenomicFeatures",
-        "annotate",
         "rtracklayer",
         "biomaRt",
         "waldo",
@@ -8129,8 +7899,7 @@
         "geneplotter",
         "genefilter",
         "GSEABase",
-        "Category",
-        "annotate"
+        "Category"
     ],
     "RNAmodR": [
         "GenomicFeatures",
@@ -8214,7 +7983,6 @@
         "aplot",
         "ggraph",
         "ggtree",
-        "annotate",
         "rstatix",
         "genefilter",
         "tidygraph",
@@ -8253,7 +8021,6 @@
         "methylumi",
         "FDb.InfiniumMethylation.hg19",
         "minfi",
-        "annotate",
         "genefilter",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -8402,7 +8169,6 @@
     "sampleClassifier": [
         "MGFM",
         "MGFR",
-        "annotate",
         "biomaRt",
         "BiocFileCache"
     ],
@@ -8423,8 +8189,7 @@
         "GEOquery",
         "sva",
         "readr",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "scanMiR": [],
     "scanMiRApp": [
@@ -8468,8 +8233,7 @@
         "DESeq2",
         "geneplotter",
         "plotly",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "scBubbletree": [
         "Seurat",
@@ -8488,8 +8252,7 @@
         "ggraph",
         "Cepo",
         "GSEABase",
-        "tidygraph",
-        "annotate"
+        "tidygraph"
     ],
     "sccomp": [
         "readr"
@@ -8523,8 +8286,7 @@
         "caret",
         "DESeq2",
         "recipes",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "schex": [
         "Seurat",
@@ -8647,7 +8409,6 @@
         "BiocVersion",
         "GSEABase",
         "genefilter",
-        "annotate",
         "HDO.db",
         "fgsea",
         "GOSemSim",
@@ -8668,7 +8429,6 @@
         "plotly",
         "nnTensor",
         "schex",
-        "annotate",
         "Seurat"
     ],
     "scTreeViz": [
@@ -8725,8 +8485,7 @@
         "BiocFileCache"
     ],
     "SemDist": [
-        "GO.db",
-        "annotate"
+        "GO.db"
     ],
     "seq2pathway": [
         "WGCNA",
@@ -8748,8 +8507,7 @@
         "DESeq2",
         "biomaRt",
         "BiocFileCache",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "seqsetvis": [
         "rtracklayer"
@@ -8778,8 +8536,7 @@
         "DESeq2",
         "sva",
         "geneplotter",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "sevenC": [
         "rtracklayer",
@@ -8801,7 +8558,6 @@
         "genefilter",
         "GEOquery",
         "GenomicFeatures",
-        "annotate",
         "readr",
         "biomaRt",
         "BiocFileCache"
@@ -8813,7 +8569,6 @@
         "genefilter",
         "GEOquery",
         "GenomicFeatures",
-        "annotate",
         "readr",
         "rtracklayer",
         "biomaRt",
@@ -8829,7 +8584,6 @@
     ],
     "SigCheck": [
         "MLInterfaces",
-        "annotate",
         "genefilter"
     ],
     "sights": [],
@@ -8848,7 +8602,6 @@
         "HDO.db",
         "AnnotationHub",
         "BiocFileCache",
-        "annotate",
         "BiocVersion",
         "aplot",
         "ggraph",
@@ -8896,7 +8649,6 @@
         "survcomp",
         "biomaRt",
         "rstatix",
-        "annotate",
         "BiocFileCache",
         "car",
         "pbkrtest",
@@ -8914,13 +8666,11 @@
         "BiocFileCache"
     ],
     "SIM": [
-        "globaltest",
-        "annotate"
+        "globaltest"
     ],
     "SimBindProfiles": [
         "Ringo",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "SimBu": [],
     "simpleSeg": [
@@ -8975,7 +8725,6 @@
         "aplot",
         "tidytree",
         "treeio",
-        "annotate",
         "hgu95a.db",
         "ggrastr",
         "M3Drop",
@@ -8999,13 +8748,11 @@
     ],
     "singscore": [
         "GSEABase",
-        "plotly",
-        "annotate"
+        "plotly"
     ],
     "SISPA": [
         "genefilter",
         "GSVA",
-        "annotate",
         "GSEABase"
     ],
     "sitadela": [
@@ -9026,7 +8773,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "minfi",
         "FDb.InfiniumMethylation.hg19",
-        "annotate",
         "genefilter",
         "GenomicFeatures",
         "bumphunter",
@@ -9041,8 +8787,7 @@
         "BiocFileCache"
     ],
     "slalom": [
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "slingshot": [],
     "SMITE": [
@@ -9060,8 +8805,7 @@
     ],
     "snapCGH": [
         "tilingArray",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "snm": [
         "lme4",
@@ -9076,7 +8820,6 @@
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
-        "annotate",
         "biomaRt",
         "BiocFileCache"
     ],
@@ -9113,8 +8856,7 @@
     "sparrow": [
         "BiocSet",
         "GSEABase",
-        "plotly",
-        "annotate"
+        "plotly"
     ],
     "SparseSignatures": [
         "BSgenome",
@@ -9158,7 +8900,6 @@
         "plotly",
         "scater",
         "scran",
-        "annotate",
         "ggrastr",
         "Hmisc",
         "GO.db"
@@ -9175,7 +8916,6 @@
         "CNEr",
         "BiocFileCache",
         "readr",
-        "annotate",
         "GO.db",
         "ensembldb",
         "biovizBase",
@@ -9228,7 +8968,6 @@
         "rtracklayer",
         "heatmaply",
         "BiocVersion",
-        "annotate",
         "dendextend",
         "ExperimentHub"
     ],
@@ -9239,8 +8978,7 @@
         "BiocFileCache"
     ],
     "splineTimeR": [
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "SPLINTER": [
         "biomaRt",
@@ -9309,7 +9047,6 @@
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
-        "annotate",
         "waldo"
     ],
     "sSNAPPY": [
@@ -9356,8 +9093,7 @@
         "cellHTS2",
         "genefilter",
         "GSEABase",
-        "Category",
-        "annotate"
+        "Category"
     ],
     "StarBioTrek": [
         "SpidermiR",
@@ -9438,8 +9174,7 @@
         "waldo"
     ],
     "sva": [
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "svaNUMT": [
         "rtracklayer",
@@ -9520,8 +9255,7 @@
         "geneplotter",
         "aplot",
         "tidytree",
-        "treeio",
-        "annotate"
+        "treeio"
     ],
     "TADCompare": [
         "HiCcompare",
@@ -9571,13 +9305,11 @@
         "geneplotter",
         "GSEABase",
         "plotly",
-        "annotate",
         "genefilter"
     ],
     "TCC": [
         "DESeq2",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "TCGAbiolinks": [
         "biomaRt",
@@ -9650,8 +9382,7 @@
         "biomaRt",
         "DESeq2",
         "BiocFileCache",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "TENxIO": [
         "readr"
@@ -9682,7 +9413,6 @@
         "CNEr",
         "rtracklayer",
         "readr",
-        "annotate",
         "GO.db"
     ],
     "TFEA.ChIP": [
@@ -9702,14 +9432,12 @@
         "rtracklayer",
         "BiocFileCache",
         "readr",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "TFutils": [
         "GSEABase",
         "BiocFileCache",
-        "org.Hs.eg.db",
-        "annotate"
+        "org.Hs.eg.db"
     ],
     "tidybulk": [
         "readr"
@@ -9720,12 +9448,9 @@
     "tidySummarizedExperiment": [
         "plotly"
     ],
-    "tigre": [
-        "annotate"
-    ],
+    "tigre": [],
     "tilingArray": [
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "timeOmics": [
         "mixOmics",
@@ -9757,8 +9482,7 @@
         "GO.db"
     ],
     "TissueEnrich": [
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "TitanCNA": [
         "VariantAnnotation",
@@ -9787,7 +9511,6 @@
         "ggpubr",
         "rstatix",
         "GSEABase",
-        "annotate",
         "broom",
         "car",
         "pbkrtest",
@@ -9864,8 +9587,7 @@
         "org.Hs.eg.db",
         "GOSemSim",
         "geneplotter",
-        "GO.db",
-        "annotate"
+        "GO.db"
     ],
     "transomics2cytoscape": [],
     "TraRe": [
@@ -9932,8 +9654,7 @@
     ],
     "trigger": [
         "sva",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "tripr": [
         "plotly"
@@ -9989,7 +9710,6 @@
         "BSgenome",
         "DESeq2",
         "org.Hs.eg.db",
-        "annotate",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "GenomicFeatures",
         "BiocFileCache",
@@ -10109,8 +9829,7 @@
         "ballgown",
         "sva",
         "rtracklayer",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "VCFArray": [
         "VariantAnnotation",
@@ -10131,8 +9850,7 @@
     "vidger": [
         "DESeq2",
         "GGally",
-        "geneplotter",
-        "annotate"
+        "geneplotter"
     ],
     "ViSEAGO": [
         "biomaRt",
@@ -10153,7 +9871,6 @@
         "textstem",
         "tidygraph",
         "ggraph",
-        "annotate",
         "ExperimentHub",
         "org.Mm.eg.db",
         "org.Hs.eg.db",
@@ -10200,7 +9917,6 @@
         "systemPipeR",
         "GreyListChIP",
         "BiocFileCache",
-        "annotate",
         "BSgenome",
         "ShortRead"
     ],
@@ -10219,7 +9935,6 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "minfi",
         "GenomicFeatures",
-        "annotate",
         "FDb.InfiniumMethylation.hg19",
         "genefilter",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -10259,8 +9974,7 @@
     ],
     "XDE": [
         "genefilter",
-        "GeneMeta",
-        "annotate"
+        "GeneMeta"
     ],
     "Xeva": [
         "PharmacoGx",
@@ -10301,7 +10015,6 @@
         "genefilter",
         "GEOquery",
         "GenomicFeatures",
-        "annotate",
         "rtracklayer"
     ],
     "zenith": [
@@ -10312,7 +10025,6 @@
         "GO.db",
         "graphite",
         "pathview",
-        "annotate",
         "pbkrtest",
         "lmerTest",
         "lme4",
@@ -10324,8 +10036,7 @@
     ],
     "zFPKM": [],
     "zinbwave": [
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "GO.db": [],
     "plotly": [],
@@ -10569,7 +10280,6 @@
         "genefilter",
         "GEOquery",
         "GenomicFeatures",
-        "annotate",
         "readr",
         "rtracklayer",
         "biomaRt",
@@ -10628,8 +10338,7 @@
         "biomaRt",
         "geneplotter",
         "genefilter",
-        "BiocFileCache",
-        "annotate"
+        "BiocFileCache"
     ],
     "hgu133plus2.db": [
         "org.Hs.eg.db"
@@ -10692,7 +10401,6 @@
         "genefilter",
         "GEOquery",
         "GenomicFeatures",
-        "annotate",
         "readr",
         "rtracklayer",
         "biomaRt",
@@ -10704,7 +10412,6 @@
         "genefilter",
         "GEOquery",
         "GenomicFeatures",
-        "annotate",
         "readr",
         "rtracklayer",
         "biomaRt",
@@ -10716,7 +10423,6 @@
         "genefilter",
         "GEOquery",
         "GenomicFeatures",
-        "annotate",
         "readr",
         "rtracklayer",
         "biomaRt",
@@ -10829,7 +10535,6 @@
         "genefilter",
         "GEOquery",
         "GenomicFeatures",
-        "annotate",
         "readr",
         "rtracklayer",
         "biomaRt",
@@ -11064,8 +10769,7 @@
     "SmartSVA": [
         "sva",
         "isva",
-        "genefilter",
-        "annotate"
+        "genefilter"
     ],
     "EnsDb.Hsapiens.v75": [
         "ensembldb",
@@ -11087,7 +10791,6 @@
         "genefilter",
         "GEOquery",
         "GenomicFeatures",
-        "annotate",
         "readr",
         "rtracklayer",
         "biomaRt",
@@ -11330,7 +11033,6 @@
     "GSVAdata": [
         "GSEABase",
         "hgu95a.db",
-        "annotate",
         "org.Hs.eg.db"
     ],
     "SoupX": [
@@ -11408,8 +11110,7 @@
         "org.Hs.eg.db",
         "AnnotationHub",
         "BiocFileCache",
-        "BiocVersion",
-        "annotate"
+        "BiocVersion"
     ],
     "eva": []
 }
