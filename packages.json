@@ -493,9 +493,7 @@
         "ensembldb"
     ],
     "CAGEr": [],
-    "CAMERA": [
-        "xcms"
-    ],
+    "CAMERA": [],
     "canceR": [
         "phenoTest",
         "Category"
@@ -742,9 +740,7 @@
         "GenomicFeatures"
     ],
     "cliProfiler": [],
-    "cliqueMS": [
-        "xcms"
-    ],
+    "cliqueMS": [],
     "CluMSID": [],
     "clusterExperiment": [
         "zinbwave"
@@ -909,7 +905,6 @@
         "HTSFilter"
     ],
     "cosmiq": [
-        "xcms",
         "faahKO"
     ],
     "cosmosR": [],
@@ -1622,7 +1617,6 @@
         "GenomicFeatures"
     ],
     "flagme": [
-        "xcms",
         "CAMERA"
     ],
     "FLAMES": [
@@ -2188,7 +2182,6 @@
         "BiocVersion"
     ],
     "IPO": [
-        "xcms",
         "CAMERA"
     ],
     "IRISFGM": [
@@ -2310,7 +2303,6 @@
         "nloptr"
     ],
     "LOBSTAHS": [
-        "xcms",
         "CAMERA"
     ],
     "LowMACA": [
@@ -2403,7 +2395,6 @@
     "MAIT": [
         "CAMERA",
         "agricolae",
-        "xcms",
         "klaR",
         "questionr",
         "labelled"
@@ -2499,9 +2490,7 @@
     "meshr": [
         "Category"
     ],
-    "Metab": [
-        "xcms"
-    ],
+    "Metab": [],
     "metabCombiner": [],
     "MetaboAnnotation": [
         "QFeatures"
@@ -2533,8 +2522,7 @@
         "EnsDb.Hsapiens.v86"
     ],
     "metaMS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "MetaPhOR": [
         "clusterProfiler",
@@ -2822,9 +2810,7 @@
     ],
     "mnem": [],
     "moanin": [],
-    "MobilityTransformR": [
-        "xcms"
-    ],
+    "MobilityTransformR": [],
     "MODA": [],
     "mogsa": [],
     "MOMA": [],
@@ -3064,9 +3050,7 @@
         "lme4",
         "nloptr"
     ],
-    "ncGTW": [
-        "xcms"
-    ],
+    "ncGTW": [],
     "nearBynding": [
         "plyranges",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -3469,9 +3453,7 @@
         "lme4",
         "nloptr"
     ],
-    "proFIA": [
-        "xcms"
-    ],
+    "proFIA": [],
     "profileplyr": [
         "soGGi",
         "ChIPseeker",
@@ -3826,9 +3808,7 @@
         "VariantAnnotation",
         "ensembldb"
     ],
-    "Risa": [
-        "xcms"
-    ],
+    "Risa": [],
     "RITAN": [
         "BgeeDB",
         "GenomicFeatures",
@@ -4840,7 +4820,6 @@
     "webbioc": [],
     "wiggleplotr": [],
     "wppi": [],
-    "xcms": [],
     "XDE": [],
     "Xeva": [
         "PharmacoGx",
@@ -5099,9 +5078,7 @@
         "GEOquery",
         "GenomicFeatures"
     ],
-    "faahKO": [
-        "xcms"
-    ],
+    "faahKO": [],
     "crisprScoreData": [
         "ExperimentHub",
         "AnnotationHub",
