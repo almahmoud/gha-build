@@ -2660,7 +2660,6 @@
         "rmarkdown",
         "prettydoc",
         "ggplot2",
-        "raster",
         "dplyr",
         "tidyr",
         "DT",
@@ -9596,7 +9595,6 @@
         "flowMeans",
         "flowMerge",
         "ggplot2",
-        "raster",
         "reshape2",
         "sandwich",
         "rms",
@@ -11295,7 +11293,6 @@
         "DelayedArray",
         "viridis",
         "SummarizedExperiment",
-        "raster",
         "ggplot2",
         "ggbeeswarm",
         "svgPanZoom",
@@ -22371,7 +22368,6 @@
         "futile.logger",
         "HDF5Array",
         "DelayedArray",
-        "raster",
         "ggbeeswarm",
         "svgPanZoom",
         "svglite",
@@ -22585,7 +22581,6 @@
         "jquerylib"
     ],
     "infinityFlow": [
-        "raster",
         "uwot",
         "xgboost",
         "dqrng"
@@ -32633,7 +32628,6 @@
         "car",
         "ggplot2",
         "RcmdrMisc",
-        "raster",
         "SummarizedExperiment",
         "ggforce",
         "mgcv",
@@ -45251,7 +45245,6 @@
         "HDF5Array",
         "DelayedArray",
         "viridis",
-        "raster",
         "ggplot2",
         "ggbeeswarm",
         "svgPanZoom",
@@ -46695,7 +46688,6 @@
         "spatstat.geom",
         "alphahull",
         "spatstat.explore",
-        "raster",
         "xROI",
         "elsa",
         "umap",
@@ -47813,7 +47805,6 @@
     "stepNorm": [],
     "stJoincount": [
         "dplyr",
-        "raster",
         "spdep",
         "ggplot2",
         "pheatmap",
@@ -54630,7 +54621,6 @@
         "jquerylib",
         "sass"
     ],
-    "raster": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "GenomeInfoDb",
@@ -60301,7 +60291,6 @@
     "xROI": [
         "colourpicker",
         "lubridate",
-        "raster",
         "rgdal",
         "shiny",
         "shinyjs",
@@ -60319,9 +60308,7 @@
         "vctrs",
         "pillar"
     ],
-    "elsa": [
-        "raster"
-    ],
+    "elsa": [],
     "rgdal": [],
     "miRNAtap.db": [
         "miRNAtap",
