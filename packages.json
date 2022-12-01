@@ -329,7 +329,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "edge": [],
     "ELMER": [
         "ggpubr",
         "rstatix"
