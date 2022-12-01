@@ -6208,7 +6208,6 @@
         "viridis",
         "tibble"
     ],
-    "DMRScan": [],
     "dmrseq": [
         "bsseq",
         "ggplot2",
