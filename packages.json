@@ -32906,7 +32906,6 @@
         "shinydashboard",
         "biomaRt",
         "callr",
-        "logr",
         "AnnotationDbi",
         "progress",
         "httr",
@@ -79325,7 +79324,6 @@
         "jquerylib",
         "memoise"
     ],
-    "logr": [],
     "learnr": [
         "ellipsis",
         "htmlwidgets",
