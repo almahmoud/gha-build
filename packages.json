@@ -1808,7 +1808,6 @@
         "VariantAnnotation",
         "GenomicFeatures"
     ],
-    "GWENA": [],
     "HelloRanges": [
         "GenomicFeatures",
         "VariantAnnotation"
