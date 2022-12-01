@@ -22596,7 +22596,6 @@
     "survtype": [
         "SummarizedExperiment",
         "survminer",
-        "clustvarsel",
         "ggplot2",
         "ggpubr",
         "broom",
@@ -28065,7 +28064,6 @@
         "tibble",
         "tidyr"
     ],
-    "clustvarsel": [],
     "gstat": [
         "sf",
         "sftime",
