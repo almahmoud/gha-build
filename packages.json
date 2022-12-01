@@ -943,7 +943,6 @@
     "DrugVsDisease": [],
     "DSS": [],
     "easier": [
-        "progeny",
         "easierData",
         "ggpubr",
         "rstatix",
@@ -2563,7 +2562,6 @@
         "rGREAT",
         "enrichplot"
     ],
-    "progeny": [],
     "pRolocGUI": [],
     "PROPS": [],
     "Prostar": [],
