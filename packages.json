@@ -551,7 +551,6 @@
         "testthat",
         "waldo"
     ],
-    "bacon": [],
     "BadRegionFinder": [
         "VariantAnnotation",
         "biomaRt",
