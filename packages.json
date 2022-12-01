@@ -269,7 +269,6 @@
         "readr"
     ],
     "arrayQualityMetrics": [
-        "beadarray",
         "genefilter",
         "Hmisc"
     ],
@@ -489,7 +488,6 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "beadarray": [],
     "BEARscc": [],
     "BEAT": [
         "ShortRead",
@@ -781,9 +779,7 @@
         "geneplotter",
         "genefilter"
     ],
-    "blima": [
-        "beadarray"
-    ],
+    "blima": [],
     "BLMA": [
         "PADOG",
         "hgu133plus2.db",
@@ -2698,9 +2694,7 @@
         "testthat",
         "waldo"
     ],
-    "epigenomix": [
-        "beadarray"
-    ],
+    "epigenomix": [],
     "epigraHMM": [
         "rtracklayer",
         "ggpubr",
