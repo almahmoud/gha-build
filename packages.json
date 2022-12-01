@@ -324,7 +324,6 @@
         "BiocVersion"
     ],
     "hpar": [],
-    "iCheck": [],
     "InTAD": [],
     "InterCellar": [
         "factoextra"
