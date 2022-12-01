@@ -122,7 +122,6 @@
         "OrganismDbi",
         "BiocVersion"
     ],
-    "ArrayExpress": [],
     "ArrayExpressHTS": [],
     "arrayMvout": [
         "lumi",
@@ -1288,7 +1287,6 @@
         "GenomicFeatures"
     ],
     "DrugVsDisease": [
-        "ArrayExpress",
         "GEOquery"
     ],
     "DSS": [
