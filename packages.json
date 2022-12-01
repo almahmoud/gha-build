@@ -6089,9 +6089,7 @@
     "flowAI": [
         "ggplot2"
     ],
-    "flowBin": [
-        "flowFP"
-    ],
+    "flowBin": [],
     "flowcatchR": [
         "plotly",
         "ggplot2",
@@ -6141,7 +6139,6 @@
         "waldo",
         "rematch2"
     ],
-    "flowFP": [],
     "flowGraph": [
         "ggiraph",
         "ggrepel",
@@ -6414,9 +6411,7 @@
         "prodlim",
         "broom"
     ],
-    "GateFinder": [
-        "flowFP"
-    ],
+    "GateFinder": [],
     "GBScleanR": [
         "ggplot2",
         "tidyr",
