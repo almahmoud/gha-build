@@ -15765,7 +15765,6 @@
         "doParallel",
         "dplyr",
         "glmnet",
-        "rpart.plot",
         "flowCore",
         "foreach",
         "lifecycle",
@@ -80443,7 +80442,6 @@
     ],
     "MBA": [],
     "spam": [],
-    "rpart.plot": [],
     "shinyFeedback": [
         "fontawesome",
         "htmltools",
