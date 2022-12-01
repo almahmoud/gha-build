@@ -48971,7 +48971,6 @@
         "RCurl"
     ],
     "pwOmics": [
-        "rBiopaxParser",
         "igraph",
         "STRINGdb",
         "gplots",
@@ -50113,7 +50112,6 @@
     "RBioinf": [
         "graph"
     ],
-    "rBiopaxParser": [],
     "RBM": [],
     "Rbowtie2": [
         "Rsamtools",
