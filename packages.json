@@ -18199,7 +18199,6 @@
         "MatrixGenerics",
         "DelayedArray"
     ],
-    "daMA": [],
     "DAMEfinder": [
         "GenomeInfoDb",
         "GenomicRanges",
