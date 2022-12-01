@@ -8572,7 +8572,6 @@
         "optimr",
         "VGAM",
         "numDeriv",
-        "trust",
         "detectseparation",
         "scales",
         "gtable",
@@ -121863,7 +121862,6 @@
     ],
     "SDAMS": [
         "SummarizedExperiment",
-        "trust",
         "qvalue",
         "ggplot2",
         "reshape2",
@@ -152455,7 +152453,6 @@
         "VGAM",
         "numDeriv",
         "ggplot2",
-        "trust",
         "dplyr",
         "magrittr",
         "detectseparation",
@@ -152564,7 +152561,6 @@
         "Rcgmin"
     ],
     "VGAM": [],
-    "trust": [],
     "detectseparation": [
         "ROI",
         "ROI.plugin.lpsolve",
