@@ -14455,7 +14455,6 @@
     "breakpointR": [
         "GenomicRanges",
         "cowplot",
-        "breakpointRdata",
         "S4Vectors",
         "GenomeInfoDb",
         "IRanges",
@@ -159035,7 +159034,6 @@
         "DelayedArray",
         "lattice"
     ],
-    "breakpointRdata": [],
     "WriteXLS": [],
     "devtools": [
         "usethis",
