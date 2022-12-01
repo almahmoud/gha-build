@@ -4606,7 +4606,6 @@
         "BiBitR",
         "rqubic",
         "subspace",
-        "SOMbrero",
         "miRspongeR",
         "GSEABase",
         "SPONGE",
@@ -8936,7 +8935,6 @@
     "s4vd": [],
     "BiBitR": [],
     "subspace": [],
-    "SOMbrero": [],
     "cvms": [
         "lme4",
         "nloptr",
