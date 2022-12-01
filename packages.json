@@ -83,7 +83,6 @@
         "VariantAnnotation",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "Homo.sapiens",
-        "XtraSNPlocs.Hsapiens.dbSNP144.GRCh37",
         "MafDb.1Kgenomes.phase3.hs37d5",
         "MafDb.ExAC.r1.0.hs37d5",
         "MafDb.gnomADex.r2.1.hs37d5",
@@ -3535,7 +3534,6 @@
         "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "XtraSNPlocs.Hsapiens.dbSNP144.GRCh37": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [
         "GenomicScores",
         "AnnotationHub",
