@@ -17881,7 +17881,6 @@
         "survival",
         "glmnet"
     ],
-    "GSALightning": [],
     "GSAR": [],
     "GSCA": [
         "shiny",
