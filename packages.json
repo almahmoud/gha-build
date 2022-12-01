@@ -655,9 +655,7 @@
         "BiocVersion"
     ],
     "hpar": [],
-    "HTSeqGenie": [
-        "VariantTools"
-    ],
+    "HTSeqGenie": [],
     "iCheck": [
         "lumi",
         "methylumi"
@@ -1515,7 +1513,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "VariantTools": [],
     "VCFArray": [
         "GenomicFiles"
     ],
