@@ -1009,7 +1009,6 @@
     "miRSM": [
         "miRspongeR",
         "SPONGE",
-        "cvms",
         "ggpubr",
         "rstatix",
         "car",
@@ -1017,7 +1016,6 @@
     ],
     "miRspongeR": [
         "SPONGE",
-        "cvms",
         "ggpubr",
         "rstatix",
         "car",
@@ -1630,7 +1628,6 @@
         "Gviz"
     ],
     "SPONGE": [
-        "cvms",
         "ggpubr",
         "rstatix",
         "car",
@@ -1957,7 +1954,6 @@
         "BiocVersion",
         "BiocCheck"
     ],
-    "cvms": [],
     "blme": [],
     "mppa": [],
     "RcmdrMisc": [
