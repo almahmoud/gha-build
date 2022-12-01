@@ -1200,7 +1200,6 @@
     "cn.farms": [
         "oligo"
     ],
-    "cn.mops": [],
     "CNEr": [
         "readr"
     ],
@@ -1217,7 +1216,6 @@
         "karyoploteR",
         "CopyNumberPlots",
         "VariantAnnotation",
-        "cn.mops",
         "biovizBase",
         "GenomicFeatures",
         "BSgenome",
@@ -1229,7 +1227,6 @@
         "CopyNumberPlots",
         "regioneR",
         "VariantAnnotation",
-        "cn.mops",
         "biovizBase",
         "GenomicFeatures",
         "ensembldb",
@@ -1411,7 +1408,6 @@
         "karyoploteR",
         "regioneR",
         "VariantAnnotation",
-        "cn.mops",
         "biovizBase",
         "GenomicFeatures",
         "BSgenome",
@@ -5226,9 +5222,7 @@
         "testthat",
         "waldo"
     ],
-    "panelcn.mops": [
-        "cn.mops"
-    ],
+    "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler",
         "GSEABase",
