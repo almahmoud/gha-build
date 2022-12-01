@@ -68703,7 +68703,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "mvtnorm",
-        "geigen",
         "iterators",
         "Matrix",
         "igraph",
@@ -118314,16 +118313,13 @@
     "circular": [
         "mvtnorm"
     ],
-    "conicfit": [
-        "geigen"
-    ],
+    "conicfit": [],
     "genlasso": [
         "Matrix",
         "igraph",
         "magrittr",
         "rlang"
     ],
-    "geigen": [],
     "protolite": [
         "Rcpp"
     ],
