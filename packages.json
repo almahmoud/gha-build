@@ -28463,7 +28463,6 @@
     "GenProSeq": [
         "keras",
         "tensorflow",
-        "word2vec",
         "DeepPINCS",
         "ttgsea",
         "CatEncoders",
@@ -86210,7 +86209,6 @@
     "gdtools": [
         "systemfonts"
     ],
-    "word2vec": [],
     "robust": [
         "rrcov",
         "pcaPP"
