@@ -609,7 +609,6 @@
         "ggpubr",
         "megadepth",
         "rstatix",
-        "cmdfun",
         "car",
         "pbkrtest",
         "lme4"
@@ -1408,12 +1407,8 @@
         "pbkrtest",
         "lme4"
     ],
-    "megadepth": [
-        "cmdfun"
-    ],
-    "memes": [
-        "cmdfun"
-    ],
+    "megadepth": [],
+    "memes": [],
     "meshes": [
         "AnnotationHub",
         "BiocVersion"
@@ -1799,7 +1794,6 @@
         "megadepth",
         "GenomicFiles",
         "rstatix",
-        "cmdfun",
         "VariantAnnotation",
         "car",
         "pbkrtest",
@@ -2903,7 +2897,6 @@
     "arm": [
         "lme4"
     ],
-    "cmdfun": [],
     "rsq": [
         "lme4"
     ],
