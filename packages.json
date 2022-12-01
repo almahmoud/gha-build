@@ -868,14 +868,12 @@
     "Maaslin2": [
         "car",
         "lmerTest",
-        "glmmTMB",
         "pbkrtest"
     ],
     "Macarron": [
         "Maaslin2",
         "car",
         "lmerTest",
-        "glmmTMB",
         "pbkrtest"
     ],
     "MACSr": [
@@ -1052,7 +1050,6 @@
         "Maaslin2",
         "car",
         "lmerTest",
-        "glmmTMB",
         "pbkrtest"
     ],
     "MoonlightR": [],
@@ -1116,7 +1113,6 @@
     "MungeSumstats": [],
     "muscat": [
         "blme",
-        "glmmTMB",
         "lmerTest",
         "scater",
         "variancePartition",
@@ -1960,7 +1956,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "glmmTMB": [],
     "depmap": [
         "ExperimentHub",
         "AnnotationHub",
