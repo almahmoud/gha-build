@@ -354,7 +354,6 @@
         "miniUI"
     ],
     "AnVILBilling": [
-        "bigrquery",
         "shinytoastr",
         "plotly",
         "tidyr"
@@ -1083,7 +1082,6 @@
         "AnnotationDbi"
     ],
     "BiocOncoTK": [
-        "bigrquery",
         "GenomicFeatures",
         "curatedTCGAData",
         "ggpubr",
@@ -12567,7 +12565,6 @@
     "restfulSE": [
         "AnnotationDbi",
         "GO.db",
-        "bigrquery",
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
@@ -15573,7 +15570,6 @@
         "BiocFileCache",
         "AnnotationHub",
         "GO.db",
-        "bigrquery",
         "ExperimentHub",
         "BiocVersion",
         "interactiveDisplayBase",
@@ -16802,7 +16798,6 @@
     "hardhat": [],
     "ipred": [],
     "miniUI": [],
-    "bigrquery": [],
     "shinytoastr": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi"
