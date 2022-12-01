@@ -12,8 +12,7 @@ jobs:
       matrix: ${{ steps.matrix.outputs.pkglist }}
     steps:
       - uses: actions/checkout@v3
-        with:
-          persist-credentials: false
+
       - name: Initialize if necessary
         id: claim
         uses: nick-fields/retry@v2
@@ -30,8 +29,9 @@ jobs:
 
       - id: matrix
         run: |
-          echo pkglist=$(echo "['$(head -n200 tobuild.txt |  paste -d, -s | sed s/,/\',\'/g)']") >> $GITHUB_OUTPUT
-          sed '1,200d' tobuild.txt > newtobuild && mv newtobuild tobuild.txt
+          echo pkglist=$(echo "['$(head -n90 tobuild.txt |  paste -d, -s | sed s/,/\',\'/g)']") >> $GITHUB_OUTPUT
+          mkdir -p /tmp
+          sed '1,90d' tobuild.txt > /tmp/newtobuild
 
       - id: tokenlist
         run: |
@@ -54,6 +54,7 @@ jobs:
             set -x
             git config --global --add safe.directory "$GITHUB_WORKSPACE"
             git pull origin main || git reset --hard origin/main
+            cp /tmp/newtobuild tobuild.txt
             git config user.name github-actions
             git config user.email github-actions@github.com
             git add tobuild.txt
@@ -78,42 +79,11 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           job_name: build (${{ matrix.pkg }})
+          per_page: 100
 
       - id: checkurl
         run: |
           JOBURL="${{ steps.jobs.outputs.html_url }}"
-          mkdir -p logs/run_ids/container
-          if [ "$JOBURL" = "null" ]; then sleep 20; exit 1; else echo "$JOBURL" >> logs/run_ids/container/${{ matrix.pkg }}; exit 0; fi
-        continue-on-error: true
-
-      - name: Get Current Job Log URL x2
-        uses: Tiryoh/gha-jobid-action@v0
-        if: steps.checkurl.outcome=='failure'
-        id: jobs2
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          job_name: build (${{ matrix.pkg }})
-
-      - id: checkurl2
-        if: steps.checkurl.outcome=='failure'
-        run: |
-          JOBURL="${{ steps.jobs2.outputs.html_url }}"
-          mkdir -p logs/run_ids/container
-          if [ "$JOBURL" = "null" ]; then sleep 20; exit 1; else echo "$JOBURL" >> logs/run_ids/container/${{ matrix.pkg }}; exit 0; fi
-        continue-on-error: true
-
-      - name: Get Current Job Log URL x3
-        uses: Tiryoh/gha-jobid-action@v0
-        if: steps.checkurl2.outcome=='failure'
-        id: jobs3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          job_name: build (${{ matrix.pkg }})
-
-      - id: checkurl3
-        if: steps.checkurl2.outcome=='failure'
-        run: |
-          JOBURL="${{ steps.jobs3.outputs.html_url }}"
           mkdir -p logs/run_ids/container
           if [ "$JOBURL" = "null" ]; then sleep 20; exit 1; else echo "$JOBURL" >> logs/run_ids/container/${{ matrix.pkg }}; exit 0; fi
 
