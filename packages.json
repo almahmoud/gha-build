@@ -4752,7 +4752,6 @@
     "Voyager": [
         "SpatialFeatureExperiment"
     ],
-    "vsclust": [],
     "vtpnet": [
         "gwascat",
         "GenomicFeatures",
