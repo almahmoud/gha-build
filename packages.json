@@ -1459,7 +1459,6 @@
         "tidyr",
         "Matrix",
         "bit64",
-        "gmp",
         "Rmpfr",
         "osqp",
         "RcppEigen",
@@ -5140,7 +5139,6 @@
         "rhdf5",
         "XVector",
         "bit64",
-        "gmp",
         "Rmpfr",
         "osqp",
         "expm",
@@ -13313,7 +13311,6 @@
         "httr",
         "tibble",
         "futile.logger",
-        "gmp",
         "AnnotationDbi",
         "annotate",
         "survival",
@@ -31461,7 +31458,6 @@
         "TH.data",
         "sandwich",
         "stringr",
-        "gmp",
         "httpuv",
         "fontawesome",
         "later",
@@ -41091,7 +41087,6 @@
         "stringr",
         "tibble",
         "futile.logger",
-        "gmp",
         "ggplot2",
         "lifecycle",
         "MatrixGenerics",
@@ -45014,7 +45009,6 @@
         "sp",
         "ggplotify",
         "bit64",
-        "gmp",
         "Rmpfr",
         "osqp",
         "RcppEigen",
@@ -47133,7 +47127,6 @@
         "NMI",
         "zoo",
         "ClusterR",
-        "gmp",
         "ggplot2",
         "lifecycle",
         "RcppArmadillo",
@@ -48417,7 +48410,6 @@
         "AnnotationDbi",
         "plyr",
         "Rmpfr",
-        "gmp",
         "Biobase",
         "IRanges",
         "RSQLite",
@@ -51828,7 +51820,6 @@
         "benchmarkmeData",
         "dplyr",
         "httr",
-        "gmp",
         "sitmo",
         "lambda.r",
         "AnnotationDbi",
@@ -56394,7 +56385,6 @@
         "crosstalk",
         "purrr",
         "promises",
-        "gmp",
         "Rmpfr",
         "kSamples",
         "BWStest",
@@ -57770,7 +57760,6 @@
         "rARPACK",
         "gridExtra",
         "Rmpfr",
-        "gmp",
         "bslib",
         "htmltools",
         "jquerylib",
@@ -61155,7 +61144,6 @@
         "DelayedArray"
     ],
     "rain": [
-        "gmp",
         "multtest",
         "Biobase",
         "survival",
@@ -61271,8 +61259,7 @@
         "Rdpack"
     ],
     "RankProd": [
-        "Rmpfr",
-        "gmp"
+        "Rmpfr"
     ],
     "RAREsim": [
         "nloptr",
@@ -71966,7 +71953,6 @@
         "rngtools",
         "doParallel",
         "Biobase",
-        "gmp",
         "Rmpfr",
         "kSamples",
         "BWStest",
@@ -73315,7 +73301,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "gmp",
         "ellipsis",
         "purrr"
     ],
@@ -77611,7 +77596,6 @@
         "mgcv",
         "scales",
         "Rmpfr",
-        "gmp",
         "plyr",
         "stringr",
         "ellipsis",
@@ -80564,7 +80548,6 @@
         "GO.db",
         "caTools",
         "Rmpfr",
-        "gmp",
         "graph",
         "RSQLite",
         "KEGGREST",
@@ -84170,7 +84153,6 @@
         "mgcv",
         "scales",
         "httr",
-        "gmp",
         "Rmpfr",
         "kSamples",
         "BWStest",
@@ -85728,7 +85710,6 @@
     "CVXR": [
         "Matrix",
         "bit64",
-        "gmp",
         "Rmpfr",
         "osqp",
         "RcppEigen"
@@ -85781,10 +85762,7 @@
         "diffobj",
         "rematch2"
     ],
-    "gmp": [],
-    "Rmpfr": [
-        "gmp"
-    ],
+    "Rmpfr": [],
     "osqp": [
         "Matrix"
     ],
@@ -90610,7 +90588,6 @@
         "askpass"
     ],
     "ClusterR": [
-        "gmp",
         "ggplot2",
         "lifecycle",
         "RcppArmadillo",
@@ -92872,7 +92849,6 @@
         "sandwich",
         "plyr",
         "stringr",
-        "gmp",
         "httpuv",
         "fontawesome",
         "later",
@@ -95561,7 +95537,6 @@
     ],
     "celestial": [],
     "PMCMRplus": [
-        "gmp",
         "Rmpfr",
         "kSamples",
         "BWStest",
@@ -97164,9 +97139,7 @@
         "lifecycle"
     ],
     "mixsmsn": [],
-    "RcppAlgos": [
-        "gmp"
-    ],
+    "RcppAlgos": [],
     "sampSurf": [],
     "spdep": [
         "sp",
