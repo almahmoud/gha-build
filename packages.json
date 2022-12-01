@@ -26689,7 +26689,6 @@
         "BiocParallel",
         "dplyr",
         "ggplot2",
-        "GeneNet",
         "GENIE3",
         "psych",
         "tibble",
@@ -30998,7 +30997,6 @@
         "tidyselect"
     ],
     "nethet": [
-        "GeneNet",
         "huge",
         "ggm",
         "multtest",
@@ -45241,7 +45239,6 @@
     "splineTimeR": [
         "igraph",
         "GSEABase",
-        "GeneNet",
         "annotate",
         "AnnotationDbi",
         "httr",
@@ -56407,7 +56404,6 @@
     "PerformanceAnalytics": [
         "xts"
     ],
-    "GeneNet": [],
     "ggmcmc": [
         "dplyr",
         "tidyr",
