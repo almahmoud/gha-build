@@ -6284,7 +6284,6 @@
     "multiHiCcompare": [
         "HiCcompare"
     ],
-    "multiMiR": [],
     "multiSight": [
         "anyLib",
         "caret",
