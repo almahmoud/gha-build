@@ -755,7 +755,6 @@
         "clusterProfiler"
     ],
     "EGAD": [],
-    "EGSEA": [],
     "ELMER": [
         "Gviz",
         "ggpubr",
