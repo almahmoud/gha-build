@@ -58661,7 +58661,6 @@
         "sass",
         "base64enc"
     ],
-    "ISoLDE": [],
     "isomiRs": [
         "SummarizedExperiment",
         "AnnotationDbi",
