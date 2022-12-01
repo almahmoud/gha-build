@@ -32753,8 +32753,7 @@
         "XVector"
     ],
     "TileDBArray": [
-        "tiledb",
-        "nanotime"
+        "tiledb"
     ],
     "tilingArray": [
         "vsn",
@@ -39722,10 +39721,7 @@
         "tidyselect",
         "pillar"
     ],
-    "tiledb": [
-        "nanotime"
-    ],
-    "nanotime": [],
+    "tiledb": [],
     "FreqProf": [
         "ggplot2",
         "shiny",
