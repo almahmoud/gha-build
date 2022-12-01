@@ -913,7 +913,6 @@
         "GGally",
         "Hmisc",
         "plotly",
-        "shinycssloaders",
         "tidyr",
         "viridis"
     ],
@@ -1699,9 +1698,7 @@
         "biomaRt",
         "GenomicAlignments"
     ],
-    "cbpManager": [
-        "shinycssloaders"
-    ],
+    "cbpManager": [],
     "ccfindR": [],
     "ccmap": [
         "AnnotationDbi"
@@ -2196,7 +2193,6 @@
         "rtracklayer",
         "shinyWidgets",
         "shinydashboardPlus",
-        "shinycssloaders",
         "plotly",
         "kableExtra",
         "viridis",
@@ -3070,7 +3066,6 @@
         "ggrepel",
         "highcharter",
         "readxl",
-        "shinycssloaders",
         "BiocFileCache",
         "BiocVersion",
         "broom",
@@ -3754,7 +3749,6 @@
     "DiscoRhythm": [
         "ggExtra",
         "broom",
-        "shinycssloaders",
         "BiocStyle",
         "kableExtra",
         "UpSetR",
@@ -5470,7 +5464,6 @@
         "ggrepel",
         "GO.db",
         "plotly",
-        "shinycssloaders",
         "shinyWidgets",
         "tidyr",
         "tippy",
@@ -6710,7 +6703,6 @@
     ],
     "InterCellar": [
         "golem",
-        "shinycssloaders",
         "tidyr",
         "colourpicker",
         "dendextend",
@@ -7033,7 +7025,6 @@
     "kissDE": [
         "DESeq2",
         "DSS",
-        "shinycssloaders",
         "factoextra",
         "geneplotter",
         "bsseq",
@@ -8241,7 +8232,6 @@
         "phyloseq"
     ],
     "microbiomeExplorer": [
-        "shinycssloaders",
         "shinyWidgets",
         "DESeq2",
         "tidyr",
@@ -9903,7 +9893,6 @@
         "plotly",
         "fgsea",
         "ggseqlogo",
-        "shinycssloaders",
         "cowplot",
         "tidyr",
         "ggpubr",
@@ -10321,7 +10310,6 @@
     ],
     "peakPantheR": [
         "MSnbase",
-        "shinycssloaders",
         "vsn"
     ],
     "PECA": [
@@ -10930,7 +10918,6 @@
         "DAPAR",
         "DAPARdata",
         "highcharter",
-        "shinycssloaders",
         "shinyjqui",
         "MSnbase",
         "broom",
@@ -12213,8 +12200,7 @@
         "phyloseq"
     ],
     "rprimer": [
-        "patchwork",
-        "shinycssloaders"
+        "patchwork"
     ],
     "rpx": [
         "BiocFileCache",
@@ -12404,7 +12390,6 @@
     "sangeranalyseR": [
         "DECIPHER",
         "plotly",
-        "shinycssloaders",
         "ggdendro",
         "shinyWidgets",
         "BiocStyle",
@@ -12455,7 +12440,6 @@
         "rtracklayer",
         "scanMiR",
         "scanMiRData",
-        "shinycssloaders",
         "shinyjqui",
         "BiocFileCache",
         "BiocVersion",
@@ -13068,7 +13052,6 @@
         "plotly",
         "rtracklayer",
         "shinyWidgets",
-        "shinycssloaders",
         "tidyr",
         "viridis",
         "dendextend",
@@ -13173,7 +13156,6 @@
         "ggpubr",
         "cowplot",
         "readr",
-        "shinycssloaders",
         "shinyWidgets",
         "tidyr",
         "BiocFileCache",
@@ -13325,7 +13307,6 @@
         "sva",
         "enrichR",
         "celda",
-        "shinycssloaders",
         "DropletUtils",
         "scds",
         "fishpond",
@@ -13578,7 +13559,6 @@
         "ggiraph",
         "ggrepel",
         "readr",
-        "shinycssloaders",
         "shinyWidgets",
         "tidyr"
     ],
@@ -14923,7 +14903,6 @@
     ],
     "uncoverappLib": [
         "shinyWidgets",
-        "shinycssloaders",
         "Gviz",
         "Homo.sapiens",
         "condformat",
@@ -15001,7 +14980,6 @@
     ],
     "VarCon": [
         "BSgenome",
-        "shinycssloaders",
         "rtracklayer",
         "GenomicAlignments"
     ],
@@ -15783,7 +15761,6 @@
         "GenomicAlignments",
         "dbplyr"
     ],
-    "shinycssloaders": [],
     "ggforce": [],
     "radiant.data": [
         "tidyr",
