@@ -2798,7 +2798,6 @@
         "XVector"
     ],
     "BiGGR": [
-        "rsbml",
         "hyperdraw"
     ],
     "bigmelon": [
@@ -34918,7 +34917,6 @@
         "XVector",
         "BiocParallel"
     ],
-    "rsbml": [],
     "rScudo": [
         "SummarizedExperiment",
         "GenomicRanges",
