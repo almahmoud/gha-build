@@ -2365,7 +2365,6 @@
     "seqCAT": [
         "VariantAnnotation"
     ],
-    "SeqGSEA": [],
     "SeqSQC": [
         "ExperimentHub",
         "AnnotationHub",
