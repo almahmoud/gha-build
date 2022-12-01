@@ -710,7 +710,6 @@
         "BSgenome.Hsapiens.UCSC.hg38",
         "BSgenome"
     ],
-    "breakpointR": [],
     "brendaDb": [],
     "BRGenomics": [
         "DESeq2",
