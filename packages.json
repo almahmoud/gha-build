@@ -3074,9 +3074,7 @@
         "biomaRt"
     ],
     "KEGGlincs": [],
-    "keggorthology": [
-        "hgu95av2.db"
-    ],
+    "keggorthology": [],
     "kissDE": [
         "DESeq2",
         "DSS",
@@ -7086,7 +7084,6 @@
         "haven"
     ],
     "pd.mapping50k.xba240": [],
-    "hgu95av2.db": [],
     "reldist": [],
     "adabag": [
         "caret"
