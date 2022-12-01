@@ -217,7 +217,6 @@
         "caret",
         "plotly",
         "MultiAssayExperiment",
-        "plotROC",
         "GUniFrac",
         "recipes",
         "geneplotter",
@@ -7212,7 +7211,6 @@
         "ANCOMBC",
         "caret",
         "ALDEx2",
-        "plotROC",
         "mia",
         "DescTools",
         "Hmisc",
@@ -13528,7 +13526,6 @@
         "ipred",
         "tidyr"
     ],
-    "plotROC": [],
     "GUniFrac": [],
     "recipes": [
         "ipred",
