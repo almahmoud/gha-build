@@ -7353,7 +7353,6 @@
         "MultiAssayExperiment",
         "biomaRt",
         "clusterProfiler",
-        "gghighlight",
         "DOSE",
         "enrichplot",
         "GOSemSim",
@@ -8608,7 +8607,6 @@
     "gstat": [],
     "SpatialExtremes": [],
     "GenKern": [],
-    "gghighlight": [],
     "bestNormalize": [],
     "naniar": [
         "visdat",
