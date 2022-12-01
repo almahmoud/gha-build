@@ -2963,7 +2963,6 @@
         "textstem",
         "textclean"
     ],
-    "txcutr": [],
     "tximeta": [
         "AnnotationHub",
         "BiocVersion"
