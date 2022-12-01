@@ -5793,9 +5793,7 @@
         "readr",
         "BiocFileCache"
     ],
-    "miRNAmeConverter": [
-        "miRBaseVersions.db"
-    ],
+    "miRNAmeConverter": [],
     "miRNAtap": [],
     "miRSM": [
         "WGCNA",
@@ -11261,7 +11259,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "miRBaseVersions.db": [],
     "s4vd": [
         "biclust"
     ],
