@@ -2207,7 +2207,6 @@
         "pbkrtest",
         "lme4",
         "GEOmap",
-        "fields",
         "nloptr",
         "broom",
         "testthat",
@@ -2360,7 +2359,6 @@
         "pbkrtest",
         "lme4",
         "GEOmap",
-        "fields",
         "nloptr",
         "broom",
         "testthat",
@@ -2719,9 +2717,7 @@
         "biomaRt"
     ],
     "DNAfusion": [],
-    "DNAshapeR": [
-        "fields"
-    ],
+    "DNAshapeR": [],
     "DominoEffect": [
         "biomaRt",
         "VariantAnnotation",
@@ -3536,7 +3532,6 @@
         "pbkrtest",
         "lme4",
         "GEOmap",
-        "fields",
         "nloptr",
         "broom",
         "testthat",
@@ -3548,7 +3543,6 @@
         "pbkrtest",
         "lme4",
         "GEOmap",
-        "fields",
         "nloptr",
         "broom",
         "testthat",
@@ -4545,7 +4539,6 @@
     ],
     "iCNV": [
         "CODEX",
-        "fields",
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome",
         "rtracklayer"
@@ -5135,7 +5128,6 @@
         "RnBeads",
         "crlmm",
         "bigstatsr",
-        "fields",
         "methylumi",
         "FDb.InfiniumMethylation.hg19",
         "minfi",
@@ -5195,7 +5187,6 @@
         "klaR",
         "Hmisc",
         "recipes",
-        "fields",
         "MSnbase",
         "questionr",
         "labelled",
@@ -5488,7 +5479,6 @@
         "treeio"
     ],
     "metapone": [
-        "fields",
         "fgsea"
     ],
     "metaseqR2": [
@@ -6375,9 +6365,7 @@
     "MuData": [
         "MultiAssayExperiment"
     ],
-    "Mulcom": [
-        "fields"
-    ],
+    "Mulcom": [],
     "MultiAssayExperiment": [],
     "MultiBaC": [
         "MultiAssayExperiment",
@@ -7192,7 +7180,6 @@
         "fgsea",
         "ggpubr",
         "broom",
-        "fields",
         "BiocFileCache",
         "rstatix",
         "car",
@@ -7218,9 +7205,7 @@
         "scuttle",
         "ggrastr"
     ],
-    "pepStat": [
-        "fields"
-    ],
+    "pepStat": [],
     "PERFect": [],
     "periodicDNA": [
         "BSgenome",
@@ -8513,7 +8498,6 @@
         "waldo"
     ],
     "RnBeads": [
-        "fields",
         "methylumi",
         "FDb.InfiniumMethylation.hg19",
         "minfi",
@@ -8773,7 +8757,6 @@
         "ggrastr"
     ],
     "scDD": [
-        "fields",
         "EBSeq",
         "arm",
         "scran",
@@ -8923,7 +8906,6 @@
         "GSEABase",
         "genefilter",
         "annotate",
-        "fields",
         "HDO.db",
         "fgsea",
         "GOSemSim",
@@ -8949,7 +8931,6 @@
         "msigdbr",
         "schex",
         "annotate",
-        "fields",
         "Seurat"
     ],
     "scTreeViz": [
@@ -9223,9 +9204,7 @@
         "GO.db",
         "org.Hs.eg.db"
     ],
-    "sincell": [
-        "fields"
-    ],
+    "sincell": [],
     "single": [],
     "SingleCellSignalR": [
         "scran",
@@ -9239,7 +9218,6 @@
         "DESeq2",
         "ExperimentHub",
         "ensembldb",
-        "fields",
         "ggtree",
         "GSVA",
         "GSVAdata",
@@ -9490,9 +9468,7 @@
         "Hmisc",
         "VariantAnnotation"
     ],
-    "SpeCond": [
-        "fields"
-    ],
+    "SpeCond": [],
     "SpectralTAD": [
         "HiCcompare"
     ],
@@ -9801,7 +9777,6 @@
         "car",
         "stars",
         "broom",
-        "fields",
         "googlesheets4",
         "haven",
         "modelr",
@@ -10003,9 +9978,7 @@
         "rtracklayer",
         "biomaRt"
     ],
-    "TFARM": [
-        "fields"
-    ],
+    "TFARM": [],
     "TFBSTools": [
         "BSgenome",
         "CNEr",
@@ -11213,13 +11186,9 @@
     ],
     "cytometree": [],
     "RFOC": [
-        "GEOmap",
-        "fields"
+        "GEOmap"
     ],
-    "GEOmap": [
-        "fields"
-    ],
-    "fields": [],
+    "GEOmap": [],
     "mbest": [
         "lme4",
         "nloptr",
@@ -11408,9 +11377,7 @@
         "BiocFileCache",
         "BiocVersion"
     ],
-    "plsgenomics": [
-        "fields"
-    ],
+    "plsgenomics": [],
     "agricolae": [
         "klaR",
         "questionr",
@@ -11593,9 +11560,7 @@
     "tfprobability": [
         "keras"
     ],
-    "verification": [
-        "fields"
-    ],
+    "verification": [],
     "tidybayes": [
         "ggdist",
         "posterior"
@@ -11678,12 +11643,8 @@
         "BiocVersion"
     ],
     "Rmagic": [],
-    "nnTensor": [
-        "fields"
-    ],
-    "ccTensor": [
-        "fields"
-    ],
+    "nnTensor": [],
+    "ccTensor": [],
     "clustree": [
         "ggraph",
         "tidygraph"
@@ -11768,9 +11729,7 @@
     "gstat": [
         "stars"
     ],
-    "SpatialExtremes": [
-        "fields"
-    ],
+    "SpatialExtremes": [],
     "stars": [],
     "spsComps": [],
     "GenKern": [],
