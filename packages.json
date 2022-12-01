@@ -1742,7 +1742,6 @@
         "GenomicFeatures"
     ],
     "GNET2": [],
-    "GOexpress": [],
     "goseq": [
         "geneLenDataBase",
         "GenomicFeatures"
