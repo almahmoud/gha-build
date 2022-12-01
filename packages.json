@@ -594,10 +594,7 @@
     "RTCGA": [
         "survminer"
     ],
-    "RTNduals": [],
-    "RTNsurvival": [
-        "RTNduals"
-    ],
+    "RTNsurvival": [],
     "scanMiRApp": [
         "AnnotationHub",
         "BiocVersion"
