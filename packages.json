@@ -188,8 +188,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "CNEr",
-        "haven"
+        "CNEr"
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
@@ -889,8 +888,7 @@
         "VariantAnnotation"
     ],
     "ComPrAn": [
-        "rio",
-        "haven"
+        "rio"
     ],
     "conclus": [
         "factoextra",
@@ -1009,8 +1007,7 @@
         "ChIPpeakAnno",
         "rio",
         "ensembldb",
-        "regioneR",
-        "haven"
+        "regioneR"
     ],
     "crisprVerse": [
         "crisprBowtie",
@@ -1154,8 +1151,7 @@
         "tidyverse",
         "ggraph",
         "epiNEM",
-        "mnem",
-        "haven"
+        "mnem"
     ],
     "ddPCRclust": [
         "flowDensity",
@@ -2130,8 +2126,7 @@
         "GenomicFeatures",
         "rio",
         "ensembldb",
-        "regioneR",
-        "haven"
+        "regioneR"
     ],
     "Guitar": [
         "GenomicFeatures"
@@ -2365,8 +2360,7 @@
     ],
     "ISAnalytics": [
         "datamods",
-        "rio",
-        "haven"
+        "rio"
     ],
     "iSEEhex": [],
     "iSEEhub": [
@@ -2466,7 +2460,6 @@
         "ggpubr",
         "rio",
         "rstatix",
-        "haven",
         "car",
         "pbkrtest",
         "lme4",
@@ -2579,8 +2572,7 @@
         "BiocVersion"
     ],
     "MAI": [
-        "tidyverse",
-        "haven"
+        "tidyverse"
     ],
     "MAIT": [
         "CAMERA",
@@ -2588,8 +2580,7 @@
         "xcms",
         "klaR",
         "questionr",
-        "labelled",
-        "haven"
+        "labelled"
     ],
     "mAPKL": [
         "reactome.db"
@@ -2808,7 +2799,6 @@
         "ExperimentHubData",
         "bumphunter",
         "GEOquery",
-        "haven",
         "BiocVersion",
         "GenomicFeatures",
         "AnnotationHubData",
@@ -2973,7 +2963,6 @@
         "lme4",
         "ggtree",
         "rstatix",
-        "haven",
         "nloptr",
         "car",
         "pbkrtest",
@@ -2993,7 +2982,6 @@
         "lme4",
         "ggtree",
         "rstatix",
-        "haven",
         "nloptr",
         "car",
         "pbkrtest",
@@ -3142,7 +3130,6 @@
         "rstatix",
         "lme4",
         "MSstatsTMT",
-        "haven",
         "car",
         "nloptr",
         "lmerTest",
@@ -3292,8 +3279,7 @@
     ],
     "nanotatoR": [
         "testthat",
-        "tidyverse",
-        "haven"
+        "tidyverse"
     ],
     "NanoTube": [],
     "NBAMSeq": [
@@ -3374,7 +3360,6 @@
         "RcmdrMisc",
         "pbkrtest",
         "lme4",
-        "haven",
         "nloptr",
         "testthat"
     ],
@@ -3432,8 +3417,7 @@
         "diceR",
         "klaR",
         "questionr",
-        "labelled",
-        "haven"
+        "labelled"
     ],
     "OmaDB": [],
     "omicRexposome": [
@@ -4766,7 +4750,6 @@
         "ggpubr",
         "lme4",
         "rstatix",
-        "haven",
         "nloptr",
         "car",
         "pbkrtest",
@@ -4795,8 +4778,7 @@
     "ssPATHS": [
         "MESS",
         "ggformula",
-        "labelled",
-        "haven"
+        "labelled"
     ],
     "STAN": [
         "Gviz",
@@ -4820,8 +4802,7 @@
         "miRNAtap.db"
     ],
     "Statial": [
-        "tidyverse",
-        "haven"
+        "tidyverse"
     ],
     "stJoincount": [
         "SpatialExperiment"
@@ -4872,7 +4853,6 @@
         "tidyverse",
         "gstat",
         "car",
-        "haven",
         "pbkrtest",
         "lme4",
         "nloptr",
@@ -5382,9 +5362,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "mGSZ": [],
-    "tidyverse": [
-        "haven"
-    ],
+    "tidyverse": [],
     "Mus.musculus": [
         "OrganismDbi",
         "GenomicFeatures",
@@ -5397,7 +5375,6 @@
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [
         "GenomicFeatures"
     ],
-    "haven": [],
     "reactome.db": [],
     "doBy": [
         "pbkrtest",
@@ -5510,9 +5487,7 @@
     ],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [],
-    "rio": [
-        "haven"
-    ],
+    "rio": [],
     "factoextra": [
         "FactoMineR",
         "ggpubr",
@@ -5631,8 +5606,7 @@
         "GenomicFeatures"
     ],
     "datamods": [
-        "rio",
-        "haven"
+        "rio"
     ],
     "pd.mapping50k.xba240": [],
     "reldist": [],
@@ -5650,21 +5624,16 @@
     "agricolae": [
         "klaR",
         "questionr",
-        "labelled",
-        "haven"
+        "labelled"
     ],
     "klaR": [
         "questionr",
-        "labelled",
-        "haven"
+        "labelled"
     ],
     "questionr": [
-        "labelled",
-        "haven"
+        "labelled"
     ],
-    "labelled": [
-        "haven"
-    ],
+    "labelled": [],
     "SmartSVA": [
         "sva"
     ],
@@ -5718,7 +5687,6 @@
     ],
     "RcmdrMisc": [
         "car",
-        "haven",
         "pbkrtest",
         "lme4",
         "nloptr",
@@ -5737,8 +5705,7 @@
     "diceR": [
         "klaR",
         "questionr",
-        "labelled",
-        "haven"
+        "labelled"
     ],
     "OMICsPCAdata": [],
     "AICcmodavg": [
@@ -5835,12 +5802,10 @@
     "miRNAtap.db": [],
     "MESS": [
         "ggformula",
-        "labelled",
-        "haven"
+        "labelled"
     ],
     "ggformula": [
-        "labelled",
-        "haven"
+        "labelled"
     ],
     "gstat": [],
     "GenKern": [],
