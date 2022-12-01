@@ -4894,7 +4894,6 @@
         "jquerylib",
         "promises",
         "EBarrays",
-        "minet",
         "e1071",
         "openssl",
         "lubridate",
@@ -5903,7 +5902,6 @@
         "ggnewscale",
         "NetRep",
         "BiocParallel",
-        "minet",
         "GENIE3",
         "SummarizedExperiment",
         "futile.logger",
@@ -6613,7 +6611,6 @@
         "e1071",
         "latticeExtra",
         "pcalg",
-        "minet",
         "latex2exp",
         "Linnorm",
         "RcppEigen",
@@ -7373,9 +7370,7 @@
         "Matrix",
         "IRanges"
     ],
-    "BUS": [
-        "minet"
-    ],
+    "BUS": [],
     "BUScorrect": [
         "gplots",
         "SummarizedExperiment",
@@ -7631,7 +7626,6 @@
         "ggnewscale",
         "NetRep",
         "BiocParallel",
-        "minet",
         "GENIE3",
         "SummarizedExperiment",
         "RCurl",
@@ -7805,7 +7799,6 @@
         "phenoTest",
         "httr",
         "EBarrays",
-        "minet",
         "e1071",
         "annotate",
         "graph",
@@ -12212,7 +12205,6 @@
         "Biobase",
         "STRINGdb",
         "SummarizedExperiment",
-        "minet",
         "rmarkdown",
         "readr",
         "dplyr",
@@ -16000,7 +15992,6 @@
         "BoolNet",
         "e1071",
         "latticeExtra",
-        "minet",
         "latex2exp",
         "mgcv",
         "scales",
@@ -20944,7 +20935,6 @@
         "igraph",
         "latticeExtra",
         "pcalg",
-        "minet",
         "graph",
         "mnem",
         "latex2exp",
@@ -25222,7 +25212,6 @@
     "geNetClassifier": [
         "Biobase",
         "EBarrays",
-        "minet",
         "e1071"
     ],
     "GeneticsPed": [
@@ -38890,7 +38879,6 @@
         "vroom",
         "tzdb"
     ],
-    "minet": [],
     "minfi": [
         "GenomicRanges",
         "SummarizedExperiment",
@@ -43583,7 +43571,6 @@
         "igraph",
         "latticeExtra",
         "pcalg",
-        "minet",
         "graph",
         "latex2exp",
         "Rgraphviz",
@@ -43839,7 +43826,6 @@
         "dplyr",
         "ggplot2",
         "igraph",
-        "minet",
         "purrr",
         "tibble",
         "tidyr",
@@ -43908,7 +43894,6 @@
         "BiocStyle",
         "Rgraphviz",
         "rmarkdown",
-        "minet",
         "reshape2",
         "ggplot2",
         "graph",
@@ -56525,7 +56510,6 @@
     ],
     "RTN": [
         "RedeR",
-        "minet",
         "viper",
         "mixtools",
         "IRanges",
@@ -56575,7 +56559,6 @@
     "RTNduals": [
         "RTN",
         "RedeR",
-        "minet",
         "viper",
         "mixtools",
         "IRanges",
@@ -56635,7 +56618,6 @@
         "tibble",
         "vctrs",
         "RedeR",
-        "minet",
         "viper",
         "mixtools",
         "IRanges",
