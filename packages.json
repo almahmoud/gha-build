@@ -3310,9 +3310,7 @@
         "OrganismDbi",
         "ensembldb"
     ],
-    "RESOLVE": [
-        "BSgenome.Hsapiens.1000genomes.hs37d5"
-    ],
+    "RESOLVE": [],
     "restfulSE": [
         "ExperimentHub",
         "AnnotationHub",
@@ -4717,7 +4715,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "BSgenome.Hsapiens.1000genomes.hs37d5": [],
     "rGenomeTracksData": [
         "AnnotationHub",
         "BiocVersion"
