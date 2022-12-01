@@ -3679,7 +3679,6 @@
         "ranger",
         "e1071",
         "ggplot2",
-        "vioplot",
         "imager",
         "topGO",
         "mgcv",
@@ -5757,7 +5756,6 @@
     "cellmigRation": [
         "doParallel",
         "SpatialTools",
-        "vioplot",
         "FactoMineR",
         "Hmisc",
         "car",
@@ -8318,7 +8316,6 @@
         "ggplot2",
         "modeest",
         "edgeR",
-        "vioplot",
         "ape",
         "phylolm",
         "mgcv",
@@ -17951,7 +17948,6 @@
         "GenomeInfoDb"
     ],
     "GOfuncR": [
-        "vioplot",
         "GenomicRanges",
         "AnnotationDbi",
         "RSQLite",
@@ -26651,7 +26647,6 @@
         "ComplexHeatmap",
         "XVector",
         "GenomeInfoDb",
-        "vioplot",
         "rtracklayer",
         "Rsamtools",
         "doParallel",
@@ -33193,7 +33188,6 @@
         "tibble",
         "ggplot2",
         "shinyjs",
-        "vioplot",
         "MSnbase",
         "mgcv",
         "scales",
@@ -49545,7 +49539,6 @@
         "pillar"
     ],
     "ranger": [],
-    "vioplot": [],
     "imager": [],
     "multcomp": [
         "survival",
