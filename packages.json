@@ -592,7 +592,6 @@
         "sva",
         "genefilter"
     ],
-    "BioNet": [],
     "BioNetStat": [
         "pathview"
     ],
@@ -6853,7 +6852,6 @@
     "slingshot": [],
     "SMITE": [
         "reactome.db",
-        "BioNet",
         "goseq",
         "geneLenDataBase",
         "GenomicFeatures",
