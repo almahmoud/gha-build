@@ -3534,7 +3534,6 @@
         "tidyr",
         "ggrepel"
     ],
-    "DEqMS": [],
     "derfinder": [
         "AnnotationDbi",
         "bumphunter",
