@@ -515,7 +515,6 @@
     ],
     "psichomics": [
         "AnnotationHub",
-        "recount",
         "BiocVersion"
     ],
     "ptairMS": [],
@@ -536,7 +535,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "recount": [],
     "regionReport": [],
     "regutools": [
         "AnnotationHub",
@@ -562,15 +560,11 @@
         "BiocVersion",
         "ExperimentHub"
     ],
-    "RNAAgeCalc": [
-        "recount"
-    ],
+    "RNAAgeCalc": [],
     "RNASeqR": [
         "factoextra"
     ],
-    "RnaSeqSampleSize": [
-        "recount"
-    ],
+    "RnaSeqSampleSize": [],
     "RTCGA": [
         "survminer"
     ],
