@@ -1192,7 +1192,6 @@
         "AnnotationDbi"
     ],
     "BioNetStat": [
-        "shinyBS",
         "pathview",
         "Hmisc",
         "viridis",
@@ -1705,7 +1704,6 @@
         "GenomicAlignments"
     ],
     "cbpManager": [
-        "shinyBS",
         "shinycssloaders"
     ],
     "ccfindR": [],
@@ -3041,7 +3039,6 @@
         "GEOquery",
         "oligo",
         "sva",
-        "shinyBS",
         "shinyWidgets",
         "shinypanel",
         "readxl",
@@ -3378,7 +3375,6 @@
         "readr"
     ],
     "debrowser": [
-        "shinyBS",
         "annotate",
         "AnnotationDbi",
         "DESeq2",
@@ -3765,7 +3761,6 @@
     "DiscoRhythm": [
         "ggExtra",
         "broom",
-        "shinyBS",
         "shinycssloaders",
         "BiocStyle",
         "kableExtra",
@@ -4841,7 +4836,6 @@
         "reactome.db",
         "GO.db",
         "tidyr",
-        "shinyBS",
         "plotly",
         "clusterProfiler",
         "org.Hs.eg.db",
@@ -4884,7 +4878,6 @@
     ],
     "FastqCleaner": [
         "ShortRead",
-        "shinyBS",
         "GenomicAlignments"
     ],
     "FCBF": [],
@@ -5668,7 +5661,6 @@
     ],
     "GEOexplorer": [
         "plotly",
-        "shinyBS",
         "factoextra",
         "heatmaply",
         "shinyHeatmaply",
@@ -6035,8 +6027,7 @@
         "AnnotationDbi"
     ],
     "GPA": [
-        "ggrepel",
-        "shinyBS"
+        "ggrepel"
     ],
     "gpuMagic": [
         "DescTools",
@@ -6511,7 +6502,6 @@
         "GenomicAlignments"
     ],
     "iCOBRA": [
-        "shinyBS",
         "UpSetR"
     ],
     "ideal": [
@@ -6525,7 +6515,6 @@
         "GOstats",
         "GO.db",
         "AnnotationDbi",
-        "shinyBS",
         "ggrepel",
         "geneplotter",
         "geneLenDataBase",
@@ -7099,7 +7088,6 @@
         "tidyr",
         "readr",
         "shinyFiles",
-        "shinyBS",
         "biomaRt",
         "AnnotationDbi",
         "BiocFileCache",
@@ -9123,7 +9111,6 @@
         "waldo"
     ],
     "MSstatsShiny": [
-        "shinyBS",
         "Hmisc",
         "MSstats",
         "MSstatsTMT",
@@ -9322,7 +9309,6 @@
         "plotly",
         "factoextra",
         "sortable",
-        "shinyBS",
         "TCGAbiolinks",
         "shinyjqui",
         "rtracklayer",
@@ -9827,7 +9813,6 @@
         "AnnotationHub",
         "shinyFiles",
         "rtracklayer",
-        "shinyBS",
         "tidyr",
         "BiocFileCache",
         "BiocVersion",
@@ -10008,7 +9993,6 @@
     ],
     "openPrimeRui": [
         "openPrimeR",
-        "shinyBS",
         "DECIPHER",
         "Hmisc",
         "viridis"
@@ -10294,7 +10278,6 @@
         "GOstats",
         "GO.db",
         "AnnotationDbi",
-        "shinyBS",
         "ggrepel",
         "biomaRt",
         "tidyr",
@@ -10521,7 +10504,6 @@
         "BiocStyle",
         "colourpicker",
         "ExperimentHub",
-        "shinyBS",
         "shinyFiles",
         "OmaDB",
         "AnnotationHub",
@@ -10968,7 +10950,6 @@
     "Prostar": [
         "DAPAR",
         "DAPARdata",
-        "shinyBS",
         "highcharter",
         "shinycssloaders",
         "shinyjqui",
@@ -11041,7 +11022,6 @@
         "waldo"
     ],
     "psichomics": [
-        "shinyBS",
         "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
@@ -11154,7 +11134,6 @@
         "dbplyr"
     ],
     "pwrEWAS": [
-        "shinyBS",
         "shinyWidgets",
         "genefilter",
         "pwrEWAS.data",
@@ -14363,7 +14342,6 @@
         "TCGAbiolinks",
         "colourpicker",
         "sesame",
-        "shinyBS",
         "recipes",
         "AnnotationDbi",
         "DOSE",
@@ -14879,7 +14857,6 @@
     ],
     "trio": [],
     "tripr": [
-        "shinyBS",
         "shinyFiles",
         "plotly",
         "golem",
@@ -14980,7 +14957,6 @@
         "hdrcde"
     ],
     "uncoverappLib": [
-        "shinyBS",
         "shinyWidgets",
         "shinycssloaders",
         "Gviz",
@@ -15937,7 +15913,6 @@
     ],
     "intergraph": [],
     "sna": [],
-    "shinyBS": [],
     "superheat": [
         "ggdendro"
     ],
@@ -16287,9 +16262,7 @@
         "tensorflow"
     ],
     "tensorflow": [],
-    "shinypanel": [
-        "shinyBS"
-    ],
+    "shinypanel": [],
     "highcharter": [
         "broom",
         "tidyr"
