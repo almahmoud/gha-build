@@ -21055,7 +21055,6 @@
         "SummarizedExperiment",
         "tidyr",
         "readr",
-        "configr",
         "DT",
         "htmlwidgets",
         "bsplus",
@@ -50704,7 +50703,6 @@
         "sass",
         "jquerylib"
     ],
-    "configr": [],
     "bsplus": [
         "rmarkdown",
         "bslib",
