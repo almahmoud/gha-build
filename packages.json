@@ -60571,7 +60571,6 @@
         "stringr",
         "reshape2",
         "RColorBrewer",
-        "LowMACAAnnotation",
         "BiocParallel",
         "motifStack",
         "Biostrings",
@@ -145583,7 +145582,6 @@
         "lattice"
     ],
     "mcbiopi": [],
-    "LowMACAAnnotation": [],
     "LymphoSeqDB": [],
     "reldist": [
         "mgcv",
