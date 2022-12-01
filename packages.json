@@ -18355,8 +18355,7 @@
         "dplyr",
         "kmlShape",
         "prettydoc",
-        "ggplot2",
-        "kml"
+        "ggplot2"
     ],
     "ttgsea": [
         "keras",
@@ -21450,10 +21449,7 @@
         "rtracklayer",
         "GenomicAlignments"
     ],
-    "kmlShape": [
-        "kml"
-    ],
-    "kml": [],
+    "kmlShape": [],
     "mirbase.db": [
         "AnnotationDbi"
     ],
