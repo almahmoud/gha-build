@@ -239,7 +239,6 @@
         "IVAS",
         "biomaRt",
         "Gviz",
-        "fgsea",
         "mGSZ",
         "ensembldb",
         "BSgenome",
@@ -270,7 +269,6 @@
         "motifmatchr",
         "chromVAR",
         "GenomicFeatures",
-        "fgsea",
         "rGREAT",
         "Homo.sapiens",
         "Mus.musculus",
@@ -473,7 +471,6 @@
         "enrichplot",
         "GOSemSim",
         "readr",
-        "fgsea",
         "car",
         "ggraph",
         "pbkrtest",
@@ -581,7 +578,6 @@
     ],
     "BioNAR": [
         "synaptome.db",
-        "fgsea",
         "WGCNA",
         "synaptome.data",
         "AnnotationHub",
@@ -882,7 +878,6 @@
     "CelliD": [
         "Seurat",
         "scater",
-        "fgsea",
         "ggrastr"
     ],
     "cellity": [
@@ -909,7 +904,6 @@
         "WGCNA",
         "ggpmisc",
         "clusterProfiler",
-        "fgsea",
         "DOSE",
         "enrichplot",
         "GOSemSim",
@@ -949,7 +943,6 @@
         "GOSemSim",
         "geneplotter",
         "rstatix",
-        "fgsea",
         "ggraph",
         "ggtree",
         "car",
@@ -1079,7 +1072,6 @@
         "GOSemSim",
         "ggtree",
         "biomaRt",
-        "fgsea",
         "tidygraph",
         "treeio"
     ],
@@ -1185,14 +1177,12 @@
         "DOSE",
         "enrichplot",
         "GOSemSim",
-        "fgsea",
         "ggraph",
         "ggtree",
         "tidygraph",
         "treeio"
     ],
     "clustifyr": [
-        "fgsea",
         "readr"
     ],
     "cn.farms": [
@@ -1332,7 +1322,6 @@
         "ggpubr",
         "readr",
         "ggrastr",
-        "fgsea",
         "ggraph",
         "ggtree",
         "car",
@@ -1416,8 +1405,7 @@
     ],
     "CoreGx": [
         "MultiAssayExperiment",
-        "piano",
-        "fgsea"
+        "piano"
     ],
     "corral": [
         "MultiAssayExperiment"
@@ -1548,7 +1536,6 @@
     "CTDquerier": [],
     "cTRAP": [
         "AnnotationHub",
-        "fgsea",
         "highcharter",
         "BiocVersion"
     ],
@@ -1718,7 +1705,6 @@
         "pathview",
         "GOSemSim",
         "geneplotter",
-        "fgsea",
         "ggraph",
         "ggtree",
         "genefilter",
@@ -1989,7 +1975,6 @@
         "waldo"
     ],
     "DOSE": [
-        "fgsea",
         "GOSemSim"
     ],
     "doseR": [
@@ -2048,7 +2033,6 @@
         "DOSE",
         "enrichplot",
         "GOSemSim",
-        "fgsea",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -2090,7 +2074,6 @@
         "enrichplot",
         "GOSemSim",
         "geneplotter",
-        "fgsea",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -2161,7 +2144,6 @@
         "ggraph",
         "GOSemSim",
         "ggtree",
-        "fgsea",
         "tidygraph",
         "treeio"
     ],
@@ -2178,7 +2160,6 @@
         "rstatix",
         "CNEr",
         "readr",
-        "fgsea",
         "ggraph",
         "ggtree",
         "car",
@@ -2218,7 +2199,6 @@
         "GOSemSim",
         "ggtree",
         "biomaRt",
-        "fgsea",
         "tidygraph",
         "treeio"
     ],
@@ -2253,7 +2233,6 @@
         "enrichplot",
         "ggraph",
         "reactome.db",
-        "fgsea",
         "GOSemSim",
         "ggtree",
         "tidygraph",
@@ -2367,7 +2346,6 @@
         "biomaRt",
         "CNEr",
         "readr",
-        "fgsea",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -2386,7 +2364,6 @@
         "SGSeq",
         "GenomicFeatures",
         "BSgenome",
-        "fgsea",
         "biomaRt"
     ],
     "EWCE": [
@@ -2464,7 +2441,6 @@
         "DOSE",
         "enrichplot",
         "GOSemSim",
-        "fgsea",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -2490,7 +2466,6 @@
         "DOSE",
         "enrichplot",
         "GOSemSim",
-        "fgsea",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -2521,7 +2496,6 @@
         "readr"
     ],
     "fgga": [],
-    "fgsea": [],
     "FindIT2": [
         "GenomicFeatures",
         "MultiAssayExperiment",
@@ -2604,7 +2578,6 @@
         "rainbow"
     ],
     "fobitools": [
-        "fgsea",
         "ggraph",
         "RecordLinkage",
         "textclean",
@@ -2720,7 +2693,6 @@
         "enrichplot",
         "GOSemSim",
         "geneplotter",
-        "fgsea",
         "readr",
         "ggpubr",
         "ggraph",
@@ -3035,7 +3007,6 @@
         "DOSE",
         "enrichplot",
         "GOSemSim",
-        "fgsea",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -3089,7 +3060,6 @@
     ],
     "GSEAmining": [],
     "gsean": [
-        "fgsea",
         "PPInfer",
         "biomaRt"
     ],
@@ -3454,7 +3424,6 @@
         "rstatix",
         "tidygraph",
         "ggrastr",
-        "fgsea",
         "ggtree",
         "car",
         "pbkrtest",
@@ -3629,7 +3598,6 @@
         "treeio"
     ],
     "lipidr": [
-        "fgsea",
         "ropls",
         "MultiAssayExperiment"
     ],
@@ -3757,7 +3725,6 @@
         "GOSemSim",
         "ExperimentHub",
         "AnnotationHub",
-        "fgsea",
         "ggraph",
         "ggtree",
         "BiocVersion",
@@ -3833,7 +3800,6 @@
     "mCSEA": [
         "Homo.sapiens",
         "biomaRt",
-        "fgsea",
         "GenomicFeatures",
         "Gviz",
         "ensembldb",
@@ -3916,7 +3882,6 @@
         "GOSemSim",
         "AnnotationHub",
         "BiocVersion",
-        "fgsea",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -3985,15 +3950,12 @@
         "DOSE",
         "enrichplot",
         "GOSemSim",
-        "fgsea",
         "ggraph",
         "ggtree",
         "tidygraph",
         "treeio"
     ],
-    "metapone": [
-        "fgsea"
-    ],
+    "metapone": [],
     "metaseqR2": [
         "DESeq2",
         "biomaRt",
@@ -4117,7 +4079,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
         "methylumi",
-        "fgsea",
         "ggraph",
         "ggtree",
         "FDb.InfiniumMethylation.hg19",
@@ -4237,7 +4198,6 @@
         "GOSemSim",
         "ggraph",
         "ggtree",
-        "fgsea",
         "tidygraph",
         "treeio"
     ],
@@ -4332,7 +4292,6 @@
         "DOSE",
         "enrichplot",
         "GOSemSim",
-        "fgsea",
         "ggraph",
         "reactome.db",
         "tidyverse",
@@ -4362,7 +4321,6 @@
         "DOSE",
         "enrichplot",
         "GOSemSim",
-        "fgsea",
         "ggraph",
         "reactome.db",
         "tidyverse",
@@ -4479,7 +4437,6 @@
         "GEOquery",
         "enrichplot",
         "GOSemSim",
-        "fgsea",
         "readr",
         "biomaRt",
         "ggraph",
@@ -4682,7 +4639,6 @@
         "ensembldb"
     ],
     "multiGSEA": [
-        "fgsea",
         "metap"
     ],
     "multiHiCcompare": [],
@@ -4706,7 +4662,6 @@
         "ggtree",
         "reactome.db",
         "testthat",
-        "fgsea",
         "tidygraph",
         "treeio",
         "waldo"
@@ -4824,9 +4779,7 @@
         "modelr",
         "readr"
     ],
-    "NanoTube": [
-        "fgsea"
-    ],
+    "NanoTube": [],
     "NBAMSeq": [
         "DESeq2",
         "genefilter",
@@ -4874,7 +4827,6 @@
         "DOSE",
         "enrichplot",
         "GOSemSim",
-        "fgsea",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -5069,7 +5021,6 @@
     ],
     "omicsViewer": [
         "survminer",
-        "fgsea",
         "ggpubr",
         "rstatix",
         "car",
@@ -5219,7 +5170,6 @@
         "DOSE",
         "enrichplot",
         "GOSemSim",
-        "fgsea",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -5232,7 +5182,6 @@
         "keras",
         "nloptr",
         "DOSE",
-        "fgsea",
         "GOSemSim",
         "testthat",
         "waldo"
@@ -5271,7 +5220,6 @@
         "genefu",
         "verification",
         "biomaRt",
-        "fgsea",
         "ggpubr",
         "rstatix",
         "car",
@@ -5303,7 +5251,6 @@
         "DOSE",
         "enrichplot",
         "GOSemSim",
-        "fgsea",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -5311,7 +5258,6 @@
     ],
     "phantasus": [
         "GEOquery",
-        "fgsea",
         "DESeq2",
         "geneplotter",
         "readr"
@@ -5319,8 +5265,7 @@
     "PharmacoGx": [
         "CoreGx",
         "MultiAssayExperiment",
-        "piano",
-        "fgsea"
+        "piano"
     ],
     "phenomis": [
         "biodb",
@@ -5375,9 +5320,7 @@
         "caret",
         "readr"
     ],
-    "piano": [
-        "fgsea"
-    ],
+    "piano": [],
     "Pigengene": [
         "WGCNA",
         "clusterProfiler",
@@ -5385,7 +5328,6 @@
         "DOSE",
         "enrichplot",
         "GOSemSim",
-        "fgsea",
         "ggraph",
         "reactome.db",
         "ggtree",
@@ -5464,8 +5406,7 @@
         "posterior"
     ],
     "PPInfer": [
-        "biomaRt",
-        "fgsea"
+        "biomaRt"
     ],
     "pram": [],
     "prebs": [],
@@ -5542,7 +5483,6 @@
         "ggraph",
         "GOSemSim",
         "ggtree",
-        "fgsea",
         "tidygraph",
         "treeio"
     ],
@@ -5764,8 +5704,7 @@
     "RadioGx": [
         "CoreGx",
         "MultiAssayExperiment",
-        "piano",
-        "fgsea"
+        "piano"
     ],
     "ramwas": [
         "biomaRt"
@@ -5837,7 +5776,6 @@
         "enrichplot",
         "ggraph",
         "reactome.db",
-        "fgsea",
         "GOSemSim",
         "ggtree",
         "tidygraph",
@@ -5881,7 +5819,6 @@
         "regioneR"
     ],
     "RegEnrich": [
-        "fgsea",
         "DOSE",
         "DESeq2",
         "WGCNA",
@@ -6200,7 +6137,6 @@
         "enrichplot",
         "GOSemSim",
         "geneplotter",
-        "fgsea",
         "ggpubr",
         "car",
         "pbkrtest",
@@ -6532,7 +6468,6 @@
         "BiocVersion",
         "GSEABase",
         "genefilter",
-        "fgsea",
         "GOSemSim",
         "enrichplot",
         "ggraph",
@@ -6574,7 +6509,6 @@
         "GOSemSim",
         "ggtree",
         "biomaRt",
-        "fgsea",
         "tidygraph",
         "treeio"
     ],
@@ -6667,7 +6601,6 @@
     "sights": [],
     "signatureSearch": [
         "ExperimentHub",
-        "fgsea",
         "reactome.db",
         "clusterProfiler",
         "readr",
@@ -7256,7 +7189,6 @@
         "biomaRt",
         "ggpubr",
         "sesameData",
-        "fgsea",
         "ggraph",
         "ggtree",
         "rstatix",
@@ -7352,7 +7284,6 @@
         "DOSE",
         "enrichplot",
         "GOSemSim",
-        "fgsea",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -7404,8 +7335,7 @@
     "ToxicoGx": [
         "CoreGx",
         "MultiAssayExperiment",
-        "piano",
-        "fgsea"
+        "piano"
     ],
     "TPP": [
         "biobroom"
@@ -7650,7 +7580,6 @@
     "ViSEAGO": [
         "biomaRt",
         "DiagrammeR",
-        "fgsea",
         "GOSemSim",
         "heatmaply",
         "topGO",
@@ -7750,8 +7679,7 @@
         "PharmacoGx",
         "CoreGx",
         "MultiAssayExperiment",
-        "piano",
-        "fgsea"
+        "piano"
     ],
     "XINA": [],
     "XNAString": [
