@@ -665,7 +665,6 @@
     "peco": [
         "scater"
     ],
-    "PhenStat": [],
     "PhosR": [
         "ggpubr",
         "rstatix"
