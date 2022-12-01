@@ -5513,7 +5513,6 @@
     ],
     "epistack": [],
     "epistasisGA": [
-        "batchtools",
         "qgraph",
         "ggplot2",
         "Hmisc",
@@ -8143,7 +8142,6 @@
     ],
     "InPAS": [
         "AnnotationDbi",
-        "batchtools",
         "BSgenome",
         "cleanUpdTSeq",
         "dplyr",
@@ -14082,7 +14080,6 @@
         "ggplot2"
     ],
     "Rcwl": [
-        "batchtools",
         "DiagrammeR",
         "dplyr",
         "readr",
@@ -14096,7 +14093,6 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "batchtools",
         "DiagrammeR",
         "readr",
         "tidyr",
@@ -20472,7 +20468,6 @@
         "dplyr",
         "dbplyr"
     ],
-    "batchtools": [],
     "qgraph": [
         "Hmisc",
         "ggplot2",
