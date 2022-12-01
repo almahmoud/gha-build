@@ -3389,7 +3389,6 @@
         "nloptr",
         "testthat"
     ],
-    "oncoscanR": [],
     "OncoScore": [],
     "OncoSimulR": [
         "car",
