@@ -3227,9 +3227,7 @@
         "broom",
         "annotate"
     ],
-    "esetVis": [
-        "MLP"
-    ],
+    "esetVis": [],
     "evaluomeR": [
         "MultiAssayExperiment",
         "kableExtra"
@@ -5964,7 +5962,6 @@
         "annotate",
         "genefilter"
     ],
-    "MLP": [],
     "MLSeq": [
         "caret",
         "testthat",
