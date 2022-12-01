@@ -65,9 +65,7 @@
         "AnnotationDbi",
         "dbplyr"
     ],
-    "ADImpute": [
-        "SingleCellExperiment"
-    ],
+    "ADImpute": [],
     "adSplit": [
         "AnnotationDbi",
         "GO.db"
@@ -116,9 +114,7 @@
         "annotate",
         "AnnotationDbi"
     ],
-    "aggregateBioVar": [
-        "SingleCellExperiment"
-    ],
+    "aggregateBioVar": [],
     "AgiMicroRna": [
         "affycoretools",
         "GOstats",
@@ -153,7 +149,6 @@
         "dbplyr"
     ],
     "airpart": [
-        "SingleCellExperiment",
         "scater",
         "scuttle",
         "ggbeeswarm",
@@ -234,7 +229,6 @@
         "mia",
         "DescTools",
         "Hmisc",
-        "SingleCellExperiment",
         "TreeSummarizedExperiment",
         "lme4",
         "lmerTest",
@@ -376,7 +370,6 @@
         "ggrepel",
         "plotly",
         "Seurat",
-        "SingleCellExperiment",
         "topGO",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -541,9 +534,7 @@
         "AnnotationDbi",
         "annotate"
     ],
-    "ASURAT": [
-        "SingleCellExperiment"
-    ],
+    "ASURAT": [],
     "ATACCoGAPS": [
         "CoGAPS",
         "projectR",
@@ -561,7 +552,6 @@
         "BSgenome.Mmusculus.UCSC.mm10",
         "BSgenome",
         "plotly",
-        "SingleCellExperiment",
         "cowplot",
         "AnnotationDbi",
         "rtracklayer",
@@ -774,7 +764,6 @@
         "rtracklayer"
     ],
     "BASiCS": [
-        "SingleCellExperiment",
         "cowplot",
         "ggExtra",
         "scran",
@@ -788,7 +777,6 @@
         "glmGamPoi",
         "scran",
         "scuttle",
-        "SingleCellExperiment",
         "cowplot",
         "ggExtra",
         "viridis",
@@ -798,7 +786,6 @@
         "GenomicAlignments"
     ],
     "batchelor": [
-        "SingleCellExperiment",
         "scuttle"
     ],
     "BatchQC": [
@@ -815,7 +802,6 @@
         "tidyr"
     ],
     "BayesSpace": [
-        "SingleCellExperiment",
         "scater",
         "scran",
         "BiocFileCache",
@@ -826,9 +812,7 @@
         "ggrastr",
         "ggrepel"
     ],
-    "bayNorm": [
-        "SingleCellExperiment"
-    ],
+    "bayNorm": [],
     "BBCAnalyzer": [
         "VariantAnnotation",
         "AnnotationDbi",
@@ -845,9 +829,7 @@
         "AnnotationDbi"
     ],
     "beadarraySNP": [],
-    "BEARscc": [
-        "SingleCellExperiment"
-    ],
+    "BEARscc": [],
     "BEAT": [
         "ShortRead",
         "BSgenome",
@@ -877,7 +859,6 @@
         "mia",
         "DescTools",
         "Hmisc",
-        "SingleCellExperiment",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -1266,7 +1247,6 @@
     ],
     "BioTIP": [
         "scran",
-        "SingleCellExperiment",
         "scuttle"
     ],
     "biotmle": [
@@ -1540,9 +1520,7 @@
         "GenomicAlignments",
         "dbplyr"
     ],
-    "BUSseq": [
-        "SingleCellExperiment"
-    ],
+    "BUSseq": [],
     "CAFE": [
         "biovizBase",
         "ggbio",
@@ -1684,7 +1662,6 @@
         "dbplyr"
     ],
     "CATALYST": [
-        "SingleCellExperiment",
         "cowplot",
         "drc",
         "FlowSOM",
@@ -1754,7 +1731,6 @@
         "TreeSummarizedExperiment",
         "tidyr",
         "AnnotationDbi",
-        "SingleCellExperiment",
         "treeio",
         "tidytree"
     ],
@@ -1781,9 +1757,7 @@
         "shinyBS",
         "shinycssloaders"
     ],
-    "ccfindR": [
-        "SingleCellExperiment"
-    ],
+    "ccfindR": [],
     "ccmap": [
         "AnnotationDbi"
     ],
@@ -1796,11 +1770,9 @@
     "celaref": [
         "MAST",
         "readr",
-        "SingleCellExperiment",
         "vroom"
     ],
     "celda": [
-        "SingleCellExperiment",
         "enrichR",
         "ggrepel",
         "scater",
@@ -1823,7 +1795,6 @@
         "tidyr"
     ],
     "CellBench": [
-        "SingleCellExperiment",
         "BiocFileCache",
         "tidyr",
         "dbplyr"
@@ -1838,7 +1809,6 @@
     ],
     "CelliD": [
         "Seurat",
-        "SingleCellExperiment",
         "scater",
         "fgsea",
         "cowplot",
@@ -1880,7 +1850,6 @@
         "scater",
         "viridis",
         "cowplot",
-        "SingleCellExperiment",
         "tidyr",
         "ggridges",
         "scuttle",
@@ -1891,7 +1860,6 @@
     "CellNOptR": [],
     "cellscape": [],
     "CellTrails": [
-        "SingleCellExperiment",
         "dendextend",
         "EnvStats",
         "ggrepel",
@@ -1965,7 +1933,6 @@
     ],
     "Cepo": [
         "GSEABase",
-        "SingleCellExperiment",
         "patchwork",
         "annotate",
         "AnnotationDbi"
@@ -2101,7 +2068,6 @@
     ],
     "ChemmineR": [],
     "CHETAH": [
-        "SingleCellExperiment",
         "plotly",
         "dendextend",
         "cowplot",
@@ -2307,7 +2273,6 @@
         "scran",
         "scater",
         "tidyr",
-        "SingleCellExperiment",
         "msigdbr",
         "scuttle",
         "ggfittext",
@@ -2410,7 +2375,6 @@
         "dbplyr"
     ],
     "CiteFuse": [
-        "SingleCellExperiment",
         "cowplot",
         "propr",
         "scran",
@@ -2467,7 +2431,6 @@
         "vsn"
     ],
     "clusterExperiment": [
-        "SingleCellExperiment",
         "NMF",
         "zinbwave",
         "phylobase",
@@ -2514,7 +2477,6 @@
         "fgsea",
         "readr",
         "tidyr",
-        "SingleCellExperiment",
         "vroom"
     ],
     "cmapR": [],
@@ -2650,9 +2612,7 @@
         "sqldf",
         "vroom"
     ],
-    "CoGAPS": [
-        "SingleCellExperiment"
-    ],
+    "CoGAPS": [],
     "cogena": [
         "tidyr",
         "devtools",
@@ -2786,7 +2746,6 @@
         "AnnotationDbi",
         "scran",
         "scater",
-        "SingleCellExperiment",
         "GEOquery",
         "clusterProfiler",
         "dbplyr",
@@ -2837,7 +2796,6 @@
     ],
     "condiments": [
         "slingshot",
-        "SingleCellExperiment",
         "Ecume",
         "TrajectoryUtils",
         "distinct",
@@ -2888,7 +2846,6 @@
         "survcomp",
         "biomaRt",
         "GSEABase",
-        "SingleCellExperiment",
         "AnnotationDbi",
         "BiocFileCache",
         "annotate",
@@ -2976,7 +2933,6 @@
     "corral": [
         "ggthemes",
         "MultiAssayExperiment",
-        "SingleCellExperiment",
         "tidyr"
     ],
     "coseq": [
@@ -3222,7 +3178,6 @@
     "CTSV": [
         "qvalue",
         "SpatialExperiment",
-        "SingleCellExperiment",
         "DropletUtils",
         "BiocFileCache",
         "dbplyr",
@@ -3285,7 +3240,6 @@
         "rematch2"
     ],
     "cydar": [
-        "SingleCellExperiment",
         "viridis"
     ],
     "CytoDx": [],
@@ -3348,7 +3302,6 @@
     ],
     "cytoKernel": [],
     "cytomapper": [
-        "SingleCellExperiment",
         "SpatialExperiment",
         "viridis",
         "ggbeeswarm",
@@ -3784,7 +3737,6 @@
         "AnnotationDbi"
     ],
     "destiny": [
-        "SingleCellExperiment",
         "ggplot.multistats",
         "tidyr",
         "ggthemes",
@@ -3881,7 +3833,6 @@
     ],
     "DifferentialRegulation": [
         "BANDITS",
-        "SingleCellExperiment",
         "DRIMSeq"
     ],
     "diffHic": [
@@ -3911,7 +3862,6 @@
         "dbplyr"
     ],
     "Dino": [
-        "SingleCellExperiment",
         "Seurat",
         "scran",
         "scuttle",
@@ -3943,7 +3893,6 @@
         "egg"
     ],
     "distinct": [
-        "SingleCellExperiment",
         "scater",
         "scuttle",
         "ggbeeswarm",
@@ -3954,8 +3903,7 @@
     "dittoSeq": [
         "cowplot",
         "ggrepel",
-        "ggridges",
-        "SingleCellExperiment"
+        "ggridges"
     ],
     "DMCFB": [
         "arm",
@@ -4117,7 +4065,6 @@
     ],
     "DRIMSeq": [],
     "DropletUtils": [
-        "SingleCellExperiment",
         "scuttle"
     ],
     "drugTargetInteractions": [
@@ -4330,7 +4277,6 @@
         "GO.db",
         "annotate",
         "GSEABase",
-        "SingleCellExperiment",
         "TFisher",
         "mutoss",
         "hgu133plus2.db",
@@ -4854,7 +4800,6 @@
     "escape": [
         "GSEABase",
         "GSVA",
-        "SingleCellExperiment",
         "ggridges",
         "msigdbr",
         "UCell",
@@ -4892,7 +4837,6 @@
     ],
     "EWCE": [
         "ewceData",
-        "SingleCellExperiment",
         "orthogene",
         "ExperimentHub",
         "homologene",
@@ -4971,7 +4915,6 @@
         "GenomicAlignments"
     ],
     "ExperimentSubset": [
-        "SingleCellExperiment",
         "SpatialExperiment",
         "TreeSummarizedExperiment",
         "DropletUtils",
@@ -5108,7 +5051,6 @@
         "intergraph",
         "clusterProfiler",
         "sna",
-        "SingleCellExperiment",
         "AnnotationDbi",
         "DOSE",
         "enrichplot",
@@ -5147,7 +5089,6 @@
         "dbplyr"
     ],
     "FEAST": [
-        "SingleCellExperiment",
         "TSCAN",
         "SC3",
         "TrajectoryUtils"
@@ -5203,8 +5144,7 @@
         "dbplyr"
     ],
     "fishpond": [
-        "qvalue",
-        "SingleCellExperiment"
+        "qvalue"
     ],
     "flagme": [
         "xcms",
@@ -5215,7 +5155,6 @@
         "vsn"
     ],
     "FLAMES": [
-        "SingleCellExperiment",
         "MultiAssayExperiment",
         "scater",
         "tidyr",
@@ -6031,7 +5970,6 @@
     ],
     "ggspavis": [
         "SpatialExperiment",
-        "SingleCellExperiment",
         "ggside",
         "DropletUtils",
         "BiocFileCache",
@@ -6091,9 +6029,7 @@
         "annotate",
         "AnnotationDbi"
     ],
-    "glmGamPoi": [
-        "SingleCellExperiment"
-    ],
+    "glmGamPoi": [],
     "glmSparseNet": [
         "MultiAssayExperiment",
         "biomaRt",
@@ -6404,7 +6340,6 @@
     ],
     "GSVA": [
         "GSEABase",
-        "SingleCellExperiment",
         "annotate",
         "AnnotationDbi"
     ],
@@ -6656,7 +6591,6 @@
         "dbplyr"
     ],
     "HIPPO": [
-        "SingleCellExperiment",
         "ggrepel"
     ],
     "hiReadsProcessor": [
@@ -6843,7 +6777,6 @@
         "cowplot",
         "dendextend",
         "DescTools",
-        "SingleCellExperiment",
         "viridis",
         "readxl"
     ],
@@ -6879,7 +6812,6 @@
         "readr",
         "cytomapper",
         "viridis",
-        "SingleCellExperiment",
         "vroom",
         "ggraph",
         "tidygraph",
@@ -6920,7 +6852,6 @@
     "infercnv": [
         "coin",
         "Seurat",
-        "SingleCellExperiment",
         "tidyr",
         "cowplot",
         "ggrepel",
@@ -7105,7 +7036,6 @@
         "org.Mm.eg.db",
         "AdaptGauss",
         "Seurat",
-        "SingleCellExperiment",
         "clusterProfiler",
         "ggpubr",
         "ggraph",
@@ -7167,7 +7097,6 @@
         "haven"
     ],
     "iSEE": [
-        "SingleCellExperiment",
         "shinydashboard",
         "ggrepel",
         "colourpicker",
@@ -7175,14 +7104,12 @@
     ],
     "iSEEhex": [
         "iSEE",
-        "SingleCellExperiment",
         "shinydashboard",
         "ggrepel",
         "colourpicker",
         "shinyWidgets"
     ],
     "iSEEhub": [
-        "SingleCellExperiment",
         "ExperimentHub",
         "AnnotationHub",
         "iSEE",
@@ -7198,7 +7125,6 @@
     "iSEEu": [
         "iSEE",
         "iSEEhex",
-        "SingleCellExperiment",
         "colourpicker",
         "shinydashboard",
         "ggrepel",
@@ -7424,9 +7350,7 @@
         "waldo",
         "rematch2"
     ],
-    "LineagePulse": [
-        "SingleCellExperiment"
-    ],
+    "LineagePulse": [],
     "lineagespot": [
         "VariantAnnotation",
         "AnnotationDbi",
@@ -7498,7 +7422,6 @@
         "concaveman",
         "spicyR",
         "tidyr",
-        "SingleCellExperiment",
         "SpatialExperiment",
         "DropletUtils",
         "BiocFileCache",
@@ -7520,9 +7443,7 @@
         "viridis",
         "vsn"
     ],
-    "LoomExperiment": [
-        "SingleCellExperiment"
-    ],
+    "LoomExperiment": [],
     "LowMACA": [
         "cBioPortalData",
         "motifStack",
@@ -7814,9 +7735,7 @@
         "dbplyr",
         "viridis"
     ],
-    "MAST": [
-        "SingleCellExperiment"
-    ],
+    "MAST": [],
     "MatrixQCvis": [
         "plotly",
         "Hmisc",
@@ -7854,7 +7773,6 @@
         "rematch2"
     ],
     "mbkmeans": [
-        "SingleCellExperiment",
         "ClusterR",
         "benchmarkme",
         "benchmarkmeData"
@@ -8181,7 +8099,6 @@
         "vsn"
     ],
     "MetaNeighbor": [
-        "SingleCellExperiment",
         "tidyr"
     ],
     "MetaPhOR": [
@@ -8565,7 +8482,6 @@
         "dbplyr"
     ],
     "mia": [
-        "SingleCellExperiment",
         "TreeSummarizedExperiment",
         "MultiAssayExperiment",
         "decontam",
@@ -8582,7 +8498,6 @@
     ],
     "miaSim": [
         "TreeSummarizedExperiment",
-        "SingleCellExperiment",
         "treeio",
         "tidytree",
         "tidyr"
@@ -8603,7 +8518,6 @@
         "aplot",
         "ggfun",
         "treeio",
-        "SingleCellExperiment",
         "MultiAssayExperiment",
         "decontam",
         "DECIPHER",
@@ -8661,7 +8575,6 @@
         "mia",
         "DescTools",
         "Hmisc",
-        "SingleCellExperiment",
         "TreeSummarizedExperiment",
         "lme4",
         "lmerTest",
@@ -8759,7 +8672,6 @@
         "genefilter"
     ],
     "miloR": [
-        "SingleCellExperiment",
         "cowplot",
         "ggraph",
         "patchwork",
@@ -8839,9 +8751,7 @@
         "rtracklayer",
         "GenomicAlignments"
     ],
-    "miQC": [
-        "SingleCellExperiment"
-    ],
+    "miQC": [],
     "MIRA": [
         "bsseq",
         "BSgenome",
@@ -9363,7 +9273,6 @@
     "msImpute": [
         "scran",
         "tidyr",
-        "SingleCellExperiment",
         "scuttle"
     ],
     "mslp": [
@@ -9538,7 +9447,6 @@
     ],
     "MuData": [
         "MultiAssayExperiment",
-        "SingleCellExperiment",
         "tidyr"
     ],
     "Mulcom": [
@@ -9658,7 +9566,6 @@
         "rematch2"
     ],
     "mumosa": [
-        "SingleCellExperiment",
         "scuttle",
         "scran",
         "batchelor"
@@ -9683,7 +9590,6 @@
         "scater",
         "scuttle",
         "sctransform",
-        "SingleCellExperiment",
         "variancePartition",
         "viridis",
         "geneplotter",
@@ -9929,7 +9835,6 @@
     "Nebulosa": [
         "patchwork",
         "Seurat",
-        "SingleCellExperiment",
         "cowplot",
         "ggrepel",
         "ggridges",
@@ -10025,7 +9930,6 @@
     "netSmooth": [
         "scater",
         "clusterExperiment",
-        "SingleCellExperiment",
         "NMF",
         "zinbwave",
         "phylobase",
@@ -10077,12 +9981,9 @@
     ],
     "NeuCA": [
         "keras",
-        "SingleCellExperiment",
         "tensorflow"
     ],
-    "NewWave": [
-        "SingleCellExperiment"
-    ],
+    "NewWave": [],
     "ngsReports": [
         "patchwork",
         "ggdendro",
@@ -10093,7 +9994,6 @@
     ],
     "nnSVG": [
         "SpatialExperiment",
-        "SingleCellExperiment",
         "DropletUtils",
         "BiocFileCache",
         "dbplyr",
@@ -10200,7 +10100,6 @@
         "biomaRt",
         "GenomicFeatures",
         "GSEABase",
-        "SingleCellExperiment",
         "tidyr",
         "dbplyr",
         "annotate",
@@ -10473,8 +10372,7 @@
         "GSEABase",
         "GSVA",
         "annotate",
-        "AnnotationDbi",
-        "SingleCellExperiment"
+        "AnnotationDbi"
     ],
     "oppti": [
         "devtools",
@@ -10820,7 +10718,6 @@
     ],
     "peco": [
         "scater",
-        "SingleCellExperiment",
         "scuttle",
         "ggbeeswarm",
         "viridis",
@@ -11070,7 +10967,6 @@
         "hdrcde"
     ],
     "pipeComp": [
-        "SingleCellExperiment",
         "Seurat",
         "scran",
         "cowplot",
@@ -11183,7 +11079,6 @@
         "AnnotationDbi"
     ],
     "POWSC": [
-        "SingleCellExperiment",
         "MAST"
     ],
     "ppcseq": [
@@ -11382,7 +11277,6 @@
         "NMF",
         "ggalluvial",
         "viridis",
-        "SingleCellExperiment",
         "tidyr"
     ],
     "pRoloc": [
@@ -12980,11 +12874,8 @@
         "AnnotationDbi",
         "org.Hs.eg.db"
     ],
-    "SC3": [
-        "SingleCellExperiment"
-    ],
+    "SC3": [],
     "scAlign": [
-        "SingleCellExperiment",
         "Seurat",
         "tensorflow",
         "cowplot",
@@ -13036,7 +12927,6 @@
     ],
     "scAnnotatR": [
         "Seurat",
-        "SingleCellExperiment",
         "caret",
         "AnnotationHub",
         "BiocFileCache",
@@ -13058,9 +12948,7 @@
         "rtracklayer",
         "GenomicAlignments"
     ],
-    "SCArray": [
-        "SingleCellExperiment"
-    ],
+    "SCArray": [],
     "SCATE": [
         "SCATEData",
         "GenomicAlignments",
@@ -13072,7 +12960,6 @@
         "dbplyr"
     ],
     "scater": [
-        "SingleCellExperiment",
         "scuttle",
         "ggbeeswarm",
         "viridis",
@@ -13081,7 +12968,6 @@
     ],
     "scatterHatch": [],
     "scBFA": [
-        "SingleCellExperiment",
         "Seurat",
         "zinbwave",
         "DESeq2",
@@ -13116,7 +13002,6 @@
         "ggplotify"
     ],
     "scCB2": [
-        "SingleCellExperiment",
         "DropletUtils",
         "Seurat",
         "scuttle",
@@ -13133,7 +13018,6 @@
         "ggraph",
         "Cepo",
         "GSEABase",
-        "SingleCellExperiment",
         "patchwork",
         "ggforce",
         "ggrepel",
@@ -13145,7 +13029,6 @@
     ],
     "sccomp": [
         "rstan",
-        "SingleCellExperiment",
         "tidyr",
         "ggrepel",
         "patchwork",
@@ -13153,7 +13036,6 @@
         "vroom"
     ],
     "scDataviz": [
-        "SingleCellExperiment",
         "ggrepel",
         "Seurat",
         "cowplot",
@@ -13165,7 +13047,6 @@
         "tidyr"
     ],
     "scDblFinder": [
-        "SingleCellExperiment",
         "scran",
         "scater",
         "scuttle",
@@ -13180,7 +13061,6 @@
         "fields",
         "EBSeq",
         "arm",
-        "SingleCellExperiment",
         "scran",
         "lme4",
         "testthat",
@@ -13192,18 +13072,14 @@
     ],
     "scDDboost": [
         "EBSeq",
-        "SingleCellExperiment",
         "Oscope",
         "testthat",
         "waldo",
         "rematch2"
     ],
-    "scds": [
-        "SingleCellExperiment"
-    ],
+    "scds": [],
     "scFeatureFilter": [],
     "scGPS": [
-        "SingleCellExperiment",
         "caret",
         "DESeq2",
         "recipes",
@@ -13214,7 +13090,6 @@
         "tidyr"
     ],
     "schex": [
-        "SingleCellExperiment",
         "Seurat",
         "ggforce",
         "concaveman",
@@ -13228,7 +13103,6 @@
         "tidyr"
     ],
     "scHOT": [
-        "SingleCellExperiment",
         "ggforce"
     ],
     "scifer": [
@@ -13246,13 +13120,10 @@
         "sctransform",
         "tidyr"
     ],
-    "scmap": [
-        "SingleCellExperiment"
-    ],
+    "scmap": [],
     "scMerge": [
         "M3Drop",
         "ruv",
-        "SingleCellExperiment",
         "reldist",
         "Hmisc",
         "viridis",
@@ -13263,8 +13134,7 @@
         "rstan",
         "viridis",
         "BiocStyle",
-        "cowplot",
-        "SingleCellExperiment"
+        "cowplot"
     ],
     "scmeth": [
         "bsseq",
@@ -13283,12 +13153,9 @@
         "vroom",
         "GenomicAlignments"
     ],
-    "SCnorm": [
-        "SingleCellExperiment"
-    ],
+    "SCnorm": [],
     "scone": [
         "RUVSeq",
-        "SingleCellExperiment",
         "EDASeq",
         "ShortRead",
         "biomaRt",
@@ -13324,14 +13191,12 @@
     ],
     "scp": [
         "QFeatures",
-        "SingleCellExperiment",
         "MultiAssayExperiment",
         "tidyr",
         "plotly"
     ],
     "scPCA": [],
     "scPipe": [
-        "SingleCellExperiment",
         "biomaRt",
         "GGally",
         "AnnotationDbi",
@@ -13353,12 +13218,9 @@
         "rematch2"
     ],
     "scran": [
-        "SingleCellExperiment",
         "scuttle"
     ],
-    "scReClassify": [
-        "SingleCellExperiment"
-    ],
+    "scReClassify": [],
     "scRecover": [
         "Rmagic"
     ],
@@ -13369,7 +13231,6 @@
     ],
     "scRepertoire": [
         "ggalluvial",
-        "SingleCellExperiment",
         "ggraph",
         "tidygraph",
         "tidyr",
@@ -13385,7 +13246,6 @@
         "ggthemes",
         "ggbio",
         "rtracklayer",
-        "SingleCellExperiment",
         "biomaRt",
         "Hmisc",
         "biovizBase",
@@ -13399,14 +13259,11 @@
         "viridis",
         "dbplyr"
     ],
-    "scry": [
-        "SingleCellExperiment"
-    ],
+    "scry": [],
     "scTensor": [
         "plotly",
         "reactome.db",
         "AnnotationDbi",
-        "SingleCellExperiment",
         "nnTensor",
         "ccTensor",
         "heatmaply",
@@ -13462,7 +13319,6 @@
     ],
     "scTGIF": [
         "GSEABase",
-        "SingleCellExperiment",
         "BiocStyle",
         "plotly",
         "nnTensor",
@@ -13492,7 +13348,6 @@
         "ggraph",
         "scater",
         "Seurat",
-        "SingleCellExperiment",
         "viridis",
         "tidygraph",
         "ggrepel",
@@ -13518,9 +13373,7 @@
         "GenomicAlignments",
         "dbplyr"
     ],
-    "scuttle": [
-        "SingleCellExperiment"
-    ],
+    "scuttle": [],
     "SDAMS": [
         "qvalue"
     ],
@@ -13843,7 +13696,6 @@
         "GenomicFeatures",
         "rtracklayer",
         "GSEABase",
-        "SingleCellExperiment",
         "tidyr",
         "readr",
         "ggpubr",
@@ -13902,7 +13754,6 @@
     "SimFFPE": [],
     "simpleSeg": [
         "cytomapper",
-        "SingleCellExperiment",
         "SpatialExperiment",
         "viridis",
         "ggbeeswarm",
@@ -13926,14 +13777,11 @@
         "GenomicAlignments",
         "tidyr"
     ],
-    "SingleCellExperiment": [],
     "SingleCellSignalR": [
         "scran",
-        "SingleCellExperiment",
         "scuttle"
     ],
     "singleCellTK": [
-        "SingleCellExperiment",
         "AnnotationHub",
         "batchelor",
         "celldex",
@@ -14038,8 +13886,7 @@
         "GSVA",
         "AnnotationDbi",
         "annotate",
-        "GSEABase",
-        "SingleCellExperiment"
+        "GSEABase"
     ],
     "sitadela": [
         "biomaRt",
@@ -14088,13 +13935,11 @@
     ],
     "slalom": [
         "GSEABase",
-        "SingleCellExperiment",
         "annotate",
         "AnnotationDbi"
     ],
     "slingshot": [
-        "TrajectoryUtils",
-        "SingleCellExperiment"
+        "TrajectoryUtils"
     ],
     "SMAD": [
         "tidyr"
@@ -14177,7 +14022,6 @@
     "SpacePAC": [],
     "Spaniel": [
         "Seurat",
-        "SingleCellExperiment",
         "scater",
         "scran",
         "DropletUtils",
@@ -14213,7 +14057,6 @@
     ],
     "spaSim": [
         "SpatialExperiment",
-        "SingleCellExperiment",
         "DropletUtils",
         "BiocFileCache",
         "dbplyr",
@@ -14232,7 +14075,6 @@
     "spatialDE": [
         "SpatialExperiment",
         "ggrepel",
-        "SingleCellExperiment",
         "DropletUtils",
         "BiocFileCache",
         "dbplyr",
@@ -14256,14 +14098,12 @@
         "rematch2"
     ],
     "SpatialExperiment": [
-        "SingleCellExperiment",
         "DropletUtils",
         "BiocFileCache",
         "dbplyr",
         "scuttle"
     ],
     "SpatialFeatureExperiment": [
-        "SingleCellExperiment",
         "SpatialExperiment",
         "spdep",
         "DropletUtils",
@@ -14281,7 +14121,6 @@
         "scater",
         "scuttle",
         "scran",
-        "SingleCellExperiment",
         "shinydashboard",
         "UpSetR",
         "dbplyr",
@@ -14340,7 +14179,6 @@
         "cowplot",
         "ggrepel",
         "ggridges",
-        "SingleCellExperiment",
         "tidyr",
         "DropletUtils",
         "BiocFileCache",
@@ -14353,7 +14191,6 @@
         "lmerTest",
         "lme4",
         "tidyr",
-        "SingleCellExperiment",
         "SpatialExperiment",
         "ggforce",
         "nloptr",
@@ -14378,7 +14215,6 @@
         "rtracklayer"
     ],
     "splatter": [
-        "SingleCellExperiment",
         "scater",
         "scuttle",
         "ggbeeswarm",
@@ -14489,7 +14325,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "SingleCellExperiment",
         "DropletUtils",
         "BiocFileCache",
         "dbplyr",
@@ -14497,14 +14332,12 @@
         "tidyr"
     ],
     "SPOTlight": [
-        "NMF",
-        "SingleCellExperiment"
+        "NMF"
     ],
     "spqn": [
         "ggridges"
     ],
     "SPsimSeq": [
-        "SingleCellExperiment",
         "Hmisc",
         "WGCNA",
         "phyloseq",
@@ -14594,7 +14427,6 @@
     ],
     "standR": [
         "SpatialExperiment",
-        "SingleCellExperiment",
         "readr",
         "tidyr",
         "ruv",
@@ -14637,7 +14469,6 @@
         "concaveman",
         "tidyverse",
         "tidyr",
-        "SingleCellExperiment",
         "broom",
         "dbplyr",
         "dtplyr",
@@ -14667,7 +14498,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "SingleCellExperiment",
         "DropletUtils",
         "BiocFileCache",
         "dbplyr",
@@ -14808,9 +14638,7 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "switchde": [
-        "SingleCellExperiment"
-    ],
+    "switchde": [],
     "synapter": [
         "MSnbase",
         "qvalue",
@@ -14983,7 +14811,6 @@
         "sva",
         "geneplotter",
         "GSEABase",
-        "SingleCellExperiment",
         "ggrepel",
         "plotly",
         "tidyr",
@@ -15109,7 +14936,6 @@
         "annotate"
     ],
     "TENxIO": [
-        "SingleCellExperiment",
         "readr",
         "vroom"
     ],
@@ -15201,7 +15027,6 @@
     ],
     "tidySingleCellExperiment": [
         "ttservice",
-        "SingleCellExperiment",
         "tidyr",
         "plotly"
     ],
@@ -15325,7 +15150,6 @@
         "ggsignif",
         "rstatix",
         "GSEABase",
-        "SingleCellExperiment",
         "annotate",
         "AnnotationDbi",
         "broom",
@@ -15398,15 +15222,12 @@
         "viridis"
     ],
     "tradeSeq": [
-        "SingleCellExperiment",
         "slingshot",
         "TrajectoryUtils",
         "viridis"
     ],
     "TrajectoryGeometry": [],
-    "TrajectoryUtils": [
-        "SingleCellExperiment"
-    ],
+    "TrajectoryUtils": [],
     "transcriptogramer": [
         "biomaRt",
         "tidyr",
@@ -15432,8 +15253,7 @@
         "dbplyr"
     ],
     "transformGamPoi": [
-        "glmGamPoi",
-        "SingleCellExperiment"
+        "glmGamPoi"
     ],
     "transite": [
         "ggseqlogo"
@@ -15466,7 +15286,6 @@
     "Travel": [],
     "traviz": [
         "viridis",
-        "SingleCellExperiment",
         "slingshot",
         "TrajectoryUtils"
     ],
@@ -15479,7 +15298,6 @@
         "ggiraph",
         "ggtree",
         "patchwork",
-        "SingleCellExperiment",
         "diffcyt",
         "lme4",
         "FlowSOM",
@@ -15505,7 +15323,6 @@
         "pbkrtest"
     ],
     "TreeSummarizedExperiment": [
-        "SingleCellExperiment",
         "treeio",
         "tidytree",
         "tidyr"
@@ -15543,7 +15360,6 @@
         "dbplyr"
     ],
     "tricycle": [
-        "SingleCellExperiment",
         "ggnewscale",
         "AnnotationDbi",
         "scater",
@@ -15580,7 +15396,6 @@
         "GenomicAlignments"
     ],
     "TSCAN": [
-        "SingleCellExperiment",
         "TrajectoryUtils"
     ],
     "tscR": [
@@ -15623,9 +15438,7 @@
         "biomaRt",
         "GenomicAlignments"
     ],
-    "UCell": [
-        "SingleCellExperiment"
-    ],
+    "UCell": [],
     "Ularcirc": [
         "AnnotationHub",
         "AnnotationDbi",
@@ -15722,7 +15535,6 @@
     ],
     "VAExprs": [
         "keras",
-        "SingleCellExperiment",
         "tensorflow",
         "scater",
         "DeepPINCS",
@@ -15840,8 +15652,7 @@
         "dbplyr"
     ],
     "VDJdive": [
-        "cowplot",
-        "SingleCellExperiment"
+        "cowplot"
     ],
     "VegaMC": [
         "biomaRt",
@@ -15851,8 +15662,7 @@
     ],
     "velociraptor": [
         "zellkonverter",
-        "scuttle",
-        "SingleCellExperiment"
+        "scuttle"
     ],
     "VennDetail": [
         "UpSetR"
@@ -15915,7 +15725,6 @@
     "Voyager": [
         "ggnewscale",
         "patchwork",
-        "SingleCellExperiment",
         "SpatialExperiment",
         "SpatialFeatureExperiment",
         "spdep",
@@ -15978,7 +15787,6 @@
         "arm",
         "eva",
         "BiocFileCache",
-        "SingleCellExperiment",
         "lme4",
         "dbplyr",
         "EnvStats",
@@ -16126,9 +15934,7 @@
         "rtracklayer",
         "GenomicAlignments"
     ],
-    "zellkonverter": [
-        "SingleCellExperiment"
-    ],
+    "zellkonverter": [],
     "zenith": [
         "variancePartition",
         "EnrichmentBrowser",
@@ -16158,7 +15964,6 @@
         "tidyr"
     ],
     "zinbwave": [
-        "SingleCellExperiment",
         "genefilter",
         "AnnotationDbi",
         "annotate"
@@ -17848,7 +17653,6 @@
         "tidyr"
     ],
     "scRNAseq": [
-        "SingleCellExperiment",
         "ExperimentHub",
         "AnnotationHub",
         "AnnotationDbi",
@@ -17862,7 +17666,6 @@
         "GenomicAlignments"
     ],
     "TENxPBMCData": [
-        "SingleCellExperiment",
         "AnnotationHub",
         "ExperimentHub",
         "BiocFileCache",
