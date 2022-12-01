@@ -46,7 +46,6 @@
         "ExperimentHub",
         "BiocVersion"
     ],
-    "Anaquin": [],
     "ANCOMBC": [
         "mia",
         "lme4",
