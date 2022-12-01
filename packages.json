@@ -785,9 +785,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "CRISPRseek": [],
     "crisprseekplus": [
-        "CRISPRseek",
         "GUIDEseq",
         "GenomicFeatures",
         "ChIPpeakAnno",
@@ -1704,7 +1702,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "GUIDEseq": [
-        "CRISPRseek",
         "ChIPpeakAnno",
         "GenomicFeatures",
         "ensembldb",
@@ -2530,7 +2527,6 @@
     ],
     "MultiBaC": [],
     "multicrispr": [
-        "CRISPRseek",
         "GenomicFeatures",
         "karyoploteR",
         "regioneR",
