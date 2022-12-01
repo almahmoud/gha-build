@@ -1076,7 +1076,6 @@
         "DESeq2",
         "GreyListChIP"
     ],
-    "diffcoexp": [],
     "diffcyt": [
         "FlowSOM",
         "lme4",
