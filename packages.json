@@ -1813,7 +1813,6 @@
         "ShortRead",
         "biomaRt",
         "edgeR",
-        "sendmailR",
         "AnnotationDbi",
         "progress",
         "httr",
@@ -23614,7 +23613,6 @@
         "GenomeInfoDb",
         "BBmisc",
         "RSQLite",
-        "sendmailR",
         "futile.logger",
         "XVector",
         "mgcv",
@@ -38616,7 +38614,6 @@
         "doParallel",
         "BBmisc",
         "RSQLite",
-        "sendmailR",
         "bit64",
         "blob",
         "memoise",
@@ -60615,7 +60612,6 @@
         "urltools"
     ],
     "urltools": [],
-    "sendmailR": [],
     "FDb.InfiniumMethylation.hg19": [
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -64646,7 +64642,6 @@
     "BatchJobs": [
         "BBmisc",
         "RSQLite",
-        "sendmailR",
         "bit64",
         "blob",
         "memoise",
