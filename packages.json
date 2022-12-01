@@ -27206,7 +27206,6 @@
     "cTRAP": [
         "AnnotationDbi",
         "AnnotationHub",
-        "binr",
         "cowplot",
         "dplyr",
         "DT",
@@ -145478,7 +145477,6 @@
         "rappdirs"
     ],
     "NCmisc": [],
-    "binr": [],
     "highcharter": [
         "htmlwidgets",
         "magrittr",
