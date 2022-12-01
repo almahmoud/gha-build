@@ -268,8 +268,7 @@
     "ASICS": [
         "ropls",
         "plotly",
-        "MultiAssayExperiment",
-        "MultiDataSet"
+        "MultiAssayExperiment"
     ],
     "ASpediaFI": [
         "GenomicFeatures",
@@ -674,7 +673,6 @@
     ],
     "biosigner": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ropls",
         "plotly"
     ],
@@ -4081,8 +4079,7 @@
         "fgsea",
         "ropls",
         "plotly",
-        "MultiAssayExperiment",
-        "MultiDataSet"
+        "MultiAssayExperiment"
     ],
     "LiquidAssociation": [
         "geepack",
@@ -4316,7 +4313,6 @@
         "VariantAnnotation"
     ],
     "MEAL": [
-        "MultiDataSet",
         "minfi",
         "Gviz",
         "missMethyl",
@@ -5223,8 +5219,7 @@
     "MultiBaC": [
         "MultiAssayExperiment",
         "ropls",
-        "plotly",
-        "MultiDataSet"
+        "plotly"
     ],
     "multiClust": [],
     "multicrispr": [
@@ -5241,7 +5236,6 @@
         "VariantAnnotation",
         "ensembldb"
     ],
-    "MultiDataSet": [],
     "multiGSEA": [
         "graphite",
         "fgsea",
@@ -5263,7 +5257,6 @@
         "metap",
         "devtools",
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ropls",
         "recipes",
         "DOSE",
@@ -5639,7 +5632,6 @@
     "omicRexposome": [
         "rexposome",
         "sva",
-        "MultiDataSet",
         "SmartSVA",
         "isva",
         "FactoMineR",
@@ -5965,7 +5957,6 @@
         "biodb",
         "biodbChebi",
         "MultiAssayExperiment",
-        "MultiDataSet",
         "plotly",
         "ropls",
         "testthat",
@@ -6195,7 +6186,6 @@
         "ropls",
         "plotly",
         "MultiAssayExperiment",
-        "MultiDataSet",
         "MSnbase"
     ],
     "profileplyr": [
@@ -7020,8 +7010,7 @@
     "RolDE": [],
     "ropls": [
         "plotly",
-        "MultiAssayExperiment",
-        "MultiDataSet"
+        "MultiAssayExperiment"
     ],
     "RPA": [],
     "rprimer": [],
@@ -7045,7 +7034,6 @@
         "lme4",
         "plotly",
         "MultiAssayExperiment",
-        "MultiDataSet",
         "nloptr",
         "testthat",
         "waldo"
