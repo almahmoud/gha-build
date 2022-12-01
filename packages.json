@@ -332,7 +332,6 @@
         "waldo"
     ],
     "ASICS": [
-        "PepsNMR",
         "ropls",
         "plotly",
         "MultiAssayExperiment",
@@ -7309,7 +7308,6 @@
         "scuttle",
         "ggrastr"
     ],
-    "PepsNMR": [],
     "pepStat": [
         "fields"
     ],
