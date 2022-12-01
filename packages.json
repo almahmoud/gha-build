@@ -160,7 +160,6 @@
         "sva"
     ],
     "ATACCoGAPS": [
-        "projectR",
         "TFBSTools",
         "tidyverse",
         "motifmatchr",
@@ -3281,7 +3280,6 @@
         "ggtree"
     ],
     "progeny": [],
-    "projectR": [],
     "pRoloc": [],
     "pRolocGUI": [
         "pRoloc"
