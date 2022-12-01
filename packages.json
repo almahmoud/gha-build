@@ -3079,7 +3079,6 @@
         "cytomapper"
     ],
     "simplifyEnrichment": [],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "AnnotationHub",
         "celldex",
