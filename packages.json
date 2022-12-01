@@ -698,8 +698,7 @@
     "multicrispr": [],
     "multiSight": [],
     "muscat": [
-        "scater",
-        "variancePartition"
+        "scater"
     ],
     "musicatk": [
         "factoextra",
@@ -1136,7 +1135,6 @@
         "scater",
         "DeepPINCS"
     ],
-    "variancePartition": [],
     "VariantFiltering": [
         "GenomicScores",
         "AnnotationHub",
@@ -1162,9 +1160,7 @@
         "SomaticSignatures"
     ],
     "yarn": [],
-    "zenith": [
-        "variancePartition"
-    ],
+    "zenith": [],
     "ggpubr": [
         "rstatix"
     ],
