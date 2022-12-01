@@ -744,9 +744,7 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "ComPrAn": [
-        "rio"
-    ],
+    "ComPrAn": [],
     "conclus": [
         "factoextra",
         "scater",
@@ -837,7 +835,6 @@
         "GUIDEseq",
         "GenomicFeatures",
         "ChIPpeakAnno",
-        "rio",
         "ensembldb",
         "regioneR"
     ],
@@ -1778,7 +1775,6 @@
         "CRISPRseek",
         "ChIPpeakAnno",
         "GenomicFeatures",
-        "rio",
         "ensembldb",
         "regioneR"
     ],
@@ -1983,8 +1979,7 @@
         "nloptr"
     ],
     "ISAnalytics": [
-        "datamods",
-        "rio"
+        "datamods"
     ],
     "iSEEhub": [
         "ExperimentHub",
@@ -2057,7 +2052,6 @@
     ],
     "LinkHD": [
         "ggpubr",
-        "rio",
         "rstatix",
         "car",
         "pbkrtest",
@@ -4565,7 +4559,6 @@
     ],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [],
-    "rio": [],
     "factoextra": [
         "FactoMineR",
         "ggpubr",
@@ -4654,9 +4647,7 @@
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "GenomicFeatures"
     ],
-    "datamods": [
-        "rio"
-    ],
+    "datamods": [],
     "adabag": [],
     "glmmTMB": [
         "lme4",
