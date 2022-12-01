@@ -2839,7 +2839,6 @@
     ],
     "HubPub": [],
     "hypeR": [],
-    "iBBiG": [],
     "iCARE": [],
     "icetea": [
         "GenomicFeatures",
@@ -3743,7 +3742,6 @@
     "miRNAmeConverter": [],
     "miRSM": [
         "WGCNA",
-        "iBBiG",
         "BicARE",
         "s4vd",
         "BiBitR",
