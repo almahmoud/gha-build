@@ -19104,7 +19104,6 @@
     ],
     "miRSM": [
         "WGCNA",
-        "linkcomm",
         "NMF",
         "biclust",
         "iBBiG",
@@ -19228,7 +19227,6 @@
         "clusterProfiler",
         "ReactomePA",
         "DOSE",
-        "linkcomm",
         "org.Hs.eg.db",
         "AnnotationDbi",
         "dplyr",
@@ -26639,7 +26637,6 @@
     "RITAN": [
         "ggplot2",
         "STRINGdb",
-        "linkcomm",
         "sqldf",
         "BgeeDB",
         "GenomicFeatures",
@@ -38549,7 +38546,6 @@
         "Biostrings",
         "XVector"
     ],
-    "linkcomm": [],
     "s4vd": [
         "biclust",
         "tidyr",
