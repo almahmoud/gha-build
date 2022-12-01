@@ -1603,7 +1603,6 @@
     ],
     "banocc": [
         "rstan",
-        "StanHeaders",
         "ggplot2",
         "tibble",
         "pillar"
@@ -1684,7 +1683,6 @@
         "scuttle",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "StanHeaders",
         "cowplot",
         "ggExtra",
         "ggplot2",
@@ -13855,7 +13853,6 @@
     "IgGeneUsage": [
         "rstan",
         "SummarizedExperiment",
-        "StanHeaders",
         "ggplot2",
         "GenomicRanges",
         "tibble",
@@ -15404,7 +15401,6 @@
         "viridis",
         "densEstBayes",
         "rstan",
-        "StanHeaders",
         "tibble",
         "pillar"
     ],
@@ -22486,7 +22482,6 @@
         "ggplot2",
         "tidybayes",
         "benchmarkme",
-        "StanHeaders",
         "benchmarkmeData",
         "tidyselect",
         "pillar",
@@ -24853,7 +24848,6 @@
         "pillar",
         "tidyselect",
         "rstan",
-        "StanHeaders",
         "annotate",
         "hms"
     ],
@@ -26510,7 +26504,6 @@
         "patchwork",
         "forcats",
         "readr",
-        "StanHeaders",
         "pillar",
         "hms",
         "vroom",
@@ -26769,7 +26762,6 @@
         "viridis",
         "densEstBayes",
         "rstan",
-        "StanHeaders",
         "pillar"
     ],
     "scMET": [
@@ -26781,7 +26773,6 @@
         "SummarizedExperiment",
         "SingleCellExperiment",
         "dplyr",
-        "StanHeaders",
         "bookdown",
         "rmarkdown",
         "tibble",
@@ -28269,8 +28260,7 @@
         "TH.data",
         "densEstBayes",
         "quantreg",
-        "rstan",
-        "StanHeaders"
+        "rstan"
     ],
     "SingleMoleculeFootprinting": [
         "Biostrings",
@@ -33817,12 +33807,10 @@
     ],
     "gbm": [],
     "rstan": [
-        "StanHeaders",
         "ggplot2",
         "tibble",
         "pillar"
     ],
-    "StanHeaders": [],
     "prettydoc": [
         "rmarkdown",
         "bslib"
@@ -35842,14 +35830,12 @@
     "reldist": [
         "densEstBayes",
         "rstan",
-        "StanHeaders",
         "ggplot2",
         "tibble",
         "pillar"
     ],
     "densEstBayes": [
         "rstan",
-        "StanHeaders",
         "ggplot2",
         "tibble",
         "pillar"
