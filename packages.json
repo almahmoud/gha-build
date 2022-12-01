@@ -582,7 +582,6 @@
         "dplyr",
         "ggplot2",
         "ComplexHeatmap",
-        "forestplot",
         "GenomicRanges",
         "RcppEigen",
         "RcppNumerical",
@@ -53522,7 +53521,6 @@
         "pheatmap",
         "GGally",
         "R.utils",
-        "forestplot",
         "ggplot2",
         "ggpubr",
         "survival",
@@ -57198,7 +57196,6 @@
     "emdbook": [
         "bbmle"
     ],
-    "forestplot": [],
     "RcppNumerical": [
         "RcppEigen"
     ],
