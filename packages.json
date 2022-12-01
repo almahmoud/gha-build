@@ -1237,8 +1237,7 @@
         "shiny",
         "shinyjs",
         "tibble",
-        "BiocSingular",
-        "bluster"
+        "BiocSingular"
     ],
     "BASiCStan": [
         "BASiCS",
@@ -1253,7 +1252,6 @@
         "ggplot2",
         "viridis",
         "BiocSingular",
-        "bluster",
         "colourpicker",
         "miniUI",
         "shiny",
@@ -1308,8 +1306,7 @@
         "ggbeeswarm",
         "viridis",
         "ggrastr",
-        "ggrepel",
-        "bluster"
+        "ggrepel"
     ],
     "bayNorm": [
         "SingleCellExperiment",
@@ -1984,8 +1981,7 @@
         "SingleCellExperiment",
         "scuttle",
         "SummarizedExperiment",
-        "BiocSingular",
-        "bluster"
+        "BiocSingular"
     ],
     "biotmle": [
         "dplyr",
@@ -2134,7 +2130,6 @@
         "KEGGREST",
         "shiny"
     ],
-    "bluster": [],
     "bnbc": [
         "SummarizedExperiment",
         "sva",
@@ -2820,8 +2815,7 @@
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
-        "ggrastr",
-        "bluster"
+        "ggrastr"
     ],
     "CellaRepertorium": [
         "dplyr",
@@ -3552,7 +3546,6 @@
         "GenomicAlignments",
         "ggbeeswarm",
         "ggrastr",
-        "bluster",
         "fresh",
         "waiter"
     ],
@@ -3721,7 +3714,6 @@
         "tidygraph",
         "scuttle",
         "BiocSingular",
-        "bluster",
         "tidyr"
     ],
     "ClassifyR": [
@@ -4334,7 +4326,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrastr",
-        "bluster",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -6053,7 +6044,6 @@
         "Seurat",
         "scran",
         "scuttle",
-        "bluster",
         "cowplot",
         "ggplot2",
         "ggrepel",
@@ -7965,7 +7955,6 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "bluster",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -10911,7 +10900,6 @@
         "BiocSingular",
         "ggbeeswarm",
         "ggrastr",
-        "bluster",
         "ggridges",
         "miniUI",
         "patchwork",
@@ -14263,8 +14251,7 @@
         "SingleCellExperiment",
         "scuttle",
         "SummarizedExperiment",
-        "BiocSingular",
-        "bluster"
+        "BiocSingular"
     ],
     "mslp": [
         "org.Hs.eg.db",
@@ -14700,8 +14687,7 @@
         "BiocSingular",
         "scuttle",
         "scran",
-        "batchelor",
-        "bluster"
+        "batchelor"
     ],
     "MungeSumstats": [
         "dplyr",
@@ -16833,7 +16819,6 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "bluster",
         "ggridges",
         "miniUI",
         "patchwork",
@@ -20100,7 +20085,6 @@
         "scran",
         "scater",
         "scuttle",
-        "bluster",
         "Rsamtools",
         "rtracklayer",
         "GenomicAlignments",
@@ -20125,7 +20109,6 @@
         "tibble",
         "scuttle",
         "BiocSingular",
-        "bluster",
         "nloptr",
         "waldo",
         "rematch2"
@@ -20414,8 +20397,7 @@
         "SingleCellExperiment",
         "scuttle",
         "SummarizedExperiment",
-        "BiocSingular",
-        "bluster"
+        "BiocSingular"
     ],
     "scReClassify": [
         "SummarizedExperiment",
@@ -20620,7 +20602,6 @@
         "BiocSingular",
         "ggbeeswarm",
         "ggrastr",
-        "bluster",
         "cowplot",
         "ggridges",
         "miniUI",
@@ -21279,8 +21260,7 @@
         "SingleCellExperiment",
         "scuttle",
         "SummarizedExperiment",
-        "BiocSingular",
-        "bluster"
+        "BiocSingular"
     ],
     "singleCellTK": [
         "SummarizedExperiment",
@@ -21358,7 +21338,6 @@
         "babelgene",
         "ggbeeswarm",
         "ggrastr",
-        "bluster",
         "M3Drop",
         "ruv",
         "ggridges",
@@ -21655,7 +21634,6 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "bluster",
         "cowplot",
         "ggridges",
         "miniUI",
@@ -21818,7 +21796,6 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "bluster",
         "Hmisc",
         "GO.db",
         "KEGGREST"
@@ -24366,7 +24343,6 @@
         "shiny"
     ],
     "Voyager": [
-        "bluster",
         "ggnewscale",
         "ggplot2",
         "patchwork",
