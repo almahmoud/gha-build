@@ -14677,7 +14677,6 @@
         "naniar",
         "LambertW",
         "recipes",
-        "butcher",
         "tidyr",
         "visdat",
         "viridis",
@@ -17197,7 +17196,6 @@
     "bestNormalize": [
         "LambertW",
         "recipes",
-        "butcher",
         "ipred",
         "tidyr"
     ],
@@ -17209,7 +17207,6 @@
         "readr"
     ],
     "LambertW": [],
-    "butcher": [],
     "visdat": [
         "tidyr",
         "readr"
