@@ -34876,7 +34876,6 @@
         "pillar"
     ],
     "PECA": [
-        "ROTS",
         "genefilter",
         "aroma.affymetrix",
         "aroma.core",
@@ -41142,7 +41141,6 @@
         "XVector"
     ],
     "RolDE": [
-        "ROTS",
         "doParallel",
         "doRNG",
         "SummarizedExperiment",
@@ -41203,7 +41201,6 @@
     "ROSeq": [
         "edgeR"
     ],
-    "ROTS": [],
     "RPA": [
         "BiocStyle",
         "rmarkdown",
