@@ -6037,7 +6037,6 @@
         "drc",
         "tidyverse",
         "gstat",
-        "SpatialExtremes",
         "car",
         "haven",
         "pbkrtest",
@@ -7229,7 +7228,6 @@
         "haven"
     ],
     "gstat": [],
-    "SpatialExtremes": [],
     "GenKern": [],
     "bestNormalize": [],
     "naniar": [
