@@ -326,7 +326,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "diffobj",
         "rematch2",
         "XVector",
         "pbkrtest",
@@ -1392,7 +1391,6 @@
         "memoise",
         "RcppAnnoy",
         "dqrng",
-        "diffobj",
         "rematch2",
         "sitmo",
         "cachem",
@@ -2582,7 +2580,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "ASGSCA": [
@@ -2725,7 +2722,6 @@
         "processx",
         "waldo",
         "highr",
-        "diffobj",
         "rematch2"
     ],
     "ASpli": [
@@ -3288,7 +3284,6 @@
         "CNEr",
         "DirichletMultinomial",
         "TFMPvalue",
-        "diffobj",
         "rematch2",
         "readr",
         "reshape2",
@@ -3505,7 +3500,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "bacon": [
@@ -4732,7 +4726,6 @@
         "ragg",
         "highr",
         "blob",
-        "diffobj",
         "rematch2",
         "systemfonts",
         "textshaping"
@@ -5254,7 +5247,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "BiocCheck": [
@@ -5462,7 +5454,6 @@
         "processx",
         "waldo",
         "lambda.r",
-        "diffobj",
         "rematch2"
     ],
     "BioCor": [
@@ -5684,7 +5675,6 @@
         "tibble",
         "tidyselect",
         "cachem",
-        "diffobj",
         "rematch2"
     ],
     "biodbChebi": [
@@ -5717,7 +5707,6 @@
         "tibble",
         "tidyselect",
         "cachem",
-        "diffobj",
         "rematch2"
     ],
     "biodbExpasy": [
@@ -5750,7 +5739,6 @@
         "tibble",
         "tidyselect",
         "cachem",
-        "diffobj",
         "rematch2"
     ],
     "biodbHmdb": [
@@ -5777,7 +5765,6 @@
         "bit64",
         "blob",
         "memoise",
-        "diffobj",
         "rematch2",
         "tibble",
         "vctrs",
@@ -5816,7 +5803,6 @@
         "tibble",
         "tidyselect",
         "cachem",
-        "diffobj",
         "rematch2"
     ],
     "biodbLipidmaps": [
@@ -5849,7 +5835,6 @@
         "tibble",
         "tidyselect",
         "cachem",
-        "diffobj",
         "rematch2"
     ],
     "biodbMirbase": [
@@ -5882,7 +5867,6 @@
         "tibble",
         "tidyselect",
         "cachem",
-        "diffobj",
         "rematch2"
     ],
     "biodbNcbi": [
@@ -5915,7 +5899,6 @@
         "tibble",
         "tidyselect",
         "cachem",
-        "diffobj",
         "rematch2"
     ],
     "biodbNci": [
@@ -5942,7 +5925,6 @@
         "bit64",
         "blob",
         "memoise",
-        "diffobj",
         "rematch2",
         "tibble",
         "vctrs",
@@ -5981,7 +5963,6 @@
         "tibble",
         "tidyselect",
         "cachem",
-        "diffobj",
         "rematch2"
     ],
     "bioDist": [
@@ -6907,7 +6888,6 @@
         "RCurl",
         "XVector",
         "pillar",
-        "diffobj",
         "rematch2",
         "KEGGREST",
         "blob",
@@ -7752,7 +7732,6 @@
         "fontawesome",
         "promises",
         "pillar",
-        "diffobj",
         "rematch2"
     ],
     "bumphunter": [
@@ -8594,7 +8573,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "Category": [
@@ -9431,7 +9409,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "CellMixS": [
@@ -9788,7 +9765,6 @@
         "processx",
         "waldo",
         "car",
-        "diffobj",
         "rematch2",
         "pbkrtest",
         "quantreg",
@@ -9988,7 +9964,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "CexoR": [
@@ -12414,7 +12389,6 @@
         "memoise",
         "highr",
         "pillar",
-        "diffobj",
         "rematch2"
     ],
     "CNORode": [
@@ -12699,7 +12673,6 @@
         "jquerylib",
         "memoise",
         "pillar",
-        "diffobj",
         "rematch2",
         "lambda.r"
     ],
@@ -13036,7 +13009,6 @@
         "httpuv",
         "fontawesome",
         "promises",
-        "diffobj",
         "rematch2"
     ],
     "cogeqc": [
@@ -13400,7 +13372,6 @@
         "waldo",
         "MatrixGenerics",
         "DelayedArray",
-        "diffobj",
         "rematch2"
     ],
     "compartmap": [
@@ -13806,7 +13777,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "condiments": [
@@ -16084,7 +16054,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "cycle": [
@@ -16260,7 +16229,6 @@
         "knitr",
         "lava",
         "MatrixModels",
-        "diffobj",
         "rematch2",
         "highr",
         "future.apply",
@@ -16343,7 +16311,6 @@
         "highr",
         "future.apply",
         "progressr",
-        "diffobj",
         "rematch2",
         "future",
         "globals"
@@ -16769,7 +16736,6 @@
         "waldo",
         "future.apply",
         "progressr",
-        "diffobj",
         "rematch2",
         "future",
         "globals"
@@ -16907,7 +16873,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "diffobj",
         "rematch2",
         "highr"
     ],
@@ -17113,7 +17078,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "dearseq": [
@@ -17544,7 +17508,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "decoupleR": [
@@ -18545,7 +18508,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "DEsubs": [
@@ -18596,7 +18558,6 @@
         "lambda.r",
         "RCurl",
         "plyr",
-        "diffobj",
         "rematch2",
         "openssl",
         "Biostrings",
@@ -18960,7 +18921,6 @@
         "waldo",
         "pbkrtest",
         "quantreg",
-        "diffobj",
         "rematch2",
         "knitr",
         "MatrixModels",
@@ -19462,7 +19422,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "DMCHMM": [
@@ -19987,7 +19946,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "DOSE": [
@@ -20049,7 +20007,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2",
         "tibble",
         "pillar",
@@ -20451,7 +20408,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "EasyCellType": [
@@ -20651,7 +20607,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2",
         "tibble",
         "pillar",
@@ -20669,7 +20624,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2",
         "tibble",
         "pillar",
@@ -20775,7 +20729,6 @@
         "XVector",
         "GenomeInfoDb",
         "cachem",
-        "diffobj",
         "rematch2",
         "RCurl"
     ],
@@ -21135,7 +21088,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "EMDomics": [
@@ -21556,7 +21508,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "ensembldb": [
@@ -21822,7 +21773,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "EpiDISH": [
@@ -21939,7 +21889,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "epihet": [
@@ -23164,7 +23113,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "ExCluster": [
@@ -24762,7 +24710,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "flowCyBar": [
@@ -24827,7 +24774,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "flowFP": [
@@ -24952,7 +24898,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "FlowSOM": [
@@ -25002,7 +24947,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "flowSpecs": [
@@ -25388,7 +25332,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "FRGEpistasis": [
@@ -25619,7 +25562,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "GA4GHclient": [
@@ -25878,7 +25820,6 @@
         "Rhtslib",
         "RWekajars",
         "GenomicAlignments",
-        "diffobj",
         "rematch2",
         "dbplyr",
         "tzdb",
@@ -26062,7 +26003,6 @@
         "fontawesome",
         "promises",
         "pillar",
-        "diffobj",
         "rematch2"
     ],
     "GDCRNATools": [
@@ -26192,7 +26132,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "GDSArray": [
@@ -26372,7 +26311,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "geneAttribution": [
@@ -26575,7 +26513,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "GeneMeta": [
@@ -27506,7 +27443,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "GenomicTuples": [
@@ -27737,7 +27673,6 @@
         "future",
         "future.apply",
         "progressr",
-        "diffobj",
         "rematch2",
         "globals",
         "RCurl",
@@ -27834,7 +27769,6 @@
         "testthat",
         "pkgload",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "GEOfastq": [
@@ -27929,7 +27863,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "GEOquery": [
@@ -28077,7 +28010,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "ggbio": [
@@ -28632,7 +28564,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "GlobalAncova": [
@@ -29614,7 +29545,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "groHMM": [
@@ -29710,7 +29640,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2",
         "tibble",
         "pillar",
@@ -30985,7 +30914,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "HiContacts": [
@@ -32371,7 +32299,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "imcRtools": [
@@ -32636,7 +32563,6 @@
         "fontawesome",
         "promises",
         "pillar",
-        "diffobj",
         "rematch2"
     ],
     "infercnv": [
@@ -32946,7 +32872,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "intansv": [
@@ -33247,7 +33172,6 @@
         "callr",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "IntEREst": [
@@ -33444,7 +33368,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "ipdDb": [
@@ -33710,7 +33633,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "ISAnalytics": [
@@ -34313,7 +34235,6 @@
         "waldo",
         "MatrixGenerics",
         "DelayedArray",
-        "diffobj",
         "rematch2"
     ],
     "ivygapSE": [
@@ -34385,7 +34306,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "IWTomics": [
@@ -34737,7 +34657,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "KnowSeq": [
@@ -34927,7 +34846,6 @@
         "waldo",
         "Matrix",
         "pillar",
-        "diffobj",
         "rematch2"
     ],
     "lefser": [
@@ -35000,7 +34918,6 @@
         "waldo",
         "sass",
         "memoise",
-        "diffobj",
         "rematch2"
     ],
     "lfa": [],
@@ -35143,7 +35060,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "Linnorm": [
@@ -35380,7 +35296,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "lmdme": [],
@@ -35954,7 +35869,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "Macarron": [
@@ -36042,7 +35956,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "macat": [
@@ -37083,7 +36996,6 @@
         "openssl",
         "bit64",
         "blob",
-        "diffobj",
         "rematch2"
     ],
     "mbkmeans": [
@@ -37720,7 +37632,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "megadepth": [
@@ -37757,7 +37668,6 @@
         "credentials",
         "openssl",
         "httr",
-        "diffobj",
         "rematch2"
     ],
     "MEIGOR": [
@@ -37873,7 +37783,6 @@
         "waldo",
         "bit64",
         "progress",
-        "diffobj",
         "rematch2"
     ],
     "MeSHDbi": [
@@ -38331,7 +38240,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "MetaCyto": [
@@ -38384,7 +38292,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "metagene": [
@@ -39140,7 +39047,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "methrix": [
@@ -39511,7 +39417,6 @@
         "httpuv",
         "fontawesome",
         "promises",
-        "diffobj",
         "RBGL",
         "crosstalk",
         "nloptr",
@@ -40066,7 +39971,6 @@
         "httpuv",
         "fontawesome",
         "pillar",
-        "diffobj",
         "rematch2"
     ],
     "MetNet": [
@@ -40561,7 +40465,6 @@
         "blob",
         "pkgload",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "microbiomeMarker": [
@@ -40730,7 +40633,6 @@
         "blob",
         "RcppAnnoy",
         "dqrng",
-        "diffobj",
         "rematch2",
         "sitmo",
         "future.apply",
@@ -41096,7 +40998,6 @@
         "Matrix",
         "MatrixModels",
         "survival",
-        "diffobj",
         "rematch2"
     ],
     "mina": [
@@ -41811,7 +41712,6 @@
         "waldo",
         "future.apply",
         "progressr",
-        "diffobj",
         "future",
         "globals"
     ],
@@ -41970,7 +41870,6 @@
         "waldo",
         "future.apply",
         "progressr",
-        "diffobj",
         "future",
         "globals"
     ],
@@ -42394,7 +42293,6 @@
         "tidyr",
         "tidyselect",
         "pillar",
-        "diffobj",
         "rematch2",
         "httr",
         "RSQLite",
@@ -42515,7 +42413,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "mnem": [
@@ -43439,7 +43336,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "msa": [
@@ -43940,7 +43836,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "msPurity": [
@@ -44014,7 +43909,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "MSstats": [
@@ -44041,7 +43935,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "MSstatsConvert": [],
@@ -44138,8 +44031,7 @@
         "memoise",
         "MatrixModels",
         "pkgload",
-        "waldo",
-        "diffobj"
+        "waldo"
     ],
     "MSstatsLOBD": [
         "ggplot2",
@@ -44185,7 +44077,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "MSstatsQC": [
@@ -44342,7 +44233,6 @@
         "waldo",
         "future.apply",
         "progressr",
-        "diffobj",
         "rematch2",
         "future",
         "globals"
@@ -44407,7 +44297,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "MSstatsTMT": [
@@ -44436,7 +44325,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "MuData": [
@@ -44965,7 +44853,6 @@
         "MatrixModels",
         "textshaping",
         "zoo",
-        "diffobj",
         "rematch2",
         "future.apply",
         "progressr",
@@ -45164,7 +45051,6 @@
         "bit64",
         "blob",
         "memoise",
-        "diffobj",
         "rematch2",
         "cachem"
     ],
@@ -45313,7 +45199,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "MutationalPatterns": [
@@ -45430,7 +45315,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "mygene": [
@@ -45892,7 +45776,6 @@
         "bit64",
         "memoise",
         "selectr",
-        "diffobj",
         "cachem",
         "Matrix",
         "bslib",
@@ -45996,7 +45879,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "ncdfFlow": [
@@ -47035,7 +46917,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2",
         "tibble",
         "pillar",
@@ -47175,7 +47056,6 @@
         "processx",
         "waldo",
         "bit64",
-        "diffobj",
         "rematch2"
     ],
     "NormqPCR": [
@@ -47630,7 +47510,6 @@
         "highr",
         "nloptr",
         "MatrixModels",
-        "diffobj",
         "rematch2"
     ],
     "odseq": [
@@ -48038,7 +47917,6 @@
         "waldo",
         "cachem",
         "zoo",
-        "diffobj",
         "rematch2"
     ],
     "OmicsLonDA": [
@@ -48174,7 +48052,6 @@
         "hms",
         "pkgload",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "omicsPrint": [
@@ -48289,7 +48166,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "Omixer": [
@@ -48451,7 +48327,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "oneSENSE": [
@@ -48736,7 +48611,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "oposSOM": [
@@ -48872,7 +48746,6 @@
         "httpuv",
         "fontawesome",
         "promises",
-        "diffobj",
         "rematch2"
     ],
     "optimalFlow": [
@@ -49174,7 +49047,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "Oscope": [
@@ -49192,7 +49064,6 @@
         "waldo",
         "Matrix",
         "lambda.r",
-        "diffobj",
         "rematch2",
         "tibble",
         "pillar",
@@ -49409,7 +49280,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "PADOG": [
@@ -49520,7 +49390,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2",
         "tibble",
         "pillar",
@@ -49763,7 +49632,6 @@
         "bit64",
         "blob",
         "memoise",
-        "diffobj",
         "rematch2",
         "XVector",
         "GenomeInfoDb",
@@ -49937,7 +49805,6 @@
         "systemfonts",
         "textshaping",
         "rhdf5filters",
-        "diffobj",
         "rematch2",
         "bit64",
         "blob"
@@ -50290,7 +50157,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "pdInfoBuilder": [
@@ -50863,7 +50729,6 @@
         "processx",
         "waldo",
         "cachem",
-        "diffobj",
         "rematch2"
     ],
     "phenopath": [
@@ -50991,7 +50856,6 @@
         "callr",
         "pkgload",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "philr": [
@@ -51117,7 +50981,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "PhyloProfile": [
@@ -51838,7 +51701,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "PLPE": [
@@ -51884,7 +51746,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2",
         "tibble",
         "pillar",
@@ -52781,7 +52642,6 @@
         "processx",
         "waldo",
         "RCurl",
-        "diffobj",
         "rematch2"
     ],
     "PROcess": [
@@ -53625,7 +53485,6 @@
         "RCurl",
         "pkgload",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "PSEA": [
@@ -53904,7 +53763,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "puma": [
@@ -54008,7 +53866,6 @@
         "processx",
         "waldo",
         "pillar",
-        "diffobj",
         "rematch2"
     ],
     "Pviz": [
@@ -54340,7 +54197,6 @@
         "testthat",
         "pkgload",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "qpcrNorm": [
@@ -54485,7 +54341,6 @@
         "DelayedArray",
         "pillar",
         "BSgenome",
-        "diffobj",
         "rematch2",
         "futile.logger",
         "progress",
@@ -55218,7 +55073,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2",
         "tibble",
         "pillar",
@@ -57164,7 +57018,6 @@
         "processx",
         "waldo",
         "zoo",
-        "diffobj",
         "rematch2"
     ],
     "rfaRm": [
@@ -57942,7 +57795,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "RImmPort": [
@@ -58464,7 +58316,6 @@
         "fontawesome",
         "promises",
         "pillar",
-        "diffobj",
         "rematch2",
         "dbplyr",
         "dplyr",
@@ -58595,7 +58446,6 @@
         "processx",
         "waldo",
         "pillar",
-        "diffobj",
         "rematch2"
     ],
     "rnaEditr": [
@@ -59143,7 +58993,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "RnaSeqSampleSize": [
@@ -59247,7 +59096,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "RnBeads": [
@@ -59709,7 +59557,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "rqubic": [
@@ -59916,7 +59763,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "RTCGAToolbox": [
@@ -60022,7 +59868,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "RTNduals": [
@@ -60073,7 +59918,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "RTNsurvival": [
@@ -60126,7 +59970,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "RTopper": [
@@ -60295,7 +60138,6 @@
         "dplyr",
         "purrr",
         "tidyselect",
-        "diffobj",
         "rematch2",
         "pillar"
     ],
@@ -61799,7 +61641,6 @@
         "waldo",
         "pillar",
         "RcppHNSW",
-        "diffobj",
         "rematch2"
     ],
     "scDDboost": [
@@ -61835,7 +61676,6 @@
         "processx",
         "waldo",
         "pillar",
-        "diffobj",
         "rematch2"
     ],
     "scde": [
@@ -62784,7 +62624,6 @@
         "purrr",
         "RcppAnnoy",
         "dqrng",
-        "diffobj",
         "rematch2",
         "sitmo",
         "lambda.r",
@@ -64575,7 +64414,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "SICtools": [
@@ -64933,7 +64771,6 @@
         "lme4",
         "markdown",
         "highr",
-        "diffobj",
         "rematch2",
         "lambda.r",
         "MatrixModels"
@@ -65068,7 +64905,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "SigsPack": [
@@ -66262,7 +66098,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2",
         "tibble",
         "pillar",
@@ -66960,7 +66795,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "SpatialExperiment": [
@@ -67527,7 +67361,6 @@
         "processx",
         "waldo",
         "cachem",
-        "diffobj",
         "rematch2"
     ],
     "SpidermiR": [
@@ -68015,7 +67848,6 @@
         "RCurl",
         "future.apply",
         "progressr",
-        "diffobj",
         "future",
         "globals"
     ],
@@ -68409,7 +68241,6 @@
         "fontawesome",
         "promises",
         "pillar",
-        "diffobj",
         "rematch2",
         "tidyselect"
     ],
@@ -69405,7 +69236,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2",
         "tibble",
         "pillar",
@@ -69522,7 +69352,6 @@
         "RCurl",
         "Matrix",
         "bit64",
-        "diffobj",
         "rematch2",
         "blob",
         "purrr",
@@ -69598,7 +69427,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "sva": [
@@ -69956,8 +69784,7 @@
         "sass",
         "testthat",
         "pkgload",
-        "waldo",
-        "diffobj"
+        "waldo"
     ],
     "SynExtend": [
         "DECIPHER",
@@ -70004,7 +69831,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "SynMut": [
@@ -70058,7 +69884,6 @@
         "statnet.common",
         "Rhtslib",
         "pillar",
-        "diffobj",
         "rematch2",
         "futile.logger",
         "MatrixGenerics",
@@ -70296,7 +70121,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "tanggle": [
@@ -70443,7 +70267,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "TargetScore": [
@@ -70840,7 +70663,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "TCGAutils": [
@@ -72025,7 +71847,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "TnT": [
@@ -72896,7 +72717,6 @@
         "waldo",
         "broom",
         "car",
-        "diffobj",
         "rematch2",
         "pbkrtest",
         "quantreg",
@@ -74271,7 +74091,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "VariantAnnotation": [
@@ -75274,7 +75093,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "wateRmelon": [
@@ -76120,7 +75938,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "zFPKM": [
@@ -76517,7 +76334,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "ggsignif": [
@@ -76551,7 +76367,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2",
         "tibble",
         "pillar",
@@ -76607,7 +76422,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "callr": [
@@ -76616,7 +76430,6 @@
     "pkgload": [],
     "processx": [],
     "waldo": [
-        "diffobj",
         "rematch2",
         "tibble",
         "lifecycle",
@@ -76667,10 +76480,8 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
-    "diffobj": [],
     "rematch2": [
         "tibble",
         "lifecycle",
@@ -76702,7 +76513,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "quantreg": [
@@ -76721,7 +76531,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2",
         "tibble",
         "pillar",
@@ -76735,7 +76544,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2",
         "tibble",
         "pillar",
@@ -77303,7 +77111,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "osqp": [
@@ -78834,7 +78641,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "xgboost": [
@@ -79365,7 +79171,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "shinythemes": [
@@ -80325,7 +80130,6 @@
         "fontawesome",
         "promises",
         "pillar",
-        "diffobj",
         "rematch2"
     ],
     "pkgdown": [
@@ -80470,7 +80274,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "base64url": [],
@@ -80594,7 +80397,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "spBayes": [
@@ -81759,7 +81561,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "Ecume": [
@@ -82369,7 +82170,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2",
         "tibble",
         "pillar",
@@ -82416,7 +82216,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2",
         "tibble",
         "pillar",
@@ -82476,7 +82275,6 @@
         "credentials",
         "openssl",
         "httr",
-        "diffobj",
         "rematch2",
         "tibble",
         "pillar",
@@ -82565,7 +82363,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2",
         "tibble",
         "pillar",
@@ -82762,7 +82559,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "knn.covertree": [
@@ -83290,7 +83086,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "FCPS": [
@@ -83377,7 +83172,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "survMisc": [
@@ -84262,7 +84056,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2",
         "tibble",
         "pillar",
@@ -85184,7 +84977,6 @@
         "waldo",
         "future.apply",
         "progressr",
-        "diffobj",
         "rematch2",
         "future",
         "globals"
@@ -85345,7 +85137,6 @@
         "fontawesome",
         "promises",
         "pillar",
-        "diffobj",
         "rematch2"
     ],
     "googleAuthR": [
@@ -85367,7 +85158,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2",
         "tibble",
         "pillar",
@@ -85536,7 +85326,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "readstata13": [],
@@ -85772,7 +85561,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2",
         "tibble",
         "pillar",
@@ -85812,7 +85600,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2",
         "tibble",
         "pillar",
@@ -87093,7 +86880,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "diffobj",
         "rematch2"
     ],
     "tidytidbits": [
