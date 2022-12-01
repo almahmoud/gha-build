@@ -7636,7 +7636,6 @@
         "BSgenome",
         "nloptr"
     ],
-    "odseq": [],
     "OGRE": [
         "Gviz",
         "AnnotationHub",
