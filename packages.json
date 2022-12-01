@@ -40744,7 +40744,6 @@
         "GenomeInfoDb",
         "RCurl"
     ],
-    "MassArray": [],
     "massiR": [
         "gplots",
         "Biobase",
