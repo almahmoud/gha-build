@@ -217,7 +217,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "enrichTF": [],
     "EpiCompare": [
         "AnnotationHub",
         "BiocVersion"
