@@ -735,7 +735,6 @@
     ],
     "AlphaBeta": [
         "dplyr",
-        "expm",
         "BiocParallel",
         "igraph",
         "ggplot2",
@@ -981,7 +980,6 @@
         "tidyr",
         "osqp",
         "RcppEigen",
-        "expm",
         "gld",
         "readxl",
         "httr",
@@ -2136,8 +2134,7 @@
     ],
     "ASSET": [
         "msm",
-        "survival",
-        "expm"
+        "survival"
     ],
     "ASSIGN": [
         "gplots",
@@ -2149,7 +2146,6 @@
         "tibble",
         "vctrs",
         "survival",
-        "expm",
         "genefilter",
         "BiocParallel",
         "edgeR",
@@ -3507,7 +3503,6 @@
         "rhdf5",
         "XVector",
         "osqp",
-        "expm",
         "gld",
         "readxl",
         "ROI.plugin.lpsolve",
@@ -8695,7 +8690,6 @@
         "ggraph",
         "maftools",
         "tidygraph",
-        "expm",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -12806,7 +12800,6 @@
         "ggraph",
         "tidygraph",
         "ggplot2",
-        "expm",
         "edgeR",
         "epiNEM",
         "igraph",
@@ -14379,7 +14372,6 @@
     ],
     "DiffLogo": [],
     "diffuStats": [
-        "expm",
         "igraph",
         "precrec",
         "ggplot2",
@@ -19602,7 +19594,6 @@
         "SeqArray",
         "ggplot2",
         "tidyr",
-        "expm",
         "mgcv",
         "scales",
         "tibble",
@@ -20262,7 +20253,6 @@
         "DESeq2",
         "dplyr",
         "DT",
-        "expm",
         "ggforce",
         "ggplot2",
         "ggrepel",
@@ -22208,7 +22198,6 @@
     "gpuMagic": [
         "DescTools",
         "pryr",
-        "expm",
         "gld",
         "readxl",
         "httr",
@@ -23739,7 +23728,6 @@
         "mgcv",
         "scales",
         "openssl",
-        "expm",
         "hms",
         "vroom",
         "clock",
@@ -24385,7 +24373,6 @@
         "SummarizedExperiment",
         "doSNOW",
         "viridis",
-        "expm",
         "gld",
         "readxl",
         "httr",
@@ -25414,7 +25401,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "expm",
         "segmented",
         "survival",
         "scuttle",
@@ -29556,7 +29542,6 @@
         "mgcv",
         "R.utils",
         "survival",
-        "expm",
         "bbmle",
         "ggplot2",
         "reshape2",
@@ -30810,7 +30795,6 @@
         "ggplotify",
         "osqp",
         "RcppEigen",
-        "expm",
         "gld",
         "readxl",
         "httr",
@@ -31170,7 +31154,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "expm",
         "RcppEigen",
         "knitr",
         "htmlwidgets",
@@ -31565,7 +31548,6 @@
         "ade4",
         "progress",
         "RSpectra",
-        "expm",
         "SPONGE",
         "clusterProfiler",
         "ReactomePA",
@@ -31729,7 +31711,6 @@
         "fgsea",
         "ggplot2",
         "reshape2",
-        "expm",
         "ggraph",
         "reactome.db",
         "graphite",
@@ -42408,8 +42389,7 @@
     "REBET": [
         "ASSET",
         "msm",
-        "survival",
-        "expm"
+        "survival"
     ],
     "rebook": [
         "knitr",
@@ -44061,7 +44041,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "expm",
         "KEGGREST",
         "progress",
         "httr",
@@ -47424,7 +47403,6 @@
         "Biostrings",
         "XVector",
         "rtracklayer",
-        "expm",
         "gld",
         "readxl",
         "httr",
@@ -51466,7 +51444,6 @@
     ],
     "SPONGE": [
         "doRNG",
-        "expm",
         "gRbase",
         "glmnet",
         "igraph",
@@ -53459,7 +53436,6 @@
         "XVector",
         "rhdf5",
         "survival",
-        "expm",
         "httr",
         "dplyr",
         "genefilter",
@@ -58337,7 +58313,6 @@
         "segmented"
     ],
     "segmented": [],
-    "expm": [],
     "igraph": [],
     "readxl": [
         "cellranger",
@@ -58461,7 +58436,6 @@
         "RcppEigen"
     ],
     "DescTools": [
-        "expm",
         "gld",
         "readxl",
         "httr",
@@ -59286,8 +59260,7 @@
         "mgcv"
     ],
     "msm": [
-        "survival",
-        "expm"
+        "survival"
     ],
     "msigdbr": [
         "babelgene",
@@ -63218,9 +63191,7 @@
         "httpuv",
         "promises"
     ],
-    "MCL": [
-        "expm"
-    ],
+    "MCL": [],
     "available": [
         "tidytext",
         "memoise",
