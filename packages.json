@@ -15,7 +15,6 @@
         "annotate"
     ],
     "abseqR": [
-        "flexdashboard",
         "ggcorrplot",
         "ggdendro",
         "plotly",
@@ -11828,7 +11827,6 @@
         "genefilter",
         "readr",
         "plotly",
-        "flexdashboard",
         "shinydashboard",
         "kableExtra",
         "GGally",
@@ -16630,7 +16628,6 @@
     "GO.db": [
         "AnnotationDbi"
     ],
-    "flexdashboard": [],
     "ggcorrplot": [],
     "ggdendro": [],
     "plotly": [
