@@ -3791,10 +3791,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "openPrimeR": [],
-    "openPrimeRui": [
-        "openPrimeR"
-    ],
+    "openPrimeRui": [],
     "OpenStats": [
         "AICcmodavg",
         "car",
