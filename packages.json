@@ -77737,7 +77737,6 @@
         "rtracklayer",
         "BSgenome",
         "gplots",
-        "gsmoothr",
         "edgeR",
         "Ringo",
         "Rsolnp",
@@ -119494,7 +119493,6 @@
         "askpass"
     ],
     "bibtex": [],
-    "gsmoothr": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [
         "BSgenome",
         "S4Vectors",
