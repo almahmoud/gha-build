@@ -1996,8 +1996,7 @@
         "bumphunter"
     ],
     "MinimumDistance": [
-        "VanillaICE",
-        "BSgenome.Hsapiens.UCSC.hg18"
+        "VanillaICE"
     ],
     "MIRA": [],
     "miRLAB": [
@@ -3453,9 +3452,7 @@
         "textstem",
         "textclean"
     ],
-    "VanillaICE": [
-        "BSgenome.Hsapiens.UCSC.hg18"
-    ],
+    "VanillaICE": [],
     "VarCon": [],
     "variancePartition": [
         "pbkrtest",
@@ -3826,7 +3823,6 @@
         "BiocCheck",
         "OrganismDbi"
     ],
-    "BSgenome.Hsapiens.UCSC.hg18": [],
     "cvms": [
         "lme4",
         "nloptr"
