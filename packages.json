@@ -1899,8 +1899,7 @@
         "AnnotationDbi",
         "RSQLite",
         "KEGGREST",
-        "viridis",
-        "TH.data"
+        "viridis"
     ],
     "biomvRCNS": [
         "Gviz",
@@ -2703,7 +2702,6 @@
         "ggsci",
         "ggsignif",
         "rstatix",
-        "TH.data",
         "nloptr",
         "broom",
         "testthat",
@@ -3071,7 +3069,6 @@
         "forcats",
         "FlowSOM",
         "nloptr",
-        "TH.data",
         "ggplot2",
         "ggforce",
         "ggnewscale",
@@ -3383,7 +3380,6 @@
         "SummarizedExperiment",
         "tibble",
         "viridis",
-        "TH.data",
         "vroom",
         "progress"
     ],
@@ -4477,8 +4473,7 @@
         "tibble",
         "Hmisc",
         "multcomp",
-        "viridis",
-        "TH.data"
+        "viridis"
     ],
     "consensusDE": [
         "airway",
@@ -5212,7 +5207,6 @@
         "ggforce",
         "ggnewscale",
         "nloptr",
-        "TH.data",
         "viridis",
         "car",
         "tweenr",
@@ -5488,8 +5482,7 @@
         "vroom",
         "progress",
         "rmarkdown",
-        "sn",
-        "TH.data"
+        "sn"
     ],
     "ddPCRclust": [
         "ggplot2",
@@ -6082,7 +6075,6 @@
         "ggplot2",
         "ggpubr",
         "nloptr",
-        "TH.data",
         "tweenr",
         "ggrepel",
         "ggsci",
@@ -6247,7 +6239,6 @@
         "SummarizedExperiment",
         "rtracklayer",
         "multcomp",
-        "TH.data",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -6418,7 +6409,6 @@
         "progress",
         "pbkrtest",
         "lme4",
-        "TH.data",
         "nloptr",
         "broom",
         "dplyr",
@@ -6575,7 +6565,6 @@
         "pbkrtest",
         "lme4",
         "annotate",
-        "TH.data",
         "KEGGREST",
         "dbplyr",
         "shiny",
@@ -6783,8 +6772,7 @@
         "tidyr",
         "dplyr",
         "multcomp",
-        "sn",
-        "TH.data"
+        "sn"
     ],
     "eiR": [
         "ChemmineR",
@@ -9416,7 +9404,6 @@
         "KEGGREST",
         "ggplot2",
         "viridis",
-        "TH.data",
         "tibble"
     ],
     "GladiaTOX": [
@@ -9805,7 +9792,6 @@
         "dplyr",
         "pbkrtest",
         "lme4",
-        "TH.data",
         "nloptr",
         "broom",
         "testthat",
@@ -10331,8 +10317,7 @@
         "KEGGREST",
         "dbplyr",
         "tibble",
-        "shiny",
-        "TH.data"
+        "shiny"
     ],
     "HIPPO": [
         "ggplot2",
@@ -10784,8 +10769,7 @@
         "sctransform",
         "SeuratObject",
         "shiny",
-        "spatstat.explore",
-        "TH.data"
+        "spatstat.explore"
     ],
     "infinityFlow": [],
     "InPAS": [
@@ -11539,8 +11523,7 @@
         "coin",
         "ggplot2",
         "multcomp",
-        "tibble",
-        "TH.data"
+        "tibble"
     ],
     "levi": [
         "dplyr",
@@ -12445,7 +12428,6 @@
         "multcomp",
         "pbkrtest",
         "lme4",
-        "TH.data",
         "nloptr",
         "broom",
         "dplyr",
@@ -12871,8 +12853,7 @@
         "TFisher",
         "mutoss",
         "multcomp",
-        "sn",
-        "TH.data"
+        "sn"
     ],
     "MetCirc": [
         "shiny",
@@ -13469,7 +13450,6 @@
         "DECIPHER",
         "scuttle",
         "scater",
-        "TH.data",
         "testthat",
         "hardhat",
         "ipred",
@@ -13547,8 +13527,7 @@
         "aplot",
         "ggfun",
         "ggnewscale",
-        "ggplotify",
-        "TH.data"
+        "ggplotify"
     ],
     "microRNA": [],
     "midasHLA": [
@@ -14837,8 +14816,7 @@
         "TFisher",
         "mutoss",
         "multcomp",
-        "sn",
-        "TH.data"
+        "sn"
     ],
     "multiHiCcompare": [
         "dplyr",
@@ -14928,7 +14906,6 @@
         "cowplot",
         "tweenr",
         "prodlim",
-        "TH.data",
         "waldo",
         "lava",
         "rematch2"
@@ -15183,7 +15160,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "tibble",
-        "TH.data",
         "CNEr",
         "readr",
         "annotate",
@@ -16477,7 +16453,6 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "TH.data",
         "tweenr"
     ],
     "PanViz": [
@@ -19803,7 +19778,6 @@
         "broom",
         "dplyr",
         "sn",
-        "TH.data",
         "testthat",
         "waldo",
         "rematch2"
@@ -21692,7 +21666,6 @@
         "multcomp",
         "GenomicAlignments",
         "sn",
-        "TH.data",
         "densEstBayes",
         "rstan"
     ],
@@ -23026,7 +22999,6 @@
         "viridis",
         "cellranger",
         "rematch2",
-        "TH.data",
         "vroom",
         "progress",
         "rmarkdown",
@@ -24036,7 +24008,6 @@
         "tidytree",
         "treeio",
         "nloptr",
-        "TH.data",
         "ggplotify",
         "ggforce",
         "ggnewscale",
@@ -26073,17 +26044,13 @@
         "ggplot2",
         "multcomp",
         "tibble",
-        "viridis",
-        "TH.data"
+        "viridis"
     ],
     "precrec": [
         "ggplot2",
         "tibble"
     ],
-    "multcomp": [
-        "TH.data"
-    ],
-    "TH.data": [],
+    "multcomp": [],
     "synaptome.db": [
         "synaptome.data",
         "RSQLite",
@@ -26268,7 +26235,6 @@
         "multcomp",
         "pbkrtest",
         "lme4",
-        "TH.data",
         "nloptr",
         "broom",
         "dplyr",
@@ -26714,8 +26680,7 @@
         "ggplot2",
         "multcomp",
         "tibble",
-        "viridis",
-        "TH.data"
+        "viridis"
     ],
     "feature": [],
     "airway": [
@@ -26889,15 +26854,13 @@
         "TFisher",
         "mutoss",
         "multcomp",
-        "sn",
-        "TH.data"
+        "sn"
     ],
     "TFisher": [
         "sn"
     ],
     "mutoss": [
-        "multcomp",
-        "TH.data"
+        "multcomp"
     ],
     "sn": [],
     "DMwR2": [
@@ -27011,8 +26974,7 @@
         "shiny"
     ],
     "coin": [
-        "multcomp",
-        "TH.data"
+        "multcomp"
     ],
     "ELMER.data": [],
     "EntropyExplorer": [],
@@ -27231,7 +27193,6 @@
         "Hmisc",
         "ggplot2",
         "viridis",
-        "TH.data",
         "tibble"
     ],
     "gRain": [
