@@ -234,9 +234,7 @@
     "ddPCRclust": [],
     "DeepPINCS": [],
     "derfinderPlot": [],
-    "destiny": [
-        "VIM"
-    ],
+    "destiny": [],
     "diffcyt": [
         "FlowSOM",
         "ggpubr"
@@ -526,9 +524,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "MSPrep": [
-        "VIM"
-    ],
+    "MSPrep": [],
     "MSstatsLiP": [
         "factoextra",
         "ggpubr"
@@ -655,9 +651,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "qmtools": [
-        "VIM"
-    ],
+    "qmtools": [],
     "QuasR": [],
     "RareVariantVis": [
         "phastCons100way.UCSC.hg19",
@@ -962,7 +956,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "VIM": [],
     "easierData": [
         "ExperimentHub",
         "AnnotationHub",
