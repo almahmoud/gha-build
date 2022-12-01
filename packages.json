@@ -10704,8 +10704,7 @@
     ],
     "rrvgo": [
         "GOSemSim",
-        "GO.db",
-        "treemap"
+        "GO.db"
     ],
     "RSVSim": [
         "ShortRead",
@@ -14694,7 +14693,6 @@
         "BiocVersion"
     ],
     "TBX20BamSubset": [],
-    "treemap": [],
     "scanMiRData": [
         "scanMiR",
         "ggseqlogo"
