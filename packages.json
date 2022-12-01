@@ -8057,7 +8057,6 @@
         "colourpicker",
         "plotly",
         "heatmaply",
-        "Harman",
         "pathview",
         "apeglm",
         "ashr",
@@ -14461,7 +14460,6 @@
         "blob",
         "pillar"
     ],
-    "Harman": [],
     "Harshlight": [
         "altcdfenvs",
         "Biostrings",
