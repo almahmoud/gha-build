@@ -1,5 +1,0 @@
-deconvR
-ATACCoGAPS
-edge
-crisprseekplus
-profileplyr
