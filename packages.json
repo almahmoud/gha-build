@@ -4533,7 +4533,6 @@
     "BatchQC": [
         "rmarkdown",
         "knitr",
-        "pander",
         "gplots",
         "MCMCpack",
         "shiny",
@@ -9695,7 +9694,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "pander",
         "reshape2",
         "Matrix",
         "RcppTOML",
@@ -32212,7 +32210,6 @@
         "pillar",
         "class",
         "survival",
-        "pander",
         "sf",
         "lubridate",
         "zoo",
@@ -41679,7 +41676,6 @@
     "Metab": [
         "xcms",
         "svDialogs",
-        "pander",
         "BiocParallel",
         "MSnbase",
         "mzR",
@@ -42375,7 +42371,6 @@
         "IRanges",
         "Matrix",
         "NBPSeq",
-        "pander",
         "qvalue",
         "rmarkdown",
         "rmdformats",
@@ -48423,7 +48418,6 @@
         "purrr",
         "promises",
         "knitr",
-        "pander",
         "affyio",
         "futile.logger",
         "openssl",
@@ -48495,7 +48489,6 @@
         "pcaMethods",
         "mzID",
         "knitr",
-        "pander",
         "munsell",
         "affyio",
         "futile.logger",
@@ -51387,7 +51380,6 @@
         "ggdendro",
         "lifecycle",
         "lubridate",
-        "pander",
         "plotly",
         "readr",
         "reshape2",
@@ -53347,7 +53339,6 @@
         "dplyr",
         "lubridate",
         "magick",
-        "pander",
         "pryr",
         "rapportools",
         "tibble",
@@ -59399,7 +59390,6 @@
     "qcmetrics": [
         "Biobase",
         "knitr",
-        "pander",
         "S4Vectors",
         "highr",
         "stringr"
@@ -86607,7 +86597,6 @@
         "pillar"
     ],
     "rstantools": [],
-    "pander": [],
     "MCMCpack": [
         "coda",
         "quantreg",
@@ -88237,7 +88226,6 @@
     ],
     "rapportools": [
         "plyr",
-        "pander",
         "reshape2",
         "stringr"
     ],
@@ -91748,7 +91736,6 @@
     ],
     "epiR": [
         "survival",
-        "pander",
         "sf",
         "lubridate",
         "zoo",
@@ -94099,7 +94086,6 @@
         "htmltools",
         "lubridate",
         "magick",
-        "pander",
         "pryr",
         "rapportools",
         "tibble",
