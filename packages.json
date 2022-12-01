@@ -2375,7 +2375,6 @@
         "lme4",
         "nloptr"
     ],
-    "OncoScore": [],
     "OncoSimulR": [
         "car",
         "pbkrtest",
