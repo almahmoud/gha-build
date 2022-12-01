@@ -6151,7 +6151,6 @@
         "Rsamtools",
         "GenomicAlignments"
     ],
-    "DMRcaller": [],
     "DMRcate": [
         "ExperimentHub",
         "bsseq",
