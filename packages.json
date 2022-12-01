@@ -29683,7 +29683,6 @@
         "bdsmatrix",
         "progress",
         "MSQC",
-        "praznik",
         "stringr",
         "MatrixGenerics",
         "GenomeInfoDb",
@@ -46186,7 +46185,6 @@
         "bdsmatrix",
         "progress",
         "MSQC",
-        "praznik",
         "stringr",
         "farver",
         "labeling",
@@ -62338,7 +62336,6 @@
         "randomForest",
         "caret",
         "XML",
-        "praznik",
         "R.utils",
         "httr",
         "sva",
@@ -149449,7 +149446,6 @@
         "MASS",
         "progress",
         "MSQC",
-        "praznik",
         "rgl",
         "hms",
         "prettyunits",
@@ -149551,7 +149547,6 @@
         "xfun",
         "stringi"
     ],
-    "praznik": [],
     "RWekajars": [
         "rJava"
     ],
