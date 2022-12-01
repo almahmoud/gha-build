@@ -19912,7 +19912,6 @@
         "SummarizedExperiment",
         "BiocSingular"
     ],
-    "scShapes": [],
     "scTensor": [
         "RSQLite",
         "plotly",
