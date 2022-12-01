@@ -10722,7 +10722,6 @@
         "GO.db",
         "treemap"
     ],
-    "rsemmed": [],
     "RSVSim": [
         "ShortRead",
         "GenomicAlignments"
