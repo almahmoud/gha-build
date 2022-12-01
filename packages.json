@@ -3528,7 +3528,6 @@
     "RJMCMCNucleosomes": [],
     "RLSeq": [
         "regioneR",
-        "valr",
         "caretEnsemble",
         "GenomicFeatures",
         "AnnotationHub",
@@ -4894,7 +4893,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "valr": [],
     "caretEnsemble": [],
     "RLHub": [
         "AnnotationHub",
