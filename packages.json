@@ -2865,7 +2865,6 @@
         "assertive.strings",
         "assertive.datetimes",
         "assertive.files",
-        "assertive.sets",
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
@@ -28771,7 +28770,6 @@
     "isomiRs": [
         "SummarizedExperiment",
         "AnnotationDbi",
-        "assertive.sets",
         "broom",
         "cowplot",
         "DEGreport",
@@ -37557,7 +37555,6 @@
         "assertive.strings",
         "assertive.datetimes",
         "assertive.files",
-        "assertive.sets",
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
@@ -66350,7 +66347,6 @@
         "assertive.strings",
         "assertive.datetimes",
         "assertive.files",
-        "assertive.sets",
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
@@ -66366,7 +66362,6 @@
         "assertive.types"
     ],
     "assertive.files": [],
-    "assertive.sets": [],
     "assertive.data": [
         "assertive.strings",
         "assertive.types"
