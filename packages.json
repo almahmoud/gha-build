@@ -39138,7 +39138,6 @@
     ],
     "hierGWAS": [
         "glmnet",
-        "fmsb",
         "Matrix",
         "foreach",
         "survival",
@@ -39147,7 +39146,6 @@
         "iterators"
     ],
     "hierinf": [
-        "fmsb",
         "glmnet",
         "Matrix",
         "foreach",
@@ -41776,7 +41774,6 @@
         "ComplexHeatmap",
         "biomaRt",
         "rlang",
-        "fmsb",
         "igraph",
         "XML",
         "AnnotationDbi",
@@ -55068,7 +55065,6 @@
     ],
     "mslp": [
         "doRNG",
-        "fmsb",
         "foreach",
         "magrittr",
         "org.Hs.eg.db",
@@ -106496,7 +106492,6 @@
         "RCurl",
         "GenomeInfoDbData"
     ],
-    "fmsb": [],
     "R2jags": [
         "rjags",
         "coda",
