@@ -23553,9 +23553,7 @@
         "XVector",
         "tweenr"
     ],
-    "PANR": [
-        "RedeR"
-    ],
+    "PANR": [],
     "PanViz": [
         "tidyr",
         "dplyr",
@@ -26629,7 +26627,6 @@
         "pillar",
         "tidyselect"
     ],
-    "RedeR": [],
     "RedisParam": [],
     "REDseq": [
         "BSgenome.Celegans.UCSC.ce2",
@@ -28434,7 +28431,6 @@
         "dbplyr"
     ],
     "RTN": [
-        "RedeR",
         "viper",
         "mixtools",
         "SummarizedExperiment",
@@ -28459,7 +28455,6 @@
     ],
     "RTNduals": [
         "RTN",
-        "RedeR",
         "viper",
         "mixtools",
         "SummarizedExperiment",
@@ -28488,7 +28483,6 @@
         "egg",
         "ggplot2",
         "tibble",
-        "RedeR",
         "viper",
         "mixtools",
         "SummarizedExperiment",
@@ -34311,7 +34305,6 @@
         "biomaRt",
         "ggplot2",
         "progress",
-        "RedeR",
         "tidyr",
         "topGO",
         "AnnotationDbi",
@@ -34467,9 +34460,7 @@
         "XVector",
         "pillar"
     ],
-    "TreeAndLeaf": [
-        "RedeR"
-    ],
+    "TreeAndLeaf": [],
     "treeio": [
         "dplyr",
         "tibble",
