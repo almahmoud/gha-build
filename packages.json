@@ -570,7 +570,6 @@
         "TreeSummarizedExperiment",
         "zinbwave",
         "DESeq2",
-        "MAST",
         "Seurat",
         "ANCOMBC",
         "mia",
@@ -1192,7 +1191,6 @@
         "annotate"
     ],
     "celaref": [
-        "MAST",
         "readr"
     ],
     "celda": [
@@ -5138,7 +5136,6 @@
         "Hmisc",
         "VariantAnnotation"
     ],
-    "MAST": [],
     "MatrixQCvis": [
         "plotly",
         "Hmisc"
@@ -7328,9 +7325,7 @@
         "org.Hs.eg.db",
         "graphite"
     ],
-    "POWSC": [
-        "MAST"
-    ],
+    "POWSC": [],
     "ppcseq": [
         "tidybayes",
         "ggdist",
@@ -9108,7 +9103,6 @@
         "ggtree",
         "GSVA",
         "GSVAdata",
-        "MAST",
         "msigdbr",
         "plotly",
         "scater",
