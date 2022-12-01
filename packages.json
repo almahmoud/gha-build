@@ -13442,7 +13442,6 @@
         "raster",
         "readbitmap",
         "reshape2",
-        "wavethresh",
         "zoo",
         "sandwich",
         "rms",
@@ -17357,7 +17356,6 @@
     "deltaGseg": [
         "ggplot2",
         "changepoint",
-        "wavethresh",
         "tseries",
         "fBasics",
         "reshape",
@@ -78980,7 +78978,6 @@
         "pillar",
         "RcppEigen"
     ],
-    "wavethresh": [],
     "feature": [
         "ks",
         "plot3D",
