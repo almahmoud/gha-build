@@ -52,8 +52,7 @@
     ],
     "ArrayExpressHTS": [],
     "arrayMvout": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "ASpediaFI": [
         "mGSZ"
@@ -80,7 +79,6 @@
     ],
     "bigmelon": [
         "wateRmelon",
-        "methylumi",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
@@ -171,7 +169,6 @@
         "missMethyl",
         "ExperimentHub",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "methylumi",
         "lumi",
         "AnnotationHub",
         "BiocVersion"
@@ -323,7 +320,6 @@
         "AnnotationHub",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "methylumi",
         "BiocVersion"
     ],
     "DMRforPairs": [],
@@ -411,8 +407,7 @@
         "GenomicInteractions"
     ],
     "ffpe": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "FLAMES": [
         "scater"
@@ -516,8 +511,7 @@
     "hpar": [],
     "HTSeqGenie": [],
     "iCheck": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "InTAD": [
         "ggpubr",
@@ -581,9 +575,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "lumi": [
-        "methylumi"
-    ],
+    "lumi": [],
     "m6Aboost": [
         "ExperimentHub",
         "AnnotationHub",
@@ -599,8 +591,7 @@
         "BiocVersion"
     ],
     "MAGAR": [
-        "RnBeads",
-        "methylumi"
+        "RnBeads"
     ],
     "MAGeCKFlute": [
         "depmap",
@@ -614,12 +605,10 @@
     "MEAL": [
         "missMethyl",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "methylumi"
+        "IlluminaHumanMethylationEPICanno.ilm10b4.hg19"
     ],
     "MEAT": [
         "wateRmelon",
-        "methylumi",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
@@ -668,11 +657,9 @@
     "methylGSA": [
         "missMethyl",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "methylumi"
+        "IlluminaHumanMethylationEPICanno.ilm10b4.hg19"
     ],
     "methylPipe": [],
-    "methylumi": [],
     "mia": [
         "scater"
     ],
@@ -687,8 +674,7 @@
         "scater"
     ],
     "MineICA": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "miRSM": [
         "miRspongeR",
@@ -703,8 +689,7 @@
     ],
     "missMethyl": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "methylumi"
+        "IlluminaHumanMethylationEPICanno.ilm10b4.hg19"
     ],
     "MMUPHin": [
         "Maaslin2"
@@ -972,9 +957,7 @@
         "rstatix",
         "derfinder"
     ],
-    "RnBeads": [
-        "methylumi"
-    ],
+    "RnBeads": [],
     "Rqc": [],
     "rqt": [],
     "RTCGA": [
@@ -1078,7 +1061,6 @@
         "QuasR"
     ],
     "skewr": [
-        "methylumi",
         "wateRmelon",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
@@ -1213,7 +1195,6 @@
     ],
     "waddR": [],
     "wateRmelon": [
-        "methylumi",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
