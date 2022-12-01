@@ -878,7 +878,6 @@
         "nloptr",
         "testthat"
     ],
-    "compartmap": [],
     "compEpiTools": [
         "GenomicFeatures",
         "methylPipe",
