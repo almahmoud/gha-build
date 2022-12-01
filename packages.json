@@ -24155,7 +24155,6 @@
         "SummarizedExperiment",
         "tibble"
     ],
-    "TRONCO": [],
     "TSCAN": [
         "SingleCellExperiment",
         "TrajectoryUtils",
