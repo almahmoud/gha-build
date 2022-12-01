@@ -22202,7 +22202,6 @@
         "FNN",
         "GenomicRanges",
         "ggplot2",
-        "glasso",
         "igraph",
         "IRanges",
         "Matrix",
@@ -43724,7 +43723,6 @@
         "colorspace",
         "corpcor",
         "reshape2",
-        "glasso",
         "fdrtool",
         "gtools",
         "pbapply",
@@ -64422,7 +64420,6 @@
     ],
     "impute": [],
     "INDEED": [
-        "glasso",
         "devtools",
         "igraph",
         "visNetwork",
@@ -92061,7 +92058,6 @@
         "fastmap"
     ],
     "nethet": [
-        "glasso",
         "mvtnorm",
         "GeneNet",
         "huge",
@@ -103060,7 +103056,6 @@
         "DESeq2",
         "ggplot2",
         "ggrepel",
-        "glasso",
         "glmnet",
         "impute",
         "limma",
@@ -162640,7 +162635,6 @@
     ],
     "shades": [],
     "chromstaRData": [],
-    "glasso": [],
     "DDRTree": [
         "irlba",
         "Rcpp",
@@ -165898,7 +165892,6 @@
         "corpcor",
         "reshape2",
         "ggplot2",
-        "glasso",
         "fdrtool",
         "gtools",
         "pbapply",
