@@ -179,7 +179,6 @@
         "caret",
         "plotly",
         "MultiAssayExperiment",
-        "GUniFrac",
         "recipes",
         "geneplotter",
         "annotate"
@@ -10623,7 +10622,6 @@
     "caret": [
         "recipes"
     ],
-    "GUniFrac": [],
     "recipes": [],
     "org.Sc.sgd.db": [],
     "Seurat": [
