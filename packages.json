@@ -10305,7 +10305,6 @@
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "coin",
-        "servr",
         "BiocFileCache",
         "RSQLite",
         "BiocVersion",
@@ -27229,7 +27228,6 @@
         "tibble",
         "shiny"
     ],
-    "servr": [],
     "available": [
         "tidytext",
         "tibble",
