@@ -1,7 +1,6 @@
 {
     "a4": [],
     "ADaCGH2": [
-        "tilingArray",
         "snapCGH"
     ],
     "ADAMgui": [
@@ -4326,9 +4325,7 @@
         "geneLenDataBase",
         "GenomicFeatures"
     ],
-    "snapCGH": [
-        "tilingArray"
-    ],
+    "snapCGH": [],
     "snm": [
         "lme4",
         "nloptr"
@@ -4633,7 +4630,6 @@
     ],
     "TFutils": [],
     "tidybulk": [],
-    "tilingArray": [],
     "timeOmics": [
         "propr"
     ],
