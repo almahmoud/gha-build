@@ -10319,7 +10319,6 @@
         "future"
     ],
     "CONFESS": [
-        "changepoint",
         "contrast",
         "EBImage",
         "flowCore",
@@ -13333,7 +13332,6 @@
     ],
     "deltaGseg": [
         "ggplot2",
-        "changepoint",
         "tseries",
         "fBasics",
         "reshape",
@@ -18274,7 +18272,6 @@
     "flowAI": [
         "ggplot2",
         "flowCore",
-        "changepoint",
         "knitr",
         "reshape2",
         "scales",
@@ -18344,8 +18341,7 @@
         "SPARQL"
     ],
     "flowClean": [
-        "flowCore",
-        "changepoint"
+        "flowCore"
     ],
     "flowClust": [
         "flowCore"
@@ -21076,7 +21072,6 @@
         "DelayedArray"
     ],
     "GISPA": [
-        "changepoint",
         "genefilter",
         "GSEABase",
         "HH",
@@ -25586,7 +25581,6 @@
     ],
     "katdetectr": [
         "BiocParallel",
-        "changepoint",
         "changepoint.np",
         "dplyr",
         "GenomicRanges",
@@ -48996,7 +48990,6 @@
     "SISPA": [
         "genefilter",
         "GSVA",
-        "changepoint",
         "ggplot2",
         "AnnotationDbi",
         "annotate",
@@ -60697,7 +60690,6 @@
         "spatstat.sparse",
         "mgcv"
     ],
-    "changepoint": [],
     "contrast": [
         "sandwich",
         "rms",
@@ -62233,9 +62225,7 @@
         "vctrs",
         "DelayedArray"
     ],
-    "changepoint.np": [
-        "changepoint"
-    ],
+    "changepoint.np": [],
     "hgu95av2.db": [
         "AnnotationDbi",
         "org.Hs.eg.db",
