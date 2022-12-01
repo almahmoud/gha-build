@@ -4090,7 +4090,6 @@
     "ggmsa": [
         "aplot",
         "ggalt",
-        "statebins",
         "ggtree",
         "plotly",
         "tidytree",
@@ -11521,7 +11520,6 @@
     "ggalt": [
         "plotly"
     ],
-    "statebins": [],
     "HH": [
         "Hmisc"
     ],
