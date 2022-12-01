@@ -42567,7 +42567,6 @@
         "GenomeInfoDb",
         "segmented"
     ],
-    "ssize": [],
     "sSNAPPY": [
         "dplyr",
         "BiocParallel",
