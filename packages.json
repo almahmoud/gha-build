@@ -7001,7 +7001,6 @@
         "ggalt",
         "ggforce",
         "dplyr",
-        "seqmagick",
         "statebins",
         "ggtree",
         "ggfun",
@@ -20521,7 +20520,6 @@
         "plotly",
         "tidyr"
     ],
-    "seqmagick": [],
     "statebins": [
         "ggplot2"
     ],
