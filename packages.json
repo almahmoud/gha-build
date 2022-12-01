@@ -41252,7 +41252,6 @@
         "anytime",
         "pillar"
     ],
-    "iSeq": [],
     "ISLET": [
         "Matrix",
         "BiocParallel",
