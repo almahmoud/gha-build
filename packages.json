@@ -3556,7 +3556,6 @@
         "dbplyr",
         "dplyr"
     ],
-    "cqn": [],
     "CRImage": [],
     "crisprBowtie": [
         "BSgenome",
@@ -8677,7 +8676,6 @@
         "rematch2"
     ],
     "KnowSeq": [
-        "cqn",
         "ggplot2",
         "caret",
         "sva",
@@ -18449,9 +18447,7 @@
         "ggplot2"
     ],
     "TTMap": [],
-    "tweeDEseq": [
-        "cqn"
-    ],
+    "tweeDEseq": [],
     "twoddpcr": [
         "ggplot2"
     ],
