@@ -14812,7 +14812,6 @@
     "uncoverappLib": [
         "Gviz",
         "Homo.sapiens",
-        "condformat",
         "org.Hs.eg.db",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "BiocFileCache",
@@ -16964,7 +16963,6 @@
     "mirbase.db": [
         "AnnotationDbi"
     ],
-    "condformat": [],
     "msigdb": [
         "ExperimentHub",
         "GSEABase",
