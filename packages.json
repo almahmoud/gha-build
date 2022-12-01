@@ -6904,7 +6904,6 @@
     "BrainSABER": [
         "biomaRt",
         "SummarizedExperiment",
-        "lsa",
         "BiocFileCache",
         "shiny",
         "dbplyr",
@@ -8428,7 +8427,6 @@
         "AnnotationDbi",
         "doParallel",
         "xgboost",
-        "lsa",
         "Biobase",
         "IRanges",
         "RSQLite",
@@ -8990,8 +8988,7 @@
     ],
     "CellScore": [
         "Biobase",
-        "gplots",
-        "lsa"
+        "gplots"
     ],
     "CellTrails": [
         "SingleCellExperiment",
@@ -13640,7 +13637,6 @@
         "piano",
         "BiocParallel",
         "BumpyMatrix",
-        "lsa",
         "bench",
         "pillar",
         "tibble",
@@ -47281,7 +47277,6 @@
         "Biobase",
         "ALL",
         "BumpyMatrix",
-        "lsa",
         "bench",
         "lifecycle",
         "tibble",
@@ -47793,7 +47788,6 @@
         "MatrixGenerics",
         "piano",
         "BumpyMatrix",
-        "lsa",
         "bench",
         "lifecycle",
         "mgcv",
@@ -51854,7 +51848,6 @@
         "MatrixGenerics",
         "piano",
         "BumpyMatrix",
-        "lsa",
         "bench",
         "lifecycle",
         "GenomicRanges",
@@ -53704,7 +53697,6 @@
         "glmnet",
         "ggplot2",
         "IRanges",
-        "lsa",
         "reshape2",
         "XVector",
         "rtracklayer",
@@ -68038,7 +68030,6 @@
         "MatrixGenerics",
         "piano",
         "BumpyMatrix",
-        "lsa",
         "bench",
         "lifecycle",
         "tidyselect",
@@ -71358,7 +71349,6 @@
         "MatrixGenerics",
         "piano",
         "BumpyMatrix",
-        "lsa",
         "bench",
         "Matrix",
         "GenomicRanges",
@@ -75602,7 +75592,6 @@
         "RcppEigen",
         "highr"
     ],
-    "lsa": [],
     "BSgenome.Hsapiens.UCSC.hg38": [
         "BSgenome",
         "IRanges",
