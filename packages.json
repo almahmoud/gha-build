@@ -2010,7 +2010,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "RESOLVE": [],
     "restfulSE": [
         "ExperimentHub",
         "AnnotationHub",
