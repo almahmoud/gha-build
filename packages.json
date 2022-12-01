@@ -13662,7 +13662,6 @@
         "dbplyr",
         "dplyr"
     ],
-    "pqsfinder": [],
     "pram": [
         "GenomicAlignments",
         "rtracklayer",
