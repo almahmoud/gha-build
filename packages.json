@@ -188,9 +188,7 @@
     "ballgown": [],
     "bambu": [],
     "bandle": [],
-    "Basic4Cseq": [
-        "BSgenome.Ecoli.NCBI.20080805"
-    ],
+    "Basic4Cseq": [],
     "BASiCStan": [],
     "BatchQC": [],
     "BayesSpace": [
@@ -3899,7 +3897,6 @@
         "lme4",
         "nloptr"
     ],
-    "BSgenome.Ecoli.NCBI.20080805": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
         "bumphunter"
