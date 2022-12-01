@@ -3989,7 +3989,6 @@
         "viridis",
         "dbplyr"
     ],
-    "CNVMetrics": [],
     "CNVPanelizer": [
         "Rsamtools",
         "exomeCopy",
