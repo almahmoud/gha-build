@@ -1586,7 +1586,6 @@
     ],
     "DEsubs": [
         "EBSeq",
-        "NBPSeq",
         "DESeq2",
         "geneplotter",
         "testthat"
@@ -3432,7 +3431,6 @@
         "DSS",
         "EDASeq",
         "GenomicFeatures",
-        "NBPSeq",
         "geneplotter",
         "bsseq",
         "BSgenome"
@@ -5266,9 +5264,7 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "RNAsense": [
-        "NBPSeq"
-    ],
+    "RNAsense": [],
     "RNASeqR": [
         "pathview",
         "ballgown",
@@ -6988,7 +6984,6 @@
         "nloptr",
         "testthat"
     ],
-    "NBPSeq": [],
     "easierData": [
         "ExperimentHub",
         "AnnotationHub",
