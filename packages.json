@@ -14559,7 +14559,6 @@
         "IRkernel",
         "IRdisplay"
     ],
-    "RCyjs": [],
     "ReactomeGraph4R": [
         "neo4r",
         "tidyr",
