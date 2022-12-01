@@ -22125,7 +22125,6 @@
         "SeuratObject",
         "spatstat.explore"
     ],
-    "scTHI": [],
     "scTreeViz": [
         "epivizr",
         "SummarizedExperiment",
