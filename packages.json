@@ -4739,7 +4739,6 @@
         "zoo"
     ],
     "bayNorm": [
-        "BB",
         "foreach",
         "doSNOW",
         "Matrix",
@@ -14568,7 +14567,6 @@
         "ggplot2",
         "phyloseq",
         "Matrix",
-        "BB",
         "reshape2",
         "alabama",
         "cobs",
@@ -87554,7 +87552,6 @@
         "zoo"
     ],
     "miscTools": [],
-    "BB": [],
     "rjags": [
         "coda"
     ],
