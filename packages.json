@@ -27481,7 +27481,6 @@
         "dplyr",
         "tidyr",
         "R.utils",
-        "SMVar",
         "oligoClasses",
         "Biostrings",
         "ff",
@@ -148994,8 +148993,7 @@
         "lattice"
     ],
     "metaMA": [
-        "limma",
-        "SMVar"
+        "limma"
     ],
     "reader": [
         "NCmisc"
@@ -149030,7 +149028,6 @@
         "magrittr",
         "rappdirs"
     ],
-    "SMVar": [],
     "NCmisc": [],
     "binr": [],
     "highcharter": [
