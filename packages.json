@@ -141,7 +141,6 @@
         "biomaRt",
         "BSgenome"
     ],
-    "anota": [],
     "anota2seq": [
         "DESeq2",
         "geneplotter"
@@ -6785,7 +6784,6 @@
     ],
     "transformGamPoi": [],
     "tRanslatome": [
-        "anota",
         "DESeq2",
         "topGO",
         "GOSemSim",
