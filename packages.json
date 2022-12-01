@@ -2594,7 +2594,6 @@
         "GenomicAlignments",
         "plyranges",
         "dplyr",
-        "quantmod",
         "ggplot2",
         "Rsamtools",
         "rtracklayer"
@@ -4103,7 +4102,6 @@
         "BiocVersion",
         "interactiveDisplayBase",
         "broom",
-        "quantmod",
         "tidyr",
         "cellranger",
         "dbplyr"
@@ -4384,7 +4382,6 @@
         "highcharter",
         "dplyr",
         "broom",
-        "quantmod",
         "tidyr",
         "vsn",
         "ggplot2"
@@ -4491,7 +4488,6 @@
     "debCAM": [
         "NMF",
         "DMwR2",
-        "quantmod",
         "dplyr",
         "readr",
         "ggplot2",
@@ -4717,8 +4713,7 @@
     ],
     "deltaGseg": [
         "ggplot2",
-        "tseries",
-        "quantmod"
+        "tseries"
     ],
     "DeMixT": [
         "DSS",
@@ -14304,8 +14299,7 @@
         "ggplot2",
         "tseries",
         "viridis",
-        "vsn",
-        "quantmod"
+        "vsn"
     ],
     "proActiv": [
         "AnnotationDbi",
@@ -14524,7 +14518,6 @@
         "MSnbase",
         "dplyr",
         "broom",
-        "quantmod",
         "tidyr",
         "vsn"
     ],
@@ -14628,7 +14621,6 @@
         "dbplyr",
         "miniUI",
         "broom",
-        "quantmod",
         "tidyr",
         "derfinder",
         "GEOquery",
@@ -15122,8 +15114,7 @@
     "RCM": [
         "tseries",
         "ggplot2",
-        "phyloseq",
-        "quantmod"
+        "phyloseq"
     ],
     "Rcpi": [
         "GOSemSim",
@@ -21506,7 +21497,6 @@
     ],
     "GenomicTools": [],
     "GenomicTools.fileHandler": [],
-    "quantmod": [],
     "IlluminaHumanMethylationEPICmanifest": [
         "minfi",
         "bumphunter",
@@ -21870,7 +21860,6 @@
     "highcharter": [
         "dplyr",
         "broom",
-        "quantmod",
         "tidyr",
         "ggplot2"
     ],
@@ -21938,7 +21927,6 @@
     ],
     "sn": [],
     "DMwR2": [
-        "quantmod",
         "dplyr",
         "readr",
         "vroom"
@@ -21979,9 +21967,7 @@
         "dplyr",
         "tidyr"
     ],
-    "tseries": [
-        "quantmod"
-    ],
+    "tseries": [],
     "ggplot.multistats": [
         "ggplot2"
     ],
@@ -22748,8 +22734,7 @@
     ],
     "forecast": [
         "ggplot2",
-        "tseries",
-        "quantmod"
+        "tseries"
     ],
     "EnsDb.Mmusculus.v79": [
         "ensembldb",
