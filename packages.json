@@ -58949,7 +58949,6 @@
         "lobstr",
         "BiocIO",
         "biomaRt",
-        "lamW",
         "reshape2",
         "clock",
         "hardhat",
@@ -71857,7 +71856,6 @@
         "tidyselect",
         "pillar",
         "ggplot2",
-        "lamW",
         "reshape2",
         "clock",
         "hardhat",
@@ -71896,7 +71894,6 @@
     ],
     "LambertW": [
         "ggplot2",
-        "lamW",
         "reshape2",
         "lifecycle",
         "mgcv",
@@ -71931,7 +71928,6 @@
         "bit64",
         "progress"
     ],
-    "lamW": [],
     "animation": [],
     "tractor.base": [],
     "vbsr": [],
