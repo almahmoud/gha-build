@@ -46382,7 +46382,6 @@
         "ggplot2",
         "future",
         "future.apply",
-        "mlr3misc",
         "bbotk",
         "ade4",
         "ape",
@@ -62196,12 +62195,10 @@
     "mlr3": [
         "future",
         "future.apply",
-        "mlr3misc",
         "paradox"
     ],
     "mlr3learners": [
         "mlr3",
-        "mlr3misc",
         "paradox",
         "future",
         "future.apply"
@@ -62210,17 +62207,12 @@
         "mlr3",
         "paradox",
         "bbotk",
-        "mlr3misc",
         "future",
         "future.apply"
     ],
-    "paradox": [
-        "mlr3misc"
-    ],
-    "mlr3misc": [],
+    "paradox": [],
     "bbotk": [
-        "paradox",
-        "mlr3misc"
+        "paradox"
     ],
     "survivalAnalysis": [
         "survival",
