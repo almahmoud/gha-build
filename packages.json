@@ -19246,7 +19246,6 @@
         "Matrix",
         "tfruns",
         "ellipsis",
-        "rcdklibs",
         "itertools",
         "RcppTOML",
         "here",
@@ -30167,7 +30166,6 @@
         "tidyr",
         "viridis",
         "visNetwork",
-        "rcdklibs",
         "itertools",
         "rsparse",
         "mlapi",
@@ -58494,7 +58492,6 @@
         "BiocIO",
         "biomaRt",
         "GO.db",
-        "rcdklibs",
         "itertools",
         "BiocParallel",
         "Rhtslib",
@@ -60965,7 +60962,6 @@
         "GenomeInfoDb",
         "AnnotationDbi",
         "GO.db",
-        "rcdklibs",
         "itertools",
         "Biobase",
         "RSQLite",
@@ -63912,7 +63908,6 @@
         "mzID",
         "scales",
         "R.oo",
-        "rcdklibs",
         "itertools",
         "stringr",
         "rvest",
@@ -81180,7 +81175,6 @@
         "XVector",
         "mgcv",
         "ragg",
-        "rcdklibs",
         "itertools",
         "RcppEigen",
         "hms",
@@ -90499,7 +90493,6 @@
         "Matrix"
     ],
     "rcdk": [
-        "rcdklibs",
         "itertools"
     ],
     "webchem": [
@@ -90517,7 +90510,6 @@
         "selectr",
         "askpass"
     ],
-    "rcdklibs": [],
     "text2vec": [
         "Matrix",
         "rsparse",
