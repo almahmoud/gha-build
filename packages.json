@@ -216,9 +216,7 @@
         "scater"
     ],
     "contiBAIT": [],
-    "conumee": [
-        "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
-    ],
+    "conumee": [],
     "CopyNumberPlots": [],
     "crisprDesign": [
         "crisprScore",
@@ -365,7 +363,6 @@
     "epimutacions": [
         "AnnotationHub",
         "ExperimentHub",
-        "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
         "BiocVersion"
     ],
     "erma": [],
@@ -1203,7 +1200,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [],
     "crisprScoreData": [
         "ExperimentHub",
         "AnnotationHub",
