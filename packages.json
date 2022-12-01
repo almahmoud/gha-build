@@ -1564,7 +1564,6 @@
         "GenomicFiles"
     ],
     "RNAdecay": [],
-    "RNAinteract": [],
     "RNAmodR": [
         "Gviz",
         "biovizBase"
