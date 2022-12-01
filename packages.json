@@ -17935,7 +17935,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "gbutils",
         "XVector",
         "waldo",
         "rematch2",
@@ -50484,13 +50483,9 @@
         "survival"
     ],
     "fGarch": [
-        "cvar",
-        "gbutils"
+        "cvar"
     ],
-    "cvar": [
-        "gbutils"
-    ],
-    "gbutils": [],
+    "cvar": [],
     "ggwordcloud": [
         "ggplot2",
         "mgcv",
