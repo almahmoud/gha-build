@@ -100877,7 +100877,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "SLqPCR": [],
     "SMAD": [
         "RcppAlgos",
         "magrittr",
