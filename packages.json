@@ -9744,7 +9744,6 @@
         "BiocFileCache",
         "BiocVersion"
     ],
-    "qckitfastq": [],
     "QDNAseq": [],
     "QFeatures": [
         "MultiAssayExperiment",
