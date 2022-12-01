@@ -5086,9 +5086,7 @@
         "GenomicRanges",
         "pillar"
     ],
-    "clst": [],
     "clstutils": [
-        "clst",
         "RSQLite",
         "blob"
     ],
