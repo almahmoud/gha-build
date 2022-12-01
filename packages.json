@@ -114835,7 +114835,6 @@
         "GLAD",
         "doSNOW",
         "adehabitatLT",
-        "seqCNA.annot",
         "sp",
         "ade4",
         "adehabitatMA",
@@ -158546,7 +158545,6 @@
         "boot",
         "lattice"
     ],
-    "seqCNA.annot": [],
     "adehabitatMA": [
         "sp",
         "lattice"
