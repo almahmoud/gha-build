@@ -282,12 +282,9 @@
         "BSgenome.Ecoli.NCBI.20080805",
         "BSgenome"
     ],
-    "BASiCS": [
-        "ggExtra"
-    ],
+    "BASiCS": [],
     "BASiCStan": [
-        "BASiCS",
-        "ggExtra"
+        "BASiCS"
     ],
     "BatchQC": [
         "sva"
@@ -1467,9 +1464,7 @@
     "Dino": [
         "Seurat"
     ],
-    "DiscoRhythm": [
-        "ggExtra"
-    ],
+    "DiscoRhythm": [],
     "distinct": [
         "scater"
     ],
@@ -2454,7 +2449,6 @@
     ],
     "HiCDOC": [
         "ggpubr",
-        "ggExtra",
         "multiHiCcompare",
         "rstatix",
         "car",
@@ -3527,12 +3521,9 @@
         "nloptr",
         "testthat"
     ],
-    "MSstatsQC": [
-        "ggExtra"
-    ],
+    "MSstatsQC": [],
     "MSstatsQCgui": [
-        "MSstatsQC",
-        "ggExtra"
+        "MSstatsQC"
     ],
     "MSstatsSampleSize": [
         "MSstats",
@@ -6036,7 +6027,6 @@
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome"
     ],
-    "ggExtra": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
         "bumphunter",
