@@ -25339,7 +25339,6 @@
         "VarfromPDB",
         "org.Hs.eg.db",
         "dplyr",
-        "XML2R",
         "RSQLite",
         "KEGGREST",
         "tibble",
@@ -46667,11 +46666,9 @@
     ],
     "scico": [],
     "VarfromPDB": [
-        "XML2R",
         "RISmed",
         "httr"
     ],
-    "XML2R": [],
     "mppa": [],
     "huge": [],
     "ICSNP": [
