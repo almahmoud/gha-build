@@ -375,7 +375,6 @@
     ],
     "GeneGeneInteR": [],
     "GeneStructureTools": [],
-    "GenomicOZone": [],
     "GenomicScores": [
         "AnnotationHub",
         "BiocVersion"
