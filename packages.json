@@ -9701,7 +9701,6 @@
     "multiMiR": [
         "AnnotationDbi"
     ],
-    "multiOmicsViz": [],
     "multiSight": [
         "golem",
         "shinydashboard",
