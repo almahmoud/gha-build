@@ -23938,7 +23938,6 @@
         "tweenr",
         "sf",
         "sftime",
-        "spacetime",
         "stars",
         "broom",
         "fields",
@@ -29634,7 +29633,6 @@
     "gstat": [
         "sf",
         "sftime",
-        "spacetime",
         "stars",
         "lwgeom"
     ],
@@ -29647,7 +29645,6 @@
     "sftime": [
         "sf"
     ],
-    "spacetime": [],
     "stars": [
         "sf",
         "lwgeom"
