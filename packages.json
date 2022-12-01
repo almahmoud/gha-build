@@ -163,7 +163,6 @@
     ],
     "ChAMP": [
         "DMRcate",
-        "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "wateRmelon",
         "missMethyl",
         "ExperimentHub",
@@ -306,7 +305,6 @@
         "ExperimentHub",
         "missMethyl",
         "AnnotationHub",
-        "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "BiocVersion"
     ],
     "DMRforPairs": [],
@@ -579,8 +577,7 @@
     "maser": [],
     "mCSEA": [],
     "MEAL": [
-        "missMethyl",
-        "IlluminaHumanMethylationEPICanno.ilm10b4.hg19"
+        "missMethyl"
     ],
     "MEAT": [
         "wateRmelon",
@@ -625,8 +622,7 @@
         "BiocCheck"
     ],
     "methylGSA": [
-        "missMethyl",
-        "IlluminaHumanMethylationEPICanno.ilm10b4.hg19"
+        "missMethyl"
     ],
     "methylPipe": [],
     "mia": [
@@ -656,9 +652,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "missMethyl": [
-        "IlluminaHumanMethylationEPICanno.ilm10b4.hg19"
-    ],
+    "missMethyl": [],
     "MMUPHin": [
         "Maaslin2"
     ],
@@ -1192,7 +1186,6 @@
     "drc": [],
     "FactoMineR": [],
     "GenomicTools": [],
-    "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [],
     "spp": [],
     "propr": [],
     "factoextra": [
