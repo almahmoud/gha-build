@@ -212,7 +212,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "ELMER": [],
     "ENmix": [
         "ExperimentHub",
         "AnnotationHub",
@@ -639,7 +638,6 @@
     "TADCompare": [],
     "TargetDecoy": [],
     "TCGAbiolinksGUI": [
-        "ELMER",
         "sesame",
         "sesameData",
         "ExperimentHub",
