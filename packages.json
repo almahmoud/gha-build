@@ -24307,7 +24307,6 @@
     "Prostar": [
         "DAPAR",
         "DAPARdata",
-        "rhandsontable",
         "shiny",
         "shinyBS",
         "shinyAce",
@@ -30790,7 +30789,6 @@
         "shinyFiles",
         "shinyWidgets",
         "shinydashboard",
-        "rhandsontable",
         "DT",
         "heatmaply",
         "RSQLite",
@@ -38785,7 +38783,6 @@
         "TTR",
         "pillar"
     ],
-    "rhandsontable": [],
     "EnsDb.Mmusculus.v79": [
         "ensembldb",
         "GenomicRanges",
