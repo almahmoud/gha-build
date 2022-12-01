@@ -502,7 +502,6 @@
         "car",
         "pbkrtest"
     ],
-    "Cepo": [],
     "ceRNAnetsim": [],
     "CeTF": [
         "clusterProfiler",
@@ -3500,9 +3499,7 @@
     "scBubbletree": [
         "ggtree"
     ],
-    "scClassify": [
-        "Cepo"
-    ],
+    "scClassify": [],
     "scDblFinder": [
         "scater"
     ],
