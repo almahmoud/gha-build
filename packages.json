@@ -56920,7 +56920,6 @@
         "pander",
         "digest",
         "Rcpp",
-        "svGUI",
         "rstudioapi",
         "BiocParallel",
         "MSnbase",
@@ -127692,10 +127691,8 @@
         "zlibbioc"
     ],
     "svDialogs": [
-        "svGUI",
         "rstudioapi"
     ],
-    "svGUI": [],
     "EnsDb.Hsapiens.v75": [
         "ensembldb",
         "BiocGenerics",
