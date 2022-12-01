@@ -1032,7 +1032,6 @@
         "AnnotationDbi",
         "tidyr"
     ],
-    "biocthis": [],
     "BiocVersion": [],
     "BiocWorkflowTools": [],
     "biodb": [
@@ -6371,7 +6370,6 @@
     ],
     "HubPub": [
         "available",
-        "biocthis",
         "tidytext"
     ],
     "HumanTranscriptomeCompendium": [],
