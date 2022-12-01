@@ -2,11 +2,14 @@ name: Build packages matrix
 on:
   workflow_dispatch: {}
   push: {}
-#   schedule:
-#     - cron: '*/5 * * * *'
+  schedule:
+    - cron: '*/10 * * * *'
 
 jobs:
   getlistformatrix:
+    concurrency:
+      group: dispatch
+      cancel-in-progress: false
     runs-on: ubuntu-latest
     outputs:
       matrix: ${{ steps.matrix.outputs.pkglist }}
