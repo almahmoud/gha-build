@@ -7629,8 +7629,7 @@
         "waldo"
     ],
     "supersigs": [
-        "caret",
-        "rsample"
+        "caret"
     ],
     "supraHex": [
         "readr"
@@ -9239,7 +9238,6 @@
         "haven",
         "readr"
     ],
-    "rsample": [],
     "gstat": [
         "stars"
     ],
