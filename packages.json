@@ -93749,7 +93749,6 @@
     ],
     "optimalFlow": [
         "dplyr",
-        "optimalFlowData",
         "rlang",
         "transport",
         "Rfast",
@@ -166622,7 +166621,6 @@
         "vctrs",
         "utf8"
     ],
-    "optimalFlowData": [],
     "Peptides": [
         "Rcpp"
     ],
