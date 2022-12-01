@@ -7740,7 +7740,6 @@
         "piano",
         "fgsea"
     ],
-    "ramr": [],
     "ramwas": [
         "biomaRt",
         "BiocFileCache"
