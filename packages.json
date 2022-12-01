@@ -86,8 +86,7 @@
     ],
     "ATACCoGAPS": [
         "rGREAT",
-        "Homo.sapiens",
-        "Mus.musculus"
+        "Homo.sapiens"
     ],
     "ATACseqQC": [
         "GenomicScores",
@@ -156,7 +155,6 @@
     "biovizBase": [],
     "biscuiteer": [
         "biscuiteerData",
-        "Mus.musculus",
         "Homo.sapiens",
         "dmrseq",
         "ExperimentHub",
@@ -1993,7 +1991,6 @@
     "SIFT.Hsapiens.dbSNP137": [],
     "FDb.InfiniumMethylation.hg19": [],
     "mGSZ": [],
-    "Mus.musculus": [],
     "doBy": [
         "pbkrtest"
     ],
