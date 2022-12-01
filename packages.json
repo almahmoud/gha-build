@@ -2271,7 +2271,6 @@
     ],
     "DeepPINCS": [
         "keras",
-        "webchem",
         "ttgsea",
         "textstem",
         "DiagrammeR",
@@ -3678,7 +3677,6 @@
         "keras",
         "DeepPINCS",
         "ttgsea",
-        "webchem",
         "textstem",
         "DiagrammeR",
         "readr",
@@ -7794,8 +7792,7 @@
         "recipes"
     ],
     "RMassBank": [
-        "MSnbase",
-        "webchem"
+        "MSnbase"
     ],
     "Rmmquant": [
         "devtools",
@@ -9697,7 +9694,6 @@
         "scater",
         "DeepPINCS",
         "DiagrammeR",
-        "webchem",
         "ttgsea",
         "readr",
         "ggrastr",
@@ -10522,7 +10518,6 @@
         "testthat",
         "waldo"
     ],
-    "webchem": [],
     "textstem": [
         "lexicon",
         "textclean",
