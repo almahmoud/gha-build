@@ -19,9 +19,7 @@
     "airpart": [
         "scater"
     ],
-    "AllelicImbalance": [
-        "Gviz"
-    ],
+    "AllelicImbalance": [],
     "AMARETTO": [
         "curatedTCGAData",
         "AnnotationHub",
@@ -58,12 +56,9 @@
         "methylumi"
     ],
     "ASpediaFI": [
-        "Gviz",
         "mGSZ"
     ],
-    "ASpli": [
-        "Gviz"
-    ],
+    "ASpli": [],
     "ATACCoGAPS": [],
     "ATACseqQC": [
         "GenomicScores",
@@ -89,9 +84,7 @@
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
-    "BindingSiteFinder": [
-        "Gviz"
-    ],
+    "BindingSiteFinder": [],
     "bioCancer": [
         "radiant.data"
     ],
@@ -105,9 +98,7 @@
         "BiocVersion"
     ],
     "BiocVersion": [],
-    "biomvRCNS": [
-        "Gviz"
-    ],
+    "biomvRCNS": [],
     "BioNAR": [
         "synaptome.db",
         "synaptome.data",
@@ -138,7 +129,6 @@
     ],
     "CAFE": [],
     "CAGEfightR": [
-        "Gviz",
         "GenomicInteractions"
     ],
     "cageminer": [],
@@ -182,7 +172,6 @@
         "wateRmelon",
         "missMethyl",
         "ExperimentHub",
-        "Gviz",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "methylumi",
         "lumi",
@@ -192,15 +181,11 @@
     "ChIC": [
         "spp"
     ],
-    "chimeraviz": [
-        "Gviz"
-    ],
+    "chimeraviz": [],
     "ChromSCape": [
         "scater"
     ],
-    "cicero": [
-        "Gviz"
-    ],
+    "cicero": [],
     "circRNAprofiler": [
         "AnnotationHub",
         "gwascat",
@@ -218,20 +203,15 @@
         "karyoploteR",
         "CopyNumberPlots"
     ],
-    "comapr": [
-        "Gviz"
-    ],
-    "coMET": [
-        "Gviz"
-    ],
+    "comapr": [],
+    "coMET": [],
     "coMethDMR": [
         "AnnotationHub",
         "ExperimentHub",
         "BiocVersion"
     ],
     "compEpiTools": [
-        "methylPipe",
-        "Gviz"
+        "methylPipe"
     ],
     "conclus": [
         "factoextra",
@@ -273,14 +253,12 @@
         "crisprDesign",
         "crisprViz",
         "crisprScoreData",
-        "Gviz",
         "ExperimentHub",
         "AnnotationHub",
         "BiocVersion"
     ],
     "crisprViz": [
         "crisprDesign",
-        "Gviz",
         "crisprScore",
         "crisprScoreData",
         "ExperimentHub",
@@ -291,9 +269,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "cummeRbund": [
-        "Gviz"
-    ],
+    "cummeRbund": [],
     "customCMPdb": [
         "AnnotationHub",
         "BiocVersion"
@@ -348,7 +324,6 @@
     "DMRcate": [
         "ExperimentHub",
         "missMethyl",
-        "Gviz",
         "AnnotationHub",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
@@ -357,9 +332,7 @@
         "methylumi",
         "BiocVersion"
     ],
-    "DMRforPairs": [
-        "Gviz"
-    ],
+    "DMRforPairs": [],
     "dmrseq": [
         "annotatr",
         "AnnotationHub",
@@ -378,7 +351,6 @@
     ],
     "edge": [],
     "ELMER": [
-        "Gviz",
         "ggpubr",
         "rstatix"
     ],
@@ -414,7 +386,6 @@
         "BiocVersion"
     ],
     "epimutacions": [
-        "Gviz",
         "AnnotationHub",
         "ExperimentHub",
         "IlluminaHumanMethylation450kmanifest",
@@ -446,8 +417,7 @@
         "BiocVersion"
     ],
     "extraChIPs": [
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
     "ffpe": [
         "lumi",
@@ -495,12 +465,8 @@
     "GeneGeneInteR": [
         "FactoMineR"
     ],
-    "GeneStructureTools": [
-        "Gviz"
-    ],
-    "GenomicInteractions": [
-        "Gviz"
-    ],
+    "GeneStructureTools": [],
+    "GenomicInteractions": [],
     "GenomicOZone": [],
     "GenomicScores": [
         "AnnotationHub",
@@ -535,14 +501,12 @@
         "ExperimentHub",
         "BiocVersion"
     ],
-    "Gviz": [],
     "gwascat": [
         "AnnotationHub",
         "BiocVersion"
     ],
     "HiCDCPlus": [
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
     "HiCDOC": [
         "ggpubr",
@@ -551,7 +515,6 @@
     "HiContacts": [
         "HiContactsData",
         "GenomicInteractions",
-        "Gviz",
         "ExperimentHub",
         "AnnotationHub",
         "BiocVersion"
@@ -656,15 +619,10 @@
         "BiocVersion"
     ],
     "MAIT": [],
-    "maser": [
-        "Gviz"
-    ],
+    "maser": [],
     "MBECS": [],
-    "mCSEA": [
-        "Gviz"
-    ],
+    "mCSEA": [],
     "MEAL": [
-        "Gviz",
         "missMethyl",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
@@ -730,9 +688,7 @@
         "IlluminaHumanMethylationEPICmanifest",
         "methylumi"
     ],
-    "methylPipe": [
-        "Gviz"
-    ],
+    "methylPipe": [],
     "methylumi": [],
     "mia": [
         "scater"
@@ -773,9 +729,7 @@
     "MMUPHin": [
         "Maaslin2"
     ],
-    "motifbreakR": [
-        "Gviz"
-    ],
+    "motifbreakR": [],
     "MQmetrics": [
         "ggpubr",
         "rstatix"
@@ -824,7 +778,6 @@
         "trackViewer",
         "ATACseqQC",
         "GenomicScores",
-        "Gviz",
         "AnnotationHub",
         "BiocVersion"
     ],
@@ -862,7 +815,6 @@
         "rstatix"
     ],
     "OGRE": [
-        "Gviz",
         "AnnotationHub",
         "BiocVersion"
     ],
@@ -918,9 +870,7 @@
         "BiocVersion"
     ],
     "Pigengene": [],
-    "PING": [
-        "Gviz"
-    ],
+    "PING": [],
     "pipeComp": [
         "scater"
     ],
@@ -938,7 +888,6 @@
     "primirTSS": [
         "phastCons100way.UCSC.hg38",
         "GenomicScores",
-        "Gviz",
         "AnnotationHub",
         "BiocVersion"
     ],
@@ -961,9 +910,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "Pviz": [
-        "Gviz"
-    ],
+    "Pviz": [],
     "pwOmics": [
         "AnnotationHub",
         "BiocVersion"
@@ -998,7 +945,6 @@
     ],
     "regutools": [
         "AnnotationHub",
-        "Gviz",
         "BiocVersion"
     ],
     "REMP": [
@@ -1036,20 +982,15 @@
         "recount",
         "derfinder"
     ],
-    "RNAmodR": [
-        "Gviz"
-    ],
+    "RNAmodR": [],
     "RNAmodR.AlkAnilineSeq": [
-        "RNAmodR",
-        "Gviz"
+        "RNAmodR"
     ],
     "RNAmodR.ML": [
-        "RNAmodR",
-        "Gviz"
+        "RNAmodR"
     ],
     "RNAmodR.RiboMethSeq": [
-        "RNAmodR",
-        "Gviz"
+        "RNAmodR"
     ],
     "RNASeqR": [
         "FactoMineR",
@@ -1190,8 +1131,7 @@
         "scater"
     ],
     "spatzie": [
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
     "spicyR": [],
     "splatter": [
@@ -1203,20 +1143,14 @@
         "BiocVersion",
         "ExperimentHub"
     ],
-    "SPLINTER": [
-        "Gviz"
-    ],
+    "SPLINTER": [],
     "SPONGE": [
         "ggpubr",
         "rstatix"
     ],
-    "srnadiff": [
-        "Gviz"
-    ],
+    "srnadiff": [],
     "ssPATHS": [],
-    "STAN": [
-        "Gviz"
-    ],
+    "STAN": [],
     "standR": [],
     "Statial": [],
     "survtype": [
@@ -1241,7 +1175,6 @@
     "TCGAbiolinksGUI": [
         "ELMER",
         "sesame",
-        "Gviz",
         "ggpubr",
         "sesameData",
         "rstatix",
@@ -1266,9 +1199,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "trackViewer": [
-        "Gviz"
-    ],
+    "trackViewer": [],
     "TraRe": [
         "vbsr"
     ],
@@ -1291,9 +1222,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "uncoverappLib": [
-        "Gviz"
-    ],
+    "uncoverappLib": [],
     "VAExprs": [
         "scater",
         "DeepPINCS",
@@ -1302,7 +1231,6 @@
     "variancePartition": [],
     "VariantFiltering": [
         "GenomicScores",
-        "Gviz",
         "AnnotationHub",
         "BiocVersion"
     ],
