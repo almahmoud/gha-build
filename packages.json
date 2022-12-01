@@ -4926,7 +4926,6 @@
     ],
     "diffcoexp": [
         "WGCNA",
-        "DiffCorr",
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
@@ -22008,7 +22007,6 @@
         "qvalue",
         "ggplot2"
     ],
-    "DiffCorr": [],
     "fastDummies": [],
     "hgu133a2.db": [
         "AnnotationDbi",
