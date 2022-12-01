@@ -2634,7 +2634,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "SEtools": [],
     "SGSeq": [],
     "shinyepico": [
         "minfi",
