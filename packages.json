@@ -14615,7 +14615,6 @@
         "SummarizedExperiment",
         "NMF",
         "ape",
-        "howmany",
         "locfdr",
         "BiocSingular",
         "stringr",
@@ -57211,7 +57210,6 @@
         "HDF5Array",
         "NMF",
         "ape",
-        "howmany",
         "locfdr",
         "BiocSingular",
         "stringr",
@@ -100266,7 +100264,6 @@
         "rlang"
     ],
     "qtl": [],
-    "howmany": [],
     "locfdr": [],
     "phylobase": [
         "ade4",
