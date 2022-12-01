@@ -490,7 +490,6 @@
         "distinct",
         "scater"
     ],
-    "CONFESS": [],
     "consensusDE": [
         "EDASeq",
         "EnsDb.Hsapiens.v86",
