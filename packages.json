@@ -12550,7 +12550,6 @@
         "tidyselect",
         "pillar",
         "rmarkdown",
-        "gdtools",
         "ggrepel",
         "ggsci",
         "tidyr",
@@ -13524,7 +13523,6 @@
         "sf",
         "flextable",
         "rmarkdown",
-        "gdtools",
         "classInt",
         "bslib"
     ],
@@ -37897,10 +37895,8 @@
     ],
     "flextable": [
         "rmarkdown",
-        "gdtools",
         "bslib"
     ],
-    "gdtools": [],
     "robust": [],
     "shinyHeatmaply": [
         "heatmaply",
@@ -37971,7 +37967,6 @@
         "sf",
         "flextable",
         "rmarkdown",
-        "gdtools",
         "classInt",
         "bslib"
     ],
