@@ -6079,7 +6079,6 @@
         "graph",
         "Biobase",
         "metafor",
-        "metadat",
         "KEGGdzPathwaysGEO",
         "AnnotationDbi",
         "doRNG",
@@ -34063,7 +34062,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "metadat",
         "ellipsis",
         "purrr",
         "tidyselect",
@@ -34542,7 +34540,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "metadat",
         "Rdpack",
         "TFisher",
         "mutoss",
@@ -37737,7 +37734,6 @@
         "cplm",
         "pscl",
         "lme4",
-        "metadat",
         "ellipsis",
         "purrr",
         "pbkrtest",
@@ -70992,10 +70988,7 @@
         "ellipsis",
         "cachem"
     ],
-    "metafor": [
-        "metadat"
-    ],
-    "metadat": [],
+    "metafor": [],
     "KEGGdzPathwaysGEO": [
         "Biobase"
     ],
