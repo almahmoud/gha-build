@@ -3226,7 +3226,6 @@
         "annotate"
     ],
     "destiny": [
-        "ggplot.multistats",
         "tidyr",
         "ggthemes",
         "VIM",
@@ -14669,7 +14668,6 @@
         "tidyr"
     ],
     "tseries": [],
-    "ggplot.multistats": [],
     "VIM": [
         "car",
         "pbkrtest",
