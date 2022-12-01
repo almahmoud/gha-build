@@ -3321,7 +3321,6 @@
         "rtracklayer",
         "GenomicAlignments"
     ],
-    "dStruct": [],
     "Dune": [
         "tidyr",
         "gganimate"
