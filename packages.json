@@ -11526,7 +11526,6 @@
         "VariantAnnotation",
         "bestNormalize",
         "naniar",
-        "LambertW",
         "recipes",
         "tidyr",
         "visdat",
@@ -13490,7 +13489,6 @@
     "GenKern": [],
     "gghighlight": [],
     "bestNormalize": [
-        "LambertW",
         "recipes",
         "ipred",
         "tidyr"
@@ -13501,7 +13499,6 @@
         "UpSetR",
         "readr"
     ],
-    "LambertW": [],
     "visdat": [
         "tidyr",
         "readr"
