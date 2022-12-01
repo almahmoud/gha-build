@@ -10189,9 +10189,7 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "velociraptor": [
-        "zellkonverter"
-    ],
+    "velociraptor": [],
     "VennDetail": [],
     "vidger": [
         "DESeq2",
@@ -10371,7 +10369,6 @@
         "annotate",
         "rtracklayer"
     ],
-    "zellkonverter": [],
     "zenith": [
         "variancePartition",
         "EnrichmentBrowser",
