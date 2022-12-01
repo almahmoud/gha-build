@@ -241,7 +241,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "glmnet",
-        "doParallel",
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
@@ -475,7 +474,6 @@
         "ComplexHeatmap",
         "GenomicRanges",
         "RcppNumerical",
-        "doParallel",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -665,7 +663,6 @@
         "GenomeInfoDb"
     ],
     "AMARETTO": [
-        "doParallel",
         "dplyr",
         "ComplexHeatmap",
         "BiocFileCache",
@@ -769,7 +766,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "TreeSummarizedExperiment",
-        "doParallel",
         "dplyr",
         "lme4",
         "lmerTest",
@@ -833,7 +829,6 @@
         "GenomicRanges",
         "ggplot2",
         "cowplot",
-        "doParallel",
         "GenomeInfoDb",
         "Rsamtools",
         "bamsignals",
@@ -1606,7 +1601,6 @@
         "BSgenome",
         "biovizBase",
         "latticeExtra",
-        "doParallel",
         "lme4",
         "ggfortify",
         "DelayedArray",
@@ -1719,7 +1713,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "ComplexHeatmap",
-        "doParallel",
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
@@ -1779,7 +1772,6 @@
         "viridis",
         "progress",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "doParallel",
         "CNEr",
         "DirichletMultinomial",
         "broom",
@@ -2078,7 +2070,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "GenomeInfoDb",
-        "doParallel",
         "doBy",
         "ggplot2",
         "broom",
@@ -2199,7 +2190,6 @@
         "XVector"
     ],
     "BANDITS": [
-        "doParallel",
         "ggplot2",
         "DRIMSeq",
         "BiocParallel",
@@ -2257,7 +2247,6 @@
         "gbm",
         "threejs",
         "SummarizedExperiment",
-        "doParallel",
         "bslib",
         "RSQLite",
         "KEGGREST",
@@ -2720,7 +2709,6 @@
         "DescTools",
         "Hmisc",
         "SingleCellExperiment",
-        "doParallel",
         "dplyr",
         "lme4",
         "lmerTest",
@@ -3218,7 +3206,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "doParallel",
         "MultiAssayExperiment",
         "AnnotationHub",
         "ExperimentHub",
@@ -3667,7 +3654,6 @@
         "dbplyr",
         "AnnotationHub",
         "Hmisc",
-        "doParallel",
         "survival",
         "BiocFileCache",
         "BiocVersion",
@@ -3704,7 +3690,6 @@
         "BiocParallel",
         "GENIE3",
         "SummarizedExperiment",
-        "doParallel",
         "dplyr",
         "network",
         "sna",
@@ -3996,7 +3981,6 @@
         "ComplexHeatmap",
         "SummarizedExperiment",
         "pasilla",
-        "doParallel",
         "DEXSeq",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -4072,7 +4056,6 @@
         "ComplexHeatmap",
         "ggplot2",
         "randomcoloR",
-        "doParallel",
         "AnnotationHub",
         "BiocFileCache",
         "mgcv",
@@ -4223,7 +4206,6 @@
         "dbplyr"
     ],
     "borealis": [
-        "doParallel",
         "gamlss",
         "bsseq",
         "DSS",
@@ -4253,7 +4235,6 @@
     ],
     "BPRMeth": [
         "GenomicRanges",
-        "doParallel",
         "e1071",
         "ggplot2",
         "cowplot",
@@ -4422,7 +4403,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "ggplot2",
-        "doParallel",
         "SummarizedExperiment",
         "Biostrings",
         "BiocParallel",
@@ -4825,7 +4805,6 @@
         "vctrs",
         "RSQLite",
         "KEGGREST",
-        "doParallel",
         "dplyr",
         "biomaRt",
         "forcats",
@@ -4906,7 +4885,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "XVector",
-        "doParallel",
         "pillar"
     ],
     "canceR": [
@@ -4953,7 +4931,6 @@
         "NMF",
         "ConsensusClusterPlus",
         "survival",
-        "doParallel",
         "ggplot2",
         "mgcv",
         "tibble",
@@ -5072,7 +5049,6 @@
         "ggridges",
         "SummarizedExperiment",
         "scater",
-        "doParallel",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -5325,7 +5301,6 @@
     ],
     "ccmap": [
         "AnnotationDbi",
-        "doParallel",
         "RSQLite",
         "KEGGREST",
         "httr",
@@ -5372,7 +5347,6 @@
     "celda": [
         "SingleCellExperiment",
         "ggplot2",
-        "doParallel",
         "uwot",
         "enrichR",
         "SummarizedExperiment",
@@ -5449,7 +5423,6 @@
         "tidyr",
         "Rsamtools",
         "BiocParallel",
-        "doParallel",
         "GenomeInfoDb",
         "GenomicRanges",
         "Biostrings",
@@ -5586,7 +5559,6 @@
         "GenomeInfoDb"
     ],
     "cellmigRation": [
-        "doParallel",
         "SpatialTools",
         "FactoMineR",
         "Hmisc",
@@ -5755,7 +5727,6 @@
         "statnet.common",
         "bslib",
         "Hmisc",
-        "doParallel",
         "survival",
         "RSQLite",
         "KEGGREST",
@@ -5814,7 +5785,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "ggplot2",
-        "doParallel",
         "ConsensusClusterPlus",
         "ggforce",
         "ggnewscale",
@@ -5902,7 +5872,6 @@
         "gson",
         "qvalue",
         "tidyr",
-        "doParallel",
         "GenomicRanges",
         "BiocParallel",
         "geneplotter",
@@ -6055,7 +6024,6 @@
         "GenomicRanges",
         "qvalue",
         "isva",
-        "doParallel",
         "bumphunter",
         "shiny",
         "shinythemes",
@@ -6735,7 +6703,6 @@
     "chromstaR": [
         "GenomicRanges",
         "ggplot2",
-        "doParallel",
         "GenomeInfoDb",
         "Rsamtools",
         "GenomicAlignments",
@@ -6763,7 +6730,6 @@
         "pillar",
         "GenomeInfoDb",
         "XVector",
-        "doParallel",
         "ggplot2",
         "Biostrings",
         "Rsamtools",
@@ -6818,7 +6784,6 @@
         "progress"
     ],
     "CHRONOS": [
-        "doParallel",
         "biomaRt",
         "AnnotationDbi",
         "progress",
@@ -7172,7 +7137,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "doParallel",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -7215,7 +7179,6 @@
         "htmlwidgets",
         "tidyselect",
         "pillar",
-        "doParallel",
         "hms"
     ],
     "clusterExperiment": [
@@ -7233,7 +7196,6 @@
         "beachmat",
         "ClusterR",
         "benchmarkme",
-        "doParallel",
         "ggplot2",
         "rncl",
         "RNeXML",
@@ -7522,7 +7484,6 @@
         "pillar"
     ],
     "cnvGSA": [
-        "doParallel",
         "GenomicRanges",
         "GenomeInfoDb",
         "XVector"
@@ -7678,7 +7639,6 @@
         "MIRA",
         "tidyr",
         "fitdistrplus",
-        "doParallel",
         "survival",
         "GenomeInfoDb",
         "XVector",
@@ -7770,7 +7730,6 @@
     ],
     "cogena": [
         "ggplot2",
-        "doParallel",
         "tibble",
         "tidyr",
         "dplyr",
@@ -7865,8 +7824,7 @@
         "ComplexHeatmap",
         "skmeans",
         "httr",
-        "eulerr",
-        "doParallel"
+        "eulerr"
     ],
     "comapr": [
         "ggplot2",
@@ -8119,9 +8077,7 @@
         "mgcv",
         "htmlwidgets"
     ],
-    "ComplexHeatmap": [
-        "doParallel"
-    ],
+    "ComplexHeatmap": [],
     "CompoundDb": [
         "AnnotationFilter",
         "ChemmineR",
@@ -8180,7 +8136,6 @@
         "org.Mm.eg.db",
         "factoextra",
         "BiocFileCache",
-        "doParallel",
         "SummarizedExperiment",
         "biomaRt",
         "AnnotationDbi",
@@ -8284,7 +8239,6 @@
         "TrajectoryUtils",
         "distinct",
         "Rfast",
-        "doParallel",
         "ggplot2",
         "scater",
         "tibble",
@@ -8753,7 +8707,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "doParallel",
         "pillar"
     ],
     "cosmosR": [
@@ -8799,7 +8752,6 @@
         "tidyr",
         "ComplexHeatmap",
         "Rfast",
-        "doParallel",
         "tidyselect",
         "vctrs",
         "pillar",
@@ -9349,7 +9301,6 @@
     "csdR": [
         "WGCNA",
         "Hmisc",
-        "doParallel",
         "survival",
         "GO.db",
         "AnnotationDbi",
@@ -9671,7 +9622,6 @@
         "pillar"
     ],
     "CytoDx": [
-        "doParallel",
         "dplyr",
         "glmnet",
         "tibble",
@@ -9695,7 +9645,6 @@
         "tidyr",
         "BiocParallel",
         "cowplot",
-        "doParallel",
         "factoextra",
         "mbest",
         "pheatmap",
@@ -9753,7 +9702,6 @@
     "CytoGLMM": [
         "BiocParallel",
         "cowplot",
-        "doParallel",
         "dplyr",
         "factoextra",
         "ggplot2",
@@ -9805,7 +9753,6 @@
         "BiocParallel",
         "dplyr",
         "mixsqp",
-        "doParallel",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -10070,7 +10017,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "doParallel",
         "TTR"
     ],
     "DART": [],
@@ -10266,7 +10212,6 @@
         "quantmod",
         "dplyr",
         "readr",
-        "doParallel",
         "ggplot2",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -10405,7 +10350,6 @@
         "SummarizedExperiment",
         "ComplexHeatmap",
         "BiocParallel",
-        "doParallel",
         "GenomicRanges",
         "geneplotter",
         "ggplot2",
@@ -10628,7 +10572,6 @@
     ],
     "DegNorm": [
         "GenomicFeatures",
-        "doParallel",
         "Rsamtools",
         "GenomicAlignments",
         "heatmaply",
@@ -10691,7 +10634,6 @@
         "SummarizedExperiment",
         "tidyr",
         "tibble",
-        "doParallel",
         "GenomicRanges",
         "BiocParallel",
         "geneplotter",
@@ -10837,7 +10779,6 @@
         "DT",
         "rmarkdown",
         "imputeLCMD",
-        "doParallel",
         "tidyselect",
         "vctrs",
         "pillar",
@@ -11272,7 +11213,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "Hmisc",
-        "doParallel",
         "survival",
         "GO.db",
         "AnnotationDbi",
@@ -11301,7 +11241,6 @@
         "dplyr",
         "tidyr",
         "ComplexHeatmap",
-        "doParallel",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -11334,7 +11273,6 @@
         "rematch2"
     ],
     "DifferentialRegulation": [
-        "doParallel",
         "BANDITS",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -11384,7 +11322,6 @@
         "GenomeInfoDb",
         "dplyr",
         "ensembldb",
-        "doParallel",
         "BiocParallel",
         "DESeq2",
         "AnnotationDbi",
@@ -11536,7 +11473,6 @@
         "Rfast",
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "doParallel",
         "ggplot2",
         "scater",
         "mgcv",
@@ -11600,7 +11536,6 @@
         "fastDummies",
         "lme4",
         "benchmarkmeData",
-        "doParallel",
         "dplyr",
         "httr",
         "GenomeInfoDb",
@@ -12567,7 +12502,6 @@
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "biomaRt",
-        "doParallel",
         "ggrepel",
         "readr",
         "rvest",
@@ -12680,7 +12614,6 @@
         "progress"
     ],
     "ENmix": [
-        "doParallel",
         "SummarizedExperiment",
         "geneplotter",
         "minfi",
@@ -12739,7 +12672,6 @@
     "EnrichedHeatmap": [
         "ComplexHeatmap",
         "GenomicRanges",
-        "doParallel",
         "GenomeInfoDb",
         "XVector"
     ],
@@ -13146,7 +13078,6 @@
     "epihet": [
         "GenomicRanges",
         "ggplot2",
-        "doParallel",
         "EntropyExplorer",
         "pheatmap",
         "qvalue",
@@ -13207,7 +13138,6 @@
         "AnnotationHub",
         "AnnotationDbi",
         "biomaRt",
-        "doParallel",
         "dplyr",
         "ELMER.data",
         "ExperimentHub",
@@ -13797,7 +13727,6 @@
         "GenomicFeatures",
         "GenomeInfoDb",
         "prodlim",
-        "doParallel",
         "GenomicRanges",
         "qvalue",
         "cobs",
@@ -14147,7 +14076,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "doParallel",
         "interp",
         "dbplyr",
         "survival",
@@ -14273,7 +14201,6 @@
     "farms": [],
     "fastLiquidAssociation": [
         "LiquidAssociation",
-        "doParallel",
         "Hmisc",
         "WGCNA",
         "survival",
@@ -14349,7 +14276,6 @@
         "genomation",
         "ggplot2",
         "ComplexHeatmap",
-        "doParallel",
         "fds",
         "Biostrings",
         "BSgenome",
@@ -14444,7 +14370,6 @@
         "SummarizedExperiment",
         "rtracklayer",
         "GenomicRanges",
-        "doParallel",
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
@@ -14477,7 +14402,6 @@
         "TSCAN",
         "SC3",
         "e1071",
-        "doParallel",
         "shiny",
         "ggplot2",
         "pheatmap",
@@ -14597,7 +14521,6 @@
         "pillar"
     ],
     "FilterFFPE": [
-        "doParallel",
         "GenomicRanges",
         "Rsamtools",
         "GenomeInfoDb",
@@ -14687,7 +14610,6 @@
         "vctrs",
         "htmlwidgets",
         "interp",
-        "doParallel",
         "pillar"
     ],
     "FLAMES": [
@@ -14716,7 +14638,6 @@
         "BiocParallel",
         "GenomicAlignments",
         "XVector",
-        "doParallel",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -14903,9 +14824,7 @@
         "tibble",
         "pillar"
     ],
-    "flowMap": [
-        "doParallel"
-    ],
+    "flowMap": [],
     "flowMatch": [],
     "flowMeans": [
         "feature",
@@ -15222,7 +15141,6 @@
         "GenomicRanges",
         "shiny",
         "fda",
-        "doParallel",
         "GenomicAlignments",
         "GenomeInfoDb",
         "Rsamtools",
@@ -15541,7 +15459,6 @@
         "SummarizedExperiment",
         "rmarkdown",
         "ComplexHeatmap",
-        "doParallel",
         "mgcv",
         "tibble",
         "vctrs",
@@ -16066,7 +15983,6 @@
         "htmlwidgets",
         "miniUI",
         "shinyjs",
-        "doParallel",
         "patchwork",
         "GenomicRanges",
         "BiocParallel",
@@ -16155,7 +16071,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "dplyr",
-        "doParallel",
         "XVector",
         "tibble",
         "tidyselect",
@@ -16452,7 +16367,6 @@
         "dbplyr",
         "RSQLite",
         "httr",
-        "doParallel",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -16689,7 +16603,6 @@
     ],
     "GEOfastq": [
         "rvest",
-        "doParallel",
         "httr",
         "tibble",
         "pillar",
@@ -16776,7 +16689,6 @@
         "glmnet",
         "cellHTS2",
         "biomaRt",
-        "doParallel",
         "dplyr",
         "AnnotationDbi",
         "progress",
@@ -17245,7 +17157,6 @@
         "AnnotationDbi",
         "Category",
         "DT",
-        "doParallel",
         "gRbase",
         "GSEABase",
         "gRain",
@@ -17296,7 +17207,6 @@
         "GenomicFeatures",
         "rtracklayer",
         "XVector",
-        "doParallel",
         "SummarizedExperiment",
         "BiocParallel",
         "AnnotationDbi",
@@ -17382,7 +17292,6 @@
     "GOpro": [
         "AnnotationDbi",
         "dendextend",
-        "doParallel",
         "org.Hs.eg.db",
         "GO.db",
         "MultiAssayExperiment",
@@ -17655,7 +17564,6 @@
         "httr",
         "BiocFileCache",
         "XVector",
-        "doParallel",
         "BiocParallel",
         "geneplotter",
         "vctrs",
@@ -17921,7 +17829,6 @@
         "GenomeInfoDb"
     ],
     "GSgalgoR": [
-        "doParallel",
         "matchingR",
         "survival"
     ],
@@ -18132,7 +18039,6 @@
     "GWAS.BAYES": [
         "caret",
         "ggplot2",
-        "doParallel",
         "e1071",
         "pROC",
         "recipes",
@@ -18273,7 +18179,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "Hmisc",
-        "doParallel",
         "survival",
         "GO.db",
         "AnnotationDbi",
@@ -18399,7 +18304,6 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "doParallel",
         "BiocParallel",
         "geneplotter",
         "tibble",
@@ -19222,7 +19126,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "Biostrings",
-        "doParallel",
         "blob",
         "dbplyr",
         "hms",
@@ -19386,7 +19289,6 @@
         "GenomicFeatures",
         "ggplot2",
         "IVAS",
-        "doParallel",
         "lme4",
         "GenomicRanges",
         "AnnotationDbi",
@@ -19576,7 +19478,6 @@
         "ggplot2",
         "coin",
         "fitdistrplus",
-        "doParallel",
         "Seurat",
         "SummarizedExperiment",
         "SingleCellExperiment",
@@ -19807,7 +19708,6 @@
         "shiny",
         "kableExtra",
         "svglite",
-        "doParallel",
         "rvest",
         "rmarkdown",
         "webshot",
@@ -19887,7 +19787,6 @@
         "BiocFileCache",
         "miniUI",
         "shinyjs",
-        "doParallel",
         "viridis",
         "tidyselect",
         "vctrs",
@@ -20099,7 +19998,6 @@
         "vctrs",
         "htmlwidgets",
         "interp",
-        "doParallel",
         "pillar"
     ],
     "IRISFGM": [
@@ -20263,7 +20161,6 @@
         "ComplexHeatmap",
         "htmlwidgets",
         "miniUI",
-        "doParallel",
         "jquerylib",
         "tibble",
         "vctrs",
@@ -20303,7 +20200,6 @@
         "jquerylib",
         "htmlwidgets",
         "miniUI",
-        "doParallel",
         "XVector",
         "pillar"
     ],
@@ -20343,7 +20239,6 @@
         "dbplyr",
         "sass",
         "miniUI",
-        "doParallel",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -20380,7 +20275,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "sass",
-        "doParallel",
         "XVector",
         "pillar"
     ],
@@ -20529,7 +20423,6 @@
         "hms",
         "vroom",
         "DelayedArray",
-        "doParallel",
         "annotate",
         "httr",
         "Biostrings",
@@ -20561,7 +20454,6 @@
     "IVAS": [
         "GenomicFeatures",
         "ggplot2",
-        "doParallel",
         "lme4",
         "GenomicRanges",
         "AnnotationDbi",
@@ -20795,7 +20687,6 @@
         "DESeq2",
         "DSS",
         "ggplot2",
-        "doParallel",
         "shiny",
         "shinycssloaders",
         "factoextra",
@@ -20900,7 +20791,6 @@
         "future.apply"
     ],
     "LACE": [
-        "doParallel",
         "sortable",
         "dplyr",
         "Rfast",
@@ -21005,7 +20895,6 @@
         "ggplot2",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "doParallel",
         "mgcv",
         "tibble",
         "vctrs",
@@ -21254,7 +21143,6 @@
         "vctrs",
         "htmlwidgets",
         "interp",
-        "doParallel",
         "pillar"
     ],
     "loci2path": [
@@ -21461,7 +21349,6 @@
     ],
     "M3C": [
         "ggplot2",
-        "doParallel",
         "umap",
         "mgcv",
         "tibble",
@@ -21499,7 +21386,6 @@
         "Biostrings",
         "ExperimentHub",
         "caret",
-        "doParallel",
         "XVector",
         "GenomeInfoDb",
         "Rsamtools",
@@ -21594,7 +21480,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "Hmisc",
-        "doParallel",
         "survival",
         "GO.db",
         "AnnotationDbi",
@@ -21738,7 +21623,6 @@
         "RnBeads",
         "snpStats",
         "crlmm",
-        "doParallel",
         "bigstatsr",
         "UpSetR",
         "RnBeads.hg19",
@@ -21866,7 +21750,6 @@
     ],
     "MAI": [
         "caret",
-        "doParallel",
         "e1071",
         "future.apply",
         "missForest",
@@ -21964,7 +21847,6 @@
         "htmlwidgets",
         "prodlim",
         "interp",
-        "doParallel",
         "shiny",
         "miniUI",
         "styler",
@@ -22147,7 +22029,6 @@
         "umap",
         "UpSetR",
         "vsn",
-        "doParallel",
         "tidyselect",
         "vctrs",
         "pillar",
@@ -22262,7 +22143,6 @@
         "BiocParallel",
         "beachmat",
         "benchmarkmeData",
-        "doParallel",
         "dplyr",
         "httr",
         "tibble",
@@ -22276,7 +22156,6 @@
         "mgcv"
     ],
     "mbOmic": [
-        "doParallel",
         "WGCNA",
         "visNetwork",
         "clusterSim",
@@ -22376,7 +22255,6 @@
         "tibble",
         "vctrs",
         "Hmisc",
-        "doParallel",
         "survival",
         "tidyselect",
         "pillar",
@@ -22696,7 +22574,6 @@
         "GenomicRanges",
         "ROCR",
         "ggplot2",
-        "doParallel",
         "MCMCpack",
         "cowplot",
         "BiocStyle",
@@ -22851,7 +22728,6 @@
         "KEGGREST",
         "XVector",
         "GenomeInfoDb",
-        "doParallel",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -22887,7 +22763,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "doParallel",
         "pillar"
     ],
     "metabCombiner": [
@@ -23007,7 +22882,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "doParallel",
         "GenomicRanges",
         "AnnotationFilter",
         "rtracklayer",
@@ -23149,7 +23023,6 @@
         "vctrs",
         "htmlwidgets",
         "interp",
-        "doParallel",
         "pillar"
     ],
     "MetaNeighbor": [
@@ -24429,7 +24302,6 @@
         "Hmisc",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
-        "doParallel",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -25058,7 +24930,6 @@
         "ReactomePA",
         "DOSE",
         "survival",
-        "doParallel",
         "shiny",
         "ggwordcloud",
         "metR",
@@ -25177,7 +25048,6 @@
         "survival",
         "linkcomm",
         "org.Hs.eg.db",
-        "doParallel",
         "AnnotationDbi",
         "dplyr",
         "enrichplot",
@@ -25650,7 +25520,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "doParallel",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -25660,7 +25529,6 @@
     "MODA": [
         "WGCNA",
         "Hmisc",
-        "doParallel",
         "survival",
         "GO.db",
         "AnnotationDbi",
@@ -25743,7 +25611,6 @@
         "readr",
         "tibble",
         "tidyr",
-        "doParallel",
         "tidyselect",
         "vctrs",
         "pillar",
@@ -25770,7 +25637,6 @@
         "GenomeInfoDb",
         "rtracklayer",
         "Rsamtools",
-        "doParallel",
         "survival",
         "DelayedArray",
         "CNEr",
@@ -25810,7 +25676,6 @@
         "mgcv"
     ],
     "MoonlightR": [
-        "doParallel",
         "SummarizedExperiment",
         "HiveR",
         "clusterProfiler",
@@ -26146,7 +26011,6 @@
     "MSA2dist": [
         "Biostrings",
         "GenomicRanges",
-        "doParallel",
         "dplyr",
         "seqinr",
         "tibble",
@@ -26311,7 +26175,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "doParallel",
         "pillar"
     ],
     "msmsTests": [
@@ -26328,7 +26191,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "doParallel",
         "pillar"
     ],
     "MSnbase": [
@@ -26342,14 +26204,12 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "doParallel",
         "pillar"
     ],
     "MSnID": [
         "MSnbase",
         "mzID",
         "R.cache",
-        "doParallel",
         "dplyr",
         "mzR",
         "BiocStyle",
@@ -26604,7 +26464,6 @@
         "httr",
         "htmlwidgets",
         "tidyr",
-        "doParallel",
         "httpuv",
         "bslib",
         "sass",
@@ -26639,8 +26498,7 @@
         "BiocParallel",
         "vsn",
         "pcaMethods",
-        "mzID",
-        "doParallel"
+        "mzID"
     ],
     "MSstatsSampleSize": [
         "ggplot2",
@@ -26940,7 +26798,6 @@
         "GenomeInfoDb"
     ],
     "multiOmicsViz": [
-        "doParallel",
         "SummarizedExperiment",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -27135,7 +26992,6 @@
         "SummarizedExperiment",
         "variancePartition",
         "viridis",
-        "doParallel",
         "GenomicRanges",
         "geneplotter",
         "tibble",
@@ -27224,7 +27080,6 @@
         "XVector",
         "rtracklayer",
         "Rsamtools",
-        "doParallel",
         "ggseqlogo",
         "readxl",
         "tidyselect",
@@ -27296,7 +27151,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "doParallel",
         "SummarizedExperiment",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -27325,7 +27179,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "doParallel",
         "tibble",
         "vctrs",
         "httr",
@@ -27422,9 +27275,7 @@
         "hms",
         "tidyselect"
     ],
-    "mzID": [
-        "doParallel"
-    ],
+    "mzID": [],
     "mzR": [],
     "NADfinder": [
         "GenomicRanges",
@@ -27569,7 +27420,6 @@
         "NMF",
         "RSQLite",
         "KEGGREST",
-        "doParallel",
         "ggplot2",
         "mgcv",
         "tibble",
@@ -27708,7 +27558,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "doParallel",
         "pillar"
     ],
     "NCIgraph": [
@@ -27873,7 +27722,6 @@
     "netboost": [
         "WGCNA",
         "Hmisc",
-        "doParallel",
         "survival",
         "GO.db",
         "AnnotationDbi",
@@ -27951,7 +27799,6 @@
         "MultiAssayExperiment",
         "BiocFileCache",
         "GenomicRanges",
-        "doParallel",
         "GenomeInfoDb",
         "httr",
         "dbplyr",
@@ -28018,7 +27865,6 @@
     "NetPathMiner": [],
     "netprioR": [
         "dplyr",
-        "doParallel",
         "ggplot2",
         "pROC",
         "tibble",
@@ -28046,7 +27892,6 @@
         "WGCNA",
         "biomaRt",
         "AnnotationDbi",
-        "doParallel",
         "survival",
         "GO.db",
         "RSQLite",
@@ -28109,7 +27954,6 @@
         "ragg",
         "ClusterR",
         "benchmarkme",
-        "doParallel",
         "rncl",
         "RNeXML",
         "dqrng",
@@ -28143,7 +27987,6 @@
         "vegan",
         "reshape",
         "penalized",
-        "doParallel",
         "ggplot2",
         "ggdendro",
         "tidyr",
@@ -28764,7 +28607,6 @@
         "mgcv",
         "survival",
         "questionr",
-        "doParallel",
         "hardhat",
         "shiny",
         "miniUI",
@@ -29401,7 +29243,6 @@
         "dplyr",
         "transport",
         "Rfast",
-        "doParallel",
         "flowMeans",
         "rgl",
         "tibble",
@@ -29933,14 +29774,12 @@
     ],
     "parglms": [
         "BatchJobs",
-        "doParallel",
         "RSQLite",
         "blob",
         "vctrs"
     ],
     "PAST": [
         "dplyr",
-        "doParallel",
         "qvalue",
         "rtracklayer",
         "ggplot2",
@@ -29980,7 +29819,6 @@
         "devtools",
         "bookdown",
         "rmarkdown",
-        "doParallel",
         "GenomicRanges",
         "SummarizedExperiment",
         "BiocParallel",
@@ -30118,7 +29956,6 @@
         "seriation",
         "webshot",
         "egg",
-        "doParallel",
         "dplyr",
         "bslib",
         "httpuv",
@@ -30259,7 +30096,6 @@
         "ComplexHeatmap",
         "flowWorkspace",
         "ggplot2",
-        "doParallel",
         "dplyr",
         "ncdfFlow",
         "DelayedArray",
@@ -30270,7 +30106,6 @@
         "pillar"
     ],
     "peakPantheR": [
-        "doParallel",
         "ggplot2",
         "MSnbase",
         "mzR",
@@ -30317,7 +30152,6 @@
         "vctrs"
     ],
     "peco": [
-        "doParallel",
         "genlasso",
         "scater",
         "SingleCellExperiment",
@@ -30530,7 +30364,6 @@
         "sass"
     ],
     "PhenoGeneRanker": [
-        "doParallel",
         "dplyr",
         "tibble",
         "tidyselect",
@@ -30893,7 +30726,6 @@
         "reactome.db",
         "graphite",
         "Hmisc",
-        "doParallel",
         "RSQLite",
         "KEGGREST",
         "jquerylib",
@@ -30988,7 +30820,6 @@
         "cowplot",
         "scater",
         "uwot",
-        "doParallel",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -31300,7 +31131,6 @@
         "e1071",
         "pROC",
         "recipes",
-        "doParallel",
         "GenomicRanges",
         "BiocParallel",
         "geneplotter",
@@ -31346,7 +31176,6 @@
         "vctrs"
     ],
     "powerTCR": [
-        "doParallel",
         "vegan",
         "mgcv"
     ],
@@ -31379,7 +31208,6 @@
         "benchmarkme",
         "StanHeaders",
         "benchmarkmeData",
-        "doParallel",
         "httr",
         "tidyselect",
         "vctrs",
@@ -31625,7 +31453,6 @@
         "mgcv",
         "htmlwidgets",
         "interp",
-        "doParallel",
         "quantmod",
         "xts",
         "TTR"
@@ -31711,7 +31538,6 @@
         "genefilter",
         "BiocParallel",
         "Hmisc",
-        "doParallel",
         "survival",
         "GO.db",
         "AnnotationDbi",
@@ -31780,8 +31606,7 @@
         "GenomeInfoDb",
         "tidyselect",
         "pillar",
-        "XVector",
-        "doParallel"
+        "XVector"
     ],
     "profileplyr": [
         "SummarizedExperiment",
@@ -31808,7 +31633,6 @@
         "Rsamtools",
         "AnnotationDbi",
         "enrichplot",
-        "doParallel",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -31893,7 +31717,6 @@
         "pillar",
         "tidyr",
         "mgcv",
-        "doParallel",
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
@@ -31937,7 +31760,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "doParallel",
         "hms",
         "clock",
         "hardhat",
@@ -32013,7 +31835,6 @@
         "gbm",
         "threejs",
         "SummarizedExperiment",
-        "doParallel",
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -32099,8 +31920,7 @@
         "vsn",
         "pcaMethods",
         "mzID",
-        "TTR",
-        "doParallel"
+        "TTR"
     ],
     "proteasy": [
         "ensembldb",
@@ -32117,7 +31937,6 @@
         "rtracklayer",
         "Rsamtools",
         "Biostrings",
-        "doParallel",
         "GOSemSim",
         "rcdk",
         "KEGGREST",
@@ -32383,7 +32202,6 @@
         "GenomeInfoDb"
     ],
     "ptairMS": [
-        "doParallel",
         "DT",
         "ggplot2",
         "ggpubr",
@@ -32573,7 +32391,6 @@
     ],
     "pwrEWAS": [
         "shinyBS",
-        "doParallel",
         "shiny",
         "ggplot2",
         "shinyWidgets",
@@ -32743,7 +32560,6 @@
         "mzID",
         "hms",
         "vroom",
-        "doParallel",
         "progress"
     ],
     "qrqc": [
@@ -32885,7 +32701,6 @@
     ],
     "quantro": [
         "minfi",
-        "doParallel",
         "ggplot2",
         "mgcv",
         "tibble",
@@ -33158,7 +32973,6 @@
     ],
     "ramr": [
         "GenomicRanges",
-        "doParallel",
         "ggplot2",
         "EnvStats",
         "GenomeInfoDb",
@@ -33270,7 +33084,6 @@
         "dada2",
         "ggplot2",
         "readr",
-        "doParallel",
         "Biostrings",
         "ShortRead",
         "XVector",
@@ -33471,7 +33284,6 @@
         "pillar"
     ],
     "Rcpi": [
-        "doParallel",
         "Biostrings",
         "GOSemSim",
         "rcdk",
@@ -33575,13 +33387,11 @@
         "htmlwidgets"
     ],
     "ReactomeContentService4R": [
-        "httr",
-        "doParallel"
+        "httr"
     ],
     "ReactomeGraph4R": [
         "neo4r",
         "ReactomeContentService4R",
-        "doParallel",
         "httr",
         "shiny",
         "tibble",
@@ -33832,7 +33642,6 @@
         "progress",
         "BiocFileCache",
         "XVector",
-        "doParallel",
         "SummarizedExperiment",
         "BiocParallel",
         "mgcv",
@@ -33925,7 +33734,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "Hmisc",
-        "doParallel",
         "survival",
         "GO.db",
         "RSQLite",
@@ -34105,7 +33913,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "BiocParallel",
-        "doParallel",
         "caret",
         "ranger",
         "BSgenome",
@@ -34303,7 +34110,6 @@
         "tibble",
         "vctrs",
         "survival",
-        "doParallel",
         "BiocParallel",
         "GenomicAlignments",
         "pillar",
@@ -34521,7 +34327,6 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "org.Hs.eg.db",
         "GenomeInfoDb",
-        "doParallel",
         "RSQLite",
         "KEGGREST",
         "htmlwidgets",
@@ -34668,7 +34473,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "reldist",
-        "doParallel",
         "qvalue",
         "DESeq2",
         "ggplot2",
@@ -34945,7 +34749,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "doParallel",
         "pillar"
     ],
     "RITAN": [
@@ -35041,7 +34844,6 @@
         "interactiveDisplayBase",
         "httr",
         "caret",
-        "doParallel",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -35112,8 +34914,7 @@
         "pillar",
         "htmlwidgets",
         "jquerylib",
-        "mgcv",
-        "doParallel"
+        "mgcv"
     ],
     "Rmmquant": [
         "GenomicRanges",
@@ -35745,7 +35546,6 @@
         "XVector"
     ],
     "RolDE": [
-        "doParallel",
         "SummarizedExperiment",
         "qvalue",
         "ggplot2",
@@ -36337,7 +36137,6 @@
         "gRain",
         "snpStats",
         "kinship2",
-        "doParallel",
         "gRbase",
         "broom",
         "survival",
@@ -36502,7 +36301,6 @@
     ],
     "SC3": [
         "e1071",
-        "doParallel",
         "shiny",
         "ggplot2",
         "pheatmap",
@@ -36945,7 +36743,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "DropletUtils",
-        "doParallel",
         "Seurat",
         "GenomicRanges",
         "BiocParallel",
@@ -37611,7 +37408,6 @@
         "GenomeInfoDb",
         "BSgenome.Hsapiens.UCSC.hg19",
         "DescTools",
-        "doParallel",
         "BSgenome",
         "Biostrings",
         "XVector",
@@ -37783,7 +37579,6 @@
         "XVector"
     ],
     "scRecover": [
-        "doParallel",
         "penalized",
         "bbmle",
         "gamlss",
@@ -37813,7 +37608,6 @@
         "powerTCR",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "doParallel",
         "ggraph",
         "tidygraph",
         "SeuratObject",
@@ -38199,7 +37993,6 @@
         "seriation",
         "ComplexHeatmap",
         "randomcoloR",
-        "doParallel",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -38219,7 +38012,6 @@
         "dplyr",
         "rtracklayer",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "doParallel",
         "XVector",
         "DelayedArray",
         "RSQLite",
@@ -38348,7 +38140,6 @@
         "GenomeInfoDb",
         "XVector",
         "Hmisc",
-        "doParallel",
         "survival",
         "GO.db",
         "RSQLite",
@@ -38447,7 +38238,6 @@
         "DelayedArray"
     ],
     "SeqGSEA": [
-        "doParallel",
         "DESeq2",
         "biomaRt",
         "AnnotationDbi",
@@ -38621,7 +38411,6 @@
         "DelayedArray",
         "mgcv",
         "genefilter",
-        "doParallel",
         "AnnotationDbi",
         "annotate",
         "survival",
@@ -38689,7 +38478,6 @@
     ],
     "shinyepico": [
         "DT",
-        "doParallel",
         "dplyr",
         "GenomicRanges",
         "ggplot2",
@@ -38849,7 +38637,6 @@
     ],
     "SICtools": [
         "Rsamtools",
-        "doParallel",
         "Biostrings",
         "GenomicRanges",
         "XVector",
@@ -39046,7 +38833,6 @@
         "ggsignif",
         "rstatix",
         "testthat",
-        "doParallel",
         "BWStest",
         "hms",
         "vroom",
@@ -39097,7 +38883,6 @@
         "viridis",
         "RSQLite",
         "KEGGREST",
-        "doParallel",
         "genefu",
         "tibble",
         "tidyselect",
@@ -39270,7 +39055,6 @@
     "SimFFPE": [
         "Biostrings",
         "dplyr",
-        "doParallel",
         "GenomicRanges",
         "Rsamtools",
         "XVector",
@@ -39335,7 +39119,6 @@
         "proxyC",
         "RSQLite",
         "KEGGREST",
-        "doParallel",
         "httr",
         "Biostrings",
         "blob",
@@ -39467,7 +39250,6 @@
         "ResidualMatrix",
         "ScaledMatrix",
         "beachmat",
-        "doParallel",
         "uwot",
         "MCMCprecision",
         "multipanelfigure",
@@ -39998,7 +39780,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "doParallel",
         "RSQLite",
         "KEGGREST",
         "BiocParallel",
@@ -40113,7 +39894,6 @@
         "AnnotationDbi",
         "KEGGREST",
         "tidyr",
-        "doParallel",
         "DelayedArray",
         "mgcv",
         "vctrs",
@@ -40153,7 +39933,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "doParallel",
         "BiocParallel",
         "GenomicAlignments",
         "pillar",
@@ -40397,7 +40176,6 @@
         "bslib",
         "GenomeInfoDb",
         "Hmisc",
-        "doParallel",
         "GO.db",
         "KEGGREST",
         "ScaledMatrix",
@@ -40531,7 +40309,6 @@
         "interp",
         "spatstat.random",
         "splancs",
-        "doParallel",
         "cowplot",
         "pheatmap",
         "ggrepel",
@@ -40861,7 +40638,6 @@
         "e1071",
         "pROC",
         "recipes",
-        "doParallel",
         "groupdata2",
         "lme4",
         "parameters",
@@ -40982,7 +40758,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "doParallel",
         "SummarizedExperiment",
         "GenomicRanges",
         "DelayedArray",
@@ -41021,7 +40796,6 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "DelayedArray",
-        "doParallel",
         "GO.db",
         "AnnotationDbi",
         "RSQLite",
@@ -42002,7 +41776,6 @@
         "sass",
         "mgcv",
         "vctrs",
-        "doParallel",
         "pillar",
         "tidyselect",
         "progress"
@@ -42357,7 +42130,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "doParallel",
         "httpuv",
         "bslib",
         "sass",
@@ -42412,7 +42184,6 @@
         "SummarizedExperiment",
         "msm",
         "sva",
-        "doParallel",
         "GenomicRanges",
         "geneplotter",
         "htmlwidgets",
@@ -42544,7 +42315,6 @@
         "ComplexHeatmap",
         "MultiAssayExperiment",
         "biomaRt",
-        "doParallel",
         "rvest",
         "rmarkdown",
         "tibble",
@@ -43177,7 +42947,6 @@
         "R.filesets",
         "aroma.apd",
         "Hmisc",
-        "doParallel",
         "survival",
         "GO.db",
         "AnnotationDbi",
@@ -43264,7 +43033,6 @@
         "bestNormalize",
         "naniar",
         "LambertW",
-        "doParallel",
         "recipes",
         "tibble",
         "butcher",
@@ -43376,7 +43144,6 @@
     "TOAST": [
         "EpiDISH",
         "SummarizedExperiment",
-        "doParallel",
         "ggplot2",
         "tidyr",
         "GGally",
@@ -43459,7 +43226,6 @@
         "vsn",
         "pcaMethods",
         "mzID",
-        "doParallel",
         "pillar"
     ],
     "topGO": [
@@ -43512,7 +43278,6 @@
         "tidyr",
         "biobroom",
         "broom",
-        "doParallel",
         "ggplot2",
         "rmarkdown",
         "tibble",
@@ -43529,7 +43294,6 @@
         "dplyr",
         "ggplot2",
         "tidyr",
-        "doParallel",
         "BiocParallel",
         "tibble",
         "tidyselect",
@@ -43865,7 +43629,6 @@
         "GenomicRanges",
         "DelayedArray",
         "ggplotify",
-        "doParallel",
         "ConsensusClusterPlus",
         "ggforce",
         "ggnewscale",
@@ -43937,7 +43700,6 @@
         "survival",
         "blob",
         "Hmisc",
-        "doParallel",
         "GO.db",
         "dbplyr",
         "dplyr",
@@ -44158,7 +43920,6 @@
         "pillar"
     ],
     "TRONCO": [
-        "doParallel",
         "R.matlab"
     ],
     "TSCAN": [
@@ -44529,7 +44290,6 @@
         "GenomeInfoDb"
     ],
     "Uniquorn": [
-        "doParallel",
         "GenomicRanges",
         "VariantAnnotation",
         "GenomeInfoDb",
@@ -44698,7 +44458,6 @@
         "BiocParallel",
         "pbkrtest",
         "lmerTest",
-        "doParallel",
         "progress",
         "lme4",
         "mgcv",
@@ -45204,7 +44963,6 @@
     "vtpnet": [
         "GenomicRanges",
         "gwascat",
-        "doParallel",
         "GenomeInfoDb",
         "XVector",
         "GenomicFeatures",
@@ -45560,7 +45318,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "doParallel",
         "pillar"
     ],
     "xcore": [
@@ -45599,7 +45356,6 @@
     "Xeva": [
         "ggplot2",
         "ComplexHeatmap",
-        "doParallel",
         "Rmisc",
         "PharmacoGx",
         "mgcv",
@@ -45683,7 +45439,6 @@
         "GenomeInfoDb",
         "dendextend",
         "gtrellis",
-        "doParallel",
         "PMCMRplus",
         "ggbeeswarm",
         "ComplexHeatmap",
@@ -45743,7 +45498,6 @@
         "httr",
         "BiocFileCache",
         "minfi",
-        "doParallel",
         "ggplot2",
         "hms",
         "tibble",
@@ -45821,7 +45575,6 @@
         "BiocParallel",
         "pbkrtest",
         "lmerTest",
-        "doParallel",
         "lme4",
         "httr",
         "RSQLite",
@@ -46217,10 +45970,8 @@
     "xts": [],
     "SAVER": [
         "glmnet",
-        "doParallel",
         "survival"
     ],
-    "doParallel": [],
     "affydata": [],
     "PFAM.db": [
         "AnnotationDbi",
@@ -47214,7 +46965,6 @@
         "DelayedArray"
     ],
     "NMF": [
-        "doParallel",
         "ggplot2",
         "mgcv",
         "tibble",
@@ -47377,7 +47127,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "doParallel",
         "pillar"
     ],
     "dendextend": [
@@ -47894,7 +47643,6 @@
     "rSpectral": [],
     "WGCNA": [
         "Hmisc",
-        "doParallel",
         "survival",
         "GO.db",
         "AnnotationDbi",
@@ -48952,7 +48700,6 @@
     ],
     "benchmarkme": [
         "benchmarkmeData",
-        "doParallel",
         "dplyr",
         "httr",
         "tibble",
@@ -49227,7 +48974,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "doParallel",
         "pillar"
     ],
     "dorothea": [
@@ -49427,7 +49173,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "doParallel",
         "pillar"
     ],
     "cmdfun": [
@@ -50397,7 +50142,6 @@
     ],
     "adabag": [
         "caret",
-        "doParallel",
         "ggplot2",
         "e1071",
         "pROC",
@@ -50445,7 +50189,6 @@
         "ggplot2",
         "RSpectra",
         "tibble",
-        "doParallel",
         "mgcv",
         "vctrs",
         "pillar"
@@ -50455,9 +50198,7 @@
         "GenomeInfoDb",
         "XVector"
     ],
-    "bigparallelr": [
-        "doParallel"
-    ],
+    "bigparallelr": [],
     "depmap": [
         "dplyr",
         "ExperimentHub",
@@ -51270,7 +51011,6 @@
         "pillar",
         "mgcv",
         "questionr",
-        "doParallel",
         "hardhat",
         "shiny",
         "miniUI",
@@ -51890,8 +51630,7 @@
     ],
     "RUVnormalizeData": [],
     "GENLIB": [
-        "kinship2",
-        "doParallel"
+        "kinship2"
     ],
     "excelR": [
         "htmlwidgets"
@@ -52533,7 +52272,6 @@
     "bestNormalize": [
         "LambertW",
         "dplyr",
-        "doParallel",
         "recipes",
         "tibble",
         "butcher",
