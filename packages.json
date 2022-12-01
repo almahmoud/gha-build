@@ -19458,7 +19458,6 @@
         "tfruns",
         "ellipsis",
         "rcdklibs",
-        "fingerprint",
         "itertools",
         "RcppTOML",
         "here",
@@ -30512,7 +30511,6 @@
         "viridis",
         "visNetwork",
         "rcdklibs",
-        "fingerprint",
         "itertools",
         "rsparse",
         "mlapi",
@@ -59238,7 +59236,6 @@
         "biomaRt",
         "GO.db",
         "rcdklibs",
-        "fingerprint",
         "itertools",
         "BiocParallel",
         "Rhtslib",
@@ -61738,7 +61735,6 @@
         "AnnotationDbi",
         "GO.db",
         "rcdklibs",
-        "fingerprint",
         "itertools",
         "Biobase",
         "RSQLite",
@@ -64717,7 +64713,6 @@
         "scales",
         "R.oo",
         "rcdklibs",
-        "fingerprint",
         "itertools",
         "stringr",
         "rvest",
@@ -82158,7 +82153,6 @@
         "mgcv",
         "ragg",
         "rcdklibs",
-        "fingerprint",
         "itertools",
         "RcppEigen",
         "hms",
@@ -91638,7 +91632,6 @@
     ],
     "rcdk": [
         "rcdklibs",
-        "fingerprint",
         "itertools"
     ],
     "webchem": [
@@ -91658,7 +91651,6 @@
         "askpass"
     ],
     "rcdklibs": [],
-    "fingerprint": [],
     "text2vec": [
         "Matrix",
         "rsparse",
