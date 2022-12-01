@@ -2968,7 +2968,6 @@
         "XML",
         "biomaRt",
         "edgeR",
-        "rJava",
         "sendmailR",
         "Rhtslib",
         "AnnotationDbi",
@@ -7767,7 +7766,6 @@
         "GO.db",
         "AnnotationDbi",
         "zoo",
-        "rJava",
         "xlsxjars",
         "IRanges",
         "RSQLite",
@@ -9676,9 +9674,7 @@
         "askpass"
     ],
     "bridge": [],
-    "BridgeDbR": [
-        "rJava"
-    ],
+    "BridgeDbR": [],
     "BrowserViz": [
         "httpuv",
         "Rcpp",
@@ -14607,7 +14603,6 @@
         "circlize",
         "graph",
         "biomaRt",
-        "rJava",
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -21598,7 +21593,6 @@
         "tidyselect",
         "Rhtslib",
         "RWekajars",
-        "rJava",
         "munsell",
         "viridisLite",
         "GenomicAlignments",
@@ -22115,7 +22109,6 @@
         "munsell"
     ],
     "debCAM": [
-        "rJava",
         "BiocParallel",
         "Biobase",
         "SummarizedExperiment",
@@ -22745,7 +22738,6 @@
         "rlang",
         "rcdklibs",
         "fingerprint",
-        "rJava",
         "png",
         "iterators",
         "itertools",
@@ -29366,7 +29358,6 @@
         "ChIPseeker",
         "clusterProfiler",
         "igraph",
-        "rJava",
         "magrittr",
         "digest",
         "BSgenome",
@@ -30755,7 +30746,6 @@
     "fastreeR": [
         "ape",
         "R.utils",
-        "rJava",
         "stringr",
         "nlme",
         "Rcpp",
@@ -33377,7 +33367,6 @@
         "lifecycle"
     ],
     "gaggle": [
-        "rJava",
         "graph",
         "RUnit"
     ],
@@ -33528,7 +33517,6 @@
         "tidyselect",
         "Rhtslib",
         "RWekajars",
-        "rJava",
         "GenomicAlignments",
         "diffobj",
         "rematch2",
@@ -35750,7 +35738,6 @@
         "rprojroot",
         "rcdklibs",
         "fingerprint",
-        "rJava",
         "iterators",
         "itertools",
         "rsparse",
@@ -49533,9 +49520,7 @@
         "digest",
         "listenv"
     ],
-    "metabinR": [
-        "rJava"
-    ],
+    "metabinR": [],
     "MetaboAnnotation": [
         "MsCoreUtils",
         "MetaboCoreUtils",
@@ -54051,7 +54036,6 @@
         "metR",
         "interp",
         "ggvis",
-        "rJava",
         "MatrixGenerics",
         "GenomicRanges",
         "S4Vectors",
@@ -64977,7 +64961,6 @@
         "Matrix"
     ],
     "paxtoolsr": [
-        "rJava",
         "XML",
         "httr",
         "igraph",
@@ -69425,7 +69408,6 @@
         "Rcpp",
         "rcdklibs",
         "fingerprint",
-        "rJava",
         "png",
         "itertools",
         "BiocParallel",
@@ -72363,7 +72345,6 @@
         "Rcpp",
         "rcdklibs",
         "fingerprint",
-        "rJava",
         "png",
         "itertools",
         "Biobase",
@@ -74068,7 +74049,6 @@
     "ReQON": [
         "Rsamtools",
         "seqbias",
-        "rJava",
         "GenomeInfoDb",
         "GenomicRanges",
         "Biostrings",
@@ -74457,7 +74437,6 @@
     ],
     "RGMQL": [
         "httr",
-        "rJava",
         "GenomicRanges",
         "rtracklayer",
         "plyr",
@@ -75849,7 +75828,6 @@
         "R.oo",
         "rcdklibs",
         "fingerprint",
-        "rJava",
         "iterators",
         "itertools",
         "stringr",
@@ -75886,8 +75864,7 @@
         "later"
     ],
     "rmelting": [
-        "Rdpack",
-        "rJava"
+        "Rdpack"
     ],
     "Rmmquant": [
         "Rcpp",
@@ -78750,7 +78727,6 @@
         "rlang"
     ],
     "sarks": [
-        "rJava",
         "Biostrings",
         "IRanges",
         "S4Vectors",
@@ -82786,7 +82762,6 @@
         "lambda.r"
     ],
     "SELEX": [
-        "rJava",
         "Biostrings",
         "S4Vectors",
         "IRanges",
@@ -96278,7 +96253,6 @@
         "ragg",
         "rcdklibs",
         "fingerprint",
-        "rJava",
         "iterators",
         "itertools",
         "RcppEigen",
@@ -101977,7 +101951,6 @@
         "Rcpp"
     ],
     "sampling": [],
-    "rJava": [],
     "sendmailR": [],
     "FDb.InfiniumMethylation.hg19": [
         "GenomicFeatures",
@@ -103968,7 +103941,6 @@
         "bmp"
     ],
     "xlsx": [
-        "rJava",
         "xlsxjars"
     ],
     "readbitmap": [
@@ -103983,9 +103955,7 @@
         "zoo",
         "Matrix"
     ],
-    "xlsxjars": [
-        "rJava"
-    ],
+    "xlsxjars": [],
     "TH.data": [
         "survival",
         "Matrix"
@@ -107752,8 +107722,7 @@
     "FSelector": [
         "digest",
         "RWeka",
-        "RWekajars",
-        "rJava"
+        "RWekajars"
     ],
     "ineq": [],
     "arm": [
@@ -107789,8 +107758,7 @@
         "Rcpp"
     ],
     "RWeka": [
-        "RWekajars",
-        "rJava"
+        "RWekajars"
     ],
     "MSQC": [
         "rgl",
@@ -107803,9 +107771,7 @@
         "highr",
         "stringr"
     ],
-    "RWekajars": [
-        "rJava"
-    ],
+    "RWekajars": [],
     "DAPARdata": [
         "MSnbase",
         "Biobase",
@@ -108014,7 +107980,6 @@
     "rcdk": [
         "rcdklibs",
         "fingerprint",
-        "rJava",
         "png",
         "iterators",
         "itertools"
@@ -108039,9 +108004,7 @@
         "askpass"
     ],
     "PRROC": [],
-    "rcdklibs": [
-        "rJava"
-    ],
+    "rcdklibs": [],
     "fingerprint": [],
     "text2vec": [
         "Matrix",
@@ -111506,7 +111469,6 @@
     "subspace": [
         "ggvis",
         "stringr",
-        "rJava",
         "shiny",
         "magrittr",
         "dplyr",
