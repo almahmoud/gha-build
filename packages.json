@@ -1603,7 +1603,6 @@
         "scater",
         "msigdbr",
         "scuttle",
-        "ggfittext",
         "ggrastr"
     ],
     "chromstaR": [],
@@ -8606,7 +8605,6 @@
         "motifStack",
         "rtracklayer",
         "RUVSeq",
-        "ggfittext",
         "ShortRead",
         "biomaRt",
         "TFBSTools",
@@ -11635,10 +11633,7 @@
     ],
     "shinydashboardPlus": [],
     "kableExtra": [],
-    "gggenes": [
-        "ggfittext"
-    ],
-    "ggfittext": [],
+    "gggenes": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
