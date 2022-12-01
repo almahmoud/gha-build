@@ -67409,7 +67409,6 @@
     ],
     "ITALICS": [
         "GLAD",
-        "ITALICSData",
         "oligo",
         "affxparser",
         "pd.mapping50k.xba240",
@@ -167876,7 +167875,6 @@
     ],
     "startupmsg": [],
     "tcltk2": [],
-    "ITALICSData": [],
     "pd.mapping50k.xba240": [
         "Biostrings",
         "RSQLite",
