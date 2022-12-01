@@ -3527,7 +3527,6 @@
     "FastqCleaner": [
         "ShortRead"
     ],
-    "FCBF": [],
     "fCCAC": [
         "fda",
         "genomation",
@@ -3538,7 +3537,6 @@
         "rainbow"
     ],
     "fcoex": [
-        "FCBF",
         "intergraph",
         "clusterProfiler",
         "sna",
