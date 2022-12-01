@@ -19175,7 +19175,6 @@
         "Rsamtools",
         "GenomeInfoDb",
         "DESeq2",
-        "plgem",
         "rtracklayer",
         "SummarizedExperiment",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
@@ -30287,7 +30286,6 @@
         "blob",
         "pillar"
     ],
-    "plgem": [],
     "plier": [],
     "PloGO2": [
         "GO.db",
