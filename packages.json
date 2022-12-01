@@ -125526,7 +125526,6 @@
         "lattice",
         "colorspace",
         "gsl",
-        "ADGofTest",
         "stabledist",
         "mvtnorm",
         "pcaPP",
@@ -180525,14 +180524,12 @@
         "lattice",
         "colorspace",
         "gsl",
-        "ADGofTest",
         "stabledist",
         "mvtnorm",
         "pcaPP",
         "pspline",
         "numDeriv"
     ],
-    "ADGofTest": [],
     "pspline": [],
     "proxyC": [
         "Matrix",
