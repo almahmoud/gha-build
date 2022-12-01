@@ -2062,7 +2062,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "Motif2Site": [],
     "motifbreakR": [
         "VariantAnnotation",
         "motifStack",
