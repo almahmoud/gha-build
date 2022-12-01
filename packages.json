@@ -19475,7 +19475,6 @@
         "DEFormats",
         "DESeq2",
         "knitrBootstrap",
-        "RefManageR",
         "rmarkdown",
         "SummarizedExperiment",
         "bookdown",
@@ -29286,7 +29285,6 @@
     "knitrBootstrap": [
         "rmarkdown"
     ],
-    "RefManageR": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [
         "BSgenome",
         "rtracklayer",
