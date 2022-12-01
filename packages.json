@@ -11567,7 +11567,6 @@
         "Hmisc",
         "MSnbase",
         "plotly",
-        "shinyscreenshot",
         "ggrepel",
         "ggsci",
         "tidyr",
@@ -17690,7 +17689,6 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "shinyscreenshot": [],
     "pwrEWAS.data": [
         "ExperimentHub",
         "AnnotationHub",
