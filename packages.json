@@ -1822,7 +1822,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "MsExperiment": [],
     "msgbsR": [
         "ggbio",
         "biovizBase",
