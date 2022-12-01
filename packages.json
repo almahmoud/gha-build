@@ -10735,7 +10735,6 @@
         "rtracklayer",
         "AnnotationHub",
         "ggplotify",
-        "ggprism",
         "RLHub",
         "BiocFileCache",
         "BiocVersion",
@@ -15197,7 +15196,6 @@
         "ipred",
         "tidyr"
     ],
-    "ggprism": [],
     "RLHub": [
         "AnnotationHub",
         "ExperimentHub",
