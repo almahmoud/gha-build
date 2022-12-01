@@ -14486,7 +14486,6 @@
         "lava",
         "future.apply"
     ],
-    "HTqPCR": [],
     "HTSeqGenie": [
         "gmapR",
         "ShortRead",
@@ -21693,7 +21692,6 @@
     ],
     "nondetects": [
         "arm",
-        "HTqPCR",
         "lme4",
         "nloptr",
         "testthat",
@@ -34049,9 +34047,7 @@
         "viridis",
         "hms"
     ],
-    "unifiedWMWqPCR": [
-        "HTqPCR"
-    ],
+    "unifiedWMWqPCR": [],
     "UniProt.ws": [
         "RSQLite",
         "AnnotationDbi",
