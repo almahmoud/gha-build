@@ -513,7 +513,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "ComPrAn": [],
     "conclus": [
         "factoextra",
         "scater",
