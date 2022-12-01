@@ -119,9 +119,7 @@
         "BSgenome"
     ],
     "apComplex": [],
-    "APL": [
-        "Seurat"
-    ],
+    "APL": [],
     "appreci8R": [
         "VariantAnnotation",
         "BSgenome",
@@ -297,7 +295,6 @@
         "TreeSummarizedExperiment",
         "zinbwave",
         "DESeq2",
-        "Seurat",
         "ANCOMBC",
         "mia",
         "lme4",
@@ -639,7 +636,6 @@
         "Category"
     ],
     "CelliD": [
-        "Seurat",
         "scater"
     ],
     "cellity": [],
@@ -1396,9 +1392,7 @@
         "DESeq2",
         "GenomicFeatures"
     ],
-    "Dino": [
-        "Seurat"
-    ],
+    "Dino": [],
     "DiscoRhythm": [],
     "distinct": [
         "scater"
@@ -2441,9 +2435,7 @@
         "devtools",
         "testthat"
     ],
-    "infercnv": [
-        "Seurat"
-    ],
+    "infercnv": [],
     "InPAS": [
         "BSgenome",
         "cleanUpdTSeq",
@@ -2514,7 +2506,6 @@
         "CAMERA"
     ],
     "IRISFGM": [
-        "Seurat",
         "clusterProfiler",
         "ggpubr",
         "ggraph",
@@ -3524,9 +3515,7 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "GenomicFeatures"
     ],
-    "Nebulosa": [
-        "Seurat"
-    ],
+    "Nebulosa": [],
     "nempi": [
         "mnem",
         "epiNEM"
@@ -3904,7 +3893,6 @@
         "VariantAnnotation"
     ],
     "pipeComp": [
-        "Seurat",
         "scater"
     ],
     "pipeFrame": [
@@ -4609,9 +4597,7 @@
         "MGFR"
     ],
     "SBGNview": [],
-    "scAlign": [
-        "Seurat"
-    ],
+    "scAlign": [],
     "SCAN.UPC": [
         "GEOquery",
         "sva"
@@ -4624,7 +4610,6 @@
         "BiocVersion"
     ],
     "scAnnotatR": [
-        "Seurat",
         "AnnotationHub",
         "BiocVersion"
     ],
@@ -4637,25 +4622,19 @@
     ],
     "scater": [],
     "scBFA": [
-        "Seurat",
         "zinbwave",
         "DESeq2"
     ],
     "scBubbletree": [
-        "Seurat",
         "ggtree"
     ],
-    "scCB2": [
-        "Seurat"
-    ],
+    "scCB2": [],
     "scClassify": [
         "ggraph",
         "Cepo"
     ],
     "sccomp": [],
-    "scDataviz": [
-        "Seurat"
-    ],
+    "scDataviz": [],
     "scDblFinder": [
         "scater"
     ],
@@ -4674,13 +4653,9 @@
     "scGPS": [
         "DESeq2"
     ],
-    "schex": [
-        "Seurat"
-    ],
+    "schex": [],
     "scifer": [],
-    "scMAGeCK": [
-        "Seurat"
-    ],
+    "scMAGeCK": [],
     "scMerge": [
         "M3Drop",
         "reldist"
@@ -4743,12 +4718,10 @@
         "BiocVersion",
         "enrichplot",
         "ggraph",
-        "Seurat",
         "ggtree"
     ],
     "scTGIF": [
-        "schex",
-        "Seurat"
+        "schex"
     ],
     "scTreeViz": [
         "epivizr",
@@ -4756,7 +4729,6 @@
         "epivizrData",
         "ggraph",
         "scater",
-        "Seurat",
         "bumphunter",
         "OrganismDbi",
         "GenomicFeatures",
@@ -4902,7 +4874,6 @@
         "GSVAdata",
         "scater",
         "scMerge",
-        "Seurat",
         "SoupX",
         "sva",
         "celda",
@@ -4983,7 +4954,6 @@
         "ensembldb"
     ],
     "Spaniel": [
-        "Seurat",
         "scater"
     ],
     "sparrow": [],
@@ -5075,8 +5045,7 @@
         "testthat"
     ],
     "SpotClean": [
-        "SpatialExperiment",
-        "Seurat"
+        "SpatialExperiment"
     ],
     "SPsimSeq": [],
     "SRAdb": [
@@ -5129,7 +5098,6 @@
         "haven"
     ],
     "stJoincount": [
-        "Seurat",
         "SpatialExperiment"
     ],
     "strandCheckR": [
@@ -5677,7 +5645,6 @@
         "nloptr",
         "testthat"
     ],
-    "Seurat": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome"
     ],
@@ -6190,9 +6157,7 @@
         "BiocVersion"
     ],
     "GSVAdata": [],
-    "SoupX": [
-        "Seurat"
-    ],
+    "SoupX": [],
     "scRNAseq": [
         "ExperimentHub",
         "AnnotationHub",
