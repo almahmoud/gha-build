@@ -2352,7 +2352,6 @@
         "scuttle",
         "viridis",
         "ggrastr",
-        "spatstat.model",
         "spatstat.linnet",
         "ipred",
         "tidyr"
@@ -14075,19 +14074,14 @@
         "spatstat",
         "caret",
         "recipes",
-        "spatstat.model",
         "spatstat.linnet",
         "ipred",
         "tidyr"
     ],
     "spatstat": [
-        "spatstat.model",
         "spatstat.linnet"
     ],
-    "spatstat.model": [],
-    "spatstat.linnet": [
-        "spatstat.model"
-    ],
+    "spatstat.linnet": [],
     "contrast": [
         "rms",
         "Hmisc",
