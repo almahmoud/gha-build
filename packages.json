@@ -2237,7 +2237,6 @@
         "Category",
         "GenomicFeatures"
     ],
-    "IdeoViz": [],
     "igvR": [
         "VariantAnnotation",
         "GenomicFeatures"
