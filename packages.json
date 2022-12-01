@@ -229,7 +229,6 @@
         "pillar",
         "htmlwidgets",
         "jquerylib",
-        "selectr",
         "TTR",
         "KEGGREST",
         "dbplyr",
@@ -679,8 +678,7 @@
         "sass",
         "hms",
         "RSpectra",
-        "httr",
-        "selectr"
+        "httr"
     ],
     "altcdfenvs": [
         "makecdfenv",
@@ -1869,7 +1867,6 @@
         "rematch2",
         "vroom",
         "rmarkdown",
-        "selectr",
         "httpuv",
         "bslib",
         "DelayedArray",
@@ -3417,7 +3414,6 @@
         "hms",
         "vroom",
         "crul",
-        "selectr",
         "blob",
         "progress"
     ],
@@ -5380,7 +5376,6 @@
         "Biostrings",
         "rtracklayer",
         "biomaRt",
-        "selectr",
         "httpuv",
         "bslib",
         "progress",
@@ -5459,7 +5454,6 @@
         "Biostrings",
         "rtracklayer",
         "biomaRt",
-        "selectr",
         "httpuv",
         "bslib",
         "progress",
@@ -6961,7 +6955,6 @@
         "sass",
         "RSpectra",
         "ragg",
-        "selectr",
         "textshaping"
     ],
     "chromstaR": [
@@ -10565,7 +10558,6 @@
         "vroom",
         "progress",
         "rmarkdown",
-        "selectr",
         "sn",
         "lmtest",
         "Biostrings",
@@ -10950,7 +10942,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "selectr",
         "rsparse",
         "koRpus.lang.en",
         "lexicon",
@@ -11969,8 +11960,7 @@
         "GenomeInfoDb",
         "DelayedArray",
         "sass",
-        "XVector",
-        "selectr"
+        "XVector"
     ],
     "distinct": [
         "Rfast",
@@ -13092,7 +13082,6 @@
         "vroom",
         "bslib",
         "jquerylib",
-        "selectr",
         "KEGGREST",
         "dbplyr",
         "Hmisc",
@@ -14308,7 +14297,6 @@
         "bslib",
         "jquerylib",
         "httr",
-        "selectr",
         "pillar",
         "dplyr",
         "tidyselect",
@@ -17179,7 +17167,6 @@
         "syuzhet",
         "hms",
         "vroom",
-        "selectr",
         "ggplot2",
         "mgcv",
         "progress"
@@ -17319,7 +17306,6 @@
         "rvest",
         "doParallel",
         "httr",
-        "selectr",
         "tibble",
         "pillar",
         "vctrs"
@@ -19693,8 +19679,7 @@
         "bslib",
         "jquerylib",
         "httpuv",
-        "sass",
-        "selectr"
+        "sass"
     ],
     "hyperdraw": [
         "hypergraph",
@@ -20281,7 +20266,6 @@
         "hms",
         "vroom",
         "httr",
-        "selectr",
         "dplyr",
         "tidyselect",
         "pillar",
@@ -20577,7 +20561,6 @@
         "sass",
         "jquerylib",
         "httr",
-        "selectr",
         "tibble",
         "pillar",
         "vctrs"
@@ -22154,7 +22137,6 @@
         "blob",
         "jquerylib",
         "biomaRt",
-        "selectr",
         "httpuv",
         "bslib",
         "progress",
@@ -22488,7 +22470,6 @@
         "bslib",
         "jquerylib",
         "httr",
-        "selectr",
         "sass",
         "hms",
         "pillar"
@@ -22753,7 +22734,6 @@
         "hardhat",
         "ipred",
         "rmarkdown",
-        "selectr",
         "survival",
         "prodlim",
         "bslib",
@@ -24658,7 +24638,6 @@
         "vroom",
         "progress",
         "car",
-        "selectr",
         "multtest",
         "waldo",
         "gert",
@@ -25585,7 +25564,6 @@
         "bslib",
         "jquerylib",
         "httr",
-        "selectr",
         "sass"
     ],
     "MIGSA": [
@@ -25958,7 +25936,6 @@
         "partykit",
         "hms",
         "vroom",
-        "selectr",
         "lmtest",
         "dbplyr",
         "Biostrings",
@@ -26135,7 +26112,6 @@
         "ipred",
         "rmarkdown",
         "car",
-        "selectr",
         "pbkrtest",
         "quantreg",
         "prodlim",
@@ -26247,7 +26223,6 @@
         "ipred",
         "rmarkdown",
         "car",
-        "selectr",
         "XVector",
         "GenomeInfoDb",
         "pbkrtest",
@@ -26868,7 +26843,6 @@
         "hms",
         "vroom",
         "htmlwidgets",
-        "selectr",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -27579,7 +27553,6 @@
         "vroom",
         "progress",
         "rmarkdown",
-        "selectr",
         "pbkrtest",
         "quantreg",
         "htmlwidgets",
@@ -28332,7 +28305,6 @@
         "BiocParallel",
         "blob",
         "GenomicAlignments",
-        "selectr",
         "dbplyr",
         "pbkrtest",
         "quantreg",
@@ -28708,7 +28680,6 @@
         "vroom",
         "progress",
         "rmarkdown",
-        "selectr",
         "bslib",
         "jquerylib",
         "sass"
@@ -30108,7 +30079,6 @@
         "ggsignif",
         "rstatix",
         "httr",
-        "selectr",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -30227,7 +30197,6 @@
         "cellranger",
         "bslib",
         "jquerylib",
-        "selectr",
         "sass"
     ],
     "oncomix": [
@@ -33529,7 +33498,6 @@
         "lme4",
         "viridis",
         "broom",
-        "selectr",
         "Biostrings",
         "nloptr",
         "blob",
@@ -35737,7 +35705,6 @@
         "rvest",
         "XVector",
         "GenomeInfoDb",
-        "selectr",
         "tibble",
         "pillar",
         "vctrs"
@@ -36484,8 +36451,7 @@
         "htmlwidgets",
         "jquerylib",
         "mgcv",
-        "doParallel",
-        "selectr"
+        "doParallel"
     ],
     "Rmmquant": [
         "GenomicRanges",
@@ -37444,7 +37410,6 @@
         "bslib",
         "jquerylib",
         "httr",
-        "selectr",
         "ggpubr",
         "broom",
         "tidyr",
@@ -37477,7 +37442,6 @@
         "survival",
         "TCGAutils",
         "XVector",
-        "selectr",
         "tibble",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -38831,7 +38795,6 @@
         "sass",
         "blob",
         "httr",
-        "selectr",
         "httpuv"
     ],
     "scMAGeCK": [
@@ -42504,7 +42467,6 @@
         "ipred",
         "rmarkdown",
         "car",
-        "selectr",
         "pbkrtest",
         "quantreg",
         "prodlim",
@@ -43079,7 +43041,6 @@
         "vroom",
         "progress",
         "rmarkdown",
-        "selectr",
         "classInt",
         "e1071",
         "bslib",
@@ -43718,7 +43679,6 @@
         "vroom",
         "progress",
         "rmarkdown",
-        "selectr",
         "classInt",
         "xts",
         "lwgeom",
@@ -44165,7 +44125,6 @@
         "scales",
         "hms",
         "vroom",
-        "selectr",
         "DelayedArray",
         "RSQLite",
         "KEGGREST",
@@ -44271,7 +44230,6 @@
         "clock",
         "hardhat",
         "ipred",
-        "selectr",
         "ExperimentHub",
         "AnnotationHub",
         "BiocVersion",
@@ -44329,7 +44287,6 @@
         "biomaRt",
         "DelayedArray",
         "tidyr",
-        "selectr",
         "progress",
         "BiocFileCache",
         "tidyselect",
@@ -44507,7 +44464,6 @@
         "Biostrings",
         "rtracklayer",
         "biomaRt",
-        "selectr",
         "httpuv",
         "bslib",
         "progress",
@@ -46394,7 +46350,6 @@
         "httr",
         "rvest",
         "textshaping",
-        "selectr",
         "rsparse",
         "koRpus.lang.en",
         "lexicon",
@@ -47324,7 +47279,6 @@
         "cellranger",
         "bslib",
         "jquerylib",
-        "selectr",
         "sass"
     ],
     "Wrench": [],
@@ -48017,7 +47971,6 @@
     ],
     "rvest": [
         "httr",
-        "selectr",
         "tibble",
         "pillar",
         "vctrs"
@@ -48026,7 +47979,6 @@
         "TTR",
         "xts"
     ],
-    "selectr": [],
     "TTR": [
         "xts"
     ],
@@ -48195,7 +48147,6 @@
         "tibble",
         "vctrs",
         "httr",
-        "selectr",
         "pillar"
     ],
     "rARPACK": [
@@ -48988,7 +48939,6 @@
         "vroom",
         "progress",
         "rmarkdown",
-        "selectr",
         "bslib",
         "jquerylib",
         "sass"
@@ -50817,7 +50767,6 @@
         "bslib",
         "jquerylib",
         "httr",
-        "selectr",
         "tibble",
         "sass",
         "pillar",
@@ -51485,8 +51434,7 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "pillar",
-        "selectr"
+        "pillar"
     ],
     "text2vec": [
         "rsparse"
