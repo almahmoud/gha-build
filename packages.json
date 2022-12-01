@@ -3831,7 +3831,6 @@
         "RSQLite",
         "KEGGREST"
     ],
-    "ClusterJudge": [],
     "clusterProfiler": [
         "AnnotationDbi",
         "DOSE",
