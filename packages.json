@@ -14522,7 +14522,6 @@
         "babelgene",
         "httr",
         "purrr",
-        "RApiSerialize",
         "stringfish",
         "XML",
         "Biostrings",
@@ -20546,7 +20545,6 @@
         "lubridate",
         "digest",
         "openssl",
-        "RApiSerialize",
         "stringfish",
         "R.oo",
         "R.methodsS3",
@@ -107847,7 +107845,6 @@
     ],
     "qs": [
         "Rcpp",
-        "RApiSerialize",
         "stringfish"
     ],
     "rlist": [
@@ -107872,7 +107869,6 @@
         "magrittr",
         "pillar"
     ],
-    "RApiSerialize": [],
     "stringfish": [
         "Rcpp"
     ],
