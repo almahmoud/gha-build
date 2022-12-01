@@ -3162,7 +3162,6 @@
         "rtracklayer",
         "GenomicAlignments"
     ],
-    "demuxmix": [],
     "DEP": [
         "readr",
         "tidyr",
