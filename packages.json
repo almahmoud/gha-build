@@ -1508,7 +1508,6 @@
         "ewceData",
         "orthogene",
         "ExperimentHub",
-        "homologene",
         "ggpubr",
         "ggtree",
         "AnnotationHub",
@@ -3198,7 +3197,6 @@
         "GenomicFeatures"
     ],
     "orthogene": [
-        "homologene",
         "ggpubr",
         "ggtree",
         "rstatix",
@@ -5065,7 +5063,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "homologene": [],
     "fda": [],
     "SPARQL": [],
     "NHPoisson": [
