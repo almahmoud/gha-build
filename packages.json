@@ -7279,7 +7279,6 @@
         "tidyselect",
         "pillar",
         "latticeExtra",
-        "ncdfFlow",
         "hms",
         "GEOmap",
         "fields",
@@ -7451,7 +7450,6 @@
         "tidyselect",
         "pillar",
         "ggplot2",
-        "ncdfFlow",
         "flowViz",
         "flowClust",
         "latticeExtra"
@@ -7731,7 +7729,6 @@
         "lme4",
         "latticeExtra",
         "dplyr",
-        "ncdfFlow",
         "GEOmap",
         "pillar",
         "tidyselect",
@@ -11284,7 +11281,6 @@
         "latticeExtra",
         "ggplot2",
         "dplyr",
-        "ncdfFlow",
         "GEOmap",
         "tibble",
         "tidyselect",
@@ -11312,7 +11308,6 @@
         "latticeExtra",
         "ggplot2",
         "dplyr",
-        "ncdfFlow",
         "GEOmap",
         "tibble",
         "tidyselect",
@@ -11401,7 +11396,6 @@
     ],
     "flowStats": [
         "flowWorkspace",
-        "ncdfFlow",
         "flowViz",
         "fda",
         "ks",
@@ -11433,7 +11427,6 @@
         "flowViz",
         "flowStats",
         "flowWorkspace",
-        "ncdfFlow",
         "fda",
         "ks",
         "latticeExtra",
@@ -11449,7 +11442,6 @@
     "flowWorkspace": [
         "ggplot2",
         "dplyr",
-        "ncdfFlow",
         "tibble",
         "tidyselect",
         "pillar"
@@ -12890,7 +12882,6 @@
     ],
     "ggcyto": [
         "ggplot2",
-        "ncdfFlow",
         "flowWorkspace",
         "dplyr",
         "tibble",
@@ -14901,7 +14892,6 @@
         "rmarkdown",
         "flowWorkspace",
         "dplyr",
-        "ncdfFlow",
         "tibble",
         "viridis",
         "dendextend",
@@ -21127,7 +21117,6 @@
         "waldo",
         "rematch2"
     ],
-    "ncdfFlow": [],
     "ncGTW": [
         "xcms",
         "MSnbase",
@@ -22281,7 +22270,6 @@
     ],
     "openCyto": [
         "flowViz",
-        "ncdfFlow",
         "flowWorkspace",
         "flowClust",
         "latticeExtra",
@@ -23082,7 +23070,6 @@
         "flowWorkspace",
         "ggplot2",
         "dplyr",
-        "ncdfFlow",
         "tibble",
         "tidyselect",
         "pillar"
