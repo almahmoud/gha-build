@@ -13060,7 +13060,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "GenomicFeatures",
-        "qtl",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -60314,7 +60313,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "GenomicFeatures",
-        "qtl",
         "Rgraphviz",
         "httr",
         "RSQLite",
@@ -81113,7 +81111,6 @@
         "askpass"
     ],
     "trigger": [
-        "qtl",
         "qvalue",
         "sva",
         "ggplot2",
@@ -90553,7 +90550,6 @@
         "RcppEigen",
         "RcppArmadillo"
     ],
-    "qtl": [],
     "phylobase": [
         "ade4",
         "ape",
