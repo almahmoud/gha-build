@@ -1009,8 +1009,7 @@
     ],
     "CluMSID": [],
     "clusterExperiment": [
-        "zinbwave",
-        "phylobase"
+        "zinbwave"
     ],
     "clusterProfiler": [
         "DOSE",
@@ -4161,8 +4160,7 @@
     "netSmooth": [
         "scater",
         "clusterExperiment",
-        "zinbwave",
-        "phylobase"
+        "zinbwave"
     ],
     "netZooR": [
         "yarn",
@@ -6894,7 +6892,6 @@
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome"
     ],
-    "phylobase": [],
     "rio": [
         "haven"
     ],
