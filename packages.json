@@ -12910,7 +12910,6 @@
         "AnnotationDbi",
         "annotate"
     ],
-    "packFinder": [],
     "padma": [
         "FactoMineR",
         "MultiAssayExperiment",
