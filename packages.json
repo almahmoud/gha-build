@@ -105704,7 +105704,6 @@
         "IRanges",
         "Biostrings",
         "GenomicAlignments",
-        "BlandAltmanLeh",
         "GenomeInfoDb",
         "BSgenome",
         "S4Vectors",
@@ -138358,7 +138357,6 @@
         "BH",
         "nlme"
     ],
-    "BlandAltmanLeh": [],
     "dml": [
         "lfda",
         "plyr",
