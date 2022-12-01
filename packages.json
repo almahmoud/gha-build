@@ -48449,7 +48449,6 @@
         "lifecycle"
     ],
     "peco": [
-        "circular",
         "doParallel",
         "foreach",
         "genlasso",
@@ -70235,7 +70234,6 @@
     ],
     "tricycle": [
         "SingleCellExperiment",
-        "circular",
         "ggplot2",
         "ggnewscale",
         "AnnotationDbi",
@@ -82671,7 +82669,6 @@
     "R.huge": [
         "R.utils"
     ],
-    "circular": [],
     "genlasso": [
         "Matrix",
         "igraph"
