@@ -19713,7 +19713,6 @@
         "BiocParallel",
         "futile.logger"
     ],
-    "geneClassifiers": [],
     "GeneExpressionSignature": [],
     "genefilter": [
         "AnnotationDbi",
