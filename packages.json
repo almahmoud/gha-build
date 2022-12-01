@@ -25007,7 +25007,6 @@
         "bigparallelr",
         "cowplot",
         "ggplot2",
-        "rmio",
         "RSpectra",
         "tibble",
         "oligoClasses",
@@ -58158,7 +58157,6 @@
         "bigparallelr",
         "cowplot",
         "ggplot2",
-        "rmio",
         "RSpectra",
         "tibble",
         "doParallel",
@@ -58176,7 +58174,6 @@
     "bigparallelr": [
         "doParallel"
     ],
-    "rmio": [],
     "depmap": [
         "dplyr",
         "ExperimentHub",
