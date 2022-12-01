@@ -2,7 +2,6 @@
     "a4": [
         "a4Base",
         "a4Classif",
-        "a4Core",
         "annaffy",
         "genefilter",
         "GO.db",
@@ -12,7 +11,6 @@
         "KEGGREST"
     ],
     "a4Base": [
-        "a4Core",
         "annaffy",
         "genefilter",
         "GO.db",
@@ -21,10 +19,7 @@
         "RSQLite",
         "KEGGREST"
     ],
-    "a4Classif": [
-        "a4Core"
-    ],
-    "a4Core": [],
+    "a4Classif": [],
     "ABarray": [],
     "abseqR": [
         "ggplot2",
