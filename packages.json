@@ -24748,7 +24748,6 @@
         "aroma.affymetrix",
         "aroma.core",
         "R.cache",
-        "R.devices",
         "R.filesets",
         "aroma.apd",
         "R.rsp",
@@ -35248,7 +35247,6 @@
         "WGCNA",
         "aroma.core",
         "R.cache",
-        "R.devices",
         "R.filesets",
         "aroma.apd",
         "Hmisc",
@@ -41667,7 +41665,6 @@
     "aroma.affymetrix": [
         "aroma.core",
         "R.cache",
-        "R.devices",
         "R.filesets",
         "aroma.apd",
         "R.huge",
@@ -41677,13 +41674,11 @@
     ],
     "aroma.core": [
         "R.filesets",
-        "R.devices",
         "R.cache",
         "R.rsp",
         "PSCBS",
         "aroma.light"
     ],
-    "R.devices": [],
     "R.filesets": [
         "R.cache"
     ],
