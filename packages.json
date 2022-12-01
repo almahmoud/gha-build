@@ -396,7 +396,6 @@
     "miRspongeR": [
         "SPONGE"
     ],
-    "MQmetrics": [],
     "MSnID": [
         "AnnotationHub",
         "BiocVersion"
