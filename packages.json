@@ -2561,7 +2561,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "syntenet": [],
     "TADCompare": [
         "ggpubr",
         "rstatix",
