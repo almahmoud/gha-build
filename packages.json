@@ -794,7 +794,6 @@
         "htmlTable",
         "viridis",
         "MultiAssayExperiment",
-        "ape",
         "decontam",
         "vegan",
         "Biostrings",
@@ -870,7 +869,6 @@
         "ggplot2",
         "rentrez",
         "covr",
-        "ape",
         "vegan",
         "dplyr",
         "MultiAssayExperiment",
@@ -2635,7 +2633,6 @@
     "BDMMAcorrect": [
         "vegan",
         "ggplot2",
-        "ape",
         "SummarizedExperiment",
         "mgcv",
         "tibble",
@@ -2773,7 +2770,6 @@
         "progress",
         "glmnet",
         "Wrench",
-        "ape",
         "biomformat",
         "Biostrings",
         "vegan",
@@ -3169,7 +3165,6 @@
         "XVector",
         "GenomeInfoDb",
         "tweenr",
-        "ape",
         "tidytree",
         "treeio",
         "nloptr",
@@ -5027,7 +5022,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "ape",
         "aplot",
         "dplyr",
         "ggfun",
@@ -5287,7 +5281,6 @@
         "DelayedArray",
         "SingleCellExperiment",
         "Biostrings",
-        "ape",
         "treeio",
         "RSQLite",
         "XVector",
@@ -5370,7 +5363,6 @@
     "ccfindR": [
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "ape",
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
@@ -5838,7 +5830,6 @@
         "ggforce",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "httr",
@@ -6018,7 +6009,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "Biostrings",
@@ -6599,7 +6589,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidyr",
         "tidytree",
         "treeio",
@@ -7256,7 +7245,6 @@
     ],
     "clstutils": [
         "clst",
-        "ape",
         "RSQLite",
         "ROC",
         "blob",
@@ -7264,7 +7252,6 @@
     ],
     "CluMSID": [
         "mzR",
-        "ape",
         "network",
         "GGally",
         "ggplot2",
@@ -7296,7 +7283,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "NMF",
-        "ape",
         "BiocSingular",
         "DelayedArray",
         "HDF5Array",
@@ -7377,7 +7363,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "httr",
@@ -7896,7 +7881,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "ape",
         "aplot",
         "dplyr",
         "ggfun",
@@ -8005,7 +7989,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "ape",
         "biomformat",
         "Biostrings",
         "multtest",
@@ -8149,7 +8132,6 @@
         "ggplot2",
         "modeest",
         "edgeR",
-        "ape",
         "phylolm",
         "mgcv",
         "tibble",
@@ -8349,7 +8331,6 @@
         "ggforce",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "textshaping",
@@ -10473,7 +10454,6 @@
         "ggrepel",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "Biostrings",
@@ -11336,7 +11316,6 @@
         "mzR",
         "ggplot2",
         "RSQLite",
-        "ape",
         "phangorn",
         "tibble",
         "tidyselect",
@@ -12399,7 +12378,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "tweenr"
@@ -12604,7 +12582,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "tweenr"
@@ -12948,7 +12925,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidyr",
         "tidytree",
         "treeio",
@@ -13036,7 +13012,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "hms",
@@ -13180,7 +13155,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "GO.db",
@@ -13348,7 +13322,6 @@
         "tidyselect",
         "cowplot",
         "tweenr",
-        "ape",
         "tidytree",
         "treeio",
         "htmlwidgets",
@@ -13858,7 +13831,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "hms",
@@ -14027,7 +13999,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "ape",
         "aplot",
         "ggfun",
         "tidytree",
@@ -14203,7 +14174,6 @@
         "BiocFileCache",
         "GenomeInfoDb",
         "Biostrings",
-        "ape",
         "dplyr",
         "BiocParallel",
         "treeio",
@@ -14429,7 +14399,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "blob",
@@ -14490,9 +14459,7 @@
         "interp",
         "DelayedArray"
     ],
-    "fastreeR": [
-        "ape"
-    ],
+    "fastreeR": [],
     "fastseg": [
         "GenomicRanges",
         "GenomeInfoDb",
@@ -14599,7 +14566,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "httr",
@@ -15846,7 +15812,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "car",
@@ -16111,9 +16076,7 @@
         "htmlwidgets"
     ],
     "GeneOverlap": [],
-    "geneplast": [
-        "ape"
-    ],
+    "geneplast": [],
     "geneplotter": [
         "annotate",
         "AnnotationDbi",
@@ -17110,7 +17073,6 @@
         "plotly",
         "tweenr",
         "mgcv",
-        "ape",
         "tidytree",
         "treeio",
         "httr",
@@ -17165,7 +17127,6 @@
         "tidyselect"
     ],
     "ggtree": [
-        "ape",
         "aplot",
         "dplyr",
         "ggplot2",
@@ -17188,7 +17149,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "ape",
         "aplot",
         "dplyr",
         "ggfun",
@@ -17207,7 +17167,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "ape",
         "aplot",
         "dplyr",
         "ggfun",
@@ -17434,7 +17393,6 @@
     ],
     "GmicR": [
         "AnnotationDbi",
-        "ape",
         "Category",
         "DT",
         "doParallel",
@@ -17708,7 +17666,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "httr",
@@ -18622,7 +18579,6 @@
     ],
     "Herper": [],
     "HGC": [
-        "ape",
         "dendextend",
         "ggplot2",
         "patchwork",
@@ -19785,7 +19741,6 @@
         "rematch2"
     ],
     "infercnv": [
-        "ape",
         "phyclust",
         "dplyr",
         "ggplot2",
@@ -20430,7 +20385,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "ape",
         "tidytree",
         "treeio",
         "textshaping",
@@ -21330,7 +21284,6 @@
     "LinTInd": [
         "ggplot2",
         "networkD3",
-        "ape",
         "cowplot",
         "ggnewscale",
         "dplyr",
@@ -21684,7 +21637,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "ape",
         "aplot",
         "ggfun",
         "tidyr",
@@ -21951,7 +21903,6 @@
         "DelayedArray",
         "AnnotationDbi",
         "GenomicFeatures",
-        "ape",
         "dplyr",
         "tibble",
         "vegan",
@@ -22084,7 +22035,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "Biostrings",
@@ -22478,7 +22428,6 @@
         "pillar",
         "mgcv",
         "nloptr",
-        "ape",
         "biomformat",
         "Biostrings",
         "multtest",
@@ -23048,7 +22997,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidyr",
         "tidytree",
         "treeio",
@@ -23092,7 +23040,6 @@
         "Biostrings",
         "dplyr",
         "tidyr",
-        "ape",
         "ggrepel",
         "ggridges",
         "AnnotationDbi",
@@ -23471,7 +23418,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "Biostrings",
@@ -23591,7 +23537,6 @@
         "httpuv",
         "glmnet",
         "Wrench",
-        "ape",
         "biomformat",
         "Biostrings",
         "ggplot2",
@@ -24101,7 +24046,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "base64",
@@ -24388,7 +24332,6 @@
         "tidyr",
         "GGally",
         "mgcv",
-        "ape",
         "quantreg",
         "forcats",
         "progress",
@@ -24438,7 +24381,6 @@
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
         "MultiAssayExperiment",
-        "ape",
         "decontam",
         "vegan",
         "Biostrings",
@@ -24487,7 +24429,6 @@
         "DelayedArray",
         "SingleCellExperiment",
         "Biostrings",
-        "ape",
         "dplyr",
         "BiocParallel",
         "treeio",
@@ -24516,7 +24457,6 @@
         "tidygraph",
         "tidyr",
         "dplyr",
-        "ape",
         "DirichletMultinomial",
         "tidyselect",
         "vctrs",
@@ -24574,7 +24514,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "ape",
         "biomformat",
         "multtest",
         "survival"
@@ -24589,7 +24528,6 @@
         "vctrs",
         "glmnet",
         "Wrench",
-        "ape",
         "biomformat",
         "Biostrings",
         "multtest",
@@ -24714,7 +24652,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "ape",
         "aplot",
         "ggfun",
         "treeio",
@@ -24824,7 +24761,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "gert",
@@ -24839,7 +24775,6 @@
         "GenomeInfoDb"
     ],
     "MicrobiotaProcess": [
-        "ape",
         "tidyr",
         "ggplot2",
         "dplyr",
@@ -25424,7 +25359,6 @@
         "ggplotify",
         "patchwork",
         "tweenr",
-        "ape",
         "tidytree",
         "treeio",
         "gargle",
@@ -25532,7 +25466,6 @@
         "patchwork",
         "blob",
         "tweenr",
-        "ape",
         "tidytree",
         "treeio",
         "gargle",
@@ -26155,7 +26088,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "Biostrings",
@@ -26436,7 +26368,6 @@
     "MSA2dist": [
         "Biostrings",
         "GenomicRanges",
-        "ape",
         "doParallel",
         "dplyr",
         "seqinr",
@@ -27329,7 +27260,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "DelayedArray",
@@ -28243,7 +28173,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "httr",
@@ -28319,7 +28248,6 @@
         "blob",
         "XVector",
         "GenomeInfoDb",
-        "ape",
         "readr",
         "hms",
         "vroom",
@@ -28392,7 +28320,6 @@
         "DelayedArray",
         "HDF5Array",
         "NMF",
-        "ape",
         "BiocSingular",
         "edgeR",
         "zinbwave",
@@ -28649,7 +28576,6 @@
     ],
     "NormalyzerDE": [
         "vsn",
-        "ape",
         "car",
         "ggplot2",
         "RcmdrMisc",
@@ -29104,7 +29030,6 @@
     ],
     "OmaDB": [
         "httr",
-        "ape",
         "Biostrings",
         "GenomicRanges",
         "topGO",
@@ -29552,7 +29477,6 @@
         "dplyr",
         "DECIPHER",
         "Hmisc",
-        "ape",
         "distrEx",
         "fitdistrplus",
         "XVector",
@@ -29588,7 +29512,6 @@
         "dplyr",
         "DECIPHER",
         "Hmisc",
-        "ape",
         "distrEx",
         "fitdistrplus",
         "bslib",
@@ -29642,7 +29565,6 @@
         "rematch2"
     ],
     "oposSOM": [
-        "ape",
         "biomaRt",
         "AnnotationDbi",
         "progress",
@@ -29878,7 +29800,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "ape",
         "aplot",
         "ggfun",
         "tidytree",
@@ -30008,7 +29929,6 @@
         "Biostrings",
         "GenomicRanges",
         "kmer",
-        "ape",
         "XVector",
         "GenomeInfoDb",
         "phylogram"
@@ -30189,7 +30109,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "Biostrings",
@@ -30311,7 +30230,6 @@
         "glmnet",
         "ROCR",
         "devtools",
-        "ape",
         "bookdown",
         "rmarkdown",
         "doParallel",
@@ -30720,7 +30638,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "ape",
         "biomformat",
         "Biostrings",
         "multtest",
@@ -30787,7 +30704,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "httr",
@@ -30990,7 +30906,6 @@
         "rematch2"
     ],
     "philr": [
-        "ape",
         "phangorn",
         "tidyr",
         "ggplot2",
@@ -31073,7 +30988,6 @@
         "rematch2"
     ],
     "PhyloProfile": [
-        "ape",
         "BiocStyle",
         "Biostrings",
         "colourpicker",
@@ -31116,7 +31030,6 @@
         "tidyselect"
     ],
     "phyloseq": [
-        "ape",
         "biomformat",
         "Biostrings",
         "ggplot2",
@@ -31161,7 +31074,6 @@
         "httr",
         "hms",
         "vroom",
-        "ape",
         "statnet.common",
         "clock",
         "hardhat",
@@ -31261,7 +31173,6 @@
         "patchwork",
         "sass",
         "tweenr",
-        "ape",
         "tidytree",
         "treeio",
         "htmlwidgets",
@@ -31799,7 +31710,6 @@
         "rmarkdown",
         "phyloseq",
         "bookdown",
-        "ape",
         "biomformat",
         "ggplot2",
         "multtest",
@@ -32210,7 +32120,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "latticeExtra",
@@ -33200,7 +33109,6 @@
     ],
     "QSutils": [
         "Biostrings",
-        "ape",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -33565,7 +33473,6 @@
     "RandomWalkRestartMH": [
         "dnet",
         "supraHex",
-        "ape",
         "readr",
         "tibble",
         "tidyr",
@@ -33827,7 +33734,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "ape",
         "biomformat",
         "Biostrings",
         "multtest",
@@ -34019,7 +33925,6 @@
         "pillar",
         "cowplot",
         "tweenr",
-        "ape",
         "tidytree",
         "treeio",
         "GO.db",
@@ -34063,7 +33968,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "ape",
         "biomformat",
         "Biostrings",
         "multtest",
@@ -35978,7 +35882,6 @@
         "ggforce",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "interp",
@@ -36187,7 +36090,6 @@
         "rmarkdown",
         "phyloseq",
         "bookdown",
-        "ape",
         "biomformat",
         "Biostrings",
         "ggplot2",
@@ -36794,7 +36696,6 @@
         "tidyselect"
     ],
     "sangeranalyseR": [
-        "ape",
         "Biostrings",
         "DECIPHER",
         "phangorn",
@@ -37083,7 +36984,6 @@
         "ROCR",
         "pROC",
         "e1071",
-        "ape",
         "AnnotationHub",
         "BiocFileCache",
         "RSQLite",
@@ -37298,7 +37198,6 @@
     "scBubbletree": [
         "future",
         "future.apply",
-        "ape",
         "Seurat",
         "ggplot2",
         "ggtree",
@@ -38425,7 +38324,6 @@
         "httpuv",
         "ggfun",
         "ggplotify",
-        "ape",
         "tidytree",
         "treeio",
         "classInt",
@@ -38682,7 +38580,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidyr",
         "tidytree",
         "treeio",
@@ -39261,7 +39158,6 @@
         "future",
         "future.apply",
         "bbotk",
-        "ape",
         "biomformat",
         "Biostrings",
         "multtest",
@@ -39416,7 +39312,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "shiny",
@@ -39690,7 +39585,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "ape",
         "biomformat",
         "Biostrings",
         "multtest",
@@ -39843,7 +39737,6 @@
         "SummarizedExperiment",
         "SingleCellExperiment",
         "DelayedArray",
-        "ape",
         "AnnotationHub",
         "batchelor",
         "BiocParallel",
@@ -40134,7 +40027,6 @@
         "DelayedArray"
     ],
     "sitePath": [
-        "ape",
         "aplot",
         "ggplot2",
         "ggrepel",
@@ -41480,7 +41372,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "ape",
         "biomformat",
         "Biostrings",
         "multtest",
@@ -42240,7 +42131,6 @@
         "future.apply"
     ],
     "supraHex": [
-        "ape",
         "readr",
         "tibble",
         "tidyr",
@@ -42683,7 +42573,6 @@
         "DESeq2",
         "GGally",
         "SummarizedExperiment",
-        "ape",
         "dplyr",
         "ggplot2",
         "ggrepel",
@@ -42767,7 +42656,6 @@
     "tanggle": [
         "ggplot2",
         "ggtree",
-        "ape",
         "phangorn",
         "mgcv",
         "tibble",
@@ -43096,7 +42984,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "prodlim",
@@ -43651,7 +43538,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "ape",
         "tidytree",
         "treeio",
         "Biostrings",
@@ -44318,11 +44204,9 @@
         "pillar"
     ],
     "TreeAndLeaf": [
-        "RedeR",
-        "ape"
+        "RedeR"
     ],
     "treeio": [
-        "ape",
         "dplyr",
         "tibble",
         "tidytree",
@@ -44336,7 +44220,6 @@
         "dplyr",
         "ggiraph",
         "ggplot2",
-        "ape",
         "ggtree",
         "patchwork",
         "SingleCellExperiment",
@@ -44387,7 +44270,6 @@
     "TreeSummarizedExperiment": [
         "SingleCellExperiment",
         "Biostrings",
-        "ape",
         "dplyr",
         "SummarizedExperiment",
         "BiocParallel",
@@ -45485,7 +45367,6 @@
         "mgcv"
     ],
     "VERSO": [
-        "ape",
         "Rfast"
     ],
     "vidger": [
@@ -46988,9 +46869,7 @@
     "gld": [
         "e1071"
     ],
-    "ape": [],
     "tidytree": [
-        "ape",
         "dplyr",
         "tibble",
         "tidyr",
@@ -47044,7 +46923,6 @@
     "GUniFrac": [
         "vegan",
         "ggplot2",
-        "ape",
         "ggrepel",
         "modeest",
         "mgcv",
@@ -48050,7 +47928,6 @@
         "pillar",
         "mgcv",
         "Rcgmin",
-        "ape",
         "biomformat",
         "Biostrings",
         "multtest",
@@ -48795,7 +48672,6 @@
         "survival"
     ],
     "vcfR": [
-        "ape",
         "dplyr",
         "tibble",
         "vegan",
@@ -49477,7 +49353,6 @@
     ],
     "gRbase": [],
     "phylobase": [
-        "ape",
         "rncl",
         "RNeXML",
         "progress",
@@ -49513,7 +49388,6 @@
         "vctrs"
     ],
     "RNeXML": [
-        "ape",
         "httr",
         "dplyr",
         "tidyr",
@@ -49536,7 +49410,6 @@
         "survival"
     ],
     "phylolm": [
-        "ape",
         "future.apply",
         "future"
     ],
@@ -50173,9 +50046,7 @@
     "blockmodeling": [],
     "swamp": [],
     "bnstruct": [],
-    "phangorn": [
-        "ape"
-    ],
+    "phangorn": [],
     "DiffCorr": [
         "pcaMethods",
         "multtest",
@@ -50816,9 +50687,7 @@
     "Rlabkey": [
         "httr"
     ],
-    "phyclust": [
-        "ape"
-    ],
+    "phyclust": [],
     "golem": [
         "roxygen2",
         "shiny",
@@ -51374,9 +51243,7 @@
         "mgcv",
         "hms"
     ],
-    "MCMCglmm": [
-        "ape"
-    ],
+    "MCMCglmm": [],
     "shinycustomloader": [
         "shiny",
         "httpuv",
@@ -51715,7 +51582,6 @@
     ],
     "dnet": [
         "supraHex",
-        "ape",
         "readr",
         "tibble",
         "tidyr",
@@ -51955,12 +51821,9 @@
         "survival"
     ],
     "kmer": [
-        "phylogram",
-        "ape"
+        "phylogram"
     ],
-    "phylogram": [
-        "ape"
-    ],
+    "phylogram": [],
     "tfprobability": [
         "tensorflow",
         "keras",
