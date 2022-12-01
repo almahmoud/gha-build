@@ -842,7 +842,6 @@
         "wateRmelon",
         "goseq",
         "missMethyl",
-        "isva",
         "bumphunter",
         "GenomicFeatures",
         "ExperimentHub",
@@ -3332,7 +3331,6 @@
         "minfi",
         "Gviz",
         "missMethyl",
-        "isva",
         "SmartSVA",
         "biomaRt",
         "GenomicFeatures",
@@ -4327,7 +4325,6 @@
         "rexposome",
         "sva",
         "SmartSVA",
-        "isva",
         "FactoMineR",
         "lme4",
         "mice",
@@ -6941,7 +6938,6 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "isva": [],
     "geneLenDataBase": [
         "GenomicFeatures",
         "biomaRt"
@@ -7157,8 +7153,7 @@
         "haven"
     ],
     "SmartSVA": [
-        "sva",
-        "isva"
+        "sva"
     ],
     "EnsDb.Hsapiens.v75": [
         "ensembldb",
