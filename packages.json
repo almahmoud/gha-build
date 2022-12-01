@@ -2059,7 +2059,6 @@
         "readxl",
         "SummarizedExperiment",
         "tidyr",
-        "assertive.types",
         "assertive.strings",
         "assertive.datetimes",
         "assertive.data",
@@ -5449,7 +5448,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "assertive.types",
         "scuttle",
         "DelayedMatrixStats",
         "beachmat",
@@ -27116,7 +27114,6 @@
         "rtracklayer",
         "tidyr",
         "tidyselect",
-        "assertive.types",
         "assertive.strings",
         "assertive.datetimes",
         "assertive.data",
@@ -39991,7 +39988,6 @@
         "bbmle",
         "reldist",
         "Hmisc",
-        "assertive.types",
         "multcomp",
         "hms",
         "blob",
@@ -47877,7 +47873,6 @@
         "survival"
     ],
     "assertive": [
-        "assertive.types",
         "assertive.strings",
         "assertive.datetimes",
         "assertive.data",
@@ -47885,28 +47880,18 @@
         "assertive.data.us",
         "assertive.code"
     ],
-    "assertive.types": [],
-    "assertive.strings": [
-        "assertive.types"
-    ],
-    "assertive.datetimes": [
-        "assertive.types"
-    ],
+    "assertive.strings": [],
+    "assertive.datetimes": [],
     "assertive.data": [
-        "assertive.strings",
-        "assertive.types"
+        "assertive.strings"
     ],
     "assertive.data.uk": [
-        "assertive.strings",
-        "assertive.types"
+        "assertive.strings"
     ],
     "assertive.data.us": [
-        "assertive.strings",
-        "assertive.types"
+        "assertive.strings"
     ],
-    "assertive.code": [
-        "assertive.types"
-    ],
+    "assertive.code": [],
     "doBy": [
         "broom",
         "dplyr",
@@ -48890,7 +48875,6 @@
     ],
     "MCMCprecision": [],
     "multipanelfigure": [
-        "assertive.types",
         "ggplot2",
         "mgcv",
         "tibble",
