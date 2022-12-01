@@ -9186,7 +9186,6 @@
         "ShortRead"
     ],
     "systemPipeShiny": [
-        "spsComps",
         "plotly",
         "shinydashboardPlus"
     ],
@@ -11020,7 +11019,6 @@
     ],
     "SpatialExtremes": [],
     "stars": [],
-    "spsComps": [],
     "GenKern": [],
     "gghighlight": [],
     "bestNormalize": [
