@@ -47123,7 +47123,6 @@
         "Rgraphviz"
     ],
     "KEGGlincs": [
-        "KOdata",
         "hgu133a.db",
         "org.Hs.eg.db",
         "AnnotationDbi",
@@ -115878,7 +115877,6 @@
         "zoo",
         "Rdpack"
     ],
-    "KOdata": [],
     "hgu95av2.db": [
         "AnnotationDbi",
         "org.Hs.eg.db",
