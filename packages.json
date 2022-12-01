@@ -6965,7 +6965,6 @@
     "cellmigRation": [
         "reshape2",
         "doParallel",
-        "FME",
         "SpatialTools",
         "vioplot",
         "FactoMineR",
@@ -60067,7 +60066,6 @@
     ],
     "Ckmeans.1d.dp": [],
     "mvoutlier": [],
-    "FME": [],
     "SpatialTools": [
         "spBayes"
     ],
