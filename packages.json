@@ -23171,7 +23171,6 @@
     "TEQC": [
         "Rsamtools"
     ],
-    "ternarynet": [],
     "terraTCGAdata": [
         "AnVIL",
         "MultiAssayExperiment",
