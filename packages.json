@@ -19081,7 +19081,6 @@
         "vroom",
         "tzdb",
         "MatrixExtra",
-        "qdapRegex",
         "ggplot2",
         "gridExtra",
         "mgcv",
@@ -27239,7 +27238,6 @@
         "ada",
         "ipred",
         "lexicon",
-        "qdapRegex",
         "textshape",
         "ellipsis",
         "bit64",
@@ -29845,7 +29843,6 @@
         "tzdb",
         "MatrixExtra",
         "selectr",
-        "qdapRegex",
         "ggplot2",
         "gridExtra",
         "mgcv",
@@ -79448,7 +79445,6 @@
         "config",
         "processx",
         "tfautograph",
-        "qdapRegex",
         "ggplot2",
         "gridExtra",
         "mgcv",
@@ -80184,7 +80180,6 @@
         "askpass",
         "RcppArmadillo",
         "MatrixExtra",
-        "qdapRegex",
         "zoo"
     ],
     "VanillaICE": [
@@ -80988,7 +80983,6 @@
         "syuzhet",
         "nlme",
         "stopwords",
-        "qdapRegex",
         "ellipsis",
         "purrr",
         "gridExtra",
@@ -89379,7 +89373,6 @@
         "syuzhet",
         "stopwords",
         "RcppArmadillo",
-        "qdapRegex",
         "zoo",
         "tidyr",
         "ellipsis",
@@ -89424,7 +89417,6 @@
     ],
     "textclean": [
         "lexicon",
-        "qdapRegex",
         "textshape",
         "syuzhet",
         "zoo",
@@ -89456,7 +89448,6 @@
     "MatrixExtra": [
         "Matrix"
     ],
-    "qdapRegex": [],
     "tseries": [
         "zoo",
         "quantmod",
