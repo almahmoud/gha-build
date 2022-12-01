@@ -18788,7 +18788,6 @@
         "biglm",
         "Rcpp",
         "BH",
-        "bigmemory.sri",
         "uuid",
         "MASS",
         "oligo",
@@ -27938,7 +27937,6 @@
         "viridisLite",
         "stringi",
         "zoo",
-        "bigmemory.sri",
         "uuid",
         "ALL",
         "viridis",
@@ -28062,7 +28060,6 @@
         "sandwich",
         "ellipsis",
         "purrr",
-        "bigmemory.sri",
         "uuid",
         "viridis",
         "class",
@@ -71448,7 +71445,6 @@
         "Matrix",
         "biglm",
         "BH",
-        "bigmemory.sri",
         "uuid",
         "iterators",
         "cli",
@@ -80872,7 +80868,6 @@
         "Rtsne",
         "httr",
         "plotrix",
-        "bigmemory.sri",
         "Rcpp",
         "uuid",
         "BH",
@@ -142667,13 +142662,11 @@
     "timsac": [],
     "ChIPXpressData": [
         "bigmemory",
-        "bigmemory.sri",
         "Rcpp",
         "uuid",
         "BH"
     ],
     "bigmemory": [
-        "bigmemory.sri",
         "Rcpp",
         "uuid",
         "BH"
@@ -142684,11 +142677,9 @@
         "biglm",
         "Rcpp",
         "BH",
-        "bigmemory.sri",
         "uuid",
         "iterators"
     ],
-    "bigmemory.sri": [],
     "shinyhelper": [
         "shiny",
         "markdown",
@@ -144537,7 +144528,6 @@
         "bigmemory",
         "foreach",
         "lme4",
-        "bigmemory.sri",
         "Rcpp",
         "uuid",
         "BH",
