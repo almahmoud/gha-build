@@ -1013,7 +1013,6 @@
         "scater"
     ],
     "segmenter": [],
-    "selectKSigs": [],
     "SeqSQC": [
         "ExperimentHub",
         "AnnotationHub",
