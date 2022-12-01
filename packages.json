@@ -3456,7 +3456,6 @@
         "phenoTest",
         "annotate",
         "AnnotationDbi",
-        "BMA",
         "ggplot2",
         "Hmisc",
         "Category",
@@ -14731,12 +14730,8 @@
         "SummarizedExperiment",
         "blob"
     ],
-    "iterativeBMA": [
-        "BMA"
-    ],
-    "iterativeBMAsurv": [
-        "BMA"
-    ],
+    "iterativeBMA": [],
+    "iterativeBMAsurv": [],
     "IVAS": [
         "GenomicFeatures",
         "ggplot2",
@@ -21921,7 +21916,6 @@
     ],
     "phenoTest": [
         "annotate",
-        "BMA",
         "ggplot2",
         "Hmisc",
         "Category",
@@ -29854,7 +29848,6 @@
         "SummarizedExperiment",
         "survminer",
         "clustvarsel",
-        "BMA",
         "GenomicRanges",
         "ggplot2",
         "ggpubr",
@@ -34337,7 +34330,6 @@
         "tibble",
         "pillar"
     ],
-    "BMA": [],
     "vcfR": [
         "dplyr",
         "tibble",
@@ -37236,9 +37228,7 @@
         "tidyselect"
     ],
     "slider": [],
-    "clustvarsel": [
-        "BMA"
-    ],
+    "clustvarsel": [],
     "gstat": [
         "sf",
         "sftime",
