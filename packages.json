@@ -795,8 +795,7 @@
     "condiments": [
         "Ecume",
         "distinct",
-        "scater",
-        "spatstat"
+        "scater"
     ],
     "CONFESS": [
         "contrast"
@@ -4737,10 +4736,7 @@
         "lme4",
         "nloptr"
     ],
-    "Ecume": [
-        "spatstat"
-    ],
-    "spatstat": [],
+    "Ecume": [],
     "contrast": [],
     "EnsDb.Hsapiens.v86": [
         "ensembldb",
