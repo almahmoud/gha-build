@@ -10309,7 +10309,6 @@
     "ribor": [
         "tidyr"
     ],
-    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "BSgenome",
         "EDASeq",
