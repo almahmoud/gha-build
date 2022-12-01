@@ -2701,7 +2701,6 @@
         "scater",
         "DirichletMultinomial",
         "testthat",
-        "Rcgmin",
         "hms",
         "httpuv",
         "bslib",
@@ -46242,7 +46241,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "Rcgmin",
         "biomformat",
         "Biostrings",
         "multtest",
@@ -46258,9 +46256,7 @@
         "tidyselect",
         "pillar"
     ],
-    "optimr": [
-        "Rcgmin"
-    ],
+    "optimr": [],
     "detectseparation": [
         "ROI.plugin.lpsolve"
     ],
@@ -46268,7 +46264,6 @@
         "survival"
     ],
     "ROI.plugin.lpsolve": [],
-    "Rcgmin": [],
     "sjmisc": [
         "dplyr",
         "tidyselect",
