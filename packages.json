@@ -16277,7 +16277,6 @@
         "VariantAnnotation",
         "rtracklayer",
         "RSQLite",
-        "AhoCorasickTrie",
         "Biobase",
         "KEGGREST",
         "progress",
@@ -83733,7 +83732,6 @@
         "RcppArmadillo"
     ],
     "pscl": [],
-    "AhoCorasickTrie": [],
     "cytometree": [
         "ggplot2",
         "igraph",
