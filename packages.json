@@ -46455,7 +46455,6 @@
         "sf",
         "concaveman",
         "tidyselect",
-        "distances",
         "MatrixGenerics",
         "Rcpp",
         "Matrix",
@@ -60410,7 +60409,6 @@
         "caret",
         "deldir",
         "digest",
-        "distances",
         "dplyr",
         "furrr",
         "ggplot2",
@@ -121712,7 +121710,6 @@
         "wk",
         "withr"
     ],
-    "distances": [],
     "Rlabkey": [
         "httr",
         "Rcpp",
