@@ -524,8 +524,7 @@
         "BiocFileCache",
         "recipes",
         "annotate",
-        "genefilter",
-        "ggvis"
+        "genefilter"
     ],
     "banocc": [],
     "barcodetrackR": [],
@@ -557,7 +556,6 @@
     ],
     "BatchQC": [
         "sva",
-        "ggvis",
         "heatmaply",
         "plotly",
         "dendextend",
@@ -6065,7 +6063,6 @@
         "clusterProfiler",
         "ReactomePA",
         "DOSE",
-        "ggvis",
         "Hmisc",
         "GO.db",
         "enrichplot",
@@ -6193,8 +6190,7 @@
     "mixOmics": [],
     "MLInterfaces": [
         "annotate",
-        "genefilter",
-        "ggvis"
+        "genefilter"
     ],
     "MLP": [],
     "MLSeq": [
@@ -7760,8 +7756,7 @@
         "BiocFileCache",
         "recipes",
         "annotate",
-        "genefilter",
-        "ggvis"
+        "genefilter"
     ],
     "pRolocGUI": [
         "pRoloc",
@@ -7775,8 +7770,7 @@
         "BiocFileCache",
         "recipes",
         "annotate",
-        "genefilter",
-        "ggvis"
+        "genefilter"
     ],
     "PROMISE": [
         "GSEABase",
@@ -9333,8 +9327,7 @@
     "SigCheck": [
         "MLInterfaces",
         "annotate",
-        "genefilter",
-        "ggvis"
+        "genefilter"
     ],
     "sights": [
         "qvalue"
@@ -11174,7 +11167,6 @@
         "MSnbase"
     ],
     "dendextend": [],
-    "ggvis": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "rtracklayer"
@@ -11789,9 +11781,7 @@
         "dendextend",
         "biclust"
     ],
-    "subspace": [
-        "ggvis"
-    ],
+    "subspace": [],
     "SOMbrero": [],
     "cvms": [
         "groupdata2",
