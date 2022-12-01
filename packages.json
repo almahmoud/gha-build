@@ -2305,7 +2305,6 @@
         "BiocVersion"
     ],
     "scater": [],
-    "scBFA": [],
     "scBubbletree": [],
     "scDblFinder": [
         "scater"
