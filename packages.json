@@ -324,8 +324,7 @@
     ],
     "batchelor": [],
     "BatchQC": [
-        "sva",
-        "heatmaply"
+        "sva"
     ],
     "BayesSpace": [
         "scater",
@@ -1480,7 +1479,6 @@
         "clusterProfiler",
         "sva",
         "enrichplot",
-        "heatmaply",
         "pathview",
         "GOSemSim",
         "geneplotter",
@@ -1529,7 +1527,6 @@
     ],
     "DegNorm": [
         "GenomicFeatures",
-        "heatmaply",
         "biomaRt"
     ],
     "DEGraph": [
@@ -1648,8 +1645,7 @@
         "scran"
     ],
     "DiscoRhythm": [
-        "ggExtra",
-        "heatmaply"
+        "ggExtra"
     ],
     "distinct": [
         "scater"
@@ -2267,7 +2263,6 @@
         "GenomicFeatures",
         "OUTRIDER",
         "DESeq2",
-        "heatmaply",
         "geneplotter"
     ],
     "frenchFISH": [
@@ -2500,7 +2495,6 @@
     ],
     "GEOexplorer": [
         "factoextra",
-        "heatmaply",
         "shinyHeatmaply",
         "GEOquery",
         "FactoMineR",
@@ -2855,7 +2849,6 @@
     "ideal": [
         "topGO",
         "DESeq2",
-        "heatmaply",
         "pcaExplorer",
         "goseq",
         "GOstats",
@@ -2892,9 +2885,7 @@
         "cytomapper",
         "ggraph"
     ],
-    "ImmuneSpaceR": [
-        "heatmaply"
-    ],
+    "ImmuneSpaceR": [],
     "immunotation": [],
     "INDEED": [
         "devtools",
@@ -3457,7 +3448,6 @@
         "DSS",
         "EDASeq",
         "GenomicFeatures",
-        "heatmaply",
         "NBPSeq",
         "geneplotter",
         "bsseq",
@@ -3627,7 +3617,6 @@
     ],
     "microbiomeExplorer": [
         "DESeq2",
-        "heatmaply",
         "car",
         "pbkrtest",
         "lme4",
@@ -4442,7 +4431,6 @@
     "OUTRIDER": [
         "GenomicFeatures",
         "DESeq2",
-        "heatmaply",
         "geneplotter",
         "biomaRt"
     ],
@@ -4501,7 +4489,6 @@
     "paxtoolsr": [],
     "pcaExplorer": [
         "DESeq2",
-        "heatmaply",
         "topGO",
         "GOstats",
         "biomaRt",
@@ -4866,7 +4853,6 @@
     ],
     "QFeatures": [],
     "qmtools": [
-        "heatmaply",
         "VIM",
         "car",
         "pbkrtest",
@@ -5593,7 +5579,6 @@
     "scTensor": [
         "reactome.db",
         "nnTensor",
-        "heatmaply",
         "AnnotationHub",
         "Category",
         "meshr",
@@ -5695,7 +5680,6 @@
         "biomaRt"
     ],
     "shinyepico": [
-        "heatmaply",
         "minfi",
         "bumphunter",
         "GEOquery",
@@ -5977,7 +5961,6 @@
         "NxtIRFdata",
         "AnnotationHub",
         "BSgenome",
-        "heatmaply",
         "BiocVersion",
         "ExperimentHub"
     ],
@@ -6576,7 +6559,6 @@
         "biomaRt",
         "DiagrammeR",
         "GOSemSim",
-        "heatmaply",
         "topGO"
     ],
     "vissE": [
@@ -6838,7 +6820,6 @@
         "BSgenome"
     ],
     "ggExtra": [],
-    "heatmaply": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
         "bumphunter",
@@ -7093,9 +7074,7 @@
     "logistf": [
         "mice"
     ],
-    "shinyHeatmaply": [
-        "heatmaply"
-    ],
+    "shinyHeatmaply": [],
     "ggalt": [],
     "HiContactsData": [
         "ExperimentHub",
