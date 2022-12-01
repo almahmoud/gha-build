@@ -1528,7 +1528,6 @@
         "derfinder",
         "GenomicFiles"
     ],
-    "RNAdecay": [],
     "RNAmodR": [
         "Gviz",
         "biovizBase"
