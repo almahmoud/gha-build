@@ -23564,9 +23564,7 @@
         "RSQLite",
         "KEGGREST"
     ],
-    "TileDBArray": [
-        "tiledb"
-    ],
+    "TileDBArray": [],
     "tilingArray": [
         "vsn",
         "genefilter",
@@ -28413,7 +28411,6 @@
         "dplyr",
         "tibble"
     ],
-    "tiledb": [],
     "FreqProf": [
         "ggplot2",
         "shiny",
