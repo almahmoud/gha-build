@@ -865,7 +865,6 @@
         "annotate",
         "AnnotationDbi",
         "XVector",
-        "statip",
         "clock",
         "hardhat",
         "ipred",
@@ -7755,7 +7754,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "statip",
         "future.apply",
         "pillar"
     ],
@@ -23800,7 +23798,6 @@
         "pillar",
         "mgcv",
         "quantreg",
-        "statip",
         "waldo",
         "survival",
         "rematch2"
@@ -44763,7 +44760,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "statip",
         "pillar"
     ],
     "pROC": [],
@@ -44782,10 +44778,7 @@
         "lava",
         "future.apply"
     ],
-    "modeest": [
-        "statip"
-    ],
-    "statip": [],
+    "modeest": [],
     "clock": [
         "vctrs"
     ],
