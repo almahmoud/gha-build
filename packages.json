@@ -19905,7 +19905,6 @@
         "mgcv",
         "vctrs",
         "rjags",
-        "R2WinBUGS",
         "dplyr",
         "tidyselect",
         "KEGGREST",
@@ -40830,7 +40829,6 @@
         "mgcv",
         "vctrs",
         "rjags",
-        "R2WinBUGS",
         "dplyr",
         "tidyselect",
         "KEGGREST",
@@ -53530,10 +53528,8 @@
         "sass"
     ],
     "R2jags": [
-        "rjags",
-        "R2WinBUGS"
+        "rjags"
     ],
-    "R2WinBUGS": [],
     "servr": [
         "httpuv"
     ],
