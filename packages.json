@@ -467,7 +467,6 @@
         "caret",
         "plotly",
         "ggplot2",
-        "covr",
         "vegan",
         "dplyr",
         "MultiAssayExperiment",
@@ -26829,7 +26828,6 @@
         "prodlim",
         "lava"
     ],
-    "covr": [],
     "plotROC": [
         "ggplot2",
         "shiny",
