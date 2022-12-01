@@ -6273,7 +6273,6 @@
         "Biostrings",
         "blob"
     ],
-    "covEB": [],
     "CoverageView": [
         "Rsamtools",
         "rtracklayer",
