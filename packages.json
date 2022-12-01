@@ -262,7 +262,6 @@
         "topGO",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "scattermore",
         "GO.db"
     ],
     "appreci8R": [
@@ -605,7 +604,6 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "scattermore",
         "geneplotter",
         "plotly",
         "treeio",
@@ -1261,8 +1259,7 @@
         "fgsea",
         "scuttle",
         "ggrastr",
-        "plotly",
-        "scattermore"
+        "plotly"
     ],
     "cellity": [
         "org.Hs.eg.db",
@@ -2398,9 +2395,7 @@
         "testthat",
         "waldo"
     ],
-    "dearseq": [
-        "scattermore"
-    ],
+    "dearseq": [],
     "debCAM": [
         "DMwR2",
         "readr"
@@ -2673,8 +2668,7 @@
         "Seurat",
         "scran",
         "scuttle",
-        "plotly",
-        "scattermore"
+        "plotly"
     ],
     "DiscoRhythm": [
         "ggExtra",
@@ -4717,8 +4711,7 @@
     ],
     "infercnv": [
         "Seurat",
-        "plotly",
-        "scattermore"
+        "plotly"
     ],
     "InPAS": [
         "BSgenome",
@@ -4857,7 +4850,6 @@
         "scuttle",
         "ggrastr",
         "plotly",
-        "scattermore",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -6760,8 +6752,7 @@
     ],
     "Nebulosa": [
         "Seurat",
-        "plotly",
-        "scattermore"
+        "plotly"
     ],
     "nempi": [
         "mnem",
@@ -7530,8 +7521,7 @@
         "scater",
         "scuttle",
         "ggrastr",
-        "plotly",
-        "scattermore"
+        "plotly"
     ],
     "pipeFrame": [
         "BSgenome",
@@ -8869,8 +8859,7 @@
     "scAlign": [
         "Seurat",
         "tensorflow",
-        "plotly",
-        "scattermore"
+        "plotly"
     ],
     "SCAN.UPC": [
         "oligo",
@@ -8900,8 +8889,7 @@
         "BiocFileCache",
         "BiocVersion",
         "recipes",
-        "plotly",
-        "scattermore"
+        "plotly"
     ],
     "SCANVIS": [
         "rtracklayer"
@@ -8924,7 +8912,6 @@
         "DESeq2",
         "geneplotter",
         "plotly",
-        "scattermore",
         "genefilter",
         "annotate"
     ],
@@ -8934,15 +8921,13 @@
         "aplot",
         "tidytree",
         "treeio",
-        "plotly",
-        "scattermore"
+        "plotly"
     ],
     "scCB2": [
         "DropletUtils",
         "Seurat",
         "scuttle",
-        "plotly",
-        "scattermore"
+        "plotly"
     ],
     "scClassify": [
         "ggraph",
@@ -8956,8 +8941,7 @@
     ],
     "scDataviz": [
         "Seurat",
-        "plotly",
-        "scattermore"
+        "plotly"
     ],
     "scDblFinder": [
         "scran",
@@ -8993,8 +8977,7 @@
     ],
     "schex": [
         "Seurat",
-        "plotly",
-        "scattermore"
+        "plotly"
     ],
     "scHOT": [],
     "scifer": [
@@ -9002,8 +8985,7 @@
     ],
     "scMAGeCK": [
         "Seurat",
-        "plotly",
-        "scattermore"
+        "plotly"
     ],
     "scmap": [],
     "scMerge": [
@@ -9136,7 +9118,6 @@
         "scatterpie",
         "ggtree",
         "tidygraph",
-        "scattermore",
         "tidytree",
         "treeio"
     ],
@@ -9148,8 +9129,7 @@
         "schex",
         "annotate",
         "fields",
-        "Seurat",
-        "scattermore"
+        "Seurat"
     ],
     "scTreeViz": [
         "epivizr",
@@ -9167,7 +9147,6 @@
         "scuttle",
         "ggrastr",
         "plotly",
-        "scattermore",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache"
@@ -9488,7 +9467,6 @@
         "hgu95a.db",
         "ggrastr",
         "M3Drop",
-        "scattermore",
         "genefilter",
         "biomaRt",
         "org.Hs.eg.db",
@@ -9622,8 +9600,7 @@
         "DropletUtils",
         "scuttle",
         "ggrastr",
-        "plotly",
-        "scattermore"
+        "plotly"
     ],
     "sparrow": [
         "BiocSet",
@@ -9809,7 +9786,6 @@
         "SpatialExperiment",
         "Seurat",
         "plotly",
-        "scattermore",
         "DropletUtils",
         "BiocFileCache",
         "scuttle"
@@ -9917,7 +9893,6 @@
         "Seurat",
         "SpatialExperiment",
         "plotly",
-        "scattermore",
         "DropletUtils",
         "BiocFileCache",
         "scuttle"
@@ -10500,7 +10475,6 @@
     ],
     "tricycle": [
         "scater",
-        "scattermore",
         "scuttle",
         "ggrastr"
     ],
@@ -11012,12 +10986,10 @@
     "recipes": [],
     "org.Sc.sgd.db": [],
     "Seurat": [
-        "plotly",
-        "scattermore"
+        "plotly"
     ],
     "org.Hs.eg.db": [],
     "org.Mm.eg.db": [],
-    "scattermore": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
         "rtracklayer"
@@ -11993,8 +11965,7 @@
     ],
     "SoupX": [
         "Seurat",
-        "plotly",
-        "scattermore"
+        "plotly"
     ],
     "scRNAseq": [
         "ExperimentHub",
