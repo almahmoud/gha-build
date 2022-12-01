@@ -1833,7 +1833,6 @@
     "hermes": [
         "DESeq2"
     ],
-    "hiAnnotator": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
@@ -1871,9 +1870,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "hiReadsProcessor": [
-        "hiAnnotator"
-    ],
+    "hiReadsProcessor": [],
     "hpar": [],
     "HPiP": [],
     "HTSeqGenie": [
