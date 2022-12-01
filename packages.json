@@ -4653,7 +4653,6 @@
         "BiocFileCache",
         "annotate"
     ],
-    "InterMineR": [],
     "IONiseR": [
         "ShortRead"
     ],
