@@ -3284,9 +3284,7 @@
         "ggraph",
         "ggtree"
     ],
-    "mosbi": [
-        "QUBIC"
-    ],
+    "mosbi": [],
     "Motif2Site": [
         "BSgenome"
     ],
@@ -4187,7 +4185,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "QUBIC": [],
     "R3CPET": [
         "ggbio",
         "biovizBase",
