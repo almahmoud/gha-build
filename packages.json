@@ -3269,7 +3269,6 @@
         "progress"
     ],
     "casper": [
-        "gaga",
         "GenomicFeatures",
         "Rsamtools",
         "rtracklayer",
@@ -10259,7 +10258,6 @@
         "BSgenome",
         "dbplyr"
     ],
-    "gaga": [],
     "gage": [
         "KEGGREST",
         "AnnotationDbi",
