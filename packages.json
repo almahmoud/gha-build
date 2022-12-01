@@ -14260,7 +14260,6 @@
         "blob",
         "htmlwidgets"
     ],
-    "factDesign": [],
     "factR": [
         "Biostrings",
         "GenomeInfoDb",
