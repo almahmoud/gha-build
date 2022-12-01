@@ -2136,7 +2136,6 @@
     "arrayMvout": [
         "Biobase",
         "affy",
-        "mdqc",
         "affyContam",
         "lumi",
         "affydata",
@@ -33209,7 +33208,6 @@
         "vctrs",
         "pillar"
     ],
-    "mdqc": [],
     "MDTS": [
         "GenomicAlignments",
         "GenomicRanges",
