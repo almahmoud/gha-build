@@ -1030,7 +1030,6 @@
         "ggnetwork",
         "intergraph",
         "ggnewscale",
-        "GENIE3",
         "sna",
         "genefilter",
         "Hmisc",
@@ -1331,7 +1330,6 @@
         "ggnetwork",
         "intergraph",
         "ggnewscale",
-        "GENIE3",
         "Hmisc",
         "biovizBase",
         "GenomicAlignments",
@@ -4926,7 +4924,6 @@
         "org.Rn.eg.db",
         "GenomicAlignments"
     ],
-    "GENIE3": [],
     "genomation": [
         "BSgenome",
         "GenomicAlignments",
@@ -7344,7 +7341,6 @@
         "waldo"
     ],
     "MetNet": [
-        "GENIE3",
         "tidyr"
     ],
     "mfa": [
