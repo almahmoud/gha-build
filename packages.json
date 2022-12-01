@@ -11476,7 +11476,6 @@
         "testthat",
         "AnnotationDbi",
         "tidyverse",
-        "VarfromPDB",
         "org.Hs.eg.db",
         "dplyr",
         "waldo",
@@ -20698,7 +20697,6 @@
         "GenomicAlignments"
     ],
     "shinyjqui": [],
-    "VarfromPDB": [],
     "mppa": [],
     "ICSNP": [],
     "dnet": [
