@@ -339,7 +339,6 @@
     "BioNERO": [],
     "BioNetStat": [],
     "biosigner": [],
-    "BioTIP": [],
     "biovizBase": [
         "GenomicFeatures",
         "VariantAnnotation",
