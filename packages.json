@@ -1398,7 +1398,6 @@
         "Matrix",
         "DelayedArray",
         "NADA",
-        "truncnorm",
         "lambda.r",
         "RCurl",
         "GenomeInfoDbData",
@@ -7620,7 +7619,6 @@
         "dqrng",
         "permute",
         "NADA",
-        "truncnorm",
         "XML",
         "RSQLite",
         "KEGGREST",
@@ -11791,7 +11789,6 @@
         "randomForest",
         "IRanges",
         "S4Vectors",
-        "truncnorm",
         "mvtnorm",
         "Rcpp",
         "matrixcalc",
@@ -17726,7 +17723,6 @@
         "RcppEigen",
         "RcppNumerical",
         "Matrix",
-        "truncnorm",
         "mixsqp",
         "etrunct",
         "invgamma",
@@ -27029,7 +27025,6 @@
         "rlang",
         "S4Vectors",
         "Matrix",
-        "truncnorm",
         "mixsqp",
         "etrunct",
         "invgamma",
@@ -28486,7 +28481,6 @@
         "RcppEigen",
         "RcppNumerical",
         "Matrix",
-        "truncnorm",
         "mixsqp",
         "etrunct",
         "invgamma",
@@ -31215,7 +31209,6 @@
         "RcppEigen",
         "RcppNumerical",
         "Matrix",
-        "truncnorm",
         "mixsqp",
         "etrunct",
         "invgamma",
@@ -53189,7 +53182,6 @@
         "CODEX",
         "fields",
         "ggplot2",
-        "truncnorm",
         "tidyr",
         "dplyr",
         "rlang",
@@ -54766,7 +54758,6 @@
         "prettyunits",
         "zlibbioc",
         "Rhtslib",
-        "truncnorm",
         "restfulr",
         "farver",
         "labeling",
@@ -63103,7 +63094,6 @@
         "CNORode",
         "CellNOptR",
         "knitr",
-        "truncnorm",
         "snow",
         "RBGL",
         "graph",
@@ -63164,7 +63154,6 @@
         "cowplot",
         "magrittr",
         "mvtnorm",
-        "truncnorm",
         "assertthat",
         "BiocStyle",
         "bookdown",
@@ -67932,7 +67921,6 @@
         "MatrixGenerics",
         "zlibbioc",
         "NADA",
-        "truncnorm",
         "RSQLite",
         "KEGGREST",
         "sass",
@@ -68304,7 +68292,6 @@
         "bslib",
         "jquerylib",
         "tinytex",
-        "truncnorm",
         "httr",
         "selectr",
         "farver",
@@ -80109,7 +80096,6 @@
         "lattice",
         "mgcv",
         "NADA",
-        "truncnorm",
         "Rcpp",
         "RcppArmadillo",
         "futile.logger",
@@ -90554,7 +90540,6 @@
         "foreach",
         "doParallel",
         "abind",
-        "truncnorm",
         "CpGassoc",
         "shiny",
         "ggplot2",
@@ -95097,7 +95082,6 @@
         "vsn",
         "zlibbioc",
         "Rhtslib",
-        "truncnorm",
         "XML",
         "BiocIO",
         "restfulr",
@@ -109076,7 +109060,6 @@
         "dplyr",
         "foreach",
         "doParallel",
-        "truncnorm",
         "GenomicRanges",
         "IRanges",
         "Rsamtools",
@@ -110903,7 +110886,6 @@
         "shiny",
         "shinyjs",
         "sp",
-        "truncnorm",
         "rlang",
         "lattice",
         "generics",
@@ -112450,8 +112432,7 @@
     "SPEM": [
         "Rsolnp",
         "Biobase",
-        "BiocGenerics",
-        "truncnorm"
+        "BiocGenerics"
     ],
     "SPIA": [
         "KEGGgraph",
@@ -114520,7 +114501,6 @@
         "matrixStats",
         "GenomicAlignments",
         "digest",
-        "truncnorm",
         "RSQLite",
         "KEGGREST",
         "XML",
@@ -120011,7 +119991,6 @@
         "ipred",
         "lubridate",
         "BiocParallel",
-        "truncnorm",
         "XML",
         "GenomicAlignments",
         "restfulr",
@@ -120076,8 +120055,7 @@
         "modeltools",
         "class",
         "Rsolnp",
-        "lambda.r",
-        "truncnorm"
+        "lambda.r"
     ],
     "TNBC.CMS": [
         "e1071",
@@ -125592,7 +125570,6 @@
         "emdbook",
         "RcppEigen",
         "RcppNumerical",
-        "truncnorm",
         "mixsqp",
         "etrunct",
         "invgamma",
@@ -129107,7 +129084,6 @@
     ],
     "zCompositions": [
         "NADA",
-        "truncnorm",
         "survival",
         "Matrix",
         "lattice"
@@ -129127,7 +129103,6 @@
         "Matrix",
         "lattice"
     ],
-    "truncnorm": [],
     "RcppGSL": [
         "Rcpp"
     ],
@@ -137032,7 +137007,6 @@
     "ashr": [
         "Matrix",
         "Rcpp",
-        "truncnorm",
         "mixsqp",
         "etrunct",
         "invgamma",
@@ -141862,15 +141836,12 @@
     "depmixS4": [
         "Rsolnp",
         "nlme",
-        "lattice",
-        "truncnorm"
+        "lattice"
     ],
     "flock": [
         "Rcpp"
     ],
-    "Rsolnp": [
-        "truncnorm"
-    ],
+    "Rsolnp": [],
     "golem": [
         "attempt",
         "cli",
@@ -143613,7 +143584,6 @@
         "rlang",
         "tidyr",
         "cpp11",
-        "truncnorm",
         "backports",
         "ellipsis",
         "purrr",
