@@ -11623,7 +11623,6 @@
         "syuzhet",
         "hms",
         "vroom",
-        "MatrixExtra",
         "ggplot2",
         "mgcv",
         "progress"
@@ -18215,7 +18214,6 @@
         "syuzhet",
         "hms",
         "vroom",
-        "MatrixExtra",
         "selectr",
         "ggplot2",
         "mgcv",
@@ -48749,7 +48747,6 @@
         "syuzhet",
         "hms",
         "vroom",
-        "MatrixExtra",
         "tfautograph",
         "ggplot2",
         "mgcv",
@@ -49199,8 +49196,7 @@
         "quanteda",
         "textclean",
         "progress",
-        "syuzhet",
-        "MatrixExtra"
+        "syuzhet"
     ],
     "VanillaICE": [
         "GenomicRanges",
@@ -54624,8 +54620,7 @@
         "selectr"
     ],
     "text2vec": [
-        "rsparse",
-        "MatrixExtra"
+        "rsparse"
     ],
     "textstem": [
         "koRpus.lang.en",
@@ -54640,9 +54635,7 @@
         "syuzhet",
         "tidyr"
     ],
-    "rsparse": [
-        "MatrixExtra"
-    ],
+    "rsparse": [],
     "koRpus.lang.en": [],
     "lexicon": [
         "syuzhet",
@@ -54672,7 +54665,6 @@
         "vctrs",
         "pillar"
     ],
-    "MatrixExtra": [],
     "tseries": [
         "quantmod",
         "xts",
