@@ -74215,7 +74215,6 @@
         "jquerylib",
         "promises",
         "Matrix",
-        "paintmap",
         "httpuv",
         "mime",
         "fontawesome",
@@ -79578,7 +79577,6 @@
         "Rcpp",
         "Matrix",
         "nlme",
-        "paintmap",
         "askpass",
         "farver",
         "labeling",
@@ -108547,7 +108545,6 @@
         "base64enc",
         "png",
         "Biostrings",
-        "paintmap",
         "plyr",
         "stringr",
         "blob",
@@ -132362,12 +132359,10 @@
     ],
     "smatr": [],
     "ontologyPlot": [
-        "paintmap",
         "Rgraphviz",
         "graph",
         "BiocGenerics"
     ],
-    "paintmap": [],
     "distrEx": [
         "distr",
         "sfsmisc"
