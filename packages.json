@@ -27923,7 +27923,6 @@
         "BiocSingular",
         "ScaledMatrix"
     ],
-    "veloviz": [],
     "VennDetail": [
         "dplyr",
         "tibble",
