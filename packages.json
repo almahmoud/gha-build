@@ -664,7 +664,6 @@
         "tidyr",
         "dbplyr"
     ],
-    "awst": [],
     "BaalChIP": [
         "GenomicAlignments",
         "doBy",
