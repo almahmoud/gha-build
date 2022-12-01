@@ -15,7 +15,6 @@
     "abseqR": [
         "plotly"
     ],
-    "ACE": [],
     "ADaCGH2": [
         "tilingArray",
         "snapCGH",
