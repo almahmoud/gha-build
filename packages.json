@@ -37938,7 +37938,6 @@
         "rmarkdown",
         "scDblFinder",
         "metap",
-        "VAM",
         "tibble",
         "TSCAN",
         "TrajectoryUtils",
@@ -50163,7 +50162,6 @@
         "httpuv",
         "bslib"
     ],
-    "VAM": [],
     "hgu95a.db": [
         "AnnotationDbi",
         "org.Hs.eg.db",
