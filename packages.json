@@ -437,7 +437,6 @@
         "rtracklayer",
         "biomaRt"
     ],
-    "BANDITS": [],
     "bandle": [
         "MSnbase",
         "pRoloc",
@@ -2292,9 +2291,7 @@
         "waldo",
         "pbkrtest"
     ],
-    "DifferentialRegulation": [
-        "BANDITS"
-    ],
+    "DifferentialRegulation": [],
     "diffHic": [
         "BSgenome",
         "rtracklayer"
