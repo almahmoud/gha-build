@@ -50206,7 +50206,6 @@
         "loo",
         "pkgbuild",
         "ggdist",
-        "arrayhelpers",
         "posterior",
         "ellipsis",
         "distributional",
@@ -82792,7 +82791,6 @@
         "dplyr",
         "tidyr",
         "ggplot2",
-        "arrayhelpers",
         "tidyselect",
         "tibble",
         "posterior",
@@ -82819,7 +82817,6 @@
         "mgcv",
         "Matrix"
     ],
-    "arrayhelpers": [],
     "posterior": [
         "tibble",
         "vctrs",
