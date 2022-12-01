@@ -1066,7 +1066,6 @@
         "memoise",
         "Matrix",
         "highr",
-        "itertools",
         "doRNG",
         "hms",
         "RSpectra",
@@ -16867,7 +16866,6 @@
         "Matrix",
         "tfruns",
         "ellipsis",
-        "itertools",
         "RcppTOML",
         "processx",
         "tfautograph",
@@ -26395,7 +26393,6 @@
         "tidyr",
         "viridis",
         "visNetwork",
-        "itertools",
         "rsparse",
         "mlapi",
         "lgr",
@@ -34900,7 +34897,6 @@
         "recipes",
         "reshape2",
         "globals",
-        "itertools",
         "doRNG",
         "Biobase",
         "MatrixGenerics",
@@ -41985,7 +41981,6 @@
         "vctrs",
         "pillar",
         "foreach",
-        "itertools",
         "doRNG",
         "MatrixGenerics",
         "GenomicRanges",
@@ -49654,7 +49649,6 @@
         "tibble",
         "vctrs",
         "foreach",
-        "itertools",
         "doRNG",
         "Biobase",
         "MatrixGenerics",
@@ -50537,7 +50531,6 @@
         "ropls",
         "futile.logger",
         "foreach",
-        "itertools",
         "doRNG",
         "ggplot2",
         "plotly",
@@ -51097,7 +51090,6 @@
         "BiocIO",
         "biomaRt",
         "GO.db",
-        "itertools",
         "BiocParallel",
         "Rhtslib",
         "bit64",
@@ -53261,7 +53253,6 @@
         "GenomeInfoDb",
         "AnnotationDbi",
         "GO.db",
-        "itertools",
         "Biobase",
         "RSQLite",
         "KEGGREST",
@@ -55828,7 +55819,6 @@
         "pcaMethods",
         "mzID",
         "scales",
-        "itertools",
         "rvest",
         "dplyr",
         "purrr",
@@ -70913,7 +70903,6 @@
         "XVector",
         "mgcv",
         "ragg",
-        "itertools",
         "RcppEigen",
         "hms",
         "vroom",
@@ -73779,7 +73768,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "itertools",
         "doRNG",
         "RcppZiggurat",
         "RcppArmadillo",
@@ -73807,10 +73795,8 @@
     ],
     "missForest": [
         "foreach",
-        "itertools",
         "doRNG"
     ],
-    "itertools": [],
     "doRNG": [
         "foreach"
     ],
@@ -79022,9 +79008,7 @@
     "CatEncoders": [
         "Matrix"
     ],
-    "rcdk": [
-        "itertools"
-    ],
+    "rcdk": [],
     "webchem": [
         "httr",
         "rvest",
