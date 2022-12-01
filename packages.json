@@ -10434,7 +10434,6 @@
         "dplyr",
         "tidyselect"
     ],
-    "GSgalgoR": [],
     "GSReg": [
         "Homo.sapiens",
         "org.Hs.eg.db",
