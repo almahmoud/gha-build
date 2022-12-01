@@ -8268,7 +8268,6 @@
         "AnnotationHub",
         "BSgenome",
         "GenomicFeatures",
-        "mirbase.db",
         "Organism.dplyr",
         "plotgardener",
         "BiocVersion",
@@ -9477,7 +9476,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "mirbase.db": [],
     "msigdb": [
         "ExperimentHub",
         "GSEABase",
