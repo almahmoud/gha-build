@@ -1614,7 +1614,6 @@
         "hpar",
         "EnsDb.Hsapiens.v75",
         "MWASTools",
-        "mygene",
         "car",
         "pbkrtest",
         "lme4"
@@ -1958,7 +1957,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "mygene": [],
     "myvariant": [
         "VariantAnnotation"
     ],
