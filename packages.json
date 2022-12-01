@@ -6171,7 +6171,6 @@
         "rtracklayer",
         "biomaRt"
     ],
-    "QuartPAC": [],
     "QuasR": [
         "BSgenome",
         "GenomicFeatures",
