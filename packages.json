@@ -5846,9 +5846,7 @@
     "pram": [
         "rtracklayer"
     ],
-    "prebs": [
-        "RPA"
-    ],
+    "prebs": [],
     "preciseTAD": [
         "caret",
         "rCGH",
@@ -6705,7 +6703,6 @@
     "ropls": [
         "MultiAssayExperiment"
     ],
-    "RPA": [],
     "rpx": [],
     "Rqc": [
         "ShortRead",
