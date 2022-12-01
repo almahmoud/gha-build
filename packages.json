@@ -97,7 +97,6 @@
     ],
     "CancerInSilico": [],
     "CATALYST": [
-        "FlowSOM",
         "scater"
     ],
     "celda": [
@@ -110,8 +109,7 @@
         "scater"
     ],
     "censcyt": [
-        "diffcyt",
-        "FlowSOM"
+        "diffcyt"
     ],
     "CeTF": [
         "GenomicTools"
@@ -190,15 +188,12 @@
     "CyTOFpower": [
         "CytoGLMM",
         "diffcyt",
-        "factoextra",
-        "FlowSOM"
+        "factoextra"
     ],
     "CytoGLMM": [
         "factoextra"
     ],
-    "diffcyt": [
-        "FlowSOM"
-    ],
+    "diffcyt": [],
     "distinct": [
         "scater"
     ],
@@ -269,7 +264,6 @@
     "flowCL": [
         "SPARQL"
     ],
-    "FlowSOM": [],
     "FuseSOM": [],
     "GARS": [],
     "GDCRNATools": [
@@ -371,9 +365,7 @@
     "MetaboSignal": [
         "hpar"
     ],
-    "MetaCyto": [
-        "FlowSOM"
-    ],
+    "MetaCyto": [],
     "MethReg": [
         "sesameData",
         "sesame",
@@ -682,8 +674,7 @@
     ],
     "Travel": [],
     "treekoR": [
-        "diffcyt",
-        "FlowSOM"
+        "diffcyt"
     ],
     "tricycle": [
         "scater"
