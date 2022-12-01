@@ -102,7 +102,6 @@
     "anota2seq": [
         "DESeq2"
     ],
-    "AnVILPublish": [],
     "APAlyzer": [
         "GenomicFeatures",
         "DESeq2",
