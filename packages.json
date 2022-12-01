@@ -68259,7 +68259,6 @@
         "RCurl",
         "lambda.r"
     ],
-    "similaRpeak": [],
     "SIMLR": [
         "Matrix",
         "RcppAnnoy",
