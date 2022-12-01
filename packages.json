@@ -2092,7 +2092,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "Rbec": [],
     "RCAS": [],
     "rCGH": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
