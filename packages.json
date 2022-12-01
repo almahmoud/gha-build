@@ -354,7 +354,6 @@
     "celda": [
         "scater"
     ],
-    "cellHTS2": [],
     "CelliD": [
         "scater"
     ],
@@ -1173,9 +1172,7 @@
         "lmerTest",
         "lme4"
     ],
-    "gespeR": [
-        "cellHTS2"
-    ],
+    "gespeR": [],
     "GEWIST": [
         "car",
         "pbkrtest",
@@ -1308,9 +1305,7 @@
     "igvR": [
         "VariantAnnotation"
     ],
-    "imageHTS": [
-        "cellHTS2"
-    ],
+    "imageHTS": [],
     "IMAS": [
         "IVAS",
         "lme4"
@@ -2436,9 +2431,7 @@
     "rnaEditr": [
         "bumphunter"
     ],
-    "RNAinteract": [
-        "cellHTS2"
-    ],
+    "RNAinteract": [],
     "RNAmodR": [
         "Gviz",
         "biovizBase",
@@ -2799,9 +2792,7 @@
         "RUVSeq",
         "EDASeq"
     ],
-    "staRank": [
-        "cellHTS2"
-    ],
+    "staRank": [],
     "StarBioTrek": [
         "SpidermiR"
     ],
