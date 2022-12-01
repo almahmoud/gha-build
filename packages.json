@@ -214,9 +214,7 @@
     "bambu": [
         "GenomicFeatures"
     ],
-    "bandle": [
-        "pRoloc"
-    ],
+    "bandle": [],
     "Basic4Cseq": [
         "BSgenome.Ecoli.NCBI.20080805"
     ],
@@ -3098,10 +3096,7 @@
         "ggtree"
     ],
     "progeny": [],
-    "pRoloc": [],
-    "pRolocGUI": [
-        "pRoloc"
-    ],
+    "pRolocGUI": [],
     "PROPS": [],
     "Prostar": [
         "DAPAR"
