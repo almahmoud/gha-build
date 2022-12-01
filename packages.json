@@ -7321,7 +7321,6 @@
         "ggrepel",
         "shinyWidgets"
     ],
-    "ISLET": [],
     "isobar": [
         "biomaRt",
         "AnnotationDbi",
