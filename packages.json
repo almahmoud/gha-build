@@ -1088,7 +1088,6 @@
         "FDb.InfiniumMethylation.hg19"
     ],
     "MinimumDistance": [],
-    "miRLAB": [],
     "miRSM": [
         "miRspongeR",
         "SPONGE",
