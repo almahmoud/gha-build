@@ -1012,7 +1012,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "geneAttribution": [],
     "GeneGeneInteR": [
         "FactoMineR",
         "car",
