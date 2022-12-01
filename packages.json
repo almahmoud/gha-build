@@ -128,7 +128,6 @@
     ],
     "bioCancer": [
         "radiant.data",
-        "ReactomePA",
         "car",
         "pbkrtest"
     ],
@@ -580,8 +579,7 @@
         "pbkrtest"
     ],
     "epihet": [
-        "EntropyExplorer",
-        "ReactomePA"
+        "EntropyExplorer"
     ],
     "EpiMix": [
         "EpiMix.data",
@@ -1121,7 +1119,6 @@
     "miRSM": [
         "miRspongeR",
         "SPONGE",
-        "ReactomePA",
         "cvms",
         "ggpubr",
         "rstatix",
@@ -1130,7 +1127,6 @@
     ],
     "miRspongeR": [
         "SPONGE",
-        "ReactomePA",
         "cvms",
         "ggpubr",
         "rstatix",
@@ -1215,9 +1211,7 @@
         "karyoploteR",
         "biovizBase"
     ],
-    "multiSight": [
-        "ReactomePA"
-    ],
+    "multiSight": [],
     "MungeSumstats": [],
     "muscat": [
         "blme",
@@ -1383,9 +1377,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "Pigengene": [
-        "ReactomePA"
-    ],
+    "Pigengene": [],
     "PING": [
         "Gviz",
         "biovizBase"
@@ -1488,7 +1480,6 @@
         "BiocVersion"
     ],
     "rCGH": [],
-    "ReactomePA": [],
     "recount": [
         "derfinder",
         "GenomicFiles"
@@ -1675,7 +1666,6 @@
     ],
     "scTensor": [
         "AnnotationHub",
-        "ReactomePA",
         "BiocVersion"
     ],
     "scTreeViz": [
