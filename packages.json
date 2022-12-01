@@ -196,7 +196,6 @@
     "CytoGLMM": [
         "factoextra"
     ],
-    "dasper": [],
     "destiny": [],
     "diffcyt": [
         "FlowSOM"
@@ -452,9 +451,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "ODER": [
-        "dasper"
-    ],
+    "ODER": [],
     "OGRE": [
         "AnnotationHub",
         "BiocVersion"
