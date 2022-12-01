@@ -919,7 +919,6 @@
         "KEGGREST"
     ],
     "autonomics": [
-        "assertive",
         "BiocFileCache",
         "ggplot2",
         "ggrepel",
@@ -12597,7 +12596,6 @@
         "viridis"
     ],
     "multicrispr": [
-        "assertive",
         "BSgenome",
         "CRISPRseek",
         "GenomicFeatures",
@@ -21902,7 +21900,6 @@
         "RSQLite",
         "KEGGREST"
     ],
-    "assertive": [],
     "doBy": [
         "broom",
         "dplyr",
