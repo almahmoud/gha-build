@@ -1968,7 +1968,6 @@
     ],
     "EpiTxDb": [
         "GenomicFeatures",
-        "tRNAdbImport",
         "biomaRt"
     ],
     "epivizr": [
@@ -6308,7 +6307,6 @@
         "sva"
     ],
     "tripr": [],
-    "tRNAdbImport": [],
     "tRNAscanImport": [
         "BSgenome"
     ],
