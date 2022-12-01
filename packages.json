@@ -316,7 +316,6 @@
         "tidyselect",
         "pillar",
         "scuttle",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
@@ -514,7 +513,6 @@
         "RSQLite",
         "cellranger",
         "progress",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "uwot",
@@ -1528,7 +1526,6 @@
         "BiocSingular",
         "bluster",
         "ScaledMatrix",
-        "BiocNeighbors",
         "pillar"
     ],
     "BASiCStan": [
@@ -1546,7 +1543,6 @@
         "BiocSingular",
         "bluster",
         "ScaledMatrix",
-        "BiocNeighbors",
         "colourpicker",
         "miniUI",
         "shiny",
@@ -1563,7 +1559,6 @@
     "batchelor": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "BiocNeighbors",
         "BiocSingular",
         "scuttle",
         "ResidualMatrix",
@@ -1609,7 +1604,6 @@
         "ScaledMatrix",
         "tibble",
         "scuttle",
-        "BiocNeighbors",
         "ggbeeswarm",
         "viridis",
         "uwot",
@@ -1770,7 +1764,6 @@
         "RSQLite",
         "KEGGREST",
         "cellranger",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "ggrastr",
@@ -2038,7 +2031,6 @@
         "Biostrings",
         "blob"
     ],
-    "BiocNeighbors": [],
     "BiocOncoTK": [
         "bigrquery",
         "shiny",
@@ -2457,8 +2449,7 @@
         "SummarizedExperiment",
         "BiocSingular",
         "bluster",
-        "ScaledMatrix",
-        "BiocNeighbors"
+        "ScaledMatrix"
     ],
     "biotmle": [
         "dplyr",
@@ -2636,9 +2627,7 @@
         "shiny",
         "Biostrings"
     ],
-    "bluster": [
-        "BiocNeighbors"
-    ],
+    "bluster": [],
     "bnbc": [
         "SummarizedExperiment",
         "sva",
@@ -3267,7 +3256,6 @@
         "ggpubr",
         "tidyr",
         "scuttle",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
@@ -3468,7 +3456,6 @@
         "multipanelfigure",
         "tibble",
         "scuttle",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
@@ -3548,7 +3535,6 @@
         "cowplot",
         "tibble",
         "scuttle",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
@@ -3608,7 +3594,6 @@
         "rematch2"
     ],
     "CellMixS": [
-        "BiocNeighbors",
         "ggplot2",
         "scater",
         "viridis",
@@ -4341,7 +4326,6 @@
         "SummarizedExperiment",
         "msigdbr",
         "forcats",
-        "BiocNeighbors",
         "BiocSingular",
         "scuttle",
         "ResidualMatrix",
@@ -4566,7 +4550,6 @@
         "BiocSingular",
         "bluster",
         "ScaledMatrix",
-        "BiocNeighbors",
         "tidyselect",
         "pillar",
         "tweenr",
@@ -5313,7 +5296,6 @@
         "ggrepel",
         "readr",
         "scuttle",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
@@ -5372,7 +5354,6 @@
         "caret",
         "recipes",
         "scuttle",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
@@ -6246,7 +6227,6 @@
         "viridis",
         "shiny",
         "SummarizedExperiment",
-        "BiocNeighbors",
         "ggplot2",
         "tibble",
         "pillar"
@@ -7425,7 +7405,6 @@
         "spatstat.explore",
         "tibble",
         "uwot",
-        "BiocNeighbors",
         "tidyr",
         "dplyr",
         "spatstat.random",
@@ -7474,7 +7453,6 @@
         "scater",
         "tibble",
         "scuttle",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
@@ -9006,7 +8984,6 @@
         "AnnotationDbi",
         "BiocSingular",
         "babelgene",
-        "BiocNeighbors",
         "RSQLite",
         "KEGGREST",
         "ScaledMatrix",
@@ -9665,7 +9642,6 @@
         "GGally",
         "ensembldb",
         "AnnotationFilter",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
@@ -12805,7 +12781,6 @@
         "dplyr",
         "SingleCellExperiment",
         "vroom",
-        "BiocNeighbors",
         "ggraph",
         "tidygraph",
         "ggplot2",
@@ -13256,7 +13231,6 @@
         "tidygraph",
         "scuttle",
         "SummarizedExperiment",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "uwot",
@@ -15900,7 +15874,6 @@
         "ggplot2",
         "tidyselect",
         "pillar",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
@@ -15955,7 +15928,6 @@
         "Biostrings",
         "DECIPHER",
         "scuttle",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "uwot",
@@ -16095,7 +16067,6 @@
         "prodlim",
         "cellranger",
         "progress",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "uwot",
@@ -16221,7 +16192,6 @@
         "pillar"
     ],
     "miloR": [
-        "BiocNeighbors",
         "SingleCellExperiment",
         "cowplot",
         "BiocSingular",
@@ -17315,8 +17285,7 @@
         "SummarizedExperiment",
         "BiocSingular",
         "bluster",
-        "ScaledMatrix",
-        "BiocNeighbors"
+        "ScaledMatrix"
     ],
     "mslp": [
         "org.Hs.eg.db",
@@ -17837,7 +17806,6 @@
     "mumosa": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "BiocNeighbors",
         "BiocSingular",
         "ScaledMatrix",
         "scuttle",
@@ -17892,7 +17860,6 @@
         "tidyselect",
         "pillar",
         "nloptr",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "uwot",
@@ -18518,7 +18485,6 @@
         "mbkmeans",
         "scuttle",
         "ggplot2",
-        "BiocNeighbors",
         "ggbeeswarm",
         "viridis",
         "uwot",
@@ -19975,7 +19941,6 @@
         "SummarizedExperiment",
         "scuttle",
         "ggplot2",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
@@ -20424,7 +20389,6 @@
         "tidyselect",
         "pillar",
         "scuttle",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
@@ -24217,7 +24181,6 @@
         "scuttle",
         "ggplot2",
         "SummarizedExperiment",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
@@ -24393,7 +24356,6 @@
     ],
     "scDblFinder": [
         "SingleCellExperiment",
-        "BiocNeighbors",
         "BiocSingular",
         "SummarizedExperiment",
         "scran",
@@ -24431,7 +24393,6 @@
         "BiocSingular",
         "bluster",
         "ScaledMatrix",
-        "BiocNeighbors",
         "nloptr",
         "waldo",
         "pillar",
@@ -24773,7 +24734,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "scuttle",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
@@ -24793,8 +24753,7 @@
         "SummarizedExperiment",
         "BiocSingular",
         "bluster",
-        "ScaledMatrix",
-        "BiocNeighbors"
+        "ScaledMatrix"
     ],
     "scReClassify": [
         "SummarizedExperiment",
@@ -25025,7 +24984,6 @@
         "tibble",
         "ggforce",
         "scuttle",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "uwot",
@@ -25841,8 +25799,7 @@
         "SummarizedExperiment",
         "BiocSingular",
         "bluster",
-        "ScaledMatrix",
-        "BiocNeighbors"
+        "ScaledMatrix"
     ],
     "singleCellTK": [
         "SummarizedExperiment",
@@ -25899,7 +25856,6 @@
         "BiocVersion",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "BiocNeighbors",
         "BiocSingular",
         "ResidualMatrix",
         "ScaledMatrix",
@@ -25984,7 +25940,6 @@
     "SingleR": [
         "SummarizedExperiment",
         "BiocSingular",
-        "BiocNeighbors",
         "ScaledMatrix"
     ],
     "singscore": [
@@ -26287,7 +26242,6 @@
         "tidyselect",
         "pillar",
         "scuttle",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
@@ -26484,7 +26438,6 @@
         "AnnotationDbi",
         "annotate",
         "tidyr",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
@@ -26658,7 +26611,6 @@
         "SummarizedExperiment",
         "tibble",
         "scuttle",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
@@ -28883,7 +28835,6 @@
         "tidyselect",
         "pillar",
         "scuttle",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
@@ -29068,7 +29019,6 @@
         "GenomicAlignments"
     ],
     "UCell": [
-        "BiocNeighbors",
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
@@ -29260,7 +29210,6 @@
         "tfruns",
         "scuttle",
         "ggplot2",
-        "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
         "uwot",
@@ -29603,7 +29552,6 @@
         "SpatialFeatureExperiment",
         "spdep",
         "SummarizedExperiment",
-        "BiocNeighbors",
         "tibble",
         "DropletUtils",
         "BiocFileCache",
