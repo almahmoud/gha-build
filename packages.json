@@ -3638,7 +3638,6 @@
         "BiocVersion",
         "VariantAnnotation"
     ],
-    "PrInCE": [],
     "proActiv": [
         "DESeq2",
         "GenomicFeatures"
