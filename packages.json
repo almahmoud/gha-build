@@ -1365,9 +1365,7 @@
         "lme4",
         "nloptr"
     ],
-    "GENESIS": [
-        "GWASTools"
-    ],
+    "GENESIS": [],
     "GeneStructureTools": [
         "Gviz",
         "ensembldb",
@@ -1532,9 +1530,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "GWASTools": [],
     "gwasurvivr": [
-        "GWASTools",
         "VariantAnnotation"
     ],
     "HelloRanges": [
@@ -1864,9 +1860,7 @@
         "lmerTest",
         "nloptr"
     ],
-    "mBPCR": [
-        "GWASTools"
-    ],
+    "mBPCR": [],
     "mCSEA": [
         "Homo.sapiens",
         "Gviz",
