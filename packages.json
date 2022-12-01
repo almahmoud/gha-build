@@ -100,7 +100,6 @@
         "BiocVersion"
     ],
     "atSNP": [],
-    "attract": [],
     "BaalChIP": [
         "doBy",
         "pbkrtest"
