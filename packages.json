@@ -31853,7 +31853,6 @@
         "alphahull",
         "spatstat.explore",
         "xROI",
-        "elsa",
         "umap",
         "SummarizedExperiment",
         "spatstat.random",
@@ -40865,7 +40864,6 @@
         "tibble",
         "pillar"
     ],
-    "elsa": [],
     "miRNAtap.db": [
         "miRNAtap",
         "AnnotationDbi",
