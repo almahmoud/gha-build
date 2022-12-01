@@ -1085,7 +1085,6 @@
         "DESeq2",
         "GenomicFeatures"
     ],
-    "Dino": [],
     "distinct": [
         "scater"
     ],
