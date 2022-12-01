@@ -70,7 +70,6 @@
         "ensembldb",
         "biomaRt"
     ],
-    "affylmGUI": [],
     "AGDEX": [
         "GSEABase"
     ],
