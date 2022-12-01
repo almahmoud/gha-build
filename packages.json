@@ -4469,7 +4469,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "purrr",
-        "tokenizers",
         "treeio",
         "softImpute",
         "genefilter",
@@ -16941,7 +16940,6 @@
         "tensorflow",
         "CatEncoders",
         "rcdk",
-        "tokenizers",
         "webchem",
         "purrr",
         "ttgsea",
@@ -26497,7 +26495,6 @@
         "reticulate",
         "Matrix",
         "rcdk",
-        "tokenizers",
         "webchem",
         "purrr",
         "tfruns",
@@ -28680,8 +28677,7 @@
         "mgcv",
         "scales",
         "Matrix",
-        "purrr",
-        "tokenizers"
+        "purrr"
     ],
     "gsean": [
         "fgsea",
@@ -30335,7 +30331,6 @@
         "cachem",
         "R.cache",
         "Matrix",
-        "tokenizers",
         "R.utils"
     ],
     "HumanTranscriptomeCompendium": [
@@ -70603,7 +70598,6 @@
     "ttgsea": [
         "keras",
         "text2vec",
-        "tokenizers",
         "textstem",
         "purrr",
         "DiagrammeR",
@@ -71220,7 +71214,6 @@
         "DiagrammeR",
         "Matrix",
         "rcdk",
-        "tokenizers",
         "webchem",
         "ttgsea",
         "reticulate",
@@ -76134,7 +76127,6 @@
         "Matrix",
         "purrr",
         "tibble",
-        "tokenizers",
         "vctrs",
         "tidyselect",
         "pillar"
@@ -76153,7 +76145,6 @@
         "survival",
         "mitools"
     ],
-    "tokenizers": [],
     "softImpute": [
         "Matrix"
     ],
@@ -80670,7 +80661,6 @@
         "dplyr",
         "Matrix",
         "purrr",
-        "tokenizers",
         "tidyselect"
     ],
     "aws.s3": [
