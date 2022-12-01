@@ -6550,7 +6550,6 @@
         "MultiAssayExperiment",
         "BiocFileCache"
     ],
-    "nethet": [],
     "netOmics": [
         "GO.db",
         "RandomWalkRestartMH",
