@@ -7170,7 +7170,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "cubature",
         "quantreg",
         "munsell",
         "gam",
@@ -21450,9 +21449,7 @@
         "RCurl",
         "XVector"
     ],
-    "dks": [
-        "cubature"
-    ],
+    "dks": [],
     "DMCFB": [
         "SummarizedExperiment",
         "S4Vectors",
@@ -44369,7 +44366,6 @@
         "scales",
         "Matrix",
         "ape",
-        "cubature",
         "quantreg",
         "nlme",
         "forcats",
@@ -57749,7 +57745,6 @@
         "lifecycle"
     ],
     "powerTCR": [
-        "cubature",
         "doParallel",
         "evmix",
         "foreach",
@@ -69672,7 +69667,6 @@
         "viridis",
         "graphlayouts",
         "Matrix",
-        "cubature",
         "evmix",
         "purrr",
         "truncdist",
@@ -88570,7 +88564,6 @@
         "future.apply",
         "future",
         "globals",
-        "cubature",
         "quantreg",
         "gam",
         "cvAUC",
@@ -88591,13 +88584,11 @@
         "caTools"
     ],
     "np": [
-        "cubature",
         "quantreg",
         "Matrix",
         "MatrixModels",
         "survival"
     ],
-    "cubature": [],
     "gam": [
         "foreach"
     ],
@@ -94085,7 +94076,6 @@
         "Matrix",
         "coda",
         "ape",
-        "cubature",
         "nlme"
     ],
     "shinycustomloader": [
