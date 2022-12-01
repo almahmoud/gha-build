@@ -15248,7 +15248,6 @@
         "viridis",
         "knitr",
         "checkmate",
-        "multicool",
         "TH.data",
         "MatrixModels",
         "highr",
@@ -20921,7 +20920,6 @@
         "viper",
         "Matrix",
         "mgcv",
-        "multicool",
         "plot3D",
         "mixtools",
         "e1071",
@@ -26138,7 +26136,6 @@
         "progress",
         "lambda.r",
         "locfit",
-        "multicool",
         "plot3D"
     ],
     "fCI": [
@@ -27206,7 +27203,6 @@
         "pcaPP",
         "Matrix",
         "mgcv",
-        "multicool",
         "nlme"
     ],
     "flowMerge": [
@@ -27226,7 +27222,6 @@
         "pcaPP",
         "Matrix",
         "mgcv",
-        "multicool",
         "nlme"
     ],
     "flowPloidy": [
@@ -27383,7 +27378,6 @@
         "DelayedArray",
         "Matrix",
         "mgcv",
-        "multicool",
         "plot3D",
         "robustbase",
         "pcaPP",
@@ -27465,7 +27459,6 @@
         "DelayedArray",
         "Matrix",
         "mgcv",
-        "multicool",
         "plot3D",
         "interp",
         "robustbase",
@@ -27782,7 +27775,6 @@
         "ggplot2",
         "Matrix",
         "mgcv",
-        "multicool",
         "plot3D",
         "lifecycle",
         "scales",
@@ -27866,7 +27858,6 @@
         "locfit",
         "ggplot2",
         "mgcv",
-        "multicool",
         "plot3D",
         "scales",
         "tibble",
@@ -37642,7 +37633,6 @@
         "ggplot2",
         "Matrix",
         "mgcv",
-        "multicool",
         "plot3D",
         "lifecycle",
         "scales",
@@ -50542,7 +50532,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "multicool",
         "plot3D",
         "cowplot",
         "fitdistrplus",
@@ -51819,7 +51808,6 @@
         "vctrs",
         "SummarizedExperiment",
         "Matrix",
-        "multicool",
         "plot3D",
         "dplyr",
         "tidyselect",
@@ -53551,7 +53539,6 @@
         "RcppGSL",
         "pcaPP",
         "mgcv",
-        "multicool",
         "nlme"
     ],
     "OPWeight": [
@@ -56413,7 +56400,6 @@
         "knitr",
         "checkmate",
         "htmlwidgets",
-        "multicool",
         "plot3D",
         "cachem",
         "askpass",
@@ -61388,7 +61374,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "multicool",
         "plot3D",
         "ade4",
         "ape",
@@ -80858,7 +80843,6 @@
         "hdrcde",
         "ks",
         "ellipsis",
-        "multicool",
         "plot3D"
     ],
     "uncoverappLib": [
@@ -89747,17 +89731,14 @@
         "plot3D",
         "Matrix",
         "mgcv",
-        "multicool",
         "nlme"
     ],
     "ks": [
         "Matrix",
         "mgcv",
-        "multicool",
         "plot3D",
         "nlme"
     ],
-    "multicool": [],
     "airway": [
         "SummarizedExperiment",
         "MatrixGenerics",
@@ -91175,7 +91156,6 @@
         "ggplot2",
         "Matrix",
         "mgcv",
-        "multicool",
         "plot3D",
         "lifecycle",
         "scales",
@@ -91195,7 +91175,6 @@
         "ggplot2",
         "Matrix",
         "mgcv",
-        "multicool",
         "plot3D",
         "lifecycle",
         "scales",
@@ -91213,7 +91192,6 @@
         "ggplot2",
         "Matrix",
         "mgcv",
-        "multicool",
         "plot3D",
         "lifecycle",
         "scales",
@@ -91233,7 +91211,6 @@
         "tibble",
         "vctrs",
         "Matrix",
-        "multicool",
         "plot3D",
         "nlme",
         "munsell",
