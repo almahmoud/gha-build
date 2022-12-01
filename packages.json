@@ -2985,18 +2985,13 @@
         "rio",
         "haven"
     ],
-    "iSEE": [],
-    "iSEEhex": [
-        "iSEE"
-    ],
+    "iSEEhex": [],
     "iSEEhub": [
         "ExperimentHub",
         "AnnotationHub",
-        "iSEE",
         "BiocVersion"
     ],
     "iSEEu": [
-        "iSEE",
         "iSEEhex"
     ],
     "isobar": [
