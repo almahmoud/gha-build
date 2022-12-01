@@ -1899,7 +1899,6 @@
         "XVector",
         "DelayedArray"
     ],
-    "basilisk": [],
     "batchelor": [
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -2596,7 +2595,6 @@
     ],
     "BiocSklearn": [
         "SummarizedExperiment",
-        "basilisk",
         "GenomicRanges",
         "DelayedArray",
         "XVector"
@@ -4154,7 +4152,6 @@
         "DT",
         "vroom",
         "dplyr",
-        "basilisk",
         "shinyBS",
         "shinycssloaders",
         "rintrojs",
@@ -7066,7 +7063,6 @@
         "Rsamtools",
         "readr",
         "crisprScoreData",
-        "basilisk",
         "biomaRt",
         "GenomicAlignments",
         "SummarizedExperiment",
@@ -7091,7 +7087,6 @@
     ],
     "crisprScore": [
         "crisprScoreData",
-        "basilisk",
         "Biostrings",
         "XVector",
         "ExperimentHub",
@@ -7215,7 +7210,6 @@
         "rtracklayer",
         "VariantAnnotation",
         "crisprScoreData",
-        "basilisk",
         "XVector",
         "Gviz",
         "RSQLite",
@@ -7280,7 +7274,6 @@
         "AnnotationFilter",
         "readr",
         "crisprScoreData",
-        "basilisk",
         "blob",
         "dbplyr",
         "dplyr",
@@ -7927,7 +7920,6 @@
     ],
     "DART": [],
     "dasper": [
-        "basilisk",
         "BiocFileCache",
         "dplyr",
         "GenomicFeatures",
@@ -8523,9 +8515,7 @@
         "tibble",
         "pillar"
     ],
-    "densvis": [
-        "basilisk"
-    ],
+    "densvis": [],
     "DEP": [
         "ggplot2",
         "dplyr",
@@ -11644,7 +11634,6 @@
         "pillar"
     ],
     "FLAMES": [
-        "basilisk",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "MultiAssayExperiment",
@@ -17172,7 +17161,6 @@
         "pillar"
     ],
     "MACSr": [
-        "basilisk",
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
@@ -20390,7 +20378,6 @@
         "forcats",
         "DelayedArray",
         "uwot",
-        "basilisk",
         "tibble",
         "tidyselect",
         "pillar"
@@ -22669,7 +22656,6 @@
         "tibble",
         "dbplyr",
         "RSQLite",
-        "basilisk",
         "GenomicFeatures",
         "plyranges",
         "readr",
@@ -26500,7 +26486,6 @@
         "batchtools",
         "DiagrammeR",
         "shiny",
-        "basilisk",
         "progress",
         "dplyr",
         "influenceR",
@@ -26525,7 +26510,6 @@
         "batchtools",
         "DiagrammeR",
         "shiny",
-        "basilisk",
         "progress",
         "blob",
         "pillar",
@@ -31022,7 +31006,6 @@
         "XVector"
     ],
     "SimBu": [
-        "basilisk",
         "dplyr",
         "ggplot2",
         "phyloseq",
@@ -31531,9 +31514,7 @@
         "XVector",
         "DelayedArray"
     ],
-    "snifter": [
-        "basilisk"
-    ],
+    "snifter": [],
     "snm": [
         "lme4",
         "nloptr",
@@ -31795,7 +31776,6 @@
         "progress"
     ],
     "spatialDE": [
-        "basilisk",
         "SpatialExperiment",
         "SummarizedExperiment",
         "ggplot2",
@@ -35526,7 +35506,6 @@
         "tidyselect"
     ],
     "VDJdive": [
-        "basilisk",
         "cowplot",
         "ggplot2",
         "SingleCellExperiment",
@@ -35557,7 +35536,6 @@
     "velociraptor": [
         "SummarizedExperiment",
         "DelayedArray",
-        "basilisk",
         "zellkonverter",
         "scuttle",
         "SingleCellExperiment",
@@ -36210,7 +36188,6 @@
         "GenomicAlignments"
     ],
     "zellkonverter": [
-        "basilisk",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "DelayedArray",
