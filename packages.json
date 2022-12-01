@@ -141976,7 +141976,6 @@
         "knitr",
         "limma",
         "MASS",
-        "mefa",
         "nls2",
         "openxlsx",
         "plyr",
@@ -175689,7 +175688,6 @@
         "magrittr",
         "curl"
     ],
-    "mefa": [],
     "tractor.base": [
         "ore",
         "reportr",
