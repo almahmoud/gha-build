@@ -261,9 +261,7 @@
         "SPARQL"
     ],
     "GARS": [],
-    "GDCRNATools": [
-        "survminer"
-    ],
+    "GDCRNATools": [],
     "GeneAccord": [],
     "GenomicScores": [
         "AnnotationHub",
@@ -272,9 +270,7 @@
     "GEOexplorer": [
         "factoextra"
     ],
-    "glmSparseNet": [
-        "survminer"
-    ],
+    "glmSparseNet": [],
     "GSEABenchmarkeR": [
         "AnnotationHub",
         "ExperimentHub",
@@ -299,9 +295,7 @@
         "factoextra"
     ],
     "IntEREst": [],
-    "iPath": [
-        "survminer"
-    ],
+    "iPath": [],
     "ipdDb": [
         "AnnotationHub",
         "BiocVersion"
@@ -320,9 +314,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "ivygapSE": [
-        "survminer"
-    ],
+    "ivygapSE": [],
     "kissDE": [
         "factoextra"
     ],
@@ -440,18 +432,14 @@
     "OMICsPCA": [
         "factoextra"
     ],
-    "omicsViewer": [
-        "survminer"
-    ],
+    "omicsViewer": [],
     "onlineFDR": [],
     "ontoProc": [
         "AnnotationHub",
         "BiocVersion"
     ],
     "orthogene": [],
-    "PDATK": [
-        "survminer"
-    ],
+    "PDATK": [],
     "peco": [
         "scater"
     ],
@@ -530,9 +518,7 @@
         "factoextra"
     ],
     "RnaSeqSampleSize": [],
-    "RTCGA": [
-        "survminer"
-    ],
+    "RTCGA": [],
     "RTNsurvival": [],
     "scanMiRApp": [
         "AnnotationHub",
@@ -588,12 +574,9 @@
         "BiocVersion"
     ],
     "signeR": [
-        "survivalAnalysis",
-        "survminer"
+        "survivalAnalysis"
     ],
-    "signifinder": [
-        "survminer"
-    ],
+    "signifinder": [],
     "singleCellTK": [
         "AnnotationHub",
         "celldex",
@@ -630,9 +613,7 @@
     ],
     "SPONGE": [],
     "Statial": [],
-    "survtype": [
-        "survminer"
-    ],
+    "survtype": [],
     "TADCompare": [],
     "TargetDecoy": [],
     "TCGAbiolinksGUI": [
@@ -764,7 +745,6 @@
         "BiocVersion"
     ],
     "SPARQL": [],
-    "survminer": [],
     "HiContactsData": [
         "ExperimentHub",
         "AnnotationHub",
@@ -829,9 +809,7 @@
         "BiocVersion"
     ],
     "Rmagic": [],
-    "survivalAnalysis": [
-        "survminer"
-    ],
+    "survivalAnalysis": [],
     "celldex": [
         "ExperimentHub",
         "AnnotationHub",
