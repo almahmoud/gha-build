@@ -8736,7 +8736,6 @@
     ],
     "PECA": [
         "genefilter",
-        "aroma.affymetrix",
         "annotate"
     ],
     "peco": [
@@ -12281,7 +12280,6 @@
         "treeio"
     ],
     "TIN": [
-        "aroma.affymetrix",
         "WGCNA",
         "Hmisc",
         "GO.db"
@@ -14169,7 +14167,6 @@
     "verification": [
         "fields"
     ],
-    "aroma.affymetrix": [],
     "tidybayes": [
         "ggdist",
         "tidyr",
