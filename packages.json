@@ -3678,7 +3678,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "seq2pathway": [],
     "seqCAT": [
         "VariantAnnotation",
         "GenomicFeatures"
