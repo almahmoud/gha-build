@@ -11199,9 +11199,7 @@
         "Biostrings",
         "Rsamtools"
     ],
-    "GRridge": [
-        "penalized"
-    ],
+    "GRridge": [],
     "GSCA": [
         "shiny",
         "ggplot2",
@@ -17714,7 +17712,6 @@
         "GO.db",
         "org.Hs.eg.db",
         "vegan",
-        "penalized",
         "ggplot2",
         "ggdendro",
         "tidyr",
@@ -23651,7 +23648,6 @@
         "SingleCellExperiment"
     ],
     "scRecover": [
-        "penalized",
         "SAVER",
         "Rmagic"
     ],
@@ -31147,7 +31143,6 @@
         "rmarkdown"
     ],
     "sf": [],
-    "penalized": [],
     "ggwordcloud": [
         "ggplot2",
         "tibble"
