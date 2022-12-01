@@ -1874,8 +1874,7 @@
     ],
     "GENESIS": [
         "GWASTools",
-        "SeqVarTools",
-        "logistf"
+        "SeqVarTools"
     ],
     "GeneStructureTools": [
         "BSgenome.Mmusculus.UCSC.mm10",
@@ -2113,13 +2112,10 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "GWASTools": [
-        "logistf"
-    ],
+    "GWASTools": [],
     "gwasurvivr": [
         "GWASTools",
         "VariantAnnotation",
-        "logistf",
         "GenomicFeatures"
     ],
     "GWENA": [],
@@ -2565,8 +2561,7 @@
     ],
     "mbOmic": [],
     "mBPCR": [
-        "GWASTools",
-        "logistf"
+        "GWASTools"
     ],
     "MCbiclust": [],
     "mCSEA": [
@@ -3571,7 +3566,6 @@
     ],
     "PhenStat": [
         "car",
-        "logistf",
         "lme4",
         "pbkrtest",
         "nloptr",
@@ -4117,7 +4111,6 @@
     ],
     "rnaEditr": [
         "bumphunter",
-        "logistf",
         "GenomicFeatures"
     ],
     "RNAinteract": [
@@ -4436,9 +4429,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "SeqVarTools": [
-        "logistf"
-    ],
+    "SeqVarTools": [],
     "sesame": [
         "sesameData",
         "ExperimentHub",
@@ -5079,8 +5070,7 @@
         "GenomicFeatures"
     ],
     "VariantExperiment": [
-        "SeqVarTools",
-        "logistf"
+        "SeqVarTools"
     ],
     "VariantFiltering": [
         "VariantAnnotation",
@@ -5527,7 +5517,6 @@
         "nloptr",
         "testthat"
     ],
-    "logistf": [],
     "shinyHeatmaply": [],
     "HiContactsData": [
         "ExperimentHub",
