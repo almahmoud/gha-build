@@ -2324,7 +2324,6 @@
         "scater"
     ],
     "spaSim": [],
-    "spatialDE": [],
     "SpatialDecon": [
         "GeomxTools",
         "lmerTest",
