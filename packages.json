@@ -1144,9 +1144,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fCCAC": [
-        "fda"
-    ],
+    "fCCAC": [],
     "fcoex": [
         "clusterProfiler",
         "enrichplot"
@@ -1205,12 +1203,9 @@
         "lme4",
         "nloptr"
     ],
-    "flowStats": [
-        "fda"
-    ],
+    "flowStats": [],
     "flowVS": [
-        "flowStats",
-        "fda"
+        "flowStats"
     ],
     "fobitools": [
         "textclean"
@@ -1225,12 +1220,8 @@
         "lme4",
         "nloptr"
     ],
-    "FRGEpistasis": [
-        "fda"
-    ],
-    "FunChIP": [
-        "fda"
-    ],
+    "FRGEpistasis": [],
+    "FunChIP": [],
     "funtooNorm": [
         "minfi",
         "IlluminaHumanMethylation450kmanifest",
@@ -1631,9 +1622,7 @@
         "lme4",
         "nloptr"
     ],
-    "IWTomics": [
-        "fda"
-    ],
+    "IWTomics": [],
     "karyoploteR": [
         "biovizBase",
         "VariantAnnotation",
@@ -2470,7 +2459,6 @@
     ],
     "PING": [
         "Gviz",
-        "fda",
         "ensembldb",
         "biovizBase",
         "VariantAnnotation"
@@ -3397,8 +3385,7 @@
         "BiocVersion"
     ],
     "UMI4Cats": [
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "fda"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "uncoverappLib": [
         "Gviz",
@@ -3731,7 +3718,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "fda": [],
     "SPARQL": [],
     "NHPoisson": [
         "car",
