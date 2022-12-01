@@ -4182,7 +4182,6 @@
         "readr"
     ],
     "miRNAmeConverter": [],
-    "miRNAtap": [],
     "miRSM": [
         "WGCNA",
         "iBBiG",
@@ -6716,7 +6715,6 @@
         "waldo"
     ],
     "SpidermiR": [
-        "miRNAtap",
         "miRNAtap.db"
     ],
     "spiky": [
@@ -6833,7 +6831,6 @@
     ],
     "StarBioTrek": [
         "SpidermiR",
-        "miRNAtap",
         "miRNAtap.db"
     ],
     "Statial": [
@@ -8316,9 +8313,7 @@
     "hgu95a.db": [],
     "sampSurf": [],
     "xROI": [],
-    "miRNAtap.db": [
-        "miRNAtap"
-    ],
+    "miRNAtap.db": [],
     "MESS": [
         "geepack",
         "ggformula",
