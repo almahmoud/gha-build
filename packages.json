@@ -8346,7 +8346,6 @@
     ],
     "Rmmquant": [
         "devtools",
-        "TBX20BamSubset",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "org.Mm.eg.db",
         "DESeq2",
@@ -11677,7 +11676,6 @@
         "BiocFileCache",
         "BiocVersion"
     ],
-    "TBX20BamSubset": [],
     "scanMiRData": [
         "scanMiR"
     ],
