@@ -2508,7 +2508,6 @@
     ],
     "genomes": [],
     "GenomicDataCommons": [],
-    "GenomicDistributions": [],
     "GenomicFeatures": [
         "biomaRt"
     ],
