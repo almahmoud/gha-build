@@ -25945,7 +25945,6 @@
     ],
     "IPO": [
         "xcms",
-        "rsm",
         "CAMERA",
         "BiocParallel",
         "futile.logger",
@@ -64861,7 +64860,6 @@
     "wordcloud2": [
         "htmlwidgets"
     ],
-    "rsm": [],
     "AdaptGauss": [
         "shiny",
         "DataVisualizations",
