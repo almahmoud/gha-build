@@ -4423,7 +4423,6 @@
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
-        "mitools",
         "tidytree",
         "dqrng",
         "NADA",
@@ -16099,8 +16098,7 @@
         "mgcv",
         "scales",
         "Matrix",
-        "survival",
-        "mitools"
+        "survival"
     ],
     "debCAM": [
         "BiocParallel",
@@ -22195,7 +22193,6 @@
         "plotly",
         "knitr",
         "survival",
-        "mitools",
         "lifecycle",
         "tibble",
         "tidyselect",
@@ -43651,8 +43648,7 @@
         "Biobase",
         "statnet.common",
         "survey",
-        "pillar",
-        "mitools"
+        "pillar"
     ],
     "netOmics": [
         "dplyr",
@@ -55070,7 +55066,6 @@
         "RBGL",
         "survival",
         "RcppEigen",
-        "mitools",
         "affy",
         "ggplot2",
         "lifecycle",
@@ -74305,8 +74300,7 @@
     ],
     "survey": [
         "Matrix",
-        "survival",
-        "mitools"
+        "survival"
     ],
     "softImpute": [
         "Matrix"
@@ -74319,7 +74313,6 @@
     "Rcgmin": [
         "optextras"
     ],
-    "mitools": [],
     "sjmisc": [
         "dplyr",
         "purrr",
@@ -80173,14 +80166,12 @@
         "ICS",
         "survey",
         "Matrix",
-        "survival",
-        "mitools"
+        "survival"
     ],
     "ICS": [
         "survey",
         "Matrix",
-        "survival",
-        "mitools"
+        "survival"
     ],
     "dnet": [
         "igraph",
