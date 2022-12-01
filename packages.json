@@ -34051,7 +34051,6 @@
         "rcdk",
         "MSnbase",
         "httr",
-        "readJDX",
         "webchem",
         "ChemmineR",
         "ggplot2",
@@ -50294,7 +50293,6 @@
         "GenomeInfoDb",
         "sass"
     ],
-    "readJDX": [],
     "TBX20BamSubset": [
         "Rsamtools",
         "GenomeInfoDb",
