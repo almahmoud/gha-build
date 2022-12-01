@@ -1117,7 +1117,6 @@
         "AnnotationDbi",
         "tidyr"
     ],
-    "BiocSklearn": [],
     "BiocStyle": [],
     "biocthis": [],
     "BiocVersion": [],
