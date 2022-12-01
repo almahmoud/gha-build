@@ -137,8 +137,7 @@
         "BiocFileCache"
     ],
     "AlpsNMR": [
-        "mixOmics",
-        "speaq"
+        "mixOmics"
     ],
     "AMARETTO": [
         "BiocFileCache",
@@ -10549,7 +10548,6 @@
     "Hmisc": [],
     "GGally": [],
     "ggrastr": [],
-    "speaq": [],
     "curatedTCGAData": [
         "MultiAssayExperiment",
         "AnnotationHub",
