@@ -34415,7 +34415,6 @@
         "AnnotationDbi",
         "httr",
         "rappdirs",
-        "FMStable",
         "pkgconfig",
         "Rdpack",
         "TFisher",
@@ -79415,7 +79414,6 @@
         "gtools",
         "caTools",
         "KernSmooth",
-        "FMStable",
         "plotly",
         "viridis",
         "dendextend",
@@ -170554,11 +170552,8 @@
         "MASS"
     ],
     "glm2": [],
-    "harmonicmeanp": [
-        "FMStable"
-    ],
+    "harmonicmeanp": [],
     "logger": [],
-    "FMStable": [],
     "TFisher": [
         "sn",
         "mvtnorm",
