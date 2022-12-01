@@ -54377,7 +54377,6 @@
         "markdown",
         "httr",
         "lubridate",
-        "bibtex",
         "bslib",
         "htmltools",
         "jquerylib",
@@ -83222,10 +83221,8 @@
     "RefManageR": [
         "httr",
         "lubridate",
-        "bibtex",
         "openssl"
     ],
-    "bibtex": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [
         "BSgenome",
         "IRanges",
