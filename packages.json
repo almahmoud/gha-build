@@ -5786,7 +5786,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "MiRaGE": [],
     "mirIntegrator": [
         "org.Hs.eg.db"
     ],
