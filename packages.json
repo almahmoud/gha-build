@@ -7299,7 +7299,6 @@
         "ggalt",
         "ggforce",
         "dplyr",
-        "R4RNA",
         "seqmagick",
         "statebins",
         "ggtree",
@@ -14390,7 +14389,6 @@
         "dbplyr",
         "dplyr"
     ],
-    "R4RNA": [],
     "RadioGx": [
         "CoreGx",
         "MultiAssayExperiment",
