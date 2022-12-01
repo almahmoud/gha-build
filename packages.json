@@ -48179,7 +48179,6 @@
         "Rsamtools",
         "GenomicFeatures",
         "GenomicAlignments",
-        "elitism",
         "IRanges",
         "GenomicRanges",
         "reldist",
@@ -72249,7 +72248,6 @@
         "GenomeInfoDb",
         "sass"
     ],
-    "elitism": [],
     "doMC": [],
     "valr": [
         "broom",
