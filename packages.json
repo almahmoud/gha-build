@@ -55803,7 +55803,6 @@
         "futile.logger",
         "lambda.r"
     ],
-    "NuPoP": [],
     "NxtIRFcore": [
         "NxtIRFdata",
         "fst",
