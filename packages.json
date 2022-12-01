@@ -1716,7 +1716,6 @@
     ],
     "coexnet": [
         "GEOquery",
-        "STRINGdb",
         "readr"
     ],
     "cogena": [
@@ -4158,7 +4157,6 @@
         "fgsea",
         "PPInfer",
         "biomaRt",
-        "STRINGdb",
         "BiocFileCache"
     ],
     "GSReg": [
@@ -4494,9 +4492,7 @@
         "DropletUtils",
         "BiocFileCache"
     ],
-    "IMMAN": [
-        "STRINGdb"
-    ],
+    "IMMAN": [],
     "ImmuneSpaceR": [
         "plotly",
         "heatmaply",
@@ -6516,7 +6512,6 @@
     ],
     "netZooR": [
         "yarn",
-        "STRINGdb",
         "GOstats",
         "GO.db",
         "org.Hs.eg.db",
@@ -7251,7 +7246,6 @@
     "PPInfer": [
         "biomaRt",
         "fgsea",
-        "STRINGdb",
         "BiocFileCache"
     ],
     "pram": [
@@ -7538,7 +7532,6 @@
         "BiocFileCache"
     ],
     "pwOmics": [
-        "STRINGdb",
         "biomaRt",
         "AnnotationHub",
         "BiocFileCache",
@@ -8082,7 +8075,6 @@
         "MSnbase"
     ],
     "RITAN": [
-        "STRINGdb",
         "BgeeDB",
         "GenomicFeatures",
         "ensembldb",
@@ -9439,7 +9431,6 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "STRINGdb": [],
     "StructuralVariantAnnotation": [
         "rtracklayer",
         "VariantAnnotation",
@@ -10322,9 +10313,7 @@
         "piano",
         "fgsea"
     ],
-    "XINA": [
-        "STRINGdb"
-    ],
+    "XINA": [],
     "XNAString": [
         "BSgenome",
         "rtracklayer"
