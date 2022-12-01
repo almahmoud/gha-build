@@ -86,7 +86,6 @@
         "biovizBase"
     ],
     "ATACCoGAPS": [
-        "motifmatchr",
         "rGREAT",
         "Homo.sapiens",
         "Mus.musculus"
@@ -96,9 +95,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
+    "ATACseqTFEA": [],
     "atena": [
         "AnnotationHub",
         "BiocVersion"
@@ -554,16 +551,13 @@
         "car",
         "pbkrtest"
     ],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [
         "ExperimentHub",
         "AnnotationHub",
         "BiocVersion"
     ],
     "enrichTF": [
-        "motifmatchr",
         "ggpubr",
         "rstatix",
         "car",
@@ -619,8 +613,7 @@
         "GenomicFiles"
     ],
     "esATAC": [
-        "ChIPseeker",
-        "motifmatchr"
+        "ChIPseeker"
     ],
     "EventPointer": [],
     "EWCE": [
@@ -1169,7 +1162,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "motifmatchr": [],
     "MQmetrics": [
         "ggpubr",
         "rstatix",
@@ -1365,9 +1357,7 @@
         "car",
         "pbkrtest"
     ],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "PanomiR": [],
     "pcaExplorer": [],
     "PDATK": [
@@ -1794,7 +1784,6 @@
     ],
     "spatzie": [
         "GenomicInteractions",
-        "motifmatchr",
         "Gviz",
         "biovizBase"
     ],
