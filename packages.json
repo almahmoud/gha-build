@@ -331,7 +331,6 @@
         "scater",
         "smurf",
         "apeglm",
-        "emdbook",
         "dplyr",
         "ggplot2",
         "GenomicRanges",
@@ -859,7 +858,6 @@
         "blob"
     ],
     "apeglm": [
-        "emdbook",
         "SummarizedExperiment",
         "GenomicRanges"
     ],
@@ -4574,7 +4572,6 @@
         "biomaRt",
         "tibble",
         "KEGGREST",
-        "emdbook",
         "progress",
         "BiocFileCache",
         "geneplotter",
@@ -7310,7 +7307,6 @@
         "ashr",
         "RSQLite",
         "KEGGREST",
-        "emdbook",
         "dplyr",
         "GO.db",
         "GOSemSim",
@@ -7435,7 +7431,6 @@
         "tidyselect",
         "pillar",
         "qvalue",
-        "emdbook",
         "Rsamtools",
         "fastseg",
         "rtracklayer",
@@ -7953,7 +7948,6 @@
         "apeglm",
         "ashr",
         "GreyListChIP",
-        "emdbook",
         "geneplotter",
         "tibble",
         "tidyselect",
@@ -16759,7 +16753,6 @@
         "Biostrings",
         "HDF5Array",
         "qvalue",
-        "emdbook",
         "Rsamtools",
         "fastseg",
         "rtracklayer",
@@ -16780,7 +16773,6 @@
         "GenomicRanges",
         "msm",
         "qvalue",
-        "emdbook",
         "Rsamtools",
         "fastseg",
         "rtracklayer",
@@ -17103,7 +17095,6 @@
         "ggplot2",
         "tibble",
         "qvalue",
-        "emdbook",
         "Rsamtools",
         "fastseg",
         "rtracklayer",
@@ -17115,7 +17106,6 @@
     "methylKit": [
         "GenomicRanges",
         "qvalue",
-        "emdbook",
         "Rsamtools",
         "fastseg",
         "rtracklayer",
@@ -27062,9 +27052,7 @@
         "ScaledMatrix",
         "GenomicRanges"
     ],
-    "scShapes": [
-        "emdbook"
-    ],
+    "scShapes": [],
     "scTensor": [
         "RSQLite",
         "plotly",
@@ -30493,7 +30481,6 @@
         "biomaRt",
         "DESeq2",
         "SummarizedExperiment",
-        "emdbook",
         "GenomicRanges",
         "AnnotationDbi",
         "progress",
@@ -32341,7 +32328,6 @@
         "GreyListChIP",
         "mixtools",
         "RSQLite",
-        "emdbook",
         "progress",
         "BiocFileCache",
         "tibble",
@@ -33027,7 +33013,6 @@
     "smurf": [
         "glmnet"
     ],
-    "emdbook": [],
     "ggbeeswarm": [
         "ggplot2",
         "tibble",
