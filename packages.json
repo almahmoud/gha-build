@@ -683,7 +683,6 @@
     ],
     "affyio": [],
     "affylmGUI": [
-        "tkrplot",
         "affy",
         "affyio",
         "affyPLM",
@@ -9287,7 +9286,6 @@
     ],
     "canceR": [
         "GSEABase",
-        "tkrplot",
         "geNetClassifier",
         "survival",
         "Biobase",
@@ -29585,8 +29583,7 @@
         "askpass"
     ],
     "genArise": [
-        "locfit",
-        "tkrplot"
+        "locfit"
     ],
     "genbankr": [
         "IRanges",
@@ -39478,9 +39475,7 @@
         "rematch2"
     ],
     "lfa": [],
-    "limmaGUI": [
-        "tkrplot"
-    ],
+    "limmaGUI": [],
     "LineagePulse": [
         "BiocParallel",
         "circlize",
@@ -87019,7 +87014,6 @@
         "lifecycle",
         "vctrs"
     ],
-    "tkrplot": [],
     "e1071": [
         "class"
     ],
