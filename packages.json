@@ -215,8 +215,7 @@
         "GenomicFeatures"
     ],
     "bandle": [
-        "pRoloc",
-        "pRolocdata"
+        "pRoloc"
     ],
     "Basic4Cseq": [
         "BSgenome.Ecoli.NCBI.20080805"
@@ -4559,7 +4558,6 @@
         "lme4",
         "nloptr"
     ],
-    "pRolocdata": [],
     "BSgenome.Ecoli.NCBI.20080805": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
