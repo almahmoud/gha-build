@@ -3184,8 +3184,7 @@
         "BiocFileCache",
         "tRNAdbImport",
         "rtracklayer",
-        "biomaRt",
-        "tRNA"
+        "biomaRt"
     ],
     "epivizr": [
         "epivizrData",
@@ -10285,12 +10284,8 @@
     "tripr": [
         "plotly"
     ],
-    "tRNA": [],
-    "tRNAdbImport": [
-        "tRNA"
-    ],
+    "tRNAdbImport": [],
     "tRNAscanImport": [
-        "tRNA",
         "rtracklayer",
         "BSgenome"
     ],
