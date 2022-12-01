@@ -4782,7 +4782,6 @@
         "cytomapper",
         "ggraph",
         "tidygraph",
-        "concaveman",
         "DropletUtils",
         "BiocFileCache"
     ],
@@ -5190,7 +5189,6 @@
         "broom"
     ],
     "lisaClust": [
-        "concaveman",
         "spicyR",
         "SpatialExperiment",
         "DropletUtils",
@@ -9179,7 +9177,6 @@
     ],
     "schex": [
         "Seurat",
-        "concaveman",
         "plotly",
         "scattermore"
     ],
@@ -9320,7 +9317,6 @@
         "graphite",
         "gson",
         "Seurat",
-        "concaveman",
         "aplot",
         "scatterpie",
         "ggtree",
@@ -9339,7 +9335,6 @@
         "annotate",
         "fields",
         "Seurat",
-        "concaveman",
         "scattermore"
     ],
     "scTreeViz": [
@@ -9921,7 +9916,6 @@
         "scuttle"
     ],
     "spicyR": [
-        "concaveman",
         "lmerTest",
         "lme4",
         "SpatialExperiment",
@@ -10107,7 +10101,6 @@
         "sqldf"
     ],
     "Statial": [
-        "concaveman",
         "tidyverse",
         "broom",
         "googlesheets4",
@@ -11897,7 +11890,6 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "concaveman": [],
     "AdaptGauss": [],
     "datamods": [
         "rio",
