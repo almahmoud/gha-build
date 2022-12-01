@@ -1478,7 +1478,6 @@
         "tidyr",
         "patchwork",
         "scattermore",
-        "survey",
         "geneplotter",
         "progress",
         "vegan",
@@ -5743,7 +5742,6 @@
         "ggplot2",
         "patchwork",
         "scattermore",
-        "survey",
         "tibble",
         "tidyselect"
     ],
@@ -8099,7 +8097,6 @@
     ],
     "FamAgg": [
         "gap",
-        "survey",
         "dplyr",
         "ggplot2",
         "plotly",
@@ -16062,8 +16059,7 @@
         "network",
         "ggplot2",
         "tibble",
-        "ICS",
-        "survey"
+        "ICS"
     ],
     "netOmics": [
         "dplyr",
@@ -20222,7 +20218,6 @@
         "Category",
         "annotate",
         "AnnotationDbi",
-        "survey",
         "RSQLite",
         "KEGGREST",
         "ggplot2",
@@ -26986,7 +26981,6 @@
         "tibble",
         "tidyselect"
     ],
-    "survey": [],
     "sjmisc": [
         "dplyr",
         "tidyselect",
@@ -28918,12 +28912,9 @@
     ],
     "mppa": [],
     "ICSNP": [
-        "ICS",
-        "survey"
+        "ICS"
     ],
-    "ICS": [
-        "survey"
-    ],
+    "ICS": [],
     "dnet": [
         "supraHex",
         "readr",
