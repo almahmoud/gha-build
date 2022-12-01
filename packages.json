@@ -3873,7 +3873,6 @@
     "SeqGSEA": [
         "DESeq2"
     ],
-    "seqsetvis": [],
     "SeqSQC": [
         "ExperimentHub",
         "AnnotationHub",
