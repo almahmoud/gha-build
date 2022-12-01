@@ -652,7 +652,6 @@
         "ragg",
         "survival",
         "dqrng",
-        "systemfonts",
         "textshaping"
     ],
     "ALDEx2": [
@@ -1077,7 +1076,6 @@
         "memoise",
         "dqrng",
         "rematch2",
-        "systemfonts",
         "textshaping"
     ],
     "AneuFinder": [
@@ -1934,7 +1932,6 @@
         "htmlTable",
         "viridis",
         "interp",
-        "systemfonts",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -3314,7 +3311,6 @@
         "RcppEigen",
         "bit64",
         "memoise",
-        "systemfonts",
         "textshaping"
     ],
     "bayNorm": [
@@ -3657,7 +3653,6 @@
         "ragg",
         "blob",
         "rematch2",
-        "systemfonts",
         "textshaping"
     ],
     "BgeeCall": [
@@ -3892,7 +3887,6 @@
         "XVector",
         "scales",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "mgcv",
         "biomaRt",
@@ -4060,7 +4054,6 @@
         "XVector",
         "GenomeInfoDb",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "ape",
         "tidytree",
@@ -5476,7 +5469,6 @@
         "AnnotationDbi",
         "AnnotationFilter",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "mgcv",
         "RSQLite",
@@ -5978,7 +5970,6 @@
         "vctrs",
         "credentials",
         "openssl",
-        "systemfonts",
         "textshaping",
         "httpuv",
         "fontawesome",
@@ -6617,7 +6608,6 @@
         "sparseMatrixStats",
         "XVector",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "ggsci",
         "ggsignif",
@@ -7011,7 +7001,6 @@
         "ragg",
         "openssl",
         "pillar",
-        "systemfonts",
         "textshaping"
     ],
     "CellaRepertorium": [
@@ -7212,7 +7201,6 @@
         "jquerylib",
         "memoise",
         "tidyselect",
-        "systemfonts",
         "textshaping"
     ],
     "cellity": [
@@ -7328,7 +7316,6 @@
         "ragg",
         "RcppEigen",
         "dqrng",
-        "systemfonts",
         "textshaping"
     ],
     "CellNOptR": [
@@ -7503,7 +7490,6 @@
         "XVector",
         "GenomeInfoDb",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "openssl"
     ],
@@ -7554,7 +7540,6 @@
         "ALL",
         "scales",
         "tweenr",
-        "systemfonts",
         "mgcv",
         "ggrepel",
         "ggsci",
@@ -7627,7 +7612,6 @@
         "viridis",
         "graphlayouts",
         "tweenr",
-        "systemfonts",
         "RcppEigen"
     ],
     "CeTF": [
@@ -7719,7 +7703,6 @@
         "blob",
         "memoise",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "nloptr",
         "knitr",
@@ -8445,7 +8428,6 @@
         "futile.logger",
         "cowplot",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "openssl",
         "hms",
@@ -8689,7 +8671,6 @@
         "ragg",
         "RcppEigen",
         "selectr",
-        "systemfonts",
         "callr",
         "textshaping"
     ],
@@ -8924,7 +8905,6 @@
         "survival",
         "htmlwidgets",
         "tweenr",
-        "systemfonts",
         "RcppEigen"
     ],
     "CINdex": [
@@ -9105,7 +9085,6 @@
         "pillar",
         "XVector",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "tidyr"
     ],
@@ -9438,7 +9417,6 @@
         "XVector",
         "GenomeInfoDb",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "openssl"
     ],
@@ -10089,7 +10067,6 @@
         "jquerylib",
         "credentials",
         "openssl",
-        "systemfonts",
         "textshaping",
         "httpuv",
         "fontawesome",
@@ -10689,7 +10666,6 @@
         "ape",
         "tidytree",
         "treeio",
-        "systemfonts",
         "textshaping",
         "broom",
         "tweenr",
@@ -10772,7 +10748,6 @@
         "dqrng",
         "survival",
         "prodlim",
-        "systemfonts",
         "textshaping",
         "lava",
         "future.apply",
@@ -11412,7 +11387,6 @@
         "survival",
         "mgcv",
         "scales",
-        "systemfonts",
         "textshaping",
         "bslib",
         "knitr",
@@ -12575,7 +12549,6 @@
         "viridis",
         "car",
         "tweenr",
-        "systemfonts",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -12712,7 +12685,6 @@
         "DropletUtils",
         "BiocFileCache",
         "GenomeInfoDb",
-        "systemfonts",
         "dbplyr",
         "dplyr",
         "RSQLite",
@@ -13160,7 +13132,6 @@
         "KEGGREST",
         "blob",
         "tweenr",
-        "systemfonts",
         "gargle",
         "cellranger",
         "ids",
@@ -13396,8 +13367,7 @@
         "blob",
         "TSP",
         "callr",
-        "tweenr",
-        "systemfonts"
+        "tweenr"
     ],
     "DECIPHER": [
         "Biostrings",
@@ -14642,7 +14612,6 @@
         "XVector",
         "scales",
         "tweenr",
-        "systemfonts",
         "mgcv",
         "ggrepel",
         "ggsci",
@@ -14923,7 +14892,6 @@
         "openssl",
         "selectr",
         "TSP",
-        "systemfonts",
         "callr"
     ],
     "distinct": [
@@ -14967,7 +14935,6 @@
         "RcppEigen",
         "pillar",
         "dqrng",
-        "systemfonts",
         "textshaping"
     ],
     "dittoSeq": [
@@ -15858,7 +15825,6 @@
         "treeio",
         "openssl",
         "tweenr",
-        "systemfonts",
         "RcppEigen"
     ],
     "easyreporting": [
@@ -16122,7 +16088,6 @@
         "treeio",
         "openssl",
         "tweenr",
-        "systemfonts",
         "RcppEigen"
     ],
     "EGAD": [
@@ -16558,7 +16523,6 @@
         "pillar",
         "cowplot",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "httr",
         "Biostrings",
@@ -16658,7 +16622,6 @@
         "hms",
         "vroom",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "openssl",
         "nloptr",
@@ -16838,7 +16801,6 @@
         "fontawesome",
         "cowplot",
         "tweenr",
-        "systemfonts",
         "RcppEigen"
     ],
     "epidecodeR": [
@@ -17036,7 +16998,6 @@
         "tidyselect",
         "cowplot",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "ape",
         "tidytree",
@@ -17687,8 +17648,7 @@
         "RcppEigen",
         "hms",
         "vroom",
-        "tweenr",
-        "systemfonts"
+        "tweenr"
     ],
     "escape": [
         "dplyr",
@@ -17795,7 +17755,6 @@
         "jquerylib",
         "httr",
         "selectr",
-        "systemfonts",
         "pillar",
         "dplyr",
         "tidyselect",
@@ -18236,7 +18195,6 @@
         "igraph",
         "XVector",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "mgcv",
         "biomaRt",
@@ -18412,7 +18370,6 @@
         "bit64",
         "blob",
         "tweenr",
-        "systemfonts",
         "RcppEigen"
     ],
     "farms": [
@@ -18624,7 +18581,6 @@
         "blob",
         "memoise",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "openssl"
     ],
@@ -19050,7 +19006,6 @@
         "openssl",
         "interp",
         "hms",
-        "systemfonts",
         "textshaping"
     ],
     "flowAI": [
@@ -19244,7 +19199,6 @@
         "visNetwork",
         "htmlwidgets",
         "vctrs",
-        "systemfonts",
         "mgcv",
         "scales",
         "tibble",
@@ -19329,7 +19283,6 @@
         "pillar",
         "scales",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "mgcv",
         "ggrepel",
@@ -19506,7 +19459,6 @@
         "progress",
         "futile.logger",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "survival",
         "prodlim",
@@ -20137,7 +20089,6 @@
         "jquerylib",
         "credentials",
         "openssl",
-        "systemfonts",
         "textshaping",
         "httpuv",
         "fontawesome",
@@ -20245,7 +20196,6 @@
         "quantreg",
         "lme4",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "nloptr",
         "MatrixModels",
@@ -20758,7 +20708,6 @@
         "jquerylib",
         "promises",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "mgcv",
         "knitr",
@@ -21254,7 +21203,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "blob",
-        "systemfonts",
         "XVector",
         "openssl",
         "bslib",
@@ -21451,7 +21399,6 @@
         "scales",
         "tidyr",
         "htmlwidgets",
-        "systemfonts",
         "mgcv",
         "cellranger",
         "future",
@@ -21595,7 +21542,6 @@
         "XVector",
         "GenomeInfoDb",
         "htmlwidgets",
-        "systemfonts",
         "nloptr",
         "hms",
         "testthat",
@@ -21830,7 +21776,6 @@
         "scales",
         "plotly",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "mgcv",
         "ape",
@@ -22583,7 +22528,6 @@
         "XVector",
         "GenomeInfoDb",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "openssl"
     ],
@@ -22796,7 +22740,6 @@
         "knitr",
         "gdtools",
         "classInt",
-        "systemfonts",
         "bslib",
         "jquerylib",
         "sass",
@@ -24007,7 +23950,6 @@
         "biovizBase",
         "latticeExtra",
         "GenomicAlignments",
-        "systemfonts",
         "textshaping",
         "BiocParallel",
         "BiocIO",
@@ -24436,7 +24378,6 @@
         "vctrs",
         "pillar",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "mgcv",
         "openssl",
@@ -25103,7 +25044,6 @@
         "dqrng",
         "XVector",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "httpuv",
         "fontawesome",
@@ -25229,7 +25169,6 @@
         "vctrs",
         "credentials",
         "openssl",
-        "systemfonts",
         "textshaping",
         "httpuv",
         "fontawesome",
@@ -25557,7 +25496,6 @@
         "httpuv",
         "promises",
         "bslib",
-        "systemfonts",
         "sass",
         "jquerylib",
         "memoise",
@@ -26036,7 +25974,6 @@
         "GenomeInfoDb",
         "XVector",
         "tweenr",
-        "systemfonts",
         "ragg",
         "openssl",
         "Biostrings",
@@ -27348,7 +27285,6 @@
         "scuttle",
         "XVector",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "nloptr",
         "classInt",
@@ -28162,7 +28098,6 @@
         "XVector",
         "GenomeInfoDb",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "openssl",
         "shiny",
@@ -29389,7 +29324,6 @@
         "jquerylib",
         "promises",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "httpuv",
         "fontawesome",
@@ -29690,7 +29624,6 @@
         "ALL",
         "pillar",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "ggrepel",
         "ggsci",
@@ -29910,7 +29843,6 @@
         "XVector",
         "GenomeInfoDb",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "future.apply",
         "future"
@@ -30593,7 +30525,6 @@
         "biomaRt",
         "credentials",
         "DT",
-        "systemfonts",
         "textshaping",
         "bit64",
         "httpuv",
@@ -30705,7 +30636,6 @@
         "progress",
         "BiocFileCache",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "hms",
         "vroom",
@@ -31025,7 +30955,6 @@
         "sass",
         "credentials",
         "openssl",
-        "systemfonts",
         "textshaping",
         "httpuv",
         "fontawesome",
@@ -31180,7 +31109,6 @@
         "memoise",
         "tidytree",
         "dqrng",
-        "systemfonts",
         "textshaping"
     ],
     "miaSim": [
@@ -31267,7 +31195,6 @@
         "reshape2",
         "sparseMatrixStats",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "ragg",
         "dqrng",
@@ -31554,7 +31481,6 @@
         "dqrng",
         "rematch2",
         "future.apply",
-        "systemfonts",
         "textshaping",
         "future"
     ],
@@ -31626,7 +31552,6 @@
         "credentials",
         "openssl",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "httr",
         "Biostrings",
@@ -31712,7 +31637,6 @@
         "jquerylib",
         "httr",
         "selectr",
-        "systemfonts",
         "callr",
         "sass",
         "memoise",
@@ -31793,7 +31717,6 @@
         "GenomeInfoDb",
         "XVector",
         "tweenr",
-        "systemfonts",
         "RcppEigen"
     ],
     "mimager": [
@@ -32376,7 +32299,6 @@
         "ggplotify",
         "patchwork",
         "tweenr",
-        "systemfonts",
         "ape",
         "tidytree",
         "treeio",
@@ -32502,7 +32424,6 @@
         "patchwork",
         "blob",
         "tweenr",
-        "systemfonts",
         "ape",
         "tidytree",
         "treeio",
@@ -33309,7 +33230,6 @@
         "blob",
         "memoise",
         "tweenr",
-        "systemfonts",
         "RcppEigen"
     ],
     "mosaics": [
@@ -33623,7 +33543,6 @@
         "vctrs",
         "pillar",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "mgcv",
         "ggsci",
@@ -34815,7 +34734,6 @@
         "cowplot",
         "credentials",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "survival",
         "prodlim",
@@ -34976,7 +34894,6 @@
         "RSQLite",
         "KEGGREST",
         "tidyr",
-        "systemfonts",
         "textshaping",
         "callr",
         "pkgload",
@@ -35450,7 +35367,6 @@
         "rtracklayer",
         "sparseMatrixStats",
         "httr",
-        "systemfonts",
         "textshaping",
         "progress",
         "openssl",
@@ -35470,7 +35386,6 @@
         "XVector",
         "GenomeInfoDb",
         "htmlwidgets",
-        "systemfonts",
         "vctrs",
         "mgcv",
         "scales",
@@ -35970,7 +35885,6 @@
         "XVector",
         "GenomeInfoDb",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "openssl"
     ],
@@ -36207,7 +36121,6 @@
         "AnnotationDbi",
         "annotate",
         "survival",
-        "systemfonts",
         "textshaping",
         "progress",
         "tidyr",
@@ -36502,7 +36415,6 @@
         "tweenr",
         "tidyselect",
         "vctrs",
-        "systemfonts",
         "RcppEigen",
         "tibble",
         "sandwich",
@@ -37299,7 +37211,6 @@
         "rstatix",
         "httr",
         "selectr",
-        "systemfonts",
         "callr",
         "KEGGREST",
         "futile.logger",
@@ -37854,7 +37765,6 @@
         "jquerylib",
         "credentials",
         "openssl",
-        "systemfonts",
         "textshaping",
         "httpuv",
         "fontawesome",
@@ -38468,7 +38378,6 @@
         "XVector",
         "GenomeInfoDb",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "MatrixModels"
     ],
@@ -38536,7 +38445,6 @@
         "futile.logger",
         "cowplot",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "GO.db",
         "callr",
@@ -38675,7 +38583,6 @@
         "RSQLite",
         "KEGGREST",
         "credentials",
-        "systemfonts",
         "textshaping",
         "rematch2",
         "bit64",
@@ -39095,7 +39002,6 @@
         "ragg",
         "RcppEigen",
         "dqrng",
-        "systemfonts",
         "textshaping",
         "pillar"
     ],
@@ -39237,7 +39143,6 @@
         "XVector",
         "GenomeInfoDb",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "openssl"
     ],
@@ -39273,7 +39178,6 @@
         "promises",
         "openssl",
         "knitr",
-        "systemfonts",
         "futile.logger",
         "tidyselect",
         "pillar",
@@ -39826,7 +39730,6 @@
         "sass",
         "memoise",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "ape",
         "tidytree",
@@ -39985,7 +39888,6 @@
         "sass",
         "jquerylib",
         "memoise",
-        "systemfonts",
         "textshaping"
     ],
     "pipeFrame": [
@@ -41034,7 +40936,6 @@
         "latticeExtra",
         "cowplot",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "interp"
     ],
@@ -41524,7 +41425,6 @@
         "R.utils",
         "broom",
         "selectr",
-        "systemfonts",
         "bit64",
         "callr",
         "Biostrings",
@@ -43322,7 +43222,6 @@
         "pillar",
         "cowplot",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "ape",
         "tidytree",
@@ -45266,7 +45165,6 @@
         "sass",
         "credentials",
         "openssl",
-        "systemfonts",
         "textshaping",
         "bit64",
         "blob",
@@ -45815,7 +45713,6 @@
         "blob",
         "memoise",
         "tweenr",
-        "systemfonts",
         "testthat",
         "callr",
         "pkgload",
@@ -47395,7 +47292,6 @@
         "GenomeInfoDb",
         "dqrng",
         "XVector",
-        "systemfonts",
         "textshaping",
         "pillar"
     ],
@@ -47655,7 +47551,6 @@
         "tidyselect",
         "pillar",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "annotate",
         "AnnotationDbi",
@@ -47820,7 +47715,6 @@
         "vctrs",
         "ragg",
         "RcppEigen",
-        "systemfonts",
         "textshaping",
         "pillar"
     ],
@@ -48010,7 +47904,6 @@
         "vctrs",
         "pillar",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "mgcv",
         "cowplot",
@@ -48077,7 +47970,6 @@
         "tweenr",
         "tidyselect",
         "vctrs",
-        "systemfonts",
         "RcppEigen",
         "mgcv",
         "tibble",
@@ -48122,7 +48014,6 @@
         "httpuv",
         "fontawesome",
         "promises",
-        "systemfonts",
         "callr",
         "openssl"
     ],
@@ -48627,7 +48518,6 @@
         "memoise",
         "dqrng",
         "rematch2",
-        "systemfonts",
         "textshaping"
     ],
     "scran": [
@@ -48725,8 +48615,7 @@
         "IRanges",
         "GenomeInfoDb",
         "XVector",
-        "tweenr",
-        "systemfonts"
+        "tweenr"
     ],
     "scruff": [
         "GenomicAlignments",
@@ -48907,7 +48796,6 @@
         "survival",
         "XVector",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "ggrepel",
         "tidygraph",
@@ -48999,7 +48887,6 @@
         "viridis",
         "XVector",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "openssl",
         "cowplot",
@@ -49129,7 +49016,6 @@
         "BiocIO",
         "biomaRt",
         "tweenr",
-        "systemfonts",
         "ragg",
         "promises",
         "RBGL",
@@ -49273,7 +49159,6 @@
         "futile.logger",
         "cowplot",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "openssl",
         "hms"
@@ -50193,7 +50078,6 @@
         "jquerylib",
         "promises",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "httpuv",
         "fontawesome",
@@ -50603,7 +50487,6 @@
         "bslib",
         "DropletUtils",
         "BiocFileCache",
-        "systemfonts",
         "dbplyr",
         "dplyr",
         "RSQLite",
@@ -50899,7 +50782,6 @@
         "htmlTable",
         "TH.data",
         "sandwich",
-        "systemfonts",
         "textshaping",
         "densEstBayes",
         "quantreg",
@@ -51606,7 +51488,6 @@
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
-        "systemfonts",
         "textshaping"
     ],
     "sparrow": [
@@ -51755,7 +51636,6 @@
         "pillar",
         "scales",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "htmlwidgets",
         "mgcv",
@@ -51858,7 +51738,6 @@
         "XVector",
         "GenomeInfoDb",
         "htmlwidgets",
-        "systemfonts",
         "nloptr",
         "hms",
         "testthat",
@@ -52024,7 +51903,6 @@
         "knitr",
         "Biostrings",
         "interp",
-        "systemfonts",
         "textshaping"
     ],
     "spatzie": [
@@ -52265,7 +52143,6 @@
         "pillar",
         "scales",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "nloptr",
         "GenomicRanges",
@@ -52387,7 +52264,6 @@
         "RcppEigen",
         "pillar",
         "dqrng",
-        "systemfonts",
         "textshaping"
     ],
     "SpliceWiz": [
@@ -52977,7 +52853,6 @@
         "viridis",
         "RcppEigen",
         "hms",
-        "systemfonts",
         "textshaping",
         "httpuv",
         "fontawesome",
@@ -53021,7 +52896,6 @@
         "pillar",
         "scales",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "mgcv",
         "ggrepel",
@@ -53080,7 +52954,6 @@
         "tidyr",
         "tweenr",
         "tidyselect",
-        "systemfonts",
         "haven",
         "RSpectra",
         "pillar",
@@ -53404,7 +53277,6 @@
         "tidyr",
         "tweenr",
         "tidyselect",
-        "systemfonts",
         "RcppEigen",
         "pillar",
         "dplyr"
@@ -54104,7 +53976,6 @@
         "multcomp",
         "scales",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "mgcv",
         "sf",
@@ -54848,7 +54719,6 @@
         "quantreg",
         "lme4",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "htmlTable",
         "lava",
@@ -55535,7 +55405,6 @@
         "Biostrings",
         "bit64",
         "tweenr",
-        "systemfonts",
         "RcppEigen"
     ],
     "TIN": [
@@ -56407,7 +56276,6 @@
         "vctrs",
         "pillar",
         "htmlwidgets",
-        "systemfonts",
         "mgcv",
         "scales",
         "aplot",
@@ -56650,7 +56518,6 @@
         "memoise",
         "dqrng",
         "openssl",
-        "systemfonts",
         "textshaping"
     ],
     "trigger": [
@@ -57402,7 +57269,6 @@
         "httr",
         "rvest",
         "openssl",
-        "systemfonts",
         "textshaping",
         "selectr",
         "rsparse",
@@ -57966,7 +57832,6 @@
         "tweenr",
         "tidyselect",
         "vctrs",
-        "systemfonts",
         "RcppEigen",
         "mgcv",
         "tibble",
@@ -59564,21 +59429,16 @@
         "scales",
         "tibble",
         "vctrs",
-        "systemfonts",
         "textshaping",
         "pillar"
     ],
     "speedglm": [],
     "irlba": [],
     "ragg": [
-        "systemfonts",
         "textshaping"
     ],
     "dqrng": [],
-    "systemfonts": [],
-    "textshaping": [
-        "systemfonts"
-    ],
+    "textshaping": [],
     "zCompositions": [
         "NADA",
         "survival"
@@ -60541,9 +60401,7 @@
     "base64": [
         "openssl"
     ],
-    "svglite": [
-        "systemfonts"
-    ],
+    "svglite": [],
     "UpSetR": [
         "ggplot2",
         "scales",
@@ -61250,7 +61108,6 @@
         "tweenr",
         "tidyselect",
         "vctrs",
-        "systemfonts",
         "RcppEigen",
         "mgcv",
         "tibble",
@@ -61426,7 +61283,6 @@
         "tidyselect",
         "pillar",
         "tweenr",
-        "systemfonts",
         "RcppEigen",
         "mgcv",
         "tidyr"
@@ -61459,7 +61315,6 @@
         "tweenr",
         "tidyselect",
         "vctrs",
-        "systemfonts",
         "RcppEigen",
         "mgcv",
         "tibble",
@@ -62036,7 +61891,6 @@
         "vctrs",
         "credentials",
         "openssl",
-        "systemfonts",
         "textshaping",
         "httpuv",
         "fontawesome",
@@ -62057,7 +61911,6 @@
         "jquerylib",
         "vctrs",
         "openssl",
-        "systemfonts",
         "textshaping",
         "knitr",
         "pillar"
@@ -62889,7 +62742,6 @@
         "httr",
         "selectr",
         "tibble",
-        "systemfonts",
         "callr",
         "sass",
         "memoise",
@@ -64161,7 +64013,6 @@
     "ggiraph": [
         "ggplot2",
         "htmlwidgets",
-        "systemfonts",
         "vctrs",
         "mgcv",
         "scales",
@@ -64331,15 +64182,12 @@
         "rmarkdown",
         "knitr",
         "gdtools",
-        "systemfonts",
         "bslib",
         "jquerylib",
         "sass",
         "memoise"
     ],
-    "gdtools": [
-        "systemfonts"
-    ],
+    "gdtools": [],
     "robust": [
         "rrcov"
     ],
@@ -64485,7 +64333,6 @@
         "gdtools",
         "classInt",
         "e1071",
-        "systemfonts",
         "bslib",
         "jquerylib",
         "sass",
@@ -65719,7 +65566,6 @@
         "jquerylib",
         "vctrs",
         "credentials",
-        "systemfonts",
         "textshaping",
         "httpuv",
         "fontawesome",
@@ -66915,7 +66761,6 @@
         "graphlayouts",
         "tidyr",
         "tweenr",
-        "systemfonts",
         "RcppEigen"
     ],
     "cvTools": [],
@@ -67395,7 +67240,6 @@
         "tidyr",
         "tweenr",
         "tidyselect",
-        "systemfonts",
         "haven",
         "pillar",
         "forcats",
@@ -67423,7 +67267,6 @@
         "tweenr",
         "tidyselect",
         "vctrs",
-        "systemfonts",
         "RcppEigen",
         "mgcv",
         "haven",
