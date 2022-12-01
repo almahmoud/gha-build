@@ -151,7 +151,7 @@ jobs:
         run: |
           LIBRARY=$(echo "$(pwd)/built/")
           PKG="${{ matrix.pkg }}"
-          bash .github/scripts/build_package.sh $LIBRARY $PKG 2>&1 > /tmp/$PKG
+          bash .github/scripts/build_package.sh $LIBRARY $PKG
         continue-on-error: true
 
       - name: Get tar name
