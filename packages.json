@@ -54557,7 +54557,6 @@
         "ggraph",
         "progress",
         "Matrix",
-        "matrixLaplacian",
         "keras",
         "nloptr",
         "shadowtext",
@@ -94410,7 +94409,6 @@
         "lifecycle",
         "vctrs"
     ],
-    "matrixLaplacian": [],
     "Matching": [],
     "reportROC": [
         "pROC",
