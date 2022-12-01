@@ -2254,7 +2254,6 @@
         "cytomapper",
         "ggraph"
     ],
-    "ImmuneSpaceR": [],
     "immunotation": [],
     "INDEED": [
         "devtools",
