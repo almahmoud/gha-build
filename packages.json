@@ -4050,7 +4050,6 @@
         "memoise",
         "lazyeval",
         "urltools",
-        "httpcode",
         "GenomeInfoDbData",
         "rhdf5filters",
         "Rhdf5lib",
@@ -9853,7 +9852,6 @@
         "stringi",
         "lazyeval",
         "urltools",
-        "httpcode",
         "assertthat",
         "blob",
         "purrr",
@@ -94094,7 +94092,6 @@
         "stringr",
         "ellipsis",
         "urltools",
-        "httpcode",
         "mime",
         "class",
         "proxy",
@@ -117539,7 +117536,6 @@
         "Biobase",
         "KEGGREST",
         "urltools",
-        "httpcode",
         "mime",
         "blob",
         "openssl",
@@ -143511,7 +143507,6 @@
         "httr",
         "R6",
         "urltools",
-        "httpcode",
         "mime",
         "openssl",
         "Rcpp",
@@ -144066,7 +144061,6 @@
     "crul": [
         "R6",
         "urltools",
-        "httpcode",
         "mime",
         "Rcpp",
         "triebeard"
@@ -144075,7 +144069,6 @@
         "Rcpp",
         "triebeard"
     ],
-    "httpcode": [],
     "triebeard": [
         "Rcpp"
     ],
@@ -146823,7 +146816,6 @@
         "tibble",
         "R6",
         "urltools",
-        "httpcode",
         "mime",
         "whisker",
         "openssl",
@@ -146842,7 +146834,6 @@
     "ini": [],
     "fauxpas": [
         "R6",
-        "httpcode",
         "whisker"
     ],
     "styler": [
@@ -159971,7 +159962,6 @@
         "httr",
         "R6",
         "urltools",
-        "httpcode",
         "mime",
         "openssl",
         "cachem",
@@ -161882,7 +161872,6 @@
         "rlang",
         "viridisLite",
         "urltools",
-        "httpcode",
         "mime",
         "generics",
         "tibble",
@@ -161923,7 +161912,6 @@
         "dplyr",
         "R6",
         "urltools",
-        "httpcode",
         "mime",
         "generics",
         "lifecycle",
