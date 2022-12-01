@@ -20878,7 +20878,6 @@
         "plyr",
         "stringr"
     ],
-    "diffGeneAnalysis": [],
     "diffHic": [
         "GenomicRanges",
         "InteractionSet",
