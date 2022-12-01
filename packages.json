@@ -2112,10 +2112,7 @@
     ],
     "iSEEu": [],
     "isobar": [],
-    "IsoCorrectoR": [],
-    "IsoCorrectoRGUI": [
-        "IsoCorrectoR"
-    ],
+    "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "tximeta",
