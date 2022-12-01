@@ -28,7 +28,6 @@
         "testthat",
         "rstatix",
         "waldo",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -339,7 +338,6 @@
         "ggalluvial",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "CNEr",
-        "broom",
         "googlesheets4",
         "haven",
         "modelr",
@@ -402,7 +400,6 @@
     ],
     "BaalChIP": [
         "doBy",
-        "broom",
         "pbkrtest",
         "lme4",
         "nloptr",
@@ -549,9 +546,7 @@
         "Hmisc",
         "VariantAnnotation"
     ],
-    "biobroom": [
-        "broom"
-    ],
+    "biobroom": [],
     "bioCancer": [
         "radiant.data",
         "org.Bt.eg.db",
@@ -566,7 +561,6 @@
         "readr",
         "HDO.db",
         "fgsea",
-        "broom",
         "car",
         "plotly",
         "ggraph",
@@ -602,7 +596,6 @@
         "rstatix",
         "BiocVersion",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -972,7 +965,6 @@
         "lme4",
         "rstatix",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -1056,7 +1048,6 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -1090,7 +1081,6 @@
         "broom.mixed",
         "lme4",
         "mice",
-        "broom",
         "FlowSOM",
         "nloptr",
         "ggpubr",
@@ -1124,7 +1114,6 @@
         "fgsea",
         "ggraph",
         "ggtree",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -1231,7 +1220,6 @@
     ],
     "ChIPexoQual": [
         "biovizBase",
-        "broom",
         "Hmisc",
         "GenomicFeatures",
         "VariantAnnotation",
@@ -1602,7 +1590,6 @@
         "lme4",
         "tidygraph",
         "treeio",
-        "broom",
         "nloptr",
         "testthat",
         "waldo"
@@ -1842,8 +1829,7 @@
         "AnnotationHub",
         "fgsea",
         "highcharter",
-        "BiocVersion",
-        "broom"
+        "BiocVersion"
     ],
     "CTSV": [
         "SpatialExperiment",
@@ -1880,7 +1866,6 @@
         "lme4",
         "GEOmap",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -1901,7 +1886,6 @@
         "rstatix",
         "testthat",
         "pbkrtest",
-        "broom",
         "waldo"
     ],
     "CytoGLMM": [
@@ -1917,7 +1901,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "broom",
         "waldo"
     ],
     "cytomapper": [
@@ -1968,14 +1951,12 @@
         "rtracklayer",
         "nloptr",
         "testthat",
-        "broom",
         "waldo"
     ],
     "DAPAR": [
         "MSnbase",
         "DAPARdata",
-        "highcharter",
-        "broom"
+        "highcharter"
     ],
     "dasper": [
         "GenomicFeatures",
@@ -1988,7 +1969,6 @@
         "rstatix",
         "cmdfun",
         "testthat",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -2004,7 +1984,6 @@
         "mnem",
         "graphite",
         "Linnorm",
-        "broom",
         "googlesheets4",
         "haven",
         "modelr",
@@ -2018,7 +1997,6 @@
         "lme4",
         "GEOmap",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -2069,9 +2047,7 @@
         "testthat",
         "waldo"
     ],
-    "decoupleR": [
-        "broom"
-    ],
+    "decoupleR": [],
     "DeepBlueR": [
         "rtracklayer"
     ],
@@ -2107,7 +2083,6 @@
         "NCIgraph"
     ],
     "DEGreport": [
-        "broom",
         "DESeq2",
         "geneplotter"
     ],
@@ -2175,7 +2150,6 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -2225,7 +2199,6 @@
         "nloptr",
         "rstatix",
         "testthat",
-        "broom",
         "car",
         "waldo",
         "pbkrtest"
@@ -2253,7 +2226,6 @@
     ],
     "DiscoRhythm": [
         "ggExtra",
-        "broom",
         "kableExtra",
         "heatmaply",
         "plotly"
@@ -2347,7 +2319,6 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -2405,7 +2376,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "decoupleR",
-        "broom",
         "car",
         "BiocVersion",
         "pbkrtest",
@@ -2509,7 +2479,6 @@
         "biovizBase",
         "Hmisc",
         "VariantAnnotation",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -2577,7 +2546,6 @@
         "fgsea",
         "ggraph",
         "ggtree",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -2629,7 +2597,6 @@
         "rtracklayer",
         "rstatix",
         "ggpubr",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -2644,7 +2611,6 @@
         "GreyListChIP",
         "rstatix",
         "BSgenome",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -2802,8 +2768,7 @@
     ],
     "escape": [
         "GSEABase",
-        "GSVA",
-        "broom"
+        "GSVA"
     ],
     "esetVis": [],
     "evaluomeR": [
@@ -2832,7 +2797,6 @@
         "plotly",
         "readr",
         "BiocVersion",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -2874,7 +2838,6 @@
     ],
     "ExploreModelMatrix": [],
     "extraChIPs": [
-        "broom",
         "GenomicInteractions",
         "Gviz",
         "rtracklayer",
@@ -2921,8 +2884,7 @@
         "WGCNA",
         "geepack",
         "org.Sc.sgd.db",
-        "GO.db",
-        "broom"
+        "GO.db"
     ],
     "FastqCleaner": [
         "ShortRead"
@@ -3023,7 +2985,6 @@
         "lme4",
         "GEOmap",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -3034,7 +2995,6 @@
         "lme4",
         "GEOmap",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -3044,14 +3004,12 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
     "FlowSOM": [
         "ggpubr",
         "rstatix",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -3100,7 +3058,6 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -3132,7 +3089,6 @@
     "FuseSOM": [
         "ggpubr",
         "rstatix",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -3180,8 +3136,7 @@
         "waldo",
         "pbkrtest",
         "rtracklayer",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "GBScleanR": [],
     "gcapc": [
@@ -3209,7 +3164,6 @@
         "fgsea",
         "readr",
         "ggpubr",
-        "broom",
         "ggraph",
         "ggtree",
         "rstatix",
@@ -3233,7 +3187,6 @@
         "biomaRt",
         "ggpubr",
         "rstatix",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -3258,7 +3211,6 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -3270,8 +3222,7 @@
         "GWASTools",
         "SeqVarTools",
         "logistf",
-        "mice",
-        "broom"
+        "mice"
     ],
     "GeneStructureTools": [
         "BSgenome.Mmusculus.UCSC.mm10",
@@ -3308,9 +3259,7 @@
     "GenomicDataCommons": [
         "readr"
     ],
-    "GenomicDistributions": [
-        "broom"
-    ],
+    "GenomicDistributions": [],
     "GenomicFeatures": [
         "rtracklayer",
         "biomaRt"
@@ -3360,7 +3309,6 @@
         "ggpubr",
         "plotly",
         "rstatix",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -3415,7 +3363,6 @@
         "rstatix",
         "pbkrtest",
         "lme4",
-        "broom",
         "nloptr",
         "testthat",
         "waldo"
@@ -3451,7 +3398,6 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -3513,7 +3459,6 @@
         "readr",
         "survminer",
         "ggpubr",
-        "broom",
         "rstatix",
         "car",
         "pbkrtest",
@@ -3542,7 +3487,6 @@
         "WGCNA",
         "genefilter",
         "GO.db",
-        "broom",
         "Hmisc"
     ],
     "gmoviz": [
@@ -3631,7 +3575,6 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -3721,8 +3664,7 @@
     ],
     "GWASTools": [
         "logistf",
-        "mice",
-        "broom"
+        "mice"
     ],
     "gwasurvivr": [
         "GWASTools",
@@ -3732,8 +3674,7 @@
         "BSgenome",
         "GenomicFeatures",
         "biomaRt",
-        "mice",
-        "broom"
+        "mice"
     ],
     "GWENA": [
         "WGCNA",
@@ -3786,7 +3727,6 @@
         "multiHiCcompare",
         "rstatix",
         "HiCcompare",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -3991,7 +3931,6 @@
         "rtracklayer",
         "ggpubr",
         "rstatix",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -4030,7 +3969,6 @@
         "rstatix",
         "pbkrtest",
         "lme4",
-        "broom",
         "nloptr",
         "testthat",
         "waldo"
@@ -4051,7 +3989,6 @@
         "ggpubr",
         "survminer",
         "rstatix",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -4087,7 +4024,6 @@
         "HDO.db",
         "fgsea",
         "ggtree",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -4142,7 +4078,6 @@
         "BiocVersion"
     ],
     "isomiRs": [
-        "broom",
         "DEGreport",
         "DESeq2",
         "GGally",
@@ -4166,7 +4101,6 @@
         "survminer",
         "plotly",
         "ggpubr",
-        "broom",
         "rstatix",
         "car",
         "pbkrtest",
@@ -4222,7 +4156,6 @@
         "rtracklayer",
         "pbkrtest",
         "lme4",
-        "broom",
         "nloptr",
         "testthat",
         "waldo"
@@ -4262,7 +4195,6 @@
         "rstatix",
         "haven",
         "readr",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -4284,8 +4216,7 @@
     ],
     "LiquidAssociation": [
         "geepack",
-        "org.Sc.sgd.db",
-        "broom"
+        "org.Sc.sgd.db"
     ],
     "lisaClust": [
         "spicyR",
@@ -4365,7 +4296,6 @@
         "pbkrtest",
         "nloptr",
         "testthat",
-        "broom",
         "waldo"
     ],
     "Macarron": [
@@ -4380,7 +4310,6 @@
         "pbkrtest",
         "nloptr",
         "testthat",
-        "broom",
         "waldo"
     ],
     "macat": [],
@@ -4435,7 +4364,6 @@
         "caret",
         "tidyverse",
         "recipes",
-        "broom",
         "googlesheets4",
         "haven",
         "modelr",
@@ -4505,8 +4433,7 @@
     "mBPCR": [
         "GWASTools",
         "logistf",
-        "mice",
-        "broom"
+        "mice"
     ],
     "MBQN": [],
     "MCbiclust": [
@@ -4588,7 +4515,6 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -4659,7 +4585,6 @@
         "lme4",
         "rtracklayer",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -4667,7 +4592,6 @@
         "FlowSOM",
         "ggpubr",
         "rstatix",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -4760,7 +4684,6 @@
         "readr",
         "BiocVersion",
         "rstatix",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -4813,7 +4736,6 @@
         "bumphunter",
         "genefilter",
         "GEOquery",
-        "broom",
         "googlesheets4",
         "haven",
         "modelr",
@@ -4945,7 +4867,6 @@
         "readr",
         "heatmaply",
         "car",
-        "broom",
         "plotly",
         "pbkrtest",
         "lme4",
@@ -4994,7 +4915,6 @@
     ],
     "midasHLA": [
         "MultiAssayExperiment",
-        "broom",
         "HardyWeinberg",
         "kableExtra",
         "mice"
@@ -5109,7 +5029,6 @@
         "ggtree",
         "rstatix",
         "tidygraph",
-        "broom",
         "googlesheets4",
         "haven",
         "modelr",
@@ -5144,7 +5063,6 @@
         "ggtree",
         "rstatix",
         "tidygraph",
-        "broom",
         "googlesheets4",
         "haven",
         "modelr",
@@ -5184,8 +5102,7 @@
     ],
     "mitch": [
         "GGally",
-        "echarts4r",
-        "broom"
+        "echarts4r"
     ],
     "mitoClone2": [
         "deepSNV",
@@ -5220,7 +5137,6 @@
         "pbkrtest",
         "nloptr",
         "testthat",
-        "broom",
         "waldo"
     ],
     "mnem": [
@@ -5327,7 +5243,6 @@
         "readr",
         "ggpubr",
         "rstatix",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -5382,7 +5297,6 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -5412,7 +5326,6 @@
         "rstatix",
         "lme4",
         "MSstatsTMT",
-        "broom",
         "googlesheets4",
         "haven",
         "modelr",
@@ -5564,7 +5477,6 @@
         "ggrastr",
         "pbkrtest",
         "testthat",
-        "broom",
         "waldo"
     ],
     "musicatk": [
@@ -5591,7 +5503,6 @@
         "rstatix",
         "pbkrtest",
         "lme4",
-        "broom",
         "nloptr",
         "testthat",
         "waldo"
@@ -5609,7 +5520,6 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -5663,7 +5573,6 @@
         "testthat",
         "tidyverse",
         "waldo",
-        "broom",
         "googlesheets4",
         "haven",
         "modelr",
@@ -5683,7 +5592,6 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -5814,16 +5722,13 @@
         "haven",
         "readr",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
     "normr": [
         "rtracklayer"
     ],
-    "NPARC": [
-        "broom"
-    ],
+    "NPARC": [],
     "npGSEA": [
         "GSEABase"
     ],
@@ -5878,7 +5783,6 @@
         "testthat",
         "biomaRt",
         "VariantAnnotation",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -5926,7 +5830,6 @@
         "genefilter",
         "car",
         "nloptr",
-        "broom",
         "pbkrtest",
         "testthat",
         "waldo"
@@ -5949,7 +5852,6 @@
         "biomaRt",
         "rstatix",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -5961,7 +5863,6 @@
         "plotly",
         "fgsea",
         "ggpubr",
-        "broom",
         "rstatix",
         "car",
         "pbkrtest",
@@ -5987,7 +5888,6 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -6015,7 +5915,6 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -6066,7 +5965,6 @@
         "treeio",
         "plotly",
         "readr",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -6102,7 +6000,6 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -6200,7 +6097,6 @@
         "biomaRt",
         "fgsea",
         "ggpubr",
-        "broom",
         "rstatix",
         "car",
         "pbkrtest",
@@ -6279,7 +6175,6 @@
         "pbkrtest",
         "nloptr",
         "mice",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -6292,7 +6187,6 @@
         "GGally",
         "ggpubr",
         "rstatix",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -6380,7 +6274,6 @@
         "ggpubr",
         "Hmisc",
         "rstatix",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -6410,7 +6303,6 @@
         "BiocVersion"
     ],
     "POMA": [
-        "broom",
         "caret",
         "DESeq2",
         "mixOmics",
@@ -6530,8 +6422,7 @@
         "treeio"
     ],
     "progeny": [
-        "decoupleR",
-        "broom"
+        "decoupleR"
     ],
     "projectR": [
         "ggalluvial"
@@ -6565,8 +6456,7 @@
         "DAPAR",
         "DAPARdata",
         "highcharter",
-        "MSnbase",
-        "broom"
+        "MSnbase"
     ],
     "proteasy": [
         "ensembldb",
@@ -6603,7 +6493,6 @@
         "rstatix",
         "pbkrtest",
         "lme4",
-        "broom",
         "nloptr",
         "testthat",
         "waldo"
@@ -6613,7 +6502,6 @@
         "highcharter",
         "recount",
         "BiocVersion",
-        "broom",
         "derfinder",
         "GEOquery",
         "rtracklayer",
@@ -6643,7 +6531,6 @@
         "MSnbase",
         "plotly",
         "rstatix",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -6702,7 +6589,6 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -7032,7 +6918,6 @@
         "mice",
         "car",
         "nloptr",
-        "broom",
         "pbkrtest",
         "testthat",
         "waldo"
@@ -7135,7 +7020,6 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -7185,7 +7069,6 @@
         "biomaRt",
         "BSgenome",
         "ExperimentHub",
-        "broom",
         "readr",
         "recipes"
     ],
@@ -7231,8 +7114,7 @@
         "GenomicFeatures",
         "mice",
         "rtracklayer",
-        "biomaRt",
-        "broom"
+        "biomaRt"
     ],
     "RNAinteract": [
         "cellHTS2",
@@ -7321,7 +7203,6 @@
         "tidygraph",
         "treeio",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -7338,7 +7219,6 @@
         "GenomicFiles",
         "Hmisc",
         "readr",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -7395,7 +7275,6 @@
         "MultiAssayExperiment",
         "MultiDataSet",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -7410,7 +7289,6 @@
     "RTCGA": [
         "survminer",
         "ggpubr",
-        "broom",
         "rstatix",
         "car",
         "pbkrtest",
@@ -7433,7 +7311,6 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -7443,7 +7320,6 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -7454,7 +7330,6 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -7481,8 +7356,7 @@
         "rtracklayer"
     ],
     "RVS": [
-        "gRain",
-        "broom"
+        "gRain"
     ],
     "rWikiPathways": [],
     "sampleClassifier": [
@@ -7813,8 +7687,7 @@
     ],
     "SeqVarTools": [
         "logistf",
-        "mice",
-        "broom"
+        "mice"
     ],
     "sesame": [
         "sesameData",
@@ -7904,7 +7777,6 @@
         "BSgenome",
         "rstatix",
         "testthat",
-        "broom",
         "GenomicFeatures",
         "biomaRt",
         "car",
@@ -7926,7 +7798,6 @@
         "GSEABase",
         "readr",
         "ggpubr",
-        "broom",
         "survcomp",
         "biomaRt",
         "rstatix",
@@ -8249,7 +8120,6 @@
         "recipes",
         "lme4",
         "rstatix",
-        "broom",
         "googlesheets4",
         "haven",
         "modelr",
@@ -8302,7 +8172,6 @@
         "MESS",
         "geepack",
         "ggformula",
-        "broom",
         "labelled",
         "haven",
         "readr"
@@ -8344,7 +8213,6 @@
     ],
     "Statial": [
         "tidyverse",
-        "broom",
         "googlesheets4",
         "haven",
         "modelr",
@@ -8399,7 +8267,6 @@
     "survtype": [
         "survminer",
         "ggpubr",
-        "broom",
         "rstatix",
         "car",
         "pbkrtest",
@@ -8444,7 +8311,6 @@
         "mice",
         "car",
         "stars",
-        "broom",
         "googlesheets4",
         "haven",
         "modelr",
@@ -8458,7 +8324,6 @@
     "SynExtend": [],
     "synlet": [
         "doBy",
-        "broom",
         "pbkrtest",
         "lme4",
         "nloptr",
@@ -8490,7 +8355,6 @@
         "HiCcompare",
         "ggpubr",
         "rstatix",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -8511,7 +8375,6 @@
     "TargetDecoy": [
         "ggpubr",
         "rstatix",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -8577,7 +8440,6 @@
         "VariantAnnotation",
         "tidygraph",
         "treeio",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -8715,7 +8577,6 @@
         "ggpubr",
         "rstatix",
         "GSEABase",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -8744,8 +8605,7 @@
         "fgsea"
     ],
     "TPP": [
-        "biobroom",
-        "broom"
+        "biobroom"
     ],
     "TPP2D": [],
     "trackViewer": [
@@ -8812,7 +8672,6 @@
         "testthat",
         "rstatix",
         "waldo",
-        "broom",
         "car",
         "pbkrtest"
     ],
@@ -8963,7 +8822,6 @@
         "lmerTest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -8976,8 +8834,7 @@
     "VariantExperiment": [
         "SeqVarTools",
         "logistf",
-        "mice",
-        "broom"
+        "mice"
     ],
     "VariantFiltering": [
         "VariantAnnotation",
@@ -9186,7 +9043,6 @@
         "lmerTest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -9198,7 +9054,6 @@
     "plotly": [],
     "ggpubr": [
         "rstatix",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -9210,7 +9065,6 @@
         "waldo"
     ],
     "rstatix": [
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -9219,18 +9073,15 @@
         "waldo"
     ],
     "waldo": [],
-    "broom": [],
     "car": [
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
     "pbkrtest": [
         "lme4",
-        "broom",
         "nloptr",
         "testthat",
         "waldo"
@@ -9349,7 +9200,6 @@
     ],
     "mGSZ": [],
     "tidyverse": [
-        "broom",
         "googlesheets4",
         "haven",
         "modelr",
@@ -9382,12 +9232,9 @@
     "haven": [
         "readr"
     ],
-    "modelr": [
-        "broom"
-    ],
+    "modelr": [],
     "reactome.db": [],
     "doBy": [
-        "broom",
         "pbkrtest",
         "lme4",
         "nloptr",
@@ -9416,7 +9263,6 @@
         "biomaRt"
     ],
     "radiant.data": [
-        "broom",
         "car",
         "readr",
         "plotly",
@@ -9493,7 +9339,6 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -9502,17 +9347,12 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
     "ggpmisc": [],
-    "broom.mixed": [
-        "broom"
-    ],
-    "mice": [
-        "broom"
-    ],
+    "broom.mixed": [],
+    "mice": [],
     "GenomicTools": [],
     "IlluminaHumanMethylationEPICmanifest": [
         "minfi",
@@ -9612,7 +9452,6 @@
         "rstatix",
         "pbkrtest",
         "lme4",
-        "broom",
         "nloptr",
         "testthat",
         "waldo"
@@ -9657,9 +9496,7 @@
         "BiocVersion"
     ],
     "keras": [],
-    "highcharter": [
-        "broom"
-    ],
+    "highcharter": [],
     "RFOC": [
         "GEOmap"
     ],
@@ -9711,7 +9548,6 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -9745,9 +9581,7 @@
     "gap": [
         "plotly"
     ],
-    "geepack": [
-        "broom"
-    ],
+    "geepack": [],
     "fda": [
         "fds",
         "rainbow"
@@ -9763,13 +9597,11 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
     "survminer": [
         "ggpubr",
-        "broom",
         "rstatix",
         "car",
         "pbkrtest",
@@ -9779,8 +9611,7 @@
         "waldo"
     ],
     "logistf": [
-        "mice",
-        "broom"
+        "mice"
     ],
     "bs4Dash": [],
     "shinyHeatmaply": [
@@ -9793,9 +9624,7 @@
     "HH": [
         "Hmisc"
     ],
-    "gRain": [
-        "broom"
-    ],
+    "gRain": [],
     "HiContactsData": [
         "ExperimentHub",
         "AnnotationHub",
@@ -9900,8 +9729,7 @@
         "GGally"
     ],
     "HardyWeinberg": [
-        "mice",
-        "broom"
+        "mice"
     ],
     "lumiHumanAll.db": [],
     "BSgenome.Hsapiens.UCSC.hg18": [
@@ -9919,9 +9747,7 @@
         "testthat",
         "waldo"
     ],
-    "echarts4r": [
-        "broom"
-    ],
+    "echarts4r": [],
     "anyLib": [
         "devtools",
         "testthat",
@@ -9951,7 +9777,6 @@
         "lme4",
         "readr",
         "nloptr",
-        "broom",
         "testthat",
         "waldo"
     ],
@@ -10050,7 +9875,6 @@
         "BiocVersion"
     ],
     "valr": [
-        "broom",
         "readr",
         "rtracklayer"
     ],
@@ -10081,7 +9905,6 @@
     "survivalAnalysis": [
         "survminer",
         "ggpubr",
-        "broom",
         "rstatix",
         "car",
         "pbkrtest",
@@ -10129,7 +9952,6 @@
     "MESS": [
         "geepack",
         "ggformula",
-        "broom",
         "labelled",
         "haven",
         "readr"
