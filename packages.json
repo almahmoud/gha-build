@@ -6543,7 +6543,6 @@
         "knitr",
         "rmarkdown",
         "scales",
-        "plotmo",
         "GenomeInfoDb",
         "XVector",
         "lifecycle",
@@ -34291,7 +34290,6 @@
         "gplots",
         "jquerylib",
         "tinytex",
-        "plotmo",
         "RCurl",
         "highr",
         "MatrixModels",
@@ -72537,10 +72535,7 @@
     "gamlss": [
         "survival"
     ],
-    "earth": [
-        "plotmo"
-    ],
-    "plotmo": [],
+    "earth": [],
     "PolynomF": [],
     "GenomicState": [
         "AnnotationHub",
