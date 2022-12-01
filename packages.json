@@ -414,7 +414,6 @@
         "speaq",
         "ggplot2",
         "pillar",
-        "rARPACK",
         "ggrepel",
         "cellranger",
         "progress",
@@ -7015,7 +7014,6 @@
         "tidyselect",
         "pillar",
         "tidyr",
-        "rARPACK",
         "ggrepel"
     ],
     "DepInfeR": [],
@@ -16724,7 +16722,6 @@
         "ggplot2",
         "dplyr",
         "tidyr",
-        "rARPACK",
         "ggrepel",
         "tibble",
         "tidyselect",
@@ -17739,7 +17736,6 @@
         "usethis",
         "TFisher",
         "mutoss",
-        "rARPACK",
         "ggrepel",
         "reactome.db",
         "graphite",
@@ -20556,7 +20552,6 @@
         "geneplotter",
         "tidyselect",
         "pillar",
-        "rARPACK",
         "annotate",
         "AnnotationDbi",
         "clock",
@@ -24576,7 +24571,6 @@
     "scone": [
         "SummarizedExperiment",
         "RUVSeq",
-        "rARPACK",
         "SingleCellExperiment",
         "EDASeq",
         "ShortRead",
@@ -26924,7 +26918,6 @@
         "tibble",
         "ggforce",
         "labelled",
-        "rARPACK",
         "dplyr",
         "tidyr",
         "tweenr",
@@ -28179,8 +28172,7 @@
         "ggrepel",
         "propr",
         "tidyselect",
-        "pillar",
-        "rARPACK"
+        "pillar"
     ],
     "timescape": [
         "dplyr",
@@ -30263,7 +30255,6 @@
         "tibble",
         "pillar"
     ],
-    "rARPACK": [],
     "cellranger": [
         "tibble",
         "pillar"
@@ -34046,8 +34037,7 @@
     ],
     "bamlss": [],
     "dml": [
-        "lfda",
-        "rARPACK"
+        "lfda"
     ],
     "MESS": [
         "geepack",
@@ -34071,9 +34061,7 @@
         "vroom",
         "progress"
     ],
-    "lfda": [
-        "rARPACK"
-    ],
+    "lfda": [],
     "ggformula": [
         "ggplot2",
         "ggstance",
