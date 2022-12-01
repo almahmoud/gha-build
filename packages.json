@@ -2431,7 +2431,6 @@
         "flowDensity",
         "cytometree",
         "GGally",
-        "mrfDepth",
         "car",
         "RFOC",
         "flowWorkspace",
@@ -12702,7 +12701,6 @@
         "tidyr"
     ],
     "cytometree": [],
-    "mrfDepth": [],
     "RFOC": [
         "GEOmap",
         "fields"
