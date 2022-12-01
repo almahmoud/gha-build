@@ -11152,7 +11152,6 @@
     "signifinder": [
         "org.Hs.eg.db",
         "patchwork",
-        "DGEobj.utils",
         "GSVA",
         "consensusOV",
         "ensembldb",
@@ -14310,7 +14309,6 @@
     "tidytidbits": [
         "tidyr"
     ],
-    "DGEobj.utils": [],
     "openair": [
         "tidyr",
         "readr"
