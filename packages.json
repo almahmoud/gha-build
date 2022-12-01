@@ -4284,13 +4284,11 @@
         "testthat",
         "waldo"
     ],
-    "MeSHDbi": [],
     "meshes": [
         "DOSE",
         "enrichplot",
         "GOSemSim",
         "AnnotationHub",
-        "MeSHDbi",
         "BiocVersion",
         "fgsea",
         "ggraph",
@@ -4299,7 +4297,6 @@
         "treeio"
     ],
     "meshr": [
-        "MeSHDbi",
         "Category",
         "GSEABase",
         "genefilter"
@@ -7172,7 +7169,6 @@
         "ccTensor",
         "heatmaply",
         "AnnotationHub",
-        "MeSHDbi",
         "Category",
         "meshr",
         "GOstats",
