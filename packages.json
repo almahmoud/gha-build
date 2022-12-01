@@ -110,8 +110,7 @@
         "rGREAT",
         "Homo.sapiens",
         "Mus.musculus",
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Mmusculus.UCSC.mm10.knownGene"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
@@ -222,7 +221,6 @@
         "AnnotationHub",
         "annotatr",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "BiocVersion"
     ],
     "BitSeq": [],
@@ -382,7 +380,6 @@
     "ChIPQC": [
         "DiffBind",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene"
     ],
     "ChIPseeker": [
@@ -1958,7 +1955,6 @@
     "profileplyr": [
         "ChIPseeker",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "rGREAT"
     ],
     "PROPS": [],
@@ -2784,10 +2780,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "mGSZ": [],
-    "Mus.musculus": [
-        "TxDb.Mmusculus.UCSC.mm10.knownGene"
-    ],
-    "TxDb.Mmusculus.UCSC.mm10.knownGene": [],
+    "Mus.musculus": [],
     "doBy": [
         "pbkrtest",
         "lme4"
