@@ -1873,7 +1873,6 @@
         "pvca",
         "lme4"
     ],
-    "proFIA": [],
     "profileplyr": [
         "ChIPseeker",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
