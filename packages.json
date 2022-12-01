@@ -41219,7 +41219,6 @@
         "ggplot2",
         "reshape2",
         "EnvStats",
-        "ExtDist",
         "GenomeInfoDb",
         "XVector",
         "mgcv",
@@ -64228,7 +64227,6 @@
         "GenomeInfoDb",
         "sass"
     ],
-    "ExtDist": [],
     "phastCons100way.UCSC.hg19": [
         "GenomicScores",
         "IRanges",
