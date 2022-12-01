@@ -13948,7 +13948,6 @@
         "pillar",
         "vctrs"
     ],
-    "ecolitk": [],
     "EDASeq": [
         "ShortRead",
         "aroma.light",
