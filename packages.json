@@ -680,7 +680,6 @@
     "BioNERO": [
         "WGCNA",
         "sva",
-        "ggnetwork",
         "genefilter",
         "Hmisc",
         "GO.db"
@@ -894,7 +893,6 @@
         "BioNERO",
         "WGCNA",
         "sva",
-        "ggnetwork",
         "Hmisc",
         "biovizBase",
         "BSgenome",
@@ -1090,7 +1088,6 @@
         "clusterProfiler",
         "DESeq2",
         "GenomicTools",
-        "ggnetwork",
         "ggpubr",
         "DOSE",
         "enrichplot",
@@ -6169,7 +6166,6 @@
         "dnet",
         "supraHex",
         "caret",
-        "ggnetwork",
         "readr",
         "recipes"
     ],
@@ -8286,7 +8282,6 @@
     ],
     "syntenet": [
         "rtracklayer",
-        "ggnetwork",
         "testthat",
         "waldo"
     ],
@@ -9242,7 +9237,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "ggnetwork": [],
     "superheat": [],
     "biscuiteerData": [
         "ExperimentHub",
