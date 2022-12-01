@@ -85,7 +85,6 @@
         "ensembldb",
         "biovizBase"
     ],
-    "AlphaBeta": [],
     "alpine": [
         "GenomicFeatures",
         "biomaRt"
