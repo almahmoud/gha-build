@@ -47099,7 +47099,6 @@
         "viridis",
         "edgeR",
         "reshape2",
-        "NMI",
         "zoo",
         "ClusterR",
         "ggplot2",
@@ -94646,7 +94645,6 @@
         "nlme",
         "Matrix"
     ],
-    "NMI": [],
     "MKmisc": [
         "robustbase",
         "ggplot2",
