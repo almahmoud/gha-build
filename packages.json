@@ -1352,7 +1352,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz"
     ],
