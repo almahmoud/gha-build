@@ -2328,8 +2328,7 @@
         "biomaRt"
     ],
     "FEAST": [
-        "TSCAN",
-        "SC3"
+        "TSCAN"
     ],
     "fedup": [],
     "ffpe": [
@@ -5850,7 +5849,6 @@
     "SBGNview": [
         "pathview"
     ],
-    "SC3": [],
     "scAlign": [
         "Seurat"
     ],
