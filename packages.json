@@ -14061,7 +14061,6 @@
         "penalized",
         "glmnet"
     ],
-    "GSAR": [],
     "GSCA": [
         "shiny",
         "ggplot2",
