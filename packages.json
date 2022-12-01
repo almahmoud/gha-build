@@ -5965,7 +5965,6 @@
         "tidyverse",
         "haven"
     ],
-    "STdeconvolve": [],
     "stJoincount": [
         "Seurat",
         "SpatialExperiment"
