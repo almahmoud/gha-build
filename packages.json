@@ -1786,7 +1786,6 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "CNVgears": [],
     "CNViz": [
         "plotly",
         "karyoploteR",
