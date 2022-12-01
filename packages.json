@@ -234,7 +234,6 @@
         "viridis",
         "MultiAssayExperiment",
         "decontam",
-        "DECIPHER",
         "scuttle",
         "scater",
         "testthat",
@@ -513,9 +512,7 @@
         "dbplyr",
         "viridis"
     ],
-    "AssessORF": [
-        "DECIPHER"
-    ],
+    "AssessORF": [],
     "ASSIGN": [
         "sva",
         "genefilter",
@@ -852,7 +849,6 @@
         "viridis",
         "MultiAssayExperiment",
         "decontam",
-        "DECIPHER",
         "scuttle",
         "scater",
         "testthat",
@@ -3384,7 +3380,6 @@
         "tidytree",
         "treeio"
     ],
-    "DECIPHER": [],
     "deco": [
         "AnnotationDbi"
     ],
@@ -8130,7 +8125,6 @@
         "TreeSummarizedExperiment",
         "MultiAssayExperiment",
         "decontam",
-        "DECIPHER",
         "scuttle",
         "scater",
         "tidyr",
@@ -8165,7 +8159,6 @@
         "treeio",
         "MultiAssayExperiment",
         "decontam",
-        "DECIPHER",
         "scuttle",
         "ggbeeswarm",
         "ggrastr",
@@ -8230,7 +8223,6 @@
         "viridis",
         "MultiAssayExperiment",
         "decontam",
-        "DECIPHER",
         "scuttle",
         "scater",
         "testthat",
@@ -9894,13 +9886,11 @@
         "flowWorkspace"
     ],
     "openPrimeR": [
-        "DECIPHER",
         "Hmisc",
         "viridis"
     ],
     "openPrimeRui": [
         "openPrimeR",
-        "DECIPHER",
         "Hmisc",
         "viridis"
     ],
@@ -12308,7 +12298,6 @@
         "dbplyr"
     ],
     "sangeranalyseR": [
-        "DECIPHER",
         "plotly",
         "ggdendro",
         "tidyr"
@@ -12545,7 +12534,6 @@
         "ggforce"
     ],
     "scifer": [
-        "DECIPHER",
         "kableExtra"
     ],
     "scMAGeCK": [
@@ -14046,9 +14034,7 @@
         "testthat",
         "waldo"
     ],
-    "SynExtend": [
-        "DECIPHER"
-    ],
+    "SynExtend": [],
     "synlet": [
         "doBy",
         "broom",
