@@ -5240,7 +5240,6 @@
         "DelayedArray"
     ],
     "BumpyMatrix": [],
-    "BUS": [],
     "BUScorrect": [
         "SummarizedExperiment",
         "GenomicRanges",
