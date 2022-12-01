@@ -5751,7 +5751,6 @@
     "piano": [
         "fgsea"
     ],
-    "PICS": [],
     "Pigengene": [
         "WGCNA",
         "clusterProfiler",
@@ -5767,7 +5766,6 @@
         "treeio"
     ],
     "PING": [
-        "PICS",
         "Gviz",
         "fda",
         "BSgenome",
