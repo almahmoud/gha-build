@@ -1241,7 +1241,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "lipidr": [],
     "lisaClust": [
         "spicyR",
         "lmerTest",
