@@ -4430,7 +4430,6 @@
         "IRanges",
         "fgsea",
         "rGREAT",
-        "JASPAR2016",
         "Homo.sapiens",
         "Mus.musculus",
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -123092,7 +123091,6 @@
         "base64enc",
         "ps"
     ],
-    "JASPAR2016": [],
     "Mus.musculus": [
         "AnnotationDbi",
         "OrganismDbi",
