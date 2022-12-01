@@ -182,7 +182,6 @@
         "BiocVersion"
     ],
     "BiocVersion": [],
-    "biodbChebi": [],
     "biodbExpasy": [],
     "biodbHmdb": [],
     "biodbKegg": [],
@@ -1802,9 +1801,7 @@
     "PFP": [
         "clusterProfiler"
     ],
-    "phenomis": [
-        "biodbChebi"
-    ],
+    "phenomis": [],
     "PhenStat": [
         "car",
         "lme4",
