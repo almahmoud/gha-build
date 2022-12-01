@@ -222,7 +222,6 @@
         "ff",
         "GLAD",
         "tilingArray",
-        "waveslim",
         "aCGH",
         "snapCGH",
         "survival",
@@ -16024,7 +16023,6 @@
         "raster",
         "readbitmap",
         "reshape2",
-        "waveslim",
         "wavethresh",
         "zoo",
         "nlme",
@@ -88478,7 +88476,6 @@
     "globals": [],
     "R.oo": [],
     "ff": [],
-    "waveslim": [],
     "aws": [],
     "strucchange": [
         "zoo",
