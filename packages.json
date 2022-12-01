@@ -890,7 +890,6 @@
     ],
     "CEMiTool": [
         "WGCNA",
-        "ggpmisc",
         "clusterProfiler",
         "DOSE",
         "enrichplot",
@@ -4004,7 +4003,6 @@
         "methylclockData",
         "devtools",
         "ExperimentHub",
-        "ggpmisc",
         "tidyverse",
         "ggpubr",
         "minfi",
@@ -7900,7 +7898,6 @@
         "testthat",
         "waldo"
     ],
-    "ggpmisc": [],
     "broom.mixed": [],
     "mice": [],
     "GenomicTools": [],
