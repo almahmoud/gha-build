@@ -2806,8 +2806,7 @@
     ],
     "BiGGR": [
         "rsbml",
-        "hyperdraw",
-        "LIM"
+        "hyperdraw"
     ],
     "bigmelon": [
         "wateRmelon",
@@ -46338,7 +46337,6 @@
         "vctrs",
         "pillar"
     ],
-    "LIM": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
         "GenomicRanges",
