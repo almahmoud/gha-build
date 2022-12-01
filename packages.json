@@ -175,7 +175,6 @@
     "airpart": [
         "SingleCellExperiment",
         "scater",
-        "apeglm",
         "dplyr",
         "ggplot2",
         "scuttle",
@@ -438,7 +437,6 @@
         "org.Sc.sgd.db",
         "AnnotationDbi"
     ],
-    "apeglm": [],
     "APL": [
         "ggrepel",
         "ggplot2",
@@ -2540,7 +2538,6 @@
         "dplyr",
         "DESeq2",
         "ggrepel",
-        "apeglm",
         "GreyListChIP",
         "AnnotationDbi",
         "rtracklayer",
@@ -4082,7 +4079,6 @@
         "plotly",
         "heatmaply",
         "pathview",
-        "apeglm",
         "dplyr",
         "GO.db",
         "GOSemSim",
@@ -4442,7 +4438,6 @@
         "ggplot2",
         "DESeq2",
         "ggrepel",
-        "apeglm",
         "GreyListChIP",
         "geneplotter",
         "BSgenome",
@@ -17525,7 +17520,6 @@
         "GenKern"
     ],
     "TEKRABber": [
-        "apeglm",
         "biomaRt",
         "DESeq2",
         "AnnotationDbi",
@@ -18547,7 +18541,6 @@
         "geneplotter",
         "systemPipeR",
         "ggrepel",
-        "apeglm",
         "GreyListChIP",
         "BiocFileCache",
         "annotate",
