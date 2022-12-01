@@ -8622,7 +8622,6 @@
         "GenomicRanges",
         "hms"
     ],
-    "dupRadar": [],
     "easier": [
         "progeny",
         "easierData",
