@@ -40128,10 +40128,7 @@
         "R.oo",
         "Rhtslib"
     ],
-    "LPE": [],
-    "LPEadj": [
-        "LPE"
-    ],
+    "LPEadj": [],
     "lpNet": [],
     "LRBaseDbi": [
         "AnnotationDbi",
@@ -58592,8 +58589,7 @@
         "rematch2"
     ],
     "PLPE": [
-        "Biobase",
-        "LPE"
+        "Biobase"
     ],
     "plyranges": [
         "IRanges",
