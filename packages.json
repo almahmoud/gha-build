@@ -6511,7 +6511,6 @@
     ],
     "cellTree": [
         "topGO",
-        "topicmodels",
         "igraph",
         "GO.db",
         "AnnotationDbi",
@@ -31143,7 +31142,6 @@
         "BSgenome.Mmusculus.UCSC.mm10",
         "deconstructSigs",
         "decompTumor2Sig",
-        "topicmodels",
         "ggrepel",
         "plotly",
         "factoextra",
@@ -47510,7 +47508,6 @@
         "ROC"
     ],
     "STdeconvolve": [
-        "topicmodels",
         "BiocParallel",
         "mgcv",
         "ggplot2",
@@ -55409,7 +55406,6 @@
         "vctrs",
         "pillar"
     ],
-    "topicmodels": [],
     "ggpmisc": [
         "ggpp",
         "ggplot2",
