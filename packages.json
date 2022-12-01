@@ -208,7 +208,6 @@
     "CytoGLMM": [
         "factoextra"
     ],
-    "DaMiRseq": [],
     "dasper": [],
     "derfinderPlot": [],
     "destiny": [],
@@ -289,9 +288,7 @@
     ],
     "FlowSOM": [],
     "FuseSOM": [],
-    "GARS": [
-        "DaMiRseq"
-    ],
+    "GARS": [],
     "GDCRNATools": [
         "survminer"
     ],
