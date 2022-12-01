@@ -1409,7 +1409,6 @@
         "car",
         "pbkrtest"
     ],
-    "Oscope": [],
     "padma": [
         "FactoMineR",
         "car",
@@ -1739,9 +1738,7 @@
     "scDD": [
         "arm"
     ],
-    "scDDboost": [
-        "Oscope"
-    ],
+    "scDDboost": [],
     "scMAGeCK": [],
     "scMerge": [],
     "scmeth": [
