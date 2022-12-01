@@ -23050,7 +23050,6 @@
         "blob",
         "Biostrings"
     ],
-    "lapmix": [],
     "ldblock": [
         "httr",
         "openssl"
