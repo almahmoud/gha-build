@@ -1145,7 +1145,6 @@
         "Category",
         "GOstats",
         "annotate",
-        "RCy3",
         "genefilter",
         "GO.db"
     ],
@@ -1296,7 +1295,6 @@
         "GGally",
         "ggnetwork",
         "ggpubr",
-        "RCy3",
         "DOSE",
         "enrichplot",
         "GO.db",
@@ -2415,8 +2413,7 @@
         "BiocFileCache"
     ],
     "DEGraph": [
-        "NCIgraph",
-        "RCy3"
+        "NCIgraph"
     ],
     "DEGreport": [
         "broom",
@@ -3396,9 +3393,7 @@
         "SC3",
         "TrajectoryUtils"
     ],
-    "fedup": [
-        "RCy3"
-    ],
+    "fedup": [],
     "ffpe": [
         "lumi",
         "methylumi",
@@ -5362,7 +5357,6 @@
     "MetaPhOR": [
         "clusterProfiler",
         "RecordLinkage",
-        "RCy3",
         "DOSE",
         "enrichplot",
         "GO.db",
@@ -5988,9 +5982,7 @@
         "GO.db"
     ],
     "MOFA2": [],
-    "MOGAMUN": [
-        "RCy3"
-    ],
+    "MOGAMUN": [],
     "mogsa": [
         "graphite",
         "genefilter",
@@ -6485,9 +6477,7 @@
         "xcms",
         "MSnbase"
     ],
-    "NCIgraph": [
-        "RCy3"
-    ],
+    "NCIgraph": [],
     "ndexr": [],
     "nearBynding": [
         "plyranges",
@@ -6568,7 +6558,6 @@
     ],
     "netZooR": [
         "yarn",
-        "RCy3",
         "STRINGdb",
         "GOstats",
         "GO.db",
@@ -7800,7 +7789,6 @@
         "DiagrammeR",
         "readr"
     ],
-    "RCy3": [],
     "ReactomeGraph4R": [
         "neo4r"
     ],
@@ -7912,7 +7900,6 @@
     "regutools": [
         "AnnotationHub",
         "Gviz",
-        "RCy3",
         "BiocFileCache",
         "BiocVersion",
         "rtracklayer",
@@ -9876,7 +9863,6 @@
         "biomaRt",
         "clusterProfiler",
         "gghighlight",
-        "RCy3",
         "rWikiPathways",
         "BiocFileCache",
         "DOSE",
@@ -10011,9 +9997,7 @@
         "GO.db",
         "annotate"
     ],
-    "transomics2cytoscape": [
-        "RCy3"
-    ],
+    "transomics2cytoscape": [],
     "TraRe": [
         "vbsr"
     ],
