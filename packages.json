@@ -30394,7 +30394,6 @@
         "mnem",
         "naturalsort",
         "ppcor",
-        "glm2",
         "graphite",
         "reshape2",
         "dplyr",
@@ -69540,7 +69539,6 @@
         "Rgraphviz",
         "png",
         "Biostrings",
-        "glm2",
         "ppcor",
         "qvalue",
         "car",
@@ -82443,7 +82441,6 @@
     ],
     "MVCClass": [],
     "MWASTools": [
-        "glm2",
         "ppcor",
         "qvalue",
         "car",
@@ -137065,7 +137062,6 @@
         "scales",
         "reshape2",
         "Ckmeans.1d.dp",
-        "glm2",
         "RhpcBLASctl",
         "futile.logger",
         "snow",
@@ -151347,7 +151343,6 @@
     "ppcor": [
         "MASS"
     ],
-    "glm2": [],
     "harmonicmeanp": [],
     "logger": [],
     "TFisher": [
