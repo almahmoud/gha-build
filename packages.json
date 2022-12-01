@@ -38546,7 +38546,6 @@
         "e1071",
         "akima",
         "ggplot2",
-        "irr",
         "plot3D",
         "plyr",
         "RCurl",
@@ -93224,7 +93223,6 @@
     "akima": [
         "sp"
     ],
-    "irr": [],
     "scam": [
         "mgcv",
         "Matrix",
