@@ -1751,7 +1751,6 @@
         "dbplyr",
         "dplyr"
     ],
-    "BUScorrect": [],
     "BUSpaRse": [
         "AnnotationDbi",
         "biomaRt",
