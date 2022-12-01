@@ -1423,7 +1423,6 @@
         "tidyr",
         "Matrix",
         "bit64",
-        "Rmpfr",
         "osqp",
         "RcppEigen",
         "expm",
@@ -5029,7 +5028,6 @@
         "rhdf5",
         "XVector",
         "bit64",
-        "Rmpfr",
         "osqp",
         "expm",
         "Exact",
@@ -30705,7 +30703,6 @@
         "vcd",
         "shiny",
         "Hmisc",
-        "Rmpfr",
         "interp",
         "httr",
         "IRanges",
@@ -43922,7 +43919,6 @@
         "sp",
         "ggplotify",
         "bit64",
-        "Rmpfr",
         "osqp",
         "RcppEigen",
         "expm",
@@ -47218,7 +47214,6 @@
         "rngtools",
         "AnnotationDbi",
         "plyr",
-        "Rmpfr",
         "Biobase",
         "IRanges",
         "RSQLite",
@@ -54955,7 +54950,6 @@
         "crosstalk",
         "purrr",
         "promises",
-        "Rmpfr",
         "BWStest",
         "RcppEigen",
         "MatrixGenerics",
@@ -56292,7 +56286,6 @@
         "igraph",
         "rARPACK",
         "gridExtra",
-        "Rmpfr",
         "bslib",
         "htmltools",
         "jquerylib",
@@ -59699,9 +59692,7 @@
     "randRotation": [
         "Rdpack"
     ],
-    "RankProd": [
-        "Rmpfr"
-    ],
+    "RankProd": [],
     "RAREsim": [
         "nloptr",
         "testthat",
@@ -70148,7 +70139,6 @@
         "rngtools",
         "doParallel",
         "Biobase",
-        "Rmpfr",
         "BWStest",
         "inaparc",
         "plyr",
@@ -75649,7 +75639,6 @@
         "pillar",
         "mgcv",
         "scales",
-        "Rmpfr",
         "plyr",
         "stringr",
         "ellipsis",
@@ -78536,7 +78525,6 @@
         "RcppArmadillo",
         "AnnotationDbi",
         "GO.db",
-        "Rmpfr",
         "graph",
         "RSQLite",
         "KEGGREST",
@@ -82055,7 +82043,6 @@
         "mgcv",
         "scales",
         "httr",
-        "Rmpfr",
         "BWStest",
         "plyr",
         "stringr",
@@ -83547,7 +83534,6 @@
     "CVXR": [
         "Matrix",
         "bit64",
-        "Rmpfr",
         "osqp",
         "RcppEigen"
     ],
@@ -83596,7 +83582,6 @@
         "diffobj",
         "rematch2"
     ],
-    "Rmpfr": [],
     "osqp": [
         "Matrix"
     ],
@@ -90433,7 +90418,6 @@
         "vcd",
         "shiny",
         "Hmisc",
-        "Rmpfr",
         "survival",
         "ggplot2",
         "htmlTable",
@@ -93047,7 +93031,6 @@
     ],
     "celestial": [],
     "PMCMRplus": [
-        "Rmpfr",
         "BWStest",
         "memoise",
         "cachem"
