@@ -1844,7 +1844,6 @@
         "tidyselect",
         "vroom"
     ],
-    "arrayQuality": [],
     "arrayQualityMetrics": [
         "affyPLM",
         "beadarray",
