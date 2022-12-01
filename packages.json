@@ -59725,7 +59725,6 @@
     "skewr": [
         "methylumi",
         "wateRmelon",
-        "mixsmsn",
         "IlluminaHumanMethylation450kmanifest",
         "minfi",
         "Biobase",
@@ -78959,7 +78958,6 @@
         "RCurl",
         "lifecycle"
     ],
-    "mixsmsn": [],
     "sampSurf": [],
     "spdep": [
         "sp",
