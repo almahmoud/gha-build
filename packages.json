@@ -501,7 +501,6 @@
         "ggrastr",
         "ggrepel",
         "glmnet",
-        "speedglm",
         "GenomeInfoDb",
         "ScaledMatrix",
         "XVector",
@@ -614,7 +613,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "GenomicFeatures",
-        "speedglm",
         "GenomeInfoDb",
         "XVector",
         "BiocParallel",
@@ -9803,7 +9801,6 @@
         "factoextra",
         "mbest",
         "pheatmap",
-        "speedglm",
         "strucchange",
         "ggrepel",
         "caret",
@@ -9866,7 +9863,6 @@
         "ggplot2",
         "mbest",
         "pheatmap",
-        "speedglm",
         "strucchange",
         "tibble",
         "ggrepel",
@@ -11728,7 +11724,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "GenomicRanges",
-        "speedglm",
         "arm",
         "rtracklayer",
         "benchmarkme",
@@ -13967,7 +13962,6 @@
         "BSgenome",
         "Biostrings",
         "glmnet",
-        "speedglm",
         "fgsea",
         "XVector",
         "rtracklayer",
@@ -14106,7 +14100,6 @@
         "GenomeInfoDb",
         "BiocParallel",
         "rtracklayer",
-        "speedglm",
         "XVector",
         "geneplotter",
         "AnnotationDbi",
@@ -28777,7 +28770,6 @@
         "ggplot2",
         "plyranges",
         "ks",
-        "speedglm",
         "progress",
         "ggridges",
         "XVector",
@@ -31962,7 +31954,6 @@
         "progress",
         "Hmisc",
         "ranger",
-        "speedglm",
         "MSnbase",
         "tibble",
         "tidyselect",
@@ -46822,7 +46813,6 @@
     "smurf": [
         "glmnet",
         "mgcv",
-        "speedglm",
         "survival"
     ],
     "emdbook": [
@@ -46852,7 +46842,6 @@
         "textshaping",
         "pillar"
     ],
-    "speedglm": [],
     "ragg": [
         "textshaping"
     ],
