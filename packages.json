@@ -15090,7 +15090,6 @@
         "tidyselect",
         "ellipsis"
     ],
-    "ctc": [],
     "CTDquerier": [
         "RCurl",
         "ggplot2",
@@ -39863,7 +39862,6 @@
         "TCGAbiolinks",
         "dplyr",
         "SummarizedExperiment",
-        "ctc",
         "InvariantCausalPrediction",
         "Category",
         "GOstats",
@@ -42791,7 +42789,6 @@
         "calibrate"
     ],
     "multiClust": [
-        "ctc",
         "survival",
         "dendextend",
         "ggplot2",
