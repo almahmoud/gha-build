@@ -1141,7 +1141,6 @@
         "e1071",
         "pROC",
         "recipes",
-        "rex",
         "httr",
         "IRanges",
         "GenomicRanges",
@@ -59905,7 +59904,6 @@
         "openssl"
     ],
     "covr": [
-        "rex",
         "httr",
         "openssl"
     ],
@@ -59963,7 +59961,6 @@
         "future.apply",
         "future"
     ],
-    "rex": [],
     "modeest": [
         "fBasics",
         "statip"
