@@ -1,8 +1,7 @@
 {
     "ADAMgui": [
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "adductomicsR": [
         "adductData",
@@ -102,14 +101,12 @@
         "Gviz"
     ],
     "bioCancer": [
-        "radiant.data",
-        "car"
+        "radiant.data"
     ],
     "BiocCheck": [],
     "BiocOncoTK": [
         "curatedTCGAData",
         "ggpubr",
-        "car",
         "AnnotationHub",
         "ExperimentHub",
         "rstatix",
@@ -167,7 +164,6 @@
         "drc",
         "FlowSOM",
         "scater",
-        "car",
         "ggpubr",
         "rstatix"
     ],
@@ -182,8 +178,7 @@
         "scater"
     ],
     "cellmigRation": [
-        "FactoMineR",
-        "car"
+        "FactoMineR"
     ],
     "CellMixS": [
         "scater"
@@ -192,14 +187,12 @@
         "diffcyt",
         "FlowSOM",
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "CeTF": [
         "GenomicTools",
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "ChAMP": [
         "DMRcate",
@@ -267,7 +260,6 @@
         "scater",
         "FactoMineR",
         "ggpubr",
-        "car",
         "rstatix"
     ],
     "condiments": [
@@ -330,8 +322,7 @@
         "BiocVersion"
     ],
     "cyanoFilter": [
-        "flowDensity",
-        "car"
+        "flowDensity"
     ],
     "CyTOFpower": [
         "CytoGLMM",
@@ -340,29 +331,24 @@
         "FlowSOM",
         "FactoMineR",
         "ggpubr",
-        "car",
         "rstatix"
     ],
     "CytoGLMM": [
         "factoextra",
         "FactoMineR",
         "ggpubr",
-        "car",
         "rstatix"
     ],
     "dagLogo": [],
     "DaMiRseq": [
-        "FactoMineR",
-        "car"
+        "FactoMineR"
     ],
     "dasper": [
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "ddPCRclust": [
-        "flowDensity",
-        "car"
+        "flowDensity"
     ],
     "debrowser": [],
     "deconvR": [],
@@ -375,14 +361,12 @@
         "ggbio"
     ],
     "destiny": [
-        "VIM",
-        "car"
+        "VIM"
     ],
     "diffcyt": [
         "FlowSOM",
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "distinct": [
         "scater"
@@ -409,8 +393,7 @@
         "BiocVersion"
     ],
     "Doscheda": [
-        "drc",
-        "car"
+        "drc"
     ],
     "easier": [
         "easierData",
@@ -418,15 +401,13 @@
         "rstatix",
         "ExperimentHub",
         "AnnotationHub",
-        "car",
         "BiocVersion"
     ],
     "edge": [],
     "ELMER": [
         "Gviz",
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "enhancerHomologSearch": [],
     "ENmix": [
@@ -436,8 +417,7 @@
     ],
     "enrichTF": [
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "EpiCompare": [
         "AnnotationHub",
@@ -445,13 +425,11 @@
     ],
     "epidecodeR": [
         "rstatix",
-        "ggpubr",
-        "car"
+        "ggpubr"
     ],
     "epigraHMM": [
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "epihet": [
         "EntropyExplorer"
@@ -482,8 +460,7 @@
         "ggpubr",
         "AnnotationHub",
         "rstatix",
-        "BiocVersion",
-        "car"
+        "BiocVersion"
     ],
     "ExperimentHub": [
         "AnnotationHub",
@@ -512,23 +489,16 @@
         "SPARQL"
     ],
     "flowCut": [
-        "flowDensity",
-        "car"
+        "flowDensity"
     ],
-    "flowDensity": [
-        "car"
-    ],
-    "flowPloidy": [
-        "car"
-    ],
+    "flowDensity": [],
+    "flowPloidy": [],
     "FlowSOM": [
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "frenchFISH": [
-        "NHPoisson",
-        "car"
+        "NHPoisson"
     ],
     "funtooNorm": [
         "IlluminaHumanMethylation450kmanifest",
@@ -536,29 +506,24 @@
     ],
     "FuseSOM": [
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "GA4GHshiny": [],
     "GARS": [
         "DaMiRseq",
-        "FactoMineR",
-        "car"
+        "FactoMineR"
     ],
     "GDCRNATools": [
         "survminer",
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "GeneAccord": [
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "GeneGeneInteR": [
-        "FactoMineR",
-        "car"
+        "FactoMineR"
     ],
     "GeneStructureTools": [
         "Gviz"
@@ -575,8 +540,7 @@
     ],
     "GenomicSuperSignature": [
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "GenProSeq": [
         "DeepPINCS",
@@ -589,24 +553,19 @@
         "factoextra",
         "FactoMineR",
         "ggpubr",
-        "car",
         "rstatix"
     ],
     "GeomxTools": [],
-    "GEWIST": [
-        "car"
-    ],
+    "GEWIST": [],
     "ggbio": [],
     "glmSparseNet": [
         "survminer",
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "goSorensen": [],
     "GRmetrics": [
-        "drc",
-        "car"
+        "drc"
     ],
     "GSEABenchmarkeR": [
         "AnnotationHub",
@@ -625,8 +584,7 @@
     ],
     "HiCDOC": [
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "HiContacts": [
         "HiContactsData",
@@ -650,8 +608,7 @@
     "IMAS": [],
     "InTAD": [
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "intansv": [
         "ggbio"
@@ -660,15 +617,13 @@
         "factoextra",
         "FactoMineR",
         "ggpubr",
-        "car",
         "rstatix"
     ],
     "IntEREst": [],
     "iPath": [
         "ggpubr",
         "survminer",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "ipdDb": [
         "AnnotationHub",
@@ -677,8 +632,7 @@
     "IRISFGM": [
         "ggpubr",
         "scater",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "ISAnalytics": [],
     "iSEEhub": [
@@ -694,21 +648,18 @@
     "ivygapSE": [
         "survminer",
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "karyoploteR": [],
     "kissDE": [
         "factoextra",
         "FactoMineR",
         "ggpubr",
-        "car",
         "rstatix"
     ],
     "LinkHD": [
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "lisaClust": [
         "spicyR"
@@ -729,12 +680,9 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "Maaslin2": [
-        "car"
-    ],
+    "Maaslin2": [],
     "Macarron": [
-        "Maaslin2",
-        "car"
+        "Maaslin2"
     ],
     "MACSr": [
         "ExperimentHub",
@@ -775,8 +723,7 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
     "MEDME": [
-        "drc",
-        "car"
+        "drc"
     ],
     "meshes": [
         "AnnotationHub",
@@ -784,14 +731,12 @@
     ],
     "MetaboSignal": [
         "hpar",
-        "MWASTools",
-        "car"
+        "MWASTools"
     ],
     "MetaCyto": [
         "FlowSOM",
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "metagene": [],
     "metavizr": [
@@ -804,8 +749,7 @@
         "AnnotationHub",
         "ExperimentHub",
         "BiocVersion",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "MethylAid": [],
     "methylCC": [
@@ -822,7 +766,6 @@
         "ExperimentHubData",
         "BiocVersion",
         "AnnotationHubData",
-        "car",
         "BiocCheck"
     ],
     "methylGSA": [
@@ -844,9 +787,7 @@
         "mia",
         "scater"
     ],
-    "microbiomeExplorer": [
-        "car"
-    ],
+    "microbiomeExplorer": [],
     "microbiomeMarker": [
         "ANCOMBC",
         "mia",
@@ -860,14 +801,12 @@
         "miRspongeR",
         "SPONGE",
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "miRspongeR": [
         "SPONGE",
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "missMethyl": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -878,16 +817,14 @@
     ],
     "mitoClone2": [],
     "MMUPHin": [
-        "Maaslin2",
-        "car"
+        "Maaslin2"
     ],
     "motifbreakR": [
         "Gviz"
     ],
     "MQmetrics": [
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "msgbsR": [
         "ggbio"
@@ -897,8 +834,7 @@
         "BiocVersion"
     ],
     "MSPrep": [
-        "VIM",
-        "car"
+        "VIM"
     ],
     "MSstatsLiP": [
         "MSstatsPTM",
@@ -906,8 +842,7 @@
         "ggpubr",
         "FactoMineR",
         "rstatix",
-        "MSstatsTMT",
-        "car"
+        "MSstatsTMT"
     ],
     "MSstatsPTM": [
         "MSstatsTMT"
@@ -930,12 +865,9 @@
         "factoextra",
         "FactoMineR",
         "ggpubr",
-        "car",
         "rstatix"
     ],
-    "MWASTools": [
-        "car"
-    ],
+    "MWASTools": [],
     "NADfinder": [
         "trackViewer",
         "ATACseqQC",
@@ -945,7 +877,6 @@
         "BiocVersion"
     ],
     "NBSplice": [
-        "car",
         "mppa"
     ],
     "netOmics": [],
@@ -958,7 +889,6 @@
     ],
     "nondetects": [],
     "NormalyzerDE": [
-        "car",
         "RcmdrMisc"
     ],
     "NxtIRFcore": [
@@ -977,8 +907,7 @@
         "dasper",
         "derfinder",
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "OGRE": [
         "Gviz",
@@ -988,61 +917,49 @@
     "omada": [],
     "omicRexposome": [
         "rexposome",
-        "FactoMineR",
-        "car"
+        "FactoMineR"
     ],
     "OMICsPCA": [
         "factoextra",
         "FactoMineR",
         "ggpubr",
-        "car",
         "rstatix"
     ],
     "omicsViewer": [
         "survminer",
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
-    "OncoSimulR": [
-        "car"
-    ],
+    "OncoSimulR": [],
     "onlineFDR": [],
     "ontoProc": [
         "AnnotationHub",
         "BiocVersion"
     ],
     "OpenStats": [
-        "AICcmodavg",
-        "car"
+        "AICcmodavg"
     ],
     "orthogene": [
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "padma": [
-        "FactoMineR",
-        "car"
+        "FactoMineR"
     ],
     "pageRank": [],
     "PDATK": [
         "survminer",
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "peco": [
         "scater"
     ],
     "PFP": [],
-    "PhenStat": [
-        "car"
-    ],
+    "PhenStat": [],
     "PhosR": [
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "PhyloProfile": [
         "ExperimentHub",
@@ -1058,8 +975,7 @@
     ],
     "plotGrouper": [
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "podkat": [],
     "pogos": [
@@ -1084,7 +1000,6 @@
         "ggpubr",
         "factoextra",
         "FactoMineR",
-        "car",
         "rstatix"
     ],
     "psichomics": [
@@ -1095,8 +1010,7 @@
     ],
     "ptairMS": [
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "Pviz": [
         "Gviz"
@@ -1112,8 +1026,7 @@
         "BiocVersion"
     ],
     "qmtools": [
-        "VIM",
-        "car"
+        "VIM"
     ],
     "qrqc": [],
     "quantro": [],
@@ -1156,8 +1069,7 @@
         "BiocVersion"
     ],
     "rexposome": [
-        "FactoMineR",
-        "car"
+        "FactoMineR"
     ],
     "rGenomeTracks": [
         "rGenomeTracksData",
@@ -1168,9 +1080,7 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [],
-    "rifi": [
-        "car"
-    ],
+    "rifi": [],
     "RIPAT": [
         "karyoploteR"
     ],
@@ -1204,40 +1114,31 @@
         "FactoMineR",
         "factoextra",
         "ggpubr",
-        "car",
         "rstatix"
     ],
     "RnaSeqSampleSize": [
         "recount",
         "ggpubr",
         "rstatix",
-        "derfinder",
-        "car"
+        "derfinder"
     ],
     "RnBeads": [
         "methylumi"
     ],
     "Rqc": [],
-    "rqt": [
-        "car"
-    ],
+    "rqt": [],
     "RTCGA": [
         "survminer",
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
-    "RTN": [
-        "car"
-    ],
+    "RTN": [],
     "RTNduals": [
-        "RTN",
-        "car"
+        "RTN"
     ],
     "RTNsurvival": [
         "RTN",
-        "RTNduals",
-        "car"
+        "RTNduals"
     ],
     "scanMiRApp": [
         "AnnotationHub",
@@ -1309,14 +1210,12 @@
         "survivalAnalysis",
         "survminer",
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "signifinder": [
         "survminer",
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "singleCellTK": [
         "AnnotationHub",
@@ -1375,8 +1274,7 @@
     ],
     "SPONGE": [
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "srnadiff": [
         "Gviz"
@@ -1390,27 +1288,23 @@
     "survtype": [
         "survminer",
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "svaNUMT": [],
     "svaRetro": [],
     "synergyfinder": [
-        "drc",
-        "car"
+        "drc"
     ],
     "synlet": [
         "doBy"
     ],
     "TADCompare": [
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "TargetDecoy": [
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "TCGAbiolinksGUI": [
         "ELMER",
@@ -1421,8 +1315,7 @@
         "rstatix",
         "ExperimentHub",
         "AnnotationHub",
-        "BiocVersion",
-        "car"
+        "BiocVersion"
     ],
     "TDARACNE": [
         "GenKern"
@@ -1439,8 +1332,7 @@
     ],
     "TNBC.CMS": [
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "trackViewer": [
         "Gviz"
@@ -1453,8 +1345,7 @@
         "diffcyt",
         "FlowSOM",
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "tricycle": [
         "scater"
@@ -1514,13 +1405,9 @@
         "variancePartition"
     ],
     "ggpubr": [
-        "rstatix",
-        "car"
+        "rstatix"
     ],
-    "rstatix": [
-        "car"
-    ],
-    "car": [],
+    "rstatix": [],
     "adductData": [
         "ExperimentHub",
         "AnnotationHub",
@@ -1550,9 +1437,7 @@
     "mGSZ": [],
     "doBy": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [],
-    "radiant.data": [
-        "car"
-    ],
+    "radiant.data": [],
     "synaptome.db": [
         "synaptome.data",
         "AnnotationHub",
@@ -1572,12 +1457,8 @@
         "derfinder",
         "BiocVersion"
     ],
-    "drc": [
-        "car"
-    ],
-    "FactoMineR": [
-        "car"
-    ],
+    "drc": [],
+    "FactoMineR": [],
     "GenomicTools": [],
     "IlluminaHumanMethylationEPICmanifest": [],
     "IlluminaHumanMethylation450kmanifest": [],
@@ -1587,7 +1468,6 @@
     "factoextra": [
         "FactoMineR",
         "ggpubr",
-        "car",
         "rstatix"
     ],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [],
@@ -1596,9 +1476,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "VIM": [
-        "car"
-    ],
+    "VIM": [],
     "easierData": [
         "ExperimentHub",
         "AnnotationHub",
@@ -1616,13 +1494,10 @@
         "BiocVersion"
     ],
     "SPARQL": [],
-    "NHPoisson": [
-        "car"
-    ],
+    "NHPoisson": [],
     "survminer": [
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "HiContactsData": [
         "ExperimentHub",
@@ -1649,9 +1524,7 @@
         "BiocCheck"
     ],
     "mppa": [],
-    "RcmdrMisc": [
-        "car"
-    ],
+    "RcmdrMisc": [],
     "NxtIRFdata": [
         "ExperimentHub",
         "AnnotationHub",
@@ -1696,8 +1569,7 @@
     "survivalAnalysis": [
         "survminer",
         "ggpubr",
-        "rstatix",
-        "car"
+        "rstatix"
     ],
     "celldex": [
         "ExperimentHub",
