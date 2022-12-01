@@ -166,7 +166,6 @@
     ],
     "ChAMP": [
         "DMRcate",
-        "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "wateRmelon",
         "missMethyl",
@@ -226,7 +225,6 @@
     "contiBAIT": [],
     "conumee": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
     ],
     "CopyNumberPlots": [
@@ -325,7 +323,6 @@
         "AnnotationHub",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "IlluminaHumanMethylation450kmanifest",
         "methylumi",
         "BiocVersion"
     ],
@@ -385,7 +382,6 @@
     "epimutacions": [
         "AnnotationHub",
         "ExperimentHub",
-        "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
         "BiocVersion"
@@ -438,7 +434,6 @@
         "NHPoisson"
     ],
     "funtooNorm": [
-        "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
     "FuseSOM": [
@@ -621,7 +616,6 @@
         "missMethyl",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "IlluminaHumanMethylation450kmanifest",
         "methylumi"
     ],
     "MEAT": [
@@ -659,7 +653,6 @@
     "MethylAid": [],
     "methylCC": [
         "FlowSorted.Blood.450k",
-        "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
     "methylclock": [
@@ -677,7 +670,6 @@
         "missMethyl",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "IlluminaHumanMethylation450kmanifest",
         "methylumi"
     ],
     "methylPipe": [],
@@ -713,7 +705,6 @@
     "missMethyl": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "IlluminaHumanMethylation450kmanifest",
         "methylumi"
     ],
     "mitoClone2": [],
@@ -922,9 +913,7 @@
     "recount": [
         "derfinder"
     ],
-    "recountmethylation": [
-        "IlluminaHumanMethylation450kmanifest"
-    ],
+    "recountmethylation": [],
     "regionReport": [
         "derfinder"
     ],
@@ -1062,9 +1051,7 @@
         "BiocVersion"
     ],
     "shinyepico": [],
-    "shinyMethyl": [
-        "IlluminaHumanMethylation450kmanifest"
-    ],
+    "shinyMethyl": [],
     "SIAMCAT": [],
     "signatureSearch": [
         "ExperimentHub",
@@ -1099,7 +1086,6 @@
     "skewr": [
         "methylumi",
         "wateRmelon",
-        "IlluminaHumanMethylation450kmanifest",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
@@ -1300,7 +1286,6 @@
     "drc": [],
     "FactoMineR": [],
     "GenomicTools": [],
-    "IlluminaHumanMethylation450kmanifest": [],
     "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [],
     "spp": [],
     "propr": [],
