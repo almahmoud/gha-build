@@ -208,7 +208,6 @@
         "AnnotationHub",
         "ExperimentHub",
         "tidyr",
-        "vroom",
         "BiocVersion",
         "AnnotationDbi"
     ],
@@ -317,7 +316,6 @@
         "BiocFileCache",
         "BiocVersion",
         "biomaRt",
-        "vroom",
         "BSgenome",
         "GenomicAlignments",
         "dbplyr"
@@ -343,8 +341,7 @@
     "AnVILPublish": [
         "AnVIL",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "APAlyzer": [
         "GenomicFeatures",
@@ -443,8 +440,7 @@
         "GenomicAlignments",
         "dbplyr",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "arrayQualityMetrics": [
         "beadarray",
@@ -580,8 +576,7 @@
         "BiocFileCache",
         "GenomicAlignments",
         "annotate",
-        "rematch2",
-        "vroom"
+        "rematch2"
     ],
     "ATACseqQC": [
         "BSgenome",
@@ -604,8 +599,7 @@
         "CNEr",
         "readr",
         "annotate",
-        "GO.db",
-        "vroom"
+        "GO.db"
     ],
     "ATACseqTFEA": [
         "GenomicAlignments",
@@ -618,8 +612,7 @@
         "readr",
         "annotate",
         "GO.db",
-        "AnnotationDbi",
-        "vroom"
+        "AnnotationDbi"
     ],
     "atena": [
         "GenomicAlignments",
@@ -644,8 +637,7 @@
         "readr",
         "annotate",
         "GO.db",
-        "AnnotationDbi",
-        "vroom"
+        "AnnotationDbi"
     ],
     "attract": [
         "AnnotationDbi",
@@ -927,7 +919,6 @@
         "org.Hs.eg.db",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "GenomicAlignments",
         "dbplyr"
@@ -1005,7 +996,6 @@
         "ggforce",
         "ggrepel",
         "tidygraph",
-        "vroom",
         "ggfun",
         "ggplotify",
         "tidytree",
@@ -1017,8 +1007,7 @@
     ],
     "BiocCheck": [],
     "BiocDockerManager": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "BiocFHIR": [
         "tidyr"
@@ -1069,8 +1058,7 @@
         "BiocFileCache",
         "readr",
         "rorcid",
-        "dbplyr",
-        "vroom"
+        "dbplyr"
     ],
     "BiocSet": [
         "AnnotationDbi",
@@ -1291,7 +1279,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Mm.eg.db",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
-        "vroom",
         "GenomicAlignments",
         "BiocFileCache",
         "BiocVersion",
@@ -1488,7 +1475,6 @@
     ],
     "bugsigdbr": [
         "BiocFileCache",
-        "vroom",
         "dbplyr"
     ],
     "BUMHMM": [
@@ -1647,8 +1633,7 @@
     ],
     "CARNIVAL": [
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "casper": [
         "GenomicFeatures",
@@ -1718,7 +1703,6 @@
         "TCGAutils",
         "AnnotationDbi",
         "annotate",
-        "vroom",
         "GenomicFeatures",
         "GenomicDataCommons",
         "rtracklayer",
@@ -1742,7 +1726,6 @@
         "tidyr",
         "TCGAutils",
         "dbplyr",
-        "vroom",
         "AnnotationDbi",
         "GenomicFeatures",
         "GenomicDataCommons",
@@ -1752,7 +1735,6 @@
     ],
     "cbpManager": [
         "shinydashboard",
-        "vroom",
         "shinyBS",
         "shinycssloaders"
     ],
@@ -1768,8 +1750,7 @@
     ],
     "celaref": [
         "MAST",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "celda": [
         "enrichR",
@@ -1999,8 +1980,7 @@
         "genomation",
         "BSgenome",
         "GenomicAlignments",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "cfDNAPro": [
         "GenomicAlignments",
@@ -2061,8 +2041,7 @@
         "BiocVersion",
         "dbplyr",
         "VariantAnnotation",
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "vroom"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "ChemmineR": [],
     "CHETAH": [
@@ -2128,8 +2107,7 @@
         "readr",
         "Hmisc",
         "GenomicAlignments",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "ChIPexoQual": [
         "GenomicAlignments",
@@ -2239,8 +2217,7 @@
         "oligo",
         "oligoClasses",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "ChromHeatMap": [
         "annotate",
@@ -2299,8 +2276,7 @@
         "readr",
         "annotate",
         "GO.db",
-        "AnnotationDbi",
-        "vroom"
+        "AnnotationDbi"
     ],
     "CHRONOS": [
         "biomaRt",
@@ -2351,7 +2327,6 @@
         "geneplotter",
         "GenomicFeatures",
         "VariantAnnotation",
-        "vroom",
         "GenomicAlignments",
         "dbplyr",
         "annotate",
@@ -2473,8 +2448,7 @@
         "cowplot",
         "fgsea",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "cmapR": [],
     "cn.farms": [
@@ -2490,8 +2464,7 @@
         "readr",
         "annotate",
         "GO.db",
-        "AnnotationDbi",
-        "vroom"
+        "AnnotationDbi"
     ],
     "CNORdt": [
         "CellNOptR"
@@ -2606,8 +2579,7 @@
         "STRINGdb",
         "readr",
         "tidyr",
-        "sqldf",
-        "vroom"
+        "sqldf"
     ],
     "CoGAPS": [],
     "cogena": [
@@ -2731,8 +2703,7 @@
         "shinydashboard",
         "haven",
         "readxl",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "conclus": [
         "org.Hs.eg.db",
@@ -2775,7 +2746,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "vroom",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -2889,7 +2859,6 @@
         "readr",
         "tidyr",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "dbplyr"
     ],
@@ -2952,8 +2921,7 @@
         "readr",
         "tidyr",
         "annotate",
-        "AnnotationDbi",
-        "vroom"
+        "AnnotationDbi"
     ],
     "COTAN": [
         "ggrepel",
@@ -2991,14 +2959,12 @@
         "BSgenome",
         "readr",
         "rtracklayer",
-        "vroom",
         "GenomicAlignments"
     ],
     "crisprBwa": [
         "BSgenome",
         "readr",
         "rtracklayer",
-        "vroom",
         "GenomicAlignments"
     ],
     "crisprDesign": [
@@ -3016,7 +2982,6 @@
         "BiocFileCache",
         "ExperimentHub",
         "AnnotationHub",
-        "vroom",
         "BiocVersion",
         "dbplyr"
     ],
@@ -3058,8 +3023,7 @@
         "haven",
         "readxl",
         "dbplyr",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "CrispRVariants": [
         "AnnotationDbi",
@@ -3084,7 +3048,6 @@
         "ensembldb",
         "biovizBase",
         "GenomicAlignments",
-        "vroom",
         "BiocFileCache",
         "BiocVersion",
         "Hmisc",
@@ -3113,7 +3076,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "viridis",
-        "vroom",
         "BiocVersion"
     ],
     "crlmm": [
@@ -3132,8 +3094,7 @@
         "tidyr",
         "oligoClasses",
         "genefilter",
-        "annotate",
-        "vroom"
+        "annotate"
     ],
     "csaw": [],
     "csdR": [
@@ -3330,8 +3291,7 @@
         "GenomicAlignments",
         "readr",
         "annotate",
-        "GO.db",
-        "vroom"
+        "GO.db"
     ],
     "DAMEfinder": [
         "readr",
@@ -3341,7 +3301,6 @@
         "cowplot",
         "GenomicFeatures",
         "AnnotationDbi",
-        "vroom",
         "rtracklayer",
         "BSgenome",
         "biomaRt",
@@ -3408,7 +3367,6 @@
         "rstatix",
         "cmdfun",
         "GenomicAlignments",
-        "vroom",
         "testthat",
         "broom",
         "car",
@@ -3445,8 +3403,7 @@
         "readr",
         "readxl",
         "rematch2",
-        "ggdendro",
-        "vroom"
+        "ggdendro"
     ],
     "ddPCRclust": [
         "flowDensity",
@@ -3472,8 +3429,7 @@
     "debCAM": [
         "NMF",
         "DMwR2",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "debrowser": [
         "shinydashboard",
@@ -3580,8 +3536,7 @@
         "viridis",
         "lexicon",
         "textclean",
-        "syuzhet",
-        "vroom"
+        "syuzhet"
     ],
     "deepSNV": [
         "VariantAnnotation",
@@ -3664,8 +3619,7 @@
         "MSnbase",
         "vsn",
         "ggrepel",
-        "shinydashboard",
-        "vroom"
+        "shinydashboard"
     ],
     "DepecheR": [
         "viridis",
@@ -3771,8 +3725,7 @@
         "tidyr",
         "genefilter",
         "AnnotationDbi",
-        "annotate",
-        "vroom"
+        "annotate"
     ],
     "DEXSeq": [
         "DESeq2",
@@ -3954,8 +3907,7 @@
         "tidyr",
         "FDb.InfiniumMethylation.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "DMRforPairs": [
         "Gviz",
@@ -3988,8 +3940,7 @@
         "BSgenome",
         "GenomicAlignments",
         "dbplyr",
-        "biomaRt",
-        "vroom"
+        "biomaRt"
     ],
     "DNABarcodeCompatibility": [
         "tidyr"
@@ -4056,8 +4007,7 @@
     ],
     "drawProteins": [
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "DRIMSeq": [],
     "DropletUtils": [
@@ -4090,8 +4040,7 @@
         "tidyr",
         "org.Hs.eg.db",
         "dbplyr",
-        "oligoClasses",
-        "vroom"
+        "oligoClasses"
     ],
     "DSS": [
         "bsseq",
@@ -4253,8 +4202,7 @@
     "EGAD": [
         "GEOquery",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "EGSEA": [
         "gage",
@@ -4304,7 +4252,6 @@
         "BSgenome",
         "biovizBase",
         "GenomicAlignments",
-        "vroom",
         "dbplyr",
         "Hmisc",
         "VariantAnnotation",
@@ -4334,8 +4281,7 @@
         "readr",
         "annotate",
         "GO.db",
-        "AnnotationDbi",
-        "vroom"
+        "AnnotationDbi"
     ],
     "ENmix": [
         "geneplotter",
@@ -4355,7 +4301,6 @@
         "tidyr",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "GenomicAlignments"
     ],
     "EnrichmentBrowser": [
@@ -4441,7 +4386,6 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "vroom",
         "nloptr",
         "testthat",
         "waldo",
@@ -4496,7 +4440,6 @@
         "GOSemSim",
         "ggtree",
         "biomaRt",
-        "vroom",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -4607,7 +4550,6 @@
         "rtracklayer",
         "readr",
         "dbplyr",
-        "vroom",
         "GenomicAlignments"
     ],
     "epimutacions": [
@@ -4646,8 +4588,7 @@
         "annotate",
         "readr",
         "tidyr",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "epiNEM": [
         "mnem",
@@ -4790,8 +4731,7 @@
         "viridis",
         "tidygraph",
         "tidytree",
-        "treeio",
-        "vroom"
+        "treeio"
     ],
     "escape": [
         "GSEABase",
@@ -4859,7 +4799,6 @@
         "AnnotationDbi",
         "ggplotify",
         "dbplyr",
-        "vroom",
         "broom",
         "car",
         "pbkrtest",
@@ -4967,7 +4906,6 @@
         "GenomicAlignments",
         "cowplot",
         "BiocFileCache",
-        "vroom",
         "dbplyr"
     ],
     "FamAgg": [
@@ -5038,7 +4976,6 @@
         "readr",
         "rtracklayer",
         "rainbow",
-        "vroom",
         "hdrcde"
     ],
     "fcoex": [
@@ -5114,8 +5051,7 @@
         "readr",
         "tidyr",
         "GenomicAlignments",
-        "dbplyr",
-        "vroom"
+        "dbplyr"
     ],
     "fgga": [
         "BiocFileCache",
@@ -5284,7 +5220,6 @@
         "textclean",
         "tidygraph",
         "tidyr",
-        "vroom",
         "cowplot",
         "ggforce",
         "ggrepel",
@@ -5364,7 +5299,6 @@
         "tidyr",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "GenomicAlignments",
         "dbplyr"
@@ -5506,7 +5440,6 @@
         "ggsci",
         "ggsignif",
         "rstatix",
-        "vroom",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -5666,18 +5599,15 @@
         "BSgenome",
         "GenomicAlignments",
         "readr",
-        "rtracklayer",
-        "vroom"
+        "rtracklayer"
     ],
     "GenomAutomorphism": [],
     "genomes": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "GenomicAlignments": [],
     "GenomicDataCommons": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "GenomicDistributions": [
         "broom",
@@ -5800,8 +5730,7 @@
         "viridis",
         "lexicon",
         "textclean",
-        "syuzhet",
-        "vroom"
+        "syuzhet"
     ],
     "GenVisR": [
         "AnnotationDbi",
@@ -5853,7 +5782,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "vroom",
         "pbkrtest",
         "lme4",
         "broom",
@@ -5866,8 +5794,7 @@
     "GEOmetadb": [
         "GEOquery",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "GeomxTools": [
         "NanoStringNCTools",
@@ -5887,8 +5814,7 @@
     ],
     "GEOquery": [
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "gep2pep": [
         "GSEABase",
@@ -6032,7 +5958,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "tidyr",
-        "vroom",
         "ggpubr",
         "broom",
         "survMisc",
@@ -6105,8 +6030,7 @@
         "DiagrammeR",
         "readr",
         "tidyr",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "GOexpress": [
         "biomaRt",
@@ -6228,7 +6152,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "geneplotter",
-        "vroom",
         "dbplyr",
         "annotate"
     ],
@@ -6358,8 +6281,7 @@
         "BiocFileCache",
         "readr",
         "tensorflow",
-        "dbplyr",
-        "vroom"
+        "dbplyr"
     ],
     "Guitar": [
         "GenomicFeatures",
@@ -6402,7 +6324,6 @@
         "dbplyr",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BSgenome",
         "GenomicAlignments"
     ],
@@ -6445,8 +6366,7 @@
         "tidyr",
         "readr",
         "BiocFileCache",
-        "dbplyr",
-        "vroom"
+        "dbplyr"
     ],
     "HelloRanges": [
         "BSgenome",
@@ -6485,8 +6405,7 @@
     ],
     "HiCBricks": [
         "viridis",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "HiCcompare": [
         "InteractionSet",
@@ -6538,7 +6457,6 @@
         "HiContactsData",
         "InteractionSet",
         "GenomicInteractions",
-        "vroom",
         "tidyr",
         "ggrastr",
         "rtracklayer",
@@ -6608,7 +6526,6 @@
         "tidyr",
         "caret",
         "recipes",
-        "vroom",
         "ipred"
     ],
     "HTSeqGenie": [
@@ -6692,8 +6609,7 @@
         "GenomicAlignments",
         "dbplyr",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "iCNV": [
         "CODEX",
@@ -6806,7 +6722,6 @@
         "readr",
         "cytomapper",
         "viridis",
-        "vroom",
         "ggraph",
         "tidygraph",
         "concaveman",
@@ -6834,8 +6749,7 @@
     ],
     "immunotation": [
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "INDEED": [
         "devtools",
@@ -6866,7 +6780,6 @@
         "BSgenome.Drerio.UCSC.danRer7",
         "biomaRt",
         "GenomicAlignments",
-        "vroom",
         "BiocFileCache",
         "dbplyr"
     ],
@@ -7087,7 +7000,6 @@
         "shinyWidgets",
         "datamods",
         "rio",
-        "vroom",
         "haven"
     ],
     "iSEE": [
@@ -7132,14 +7044,12 @@
     ],
     "IsoCorrectoR": [
         "readr",
-        "readxl",
-        "vroom"
+        "readxl"
     ],
     "IsoCorrectoRGUI": [
         "IsoCorrectoR",
         "readxl",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
@@ -7153,7 +7063,6 @@
         "biomaRt",
         "geneplotter",
         "genefilter",
-        "vroom",
         "GenomicAlignments",
         "GenomicFeatures",
         "ensembldb",
@@ -7175,7 +7084,6 @@
         "ggdendro",
         "ggrepel",
         "geneplotter",
-        "vroom",
         "annotate"
     ],
     "ITALICS": [
@@ -7326,7 +7234,6 @@
         "biomaRt",
         "AnnotationDbi",
         "BiocFileCache",
-        "vroom",
         "dbplyr"
     ],
     "LedPred": [
@@ -7372,7 +7279,6 @@
         "car",
         "pbkrtest",
         "lme4",
-        "vroom",
         "nloptr",
         "testthat",
         "waldo",
@@ -7449,7 +7355,6 @@
         "TCGAutils",
         "TFBSTools",
         "dbplyr",
-        "vroom",
         "AnnotationDbi",
         "GenomicFeatures",
         "GenomicDataCommons",
@@ -7491,8 +7396,7 @@
         "GenomicAlignments",
         "dbplyr",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "LymphoSeq": [
         "ggtree",
@@ -7618,8 +7522,7 @@
         "readr",
         "tidyr",
         "GenomicAlignments",
-        "dbplyr",
-        "vroom"
+        "dbplyr"
     ],
     "MAGeCKFlute": [
         "ggrepel",
@@ -7674,7 +7577,6 @@
         "readxl",
         "tidyr",
         "rematch2",
-        "vroom",
         "ipred"
     ],
     "MAIT": [
@@ -7695,8 +7597,7 @@
         "tidyr",
         "labelled",
         "haven",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "mAPKL": [
         "AnnotationDbi",
@@ -7747,8 +7648,7 @@
         "readr",
         "annotate",
         "GO.db",
-        "AnnotationDbi",
-        "vroom"
+        "AnnotationDbi"
     ],
     "MBECS": [
         "phyloseq",
@@ -7865,8 +7765,7 @@
         "FDb.InfiniumMethylation.hg19",
         "dbplyr",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "MEAT": [
         "minfi",
@@ -7887,7 +7786,6 @@
         "org.Hs.eg.db",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "GenomicAlignments",
         "dbplyr"
@@ -7917,7 +7815,6 @@
         "readr",
         "cmdfun",
         "testthat",
-        "vroom",
         "waldo",
         "rematch2"
     ],
@@ -7938,7 +7835,6 @@
         "tidyr",
         "universalmotif",
         "testthat",
-        "vroom",
         "waldo",
         "rematch2"
     ],
@@ -8222,7 +8118,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "vroom",
         "dbplyr",
         "broom",
         "car",
@@ -8250,7 +8145,6 @@
         "tidyr",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "GenomicAlignments",
         "dbplyr"
@@ -8275,7 +8169,6 @@
         "readr",
         "tidyr",
         "BiocFileCache",
-        "vroom",
         "dbplyr"
     ],
     "methylclock": [
@@ -8315,7 +8208,6 @@
         "AnnotationHubData",
         "annotate",
         "rematch2",
-        "vroom",
         "car",
         "waldo",
         "rtracklayer",
@@ -8377,7 +8269,6 @@
         "tidytree",
         "treeio",
         "BiocFileCache",
-        "vroom",
         "GenomicAlignments",
         "dbplyr"
     ],
@@ -8444,8 +8335,7 @@
         "readr",
         "tidyr",
         "GenomicAlignments",
-        "dbplyr",
-        "vroom"
+        "dbplyr"
     ],
     "MetID": [
         "devtools",
@@ -8544,7 +8434,6 @@
         "viridis",
         "dendextend",
         "egg",
-        "vroom",
         "annotate",
         "AnnotationDbi",
         "nloptr",
@@ -8716,8 +8605,7 @@
         "GEOquery",
         "GenomicAlignments",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "minfi": [
         "bumphunter",
@@ -8730,7 +8618,6 @@
         "tidyr",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "GenomicAlignments",
         "dbplyr"
@@ -8775,7 +8662,6 @@
         "readr",
         "tidyr",
         "BiocFileCache",
-        "vroom",
         "dbplyr"
     ],
     "miRNAmeConverter": [
@@ -8862,7 +8748,6 @@
         "treeio",
         "rematch2",
         "nloptr",
-        "vroom",
         "ipred",
         "car",
         "pbkrtest",
@@ -8927,7 +8812,6 @@
         "treeio",
         "rematch2",
         "nloptr",
-        "vroom",
         "ipred",
         "car",
         "pbkrtest",
@@ -8958,7 +8842,6 @@
         "readr",
         "tidyr",
         "BiocFileCache",
-        "vroom",
         "GenomicAlignments",
         "dbplyr"
     ],
@@ -8971,7 +8854,6 @@
         "readr",
         "tidyr",
         "recipes",
-        "vroom",
         "ipred"
     ],
     "mitch": [
@@ -9083,8 +8965,7 @@
         "MultiAssayExperiment",
         "qvalue",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "monaLisa": [
         "TFBSTools",
@@ -9095,8 +8976,7 @@
         "readr",
         "annotate",
         "GO.db",
-        "AnnotationDbi",
-        "vroom"
+        "AnnotationDbi"
     ],
     "monocle": [
         "viridis"
@@ -9125,7 +9005,6 @@
         "shadowtext",
         "ggtree",
         "cowplot",
-        "vroom",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -9174,8 +9053,7 @@
         "readr",
         "annotate",
         "GO.db",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "MotifDb": [
         "rtracklayer",
@@ -9190,8 +9068,7 @@
         "readr",
         "annotate",
         "GO.db",
-        "AnnotationDbi",
-        "vroom"
+        "AnnotationDbi"
     ],
     "motifStack": [
         "TFBSTools",
@@ -9202,8 +9079,7 @@
         "readr",
         "annotate",
         "GO.db",
-        "AnnotationDbi",
-        "vroom"
+        "AnnotationDbi"
     ],
     "MouseFM": [
         "tidyr",
@@ -9223,7 +9099,6 @@
         "ggsci",
         "ggsignif",
         "rstatix",
-        "vroom",
         "broom",
         "car",
         "pbkrtest",
@@ -9365,7 +9240,6 @@
         "rematch2",
         "nloptr",
         "lmerTest",
-        "vroom",
         "pbkrtest",
         "testthat",
         "waldo"
@@ -9637,7 +9511,6 @@
         "ggsci",
         "ggsignif",
         "rstatix",
-        "vroom",
         "GenomicAlignments",
         "dbplyr",
         "pbkrtest",
@@ -9733,8 +9606,7 @@
         "readr",
         "annotate",
         "GO.db",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "NanoMethViz": [
         "readr",
@@ -9745,7 +9617,6 @@
         "tidyr",
         "BSgenome",
         "ggbeeswarm",
-        "vroom",
         "rtracklayer",
         "GenomicAlignments"
     ],
@@ -9774,8 +9645,7 @@
         "readr",
         "readxl",
         "tidyr",
-        "rematch2",
-        "vroom"
+        "rematch2"
     ],
     "NanoTube": [
         "fgsea",
@@ -9902,8 +9772,7 @@
         "plotly",
         "dnet",
         "supraHex",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "netprioR": [],
     "netresponse": [
@@ -9964,7 +9833,6 @@
         "GSEABase",
         "genefilter",
         "minfi",
-        "vroom",
         "dbplyr",
         "bumphunter",
         "GEOquery",
@@ -9982,8 +9850,7 @@
         "ggdendro",
         "plotly",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "nnSVG": [
         "SpatialExperiment",
@@ -10012,7 +9879,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "BiocFileCache",
-        "vroom",
         "GenomicAlignments"
     ],
     "NormalyzerDE": [
@@ -10031,7 +9897,6 @@
         "broom",
         "tidyr",
         "testthat",
-        "vroom",
         "waldo",
         "rematch2"
     ],
@@ -10127,7 +9992,6 @@
         "biomaRt",
         "VariantAnnotation",
         "viridis",
-        "vroom",
         "broom",
         "car",
         "pbkrtest",
@@ -10173,8 +10037,7 @@
         "questionr",
         "labelled",
         "haven",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "OmaDB": [
         "topGO",
@@ -10276,21 +10139,18 @@
         "rematch2"
     ],
     "Omixer": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "OmnipathR": [
         "readr",
         "readxl",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "oncomix": [
         "ggrepel"
     ],
     "oncoscanR": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "OncoScore": [
         "biomaRt",
@@ -10396,8 +10256,7 @@
         "readr",
         "geneplotter",
         "dbplyr",
-        "annotate",
-        "vroom"
+        "annotate"
     ],
     "Organism.dplyr": [
         "GenomicFeatures",
@@ -10437,7 +10296,6 @@
         "plotly",
         "readr",
         "ggplotify",
-        "vroom",
         "broom",
         "car",
         "pbkrtest",
@@ -10511,8 +10369,7 @@
         "readr",
         "annotate",
         "GO.db",
-        "AnnotationDbi",
-        "vroom"
+        "AnnotationDbi"
     ],
     "PAIRADISE": [
         "nloptr",
@@ -10618,8 +10475,7 @@
         "org.Hs.eg.db"
     ],
     "paxtoolsr": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "pcaExplorer": [
         "DESeq2",
@@ -10768,8 +10624,7 @@
         "cowplot",
         "readr",
         "tidyr",
-        "annotate",
-        "vroom"
+        "annotate"
     ],
     "PharmacoGx": [
         "CoreGx",
@@ -10891,7 +10746,6 @@
         "readr",
         "recipes",
         "sna",
-        "vroom",
         "ipred"
     ],
     "piano": [
@@ -11012,7 +10866,6 @@
         "ggsignif",
         "rstatix",
         "viridis",
-        "vroom",
         "broom",
         "car",
         "pbkrtest",
@@ -11035,8 +10888,7 @@
     ],
     "pmp": [],
     "PoDCall": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "podkat": [
         "BSgenome",
@@ -11149,8 +11001,7 @@
         "readr",
         "annotate",
         "GO.db",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "PrInCE": [
         "tidyr",
@@ -11390,7 +11241,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "vroom",
         "pbkrtest",
         "lme4",
         "viridis",
@@ -11426,7 +11276,6 @@
         "biomaRt",
         "VariantAnnotation",
         "viridis",
-        "vroom",
         "BSgenome"
     ],
     "PSMatch": [
@@ -11569,8 +11418,7 @@
         "ggdendro",
         "readr",
         "tidyr",
-        "vsn",
-        "vroom"
+        "vsn"
     ],
     "qrqc": [
         "biovizBase",
@@ -11624,7 +11472,6 @@
         "tidyr",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "GenomicAlignments",
         "dbplyr"
@@ -11710,8 +11557,7 @@
         "dnet",
         "supraHex",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "RAREsim": [
         "nloptr",
@@ -11740,7 +11586,6 @@
         "dada2",
         "readr",
         "ShortRead",
-        "vroom",
         "GenomicAlignments"
     ],
     "Rbowtie2": [],
@@ -11763,7 +11608,6 @@
         "biomaRt",
         "tidyr",
         "BiocFileCache",
-        "vroom",
         "dbplyr"
     ],
     "rcellminer": [],
@@ -11800,8 +11644,7 @@
         "DiagrammeR",
         "readr",
         "tidyr",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "RcwlPipelines": [
         "Rcwl",
@@ -11810,8 +11653,7 @@
         "DiagrammeR",
         "readr",
         "tidyr",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "RCy3": [
         "IRkernel"
@@ -11878,7 +11720,6 @@
         "biomaRt",
         "VariantAnnotation",
         "viridis",
-        "vroom",
         "BiocFileCache",
         "BSgenome",
         "dbplyr"
@@ -11904,7 +11745,6 @@
         "tidyr",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "GenomicAlignments"
     ],
     "recoup": [
@@ -12020,7 +11860,6 @@
         "bumphunter",
         "genefilter",
         "GEOquery",
-        "vroom",
         "GenomicAlignments",
         "dbplyr",
         "GenomicFeatures",
@@ -12196,8 +12035,7 @@
         "readr",
         "geneplotter",
         "dbplyr",
-        "annotate",
-        "vroom"
+        "annotate"
     ],
     "RiboDiPA": [
         "GenomicFeatures",
@@ -12258,8 +12096,7 @@
         "dbplyr",
         "readr",
         "annotate",
-        "GO.db",
-        "vroom"
+        "GO.db"
     ],
     "rifi": [
         "car",
@@ -12353,7 +12190,6 @@
         "dbplyr",
         "tidyr",
         "recipes",
-        "vroom",
         "ipred"
     ],
     "RMassBank": [
@@ -12404,7 +12240,6 @@
         "biomaRt",
         "VariantAnnotation",
         "viridis",
-        "vroom",
         "BiocFileCache",
         "BSgenome",
         "dbplyr"
@@ -12597,7 +12432,6 @@
         "lme4",
         "VariantAnnotation",
         "viridis",
-        "vroom",
         "nloptr",
         "BSgenome",
         "testthat",
@@ -12624,8 +12458,7 @@
         "readr",
         "tidyr",
         "GenomicAlignments",
-        "dbplyr",
-        "vroom"
+        "dbplyr"
     ],
     "roar": [
         "GenomicAlignments",
@@ -12741,7 +12574,6 @@
         "biomaRt",
         "tidyr",
         "BiocFileCache",
-        "vroom",
         "GenomicAlignments",
         "dbplyr"
     ],
@@ -12883,8 +12715,7 @@
         "oligoClasses",
         "genefilter",
         "AnnotationDbi",
-        "annotate",
-        "vroom"
+        "annotate"
     ],
     "scanMiR": [
         "ggseqlogo",
@@ -13018,8 +12849,7 @@
         "tidyr",
         "ggrepel",
         "patchwork",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "scDataviz": [
         "ggrepel",
@@ -13136,7 +12966,6 @@
         "rtracklayer",
         "dbplyr",
         "biomaRt",
-        "vroom",
         "GenomicAlignments"
     ],
     "SCnorm": [],
@@ -13153,8 +12982,7 @@
         "dbplyr"
     ],
     "Sconify": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "SCOPE": [
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -13487,7 +13315,6 @@
         "readr",
         "BiocFileCache",
         "dbplyr",
-        "vroom",
         "ExperimentHub",
         "AnnotationHub",
         "BiocVersion",
@@ -13505,7 +13332,6 @@
         "InteractionSet",
         "rtracklayer",
         "readr",
-        "vroom",
         "GenomicAlignments"
     ],
     "SGSeq": [
@@ -13537,7 +13363,6 @@
         "annotate",
         "readr",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "dbplyr"
     ],
@@ -13554,7 +13379,6 @@
         "tidyr",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "GenomicAlignments",
         "dbplyr"
@@ -13605,7 +13429,6 @@
         "BiocFileCache",
         "cowplot",
         "annotate",
-        "vroom",
         "BiocVersion",
         "dbplyr",
         "aplot",
@@ -13646,7 +13469,6 @@
         "ggsignif",
         "rstatix",
         "testthat",
-        "vroom",
         "GenomicAlignments",
         "tidytidbits",
         "broom",
@@ -13693,7 +13515,6 @@
         "ggsignif",
         "rstatix",
         "annotate",
-        "vroom",
         "GenomicAlignments",
         "BiocFileCache",
         "car",
@@ -13912,7 +13733,6 @@
         "readr",
         "tidyr",
         "BiocFileCache",
-        "vroom",
         "GenomicAlignments",
         "dbplyr"
     ],
@@ -14050,8 +13870,7 @@
         "readr",
         "shinycssloaders",
         "shinyWidgets",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "spatialDE": [
         "SpatialExperiment",
@@ -14137,7 +13956,6 @@
         "dbplyr",
         "Hmisc",
         "VariantAnnotation",
-        "vroom",
         "viridis"
     ],
     "specL": [],
@@ -14153,7 +13971,6 @@
     "SPIAT": [
         "SpatialExperiment",
         "plotly",
-        "vroom",
         "dittoSeq",
         "alphahull",
         "xROI",
@@ -14287,7 +14104,6 @@
         "readxl",
         "rematch2",
         "nloptr",
-        "vroom",
         "ipred",
         "car",
         "pbkrtest",
@@ -14332,8 +14148,7 @@
     "SRAdb": [
         "GEOquery",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "srnadiff": [
         "devtools",
@@ -14383,8 +14198,7 @@
         "labelled",
         "tidyr",
         "haven",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "ssrch": [],
     "ssviz": [],
@@ -14413,7 +14227,6 @@
         "patchwork",
         "ggalluvial",
         "RUVSeq",
-        "vroom",
         "EDASeq",
         "DropletUtils",
         "BiocFileCache",
@@ -14457,8 +14270,7 @@
         "modelr",
         "readr",
         "readxl",
-        "rematch2",
-        "vroom"
+        "rematch2"
     ],
     "STdeconvolve": [
         "scatterpie",
@@ -14546,8 +14358,7 @@
     ],
     "supraHex": [
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "surfaltr": [
         "biomaRt",
@@ -14555,7 +14366,6 @@
         "testthat",
         "AnnotationDbi",
         "BiocFileCache",
-        "vroom",
         "waldo",
         "dbplyr",
         "rematch2"
@@ -14623,8 +14433,7 @@
         "MSnbase",
         "qvalue",
         "readr",
-        "vsn",
-        "vroom"
+        "vsn"
     ],
     "synergyfinder": [
         "drc",
@@ -14652,7 +14461,6 @@
         "lme4",
         "viridis",
         "rematch2",
-        "vroom",
         "lwgeom",
         "nloptr",
         "testthat",
@@ -14697,7 +14505,6 @@
         "shinydashboardPlus",
         "shinyjqui",
         "shinytoastr",
-        "vroom",
         "tidyr"
     ],
     "systemPipeTools": [
@@ -14809,7 +14616,6 @@
         "tidyr",
         "AnnotationDbi",
         "BiocFileCache",
-        "vroom",
         "dbplyr"
     ],
     "TCGAbiolinksGUI": [
@@ -14842,7 +14648,6 @@
         "ggpubr",
         "rtracklayer",
         "org.Hs.eg.db",
-        "vroom",
         "sesameData",
         "BiocFileCache",
         "dbplyr",
@@ -14895,7 +14700,6 @@
         "biomaRt",
         "tidyr",
         "BiocFileCache",
-        "vroom",
         "GenomicAlignments",
         "dbplyr"
     ],
@@ -14915,8 +14719,7 @@
         "annotate"
     ],
     "TENxIO": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "tenXplore": [
         "restfulSE",
@@ -14939,7 +14742,6 @@
         "tidyr",
         "TCGAutils",
         "dbplyr",
-        "vroom",
         "AnnotationDbi",
         "GenomicFeatures",
         "GenomicDataCommons",
@@ -14959,8 +14761,7 @@
         "readr",
         "annotate",
         "GO.db",
-        "AnnotationDbi",
-        "vroom"
+        "AnnotationDbi"
     ],
     "TFEA.ChIP": [
         "biomaRt",
@@ -14987,8 +14788,7 @@
         "readr",
         "geneplotter",
         "dbplyr",
-        "annotate",
-        "vroom"
+        "annotate"
     ],
     "TFutils": [
         "GSEABase",
@@ -15001,8 +14801,7 @@
     ],
     "tidybulk": [
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "tidySingleCellExperiment": [
         "ttservice",
@@ -15115,7 +14914,6 @@
         "GenomicAlignments",
         "readr",
         "BiocFileCache",
-        "vroom",
         "dbplyr"
     ],
     "TNBC.CMS": [
@@ -15152,8 +14950,7 @@
         "readr",
         "plotly",
         "dbplyr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "topconfects": [],
     "topdownr": [
@@ -15389,8 +15186,7 @@
         "tensorflow",
         "lexicon",
         "textclean",
-        "syuzhet",
-        "vroom"
+        "syuzhet"
     ],
     "TTMap": [],
     "tweeDEseq": [],
@@ -15526,7 +15322,6 @@
         "ggbeeswarm",
         "ggrastr",
         "ggrepel",
-        "vroom",
         "textstem",
         "lexicon",
         "textclean",
@@ -15672,8 +15467,7 @@
         "tidyr",
         "cowplot",
         "egg",
-        "dbplyr",
-        "vroom"
+        "dbplyr"
     ],
     "vissE": [
         "ggwordcloud",
@@ -15732,7 +15526,6 @@
         "dbplyr",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BSgenome",
         "GenomicAlignments"
     ],
@@ -15792,8 +15585,7 @@
         "readr",
         "tidyr",
         "GenomicAlignments",
-        "dbplyr",
-        "vroom"
+        "dbplyr"
     ],
     "wavClusteR": [
         "GenomicFeatures",
@@ -15831,8 +15623,7 @@
         "OmnipathR",
         "tidyr",
         "readr",
-        "readxl",
-        "vroom"
+        "readxl"
     ],
     "xcms": [
         "MSnbase",
@@ -15900,7 +15691,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "minfi",
-        "vroom",
         "dbplyr",
         "bumphunter",
         "genefilter",
@@ -16062,10 +15852,7 @@
         "tidyr",
         "dbplyr"
     ],
-    "readr": [
-        "vroom"
-    ],
-    "vroom": [],
+    "readr": [],
     "ggthemes": [],
     "waffle": [],
     "DescTools": [
@@ -16251,8 +16038,7 @@
         "readr",
         "readxl",
         "tidyr",
-        "rematch2",
-        "vroom"
+        "rematch2"
     ],
     "Mus.musculus": [
         "AnnotationDbi",
@@ -16300,8 +16086,7 @@
         "rematch2"
     ],
     "haven": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "modelr": [
         "broom",
@@ -16363,7 +16148,6 @@
         "tidyr",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "GenomicAlignments",
         "dbplyr"
@@ -16381,7 +16165,6 @@
         "patchwork",
         "pbkrtest",
         "lme4",
-        "vroom",
         "nloptr",
         "testthat",
         "waldo",
@@ -16393,8 +16176,7 @@
     "DiagrammeR": [
         "readr",
         "tidyr",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "gson": [
         "tidyr"
@@ -16577,7 +16359,6 @@
         "tidyr",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "GenomicAlignments",
         "dbplyr"
@@ -16594,7 +16375,6 @@
         "tidyr",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "GenomicAlignments",
         "dbplyr"
@@ -16611,7 +16391,6 @@
         "tidyr",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "GenomicAlignments",
         "dbplyr"
@@ -16645,7 +16424,6 @@
         "AnnotationDbi",
         "readr",
         "rtracklayer",
-        "vroom",
         "GenomicAlignments"
     ],
     "org.Dm.eg.db": [
@@ -16732,8 +16510,7 @@
     "rio": [
         "haven",
         "readxl",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "factoextra": [
         "dendextend",
@@ -16799,7 +16576,6 @@
         "tidyr",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "GenomicAlignments",
         "dbplyr"
@@ -16877,8 +16653,7 @@
     "TFisher": [],
     "mutoss": [],
     "DMwR2": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "ggseqlogo": [],
     "rsq": [
@@ -16959,8 +16734,7 @@
         "dbplyr"
     ],
     "homologene": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "gprofiler2": [
         "plotly",
@@ -17096,8 +16870,7 @@
         "rio",
         "shinyWidgets",
         "haven",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "pd.mapping50k.xba240": [
         "oligoClasses",
@@ -17150,29 +16923,25 @@
         "labelled",
         "haven",
         "tidyr",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "klaR": [
         "questionr",
         "labelled",
         "haven",
         "tidyr",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "questionr": [
         "labelled",
         "haven",
         "tidyr",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "labelled": [
         "haven",
         "tidyr",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "PairedData": [],
     "SmartSVA": [
@@ -17201,7 +16970,6 @@
         "BiocFileCache",
         "BiocVersion",
         "AnnotationDbi",
-        "vroom",
         "dbplyr"
     ],
     "FlowSorted.Blood.450k": [
@@ -17216,7 +16984,6 @@
         "tidyr",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "GenomicAlignments",
         "dbplyr"
@@ -17328,8 +17095,7 @@
     "dnet": [
         "supraHex",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "RcmdrMisc": [
         "car",
@@ -17342,7 +17108,6 @@
         "viridis",
         "nloptr",
         "broom",
-        "vroom",
         "tidyr",
         "testthat",
         "waldo",
@@ -17374,8 +17139,7 @@
         "questionr",
         "labelled",
         "haven",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "yardstick": [],
     "OMICsPCAdata": [
@@ -17405,7 +17169,6 @@
         "readr",
         "AnnotationDbi",
         "BiocFileCache",
-        "vroom",
         "dbplyr"
     ],
     "tfprobability": [
@@ -17510,7 +17273,6 @@
         "readr",
         "rtracklayer",
         "tidyr",
-        "vroom",
         "GenomicAlignments"
     ],
     "caretEnsemble": [
@@ -17594,8 +17356,7 @@
     "DGEobj.utils": [],
     "openair": [
         "tidyr",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "celldex": [
         "ExperimentHub",
@@ -17670,8 +17431,7 @@
         "labelled",
         "tidyr",
         "haven",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "ggformula": [
         "ggstance",
@@ -17681,8 +17441,7 @@
         "labelled",
         "haven",
         "tidyr",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "ggstance": [],
     "mosaicCore": [
@@ -17725,15 +17484,13 @@
         "visdat",
         "viridis",
         "UpSetR",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "LambertW": [],
     "butcher": [],
     "visdat": [
         "tidyr",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
