@@ -2295,7 +2295,6 @@
         "lme4"
     ],
     "RUVSeq": [],
-    "sampleClassifier": [],
     "scanMiRApp": [
         "AnnotationHub",
         "BiocVersion"
