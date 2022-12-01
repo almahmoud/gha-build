@@ -3227,7 +3227,6 @@
     "BioNAR": [
         "RSpectra",
         "synaptome.db",
-        "clusterCons",
         "fgsea",
         "AnnotationDbi",
         "dplyr",
@@ -42215,7 +42214,6 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "clusterCons": [],
     "rSpectral": [],
     "WGCNA": [
         "Hmisc",
