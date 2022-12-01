@@ -3890,7 +3890,6 @@
     "SEtools": [
         "DESeq2"
     ],
-    "sevenC": [],
     "SGSeq": [
         "GenomicFeatures"
     ],
