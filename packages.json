@@ -307,7 +307,6 @@
     "biodbUniprot": [
         "biodb"
     ],
-    "BioMM": [],
     "biomvRCNS": [
         "Gviz",
         "GenomicFeatures",
