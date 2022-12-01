@@ -250,9 +250,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "cyanoFilter": [
-        "flowDensity"
-    ],
+    "cyanoFilter": [],
     "CyTOFpower": [
         "CytoGLMM",
         "diffcyt",
@@ -275,9 +273,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "ddPCRclust": [
-        "flowDensity"
-    ],
+    "ddPCRclust": [],
     "DeepPINCS": [],
     "derfinder": [],
     "derfinderPlot": [
@@ -387,10 +383,7 @@
     "flowCL": [
         "SPARQL"
     ],
-    "flowCut": [
-        "flowDensity"
-    ],
-    "flowDensity": [],
+    "flowCut": [],
     "flowPloidy": [],
     "FlowSOM": [
         "ggpubr",
