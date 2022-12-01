@@ -35599,7 +35599,6 @@
         "nsga2R",
         "survival",
         "RcppArmadillo",
-        "mco",
         "Matrix"
     ],
     "GSReg": [
@@ -100195,10 +100194,7 @@
     "matchingR": [
         "RcppArmadillo"
     ],
-    "nsga2R": [
-        "mco"
-    ],
-    "mco": [],
+    "nsga2R": [],
     "GA": [
         "foreach",
         "RcppArmadillo"
