@@ -130,8 +130,7 @@
         "FDb.InfiniumMethylation.hg19",
         "minfi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "bumphunter",
-        "GEOquery"
+        "bumphunter"
     ],
     "artMS": [
         "MSstats",
@@ -264,7 +263,6 @@
         "wateRmelon",
         "minfi",
         "methylumi",
-        "GEOquery",
         "FDb.InfiniumMethylation.hg19",
         "GenomicFeatures",
         "bumphunter",
@@ -608,7 +606,6 @@
         "DSS",
         "Gviz",
         "geneLenDataBase",
-        "GEOquery",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "methylumi",
         "lumi",
@@ -672,9 +669,7 @@
         "ggtree"
     ],
     "ChIPsim": [],
-    "ChIPXpress": [
-        "GEOquery"
-    ],
+    "ChIPXpress": [],
     "chromPlot": [],
     "ChromSCape": [
         "scater"
@@ -758,9 +753,7 @@
     "CODEX": [
         "BSgenome.Hsapiens.UCSC.hg19"
     ],
-    "coexnet": [
-        "GEOquery"
-    ],
+    "coexnet": [],
     "cogena": [
         "devtools"
     ],
@@ -809,7 +802,6 @@
     "conclus": [
         "factoextra",
         "scater",
-        "GEOquery",
         "clusterProfiler",
         "DOSE",
         "enrichplot",
@@ -857,7 +849,6 @@
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
         "IlluminaHumanMethylationEPICmanifest",
         "bumphunter",
-        "GEOquery",
         "GenomicFeatures"
     ],
     "CopyNumberPlots": [
@@ -942,7 +933,6 @@
         "BiocVersion"
     ],
     "crossmeta": [
-        "GEOquery",
         "sva"
     ],
     "csdR": [],
@@ -1140,7 +1130,6 @@
         "DESeq2"
     ],
     "DExMA": [
-        "GEOquery",
         "sva"
     ],
     "DEXSeq": [
@@ -1190,7 +1179,6 @@
         "ensembldb",
         "biovizBase",
         "bumphunter",
-        "GEOquery",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylation450kmanifest",
@@ -1242,9 +1230,7 @@
         "ensembldb",
         "GenomicFeatures"
     ],
-    "DrugVsDisease": [
-        "GEOquery"
-    ],
+    "DrugVsDisease": [],
     "DSS": [
         "bsseq"
     ],
@@ -1292,9 +1278,7 @@
         "enrichplot",
         "ggtree"
     ],
-    "EGAD": [
-        "GEOquery"
-    ],
+    "EGAD": [],
     "EGSEA": [
         "PADOG",
         "GSVA"
@@ -1323,7 +1307,6 @@
         "AnnotationHub",
         "BiocVersion",
         "bumphunter",
-        "GEOquery",
         "GenomicFeatures"
     ],
     "EnrichmentBrowser": [],
@@ -1395,7 +1378,6 @@
         "AnnotationHub",
         "ExperimentHub",
         "GenomicFeatures",
-        "GEOquery",
         "BiocVersion"
     ],
     "epimutacions": [
@@ -1417,7 +1399,6 @@
         "BiocVersion",
         "biovizBase",
         "OrganismDbi",
-        "GEOquery",
         "VariantAnnotation"
     ],
     "epiNEM": [
@@ -1560,8 +1541,7 @@
         "FDb.InfiniumMethylation.hg19",
         "minfi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "bumphunter",
-        "GEOquery"
+        "bumphunter"
     ],
     "FindIT2": [
         "GenomicFeatures"
@@ -1644,7 +1624,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "bumphunter",
-        "GEOquery",
         "GenomicFeatures"
     ],
     "FuseSOM": [
@@ -1794,7 +1773,6 @@
     "GEOexplorer": [
         "factoextra",
         "shinyHeatmaply",
-        "GEOquery",
         "FactoMineR",
         "ggpubr",
         "car",
@@ -1803,15 +1781,12 @@
         "lme4",
         "nloptr"
     ],
-    "GEOmetadb": [
-        "GEOquery"
-    ],
+    "GEOmetadb": [],
     "GeomxTools": [
         "lmerTest",
         "lme4",
         "nloptr"
     ],
-    "GEOquery": [],
     "gep2pep": [],
     "gespeR": [
         "cellHTS2",
@@ -2021,8 +1996,7 @@
         "FDb.InfiniumMethylation.hg19",
         "minfi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "bumphunter",
-        "GEOquery"
+        "bumphunter"
     ],
     "iCNV": [
         "CODEX",
@@ -2257,8 +2231,7 @@
         "FDb.InfiniumMethylation.hg19",
         "minfi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "bumphunter",
-        "GEOquery"
+        "bumphunter"
     ],
     "LymphoSeq": [
         "ggtree"
@@ -2306,8 +2279,7 @@
         "minfi",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "bumphunter",
-        "GEOquery"
+        "bumphunter"
     ],
     "MAGeCKFlute": [
         "DOSE",
@@ -2371,7 +2343,6 @@
         "ensembldb",
         "biovizBase",
         "bumphunter",
-        "GEOquery",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylation450kmanifest",
@@ -2386,7 +2357,6 @@
         "minfi",
         "wateRmelon",
         "bumphunter",
-        "GEOquery",
         "methylumi",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -2499,7 +2469,6 @@
     "MethylAid": [
         "minfi",
         "bumphunter",
-        "GEOquery",
         "GenomicFeatures"
     ],
     "methylCC": [
@@ -2510,8 +2479,7 @@
         "bumphunter",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "GenomicFeatures",
-        "GEOquery"
+        "GenomicFeatures"
     ],
     "methylclock": [
         "methylclockData",
@@ -2524,7 +2492,6 @@
         "rstatix",
         "ExperimentHubData",
         "bumphunter",
-        "GEOquery",
         "BiocVersion",
         "GenomicFeatures",
         "AnnotationHubData",
@@ -2550,7 +2517,6 @@
         "FDb.InfiniumMethylation.hg19",
         "GenomicFeatures",
         "bumphunter",
-        "GEOquery",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "methylInheritance": [
@@ -2574,8 +2540,7 @@
         "minfi",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "bumphunter",
-        "GEOquery"
+        "bumphunter"
     ],
     "MetID": [
         "devtools"
@@ -2640,12 +2605,10 @@
         "FDb.InfiniumMethylation.hg19",
         "minfi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "bumphunter",
-        "GEOquery"
+        "bumphunter"
     ],
     "minfi": [
         "bumphunter",
-        "GEOquery",
         "GenomicFeatures"
     ],
     "MinimumDistance": [
@@ -2704,7 +2667,6 @@
         "FDb.InfiniumMethylation.hg19",
         "GenomicFeatures",
         "bumphunter",
-        "GEOquery",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "missRows": [],
@@ -2741,7 +2703,6 @@
         "clusterProfiler",
         "DOSE",
         "TCGAbiolinks",
-        "GEOquery",
         "enrichplot",
         "ggtree"
     ],
@@ -3002,7 +2963,6 @@
         "quantro",
         "minfi",
         "bumphunter",
-        "GEOquery",
         "GenomicFeatures"
     ],
     "NeuCA": [],
@@ -3233,7 +3193,6 @@
         "ggtree"
     ],
     "phantasus": [
-        "GEOquery",
         "DESeq2"
     ],
     "PharmacoGx": [
@@ -3413,7 +3372,6 @@
         "recount",
         "BiocVersion",
         "derfinder",
-        "GEOquery",
         "bumphunter",
         "GenomicFeatures",
         "GenomicFiles",
@@ -3486,7 +3444,6 @@
     "quantro": [
         "minfi",
         "bumphunter",
-        "GEOquery",
         "GenomicFeatures"
     ],
     "QuasR": [
@@ -3555,7 +3512,6 @@
     ],
     "recount": [
         "derfinder",
-        "GEOquery",
         "bumphunter",
         "GenomicFeatures",
         "GenomicFiles",
@@ -3565,7 +3521,6 @@
         "minfi",
         "IlluminaHumanMethylation450kmanifest",
         "bumphunter",
-        "GEOquery",
         "GenomicFeatures"
     ],
     "recoup": [
@@ -3609,7 +3564,6 @@
         "AnnotationHub",
         "BiocVersion",
         "bumphunter",
-        "GEOquery",
         "GenomicFeatures"
     ],
     "Repitools": [],
@@ -3735,7 +3689,6 @@
     "RNAAgeCalc": [
         "recount",
         "derfinder",
-        "GEOquery",
         "bumphunter",
         "GenomicFeatures",
         "GenomicFiles",
@@ -3807,7 +3760,6 @@
         "ggpubr",
         "rstatix",
         "derfinder",
-        "GEOquery",
         "bumphunter",
         "GenomicFeatures",
         "GenomicFiles",
@@ -3823,8 +3775,7 @@
         "minfi",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "bumphunter",
-        "GEOquery"
+        "bumphunter"
     ],
     "Rqc": [
         "biovizBase",
@@ -3888,7 +3839,6 @@
     "SBGNview": [],
     "scAlign": [],
     "SCAN.UPC": [
-        "GEOquery",
         "sva"
     ],
     "scanMiRApp": [
@@ -4055,14 +4005,12 @@
     "shinyepico": [
         "minfi",
         "bumphunter",
-        "GEOquery",
         "GenomicFeatures"
     ],
     "shinyMethyl": [
         "minfi",
         "IlluminaHumanMethylation450kmanifest",
         "bumphunter",
-        "GEOquery",
         "GenomicFeatures"
     ],
     "SIAMCAT": [
@@ -4166,7 +4114,6 @@
         "FDb.InfiniumMethylation.hg19",
         "GenomicFeatures",
         "bumphunter",
-        "GEOquery",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
@@ -4270,9 +4217,7 @@
     ],
     "SpotClean": [],
     "SPsimSeq": [],
-    "SRAdb": [
-        "GEOquery"
-    ],
+    "SRAdb": [],
     "srnadiff": [
         "devtools",
         "DESeq2",
@@ -4686,8 +4631,7 @@
         "GenomicFeatures",
         "FDb.InfiniumMethylation.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "bumphunter",
-        "GEOquery"
+        "bumphunter"
     ],
     "wavClusteR": [
         "GenomicFeatures"
@@ -4715,7 +4659,6 @@
         "quantro",
         "minfi",
         "bumphunter",
-        "GEOquery",
         "GenomicFeatures"
     ],
     "zenith": [
@@ -4833,7 +4776,6 @@
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
         "bumphunter",
-        "GEOquery",
         "GenomicFeatures"
     ],
     "radiant.data": [
@@ -4887,19 +4829,16 @@
     "IlluminaHumanMethylationEPICmanifest": [
         "minfi",
         "bumphunter",
-        "GEOquery",
         "GenomicFeatures"
     ],
     "IlluminaHumanMethylation450kmanifest": [
         "minfi",
         "bumphunter",
-        "GEOquery",
         "GenomicFeatures"
     ],
     "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [
         "minfi",
         "bumphunter",
-        "GEOquery",
         "GenomicFeatures"
     ],
     "geneLenDataBase": [
@@ -4948,7 +4887,6 @@
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "minfi",
         "bumphunter",
-        "GEOquery",
         "GenomicFeatures"
     ],
     "faahKO": [],
@@ -5067,7 +5005,6 @@
     "FlowSorted.Blood.450k": [
         "minfi",
         "bumphunter",
-        "GEOquery",
         "GenomicFeatures"
     ],
     "methylclockData": [
