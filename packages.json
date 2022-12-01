@@ -4525,7 +4525,6 @@
     "MAGAR": [
         "RnBeads",
         "crlmm",
-        "bigstatsr",
         "methylumi",
         "FDb.InfiniumMethylation.hg19",
         "minfi",
@@ -10076,7 +10075,6 @@
         "testthat",
         "waldo"
     ],
-    "bigstatsr": [],
     "depmap": [
         "ExperimentHub",
         "AnnotationHub",
