@@ -3038,7 +3038,6 @@
         "UpSetR",
         "tidyr",
         "DT",
-        "pbmcapply",
         "Biobase",
         "RSQLite",
         "KEGGREST",
@@ -29000,7 +28999,6 @@
         "ggplot2",
         "mixtools",
         "scales",
-        "pbmcapply",
         "lifecycle",
         "tibble",
         "tidyselect",
@@ -65957,7 +65955,6 @@
         "askpass"
     ],
     "ROSeq": [
-        "pbmcapply",
         "edgeR",
         "locfit"
     ],
@@ -70946,7 +70943,6 @@
         "GenomicRanges",
         "ggplotify",
         "IRanges",
-        "pbmcapply",
         "Rsamtools",
         "rtracklayer",
         "S4Vectors",
@@ -86929,7 +86925,6 @@
         "nlme",
         "Matrix"
     ],
-    "pbmcapply": [],
     "msm": [
         "survival",
         "expm",
