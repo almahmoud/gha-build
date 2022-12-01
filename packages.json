@@ -157,7 +157,6 @@
     "ASSIGN": [],
     "ATACCoGAPS": [
         "TFBSTools",
-        "tidyverse",
         "motifmatchr",
         "chromVAR",
         "GenomicFeatures",
@@ -937,7 +936,6 @@
         "nloptr"
     ],
     "dce": [
-        "tidyverse",
         "epiNEM"
     ],
     "ddPCRclust": [
@@ -2119,9 +2117,7 @@
         "ggtree",
         "BiocVersion"
     ],
-    "MAI": [
-        "tidyverse"
-    ],
+    "MAI": [],
     "MAIT": [
         "CAMERA",
         "agricolae",
@@ -2298,7 +2294,6 @@
         "methylclockData",
         "devtools",
         "ExperimentHub",
-        "tidyverse",
         "ggpubr",
         "minfi",
         "AnnotationHub",
@@ -2429,7 +2424,6 @@
         "ReactomePA",
         "DOSE",
         "enrichplot",
-        "tidyverse",
         "cvms",
         "ggpubr",
         "lme4",
@@ -2445,7 +2439,6 @@
         "ReactomePA",
         "DOSE",
         "enrichplot",
-        "tidyverse",
         "cvms",
         "ggpubr",
         "lme4",
@@ -2560,7 +2553,6 @@
         "MSstatsPTM",
         "factoextra",
         "ggpubr",
-        "tidyverse",
         "FactoMineR",
         "rstatix",
         "lme4",
@@ -2688,9 +2680,7 @@
         "VariantAnnotation"
     ],
     "NanoMethViz": [],
-    "nanotatoR": [
-        "tidyverse"
-    ],
+    "nanotatoR": [],
     "NBAMSeq": [
         "DESeq2"
     ],
@@ -3859,7 +3849,6 @@
         "VariantAnnotation"
     ],
     "SPONGE": [
-        "tidyverse",
         "cvms",
         "ggpubr",
         "lme4",
@@ -3904,9 +3893,7 @@
     "StarBioTrek": [
         "SpidermiR"
     ],
-    "Statial": [
-        "tidyverse"
-    ],
+    "Statial": [],
     "stJoincount": [],
     "strandCheckR": [
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -3944,7 +3931,6 @@
     "SWATH2stats": [],
     "synergyfinder": [
         "drc",
-        "tidyverse",
         "car",
         "pbkrtest",
         "lme4",
@@ -4365,7 +4351,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "mGSZ": [],
-    "tidyverse": [],
     "Mus.musculus": [
         "OrganismDbi",
         "GenomicFeatures",
