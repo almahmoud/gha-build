@@ -868,7 +868,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "exomePeak2": [],
     "ExperimentHub": [
         "AnnotationHub",
         "BiocVersion"
