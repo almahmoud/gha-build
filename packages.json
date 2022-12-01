@@ -572,7 +572,6 @@
         "nloptr"
     ],
     "condiments": [
-        "Ecume",
         "distinct",
         "scater"
     ],
@@ -3479,7 +3478,6 @@
         "lme4",
         "nloptr"
     ],
-    "Ecume": [],
     "EnsDb.Hsapiens.v86": [],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "minfi",
