@@ -6412,7 +6412,6 @@
     "graphite": [
         "AnnotationDbi"
     ],
-    "GraphPAC": [],
     "GRENITS": [],
     "GreyListChIP": [
         "GenomicAlignments",
@@ -12008,7 +12007,6 @@
         "dbplyr"
     ],
     "QuartPAC": [
-        "GraphPAC",
         "SpacePAC"
     ],
     "QuasR": [
