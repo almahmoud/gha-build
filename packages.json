@@ -20620,7 +20620,6 @@
         "plyr",
         "knitr",
         "clue",
-        "pdist",
         "magrittr",
         "reshape2",
         "dplyr",
@@ -67693,7 +67692,6 @@
     ],
     "msImpute": [
         "softImpute",
-        "pdist",
         "reticulate",
         "scran",
         "FNN",
@@ -96743,7 +96741,6 @@
         "distr",
         "igraph",
         "M3Drop",
-        "pdist",
         "ruv",
         "S4Vectors",
         "SingleCellExperiment",
@@ -101901,7 +101898,6 @@
         "pROC",
         "distr",
         "M3Drop",
-        "pdist",
         "ruv",
         "statmod",
         "metapod",
@@ -106904,7 +106900,6 @@
     "statTarget": [
         "randomForest",
         "plyr",
-        "pdist",
         "ROC",
         "rrcov",
         "impute",
@@ -127525,7 +127520,6 @@
         "MatrixModels",
         "survival"
     ],
-    "pdist": [],
     "phylolm": [
         "ape",
         "future.apply",
