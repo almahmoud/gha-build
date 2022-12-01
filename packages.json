@@ -7677,7 +7677,6 @@
         "SpatialExtremes",
         "mice",
         "car",
-        "stars",
         "googlesheets4",
         "haven",
         "modelr",
@@ -9222,11 +9221,8 @@
         "haven",
         "readr"
     ],
-    "gstat": [
-        "stars"
-    ],
+    "gstat": [],
     "SpatialExtremes": [],
-    "stars": [],
     "GenKern": [],
     "gghighlight": [],
     "bestNormalize": [],
