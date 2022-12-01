@@ -1820,7 +1820,6 @@
         "XVector",
         "hms"
     ],
-    "AWFisher": [],
     "awst": [
         "SummarizedExperiment",
         "GenomicRanges",
