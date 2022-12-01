@@ -76,9 +76,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "BaalChIP": [
-        "doBy"
-    ],
+    "BaalChIP": [],
     "BayesSpace": [
         "scater"
     ],
@@ -1286,9 +1284,7 @@
     "synergyfinder": [
         "drc"
     ],
-    "synlet": [
-        "doBy"
-    ],
+    "synlet": [],
     "TADCompare": [
         "ggpubr",
         "rstatix"
@@ -1423,7 +1419,6 @@
         "BiocVersion"
     ],
     "mGSZ": [],
-    "doBy": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [],
     "radiant.data": [],
     "synaptome.db": [
