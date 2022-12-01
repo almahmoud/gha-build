@@ -2323,7 +2323,6 @@
         "DESeq2",
         "dplyr",
         "GenomicTools",
-        "GenomicTools.fileHandler",
         "GGally",
         "ggnetwork",
         "ggplot2",
@@ -19968,7 +19967,6 @@
         "ggplot2"
     ],
     "GenomicTools": [],
-    "GenomicTools.fileHandler": [],
     "IlluminaHumanMethylationEPICmanifest": [
         "minfi",
         "bumphunter",
