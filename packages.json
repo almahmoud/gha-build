@@ -652,7 +652,6 @@
         "ragg",
         "survival",
         "dqrng",
-        "sitmo",
         "systemfonts",
         "textshaping"
     ],
@@ -1078,7 +1077,6 @@
         "memoise",
         "dqrng",
         "rematch2",
-        "sitmo",
         "systemfonts",
         "textshaping"
     ],
@@ -1703,7 +1701,6 @@
         "sass",
         "jquerylib",
         "memoise",
-        "sitmo",
         "Biostrings",
         "bit64",
         "blob"
@@ -3095,7 +3092,6 @@
         "BiocNeighbors",
         "htmlwidgets",
         "sparseMatrixStats",
-        "sitmo",
         "XVector",
         "httpuv",
         "fontawesome",
@@ -3144,7 +3140,6 @@
         "BiocNeighbors",
         "scales",
         "sparseMatrixStats",
-        "sitmo",
         "XVector",
         "colourpicker",
         "miniUI",
@@ -3312,7 +3307,6 @@
         "pillar",
         "tidyselect",
         "sparseMatrixStats",
-        "sitmo",
         "XVector",
         "ragg",
         "openssl",
@@ -3645,7 +3639,6 @@
         "jquerylib",
         "memoise",
         "sparseMatrixStats",
-        "sitmo",
         "e1071",
         "knitr",
         "interp",
@@ -4997,8 +4990,7 @@
         "irlba",
         "rsvd",
         "BiocNeighbors",
-        "sparseMatrixStats",
-        "sitmo"
+        "sparseMatrixStats"
     ],
     "biotmle": [
         "dplyr",
@@ -6636,7 +6628,6 @@
         "TH.data",
         "sandwich",
         "dqrng",
-        "sitmo",
         "nloptr",
         "broom",
         "knitr",
@@ -7017,7 +7008,6 @@
         "ScaledMatrix",
         "rsvd",
         "sparseMatrixStats",
-        "sitmo",
         "XVector",
         "ragg",
         "openssl",
@@ -7223,7 +7213,6 @@
         "jquerylib",
         "memoise",
         "tidyselect",
-        "sitmo",
         "systemfonts",
         "textshaping"
     ],
@@ -7340,7 +7329,6 @@
         "ragg",
         "RcppEigen",
         "dqrng",
-        "sitmo",
         "systemfonts",
         "textshaping"
     ],
@@ -8699,7 +8687,6 @@
         "rsvd",
         "memoise",
         "sparseMatrixStats",
-        "sitmo",
         "ragg",
         "RcppEigen",
         "selectr",
@@ -9117,7 +9104,6 @@
         "sparseMatrixStats",
         "tidyselect",
         "pillar",
-        "sitmo",
         "XVector",
         "tweenr",
         "systemfonts",
@@ -10668,7 +10654,6 @@
         "sparseMatrixStats",
         "HDO.db",
         "fgsea",
-        "sitmo",
         "aplot",
         "ggnewscale",
         "ggraph",
@@ -10787,7 +10772,6 @@
         "tidyr",
         "spatstat.sparse",
         "dqrng",
-        "sitmo",
         "survival",
         "prodlim",
         "systemfonts",
@@ -12290,7 +12274,6 @@
         "pillar",
         "tidyselect",
         "sparseMatrixStats",
-        "sitmo",
         "openssl",
         "bit64",
         "memoise"
@@ -12750,7 +12733,6 @@
         "blob",
         "tidyselect",
         "sparseMatrixStats",
-        "sitmo",
         "openssl",
         "bit64"
     ],
@@ -13888,8 +13870,7 @@
     "DelayedRandomArray": [
         "DelayedArray",
         "dqrng",
-        "IRanges",
-        "sitmo"
+        "IRanges"
     ],
     "DelayedTensor": [
         "DelayedArray",
@@ -13904,8 +13885,7 @@
         "IRanges",
         "dqrng",
         "rhdf5",
-        "futile.logger",
-        "sitmo"
+        "futile.logger"
     ],
     "deltaCaptureC": [
         "IRanges",
@@ -14850,7 +14830,6 @@
         "GenomeInfoDb",
         "BiocNeighbors",
         "sparseMatrixStats",
-        "sitmo",
         "survival",
         "XVector",
         "mgcv",
@@ -14990,7 +14969,6 @@
         "RcppEigen",
         "pillar",
         "dqrng",
-        "sitmo",
         "systemfonts",
         "textshaping"
     ],
@@ -15589,7 +15567,6 @@
         "scuttle",
         "futile.logger",
         "sparseMatrixStats",
-        "sitmo",
         "GenomeInfoDb",
         "XVector"
     ],
@@ -18176,7 +18153,6 @@
         "tidytree",
         "blob",
         "sparseMatrixStats",
-        "sitmo",
         "openssl",
         "bit64",
         "memoise",
@@ -19059,7 +19035,6 @@
         "httr",
         "BiocFileCache",
         "sparseMatrixStats",
-        "sitmo",
         "forcats",
         "reshape",
         "ragg",
@@ -21924,7 +21899,6 @@
         "blob",
         "tidyselect",
         "sparseMatrixStats",
-        "sitmo",
         "openssl",
         "bit64",
         "memoise"
@@ -25140,7 +25114,6 @@
         "sass",
         "memoise",
         "blob",
-        "sitmo",
         "openssl"
     ],
     "IMMAN": [
@@ -25338,8 +25311,7 @@
         "dqrng",
         "sass",
         "jquerylib",
-        "memoise",
-        "sitmo"
+        "memoise"
     ],
     "infinityFlow": [
         "flowCore",
@@ -25347,8 +25319,7 @@
         "uwot",
         "xgboost",
         "irlba",
-        "dqrng",
-        "sitmo"
+        "dqrng"
     ],
     "InPAS": [
         "AnnotationDbi",
@@ -26061,7 +26032,6 @@
         "fgsea",
         "tidyselect",
         "pillar",
-        "sitmo",
         "aplot",
         "ggnewscale",
         "scatterpie",
@@ -27389,7 +27359,6 @@
         "e1071",
         "blob",
         "sparseMatrixStats",
-        "sitmo",
         "openssl",
         "testthat",
         "bit64",
@@ -31217,7 +31186,6 @@
         "memoise",
         "tidytree",
         "dqrng",
-        "sitmo",
         "systemfonts",
         "textshaping"
     ],
@@ -31309,7 +31277,6 @@
         "RcppEigen",
         "ragg",
         "dqrng",
-        "sitmo",
         "textshaping",
         "bit64",
         "blob",
@@ -31592,7 +31559,6 @@
         "blob",
         "dqrng",
         "rematch2",
-        "sitmo",
         "future.apply",
         "systemfonts",
         "textshaping",
@@ -33135,8 +33101,7 @@
         "pillar",
         "mgcv",
         "irlba",
-        "dqrng",
-        "sitmo"
+        "dqrng"
     ],
     "MOGAMUN": [
         "RCy3",
@@ -33879,7 +33844,6 @@
         "BiocNeighbors",
         "IRanges",
         "sparseMatrixStats",
-        "sitmo",
         "GenomicRanges",
         "GenomeInfoDb",
         "XVector"
@@ -34909,7 +34873,6 @@
         "dqrng",
         "GenomicRanges",
         "GenomeInfoDb",
-        "sitmo",
         "XVector"
     ],
     "MungeSumstats": [
@@ -35020,7 +34983,6 @@
         "RSQLite",
         "KEGGREST",
         "tidyr",
-        "sitmo",
         "systemfonts",
         "textshaping",
         "callr",
@@ -35122,7 +35084,6 @@
         "jquerylib",
         "memoise",
         "viridis",
-        "sitmo",
         "car",
         "DT",
         "ggsci",
@@ -35856,8 +35817,7 @@
         "sass",
         "jquerylib",
         "memoise",
-        "tidyselect",
-        "sitmo"
+        "tidyselect"
     ],
     "NeighborNet": [],
     "nempi": [
@@ -36251,7 +36211,6 @@
         "benchmarkmeData",
         "dplyr",
         "httr",
-        "sitmo",
         "AnnotationDbi",
         "annotate",
         "survival",
@@ -36460,7 +36419,6 @@
         "tidyselect",
         "vctrs",
         "sparseMatrixStats",
-        "sitmo",
         "openssl",
         "bit64",
         "memoise"
@@ -38892,7 +38850,6 @@
         "scales",
         "IRanges",
         "sparseMatrixStats",
-        "sitmo",
         "mgcv",
         "tibble",
         "vctrs",
@@ -39147,7 +39104,6 @@
         "ragg",
         "RcppEigen",
         "dqrng",
-        "sitmo",
         "systemfonts",
         "textshaping",
         "pillar"
@@ -40020,7 +39976,6 @@
         "ScaledMatrix",
         "rsvd",
         "sparseMatrixStats",
-        "sitmo",
         "survival",
         "XVector",
         "ragg",
@@ -40398,7 +40353,6 @@
         "futile.logger",
         "sass",
         "memoise",
-        "sitmo",
         "annotate",
         "AnnotationDbi",
         "XVector",
@@ -47135,8 +47089,7 @@
         "dqrng",
         "sass",
         "jquerylib",
-        "memoise",
-        "sitmo"
+        "memoise"
     ],
     "SCAN.UPC": [
         "oligo",
@@ -47340,7 +47293,6 @@
         "dqrng",
         "sass",
         "jquerylib",
-        "sitmo",
         "prodlim",
         "Biostrings",
         "lava"
@@ -47452,7 +47404,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "dqrng",
-        "sitmo",
         "XVector",
         "systemfonts",
         "textshaping",
@@ -47541,7 +47492,6 @@
         "jquerylib",
         "memoise",
         "tidyselect",
-        "sitmo",
         "Biostrings",
         "bit64",
         "blob"
@@ -47605,8 +47555,7 @@
         "dqrng",
         "sass",
         "jquerylib",
-        "memoise",
-        "sitmo"
+        "memoise"
     ],
     "scCB2": [
         "SingleCellExperiment",
@@ -47657,7 +47606,6 @@
         "GenomeInfoDb",
         "futile.logger",
         "sparseMatrixStats",
-        "sitmo",
         "survival",
         "XVector",
         "mgcv",
@@ -47833,8 +47781,7 @@
         "sass",
         "jquerylib",
         "memoise",
-        "tidyselect",
-        "sitmo"
+        "tidyselect"
     ],
     "scDblFinder": [
         "SingleCellExperiment",
@@ -47877,7 +47824,6 @@
         "edgeR",
         "dqrng",
         "sparseMatrixStats",
-        "sitmo",
         "mgcv",
         "scales",
         "tibble",
@@ -47924,7 +47870,6 @@
         "rsvd",
         "BiocNeighbors",
         "sparseMatrixStats",
-        "sitmo",
         "XVector",
         "nloptr",
         "RcppEigen",
@@ -48126,8 +48071,7 @@
         "spatstat.random",
         "spatstat.sparse",
         "dqrng",
-        "e1071",
-        "sitmo"
+        "e1071"
     ],
     "scHOT": [
         "SingleCellExperiment",
@@ -48244,8 +48188,7 @@
         "sass",
         "jquerylib",
         "memoise",
-        "tidyselect",
-        "sitmo"
+        "tidyselect"
     ],
     "scmap": [
         "SingleCellExperiment",
@@ -48694,7 +48637,6 @@
         "memoise",
         "dqrng",
         "rematch2",
-        "sitmo",
         "systemfonts",
         "textshaping"
     ],
@@ -48718,7 +48660,6 @@
         "BiocNeighbors",
         "IRanges",
         "sparseMatrixStats",
-        "sitmo",
         "GenomicRanges",
         "GenomeInfoDb",
         "XVector"
@@ -49017,8 +48958,7 @@
         "spatstat.random",
         "spatstat.sparse",
         "dqrng",
-        "e1071",
-        "sitmo"
+        "e1071"
     ],
     "scTGIF": [
         "GSEABase",
@@ -49105,8 +49045,7 @@
         "spatstat.random",
         "spatstat.sparse",
         "dqrng",
-        "e1071",
-        "sitmo"
+        "e1071"
     ],
     "scTHI": [
         "BiocParallel",
@@ -49190,7 +49129,6 @@
         "sparseMatrixStats",
         "tidyselect",
         "pillar",
-        "sitmo",
         "AnnotationFilter",
         "RSQLite",
         "rtracklayer",
@@ -50693,7 +50631,6 @@
         "blob",
         "tidyselect",
         "sparseMatrixStats",
-        "sitmo",
         "openssl",
         "bit64"
     ],
@@ -50789,7 +50726,6 @@
         "BiocNeighbors",
         "IRanges",
         "sparseMatrixStats",
-        "sitmo",
         "RcppEigen",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -50949,7 +50885,6 @@
         "XVector",
         "sass",
         "memoise",
-        "sitmo",
         "BiocIO",
         "biomaRt",
         "ragg",
@@ -51669,7 +51604,6 @@
         "jquerylib",
         "memoise",
         "sparseMatrixStats",
-        "sitmo",
         "survival",
         "XVector",
         "ragg",
@@ -51807,7 +51741,6 @@
         "futile.logger",
         "blob",
         "sparseMatrixStats",
-        "sitmo",
         "openssl",
         "bit64",
         "memoise"
@@ -51891,7 +51824,6 @@
         "blob",
         "tidyselect",
         "sparseMatrixStats",
-        "sitmo",
         "openssl",
         "bit64",
         "memoise"
@@ -51974,7 +51906,6 @@
         "tidyselect",
         "vctrs",
         "sparseMatrixStats",
-        "sitmo",
         "XVector",
         "openssl",
         "bit64",
@@ -52016,7 +51947,6 @@
         "tidyselect",
         "vctrs",
         "sparseMatrixStats",
-        "sitmo",
         "openssl",
         "bit64",
         "memoise"
@@ -52094,7 +52024,6 @@
         "memoise",
         "blob",
         "sparseMatrixStats",
-        "sitmo",
         "XVector",
         "ragg",
         "latticeExtra",
@@ -52317,8 +52246,7 @@
         "jquerylib",
         "memoise",
         "blob",
-        "sparseMatrixStats",
-        "sitmo"
+        "sparseMatrixStats"
     ],
     "spicyR": [
         "ggplot2",
@@ -52375,7 +52303,6 @@
         "e1071",
         "blob",
         "sparseMatrixStats",
-        "sitmo",
         "openssl",
         "bit64",
         "memoise",
@@ -52470,7 +52397,6 @@
         "RcppEigen",
         "pillar",
         "dqrng",
-        "sitmo",
         "systemfonts",
         "textshaping"
     ],
@@ -52846,7 +52772,6 @@
         "memoise",
         "blob",
         "sparseMatrixStats",
-        "sitmo",
         "bit64"
     ],
     "SPOTlight": [
@@ -53322,7 +53247,6 @@
         "futile.logger",
         "blob",
         "sparseMatrixStats",
-        "sitmo",
         "BiocIO",
         "rtracklayer",
         "openssl",
@@ -53580,7 +53504,6 @@
         "memoise",
         "blob",
         "sparseMatrixStats",
-        "sitmo",
         "bit64"
     ],
     "strandCheckR": [
@@ -56402,7 +56325,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "futile.logger",
-        "sitmo",
         "mgcv",
         "scales",
         "tibble",
@@ -56738,7 +56660,6 @@
         "blob",
         "memoise",
         "dqrng",
-        "sitmo",
         "openssl",
         "systemfonts",
         "textshaping"
@@ -57491,7 +57412,6 @@
         "dqrng",
         "httr",
         "rvest",
-        "sitmo",
         "openssl",
         "systemfonts",
         "textshaping",
@@ -58150,7 +58070,6 @@
         "blob",
         "tidyselect",
         "sparseMatrixStats",
-        "sitmo",
         "openssl",
         "bit64",
         "memoise"
@@ -59643,8 +59562,7 @@
     ],
     "uwot": [
         "irlba",
-        "dqrng",
-        "sitmo"
+        "dqrng"
     ],
     "pheatmap": [
         "scales"
@@ -59667,10 +59585,7 @@
         "systemfonts",
         "textshaping"
     ],
-    "dqrng": [
-        "sitmo"
-    ],
-    "sitmo": [],
+    "dqrng": [],
     "systemfonts": [],
     "textshaping": [
         "systemfonts"
@@ -60109,8 +60024,7 @@
         "sass",
         "jquerylib",
         "memoise",
-        "tidyselect",
-        "sitmo"
+        "tidyselect"
     ],
     "org.Hs.eg.db": [
         "AnnotationDbi",
@@ -67281,8 +67195,7 @@
         "sass",
         "jquerylib",
         "memoise",
-        "tidyselect",
-        "sitmo"
+        "tidyselect"
     ],
     "scRNAseq": [
         "SingleCellExperiment",
