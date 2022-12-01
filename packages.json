@@ -20164,7 +20164,6 @@
         "assertthat",
         "askpass"
     ],
-    "cisPath": [],
     "CiteFuse": [
         "SingleCellExperiment",
         "SummarizedExperiment",
