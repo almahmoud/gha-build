@@ -3603,7 +3603,6 @@
         "CNEr",
         "biomaRt"
     ],
-    "LRBaseDbi": [],
     "LRcell": [
         "ExperimentHub",
         "AnnotationHub",
