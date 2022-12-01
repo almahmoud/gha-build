@@ -93,7 +93,6 @@
     ],
     "ATACseqQC": [
         "GenomicScores",
-        "motifStack",
         "AnnotationHub",
         "BiocVersion"
     ],
@@ -104,9 +103,7 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "atSNP": [
-        "motifStack"
-    ],
+    "atSNP": [],
     "attract": [],
     "BaalChIP": [
         "doBy",
@@ -449,9 +446,7 @@
         "rstatix",
         "pbkrtest"
     ],
-    "dagLogo": [
-        "motifStack"
-    ],
+    "dagLogo": [],
     "DAMEfinder": [],
     "DaMiRseq": [
         "FactoMineR",
@@ -955,7 +950,6 @@
     "LOBSTAHS": [],
     "LowMACA": [
         "cBioPortalData",
-        "motifStack",
         "RTCGAToolbox"
     ],
     "LRcell": [
@@ -1181,12 +1175,10 @@
     "monaLisa": [],
     "MoonlightR": [],
     "motifbreakR": [
-        "motifStack",
         "Gviz",
         "biovizBase"
     ],
     "motifmatchr": [],
-    "motifStack": [],
     "MQmetrics": [
         "ggpubr",
         "rstatix",
@@ -1274,7 +1266,6 @@
         "trackViewer",
         "ATACseqQC",
         "GenomicScores",
-        "motifStack",
         "Gviz",
         "AnnotationHub",
         "biovizBase",
@@ -1579,7 +1570,6 @@
         "biovizBase"
     ],
     "ribosomeProfilingQC": [
-        "motifStack",
         "RUVSeq"
     ],
     "rifi": [
