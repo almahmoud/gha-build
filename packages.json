@@ -237,9 +237,7 @@
         "gwascat",
         "BiocVersion"
     ],
-    "CircSeqAlignTk": [
-        "Rhisat2"
-    ],
+    "CircSeqAlignTk": [],
     "CiteFuse": [
         "propr"
     ],
@@ -1185,7 +1183,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "Rhisat2": [],
     "RiboProfiling": [
         "ggbio"
     ],
