@@ -9938,7 +9938,6 @@
         "geepack",
         "ggformula",
         "broom",
-        "ggstance",
         "mosaicCore",
         "labelled",
         "haven",
@@ -12140,20 +12139,17 @@
         "geepack",
         "ggformula",
         "broom",
-        "ggstance",
         "mosaicCore",
         "labelled",
         "haven",
         "readr"
     ],
     "ggformula": [
-        "ggstance",
         "mosaicCore",
         "labelled",
         "haven",
         "readr"
     ],
-    "ggstance": [],
     "mosaicCore": [],
     "rsample": [],
     "gstat": [
