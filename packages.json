@@ -279,7 +279,6 @@
         "tidyr",
         "annotate",
         "AnnotationDbi",
-        "hardhat",
         "ipred"
     ],
     "annaffy": [
@@ -762,7 +761,6 @@
         "genefilter",
         "ggvis",
         "dbplyr",
-        "hardhat",
         "ipred"
     ],
     "banocc": [
@@ -1485,7 +1483,6 @@
         "recipes",
         "GenomicAlignments",
         "dbplyr",
-        "hardhat",
         "ipred",
         "tidyr"
     ],
@@ -2154,7 +2151,6 @@
         "ChIC.data",
         "caret",
         "recipes",
-        "hardhat",
         "ipred",
         "tidyr"
     ],
@@ -2907,7 +2903,6 @@
         "ggrepel",
         "spatstat.model",
         "spatstat.linnet",
-        "hardhat",
         "ipred",
         "tidyr"
     ],
@@ -3377,7 +3372,6 @@
         "ggsignif",
         "rstatix",
         "testthat",
-        "hardhat",
         "ipred",
         "pbkrtest",
         "broom",
@@ -3402,7 +3396,6 @@
         "ggsignif",
         "rstatix",
         "nloptr",
-        "hardhat",
         "ipred",
         "pbkrtest",
         "testthat",
@@ -3487,7 +3480,6 @@
         "annotate",
         "rtracklayer",
         "nloptr",
-        "hardhat",
         "ipred",
         "tidyr",
         "GenomicAlignments",
@@ -5596,7 +5588,6 @@
         "annotate",
         "rtracklayer",
         "nloptr",
-        "hardhat",
         "ipred",
         "tidyr",
         "GenomicAlignments",
@@ -6556,7 +6547,6 @@
     "GWAS.BAYES": [
         "caret",
         "recipes",
-        "hardhat",
         "ipred",
         "tidyr"
     ],
@@ -6783,7 +6773,6 @@
         "caret",
         "recipes",
         "vroom",
-        "hardhat",
         "ipred"
     ],
     "HTSeqGenie": [
@@ -7527,7 +7516,6 @@
         "genefilter",
         "AnnotationDbi",
         "annotate",
-        "hardhat",
         "ipred",
         "tidyr"
     ],
@@ -7755,7 +7743,6 @@
         "AnnotationDbi",
         "dbplyr",
         "recipes",
-        "hardhat",
         "ipred",
         "tidyr"
     ],
@@ -7909,7 +7896,6 @@
         "tidyr",
         "rematch2",
         "vroom",
-        "hardhat",
         "ipred"
     ],
     "MAIT": [
@@ -7927,7 +7913,6 @@
         "viridis",
         "questionr",
         "vsn",
-        "hardhat",
         "ipred",
         "tidyr",
         "miniUI",
@@ -7946,7 +7931,6 @@
         "AnnotationDbi",
         "recipes",
         "org.Hs.eg.db",
-        "hardhat",
         "ipred",
         "tidyr"
     ],
@@ -8252,7 +8236,6 @@
         "caret",
         "tidyr",
         "recipes",
-        "hardhat",
         "ipred"
     ],
     "MetaboAnnotation": [
@@ -8853,7 +8836,6 @@
         "scuttle",
         "scater",
         "testthat",
-        "hardhat",
         "ipred",
         "ggbeeswarm",
         "ggrastr",
@@ -9138,7 +9120,6 @@
         "rematch2",
         "nloptr",
         "vroom",
-        "hardhat",
         "ipred",
         "car",
         "pbkrtest",
@@ -9206,7 +9187,6 @@
         "rematch2",
         "nloptr",
         "vroom",
-        "hardhat",
         "ipred",
         "car",
         "pbkrtest",
@@ -9251,7 +9231,6 @@
         "tidyr",
         "recipes",
         "vroom",
-        "hardhat",
         "ipred"
     ],
     "mitch": [
@@ -9294,7 +9273,6 @@
         "waldo",
         "annotate",
         "AnnotationDbi",
-        "hardhat",
         "ipred",
         "tidyr",
         "rematch2"
@@ -9700,7 +9678,6 @@
         "lme4",
         "ggrepel",
         "nloptr",
-        "hardhat",
         "ipred",
         "tidyr",
         "testthat",
@@ -9853,7 +9830,6 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "hardhat",
         "ipred",
         "plotly",
         "cowplot",
@@ -10494,7 +10470,6 @@
         "tidyr",
         "yardstick",
         "questionr",
-        "hardhat",
         "miniUI",
         "labelled",
         "haven",
@@ -11023,7 +10998,6 @@
         "ggsci",
         "ggsignif",
         "rstatix",
-        "hardhat",
         "dbplyr",
         "car",
         "pbkrtest",
@@ -11241,7 +11215,6 @@
         "network",
         "sna",
         "vroom",
-        "hardhat",
         "ipred"
     ],
     "piano": [
@@ -11419,7 +11392,6 @@
         "geneplotter",
         "annotate",
         "AnnotationDbi",
-        "hardhat",
         "ipred"
     ],
     "PoTRA": [
@@ -11473,7 +11445,6 @@
         "AnnotationDbi",
         "rtracklayer",
         "biomaRt",
-        "hardhat",
         "ipred",
         "tidyr",
         "BiocFileCache",
@@ -11648,7 +11619,6 @@
         "ggvis",
         "vsn",
         "dbplyr",
-        "hardhat",
         "ipred",
         "tidyr"
     ],
@@ -11676,7 +11646,6 @@
         "genefilter",
         "ggvis",
         "dbplyr",
-        "hardhat",
         "ipred",
         "tidyr"
     ],
@@ -12411,7 +12380,6 @@
         "GenomicFeatures",
         "annotate",
         "tidyr",
-        "hardhat",
         "ipred",
         "biomaRt"
     ],
@@ -12743,7 +12711,6 @@
         "tidyr",
         "recipes",
         "vroom",
-        "hardhat",
         "ipred"
     ],
     "RMassBank": [
@@ -13338,7 +13305,6 @@
         "sctransform",
         "dbplyr",
         "tidyr",
-        "hardhat",
         "ipred"
     ],
     "SCANVIS": [
@@ -13501,7 +13467,6 @@
         "geneplotter",
         "annotate",
         "AnnotationDbi",
-        "hardhat",
         "ipred",
         "tidyr"
     ],
@@ -14783,7 +14748,6 @@
         "rematch2",
         "nloptr",
         "vroom",
-        "hardhat",
         "ipred",
         "car",
         "pbkrtest",
@@ -15027,7 +14991,6 @@
         "org.Hs.eg.db",
         "AnnotationDbi",
         "recipes",
-        "hardhat",
         "ipred",
         "tidyr"
     ],
@@ -15051,7 +15014,6 @@
         "tidyr",
         "rsample",
         "recipes",
-        "hardhat",
         "ipred"
     ],
     "supraHex": [
@@ -15387,7 +15349,6 @@
         "BSgenome",
         "biovizBase",
         "GenomicAlignments",
-        "hardhat",
         "ipred",
         "ExperimentHub",
         "AnnotationHub",
@@ -15646,7 +15607,6 @@
         "BSgenome",
         "GenomicFeatures",
         "biomaRt",
-        "hardhat",
         "ipred",
         "GenomicAlignments",
         "readr",
@@ -15768,7 +15728,6 @@
         "AnnotationDbi",
         "biomaRt",
         "BiocFileCache",
-        "hardhat",
         "ipred",
         "tidyr",
         "dbplyr"
@@ -16657,7 +16616,6 @@
     ],
     "caret": [
         "recipes",
-        "hardhat",
         "ipred",
         "tidyr"
     ],
@@ -16666,11 +16624,9 @@
         "ggrepel"
     ],
     "recipes": [
-        "hardhat",
         "ipred",
         "tidyr"
     ],
-    "hardhat": [],
     "ipred": [],
     "miniUI": [],
     "shinytoastr": [],
@@ -17237,7 +17193,6 @@
     "ChIC.data": [
         "caret",
         "recipes",
-        "hardhat",
         "ipred",
         "tidyr"
     ],
@@ -17371,7 +17326,6 @@
         "recipes",
         "spatstat.model",
         "spatstat.linnet",
-        "hardhat",
         "ipred",
         "tidyr"
     ],
@@ -17743,7 +17697,6 @@
     "adabag": [
         "caret",
         "recipes",
-        "hardhat",
         "ipred",
         "tidyr"
     ],
@@ -17915,7 +17868,6 @@
         "recipes",
         "tidyr",
         "nloptr",
-        "hardhat",
         "ipred",
         "testthat",
         "waldo",
@@ -18004,16 +17956,13 @@
         "tidyr",
         "yardstick",
         "questionr",
-        "hardhat",
         "miniUI",
         "labelled",
         "haven",
         "readr",
         "vroom"
     ],
-    "yardstick": [
-        "hardhat"
-    ],
+    "yardstick": [],
     "OMICsPCAdata": [
         "MultiAssayExperiment",
         "tidyr"
@@ -18154,7 +18103,6 @@
     "caretEnsemble": [
         "caret",
         "recipes",
-        "hardhat",
         "ipred",
         "tidyr"
     ],
@@ -18364,7 +18312,6 @@
         "LambertW",
         "recipes",
         "butcher",
-        "hardhat",
         "ipred",
         "tidyr"
     ],
