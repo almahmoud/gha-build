@@ -46,7 +46,6 @@
         "lmerTest",
         "scater"
     ],
-    "animalcules": [],
     "AnnotationHub": [
         "BiocVersion"
     ],
