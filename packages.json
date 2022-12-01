@@ -196,7 +196,6 @@
     "CytoGLMM": [
         "factoextra"
     ],
-    "destiny": [],
     "diffcyt": [
         "FlowSOM"
     ],
