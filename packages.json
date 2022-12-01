@@ -30538,7 +30538,6 @@
         "SparseM",
         "MatrixModels",
         "survival",
-        "Rwave",
         "stringi",
         "backports",
         "spam",
@@ -32520,7 +32519,6 @@
         "SparseM",
         "MatrixModels",
         "survival",
-        "Rwave",
         "backports",
         "ellipsis",
         "purrr",
@@ -47130,7 +47128,6 @@
         "SparseM",
         "MatrixModels",
         "survival",
-        "Rwave",
         "farver",
         "labeling",
         "munsell",
@@ -47264,7 +47261,6 @@
         "SparseM",
         "MatrixModels",
         "survival",
-        "Rwave",
         "farver",
         "labeling",
         "munsell",
@@ -159216,7 +159212,6 @@
         "splancs",
         "fields",
         "MBA",
-        "Rwave",
         "sp",
         "spam",
         "viridis",
@@ -159303,8 +159298,7 @@
         "utf8"
     ],
     "RSEIS": [
-        "RPMG",
-        "Rwave"
+        "RPMG"
     ],
     "splancs": [
         "sp",
@@ -159345,7 +159339,6 @@
     "MBA": [
         "BH"
     ],
-    "Rwave": [],
     "spam": [
         "dotCall64"
     ],
