@@ -1524,7 +1524,6 @@
     ],
     "BUMHMM": [
         "devtools",
-        "pkgdown",
         "testthat",
         "waldo",
         "rematch2"
@@ -2673,7 +2672,6 @@
     "cogena": [
         "tidyr",
         "devtools",
-        "pkgdown",
         "testthat",
         "waldo",
         "rematch2"
@@ -5563,7 +5561,6 @@
     "gCrisprTools": [],
     "GCSscore": [
         "devtools",
-        "pkgdown",
         "testthat",
         "waldo",
         "rematch2"
@@ -6955,7 +6952,6 @@
     ],
     "INDEED": [
         "devtools",
-        "pkgdown",
         "testthat",
         "waldo",
         "rematch2"
@@ -8438,7 +8434,6 @@
         "minfi",
         "tidyr",
         "planet",
-        "pkgdown",
         "testthat",
         "AnnotationHub",
         "BiocFileCache",
@@ -8604,7 +8599,6 @@
     "MetID": [
         "devtools",
         "ChemmineR",
-        "pkgdown",
         "testthat",
         "waldo",
         "rematch2"
@@ -9721,7 +9715,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "pkgdown",
         "testthat",
         "HDO.db",
         "fgsea",
@@ -10569,7 +10562,6 @@
     ],
     "oppti": [
         "devtools",
-        "pkgdown",
         "testthat",
         "waldo",
         "rematch2"
@@ -10806,7 +10798,6 @@
         "shinyjs",
         "devtools",
         "geneplotter",
-        "pkgdown",
         "testthat",
         "annotate",
         "AnnotationDbi",
@@ -12599,7 +12590,6 @@
         "DESeq2",
         "BiocStyle",
         "geneplotter",
-        "pkgdown",
         "testthat",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -14658,7 +14648,6 @@
         "Gviz",
         "BiocStyle",
         "geneplotter",
-        "pkgdown",
         "testthat",
         "AnnotationDbi",
         "biomaRt",
@@ -16894,12 +16883,10 @@
         "GenomicAlignments"
     ],
     "devtools": [
-        "pkgdown",
         "testthat",
         "waldo",
         "rematch2"
     ],
-    "pkgdown": [],
     "ggtext": [],
     "vcfR": [],
     "sqldf": [],
@@ -17698,7 +17685,6 @@
     "gghalves": [],
     "anyLib": [
         "devtools",
-        "pkgdown",
         "testthat",
         "waldo",
         "rematch2"
