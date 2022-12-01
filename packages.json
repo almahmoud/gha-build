@@ -597,7 +597,6 @@
         "survminer",
         "ggpubr"
     ],
-    "OncoSimulR": [],
     "onlineFDR": [],
     "ontoProc": [
         "AnnotationHub",
