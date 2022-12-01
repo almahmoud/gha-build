@@ -3969,9 +3969,7 @@
     "hypeR": [
         "kableExtra"
     ],
-    "iBBiG": [
-        "biclust"
-    ],
+    "iBBiG": [],
     "iCARE": [
         "Hmisc"
     ],
@@ -5224,7 +5222,6 @@
     "miRNAtap": [],
     "miRSM": [
         "WGCNA",
-        "biclust",
         "iBBiG",
         "BicARE",
         "s4vd",
@@ -5429,7 +5426,6 @@
         "treeio"
     ],
     "mosbi": [
-        "biclust",
         "QUBIC"
     ],
     "MOSim": [],
@@ -6947,9 +6943,7 @@
         "biomaRt",
         "VariantAnnotation"
     ],
-    "QUBIC": [
-        "biclust"
-    ],
+    "QUBIC": [],
     "R3CPET": [
         "Hmisc",
         "ggbio",
@@ -7597,9 +7591,7 @@
         "testthat",
         "waldo"
     ],
-    "rqubic": [
-        "biclust"
-    ],
+    "rqubic": [],
     "rrvgo": [
         "GOSemSim",
         "GO.db"
@@ -7672,7 +7664,6 @@
         "rtracklayer"
     ],
     "runibic": [
-        "biclust",
         "testthat",
         "waldo"
     ],
@@ -10058,7 +10049,6 @@
         "BiocVersion"
     ],
     "available": [],
-    "biclust": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "GenomicFeatures",
         "rtracklayer",
@@ -10171,12 +10161,9 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "s4vd": [
-        "biclust"
-    ],
+    "s4vd": [],
     "BiBitR": [
-        "dendextend",
-        "biclust"
+        "dendextend"
     ],
     "subspace": [],
     "SOMbrero": [],
