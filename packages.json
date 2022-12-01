@@ -3335,7 +3335,6 @@
         "GenomeInfoDb",
         "blob"
     ],
-    "BioQC": [],
     "biosigner": [
         "MultiAssayExperiment",
         "MultiDataSet",
