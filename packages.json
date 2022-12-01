@@ -1675,7 +1675,6 @@
         "pbkrtest"
     ],
     "SigsPack": [],
-    "simpleSeg": [],
     "singleCellTK": [
         "AnnotationHub",
         "celldex",
