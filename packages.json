@@ -1415,7 +1415,6 @@
         "RFOC",
         "pbkrtest",
         "lme4",
-        "GEOmap",
         "nloptr",
         "testthat"
     ],
@@ -1518,7 +1517,6 @@
         "RFOC",
         "pbkrtest",
         "lme4",
-        "GEOmap",
         "nloptr",
         "testthat"
     ],
@@ -2290,7 +2288,6 @@
         "RFOC",
         "pbkrtest",
         "lme4",
-        "GEOmap",
         "nloptr",
         "testthat"
     ],
@@ -2299,7 +2296,6 @@
         "RFOC",
         "pbkrtest",
         "lme4",
-        "GEOmap",
         "nloptr",
         "testthat"
     ],
@@ -7239,10 +7235,7 @@
     ],
     "keras": [],
     "highcharter": [],
-    "RFOC": [
-        "GEOmap"
-    ],
-    "GEOmap": [],
+    "RFOC": [],
     "mbest": [
         "lme4",
         "nloptr",
