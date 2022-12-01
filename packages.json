@@ -146,7 +146,6 @@
     ],
     "bioCancer": [
         "radiant.data",
-        "clusterProfiler",
         "ReactomePA",
         "car",
         "pbkrtest",
@@ -263,9 +262,7 @@
     "CellMixS": [
         "scater"
     ],
-    "CEMiTool": [
-        "clusterProfiler"
-    ],
+    "CEMiTool": [],
     "censcyt": [
         "diffcyt",
         "lme4",
@@ -276,7 +273,6 @@
         "pbkrtest"
     ],
     "CeTF": [
-        "clusterProfiler",
         "GenomicTools",
         "ggpubr",
         "rstatix",
@@ -337,7 +333,6 @@
     "CiteFuse": [
         "propr"
     ],
-    "clusterProfiler": [],
     "CNORfuzzy": [],
     "CNVfilteR": [
         "karyoploteR",
@@ -375,7 +370,6 @@
     "conclus": [
         "factoextra",
         "scater",
-        "clusterProfiler",
         "FactoMineR",
         "ggpubr",
         "car",
@@ -512,9 +506,7 @@
         "pbkrtest",
         "lme4"
     ],
-    "debrowser": [
-        "clusterProfiler"
-    ],
+    "debrowser": [],
     "decompTumor2Sig": [],
     "deconvR": [
         "rsq",
@@ -608,16 +600,12 @@
         "pbkrtest",
         "lme4"
     ],
-    "EasyCellType": [
-        "clusterProfiler"
-    ],
+    "EasyCellType": [],
     "edge": [
         "snm",
         "lme4"
     ],
-    "eegc": [
-        "clusterProfiler"
-    ],
+    "eegc": [],
     "ELMER": [
         "Gviz",
         "ggpubr",
@@ -639,7 +627,6 @@
     "enrichTF": [
         "motifmatchr",
         "ggpubr",
-        "clusterProfiler",
         "rstatix",
         "car",
         "pbkrtest",
@@ -705,7 +692,6 @@
     ],
     "esATAC": [
         "ChIPseeker",
-        "clusterProfiler",
         "motifmatchr"
     ],
     "EventPointer": [],
@@ -737,13 +723,9 @@
         "Gviz",
         "biovizBase"
     ],
-    "famat": [
-        "clusterProfiler"
-    ],
+    "famat": [],
     "fCCAC": [],
-    "fcoex": [
-        "clusterProfiler"
-    ],
+    "fcoex": [],
     "fcScan": [],
     "ffpe": [
         "lumi",
@@ -822,7 +804,6 @@
     ],
     "GCSscore": [],
     "GDCRNATools": [
-        "clusterProfiler",
         "survminer",
         "ggpubr",
         "rstatix",
@@ -913,9 +894,7 @@
     "gmapR": [],
     "GmicR": [],
     "goseq": [],
-    "goSorensen": [
-        "clusterProfiler"
-    ],
+    "goSorensen": [],
     "GRmetrics": [
         "drc",
         "car",
@@ -1032,7 +1011,6 @@
     ],
     "IPO": [],
     "IRISFGM": [
-        "clusterProfiler",
         "ggpubr",
         "scater",
         "rstatix",
@@ -1139,7 +1117,6 @@
         "minfi"
     ],
     "MAGeCKFlute": [
-        "clusterProfiler",
         "depmap",
         "ExperimentHub",
         "AnnotationHub",
@@ -1215,9 +1192,7 @@
         "EnsDb.Hsapiens.v86"
     ],
     "metaMS": [],
-    "MetaPhOR": [
-        "clusterProfiler"
-    ],
+    "MetaPhOR": [],
     "metaseqR2": [],
     "metavizr": [
         "epivizr",
@@ -1262,7 +1237,6 @@
         "lme4"
     ],
     "methylGSA": [
-        "clusterProfiler",
         "missMethyl",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
@@ -1301,9 +1275,7 @@
         "lmerTest",
         "scater"
     ],
-    "MicrobiomeProfiler": [
-        "clusterProfiler"
-    ],
+    "MicrobiomeProfiler": [],
     "MicrobiotaProcess": [],
     "MIGSA": [],
     "MineICA": [
@@ -1320,7 +1292,6 @@
     "miRSM": [
         "miRspongeR",
         "SPONGE",
-        "clusterProfiler",
         "ReactomePA",
         "cvms",
         "ggpubr",
@@ -1331,7 +1302,6 @@
     ],
     "miRspongeR": [
         "SPONGE",
-        "clusterProfiler",
         "ReactomePA",
         "cvms",
         "ggpubr",
@@ -1361,9 +1331,7 @@
         "pbkrtest"
     ],
     "monaLisa": [],
-    "MoonlightR": [
-        "clusterProfiler"
-    ],
+    "MoonlightR": [],
     "motifbreakR": [
         "motifStack",
         "Gviz",
@@ -1439,7 +1407,6 @@
         "biovizBase"
     ],
     "multiSight": [
-        "clusterProfiler",
         "ReactomePA"
     ],
     "MungeSumstats": [],
@@ -1488,9 +1455,7 @@
     ],
     "nearBynding": [],
     "nempi": [],
-    "netboxr": [
-        "clusterProfiler"
-    ],
+    "netboxr": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -1607,9 +1572,7 @@
         "motifmatchr"
     ],
     "PAIRADISE": [],
-    "PanomiR": [
-        "clusterProfiler"
-    ],
+    "PanomiR": [],
     "pareg": [],
     "PathoStat": [],
     "pcaExplorer": [],
@@ -1624,9 +1587,7 @@
     "peco": [
         "scater"
     ],
-    "PFP": [
-        "clusterProfiler"
-    ],
+    "PFP": [],
     "phenomis": [],
     "PhenStat": [
         "car",
@@ -1647,7 +1608,6 @@
     ],
     "Pi": [],
     "Pigengene": [
-        "clusterProfiler",
         "ReactomePA"
     ],
     "PING": [
@@ -1881,7 +1841,6 @@
     "RNASeqR": [
         "FactoMineR",
         "factoextra",
-        "clusterProfiler",
         "ggpubr",
         "car",
         "pbkrtest",
@@ -2028,7 +1987,6 @@
     ],
     "signatureSearch": [
         "ExperimentHub",
-        "clusterProfiler",
         "AnnotationHub",
         "BiocVersion"
     ],
@@ -2195,7 +2153,6 @@
     "TBSignatureProfiler": [],
     "TCGAbiolinksGUI": [
         "ELMER",
-        "clusterProfiler",
         "sesame",
         "Gviz",
         "ggpubr",
@@ -2224,9 +2181,7 @@
     "timeOmics": [
         "propr"
     ],
-    "TimiRGeN": [
-        "clusterProfiler"
-    ],
+    "TimiRGeN": [],
     "TitanCNA": [],
     "tLOH": [],
     "TNBC.CMS": [
