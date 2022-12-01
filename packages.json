@@ -27604,7 +27604,6 @@
         "DOSE",
         "survival",
         "doParallel",
-        "inaparc",
         "shiny",
         "ggwordcloud",
         "metR",
@@ -43048,7 +43047,6 @@
         "testthat",
         "doParallel",
         "BWStest",
-        "inaparc",
         "hms",
         "vroom",
         "GenomicAlignments",
@@ -56232,9 +56230,7 @@
         "jquerylib",
         "pillar"
     ],
-    "ppclust": [
-        "inaparc"
-    ],
+    "ppclust": [],
     "MatrixCorrelation": [
         "progress",
         "RSpectra",
@@ -56242,7 +56238,6 @@
         "RcppEigen",
         "vctrs"
     ],
-    "inaparc": [],
     "metR": [
         "ggplot2",
         "scales",
