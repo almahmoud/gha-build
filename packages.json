@@ -19819,7 +19819,6 @@
         "tibble",
         "pillar"
     ],
-    "pcxn": [],
     "PDATK": [
         "SummarizedExperiment",
         "MultiAssayExperiment",
