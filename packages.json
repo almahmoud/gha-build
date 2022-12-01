@@ -475,9 +475,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "coseq": [
-        "HTSFilter"
-    ],
+    "coseq": [],
     "cosmiq": [],
     "crisprDesign": [
         "crisprScore",
@@ -1122,7 +1120,6 @@
         "VariantAnnotation",
         "VariantTools"
     ],
-    "HTSFilter": [],
     "icetea": [
         "VariantAnnotation",
         "TxDb.Dmelanogaster.UCSC.dm6.ensGene"
