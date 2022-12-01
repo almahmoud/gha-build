@@ -306,13 +306,11 @@
     ],
     "cbaf": [
         "cBioPortalData",
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "CBEA": [],
     "cBioPortalData": [
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "celda": [
         "scater"
@@ -1305,8 +1303,7 @@
     "LowMACA": [
         "cBioPortalData",
         "motifStack",
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "LRcell": [
         "ExperimentHub",
@@ -2264,9 +2261,7 @@
         "pbkrtest",
         "lme4"
     ],
-    "RTCGAToolbox": [
-        "TCGAutils"
-    ],
+    "RTCGAToolbox": [],
     "RTN": [
         "car",
         "pbkrtest",
@@ -2602,7 +2597,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "TCGAutils": [],
     "TDARACNE": [
         "GenKern"
     ],
@@ -2614,9 +2608,7 @@
         "ExperimentHub",
         "BiocVersion"
     ],
-    "terraTCGAdata": [
-        "TCGAutils"
-    ],
+    "terraTCGAdata": [],
     "TFEA.ChIP": [],
     "TFHAZ": [
         "ORFik"
