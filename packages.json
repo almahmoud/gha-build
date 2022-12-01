@@ -3825,7 +3825,6 @@
         "testthat",
         "waldo"
     ],
-    "GEM": [],
     "gemma.R": [],
     "genbankr": [
         "GenomicFeatures",
