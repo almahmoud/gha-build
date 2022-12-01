@@ -17677,7 +17677,6 @@
     "phantasus": [
         "ggplot2",
         "GEOquery",
-        "opencpu",
         "fgsea",
         "AnnotationDbi",
         "DESeq2",
@@ -29434,7 +29433,6 @@
     "R.filesets": [],
     "R.rsp": [],
     "PSCBS": [],
-    "opencpu": [],
     "osfr": [
         "tibble"
     ],
