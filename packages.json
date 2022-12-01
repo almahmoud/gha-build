@@ -20562,7 +20562,6 @@
     "coGPS": [],
     "COHCAP": [
         "WriteXLS",
-        "COHCAPanno",
         "RColorBrewer",
         "gplots",
         "Rcpp",
@@ -130686,7 +130685,6 @@
     "biwt": [
         "robustbase"
     ],
-    "COHCAPanno": [],
     "skmeans": [
         "slam",
         "clue"
