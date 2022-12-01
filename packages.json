@@ -515,9 +515,7 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "BANDITS": [
-        "DRIMSeq"
-    ],
+    "BANDITS": [],
     "bandle": [
         "MSnbase",
         "pRoloc",
@@ -2703,8 +2701,7 @@
         "pbkrtest"
     ],
     "DifferentialRegulation": [
-        "BANDITS",
-        "DRIMSeq"
+        "BANDITS"
     ],
     "diffHic": [
         "BSgenome",
@@ -2865,7 +2862,6 @@
     "drawProteins": [
         "readr"
     ],
-    "DRIMSeq": [],
     "DropletUtils": [
         "scuttle"
     ],
@@ -5021,7 +5017,6 @@
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "BSgenome",
-        "DRIMSeq",
         "rtracklayer",
         "tximeta",
         "readr",
