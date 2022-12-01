@@ -35870,7 +35870,6 @@
     "Path2PPI": [
         "igraph"
     ],
-    "pathifier": [],
     "PathoStat": [
         "reshape2",
         "scales",
