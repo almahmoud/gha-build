@@ -661,7 +661,6 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "GenVisR": [],
     "GeoDiff": [
         "GeomxTools",
         "lmerTest"
