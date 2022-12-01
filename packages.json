@@ -12560,7 +12560,6 @@
     ],
     "GeneNetworkBuilder": [],
     "GeneOverlap": [],
-    "geneplast": [],
     "geneplotter": [
         "annotate",
         "AnnotationDbi",
