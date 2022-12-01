@@ -879,7 +879,6 @@
     ],
     "BioMM": [
         "rms",
-        "precrec",
         "topGO",
         "Hmisc",
         "GO.db"
@@ -2880,9 +2879,7 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "diffuStats": [
-        "precrec"
-    ],
+    "diffuStats": [],
     "diffUTR": [
         "DEXSeq",
         "rtracklayer",
@@ -12290,7 +12287,6 @@
     "rms": [
         "Hmisc"
     ],
-    "precrec": [],
     "synaptome.db": [
         "synaptome.data",
         "AnnotationHub",
