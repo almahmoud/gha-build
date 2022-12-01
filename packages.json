@@ -9153,7 +9153,6 @@
     "slingshot": [
         "TrajectoryUtils"
     ],
-    "SMAD": [],
     "SMITE": [
         "Hmisc",
         "org.Hs.eg.db",
