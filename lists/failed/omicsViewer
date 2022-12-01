@@ -1,0 +1,10 @@
++ '[' 0 = 0 ']'
+++ pwd
++ Rscript -e 'p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); install.packages('\''/__w/gha-build/gha-build/omicsViewer'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE, type = '\''source'\'', repos = NULL); if('\''omicsViewer'\'' %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+Installing package into ‘/__w/gha-build/gha-build/built’
+(as ‘lib’ is unspecified)
+ERROR: dependency ‘ROCR’ is not available for package ‘omicsViewer’
+* removing ‘/__w/gha-build/gha-build/built/omicsViewer’
+Warning message:
+In install.packages("/__w/gha-build/gha-build/omicsViewer", INSTALL_opts = "--build",  :
+  installation of package ‘/__w/gha-build/gha-build/omicsViewer’ had non-zero exit status
