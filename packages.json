@@ -24482,7 +24482,6 @@
         "Biostrings",
         "vegan"
     ],
-    "SIMD": [],
     "SimFFPE": [
         "Biostrings",
         "dplyr",
