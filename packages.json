@@ -841,7 +841,6 @@
         "WGCNA",
         "sva",
         "ggnetwork",
-        "sna",
         "genefilter",
         "Hmisc",
         "GO.db",
@@ -1104,7 +1103,6 @@
         "GGally",
         "ensembldb",
         "biomaRt",
-        "sna",
         "genefilter",
         "GO.db",
         "BiocFileCache",
@@ -1291,7 +1289,6 @@
     "CEMiTool": [
         "WGCNA",
         "ggpmisc",
-        "sna",
         "clusterProfiler",
         "fgsea",
         "DOSE",
@@ -1348,7 +1345,6 @@
         "gson",
         "qvalue",
         "geneplotter",
-        "sna",
         "rstatix",
         "HDO.db",
         "fgsea",
@@ -1673,7 +1669,6 @@
     "CluMSID": [
         "GGally",
         "plotly",
-        "sna",
         "MSnbase"
     ],
     "clusterExperiment": [
@@ -2911,7 +2906,6 @@
         "waldo"
     ],
     "eegc": [
-        "sna",
         "DESeq2",
         "clusterProfiler",
         "org.Hs.eg.db",
@@ -3487,7 +3481,6 @@
     ],
     "fcoex": [
         "clusterProfiler",
-        "sna",
         "DOSE",
         "enrichplot",
         "GO.db",
@@ -4104,8 +4097,7 @@
         "treeio"
     ],
     "GGPA": [
-        "GGally",
-        "sna"
+        "GGally"
     ],
     "ggspavis": [
         "SpatialExperiment",
@@ -7440,8 +7432,7 @@
         "caret",
         "ggnetwork",
         "readr",
-        "recipes",
-        "sna"
+        "recipes"
     ],
     "piano": [
         "fgsea"
@@ -9978,7 +9969,6 @@
         "rtracklayer",
         "ggnetwork",
         "testthat",
-        "sna",
         "waldo"
     ],
     "systemPipeR": [
@@ -11145,10 +11135,7 @@
         "BiocFileCache",
         "BiocVersion"
     ],
-    "ggnetwork": [
-        "sna"
-    ],
-    "sna": [],
+    "ggnetwork": [],
     "superheat": [],
     "biscuiteerData": [
         "ExperimentHub",
