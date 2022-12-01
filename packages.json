@@ -802,7 +802,6 @@
         "ggtree",
         "tidygraph",
         "ggfun",
-        "ggplotify",
         "tidytree",
         "treeio",
         "nloptr",
@@ -1298,7 +1297,6 @@
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
-        "ggplotify",
         "patchwork",
         "biomaRt",
         "GenomicAlignments",
@@ -1498,7 +1496,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidygraph",
         "tidytree",
@@ -1566,7 +1563,6 @@
         "broom",
         "car",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "pbkrtest",
         "lme4",
@@ -1760,7 +1756,6 @@
         "biomaRt",
         "GenomicAlignments",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "BiocFileCache",
         "HDO.db",
@@ -1963,7 +1958,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidygraph",
         "tidytree",
@@ -2094,8 +2088,7 @@
         "ggfun",
         "tidyr",
         "tidytree",
-        "treeio",
-        "ggplotify"
+        "treeio"
     ],
     "Cogito": [
         "GenomicFeatures",
@@ -2220,7 +2213,6 @@
         "ggsignif",
         "rstatix",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "pbkrtest",
         "lme4",
@@ -2814,7 +2806,6 @@
         "egg",
         "genefilter",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidygraph",
         "tidytree",
@@ -3337,7 +3328,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidygraph",
         "tidytree",
@@ -3406,7 +3396,6 @@
         "ggtree",
         "annotate",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidygraph",
         "tidytree",
@@ -3519,7 +3508,6 @@
         "GOSemSim",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "HDO.db",
         "fgsea",
@@ -3563,7 +3551,6 @@
         "broom",
         "car",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "pbkrtest",
         "lme4",
@@ -3618,7 +3605,6 @@
         "ggtree",
         "biomaRt",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "HDO.db",
         "fgsea",
@@ -3690,7 +3676,6 @@
         "tidygraph",
         "tidyr",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidytree",
         "treeio"
@@ -3858,7 +3843,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidygraph",
         "tidytree",
@@ -3915,7 +3899,6 @@
         "plotly",
         "readr",
         "BiocVersion",
-        "ggplotify",
         "broom",
         "car",
         "pbkrtest",
@@ -4030,7 +4013,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidygraph",
         "tidytree",
@@ -4083,7 +4065,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidygraph",
         "tidytree",
@@ -4334,7 +4315,6 @@
     ],
     "FuseSOM": [
         "FCPS",
-        "ggplotify",
         "ggpubr",
         "ggsci",
         "tidyr",
@@ -4447,7 +4427,6 @@
         "ggsignif",
         "rstatix",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidygraph",
         "tidytree",
@@ -4801,7 +4780,6 @@
         "statebins",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "plotly",
         "tidytree",
@@ -4824,7 +4802,6 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "ggplotify",
         "patchwork"
     ],
     "ggtreeDendro": [
@@ -4834,7 +4811,6 @@
         "ggfun",
         "tidyr",
         "treeio",
-        "ggplotify",
         "patchwork"
     ],
     "ggtreeExtra": [
@@ -4845,7 +4821,6 @@
         "ggfun",
         "tidyr",
         "treeio",
-        "ggplotify",
         "patchwork"
     ],
     "girafe": [
@@ -4986,7 +4961,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidygraph",
         "tidytree",
@@ -5032,7 +5006,6 @@
     ],
     "granulator": [
         "epiR",
-        "ggplotify",
         "tidyr"
     ],
     "graper": [],
@@ -5697,7 +5670,6 @@
         "broom",
         "car",
         "ggfun",
-        "ggplotify",
         "pbkrtest",
         "lme4",
         "tidytree",
@@ -5942,7 +5914,6 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "ggplotify",
         "patchwork"
     ],
     "lipidr": [
@@ -6034,7 +6005,6 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "ggplotify",
         "patchwork"
     ],
     "M3C": [],
@@ -6158,7 +6128,6 @@
         "BiocFileCache",
         "BiocVersion",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidygraph",
         "tidytree",
@@ -6417,7 +6386,6 @@
         "ggtree",
         "GO.db",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidygraph",
         "tidyr",
@@ -6541,7 +6509,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidygraph",
         "tidytree",
@@ -6751,7 +6718,6 @@
         "bumphunter",
         "GEOquery",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "rtracklayer",
@@ -6872,7 +6838,6 @@
         "MultiAssayExperiment",
         "scuttle",
         "ggrastr",
-        "ggplotify",
         "patchwork"
     ],
     "microbiome": [
@@ -6922,7 +6887,6 @@
         "aplot",
         "ggfun",
         "treeio",
-        "ggplotify",
         "readxl",
         "annotate",
         "MultiAssayExperiment",
@@ -6950,7 +6914,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "HDO.db",
         "fgsea",
@@ -6970,8 +6933,7 @@
         "ggtreeExtra",
         "aplot",
         "ggfun",
-        "ggnewscale",
-        "ggplotify"
+        "ggnewscale"
     ],
     "midasHLA": [
         "MultiAssayExperiment",
@@ -7148,7 +7110,6 @@
         "readr",
         "readxl",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidytree",
         "treeio",
@@ -7202,7 +7163,6 @@
         "readr",
         "readxl",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidytree",
         "treeio",
@@ -7373,7 +7333,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidygraph",
         "tidytree",
@@ -7712,7 +7671,6 @@
         "reactome.db",
         "graphite",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "testthat",
         "HDO.db",
@@ -7978,7 +7936,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidygraph",
         "tidytree",
@@ -8425,7 +8382,6 @@
         "treeio",
         "plotly",
         "readr",
-        "ggplotify",
         "broom",
         "car",
         "pbkrtest",
@@ -8524,7 +8480,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidygraph",
         "tidytree",
@@ -8598,7 +8553,6 @@
     "PCAtools": [],
     "PDATK": [
         "MultiAssayExperiment",
-        "ggplotify",
         "CoreGx",
         "caret",
         "survminer",
@@ -8673,7 +8627,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidygraph",
         "tidytree",
@@ -8740,7 +8693,6 @@
         "ggfun",
         "tidytree",
         "treeio",
-        "ggplotify",
         "patchwork"
     ],
     "PhIPData": [
@@ -8815,7 +8767,6 @@
         "ggtree",
         "tidygraph",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidytree",
         "treeio"
@@ -8866,7 +8817,6 @@
         "genefilter"
     ],
     "plotgardener": [
-        "ggplotify",
         "plyranges",
         "rtracklayer",
         "GenomicAlignments"
@@ -9077,7 +9027,6 @@
         "GOSemSim",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "HDO.db",
         "fgsea",
@@ -9558,7 +9507,6 @@
         "tidygraph",
         "tidyr",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidytree",
         "treeio",
@@ -9969,7 +9917,6 @@
         "GenomicFeatures",
         "rtracklayer",
         "AnnotationHub",
-        "ggplotify",
         "RLHub",
         "BiocFileCache",
         "BiocVersion",
@@ -10153,7 +10100,6 @@
         "GenomicAlignments",
         "genefilter",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidygraph",
         "tidytree",
@@ -10486,8 +10432,7 @@
         "tidytree",
         "treeio",
         "plotly",
-        "scattermore",
-        "ggplotify"
+        "scattermore"
     ],
     "scCB2": [
         "DropletUtils",
@@ -10734,7 +10679,6 @@
         "patchwork",
         "scattermore",
         "ggfun",
-        "ggplotify",
         "tidytree",
         "treeio"
     ],
@@ -10797,7 +10741,6 @@
         "biomaRt",
         "GenomicAlignments",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "BiocFileCache",
         "HDO.db",
@@ -10859,7 +10802,6 @@
     ],
     "seqsetvis": [
         "GenomicAlignments",
-        "ggplotify",
         "rtracklayer",
         "UpSetR"
     ],
@@ -10987,7 +10929,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidygraph",
         "tidytree",
@@ -11106,7 +11047,6 @@
         "ExperimentHub",
         "ensembldb",
         "fields",
-        "ggplotify",
         "ggtree",
         "GSVA",
         "GSVAdata",
@@ -11197,7 +11137,6 @@
         "ggtree",
         "tidytree",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidyr",
         "treeio"
@@ -11366,7 +11305,6 @@
         "BiocFileCache",
         "WGCNA",
         "genefilter",
-        "ggplotify",
         "plotly",
         "scater",
         "scuttle",
@@ -11838,7 +11776,6 @@
         "ggfun",
         "tidytree",
         "treeio",
-        "ggplotify",
         "patchwork",
         "annotate"
     ],
@@ -11865,7 +11802,6 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "ggplotify",
         "patchwork"
     ],
     "TAPseq": [
@@ -11966,7 +11902,6 @@
         "AnnotationHub",
         "BiocVersion",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "Hmisc",
         "VariantAnnotation",
@@ -12123,7 +12058,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "patchwork",
         "tidygraph",
         "tidytree",
@@ -12307,7 +12241,6 @@
         "tidytree",
         "treeio",
         "nloptr",
-        "ggplotify",
         "ggnewscale",
         "ggpubr",
         "testthat",
@@ -12426,7 +12359,6 @@
         "BiocVersion",
         "rtracklayer",
         "biomaRt",
-        "ggplotify",
         "plyranges"
     ],
     "UMI4Cats": [
@@ -13191,7 +13123,6 @@
     ],
     "aplot": [
         "ggfun",
-        "ggplotify",
         "patchwork"
     ],
     "ggnewscale": [],
@@ -13204,7 +13135,6 @@
         "tidyr"
     ],
     "ggfun": [],
-    "ggplotify": [],
     "rms": [
         "Hmisc"
     ],
