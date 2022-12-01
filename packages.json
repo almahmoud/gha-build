@@ -10405,7 +10405,6 @@
         "miRspongeR",
         "GSEABase",
         "org.Hs.eg.db",
-        "MatrixCorrelation",
         "viridis",
         "dendextend",
         "tidyr",
@@ -20787,7 +20786,6 @@
         "ggwordcloud",
         "metR"
     ],
-    "MatrixCorrelation": [],
     "metR": [
         "ggplot2"
     ],
