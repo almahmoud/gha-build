@@ -3411,7 +3411,6 @@
         "ensembldb",
         "EnsDb.Hsapiens.v86"
     ],
-    "RJMCMCNucleosomes": [],
     "RLSeq": [
         "regioneR",
         "caretEnsemble",
