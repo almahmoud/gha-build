@@ -27185,7 +27185,6 @@
         "pillar",
         "XVector"
     ],
-    "ROSeq": [],
     "RPA": [
         "BiocStyle",
         "rmarkdown",
