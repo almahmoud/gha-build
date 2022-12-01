@@ -19166,7 +19166,6 @@
         "tidyselect"
     ],
     "PhenStat": [
-        "SmoothWin",
         "car",
         "logistf",
         "ggplot2",
@@ -31759,7 +31758,6 @@
     "R.rsp": [],
     "PSCBS": [],
     "opencpu": [],
-    "SmoothWin": [],
     "osfr": [
         "tibble"
     ],
