@@ -2569,8 +2569,7 @@
     ],
     "girafe": [],
     "GISPA": [
-        "GSEABase",
-        "HH"
+        "GSEABase"
     ],
     "Glimma": [
         "DESeq2",
@@ -7109,7 +7108,6 @@
         "heatmaply"
     ],
     "ggalt": [],
-    "HH": [],
     "gRain": [],
     "HiContactsData": [
         "ExperimentHub",
