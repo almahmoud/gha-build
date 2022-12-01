@@ -636,7 +636,6 @@
         "TxDb.Rnorvegicus.UCSC.rn4.ensGene",
         "TxDb.Celegans.UCSC.ce6.ensGene",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
-        "systemPipeR",
         "DESeq2",
         "GreyListChIP"
     ],
@@ -1102,7 +1101,6 @@
         "DESeq2"
     ],
     "DiffBind": [
-        "systemPipeR",
         "DESeq2",
         "GreyListChIP"
     ],
@@ -3630,7 +3628,6 @@
         "FactoMineR",
         "factoextra",
         "DESeq2",
-        "systemPipeR",
         "clusterProfiler",
         "DOSE",
         "enrichplot",
@@ -4175,7 +4172,6 @@
         "nloptr"
     ],
     "syntenet": [],
-    "systemPipeR": [],
     "systemPipeTools": [
         "DESeq2",
         "ggtree"
@@ -4472,7 +4468,6 @@
         "ensembldb",
         "GenomicFeatures",
         "regioneR",
-        "systemPipeR",
         "GreyListChIP"
     ],
     "waddR": [
