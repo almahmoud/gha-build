@@ -567,7 +567,6 @@
     ],
     "missMethyl": [],
     "MMUPHin": [],
-    "motifbreakR": [],
     "MQmetrics": [
         "ggpubr",
         "rstatix"
