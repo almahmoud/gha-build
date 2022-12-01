@@ -4386,7 +4386,6 @@
         "ggrastr",
         "BiocFileCache"
     ],
-    "flowAI": [],
     "flowBin": [],
     "flowcatchR": [
         "plotly",
