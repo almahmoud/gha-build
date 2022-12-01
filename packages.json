@@ -1258,7 +1258,6 @@
         "genefilter",
         "ggvis",
         "shiny",
-        "gbm",
         "SummarizedExperiment",
         "RSQLite",
         "KEGGREST",
@@ -2434,7 +2433,6 @@
     ],
     "branchpointer": [
         "caret",
-        "gbm",
         "cowplot",
         "ggplot2",
         "biomaRt",
@@ -14874,7 +14872,6 @@
         "genefilter",
         "ggvis",
         "shiny",
-        "gbm",
         "SummarizedExperiment",
         "AnnotationDbi",
         "dplyr",
@@ -18627,7 +18624,6 @@
         "genefilter",
         "ggvis",
         "shiny",
-        "gbm",
         "SummarizedExperiment",
         "vsn",
         "RSQLite",
@@ -18672,7 +18668,6 @@
         "annotate",
         "genefilter",
         "ggvis",
-        "gbm",
         "SummarizedExperiment",
         "RSQLite",
         "KEGGREST",
@@ -22553,7 +22548,6 @@
         "genefilter",
         "ggvis",
         "shiny",
-        "gbm",
         "SummarizedExperiment",
         "AnnotationDbi",
         "dplyr",
@@ -27397,7 +27391,6 @@
         "tibble",
         "tidyselect"
     ],
-    "gbm": [],
     "rstan": [
         "ggplot2",
         "tibble"
