@@ -789,7 +789,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "DEComplexDisease": [],
     "decompTumor2Sig": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation"
