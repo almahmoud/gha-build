@@ -4450,7 +4450,6 @@
     ],
     "eisaR": [],
     "ELMER": [
-        "ELMER.data",
         "GenomicFeatures",
         "TCGAbiolinks",
         "Gviz",
@@ -4769,7 +4768,6 @@
         "AnnotationHub",
         "AnnotationDbi",
         "biomaRt",
-        "ELMER.data",
         "ExperimentHub",
         "GenomicFeatures",
         "GEOquery",
@@ -15472,7 +15470,6 @@
         "qvalue",
         "tidyr",
         "miniUI",
-        "ELMER.data",
         "GenomicFeatures",
         "Gviz",
         "MultiAssayExperiment",
@@ -17693,7 +17690,6 @@
         "dbplyr"
     ],
     "coin": [],
-    "ELMER.data": [],
     "EntropyExplorer": [],
     "EpiMix.data": [
         "ExperimentHub",
