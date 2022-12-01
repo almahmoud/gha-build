@@ -1981,7 +1981,6 @@
         "BiocVersion",
         "VariantAnnotation"
     ],
-    "proActiv": [],
     "proBatch": [
         "pvca",
         "lme4"
