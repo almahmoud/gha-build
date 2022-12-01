@@ -28632,7 +28632,6 @@
         "Rgraphviz",
         "harmonicmeanp",
         "org.Hs.eg.db",
-        "logger",
         "shadowtext",
         "generics",
         "lifecycle",
@@ -82612,7 +82611,6 @@
         "httr",
         "igraph",
         "later",
-        "logger",
         "magrittr",
         "progress",
         "purrr",
@@ -99856,7 +99854,6 @@
         "httr",
         "enviPat",
         "assertthat",
-        "logger",
         "RCurl",
         "readJDX",
         "webchem",
@@ -103612,7 +103609,6 @@
         "knitr",
         "seqinr",
         "BiocStyle",
-        "logger",
         "nlme",
         "lattice",
         "Rcpp",
@@ -129157,7 +129153,6 @@
     "wppi": [
         "dplyr",
         "igraph",
-        "logger",
         "magrittr",
         "Matrix",
         "OmnipathR",
@@ -142299,7 +142294,6 @@
         "MASS"
     ],
     "harmonicmeanp": [],
-    "logger": [],
     "TFisher": [
         "sn",
         "mvtnorm",
