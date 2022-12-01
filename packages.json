@@ -1691,7 +1691,6 @@
         "annotate",
         "GO.db"
     ],
-    "CNORdt": [],
     "CNORfeeder": [],
     "CNORfuzzy": [
         "nloptr",
