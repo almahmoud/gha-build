@@ -11643,8 +11643,7 @@
     "nethet": [
         "ICSNP",
         "network",
-        "ggplot2",
-        "ICS"
+        "ggplot2"
     ],
     "netOmics": [
         "dplyr",
@@ -14643,7 +14642,6 @@
         "dbplyr"
     ],
     "RNAinteract": [
-        "ICS",
         "ICSNP",
         "cellHTS2",
         "geneplotter",
@@ -20709,10 +20707,7 @@
     "shinyjqui": [],
     "VarfromPDB": [],
     "mppa": [],
-    "ICSNP": [
-        "ICS"
-    ],
-    "ICS": [],
+    "ICSNP": [],
     "dnet": [
         "supraHex",
         "readr",
