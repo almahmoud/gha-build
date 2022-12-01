@@ -11196,7 +11196,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "geneplotter",
-        "blockmodeling",
         "testthat",
         "mgcv",
         "tibble",
@@ -12441,7 +12440,6 @@
         "blob"
     ],
     "EBSeq": [
-        "blockmodeling",
         "testthat",
         "waldo",
         "rematch2",
@@ -12451,7 +12449,6 @@
     ],
     "EBSeqHMM": [
         "EBSeq",
-        "blockmodeling",
         "testthat",
         "waldo",
         "rematch2",
@@ -29818,7 +29815,6 @@
         "EBSeq",
         "testthat",
         "BiocParallel",
-        "blockmodeling",
         "waldo",
         "rematch2",
         "tibble",
@@ -37450,7 +37446,6 @@
         "SummarizedExperiment",
         "scran",
         "lme4",
-        "blockmodeling",
         "testthat",
         "viridis",
         "mgcv",
@@ -37481,7 +37476,6 @@
         "SingleCellExperiment",
         "Oscope",
         "SummarizedExperiment",
-        "blockmodeling",
         "testthat",
         "mgcv",
         "tibble",
@@ -50025,7 +50019,6 @@
         "vctrs",
         "pillar"
     ],
-    "blockmodeling": [],
     "swamp": [],
     "bnstruct": [],
     "phangorn": [],
