@@ -518,7 +518,6 @@
     "CellMixS": [
         "scater"
     ],
-    "cellTree": [],
     "CEMiTool": [
         "clusterProfiler",
         "DOSE",
