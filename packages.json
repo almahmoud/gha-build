@@ -11269,7 +11269,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "memuse",
-        "pinfsc50",
         "Rcpp",
         "stringr",
         "vegan",
@@ -49206,7 +49205,6 @@
         "dplyr",
         "magrittr",
         "memuse",
-        "pinfsc50",
         "Rcpp",
         "stringr",
         "tibble",
@@ -109980,7 +109978,6 @@
         "dplyr",
         "magrittr",
         "memuse",
-        "pinfsc50",
         "Rcpp",
         "stringr",
         "tibble",
@@ -109999,7 +109996,6 @@
         "withr"
     ],
     "memuse": [],
-    "pinfsc50": [],
     "biglm": [],
     "sqldf": [
         "gsubfn",
