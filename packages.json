@@ -14,9 +14,7 @@
         "snapCGH",
         "genefilter"
     ],
-    "ADAM": [],
     "ADAMgui": [
-        "ADAM",
         "ggpubr",
         "testthat",
         "rstatix",
