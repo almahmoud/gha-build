@@ -107,7 +107,6 @@
         "GGally",
         "ensembldb",
         "biomaRt",
-        "forcats",
         "tidyr",
         "viridis",
         "BiocFileCache",
@@ -152,7 +151,6 @@
         "GGally",
         "ensembldb",
         "biomaRt",
-        "forcats",
         "tidyr",
         "viridis",
         "BiocFileCache",
@@ -172,7 +170,6 @@
         "GGally",
         "shinydashboard",
         "cowplot",
-        "forcats",
         "tidyr"
     ],
     "AllelicImbalance": [
@@ -277,7 +274,6 @@
         "caret",
         "plotly",
         "MultiAssayExperiment",
-        "forcats",
         "plotROC",
         "GUniFrac",
         "recipes",
@@ -603,7 +599,6 @@
         "broom",
         "dbplyr",
         "dtplyr",
-        "forcats",
         "googledrive",
         "googlesheets4",
         "haven",
@@ -993,7 +988,6 @@
         "shinycssloaders",
         "shinydashboard",
         "tidyr",
-        "forcats",
         "viridis"
     ],
     "BindingSiteFinder": [
@@ -1444,7 +1438,6 @@
         "ensembldb",
         "AnnotationDbi",
         "biomaRt",
-        "forcats",
         "viridis",
         "BiocFileCache",
         "dbplyr"
@@ -1490,7 +1483,6 @@
         "ensembldb",
         "viridis",
         "dbplyr",
-        "forcats",
         "tidyr"
     ],
     "BrainSABER": [
@@ -1610,7 +1602,6 @@
         "OrganismDbi",
         "GGally",
         "biomaRt",
-        "forcats",
         "tidyr",
         "viridis",
         "BiocFileCache",
@@ -1659,7 +1650,6 @@
         "ensembldb",
         "AnnotationDbi",
         "biomaRt",
-        "forcats",
         "tidyr",
         "network",
         "sna",
@@ -1876,8 +1866,7 @@
         "ggrastr"
     ],
     "CellaRepertorium": [
-        "tidyr",
-        "forcats"
+        "tidyr"
     ],
     "CellBarcode": [
         "ShortRead",
@@ -2014,7 +2003,6 @@
         "mice",
         "tidyr",
         "broom",
-        "forcats",
         "FlowSOM",
         "nloptr",
         "ggforce",
@@ -2065,7 +2053,6 @@
         "qvalue",
         "tidyr",
         "geneplotter",
-        "forcats",
         "sna",
         "ggsci",
         "cowplot",
@@ -2385,7 +2372,6 @@
         "tidyr",
         "SingleCellExperiment",
         "msigdbr",
-        "forcats",
         "scuttle",
         "miniUI",
         "ggfittext",
@@ -2547,7 +2533,6 @@
         "plotly",
         "sna",
         "MSnbase",
-        "forcats",
         "tidyr",
         "vsn"
     ],
@@ -2860,7 +2845,6 @@
         "dbplyr"
     ],
     "ComPrAn": [
-        "forcats",
         "tidyr",
         "rio",
         "shinydashboard",
@@ -3204,7 +3188,6 @@
         "haven",
         "readxl",
         "dbplyr",
-        "forcats",
         "readr",
         "vroom"
     ],
@@ -3378,7 +3361,6 @@
         "car",
         "RFOC",
         "flowWorkspace",
-        "forcats",
         "tidyr",
         "pbkrtest",
         "lme4",
@@ -3601,7 +3583,6 @@
         "broom",
         "dbplyr",
         "dtplyr",
-        "forcats",
         "googledrive",
         "googlesheets4",
         "haven",
@@ -3880,7 +3861,6 @@
         "GGally",
         "ensembldb",
         "BiocFileCache",
-        "forcats",
         "tidyr",
         "viridis",
         "dbplyr"
@@ -4324,7 +4304,6 @@
     ],
     "EasyCellType": [
         "clusterProfiler",
-        "forcats",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "AnnotationDbi",
@@ -5140,7 +5119,6 @@
         "broom",
         "ComplexUpset",
         "csaw",
-        "forcats",
         "GenomicInteractions",
         "ggforce",
         "ggrepel",
@@ -5302,7 +5280,6 @@
     ],
     "fedup": [
         "ggthemes",
-        "forcats",
         "RCy3",
         "IRkernel",
         "IRdisplay"
@@ -5393,7 +5370,6 @@
         "ggrastr",
         "ggrepel",
         "BiocFileCache",
-        "forcats",
         "dbplyr"
     ],
     "flowAI": [],
@@ -5974,7 +5950,6 @@
         "GGally",
         "ensembldb",
         "dbplyr",
-        "forcats",
         "tidyr",
         "viridis"
     ],
@@ -6061,7 +6036,6 @@
         "ggiraph",
         "ggthemes",
         "waldo",
-        "forcats",
         "tidyr",
         "rematch2"
     ],
@@ -6111,7 +6085,6 @@
         "EnvStats",
         "lmerTest",
         "GGally",
-        "forcats",
         "tidyr",
         "lme4",
         "ggbeeswarm",
@@ -6169,7 +6142,6 @@
         "ensembldb",
         "AnnotationDbi",
         "biomaRt",
-        "forcats",
         "tidyr",
         "viridis",
         "BiocFileCache",
@@ -6199,7 +6171,6 @@
         "GGally",
         "network",
         "sna",
-        "forcats",
         "tidyr"
     ],
     "ggspavis": [
@@ -6270,7 +6241,6 @@
     "glmSparseNet": [
         "MultiAssayExperiment",
         "biomaRt",
-        "forcats",
         "readr",
         "survminer",
         "AnnotationDbi",
@@ -6465,7 +6435,6 @@
     "GRaNIE": [
         "patchwork",
         "DESeq2",
-        "forcats",
         "readr",
         "tidyr",
         "viridis",
@@ -6605,7 +6574,6 @@
         "haven",
         "readxl",
         "BiocFileCache",
-        "forcats",
         "readr",
         "tensorflow",
         "dbplyr",
@@ -6718,7 +6686,6 @@
         "biomaRt",
         "DESeq2",
         "EnvStats",
-        "forcats",
         "ggrepel",
         "MultiAssayExperiment",
         "tidyr",
@@ -6820,7 +6787,6 @@
     ],
     "HiLDA": [
         "cowplot",
-        "forcats",
         "GenomicFeatures",
         "BSgenome.Hsapiens.UCSC.hg19",
         "tidyr",
@@ -7191,7 +7157,6 @@
         "ensembldb",
         "AnnotationDbi",
         "biomaRt",
-        "forcats",
         "tidyr",
         "viridis",
         "BiocFileCache",
@@ -7368,7 +7333,6 @@
         "tidyr",
         "ggrepel",
         "readxl",
-        "forcats",
         "shinyWidgets",
         "datamods",
         "rio",
@@ -7484,7 +7448,6 @@
         "ggdendro",
         "ggrepel",
         "geneplotter",
-        "forcats",
         "vroom",
         "annotate"
     ],
@@ -7685,7 +7648,6 @@
         "rstatix",
         "haven",
         "readxl",
-        "forcats",
         "readr",
         "broom",
         "car",
@@ -7715,7 +7677,6 @@
     "lionessR": [],
     "lipidr": [
         "tidyr",
-        "forcats",
         "fgsea",
         "ropls",
         "cowplot",
@@ -8002,7 +7963,6 @@
         "broom",
         "dbplyr",
         "dtplyr",
-        "forcats",
         "googledrive",
         "googlesheets4",
         "haven",
@@ -8038,7 +7998,6 @@
         "miniUI",
         "labelled",
         "haven",
-        "forcats",
         "readr",
         "vroom"
     ],
@@ -8149,7 +8108,6 @@
         "org.Hs.eg.db",
         "GGally",
         "WGCNA",
-        "forcats",
         "tidyr",
         "Hmisc",
         "viridis"
@@ -8668,7 +8626,6 @@
         "broom",
         "dbplyr",
         "dtplyr",
-        "forcats",
         "googledrive",
         "googlesheets4",
         "haven",
@@ -8833,8 +8790,7 @@
     "mfa": [
         "ggmcmc",
         "tidyr",
-        "GGally",
-        "forcats"
+        "GGally"
     ],
     "MGFM": [
         "AnnotationDbi",
@@ -8914,7 +8870,6 @@
         "heatmaply",
         "car",
         "broom",
-        "forcats",
         "plotly",
         "pbkrtest",
         "lme4",
@@ -9239,7 +9194,6 @@
         "broom",
         "dbplyr",
         "dtplyr",
-        "forcats",
         "googledrive",
         "googlesheets4",
         "haven",
@@ -9309,7 +9263,6 @@
         "broom",
         "dbplyr",
         "dtplyr",
-        "forcats",
         "googledrive",
         "googlesheets4",
         "haven",
@@ -9378,7 +9331,6 @@
         "GGally",
         "echarts4r",
         "broom",
-        "forcats",
         "tidyr"
     ],
     "mitoClone2": [
@@ -9468,8 +9420,7 @@
     "MOFA2": [
         "tidyr",
         "cowplot",
-        "ggrepel",
-        "forcats"
+        "ggrepel"
     ],
     "MOGAMUN": [
         "RCy3",
@@ -9669,7 +9620,6 @@
         "GGally",
         "ensembldb",
         "dbplyr",
-        "forcats",
         "tidyr",
         "viridis"
     ],
@@ -9767,7 +9717,6 @@
         "broom",
         "dbplyr",
         "dtplyr",
-        "forcats",
         "googledrive",
         "googlesheets4",
         "haven",
@@ -10175,7 +10124,6 @@
     "NanoMethViz": [
         "readr",
         "bsseq",
-        "forcats",
         "AnnotationDbi",
         "ggrastr",
         "patchwork",
@@ -10205,7 +10153,6 @@
         "broom",
         "dbplyr",
         "dtplyr",
-        "forcats",
         "googledrive",
         "googlesheets4",
         "haven",
@@ -10430,7 +10377,6 @@
     ],
     "ngsReports": [
         "patchwork",
-        "forcats",
         "ggdendro",
         "plotly",
         "readr",
@@ -10478,7 +10424,6 @@
         "Hmisc",
         "haven",
         "readxl",
-        "forcats",
         "readr",
         "viridis",
         "nloptr",
@@ -10633,7 +10578,6 @@
         "miniUI",
         "labelled",
         "haven",
-        "forcats",
         "readr",
         "vroom"
     ],
@@ -10745,7 +10689,6 @@
         "rematch2"
     ],
     "Omixer": [
-        "forcats",
         "readr",
         "vroom"
     ],
@@ -11005,7 +10948,6 @@
     ],
     "PanomiR": [
         "clusterProfiler",
-        "forcats",
         "GSEABase",
         "metap",
         "org.Hs.eg.db",
@@ -11338,7 +11280,6 @@
         "network",
         "ggtext",
         "viridis",
-        "forcats",
         "ggrepel",
         "ggsci",
         "cowplot",
@@ -11906,7 +11847,6 @@
         "car",
         "AnnotationDbi",
         "annotate",
-        "forcats",
         "ggsci",
         "cowplot",
         "ggsignif",
@@ -12196,7 +12136,6 @@
         "AnnotationDbi",
         "viridis",
         "biomaRt",
-        "forcats",
         "tidyr",
         "BiocFileCache",
         "dbplyr"
@@ -12606,7 +12545,6 @@
         "GO.db",
         "AnnotationForge",
         "biomaRt",
-        "forcats",
         "tidyr",
         "viridis",
         "BiocFileCache",
@@ -12780,7 +12718,6 @@
         "GGally",
         "ensembldb",
         "BiocFileCache",
-        "forcats",
         "tidyr",
         "viridis",
         "dbplyr"
@@ -13607,7 +13544,6 @@
         "tidyr",
         "ggrepel",
         "patchwork",
-        "forcats",
         "readr",
         "vroom"
     ],
@@ -13750,8 +13686,7 @@
         "GenomicAlignments"
     ],
     "SCnorm": [
-        "SingleCellExperiment",
-        "forcats"
+        "SingleCellExperiment"
     ],
     "scone": [
         "RUVSeq",
@@ -13808,7 +13743,6 @@
         "scater",
         "testthat",
         "BiocFileCache",
-        "forcats",
         "tidyr",
         "GenomicAlignments",
         "scuttle",
@@ -13863,7 +13797,6 @@
         "GGally",
         "ensembldb",
         "BiocFileCache",
-        "forcats",
         "tidyr",
         "viridis",
         "dbplyr"
@@ -14040,7 +13973,6 @@
     "selectKSigs": [
         "HiLDA",
         "cowplot",
-        "forcats",
         "GenomicFeatures",
         "BSgenome.Hsapiens.UCSC.hg19",
         "tidyr",
@@ -14107,7 +14039,6 @@
         "rbokeh",
         "AnnotationHub",
         "BiocFileCache",
-        "forcats",
         "tidyr",
         "gistr",
         "BiocVersion",
@@ -14292,7 +14223,6 @@
         "testthat",
         "vroom",
         "GenomicAlignments",
-        "forcats",
         "tidytidbits",
         "broom",
         "survMisc",
@@ -14655,7 +14585,6 @@
         "ensembldb",
         "AnnotationDbi",
         "biomaRt",
-        "forcats",
         "tidyr",
         "viridis",
         "BiocFileCache",
@@ -14734,7 +14663,6 @@
         "EnvStats",
         "lmerTest",
         "GGally",
-        "forcats",
         "tidyr",
         "lme4",
         "ggbeeswarm",
@@ -14957,7 +14885,6 @@
         "broom",
         "dbplyr",
         "dtplyr",
-        "forcats",
         "googledrive",
         "googlesheets4",
         "haven",
@@ -15071,7 +14998,6 @@
         "labelled",
         "tidyr",
         "haven",
-        "forcats",
         "readr",
         "vroom"
     ],
@@ -15143,7 +15069,6 @@
         "broom",
         "dbplyr",
         "dtplyr",
-        "forcats",
         "googledrive",
         "googlesheets4",
         "haven",
@@ -15345,7 +15270,6 @@
         "fields",
         "dbplyr",
         "dtplyr",
-        "forcats",
         "googledrive",
         "googlesheets4",
         "haven",
@@ -15418,7 +15342,6 @@
         "ggtree",
         "plotly",
         "geneplotter",
-        "forcats",
         "tidyr",
         "aplot",
         "ggfun",
@@ -15836,7 +15759,6 @@
         "butcher",
         "tidyr",
         "visdat",
-        "forcats",
         "viridis",
         "UpSetR",
         "AnnotationDbi",
@@ -15856,7 +15778,6 @@
         "GSVA",
         "GGally",
         "ggpubr",
-        "forcats",
         "tidyr",
         "ggrepel",
         "ggsci",
@@ -15878,8 +15799,7 @@
     ],
     "TOAST": [
         "tidyr",
-        "GGally",
-        "forcats"
+        "GGally"
     ],
     "tomoda": [
         "ggrepel"
@@ -16415,7 +16335,6 @@
         "ggrepel",
         "tidyr",
         "geneplotter",
-        "forcats",
         "annotate",
         "AnnotationDbi"
     ],
@@ -16664,7 +16583,6 @@
         "GGally",
         "ensembldb",
         "BiocFileCache",
-        "forcats",
         "tidyr",
         "dbplyr"
     ],
@@ -16824,10 +16742,8 @@
         "viridis"
     ],
     "GGally": [
-        "forcats",
         "tidyr"
     ],
-    "forcats": [],
     "viridis": [],
     "ggbeeswarm": [],
     "ggrastr": [
@@ -17041,7 +16957,6 @@
         "broom",
         "dbplyr",
         "dtplyr",
-        "forcats",
         "googledrive",
         "googlesheets4",
         "haven",
@@ -17102,7 +17017,6 @@
         "rematch2"
     ],
     "haven": [
-        "forcats",
         "readr",
         "vroom"
     ],
@@ -17388,7 +17302,6 @@
     "ggpp": [],
     "broom.mixed": [
         "broom",
-        "forcats",
         "tidyr"
     ],
     "mice": [
@@ -17571,7 +17484,6 @@
     "rio": [
         "haven",
         "readxl",
-        "forcats",
         "readr",
         "vroom"
     ],
@@ -17958,7 +17870,6 @@
         "shinyWidgets",
         "shinybusy",
         "haven",
-        "forcats",
         "readr",
         "vroom"
     ],
@@ -18020,7 +17931,6 @@
         "labelled",
         "haven",
         "tidyr",
-        "forcats",
         "readr",
         "vroom"
     ],
@@ -18030,7 +17940,6 @@
         "labelled",
         "haven",
         "tidyr",
-        "forcats",
         "readr",
         "vroom"
     ],
@@ -18039,14 +17948,12 @@
         "labelled",
         "haven",
         "tidyr",
-        "forcats",
         "readr",
         "vroom"
     ],
     "labelled": [
         "haven",
         "tidyr",
-        "forcats",
         "readr",
         "vroom"
     ],
@@ -18118,8 +18025,7 @@
     ],
     "ggmcmc": [
         "tidyr",
-        "GGally",
-        "forcats"
+        "GGally"
     ],
     "shinycustomloader": [],
     "ggstar": [],
@@ -18222,7 +18128,6 @@
         "readxl",
         "pbkrtest",
         "lme4",
-        "forcats",
         "readr",
         "viridis",
         "nloptr",
@@ -18263,7 +18168,6 @@
         "miniUI",
         "labelled",
         "haven",
-        "forcats",
         "readr",
         "vroom"
     ],
@@ -18470,7 +18374,6 @@
     ],
     "gistr": [],
     "survivalAnalysis": [
-        "forcats",
         "tidyr",
         "survminer",
         "cowplot",
@@ -18492,7 +18395,6 @@
         "rematch2"
     ],
     "tidytidbits": [
-        "forcats",
         "tidyr"
     ],
     "DGEobj.utils": [],
@@ -18582,7 +18484,6 @@
         "labelled",
         "tidyr",
         "haven",
-        "forcats",
         "readr",
         "vroom"
     ],
@@ -18594,7 +18495,6 @@
         "labelled",
         "haven",
         "tidyr",
-        "forcats",
         "readr",
         "vroom"
     ],
@@ -18641,7 +18541,6 @@
     "naniar": [
         "tidyr",
         "visdat",
-        "forcats",
         "viridis",
         "UpSetR",
         "readr",
