@@ -13170,7 +13170,6 @@
         "tibble",
         "pillar"
     ],
-    "flowMatch": [],
     "flowMeans": [
         "feature",
         "ks"
