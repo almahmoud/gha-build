@@ -527,7 +527,6 @@
         "BiocVersion"
     ],
     "signeR": [],
-    "signifinder": [],
     "singleCellTK": [
         "AnnotationHub",
         "celldex",
