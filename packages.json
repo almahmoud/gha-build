@@ -97,7 +97,6 @@
         "Mus.musculus"
     ],
     "ATACseqQC": [
-        "ChIPpeakAnno",
         "GenomicScores",
         "motifStack",
         "AnnotationHub",
@@ -308,7 +307,6 @@
     "ChIPexoQual": [
         "biovizBase"
     ],
-    "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind"
     ],
@@ -411,8 +409,7 @@
         "BiocVersion"
     ],
     "crisprseekplus": [
-        "GUIDEseq",
-        "ChIPpeakAnno"
+        "GUIDEseq"
     ],
     "crisprVerse": [
         "crisprScore",
@@ -523,9 +520,7 @@
         "GenomicFiles",
         "biovizBase"
     ],
-    "DEScan2": [
-        "ChIPpeakAnno"
-    ],
+    "DEScan2": [],
     "destiny": [
         "VIM",
         "car",
@@ -903,9 +898,7 @@
     "GSReg": [
         "Homo.sapiens"
     ],
-    "GUIDEseq": [
-        "ChIPpeakAnno"
-    ],
+    "GUIDEseq": [],
     "Gviz": [
         "biovizBase"
     ],
@@ -1429,7 +1422,6 @@
     "NADfinder": [
         "trackViewer",
         "ATACseqQC",
-        "ChIPpeakAnno",
         "GenomicScores",
         "motifStack",
         "Gviz",
@@ -1729,9 +1721,7 @@
         "minfi",
         "IlluminaHumanMethylation450kmanifest"
     ],
-    "REDseq": [
-        "ChIPpeakAnno"
-    ],
+    "REDseq": [],
     "regionReport": [
         "derfinder",
         "GenomicFiles"
@@ -2259,7 +2249,6 @@
         "BiocVersion"
     ],
     "vulcan": [
-        "ChIPpeakAnno",
         "DiffBind"
     ],
     "waddR": [
