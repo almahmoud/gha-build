@@ -1437,7 +1437,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "MetaboAnnotation": [],
     "MetaboSignal": [
         "hpar",
         "EnsDb.Hsapiens.v75",
