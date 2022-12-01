@@ -3934,7 +3934,6 @@
         "tidygraph",
         "treeio"
     ],
-    "microbiome": [],
     "microbiomeDASim": [],
     "microbiomeExplorer": [
         "DESeq2",
