@@ -109807,7 +109807,6 @@
         "Matrix",
         "pscl",
         "VGAM",
-        "dgof",
         "BiocParallel",
         "MASS",
         "emdbook",
@@ -153238,7 +153237,6 @@
     "glmpca": [
         "MASS"
     ],
-    "dgof": [],
     "nnTensor": [
         "MASS",
         "fields",
