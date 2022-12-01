@@ -334,7 +334,6 @@
     "GeneAccord": [
         "ggpubr"
     ],
-    "GeneGeneInteR": [],
     "GenomicScores": [
         "AnnotationHub",
         "BiocVersion"
