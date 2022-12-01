@@ -9780,7 +9780,6 @@
         "DMRcate",
         "IlluminaHumanMethylationEPICmanifest",
         "DT",
-        "RPMM",
         "prettydoc",
         "Hmisc",
         "globaltest",
@@ -20456,7 +20455,6 @@
         "SummarizedExperiment",
         "geneplotter",
         "minfi",
-        "RPMM",
         "illuminaio",
         "IRanges",
         "Biobase",
@@ -21246,7 +21244,6 @@
         "progress",
         "R.matlab",
         "RCurl",
-        "RPMM",
         "SummarizedExperiment",
         "tibble",
         "tidyr",
@@ -36235,7 +36232,6 @@
     "MEAT": [
         "glmnet",
         "tibble",
-        "RPMM",
         "minfi",
         "dplyr",
         "SummarizedExperiment",
@@ -37996,7 +37992,6 @@
         "ggpubr",
         "minfi",
         "tibble",
-        "RPMM",
         "tidyr",
         "planet",
         "usethis",
@@ -38338,7 +38333,6 @@
     ],
     "MethylMix": [
         "foreach",
-        "RPMM",
         "ggplot2",
         "RCurl",
         "R.matlab",
@@ -77977,7 +77971,6 @@
         "cachem",
         "Rhtslib"
     ],
-    "RPMM": [],
     "IlluminaHumanMethylation450kmanifest": [
         "minfi",
         "GenomicRanges",
