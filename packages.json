@@ -1505,7 +1505,6 @@
         "ggsci",
         "superheat",
         "drtmle",
-        "SuperLearner",
         "np",
         "ggdendro"
     ],
@@ -19924,10 +19923,8 @@
         "ggdendro"
     ],
     "drtmle": [
-        "SuperLearner",
         "np"
     ],
-    "SuperLearner": [],
     "np": [],
     "biscuiteerData": [
         "ExperimentHub",
