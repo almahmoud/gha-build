@@ -803,7 +803,6 @@
     "deepSNV": [
         "VariantAnnotation"
     ],
-    "DEFormats": [],
     "DegNorm": [],
     "DEGreport": [],
     "deltaCaptureC": [],
@@ -2638,7 +2637,6 @@
     "regioneReloaded": [],
     "regionReport": [
         "derfinder",
-        "DEFormats",
         "bumphunter",
         "GenomicFiles",
         "VariantAnnotation"
