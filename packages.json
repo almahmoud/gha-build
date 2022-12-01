@@ -81185,7 +81185,6 @@
         "forecast",
         "progress",
         "Hmisc",
-        "naivebayes",
         "robustbase",
         "ranger",
         "speedglm",
@@ -134242,7 +134241,6 @@
         "viridisLite",
         "pillar"
     ],
-    "naivebayes": [],
     "urca": [
         "nlme"
     ],
