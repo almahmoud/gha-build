@@ -5551,7 +5551,6 @@
         "annotate"
     ],
     "InterCellar": [
-        "golem",
         "tidyr",
         "colourpicker",
         "dendextend",
@@ -6881,7 +6880,6 @@
     "MicrobiomeProfiler": [
         "clusterProfiler",
         "enrichplot",
-        "golem",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -7613,7 +7611,6 @@
     ],
     "multiMiR": [],
     "multiSight": [
-        "golem",
         "anyLib",
         "caret",
         "biosigner",
@@ -12257,7 +12254,6 @@
     "trio": [],
     "tripr": [
         "plotly",
-        "golem",
         "tidyr"
     ],
     "tRNA": [],
@@ -12625,9 +12621,7 @@
         "rtracklayer",
         "GenomicAlignments"
     ],
-    "wpm": [
-        "golem"
-    ],
+    "wpm": [],
     "wppi": [
         "OmnipathR",
         "tidyr",
@@ -13610,7 +13604,6 @@
         "GenomicAlignments"
     ],
     "concaveman": [],
-    "golem": [],
     "AdaptGauss": [],
     "datamods": [
         "readxl",
