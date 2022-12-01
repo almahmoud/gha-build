@@ -32520,7 +32520,6 @@
         "withr",
         "Rcpp",
         "statnet.common",
-        "lars",
         "survival",
         "hms",
         "prettyunits",
@@ -49055,7 +49054,6 @@
         "class",
         "e1071",
         "som",
-        "lars",
         "mclust",
         "coda",
         "Matrix",
@@ -49168,7 +49166,6 @@
         "class",
         "e1071",
         "som",
-        "lars",
         "mclust",
         "coda",
         "minqa",
@@ -57996,7 +57993,6 @@
         "quantreg",
         "e1071",
         "som",
-        "lars",
         "coda",
         "minqa",
         "reshape2",
@@ -68403,7 +68399,6 @@
         "lifecycle"
     ],
     "pathwayPCA": [
-        "lars",
         "survival",
         "Matrix"
     ],
@@ -85811,7 +85806,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "lars",
         "future",
         "future.apply",
         "listenv",
@@ -99751,7 +99745,6 @@
         "survival",
         "Rcpp",
         "RcppEigen",
-        "lars",
         "splitstackshape",
         "bit64",
         "blob",
@@ -114715,7 +114708,6 @@
         "magrittr",
         "pillar"
     ],
-    "lars": [],
     "gcspikelite": [],
     "SPARQL": [],
     "ggiraph": [
@@ -116287,7 +116279,6 @@
         "pcaPP",
         "robustbase",
         "som",
-        "lars",
         "mclust",
         "mvtnorm"
     ],
@@ -120064,9 +120055,7 @@
     "coro": [
         "rlang"
     ],
-    "elasticnet": [
-        "lars"
-    ],
+    "elasticnet": [],
     "sparsepca": [
         "rsvd",
         "Matrix"
@@ -121627,9 +121616,7 @@
         "Rcpp"
     ],
     "vbsr": [],
-    "lassopv": [
-        "lars"
-    ],
+    "lassopv": [],
     "RPostgreSQL": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
