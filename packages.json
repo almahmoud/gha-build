@@ -67,7 +67,6 @@
         "MSstats"
     ],
     "ASpediaFI": [
-        "IVAS",
         "Gviz",
         "mGSZ"
     ],
@@ -723,9 +722,7 @@
         "methylumi"
     ],
     "ideal": [],
-    "IMAS": [
-        "IVAS"
-    ],
+    "IMAS": [],
     "InTAD": [
         "ggpubr",
         "rstatix",
@@ -773,7 +770,6 @@
         "AnnotationHub",
         "BiocVersion"
     ],
-    "IVAS": [],
     "ivygapSE": [
         "survminer",
         "ggpubr",
