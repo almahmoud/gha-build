@@ -5668,7 +5668,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "rrcov",
         "RBGL",
         "scales",
         "tibble",
@@ -9599,7 +9598,6 @@
         "sandwich",
         "rms",
         "htmlwidgets",
-        "rrcov",
         "feature",
         "Rgraphviz",
         "mgcv",
@@ -12282,7 +12280,6 @@
         "KEGGgraph",
         "RBGL",
         "Rgraphviz",
-        "rrcov",
         "NCIgraph",
         "RCy3",
         "httr",
@@ -16680,7 +16677,6 @@
         "ggplot2",
         "pheatmap",
         "ROCR",
-        "rrcov",
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
@@ -17034,9 +17030,7 @@
         "sass",
         "pillar"
     ],
-    "flowBeads": [
-        "rrcov"
-    ],
+    "flowBeads": [],
     "flowBin": [
         "flowFP",
         "flowViz",
@@ -17192,7 +17186,6 @@
     ],
     "flowMatch": [],
     "flowMeans": [
-        "rrcov",
         "feature",
         "ks",
         "mgcv"
@@ -17201,7 +17194,6 @@
         "feature",
         "flowClust",
         "Rgraphviz",
-        "rrcov",
         "ks",
         "mgcv"
     ],
@@ -17284,7 +17276,6 @@
         "flowViz",
         "fda",
         "ks",
-        "rrcov",
         "fds",
         "latticeExtra",
         "ggplot2",
@@ -17329,7 +17320,6 @@
         "ncdfFlow",
         "fda",
         "ks",
-        "rrcov",
         "latticeExtra",
         "fds",
         "ggplot2",
@@ -19116,7 +19106,6 @@
         "ggiraph",
         "ggthemes",
         "pheatmap",
-        "rrcov",
         "waldo",
         "XVector",
         "GenomeInfoDb",
@@ -23627,13 +23616,11 @@
     ],
     "iterativeBMA": [
         "BMA",
-        "survival",
-        "rrcov"
+        "survival"
     ],
     "iterativeBMAsurv": [
         "BMA",
-        "survival",
-        "rrcov"
+        "survival"
     ],
     "iterClust": [],
     "IVAS": [
@@ -33842,7 +33829,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "rrcov",
         "feature",
         "htmlwidgets",
         "RcppEigen",
@@ -35231,7 +35217,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "rrcov",
         "RBGL",
         "scales",
         "tibble",
@@ -42006,7 +41991,6 @@
         "ggplot2",
         "pheatmap",
         "ROCR",
-        "rrcov",
         "SummarizedExperiment",
         "SingleCellExperiment",
         "mgcv",
@@ -47776,8 +47760,7 @@
         "sass"
     ],
     "statTarget": [
-        "ROC",
-        "rrcov"
+        "ROC"
     ],
     "STdeconvolve": [
         "topicmodels",
@@ -48207,7 +48190,6 @@
         "survMisc",
         "tibble",
         "ggtext",
-        "rrcov",
         "tidyselect",
         "vctrs",
         "pillar",
@@ -55591,10 +55573,8 @@
         "pillar"
     ],
     "BMA": [
-        "survival",
-        "rrcov"
+        "survival"
     ],
-    "rrcov": [],
     "vcfR": [
         "ape",
         "dplyr",
@@ -57628,9 +57608,7 @@
         "sass"
     ],
     "gdtools": [],
-    "robust": [
-        "rrcov"
-    ],
+    "robust": [],
     "shinyHeatmaply": [
         "heatmaply",
         "shiny",
@@ -60430,8 +60408,7 @@
     ],
     "clustvarsel": [
         "BMA",
-        "survival",
-        "rrcov"
+        "survival"
     ],
     "gstat": [
         "sf",
