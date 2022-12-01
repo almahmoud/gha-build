@@ -3852,7 +3852,6 @@
         "Rcwl",
         "DiagrammeR"
     ],
-    "ReactomeGraph4R": [],
     "ReactomePA": [
         "DOSE",
         "enrichplot",
