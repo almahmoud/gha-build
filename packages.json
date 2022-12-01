@@ -5863,7 +5863,6 @@
         "GSEABase",
         "GO.db",
         "KEGGREST",
-        "SPIA",
         "graphite",
         "pathview",
         "safe",
@@ -8386,7 +8385,6 @@
         "dbplyr",
         "GSEABase",
         "GO.db",
-        "SPIA",
         "graphite",
         "pathview",
         "safe",
@@ -18902,7 +18900,6 @@
         "QDNAseq",
         "Rsamtools"
     ],
-    "SPIA": [],
     "SPIAT": [
         "SpatialExperiment",
         "ggplot2",
@@ -21320,7 +21317,6 @@
         "BiocFileCache",
         "GO.db",
         "KEGGREST",
-        "SPIA",
         "graphite",
         "pathview",
         "safe",
