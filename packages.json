@@ -8042,7 +8042,6 @@
         "GEOquery",
         "snpStats",
         "sva",
-        "swamp",
         "readr",
         "dplyr",
         "tidyr",
@@ -35912,7 +35911,6 @@
         "tibble",
         "pillar"
     ],
-    "swamp": [],
     "DiffCorr": [
         "multtest"
     ],
