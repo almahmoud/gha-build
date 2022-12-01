@@ -130,7 +130,6 @@
         "DESeq2",
         "geneplotter"
     ],
-    "AnVILBilling": [],
     "AnVILPublish": [],
     "APAlyzer": [
         "GenomicFeatures",
