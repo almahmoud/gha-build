@@ -1104,7 +1104,6 @@
         "clusterProfiler"
     ],
     "GOstats": [],
-    "GRaNIE": [],
     "GRmetrics": [
         "drc",
         "car",
