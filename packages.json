@@ -11230,7 +11230,6 @@
         "tidyr",
         "gplots",
         "igraph",
-        "relations",
         "fgsea",
         "shiny",
         "DT",
@@ -38966,7 +38965,6 @@
         "IRanges",
         "tidyr",
         "gplots",
-        "relations",
         "fgsea",
         "shiny",
         "DT",
@@ -39391,7 +39389,6 @@
         "XVector",
         "gplots",
         "igraph",
-        "relations",
         "fgsea",
         "shiny",
         "DT",
@@ -39799,7 +39796,6 @@
     "piano": [
         "gplots",
         "igraph",
-        "relations",
         "fgsea",
         "shiny",
         "DT",
@@ -42736,7 +42732,6 @@
         "tidyr",
         "gplots",
         "igraph",
-        "relations",
         "fgsea",
         "shiny",
         "DT",
@@ -56078,7 +56073,6 @@
         "XVector",
         "gplots",
         "igraph",
-        "relations",
         "fgsea",
         "shiny",
         "DT",
@@ -58783,7 +58777,6 @@
         "XVector",
         "gplots",
         "igraph",
-        "relations",
         "fgsea",
         "shiny",
         "DT",
@@ -63461,7 +63454,6 @@
         "tibble",
         "vctrs"
     ],
-    "relations": [],
     "pals": [],
     "Rmixmod": [
         "RcppEigen"
