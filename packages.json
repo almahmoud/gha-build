@@ -707,7 +707,6 @@
         "scatterpie",
         "ggtree",
         "tidygraph",
-        "ggfun",
         "tidytree",
         "treeio",
         "nloptr",
@@ -1152,7 +1151,6 @@
         "VariantAnnotation",
         "vcfR",
         "aplot",
-        "ggfun",
         "tidytree",
         "treeio",
         "rtracklayer",
@@ -1325,7 +1323,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "ggfun",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -1379,7 +1376,6 @@
         "annotate",
         "broom",
         "car",
-        "ggfun",
         "pbkrtest",
         "lme4",
         "tidygraph",
@@ -1553,7 +1549,6 @@
         "GOSemSim",
         "ggtree",
         "biomaRt",
-        "ggfun",
         "BiocFileCache",
         "HDO.db",
         "fgsea",
@@ -1721,7 +1716,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "ggfun",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -1830,7 +1824,6 @@
     "cogeqc": [
         "ggtree",
         "aplot",
-        "ggfun",
         "tidytree",
         "treeio"
     ],
@@ -1939,7 +1932,6 @@
         "ggtree",
         "car",
         "rstatix",
-        "ggfun",
         "pbkrtest",
         "lme4",
         "tidygraph",
@@ -2460,7 +2452,6 @@
         "ggtree",
         "dendextend",
         "genefilter",
-        "ggfun",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -2911,7 +2902,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "ggfun",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -2973,7 +2963,6 @@
         "scatterpie",
         "ggtree",
         "annotate",
-        "ggfun",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -3072,7 +3061,6 @@
         "scatterpie",
         "GOSemSim",
         "ggtree",
-        "ggfun",
         "HDO.db",
         "fgsea",
         "qvalue",
@@ -3107,7 +3095,6 @@
         "ggtree",
         "broom",
         "car",
-        "ggfun",
         "pbkrtest",
         "lme4",
         "tidygraph",
@@ -3154,7 +3141,6 @@
         "GOSemSim",
         "ggtree",
         "biomaRt",
-        "ggfun",
         "HDO.db",
         "fgsea",
         "qvalue",
@@ -3213,7 +3199,6 @@
         "scatterpie",
         "ggtree",
         "tidygraph",
-        "ggfun",
         "tidytree",
         "treeio"
     ],
@@ -3365,7 +3350,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "ggfun",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -3407,7 +3391,6 @@
         "BiocFileCache",
         "rstatix",
         "aplot",
-        "ggfun",
         "tidytree",
         "treeio",
         "plotly",
@@ -3510,7 +3493,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "ggfun",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -3552,7 +3534,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "ggfun",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -3859,7 +3840,6 @@
         "ggtree",
         "annotate",
         "rstatix",
-        "ggfun",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -4161,7 +4141,6 @@
         "ggalt",
         "statebins",
         "ggtree",
-        "ggfun",
         "plotly",
         "tidytree",
         "treeio"
@@ -4178,7 +4157,6 @@
     ],
     "ggtree": [
         "aplot",
-        "ggfun",
         "tidytree",
         "treeio"
     ],
@@ -4186,14 +4164,12 @@
         "ggtree",
         "tidytree",
         "aplot",
-        "ggfun",
         "treeio"
     ],
     "ggtreeExtra": [
         "ggtree",
         "tidytree",
         "aplot",
-        "ggfun",
         "treeio"
     ],
     "girafe": [
@@ -4318,7 +4294,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "ggfun",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -4925,7 +4900,6 @@
         "ggtree",
         "broom",
         "car",
-        "ggfun",
         "pbkrtest",
         "lme4",
         "tidytree",
@@ -5138,7 +5112,6 @@
     "LinTInd": [
         "ggtree",
         "aplot",
-        "ggfun",
         "tidytree",
         "treeio"
     ],
@@ -5219,7 +5192,6 @@
         "ggtree",
         "UpSetR",
         "aplot",
-        "ggfun",
         "tidytree",
         "treeio"
     ],
@@ -5329,7 +5301,6 @@
         "org.Hs.eg.db",
         "BiocFileCache",
         "BiocVersion",
-        "ggfun",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -5557,7 +5528,6 @@
         "scatterpie",
         "ggtree",
         "GO.db",
-        "ggfun",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -5659,7 +5629,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "ggfun",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -5837,7 +5806,6 @@
         "GenomicFeatures",
         "bumphunter",
         "GEOquery",
-        "ggfun",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "rtracklayer",
         "biomaRt",
@@ -5937,7 +5905,6 @@
         "tidytree",
         "tidygraph",
         "aplot",
-        "ggfun",
         "treeio",
         "MultiAssayExperiment",
         "scuttle",
@@ -5982,7 +5949,6 @@
         "recipes",
         "geneplotter",
         "aplot",
-        "ggfun",
         "treeio",
         "annotate",
         "MultiAssayExperiment",
@@ -6005,7 +5971,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "ggfun",
         "HDO.db",
         "fgsea",
         "tidygraph",
@@ -6017,8 +5982,7 @@
         "tidytree",
         "treeio",
         "ggtreeExtra",
-        "aplot",
-        "ggfun"
+        "aplot"
     ],
     "midasHLA": [
         "MultiAssayExperiment",
@@ -6174,7 +6138,6 @@
         "haven",
         "modelr",
         "readr",
-        "ggfun",
         "tidytree",
         "treeio",
         "nloptr",
@@ -6219,7 +6182,6 @@
         "haven",
         "modelr",
         "readr",
-        "ggfun",
         "tidytree",
         "treeio",
         "nloptr",
@@ -6367,7 +6329,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "ggfun",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -6660,7 +6621,6 @@
         "ggtree",
         "reactome.db",
         "graphite",
-        "ggfun",
         "testthat",
         "HDO.db",
         "fgsea",
@@ -6891,7 +6851,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "ggfun",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -7273,7 +7232,6 @@
         "ggtree",
         "rstatix",
         "aplot",
-        "ggfun",
         "tidytree",
         "treeio",
         "plotly",
@@ -7364,7 +7322,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "ggfun",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -7493,7 +7450,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "ggfun",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -7549,7 +7505,6 @@
     "philr": [
         "ggtree",
         "aplot",
-        "ggfun",
         "tidytree",
         "treeio"
     ],
@@ -7614,7 +7569,6 @@
         "scatterpie",
         "ggtree",
         "tidygraph",
-        "ggfun",
         "tidytree",
         "treeio"
     ],
@@ -7839,7 +7793,6 @@
         "scatterpie",
         "GOSemSim",
         "ggtree",
-        "ggfun",
         "HDO.db",
         "fgsea",
         "qvalue",
@@ -8257,7 +8210,6 @@
         "scatterpie",
         "ggtree",
         "tidygraph",
-        "ggfun",
         "tidytree",
         "treeio",
         "GO.db"
@@ -8783,7 +8735,6 @@
         "annotate",
         "rstatix",
         "genefilter",
-        "ggfun",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -9057,7 +9008,6 @@
         "Seurat",
         "ggtree",
         "aplot",
-        "ggfun",
         "tidytree",
         "treeio",
         "plotly",
@@ -9265,7 +9215,6 @@
         "ggtree",
         "tidygraph",
         "scattermore",
-        "ggfun",
         "tidytree",
         "treeio"
     ],
@@ -9318,7 +9267,6 @@
         "GOSemSim",
         "ggtree",
         "biomaRt",
-        "ggfun",
         "BiocFileCache",
         "HDO.db",
         "fgsea",
@@ -9479,7 +9427,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "ggfun",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -9615,7 +9562,6 @@
         "rtracklayer",
         "qvalue",
         "aplot",
-        "ggfun",
         "tidytree",
         "treeio",
         "annotate",
@@ -9662,7 +9608,6 @@
         "aplot",
         "ggtree",
         "tidytree",
-        "ggfun",
         "treeio"
     ],
     "skewr": [
@@ -10049,8 +9994,7 @@
         "readr"
     ],
     "STdeconvolve": [
-        "scatterpie",
-        "ggfun"
+        "scatterpie"
     ],
     "stJoincount": [
         "Seurat",
@@ -10218,7 +10162,6 @@
         "plotly",
         "geneplotter",
         "aplot",
-        "ggfun",
         "tidytree",
         "treeio",
         "annotate"
@@ -10238,7 +10181,6 @@
     "tanggle": [
         "ggtree",
         "aplot",
-        "ggfun",
         "tidytree",
         "treeio"
     ],
@@ -10325,7 +10267,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocVersion",
-        "ggfun",
         "Hmisc",
         "VariantAnnotation",
         "tidygraph",
@@ -10461,7 +10402,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "ggfun",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -10613,7 +10553,6 @@
         "lme4",
         "FlowSOM",
         "aplot",
-        "ggfun",
         "tidytree",
         "treeio",
         "nloptr",
@@ -11368,14 +11307,9 @@
     "ggraph": [
         "tidygraph"
     ],
-    "aplot": [
-        "ggfun"
-    ],
-    "scatterpie": [
-        "ggfun"
-    ],
+    "aplot": [],
+    "scatterpie": [],
     "tidygraph": [],
-    "ggfun": [],
     "rms": [
         "Hmisc"
     ],
