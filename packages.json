@@ -3901,9 +3901,7 @@
         "GEOquery",
         "GenomicFeatures"
     ],
-    "Repitools": [
-        "Ringo"
-    ],
+    "Repitools": [],
     "ReportingTools": [
         "Category",
         "GOstats",
@@ -3993,7 +3991,6 @@
         "nloptr",
         "testthat"
     ],
-    "Ringo": [],
     "RIPAT": [
         "karyoploteR",
         "regioneR",
@@ -4438,9 +4435,7 @@
         "GenomicFeatures"
     ],
     "SIM": [],
-    "SimBindProfiles": [
-        "Ringo"
-    ],
+    "SimBindProfiles": [],
     "simpleSeg": [
         "cytomapper",
         "SpatialExperiment"
