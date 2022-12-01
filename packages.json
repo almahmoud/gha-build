@@ -711,7 +711,6 @@
     ],
     "ChIPQC": [
         "DiffBind",
-        "chipseq",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
@@ -732,7 +731,6 @@
         "ggraph",
         "ggtree"
     ],
-    "chipseq": [],
     "ChIPseqR": [],
     "ChIPsim": [],
     "ChIPXpress": [
@@ -954,9 +952,7 @@
         "GenomicFeatures",
         "ensembldb"
     ],
-    "CopywriteR": [
-        "chipseq"
-    ],
+    "CopywriteR": [],
     "CoreGx": [
         "piano"
     ],
@@ -2210,7 +2206,6 @@
     "HTSeqGenie": [
         "gmapR",
         "VariantAnnotation",
-        "chipseq",
         "GenomicFeatures",
         "VariantTools"
     ],
@@ -3757,7 +3752,6 @@
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "rGREAT",
         "enrichplot",
-        "chipseq",
         "DOSE",
         "ggraph",
         "ggtree"
@@ -4657,9 +4651,7 @@
         "VariantAnnotation",
         "GenomicFeatures"
     ],
-    "soGGi": [
-        "chipseq"
-    ],
+    "soGGi": [],
     "sojourner": [
         "sampSurf"
     ],
@@ -5021,7 +5013,6 @@
     "tradeSeq": [],
     "transcriptogramer": [],
     "transcriptR": [
-        "chipseq",
         "GenomicFeatures"
     ],
     "tRanslatome": [
