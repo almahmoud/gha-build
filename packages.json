@@ -4125,7 +4125,6 @@
     ],
     "compcodeR": [
         "ggplot2",
-        "phylolm",
         "tibble"
     ],
     "compEpiTools": [
@@ -25551,7 +25550,6 @@
         "tibble"
     ],
     "cobs": [],
-    "phylolm": [],
     "rio": [
         "haven",
         "readxl",
