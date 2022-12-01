@@ -4060,7 +4060,6 @@
         "arm",
         "rtracklayer",
         "benchmarkme",
-        "fastDummies",
         "lme4",
         "benchmarkmeData",
         "GenomicAlignments",
@@ -17644,7 +17643,6 @@
     "NBPSeq": [
         "qvalue"
     ],
-    "fastDummies": [],
     "hgu133a2.db": [
         "AnnotationDbi",
         "org.Hs.eg.db"
