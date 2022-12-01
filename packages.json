@@ -4269,7 +4269,6 @@
         "future",
         "XVector",
         "quantreg",
-        "gam",
         "cvAUC",
         "ROCR",
         "survival"
@@ -53285,13 +53284,11 @@
         "future.apply",
         "future",
         "quantreg",
-        "gam",
         "cvAUC",
         "ROCR",
         "survival"
     ],
     "SuperLearner": [
-        "gam",
         "cvAUC",
         "ROCR"
     ],
@@ -53299,7 +53296,6 @@
         "quantreg",
         "survival"
     ],
-    "gam": [],
     "cvAUC": [
         "ROCR"
     ],
