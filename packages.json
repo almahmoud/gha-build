@@ -5538,7 +5538,6 @@
     ],
     "scTensor": [
         "reactome.db",
-        "nnTensor",
         "AnnotationHub",
         "Category",
         "meshr",
@@ -5557,7 +5556,6 @@
     ],
     "scTGIF": [
         "GSEABase",
-        "nnTensor",
         "schex",
         "Seurat"
     ],
@@ -7227,7 +7225,6 @@
         "BiocVersion"
     ],
     "Rmagic": [],
-    "nnTensor": [],
     "clustree": [
         "ggraph"
     ],
