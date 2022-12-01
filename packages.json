@@ -190,9 +190,7 @@
         "ggrastr",
         "ggrepel"
     ],
-    "ALDEx2": [
-        "zCompositions"
-    ],
+    "ALDEx2": [],
     "alevinQC": [
         "ggplot2",
         "GGally",
@@ -1037,7 +1035,6 @@
         "ggridges",
         "cowplot",
         "tidytext",
-        "zCompositions",
         "mia",
         "DescTools",
         "Hmisc",
@@ -10223,7 +10220,6 @@
         "caret",
         "ALDEx2",
         "plotROC",
-        "zCompositions",
         "mia",
         "DescTools",
         "Hmisc",
@@ -12176,8 +12172,7 @@
         "made4"
     ],
     "omicplotR": [
-        "ALDEx2",
-        "zCompositions"
+        "ALDEx2"
     ],
     "omicRexposome": [
         "rexposome",
@@ -19308,7 +19303,6 @@
         "ggplot2",
         "ggbeeswarm"
     ],
-    "zCompositions": [],
     "shinydashboard": [],
     "readxl": [
         "cellranger"
