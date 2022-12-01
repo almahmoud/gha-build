@@ -46503,7 +46503,6 @@
         "ggplot2",
         "future",
         "future.apply",
-        "mlr3measures",
         "mlr3misc",
         "bbotk",
         "ade4",
@@ -62355,7 +62354,6 @@
     "mlr3": [
         "future",
         "future.apply",
-        "mlr3measures",
         "mlr3misc",
         "paradox"
     ],
@@ -62364,8 +62362,7 @@
         "mlr3misc",
         "paradox",
         "future",
-        "future.apply",
-        "mlr3measures"
+        "future.apply"
     ],
     "mlr3tuning": [
         "mlr3",
@@ -62373,13 +62370,11 @@
         "bbotk",
         "mlr3misc",
         "future",
-        "future.apply",
-        "mlr3measures"
+        "future.apply"
     ],
     "paradox": [
         "mlr3misc"
     ],
-    "mlr3measures": [],
     "mlr3misc": [],
     "bbotk": [
         "paradox",
