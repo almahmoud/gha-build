@@ -12309,9 +12309,7 @@
         "tibble"
     ],
     "loci2path": [],
-    "logicFS": [
-        "LogicReg"
-    ],
+    "logicFS": [],
     "LOLA": [],
     "LoomExperiment": [
         "SingleCellExperiment",
@@ -25432,8 +25430,7 @@
         "KEGGREST"
     ],
     "trio": [
-        "siggenes",
-        "LogicReg"
+        "siggenes"
     ],
     "triplex": [],
     "tripr": [
@@ -28853,7 +28850,6 @@
         "rmarkdown",
         "shiny"
     ],
-    "LogicReg": [],
     "reldist": [
         "densEstBayes",
         "rstan",
