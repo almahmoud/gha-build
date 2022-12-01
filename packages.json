@@ -17554,7 +17554,6 @@
         "IRdisplay"
     ],
     "RCyjs": [],
-    "RDRToolbox": [],
     "ReactomeGraph4R": [
         "neo4r",
         "shiny",
