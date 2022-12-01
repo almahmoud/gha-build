@@ -2547,7 +2547,6 @@
         "EDASeq"
     ],
     "sampleClassifier": [],
-    "SCAN.UPC": [],
     "scanMiRApp": [
         "AnnotationHub",
         "BiocVersion"
