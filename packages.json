@@ -9129,7 +9129,6 @@
         "Matrix",
         "mgcv",
         "ggpp",
-        "confintr",
         "quantreg",
         "lubridate",
         "purrr",
@@ -37180,7 +37179,6 @@
         "mgcv",
         "scales",
         "ggpp",
-        "confintr",
         "quantreg",
         "lubridate",
         "ggrepel",
@@ -76028,7 +76026,6 @@
         "ggpp",
         "ggplot2",
         "scales",
-        "confintr",
         "quantreg",
         "tibble",
         "dplyr",
@@ -76057,7 +76054,6 @@
         "mgcv",
         "Matrix"
     ],
-    "confintr": [],
     "broom.mixed": [
         "broom",
         "dplyr",
