@@ -14873,7 +14873,6 @@
         "mice",
         "metR",
         "car",
-        "sftime",
         "stars",
         "broom",
         "fields",
@@ -17979,7 +17978,6 @@
         "tidyr"
     ],
     "gstat": [
-        "sftime",
         "stars",
         "lwgeom"
     ],
@@ -17987,7 +17985,6 @@
         "fields",
         "viridis"
     ],
-    "sftime": [],
     "stars": [
         "lwgeom"
     ],
