@@ -2731,7 +2731,6 @@
         "nloptr",
         "pbkrtest"
     ],
-    "rGADEM": [],
     "rGenomeTracks": [
         "rGenomeTracksData",
         "AnnotationHub",
