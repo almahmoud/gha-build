@@ -612,7 +612,6 @@
     "BiocPkgTools": [
         "readr"
     ],
-    "BiocSet": [],
     "BiocVersion": [],
     "biodb": [
         "testthat",
@@ -1001,7 +1000,6 @@
         "biomaRt"
     ],
     "CBEA": [
-        "BiocSet",
         "TreeSummarizedExperiment",
         "treeio"
     ],
@@ -6925,7 +6923,6 @@
         "regioneR"
     ],
     "RegEnrich": [
-        "BiocSet",
         "fgsea",
         "DOSE",
         "DESeq2",
@@ -8119,7 +8116,6 @@
         "plotly"
     ],
     "sparrow": [
-        "BiocSet",
         "GSEABase",
         "plotly"
     ],
