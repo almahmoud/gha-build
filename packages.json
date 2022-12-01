@@ -808,7 +808,6 @@
     "beadarray": [
         "AnnotationDbi"
     ],
-    "beadarraySNP": [],
     "BEARscc": [],
     "BEAT": [
         "ShortRead",
