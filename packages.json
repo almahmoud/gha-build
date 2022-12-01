@@ -725,8 +725,7 @@
         "scater"
     ],
     "netZooR": [
-        "yarn",
-        "quantro"
+        "yarn"
     ],
     "NormalyzerDE": [
         "RcmdrMisc"
@@ -854,7 +853,6 @@
     "qmtools": [
         "VIM"
     ],
-    "quantro": [],
     "QuasR": [],
     "R3CPET": [],
     "RareVariantVis": [
@@ -1168,9 +1166,7 @@
     "YAPSA": [
         "SomaticSignatures"
     ],
-    "yarn": [
-        "quantro"
-    ],
+    "yarn": [],
     "zenith": [
         "variancePartition"
     ],
