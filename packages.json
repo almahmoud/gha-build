@@ -22045,7 +22045,6 @@
         "stringr",
         "ggplot2",
         "calibrate",
-        "corrgram",
         "gridExtra",
         "DT",
         "shiny",
@@ -91996,7 +91995,6 @@
         "pillar",
         "vctrs"
     ],
-    "corrgram": [],
     "hgu133a2.db": [
         "AnnotationDbi",
         "org.Hs.eg.db",
