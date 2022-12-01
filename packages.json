@@ -1439,7 +1439,6 @@
         "IRanges",
         "Rsamtools",
         "bamsignals",
-        "ecp",
         "Biostrings",
         "GenomicAlignments",
         "reshape2",
@@ -14171,7 +14170,6 @@
     "CONFESS": [
         "changepoint",
         "contrast",
-        "ecp",
         "EBImage",
         "flexmix",
         "flowCore",
@@ -78739,7 +78737,6 @@
         "ellipsis",
         "purrr"
     ],
-    "ecp": [],
     "ReorderCluster": [
         "gplots"
     ],
