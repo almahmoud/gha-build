@@ -145,9 +145,7 @@
         "nloptr",
         "testthat"
     ],
-    "ASICS": [
-        "ropls"
-    ],
+    "ASICS": [],
     "ASpediaFI": [
         "GenomicFeatures",
         "IVAS",
@@ -388,9 +386,7 @@
         "sva"
     ],
     "BioNetStat": [],
-    "biosigner": [
-        "ropls"
-    ],
+    "biosigner": [],
     "BioTIP": [],
     "biovizBase": [
         "GenomicFeatures",
@@ -2410,9 +2406,7 @@
     "LinTInd": [
         "ggtree"
     ],
-    "lipidr": [
-        "ropls"
-    ],
+    "lipidr": [],
     "lisaClust": [
         "spicyR",
         "SpatialExperiment",
@@ -3094,9 +3088,7 @@
         "testthat"
     ],
     "MuData": [],
-    "MultiBaC": [
-        "ropls"
-    ],
+    "MultiBaC": [],
     "multicrispr": [
         "CRISPRseek",
         "GenomicFeatures",
@@ -3115,7 +3107,6 @@
         "ReactomePA",
         "enrichplot",
         "devtools",
-        "ropls",
         "DOSE",
         "ggraph",
         "ggtree",
@@ -3518,7 +3509,6 @@
     "phenomis": [
         "biodb",
         "biodbChebi",
-        "ropls",
         "testthat"
     ],
     "phenoTest": [
@@ -3644,8 +3634,7 @@
         "testthat"
     ],
     "proFIA": [
-        "xcms",
-        "ropls"
+        "xcms"
     ],
     "profileplyr": [
         "soGGi",
@@ -4141,7 +4130,6 @@
         "GEOquery"
     ],
     "roar": [],
-    "ropls": [],
     "Rqc": [
         "biovizBase",
         "GenomicFiles",
@@ -4150,7 +4138,6 @@
         "ensembldb"
     ],
     "rqt": [
-        "ropls",
         "car",
         "pbkrtest",
         "lme4",
