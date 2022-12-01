@@ -1225,7 +1225,6 @@
     "cytomapper": [
         "SpatialExperiment"
     ],
-    "CytoML": [],
     "dada2": [],
     "dagLogo": [
         "motifStack",
