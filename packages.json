@@ -2872,8 +2872,7 @@
     ],
     "sSNAPPY": [],
     "ssPATHS": [
-        "MESS",
-        "ggformula"
+        "MESS"
     ],
     "STAN": [
         "Gviz",
@@ -3500,10 +3499,7 @@
         "BiocVersion"
     ],
     "sampSurf": [],
-    "MESS": [
-        "ggformula"
-    ],
-    "ggformula": [],
+    "MESS": [],
     "GenKern": [],
     "naniar": [],
     "vbsr": [],
