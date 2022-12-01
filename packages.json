@@ -6805,7 +6805,6 @@
         "ggplot2",
         "lattice",
         "broom",
-        "Deriv",
         "dplyr",
         "MASS",
         "Matrix",
@@ -34964,7 +34963,6 @@
         "zlibbioc",
         "lme4",
         "nlme",
-        "Deriv",
         "Matrix",
         "ellipsis",
         "purrr",
@@ -58873,7 +58871,6 @@
     ],
     "gpls": [],
     "gpuMagic": [
-        "Deriv",
         "DescTools",
         "digest",
         "pryr",
@@ -140519,7 +140516,6 @@
         "RankProd",
         "reshape2",
         "broom",
-        "Deriv",
         "MASS",
         "Matrix",
         "microbenchmark",
@@ -159138,7 +159134,6 @@
     ],
     "doBy": [
         "broom",
-        "Deriv",
         "dplyr",
         "ggplot2",
         "MASS",
@@ -159207,7 +159202,6 @@
         "diffobj",
         "rematch2"
     ],
-    "Deriv": [],
     "microbenchmark": [],
     "breastCancerVDX": [],
     "xgboost": [
@@ -167709,7 +167703,6 @@
         "MASS",
         "lme4",
         "nlme",
-        "Deriv",
         "Matrix",
         "lattice",
         "boot",
