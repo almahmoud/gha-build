@@ -12514,7 +12514,6 @@
         "car",
         "dplyr",
         "vegan",
-        "chemometrics",
         "ggplot2",
         "lmerTest",
         "glmmTMB",
@@ -12539,7 +12538,6 @@
         "car",
         "dplyr",
         "vegan",
-        "chemometrics",
         "ggplot2",
         "lmerTest",
         "glmmTMB",
@@ -14916,7 +14914,6 @@
         "metagenomeSeq",
         "car",
         "vegan",
-        "chemometrics",
         "lmerTest",
         "glmmTMB",
         "cplm",
@@ -29006,7 +29003,6 @@
         "prodlim",
         "lava"
     ],
-    "chemometrics": [],
     "glmmTMB": [
         "lme4",
         "nloptr",
