@@ -23626,7 +23626,6 @@
         "OMICsPCAdata",
         "HelloRanges",
         "MultiAssayExperiment",
-        "pdftools",
         "cowplot",
         "rmarkdown",
         "kableExtra",
@@ -41606,7 +41605,6 @@
         "tidyselect",
         "pillar"
     ],
-    "pdftools": [],
     "flatxml": [],
     "AICcmodavg": [
         "unmarked",
