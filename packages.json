@@ -7805,7 +7805,6 @@
     "ReactomeGraph4R": [
         "neo4r"
     ],
-    "ReactomeGSA": [],
     "ReactomePA": [
         "DOSE",
         "enrichplot",
