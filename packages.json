@@ -498,7 +498,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "dce": [],
     "ddPCRclust": [
         "flowDensity",
         "car",
