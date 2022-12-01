@@ -320,7 +320,6 @@
         "ExperimentHub",
         "BiocVersion"
     ],
-    "erma": [],
     "EWCE": [
         "ewceData",
         "orthogene",
