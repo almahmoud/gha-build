@@ -2569,7 +2569,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "TAPseq": [],
     "TargetDecoy": [
         "ggpubr",
         "rstatix",
