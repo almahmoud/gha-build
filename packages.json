@@ -17339,7 +17339,6 @@
         "RSQLite",
         "KEGGREST"
     ],
-    "Qtlizer": [],
     "quantiseqr": [
         "SummarizedExperiment",
         "ggplot2",
