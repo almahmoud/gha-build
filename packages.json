@@ -3085,7 +3085,6 @@
         "segmented",
         "survival",
         "annotate",
-        "gdata",
         "genefilter",
         "fpc",
         "ggvis",
@@ -5769,7 +5768,6 @@
         "IRanges",
         "RSQLite",
         "KEGGREST",
-        "gdata",
         "pillar",
         "lmtest",
         "openssl",
@@ -11541,7 +11539,6 @@
     ],
     "consensusOV": [
         "GSVA",
-        "gdata",
         "genefu",
         "survcomp",
         "biomaRt",
@@ -13968,7 +13965,6 @@
         "selectr",
         "sn",
         "lmtest",
-        "gdata",
         "Biostrings",
         "highr",
         "survival",
@@ -14221,7 +14217,6 @@
         "gplots",
         "made4",
         "ade4",
-        "gdata",
         "reshape2",
         "IRanges",
         "RSQLite",
@@ -14903,7 +14898,6 @@
         "pillar",
         "mgcv",
         "scales",
-        "gdata",
         "igraph",
         "tidyr",
         "rARPACK",
@@ -18239,7 +18233,6 @@
         "Rtsne",
         "gmodels",
         "lmtest",
-        "gdata",
         "pillar"
     ],
     "epistack": [
@@ -21942,7 +21935,6 @@
         "e1071"
     ],
     "GeneticsPed": [
-        "gdata",
         "genetics"
     ],
     "GeneTonic": [
@@ -24218,7 +24210,6 @@
         "iPAC",
         "igraph",
         "TSP",
-        "gdata",
         "Biostrings",
         "multtest",
         "IRanges",
@@ -26920,7 +26911,6 @@
     "INSPEcT": [
         "BiocParallel",
         "pROC",
-        "gdata",
         "GenomicFeatures",
         "GenomicRanges",
         "IRanges",
@@ -27382,7 +27372,6 @@
         "DelayedArray"
     ],
     "iPAC": [
-        "gdata",
         "Biostrings",
         "multtest",
         "IRanges",
@@ -28852,7 +28841,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "gdata",
         "pillar"
     ],
     "LinTInd": [
@@ -34738,7 +34726,6 @@
     ],
     "MLInterfaces": [
         "annotate",
-        "gdata",
         "genefilter",
         "fpc",
         "ggvis",
@@ -34953,7 +34940,6 @@
         "ggdendro",
         "Rtsne",
         "gmodels",
-        "gdata",
         "pillar"
     ],
     "moanin": [
@@ -38008,7 +37994,6 @@
         "RBGL",
         "ggm",
         "vcd",
-        "gdata",
         "pillar",
         "lmtest"
     ],
@@ -40989,7 +40974,6 @@
         "mgcv",
         "survival",
         "RcppEigen",
-        "gdata",
         "highr",
         "ade4",
         "biomformat",
@@ -42194,7 +42178,6 @@
         "GO.db",
         "pheatmap",
         "dplyr",
-        "gdata",
         "clusterProfiler",
         "ReactomePA",
         "ggplot2",
@@ -43621,7 +43604,6 @@
         "segmented",
         "survival",
         "annotate",
-        "gdata",
         "genefilter",
         "fpc",
         "ggvis",
@@ -43736,7 +43718,6 @@
         "segmented",
         "survival",
         "annotate",
-        "gdata",
         "genefilter",
         "fpc",
         "ggvis",
@@ -43960,7 +43941,6 @@
         "hms"
     ],
     "ProteoMM": [
-        "gdata",
         "biomaRt",
         "ggplot2",
         "ggrepel",
@@ -44450,7 +44430,6 @@
     ],
     "PWMEnrich": [
         "Biostrings",
-        "gdata",
         "IRanges",
         "XVector",
         "GenomeInfoDb"
@@ -45002,7 +44981,6 @@
         "SpacePAC",
         "igraph",
         "TSP",
-        "gdata",
         "Biostrings",
         "multtest",
         "IRanges",
@@ -53084,7 +53062,6 @@
         "survival",
         "futile.logger",
         "annotate",
-        "gdata",
         "genefilter",
         "fpc",
         "ggvis",
@@ -53389,7 +53366,6 @@
         "RSQLite",
         "KEGGREST",
         "doParallel",
-        "gdata",
         "genefu",
         "DGEobj",
         "lifecycle",
@@ -54648,7 +54624,6 @@
     ],
     "SpacePAC": [
         "iPAC",
-        "gdata",
         "Biostrings",
         "multtest",
         "IRanges",
@@ -55491,7 +55466,6 @@
         "miRNAtap.db",
         "AnnotationDbi",
         "org.Hs.eg.db",
-        "gdata",
         "IRanges",
         "RSQLite",
         "KEGGREST",
@@ -56225,9 +56199,7 @@
         "segmented"
     ],
     "sSeq": [],
-    "ssize": [
-        "gdata"
-    ],
+    "ssize": [],
     "sSNAPPY": [
         "dplyr",
         "purrr",
@@ -56545,7 +56517,6 @@
         "miRNAtap",
         "miRNAtap.db",
         "org.Hs.eg.db",
-        "gdata",
         "openssl",
         "Biostrings",
         "sqldf",
@@ -57921,7 +57892,6 @@
         "DESeq2",
         "DT",
         "edgeR",
-        "gdata",
         "ggplot2",
         "GSVA",
         "reshape2",
@@ -64748,7 +64718,6 @@
         "vctrs",
         "pillar"
     ],
-    "gdata": [],
     "ggvis": [
         "shiny",
         "dplyr",
@@ -65799,9 +65768,7 @@
         "vcd",
         "lmtest"
     ],
-    "gmodels": [
-        "gdata"
-    ],
+    "gmodels": [],
     "ggm": [
         "igraph",
         "graph"
@@ -68422,9 +68389,7 @@
         "pillar",
         "scales"
     ],
-    "genetics": [
-        "gdata"
-    ],
+    "genetics": [],
     "backbone": [
         "igraph"
     ],
