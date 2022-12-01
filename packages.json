@@ -566,7 +566,6 @@
         "lumi",
         "methylumi"
     ],
-    "ideal": [],
     "IMAS": [],
     "InTAD": [
         "ggpubr",
