@@ -4282,7 +4282,6 @@
         "GenomicRanges",
         "doParallel",
         "e1071",
-        "earth",
         "ggplot2",
         "cowplot",
         "BiocStyle",
@@ -22813,7 +22812,6 @@
         "bookdown",
         "rmarkdown",
         "e1071",
-        "earth",
         "GenomeInfoDb",
         "XVector",
         "mgcv",
@@ -48332,7 +48330,6 @@
     "gamlss": [
         "survival"
     ],
-    "earth": [],
     "GenomicState": [
         "AnnotationHub",
         "GenomicFeatures",
