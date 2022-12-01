@@ -5801,7 +5801,6 @@
         "geneplotter",
         "GenomicFeatures",
         "treeio",
-        "hgu95a.db",
         "M3Drop",
         "biomaRt",
         "reldist"
@@ -7302,8 +7301,7 @@
         "BiocVersion"
     ],
     "GSVAdata": [
-        "GSEABase",
-        "hgu95a.db"
+        "GSEABase"
     ],
     "SoupX": [
         "Seurat"
@@ -7321,7 +7319,6 @@
         "ExperimentHub",
         "BiocVersion"
     ],
-    "hgu95a.db": [],
     "sampSurf": [],
     "xROI": [],
     "miRNAtap.db": [],
