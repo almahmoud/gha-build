@@ -424,7 +424,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "GEWIST": [],
     "glmSparseNet": [
         "survminer",
         "ggpubr",
