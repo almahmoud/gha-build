@@ -142,7 +142,6 @@
         "BiocFileCache"
     ],
     "AlpsNMR": [
-        "readxl",
         "mixOmics",
         "speaq"
     ],
@@ -174,7 +173,6 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "readxl",
         "MultiAssayExperiment",
         "scuttle",
         "scater",
@@ -418,7 +416,6 @@
         "haven",
         "modelr",
         "readr",
-        "readxl",
         "BiocFileCache",
         "annotate"
     ],
@@ -486,8 +483,7 @@
     ],
     "autonomics": [
         "BiocFileCache",
-        "MultiAssayExperiment",
-        "readxl"
+        "MultiAssayExperiment"
     ],
     "BaalChIP": [
         "doBy",
@@ -623,7 +619,6 @@
         "plotly",
         "treeio",
         "genefilter",
-        "readxl",
         "annotate",
         "MultiAssayExperiment",
         "scuttle",
@@ -707,7 +702,6 @@
         "fgsea",
         "broom",
         "car",
-        "readxl",
         "plotly",
         "ggraph",
         "graphite",
@@ -1928,7 +1922,6 @@
     "ComPrAn": [
         "rio",
         "haven",
-        "readxl",
         "readr"
     ],
     "conclus": [
@@ -2173,7 +2166,6 @@
         "regioneR",
         "tensorflow",
         "haven",
-        "readxl",
         "readr"
     ],
     "CrispRVariants": [],
@@ -2224,7 +2216,6 @@
         "oligo",
         "sva",
         "shinypanel",
-        "readxl",
         "readr",
         "genefilter",
         "annotate"
@@ -2247,7 +2238,6 @@
         "AnnotationHub",
         "fgsea",
         "highcharter",
-        "readxl",
         "BiocFileCache",
         "BiocVersion",
         "broom"
@@ -2443,8 +2433,7 @@
         "googlesheets4",
         "haven",
         "modelr",
-        "readr",
-        "readxl"
+        "readr"
     ],
     "ddPCRclust": [
         "flowDensity",
@@ -2508,7 +2497,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation",
-        "readxl",
         "BSgenome",
         "rtracklayer",
         "biomaRt",
@@ -2849,7 +2837,6 @@
     ],
     "Doscheda": [
         "drc",
-        "readxl",
         "car",
         "pbkrtest",
         "lme4",
@@ -4128,7 +4115,6 @@
         "testthat",
         "GeomxTools",
         "NanoStringNCTools",
-        "readxl",
         "lmerTest",
         "GGally",
         "nloptr",
@@ -4145,7 +4131,6 @@
         "FactoMineR",
         "ggpubr",
         "readr",
-        "readxl",
         "car",
         "ggsignif",
         "rstatix",
@@ -4163,7 +4148,6 @@
     ],
     "GeomxTools": [
         "NanoStringNCTools",
-        "readxl",
         "lmerTest",
         "GGally",
         "lme4",
@@ -4403,8 +4387,7 @@
     ],
     "GPA": [],
     "gpuMagic": [
-        "DescTools",
-        "readxl"
+        "DescTools"
     ],
     "GRaNIE": [
         "DESeq2",
@@ -4502,7 +4485,6 @@
         "regioneR",
         "keras",
         "haven",
-        "readxl",
         "BiocFileCache",
         "readr",
         "tensorflow"
@@ -4662,7 +4644,6 @@
     "HIPPO": [],
     "hiReadsProcessor": [
         "hiAnnotator",
-        "readxl",
         "rtracklayer",
         "BSgenome"
     ],
@@ -4788,8 +4769,7 @@
     ],
     "ILoReg": [
         "dendextend",
-        "DescTools",
-        "readxl"
+        "DescTools"
     ],
     "imageHTS": [
         "cellHTS2",
@@ -4907,7 +4887,6 @@
         "dendextend",
         "factoextra",
         "plotly",
-        "readxl",
         "biomaRt",
         "BiocFileCache",
         "FactoMineR",
@@ -5004,7 +4983,6 @@
     ],
     "ISAnalytics": [
         "readr",
-        "readxl",
         "datamods",
         "rio",
         "haven"
@@ -5034,12 +5012,10 @@
         "BiocFileCache"
     ],
     "IsoCorrectoR": [
-        "readr",
-        "readxl"
+        "readr"
     ],
     "IsoCorrectoRGUI": [
         "IsoCorrectoR",
-        "readxl",
         "readr"
     ],
     "IsoformSwitchAnalyzeR": [
@@ -5200,7 +5176,6 @@
         "ggsignif",
         "rstatix",
         "haven",
-        "readxl",
         "readr",
         "broom",
         "car",
@@ -5346,9 +5321,7 @@
     "macat": [
         "annotate"
     ],
-    "MACSQuantifyR": [
-        "readxl"
-    ],
+    "MACSQuantifyR": [],
     "MACSr": [
         "ExperimentHub",
         "AnnotationHub",
@@ -5422,7 +5395,6 @@
         "haven",
         "modelr",
         "readr",
-        "readxl",
         "ipred"
     ],
     "MAIT": [
@@ -5876,7 +5848,6 @@
         "haven",
         "modelr",
         "readr",
-        "readxl",
         "BiocVersion",
         "GenomicFeatures",
         "AnnotationHubData",
@@ -6069,7 +6040,6 @@
         "aplot",
         "ggfun",
         "treeio",
-        "readxl",
         "annotate",
         "MultiAssayExperiment",
         "scuttle",
@@ -6262,7 +6232,6 @@
         "haven",
         "modelr",
         "readr",
-        "readxl",
         "ggfun",
         "tidytree",
         "treeio",
@@ -6309,7 +6278,6 @@
         "haven",
         "modelr",
         "readr",
-        "readxl",
         "ggfun",
         "tidytree",
         "treeio",
@@ -6623,7 +6591,6 @@
         "haven",
         "modelr",
         "readr",
-        "readxl",
         "car",
         "nloptr",
         "lmerTest",
@@ -6814,7 +6781,6 @@
         "sortable",
         "TCGAbiolinks",
         "rtracklayer",
-        "readxl",
         "dendextend",
         "FactoMineR",
         "ggpubr",
@@ -6915,8 +6881,7 @@
         "googlesheets4",
         "haven",
         "modelr",
-        "readr",
-        "readxl"
+        "readr"
     ],
     "NanoTube": [
         "fgsea"
@@ -7093,7 +7058,6 @@
         "lme4",
         "Hmisc",
         "haven",
-        "readxl",
         "readr",
         "nloptr",
         "broom",
@@ -7272,8 +7236,7 @@
         "readr"
     ],
     "OmnipathR": [
-        "readr",
-        "readxl"
+        "readr"
     ],
     "oncomix": [],
     "oncoscanR": [
@@ -7769,7 +7732,6 @@
     ],
     "plotGrouper": [
         "readr",
-        "readxl",
         "ggpubr",
         "colourpicker",
         "Hmisc",
@@ -9286,8 +9248,7 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "DescTools",
         "BSgenome",
-        "rtracklayer",
-        "readxl"
+        "rtracklayer"
     ],
     "scoreInvHap": [
         "VariantAnnotation",
@@ -9909,7 +9870,6 @@
     "SpatialDecon": [
         "GeomxTools",
         "NanoStringNCTools",
-        "readxl",
         "lmerTest",
         "GGally",
         "lme4",
@@ -10059,7 +10019,6 @@
         "haven",
         "modelr",
         "readr",
-        "readxl",
         "nloptr",
         "ipred",
         "car",
@@ -10172,8 +10131,7 @@
         "googlesheets4",
         "haven",
         "modelr",
-        "readr",
-        "readxl"
+        "readr"
     ],
     "STdeconvolve": [
         "scatterpie",
@@ -10307,7 +10265,6 @@
         "haven",
         "modelr",
         "readr",
-        "readxl",
         "pbkrtest",
         "lme4",
         "nloptr",
@@ -10549,7 +10506,6 @@
     "TFutils": [
         "GSEABase",
         "BiocFileCache",
-        "readxl",
         "org.Hs.eg.db",
         "annotate"
     ],
@@ -10580,7 +10536,6 @@
         "clusterProfiler",
         "gghighlight",
         "RCy3",
-        "readxl",
         "rWikiPathways",
         "BiocFileCache",
         "DOSE",
@@ -11135,8 +11090,7 @@
     "wpm": [],
     "wppi": [
         "OmnipathR",
-        "readr",
-        "readxl"
+        "readr"
     ],
     "xcms": [
         "MSnbase"
@@ -11282,7 +11236,6 @@
     "Hmisc": [],
     "GGally": [],
     "ggrastr": [],
-    "readxl": [],
     "speaq": [],
     "curatedTCGAData": [
         "MultiAssayExperiment",
@@ -11294,9 +11247,7 @@
     "readr": [],
     "ggthemes": [],
     "waffle": [],
-    "DescTools": [
-        "readxl"
-    ],
+    "DescTools": [],
     "lmerTest": [
         "lme4",
         "nloptr",
@@ -11414,8 +11365,7 @@
         "googlesheets4",
         "haven",
         "modelr",
-        "readr",
-        "readxl"
+        "readr"
     ],
     "Mus.musculus": [
         "OrganismDbi",
@@ -11497,7 +11447,6 @@
         "broom",
         "car",
         "readr",
-        "readxl",
         "plotly",
         "pbkrtest",
         "lme4",
@@ -11729,7 +11678,6 @@
     "RNeXML": [],
     "rio": [
         "haven",
-        "readxl",
         "readr"
     ],
     "factoextra": [
@@ -11942,7 +11890,6 @@
     "shinyHeatmaply": [
         "heatmaply",
         "plotly",
-        "readxl",
         "dendextend"
     ],
     "ggalt": [
@@ -11973,7 +11920,6 @@
     "concaveman": [],
     "AdaptGauss": [],
     "datamods": [
-        "readxl",
         "rio",
         "haven",
         "readr"
@@ -12144,7 +12090,6 @@
         "car",
         "Hmisc",
         "haven",
-        "readxl",
         "pbkrtest",
         "lme4",
         "readr",
