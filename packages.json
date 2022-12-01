@@ -816,7 +816,6 @@
         "ensembldb"
     ],
     "CopywriteR": [],
-    "CoreGx": [],
     "coseq": [
         "DESeq2",
         "HTSFilter"
@@ -3029,7 +3028,6 @@
         "Category"
     ],
     "PDATK": [
-        "CoreGx",
         "survminer",
         "genefu",
         "ggpubr",
@@ -3052,9 +3050,7 @@
     "phantasus": [
         "DESeq2"
     ],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "phenomis": [
         "biodb",
         "biodbChebi"
@@ -3300,9 +3296,7 @@
         "VariantAnnotation",
         "GenomicFeatures"
     ],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "ramwas": [],
     "RandomWalkRestartMH": [
         "dnet"
@@ -4225,9 +4219,7 @@
         "lme4",
         "nloptr"
     ],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
+    "ToxicoGx": [],
     "trackViewer": [
         "GenomicFeatures",
         "Gviz",
@@ -4422,8 +4414,7 @@
     "wppi": [],
     "XDE": [],
     "Xeva": [
-        "PharmacoGx",
-        "CoreGx"
+        "PharmacoGx"
     ],
     "XNAString": [],
     "YAPSA": [
