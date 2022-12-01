@@ -9263,7 +9263,6 @@
         "factoextra",
         "sortable",
         "TCGAbiolinks",
-        "shinyjqui",
         "rtracklayer",
         "ggseqlogo",
         "readxl",
@@ -10891,7 +10890,6 @@
         "DAPAR",
         "DAPARdata",
         "highcharter",
-        "shinyjqui",
         "MSnbase",
         "broom",
         "tidyr",
@@ -12406,7 +12404,6 @@
         "rtracklayer",
         "scanMiR",
         "scanMiRData",
-        "shinyjqui",
         "BiocFileCache",
         "BiocVersion",
         "biomaRt",
@@ -14132,7 +14129,6 @@
         "plotly",
         "shinyWidgets",
         "shinydashboardPlus",
-        "shinyjqui",
         "tidyr"
     ],
     "systemPipeTools": [
@@ -16631,7 +16627,6 @@
         "rtracklayer",
         "GenomicAlignments"
     ],
-    "shinyjqui": [],
     "mppa": [],
     "ICSNP": [],
     "dnet": [
