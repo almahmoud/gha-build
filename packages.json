@@ -217,7 +217,6 @@
     ],
     "attract": [
         "GOstats",
-        "reactome.db",
         "Category"
     ],
     "AUCell": [],
@@ -303,7 +302,6 @@
         "radiant.data",
         "DOSE",
         "clusterProfiler",
-        "reactome.db",
         "ReactomePA",
         "DiagrammeR",
         "enrichplot",
@@ -1518,7 +1516,6 @@
         "DOSE",
         "enrichplot",
         "ggraph",
-        "reactome.db",
         "ggtree"
     ],
     "EpiMix": [
@@ -1669,7 +1666,6 @@
     ],
     "FamAgg": [],
     "famat": [
-        "reactome.db",
         "clusterProfiler",
         "DOSE",
         "enrichplot",
@@ -2555,9 +2551,7 @@
         "questionr",
         "labelled"
     ],
-    "mAPKL": [
-        "reactome.db"
-    ],
+    "mAPKL": [],
     "maPredictDSC": [],
     "maser": [
         "Gviz",
@@ -2785,7 +2779,6 @@
     "methylGSA": [
         "clusterProfiler",
         "missMethyl",
-        "reactome.db",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "DOSE",
@@ -2929,7 +2922,6 @@
         "DOSE",
         "enrichplot",
         "ggraph",
-        "reactome.db",
         "tidyverse",
         "cvms",
         "ggpubr",
@@ -2948,7 +2940,6 @@
         "DOSE",
         "enrichplot",
         "ggraph",
-        "reactome.db",
         "tidyverse",
         "cvms",
         "ggpubr",
@@ -3170,7 +3161,6 @@
         "DOSE",
         "ggraph",
         "ggtree",
-        "reactome.db",
         "testthat"
     ],
     "mumosa": [],
@@ -3325,7 +3315,6 @@
         "testthat"
     ],
     "NoRCE": [
-        "reactome.db",
         "GenomicFeatures"
     ],
     "NormalyzerDE": [
@@ -3627,7 +3616,6 @@
         "DOSE",
         "enrichplot",
         "ggraph",
-        "reactome.db",
         "ggtree"
     ],
     "PING": [
@@ -3932,7 +3920,6 @@
         "DOSE",
         "enrichplot",
         "ggraph",
-        "reactome.db",
         "ggtree"
     ],
     "recount": [
@@ -4405,7 +4392,6 @@
         "ensembldb"
     ],
     "scTensor": [
-        "reactome.db",
         "AnnotationHub",
         "Category",
         "meshr",
@@ -4503,7 +4489,6 @@
     ],
     "signatureSearch": [
         "ExperimentHub",
-        "reactome.db",
         "clusterProfiler",
         "DOSE",
         "enrichplot",
@@ -4611,7 +4596,6 @@
     ],
     "slalom": [],
     "SMITE": [
-        "reactome.db",
         "goseq",
         "geneLenDataBase",
         "GenomicFeatures"
@@ -5339,7 +5323,6 @@
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [
         "GenomicFeatures"
     ],
-    "reactome.db": [],
     "doBy": [
         "pbkrtest",
         "lme4",
