@@ -18305,7 +18305,6 @@
         "igraph",
         "metap",
         "mnem",
-        "ppcor",
         "graphite",
         "reshape2",
         "dplyr",
@@ -41379,7 +41378,6 @@
         "graph",
         "Rgraphviz",
         "Biostrings",
-        "ppcor",
         "qvalue",
         "car",
         "ggplot2",
@@ -45089,7 +45087,6 @@
         "bslib",
         "cachem",
         "ellipsis",
-        "ppcor",
         "doRNG",
         "gRbase",
         "glmnet",
@@ -45229,7 +45226,6 @@
         "reactome.db",
         "graphite",
         "Biobase",
-        "ppcor",
         "doRNG",
         "gRbase",
         "glmnet",
@@ -48468,7 +48464,6 @@
         "rWikiPathways",
         "ReactomePA",
         "enrichplot",
-        "ppcor",
         "metap",
         "igraph",
         "networkD3",
@@ -49060,7 +49055,6 @@
         "askpass"
     ],
     "MWASTools": [
-        "ppcor",
         "qvalue",
         "car",
         "ggplot2",
@@ -73410,7 +73404,6 @@
     "splots": [],
     "SPONGE": [
         "Biobase",
-        "ppcor",
         "foreach",
         "doRNG",
         "expm",
@@ -89272,7 +89265,6 @@
         "MatrixModels",
         "zoo"
     ],
-    "ppcor": [],
     "harmonicmeanp": [],
     "TFisher": [
         "sn",
