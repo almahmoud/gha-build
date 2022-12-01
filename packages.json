@@ -74,7 +74,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "rvest",
-        "smoother",
         "dplyr",
         "BiocFileCache",
         "BiocVersion",
@@ -4618,7 +4617,6 @@
         "tidyr",
         "ggthemes",
         "VIM",
-        "smoother",
         "dplyr",
         "car",
         "pbkrtest",
@@ -19860,7 +19858,6 @@
         "dbplyr"
     ],
     "rvest": [],
-    "smoother": [],
     "dbplyr": [
         "dplyr"
     ],
