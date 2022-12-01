@@ -429,9 +429,7 @@
     "BioNERO": [
         "sva"
     ],
-    "BioNetStat": [
-        "pathview"
-    ],
+    "BioNetStat": [],
     "biosigner": [
         "ropls"
     ],
@@ -1280,7 +1278,6 @@
         "clusterProfiler",
         "sva",
         "enrichplot",
-        "pathview",
         "ggraph",
         "ggtree"
     ],
@@ -1561,7 +1558,6 @@
     ],
     "EGSEA": [
         "topGO",
-        "pathview",
         "PADOG",
         "GSVA"
     ],
@@ -1596,9 +1592,7 @@
         "GEOquery",
         "GenomicFeatures"
     ],
-    "EnrichmentBrowser": [
-        "pathview"
-    ],
+    "EnrichmentBrowser": [],
     "enrichplot": [
         "DOSE",
         "ggraph",
@@ -2023,7 +2017,6 @@
         "clusterProfiler",
         "DOSE",
         "survminer",
-        "pathview",
         "GenomicDataCommons",
         "enrichplot",
         "ggpubr",
@@ -2283,8 +2276,7 @@
         "AnnotationHub",
         "EnrichmentBrowser",
         "ExperimentHub",
-        "BiocVersion",
-        "pathview"
+        "BiocVersion"
     ],
     "gsean": [
         "PPInfer"
@@ -2772,7 +2764,6 @@
     "MAGeCKFlute": [
         "DOSE",
         "clusterProfiler",
-        "pathview",
         "enrichplot",
         "depmap",
         "ExperimentHub",
@@ -3835,7 +3826,6 @@
         "devtools",
         "testthat"
     ],
-    "pathview": [],
     "paxtoolsr": [],
     "pcaExplorer": [
         "DESeq2",
@@ -4530,7 +4520,6 @@
     ],
     "RNAsense": [],
     "RNASeqR": [
-        "pathview",
         "ballgown",
         "FactoMineR",
         "factoextra",
@@ -4650,9 +4639,7 @@
         "MGFR"
     ],
     "sangeranalyseR": [],
-    "SBGNview": [
-        "pathview"
-    ],
+    "SBGNview": [],
     "scAlign": [
         "Seurat"
     ],
@@ -5287,7 +5274,6 @@
     ],
     "TCGAbiolinks": [],
     "TCGAbiolinksGUI": [
-        "pathview",
         "ELMER",
         "clusterProfiler",
         "TCGAbiolinks",
@@ -5676,7 +5662,6 @@
     "zenith": [
         "variancePartition",
         "EnrichmentBrowser",
-        "pathview",
         "pbkrtest",
         "lmerTest",
         "lme4",
