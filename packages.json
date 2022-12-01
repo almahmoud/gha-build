@@ -3392,7 +3392,6 @@
         "testthat"
     ],
     "Omixer": [],
-    "OmnipathR": [],
     "oncoscanR": [],
     "OncoScore": [],
     "OncoSimulR": [
@@ -5137,9 +5136,7 @@
     ],
     "webbioc": [],
     "wiggleplotr": [],
-    "wppi": [
-        "OmnipathR"
-    ],
+    "wppi": [],
     "xcms": [],
     "xcore": [],
     "XDE": [],
