@@ -1842,7 +1842,6 @@
     "condiments": [
         "slingshot",
         "Ecume",
-        "TrajectoryUtils",
         "distinct",
         "scater",
         "spatstat",
@@ -3365,8 +3364,7 @@
     ],
     "FEAST": [
         "TSCAN",
-        "SC3",
-        "TrajectoryUtils"
+        "SC3"
     ],
     "fedup": [],
     "ffpe": [
@@ -9017,7 +9015,6 @@
         "scDblFinder",
         "metap",
         "TSCAN",
-        "TrajectoryUtils",
         "BiocFileCache",
         "BiocVersion",
         "geneplotter",
@@ -9095,9 +9092,7 @@
         "GSEABase",
         "annotate"
     ],
-    "slingshot": [
-        "TrajectoryUtils"
-    ],
+    "slingshot": [],
     "SMITE": [
         "Hmisc",
         "org.Hs.eg.db",
@@ -9893,10 +9888,8 @@
         "VariantAnnotation"
     ],
     "tradeSeq": [
-        "slingshot",
-        "TrajectoryUtils"
+        "slingshot"
     ],
-    "TrajectoryUtils": [],
     "transcriptogramer": [
         "biomaRt",
         "topGO",
@@ -9938,8 +9931,7 @@
     ],
     "Travel": [],
     "traviz": [
-        "slingshot",
-        "TrajectoryUtils"
+        "slingshot"
     ],
     "treeio": [
         "tidytree"
@@ -10004,9 +9996,7 @@
         "rtracklayer",
         "BSgenome"
     ],
-    "TSCAN": [
-        "TrajectoryUtils"
-    ],
+    "TSCAN": [],
     "tscR": [],
     "ttgsea": [
         "keras",
