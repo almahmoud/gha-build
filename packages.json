@@ -11586,7 +11586,6 @@
         "egg",
         "rvest",
         "svglite",
-        "gnm",
         "httr",
         "bslib",
         "httpuv",
@@ -49838,10 +49837,7 @@
         "multtest",
         "survival"
     ],
-    "MetaCycle": [
-        "gnm"
-    ],
-    "gnm": [],
+    "MetaCycle": [],
     "fastDummies": [
         "tibble",
         "pillar",
