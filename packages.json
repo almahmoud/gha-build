@@ -4455,7 +4455,6 @@
     "scanMiRApp": [
         "ensembldb",
         "GenomicFeatures",
-        "scanMiRData",
         "biomaRt"
     ],
     "scAnnotatR": [
@@ -5927,7 +5926,6 @@
     "RLHub": [
         "ExperimentHub"
     ],
-    "scanMiRData": [],
     "SCATEData": [
         "ExperimentHub"
     ],
