@@ -2589,7 +2589,6 @@
         "ggtree",
         "treeio"
     ],
-    "netDx": [],
     "netOmics": [
         "RandomWalkRestartMH",
         "gprofiler2",
