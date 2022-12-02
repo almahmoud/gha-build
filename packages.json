@@ -4173,7 +4173,6 @@
         "biomaRt",
         "GOstats",
         "lumi",
-        "lumiHumanAll.db",
         "Category",
         "methylumi",
         "GenomicFeatures",
@@ -8260,7 +8259,6 @@
         "mice",
         "broom"
     ],
-    "lumiHumanAll.db": [],
     "BSgenome.Hsapiens.UCSC.hg18": [
         "BSgenome"
     ],
