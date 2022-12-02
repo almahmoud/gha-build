@@ -50307,7 +50307,6 @@
         "RCurl",
         "lifecycle"
     ],
-    "NTW": [],
     "nucleoSim": [
         "IRanges",
         "S4Vectors"
