@@ -6790,7 +6790,6 @@
         "Rmixmod",
         "ggplot2",
         "HTSFilter",
-        "compositions",
         "GenomicRanges",
         "geneplotter",
         "tibble",
@@ -19093,7 +19092,6 @@
         "phyloseq",
         "ggplot2",
         "Biostrings",
-        "compositions",
         "dplyr",
         "tibble",
         "tidyr",
@@ -22641,7 +22639,6 @@
     ],
     "omicplotR": [
         "ALDEx2",
-        "compositions",
         "DT",
         "rmarkdown",
         "shiny",
@@ -29419,7 +29416,6 @@
     ],
     "scone": [
         "SummarizedExperiment",
-        "compositions",
         "mixtools",
         "RUVSeq",
         "rARPACK",
@@ -38436,7 +38432,6 @@
         "tibble"
     ],
     "Rmixmod": [],
-    "compositions": [],
     "faahKO": [
         "xcms",
         "MSnbase",
