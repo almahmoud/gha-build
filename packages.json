@@ -3499,7 +3499,6 @@
         "SummarizedExperiment",
         "GenomeInfoDb",
         "rtracklayer",
-        "betareg",
         "globaltest",
         "XVector",
         "AnnotationDbi",
@@ -10273,7 +10272,6 @@
     ],
     "DMRcaller": [
         "GenomicRanges",
-        "betareg",
         "GenomeInfoDb",
         "XVector"
     ],
@@ -42248,7 +42246,6 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "betareg": [],
     "pasilla": [
         "DEXSeq",
         "BiocParallel",
