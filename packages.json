@@ -35266,7 +35266,6 @@
     "rifi": [
         "car",
         "cowplot",
-        "doMC",
         "dplyr",
         "egg",
         "ggplot2",
@@ -52451,7 +52450,6 @@
         "GenomeInfoDb",
         "sass"
     ],
-    "doMC": [],
     "valr": [
         "broom",
         "dplyr",
