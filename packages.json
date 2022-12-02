@@ -2465,7 +2465,6 @@
         "GenomicAlignments",
         "ggplot2",
         "readr",
-        "seqPattern",
         "SummarizedExperiment",
         "vroom"
     ],
@@ -5530,7 +5529,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "BSgenome",
         "readr",
-        "seqPattern",
         "tidyr",
         "dbplyr",
         "geneplotter",
@@ -6176,7 +6174,6 @@
         "BSgenome",
         "GenomicAlignments",
         "readr",
-        "seqPattern",
         "rtracklayer",
         "rainbow",
         "SummarizedExperiment",
@@ -6944,7 +6941,6 @@
         "GenomicAlignments",
         "ggplot2",
         "readr",
-        "seqPattern",
         "rtracklayer",
         "SummarizedExperiment",
         "vroom"
@@ -14512,7 +14508,6 @@
         "gprofiler2",
         "GenomicAlignments",
         "readr",
-        "seqPattern",
         "AnnotationDbi",
         "biomaRt",
         "tidyr",
@@ -16675,7 +16670,6 @@
         "dplyr",
         "annotate"
     ],
-    "seqPattern": [],
     "seqsetvis": [
         "ggplot2",
         "cowplot",
