@@ -2537,7 +2537,6 @@
         "cytomapper"
     ],
     "singleCellTK": [
-        "celldex",
         "ensembldb",
         "ggtree",
         "scMerge",
@@ -3147,7 +3146,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "celldex": [],
     "SoupX": [],
     "scRNAseq": [
         "ensembldb"
