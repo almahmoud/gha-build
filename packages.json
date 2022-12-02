@@ -619,7 +619,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "GO.db",
         "RSQLite",
         "KEGGREST"
@@ -1360,7 +1359,6 @@
         "plotly",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "treeio",
         "genefilter",
         "readxl",
@@ -2781,7 +2779,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "tidyr",
         "dplyr"
     ],
@@ -4242,7 +4239,6 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "spatstat.explore",
         "spatstat.model",
         "spatstat.linnet",
         "hardhat",
@@ -5866,7 +5862,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "tibble",
         "tidyr",
         "dplyr"
@@ -10272,8 +10267,7 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "shiny",
-        "spatstat.explore"
+        "shiny"
     ],
     "InPAS": [
         "AnnotationDbi",
@@ -10571,7 +10565,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.explore",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -11116,7 +11109,6 @@
     "lisaClust": [
         "ggplot2",
         "concaveman",
-        "spatstat.explore",
         "spicyR",
         "dplyr",
         "tidyr",
@@ -14634,7 +14626,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "tidyr",
         "dplyr"
     ],
@@ -16298,7 +16289,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "tidyr"
     ],
     "pipeFrame": [
@@ -19186,7 +19176,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "SummarizedExperiment",
         "tfruns",
         "tidyr",
@@ -19270,7 +19259,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "KEGGREST",
         "dbplyr",
         "tidyr",
@@ -19338,7 +19326,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "genefilter",
         "AnnotationDbi",
         "annotate",
@@ -19367,7 +19354,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "ggplotify"
     ],
     "scCB2": [
@@ -19386,7 +19372,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "tibble",
         "tidyr",
         "dplyr"
@@ -19439,7 +19424,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "SummarizedExperiment",
         "tidyr",
         "dplyr"
@@ -19537,7 +19521,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.explore",
         "SummarizedExperiment",
         "tidyr"
     ],
@@ -19573,7 +19556,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "tidyr",
         "dplyr"
     ],
@@ -19879,7 +19861,6 @@
         "patchwork",
         "scattermore",
         "sctransform",
-        "spatstat.explore",
         "ggfun",
         "ggplotify",
         "tidytree",
@@ -19918,8 +19899,7 @@
         "miniUI",
         "patchwork",
         "scattermore",
-        "sctransform",
-        "spatstat.explore"
+        "sctransform"
     ],
     "scTreeViz": [
         "epivizr",
@@ -19953,7 +19933,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "AnnotationDbi",
         "AnnotationFilter",
         "RSQLite",
@@ -20659,7 +20638,6 @@
         "patchwork",
         "scattermore",
         "sctransform",
-        "spatstat.explore",
         "genefilter",
         "KEGGREST",
         "dbplyr",
@@ -20944,7 +20922,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.explore",
         "tidyr"
     ],
     "sparrow": [
@@ -21155,7 +21132,6 @@
         "vroom",
         "dittoSeq",
         "alphahull",
-        "spatstat.explore",
         "xROI",
         "SummarizedExperiment",
         "cowplot",
@@ -21176,7 +21152,6 @@
     "spicyR": [
         "ggplot2",
         "concaveman",
-        "spatstat.explore",
         "lmerTest",
         "lme4",
         "dplyr",
@@ -21376,7 +21351,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "SingleCellExperiment",
         "DropletUtils",
         "BiocFileCache",
@@ -21608,7 +21582,6 @@
     "Statial": [
         "concaveman",
         "tidyverse",
-        "spatstat.explore",
         "dplyr",
         "tidyr",
         "SingleCellExperiment",
@@ -21660,7 +21633,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "SingleCellExperiment",
         "DropletUtils",
         "BiocFileCache",
@@ -24264,7 +24236,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "tibble",
         "tidyr",
         "dplyr"
@@ -24296,7 +24267,6 @@
         "ggplot2",
         "tibble"
     ],
-    "spatstat.explore": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
         "rtracklayer",
@@ -25417,7 +25387,6 @@
         "ggplot2",
         "recipes",
         "tibble",
-        "spatstat.explore",
         "spatstat.model",
         "spatstat.linnet",
         "hardhat",
@@ -25426,15 +25395,11 @@
         "prodlim"
     ],
     "spatstat": [
-        "spatstat.explore",
         "spatstat.model",
         "spatstat.linnet"
     ],
-    "spatstat.model": [
-        "spatstat.explore"
-    ],
+    "spatstat.model": [],
     "spatstat.linnet": [
-        "spatstat.explore",
         "spatstat.model"
     ],
     "contrast": [
@@ -26913,7 +26878,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "tidyr",
         "dplyr"
     ],
