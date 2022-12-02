@@ -26,7 +26,6 @@
         "TreeSummarizedExperiment",
         "lmerTest"
     ],
-    "AnnotationHubData": [],
     "annotatr": [],
     "APAlyzer": [],
     "APL": [],
@@ -577,9 +576,7 @@
         "car",
         "pbkrtest"
     ],
-    "ExperimentHubData": [
-        "AnnotationHubData"
-    ],
+    "ExperimentHubData": [],
     "ExperimentSubset": [
         "TreeSummarizedExperiment"
     ],
@@ -1041,7 +1038,6 @@
         "minfi",
         "rstatix",
         "ExperimentHubData",
-        "AnnotationHubData",
         "car",
         "pbkrtest"
     ],
@@ -2061,8 +2057,7 @@
         "minfi"
     ],
     "methylclockData": [
-        "ExperimentHubData",
-        "AnnotationHubData"
+        "ExperimentHubData"
     ],
     "cvms": [],
     "blme": [],
