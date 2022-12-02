@@ -1898,7 +1898,6 @@
     ],
     "cyanoFilter": [
         "flowDensity",
-        "cytometree",
         "GGally",
         "car",
         "RFOC",
@@ -9815,7 +9814,6 @@
     "highcharter": [
         "broom"
     ],
-    "cytometree": [],
     "RFOC": [
         "GEOmap"
     ],
