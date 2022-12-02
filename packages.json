@@ -4112,7 +4112,6 @@
     "SplicingGraphs": [
         "GenomicFeatures"
     ],
-    "splineTimeR": [],
     "SPLINTER": [
         "GenomicFeatures",
         "Gviz",
