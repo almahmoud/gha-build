@@ -1973,7 +1973,6 @@
         "ggtree",
         "treeio"
     ],
-    "mumosa": [],
     "MungeSumstats": [
         "VariantAnnotation"
     ],
