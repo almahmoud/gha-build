@@ -3330,7 +3330,6 @@
     "scAlign": [
         "Seurat"
     ],
-    "SCAN.UPC": [],
     "scanMiRApp": [
         "ensembldb",
         "GenomicFeatures"
