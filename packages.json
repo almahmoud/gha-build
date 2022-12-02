@@ -7612,7 +7612,6 @@
         "Oscope",
         "testthat"
     ],
-    "scds": [],
     "scGPS": [
         "caret",
         "DESeq2",
@@ -8021,7 +8020,6 @@
         "sva",
         "celda",
         "DropletUtils",
-        "scds",
         "fishpond",
         "GSEABase",
         "zinbwave",
