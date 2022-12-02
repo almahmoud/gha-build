@@ -81379,7 +81379,6 @@
         "rngtools",
         "gridBase",
         "BiocManager",
-        "poorman",
         "httr",
         "viridisLite",
         "base64enc",
@@ -88228,7 +88227,6 @@
         "png",
         "nlme",
         "askpass",
-        "poorman",
         "hms",
         "prettyunits",
         "clipr",
@@ -103813,7 +103811,6 @@
         "cachem",
         "colorspace",
         "askpass",
-        "poorman",
         "hms",
         "prettyunits",
         "clipr",
@@ -128143,7 +128140,6 @@
         "png",
         "nlme",
         "askpass",
-        "poorman",
         "hms",
         "prettyunits",
         "clipr",
@@ -155787,8 +155783,7 @@
         "lattice"
     ],
     "philentropy": [
-        "Rcpp",
-        "poorman"
+        "Rcpp"
     ],
     "shinyjqui": [
         "shiny",
@@ -155820,7 +155815,6 @@
         "magrittr",
         "rappdirs"
     ],
-    "poorman": [],
     "grImport": [
         "XML"
     ],
@@ -156622,7 +156616,6 @@
         "mime",
         "openssl",
         "Rcpp",
-        "poorman",
         "R.oo",
         "R.methodsS3",
         "cli",
