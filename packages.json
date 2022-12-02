@@ -552,9 +552,7 @@
         "sva",
         "ggnetwork"
     ],
-    "BioNetStat": [
-        "pathview"
-    ],
+    "BioNetStat": [],
     "biosigner": [
         "MultiAssayExperiment",
         "ropls",
@@ -1651,7 +1649,6 @@
         "enrichplot",
         "plotly",
         "heatmaply",
-        "pathview",
         "GOSemSim",
         "gson",
         "aplot",
@@ -2018,7 +2015,6 @@
     "EGSEA": [
         "gage",
         "topGO",
-        "pathview",
         "PADOG",
         "GSVA",
         "metap",
@@ -2062,9 +2058,7 @@
         "readr",
         "biomaRt"
     ],
-    "EnrichmentBrowser": [
-        "pathview"
-    ],
+    "EnrichmentBrowser": [],
     "enrichplot": [
         "aplot",
         "DOSE",
@@ -2636,7 +2630,6 @@
         "DOSE",
         "biomaRt",
         "survminer",
-        "pathview",
         "GenomicDataCommons",
         "enrichplot",
         "GOSemSim",
@@ -3008,8 +3001,7 @@
     "GSEABenchmarkeR": [
         "AnnotationHub",
         "EnrichmentBrowser",
-        "ExperimentHub",
-        "pathview"
+        "ExperimentHub"
     ],
     "GSEAmining": [],
     "gsean": [
@@ -3645,7 +3637,6 @@
     "MAGeCKFlute": [
         "DOSE",
         "clusterProfiler",
-        "pathview",
         "enrichplot",
         "depmap",
         "GOSemSim",
@@ -5125,7 +5116,6 @@
         "devtools",
         "testthat"
     ],
-    "pathview": [],
     "paxtoolsr": [
         "readr"
     ],
@@ -6051,7 +6041,6 @@
         "NBPSeq"
     ],
     "RNASeqR": [
-        "pathview",
         "ballgown",
         "FactoMineR",
         "factoextra",
@@ -6219,9 +6208,7 @@
     "sangeranalyseR": [
         "plotly"
     ],
-    "SBGNview": [
-        "pathview"
-    ],
+    "SBGNview": [],
     "SC3": [],
     "scAlign": [
         "Seurat",
@@ -7106,7 +7093,6 @@
         "plotly",
         "readr",
         "caret",
-        "pathview",
         "ELMER",
         "clusterProfiler",
         "TCGAbiolinks",
@@ -7644,7 +7630,6 @@
     "zenith": [
         "variancePartition",
         "EnrichmentBrowser",
-        "pathview",
         "pbkrtest",
         "lmerTest",
         "lme4",
