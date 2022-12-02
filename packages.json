@@ -20927,7 +20927,6 @@
         "webchem",
         "purrr",
         "ttgsea",
-        "PRROC",
         "reticulate",
         "Matrix",
         "tfruns",
@@ -30095,7 +30094,6 @@
         "pcaMethods",
         "pheatmap",
         "plotly",
-        "PRROC",
         "rhdf5",
         "Rsubread",
         "R.utils",
@@ -32818,7 +32816,6 @@
         "tokenizers",
         "webchem",
         "purrr",
-        "PRROC",
         "tfruns",
         "ellipsis",
         "rlang",
@@ -37400,7 +37397,6 @@
         "caret",
         "ggplot2",
         "pROC",
-        "PRROC",
         "igraph",
         "purrr",
         "MCL",
@@ -58814,7 +58810,6 @@
         "plotly",
         "plyr",
         "pcaMethods",
-        "PRROC",
         "Rcpp",
         "reshape2",
         "S4Vectors",
@@ -62582,7 +62577,6 @@
         "GenomicRanges",
         "ModelMetrics",
         "e1071",
-        "PRROC",
         "pROC",
         "caret",
         "dbscan",
@@ -77078,7 +77072,6 @@
         "glmnet",
         "gridExtra",
         "pROC",
-        "PRROC",
         "scales",
         "stringr",
         "progress",
@@ -88478,7 +88471,6 @@
         "tokenizers",
         "webchem",
         "ttgsea",
-        "PRROC",
         "reticulate",
         "dplyr",
         "downloader",
@@ -99091,7 +99083,6 @@
         "selectr",
         "askpass"
     ],
-    "PRROC": [],
     "rcdklibs": [],
     "fingerprint": [],
     "text2vec": [
@@ -104620,8 +104611,7 @@
         "mlr3measures",
         "mlr3misc",
         "paradox",
-        "globals",
-        "PRROC"
+        "globals"
     ],
     "mlr3learners": [
         "mlr3",
@@ -104632,8 +104622,7 @@
         "future.apply",
         "lgr",
         "mlr3measures",
-        "globals",
-        "PRROC"
+        "globals"
     ],
     "mlr3tuning": [
         "mlr3",
@@ -104645,16 +104634,14 @@
         "future",
         "future.apply",
         "mlr3measures",
-        "globals",
-        "PRROC"
+        "globals"
     ],
     "paradox": [
         "checkmate",
         "mlr3misc"
     ],
     "mlr3measures": [
-        "checkmate",
-        "PRROC"
+        "checkmate"
     ],
     "mlr3misc": [
         "checkmate"
