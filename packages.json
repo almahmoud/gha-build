@@ -9127,7 +9127,6 @@
         "tidyr",
         "ggplot2",
         "RSQLite",
-        "phangorn",
         "tibble",
         "tidyselect",
         "pillar",
@@ -17530,7 +17529,6 @@
         "ggtree",
         "msa",
         "Biostrings",
-        "phangorn",
         "UpSetR",
         "XVector",
         "tibble",
@@ -18649,7 +18647,6 @@
         "ggridges",
         "AnnotationDbi",
         "cowplot",
-        "phangorn",
         "ggplot2",
         "RSQLite",
         "KEGGREST",
@@ -25016,7 +25013,6 @@
         "rematch2"
     ],
     "philr": [
-        "phangorn",
         "tidyr",
         "ggplot2",
         "ggtree",
@@ -29684,7 +29680,6 @@
     "sangeranalyseR": [
         "Biostrings",
         "DECIPHER",
-        "phangorn",
         "sangerseqR",
         "shiny",
         "shinydashboard",
@@ -34480,7 +34475,6 @@
     "tanggle": [
         "ggplot2",
         "ggtree",
-        "phangorn",
         "tibble",
         "aplot",
         "dplyr",
@@ -40286,7 +40280,6 @@
     ],
     "swamp": [],
     "bnstruct": [],
-    "phangorn": [],
     "DiffCorr": [
         "multtest"
     ],
