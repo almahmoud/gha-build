@@ -1192,7 +1192,6 @@
     "EWCE": [
         "ewceData",
         "orthogene",
-        "gprofiler2",
         "ggpubr",
         "ggtree",
         "rstatix",
@@ -1229,7 +1228,6 @@
         "gap"
     ],
     "famat": [
-        "gprofiler2",
         "clusterProfiler",
         "DOSE",
         "enrichplot",
@@ -1603,9 +1601,7 @@
         "logistf",
         "GenomicFeatures"
     ],
-    "GWENA": [
-        "gprofiler2"
-    ],
+    "GWENA": [],
     "HelloRanges": [
         "GenomicFeatures",
         "VariantAnnotation"
@@ -2502,8 +2498,7 @@
         "treeio"
     ],
     "netOmics": [
-        "RandomWalkRestartMH",
-        "gprofiler2"
+        "RandomWalkRestartMH"
     ],
     "NetSAM": [],
     "netSmooth": [
@@ -2635,7 +2630,6 @@
         "GenomicFeatures"
     ],
     "orthogene": [
-        "gprofiler2",
         "ggpubr",
         "ggtree",
         "rstatix",
@@ -2934,8 +2928,7 @@
     "Rbec": [],
     "RCAS": [
         "BSgenome.Hsapiens.UCSC.hg19",
-        "GenomicFeatures",
-        "gprofiler2"
+        "GenomicFeatures"
     ],
     "rCGH": [
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
@@ -4161,7 +4154,6 @@
     "EntropyExplorer": [],
     "EpiMix.data": [],
     "ewceData": [],
-    "gprofiler2": [],
     "gap": [],
     "fda": [],
     "SPARQL": [],
