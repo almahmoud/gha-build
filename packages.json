@@ -7550,7 +7550,6 @@
         "biomaRt",
         "ggridges",
         "cvms",
-        "MetBrewer",
         "ggpubr",
         "BiocFileCache",
         "recipes",
@@ -7608,7 +7607,6 @@
         "biomaRt",
         "ggridges",
         "cvms",
-        "MetBrewer",
         "ggpubr",
         "BiocFileCache",
         "recipes",
@@ -12236,7 +12234,6 @@
         "biomaRt",
         "ggridges",
         "cvms",
-        "MetBrewer",
         "ggpubr",
         "tidyr",
         "BiocFileCache",
@@ -14773,7 +14770,6 @@
         "testthat",
         "waldo"
     ],
-    "MetBrewer": [],
     "groupdata2": [
         "rearrr",
         "tidyr"
