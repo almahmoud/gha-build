@@ -20092,7 +20092,6 @@
     ],
     "mslp": [
         "org.Hs.eg.db",
-        "RankProd",
         "AnnotationDbi",
         "RSQLite",
         "KEGGREST",
@@ -23880,7 +23879,6 @@
         "ggrepel",
         "glmnet",
         "mixOmics",
-        "RankProd",
         "rmarkdown",
         "SummarizedExperiment",
         "tibble",
@@ -25328,7 +25326,6 @@
         "vroom",
         "progress"
     ],
-    "RankProd": [],
     "RAREsim": [
         "nloptr",
         "testthat",
@@ -32045,7 +32042,6 @@
         "ggplot2",
         "doBy",
         "dplyr",
-        "RankProd",
         "broom",
         "pbkrtest",
         "tibble",
@@ -33308,7 +33304,6 @@
     "tRanslatome": [
         "anota",
         "DESeq2",
-        "RankProd",
         "topGO",
         "org.Hs.eg.db",
         "GOSemSim",
