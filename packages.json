@@ -8099,7 +8099,6 @@
         "aplot",
         "tidytree",
         "treeio",
-        "hgu95a.db",
         "ggrastr",
         "M3Drop",
         "genefilter",
@@ -10254,8 +10253,7 @@
         "BiocFileCache"
     ],
     "GSVAdata": [
-        "GSEABase",
-        "hgu95a.db"
+        "GSEABase"
     ],
     "SoupX": [
         "Seurat",
@@ -10275,7 +10273,6 @@
         "ExperimentHub",
         "BiocFileCache"
     ],
-    "hgu95a.db": [],
     "sampSurf": [],
     "xROI": [
         "colourpicker"
