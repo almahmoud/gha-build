@@ -12862,7 +12862,6 @@
         "sf",
         "flextable",
         "rmarkdown",
-        "classInt",
         "bslib"
     ],
     "graper": [
@@ -14140,7 +14139,6 @@
         "hms",
         "GenomicRanges",
         "DelayedMatrixStats",
-        "classInt",
         "DropletUtils",
         "BiocFileCache",
         "tidyr",
@@ -15394,7 +15392,6 @@
         "scuttle",
         "tweenr",
         "nloptr",
-        "classInt",
         "blob",
         "testthat",
         "waldo",
@@ -15925,7 +15922,6 @@
         "shiny",
         "miniUI",
         "styler",
-        "classInt",
         "labelled",
         "haven",
         "lava",
@@ -20862,7 +20858,6 @@
         "shiny",
         "miniUI",
         "styler",
-        "classInt",
         "labelled",
         "haven",
         "bslib",
@@ -26962,7 +26957,6 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "tidyr",
-        "classInt",
         "spatstat.random"
     ],
     "scHOT": [
@@ -27443,7 +27437,6 @@
         "ggplotify",
         "tidytree",
         "treeio",
-        "classInt",
         "spatstat.random"
     ],
     "scTGIF": [
@@ -27490,7 +27483,6 @@
         "spatstat.explore",
         "Biostrings",
         "blob",
-        "classInt",
         "spatstat.random"
     ],
     "scTHI": [],
@@ -29096,7 +29088,6 @@
         "SpatialExperiment",
         "spdep",
         "SummarizedExperiment",
-        "classInt",
         "GenomicRanges",
         "DropletUtils",
         "BiocFileCache",
@@ -29295,7 +29286,6 @@
         "HDF5Array",
         "scuttle",
         "testthat",
-        "classInt",
         "blob",
         "waldo",
         "rematch2"
@@ -29903,7 +29893,6 @@
         "vroom",
         "progress",
         "rmarkdown",
-        "classInt",
         "bslib"
     ],
     "statTarget": [],
@@ -29953,7 +29942,6 @@
         "HDF5Array",
         "scuttle",
         "tidyr",
-        "classInt",
         "bslib",
         "spatstat.random",
         "blob"
@@ -30346,7 +30334,6 @@
         "vroom",
         "progress",
         "rmarkdown",
-        "classInt",
         "lwgeom",
         "nloptr",
         "bslib",
@@ -32573,7 +32560,6 @@
         "SummarizedExperiment",
         "BiocNeighbors",
         "tibble",
-        "classInt",
         "GenomicRanges",
         "DropletUtils",
         "BiocFileCache",
@@ -36018,13 +36004,9 @@
         "sf",
         "flextable",
         "rmarkdown",
-        "classInt",
         "bslib"
     ],
-    "sf": [
-        "classInt"
-    ],
-    "classInt": [],
+    "sf": [],
     "penalized": [],
     "fGarch": [],
     "ggwordcloud": [
@@ -36100,8 +36082,7 @@
         "dplyr",
         "tibble",
         "tidyselect",
-        "pillar",
-        "classInt"
+        "pillar"
     ],
     "Rlabkey": [],
     "golem": [
@@ -36265,7 +36246,6 @@
         "shiny",
         "miniUI",
         "styler",
-        "classInt",
         "labelled",
         "haven",
         "dplyr",
@@ -36285,7 +36265,6 @@
         "shiny",
         "miniUI",
         "styler",
-        "classInt",
         "labelled",
         "haven",
         "dplyr",
@@ -36304,7 +36283,6 @@
         "shiny",
         "miniUI",
         "styler",
-        "classInt",
         "labelled",
         "haven",
         "dplyr",
@@ -36817,7 +36795,6 @@
         "shiny",
         "miniUI",
         "styler",
-        "classInt",
         "labelled",
         "haven",
         "bslib",
@@ -37503,8 +37480,7 @@
     ],
     "sampSurf": [],
     "spdep": [
-        "sf",
-        "classInt"
+        "sf"
     ],
     "alphahull": [
         "ggplot2",
@@ -37613,7 +37589,6 @@
         "sftime",
         "spacetime",
         "stars",
-        "classInt",
         "lwgeom"
     ],
     "SpatialExtremes": [
@@ -37624,18 +37599,15 @@
         "pillar"
     ],
     "sftime": [
-        "sf",
-        "classInt"
+        "sf"
     ],
     "spacetime": [],
     "stars": [
         "sf",
-        "classInt",
         "lwgeom"
     ],
     "lwgeom": [
-        "sf",
-        "classInt"
+        "sf"
     ],
     "spsUtil": [],
     "spsComps": [
