@@ -10244,7 +10244,6 @@
         "tidyselect"
     ],
     "GeoDiff": [
-        "robust",
         "lme4",
         "testthat",
         "GeomxTools",
@@ -30498,7 +30497,6 @@
     "flextable": [
         "rmarkdown"
     ],
-    "robust": [],
     "shinyHeatmaply": [
         "heatmaply",
         "shiny",
