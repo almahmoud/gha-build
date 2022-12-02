@@ -31,7 +31,6 @@
         "DAPARdata"
     ],
     "diffcyt": [],
-    "ELMER": [],
     "enrichTF": [
         "JASPAR2018"
     ],
@@ -94,9 +93,7 @@
     "spaSim": [],
     "spikeLI": [],
     "survtype": [],
-    "TCGAbiolinksGUI": [
-        "ELMER"
-    ],
+    "TCGAbiolinksGUI": [],
     "TDARACNE": [
         "GenKern"
     ],
