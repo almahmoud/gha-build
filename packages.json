@@ -75,7 +75,6 @@
         "VariantAnnotation"
     ],
     "ATACCoGAPS": [
-        "chromVAR",
         "rGREAT",
         "Homo.sapiens",
         "Mus.musculus",
@@ -309,7 +308,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "ggtree"
     ],
-    "chromVAR": [],
     "cicero": [
         "Gviz",
         "biovizBase",
