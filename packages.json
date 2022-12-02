@@ -1117,7 +1117,6 @@
     "CytoML": [],
     "dada2": [],
     "dagLogo": [
-        "UniProt.ws",
         "biomaRt",
         "motifStack",
         "TFBSTools",
@@ -1385,7 +1384,6 @@
     "dpeak": [],
     "drawProteins": [],
     "drugTargetInteractions": [
-        "UniProt.ws",
         "biomaRt",
         "ensembldb",
         "GenomicFeatures"
@@ -5244,7 +5242,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "UniProt.ws": [],
     "Uniquorn": [
         "VariantAnnotation",
         "GenomicFeatures",
