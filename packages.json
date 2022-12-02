@@ -184,7 +184,6 @@
         "genefilter",
         "AnnotationDbi",
         "annotate",
-        "zoo",
         "sandwich",
         "Matrix",
         "ggplot2",
@@ -330,7 +329,6 @@
         "RcppEigen",
         "smoother",
         "dplyr",
-        "zoo",
         "BiocFileCache",
         "RSQLite",
         "AnnotationDbi",
@@ -2009,7 +2007,6 @@
         "RCurl",
         "XVector",
         "openssl",
-        "zoo",
         "gplots",
         "reshape2",
         "httpuv",
@@ -2392,7 +2389,6 @@
         "ropls",
         "SummarizedExperiment",
         "Matrix",
-        "zoo",
         "futile.logger",
         "lifecycle",
         "mgcv",
@@ -3940,8 +3936,7 @@
         "RcppAnnoy",
         "cachem",
         "systemfonts",
-        "textshaping",
-        "zoo"
+        "textshaping"
     ],
     "bayNorm": [
         "foreach",
@@ -4292,7 +4287,6 @@
         "viridis",
         "htmltools",
         "openssl",
-        "zoo",
         "MultiAssayExperiment",
         "decontam",
         "DECIPHER",
@@ -5585,7 +5579,6 @@
         "graph",
         "GO.db",
         "AnnotationDbi",
-        "zoo",
         "IRanges",
         "RSQLite",
         "KEGGREST",
@@ -6200,7 +6193,6 @@
         "RSQLite",
         "KEGGREST",
         "BiocParallel",
-        "zoo",
         "futile.logger",
         "openssl",
         "bit64",
@@ -6489,7 +6481,6 @@
         "vegan",
         "apcluster",
         "ggdendro",
-        "zoo",
         "Rtsne",
         "gmodels",
         "ggm",
@@ -7932,7 +7923,6 @@
         "knitr",
         "MatrixModels",
         "textshaping",
-        "zoo",
         "highr",
         "testthat",
         "callr",
@@ -8605,7 +8595,6 @@
         "RCurl",
         "XVector",
         "ragg",
-        "zoo",
         "htmltools",
         "htmlwidgets",
         "tidyr",
@@ -8685,7 +8674,6 @@
         "viridis",
         "htmltools",
         "spBayes",
-        "zoo",
         "mgcv",
         "pbkrtest",
         "quantreg",
@@ -8959,7 +8947,6 @@
         "shadowtext",
         "ggtree",
         "xts",
-        "zoo",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -9040,7 +9027,6 @@
         "RCurl",
         "XVector",
         "testthat",
-        "zoo",
         "ALL",
         "scales",
         "tweenr",
@@ -9308,7 +9294,6 @@
         "scales",
         "rtracklayer",
         "xts",
-        "zoo",
         "TTR",
         "futile.logger",
         "Matrix",
@@ -9800,7 +9785,6 @@
         "openssl",
         "highr",
         "cachem",
-        "zoo",
         "MatrixGenerics",
         "DelayedArray",
         "pillar",
@@ -12477,7 +12461,6 @@
         "fBasics",
         "statip",
         "future.apply",
-        "zoo",
         "future",
         "globals",
         "Matrix",
@@ -12873,7 +12856,6 @@
         "raster",
         "readbitmap",
         "reshape2",
-        "zoo",
         "sandwich",
         "rms",
         "htmltools",
@@ -14547,7 +14529,6 @@
         "Matrix",
         "mgcv",
         "rlist",
-        "zoo",
         "broom",
         "xts",
         "quantmod",
@@ -15000,7 +14981,6 @@
         "survival",
         "TH.data",
         "sandwich",
-        "zoo",
         "ALL",
         "viridis",
         "car",
@@ -15065,7 +15045,6 @@
         "ggpubr",
         "mgcv",
         "lme4",
-        "zoo",
         "sandwich",
         "ellipsis",
         "purrr",
@@ -15495,7 +15474,6 @@
         "htmlwidgets",
         "purrr",
         "rlist",
-        "zoo",
         "dplyr",
         "tibble",
         "broom",
@@ -15703,7 +15681,6 @@
         "vegan",
         "apcluster",
         "ggdendro",
-        "zoo",
         "Rtsne",
         "gmodels",
         "multtest",
@@ -15828,7 +15805,6 @@
         "Matrix",
         "futile.logger",
         "xts",
-        "zoo",
         "quantmod",
         "dplyr",
         "readr",
@@ -16299,7 +16275,6 @@
         "MatrixExtra",
         "ggplot2",
         "mgcv",
-        "zoo",
         "bit64",
         "progress"
     ],
@@ -16617,7 +16592,6 @@
         "fBasics",
         "reshape",
         "scales",
-        "zoo",
         "lifecycle",
         "mgcv",
         "tibble",
@@ -16769,8 +16743,7 @@
         "gmm",
         "bit64",
         "progress",
-        "sandwich",
-        "zoo"
+        "sandwich"
     ],
     "DepecheR": [
         "ggplot2",
@@ -17065,8 +17038,7 @@
         "futile.logger",
         "survival",
         "miscTools",
-        "sandwich",
-        "zoo"
+        "sandwich"
     ],
     "destiny": [
         "Matrix",
@@ -17111,7 +17083,6 @@
         "RCurl",
         "XVector",
         "xts",
-        "zoo",
         "lmtest",
         "nloptr",
         "broom",
@@ -17306,7 +17277,6 @@
     ],
     "DFP": [],
     "DIAlignR": [
-        "zoo",
         "dplyr",
         "tidyr",
         "mzR",
@@ -17493,7 +17463,6 @@
         "ggsignif",
         "rstatix",
         "testthat",
-        "zoo",
         "broom",
         "car",
         "callr",
@@ -17709,7 +17678,6 @@
         "mgcv",
         "vctrs",
         "openssl",
-        "zoo",
         "htmltools",
         "htmlwidgets",
         "tidyr",
@@ -17978,8 +17946,7 @@
         "restfulr",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-        "zoo"
+        "DelayedArray"
     ],
     "DMRcaller": [
         "GenomicRanges",
@@ -17990,8 +17957,7 @@
         "sandwich",
         "GenomeInfoDb",
         "XVector",
-        "RCurl",
-        "zoo"
+        "RCurl"
     ],
     "DMRcate": [
         "ExperimentHub",
@@ -18426,7 +18392,6 @@
         "dplyr",
         "knitr",
         "MatrixModels",
-        "zoo",
         "purrr",
         "tidyr",
         "tidyselect",
@@ -18712,7 +18677,6 @@
         "restfulr"
     ],
     "dStruct": [
-        "zoo",
         "ggplot2",
         "purrr",
         "reshape2",
@@ -18839,7 +18803,6 @@
         "bit64",
         "blob",
         "memoise",
-        "zoo",
         "htmltools",
         "htmlwidgets",
         "crosstalk",
@@ -19242,7 +19205,6 @@
     "EGAD": [
         "gplots",
         "GEOquery",
-        "zoo",
         "igraph",
         "RCurl",
         "readr",
@@ -19349,8 +19311,7 @@
         "TH.data",
         "sandwich",
         "quantreg",
-        "MatrixModels",
-        "zoo"
+        "MatrixModels"
     ],
     "eiR": [
         "ChemmineR",
@@ -20519,7 +20480,6 @@
         "vegan",
         "apcluster",
         "ggdendro",
-        "zoo",
         "Rtsne",
         "gmodels",
         "lmtest",
@@ -22071,7 +22031,6 @@
     ],
     "fCI": [
         "psych",
-        "zoo",
         "rgl",
         "VennDiagram",
         "htmlwidgets",
@@ -22310,7 +22269,6 @@
         "genefilter",
         "illuminaio",
         "xts",
-        "zoo",
         "httr",
         "KEGGREST",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -22674,7 +22632,6 @@
         "reshape2",
         "scales",
         "rmarkdown",
-        "zoo",
         "lifecycle",
         "mgcv",
         "tibble",
@@ -22765,8 +22722,7 @@
     ],
     "flowClean": [
         "flowCore",
-        "changepoint",
-        "zoo"
+        "changepoint"
     ],
     "flowClust": [
         "graph",
@@ -23051,7 +23007,6 @@
         "BiocParallel",
         "reshape2",
         "flowCore",
-        "zoo",
         "futile.logger",
         "lifecycle",
         "mgcv",
@@ -23248,7 +23203,6 @@
         "memoise",
         "cachem",
         "lava",
-        "zoo",
         "future.apply",
         "future",
         "globals"
@@ -24107,7 +24061,6 @@
         "MatrixGenerics",
         "DelayedArray",
         "knitr",
-        "zoo",
         "km.ci",
         "ggfun",
         "ggplotify",
@@ -24284,7 +24237,6 @@
         "hms",
         "broom",
         "car",
-        "zoo",
         "ellipsis",
         "pbkrtest",
         "quantreg",
@@ -24587,7 +24539,6 @@
         "quantsmooth",
         "Biostrings",
         "RCurl",
-        "zoo",
         "mice",
         "mgcv",
         "formula.tools",
@@ -25478,7 +25429,6 @@
         "selectr",
         "ggplot2",
         "mgcv",
-        "zoo",
         "bit64",
         "progress"
     ],
@@ -26217,7 +26167,6 @@
         "GSEABase",
         "HH",
         "latticeExtra",
-        "zoo",
         "AnnotationDbi",
         "annotate",
         "survival",
@@ -26398,7 +26347,6 @@
         "rstatix",
         "gridtext",
         "knitr",
-        "zoo",
         "km.ci",
         "bit64",
         "blob",
@@ -26719,7 +26667,6 @@
         "KEGGREST",
         "GenomeInfoDb",
         "XVector",
-        "zoo",
         "RCurl",
         "httr",
         "Biostrings",
@@ -27188,7 +27135,6 @@
         "survival",
         "sf",
         "lubridate",
-        "zoo",
         "flextable",
         "mgcv",
         "ellipsis",
@@ -27337,7 +27283,6 @@
         "broom",
         "knitr",
         "MatrixModels",
-        "zoo",
         "highr",
         "testthat",
         "callr",
@@ -28001,7 +27946,6 @@
         "lmtest",
         "logistf",
         "quantsmooth",
-        "zoo",
         "mice",
         "mgcv",
         "formula.tools",
@@ -28053,7 +27997,6 @@
         "RCurl",
         "BiocIO",
         "biomaRt",
-        "zoo",
         "mice",
         "mgcv",
         "formula.tools",
@@ -28830,7 +28773,6 @@
         "jquerylib",
         "Biostrings",
         "cachem",
-        "zoo",
         "fontawesome",
         "bslib",
         "sass"
@@ -29348,7 +29290,6 @@
         "GeneSelectMMD",
         "rgl",
         "lmtest",
-        "zoo",
         "methylumi",
         "GenomicFeatures",
         "GenomicRanges",
@@ -30214,7 +30155,6 @@
         "RCurl",
         "XVector",
         "openssl",
-        "zoo",
         "htmltools",
         "TH.data",
         "sandwich",
@@ -30880,7 +30820,6 @@
         "gridtext",
         "car",
         "knitr",
-        "zoo",
         "km.ci",
         "pbkrtest",
         "quantreg",
@@ -31104,7 +31043,6 @@
         "ragg",
         "openssl",
         "Biostrings",
-        "zoo",
         "miscTools",
         "sandwich",
         "htmltools",
@@ -31766,7 +31704,6 @@
         "gridtext",
         "openssl",
         "knitr",
-        "zoo",
         "km.ci",
         "markdown",
         "highr",
@@ -31893,7 +31830,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "zoo",
         "lifecycle",
         "tidyselect",
         "vctrs",
@@ -32310,8 +32246,7 @@
         "XVector",
         "TH.data",
         "sandwich",
-        "pillar",
-        "zoo"
+        "pillar"
     ],
     "les": [
         "gplots"
@@ -32498,7 +32433,6 @@
         "ggplot2",
         "igraph",
         "ggdendro",
-        "zoo",
         "Rtsne",
         "gmodels",
         "Matrix",
@@ -32602,8 +32536,7 @@
         "promises",
         "gmm",
         "sandwich",
-        "openssl",
-        "zoo"
+        "openssl"
     ],
     "LiquidAssociation": [
         "geepack",
@@ -34142,8 +34075,7 @@
         "here",
         "RcppEigen",
         "gmm",
-        "sandwich",
-        "zoo"
+        "sandwich"
     ],
     "MatrixRider": [
         "TFBSTools",
@@ -34374,7 +34306,6 @@
         "foreach",
         "XVector",
         "GenomeInfoDb",
-        "zoo",
         "mice",
         "mgcv",
         "formula.tools",
@@ -34860,7 +34791,6 @@
         "dplyr",
         "knitr",
         "MatrixModels",
-        "zoo",
         "ellipsis",
         "purrr",
         "tibble",
@@ -35798,7 +35728,6 @@
         "survcomp",
         "VennDiagram",
         "vsn",
-        "zoo",
         "futile.logger",
         "AnnotationDbi",
         "progress",
@@ -35986,8 +35915,7 @@
         "TH.data",
         "sandwich",
         "quantreg",
-        "MatrixModels",
-        "zoo"
+        "MatrixModels"
     ],
     "MetCirc": [
         "scales",
@@ -36444,7 +36372,6 @@
         "HDF5Array",
         "BiocParallel",
         "xts",
-        "zoo",
         "broom",
         "dbplyr",
         "dtplyr",
@@ -37386,8 +37313,7 @@
         "RcppEigen",
         "sandwich",
         "pillar",
-        "RCurl",
-        "zoo"
+        "RCurl"
     ],
     "microbiomeExplorer": [
         "shiny",
@@ -37615,7 +37541,6 @@
         "interp",
         "cellranger",
         "progress",
-        "zoo",
         "beachmat",
         "BiocNeighbors",
         "BiocSingular",
@@ -37743,7 +37668,6 @@
         "Biostrings",
         "ggrepel",
         "vegan",
-        "zoo",
         "ggtree",
         "tidytree",
         "tibble",
@@ -38387,7 +38311,6 @@
         "lmtest",
         "dbplyr",
         "Biostrings",
-        "zoo",
         "libcoin",
         "inum",
         "bit64",
@@ -39307,7 +39230,6 @@
         "apcluster",
         "igraph",
         "ggdendro",
-        "zoo",
         "Rtsne",
         "gmodels",
         "Matrix",
@@ -39321,7 +39243,6 @@
         "viridis",
         "edgeR",
         "reshape2",
-        "zoo",
         "ClusterR",
         "ggplot2",
         "lifecycle",
@@ -39580,7 +39501,6 @@
         "DirichletMultinomial",
         "RSQLite",
         "TFMPvalue",
-        "zoo",
         "GenomicAlignments",
         "readr",
         "reshape2",
@@ -39765,7 +39685,6 @@
         "pillar"
     ],
     "MOSim": [
-        "zoo",
         "dplyr",
         "purrr",
         "scales",
@@ -40575,7 +40494,6 @@
         "RSQLite",
         "KEGGREST",
         "nloptr",
-        "zoo",
         "broom",
         "knitr",
         "MatrixModels",
@@ -41319,8 +41237,7 @@
         "sandwich",
         "quantreg",
         "RCurl",
-        "MatrixModels",
-        "zoo"
+        "MatrixModels"
     ],
     "multiHiCcompare": [
         "dplyr",
@@ -41546,7 +41463,6 @@
         "lava",
         "MatrixModels",
         "textshaping",
-        "zoo",
         "rematch2",
         "future.apply",
         "future",
@@ -42204,7 +42120,6 @@
         "cachem",
         "hms",
         "MatrixModels",
-        "zoo",
         "crosstalk",
         "jquerylib",
         "promises",
@@ -42681,7 +42596,6 @@
         "RCurl",
         "XVector",
         "openssl",
-        "zoo",
         "htmltools",
         "htmlwidgets",
         "tidyr",
@@ -42739,7 +42653,6 @@
         "vegan",
         "apcluster",
         "ggdendro",
-        "zoo",
         "Rtsne",
         "gmodels",
         "RBGL",
@@ -43365,7 +43278,6 @@
         "scales",
         "tidyr",
         "tidyselect",
-        "zoo",
         "IRanges",
         "XVector",
         "GenomeInfoDb",
@@ -43577,7 +43489,6 @@
         "MatrixModels",
         "cellranger",
         "progress",
-        "zoo",
         "pillar",
         "ellipsis",
         "purrr",
@@ -44383,12 +44294,10 @@
         "processx",
         "waldo",
         "cachem",
-        "zoo",
         "rematch2"
     ],
     "OmicsLonDA": [
         "SummarizedExperiment",
-        "zoo",
         "ggplot2",
         "BiocParallel",
         "futile.logger",
@@ -44458,7 +44367,6 @@
         "DelayedArray",
         "qpdf",
         "xts",
-        "zoo",
         "htmlwidgets",
         "bslib",
         "jquerylib",
@@ -44604,7 +44512,6 @@
         "rstatix",
         "gridtext",
         "knitr",
-        "zoo",
         "km.ci",
         "markdown",
         "highr",
@@ -45900,7 +45807,6 @@
         "RcppEigen",
         "cachem",
         "MatrixModels",
-        "zoo",
         "RCurl"
     ],
     "panp": [
@@ -46451,7 +46357,6 @@
         "bslib",
         "cachem",
         "knitr",
-        "zoo",
         "km.ci",
         "lmtest",
         "RSQLite",
@@ -46698,7 +46603,6 @@
         "sn",
         "ggplot2",
         "phyloseq",
-        "zoo",
         "psych",
         "Matrix",
         "fitdistrplus",
@@ -46734,7 +46638,6 @@
         "BiocParallel",
         "rtracklayer",
         "GenomeInfoDb",
-        "zoo",
         "ggplot2",
         "cowplot",
         "futile.logger",
@@ -47267,7 +47170,6 @@
         "shinyFiles",
         "shinyjs",
         "OmaDB",
-        "zoo",
         "bookdown",
         "knitr",
         "rmarkdown",
@@ -47703,7 +47605,6 @@
         "XVector",
         "ragg",
         "openssl",
-        "zoo",
         "htmltools",
         "htmlwidgets",
         "tidyr",
@@ -48609,7 +48510,6 @@
         "lmtest",
         "tseries",
         "urca",
-        "zoo",
         "survival",
         "latticeExtra",
         "htmlTable",
@@ -49316,7 +49216,6 @@
         "vctrs",
         "purrr",
         "rlist",
-        "zoo",
         "dplyr",
         "broom",
         "xts",
@@ -49623,7 +49522,6 @@
         "mgcv",
         "scales",
         "rlist",
-        "zoo",
         "broom",
         "xts",
         "quantmod",
@@ -50232,7 +50130,6 @@
         "tidyselect",
         "openssl",
         "nloptr",
-        "zoo",
         "broom",
         "knitr",
         "MatrixModels",
@@ -50407,7 +50304,6 @@
         "Rsamtools",
         "IRanges",
         "GenomeInfoDb",
-        "zoo",
         "BiocParallel",
         "futile.logger",
         "XVector",
@@ -51436,7 +51332,6 @@
         "igraph",
         "multtest",
         "vegan",
-        "zoo",
         "quantmod",
         "Matrix",
         "rhdf5",
@@ -52847,7 +52742,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "zoo",
         "rematch2"
     ],
     "rfaRm": [
@@ -54609,7 +54503,6 @@
         "graph",
         "KEGGREST",
         "xts",
-        "zoo",
         "Matrix",
         "RcppTOML",
         "here",
@@ -55196,7 +55089,6 @@
         "TH.data",
         "sandwich",
         "testthat",
-        "zoo",
         "callr",
         "pkgload",
         "processx",
@@ -55382,7 +55274,6 @@
         "rstatix",
         "gridtext",
         "openssl",
-        "zoo",
         "km.ci",
         "markdown",
         "car",
@@ -56194,7 +56085,6 @@
         "GenomeInfoDb",
         "XVector",
         "openssl",
-        "zoo",
         "htmltools",
         "htmlwidgets",
         "tidyr",
@@ -56428,7 +56318,6 @@
         "XVector",
         "openssl",
         "DT",
-        "zoo",
         "htmltools",
         "htmlwidgets",
         "tidyr",
@@ -56662,7 +56551,6 @@
         "RCurl",
         "XVector",
         "openssl",
-        "zoo",
         "htmltools",
         "htmlwidgets",
         "tidyr",
@@ -56746,7 +56634,6 @@
         "pillar",
         "survival",
         "openssl",
-        "zoo",
         "htmltools",
         "htmlwidgets",
         "crosstalk",
@@ -56830,7 +56717,6 @@
         "mgcv",
         "vctrs",
         "openssl",
-        "zoo",
         "htmltools",
         "htmlwidgets",
         "tidyr",
@@ -57011,7 +56897,6 @@
         "globals",
         "GenomeInfoDb",
         "XVector",
-        "zoo",
         "htmltools",
         "htmlwidgets",
         "tidyr",
@@ -57367,7 +57252,6 @@
         "GenomeInfoDb",
         "XVector",
         "openssl",
-        "zoo",
         "htmlwidgets",
         "tidyr",
         "crosstalk",
@@ -57500,7 +57384,6 @@
         "survival",
         "globals",
         "openssl",
-        "zoo",
         "htmltools",
         "htmlwidgets",
         "tidyr",
@@ -58431,7 +58314,6 @@
         "ape",
         "tidytree",
         "treeio",
-        "zoo",
         "RcppTOML",
         "here",
         "gplots",
@@ -58537,7 +58419,6 @@
         "survival",
         "globals",
         "Biostrings",
-        "zoo",
         "RcppTOML",
         "here",
         "gplots",
@@ -58656,7 +58537,6 @@
         "systemfonts",
         "ragg",
         "promises",
-        "zoo",
         "htmltools",
         "graph",
         "RBGL",
@@ -60026,7 +59906,6 @@
         "bit64",
         "car",
         "DelayedArray",
-        "zoo",
         "km.ci",
         "callr",
         "pkgload",
@@ -60136,7 +60015,6 @@
         "GenomicAlignments",
         "restfulr",
         "knitr",
-        "zoo",
         "km.ci",
         "e1071",
         "progress",
@@ -60723,7 +60601,6 @@
         "org.Hs.eg.db",
         "openssl",
         "highr",
-        "zoo",
         "bbmle",
         "reldist",
         "Hmisc",
@@ -60881,7 +60758,6 @@
         "GSVA",
         "changepoint",
         "ggplot2",
-        "zoo",
         "AnnotationDbi",
         "annotate",
         "survival",
@@ -61210,7 +61086,6 @@
         "genefilter",
         "AnnotationDbi",
         "annotate",
-        "zoo",
         "sandwich",
         "Matrix",
         "ggplot2",
@@ -61578,7 +61453,6 @@
         "XVector",
         "ragg",
         "openssl",
-        "zoo",
         "htmlwidgets",
         "tidyr",
         "crosstalk",
@@ -61655,8 +61529,7 @@
         "gmm",
         "sandwich",
         "MatrixModels",
-        "survival",
-        "zoo"
+        "survival"
     ],
     "sparseMatrixStats": [
         "MatrixGenerics",
@@ -62943,7 +62816,6 @@
         "RCurl",
         "XVector",
         "openssl",
-        "zoo",
         "htmltools",
         "htmlwidgets",
         "tidyr",
@@ -63821,7 +63693,6 @@
         "RCurl",
         "XVector",
         "openssl",
-        "zoo",
         "htmltools",
         "htmlwidgets",
         "tidyr",
@@ -64319,7 +64190,6 @@
         "rstatix",
         "gridtext",
         "knitr",
-        "zoo",
         "km.ci",
         "markdown",
         "highr",
@@ -64603,7 +64473,6 @@
         "systemfonts",
         "RcppEigen",
         "mgcv",
-        "zoo",
         "sf",
         "sftime",
         "spacetime",
@@ -66122,8 +65991,7 @@
         "MatrixGenerics",
         "IRanges",
         "nanotime",
-        "bit64",
-        "zoo"
+        "bit64"
     ],
     "tilingArray": [
         "strucchange",
@@ -66133,7 +66001,6 @@
         "AnnotationDbi",
         "annotate",
         "survival",
-        "zoo",
         "sandwich",
         "ggplot2",
         "httr",
@@ -66176,7 +66043,6 @@
         "pillar",
         "mgcv",
         "scales",
-        "zoo",
         "igraph",
         "reshape2",
         "rARPACK",
@@ -66503,7 +66369,6 @@
         "globals"
     ],
     "TMixClust": [
-        "zoo",
         "BiocParallel",
         "flexclust",
         "SPEM",
@@ -67385,7 +67250,6 @@
         "GenomeInfoDb",
         "XVector",
         "testthat",
-        "zoo",
         "ALL",
         "RCurl",
         "tweenr",
@@ -67947,7 +67811,6 @@
         "tfautograph",
         "ggplot2",
         "mgcv",
-        "zoo",
         "bit64",
         "progress"
     ],
@@ -68196,7 +68059,6 @@
         "scales",
         "GenomicRanges",
         "ShortRead",
-        "zoo",
         "ggplot2",
         "reshape2",
         "regioneR",
@@ -68575,8 +68437,7 @@
         "bit64",
         "progress",
         "syuzhet",
-        "MatrixExtra",
-        "zoo"
+        "MatrixExtra"
     ],
     "VanillaICE": [
         "GenomicRanges",
@@ -69275,7 +69136,6 @@
         "bit64",
         "blob",
         "memoise",
-        "zoo",
         "XVector",
         "GenomeInfoDb",
         "htmltools",
@@ -69356,7 +69216,6 @@
         "cowplot",
         "GenomeInfoDb",
         "GenomicAlignments",
-        "zoo",
         "Rsamtools",
         "reshape2",
         "scales",
@@ -69490,7 +69349,6 @@
     "vulcan": [
         "ChIPpeakAnno",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "zoo",
         "GenomicRanges",
         "viper",
         "DiffBind",
@@ -70716,13 +70574,9 @@
     ],
     "globals": [],
     "strucchange": [
-        "zoo",
         "sandwich"
     ],
-    "zoo": [],
-    "sandwich": [
-        "zoo"
-    ],
+    "sandwich": [],
     "DT": [
         "htmltools",
         "htmlwidgets",
@@ -71051,14 +70905,12 @@
     ],
     "smoother": [
         "TTR",
-        "xts",
-        "zoo"
+        "xts"
     ],
     "flexmix": [],
     "selectr": [],
     "TTR": [
-        "xts",
-        "zoo"
+        "xts"
     ],
     "dbplyr": [
         "blob",
@@ -71070,9 +70922,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "xts": [
-        "zoo"
-    ],
+    "xts": [],
     "DrImpute": [],
     "rsvd": [
         "Matrix"
@@ -71810,7 +71660,6 @@
         "mgcv",
         "vctrs",
         "openssl",
-        "zoo",
         "htmltools",
         "htmlwidgets",
         "tidyr",
@@ -71895,9 +71744,7 @@
         "RcppTOML",
         "here"
     ],
-    "lmtest": [
-        "zoo"
-    ],
+    "lmtest": [],
     "patchwork": [
         "ggplot2",
         "lifecycle",
@@ -73184,14 +73031,12 @@
     "DirichletReg": [
         "maxLik",
         "miscTools",
-        "sandwich",
-        "zoo"
+        "sandwich"
     ],
     "RcppDist": [],
     "maxLik": [
         "miscTools",
-        "sandwich",
-        "zoo"
+        "sandwich"
     ],
     "miscTools": [],
     "rjags": [],
@@ -73744,7 +73589,6 @@
         "MatrixModels",
         "highr",
         "interp",
-        "zoo",
         "pillar",
         "RcppEigen"
     ],
@@ -73762,9 +73606,7 @@
         "Matrix",
         "RcppEigen"
     ],
-    "vioplot": [
-        "zoo"
-    ],
+    "vioplot": [],
     "imager": [
         "readbitmap",
         "purrr",
@@ -73777,7 +73619,6 @@
         "survival",
         "TH.data",
         "sandwich",
-        "zoo",
         "Matrix"
     ],
     "TH.data": [
@@ -74075,8 +73916,7 @@
     "betareg": [
         "flexmix",
         "lmtest",
-        "sandwich",
-        "zoo"
+        "sandwich"
     ],
     "pasilla": [
         "DEXSeq",
@@ -74187,8 +74027,7 @@
         "ggm",
         "vcd",
         "Matrix",
-        "lmtest",
-        "zoo"
+        "lmtest"
     ],
     "gmodels": [
         "gdata"
@@ -74199,8 +74038,7 @@
         "Matrix"
     ],
     "vcd": [
-        "lmtest",
-        "zoo"
+        "lmtest"
     ],
     "gamlss": [
         "survival",
@@ -74483,7 +74321,6 @@
         "dplyr",
         "knitr",
         "MatrixModels",
-        "zoo",
         "ellipsis",
         "purrr",
         "tibble",
@@ -74654,7 +74491,6 @@
         "pillar",
         "mgcv",
         "xts",
-        "zoo",
         "Matrix",
         "MatrixModels",
         "survival"
@@ -74665,7 +74501,6 @@
         "tibble",
         "dplyr",
         "xts",
-        "zoo",
         "lubridate",
         "lifecycle",
         "tidyselect",
@@ -74726,7 +74561,6 @@
     ],
     "quantmod": [
         "xts",
-        "zoo",
         "TTR"
     ],
     "ChAMPdata": [
@@ -75773,9 +75607,7 @@
         "spatstat.sparse",
         "mgcv"
     ],
-    "changepoint": [
-        "zoo"
-    ],
+    "changepoint": [],
     "contrast": [
         "sandwich",
         "rms",
@@ -75786,7 +75618,6 @@
         "multcomp",
         "htmlTable",
         "htmltools",
-        "zoo",
         "lifecycle",
         "mgcv",
         "scales",
@@ -76115,7 +75946,6 @@
         "htmlwidgets",
         "purrr",
         "rlist",
-        "zoo",
         "dplyr",
         "tibble",
         "broom",
@@ -76373,8 +76203,7 @@
         "TH.data",
         "sandwich",
         "quantreg",
-        "MatrixModels",
-        "zoo"
+        "MatrixModels"
     ],
     "harmonicmeanp": [],
     "TFisher": [
@@ -76390,7 +76219,6 @@
         "survival",
         "TH.data",
         "sandwich",
-        "zoo",
         "Matrix"
     ],
     "qqconf": [],
@@ -76402,7 +76230,6 @@
     ],
     "DMwR2": [
         "xts",
-        "zoo",
         "quantmod",
         "dplyr",
         "readr",
@@ -76490,7 +76317,6 @@
         "pillar",
         "Matrix",
         "syuzhet",
-        "zoo",
         "tidyr",
         "ellipsis",
         "purrr"
@@ -76513,7 +76339,6 @@
     "lexicon": [
         "syuzhet",
         "textshape",
-        "zoo",
         "dplyr",
         "tidyr",
         "lifecycle",
@@ -76531,7 +76356,6 @@
         "lexicon",
         "textshape",
         "syuzhet",
-        "zoo",
         "dplyr",
         "tidyr",
         "lifecycle",
@@ -76545,7 +76369,6 @@
     "textshape": [],
     "syuzhet": [
         "textshape",
-        "zoo",
         "dplyr",
         "tidyr",
         "lifecycle",
@@ -76560,7 +76383,6 @@
         "Matrix"
     ],
     "tseries": [
-        "zoo",
         "quantmod",
         "xts",
         "TTR"
@@ -76570,18 +76392,15 @@
         "pcaMethods",
         "Matrix",
         "gmm",
-        "sandwich",
-        "zoo"
+        "sandwich"
     ],
     "tmvtnorm": [
         "Matrix",
         "gmm",
-        "sandwich",
-        "zoo"
+        "sandwich"
     ],
     "gmm": [
-        "sandwich",
-        "zoo"
+        "sandwich"
     ],
     "ggplot.multistats": [
         "scales",
@@ -76609,7 +76428,6 @@
         "RcppEigen",
         "lmtest",
         "nloptr",
-        "zoo",
         "broom",
         "dplyr",
         "knitr",
@@ -76772,8 +76590,7 @@
         "multcomp",
         "TH.data",
         "sandwich",
-        "Matrix",
-        "zoo"
+        "Matrix"
     ],
     "libcoin": [],
     "wordcloud": [],
@@ -77194,7 +77011,6 @@
         "gridtext",
         "Matrix",
         "knitr",
-        "zoo",
         "km.ci",
         "markdown",
         "highr",
@@ -77216,7 +77032,6 @@
         "survival",
         "knitr",
         "ggplot2",
-        "zoo",
         "km.ci",
         "lifecycle",
         "mgcv",
@@ -77450,7 +77265,6 @@
         "knitr",
         "htmlwidgets",
         "RcppEigen",
-        "zoo",
         "Matrix",
         "highr",
         "pillar"
@@ -77484,7 +77298,6 @@
         "survival",
         "sf",
         "lubridate",
-        "zoo",
         "flextable",
         "rmarkdown",
         "knitr",
@@ -77853,7 +77666,6 @@
     ],
     "changepoint.np": [
         "changepoint",
-        "zoo",
         "Rdpack"
     ],
     "hgu95av2.db": [
@@ -78561,8 +78373,7 @@
         "DelayedArray"
     ],
     "PerformanceAnalytics": [
-        "xts",
-        "zoo"
+        "xts"
     ],
     "rebus": [
         "rebus.datetimes"
@@ -79212,7 +79023,6 @@
         "htmltools",
         "cellranger",
         "progress",
-        "zoo",
         "ellipsis",
         "knitr",
         "htmlwidgets",
@@ -79559,8 +79369,7 @@
     "reportROC": [
         "pROC",
         "vcd",
-        "lmtest",
-        "zoo"
+        "lmtest"
     ],
     "verification": [
         "fields",
@@ -79796,7 +79605,6 @@
         "lmtest",
         "tseries",
         "urca",
-        "zoo",
         "lifecycle",
         "mgcv",
         "scales",
@@ -80659,7 +80467,6 @@
         "rstatix",
         "gridtext",
         "knitr",
-        "zoo",
         "km.ci",
         "markdown",
         "highr",
@@ -80830,7 +80637,6 @@
         "survival",
         "globals",
         "openssl",
-        "zoo",
         "htmltools",
         "htmlwidgets",
         "tidyr",
@@ -81224,7 +81030,6 @@
         "pcaPP"
     ],
     "gstat": [
-        "zoo",
         "sf",
         "sftime",
         "spacetime",
@@ -81254,7 +81059,6 @@
         "e1071"
     ],
     "spacetime": [
-        "zoo",
         "xts"
     ],
     "stars": [
@@ -81322,12 +81126,10 @@
     ],
     "tiledb": [
         "nanotime",
-        "bit64",
-        "zoo"
+        "bit64"
     ],
     "nanotime": [
-        "bit64",
-        "zoo"
+        "bit64"
     ],
     "FreqProf": [
         "reshape2",
