@@ -76,7 +76,6 @@
         "derfinder",
         "derfinderPlot",
         "GenomicState",
-        "GenomicFiles",
         "ggbio"
     ],
     "BubbleTree": [],
@@ -84,7 +83,6 @@
         "ggbio"
     ],
     "CAGEfightR": [
-        "GenomicFiles",
         "Gviz",
         "GenomicInteractions"
     ],
@@ -185,9 +183,7 @@
         "rstatix"
     ],
     "consensusDE": [],
-    "contiBAIT": [
-        "GenomicFiles"
-    ],
+    "contiBAIT": [],
     "conumee": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
@@ -252,13 +248,10 @@
     "DeepPINCS": [
         "ttgsea"
     ],
-    "derfinder": [
-        "GenomicFiles"
-    ],
+    "derfinder": [],
     "derfinderPlot": [
         "derfinder",
-        "ggbio",
-        "GenomicFiles"
+        "ggbio"
     ],
     "destiny": [
         "VIM",
@@ -338,9 +331,7 @@
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
     ],
     "epivizrStandalone": [],
-    "erma": [
-        "GenomicFiles"
-    ],
+    "erma": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
@@ -427,7 +418,6 @@
     "GeneStructureTools": [
         "Gviz"
     ],
-    "GenomicFiles": [],
     "GenomicInteractions": [
         "Gviz"
     ],
@@ -774,7 +764,6 @@
         "dasper",
         "derfinder",
         "ggpubr",
-        "GenomicFiles",
         "rstatix",
         "car"
     ],
@@ -875,8 +864,7 @@
     ],
     "psichomics": [
         "recount",
-        "derfinder",
-        "GenomicFiles"
+        "derfinder"
     ],
     "ptairMS": [
         "ggpubr",
@@ -892,9 +880,7 @@
     ],
     "qrqc": [],
     "quantro": [],
-    "QuasR": [
-        "GenomicFiles"
-    ],
+    "QuasR": [],
     "R3CPET": [
         "ggbio"
     ],
@@ -902,16 +888,14 @@
     "rCGH": [],
     "ReactomePA": [],
     "recount": [
-        "derfinder",
-        "GenomicFiles"
+        "derfinder"
     ],
     "recountmethylation": [
         "IlluminaHumanMethylation450kmanifest"
     ],
     "REDseq": [],
     "regionReport": [
-        "derfinder",
-        "GenomicFiles"
+        "derfinder"
     ],
     "regutools": [
         "Gviz"
@@ -937,8 +921,7 @@
     ],
     "RNAAgeCalc": [
         "recount",
-        "derfinder",
-        "GenomicFiles"
+        "derfinder"
     ],
     "RNAmodR": [
         "Gviz"
@@ -968,15 +951,12 @@
         "ggpubr",
         "rstatix",
         "derfinder",
-        "GenomicFiles",
         "car"
     ],
     "RnBeads": [
         "methylumi"
     ],
-    "Rqc": [
-        "GenomicFiles"
-    ],
+    "Rqc": [],
     "rqt": [
         "car"
     ],
@@ -1042,8 +1022,7 @@
     ],
     "singleCellTK": [],
     "SingleMoleculeFootprinting": [
-        "QuasR",
-        "GenomicFiles"
+        "QuasR"
     ],
     "sitePath": [],
     "skewr": [
@@ -1162,9 +1141,7 @@
     "VariantFiltering": [
         "Gviz"
     ],
-    "VCFArray": [
-        "GenomicFiles"
-    ],
+    "VCFArray": [],
     "vissE": [],
     "vtpnet": [],
     "waddR": [],
@@ -1199,8 +1176,7 @@
         "car"
     ],
     "GenomicState": [
-        "derfinder",
-        "GenomicFiles"
+        "derfinder"
     ],
     "drc": [
         "car"
