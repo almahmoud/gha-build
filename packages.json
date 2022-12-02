@@ -2477,7 +2477,6 @@
         "nloptr",
         "testthat"
     ],
-    "gemma.R": [],
     "genbankr": [
         "GenomicFeatures",
         "VariantAnnotation",
