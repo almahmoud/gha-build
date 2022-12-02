@@ -324,7 +324,6 @@
         "treeio",
         "nloptr"
     ],
-    "biocGraph": [],
     "BiocOncoTK": [
         "GenomicFeatures",
         "curatedTCGAData",
