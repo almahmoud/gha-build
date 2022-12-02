@@ -12991,7 +12991,6 @@
     "geNetClassifier": [],
     "GeneTonic": [
         "AnnotationDbi",
-        "backbone",
         "bs4Dash",
         "colourpicker",
         "ComplexUpset",
@@ -40119,7 +40118,6 @@
         "tidyselect",
         "pillar"
     ],
-    "backbone": [],
     "bs4Dash": [
         "shiny",
         "fresh",
