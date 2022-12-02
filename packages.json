@@ -721,7 +721,6 @@
         "VariantAnnotation"
     ],
     "factR": [],
-    "FamAgg": [],
     "famat": [
         "clusterProfiler",
         "enrichplot",
