@@ -216,7 +216,6 @@
     "beer": [],
     "benchdamic": [
         "TreeSummarizedExperiment",
-        "zinbwave",
         "Seurat",
         "ANCOMBC",
         "mia",
@@ -648,7 +647,6 @@
     "cliqueMS": [],
     "CluMSID": [],
     "clusterExperiment": [
-        "zinbwave",
         "phylobase"
     ],
     "clusterProfiler": [
@@ -2831,7 +2829,6 @@
     "NetSAM": [],
     "netSmooth": [
         "clusterExperiment",
-        "zinbwave",
         "phylobase"
     ],
     "netZooR": [
@@ -3678,8 +3675,7 @@
         "ExperimentHub"
     ],
     "scBFA": [
-        "Seurat",
-        "zinbwave"
+        "Seurat"
     ],
     "scBubbletree": [
         "Seurat",
@@ -3892,7 +3888,6 @@
         "Seurat",
         "SoupX",
         "celda",
-        "zinbwave",
         "scRNAseq",
         "TENxPBMCData",
         "scDblFinder",
@@ -4471,7 +4466,6 @@
         "lme4",
         "nloptr"
     ],
-    "zinbwave": [],
     "ggpubr": [
         "rstatix",
         "car",
