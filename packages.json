@@ -732,7 +732,6 @@
         "SGSeq"
     ],
     "EWCE": [
-        "ewceData",
         "orthogene",
         "ggpubr",
         "ggtree",
@@ -2655,7 +2654,6 @@
     "JASPAR2018": [],
     "EntropyExplorer": [],
     "EpiMix.data": [],
-    "ewceData": [],
     "SPARQL": [],
     "NHPoisson": [
         "car",
