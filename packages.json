@@ -5315,7 +5315,6 @@
     "VegaMC": [
         "biomaRt"
     ],
-    "velociraptor": [],
     "vidger": [
         "DESeq2"
     ],
