@@ -11295,9 +11295,7 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "ROCpAI": [
-        "fission"
-    ],
+    "ROCpAI": [],
     "RolDE": [
         "qvalue"
     ],
@@ -15633,7 +15631,6 @@
         "BiocFileCache"
     ],
     "TBX20BamSubset": [],
-    "fission": [],
     "treemap": [],
     "SBGNview.data": [],
     "scanMiRData": [
