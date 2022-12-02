@@ -5736,7 +5736,6 @@
         "dplyr",
         "rtracklayer",
         "biomaRt",
-        "Structstrings",
         "tRNA",
         "GenomicAlignments",
         "ggplot2",
@@ -17973,7 +17972,6 @@
     "struct": [
         "SummarizedExperiment"
     ],
-    "Structstrings": [],
     "structToolbox": [
         "struct",
         "ggplot2",
@@ -19078,19 +19076,16 @@
         "tidyr"
     ],
     "tRNA": [
-        "Structstrings",
         "Modstrings",
         "ggplot2"
     ],
     "tRNAdbImport": [
         "Modstrings",
-        "Structstrings",
         "tRNA",
         "ggplot2"
     ],
     "tRNAscanImport": [
         "tRNA",
-        "Structstrings",
         "rtracklayer",
         "BSgenome",
         "GenomicAlignments",
