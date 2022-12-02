@@ -2221,9 +2221,7 @@
         "GenomicRanges",
         "XVector"
     ],
-    "BiGGR": [
-        "hyperdraw"
-    ],
+    "BiGGR": [],
     "bigmelon": [
         "wateRmelon",
         "minfi",
@@ -14965,7 +14963,6 @@
         "babelgene",
         "bslib"
     ],
-    "hyperdraw": [],
     "iasva": [
         "SummarizedExperiment",
         "GenomicRanges",
