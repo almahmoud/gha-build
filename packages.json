@@ -663,7 +663,6 @@
         "GEOquery",
         "frma"
     ],
-    "ChromHeatMap": [],
     "chromPlot": [],
     "ChromSCape": [
         "scater"
