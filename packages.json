@@ -637,7 +637,6 @@
         "qpgraph",
         "GenomicFeatures"
     ],
-    "cliqueMS": [],
     "CluMSID": [],
     "clusterExperiment": [
         "phylobase"
