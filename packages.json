@@ -47943,7 +47943,6 @@
         "webshot",
         "egg",
         "slam",
-        "lpsymphony",
         "highr",
         "genefilter",
         "NMF",
@@ -48284,7 +48283,6 @@
     ],
     "IHW": [
         "slam",
-        "lpsymphony",
         "BiocGenerics"
     ],
     "illuminaio": [
@@ -53361,7 +53359,6 @@
     "lpNet": [
         "lpSolve"
     ],
-    "lpsymphony": [],
     "LRBaseDbi": [
         "AnnotationDbi",
         "RSQLite",
@@ -53871,7 +53868,6 @@
         "pcaPP",
         "edgeR",
         "metagenomeSeq",
-        "lpsymphony",
         "car",
         "dplyr",
         "vegan",
@@ -53981,7 +53977,6 @@
         "pcaPP",
         "edgeR",
         "metagenomeSeq",
-        "lpsymphony",
         "car",
         "dplyr",
         "vegan",
@@ -63692,7 +63687,6 @@
         "pcaPP",
         "edgeR",
         "metagenomeSeq",
-        "lpsymphony",
         "car",
         "vegan",
         "chemometrics",
