@@ -3568,7 +3568,6 @@
         "VariantAnnotation",
         "GenomicFeatures"
     ],
-    "SWATH2stats": [],
     "synergyfinder": [
         "drc",
         "tidyverse",
