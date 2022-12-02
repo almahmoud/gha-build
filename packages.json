@@ -2822,7 +2822,6 @@
         "ggtree",
         "treeio"
     ],
-    "metapone": [],
     "metaseqR2": [
         "DESeq2",
         "biomaRt",
