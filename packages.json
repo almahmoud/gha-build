@@ -1280,7 +1280,6 @@
     "CNVPanelizer": [
         "testthat"
     ],
-    "CNVRanger": [],
     "CNVrd2": [
         "VariantAnnotation",
         "BSgenome",
