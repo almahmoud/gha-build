@@ -3539,7 +3539,6 @@
         "RLHub",
         "ExperimentHub"
     ],
-    "RMassBank": [],
     "Rmmquant": [
         "devtools",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
