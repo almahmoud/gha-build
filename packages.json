@@ -9598,7 +9598,6 @@
         "MultiAssayExperiment",
         "broom",
         "dplyr",
-        "formattable",
         "HardyWeinberg",
         "kableExtra",
         "tidyr",
@@ -17774,7 +17773,6 @@
     ],
     "XNAString": [
         "BSgenome",
-        "formattable",
         "rtracklayer",
         "GenomicAlignments"
     ],
@@ -19460,7 +19458,6 @@
     "ggstar": [
         "ggplot2"
     ],
-    "formattable": [],
     "HardyWeinberg": [
         "mice",
         "broom",
