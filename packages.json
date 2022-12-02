@@ -2983,7 +2983,6 @@
         "SummarizedExperiment",
         "vroom"
     ],
-    "chromDraw": [],
     "ChromHeatMap": [
         "annotate",
         "AnnotationDbi",
