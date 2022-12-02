@@ -7071,7 +7071,6 @@
         "waldo",
         "rematch2"
     ],
-    "GenomicTuples": [],
     "genotypeeval": [
         "VariantAnnotation",
         "ggplot2",
