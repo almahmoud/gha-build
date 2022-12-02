@@ -52,7 +52,6 @@
         "BiocStyle",
         "bookdown",
         "shiny",
-        "bslib",
         "tibble",
         "tidyr",
         "dplyr",
@@ -125,7 +124,6 @@
         "cowplot",
         "rstatix",
         "AnnotationDbi",
-        "bslib",
         "waldo",
         "RSQLite",
         "Biostrings",
@@ -159,8 +157,7 @@
         "dbplyr",
         "shiny",
         "blob",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "ADImpute": [
         "SAVER",
@@ -374,7 +371,6 @@
         "forcats",
         "progress",
         "tidyr",
-        "bslib",
         "hms"
     ],
     "AllelicImbalance": [
@@ -457,7 +453,6 @@
         "ggrepel",
         "cellranger",
         "progress",
-        "bslib",
         "rvest",
         "hms"
     ],
@@ -487,7 +482,6 @@
         "tidyr",
         "hms",
         "vroom",
-        "bslib",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "blob",
@@ -508,7 +502,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "bslib",
         "Rsamtools",
         "GenomicAlignments",
         "latticeExtra",
@@ -618,7 +611,6 @@
         "ggrepel",
         "modeest",
         "tidyr",
-        "bslib",
         "annotate",
         "AnnotationDbi",
         "clock",
@@ -687,8 +679,7 @@
         "shiny",
         "DT",
         "blob",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "AnnotationHubData": [
         "GenomicRanges",
@@ -717,8 +708,7 @@
         "SummarizedExperiment",
         "shiny",
         "DT",
-        "hms",
-        "bslib"
+        "hms"
     ],
     "annotatr": [
         "AnnotationDbi",
@@ -749,8 +739,7 @@
         "SummarizedExperiment",
         "shiny",
         "DT",
-        "blob",
-        "bslib"
+        "blob"
     ],
     "anota": [
         "qvalue",
@@ -785,8 +774,7 @@
         "shiny",
         "DT",
         "miniUI",
-        "pillar",
-        "bslib"
+        "pillar"
     ],
     "AnVILBilling": [
         "DT",
@@ -802,7 +790,6 @@
         "tidyselect",
         "pillar",
         "tidyr",
-        "bslib",
         "hms"
     ],
     "AnVILPublish": [
@@ -819,7 +806,6 @@
         "miniUI",
         "hms",
         "vroom",
-        "bslib",
         "pillar",
         "progress"
     ],
@@ -897,7 +883,6 @@
         "KEGGREST",
         "tidyselect",
         "pillar",
-        "bslib",
         "spatstat.random",
         "Biostrings",
         "blob"
@@ -938,7 +923,6 @@
         "OrganismDbi",
         "GO.db",
         "org.Hs.eg.db",
-        "bslib",
         "KEGGREST",
         "interactiveDisplayBase",
         "dplyr",
@@ -1168,7 +1152,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "pillar",
-        "bslib",
         "blob",
         "dbplyr",
         "htmlTable",
@@ -1275,8 +1258,7 @@
         "cellranger",
         "rematch2",
         "vroom",
-        "rmarkdown",
-        "bslib"
+        "rmarkdown"
     ],
     "ATACseqQC": [
         "BSgenome",
@@ -1319,8 +1301,7 @@
         "shiny",
         "DT",
         "hms",
-        "vroom",
-        "bslib"
+        "vroom"
     ],
     "ATACseqTFEA": [
         "GenomicRanges",
@@ -1369,8 +1350,7 @@
         "pillar",
         "shiny",
         "DT",
-        "blob",
-        "bslib"
+        "blob"
     ],
     "atSNP": [
         "BSgenome",
@@ -1427,7 +1407,6 @@
         "SummarizedExperiment",
         "annotate",
         "AnnotationDbi",
-        "bslib",
         "GenomicRanges",
         "RSQLite",
         "KEGGREST",
@@ -1592,7 +1571,6 @@
         "gbm",
         "threejs",
         "SummarizedExperiment",
-        "bslib",
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -1626,7 +1604,6 @@
         "viridis",
         "tidyselect",
         "pillar",
-        "bslib",
         "GenomicRanges"
     ],
     "basecallQC": [
@@ -1640,7 +1617,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "bslib",
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
@@ -1676,7 +1652,6 @@
         "bluster",
         "GenomicRanges",
         "ScaledMatrix",
-        "bslib",
         "pillar"
     ],
     "BASiCStan": [
@@ -1701,7 +1676,6 @@
         "shiny",
         "shinyjs",
         "tibble",
-        "bslib",
         "pillar"
     ],
     "BasicSTARRseq": [
@@ -1734,7 +1708,6 @@
         "dendextend",
         "egg",
         "quantreg",
-        "bslib",
         "genefilter",
         "tibble",
         "tidyselect",
@@ -1930,7 +1903,6 @@
         "scater",
         "testthat",
         "hms",
-        "bslib",
         "spatstat.random",
         "tidytree",
         "NADA",
@@ -2060,7 +2032,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "bslib",
         "GenomicRanges",
         "hms"
     ],
@@ -2159,7 +2130,6 @@
         "plotly",
         "shinyFiles",
         "patchwork",
-        "bslib",
         "ggraph",
         "graphite",
         "pbkrtest",
@@ -2206,7 +2176,6 @@
         "shiny",
         "tidyr",
         "visNetwork",
-        "bslib",
         "dplyr",
         "tibble",
         "tidyselect",
@@ -2265,7 +2234,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "bslib",
         "KEGGREST",
         "BiocFileCache",
         "interactiveDisplayBase",
@@ -2328,8 +2296,7 @@
     ],
     "BiocStyle": [
         "bookdown",
-        "rmarkdown",
-        "bslib"
+        "rmarkdown"
     ],
     "biocthis": [
         "styler",
@@ -2342,7 +2309,6 @@
         "bookdown",
         "rmarkdown",
         "usethis",
-        "bslib",
         "gert",
         "gh"
     ],
@@ -2603,8 +2569,7 @@
         "viridis",
         "Biostrings",
         "shiny",
-        "DT",
-        "bslib"
+        "DT"
     ],
     "BioNERO": [
         "WGCNA",
@@ -2660,7 +2625,6 @@
         "AnnotationDbi",
         "org.Hs.eg.db",
         "KEGGREST",
-        "bslib",
         "RSQLite",
         "Biostrings",
         "pillar",
@@ -2786,8 +2750,7 @@
         "dbplyr",
         "shiny",
         "DT",
-        "blob",
-        "bslib"
+        "blob"
     ],
     "BiSeq": [
         "GenomicRanges",
@@ -2881,8 +2844,7 @@
         "tidyselect",
         "shiny",
         "DT",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "bluster": [],
     "bnbc": [
@@ -2909,7 +2871,6 @@
         "latticeExtra",
         "pcalg",
         "Linnorm",
-        "bslib",
         "genefilter",
         "AnnotationDbi",
         "annotate",
@@ -2989,7 +2950,6 @@
         "bookdown",
         "rmarkdown",
         "tibble",
-        "bslib",
         "pillar"
     ],
     "BRAIN": [
@@ -3043,8 +3003,7 @@
         "shiny",
         "DT",
         "blob",
-        "hms",
-        "bslib"
+        "hms"
     ],
     "BrainSABER": [
         "biomaRt",
@@ -3056,7 +3015,6 @@
         "RSQLite",
         "AnnotationDbi",
         "progress",
-        "bslib",
         "GenomicRanges",
         "KEGGREST",
         "blob",
@@ -3187,7 +3145,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "bslib",
         "BSgenome",
         "progress",
         "BiocFileCache",
@@ -3220,7 +3177,6 @@
         "testthat",
         "GenomicRanges",
         "shiny",
-        "bslib",
         "downlit",
         "ragg",
         "rmarkdown",
@@ -3539,7 +3495,6 @@
         "pillar",
         "hms",
         "vroom",
-        "bslib",
         "progress"
     ],
     "casper": [
@@ -3671,7 +3626,6 @@
         "Biostrings",
         "rtracklayer",
         "biomaRt",
-        "bslib",
         "progress",
         "Rsamtools",
         "GenomicAlignments"
@@ -3728,7 +3682,6 @@
         "Biostrings",
         "rtracklayer",
         "biomaRt",
-        "bslib",
         "progress",
         "Rsamtools",
         "GenomicAlignments"
@@ -3745,7 +3698,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "bslib",
         "hms",
         "progress"
     ],
@@ -3904,7 +3856,6 @@
         "ragg",
         "tidyr",
         "dplyr",
-        "bslib",
         "spatstat.random",
         "pillar",
         "tidyselect"
@@ -3973,7 +3924,6 @@
         "ggplot2",
         "rmarkdown",
         "tibble",
-        "bslib",
         "pillar"
     ],
     "cellscape": [
@@ -4009,8 +3959,7 @@
         "DT",
         "tibble",
         "tidyselect",
-        "pillar",
-        "bslib"
+        "pillar"
     ],
     "CEMiTool": [
         "dplyr",
@@ -4041,7 +3990,6 @@
         "cowplot",
         "ggpp",
         "quantreg",
-        "bslib",
         "Hmisc",
         "RSQLite",
         "KEGGREST",
@@ -4303,7 +4251,6 @@
         "ruv",
         "tidyr",
         "dplyr",
-        "bslib",
         "lumi",
         "RSQLite",
         "KEGGREST",
@@ -4349,7 +4296,6 @@
         "tibble",
         "tidyr",
         "dplyr",
-        "bslib",
         "GenomicRanges",
         "tidyselect",
         "pillar"
@@ -4414,7 +4360,6 @@
         "BSgenome",
         "biovizBase",
         "latticeExtra",
-        "bslib",
         "progress",
         "BiocFileCache",
         "Hmisc",
@@ -4502,7 +4447,6 @@
         "tidyr",
         "tidyselect",
         "pillar",
-        "bslib",
         "RSQLite",
         "KEGGREST",
         "rtracklayer",
@@ -4766,7 +4710,6 @@
         "ggbeeswarm",
         "ggrastr",
         "bluster",
-        "bslib",
         "fresh",
         "waiter",
         "ragg"
@@ -4813,7 +4756,6 @@
         "tibble",
         "tidyr",
         "dplyr",
-        "bslib",
         "CNEr",
         "RSQLite",
         "GenomicAlignments",
@@ -4942,8 +4884,7 @@
         "shiny",
         "DT",
         "blob",
-        "progress",
-        "bslib"
+        "progress"
     ],
     "CircSeqAlignTk": [
         "dplyr",
@@ -5244,7 +5185,6 @@
         "ggplot2",
         "rmarkdown",
         "tibble",
-        "bslib",
         "pillar"
     ],
     "CNORfeeder": [
@@ -5252,7 +5192,6 @@
         "ggplot2",
         "rmarkdown",
         "tibble",
-        "bslib",
         "pillar"
     ],
     "CNORfuzzy": [
@@ -5262,7 +5201,6 @@
         "rmarkdown",
         "testthat",
         "tibble",
-        "bslib",
         "waldo",
         "pillar",
         "rematch2"
@@ -5272,7 +5210,6 @@
         "ggplot2",
         "rmarkdown",
         "tibble",
-        "bslib",
         "pillar"
     ],
     "CNTools": [
@@ -5353,7 +5290,6 @@
         "AnnotationDbi",
         "ggplot2",
         "tidyr",
-        "bslib",
         "RSQLite",
         "KEGGREST",
         "Hmisc",
@@ -5387,7 +5323,6 @@
         "shinyjs",
         "tibble",
         "Biostrings",
-        "bslib",
         "waldo",
         "pillar",
         "rematch2"
@@ -5479,7 +5414,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "bslib",
         "multtest",
         "sqldf",
         "GenomicRanges",
@@ -5513,7 +5447,6 @@
         "tidyselect",
         "pillar",
         "shiny",
-        "bslib",
         "downlit",
         "ragg",
         "rmarkdown",
@@ -5551,7 +5484,6 @@
         "rtracklayer",
         "biomaRt",
         "tibble",
-        "bslib",
         "progress",
         "BiocFileCache",
         "blob",
@@ -5676,7 +5608,6 @@
         "testthat",
         "Rsamtools",
         "GenomicAlignments",
-        "bslib",
         "SummarizedExperiment",
         "hms",
         "waldo",
@@ -5705,8 +5636,7 @@
         "bookdown",
         "tibble",
         "tidyselect",
-        "pillar",
-        "bslib"
+        "pillar"
     ],
     "compcodeR": [
         "ggplot2",
@@ -5781,7 +5711,6 @@
         "pillar",
         "haven",
         "readxl",
-        "bslib",
         "hms",
         "readr",
         "cellranger",
@@ -6135,8 +6064,7 @@
         "pillar"
     ],
     "CoRegNet": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "CoreGx": [
         "SummarizedExperiment",
@@ -6155,7 +6083,6 @@
         "visNetwork",
         "ggplot2",
         "cowplot",
-        "bslib",
         "dplyr",
         "tidyselect"
     ],
@@ -6220,7 +6147,6 @@
         "RSQLite",
         "KEGGREST",
         "vroom",
-        "bslib",
         "mixtools",
         "Biostrings",
         "blob"
@@ -6251,7 +6177,6 @@
         "pillar",
         "AnnotationDbi",
         "annotate",
-        "bslib",
         "RSQLite",
         "KEGGREST",
         "Biostrings",
@@ -6378,8 +6303,7 @@
         "pillar",
         "tidyselect",
         "shiny",
-        "DT",
-        "bslib"
+        "DT"
     ],
     "crisprScore": [
         "crisprScoreData",
@@ -6398,8 +6322,7 @@
         "pillar",
         "shiny",
         "DT",
-        "blob",
-        "bslib"
+        "blob"
     ],
     "CRISPRseek": [
         "Biostrings",
@@ -6444,7 +6367,6 @@
         "tidyr",
         "ggplot2",
         "patchwork",
-        "bslib",
         "progress",
         "BiocFileCache",
         "ensembldb",
@@ -6525,8 +6447,7 @@
         "htmlTable",
         "viridis",
         "shiny",
-        "DT",
-        "bslib"
+        "DT"
     ],
     "crisprViz": [
         "crisprBase",
@@ -6571,8 +6492,7 @@
         "pillar",
         "tidyselect",
         "shiny",
-        "DT",
-        "bslib"
+        "DT"
     ],
     "crlmm": [
         "oligoClasses",
@@ -6606,7 +6526,6 @@
         "cellranger",
         "progress",
         "blob",
-        "bslib",
         "genefilter",
         "pillar",
         "tidyselect",
@@ -6700,7 +6619,6 @@
         "tidyr",
         "cellranger",
         "progress",
-        "bslib",
         "dbplyr",
         "Biostrings",
         "hms",
@@ -6711,7 +6629,6 @@
         "ggplot2",
         "shiny",
         "tibble",
-        "bslib",
         "pillar"
     ],
     "CTSV": [
@@ -6783,8 +6700,7 @@
         "tibble",
         "tidyselect",
         "shiny",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "customProDB": [
         "AnnotationDbi",
@@ -6850,7 +6766,6 @@
         "viridis",
         "shiny",
         "SummarizedExperiment",
-        "bslib",
         "GenomicRanges",
         "ggplot2",
         "tibble",
@@ -6886,7 +6801,6 @@
         "multcomp",
         "tidyselect",
         "pillar",
-        "bslib",
         "GenomicRanges",
         "recipes",
         "dendextend",
@@ -6972,7 +6886,6 @@
         "shiny",
         "shinydashboard",
         "tibble",
-        "bslib",
         "GenomicRanges",
         "DropletUtils",
         "BiocFileCache",
@@ -7245,7 +7158,6 @@
         "sn",
         "Biostrings",
         "TH.data",
-        "bslib",
         "quantreg"
     ],
     "dcGSA": [],
@@ -7348,7 +7260,6 @@
         "viridis",
         "dendextend",
         "egg",
-        "bslib",
         "genefilter",
         "ggfun",
         "ggplotify",
@@ -7383,7 +7294,6 @@
         "tibble",
         "GenomicRanges",
         "Biostrings",
-        "bslib",
         "blob",
         "pillar"
     ],
@@ -7658,7 +7568,6 @@
         "viridis",
         "bsseq",
         "tibble",
-        "bslib",
         "GenomicRanges",
         "genefilter",
         "BSgenome",
@@ -7700,7 +7609,6 @@
         "tmvtnorm",
         "hms",
         "vroom",
-        "bslib",
         "GenomicRanges",
         "progress"
     ],
@@ -8128,7 +8036,6 @@
         "GenomicRanges",
         "tidyr",
         "dplyr",
-        "bslib",
         "spatstat.random",
         "pillar",
         "tidyselect"
@@ -8168,7 +8075,6 @@
         "dendextend",
         "egg",
         "rvest",
-        "bslib",
         "GenomicRanges"
     ],
     "distinct": [
@@ -8297,8 +8203,7 @@
         "shiny",
         "DT",
         "hms",
-        "vroom",
-        "bslib"
+        "vroom"
     ],
     "DMRforPairs": [
         "Gviz",
@@ -8369,8 +8274,7 @@
         "hms",
         "vroom",
         "blob",
-        "progress",
-        "bslib"
+        "progress"
     ],
     "DNABarcodeCompatibility": [
         "dplyr",
@@ -8447,7 +8351,6 @@
         "lava",
         "cellranger",
         "progress",
-        "bslib",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -8659,7 +8562,6 @@
         "blob",
         "Biostrings",
         "testthat",
-        "bslib",
         "waldo",
         "rematch2"
     ],
@@ -8707,8 +8609,7 @@
     ],
     "easyreporting": [
         "rmarkdown",
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "easyRNASeq": [
         "BiocFileCache",
@@ -8962,7 +8863,6 @@
         "GenomicAlignments",
         "hms",
         "vroom",
-        "bslib",
         "KEGGREST",
         "dbplyr",
         "Hmisc",
@@ -9056,7 +8956,6 @@
         "biomaRt",
         "hms",
         "vroom",
-        "bslib",
         "progress",
         "Rsamtools",
         "GenomicAlignments"
@@ -9154,7 +9053,6 @@
         "rstatix",
         "SummarizedExperiment",
         "visNetwork",
-        "bslib",
         "GenomicAlignments",
         "CNEr",
         "RSQLite",
@@ -9269,7 +9167,6 @@
         "seqPattern",
         "tibble",
         "tidyr",
-        "bslib",
         "KEGGREST",
         "dbplyr",
         "geneplotter",
@@ -9465,8 +9362,7 @@
         "vroom",
         "blob",
         "Rsamtools",
-        "GenomicAlignments",
-        "bslib"
+        "GenomicAlignments"
     ],
     "epimutacions": [
         "minfi",
@@ -9527,8 +9423,7 @@
         "multtest",
         "htmlTable",
         "viridis",
-        "vroom",
-        "bslib"
+        "vroom"
     ],
     "epiNEM": [
         "latticeExtra",
@@ -9723,7 +9618,6 @@
         "org.Hs.eg.db",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "Biostrings",
-        "bslib",
         "biomaRt",
         "blob",
         "pillar",
@@ -9784,7 +9678,6 @@
         "biomaRt",
         "tibble",
         "visNetwork",
-        "bslib",
         "latticeExtra",
         "CNEr",
         "progress",
@@ -9869,7 +9762,6 @@
         "rmarkdown",
         "GenomicRanges",
         "tidyr",
-        "bslib",
         "pillar",
         "dplyr",
         "tidyselect"
@@ -9959,7 +9851,6 @@
         "progress",
         "Biostrings",
         "nloptr",
-        "bslib",
         "testthat",
         "waldo",
         "rematch2"
@@ -10019,8 +9910,7 @@
         "tidyselect",
         "shiny",
         "DT",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "ExperimentHubData": [
         "AnnotationHubData",
@@ -10051,8 +9941,7 @@
         "SummarizedExperiment",
         "shiny",
         "DT",
-        "hms",
-        "bslib"
+        "hms"
     ],
     "ExperimentSubset": [
         "SummarizedExperiment",
@@ -10088,16 +9977,14 @@
         "tibble",
         "shinyjs",
         "tidyselect",
-        "pillar",
-        "bslib"
+        "pillar"
     ],
     "ExpressionAtlas": [
         "SummarizedExperiment",
         "BiocStyle",
         "bookdown",
         "rmarkdown",
-        "GenomicRanges",
-        "bslib"
+        "GenomicRanges"
     ],
     "extraChIPs": [
         "GenomicRanges",
@@ -10211,7 +10098,6 @@
         "pillar",
         "ggplot2",
         "Biostrings",
-        "bslib",
         "RSQLite",
         "HDO.db",
         "fgsea",
@@ -10263,7 +10149,6 @@
         "ShortRead",
         "DT",
         "shinyBS",
-        "bslib",
         "Rsamtools",
         "GenomicAlignments",
         "GenomicRanges",
@@ -10390,7 +10275,6 @@
         "GenomicRanges",
         "TrajectoryUtils",
         "tibble",
-        "bslib",
         "pillar"
     ],
     "fedup": [
@@ -10585,7 +10469,6 @@
         "ggplot2",
         "rmarkdown",
         "tibble",
-        "bslib",
         "pillar"
     ],
     "flowBeads": [],
@@ -10602,7 +10485,6 @@
         "tidyr",
         "dplyr",
         "tibble",
-        "bslib",
         "tidyselect",
         "pillar"
     ],
@@ -10696,7 +10578,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "bslib",
         "nloptr",
         "broom",
         "dplyr",
@@ -10926,7 +10807,6 @@
         "fds",
         "SummarizedExperiment",
         "Biostrings",
-        "bslib",
         "rainbow",
         "hdrcde",
         "ks",
@@ -11043,7 +10923,6 @@
         "VariantAnnotation",
         "rtracklayer",
         "biomaRt",
-        "bslib",
         "progress",
         "BiocFileCache",
         "blob",
@@ -11157,7 +11036,6 @@
         "SummarizedExperiment",
         "rmarkdown",
         "tibble",
-        "bslib",
         "GenomicRanges",
         "pillar"
     ],
@@ -11175,7 +11053,6 @@
         "testthat",
         "blob",
         "shiny",
-        "bslib",
         "downlit",
         "ragg",
         "rmarkdown",
@@ -11216,7 +11093,6 @@
         "readr",
         "tibble",
         "KEGGREST",
-        "bslib",
         "ggpubr",
         "broom",
         "survMisc",
@@ -11539,7 +11415,6 @@
         "KEGGREST",
         "fresh",
         "waiter",
-        "bslib",
         "miniUI",
         "shinyjs",
         "patchwork",
@@ -11573,7 +11448,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "bslib",
         "blob"
     ],
     "GENIE3": [
@@ -11810,8 +11684,7 @@
         "tibble",
         "tidyselect",
         "shiny",
-        "DT",
-        "bslib"
+        "DT"
     ],
     "GenomicSuperSignature": [
         "SummarizedExperiment",
@@ -11835,7 +11708,6 @@
         "rstatix",
         "GenomicRanges",
         "blob",
-        "bslib",
         "broom",
         "car",
         "pbkrtest",
@@ -11978,7 +11850,6 @@
         "tibble",
         "viridis",
         "egg",
-        "bslib",
         "rmarkdown",
         "readxl",
         "tidyselect",
@@ -12292,7 +12163,6 @@
         "htmlTable",
         "viridis",
         "TH.data",
-        "bslib",
         "tibble",
         "Biostrings",
         "blob",
@@ -12439,7 +12309,6 @@
         "GO.db",
         "AnnotationForge",
         "broom",
-        "bslib",
         "Hmisc",
         "dplyr",
         "tibble",
@@ -12697,7 +12566,6 @@
         "shiny",
         "shinyBS",
         "tibble",
-        "bslib",
         "pillar"
     ],
     "gpuMagic": [
@@ -12750,8 +12618,7 @@
         "pillar",
         "sf",
         "flextable",
-        "rmarkdown",
-        "bslib"
+        "rmarkdown"
     ],
     "graper": [
         "ggplot2",
@@ -12828,7 +12695,6 @@
         "shiny",
         "ggplot2",
         "tibble",
-        "bslib",
         "pillar"
     ],
     "gscreend": [
@@ -12876,8 +12742,7 @@
         "shiny",
         "DT",
         "Biostrings",
-        "org.Hs.eg.db",
-        "bslib"
+        "org.Hs.eg.db"
     ],
     "GSEAmining": [
         "dplyr",
@@ -13111,8 +12976,7 @@
         "tidyselect",
         "shiny",
         "DT",
-        "GenomicAlignments",
-        "bslib"
+        "GenomicAlignments"
     ],
     "GWASTools": [
         "RSQLite",
@@ -13214,7 +13078,6 @@
         "pillar",
         "hms",
         "vroom",
-        "bslib",
         "blob",
         "progress"
     ],
@@ -13387,7 +13250,6 @@
         "QDNAseq",
         "broom",
         "car",
-        "bslib",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -13442,8 +13304,7 @@
         "shiny",
         "DT",
         "htmlTable",
-        "viridis",
-        "bslib"
+        "viridis"
     ],
     "hierGWAS": [
         "glmnet"
@@ -13506,8 +13367,7 @@
         "DT",
         "TH.data",
         "blob",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "HIPPO": [
         "ggplot2",
@@ -13561,8 +13421,7 @@
         "tibble",
         "shiny",
         "tidyselect",
-        "pillar",
-        "bslib"
+        "pillar"
     ],
     "HPiP": [
         "dplyr",
@@ -13645,7 +13504,6 @@
         "shiny",
         "ssrch",
         "SummarizedExperiment",
-        "bslib",
         "DT",
         "GenomicRanges"
     ],
@@ -13669,8 +13527,7 @@
         "pillar",
         "tweenr",
         "rvest",
-        "babelgene",
-        "bslib"
+        "babelgene"
     ],
     "iasva": [
         "SummarizedExperiment",
@@ -13801,8 +13658,7 @@
         "UpSetR",
         "tibble",
         "tidyselect",
-        "pillar",
-        "bslib"
+        "pillar"
     ],
     "ideal": [
         "topGO",
@@ -13846,7 +13702,6 @@
         "threejs",
         "biomaRt",
         "tidyr",
-        "bslib",
         "progress",
         "BiocFileCache",
         "GSEABase",
@@ -14028,7 +13883,6 @@
         "dbplyr",
         "RSQLite",
         "tweenr",
-        "bslib",
         "blob"
     ],
     "IMMAN": [
@@ -14052,7 +13906,6 @@
         "dendextend",
         "egg",
         "tidyr",
-        "bslib",
         "tidyselect",
         "pillar"
     ],
@@ -14079,7 +13932,6 @@
         "rcmdcheck",
         "testthat",
         "shiny",
-        "bslib",
         "downlit",
         "ragg",
         "rmarkdown",
@@ -14115,7 +13967,6 @@
         "spatstat.explore",
         "GenomicRanges",
         "TH.data",
-        "bslib",
         "spatstat.random"
     ],
     "infinityFlow": [],
@@ -14166,7 +14017,6 @@
         "AnnotationDbi",
         "RSQLite",
         "biomaRt",
-        "bslib",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -14257,7 +14107,6 @@
         "kableExtra",
         "rvest",
         "rmarkdown",
-        "bslib",
         "tibble",
         "pillar"
     ],
@@ -14274,15 +14123,13 @@
         "annotate",
         "tibble",
         "DT",
-        "bslib",
         "Biostrings",
         "blob",
         "pillar"
     ],
     "interactiveDisplayBase": [
         "shiny",
-        "DT",
-        "bslib"
+        "DT"
     ],
     "InterCellar": [
         "golem",
@@ -14319,7 +14166,6 @@
         "ggrepel",
         "usethis",
         "cellranger",
-        "bslib",
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -14442,8 +14288,7 @@
         "tidyselect",
         "pillar",
         "shiny",
-        "DT",
-        "bslib"
+        "DT"
     ],
     "IPO": [
         "xcms",
@@ -14529,7 +14374,6 @@
         "blob",
         "broom",
         "car",
-        "bslib",
         "spatstat.random",
         "ggfun",
         "ggplotify",
@@ -14555,7 +14399,6 @@
         "shiny",
         "shinyWidgets",
         "datamods",
-        "bslib",
         "reactable",
         "rio",
         "shinybusy",
@@ -14582,7 +14425,6 @@
         "shinyWidgets",
         "miniUI",
         "tibble",
-        "bslib",
         "GenomicRanges",
         "pillar"
     ],
@@ -14601,7 +14443,6 @@
         "ggrepel",
         "colourpicker",
         "shinyWidgets",
-        "bslib",
         "GenomicRanges",
         "miniUI",
         "pillar"
@@ -14627,7 +14468,6 @@
         "ggrepel",
         "colourpicker",
         "shinyWidgets",
-        "bslib",
         "GenomicRanges",
         "KEGGREST",
         "dbplyr",
@@ -14655,7 +14495,6 @@
         "rintrojs",
         "ggrepel",
         "shinyWidgets",
-        "bslib",
         "GenomicRanges",
         "pillar"
     ],
@@ -14742,8 +14581,7 @@
         "annotate",
         "blob",
         "shiny",
-        "DT",
-        "bslib"
+        "DT"
     ],
     "isomiRs": [
         "SummarizedExperiment",
@@ -14826,7 +14664,6 @@
         "tibble",
         "tidyr",
         "dplyr",
-        "bslib",
         "GenomicRanges",
         "ggpubr",
         "broom",
@@ -14976,7 +14813,6 @@
         "ggrepel",
         "tidyr",
         "tibble",
-        "bslib",
         "BSgenome",
         "Biostrings",
         "HDF5Array",
@@ -15019,7 +14855,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "bslib",
         "genefilter",
         "AnnotationDbi",
         "annotate",
@@ -15062,7 +14897,6 @@
         "pillar",
         "hms",
         "vroom",
-        "bslib",
         "learnr",
         "GenomicRanges",
         "RSQLite",
@@ -15102,7 +14936,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "bslib",
         "waldo",
         "rematch2"
     ],
@@ -15346,7 +15179,6 @@
         "GO.db",
         "blob",
         "biomaRt",
-        "bslib",
         "progress"
     ],
     "LRBaseDbi": [
@@ -15374,8 +15206,7 @@
         "shiny",
         "DT",
         "blob",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "lumi": [
         "methylumi",
@@ -15483,7 +15314,6 @@
         "ipred",
         "tidyr",
         "prodlim",
-        "bslib",
         "lava"
     ],
     "Maaslin2": [
@@ -15567,7 +15397,6 @@
         "tibble",
         "cellranger",
         "progress",
-        "bslib",
         "hms",
         "pillar"
     ],
@@ -15587,8 +15416,7 @@
         "shiny",
         "DT",
         "blob",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "made4": [
         "SummarizedExperiment",
@@ -15719,8 +15547,7 @@
         "tweenr",
         "shiny",
         "DT",
-        "blob",
-        "bslib"
+        "blob"
     ],
     "magrene": [],
     "MAI": [
@@ -15759,7 +15586,6 @@
         "ipred",
         "rmarkdown",
         "prodlim",
-        "bslib",
         "lava"
     ],
     "MAIT": [
@@ -15797,7 +15623,6 @@
         "labelled",
         "haven",
         "lava",
-        "bslib",
         "forcats",
         "hms",
         "readr",
@@ -15921,7 +15746,6 @@
         "htmlTable",
         "viridis",
         "tmvtnorm",
-        "bslib",
         "GenomicRanges"
     ],
     "MatrixRider": [
@@ -15971,7 +15795,6 @@
         "nloptr",
         "Biostrings",
         "multtest",
-        "bslib",
         "genefilter",
         "AnnotationDbi",
         "annotate",
@@ -16043,7 +15866,6 @@
         "RSQLite",
         "tibble",
         "gld",
-        "bslib",
         "GenomicRanges",
         "blob",
         "pillar",
@@ -16300,7 +16122,6 @@
         "ggplot2",
         "rmarkdown",
         "tibble",
-        "bslib",
         "pillar"
     ],
     "Melissa": [
@@ -16314,7 +16135,6 @@
         "rmarkdown",
         "tibble",
         "quantreg",
-        "bslib",
         "pillar"
     ],
     "memes": [
@@ -16390,8 +16210,7 @@
         "DT",
         "Biostrings",
         "blob",
-        "tweenr",
-        "bslib"
+        "tweenr"
     ],
     "meshr": [
         "rmarkdown",
@@ -16404,7 +16223,6 @@
         "GSEABase",
         "genefilter",
         "annotate",
-        "bslib",
         "blob",
         "KEGGREST",
         "Biostrings"
@@ -16731,7 +16549,6 @@
         "viridis",
         "dendextend",
         "egg",
-        "bslib",
         "bookdown",
         "blob",
         "prodlim",
@@ -16809,7 +16626,6 @@
         "Spectra",
         "ggplot2",
         "tibble",
-        "bslib",
         "pillar"
     ],
     "MethCP": [
@@ -16892,7 +16708,6 @@
         "quantreg",
         "lme4",
         "Biostrings",
-        "bslib",
         "nloptr",
         "testthat",
         "waldo",
@@ -16928,7 +16743,6 @@
         "genefilter",
         "GEOquery",
         "HDF5Array",
-        "bslib",
         "GenomicFeatures",
         "AnnotationDbi",
         "annotate",
@@ -17054,7 +16868,6 @@
         "cellranger",
         "rematch2",
         "shiny",
-        "bslib",
         "downlit",
         "ragg",
         "rmarkdown",
@@ -17106,7 +16919,6 @@
         "methylumi",
         "ruv",
         "SummarizedExperiment",
-        "bslib",
         "HDO.db",
         "fgsea",
         "tidyselect",
@@ -17225,7 +17037,6 @@
         "Biostrings",
         "shinyFiles",
         "SummarizedExperiment",
-        "bslib",
         "tibble",
         "GenomicRanges",
         "pillar"
@@ -17307,7 +17118,6 @@
         "testthat",
         "tibble",
         "shiny",
-        "bslib",
         "downlit",
         "ragg",
         "rmarkdown",
@@ -17513,7 +17323,6 @@
         "glmnet",
         "hms",
         "vroom",
-        "bslib",
         "annotate",
         "AnnotationDbi",
         "nloptr",
@@ -17585,7 +17394,6 @@
         "clock",
         "hardhat",
         "ipred",
-        "bslib",
         "NADA",
         "RSQLite",
         "KEGGREST",
@@ -17629,7 +17437,6 @@
         "ggtree",
         "tibble",
         "usethis",
-        "bslib",
         "RSQLite",
         "KEGGREST",
         "ggfun",
@@ -17699,8 +17506,7 @@
         "rmarkdown",
         "mice",
         "rvest",
-        "GenomicRanges",
-        "bslib"
+        "GenomicRanges"
     ],
     "MIGSA": [
         "AnnotationDbi",
@@ -18029,7 +17835,6 @@
         "ggraph",
         "reactome.db",
         "graphite",
-        "bslib",
         "glmnet",
         "tidyverse",
         "caret",
@@ -18183,7 +17988,6 @@
         "quantreg",
         "prodlim",
         "testthat",
-        "bslib",
         "lava",
         "waldo"
     ],
@@ -18281,7 +18085,6 @@
         "progress",
         "tidyr",
         "tibble",
-        "bslib",
         "tidyselect",
         "pillar",
         "hms"
@@ -18332,7 +18135,6 @@
         "SummarizedExperiment",
         "AnnotationDbi",
         "dplyr",
-        "bslib",
         "GenomicRanges",
         "RSQLite",
         "KEGGREST",
@@ -18387,7 +18189,6 @@
         "ggplot2",
         "rtracklayer",
         "tibble",
-        "bslib",
         "GenomicAlignments",
         "pillar",
         "SummarizedExperiment"
@@ -18795,7 +18596,6 @@
         "rstatix",
         "hms",
         "vroom",
-        "bslib",
         "broom",
         "car",
         "progress",
@@ -18960,7 +18760,6 @@
         "dbplyr",
         "shiny",
         "DT",
-        "bslib",
         "blob"
     ],
     "MSPrep": [
@@ -19081,7 +18880,6 @@
         "pbkrtest",
         "quantreg",
         "testthat",
-        "bslib",
         "waldo"
     ],
     "MSstatsLOBD": [
@@ -19120,8 +18918,7 @@
         "shiny",
         "shinyjs",
         "vsn",
-        "tidyr",
-        "bslib"
+        "tidyr"
     ],
     "MSstatsQCgui": [
         "shiny",
@@ -19138,7 +18935,6 @@
         "shinyjs",
         "MSnbase",
         "tidyr",
-        "bslib",
         "vsn"
     ],
     "MSstatsSampleSize": [
@@ -19186,7 +18982,6 @@
         "lme4",
         "Biostrings",
         "lmerTest",
-        "bslib",
         "nloptr",
         "testthat",
         "waldo",
@@ -19408,7 +19203,6 @@
         "ggrepel",
         "reactome.db",
         "graphite",
-        "bslib",
         "RSQLite",
         "KEGGREST",
         "ggfun",
@@ -19579,7 +19373,6 @@
         "AnnotationDbi",
         "RSQLite",
         "biomaRt",
-        "bslib",
         "learnr",
         "rvest",
         "readr",
@@ -19775,8 +19568,7 @@
         "shiny",
         "DT",
         "hms",
-        "vroom",
-        "bslib"
+        "vroom"
     ],
     "NanoMethViz": [
         "ggplot2",
@@ -19869,8 +19661,7 @@
         "Biostrings",
         "vroom",
         "progress",
-        "rmarkdown",
-        "bslib"
+        "rmarkdown"
     ],
     "NanoTube": [
         "ggplot2",
@@ -19991,7 +19782,6 @@
         "GenomicRanges",
         "tidyr",
         "dplyr",
-        "bslib",
         "spatstat.random",
         "pillar",
         "tidyselect"
@@ -20144,7 +19934,6 @@
         "qvalue",
         "bookdown",
         "tibble",
-        "bslib",
         "pillar"
     ],
     "NetSAM": [
@@ -20295,7 +20084,6 @@
         "pillar",
         "hms",
         "vroom",
-        "bslib",
         "progress"
     ],
     "nnSVG": [
@@ -20487,8 +20275,7 @@
         "pillar",
         "tidyselect",
         "shiny",
-        "DT",
-        "bslib"
+        "DT"
     ],
     "OCplus": [
         "multtest"
@@ -20535,8 +20322,7 @@
         "blob",
         "GenomicAlignments",
         "latticeExtra",
-        "hms",
-        "bslib"
+        "hms"
     ],
     "ODER": [
         "BiocFileCache",
@@ -20628,7 +20414,6 @@
         "Rsamtools",
         "latticeExtra",
         "GenomicAlignments",
-        "bslib",
         "tidyselect",
         "KEGGREST",
         "dbplyr",
@@ -20677,7 +20462,6 @@
         "styler",
         "labelled",
         "haven",
-        "bslib",
         "forcats",
         "hms",
         "readr",
@@ -20712,7 +20496,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "multtest",
-        "bslib",
         "NADA"
     ],
     "omicRexposome": [
@@ -20796,7 +20579,6 @@
         "GenomicAlignments",
         "SummarizedExperiment",
         "rvest",
-        "bslib",
         "dplyr",
         "tidyselect",
         "pbkrtest",
@@ -20854,7 +20636,6 @@
         "tidyr",
         "dplyr",
         "blob",
-        "bslib",
         "GenomicRanges",
         "ggpubr",
         "broom",
@@ -20901,8 +20682,7 @@
         "pillar",
         "hms",
         "vroom",
-        "cellranger",
-        "bslib"
+        "cellranger"
     ],
     "oncomix": [
         "ggplot2",
@@ -20964,7 +20744,6 @@
         "tidyr",
         "dplyr",
         "tibble",
-        "bslib",
         "tidyselect",
         "pillar"
     ],
@@ -20986,7 +20765,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "bslib",
         "GenomicRanges",
         "KEGGREST",
         "blob",
@@ -21033,7 +20811,6 @@
         "dplyr",
         "DECIPHER",
         "Hmisc",
-        "bslib",
         "RSQLite",
         "tibble",
         "tidyselect",
@@ -21110,7 +20887,6 @@
         "testthat",
         "tibble",
         "shiny",
-        "bslib",
         "downlit",
         "ragg",
         "rmarkdown",
@@ -21568,7 +21344,6 @@
         "pillar",
         "Biostrings",
         "multtest",
-        "bslib",
         "annotate",
         "AnnotationDbi",
         "downlit",
@@ -21647,7 +21422,6 @@
         "dendextend",
         "egg",
         "dplyr",
-        "bslib",
         "tidyselect",
         "dbplyr",
         "GSEABase",
@@ -21718,7 +21492,6 @@
         "lava",
         "clock",
         "hardhat",
-        "bslib",
         "km.ci",
         "RSQLite",
         "KEGGREST",
@@ -21756,7 +21529,6 @@
         "ggplot2",
         "MSnbase",
         "shiny",
-        "bslib",
         "shinycssloaders",
         "DT",
         "tibble",
@@ -21920,8 +21692,7 @@
         "visNetwork",
         "dplyr",
         "tidyselect",
-        "cowplot",
-        "bslib"
+        "cowplot"
     ],
     "PhenoGeneRanker": [
         "dplyr",
@@ -22095,7 +21866,6 @@
         "tibble",
         "GenomicRanges",
         "topGO",
-        "bslib",
         "RSQLite",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -22152,7 +21922,6 @@
         "visNetwork",
         "ggplot2",
         "cowplot",
-        "bslib",
         "tibble",
         "pillar"
     ],
@@ -22205,7 +21974,6 @@
         "tidygraph",
         "latticeExtra",
         "htmlTable",
-        "bslib",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -22286,7 +22054,6 @@
         "ScaledMatrix",
         "ragg",
         "tidyr",
-        "bslib",
         "spatstat.random"
     ],
     "pipeFrame": [
@@ -22297,7 +22064,6 @@
         "GenomicRanges",
         "rtracklayer",
         "Rsamtools",
-        "bslib",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
@@ -22372,7 +22138,6 @@
         "vroom",
         "cellranger",
         "progress",
-        "bslib",
         "broom",
         "car",
         "pbkrtest",
@@ -22420,7 +22185,6 @@
         "tibble",
         "hms",
         "vroom",
-        "bslib",
         "pillar",
         "tidyselect",
         "progress"
@@ -22444,7 +22208,6 @@
         "DT",
         "AnnotationHub",
         "SummarizedExperiment",
-        "bslib",
         "RSQLite",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -22479,7 +22242,6 @@
         "tidyselect",
         "pillar",
         "rARPACK",
-        "bslib",
         "annotate",
         "AnnotationDbi",
         "clock",
@@ -22578,7 +22340,6 @@
         "ggplot2",
         "multtest",
         "vegan",
-        "bslib",
         "tibble",
         "pillar"
     ],
@@ -22609,7 +22370,6 @@
         "ipred",
         "tidyr",
         "tidyselect",
-        "bslib",
         "progress",
         "BiocFileCache",
         "pillar",
@@ -22659,7 +22419,6 @@
         "Rsamtools",
         "latticeExtra",
         "GenomicAlignments",
-        "bslib",
         "CNEr",
         "RSQLite",
         "KEGGREST",
@@ -22855,7 +22614,6 @@
         "ggtree",
         "hms",
         "blob",
-        "bslib",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -22931,7 +22689,6 @@
         "ipred",
         "tidyr",
         "tidyselect",
-        "bslib",
         "GenomicRanges",
         "pillar",
         "blob",
@@ -22962,7 +22719,6 @@
         "dendextend",
         "mixtools",
         "biomaRt",
-        "bslib",
         "fresh",
         "waiter",
         "AnnotationDbi",
@@ -23028,7 +22784,6 @@
         "broom",
         "quantmod",
         "tidyr",
-        "bslib",
         "pillar",
         "tidyselect",
         "vsn",
@@ -23133,7 +22888,6 @@
         "ggrepel",
         "car",
         "DT",
-        "bslib",
         "AnnotationDbi",
         "annotate",
         "forcats",
@@ -23191,7 +22945,6 @@
         "GenomicRanges",
         "rentrez",
         "rtracklayer",
-        "bslib",
         "blob",
         "bumphunter",
         "GenomicAlignments",
@@ -23269,7 +23022,6 @@
         "htmlTable",
         "viridis",
         "vsn",
-        "bslib",
         "tidyselect",
         "pillar",
         "broom",
@@ -23384,8 +23136,7 @@
         "DT",
         "Biostrings",
         "hms",
-        "blob",
-        "bslib"
+        "blob"
     ],
     "pwrEWAS": [
         "shinyBS",
@@ -23398,7 +23149,6 @@
         "annotate",
         "tibble",
         "ExperimentHub",
-        "bslib",
         "RSQLite",
         "KEGGREST",
         "AnnotationHub",
@@ -23786,7 +23536,6 @@
         "visNetwork",
         "ggplot2",
         "cowplot",
-        "bslib",
         "dplyr",
         "tidyselect"
     ],
@@ -23877,8 +23626,7 @@
         "tidyselect",
         "shiny",
         "DT",
-        "hms",
-        "bslib"
+        "hms"
     ],
     "Rbec": [
         "dada2",
@@ -23938,7 +23686,6 @@
         "tibble",
         "tidyr",
         "dplyr",
-        "bslib",
         "blob",
         "KEGGREST",
         "progress",
@@ -23954,7 +23701,6 @@
         "ggplot2",
         "shiny",
         "tibble",
-        "bslib",
         "pillar"
     ],
     "rCGH": [
@@ -23975,7 +23721,6 @@
         "rtracklayer",
         "biomaRt",
         "tibble",
-        "bslib",
         "progress",
         "BiocFileCache",
         "blob",
@@ -24004,7 +23749,6 @@
         "AnnotationDbi",
         "RSQLite",
         "KEGGREST",
-        "bslib",
         "Biostrings",
         "blob"
     ],
@@ -24046,7 +23790,6 @@
         "tidyr",
         "viridis",
         "visNetwork",
-        "bslib",
         "tidyselect",
         "pillar",
         "hms",
@@ -24071,7 +23814,6 @@
         "tidyr",
         "viridis",
         "visNetwork",
-        "bslib",
         "hms",
         "vroom",
         "ggplot2"
@@ -24097,7 +23839,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "bslib",
         "pillar",
         "dplyr"
     ],
@@ -24158,8 +23899,7 @@
     "rebook": [
         "rmarkdown",
         "BiocStyle",
-        "bookdown",
-        "bslib"
+        "bookdown"
     ],
     "receptLoss": [
         "dplyr",
@@ -24406,7 +24146,6 @@
         "rtracklayer",
         "geneplotter",
         "ggplot2",
-        "bslib",
         "RSQLite",
         "KEGGREST",
         "annotate",
@@ -24471,8 +24210,7 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "hms",
-        "bslib"
+        "hms"
     ],
     "REMP": [
         "SummarizedExperiment",
@@ -24519,7 +24257,6 @@
         "progress",
         "biomaRt",
         "prodlim",
-        "bslib",
         "lava"
     ],
     "Repitools": [
@@ -24653,8 +24390,7 @@
         "DT",
         "Biostrings",
         "hms",
-        "blob",
-        "bslib"
+        "blob"
     ],
     "rexposome": [
         "FactoMineR",
@@ -24725,8 +24461,7 @@
         "shiny",
         "DT",
         "blob",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "RGMQL": [
         "GenomicRanges",
@@ -24789,7 +24524,6 @@
         "rtracklayer",
         "biomaRt",
         "hms",
-        "bslib",
         "BiocFileCache",
         "blob",
         "Rsamtools",
@@ -25195,7 +24929,6 @@
         "clock",
         "hardhat",
         "ipred",
-        "bslib",
         "prodlim",
         "lava"
     ],
@@ -25245,7 +24978,6 @@
         "biomaRt",
         "tibble",
         "shiny",
-        "bslib",
         "downlit",
         "ragg",
         "waldo",
@@ -25737,13 +25469,11 @@
         "ggplot2",
         "multtest",
         "vegan",
-        "bslib",
         "tibble",
         "pillar"
     ],
     "rprimer": [
         "Biostrings",
-        "bslib",
         "DT",
         "ggplot2",
         "patchwork",
@@ -25785,7 +25515,6 @@
         "AnnotationFilter",
         "rtracklayer",
         "tibble",
-        "bslib",
         "latticeExtra",
         "RSQLite",
         "KEGGREST",
@@ -25859,7 +25588,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "bslib",
         "Biostrings",
         "blob",
         "pillar"
@@ -25898,7 +25626,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "bslib",
         "ggpubr",
         "broom",
         "tidyr",
@@ -26061,7 +25788,6 @@
         "rtracklayer",
         "AnnotationDbi",
         "RSQLite",
-        "bslib",
         "KEGGREST",
         "blob",
         "Rsamtools",
@@ -26182,15 +25908,13 @@
         "tidyr",
         "dplyr",
         "tibble",
-        "bslib",
         "tidyselect",
         "pillar",
         "blob"
     ],
     "sangerseqR": [
         "Biostrings",
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "sarks": [
         "Biostrings"
@@ -26218,7 +25942,6 @@
         "RSQLite",
         "Biostrings",
         "org.Hs.eg.db",
-        "bslib",
         "GenomicRanges",
         "blob"
     ],
@@ -26228,7 +25951,6 @@
         "SummarizedExperiment",
         "SingleCellExperiment",
         "tibble",
-        "bslib",
         "GenomicRanges",
         "pillar"
     ],
@@ -26259,7 +25981,6 @@
         "tfruns",
         "tidyr",
         "dplyr",
-        "bslib",
         "spatstat.random",
         "tidyselect",
         "pillar"
@@ -26329,7 +26050,6 @@
         "GenomicAlignments",
         "ggseqlogo",
         "cowplot",
-        "bslib",
         "dbplyr",
         "progress",
         "tidyselect",
@@ -26374,7 +26094,6 @@
         "hardhat",
         "ipred",
         "blob",
-        "bslib",
         "spatstat.random",
         "prodlim",
         "Biostrings",
@@ -26414,8 +26133,7 @@
         "tibble",
         "tidyselect",
         "shiny",
-        "DT",
-        "bslib"
+        "DT"
     ],
     "scater": [
         "SingleCellExperiment",
@@ -26464,7 +26182,6 @@
         "annotate",
         "tidyr",
         "dplyr",
-        "bslib",
         "spatstat.random",
         "pillar",
         "RSQLite",
@@ -26498,7 +26215,6 @@
         "ggplotify",
         "tidyselect",
         "pillar",
-        "bslib",
         "spatstat.random"
     ],
     "scCB2": [
@@ -26524,7 +26240,6 @@
         "tibble",
         "tidyr",
         "dplyr",
-        "bslib",
         "spatstat.random",
         "pillar",
         "tidyselect"
@@ -26598,7 +26313,6 @@
         "GenomicRanges",
         "tidyr",
         "dplyr",
-        "bslib",
         "spatstat.random",
         "pillar",
         "tidyselect"
@@ -26733,7 +26447,6 @@
         "sctransform",
         "SeuratObject",
         "spatstat.explore",
-        "bslib",
         "SummarizedExperiment",
         "GenomicRanges",
         "tidyr",
@@ -26763,7 +26476,6 @@
         "tidyselect",
         "pillar",
         "rvest",
-        "bslib",
         "shiny",
         "blob"
     ],
@@ -26784,7 +26496,6 @@
         "spatstat.explore",
         "tidyr",
         "dplyr",
-        "bslib",
         "spatstat.random",
         "pillar",
         "tidyselect"
@@ -26832,8 +26543,7 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "GenomicRanges",
-        "bslib"
+        "GenomicRanges"
     ],
     "scmeth": [
         "rmarkdown",
@@ -26857,7 +26567,6 @@
         "regioneR",
         "rtracklayer",
         "Rsamtools",
-        "bslib",
         "KEGGREST",
         "dbplyr",
         "tibble",
@@ -27176,7 +26885,6 @@
         "ggraph",
         "graphite",
         "gson",
-        "bslib",
         "blob",
         "Seurat",
         "shiny",
@@ -27231,7 +26939,6 @@
         "tidyselect",
         "fields",
         "tidyr",
-        "bslib",
         "Seurat",
         "shiny",
         "ggforce",
@@ -27308,7 +27015,6 @@
         "tweenr",
         "ragg",
         "tidyr",
-        "bslib",
         "spatstat.random",
         "KEGGREST",
         "progress",
@@ -27568,7 +27274,6 @@
         "tidyr",
         "tibble",
         "gistr",
-        "bslib",
         "RSQLite",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -27620,8 +27325,7 @@
         "KEGGREST",
         "shiny",
         "DT",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "SEtools": [
         "SummarizedExperiment",
@@ -27709,7 +27413,6 @@
         "genefilter",
         "GEOquery",
         "HDF5Array",
-        "bslib",
         "Rsamtools",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -27739,7 +27442,6 @@
         "genefilter",
         "GEOquery",
         "HDF5Array",
-        "bslib",
         "GenomicFeatures",
         "AnnotationDbi",
         "annotate",
@@ -27808,7 +27510,6 @@
         "SummarizedExperiment",
         "AnnotationDbi",
         "dplyr",
-        "bslib",
         "GenomicRanges",
         "RSQLite",
         "KEGGREST",
@@ -27893,8 +27594,7 @@
         "treeio",
         "shiny",
         "DT",
-        "tweenr",
-        "bslib"
+        "tweenr"
     ],
     "signeR": [
         "VariantAnnotation",
@@ -27936,7 +27636,6 @@
         "hms",
         "vroom",
         "GenomicAlignments",
-        "bslib",
         "forcats",
         "tidytidbits",
         "broom",
@@ -28124,7 +27823,6 @@
         "shinydashboard",
         "GenomicRanges",
         "tibble",
-        "bslib",
         "DropletUtils",
         "BiocFileCache",
         "dbplyr",
@@ -28263,7 +27961,6 @@
         "TFisher",
         "mutoss",
         "babelgene",
-        "bslib",
         "ggbeeswarm",
         "ggrastr",
         "bluster",
@@ -28594,8 +28291,7 @@
         "shinyjs",
         "tibble",
         "tidyselect",
-        "pillar",
-        "bslib"
+        "pillar"
     ],
     "SomaticSignatures": [
         "VariantAnnotation",
@@ -28672,7 +28368,6 @@
         "sctransform",
         "SeuratObject",
         "spatstat.explore",
-        "bslib",
         "ScaledMatrix",
         "ragg",
         "tidyr",
@@ -28756,7 +28451,6 @@
         "tweenr",
         "hms",
         "vroom",
-        "bslib",
         "GenomicRanges",
         "progress"
     ],
@@ -28876,7 +28570,6 @@
         "ggrepel",
         "bluster",
         "GenomicRanges",
-        "bslib",
         "Hmisc",
         "GO.db",
         "KEGGREST",
@@ -28991,7 +28684,6 @@
         "miniUI",
         "HDF5Array",
         "scuttle",
-        "bslib",
         "blob"
     ],
     "spicyR": [
@@ -29104,7 +28796,6 @@
         "tidyr",
         "hms",
         "GenomicAlignments",
-        "bslib",
         "KEGGREST",
         "blob",
         "pillar",
@@ -29238,7 +28929,6 @@
         "prodlim",
         "Biostrings",
         "testthat",
-        "bslib",
         "lava",
         "waldo"
     ],
@@ -29272,7 +28962,6 @@
         "HDF5Array",
         "scuttle",
         "tidyr",
-        "bslib",
         "spatstat.random",
         "blob"
     ],
@@ -29386,7 +29075,6 @@
         "annotate",
         "tibble",
         "shiny",
-        "bslib",
         "downlit",
         "ragg",
         "blob",
@@ -29462,8 +29150,7 @@
     ],
     "ssrch": [
         "shiny",
-        "DT",
-        "bslib"
+        "DT"
     ],
     "ssviz": [
         "Rsamtools",
@@ -29620,8 +29307,7 @@
         "rematch2",
         "vroom",
         "progress",
-        "rmarkdown",
-        "bslib"
+        "rmarkdown"
     ],
     "statTarget": [],
     "STdeconvolve": [
@@ -29668,7 +29354,6 @@
         "HDF5Array",
         "scuttle",
         "tidyr",
-        "bslib",
         "spatstat.random",
         "blob"
     ],
@@ -29685,7 +29370,6 @@
         "pillar",
         "SummarizedExperiment",
         "Biostrings",
-        "bslib",
         "GenomicFeatures",
         "AnnotationDbi",
         "RSQLite",
@@ -30004,7 +29688,6 @@
         "hms",
         "tibble",
         "vroom",
-        "bslib",
         "pillar",
         "tidyselect",
         "progress"
@@ -30062,7 +29745,6 @@
         "rmarkdown",
         "lwgeom",
         "nloptr",
-        "bslib",
         "testthat",
         "waldo"
     ],
@@ -30151,7 +29833,6 @@
         "pillar",
         "tidyr",
         "blob",
-        "bslib",
         "fresh",
         "waiter",
         "hms",
@@ -30260,8 +29941,7 @@
     ],
     "target": [
         "GenomicRanges",
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "TargetDecoy": [
         "ggplot2",
@@ -30276,7 +29956,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "bslib",
         "tidyselect",
         "pillar",
         "broom",
@@ -30424,7 +30103,6 @@
         "vroom",
         "sesameData",
         "BiocFileCache",
-        "bslib",
         "RSQLite",
         "dbplyr",
         "HDO.db",
@@ -30575,7 +30253,6 @@
         "rhdf5client",
         "bigrquery",
         "ExperimentHub",
-        "bslib",
         "GenomicRanges",
         "interactiveDisplayBase",
         "gargle",
@@ -30625,7 +30302,6 @@
         "Biostrings",
         "rtracklayer",
         "biomaRt",
-        "bslib",
         "progress",
         "Rsamtools",
         "GenomicAlignments"
@@ -30739,7 +30415,6 @@
         "progress",
         "GenomicRanges",
         "Biostrings",
-        "bslib",
         "blob",
         "hms"
     ],
@@ -30866,7 +30541,6 @@
         "ggtree",
         "repr",
         "hms",
-        "bslib",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -31068,7 +30742,6 @@
         "tidyr",
         "hms",
         "vroom",
-        "bslib",
         "blob",
         "progress"
     ],
@@ -31112,8 +30785,7 @@
         "shinyjs",
         "shinydashboard",
         "visNetwork",
-        "cowplot",
-        "bslib"
+        "cowplot"
     ],
     "TPP": [
         "dplyr",
@@ -31124,8 +30796,7 @@
         "rmarkdown",
         "tibble",
         "tidyselect",
-        "pillar",
-        "bslib"
+        "pillar"
     ],
     "TPP2D": [
         "dplyr",
@@ -31444,7 +31115,6 @@
         "SummarizedExperiment",
         "shiny",
         "shinyFiles",
-        "bslib",
         "tibble",
         "GenomicRanges",
         "pillar"
@@ -31535,7 +31205,6 @@
         "usethis",
         "ggplot2",
         "tidyr",
-        "bslib",
         "gert",
         "gh"
     ],
@@ -31581,7 +31250,6 @@
         "shiny",
         "SummarizedExperiment",
         "tibble",
-        "bslib",
         "GenomicRanges",
         "pillar"
     ],
@@ -31598,7 +31266,6 @@
         "pillar",
         "longitudinalData",
         "kml",
-        "bslib",
         "rgl"
     ],
     "ttgsea": [
@@ -31637,7 +31304,6 @@
         "ggplot2",
         "shiny",
         "tibble",
-        "bslib",
         "pillar"
     ],
     "txcutr": [
@@ -31688,8 +31354,7 @@
         "shiny",
         "DT",
         "GenomicAlignments",
-        "hms",
-        "bslib"
+        "hms"
     ],
     "UCell": [
         "SingleCellExperiment",
@@ -31728,7 +31393,6 @@
         "dbplyr",
         "ggplotify",
         "plyranges",
-        "bslib",
         "progress",
         "blob",
         "pillar",
@@ -31813,7 +31477,6 @@
         "latticeExtra",
         "GenomicAlignments",
         "GO.db",
-        "bslib",
         "KEGGREST",
         "progress",
         "Hmisc",
@@ -31945,7 +31608,6 @@
         "rtracklayer",
         "Rsamtools",
         "tibble",
-        "bslib",
         "GenomicAlignments",
         "pillar",
         "SummarizedExperiment"
@@ -32036,7 +31698,6 @@
         "biovizBase",
         "latticeExtra",
         "GenomicAlignments",
-        "bslib",
         "interactiveDisplayBase",
         "dplyr",
         "dbplyr",
@@ -32175,7 +31836,6 @@
         "forcats",
         "progress",
         "tibble",
-        "bslib",
         "tidyselect",
         "pillar",
         "annotate",
@@ -32258,8 +31918,7 @@
         "shiny",
         "DT",
         "Biostrings",
-        "blob",
-        "bslib"
+        "blob"
     ],
     "Voyager": [
         "bluster",
@@ -32304,7 +31963,6 @@
         "GenomicRanges",
         "tidyr",
         "ggplot2",
-        "bslib",
         "tibble",
         "dplyr",
         "tidyselect",
@@ -32345,8 +32003,7 @@
         "tidyselect",
         "shiny",
         "DT",
-        "GenomicAlignments",
-        "bslib"
+        "GenomicAlignments"
     ],
     "vulcan": [
         "ChIPpeakAnno",
@@ -32538,7 +32195,6 @@
         "tidyselect",
         "pillar",
         "usethis",
-        "bslib",
         "GenomicRanges",
         "gert",
         "gh"
@@ -32557,8 +32213,7 @@
         "rvest",
         "hms",
         "vroom",
-        "cellranger",
-        "bslib"
+        "cellranger"
     ],
     "xcms": [
         "MSnbase",
@@ -32613,8 +32268,7 @@
         "visNetwork",
         "dplyr",
         "tidyselect",
-        "cowplot",
-        "bslib"
+        "cowplot"
     ],
     "XINA": [
         "ggplot2",
@@ -32633,7 +32287,6 @@
         "rtracklayer",
         "Rsamtools",
         "rmarkdown",
-        "bslib",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
@@ -32806,12 +32459,9 @@
     ],
     "flexdashboard": [
         "rmarkdown",
-        "shiny",
-        "bslib"
+        "shiny"
     ],
-    "rmarkdown": [
-        "bslib"
-    ],
+    "rmarkdown": [],
     "vegan": [],
     "ggcorrplot": [
         "ggplot2",
@@ -32832,13 +32482,9 @@
         "pillar"
     ],
     "bookdown": [
-        "rmarkdown",
-        "bslib"
+        "rmarkdown"
     ],
-    "shiny": [
-        "bslib"
-    ],
-    "bslib": [],
+    "shiny": [],
     "tibble": [
         "pillar"
     ],
@@ -32889,8 +32535,7 @@
         "pillar"
     ],
     "shinyjs": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "testthat": [
         "waldo",
@@ -33004,8 +32649,7 @@
         "shiny",
         "DT",
         "blob",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "rvest": [
         "tibble",
@@ -33088,8 +32732,7 @@
     ],
     "NADA": [],
     "shinydashboard": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "seqinr": [],
     "readxl": [
@@ -33131,8 +32774,7 @@
         "shiny",
         "DT",
         "blob",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "readr": [
         "hms",
@@ -33206,7 +32848,6 @@
         "ggplot2",
         "shiny",
         "tibble",
-        "bslib",
         "pillar"
     ],
     "umap": [],
@@ -33246,8 +32887,7 @@
     "lava": [],
     "rapiclient": [],
     "miniUI": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "bigrquery": [
         "gargle",
@@ -33257,8 +32897,7 @@
         "pillar"
     ],
     "shinytoastr": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "gargle": [],
     "repmis": [],
@@ -33285,7 +32924,6 @@
         "tibble",
         "tidyr",
         "dplyr",
-        "bslib",
         "spatstat.random",
         "pillar",
         "tidyselect"
@@ -33430,8 +33068,7 @@
         "tidyselect",
         "SummarizedExperiment",
         "shiny",
-        "DT",
-        "bslib"
+        "DT"
     ],
     "MafDb.ExAC.r1.0.hs37d5": [
         "GenomicScores",
@@ -33456,8 +33093,7 @@
         "tidyselect",
         "SummarizedExperiment",
         "shiny",
-        "DT",
-        "bslib"
+        "DT"
     ],
     "MafDb.gnomADex.r2.1.hs37d5": [
         "GenomicScores",
@@ -33482,8 +33118,7 @@
         "tidyselect",
         "SummarizedExperiment",
         "shiny",
-        "DT",
-        "bslib"
+        "DT"
     ],
     "COSMIC.67": [
         "GenomicRanges",
@@ -33631,8 +33266,7 @@
         "rematch2",
         "vroom",
         "progress",
-        "rmarkdown",
-        "bslib"
+        "rmarkdown"
     ],
     "Mus.musculus": [
         "AnnotationDbi",
@@ -33771,8 +33405,7 @@
         "pillar"
     ],
     "reprex": [
-        "rmarkdown",
-        "bslib"
+        "rmarkdown"
     ],
     "reactome.db": [
         "AnnotationDbi",
@@ -33819,8 +33452,7 @@
         "dplyr",
         "tibble",
         "tidyselect",
-        "pillar",
-        "bslib"
+        "pillar"
     ],
     "gbm": [],
     "threejs": [],
@@ -33830,8 +33462,7 @@
         "pillar"
     ],
     "prettydoc": [
-        "rmarkdown",
-        "bslib"
+        "rmarkdown"
     ],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
@@ -33849,7 +33480,6 @@
         "shiny",
         "shinyjs",
         "tibble",
-        "bslib",
         "pillar"
     ],
     "colourpicker": [
@@ -33858,7 +33488,6 @@
         "shiny",
         "shinyjs",
         "tibble",
-        "bslib",
         "pillar"
     ],
     "MCMCpack": [
@@ -33941,8 +33570,7 @@
         "dbplyr"
     ],
     "shinycssloaders": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "ggforce": [
         "ggplot2",
@@ -33968,7 +33596,6 @@
         "plotly",
         "shinyFiles",
         "patchwork",
-        "bslib",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -33984,8 +33611,7 @@
         "rematch2"
     ],
     "shinythemes": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "org.Bt.eg.db": [
         "AnnotationDbi",
@@ -34024,13 +33650,11 @@
         "blob"
     ],
     "shinyAce": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "shinyFiles": [
         "shiny",
         "tibble",
-        "bslib",
         "pillar"
     ],
     "ggraph": [
@@ -34140,8 +33764,7 @@
         "KEGGREST",
         "shiny",
         "DT",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "WGCNA": [
         "Hmisc",
@@ -34173,8 +33796,7 @@
         "shiny",
         "DT",
         "blob",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "ggnetwork": [
         "ggplot2",
@@ -34200,8 +33822,7 @@
         "pillar"
     ],
     "shinyBS": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "superheat": [
         "dplyr",
@@ -34240,8 +33861,7 @@
         "shiny",
         "DT",
         "blob",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "pasilla": [
         "DEXSeq",
@@ -34322,7 +33942,6 @@
         "DT",
         "blob",
         "hms",
-        "bslib",
         "BSgenome"
     ],
     "BSgenome.Hsapiens.UCSC.hg38": [
@@ -34342,7 +33961,6 @@
         "rcmdcheck",
         "testthat",
         "shiny",
-        "bslib",
         "downlit",
         "ragg",
         "rmarkdown",
@@ -34354,7 +33972,6 @@
         "rematch2"
     ],
     "pkgdown": [
-        "bslib",
         "downlit",
         "ragg",
         "rmarkdown",
@@ -34412,8 +34029,7 @@
         "pillar"
     ],
     "rintrojs": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "enrichR": [
         "ggplot2",
@@ -34807,24 +34423,20 @@
     ],
     "ashr": [],
     "shinyhelper": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "shinyWidgets": [
-        "bslib",
         "shiny"
     ],
     "shinydashboardPlus": [
         "shiny",
         "shinydashboard",
         "fresh",
-        "waiter",
-        "bslib"
+        "waiter"
     ],
     "kableExtra": [
         "rvest",
         "rmarkdown",
-        "bslib",
         "tibble",
         "pillar"
     ],
@@ -34840,12 +34452,10 @@
         "pillar"
     ],
     "fresh": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "waiter": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
@@ -35097,8 +34707,7 @@
         "shiny",
         "DT",
         "blob",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "keras": [
         "tensorflow",
@@ -35115,8 +34724,7 @@
     "shinypanel": [
         "shinyjs",
         "shiny",
-        "shinyBS",
-        "bslib"
+        "shinyBS"
     ],
     "highcharter": [
         "dplyr",
@@ -35162,12 +34770,10 @@
         "pillar"
     ],
     "shinyFeedback": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "shinyMatrix": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "mbest": [
         "lme4",
@@ -35382,8 +34988,7 @@
         "shiny",
         "DT",
         "blob",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "coin": [
         "multcomp",
@@ -35410,8 +35015,7 @@
         "tidyselect",
         "shiny",
         "DT",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "batchtools": [
         "progress",
@@ -35442,8 +35046,7 @@
         "tidyselect",
         "shiny",
         "DT",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "homologene": [
         "dplyr",
@@ -35613,16 +35216,13 @@
     "bs4Dash": [
         "shiny",
         "fresh",
-        "waiter",
-        "bslib"
+        "waiter"
     ],
     "tippy": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "flextable": [
-        "rmarkdown",
-        "bslib"
+        "rmarkdown"
     ],
     "robust": [],
     "shinyHeatmaply": [
@@ -35642,12 +35242,10 @@
         "tidyr",
         "cellranger",
         "progress",
-        "bslib",
         "hms"
     ],
     "shinybusy": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "ggalt": [
         "ggplot2",
@@ -35675,7 +35273,6 @@
         "htmlTable",
         "viridis",
         "TH.data",
-        "bslib",
         "tibble",
         "pillar"
     ],
@@ -35691,8 +35288,7 @@
     "epiR": [
         "sf",
         "flextable",
-        "rmarkdown",
-        "bslib"
+        "rmarkdown"
     ],
     "sf": [],
     "penalized": [],
@@ -35721,8 +35317,7 @@
         "tidyselect",
         "shiny",
         "DT",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "servr": [],
     "available": [
@@ -35775,20 +35370,17 @@
     "golem": [
         "shiny",
         "usethis",
-        "bslib",
         "gert",
         "gh"
     ],
     "shinyalert": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "wordcloud2": [],
     "AdaptGauss": [
         "shiny",
         "DataVisualizations",
         "ggplot2",
-        "bslib",
         "tibble",
         "pillar"
     ],
@@ -35803,7 +35395,6 @@
         "cellranger",
         "progress",
         "haven",
-        "bslib",
         "pillar",
         "forcats",
         "hms",
@@ -35831,21 +35422,17 @@
     "sortable": [
         "learnr",
         "shiny",
-        "rmarkdown",
-        "bslib"
+        "rmarkdown"
     ],
     "bsplus": [
-        "rmarkdown",
-        "bslib"
+        "rmarkdown"
     ],
     "shinyvalidate": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "learnr": [
         "rmarkdown",
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "scam": [],
     "LogicReg": [],
@@ -35917,8 +35504,7 @@
         "shiny",
         "DT",
         "blob",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "plsgenomics": [
         "fields",
@@ -35937,7 +35523,6 @@
         "haven",
         "dplyr",
         "tidyr",
-        "bslib",
         "tibble",
         "tidyselect",
         "pillar",
@@ -35956,7 +35541,6 @@
         "haven",
         "dplyr",
         "tidyr",
-        "bslib",
         "tibble",
         "tidyselect",
         "pillar",
@@ -35974,7 +35558,6 @@
         "haven",
         "dplyr",
         "tidyr",
-        "bslib",
         "tibble",
         "tidyselect",
         "pillar",
@@ -36044,8 +35627,7 @@
     ],
     "rmdformats": [
         "rmarkdown",
-        "bookdown",
-        "bslib"
+        "bookdown"
     ],
     "sesameData": [
         "ExperimentHub",
@@ -36068,8 +35650,7 @@
         "DT",
         "blob",
         "progress",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "FlowSorted.Blood.450k": [
         "minfi",
@@ -36134,7 +35715,6 @@
         "GenomicAlignments",
         "progress",
         "SummarizedExperiment",
-        "bslib",
         "hms"
     ],
     "PerformanceAnalytics": [],
@@ -36151,8 +35731,7 @@
         "hms"
     ],
     "shinycustomloader": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "ggstar": [
         "ggplot2",
@@ -36160,8 +35739,7 @@
         "pillar"
     ],
     "formattable": [
-        "rmarkdown",
-        "bslib"
+        "rmarkdown"
     ],
     "HardyWeinberg": [
         "mice",
@@ -36233,8 +35811,7 @@
         "dplyr",
         "tibble",
         "tidyselect",
-        "pillar",
-        "bslib"
+        "pillar"
     ],
     "SOMbrero": [
         "shiny",
@@ -36242,7 +35819,6 @@
         "ggwordcloud",
         "metR",
         "tibble",
-        "bslib",
         "pillar"
     ],
     "MatrixCorrelation": [
@@ -36303,8 +35879,7 @@
         "tidyr",
         "ggplot2",
         "tidyselect",
-        "pillar",
-        "bslib"
+        "pillar"
     ],
     "MKmisc": [
         "ggplot2",
@@ -36329,7 +35904,6 @@
         "rcmdcheck",
         "testthat",
         "shiny",
-        "bslib",
         "downlit",
         "ragg",
         "rmarkdown",
@@ -36363,8 +35937,7 @@
         "SummarizedExperiment"
     ],
     "shinyjqui": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "VarfromPDB": [
         "RISmed"
@@ -36442,8 +36015,7 @@
         "SummarizedExperiment",
         "KEGGREST",
         "shiny",
-        "DT",
-        "bslib"
+        "DT"
     ],
     "octad.db": [
         "ExperimentHub",
@@ -36461,8 +36033,7 @@
         "tidyselect",
         "shiny",
         "DT",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "diceR": [
         "dplyr",
@@ -36481,7 +36052,6 @@
         "styler",
         "labelled",
         "haven",
-        "bslib",
         "forcats",
         "hms",
         "readr",
@@ -36644,8 +36214,7 @@
         "tidyselect",
         "SummarizedExperiment",
         "shiny",
-        "DT",
-        "bslib"
+        "DT"
     ],
     "forecast": [
         "ggplot2",
@@ -36705,12 +36274,10 @@
         "tidyselect"
     ],
     "pairsD3": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "shinyscreenshot": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "pwrEWAS.data": [
         "ExperimentHub",
@@ -36728,8 +36295,7 @@
         "tidyselect",
         "shiny",
         "DT",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "phastCons100way.UCSC.hg19": [
         "GenomicScores",
@@ -36754,8 +36320,7 @@
         "tidyselect",
         "SummarizedExperiment",
         "shiny",
-        "DT",
-        "bslib"
+        "DT"
     ],
     "arrow": [
         "tidyselect"
@@ -36765,7 +36330,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "bslib",
         "pillar",
         "dplyr"
     ],
@@ -36779,8 +36343,7 @@
         "SummarizedExperiment"
     ],
     "knitrBootstrap": [
-        "rmarkdown",
-        "bslib"
+        "rmarkdown"
     ],
     "RefManageR": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [
@@ -36807,8 +36370,7 @@
         "shiny",
         "DT",
         "blob",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "valr": [
         "broom",
@@ -36865,8 +36427,7 @@
         "shiny",
         "DT",
         "blob",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "TBX20BamSubset": [
         "Rsamtools",
@@ -36884,15 +36445,13 @@
         "ggplot2",
         "shiny",
         "tibble",
-        "bslib",
         "pillar"
     ],
     "GENLIB": [],
     "excelR": [],
     "SBGNview.data": [
         "rmarkdown",
-        "bookdown",
-        "bslib"
+        "bookdown"
     ],
     "scanMiRData": [
         "scanMiR",
@@ -36924,8 +36483,7 @@
         "tibble",
         "tidyselect",
         "shiny",
-        "DT",
-        "bslib"
+        "DT"
     ],
     "origami": [],
     "Rmagic": [],
@@ -36970,16 +36528,14 @@
         "dplyr",
         "tibble",
         "tidyselect",
-        "pillar",
-        "bslib"
+        "pillar"
     ],
     "gistr": [
         "rmarkdown",
         "dplyr",
         "tibble",
         "tidyselect",
-        "pillar",
-        "bslib"
+        "pillar"
     ],
     "mlr3": [],
     "mlr3learners": [
@@ -37061,8 +36617,7 @@
         "shiny",
         "DT",
         "Biostrings",
-        "blob",
-        "bslib"
+        "blob"
     ],
     "GSVAdata": [
         "GSEABase",
@@ -37092,7 +36647,6 @@
         "spatstat.explore",
         "tidyr",
         "dplyr",
-        "bslib",
         "spatstat.random",
         "pillar",
         "tidyselect"
@@ -37125,8 +36679,7 @@
         "DT",
         "blob",
         "GenomicAlignments",
-        "hms",
-        "bslib"
+        "hms"
     ],
     "TENxPBMCData": [
         "SingleCellExperiment",
@@ -37148,8 +36701,7 @@
         "shiny",
         "DT",
         "blob",
-        "Biostrings",
-        "bslib"
+        "Biostrings"
     ],
     "hgu95a.db": [
         "AnnotationDbi",
@@ -37175,7 +36727,6 @@
         "shinyjs",
         "ggplot2",
         "miniUI",
-        "bslib",
         "tibble",
         "pillar"
     ],
@@ -37293,14 +36844,12 @@
     "spsComps": [
         "shiny",
         "shinytoastr",
-        "shinyAce",
-        "bslib"
+        "shinyAce"
     ],
     "drawer": [
         "bsplus",
         "shiny",
-        "rmarkdown",
-        "bslib"
+        "rmarkdown"
     ],
     "GenKern": [],
     "ttservice": [
@@ -37313,7 +36862,6 @@
         "ggplot2",
         "shiny",
         "tibble",
-        "bslib",
         "pillar"
     ],
     "gghighlight": [
@@ -37412,12 +36960,10 @@
         "rmarkdown",
         "tibble",
         "tidyselect",
-        "pillar",
-        "bslib"
+        "pillar"
     ],
     "shinyTree": [
-        "shiny",
-        "bslib"
+        "shiny"
     ],
     "msigdb": [
         "ExperimentHub",
@@ -37439,8 +36985,7 @@
         "shiny",
         "DT",
         "Biostrings",
-        "blob",
-        "bslib"
+        "blob"
     ],
     "eva": [
         "EnvStats",
