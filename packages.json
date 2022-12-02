@@ -1562,7 +1562,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "MatrixQCvis": [],
     "MatrixRider": [],
     "MBECS": [
         "lme4",
