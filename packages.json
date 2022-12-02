@@ -9229,7 +9229,6 @@
         "dplyr",
         "ggplot2",
         "ggtree",
-        "msa",
         "UpSetR",
         "aplot",
         "ggfun",
@@ -11348,7 +11347,6 @@
         "waldo",
         "rematch2"
     ],
-    "msa": [],
     "MSA2dist": [
         "dplyr",
         "tidyr"
@@ -12476,9 +12474,7 @@
         "nloptr",
         "rematch2"
     ],
-    "odseq": [
-        "msa"
-    ],
+    "odseq": [],
     "OGRE": [
         "ggplot2",
         "Gviz",
@@ -18014,7 +18010,6 @@
         "ggplot2",
         "readr",
         "testthat",
-        "msa",
         "AnnotationDbi",
         "BiocFileCache",
         "vroom",
