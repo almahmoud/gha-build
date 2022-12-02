@@ -25375,7 +25375,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "GenomicRanges",
-        "CopyhelpeR",
         "GenomeInfoDb",
         "futile.logger",
         "snow",
@@ -147887,7 +147886,6 @@
         "stringi",
         "assertthat"
     ],
-    "CopyhelpeR": [],
     "arules": [
         "Matrix",
         "generics",
