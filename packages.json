@@ -33,7 +33,6 @@
     "ADAMgui": [
         "ADAM",
         "GO.db",
-        "ggrepel",
         "ggpubr",
         "ggsignif",
         "testthat",
@@ -137,8 +136,7 @@
         "scuttle",
         "ggbeeswarm",
         "viridis",
-        "ggrastr",
-        "ggrepel"
+        "ggrastr"
     ],
     "ALDEx2": [],
     "alevinQC": [
@@ -174,8 +172,7 @@
         "tidyr",
         "readxl",
         "mixOmics",
-        "speaq",
-        "ggrepel"
+        "speaq"
     ],
     "AMARETTO": [
         "BiocFileCache",
@@ -218,13 +215,11 @@
         "treeio",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "waldo",
         "tidytree"
     ],
     "AneuFinder": [
-        "GenomicAlignments",
-        "ggrepel"
+        "GenomicAlignments"
     ],
     "animalcules": [
         "DESeq2",
@@ -235,7 +230,6 @@
         "GUniFrac",
         "recipes",
         "geneplotter",
-        "ggrepel",
         "tidyr",
         "annotate",
         "ipred"
@@ -296,7 +290,6 @@
         "GenomicFeatures",
         "GenomicAlignments",
         "DESeq2",
-        "ggrepel",
         "rtracklayer",
         "VariantAnnotation",
         "tidyr",
@@ -311,7 +304,6 @@
     ],
     "apeglm": [],
     "APL": [
-        "ggrepel",
         "plotly",
         "Seurat",
         "SingleCellExperiment",
@@ -390,7 +382,6 @@
         "viridis"
     ],
     "artMS": [
-        "ggrepel",
         "MSstats",
         "org.Hs.eg.db",
         "plotly",
@@ -407,8 +398,7 @@
         "plotly",
         "MultiAssayExperiment",
         "MultiDataSet",
-        "tidyr",
-        "ggrepel"
+        "tidyr"
     ],
     "ASpediaFI": [
         "GenomicAlignments",
@@ -525,7 +515,6 @@
         "GenomicAlignments",
         "motifmatchr",
         "TFBSTools",
-        "ggrepel",
         "BSgenome",
         "CNEr",
         "rtracklayer",
@@ -568,7 +557,6 @@
     ],
     "autonomics": [
         "BiocFileCache",
-        "ggrepel",
         "MultiAssayExperiment",
         "readxl",
         "tidyr"
@@ -619,7 +607,6 @@
         "pRoloc",
         "pRolocdata",
         "ggalluvial",
-        "ggrepel",
         "tidyr",
         "vsn",
         "MLInterfaces",
@@ -699,8 +686,7 @@
         "scuttle",
         "ggbeeswarm",
         "viridis",
-        "ggrastr",
-        "ggrepel"
+        "ggrastr"
     ],
     "bayNorm": [
         "SingleCellExperiment"
@@ -753,7 +739,6 @@
         "patchwork",
         "scattermore",
         "geneplotter",
-        "ggrepel",
         "plotly",
         "sctransform",
         "treeio",
@@ -871,7 +856,6 @@
         "shadowtext",
         "ggtree",
         "ggforce",
-        "ggrepel",
         "tidygraph",
         "ggfun",
         "ggplotify",
@@ -904,7 +888,6 @@
         "ExperimentHub",
         "rtracklayer",
         "biomaRt",
-        "ggrepel",
         "ggsci",
         "tidyr",
         "ggsignif",
@@ -1019,7 +1002,6 @@
         "GO.db",
         "org.Hs.eg.db",
         "WGCNA",
-        "ggrepel",
         "synaptome.data",
         "AnnotationHub",
         "Hmisc",
@@ -1029,7 +1011,6 @@
     "BioNERO": [
         "WGCNA",
         "sva",
-        "ggrepel",
         "patchwork",
         "ggnetwork",
         "intergraph",
@@ -1054,7 +1035,6 @@
         "MultiDataSet",
         "ropls",
         "tidyr",
-        "ggrepel",
         "plotly"
     ],
     "BioTIP": [
@@ -1330,7 +1310,6 @@
         "BioNERO",
         "WGCNA",
         "sva",
-        "ggrepel",
         "patchwork",
         "ggnetwork",
         "intergraph",
@@ -1420,7 +1399,6 @@
         "SingleCellExperiment",
         "drc",
         "FlowSOM",
-        "ggrepel",
         "ggridges",
         "scater",
         "car",
@@ -1514,7 +1492,6 @@
     ],
     "celda": [
         "SingleCellExperiment",
-        "ggrepel",
         "scater",
         "scran",
         "multipanelfigure",
@@ -1555,7 +1532,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrastr",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -1573,7 +1549,6 @@
         "FactoMineR",
         "Hmisc",
         "car",
-        "ggrepel",
         "viridis",
         "pbkrtest",
         "lme4",
@@ -1591,8 +1566,7 @@
         "ggridges",
         "scuttle",
         "ggbeeswarm",
-        "ggrastr",
-        "ggrepel"
+        "ggrastr"
     ],
     "CellNOptR": [],
     "cellscape": [],
@@ -1600,7 +1574,6 @@
         "SingleCellExperiment",
         "dendextend",
         "EnvStats",
-        "ggrepel",
         "viridis"
     ],
     "cellTree": [
@@ -1611,7 +1584,6 @@
         "WGCNA",
         "ggpmisc",
         "ggthemes",
-        "ggrepel",
         "sna",
         "clusterProfiler",
         "fgsea",
@@ -1654,7 +1626,6 @@
         "ggnewscale",
         "ggpubr",
         "testthat",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -1673,7 +1644,6 @@
         "ggraph",
         "tidyr",
         "ggforce",
-        "ggrepel",
         "viridis"
     ],
     "CeTF": [
@@ -1683,7 +1653,6 @@
         "GGally",
         "ggnetwork",
         "ggpubr",
-        "ggrepel",
         "RCy3",
         "DOSE",
         "enrichplot",
@@ -1888,7 +1857,6 @@
         "ShortRead",
         "systemPipeR",
         "DESeq2",
-        "ggrepel",
         "apeglm",
         "GreyListChIP",
         "rtracklayer",
@@ -1921,7 +1889,6 @@
         "fgsea",
         "qvalue",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "tidyr",
@@ -1966,7 +1933,6 @@
         "kableExtra",
         "viridis",
         "batchelor",
-        "ggrepel",
         "gggenes",
         "scran",
         "scater",
@@ -2027,7 +1993,6 @@
         "ggraph",
         "tidygraph",
         "ggforce",
-        "ggrepel",
         "viridis"
     ],
     "CINdex": [],
@@ -2067,7 +2032,6 @@
         "ggridges",
         "ggraph",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "scuttle",
@@ -2146,7 +2110,6 @@
         "ggplotify",
         "patchwork",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "tidytree",
@@ -2406,7 +2369,6 @@
         "dendextend",
         "FactoMineR",
         "ggpubr",
-        "ggrepel",
         "readr",
         "scuttle",
         "ggbeeswarm",
@@ -2452,7 +2414,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrastr",
-        "ggrepel",
         "spatstat.linnet",
         "ipred",
         "tidyr"
@@ -2589,7 +2550,6 @@
         "annotate"
     ],
     "COTAN": [
-        "ggrepel",
         "tidyr"
     ],
     "countsimQC": [
@@ -2759,7 +2719,6 @@
     "cTRAP": [
         "AnnotationHub",
         "fgsea",
-        "ggrepel",
         "highcharter",
         "readxl",
         "BiocFileCache",
@@ -2831,7 +2790,6 @@
         "tidyr",
         "factoextra",
         "mbest",
-        "ggrepel",
         "caret",
         "FlowSOM",
         "lme4",
@@ -2856,7 +2814,6 @@
     "CytoGLMM": [
         "factoextra",
         "mbest",
-        "ggrepel",
         "tidyr",
         "caret",
         "recipes",
@@ -2935,7 +2892,6 @@
         "biomaRt",
         "GenomicFeatures",
         "car",
-        "ggrepel",
         "viridis",
         "genefilter",
         "BiocFileCache",
@@ -2962,7 +2918,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "ggpubr",
-        "ggrepel",
         "megadepth",
         "plyranges",
         "readr",
@@ -2993,7 +2948,6 @@
         "org.Hs.eg.db",
         "shadowtext",
         "ggforce",
-        "ggrepel",
         "viridis",
         "mutoss",
         "Linnorm",
@@ -3067,7 +3021,6 @@
         "ggplotify",
         "patchwork",
         "ggforce",
-        "ggrepel",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -3163,7 +3116,6 @@
     "DEGreport": [
         "broom",
         "DESeq2",
-        "ggrepel",
         "tidyr",
         "geneplotter",
         "annotate"
@@ -3193,14 +3145,12 @@
         "readr",
         "tidyr",
         "MSnbase",
-        "vsn",
-        "ggrepel"
+        "vsn"
     ],
     "DepecheR": [
         "viridis",
         "mixOmics",
-        "tidyr",
-        "ggrepel"
+        "tidyr"
     ],
     "derfinder": [
         "bumphunter",
@@ -3305,7 +3255,6 @@
         "GenomicAlignments",
         "systemPipeR",
         "DESeq2",
-        "ggrepel",
         "apeglm",
         "GreyListChIP",
         "geneplotter",
@@ -3328,7 +3277,6 @@
         "ggnewscale",
         "ggpubr",
         "nloptr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -3356,7 +3304,6 @@
     "diffUTR": [
         "DEXSeq",
         "rtracklayer",
-        "ggrepel",
         "ensembldb",
         "DESeq2",
         "biomaRt",
@@ -3372,7 +3319,6 @@
         "Seurat",
         "scran",
         "scuttle",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -3400,11 +3346,9 @@
         "scuttle",
         "ggbeeswarm",
         "viridis",
-        "ggrastr",
-        "ggrepel"
+        "ggrastr"
     ],
     "dittoSeq": [
-        "ggrepel",
         "ggridges",
         "SingleCellExperiment"
     ],
@@ -3595,7 +3539,6 @@
         "ggpubr",
         "DESeq2",
         "rstatix",
-        "ggrepel",
         "coin",
         "geneplotter",
         "ExperimentHub",
@@ -3637,7 +3580,6 @@
         "ggplotify",
         "patchwork",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "tidytree",
@@ -3709,7 +3651,6 @@
         "ggplotify",
         "patchwork",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "tidytree",
@@ -3750,7 +3691,6 @@
         "Gviz",
         "MultiAssayExperiment",
         "biomaRt",
-        "ggrepel",
         "readr",
         "plotly",
         "tidyr",
@@ -3775,9 +3715,7 @@
         "testthat",
         "waldo"
     ],
-    "EnhancedVolcano": [
-        "ggrepel"
-    ],
+    "EnhancedVolcano": [],
     "enhancerHomologSearch": [
         "BSgenome",
         "BiocFileCache",
@@ -3833,7 +3771,6 @@
         "fgsea",
         "qvalue",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "tidyr",
@@ -3857,7 +3794,6 @@
         "gson",
         "qvalue",
         "tidyr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -3939,7 +3875,6 @@
         "qvalue",
         "annotate",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "tidytree",
@@ -3951,7 +3886,6 @@
         "rtracklayer",
         "rstatix",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "tidyr",
         "ggsignif",
@@ -3972,7 +3906,6 @@
         "csaw",
         "ggpubr",
         "GreyListChIP",
-        "ggrepel",
         "ggsci",
         "tidyr",
         "ggsignif",
@@ -4009,7 +3942,6 @@
         "shadowtext",
         "ggtree",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "tidyr",
@@ -4051,7 +3983,6 @@
         "IlluminaHumanMethylationEPICmanifest",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
-        "ggrepel",
         "BiocFileCache",
         "BSgenome",
         "biovizBase",
@@ -4190,7 +4121,6 @@
         "ggplotify",
         "patchwork",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "tidytree",
@@ -4242,7 +4172,6 @@
         "ggtree",
         "AnnotationHub",
         "BiocFileCache",
-        "ggrepel",
         "ggsci",
         "tidyr",
         "ggsignif",
@@ -4314,7 +4243,6 @@
         "csaw",
         "GenomicInteractions",
         "ggforce",
-        "ggrepel",
         "ggside",
         "Gviz",
         "InteractionSet",
@@ -4374,7 +4302,6 @@
         "ggplotify",
         "patchwork",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "tidytree",
@@ -4409,7 +4336,6 @@
     ],
     "fcoex": [
         "FCBF",
-        "ggrepel",
         "intergraph",
         "clusterProfiler",
         "sna",
@@ -4486,7 +4412,6 @@
         "GenomicFeatures",
         "patchwork",
         "qvalue",
-        "ggrepel",
         "tidyr",
         "MultiAssayExperiment",
         "biomaRt",
@@ -4530,7 +4455,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrastr",
-        "ggrepel",
         "BiocFileCache"
     ],
     "flowcatchR": [
@@ -4573,8 +4497,7 @@
         "waldo"
     ],
     "flowGraph": [
-        "ggiraph",
-        "ggrepel"
+        "ggiraph"
     ],
     "flowPloidy": [
         "car",
@@ -4591,7 +4514,6 @@
         "ggnewscale",
         "ggpubr",
         "tidyr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -4629,7 +4551,6 @@
         "tidygraph",
         "tidyr",
         "ggforce",
-        "ggrepel",
         "viridis",
         "ipred",
         "lexicon",
@@ -4645,7 +4566,6 @@
         "BSgenome",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ggrepel",
         "OUTRIDER",
         "plotly",
         "BiocFileCache",
@@ -4708,7 +4628,6 @@
         "ggplotify",
         "ggpubr",
         "DataVisualizations",
-        "ggrepel",
         "ggsci",
         "tidyr",
         "ggsignif",
@@ -4762,7 +4681,6 @@
         "biomaRt",
         "GenomicFeatures",
         "car",
-        "ggrepel",
         "viridis",
         "genefilter",
         "waldo",
@@ -4819,7 +4737,6 @@
         "shadowtext",
         "ggtree",
         "annotate",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -4857,7 +4774,6 @@
         "biomaRt",
         "ggpubr",
         "BiocFileCache",
-        "ggrepel",
         "ggsci",
         "tidyr",
         "ggsignif",
@@ -4893,7 +4809,6 @@
     "GeneGeneInteR": [
         "FactoMineR",
         "car",
-        "ggrepel",
         "pbkrtest",
         "lme4",
         "nloptr",
@@ -4939,7 +4854,6 @@
         "dendextend",
         "DESeq2",
         "ggforce",
-        "ggrepel",
         "GO.db",
         "plotly",
         "tidyr",
@@ -5036,7 +4950,6 @@
         "ggpubr",
         "plotly",
         "BiocFileCache",
-        "ggrepel",
         "ggsci",
         "tidyr",
         "ggsignif",
@@ -5108,7 +5021,6 @@
         "dendextend",
         "FactoMineR",
         "ggpubr",
-        "ggrepel",
         "tidyr",
         "readr",
         "viridis",
@@ -5194,9 +5106,7 @@
     "ggcyto": [
         "flowWorkspace"
     ],
-    "ggmanh": [
-        "ggrepel"
-    ],
+    "ggmanh": [],
     "ggmsa": [
         "tidyr",
         "aplot",
@@ -5267,7 +5177,6 @@
         "viridis"
     ],
     "GladiaTOX": [
-        "ggrepel",
         "tidyr"
     ],
     "Glimma": [
@@ -5288,7 +5197,6 @@
         "ggpubr",
         "broom",
         "survMisc",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -5404,7 +5312,6 @@
         "ggplotify",
         "patchwork",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "tidytree",
@@ -5432,9 +5339,7 @@
     "goTools": [
         "GO.db"
     ],
-    "GPA": [
-        "ggrepel"
-    ],
+    "GPA": [],
     "gpuMagic": [
         "DescTools",
         "readxl"
@@ -5643,7 +5548,6 @@
         "biomaRt",
         "DESeq2",
         "EnvStats",
-        "ggrepel",
         "MultiAssayExperiment",
         "tidyr",
         "BiocFileCache",
@@ -5691,7 +5595,6 @@
         "ggExtra",
         "multiHiCcompare",
         "colourpicker",
-        "ggrepel",
         "ggsci",
         "tidyr",
         "ggsignif",
@@ -5747,8 +5650,7 @@
         "tidyr"
     ],
     "HIPPO": [
-        "SingleCellExperiment",
-        "ggrepel"
+        "SingleCellExperiment"
     ],
     "hiReadsProcessor": [
         "GenomicAlignments",
@@ -5868,7 +5770,6 @@
         "goseq",
         "GOstats",
         "GO.db",
-        "ggrepel",
         "geneplotter",
         "geneLenDataBase",
         "Category",
@@ -5947,7 +5848,6 @@
         "concaveman",
         "ggbeeswarm",
         "ggforce",
-        "ggrepel",
         "DropletUtils",
         "BiocFileCache",
         "tidyr"
@@ -5978,7 +5878,6 @@
         "Seurat",
         "SingleCellExperiment",
         "tidyr",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -6013,7 +5912,6 @@
         "rtracklayer",
         "qvalue",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "tidyr",
         "ggsignif",
@@ -6066,7 +5964,6 @@
         "viridis",
         "FactoMineR",
         "ggpubr",
-        "ggrepel",
         "car",
         "ggsci",
         "ggsignif",
@@ -6099,7 +5996,6 @@
     "iPath": [
         "ggpubr",
         "survminer",
-        "ggrepel",
         "ggsci",
         "tidyr",
         "ggsignif",
@@ -6145,7 +6041,6 @@
         "gson",
         "qvalue",
         "tidyr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -6182,7 +6077,6 @@
     "ISAnalytics": [
         "readr",
         "tidyr",
-        "ggrepel",
         "readxl",
         "datamods",
         "rio",
@@ -6190,13 +6084,11 @@
     ],
     "iSEE": [
         "SingleCellExperiment",
-        "ggrepel",
         "colourpicker"
     ],
     "iSEEhex": [
         "iSEE",
         "SingleCellExperiment",
-        "ggrepel",
         "colourpicker"
     ],
     "iSEEhub": [
@@ -6205,15 +6097,13 @@
         "AnnotationHub",
         "iSEE",
         "BiocFileCache",
-        "ggrepel",
         "colourpicker"
     ],
     "iSEEu": [
         "iSEE",
         "iSEEhex",
         "SingleCellExperiment",
-        "colourpicker",
-        "ggrepel"
+        "colourpicker"
     ],
     "ISLET": [],
     "isobar": [
@@ -6254,7 +6144,6 @@
         "GGally",
         "readr",
         "tidyr",
-        "ggrepel",
         "geneplotter",
         "annotate"
     ],
@@ -6284,7 +6173,6 @@
         "ggpubr",
         "broom",
         "survMisc",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -6346,7 +6234,6 @@
         "dendextend",
         "FactoMineR",
         "ggpubr",
-        "ggrepel",
         "tidyr",
         "BSgenome",
         "viridis",
@@ -6409,7 +6296,6 @@
         "ggpubr",
         "rio",
         "MultiAssayExperiment",
-        "ggrepel",
         "ggsci",
         "tidyr",
         "ggsignif",
@@ -6444,8 +6330,7 @@
         "ropls",
         "plotly",
         "MultiAssayExperiment",
-        "MultiDataSet",
-        "ggrepel"
+        "MultiDataSet"
     ],
     "LiquidAssociation": [
         "geepack",
@@ -6507,7 +6392,6 @@
     "LRcell": [
         "ExperimentHub",
         "AnnotationHub",
-        "ggrepel",
         "BiocFileCache"
     ],
     "lumi": [
@@ -6595,8 +6479,7 @@
         "annotate"
     ],
     "MACSQuantifyR": [
-        "readxl",
-        "ggrepel"
+        "readxl"
     ],
     "MACSr": [
         "ExperimentHub",
@@ -6641,7 +6524,6 @@
         "GenomicAlignments"
     ],
     "MAGeCKFlute": [
-        "ggrepel",
         "DOSE",
         "clusterProfiler",
         "pathview",
@@ -6854,7 +6736,6 @@
         "methylumi",
         "org.Hs.eg.db",
         "ruv",
-        "ggrepel",
         "sva",
         "BiocFileCache",
         "Hmisc",
@@ -6951,7 +6832,6 @@
         "ggplotify",
         "patchwork",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "tidyr",
@@ -6967,7 +6847,6 @@
     ],
     "MesKit": [
         "tidyr",
-        "ggrepel",
         "ggridges"
     ],
     "messina": [],
@@ -7025,7 +6904,6 @@
         "ggforce",
         "ggnewscale",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -7064,7 +6942,6 @@
         "tidyr"
     ],
     "MetaPhOR": [
-        "ggrepel",
         "clusterProfiler",
         "RecordLinkage",
         "RCy3",
@@ -7096,7 +6973,6 @@
     "metapone": [
         "fields",
         "fgsea",
-        "ggrepel",
         "viridis"
     ],
     "metaseqR2": [
@@ -7174,7 +7050,6 @@
         "ExperimentHub",
         "readr",
         "BiocFileCache",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -7239,7 +7114,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "ggpp",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -7308,7 +7182,6 @@
         "biomaRt",
         "readr",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "tidytree",
@@ -7407,7 +7280,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrastr",
-        "ggrepel",
         "treeio",
         "tidytree"
     ],
@@ -7430,7 +7302,6 @@
         "tidygraph",
         "tidyr",
         "ggforce",
-        "ggrepel",
         "aplot",
         "ggfun",
         "treeio",
@@ -7507,7 +7378,6 @@
         "ipred",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "waldo"
     ],
     "MicrobiomeProfiler": [
@@ -7531,7 +7401,6 @@
         "HDO.db",
         "fgsea",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "tidytree",
@@ -7539,7 +7408,6 @@
     ],
     "MicrobiotaProcess": [
         "tidyr",
-        "ggrepel",
         "ggtree",
         "tidytree",
         "coin",
@@ -7576,7 +7444,6 @@
         "ggraph",
         "patchwork",
         "tidyr",
-        "ggrepel",
         "ggbeeswarm",
         "ggforce",
         "viridis",
@@ -7730,7 +7597,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -7789,7 +7655,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -7868,8 +7733,7 @@
         "BiocFileCache"
     ],
     "mixOmics": [
-        "tidyr",
-        "ggrepel"
+        "tidyr"
     ],
     "MLInterfaces": [
         "annotate",
@@ -7929,8 +7793,7 @@
         "viridis"
     ],
     "MOFA2": [
-        "tidyr",
-        "ggrepel"
+        "tidyr"
     ],
     "MOGAMUN": [
         "RCy3"
@@ -7987,7 +7850,6 @@
         "ggplotify",
         "patchwork",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "tidytree",
@@ -8066,7 +7928,6 @@
         "ggpubr",
         "tidyr",
         "ggforce",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -8165,7 +8026,6 @@
     ],
     "MSstats": [
         "lme4",
-        "ggrepel",
         "nloptr",
         "testthat",
         "waldo"
@@ -8179,7 +8039,6 @@
         "tidyverse",
         "dendextend",
         "FactoMineR",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -8204,7 +8063,6 @@
     "MSstatsPTM": [
         "MSstatsTMT",
         "MSstats",
-        "ggrepel",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -8233,7 +8091,6 @@
         "MSstats",
         "recipes",
         "lme4",
-        "ggrepel",
         "nloptr",
         "ipred",
         "tidyr",
@@ -8245,7 +8102,6 @@
         "MSstats",
         "MSstatsTMT",
         "MSstatsPTM",
-        "ggrepel",
         "tidyr",
         "viridis",
         "lme4",
@@ -8259,7 +8115,6 @@
         "lmerTest",
         "MSstats",
         "nloptr",
-        "ggrepel",
         "testthat",
         "waldo"
     ],
@@ -8280,8 +8135,7 @@
         "ropls",
         "tidyr",
         "plotly",
-        "MultiDataSet",
-        "ggrepel"
+        "MultiDataSet"
     ],
     "multiClust": [
         "dendextend",
@@ -8307,9 +8161,7 @@
         "tensorflow",
         "viridis"
     ],
-    "MultiDataSet": [
-        "ggrepel"
-    ],
+    "MultiDataSet": [],
     "multiGSEA": [
         "graphite",
         "fgsea",
@@ -8353,7 +8205,6 @@
         "shadowtext",
         "ggtree",
         "mutoss",
-        "ggrepel",
         "reactome.db",
         "graphite",
         "ggfun",
@@ -8403,7 +8254,6 @@
         "nloptr",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "pbkrtest",
         "annotate",
         "testthat",
@@ -8425,7 +8275,6 @@
         "BSgenome.Mmusculus.UCSC.mm10",
         "deconstructSigs",
         "decompTumor2Sig",
-        "ggrepel",
         "plotly",
         "factoextra",
         "sortable",
@@ -8606,7 +8455,6 @@
         "patchwork",
         "Seurat",
         "SingleCellExperiment",
-        "ggrepel",
         "ggridges",
         "plotly",
         "scattermore",
@@ -8651,7 +8499,6 @@
         "ggplotify",
         "patchwork",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "tidytree",
@@ -8697,7 +8544,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrastr",
-        "ggrepel",
         "ClusterR",
         "benchmarkme",
         "RNeXML",
@@ -8851,7 +8697,6 @@
         "dasper",
         "derfinder",
         "ggpubr",
-        "ggrepel",
         "rtracklayer",
         "megadepth",
         "GenomicFeatures",
@@ -8924,7 +8769,6 @@
     "omicRexposome": [
         "rexposome",
         "sva",
-        "ggrepel",
         "omicade4",
         "MultiDataSet",
         "SmartSVA",
@@ -8958,7 +8802,6 @@
         "tidyr",
         "dendextend",
         "ggpubr",
-        "ggrepel",
         "car",
         "BSgenome",
         "GenomicFeatures",
@@ -8991,7 +8834,6 @@
         "ggpubr",
         "broom",
         "survMisc",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -9010,9 +8852,7 @@
         "readxl",
         "tidyr"
     ],
-    "oncomix": [
-        "ggrepel"
-    ],
+    "oncomix": [],
     "oncoscanR": [
         "readr"
     ],
@@ -9022,7 +8862,6 @@
     ],
     "OncoSimulR": [
         "car",
-        "ggrepel",
         "pbkrtest",
         "lme4",
         "nloptr",
@@ -9126,7 +8965,6 @@
         "ggpubr",
         "patchwork",
         "ggtree",
-        "ggrepel",
         "ggsci",
         "tidyr",
         "ggsignif",
@@ -9181,7 +9019,6 @@
         "FactoMineR",
         "MultiAssayExperiment",
         "car",
-        "ggrepel",
         "tidyr",
         "pbkrtest",
         "lme4",
@@ -9243,7 +9080,6 @@
         "ggplotify",
         "patchwork",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "tidytree",
@@ -9267,7 +9103,6 @@
         "GOSemSim",
         "qvalue",
         "ggforce",
-        "ggrepel",
         "viridis",
         "testthat",
         "GO.db",
@@ -9307,7 +9142,6 @@
         "topGO",
         "GOstats",
         "GO.db",
-        "ggrepel",
         "biomaRt",
         "tidyr",
         "BiocFileCache",
@@ -9319,9 +9153,7 @@
         "egg",
         "GSEABase"
     ],
-    "PCAtools": [
-        "ggrepel"
-    ],
+    "PCAtools": [],
     "PDATK": [
         "MultiAssayExperiment",
         "ggplotify",
@@ -9343,7 +9175,6 @@
         "fields",
         "BiocFileCache",
         "viridis",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -9375,8 +9206,7 @@
         "scuttle",
         "ggbeeswarm",
         "viridis",
-        "ggrastr",
-        "ggrepel"
+        "ggrastr"
     ],
     "PepsNMR": [],
     "pepStat": [
@@ -9412,7 +9242,6 @@
         "ggplotify",
         "patchwork",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "tidytree",
@@ -9438,7 +9267,6 @@
     "phenomis": [
         "biodb",
         "biodbChebi",
-        "ggrepel",
         "MultiAssayExperiment",
         "MultiDataSet",
         "plotly",
@@ -9495,7 +9323,6 @@
         "GGally",
         "ggpubr",
         "viridis",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -9520,7 +9347,6 @@
     "Pi": [
         "dnet",
         "supraHex",
-        "ggrepel",
         "caret",
         "tidyr",
         "ggnetwork",
@@ -9558,7 +9384,6 @@
         "shadowtext",
         "ggtree",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "ggfun",
@@ -9595,7 +9420,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrastr",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -9632,7 +9456,6 @@
         "ggpubr",
         "colourpicker",
         "Hmisc",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -9673,7 +9496,6 @@
         "broom",
         "caret",
         "DESeq2",
-        "ggrepel",
         "mixOmics",
         "tidyr",
         "recipes",
@@ -9810,8 +9632,7 @@
         "MSnbase",
         "MsFeatures",
         "vsn",
-        "tidyr",
-        "ggrepel"
+        "tidyr"
     ],
     "profileplyr": [
         "soGGi",
@@ -9848,7 +9669,6 @@
         "fgsea",
         "qvalue",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "tidytree",
@@ -9856,7 +9676,6 @@
     ],
     "progeny": [
         "tidyr",
-        "ggrepel",
         "decoupleR",
         "broom"
     ],
@@ -9947,7 +9766,6 @@
     ],
     "ProteoMM": [
         "biomaRt",
-        "ggrepel",
         "BiocFileCache"
     ],
     "protGear": [
@@ -9962,7 +9780,6 @@
         "factoextra",
         "FactoMineR",
         "dendextend",
-        "ggrepel",
         "car",
         "annotate",
         "ggsci",
@@ -9980,7 +9797,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "colourpicker",
-        "ggrepel",
         "highcharter",
         "recount",
         "broom",
@@ -10019,7 +9835,6 @@
         "Hmisc",
         "MSnbase",
         "plotly",
-        "ggrepel",
         "ggsci",
         "tidyr",
         "ggsignif",
@@ -10349,7 +10164,6 @@
         "shadowtext",
         "ggtree",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "tidyr",
@@ -10449,7 +10263,6 @@
     ],
     "regioneReloaded": [
         "regioneR",
-        "ggrepel",
         "BSgenome",
         "rtracklayer",
         "GenomicAlignments"
@@ -10567,7 +10380,6 @@
         "FactoMineR",
         "Hmisc",
         "lme4",
-        "ggrepel",
         "mice",
         "car",
         "viridis",
@@ -10699,7 +10511,6 @@
         "rtracklayer",
         "RUVSeq",
         "ggfittext",
-        "ggrepel",
         "ShortRead",
         "biomaRt",
         "TFBSTools",
@@ -10949,7 +10760,6 @@
         "fgsea",
         "dendextend",
         "ggpubr",
-        "ggrepel",
         "car",
         "ShortRead",
         "pbkrtest",
@@ -10985,7 +10795,6 @@
         "ggpubr",
         "tidyr",
         "BiocFileCache",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -11042,8 +10851,7 @@
         "plotly",
         "MultiAssayExperiment",
         "MultiDataSet",
-        "tidyr",
-        "ggrepel"
+        "tidyr"
     ],
     "RPA": [
         "phyloseq"
@@ -11081,7 +10889,6 @@
         "MultiDataSet",
         "nloptr",
         "tidyr",
-        "ggrepel",
         "broom",
         "testthat",
         "waldo"
@@ -11093,7 +10900,6 @@
     "rrvgo": [
         "GOSemSim",
         "GO.db",
-        "ggrepel",
         "treemap"
     ],
     "rScudo": [],
@@ -11110,7 +10916,6 @@
         "broom",
         "tidyr",
         "survMisc",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -11238,7 +11043,6 @@
         "SingleCellExperiment",
         "Seurat",
         "tensorflow",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -11280,7 +11084,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "recipes",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -11308,8 +11111,7 @@
         "scuttle",
         "ggbeeswarm",
         "viridis",
-        "ggrastr",
-        "ggrepel"
+        "ggrastr"
     ],
     "scatterHatch": [],
     "scBFA": [
@@ -11318,7 +11120,6 @@
         "zinbwave",
         "DESeq2",
         "geneplotter",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -11337,7 +11138,6 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "ggrepel",
         "ggridges",
         "plotly",
         "scattermore",
@@ -11349,7 +11149,6 @@
         "DropletUtils",
         "Seurat",
         "scuttle",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -11364,7 +11163,6 @@
         "SingleCellExperiment",
         "patchwork",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "annotate",
@@ -11374,13 +11172,11 @@
         "rstan",
         "SingleCellExperiment",
         "tidyr",
-        "ggrepel",
         "patchwork",
         "readr"
     ],
     "scDataviz": [
         "SingleCellExperiment",
-        "ggrepel",
         "Seurat",
         "ggridges",
         "patchwork",
@@ -11398,8 +11194,7 @@
         "GenomicAlignments",
         "ggbeeswarm",
         "viridis",
-        "ggrastr",
-        "ggrepel"
+        "ggrastr"
     ],
     "scDD": [
         "fields",
@@ -11440,7 +11235,6 @@
         "Seurat",
         "ggforce",
         "concaveman",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -11457,7 +11251,6 @@
     ],
     "scMAGeCK": [
         "Seurat",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -11554,7 +11347,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrastr",
-        "ggrepel",
         "waldo"
     ],
     "scran": [
@@ -11579,7 +11371,6 @@
         "tidygraph",
         "tidyr",
         "ggforce",
-        "ggrepel",
         "viridis"
     ],
     "scruff": [
@@ -11646,7 +11437,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "ggrepel",
         "tidygraph",
         "ggridges",
         "patchwork",
@@ -11672,7 +11462,6 @@
         "ggforce",
         "concaveman",
         "viridis",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "scattermore",
@@ -11689,7 +11478,6 @@
         "SingleCellExperiment",
         "viridis",
         "tidygraph",
-        "ggrepel",
         "bumphunter",
         "OrganismDbi",
         "GenomicFeatures",
@@ -11740,7 +11528,6 @@
         "fgsea",
         "qvalue",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "tidyr",
@@ -11933,7 +11720,6 @@
         "ggplotify",
         "patchwork",
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "tidytree",
@@ -11951,7 +11737,6 @@
         "BiocFileCache",
         "rtracklayer",
         "BSgenome",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -11992,7 +11777,6 @@
         "survMisc",
         "survcomp",
         "biomaRt",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -12072,7 +11856,6 @@
         "ensembldb",
         "fields",
         "ggplotify",
-        "ggrepel",
         "ggtree",
         "GSVA",
         "GSVAdata",
@@ -12146,7 +11929,6 @@
     ],
     "SingleR": [],
     "singscore": [
-        "ggrepel",
         "GSEABase",
         "plotly",
         "tidyr",
@@ -12168,7 +11950,6 @@
     ],
     "sitePath": [
         "aplot",
-        "ggrepel",
         "ggtree",
         "tidytree",
         "ggfun",
@@ -12288,7 +12069,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrastr",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -12321,13 +12101,11 @@
     "SpatialCPie": [
         "ggforce",
         "ggiraph",
-        "ggrepel",
         "readr",
         "tidyr"
     ],
     "spatialDE": [
         "SpatialExperiment",
-        "ggrepel",
         "SingleCellExperiment",
         "DropletUtils",
         "BiocFileCache",
@@ -12378,7 +12156,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrastr",
-        "ggrepel",
         "Hmisc",
         "GO.db"
     ],
@@ -12419,7 +12196,6 @@
         "dittoSeq",
         "alphahull",
         "xROI",
-        "ggrepel",
         "ggridges",
         "SingleCellExperiment",
         "tidyr",
@@ -12460,8 +12236,7 @@
         "scuttle",
         "ggbeeswarm",
         "viridis",
-        "ggrastr",
-        "ggrepel"
+        "ggrastr"
     ],
     "SpliceWiz": [
         "NxtIRFdata",
@@ -12521,7 +12296,6 @@
         "groupdata2",
         "lme4",
         "rearrr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -12543,7 +12317,6 @@
         "SpatialExperiment",
         "viridis",
         "Seurat",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -12603,7 +12376,6 @@
         "org.Hs.eg.db",
         "ggforce",
         "ggnewscale",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "tidyr"
@@ -12696,7 +12468,6 @@
     "stJoincount": [
         "Seurat",
         "SpatialExperiment",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -12733,7 +12504,6 @@
     ],
     "SubCellBarCode": [
         "caret",
-        "ggrepel",
         "org.Hs.eg.db",
         "recipes",
         "ipred",
@@ -12780,7 +12550,6 @@
         "broom",
         "tidyr",
         "survMisc",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -12835,7 +12604,6 @@
         "ggforce",
         "gstat",
         "SpatialExtremes",
-        "ggrepel",
         "plotly",
         "mice",
         "metR",
@@ -12872,7 +12640,6 @@
         "ggnetwork",
         "intergraph",
         "testthat",
-        "ggrepel",
         "sna",
         "GenomicAlignments",
         "waldo"
@@ -12891,7 +12658,6 @@
     "systemPipeTools": [
         "DESeq2",
         "GGally",
-        "ggrepel",
         "ggtree",
         "plotly",
         "geneplotter",
@@ -12908,7 +12674,6 @@
         "HiCcompare",
         "tidyr",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -12943,7 +12708,6 @@
     ],
     "TargetDecoy": [
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "tidyr",
         "ggsignif",
@@ -12970,7 +12734,6 @@
         "geneplotter",
         "GSEABase",
         "SingleCellExperiment",
-        "ggrepel",
         "plotly",
         "tidyr",
         "annotate",
@@ -12990,7 +12753,6 @@
     "TCGAbiolinksGUI": [
         "plotly",
         "readr",
-        "ggrepel",
         "caret",
         "pathview",
         "ELMER",
@@ -13173,7 +12935,6 @@
     "timeOmics": [
         "mixOmics",
         "tidyr",
-        "ggrepel",
         "propr"
     ],
     "timescape": [],
@@ -13194,7 +12955,6 @@
         "GOSemSim",
         "gson",
         "qvalue",
-        "ggrepel",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -13256,7 +13016,6 @@
         "GGally",
         "ggpubr",
         "tidyr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -13275,9 +13034,7 @@
         "tidyr",
         "GGally"
     ],
-    "tomoda": [
-        "ggrepel"
-    ],
+    "tomoda": [],
     "tomoseqr": [
         "BiocFileCache",
         "readr",
@@ -13413,7 +13170,6 @@
         "ggnewscale",
         "ggpubr",
         "testthat",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -13462,8 +13218,7 @@
         "scuttle",
         "ggbeeswarm",
         "viridis",
-        "ggrastr",
-        "ggrepel"
+        "ggrastr"
     ],
     "trigger": [
         "qvalue",
@@ -13531,7 +13286,6 @@
         "BSgenome",
         "GenomicFeatures",
         "GenomicAlignments",
-        "ggrepel",
         "mirbase.db",
         "Organism.dplyr",
         "plotgardener",
@@ -13618,7 +13372,6 @@
         "scuttle",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "textstem",
         "lexicon",
         "textclean",
@@ -13724,7 +13477,6 @@
     "vidger": [
         "DESeq2",
         "GGally",
-        "ggrepel",
         "tidyr",
         "geneplotter",
         "annotate"
@@ -13751,7 +13503,6 @@
         "GSEABase",
         "ggforce",
         "msigdb",
-        "ggrepel",
         "textstem",
         "tidygraph",
         "ggraph",
@@ -13813,7 +13564,6 @@
         "rtracklayer",
         "geneplotter",
         "systemPipeR",
-        "ggrepel",
         "apeglm",
         "GreyListChIP",
         "BiocFileCache",
@@ -13988,9 +13738,7 @@
         "tidyr"
     ],
     "tidyr": [],
-    "ggrepel": [],
     "ggpubr": [
-        "ggrepel",
         "ggsci",
         "tidyr",
         "ggsignif",
@@ -14095,9 +13843,7 @@
         "tidyr"
     ],
     "plotROC": [],
-    "GUniFrac": [
-        "ggrepel"
-    ],
+    "GUniFrac": [],
     "recipes": [
         "ipred",
         "tidyr"
@@ -14105,7 +13851,6 @@
     "ipred": [],
     "org.Sc.sgd.db": [],
     "Seurat": [
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -14356,7 +14101,6 @@
     "HDO.db": [],
     "ggraph": [
         "ggforce",
-        "ggrepel",
         "viridis",
         "tidygraph",
         "tidyr"
@@ -14398,7 +14142,6 @@
         "BiocFileCache"
     ],
     "ggnetwork": [
-        "ggrepel",
         "sna"
     ],
     "intergraph": [],
@@ -14464,7 +14207,6 @@
     "multipanelfigure": [],
     "FactoMineR": [
         "car",
-        "ggrepel",
         "pbkrtest",
         "lme4",
         "nloptr",
@@ -14625,7 +14367,6 @@
         "dendextend",
         "FactoMineR",
         "ggpubr",
-        "ggrepel",
         "tidyr",
         "viridis",
         "car",
@@ -14864,7 +14605,6 @@
         "broom",
         "tidyr",
         "survMisc",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -15314,7 +15054,6 @@
         "ggraph",
         "viridis",
         "tidygraph",
-        "ggrepel",
         "ggforce",
         "tidyr"
     ],
@@ -15329,7 +15068,6 @@
         "ggpubr",
         "broom",
         "survMisc",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -15361,7 +15099,6 @@
     ],
     "SoupX": [
         "Seurat",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -15440,9 +15177,7 @@
     "GenKern": [],
     "ttservice": [],
     "FreqProf": [],
-    "gghighlight": [
-        "ggrepel"
-    ],
+    "gghighlight": [],
     "bestNormalize": [
         "LambertW",
         "recipes",
