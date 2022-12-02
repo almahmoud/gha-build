@@ -1026,7 +1026,6 @@
         "OrganismDbi",
         "GO.db",
         "org.Hs.eg.db",
-        "crul",
         "bslib",
         "KEGGREST",
         "interactiveDisplayBase",
@@ -2544,7 +2543,6 @@
         "pillar",
         "hms",
         "vroom",
-        "crul",
         "blob",
         "progress"
     ],
@@ -24240,7 +24238,6 @@
         "XVector",
         "network",
         "sna",
-        "crul",
         "hms",
         "vroom",
         "clock",
@@ -30244,7 +30241,6 @@
         "dbplyr",
         "tidyselect",
         "pillar",
-        "crul",
         "hms",
         "KEGGREST",
         "blob",
@@ -36693,9 +36689,7 @@
         "SummarizedExperiment",
         "DelayedArray"
     ],
-    "rsnps": [
-        "crul"
-    ],
+    "rsnps": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [
         "GenomicScores",
         "GenomicRanges",
@@ -36858,7 +36852,6 @@
         "tibble",
         "tidyselect"
     ],
-    "crul": [],
     "FDb.InfiniumMethylation.hg19": [
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -37445,7 +37438,6 @@
     ],
     "gh": [],
     "rorcid": [
-        "crul",
         "tibble",
         "pillar"
     ],
@@ -40154,7 +40146,6 @@
     "BWStest": [],
     "SmoothWin": [],
     "osfr": [
-        "crul",
         "tibble",
         "pillar"
     ],
@@ -40571,7 +40562,6 @@
     ],
     "rbokeh": [
         "gistr",
-        "crul",
         "rmarkdown",
         "dplyr",
         "tibble",
@@ -40580,7 +40570,6 @@
         "bslib"
     ],
     "gistr": [
-        "crul",
         "rmarkdown",
         "dplyr",
         "tibble",
