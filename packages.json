@@ -1808,7 +1808,6 @@
     ],
     "Spaniel": [],
     "spaSim": [],
-    "spatialDE": [],
     "SpatialDecon": [
         "GeomxTools",
         "lmerTest"
