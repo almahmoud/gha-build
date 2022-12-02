@@ -222,9 +222,7 @@
         "biovizBase"
     ],
     "ChIPpeakAnno": [],
-    "ChIPQC": [
-        "DiffBind"
-    ],
+    "ChIPQC": [],
     "ChIPseeker": [
         "enrichplot",
         "ggtree"
@@ -415,7 +413,6 @@
         "car",
         "pbkrtest"
     ],
-    "DiffBind": [],
     "diffcyt": [
         "FlowSOM",
         "ggpubr",
@@ -1902,8 +1899,7 @@
         "gwascat"
     ],
     "vulcan": [
-        "ChIPpeakAnno",
-        "DiffBind"
+        "ChIPpeakAnno"
     ],
     "waddR": [
         "arm"
