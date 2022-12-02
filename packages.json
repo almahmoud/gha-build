@@ -792,8 +792,7 @@
     "onlineFDR": [],
     "OpenStats": [
         "AICcmodavg",
-        "car",
-        "unmarked"
+        "car"
     ],
     "orthogene": [
         "ggpubr",
@@ -1214,10 +1213,7 @@
     "RcmdrMisc": [
         "car"
     ],
-    "AICcmodavg": [
-        "unmarked"
-    ],
-    "unmarked": [],
+    "AICcmodavg": [],
     "Rmagic": [],
     "survivalAnalysis": [
         "survminer",
