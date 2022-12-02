@@ -544,9 +544,7 @@
         "ggvis",
         "ipred"
     ],
-    "banocc": [
-        "rstan"
-    ],
+    "banocc": [],
     "barcodetrackR": [
         "tidyr"
     ],
@@ -567,7 +565,6 @@
     ],
     "BASiCStan": [
         "BASiCS",
-        "rstan",
         "glmGamPoi",
         "scran",
         "scuttle",
@@ -5019,9 +5016,7 @@
     "idiogram": [
         "annotate"
     ],
-    "IgGeneUsage": [
-        "rstan"
-    ],
+    "IgGeneUsage": [],
     "igvR": [
         "rtracklayer",
         "VariantAnnotation",
@@ -5575,8 +5570,7 @@
     "M3Drop": [
         "reldist",
         "Hmisc",
-        "densEstBayes",
-        "rstan"
+        "densEstBayes"
     ],
     "m6Aboost": [
         "adabag",
@@ -8250,7 +8244,6 @@
         "MAST"
     ],
     "ppcseq": [
-        "rstan",
         "tidyr",
         "tidybayes",
         "benchmarkme",
@@ -9109,7 +9102,6 @@
         "rtracklayer",
         "biomaRt",
         "densEstBayes",
-        "rstan",
         "annotate"
     ],
     "RiboProfiling": [
@@ -9705,7 +9697,6 @@
         "tidyr"
     ],
     "sccomp": [
-        "rstan",
         "tidyr",
         "patchwork",
         "readr"
@@ -9777,12 +9768,9 @@
         "ruv",
         "reldist",
         "Hmisc",
-        "densEstBayes",
-        "rstan"
+        "densEstBayes"
     ],
-    "scMET": [
-        "rstan"
-    ],
+    "scMET": [],
     "scmeth": [
         "bsseq",
         "AnnotationHub",
@@ -10311,8 +10299,7 @@
         "biomaRt",
         "reldist",
         "Hmisc",
-        "densEstBayes",
-        "rstan"
+        "densEstBayes"
     ],
     "SingleMoleculeFootprinting": [
         "BSgenome",
@@ -12138,7 +12125,6 @@
     ],
     "dendextend": [],
     "ggvis": [],
-    "rstan": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "rtracklayer"
@@ -12699,12 +12685,9 @@
     "hgu95av2.db": [],
     "sortable": [],
     "reldist": [
-        "densEstBayes",
-        "rstan"
+        "densEstBayes"
     ],
-    "densEstBayes": [
-        "rstan"
-    ],
+    "densEstBayes": [],
     "adabag": [
         "caret",
         "recipes",
