@@ -29,9 +29,7 @@
         "lumi",
         "methylumi"
     ],
-    "artMS": [
-        "MSstats"
-    ],
+    "artMS": [],
     "ASpediaFI": [
         "IVAS",
         "Gviz",
@@ -808,9 +806,7 @@
         "car",
         "pbkrtest"
     ],
-    "MSstats": [],
     "MSstatsLiP": [
-        "MSstats",
         "MSstatsPTM",
         "factoextra",
         "ggpubr",
@@ -821,20 +817,14 @@
         "pbkrtest"
     ],
     "MSstatsPTM": [
-        "MSstatsTMT",
-        "MSstats"
+        "MSstatsTMT"
     ],
-    "MSstatsSampleSize": [
-        "MSstats"
-    ],
+    "MSstatsSampleSize": [],
     "MSstatsShiny": [
-        "MSstats",
         "MSstatsTMT",
         "MSstatsPTM"
     ],
-    "MSstatsTMT": [
-        "MSstats"
-    ],
+    "MSstatsTMT": [],
     "multicrispr": [
         "karyoploteR"
     ],
