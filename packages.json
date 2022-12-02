@@ -32203,7 +32203,6 @@
     ],
     "Metab": [
         "xcms",
-        "svDialogs",
         "BiocParallel",
         "MSnbase",
         "mzR",
@@ -71477,7 +71476,6 @@
         "GenomeInfoDb",
         "cachem"
     ],
-    "svDialogs": [],
     "EnsDb.Hsapiens.v75": [
         "ensembldb",
         "GenomicRanges",
