@@ -2104,8 +2104,7 @@
         "ensembldb",
         "EnsDb.Hsapiens.v86",
         "EnsDb.Mmusculus.v79",
-        "EnsDb.Rnorvegicus.v79",
-        "Rcpi"
+        "EnsDb.Rnorvegicus.v79"
     ],
     "ProteoDisco": [
         "VariantAnnotation"
@@ -2194,7 +2193,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene"
     ],
-    "Rcpi": [],
     "RcwlPipelines": [],
     "ReactomePA": [
         "enrichplot",
