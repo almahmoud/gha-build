@@ -161,9 +161,7 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "BioNAR": [
-        "synaptome.db"
-    ],
+    "BioNAR": [],
     "biovizBase": [
         "VariantAnnotation"
     ],
@@ -2701,7 +2699,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "synaptome.db": [],
     "pasilla": [],
     "GenomicState": [
         "bumphunter",
