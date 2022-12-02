@@ -6061,7 +6061,6 @@
         "testthat"
     ],
     "scran": [],
-    "scReClassify": [],
     "scRecover": [
         "Rmagic"
     ],
