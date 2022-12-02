@@ -2598,8 +2598,7 @@
         "GO.db",
         "AnnotationForge",
         "IRkernel",
-        "IRdisplay",
-        "repr"
+        "IRdisplay"
     ],
     "cbaf": [
         "BiocFileCache",
@@ -3009,7 +3008,6 @@
         "shadowtext",
         "ggtree",
         "annotate",
-        "repr",
         "broom",
         "car",
         "ggfun",
@@ -5491,8 +5489,7 @@
         "NCIgraph",
         "RCy3",
         "IRkernel",
-        "IRdisplay",
-        "repr"
+        "IRdisplay"
     ],
     "DEGreport": [
         "broom",
@@ -7619,8 +7616,7 @@
         "forcats",
         "RCy3",
         "IRkernel",
-        "IRdisplay",
-        "repr"
+        "IRdisplay"
     ],
     "FELLA": [
         "KEGGREST"
@@ -12202,7 +12198,6 @@
         "shadowtext",
         "ggtree",
         "prodlim",
-        "repr",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -13555,8 +13550,7 @@
     "MOGAMUN": [
         "RCy3",
         "IRkernel",
-        "IRdisplay",
-        "repr"
+        "IRdisplay"
     ],
     "mogsa": [
         "graphite",
@@ -14639,8 +14633,7 @@
     "NCIgraph": [
         "RCy3",
         "IRkernel",
-        "IRdisplay",
-        "repr"
+        "IRdisplay"
     ],
     "ncRNAtools": [
         "ggplot2",
@@ -14875,7 +14868,6 @@
         "BiocFileCache",
         "GSEABase",
         "genefilter",
-        "repr",
         "minfi",
         "vroom",
         "dbplyr",
@@ -17650,8 +17642,7 @@
     ],
     "RCy3": [
         "IRkernel",
-        "IRdisplay",
-        "repr"
+        "IRdisplay"
     ],
     "RCyjs": [],
     "RDRToolbox": [],
@@ -17932,7 +17923,6 @@
         "AnnotationFilter",
         "tibble",
         "shiny",
-        "repr",
         "ggplot2",
         "viridis"
     ],
@@ -22642,7 +22632,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "repr",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -22950,8 +22939,7 @@
         "dplyr",
         "tibble",
         "IRkernel",
-        "IRdisplay",
-        "repr"
+        "IRdisplay"
     ],
     "TransView": [],
     "TraRe": [
@@ -25146,13 +25134,9 @@
         "rematch2"
     ],
     "IRkernel": [
-        "repr",
         "IRdisplay"
     ],
-    "IRdisplay": [
-        "repr"
-    ],
-    "repr": [],
+    "IRdisplay": [],
     "rintrojs": [
         "shiny"
     ],
