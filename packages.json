@@ -7134,7 +7134,6 @@
         "car",
         "DT",
         "ggrepel",
-        "RWeka",
         "tibble",
         "latticeExtra",
         "htmlTable",
@@ -11149,7 +11148,6 @@
         "car",
         "DT",
         "ggrepel",
-        "RWeka",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -35338,9 +35336,7 @@
         "rgl",
         "hms"
     ],
-    "FSelector": [
-        "RWeka"
-    ],
+    "FSelector": [],
     "arm": [
         "lme4",
         "nloptr",
@@ -35350,7 +35346,6 @@
         "tibble",
         "pillar"
     ],
-    "RWeka": [],
     "MSQC": [
         "rgl"
     ],
