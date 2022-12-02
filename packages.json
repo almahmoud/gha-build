@@ -1,9 +1,7 @@
 {
     "a4": [],
     "abseqR": [],
-    "ADaCGH2": [
-        "snapCGH"
-    ],
+    "ADaCGH2": [],
     "ADAMgui": [
         "ggpubr",
         "rstatix",
@@ -3418,7 +3416,6 @@
         "geneLenDataBase",
         "GenomicFeatures"
     ],
-    "snapCGH": [],
     "snm": [
         "lme4"
     ],
