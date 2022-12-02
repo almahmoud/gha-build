@@ -8230,7 +8230,6 @@
         "pillar",
         "car",
         "multcomp",
-        "cytolib",
         "igraph",
         "ggforce",
         "ggnewscale",
@@ -9419,7 +9418,6 @@
         "GetoptLong",
         "foreach",
         "doParallel",
-        "cytolib",
         "igraph",
         "ConsensusClusterPlus",
         "ggforce",
@@ -11806,7 +11804,6 @@
         "flowCore",
         "SummarizedExperiment",
         "Biobase",
-        "cytolib",
         "MatrixGenerics",
         "GenomicRanges",
         "Matrix",
@@ -13446,7 +13443,6 @@
         "RCurl",
         "Biobase",
         "graph",
-        "cytolib",
         "rrcov",
         "feature",
         "Rgraphviz",
@@ -15475,7 +15471,6 @@
         "GoFKernel",
         "RcppArmadillo",
         "graph",
-        "cytolib",
         "flowViz",
         "car",
         "sp",
@@ -15552,7 +15547,6 @@
         "BiocNeighbors",
         "Matrix",
         "futile.logger",
-        "cytolib",
         "httpuv",
         "fontawesome",
         "htmltools",
@@ -15591,7 +15585,6 @@
         "vctrs",
         "pillar",
         "Biobase",
-        "cytolib",
         "Matrix",
         "survival",
         "RcppEigen"
@@ -15662,7 +15655,6 @@
         "dendextend",
         "FactoMineR",
         "ggpubr",
-        "cytolib",
         "igraph",
         "ConsensusClusterPlus",
         "ggforce",
@@ -15811,7 +15803,6 @@
         "irlba",
         "RcppArmadillo"
     ],
-    "cytolib": [],
     "cytomapper": [
         "EBImage",
         "SingleCellExperiment",
@@ -15883,11 +15874,9 @@
     "cytoMEM": [
         "gplots",
         "flowCore",
-        "Biobase",
-        "cytolib"
+        "Biobase"
     ],
     "CytoML": [
-        "cytolib",
         "flowCore",
         "flowWorkspace",
         "openCyto",
@@ -16467,7 +16456,6 @@
         "flowCore",
         "flowDensity",
         "Biobase",
-        "cytolib",
         "flowViz",
         "car",
         "sp",
@@ -18255,7 +18243,6 @@
         "vctrs",
         "pillar",
         "Biobase",
-        "cytolib",
         "igraph",
         "ConsensusClusterPlus",
         "ggforce",
@@ -23706,7 +23693,6 @@
         "rmarkdown",
         "zoo",
         "Biobase",
-        "cytolib",
         "lifecycle",
         "mgcv",
         "tibble",
@@ -23727,7 +23713,6 @@
         "rrcov",
         "flowCore",
         "knitr",
-        "cytolib",
         "highr",
         "pcaPP"
     ],
@@ -23735,7 +23720,6 @@
         "flowCore",
         "flowFP",
         "Biobase",
-        "cytolib",
         "flowViz",
         "latticeExtra",
         "hexbin",
@@ -23787,7 +23771,6 @@
         "htmlwidgets",
         "RCurl",
         "Biobase",
-        "cytolib",
         "lifecycle",
         "mgcv",
         "scales",
@@ -23805,25 +23788,21 @@
         "flowCore",
         "changepoint",
         "zoo",
-        "Biobase",
-        "cytolib"
+        "Biobase"
     ],
     "flowClust": [
         "Biobase",
         "graph",
-        "flowCore",
-        "cytolib"
+        "flowCore"
     ],
     "flowCore": [
-        "Biobase",
-        "cytolib"
+        "Biobase"
     ],
     "flowCut": [
         "flowCore",
         "flowDensity",
         "e1071",
         "Biobase",
-        "cytolib",
         "flowViz",
         "car",
         "sp",
@@ -23899,7 +23878,6 @@
         "lme4",
         "scales",
         "Biobase",
-        "cytolib",
         "latticeExtra",
         "hexbin",
         "ggplot2",
@@ -23946,7 +23924,6 @@
         "flowCore",
         "flowViz",
         "Biobase",
-        "cytolib",
         "latticeExtra",
         "hexbin",
         "interp",
@@ -23987,8 +23964,7 @@
     ],
     "flowMatch": [
         "flowCore",
-        "Biobase",
-        "cytolib"
+        "Biobase"
     ],
     "flowMeans": [
         "Biobase",
@@ -23997,7 +23973,6 @@
         "flowCore",
         "ks",
         "plot3D",
-        "cytolib",
         "pcaPP",
         "Matrix",
         "mgcv"
@@ -24013,7 +23988,6 @@
         "ks",
         "plot3D",
         "Biobase",
-        "cytolib",
         "pcaPP",
         "Matrix",
         "mgcv"
@@ -24030,7 +24004,6 @@
         "lme4",
         "scales",
         "Biobase",
-        "cytolib",
         "highr",
         "bslib",
         "htmltools",
@@ -24083,7 +24056,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "cytolib",
         "scales",
         "tweenr",
         "systemfonts",
@@ -24122,7 +24094,6 @@
         "flowCore",
         "zoo",
         "futile.logger",
-        "cytolib",
         "lifecycle",
         "mgcv",
         "scales",
@@ -24141,7 +24112,6 @@
         "ks",
         "rrcov",
         "fds",
-        "cytolib",
         "latticeExtra",
         "hexbin",
         "ggplot2",
@@ -24176,8 +24146,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "Biobase",
-        "cytolib"
+        "Biobase"
     ],
     "flowTrans": [
         "flowCore",
@@ -24185,7 +24154,6 @@
         "flowClust",
         "Biobase",
         "graph",
-        "cytolib",
         "latticeExtra",
         "hexbin",
         "interp",
@@ -24197,7 +24165,6 @@
         "Biobase",
         "latticeExtra",
         "hexbin",
-        "cytolib",
         "interp",
         "RcppEigen",
         "Matrix"
@@ -24207,7 +24174,6 @@
         "flowViz",
         "flowStats",
         "Biobase",
-        "cytolib",
         "flowWorkspace",
         "ncdfFlow",
         "fda",
@@ -24242,7 +24208,6 @@
     ],
     "flowWorkspace": [
         "Biobase",
-        "cytolib",
         "ggplot2",
         "graph",
         "RBGL",
@@ -24981,7 +24946,6 @@
         "flowCore",
         "flowFP",
         "Biobase",
-        "cytolib",
         "flowViz",
         "sp",
         "latticeExtra",
@@ -27180,7 +27144,6 @@
         "scales",
         "hexbin",
         "Biobase",
-        "cytolib",
         "graph",
         "RBGL",
         "Rgraphviz",
@@ -31409,7 +31372,6 @@
         "rmarkdown",
         "flowCore",
         "flowWorkspace",
-        "cytolib",
         "graph",
         "RBGL",
         "Rgraphviz",
@@ -31455,8 +31417,7 @@
     ],
     "immunoClust": [
         "flowCore",
-        "Biobase",
-        "cytolib"
+        "Biobase"
     ],
     "immunotation": [
         "ggplot2",
@@ -31634,7 +31595,6 @@
         "uwot",
         "Biobase",
         "xgboost",
-        "cytolib",
         "sp",
         "terra",
         "Matrix",
@@ -37061,7 +37021,6 @@
         "metafor",
         "FlowSOM",
         "Biobase",
-        "cytolib",
         "igraph",
         "ConsensusClusterPlus",
         "dplyr",
@@ -44425,8 +44384,7 @@
     ],
     "ncdfFlow": [
         "flowCore",
-        "Biobase",
-        "cytolib"
+        "Biobase"
     ],
     "ncGTW": [
         "BiocParallel",
@@ -46812,7 +46770,6 @@
         "gplots",
         "flowCore",
         "Biobase",
-        "cytolib",
         "ggplot2",
         "scales",
         "httr",
@@ -46907,7 +46864,6 @@
         "flowClust",
         "RBGL",
         "graph",
-        "cytolib",
         "latticeExtra",
         "hexbin",
         "ggplot2",
@@ -47238,7 +47194,6 @@
         "RcppEigen",
         "ks",
         "plot3D",
-        "cytolib",
         "highr",
         "Matrix",
         "pcaPP",
@@ -48614,7 +48569,6 @@
         "foreach",
         "doParallel",
         "Biobase",
-        "cytolib",
         "graph",
         "RBGL",
         "Rgraphviz",
@@ -59524,7 +59478,6 @@
         "reshape2",
         "scales",
         "Biobase",
-        "cytolib",
         "lifecycle",
         "mgcv",
         "tibble",
@@ -60008,7 +59961,6 @@
         "vctrs",
         "pillar",
         "Biobase",
-        "cytolib",
         "mgcv",
         "rvest",
         "htmltools",
@@ -60415,7 +60367,6 @@
         "vctrs",
         "pillar",
         "Biobase",
-        "cytolib",
         "mgcv",
         "scales",
         "hms",
@@ -70391,7 +70342,6 @@
         "foreach",
         "doParallel",
         "MatrixGenerics",
-        "cytolib",
         "igraph",
         "ConsensusClusterPlus",
         "ggforce",
