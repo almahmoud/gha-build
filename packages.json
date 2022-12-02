@@ -720,7 +720,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "factR": [],
     "famat": [
         "clusterProfiler",
         "enrichplot",
