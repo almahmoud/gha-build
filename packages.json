@@ -64450,7 +64450,6 @@
         "igraph",
         "BgeeDB",
         "knitr",
-        "RITANdata",
         "GenomicFeatures",
         "ensembldb",
         "AnnotationFilter",
@@ -96155,7 +96154,6 @@
     "nls2": [
         "proto"
     ],
-    "RITANdata": [],
     "valr": [
         "broom",
         "dplyr",
