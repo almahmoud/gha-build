@@ -16107,7 +16107,6 @@
         "GenomeInfoDb",
         "vctrs"
     ],
-    "geneRecommender": [],
     "GeneRegionScan": [
         "Biostrings",
         "XVector",
