@@ -994,11 +994,8 @@
         "GenomicRanges",
         "RSQLite"
     ],
-    "ASSET": [
-        "msm"
-    ],
+    "ASSET": [],
     "ASSIGN": [
-        "msm",
         "sva",
         "ggplot2",
         "tibble",
@@ -14631,7 +14628,6 @@
     "methInheritSim": [
         "methylKit",
         "GenomicRanges",
-        "msm",
         "qvalue",
         "Rsamtools",
         "fastseg",
@@ -21008,8 +21004,7 @@
         "Biostrings"
     ],
     "REBET": [
-        "ASSET",
-        "msm"
+        "ASSET"
     ],
     "rebook": [
         "rmarkdown",
@@ -26379,7 +26374,6 @@
         "GSVA",
         "singscore",
         "SummarizedExperiment",
-        "msm",
         "sva",
         "GenomicRanges",
         "geneplotter",
@@ -29191,7 +29185,6 @@
         "tibble",
         "tidyselect"
     ],
-    "msm": [],
     "msigdbr": [
         "babelgene",
         "dplyr",
