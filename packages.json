@@ -105,7 +105,6 @@
         "VariantAnnotation"
     ],
     "ATACCoGAPS": [
-        "projectR",
         "tidyverse",
         "motifmatchr",
         "chromVAR",
@@ -2284,7 +2283,6 @@
         "treeio"
     ],
     "progeny": [],
-    "projectR": [],
     "pRolocGUI": [],
     "PROPS": [],
     "Prostar": [
