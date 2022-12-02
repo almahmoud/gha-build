@@ -57769,7 +57769,6 @@
         "MsCoreUtils",
         "S4Vectors",
         "IRanges",
-        "rawrr",
         "BiocParallel",
         "futile.logger",
         "BH",
@@ -73565,7 +73564,6 @@
         "bslib",
         "sass"
     ],
-    "rawrr": [],
     "RbcBook1": [
         "Biobase",
         "graph"
