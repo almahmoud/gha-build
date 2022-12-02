@@ -1247,7 +1247,6 @@
         "biovizBase"
     ],
     "pipeComp": [],
-    "PloGO2": [],
     "plotGrouper": [
         "ggpubr",
         "rstatix",
