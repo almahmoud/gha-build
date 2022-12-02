@@ -10890,7 +10890,6 @@
         "mice",
         "metR",
         "car",
-        "stars",
         "broom",
         "fields",
         "dtplyr",
@@ -13100,13 +13099,10 @@
     "rsample": [
         "tidyr"
     ],
-    "gstat": [
-        "stars"
-    ],
+    "gstat": [],
     "SpatialExtremes": [
         "fields"
     ],
-    "stars": [],
     "spsComps": [],
     "drawer": [],
     "GenKern": [],
