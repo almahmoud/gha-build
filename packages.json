@@ -490,9 +490,7 @@
     ],
     "OncoSimulR": [],
     "onlineFDR": [],
-    "OpenStats": [
-        "AICcmodavg"
-    ],
+    "OpenStats": [],
     "orthogene": [
         "ggpubr",
         "rstatix"
@@ -758,7 +756,6 @@
     ],
     "mppa": [],
     "RcmdrMisc": [],
-    "AICcmodavg": [],
     "Rmagic": [],
     "survivalAnalysis": [
         "survminer",
