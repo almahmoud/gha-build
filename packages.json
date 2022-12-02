@@ -1138,7 +1138,6 @@
         "ggplot2",
         "KEGGREST"
     ],
-    "beadarraySNP": [],
     "BEARscc": [
         "ggplot2",
         "SingleCellExperiment",
