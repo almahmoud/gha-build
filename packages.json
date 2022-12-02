@@ -63681,7 +63681,6 @@
         "glmnet",
         "MotifDb",
         "RSQLite",
-        "lassopv",
         "xgboost",
         "RPostgreSQL",
         "BSgenome",
@@ -76675,7 +76674,6 @@
     ],
     "tractor.base": [],
     "vbsr": [],
-    "lassopv": [],
     "RPostgreSQL": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
