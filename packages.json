@@ -35391,7 +35391,6 @@
         "tibble",
         "pillar"
     ],
-    "SNPediaR": [],
     "SNPhood": [
         "GenomicRanges",
         "Rsamtools",
