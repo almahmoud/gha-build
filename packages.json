@@ -25774,7 +25774,6 @@
         "recipes",
         "tibble",
         "tidyselect",
-        "slider",
         "GenomicRanges",
         "hardhat",
         "ipred",
@@ -32019,12 +32018,10 @@
     ],
     "rsample": [
         "dplyr",
-        "slider",
         "tibble",
         "tidyr",
         "tidyselect"
     ],
-    "slider": [],
     "clustvarsel": [],
     "gstat": [
         "sf",
