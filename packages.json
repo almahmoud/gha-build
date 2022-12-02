@@ -3308,7 +3308,6 @@
         "vegan",
         "ggdendro",
         "ggm",
-        "vcd",
         "RSQLite",
         "KEGGREST",
         "pillar",
@@ -8165,7 +8164,6 @@
         "mutoss",
         "Linnorm",
         "ggm",
-        "vcd",
         "tidyr",
         "broom",
         "dbplyr",
@@ -8909,7 +8907,6 @@
         "TTR",
         "dplyr",
         "car",
-        "vcd",
         "ranger",
         "pbkrtest",
         "quantreg",
@@ -10793,7 +10790,6 @@
         "Linnorm",
         "ggplot2",
         "ggm",
-        "vcd",
         "tibble",
         "vegan",
         "ggdendro",
@@ -13838,7 +13834,6 @@
         "AnnotationDbi",
         "annotate",
         "multcomp",
-        "vcd",
         "shiny",
         "Hmisc",
         "RSQLite",
@@ -20194,7 +20189,6 @@
         "viridis",
         "mboost",
         "ggm",
-        "vcd",
         "GenomicRanges",
         "DelayedArray",
         "biomaRt",
@@ -21348,7 +21342,6 @@
         "genefilter",
         "BiocParallel",
         "car",
-        "vcd",
         "ranger",
         "pbkrtest",
         "quantreg",
@@ -22497,7 +22490,6 @@
         "vegan",
         "ggdendro",
         "ggm",
-        "vcd",
         "pillar"
     ],
     "NetActivity": [
@@ -24399,7 +24391,6 @@
         "shinyjs",
         "shinydashboard",
         "visNetwork",
-        "vcd",
         "prodlim",
         "ipred",
         "ggpubr",
@@ -26352,7 +26343,6 @@
         "GenomicRanges",
         "DelayedArray",
         "car",
-        "vcd",
         "ranger",
         "pbkrtest",
         "quantreg",
@@ -38648,11 +38638,9 @@
     "randomcoloR": [],
     "BoolNet": [],
     "pcalg": [
-        "ggm",
-        "vcd"
+        "ggm"
     ],
     "ggm": [],
-    "vcd": [],
     "gamlss": [],
     "GenomicState": [
         "AnnotationHub",
@@ -39801,7 +39789,6 @@
     ],
     "VIM": [
         "car",
-        "vcd",
         "ranger",
         "pbkrtest",
         "quantreg",
@@ -40169,7 +40156,6 @@
     "HH": [
         "latticeExtra",
         "multcomp",
-        "vcd",
         "shiny",
         "Hmisc",
         "ggplot2",
@@ -41143,9 +41129,7 @@
         "tfautograph",
         "tidyselect"
     ],
-    "reportROC": [
-        "vcd"
-    ],
+    "reportROC": [],
     "verification": [
         "fields",
         "viridis",
