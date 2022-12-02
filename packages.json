@@ -10404,7 +10404,6 @@
         "tidyr"
     ],
     "nethet": [
-        "ICSNP",
         "network",
         "ggplot2"
     ],
@@ -13080,7 +13079,6 @@
         "dbplyr"
     ],
     "RNAinteract": [
-        "ICSNP",
         "cellHTS2",
         "geneplotter",
         "genefilter",
@@ -18431,7 +18429,6 @@
     ],
     "shinyjqui": [],
     "mppa": [],
-    "ICSNP": [],
     "dnet": [
         "supraHex",
         "readr",
