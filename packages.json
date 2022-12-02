@@ -6975,7 +6975,6 @@
         "biomaRt",
         "BiocFileCache",
         "vroom",
-        "learnr",
         "dbplyr"
     ],
     "LedPred": [
@@ -9194,7 +9193,6 @@
         "FactoMineR",
         "ggpubr",
         "biomaRt",
-        "learnr",
         "readr",
         "BiocFileCache",
         "viridis",
@@ -16365,11 +16363,8 @@
     "hgu95av2.db": [
         "org.Hs.eg.db"
     ],
-    "sortable": [
-        "learnr"
-    ],
+    "sortable": [],
     "shinyvalidate": [],
-    "learnr": [],
     "reldist": [
         "densEstBayes",
         "rstan"
