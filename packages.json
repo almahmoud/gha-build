@@ -906,7 +906,6 @@
         "pheatmap",
         "ggrastr",
         "ggrepel",
-        "catdata",
         "glmnet",
         "speedglm",
         "RcppArmadillo",
@@ -84643,7 +84642,6 @@
         "class"
     ],
     "smurf": [
-        "catdata",
         "glmnet",
         "Matrix",
         "mgcv",
@@ -84715,7 +84713,6 @@
         "munsell",
         "pillar"
     ],
-    "catdata": [],
     "speedglm": [
         "Matrix"
     ],
