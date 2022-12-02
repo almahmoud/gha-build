@@ -12711,7 +12711,6 @@
         "mrfDepth",
         "igraph",
         "cowplot",
-        "GoFKernel",
         "flowViz",
         "car",
         "rgeos",
@@ -65362,7 +65361,6 @@
         "ggplot2",
         "igraph",
         "cowplot",
-        "GoFKernel",
         "scales",
         "lifecycle",
         "mgcv",
@@ -65382,7 +65380,6 @@
         "vctrs",
         "pillar"
     ],
-    "GoFKernel": [],
     "rgeos": [],
     "RFOC": [
         "GEOmap",
