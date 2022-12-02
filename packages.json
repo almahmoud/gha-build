@@ -398,8 +398,7 @@
         "glmnet",
         "ScaledMatrix",
         "XVector",
-        "ragg",
-        "textshaping"
+        "ragg"
     ],
     "ALDEx2": [
         "zCompositions",
@@ -653,8 +652,7 @@
         "ragg",
         "hms",
         "blob",
-        "rematch2",
-        "textshaping"
+        "rematch2"
     ],
     "AneuFinder": [
         "GenomicRanges",
@@ -2026,8 +2024,7 @@
         "pillar",
         "tidyselect",
         "XVector",
-        "ragg",
-        "textshaping"
+        "ragg"
     ],
     "bayNorm": [
         "fitdistrplus",
@@ -2242,8 +2239,7 @@
         "ScaledMatrix",
         "ragg",
         "blob",
-        "rematch2",
-        "textshaping"
+        "rematch2"
     ],
     "BgeeCall": [
         "GenomicFeatures",
@@ -3685,7 +3681,6 @@
         "waldo",
         "gert",
         "gh",
-        "textshaping",
         "pillar",
         "rematch2"
     ],
@@ -4108,7 +4103,6 @@
         "TH.data",
         "nloptr",
         "broom",
-        "textshaping",
         "testthat",
         "waldo",
         "rematch2"
@@ -4343,8 +4337,7 @@
         "ScaledMatrix",
         "XVector",
         "ragg",
-        "pillar",
-        "textshaping"
+        "pillar"
     ],
     "CellaRepertorium": [
         "dplyr",
@@ -4465,8 +4458,7 @@
         "bslib",
         "spatstat.random",
         "pillar",
-        "tidyselect",
-        "textshaping"
+        "tidyselect"
     ],
     "cellity": [
         "AnnotationDbi",
@@ -4535,8 +4527,7 @@
         "GenomicRanges",
         "ScaledMatrix",
         "XVector",
-        "ragg",
-        "textshaping"
+        "ragg"
     ],
     "CellNOptR": [
         "ggplot2",
@@ -5433,8 +5424,7 @@
         "fresh",
         "waiter",
         "RSpectra",
-        "ragg",
-        "textshaping"
+        "ragg"
     ],
     "chromstaR": [
         "GenomicRanges",
@@ -6294,7 +6284,6 @@
         "waldo",
         "gert",
         "gh",
-        "textshaping",
         "rematch2"
     ],
     "cogeqc": [
@@ -6669,7 +6658,6 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "textshaping",
         "broom",
         "tweenr",
         "nloptr",
@@ -6720,7 +6708,6 @@
         "ipred",
         "tidyr",
         "prodlim",
-        "textshaping",
         "lava",
         "future.apply"
     ],
@@ -7125,7 +7112,6 @@
         "pillar",
         "AnnotationDbi",
         "annotate",
-        "textshaping",
         "bslib",
         "DelayedArray",
         "RSQLite",
@@ -9349,8 +9335,7 @@
         "ScaledMatrix",
         "XVector",
         "ragg",
-        "pillar",
-        "textshaping"
+        "pillar"
     ],
     "dittoSeq": [
         "ggplot2",
@@ -12024,8 +12009,7 @@
         "htmlTable",
         "blob",
         "dbplyr",
-        "hms",
-        "textshaping"
+        "hms"
     ],
     "flowAI": [
         "ggplot2",
@@ -12697,7 +12681,6 @@
         "waldo",
         "gert",
         "gh",
-        "textshaping",
         "pillar",
         "rematch2"
     ],
@@ -15199,7 +15182,6 @@
         "biovizBase",
         "latticeExtra",
         "GenomicAlignments",
-        "textshaping",
         "BiocParallel",
         "DelayedArray",
         "KEGGREST",
@@ -15947,7 +15929,6 @@
         "waldo",
         "gert",
         "gh",
-        "textshaping",
         "pillar",
         "rematch2"
     ],
@@ -16456,7 +16437,6 @@
         "lme4",
         "tidytree",
         "treeio",
-        "textshaping",
         "nloptr",
         "testthat",
         "waldo",
@@ -19300,7 +19280,6 @@
         "lme4",
         "biomaRt",
         "DT",
-        "textshaping",
         "nloptr",
         "GenomicAlignments"
     ],
@@ -19576,7 +19555,6 @@
         "waldo",
         "gert",
         "gh",
-        "textshaping",
         "pillar",
         "rematch2"
     ],
@@ -19673,8 +19651,7 @@
         "ScaledMatrix",
         "ragg",
         "blob",
-        "tidytree",
-        "textshaping"
+        "tidytree"
     ],
     "miaSim": [
         "SummarizedExperiment",
@@ -19739,7 +19716,6 @@
         "RSQLite",
         "tweenr",
         "ragg",
-        "textshaping",
         "blob"
     ],
     "microbiome": [
@@ -19908,8 +19884,7 @@
         "hms",
         "blob",
         "rematch2",
-        "future.apply",
-        "textshaping"
+        "future.apply"
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler",
@@ -21973,7 +21948,6 @@
         "quantreg",
         "waldo",
         "lava",
-        "textshaping",
         "rematch2",
         "future.apply"
     ],
@@ -22072,7 +22046,6 @@
         "RSQLite",
         "KEGGREST",
         "tidyr",
-        "textshaping",
         "waldo",
         "Biostrings",
         "blob",
@@ -22383,7 +22356,6 @@
         "vroom",
         "blob",
         "rtracklayer",
-        "textshaping",
         "progress",
         "GenomicAlignments"
     ],
@@ -22828,7 +22800,6 @@
         "dplyr",
         "AnnotationDbi",
         "annotate",
-        "textshaping",
         "progress",
         "tidyr",
         "pillar",
@@ -23862,7 +23833,6 @@
         "pillar",
         "gert",
         "gh",
-        "textshaping",
         "rematch2"
     ],
     "optimalFlow": [
@@ -24385,7 +24355,6 @@
         "gh",
         "RSQLite",
         "KEGGREST",
-        "textshaping",
         "rematch2",
         "blob"
     ],
@@ -24637,7 +24606,6 @@
         "XVector",
         "tibble",
         "ragg",
-        "textshaping",
         "pillar"
     ],
     "pengls": [
@@ -25192,8 +25160,7 @@
         "ragg",
         "tidyr",
         "bslib",
-        "spatstat.random",
-        "textshaping"
+        "spatstat.random"
     ],
     "pipeFrame": [
         "BSgenome",
@@ -28515,7 +28482,6 @@
         "gh",
         "progress",
         "BiocFileCache",
-        "textshaping",
         "blob",
         "GenomicAlignments",
         "pillar",
@@ -29856,7 +29822,6 @@
         "ragg",
         "GenomicRanges",
         "XVector",
-        "textshaping",
         "pillar"
     ],
     "scatterHatch": [
@@ -30099,7 +30064,6 @@
         "ggrepel",
         "tibble",
         "ragg",
-        "textshaping",
         "pillar"
     ],
     "scDD": [
@@ -30586,8 +30550,7 @@
         "ragg",
         "hms",
         "blob",
-        "rematch2",
-        "textshaping"
+        "rematch2"
     ],
     "scran": [
         "SingleCellExperiment",
@@ -30927,7 +30890,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "textshaping",
         "blob",
         "GenomicAlignments",
         "dbplyr",
@@ -32053,7 +32015,6 @@
         "latticeExtra",
         "htmlTable",
         "TH.data",
-        "textshaping",
         "densEstBayes",
         "quantreg",
         "rstan",
@@ -32502,8 +32463,7 @@
         "XVector",
         "ragg",
         "tidyr",
-        "spatstat.random",
-        "textshaping"
+        "spatstat.random"
     ],
     "sparrow": [
         "babelgene",
@@ -32756,8 +32716,7 @@
         "ragg",
         "latticeExtra",
         "htmlTable",
-        "Biostrings",
-        "textshaping"
+        "Biostrings"
     ],
     "spatzie": [
         "BSgenome",
@@ -32977,8 +32936,7 @@
         "ScaledMatrix",
         "XVector",
         "ragg",
-        "pillar",
-        "textshaping"
+        "pillar"
     ],
     "SpliceWiz": [
         "NxtIRFdata",
@@ -33352,7 +33310,6 @@
         "htmlTable",
         "viridis",
         "hms",
-        "textshaping",
         "pillar",
         "rematch2",
         "tidyselect"
@@ -35728,8 +35685,7 @@
         "ScaledMatrix",
         "ragg",
         "Biostrings",
-        "blob",
-        "textshaping"
+        "blob"
     ],
     "trigger": [
         "qvalue",
@@ -36210,7 +36166,6 @@
         "text2vec",
         "textstem",
         "rvest",
-        "textshaping",
         "rsparse",
         "koRpus.lang.en",
         "lexicon",
@@ -37522,13 +37477,9 @@
         "ggbeeswarm",
         "ragg",
         "tibble",
-        "textshaping",
         "pillar"
     ],
-    "ragg": [
-        "textshaping"
-    ],
-    "textshaping": [],
+    "ragg": [],
     "zCompositions": [
         "NADA"
     ],
@@ -38962,7 +38913,6 @@
         "waldo",
         "gert",
         "gh",
-        "textshaping",
         "pillar",
         "rematch2"
     ],
@@ -38972,7 +38922,6 @@
         "ragg",
         "rmarkdown",
         "tibble",
-        "textshaping",
         "pillar"
     ],
     "profvis": [],
@@ -41154,7 +41103,6 @@
         "waldo",
         "gert",
         "gh",
-        "textshaping",
         "pillar",
         "rematch2"
     ],
