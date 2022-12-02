@@ -115730,7 +115730,6 @@
         "rstantools",
         "VGAM",
         "MASS",
-        "logitnorm",
         "ggplot2",
         "matrixStats",
         "assertthat",
@@ -163541,7 +163540,6 @@
     "coro": [
         "rlang"
     ],
-    "logitnorm": [],
     "elasticnet": [
         "lars"
     ],
