@@ -4235,7 +4235,6 @@
         "IRanges",
         "foreach",
         "doParallel",
-        "misc3d",
         "BiocGenerics",
         "GenomicRanges",
         "DelayedArray",
@@ -20743,7 +20742,6 @@
         "multicool",
         "pracma",
         "TH.data",
-        "misc3d",
         "MatrixModels",
         "highr",
         "interp",
@@ -28571,8 +28569,7 @@
         "nlme",
         "segmented",
         "survival",
-        "Rcpp",
-        "misc3d"
+        "Rcpp"
     ],
     "Dino": [
         "BiocParallel",
@@ -35626,8 +35623,7 @@
         "mvtnorm",
         "plot3D",
         "pracma",
-        "prettyunits",
-        "misc3d"
+        "prettyunits"
     ],
     "fCI": [
         "FNN",
@@ -37156,7 +37152,6 @@
         "mgcv",
         "multicool",
         "pracma",
-        "misc3d",
         "nlme"
     ],
     "flowMerge": [
@@ -37187,7 +37182,6 @@
         "mgcv",
         "multicool",
         "pracma",
-        "misc3d",
         "nlme"
     ],
     "flowPloidy": [
@@ -37442,7 +37436,6 @@
         "jpeg",
         "interp",
         "nlme",
-        "misc3d",
         "farver",
         "munsell",
         "viridisLite",
@@ -37577,7 +37570,6 @@
         "deldir",
         "RcppEigen",
         "nlme",
-        "misc3d",
         "farver",
         "munsell",
         "viridisLite",
@@ -38016,7 +38008,6 @@
         "withr",
         "nlme",
         "Rcpp",
-        "misc3d",
         "farver",
         "munsell",
         "viridisLite",
@@ -38138,7 +38129,6 @@
         "tibble",
         "vctrs",
         "nlme",
-        "misc3d",
         "farver",
         "munsell",
         "viridisLite",
@@ -51576,7 +51566,6 @@
         "withr",
         "nlme",
         "Rcpp",
-        "misc3d",
         "farver",
         "munsell",
         "viridisLite",
@@ -52328,7 +52317,6 @@
         "vctrs",
         "withr",
         "lpSolve",
-        "misc3d",
         "Rcpp",
         "gplots",
         "brio",
@@ -69424,7 +69412,6 @@
         "zoo",
         "nlme",
         "htmltools",
-        "misc3d",
         "viridisLite",
         "htmlwidgets",
         "tidyr",
@@ -71162,7 +71149,6 @@
         "BiocParallel",
         "ellipsis",
         "nlme",
-        "misc3d",
         "zlibbioc",
         "Rhtslib",
         "XML",
@@ -73501,7 +73487,6 @@
         "mgcv",
         "multicool",
         "pracma",
-        "misc3d",
         "stringi",
         "nlme"
     ],
@@ -77051,7 +77036,6 @@
         "stringi",
         "memoise",
         "httr",
-        "misc3d",
         "clipr",
         "hms",
         "vroom",
@@ -77430,8 +77414,7 @@
         "cachem",
         "askpass",
         "highr",
-        "nlme",
-        "misc3d"
+        "nlme"
     ],
     "pipeComp": [
         "BiocParallel",
@@ -84321,7 +84304,6 @@
         "iterators",
         "magrittr",
         "survival",
-        "misc3d",
         "farver",
         "munsell",
         "RColorBrewer",
@@ -94948,7 +94930,6 @@
         "png",
         "Biostrings",
         "nlme",
-        "misc3d",
         "later",
         "farver",
         "munsell",
@@ -95110,7 +95091,6 @@
         "mime",
         "openssl",
         "nlme",
-        "misc3d",
         "later",
         "cowplot",
         "fitdistrplus",
@@ -109988,7 +109968,6 @@
         "rstudioapi",
         "usethis",
         "gtable",
-        "misc3d",
         "ggplot2",
         "scales",
         "httr",
@@ -110287,7 +110266,6 @@
         "digest",
         "clv",
         "rgl",
-        "misc3d",
         "nlme",
         "farver",
         "munsell",
@@ -110880,8 +110858,7 @@
         "multicool",
         "mvtnorm",
         "plot3D",
-        "pracma",
-        "misc3d"
+        "pracma"
     ],
     "uncoverappLib": [
         "markdown",
@@ -118054,10 +118031,7 @@
         "expm",
         "Matrix"
     ],
-    "plot3D": [
-        "misc3d"
-    ],
-    "misc3d": [],
+    "plot3D": [],
     "msigdbr": [
         "babelgene",
         "dplyr",
@@ -123711,7 +123685,6 @@
         "multicool",
         "mvtnorm",
         "pracma",
-        "misc3d",
         "nlme",
         "Rcpp"
     ],
@@ -123725,8 +123698,7 @@
         "plot3D",
         "pracma",
         "nlme",
-        "Rcpp",
-        "misc3d"
+        "Rcpp"
     ],
     "multicool": [
         "Rcpp"
@@ -125842,7 +125814,6 @@
         "withr",
         "nlme",
         "Rcpp",
-        "misc3d",
         "farver",
         "munsell",
         "viridisLite",
@@ -125877,7 +125848,6 @@
         "withr",
         "nlme",
         "Rcpp",
-        "misc3d",
         "farver",
         "munsell",
         "viridisLite",
@@ -125910,7 +125880,6 @@
         "withr",
         "nlme",
         "Rcpp",
-        "misc3d",
         "farver",
         "munsell",
         "viridisLite",
@@ -125941,7 +125910,6 @@
         "pracma",
         "nlme",
         "Rcpp",
-        "misc3d",
         "farver",
         "munsell",
         "viridisLite",
@@ -131792,7 +131760,6 @@
         "tibble",
         "vctrs",
         "withr",
-        "misc3d",
         "Rcpp",
         "RColorBrewer",
         "nlme",
@@ -133448,7 +133415,6 @@
         "kml",
         "clv",
         "rgl",
-        "misc3d",
         "htmlwidgets",
         "htmltools",
         "knitr",
@@ -133464,7 +133430,6 @@
         "clv",
         "class",
         "rgl",
-        "misc3d",
         "htmlwidgets",
         "htmltools",
         "knitr",
@@ -133481,7 +133446,6 @@
         "longitudinalData",
         "class",
         "rgl",
-        "misc3d",
         "htmlwidgets",
         "htmltools",
         "knitr",
