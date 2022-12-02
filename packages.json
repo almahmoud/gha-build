@@ -5098,7 +5098,6 @@
         "biomaRt",
         "DESeq2"
     ],
-    "TENxIO": [],
     "tenXplore": [
         "restfulSE",
         "ontoProc",
