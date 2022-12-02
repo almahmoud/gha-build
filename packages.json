@@ -188,7 +188,6 @@
         "VariantAnnotation",
         "GenomicFeatures"
     ],
-    "ballgown": [],
     "bambu": [
         "GenomicFeatures"
     ],
@@ -3531,7 +3530,6 @@
         "VariantAnnotation"
     ],
     "RNASeqR": [
-        "ballgown",
         "FactoMineR",
         "factoextra",
         "clusterProfiler",
@@ -4342,9 +4340,7 @@
         "VariantAnnotation",
         "GenomicFeatures"
     ],
-    "VaSP": [
-        "ballgown"
-    ],
+    "VaSP": [],
     "VCFArray": [
         "VariantAnnotation",
         "GenomicFiles",
