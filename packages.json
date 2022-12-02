@@ -30244,7 +30244,6 @@
         "DelayedArray",
         "purrr"
     ],
-    "INPower": [],
     "INSPEcT": [
         "BiocParallel",
         "pROC",
