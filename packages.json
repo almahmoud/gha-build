@@ -2331,7 +2331,6 @@
         "broom",
         "waldo"
     ],
-    "cytoKernel": [],
     "cytomapper": [
         "SpatialExperiment",
         "DropletUtils",
