@@ -7178,7 +7178,6 @@
         "InteractionSet",
         "QDNAseq"
     ],
-    "multiOmicsViz": [],
     "multiSight": [
         "anyLib",
         "caret",
