@@ -102469,7 +102469,6 @@
         "svUnit",
         "lattice",
         "rprojroot",
-        "HDInterval",
         "distributional",
         "numDeriv",
         "curl",
@@ -171109,7 +171108,6 @@
         "R6",
         "pillar",
         "scales",
-        "HDInterval",
         "distributional",
         "numDeriv",
         "cli",
@@ -171143,7 +171141,6 @@
         "ggplot2",
         "rlang",
         "scales",
-        "HDInterval",
         "tibble",
         "vctrs",
         "withr",
@@ -171213,7 +171210,6 @@
         "lattice"
     ],
     "svUnit": [],
-    "HDInterval": [],
     "distributional": [
         "vctrs",
         "rlang",
