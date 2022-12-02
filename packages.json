@@ -10048,7 +10048,6 @@
         "zlibbioc"
     ],
     "BioMVCClass": [
-        "MVCClass",
         "Biobase",
         "graph",
         "Rgraphviz",
@@ -76718,7 +76717,6 @@
         "assertthat",
         "askpass"
     ],
-    "MVCClass": [],
     "MWASTools": [
         "ppcor",
         "qvalue",
