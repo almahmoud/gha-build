@@ -5828,7 +5828,6 @@
         "Rsamtools",
         "GenomicAlignments"
     ],
-    "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
         "SummarizedExperiment",
         "AnnotationDbi",
@@ -6555,7 +6554,6 @@
         "ComplexUpset",
         "csaw",
         "dplyr",
-        "EnrichedHeatmap",
         "forcats",
         "GenomicInteractions",
         "ggforce",
@@ -14884,7 +14882,6 @@
         "org.Mm.eg.db",
         "rGREAT",
         "ggplot2",
-        "EnrichedHeatmap",
         "rtracklayer",
         "Rsamtools",
         "AnnotationDbi",
