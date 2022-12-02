@@ -397,7 +397,6 @@
     ],
     "condiments": [],
     "consensusDE": [
-        "EDASeq",
         "EnsDb.Hsapiens.v86",
         "RUVSeq",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene"
@@ -491,7 +490,6 @@
         "VariantAnnotation"
     ],
     "DaMiRseq": [
-        "EDASeq",
         "FactoMineR",
         "arm",
         "lme4",
@@ -626,7 +624,6 @@
         "enrichplot",
         "ggtree"
     ],
-    "EDASeq": [],
     "edge": [
         "snm",
         "lme4"
@@ -856,7 +853,6 @@
     ],
     "GARS": [
         "DaMiRseq",
-        "EDASeq",
         "FactoMineR",
         "arm",
         "lme4",
@@ -1308,8 +1304,7 @@
         "ggtree"
     ],
     "metaseqR2": [
-        "DSS",
-        "EDASeq"
+        "DSS"
     ],
     "metavizr": [
         "epivizr",
@@ -1649,8 +1644,7 @@
         "NxtIRFdata"
     ],
     "octad": [
-        "RUVSeq",
-        "EDASeq"
+        "RUVSeq"
     ],
     "ODER": [
         "dasper",
@@ -1974,7 +1968,6 @@
         "VariantAnnotation"
     ],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "motifStack",
         "RUVSeq"
     ],
@@ -2095,9 +2088,7 @@
         "pbkrtest",
         "lme4"
     ],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "sampleClassifier": [],
     "scAlign": [],
     "scanMiRApp": [],
@@ -2121,8 +2112,7 @@
         "annotatr"
     ],
     "scone": [
-        "RUVSeq",
-        "EDASeq"
+        "RUVSeq"
     ],
     "SCOPE": [],
     "scoreInvHap": [
@@ -2306,8 +2296,7 @@
         "VariantAnnotation"
     ],
     "standR": [
-        "RUVSeq",
-        "EDASeq"
+        "RUVSeq"
     ],
     "staRank": [],
     "StarBioTrek": [
