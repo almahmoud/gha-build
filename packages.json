@@ -65479,7 +65479,6 @@
         "pillar"
     ],
     "rnaseqcomp": [],
-    "RNASeqPower": [],
     "RNASeqR": [
         "ggplot2",
         "pathview",
