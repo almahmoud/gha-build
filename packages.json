@@ -1107,19 +1107,14 @@
     ],
     "standR": [],
     "StarBioTrek": [],
-    "StructuralVariantAnnotation": [],
     "survtype": [
         "survminer",
         "ggpubr",
         "rstatix",
         "car"
     ],
-    "svaNUMT": [
-        "StructuralVariantAnnotation"
-    ],
-    "svaRetro": [
-        "StructuralVariantAnnotation"
-    ],
+    "svaNUMT": [],
+    "svaRetro": [],
     "synergyfinder": [
         "drc",
         "car"
