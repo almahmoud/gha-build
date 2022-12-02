@@ -1860,7 +1860,6 @@
         "ggtree",
         "treeio"
     ],
-    "M3Drop": [],
     "m6Aboost": [],
     "Maaslin2": [
         "car",
@@ -3269,9 +3268,7 @@
     "scMAGeCK": [
         "Seurat"
     ],
-    "scMerge": [
-        "M3Drop"
-    ],
+    "scMerge": [],
     "scmeth": [
         "annotatr",
         "GenomicFeatures",
@@ -3436,8 +3433,7 @@
         "TENxPBMCData",
         "scDblFinder",
         "GenomicFeatures",
-        "treeio",
-        "M3Drop"
+        "treeio"
     ],
     "SingleMoleculeFootprinting": [
         "QuasR",
