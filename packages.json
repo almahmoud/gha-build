@@ -13881,7 +13881,6 @@
         "spatstat.random",
         "lmerTest",
         "lme4",
-        "scam",
         "ggforce",
         "dbplyr",
         "RSQLite",
@@ -26340,7 +26339,6 @@
         "lme4",
         "dplyr",
         "tidyr",
-        "scam",
         "SingleCellExperiment",
         "SpatialExperiment",
         "SummarizedExperiment",
@@ -32441,7 +32439,6 @@
         "rmarkdown",
         "shiny"
     ],
-    "scam": [],
     "LogicReg": [],
     "reldist": [
         "densEstBayes",
