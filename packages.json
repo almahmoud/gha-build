@@ -889,7 +889,6 @@
         "nloptr",
         "tibble",
         "tidyr",
-        "Rmpfr",
         "RcppEigen",
         "gld",
         "readxl",
@@ -3189,7 +3188,6 @@
         "genefilter",
         "rhdf5",
         "XVector",
-        "Rmpfr",
         "gld",
         "readxl",
         "ROI.plugin.lpsolve",
@@ -19642,7 +19640,6 @@
         "vcd",
         "shiny",
         "Hmisc",
-        "Rmpfr",
         "interp",
         "httr",
         "RSQLite",
@@ -28158,7 +28155,6 @@
         "igraph",
         "shiny",
         "ggplotify",
-        "Rmpfr",
         "RcppEigen",
         "gld",
         "readxl",
@@ -30293,7 +30289,6 @@
         "pROC",
         "RankProd",
         "AnnotationDbi",
-        "Rmpfr",
         "RSQLite",
         "KEGGREST",
         "httr",
@@ -35240,7 +35235,6 @@
         "qqman",
         "httr",
         "dplyr",
-        "Rmpfr",
         "BWStest",
         "RcppEigen",
         "GenomeInfoDb",
@@ -36098,7 +36092,6 @@
         "RcppEigen",
         "igraph",
         "rARPACK",
-        "Rmpfr",
         "bslib",
         "jquerylib",
         "GenomeInfoDb",
@@ -38276,9 +38269,7 @@
         "progress"
     ],
     "randPack": [],
-    "RankProd": [
-        "Rmpfr"
-    ],
+    "RankProd": [],
     "RAREsim": [
         "nloptr",
         "testthat",
@@ -45006,7 +44997,6 @@
         "igraph",
         "testthat",
         "doParallel",
-        "Rmpfr",
         "BWStest",
         "inaparc",
         "hms",
@@ -48550,7 +48540,6 @@
         "pillar",
         "mgcv",
         "scales",
-        "Rmpfr",
         "tidyr",
         "lme4",
         "nloptr",
@@ -50419,7 +50408,6 @@
         "ggplot2",
         "AnnotationDbi",
         "GO.db",
-        "Rmpfr",
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -52656,7 +52644,6 @@
         "mgcv",
         "scales",
         "httr",
-        "Rmpfr",
         "BWStest",
         "NMF",
         "ggbio",
@@ -53525,7 +53512,6 @@
         "pillar"
     ],
     "CVXR": [
-        "Rmpfr",
         "RcppEigen"
     ],
     "DescTools": [
@@ -53556,7 +53542,6 @@
         "waldo",
         "rematch2"
     ],
-    "Rmpfr": [],
     "gld": [
         "e1071"
     ],
@@ -57781,7 +57766,6 @@
         "vcd",
         "shiny",
         "Hmisc",
-        "Rmpfr",
         "survival",
         "ggplot2",
         "htmlTable",
@@ -59373,7 +59357,6 @@
     ],
     "magicaxis": [],
     "PMCMRplus": [
-        "Rmpfr",
         "BWStest"
     ],
     "BWStest": [],
