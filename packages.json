@@ -2438,7 +2438,6 @@
         "DESeq2",
         "biomaRt"
     ],
-    "IONiseR": [],
     "iPath": [
         "ggpubr",
         "survminer",
