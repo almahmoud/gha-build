@@ -743,7 +743,6 @@
         "plotly",
         "patchwork",
         "ggraph",
-        "graphite",
         "pbkrtest",
         "lme4",
         "aplot",
@@ -2574,7 +2573,6 @@
         "epiNEM",
         "metap",
         "mnem",
-        "graphite",
         "shadowtext",
         "Linnorm",
         "tidyr",
@@ -3285,7 +3283,6 @@
         "BiocFileCache",
         "GSEABase",
         "GO.db",
-        "graphite",
         "pathview",
         "annotate"
     ],
@@ -3446,7 +3443,6 @@
         "enrichplot",
         "ggraph",
         "reactome.db",
-        "graphite",
         "gson",
         "Hmisc",
         "GO.db",
@@ -4739,7 +4735,6 @@
         "tidyr"
     ],
     "graper": [],
-    "graphite": [],
     "GRENITS": [],
     "GreyListChIP": [
         "BSgenome",
@@ -4775,7 +4770,6 @@
         "ExperimentHub",
         "GSEABase",
         "GO.db",
-        "graphite",
         "pathview",
         "annotate"
     ],
@@ -6707,7 +6701,6 @@
         "fgsea",
         "ggraph",
         "reactome.db",
-        "graphite",
         "tidyverse",
         "caret",
         "biomaRt",
@@ -6760,7 +6753,6 @@
         "fgsea",
         "ggraph",
         "reactome.db",
-        "graphite",
         "tidyverse",
         "caret",
         "biomaRt",
@@ -6905,7 +6897,6 @@
     ],
     "MOGAMUN": [],
     "mogsa": [
-        "graphite",
         "genefilter",
         "GSEABase",
         "annotate"
@@ -7240,7 +7231,6 @@
     ],
     "MultiDataSet": [],
     "multiGSEA": [
-        "graphite",
         "fgsea",
         "metap"
     ],
@@ -7279,7 +7269,6 @@
         "shadowtext",
         "ggtree",
         "reactome.db",
-        "graphite",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -8331,7 +8320,6 @@
         "fgsea",
         "ggraph",
         "reactome.db",
-        "graphite",
         "Hmisc",
         "aplot",
         "scatterpie",
@@ -8443,9 +8431,7 @@
         "annotate",
         "ipred"
     ],
-    "PoTRA": [
-        "graphite"
-    ],
+    "PoTRA": [],
     "POWSC": [
         "MAST"
     ],
@@ -9029,7 +9015,6 @@
         "enrichplot",
         "ggraph",
         "reactome.db",
-        "graphite",
         "gson",
         "HDO.db",
         "fgsea",
@@ -10137,7 +10122,6 @@
         "tidyr",
         "enrichplot",
         "ggraph",
-        "graphite",
         "gson",
         "Seurat",
         "concaveman",
@@ -10958,7 +10942,6 @@
         "waldo"
     ],
     "sSNAPPY": [
-        "graphite",
         "ggraph",
         "tidygraph",
         "tidyr"
@@ -11017,7 +11000,6 @@
     ],
     "StarBioTrek": [
         "SpidermiR",
-        "graphite",
         "miRNAtap",
         "miRNAtap.db"
     ],
@@ -12140,7 +12122,6 @@
         "tidyr",
         "BiocFileCache",
         "GO.db",
-        "graphite",
         "pathview",
         "annotate",
         "pbkrtest",
