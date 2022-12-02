@@ -396,7 +396,6 @@
         "miniUI"
     ],
     "AnVILBilling": [
-        "bigrquery",
         "shinytoastr",
         "dplyr",
         "plotly",
@@ -1203,7 +1202,6 @@
         "AnnotationDbi"
     ],
     "BiocOncoTK": [
-        "bigrquery",
         "dplyr",
         "ggplot2",
         "GenomicFeatures",
@@ -14111,7 +14109,6 @@
         "AnnotationDbi",
         "GO.db",
         "dplyr",
-        "bigrquery",
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
@@ -17499,7 +17496,6 @@
         "dplyr",
         "AnnotationHub",
         "GO.db",
-        "bigrquery",
         "ExperimentHub",
         "interactiveDisplayBase",
         "dbplyr"
@@ -18931,7 +18927,6 @@
     "hardhat": [],
     "ipred": [],
     "miniUI": [],
-    "bigrquery": [],
     "shinytoastr": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi"
