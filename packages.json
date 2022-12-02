@@ -817,7 +817,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "BPRMeth": [],
     "brainflowprobes": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "bumphunter",
@@ -4773,9 +4772,7 @@
         "testthat"
     ],
     "MEIGOR": [],
-    "Melissa": [
-        "BPRMeth"
-    ],
+    "Melissa": [],
     "memes": [
         "cmdfun",
         "readr",
