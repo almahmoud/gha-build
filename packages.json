@@ -1786,7 +1786,6 @@
         "VariantTools"
     ],
     "HTSFilter": [],
-    "iBBiG": [],
     "icetea": [
         "GenomicFeatures",
         "VariantAnnotation",
@@ -2401,7 +2400,6 @@
         "GOstats"
     ],
     "miRSM": [
-        "iBBiG",
         "s4vd",
         "BiBitR",
         "rqubic",
