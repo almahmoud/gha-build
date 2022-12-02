@@ -148,7 +148,6 @@
         "rstatix"
     ],
     "biodbExpasy": [],
-    "biodbNcbi": [],
     "biomvRCNS": [
         "Gviz",
         "biovizBase",
