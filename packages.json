@@ -6850,7 +6850,6 @@
         "dbplyr",
         "RSQLite",
         "Spectra",
-        "MetaboCoreUtils",
         "GenomicRanges",
         "ggplot2",
         "DT",
@@ -19368,7 +19367,6 @@
         "future.apply"
     ],
     "MetaboAnnotation": [
-        "MetaboCoreUtils",
         "Spectra",
         "BiocParallel",
         "SummarizedExperiment",
@@ -19393,7 +19391,6 @@
         "XVector",
         "tidyr"
     ],
-    "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [
         "MultiAssayExperiment",
         "struct",
@@ -21699,7 +21696,6 @@
     "MobilityTransformR": [
         "MSnbase",
         "xcms",
-        "MetaboCoreUtils",
         "Spectra",
         "BiocParallel",
         "vsn",
