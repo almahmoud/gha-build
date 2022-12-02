@@ -932,7 +932,6 @@
         "shinyAce",
         "readxl",
         "plotly",
-        "shinyFiles",
         "patchwork",
         "ggraph",
         "graphite",
@@ -2131,7 +2130,6 @@
         "colourpicker",
         "shinyjs",
         "rtracklayer",
-        "shinyFiles",
         "shinyhelper",
         "shinyWidgets",
         "shinydashboardPlus",
@@ -2423,7 +2421,6 @@
     "CNVPanelizer": [
         "exomeCopy",
         "testthat",
-        "shinyFiles",
         "shinyjs",
         "waldo"
     ],
@@ -6563,7 +6560,6 @@
         "annotate"
     ],
     "InterCellar": [
-        "shinyFiles",
         "tidyr",
         "colourpicker",
         "dendextend",
@@ -6933,7 +6929,6 @@
         "readr",
         "shinyvalidate",
         "shinythemes",
-        "shinyFiles",
         "shinyjs",
         "shinyBS",
         "biomaRt",
@@ -7975,8 +7970,7 @@
         "viridis"
     ],
     "methylscaper": [
-        "shinyjs",
-        "shinyFiles"
+        "shinyjs"
     ],
     "MethylSeekR": [
         "rtracklayer",
@@ -9630,7 +9624,6 @@
     "OGRE": [
         "Gviz",
         "AnnotationHub",
-        "shinyFiles",
         "rtracklayer",
         "shinyBS",
         "tidyr",
@@ -9794,7 +9787,6 @@
         "waldo"
     ],
     "oneSENSE": [
-        "shinyFiles",
         "plotly",
         "tidyr"
     ],
@@ -10315,7 +10307,6 @@
         "colourpicker",
         "ExperimentHub",
         "shinyBS",
-        "shinyFiles",
         "shinyjs",
         "OmaDB",
         "AnnotationHub",
@@ -13538,7 +13529,6 @@
         "genefilter",
         "plotly",
         "rtracklayer",
-        "shinyFiles",
         "shinyWidgets",
         "heatmaply",
         "dbplyr",
@@ -13995,7 +13985,6 @@
         "drawer",
         "plotly",
         "shinyAce",
-        "shinyFiles",
         "shinyWidgets",
         "shinydashboardPlus",
         "shinyjqui",
@@ -14116,7 +14105,6 @@
         "readr",
         "ggrepel",
         "caret",
-        "shinyFiles",
         "pathview",
         "ELMER",
         "clusterProfiler",
@@ -14606,9 +14594,7 @@
         "viridis",
         "GenomicAlignments"
     ],
-    "Trendy": [
-        "shinyFiles"
-    ],
+    "Trendy": [],
     "TRESS": [
         "rtracklayer",
         "GenomicFeatures",
@@ -14638,7 +14624,6 @@
     "tripr": [
         "shinyBS",
         "shinyjs",
-        "shinyFiles",
         "plotly",
         "tidyr"
     ],
@@ -14705,7 +14690,6 @@
         "mirbase.db",
         "Organism.dplyr",
         "plotgardener",
-        "shinyFiles",
         "shinyjs",
         "BiocFileCache",
         "rtracklayer",
@@ -14816,7 +14800,6 @@
     ],
     "VarCon": [
         "BSgenome",
-        "shinyFiles",
         "rtracklayer",
         "GenomicAlignments"
     ],
@@ -15589,7 +15572,6 @@
         "readr",
         "readxl",
         "plotly",
-        "shinyFiles",
         "patchwork",
         "pbkrtest",
         "lme4",
@@ -15611,7 +15593,6 @@
     ],
     "HDO.db": [],
     "shinyAce": [],
-    "shinyFiles": [],
     "ggraph": [
         "ggforce",
         "ggrepel",
