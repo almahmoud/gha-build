@@ -1,5 +1,0 @@
-gargle
-rgl
-wordcloud2
-GeneNetworkBuilder
-tidyselect
