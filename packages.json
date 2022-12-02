@@ -719,7 +719,6 @@
         "BSgenome",
         "recipes"
     ],
-    "breakpointR": [],
     "brendaDb": [],
     "BRGenomics": [
         "DESeq2",
