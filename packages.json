@@ -2271,7 +2271,6 @@
         "EnsDb.Hsapiens.v86"
     ],
     "RLSeq": [
-        "valr",
         "RLHub"
     ],
     "Rmmquant": [
@@ -3120,7 +3119,6 @@
     ],
     "pwrEWAS.data": [],
     "phastCons100way.UCSC.hg19": [],
-    "valr": [],
     "RLHub": [],
     "SCATEData": [],
     "Rmagic": [],
