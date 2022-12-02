@@ -15364,7 +15364,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "BBmisc",
         "biomaRt",
         "BSgenome",
         "cowplot",
@@ -18578,7 +18577,6 @@
         "BiocParallel",
         "BatchJobs",
         "GenomeInfoDb",
-        "BBmisc",
         "RSQLite",
         "XVector",
         "mgcv",
@@ -30077,7 +30075,6 @@
         "BiocParallel",
         "GenomicFeatures",
         "SummarizedExperiment",
-        "BBmisc",
         "DESeq2",
         "GenomicRanges",
         "ggplot2",
@@ -30416,7 +30413,6 @@
     "parglms": [
         "BatchJobs",
         "doParallel",
-        "BBmisc",
         "RSQLite",
         "blob",
         "vctrs"
@@ -46359,7 +46355,6 @@
         "vctrs"
     ],
     "Xeva": [
-        "BBmisc",
         "ggplot2",
         "ComplexHeatmap",
         "doParallel",
@@ -50727,7 +50722,6 @@
         "future.apply",
         "future"
     ],
-    "BBmisc": [],
     "NHPoisson": [
         "car",
         "mgcv",
@@ -50993,7 +50987,6 @@
     ],
     "matchingR": [],
     "BatchJobs": [
-        "BBmisc",
         "RSQLite",
         "blob",
         "vctrs"
