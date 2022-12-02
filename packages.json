@@ -2127,7 +2127,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "oneSENSE": [],
     "onlineFDR": [],
     "OpenStats": [
         "AICcmodavg",
