@@ -23428,7 +23428,6 @@
         "progress",
         "sass"
     ],
-    "LPEadj": [],
     "LRBaseDbi": [
         "AnnotationDbi",
         "RSQLite",
