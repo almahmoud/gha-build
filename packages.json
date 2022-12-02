@@ -7151,7 +7151,6 @@
     ],
     "FuseSOM": [
         "FCPS",
-        "analogue",
         "ggplotify",
         "ggplot2",
         "ggpubr",
@@ -22928,7 +22927,6 @@
         "ggplot2",
         "DataVisualizations"
     ],
-    "analogue": [],
     "DataVisualizations": [
         "ggplot2"
     ],
