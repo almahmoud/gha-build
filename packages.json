@@ -824,7 +824,6 @@
         "mixOmics",
         "rmarkdown",
         "speaq",
-        "pcaPP",
         "ggplot2",
         "baseline",
         "vctrs",
@@ -6383,7 +6382,6 @@
         "Biostrings",
         "interp",
         "hms",
-        "pcaPP",
         "blob",
         "memoise",
         "pillar",
@@ -10776,7 +10774,6 @@
         "quantreg",
         "multcomp",
         "htmlTable",
-        "pcaPP",
         "pillar",
         "latticeExtra",
         "viridis",
@@ -12188,7 +12185,6 @@
         "ggplot2",
         "reshape2",
         "shiny",
-        "pcaPP",
         "mgcv",
         "scales",
         "tibble",
@@ -13237,7 +13233,6 @@
         "geometry",
         "NMF",
         "DMwR2",
-        "pcaPP",
         "apcluster",
         "futile.logger",
         "xts",
@@ -13760,7 +13755,6 @@
         "rrcov",
         "NCIgraph",
         "RCy3",
-        "pcaPP",
         "httr",
         "IRkernel",
         "IRdisplay",
@@ -18499,7 +18493,6 @@
         "restfulr",
         "pillar",
         "futile.logger",
-        "pcaPP",
         "hdrcde",
         "ks",
         "DelayedArray",
@@ -18650,7 +18643,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "pcaPP",
         "httpuv",
         "fontawesome",
         "promises",
@@ -19031,8 +19023,7 @@
     "flowBeads": [
         "rrcov",
         "flowCore",
-        "knitr",
-        "pcaPP"
+        "knitr"
     ],
     "flowBin": [
         "flowCore",
@@ -19227,7 +19218,6 @@
         "feature",
         "flowCore",
         "ks",
-        "pcaPP",
         "mgcv"
     ],
     "flowMerge": [
@@ -19237,7 +19227,6 @@
         "rrcov",
         "flowCore",
         "ks",
-        "pcaPP",
         "mgcv"
     ],
     "flowPloidy": [
@@ -19347,7 +19336,6 @@
         "scales",
         "DelayedArray",
         "mgcv",
-        "pcaPP",
         "IRanges",
         "tibble",
         "tidyselect",
@@ -19399,7 +19387,6 @@
         "DelayedArray",
         "mgcv",
         "interp",
-        "pcaPP",
         "IRanges",
         "tibble",
         "tidyselect",
@@ -19611,7 +19598,6 @@
         "fda",
         "fds",
         "rainbow",
-        "pcaPP",
         "hdrcde",
         "ks",
         "ggplot2",
@@ -19664,7 +19650,6 @@
         "memoise",
         "rainbow",
         "DelayedArray",
-        "pcaPP",
         "hdrcde",
         "ks",
         "ggplot2",
@@ -21425,7 +21410,6 @@
         "purrr",
         "mgcv",
         "cellranger",
-        "pcaPP",
         "future",
         "future.apply",
         "rematch2",
@@ -26460,14 +26444,12 @@
     "iterativeBMA": [
         "BMA",
         "survival",
-        "rrcov",
-        "pcaPP"
+        "rrcov"
     ],
     "iterativeBMAsurv": [
         "BMA",
         "survival",
-        "rrcov",
-        "pcaPP"
+        "rrcov"
     ],
     "iterClust": [],
     "IVAS": [
@@ -26585,7 +26567,6 @@
         "GenomeInfoDb",
         "XVector",
         "rainbow",
-        "pcaPP",
         "hdrcde",
         "ks",
         "ggplot2",
@@ -27749,7 +27730,6 @@
     ],
     "maanova": [],
     "Maaslin2": [
-        "pcaPP",
         "edgeR",
         "metagenomeSeq",
         "car",
@@ -27800,7 +27780,6 @@
         "psych",
         "futile.logger",
         "IRanges",
-        "pcaPP",
         "edgeR",
         "metagenomeSeq",
         "car",
@@ -32902,7 +32881,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "pcaPP",
         "edgeR",
         "metagenomeSeq",
         "car",
@@ -37864,7 +37842,6 @@
         "knitr",
         "RcppEigen",
         "ks",
-        "pcaPP",
         "mgcv"
     ],
     "OPWeight": [
@@ -39241,7 +39218,6 @@
         "IRanges",
         "RSQLite",
         "KEGGREST",
-        "pcaPP",
         "GenomicRanges",
         "SummarizedExperiment",
         "BiocParallel",
@@ -39437,7 +39413,6 @@
         "Biostrings",
         "interp",
         "hms",
-        "pcaPP",
         "blob",
         "memoise",
         "pillar",
@@ -39878,7 +39853,6 @@
         "openssl",
         "RcppEigen",
         "hms",
-        "pcaPP",
         "hdrcde",
         "ks",
         "blob",
@@ -47006,7 +46980,6 @@
         "tibble",
         "vctrs",
         "gplots",
-        "pcaPP",
         "httpuv",
         "fontawesome",
         "promises",
@@ -47430,7 +47403,6 @@
         "copula",
         "ggplot2",
         "DESeq2",
-        "pcaPP",
         "IRanges",
         "GenomicRanges",
         "BiocParallel",
@@ -53407,8 +53379,7 @@
     "statTarget": [
         "ROC",
         "rrcov",
-        "knitr",
-        "pcaPP"
+        "knitr"
     ],
     "STdeconvolve": [
         "topicmodels",
@@ -53904,7 +53875,6 @@
         "gridtext",
         "knitr",
         "km.ci",
-        "pcaPP",
         "car",
         "pbkrtest",
         "quantreg",
@@ -57186,7 +57156,6 @@
         "restfulr",
         "RcppEigen",
         "hms",
-        "pcaPP",
         "hdrcde",
         "ks"
     ],
@@ -59686,7 +59655,6 @@
         "openssl",
         "pillar"
     ],
-    "pcaPP": [],
     "baseline": [],
     "rARPACK": [
         "RSpectra",
@@ -62164,12 +62132,9 @@
     "gridtext": [],
     "BMA": [
         "survival",
-        "rrcov",
-        "pcaPP"
+        "rrcov"
     ],
-    "rrcov": [
-        "pcaPP"
-    ],
+    "rrcov": [],
     "ALL": [],
     "vcfR": [
         "ape",
@@ -63535,9 +63500,7 @@
         "mgcv",
         "scales"
     ],
-    "ccaPP": [
-        "pcaPP"
-    ],
+    "ccaPP": [],
     "cytometree": [
         "ggplot2",
         "igraph",
@@ -64212,7 +64175,6 @@
     "fda": [
         "fds",
         "rainbow",
-        "pcaPP",
         "hdrcde",
         "ks",
         "ggplot2",
@@ -64224,7 +64186,6 @@
     ],
     "fds": [
         "rainbow",
-        "pcaPP",
         "hdrcde",
         "ks",
         "ggplot2",
@@ -64235,7 +64196,6 @@
         "pillar"
     ],
     "rainbow": [
-        "pcaPP",
         "hdrcde",
         "ks",
         "ggplot2",
@@ -64441,8 +64401,7 @@
         "systemfonts"
     ],
     "robust": [
-        "rrcov",
-        "pcaPP"
+        "rrcov"
     ],
     "roptim": [],
     "maptools": [],
@@ -65003,8 +64962,7 @@
         "future"
     ],
     "chemometrics": [
-        "e1071",
-        "pcaPP"
+        "e1071"
     ],
     "optparse": [],
     "glmmTMB": [
@@ -66970,9 +66928,7 @@
         "bslib",
         "sass"
     ],
-    "copula": [
-        "pcaPP"
-    ],
+    "copula": [],
     "proxyC": [],
     "extRemes": [
         "Lmoments"
@@ -67606,8 +67562,7 @@
     "clustvarsel": [
         "BMA",
         "survival",
-        "rrcov",
-        "pcaPP"
+        "rrcov"
     ],
     "gstat": [
         "sf",
