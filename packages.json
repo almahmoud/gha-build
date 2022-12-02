@@ -782,7 +782,6 @@
     "DegNorm": [
         "GenomicFeatures"
     ],
-    "DEGreport": [],
     "DeMixT": [
         "DSS"
     ],
@@ -1614,9 +1613,7 @@
         "GenomicFeatures",
         "ensembldb"
     ],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "IVAS": [
         "GenomicFeatures",
         "lme4"
