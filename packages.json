@@ -14734,7 +14734,6 @@
         "AnnotationDbi",
         "annotate"
     ],
-    "Qtlizer": [],
     "quantiseqr": [
         "SummarizedExperiment",
         "ggplot2",
