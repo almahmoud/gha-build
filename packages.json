@@ -21101,7 +21101,6 @@
         "RSQLite",
         "KEGGREST"
     ],
-    "TileDBArray": [],
     "tilingArray": [
         "vsn",
         "genefilter",
