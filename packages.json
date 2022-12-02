@@ -858,9 +858,7 @@
         "Gviz",
         "JASPAR2018"
     ],
-    "proBatch": [
-        "pvca"
-    ],
+    "proBatch": [],
     "profileplyr": [
         "ChIPseeker"
     ],
@@ -886,7 +884,6 @@
         "rstatix",
         "car"
     ],
-    "pvca": [],
     "Pviz": [
         "Gviz"
     ],
