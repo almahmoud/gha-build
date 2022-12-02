@@ -6590,7 +6590,6 @@
         "ggplot2",
         "tibble"
     ],
-    "DelayedDataFrame": [],
     "DelayedTensor": [
         "BiocSingular",
         "ScaledMatrix"
@@ -27866,7 +27865,6 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "GDSArray",
-        "DelayedDataFrame",
         "SeqArray",
         "SeqVarTools",
         "Biostrings",
