@@ -5737,7 +5737,6 @@
         "shinyAce",
         "psych",
         "readxl",
-        "writexl",
         "plotly",
         "shinyFiles",
         "patchwork",
@@ -37357,7 +37356,6 @@
         "reactable",
         "rio",
         "shinybusy",
-        "writexl",
         "tidyselect",
         "vctrs",
         "pillar",
@@ -88091,7 +88089,6 @@
         "DT",
         "readr",
         "readxl",
-        "writexl",
         "scales",
         "plotly",
         "shinyFiles",
@@ -88276,7 +88273,6 @@
     "psych": [
         "nlme"
     ],
-    "writexl": [],
     "shinyFiles": [
         "htmltools",
         "shiny",
@@ -93411,7 +93407,6 @@
         "shinyWidgets",
         "tibble",
         "shinybusy",
-        "writexl",
         "reactR",
         "cellranger",
         "progress",
