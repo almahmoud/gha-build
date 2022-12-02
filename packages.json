@@ -24966,7 +24966,6 @@
         "SpatialExperiment",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "BRISC",
         "BiocParallel",
         "GenomicRanges",
         "DelayedArray",
@@ -44824,7 +44823,6 @@
         "vroom",
         "progress"
     ],
-    "BRISC": [],
     "RcmdrMisc": [
         "car",
         "Hmisc",
