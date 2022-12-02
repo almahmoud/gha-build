@@ -10178,7 +10178,6 @@
         "struct",
         "SummarizedExperiment",
         "tidyr",
-        "rols",
         "dplyr"
     ],
     "metabomxtr": [
@@ -16002,7 +16001,6 @@
         "qvalue",
         "ggplot2"
     ],
-    "rols": [],
     "ROntoTools": [],
     "ropls": [
         "ggplot2",
@@ -18467,16 +18465,14 @@
         "sqldf"
     ],
     "struct": [
-        "SummarizedExperiment",
-        "rols"
+        "SummarizedExperiment"
     ],
     "Structstrings": [],
     "structToolbox": [
         "struct",
         "ggplot2",
         "ggthemes",
-        "SummarizedExperiment",
-        "rols"
+        "SummarizedExperiment"
     ],
     "StructuralVariantAnnotation": [
         "rtracklayer",
