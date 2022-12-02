@@ -7114,7 +7114,6 @@
         "memoise",
         "cachem"
     ],
-    "BridgeDbR": [],
     "BrowserViz": [
         "httpuv",
         "promises"
