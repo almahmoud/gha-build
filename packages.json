@@ -18199,7 +18199,6 @@
         "quanteda",
         "textclean",
         "textshape",
-        "sylly.en",
         "syuzhet",
         "askpass",
         "RcppArmadillo",
@@ -28440,7 +28439,6 @@
         "vctrs",
         "pillar",
         "openssl",
-        "sylly.en",
         "syuzhet",
         "RcppArmadillo",
         "hms",
@@ -75685,7 +75683,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "sylly.en",
         "syuzhet",
         "RcppArmadillo",
         "hms",
@@ -76391,7 +76388,6 @@
         "textshape",
         "bit64",
         "progress",
-        "sylly.en",
         "syuzhet",
         "askpass",
         "RcppArmadillo",
@@ -77156,7 +77152,6 @@
         "BiocFileCache",
         "interactiveDisplayBase",
         "RcppArmadillo",
-        "sylly.en",
         "syuzhet",
         "ellipsis",
         "purrr",
@@ -85153,7 +85148,6 @@
         "vctrs",
         "pillar",
         "Matrix",
-        "sylly.en",
         "syuzhet",
         "RcppArmadillo",
         "zoo",
@@ -85172,7 +85166,6 @@
     ],
     "koRpus.lang.en": [
         "koRpus",
-        "sylly.en",
         "Matrix"
     ],
     "koRpus": [
@@ -85212,7 +85205,6 @@
         "purrr"
     ],
     "textshape": [],
-    "sylly.en": [],
     "syuzhet": [
         "textshape",
         "zoo",
