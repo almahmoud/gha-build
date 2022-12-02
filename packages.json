@@ -241,8 +241,7 @@
         "plotly",
         "Seurat",
         "topGO",
-        "tidyr",
-        "scattermore"
+        "tidyr"
     ],
     "appreci8R": [
         "VariantAnnotation",
@@ -569,7 +568,6 @@
         "lmerTest",
         "nloptr",
         "tidyr",
-        "scattermore",
         "geneplotter",
         "plotly",
         "treeio",
@@ -1213,7 +1211,6 @@
         "scuttle",
         "ggrastr",
         "plotly",
-        "scattermore",
         "tidyr"
     ],
     "cellity": [
@@ -2350,9 +2347,7 @@
         "testthat",
         "waldo"
     ],
-    "dearseq": [
-        "scattermore"
-    ],
+    "dearseq": [],
     "debCAM": [
         "DMwR2",
         "readr"
@@ -2623,7 +2618,6 @@
         "scran",
         "scuttle",
         "plotly",
-        "scattermore",
         "tidyr"
     ],
     "DiscoRhythm": [
@@ -4654,8 +4648,7 @@
     "infercnv": [
         "Seurat",
         "tidyr",
-        "plotly",
-        "scattermore"
+        "plotly"
     ],
     "InPAS": [
         "BSgenome",
@@ -4790,7 +4783,6 @@
         "scuttle",
         "ggrastr",
         "plotly",
-        "scattermore",
         "fgsea",
         "aplot",
         "scatterpie",
@@ -6698,7 +6690,6 @@
     "Nebulosa": [
         "Seurat",
         "plotly",
-        "scattermore",
         "tidyr"
     ],
     "nempi": [
@@ -7467,7 +7458,6 @@
         "scuttle",
         "ggrastr",
         "plotly",
-        "scattermore",
         "tidyr"
     ],
     "pipeFrame": [
@@ -8793,7 +8783,6 @@
         "Seurat",
         "tensorflow",
         "plotly",
-        "scattermore",
         "tidyr"
     ],
     "SCAN.UPC": [
@@ -8824,7 +8813,6 @@
         "BiocFileCache",
         "recipes",
         "plotly",
-        "scattermore",
         "tidyr",
         "ipred"
     ],
@@ -8848,7 +8836,6 @@
         "DESeq2",
         "geneplotter",
         "plotly",
-        "scattermore",
         "genefilter",
         "tidyr"
     ],
@@ -8860,15 +8847,13 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "plotly",
-        "scattermore"
+        "plotly"
     ],
     "scCB2": [
         "DropletUtils",
         "Seurat",
         "scuttle",
         "plotly",
-        "scattermore",
         "tidyr"
     ],
     "scClassify": [
@@ -8885,7 +8870,6 @@
     "scDataviz": [
         "Seurat",
         "plotly",
-        "scattermore",
         "tidyr"
     ],
     "scDblFinder": [
@@ -8925,7 +8909,6 @@
         "Seurat",
         "concaveman",
         "plotly",
-        "scattermore",
         "tidyr"
     ],
     "scHOT": [],
@@ -8933,7 +8916,6 @@
     "scMAGeCK": [
         "Seurat",
         "plotly",
-        "scattermore",
         "tidyr"
     ],
     "scmap": [],
@@ -9067,7 +9049,6 @@
         "shadowtext",
         "ggtree",
         "tidygraph",
-        "scattermore",
         "ggfun",
         "tidytree",
         "treeio"
@@ -9081,8 +9062,7 @@
         "fields",
         "tidyr",
         "Seurat",
-        "concaveman",
-        "scattermore"
+        "concaveman"
     ],
     "scTreeViz": [
         "epivizr",
@@ -9100,7 +9080,6 @@
         "scuttle",
         "ggrastr",
         "plotly",
-        "scattermore",
         "rtracklayer",
         "biomaRt",
         "tidyr",
@@ -9418,7 +9397,6 @@
         "ggrastr",
         "M3Drop",
         "ruv",
-        "scattermore",
         "genefilter",
         "biomaRt",
         "reldist",
@@ -9549,7 +9527,6 @@
         "scuttle",
         "ggrastr",
         "plotly",
-        "scattermore",
         "tidyr"
     ],
     "sparrow": [
@@ -9738,7 +9715,6 @@
         "SpatialExperiment",
         "Seurat",
         "plotly",
-        "scattermore",
         "DropletUtils",
         "BiocFileCache",
         "scuttle",
@@ -9847,7 +9823,6 @@
         "Seurat",
         "SpatialExperiment",
         "plotly",
-        "scattermore",
         "DropletUtils",
         "BiocFileCache",
         "scuttle",
@@ -10444,7 +10419,6 @@
     ],
     "tricycle": [
         "scater",
-        "scattermore",
         "scuttle",
         "ggrastr"
     ],
@@ -10961,10 +10935,8 @@
     "org.Sc.sgd.db": [],
     "Seurat": [
         "plotly",
-        "scattermore",
         "tidyr"
     ],
-    "scattermore": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
         "rtracklayer"
@@ -11982,7 +11954,6 @@
     "SoupX": [
         "Seurat",
         "plotly",
-        "scattermore",
         "tidyr"
     ],
     "scRNAseq": [
