@@ -34064,7 +34064,6 @@
     "RMassBank": [
         "MSnbase",
         "httr",
-        "readJDX",
         "webchem",
         "ChemmineR",
         "ggplot2",
@@ -50267,7 +50266,6 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "readJDX": [],
     "TBX20BamSubset": [
         "Rsamtools",
         "GenomeInfoDb",
