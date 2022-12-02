@@ -76342,7 +76342,6 @@
         "GSEABase",
         "Biobase",
         "corpcor",
-        "svd",
         "AnnotationDbi",
         "annotate",
         "survival",
@@ -154528,7 +154527,6 @@
     ],
     "countrycode": [],
     "NMI": [],
-    "svd": [],
     "MKmisc": [
         "RColorBrewer",
         "robustbase",
