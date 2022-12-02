@@ -1424,7 +1424,6 @@
         "FDb.InfiniumMethylation.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "mitch": [],
     "mitoClone2": [
         "deepSNV",
         "VariantAnnotation"
