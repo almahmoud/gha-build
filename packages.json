@@ -25,9 +25,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "AMARETTO": [
-        "curatedTCGAData"
-    ],
+    "AMARETTO": [],
     "ANCOMBC": [
         "mia",
         "TreeSummarizedExperiment",
@@ -138,7 +136,6 @@
         "ggtree"
     ],
     "BiocOncoTK": [
-        "curatedTCGAData",
         "ggpubr",
         "car",
         "pbkrtest",
@@ -2553,7 +2550,6 @@
         "lme4"
     ],
     "lme4": [],
-    "curatedTCGAData": [],
     "lmerTest": [
         "lme4"
     ],
