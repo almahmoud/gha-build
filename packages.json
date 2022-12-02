@@ -4224,7 +4224,6 @@
         "csaw",
         "GenomicInteractions",
         "ggforce",
-        "ggside",
         "Gviz",
         "InteractionSet",
         "rtracklayer",
@@ -5106,7 +5105,6 @@
     "ggspavis": [
         "SpatialExperiment",
         "SingleCellExperiment",
-        "ggside",
         "DropletUtils",
         "BiocFileCache",
         "scuttle"
@@ -14494,7 +14492,6 @@
     "ComplexUpset": [
         "patchwork"
     ],
-    "ggside": [],
     "gap": [
         "plotly",
         "tidyr"
