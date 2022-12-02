@@ -72170,7 +72170,6 @@
         "htmlwidgets",
         "dplyr",
         "purrr",
-        "countrycode",
         "broom",
         "shiny",
         "scales",
@@ -148061,7 +148060,6 @@
         "htmlwidgets",
         "dplyr",
         "purrr",
-        "countrycode",
         "broom",
         "shiny",
         "scales",
@@ -148113,7 +148111,6 @@
         "rappdirs",
         "lattice"
     ],
-    "countrycode": [],
     "NMI": [],
     "MKmisc": [
         "RColorBrewer",
