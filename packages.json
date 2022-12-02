@@ -5718,7 +5718,6 @@
     ],
     "EpiTxDb": [
         "AnnotationDbi",
-        "Modstrings",
         "GenomicFeatures",
         "BiocFileCache",
         "tRNAdbImport",
@@ -11139,7 +11138,6 @@
         "ggplot2",
         "viridis"
     ],
-    "Modstrings": [],
     "MOFA2": [
         "dplyr",
         "tidyr",
@@ -15316,7 +15314,6 @@
         "ggplot2"
     ],
     "RNAmodR": [
-        "Modstrings",
         "GenomicFeatures",
         "GenomicAlignments",
         "rtracklayer",
@@ -15346,7 +15343,6 @@
         "BSgenome",
         "biovizBase",
         "GenomicAlignments",
-        "Modstrings",
         "ggplot2",
         "BiocFileCache",
         "Hmisc",
@@ -15358,7 +15354,6 @@
     ],
     "RNAmodR.ML": [
         "RNAmodR",
-        "Modstrings",
         "GenomicFeatures",
         "GenomicAlignments",
         "rtracklayer",
@@ -15388,7 +15383,6 @@
         "BSgenome",
         "biovizBase",
         "GenomicAlignments",
-        "Modstrings",
         "ggplot2",
         "BiocFileCache",
         "Hmisc",
@@ -19043,11 +19037,9 @@
         "tidyr"
     ],
     "tRNA": [
-        "Modstrings",
         "ggplot2"
     ],
     "tRNAdbImport": [
-        "Modstrings",
         "tRNA",
         "ggplot2"
     ],
@@ -19056,7 +19048,6 @@
         "rtracklayer",
         "BSgenome",
         "GenomicAlignments",
-        "Modstrings",
         "ggplot2",
         "SummarizedExperiment"
     ],
