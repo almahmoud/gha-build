@@ -3384,7 +3384,6 @@
     "levi": [
         "testthat"
     ],
-    "LineagePulse": [],
     "lineagespot": [
         "VariantAnnotation",
         "BSgenome",
