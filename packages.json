@@ -3909,7 +3909,6 @@
         "lme4",
         "nloptr"
     ],
-    "MSA2dist": [],
     "MsExperiment": [
         "QFeatures",
         "MultiAssayExperiment",
