@@ -3579,7 +3579,6 @@
         "PADOG",
         "GSVA",
         "globaltest",
-        "safe",
         "metap",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -3659,7 +3658,6 @@
         "GO.db",
         "graphite",
         "pathview",
-        "safe",
         "annotate",
         "org.Hs.eg.db"
     ],
@@ -5288,7 +5286,6 @@
         "GO.db",
         "graphite",
         "pathview",
-        "safe",
         "annotate",
         "org.Hs.eg.db"
     ],
@@ -10780,7 +10777,6 @@
     "rWikiPathways": [
         "tidyr"
     ],
-    "safe": [],
     "SAIGEgds": [],
     "sampleClassifier": [
         "MGFM",
@@ -13356,7 +13352,6 @@
         "GO.db",
         "graphite",
         "pathview",
-        "safe",
         "annotate",
         "babelgene",
         "pbkrtest",
