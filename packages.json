@@ -10211,7 +10211,6 @@
         "SpatialExperiment",
         "plotly",
         "dittoSeq",
-        "alphahull",
         "xROI",
         "tidyr",
         "DropletUtils",
@@ -12681,7 +12680,6 @@
     ],
     "hgu95a.db": [],
     "sampSurf": [],
-    "alphahull": [],
     "xROI": [
         "colourpicker"
     ],
