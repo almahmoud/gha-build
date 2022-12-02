@@ -57817,7 +57817,6 @@
     ],
     "logicFS": [
         "LogicReg",
-        "mcbiopi",
         "survival",
         "Matrix",
         "lattice"
@@ -138835,7 +138834,6 @@
         "Matrix",
         "lattice"
     ],
-    "mcbiopi": [],
     "LymphoSeqDB": [],
     "reldist": [
         "mgcv",
