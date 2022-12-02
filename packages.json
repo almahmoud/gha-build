@@ -496,7 +496,6 @@
     "sojourner": [
         "sampSurf"
     ],
-    "SomaticSignatures": [],
     "spaSim": [],
     "spatzie": [],
     "spikeLI": [],
@@ -554,9 +553,7 @@
     "wateRmelon": [
         "lumi"
     ],
-    "YAPSA": [
-        "SomaticSignatures"
-    ],
+    "YAPSA": [],
     "yarn": [],
     "zenith": [],
     "ggpubr": [
