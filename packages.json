@@ -4353,7 +4353,6 @@
     "CancerInSilico": [],
     "CancerSubtypes": [
         "NMF",
-        "ConsensusClusterPlus",
         "ggplot2",
         "tibble",
         "pillar"
@@ -4450,7 +4449,6 @@
     "CATALYST": [
         "SingleCellExperiment",
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "cowplot",
         "dplyr",
         "drc",
@@ -5112,7 +5110,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "ggplot2",
-        "ConsensusClusterPlus",
         "ggforce",
         "ggnewscale",
         "ggpubr",
@@ -5898,7 +5895,6 @@
         "DT",
         "scran",
         "scater",
-        "ConsensusClusterPlus",
         "dplyr",
         "tidyr",
         "GenomicRanges",
@@ -7369,7 +7365,6 @@
         "TH.data",
         "interp"
     ],
-    "ConsensusClusterPlus": [],
     "consensusDE": [
         "airway",
         "AnnotationDbi",
@@ -8573,7 +8568,6 @@
         "dendextend",
         "FactoMineR",
         "ggpubr",
-        "ConsensusClusterPlus",
         "ggforce",
         "ggnewscale",
         "XVector",
@@ -9422,7 +9416,6 @@
         "broom",
         "ComplexHeatmap",
         "cowplot",
-        "ConsensusClusterPlus",
         "DESeq2",
         "dplyr",
         "ggplot2",
@@ -9964,7 +9957,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "ConsensusClusterPlus",
         "ggforce",
         "ggnewscale",
         "ggplot2",
@@ -13226,7 +13218,6 @@
         "rematch2"
     ],
     "FlowSOM": [
-        "ConsensusClusterPlus",
         "dplyr",
         "ggforce",
         "ggnewscale",
@@ -18143,7 +18134,6 @@
         "RSQLite",
         "KEGGREST",
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "ggdendro",
         "ggrepel",
         "BiocParallel",
@@ -20333,7 +20323,6 @@
         "tidyr",
         "ggplot2",
         "FlowSOM",
-        "ConsensusClusterPlus",
         "dplyr",
         "ggforce",
         "ggnewscale",
@@ -26587,7 +26576,6 @@
     "PDATK": [
         "SummarizedExperiment",
         "MultiAssayExperiment",
-        "ConsensusClusterPlus",
         "ggplotify",
         "CoreGx",
         "caret",
@@ -38638,7 +38626,6 @@
         "GenomicRanges",
         "DelayedArray",
         "ggplotify",
-        "ConsensusClusterPlus",
         "ggforce",
         "ggnewscale",
         "ggpubr",
