@@ -8266,7 +8266,6 @@
         "e1071",
         "ggplot2",
         "vioplot",
-        "CMplot",
         "imager",
         "topGO",
         "xlsx",
@@ -112183,7 +112182,6 @@
     "vioplot": [
         "zoo"
     ],
-    "CMplot": [],
     "imager": [
         "magrittr",
         "Rcpp",
