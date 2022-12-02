@@ -4115,9 +4115,7 @@
         "annotate",
         "babelgene"
     ],
-    "esetVis": [
-        "MLP"
-    ],
+    "esetVis": [],
     "eudysbiome": [],
     "evaluomeR": [
         "MultiAssayExperiment",
@@ -7688,7 +7686,6 @@
         "genefilter",
         "ggvis"
     ],
-    "MLP": [],
     "MLSeq": [
         "caret",
         "testthat",
