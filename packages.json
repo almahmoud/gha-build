@@ -33945,7 +33945,6 @@
         "DelayedArray"
     ],
     "rcellminer": [
-        "rcellminerData",
         "ggplot2",
         "shiny",
         "mgcv",
@@ -52598,7 +52597,6 @@
         "bslib",
         "sass"
     ],
-    "rcellminerData": [],
     "arrow": [
         "tidyselect",
         "vctrs"
