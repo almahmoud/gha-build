@@ -902,7 +902,6 @@
     ],
     "GEOexplorer": [
         "factoextra",
-        "shinyHeatmaply",
         "FactoMineR",
         "ggpubr",
         "car",
@@ -2582,7 +2581,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "shinyHeatmaply": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
     "glmmTMB": [
         "lme4"
