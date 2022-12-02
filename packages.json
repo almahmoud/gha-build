@@ -6656,10 +6656,8 @@
         "tibble"
     ],
     "DelayedDataFrame": [],
-    "DelayedRandomArray": [],
     "DelayedTensor": [
         "BiocSingular",
-        "DelayedRandomArray",
         "ScaledMatrix"
     ],
     "deltaCaptureC": [
