@@ -17630,9 +17630,7 @@
     "geNetClassifier": [
         "e1071"
     ],
-    "GeneticsPed": [
-        "genetics"
-    ],
+    "GeneticsPed": [],
     "GeneTonic": [
         "AnnotationDbi",
         "backbone",
@@ -55115,7 +55113,6 @@
         "pillar",
         "scales"
     ],
-    "genetics": [],
     "backbone": [
         "igraph"
     ],
