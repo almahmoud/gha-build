@@ -4583,7 +4583,6 @@
     "OpenStats": [
         "AICcmodavg",
         "car",
-        "summarytools",
         "unmarked",
         "pbkrtest",
         "lme4",
@@ -7608,7 +7607,6 @@
         "nloptr",
         "testthat"
     ],
-    "summarytools": [],
     "unmarked": [
         "lme4",
         "nloptr",
