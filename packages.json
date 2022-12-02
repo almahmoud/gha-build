@@ -2938,7 +2938,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "systemPipeShiny": [],
     "systemPipeTools": [
         "ggtree",
         "treeio"
