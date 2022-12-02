@@ -1836,9 +1836,7 @@
         "BiocFileCache",
         "scuttle"
     ],
-    "CytoML": [
-        "openCyto"
-    ],
+    "CytoML": [],
     "dada2": [
         "ShortRead"
     ],
@@ -5727,7 +5725,6 @@
         "BiocFileCache",
         "AnnotationHub"
     ],
-    "openCyto": [],
     "openPrimeR": [],
     "openPrimeRui": [
         "openPrimeR"
