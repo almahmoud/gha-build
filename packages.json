@@ -1818,9 +1818,7 @@
     "epiNEM": [
         "mnem"
     ],
-    "epistasisGA": [
-        "qgraph"
-    ],
+    "epistasisGA": [],
     "EpiTxDb": [
         "GenomicFeatures",
         "biomaRt"
@@ -6488,7 +6486,6 @@
         "ExperimentHub",
         "AnnotationHub"
     ],
-    "qgraph": [],
     "ewceData": [
         "ExperimentHub",
         "AnnotationHub"
