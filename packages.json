@@ -569,7 +569,6 @@
         "enrichplot",
         "ggtree"
     ],
-    "fastLiquidAssociation": [],
     "fCCAC": [],
     "fcoex": [
         "clusterProfiler",
