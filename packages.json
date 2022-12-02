@@ -1288,7 +1288,6 @@
         "ggtree",
         "treeio"
     ],
-    "escape": [],
     "EventPointer": [
         "SGSeq",
         "GenomicFeatures"
