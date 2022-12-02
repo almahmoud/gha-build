@@ -2193,7 +2193,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "peco": [],
     "periodicDNA": [],
     "PFP": [
         "clusterProfiler",
