@@ -12000,7 +12000,6 @@
         "DT",
         "edgeR",
         "GEOquery",
-        "metaMA",
         "miniUI",
         "oligo",
         "reader",
@@ -63643,7 +63642,6 @@
     "tfautograph": [
         "reticulate"
     ],
-    "metaMA": [],
     "reader": [],
     "shinypanel": [
         "shinyjs",
