@@ -1253,8 +1253,7 @@
         "scater",
         "spatstat",
         "caret",
-        "recipes",
-        "spatstat.linnet"
+        "recipes"
     ],
     "CONFESS": [
         "contrast",
@@ -7612,13 +7611,9 @@
     "Ecume": [
         "spatstat",
         "caret",
-        "recipes",
-        "spatstat.linnet"
+        "recipes"
     ],
-    "spatstat": [
-        "spatstat.linnet"
-    ],
-    "spatstat.linnet": [],
+    "spatstat": [],
     "contrast": [
         "rms"
     ],
