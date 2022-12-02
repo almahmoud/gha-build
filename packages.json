@@ -7161,7 +7161,6 @@
         "testthat",
         "waldo"
     ],
-    "OmicsLonDA": [],
     "OMICsPCA": [
         "OMICsPCAdata",
         "HelloRanges",
