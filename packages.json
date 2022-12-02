@@ -1654,7 +1654,6 @@
     ],
     "DEsubs": [
         "EBSeq",
-        "NBPSeq",
         "DESeq2",
         "testthat"
     ],
@@ -3621,7 +3620,6 @@
         "EDASeq",
         "GenomicFeatures",
         "heatmaply",
-        "NBPSeq",
         "survcomp",
         "bsseq",
         "plotly",
@@ -5610,9 +5608,7 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "RNAsense": [
-        "NBPSeq"
-    ],
+    "RNAsense": [],
     "RNASeqR": [
         "ballgown",
         "FactoMineR",
@@ -7498,7 +7494,6 @@
         "broom",
         "testthat"
     ],
-    "NBPSeq": [],
     "easierData": [
         "ExperimentHub",
         "AnnotationHub"
