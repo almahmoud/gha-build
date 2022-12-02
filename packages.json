@@ -2672,7 +2672,6 @@
     "PloGO2": [
         "GOstats"
     ],
-    "plotgardener": [],
     "plotGrouper": [
         "ggpubr",
         "rstatix",
@@ -3714,8 +3713,7 @@
     ],
     "Ularcirc": [
         "GenomicFeatures",
-        "Organism.dplyr",
-        "plotgardener"
+        "Organism.dplyr"
     ],
     "UMI4Cats": [
         "regioneR",
