@@ -57,7 +57,6 @@
     "flowCL": [
         "SPARQL"
     ],
-    "FuseSOM": [],
     "GARS": [],
     "GDCRNATools": [
         "survminer"
