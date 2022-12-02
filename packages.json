@@ -5101,7 +5101,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "mirIntegrator": [],
     "miRLAB": [
         "TCGAbiolinks",
         "Category",
