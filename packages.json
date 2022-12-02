@@ -9441,9 +9441,7 @@
         "GenomeInfoDb",
         "XVector"
     ],
-    "ClusterSignificance": [
-        "princurve"
-    ],
+    "ClusterSignificance": [],
     "clusterStab": [],
     "clustifyr": [
         "cowplot",
@@ -10723,7 +10721,6 @@
         "transport",
         "GenomicRanges",
         "DelayedArray",
-        "princurve",
         "IRanges",
         "GenomeInfoDb",
         "pROC",
@@ -19779,7 +19776,6 @@
         "SummarizedExperiment",
         "vegan",
         "mgcv",
-        "princurve",
         "DataVisualizations",
         "scales",
         "tibble",
@@ -38635,9 +38631,7 @@
     "Path2PPI": [
         "igraph"
     ],
-    "pathifier": [
-        "princurve"
-    ],
+    "pathifier": [],
     "PathoStat": [
         "reshape2",
         "scales",
@@ -51312,7 +51306,6 @@
         "memoise"
     ],
     "slingshot": [
-        "princurve",
         "TrajectoryUtils",
         "igraph",
         "SingleCellExperiment",
@@ -56213,7 +56206,6 @@
         "BiocParallel",
         "igraph",
         "ggplot2",
-        "princurve",
         "tibble",
         "TrajectoryUtils",
         "viridis",
@@ -56486,7 +56478,6 @@
         "mgcv",
         "SingleCellExperiment",
         "slingshot",
-        "princurve",
         "SummarizedExperiment",
         "rgl",
         "scales",
@@ -63226,7 +63217,6 @@
         "vctrs",
         "pillar"
     ],
-    "princurve": [],
     "biwt": [],
     "skmeans": [],
     "eulerr": [],
@@ -64429,8 +64419,7 @@
     ],
     "analogue": [
         "vegan",
-        "mgcv",
-        "princurve"
+        "mgcv"
     ],
     "DataVisualizations": [
         "ggplot2",
