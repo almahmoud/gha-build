@@ -639,7 +639,6 @@
         "qpgraph",
         "GenomicFeatures"
     ],
-    "cliProfiler": [],
     "cliqueMS": [],
     "CluMSID": [],
     "clusterExperiment": [
