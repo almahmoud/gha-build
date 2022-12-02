@@ -6966,7 +6966,6 @@
         "tidyr"
     ],
     "netZooR": [
-        "pandaR",
         "yarn",
         "STRINGdb",
         "GOstats",
@@ -7380,7 +7379,6 @@
         "testthat",
         "waldo"
     ],
-    "pandaR": [],
     "panelcn.mops": [
         "cn.mops"
     ],
