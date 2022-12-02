@@ -1113,7 +1113,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
-    "baySeq": [],
     "BBCAnalyzer": [
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -3300,9 +3299,7 @@
         "tidytree",
         "treeio"
     ],
-    "clusterSeq": [
-        "baySeq"
-    ],
+    "clusterSeq": [],
     "clustifyr": [
         "cowplot",
         "dplyr",
@@ -10854,7 +10851,6 @@
     ],
     "metaseqR2": [
         "DESeq2",
-        "baySeq",
         "biomaRt",
         "DSS",
         "EDASeq",
@@ -15604,7 +15600,6 @@
     ],
     "Rcade": [
         "Rsamtools",
-        "baySeq",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
@@ -16277,8 +16272,7 @@
         "tidyr"
     ],
     "riboSeqR": [
-        "Rsamtools",
-        "baySeq"
+        "Rsamtools"
     ],
     "ribosomeProfilingQC": [
         "AnnotationDbi",
@@ -17875,7 +17869,6 @@
         "cowplot"
     ],
     "segmentSeq": [
-        "baySeq",
         "ShortRead",
         "Rsamtools",
         "GenomicAlignments",
@@ -19135,7 +19128,6 @@
         "rtracklayer",
         "SummarizedExperiment",
         "DESeq2",
-        "baySeq",
         "Rsamtools",
         "GenomicFeatures",
         "GenomicAlignments",
@@ -19767,7 +19759,6 @@
     ],
     "TCC": [
         "DESeq2",
-        "baySeq",
         "SummarizedExperiment",
         "geneplotter",
         "ggplot2",
