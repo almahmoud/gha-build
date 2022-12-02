@@ -371,7 +371,6 @@
     ],
     "BOBaFIT": [
         "ggbio",
-        "plyranges",
         "biovizBase",
         "VariantAnnotation",
         "GenomicFeatures",
@@ -416,8 +415,7 @@
     ],
     "BUSpaRse": [
         "ensembldb",
-        "GenomicFeatures",
-        "plyranges"
+        "GenomicFeatures"
     ],
     "CAFE": [
         "biovizBase",
@@ -552,9 +550,7 @@
     "CexoR": [
         "genomation"
     ],
-    "cfDNAPro": [
-        "plyranges"
-    ],
+    "cfDNAPro": [],
     "cghMCR": [],
     "ChAMP": [
         "minfi",
@@ -980,7 +976,6 @@
         "GenomicFeatures",
         "ggpubr",
         "megadepth",
-        "plyranges",
         "rstatix",
         "cmdfun",
         "car",
@@ -1978,7 +1973,6 @@
     "InPAS": [
         "cleanUpdTSeq",
         "GenomicFeatures",
-        "plyranges",
         "BSgenome.Drerio.UCSC.danRer7"
     ],
     "INSPEcT": [
@@ -2096,7 +2090,6 @@
         "VariantAnnotation",
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
-        "plyranges",
         "GenomicFeatures"
     ],
     "kissDE": [
@@ -2411,7 +2404,6 @@
         "FlowSorted.Blood.450k",
         "minfi",
         "bsseq",
-        "plyranges",
         "bumphunter",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -2777,7 +2769,6 @@
         "CRISPRseek",
         "GenomicFeatures",
         "karyoploteR",
-        "plyranges",
         "regioneR",
         "biovizBase",
         "VariantAnnotation",
@@ -2880,7 +2871,6 @@
     ],
     "ncGTW": [],
     "nearBynding": [
-        "plyranges",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "GenomicFeatures"
@@ -2944,9 +2934,7 @@
     ],
     "normr": [],
     "NPARC": [],
-    "nullranges": [
-        "plyranges"
-    ],
+    "nullranges": [],
     "NxtIRFcore": [
         "NxtIRFdata",
         "ExperimentHub"
@@ -2964,7 +2952,6 @@
         "ggpubr",
         "megadepth",
         "GenomicFeatures",
-        "plyranges",
         "bumphunter",
         "GenomicFiles",
         "rstatix",
@@ -3202,9 +3189,7 @@
     "PloGO2": [
         "GOstats"
     ],
-    "plotgardener": [
-        "plyranges"
-    ],
+    "plotgardener": [],
     "plotGrouper": [
         "ggpubr",
         "rstatix",
@@ -3213,7 +3198,6 @@
         "lme4",
         "nloptr"
     ],
-    "plyranges": [],
     "pmm": [
         "lme4",
         "nloptr"
@@ -4464,8 +4448,7 @@
     "Ularcirc": [
         "GenomicFeatures",
         "Organism.dplyr",
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "UMI4Cats": [
         "regioneR",
