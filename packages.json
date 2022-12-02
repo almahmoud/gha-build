@@ -16,9 +16,7 @@
         "plotly",
         "tidyr"
     ],
-    "ACE": [
-        "QDNAseq"
-    ],
+    "ACE": [],
     "ADaCGH2": [
         "tilingArray",
         "snapCGH",
@@ -938,7 +936,6 @@
         "Mus.musculus",
         "Homo.sapiens",
         "rtracklayer",
-        "QDNAseq",
         "dmrseq",
         "ExperimentHub",
         "AnnotationHub",
@@ -4167,9 +4164,7 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "GeneBreak": [
-        "QDNAseq"
-    ],
+    "GeneBreak": [],
     "genefilter": [
         "annotate"
     ],
@@ -4864,8 +4859,7 @@
         "readr"
     ],
     "HiCcompare": [
-        "InteractionSet",
-        "QDNAseq"
+        "InteractionSet"
     ],
     "HiCDCPlus": [
         "InteractionSet",
@@ -4893,7 +4887,6 @@
         "ggsignif",
         "rstatix",
         "HiCcompare",
-        "QDNAseq",
         "broom",
         "car",
         "pbkrtest",
@@ -7149,8 +7142,7 @@
     ],
     "multiHiCcompare": [
         "HiCcompare",
-        "InteractionSet",
-        "QDNAseq"
+        "InteractionSet"
     ],
     "multiSight": [
         "anyLib",
@@ -8674,7 +8666,6 @@
         "AnnotationHub",
         "BiocFileCache"
     ],
-    "QDNAseq": [],
     "QFeatures": [
         "MultiAssayExperiment",
         "plotly",
@@ -10642,8 +10633,7 @@
     ],
     "SpectralTAD": [
         "HiCcompare",
-        "InteractionSet",
-        "QDNAseq"
+        "InteractionSet"
     ],
     "SPIAT": [
         "SpatialExperiment",
@@ -11071,7 +11061,6 @@
         "ggsignif",
         "rstatix",
         "InteractionSet",
-        "QDNAseq",
         "broom",
         "car",
         "pbkrtest",
