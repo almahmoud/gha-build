@@ -18368,7 +18368,6 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "RLassoCox": [],
     "RLSeq": [
         "dplyr",
         "ggplot2",
