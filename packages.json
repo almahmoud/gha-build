@@ -4424,7 +4424,6 @@
         "genefu",
         "survcomp",
         "biomaRt",
-        "iC10",
         "SummarizedExperiment",
         "GSEABase",
         "SingleCellExperiment",
@@ -8564,7 +8563,6 @@
     "genefu": [
         "survcomp",
         "biomaRt",
-        "iC10",
         "AnnotationDbi",
         "progress",
         "BiocFileCache",
@@ -16355,7 +16353,6 @@
         "bench",
         "tibble",
         "biomaRt",
-        "iC10",
         "tidyr",
         "fgsea",
         "shiny",
@@ -21112,7 +21109,6 @@
         "ggtext",
         "survcomp",
         "biomaRt",
-        "iC10",
         "ggrepel",
         "ggsci",
         "cowplot",
@@ -26300,7 +26296,6 @@
         "dplyr",
         "tibble"
     ],
-    "iC10": [],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "minfi",
         "SummarizedExperiment",
