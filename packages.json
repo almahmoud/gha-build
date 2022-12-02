@@ -2624,7 +2624,6 @@
     "simpleSeg": [
         "cytomapper"
     ],
-    "simplifyEnrichment": [],
     "singleCellTK": [
         "celldex",
         "ensembldb",
