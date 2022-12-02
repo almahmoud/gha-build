@@ -242,7 +242,6 @@
     "methylGSA": [
         "missMethyl"
     ],
-    "microbiomeMarker": [],
     "MineICA": [],
     "miRSM": [
         "miRspongeR",
