@@ -1295,7 +1295,6 @@
         "treeio"
     ],
     "escape": [],
-    "evaluomeR": [],
     "EventPointer": [
         "SGSeq",
         "GenomicFeatures"
