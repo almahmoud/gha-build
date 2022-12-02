@@ -259,7 +259,6 @@
     ],
     "ADImpute": [
         "BiocParallel",
-        "DrImpute",
         "rsvd",
         "SAVER",
         "SingleCellExperiment",
@@ -22118,7 +22117,6 @@
         "pheatmap",
         "AdaptGauss",
         "DEsingle",
-        "DrImpute",
         "Seurat",
         "SingleCellExperiment",
         "clusterProfiler",
@@ -50877,7 +50875,6 @@
         "vctrs"
     ],
     "xts": [],
-    "DrImpute": [],
     "rsvd": [],
     "SAVER": [
         "glmnet",
