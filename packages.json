@@ -1324,9 +1324,7 @@
         "biovizBase"
     ],
     "R453Plus1Toolbox": [],
-    "RareVariantVis": [
-        "phastCons100way.UCSC.hg19"
-    ],
+    "RareVariantVis": [],
     "rCGH": [],
     "ReactomePA": [
         "enrichplot"
@@ -1880,7 +1878,6 @@
     ],
     "unmarked": [],
     "EnsDb.Rnorvegicus.v79": [],
-    "phastCons100way.UCSC.hg19": [],
     "Rmagic": [],
     "survivalAnalysis": [
         "survminer",
