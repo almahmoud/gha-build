@@ -1906,7 +1906,6 @@
         "lme4",
         "lmerTest"
     ],
-    "mbOmic": [],
     "mBPCR": [
         "GWASTools",
         "logistf"
