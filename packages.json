@@ -9239,7 +9239,6 @@
         "ggplotify",
         "tibble",
         "tidyr",
-        "sf",
         "flextable"
     ],
     "graper": [
@@ -10137,7 +10136,6 @@
         "ggraph",
         "tidygraph",
         "ggplot2",
-        "sf",
         "concaveman",
         "ggbeeswarm",
         "shiny",
@@ -11050,7 +11048,6 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "SummarizedExperiment",
-        "sf",
         "tibble",
         "DropletUtils",
         "BiocFileCache",
@@ -19400,7 +19397,6 @@
         "dplyr",
         "ggforce",
         "concaveman",
-        "sf",
         "tibble",
         "cowplot",
         "ggrepel",
@@ -19732,7 +19728,6 @@
         "ggforce",
         "concaveman",
         "dbplyr",
-        "sf",
         "aplot",
         "ggnewscale",
         "scatterpie",
@@ -19775,7 +19770,6 @@
         "concaveman",
         "RSQLite",
         "KEGGREST",
-        "sf",
         "viridis",
         "cowplot",
         "ggrepel",
@@ -20907,7 +20901,6 @@
         "tibble"
     ],
     "SpatialFeatureExperiment": [
-        "sf",
         "SingleCellExperiment",
         "SpatialExperiment",
         "spdep",
@@ -21040,7 +21033,6 @@
         "SpatialExperiment",
         "SummarizedExperiment",
         "ggforce",
-        "sf",
         "tibble",
         "nloptr",
         "DropletUtils",
@@ -21465,7 +21457,6 @@
         "SingleCellExperiment",
         "tibble",
         "ggplot2",
-        "sf",
         "SummarizedExperiment",
         "broom",
         "dbplyr",
@@ -21513,7 +21504,6 @@
         "SingleCellExperiment",
         "DropletUtils",
         "BiocFileCache",
-        "sf",
         "dbplyr",
         "RSQLite",
         "scuttle",
@@ -21766,7 +21756,6 @@
         "tibble",
         "car",
         "multcomp",
-        "sf",
         "sftime",
         "stars",
         "broom",
@@ -23394,7 +23383,6 @@
         "ggnewscale",
         "ggplot2",
         "patchwork",
-        "sf",
         "SingleCellExperiment",
         "SpatialExperiment",
         "SpatialFeatureExperiment",
@@ -25751,10 +25739,8 @@
         "ggplot2"
     ],
     "epiR": [
-        "sf",
         "flextable"
     ],
-    "sf": [],
     "ggwordcloud": [
         "ggplot2",
         "tibble"
@@ -25802,7 +25788,6 @@
         "tibble"
     ],
     "concaveman": [
-        "sf",
         "dplyr",
         "tibble"
     ],
@@ -26761,9 +26746,7 @@
         "KEGGREST"
     ],
     "sampSurf": [],
-    "spdep": [
-        "sf"
-    ],
+    "spdep": [],
     "alphahull": [
         "ggplot2",
         "tibble"
@@ -26832,7 +26815,6 @@
         "tidyr"
     ],
     "gstat": [
-        "sf",
         "sftime",
         "stars",
         "lwgeom"
@@ -26843,16 +26825,11 @@
         "ggplot2",
         "tibble"
     ],
-    "sftime": [
-        "sf"
-    ],
+    "sftime": [],
     "stars": [
-        "sf",
         "lwgeom"
     ],
-    "lwgeom": [
-        "sf"
-    ],
+    "lwgeom": [],
     "spsComps": [
         "shiny",
         "shinytoastr",
