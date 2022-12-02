@@ -54681,7 +54681,6 @@
     "pathVar": [
         "ggplot2",
         "gridExtra",
-        "Matching",
         "lifecycle",
         "mgcv",
         "scales",
@@ -94149,7 +94148,6 @@
         "vctrs"
     ],
     "matrixLaplacian": [],
-    "Matching": [],
     "reportROC": [
         "pROC",
         "vcd",
