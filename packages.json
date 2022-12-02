@@ -13125,7 +13125,6 @@
         "Biobase",
         "graph",
         "affy",
-        "binom",
         "limma",
         "sva",
         "vsn",
@@ -15684,7 +15683,6 @@
     ],
     "cancerclass": [
         "Biobase",
-        "binom",
         "BiocGenerics"
     ],
     "CancerInSilico": [
@@ -115913,7 +115911,6 @@
         "rJava",
         "Biostrings",
         "IRanges",
-        "binom",
         "BiocGenerics",
         "S4Vectors",
         "XVector",
@@ -153855,7 +153852,6 @@
         "class",
         "MASS"
     ],
-    "binom": [],
     "BoolNet": [
         "igraph",
         "XML",
