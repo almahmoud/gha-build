@@ -3201,7 +3201,6 @@
     "scDataviz": [
         "Seurat"
     ],
-    "scDblFinder": [],
     "scDD": [
         "arm",
         "lme4"
@@ -3378,7 +3377,6 @@
         "celda",
         "scRNAseq",
         "TENxPBMCData",
-        "scDblFinder",
         "GenomicFeatures",
         "treeio"
     ],
