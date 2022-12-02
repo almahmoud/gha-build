@@ -840,9 +840,7 @@
         "VariantAnnotation",
         "viridis"
     ],
-    "bioassayR": [
-        "ChemmineR"
-    ],
+    "bioassayR": [],
     "biobroom": [
         "broom",
         "tidyr"
@@ -1806,7 +1804,6 @@
         "VariantAnnotation",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "ChemmineR": [],
     "CHETAH": [
         "SingleCellExperiment",
         "plotly",
@@ -2401,9 +2398,7 @@
         "VariantAnnotation",
         "viridis"
     ],
-    "CompoundDb": [
-        "ChemmineR"
-    ],
+    "CompoundDb": [],
     "ComPrAn": [
         "tidyr",
         "rio",
@@ -2816,7 +2811,6 @@
     ],
     "customCMPdb": [
         "AnnotationHub",
-        "ChemmineR",
         "BiocFileCache"
     ],
     "customProDB": [
@@ -3774,9 +3768,7 @@
         "hgu133a.db",
         "tidyr"
     ],
-    "eiR": [
-        "ChemmineR"
-    ],
+    "eiR": [],
     "eisaR": [],
     "ELMER": [
         "ELMER.data",
@@ -4660,9 +4652,7 @@
         "hdrcde"
     ],
     "flowWorkspace": [],
-    "fmcsR": [
-        "ChemmineR"
-    ],
+    "fmcsR": [],
     "fobitools": [
         "fgsea",
         "ggraph",
@@ -7044,7 +7034,6 @@
     "MetaboAnnotation": [
         "QFeatures",
         "CompoundDb",
-        "ChemmineR",
         "MultiAssayExperiment",
         "plotly",
         "tidyr"
@@ -7435,7 +7424,6 @@
     ],
     "MetID": [
         "devtools",
-        "ChemmineR",
         "testthat",
         "waldo"
     ],
@@ -10876,7 +10864,6 @@
     "RMassBank": [
         "MSnbase",
         "webchem",
-        "ChemmineR",
         "vsn"
     ],
     "Rmmquant": [
