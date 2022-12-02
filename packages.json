@@ -2939,7 +2939,6 @@
         "geneplotter",
         "annotate"
     ],
-    "deltaGseg": [],
     "DeMixT": [
         "DSS",
         "dendextend",
