@@ -1205,7 +1205,6 @@
         "GenomicAlignments"
     ],
     "BUSseq": [],
-    "CAEN": [],
     "CAFE": [
         "biovizBase",
         "ggbio",
