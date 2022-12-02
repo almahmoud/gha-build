@@ -10827,7 +10827,6 @@
         "GO.db",
         "AnnotationDbi",
         "matrixStats",
-        "sm",
         "zoo",
         "rJava",
         "xlsxjars",
@@ -16910,7 +16909,6 @@
         "stringr",
         "spBayes",
         "RcppArmadillo",
-        "sm",
         "zoo",
         "carData",
         "abind",
@@ -21624,9 +21622,7 @@
         "askpass",
         "utf8"
     ],
-    "clustComp": [
-        "sm"
-    ],
+    "clustComp": [],
     "clusterExperiment": [
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -24356,7 +24352,6 @@
         "rappdirs"
     ],
     "compcodeR": [
-        "sm",
         "knitr",
         "markdown",
         "ROCR",
@@ -25547,7 +25542,6 @@
         "matrixStats"
     ],
     "consICA": [
-        "sm",
         "org.Hs.eg.db",
         "GO.db",
         "SummarizedExperiment",
@@ -52843,7 +52837,6 @@
         "KEGGREST",
         "GenomeInfoDb",
         "XVector",
-        "sm",
         "zoo",
         "RCurl",
         "GenomeInfoDbData",
@@ -78345,7 +78338,6 @@
         "seqLogo",
         "TFMPvalue",
         "XML",
-        "sm",
         "zoo",
         "zlibbioc",
         "GenomicAlignments",
@@ -92967,7 +92959,6 @@
         "withr",
         "celestial",
         "plotrix",
-        "sm",
         "mapproj",
         "RANN",
         "GenomicRanges",
@@ -97761,7 +97752,6 @@
         "cachem",
         "ellipsis",
         "pillar",
-        "sm",
         "callr",
         "BiocGenerics",
         "backports",
@@ -100948,7 +100938,6 @@
         "celestial",
         "MASS",
         "plotrix",
-        "sm",
         "mapproj",
         "RANN",
         "plyr",
@@ -138596,7 +138585,6 @@
         "rjson",
         "celestial",
         "plotrix",
-        "sm",
         "mapproj",
         "RANN",
         "Matrix",
@@ -146769,7 +146757,6 @@
         "lattice"
     ],
     "vioplot": [
-        "sm",
         "zoo",
         "lattice"
     ],
@@ -146812,7 +146799,6 @@
         "MASS",
         "lattice"
     ],
-    "sm": [],
     "xlsxjars": [
         "rJava"
     ],
@@ -159666,7 +159652,6 @@
         "celestial",
         "MASS",
         "plotrix",
-        "sm",
         "mapproj",
         "RANN",
         "pracma"
