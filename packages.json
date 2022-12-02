@@ -57463,7 +57463,6 @@
     "skewr": [
         "methylumi",
         "wateRmelon",
-        "mixsmsn",
         "IlluminaHumanMethylation450kmanifest",
         "minfi",
         "scales",
@@ -76067,7 +76066,6 @@
         "RCurl",
         "lifecycle"
     ],
-    "mixsmsn": [],
     "RcppAlgos": [],
     "sampSurf": [],
     "spdep": [
