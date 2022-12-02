@@ -13933,7 +13933,6 @@
         "minfi",
         "ChAMPdata",
         "DMRcate",
-        "Illumina450ProbeVariants.db",
         "IlluminaHumanMethylationEPICmanifest",
         "DT",
         "RPMM",
@@ -113510,7 +113509,6 @@
         "RCurl",
         "GenomeInfoDbData"
     ],
-    "Illumina450ProbeVariants.db": [],
     "IlluminaHumanMethylationEPICmanifest": [
         "minfi",
         "GenomicRanges",
