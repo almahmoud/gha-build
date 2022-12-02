@@ -40141,7 +40141,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "this.path",
         "hms",
         "vroom",
         "tzdb",
@@ -97209,10 +97208,7 @@
         "jquerylib",
         "memoise"
     ],
-    "logr": [
-        "this.path"
-    ],
-    "this.path": [],
+    "logr": [],
     "learnr": [
         "checkmate",
         "ellipsis",
