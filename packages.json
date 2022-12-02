@@ -8312,7 +8312,6 @@
         "vctrs",
         "knitr",
         "interp",
-        "magic",
         "RcppEigen",
         "highr",
         "nloptr",
@@ -14182,7 +14181,6 @@
         "ncdfFlow",
         "DelayedArray",
         "ellipsis",
-        "magic",
         "hms",
         "GEOmap",
         "splancs",
@@ -15118,7 +15116,6 @@
         "quantmod",
         "dplyr",
         "readr",
-        "magic",
         "doParallel",
         "ggplot2",
         "reshape2",
@@ -42099,7 +42096,6 @@
         "survival",
         "RcppEigen",
         "geometry",
-        "magic",
         "questionr",
         "doParallel",
         "reshape2",
@@ -70965,8 +70961,7 @@
     "mvoutlier": [],
     "FME": [],
     "SpatialTools": [
-        "spBayes",
-        "magic"
+        "spBayes"
     ],
     "FactoMineR": [
         "car",
@@ -71006,10 +71001,7 @@
         "waldo",
         "rematch2"
     ],
-    "spBayes": [
-        "magic"
-    ],
-    "magic": [],
+    "spBayes": [],
     "EnvStats": [
         "ggplot2",
         "lifecycle",
@@ -72442,7 +72434,6 @@
         "geometry",
         "reshape2",
         "RcppEigen",
-        "magic",
         "lifecycle",
         "mgcv",
         "scales",
@@ -72466,9 +72457,7 @@
         "vctrs",
         "pillar"
     ],
-    "geometry": [
-        "magic"
-    ],
+    "geometry": [],
     "GEOmap": [
         "splancs",
         "fields",
@@ -75432,8 +75421,7 @@
         "RCurl"
     ],
     "pdfCluster": [
-        "geometry",
-        "magic"
+        "geometry"
     ],
     "diceR": [
         "clValid",
