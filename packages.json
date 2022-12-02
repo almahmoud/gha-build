@@ -577,7 +577,6 @@
     "ggbio": [],
     "ggmsa": [],
     "ggtreeDendro": [],
-    "ggtreeExtra": [],
     "glmSparseNet": [
         "survminer",
         "ggpubr",
@@ -841,9 +840,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MicrobiotaProcess": [
-        "ggtreeExtra"
-    ],
+    "MicrobiotaProcess": [],
     "MineICA": [
         "lumi",
         "methylumi",
