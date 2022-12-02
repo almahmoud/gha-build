@@ -339,9 +339,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "lisaClust": [
-        "spicyR"
-    ],
+    "lisaClust": [],
     "LowMACA": [
         "cBioPortalData"
     ],
@@ -639,7 +637,6 @@
     "spatzie": [
         "GenomicInteractions"
     ],
-    "spicyR": [],
     "spikeLI": [],
     "SPLINTER": [],
     "SPONGE": [
