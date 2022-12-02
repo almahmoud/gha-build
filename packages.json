@@ -286,7 +286,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "customProDB": [],
     "cyanoFilter": [
         "flowDensity",
         "car",
