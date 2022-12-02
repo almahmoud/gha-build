@@ -360,7 +360,6 @@
         "treeio",
         "nloptr"
     ],
-    "BiocDockerManager": [],
     "biocGraph": [],
     "BiocOncoTK": [
         "GenomicFeatures",
