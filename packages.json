@@ -9526,7 +9526,6 @@
     "cellTree": [
         "topGO",
         "topicmodels",
-        "maptpx",
         "igraph",
         "gplots",
         "Matrix",
@@ -80347,7 +80346,6 @@
     "topicmodels": [
         "tm"
     ],
-    "maptpx": [],
     "tm": [],
     "ggpmisc": [
         "ggpp",
