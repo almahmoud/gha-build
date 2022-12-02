@@ -320,7 +320,6 @@
         "biomaRt"
     ],
     "BgeeDB": [],
-    "BicARE": [],
     "bigmelon": [
         "wateRmelon",
         "minfi",
@@ -3301,7 +3300,6 @@
     ],
     "miRSM": [
         "iBBiG",
-        "BicARE",
         "s4vd",
         "BiBitR",
         "rqubic",
