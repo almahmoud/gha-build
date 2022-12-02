@@ -30,8 +30,7 @@
     ],
     "BitSeq": [],
     "brainflowprobes": [
-        "derfinderPlot",
-        "GenomicState"
+        "derfinderPlot"
     ],
     "CancerInSilico": [],
     "CATALYST": [
@@ -508,7 +507,6 @@
     "rstatix": [],
     "mGSZ": [],
     "radiant.data": [],
-    "GenomicState": [],
     "GenomicTools": [],
     "spp": [],
     "propr": [],
