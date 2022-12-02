@@ -1699,7 +1699,6 @@
         "minfi",
         "FDb.InfiniumMethylation.hg19"
     ],
-    "Xeva": [],
     "YAPSA": [
         "SomaticSignatures",
         "ggbio",
