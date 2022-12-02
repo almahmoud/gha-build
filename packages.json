@@ -193,7 +193,6 @@
         "tidyr",
         "readxl",
         "MultiAssayExperiment",
-        "decontam",
         "scuttle",
         "scater",
         "testthat",
@@ -701,7 +700,6 @@
         "readxl",
         "annotate",
         "MultiAssayExperiment",
-        "decontam",
         "scuttle",
         "scater",
         "testthat",
@@ -2868,7 +2866,6 @@
         "GenomicAlignments"
     ],
     "DeconRNASeq": [],
-    "decontam": [],
     "deconvR": [
         "methylKit",
         "rsq",
@@ -6918,7 +6915,6 @@
     "mia": [
         "TreeSummarizedExperiment",
         "MultiAssayExperiment",
-        "decontam",
         "scuttle",
         "scater",
         "tidyr",
@@ -6947,7 +6943,6 @@
         "ggfun",
         "treeio",
         "MultiAssayExperiment",
-        "decontam",
         "scuttle",
         "ggrastr",
         "ggplotify",
@@ -7006,7 +7001,6 @@
         "readxl",
         "annotate",
         "MultiAssayExperiment",
-        "decontam",
         "scuttle",
         "scater",
         "testthat",
