@@ -111417,7 +111417,6 @@
         "plogr",
         "stringi"
     ],
-    "SCBN": [],
     "scBubbletree": [
         "reshape2",
         "future",
@@ -128511,7 +128510,6 @@
         "biomaRt",
         "DESeq2",
         "Rcpp",
-        "SCBN",
         "SummarizedExperiment",
         "emdbook",
         "GenomicRanges",
