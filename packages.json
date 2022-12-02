@@ -7437,7 +7437,6 @@
     "SeqSQC": [
         "ExperimentHub",
         "GGally",
-        "rbokeh",
         "AnnotationHub",
         "BiocFileCache"
     ],
@@ -9647,7 +9646,6 @@
         "ggraph",
         "tidygraph"
     ],
-    "rbokeh": [],
     "survivalAnalysis": [
         "survminer",
         "tidytidbits",
