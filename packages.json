@@ -18907,7 +18907,6 @@
     "phantasus": [
         "ggplot2",
         "GEOquery",
-        "opencpu",
         "fgsea",
         "AnnotationDbi",
         "DESeq2",
@@ -31453,7 +31452,6 @@
     ],
     "R.filesets": [],
     "aroma.apd": [],
-    "opencpu": [],
     "osfr": [
         "tibble"
     ],
