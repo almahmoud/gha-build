@@ -12560,7 +12560,6 @@
         "tidyr"
     ],
     "tidySingleCellExperiment": [
-        "ttservice",
         "tidyr",
         "plotly"
     ],
@@ -14752,7 +14751,6 @@
     "spsComps": [],
     "drawer": [],
     "GenKern": [],
-    "ttservice": [],
     "gghighlight": [],
     "bestNormalize": [
         "LambertW",
