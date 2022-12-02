@@ -22976,7 +22976,6 @@
         "shinyjs",
         "plotly",
         "DT",
-        "excelR",
         "shinycssloaders",
         "ggdendro",
         "shinyWidgets",
@@ -32230,7 +32229,6 @@
         "shiny",
         "tibble"
     ],
-    "excelR": [],
     "SBGNview.data": [
         "rmarkdown",
         "bookdown"
