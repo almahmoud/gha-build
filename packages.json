@@ -105,13 +105,10 @@
         "rstatix"
     ],
     "cbaf": [
-        "cBioPortalData",
-        "RTCGAToolbox"
+        "cBioPortalData"
     ],
     "CBEA": [],
-    "cBioPortalData": [
-        "RTCGAToolbox"
-    ],
+    "cBioPortalData": [],
     "cellmigRation": [
         "FactoMineR",
         "car"
@@ -575,8 +572,7 @@
         "spicyR"
     ],
     "LowMACA": [
-        "cBioPortalData",
-        "RTCGAToolbox"
+        "cBioPortalData"
     ],
     "lumi": [
         "methylumi"
@@ -1026,7 +1022,6 @@
         "rstatix",
         "car"
     ],
-    "RTCGAToolbox": [],
     "RTN": [
         "car"
     ],
