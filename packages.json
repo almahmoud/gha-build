@@ -38617,7 +38617,6 @@
     "phantasus": [
         "ggplot2",
         "GEOquery",
-        "Rook",
         "httpuv",
         "opencpu",
         "httr",
@@ -47157,7 +47156,6 @@
     ],
     "scde": [
         "mgcv",
-        "Rook",
         "edgeR",
         "quantreg",
         "extRemes",
@@ -65219,7 +65217,6 @@
     "genlasso": [
         "igraph"
     ],
-    "Rook": [],
     "opencpu": [
         "httpuv",
         "knitr",
