@@ -426,7 +426,6 @@
     "COCOA": [
         "MIRA"
     ],
-    "CODEX": [],
     "cogeqc": [
         "ggtree"
     ],
@@ -1229,9 +1228,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "bumphunter"
     ],
-    "iCNV": [
-        "CODEX"
-    ],
+    "iCNV": [],
     "ideal": [
         "pcaExplorer",
         "goseq",
