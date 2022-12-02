@@ -801,7 +801,6 @@
         "sva",
         "ggnetwork",
         "intergraph",
-        "sna",
         "genefilter",
         "Hmisc"
     ],
@@ -1055,7 +1054,6 @@
         "ensembldb",
         "biomaRt",
         "tidyr",
-        "sna",
         "genefilter",
         "BiocFileCache"
     ],
@@ -1243,7 +1241,6 @@
     "CEMiTool": [
         "WGCNA",
         "ggpmisc",
-        "sna",
         "clusterProfiler",
         "fgsea",
         "intergraph",
@@ -1302,7 +1299,6 @@
         "qvalue",
         "tidyr",
         "geneplotter",
-        "sna",
         "rstatix",
         "fgsea",
         "aplot",
@@ -1623,7 +1619,6 @@
     "CluMSID": [
         "GGally",
         "plotly",
-        "sna",
         "MSnbase",
         "tidyr"
     ],
@@ -2858,7 +2853,6 @@
         "waldo"
     ],
     "eegc": [
-        "sna",
         "DESeq2",
         "clusterProfiler",
         "DOSE",
@@ -3421,7 +3415,6 @@
         "FCBF",
         "intergraph",
         "clusterProfiler",
-        "sna",
         "DOSE",
         "enrichplot",
         "GOSemSim",
@@ -4054,7 +4047,6 @@
     ],
     "GGPA": [
         "GGally",
-        "sna",
         "tidyr"
     ],
     "ggspavis": [
@@ -7397,7 +7389,6 @@
         "ggnetwork",
         "readr",
         "recipes",
-        "sna",
         "ipred"
     ],
     "piano": [
@@ -9954,7 +9945,6 @@
         "ggnetwork",
         "intergraph",
         "testthat",
-        "sna",
         "waldo"
     ],
     "systemPipeR": [
@@ -11139,11 +11129,8 @@
         "AnnotationHub",
         "BiocFileCache"
     ],
-    "ggnetwork": [
-        "sna"
-    ],
+    "ggnetwork": [],
     "intergraph": [],
-    "sna": [],
     "superheat": [],
     "biscuiteerData": [
         "ExperimentHub",
