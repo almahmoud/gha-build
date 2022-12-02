@@ -2078,7 +2078,6 @@
         "shiny",
         "AnnotationDbi",
         "shinythemes",
-        "geNetClassifier",
         "org.Hs.eg.db",
         "org.Bt.eg.db",
         "DOSE",
@@ -3371,7 +3370,6 @@
     ],
     "canceR": [
         "GSEABase",
-        "geNetClassifier",
         "phenoTest",
         "annotate",
         "AnnotationDbi",
@@ -11277,7 +11275,6 @@
         "tibble",
         "tidyselect"
     ],
-    "geNetClassifier": [],
     "GeneTonic": [
         "AnnotationDbi",
         "bs4Dash",
