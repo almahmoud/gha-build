@@ -3387,7 +3387,6 @@
     ],
     "MAIT": [
         "CAMERA",
-        "plsgenomics",
         "agricolae",
         "xcms",
         "caret",
@@ -7503,7 +7502,6 @@
         "ExperimentHub",
         "AnnotationHub"
     ],
-    "plsgenomics": [],
     "agricolae": [
         "klaR",
         "questionr",
