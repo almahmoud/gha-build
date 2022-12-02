@@ -13266,7 +13266,6 @@
     "SpatialFeatureExperiment": [
         "SingleCellExperiment",
         "SpatialExperiment",
-        "spdep",
         "DropletUtils",
         "BiocFileCache",
         "dbplyr",
@@ -13633,7 +13632,6 @@
         "tidyr"
     ],
     "stJoincount": [
-        "spdep",
         "Seurat",
         "SpatialExperiment",
         "cowplot",
@@ -14793,7 +14791,6 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "SpatialFeatureExperiment",
-        "spdep",
         "DropletUtils",
         "BiocFileCache",
         "dbplyr",
@@ -16556,7 +16553,6 @@
         "org.Hs.eg.db"
     ],
     "sampSurf": [],
-    "spdep": [],
     "alphahull": [],
     "xROI": [
         "colourpicker"
