@@ -37105,8 +37105,7 @@
         "igraph"
     ],
     "RedisParam": [
-        "BiocParallel",
-        "redux"
+        "BiocParallel"
     ],
     "REDseq": [
         "BSgenome.Celegans.UCSC.ce2",
@@ -56742,7 +56741,6 @@
         "sass",
         "jquerylib"
     ],
-    "redux": [],
     "BSgenome.Celegans.UCSC.ce2": [
         "BSgenome",
         "GenomeInfoDb",
