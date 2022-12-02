@@ -1539,7 +1539,6 @@
     ],
     "celda": [
         "SingleCellExperiment",
-        "enrichR",
         "ggrepel",
         "scater",
         "scran",
@@ -12203,7 +12202,6 @@
         "SingleR",
         "SoupX",
         "sva",
-        "enrichR",
         "celda",
         "DropletUtils",
         "scds",
@@ -14588,7 +14586,6 @@
         "testthat",
         "waldo"
     ],
-    "enrichR": [],
     "multipanelfigure": [],
     "FactoMineR": [
         "car",
