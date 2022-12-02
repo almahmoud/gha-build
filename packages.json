@@ -3217,13 +3217,9 @@
     "msImpute": [
         "scran"
     ],
-    "msmsEDA": [],
-    "msmsTests": [
-        "msmsEDA"
-    ],
+    "msmsTests": [],
     "MSnID": [
-        "msmsTests",
-        "msmsEDA"
+        "msmsTests"
     ],
     "MSPrep": [
         "sva",
