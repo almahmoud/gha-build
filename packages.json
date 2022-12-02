@@ -1015,7 +1015,6 @@
         "VariantAnnotation"
     ],
     "deconvR": [
-        "methylKit",
         "rsq",
         "lme4",
         "nloptr"
@@ -2377,12 +2376,9 @@
     "MetaVolcanoR": [],
     "MethCP": [
         "bsseq",
-        "DSS",
-        "methylKit"
+        "DSS"
     ],
-    "methInheritSim": [
-        "methylKit"
-    ],
+    "methInheritSim": [],
     "MethReg": [
         "ggpubr",
         "sesameData",
@@ -2447,10 +2443,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "treeio"
     ],
-    "methylInheritance": [
-        "methylKit"
-    ],
-    "methylKit": [],
+    "methylInheritance": [],
     "methylPipe": [
         "Gviz",
         "GenomicFeatures",
