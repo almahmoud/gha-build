@@ -25325,7 +25325,6 @@
         "BiocParallel",
         "DelayedArray"
     ],
-    "Path2PPI": [],
     "pathifier": [],
     "PathoStat": [
         "ggplot2",
