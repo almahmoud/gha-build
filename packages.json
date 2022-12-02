@@ -218,7 +218,6 @@
         "CytoGLMM",
         "diffcyt",
         "factoextra",
-        "mbest",
         "FlowSOM",
         "FactoMineR",
         "ggpubr",
@@ -227,7 +226,6 @@
     ],
     "CytoGLMM": [
         "factoextra",
-        "mbest",
         "FactoMineR",
         "ggpubr",
         "car",
@@ -1233,7 +1231,6 @@
         "rstatix"
     ],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [],
-    "mbest": [],
     "DAPARdata": [],
     "VIM": [
         "car"
