@@ -19261,7 +19261,6 @@
         "vctrs"
     ],
     "GOsummaries": [
-        "gProfileR",
         "ggplot2",
         "mgcv",
         "scales",
@@ -55127,7 +55126,6 @@
         "mgcv",
         "scales"
     ],
-    "gProfileR": [],
     "epiR": [
         "survival",
         "sf",
