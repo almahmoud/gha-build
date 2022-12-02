@@ -713,14 +713,12 @@
     "Maaslin2": [
         "car",
         "lmerTest",
-        "glmmTMB",
         "pbkrtest"
     ],
     "Macarron": [
         "Maaslin2",
         "car",
         "lmerTest",
-        "glmmTMB",
         "pbkrtest"
     ],
     "MADSEQ": [],
@@ -892,7 +890,6 @@
         "Maaslin2",
         "car",
         "lmerTest",
-        "glmmTMB",
         "pbkrtest"
     ],
     "MoonlightR": [
@@ -959,7 +956,6 @@
     "MungeSumstats": [],
     "muscat": [
         "blme",
-        "glmmTMB",
         "lmerTest",
         "variancePartition",
         "pbkrtest"
@@ -1602,7 +1598,6 @@
         "car",
         "pbkrtest"
     ],
-    "glmmTMB": [],
     "FlowSorted.Blood.450k": [],
     "methylclockData": [
         "ExperimentHubData"
