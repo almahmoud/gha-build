@@ -2635,7 +2635,6 @@
         "dplyr",
         "GO.db",
         "org.Hs.eg.db",
-        "rSpectral",
         "WGCNA",
         "ggplot2",
         "ggrepel",
@@ -34802,7 +34801,6 @@
         "Biostrings",
         "bslib"
     ],
-    "rSpectral": [],
     "WGCNA": [
         "Hmisc",
         "GO.db",
