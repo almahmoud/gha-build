@@ -789,7 +789,6 @@
         "rsq",
         "lme4"
     ],
-    "decoupleR": [],
     "DeepPINCS": [
         "ttgsea",
         "textstem",
@@ -915,7 +914,6 @@
         "easierData",
         "ggpubr",
         "rstatix",
-        "decoupleR",
         "car",
         "pbkrtest",
         "lme4"
@@ -2621,9 +2619,7 @@
         "ggtree",
         "treeio"
     ],
-    "progeny": [
-        "decoupleR"
-    ],
+    "progeny": [],
     "projectR": [],
     "pRolocGUI": [],
     "PROPS": [],
