@@ -14048,7 +14048,6 @@
         "graphite",
         "AnnotationDbi"
     ],
-    "powerTCR": [],
     "POWSC": [
         "SingleCellExperiment",
         "MAST",
@@ -16877,7 +16876,6 @@
         "ggplot2",
         "dplyr",
         "ggalluvial",
-        "powerTCR",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "ggraph",
