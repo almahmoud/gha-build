@@ -1709,7 +1709,6 @@
         "rstan",
         "StanHeaders",
         "ggplot2",
-        "pkgbuild",
         "tibble",
         "pillar"
     ],
@@ -1803,7 +1802,6 @@
         "DelayedMatrixStats",
         "HDF5Array",
         "beachmat",
-        "pkgbuild",
         "BiocSingular",
         "bluster",
         "GenomicRanges",
@@ -3440,7 +3438,6 @@
         "XVector",
         "usethis",
         "miniUI",
-        "pkgbuild",
         "pkgdown",
         "profvis",
         "rcmdcheck",
@@ -5886,7 +5883,6 @@
         "devtools",
         "usethis",
         "miniUI",
-        "pkgbuild",
         "pkgdown",
         "profvis",
         "rcmdcheck",
@@ -11868,7 +11864,6 @@
         "devtools",
         "usethis",
         "miniUI",
-        "pkgbuild",
         "pkgdown",
         "profvis",
         "rcmdcheck",
@@ -14751,7 +14746,6 @@
         "SummarizedExperiment",
         "StanHeaders",
         "ggplot2",
-        "pkgbuild",
         "GenomicRanges",
         "XVector",
         "tibble",
@@ -14947,7 +14941,6 @@
         "visNetwork",
         "usethis",
         "miniUI",
-        "pkgbuild",
         "pkgdown",
         "profvis",
         "rcmdcheck",
@@ -16410,7 +16403,6 @@
         "rstan",
         "StanHeaders",
         "tibble",
-        "pkgbuild",
         "pillar"
     ],
     "m6Aboost": [
@@ -18061,7 +18053,6 @@
         "planet",
         "usethis",
         "miniUI",
-        "pkgbuild",
         "pkgdown",
         "profvis",
         "rcmdcheck",
@@ -18376,7 +18367,6 @@
         "DT",
         "usethis",
         "miniUI",
-        "pkgbuild",
         "pkgdown",
         "profvis",
         "rcmdcheck",
@@ -20622,7 +20612,6 @@
         "ggplotify",
         "patchwork",
         "miniUI",
-        "pkgbuild",
         "pkgdown",
         "profvis",
         "rcmdcheck",
@@ -22424,7 +22413,6 @@
         "devtools",
         "usethis",
         "miniUI",
-        "pkgbuild",
         "pkgdown",
         "profvis",
         "rcmdcheck",
@@ -22904,7 +22892,6 @@
         "geneplotter",
         "usethis",
         "miniUI",
-        "pkgbuild",
         "pkgdown",
         "profvis",
         "rcmdcheck",
@@ -23941,7 +23928,6 @@
         "benchmarkmeData",
         "tidyselect",
         "pillar",
-        "pkgbuild",
         "ggdist",
         "posterior",
         "distributional"
@@ -26455,8 +26441,7 @@
         "rstan",
         "StanHeaders",
         "annotate",
-        "hms",
-        "pkgbuild"
+        "hms"
     ],
     "RiboProfiling": [
         "Biostrings",
@@ -26780,7 +26765,6 @@
         "ggplot2",
         "usethis",
         "miniUI",
-        "pkgbuild",
         "pkgdown",
         "profvis",
         "rcmdcheck",
@@ -28217,7 +28201,6 @@
         "pillar",
         "hms",
         "vroom",
-        "pkgbuild",
         "future.apply",
         "SummarizedExperiment",
         "GenomicRanges",
@@ -28499,8 +28482,7 @@
         "densEstBayes",
         "rstan",
         "StanHeaders",
-        "pillar",
-        "pkgbuild"
+        "pillar"
     ],
     "scMET": [
         "rstan",
@@ -28517,7 +28499,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "pkgbuild",
         "GenomicRanges",
         "XVector",
         "bslib"
@@ -30106,8 +30087,7 @@
         "densEstBayes",
         "quantreg",
         "rstan",
-        "StanHeaders",
-        "pkgbuild"
+        "StanHeaders"
     ],
     "SingleMoleculeFootprinting": [
         "Biostrings",
@@ -31277,7 +31257,6 @@
         "ggplot2",
         "usethis",
         "miniUI",
-        "pkgbuild",
         "pkgdown",
         "profvis",
         "rcmdcheck",
@@ -36019,12 +35998,10 @@
     "rstan": [
         "StanHeaders",
         "ggplot2",
-        "pkgbuild",
         "tibble",
         "pillar"
     ],
     "StanHeaders": [],
-    "pkgbuild": [],
     "prettydoc": [
         "rmarkdown",
         "bslib"
@@ -36560,7 +36537,6 @@
     "devtools": [
         "usethis",
         "miniUI",
-        "pkgbuild",
         "pkgdown",
         "profvis",
         "rcmdcheck",
@@ -36587,9 +36563,7 @@
         "pillar"
     ],
     "profvis": [],
-    "rcmdcheck": [
-        "pkgbuild"
-    ],
+    "rcmdcheck": [],
     "roxygen2": [],
     "downlit": [],
     "ggtext": [
@@ -38157,7 +38131,6 @@
         "rstan",
         "StanHeaders",
         "ggplot2",
-        "pkgbuild",
         "tibble",
         "pillar"
     ],
@@ -38165,7 +38138,6 @@
         "rstan",
         "StanHeaders",
         "ggplot2",
-        "pkgbuild",
         "tibble",
         "pillar"
     ],
@@ -38654,7 +38626,6 @@
         "devtools",
         "usethis",
         "miniUI",
-        "pkgbuild",
         "pkgdown",
         "profvis",
         "rcmdcheck",
