@@ -8035,7 +8035,6 @@
     ],
     "PrInCE": [
         "tidyr",
-        "forecast",
         "Hmisc",
         "MSnbase"
     ],
@@ -12514,7 +12513,6 @@
         "BiocFileCache",
         "AnnotationHub"
     ],
-    "forecast": [],
     "EnsDb.Mmusculus.v79": [
         "ensembldb",
         "GenomicFeatures",
