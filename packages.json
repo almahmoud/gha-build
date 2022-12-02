@@ -1223,7 +1223,6 @@
         "BiocFileCache",
         "GenomicAlignments"
     ],
-    "BUScorrect": [],
     "BUSpaRse": [
         "biomaRt",
         "BSgenome",
