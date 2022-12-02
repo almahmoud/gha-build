@@ -4372,7 +4372,6 @@
         "arm",
         "rtracklayer",
         "benchmarkme",
-        "fastDummies",
         "lme4",
         "benchmarkmeData",
         "dplyr",
@@ -19215,7 +19214,6 @@
         "qvalue",
         "ggplot2"
     ],
-    "fastDummies": [],
     "hgu133a2.db": [
         "org.Hs.eg.db"
     ],
