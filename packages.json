@@ -3371,7 +3371,6 @@
         "treeio",
         "MultiAssayExperiment"
     ],
-    "microbiomeDASim": [],
     "microbiomeExplorer": [
         "DESeq2",
         "heatmaply",
