@@ -4861,7 +4861,6 @@
         "ensembldb",
         "ggtree",
         "GSVA",
-        "GSVAdata",
         "scater",
         "scMerge",
         "scran",
@@ -6129,7 +6128,6 @@
     "celldex": [
         "ExperimentHub"
     ],
-    "GSVAdata": [],
     "SoupX": [
         "Seurat"
     ],
