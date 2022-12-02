@@ -972,9 +972,7 @@
     "fastLiquidAssociation": [
         "LiquidAssociation"
     ],
-    "fCCAC": [
-        "fda"
-    ],
+    "fCCAC": [],
     "fcoex": [
         "clusterProfiler",
         "enrichplot",
@@ -1029,12 +1027,9 @@
         "pbkrtest",
         "lme4"
     ],
-    "flowStats": [
-        "fda"
-    ],
+    "flowStats": [],
     "flowVS": [
-        "flowStats",
-        "fda"
+        "flowStats"
     ],
     "fobitools": [
         "textclean"
@@ -1048,12 +1043,8 @@
         "pbkrtest",
         "lme4"
     ],
-    "FRGEpistasis": [
-        "fda"
-    ],
-    "FunChIP": [
-        "fda"
-    ],
+    "FRGEpistasis": [],
+    "FunChIP": [],
     "funtooNorm": [
         "minfi",
         "IlluminaHumanMethylation450kmanifest",
@@ -1415,9 +1406,7 @@
         "pbkrtest",
         "lme4"
     ],
-    "IWTomics": [
-        "fda"
-    ],
+    "IWTomics": [],
     "karyoploteR": [
         "biovizBase",
         "VariantAnnotation",
@@ -2184,7 +2173,6 @@
     ],
     "PING": [
         "Gviz",
-        "fda",
         "ensembldb",
         "biovizBase",
         "VariantAnnotation"
@@ -3010,8 +2998,7 @@
         "Organism.dplyr"
     ],
     "UMI4Cats": [
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "fda"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "uncoverappLib": [
         "Gviz",
@@ -3264,7 +3251,6 @@
     "EntropyExplorer": [],
     "EpiMix.data": [],
     "ewceData": [],
-    "fda": [],
     "SPARQL": [],
     "NHPoisson": [
         "car",
