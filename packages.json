@@ -9261,7 +9261,6 @@
         "BiocFileCache",
         "GO.db"
     ],
-    "RIVER": [],
     "RJMCMCNucleosomes": [
         "consensusSeekeR",
         "rtracklayer"
