@@ -2669,7 +2669,6 @@
         "BSgenome.Hsapiens.UCSC.hg38"
     ],
     "ORFik": [
-        "biomartr",
         "GenomicFeatures"
     ],
     "Organism.dplyr": [
@@ -3105,8 +3104,7 @@
     ],
     "RiboCrypt": [
         "ORFik",
-        "GenomicFeatures",
-        "biomartr"
+        "GenomicFeatures"
     ],
     "RiboDiPA": [
         "GenomicFeatures"
@@ -3789,7 +3787,6 @@
     ],
     "TFHAZ": [
         "ORFik",
-        "biomartr",
         "GenomicFeatures"
     ],
     "tidySingleCellExperiment": [],
@@ -4327,7 +4324,6 @@
     "unmarked": [
         "lme4"
     ],
-    "biomartr": [],
     "tfprobability": [],
     "tidybayes": [],
     "phastCons100way.UCSC.hg38": [
