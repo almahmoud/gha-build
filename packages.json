@@ -2215,7 +2215,6 @@
     ],
     "famat": [
         "gprofiler2",
-        "rWikiPathways",
         "plotly",
         "clusterProfiler",
         "DOSE",
@@ -4241,7 +4240,6 @@
         "mixOmics",
         "DESeq2",
         "clusterProfiler",
-        "rWikiPathways",
         "ReactomePA",
         "enrichplot",
         "devtools",
@@ -4463,7 +4461,6 @@
         "testthat"
     ],
     "NoRCE": [
-        "rWikiPathways",
         "biomaRt",
         "GenomicFeatures"
     ],
@@ -5750,7 +5747,6 @@
         "gRain",
         "broom"
     ],
-    "rWikiPathways": [],
     "sampleClassifier": [
         "MGFR",
         "biomaRt"
@@ -6671,7 +6667,6 @@
         "MultiAssayExperiment",
         "biomaRt",
         "clusterProfiler",
-        "rWikiPathways",
         "DOSE",
         "enrichplot",
         "GOSemSim",
