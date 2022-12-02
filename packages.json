@@ -82,7 +82,6 @@
         "VariantAnnotation"
     ],
     "ATACCoGAPS": [
-        "tidyverse",
         "chromVAR",
         "rGREAT",
         "Homo.sapiens",
@@ -545,9 +544,7 @@
         "pbkrtest",
         "lme4"
     ],
-    "dce": [
-        "tidyverse"
-    ],
+    "dce": [],
     "ddPCRclust": [
         "flowDensity",
         "car",
@@ -1280,9 +1277,7 @@
         "depmap",
         "ggtree"
     ],
-    "MAI": [
-        "tidyverse"
-    ],
+    "MAI": [],
     "MAIT": [
         "agricolae",
         "klaR"
@@ -1403,7 +1398,6 @@
     ],
     "methylclock": [
         "methylclockData",
-        "tidyverse",
         "ggpubr",
         "minfi",
         "rstatix",
@@ -1503,7 +1497,6 @@
         "clusterProfiler",
         "ReactomePA",
         "enrichplot",
-        "tidyverse",
         "cvms",
         "ggpubr",
         "lme4",
@@ -1517,7 +1510,6 @@
         "clusterProfiler",
         "ReactomePA",
         "enrichplot",
-        "tidyverse",
         "cvms",
         "ggpubr",
         "lme4",
@@ -1594,7 +1586,6 @@
         "MSstatsPTM",
         "factoextra",
         "ggpubr",
-        "tidyverse",
         "FactoMineR",
         "rstatix",
         "lme4",
@@ -1683,9 +1674,7 @@
         "VariantAnnotation"
     ],
     "NanoMethViz": [],
-    "nanotatoR": [
-        "tidyverse"
-    ],
+    "nanotatoR": [],
     "NBSplice": [
         "car",
         "mppa",
@@ -2392,7 +2381,6 @@
         "VariantAnnotation"
     ],
     "SPONGE": [
-        "tidyverse",
         "cvms",
         "ggpubr",
         "lme4",
@@ -2423,9 +2411,7 @@
     "StarBioTrek": [
         "SpidermiR"
     ],
-    "Statial": [
-        "tidyverse"
-    ],
+    "Statial": [],
     "stJoincount": [],
     "strandCheckR": [
         "TxDb.Hsapiens.UCSC.hg38.knownGene"
@@ -2452,7 +2438,6 @@
     ],
     "synergyfinder": [
         "drc",
-        "tidyverse",
         "car",
         "pbkrtest",
         "lme4"
@@ -2711,7 +2696,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "mGSZ": [],
-    "tidyverse": [],
     "Mus.musculus": [
         "TxDb.Mmusculus.UCSC.mm10.knownGene"
     ],
