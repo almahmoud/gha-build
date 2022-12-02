@@ -4262,7 +4262,6 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "rmspc": [],
     "RNAAgeCalc": [
         "recount",
         "derfinder",
