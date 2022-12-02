@@ -37,9 +37,7 @@
         "derfinderPlot",
         "GenomicState"
     ],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "CancerInSilico": [],
     "CATALYST": [
         "drc",
@@ -179,9 +177,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "extraChIPs": [
-        "GenomicInteractions"
-    ],
+    "extraChIPs": [],
     "famat": [],
     "ffpe": [
         "lumi"
@@ -223,7 +219,6 @@
     "GeneGeneInteR": [
         "FactoMineR"
     ],
-    "GenomicInteractions": [],
     "GenomicSuperSignature": [
         "ggpubr",
         "rstatix"
@@ -248,16 +243,12 @@
     "GRmetrics": [
         "drc"
     ],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
     "HiCDOC": [
         "ggpubr",
         "rstatix"
     ],
-    "HiContacts": [
-        "GenomicInteractions"
-    ],
+    "HiContacts": [],
     "HTSeqGenie": [],
     "iCheck": [
         "lumi"
@@ -572,9 +563,7 @@
     "SomaticSignatures": [],
     "spaSim": [],
     "SpatialDecon": [],
-    "spatzie": [
-        "GenomicInteractions"
-    ],
+    "spatzie": [],
     "spikeLI": [],
     "SPLINTER": [],
     "SPONGE": [
