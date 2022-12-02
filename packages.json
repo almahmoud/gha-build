@@ -445,7 +445,6 @@
         "GO.db",
         "org.Hs.eg.db",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "babelgene",
         "org.Mm.eg.db",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "ggalluvial",
@@ -1823,7 +1822,6 @@
         "msigdbr",
         "scuttle",
         "ggfittext",
-        "babelgene",
         "GenomicAlignments",
         "ggrastr"
     ],
@@ -3914,8 +3912,7 @@
         "broom",
         "patchwork",
         "tidyr",
-        "annotate",
-        "babelgene"
+        "annotate"
     ],
     "esetVis": [],
     "eudysbiome": [],
@@ -3941,7 +3938,6 @@
         "ExperimentHub",
         "homologene",
         "gprofiler2",
-        "babelgene",
         "ggpubr",
         "patchwork",
         "ggtree",
@@ -5414,8 +5410,7 @@
     "hypeR": [
         "ggforce",
         "msigdbr",
-        "kableExtra",
-        "babelgene"
+        "kableExtra"
     ],
     "iasva": [],
     "iBBiG": [
@@ -6221,7 +6216,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "babelgene",
         "org.Hs.eg.db",
         "BiocFileCache",
         "ggfun",
@@ -8495,7 +8489,6 @@
     "orthogene": [
         "homologene",
         "gprofiler2",
-        "babelgene",
         "ggpubr",
         "patchwork",
         "ggtree",
@@ -10853,7 +10846,6 @@
         "msigdbr",
         "schex",
         "annotate",
-        "babelgene",
         "fields",
         "tidyr",
         "Seurat",
@@ -11266,7 +11258,6 @@
         "treeio",
         "annotate",
         "hgu95a.db",
-        "babelgene",
         "ggrastr",
         "M3Drop",
         "ruv",
@@ -11436,7 +11427,6 @@
         "tidyr"
     ],
     "sparrow": [
-        "babelgene",
         "BiocSet",
         "GSEABase",
         "plotly",
@@ -12967,7 +12957,6 @@
         "graphite",
         "pathview",
         "annotate",
-        "babelgene",
         "pbkrtest",
         "lmerTest",
         "lme4",
@@ -13205,9 +13194,7 @@
     "ggfortify": [
         "tidyr"
     ],
-    "msigdbr": [
-        "babelgene"
-    ],
+    "msigdbr": [],
     "tidyverse": [
         "broom",
         "dtplyr",
@@ -13234,7 +13221,6 @@
         "rtracklayer",
         "GenomicAlignments"
     ],
-    "babelgene": [],
     "TxDb.Mmusculus.UCSC.mm10.knownGene": [
         "GenomicFeatures",
         "rtracklayer",
