@@ -725,9 +725,7 @@
         "FDb.InfiniumMethylation.hg19",
         "minfi"
     ],
-    "ideal": [
-        "pcaExplorer"
-    ],
+    "ideal": [],
     "igvR": [],
     "IMAS": [
         "IVAS"
@@ -1214,7 +1212,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "pcaExplorer": [],
     "PDATK": [
         "survminer",
         "ggpubr",
