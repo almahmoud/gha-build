@@ -1839,10 +1839,7 @@
         "lme4",
         "lmerTest"
     ],
-    "MSstatsQC": [],
-    "MSstatsQCgui": [
-        "MSstatsQC"
-    ],
+    "MSstatsQCgui": [],
     "MSstatsSampleSize": [
         "MSstats",
         "lme4"
