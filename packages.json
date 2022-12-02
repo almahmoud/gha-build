@@ -6911,7 +6911,6 @@
     "flowTime": [
         "dplyr"
     ],
-    "flowTrans": [],
     "flowVS": [
         "flowStats",
         "flowWorkspace",
