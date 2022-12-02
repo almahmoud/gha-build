@@ -57751,7 +57751,6 @@
         "Biostrings",
         "IRanges",
         "S4Vectors",
-        "logspline",
         "XVector",
         "GenomeInfoDb",
         "RCurl"
@@ -95691,7 +95690,6 @@
     ],
     "intrinsicDimension": [],
     "strawr": [],
-    "logspline": [],
     "evmix": [],
     "tidybayes": [
         "ggdist",
