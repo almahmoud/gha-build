@@ -631,7 +631,6 @@
         "readr"
     ],
     "BiocSet": [],
-    "BiocWorkflowTools": [],
     "biodb": [
         "BiocFileCache",
         "testthat"
