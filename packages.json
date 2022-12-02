@@ -30391,7 +30391,6 @@
     ],
     "gCrisprTools": [
         "Biobase",
-        "RobustRankAggreg",
         "ggplot2",
         "SummarizedExperiment",
         "rmarkdown",
@@ -46369,7 +46368,6 @@
         "restfulr"
     ],
     "methylGSA": [
-        "RobustRankAggreg",
         "ggplot2",
         "stringr",
         "clusterProfiler",
@@ -98181,7 +98179,6 @@
         "viridisLite",
         "pillar"
     ],
-    "RobustRankAggreg": [],
     "dplR": [
         "Matrix",
         "R.utils",
