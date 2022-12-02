@@ -4413,7 +4413,6 @@
         "Exact",
         "gld",
         "readxl",
-        "ROI",
         "ROI.plugin.lpsolve",
         "pkgload",
         "tidyselect",
@@ -75224,7 +75223,6 @@
         "detectseparation",
         "scales",
         "phyloseq",
-        "ROI",
         "ROI.plugin.lpsolve",
         "pkgload",
         "lifecycle",
@@ -75272,7 +75270,6 @@
         "Rcgmin"
     ],
     "detectseparation": [
-        "ROI",
         "ROI.plugin.lpsolve",
         "pkgload"
     ],
@@ -75285,10 +75282,7 @@
     "softImpute": [
         "Matrix"
     ],
-    "ROI": [],
-    "ROI.plugin.lpsolve": [
-        "ROI"
-    ],
+    "ROI.plugin.lpsolve": [],
     "optextras": [],
     "Rvmmin": [
         "optextras"
