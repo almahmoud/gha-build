@@ -21910,10 +21910,8 @@
     "RDRToolbox": [
         "rgl"
     ],
-    "ReactomeContentService4R": [],
     "ReactomeGraph4R": [
         "neo4r",
-        "ReactomeContentService4R",
         "shiny",
         "tibble",
         "tidyr",
