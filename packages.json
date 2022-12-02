@@ -132,7 +132,6 @@
         "interactiveDisplayBase",
         "tibble",
         "tidyselect",
-        "TTR",
         "KEGGREST",
         "dbplyr",
         "shiny",
@@ -3835,8 +3834,7 @@
         "tidyselect",
         "SummarizedExperiment",
         "Biostrings",
-        "rtracklayer",
-        "TTR"
+        "rtracklayer"
     ],
     "CGEN": [],
     "cghMCR": [
@@ -6073,7 +6071,6 @@
         "progress",
         "dbplyr",
         "Biostrings",
-        "TTR",
         "blob"
     ],
     "ctsGE": [
@@ -6469,8 +6466,7 @@
         "tidyr",
         "vsn",
         "ggplot2",
-        "tidyselect",
-        "TTR"
+        "tidyselect"
     ],
     "dasper": [
         "BiocFileCache",
@@ -6612,7 +6608,6 @@
         "GenomicRanges",
         "tibble",
         "tidyselect",
-        "TTR",
         "vroom",
         "progress"
     ],
@@ -6933,8 +6928,7 @@
         "ggplot2",
         "tseries",
         "tibble",
-        "quantmod",
-        "TTR"
+        "quantmod"
     ],
     "DeMixT": [
         "SummarizedExperiment",
@@ -7117,7 +7111,6 @@
         "smoother",
         "tibble",
         "GenomicRanges",
-        "TTR",
         "dplyr",
         "car",
         "pbkrtest",
@@ -9467,7 +9460,6 @@
         "Biostrings"
     ],
     "ffpe": [
-        "TTR",
         "lumi",
         "methylumi",
         "GenomicFeatures",
@@ -20600,8 +20592,7 @@
         "tseries",
         "viridis",
         "vsn",
-        "quantmod",
-        "TTR"
+        "quantmod"
     ],
     "proActiv": [
         "AnnotationDbi",
@@ -20909,8 +20900,7 @@
         "quantmod",
         "tidyr",
         "tidyselect",
-        "vsn",
-        "TTR"
+        "vsn"
     ],
     "proteasy": [
         "ensembldb",
@@ -21068,7 +21058,6 @@
         "Rsamtools",
         "readr",
         "Biostrings",
-        "TTR",
         "biomaRt",
         "VariantAnnotation",
         "viridis",
@@ -21793,8 +21782,7 @@
         "tibble",
         "Biostrings",
         "vegan",
-        "quantmod",
-        "TTR"
+        "quantmod"
     ],
     "Rcpi": [
         "Biostrings",
@@ -29913,10 +29901,7 @@
     "rvest": [
         "tibble"
     ],
-    "smoother": [
-        "TTR"
-    ],
-    "TTR": [],
+    "smoother": [],
     "dbplyr": [
         "blob",
         "dplyr",
@@ -31195,9 +31180,7 @@
     "GenomicTools.fileHandler": [
         "snpStats"
     ],
-    "quantmod": [
-        "TTR"
-    ],
+    "quantmod": [],
     "ChAMPdata": [
         "GenomicRanges"
     ],
@@ -31756,8 +31739,7 @@
         "quantmod",
         "tidyr",
         "ggplot2",
-        "tidyselect",
-        "TTR"
+        "tidyselect"
     ],
     "cytometree": [
         "ggplot2",
@@ -31857,7 +31839,6 @@
         "readr",
         "tibble",
         "tidyselect",
-        "TTR",
         "vroom",
         "progress"
     ],
@@ -31911,8 +31892,7 @@
         "tidyselect"
     ],
     "tseries": [
-        "quantmod",
-        "TTR"
+        "quantmod"
     ],
     "imputeLCMD": [],
     "ggplot.multistats": [
@@ -33072,8 +33052,7 @@
         "ggplot2",
         "tseries",
         "tibble",
-        "quantmod",
-        "TTR"
+        "quantmod"
     ],
     "rhandsontable": [],
     "EnsDb.Mmusculus.v79": [
