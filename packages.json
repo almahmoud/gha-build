@@ -1242,7 +1242,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "pipeComp": [],
     "plotGrouper": [
         "ggpubr",
         "rstatix",
