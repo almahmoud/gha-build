@@ -20919,7 +20919,6 @@
         "shinybusy",
         "ggseqlogo",
         "shinyjs",
-        "flatxml",
         "ggplot2",
         "SummarizedExperiment",
         "RSQLite",
@@ -36620,7 +36619,6 @@
         "tidyselect",
         "pillar"
     ],
-    "flatxml": [],
     "AICcmodavg": [
         "unmarked",
         "lme4",
