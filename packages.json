@@ -7370,9 +7370,7 @@
         "tidyr",
         "BiocFileCache"
     ],
-    "miRNAmeConverter": [
-        "miRBaseVersions.db"
-    ],
+    "miRNAmeConverter": [],
     "miRNAtap": [],
     "miRSM": [
         "WGCNA",
@@ -14428,7 +14426,6 @@
         "rtracklayer",
         "GenomicAlignments"
     ],
-    "miRBaseVersions.db": [],
     "s4vd": [
         "biclust",
         "tidyr"
