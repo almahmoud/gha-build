@@ -363,12 +363,8 @@
         "ggpubr",
         "rstatix"
     ],
-    "RTN": [],
-    "RTNduals": [
-        "RTN"
-    ],
+    "RTNduals": [],
     "RTNsurvival": [
-        "RTN",
         "RTNduals"
     ],
     "scMAGeCK": [],
