@@ -1891,7 +1891,6 @@
         "ExperimentHub",
         "AnnotationHub"
     ],
-    "crlmm": [],
     "crossmeta": [
         "GEOquery",
         "oligo",
@@ -4571,7 +4570,6 @@
     ],
     "MAGAR": [
         "RnBeads",
-        "crlmm",
         "fields",
         "methylumi",
         "FDb.InfiniumMethylation.hg19",
@@ -5245,7 +5243,6 @@
     ],
     "MinimumDistance": [
         "VanillaICE",
-        "crlmm",
         "BSgenome.Hsapiens.UCSC.hg18",
         "BSgenome",
         "rtracklayer"
@@ -9312,7 +9309,6 @@
         "syuzhet"
     ],
     "VanillaICE": [
-        "crlmm",
         "BSgenome.Hsapiens.UCSC.hg18",
         "BSgenome",
         "rtracklayer"
