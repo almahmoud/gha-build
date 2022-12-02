@@ -7,7 +7,6 @@
         "genefilter",
         "multtest",
         "glmnet",
-        "ROCR",
         "pamr",
         "GO.db",
         "AnnotationDbi",
@@ -35,7 +34,6 @@
     ],
     "a4Classif": [
         "a4Core",
-        "ROCR",
         "pamr",
         "glmnet"
     ],
@@ -582,7 +580,6 @@
     ],
     "Anaquin": [
         "ggplot2",
-        "ROCR",
         "qvalue",
         "DESeq2",
         "GenomicRanges",
@@ -1000,7 +997,6 @@
         "ggridges",
         "miniUI",
         "patchwork",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -1237,7 +1233,6 @@
     ],
     "ASpediaFI": [
         "SummarizedExperiment",
-        "ROCR",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1407,7 +1402,6 @@
         "org.Mm.eg.db",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "NMF",
-        "ROCR",
         "ggalluvial",
         "viridis",
         "progress",
@@ -2195,7 +2189,6 @@
         "ggrepel",
         "miniUI",
         "plotly",
-        "ROCR",
         "sctransform",
         "SeuratObject",
         "shiny",
@@ -3079,8 +3072,7 @@
         "ggdendro",
         "XVector",
         "quantreg",
-        "cvAUC",
-        "ROCR"
+        "cvAUC"
     ],
     "biovizBase": [
         "Hmisc",
@@ -4441,7 +4433,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -5035,7 +5026,6 @@
         "Biostrings",
         "BSgenome",
         "rtracklayer",
-        "ROCR",
         "XVector",
         "Rsamtools",
         "GenomicAlignments",
@@ -6493,7 +6483,6 @@
         "bslib"
     ],
     "compcodeR": [
-        "ROCR",
         "ggplot2",
         "modeest",
         "phylolm",
@@ -9249,7 +9238,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -9832,7 +9820,6 @@
         "easierData",
         "dorothea",
         "quantiseqr",
-        "ROCR",
         "ggplot2",
         "ggpubr",
         "DESeq2",
@@ -11019,7 +11006,6 @@
     "erccdashboard": [
         "ggplot2",
         "qvalue",
-        "ROCR",
         "tibble",
         "pillar"
     ],
@@ -11787,7 +11773,6 @@
         "SC3",
         "shiny",
         "ggplot2",
-        "ROCR",
         "rrcov",
         "GenomicRanges",
         "DelayedArray",
@@ -15593,7 +15578,6 @@
         "shinydashboard",
         "shinyBS",
         "ggplot2",
-        "ROCR",
         "dplyr",
         "DT",
         "UpSetR",
@@ -15953,7 +15937,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -16404,7 +16387,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -17030,7 +17012,6 @@
     "ldblock": [],
     "LedPred": [
         "ggplot2",
-        "ROCR",
         "testthat",
         "tibble",
         "waldo",
@@ -17866,7 +17847,6 @@
         "gcrma",
         "caret",
         "hgu133plus2.db",
-        "ROCR",
         "AnnotationDbi",
         "RSQLite",
         "KEGGREST",
@@ -18420,7 +18400,6 @@
     "Melissa": [
         "BPRMeth",
         "GenomicRanges",
-        "ROCR",
         "ggplot2",
         "MCMCpack",
         "cowplot",
@@ -22553,7 +22532,6 @@
         "ggridges",
         "miniUI",
         "plotly",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -22666,7 +22644,6 @@
         "tweenr"
     ],
     "netDx": [
-        "ROCR",
         "ggplot2",
         "glmnet",
         "MultiAssayExperiment",
@@ -24061,7 +24038,6 @@
     ],
     "PAA": [
         "mRMRe",
-        "ROCR",
         "sva",
         "genefilter",
         "BiocParallel",
@@ -24322,7 +24298,6 @@
         "vegan",
         "shinyjs",
         "glmnet",
-        "ROCR",
         "devtools",
         "bookdown",
         "rmarkdown",
@@ -24968,7 +24943,6 @@
         "GenomicRanges",
         "supraHex",
         "ggrepel",
-        "ROCR",
         "glmnet",
         "caret",
         "dplyr",
@@ -25147,7 +25121,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -25829,7 +25802,6 @@
     "projectR": [
         "CoGAPS",
         "NMF",
-        "ROCR",
         "ggalluvial",
         "dplyr",
         "viridis",
@@ -28621,7 +28593,6 @@
         "BSgenome",
         "ggplot2",
         "Gviz",
-        "ROCR",
         "XVector",
         "SummarizedExperiment",
         "AnnotationDbi",
@@ -28666,7 +28637,6 @@
         "Modstrings",
         "BiocParallel",
         "ggplot2",
-        "ROCR",
         "RSQLite",
         "KEGGREST",
         "progress",
@@ -28701,7 +28671,6 @@
         "BSgenome",
         "ggplot2",
         "Gviz",
-        "ROCR",
         "SummarizedExperiment",
         "AnnotationDbi",
         "RSQLite",
@@ -28745,7 +28714,6 @@
         "Modstrings",
         "BiocParallel",
         "ggplot2",
-        "ROCR",
         "RSQLite",
         "KEGGREST",
         "progress",
@@ -29569,7 +29537,6 @@
     "SC3": [
         "shiny",
         "ggplot2",
-        "ROCR",
         "rrcov",
         "SummarizedExperiment",
         "SingleCellExperiment",
@@ -29603,7 +29570,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -29713,7 +29679,6 @@
         "dplyr",
         "ggplot2",
         "caret",
-        "ROCR",
         "AnnotationHub",
         "BiocFileCache",
         "RSQLite",
@@ -29850,7 +29815,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -29893,7 +29857,6 @@
         "ggridges",
         "miniUI",
         "plotly",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -29928,7 +29891,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -30016,7 +29978,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -30190,7 +30151,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -30252,7 +30212,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -30753,7 +30712,6 @@
         "ggridges",
         "miniUI",
         "patchwork",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -30808,7 +30766,6 @@
         "ggridges",
         "miniUI",
         "patchwork",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -30864,7 +30821,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -31919,7 +31875,6 @@
         "msigdbr",
         "multtest",
         "plotly",
-        "ROCR",
         "scater",
         "scMerge",
         "scran",
@@ -32452,7 +32407,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -33147,7 +33101,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -33349,7 +33302,6 @@
     ],
     "ssPATHS": [
         "SummarizedExperiment",
-        "ROCR",
         "dml",
         "MESS",
         "lfda",
@@ -33504,7 +33456,6 @@
         "SpidermiR",
         "graphite",
         "AnnotationDbi",
-        "ROCR",
         "MLmetrics",
         "ggplot2",
         "RSQLite",
@@ -33602,7 +33553,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -37175,7 +37125,6 @@
         "blob"
     ],
     "glmnet": [],
-    "ROCR": [],
     "pamr": [],
     "GO.db": [
         "AnnotationDbi",
@@ -37694,7 +37643,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -38058,9 +38006,7 @@
         "pillar"
     ],
     "ptw": [],
-    "DRaWR": [
-        "ROCR"
-    ],
+    "DRaWR": [],
     "mGSZ": [],
     "ggfortify": [
         "ggplot2",
@@ -38752,19 +38698,15 @@
         "np",
         "future.apply",
         "quantreg",
-        "cvAUC",
-        "ROCR"
+        "cvAUC"
     ],
     "SuperLearner": [
-        "cvAUC",
-        "ROCR"
+        "cvAUC"
     ],
     "np": [
         "quantreg"
     ],
-    "cvAUC": [
-        "ROCR"
-    ],
+    "cvAUC": [],
     "biscuiteerData": [
         "ExperimentHub",
         "AnnotationHub",
@@ -41962,7 +41904,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -42145,9 +42086,7 @@
         "tidyselect",
         "pillar"
     ],
-    "MLmetrics": [
-        "ROCR"
-    ],
+    "MLmetrics": [],
     "rsample": [
         "dplyr",
         "furrr",
