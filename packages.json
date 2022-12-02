@@ -5906,9 +5906,7 @@
         "waldo",
         "rematch2"
     ],
-    "cycle": [
-        "Mfuzz"
-    ],
+    "cycle": [],
     "cydar": [
         "SingleCellExperiment",
         "viridis",
@@ -15069,7 +15067,6 @@
         "forcats",
         "progress"
     ],
-    "Mfuzz": [],
     "MGFM": [
         "AnnotationDbi",
         "annotate",
@@ -26830,7 +26827,6 @@
         "tidyselect"
     ],
     "TimiRGeN": [
-        "Mfuzz",
         "MultiAssayExperiment",
         "biomaRt",
         "clusterProfiler",
