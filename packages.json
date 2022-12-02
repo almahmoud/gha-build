@@ -14048,7 +14048,6 @@
         "msigdbr",
         "forcats",
         "Rcpp",
-        "coop",
         "matrixTests",
         "DelayedArray",
         "igraph",
@@ -32523,7 +32522,6 @@
         "psych",
         "FCPS",
         "analogue",
-        "coop",
         "pheatmap",
         "ggplotify",
         "fpc",
@@ -64710,7 +64708,6 @@
         "downloader",
         "reshape2",
         "checkmate",
-        "coop",
         "Rcpp",
         "futile.logger",
         "BH",
@@ -79960,7 +79957,6 @@
         "sparsepca",
         "origami",
         "RSpectra",
-        "coop",
         "Matrix",
         "DelayedArray",
         "ScaledMatrix",
@@ -96517,7 +96513,6 @@
         "magicaxis",
         "caTools",
         "reshape2",
-        "coop",
         "Rcpp",
         "plyr",
         "munsell",
@@ -104361,7 +104356,6 @@
     "rlist": [
         "XML"
     ],
-    "coop": [],
     "matrixTests": [],
     "ggfittext": [
         "ggplot2",
