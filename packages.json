@@ -3560,7 +3560,6 @@
     ],
     "casper": [
         "GenomicRanges",
-        "gaga",
         "GenomicFeatures",
         "Rsamtools",
         "rtracklayer",
@@ -11097,7 +11096,6 @@
         "dbplyr",
         "hms"
     ],
-    "gaga": [],
     "gage": [
         "KEGGREST",
         "AnnotationDbi",
