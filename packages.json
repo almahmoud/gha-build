@@ -4005,9 +4005,7 @@
         "SpatialExperiment",
         "nloptr"
     ],
-    "SpidermiR": [
-        "miRNAtap.db"
-    ],
+    "SpidermiR": [],
     "spikeLI": [],
     "spiky": [],
     "splatter": [],
@@ -4078,8 +4076,7 @@
         "cellHTS2"
     ],
     "StarBioTrek": [
-        "SpidermiR",
-        "miRNAtap.db"
+        "SpidermiR"
     ],
     "Statial": [
         "tidyverse",
@@ -4927,7 +4924,6 @@
         "ExperimentHub"
     ],
     "sampSurf": [],
-    "miRNAtap.db": [],
     "MESS": [
         "geepack",
         "ggformula",
