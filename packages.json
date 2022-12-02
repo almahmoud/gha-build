@@ -1651,7 +1651,6 @@
         "nloptr",
         "tibble",
         "tidyr",
-        "detectseparation",
         "patchwork",
         "scattermore",
         "survey",
@@ -29747,7 +29746,6 @@
     "corncob": [
         "ggplot2",
         "dplyr",
-        "detectseparation",
         "phyloseq",
         "tibble",
         "tidyselect",
@@ -29759,7 +29757,6 @@
         "tibble",
         "tidyselect"
     ],
-    "detectseparation": [],
     "survey": [],
     "sjmisc": [
         "dplyr",
