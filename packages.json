@@ -2651,7 +2651,6 @@
     "escape": [
         "GSEABase",
         "GSVA",
-        "UCell",
         "broom"
     ],
     "esetVis": [],
@@ -8424,7 +8423,6 @@
         "AnnotationHub",
         "biomaRt"
     ],
-    "UCell": [],
     "Ularcirc": [
         "AnnotationHub",
         "BSgenome",
