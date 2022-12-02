@@ -4060,7 +4060,6 @@
         "biomaRt",
         "edgeR",
         "rJava",
-        "svMisc",
         "sendmailR",
         "Rhtslib",
         "AnnotationDbi",
@@ -43313,7 +43312,6 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "matrixStats",
-        "svMisc",
         "Matrix",
         "SingleCellExperiment",
         "BiocGenerics",
@@ -117673,7 +117671,6 @@
         "viridis",
         "abind",
         "qvalue",
-        "svMisc",
         "cli",
         "isoband",
         "MASS",
@@ -140983,7 +140980,6 @@
         "lpSolve"
     ],
     "rJava": [],
-    "svMisc": [],
     "sendmailR": [
         "base64enc"
     ],
