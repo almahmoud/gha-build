@@ -5607,7 +5607,6 @@
         "GEOquery"
     ],
     "roar": [],
-    "RolDE": [],
     "ropls": [
         "plotly",
         "MultiAssayExperiment"
