@@ -134,7 +134,6 @@
         "Rsamtools",
         "future.apply",
         "future",
-        "globals",
         "Biostrings",
         "BiocParallel",
         "pillar",
@@ -862,7 +861,6 @@
         "futile.logger",
         "lifecycle",
         "pillar",
-        "globals",
         "mgcv",
         "igraph",
         "rARPACK",
@@ -1228,8 +1226,7 @@
         "lava",
         "blob",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "annaffy": [
         "GO.db",
@@ -1742,7 +1739,6 @@
         "tidyselect",
         "pillar",
         "survival",
-        "globals",
         "XVector",
         "openssl",
         "gplots",
@@ -3034,8 +3030,7 @@
         "Biostrings",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "banocc": [
         "rstan",
@@ -3709,7 +3704,6 @@
         "tidyselect",
         "pillar",
         "survival",
-        "globals",
         "AnnotationDbi",
         "annotate",
         "latticeExtra",
@@ -5173,7 +5167,6 @@
         "DelayedArray",
         "ggdendro",
         "future",
-        "globals",
         "XVector",
         "quantreg",
         "gam",
@@ -5302,7 +5295,6 @@
         "reshape2",
         "doRNG",
         "future",
-        "globals",
         "biomaRt",
         "mgcv",
         "vctrs",
@@ -5920,8 +5912,7 @@
         "DelayedArray",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "breakpointR": [
         "GenomicRanges",
@@ -7420,7 +7411,6 @@
         "rsvd",
         "sparseMatrixStats",
         "survival",
-        "globals",
         "XVector",
         "ragg",
         "htmlwidgets",
@@ -7797,7 +7787,6 @@
         "ggpubr",
         "Rtsne",
         "future",
-        "globals",
         "XVector",
         "testthat",
         "ALL",
@@ -7872,7 +7861,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "globals",
         "mgcv",
         "scales",
         "ggforce",
@@ -8293,8 +8281,7 @@
         "prodlim",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "Chicago": [
         "Hmisc",
@@ -10806,7 +10793,6 @@
         "statip",
         "future.apply",
         "future",
-        "globals",
         "pillar"
     ],
     "compEpiTools": [
@@ -11143,8 +11129,7 @@
         "textshaping",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "CONFESS": [
         "changepoint",
@@ -11306,8 +11291,7 @@
         "Biostrings",
         "future.apply",
         "memoise",
-        "future",
-        "globals"
+        "future"
     ],
     "consensusSeekeR": [
         "IRanges",
@@ -13022,8 +13006,7 @@
         "rematch2",
         "highr",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "CytoGLMM": [
         "BiocParallel",
@@ -13088,8 +13071,7 @@
         "highr",
         "future.apply",
         "rematch2",
-        "future",
-        "globals"
+        "future"
     ],
     "cytoKernel": [
         "SummarizedExperiment",
@@ -13423,8 +13405,7 @@
         "waldo",
         "future.apply",
         "rematch2",
-        "future",
-        "globals"
+        "future"
     ],
     "DAPAR": [
         "MSnbase",
@@ -15332,7 +15313,6 @@
         "BiocNeighbors",
         "sparseMatrixStats",
         "survival",
-        "globals",
         "XVector",
         "lifecycle",
         "mgcv",
@@ -15956,7 +15936,6 @@
         "hms",
         "pillar",
         "future",
-        "globals",
         "nloptr",
         "RcppEigen",
         "broom",
@@ -18447,7 +18426,6 @@
         "dbplyr",
         "dplyr",
         "future",
-        "globals",
         "openssl",
         "hms",
         "pillar",
@@ -19887,7 +19865,6 @@
         "igraph",
         "visNetwork",
         "htmlwidgets",
-        "globals",
         "lifecycle",
         "vctrs",
         "systemfonts",
@@ -20179,8 +20156,7 @@
         "memoise",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "FoldGO": [
         "topGO",
@@ -20707,8 +20683,7 @@
         "restfulr",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "GateFinder": [
         "splancs",
@@ -21144,7 +21119,6 @@
         "Rsamtools",
         "future.apply",
         "future",
-        "globals",
         "Biostrings",
         "BiocParallel",
         "futile.logger"
@@ -21202,8 +21176,7 @@
         "memoise",
         "XVector",
         "GenomeInfoDb",
-        "future",
-        "globals"
+        "future"
     ],
     "GeneGA": [
         "seqinr",
@@ -22194,7 +22167,6 @@
         "future",
         "future.apply",
         "rematch2",
-        "globals",
         "hms"
     ],
     "GEOexplorer": [
@@ -22337,7 +22309,6 @@
         "RcppEigen",
         "XVector",
         "GenomeInfoDb",
-        "globals",
         "htmlwidgets",
         "systemfonts",
         "purrr",
@@ -24204,8 +24175,7 @@
         "prodlim",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "gwascat": [
         "IRanges",
@@ -24653,7 +24623,6 @@
         "Rsamtools",
         "future.apply",
         "future",
-        "globals",
         "Biostrings",
         "DelayedArray"
     ],
@@ -24776,7 +24745,6 @@
         "Rsamtools",
         "future.apply",
         "future",
-        "globals",
         "nloptr",
         "RcppEigen",
         "knitr",
@@ -25126,8 +25094,7 @@
         "prodlim",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "HTqPCR": [
         "affy",
@@ -26147,7 +26114,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "globals",
         "mgcv",
         "scales",
         "cowplot",
@@ -26240,7 +26206,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "globals",
         "BiocIO",
         "biomaRt",
         "mgcv",
@@ -26951,7 +26916,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "globals",
         "GenomeInfoDb",
         "XVector",
         "tweenr",
@@ -27882,8 +27846,7 @@
         "XVector",
         "GenomeInfoDb",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "LACE": [
         "igraph",
@@ -28750,8 +28713,7 @@
         "sass",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "maanova": [],
     "Maaslin2": [
@@ -29191,7 +29153,6 @@
         "pROC",
         "recipes",
         "reshape2",
-        "globals",
         "doRNG",
         "GenomicRanges",
         "IRanges",
@@ -29330,7 +29291,6 @@
         "future.apply",
         "R.utils",
         "future",
-        "globals",
         "vroom",
         "progress"
     ],
@@ -29408,8 +29368,7 @@
         "prodlim",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "mapscape": [
         "htmlwidgets"
@@ -30556,8 +30515,7 @@
         "prodlim",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "MetaboAnnotation": [
         "MsCoreUtils",
@@ -30975,8 +30933,7 @@
         "systemfonts",
         "RcppEigen",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "metapone": [
         "BiocParallel",
@@ -31093,7 +31050,6 @@
         "interp",
         "future.apply",
         "future",
-        "globals",
         "RcppEigen"
     ],
     "metavizr": [
@@ -32677,8 +32633,7 @@
         "future.apply",
         "systemfonts",
         "textshaping",
-        "future",
-        "globals"
+        "future"
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler",
@@ -33551,8 +33506,7 @@
         "pkgload",
         "waldo",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "miRspongeR": [
         "SPONGE",
@@ -33690,8 +33644,7 @@
         "pkgload",
         "waldo",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "mirTarRnaSeq": [
         "ggplot2",
@@ -33818,7 +33771,6 @@
         "vctrs",
         "pillar",
         "future",
-        "globals",
         "mgcv",
         "scales",
         "RcppEigen",
@@ -34041,8 +33993,7 @@
         "blob",
         "memoise",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "MMDiff2": [
         "Rsamtools",
@@ -35580,8 +35531,7 @@
         "waldo",
         "future.apply",
         "rematch2",
-        "future",
-        "globals"
+        "future"
     ],
     "MSstatsShiny": [
         "shiny",
@@ -35915,7 +35865,6 @@
         "Rsamtools",
         "future.apply",
         "future",
-        "globals",
         "Biostrings",
         "DelayedArray"
     ],
@@ -36087,8 +36036,7 @@
         "textshaping",
         "rematch2",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "multtest": [
         "survival"
@@ -36221,7 +36169,6 @@
         "irlba",
         "rsvd",
         "sparseMatrixStats",
-        "globals",
         "annotate",
         "AnnotationDbi",
         "XVector",
@@ -37084,7 +37031,6 @@
         "IRanges",
         "GenomeInfoDb",
         "survival",
-        "globals",
         "XVector",
         "openssl",
         "htmlwidgets",
@@ -39911,7 +39857,6 @@
         "vctrs",
         "pillar",
         "future",
-        "globals",
         "mgcv",
         "scales",
         "ggforce",
@@ -40356,7 +40301,6 @@
         "lme4",
         "blob",
         "future",
-        "globals",
         "Biostrings",
         "nloptr",
         "RcppEigen",
@@ -40457,7 +40401,6 @@
         "RSQLite",
         "KEGGREST",
         "R.huge",
-        "globals",
         "aroma.light",
         "openssl",
         "Biostrings",
@@ -41163,8 +41106,7 @@
         "prodlim",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "piano": [
         "gplots",
@@ -41427,7 +41369,6 @@
         "rsvd",
         "sparseMatrixStats",
         "survival",
-        "globals",
         "XVector",
         "ragg",
         "openssl",
@@ -41837,8 +41778,7 @@
         "lava",
         "blob",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "PoTRA": [
         "org.Hs.eg.db",
@@ -41909,7 +41849,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "globals",
         "mgcv",
         "scales",
         "loo",
@@ -42090,8 +42029,7 @@
         "futile.logger",
         "future.apply",
         "DelayedArray",
-        "future",
-        "globals"
+        "future"
     ],
     "PREDA": [
         "multtest",
@@ -42664,8 +42602,7 @@
         "Biostrings",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "pRolocGUI": [
         "pRoloc",
@@ -42756,8 +42693,7 @@
         "Biostrings",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "PROMISE": [
         "GSEABase",
@@ -42824,7 +42760,6 @@
         "shinyjs",
         "vioplot",
         "MSnbase",
-        "globals",
         "lifecycle",
         "mgcv",
         "scales",
@@ -43545,7 +43480,6 @@
         "Rsamtools",
         "future.apply",
         "future",
-        "globals",
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
@@ -45599,8 +45533,7 @@
         "sass",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "Repitools": [
         "IRanges",
@@ -46810,8 +46743,7 @@
         "prodlim",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "Rmagpie": [
         "e1071",
@@ -48790,7 +48722,6 @@
         "tfautograph",
         "IRanges",
         "survival",
-        "globals",
         "GenomeInfoDb",
         "XVector",
         "openssl",
@@ -48996,7 +48927,6 @@
         "KEGGREST",
         "dbplyr",
         "survival",
-        "globals",
         "XVector",
         "openssl",
         "DT",
@@ -49200,7 +49130,6 @@
         "edgeR",
         "futile.logger",
         "survival",
-        "globals",
         "AnnotationDbi",
         "annotate",
         "XVector",
@@ -49240,7 +49169,6 @@
         "ggplot2",
         "ggtree",
         "patchwork",
-        "globals",
         "lifecycle",
         "mgcv",
         "tibble",
@@ -49346,7 +49274,6 @@
         "futile.logger",
         "sparseMatrixStats",
         "survival",
-        "globals",
         "XVector",
         "lifecycle",
         "mgcv",
@@ -49458,7 +49385,6 @@
         "GenomicRanges",
         "DelayedArray",
         "IRanges",
-        "globals",
         "GenomeInfoDb",
         "XVector",
         "callr",
@@ -49509,7 +49435,6 @@
         "RSpectra",
         "IRanges",
         "survival",
-        "globals",
         "GenomeInfoDb",
         "XVector",
         "htmlwidgets",
@@ -49758,8 +49683,7 @@
         "blob",
         "memoise",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "schex": [
         "SingleCellExperiment",
@@ -49817,7 +49741,6 @@
         "memoise",
         "IRanges",
         "survival",
-        "globals",
         "GenomeInfoDb",
         "XVector",
         "openssl",
@@ -49935,7 +49858,6 @@
         "uwot",
         "RcppEigen",
         "survival",
-        "globals",
         "openssl",
         "htmlwidgets",
         "tidyr",
@@ -50349,8 +50271,7 @@
         "future",
         "future.apply",
         "RcppEigen",
-        "rsvd",
-        "globals"
+        "rsvd"
     ],
     "scPipe": [
         "ggplot2",
@@ -50526,7 +50447,6 @@
         "DelayedArray",
         "IRanges",
         "GenomeInfoDb",
-        "globals",
         "XVector",
         "tweenr",
         "systemfonts"
@@ -50747,7 +50667,6 @@
         "callr",
         "ggfun",
         "ggplotify",
-        "globals",
         "ape",
         "tidytree",
         "treeio",
@@ -50840,7 +50759,6 @@
         "httpuv",
         "fontawesome",
         "survival",
-        "globals",
         "Biostrings",
         "gplots",
         "blob",
@@ -50943,7 +50861,6 @@
         "Rsamtools",
         "Biostrings",
         "survival",
-        "globals",
         "XVector",
         "BiocIO",
         "biomaRt",
@@ -51847,7 +51764,6 @@
         "IRanges",
         "XVector",
         "GenomeInfoDb",
-        "globals",
         "mgcv",
         "tibble",
         "vctrs",
@@ -52099,7 +52015,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "globals",
         "mgcv",
         "ggrepel",
         "ggsci",
@@ -52257,7 +52172,6 @@
         "nloptr",
         "MatrixModels",
         "future",
-        "globals",
         "testthat",
         "callr",
         "pkgload",
@@ -52744,7 +52658,6 @@
         "XVector",
         "sass",
         "memoise",
-        "globals",
         "BiocIO",
         "biomaRt",
         "ragg",
@@ -53488,7 +53401,6 @@
         "memoise",
         "sparseMatrixStats",
         "survival",
-        "globals",
         "XVector",
         "ragg",
         "openssl",
@@ -53742,7 +53654,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "globals",
         "forcats",
         "progress",
         "reshape",
@@ -54064,7 +53975,6 @@
         "Rsamtools",
         "future.apply",
         "future",
-        "globals",
         "Biostrings",
         "DelayedArray"
     ],
@@ -54616,8 +54526,7 @@
         "pkgload",
         "waldo",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "SpotClean": [
         "dplyr",
@@ -54679,7 +54588,6 @@
         "beachmat",
         "scuttle",
         "survival",
-        "globals",
         "XVector",
         "openssl",
         "htmlwidgets",
@@ -55443,7 +55351,6 @@
         "beachmat",
         "scuttle",
         "survival",
-        "globals",
         "XVector",
         "openssl",
         "htmlwidgets",
@@ -55660,8 +55567,7 @@
         "prodlim",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "subSeq": [
         "dplyr",
@@ -55757,7 +55663,6 @@
         "GenomicRanges",
         "DelayedArray",
         "future",
-        "globals",
         "mgcv",
         "scales",
         "clock",
@@ -55830,8 +55735,7 @@
         "ipred",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "survtype": [
         "SummarizedExperiment",
@@ -56110,7 +56014,6 @@
         "car",
         "multcomp",
         "scales",
-        "globals",
         "tweenr",
         "systemfonts",
         "RcppEigen",
@@ -56437,7 +56340,6 @@
         "quantreg",
         "lme4",
         "future",
-        "globals",
         "Biostrings",
         "DelayedArray",
         "nloptr",
@@ -56893,7 +56795,6 @@
         "nloptr",
         "MatrixModels",
         "future",
-        "globals",
         "testthat",
         "callr",
         "pkgload",
@@ -57614,7 +57515,6 @@
         "R.huge",
         "R.rsp",
         "PSCBS",
-        "globals",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -57772,8 +57672,7 @@
         "openssl",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "TMixClust": [
         "BiocParallel",
@@ -58294,8 +58193,7 @@
         "RcppEigen",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "transformGamPoi": [
         "glmGamPoi",
@@ -60892,7 +60790,6 @@
         "knitr",
         "rmarkdown",
         "future",
-        "globals",
         "highr",
         "bslib",
         "jquerylib",
@@ -61377,13 +61274,9 @@
     "fontawesome": [],
     "R.utils": [],
     "future.apply": [
-        "future",
-        "globals"
+        "future"
     ],
-    "future": [
-        "globals"
-    ],
-    "globals": [],
+    "future": [],
     "strucchange": [
         "sandwich"
     ],
@@ -62091,8 +61984,7 @@
         "prodlim",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "rentrez": [
         "httr",
@@ -62159,8 +62051,7 @@
         "prodlim",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "rex": [],
     "modeest": [
@@ -62185,22 +62076,19 @@
         "prodlim",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "lubridate": [],
     "prodlim": [
         "survival",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "lava": [
         "future.apply",
         "survival",
-        "future",
-        "globals"
+        "future"
     ],
     "rapiclient": [
         "httr",
@@ -62298,7 +62186,6 @@
         "uwot",
         "RcppEigen",
         "survival",
-        "globals",
         "lifecycle",
         "mgcv",
         "vctrs",
@@ -62400,15 +62287,13 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "globals",
         "mgcv",
         "scales"
     ],
     "SeuratObject": [
         "future",
         "future.apply",
-        "RcppEigen",
-        "globals"
+        "RcppEigen"
     ],
     "spatstat.explore": [
         "spatstat.data",
@@ -64178,7 +64063,6 @@
         "np",
         "future.apply",
         "future",
-        "globals",
         "quantreg",
         "gam",
         "cvAUC",
@@ -64755,7 +64639,6 @@
         "vctrs",
         "pillar",
         "future",
-        "globals",
         "mgcv",
         "scales"
     ],
@@ -64775,7 +64658,6 @@
     ],
     "furrr": [
         "future",
-        "globals",
         "lifecycle",
         "purrr",
         "vctrs"
@@ -65052,8 +64934,7 @@
         "prodlim",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "BSgenome.Mmusculus.UCSC.mm9": [
         "BSgenome",
@@ -65561,8 +65442,7 @@
     "phylolm": [
         "ape",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "rio": [
         "haven",
@@ -65658,8 +65538,7 @@
         "prodlim",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "spatstat": [
         "spatstat.data",
@@ -66789,8 +66668,7 @@
         "lava",
         "future.apply",
         "lifecycle",
-        "future",
-        "globals"
+        "future"
     ],
     "BBmisc": [],
     "NHPoisson": [
@@ -67561,8 +67439,7 @@
         "prodlim",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "chemometrics": [
         "e1071",
@@ -68320,8 +68197,7 @@
         "waldo",
         "future.apply",
         "rematch2",
-        "future",
-        "globals"
+        "future"
     ],
     "MetBrewer": [
         "ggplot2",
@@ -68903,7 +68779,6 @@
         "R.huge",
         "R.rsp",
         "PSCBS",
-        "globals",
         "aroma.light"
     ],
     "aroma.core": [
@@ -68914,7 +68789,6 @@
         "R.rsp",
         "PSCBS",
         "future",
-        "globals",
         "aroma.light"
     ],
     "R.devices": [
@@ -68936,8 +68810,7 @@
         "R.utils",
         "R.cache",
         "aroma.light",
-        "future",
-        "globals"
+        "future"
     ],
     "R.huge": [
         "R.utils"
@@ -69461,8 +69334,7 @@
         "prodlim",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "ggprism": [
         "ggplot2",
@@ -69653,8 +69525,7 @@
     ],
     "origami": [
         "future",
-        "future.apply",
-        "globals"
+        "future.apply"
     ],
     "Rmagic": [],
     "ggvenn": [
@@ -69770,8 +69641,7 @@
         "future.apply",
         "mlr3measures",
         "mlr3misc",
-        "paradox",
-        "globals"
+        "paradox"
     ],
     "mlr3learners": [
         "mlr3",
@@ -69779,8 +69649,7 @@
         "paradox",
         "future",
         "future.apply",
-        "mlr3measures",
-        "globals"
+        "mlr3measures"
     ],
     "mlr3tuning": [
         "mlr3",
@@ -69789,8 +69658,7 @@
         "mlr3misc",
         "future",
         "future.apply",
-        "mlr3measures",
-        "globals"
+        "mlr3measures"
     ],
     "paradox": [
         "mlr3misc"
@@ -69977,7 +69845,6 @@
         "uwot",
         "RcppEigen",
         "survival",
-        "globals",
         "openssl",
         "htmlwidgets",
         "tidyr",
@@ -70301,8 +70168,7 @@
         "tidyselect",
         "vctrs",
         "lifecycle",
-        "future",
-        "globals"
+        "future"
     ],
     "slider": [
         "vctrs",
@@ -70464,8 +70330,7 @@
         "prodlim",
         "lava",
         "future.apply",
-        "future",
-        "globals"
+        "future"
     ],
     "naniar": [
         "dplyr",
