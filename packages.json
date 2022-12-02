@@ -9374,7 +9374,6 @@
     ],
     "BLMA": [
         "ROntoTools",
-        "GSA",
         "PADOG",
         "graph",
         "Biobase",
@@ -29078,7 +29077,6 @@
         "mathjaxr",
         "qqconf",
         "KEGGdzPathwaysGEO",
-        "GSA",
         "foreach",
         "doRNG",
         "hgu133plus2.db",
@@ -64999,7 +64997,6 @@
         "CompQuadForm",
         "ggm",
         "mclust",
-        "GSA",
         "multtest",
         "ICSNP",
         "glmnet",
@@ -69107,7 +69104,6 @@
         "KEGGdzPathwaysGEO",
         "Biobase",
         "AnnotationDbi",
-        "GSA",
         "foreach",
         "doRNG",
         "hgu133plus2.db",
@@ -89109,7 +89105,6 @@
     ],
     "seq2pathway": [
         "WGCNA",
-        "GSA",
         "biomaRt",
         "GenomicRanges",
         "XML",
@@ -112438,7 +112433,6 @@
         "munsell",
         "viridisLite"
     ],
-    "GSA": [],
     "metafor": [
         "Matrix",
         "metadat",
