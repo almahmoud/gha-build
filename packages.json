@@ -2763,7 +2763,6 @@
         "SummarizedExperiment",
         "SingleCellExperiment"
     ],
-    "ccImpute": [],
     "ccmap": [
         "AnnotationDbi",
         "RSQLite",
