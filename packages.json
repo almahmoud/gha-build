@@ -1494,9 +1494,7 @@
         "enrichplot",
         "ggtree"
     ],
-    "MetaboAnnotation": [
-        "QFeatures"
-    ],
+    "MetaboAnnotation": [],
     "MetaboSignal": [
         "EnsDb.Hsapiens.v75",
         "MWASTools",
@@ -1735,9 +1733,7 @@
         "pbkrtest",
         "lme4"
     ],
-    "MsExperiment": [
-        "QFeatures"
-    ],
+    "MsExperiment": [],
     "msgbsR": [
         "ggbio",
         "biovizBase",
@@ -1753,7 +1749,6 @@
         "lme4"
     ],
     "msqrob2": [
-        "QFeatures",
         "lme4"
     ],
     "MSstats": [
@@ -2131,9 +2126,7 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "PSMatch": [
-        "QFeatures"
-    ],
+    "PSMatch": [],
     "psygenet2r": [],
     "ptairMS": [
         "ggpubr",
@@ -2157,7 +2150,6 @@
     "pwrEWAS": [
         "pwrEWAS.data"
     ],
-    "QFeatures": [],
     "qmtools": [
         "VIM",
         "car",
@@ -2464,9 +2456,7 @@
     "scoreInvHap": [
         "VariantAnnotation"
     ],
-    "scp": [
-        "QFeatures"
-    ],
+    "scp": [],
     "scRecover": [
         "Rmagic"
     ],
