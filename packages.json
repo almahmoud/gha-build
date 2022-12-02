@@ -2145,9 +2145,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "mistyR": [],
-    "mitch": [
-        "echarts4r"
-    ],
+    "mitch": [],
     "mitoClone2": [
         "deepSNV",
         "VariantAnnotation",
@@ -3979,7 +3977,6 @@
     "cvms": [
         "lme4"
     ],
-    "echarts4r": [],
     "anyLib": [],
     "blme": [
         "lme4"
