@@ -4038,9 +4038,7 @@
         "DESeq2",
         "geneplotter"
     ],
-    "HubPub": [
-        "available"
-    ],
+    "HubPub": [],
     "HumanTranscriptomeCompendium": [],
     "hypeR": [
         "msigdbr"
@@ -10261,7 +10259,6 @@
         "BiocFileCache",
         "AnnotationHub"
     ],
-    "available": [],
     "biclust": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "GenomicFeatures",
