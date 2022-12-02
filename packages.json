@@ -2748,9 +2748,7 @@
         "DESeq2"
     ],
     "HubPub": [],
-    "iBBiG": [
-        "biclust"
-    ],
+    "iBBiG": [],
     "icetea": [
         "GenomicFeatures",
         "VariantAnnotation",
@@ -3617,7 +3615,6 @@
     ],
     "miRSM": [
         "WGCNA",
-        "biclust",
         "iBBiG",
         "BicARE",
         "s4vd",
@@ -3754,7 +3751,6 @@
         "treeio"
     ],
     "mosbi": [
-        "biclust",
         "QUBIC"
     ],
     "Motif2Site": [
@@ -4790,9 +4786,7 @@
         "biomaRt",
         "VariantAnnotation"
     ],
-    "QUBIC": [
-        "biclust"
-    ],
+    "QUBIC": [],
     "R3CPET": [
         "ggbio",
         "biovizBase",
@@ -5257,9 +5251,7 @@
         "MultiAssayExperiment",
         "nloptr"
     ],
-    "rqubic": [
-        "biclust"
-    ],
+    "rqubic": [],
     "rrvgo": [
         "GOSemSim"
     ],
@@ -5305,9 +5297,7 @@
     "rTRMui": [
         "MotifDb"
     ],
-    "runibic": [
-        "biclust"
-    ],
+    "runibic": [],
     "RUVSeq": [
         "EDASeq",
         "biomaRt",
@@ -6959,7 +6949,6 @@
         "ExperimentHub",
         "AnnotationHub"
     ],
-    "biclust": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "GenomicFeatures",
         "biomaRt"
@@ -7036,12 +7025,8 @@
     "BSgenome.Hsapiens.UCSC.hg18": [
         "BSgenome"
     ],
-    "s4vd": [
-        "biclust"
-    ],
-    "BiBitR": [
-        "biclust"
-    ],
+    "s4vd": [],
+    "BiBitR": [],
     "subspace": [],
     "cvms": [
         "lme4",
