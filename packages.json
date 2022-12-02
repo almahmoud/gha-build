@@ -2879,7 +2879,6 @@
         "DESeq2",
         "MultiAssayExperiment"
     ],
-    "HGC": [],
     "hiAnnotator": [
         "BSgenome"
     ],
