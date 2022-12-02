@@ -395,7 +395,6 @@
     "CiteFuse": [
         "propr"
     ],
-    "cleanUpdTSeq": [],
     "clipper": [
         "qpgraph"
     ],
@@ -1241,9 +1240,7 @@
     "ImmuneSpaceR": [],
     "INDEED": [],
     "infercnv": [],
-    "InPAS": [
-        "cleanUpdTSeq"
-    ],
+    "InPAS": [],
     "INSPEcT": [
         "TxDb.Mmusculus.UCSC.mm9.knownGene"
     ],
