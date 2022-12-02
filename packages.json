@@ -492,7 +492,6 @@
         "ReactomePA",
         "enrichplot"
     ],
-    "EpiMix": [],
     "epimutacions": [
         "minfi",
         "Homo.sapiens",
