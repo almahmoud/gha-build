@@ -381,14 +381,12 @@
     ],
     "BASiCS": [
         "ggExtra",
-        "scran",
-        "colourpicker"
+        "scran"
     ],
     "BASiCStan": [
         "BASiCS",
         "scran",
-        "ggExtra",
-        "colourpicker"
+        "ggExtra"
     ],
     "batchelor": [],
     "BatchQC": [
@@ -1132,7 +1130,6 @@
         "biomaRt"
     ],
     "ChromSCape": [
-        "colourpicker",
         "shinydashboardPlus",
         "plotly",
         "batchelor",
@@ -1764,7 +1761,6 @@
         "clusterProfiler",
         "sva",
         "enrichplot",
-        "colourpicker",
         "plotly",
         "heatmaply",
         "pathview",
@@ -1968,8 +1964,7 @@
         "ggExtra",
         "broom",
         "heatmaply",
-        "plotly",
-        "colourpicker"
+        "plotly"
     ],
     "distinct": [
         "scater",
@@ -2900,7 +2895,6 @@
     ],
     "GeneTonic": [
         "bs4Dash",
-        "colourpicker",
         "ComplexUpset",
         "DESeq2",
         "plotly",
@@ -3336,7 +3330,6 @@
         "ggpubr",
         "ggExtra",
         "multiHiCcompare",
-        "colourpicker",
         "rstatix",
         "HiCcompare",
         "broom",
@@ -3541,7 +3534,6 @@
         "genefilter"
     ],
     "InterCellar": [
-        "colourpicker",
         "factoextra",
         "plotly",
         "biomaRt",
@@ -3617,23 +3609,18 @@
         "rio",
         "haven"
     ],
-    "iSEE": [
-        "colourpicker"
-    ],
+    "iSEE": [],
     "iSEEhex": [
-        "iSEE",
-        "colourpicker"
+        "iSEE"
     ],
     "iSEEhub": [
         "ExperimentHub",
         "AnnotationHub",
-        "iSEE",
-        "colourpicker"
+        "iSEE"
     ],
     "iSEEu": [
         "iSEE",
-        "iSEEhex",
-        "colourpicker"
+        "iSEEhex"
     ],
     "isobar": [
         "biomaRt"
@@ -4827,14 +4814,12 @@
     "MSstatsQC": [
         "plotly",
         "ggExtra",
-        "MSnbase",
-        "colourpicker"
+        "MSnbase"
     ],
     "MSstatsQCgui": [
         "MSstatsQC",
         "ggExtra",
         "plotly",
-        "colourpicker",
         "MSnbase"
     ],
     "MSstatsSampleSize": [
@@ -5602,7 +5587,6 @@
         "testthat"
     ],
     "PhyloProfile": [
-        "colourpicker",
         "ExperimentHub",
         "OmaDB",
         "AnnotationHub",
@@ -5671,7 +5655,6 @@
     "plotGrouper": [
         "readr",
         "ggpubr",
-        "colourpicker",
         "rstatix",
         "broom",
         "car",
@@ -5819,7 +5802,6 @@
         "pRoloc",
         "MSnbase",
         "shinydashboardPlus",
-        "colourpicker",
         "MLInterfaces",
         "caret",
         "biomaRt",
@@ -5877,7 +5859,6 @@
     ],
     "psichomics": [
         "AnnotationHub",
-        "colourpicker",
         "highcharter",
         "recount",
         "broom",
@@ -7059,7 +7040,6 @@
         "AnnotationHub",
         "batchelor",
         "celldex",
-        "colourpicker",
         "DESeq2",
         "ExperimentHub",
         "ensembldb",
@@ -7257,8 +7237,7 @@
         "plotly",
         "dittoSeq",
         "xROI",
-        "DropletUtils",
-        "colourpicker"
+        "DropletUtils"
     ],
     "spicyR": [
         "lmerTest",
@@ -7586,7 +7565,6 @@
         "ELMER",
         "clusterProfiler",
         "TCGAbiolinks",
-        "colourpicker",
         "sesame",
         "recipes",
         "DOSE",
@@ -8330,10 +8308,7 @@
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome"
     ],
-    "ggExtra": [
-        "colourpicker"
-    ],
-    "colourpicker": [],
+    "ggExtra": [],
     "heatmaply": [
         "plotly"
     ],
@@ -8970,9 +8945,7 @@
         "ExperimentHub"
     ],
     "sampSurf": [],
-    "xROI": [
-        "colourpicker"
-    ],
+    "xROI": [],
     "miRNAtap.db": [
         "miRNAtap"
     ],
