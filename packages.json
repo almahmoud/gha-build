@@ -802,7 +802,6 @@
         "RSQLite",
         "KEGGREST",
         "tidyselect",
-        "spatstat.random",
         "Biostrings",
         "blob"
     ],
@@ -1748,7 +1747,6 @@
         "scuttle",
         "scater",
         "testthat",
-        "spatstat.random",
         "tidytree",
         "NADA",
         "RSQLite",
@@ -3532,7 +3530,6 @@
         "ragg",
         "tidyr",
         "dplyr",
-        "spatstat.random",
         "tidyselect"
     ],
     "cellity": [
@@ -5341,7 +5338,6 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "spatstat.random",
         "spatstat.explore",
         "spatstat.model",
         "spatstat.linnet",
@@ -7376,7 +7372,6 @@
         "GenomicRanges",
         "tidyr",
         "dplyr",
-        "spatstat.random",
         "tidyselect"
     ],
     "discordant": [
@@ -12831,8 +12826,7 @@
         "shiny",
         "spatstat.explore",
         "GenomicRanges",
-        "TH.data",
-        "spatstat.random"
+        "TH.data"
     ],
     "infinityFlow": [],
     "InPAS": [
@@ -13210,7 +13204,6 @@
         "blob",
         "broom",
         "car",
-        "spatstat.random",
         "ggfun",
         "ggplotify",
         "pbkrtest",
@@ -13875,7 +13868,6 @@
         "GenomicRanges",
         "DropletUtils",
         "BiocFileCache",
-        "spatstat.random",
         "lmerTest",
         "lme4",
         "ggforce",
@@ -18186,7 +18178,6 @@
         "GenomicRanges",
         "tidyr",
         "dplyr",
-        "spatstat.random",
         "tidyselect"
     ],
     "nempi": [
@@ -20254,8 +20245,7 @@
         "GenomicRanges",
         "ScaledMatrix",
         "ragg",
-        "tidyr",
-        "spatstat.random"
+        "tidyr"
     ],
     "pipeFrame": [
         "BSgenome",
@@ -23837,7 +23827,6 @@
         "tfruns",
         "tidyr",
         "dplyr",
-        "spatstat.random",
         "tidyselect"
     ],
     "SCAN.UPC": [
@@ -23943,7 +23932,6 @@
         "hardhat",
         "ipred",
         "blob",
-        "spatstat.random",
         "prodlim",
         "Biostrings",
         "lava"
@@ -24028,7 +24016,6 @@
         "annotate",
         "tidyr",
         "dplyr",
-        "spatstat.random",
         "RSQLite",
         "KEGGREST",
         "tidyselect",
@@ -24058,8 +24045,7 @@
         "shiny",
         "spatstat.explore",
         "ggplotify",
-        "tidyselect",
-        "spatstat.random"
+        "tidyselect"
     ],
     "scCB2": [
         "SingleCellExperiment",
@@ -24083,7 +24069,6 @@
         "tibble",
         "tidyr",
         "dplyr",
-        "spatstat.random",
         "tidyselect"
     ],
     "scClassify": [
@@ -24150,7 +24135,6 @@
         "GenomicRanges",
         "tidyr",
         "dplyr",
-        "spatstat.random",
         "tidyselect"
     ],
     "scDblFinder": [
@@ -24275,8 +24259,7 @@
         "spatstat.explore",
         "SummarizedExperiment",
         "GenomicRanges",
-        "tidyr",
-        "spatstat.random"
+        "tidyr"
     ],
     "scHOT": [
         "SingleCellExperiment",
@@ -24320,7 +24303,6 @@
         "spatstat.explore",
         "tidyr",
         "dplyr",
-        "spatstat.random",
         "tidyselect"
     ],
     "scmap": [
@@ -24703,8 +24685,7 @@
         "ggfun",
         "ggplotify",
         "tidytree",
-        "treeio",
-        "spatstat.random"
+        "treeio"
     ],
     "scTGIF": [
         "GSEABase",
@@ -24746,8 +24727,7 @@
         "SeuratObject",
         "spatstat.explore",
         "Biostrings",
-        "blob",
-        "spatstat.random"
+        "blob"
     ],
     "scTreeViz": [
         "epivizr",
@@ -24799,7 +24779,6 @@
         "tweenr",
         "ragg",
         "tidyr",
-        "spatstat.random",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -25688,7 +25667,6 @@
         "multcomp",
         "blob",
         "GenomicAlignments",
-        "spatstat.random",
         "sn",
         "TH.data",
         "densEstBayes",
@@ -26037,8 +26015,7 @@
         "spatstat.explore",
         "ScaledMatrix",
         "ragg",
-        "tidyr",
-        "spatstat.random"
+        "tidyr"
     ],
     "sparrow": [
         "babelgene",
@@ -26079,7 +26056,6 @@
     "spaSim": [
         "ggplot2",
         "dplyr",
-        "spatstat.random",
         "SpatialExperiment",
         "SummarizedExperiment",
         "tibble",
@@ -26305,7 +26281,6 @@
         "xROI",
         "umap",
         "SummarizedExperiment",
-        "spatstat.random",
         "cowplot",
         "ggrepel",
         "ggridges",
@@ -26345,7 +26320,6 @@
         "GenomicRanges",
         "DropletUtils",
         "BiocFileCache",
-        "spatstat.random",
         "dbplyr",
         "RSQLite",
         "scuttle",
@@ -26582,7 +26556,6 @@
         "RSQLite",
         "scuttle",
         "tidyr",
-        "spatstat.random",
         "blob"
     ],
     "SPOTlight": [
@@ -26874,7 +26847,6 @@
         "sf",
         "SummarizedExperiment",
         "GenomicRanges",
-        "spatstat.random",
         "broom",
         "dbplyr",
         "dtplyr",
@@ -26937,7 +26909,6 @@
         "RSQLite",
         "scuttle",
         "tidyr",
-        "spatstat.random",
         "blob"
     ],
     "strandCheckR": [
@@ -30186,7 +30157,6 @@
         "tibble",
         "tidyr",
         "dplyr",
-        "spatstat.random",
         "tidyselect"
     ],
     "org.Hs.eg.db": [
@@ -30222,10 +30192,7 @@
         "tidyselect"
     ],
     "SeuratObject": [],
-    "spatstat.explore": [
-        "spatstat.random"
-    ],
-    "spatstat.random": [],
+    "spatstat.explore": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
         "GenomicRanges",
@@ -31660,7 +31627,6 @@
         "recipes",
         "tibble",
         "tidyselect",
-        "spatstat.random",
         "spatstat.explore",
         "spatstat.model",
         "spatstat.linnet",
@@ -31672,17 +31638,14 @@
         "lava"
     ],
     "spatstat": [
-        "spatstat.random",
         "spatstat.explore",
         "spatstat.model",
         "spatstat.linnet"
     ],
     "spatstat.model": [
-        "spatstat.random",
         "spatstat.explore"
     ],
     "spatstat.linnet": [
-        "spatstat.random",
         "spatstat.explore",
         "spatstat.model"
     ],
@@ -33529,7 +33492,6 @@
         "spatstat.explore",
         "tidyr",
         "dplyr",
-        "spatstat.random",
         "tidyselect"
     ],
     "scRNAseq": [
@@ -33594,7 +33556,6 @@
     ],
     "alphahull": [
         "ggplot2",
-        "spatstat.random",
         "tibble"
     ],
     "xROI": [
