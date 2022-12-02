@@ -3901,7 +3901,6 @@
         "vctrs",
         "survival",
         "RcppEigen",
-        "readbitmap",
         "igraph",
         "Hmisc",
         "quantreg",
@@ -9119,7 +9118,6 @@
         "flowMerge",
         "ggplot2",
         "raster",
-        "readbitmap",
         "sandwich",
         "rms",
         "htmlwidgets",
@@ -37746,7 +37744,6 @@
     "rGenomeTracks": [
         "imager",
         "rGenomeTracksData",
-        "readbitmap",
         "igraph",
         "AnnotationHub",
         "BiocFileCache",
@@ -44880,7 +44877,6 @@
         "SpatialExperiment",
         "rhdf5",
         "ggplot2",
-        "readbitmap",
         "tibble",
         "viridis",
         "Seurat",
@@ -52513,10 +52509,8 @@
     ],
     "vioplot": [],
     "imager": [
-        "readbitmap",
         "igraph"
     ],
-    "readbitmap": [],
     "multcomp": [
         "survival",
         "TH.data",
