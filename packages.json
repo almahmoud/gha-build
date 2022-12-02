@@ -47948,7 +47948,6 @@
         "nnTensor",
         "ccTensor",
         "heatmaply",
-        "tagcloud",
         "rmarkdown",
         "BiocStyle",
         "knitr",
@@ -48075,7 +48074,6 @@
         "SingleCellExperiment",
         "BiocStyle",
         "plotly",
-        "tagcloud",
         "rmarkdown",
         "knitr",
         "SummarizedExperiment",
@@ -65712,7 +65710,6 @@
     ],
     "nnTensor": [
         "fields",
-        "tagcloud",
         "ggplot2",
         "viridis",
         "mgcv",
@@ -65732,7 +65729,6 @@
         "vctrs",
         "pillar"
     ],
-    "tagcloud": [],
     "clustree": [
         "ggraph",
         "igraph",
