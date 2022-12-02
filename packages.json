@@ -74,7 +74,6 @@
         "Category",
         "GO.db",
         "annotate",
-        "AnnotationForge",
         "PFAM.db",
         "GSEABase",
         "ggbio",
@@ -113,7 +112,6 @@
         "Category",
         "GO.db",
         "annotate",
-        "AnnotationForge",
         "PFAM.db",
         "GSEABase",
         "ggbio",
@@ -253,7 +251,6 @@
         "annotate"
     ],
     "annotate": [],
-    "AnnotationForge": [],
     "AnnotationHub": [
         "BiocFileCache"
     ],
@@ -262,7 +259,6 @@
         "GenomicFeatures",
         "rtracklayer",
         "OrganismDbi",
-        "AnnotationForge",
         "BiocFileCache",
         "biomaRt",
         "GenomicAlignments"
@@ -568,7 +564,6 @@
         "Category",
         "GO.db",
         "annotate",
-        "AnnotationForge",
         "GSEABase",
         "genefilter"
     ],
@@ -1478,8 +1473,7 @@
         "annotate",
         "RCy3",
         "genefilter",
-        "GO.db",
-        "AnnotationForge"
+        "GO.db"
     ],
     "cbaf": [
         "BiocFileCache",
@@ -4333,7 +4327,6 @@
         "GenomicFeatures",
         "rtracklayer",
         "OrganismDbi",
-        "AnnotationForge",
         "BiocFileCache",
         "biomaRt",
         "GenomicAlignments"
@@ -5384,7 +5377,6 @@
         "genefilter",
         "annotate",
         "GO.db",
-        "AnnotationForge",
         "broom",
         "Hmisc",
         "tidyr",
@@ -5475,7 +5467,6 @@
         "Category",
         "GO.db",
         "annotate",
-        "AnnotationForge",
         "GSEABase",
         "genefilter"
     ],
@@ -5931,7 +5922,6 @@
         "geneLenDataBase",
         "Category",
         "annotate",
-        "AnnotationForge",
         "viridis",
         "dendextend",
         "egg",
@@ -7331,7 +7321,6 @@
         "waldo",
         "rtracklayer",
         "OrganismDbi",
-        "AnnotationForge",
         "pbkrtest",
         "lme4",
         "biomaRt",
@@ -7642,7 +7631,6 @@
         "org.Hs.eg.db",
         "Category",
         "annotate",
-        "AnnotationForge",
         "genefilter"
     ],
     "miloR": [
@@ -7679,7 +7667,6 @@
         "BiocFileCache",
         "Category",
         "GO.db",
-        "AnnotationForge",
         "viridis",
         "methylumi",
         "GenomicFeatures",
@@ -7741,7 +7728,6 @@
         "genefilter",
         "annotate",
         "GO.db",
-        "AnnotationForge",
         "viridis",
         "biomaRt",
         "readr",
@@ -8799,7 +8785,6 @@
         "tidyr",
         "Category",
         "annotate",
-        "AnnotationForge",
         "biomaRt",
         "readr",
         "quantro",
@@ -9401,7 +9386,6 @@
         "geneplotter",
         "annotate",
         "Category",
-        "AnnotationForge",
         "viridis",
         "dendextend",
         "egg",
@@ -9708,7 +9692,6 @@
         "GOstats",
         "Category",
         "annotate",
-        "AnnotationForge",
         "GSEABase",
         "genefilter"
     ],
@@ -10640,7 +10623,6 @@
         "GGally",
         "ensembldb",
         "GO.db",
-        "AnnotationForge",
         "biomaRt",
         "tidyr",
         "viridis",
@@ -11740,7 +11722,6 @@
         "GOSemSim",
         "qvalue",
         "GO.db",
-        "AnnotationForge",
         "viridis",
         "dendextend",
         "egg",
@@ -13848,7 +13829,6 @@
         "annotate"
     ],
     "ViSEAGO": [
-        "AnnotationForge",
         "biomaRt",
         "dendextend",
         "DiagrammeR",
@@ -15171,7 +15151,6 @@
         "GenomicFeatures",
         "rtracklayer",
         "OrganismDbi",
-        "AnnotationForge",
         "biomaRt",
         "GenomicAlignments"
     ],
