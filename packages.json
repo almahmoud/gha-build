@@ -17575,7 +17575,6 @@
         "dplyr",
         "ggmcmc",
         "MCMCpack",
-        "MCMCglmm",
         "tibble",
         "tidyselect",
         "pillar",
@@ -36668,7 +36667,6 @@
         "progress",
         "hms"
     ],
-    "MCMCglmm": [],
     "shinycustomloader": [
         "shiny",
         "bslib"
