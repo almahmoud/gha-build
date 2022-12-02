@@ -28933,7 +28933,6 @@
         "SummarizedExperiment",
         "Seurat",
         "zinbwave",
-        "copula",
         "ggplot2",
         "DESeq2",
         "GenomicRanges",
@@ -40504,7 +40503,6 @@
         "DT",
         "bslib"
     ],
-    "copula": [],
     "extRemes": [],
     "torch": [],
     "origami": [
