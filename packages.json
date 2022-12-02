@@ -728,7 +728,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "exomePeak2": [],
     "ExperimentHubData": [
         "AnnotationHubData"
     ],
