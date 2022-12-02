@@ -1493,7 +1493,6 @@
     ],
     "hipathia": [],
     "hiReadsProcessor": [],
-    "HPiP": [],
     "HTSeqGenie": [
         "gmapR",
         "VariantAnnotation",
