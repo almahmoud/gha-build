@@ -237,7 +237,6 @@
         "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
-        "ggalluvial",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "CNEr",
         "haven",
@@ -302,7 +301,6 @@
     "bandle": [
         "pRoloc",
         "pRolocdata",
-        "ggalluvial",
         "MLInterfaces",
         "caret",
         "biomaRt"
@@ -3980,7 +3978,6 @@
     "MutationalPatterns": [
         "BSgenome",
         "VariantAnnotation",
-        "ggalluvial",
         "GenomicFeatures",
         "biomaRt"
     ],
@@ -4614,9 +4611,7 @@
     "progeny": [
         "decoupleR"
     ],
-    "projectR": [
-        "ggalluvial"
-    ],
+    "projectR": [],
     "pRoloc": [
         "MLInterfaces",
         "caret",
@@ -5434,7 +5429,6 @@
         "Rmagic"
     ],
     "scRepertoire": [
-        "ggalluvial",
         "ggraph",
         "tidygraph"
     ],
@@ -5910,7 +5904,6 @@
     ],
     "standR": [
         "SpatialExperiment",
-        "ggalluvial",
         "RUVSeq",
         "EDASeq",
         "DropletUtils",
@@ -6662,7 +6655,6 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "ggalluvial": [],
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [
         "GenomicFeatures",
         "biomaRt"
