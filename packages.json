@@ -1395,7 +1395,6 @@
         "gson",
         "qvalue",
         "tidyr",
-        "ggpp",
         "Hmisc",
         "HDO.db",
         "aplot",
@@ -6302,7 +6301,6 @@
         "testthat",
         "AnnotationHub",
         "BiocFileCache",
-        "ggpp",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -12565,10 +12563,7 @@
         "waldo"
     ],
     "EnvStats": [],
-    "ggpmisc": [
-        "ggpp"
-    ],
-    "ggpp": [],
+    "ggpmisc": [],
     "broom.mixed": [
         "broom",
         "tidyr"
