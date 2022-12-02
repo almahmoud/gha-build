@@ -1333,9 +1333,7 @@
         "KEGGREST",
         "tibble"
     ],
-    "beadarraySNP": [
-        "quantsmooth"
-    ],
+    "beadarraySNP": [],
     "BEARscc": [
         "ggplot2",
         "SingleCellExperiment",
@@ -8600,7 +8598,6 @@
         "SeqVarTools",
         "RSQLite",
         "logistf",
-        "quantsmooth",
         "mice",
         "broom",
         "dplyr",
@@ -9852,7 +9849,6 @@
     "GWASTools": [
         "RSQLite",
         "logistf",
-        "quantsmooth",
         "mice",
         "broom",
         "dplyr",
@@ -9866,7 +9862,6 @@
         "SummarizedExperiment",
         "RSQLite",
         "logistf",
-        "quantsmooth",
         "Rsamtools",
         "AnnotationDbi",
         "rtracklayer",
@@ -12029,7 +12024,6 @@
         "GWASTools",
         "RSQLite",
         "logistf",
-        "quantsmooth",
         "SummarizedExperiment",
         "mice",
         "broom",
@@ -17806,7 +17800,6 @@
         "GenomicAlignments",
         "dbplyr"
     ],
-    "quantsmooth": [],
     "QuartPAC": [
         "iPAC",
         "GraphPAC",
@@ -21133,7 +21126,6 @@
     ],
     "SIM": [
         "globaltest",
-        "quantsmooth",
         "AnnotationDbi",
         "annotate",
         "RSQLite",
