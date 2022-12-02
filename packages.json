@@ -16124,7 +16124,6 @@
         "coin",
         "futile.logger",
         "survival",
-        "libcoin",
         "multcomp",
         "IRanges",
         "GenomicRanges",
@@ -24736,7 +24735,6 @@
         "httr",
         "dplyr",
         "survival",
-        "libcoin",
         "multcomp",
         "IRanges",
         "GenomicRanges",
@@ -25918,7 +25916,6 @@
         "SingleCellExperiment",
         "tidyr",
         "survival",
-        "libcoin",
         "multcomp",
         "lifecycle",
         "tibble",
@@ -27726,7 +27723,6 @@
         "coin",
         "ggplot2",
         "survival",
-        "libcoin",
         "multcomp",
         "lifecycle",
         "mgcv",
@@ -32292,7 +32288,6 @@
         "recipes",
         "reshape2",
         "survival",
-        "libcoin",
         "multcomp",
         "geneplotter",
         "lifecycle",
@@ -32489,7 +32484,6 @@
         "XVector",
         "GenomeInfoDb",
         "survival",
-        "libcoin",
         "multcomp",
         "lifecycle",
         "vctrs",
@@ -33027,7 +33021,6 @@
         "lmtest",
         "dbplyr",
         "Biostrings",
-        "libcoin",
         "inum",
         "blob",
         "memoise"
@@ -40870,7 +40863,6 @@
         "pillar",
         "mgcv",
         "scales",
-        "libcoin",
         "survival",
         "inum",
         "ggraph",
@@ -65892,12 +65884,10 @@
     ],
     "coin": [
         "survival",
-        "libcoin",
         "multcomp",
         "TH.data",
         "sandwich"
     ],
-    "libcoin": [],
     "wordcloud": [],
     "ELMER.data": [
         "GenomicRanges",
@@ -67510,23 +67500,18 @@
         "survival",
         "RcppEigen",
         "partykit",
-        "libcoin",
         "inum"
     ],
     "mboost": [
         "survival",
         "partykit",
-        "libcoin",
         "inum"
     ],
     "partykit": [
-        "libcoin",
         "survival",
         "inum"
     ],
-    "inum": [
-        "libcoin"
-    ],
+    "inum": [],
     "miRBaseVersions.db": [
         "AnnotationDbi",
         "RSQLite",
@@ -68334,7 +68319,6 @@
         "partykit",
         "Cubist",
         "reshape2",
-        "libcoin",
         "survival",
         "inum"
     ],
