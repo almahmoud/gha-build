@@ -723,8 +723,7 @@
         "nloptr"
     ],
     "condiments": [
-        "Ecume",
-        "distinct"
+        "Ecume"
     ],
     "CONFESS": [],
     "consensusDE": [
@@ -1019,7 +1018,6 @@
     "DiscoRhythm": [
         "heatmaply"
     ],
-    "distinct": [],
     "DMCFB": [
         "arm",
         "lme4",
