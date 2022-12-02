@@ -31382,9 +31382,7 @@
         "blob",
         "Biostrings"
     ],
-    "TileDBArray": [
-        "tiledb"
-    ],
+    "TileDBArray": [],
     "tilingArray": [
         "vsn",
         "genefilter",
@@ -38040,7 +38038,6 @@
         "tidyselect",
         "pillar"
     ],
-    "tiledb": [],
     "FreqProf": [
         "ggplot2",
         "shiny",
