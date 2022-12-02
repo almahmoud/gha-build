@@ -523,7 +523,6 @@
         "bslib",
         "Rfast",
         "rvest",
-        "missForest",
         "hms",
         "RSpectra"
     ],
@@ -17886,7 +17885,6 @@
     "MAI": [
         "caret",
         "future.apply",
-        "missForest",
         "tidyverse",
         "SummarizedExperiment",
         "ggplot2",
@@ -21572,7 +21570,6 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "missForest",
         "sva",
         "VIM",
         "tidyselect",
@@ -25487,7 +25484,6 @@
         "pillar"
     ],
     "pmp": [
-        "missForest",
         "ggplot2",
         "SummarizedExperiment",
         "tibble",
@@ -25928,7 +25924,6 @@
     "proFIA": [
         "xcms",
         "BiocParallel",
-        "missForest",
         "ropls",
         "ggplot2",
         "plotly",
@@ -37811,7 +37806,6 @@
         "Rfast",
         "ggplot2",
         "rvest",
-        "missForest",
         "tibble",
         "pillar"
     ],
@@ -37822,7 +37816,6 @@
         "tibble",
         "pillar"
     ],
-    "missForest": [],
     "RSpectra": [],
     "curatedTCGAData": [
         "MultiAssayExperiment",
