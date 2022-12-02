@@ -58637,7 +58637,6 @@
     "GmicR": [
         "AnnotationDbi",
         "ape",
-        "bnlearn",
         "Category",
         "DT",
         "doParallel",
@@ -82068,7 +82067,6 @@
     "MetNet": [
         "S4Vectors",
         "SummarizedExperiment",
-        "bnlearn",
         "BiocParallel",
         "corpcor",
         "dplyr",
@@ -105200,7 +105198,6 @@
     "Pigengene": [
         "graph",
         "BiocStyle",
-        "bnlearn",
         "C50",
         "MASS",
         "matrixStats",
@@ -109167,7 +109164,6 @@
         "lattice"
     ],
     "PROPS": [
-        "bnlearn",
         "reshape2",
         "sva",
         "Biobase",
@@ -149934,7 +149930,6 @@
         "utf8"
     ],
     "TRONCO": [
-        "bnlearn",
         "Rgraphviz",
         "gtools",
         "foreach",
@@ -173328,7 +173323,6 @@
         "pkgconfig",
         "utf8"
     ],
-    "bnlearn": [],
     "gRain": [
         "gRbase",
         "graph",
