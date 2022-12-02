@@ -2111,8 +2111,7 @@
         "ggtree",
         "scMerge",
         "SoupX",
-        "scRNAseq",
-        "TENxPBMCData"
+        "scRNAseq"
     ],
     "SingleMoleculeFootprinting": [
         "QuasR",
@@ -2612,7 +2611,6 @@
     ],
     "SoupX": [],
     "scRNAseq": [],
-    "TENxPBMCData": [],
     "sampSurf": [],
     "MESS": [],
     "GenKern": [],
