@@ -3635,7 +3635,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "RNAsense": [],
     "RNASeqR": [
         "ballgown",
         "FactoMineR",
