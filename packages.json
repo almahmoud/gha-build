@@ -3614,7 +3614,6 @@
         "GenomicFeatures"
     ],
     "tidySingleCellExperiment": [],
-    "tidySummarizedExperiment": [],
     "timeOmics": [
         "propr"
     ],
