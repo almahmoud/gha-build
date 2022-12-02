@@ -13298,9 +13298,7 @@
     "loci2path": [
         "GenomicRanges"
     ],
-    "logicFS": [
-        "LogicReg"
-    ],
+    "logicFS": [],
     "LOLA": [
         "GenomicRanges"
     ],
@@ -27447,8 +27445,7 @@
         "Biostrings"
     ],
     "trio": [
-        "siggenes",
-        "LogicReg"
+        "siggenes"
     ],
     "triplex": [
         "Biostrings",
@@ -31075,7 +31072,6 @@
         "rmarkdown",
         "shiny"
     ],
-    "LogicReg": [],
     "reldist": [
         "densEstBayes",
         "rstan",
