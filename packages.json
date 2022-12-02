@@ -51,25 +51,17 @@
     "flowCL": [
         "SPARQL"
     ],
-    "GDCRNATools": [
-        "survminer"
-    ],
+    "GDCRNATools": [],
     "GEOexplorer": [
         "factoextra"
     ],
-    "glmSparseNet": [
-        "survminer"
-    ],
+    "glmSparseNet": [],
     "InterCellar": [
         "factoextra"
     ],
-    "iPath": [
-        "survminer"
-    ],
+    "iPath": [],
     "ISAnalytics": [],
-    "ivygapSE": [
-        "survminer"
-    ],
+    "ivygapSE": [],
     "kissDE": [
         "factoextra"
     ],
@@ -96,13 +88,9 @@
     "OMICsPCA": [
         "factoextra"
     ],
-    "omicsViewer": [
-        "survminer"
-    ],
+    "omicsViewer": [],
     "onlineFDR": [],
-    "PDATK": [
-        "survminer"
-    ],
+    "PDATK": [],
     "primirTSS": [
         "JASPAR2018"
     ],
@@ -117,21 +105,16 @@
         "factoextra"
     ],
     "RnaSeqSampleSize": [],
-    "RTCGA": [
-        "survminer"
-    ],
+    "RTCGA": [],
     "RTNsurvival": [],
     "scMAGeCK": [],
     "scRecover": [
         "Rmagic"
     ],
     "signeR": [
-        "survivalAnalysis",
-        "survminer"
+        "survivalAnalysis"
     ],
-    "signifinder": [
-        "survminer"
-    ],
+    "signifinder": [],
     "skewr": [],
     "sojourner": [
         "sampSurf"
@@ -139,9 +122,7 @@
     "spaSim": [],
     "spikeLI": [],
     "SPONGE": [],
-    "survtype": [
-        "survminer"
-    ],
+    "survtype": [],
     "TADCompare": [],
     "TargetDecoy": [],
     "TCGAbiolinksGUI": [
@@ -170,12 +151,9 @@
     "JASPAR2018": [],
     "EntropyExplorer": [],
     "SPARQL": [],
-    "survminer": [],
     "mppa": [],
     "Rmagic": [],
-    "survivalAnalysis": [
-        "survminer"
-    ],
+    "survivalAnalysis": [],
     "sampSurf": [],
     "GenKern": [],
     "vbsr": []
