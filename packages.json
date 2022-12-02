@@ -2,7 +2,6 @@
     "a4": [],
     "abseqR": [],
     "ADaCGH2": [
-        "tilingArray",
         "snapCGH"
     ],
     "ADAMgui": [
@@ -4781,9 +4780,7 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "snapCGH": [
-        "tilingArray"
-    ],
+    "snapCGH": [],
     "snm": [
         "lme4",
         "nloptr"
@@ -5131,7 +5128,6 @@
     "tidybulk": [],
     "tidySingleCellExperiment": [],
     "tidySummarizedExperiment": [],
-    "tilingArray": [],
     "timeOmics": [
         "propr"
     ],
