@@ -28157,7 +28157,6 @@
         "dbplyr",
         "lava"
     ],
-    "TMixClust": [],
     "TNBC.CMS": [
         "SummarizedExperiment",
         "GSVA",
