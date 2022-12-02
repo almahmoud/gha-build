@@ -17064,7 +17064,6 @@
         "dbplyr",
         "SummarizedExperiment"
     ],
-    "SELEX": [],
     "SemDist": [
         "AnnotationDbi",
         "GO.db",
