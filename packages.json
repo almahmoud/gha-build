@@ -1660,7 +1660,6 @@
         "lme4"
     ],
     "ORFik": [],
-    "Organism.dplyr": [],
     "orthogene": [
         "ggpubr",
         "ggtree",
@@ -2390,9 +2389,7 @@
         "textclean"
     ],
     "tximeta": [],
-    "Ularcirc": [
-        "Organism.dplyr"
-    ],
+    "Ularcirc": [],
     "UMI4Cats": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
