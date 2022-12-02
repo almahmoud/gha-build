@@ -14671,7 +14671,6 @@
         "BSgenome",
         "GenomicScores",
         "Gviz",
-        "shinyTree",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -16630,7 +16629,6 @@
     "kml": [],
     "mirbase.db": [],
     "condformat": [],
-    "shinyTree": [],
     "msigdb": [
         "ExperimentHub",
         "GSEABase",
