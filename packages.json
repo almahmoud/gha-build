@@ -55852,7 +55852,6 @@
         "KEGGREST",
         "BiocIO",
         "biomaRt",
-        "lamW",
         "reshape2",
         "clock",
         "hardhat",
@@ -67909,7 +67908,6 @@
         "tidyselect",
         "pillar",
         "ggplot2",
-        "lamW",
         "reshape2",
         "clock",
         "hardhat",
@@ -67946,7 +67944,6 @@
     ],
     "LambertW": [
         "ggplot2",
-        "lamW",
         "reshape2",
         "mgcv",
         "scales",
@@ -67976,7 +67973,6 @@
         "vroom",
         "progress"
     ],
-    "lamW": [],
     "animation": [],
     "tractor.base": [],
     "vbsr": [],
