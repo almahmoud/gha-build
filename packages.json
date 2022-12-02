@@ -1979,7 +1979,6 @@
         "lme4",
         "nloptr"
     ],
-    "GeneMeta": [],
     "GENESIS": [
         "GWASTools",
         "SeqVarTools",
@@ -5550,9 +5549,7 @@
     ],
     "xcms": [],
     "xcore": [],
-    "XDE": [
-        "GeneMeta"
-    ],
+    "XDE": [],
     "Xeva": [
         "PharmacoGx",
         "CoreGx",
