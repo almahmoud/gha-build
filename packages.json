@@ -820,7 +820,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "coda",
         "bbmle",
         "mgcv",
         "scales",
@@ -2136,7 +2135,6 @@
         "RcppEigen",
         "RcppNumerical",
         "plyr",
-        "coda",
         "bbmle",
         "IRanges",
         "GenomeInfoDb",
@@ -3525,7 +3523,6 @@
         "doBy",
         "reshape2",
         "scales",
-        "coda",
         "foreach",
         "ggplot2",
         "broom",
@@ -3797,7 +3794,6 @@
         "class",
         "hexbin",
         "dendextend",
-        "coda",
         "mixtools",
         "biomaRt",
         "ellipsis",
@@ -3872,7 +3868,6 @@
     ],
     "banocc": [
         "rstan",
-        "coda",
         "StanHeaders",
         "ggplot2",
         "gridExtra",
@@ -4015,7 +4010,6 @@
     "BASiCS": [
         "SingleCellExperiment",
         "Biobase",
-        "coda",
         "cowplot",
         "ggExtra",
         "ggplot2",
@@ -4090,7 +4084,6 @@
         "RcppEigen",
         "StanHeaders",
         "Biobase",
-        "coda",
         "cowplot",
         "ggExtra",
         "ggplot2",
@@ -4238,7 +4231,6 @@
         "webshot",
         "egg",
         "highr",
-        "coda",
         "quantreg",
         "plyr",
         "bslib",
@@ -4299,7 +4291,6 @@
         "scater",
         "scran",
         "SummarizedExperiment",
-        "coda",
         "rhdf5",
         "Matrix",
         "RCurl",
@@ -4601,7 +4592,6 @@
         "BiocFileCache",
         "GenomicRanges",
         "IRanges",
-        "coda",
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -6400,7 +6390,6 @@
         "bit64",
         "blob",
         "memoise",
-        "coda",
         "openssl",
         "RcppEigen",
         "highr",
@@ -8278,8 +8267,7 @@
         "openssl",
         "RcppEigen",
         "highr",
-        "cachem",
-        "coda"
+        "cachem"
     ],
     "CAGEr": [
         "MultiAssayExperiment",
@@ -8585,7 +8573,6 @@
         "Biobase",
         "IRanges",
         "GenomicRanges",
-        "coda",
         "EBarrays",
         "gaga",
         "GenomeInfoDb",
@@ -9533,7 +9520,6 @@
         "emmeans",
         "ggplot2",
         "ggrepel",
-        "coda",
         "survival",
         "latticeExtra",
         "gridExtra",
@@ -9843,7 +9829,6 @@
         "viridis",
         "later",
         "MatrixModels",
-        "coda",
         "ellipsis",
         "ggfun",
         "ggplotify",
@@ -9886,7 +9871,6 @@
         "tidyr",
         "futile.logger",
         "broom",
-        "coda",
         "forcats",
         "furrr",
         "flowCore",
@@ -10116,7 +10100,6 @@
         "broom",
         "car",
         "survival",
-        "coda",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -10975,7 +10958,6 @@
         "DelayedArray",
         "htmlwidgets",
         "dbplyr",
-        "coda",
         "bbmle",
         "annotate",
         "htmltools",
@@ -12204,7 +12186,6 @@
         "foreach",
         "hms",
         "later",
-        "coda",
         "lambda.r"
     ],
     "clusterExperiment": [
@@ -12938,7 +12919,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "coda",
         "GenomeInfoDb",
         "GenomicRanges",
         "Biostrings",
@@ -13661,7 +13641,6 @@
         "BiocStyle",
         "rmarkdown",
         "foreach",
-        "coda",
         "bookdown",
         "lifecycle",
         "tibble",
@@ -16931,7 +16910,6 @@
         "plyr",
         "Matrix",
         "lme4",
-        "coda",
         "foreach",
         "ModelMetrics",
         "pROC",
@@ -17552,7 +17530,6 @@
         "tidyselect",
         "pillar",
         "gridExtra",
-        "coda",
         "bbmle",
         "cowplot",
         "survival",
@@ -17796,7 +17773,6 @@
         "ellipsis",
         "purrr",
         "plyr",
-        "coda",
         "bbmle",
         "Biobase",
         "RCurl",
@@ -19118,7 +19094,6 @@
         "ShortRead",
         "htmlwidgets",
         "plyr",
-        "coda",
         "bbmle",
         "lambda.r",
         "annotate",
@@ -19733,7 +19708,6 @@
         "fastDummies",
         "Matrix",
         "lme4",
-        "coda",
         "benchmarkmeData",
         "doParallel",
         "dplyr",
@@ -21166,7 +21140,6 @@
         "bit64",
         "blob",
         "memoise",
-        "coda",
         "MatrixGenerics",
         "DelayedArray",
         "ellipsis",
@@ -22177,7 +22150,6 @@
         "ggplot2",
         "RCurl",
         "XVector",
-        "coda",
         "quantreg",
         "Biostrings",
         "BiocParallel",
@@ -24359,7 +24331,6 @@
         "GenomeInfoDb",
         "XVector",
         "ellipsis",
-        "coda",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -25745,7 +25716,6 @@
     "frenchFISH": [
         "MCMCpack",
         "NHPoisson",
-        "coda",
         "quantreg",
         "car",
         "mgcv",
@@ -26127,7 +26097,6 @@
     ],
     "gaga": [
         "Biobase",
-        "coda",
         "EBarrays",
         "mgcv",
         "Matrix"
@@ -26203,7 +26172,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "lme4",
-        "coda",
         "ModelMetrics",
         "pROC",
         "recipes",
@@ -28688,7 +28656,6 @@
         "ellipsis",
         "mgcv",
         "hms",
-        "coda",
         "purrr",
         "Matrix"
     ],
@@ -29928,7 +29895,6 @@
     "GraphAT": [
         "graph",
         "MCMCpack",
-        "coda",
         "quantreg",
         "Matrix",
         "MatrixModels",
@@ -31603,7 +31569,6 @@
         "mgcv",
         "vctrs",
         "rjags",
-        "coda",
         "R2WinBUGS",
         "dplyr",
         "purrr",
@@ -33156,7 +33121,6 @@
         "SummarizedExperiment",
         "SingleCellExperiment",
         "tidyr",
-        "coda",
         "gridExtra",
         "argparse",
         "survival",
@@ -36471,7 +36435,6 @@
         "scales",
         "class",
         "e1071",
-        "coda",
         "Matrix",
         "reshape2",
         "lifecycle",
@@ -36551,7 +36514,6 @@
         "scales",
         "class",
         "e1071",
-        "coda",
         "reshape2",
         "lifecycle",
         "tibble",
@@ -36718,7 +36680,6 @@
     ],
     "MADSEQ": [
         "rjags",
-        "coda",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicAlignments",
@@ -38396,7 +38357,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "coda",
         "quantreg",
         "gplots",
         "htmltools",
@@ -39581,7 +39541,6 @@
         "MatrixGenerics",
         "sparseMatrixStats",
         "plyr",
-        "coda",
         "bbmle",
         "lambda.r",
         "rhdf5filters",
@@ -39633,7 +39592,6 @@
         "survival",
         "expm",
         "plyr",
-        "coda",
         "bbmle",
         "Matrix",
         "Biobase",
@@ -40286,7 +40244,6 @@
         "rebus.datetimes",
         "rebus.numbers",
         "plyr",
-        "coda",
         "bbmle",
         "Biobase",
         "lambda.r",
@@ -40316,7 +40273,6 @@
         "R.utils",
         "Rhtslib",
         "plyr",
-        "coda",
         "bbmle",
         "Biobase",
         "RCurl",
@@ -40728,7 +40684,6 @@
         "ggmcmc",
         "MCMCpack",
         "MCMCglmm",
-        "coda",
         "tibble",
         "Biobase",
         "lifecycle",
@@ -41707,7 +41662,6 @@
         "Biobase",
         "ggplot2",
         "MCMCpack",
-        "coda",
         "modeest",
         "testthat",
         "scales",
@@ -43157,7 +43111,6 @@
         "pbkrtest",
         "quantreg",
         "e1071",
-        "coda",
         "reshape2",
         "locfit",
         "TMB",
@@ -47227,7 +47180,6 @@
         "Biobase",
         "statnet.common",
         "survey",
-        "coda",
         "pillar",
         "mitools"
     ],
@@ -47759,7 +47711,6 @@
         "HTqPCR",
         "Matrix",
         "lme4",
-        "coda",
         "affy",
         "gplots",
         "affyio",
@@ -51907,7 +51858,6 @@
         "hms",
         "broom",
         "car",
-        "coda",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -52086,7 +52036,6 @@
         "bit64",
         "progress",
         "prodlim",
-        "coda",
         "lava",
         "future.apply",
         "progressr",
@@ -53039,7 +52988,6 @@
         "loo",
         "pkgbuild",
         "ggdist",
-        "coda",
         "arrayhelpers",
         "posterior",
         "ellipsis",
@@ -53903,7 +53851,6 @@
         "dendextend",
         "scales",
         "knitr",
-        "coda",
         "mixtools",
         "plyr",
         "ggplot2",
@@ -54039,7 +53986,6 @@
         "hexbin",
         "dendextend",
         "knitr",
-        "coda",
         "mixtools",
         "biomaRt",
         "RcppArmadillo",
@@ -62743,7 +62689,6 @@
         "scran",
         "Matrix",
         "lme4",
-        "coda",
         "futile.logger",
         "blockmodeling",
         "gplots",
@@ -63304,7 +63249,6 @@
         "rstantools",
         "ggplot2",
         "viridis",
-        "coda",
         "BiocStyle",
         "cowplot",
         "SummarizedExperiment",
@@ -64048,7 +63992,6 @@
         "emdbook",
         "futile.logger",
         "plyr",
-        "coda",
         "bbmle",
         "lambda.r"
     ],
@@ -64700,7 +64643,6 @@
         "mgcv",
         "vctrs",
         "rjags",
-        "coda",
         "R2WinBUGS",
         "dplyr",
         "purrr",
@@ -67739,7 +67681,6 @@
         "optparse",
         "tmvtnorm",
         "MCMCpack",
-        "coda",
         "quantreg",
         "Matrix",
         "gmm",
@@ -68643,7 +68584,6 @@
         "GenomeInfoDb",
         "BSgenome",
         "ggplot2",
-        "coda",
         "mgcv",
         "MBA",
         "sp",
@@ -71178,7 +71118,6 @@
         "diffobj",
         "rematch2",
         "futile.logger",
-        "coda",
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
@@ -72095,7 +72034,6 @@
         "dplyr",
         "futile.logger",
         "plyr",
-        "coda",
         "bbmle",
         "annotate",
         "RCurl",
@@ -76418,7 +76356,6 @@
         "htmlwidgets",
         "dbplyr",
         "plyr",
-        "coda",
         "bbmle",
         "lambda.r",
         "htmltools",
@@ -76442,7 +76379,6 @@
         "RcppArmadillo",
         "Matrix",
         "lme4",
-        "coda",
         "dbplyr",
         "dplyr",
         "RSQLite",
@@ -78212,7 +78148,6 @@
     ],
     "emdbook": [
         "plyr",
-        "coda",
         "bbmle",
         "Matrix"
     ],
@@ -78222,7 +78157,6 @@
         "Matrix"
     ],
     "GetoptLong": [],
-    "coda": [],
     "bbmle": [
         "Matrix"
     ],
@@ -80289,7 +80223,6 @@
     ],
     "rstantools": [],
     "MCMCpack": [
-        "coda",
         "quantreg",
         "Matrix",
         "MatrixModels",
@@ -80370,9 +80303,7 @@
         "zoo"
     ],
     "miscTools": [],
-    "rjags": [
-        "coda"
-    ],
+    "rjags": [],
     "corncob": [
         "optimr",
         "ggplot2",
@@ -81159,7 +81090,6 @@
         "vctrs",
         "Matrix",
         "statnet.common",
-        "coda",
         "pillar"
     ],
     "intergraph": [
@@ -81168,7 +81098,6 @@
         "Matrix",
         "tibble",
         "statnet.common",
-        "coda",
         "lifecycle",
         "pillar",
         "vctrs"
@@ -81186,7 +81115,6 @@
     "network": [
         "tibble",
         "statnet.common",
-        "coda",
         "lifecycle",
         "pillar",
         "vctrs"
@@ -81195,14 +81123,11 @@
         "statnet.common",
         "network",
         "tibble",
-        "coda",
         "lifecycle",
         "pillar",
         "vctrs"
     ],
-    "statnet.common": [
-        "coda"
-    ],
+    "statnet.common": [],
     "shinyBS": [
         "shiny",
         "htmltools",
@@ -81846,13 +81771,10 @@
         "Rdpack"
     ],
     "mvoutlier": [],
-    "FME": [
-        "coda"
-    ],
+    "FME": [],
     "SpatialTools": [
         "spBayes",
         "RcppArmadillo",
-        "coda",
         "sp",
         "magic",
         "Matrix"
@@ -81900,7 +81822,6 @@
         "rematch2"
     ],
     "spBayes": [
-        "coda",
         "sp",
         "magic",
         "Matrix"
@@ -81965,7 +81886,6 @@
     "confintr": [],
     "broom.mixed": [
         "broom",
-        "coda",
         "dplyr",
         "forcats",
         "purrr",
@@ -83740,7 +83660,6 @@
     "arm": [
         "Matrix",
         "lme4",
-        "coda",
         "nloptr",
         "RcppEigen",
         "testthat",
@@ -85151,12 +85070,9 @@
     ],
     "R2jags": [
         "rjags",
-        "coda",
         "R2WinBUGS"
     ],
-    "R2WinBUGS": [
-        "coda"
-    ],
+    "R2WinBUGS": [],
     "servr": [
         "httpuv",
         "promises",
@@ -85643,7 +85559,6 @@
         "vctrs"
     ],
     "cplm": [
-        "coda",
         "Matrix",
         "biglm",
         "ggplot2",
@@ -86241,7 +86156,6 @@
     ],
     "MCMCglmm": [
         "Matrix",
-        "coda",
         "ape"
     ],
     "shinycustomloader": [
@@ -87447,7 +87361,6 @@
         "dplyr",
         "tidyr",
         "ggplot2",
-        "coda",
         "arrayhelpers",
         "tidyselect",
         "tibble",
@@ -88951,7 +88864,6 @@
         "RCurl"
     ],
     "bamlss": [
-        "coda",
         "mgcv",
         "MBA",
         "sp",
