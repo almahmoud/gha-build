@@ -21611,7 +21611,6 @@
         "flowClust",
         "flowMeans",
         "flowMerge",
-        "flowPeaks",
         "foreach",
         "ggplot2",
         "moments",
@@ -26549,7 +26548,6 @@
         "flowCore",
         "flowDensity",
         "SamSPECTRAL",
-        "flowPeaks",
         "Biobase",
         "BiocGenerics",
         "Rcpp",
@@ -38947,7 +38945,6 @@
         "misc3d",
         "nlme"
     ],
-    "flowPeaks": [],
     "flowPloidy": [
         "flowCore",
         "car",
