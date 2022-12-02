@@ -25179,7 +25179,6 @@
         "tibble",
         "pillar"
     ],
-    "paircompviz": [],
     "pairkat": [
         "SummarizedExperiment",
         "KEGGREST",
