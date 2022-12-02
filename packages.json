@@ -48,7 +48,6 @@
     "alpine": [
         "GenomicFeatures"
     ],
-    "AlpsNMR": [],
     "AMARETTO": [
         "curatedTCGAData"
     ],
