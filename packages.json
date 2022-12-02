@@ -2783,7 +2783,6 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "GeneBreak": [],
     "genefilter": [],
     "genefu": [
         "survcomp",
