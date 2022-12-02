@@ -1138,7 +1138,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "netOmics": [],
     "netSmooth": [],
     "netZooR": [
         "yarn",
