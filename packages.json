@@ -29,7 +29,6 @@
     ],
     "artMS": [],
     "ASpediaFI": [
-        "IVAS",
         "Gviz",
         "mGSZ"
     ],
@@ -498,9 +497,7 @@
         "lumi",
         "methylumi"
     ],
-    "IMAS": [
-        "IVAS"
-    ],
+    "IMAS": [],
     "imcRtools": [],
     "InTAD": [
         "ggpubr",
@@ -531,7 +528,6 @@
     ],
     "ISAnalytics": [],
     "IsoformSwitchAnalyzeR": [],
-    "IVAS": [],
     "ivygapSE": [
         "survminer",
         "ggpubr",
