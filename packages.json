@@ -17676,7 +17676,6 @@
         "knitr",
         "htmlwidgets"
     ],
-    "fabia": [],
     "factDesign": [],
     "factR": [
         "Biostrings",
@@ -22839,9 +22838,7 @@
         "memoise",
         "pillar"
     ],
-    "hapFabia": [
-        "fabia"
-    ],
+    "hapFabia": [],
     "Harman": [],
     "Harshlight": [
         "altcdfenvs",
@@ -31243,7 +31240,6 @@
         "NMF",
         "biclust",
         "iBBiG",
-        "fabia",
         "BicARE",
         "s4vd",
         "BiBitR",
@@ -32306,7 +32302,6 @@
     ],
     "mosbi": [
         "igraph",
-        "fabia",
         "biclust",
         "QUBIC",
         "flexclust",
