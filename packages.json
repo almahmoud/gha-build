@@ -7330,7 +7330,6 @@
         "ensembldb",
         "BiocFileCache"
     ],
-    "scry": [],
     "scTensor": [
         "plotly",
         "reactome.db",
