@@ -14212,7 +14212,6 @@
     ],
     "PECA": [
         "genefilter",
-        "aroma.affymetrix",
         "AnnotationDbi",
         "annotate",
         "KEGGREST"
@@ -20134,7 +20133,6 @@
         "treeio"
     ],
     "TIN": [
-        "aroma.affymetrix",
         "WGCNA",
         "Hmisc",
         "GO.db",
@@ -23479,7 +23477,6 @@
         "viridis",
         "ggplot2"
     ],
-    "aroma.affymetrix": [],
     "osfr": [],
     "tidybayes": [
         "ggdist",
