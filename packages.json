@@ -17445,7 +17445,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "TMB",
         "nloptr",
         "glmnet",
         "testthat",
@@ -17482,7 +17481,6 @@
         "tidyselect",
         "pillar",
         "XVector",
-        "TMB",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -20711,7 +20709,6 @@
         "lme4",
         "pbkrtest",
         "quantreg",
-        "TMB",
         "nloptr",
         "glmnet",
         "testthat",
@@ -21947,7 +21944,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "TMB",
         "nloptr",
         "hms",
         "DelayedArray",
@@ -23688,7 +23684,6 @@
         "pillar",
         "nloptr",
         "broom",
-        "TMB",
         "testthat",
         "waldo",
         "rematch2"
@@ -28453,7 +28448,6 @@
     ],
     "RNAdecay": [
         "ggplot2",
-        "TMB",
         "nloptr",
         "tibble",
         "testthat",
@@ -40418,7 +40412,6 @@
     ],
     "chemometrics": [],
     "glmmTMB": [
-        "TMB",
         "lme4",
         "nloptr",
         "testthat",
@@ -40432,7 +40425,6 @@
         "tibble",
         "pillar"
     ],
-    "TMB": [],
     "bigstatsr": [
         "bigparallelr",
         "cowplot",
@@ -41104,7 +41096,6 @@
     "AICcmodavg": [
         "unmarked",
         "lme4",
-        "TMB",
         "nloptr",
         "testthat",
         "waldo",
@@ -41121,7 +41112,6 @@
     ],
     "unmarked": [
         "lme4",
-        "TMB",
         "nloptr",
         "testthat",
         "waldo",
