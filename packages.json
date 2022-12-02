@@ -8303,7 +8303,6 @@
         "VariantAnnotation",
         "viridis"
     ],
-    "HilbertCurve": [],
     "HiLDA": [
         "ggplot2",
         "cowplot",
