@@ -3881,7 +3881,6 @@
         "ggtree",
         "treeio"
     ],
-    "segmentSeq": [],
     "selectKSigs": [
         "HiLDA",
         "GenomicFeatures",
