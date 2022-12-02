@@ -436,7 +436,6 @@
         "testthat"
     ],
     "BiocDockerManager": [],
-    "BiocFHIR": [],
     "biocGraph": [],
     "BiocOncoTK": [
         "GenomicFeatures",
