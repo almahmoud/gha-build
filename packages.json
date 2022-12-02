@@ -516,8 +516,7 @@
     ],
     "BioNERO": [
         "WGCNA",
-        "sva",
-        "ggnetwork"
+        "sva"
     ],
     "BioNetStat": [],
     "biosigner": [
@@ -683,7 +682,6 @@
         "BioNERO",
         "WGCNA",
         "sva",
-        "ggnetwork",
         "biovizBase",
         "BSgenome",
         "VariantAnnotation",
@@ -836,7 +834,6 @@
         "DESeq2",
         "GenomicTools",
         "GGally",
-        "ggnetwork",
         "ggpubr",
         "DOSE",
         "enrichplot",
@@ -4915,7 +4912,6 @@
         "dnet",
         "supraHex",
         "caret",
-        "ggnetwork",
         "recipes"
     ],
     "piano": [],
@@ -6596,7 +6592,6 @@
         "testthat"
     ],
     "syntenet": [
-        "ggnetwork",
         "testthat"
     ],
     "systemPipeR": [],
@@ -7365,7 +7360,6 @@
     "synaptome.data": [
         "AnnotationHub"
     ],
-    "ggnetwork": [],
     "biscuiteerData": [
         "ExperimentHub",
         "AnnotationHub"
