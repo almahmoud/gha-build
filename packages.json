@@ -8063,7 +8063,6 @@
         "DT",
         "dplyr",
         "shiny",
-        "AlgDesign",
         "AnnotationDbi",
         "shinythemes",
         "Biobase",
@@ -58802,7 +58801,6 @@
         "caret",
         "klaR",
         "nlme",
-        "AlgDesign",
         "Biobase",
         "RBGL",
         "graph",
@@ -128563,7 +128561,6 @@
         "diffobj",
         "rematch2"
     ],
-    "AlgDesign": [],
     "shinythemes": [
         "shiny",
         "httpuv",
@@ -137561,7 +137558,6 @@
     "agricolae": [
         "klaR",
         "nlme",
-        "AlgDesign",
         "questionr",
         "lattice",
         "shiny",
