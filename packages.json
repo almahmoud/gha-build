@@ -23425,7 +23425,6 @@
     "clustifyr": [
         "cowplot",
         "dplyr",
-        "entropy",
         "fgsea",
         "ggplot2",
         "Matrix",
@@ -25207,7 +25206,6 @@
         "GenomicRanges",
         "jsonlite",
         "GenomicFeatures",
-        "entropy",
         "BiocManager",
         "rmarkdown",
         "GenomeInfoDb",
@@ -32294,7 +32292,6 @@
         "scatterplot3d",
         "ggrepel",
         "digest",
-        "entropy",
         "RWeka",
         "cli",
         "gtable",
@@ -50167,7 +50164,6 @@
         "ggrepel",
         "iterators",
         "digest",
-        "entropy",
         "RWeka",
         "RCurl",
         "GenomeInfoDbData",
@@ -63876,9 +63872,7 @@
         "sitmo",
         "lattice"
     ],
-    "Informeasure": [
-        "entropy"
-    ],
+    "Informeasure": [],
     "InPAS": [
         "AnnotationDbi",
         "batchtools",
@@ -80898,7 +80892,6 @@
         "stringr",
         "Hmisc",
         "energy",
-        "entropy",
         "gplots",
         "glmnet",
         "impute",
@@ -91244,7 +91237,6 @@
     "netSmooth": [
         "scater",
         "clusterExperiment",
-        "entropy",
         "SummarizedExperiment",
         "SingleCellExperiment",
         "Matrix",
@@ -121172,7 +121164,6 @@
         "hexbin",
         "cluster",
         "dplyr",
-        "entropy",
         "ggforce",
         "scales",
         "concaveman",
@@ -123341,7 +123332,6 @@
         "shiny",
         "hexbin",
         "cluster",
-        "entropy",
         "ggforce",
         "concaveman",
         "GenomicRanges",
@@ -123558,7 +123548,6 @@
         "shiny",
         "hexbin",
         "cluster",
-        "entropy",
         "ggforce",
         "concaveman",
         "GenomicRanges",
@@ -127641,7 +127630,6 @@
     "sincell": [
         "igraph",
         "Rcpp",
-        "entropy",
         "scatterplot3d",
         "MASS",
         "TSP",
@@ -160744,7 +160732,6 @@
     "princurve": [
         "Rcpp"
     ],
-    "entropy": [],
     "genalg": [],
     "bezier": [],
     "brglm": [
@@ -162352,7 +162339,6 @@
     ],
     "FSelector": [
         "digest",
-        "entropy",
         "randomForest",
         "RWeka",
         "RWekajars",
