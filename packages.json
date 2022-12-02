@@ -34419,7 +34419,6 @@
         "fastseg",
         "rtracklayer",
         "R.utils",
-        "rebus.datetimes",
         "bbmle",
         "RCurl",
         "reshape2",
@@ -73482,10 +73481,7 @@
     "PerformanceAnalytics": [
         "xts"
     ],
-    "rebus": [
-        "rebus.datetimes"
-    ],
-    "rebus.datetimes": [],
+    "rebus": [],
     "mhsmm": [],
     "GeneNet": [],
     "ggmcmc": [
