@@ -110,9 +110,7 @@
         "MSstats",
         "lme4"
     ],
-    "ASICS": [
-        "ropls"
-    ],
+    "ASICS": [],
     "ASpediaFI": [
         "GenomicFeatures",
         "IVAS",
@@ -290,9 +288,7 @@
         "synaptome.data"
     ],
     "BioNERO": [],
-    "biosigner": [
-        "ropls"
-    ],
+    "biosigner": [],
     "BioTIP": [],
     "biovizBase": [
         "GenomicFeatures",
@@ -1893,9 +1889,7 @@
         "ggtree",
         "treeio"
     ],
-    "lipidr": [
-        "ropls"
-    ],
+    "lipidr": [],
     "LiquidAssociation": [
         "geepack"
     ],
@@ -2466,9 +2460,7 @@
         "MSstats"
     ],
     "MuData": [],
-    "MultiBaC": [
-        "ropls"
-    ],
+    "MultiBaC": [],
     "multicrispr": [
         "CRISPRseek",
         "GenomicFeatures",
@@ -2485,7 +2477,6 @@
         "ReactomePA",
         "enrichplot",
         "devtools",
-        "ropls",
         "DOSE",
         "ggraph",
         "ggtree",
@@ -2794,8 +2785,7 @@
     ],
     "phenomis": [
         "biodb",
-        "biodbChebi",
-        "ropls"
+        "biodbChebi"
     ],
     "phenoTest": [],
     "PhenStat": [
@@ -2893,9 +2883,7 @@
         "pvca",
         "lme4"
     ],
-    "proFIA": [
-        "ropls"
-    ],
+    "proFIA": [],
     "profileplyr": [
         "soGGi",
         "ChIPseeker",
@@ -3297,7 +3285,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "bumphunter"
     ],
-    "ropls": [],
     "Rqc": [
         "biovizBase",
         "GenomicFiles",
@@ -3306,7 +3293,6 @@
         "ensembldb"
     ],
     "rqt": [
-        "ropls",
         "car",
         "pbkrtest",
         "lme4"
