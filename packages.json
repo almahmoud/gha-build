@@ -1744,9 +1744,7 @@
     "cn.farms": [
         "oligo"
     ],
-    "cn.mops": [
-        "exomeCopy"
-    ],
+    "cn.mops": [],
     "CNEr": [
         "rtracklayer",
         "readr",
@@ -1775,7 +1773,6 @@
         "BSgenome",
         "Hmisc",
         "ensembldb",
-        "exomeCopy",
         "biomaRt",
         "BiocFileCache"
     ],
@@ -1793,13 +1790,11 @@
         "tidyr",
         "Hmisc",
         "ensembldb",
-        "exomeCopy",
         "biomaRt",
         "BSgenome",
         "BiocFileCache"
     ],
     "CNVPanelizer": [
-        "exomeCopy",
         "testthat",
         "waldo"
     ],
@@ -2028,7 +2023,6 @@
     "contiBAIT": [
         "GenomicFiles",
         "rtracklayer",
-        "exomeCopy",
         "VariantAnnotation",
         "BSgenome",
         "GenomicFeatures",
@@ -2056,7 +2050,6 @@
         "regioneR",
         "VariantAnnotation",
         "cn.mops",
-        "exomeCopy",
         "rtracklayer",
         "biovizBase",
         "GenomicFeatures",
@@ -3482,7 +3475,6 @@
     "ExCluster": [
         "rtracklayer"
     ],
-    "exomeCopy": [],
     "exomePeak2": [
         "GenomicFeatures",
         "DESeq2",
@@ -7599,8 +7591,7 @@
     ],
     "pandaR": [],
     "panelcn.mops": [
-        "cn.mops",
-        "exomeCopy"
+        "cn.mops"
     ],
     "PanomiR": [
         "clusterProfiler",
