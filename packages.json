@@ -22,7 +22,6 @@
         "ReportingTools",
         "Glimma",
         "DESeq2",
-        "Category",
         "ggbio",
         "biovizBase",
         "VariantAnnotation",
@@ -37,7 +36,6 @@
         "ReportingTools",
         "Glimma",
         "DESeq2",
-        "Category",
         "ggbio",
         "biovizBase",
         "VariantAnnotation",
@@ -213,8 +211,7 @@
         "CNEr"
     ],
     "attract": [
-        "GOstats",
-        "Category"
+        "GOstats"
     ],
     "autonomics": [],
     "BaalChIP": [
@@ -519,7 +516,6 @@
     "CAMERA": [],
     "canceR": [
         "phenoTest",
-        "Category",
         "biomaRt"
     ],
     "CancerInSilico": [],
@@ -545,9 +541,7 @@
         "rstatix",
         "nloptr"
     ],
-    "Category": [],
     "categoryCompare": [
-        "Category",
         "GOstats"
     ],
     "cbaf": [
@@ -575,9 +569,7 @@
     ],
     "CellBarcode": [],
     "CellBench": [],
-    "cellHTS2": [
-        "Category"
-    ],
+    "cellHTS2": [],
     "CelliD": [
         "Seurat",
         "scater"
@@ -2022,8 +2014,7 @@
     "gep2pep": [],
     "gespeR": [
         "cellHTS2",
-        "biomaRt",
-        "Category"
+        "biomaRt"
     ],
     "GEWIST": [
         "car",
@@ -2081,7 +2072,6 @@
         "biomaRt"
     ],
     "GmicR": [
-        "Category",
         "gRain",
         "GOstats"
     ],
@@ -2113,9 +2103,7 @@
     "goSTAG": [
         "biomaRt"
     ],
-    "GOstats": [
-        "Category"
-    ],
+    "GOstats": [],
     "GOTHiC": [],
     "GRaNIE": [
         "DESeq2",
@@ -2287,7 +2275,6 @@
         "goseq",
         "GOstats",
         "geneLenDataBase",
-        "Category",
         "biomaRt",
         "GenomicFeatures"
     ],
@@ -2297,8 +2284,7 @@
         "biomaRt"
     ],
     "imageHTS": [
-        "cellHTS2",
-        "Category"
+        "cellHTS2"
     ],
     "IMAS": [
         "GenomicFeatures",
@@ -2351,9 +2337,7 @@
         "ensembldb",
         "biomaRt"
     ],
-    "interactiveDisplay": [
-        "Category"
-    ],
+    "interactiveDisplay": [],
     "InterCellar": [
         "factoextra",
         "biomaRt",
@@ -2712,9 +2696,7 @@
         "ggtree",
         "treeio"
     ],
-    "meshr": [
-        "Category"
-    ],
+    "meshr": [],
     "Metab": [],
     "metabCombiner": [
         "caret"
@@ -2953,8 +2935,7 @@
         "mice"
     ],
     "MIGSA": [
-        "GOstats",
-        "Category"
+        "GOstats"
     ],
     "miloR": [
         "ggraph"
@@ -2965,7 +2946,6 @@
         "biomaRt",
         "GOstats",
         "lumi",
-        "Category",
         "methylumi",
         "GenomicFeatures",
         "FDb.InfiniumMethylation.hg19",
@@ -2989,7 +2969,6 @@
     ],
     "miRLAB": [
         "TCGAbiolinks",
-        "Category",
         "GOstats",
         "biomaRt"
     ],
@@ -3389,7 +3368,6 @@
     "netZooR": [
         "yarn",
         "GOstats",
-        "Category",
         "biomaRt",
         "quantro",
         "minfi",
@@ -3614,8 +3592,7 @@
         "DESeq2",
         "heatmaply",
         "GOstats",
-        "biomaRt",
-        "Category"
+        "biomaRt"
     ],
     "PDATK": [
         "CoreGx",
@@ -3656,7 +3633,6 @@
         "ropls"
     ],
     "phenoTest": [
-        "Category",
         "biomaRt"
     ],
     "PhenStat": [
@@ -3711,8 +3687,7 @@
     ],
     "pipeFrame": [],
     "PloGO2": [
-        "GOstats",
-        "Category"
+        "GOstats"
     ],
     "plotgardener": [
         "plyranges"
@@ -4076,7 +4051,6 @@
     ],
     "Repitools": [],
     "ReportingTools": [
-        "Category",
         "GOstats",
         "DESeq2",
         "ggbio",
@@ -4227,8 +4201,7 @@
         "biomaRt"
     ],
     "RNAinteract": [
-        "cellHTS2",
-        "Category"
+        "cellHTS2"
     ],
     "RNAmodR": [
         "GenomicFeatures",
@@ -4500,7 +4473,6 @@
     ],
     "scTensor": [
         "heatmaply",
-        "Category",
         "meshr",
         "GOstats",
         "ReactomePA",
@@ -4869,8 +4841,7 @@
         "GenomicFeatures"
     ],
     "staRank": [
-        "cellHTS2",
-        "Category"
+        "cellHTS2"
     ],
     "StarBioTrek": [
         "SpidermiR",
