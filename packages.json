@@ -1721,7 +1721,6 @@
         "VariantAnnotation",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "deconstructSigs",
         "decompTumor2Sig",
         "factoextra",
         "FactoMineR",
@@ -2967,7 +2966,6 @@
     "blme": [
         "lme4"
     ],
-    "deconstructSigs": [],
     "mppa": [],
     "RcmdrMisc": [
         "car",
