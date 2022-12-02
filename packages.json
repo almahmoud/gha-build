@@ -6378,7 +6378,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "spBayes",
         "mgcv",
         "pbkrtest",
         "quantreg",
@@ -55159,9 +55158,7 @@
         "pillar"
     ],
     "mvoutlier": [],
-    "SpatialTools": [
-        "spBayes"
-    ],
+    "SpatialTools": [],
     "FactoMineR": [
         "car",
         "DT",
@@ -55189,7 +55186,6 @@
         "waldo",
         "rematch2"
     ],
-    "spBayes": [],
     "EnvStats": [
         "ggplot2",
         "mgcv",
