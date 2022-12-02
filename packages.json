@@ -18422,7 +18422,6 @@
         "tm",
         "text2vec",
         "textstem",
-        "stopwords",
         "DiagrammeR",
         "httr",
         "rvest",
@@ -28813,7 +28812,6 @@
         "tm",
         "text2vec",
         "textstem",
-        "stopwords",
         "DiagrammeR",
         "dplyr",
         "downloader",
@@ -76706,7 +76704,6 @@
         "text2vec",
         "tokenizers",
         "textstem",
-        "stopwords",
         "purrr",
         "DiagrammeR",
         "dplyr",
@@ -77437,7 +77434,6 @@
         "tm",
         "text2vec",
         "textstem",
-        "stopwords",
         "RcppAnnoy",
         "dqrng",
         "httr",
@@ -78237,7 +78233,6 @@
         "RcppArmadillo",
         "sylly.en",
         "syuzhet",
-        "stopwords",
         "ellipsis",
         "purrr",
         "gridExtra",
@@ -86375,14 +86370,12 @@
         "Matrix",
         "sylly.en",
         "syuzhet",
-        "stopwords",
         "RcppArmadillo",
         "zoo",
         "tidyr",
         "ellipsis",
         "purrr"
     ],
-    "stopwords": [],
     "rsparse": [
         "Matrix",
         "MatrixExtra",
@@ -86417,7 +86410,6 @@
     "quanteda": [
         "Matrix",
         "SnowballC",
-        "stopwords",
         "RcppArmadillo"
     ],
     "textclean": [
