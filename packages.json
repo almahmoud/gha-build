@@ -15079,7 +15079,6 @@
         "KEGGREST",
         "shiny"
     ],
-    "OCplus": [],
     "octad": [
         "dplyr",
         "ggplot2",
