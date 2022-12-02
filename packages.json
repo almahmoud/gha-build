@@ -1312,7 +1312,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "GeneTonic": [],
     "GenomicFeatures": [],
     "GenomicFiles": [
         "VariantAnnotation",
