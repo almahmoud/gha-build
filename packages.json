@@ -15504,7 +15504,6 @@
     ],
     "RcisTarget": [
         "AUCell",
-        "arrow",
         "dplyr",
         "GSEABase",
         "SummarizedExperiment",
@@ -23372,7 +23371,6 @@
         "KEGGREST",
         "SummarizedExperiment"
     ],
-    "arrow": [],
     "neo4r": [
         "tidyr",
         "dplyr"
