@@ -683,7 +683,6 @@
     "CODEX": [
         "BSgenome.Hsapiens.UCSC.hg19"
     ],
-    "coexnet": [],
     "cogena": [
         "devtools"
     ],
