@@ -631,7 +631,6 @@
         "pbkrtest"
     ],
     "GENESIS": [
-        "GWASTools",
         "SeqVarTools"
     ],
     "GeneStructureTools": [
@@ -714,10 +713,7 @@
         "biovizBase"
     ],
     "gwascat": [],
-    "GWASTools": [],
-    "gwasurvivr": [
-        "GWASTools"
-    ],
+    "gwasurvivr": [],
     "HelloRanges": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -875,9 +871,7 @@
     "MBECS": [
         "lmerTest"
     ],
-    "mBPCR": [
-        "GWASTools"
-    ],
+    "mBPCR": [],
     "mCSEA": [
         "Homo.sapiens",
         "Gviz",
