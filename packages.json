@@ -6800,7 +6800,6 @@
         "ShortRead",
         "Biostrings",
         "egg",
-        "Ckmeans.1d.dp",
         "seqinr",
         "IRanges",
         "XVector",
@@ -12932,7 +12931,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "Ckmeans.1d.dp",
         "viridis",
         "dendextend",
         "seriation",
@@ -20451,7 +20449,6 @@
         "htmlwidgets"
     ],
     "GenomicOZone": [
-        "Ckmeans.1d.dp",
         "GenomicRanges",
         "biomaRt",
         "ggplot2",
@@ -22858,9 +22855,7 @@
     "hapFabia": [
         "fabia"
     ],
-    "Harman": [
-        "Ckmeans.1d.dp"
-    ],
+    "Harman": [],
     "Harshlight": [
         "altcdfenvs",
         "makecdfenv",
@@ -56747,7 +56742,6 @@
         "ggplot2",
         "scales",
         "reshape2",
-        "Ckmeans.1d.dp",
         "futile.logger",
         "IRanges",
         "sparseMatrixStats",
@@ -60396,7 +60390,6 @@
         "vctrs",
         "pillar"
     ],
-    "Ckmeans.1d.dp": [],
     "mvoutlier": [],
     "FME": [],
     "SpatialTools": [
