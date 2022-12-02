@@ -7488,8 +7488,7 @@
         "viridis"
     ],
     "h5vc": [
-        "ggplot2",
-        "BatchJobs"
+        "ggplot2"
     ],
     "Harshlight": [],
     "hca": [
@@ -12393,9 +12392,7 @@
         "waldo",
         "rematch2"
     ],
-    "parglms": [
-        "BatchJobs"
-    ],
+    "parglms": [],
     "PAST": [
         "dplyr",
         "qvalue",
@@ -20239,7 +20236,6 @@
     "ggwordcloud": [
         "ggplot2"
     ],
-    "BatchJobs": [],
     "HiContactsData": [
         "ExperimentHub",
         "BiocFileCache",
