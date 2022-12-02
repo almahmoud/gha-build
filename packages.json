@@ -3863,7 +3863,6 @@
     "MIMOSA": [
         "testthat"
     ],
-    "mina": [],
     "MineICA": [
         "biomaRt",
         "GOstats",
