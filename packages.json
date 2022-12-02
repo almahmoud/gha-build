@@ -88,8 +88,7 @@
     ],
     "biscuiteer": [
         "Mus.musculus",
-        "Homo.sapiens",
-        "dmrseq"
+        "Homo.sapiens"
     ],
     "BitSeq": [],
     "BOBaFIT": [
@@ -347,7 +346,6 @@
     "DMRforPairs": [
         "Gviz"
     ],
-    "dmrseq": [],
     "DominoEffect": [],
     "Doscheda": [
         "drc",
