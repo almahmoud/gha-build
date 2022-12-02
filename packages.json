@@ -84193,7 +84193,6 @@
         "metap",
         "igraph",
         "networkD3",
-        "easyPubMed",
         "htmltools",
         "rmarkdown",
         "ggnewscale",
@@ -162357,7 +162356,6 @@
         "Rcpp",
         "utf8"
     ],
-    "easyPubMed": [],
     "googleAuthR": [
         "assertthat",
         "cli",
