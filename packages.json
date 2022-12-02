@@ -294,7 +294,6 @@
         "tidyr"
     ],
     "AnVILBilling": [
-        "shinytoastr",
         "plotly",
         "tidyr"
     ],
@@ -13188,7 +13187,6 @@
         "drawer",
         "plotly",
         "shinydashboardPlus",
-        "shinytoastr",
         "tidyr"
     ],
     "systemPipeTools": [
@@ -14426,7 +14424,6 @@
         "tidyr"
     ],
     "ipred": [],
-    "shinytoastr": [],
     "org.Sc.sgd.db": [],
     "Seurat": [
         "cowplot",
@@ -15780,9 +15777,7 @@
         "viridis"
     ],
     "stars": [],
-    "spsComps": [
-        "shinytoastr"
-    ],
+    "spsComps": [],
     "drawer": [],
     "GenKern": [],
     "ttservice": [],
