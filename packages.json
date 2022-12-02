@@ -1255,7 +1255,6 @@
     "BiocStyle": [
         "bookdown"
     ],
-    "biocthis": [],
     "BiocWorkflowTools": [
         "BiocStyle",
         "bookdown"
@@ -7699,7 +7698,6 @@
     ],
     "HubPub": [
         "available",
-        "biocthis",
         "dplyr",
         "tidytext"
     ],
