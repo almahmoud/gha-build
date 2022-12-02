@@ -387,7 +387,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "condiments": [],
     "consensusDE": [
         "EnsDb.Hsapiens.v86",
         "RUVSeq",
