@@ -20302,7 +20302,6 @@
         "ggplot2",
         "ggExtra",
         "MSnbase",
-        "qcmetrics",
         "tibble",
         "tidyselect",
         "pillar",
@@ -20328,7 +20327,6 @@
         "miniUI",
         "shinyjs",
         "MSnbase",
-        "qcmetrics",
         "tidyr",
         "bslib",
         "vsn"
@@ -24875,7 +24873,6 @@
         "tidyselect",
         "pillar"
     ],
-    "qcmetrics": [],
     "QDNAseq": [
         "GenomicRanges",
         "Rsamtools",
