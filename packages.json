@@ -3833,7 +3833,6 @@
         "Biostrings",
         "rtracklayer"
     ],
-    "CGEN": [],
     "cghMCR": [
         "CNTools",
         "genefilter",
