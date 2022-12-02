@@ -2699,7 +2699,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "KEGGgraph",
         "AnnotationDbi",
         "org.Hs.eg.db",
         "KEGGREST",
@@ -2903,7 +2902,6 @@
         "hgu133plus2.db",
         "hgu133a.db",
         "KEGGREST",
-        "KEGGgraph",
         "RSQLite",
         "org.Hs.eg.db",
         "Biostrings",
@@ -5122,7 +5120,6 @@
     ],
     "clipper": [
         "qpgraph",
-        "KEGGgraph",
         "annotate",
         "AnnotationDbi",
         "GenomicRanges",
@@ -7466,7 +7463,6 @@
         "viridis",
         "dendextend",
         "egg",
-        "KEGGgraph",
         "bslib",
         "genefilter",
         "ggfun",
@@ -7702,7 +7698,6 @@
         "hms"
     ],
     "DEGraph": [
-        "KEGGgraph",
         "NCIgraph",
         "RCy3",
         "IRkernel",
@@ -9040,7 +9035,6 @@
         "mutoss",
         "hgu133plus2.db",
         "hgu133a.db",
-        "KEGGgraph",
         "tidyr",
         "dplyr",
         "ScaledMatrix",
@@ -9217,7 +9211,6 @@
         "GSEABase",
         "GO.db",
         "KEGGREST",
-        "KEGGgraph",
         "SPIA",
         "graphite",
         "pathview",
@@ -11384,7 +11377,6 @@
         "fgsea",
         "readr",
         "tibble",
-        "KEGGgraph",
         "KEGGREST",
         "bslib",
         "ggpubr",
@@ -13039,7 +13031,6 @@
         "dbplyr",
         "GSEABase",
         "GO.db",
-        "KEGGgraph",
         "SPIA",
         "graphite",
         "pathview",
@@ -15128,12 +15119,10 @@
     "kebabs": [
         "Biostrings"
     ],
-    "KEGGgraph": [],
     "KEGGlincs": [
         "hgu133a.db",
         "org.Hs.eg.db",
         "AnnotationDbi",
-        "KEGGgraph",
         "KEGGREST",
         "RSQLite",
         "Biostrings",
@@ -15907,7 +15896,6 @@
         "tibble",
         "babelgene",
         "tidyselect",
-        "KEGGgraph",
         "org.Hs.eg.db",
         "KEGGREST",
         "RSQLite",
@@ -16715,7 +16703,6 @@
         "pillar"
     ],
     "MetaboSignal": [
-        "KEGGgraph",
         "KEGGREST",
         "EnsDb.Hsapiens.v75",
         "org.Hs.eg.db",
@@ -18168,7 +18155,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "KEGGgraph",
         "Biostrings",
         "blob",
         "pillar"
@@ -19912,7 +19898,6 @@
         "car",
         "ggplot2",
         "SummarizedExperiment",
-        "KEGGgraph",
         "KEGGREST",
         "pbkrtest",
         "quantreg",
@@ -20197,7 +20182,6 @@
         "pillar"
     ],
     "NCIgraph": [
-        "KEGGgraph",
         "RCy3",
         "IRkernel",
         "IRdisplay",
@@ -21891,7 +21875,6 @@
         "pillar"
     ],
     "pathview": [
-        "KEGGgraph",
         "AnnotationDbi",
         "org.Hs.eg.db",
         "KEGGREST",
@@ -22141,7 +22124,6 @@
         "pillar"
     ],
     "PFP": [
-        "KEGGgraph",
         "clusterProfiler",
         "ggplot2",
         "tidyr",
@@ -25872,7 +25854,6 @@
         "car",
         "DT",
         "tibble",
-        "KEGGgraph",
         "KEGGREST",
         "ShortRead",
         "RSQLite",
@@ -26034,7 +26015,6 @@
     ],
     "ROntoTools": [
         "KEGGREST",
-        "KEGGgraph",
         "Biostrings"
     ],
     "ropls": [
@@ -26540,7 +26520,6 @@
         "bookdown",
         "RSQLite",
         "Biostrings",
-        "KEGGgraph",
         "org.Hs.eg.db",
         "bslib",
         "GenomicRanges",
@@ -29370,9 +29349,7 @@
         "Rsamtools",
         "Biostrings"
     ],
-    "SPIA": [
-        "KEGGgraph"
-    ],
+    "SPIA": [],
     "SPIAT": [
         "SpatialExperiment",
         "ggplot2",
@@ -30860,7 +30837,6 @@
         "progress",
         "ggpubr",
         "rtracklayer",
-        "KEGGgraph",
         "org.Hs.eg.db",
         "KEGGREST",
         "hms",
@@ -33207,7 +33183,6 @@
         "BiocFileCache",
         "GO.db",
         "KEGGREST",
-        "KEGGgraph",
         "SPIA",
         "graphite",
         "pathview",
