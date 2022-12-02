@@ -21,17 +21,12 @@
     "CiteFuse": [
         "propr"
     ],
-    "conclus": [
-        "factoextra"
-    ],
+    "conclus": [],
     "CyTOFpower": [
         "CytoGLMM",
-        "diffcyt",
-        "factoextra"
+        "diffcyt"
     ],
-    "CytoGLMM": [
-        "factoextra"
-    ],
+    "CytoGLMM": [],
     "DAPAR": [
         "DAPARdata"
     ],
@@ -52,19 +47,13 @@
         "SPARQL"
     ],
     "GDCRNATools": [],
-    "GEOexplorer": [
-        "factoextra"
-    ],
+    "GEOexplorer": [],
     "glmSparseNet": [],
-    "InterCellar": [
-        "factoextra"
-    ],
+    "InterCellar": [],
     "iPath": [],
     "ISAnalytics": [],
     "ivygapSE": [],
-    "kissDE": [
-        "factoextra"
-    ],
+    "kissDE": [],
     "MEAT": [],
     "MetaCyto": [],
     "methylclock": [],
@@ -75,19 +64,13 @@
     "miRspongeR": [
         "SPONGE"
     ],
-    "MSstatsLiP": [
-        "factoextra"
-    ],
-    "musicatk": [
-        "factoextra"
-    ],
+    "MSstatsLiP": [],
+    "musicatk": [],
     "NBSplice": [
         "mppa"
     ],
     "ODER": [],
-    "OMICsPCA": [
-        "factoextra"
-    ],
+    "OMICsPCA": [],
     "omicsViewer": [],
     "onlineFDR": [],
     "PDATK": [],
@@ -98,12 +81,8 @@
         "DAPAR",
         "DAPARdata"
     ],
-    "protGear": [
-        "factoextra"
-    ],
-    "RNASeqR": [
-        "factoextra"
-    ],
+    "protGear": [],
+    "RNASeqR": [],
     "RnaSeqSampleSize": [],
     "RTCGA": [],
     "scMAGeCK": [],
@@ -144,7 +123,6 @@
     "GenomicTools": [],
     "spp": [],
     "propr": [],
-    "factoextra": [],
     "DAPARdata": [],
     "JASPAR2018": [],
     "EntropyExplorer": [],
