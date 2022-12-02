@@ -562,18 +562,13 @@
         "ggpubr",
         "FactoMineR",
         "rstatix",
-        "MSstatsTMT",
         "car"
     ],
-    "MSstatsPTM": [
-        "MSstatsTMT"
-    ],
+    "MSstatsPTM": [],
     "MSstatsSampleSize": [],
     "MSstatsShiny": [
-        "MSstatsTMT",
         "MSstatsPTM"
     ],
-    "MSstatsTMT": [],
     "multicrispr": [
         "karyoploteR"
     ],
