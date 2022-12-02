@@ -303,7 +303,6 @@
         "dplyr",
         "shiny",
         "stringr",
-        "varhandle",
         "ggplot2",
         "ggrepel",
         "ggpubr",
@@ -84735,7 +84734,6 @@
         "promises",
         "later"
     ],
-    "varhandle": [],
     "ggrepel": [
         "ggplot2",
         "scales",
