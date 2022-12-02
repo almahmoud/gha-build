@@ -14159,7 +14159,6 @@
         "tidyselect",
         "ellipsis"
     ],
-    "ctc": [],
     "CTDquerier": [
         "RCurl",
         "ggplot2",
@@ -37432,7 +37431,6 @@
         "TCGAbiolinks",
         "dplyr",
         "SummarizedExperiment",
-        "ctc",
         "InvariantCausalPrediction",
         "Category",
         "GOstats",
@@ -40192,7 +40190,6 @@
         "openssl"
     ],
     "multiClust": [
-        "ctc",
         "survival",
         "dendextend",
         "ggplot2",
