@@ -9813,7 +9813,6 @@
         "vsn"
     ],
     "loci2path": [],
-    "LOLA": [],
     "LoomExperiment": [
         "SingleCellExperiment",
         "SummarizedExperiment"
