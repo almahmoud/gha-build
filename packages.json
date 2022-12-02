@@ -13029,7 +13029,6 @@
         "tibble",
         "pillar"
     ],
-    "flowMatch": [],
     "flowMeans": [
         "rrcov",
         "feature",
