@@ -5689,7 +5689,6 @@
         "dbplyr",
         "broom"
     ],
-    "GateFinder": [],
     "GBScleanR": [
         "ggplot2",
         "tidyr"
