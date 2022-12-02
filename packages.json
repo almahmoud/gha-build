@@ -4785,7 +4785,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "gCrisprTools": [],
     "GCSscore": [
         "devtools",
         "testthat",
