@@ -2696,9 +2696,7 @@
         "treeio"
     ],
     "girafe": [],
-    "GISPA": [
-        "HH"
-    ],
+    "GISPA": [],
     "Glimma": [
         "DESeq2"
     ],
@@ -7565,7 +7563,6 @@
     "ggalt": [
         "plotly"
     ],
-    "HH": [],
     "gRain": [
         "broom"
     ],
