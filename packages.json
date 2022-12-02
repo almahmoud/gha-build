@@ -25670,7 +25670,6 @@
         "ArrayExpress",
         "GEOquery",
         "DrugVsDiseasedata",
-        "cMap2data",
         "qvalue",
         "annotate",
         "hgu133a.db",
@@ -106196,7 +106195,6 @@
     ],
     "corrgram": [],
     "DrugVsDiseasedata": [],
-    "cMap2data": [],
     "hgu133a2.db": [
         "AnnotationDbi",
         "org.Hs.eg.db",
