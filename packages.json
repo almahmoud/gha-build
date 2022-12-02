@@ -3246,7 +3246,6 @@
         "VariantAnnotation",
         "GenomicFeatures"
     ],
-    "SeqGSEA": [],
     "SeqSQC": [],
     "SeqVarTools": [
         "logistf"
