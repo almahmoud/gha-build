@@ -10282,7 +10282,6 @@
         "rematch2"
     ],
     "CellMixS": [
-        "kSamples",
         "BiocNeighbors",
         "ggplot2",
         "scater",
@@ -55663,7 +55662,6 @@
         "purrr",
         "promises",
         "Rmpfr",
-        "kSamples",
         "BWStest",
         "RcppEigen",
         "MatrixGenerics",
@@ -71032,7 +71030,6 @@
         "doParallel",
         "Biobase",
         "Rmpfr",
-        "kSamples",
         "BWStest",
         "inaparc",
         "plyr",
@@ -83102,7 +83099,6 @@
         "scales",
         "httr",
         "Rmpfr",
-        "kSamples",
         "BWStest",
         "plyr",
         "stringr",
@@ -88321,7 +88317,6 @@
         "Matrix"
     ],
     "magic": [],
-    "kSamples": [],
     "cba": [],
     "dtw": [],
     "EnvStats": [
@@ -94285,7 +94280,6 @@
     "celestial": [],
     "PMCMRplus": [
         "Rmpfr",
-        "kSamples",
         "BWStest",
         "memoise",
         "cachem"
