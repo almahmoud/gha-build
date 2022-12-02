@@ -5616,7 +5616,6 @@
         "vroom",
         "tzdb",
         "crul",
-        "fauxpas",
         "selectr",
         "urltools",
         "blob",
@@ -80816,7 +80815,6 @@
     "rorcid": [
         "crul",
         "httr",
-        "fauxpas",
         "tibble",
         "urltools",
         "openssl",
@@ -80824,7 +80822,6 @@
         "pillar",
         "vctrs"
     ],
-    "fauxpas": [],
     "styler": [
         "purrr",
         "R.cache",
