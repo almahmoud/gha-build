@@ -236,7 +236,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "scater",
-        "smurf",
         "apeglm",
         "dplyr",
         "ggplot2",
@@ -23927,7 +23926,6 @@
         "ggplot2",
         "tibble"
     ],
-    "smurf": [],
     "ggbeeswarm": [
         "ggplot2",
         "tibble"
