@@ -19168,7 +19168,6 @@
         "DT",
         "factoextra",
         "heatmaply",
-        "maptools",
         "pheatmap",
         "scales",
         "shinyHeatmaply",
@@ -57719,7 +57718,6 @@
         "rrcov"
     ],
     "roptim": [],
-    "maptools": [],
     "shinyHeatmaply": [
         "heatmaply",
         "shiny",
