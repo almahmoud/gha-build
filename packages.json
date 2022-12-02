@@ -31,7 +31,6 @@
         "ensembldb",
         "biomaRt"
     ],
-    "AGDEX": [],
     "AgiMicroRna": [
         "affycoretools",
         "GOstats",
