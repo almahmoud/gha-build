@@ -54421,7 +54421,6 @@
         "pkgconfig",
         "withr"
     ],
-    "genoCN": [],
     "genomation": [
         "Biostrings",
         "BSgenome",
