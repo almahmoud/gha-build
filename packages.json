@@ -15870,7 +15870,6 @@
     ],
     "mAPKL": [
         "multtest",
-        "clusterSim",
         "AnnotationDbi",
         "reactome.db",
         "RSQLite",
@@ -16063,7 +16062,6 @@
     "mbOmic": [
         "WGCNA",
         "visNetwork",
-        "clusterSim",
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
@@ -36157,7 +36155,6 @@
         "vroom",
         "progress"
     ],
-    "clusterSim": [],
     "PairedData": [
         "gld",
         "ggplot2",
