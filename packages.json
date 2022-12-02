@@ -131,7 +131,6 @@
     "chimeraviz": [
         "Gviz"
     ],
-    "ChIPseeker": [],
     "cicero": [
         "Gviz"
     ],
@@ -278,9 +277,7 @@
         "rstatix",
         "car"
     ],
-    "EpiCompare": [
-        "ChIPseeker"
-    ],
+    "EpiCompare": [],
     "epidecodeR": [
         "rstatix",
         "ggpubr",
@@ -304,7 +301,6 @@
     ],
     "erma": [],
     "esATAC": [
-        "ChIPseeker",
         "JASPAR2018"
     ],
     "EWCE": [
@@ -772,9 +768,7 @@
         "JASPAR2018"
     ],
     "proBatch": [],
-    "profileplyr": [
-        "ChIPseeker"
-    ],
+    "profileplyr": [],
     "Prostar": [
         "DAPAR",
         "DAPARdata"
@@ -912,9 +906,7 @@
     ],
     "scTGIF": [],
     "scTreeViz": [],
-    "segmenter": [
-        "ChIPseeker"
-    ],
+    "segmenter": [],
     "selectKSigs": [],
     "shinyepico": [],
     "shinyMethyl": [
