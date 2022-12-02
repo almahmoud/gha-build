@@ -111,9 +111,7 @@
         "rstatix"
     ],
     "contiBAIT": [],
-    "conumee": [
-        "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
-    ],
+    "conumee": [],
     "CopyNumberPlots": [],
     "crisprVerse": [
         "crisprViz"
@@ -203,9 +201,7 @@
     "epihet": [
         "EntropyExplorer"
     ],
-    "epimutacions": [
-        "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
-    ],
+    "epimutacions": [],
     "erma": [],
     "esATAC": [
         "JASPAR2018"
@@ -731,7 +727,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [],
     "DAPARdata": [],
     "VIM": [],
     "JASPAR2018": [],
