@@ -192,7 +192,6 @@
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "CNEr",
-        "haven",
         "modelr"
     ],
     "ATACseqQC": [
@@ -927,8 +926,7 @@
         "VariantAnnotation"
     ],
     "ComPrAn": [
-        "rio",
-        "haven"
+        "rio"
     ],
     "conclus": [
         "factoextra",
@@ -1052,8 +1050,7 @@
         "ChIPpeakAnno",
         "rio",
         "ensembldb",
-        "regioneR",
-        "haven"
+        "regioneR"
     ],
     "crisprVerse": [
         "crisprBowtie",
@@ -1203,7 +1200,6 @@
         "ggraph",
         "epiNEM",
         "mnem",
-        "haven",
         "modelr"
     ],
     "ddPCRclust": [
@@ -2238,8 +2234,7 @@
         "rio",
         "ensembldb",
         "biomaRt",
-        "regioneR",
-        "haven"
+        "regioneR"
     ],
     "Guitar": [
         "GenomicFeatures",
@@ -2493,8 +2488,7 @@
     ],
     "ISAnalytics": [
         "datamods",
-        "rio",
-        "haven"
+        "rio"
     ],
     "iSEE": [],
     "iSEEhex": [
@@ -2593,7 +2587,6 @@
         "ggpubr",
         "rio",
         "rstatix",
-        "haven",
         "car",
         "pbkrtest",
         "lme4",
@@ -2707,7 +2700,6 @@
     "MAI": [
         "caret",
         "tidyverse",
-        "haven",
         "modelr"
     ],
     "MAIT": [
@@ -2717,8 +2709,7 @@
         "caret",
         "klaR",
         "questionr",
-        "labelled",
-        "haven"
+        "labelled"
     ],
     "mAPKL": [],
     "maPredictDSC": [
@@ -2943,7 +2934,6 @@
         "ExperimentHubData",
         "bumphunter",
         "GEOquery",
-        "haven",
         "modelr",
         "GenomicFeatures",
         "AnnotationHubData",
@@ -3126,7 +3116,6 @@
         "lme4",
         "ggtree",
         "rstatix",
-        "haven",
         "modelr",
         "treeio",
         "nloptr",
@@ -3148,7 +3137,6 @@
         "lme4",
         "ggtree",
         "rstatix",
-        "haven",
         "modelr",
         "treeio",
         "nloptr",
@@ -3307,7 +3295,6 @@
         "rstatix",
         "lme4",
         "MSstatsTMT",
-        "haven",
         "modelr",
         "car",
         "nloptr",
@@ -3463,7 +3450,6 @@
     ],
     "nanotatoR": [
         "tidyverse",
-        "haven",
         "modelr"
     ],
     "NanoTube": [],
@@ -3553,7 +3539,6 @@
         "RcmdrMisc",
         "pbkrtest",
         "lme4",
-        "haven",
         "nloptr"
     ],
     "normr": [],
@@ -3607,8 +3592,7 @@
         "diceR",
         "klaR",
         "questionr",
-        "labelled",
-        "haven"
+        "labelled"
     ],
     "OmaDB": [],
     "omicRexposome": [
@@ -5039,7 +5023,6 @@
         "ggpubr",
         "lme4",
         "rstatix",
-        "haven",
         "modelr",
         "nloptr",
         "car",
@@ -5071,8 +5054,7 @@
         "MESS",
         "geepack",
         "ggformula",
-        "labelled",
-        "haven"
+        "labelled"
     ],
     "STAN": [
         "Gviz",
@@ -5100,7 +5082,6 @@
     ],
     "Statial": [
         "tidyverse",
-        "haven",
         "modelr"
     ],
     "STdeconvolve": [],
@@ -5163,7 +5144,6 @@
         "tidyverse",
         "mice",
         "car",
-        "haven",
         "modelr",
         "pbkrtest",
         "lme4",
@@ -5703,7 +5683,6 @@
     ],
     "mGSZ": [],
     "tidyverse": [
-        "haven",
         "modelr"
     ],
     "Mus.musculus": [
@@ -5721,7 +5700,6 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "haven": [],
     "modelr": [],
     "doBy": [
         "pbkrtest",
@@ -5838,9 +5816,7 @@
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [],
     "phylobase": [],
-    "rio": [
-        "haven"
-    ],
+    "rio": [],
     "factoextra": [
         "FactoMineR",
         "ggpubr",
@@ -5955,8 +5931,7 @@
         "biomaRt"
     ],
     "datamods": [
-        "rio",
-        "haven"
+        "rio"
     ],
     "pd.mapping50k.xba240": [],
     "reldist": [],
@@ -5973,21 +5948,16 @@
     "agricolae": [
         "klaR",
         "questionr",
-        "labelled",
-        "haven"
+        "labelled"
     ],
     "klaR": [
         "questionr",
-        "labelled",
-        "haven"
+        "labelled"
     ],
     "questionr": [
-        "labelled",
-        "haven"
+        "labelled"
     ],
-    "labelled": [
-        "haven"
-    ],
+    "labelled": [],
     "SmartSVA": [
         "sva"
     ],
@@ -6042,7 +6012,6 @@
     ],
     "RcmdrMisc": [
         "car",
-        "haven",
         "pbkrtest",
         "lme4",
         "nloptr"
@@ -6056,8 +6025,7 @@
     "diceR": [
         "klaR",
         "questionr",
-        "labelled",
-        "haven"
+        "labelled"
     ],
     "OMICsPCAdata": [],
     "AICcmodavg": [
@@ -6142,12 +6110,10 @@
     "MESS": [
         "geepack",
         "ggformula",
-        "labelled",
-        "haven"
+        "labelled"
     ],
     "ggformula": [
-        "labelled",
-        "haven"
+        "labelled"
     ],
     "GenKern": [],
     "bestNormalize": [],
