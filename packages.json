@@ -38,8 +38,7 @@
     ],
     "ChAMP": [
         "DMRcate",
-        "wateRmelon",
-        "missMethyl"
+        "wateRmelon"
     ],
     "ChIC": [
         "spp"
@@ -78,9 +77,7 @@
         "FlowSOM",
         "ggpubr"
     ],
-    "DMRcate": [
-        "missMethyl"
-    ],
+    "DMRcate": [],
     "Doscheda": [],
     "easier": [
         "ggpubr"
@@ -178,9 +175,7 @@
     "MAGAR": [
         "RnBeads"
     ],
-    "MEAL": [
-        "missMethyl"
-    ],
+    "MEAL": [],
     "MEAT": [
         "wateRmelon"
     ],
@@ -196,9 +191,7 @@
     "methylclock": [
         "ggpubr"
     ],
-    "methylGSA": [
-        "missMethyl"
-    ],
+    "methylGSA": [],
     "MineICA": [],
     "miRSM": [
         "miRspongeR",
@@ -209,7 +202,6 @@
         "SPONGE",
         "ggpubr"
     ],
-    "missMethyl": [],
     "MMUPHin": [],
     "MQmetrics": [
         "ggpubr"
