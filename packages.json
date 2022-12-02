@@ -2837,7 +2837,6 @@
         "stringr",
         "bit64",
         "blob",
-        "tensor",
         "stringi"
     ],
     "appreci8R": [
@@ -6079,7 +6078,6 @@
         "RcppML",
         "pheatmap",
         "ggrastr",
-        "tensor",
         "brio",
         "callr",
         "processx",
@@ -12137,8 +12135,7 @@
         "caTools",
         "systemfonts",
         "textshaping",
-        "plyr",
-        "tensor"
+        "plyr"
     ],
     "cellity": [
         "AnnotationDbi",
@@ -17246,7 +17243,6 @@
     "combi": [
         "ggplot2",
         "phyloseq",
-        "tensor",
         "Matrix",
         "BB",
         "reshape2",
@@ -18124,7 +18120,6 @@
         "viridisLite",
         "spatstat.sparse",
         "goftest",
-        "tensor",
         "FNN",
         "RcppAnnoy",
         "dqrng",
@@ -25185,7 +25180,6 @@
         "askpass",
         "plyr",
         "stringr",
-        "tensor",
         "stringi"
     ],
     "dir.expiry": [],
@@ -43007,8 +43001,7 @@
         "memoise",
         "BH",
         "sitmo",
-        "askpass",
-        "tensor"
+        "askpass"
     ],
     "infinityFlow": [
         "flowCore",
@@ -44279,7 +44272,6 @@
         "caTools",
         "askpass",
         "textshaping",
-        "tensor",
         "minqa",
         "nloptr",
         "SparseM",
@@ -46476,7 +46468,6 @@
         "classInt",
         "s2",
         "units",
-        "tensor",
         "e1071",
         "blob",
         "sparseMatrixStats",
@@ -60763,7 +60754,6 @@
         "askpass",
         "plyr",
         "stringr",
-        "tensor",
         "stringi"
     ],
     "NeighborNet": [
@@ -67870,8 +67860,7 @@
         "caTools",
         "askpass",
         "systemfonts",
-        "textshaping",
-        "tensor"
+        "textshaping"
     ],
     "pipeFrame": [
         "BSgenome",
@@ -73154,7 +73143,6 @@
         "VGAM",
         "ggplot2",
         "phyloseq",
-        "tensor",
         "locfit",
         "Rcpp",
         "lifecycle",
@@ -79992,7 +79980,6 @@
         "askpass",
         "plyr",
         "stringr",
-        "tensor",
         "stringi"
     ],
     "SCAN.UPC": [
@@ -80318,7 +80305,6 @@
         "Biostrings",
         "timechange",
         "askpass",
-        "tensor",
         "lava"
     ],
     "SCANVIS": [
@@ -80634,7 +80620,6 @@
         "askpass",
         "plyr",
         "stringr",
-        "tensor",
         "Biostrings",
         "bit64",
         "blob",
@@ -80735,8 +80720,7 @@
         "BH",
         "sitmo",
         "caTools",
-        "askpass",
-        "tensor"
+        "askpass"
     ],
     "scCB2": [
         "SingleCellExperiment",
@@ -80856,7 +80840,6 @@
         "askpass",
         "plyr",
         "stringr",
-        "tensor",
         "stringi"
     ],
     "scClassify": [
@@ -81115,8 +81098,7 @@
         "sitmo",
         "RCurl",
         "GenomeInfoDbData",
-        "caTools",
-        "tensor"
+        "caTools"
     ],
     "scDblFinder": [
         "SingleCellExperiment",
@@ -81616,7 +81598,6 @@
         "plyr",
         "stringr",
         "wk",
-        "tensor",
         "stringi"
     ],
     "scHOT": [
@@ -81816,7 +81797,6 @@
         "askpass",
         "plyr",
         "stringr",
-        "tensor",
         "stringi"
     ],
     "scmap": [
@@ -83103,8 +83083,7 @@
         "sitmo",
         "iterators",
         "caTools",
-        "wk",
-        "tensor"
+        "wk"
     ],
     "scTGIF": [
         "GSEABase",
@@ -83245,8 +83224,7 @@
         "sitmo",
         "caTools",
         "plyr",
-        "wk",
-        "tensor"
+        "wk"
     ],
     "scTHI": [
         "BiocParallel",
@@ -83421,7 +83399,6 @@
         "blob",
         "GenomicAlignments",
         "restfulr",
-        "tensor",
         "dbplyr",
         "hms",
         "prettyunits",
@@ -86338,7 +86315,6 @@
         "textshaping",
         "densEstBayes",
         "quantreg",
-        "tensor",
         "rstan",
         "rstantools",
         "StanHeaders",
@@ -87525,7 +87501,6 @@
         "textshaping",
         "plyr",
         "stringr",
-        "tensor",
         "stringi"
     ],
     "sparrow": [
@@ -88575,7 +88550,6 @@
         "fontawesome",
         "bslib",
         "cachem",
-        "tensor",
         "stringi",
         "futile.logger",
         "sass",
@@ -88664,7 +88638,6 @@
         "classInt",
         "s2",
         "units",
-        "tensor",
         "e1071",
         "class",
         "blob",
@@ -89444,7 +89417,6 @@
         "plyr",
         "stringr",
         "bit64",
-        "tensor",
         "lambda.r",
         "stringi"
     ],
@@ -90477,7 +90449,6 @@
         "Rcpp",
         "s2",
         "units",
-        "tensor",
         "Biobase",
         "processx",
         "e1071",
@@ -90692,7 +90663,6 @@
         "plyr",
         "stringr",
         "bit64",
-        "tensor",
         "lambda.r",
         "stringi"
     ],
@@ -102340,7 +102310,6 @@
         "askpass",
         "plyr",
         "stringr",
-        "tensor",
         "stringi"
     ],
     "org.Hs.eg.db": [
@@ -102511,8 +102480,7 @@
         "spatstat.sparse",
         "goftest",
         "Matrix",
-        "deldir",
-        "tensor"
+        "deldir"
     ],
     "spatstat.geom": [
         "spatstat.data",
@@ -102529,11 +102497,9 @@
         "deldir"
     ],
     "spatstat.sparse": [
-        "Matrix",
-        "tensor"
+        "Matrix"
     ],
     "goftest": [],
-    "tensor": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
         "S4Vectors",
@@ -108155,7 +108121,6 @@
         "stringr",
         "spatstat.sparse",
         "goftest",
-        "tensor",
         "tzdb",
         "survival",
         "prodlim",
@@ -108183,8 +108148,7 @@
         "spatstat.sparse",
         "goftest",
         "deldir",
-        "mgcv",
-        "tensor"
+        "mgcv"
     ],
     "transport": [
         "Rcpp",
@@ -108200,7 +108164,6 @@
         "spatstat.sparse",
         "mgcv",
         "Matrix",
-        "tensor",
         "goftest",
         "deldir"
     ],
@@ -108215,8 +108178,7 @@
         "nlme",
         "goftest",
         "deldir",
-        "mgcv",
-        "tensor"
+        "mgcv"
     ],
     "changepoint": [
         "zoo"
@@ -115924,7 +115886,6 @@
         "askpass",
         "plyr",
         "stringr",
-        "tensor",
         "stringi"
     ],
     "scRNAseq": [
