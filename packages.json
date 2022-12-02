@@ -7800,7 +7800,6 @@
         "RcppEigen",
         "BiocParallel",
         "interp",
-        "sparsesvd",
         "restfulr",
         "dbplyr",
         "futile.logger",
@@ -8131,7 +8130,6 @@
         "mzID",
         "ggplot2",
         "scales",
-        "sparsesvd",
         "SummarizedExperiment",
         "MsFeatures",
         "futile.logger",
@@ -29354,8 +29352,7 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "scales",
-        "sparsesvd"
+        "scales"
     ],
     "MoonlightR": [
         "doParallel",
@@ -50687,8 +50684,7 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "scales",
-        "sparsesvd"
+        "scales"
     ],
     "VAExprs": [
         "keras",
@@ -55665,10 +55661,7 @@
     "leidenbase": [
         "igraph"
     ],
-    "qlcMatrix": [
-        "sparsesvd"
-    ],
-    "sparsesvd": [],
+    "qlcMatrix": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
