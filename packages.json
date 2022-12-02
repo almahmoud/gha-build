@@ -19778,7 +19778,6 @@
         "R.filesets",
         "aroma.apd",
         "R.rsp",
-        "PSCBS",
         "AnnotationDbi",
         "annotate",
         "RSQLite",
@@ -28031,7 +28030,6 @@
         "RSQLite",
         "KEGGREST",
         "R.rsp",
-        "PSCBS",
         "ggplot2",
         "viridis",
         "tibble",
@@ -33026,18 +33024,15 @@
         "aroma.core",
         "R.filesets",
         "aroma.apd",
-        "R.rsp",
-        "PSCBS"
+        "R.rsp"
     ],
     "aroma.core": [
         "R.filesets",
-        "R.rsp",
-        "PSCBS"
+        "R.rsp"
     ],
     "R.filesets": [],
     "aroma.apd": [],
     "R.rsp": [],
-    "PSCBS": [],
     "opencpu": [],
     "osfr": [
         "tibble"
