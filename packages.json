@@ -5396,7 +5396,6 @@
     "flowAI": [
         "ggplot2"
     ],
-    "flowBin": [],
     "flowcatchR": [
         "plotly",
         "ggplot2",
