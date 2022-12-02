@@ -2840,7 +2840,6 @@
         "EnsDb.Hsapiens.v86",
         "biomaRt"
     ],
-    "metagene2": [],
     "metaMS": [
         "CAMERA",
         "xcms"
