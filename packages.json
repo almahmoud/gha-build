@@ -1,7 +1,6 @@
 {
     "ADAMgui": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "affycoretools": [],
     "AgiMicroRna": [
@@ -18,28 +17,24 @@
     ],
     "bioCancer": [],
     "BiocOncoTK": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "BitSeq": [],
     "brainflowprobes": [],
     "CancerInSilico": [],
     "CATALYST": [
         "FlowSOM",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "cellmigRation": [],
     "censcyt": [
         "diffcyt",
         "FlowSOM",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "CeTF": [
         "GenomicTools",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "ChAMP": [
         "DMRcate",
@@ -56,8 +51,7 @@
     "CNViz": [],
     "conclus": [
         "factoextra",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "cyanoFilter": [],
     "CyTOFpower": [
@@ -65,21 +59,18 @@
         "diffcyt",
         "factoextra",
         "FlowSOM",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "CytoGLMM": [
         "factoextra",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "DaMiRseq": [],
     "DAPAR": [
         "DAPARdata"
     ],
     "dasper": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "ddPCRclust": [],
     "destiny": [
@@ -87,33 +78,27 @@
     ],
     "diffcyt": [
         "FlowSOM",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "DMRcate": [
         "missMethyl"
     ],
     "Doscheda": [],
     "easier": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "ELMER": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "enrichTF": [
         "JASPAR2018",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "epidecodeR": [
-        "rstatix",
         "ggpubr"
     ],
     "epigraHMM": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "epihet": [
         "EntropyExplorer"
@@ -123,8 +108,7 @@
     ],
     "EWCE": [
         "orthogene",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "ffpe": [],
     "flowCL": [
@@ -132,80 +116,65 @@
     ],
     "flowCut": [],
     "FlowSOM": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "frenchFISH": [],
     "FuseSOM": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "GARS": [
         "DaMiRseq"
     ],
     "GDCRNATools": [
         "survminer",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "GeneAccord": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "GeneGeneInteR": [],
     "GenomicSuperSignature": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "GenProSeq": [],
     "GEOexplorer": [
         "factoextra",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "glmSparseNet": [
         "survminer",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "GRmetrics": [],
     "HiCDOC": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "iCheck": [],
     "InTAD": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "InterCellar": [
         "factoextra",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "iPath": [
         "ggpubr",
-        "survminer",
-        "rstatix"
+        "survminer"
     ],
     "IRISFGM": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "ISAnalytics": [],
     "ivygapSE": [
         "survminer",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "kissDE": [
         "factoextra",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "LinkHD": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "Macarron": [],
     "MAGAR": [
@@ -221,16 +190,13 @@
     "MetaboSignal": [],
     "MetaCyto": [
         "FlowSOM",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "MethReg": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "methylclock": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "methylGSA": [
         "missMethyl"
@@ -239,34 +205,29 @@
     "miRSM": [
         "miRspongeR",
         "SPONGE",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "miRspongeR": [
         "SPONGE",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "missMethyl": [],
     "MMUPHin": [],
     "MQmetrics": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "MSPrep": [
         "VIM"
     ],
     "MSstatsLiP": [
         "factoextra",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "MSstatsShiny": [],
     "multiSight": [],
     "musicatk": [
         "factoextra",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "NADfinder": [],
     "NBSplice": [
@@ -278,41 +239,34 @@
     "NormalyzerDE": [],
     "ODER": [
         "dasper",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "omicRexposome": [
         "rexposome"
     ],
     "OMICsPCA": [
         "factoextra",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "omicsViewer": [
         "survminer",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "OncoSimulR": [],
     "onlineFDR": [],
     "orthogene": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "padma": [],
     "PDATK": [
         "survminer",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "PhosR": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "plotGrouper": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "primirTSS": [
         "JASPAR2018"
@@ -323,15 +277,13 @@
     ],
     "protGear": [
         "ggpubr",
-        "factoextra",
-        "rstatix"
+        "factoextra"
     ],
     "psichomics": [
         "recount"
     ],
     "ptairMS": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "qmtools": [
         "VIM"
@@ -347,20 +299,17 @@
     "RNAmodR.RiboMethSeq": [],
     "RNASeqR": [
         "factoextra",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "RnaSeqSampleSize": [
         "recount",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "RnBeads": [],
     "rqt": [],
     "RTCGA": [
         "survminer",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "RTNduals": [],
     "RTNsurvival": [
@@ -374,13 +323,11 @@
     "signeR": [
         "survivalAnalysis",
         "survminer",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "signifinder": [
         "survminer",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "SingleMoleculeFootprinting": [],
     "skewr": [
@@ -393,27 +340,22 @@
     "spatzie": [],
     "spikeLI": [],
     "SPONGE": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "survtype": [
         "survminer",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "synergyfinder": [],
     "TADCompare": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "TargetDecoy": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "TCGAbiolinksGUI": [
         "ELMER",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "TDARACNE": [
         "GenKern"
@@ -422,8 +364,7 @@
         "propr"
     ],
     "TNBC.CMS": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "TraRe": [
         "vbsr"
@@ -432,25 +373,20 @@
     "treekoR": [
         "diffcyt",
         "FlowSOM",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "VAExprs": [],
     "wateRmelon": [],
     "YAPSA": [],
     "yarn": [],
     "zenith": [],
-    "ggpubr": [
-        "rstatix"
-    ],
-    "rstatix": [],
+    "ggpubr": [],
     "mGSZ": [],
     "GenomicTools": [],
     "spp": [],
     "propr": [],
     "factoextra": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "DAPARdata": [],
     "VIM": [],
@@ -458,15 +394,13 @@
     "EntropyExplorer": [],
     "SPARQL": [],
     "survminer": [
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "mppa": [],
     "Rmagic": [],
     "survivalAnalysis": [
         "survminer",
-        "ggpubr",
-        "rstatix"
+        "ggpubr"
     ],
     "sampSurf": [],
     "GenKern": [],
