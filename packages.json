@@ -1793,7 +1793,6 @@
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
-        "assertive.code",
         "dbplyr",
         "dplyr",
         "RSQLite",
@@ -23720,7 +23719,6 @@
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
-        "assertive.code",
         "XVector",
         "Rsamtools",
         "seqinr",
@@ -41763,8 +41761,7 @@
         "assertive.datetimes",
         "assertive.data",
         "assertive.data.uk",
-        "assertive.data.us",
-        "assertive.code"
+        "assertive.data.us"
     ],
     "assertive.strings": [],
     "assertive.datetimes": [],
@@ -41777,7 +41774,6 @@
     "assertive.data.us": [
         "assertive.strings"
     ],
-    "assertive.code": [],
     "doBy": [
         "broom",
         "dplyr",
