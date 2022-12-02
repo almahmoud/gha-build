@@ -11553,8 +11553,7 @@
         "rbokeh",
         "AnnotationHub",
         "BiocFileCache",
-        "tidyr",
-        "gistr"
+        "tidyr"
     ],
     "SeqVarTools": [
         "logistf",
@@ -14997,10 +14996,7 @@
         "ggforce",
         "tidyr"
     ],
-    "rbokeh": [
-        "gistr"
-    ],
-    "gistr": [],
+    "rbokeh": [],
     "survivalAnalysis": [
         "tidyr",
         "survminer",
