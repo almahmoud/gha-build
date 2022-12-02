@@ -537,7 +537,6 @@
         "plotROC",
         "DT",
         "tibble",
-        "umap",
         "GUniFrac",
         "recipes",
         "GenomicRanges",
@@ -3494,7 +3493,6 @@
         "Seurat",
         "SingleCellExperiment",
         "scater",
-        "umap",
         "ggplot2",
         "SummarizedExperiment",
         "fgsea",
@@ -4284,7 +4282,6 @@
         "dplyr",
         "tidyr",
         "GenomicRanges",
-        "umap",
         "tibble",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -10850,7 +10847,6 @@
         "shinyHeatmaply",
         "shinybusy",
         "ggplot2",
-        "umap",
         "GEOquery",
         "dendextend",
         "FactoMineR",
@@ -12255,7 +12251,6 @@
     ],
     "HIPPO": [
         "ggplot2",
-        "umap",
         "dplyr",
         "SingleCellExperiment",
         "ggrepel",
@@ -12627,7 +12622,6 @@
     "ILoReg": [
         "ggplot2",
         "cowplot",
-        "umap",
         "dendextend",
         "DescTools",
         "dplyr",
@@ -12966,7 +12960,6 @@
         "shinyFeedback",
         "shinyalert",
         "tibble",
-        "umap",
         "visNetwork",
         "wordcloud2",
         "readxl",
@@ -13998,7 +13991,6 @@
     ],
     "M3C": [
         "ggplot2",
-        "umap",
         "tibble"
     ],
     "M3Drop": [
@@ -14429,7 +14421,6 @@
         "shinyjs",
         "tibble",
         "tidyr",
-        "umap",
         "UpSetR",
         "vsn",
         "tidyselect",
@@ -21777,7 +21768,6 @@
     ],
     "RCSL": [
         "ggplot2",
-        "umap",
         "tibble"
     ],
     "Rcwl": [
@@ -22075,7 +22065,6 @@
     ],
     "regioneReloaded": [
         "regioneR",
-        "umap",
         "ggplot2",
         "ggrepel",
         "tibble",
@@ -23416,7 +23405,6 @@
         "ggrepel",
         "treemap",
         "shiny",
-        "umap",
         "RSQLite",
         "KEGGREST",
         "tibble",
@@ -24070,7 +24058,6 @@
         "SingleCellExperiment",
         "ggplot2",
         "ggrepel",
-        "umap",
         "Seurat",
         "tibble",
         "cowplot",
@@ -26226,7 +26213,6 @@
         "alphahull",
         "spatstat.explore",
         "xROI",
-        "umap",
         "SummarizedExperiment",
         "cowplot",
         "ggrepel",
@@ -26549,7 +26535,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "visNetwork",
-        "umap",
         "tibble",
         "GenomicRanges"
     ],
@@ -28115,7 +28100,6 @@
         "tidyselect"
     ],
     "tomoda": [
-        "umap",
         "ggplot2",
         "ggrepel",
         "SummarizedExperiment",
@@ -30028,7 +30012,6 @@
         "shiny",
         "tibble"
     ],
-    "umap": [],
     "GUniFrac": [
         "vegan",
         "ggplot2",
