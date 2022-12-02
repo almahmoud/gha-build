@@ -174,7 +174,6 @@
         "lme4",
         "rstatix"
     ],
-    "biodbChebi": [],
     "biodbExpasy": [],
     "biodbHmdb": [],
     "biodbKegg": [],
@@ -2016,9 +2015,7 @@
         "ggtree"
     ],
     "PharmacoGx": [],
-    "phenomis": [
-        "biodbChebi"
-    ],
+    "phenomis": [],
     "PhenStat": [
         "car",
         "logistf",
