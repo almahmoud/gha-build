@@ -37,7 +37,6 @@
     "DAPAR": [
         "DAPARdata"
     ],
-    "dasper": [],
     "diffcyt": [],
     "easier": [],
     "ELMER": [],
@@ -103,9 +102,7 @@
     "NBSplice": [
         "mppa"
     ],
-    "ODER": [
-        "dasper"
-    ],
+    "ODER": [],
     "omicRexposome": [],
     "OMICsPCA": [
         "factoextra"
