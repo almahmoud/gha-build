@@ -35,7 +35,6 @@
     ],
     "CancerInSilico": [],
     "CATALYST": [
-        "drc",
         "FlowSOM",
         "ggpubr",
         "rstatix"
@@ -125,9 +124,7 @@
     "DMRcate": [
         "missMethyl"
     ],
-    "Doscheda": [
-        "drc"
-    ],
+    "Doscheda": [],
     "easier": [
         "ggpubr",
         "rstatix"
@@ -218,9 +215,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "GRmetrics": [
-        "drc"
-    ],
+    "GRmetrics": [],
     "HiCDCPlus": [],
     "HiCDOC": [
         "ggpubr",
@@ -282,9 +277,7 @@
         "wateRmelon",
         "lumi"
     ],
-    "MEDME": [
-        "drc"
-    ],
+    "MEDME": [],
     "MetaboSignal": [
         "MWASTools"
     ],
@@ -504,9 +497,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "synergyfinder": [
-        "drc"
-    ],
+    "synergyfinder": [],
     "synlet": [],
     "TADCompare": [
         "ggpubr",
@@ -555,7 +546,6 @@
     "mGSZ": [],
     "radiant.data": [],
     "GenomicState": [],
-    "drc": [],
     "FactoMineR": [],
     "GenomicTools": [],
     "spp": [],
