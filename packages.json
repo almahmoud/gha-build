@@ -2025,15 +2025,13 @@
     ],
     "biocthis": [
         "styler",
-        "usethis",
-        "gert"
+        "usethis"
     ],
     "BiocWorkflowTools": [
         "BiocStyle",
         "bookdown",
         "rmarkdown",
-        "usethis",
-        "gert"
+        "usethis"
     ],
     "biodb": [
         "BiocFileCache",
@@ -2785,7 +2783,6 @@
         "rmarkdown",
         "tibble",
         "waldo",
-        "gert",
         "rematch2"
     ],
     "bumphunter": [
@@ -4809,7 +4806,6 @@
         "ragg",
         "rmarkdown",
         "waldo",
-        "gert",
         "rematch2"
     ],
     "cogeqc": [
@@ -6272,7 +6268,6 @@
         "quantreg",
         "lme4",
         "waldo",
-        "gert",
         "nloptr",
         "rematch2"
     ],
@@ -9805,7 +9800,6 @@
         "rmarkdown",
         "tibble",
         "waldo",
-        "gert",
         "rematch2"
     ],
     "GDCRNATools": [
@@ -11962,8 +11956,7 @@
         "tidytext",
         "tibble",
         "styler",
-        "tidyselect",
-        "gert"
+        "tidyselect"
     ],
     "HumanTranscriptomeCompendium": [
         "shiny",
@@ -12351,7 +12344,6 @@
         "rmarkdown",
         "tibble",
         "waldo",
-        "gert",
         "rematch2"
     ],
     "infercnv": [
@@ -12567,7 +12559,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "gert",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -14282,7 +14273,6 @@
         "tidyselect",
         "vroom",
         "waldo",
-        "gert",
         "progress",
         "rematch2"
     ],
@@ -14321,7 +14311,6 @@
         "testthat",
         "tidyselect",
         "vroom",
-        "gert",
         "waldo",
         "progress",
         "rematch2"
@@ -14965,7 +14954,6 @@
         "progress",
         "car",
         "waldo",
-        "gert",
         "KEGGREST",
         "Rsamtools",
         "rtracklayer",
@@ -15185,7 +15173,6 @@
         "ragg",
         "rmarkdown",
         "waldo",
-        "gert",
         "rematch2"
     ],
     "MetNet": [
@@ -15481,7 +15468,6 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "gert",
         "cowplot",
         "tweenr",
         "Biostrings"
@@ -17078,7 +17064,6 @@
         "ipred",
         "plotly",
         "sn",
-        "gert",
         "cowplot",
         "tweenr",
         "prodlim",
@@ -18093,7 +18078,6 @@
         "quantreg",
         "lme4",
         "waldo",
-        "gert",
         "BSgenome",
         "nloptr",
         "rematch2"
@@ -18546,7 +18530,6 @@
         "ragg",
         "rmarkdown",
         "waldo",
-        "gert",
         "rematch2"
     ],
     "optimalFlow": [
@@ -18956,7 +18939,6 @@
         "AnnotationDbi",
         "ragg",
         "waldo",
-        "gert",
         "RSQLite",
         "KEGGREST",
         "rematch2"
@@ -22162,7 +22144,6 @@
         "shiny",
         "ragg",
         "waldo",
-        "gert",
         "progress",
         "BiocFileCache",
         "GenomicAlignments",
@@ -25796,7 +25777,6 @@
         "shiny",
         "ragg",
         "waldo",
-        "gert",
         "dbplyr",
         "dplyr",
         "viridis",
@@ -27686,8 +27666,7 @@
         "tidyselect",
         "usethis",
         "ggplot2",
-        "tidyr",
-        "gert"
+        "tidyr"
     ],
     "tRNA": [
         "GenomicRanges",
@@ -28566,8 +28545,7 @@
         "tibble",
         "tidyselect",
         "usethis",
-        "GenomicRanges",
-        "gert"
+        "GenomicRanges"
     ],
     "wppi": [
         "dplyr",
@@ -29867,10 +29845,7 @@
         "tibble"
     ],
     "styler": [],
-    "usethis": [
-        "gert"
-    ],
-    "gert": [],
+    "usethis": [],
     "rms": [
         "Hmisc",
         "ggplot2",
@@ -30074,7 +30049,6 @@
         "rmarkdown",
         "tibble",
         "waldo",
-        "gert",
         "rematch2"
     ],
     "pkgdown": [
@@ -30801,7 +30775,6 @@
         "testthat",
         "usethis",
         "waldo",
-        "gert",
         "rematch2",
         "tibble"
     ],
@@ -31271,8 +31244,7 @@
     "Rlabkey": [],
     "golem": [
         "shiny",
-        "usethis",
-        "gert"
+        "usethis"
     ],
     "shinyalert": [
         "shiny"
@@ -31742,7 +31714,6 @@
         "rmarkdown",
         "tibble",
         "waldo",
-        "gert",
         "rematch2"
     ],
     "googleAuthR": [
