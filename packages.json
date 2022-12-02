@@ -13919,7 +13919,6 @@
         "memoise"
     ],
     "DExMA": [
-        "DExMAdata",
         "GEOquery",
         "pheatmap",
         "scales",
@@ -61868,7 +61867,6 @@
         "pillar"
     ],
     "blockmodeling": [],
-    "DExMAdata": [],
     "swamp": [
         "gplots"
     ],
