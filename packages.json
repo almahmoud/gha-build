@@ -981,9 +981,7 @@
         "zlibbioc",
         "utf8"
     ],
-    "affxparser": [
-
-    ],
+    "affxparser": [],
     "affy": [
         "BiocGenerics",
         "Biobase",
@@ -1382,9 +1380,7 @@
         "bitops",
         "zlibbioc"
     ],
-    "agilp": [
-
-    ],
+    "agilp": [],
     "AgiMicroRna": [
         "Biobase",
         "limma",
@@ -2433,9 +2429,7 @@
         "sourcetools",
         "commonmark"
     ],
-    "AMOUNTAIN": [
-
-    ],
+    "AMOUNTAIN": [],
     "amplican": [
         "BiocGenerics",
         "Biostrings",
@@ -5220,12 +5214,8 @@
         "diffobj",
         "rematch2"
     ],
-    "ASAFE": [
-
-    ],
-    "ASEB": [
-
-    ],
+    "ASAFE": [],
+    "ASEB": [],
     "ASGSCA": [
         "Matrix",
         "MASS",
@@ -7019,9 +7009,7 @@
         "diffobj",
         "rematch2"
     ],
-    "BAC": [
-
-    ],
+    "BAC": [],
     "bacon": [
         "ggplot2",
         "BiocParallel",
@@ -7062,9 +7050,7 @@
         "colorspace",
         "utf8"
     ],
-    "BADER": [
-
-    ],
+    "BADER": [],
     "BadRegionFinder": [
         "VariantAnnotation",
         "Rsamtools",
@@ -8912,9 +8898,7 @@
         "MASS",
         "lattice"
     ],
-    "BeadDataPackR": [
-
-    ],
+    "BeadDataPackR": [],
     "BEARscc": [
         "ggplot2",
         "SingleCellExperiment",
@@ -9626,9 +9610,7 @@
         "GenomeInfoDbData",
         "bitops"
     ],
-    "BHC": [
-
-    ],
+    "BHC": [],
     "BicARE": [
         "Biobase",
         "multtest",
@@ -10487,9 +10469,7 @@
         "diffobj",
         "rematch2"
     ],
-    "BiocBaseUtils": [
-
-    ],
+    "BiocBaseUtils": [],
     "BiocCheck": [
         "biocViews",
         "BiocManager",
@@ -10660,9 +10640,7 @@
         "sys",
         "fastmap"
     ],
-    "BiocGenerics": [
-
-    ],
+    "BiocGenerics": [],
     "biocGraph": [
         "Rgraphviz",
         "graph",
@@ -11269,9 +11247,7 @@
         "digest",
         "mime"
     ],
-    "BiocVersion": [
-
-    ],
+    "BiocVersion": [],
     "biocViews": [
         "Biobase",
         "graph",
@@ -15534,9 +15510,7 @@
         "askpass",
         "sys"
     ],
-    "BufferedMatrix": [
-
-    ],
+    "BufferedMatrix": [],
     "BufferedMatrixMethods": [
         "BufferedMatrix"
     ],
@@ -20304,9 +20278,7 @@
         "utf8",
         "prettyunits"
     ],
-    "CFAssay": [
-
-    ],
+    "CFAssay": [],
     "cfDNAPro": [
         "magrittr",
         "tibble",
@@ -23539,9 +23511,7 @@
         "askpass",
         "sys"
     ],
-    "cisPath": [
-
-    ],
+    "cisPath": [],
     "CiteFuse": [
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -26587,9 +26557,7 @@
         "matrixStats",
         "formatR"
     ],
-    "coGPS": [
-
-    ],
+    "coGPS": [],
     "COHCAP": [
         "WriteXLS",
         "COHCAPanno",
@@ -28740,9 +28708,7 @@
         "askpass",
         "sys"
     ],
-    "CONSTANd": [
-
-    ],
+    "CONSTANd": [],
     "contiBAIT": [
         "BH",
         "Rsamtools",
@@ -29805,9 +29771,7 @@
         "zlibbioc",
         "bitops"
     ],
-    "COSNet": [
-
-    ],
+    "COSNet": [],
     "COTAN": [
         "dplyr",
         "Matrix",
@@ -31691,9 +31655,7 @@
         "sys",
         "bitops"
     ],
-    "CSSP": [
-
-    ],
+    "CSSP": [],
     "CSSQ": [
         "SummarizedExperiment",
         "GenomicRanges",
@@ -40322,9 +40284,7 @@
         "BH",
         "lattice"
     ],
-    "DNAcopy": [
-
-    ],
+    "DNAcopy": [],
     "DNAfusion": [
         "bamsignals",
         "GenomicRanges",
@@ -41020,9 +40980,7 @@
         "utf8",
         "bitops"
     ],
-    "DriverNet": [
-
-    ],
+    "DriverNet": [],
     "DropletUtils": [
         "SingleCellExperiment",
         "Matrix",
@@ -41484,9 +41442,7 @@
         "BiocGenerics",
         "limma"
     ],
-    "DynDoc": [
-
-    ],
+    "DynDoc": [],
     "easier": [
         "progeny",
         "easierData",
@@ -43090,9 +43046,7 @@
         "colorspace",
         "utf8"
     ],
-    "EmpiricalBrownsMethod": [
-
-    ],
+    "EmpiricalBrownsMethod": [],
     "EnhancedVolcano": [
         "ggplot2",
         "ggrepel",
@@ -48827,9 +48781,7 @@
         "fansi",
         "utf8"
     ],
-    "fdrame": [
-
-    ],
+    "fdrame": [],
     "FEAST": [
         "mclust",
         "BiocParallel",
@@ -50700,9 +50652,7 @@
         "DEoptimR",
         "nlme"
     ],
-    "flowPeaks": [
-
-    ],
+    "flowPeaks": [],
     "flowPloidy": [
         "flowCore",
         "car",
@@ -50813,9 +50763,7 @@
         "diffobj",
         "rematch2"
     ],
-    "flowPlots": [
-
-    ],
+    "flowPlots": [],
     "FlowSOM": [
         "igraph",
         "colorRamps",
@@ -51905,9 +51853,7 @@
         "BiocManager",
         "zlibbioc"
     ],
-    "FScanR": [
-
-    ],
+    "FScanR": [],
     "FunChIP": [
         "GenomicRanges",
         "shiny",
@@ -52566,9 +52512,7 @@
         "codetools",
         "iterators"
     ],
-    "garfield": [
-
-    ],
+    "garfield": [],
     "GARS": [
         "ggplot2",
         "cluster",
@@ -53420,9 +53364,7 @@
         "bitops",
         "zlibbioc"
     ],
-    "gdsfmt": [
-
-    ],
+    "gdsfmt": [],
     "GEM": [
         "ggplot2",
         "cli",
@@ -54929,9 +54871,7 @@
         "pkgconfig",
         "withr"
     ],
-    "genoCN": [
-
-    ],
+    "genoCN": [],
     "genomation": [
         "Biostrings",
         "BSgenome",
@@ -58555,9 +58495,7 @@
         "zlibbioc",
         "bitops"
     ],
-    "globalSeq": [
-
-    ],
+    "globalSeq": [],
     "globaltest": [
         "survival",
         "Biobase",
@@ -59985,9 +59923,7 @@
         "fs",
         "rappdirs"
     ],
-    "gpls": [
-
-    ],
+    "gpls": [],
     "gpuMagic": [
         "Deriv",
         "DescTools",
@@ -60305,9 +60241,7 @@
     "graph": [
         "BiocGenerics"
     ],
-    "GraphAlignment": [
-
-    ],
+    "GraphAlignment": [],
     "GraphAT": [
         "graph",
         "MCMCpack",
@@ -64131,9 +64065,7 @@
         "lattice",
         "colorspace"
     ],
-    "hpar": [
-
-    ],
+    "hpar": [],
     "HPAStainR": [
         "dplyr",
         "tidyr",
@@ -64759,9 +64691,7 @@
         "graph",
         "BiocGenerics"
     ],
-    "iASeq": [
-
-    ],
+    "iASeq": [],
     "iasva": [
         "irlba",
         "cluster",
@@ -65242,9 +65172,7 @@
     "iChip": [
         "limma"
     ],
-    "iClusterPlus": [
-
-    ],
+    "iClusterPlus": [],
     "iCNV": [
         "CODEX",
         "fields",
@@ -66750,9 +66678,7 @@
     "IMPCdata": [
         "rjson"
     ],
-    "impute": [
-
-    ],
+    "impute": [],
     "INDEED": [
         "glasso",
         "devtools",
@@ -69539,9 +69465,7 @@
         "rappdirs",
         "zlibbioc"
     ],
-    "iSeq": [
-
-    ],
+    "iSeq": [],
     "ISLET": [
         "Matrix",
         "BiocParallel",
@@ -69886,9 +69810,7 @@
         "base64enc",
         "fs"
     ],
-    "ISoLDE": [
-
-    ],
+    "ISoLDE": [],
     "isomiRs": [
         "SummarizedExperiment",
         "AnnotationDbi",
@@ -70718,9 +70640,7 @@
         "askpass",
         "sys"
     ],
-    "KBoost": [
-
-    ],
+    "KBoost": [],
     "KCsmart": [
         "siggenes",
         "multtest",
@@ -71431,9 +71351,7 @@
         "Biobase",
         "BiocGenerics"
     ],
-    "LBE": [
-
-    ],
+    "LBE": [],
     "ldblock": [
         "rlang",
         "BiocGenerics",
@@ -71448,9 +71366,7 @@
         "askpass",
         "sys"
     ],
-    "LEA": [
-
-    ],
+    "LEA": [],
     "LedPred": [
         "e1071",
         "akima",
@@ -71678,9 +71594,7 @@
     "lfa": [
         "corpcor"
     ],
-    "limma": [
-
-    ],
+    "limma": [],
     "limmaGUI": [
         "limma",
         "R2HTML",
@@ -72881,18 +72795,14 @@
         "Rhtslib",
         "fs"
     ],
-    "LPE": [
-
-    ],
+    "LPE": [],
     "LPEadj": [
         "LPE"
     ],
     "lpNet": [
         "lpSolve"
     ],
-    "lpsymphony": [
-
-    ],
+    "lpsymphony": [],
     "LRBaseDbi": [
         "AnnotationDbi",
         "RSQLite",
@@ -75028,9 +74938,7 @@
         "awsMethods",
         "gsl"
     ],
-    "MantelCorr": [
-
-    ],
+    "MantelCorr": [],
     "mAPKL": [
         "Biobase",
         "multtest",
@@ -75471,9 +75379,7 @@
         "GenomeInfoDbData",
         "bitops"
     ],
-    "MassArray": [
-
-    ],
+    "MassArray": [],
     "massiR": [
         "cluster",
         "gplots",
@@ -75485,9 +75391,7 @@
         "KernSmooth",
         "bitops"
     ],
-    "MassSpecWavelet": [
-
-    ],
+    "MassSpecWavelet": [],
     "MAST": [
         "SingleCellExperiment",
         "Biobase",
@@ -75546,9 +75450,7 @@
         "bitops",
         "zlibbioc"
     ],
-    "matchBox": [
-
-    ],
+    "matchBox": [],
     "MatrixGenerics": [
         "matrixStats"
     ],
@@ -75839,9 +75741,7 @@
         "futile.options",
         "formatR"
     ],
-    "MBAmethyl": [
-
-    ],
+    "MBAmethyl": [],
     "MBASED": [
         "RUnit",
         "BiocGenerics",
@@ -76966,9 +76866,7 @@
         "highr",
         "xfun"
     ],
-    "MeasurementError.cor": [
-
-    ],
+    "MeasurementError.cor": [],
     "MEAT": [
         "impute",
         "dynamicTreeCut",
@@ -77704,9 +77602,7 @@
         "diffobj",
         "rematch2"
     ],
-    "Mergeomics": [
-
-    ],
+    "Mergeomics": [],
     "MeSHDbi": [
         "AnnotationDbi",
         "RSQLite",
@@ -78694,9 +78590,7 @@
         "diffobj",
         "rematch2"
     ],
-    "metaCCA": [
-
-    ],
+    "metaCCA": [],
     "MetaCyto": [
         "flowCore",
         "tidyr",
@@ -79024,9 +78918,7 @@
         "locfit",
         "bitops"
     ],
-    "metahdep": [
-
-    ],
+    "metahdep": [],
     "metaMS": [
         "CAMERA",
         "xcms",
@@ -84835,9 +84727,7 @@
         "sys",
         "bitops"
     ],
-    "miRBaseConverter": [
-
-    ],
+    "miRBaseConverter": [],
     "miRcomp": [
         "Biobase",
         "miRcompData",
@@ -85162,9 +85052,7 @@
         "sys",
         "bitops"
     ],
-    "miRNApath": [
-
-    ],
+    "miRNApath": [],
     "miRNAtap": [
         "AnnotationDbi",
         "DBI",
@@ -88767,9 +88655,7 @@
         "cachem",
         "fastmap"
     ],
-    "MPFE": [
-
-    ],
+    "MPFE": [],
     "mpra": [
         "BiocGenerics",
         "SummarizedExperiment",
@@ -91867,9 +91753,7 @@
         "listenv",
         "parallelly"
     ],
-    "MultiMed": [
-
-    ],
+    "MultiMed": [],
     "multiMiR": [
         "XML",
         "RCurl",
@@ -92983,9 +92867,7 @@
         "askpass",
         "sys"
     ],
-    "MVCClass": [
-
-    ],
+    "MVCClass": [],
     "MWASTools": [
         "glm2",
         "ppcor",
@@ -97031,9 +96913,7 @@
         "formatR",
         "matrixStats"
     ],
-    "nuCpos": [
-
-    ],
+    "nuCpos": [],
     "nullranges": [
         "IRanges",
         "GenomicRanges",
@@ -97122,9 +97002,7 @@
         "futile.options",
         "formatR"
     ],
-    "NuPoP": [
-
-    ],
+    "NuPoP": [],
     "NxtIRFcore": [
         "NxtIRFdata",
         "magrittr",
@@ -97264,9 +97142,7 @@
         "sass",
         "fs"
     ],
-    "occugene": [
-
-    ],
+    "occugene": [],
     "OCplus": [
         "multtest",
         "interp",
@@ -100865,9 +100741,7 @@
         "diffobj",
         "rematch2"
     ],
-    "OSAT": [
-
-    ],
+    "OSAT": [],
     "Oscope": [
         "EBSeq",
         "cluster",
@@ -102111,9 +101985,7 @@
         "glue",
         "lifecycle"
     ],
-    "parody": [
-
-    ],
+    "parody": [],
     "PAST": [
         "dplyr",
         "rlang",
@@ -102205,9 +102077,7 @@
         "Rcpp",
         "R.methodsS3"
     ],
-    "PathNet": [
-
-    ],
+    "PathNet": [],
     "PathoStat": [
         "limma",
         "corpcor",
@@ -103901,9 +103771,7 @@
         "zlibbioc",
         "sys"
     ],
-    "pgca": [
-
-    ],
+    "pgca": [],
     "phantasus": [
         "ggplot2",
         "protolite",
@@ -107622,9 +107490,7 @@
         "zlibbioc",
         "bitops"
     ],
-    "preprocessCore": [
-
-    ],
+    "preprocessCore": [],
     "primirTSS": [
         "GenomicRanges",
         "S4Vectors",
@@ -109623,9 +109489,7 @@
         "fansi",
         "utf8"
     ],
-    "proteinProfiles": [
-
-    ],
+    "proteinProfiles": [],
     "ProteoDisco": [
         "BiocGenerics",
         "BiocParallel",
@@ -110001,9 +109865,7 @@
         "diffobj",
         "rematch2"
     ],
-    "ProtGenerics": [
-
-    ],
+    "ProtGenerics": [],
     "PSEA": [
         "Biobase",
         "MASS",
@@ -113132,9 +112994,7 @@
         "Matrix",
         "lattice"
     ],
-    "rama": [
-
-    ],
+    "rama": [],
     "ramr": [
         "GenomicRanges",
         "doParallel",
@@ -113504,9 +113364,7 @@
         "formatR",
         "fs"
     ],
-    "rawrr": [
-
-    ],
+    "rawrr": [],
     "RbcBook1": [
         "Biobase",
         "graph",
@@ -113618,9 +113476,7 @@
         "limma",
         "marray"
     ],
-    "Rbowtie": [
-
-    ],
+    "Rbowtie": [],
     "Rbowtie2": [
         "magrittr",
         "Rsamtools",
@@ -113654,9 +113510,7 @@
         "Matrix",
         "lattice"
     ],
-    "Rbwa": [
-
-    ],
+    "Rbwa": [],
     "Rcade": [
         "GenomicRanges",
         "Rsamtools",
@@ -113864,9 +113718,7 @@
         "futile.options",
         "formatR"
     ],
-    "RCASPAR": [
-
-    ],
+    "RCASPAR": [],
     "rcellminer": [
         "Biobase",
         "rcellminerData",
@@ -118072,9 +117924,7 @@
     "rhdf5filters": [
         "Rhdf5lib"
     ],
-    "Rhdf5lib": [
-
-    ],
+    "Rhdf5lib": [],
     "Rhisat2": [
         "GenomicFeatures",
         "SGSeq",
@@ -121184,9 +121034,7 @@
     "rnaseqcomp": [
         "RColorBrewer"
     ],
-    "RNASeqPower": [
-
-    ],
+    "RNASeqPower": [],
     "RNASeqR": [
         "ggplot2",
         "pathview",
@@ -122224,9 +122072,7 @@
         "utf8",
         "bitops"
     ],
-    "RProtoBufLib": [
-
-    ],
+    "RProtoBufLib": [],
     "rpx": [
         "BiocFileCache",
         "jsonlite",
@@ -124222,9 +124068,7 @@
         "zlibbioc",
         "bitops"
     ],
-    "SamSPECTRAL": [
-
-    ],
+    "SamSPECTRAL": [],
     "sangeranalyseR": [
         "stringr",
         "ape",
@@ -125858,9 +125702,7 @@
         "stringi",
         "bit"
     ],
-    "SCBN": [
-
-    ],
+    "SCBN": [],
     "scBubbletree": [
         "reshape2",
         "future",
@@ -131108,9 +130950,7 @@
         "bitops",
         "fastmap"
     ],
-    "seqLogo": [
-
-    ],
+    "seqLogo": [],
     "seqPattern": [
         "Biostrings",
         "GenomicRanges",
@@ -133315,9 +133155,7 @@
         "diffobj",
         "rematch2"
     ],
-    "sigPathway": [
-
-    ],
+    "sigPathway": [],
     "SigsPack": [
         "quadprog",
         "Biobase",
@@ -135053,9 +134891,7 @@
         "jsonlite",
         "colorspace"
     ],
-    "sizepower": [
-
-    ],
+    "sizepower": [],
     "skewr": [
         "methylumi",
         "wateRmelon",
@@ -135324,9 +135160,7 @@
         "bitops",
         "zlibbioc"
     ],
-    "SLqPCR": [
-
-    ],
+    "SLqPCR": [],
     "SMAD": [
         "RcppAlgos",
         "magrittr",
@@ -135352,9 +135186,7 @@
         "pkgconfig",
         "withr"
     ],
-    "SMAP": [
-
-    ],
+    "SMAP": [],
     "SMITE": [
         "GenomicRanges",
         "scales",
@@ -138226,9 +138058,7 @@
         "zlibbioc",
         "bitops"
     ],
-    "spikeLI": [
-
-    ],
+    "spikeLI": [],
     "spiky": [
         "Rsamtools",
         "GenomicRanges",
@@ -142738,9 +142568,7 @@
         "futile.options",
         "formatR"
     ],
-    "swfdr": [
-
-    ],
+    "swfdr": [],
     "switchBox": [
         "pROC",
         "gplots",
@@ -150769,12 +150597,8 @@
         "formatR",
         "fs"
     ],
-    "tximport": [
-
-    ],
-    "TypeInfo": [
-
-    ],
+    "tximport": [],
+    "TypeInfo": [],
     "UCell": [
         "data.table",
         "Matrix",
@@ -152572,9 +152396,7 @@
         "glue",
         "lifecycle"
     ],
-    "vbmp": [
-
-    ],
+    "vbmp": [],
     "VCFArray": [
         "BiocGenerics",
         "DelayedArray",
@@ -154527,9 +154349,7 @@
         "bitops",
         "zlibbioc"
     ],
-    "widgetTools": [
-
-    ],
+    "widgetTools": [],
     "wiggleplotr": [
         "dplyr",
         "ggplot2",
@@ -155197,9 +155017,7 @@
         "cachem",
         "fastmap"
     ],
-    "xmapbridge": [
-
-    ],
+    "xmapbridge": [],
     "XNAString": [
         "Biostrings",
         "BSgenome",
@@ -155972,9 +155790,7 @@
         "glue",
         "lifecycle"
     ],
-    "zlibbioc": [
-
-    ],
+    "zlibbioc": [],
     "mpm": [
         "MASS",
         "KernSmooth"
@@ -156012,12 +155828,8 @@
     "varSelRF": [
         "randomForest"
     ],
-    "xtable": [
-
-    ],
-    "BiocManager": [
-
-    ],
+    "xtable": [],
+    "BiocManager": [],
     "GO.db": [
         "AnnotationDbi",
         "BiocGenerics",
@@ -156059,9 +155871,7 @@
         "sys",
         "bitops"
     ],
-    "DBI": [
-
-    ],
+    "DBI": [],
     "survival": [
         "Matrix",
         "lattice"
@@ -156073,38 +155883,22 @@
         "codetools",
         "iterators"
     ],
-    "shape": [
-
-    ],
-    "Rcpp": [
-
-    ],
+    "shape": [],
+    "Rcpp": [],
     "RcppEigen": [
         "Matrix",
         "Rcpp",
         "lattice"
     ],
-    "gtools": [
-
-    ],
+    "gtools": [],
     "caTools": [
         "bitops"
     ],
-    "KernSmooth": [
-
-    ],
-    "MASS": [
-
-    ],
-    "cluster": [
-
-    ],
-    "randomForest": [
-
-    ],
-    "XML": [
-
-    ],
+    "KernSmooth": [],
+    "MASS": [],
+    "cluster": [],
+    "randomForest": [],
+    "XML": [],
     "httr": [
         "curl",
         "jsonlite",
@@ -156131,37 +155925,19 @@
         "glue",
         "lifecycle"
     ],
-    "bitops": [
-
-    ],
-    "codetools": [
-
-    ],
-    "iterators": [
-
-    ],
-    "lattice": [
-
-    ],
-    "curl": [
-
-    ],
-    "jsonlite": [
-
-    ],
-    "mime": [
-
-    ],
+    "bitops": [],
+    "codetools": [],
+    "iterators": [],
+    "lattice": [],
+    "curl": [],
+    "jsonlite": [],
+    "mime": [],
     "openssl": [
         "askpass",
         "sys"
     ],
-    "R6": [
-
-    ],
-    "png": [
-
-    ],
+    "R6": [],
+    "png": [],
     "bit64": [
         "bit"
     ],
@@ -156177,21 +155953,11 @@
         "cachem",
         "fastmap"
     ],
-    "pkgconfig": [
-
-    ],
-    "plogr": [
-
-    ],
-    "crayon": [
-
-    ],
-    "bit": [
-
-    ],
-    "rlang": [
-
-    ],
+    "pkgconfig": [],
+    "plogr": [],
+    "crayon": [],
+    "bit": [],
+    "rlang": [],
     "vctrs": [
         "cli",
         "glue",
@@ -156205,24 +155971,14 @@
     "askpass": [
         "sys"
     ],
-    "sys": [
-
-    ],
-    "fastmap": [
-
-    ],
+    "sys": [],
+    "fastmap": [],
     "RCurl": [
         "bitops"
     ],
-    "GenomeInfoDbData": [
-
-    ],
-    "cli": [
-
-    ],
-    "glue": [
-
-    ],
+    "GenomeInfoDbData": [],
+    "cli": [],
+    "glue": [],
     "lifecycle": [
         "cli",
         "glue",
@@ -156257,9 +156013,7 @@
         "colorspace",
         "utf8"
     ],
-    "RColorBrewer": [
-
-    ],
+    "RColorBrewer": [],
     "circlize": [
         "GlobalOptions",
         "shape",
@@ -156511,15 +156265,9 @@
         "futile.options",
         "formatR"
     ],
-    "snow": [
-
-    ],
-    "BH": [
-
-    ],
-    "cpp11": [
-
-    ],
+    "snow": [],
+    "BH": [],
+    "cpp11": [],
     "bookdown": [
         "htmltools",
         "knitr",
@@ -156547,15 +156295,9 @@
         "R6",
         "rappdirs"
     ],
-    "yaml": [
-
-    ],
-    "GlobalOptions": [
-
-    ],
-    "colorspace": [
-
-    ],
+    "yaml": [],
+    "GlobalOptions": [],
+    "colorspace": [],
     "htmltools": [
         "digest",
         "base64enc",
@@ -156641,12 +156383,8 @@
         "R6",
         "rappdirs"
     ],
-    "gtable": [
-
-    ],
-    "isoband": [
-
-    ],
+    "gtable": [],
+    "isoband": [],
     "mgcv": [
         "nlme",
         "Matrix",
@@ -156664,30 +156402,16 @@
         "glue",
         "utf8"
     ],
-    "withr": [
-
-    ],
-    "evaluate": [
-
-    ],
+    "withr": [],
+    "evaluate": [],
     "highr": [
         "xfun"
     ],
-    "xfun": [
-
-    ],
-    "magrittr": [
-
-    ],
-    "digest": [
-
-    ],
-    "viridisLite": [
-
-    ],
-    "base64enc": [
-
-    ],
+    "xfun": [],
+    "magrittr": [],
+    "digest": [],
+    "viridisLite": [],
+    "base64enc": [],
     "tidyr": [
         "dplyr",
         "ellipsis",
@@ -156726,9 +156450,7 @@
         "pkgconfig",
         "withr"
     ],
-    "lazyeval": [
-
-    ],
+    "lazyeval": [],
     "crosstalk": [
         "htmltools",
         "jsonlite",
@@ -156743,9 +156465,7 @@
         "magrittr",
         "rlang"
     ],
-    "data.table": [
-
-    ],
+    "data.table": [],
     "promises": [
         "R6",
         "Rcpp",
@@ -156763,15 +156483,9 @@
     "tinytex": [
         "xfun"
     ],
-    "stringi": [
-
-    ],
-    "permute": [
-
-    ],
-    "generics": [
-
-    ],
+    "stringi": [],
+    "permute": [],
+    "generics": [],
     "tidyselect": [
         "cli",
         "glue",
@@ -156792,9 +156506,7 @@
     "lambda.r": [
         "formatR"
     ],
-    "futile.options": [
-
-    ],
+    "futile.options": [],
     "nlme": [
         "lattice"
     ],
@@ -156802,18 +156514,10 @@
         "Rcpp",
         "rlang"
     ],
-    "fs": [
-
-    ],
-    "rappdirs": [
-
-    ],
-    "farver": [
-
-    ],
-    "labeling": [
-
-    ],
+    "fs": [],
+    "rappdirs": [],
+    "farver": [],
+    "labeling": [],
     "munsell": [
         "colorspace"
     ],
@@ -156832,33 +156536,19 @@
         "base64enc",
         "fastmap"
     ],
-    "sourcetools": [
-
-    ],
-    "commonmark": [
-
-    ],
+    "sourcetools": [],
+    "commonmark": [],
     "ellipsis": [
         "rlang"
     ],
-    "fansi": [
-
-    ],
-    "formatR": [
-
-    ],
-    "utf8": [
-
-    ],
+    "fansi": [],
+    "formatR": [],
+    "utf8": [],
     "locfit": [
         "lattice"
     ],
-    "boot": [
-
-    ],
-    "matrixStats": [
-
-    ],
+    "boot": [],
+    "matrixStats": [],
     "R.utils": [
         "R.oo",
         "R.methodsS3"
@@ -156887,39 +156577,25 @@
     "R.oo": [
         "R.methodsS3"
     ],
-    "R.methodsS3": [
-
-    ],
-    "listenv": [
-
-    ],
-    "parallelly": [
-
-    ],
+    "R.methodsS3": [],
+    "listenv": [],
+    "parallelly": [],
     "ff": [
         "bit"
     ],
-    "waveslim": [
-
-    ],
+    "waveslim": [],
     "aws": [
         "awsMethods",
         "gsl"
     ],
-    "pixmap": [
-
-    ],
+    "pixmap": [],
     "strucchange": [
         "zoo",
         "sandwich",
         "lattice"
     ],
-    "awsMethods": [
-
-    ],
-    "gsl": [
-
-    ],
+    "awsMethods": [],
+    "gsl": [],
     "zoo": [
         "lattice"
     ],
@@ -156927,9 +156603,7 @@
         "zoo",
         "lattice"
     ],
-    "pbapply": [
-
-    ],
+    "pbapply": [],
     "DT": [
         "htmltools",
         "htmlwidgets",
@@ -156948,9 +156622,7 @@
         "Rcpp",
         "later"
     ],
-    "varhandle": [
-
-    ],
+    "varhandle": [],
     "ggrepel": [
         "ggplot2",
         "Rcpp",
@@ -157098,9 +156770,7 @@
         "colorspace",
         "utf8"
     ],
-    "colorRamps": [
-
-    ],
+    "colorRamps": [],
     "shinyjs": [
         "digest",
         "jsonlite",
@@ -157226,9 +156896,7 @@
         "lattice",
         "utf8"
     ],
-    "polynom": [
-
-    ],
+    "polynom": [],
     "rstatix": [
         "tidyr",
         "purrr",
@@ -157308,9 +156976,7 @@
         "diffobj",
         "rematch2"
     ],
-    "brio": [
-
-    ],
+    "brio": [],
     "callr": [
         "processx",
         "R6",
@@ -157332,16 +156998,12 @@
         "withr",
         "R6"
     ],
-    "praise": [
-
-    ],
+    "praise": [],
     "processx": [
         "ps",
         "R6"
     ],
-    "ps": [
-
-    ],
+    "ps": [],
     "waldo": [
         "cli",
         "diffobj",
@@ -157358,9 +157020,7 @@
         "vctrs",
         "utf8"
     ],
-    "rprojroot": [
-
-    ],
+    "rprojroot": [],
     "broom": [
         "backports",
         "dplyr",
@@ -157401,9 +157061,7 @@
         "lattice",
         "colorspace"
     ],
-    "corrplot": [
-
-    ],
+    "corrplot": [],
     "car": [
         "carData",
         "abind",
@@ -157497,18 +157155,10 @@
         "glue",
         "utf8"
     ],
-    "backports": [
-
-    ],
-    "carData": [
-
-    ],
-    "abind": [
-
-    ],
-    "nnet": [
-
-    ],
+    "backports": [],
+    "carData": [],
+    "abind": [],
+    "nnet": [],
     "pbkrtest": [
         "lme4",
         "broom",
@@ -157664,12 +157314,8 @@
         "vctrs",
         "utf8"
     ],
-    "numDeriv": [
-
-    ],
-    "SparseM": [
-
-    ],
+    "numDeriv": [],
+    "SparseM": [],
     "MatrixModels": [
         "Matrix",
         "lattice"
@@ -157756,9 +157402,7 @@
         "zlibbioc",
         "bitops"
     ],
-    "OrgMassSpecR": [
-
-    ],
+    "OrgMassSpecR": [],
     "ade4": [
         "MASS",
         "pixmap",
@@ -157794,9 +157438,7 @@
     "pastecs": [
         "boot"
     ],
-    "pracma": [
-
-    ],
+    "pracma": [],
     "fpc": [
         "MASS",
         "cluster",
@@ -157818,12 +157460,8 @@
         "snow",
         "codetools"
     ],
-    "fastcluster": [
-
-    ],
-    "bootstrap": [
-
-    ],
+    "fastcluster": [],
+    "bootstrap": [],
     "smoother": [
         "TTR",
         "xts",
@@ -157834,9 +157472,7 @@
     "sp": [
         "lattice"
     ],
-    "mclust": [
-
-    ],
+    "mclust": [],
     "flexmix": [
         "lattice",
         "modeltools",
@@ -157849,18 +157485,12 @@
     "class": [
         "MASS"
     ],
-    "diptest": [
-
-    ],
+    "diptest": [],
     "robustbase": [
         "DEoptimR"
     ],
-    "kernlab": [
-
-    ],
-    "ncdf4": [
-
-    ],
+    "kernlab": [],
+    "ncdf4": [],
     "selectr": [
         "stringr",
         "R6",
@@ -157868,9 +157498,7 @@
         "magrittr",
         "stringi"
     ],
-    "xml2": [
-
-    ],
+    "xml2": [],
     "TTR": [
         "xts",
         "zoo",
@@ -157899,22 +157527,14 @@
         "utf8",
         "pkgconfig"
     ],
-    "filelock": [
-
-    ],
-    "modeltools": [
-
-    ],
-    "DEoptimR": [
-
-    ],
+    "filelock": [],
+    "modeltools": [],
+    "DEoptimR": [],
     "xts": [
         "zoo",
         "lattice"
     ],
-    "assertthat": [
-
-    ],
+    "assertthat": [],
     "checkmate": [
         "backports"
     ],
@@ -157956,9 +157576,7 @@
         "preprocessCore",
         "zlibbioc"
     ],
-    "hwriter": [
-
-    ],
+    "hwriter": [],
     "PFAM.db": [
         "AnnotationDbi",
         "BiocGenerics",
@@ -158108,9 +157726,7 @@
         "utf8",
         "lattice"
     ],
-    "dichromat": [
-
-    ],
+    "dichromat": [],
     "forcats": [
         "cli",
         "ellipsis",
@@ -158143,9 +157759,7 @@
         "plyr",
         "Rcpp"
     ],
-    "Formula": [
-
-    ],
+    "Formula": [],
     "latticeExtra": [
         "lattice",
         "png",
@@ -158158,12 +157772,8 @@
         "RcppEigen",
         "Matrix"
     ],
-    "rpart": [
-
-    ],
-    "foreign": [
-
-    ],
+    "rpart": [],
+    "foreign": [],
     "htmlTable": [
         "stringr",
         "knitr",
@@ -158225,12 +157835,8 @@
         "bitops",
         "BiocGenerics"
     ],
-    "rstudioapi": [
-
-    ],
-    "jpeg": [
-
-    ],
+    "rstudioapi": [],
+    "jpeg": [],
     "interp": [
         "Rcpp",
         "deldir",
@@ -158247,29 +157853,17 @@
         "cli",
         "glue"
     ],
-    "prettyunits": [
-
-    ],
-    "rjson": [
-
-    ],
-    "deldir": [
-
-    ],
-    "tkrplot": [
-
-    ],
-    "R2HTML": [
-
-    ],
+    "prettyunits": [],
+    "rjson": [],
+    "deldir": [],
+    "tkrplot": [],
+    "R2HTML": [],
     "e1071": [
         "class",
         "proxy",
         "MASS"
     ],
-    "proxy": [
-
-    ],
+    "proxy": [],
     "smurf": [
         "catdata",
         "glmnet",
@@ -158304,17 +157898,13 @@
     "clue": [
         "cluster"
     ],
-    "dynamicTreeCut": [
-
-    ],
+    "dynamicTreeCut": [],
     "forestplot": [
         "checkmate",
         "abind",
         "backports"
     ],
-    "lpSolve": [
-
-    ],
+    "lpSolve": [],
     "RcppNumerical": [
         "Rcpp",
         "RcppEigen",
@@ -158452,12 +158042,8 @@
         "MASS",
         "lattice"
     ],
-    "bdsmatrix": [
-
-    ],
-    "mvtnorm": [
-
-    ],
+    "bdsmatrix": [],
+    "mvtnorm": [],
     "RcppHNSW": [
         "Rcpp"
     ],
@@ -158465,29 +158051,19 @@
         "Matrix",
         "lattice"
     ],
-    "beeswarm": [
-
-    ],
-    "vipor": [
-
-    ],
-    "Cairo": [
-
-    ],
+    "beeswarm": [],
+    "vipor": [],
+    "Cairo": [],
     "ragg": [
         "systemfonts",
         "textshaping",
         "cpp11"
     ],
-    "FNN": [
-
-    ],
+    "FNN": [],
     "RcppAnnoy": [
         "Rcpp"
     ],
-    "RcppProgress": [
-
-    ],
+    "RcppProgress": [],
     "dqrng": [
         "Rcpp",
         "BH",
@@ -158526,9 +158102,7 @@
         "Matrix",
         "lattice"
     ],
-    "truncnorm": [
-
-    ],
+    "truncnorm": [],
     "RcppGSL": [
         "Rcpp"
     ],
@@ -158698,12 +158272,8 @@
         "lpSolve",
         "MASS"
     ],
-    "ellipse": [
-
-    ],
-    "corpcor": [
-
-    ],
+    "ellipse": [],
+    "corpcor": [],
     "rARPACK": [
         "RSpectra",
         "Matrix",
@@ -158735,12 +158305,8 @@
         "codetools",
         "digest"
     ],
-    "rematch": [
-
-    ],
-    "quadprog": [
-
-    ],
+    "rematch": [],
+    "quadprog": [],
     "itertools": [
         "iterators"
     ],
@@ -158884,9 +158450,7 @@
         "utf8",
         "prettyunits"
     ],
-    "clipr": [
-
-    ],
+    "clipr": [],
     "vroom": [
         "bit64",
         "cli",
@@ -158982,19 +158546,13 @@
         "colorspace",
         "utf8"
     ],
-    "clusterCrit": [
-
-    ],
+    "clusterCrit": [],
     "extrafont": [
         "extrafontdb",
         "Rttf2pt1"
     ],
-    "extrafontdb": [
-
-    ],
-    "Rttf2pt1": [
-
-    ],
+    "extrafontdb": [],
+    "Rttf2pt1": [],
     "CVXR": [
         "R6",
         "Matrix",
@@ -159125,18 +158683,12 @@
         "diffobj",
         "rematch2"
     ],
-    "gmp": [
-
-    ],
+    "gmp": [],
     "Rmpfr": [
         "gmp"
     ],
-    "ECOSolveR": [
-
-    ],
-    "scs": [
-
-    ],
+    "ECOSolveR": [],
+    "scs": [],
     "osqp": [
         "Rcpp",
         "Matrix",
@@ -159153,23 +158705,15 @@
         "proxy",
         "MASS"
     ],
-    "estimability": [
-
-    ],
+    "estimability": [],
     "ape": [
         "nlme",
         "lattice",
         "Rcpp"
     ],
-    "rbibutils": [
-
-    ],
-    "rootSolve": [
-
-    ],
-    "lmom": [
-
-    ],
+    "rbibutils": [],
+    "rootSolve": [],
+    "lmom": [],
     "tidytree": [
         "ape",
         "dplyr",
@@ -159198,12 +158742,8 @@
         "cpp11",
         "withr"
     ],
-    "yulab.utils": [
-
-    ],
-    "AneuFinderData": [
-
-    ],
+    "yulab.utils": [],
+    "AneuFinderData": [],
     "ecp": [
         "Rcpp"
     ],
@@ -159317,9 +158857,7 @@
         "askpass",
         "sys"
     ],
-    "tsne": [
-
-    ],
+    "tsne": [],
     "plotROC": [
         "ggplot2",
         "gridSVG",
@@ -159511,15 +159049,9 @@
     "rex": [
         "lazyeval"
     ],
-    "statmod": [
-
-    ],
-    "rmutil": [
-
-    ],
-    "dirmult": [
-
-    ],
+    "statmod": [],
+    "rmutil": [],
+    "dirmult": [],
     "modeest": [
         "fBasics",
         "stable",
@@ -159562,9 +159094,7 @@
     "stable": [
         "rmutil"
     ],
-    "stabledist": [
-
-    ],
+    "stabledist": [],
     "statip": [
         "clue",
         "rpart",
@@ -159579,9 +159109,7 @@
         "glue",
         "lifecycle"
     ],
-    "gower": [
-
-    ],
+    "gower": [],
     "hardhat": [
         "glue",
         "rlang",
@@ -159623,9 +159151,7 @@
         "generics",
         "cpp11"
     ],
-    "timeDate": [
-
-    ],
+    "timeDate": [],
     "RcppTOML": [
         "Rcpp"
     ],
@@ -159635,12 +159161,8 @@
     "timeSeries": [
         "timeDate"
     ],
-    "spatial": [
-
-    ],
-    "gss": [
-
-    ],
+    "spatial": [],
+    "gss": [],
     "prodlim": [
         "Rcpp",
         "survival",
@@ -159680,18 +159202,12 @@
     "progressr": [
         "digest"
     ],
-    "SQUAREM": [
-
-    ],
+    "SQUAREM": [],
     "RMySQL": [
         "DBI"
     ],
-    "stringdist": [
-
-    ],
-    "RUnit": [
-
-    ],
+    "stringdist": [],
+    "RUnit": [],
     "rapiclient": [
         "jsonlite",
         "httr",
@@ -159824,12 +159340,8 @@
         "askpass",
         "sys"
     ],
-    "rapidjsonr": [
-
-    ],
-    "whisker": [
-
-    ],
+    "rapidjsonr": [],
+    "whisker": [],
     "repmis": [
         "data.table",
         "digest",
@@ -159848,9 +159360,7 @@
         "askpass",
         "sys"
     ],
-    "fdrtool": [
-
-    ],
+    "fdrtool": [],
     "R.cache": [
         "R.methodsS3",
         "R.oo",
@@ -160152,9 +159662,7 @@
         "lattice",
         "utf8"
     ],
-    "ica": [
-
-    ],
+    "ica": [],
     "leiden": [
         "reticulate",
         "Matrix",
@@ -160206,9 +159714,7 @@
         "colorspace",
         "utf8"
     ],
-    "RANN": [
-
-    ],
+    "RANN": [],
     "scattermore": [
         "ggplot2",
         "scales",
@@ -160340,9 +159846,7 @@
         "polyclip",
         "lattice"
     ],
-    "spatstat.utils": [
-
-    ],
+    "spatstat.utils": [],
     "spatstat.sparse": [
         "Matrix",
         "abind",
@@ -160350,15 +159854,9 @@
         "spatstat.utils",
         "lattice"
     ],
-    "goftest": [
-
-    ],
-    "polyclip": [
-
-    ],
-    "tensor": [
-
-    ],
+    "goftest": [],
+    "polyclip": [],
+    "tensor": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
         "BiocGenerics",
@@ -161306,9 +160804,7 @@
         "stringi",
         "zip"
     ],
-    "zip": [
-
-    ],
+    "zip": [],
     "crul": [
         "curl",
         "R6",
@@ -161323,9 +160819,7 @@
         "Rcpp",
         "triebeard"
     ],
-    "httpcode": [
-
-    ],
+    "httpcode": [],
     "triebeard": [
         "Rcpp"
     ],
@@ -161333,18 +160827,12 @@
         "MASS",
         "lpSolve"
     ],
-    "rJava": [
-
-    ],
-    "svMisc": [
-
-    ],
+    "rJava": [],
+    "svMisc": [],
     "sendmailR": [
         "base64enc"
     ],
-    "nleqslv": [
-
-    ],
+    "nleqslv": [],
     "FDb.InfiniumMethylation.hg19": [
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -161443,34 +160931,20 @@
         "askpass",
         "sys"
     ],
-    "beanplot": [
-
-    ],
-    "nor1mix": [
-
-    ],
-    "scrime": [
-
-    ],
-    "gridBase": [
-
-    ],
+    "beanplot": [],
+    "nor1mix": [],
+    "scrime": [],
+    "gridBase": [],
     "hexbin": [
         "lattice"
     ],
-    "setRNG": [
-
-    ],
+    "setRNG": [],
     "svglite": [
         "systemfonts",
         "cpp11"
     ],
-    "ARRmData": [
-
-    ],
-    "getopt": [
-
-    ],
+    "ARRmData": [],
+    "getopt": [],
     "UpSetR": [
         "ggplot2",
         "gridExtra",
@@ -161504,9 +160978,7 @@
         "lattice",
         "utf8"
     ],
-    "log4r": [
-
-    ],
+    "log4r": [],
     "ptw": [
         "RcppDE",
         "Rcpp",
@@ -161533,12 +161005,8 @@
         "KernSmooth",
         "bitops"
     ],
-    "mGSZ": [
-
-    ],
-    "fastmatch": [
-
-    ],
+    "mGSZ": [],
+    "fastmatch": [],
     "ggfortify": [
         "ggplot2",
         "dplyr",
@@ -161579,9 +161047,7 @@
         "utf8",
         "lattice"
     ],
-    "pbmcapply": [
-
-    ],
+    "pbmcapply": [],
     "msm": [
         "survival",
         "mvtnorm",
@@ -161589,18 +161055,12 @@
         "Matrix",
         "lattice"
     ],
-    "rmeta": [
-
-    ],
-    "Rlab": [
-
-    ],
+    "rmeta": [],
+    "Rlab": [],
     "plot3D": [
         "misc3d"
     ],
-    "misc3d": [
-
-    ],
+    "misc3d": [],
     "msigdbr": [
         "babelgene",
         "dplyr",
@@ -161724,9 +161184,7 @@
         "colorspace",
         "ps"
     ],
-    "JASPAR2016": [
-
-    ],
+    "JASPAR2016": [],
     "Mus.musculus": [
         "AnnotationDbi",
         "OrganismDbi",
@@ -162350,18 +161808,14 @@
     "poweRlaw": [
         "pracma"
     ],
-    "uuid": [
-
-    ],
+    "uuid": [],
     "ids": [
         "openssl",
         "uuid",
         "askpass",
         "sys"
     ],
-    "registry": [
-
-    ],
+    "registry": [],
     "preseqR": [
         "polynom"
     ],
@@ -162442,9 +161896,7 @@
         "glue",
         "magrittr"
     ],
-    "assertive.base": [
-
-    ],
+    "assertive.base": [],
     "assertive.properties": [
         "assertive.base"
     ],
@@ -162587,15 +162039,9 @@
         "diffobj",
         "rematch2"
     ],
-    "Deriv": [
-
-    ],
-    "microbenchmark": [
-
-    ],
-    "breastCancerVDX": [
-
-    ],
+    "Deriv": [],
+    "microbenchmark": [],
+    "breastCancerVDX": [],
     "xgboost": [
         "Matrix",
         "data.table",
@@ -162674,9 +162120,7 @@
     "lbfgs": [
         "Rcpp"
     ],
-    "MALDIquant": [
-
-    ],
+    "MALDIquant": [],
     "dendextend": [
         "magrittr",
         "ggplot2",
@@ -162709,18 +162153,12 @@
         "colorspace",
         "utf8"
     ],
-    "LaplacesDemon": [
-
-    ],
+    "LaplacesDemon": [],
     "gdata": [
         "gtools"
     ],
-    "pls": [
-
-    ],
-    "sfsmisc": [
-
-    ],
+    "pls": [],
+    "sfsmisc": [],
     "ggvis": [
         "assertthat",
         "jsonlite",
@@ -162787,9 +162225,7 @@
         "fastmap",
         "lattice"
     ],
-    "mlbench": [
-
-    ],
+    "mlbench": [],
     "rstan": [
         "StanHeaders",
         "ggplot2",
@@ -162846,12 +162282,8 @@
         "Rcpp",
         "lattice"
     ],
-    "inline": [
-
-    ],
-    "RcppParallel": [
-
-    ],
+    "inline": [],
+    "RcppParallel": [],
     "loo": [
         "checkmate",
         "matrixStats",
@@ -162905,12 +162337,8 @@
     "terra": [
         "Rcpp"
     ],
-    "RJSONIO": [
-
-    ],
-    "RCircos": [
-
-    ],
+    "RJSONIO": [],
+    "RCircos": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "BiocGenerics",
@@ -163091,9 +162519,7 @@
         "MatrixModels",
         "survival"
     ],
-    "moments": [
-
-    ],
+    "moments": [],
     "heatmaply": [
         "plotly",
         "viridis",
@@ -163226,23 +162652,17 @@
         "colorspace",
         "utf8"
     ],
-    "mcmc": [
-
-    ],
+    "mcmc": [],
     "TSP": [
         "foreach",
         "codetools",
         "iterators"
     ],
-    "qap": [
-
-    ],
+    "qap": [],
     "gclus": [
         "cluster"
     ],
-    "ca": [
-
-    ],
+    "ca": [],
     "DirichletReg": [
         "Formula",
         "maxLik",
@@ -163271,9 +162691,7 @@
     "BB": [
         "quadprog"
     ],
-    "dixonTest": [
-
-    ],
+    "dixonTest": [],
     "rjags": [
         "coda",
         "lattice"
@@ -163366,9 +162784,7 @@
         "zlibbioc",
         "bitops"
     ],
-    "MGLM": [
-
-    ],
+    "MGLM": [],
     "tidytext": [
         "dplyr",
         "generics",
@@ -163405,12 +162821,8 @@
         "Rvmmin",
         "Rcgmin"
     ],
-    "VGAM": [
-
-    ],
-    "trust": [
-
-    ],
+    "VGAM": [],
+    "trust": [],
     "detectseparation": [
         "ROI",
         "ROI.plugin.lpsolve",
@@ -163428,9 +162840,7 @@
         "slam",
         "R6"
     ],
-    "CompQuadForm": [
-
-    ],
+    "CompQuadForm": [],
     "survey": [
         "Matrix",
         "survival",
@@ -163445,9 +162855,7 @@
         "Rcpp",
         "digest"
     ],
-    "janeaustenr": [
-
-    ],
+    "janeaustenr": [],
     "tokenizers": [
         "stringi",
         "Rcpp",
@@ -163467,9 +162875,7 @@
         "registry",
         "slam"
     ],
-    "lpSolveAPI": [
-
-    ],
+    "lpSolveAPI": [],
     "optextras": [
         "numDeriv"
     ],
@@ -163484,12 +162890,8 @@
     "mitools": [
         "DBI"
     ],
-    "SnowballC": [
-
-    ],
-    "slam": [
-
-    ],
+    "SnowballC": [],
+    "slam": [],
     "sjmisc": [
         "dplyr",
         "insight",
@@ -163515,9 +162917,7 @@
     "rslurm": [
         "whisker"
     ],
-    "insight": [
-
-    ],
+    "insight": [],
     "sjlabelled": [
         "insight",
         "datawizard"
@@ -163525,9 +162925,7 @@
     "datawizard": [
         "insight"
     ],
-    "poibin": [
-
-    ],
+    "poibin": [],
     "LIM": [
         "limSolve",
         "diagram",
@@ -163753,9 +163151,7 @@
         "glue",
         "lifecycle"
     ],
-    "rsvg": [
-
-    ],
+    "rsvg": [],
     "radiant.data": [
         "magrittr",
         "ggplot2",
@@ -163890,12 +163286,8 @@
         "diffobj",
         "rematch2"
     ],
-    "AlgDesign": [
-
-    ],
-    "import": [
-
-    ],
+    "AlgDesign": [],
+    "import": [],
     "shinythemes": [
         "shiny",
         "httpuv",
@@ -164162,9 +163554,7 @@
         "lattice",
         "nlme"
     ],
-    "writexl": [
-
-    ],
+    "writexl": [],
     "shinyFiles": [
         "htmltools",
         "jsonlite",
@@ -164204,9 +163594,7 @@
         "utf8",
         "rappdirs"
     ],
-    "randomizr": [
-
-    ],
+    "randomizr": [],
     "ggraph": [
         "ggplot2",
         "Rcpp",
@@ -164432,12 +163820,8 @@
         "rlang",
         "lattice"
     ],
-    "infotheo": [
-
-    ],
-    "mnormt": [
-
-    ],
+    "infotheo": [],
+    "mnormt": [],
     "ggfun": [
         "ggplot2",
         "rlang",
@@ -164500,9 +163884,7 @@
         "colorspace",
         "utf8"
     ],
-    "gridGraphics": [
-
-    ],
+    "gridGraphics": [],
     "gh": [
         "cli",
         "gitcreds",
@@ -164546,20 +163928,14 @@
         "triebeard",
         "sys"
     ],
-    "gitcreds": [
-
-    ],
-    "ini": [
-
-    ],
+    "gitcreds": [],
+    "ini": [],
     "fauxpas": [
         "R6",
         "httpcode",
         "whisker"
     ],
-    "ontologyIndex": [
-
-    ],
+    "ontologyIndex": [],
     "styler": [
         "cli",
         "magrittr",
@@ -164625,9 +164001,7 @@
         "jsonlite",
         "askpass"
     ],
-    "git2r": [
-
-    ],
+    "git2r": [],
     "chk": [
         "lifecycle",
         "rlang",
@@ -164745,9 +164119,7 @@
         "colorspace",
         "utf8"
     ],
-    "nsprcomp": [
-
-    ],
+    "nsprcomp": [],
     "ranger": [
         "Rcpp",
         "Matrix",
@@ -164759,9 +164131,7 @@
         "zoo",
         "lattice"
     ],
-    "CMplot": [
-
-    ],
+    "CMplot": [],
     "imager": [
         "magrittr",
         "Rcpp",
@@ -164792,9 +164162,7 @@
         "png",
         "tiff"
     ],
-    "polspline": [
-
-    ],
+    "polspline": [],
     "multcomp": [
         "mvtnorm",
         "survival",
@@ -164806,9 +164174,7 @@
         "MASS",
         "lattice"
     ],
-    "sm": [
-
-    ],
+    "sm": [],
     "xlsxjars": [
         "rJava"
     ],
@@ -164818,12 +164184,8 @@
         "Matrix",
         "lattice"
     ],
-    "bmp": [
-
-    ],
-    "tiff": [
-
-    ],
+    "bmp": [],
+    "tiff": [],
     "latex2exp": [
         "stringr",
         "magrittr",
@@ -165243,9 +164605,7 @@
         "glue",
         "utf8"
     ],
-    "RhpcBLASctl": [
-
-    ],
+    "RhpcBLASctl": [],
     "statnet.common": [
         "coda",
         "lattice"
@@ -165384,9 +164744,7 @@
     "cubature": [
         "Rcpp"
     ],
-    "nnls": [
-
-    ],
+    "nnls": [],
     "gam": [
         "foreach",
         "codetools",
@@ -165486,9 +164844,7 @@
     "qualV": [
         "KernSmooth"
     ],
-    "outliers": [
-
-    ],
+    "outliers": [],
     "betareg": [
         "flexmix",
         "Formula",
@@ -165610,9 +164966,7 @@
         "colorspace",
         "utf8"
     ],
-    "GSA": [
-
-    ],
+    "GSA": [],
     "metafor": [
         "Matrix",
         "metadat",
@@ -165624,9 +164978,7 @@
     "metadat": [
         "mathjaxr"
     ],
-    "mathjaxr": [
-
-    ],
+    "mathjaxr": [],
     "KEGGdzPathwaysGEO": [
         "Biobase",
         "BiocGenerics"
@@ -165743,18 +165095,14 @@
         "jsonlite",
         "curl"
     ],
-    "fftwtools": [
-
-    ],
+    "fftwtools": [],
     "flexclust": [
         "lattice",
         "modeltools",
         "class",
         "MASS"
     ],
-    "binom": [
-
-    ],
+    "binom": [],
     "BoolNet": [
         "igraph",
         "XML",
@@ -165793,15 +165141,9 @@
         "zoo",
         "lattice"
     ],
-    "naturalsort": [
-
-    ],
-    "wesanderson": [
-
-    ],
-    "amap": [
-
-    ],
+    "naturalsort": [],
+    "wesanderson": [],
+    "amap": [],
     "gmodels": [
         "MASS",
         "gdata",
@@ -165824,12 +165166,8 @@
         "zoo",
         "lattice"
     ],
-    "fastICA": [
-
-    ],
-    "NbClust": [
-
-    ],
+    "fastICA": [],
+    "NbClust": [],
     "gamlss": [
         "gamlss.data",
         "gamlss.dist",
@@ -165842,29 +165180,21 @@
     "gamlss.dist": [
         "MASS"
     ],
-    "gamlss.data": [
-
-    ],
+    "gamlss.data": [],
     "earth": [
         "Formula",
         "plotmo",
         "TeachingDemos",
         "plotrix"
     ],
-    "matrixcalc": [
-
-    ],
+    "matrixcalc": [],
     "plotmo": [
         "Formula",
         "plotrix",
         "TeachingDemos"
     ],
-    "TeachingDemos": [
-
-    ],
-    "plotrix": [
-
-    ],
+    "TeachingDemos": [],
+    "plotrix": [],
     "PolynomF": [
         "Rcpp"
     ],
@@ -166076,12 +165406,8 @@
         "formatR",
         "lattice"
     ],
-    "breakpointRdata": [
-
-    ],
-    "WriteXLS": [
-
-    ],
+    "breakpointRdata": [],
+    "WriteXLS": [],
     "devtools": [
         "usethis",
         "cli",
@@ -166265,9 +165591,7 @@
         "crayon",
         "ps"
     ],
-    "remotes": [
-
-    ],
+    "remotes": [],
     "roxygen2": [
         "brew",
         "cli",
@@ -166330,15 +165654,9 @@
         "ps",
         "R6"
     ],
-    "brew": [
-
-    ],
-    "zeallot": [
-
-    ],
-    "PoiClaClu": [
-
-    ],
+    "brew": [],
+    "zeallot": [],
+    "PoiClaClu": [],
     "pryr": [
         "stringr",
         "codetools",
@@ -166419,12 +165737,8 @@
     "formula.tools": [
         "operator.tools"
     ],
-    "som": [
-
-    ],
-    "operator.tools": [
-
-    ],
+    "som": [],
+    "operator.tools": [],
     "BMA": [
         "survival",
         "leaps",
@@ -166437,9 +165751,7 @@
         "pcaPP",
         "Matrix"
     ],
-    "leaps": [
-
-    ],
+    "leaps": [],
     "rrcov": [
         "robustbase",
         "mvtnorm",
@@ -166447,16 +165759,12 @@
         "pcaPP",
         "DEoptimR"
     ],
-    "sigclust": [
-
-    ],
+    "sigclust": [],
     "ALL": [
         "Biobase",
         "BiocGenerics"
     ],
-    "combinat": [
-
-    ],
+    "combinat": [],
     "vcfR": [
         "ape",
         "dplyr",
@@ -166490,12 +165798,8 @@
         "utf8",
         "withr"
     ],
-    "memuse": [
-
-    ],
-    "pinfsc50": [
-
-    ],
+    "memuse": [],
+    "pinfsc50": [],
     "biglm": [
         "DBI"
     ],
@@ -166523,12 +165827,8 @@
     "gsubfn": [
         "proto"
     ],
-    "proto": [
-
-    ],
-    "chron": [
-
-    ],
+    "proto": [],
+    "chron": [],
     "drc": [
         "MASS",
         "car",
@@ -166615,9 +165915,7 @@
         "diffobj",
         "rematch2"
     ],
-    "uchardet": [
-
-    ],
+    "uchardet": [],
     "base64url": [
         "backports"
     ],
@@ -166673,9 +165971,7 @@
         "utf8",
         "vctrs"
     ],
-    "pbdZMQ": [
-
-    ],
+    "pbdZMQ": [],
     "rapportools": [
         "plyr",
         "pander",
@@ -166721,15 +166017,9 @@
         "fs",
         "rappdirs"
     ],
-    "Rmpi": [
-
-    ],
-    "ccdata": [
-
-    ],
-    "CCP": [
-
-    ],
+    "Rmpi": [],
+    "ccdata": [],
+    "CCP": [],
     "enrichR": [
         "httr",
         "curl",
@@ -166831,17 +166121,13 @@
         "Rdpack",
         "rbibutils"
     ],
-    "tictoc": [
-
-    ],
+    "tictoc": [],
     "mvoutlier": [
         "sgeostat",
         "robustbase",
         "DEoptimR"
     ],
-    "sgeostat": [
-
-    ],
+    "sgeostat": [],
     "FME": [
         "deSolve",
         "rootSolve",
@@ -166963,21 +166249,11 @@
         "diffobj",
         "rematch2"
     ],
-    "flashClust": [
-
-    ],
-    "multcompView": [
-
-    ],
-    "scatterplot3d": [
-
-    ],
-    "deSolve": [
-
-    ],
-    "minpack.lm": [
-
-    ],
+    "flashClust": [],
+    "multcompView": [],
+    "scatterplot3d": [],
+    "deSolve": [],
+    "minpack.lm": [],
     "spBayes": [
         "coda",
         "sp",
@@ -166993,12 +166269,8 @@
     "kSamples": [
         "SuppDists"
     ],
-    "SuppDists": [
-
-    ],
-    "squash": [
-
-    ],
+    "SuppDists": [],
+    "squash": [],
     "cba": [
         "proxy"
     ],
@@ -167040,9 +166312,7 @@
         "cluster",
         "rpart"
     ],
-    "nortest": [
-
-    ],
+    "nortest": [],
     "topicmodels": [
         "modeltools",
         "slam",
@@ -167062,9 +166332,7 @@
         "xml2",
         "BH"
     ],
-    "NLP": [
-
-    ],
+    "NLP": [],
     "rjsoncons": [
         "jsonlite",
         "cpp11"
@@ -167167,12 +166435,8 @@
     "confintr": [
         "boot"
     ],
-    "lmodel2": [
-
-    ],
-    "splus2R": [
-
-    ],
+    "lmodel2": [],
+    "splus2R": [],
     "broom.mixed": [
         "broom",
         "coda",
@@ -167280,9 +166544,7 @@
         "glue",
         "magrittr"
     ],
-    "GenomicTools": [
-
-    ],
+    "GenomicTools": [],
     "GenomicTools.fileHandler": [
         "data.table",
         "snpStats",
@@ -167292,9 +166554,7 @@
         "zlibbioc",
         "lattice"
     ],
-    "idr": [
-
-    ],
+    "idr": [],
     "quantmod": [
         "xts",
         "zoo",
@@ -167314,9 +166574,7 @@
         "zlibbioc",
         "bitops"
     ],
-    "Illumina450ProbeVariants.db": [
-
-    ],
+    "Illumina450ProbeVariants.db": [],
     "IlluminaHumanMethylationEPICmanifest": [
         "minfi",
         "BiocGenerics",
@@ -167765,9 +167023,7 @@
         "colorspace",
         "utf8"
     ],
-    "BiasedUrn": [
-
-    ],
+    "BiasedUrn": [],
     "geneLenDataBase": [
         "rtracklayer",
         "GenomicFeatures",
@@ -167894,9 +167150,7 @@
         "lattice",
         "utf8"
     ],
-    "spp": [
-
-    ],
+    "spp": [],
     "ChIC.data": [
         "genomeIntervals",
         "randomForest",
@@ -167986,12 +167240,8 @@
         "listenv",
         "parallelly"
     ],
-    "intervals": [
-
-    ],
-    "Delaporte": [
-
-    ],
+    "intervals": [],
+    "Delaporte": [],
     "RcppRoll": [
         "Rcpp"
     ],
@@ -168239,9 +167489,7 @@
         "sys",
         "bitops"
     ],
-    "Nozzle.R1": [
-
-    ],
+    "Nozzle.R1": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [
         "GenomicFeatures",
         "AnnotationDbi",
@@ -168716,15 +167964,9 @@
         "Matrix",
         "lattice"
     ],
-    "etrunct": [
-
-    ],
-    "invgamma": [
-
-    ],
-    "timsac": [
-
-    ],
+    "etrunct": [],
+    "invgamma": [],
+    "timsac": [],
     "ChIPXpressData": [
         "bigmemory",
         "bigmemory.sri",
@@ -168750,9 +167992,7 @@
         "codetools",
         "iterators"
     ],
-    "bigmemory.sri": [
-
-    ],
+    "bigmemory.sri": [],
     "shinyhelper": [
         "shiny",
         "markdown",
@@ -168965,9 +168205,7 @@
         "XML",
         "data.table"
     ],
-    "coop": [
-
-    ],
+    "coop": [],
     "matrixTests": [
         "matrixStats"
     ],
@@ -169003,9 +168241,7 @@
         "colorspace",
         "utf8"
     ],
-    "RApiSerialize": [
-
-    ],
+    "RApiSerialize": [],
     "stringfish": [
         "Rcpp",
         "RcppParallel"
@@ -169081,15 +168317,9 @@
         "Rcpp",
         "BH"
     ],
-    "shades": [
-
-    ],
-    "chromstaRData": [
-
-    ],
-    "glasso": [
-
-    ],
+    "shades": [],
+    "chromstaRData": [],
+    "glasso": [],
     "DDRTree": [
         "irlba",
         "Rcpp",
@@ -169098,9 +168328,7 @@
         "Matrix",
         "lattice"
     ],
-    "HSMMSingleCell": [
-
-    ],
+    "HSMMSingleCell": [],
     "leidenbase": [
         "igraph",
         "magrittr",
@@ -169120,15 +168348,9 @@
         "Matrix",
         "lattice"
     ],
-    "docopt": [
-
-    ],
-    "RcppThread": [
-
-    ],
-    "propr": [
-
-    ],
+    "docopt": [],
+    "RcppThread": [],
+    "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
         "BiocGenerics",
@@ -169206,15 +168428,9 @@
         "lattice",
         "BH"
     ],
-    "qtl": [
-
-    ],
-    "howmany": [
-
-    ],
-    "locfdr": [
-
-    ],
+    "qtl": [],
+    "howmany": [],
+    "locfdr": [],
     "phylobase": [
         "ade4",
         "ape",
@@ -169409,30 +168625,18 @@
     "princurve": [
         "Rcpp"
     ],
-    "entropy": [
-
-    ],
-    "genalg": [
-
-    ],
-    "bezier": [
-
-    ],
+    "entropy": [],
+    "genalg": [],
+    "bezier": [],
     "brglm": [
         "profileModel"
     ],
     "splitstackshape": [
         "data.table"
     ],
-    "profileModel": [
-
-    ],
-    "simpleCache": [
-
-    ],
-    "hash": [
-
-    ],
+    "profileModel": [],
+    "simpleCache": [],
+    "hash": [],
     "kohonen": [
         "Rcpp"
     ],
@@ -169441,9 +168645,7 @@
         "MASS",
         "DEoptimR"
     ],
-    "COHCAPanno": [
-
-    ],
+    "COHCAPanno": [],
     "skmeans": [
         "slam",
         "clue",
@@ -169456,9 +168658,7 @@
         "Rcpp",
         "RcppArmadillo"
     ],
-    "GenSA": [
-
-    ],
+    "GenSA": [],
     "polylabelr": [
         "Rcpp"
     ],
@@ -169474,12 +168674,8 @@
         "MASS",
         "lattice"
     ],
-    "RMTstat": [
-
-    ],
-    "pdist": [
-
-    ],
+    "RMTstat": [],
+    "pdist": [],
     "phylolm": [
         "ape",
         "future.apply",
@@ -170044,12 +169240,8 @@
         "Matrix",
         "lattice"
     ],
-    "iC10TrainingData": [
-
-    ],
-    "survivalROC": [
-
-    ],
+    "iC10TrainingData": [],
+    "survivalROC": [],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "minfi",
         "BiocGenerics",
@@ -170184,9 +169376,7 @@
         "fastmap",
         "assertthat"
     ],
-    "CopyhelpeR": [
-
-    ],
+    "CopyhelpeR": [],
     "arules": [
         "Matrix",
         "generics",
@@ -170206,17 +169396,13 @@
         "magrittr",
         "pkgconfig"
     ],
-    "profmem": [
-
-    ],
+    "profmem": [],
     "relations": [
         "cluster",
         "slam",
         "sets"
     ],
-    "sets": [
-
-    ],
+    "sets": [],
     "pals": [
         "dichromat",
         "colorspace",
@@ -170226,9 +169412,7 @@
     "mapproj": [
         "maps"
     ],
-    "maps": [
-
-    ],
+    "maps": [],
     "capushe": [
         "MASS"
     ],
@@ -170257,9 +169441,7 @@
         "RcppArmadillo",
         "DEoptimR"
     ],
-    "tensorA": [
-
-    ],
+    "tensorA": [],
     "bayesm": [
         "Rcpp",
         "RcppArmadillo"
@@ -170387,9 +169569,7 @@
         "Biobase",
         "BiocGenerics"
     ],
-    "randtests": [
-
-    ],
+    "randtests": [],
     "crisprScoreData": [
         "ExperimentHub",
         "AnnotationHub",
@@ -170627,15 +169807,9 @@
         "fs",
         "rappdirs"
     ],
-    "SMVar": [
-
-    ],
-    "NCmisc": [
-
-    ],
-    "binr": [
-
-    ],
+    "SMVar": [],
+    "NCmisc": [],
+    "binr": [],
     "highcharter": [
         "htmlwidgets",
         "magrittr",
@@ -170857,9 +170031,7 @@
     "linprog": [
         "lpSolve"
     ],
-    "RPMG": [
-
-    ],
+    "RPMG": [],
     "GEOmap": [
         "RPMG",
         "splancs",
@@ -170947,15 +170119,11 @@
     "MBA": [
         "BH"
     ],
-    "Rwave": [
-
-    ],
+    "Rwave": [],
     "spam": [
         "dotCall64"
     ],
-    "dotCall64": [
-
-    ],
+    "dotCall64": [],
     "rpart.plot": [
         "rpart"
     ],
@@ -171077,9 +170245,7 @@
         "vctrs",
         "utf8"
     ],
-    "logging": [
-
-    ],
+    "logging": [],
     "svgPanZoom": [
         "htmlwidgets",
         "htmltools",
@@ -171154,9 +170320,7 @@
         "RWekajars",
         "rJava"
     ],
-    "ineq": [
-
-    ],
+    "ineq": [],
     "arm": [
         "MASS",
         "Matrix",
@@ -171230,9 +170394,7 @@
         "glue",
         "stringi"
     ],
-    "praznik": [
-
-    ],
+    "praznik": [],
     "RWekajars": [
         "rJava"
     ],
@@ -171394,18 +170556,12 @@
     "ppcor": [
         "MASS"
     ],
-    "glm2": [
-
-    ],
+    "glm2": [],
     "harmonicmeanp": [
         "FMStable"
     ],
-    "logger": [
-
-    ],
-    "FMStable": [
-
-    ],
+    "logger": [],
+    "FMStable": [],
     "TFisher": [
         "sn",
         "mvtnorm",
@@ -171576,20 +170732,14 @@
         "rlang",
         "fastmap"
     ],
-    "settings": [
-
-    ],
-    "filehash": [
-
-    ],
+    "settings": [],
+    "filehash": [],
     "CatEncoders": [
         "Matrix",
         "data.table",
         "lattice"
     ],
-    "matlab": [
-
-    ],
+    "matlab": [],
     "rcdk": [
         "rcdklibs",
         "fingerprint",
@@ -171631,15 +170781,11 @@
         "utf8",
         "sys"
     ],
-    "PRROC": [
-
-    ],
+    "PRROC": [],
     "rcdklibs": [
         "rJava"
     ],
-    "fingerprint": [
-
-    ],
+    "fingerprint": [],
     "text2vec": [
         "Matrix",
         "Rcpp",
@@ -171716,9 +170862,7 @@
         "R6",
         "stringi"
     ],
-    "ISOcodes": [
-
-    ],
+    "ISOcodes": [],
     "rsparse": [
         "Matrix",
         "MatrixExtra",
@@ -171836,9 +170980,7 @@
         "slam",
         "stringi"
     ],
-    "sylly": [
-
-    ],
+    "sylly": [],
     "sylly.en": [
         "sylly"
     ],
@@ -171879,24 +171021,14 @@
         "float",
         "lattice"
     ],
-    "float": [
-
-    ],
-    "english": [
-
-    ],
-    "mgsub": [
-
-    ],
+    "float": [],
+    "english": [],
+    "mgsub": [],
     "qdapRegex": [
         "stringi"
     ],
-    "dtt": [
-
-    ],
-    "rTensor": [
-
-    ],
+    "dtt": [],
+    "rTensor": [],
     "einsum": [
         "Rcpp",
         "glue",
@@ -171911,15 +171043,11 @@
         "curl",
         "lattice"
     ],
-    "pvclust": [
-
-    ],
+    "pvclust": [],
     "truncdist": [
         "evd"
     ],
-    "evd": [
-
-    ],
+    "evd": [],
     "imputeLCMD": [
         "tmvtnorm",
         "norm",
@@ -171944,9 +171072,7 @@
         "lattice",
         "zoo"
     ],
-    "norm": [
-
-    ],
+    "norm": [],
     "gmm": [
         "sandwich",
         "zoo",
@@ -172197,12 +171323,8 @@
         "relimp",
         "lattice"
     ],
-    "qvcalc": [
-
-    ],
-    "relimp": [
-
-    ],
+    "qvcalc": [],
+    "relimp": [],
     "fastDummies": [
         "data.table",
         "tibble",
@@ -172219,18 +171341,10 @@
         "cli",
         "utf8"
     ],
-    "numbers": [
-
-    ],
-    "corrgram": [
-
-    ],
-    "DrugVsDiseasedata": [
-
-    ],
-    "cMap2data": [
-
-    ],
+    "numbers": [],
+    "corrgram": [],
+    "DrugVsDiseasedata": [],
+    "cMap2data": [],
     "hgu133a2.db": [
         "AnnotationDbi",
         "org.Hs.eg.db",
@@ -172273,9 +171387,7 @@
         "sys",
         "bitops"
     ],
-    "LSD": [
-
-    ],
+    "LSD": [],
     "gganimate": [
         "ggplot2",
         "stringi",
@@ -172433,9 +171545,7 @@
     "HTMLUtils": [
         "R2HTML"
     ],
-    "EGSEAdata": [
-
-    ],
+    "EGSEAdata": [],
     "ELMER.data": [
         "GenomicRanges",
         "BiocGenerics",
@@ -172448,24 +171558,14 @@
         "zlibbioc",
         "bitops"
     ],
-    "TCGAbiolinksGUI.data": [
-
-    ],
-    "emdist": [
-
-    ],
-    "CDFt": [
-
-    ],
-    "JASPAR2018": [
-
-    ],
+    "TCGAbiolinksGUI.data": [],
+    "emdist": [],
+    "CDFt": [],
+    "JASPAR2018": [],
     "heatmap3": [
         "fastcluster"
     ],
-    "EntropyExplorer": [
-
-    ],
+    "EntropyExplorer": [],
     "EpiMix.data": [
         "ExperimentHub",
         "BiocGenerics",
@@ -172553,9 +171653,7 @@
         "R.oo",
         "R.utils"
     ],
-    "epimutacionsData": [
-
-    ],
+    "epimutacionsData": [],
     "isotree": [
         "Rcpp"
     ],
@@ -172667,9 +171765,7 @@
         "pbivnorm",
         "numDeriv"
     ],
-    "pbivnorm": [
-
-    ],
+    "pbivnorm": [],
     "RNOmni": [
         "plyr",
         "Rcpp",
@@ -172757,9 +171853,7 @@
         "zlibbioc",
         "bitops"
     ],
-    "HGNChelper": [
-
-    ],
+    "HGNChelper": [],
     "homologene": [
         "dplyr",
         "magrittr",
@@ -172854,9 +171948,7 @@
         "askpass",
         "sys"
     ],
-    "grr": [
-
-    ],
+    "grr": [],
     "ComplexUpset": [
         "ggplot2",
         "patchwork",
@@ -172990,9 +172082,7 @@
         "askpass",
         "sys"
     ],
-    "gap.datasets": [
-
-    ],
+    "gap.datasets": [],
     "geepack": [
         "MASS",
         "broom",
@@ -173227,21 +172317,11 @@
         "colorspace",
         "utf8"
     ],
-    "ash": [
-
-    ],
-    "lars": [
-
-    ],
-    "gcspikelite": [
-
-    ],
-    "SPARQL": [
-
-    ],
-    "effsize": [
-
-    ],
+    "ash": [],
+    "lars": [],
+    "gcspikelite": [],
+    "SPARQL": [],
+    "effsize": [],
     "ggiraph": [
         "ggplot2",
         "htmlwidgets",
@@ -173284,9 +172364,7 @@
         "colorspace",
         "utf8"
     ],
-    "clisymbols": [
-
-    ],
+    "clisymbols": [],
     "RecordLinkage": [
         "DBI",
         "RSQLite",
@@ -173514,9 +172592,7 @@
         "colorspace",
         "utf8"
     ],
-    "RobustRankAggreg": [
-
-    ],
+    "RobustRankAggreg": [],
     "dplR": [
         "lattice",
         "Matrix",
@@ -173690,20 +172766,14 @@
         "colorspace",
         "utf8"
     ],
-    "exactRankTests": [
-
-    ],
-    "KMsurv": [
-
-    ],
+    "exactRankTests": [],
+    "KMsurv": [],
     "km.ci": [
         "survival",
         "Matrix",
         "lattice"
     ],
-    "GWASExactHW": [
-
-    ],
+    "GWASExactHW": [],
     "logistf": [
         "mice",
         "mgcv",
@@ -173841,9 +172911,7 @@
         "fs",
         "rappdirs"
     ],
-    "lsr": [
-
-    ],
+    "lsr": [],
     "flextable": [
         "officer",
         "rmarkdown",
@@ -174062,9 +173130,7 @@
     "repo": [
         "digest"
     ],
-    "htm2txt": [
-
-    ],
+    "htm2txt": [],
     "ggalt": [
         "ggplot2",
         "dplyr",
@@ -174173,9 +173239,7 @@
         "lattice",
         "utf8"
     ],
-    "proj4": [
-
-    ],
+    "proj4": [],
     "HH": [
         "lattice",
         "latticeExtra",
@@ -174272,9 +173336,7 @@
         "pkgconfig",
         "utf8"
     ],
-    "bnlearn": [
-
-    ],
+    "bnlearn": [],
     "gRain": [
         "gRbase",
         "graph",
@@ -174327,9 +173389,7 @@
         "viridisLite",
         "colorspace"
     ],
-    "mapplots": [
-
-    ],
+    "mapplots": [],
     "gProfileR": [
         "RCurl",
         "plyr",
@@ -174424,9 +173484,7 @@
     "units": [
         "Rcpp"
     ],
-    "wk": [
-
-    ],
+    "wk": [],
     "RMallow": [
         "combinat"
     ],
@@ -174437,9 +173495,7 @@
         "Matrix",
         "lattice"
     ],
-    "Iso": [
-
-    ],
+    "Iso": [],
     "fGarch": [
         "fBasics",
         "timeDate",
@@ -174512,9 +173568,7 @@
     "nsga2R": [
         "mco"
     ],
-    "mco": [
-
-    ],
+    "mco": [],
     "GA": [
         "foreach",
         "iterators",
@@ -174551,12 +173605,8 @@
         "glue",
         "lifecycle"
     ],
-    "h5vcData": [
-
-    ],
-    "aggregation": [
-
-    ],
+    "h5vcData": [],
+    "aggregation": [],
     "HiContactsData": [
         "ExperimentHub",
         "BiocFileCache",
@@ -174639,9 +173689,7 @@
         "zlibbioc",
         "bitops"
     ],
-    "fmsb": [
-
-    ],
+    "fmsb": [],
     "R2jags": [
         "rjags",
         "abind",
@@ -174667,12 +173715,8 @@
         "rlang",
         "magrittr"
     ],
-    "sonicLength": [
-
-    ],
-    "protr": [
-
-    ],
+    "sonicLength": [],
+    "protr": [],
     "MCL": [
         "expm",
         "Matrix",
@@ -174732,9 +173776,7 @@
         "askpass",
         "sys"
     ],
-    "yesno": [
-
-    ],
+    "yesno": [],
     "aws.signature": [
         "digest",
         "base64enc"
@@ -174798,12 +173840,8 @@
         "pkgconfig",
         "utf8"
     ],
-    "additivityTests": [
-
-    ],
-    "simpIntLists": [
-
-    ],
+    "additivityTests": [],
+    "simpIntLists": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "GenomicFeatures",
         "AnnotationDbi",
@@ -174895,17 +173933,13 @@
         "utf8",
         "formatR"
     ],
-    "LiblineaR": [
-
-    ],
+    "LiblineaR": [],
     "parallelDist": [
         "Rcpp",
         "RcppParallel",
         "RcppArmadillo"
     ],
-    "RTriangle": [
-
-    ],
+    "RTriangle": [],
     "concaveman": [
         "V8",
         "sf",
@@ -174939,9 +173973,7 @@
         "MASS",
         "proxy"
     ],
-    "distances": [
-
-    ],
+    "distances": [],
     "Rlabkey": [
         "httr",
         "jsonlite",
@@ -174959,17 +173991,13 @@
         "lattice",
         "Rcpp"
     ],
-    "HiddenMarkov": [
-
-    ],
+    "HiddenMarkov": [],
     "argparse": [
         "R6",
         "findpython",
         "jsonlite"
     ],
-    "findpython": [
-
-    ],
+    "findpython": [],
     "depmixS4": [
         "nnet",
         "MASS",
@@ -175176,9 +174204,7 @@
         "colorspace",
         "utf8"
     ],
-    "Rcapture": [
-
-    ],
+    "Rcapture": [],
     "datamods": [
         "data.table",
         "htmltools",
@@ -175263,15 +174289,9 @@
         "sfsmisc",
         "MASS"
     ],
-    "startupmsg": [
-
-    ],
-    "tcltk2": [
-
-    ],
-    "ITALICSData": [
-
-    ],
+    "startupmsg": [],
+    "tcltk2": [],
+    "ITALICSData": [],
     "pd.mapping50k.xba240": [
         "Biostrings",
         "RSQLite",
@@ -175326,9 +174346,7 @@
         "rbibutils",
         "lattice"
     ],
-    "KOdata": [
-
-    ],
+    "KOdata": [],
     "hgu95av2.db": [
         "AnnotationDbi",
         "org.Hs.eg.db",
@@ -175371,9 +174389,7 @@
         "sys",
         "bitops"
     ],
-    "aods3": [
-
-    ],
+    "aods3": [],
     "sortable": [
         "htmltools",
         "htmlwidgets",
@@ -175505,9 +174521,7 @@
         "withr",
         "this.path"
     ],
-    "this.path": [
-
-    ],
+    "this.path": [],
     "learnr": [
         "checkmate",
         "curl",
@@ -175557,9 +174571,7 @@
         "stringi",
         "fs"
     ],
-    "renv": [
-
-    ],
+    "renv": [],
     "akima": [
         "sp",
         "lattice"
@@ -175573,23 +174585,15 @@
         "lattice",
         "nlme"
     ],
-    "stemHypoxia": [
-
-    ],
+    "stemHypoxia": [],
     "LogicReg": [
         "survival",
         "Matrix",
         "lattice"
     ],
-    "mcbiopi": [
-
-    ],
-    "LowMACAAnnotation": [
-
-    ],
-    "LymphoSeqDB": [
-
-    ],
+    "mcbiopi": [],
+    "LowMACAAnnotation": [],
+    "LymphoSeqDB": [],
     "reldist": [
         "mgcv",
         "densEstBayes",
@@ -175877,9 +174881,7 @@
         "colorspace",
         "utf8"
     ],
-    "tweedie": [
-
-    ],
+    "tweedie": [],
     "TMB": [
         "Matrix",
         "RcppEigen",
@@ -175946,9 +174948,7 @@
         "zlibbioc",
         "bitops"
     ],
-    "bigassertr": [
-
-    ],
+    "bigassertr": [],
     "bigparallelr": [
         "foreach",
         "bigassertr",
@@ -176372,18 +175372,12 @@
         "proxy",
         "lattice"
     ],
-    "parmigene": [
-
-    ],
-    "LungCancerACvsSCCGEO": [
-
-    ],
+    "parmigene": [],
+    "LungCancerACvsSCCGEO": [],
     "venn": [
         "admisc"
     ],
-    "admisc": [
-
-    ],
+    "admisc": [],
     "PairedData": [
         "MASS",
         "gld",
@@ -176420,9 +175414,7 @@
         "colorspace",
         "utf8"
     ],
-    "mCSEAdata": [
-
-    ],
+    "mCSEAdata": [],
     "SmartSVA": [
         "sva",
         "isva",
@@ -176520,9 +175512,7 @@
         "svGUI",
         "rstudioapi"
     ],
-    "svGUI": [
-
-    ],
+    "svGUI": [],
     "EnsDb.Hsapiens.v75": [
         "ensembldb",
         "BiocGenerics",
@@ -177017,9 +176007,7 @@
         "rebus.numbers",
         "rebus.unicode"
     ],
-    "rebus.base": [
-
-    ],
+    "rebus.base": [],
     "rebus.datetimes": [
         "rebus.base"
     ],
@@ -177037,9 +176025,7 @@
         "longitudinal",
         "fdrtool"
     ],
-    "stabs": [
-
-    ],
+    "stabs": [],
     "longitudinal": [
         "corpcor"
     ],
@@ -177333,9 +176319,7 @@
         "formatR",
         "lattice"
     ],
-    "miRcompData": [
-
-    ],
+    "miRcompData": [],
     "InvariantCausalPrediction": [
         "glmnet",
         "mboost",
@@ -177428,9 +176412,7 @@
         "sys",
         "bitops"
     ],
-    "GFA": [
-
-    ],
+    "GFA": [],
     "linkcomm": [
         "igraph",
         "RColorBrewer",
@@ -177545,9 +176527,7 @@
         "pkgconfig",
         "utf8"
     ],
-    "PMA": [
-
-    ],
+    "PMA": [],
     "subspace": [
         "ggvis",
         "colorspace",
@@ -177759,9 +176739,7 @@
         "cpp11",
         "utf8"
     ],
-    "kpeaks": [
-
-    ],
+    "kpeaks": [],
     "lhs": [
         "Rcpp"
     ],
@@ -177969,9 +176947,7 @@
         "insight",
         "datawizard"
     ],
-    "ridge": [
-
-    ],
+    "ridge": [],
     "echarts4r": [
         "htmlwidgets",
         "dplyr",
@@ -178041,15 +177017,9 @@
         "rappdirs",
         "lattice"
     ],
-    "countrycode": [
-
-    ],
-    "NMI": [
-
-    ],
-    "svd": [
-
-    ],
+    "countrycode": [],
+    "NMI": [],
+    "svd": [],
     "MKmisc": [
         "RColorBrewer",
         "robustbase",
@@ -178120,9 +177090,7 @@
         "askpass",
         "sys"
     ],
-    "akmbiclust": [
-
-    ],
+    "akmbiclust": [],
     "gghalves": [
         "ggplot2",
         "gtable",
@@ -178258,9 +177226,7 @@
         "Rcpp",
         "utf8"
     ],
-    "easyPubMed": [
-
-    ],
+    "easyPubMed": [],
     "googleAuthR": [
         "assertthat",
         "cli",
@@ -178327,9 +177293,7 @@
         "vctrs",
         "utf8"
     ],
-    "aod": [
-
-    ],
+    "aod": [],
     "deconstructSigs": [
         "reshape2",
         "BSgenome",
@@ -178418,9 +177382,7 @@
         "fs",
         "rappdirs"
     ],
-    "poorman": [
-
-    ],
+    "poorman": [],
     "grImport": [
         "XML"
     ],
@@ -178467,12 +177429,8 @@
         "Rcpp",
         "bitops"
     ],
-    "mppa": [
-
-    ],
-    "NetActivityData": [
-
-    ],
+    "mppa": [],
+    "NetActivityData": [],
     "huge": [
         "Matrix",
         "igraph",
@@ -179139,9 +178097,7 @@
         "askpass",
         "sys"
     ],
-    "smatr": [
-
-    ],
+    "smatr": [],
     "ontologyPlot": [
         "ontologyIndex",
         "paintmap",
@@ -179149,18 +178105,14 @@
         "graph",
         "BiocGenerics"
     ],
-    "paintmap": [
-
-    ],
+    "paintmap": [],
     "distrEx": [
         "distr",
         "startupmsg",
         "sfsmisc",
         "MASS"
     ],
-    "uniqtag": [
-
-    ],
+    "uniqtag": [],
     "AICcmodavg": [
         "lattice",
         "MASS",
@@ -179305,9 +178257,7 @@
         "vctrs",
         "utf8"
     ],
-    "optimalFlowData": [
-
-    ],
+    "optimalFlowData": [],
     "Peptides": [
         "Rcpp"
     ],
@@ -179458,21 +178408,13 @@
     "matrixLaplacian": [
         "scatterplot3d"
     ],
-    "cMAP": [
-
-    ],
-    "EMT": [
-
-    ],
+    "cMAP": [],
+    "EMT": [],
     "Matching": [
         "MASS"
     ],
-    "pcxnData": [
-
-    ],
-    "clusterRepro": [
-
-    ],
+    "pcxnData": [],
+    "clusterRepro": [],
     "reportROC": [
         "pROC",
         "vcd",
@@ -179638,9 +178580,7 @@
         "rlang",
         "lattice"
     ],
-    "geigen": [
-
-    ],
+    "geigen": [],
     "protolite": [
         "Rcpp",
         "jsonlite"
@@ -179697,9 +178637,7 @@
         "NISTunits",
         "pracma"
     ],
-    "NISTunits": [
-
-    ],
+    "NISTunits": [],
     "PMCMRplus": [
         "mvtnorm",
         "multcompView",
@@ -179731,9 +178669,7 @@
         "RcppArmadillo",
         "RcppGSL"
     ],
-    "msgps": [
-
-    ],
+    "msgps": [],
     "pingr": [
         "processx",
         "ps",
@@ -179803,15 +178739,11 @@
     "intrinsicDimension": [
         "yaImpute"
     ],
-    "yaImpute": [
-
-    ],
+    "yaImpute": [],
     "strawr": [
         "Rcpp"
     ],
-    "logspline": [
-
-    ],
+    "logspline": [],
     "evmix": [
         "MASS",
         "gsl",
@@ -179947,12 +178879,8 @@
         "colorspace",
         "lattice"
     ],
-    "svUnit": [
-
-    ],
-    "HDInterval": [
-
-    ],
+    "svUnit": [],
+    "HDInterval": [],
     "distributional": [
         "vctrs",
         "rlang",
@@ -180142,15 +179070,9 @@
         "pkgconfig",
         "utf8"
     ],
-    "naivebayes": [
-
-    ],
-    "tester": [
-
-    ],
-    "fracdiff": [
-
-    ],
+    "naivebayes": [],
+    "tester": [],
+    "fracdiff": [],
     "urca": [
         "nlme",
         "lattice"
@@ -180399,9 +179321,7 @@
         "fs",
         "rappdirs"
     ],
-    "enviPat": [
-
-    ],
+    "enviPat": [],
     "shinyscreenshot": [
         "base64enc",
         "jsonlite",
@@ -180522,16 +179442,12 @@
         "zlibbioc",
         "bitops"
     ],
-    "fftw": [
-
-    ],
+    "fftw": [],
     "ExtDist": [
         "numDeriv",
         "optimx"
     ],
-    "filematrix": [
-
-    ],
+    "filematrix": [],
     "googleVis": [
         "jsonlite"
     ],
@@ -180836,9 +179752,7 @@
     "bibtex": [
         "backports"
     ],
-    "gsmoothr": [
-
-    ],
+    "gsmoothr": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [
         "BSgenome",
         "BiocGenerics",
@@ -180960,9 +179874,7 @@
         "zlibbioc",
         "bitops"
     ],
-    "RGMQLlib": [
-
-    ],
+    "RGMQLlib": [],
     "elitism": [
         "MASS"
     ],
@@ -180974,9 +179886,7 @@
     "nls2": [
         "proto"
     ],
-    "RITANdata": [
-
-    ],
+    "RITANdata": [],
     "valr": [
         "broom",
         "cli",
@@ -181386,12 +180296,8 @@
         "fs",
         "rappdirs"
     ],
-    "pwr": [
-
-    ],
-    "dunn.test": [
-
-    ],
+    "pwr": [],
+    "dunn.test": [],
     "bladderbatch": [
         "Biobase",
         "BiocGenerics"
@@ -181422,9 +180328,7 @@
         "magrittr",
         "stringi"
     ],
-    "SPAtest": [
-
-    ],
+    "SPAtest": [],
     "excelR": [
         "htmlwidgets",
         "jsonlite",
@@ -181463,9 +180367,7 @@
         "R6",
         "rappdirs"
     ],
-    "smoothie": [
-
-    ],
+    "smoothie": [],
     "scanMiRData": [
         "scanMiR",
         "Biostrings",
@@ -181639,12 +180541,8 @@
         "pspline",
         "numDeriv"
     ],
-    "ADGofTest": [
-
-    ],
-    "pspline": [
-
-    ],
+    "ADGofTest": [],
+    "pspline": [],
     "proxyC": [
         "Matrix",
         "Rcpp",
@@ -181662,9 +180560,7 @@
         "Rcpp",
         "RcppArmadillo"
     ],
-    "distillery": [
-
-    ],
+    "distillery": [],
     "torch": [
         "Rcpp",
         "R6",
@@ -181683,9 +180579,7 @@
     "coro": [
         "rlang"
     ],
-    "logitnorm": [
-
-    ],
+    "logitnorm": [],
     "elasticnet": [
         "lars"
     ],
@@ -181706,9 +180600,7 @@
         "parallelly",
         "codetools"
     ],
-    "Rmagic": [
-
-    ],
+    "Rmagic": [],
     "ggvenn": [
         "dplyr",
         "ggplot2",
@@ -181745,9 +180637,7 @@
     "glmpca": [
         "MASS"
     ],
-    "dgof": [
-
-    ],
+    "dgof": [],
     "nnTensor": [
         "MASS",
         "fields",
@@ -181885,12 +180775,8 @@
         "purrr",
         "colorspace"
     ],
-    "chromhmmData": [
-
-    ],
-    "seq2pathway.data": [
-
-    ],
+    "chromhmmData": [],
+    "seq2pathway.data": [],
     "cvTools": [
         "lattice",
         "robustbase",
@@ -181906,9 +180792,7 @@
         "boot",
         "lattice"
     ],
-    "seqCNA.annot": [
-
-    ],
+    "seqCNA.annot": [],
     "adehabitatMA": [
         "sp",
         "lattice"
@@ -182037,9 +180921,7 @@
     "objectProperties": [
         "objectSignals"
     ],
-    "objectSignals": [
-
-    ],
+    "objectSignals": [],
     "mlr3": [
         "R6",
         "backports",
@@ -182129,9 +181011,7 @@
         "digest",
         "R6"
     ],
-    "palmerpenguins": [
-
-    ],
+    "palmerpenguins": [],
     "bbotk": [
         "paradox",
         "checkmate",
@@ -182903,18 +181783,10 @@
         "gmp",
         "cpp11"
     ],
-    "SNAGEEdata": [
-
-    ],
-    "sampSurf": [
-
-    ],
-    "nnlasso": [
-
-    ],
-    "logNormReg": [
-
-    ],
+    "SNAGEEdata": [],
+    "sampSurf": [],
+    "nnlasso": [],
+    "logNormReg": [],
     "spdep": [
         "sp",
         "spData",
@@ -183146,12 +182018,8 @@
         "BH",
         "nlme"
     ],
-    "BlandAltmanLeh": [
-
-    ],
-    "FIs": [
-
-    ],
+    "BlandAltmanLeh": [],
+    "FIs": [],
     "dml": [
         "MASS",
         "lfda",
@@ -183375,9 +182243,7 @@
         "pkgconfig",
         "withr"
     ],
-    "poilog": [
-
-    ],
+    "poilog": [],
     "mclustcomp": [
         "Rcpp",
         "Rdpack",
@@ -183436,9 +182302,7 @@
         "glue",
         "lifecycle"
     ],
-    "warp": [
-
-    ],
+    "warp": [],
     "clustvarsel": [
         "mclust",
         "Matrix",
@@ -183519,9 +182383,7 @@
         "colorspace",
         "utf8"
     ],
-    "kriging": [
-
-    ],
+    "kriging": [],
     "sftime": [
         "sf",
         "classInt",
@@ -183679,12 +182541,8 @@
         "rappdirs",
         "cpp11"
     ],
-    "ROCit": [
-
-    ],
-    "GenKern": [
-
-    ],
+    "ROCit": [],
+    "GenKern": [],
     "ttservice": [
         "dplyr",
         "generics",
@@ -183725,9 +182583,7 @@
     "RcppCCTZ": [
         "Rcpp"
     ],
-    "RcppDate": [
-
-    ],
+    "RcppDate": [],
     "FreqProf": [
         "reshape2",
         "ggplot2",
@@ -183822,9 +182678,7 @@
         "lattice",
         "colorspace"
     ],
-    "ensurer": [
-
-    ],
+    "ensurer": [],
     "bestNormalize": [
         "LambertW",
         "nortest",
@@ -184073,9 +182927,7 @@
         "magrittr",
         "curl"
     ],
-    "mefa": [
-
-    ],
+    "mefa": [],
     "tractor.base": [
         "ore",
         "reportr",
@@ -184083,18 +182935,14 @@
         "RNifti",
         "Rcpp"
     ],
-    "ore": [
-
-    ],
+    "ore": [],
     "reportr": [
         "ore"
     ],
     "RNifti": [
         "Rcpp"
     ],
-    "vbsr": [
-
-    ],
+    "vbsr": [],
     "lassopv": [
         "lars"
     ],
@@ -184487,8 +183335,5 @@
         "plyr",
         "Rcpp"
     ],
-    "alluvial": [
-
-    ]
+    "alluvial": []
 }
-
