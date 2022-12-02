@@ -8012,7 +8012,6 @@
         "annotate",
         "AnnotationDbi"
     ],
-    "gtrellis": [],
     "GUIDEseq": [
         "CRISPRseek",
         "ChIPpeakAnno",
@@ -20349,7 +20348,6 @@
         "SomaticSignatures",
         "VariantAnnotation",
         "dendextend",
-        "gtrellis",
         "ggbeeswarm",
         "BSgenome.Hsapiens.UCSC.hg19",
         "dplyr",
