@@ -443,7 +443,6 @@
         "car",
         "pbkrtest"
     ],
-    "ExperimentHubData": [],
     "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
@@ -806,7 +805,6 @@
         "methylclockData",
         "ggpubr",
         "rstatix",
-        "ExperimentHubData",
         "car",
         "pbkrtest"
     ],
@@ -1599,9 +1597,7 @@
         "pbkrtest"
     ],
     "FlowSorted.Blood.450k": [],
-    "methylclockData": [
-        "ExperimentHubData"
-    ],
+    "methylclockData": [],
     "blme": [],
     "mppa": [],
     "RcmdrMisc": [
