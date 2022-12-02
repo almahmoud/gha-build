@@ -6232,9 +6232,7 @@
         "available",
         "tidytext"
     ],
-    "HumanTranscriptomeCompendium": [
-        "ssrch"
-    ],
+    "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
     "hypeR": [
         "ggforce",
@@ -13540,7 +13538,6 @@
         "readr",
         "vroom"
     ],
-    "ssrch": [],
     "ssviz": [],
     "stageR": [],
     "STAN": [
