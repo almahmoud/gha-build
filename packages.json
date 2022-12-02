@@ -16,9 +16,7 @@
     "bigmelon": [
         "wateRmelon"
     ],
-    "bioCancer": [
-        "radiant.data"
-    ],
+    "bioCancer": [],
     "BiocOncoTK": [
         "ggpubr",
         "rstatix"
@@ -464,7 +462,6 @@
     ],
     "rstatix": [],
     "mGSZ": [],
-    "radiant.data": [],
     "GenomicTools": [],
     "spp": [],
     "propr": [],
