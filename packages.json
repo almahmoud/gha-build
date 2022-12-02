@@ -106405,7 +106405,6 @@
         "zlibbioc"
     ],
     "RGMQL": [
-        "RGMQLlib",
         "httr",
         "rJava",
         "GenomicRanges",
@@ -162881,7 +162880,6 @@
         "GenomeInfoDbData",
         "zlibbioc"
     ],
-    "RGMQLlib": [],
     "elitism": [
         "MASS"
     ],
