@@ -7,7 +7,6 @@
         "a4Reporting",
         "Biobase",
         "annaffy",
-        "mpm",
         "genefilter",
         "multtest",
         "glmnet",
@@ -44,7 +43,6 @@
         "a4Core",
         "Biobase",
         "annaffy",
-        "mpm",
         "genefilter",
         "multtest",
         "glmnet",
@@ -23932,7 +23930,6 @@
         "askpass"
     ],
     "esetVis": [
-        "mpm",
         "hexbin",
         "Rtsne",
         "MLP",
@@ -79626,7 +79623,6 @@
         "askpass",
         "lifecycle"
     ],
-    "mpm": [],
     "glmnet": [
         "Matrix",
         "foreach",
