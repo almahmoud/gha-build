@@ -28553,7 +28553,6 @@
     "netprioR": [
         "dplyr",
         "doParallel",
-        "sparseMVN",
         "ggplot2",
         "pROC",
         "tibble",
@@ -52179,7 +52178,6 @@
         "vroom",
         "progress"
     ],
-    "sparseMVN": [],
     "BRISC": [
         "rdist"
     ],
