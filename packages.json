@@ -1133,7 +1133,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "netSmooth": [],
     "netZooR": [
         "yarn",
         "quantro",
