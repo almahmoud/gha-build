@@ -11573,7 +11573,6 @@
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "coin",
-        "servr",
         "BiocFileCache",
         "RSQLite",
         "AnnotationDbi",
@@ -30506,7 +30505,6 @@
         "shiny",
         "Biostrings"
     ],
-    "servr": [],
     "available": [
         "tidytext",
         "tibble",
