@@ -63885,7 +63885,6 @@
         "lifecycle",
         "zlibbioc"
     ],
-    "miRNApath": [],
     "miRNAtap": [
         "AnnotationDbi",
         "RSQLite",
