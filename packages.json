@@ -68012,7 +68012,6 @@
         "evaluate",
         "knitr",
         "markdown",
-        "renv",
         "rprojroot",
         "timechange",
         "matrixStats",
@@ -88409,7 +88408,6 @@
         "xfun",
         "checkmate",
         "markdown",
-        "renv",
         "rmarkdown",
         "rprojroot",
         "nlme",
@@ -166224,7 +166222,6 @@
         "markdown",
         "promises",
         "rappdirs",
-        "renv",
         "rmarkdown",
         "rprojroot",
         "withr",
@@ -166343,7 +166340,6 @@
         "markdown",
         "promises",
         "rappdirs",
-        "renv",
         "rlang",
         "rmarkdown",
         "rprojroot",
@@ -166376,7 +166372,6 @@
         "stringi",
         "fs"
     ],
-    "renv": [],
     "akima": [
         "sp",
         "lattice"
