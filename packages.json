@@ -26971,7 +26971,6 @@
         "kableExtra",
         "SummarizedExperiment",
         "tibble",
-        "qdapTools",
         "tidyr",
         "ggplot2",
         "tidyselect",
@@ -55814,7 +55813,6 @@
         "mgcv",
         "scales"
     ],
-    "qdapTools": [],
     "ismev": [
         "mgcv"
     ],
