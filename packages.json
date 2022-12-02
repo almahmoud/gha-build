@@ -1666,7 +1666,6 @@
         "VariantAnnotation"
     ],
     "hermes": [],
-    "hiAnnotator": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
@@ -1697,9 +1696,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "hipathia": [],
-    "hiReadsProcessor": [
-        "hiAnnotator"
-    ],
+    "hiReadsProcessor": [],
     "HPiP": [],
     "HTSeqGenie": [
         "gmapR",
