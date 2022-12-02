@@ -16549,7 +16549,6 @@
         "DelayedArray",
         "lambda.r"
     ],
-    "coGPS": [],
     "COHCAP": [
         "WriteXLS",
         "gplots",
