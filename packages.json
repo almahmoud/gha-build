@@ -57,12 +57,9 @@
     "MetaCyto": [],
     "methylclock": [],
     "miRSM": [
-        "miRspongeR",
-        "SPONGE"
+        "miRspongeR"
     ],
-    "miRspongeR": [
-        "SPONGE"
-    ],
+    "miRspongeR": [],
     "MSstatsLiP": [],
     "musicatk": [],
     "NBSplice": [
@@ -97,7 +94,6 @@
     ],
     "spaSim": [],
     "spikeLI": [],
-    "SPONGE": [],
     "survtype": [],
     "TCGAbiolinksGUI": [
         "ELMER"
