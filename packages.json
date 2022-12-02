@@ -1162,7 +1162,6 @@
     "igvR": [
         "VariantAnnotation"
     ],
-    "imageHTS": [],
     "IMAS": [
         "IVAS",
         "lme4"
