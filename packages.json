@@ -6328,7 +6328,6 @@
     "coseq": [
         "SummarizedExperiment",
         "DESeq2",
-        "Rmixmod",
         "ggplot2",
         "HTSFilter",
         "GenomicRanges",
@@ -35857,7 +35856,6 @@
         "pillar",
         "tibble"
     ],
-    "Rmixmod": [],
     "faahKO": [
         "xcms",
         "MSnbase",
