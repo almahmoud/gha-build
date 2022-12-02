@@ -2700,7 +2700,6 @@
     ],
     "oneSENSE": [],
     "onlineFDR": [],
-    "ontoProc": [],
     "openPrimeRui": [],
     "OpenStats": [
         "AICcmodavg",
@@ -2859,9 +2858,7 @@
         "lme4"
     ],
     "podkat": [],
-    "pogos": [
-        "ontoProc"
-    ],
+    "pogos": [],
     "POMA": [],
     "ppcseq": [
         "tidybayes"
@@ -3851,8 +3848,7 @@
     ],
     "TEKRABber": [],
     "tenXplore": [
-        "restfulSE",
-        "ontoProc"
+        "restfulSE"
     ],
     "terraTCGAdata": [
         "TCGAutils",
