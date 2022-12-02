@@ -2661,7 +2661,6 @@
         "pbkrtest"
     ],
     "OMICsPCA": [
-        "OMICsPCAdata",
         "HelloRanges",
         "factoextra",
         "FactoMineR",
@@ -4382,7 +4381,6 @@
         "klaR",
         "questionr"
     ],
-    "OMICsPCAdata": [],
     "AICcmodavg": [
         "unmarked",
         "lme4"
