@@ -17463,7 +17463,6 @@
         "Rsamtools",
         "GenomicAlignments"
     ],
-    "MiPP": [],
     "miQC": [
         "SingleCellExperiment",
         "ggplot2",
