@@ -11610,7 +11610,6 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "iterativeBMA": [],
     "iterativeBMAsurv": [],
     "IVAS": [
         "GenomicFeatures",
