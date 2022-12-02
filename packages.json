@@ -266,7 +266,6 @@
     "iCheck": [
         "lumi"
     ],
-    "IMAS": [],
     "InTAD": [
         "ggpubr",
         "rstatix"
