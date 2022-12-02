@@ -857,7 +857,6 @@
         "GenomicDataCommons",
         "biomaRt"
     ],
-    "ccfindR": [],
     "CCPROMISE": [
         "PROMISE",
         "GSEABase"
