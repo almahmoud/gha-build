@@ -17612,7 +17612,6 @@
         "GenomeInfoDb"
     ],
     "GSgalgoR": [
-        "matchingR",
         "survival"
     ],
     "GSReg": [
@@ -49228,7 +49227,6 @@
         "vctrs",
         "pillar"
     ],
-    "matchingR": [],
     "BatchJobs": [
         "RSQLite",
         "blob",
