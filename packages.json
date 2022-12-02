@@ -497,7 +497,6 @@
         "ensembldb",
         "biovizBase",
         "interp",
-        "segmented",
         "DelayedArray",
         "progress",
         "httr",
@@ -1181,7 +1180,6 @@
         "org.Hs.eg.db",
         "BiocParallel",
         "crul",
-        "segmented",
         "httpuv",
         "bslib",
         "KEGGREST",
@@ -1340,7 +1338,6 @@
         "pillar",
         "lme4",
         "httr",
-        "segmented",
         "Biostrings",
         "nloptr",
         "blob",
@@ -1776,7 +1773,6 @@
         "SummarizedExperiment",
         "annotate",
         "AnnotationDbi",
-        "segmented",
         "httpuv",
         "bslib",
         "GenomicRanges",
@@ -1980,7 +1976,6 @@
         "BiocFileCache",
         "recipes",
         "viridis",
-        "segmented",
         "annotate",
         "genefilter",
         "ggvis",
@@ -4639,7 +4634,6 @@
         "KEGGREST",
         "tidyselect",
         "pillar",
-        "segmented",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -4825,7 +4819,6 @@
         "XVector",
         "GenomeInfoDb",
         "tibble",
-        "segmented",
         "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
@@ -6192,7 +6185,6 @@
         "hms",
         "vroom",
         "GenomicAlignments",
-        "segmented",
         "KEGGREST",
         "dbplyr",
         "annotate",
@@ -6259,7 +6251,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "segmented",
         "scuttle",
         "BiocParallel",
         "DelayedArray",
@@ -6310,7 +6301,6 @@
         "XVector",
         "rtracklayer",
         "Rsamtools",
-        "segmented",
         "BiocParallel",
         "GenomicAlignments",
         "SummarizedExperiment",
@@ -7812,7 +7802,6 @@
         "bslib",
         "mixtools",
         "Biostrings",
-        "segmented",
         "blob",
         "XVector",
         "GenomeInfoDb"
@@ -8053,7 +8042,6 @@
         "pillar",
         "tensorflow",
         "tfruns",
-        "segmented",
         "BiocParallel",
         "GenomicAlignments",
         "tfautograph",
@@ -8107,7 +8095,6 @@
         "haven",
         "readxl",
         "blob",
-        "segmented",
         "dbplyr",
         "AnnotationFilter",
         "forcats",
@@ -10133,8 +10120,7 @@
     "diggit": [
         "ks",
         "viper",
-        "mixtools",
-        "segmented"
+        "mixtools"
     ],
     "Dino": [
         "BiocParallel",
@@ -10841,7 +10827,6 @@
         "shiny",
         "DT",
         "nloptr",
-        "segmented",
         "blob",
         "Biostrings",
         "testthat",
@@ -13990,8 +13975,7 @@
         "mixtools",
         "tibble",
         "tidyselect",
-        "pillar",
-        "segmented"
+        "pillar"
     ],
     "gemma.R": [
         "SummarizedExperiment",
@@ -14150,8 +14134,7 @@
         "GenomeInfoDb"
     ],
     "GeneGA": [
-        "seqinr",
-        "segmented"
+        "seqinr"
     ],
     "GeneGeneInteR": [
         "snpStats",
@@ -14509,7 +14492,6 @@
     "genomicInstability": [
         "mixtools",
         "SummarizedExperiment",
-        "segmented",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -16097,7 +16079,6 @@
         "tfruns",
         "cellranger",
         "blob",
-        "segmented",
         "dbplyr",
         "vroom",
         "tfautograph"
@@ -17364,7 +17345,6 @@
         "seqinr",
         "XVector",
         "GenomeInfoDb",
-        "segmented",
         "sqldf",
         "RSQLite",
         "blob"
@@ -17514,7 +17494,6 @@
         "BiocFileCache",
         "SummarizedExperiment",
         "BiocParallel",
-        "segmented",
         "dbplyr",
         "DelayedArray"
     ],
@@ -17768,7 +17747,6 @@
         "genefilter",
         "RSQLite",
         "rtracklayer",
-        "segmented",
         "DelayedArray",
         "KEGGREST",
         "progress",
@@ -17939,7 +17917,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "segmented",
         "scuttle",
         "SummarizedExperiment",
         "DelayedArray",
@@ -20905,8 +20882,7 @@
         "seqinr",
         "Biostrings",
         "XVector",
-        "GenomeInfoDb",
-        "segmented"
+        "GenomeInfoDb"
     ],
     "MethylAid": [
         "BiocParallel",
@@ -21287,7 +21263,6 @@
         "SummarizedExperiment",
         "XVector",
         "GenomeInfoDb",
-        "segmented",
         "httpuv",
         "bslib",
         "tibble",
@@ -23039,7 +23014,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "BiocParallel",
-        "segmented",
         "DelayedArray"
     ],
     "motifbreakR": [
@@ -23255,8 +23229,7 @@
         "XVector",
         "GenomeInfoDb",
         "tidyselect",
-        "pillar",
-        "segmented"
+        "pillar"
     ],
     "MsBackendMassbank": [
         "Spectra",
@@ -23829,7 +23802,6 @@
         "tensorflow",
         "tfruns",
         "blob",
-        "segmented",
         "dbplyr",
         "latticeExtra",
         "htmlTable",
@@ -25951,7 +25923,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "segmented",
         "interp",
         "blob"
     ],
@@ -25981,7 +25952,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "segmented",
         "interp",
         "blob"
     ],
@@ -28310,7 +28280,6 @@
         "recipes",
         "viridis",
         "tibble",
-        "segmented",
         "annotate",
         "genefilter",
         "ggvis",
@@ -28378,7 +28347,6 @@
         "BiocFileCache",
         "recipes",
         "viridis",
-        "segmented",
         "annotate",
         "genefilter",
         "ggvis",
@@ -29647,7 +29615,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-        "segmented",
         "httpuv",
         "bslib",
         "Biostrings",
@@ -32029,7 +31996,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "segmented",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -32057,7 +32023,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "segmented",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -32089,7 +32054,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "segmented",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -32312,7 +32276,6 @@
         "dplyr",
         "tibble",
         "bslib",
-        "segmented",
         "httpuv",
         "tidyselect",
         "pillar",
@@ -32810,7 +32773,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "segmented",
         "tidyselect",
         "pillar",
         "tweenr",
@@ -33278,7 +33240,6 @@
         "RUVSeq",
         "rARPACK",
         "SingleCellExperiment",
-        "segmented",
         "RSpectra",
         "EDASeq",
         "GenomicRanges",
@@ -35212,7 +35173,6 @@
         "dplyr",
         "tidyr",
         "treeio",
-        "segmented",
         "tidyselect",
         "pillar"
     ],
@@ -35448,7 +35408,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "segmented",
         "httpuv",
         "bslib"
     ],
@@ -35891,8 +35850,7 @@
     "specL": [
         "RSQLite",
         "seqinr",
-        "blob",
-        "segmented"
+        "blob"
     ],
     "SpeCond": [
         "fields",
@@ -36504,8 +36462,7 @@
         "Biostrings",
         "seqinr",
         "XVector",
-        "GenomeInfoDb",
-        "segmented"
+        "GenomeInfoDb"
     ],
     "sSNAPPY": [
         "dplyr",
@@ -37076,7 +37033,6 @@
         "pillar",
         "hms",
         "vroom",
-        "segmented",
         "waldo",
         "RSQLite",
         "KEGGREST",
@@ -37350,8 +37306,7 @@
         "seqinr",
         "Biostrings",
         "XVector",
-        "GenomeInfoDb",
-        "segmented"
+        "GenomeInfoDb"
     ],
     "syntenet": [
         "GenomicRanges",
@@ -39004,7 +38959,6 @@
         "DelayedArray"
     ],
     "Trendy": [
-        "segmented",
         "BiocParallel",
         "DT",
         "SummarizedExperiment",
@@ -39948,8 +39902,7 @@
         "blob"
     ],
     "viper": [
-        "mixtools",
-        "segmented"
+        "mixtools"
     ],
     "ViSEAGO": [
         "AnnotationDbi",
@@ -40195,7 +40148,6 @@
         "AnnotationFilter",
         "annotate",
         "BSgenome",
-        "segmented",
         "DelayedArray",
         "ShortRead",
         "dbplyr",
@@ -40301,7 +40253,6 @@
         "viridis",
         "BiocParallel",
         "GenomicAlignments",
-        "segmented",
         "KEGGREST",
         "progress",
         "httr",
@@ -41045,10 +40996,7 @@
         "httpuv",
         "bslib"
     ],
-    "seqinr": [
-        "segmented"
-    ],
-    "segmented": [],
+    "seqinr": [],
     "readxl": [
         "cellranger",
         "tibble",
@@ -41906,9 +41854,7 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "mixtools": [
-        "segmented"
-    ],
+    "mixtools": [],
     "assertive": [
         "assertive.strings",
         "assertive.datetimes",
@@ -43512,8 +43458,7 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "mixtools",
-        "segmented"
+        "mixtools"
     ],
     "crisprScoreData": [
         "ExperimentHub",
