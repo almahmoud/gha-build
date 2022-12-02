@@ -8125,7 +8125,6 @@
         "blob",
         "restfulr"
     ],
-    "ChemmineOB": [],
     "ChemmineR": [
         "ggplot2",
         "DT",
@@ -46386,7 +46385,6 @@
         "readJDX",
         "webchem",
         "ChemmineR",
-        "ChemmineOB",
         "R.utils",
         "ggplot2",
         "DT",
