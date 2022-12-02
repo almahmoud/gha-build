@@ -11120,7 +11120,6 @@
         "Biobase",
         "gplots",
         "lsa",
-        "squash",
         "caTools",
         "SnowballC"
     ],
@@ -84146,7 +84145,6 @@
     "TIN": [
         "aroma.affymetrix",
         "WGCNA",
-        "squash",
         "stringr",
         "R.utils",
         "aroma.core",
@@ -94835,7 +94833,6 @@
     ],
     "magic": [],
     "kSamples": [],
-    "squash": [],
     "cba": [],
     "dtw": [],
     "EnvStats": [
