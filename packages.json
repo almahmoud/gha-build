@@ -140,9 +140,7 @@
         "Gviz"
     ],
     "circRNAprofiler": [],
-    "CircSeqAlignTk": [
-        "Rhisat2"
-    ],
+    "CircSeqAlignTk": [],
     "CiteFuse": [
         "propr"
     ],
@@ -881,7 +879,6 @@
         "FactoMineR",
         "car"
     ],
-    "Rhisat2": [],
     "RiboProfiling": [
         "ggbio"
     ],
