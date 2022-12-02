@@ -8862,7 +8862,6 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "seqcombo": [],
     "SeqGSEA": [
         "DESeq2",
         "biomaRt",
