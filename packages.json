@@ -24548,7 +24548,6 @@
         "GenomeInfoDbData",
         "XVector",
         "qvcalc",
-        "relimp",
         "openssl",
         "nlme",
         "selectr",
@@ -106242,16 +106241,13 @@
     "MetaCycle": [
         "gnm",
         "Matrix",
-        "qvcalc",
-        "relimp"
+        "qvcalc"
     ],
     "gnm": [
         "Matrix",
-        "qvcalc",
-        "relimp"
+        "qvcalc"
     ],
     "qvcalc": [],
-    "relimp": [],
     "fastDummies": [
         "tibble",
         "stringr",
