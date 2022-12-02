@@ -3950,7 +3950,6 @@
         "lme4",
         "nloptr"
     ],
-    "puma": [],
     "PureCN": [
         "VariantAnnotation",
         "GenomicFeatures",
