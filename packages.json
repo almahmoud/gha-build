@@ -2339,7 +2339,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "SPIAT": [],
     "spicyR": [
         "lmerTest",
         "lme4"
