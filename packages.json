@@ -8484,7 +8484,6 @@
         "RCurl",
         "lifecycle"
     ],
-    "ccrepe": [],
     "celaref": [
         "SummarizedExperiment",
         "MAST",
