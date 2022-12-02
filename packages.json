@@ -58,10 +58,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "cbaf": [
-        "cBioPortalData"
-    ],
-    "cBioPortalData": [],
+    "cbaf": [],
     "cellmigRation": [
         "FactoMineR"
     ],
@@ -336,9 +333,7 @@
         "rstatix"
     ],
     "lisaClust": [],
-    "LowMACA": [
-        "cBioPortalData"
-    ],
+    "LowMACA": [],
     "lumi": [],
     "Maaslin2": [],
     "Macarron": [
