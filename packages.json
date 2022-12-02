@@ -4987,7 +4987,6 @@
         "RCurl",
         "RSQLite",
         "chk",
-        "lgr",
         "lifecycle",
         "openssl",
         "progress",
@@ -5018,7 +5017,6 @@
         "RCurl",
         "RSQLite",
         "chk",
-        "lgr",
         "lifecycle",
         "openssl",
         "progress",
@@ -5049,7 +5047,6 @@
         "BiocFileCache",
         "RCurl",
         "RSQLite",
-        "lgr",
         "lifecycle",
         "openssl",
         "progress",
@@ -5081,7 +5078,6 @@
         "RCurl",
         "RSQLite",
         "chk",
-        "lgr",
         "lifecycle",
         "openssl",
         "progress",
@@ -5112,7 +5108,6 @@
         "BiocFileCache",
         "RCurl",
         "RSQLite",
-        "lgr",
         "openssl",
         "progress",
         "testthat",
@@ -5143,7 +5138,6 @@
         "RCurl",
         "RSQLite",
         "chk",
-        "lgr",
         "openssl",
         "progress",
         "testthat",
@@ -5173,7 +5167,6 @@
         "BiocFileCache",
         "RCurl",
         "RSQLite",
-        "lgr",
         "lifecycle",
         "openssl",
         "progress",
@@ -5204,7 +5197,6 @@
         "BiocFileCache",
         "RCurl",
         "RSQLite",
-        "lgr",
         "lifecycle",
         "openssl",
         "progress",
@@ -5236,7 +5228,6 @@
         "BiocFileCache",
         "RCurl",
         "RSQLite",
-        "lgr",
         "lifecycle",
         "openssl",
         "progress",
@@ -5266,7 +5257,6 @@
         "RCurl",
         "RSQLite",
         "chk",
-        "lgr",
         "lifecycle",
         "openssl",
         "progress",
@@ -15559,7 +15549,6 @@
         "selectr",
         "rsparse",
         "mlapi",
-        "lgr",
         "koRpus.lang.en",
         "koRpus",
         "lexicon",
@@ -24277,7 +24266,6 @@
         "visNetwork",
         "rsparse",
         "mlapi",
-        "lgr",
         "koRpus.lang.en",
         "koRpus",
         "lexicon",
@@ -44782,7 +44770,6 @@
         "RCurl",
         "RSQLite",
         "chk",
-        "lgr",
         "lifecycle",
         "openssl",
         "progress",
@@ -56867,7 +56854,6 @@
         "mlr3learners",
         "mlr3tuning",
         "paradox",
-        "lgr",
         "survival",
         "RcppEigen",
         "lme4",
@@ -64741,7 +64727,6 @@
         "ellipsis",
         "rsparse",
         "mlapi",
-        "lgr",
         "koRpus.lang.en",
         "koRpus",
         "lexicon",
@@ -65351,7 +65336,6 @@
         "selectr",
         "rsparse",
         "mlapi",
-        "lgr",
         "koRpus.lang.en",
         "koRpus",
         "lexicon",
@@ -70190,7 +70174,6 @@
     "chk": [
         "lifecycle"
     ],
-    "lgr": [],
     "rms": [
         "Hmisc",
         "survival",
@@ -72759,7 +72742,6 @@
     "text2vec": [
         "rsparse",
         "mlapi",
-        "lgr",
         "MatrixExtra"
     ],
     "textstem": [
@@ -72781,8 +72763,7 @@
         "purrr"
     ],
     "rsparse": [
-        "MatrixExtra",
-        "lgr"
+        "MatrixExtra"
     ],
     "mlapi": [],
     "koRpus.lang.en": [
@@ -76657,7 +76638,6 @@
     "mlr3": [
         "future",
         "future.apply",
-        "lgr",
         "mlr3measures",
         "mlr3misc",
         "paradox",
@@ -76669,7 +76649,6 @@
         "paradox",
         "future",
         "future.apply",
-        "lgr",
         "mlr3measures",
         "globals"
     ],
@@ -76677,7 +76656,6 @@
         "mlr3",
         "paradox",
         "bbotk",
-        "lgr",
         "mlr3misc",
         "future",
         "future.apply",
@@ -76691,7 +76669,6 @@
     "mlr3misc": [],
     "bbotk": [
         "paradox",
-        "lgr",
         "mlr3misc"
     ],
     "survivalAnalysis": [
