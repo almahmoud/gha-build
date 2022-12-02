@@ -1799,9 +1799,7 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "pwrEWAS": [
-        "pwrEWAS.data"
-    ],
+    "pwrEWAS": [],
     "qmtools": [
         "VIM",
         "car",
@@ -2641,7 +2639,6 @@
     "phastCons100way.UCSC.hg38": [],
     "EnsDb.Mmusculus.v79": [],
     "EnsDb.Rnorvegicus.v79": [],
-    "pwrEWAS.data": [],
     "phastCons100way.UCSC.hg19": [],
     "RLHub": [],
     "Rmagic": [],
