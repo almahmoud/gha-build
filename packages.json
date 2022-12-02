@@ -1030,7 +1030,6 @@
         "dbplyr",
         "dplyr"
     ],
-    "bcSeq": [],
     "BDMMAcorrect": [
         "ggplot2",
         "SummarizedExperiment"
