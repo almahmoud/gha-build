@@ -256,8 +256,7 @@
     ],
     "deconvR": [],
     "DeepPINCS": [
-        "ttgsea",
-        "textstem"
+        "ttgsea"
     ],
     "derfinder": [
         "GenomicFiles"
@@ -453,8 +452,7 @@
     ],
     "GenProSeq": [
         "DeepPINCS",
-        "ttgsea",
-        "textstem"
+        "ttgsea"
     ],
     "GeoDiff": [
         "GeomxTools"
@@ -1187,9 +1185,7 @@
         "rstatix",
         "car"
     ],
-    "ttgsea": [
-        "textstem"
-    ],
+    "ttgsea": [],
     "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz"
@@ -1197,8 +1193,7 @@
     "Uniquorn": [],
     "VAExprs": [
         "DeepPINCS",
-        "ttgsea",
-        "textstem"
+        "ttgsea"
     ],
     "variancePartition": [],
     "VariantExperiment": [],
@@ -1209,9 +1204,7 @@
     "VCFArray": [
         "GenomicFiles"
     ],
-    "vissE": [
-        "textstem"
-    ],
+    "vissE": [],
     "Voyager": [],
     "vtpnet": [],
     "vulcan": [],
@@ -1272,7 +1265,6 @@
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [],
     "mbest": [],
     "DAPARdata": [],
-    "textstem": [],
     "VIM": [
         "car"
     ],
