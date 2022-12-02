@@ -2286,7 +2286,6 @@
     "miRSM": [
         "s4vd",
         "BiBitR",
-        "rqubic",
         "miRspongeR",
         "SPONGE",
         "clusterProfiler",
@@ -3313,7 +3312,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "rqubic": [],
     "rrvgo": [],
     "RTCGA": [
         "survminer",
