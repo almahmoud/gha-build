@@ -41220,7 +41220,6 @@
         "ggplot2",
         "dplyr",
         "reshape2",
-        "RSeqAn",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -45514,7 +45513,6 @@
         "vctrs",
         "pillar"
     ],
-    "RSeqAn": [],
     "Rsubread": [],
     "RSVSim": [
         "Biostrings",
