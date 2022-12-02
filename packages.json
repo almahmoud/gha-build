@@ -26968,7 +26968,6 @@
         "RSQLite",
         "blob"
     ],
-    "STROMA4": [],
     "struct": [
         "SummarizedExperiment",
         "rols",
