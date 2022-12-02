@@ -70098,7 +70098,6 @@
         "Biostrings",
         "BiocParallel",
         "Rhtslib",
-        "reportr",
         "futile.logger",
         "RCurl"
     ],
@@ -85327,10 +85326,7 @@
     "animation": [
         "magick"
     ],
-    "tractor.base": [
-        "reportr"
-    ],
-    "reportr": [],
+    "tractor.base": [],
     "vbsr": [],
     "lassopv": [],
     "RPostgreSQL": [],
