@@ -14490,7 +14490,6 @@
         "viridis",
         "tibble"
     ],
-    "metaSeq": [],
     "metaseqR2": [
         "DESeq2",
         "baySeq",
