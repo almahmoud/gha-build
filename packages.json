@@ -952,7 +952,6 @@
     "cytomapper": [
         "SpatialExperiment"
     ],
-    "CytoML": [],
     "dagLogo": [
         "motifStack",
         "TFBSTools"
