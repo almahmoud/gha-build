@@ -3698,7 +3698,6 @@
         "ggrepel",
         "RSQLite",
         "KEGGREST",
-        "apcluster",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -4213,7 +4212,6 @@
         "vctrs",
         "interp",
         "vegan",
-        "apcluster",
         "ggdendro",
         "ggm",
         "vcd",
@@ -7883,7 +7881,6 @@
     ],
     "cogena": [
         "ggplot2",
-        "apcluster",
         "doParallel",
         "tibble",
         "tidyr",
@@ -10347,7 +10344,6 @@
         "rematch2",
         "interp",
         "vegan",
-        "apcluster",
         "ggdendro",
         "multtest",
         "multcomp",
@@ -10419,7 +10415,6 @@
         "SummarizedExperiment",
         "NMF",
         "DMwR2",
-        "apcluster",
         "xts",
         "quantmod",
         "dplyr",
@@ -13558,7 +13553,6 @@
         "tibble",
         "vctrs",
         "vegan",
-        "apcluster",
         "ggdendro",
         "lmtest",
         "pillar"
@@ -21082,7 +21076,6 @@
         "Biostrings",
         "XVector",
         "e1071",
-        "apcluster",
         "GenomeInfoDb"
     ],
     "KEGGgraph": [],
@@ -21431,7 +21424,6 @@
     ],
     "Linnorm": [
         "vegan",
-        "apcluster",
         "ggplot2",
         "igraph",
         "ggdendro",
@@ -22351,7 +22343,6 @@
     "mAPKL": [
         "multtest",
         "clusterSim",
-        "apcluster",
         "e1071",
         "AnnotationDbi",
         "igraph",
@@ -25137,7 +25128,6 @@
     "mina": [
         "MCL",
         "RSpectra",
-        "apcluster",
         "ggplot2",
         "Hmisc",
         "mgcv",
@@ -26031,7 +26021,6 @@
         "tibble",
         "vctrs",
         "vegan",
-        "apcluster",
         "igraph",
         "ggdendro",
         "pillar"
@@ -28294,7 +28283,6 @@
         "vctrs",
         "interp",
         "vegan",
-        "apcluster",
         "ggdendro",
         "ggm",
         "vcd",
@@ -29138,7 +29126,6 @@
         "Biostrings",
         "XVector",
         "e1071",
-        "apcluster",
         "GenomeInfoDb"
     ],
     "OGRE": [
@@ -32287,8 +32274,7 @@
         "Biostrings",
         "XVector",
         "GenomeInfoDb",
-        "e1071",
-        "apcluster"
+        "e1071"
     ],
     "proDA": [
         "SummarizedExperiment",
@@ -41211,7 +41197,6 @@
     ],
     "SPIAT": [
         "SpatialExperiment",
-        "apcluster",
         "ggplot2",
         "dplyr",
         "plotly",
@@ -48707,9 +48692,7 @@
         "GenomeInfoDb",
         "sass"
     ],
-    "clusterCons": [
-        "apcluster"
-    ],
+    "clusterCons": [],
     "rSpectral": [
         "igraph"
     ],
@@ -48737,7 +48720,6 @@
         "GenomeInfoDb",
         "pillar"
     ],
-    "apcluster": [],
     "synaptome.data": [
         "AnnotationHub",
         "BiocFileCache",
