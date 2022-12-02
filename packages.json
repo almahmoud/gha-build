@@ -7506,7 +7506,6 @@
     ],
     "DeepBlueR": [
         "GenomicRanges",
-        "diffr",
         "dplyr",
         "rtracklayer",
         "tibble",
@@ -35367,7 +35366,6 @@
         "tibble",
         "pillar"
     ],
-    "diffr": [],
     "webchem": [
         "rvest",
         "dplyr",
