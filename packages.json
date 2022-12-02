@@ -253,7 +253,6 @@
         "BASiCS",
         "ggExtra"
     ],
-    "batchelor": [],
     "BatchQC": [
         "sva",
         "heatmaply"
@@ -747,7 +746,6 @@
         "biomaRt"
     ],
     "ChromSCape": [
-        "batchelor",
         "scater"
     ],
     "chromswitch": [],
@@ -3274,9 +3272,7 @@
         "ggtree",
         "treeio"
     ],
-    "mumosa": [
-        "batchelor"
-    ],
+    "mumosa": [],
     "MungeSumstats": [
         "VariantAnnotation",
         "GenomicFeatures",
@@ -4682,7 +4678,6 @@
     "simplifyEnrichment": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
-        "batchelor",
         "celldex",
         "DESeq2",
         "ExperimentHub",
