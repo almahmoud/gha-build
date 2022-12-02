@@ -5464,7 +5464,6 @@
         "GGally",
         "ensembldb"
     ],
-    "ribor": [],
     "ribosomeProfilingQC": [
         "BSgenome",
         "EDASeq",
