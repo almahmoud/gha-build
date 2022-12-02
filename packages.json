@@ -24470,7 +24470,6 @@
         "BiocParallel",
         "DelayedArray"
     ],
-    "pathifier": [],
     "PathoStat": [
         "ggplot2",
         "rentrez",
