@@ -240,7 +240,6 @@
         "BH",
         "digest",
         "listenv",
-        "parallelly",
         "lambda.r"
     ],
     "aCGH": [
@@ -1423,7 +1422,6 @@
         "digest",
         "globals",
         "listenv",
-        "parallelly",
         "mgcv",
         "withr",
         "igraph",
@@ -2045,8 +2043,7 @@
         "progressr",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "annaffy": [
         "Biobase",
@@ -2869,7 +2866,6 @@
         "survival",
         "globals",
         "listenv",
-        "parallelly",
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
@@ -5024,8 +5020,7 @@
         "progressr",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "banocc": [
         "rstan",
@@ -6153,7 +6148,6 @@
         "digest",
         "globals",
         "listenv",
-        "parallelly",
         "AnnotationDbi",
         "annotate",
         "RCurl",
@@ -8700,7 +8694,6 @@
         "ROCR",
         "digest",
         "listenv",
-        "parallelly",
         "foreach",
         "SparseM",
         "MatrixModels",
@@ -8909,7 +8902,6 @@
         "digest",
         "rngtools",
         "listenv",
-        "parallelly",
         "mime",
         "openssl",
         "shiny",
@@ -9936,8 +9928,7 @@
         "progressr",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "breakpointR": [
         "GenomicRanges",
@@ -12444,7 +12435,6 @@
         "digest",
         "globals",
         "listenv",
-        "parallelly",
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
@@ -13093,7 +13083,6 @@
         "ALL",
         "iterators",
         "listenv",
-        "parallelly",
         "scales",
         "tweenr",
         "systemfonts",
@@ -13207,7 +13196,6 @@
         "globals",
         "digest",
         "listenv",
-        "parallelly",
         "mgcv",
         "scales",
         "withr",
@@ -13891,8 +13879,7 @@
         "future",
         "globals",
         "digest",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "Chicago": [
         "Hmisc",
@@ -18101,8 +18088,7 @@
         "clue",
         "pillar",
         "digest",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "compEpiTools": [
         "topGO",
@@ -18636,8 +18622,7 @@
         "progressr",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "CONFESS": [
         "changepoint",
@@ -18913,8 +18898,7 @@
         "future",
         "globals",
         "cachem",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "consensusSeekeR": [
         "IRanges",
@@ -21808,8 +21792,7 @@
         "progressr",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "CytoGLMM": [
         "BiocParallel",
@@ -21917,8 +21900,7 @@
         "rematch2",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "cytoKernel": [
         "Rcpp",
@@ -22502,8 +22484,7 @@
         "rematch2",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "DAPAR": [
         "Biobase",
@@ -25815,7 +25796,6 @@
         "digest",
         "globals",
         "listenv",
-        "parallelly",
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
@@ -26872,7 +26852,6 @@
         "tidyr",
         "tidyselect",
         "listenv",
-        "parallelly",
         "highr",
         "testthat",
         "brio",
@@ -30959,7 +30938,6 @@
         "purrr",
         "tidyselect",
         "listenv",
-        "parallelly",
         "ellipsis",
         "askpass"
     ],
@@ -33414,7 +33392,6 @@
         "vctrs",
         "digest",
         "listenv",
-        "parallelly",
         "htmltools",
         "Rcpp",
         "systemfonts",
@@ -34000,8 +33977,7 @@
         "progressr",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "FoldGO": [
         "topGO",
@@ -34896,8 +34872,7 @@
         "progressr",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "GateFinder": [
         "splancs",
@@ -35629,7 +35604,6 @@
         "BH",
         "digest",
         "listenv",
-        "parallelly",
         "lambda.r"
     ],
     "geneClassifiers": [
@@ -35726,7 +35700,6 @@
         "globals",
         "cachem",
         "listenv",
-        "parallelly",
         "RCurl",
         "GenomeInfoDbData"
     ],
@@ -37380,7 +37353,6 @@
         "rematch2",
         "globals",
         "listenv",
-        "parallelly",
         "RCurl",
         "GenomeInfoDbData",
         "hms",
@@ -37615,7 +37587,6 @@
         "digest",
         "globals",
         "listenv",
-        "parallelly",
         "beeswarm",
         "htmlwidgets",
         "htmltools",
@@ -40814,8 +40785,7 @@
         "future",
         "globals",
         "digest",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "gwascat": [
         "S4Vectors",
@@ -41590,8 +41560,7 @@
         "MatrixGenerics",
         "DelayedArray",
         "digest",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "HiCDCPlus": [
         "Rcpp",
@@ -41793,7 +41762,6 @@
         "Rhtslib",
         "stringi",
         "listenv",
-        "parallelly",
         "highr",
         "testthat",
         "brio",
@@ -42367,8 +42335,7 @@
         "future",
         "globals",
         "digest",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "HTqPCR": [
         "Biobase",
@@ -44092,7 +44059,6 @@
         "lambda.r",
         "globals",
         "listenv",
-        "parallelly",
         "mgcv",
         "scales",
         "withr",
@@ -44212,7 +44178,6 @@
         "ggplot2",
         "IRanges",
         "magrittr",
-        "parallelly",
         "plyranges",
         "readr",
         "reshape2",
@@ -45416,7 +45381,6 @@
         "ggtree",
         "globals",
         "listenv",
-        "parallelly",
         "gamlss.dist",
         "nlme",
         "GenomeInfoDb",
@@ -46984,8 +46948,7 @@
         "globals",
         "RCurl",
         "GenomeInfoDbData",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "LACE": [
         "igraph",
@@ -48464,8 +48427,7 @@
         "progressr",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "maanova": [
         "Biobase"
@@ -48971,7 +48933,6 @@
         "survival",
         "scales",
         "flock",
-        "parallelly",
         "RhpcBLASctl",
         "MatrixGenerics",
         "spam",
@@ -49198,7 +49159,6 @@
         "digest",
         "globals",
         "listenv",
-        "parallelly",
         "randomForest",
         "itertools",
         "doRNG",
@@ -49422,7 +49382,6 @@
         "globals",
         "vroom",
         "listenv",
-        "parallelly",
         "bit64",
         "progress",
         "prettyunits"
@@ -49553,8 +49512,7 @@
         "future",
         "globals",
         "digest",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "mapscape": [
         "htmlwidgets",
@@ -51518,8 +51476,7 @@
         "future",
         "globals",
         "digest",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "metabinR": [
         "rJava"
@@ -52227,8 +52184,7 @@
         "future",
         "globals",
         "GenomeInfoDbData",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "metapod": [
         "Rcpp"
@@ -52421,8 +52377,7 @@
         "deldir",
         "RcppEigen",
         "ps",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "metavizr": [
         "metagenomeSeq",
@@ -54984,8 +54939,7 @@
         "textshaping",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler",
@@ -56411,8 +56365,7 @@
         "diffobj",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "miRspongeR": [
         "corpcor",
@@ -56612,8 +56565,7 @@
         "diffobj",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "mirTarRnaSeq": [
         "ggplot2",
@@ -56841,7 +56793,6 @@
         "class",
         "iterators",
         "listenv",
-        "parallelly",
         "clock",
         "hardhat",
         "ipred",
@@ -57216,8 +57167,7 @@
         "askpass",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "MMDiff2": [
         "Rsamtools",
@@ -59930,8 +59880,7 @@
         "rematch2",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "MSstatsShiny": [
         "shiny",
@@ -60502,8 +60451,7 @@
         "MatrixGenerics",
         "DelayedArray",
         "digest",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "multiMiR": [
         "XML",
@@ -60765,8 +60713,7 @@
         "progressr",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "multtest": [
         "Biobase",
@@ -60975,7 +60922,6 @@
         "lambda.r",
         "globals",
         "listenv",
-        "parallelly",
         "annotate",
         "AnnotationDbi",
         "RCurl",
@@ -62417,7 +62363,6 @@
         "digest",
         "globals",
         "listenv",
-        "parallelly",
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
@@ -67241,7 +67186,6 @@
         "BH",
         "cowplot",
         "listenv",
-        "parallelly",
         "tweenr",
         "systemfonts",
         "RcppEigen",
@@ -67958,7 +67902,6 @@
         "askpass",
         "bit64",
         "listenv",
-        "parallelly",
         "minqa",
         "nloptr",
         "RcppEigen",
@@ -68143,7 +68086,6 @@
         "R.huge",
         "digest",
         "globals",
-        "parallelly",
         "aroma.light",
         "Matrix",
         "mime",
@@ -69339,8 +69281,7 @@
         "future",
         "globals",
         "digest",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "piano": [
         "Biobase",
@@ -69745,7 +69686,6 @@
         "lambda.r",
         "globals",
         "listenv",
-        "parallelly",
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
@@ -70452,8 +70392,7 @@
         "askpass",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "PoTRA": [
         "org.Hs.eg.db",
@@ -70580,7 +70519,6 @@
         "globals",
         "digest",
         "listenv",
-        "parallelly",
         "mgcv",
         "scales",
         "withr",
@@ -70898,8 +70836,7 @@
         "lambda.r",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "PREDA": [
         "Biobase",
@@ -71852,8 +71789,7 @@
         "progressr",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "pRolocGUI": [
         "pRoloc",
@@ -72000,8 +71936,7 @@
         "progressr",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "PROMISE": [
         "Biobase",
@@ -72110,7 +72045,6 @@
         "digest",
         "globals",
         "listenv",
-        "parallelly",
         "lifecycle",
         "mgcv",
         "rlang",
@@ -73332,7 +73266,6 @@
         "BH",
         "digest",
         "listenv",
-        "parallelly",
         "RCurl",
         "GenomeInfoDbData",
         "lambda.r"
@@ -76816,8 +76749,7 @@
         "progressr",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "Repitools": [
         "S4Vectors",
@@ -78857,8 +78789,7 @@
         "progressr",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "Rmagpie": [
         "Biobase",
@@ -82187,7 +82118,6 @@
         "digest",
         "globals",
         "listenv",
-        "parallelly",
         "GenomeInfoDb",
         "XVector",
         "mime",
@@ -82517,7 +82447,6 @@
         "digest",
         "globals",
         "listenv",
-        "parallelly",
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
@@ -82837,7 +82766,6 @@
         "digest",
         "globals",
         "listenv",
-        "parallelly",
         "AnnotationDbi",
         "annotate",
         "RCurl",
@@ -82912,7 +82840,6 @@
         "digest",
         "globals",
         "listenv",
-        "parallelly",
         "lifecycle",
         "mgcv",
         "rlang",
@@ -83067,7 +82994,6 @@
         "digest",
         "globals",
         "listenv",
-        "parallelly",
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
@@ -83264,7 +83190,6 @@
         "digest",
         "globals",
         "listenv",
-        "parallelly",
         "GenomeInfoDb",
         "XVector",
         "checkmate",
@@ -83344,7 +83269,6 @@
         "digest",
         "globals",
         "listenv",
-        "parallelly",
         "GenomeInfoDb",
         "XVector",
         "mime",
@@ -83784,8 +83708,7 @@
         "future",
         "globals",
         "digest",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "schex": [
         "SingleCellExperiment",
@@ -83863,7 +83786,6 @@
         "digest",
         "globals",
         "listenv",
-        "parallelly",
         "GenomeInfoDb",
         "XVector",
         "openssl",
@@ -84062,7 +83984,6 @@
         "digest",
         "globals",
         "listenv",
-        "parallelly",
         "mime",
         "openssl",
         "magrittr",
@@ -84786,7 +84707,6 @@
         "lambda.r",
         "digest",
         "globals",
-        "parallelly",
         "withr"
     ],
     "scPipe": [
@@ -85075,7 +84995,6 @@
         "SparseM",
         "globals",
         "listenv",
-        "parallelly",
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
@@ -85402,7 +85321,6 @@
         "lambda.r",
         "globals",
         "listenv",
-        "parallelly",
         "ape",
         "tidytree",
         "treeio",
@@ -85547,7 +85465,6 @@
         "survival",
         "globals",
         "listenv",
-        "parallelly",
         "Biostrings",
         "zoo",
         "askpass",
@@ -85699,7 +85616,6 @@
         "survival",
         "globals",
         "listenv",
-        "parallelly",
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
@@ -87213,7 +87129,6 @@
         "future.apply",
         "mlr3measures",
         "mlr3misc",
-        "parallelly",
         "bbotk",
         "ade4",
         "ape",
@@ -87648,7 +87563,6 @@
         "promises",
         "digest",
         "globals",
-        "parallelly",
         "RCurl",
         "GenomeInfoDbData",
         "mgcv",
@@ -87910,7 +87824,6 @@
         "globals",
         "testthat",
         "listenv",
-        "parallelly",
         "brio",
         "callr",
         "desc",
@@ -88696,7 +88609,6 @@
         "lambda.r",
         "globals",
         "listenv",
-        "parallelly",
         "RCurl",
         "GenomeInfoDbData",
         "BiocIO",
@@ -89934,7 +89846,6 @@
         "digest",
         "globals",
         "listenv",
-        "parallelly",
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
@@ -90384,7 +90295,6 @@
         "pillar",
         "globals",
         "listenv",
-        "parallelly",
         "forcats",
         "progress",
         "reshape",
@@ -90916,8 +90826,7 @@
         "MatrixGenerics",
         "DelayedArray",
         "digest",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "SPEM": [
         "Rsolnp",
@@ -91815,8 +91724,7 @@
         "diffobj",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "SpotClean": [
         "dplyr",
@@ -91899,7 +91807,6 @@
         "digest",
         "globals",
         "listenv",
-        "parallelly",
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
@@ -93173,7 +93080,6 @@
         "digest",
         "globals",
         "listenv",
-        "parallelly",
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
@@ -93567,8 +93473,7 @@
         "progressr",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "subSeq": [
         "dplyr",
@@ -93754,7 +93659,6 @@
         "tzdb",
         "digest",
         "listenv",
-        "parallelly",
         "survival",
         "prodlim",
         "timechange",
@@ -93878,8 +93782,7 @@
         "future",
         "globals",
         "digest",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "survtype": [
         "SummarizedExperiment",
@@ -94355,7 +94258,6 @@
         "globals",
         "digest",
         "listenv",
-        "parallelly",
         "Rcpp",
         "tweenr",
         "withr",
@@ -94899,7 +94801,6 @@
         "DelayedArray",
         "digest",
         "listenv",
-        "parallelly",
         "minqa",
         "nloptr",
         "RcppEigen",
@@ -95630,7 +95531,6 @@
         "globals",
         "testthat",
         "listenv",
-        "parallelly",
         "brio",
         "callr",
         "desc",
@@ -96829,7 +96729,6 @@
         "iterators",
         "digest",
         "globals",
-        "parallelly",
         "ggplot2",
         "latticeExtra",
         "gridExtra",
@@ -97097,8 +96996,7 @@
         "askpass",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "TMixClust": [
         "mvtnorm",
@@ -98013,8 +97911,7 @@
         "progressr",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "transformGamPoi": [
         "glmGamPoi",
@@ -102403,7 +102300,6 @@
         "magrittr",
         "digest",
         "listenv",
-        "parallelly",
         "RCurl",
         "GenomeInfoDbData",
         "rlang",
@@ -103342,15 +103238,13 @@
         "future",
         "globals",
         "digest",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "snowfall": [],
     "future": [
         "digest",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "globals": [],
     "R.oo": [
@@ -103358,7 +103252,6 @@
     ],
     "R.methodsS3": [],
     "listenv": [],
-    "parallelly": [],
     "ff": [],
     "waveslim": [],
     "aws": [],
@@ -104744,8 +104637,7 @@
         "future",
         "globals",
         "digest",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "rentrez": [
         "XML",
@@ -104879,8 +104771,7 @@
         "future",
         "globals",
         "digest",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "rex": [],
     "statmod": [],
@@ -104937,8 +104828,7 @@
         "future",
         "globals",
         "digest",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "lubridate": [
         "timechange"
@@ -104960,8 +104850,7 @@
         "future",
         "globals",
         "digest",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "timechange": [],
     "lava": [
@@ -104972,8 +104861,7 @@
         "globals",
         "digest",
         "Matrix",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "progressr": [
         "digest"
@@ -105144,7 +105032,6 @@
         "digest",
         "globals",
         "listenv",
-        "parallelly",
         "lifecycle",
         "mgcv",
         "vctrs",
@@ -105338,7 +105225,6 @@
         "digest",
         "globals",
         "listenv",
-        "parallelly",
         "mgcv",
         "scales",
         "withr",
@@ -105360,8 +105246,7 @@
         "RcppEigen",
         "digest",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "spatstat.explore": [
         "spatstat.data",
@@ -108476,7 +108361,6 @@
         "ROCR",
         "digest",
         "listenv",
-        "parallelly",
         "foreach",
         "SparseM",
         "Matrix",
@@ -109586,7 +109470,6 @@
         "stringi",
         "digest",
         "listenv",
-        "parallelly",
         "mgcv",
         "scales",
         "Matrix",
@@ -109627,7 +109510,6 @@
         "vctrs",
         "digest",
         "listenv",
-        "parallelly",
         "magrittr"
     ],
     "GenomicTools": [],
@@ -110094,8 +109976,7 @@
         "future",
         "globals",
         "digest",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "intervals": [],
     "RcppRoll": [
@@ -111034,8 +110915,7 @@
         "future",
         "globals",
         "digest",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "rio": [
         "haven",
@@ -111196,8 +111076,7 @@
         "future",
         "globals",
         "digest",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "spatstat": [
         "spatstat.data",
@@ -113369,8 +113248,7 @@
         "future",
         "globals",
         "digest",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "ada": [],
     "BBmisc": [
@@ -114859,8 +114737,7 @@
         "future",
         "globals",
         "digest",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "chemometrics": [
         "class",
@@ -114948,7 +114825,6 @@
         "RcppArmadillo",
         "doParallel",
         "flock",
-        "parallelly",
         "RhpcBLASctl",
         "rlang",
         "scales",
@@ -114981,7 +114857,6 @@
         "bigassertr",
         "doParallel",
         "flock",
-        "parallelly",
         "RhpcBLASctl",
         "iterators",
         "Rcpp"
@@ -116201,8 +116076,7 @@
         "rematch2",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "MetBrewer": [
         "ggplot2",
@@ -117272,7 +117146,6 @@
         "PSCBS",
         "digest",
         "globals",
-        "parallelly",
         "aroma.light"
     ],
     "aroma.core": [
@@ -117288,7 +117161,6 @@
         "future",
         "digest",
         "globals",
-        "parallelly",
         "aroma.light"
     ],
     "R.devices": [
@@ -117325,8 +117197,7 @@
         "listenv",
         "future",
         "digest",
-        "globals",
-        "parallelly"
+        "globals"
     ],
     "R.huge": [
         "R.methodsS3",
@@ -118261,8 +118132,7 @@
         "progressr",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "ggprism": [
         "digest",
@@ -118603,8 +118473,7 @@
         "future.apply",
         "listenv",
         "digest",
-        "globals",
-        "parallelly"
+        "globals"
     ],
     "Rmagic": [],
     "ggvenn": [
@@ -118805,7 +118674,6 @@
         "lgr",
         "mlr3measures",
         "mlr3misc",
-        "parallelly",
         "paradox",
         "digest",
         "globals",
@@ -118821,7 +118689,6 @@
         "future.apply",
         "lgr",
         "mlr3measures",
-        "parallelly",
         "digest",
         "globals",
         "listenv",
@@ -118837,7 +118704,6 @@
         "future",
         "future.apply",
         "mlr3measures",
-        "parallelly",
         "digest",
         "globals",
         "listenv",
@@ -119142,7 +119008,6 @@
         "digest",
         "globals",
         "listenv",
-        "parallelly",
         "mime",
         "openssl",
         "magrittr",
@@ -119707,8 +119572,7 @@
         "globals",
         "withr",
         "digest",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "slider": [
         "rlang",
@@ -120014,8 +119878,7 @@
         "progressr",
         "future",
         "globals",
-        "listenv",
-        "parallelly"
+        "listenv"
     ],
     "naniar": [
         "dplyr",
