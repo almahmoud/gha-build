@@ -12029,7 +12029,6 @@
         "testthat",
         "AnnotationDbi",
         "tidyverse",
-        "VarfromPDB",
         "org.Hs.eg.db",
         "dplyr",
         "waldo",
@@ -21687,7 +21686,6 @@
         "SummarizedExperiment"
     ],
     "shinyjqui": [],
-    "VarfromPDB": [],
     "mppa": [],
     "ICSNP": [],
     "dnet": [
