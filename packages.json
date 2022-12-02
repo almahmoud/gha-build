@@ -662,7 +662,6 @@
     "altcdfenvs": [
         "makecdfenv",
         "Biostrings",
-        "hypergraph",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -2903,8 +2902,7 @@
     "BiGGR": [
         "rsbml",
         "hyperdraw",
-        "LIM",
-        "hypergraph"
+        "LIM"
     ],
     "bigmelon": [
         "wateRmelon",
@@ -18483,7 +18481,6 @@
         "altcdfenvs",
         "makecdfenv",
         "Biostrings",
-        "hypergraph",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -19152,10 +19149,7 @@
         "httpuv",
         "sass"
     ],
-    "hyperdraw": [
-        "hypergraph"
-    ],
-    "hypergraph": [],
+    "hyperdraw": [],
     "iasva": [
         "SummarizedExperiment",
         "BiocParallel",
