@@ -1760,7 +1760,6 @@
         "arm",
         "lme4"
     ],
-    "NoRCE": [],
     "NormalyzerDE": [
         "car",
         "RcmdrMisc",
