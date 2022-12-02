@@ -3228,7 +3228,6 @@
         "ggforce",
         "ggrepel",
         "viridis",
-        "TFisher",
         "mutoss",
         "Linnorm",
         "tidyr",
@@ -4015,7 +4014,6 @@
         "annotate",
         "GSEABase",
         "SingleCellExperiment",
-        "TFisher",
         "mutoss",
         "hgu133plus2.db",
         "hgu133a.db",
@@ -7686,7 +7684,6 @@
         "cowplot",
         "metap",
         "topconfects",
-        "TFisher",
         "mutoss"
     ],
     "MetCirc": [],
@@ -8923,7 +8920,6 @@
         "fgsea",
         "metap",
         "cowplot",
-        "TFisher",
         "mutoss"
     ],
     "multiHiCcompare": [
@@ -8962,7 +8958,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "TFisher",
         "mutoss",
         "ggrepel",
         "reactome.db",
@@ -9127,7 +9122,6 @@
         "ChIPpeakAnno",
         "GenomicScores",
         "motifStack",
-        "TFisher",
         "mutoss",
         "GenomicFeatures",
         "Gviz",
@@ -9903,7 +9897,6 @@
         "qvalue",
         "tidyr",
         "annotate",
-        "TFisher",
         "mutoss",
         "HDO.db",
         "fgsea",
@@ -11890,7 +11883,6 @@
         "metap",
         "pbkrtest",
         "lme4",
-        "TFisher",
         "mutoss",
         "plotly",
         "MultiAssayExperiment",
@@ -13002,7 +12994,6 @@
         "treeio",
         "annotate",
         "hgu95a.db",
-        "TFisher",
         "mutoss",
         "babelgene",
         "ggbeeswarm",
@@ -15830,10 +15821,8 @@
         "waldo"
     ],
     "metap": [
-        "TFisher",
         "mutoss"
     ],
-    "TFisher": [],
     "mutoss": [],
     "DMwR2": [
         "readr",
