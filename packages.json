@@ -976,7 +976,6 @@
     "MAGeCKFlute": [
         "clusterProfiler",
         "enrichplot",
-        "depmap",
         "ggtree"
     ],
     "MAI": [],
@@ -2152,7 +2151,6 @@
     ],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
     "glmmTMB": [],
-    "depmap": [],
     "agricolae": [
         "klaR"
     ],
