@@ -285,7 +285,6 @@
         "cellranger",
         "rvest"
     ],
-    "altcdfenvs": [],
     "AMARETTO": [
         "dplyr",
         "BiocFileCache",
@@ -8577,9 +8576,7 @@
         "Rsamtools",
         "BatchJobs"
     ],
-    "Harshlight": [
-        "altcdfenvs"
-    ],
+    "Harshlight": [],
     "hca": [
         "dplyr",
         "tidyr",
