@@ -27662,7 +27662,6 @@
         "SummarizedExperiment",
         "BRISC",
         "BiocParallel",
-        "rdist",
         "GenomicRanges",
         "DelayedArray",
         "DropletUtils",
@@ -50036,10 +50035,7 @@
         "vroom",
         "progress"
     ],
-    "BRISC": [
-        "rdist"
-    ],
-    "rdist": [],
+    "BRISC": [],
     "RcmdrMisc": [
         "car",
         "Hmisc",
