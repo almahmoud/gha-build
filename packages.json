@@ -19198,7 +19198,6 @@
         "XVector",
         "mgcv"
     ],
-    "iGC": [],
     "IgGeneUsage": [
         "rstan",
         "rstantools",
