@@ -3658,7 +3658,6 @@
         "plotly",
         "tidyr"
     ],
-    "flowCHIC": [],
     "flowCL": [
         "SPARQL"
     ],
