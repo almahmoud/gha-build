@@ -4245,8 +4245,7 @@
         "AnnotationDbi"
     ],
     "deltaGseg": [
-        "ggplot2",
-        "tseries"
+        "ggplot2"
     ],
     "DeMixT": [
         "DSS",
@@ -13025,7 +13024,6 @@
         "Hmisc",
         "MSnbase",
         "ggplot2",
-        "tseries",
         "viridis",
         "vsn"
     ],
@@ -13765,7 +13763,6 @@
         "AnnotationDbi"
     ],
     "RCM": [
-        "tseries",
         "ggplot2",
         "phyloseq"
     ],
@@ -19953,7 +19950,6 @@
         "dplyr",
         "tidyr"
     ],
-    "tseries": [],
     "ggplot.multistats": [
         "ggplot2"
     ],
@@ -20651,8 +20647,7 @@
         "GenomicAlignments"
     ],
     "forecast": [
-        "ggplot2",
-        "tseries"
+        "ggplot2"
     ],
     "EnsDb.Mmusculus.v79": [
         "ensembldb",
