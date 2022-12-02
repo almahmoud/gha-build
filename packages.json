@@ -40145,7 +40145,6 @@
         "Matrix",
         "BiocGenerics",
         "survey",
-        "gap.datasets",
         "dplyr",
         "ggplot2",
         "plotly",
@@ -143997,7 +143996,6 @@
         "stringi"
     ],
     "gap": [
-        "gap.datasets",
         "dplyr",
         "ggplot2",
         "plotly",
@@ -144044,7 +144042,6 @@
         "lattice",
         "askpass"
     ],
-    "gap.datasets": [],
     "geepack": [
         "MASS",
         "broom",
