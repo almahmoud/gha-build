@@ -8,16 +8,13 @@
         "affycoretools"
     ],
     "ArrayExpressHTS": [],
-    "arrayMvout": [
-        "lumi"
-    ],
+    "arrayMvout": [],
     "ASpediaFI": [
         "mGSZ"
     ],
     "ATACCoGAPS": [],
     "bigmelon": [
-        "wateRmelon",
-        "lumi"
+        "wateRmelon"
     ],
     "bioCancer": [
         "radiant.data"
@@ -51,8 +48,7 @@
     "ChAMP": [
         "DMRcate",
         "wateRmelon",
-        "missMethyl",
-        "lumi"
+        "missMethyl"
     ],
     "ChIC": [
         "spp"
@@ -138,9 +134,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "ffpe": [
-        "lumi"
-    ],
+    "ffpe": [],
     "flowCL": [
         "SPARQL"
     ],
@@ -188,9 +182,7 @@
         "rstatix"
     ],
     "HiContacts": [],
-    "iCheck": [
-        "lumi"
-    ],
+    "iCheck": [],
     "InTAD": [
         "ggpubr",
         "rstatix"
@@ -225,7 +217,6 @@
         "rstatix"
     ],
     "LowMACA": [],
-    "lumi": [],
     "Macarron": [],
     "MAGAR": [
         "RnBeads"
@@ -234,8 +225,7 @@
         "missMethyl"
     ],
     "MEAT": [
-        "wateRmelon",
-        "lumi"
+        "wateRmelon"
     ],
     "MEDME": [],
     "MetaboSignal": [
@@ -258,9 +248,7 @@
         "missMethyl"
     ],
     "microbiomeMarker": [],
-    "MineICA": [
-        "lumi"
-    ],
+    "MineICA": [],
     "miRSM": [
         "miRspongeR",
         "SPONGE",
@@ -423,8 +411,7 @@
     ],
     "SingleMoleculeFootprinting": [],
     "skewr": [
-        "wateRmelon",
-        "lumi"
+        "wateRmelon"
     ],
     "sojourner": [
         "sampSurf"
@@ -477,9 +464,7 @@
         "rstatix"
     ],
     "VAExprs": [],
-    "wateRmelon": [
-        "lumi"
-    ],
+    "wateRmelon": [],
     "YAPSA": [],
     "yarn": [],
     "zenith": [],
