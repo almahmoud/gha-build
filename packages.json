@@ -8,9 +8,7 @@
     "BitSeq": [],
     "CancerInSilico": [],
     "CATALYST": [],
-    "censcyt": [
-        "diffcyt"
-    ],
+    "censcyt": [],
     "CeTF": [
         "GenomicTools"
     ],
@@ -23,14 +21,12 @@
     ],
     "conclus": [],
     "CyTOFpower": [
-        "CytoGLMM",
-        "diffcyt"
+        "CytoGLMM"
     ],
     "CytoGLMM": [],
     "DAPAR": [
         "DAPARdata"
     ],
-    "diffcyt": [],
     "enrichTF": [
         "JASPAR2018"
     ],
@@ -104,9 +100,7 @@
         "vbsr"
     ],
     "Travel": [],
-    "treekoR": [
-        "diffcyt"
-    ],
+    "treekoR": [],
     "mGSZ": [],
     "GenomicTools": [],
     "spp": [],
