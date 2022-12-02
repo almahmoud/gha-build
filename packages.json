@@ -8229,7 +8229,6 @@
         "Matrix",
         "Rcpp",
         "abind",
-        "dixonTest",
         "ids",
         "snow",
         "BH",
@@ -149133,7 +149132,6 @@
     "BB": [
         "quadprog"
     ],
-    "dixonTest": [],
     "rjags": [
         "coda",
         "lattice"
