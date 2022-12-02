@@ -12297,7 +12297,6 @@
         "dbplyr"
     ],
     "sangeranalyseR": [
-        "sangerseqR",
         "shinydashboard",
         "shinyjs",
         "plotly",
@@ -12307,7 +12306,6 @@
         "BiocStyle",
         "tidyr"
     ],
-    "sangerseqR": [],
     "satuRn": [],
     "savR": [],
     "SBGNview": [
@@ -12556,7 +12554,6 @@
         "ggforce"
     ],
     "scifer": [
-        "sangerseqR",
         "kableExtra",
         "rvest"
     ],
