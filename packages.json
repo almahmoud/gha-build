@@ -53,7 +53,6 @@
         "Homo.sapiens",
         "Mus.musculus"
     ],
-    "ATACseqQC": [],
     "atSNP": [],
     "BaalChIP": [
         "doBy",
@@ -1047,7 +1046,6 @@
     "myvariant": [],
     "NADfinder": [
         "trackViewer",
-        "ATACseqQC",
         "Gviz",
         "biovizBase"
     ],
