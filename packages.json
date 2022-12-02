@@ -4279,7 +4279,6 @@
         "MSnbase"
     ],
     "IRISFGM": [
-        "AdaptGauss",
         "Seurat",
         "clusterProfiler",
         "ggpubr",
@@ -10282,7 +10281,6 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "AdaptGauss": [],
     "datamods": [
         "rio",
         "haven",
