@@ -2608,7 +2608,6 @@
         "lme4"
     ],
     "SpatialFeatureExperiment": [],
-    "spatialHeatmap": [],
     "spatzie": [
         "GenomicInteractions",
         "motifmatchr",
