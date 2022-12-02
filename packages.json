@@ -1796,10 +1796,7 @@
         "OrganismDbi",
         "ensembldb"
     ],
-    "msmsTests": [],
-    "MSnID": [
-        "msmsTests"
-    ],
+    "MSnID": [],
     "MSPrep": [
         "VIM",
         "car",
