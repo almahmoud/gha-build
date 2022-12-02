@@ -363,7 +363,6 @@
         "DESeq2",
         "Seurat",
         "ANCOMBC",
-        "corncob",
         "mia",
         "lme4",
         "lmerTest",
@@ -7335,7 +7334,6 @@
     "heatmaply": [
         "plotly"
     ],
-    "corncob": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
         "bumphunter",
