@@ -476,7 +476,6 @@
         "scuttle",
         "ggrastr"
     ],
-    "bayNorm": [],
     "BBCAnalyzer": [
         "VariantAnnotation",
         "rtracklayer",
