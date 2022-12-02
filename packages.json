@@ -13214,7 +13214,6 @@
         "Rcpp",
         "RcppArmadillo",
         "Matrix",
-        "tictoc",
         "scater",
         "stringr",
         "irlba",
@@ -25860,7 +25859,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "DESeq2",
-        "tictoc",
         "S4Vectors",
         "BiocGenerics",
         "Biobase",
@@ -36372,7 +36370,6 @@
         "RecordLinkage",
         "stringr",
         "textclean",
-        "tictoc",
         "tidygraph",
         "tidyr",
         "vroom",
@@ -117428,7 +117425,6 @@
         "Rcpp",
         "Rdpack"
     ],
-    "tictoc": [],
     "mvoutlier": [
         "sgeostat",
         "robustbase"
