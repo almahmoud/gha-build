@@ -1736,7 +1736,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "proActiv": [],
     "proBatch": [
         "pvca",
         "lme4"
