@@ -5603,7 +5603,6 @@
         "ggpubr",
         "BSgenome",
         "rstatix",
-        "tidytidbits",
         "GenomicFeatures",
         "biomaRt",
         "car",
@@ -7148,7 +7147,6 @@
     ],
     "survivalAnalysis": [
         "survminer",
-        "tidytidbits",
         "ggpubr",
         "rstatix",
         "car",
@@ -7156,7 +7154,6 @@
         "lme4",
         "nloptr"
     ],
-    "tidytidbits": [],
     "openair": [],
     "celldex": [
         "ExperimentHub",
