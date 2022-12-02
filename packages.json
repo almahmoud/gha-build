@@ -12112,10 +12112,7 @@
         "ellipsis",
         "askpass"
     ],
-    "BufferedMatrix": [],
-    "BufferedMatrixMethods": [
-        "BufferedMatrix"
-    ],
+    "BufferedMatrixMethods": [],
     "bugsigdbr": [
         "BiocFileCache",
         "vroom",
