@@ -891,7 +891,6 @@
     ],
     "MetaboAnnotation": [],
     "MetaboSignal": [
-        "EnsDb.Hsapiens.v75",
         "MWASTools",
         "car",
         "pbkrtest"
@@ -1745,7 +1744,6 @@
     "uncoverappLib": [
         "Gviz",
         "Homo.sapiens",
-        "EnsDb.Hsapiens.v75",
         "EnsDb.Hsapiens.v86",
         "biovizBase"
     ],
@@ -1895,7 +1893,6 @@
     ],
     "glmmTMB": [],
     "agricolae": [],
-    "EnsDb.Hsapiens.v75": [],
     "FlowSorted.Blood.450k": [
         "minfi"
     ],
