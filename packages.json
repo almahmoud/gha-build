@@ -1856,7 +1856,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "PhyloProfile": [],
     "Pi": [],
     "Pigengene": [
         "clusterProfiler",
