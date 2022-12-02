@@ -51487,7 +51487,6 @@
         "vctrs",
         "lifecycle"
     ],
-    "SBMLR": [],
     "SC3": [
         "e1071",
         "doParallel",
