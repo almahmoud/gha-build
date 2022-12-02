@@ -1910,7 +1910,6 @@
         "ggplot2",
         "tidyselect"
     ],
-    "biobtreeR": [],
     "bioCancer": [
         "radiant.data",
         "DT",
