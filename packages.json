@@ -293,8 +293,7 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "ScaledMatrix",
-        "ragg"
+        "ScaledMatrix"
     ],
     "ALDEx2": [
         "zCompositions",
@@ -480,7 +479,6 @@
         "waldo",
         "tidytree",
         "ScaledMatrix",
-        "ragg",
         "rematch2"
     ],
     "AneuFinder": [
@@ -1504,8 +1502,7 @@
         "ggrepel",
         "bluster",
         "GenomicRanges",
-        "tidyselect",
-        "ragg"
+        "tidyselect"
     ],
     "bayNorm": [
         "SingleCellExperiment",
@@ -1655,7 +1652,6 @@
         "ggrastr",
         "waldo",
         "ScaledMatrix",
-        "ragg",
         "rematch2"
     ],
     "BgeeCall": [
@@ -2731,7 +2727,6 @@
         "testthat",
         "GenomicRanges",
         "shiny",
-        "ragg",
         "rmarkdown",
         "tibble",
         "waldo",
@@ -3058,7 +3053,6 @@
         "ggsci",
         "ggsignif",
         "rstatix",
-        "ragg",
         "TH.data",
         "nloptr",
         "broom",
@@ -3237,8 +3231,7 @@
         "ggrastr",
         "bluster",
         "GenomicRanges",
-        "ScaledMatrix",
-        "ragg"
+        "ScaledMatrix"
     ],
     "CellaRepertorium": [
         "dplyr",
@@ -3321,7 +3314,6 @@
         "spatstat.explore",
         "GenomicRanges",
         "ScaledMatrix",
-        "ragg",
         "tidyr",
         "dplyr",
         "tidyselect"
@@ -3375,8 +3367,7 @@
         "ggrastr",
         "ggrepel",
         "GenomicRanges",
-        "ScaledMatrix",
-        "ragg"
+        "ScaledMatrix"
     ],
     "CellNOptR": [
         "ggplot2",
@@ -4077,8 +4068,7 @@
         "ggrastr",
         "bluster",
         "fresh",
-        "waiter",
-        "ragg"
+        "waiter"
     ],
     "chromstaR": [
         "GenomicRanges",
@@ -4731,7 +4721,6 @@
         "testthat",
         "tidyselect",
         "shiny",
-        "ragg",
         "rmarkdown",
         "waldo",
         "rematch2"
@@ -5014,7 +5003,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "ragg",
         "Biostrings",
         "vroom",
         "ggfun",
@@ -5059,7 +5047,6 @@
         "spatstat.model",
         "spatstat.linnet",
         "ScaledMatrix",
-        "ragg",
         "hardhat",
         "ipred",
         "tidyr",
@@ -5360,7 +5347,6 @@
         "ggplot2",
         "SummarizedExperiment",
         "genefilter",
-        "ragg",
         "GenomicRanges",
         "geneplotter",
         "tibble",
@@ -7028,8 +7014,7 @@
         "ggrastr",
         "ggrepel",
         "GenomicRanges",
-        "ScaledMatrix",
-        "ragg"
+        "ScaledMatrix"
     ],
     "dittoSeq": [
         "ggplot2",
@@ -9135,7 +9120,6 @@
         "progress",
         "BiocFileCache",
         "forcats",
-        "ragg",
         "dbplyr"
     ],
     "flowAI": [
@@ -9643,7 +9627,6 @@
         "rcmdcheck",
         "testthat",
         "shiny",
-        "ragg",
         "rmarkdown",
         "tibble",
         "waldo",
@@ -11589,7 +11572,6 @@
         "rtracklayer",
         "Gviz",
         "ggbeeswarm",
-        "ragg",
         "ExperimentHub",
         "BiocFileCache",
         "AnnotationHub",
@@ -12155,7 +12137,6 @@
         "rcmdcheck",
         "testthat",
         "shiny",
-        "ragg",
         "rmarkdown",
         "tibble",
         "waldo",
@@ -12539,7 +12520,6 @@
         "shadowtext",
         "ggtree",
         "tweenr",
-        "ragg",
         "Biostrings",
         "broom",
         "car",
@@ -14715,7 +14695,6 @@
         "cellranger",
         "rematch2",
         "shiny",
-        "ragg",
         "rmarkdown",
         "vroom",
         "progress",
@@ -14935,7 +14914,6 @@
         "testthat",
         "tibble",
         "shiny",
-        "ragg",
         "rmarkdown",
         "waldo",
         "rematch2"
@@ -15008,7 +14986,6 @@
         "ggrepel",
         "treeio",
         "ScaledMatrix",
-        "ragg",
         "tidytree"
     ],
     "miaSim": [
@@ -15060,8 +15037,7 @@
         "patchwork",
         "ScaledMatrix",
         "RSQLite",
-        "tweenr",
-        "ragg"
+        "tweenr"
     ],
     "microbiome": [
         "phyloseq",
@@ -15185,7 +15161,6 @@
         "ggrepel",
         "waldo",
         "ScaledMatrix",
-        "ragg",
         "lava",
         "rematch2"
     ],
@@ -16811,7 +16786,6 @@
         "prodlim",
         "Biostrings",
         "TH.data",
-        "ragg",
         "waldo",
         "lava",
         "rematch2"
@@ -16879,7 +16853,6 @@
         "ScaledMatrix",
         "annotate",
         "AnnotationDbi",
-        "ragg",
         "testthat",
         "broom",
         "RSQLite",
@@ -17127,7 +17100,6 @@
         "Biostrings",
         "tidyselect",
         "ggbeeswarm",
-        "ragg",
         "vroom",
         "rtracklayer",
         "progress",
@@ -17459,7 +17431,6 @@
         "GenomicRanges",
         "ScaledMatrix",
         "tibble",
-        "ragg",
         "ClusterR",
         "benchmarkme",
         "rncl",
@@ -18241,7 +18212,6 @@
         "testthat",
         "tibble",
         "shiny",
-        "ragg",
         "rmarkdown",
         "waldo",
         "rematch2"
@@ -18645,7 +18615,6 @@
         "Biostrings",
         "annotate",
         "AnnotationDbi",
-        "ragg",
         "waldo",
         "RSQLite",
         "KEGGREST",
@@ -18827,8 +18796,7 @@
         "ggrepel",
         "GenomicRanges",
         "ScaledMatrix",
-        "tibble",
-        "ragg"
+        "tibble"
     ],
     "pengls": [],
     "PepsNMR": [
@@ -19256,7 +19224,6 @@
         "spatstat.explore",
         "GenomicRanges",
         "ScaledMatrix",
-        "ragg",
         "tidyr"
     ],
     "pipeFrame": [
@@ -21801,7 +21768,6 @@
         "biomaRt",
         "tibble",
         "shiny",
-        "ragg",
         "waldo",
         "progress",
         "BiocFileCache",
@@ -22824,7 +22790,6 @@
         "ggrepel",
         "ScaledMatrix",
         "tibble",
-        "ragg",
         "GenomicRanges"
     ],
     "scatterHatch": [
@@ -22994,8 +22959,7 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "tibble",
-        "ragg"
+        "tibble"
     ],
     "scDD": [
         "fields",
@@ -23340,7 +23304,6 @@
         "waldo",
         "dbplyr",
         "ScaledMatrix",
-        "ragg",
         "rematch2"
     ],
     "scran": [
@@ -23597,7 +23560,6 @@
         "Biostrings",
         "biomaRt",
         "tweenr",
-        "ragg",
         "tidyr",
         "KEGGREST",
         "progress",
@@ -24443,7 +24405,6 @@
         "KEGGREST",
         "dbplyr",
         "biomaRt",
-        "ragg",
         "org.Hs.eg.db",
         "reldist",
         "Hmisc",
@@ -24783,7 +24744,6 @@
         "SeuratObject",
         "spatstat.explore",
         "ScaledMatrix",
-        "ragg",
         "tidyr"
     ],
     "sparrow": [
@@ -24962,7 +24922,6 @@
         "GO.db",
         "KEGGREST",
         "ScaledMatrix",
-        "ragg",
         "Biostrings"
     ],
     "spatzie": [
@@ -25119,8 +25078,7 @@
         "ggrastr",
         "ggrepel",
         "GenomicRanges",
-        "ScaledMatrix",
-        "ragg"
+        "ScaledMatrix"
     ],
     "SpliceWiz": [
         "NxtIRFdata",
@@ -25398,7 +25356,6 @@
         "annotate",
         "tibble",
         "shiny",
-        "ragg",
         "waldo",
         "dbplyr",
         "dplyr",
@@ -27226,7 +27183,6 @@
         "ggrastr",
         "ggrepel",
         "ScaledMatrix",
-        "ragg",
         "Biostrings"
     ],
     "trigger": [
@@ -27585,7 +27541,6 @@
         "GenomicRanges",
         "ScaledMatrix",
         "tidyselect",
-        "ragg",
         "vroom",
         "text2vec",
         "textstem",
@@ -28564,10 +28519,8 @@
     "ggrastr": [
         "ggplot2",
         "ggbeeswarm",
-        "ragg",
         "tibble"
     ],
-    "ragg": [],
     "zCompositions": [],
     "shinydashboard": [
         "shiny"
@@ -29596,14 +29549,12 @@
         "rcmdcheck",
         "testthat",
         "shiny",
-        "ragg",
         "rmarkdown",
         "tibble",
         "waldo",
         "rematch2"
     ],
     "pkgdown": [
-        "ragg",
         "rmarkdown",
         "tibble"
     ],
@@ -31236,7 +31187,6 @@
         "rcmdcheck",
         "testthat",
         "shiny",
-        "ragg",
         "rmarkdown",
         "tibble",
         "waldo",
