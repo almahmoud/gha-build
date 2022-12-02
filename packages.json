@@ -125,7 +125,6 @@
         "biomaRt",
         "OrganismDbi"
     ],
-    "ArrayExpress": [],
     "ArrayExpressHTS": [
         "biomaRt"
     ],
@@ -1381,7 +1380,6 @@
     ],
     "DrugVsDisease": [
         "biomaRt",
-        "ArrayExpress",
         "GEOquery"
     ],
     "DSS": [
