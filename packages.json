@@ -21154,7 +21154,6 @@
         "SummarizedExperiment",
         "AnnotationDbi",
         "GO.db",
-        "rhdf5client",
         "dplyr",
         "bigrquery",
         "ExperimentHub",
@@ -21321,7 +21320,6 @@
         "Rsamtools",
         "GenomicAlignments"
     ],
-    "rhdf5client": [],
     "Rhisat2": [
         "GenomicFeatures",
         "SGSeq",
@@ -26269,7 +26267,6 @@
         "dplyr",
         "AnnotationHub",
         "GO.db",
-        "rhdf5client",
         "bigrquery",
         "ExperimentHub",
         "GenomicRanges",
