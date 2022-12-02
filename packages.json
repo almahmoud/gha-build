@@ -1356,7 +1356,6 @@
         "lme4",
         "nloptr"
     ],
-    "DMCHMM": [],
     "DMRcate": [
         "ExperimentHub",
         "bsseq",
