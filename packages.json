@@ -758,9 +758,7 @@
         "pbkrtest"
     ],
     "ISAnalytics": [],
-    "IsoformSwitchAnalyzeR": [
-        "tximeta"
-    ],
+    "IsoformSwitchAnalyzeR": [],
     "IVAS": [],
     "ivygapSE": [
         "survminer",
@@ -1673,7 +1671,6 @@
     "ttgsea": [
         "textstem"
     ],
-    "tximeta": [],
     "Ularcirc": [],
     "UMI4Cats": [],
     "uncoverappLib": [
