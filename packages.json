@@ -14966,7 +14966,6 @@
         "rematch2"
     ],
     "infercnv": [
-        "phyclust",
         "dplyr",
         "ggplot2",
         "coin",
@@ -38078,7 +38077,6 @@
         "classInt"
     ],
     "Rlabkey": [],
-    "phyclust": [],
     "golem": [
         "roxygen2",
         "shiny",
