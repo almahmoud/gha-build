@@ -1903,7 +1903,6 @@
         "VariantAnnotation"
     ],
     "proActiv": [],
-    "proBAMr": [],
     "proBatch": [
         "pvca",
         "lme4"
