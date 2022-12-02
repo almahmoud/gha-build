@@ -2952,7 +2952,6 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "cleaver": [],
     "clippda": [],
     "clipper": [
         "qpgraph",
@@ -14000,7 +13999,6 @@
         "dplyr"
     ],
     "ProteoDisco": [
-        "cleaver",
         "dplyr",
         "GenomicFeatures",
         "tidyr",
@@ -18127,7 +18125,6 @@
     "synapter": [
         "MSnbase",
         "qvalue",
-        "cleaver",
         "readr",
         "vsn",
         "ggplot2",
