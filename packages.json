@@ -9814,7 +9814,6 @@
         "tidyr",
         "plotly"
     ],
-    "scPCA": [],
     "scPipe": [
         "biomaRt",
         "GGally",
