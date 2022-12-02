@@ -2624,9 +2624,7 @@
         "tidytree",
         "treeio"
     ],
-    "deco": [
-        "made4"
-    ],
+    "deco": [],
     "DEComplexDisease": [
         "DESeq2",
         "geneplotter",
@@ -5703,7 +5701,6 @@
         "AnnotationHub",
         "BiocFileCache"
     ],
-    "made4": [],
     "MADSEQ": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -7695,9 +7692,7 @@
         "topGO",
         "GO.db"
     ],
-    "omicade4": [
-        "made4"
-    ],
+    "omicade4": [],
     "omicplotR": [],
     "omicRexposome": [
         "rexposome",
@@ -7707,7 +7702,6 @@
         "SmartSVA",
         "isva",
         "qvalue",
-        "made4",
         "FactoMineR",
         "Hmisc",
         "lme4",
