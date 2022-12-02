@@ -27953,7 +27953,6 @@
         "Matrix",
         "classInt",
         "s2",
-        "units",
         "systemfonts",
         "highr",
         "bslib",
@@ -30788,7 +30787,6 @@
         "beachmat",
         "classInt",
         "s2",
-        "units",
         "magick",
         "DropletUtils",
         "BiocFileCache",
@@ -33604,7 +33602,6 @@
         "nloptr",
         "classInt",
         "s2",
-        "units",
         "e1071",
         "blob",
         "sparseMatrixStats",
@@ -58973,7 +58970,6 @@
         "sp",
         "classInt",
         "s2",
-        "units",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -60059,7 +60055,6 @@
         "sp",
         "classInt",
         "s2",
-        "units",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -60172,7 +60167,6 @@
         "sp",
         "classInt",
         "s2",
-        "units",
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
@@ -63678,7 +63672,6 @@
         "futile.logger",
         "classInt",
         "s2",
-        "units",
         "GenomicRanges",
         "DelayedArray",
         "magick",
@@ -64143,7 +64136,6 @@
         "testthat",
         "classInt",
         "s2",
-        "units",
         "e1071",
         "blob",
         "sparseMatrixStats",
@@ -65471,7 +65463,6 @@
         "selectr",
         "classInt",
         "s2",
-        "units",
         "Biobase",
         "processx",
         "e1071",
@@ -65575,7 +65566,6 @@
         "BiocFileCache",
         "spData",
         "sf",
-        "units",
         "s2",
         "e1071",
         "MatrixGenerics",
@@ -66461,7 +66451,6 @@
         "selectr",
         "classInt",
         "s2",
-        "units",
         "xts",
         "lwgeom",
         "processx",
@@ -71246,7 +71235,6 @@
         "vctrs",
         "classInt",
         "s2",
-        "units",
         "GenomicRanges",
         "DelayedArray",
         "magick",
@@ -79606,7 +79594,6 @@
         "gdtools",
         "classInt",
         "s2",
-        "units",
         "Matrix",
         "e1071",
         "systemfonts",
@@ -79621,14 +79608,12 @@
     "sf": [
         "classInt",
         "s2",
-        "units",
         "e1071"
     ],
     "classInt": [
         "e1071"
     ],
     "s2": [],
-    "units": [],
     "penalized": [
         "survival",
         "Matrix"
@@ -79830,7 +79815,6 @@
         "pillar",
         "classInt",
         "s2",
-        "units",
         "e1071"
     ],
     "Rlabkey": [
@@ -83202,7 +83186,6 @@
         "sp",
         "spData",
         "sf",
-        "units",
         "s2",
         "e1071",
         "classInt"
@@ -83453,7 +83436,6 @@
         "stars",
         "classInt",
         "s2",
-        "units",
         "xts",
         "lwgeom",
         "e1071"
@@ -83475,7 +83457,6 @@
         "sf",
         "classInt",
         "s2",
-        "units",
         "e1071"
     ],
     "spacetime": [
@@ -83487,12 +83468,10 @@
         "sf",
         "classInt",
         "lwgeom",
-        "units",
         "e1071",
         "s2"
     ],
     "lwgeom": [
-        "units",
         "sf",
         "classInt",
         "s2",
