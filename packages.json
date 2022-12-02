@@ -81051,7 +81051,6 @@
         "S4Vectors",
         "bamsignals",
         "ComplexHeatmap",
-        "chromhmmData",
         "Rcpp",
         "Rhtslib",
         "AnnotationDbi",
@@ -111821,7 +111820,6 @@
         "ellipsis",
         "purrr"
     ],
-    "chromhmmData": [],
     "cvTools": [
         "robustbase"
     ],
