@@ -2497,7 +2497,6 @@
     "ASURAT": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "plot3D",
         "ComplexHeatmap",
         "GetoptLong",
         "IRanges",
@@ -12127,7 +12126,6 @@
         "vctrs",
         "terra",
         "ks",
-        "plot3D",
         "Hmisc",
         "survival",
         "quantreg",
@@ -16553,7 +16551,6 @@
         "ks",
         "viper",
         "mgcv",
-        "plot3D",
         "mixtools",
         "e1071",
         "segmented",
@@ -20728,8 +20725,7 @@
         "DelayedArray",
         "bit64",
         "tidyselect",
-        "progress",
-        "plot3D"
+        "progress"
     ],
     "fCI": [
         "psych",
@@ -21534,7 +21530,6 @@
         "feature",
         "flowCore",
         "ks",
-        "plot3D",
         "pcaPP",
         "mgcv"
     ],
@@ -21546,7 +21541,6 @@
         "rrcov",
         "flowCore",
         "ks",
-        "plot3D",
         "pcaPP",
         "mgcv"
     ],
@@ -21668,7 +21662,6 @@
         "scales",
         "DelayedArray",
         "mgcv",
-        "plot3D",
         "pcaPP",
         "IRanges",
         "lifecycle",
@@ -21725,7 +21718,6 @@
         "scales",
         "DelayedArray",
         "mgcv",
-        "plot3D",
         "interp",
         "pcaPP",
         "IRanges",
@@ -21971,7 +21963,6 @@
         "ks",
         "ggplot2",
         "mgcv",
-        "plot3D",
         "lifecycle",
         "scales",
         "tibble",
@@ -22034,7 +22025,6 @@
         "ks",
         "ggplot2",
         "mgcv",
-        "plot3D",
         "scales",
         "tibble",
         "vctrs",
@@ -29849,7 +29839,6 @@
         "ks",
         "ggplot2",
         "mgcv",
-        "plot3D",
         "lifecycle",
         "scales",
         "tibble",
@@ -30292,7 +30281,6 @@
         "e1071",
         "akima",
         "ggplot2",
-        "plot3D",
         "RCurl",
         "ROCR",
         "testthat",
@@ -40049,7 +40037,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "plot3D",
         "cowplot",
         "fitdistrplus",
         "future",
@@ -41050,7 +41037,6 @@
         "tibble",
         "vctrs",
         "SummarizedExperiment",
-        "plot3D",
         "dplyr",
         "tidyselect",
         "rtracklayer",
@@ -42425,7 +42411,6 @@
         "knitr",
         "RcppEigen",
         "ks",
-        "plot3D",
         "highr",
         "pcaPP",
         "mgcv"
@@ -44440,7 +44425,6 @@
         "ROCR",
         "glmnet",
         "caret",
-        "plot3D",
         "IRanges",
         "dplyr",
         "tidyr",
@@ -44690,7 +44674,6 @@
         "ellipsis",
         "knitr",
         "htmlwidgets",
-        "plot3D",
         "cachem",
         "highr"
     ],
@@ -48618,7 +48601,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "plot3D",
         "ade4",
         "ape",
         "biomformat",
@@ -54754,7 +54736,6 @@
         "webshot",
         "egg",
         "highr",
-        "plot3D",
         "tidyr",
         "crosstalk",
         "purrr",
@@ -54871,7 +54852,6 @@
         "dplyr",
         "tidyselect",
         "fields",
-        "plot3D",
         "httr",
         "htmlwidgets",
         "tidyr",
@@ -63551,7 +63531,6 @@
         "shinyjs",
         "shinyFiles",
         "DT",
-        "plot3D",
         "plotly",
         "dplyr",
         "pryr",
@@ -64056,8 +64035,7 @@
         "pcaPP",
         "hdrcde",
         "ks",
-        "ellipsis",
-        "plot3D"
+        "ellipsis"
     ],
     "uncoverappLib": [
         "shiny",
@@ -67978,7 +67956,6 @@
         "survival",
         "expm"
     ],
-    "plot3D": [],
     "msigdbr": [
         "babelgene",
         "dplyr",
@@ -70998,12 +70975,10 @@
     ],
     "feature": [
         "ks",
-        "plot3D",
         "mgcv"
     ],
     "ks": [
-        "mgcv",
-        "plot3D"
+        "mgcv"
     ],
     "airway": [
         "SummarizedExperiment",
@@ -72075,7 +72050,6 @@
         "ks",
         "ggplot2",
         "mgcv",
-        "plot3D",
         "lifecycle",
         "scales",
         "tibble",
@@ -72090,7 +72064,6 @@
         "ks",
         "ggplot2",
         "mgcv",
-        "plot3D",
         "lifecycle",
         "scales",
         "tibble",
@@ -72103,7 +72076,6 @@
         "ks",
         "ggplot2",
         "mgcv",
-        "plot3D",
         "lifecycle",
         "scales",
         "tibble",
@@ -72118,7 +72090,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "plot3D",
         "pillar"
     ],
     "SPARQL": [],
@@ -75286,7 +75257,6 @@
     ],
     "nnTensor": [
         "fields",
-        "plot3D",
         "tagcloud",
         "ggplot2",
         "viridis",
