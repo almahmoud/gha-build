@@ -15517,7 +15517,6 @@
         "prodlim",
         "lava"
     ],
-    "mapscape": [],
     "marr": [
         "SummarizedExperiment",
         "ggplot2",
