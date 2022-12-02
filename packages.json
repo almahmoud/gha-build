@@ -7372,7 +7372,6 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "GeneRegionScan": [],
     "geneRxCluster": [],
     "GENESIS": [
         "GWASTools",
