@@ -1900,7 +1900,6 @@
     "COMPASS": [
         "tidyr"
     ],
-    "compcodeR": [],
     "compEpiTools": [
         "topGO",
         "GenomicFeatures",
