@@ -10123,7 +10123,6 @@
         "GenomicRanges",
         "Biostrings",
         "BSgenome",
-        "RcppRoll",
         "IRanges",
         "rtracklayer",
         "ROCR",
@@ -18813,7 +18812,6 @@
     "DMRcaller": [
         "GenomicRanges",
         "IRanges",
-        "RcppRoll",
         "betareg",
         "flexmix",
         "lmtest",
@@ -19004,7 +19002,6 @@
     ],
     "DMRScan": [
         "Matrix",
-        "RcppRoll",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -78361,7 +78358,6 @@
         "future",
         "globals"
     ],
-    "RcppRoll": [],
     "BSgenome.Mmusculus.UCSC.mm9": [
         "BSgenome",
         "IRanges",
