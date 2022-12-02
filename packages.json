@@ -3644,7 +3644,6 @@
         "broom"
     ],
     "macat": [],
-    "MACSQuantifyR": [],
     "MACSr": [
         "ExperimentHub",
         "AnnotationHub"
