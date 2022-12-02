@@ -103,7 +103,6 @@
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
-    "bambu": [],
     "bandle": [],
     "Basic4Cseq": [],
     "BBCAnalyzer": [
@@ -820,7 +819,6 @@
     ],
     "FLAMES": [
         "ggbio",
-        "bambu",
         "biovizBase",
         "VariantAnnotation"
     ],
