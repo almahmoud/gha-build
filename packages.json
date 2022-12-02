@@ -415,7 +415,6 @@
         "rstatix"
     ],
     "Pigengene": [],
-    "PING": [],
     "plotGrouper": [
         "ggpubr",
         "rstatix"
