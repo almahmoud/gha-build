@@ -248,7 +248,6 @@
         "survminer",
         "ggpubr"
     ],
-    "OncoSimulR": [],
     "onlineFDR": [],
     "orthogene": [
         "ggpubr"
