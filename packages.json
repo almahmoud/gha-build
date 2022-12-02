@@ -132197,7 +132197,6 @@
         "Rhtslib",
         "magrittr",
         "stringi",
-        "ore",
         "reportr",
         "shades",
         "RNifti",
@@ -163413,16 +163412,12 @@
         "curl"
     ],
     "tractor.base": [
-        "ore",
         "reportr",
         "shades",
         "RNifti",
         "Rcpp"
     ],
-    "ore": [],
-    "reportr": [
-        "ore"
-    ],
+    "reportr": [],
     "RNifti": [
         "Rcpp"
     ],
