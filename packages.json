@@ -6211,7 +6211,6 @@
         "tidyselect",
         "RcppEigen"
     ],
-    "cancerclass": [],
     "CancerInSilico": [],
     "CancerSubtypes": [
         "NMF",
