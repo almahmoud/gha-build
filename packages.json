@@ -2565,7 +2565,6 @@
         "scater",
         "DirichletMultinomial",
         "testthat",
-        "rbibutils",
         "digest",
         "GenomicRanges",
         "MatrixGenerics",
@@ -8511,7 +8510,6 @@
         "openssl",
         "uuid",
         "lattice",
-        "rbibutils",
         "askpass",
         "sys"
     ],
@@ -8797,7 +8795,6 @@
         "promises",
         "hms",
         "prettyunits",
-        "rbibutils",
         "RcppTOML",
         "here",
         "rappdirs",
@@ -11761,7 +11758,6 @@
         "mgcv",
         "withr",
         "pracma",
-        "rbibutils",
         "RcppEigen",
         "graph",
         "RcppArmadillo",
@@ -17021,7 +17017,6 @@
         "RcppEigen",
         "nlme",
         "lattice",
-        "rbibutils",
         "BiocGenerics",
         "GenomicRanges",
         "DelayedArray",
@@ -17440,7 +17435,6 @@
         "interp",
         "nlme",
         "Matrix",
-        "rbibutils",
         "farver",
         "labeling",
         "munsell",
@@ -32585,7 +32579,6 @@
         "multtest",
         "multcomp",
         "utf8",
-        "rbibutils",
         "clipr",
         "vroom",
         "tzdb",
@@ -33134,7 +33127,6 @@
         "gridGraphics",
         "askpass",
         "utf8",
-        "rbibutils",
         "fs",
         "rappdirs",
         "foreach",
@@ -40276,7 +40268,6 @@
         "multcomp",
         "later",
         "robustbase",
-        "rbibutils",
         "bit64",
         "blob",
         "memoise",
@@ -43969,7 +43960,6 @@
         "IRanges",
         "Biobase",
         "tidyr",
-        "rbibutils",
         "plyr",
         "Rcpp",
         "MatrixGenerics",
@@ -47710,7 +47700,6 @@
         "yaml",
         "magrittr",
         "lattice",
-        "rbibutils",
         "base64enc",
         "fastmap",
         "nlme",
@@ -52580,7 +52569,6 @@
         "tibble",
         "vctrs",
         "withr",
-        "rbibutils",
         "DBI",
         "RSQLite",
         "KEGGREST",
@@ -57329,7 +57317,6 @@
         "rprojroot",
         "crayon",
         "fs",
-        "rbibutils",
         "diffobj",
         "rematch2",
         "tibble",
@@ -58865,8 +58852,7 @@
         "Rcpp",
         "Ckmeans.1d.dp",
         "matrixStats",
-        "Rdpack",
-        "rbibutils"
+        "Rdpack"
     ],
     "Harshlight": [
         "affy",
@@ -59179,7 +59165,6 @@
         "mgcv",
         "BiocBaseUtils",
         "DelayedArray",
-        "rbibutils",
         "MatrixGenerics",
         "Matrix",
         "cpp11",
@@ -66628,7 +66613,6 @@
         "survival",
         "zlibbioc",
         "GenomicAlignments",
-        "rbibutils",
         "ellipsis",
         "purrr",
         "MatrixGenerics",
@@ -75331,7 +75315,6 @@
         "Rcpp",
         "later",
         "robustbase",
-        "rbibutils",
         "farver",
         "labeling",
         "munsell",
@@ -78582,7 +78565,6 @@
         "sandwich",
         "testthat",
         "utf8",
-        "rbibutils",
         "clock",
         "gower",
         "hardhat",
@@ -86527,7 +86509,6 @@
         "multcomp",
         "utf8",
         "robustbase",
-        "rbibutils",
         "bit64",
         "blob",
         "memoise",
@@ -86915,7 +86896,6 @@
         "utf8",
         "robustbase",
         "RSpectra",
-        "rbibutils",
         "clock",
         "gower",
         "hardhat",
@@ -87286,7 +87266,6 @@
         "broom",
         "knitr",
         "utf8",
-        "rbibutils",
         "plyr",
         "stringr",
         "FNN",
@@ -88207,7 +88186,6 @@
         "multcomp",
         "polynom",
         "robustbase",
-        "rbibutils",
         "rjson",
         "Rhdf5lib",
         "rhdf5filters",
@@ -96024,7 +96002,6 @@
         "utf8",
         "MASS",
         "robustbase",
-        "rbibutils",
         "sn",
         "cpp11",
         "ggfun",
@@ -101771,7 +101748,6 @@
         "crayon",
         "Matrix",
         "RcppEigen",
-        "rbibutils",
         "DEoptimR",
         "ellipsis",
         "cpp11",
@@ -106920,8 +106896,7 @@
         "BiocGenerics"
     ],
     "randRotation": [
-        "Rdpack",
-        "rbibutils"
+        "Rdpack"
     ],
     "RankProd": [
         "Rmpfr",
@@ -113068,8 +113043,7 @@
     ],
     "rmelting": [
         "Rdpack",
-        "rJava",
-        "rbibutils"
+        "rJava"
     ],
     "Rmmquant": [
         "Rcpp",
@@ -115585,7 +115559,6 @@
         "robustbase",
         "SparseM",
         "MatrixModels",
-        "rbibutils",
         "farver",
         "labeling",
         "munsell",
@@ -117487,7 +117460,6 @@
         "Rgraphviz",
         "graph",
         "org.Hs.eg.db",
-        "rbibutils",
         "bslib",
         "MatrixGenerics",
         "GenomicRanges",
@@ -121358,7 +121330,6 @@
         "future",
         "future.apply",
         "listenv",
-        "rbibutils",
         "Rcpp",
         "RcppEigen",
         "rsvd",
@@ -126845,7 +126816,6 @@
         "hms",
         "prettyunits",
         "robustbase",
-        "rbibutils",
         "zlibbioc",
         "Rhtslib",
         "bit64",
@@ -132544,7 +132514,6 @@
         "matrixStats",
         "nlme",
         "utf8",
-        "rbibutils",
         "farver",
         "labeling",
         "munsell",
@@ -143359,7 +143328,6 @@
         "prettyunits",
         "R6",
         "crayon",
-        "rbibutils",
         "plyr",
         "stringr",
         "farver",
@@ -145709,7 +145677,6 @@
         "nlme",
         "colorspace",
         "utf8",
-        "rbibutils",
         "stringi",
         "zlibbioc"
     ],
@@ -146857,7 +146824,6 @@
         "prettyunits",
         "R6",
         "crayon",
-        "rbibutils",
         "plyr",
         "Rcpp",
         "stringr",
@@ -149692,9 +149658,7 @@
         "cli",
         "utf8"
     ],
-    "Rdpack": [
-        "rbibutils"
-    ],
+    "Rdpack": [],
     "emmeans": [
         "estimability",
         "numDeriv",
@@ -149785,7 +149749,6 @@
         "lattice",
         "Rcpp"
     ],
-    "rbibutils": [],
     "rootSolve": [],
     "lmom": [],
     "tidytree": [
@@ -154928,7 +154891,6 @@
         "withr",
         "generics",
         "Matrix",
-        "rbibutils",
         "bit64",
         "memoise",
         "Rcpp",
@@ -154993,7 +154955,6 @@
         "magrittr",
         "Matrix",
         "rlang",
-        "rbibutils",
         "lattice"
     ],
     "WGCNA": [
@@ -156689,8 +156650,7 @@
     ],
     "Ckmeans.1d.dp": [
         "Rcpp",
-        "Rdpack",
-        "rbibutils"
+        "Rdpack"
     ],
     "tictoc": [],
     "mvoutlier": [
@@ -160836,7 +160796,6 @@
         "MASS",
         "robustbase",
         "Rcpp",
-        "rbibutils",
         "sn",
         "Matrix",
         "survival",
@@ -163603,17 +163562,14 @@
         "spatial",
         "gss",
         "stabledist",
-        "lattice",
-        "rbibutils"
+        "lattice"
     ],
     "cvar": [
         "gbutils",
-        "Rdpack",
-        "rbibutils"
+        "Rdpack"
     ],
     "gbutils": [
-        "Rdpack",
-        "rbibutils"
+        "Rdpack"
     ],
     "KEGGandMetacoreDzPathwaysGEO": [
         "Biobase",
@@ -164390,7 +164346,6 @@
         "changepoint",
         "zoo",
         "Rdpack",
-        "rbibutils",
         "lattice"
     ],
     "KOdata": [],
@@ -171794,8 +171749,7 @@
     "mclustcomp": [
         "Rcpp",
         "Rdpack",
-        "RcppArmadillo",
-        "rbibutils"
+        "RcppArmadillo"
     ],
     "MLmetrics": [
         "ROCR",
