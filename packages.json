@@ -1502,7 +1502,6 @@
         "nloptr",
         "testthat"
     ],
-    "CNORode": [],
     "CNTools": [
         "genefilter"
     ],
@@ -4810,9 +4809,7 @@
         "cmdfun",
         "testthat"
     ],
-    "MEIGOR": [
-        "CNORode"
-    ],
+    "MEIGOR": [],
     "Melissa": [
         "BPRMeth"
     ],
