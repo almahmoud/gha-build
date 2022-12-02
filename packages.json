@@ -1617,7 +1617,6 @@
         "ggraph",
         "tidygraph",
         "epiNEM",
-        "metap",
         "mnem",
         "broom",
         "haven",
@@ -2016,7 +2015,6 @@
         "topGO",
         "PADOG",
         "GSVA",
-        "metap",
         "plotly"
     ],
     "ELMER": [
@@ -3905,8 +3903,7 @@
         "biomaRt"
     ],
     "MetaVolcanoR": [
-        "plotly",
-        "metap"
+        "plotly"
     ],
     "MethCP": [
         "bsseq",
@@ -4560,9 +4557,7 @@
         "VariantAnnotation",
         "ensembldb"
     ],
-    "multiGSEA": [
-        "metap"
-    ],
+    "multiGSEA": [],
     "multiHiCcompare": [
         "HiCcompare"
     ],
@@ -4576,7 +4571,6 @@
         "rWikiPathways",
         "ReactomePA",
         "enrichplot",
-        "metap",
         "devtools",
         "MultiAssayExperiment",
         "ropls",
@@ -4672,7 +4666,6 @@
     ],
     "NADfinder": [
         "trackViewer",
-        "metap",
         "ATACseqQC",
         "BSgenome",
         "ChIPpeakAnno",
@@ -5082,7 +5075,6 @@
     "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler",
-        "metap",
         "DOSE",
         "enrichplot",
         "GOSemSim",
@@ -6117,7 +6109,6 @@
     "rqt": [
         "ropls",
         "car",
-        "metap",
         "pbkrtest",
         "lme4",
         "plotly",
@@ -6623,7 +6614,6 @@
         "scRNAseq",
         "TENxPBMCData",
         "scDblFinder",
-        "metap",
         "TSCAN",
         "GenomicFeatures",
         "aplot",
@@ -8035,7 +8025,6 @@
     "cmdfun": [
         "testthat"
     ],
-    "metap": [],
     "DMwR2": [
         "readr"
     ],
