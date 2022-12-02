@@ -320,9 +320,7 @@
     "CiteFuse": [
         "propr"
     ],
-    "clipper": [
-        "qpgraph"
-    ],
+    "clipper": [],
     "clusterProfiler": [
         "enrichplot",
         "ggtree"
@@ -1804,7 +1802,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "qpgraph": [],
     "qrqc": [
         "biovizBase",
         "VariantAnnotation"
