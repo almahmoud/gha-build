@@ -134,7 +134,6 @@
         "scater",
         "apeglm",
         "scuttle",
-        "ggbeeswarm",
         "viridis",
         "ggrastr"
     ],
@@ -213,7 +212,6 @@
         "scater",
         "testthat",
         "treeio",
-        "ggbeeswarm",
         "ggrastr",
         "waldo",
         "tidytree"
@@ -684,7 +682,6 @@
         "scran",
         "BiocFileCache",
         "scuttle",
-        "ggbeeswarm",
         "viridis",
         "ggrastr"
     ],
@@ -752,7 +749,6 @@
         "scater",
         "testthat",
         "tidytree",
-        "ggbeeswarm",
         "ggrastr",
         "waldo"
     ],
@@ -1405,7 +1401,6 @@
         "ggpubr",
         "tidyr",
         "scuttle",
-        "ggbeeswarm",
         "viridis",
         "ggrastr",
         "pbkrtest",
@@ -1494,7 +1489,6 @@
         "scran",
         "multipanelfigure",
         "scuttle",
-        "ggbeeswarm",
         "viridis",
         "ggrastr"
     ],
@@ -1527,7 +1521,6 @@
         "scater",
         "fgsea",
         "scuttle",
-        "ggbeeswarm",
         "viridis",
         "ggrastr",
         "ggridges",
@@ -1563,7 +1556,6 @@
         "tidyr",
         "ggridges",
         "scuttle",
-        "ggbeeswarm",
         "ggrastr"
     ],
     "CellNOptR": [],
@@ -1941,7 +1933,6 @@
         "ggfittext",
         "babelgene",
         "GenomicAlignments",
-        "ggbeeswarm",
         "ggrastr"
     ],
     "chromstaR": [
@@ -2369,7 +2360,6 @@
         "ggpubr",
         "readr",
         "scuttle",
-        "ggbeeswarm",
         "viridis",
         "ggrastr",
         "HDO.db",
@@ -2409,7 +2399,6 @@
         "caret",
         "recipes",
         "scuttle",
-        "ggbeeswarm",
         "viridis",
         "ggrastr",
         "spatstat.linnet",
@@ -2835,7 +2824,6 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "viridis",
-        "ggbeeswarm",
         "DropletUtils",
         "BiocFileCache",
         "scuttle"
@@ -3341,7 +3329,6 @@
         "SingleCellExperiment",
         "scater",
         "scuttle",
-        "ggbeeswarm",
         "viridis",
         "ggrastr"
     ],
@@ -4447,7 +4434,6 @@
         "OrganismDbi",
         "GGally",
         "ensembldb",
-        "ggbeeswarm",
         "viridis",
         "ggrastr",
         "BiocFileCache"
@@ -5000,7 +4986,6 @@
         "lmerTest",
         "GGally",
         "nloptr",
-        "ggbeeswarm",
         "ggiraph",
         "ggthemes",
         "waldo",
@@ -5045,7 +5030,6 @@
         "GGally",
         "tidyr",
         "lme4",
-        "ggbeeswarm",
         "ggiraph",
         "ggthemes",
         "nloptr",
@@ -5611,7 +5595,6 @@
         "ggrastr",
         "rtracklayer",
         "Gviz",
-        "ggbeeswarm",
         "ExperimentHub",
         "BiocFileCache",
         "AnnotationHub",
@@ -5840,7 +5823,6 @@
         "ggraph",
         "tidygraph",
         "concaveman",
-        "ggbeeswarm",
         "ggforce",
         "DropletUtils",
         "BiocFileCache",
@@ -6042,7 +6024,6 @@
         "viridis",
         "tidygraph",
         "scuttle",
-        "ggbeeswarm",
         "ggrastr",
         "ggridges",
         "patchwork",
@@ -7269,7 +7250,6 @@
         "scuttle",
         "scater",
         "tidyr",
-        "ggbeeswarm",
         "viridis",
         "ggrastr",
         "treeio",
@@ -7301,7 +7281,6 @@
         "MultiAssayExperiment",
         "decontam",
         "scuttle",
-        "ggbeeswarm",
         "ggrastr",
         "ggplotify",
         "patchwork"
@@ -7368,7 +7347,6 @@
         "scater",
         "testthat",
         "ipred",
-        "ggbeeswarm",
         "ggrastr",
         "waldo"
     ],
@@ -7436,7 +7414,6 @@
         "ggraph",
         "patchwork",
         "tidyr",
-        "ggbeeswarm",
         "ggforce",
         "viridis",
         "tidygraph"
@@ -8244,7 +8221,6 @@
         "viridis",
         "geneplotter",
         "nloptr",
-        "ggbeeswarm",
         "ggrastr",
         "pbkrtest",
         "annotate",
@@ -8373,12 +8349,10 @@
         "patchwork",
         "tidyr",
         "BSgenome",
-        "ggbeeswarm",
         "rtracklayer",
         "GenomicAlignments"
     ],
     "NanoStringNCTools": [
-        "ggbeeswarm",
         "ggiraph",
         "ggthemes"
     ],
@@ -8533,7 +8507,6 @@
         "phylobase",
         "mbkmeans",
         "scuttle",
-        "ggbeeswarm",
         "viridis",
         "ggrastr",
         "ClusterR",
@@ -9196,7 +9169,6 @@
         "scater",
         "SingleCellExperiment",
         "scuttle",
-        "ggbeeswarm",
         "viridis",
         "ggrastr"
     ],
@@ -9409,7 +9381,6 @@
         "scran",
         "scater",
         "scuttle",
-        "ggbeeswarm",
         "viridis",
         "ggrastr",
         "ggridges",
@@ -11101,7 +11072,6 @@
     "scater": [
         "SingleCellExperiment",
         "scuttle",
-        "ggbeeswarm",
         "viridis",
         "ggrastr"
     ],
@@ -11184,7 +11154,6 @@
         "scuttle",
         "rtracklayer",
         "GenomicAlignments",
-        "ggbeeswarm",
         "viridis",
         "ggrastr"
     ],
@@ -11336,7 +11305,6 @@
         "tidyr",
         "GenomicAlignments",
         "scuttle",
-        "ggbeeswarm",
         "viridis",
         "ggrastr",
         "waldo"
@@ -11476,7 +11444,6 @@
         "ensembldb",
         "ggforce",
         "scuttle",
-        "ggbeeswarm",
         "ggrastr",
         "ggridges",
         "patchwork",
@@ -11813,7 +11780,6 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "viridis",
-        "ggbeeswarm",
         "DropletUtils",
         "BiocFileCache",
         "scuttle"
@@ -11890,7 +11856,6 @@
         "hgu95a.db",
         "mutoss",
         "babelgene",
-        "ggbeeswarm",
         "ggrastr",
         "M3Drop",
         "ruv",
@@ -12058,7 +12023,6 @@
         "scran",
         "DropletUtils",
         "scuttle",
-        "ggbeeswarm",
         "viridis",
         "ggrastr",
         "ggridges",
@@ -12112,7 +12076,6 @@
         "GGally",
         "tidyr",
         "lme4",
-        "ggbeeswarm",
         "ggiraph",
         "ggthemes",
         "nloptr",
@@ -12145,7 +12108,6 @@
         "UpSetR",
         "annotate",
         "tidyr",
-        "ggbeeswarm",
         "viridis",
         "ggrastr",
         "Hmisc",
@@ -12226,7 +12188,6 @@
         "SingleCellExperiment",
         "scater",
         "scuttle",
-        "ggbeeswarm",
         "viridis",
         "ggrastr"
     ],
@@ -13206,7 +13167,6 @@
         "scater",
         "scattermore",
         "scuttle",
-        "ggbeeswarm",
         "viridis",
         "ggrastr"
     ],
@@ -13360,7 +13320,6 @@
         "tidyr",
         "viridis",
         "scuttle",
-        "ggbeeswarm",
         "ggrastr",
         "textstem",
         "lexicon",
@@ -13656,7 +13615,6 @@
         "SomaticSignatures",
         "VariantAnnotation",
         "dendextend",
-        "ggbeeswarm",
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome",
         "viridis",
@@ -13799,10 +13757,7 @@
         "tidyr"
     ],
     "viridis": [],
-    "ggbeeswarm": [],
-    "ggrastr": [
-        "ggbeeswarm"
-    ],
+    "ggrastr": [],
     "readxl": [],
     "speaq": [],
     "curatedTCGAData": [
