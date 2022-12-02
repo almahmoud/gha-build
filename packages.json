@@ -2557,7 +2557,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "SISPA": [],
     "sitadela": [],
     "sitePath": [
         "ggtree"
