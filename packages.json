@@ -1610,7 +1610,6 @@
         "VariantAnnotation"
     ],
     "multiSight": [
-        "anyLib",
         "clusterProfiler",
         "ReactomePA",
         "enrichplot",
@@ -2793,7 +2792,6 @@
     "cvms": [
         "lme4"
     ],
-    "anyLib": [],
     "blme": [
         "lme4"
     ],
