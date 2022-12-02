@@ -9828,7 +9828,6 @@
         "Rtsne",
         "scater",
         "scran",
-        "dbscan",
         "DelayedArray",
         "stringr",
         "ComplexHeatmap",
@@ -12722,7 +12721,6 @@
         "cowplot",
         "ggplot2",
         "gridExtra",
-        "dbscan",
         "propr",
         "uwot",
         "Rtsne",
@@ -13045,7 +13043,6 @@
     "CluMSID": [
         "mzR",
         "S4Vectors",
-        "dbscan",
         "ape",
         "network",
         "GGally",
@@ -14907,7 +14904,6 @@
     "conclus": [
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "dbscan",
         "fpc",
         "factoextra",
         "Biobase",
@@ -30659,9 +30655,7 @@
         "RCurl",
         "XVector"
     ],
-    "geva": [
-        "dbscan"
-    ],
+    "geva": [],
     "GEWIST": [
         "car",
         "mgcv",
@@ -45542,7 +45536,6 @@
         "BiBitR",
         "rqubic",
         "Biobase",
-        "dbscan",
         "subspace",
         "SOMbrero",
         "ppclust",
@@ -53511,7 +53504,6 @@
         "transport",
         "Rfast",
         "robustbase",
-        "dbscan",
         "foreach",
         "doParallel",
         "flowMeans",
@@ -56979,7 +56971,6 @@
         "broom",
         "caret",
         "ComplexHeatmap",
-        "dbscan",
         "dplyr",
         "DESeq2",
         "ggplot2",
@@ -57339,7 +57330,6 @@
         "e1071",
         "pROC",
         "caret",
-        "dbscan",
         "doSNOW",
         "foreach",
         "rCGH",
@@ -71794,7 +71784,6 @@
         "RcppEigen",
         "uwot",
         "MCMCprecision",
-        "dbscan",
         "stringr",
         "multipanelfigure",
         "htmltools",
@@ -73718,7 +73707,6 @@
         "reshape2",
         "dplyr",
         "plotly",
-        "dbscan",
         "mmand",
         "tibble",
         "vroom",
@@ -88246,7 +88234,6 @@
         "RcppArmadillo",
         "RcppEigen"
     ],
-    "dbscan": [],
     "multipanelfigure": [
         "assertive.files",
         "assertive.types",
