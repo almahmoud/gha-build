@@ -42940,7 +42940,6 @@
         "apcluster",
         "e1071",
         "AnnotationDbi",
-        "parmigene",
         "igraph",
         "reactome.db",
         "IRanges",
@@ -46992,7 +46991,6 @@
         "ggplot2",
         "GeneNet",
         "GENIE3",
-        "parmigene",
         "psych",
         "stabs",
         "tibble",
@@ -50312,7 +50310,6 @@
     "MoonlightR": [
         "doParallel",
         "foreach",
-        "parmigene",
         "SummarizedExperiment",
         "gplots",
         "circlize",
@@ -99590,7 +99587,6 @@
         "sp",
         "class"
     ],
-    "parmigene": [],
     "venn": [],
     "PairedData": [
         "gld",
