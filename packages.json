@@ -16080,7 +16080,6 @@
         "ggplot2",
         "dplyr"
     ],
-    "rRDP": [],
     "rrvgo": [
         "GOSemSim",
         "AnnotationDbi",
