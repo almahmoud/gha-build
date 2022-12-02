@@ -10535,7 +10535,6 @@
         "ExperimentHub",
         "tidyr"
     ],
-    "SplicingFactory": [],
     "SplicingGraphs": [
         "GenomicFeatures",
         "rtracklayer",
