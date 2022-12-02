@@ -826,7 +826,6 @@
         "ggtree",
         "treeio"
     ],
-    "EGSEA": [],
     "ELMER": [
         "Gviz",
         "ggpubr",
