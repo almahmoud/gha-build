@@ -45334,7 +45334,6 @@
     "RUVcorr": [
         "psych",
         "BiocParallel",
-        "bladderbatch",
         "reshape2",
         "futile.logger"
     ],
@@ -64864,7 +64863,6 @@
         "memoise",
         "pillar"
     ],
-    "bladderbatch": [],
     "RUVnormalizeData": [],
     "GENLIB": [
         "kinship2",
