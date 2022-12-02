@@ -6979,7 +6979,6 @@
         "rmarkdown",
         "imputeLCMD",
         "tidyselect",
-        "tmvtnorm",
         "vroom",
         "GenomicRanges",
         "progress"
@@ -13825,7 +13824,6 @@
         "tibble",
         "tidyselect",
         "cowplot",
-        "tmvtnorm",
         "plotly",
         "MultiAssayExperiment",
         "MultiDataSet",
@@ -14460,7 +14458,6 @@
         "vsn",
         "tidyselect",
         "viridis",
-        "tmvtnorm",
         "GenomicRanges"
     ],
     "MatrixRider": [
@@ -15859,7 +15856,6 @@
     ],
     "microbiomeDASim": [
         "ggplot2",
-        "tmvtnorm",
         "phyloseq",
         "metagenomeSeq",
         "tibble",
@@ -18843,7 +18839,6 @@
         "AnnotationDbi",
         "annotate",
         "viridis",
-        "tmvtnorm",
         "nloptr",
         "broom",
         "dplyr",
@@ -22380,7 +22375,6 @@
         "DT",
         "tibble",
         "viridis",
-        "tmvtnorm",
         "nloptr",
         "broom",
         "dplyr",
@@ -26025,7 +26019,6 @@
         "blob"
     ],
     "sparseDOSSA": [
-        "tmvtnorm",
         "MCMCpack",
         "quantreg"
     ],
@@ -31921,10 +31914,7 @@
         "quantmod",
         "TTR"
     ],
-    "imputeLCMD": [
-        "tmvtnorm"
-    ],
-    "tmvtnorm": [],
+    "imputeLCMD": [],
     "ggplot.multistats": [
         "ggplot2",
         "tibble"
