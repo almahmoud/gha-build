@@ -38199,7 +38199,6 @@
         "dplyr",
         "egg",
         "ggplot2",
-        "nls2",
         "scales",
         "SummarizedExperiment",
         "tibble",
@@ -43816,7 +43815,6 @@
         "R.matlab",
         "fitdistrplus",
         "mixtools",
-        "nls2",
         "sampSurf",
         "scales",
         "shiny",
@@ -47724,7 +47722,6 @@
         "broom",
         "doParallel",
         "ggplot2",
-        "nls2",
         "rmarkdown",
         "tibble",
         "VennDiagram",
@@ -56849,7 +56846,6 @@
         "sass"
     ],
     "doMC": [],
-    "nls2": [],
     "valr": [
         "broom",
         "dplyr",
