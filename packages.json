@@ -3003,9 +3003,7 @@
     "TreeSummarizedExperiment": [
         "treeio"
     ],
-    "trena": [
-        "SNPlocs.Hsapiens.dbSNP150.GRCh38"
-    ],
+    "trena": [],
     "TRESS": [],
     "tricycle": [],
     "tripr": [],
@@ -3387,6 +3385,5 @@
     "GenKern": [],
     "naniar": [],
     "vbsr": [],
-    "SNPlocs.Hsapiens.dbSNP150.GRCh38": [],
     "msigdb": []
 }
