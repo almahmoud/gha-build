@@ -99586,7 +99586,6 @@
     "SAIGEgds": [
         "SeqArray",
         "Rcpp",
-        "SPAtest",
         "RcppArmadillo",
         "IRanges",
         "GenomicRanges",
@@ -144456,7 +144455,6 @@
         "magrittr",
         "stringi"
     ],
-    "SPAtest": [],
     "excelR": [
         "htmlwidgets",
         "htmltools",
