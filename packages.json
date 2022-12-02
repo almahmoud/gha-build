@@ -4029,7 +4029,6 @@
         "BiBitR",
         "rqubic",
         "subspace",
-        "SOMbrero",
         "miRspongeR",
         "SPONGE",
         "clusterProfiler",
@@ -7853,7 +7852,6 @@
         "biclust"
     ],
     "subspace": [],
-    "SOMbrero": [],
     "cvms": [
         "groupdata2",
         "lme4",
