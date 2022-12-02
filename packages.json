@@ -35756,7 +35756,6 @@
         "Biostrings",
         "DelayedArray"
     ],
-    "SPEM": [],
     "SPIA": [
         "KEGGgraph"
     ],
@@ -38252,8 +38251,7 @@
         "future.apply"
     ],
     "TMixClust": [
-        "BiocParallel",
-        "SPEM"
+        "BiocParallel"
     ],
     "TNBC.CMS": [
         "SummarizedExperiment",
