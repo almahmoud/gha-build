@@ -5005,7 +5005,6 @@
     "SWATH2stats": [
         "biomaRt"
     ],
-    "synapter": [],
     "synergyfinder": [
         "drc",
         "tidyverse",
