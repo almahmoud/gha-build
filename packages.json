@@ -49,7 +49,6 @@
         "ensembldb",
         "biovizBase"
     ],
-    "AlphaBeta": [],
     "alpine": [
         "GenomicFeatures"
     ],
