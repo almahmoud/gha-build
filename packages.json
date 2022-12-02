@@ -170,7 +170,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "CNEr",
         "modelr"
     ],
     "ATACseqQC": [
@@ -180,19 +179,16 @@
         "ensembldb",
         "GenomicFeatures",
         "regioneR",
-        "TFBSTools",
-        "CNEr"
+        "TFBSTools"
     ],
     "ATACseqTFEA": [
         "motifmatchr",
-        "TFBSTools",
-        "CNEr"
+        "TFBSTools"
     ],
     "atena": [],
     "atSNP": [
         "motifStack",
-        "TFBSTools",
-        "CNEr"
+        "TFBSTools"
     ],
     "attract": [
         "GOstats"
@@ -673,8 +669,7 @@
         "scater"
     ],
     "chromVAR": [
-        "TFBSTools",
-        "CNEr"
+        "TFBSTools"
     ],
     "CHRONOS": [],
     "cicero": [
@@ -726,7 +721,6 @@
         "treeio"
     ],
     "clustifyr": [],
-    "CNEr": [],
     "CNORfuzzy": [
         "nloptr"
     ],
@@ -1001,8 +995,7 @@
     "dada2": [],
     "dagLogo": [
         "motifStack",
-        "TFBSTools",
-        "CNEr"
+        "TFBSTools"
     ],
     "DAMEfinder": [
         "VariantAnnotation",
@@ -1324,8 +1317,7 @@
     ],
     "enhancerHomologSearch": [
         "motifmatchr",
-        "TFBSTools",
-        "CNEr"
+        "TFBSTools"
     ],
     "ENmix": [
         "minfi",
@@ -1351,7 +1343,6 @@
         "DOSE",
         "enrichplot",
         "rstatix",
-        "CNEr",
         "ggraph",
         "ggtree",
         "car",
@@ -1485,7 +1476,6 @@
         "enrichplot",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "DOSE",
-        "CNEr",
         "ggraph",
         "ggtree",
         "treeio"
@@ -2295,8 +2285,7 @@
         "TCGAutils",
         "TFBSTools",
         "GenomicFeatures",
-        "GenomicDataCommons",
-        "CNEr"
+        "GenomicDataCommons"
     ],
     "LRcell": [
         "ExperimentHub"
@@ -2387,8 +2376,7 @@
     ],
     "MatrixQCvis": [],
     "MatrixRider": [
-        "TFBSTools",
-        "CNEr"
+        "TFBSTools"
     ],
     "MBECS": [
         "lme4",
@@ -2810,8 +2798,7 @@
     "mogsa": [],
     "MOMA": [],
     "monaLisa": [
-        "TFBSTools",
-        "CNEr"
+        "TFBSTools"
     ],
     "MoonlightR": [
         "clusterProfiler",
@@ -2835,17 +2822,14 @@
         "GenomicFeatures",
         "ensembldb",
         "biovizBase",
-        "TFBSTools",
-        "CNEr"
+        "TFBSTools"
     ],
     "MotifDb": [],
     "motifmatchr": [
-        "TFBSTools",
-        "CNEr"
+        "TFBSTools"
     ],
     "motifStack": [
-        "TFBSTools",
-        "CNEr"
+        "TFBSTools"
     ],
     "MouseFM": [],
     "MQmetrics": [
@@ -3034,8 +3018,7 @@
         "regioneR",
         "biovizBase",
         "TFBSTools",
-        "VariantAnnotation",
-        "CNEr"
+        "VariantAnnotation"
     ],
     "NanoMethViz": [
         "bsseq"
@@ -3276,8 +3259,7 @@
     ],
     "pageRank": [
         "motifmatchr",
-        "TFBSTools",
-        "CNEr"
+        "TFBSTools"
     ],
     "PAIRADISE": [
         "nloptr"
@@ -3440,7 +3422,6 @@
         "GenomicFeatures",
         "ensembldb",
         "biovizBase",
-        "CNEr",
         "VariantAnnotation"
     ],
     "proActiv": [
@@ -3787,8 +3768,7 @@
         "GenomicFeatures",
         "motifStack",
         "RUVSeq",
-        "TFBSTools",
-        "CNEr"
+        "TFBSTools"
     ],
     "rifi": [
         "car",
@@ -4348,7 +4328,6 @@
         "motifmatchr",
         "TFBSTools",
         "Gviz",
-        "CNEr",
         "ensembldb",
         "biovizBase",
         "VariantAnnotation"
@@ -4589,9 +4568,7 @@
         "GenomicFeatures",
         "GenomicDataCommons"
     ],
-    "TFBSTools": [
-        "CNEr"
-    ],
+    "TFBSTools": [],
     "TFEA.ChIP": [
         "GenomicFeatures"
     ],
