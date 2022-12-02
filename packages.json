@@ -12365,7 +12365,6 @@
         "usethis",
         "biocthis",
         "dplyr",
-        "aws.s3",
         "tidytext",
         "tibble",
         "styler",
@@ -22795,7 +22794,6 @@
         "ggplotify",
         "ggprism",
         "RLHub",
-        "aws.s3",
         "BiocFileCache",
         "RSQLite",
         "AnnotationDbi",
@@ -32224,7 +32222,6 @@
         "dplyr",
         "tidyselect"
     ],
-    "aws.s3": [],
     "reactable": [],
     "biclust": [
         "tidyr",
