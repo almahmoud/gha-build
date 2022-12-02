@@ -904,7 +904,6 @@
         "epivizr",
         "epivizrStandalone"
     ],
-    "MethCP": [],
     "MethReg": [
         "ggpubr",
         "sesame",
