@@ -514,7 +514,6 @@
         "ggtree",
         "treeio"
     ],
-    "chromPlot": [],
     "chromVAR": [],
     "cicero": [
         "Gviz",
