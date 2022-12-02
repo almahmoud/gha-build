@@ -307,9 +307,7 @@
     "EasyCellType": [
         "clusterProfiler"
     ],
-    "edge": [
-        "snm"
-    ],
+    "edge": [],
     "eegc": [
         "clusterProfiler"
     ],
@@ -1094,7 +1092,6 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
     "SMITE": [],
-    "snm": [],
     "SNPhood": [],
     "sojourner": [
         "sampSurf"
