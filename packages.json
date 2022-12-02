@@ -16031,7 +16031,6 @@
     "PECA": [
         "genefilter",
         "aroma.affymetrix",
-        "aroma.core",
         "AnnotationDbi",
         "annotate",
         "RSQLite",
@@ -22742,7 +22741,6 @@
     "TIN": [
         "aroma.affymetrix",
         "WGCNA",
-        "aroma.core",
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
@@ -26788,10 +26786,7 @@
         "ggplot2",
         "tibble"
     ],
-    "aroma.affymetrix": [
-        "aroma.core"
-    ],
-    "aroma.core": [],
+    "aroma.affymetrix": [],
     "osfr": [
         "tibble"
     ],
