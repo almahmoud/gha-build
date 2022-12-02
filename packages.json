@@ -35852,7 +35852,6 @@
         "cleanUpdTSeq",
         "depmixS4",
         "dplyr",
-        "flock",
         "future",
         "future.apply",
         "GenomeInfoDb",
@@ -39693,7 +39692,6 @@
         "methylumi",
         "survival",
         "scales",
-        "flock",
         "MatrixGenerics",
         "spam",
         "viridis",
@@ -92073,7 +92071,6 @@
         "Rsolnp",
         "nlme"
     ],
-    "flock": [],
     "Rsolnp": [],
     "golem": [
         "attempt",
@@ -92496,7 +92493,6 @@
         "tibble",
         "RcppArmadillo",
         "doParallel",
-        "flock",
         "scales",
         "lifecycle",
         "mgcv",
@@ -92517,8 +92513,7 @@
     ],
     "bigparallelr": [
         "foreach",
-        "doParallel",
-        "flock"
+        "doParallel"
     ],
     "rmio": [],
     "depmap": [
