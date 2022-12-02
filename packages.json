@@ -615,9 +615,7 @@
         "car",
         "pbkrtest"
     ],
-    "GENESIS": [
-        "SeqVarTools"
-    ],
+    "GENESIS": [],
     "GeneStructureTools": [
         "Gviz",
         "biovizBase"
@@ -1494,7 +1492,6 @@
         "HiLDA"
     ],
     "seqCAT": [],
-    "SeqVarTools": [],
     "sesame": [],
     "shinyepico": [
         "minfi"
@@ -1709,9 +1706,7 @@
         "pbkrtest",
         "lmerTest"
     ],
-    "VariantExperiment": [
-        "SeqVarTools"
-    ],
+    "VariantExperiment": [],
     "VariantFiltering": [
         "Gviz",
         "biovizBase"
