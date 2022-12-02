@@ -5093,7 +5093,6 @@
         "bit64",
         "blob",
         "memoise",
-        "datawizard",
         "futile.logger",
         "ellipsis",
         "cachem",
@@ -44464,7 +44463,6 @@
         "nloptr",
         "askpass",
         "bayestestR",
-        "datawizard",
         "vroom",
         "tzdb",
         "clock",
@@ -44619,7 +44617,6 @@
         "nloptr",
         "timechange",
         "bayestestR",
-        "datawizard",
         "vroom",
         "tzdb",
         "clock",
@@ -72305,7 +72302,6 @@
         "nloptr",
         "timechange",
         "bayestestR",
-        "datawizard",
         "vroom",
         "tzdb",
         "clock",
@@ -84263,14 +84259,10 @@
         "lifecycle",
         "tibble",
         "vctrs",
-        "pillar",
-        "datawizard"
+        "pillar"
     ],
     "rslurm": [],
-    "sjlabelled": [
-        "datawizard"
-    ],
-    "datawizard": [],
+    "sjlabelled": [],
     "LIM": [
         "limSolve",
         "diagram"
@@ -90647,7 +90639,6 @@
         "nloptr",
         "RcppEigen",
         "bayestestR",
-        "datawizard",
         "clock",
         "ellipsis",
         "hardhat",
@@ -90703,8 +90694,7 @@
         "Matrix"
     ],
     "parameters": [
-        "bayestestR",
-        "datawizard"
+        "bayestestR"
     ],
     "rearrr": [
         "dplyr",
@@ -90716,9 +90706,7 @@
         "vctrs",
         "pillar"
     ],
-    "bayestestR": [
-        "datawizard"
-    ],
+    "bayestestR": [],
     "echarts4r": [
         "htmlwidgets",
         "dplyr",
