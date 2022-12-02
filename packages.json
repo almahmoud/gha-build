@@ -133675,7 +133675,6 @@
         "zlibbioc"
     ],
     "STAN": [
-        "poilog",
         "GenomicRanges",
         "IRanges",
         "S4Vectors",
@@ -173703,7 +173702,6 @@
         "pkgconfig",
         "withr"
     ],
-    "poilog": [],
     "mclustcomp": [
         "Rcpp",
         "Rdpack",
