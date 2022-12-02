@@ -16807,7 +16807,6 @@
         "GO.db",
         "GOstats",
         "GSEABase",
-        "ismev",
         "org.Hs.eg.db",
         "vegan",
         "RSQLite",
@@ -34355,7 +34354,6 @@
         "tidyselect",
         "pillar"
     ],
-    "ismev": [],
     "lumiHumanAll.db": [
         "AnnotationDbi",
         "org.Hs.eg.db",
