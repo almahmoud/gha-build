@@ -11692,7 +11692,6 @@
         "AnnotationForge",
         "ggplot2",
         "viridis",
-        "mboost",
         "biomaRt",
         "rvest",
         "readr",
@@ -23285,10 +23284,7 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "InvariantCausalPrediction": [
-        "mboost"
-    ],
-    "mboost": [],
+    "InvariantCausalPrediction": [],
     "miRBaseVersions.db": [
         "AnnotationDbi",
         "KEGGREST"
