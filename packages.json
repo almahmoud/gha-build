@@ -33777,7 +33777,6 @@
         "reshape2",
         "ggrepel",
         "mgcv",
-        "attempt",
         "here",
         "pkgload",
         "roxygen2",
@@ -41510,7 +41509,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "attempt",
         "here",
         "pkgload",
         "roxygen2",
@@ -45686,7 +45684,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "attempt",
         "here",
         "pkgload",
         "roxygen2",
@@ -56888,7 +56885,6 @@
         "ReactomeContentService4R",
         "doParallel",
         "foreach",
-        "attempt",
         "httr",
         "igraph",
         "shiny",
@@ -74582,7 +74578,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "attempt",
         "here",
         "pkgload",
         "roxygen2",
@@ -76936,7 +76931,6 @@
         "promises",
         "mgcv",
         "scales",
-        "attempt",
         "here",
         "pkgload",
         "roxygen2",
@@ -85485,7 +85479,6 @@
     ],
     "Rsolnp": [],
     "golem": [
-        "attempt",
         "config",
         "here",
         "htmltools",
@@ -85534,7 +85527,6 @@
         "htmlwidgets",
         "htmltools"
     ],
-    "attempt": [],
     "rsm": [],
     "Polychrome": [],
     "AdaptGauss": [
@@ -88029,7 +88021,6 @@
         "lifecycle"
     ],
     "neo4r": [
-        "attempt",
         "httr",
         "igraph",
         "purrr",
