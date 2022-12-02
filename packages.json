@@ -25481,7 +25481,6 @@
         "tibble",
         "tidyselect"
     ],
-    "sigsquared": [],
     "SIM": [
         "quantreg",
         "globaltest",
