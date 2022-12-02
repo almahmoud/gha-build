@@ -478,7 +478,6 @@
         "methylumi"
     ],
     "IMAS": [],
-    "imcRtools": [],
     "InTAD": [
         "ggpubr",
         "rstatix",
