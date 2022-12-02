@@ -6,9 +6,7 @@
         "mGSZ"
     ],
     "ATACCoGAPS": [],
-    "bigmelon": [
-        "wateRmelon"
-    ],
+    "bigmelon": [],
     "bioCancer": [],
     "BiocOncoTK": [],
     "BitSeq": [],
@@ -25,8 +23,7 @@
         "GenomicTools"
     ],
     "ChAMP": [
-        "DMRcate",
-        "wateRmelon"
+        "DMRcate"
     ],
     "ChIC": [
         "spp"
@@ -107,9 +104,7 @@
     "Macarron": [],
     "MAGAR": [],
     "MEAL": [],
-    "MEAT": [
-        "wateRmelon"
-    ],
+    "MEAT": [],
     "MetaboSignal": [],
     "MetaCyto": [
         "FlowSOM"
@@ -193,9 +188,7 @@
     "signifinder": [
         "survminer"
     ],
-    "skewr": [
-        "wateRmelon"
-    ],
+    "skewr": [],
     "sojourner": [
         "sampSurf"
     ],
@@ -225,7 +218,6 @@
         "diffcyt",
         "FlowSOM"
     ],
-    "wateRmelon": [],
     "YAPSA": [],
     "mGSZ": [],
     "GenomicTools": [],
