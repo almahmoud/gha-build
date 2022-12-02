@@ -958,7 +958,6 @@
         "SpatialExperiment"
     ],
     "CytoML": [],
-    "dada2": [],
     "dagLogo": [
         "motifStack",
         "TFBSTools"
@@ -3466,9 +3465,7 @@
         "phastCons100way.UCSC.hg19",
         "GenomicScores"
     ],
-    "Rbec": [
-        "dada2"
-    ],
+    "Rbec": [],
     "RCAS": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicFeatures",
