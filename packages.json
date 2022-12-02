@@ -14549,7 +14549,6 @@
         "dbplyr",
         "dplyr"
     ],
-    "PWMEnrich": [],
     "pwOmics": [
         "STRINGdb",
         "AnnotationDbi",
