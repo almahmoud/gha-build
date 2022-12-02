@@ -7420,7 +7420,6 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "seqArchR": [],
     "seqCAT": [
         "VariantAnnotation",
         "BSgenome",
