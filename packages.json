@@ -900,7 +900,6 @@
         "RSQLite",
         "XVector",
         "biomaRt",
-        "R.cache",
         "BSgenome",
         "KEGGREST",
         "progress",
@@ -2504,7 +2503,6 @@
     "biocthis": [
         "styler",
         "usethis",
-        "R.cache",
         "gert",
         "gh"
     ],
@@ -10583,7 +10581,6 @@
         "treeio",
         "plotly",
         "readr",
-        "R.cache",
         "RSQLite",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -14483,8 +14480,7 @@
         "tidyselect",
         "pillar",
         "gert",
-        "gh",
-        "R.cache"
+        "gh"
     ],
     "HumanTranscriptomeCompendium": [
         "shiny",
@@ -16785,7 +16781,6 @@
         "haven",
         "lava",
         "bslib",
-        "R.cache",
         "forcats",
         "hms",
         "readr",
@@ -20134,7 +20129,6 @@
     ],
     "MSnID": [
         "MSnbase",
-        "R.cache",
         "dplyr",
         "BiocStyle",
         "msmsTests",
@@ -21988,7 +21982,6 @@
         "labelled",
         "haven",
         "bslib",
-        "R.cache",
         "forcats",
         "hms",
         "readr",
@@ -22592,7 +22585,6 @@
         "treeio",
         "plotly",
         "readr",
-        "R.cache",
         "ggplotify",
         "hms",
         "vroom",
@@ -23146,7 +23138,6 @@
         "genefilter",
         "aroma.affymetrix",
         "aroma.core",
-        "R.cache",
         "R.filesets",
         "aroma.apd",
         "R.rsp",
@@ -24612,7 +24603,6 @@
         "svglite",
         "hms",
         "vroom",
-        "R.cache",
         "RSQLite",
         "KEGGREST",
         "pbkrtest",
@@ -30673,7 +30663,6 @@
         "dplyr",
         "GGally",
         "ggplot2",
-        "R.cache",
         "future.apply",
         "tibble",
         "tidyselect",
@@ -32148,7 +32137,6 @@
         "bslib",
         "fresh",
         "waiter",
-        "R.cache",
         "hms",
         "progress"
     ],
@@ -32916,7 +32904,6 @@
         "aroma.affymetrix",
         "WGCNA",
         "aroma.core",
-        "R.cache",
         "R.filesets",
         "aroma.apd",
         "Hmisc",
@@ -35456,10 +35443,7 @@
         "bslib"
     ],
     "gargle": [],
-    "repmis": [
-        "R.cache"
-    ],
-    "R.cache": [],
+    "repmis": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi",
         "RSQLite",
@@ -36347,9 +36331,7 @@
         "tibble",
         "pillar"
     ],
-    "styler": [
-        "R.cache"
-    ],
+    "styler": [],
     "usethis": [
         "gert",
         "gh"
@@ -38295,7 +38277,6 @@
         "dplyr",
         "tidyr",
         "bslib",
-        "R.cache",
         "tibble",
         "tidyselect",
         "pillar",
@@ -38316,7 +38297,6 @@
         "dplyr",
         "tidyr",
         "bslib",
-        "R.cache",
         "tibble",
         "tidyselect",
         "pillar",
@@ -38336,7 +38316,6 @@
         "dplyr",
         "tidyr",
         "bslib",
-        "R.cache",
         "tibble",
         "tidyselect",
         "pillar",
@@ -38868,7 +38847,6 @@
         "labelled",
         "haven",
         "bslib",
-        "R.cache",
         "forcats",
         "hms",
         "readr",
@@ -38961,7 +38939,6 @@
     ],
     "aroma.affymetrix": [
         "aroma.core",
-        "R.cache",
         "R.filesets",
         "aroma.apd",
         "R.huge",
@@ -38970,22 +38947,15 @@
     ],
     "aroma.core": [
         "R.filesets",
-        "R.cache",
         "R.rsp",
         "PSCBS"
     ],
-    "R.filesets": [
-        "R.cache"
-    ],
+    "R.filesets": [],
     "aroma.apd": [
         "R.huge"
     ],
-    "R.rsp": [
-        "R.cache"
-    ],
-    "PSCBS": [
-        "R.cache"
-    ],
+    "R.rsp": [],
+    "PSCBS": [],
     "R.huge": [],
     "opencpu": [],
     "PMCMRplus": [],
