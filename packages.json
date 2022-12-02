@@ -4972,8 +4972,7 @@
         "plotly"
     ],
     "metabolomicsWorkbenchR": [
-        "MultiAssayExperiment",
-        "struct"
+        "MultiAssayExperiment"
     ],
     "MetaboSignal": [
         "EnsDb.Hsapiens.v75",
@@ -8938,10 +8937,7 @@
         "BiocFileCache"
     ],
     "STRINGdb": [],
-    "struct": [],
-    "structToolbox": [
-        "struct"
-    ],
+    "structToolbox": [],
     "StructuralVariantAnnotation": [
         "rtracklayer",
         "VariantAnnotation",
