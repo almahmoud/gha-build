@@ -6866,7 +6866,6 @@
         "sortable",
         "tidyr",
         "readr",
-        "shinyvalidate",
         "biomaRt",
         "BiocFileCache",
         "vroom",
@@ -16064,7 +16063,6 @@
         "org.Hs.eg.db"
     ],
     "sortable": [],
-    "shinyvalidate": [],
     "reldist": [
         "densEstBayes",
         "rstan"
