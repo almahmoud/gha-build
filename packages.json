@@ -6506,7 +6506,6 @@
         "tidyr",
         "ggrepel"
     ],
-    "DepInfeR": [],
     "DEqMS": [
         "ggplot2",
         "tibble"
