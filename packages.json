@@ -18579,7 +18579,6 @@
         "RCurl",
         "GenomeInfoDbData"
     ],
-    "COSNet": [],
     "COTAN": [
         "dplyr",
         "Matrix",
