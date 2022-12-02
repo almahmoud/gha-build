@@ -13681,7 +13681,6 @@
         "pillar"
     ],
     "cnvGSA": [
-        "brglm",
         "doParallel",
         "foreach",
         "GenomicRanges",
@@ -27962,7 +27961,6 @@
         "S4Vectors",
         "vegan",
         "mgcv",
-        "brglm",
         "princurve",
         "DataVisualizations",
         "flexmix",
@@ -89540,7 +89538,6 @@
         "pillar"
     ],
     "princurve": [],
-    "brglm": [],
     "splitstackshape": [],
     "kohonen": [],
     "biwt": [
@@ -91368,7 +91365,6 @@
     "analogue": [
         "vegan",
         "mgcv",
-        "brglm",
         "princurve",
         "nlme",
         "Matrix"
