@@ -160,8 +160,7 @@
         "MultiAssayExperiment",
         "GUniFrac",
         "recipes",
-        "geneplotter",
-        "ipred"
+        "geneplotter"
     ],
     "annaffy": [],
     "annmap": [
@@ -441,8 +440,7 @@
         "biomaRt",
         "BiocFileCache",
         "recipes",
-        "genefilter",
-        "ipred"
+        "genefilter"
     ],
     "banocc": [],
     "barcodetrackR": [],
@@ -868,8 +866,7 @@
         "rtracklayer",
         "BiocFileCache",
         "BSgenome",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "breakpointR": [],
     "brendaDb": [
@@ -1257,8 +1254,7 @@
         "spp",
         "ChIC.data",
         "caret",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "Chicago": [
         "Hmisc"
@@ -1710,8 +1706,7 @@
         "recipes",
         "scuttle",
         "ggrastr",
-        "spatstat.linnet",
-        "ipred"
+        "spatstat.linnet"
     ],
     "CONFESS": [
         "contrast",
@@ -1739,8 +1734,7 @@
         "survcomp",
         "biomaRt",
         "GSEABase",
-        "BiocFileCache",
-        "ipred"
+        "BiocFileCache"
     ],
     "consensusSeekeR": [
         "rtracklayer"
@@ -2013,7 +2007,6 @@
         "car",
         "rstatix",
         "testthat",
-        "ipred",
         "pbkrtest",
         "broom"
     ],
@@ -2029,7 +2022,6 @@
         "car",
         "rstatix",
         "nloptr",
-        "ipred",
         "pbkrtest",
         "testthat",
         "broom"
@@ -2088,7 +2080,6 @@
         "pbkrtest",
         "rtracklayer",
         "nloptr",
-        "ipred",
         "testthat",
         "broom"
     ],
@@ -3248,7 +3239,6 @@
         "RecordLinkage",
         "textclean",
         "tidygraph",
-        "ipred",
         "lexicon",
         "syuzhet"
     ],
@@ -3355,7 +3345,6 @@
         "pbkrtest",
         "rtracklayer",
         "nloptr",
-        "ipred",
         "broom"
     ],
     "GBScleanR": [],
@@ -3430,8 +3419,7 @@
     "genefu": [
         "survcomp",
         "biomaRt",
-        "BiocFileCache",
-        "ipred"
+        "BiocFileCache"
     ],
     "GeneGeneInteR": [
         "FactoMineR",
@@ -3908,8 +3896,7 @@
     ],
     "GWAS.BAYES": [
         "caret",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "gwascat": [
         "GenomicFeatures",
@@ -4046,8 +4033,7 @@
     "HPiP": [
         "readr",
         "caret",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "HTSeqGenie": [
         "gmapR",
@@ -4473,8 +4459,7 @@
         "sva",
         "Hmisc",
         "recipes",
-        "genefilter",
-        "ipred"
+        "genefilter"
     ],
     "LACE": [
         "readr",
@@ -4603,8 +4588,7 @@
         "caret",
         "AnnotationHub",
         "BiocFileCache",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "Maaslin2": [
         "car",
@@ -4691,8 +4675,7 @@
         "broom",
         "haven",
         "modelr",
-        "readr",
-        "ipred"
+        "readr"
     ],
     "MAIT": [
         "CAMERA",
@@ -4706,7 +4689,6 @@
         "fields",
         "MSnbase",
         "questionr",
-        "ipred",
         "labelled",
         "haven",
         "readr"
@@ -4717,8 +4699,7 @@
     "maPredictDSC": [
         "caret",
         "hgu133plus2.db",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "maser": [
         "rtracklayer",
@@ -4894,8 +4875,7 @@
     ],
     "metabCombiner": [
         "caret",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "MetaboAnnotation": [
         "QFeatures",
@@ -4959,7 +4939,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "ipred",
         "fgsea",
         "aplot",
         "ggraph",
@@ -4990,7 +4969,6 @@
         "ShortRead",
         "plotly",
         "dendextend",
-        "ipred",
         "BSgenome"
     ],
     "metavizr": [
@@ -5254,7 +5232,6 @@
         "scuttle",
         "scater",
         "testthat",
-        "ipred",
         "ggrastr"
     ],
     "MicrobiomeProfiler": [
@@ -5406,7 +5383,6 @@
         "tidytree",
         "treeio",
         "nloptr",
-        "ipred",
         "car",
         "pbkrtest",
         "testthat"
@@ -5443,7 +5419,6 @@
         "tidytree",
         "treeio",
         "nloptr",
-        "ipred",
         "car",
         "pbkrtest",
         "testthat"
@@ -5472,8 +5447,7 @@
     "mistyR": [
         "caret",
         "readr",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "mitch": [
         "GGally",
@@ -5498,8 +5472,7 @@
         "testthat",
         "DESeq2",
         "recipes",
-        "geneplotter",
-        "ipred"
+        "geneplotter"
     ],
     "MMDiff2": [
         "BSgenome",
@@ -5742,7 +5715,6 @@
         "recipes",
         "lme4",
         "nloptr",
-        "ipred",
         "testthat"
     ],
     "MSstatsShiny": [
@@ -5832,7 +5804,6 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "ipred",
         "plotly"
     ],
     "mumosa": [
@@ -6501,7 +6472,6 @@
         "recipes",
         "biomaRt",
         "fgsea",
-        "ipred",
         "ggpubr",
         "broom",
         "fields",
@@ -6629,8 +6599,7 @@
         "caret",
         "ggnetwork",
         "readr",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "piano": [
         "fgsea"
@@ -6732,8 +6701,7 @@
         "DESeq2",
         "mixOmics",
         "recipes",
-        "geneplotter",
-        "ipred"
+        "geneplotter"
     ],
     "PoTRA": [],
     "POWSC": [
@@ -6767,7 +6735,6 @@
         "GenomicFeatures",
         "rtracklayer",
         "biomaRt",
-        "ipred",
         "BiocFileCache"
     ],
     "PREDA": [],
@@ -6870,8 +6837,7 @@
         "biomaRt",
         "BiocFileCache",
         "recipes",
-        "genefilter",
-        "ipred"
+        "genefilter"
     ],
     "pRolocGUI": [
         "pRoloc",
@@ -6884,8 +6850,7 @@
         "biomaRt",
         "BiocFileCache",
         "recipes",
-        "genefilter",
-        "ipred"
+        "genefilter"
     ],
     "PROMISE": [
         "GSEABase"
@@ -7336,7 +7301,6 @@
         "genefilter",
         "GEOquery",
         "GenomicFeatures",
-        "ipred",
         "biomaRt"
     ],
     "Repitools": [
@@ -7548,8 +7512,7 @@
         "ExperimentHub",
         "broom",
         "readr",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "RMassBank": [
         "MSnbase"
@@ -7902,8 +7865,7 @@
         "AnnotationHub",
         "BiocFileCache",
         "recipes",
-        "plotly",
-        "ipred"
+        "plotly"
     ],
     "SCANVIS": [
         "rtracklayer"
@@ -7981,8 +7943,7 @@
         "caret",
         "DESeq2",
         "recipes",
-        "geneplotter",
-        "ipred"
+        "geneplotter"
     ],
     "schex": [
         "Seurat",
@@ -8338,7 +8299,6 @@
         "rstatix",
         "BiocFileCache",
         "car",
-        "ipred",
         "pbkrtest",
         "lme4",
         "nloptr",
@@ -8707,7 +8667,6 @@
         "modelr",
         "readr",
         "nloptr",
-        "ipred",
         "car",
         "pbkrtest",
         "testthat"
@@ -8835,8 +8794,7 @@
     ],
     "SubCellBarCode": [
         "caret",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "subSeq": [],
     "SummarizedBenchmark": [],
@@ -8847,8 +8805,7 @@
     "supersigs": [
         "caret",
         "rsample",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "supraHex": [
         "readr"
@@ -8859,9 +8816,7 @@
         "testthat",
         "BiocFileCache"
     ],
-    "survcomp": [
-        "ipred"
-    ],
+    "survcomp": [],
     "survtype": [
         "survminer",
         "ggpubr",
@@ -9041,7 +8996,6 @@
         "ensembldb",
         "BSgenome",
         "biovizBase",
-        "ipred",
         "ExperimentHub",
         "AnnotationHub",
         "Hmisc",
@@ -9189,7 +9143,6 @@
         "BSgenome",
         "GenomicFeatures",
         "biomaRt",
-        "ipred",
         "readr",
         "BiocFileCache"
     ],
@@ -9260,8 +9213,7 @@
         "recipes",
         "ShortRead",
         "biomaRt",
-        "BiocFileCache",
-        "ipred"
+        "BiocFileCache"
     ],
     "transformGamPoi": [
         "glmGamPoi"
@@ -9781,14 +9733,10 @@
     ],
     "tidytree": [],
     "caret": [
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "GUniFrac": [],
-    "recipes": [
-        "ipred"
-    ],
-    "ipred": [],
+    "recipes": [],
     "org.Sc.sgd.db": [],
     "Seurat": [
         "plotly"
@@ -10086,8 +10034,7 @@
     "spp": [],
     "ChIC.data": [
         "caret",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "BSgenome.Mmusculus.UCSC.mm9": [
         "BSgenome",
@@ -10159,8 +10106,7 @@
         "spatstat",
         "caret",
         "recipes",
-        "spatstat.linnet",
-        "ipred"
+        "spatstat.linnet"
     ],
     "spatstat": [
         "spatstat.linnet"
@@ -10301,9 +10247,7 @@
     ],
     "rainbow": [],
     "SPARQL": [],
-    "RecordLinkage": [
-        "ipred"
-    ],
+    "RecordLinkage": [],
     "NHPoisson": [
         "car",
         "pbkrtest",
@@ -10371,8 +10315,7 @@
     "densEstBayes": [],
     "adabag": [
         "caret",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "glmmTMB": [
         "lme4",
@@ -10476,7 +10419,6 @@
         "lme4",
         "recipes",
         "nloptr",
-        "ipred",
         "testthat"
     ],
     "groupdata2": [],
@@ -10616,8 +10558,7 @@
     ],
     "caretEnsemble": [
         "caret",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "RLHub": [
         "AnnotationHub",
@@ -10721,8 +10662,7 @@
     "GenKern": [],
     "gghighlight": [],
     "bestNormalize": [
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "naniar": [
         "visdat",
