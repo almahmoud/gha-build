@@ -1281,7 +1281,6 @@
         "rCGH"
     ],
     "primirTSS": [
-        "phastCons100way.UCSC.hg38",
         "Gviz",
         "JASPAR2018",
         "biovizBase"
@@ -1909,7 +1908,6 @@
         "unmarked"
     ],
     "unmarked": [],
-    "phastCons100way.UCSC.hg38": [],
     "EnsDb.Rnorvegicus.v79": [],
     "phastCons100way.UCSC.hg19": [],
     "Rmagic": [],
