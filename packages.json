@@ -12146,7 +12146,6 @@
         "dplyr",
         "BSgenome",
         "VariantAnnotation",
-        "googleAuthR",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -22353,7 +22352,6 @@
         "waldo",
         "rematch2"
     ],
-    "googleAuthR": [],
     "blme": [
         "lme4",
         "nloptr",
