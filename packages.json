@@ -36186,7 +36186,6 @@
         "tidyselect",
         "pillar"
     ],
-    "qusage": [],
     "qvalue": [
         "ggplot2",
         "mgcv",
