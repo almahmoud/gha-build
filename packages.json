@@ -45529,7 +45529,6 @@
         "GeneNet",
         "GENIE3",
         "psych",
-        "stabs",
         "tibble",
         "tidyr",
         "futile.logger",
@@ -47179,7 +47178,6 @@
         "htmlwidgets",
         "highr",
         "interp",
-        "stabs",
         "partykit",
         "askpass",
         "R.oo",
@@ -48635,7 +48633,6 @@
         "TFBSTools",
         "Biostrings",
         "IRanges",
-        "stabs",
         "BSgenome",
         "glmnet",
         "S4Vectors",
@@ -96573,7 +96570,6 @@
     "GeneNet": [
         "longitudinal"
     ],
-    "stabs": [],
     "longitudinal": [],
     "ggmcmc": [
         "dplyr",
@@ -96733,13 +96729,11 @@
         "foreach",
         "survival",
         "RcppEigen",
-        "stabs",
         "partykit",
         "libcoin",
         "inum"
     ],
     "mboost": [
-        "stabs",
         "Matrix",
         "survival",
         "partykit",
