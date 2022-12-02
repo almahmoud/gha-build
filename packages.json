@@ -455,7 +455,6 @@
     ],
     "censcyt": [
         "diffcyt",
-        "broom.mixed",
         "lme4",
         "FlowSOM",
         "ggpubr",
@@ -4187,7 +4186,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "broom.mixed": [],
     "GenomicTools": [],
     "IlluminaHumanMethylationEPICmanifest": [
         "minfi",
