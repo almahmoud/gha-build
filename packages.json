@@ -34671,7 +34671,6 @@
         "SnowballC",
         "tibble",
         "httr",
-        "aws.signature",
         "styler",
         "lifecycle",
         "tidyselect",
@@ -64208,7 +64207,6 @@
         "S4Vectors",
         "interactiveDisplayBase",
         "httr",
-        "aws.signature",
         "processx",
         "plyr",
         "gridExtra",
@@ -92537,11 +92535,9 @@
     ],
     "aws.s3": [
         "httr",
-        "aws.signature",
         "openssl",
         "askpass"
     ],
-    "aws.signature": [],
     "reactable": [
         "htmltools",
         "htmlwidgets",
