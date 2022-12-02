@@ -22187,7 +22187,6 @@
         "foreach",
         "GenomicRanges",
         "splitstackshape",
-        "profileModel",
         "iterators",
         "BiocGenerics",
         "S4Vectors",
@@ -45817,7 +45816,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "profileModel",
         "sp",
         "pracma",
         "reshape2",
@@ -148175,11 +148173,8 @@
     ],
     "genalg": [],
     "bezier": [],
-    "brglm": [
-        "profileModel"
-    ],
+    "brglm": [],
     "splitstackshape": [],
-    "profileModel": [],
     "simpleCache": [],
     "hash": [],
     "kohonen": [
@@ -151604,7 +151599,6 @@
         "brglm",
         "princurve",
         "lattice",
-        "profileModel",
         "nlme",
         "Matrix",
         "Rcpp",
