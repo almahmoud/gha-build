@@ -37195,7 +37195,6 @@
     ],
     "isobar": [
         "Biobase",
-        "distr",
         "plyr",
         "biomaRt",
         "ggplot2",
@@ -53209,7 +53208,6 @@
         "ape",
         "S4Vectors",
         "foreach",
-        "distr",
         "distrEx",
         "fitdistrplus",
         "openxlsx",
@@ -53272,7 +53270,6 @@
         "ape",
         "S4Vectors",
         "foreach",
-        "distr",
         "distrEx",
         "fitdistrplus",
         "openxlsx",
@@ -68189,7 +68186,6 @@
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
-        "distr",
         "igraph",
         "M3Drop",
         "ruv",
@@ -71874,7 +71870,6 @@
         "bluster",
         "xgboost",
         "pROC",
-        "distr",
         "M3Drop",
         "ruv",
         "metapod",
@@ -92178,7 +92173,6 @@
     "phosphoricons": [
         "htmltools"
     ],
-    "distr": [],
     "pd.mapping50k.xba240": [
         "Biostrings",
         "RSQLite",
@@ -94077,9 +94071,7 @@
         "Rgraphviz",
         "graph"
     ],
-    "distrEx": [
-        "distr"
-    ],
+    "distrEx": [],
     "AICcmodavg": [
         "Matrix",
         "nlme",
