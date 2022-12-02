@@ -2331,8 +2331,7 @@
         "biomaRt"
     ],
     "FEAST": [
-        "TSCAN",
-        "SC3"
+        "TSCAN"
     ],
     "ffpe": [
         "lumi",
@@ -5929,7 +5928,6 @@
         "plotly"
     ],
     "SBGNview": [],
-    "SC3": [],
     "scAlign": [
         "Seurat",
         "plotly"
