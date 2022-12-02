@@ -2393,7 +2393,6 @@
         "GSVA",
         "broom"
     ],
-    "esetVis": [],
     "evaluomeR": [
         "MultiAssayExperiment"
     ],
