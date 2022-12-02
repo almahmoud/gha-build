@@ -23476,7 +23476,6 @@
     "survtype": [
         "SummarizedExperiment",
         "survminer",
-        "clustvarsel",
         "GenomicRanges",
         "ggplot2",
         "ggpubr",
@@ -29074,7 +29073,6 @@
         "tibble",
         "tidyr"
     ],
-    "clustvarsel": [],
     "gstat": [
         "sf",
         "sftime",
