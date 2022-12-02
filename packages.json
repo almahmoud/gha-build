@@ -34121,7 +34121,6 @@
         "keras",
         "tensorflow",
         "CatEncoders",
-        "matlab",
         "rcdk",
         "stringdist",
         "tokenizers",
@@ -53600,7 +53599,6 @@
         "reticulate",
         "Matrix",
         "data.table",
-        "matlab",
         "rcdk",
         "stringdist",
         "tokenizers",
@@ -63887,7 +63885,6 @@
     "infinityFlow": [
         "flowCore",
         "pbapply",
-        "matlab",
         "png",
         "raster",
         "uwot",
@@ -115775,7 +115772,6 @@
         "biomaRt",
         "edgeR",
         "heatmap3",
-        "matlab",
         "KEGGREST",
         "Rcpp",
         "recount",
@@ -126379,7 +126375,6 @@
     "SigFuge": [
         "GenomicRanges",
         "ggplot2",
-        "matlab",
         "reshape",
         "sigclust",
         "BiocGenerics",
@@ -144542,7 +144537,6 @@
         "DiagrammeR",
         "Matrix",
         "data.table",
-        "matlab",
         "rcdk",
         "stringdist",
         "tokenizers",
@@ -162880,7 +162874,6 @@
         "data.table",
         "lattice"
     ],
-    "matlab": [],
     "rcdk": [
         "rcdklibs",
         "fingerprint",
