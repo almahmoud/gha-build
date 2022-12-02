@@ -1751,11 +1751,8 @@
         "datamods",
         "rio"
     ],
-    "iSEEhex": [],
     "iSEEhub": [],
-    "iSEEu": [
-        "iSEEhex"
-    ],
+    "iSEEu": [],
     "isobar": [],
     "IsoformSwitchAnalyzeR": [
         "tximeta",
