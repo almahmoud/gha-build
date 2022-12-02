@@ -105,7 +105,6 @@
         "DESeq2"
     ],
     "AnVILBilling": [],
-    "AnVILPublish": [],
     "APAlyzer": [
         "GenomicFeatures",
         "DESeq2",
