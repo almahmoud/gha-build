@@ -697,7 +697,6 @@
         "GenomicAlignments",
         "BiocFileCache"
     ],
-    "BDMMAcorrect": [],
     "beadarray": [],
     "BEARscc": [
         "SingleCellExperiment"
