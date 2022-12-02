@@ -19213,7 +19213,6 @@
     "epimutacions": [
         "minfi",
         "bumphunter",
-        "isotree",
         "ggplot2",
         "GenomicRanges",
         "GenomicFeatures",
@@ -72262,7 +72261,6 @@
     "R.matlab": [
         "R.utils"
     ],
-    "isotree": [],
     "batchtools": [
         "base64url",
         "progress",
