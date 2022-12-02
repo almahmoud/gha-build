@@ -2111,9 +2111,7 @@
     "scAlign": [],
     "scanMiRApp": [],
     "scAnnotatR": [],
-    "SCATE": [
-        "SCATEData"
-    ],
+    "SCATE": [],
     "scBFA": [],
     "scBubbletree": [
         "ggtree"
@@ -2746,7 +2744,6 @@
     "pwrEWAS.data": [],
     "phastCons100way.UCSC.hg19": [],
     "RLHub": [],
-    "SCATEData": [],
     "Rmagic": [],
     "survivalAnalysis": [
         "survminer",
