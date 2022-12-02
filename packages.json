@@ -43608,7 +43608,6 @@
         "munsell",
         "viridisLite"
     ],
-    "hpar": [],
     "HPAStainR": [
         "dplyr",
         "tidyr",
@@ -53349,7 +53348,6 @@
     ],
     "MetaboSignal": [
         "KEGGgraph",
-        "hpar",
         "igraph",
         "RCurl",
         "KEGGREST",
