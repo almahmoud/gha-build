@@ -13422,7 +13422,6 @@
         "pillar"
     ],
     "CTSV": [
-        "pscl",
         "qvalue",
         "BiocParallel",
         "knitr",
@@ -15669,7 +15668,6 @@
         "bbmle",
         "gamlss",
         "maxLik",
-        "pscl",
         "BiocParallel",
         "futile.logger",
         "survival",
@@ -26149,7 +26147,6 @@
         "InteractionSet",
         "GenomicInteractions",
         "bbmle",
-        "pscl",
         "BSgenome",
         "dplyr",
         "tidyr",
@@ -28500,7 +28497,6 @@
         "bbmle",
         "gamlss",
         "maxLik",
-        "pscl",
         "BiocParallel",
         "lifecycle",
         "mgcv",
@@ -30498,7 +30494,6 @@
         "optparse",
         "glmmTMB",
         "cplm",
-        "pscl",
         "lme4",
         "mgcv",
         "pbkrtest",
@@ -30553,7 +30548,6 @@
         "optparse",
         "glmmTMB",
         "cplm",
-        "pscl",
         "lme4",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -33186,7 +33180,6 @@
         "AnnotationHub",
         "ExperimentHub",
         "readr",
-        "pscl",
         "IRanges",
         "progress",
         "BiocFileCache",
@@ -35669,7 +35662,6 @@
     "mirTarRnaSeq": [
         "ggplot2",
         "purrr",
-        "pscl",
         "dplyr",
         "pheatmap",
         "reshape2",
@@ -36102,7 +36094,6 @@
         "optparse",
         "glmmTMB",
         "cplm",
-        "pscl",
         "lme4",
         "ellipsis",
         "purrr",
@@ -53391,7 +53382,6 @@
         "doParallel",
         "penalized",
         "rsvd",
-        "pscl",
         "bbmle",
         "gamlss",
         "preseqR",
@@ -53550,7 +53540,6 @@
         "XVector"
     ],
     "scShapes": [
-        "pscl",
         "BiocParallel",
         "emdbook",
         "futile.logger",
@@ -69837,7 +69826,6 @@
     "ccaPP": [
         "pcaPP"
     ],
-    "pscl": [],
     "cytometree": [
         "ggplot2",
         "igraph",
