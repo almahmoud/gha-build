@@ -834,7 +834,6 @@
         "annotate",
         "AnnotationDbi",
         "XVector",
-        "statip",
         "clock",
         "hardhat",
         "ipred",
@@ -7490,7 +7489,6 @@
         "phylolm",
         "mgcv",
         "tibble",
-        "statip",
         "future.apply",
         "pillar"
     ],
@@ -22995,7 +22993,6 @@
         "pillar",
         "mgcv",
         "quantreg",
-        "statip",
         "waldo",
         "survival",
         "rematch2"
@@ -43189,7 +43186,6 @@
         "modeest",
         "mgcv",
         "tibble",
-        "statip",
         "pillar"
     ],
     "pROC": [],
@@ -43207,10 +43203,7 @@
         "lava",
         "future.apply"
     ],
-    "modeest": [
-        "statip"
-    ],
-    "statip": [],
+    "modeest": [],
     "clock": [],
     "hardhat": [
         "tibble",
