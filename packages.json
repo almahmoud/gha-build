@@ -2556,8 +2556,7 @@
         "XVector"
     ],
     "BiGGR": [
-        "hyperdraw",
-        "LIM"
+        "hyperdraw"
     ],
     "bigmelon": [
         "wateRmelon",
@@ -42092,7 +42091,6 @@
         "tibble",
         "pillar"
     ],
-    "LIM": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
         "GenomicRanges",
