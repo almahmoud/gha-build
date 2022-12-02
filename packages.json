@@ -11936,13 +11936,11 @@
     "DNABarcodeCompatibility": [
         "dplyr",
         "tidyr",
-        "DNABarcodes",
         "tibble",
         "tidyselect",
         "vctrs",
         "pillar"
     ],
-    "DNABarcodes": [],
     "DNAfusion": [
         "bamsignals",
         "GenomicRanges",
