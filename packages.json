@@ -1880,7 +1880,6 @@
     "mosbi": [
         "QUBIC"
     ],
-    "Motif2Site": [],
     "motifbreakR": [
         "VariantAnnotation",
         "motifStack",
