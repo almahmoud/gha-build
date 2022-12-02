@@ -115,8 +115,7 @@
         "DESeq2",
         "caret",
         "plotly",
-        "MultiAssayExperiment",
-        "recipes"
+        "MultiAssayExperiment"
     ],
     "annmap": [],
     "AnnotationHub": [],
@@ -316,8 +315,7 @@
         "ggalluvial",
         "MLInterfaces",
         "caret",
-        "biomaRt",
-        "recipes"
+        "biomaRt"
     ],
     "barcodetrackR": [],
     "basecallQC": [],
@@ -618,8 +616,7 @@
         "caret",
         "biomaRt",
         "BSgenome.Hsapiens.UCSC.hg38",
-        "BSgenome",
-        "recipes"
+        "BSgenome"
     ],
     "brendaDb": [],
     "BRGenomics": [
@@ -896,8 +893,7 @@
     "ChIC": [
         "spp",
         "ChIC.data",
-        "caret",
-        "recipes"
+        "caret"
     ],
     "Chicago": [],
     "chimeraviz": [
@@ -1213,8 +1209,7 @@
         "distinct",
         "scater",
         "spatstat",
-        "caret",
-        "recipes"
+        "caret"
     ],
     "CONFESS": [
         "contrast",
@@ -1426,7 +1421,6 @@
         "caret",
         "FlowSOM",
         "lme4",
-        "recipes",
         "FactoMineR",
         "ggpubr",
         "nloptr",
@@ -1440,7 +1434,6 @@
         "factoextra",
         "mbest",
         "caret",
-        "recipes",
         "FactoMineR",
         "ggpubr",
         "lme4",
@@ -1480,7 +1473,6 @@
         "caret",
         "arm",
         "lme4",
-        "recipes",
         "biomaRt",
         "GenomicFeatures",
         "car",
@@ -2432,7 +2424,6 @@
         "arm",
         "testthat",
         "lme4",
-        "recipes",
         "biomaRt",
         "GenomicFeatures",
         "car",
@@ -2833,8 +2824,7 @@
         "VariantAnnotation"
     ],
     "GWAS.BAYES": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "gwascat": [
         "GenomicFeatures",
@@ -2932,8 +2922,7 @@
     "HiTC": [],
     "HPAStainR": [],
     "HPiP": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "HTSeqGenie": [
         "gmapR",
@@ -3235,8 +3224,7 @@
     ],
     "KnowSeq": [
         "caret",
-        "sva",
-        "recipes"
+        "sva"
     ],
     "LACE": [
         "biomaRt"
@@ -3333,8 +3321,7 @@
         "BSgenome",
         "ExperimentHub",
         "caret",
-        "AnnotationHub",
-        "recipes"
+        "AnnotationHub"
     ],
     "Maaslin2": [
         "car",
@@ -3398,7 +3385,6 @@
     "MAI": [
         "caret",
         "tidyverse",
-        "recipes",
         "broom",
         "haven",
         "modelr"
@@ -3410,15 +3396,13 @@
         "xcms",
         "caret",
         "klaR",
-        "recipes",
         "questionr",
         "labelled",
         "haven"
     ],
     "mAPKL": [],
     "maPredictDSC": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "maser": [
         "Gviz",
@@ -3547,8 +3531,7 @@
         "xcms"
     ],
     "metabCombiner": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "MetaboAnnotation": [
         "QFeatures",
@@ -3818,7 +3801,6 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "recipes",
         "treeio",
         "MultiAssayExperiment",
         "scater",
@@ -3916,7 +3898,6 @@
         "biomaRt",
         "cvms",
         "ggpubr",
-        "recipes",
         "lme4",
         "scatterpie",
         "ggtree",
@@ -3945,7 +3926,6 @@
         "biomaRt",
         "cvms",
         "ggpubr",
-        "recipes",
         "lme4",
         "scatterpie",
         "ggtree",
@@ -3979,8 +3959,7 @@
         "MultiAssayExperiment"
     ],
     "mistyR": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "mitch": [
         "GGally",
@@ -3999,8 +3978,7 @@
     "MLSeq": [
         "caret",
         "testthat",
-        "DESeq2",
-        "recipes"
+        "DESeq2"
     ],
     "MMDiff2": [
         "BSgenome"
@@ -4186,7 +4164,6 @@
     "MSstatsSampleSize": [
         "caret",
         "MSstats",
-        "recipes",
         "lme4",
         "nloptr",
         "testthat"
@@ -4245,7 +4222,6 @@
         "devtools",
         "MultiAssayExperiment",
         "ropls",
-        "recipes",
         "DOSE",
         "GOSemSim",
         "ggraph",
@@ -4755,7 +4731,6 @@
         "survcomp",
         "genefu",
         "verification",
-        "recipes",
         "biomaRt",
         "ggpubr",
         "broom",
@@ -4845,8 +4820,7 @@
     "Pi": [
         "dnet",
         "supraHex",
-        "caret",
-        "recipes"
+        "caret"
     ],
     "piano": [],
     "Pigengene": [
@@ -4918,8 +4892,7 @@
         "broom",
         "caret",
         "DESeq2",
-        "mixOmics",
-        "recipes"
+        "mixOmics"
     ],
     "POWSC": [],
     "ppcseq": [
@@ -4937,7 +4910,6 @@
     "preciseTAD": [
         "caret",
         "rCGH",
-        "recipes",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -5015,15 +4987,13 @@
     "pRoloc": [
         "MLInterfaces",
         "caret",
-        "biomaRt",
-        "recipes"
+        "biomaRt"
     ],
     "pRolocGUI": [
         "pRoloc",
         "MLInterfaces",
         "caret",
-        "biomaRt",
-        "recipes"
+        "biomaRt"
     ],
     "PROMISE": [],
     "PROPS": [
@@ -5354,7 +5324,6 @@
         "caret",
         "BSgenome",
         "AnnotationHub",
-        "recipes",
         "bumphunter",
         "GEOquery",
         "GenomicFeatures",
@@ -5512,8 +5481,7 @@
         "biomaRt",
         "BSgenome",
         "ExperimentHub",
-        "broom",
-        "recipes"
+        "broom"
     ],
     "RMassBank": [],
     "Rmmquant": [
@@ -5774,7 +5742,6 @@
         "Seurat",
         "caret",
         "AnnotationHub",
-        "recipes",
         "plotly"
     ],
     "SCANVIS": [],
@@ -5831,8 +5798,7 @@
     ],
     "scGPS": [
         "caret",
-        "DESeq2",
-        "recipes"
+        "DESeq2"
     ],
     "schex": [
         "Seurat",
@@ -6334,7 +6300,6 @@
         "biomaRt",
         "cvms",
         "ggpubr",
-        "recipes",
         "lme4",
         "rstatix",
         "broom",
@@ -6435,8 +6400,7 @@
         "BSgenome"
     ],
     "SubCellBarCode": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "subSeq": [],
     "SummarizedBenchmark": [],
@@ -6445,8 +6409,7 @@
         "testthat"
     ],
     "supersigs": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "supraHex": [],
     "surfaltr": [
@@ -6574,7 +6537,6 @@
         "clusterProfiler",
         "TCGAbiolinks",
         "sesame",
-        "recipes",
         "DOSE",
         "enrichplot",
         "GOSemSim",
@@ -6689,7 +6651,6 @@
         "VariantAnnotation",
         "bestNormalize",
         "naniar",
-        "recipes",
         "visdat",
         "BSgenome",
         "GenomicFeatures",
@@ -6745,7 +6706,6 @@
         "caret",
         "chipseq",
         "GenomicFeatures",
-        "recipes",
         "biomaRt"
     ],
     "transformGamPoi": [],
@@ -7133,10 +7093,7 @@
         "testthat"
     ],
     "tidytree": [],
-    "caret": [
-        "recipes"
-    ],
-    "recipes": [],
+    "caret": [],
     "Seurat": [
         "plotly"
     ],
@@ -7346,8 +7303,7 @@
     ],
     "spp": [],
     "ChIC.data": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "BSgenome.Mmusculus.UCSC.mm9": [
         "BSgenome"
@@ -7397,8 +7353,7 @@
     ],
     "Ecume": [
         "spatstat",
-        "caret",
-        "recipes"
+        "caret"
     ],
     "spatstat": [],
     "contrast": [
@@ -7548,8 +7503,7 @@
     "pd.mapping50k.xba240": [],
     "reldist": [],
     "adabag": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "glmmTMB": [
         "lme4",
@@ -7626,7 +7580,6 @@
     "subspace": [],
     "cvms": [
         "lme4",
-        "recipes",
         "nloptr",
         "testthat"
     ],
@@ -7739,8 +7692,7 @@
         "broom"
     ],
     "caretEnsemble": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "RLHub": [
         "AnnotationHub",
@@ -7806,9 +7758,7 @@
     ],
     "SpatialExtremes": [],
     "GenKern": [],
-    "bestNormalize": [
-        "recipes"
-    ],
+    "bestNormalize": [],
     "naniar": [
         "visdat"
     ],
