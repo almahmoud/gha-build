@@ -164,7 +164,6 @@
         "Rsamtools",
         "future.apply",
         "marray",
-        "snowfall",
         "future",
         "globals",
         "RCurl",
@@ -6316,7 +6315,6 @@
         "foreach",
         "doRNG",
         "marray",
-        "snowfall",
         "future",
         "globals",
         "biomaRt",
@@ -6622,7 +6620,6 @@
     ],
     "bnem": [
         "CellNOptR",
-        "snowfall",
         "Rgraphviz",
         "flexclust",
         "epiNEM",
@@ -9582,7 +9579,6 @@
     "CGHcall": [
         "Biobase",
         "CGHbase",
-        "snowfall",
         "marray"
     ],
     "cghMCR": [
@@ -9613,8 +9609,7 @@
         "CGHcall",
         "CGHbase",
         "Biobase",
-        "marray",
-        "snowfall"
+        "marray"
     ],
     "CGHregions": [
         "Biobase",
@@ -16102,7 +16097,6 @@
         "mutoss",
         "qqconf",
         "flexclust",
-        "snowfall",
         "Linnorm",
         "RcppEigen",
         "RBGL",
@@ -19888,7 +19882,6 @@
     ],
     "eiR": [
         "ChemmineR",
-        "snowfall",
         "RCurl",
         "RcppAnnoy",
         "ggplot2",
@@ -21062,7 +21055,6 @@
         "interp",
         "Rgraphviz",
         "flexclust",
-        "snowfall",
         "Linnorm",
         "RcppEigen",
         "ggplot2",
@@ -25024,7 +25016,6 @@
         "GenomicRanges",
         "Biobase",
         "marray",
-        "snowfall",
         "IRanges",
         "GenomeInfoDb",
         "XVector",
@@ -29239,7 +29230,6 @@
         "Rsamtools",
         "future.apply",
         "marray",
-        "snowfall",
         "future",
         "globals",
         "RCurl",
@@ -29383,7 +29373,6 @@
         "Rsamtools",
         "future.apply",
         "marray",
-        "snowfall",
         "future",
         "globals",
         "nloptr",
@@ -35877,7 +35866,6 @@
         "rematch2"
     ],
     "MEIGOR": [
-        "snowfall",
         "CNORode",
         "CellNOptR",
         "knitr",
@@ -40371,7 +40359,6 @@
         "graph",
         "Rgraphviz",
         "flexclust",
-        "snowfall",
         "Linnorm",
         "RcppEigen",
         "e1071",
@@ -42494,7 +42481,6 @@
         "Rsamtools",
         "future.apply",
         "marray",
-        "snowfall",
         "future",
         "globals",
         "Biostrings",
@@ -43904,7 +43890,6 @@
         "latex2exp",
         "Rgraphviz",
         "flexclust",
-        "snowfall",
         "Linnorm",
         "RcppEigen",
         "ggplot2",
@@ -51513,7 +51498,6 @@
         "Rsamtools",
         "future.apply",
         "marray",
-        "snowfall",
         "future",
         "globals",
         "GenomeInfoDb",
@@ -57286,7 +57270,6 @@
         "pillar"
     ],
     "RUVcorr": [
-        "snowfall",
         "psych",
         "BiocParallel",
         "bladderbatch",
@@ -63938,7 +63921,6 @@
         "Rsamtools",
         "future.apply",
         "marray",
-        "snowfall",
         "future",
         "globals",
         "Biostrings",
@@ -66748,7 +66730,6 @@
         "quantreg",
         "lme4",
         "marray",
-        "snowfall",
         "future",
         "globals",
         "RCurl",
@@ -72638,7 +72619,6 @@
         "future",
         "globals"
     ],
-    "snowfall": [],
     "future": [
         "globals"
     ],
