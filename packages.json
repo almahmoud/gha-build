@@ -106,7 +106,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "CGHbase",
         "CGHcall",
         "R.utils",
         "Rsamtools",
@@ -4319,7 +4318,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Mm.eg.db",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
-        "CGHbase",
         "CGHcall",
         "future.apply",
         "hms",
@@ -6596,10 +6594,7 @@
     "CGEN": [
         "survival"
     ],
-    "CGHbase": [],
-    "CGHcall": [
-        "CGHbase"
-    ],
+    "CGHcall": [],
     "cghMCR": [
         "CNTools",
         "genefilter",
@@ -6617,12 +6612,9 @@
         "vctrs"
     ],
     "CGHnormaliter": [
-        "CGHcall",
-        "CGHbase"
+        "CGHcall"
     ],
-    "CGHregions": [
-        "CGHbase"
-    ],
+    "CGHregions": [],
     "ChAMP": [
         "minfi",
         "ChAMPdata",
@@ -17413,7 +17405,6 @@
     "GeneBreak": [
         "QDNAseq",
         "CGHcall",
-        "CGHbase",
         "GenomicRanges",
         "GenomeInfoDb",
         "XVector",
@@ -20330,7 +20321,6 @@
         "XVector",
         "scales",
         "SummarizedExperiment",
-        "CGHbase",
         "CGHcall",
         "R.utils",
         "Rsamtools",
@@ -20437,7 +20427,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "CGHbase",
         "CGHcall",
         "R.utils",
         "Rsamtools",
@@ -29651,7 +29640,6 @@
         "rhdf5",
         "scales",
         "SummarizedExperiment",
-        "CGHbase",
         "CGHcall",
         "R.utils",
         "Rsamtools",
@@ -35933,7 +35921,6 @@
     ],
     "qcmetrics": [],
     "QDNAseq": [
-        "CGHbase",
         "CGHcall",
         "GenomicRanges",
         "R.utils",
@@ -44621,7 +44608,6 @@
         "rhdf5",
         "scales",
         "SummarizedExperiment",
-        "CGHbase",
         "CGHcall",
         "R.utils",
         "Rsamtools",
@@ -46574,7 +46560,6 @@
         "GenomeInfoDb",
         "XVector",
         "SummarizedExperiment",
-        "CGHbase",
         "CGHcall",
         "R.utils",
         "Rsamtools",
