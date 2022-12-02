@@ -731,7 +731,6 @@
     ],
     "ChIPQC": [
         "DiffBind",
-        "chipseq",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
@@ -755,7 +754,6 @@
         "biomaRt",
         "treeio"
     ],
-    "chipseq": [],
     "ChIPseqR": [],
     "ChIPsim": [],
     "ChIPXpress": [
@@ -998,9 +996,7 @@
         "ensembldb",
         "biomaRt"
     ],
-    "CopywriteR": [
-        "chipseq"
-    ],
+    "CopywriteR": [],
     "CoreGx": [
         "piano"
     ],
@@ -2319,7 +2315,6 @@
     "HTSeqGenie": [
         "gmapR",
         "VariantAnnotation",
-        "chipseq",
         "GenomicFeatures",
         "VariantTools",
         "biomaRt"
@@ -3930,7 +3925,6 @@
         "rGREAT",
         "enrichplot",
         "biomaRt",
-        "chipseq",
         "DOSE",
         "ggraph",
         "ggtree",
@@ -4901,9 +4895,7 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "soGGi": [
-        "chipseq"
-    ],
+    "soGGi": [],
     "sojourner": [
         "sampSurf"
     ],
@@ -5318,7 +5310,6 @@
     ],
     "transcriptR": [
         "caret",
-        "chipseq",
         "GenomicFeatures",
         "biomaRt"
     ],
