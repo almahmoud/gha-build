@@ -56074,7 +56074,6 @@
         "GenomicAlignments",
         "BiocParallel",
         "hiAnnotator",
-        "sonicLength",
         "dplyr",
         "BiocGenerics",
         "GenomicRanges",
@@ -152595,7 +152594,6 @@
         "rlang",
         "magrittr"
     ],
-    "sonicLength": [],
     "protr": [],
     "MCL": [
         "expm",
