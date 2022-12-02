@@ -1827,7 +1827,6 @@
     "spicyR": [
         "lmerTest"
     ],
-    "SpidermiR": [],
     "spikeLI": [],
     "SpliceWiz": [],
     "SPLINTER": [
@@ -1856,9 +1855,7 @@
     "standR": [
         "RUVSeq"
     ],
-    "StarBioTrek": [
-        "SpidermiR"
-    ],
+    "StarBioTrek": [],
     "Statial": [],
     "stJoincount": [],
     "strandCheckR": [],
