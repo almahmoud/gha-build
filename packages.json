@@ -19,9 +19,7 @@
     "ANCOMBC": [
         "mia"
     ],
-    "appreci8R": [
-        "PolyPhen.Hsapiens.dbSNP131"
-    ],
+    "appreci8R": [],
     "ArrayExpressHTS": [],
     "arrayMvout": [
         "lumi",
@@ -1168,7 +1166,6 @@
         "car"
     ],
     "car": [],
-    "PolyPhen.Hsapiens.dbSNP131": [],
     "mGSZ": [],
     "doBy": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [],
