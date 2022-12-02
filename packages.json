@@ -396,9 +396,7 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "GeoDiff": [
-        "GeomxTools"
-    ],
+    "GeoDiff": [],
     "GEOexplorer": [
         "factoextra",
         "FactoMineR",
@@ -406,7 +404,6 @@
         "car",
         "rstatix"
     ],
-    "GeomxTools": [],
     "GEWIST": [
         "car"
     ],
@@ -957,9 +954,7 @@
         "ggbio"
     ],
     "spaSim": [],
-    "SpatialDecon": [
-        "GeomxTools"
-    ],
+    "SpatialDecon": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz"
