@@ -5999,7 +5999,6 @@
     "scTensor": [
         "plotly",
         "nnTensor",
-        "ccTensor",
         "heatmaply",
         "AnnotationHub",
         "Category",
@@ -7873,7 +7872,6 @@
     ],
     "Rmagic": [],
     "nnTensor": [],
-    "ccTensor": [],
     "clustree": [
         "ggraph",
         "tidygraph"
