@@ -248,12 +248,10 @@
         "BSgenome.Ecoli.NCBI.20080805"
     ],
     "BASiCS": [
-        "ggExtra",
-        "scran"
+        "ggExtra"
     ],
     "BASiCStan": [
         "BASiCS",
-        "scran",
         "ggExtra"
     ],
     "batchelor": [],
@@ -262,8 +260,7 @@
         "heatmaply"
     ],
     "BayesSpace": [
-        "scater",
-        "scran"
+        "scater"
     ],
     "BBCAnalyzer": [
         "VariantAnnotation",
@@ -390,9 +387,7 @@
     "biosigner": [
         "ropls"
     ],
-    "BioTIP": [
-        "scran"
-    ],
+    "BioTIP": [],
     "biovizBase": [
         "GenomicFeatures",
         "VariantAnnotation",
@@ -585,8 +580,7 @@
     ],
     "CCPROMISE": [],
     "celda": [
-        "scater",
-        "scran"
+        "scater"
     ],
     "CellBarcode": [],
     "CellBench": [],
@@ -756,7 +750,6 @@
     ],
     "ChromSCape": [
         "batchelor",
-        "scran",
         "scater"
     ],
     "chromswitch": [],
@@ -794,7 +787,6 @@
     ],
     "CiteFuse": [
         "propr",
-        "scran",
         "ggraph"
     ],
     "ClassifyR": [],
@@ -916,7 +908,6 @@
     "conclus": [
         "factoextra",
         "biomaRt",
-        "scran",
         "scater",
         "GEOquery",
         "clusterProfiler",
@@ -1321,8 +1312,7 @@
         "GenomicFeatures"
     ],
     "Dino": [
-        "Seurat",
-        "scran"
+        "Seurat"
     ],
     "DiscoRhythm": [
         "ggExtra",
@@ -1773,7 +1763,6 @@
     "FLAMES": [
         "scater",
         "ggbio",
-        "scran",
         "bambu",
         "GenomicFeatures",
         "biomaRt",
@@ -2419,7 +2408,6 @@
         "ggpubr",
         "ggraph",
         "scater",
-        "scran",
         "DOSE",
         "enrichplot",
         "rstatix",
@@ -3189,9 +3177,7 @@
         "OrganismDbi",
         "ensembldb"
     ],
-    "msImpute": [
-        "scran"
-    ],
+    "msImpute": [],
     "msmsTests": [],
     "MSnID": [
         "msmsTests"
@@ -3295,7 +3281,6 @@
         "treeio"
     ],
     "mumosa": [
-        "scran",
         "batchelor"
     ],
     "MungeSumstats": [
@@ -3753,7 +3738,6 @@
     ],
     "pipeComp": [
         "Seurat",
-        "scran",
         "scater"
     ],
     "pipeFrame": [],
@@ -4481,13 +4465,11 @@
         "Seurat"
     ],
     "scDblFinder": [
-        "scran",
         "scater"
     ],
     "scDD": [
         "EBSeq",
         "arm",
-        "scran",
         "lme4",
         "nloptr"
     ],
@@ -4538,7 +4520,6 @@
         "biomaRt",
         "scater"
     ],
-    "scran": [],
     "scRecover": [
         "Rmagic"
     ],
@@ -4575,7 +4556,6 @@
     "scTreeViz": [
         "epivizr",
         "clustree",
-        "scran",
         "epivizrData",
         "ggraph",
         "scater",
@@ -4711,9 +4691,7 @@
         "SpatialExperiment"
     ],
     "simplifyEnrichment": [],
-    "SingleCellSignalR": [
-        "scran"
-    ],
+    "SingleCellSignalR": [],
     "singleCellTK": [
         "batchelor",
         "celldex",
@@ -4723,7 +4701,6 @@
         "ggtree",
         "scater",
         "scMerge",
-        "scran",
         "Seurat",
         "SoupX",
         "sva",
@@ -4803,8 +4780,7 @@
     ],
     "Spaniel": [
         "Seurat",
-        "scater",
-        "scran"
+        "scater"
     ],
     "sparrow": [],
     "SparseSignatures": [],
@@ -4826,8 +4802,7 @@
         "SpatialExperiment"
     ],
     "spatialHeatmap": [
-        "scater",
-        "scran"
+        "scater"
     ],
     "spatzie": [
         "GenomicFeatures",
