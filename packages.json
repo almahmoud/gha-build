@@ -2495,7 +2495,6 @@
         "pillar",
         "tidyselect",
         "openssl",
-        "calibrate",
         "ellipsis"
     ],
     "ASpediaFI": [
@@ -6074,7 +6073,6 @@
         "crosstalk",
         "purrr",
         "promises",
-        "calibrate",
         "ellipsis",
         "tidyselect",
         "pillar",
@@ -12029,7 +12027,6 @@
         "SeqArray",
         "RCurl",
         "XVector",
-        "calibrate",
         "Matrix",
         "MatrixGenerics",
         "Biobase",
@@ -18364,7 +18361,6 @@
         "IRanges",
         "rtracklayer",
         "multcomp",
-        "calibrate",
         "futile.logger",
         "GenomeInfoDb",
         "XVector",
@@ -18789,7 +18785,6 @@
         "vsn",
         "affy",
         "ggplot2",
-        "calibrate",
         "DT",
         "shiny",
         "shinydashboard",
@@ -29215,7 +29210,6 @@
         "tidyselect",
         "pillar",
         "QDNAseq",
-        "calibrate",
         "broom",
         "car",
         "httpuv",
@@ -33322,7 +33316,6 @@
         "gmm",
         "sandwich",
         "openssl",
-        "calibrate",
         "zoo"
     ],
     "LiquidAssociation": [
@@ -35445,7 +35438,6 @@
         "interp",
         "reshape2",
         "FDb.InfiniumMethylation.hg19",
-        "calibrate",
         "restfulr",
         "multtest",
         "edgeR",
@@ -42043,8 +42035,7 @@
         "ellipsis",
         "tidyselect",
         "RCurl",
-        "openssl",
-        "calibrate"
+        "openssl"
     ],
     "multiClust": [
         "ctc",
@@ -42167,7 +42158,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "calibrate",
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
@@ -42246,7 +42236,6 @@
         "QDNAseq",
         "rhdf5",
         "scales",
-        "calibrate",
         "SummarizedExperiment",
         "Matrix",
         "Biobase",
@@ -42445,7 +42434,6 @@
         "processx",
         "downlit",
         "ragg",
-        "calibrate",
         "xopen",
         "bit64",
         "blob",
@@ -45320,7 +45308,6 @@
         "dplyr",
         "tidyr",
         "lobstr",
-        "calibrate",
         "pillar",
         "httr",
         "RSQLite",
@@ -48023,7 +48010,6 @@
         "memoise",
         "XVector",
         "hms",
-        "calibrate",
         "bit64",
         "blob",
         "callr",
@@ -49935,7 +49921,6 @@
         "XVector",
         "openssl",
         "doParallel",
-        "calibrate",
         "ellipsis"
     ],
     "profileplyr": [
@@ -56159,7 +56144,6 @@
         "RCurl",
         "XVector",
         "openssl",
-        "calibrate",
         "ellipsis"
     ],
     "ROSeq": [
@@ -56396,7 +56380,6 @@
         "TH.data",
         "sandwich",
         "testthat",
-        "calibrate",
         "zoo",
         "callr",
         "pkgload",
@@ -64999,7 +64982,6 @@
     "STATegRa": [
         "Biobase",
         "ggplot2",
-        "calibrate",
         "gplots",
         "edgeR",
         "foreach",
@@ -74032,11 +74014,8 @@
     "ptw": [
         "RcppDE"
     ],
-    "qqman": [
-        "calibrate"
-    ],
+    "qqman": [],
     "RcppDE": [],
-    "calibrate": [],
     "DRaWR": [
         "Matrix",
         "ROCR",
