@@ -21069,7 +21069,6 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "mgsa": [],
     "mia": [
         "SummarizedExperiment",
         "SingleCellExperiment",
