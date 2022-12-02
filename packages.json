@@ -1957,7 +1957,6 @@
         "zinbwave",
         "phylobase",
         "mbkmeans",
-        "ClusterR",
         "benchmarkme",
         "RNeXML",
         "genefilter",
@@ -6330,7 +6329,6 @@
         "waldo"
     ],
     "mbkmeans": [
-        "ClusterR",
         "benchmarkme"
     ],
     "mbOmic": [
@@ -7393,7 +7391,6 @@
     ],
     "moanin": [
         "topGO",
-        "ClusterR",
         "GO.db"
     ],
     "MobilityTransformR": [
@@ -8111,7 +8108,6 @@
         "mbkmeans",
         "scuttle",
         "ggrastr",
-        "ClusterR",
         "benchmarkme",
         "RNeXML",
         "genefilter",
@@ -13602,7 +13598,6 @@
         "RNeXML",
         "tidyr"
     ],
-    "ClusterR": [],
     "benchmarkme": [],
     "RNeXML": [
         "tidyr"
