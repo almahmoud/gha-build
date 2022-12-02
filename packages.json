@@ -1898,7 +1898,6 @@
         "minfi",
         "Gviz",
         "missMethyl",
-        "SmartSVA",
         "GenomicFeatures",
         "ensembldb",
         "biovizBase",
@@ -2504,7 +2503,6 @@
     ],
     "omicRexposome": [
         "rexposome",
-        "SmartSVA",
         "FactoMineR",
         "lme4",
         "car",
@@ -4067,7 +4065,6 @@
         "questionr"
     ],
     "questionr": [],
-    "SmartSVA": [],
     "EnsDb.Hsapiens.v75": [
         "ensembldb",
         "GenomicFeatures"
