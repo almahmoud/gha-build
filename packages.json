@@ -550,7 +550,6 @@
         "Homo.sapiens"
     ],
     "Gviz": [],
-    "HelloRanges": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz"
@@ -919,7 +918,6 @@
         "pbkrtest"
     ],
     "OMICsPCA": [
-        "HelloRanges",
         "factoextra",
         "FactoMineR",
         "ggpubr",
