@@ -4230,7 +4230,6 @@
         "biomaRt",
         "readr"
     ],
-    "miRNAmeConverter": [],
     "miRNAtap": [],
     "miRSM": [
         "WGCNA",
