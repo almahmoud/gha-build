@@ -246,7 +246,6 @@
         "ensembldb"
     ],
     "branchpointer": [],
-    "BRGenomics": [],
     "BubbleTree": [
         "biovizBase",
         "VariantAnnotation",
@@ -834,7 +833,6 @@
         "VariantAnnotation"
     ],
     "EpiCompare": [
-        "BRGenomics",
         "ChIPseeker",
         "enrichplot",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
