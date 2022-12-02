@@ -3273,7 +3273,6 @@
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "seq2pathway": [],
     "seqCAT": [
         "VariantAnnotation",
         "GenomicFeatures"
