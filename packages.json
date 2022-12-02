@@ -11,7 +11,6 @@
         "adductData"
     ],
     "affycoretools": [
-        "GOstats",
         "ReportingTools",
         "ggbio",
         "biovizBase",
@@ -21,7 +20,6 @@
     ],
     "AgiMicroRna": [
         "affycoretools",
-        "GOstats",
         "ReportingTools",
         "ggbio",
         "biovizBase",
@@ -118,9 +116,7 @@
     "atSNP": [
         "motifStack"
     ],
-    "attract": [
-        "GOstats"
-    ],
+    "attract": [],
     "BaalChIP": [
         "doBy",
         "pbkrtest",
@@ -296,9 +292,7 @@
         "lme4",
         "rstatix"
     ],
-    "categoryCompare": [
-        "GOstats"
-    ],
+    "categoryCompare": [],
     "cbaf": [
         "cBioPortalData",
         "RTCGAToolbox",
@@ -1195,9 +1189,7 @@
     "gmapR": [
         "VariantAnnotation"
     ],
-    "GmicR": [
-        "GOstats"
-    ],
+    "GmicR": [],
     "gmoviz": [],
     "goseq": [
         "geneLenDataBase"
@@ -1208,7 +1200,6 @@
         "ggtree",
         "treeio"
     ],
-    "GOstats": [],
     "GreyListChIP": [],
     "GRmetrics": [
         "drc",
@@ -1301,7 +1292,6 @@
     "ideal": [
         "pcaExplorer",
         "goseq",
-        "GOstats",
         "geneLenDataBase"
     ],
     "igvR": [
@@ -1711,12 +1701,9 @@
     "midasHLA": [
         "HardyWeinberg"
     ],
-    "MIGSA": [
-        "GOstats"
-    ],
+    "MIGSA": [],
     "miloR": [],
     "MineICA": [
-        "GOstats",
         "lumi",
         "methylumi",
         "FDb.InfiniumMethylation.hg19",
@@ -1731,9 +1718,7 @@
         "VanillaICE"
     ],
     "MIRA": [],
-    "miRLAB": [
-        "GOstats"
-    ],
+    "miRLAB": [],
     "miRSM": [
         "miRspongeR",
         "SPONGE",
@@ -1979,7 +1964,6 @@
     ],
     "netZooR": [
         "yarn",
-        "GOstats",
         "quantro",
         "minfi",
         "bumphunter"
@@ -2103,9 +2087,7 @@
     ],
     "pareg": [],
     "PathoStat": [],
-    "pcaExplorer": [
-        "GOstats"
-    ],
+    "pcaExplorer": [],
     "PDATK": [
         "survminer",
         "ggpubr",
@@ -2160,9 +2142,7 @@
         "VariantAnnotation"
     ],
     "pipeComp": [],
-    "PloGO2": [
-        "GOstats"
-    ],
+    "PloGO2": [],
     "plotGrouper": [
         "ggpubr",
         "rstatix",
@@ -2357,7 +2337,6 @@
         "bumphunter"
     ],
     "ReportingTools": [
-        "GOstats",
         "ggbio",
         "biovizBase",
         "VariantAnnotation",
@@ -2596,7 +2575,6 @@
         "ensembldb"
     ],
     "scTensor": [
-        "GOstats",
         "ReactomePA",
         "schex",
         "enrichplot",
