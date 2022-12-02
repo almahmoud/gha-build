@@ -1,10 +1,10 @@
 # Summary
 
-3730 built packages
+3735 built packages
 
 22 failed packages
 
-56 unclaimed packages
+51 unclaimed packages
 
 
 
@@ -34,7 +34,7 @@
 | [GenKern](https://github.com/almahmoud/gha-build/actions/runs/3598001925/jobs/6060350141)         | Failed   | https://github.com/almahmoud/gha-build/blob/main/lists/failed/GenKern         |
 | [vbsr](https://github.com/almahmoud/gha-build/actions/runs/3598114344/jobs/6060686399)            | Failed   | https://github.com/almahmoud/gha-build/blob/main/lists/failed/vbsr            |
 
-## Succeeded (3730)
+## Succeeded (3735)
 | Package                                                                                                                         | Status    | Tarball                                                                                                                                                                                                                                |
 |---------------------------------------------------------------------------------------------------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [a4](https://github.com/almahmoud/gha-build/actions/runs/3599026062/jobs/6062385390)                                            | Succeeded | [a4_1.46.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/a4_1.46.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                     |
@@ -551,6 +551,7 @@
 | [DIAlignR](https://github.com/almahmoud/gha-build/actions/runs/3598839690/jobs/6062020855)                                      | Succeeded | [DIAlignR_2.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/DIAlignR_2.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | [DiffBind](https://github.com/almahmoud/gha-build/actions/runs/3599180591/jobs/6062660404)                                      | Succeeded | [DiffBind_3.8.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/DiffBind_3.8.2_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | [diffcoexp](https://github.com/almahmoud/gha-build/actions/runs/3598997491/jobs/6062254715)                                     | Succeeded | [diffcoexp_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/diffcoexp_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
+| [diffcyt](https://github.com/almahmoud/gha-build/actions/runs/3599501649/jobs/6063201071)                                       | Succeeded | [diffcyt_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/diffcyt_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | [DifferentialRegulation](https://github.com/almahmoud/gha-build/actions/runs/3598878560/jobs/6062115983)                        | Succeeded | [DifferentialRegulation_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/DifferentialRegulation_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [diffGeneAnalysis](https://github.com/almahmoud/gha-build/actions/runs/3598203479/jobs/6060774231)                              | Succeeded | [diffGeneAnalysis_1.80.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/diffGeneAnalysis_1.80.0_R_x86_64-pc-linux-gnu.tar.gz)                                                         |
 | [diffHic](https://github.com/almahmoud/gha-build/actions/runs/3598999371/jobs/6062305836)                                       | Succeeded | [diffHic_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/diffHic_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
@@ -619,6 +620,7 @@
 | [EGSEA](https://github.com/almahmoud/gha-build/actions/runs/3598999371/jobs/6062301755)                                         | Succeeded | [EGSEA_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/EGSEA_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
 | [eiR](almahmoud/gha-build/actions/runs/3598736707)                                                                              | Succeeded | [eiR_1.38.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/eiR_1.38.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                   |
 | [eisaR](https://github.com/almahmoud/gha-build/actions/runs/3598658514/jobs/6061689985)                                         | Succeeded | [eisaR_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/eisaR_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
+| [ELMER](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063174919)                                         | Succeeded | [ELMER_2.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/ELMER_2.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
 | [EMDomics](https://github.com/almahmoud/gha-build/actions/runs/3598658514/jobs/6061690566)                                      | Succeeded | [EMDomics_2.28.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/EMDomics_2.28.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
 | [EmpiricalBrownsMethod](https://github.com/almahmoud/gha-build/actions/runs/3598003364/jobs/6060411746)                         | Succeeded | [EmpiricalBrownsMethod_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/EmpiricalBrownsMethod_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [EnhancedVolcano](https://github.com/almahmoud/gha-build/actions/runs/3598790947/jobs/6061887863)                               | Succeeded | [EnhancedVolcano_1.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/EnhancedVolcano_1.16.0_R_x86_64-pc-linux-gnu.tar.gz)                                                           |
@@ -1139,6 +1141,7 @@
 | [metabomxtr](https://github.com/almahmoud/gha-build/actions/runs/3598658514/jobs/6061690197)                                    | Succeeded | [metabomxtr_1.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/metabomxtr_1.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                     |
 | [MetaboSignal](https://github.com/almahmoud/gha-build/actions/runs/3599461445/jobs/6063137994)                                  | Succeeded | [MetaboSignal_1.28.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/MetaboSignal_1.28.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                 |
 | [metaCCA](https://github.com/almahmoud/gha-build/actions/runs/3598000465/jobs/6060351345)                                       | Succeeded | [metaCCA_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/metaCCA_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
+| [MetaCyto](https://github.com/almahmoud/gha-build/actions/runs/3599501649/jobs/6063201111)                                      | Succeeded | [MetaCyto_1.20.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/MetaCyto_1.20.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
 | [metagene](https://github.com/almahmoud/gha-build/actions/runs/3599223673/jobs/6062749932)                                      | Succeeded | [metagene_2.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/metagene_2.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
 | [metagene2](https://github.com/almahmoud/gha-build/actions/runs/3598872840/jobs/6062080172)                                     | Succeeded | [metagene2_1.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/metagene2_1.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | [metagenomeSeq](https://github.com/almahmoud/gha-build/actions/runs/3598565544/jobs/6061504605)                                 | Succeeded | [metagenomeSeq_1.40.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/metagenomeSeq_1.40.0_R_x86_64-pc-linux-gnu.tar.gz)                                                               |
@@ -1162,6 +1165,7 @@
 | [MethTargetedNGS](https://github.com/almahmoud/gha-build/actions/runs/3598623494/jobs/6061559570)                               | Succeeded | [MethTargetedNGS_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/MethTargetedNGS_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                                           |
 | [MethylAid](https://github.com/almahmoud/gha-build/actions/runs/3599283544/jobs/6062850349)                                     | Succeeded | [MethylAid_1.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/MethylAid_1.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | [methylCC](https://github.com/almahmoud/gha-build/actions/runs/3599381277/jobs/6063058760)                                      | Succeeded | [methylCC_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/methylCC_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
+| [methylclock](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063174830)                                   | Succeeded | [methylclock_1.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/methylclock_1.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                     |
 | [methylGSA](https://github.com/almahmoud/gha-build/actions/runs/3599461445/jobs/6063138061)                                     | Succeeded | [methylGSA_1.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/methylGSA_1.16.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | [methylInheritance](https://github.com/almahmoud/gha-build/actions/runs/3598959165/jobs/6062251883)                             | Succeeded | [methylInheritance_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/methylInheritance_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                                       |
 | [methylKit](https://github.com/almahmoud/gha-build/actions/runs/3598878560/jobs/6062112409)                                     | Succeeded | [methylKit_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/methylKit_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
@@ -2018,6 +2022,7 @@
 | [tkWidgets](https://github.com/almahmoud/gha-build/actions/runs/3598218507/jobs/6060776647)                                     | Succeeded | [tkWidgets_1.76.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/tkWidgets_1.76.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | [tLOH](https://github.com/almahmoud/gha-build/actions/runs/3599223673/jobs/6062751798)                                          | Succeeded | [tLOH_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/tLOH_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                   |
 | [TMixClust](https://github.com/almahmoud/gha-build/actions/runs/3598521535/jobs/6061376447)                                     | Succeeded | [TMixClust_1.20.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/TMixClust_1.20.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
+| [TNBC.CMS](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063175123)                                      | Succeeded | [TNBC.CMS_1.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/TNBC.CMS_1.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
 | [TnT](https://github.com/almahmoud/gha-build/actions/runs/3598600581/jobs/6061555445)                                           | Succeeded | [TnT_1.20.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/TnT_1.20.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                   |
 | [TOAST](https://github.com/almahmoud/gha-build/actions/runs/3598999371/jobs/6062309200)                                         | Succeeded | [TOAST_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/TOAST_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
 | [tomoda](https://github.com/almahmoud/gha-build/actions/runs/3598790947/jobs/6061886595)                                        | Succeeded | [tomoda_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/tomoda_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
@@ -3768,62 +3773,57 @@
 | [Rmisc](https://github.com/almahmoud/gha-build/actions/runs/3598381410/jobs/6061091879)                                         | Succeeded | [Rmisc_1.5.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/Rmisc_1.5.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                                 |
 | [alluvial](https://github.com/almahmoud/gha-build/actions/runs/3598112030/jobs/6060570310)                                      | Succeeded | [alluvial_0.1-2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/alluvial_0.1-2_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 
-## Unclaimed (56)
-| Package                                                                                       | Status    | Tarball   |
-|-----------------------------------------------------------------------------------------------|-----------|-----------|
-| ASpediaFI                                                                                     | Unclaimed |           |
-| [bigmelon](https://github.com/almahmoud/gha-build/actions/runs/3599489468/jobs/6063178027)    | Unclaimed |           |
-| [CATALYST](https://github.com/almahmoud/gha-build/actions/runs/3599501649/jobs/6063201014)    | Unclaimed |           |
-| censcyt                                                                                       | Unclaimed |           |
-| CeTF                                                                                          | Unclaimed |           |
-| [ChAMP](https://github.com/almahmoud/gha-build/actions/runs/3599491821/jobs/6063195830)       | Unclaimed |           |
-| ChIC                                                                                          | Unclaimed |           |
-| CiteFuse                                                                                      | Unclaimed |           |
-| conclus                                                                                       | Unclaimed |           |
-| CyTOFpower                                                                                    | Unclaimed |           |
-| CytoGLMM                                                                                      | Unclaimed |           |
-| DAPAR                                                                                         | Unclaimed |           |
-| [diffcyt](https://github.com/almahmoud/gha-build/actions/runs/3599501649/jobs/6063201071)     | Unclaimed |           |
-| [ELMER](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063174919)       | Unclaimed |           |
-| enrichTF                                                                                      | Unclaimed |           |
-| epihet                                                                                        | Unclaimed |           |
-| esATAC                                                                                        | Unclaimed |           |
-| [EWCE](https://github.com/almahmoud/gha-build/actions/runs/3599509131/jobs/6063213321)        | Unclaimed |           |
-| flowCL                                                                                        | Unclaimed |           |
-| GDCRNATools                                                                                   | Unclaimed |           |
-| GEOexplorer                                                                                   | Unclaimed |           |
-| glmSparseNet                                                                                  | Unclaimed |           |
-| InterCellar                                                                                   | Unclaimed |           |
-| iPath                                                                                         | Unclaimed |           |
-| ivygapSE                                                                                      | Unclaimed |           |
-| kissDE                                                                                        | Unclaimed |           |
-| [MEAT](https://github.com/almahmoud/gha-build/actions/runs/3599489468/jobs/6063177951)        | Unclaimed |           |
-| [MetaCyto](https://github.com/almahmoud/gha-build/actions/runs/3599501649/jobs/6063201111)    | Unclaimed |           |
-| [methylclock](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063174830) | Unclaimed |           |
-| miRSM                                                                                         | Unclaimed |           |
-| miRspongeR                                                                                    | Unclaimed |           |
-| MSstatsLiP                                                                                    | Unclaimed |           |
-| musicatk                                                                                      | Unclaimed |           |
-| NBSplice                                                                                      | Unclaimed |           |
-| [ODER](https://github.com/almahmoud/gha-build/actions/runs/3599504583/jobs/6063209186)        | Unclaimed |           |
-| OMICsPCA                                                                                      | Unclaimed |           |
-| omicsViewer                                                                                   | Unclaimed |           |
-| PDATK                                                                                         | Unclaimed |           |
-| primirTSS                                                                                     | Unclaimed |           |
-| Prostar                                                                                       | Unclaimed |           |
-| protGear                                                                                      | Unclaimed |           |
-| RNASeqR                                                                                       | Unclaimed |           |
-| RTCGA                                                                                         | Unclaimed |           |
-| scRecover                                                                                     | Unclaimed |           |
-| signeR                                                                                        | Unclaimed |           |
-| signifinder                                                                                   | Unclaimed |           |
-| [skewr](https://github.com/almahmoud/gha-build/actions/runs/3599489468/jobs/6063177870)       | Unclaimed |           |
-| sojourner                                                                                     | Unclaimed |           |
-| survtype                                                                                      | Unclaimed |           |
-| TCGAbiolinksGUI                                                                               | Unclaimed |           |
-| TDARACNE                                                                                      | Unclaimed |           |
-| timeOmics                                                                                     | Unclaimed |           |
-| [TNBC.CMS](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063175123)    | Unclaimed |           |
-| TraRe                                                                                         | Unclaimed |           |
-| treekoR                                                                                       | Unclaimed |           |
-| survivalAnalysis                                                                              | Unclaimed |           |
+## Unclaimed (51)
+| Package                                                                                    | Status    | Tarball   |
+|--------------------------------------------------------------------------------------------|-----------|-----------|
+| ASpediaFI                                                                                  | Unclaimed |           |
+| [bigmelon](https://github.com/almahmoud/gha-build/actions/runs/3599489468/jobs/6063178027) | Unclaimed |           |
+| [CATALYST](https://github.com/almahmoud/gha-build/actions/runs/3599501649/jobs/6063201014) | Unclaimed |           |
+| censcyt                                                                                    | Unclaimed |           |
+| CeTF                                                                                       | Unclaimed |           |
+| [ChAMP](https://github.com/almahmoud/gha-build/actions/runs/3599491821/jobs/6063195830)    | Unclaimed |           |
+| ChIC                                                                                       | Unclaimed |           |
+| CiteFuse                                                                                   | Unclaimed |           |
+| conclus                                                                                    | Unclaimed |           |
+| CyTOFpower                                                                                 | Unclaimed |           |
+| CytoGLMM                                                                                   | Unclaimed |           |
+| DAPAR                                                                                      | Unclaimed |           |
+| enrichTF                                                                                   | Unclaimed |           |
+| epihet                                                                                     | Unclaimed |           |
+| esATAC                                                                                     | Unclaimed |           |
+| [EWCE](https://github.com/almahmoud/gha-build/actions/runs/3599509131/jobs/6063213321)     | Unclaimed |           |
+| flowCL                                                                                     | Unclaimed |           |
+| GDCRNATools                                                                                | Unclaimed |           |
+| GEOexplorer                                                                                | Unclaimed |           |
+| glmSparseNet                                                                               | Unclaimed |           |
+| InterCellar                                                                                | Unclaimed |           |
+| iPath                                                                                      | Unclaimed |           |
+| ivygapSE                                                                                   | Unclaimed |           |
+| kissDE                                                                                     | Unclaimed |           |
+| [MEAT](https://github.com/almahmoud/gha-build/actions/runs/3599489468/jobs/6063177951)     | Unclaimed |           |
+| miRSM                                                                                      | Unclaimed |           |
+| miRspongeR                                                                                 | Unclaimed |           |
+| MSstatsLiP                                                                                 | Unclaimed |           |
+| musicatk                                                                                   | Unclaimed |           |
+| NBSplice                                                                                   | Unclaimed |           |
+| [ODER](https://github.com/almahmoud/gha-build/actions/runs/3599504583/jobs/6063209186)     | Unclaimed |           |
+| OMICsPCA                                                                                   | Unclaimed |           |
+| omicsViewer                                                                                | Unclaimed |           |
+| PDATK                                                                                      | Unclaimed |           |
+| primirTSS                                                                                  | Unclaimed |           |
+| Prostar                                                                                    | Unclaimed |           |
+| protGear                                                                                   | Unclaimed |           |
+| RNASeqR                                                                                    | Unclaimed |           |
+| RTCGA                                                                                      | Unclaimed |           |
+| scRecover                                                                                  | Unclaimed |           |
+| signeR                                                                                     | Unclaimed |           |
+| signifinder                                                                                | Unclaimed |           |
+| [skewr](https://github.com/almahmoud/gha-build/actions/runs/3599489468/jobs/6063177870)    | Unclaimed |           |
+| sojourner                                                                                  | Unclaimed |           |
+| survtype                                                                                   | Unclaimed |           |
+| TCGAbiolinksGUI                                                                            | Unclaimed |           |
+| TDARACNE                                                                                   | Unclaimed |           |
+| timeOmics                                                                                  | Unclaimed |           |
+| TraRe                                                                                      | Unclaimed |           |
+| treekoR                                                                                    | Unclaimed |           |
+| survivalAnalysis                                                                           | Unclaimed |           |
