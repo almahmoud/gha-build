@@ -882,9 +882,7 @@
     "fobitools": [
         "textclean"
     ],
-    "FRASER": [
-        "OUTRIDER"
-    ],
+    "FRASER": [],
     "frenchFISH": [
         "NHPoisson",
         "car",
@@ -1814,7 +1812,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "OUTRIDER": [],
     "padma": [
         "FactoMineR",
         "car",
