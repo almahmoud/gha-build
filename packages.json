@@ -3221,7 +3221,6 @@
         "GenomicFeatures"
     ],
     "IdeoViz": [],
-    "IgGeneUsage": [],
     "igvR": [
         "VariantAnnotation",
         "BSgenome",
