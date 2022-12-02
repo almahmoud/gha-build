@@ -1153,7 +1153,6 @@
     "LymphoSeq": [
         "ggtree"
     ],
-    "m6Aboost": [],
     "Maaslin2": [
         "car",
         "lmerTest",
