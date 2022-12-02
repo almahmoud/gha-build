@@ -881,7 +881,6 @@
         "GO.db",
         "annotate"
     ],
-    "BioNet": [],
     "BioNetStat": [
         "pathview",
         "Hmisc"
@@ -10309,7 +10308,6 @@
     "SMITE": [
         "Hmisc",
         "reactome.db",
-        "BioNet",
         "goseq",
         "geneLenDataBase",
         "rtracklayer",
