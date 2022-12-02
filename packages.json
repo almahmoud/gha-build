@@ -1272,7 +1272,6 @@
         "lmerTest",
         "lme4"
     ],
-    "LOBSTAHS": [],
     "LowMACA": [
         "cBioPortalData",
         "motifStack",
