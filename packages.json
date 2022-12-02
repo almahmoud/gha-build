@@ -234,7 +234,6 @@
         "GOstats",
         "Category"
     ],
-    "AUCell": [],
     "autonomics": [],
     "BaalChIP": [
         "doBy",
@@ -4396,9 +4395,7 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "RcisTarget": [
-        "AUCell"
-    ],
+    "RcisTarget": [],
     "Rcpi": [],
     "Rcwl": [
         "DiagrammeR"
