@@ -45476,7 +45476,6 @@
         "dplyr",
         "tibble",
         "futile.logger",
-        "easycsv",
         "rentrez",
         "igraph",
         "lifecycle",
@@ -78738,7 +78737,6 @@
     "phylogram": [
         "ape"
     ],
-    "easycsv": [],
     "tfprobability": [
         "tensorflow",
         "reticulate",
