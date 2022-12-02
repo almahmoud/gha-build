@@ -7625,7 +7625,6 @@
     ],
     "waddR": [
         "arm",
-        "eva",
         "lme4",
         "nloptr",
         "testthat"
@@ -8538,6 +8537,5 @@
     "msigdb": [
         "ExperimentHub",
         "AnnotationHub"
-    ],
-    "eva": []
+    ]
 }
