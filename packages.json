@@ -62,7 +62,6 @@
         "AnnotationHub",
         "rvest",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "ADImpute": [
@@ -215,8 +214,7 @@
         "AnnotationHub",
         "ExperimentHub",
         "tidyr",
-        "vroom",
-        "interactiveDisplayBase"
+        "vroom"
     ],
     "amplican": [
         "ShortRead",
@@ -293,7 +291,6 @@
     "AnnotationForge": [],
     "AnnotationHub": [
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "AnnotationHubData": [
@@ -303,7 +300,6 @@
         "OrganismDbi",
         "AnnotationForge",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "biomaRt",
         "GenomicAlignments",
         "dbplyr"
@@ -316,7 +312,6 @@
         "regioneR",
         "rtracklayer",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "biomaRt",
         "vroom",
         "BSgenome",
@@ -413,7 +408,6 @@
         "OrganismDbi",
         "GO.db",
         "org.Hs.eg.db",
-        "interactiveDisplayBase",
         "dbplyr",
         "GenomicAlignments"
     ],
@@ -611,7 +605,6 @@
         "BiocFileCache",
         "AnnotationHub",
         "TFBSTools",
-        "interactiveDisplayBase",
         "dbplyr",
         "CNEr",
         "readr",
@@ -637,7 +630,6 @@
         "GenomicAlignments",
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "atSNP": [
@@ -1084,7 +1076,6 @@
         "ggsignif",
         "rstatix",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "nloptr",
         "broom",
         "GenomicAlignments",
@@ -1235,7 +1226,6 @@
         "AnnotationHub",
         "Hmisc",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "viridis"
     ],
     "BioNERO": [
@@ -1325,7 +1315,6 @@
         "vroom",
         "GenomicAlignments",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "regioneR",
         "biomaRt",
         "dbplyr"
@@ -1368,7 +1357,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "waldo",
-        "interactiveDisplayBase",
         "dbplyr",
         "rematch2"
     ],
@@ -1443,7 +1431,6 @@
         "AnnotationHub",
         "org.Hs.eg.db",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "biomaRt",
         "VariantAnnotation",
         "biovizBase",
@@ -2126,7 +2113,6 @@
         "biovizBase",
         "GenomicAlignments",
         "FDb.InfiniumMethylation.hg19",
-        "interactiveDisplayBase",
         "dbplyr",
         "VariantAnnotation",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -2431,7 +2417,6 @@
         "gwascat",
         "BSgenome",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "geneplotter",
         "GenomicFeatures",
         "VariantAnnotation",
@@ -2786,7 +2771,6 @@
         "ExperimentHub",
         "lmerTest",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "GenomicFeatures",
         "lme4",
         "ggplot2",
@@ -3139,7 +3123,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "vroom",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "crisprScore": [
@@ -3147,7 +3130,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "CRISPRseek": [
@@ -3207,7 +3189,6 @@
         "GenomicAlignments",
         "vroom",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "Hmisc",
         "dbplyr",
         "ggplot2",
@@ -3235,8 +3216,7 @@
         "AnnotationHub",
         "ggplot2",
         "viridis",
-        "vroom",
-        "interactiveDisplayBase"
+        "vroom"
     ],
     "crlmm": [
         "oligoClasses"
@@ -3290,7 +3270,6 @@
         "readxl",
         "shinycssloaders",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "broom",
         "tidyr",
         "dbplyr"
@@ -3328,7 +3307,6 @@
         "AnnotationHub",
         "ChemmineR",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr",
         "ggplot2"
     ],
@@ -4127,7 +4105,6 @@
         "methylumi",
         "org.Hs.eg.db",
         "ruv",
-        "interactiveDisplayBase",
         "dbplyr",
         "Hmisc",
         "VariantAnnotation",
@@ -4164,7 +4141,6 @@
         "AnnotationHub",
         "rtracklayer",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "GenomicFeatures",
         "readr",
         "regioneR",
@@ -4315,7 +4291,6 @@
         "broom",
         "car",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "pbkrtest",
         "lme4",
         "annotate",
@@ -4540,7 +4515,6 @@
         "AnnotationHub",
         "genefilter",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "annotate",
         "bumphunter",
         "GEOquery",
@@ -4669,7 +4643,6 @@
         "plotly",
         "rtracklayer",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "GenomicAlignments",
         "DESeq2",
         "enrichplot",
@@ -4799,7 +4772,6 @@
         "ggplot2",
         "tidyr",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "rtracklayer",
         "readr",
         "dbplyr",
@@ -4827,7 +4799,6 @@
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
         "ggrepel",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "BSgenome",
         "biovizBase",
         "GenomicAlignments",
@@ -5056,7 +5027,6 @@
         "treeio",
         "plotly",
         "readr",
-        "interactiveDisplayBase",
         "ggplotify",
         "dbplyr",
         "vroom",
@@ -5090,7 +5060,6 @@
     "ExperimentHub": [
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "ExperimentHubData": [
@@ -5102,7 +5071,6 @@
         "OrganismDbi",
         "AnnotationForge",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr",
         "biomaRt",
         "GenomicAlignments"
@@ -5994,7 +5962,6 @@
     "GenomicScores": [
         "BiocFileCache",
         "AnnotationHub",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "GenomicSuperSignature": [
@@ -6543,7 +6510,6 @@
         "BiocFileCache",
         "EnrichmentBrowser",
         "ExperimentHub",
-        "interactiveDisplayBase",
         "dbplyr",
         "GSEABase",
         "GO.db",
@@ -6656,7 +6622,6 @@
         "BiocFileCache",
         "VariantAnnotation",
         "AnnotationHub",
-        "interactiveDisplayBase",
         "dbplyr",
         "rtracklayer",
         "biomaRt",
@@ -6814,7 +6779,6 @@
         "ExperimentHub",
         "BiocFileCache",
         "AnnotationHub",
-        "interactiveDisplayBase",
         "dbplyr",
         "biomaRt",
         "GenomicFeatures",
@@ -6845,7 +6809,6 @@
         "MultiAssayExperiment",
         "coin",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "tidyr",
         "dbplyr"
     ],
@@ -7225,14 +7188,12 @@
         "rvest"
     ],
     "interactiveDisplay": [
-        "interactiveDisplayBase",
         "ggplot2",
         "Category",
         "GSEABase",
         "genefilter",
         "annotate"
     ],
-    "interactiveDisplayBase": [],
     "InterCellar": [
         "shinydashboard",
         "shinyFiles",
@@ -7315,7 +7276,6 @@
     "ipdDb": [
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "IPO": [
@@ -7432,7 +7392,6 @@
         "shinydashboard",
         "shinyjs",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "shinyAce",
         "ggplot2",
         "ggrepel",
@@ -7491,7 +7450,6 @@
         "ensembldb",
         "BiocFileCache",
         "AnnotationHub",
-        "interactiveDisplayBase",
         "dbplyr",
         "annotate"
     ],
@@ -7823,7 +7781,6 @@
         "ggplot2",
         "ggrepel",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "lumi": [
@@ -7879,7 +7836,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "GenomicAlignments",
-        "interactiveDisplayBase",
         "dbplyr",
         "ggplot2",
         "recipes",
@@ -7936,7 +7892,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "made4": [],
@@ -8008,7 +7963,6 @@
         "babelgene",
         "org.Hs.eg.db",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -8339,7 +8293,6 @@
         "AnnotationHub",
         "MeSHDbi",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "HDO.db",
         "fgsea",
         "ggplot2",
@@ -8624,7 +8577,6 @@
         "ExperimentHub",
         "readr",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "ggrepel",
         "ggsci",
         "cowplot",
@@ -8722,7 +8674,6 @@
         "readxl",
         "reprex",
         "rvest",
-        "interactiveDisplayBase",
         "GenomicFeatures",
         "AnnotationHubData",
         "annotate",
@@ -9755,7 +9706,6 @@
         "ggplot2",
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "msmsEDA",
         "qvalue",
         "vsn",
@@ -10223,7 +10173,6 @@
         "AnnotationHub",
         "biovizBase",
         "TFBSTools",
-        "interactiveDisplayBase",
         "dbplyr",
         "Hmisc",
         "VariantAnnotation",
@@ -10597,7 +10546,6 @@
         "genefilter",
         "plotly",
         "rtracklayer",
-        "interactiveDisplayBase",
         "dbplyr",
         "annotate",
         "ExperimentHub",
@@ -10615,7 +10563,6 @@
         "GSVA",
         "plotly",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "geneplotter",
         "ShortRead",
         "biomaRt",
@@ -10677,7 +10624,6 @@
         "shinyBS",
         "tidyr",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "biomaRt",
         "GenomicFeatures",
         "ensembldb",
@@ -10865,7 +10811,6 @@
     "ontoProc": [
         "BiocFileCache",
         "AnnotationHub",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "openCyto": [
@@ -11448,7 +11393,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "topGO",
-        "interactiveDisplayBase",
         "dbplyr",
         "GO.db"
     ],
@@ -11641,7 +11585,6 @@
         "ggplot2",
         "BiocFileCache",
         "AnnotationHub",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "POMA": [
@@ -11739,7 +11682,6 @@
         "biovizBase",
         "GenomicAlignments",
         "CNEr",
-        "interactiveDisplayBase",
         "dbplyr",
         "Hmisc",
         "VariantAnnotation",
@@ -12021,7 +11963,6 @@
         "pairsD3",
         "recount",
         "shinyjs",
-        "interactiveDisplayBase",
         "dbplyr",
         "miniUI",
         "broom",
@@ -12128,7 +12069,6 @@
         "biomaRt",
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "sqldf",
         "dbplyr"
     ],
@@ -12142,7 +12082,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "qckitfastq": [
@@ -12358,7 +12297,6 @@
         "biomaRt",
         "BiocFileCache",
         "AnnotationHub",
-        "interactiveDisplayBase",
         "dbplyr",
         "GenomicAlignments"
     ],
@@ -12625,7 +12563,6 @@
         "Gviz",
         "RCy3",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr",
         "rtracklayer",
         "biomaRt",
@@ -12649,7 +12586,6 @@
         "AnnotationHub",
         "org.Hs.eg.db",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "ggplot2",
         "recipes",
         "bumphunter",
@@ -12723,7 +12659,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "rexposome": [
@@ -12759,7 +12694,6 @@
         "rGenomeTracksData",
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "RGMQL": [
@@ -12985,7 +12919,6 @@
         "ggprism",
         "RLHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "caret",
         "biomaRt",
         "BSgenome",
@@ -13582,7 +13515,6 @@
         "shinyjqui",
         "waiter",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "biomaRt",
         "tidyr",
         "GenomicAlignments",
@@ -13597,7 +13529,6 @@
         "caret",
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "recipes",
         "cowplot",
         "ggrepel",
@@ -13625,7 +13556,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "scater": [
@@ -13856,7 +13786,6 @@
         "BSgenome",
         "annotatr",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "GenomicFeatures",
         "ggplot2",
         "readr",
@@ -14007,7 +13936,6 @@
         "schex",
         "ggplot2",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "GSEABase",
         "genefilter",
         "annotate",
@@ -14230,7 +14158,6 @@
         "BiocFileCache",
         "tidyr",
         "gistr",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "SeqVarTools": [
@@ -14248,8 +14175,7 @@
         "dbplyr",
         "vroom",
         "ExperimentHub",
-        "AnnotationHub",
-        "interactiveDisplayBase"
+        "AnnotationHub"
     ],
     "SEtools": [
         "sechm",
@@ -14368,7 +14294,6 @@
         "cowplot",
         "annotate",
         "vroom",
-        "interactiveDisplayBase",
         "dbplyr",
         "aplot",
         "ggnewscale",
@@ -14577,7 +14502,6 @@
         "TrajectoryUtils",
         "scuttle",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "multipanelfigure",
         "miniUI",
         "geneplotter",
@@ -15019,7 +14943,6 @@
         "shinyWidgets",
         "shinydashboard",
         "heatmaply",
-        "interactiveDisplayBase",
         "dbplyr",
         "annotate",
         "viridis",
@@ -15725,7 +15648,6 @@
         "ipred",
         "ExperimentHub",
         "AnnotationHub",
-        "interactiveDisplayBase",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -15790,7 +15712,6 @@
         "AnnotationHub",
         "GO.db",
         "ExperimentHub",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "TEQC": [],
@@ -16311,7 +16232,6 @@
         "ensembldb",
         "BiocFileCache",
         "AnnotationHub",
-        "interactiveDisplayBase",
         "dbplyr",
         "rtracklayer",
         "biomaRt",
@@ -16334,7 +16254,6 @@
         "shinyFiles",
         "shinyjs",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "rtracklayer",
         "biomaRt",
         "dbplyr",
@@ -16503,7 +16422,6 @@
         "ensembldb",
         "biovizBase",
         "GenomicAlignments",
-        "interactiveDisplayBase",
         "dbplyr",
         "Hmisc",
         "ggplot2",
@@ -16608,7 +16526,6 @@
         "textclean",
         "tidyr",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "syuzhet",
         "dbplyr"
     ],
@@ -16646,7 +16563,6 @@
         "BiocFileCache",
         "VariantAnnotation",
         "AnnotationHub",
-        "interactiveDisplayBase",
         "dbplyr",
         "rtracklayer",
         "biomaRt",
@@ -16978,7 +16894,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "rvest": [],
@@ -17013,7 +16928,6 @@
         "AnnotationHub",
         "ExperimentHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "tidyr",
         "dbplyr"
     ],
@@ -17132,7 +17046,6 @@
         "rtracklayer",
         "BiocFileCache",
         "AnnotationHub",
-        "interactiveDisplayBase",
         "dbplyr",
         "GenomicAlignments"
     ],
@@ -17142,7 +17055,6 @@
         "rtracklayer",
         "BiocFileCache",
         "AnnotationHub",
-        "interactiveDisplayBase",
         "dbplyr",
         "GenomicAlignments"
     ],
@@ -17152,7 +17064,6 @@
         "rtracklayer",
         "BiocFileCache",
         "AnnotationHub",
-        "interactiveDisplayBase",
         "dbplyr",
         "GenomicAlignments"
     ],
@@ -17439,8 +17350,7 @@
         "synaptome.data",
         "dbplyr",
         "AnnotationHub",
-        "BiocFileCache",
-        "interactiveDisplayBase"
+        "BiocFileCache"
     ],
     "WGCNA": [
         "Hmisc",
@@ -17451,7 +17361,6 @@
     "synaptome.data": [
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "ggnetwork": [
@@ -17476,7 +17385,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "pasilla": [
@@ -17504,7 +17412,6 @@
         "derfinder",
         "org.Hs.eg.db",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "GenomicAlignments",
         "GenomicFiles",
         "Hmisc",
@@ -17841,7 +17748,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "keras": [
@@ -17976,7 +17882,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "coin": [],
@@ -17987,7 +17892,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "qgraph": [
@@ -17999,7 +17903,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "homologene": [
@@ -18142,7 +18045,6 @@
         "ExperimentHub",
         "BiocFileCache",
         "AnnotationHub",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "available": [
@@ -18222,7 +18124,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "plsgenomics": [
@@ -18289,7 +18190,6 @@
         "AnnotationHub",
         "readr",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "vroom",
         "dbplyr"
     ],
@@ -18315,7 +18215,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "AnnotationHubData",
-        "interactiveDisplayBase",
         "GenomicFeatures",
         "rtracklayer",
         "OrganismDbi",
@@ -18458,14 +18357,12 @@
         "rtracklayer",
         "dbplyr",
         "AnnotationHub",
-        "GenomicAlignments",
-        "interactiveDisplayBase"
+        "GenomicAlignments"
     ],
     "octad.db": [
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "diceR": [
@@ -18548,7 +18445,6 @@
         "rtracklayer",
         "BiocFileCache",
         "AnnotationHub",
-        "interactiveDisplayBase",
         "dbplyr",
         "GenomicAlignments"
     ],
@@ -18579,7 +18475,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "phastCons100way.UCSC.hg19": [
@@ -18588,7 +18483,6 @@
         "rtracklayer",
         "BiocFileCache",
         "AnnotationHub",
-        "interactiveDisplayBase",
         "dbplyr",
         "GenomicAlignments"
     ],
@@ -18609,7 +18503,6 @@
     "rGenomeTracksData": [
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "valr": [
@@ -18636,7 +18529,6 @@
         "AnnotationHub",
         "ExperimentHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "TBX20BamSubset": [],
@@ -18657,7 +18549,6 @@
         "GenomicAlignments",
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "Rmagic": [],
@@ -18722,7 +18613,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "GSVAdata": [
@@ -18751,7 +18641,6 @@
         "ensembldb",
         "GenomicFeatures",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "rtracklayer",
         "biomaRt",
         "dbplyr",
@@ -18762,7 +18651,6 @@
         "AnnotationHub",
         "ExperimentHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "dbplyr"
     ],
     "hgu95a.db": [
@@ -18894,7 +18782,6 @@
         "org.Hs.eg.db",
         "AnnotationHub",
         "BiocFileCache",
-        "interactiveDisplayBase",
         "annotate",
         "dbplyr"
     ],
