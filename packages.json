@@ -196,7 +196,6 @@
     "BgeeCall": [
         "GenomicFeatures"
     ],
-    "BgeeDB": [],
     "bigmelon": [
         "wateRmelon",
         "minfi",
@@ -2902,9 +2901,7 @@
     "PSMatch": [
         "QFeatures"
     ],
-    "psygenet2r": [
-        "BgeeDB"
-    ],
+    "psygenet2r": [],
     "ptairMS": [
         "ggpubr",
         "rstatix",
@@ -3136,7 +3133,6 @@
         "ensembldb"
     ],
     "RITAN": [
-        "BgeeDB",
         "GenomicFeatures",
         "ensembldb",
         "EnsDb.Hsapiens.v86"
