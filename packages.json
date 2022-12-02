@@ -589,9 +589,7 @@
         "GenomicDataCommons",
         "biomaRt"
     ],
-    "CCPROMISE": [
-        "PROMISE"
-    ],
+    "CCPROMISE": [],
     "celda": [
         "scater",
         "scran"
@@ -3892,7 +3890,6 @@
         "caret",
         "biomaRt"
     ],
-    "PROMISE": [],
     "PROPS": [
         "sva"
     ],
