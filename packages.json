@@ -399,7 +399,6 @@
     "BioTIP": [
         "scran"
     ],
-    "biotmle": [],
     "biovizBase": [
         "GenomicFeatures",
         "VariantAnnotation",
