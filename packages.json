@@ -1398,7 +1398,6 @@
     ],
     "BUMHMM": [
         "devtools",
-        "pkgdown",
         "testthat",
         "waldo"
     ],
@@ -2499,7 +2498,6 @@
     "cogena": [
         "tidyr",
         "devtools",
-        "pkgdown",
         "testthat",
         "waldo"
     ],
@@ -5231,7 +5229,6 @@
     "gCrisprTools": [],
     "GCSscore": [
         "devtools",
-        "pkgdown",
         "testthat",
         "waldo"
     ],
@@ -6532,7 +6529,6 @@
     ],
     "INDEED": [
         "devtools",
-        "pkgdown",
         "testthat",
         "waldo"
     ],
@@ -7944,7 +7940,6 @@
         "minfi",
         "tidyr",
         "planet",
-        "pkgdown",
         "testthat",
         "AnnotationHub",
         "BiocFileCache",
@@ -8102,7 +8097,6 @@
     "MetID": [
         "devtools",
         "ChemmineR",
-        "pkgdown",
         "testthat",
         "waldo"
     ],
@@ -9163,7 +9157,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "pkgdown",
         "testthat",
         "HDO.db",
         "fgsea",
@@ -9964,7 +9957,6 @@
     ],
     "oppti": [
         "devtools",
-        "pkgdown",
         "testthat",
         "waldo"
     ],
@@ -10186,7 +10178,6 @@
         "shinyjs",
         "devtools",
         "geneplotter",
-        "pkgdown",
         "testthat",
         "annotate",
         "waldo"
@@ -11873,7 +11864,6 @@
         "DESeq2",
         "BiocStyle",
         "geneplotter",
-        "pkgdown",
         "testthat",
         "GenomicFeatures",
         "annotate",
@@ -13829,7 +13819,6 @@
         "Gviz",
         "BiocStyle",
         "geneplotter",
-        "pkgdown",
         "testthat",
         "biomaRt",
         "ensembldb",
@@ -15909,11 +15898,9 @@
         "GenomicAlignments"
     ],
     "devtools": [
-        "pkgdown",
         "testthat",
         "waldo"
     ],
-    "pkgdown": [],
     "ggtext": [],
     "vcfR": [],
     "sqldf": [],
@@ -16661,7 +16648,6 @@
     "gghalves": [],
     "anyLib": [
         "devtools",
-        "pkgdown",
         "testthat",
         "waldo"
     ],
