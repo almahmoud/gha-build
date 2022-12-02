@@ -2943,7 +2943,6 @@
         "bumphunter",
         "GenomicFeatures"
     ],
-    "Repitools": [],
     "ReportingTools": [
         "GOstats",
         "ggbio",
