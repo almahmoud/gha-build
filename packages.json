@@ -3762,8 +3762,7 @@
         "BSgenome",
         "readr",
         "rtracklayer",
-        "rainbow",
-        "hdrcde"
+        "rainbow"
     ],
     "fcoex": [
         "FCBF",
@@ -3939,16 +3938,14 @@
         "flowWorkspace",
         "fda",
         "fds",
-        "rainbow",
-        "hdrcde"
+        "rainbow"
     ],
     "flowVS": [
         "flowStats",
         "flowWorkspace",
         "fda",
         "fds",
-        "rainbow",
-        "hdrcde"
+        "rainbow"
     ],
     "flowWorkspace": [],
     "fmcsR": [],
@@ -3997,8 +3994,7 @@
     "FRGEpistasis": [
         "fda",
         "fds",
-        "rainbow",
-        "hdrcde"
+        "rainbow"
     ],
     "frma": [
         "oligo",
@@ -4007,8 +4003,7 @@
     "FunChIP": [
         "fda",
         "fds",
-        "rainbow",
-        "hdrcde"
+        "rainbow"
     ],
     "funtooNorm": [
         "minfi",
@@ -5428,8 +5423,7 @@
     "IWTomics": [
         "fda",
         "fds",
-        "rainbow",
-        "hdrcde"
+        "rainbow"
     ],
     "karyoploteR": [
         "regioneR",
@@ -8268,8 +8262,7 @@
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
-        "rainbow",
-        "hdrcde"
+        "rainbow"
     ],
     "pipeComp": [
         "Seurat",
@@ -11659,8 +11652,7 @@
         "geneplotter",
         "fds",
         "biomaRt",
-        "rainbow",
-        "hdrcde"
+        "rainbow"
     ],
     "uncoverappLib": [
         "Gviz",
@@ -12756,17 +12748,12 @@
     ],
     "fda": [
         "fds",
-        "rainbow",
-        "hdrcde"
+        "rainbow"
     ],
     "fds": [
-        "rainbow",
-        "hdrcde"
+        "rainbow"
     ],
-    "rainbow": [
-        "hdrcde"
-    ],
-    "hdrcde": [],
+    "rainbow": [],
     "SPARQL": [],
     "ggiraph": [],
     "RecordLinkage": [
