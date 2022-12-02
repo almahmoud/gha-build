@@ -13,7 +13,6 @@
         "gplots",
         "ROCR",
         "pamr",
-        "varSelRF",
         "GO.db",
         "AnnotationDbi",
         "annotate",
@@ -76,7 +75,6 @@
         "ROCR",
         "pamr",
         "glmnet",
-        "varSelRF",
         "Matrix",
         "foreach",
         "survival",
@@ -72403,7 +72401,6 @@
         "survival",
         "Matrix"
     ],
-    "varSelRF": [],
     "GO.db": [
         "AnnotationDbi",
         "Biobase",
