@@ -2389,7 +2389,6 @@
         "MAST",
         "Seurat",
         "ANCOMBC",
-        "NOISeq",
         "dearseq",
         "metagenomeSeq",
         "corncob",
@@ -6753,7 +6752,6 @@
     ],
     "CNVPanelizer": [
         "GenomicRanges",
-        "NOISeq",
         "Rsamtools",
         "exomeCopy",
         "ggplot2",
@@ -20639,9 +20637,7 @@
         "tibble",
         "pillar"
     ],
-    "metaSeq": [
-        "NOISeq"
-    ],
+    "metaSeq": [],
     "metaseqR2": [
         "DESeq2",
         "baySeq",
@@ -25102,7 +25098,6 @@
         "tibble",
         "tidyselect"
     ],
-    "NOISeq": [],
     "nondetects": [
         "arm",
         "HTqPCR",
