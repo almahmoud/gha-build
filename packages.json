@@ -5702,7 +5702,6 @@
         "GenomicRanges",
         "XVector"
     ],
-    "ClusterSignificance": [],
     "clustifyr": [
         "cowplot",
         "dplyr",
