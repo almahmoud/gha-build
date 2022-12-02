@@ -2124,9 +2124,7 @@
     "MetID": [
         "devtools"
     ],
-    "mfa": [
-        "ggmcmc"
-    ],
+    "mfa": [],
     "MGFR": [],
     "mia": [
         "TreeSummarizedExperiment",
@@ -4193,7 +4191,6 @@
         "GenomicFeatures",
         "OrganismDbi"
     ],
-    "ggmcmc": [],
     "HardyWeinberg": [],
     "BSgenome.Hsapiens.UCSC.hg18": [],
     "s4vd": [],
