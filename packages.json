@@ -1339,7 +1339,6 @@
         "Seurat",
         "ANCOMBC",
         "dearseq",
-        "metagenomeSeq",
         "corncob",
         "ggplot2",
         "ggdendro",
@@ -11336,7 +11335,6 @@
         "prodlim"
     ],
     "Maaslin2": [
-        "metagenomeSeq",
         "car",
         "dplyr",
         "ggplot2",
@@ -11357,7 +11355,6 @@
         "SummarizedExperiment",
         "WGCNA",
         "Maaslin2",
-        "metagenomeSeq",
         "car",
         "dplyr",
         "ggplot2",
@@ -12165,7 +12162,6 @@
         "tibble",
         "SummarizedExperiment"
     ],
-    "metagenomeSeq": [],
     "metaMS": [
         "CAMERA",
         "xcms",
@@ -12278,7 +12274,6 @@
         "tidyr"
     ],
     "metavizr": [
-        "metagenomeSeq",
         "epivizr",
         "epivizrData",
         "epivizrStandalone",
@@ -12805,12 +12800,10 @@
     "microbiomeDASim": [
         "ggplot2",
         "phyloseq",
-        "metagenomeSeq",
         "tibble"
     ],
     "microbiomeExplorer": [
         "shiny",
-        "metagenomeSeq",
         "shinyjs",
         "shinydashboard",
         "shinycssloaders",
@@ -12855,7 +12848,6 @@
         "tidyr",
         "patchwork",
         "ggsignif",
-        "metagenomeSeq",
         "DESeq2",
         "ANCOMBC",
         "caret",
@@ -13512,7 +13504,6 @@
         "tidyr",
         "cowplot",
         "tibble",
-        "metagenomeSeq",
         "car",
         "lmerTest",
         "glmmTMB",
