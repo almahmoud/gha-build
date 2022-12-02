@@ -2584,7 +2584,6 @@
     "VariantTools": [
         "VariantAnnotation"
     ],
-    "VaSP": [],
     "VCFArray": [
         "VariantAnnotation",
         "GenomicFiles"
