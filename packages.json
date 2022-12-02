@@ -42128,7 +42128,6 @@
         "highr",
         "bit64"
     ],
-    "ompBAM": [],
     "oncomix": [
         "ggplot2",
         "ggrepel",
@@ -58965,7 +58964,6 @@
     ],
     "SpliceWiz": [
         "NxtIRFdata",
-        "ompBAM",
         "fst",
         "ggplot2",
         "AnnotationHub",
