@@ -5392,8 +5392,7 @@
         "tidyr"
     ],
     "MBQN": [
-        "BiocFileCache",
-        "PairedData"
+        "BiocFileCache"
     ],
     "MCbiclust": [
         "GO.db",
@@ -11886,7 +11885,6 @@
         "tidyr",
         "readr"
     ],
-    "PairedData": [],
     "SmartSVA": [
         "sva",
         "isva",
