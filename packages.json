@@ -6325,7 +6325,6 @@
         "lifecycle"
     ],
     "BiFET": [
-        "poibin",
         "GenomicRanges",
         "S4Vectors",
         "IRanges",
@@ -30485,7 +30484,6 @@
         "Biostrings",
         "glmnet",
         "iterators",
-        "poibin",
         "speedglm",
         "fgsea",
         "XVector",
@@ -105899,7 +105897,6 @@
         "datawizard"
     ],
     "datawizard": [],
-    "poibin": [],
     "LIM": [
         "limSolve",
         "diagram"
