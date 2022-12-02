@@ -2267,7 +2267,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "treeio"
     ],
-    "methylInheritance": [],
     "methylPipe": [
         "Gviz",
         "GenomicFeatures",
