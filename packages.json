@@ -6469,7 +6469,6 @@
         "purrr",
         "ellipsis"
     ],
-    "BufferedMatrixMethods": [],
     "bugsigdbr": [
         "BiocFileCache",
         "vroom",
