@@ -38460,7 +38460,6 @@
         "R.utils",
         "Rhtslib",
         "rebus.datetimes",
-        "rebus.numbers",
         "bbmle",
         "Biobase",
         "RCurl",
@@ -82289,11 +82288,9 @@
         "zoo"
     ],
     "rebus": [
-        "rebus.datetimes",
-        "rebus.numbers"
+        "rebus.datetimes"
     ],
     "rebus.datetimes": [],
-    "rebus.numbers": [],
     "mhsmm": [],
     "GeneNet": [],
     "ggmcmc": [
