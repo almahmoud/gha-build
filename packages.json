@@ -40819,7 +40819,6 @@
         "MESS",
         "lfda",
         "geepack",
-        "geeM",
         "ggplot2",
         "ggformula",
         "glmnet",
@@ -51861,7 +51860,6 @@
     ],
     "MESS": [
         "geepack",
-        "geeM",
         "ggplot2",
         "ggformula",
         "glmnet",
@@ -51892,7 +51890,6 @@
         "rARPACK",
         "RSpectra"
     ],
-    "geeM": [],
     "ggformula": [
         "ggplot2",
         "ggstance",
