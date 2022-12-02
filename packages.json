@@ -4451,7 +4451,6 @@
     "msImpute": [
         "scran"
     ],
-    "mslp": [],
     "msmsEDA": [
         "MSnbase"
     ],
