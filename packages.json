@@ -42814,7 +42814,6 @@
         "promises",
         "openssl",
         "knitr",
-        "webutils",
         "systemfonts",
         "futile.logger",
         "tidyselect",
@@ -72533,12 +72532,10 @@
     "opencpu": [
         "httpuv",
         "knitr",
-        "webutils",
         "openssl",
         "promises",
         "highr"
     ],
-    "webutils": [],
     "magicaxis": [],
     "PMCMRplus": [
         "Rmpfr",
