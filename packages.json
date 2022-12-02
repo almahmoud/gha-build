@@ -606,8 +606,7 @@
         "biomaRt"
     ],
     "BLMA": [
-        "PADOG",
-        "hgu133plus2.db"
+        "PADOG"
     ],
     "BloodGen3Module": [
         "ExperimentHub",
@@ -1950,7 +1949,6 @@
         "biomaRt",
         "ArrayExpress",
         "GEOquery",
-        "hgu133plus2.db",
         "oligo",
         "readr"
     ],
@@ -2040,8 +2038,7 @@
         "PADOG",
         "GSVA",
         "metap",
-        "plotly",
-        "hgu133plus2.db"
+        "plotly"
     ],
     "ELMER": [
         "GenomicFeatures",
@@ -3717,7 +3714,6 @@
     ],
     "maPredictDSC": [
         "caret",
-        "hgu133plus2.db",
         "recipes"
     ],
     "maser": [
@@ -5124,9 +5120,7 @@
         "broom",
         "testthat"
     ],
-    "PADOG": [
-        "hgu133plus2.db"
-    ],
+    "PADOG": [],
     "pageRank": [
         "motifmatchr",
         "TFBSTools",
@@ -7938,7 +7932,6 @@
         "DESeq2",
         "biomaRt"
     ],
-    "hgu133plus2.db": [],
     "GenomicState": [
         "AnnotationHub",
         "GenomicFeatures",
