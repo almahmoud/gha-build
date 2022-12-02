@@ -8803,7 +8803,6 @@
     ],
     "CellTrails": [
         "SingleCellExperiment",
-        "cba",
         "dendextend",
         "EnvStats",
         "ggplot2",
@@ -17529,9 +17528,7 @@
         "DelayedArray",
         "futile.logger"
     ],
-    "DiffLogo": [
-        "cba"
-    ],
+    "DiffLogo": [],
     "diffuStats": [
         "Matrix",
         "expm",
@@ -74461,7 +74458,6 @@
         "Matrix"
     ],
     "magic": [],
-    "cba": [],
     "EnvStats": [
         "ggplot2",
         "lifecycle",
