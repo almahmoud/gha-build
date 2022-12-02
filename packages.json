@@ -217,9 +217,7 @@
     "NBSplice": [
         "mppa"
     ],
-    "netZooR": [
-        "yarn"
-    ],
+    "netZooR": [],
     "NormalyzerDE": [],
     "ODER": [
         "dasper",
@@ -355,7 +353,6 @@
     "VAExprs": [],
     "wateRmelon": [],
     "YAPSA": [],
-    "yarn": [],
     "zenith": [],
     "ggpubr": [],
     "mGSZ": [],
