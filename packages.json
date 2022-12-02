@@ -1283,7 +1283,6 @@
         "RTCGAToolbox",
         "TCGAutils"
     ],
-    "LRcell": [],
     "lumi": [
         "methylumi",
         "FDb.InfiniumMethylation.hg19",
