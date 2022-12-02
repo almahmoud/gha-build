@@ -74,9 +74,7 @@
     "scRecover": [
         "Rmagic"
     ],
-    "signeR": [
-        "survivalAnalysis"
-    ],
+    "signeR": [],
     "signifinder": [],
     "sojourner": [
         "sampSurf"
@@ -106,7 +104,6 @@
     "SPARQL": [],
     "mppa": [],
     "Rmagic": [],
-    "survivalAnalysis": [],
     "sampSurf": [],
     "GenKern": [],
     "vbsr": []
