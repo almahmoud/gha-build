@@ -17,7 +17,6 @@
     "affycoretools": [
         "GOstats",
         "ReportingTools",
-        "Glimma",
         "ggbio",
         "biovizBase",
         "VariantAnnotation",
@@ -29,7 +28,6 @@
         "affycoretools",
         "GOstats",
         "ReportingTools",
-        "Glimma",
         "ggbio",
         "biovizBase",
         "VariantAnnotation",
@@ -1508,7 +1506,6 @@
         "ggtree",
         "treeio"
     ],
-    "Glimma": [],
     "glmSparseNet": [
         "survminer",
         "ggpubr",
