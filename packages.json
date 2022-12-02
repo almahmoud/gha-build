@@ -2193,7 +2193,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Rsamtools",
-        "xgboost",
         "Biostrings",
         "rtracklayer",
         "XVector",
@@ -2539,7 +2538,6 @@
         "scran",
         "SummarizedExperiment",
         "DirichletReg",
-        "xgboost",
         "ggplot2",
         "BiocFileCache",
         "BiocSingular",
@@ -5402,7 +5400,6 @@
     "ccmap": [
         "AnnotationDbi",
         "doParallel",
-        "xgboost",
         "lsa",
         "RSQLite",
         "KEGGREST",
@@ -14964,7 +14961,6 @@
         "BSgenome",
         "BiocParallel",
         "GenomicAlignments",
-        "xgboost",
         "basilisk.utils",
         "XVector",
         "doParallel",
@@ -17616,7 +17612,6 @@
     ],
     "GNET2": [
         "ggplot2",
-        "xgboost",
         "DiagrammeR",
         "SummarizedExperiment",
         "dplyr",
@@ -19959,8 +19954,7 @@
     ],
     "infinityFlow": [
         "raster",
-        "uwot",
-        "xgboost"
+        "uwot"
     ],
     "InPAS": [
         "AnnotationDbi",
@@ -37420,7 +37414,6 @@
     ],
     "SCATE": [
         "splines2",
-        "xgboost",
         "SCATEData",
         "GenomicAlignments",
         "GenomicRanges",
@@ -37782,7 +37775,6 @@
         "scuttle",
         "bluster",
         "DelayedArray",
-        "xgboost",
         "GenomicRanges",
         "GenomeInfoDb",
         "Rsamtools",
@@ -37875,7 +37867,6 @@
     "scds": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "xgboost",
         "dplyr",
         "pROC",
         "tibble",
@@ -40219,7 +40210,6 @@
         "pheatmap",
         "ggrastr",
         "bluster",
-        "xgboost",
         "pROC",
         "M3Drop",
         "ruv",
@@ -44714,7 +44704,6 @@
         "glmnet",
         "MotifDb",
         "RSQLite",
-        "xgboost",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg38",
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -48203,7 +48192,6 @@
         "waldo",
         "rematch2"
     ],
-    "xgboost": [],
     "pRolocdata": [
         "MSnbase",
         "mzR",
