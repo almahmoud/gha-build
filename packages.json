@@ -2308,7 +2308,6 @@
         "MultiAssayExperiment",
         "biomaRt"
     ],
-    "fishpond": [],
     "flagme": [
         "xcms",
         "CAMERA"
@@ -6235,7 +6234,6 @@
         "sva",
         "celda",
         "DropletUtils",
-        "fishpond",
         "zinbwave",
         "scRNAseq",
         "TENxPBMCData",
