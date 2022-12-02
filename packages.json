@@ -489,7 +489,6 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "BEARscc": [],
     "BEAT": [
         "ShortRead",
         "BSgenome",
