@@ -214,15 +214,13 @@
     "categoryCompare": [],
     "cbaf": [
         "cBioPortalData",
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "CBEA": [
         "TreeSummarizedExperiment"
     ],
     "cBioPortalData": [
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "CelliD": [],
     "cellmigRation": [
@@ -1119,8 +1117,7 @@
     ],
     "LowMACA": [
         "cBioPortalData",
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "lumi": [
         "methylumi",
@@ -1972,9 +1969,7 @@
         "pbkrtest",
         "lme4"
     ],
-    "RTCGAToolbox": [
-        "TCGAutils"
-    ],
+    "RTCGAToolbox": [],
     "RTN": [
         "car",
         "pbkrtest",
@@ -2268,16 +2263,13 @@
         "pbkrtest",
         "lme4"
     ],
-    "TCGAutils": [],
     "TDARACNE": [
         "GenKern"
     ],
     "tenXplore": [
         "restfulSE"
     ],
-    "terraTCGAdata": [
-        "TCGAutils"
-    ],
+    "terraTCGAdata": [],
     "TFEA.ChIP": [],
     "TFHAZ": [],
     "timeOmics": [
