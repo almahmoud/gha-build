@@ -531,16 +531,10 @@
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
         "biovizBase"
     ],
-    "epivizr": [
-        "epivizrData"
-    ],
-    "epivizrChart": [
-        "epivizrData"
-    ],
-    "epivizrData": [],
+    "epivizr": [],
+    "epivizrChart": [],
     "epivizrStandalone": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "erma": [
         "Homo.sapiens",
@@ -998,7 +992,6 @@
     "metaseqR2": [],
     "metavizr": [
         "epivizr",
-        "epivizrData",
         "epivizrStandalone"
     ],
     "MethCP": [],
@@ -1648,8 +1641,7 @@
         "schex"
     ],
     "scTreeViz": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "segmenter": [
         "ChIPseeker",
