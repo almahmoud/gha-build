@@ -80375,7 +80375,6 @@
         "WGCNA",
         "flashClust",
         "dynamicTreeCut",
-        "GFA",
         "igraph",
         "linkcomm",
         "MCL",
@@ -166344,7 +166343,6 @@
         "zlibbioc",
         "sys"
     ],
-    "GFA": [],
     "linkcomm": [
         "igraph",
         "RColorBrewer",
