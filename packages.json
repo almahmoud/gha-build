@@ -3581,7 +3581,6 @@
         "tidyselect",
         "rematch2"
     ],
-    "bioDist": [],
     "biomaRt": [
         "AnnotationDbi",
         "progress",
@@ -6235,7 +6234,6 @@
         "shiny",
         "plotly",
         "pheatmap",
-        "bioDist",
         "dendextend",
         "cowplot",
         "SummarizedExperiment",
@@ -31237,7 +31235,6 @@
     ],
     "PhyloProfile": [
         "ape",
-        "bioDist",
         "BiocStyle",
         "Biostrings",
         "colourpicker",
