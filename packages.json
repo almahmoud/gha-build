@@ -1352,7 +1352,6 @@
         "shinyjs",
         "tibble",
         "BiocSingular",
-        "bluster",
         "GenomicRanges"
     ],
     "BASiCStan": [
@@ -1368,7 +1367,6 @@
         "ggplot2",
         "viridis",
         "BiocSingular",
-        "bluster",
         "GenomicRanges",
         "colourpicker",
         "miniUI",
@@ -1429,7 +1427,6 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "bluster",
         "GenomicRanges"
     ],
     "bayNorm": [
@@ -2153,8 +2150,7 @@
         "SingleCellExperiment",
         "scuttle",
         "SummarizedExperiment",
-        "BiocSingular",
-        "bluster"
+        "BiocSingular"
     ],
     "biotmle": [
         "dplyr",
@@ -2318,7 +2314,6 @@
         "shiny",
         "Biostrings"
     ],
-    "bluster": [],
     "bnbc": [
         "SummarizedExperiment",
         "GenomicRanges",
@@ -3073,7 +3068,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrastr",
-        "bluster",
         "GenomicRanges"
     ],
     "CellaRepertorium": [
@@ -3870,7 +3864,6 @@
         "GenomicAlignments",
         "ggbeeswarm",
         "ggrastr",
-        "bluster",
         "fresh",
         "waiter"
     ],
@@ -4054,7 +4047,6 @@
         "tidygraph",
         "scuttle",
         "BiocSingular",
-        "bluster",
         "GenomicRanges",
         "tidyr"
     ],
@@ -4741,7 +4733,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrastr",
-        "bluster",
         "GenomicRanges",
         "HDO.db",
         "fgsea",
@@ -6607,7 +6598,6 @@
         "Seurat",
         "scran",
         "scuttle",
-        "bluster",
         "cowplot",
         "ggplot2",
         "ggrepel",
@@ -8684,7 +8674,6 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "bluster",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -11889,7 +11878,6 @@
         "BiocSingular",
         "ggbeeswarm",
         "ggrastr",
-        "bluster",
         "ggridges",
         "miniUI",
         "patchwork",
@@ -15503,7 +15491,6 @@
         "scuttle",
         "SummarizedExperiment",
         "BiocSingular",
-        "bluster",
         "GenomicRanges"
     ],
     "mslp": [
@@ -15964,7 +15951,6 @@
         "scuttle",
         "scran",
         "batchelor",
-        "bluster",
         "GenomicRanges"
     ],
     "MungeSumstats": [
@@ -18250,7 +18236,6 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "bluster",
         "ggridges",
         "miniUI",
         "patchwork",
@@ -21817,7 +21802,6 @@
         "scran",
         "scater",
         "scuttle",
-        "bluster",
         "GenomicRanges",
         "Rsamtools",
         "rtracklayer",
@@ -21844,7 +21828,6 @@
         "tibble",
         "scuttle",
         "BiocSingular",
-        "bluster",
         "GenomicRanges",
         "nloptr",
         "waldo",
@@ -22157,7 +22140,6 @@
         "scuttle",
         "SummarizedExperiment",
         "BiocSingular",
-        "bluster",
         "GenomicRanges"
     ],
     "scReClassify": [
@@ -22373,7 +22355,6 @@
         "BiocSingular",
         "ggbeeswarm",
         "ggrastr",
-        "bluster",
         "cowplot",
         "ggridges",
         "miniUI",
@@ -23110,7 +23091,6 @@
         "scuttle",
         "SummarizedExperiment",
         "BiocSingular",
-        "bluster",
         "GenomicRanges"
     ],
     "singleCellTK": [
@@ -23191,7 +23171,6 @@
         "babelgene",
         "ggbeeswarm",
         "ggrastr",
-        "bluster",
         "M3Drop",
         "ruv",
         "ggridges",
@@ -23514,7 +23493,6 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "bluster",
         "cowplot",
         "ggridges",
         "miniUI",
@@ -23685,7 +23663,6 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "bluster",
         "GenomicRanges",
         "Hmisc",
         "GO.db",
@@ -26458,7 +26435,6 @@
         "Biostrings"
     ],
     "Voyager": [
-        "bluster",
         "ggnewscale",
         "ggplot2",
         "patchwork",
