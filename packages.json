@@ -32,7 +32,6 @@
         "ggplot2",
         "flexdashboard",
         "rmarkdown",
-        "vegan",
         "ggcorrplot",
         "ggdendro",
         "plotly",
@@ -459,7 +458,6 @@
         "viridis",
         "MultiAssayExperiment",
         "decontam",
-        "vegan",
         "Biostrings",
         "DECIPHER",
         "scuttle",
@@ -498,7 +496,6 @@
         "caret",
         "plotly",
         "ggplot2",
-        "vegan",
         "dplyr",
         "MultiAssayExperiment",
         "SummarizedExperiment",
@@ -1366,7 +1363,6 @@
         "SummarizedExperiment",
         "tibble",
         "tidyr",
-        "vegan",
         "viridis",
         "tidyselect",
         "GenomicRanges"
@@ -1529,7 +1525,6 @@
         "Biostrings"
     ],
     "BDMMAcorrect": [
-        "vegan",
         "ggplot2",
         "SummarizedExperiment",
         "tibble",
@@ -1610,7 +1605,6 @@
         "geneplotter",
         "progress",
         "Biostrings",
-        "vegan",
         "ggrepel",
         "miniUI",
         "plotly",
@@ -2445,7 +2439,6 @@
         "AnnotationDbi",
         "annotate",
         "tibble",
-        "vegan",
         "ggdendro",
         "RSQLite",
         "KEGGREST",
@@ -2886,7 +2879,6 @@
         "Rsamtools",
         "rtracklayer",
         "SummarizedExperiment",
-        "vegan",
         "Biostrings",
         "tibble",
         "tidyr",
@@ -2954,7 +2946,6 @@
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
-        "vegan",
         "RSQLite",
         "KEGGREST",
         "ggplotify",
@@ -4746,7 +4737,6 @@
         "ggplot2",
         "phyloseq",
         "cobs",
-        "vegan",
         "SummarizedExperiment",
         "tibble",
         "Biostrings",
@@ -6132,7 +6122,6 @@
         "gargle",
         "cellranger",
         "rematch2",
-        "vegan",
         "ggdendro",
         "multcomp",
         "vroom",
@@ -8129,7 +8118,6 @@
         "Linnorm",
         "ggplot2",
         "tibble",
-        "vegan",
         "ggdendro"
     ],
     "epistack": [
@@ -9050,7 +9038,6 @@
         "tidyselect"
     ],
     "flowCHIC": [
-        "vegan",
         "ggplot2",
         "tibble"
     ],
@@ -9079,9 +9066,7 @@
         "waldo",
         "rematch2"
     ],
-    "flowCyBar": [
-        "vegan"
-    ],
+    "flowCyBar": [],
     "flowDensity": [
         "flowViz",
         "car",
@@ -9362,7 +9347,6 @@
         "ggplot2",
         "ggpubr",
         "SummarizedExperiment",
-        "vegan",
         "DataVisualizations",
         "tibble",
         "ggrepel",
@@ -10844,7 +10828,6 @@
     "GPA": [
         "ggplot2",
         "ggrepel",
-        "vegan",
         "shiny",
         "shinyBS",
         "tibble"
@@ -12925,7 +12908,6 @@
     "LinkHD": [
         "ggplot2",
         "ggpubr",
-        "vegan",
         "rio",
         "MultiAssayExperiment",
         "tibble",
@@ -12956,7 +12938,6 @@
         "rematch2"
     ],
     "Linnorm": [
-        "vegan",
         "ggplot2",
         "ggdendro",
         "tibble"
@@ -13225,7 +13206,6 @@
         "metagenomeSeq",
         "car",
         "dplyr",
-        "vegan",
         "ggplot2",
         "lmerTest",
         "glmmTMB",
@@ -13248,7 +13228,6 @@
         "metagenomeSeq",
         "car",
         "dplyr",
-        "vegan",
         "ggplot2",
         "lmerTest",
         "glmmTMB",
@@ -13324,7 +13303,6 @@
         "GenomicFeatures",
         "dplyr",
         "tibble",
-        "vegan",
         "RSQLite",
         "KEGGREST",
         "tidyselect",
@@ -13625,7 +13603,6 @@
         "sva",
         "tibble",
         "tidyr",
-        "vegan",
         "tidyselect",
         "nloptr",
         "Biostrings",
@@ -13761,7 +13738,6 @@
     "MEAL": [
         "MultiDataSet",
         "GenomicRanges",
-        "vegan",
         "minfi",
         "ggplot2",
         "Gviz",
@@ -14302,7 +14278,6 @@
         "epivizr",
         "epivizrData",
         "epivizrStandalone",
-        "vegan",
         "phyloseq",
         "GenomicRanges",
         "bumphunter",
@@ -14822,7 +14797,6 @@
         "TreeSummarizedExperiment",
         "MultiAssayExperiment",
         "decontam",
-        "vegan",
         "Biostrings",
         "DECIPHER",
         "scuttle",
@@ -14879,7 +14853,6 @@
         "SingleCellExperiment",
         "MultiAssayExperiment",
         "decontam",
-        "vegan",
         "Biostrings",
         "DECIPHER",
         "scuttle",
@@ -14898,7 +14871,6 @@
         "dplyr",
         "tibble",
         "tidyr",
-        "vegan",
         "tidyselect"
     ],
     "microbiomeDASim": [
@@ -14906,8 +14878,7 @@
         "phyloseq",
         "metagenomeSeq",
         "tibble",
-        "Biostrings",
-        "vegan"
+        "Biostrings"
     ],
     "microbiomeExplorer": [
         "shiny",
@@ -14921,7 +14892,6 @@
         "dplyr",
         "tidyr",
         "readr",
-        "vegan",
         "heatmaply",
         "car",
         "broom",
@@ -14968,7 +14938,6 @@
         "caret",
         "ALDEx2",
         "plotROC",
-        "vegan",
         "zCompositions",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -15061,7 +15030,6 @@
         "dplyr",
         "Biostrings",
         "ggrepel",
-        "vegan",
         "ggtree",
         "tidytree",
         "tibble",
@@ -15109,7 +15077,6 @@
         "GOstats",
         "GSEABase",
         "org.Hs.eg.db",
-        "vegan",
         "RSQLite",
         "KEGGREST",
         "tibble",
@@ -15707,7 +15674,6 @@
         "tidyselect",
         "metagenomeSeq",
         "car",
-        "vegan",
         "lmerTest",
         "glmmTMB",
         "cplm",
@@ -15723,7 +15689,6 @@
         "Linnorm",
         "ggplot2",
         "tibble",
-        "vegan",
         "ggdendro"
     ],
     "moanin": [
@@ -17088,7 +17053,6 @@
         "Linnorm",
         "ggplot2",
         "tibble",
-        "vegan",
         "ggdendro"
     ],
     "NetActivity": [
@@ -17268,7 +17232,6 @@
         "AnnotationDbi",
         "GO.db",
         "org.Hs.eg.db",
-        "vegan",
         "ggplot2",
         "ggdendro",
         "tidyr",
@@ -17685,7 +17648,6 @@
         "ALDEx2",
         "rmarkdown",
         "shiny",
-        "vegan",
         "zCompositions",
         "GenomicRanges",
         "SummarizedExperiment"
@@ -18153,7 +18115,6 @@
     ],
     "OTUbase": [
         "ShortRead",
-        "vegan",
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
@@ -18395,7 +18356,6 @@
         "BiocStyle",
         "DESeq2",
         "plotly",
-        "vegan",
         "shinyjs",
         "devtools",
         "bookdown",
@@ -18609,8 +18569,7 @@
         "ggplot2",
         "phyloseq",
         "tibble",
-        "Biostrings",
-        "vegan"
+        "Biostrings"
     ],
     "periodicDNA": [
         "Biostrings",
@@ -18864,7 +18823,6 @@
     "phyloseq": [
         "Biostrings",
         "ggplot2",
-        "vegan",
         "tibble"
     ],
     "Pi": [
@@ -19175,7 +19133,6 @@
         "SummarizedExperiment",
         "tibble",
         "tidyr",
-        "vegan",
         "recipes",
         "GenomicRanges",
         "geneplotter",
@@ -19198,9 +19155,7 @@
         "KEGGREST",
         "Biostrings"
     ],
-    "powerTCR": [
-        "vegan"
-    ],
+    "powerTCR": [],
     "POWSC": [
         "SingleCellExperiment",
         "MAST",
@@ -19266,7 +19221,6 @@
         "phyloseq",
         "bookdown",
         "ggplot2",
-        "vegan",
         "tibble"
     ],
     "preciseTAD": [
@@ -20497,7 +20451,6 @@
         "phyloseq",
         "tibble",
         "Biostrings",
-        "vegan",
         "quantmod"
     ],
     "Rcpi": [
@@ -20629,8 +20582,7 @@
         "phyloseq",
         "ggplot2",
         "tibble",
-        "Biostrings",
-        "vegan"
+        "Biostrings"
     ],
     "recount": [
         "SummarizedExperiment",
@@ -21974,7 +21926,6 @@
         "bookdown",
         "Biostrings",
         "ggplot2",
-        "vegan",
         "tibble"
     ],
     "rprimer": [
@@ -23101,7 +23052,6 @@
         "ggplot2",
         "dplyr",
         "ggalluvial",
-        "vegan",
         "powerTCR",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -23730,7 +23680,6 @@
         "lme4",
         "ggplot2",
         "Biostrings",
-        "vegan",
         "tibble",
         "nloptr",
         "testthat",
@@ -23995,7 +23944,6 @@
         "tibble",
         "tidyselect",
         "Biostrings",
-        "vegan",
         "GenomicRanges"
     ],
     "SimFFPE": [
@@ -25020,7 +24968,6 @@
         "ggplot2",
         "viridis",
         "Biostrings",
-        "vegan",
         "SummarizedExperiment",
         "GenomicRanges",
         "GO.db",
@@ -25618,7 +25565,6 @@
         "tidyr",
         "ggplot2",
         "ggforce",
-        "vegan",
         "gstat",
         "SpatialExtremes",
         "ggrepel",
@@ -28017,7 +27963,6 @@
         "shiny"
     ],
     "rmarkdown": [],
-    "vegan": [],
     "ggcorrplot": [
         "ggplot2",
         "tibble"
@@ -28318,7 +28263,6 @@
         "tibble"
     ],
     "GUniFrac": [
-        "vegan",
         "ggplot2",
         "ggrepel",
         "tibble"
@@ -28884,8 +28828,7 @@
         "phyloseq",
         "tibble",
         "tidyselect",
-        "Biostrings",
-        "vegan"
+        "Biostrings"
     ],
     "tidytext": [
         "dplyr",
@@ -29253,7 +29196,6 @@
     "vcfR": [
         "dplyr",
         "tibble",
-        "vegan",
         "tidyselect"
     ],
     "sqldf": [
@@ -30225,9 +30167,7 @@
         "DataVisualizations",
         "tibble"
     ],
-    "analogue": [
-        "vegan"
-    ],
+    "analogue": [],
     "DataVisualizations": [
         "ggplot2",
         "tibble"
