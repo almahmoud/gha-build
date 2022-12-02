@@ -1283,7 +1283,6 @@
     ],
     "AUCell": [
         "GSEABase",
-        "mixtools",
         "shiny",
         "SummarizedExperiment",
         "annotate",
@@ -1428,7 +1427,6 @@
         "MLInterfaces",
         "caret",
         "dendextend",
-        "mixtools",
         "biomaRt",
         "AnnotationDbi",
         "progress",
@@ -3328,7 +3326,6 @@
     "CBEA": [
         "BiocSet",
         "dplyr",
-        "mixtools",
         "SummarizedExperiment",
         "tibble",
         "TreeSummarizedExperiment",
@@ -4516,7 +4513,6 @@
     "CiteFuse": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "mixtools",
         "cowplot",
         "ggplot2",
         "propr",
@@ -5646,7 +5642,6 @@
         "RSQLite",
         "KEGGREST",
         "vroom",
-        "mixtools",
         "Biostrings",
         "blob"
     ],
@@ -7356,8 +7351,7 @@
         "dbplyr"
     ],
     "diggit": [
-        "viper",
-        "mixtools"
+        "viper"
     ],
     "Dino": [
         "BiocSingular",
@@ -7861,7 +7855,6 @@
         "lme4",
         "annotate",
         "TH.data",
-        "mixtools",
         "KEGGREST",
         "dbplyr",
         "shiny",
@@ -10259,7 +10252,6 @@
     "gemini": [
         "dplyr",
         "ggplot2",
-        "mixtools",
         "tibble",
         "tidyselect"
     ],
@@ -10645,7 +10637,6 @@
         "tidyselect"
     ],
     "genomicInstability": [
-        "mixtools",
         "SummarizedExperiment",
         "GenomicRanges"
     ],
@@ -13169,7 +13160,6 @@
         "clusterProfiler",
         "ggpubr",
         "ggraph",
-        "mixtools",
         "scater",
         "scran",
         "shiny",
@@ -16958,7 +16948,6 @@
         "GenomicRanges",
         "Biostrings",
         "GenomicAlignments",
-        "mixtools",
         "rtracklayer",
         "Rsamtools",
         "SummarizedExperiment"
@@ -20834,7 +20823,6 @@
         "MLInterfaces",
         "caret",
         "dendextend",
-        "mixtools",
         "ggplot2",
         "biomaRt",
         "AnnotationDbi",
@@ -20886,7 +20874,6 @@
         "MLInterfaces",
         "caret",
         "dendextend",
-        "mixtools",
         "biomaRt",
         "fresh",
         "waiter",
@@ -21822,7 +21809,6 @@
         "GSEABase",
         "SummarizedExperiment",
         "tidyselect",
-        "mixtools",
         "shiny",
         "annotate",
         "AnnotationDbi",
@@ -23582,7 +23568,6 @@
     ],
     "RTN": [
         "viper",
-        "mixtools",
         "SummarizedExperiment",
         "car",
         "pbkrtest",
@@ -23603,7 +23588,6 @@
     "RTNduals": [
         "RTN",
         "viper",
-        "mixtools",
         "SummarizedExperiment",
         "car",
         "pbkrtest",
@@ -23628,7 +23612,6 @@
         "ggplot2",
         "tibble",
         "viper",
-        "mixtools",
         "SummarizedExperiment",
         "car",
         "pbkrtest",
@@ -24113,7 +24096,6 @@
     ],
     "scClassify": [
         "ggraph",
-        "mixtools",
         "ggplot2",
         "Cepo",
         "GSEABase",
@@ -24432,7 +24414,6 @@
     ],
     "scone": [
         "SummarizedExperiment",
-        "mixtools",
         "RUVSeq",
         "rARPACK",
         "SingleCellExperiment",
@@ -25991,7 +25972,6 @@
         "ggplot2",
         "dplyr",
         "EBImage",
-        "mixtools",
         "sampSurf",
         "shiny",
         "shinyjs",
@@ -29267,9 +29247,7 @@
         "Biostrings",
         "blob"
     ],
-    "viper": [
-        "mixtools"
-    ],
+    "viper": [],
     "ViSEAGO": [
         "AnnotationDbi",
         "AnnotationForge",
@@ -29444,7 +29422,6 @@
         "apeglm",
         "ashr",
         "GreyListChIP",
-        "mixtools",
         "RSQLite",
         "progress",
         "BiocFileCache",
@@ -30671,7 +30648,6 @@
         "Biostrings",
         "blob"
     ],
-    "mixtools": [],
     "assertive": [
         "assertive.data.us"
     ],
@@ -31810,8 +31786,7 @@
         "dplyr",
         "viper",
         "tibble",
-        "tidyselect",
-        "mixtools"
+        "tidyselect"
     ],
     "crisprScoreData": [
         "ExperimentHub",
