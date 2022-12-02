@@ -3,12 +3,9 @@
         "ggpubr",
         "rstatix"
     ],
-    "affycoretools": [
-        "ReportingTools"
-    ],
+    "affycoretools": [],
     "AgiMicroRna": [
-        "affycoretools",
-        "ReportingTools"
+        "affycoretools"
     ],
     "ArrayExpressHTS": [],
     "arrayMvout": [
@@ -440,7 +437,6 @@
     "R3CPET": [],
     "recount": [],
     "regionReport": [],
-    "ReportingTools": [],
     "rexposome": [
         "FactoMineR"
     ],
