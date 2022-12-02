@@ -5051,7 +5051,6 @@
     ],
     "tLOH": [
         "VariantAnnotation",
-        "bestNormalize",
         "naniar",
         "visdat",
         "GenomicFeatures",
@@ -5848,7 +5847,6 @@
         "labelled"
     ],
     "GenKern": [],
-    "bestNormalize": [],
     "naniar": [
         "visdat"
     ],
