@@ -38,7 +38,6 @@
         "VariantAnnotation",
         "GenomicFeatures",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "biomaRt"
     ],
@@ -56,16 +55,13 @@
         "VariantAnnotation",
         "GenomicFeatures",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "biomaRt"
     ],
     "airpart": [
         "scater"
     ],
-    "alevinQC": [
-        "GGally"
-    ],
+    "alevinQC": [],
     "AllelicImbalance": [
         "BSgenome",
         "VariantAnnotation",
@@ -376,7 +372,6 @@
         "biomaRt"
     ],
     "bigPint": [
-        "GGally",
         "plotly"
     ],
     "BindingSiteFinder": [
@@ -541,7 +536,6 @@
         "VariantAnnotation",
         "GenomicFeatures",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "biomaRt"
     ],
@@ -565,7 +559,6 @@
         "VariantAnnotation",
         "biovizBase",
         "OrganismDbi",
-        "GGally",
         "ensembldb"
     ],
     "BrainSABER": [
@@ -616,7 +609,6 @@
         "ensembldb",
         "BSgenome",
         "OrganismDbi",
-        "GGally",
         "biomaRt"
     ],
     "CAGEfightR": [
@@ -639,7 +631,6 @@
         "VariantAnnotation",
         "GenomicFeatures",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "biomaRt"
     ],
@@ -771,7 +762,6 @@
         "clusterProfiler",
         "DESeq2",
         "GenomicTools",
-        "GGally",
         "ggpubr",
         "DOSE",
         "enrichplot",
@@ -980,7 +970,6 @@
         "xcms"
     ],
     "CluMSID": [
-        "GGally",
         "plotly"
     ],
     "clusterExperiment": [
@@ -1319,7 +1308,6 @@
     ],
     "cyanoFilter": [
         "flowDensity",
-        "GGally",
         "car",
         "RFOC",
         "pbkrtest",
@@ -1517,7 +1505,6 @@
         "BSgenome",
         "VariantAnnotation",
         "OrganismDbi",
-        "GGally",
         "ensembldb"
     ],
     "DEScan2": [
@@ -2124,7 +2111,6 @@
         "biovizBase",
         "VariantAnnotation",
         "OrganismDbi",
-        "GGally",
         "ensembldb"
     ],
     "flowcatchR": [
@@ -2368,7 +2354,6 @@
         "VariantAnnotation",
         "GenomicFeatures",
         "OrganismDbi",
-        "GGally",
         "ensembldb"
     ],
     "GenomicScores": [
@@ -2408,7 +2393,6 @@
         "lme4",
         "GeomxTools",
         "lmerTest",
-        "GGally",
         "nloptr"
     ],
     "GEOexplorer": [
@@ -2430,7 +2414,6 @@
     ],
     "GeomxTools": [
         "lmerTest",
-        "GGally",
         "lme4",
         "nloptr"
     ],
@@ -2453,7 +2436,6 @@
         "VariantAnnotation",
         "GenomicFeatures",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "biomaRt"
     ],
@@ -2463,9 +2445,7 @@
         "plotly",
         "treeio"
     ],
-    "GGPA": [
-        "GGally"
-    ],
+    "GGPA": [],
     "ggspavis": [
         "SpatialExperiment",
         "DropletUtils"
@@ -2826,7 +2806,6 @@
         "VariantAnnotation",
         "GenomicFeatures",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "biomaRt"
     ],
@@ -2925,8 +2904,7 @@
     ],
     "isomiRs": [
         "DEGreport",
-        "DESeq2",
-        "GGally"
+        "DESeq2"
     ],
     "ITALICS": [
         "pd.mapping50k.xba240"
@@ -3176,9 +3154,7 @@
         "mice"
     ],
     "MBQN": [],
-    "MCbiclust": [
-        "GGally"
-    ],
+    "MCbiclust": [],
     "mCSEA": [
         "Homo.sapiens",
         "biomaRt",
@@ -3464,8 +3440,7 @@
         "devtools"
     ],
     "mfa": [
-        "ggmcmc",
-        "GGally"
+        "ggmcmc"
     ],
     "MGFR": [
         "biomaRt"
@@ -3655,7 +3630,6 @@
         "caret"
     ],
     "mitch": [
-        "GGally",
         "echarts4r"
     ],
     "mitoClone2": [
@@ -3768,7 +3742,6 @@
         "biovizBase",
         "VariantAnnotation",
         "OrganismDbi",
-        "GGally",
         "ensembldb"
     ],
     "msImpute": [
@@ -4408,7 +4381,6 @@
     ],
     "PhIPData": [],
     "PhosR": [
-        "GGally",
         "ggpubr",
         "rstatix",
         "car",
@@ -4616,7 +4588,6 @@
     "protGear": [
         "ggpubr",
         "plotly",
-        "GGally",
         "factoextra",
         "FactoMineR",
         "car",
@@ -4744,7 +4715,6 @@
         "VariantAnnotation",
         "GenomicFeatures",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "biomaRt"
     ],
@@ -4916,7 +4886,6 @@
         "VariantAnnotation",
         "GenomicFeatures",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "biomaRt"
     ],
@@ -4995,7 +4964,6 @@
         "BSgenome",
         "VariantAnnotation",
         "OrganismDbi",
-        "GGally",
         "ensembldb"
     ],
     "ribosomeProfilingQC": [
@@ -5382,7 +5350,6 @@
     ],
     "scPipe": [
         "biomaRt",
-        "GGally",
         "scater"
     ],
     "scran": [],
@@ -5401,7 +5368,6 @@
         "BSgenome",
         "VariantAnnotation",
         "OrganismDbi",
-        "GGally",
         "ensembldb"
     ],
     "scTensor": [
@@ -5482,7 +5448,6 @@
     "seqsetvis": [],
     "SeqSQC": [
         "ExperimentHub",
-        "GGally",
         "AnnotationHub"
     ],
     "SeqVarTools": [
@@ -5698,7 +5663,6 @@
         "BSgenome",
         "GenomicFeatures",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "biomaRt"
     ],
@@ -5727,7 +5691,6 @@
     "SpatialDecon": [
         "GeomxTools",
         "lmerTest",
-        "GGally",
         "lme4",
         "nloptr"
     ],
@@ -5966,7 +5929,6 @@
     ],
     "systemPipeTools": [
         "DESeq2",
-        "GGally",
         "ggtree",
         "plotly",
         "treeio"
@@ -6129,7 +6091,6 @@
     ],
     "TNBC.CMS": [
         "GSVA",
-        "GGally",
         "ggpubr",
         "rstatix",
         "car",
@@ -6137,9 +6098,7 @@
         "lme4",
         "nloptr"
     ],
-    "TOAST": [
-        "GGally"
-    ],
+    "TOAST": [],
     "tomoseqr": [
         "plotly"
     ],
@@ -6362,8 +6321,7 @@
     ],
     "velociraptor": [],
     "vidger": [
-        "DESeq2",
-        "GGally"
+        "DESeq2"
     ],
     "ViSEAGO": [
         "biomaRt",
@@ -6466,7 +6424,6 @@
         "biomaRt",
         "biovizBase",
         "OrganismDbi",
-        "GGally",
         "ensembldb"
     ],
     "yarn": [
@@ -6518,7 +6475,6 @@
         "ExperimentHub",
         "AnnotationHub"
     ],
-    "GGally": [],
     "curatedTCGAData": [
         "MultiAssayExperiment",
         "AnnotationHub",
@@ -6946,9 +6902,7 @@
         "OrganismDbi",
         "biomaRt"
     ],
-    "ggmcmc": [
-        "GGally"
-    ],
+    "ggmcmc": [],
     "HardyWeinberg": [
         "mice"
     ],
