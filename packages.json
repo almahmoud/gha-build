@@ -49,7 +49,6 @@
         "factoextra",
         "ggpubr"
     ],
-    "cyanoFilter": [],
     "CyTOFpower": [
         "CytoGLMM",
         "diffcyt",
