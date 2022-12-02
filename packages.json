@@ -40622,7 +40622,6 @@
         "futile.options"
     ],
     "epimutacions": [
-        "epimutacionsData",
         "minfi",
         "bumphunter",
         "isotree",
@@ -155457,7 +155456,6 @@
         "R.oo",
         "R.utils"
     ],
-    "epimutacionsData": [],
     "isotree": [
         "Rcpp"
     ],
