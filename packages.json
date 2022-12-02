@@ -7205,7 +7205,6 @@
         "ChIPXpressData",
         "GEOquery",
         "frma",
-        "biganalytics",
         "oligo",
         "oligoClasses",
         "readr",
@@ -27161,7 +27160,6 @@
         "apcluster",
         "ggplot2",
         "parallelDist",
-        "biganalytics",
         "Hmisc",
         "mgcv",
         "scales",
@@ -53740,7 +53738,6 @@
     ],
     "mixsqp": [],
     "ChIPXpressData": [],
-    "biganalytics": [],
     "shinyhelper": [
         "shiny",
         "httpuv",
