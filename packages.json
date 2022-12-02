@@ -28403,7 +28403,6 @@
         "waldo",
         "rematch2"
     ],
-    "PLPE": [],
     "plyranges": [
         "GenomicRanges",
         "dplyr",
