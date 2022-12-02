@@ -42233,7 +42233,6 @@
         "Rhtslib",
         "rebus.datetimes",
         "rebus.numbers",
-        "rebus.unicode",
         "plyr",
         "coda",
         "bbmle",
@@ -90317,12 +90316,10 @@
     ],
     "rebus": [
         "rebus.datetimes",
-        "rebus.numbers",
-        "rebus.unicode"
+        "rebus.numbers"
     ],
     "rebus.datetimes": [],
     "rebus.numbers": [],
-    "rebus.unicode": [],
     "mhsmm": [],
     "GeneNet": [
         "longitudinal"
