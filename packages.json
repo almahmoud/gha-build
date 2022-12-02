@@ -2510,8 +2510,7 @@
     ],
     "netOmics": [
         "RandomWalkRestartMH",
-        "gprofiler2",
-        "dnet"
+        "gprofiler2"
     ],
     "NetSAM": [],
     "netSmooth": [
@@ -2731,9 +2730,7 @@
     "PhyloProfile": [
         "OmaDB"
     ],
-    "Pi": [
-        "dnet"
-    ],
+    "Pi": [],
     "Pigengene": [
         "clusterProfiler",
         "ReactomePA",
@@ -2933,9 +2930,7 @@
     ],
     "RadioGx": [],
     "ramwas": [],
-    "RandomWalkRestartMH": [
-        "dnet"
-    ],
+    "RandomWalkRestartMH": [],
     "RAREsim": [],
     "RareVariantVis": [
         "VariantAnnotation",
@@ -4258,7 +4253,6 @@
         "BSgenome.Hsapiens.UCSC.hg19"
     ],
     "mppa": [],
-    "dnet": [],
     "RcmdrMisc": [
         "car",
         "pbkrtest",
