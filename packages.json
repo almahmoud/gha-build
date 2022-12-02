@@ -519,7 +519,6 @@
         "geneplotter",
         "tidyselect",
         "ggrepel",
-        "modeest",
         "tidyr",
         "annotate",
         "AnnotationDbi",
@@ -4920,7 +4919,6 @@
     ],
     "compcodeR": [
         "ggplot2",
-        "modeest",
         "phylolm",
         "tibble"
     ],
@@ -15428,7 +15426,6 @@
     "MIMOSA": [
         "ggplot2",
         "MCMCpack",
-        "modeest",
         "testthat",
         "dplyr",
         "tidyr",
@@ -28849,7 +28846,6 @@
         "vegan",
         "ggplot2",
         "ggrepel",
-        "modeest",
         "tibble"
     ],
     "recipes": [
@@ -28862,7 +28858,6 @@
         "prodlim",
         "lava"
     ],
-    "modeest": [],
     "hardhat": [
         "tibble"
     ],
