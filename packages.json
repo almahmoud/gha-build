@@ -3730,7 +3730,6 @@
         "MultiAssayExperiment",
         "ropls"
     ],
-    "multiClust": [],
     "multicrispr": [
         "BSgenome",
         "CRISPRseek",
