@@ -1383,7 +1383,6 @@
         "derfinder",
         "GenomicFiles"
     ],
-    "rnaEditr": [],
     "RNAmodR": [
         "Gviz",
         "biovizBase"
