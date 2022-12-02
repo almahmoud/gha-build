@@ -6046,7 +6046,6 @@
         "lme4",
         "nloptr"
     ],
-    "TarSeqQC": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "DESeq2",
