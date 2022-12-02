@@ -507,7 +507,6 @@
         "lumi",
         "methylumi"
     ],
-    "MinimumDistance": [],
     "miRSM": [
         "miRspongeR",
         "SPONGE",
