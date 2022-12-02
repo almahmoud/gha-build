@@ -3944,7 +3944,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "rrcov",
         "tibble",
         "org.Hs.eg.db",
         "latticeExtra",
@@ -6707,7 +6706,6 @@
         "flowMerge",
         "ggplot2",
         "rms",
-        "rrcov",
         "feature",
         "tibble",
         "ks",
@@ -8608,7 +8606,6 @@
     ],
     "DEGraph": [
         "KEGGgraph",
-        "rrcov",
         "NCIgraph",
         "RCy3",
         "IRkernel",
@@ -11772,7 +11769,6 @@
         "SC3",
         "shiny",
         "ggplot2",
-        "rrcov",
         "GenomicRanges",
         "DelayedArray",
         "TrajectoryUtils",
@@ -12002,9 +11998,7 @@
         "bslib",
         "pillar"
     ],
-    "flowBeads": [
-        "rrcov"
-    ],
+    "flowBeads": [],
     "flowBin": [
         "flowFP",
         "flowViz",
@@ -12104,14 +12098,12 @@
         "pillar"
     ],
     "flowMeans": [
-        "rrcov",
         "feature",
         "ks"
     ],
     "flowMerge": [
         "feature",
         "flowClust",
-        "rrcov",
         "ks"
     ],
     "flowPloidy": [
@@ -12172,7 +12164,6 @@
         "flowViz",
         "fda",
         "ks",
-        "rrcov",
         "fds",
         "latticeExtra",
         "ggplot2",
@@ -12205,7 +12196,6 @@
         "ncdfFlow",
         "fda",
         "ks",
-        "rrcov",
         "latticeExtra",
         "fds",
         "ggplot2",
@@ -13516,7 +13506,6 @@
         "ggbeeswarm",
         "ggiraph",
         "ggthemes",
-        "rrcov",
         "waldo",
         "XVector",
         "tibble",
@@ -16686,12 +16675,10 @@
         "DelayedArray"
     ],
     "iterativeBMA": [
-        "BMA",
-        "rrcov"
+        "BMA"
     ],
     "iterativeBMAsurv": [
-        "BMA",
-        "rrcov"
+        "BMA"
     ],
     "IVAS": [
         "GenomicFeatures",
@@ -23818,7 +23805,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "rrcov",
         "feature",
         "ks"
     ],
@@ -24791,7 +24777,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "rrcov",
         "tibble",
         "org.Hs.eg.db",
         "latticeExtra",
@@ -29534,7 +29519,6 @@
     "SC3": [
         "shiny",
         "ggplot2",
-        "rrcov",
         "SummarizedExperiment",
         "SingleCellExperiment",
         "tibble",
@@ -33513,9 +33497,7 @@
         "classInt",
         "bslib"
     ],
-    "statTarget": [
-        "rrcov"
-    ],
+    "statTarget": [],
     "STdeconvolve": [
         "BiocParallel",
         "ggplot2",
@@ -33815,7 +33797,6 @@
         "survMisc",
         "tibble",
         "ggtext",
-        "rrcov",
         "tidyselect",
         "pillar",
         "XVector",
@@ -38871,10 +38852,7 @@
         "tibble",
         "pillar"
     ],
-    "BMA": [
-        "rrcov"
-    ],
-    "rrcov": [],
+    "BMA": [],
     "vcfR": [
         "dplyr",
         "tibble",
@@ -40251,9 +40229,7 @@
         "bslib"
     ],
     "gdtools": [],
-    "robust": [
-        "rrcov"
-    ],
+    "robust": [],
     "shinyHeatmaply": [
         "heatmaply",
         "shiny",
@@ -42088,8 +42064,7 @@
     ],
     "slider": [],
     "clustvarsel": [
-        "BMA",
-        "rrcov"
+        "BMA"
     ],
     "gstat": [
         "sf",
