@@ -154,7 +154,6 @@
         "nlme",
         "Matrix",
         "later",
-        "munsell",
         "httpuv",
         "fontawesome",
         "ellipsis",
@@ -194,7 +193,6 @@
         "Biostrings",
         "BiocParallel",
         "Rhtslib",
-        "munsell",
         "pillar",
         "futile.logger",
         "lambda.r"
@@ -243,7 +241,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -352,7 +349,6 @@
         "Matrix",
         "broom",
         "car",
-        "munsell",
         "MatrixGenerics",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -612,7 +608,6 @@
         "cachem",
         "nlme",
         "R.oo",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar",
@@ -814,7 +809,6 @@
         "cachem",
         "nlme",
         "R.oo",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar",
@@ -914,7 +908,6 @@
         "ragg",
         "survival",
         "nlme",
-        "munsell",
         "RcppAnnoy",
         "dqrng",
         "sitmo",
@@ -987,7 +980,6 @@
         "nlme",
         "Matrix",
         "hms",
-        "munsell",
         "purrr"
     ],
     "AllelicImbalance": [
@@ -1053,7 +1045,6 @@
         "cachem",
         "hms",
         "lifecycle",
-        "munsell",
         "pillar",
         "purrr",
         "tibble",
@@ -1094,7 +1085,6 @@
         "openssl",
         "nlme",
         "later",
-        "munsell",
         "ellipsis",
         "askpass"
     ],
@@ -1187,7 +1177,6 @@
         "jquerylib",
         "knitr",
         "tinytex",
-        "munsell",
         "doSNOW",
         "foreach",
         "Rfast",
@@ -1303,7 +1292,6 @@
         "askpass",
         "later",
         "bit64",
-        "munsell",
         "progress",
         "KEGGREST",
         "RCurl",
@@ -1357,7 +1345,6 @@
         "SummarizedExperiment",
         "interp",
         "nlme",
-        "munsell",
         "RcppEigen",
         "MatrixGenerics",
         "DelayedArray"
@@ -1394,7 +1381,6 @@
         "XVector",
         "nlme",
         "Matrix",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar",
@@ -1521,7 +1507,6 @@
         "plyr",
         "blob",
         "memoise",
-        "munsell",
         "RcppAnnoy",
         "dqrng",
         "diffobj",
@@ -1565,7 +1550,6 @@
         "futile.logger",
         "nlme",
         "Matrix",
-        "munsell",
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
@@ -1641,7 +1625,6 @@
         "purrr",
         "gridSVG",
         "stringr",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -1982,7 +1965,6 @@
         "Rhtslib",
         "bit64",
         "blob",
-        "munsell",
         "futile.logger",
         "purrr",
         "htmltools",
@@ -2016,7 +1998,6 @@
         "stringr",
         "Matrix",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "anota2seq": [
@@ -2057,7 +2038,6 @@
         "KEGGREST",
         "lambda.r",
         "nlme",
-        "munsell",
         "pillar",
         "openssl",
         "Biostrings",
@@ -2142,7 +2122,6 @@
         "nlme",
         "Matrix",
         "hms",
-        "munsell",
         "askpass"
     ],
     "AnVILPublish": [
@@ -2252,7 +2231,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "dbplyr",
         "lambda.r",
         "cachem",
@@ -2376,7 +2354,6 @@
         "nlme",
         "later",
         "gplots",
-        "munsell",
         "reshape2",
         "gridExtra",
         "RcppArmadillo",
@@ -2588,7 +2565,6 @@
         "askpass",
         "bit64",
         "memoise",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "cachem"
@@ -2656,7 +2632,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "dbplyr",
         "dplyr",
@@ -2742,7 +2717,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "cachem",
         "askpass"
@@ -2791,7 +2765,6 @@
         "crosstalk",
         "purrr",
         "promises",
-        "munsell",
         "ade4",
         "segmented",
         "ellipsis",
@@ -2873,7 +2846,6 @@
         "promises",
         "RcppDE",
         "stringr",
-        "munsell",
         "pillar",
         "tidyselect",
         "openssl",
@@ -2940,7 +2912,6 @@
         "gplots",
         "Rhtslib",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "KEGGREST",
@@ -3052,7 +3023,6 @@
         "blob",
         "memoise",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "dbplyr",
@@ -3113,7 +3083,6 @@
         "annotate",
         "Biobase",
         "nlme",
-        "munsell",
         "pillar",
         "httr",
         "IRanges",
@@ -3281,7 +3250,6 @@
         "memoise",
         "restfulr",
         "selectr",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -3386,7 +3354,6 @@
         "askpass",
         "hms",
         "bit64",
-        "munsell",
         "crosstalk",
         "jquerylib",
         "promises",
@@ -3451,7 +3418,6 @@
         "memoise",
         "BiocIO",
         "restfulr",
-        "munsell",
         "AnnotationDbi",
         "httr",
         "lambda.r",
@@ -3492,7 +3458,6 @@
         "XVector",
         "Rhtslib",
         "lifecycle",
-        "munsell",
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
@@ -3574,7 +3539,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "munsell",
         "Biobase",
         "CNEr",
         "DirichletMultinomial",
@@ -3728,7 +3692,6 @@
         "R.oo",
         "cellranger",
         "progress",
-        "munsell",
         "MatrixGenerics",
         "Matrix",
         "GenomeInfoDb",
@@ -3796,7 +3759,6 @@
         "plyr",
         "stringr",
         "Rhtslib",
-        "munsell",
         "futile.logger",
         "ellipsis",
         "purrr",
@@ -3834,7 +3796,6 @@
         "lambda.r",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "BadRegionFinder": [
@@ -4024,7 +3985,6 @@
         "Matrix",
         "plyr",
         "stringr",
-        "munsell",
         "pillar",
         "RCurl"
     ],
@@ -4108,7 +4068,6 @@
         "SummarizedExperiment",
         "doParallel",
         "bslib",
-        "munsell",
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -4169,7 +4128,6 @@
         "processx",
         "Matrix",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "barcodetrackR": [
@@ -4193,7 +4151,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "munsell",
         "httpuv",
         "fontawesome",
         "htmltools",
@@ -4270,7 +4227,6 @@
         "nlme",
         "Matrix",
         "later",
-        "munsell",
         "lambda.r",
         "RcppEigen",
         "MatrixGenerics",
@@ -4360,7 +4316,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -4444,7 +4399,6 @@
         "htmlwidgets",
         "lambda.r",
         "nlme",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -4578,7 +4532,6 @@
         "crosstalk",
         "purrr",
         "MatrixModels",
-        "munsell",
         "TSP",
         "gclus",
         "callr",
@@ -4636,7 +4589,6 @@
         "tibble",
         "vctrs",
         "rhdf5filters",
-        "munsell",
         "scuttle",
         "gridExtra",
         "DelayedMatrixStats",
@@ -4807,7 +4759,6 @@
         "DelayedArray",
         "RCurl",
         "XVector",
-        "munsell",
         "pillar"
     ],
     "beachmat": [
@@ -4848,7 +4799,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "cachem",
         "askpass"
@@ -4879,7 +4829,6 @@
         "GenomeInfoDb",
         "XVector",
         "nlme",
-        "munsell",
         "Biobase",
         "pillar",
         "RCurl"
@@ -5112,7 +5061,6 @@
         "RcppTOML",
         "here",
         "RcppZiggurat",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -5381,7 +5329,6 @@
         "plyr",
         "stringr",
         "knitr",
-        "munsell",
         "multtest",
         "ellipsis",
         "purrr",
@@ -5461,7 +5408,6 @@
         "interp",
         "nlme",
         "hms",
-        "munsell",
         "RcppEigen",
         "highr",
         "askpass"
@@ -5520,7 +5466,6 @@
         "nlme",
         "Matrix",
         "Rhtslib",
-        "munsell",
         "dbplyr",
         "futile.logger",
         "survival",
@@ -5566,7 +5511,6 @@
         "cachem",
         "nlme",
         "later",
-        "munsell",
         "pillar"
     ],
     "Biobase": [],
@@ -5587,8 +5531,7 @@
         "mgcv",
         "scales",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "biobtreeR": [
         "httr",
@@ -5708,7 +5651,6 @@
         "tinytex",
         "bit64",
         "blob",
-        "munsell",
         "gridExtra",
         "ggfun",
         "ggplotify",
@@ -5916,7 +5858,6 @@
         "gridExtra",
         "rstatix",
         "openssl",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -6608,7 +6549,6 @@
         "sandwich",
         "MatrixModels",
         "tiff",
-        "munsell",
         "pillar",
         "httr",
         "Biostrings",
@@ -6681,7 +6621,6 @@
         "blob",
         "memoise",
         "lifecycle",
-        "munsell",
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
@@ -6737,7 +6676,6 @@
         "RcppEigen",
         "graph",
         "RcppArmadillo",
-        "munsell",
         "synaptome.data",
         "dbplyr",
         "AnnotationHub",
@@ -6848,7 +6786,6 @@
         "htmltools",
         "nlme",
         "statnet.common",
-        "munsell",
         "httr",
         "knitr",
         "Biostrings",
@@ -6947,7 +6884,6 @@
         "httr",
         "Biostrings",
         "interp",
-        "munsell",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -7003,7 +6939,6 @@
         "openssl",
         "nlme",
         "later",
-        "munsell",
         "askpass"
     ],
     "Biostrings": [
@@ -7087,7 +7022,6 @@
         "XVector",
         "nlme",
         "quantreg",
-        "munsell",
         "gam",
         "cvAUC",
         "ROCR",
@@ -7130,7 +7064,6 @@
         "htmltools",
         "Rhtslib",
         "lifecycle",
-        "munsell",
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
@@ -7254,7 +7187,6 @@
         "ellipsis",
         "graph",
         "RBGL",
-        "munsell",
         "pillar",
         "bit64",
         "tidyselect",
@@ -7388,7 +7320,6 @@
         "nlme",
         "Biostrings",
         "Rhtslib",
-        "munsell",
         "pillar",
         "dbplyr",
         "dplyr",
@@ -7436,7 +7367,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "cachem",
         "askpass"
@@ -7523,7 +7453,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "pillar",
         "diffobj",
         "rematch2",
@@ -7676,7 +7605,6 @@
         "prabclus",
         "lambda.r",
         "gdata",
-        "munsell",
         "pillar",
         "lmtest",
         "openssl",
@@ -7751,7 +7679,6 @@
         "RBGL",
         "Rhtslib",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "futile.logger",
@@ -7817,7 +7744,6 @@
         "sparseMatrixStats",
         "RCurl",
         "rhdf5filters",
-        "munsell",
         "lambda.r",
         "Rhtslib",
         "GenomicAlignments",
@@ -7857,7 +7783,6 @@
         "nlme",
         "Matrix",
         "bslib",
-        "munsell",
         "pillar",
         "sass",
         "cachem",
@@ -7941,7 +7866,6 @@
         "stringr",
         "Rhtslib",
         "restfulr",
-        "munsell",
         "pillar",
         "dbplyr",
         "progress",
@@ -8086,7 +8010,6 @@
         "tidyr",
         "tidyselect",
         "Rhtslib",
-        "munsell",
         "pillar",
         "futile.logger",
         "tzdb",
@@ -8131,7 +8054,6 @@
         "futile.logger",
         "nlme",
         "Matrix",
-        "munsell",
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
@@ -8201,7 +8123,6 @@
         "KEGGREST",
         "lambda.r",
         "nlme",
-        "munsell",
         "pillar",
         "openssl",
         "bit64",
@@ -8268,7 +8189,6 @@
         "rhdf5filters",
         "R.oo",
         "lifecycle",
-        "munsell",
         "lambda.r",
         "Rhtslib",
         "GenomicAlignments",
@@ -8330,7 +8250,6 @@
         "Matrix",
         "bslib",
         "Rhtslib",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "BSgenome",
@@ -8571,7 +8490,6 @@
         "blob",
         "memoise",
         "restfulr",
-        "munsell",
         "futile.logger",
         "cachem",
         "askpass",
@@ -8667,7 +8585,6 @@
         "stringr",
         "Rhtslib",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar",
@@ -8759,7 +8676,6 @@
         "cachem",
         "nlme",
         "hms",
-        "munsell",
         "purrr",
         "ellipsis",
         "knitr",
@@ -8848,7 +8764,6 @@
         "RBGL",
         "Rhtslib",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "genefilter",
@@ -8919,7 +8834,6 @@
         "restfulr",
         "lambda.r",
         "nlme",
-        "munsell",
         "pillar",
         "dplyr",
         "ellipsis",
@@ -8983,7 +8897,6 @@
         "nlme",
         "doParallel",
         "foreach",
-        "munsell",
         "pillar"
     ],
     "canceR": [
@@ -9049,7 +8962,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -9085,7 +8997,6 @@
         "vctrs",
         "plyr",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "cardelino": [
@@ -9140,7 +9051,6 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "DelayedArray",
         "ellipsis",
         "futile.logger",
@@ -9307,7 +9217,6 @@
         "mgcv",
         "plyr",
         "stringr",
-        "munsell",
         "scuttle",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -9805,7 +9714,6 @@
         "XVector",
         "ellipsis",
         "nlme",
-        "munsell",
         "bit64"
     ],
     "celda": [
@@ -9844,7 +9752,6 @@
         "assertive.files",
         "assertive.types",
         "magick",
-        "munsell",
         "scuttle",
         "gridExtra",
         "DelayedMatrixStats",
@@ -9945,7 +9852,6 @@
         "interp",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar",
         "lambda.r",
         "RcppEigen",
@@ -10053,7 +9959,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -10149,7 +10054,6 @@
         "purrr",
         "promises",
         "gplots",
-        "munsell",
         "reshape2",
         "sp",
         "httpuv",
@@ -10201,7 +10105,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -10266,7 +10169,6 @@
         "dplyr",
         "later",
         "MatrixModels",
-        "munsell",
         "pillar",
         "ellipsis",
         "purrr",
@@ -10333,7 +10235,6 @@
         "ragg",
         "nlme",
         "RcppEigen",
-        "munsell",
         "RcppAnnoy",
         "dqrng",
         "sitmo",
@@ -10365,7 +10266,6 @@
         "memoise",
         "highr",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "cellscape": [
@@ -10419,7 +10319,6 @@
         "GenomeInfoDb",
         "RCurl",
         "XVector",
-        "munsell",
         "pillar",
         "gridExtra"
     ],
@@ -10533,7 +10432,6 @@
         "statnet.common",
         "bslib",
         "tinytex",
-        "munsell",
         "Hmisc",
         "foreach",
         "doParallel",
@@ -10672,7 +10570,6 @@
         "processx",
         "waldo",
         "car",
-        "munsell",
         "diffobj",
         "rematch2",
         "pbkrtest",
@@ -10723,7 +10620,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "openssl",
         "Biostrings",
         "bit64",
@@ -10761,7 +10657,6 @@
         "RcppEigen",
         "RcppArmadillo",
         "nlme",
-        "munsell",
         "gridExtra"
     ],
     "CeTF": [
@@ -10853,7 +10748,6 @@
         "hms",
         "broom",
         "car",
-        "munsell",
         "survival",
         "coda",
         "ggfun",
@@ -10931,7 +10825,6 @@
         "ellipsis",
         "nlme",
         "Matrix",
-        "munsell",
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
@@ -10974,7 +10867,6 @@
         "Matrix",
         "BiocIO",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
@@ -11161,7 +11053,6 @@
         "interp",
         "affy",
         "FDb.InfiniumMethylation.hg19",
-        "munsell",
         "multtest",
         "affyio",
         "interactiveDisplayBase",
@@ -11201,7 +11092,6 @@
         "nlme",
         "Matrix",
         "later",
-        "munsell",
         "pillar"
     ],
     "CHETAH": [
@@ -11254,7 +11144,6 @@
         "XVector",
         "openssl",
         "nlme",
-        "munsell",
         "gridExtra",
         "askpass"
     ],
@@ -11308,7 +11197,6 @@
         "survival",
         "prodlim",
         "timechange",
-        "munsell",
         "lava",
         "future.apply",
         "progressr",
@@ -11337,7 +11225,6 @@
         "RcppEigen",
         "highr",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "chimeraviz": [
@@ -11421,7 +11308,6 @@
         "openssl",
         "RcppEigen",
         "hms",
-        "munsell",
         "purrr",
         "mgcv",
         "ellipsis",
@@ -11548,7 +11434,6 @@
         "highr",
         "cachem",
         "zoo",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar",
@@ -11600,7 +11485,6 @@
         "knitr",
         "tinytex",
         "Rhtslib",
-        "munsell",
         "gridExtra",
         "Biobase",
         "RSQLite",
@@ -11693,7 +11577,6 @@
         "hms",
         "bit64",
         "blob",
-        "munsell",
         "purrr",
         "ellipsis",
         "askpass"
@@ -11767,7 +11650,6 @@
         "blob",
         "memoise",
         "restfulr",
-        "munsell",
         "latticeExtra",
         "MatrixGenerics",
         "DelayedArray",
@@ -11857,7 +11739,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "dbplyr",
         "futile.logger",
         "cowplot",
@@ -12203,7 +12084,6 @@
         "here",
         "tinytex",
         "selectr",
-        "munsell",
         "systemfonts",
         "RcppAnnoy",
         "callr",
@@ -12238,7 +12118,6 @@
         "futile.logger",
         "nlme",
         "Matrix",
-        "munsell",
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
@@ -12286,7 +12165,6 @@
         "Rhtslib",
         "nlme",
         "Matrix",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray"
     ],
@@ -12362,7 +12240,6 @@
         "blob",
         "BiocIO",
         "restfulr",
-        "munsell",
         "AnnotationDbi",
         "askpass",
         "R.oo",
@@ -12479,7 +12356,6 @@
         "sparsesvd",
         "Rhtslib",
         "restfulr",
-        "munsell",
         "gridExtra",
         "dbplyr",
         "futile.logger",
@@ -12538,7 +12414,6 @@
         "nlme",
         "plyr",
         "stringr",
-        "munsell",
         "gridExtra"
     ],
     "CINdex": [
@@ -12629,7 +12504,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "survival",
         "MatrixGenerics",
         "DelayedArray",
@@ -12690,7 +12564,6 @@
         "interp",
         "nlme",
         "Matrix",
-        "munsell",
         "igraph",
         "KEGGREST",
         "progress",
@@ -12746,7 +12619,6 @@
         "plyr",
         "stringr",
         "rhdf5filters",
-        "munsell",
         "scuttle",
         "BiocParallel",
         "edgeR",
@@ -12964,7 +12836,6 @@
         "nlme",
         "Matrix",
         "Rhtslib",
-        "munsell",
         "futile.logger",
         "MatrixGenerics",
         "Biobase",
@@ -13003,7 +12874,6 @@
         "vctrs",
         "doParallel",
         "foreach",
-        "munsell",
         "MatrixGenerics",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -13087,7 +12957,6 @@
         "foreach",
         "hms",
         "later",
-        "munsell",
         "coda",
         "lambda.r",
         "askpass"
@@ -13132,7 +13001,6 @@
         "rncl",
         "RNeXML",
         "lifecycle",
-        "munsell",
         "GenomicRanges",
         "GenomeInfoDb",
         "softImpute",
@@ -13246,7 +13114,6 @@
         "RcppArmadillo",
         "openssl",
         "cachem",
-        "munsell",
         "gridExtra",
         "RCurl",
         "askpass"
@@ -13296,7 +13163,6 @@
         "hms",
         "vroom",
         "tzdb",
-        "munsell",
         "GenomicRanges",
         "DelayedArray",
         "MatrixGenerics",
@@ -13423,7 +13289,6 @@
         "nlme",
         "Matrix",
         "Rhtslib",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar",
@@ -13458,7 +13323,6 @@
         "memoise",
         "highr",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "CNORfeeder": [
@@ -13487,7 +13351,6 @@
         "memoise",
         "highr",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "CNORfuzzy": [
@@ -13523,7 +13386,6 @@
         "memoise",
         "highr",
         "nlme",
-        "munsell",
         "pillar",
         "diffobj",
         "rematch2"
@@ -13554,7 +13416,6 @@
         "cachem",
         "memoise",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "CNTools": [
@@ -13640,7 +13501,6 @@
         "bit64",
         "blob",
         "lifecycle",
-        "munsell",
         "dbplyr",
         "dplyr",
         "vctrs",
@@ -13669,7 +13529,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "cnvGSA": [
@@ -13722,7 +13581,6 @@
         "httr",
         "tidyr",
         "purrr",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -13786,8 +13644,7 @@
         "scales",
         "lambda.r",
         "RCurl",
-        "lifecycle",
-        "munsell"
+        "lifecycle"
     ],
     "CNVPanelizer": [
         "GenomicRanges",
@@ -13837,7 +13694,6 @@
         "jquerylib",
         "memoise",
         "nlme",
-        "munsell",
         "pillar",
         "diffobj",
         "rematch2",
@@ -13908,7 +13764,6 @@
         "Matrix",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "DelayedArray",
         "pillar",
         "progress",
@@ -13993,7 +13848,6 @@
         "RCurl",
         "nlme",
         "Matrix",
-        "munsell",
         "futile.logger",
         "rtracklayer",
         "Rsamtools",
@@ -14114,7 +13968,6 @@
         "nlme",
         "bit64",
         "blob",
-        "munsell",
         "progress"
     ],
     "CoGAPS": [
@@ -14191,7 +14044,6 @@
         "htmlwidgets",
         "xopen",
         "knitr",
-        "munsell",
         "waldo",
         "gert",
         "gh",
@@ -14243,7 +14095,6 @@
         "tidyselect",
         "pillar",
         "RCurl",
-        "munsell",
         "ellipsis"
     ],
     "Cogito": [
@@ -14290,7 +14141,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "pillar",
         "dbplyr",
         "dplyr",
@@ -14381,7 +14231,6 @@
         "purrr",
         "promises",
         "stringr",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "ellipsis",
@@ -14452,7 +14301,6 @@
         "RCurl",
         "survival",
         "MatrixModels",
-        "munsell",
         "pillar",
         "rhdf5filters"
     ],
@@ -14517,7 +14365,6 @@
         "askpass",
         "bit64",
         "memoise",
-        "munsell",
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
@@ -14594,7 +14441,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -14651,7 +14497,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "munsell",
         "Biobase",
         "futile.logger",
         "nlme",
@@ -14682,7 +14527,6 @@
         "htmltools",
         "jquerylib",
         "tinytex",
-        "munsell",
         "ellipsis",
         "purrr",
         "sass",
@@ -14718,7 +14562,6 @@
         "future",
         "globals",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "compEpiTools": [
@@ -14791,7 +14634,6 @@
         "ellipsis",
         "RcppEigen",
         "askpass",
-        "munsell",
         "mgcv",
         "knitr",
         "htmlwidgets",
@@ -14847,8 +14689,7 @@
         "lambda.r",
         "nlme",
         "Matrix",
-        "later",
-        "munsell"
+        "later"
     ],
     "ComPrAn": [
         "dplyr",
@@ -14879,7 +14720,6 @@
         "haven",
         "readxl",
         "openxlsx",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -14956,7 +14796,6 @@
         "readr",
         "R.utils",
         "mgcv",
-        "munsell",
         "scuttle",
         "Matrix",
         "DelayedArray",
@@ -15144,7 +14983,6 @@
         "purrr",
         "tidyr",
         "stringr",
-        "munsell",
         "spatstat.sparse",
         "RcppAnnoy",
         "dqrng",
@@ -15212,7 +15050,6 @@
         "htmlTable",
         "robustbase",
         "pcaPP",
-        "munsell",
         "pillar",
         "latticeExtra",
         "gridExtra",
@@ -15302,7 +15139,6 @@
         "cachem",
         "nlme",
         "hms",
-        "munsell",
         "pillar",
         "purrr",
         "tidyselect",
@@ -15432,7 +15268,6 @@
         "RCurl",
         "XVector",
         "lifecycle",
-        "munsell",
         "httr",
         "Biostrings",
         "bit64",
@@ -15480,7 +15315,6 @@
         "lambda.r",
         "nlme",
         "Matrix",
-        "munsell",
         "Biobase",
         "DelayedArray",
         "pillar",
@@ -15658,7 +15492,6 @@
         "bit64",
         "blob",
         "lifecycle",
-        "munsell",
         "dbplyr",
         "dplyr",
         "vctrs",
@@ -15723,8 +15556,7 @@
         "scales",
         "RCurl",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "CoRegNet": [
         "igraph",
@@ -15788,7 +15620,6 @@
         "XVector",
         "lifecycle",
         "vctrs",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -15841,7 +15672,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "pillar",
         "dplyr",
         "ellipsis",
@@ -15880,7 +15710,6 @@
         "tibble",
         "vctrs",
         "RcppEigen",
-        "munsell",
         "MatrixGenerics",
         "Matrix",
         "GenomeInfoDb",
@@ -15939,7 +15768,6 @@
         "vctrs",
         "doParallel",
         "foreach",
-        "munsell",
         "nlme",
         "pillar"
     ],
@@ -16025,7 +15853,6 @@
         "mgcv",
         "RcppZiggurat",
         "RcppArmadillo",
-        "munsell",
         "ellipsis",
         "purrr",
         "S4Vectors",
@@ -16090,7 +15917,6 @@
         "highr",
         "nlme",
         "later",
-        "munsell",
         "lambda.r",
         "openssl",
         "Biostrings",
@@ -16194,7 +16020,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "pillar",
         "dbplyr",
         "dplyr",
@@ -16594,7 +16419,6 @@
         "openssl",
         "nlme",
         "cellranger",
-        "munsell",
         "config",
         "processx",
         "tfautograph",
@@ -16638,7 +16462,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar",
@@ -16727,7 +16550,6 @@
         "DT",
         "RcppEigen",
         "cachem",
-        "munsell",
         "purrr",
         "htmlwidgets",
         "crosstalk",
@@ -16818,7 +16640,6 @@
         "tzdb",
         "RcppTOML",
         "here",
-        "munsell",
         "DelayedArray",
         "interactiveDisplayBase",
         "pillar",
@@ -17023,7 +16844,6 @@
         "highr",
         "cachem",
         "nlme",
-        "munsell",
         "pillar",
         "RCurl",
         "askpass"
@@ -17068,7 +16888,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "dbplyr",
         "dplyr",
@@ -17108,7 +16927,6 @@
         "nlme",
         "bit64",
         "memoise",
-        "munsell",
         "cachem",
         "askpass"
     ],
@@ -17168,7 +16986,6 @@
         "progress",
         "plyr",
         "rhdf5filters",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -17220,7 +17037,6 @@
         "memoise",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "CTSV": [
@@ -17281,7 +17097,6 @@
         "R.oo",
         "bit64",
         "memoise",
-        "munsell",
         "cachem",
         "askpass"
     ],
@@ -17334,7 +17149,6 @@
         "nlme",
         "Matrix",
         "Rhtslib",
-        "munsell",
         "pillar",
         "dbplyr",
         "dplyr",
@@ -17400,7 +17214,6 @@
         "Matrix",
         "askpass",
         "later",
-        "munsell",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -17518,7 +17331,6 @@
         "GEOmap",
         "RSEIS",
         "splancs",
-        "munsell",
         "purrr",
         "MatrixGenerics",
         "IRanges",
@@ -17591,7 +17403,6 @@
         "tibble",
         "vctrs",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "CytoDx": [
@@ -17701,7 +17512,6 @@
         "survival",
         "TH.data",
         "sandwich",
-        "munsell",
         "zoo",
         "ALL",
         "viridis",
@@ -17799,7 +17609,6 @@
         "hardhat",
         "ipred",
         "lubridate",
-        "munsell",
         "pbkrtest",
         "quantreg",
         "tzdb",
@@ -17927,7 +17736,6 @@
         "lambda.r",
         "XVector",
         "nlme",
-        "munsell",
         "pillar",
         "blob",
         "purrr",
@@ -17978,7 +17786,6 @@
         "latticeExtra",
         "IDPmisc",
         "mgcv",
-        "munsell",
         "interp",
         "nlme",
         "RcppEigen"
@@ -18012,7 +17819,6 @@
         "interp",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar",
         "lambda.r",
         "RcppEigen",
@@ -18059,7 +17865,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "BiocParallel",
         "BSgenome",
         "CNEr",
@@ -18144,7 +17949,6 @@
         "ellipsis",
         "nlme",
         "restfulr",
-        "munsell",
         "pillar",
         "bit64",
         "tidyselect",
@@ -18265,7 +18069,6 @@
         "tidyselect",
         "Rhtslib",
         "RWekajars",
-        "munsell",
         "GenomicAlignments",
         "pillar",
         "dbplyr",
@@ -18340,7 +18143,6 @@
         "timechange",
         "doParallel",
         "TTR",
-        "munsell",
         "lambda.r",
         "nlme"
     ],
@@ -18422,7 +18224,6 @@
         "memoise",
         "broom",
         "car",
-        "munsell",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -18563,7 +18364,6 @@
         "knitr",
         "rmarkdown",
         "selectr",
-        "munsell",
         "sn",
         "lmtest",
         "gridExtra",
@@ -18639,7 +18439,6 @@
         "GEOmap",
         "RSEIS",
         "splancs",
-        "munsell",
         "pillar",
         "MatrixGenerics",
         "IRanges",
@@ -18690,8 +18489,7 @@
         "survival",
         "minqa",
         "mitools",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "debCAM": [
         "BiocParallel",
@@ -18740,7 +18538,6 @@
         "plyr",
         "ellipsis",
         "nlme",
-        "munsell",
         "bit64",
         "progress"
     ],
@@ -18865,7 +18662,6 @@
         "irlba",
         "bit64",
         "blob",
-        "munsell",
         "TSP",
         "gclus",
         "callr",
@@ -18940,7 +18736,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "sass",
         "cachem",
@@ -18984,7 +18779,6 @@
         "RSQLite",
         "KEGGREST",
         "nlme",
-        "munsell",
         "pillar",
         "openssl",
         "Biostrings",
@@ -19043,7 +18837,6 @@
         "memoise",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "pillar",
         "dbplyr",
         "dplyr",
@@ -19068,7 +18861,6 @@
         "Biobase",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "decontam": [
@@ -19083,7 +18875,6 @@
         "stringr",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "deconvR": [
@@ -19139,7 +18930,6 @@
         "testthat",
         "stringr",
         "lambda.r",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "callr",
@@ -19165,8 +18955,7 @@
         "pillar",
         "mgcv",
         "scales",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "DeepBlueR": [
         "RCurl",
@@ -19268,7 +19057,6 @@
         "vroom",
         "tzdb",
         "MatrixExtra",
-        "munsell",
         "qdapRegex",
         "ggplot2",
         "gridExtra",
@@ -19360,7 +19148,6 @@
         "KEGGREST",
         "lambda.r",
         "nlme",
-        "munsell",
         "pillar",
         "openssl",
         "Biostrings",
@@ -19432,7 +19219,6 @@
         "blob",
         "memoise",
         "restfulr",
-        "munsell",
         "TSP",
         "gclus",
         "MatrixGenerics",
@@ -19514,7 +19300,6 @@
         "highr",
         "nlme",
         "plyr",
-        "munsell",
         "MatrixGenerics",
         "Matrix",
         "GenomeInfoDb",
@@ -19549,7 +19334,6 @@
         "stringr",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "DelayedArray": [
@@ -19630,7 +19414,6 @@
         "AnnotationDbi",
         "RCurl",
         "nlme",
-        "munsell",
         "pillar",
         "httr",
         "RSQLite",
@@ -19659,7 +19442,6 @@
         "tibble",
         "vctrs",
         "plyr",
-        "munsell",
         "quantmod",
         "nlme",
         "Matrix",
@@ -19720,7 +19502,6 @@
         "survival",
         "RCurl",
         "XVector",
-        "munsell",
         "pillar",
         "gridExtra",
         "httr",
@@ -19751,7 +19532,6 @@
         "tibble",
         "vctrs",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "densvis": [
@@ -19833,7 +19613,6 @@
         "XVector",
         "highr",
         "nlme",
-        "munsell",
         "gmm",
         "bit64",
         "progress",
@@ -19873,7 +19652,6 @@
         "futile.logger",
         "nlme",
         "RSpectra",
-        "munsell",
         "ellipsis",
         "purrr",
         "lambda.r"
@@ -19897,7 +19675,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "derfinder": [
@@ -19970,7 +19747,6 @@
         "cachem",
         "nlme",
         "hms",
-        "munsell",
         "pillar",
         "purrr",
         "tidyselect",
@@ -20025,7 +19801,6 @@
         "tibble",
         "vctrs",
         "stringr",
-        "munsell",
         "KEGGREST",
         "futile.logger",
         "progress",
@@ -20132,7 +19907,6 @@
         "hms",
         "bit64",
         "blob",
-        "munsell",
         "purrr",
         "ellipsis",
         "askpass"
@@ -20167,7 +19941,6 @@
         "lambda.r",
         "RCurl",
         "nlme",
-        "munsell",
         "pillar",
         "openssl",
         "Biostrings",
@@ -20218,7 +19991,6 @@
         "vctrs",
         "purrr",
         "stringr",
-        "munsell",
         "S4Vectors",
         "GenomicRanges",
         "DelayedArray",
@@ -20298,7 +20070,6 @@
         "XVector",
         "nlme",
         "reshape2",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "callr",
@@ -20357,7 +20128,6 @@
         "RSQLite",
         "KEGGREST",
         "nlme",
-        "munsell",
         "pillar",
         "openssl",
         "Biostrings",
@@ -20384,7 +20154,6 @@
         "tidyr",
         "R.utils",
         "lifecycle",
-        "munsell",
         "survival",
         "Matrix",
         "mgcv",
@@ -20477,8 +20246,7 @@
         "ellipsis",
         "cachem",
         "nlme",
-        "askpass",
-        "munsell"
+        "askpass"
     ],
     "DFP": [
         "Biobase"
@@ -20514,8 +20282,7 @@
         "memoise",
         "ellipsis",
         "purrr",
-        "cachem",
-        "munsell"
+        "cachem"
     ],
     "DiffBind": [
         "GenomicRanges",
@@ -20574,7 +20341,6 @@
         "irlba",
         "BiocIO",
         "restfulr",
-        "munsell",
         "latticeExtra",
         "httr",
         "RSQLite",
@@ -20638,7 +20404,6 @@
         "RcppEigen",
         "highr",
         "cachem",
-        "munsell",
         "pillar",
         "askpass"
     ],
@@ -20707,7 +20472,6 @@
         "zoo",
         "broom",
         "car",
-        "munsell",
         "callr",
         "pkgload",
         "processx",
@@ -20753,7 +20517,6 @@
         "XVector",
         "nlme",
         "R.oo",
-        "munsell",
         "pillar",
         "locfit",
         "lambda.r",
@@ -20809,7 +20572,6 @@
         "tibble",
         "vctrs",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "diffUTR": [
@@ -20873,7 +20635,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "dbplyr",
         "lambda.r",
         "openssl",
@@ -20977,7 +20738,6 @@
         "RcppTOML",
         "here",
         "gplots",
-        "munsell",
         "reshape2",
         "gridExtra",
         "RcppArmadillo",
@@ -21099,7 +20859,6 @@
         "openssl",
         "nlme",
         "selectr",
-        "munsell",
         "TSP",
         "gclus",
         "systemfonts",
@@ -21160,7 +20919,6 @@
         "nlme",
         "RcppEigen",
         "RcppGSL",
-        "munsell",
         "pillar",
         "RcppAnnoy",
         "dqrng",
@@ -21197,7 +20955,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "divergence": [
@@ -21398,7 +21155,6 @@
         "restfulr",
         "gridExtra",
         "lifecycle",
-        "munsell",
         "multtest",
         "openssl",
         "blob",
@@ -21489,7 +21245,6 @@
         "blob",
         "memoise",
         "lifecycle",
-        "munsell",
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
@@ -21590,7 +21345,6 @@
         "Rhtslib",
         "bit64",
         "blob",
-        "munsell",
         "progress",
         "purrr",
         "htmltools",
@@ -21665,7 +21419,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "DominoEffect": [
@@ -21809,7 +21562,6 @@
         "sandwich",
         "askpass",
         "hms",
-        "munsell",
         "pillar",
         "future",
         "globals",
@@ -21865,7 +21617,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -21952,7 +21703,6 @@
         "nlme",
         "Matrix",
         "askpass",
-        "munsell",
         "bit64",
         "progress"
     ],
@@ -21979,7 +21729,6 @@
         "RCurl",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "DropletUtils": [
@@ -22123,7 +21872,6 @@
         "askpass",
         "bit64",
         "memoise",
-        "munsell",
         "RCurl",
         "cachem",
         "MatrixGenerics",
@@ -22160,7 +21908,6 @@
         "rhdf5filters",
         "R.oo",
         "lifecycle",
-        "munsell",
         "Rhtslib",
         "GenomicAlignments",
         "BiocIO",
@@ -22182,7 +21929,6 @@
         "stringr",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "DTA": [],
@@ -22218,8 +21964,7 @@
         "RCurl",
         "XVector",
         "nlme",
-        "hms",
-        "munsell"
+        "hms"
     ],
     "dupRadar": [
         "Rsubread",
@@ -22297,7 +22042,6 @@
         "XVector",
         "TH.data",
         "sandwich",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "mixtools",
@@ -22390,7 +22134,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -22535,7 +22278,6 @@
         "lambda.r",
         "RCurl",
         "nlme",
-        "munsell",
         "pillar",
         "openssl",
         "Biostrings",
@@ -22673,7 +22415,6 @@
         "KEGGREST",
         "lambda.r",
         "testthat",
-        "munsell",
         "pillar",
         "openssl",
         "Biostrings",
@@ -22767,7 +22508,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "coda",
         "MatrixGenerics",
         "DelayedArray",
@@ -22906,7 +22646,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "GenomicRanges",
         "GenomeInfoDb",
         "sn",
@@ -22942,7 +22681,6 @@
         "nlme",
         "Matrix",
         "later",
-        "munsell",
         "pillar"
     ],
     "eisaR": [
@@ -23037,7 +22775,6 @@
         "tinytex",
         "restfulr",
         "selectr",
-        "munsell",
         "R.utils",
         "ellipsis",
         "KEGGREST",
@@ -23093,7 +22830,6 @@
         "lambda.r",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "EnhancedVolcano": [
@@ -23106,7 +22842,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "enhancerHomologSearch": [
@@ -23174,7 +22909,6 @@
         "stringr",
         "ellipsis",
         "nlme",
-        "munsell",
         "progress"
     ],
     "ENmix": [
@@ -23386,7 +23120,6 @@
         "systemfonts",
         "RcppEigen",
         "RcppArmadillo",
-        "munsell",
         "ellipsis",
         "gridExtra",
         "lambda.r",
@@ -23493,7 +23226,6 @@
         "blob",
         "broom",
         "car",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "ellipsis",
@@ -23721,7 +23453,6 @@
         "Rhtslib",
         "bit64",
         "blob",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "ellipsis",
@@ -23797,7 +23528,6 @@
         "BiocParallel",
         "Matrix",
         "Rhtslib",
-        "munsell",
         "futile.logger",
         "minqa",
         "nloptr",
@@ -23869,7 +23599,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "cachem",
         "askpass"
@@ -23917,7 +23646,6 @@
         "Biostrings",
         "BiocIO",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
@@ -24012,7 +23740,6 @@
         "htmltools",
         "nlme",
         "stringr",
-        "munsell",
         "pillar",
         "ggfun",
         "ggplotify",
@@ -24107,7 +23834,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "htmltools",
         "htmlwidgets",
         "crosstalk",
@@ -24228,7 +23954,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "multtest",
         "htmltools",
         "htmlwidgets",
@@ -24294,7 +24019,6 @@
         "prabclus",
         "gdata",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "epistack": [
@@ -24341,7 +24065,6 @@
         "nlme",
         "hms",
         "stringr",
-        "munsell",
         "pillar",
         "ellipsis",
         "knitr",
@@ -24398,7 +24121,6 @@
         "mgcv",
         "hms",
         "Rhtslib",
-        "munsell",
         "futile.logger",
         "ellipsis",
         "nlme",
@@ -24671,7 +24393,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "nlme",
         "Matrix",
         "pillar"
@@ -24734,7 +24455,6 @@
         "Rhtslib",
         "bit64",
         "blob",
-        "munsell",
         "pillar",
         "BSgenome",
         "progress",
@@ -24775,7 +24495,6 @@
         "XVector",
         "nlme",
         "Matrix",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar",
@@ -24886,7 +24605,6 @@
         "nlme",
         "bit64",
         "blob",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "ellipsis",
@@ -24972,7 +24690,6 @@
         "rhdf5",
         "rhdf5filters",
         "nlme",
-        "munsell",
         "openssl",
         "Biostrings",
         "bit64",
@@ -25068,7 +24785,6 @@
         "tinytex",
         "httr",
         "selectr",
-        "munsell",
         "systemfonts",
         "pillar",
         "dplyr",
@@ -25156,7 +24872,6 @@
         "cachem",
         "nlme",
         "hms",
-        "munsell",
         "pillar",
         "purrr",
         "tidyselect",
@@ -25225,7 +24940,6 @@
         "nlme",
         "httr",
         "R.cache",
-        "munsell",
         "RSQLite",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -25367,7 +25081,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "dbplyr",
         "dplyr",
@@ -25575,7 +25288,6 @@
         "jquerylib",
         "promises",
         "mgcv",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -25680,7 +25392,6 @@
         "latticeExtra",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "RSQLite",
@@ -25771,7 +25482,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "dbplyr",
         "cachem",
         "askpass",
@@ -25810,7 +25520,6 @@
         "openssl",
         "nlme",
         "later",
-        "munsell",
         "ellipsis",
         "askpass"
     ],
@@ -25884,7 +25593,6 @@
         "shadowtext",
         "ggtree",
         "openssl",
-        "munsell",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -25958,7 +25666,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -26045,7 +25752,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "fCCAC": [
@@ -26090,7 +25796,6 @@
         "Rhtslib",
         "BiocIO",
         "restfulr",
-        "munsell",
         "pillar",
         "futile.logger",
         "ellipsis",
@@ -26159,7 +25864,6 @@
         "statnet.common",
         "survival",
         "hms",
-        "munsell",
         "S4Vectors",
         "GenomicRanges",
         "DelayedArray",
@@ -26318,7 +26022,6 @@
         "sass",
         "jquerylib",
         "memoise",
-        "munsell",
         "pillar"
     ],
     "fedup": [
@@ -26349,7 +26052,6 @@
         "repr",
         "nlme",
         "Matrix",
-        "munsell",
         "askpass",
         "htmltools"
     ],
@@ -26424,7 +26126,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "MatrixGenerics",
         "openssl",
         "futile.logger",
@@ -26510,7 +26211,6 @@
         "vctrs",
         "lambda.r",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "FilterFFPE": [
@@ -26587,7 +26287,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "dbplyr",
         "openssl",
         "cachem",
@@ -26625,7 +26324,6 @@
         "plyr",
         "stringr",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "FitHiC": [],
@@ -26680,7 +26378,6 @@
         "interp",
         "doParallel",
         "foreach",
-        "munsell",
         "RcppEigen",
         "highr",
         "nlme",
@@ -26804,7 +26501,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "RcppAnnoy",
         "dbplyr",
         "lambda.r",
@@ -26842,7 +26538,6 @@
         "htmltools",
         "jquerylib",
         "tinytex",
-        "munsell",
         "sass",
         "cachem",
         "memoise",
@@ -26913,7 +26608,6 @@
         "lambda.r",
         "mgcv",
         "openssl",
-        "munsell",
         "nlme",
         "Matrix",
         "askpass"
@@ -26939,7 +26633,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "flowCL": [
@@ -27019,7 +26712,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "munsell",
         "ellipsis",
         "purrr",
         "stringr",
@@ -27092,7 +26784,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "munsell",
         "ellipsis",
         "purrr",
         "stringr",
@@ -27145,7 +26836,6 @@
         "scales",
         "tibble",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "flowMap": [
@@ -27158,8 +26848,7 @@
         "foreach",
         "plyr",
         "stringr",
-        "lifecycle",
-        "munsell"
+        "lifecycle"
     ],
     "flowMatch": [
         "flowCore",
@@ -27241,7 +26930,6 @@
         "dplyr",
         "MatrixModels",
         "survival",
-        "munsell",
         "purrr",
         "tibble",
         "tidyr",
@@ -27294,7 +26982,6 @@
         "nlme",
         "broom",
         "car",
-        "munsell",
         "stringr",
         "pbkrtest",
         "quantreg",
@@ -27333,7 +27020,6 @@
         "lambda.r",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "flowStats": [
@@ -27375,7 +27061,6 @@
         "RCurl",
         "interp",
         "nlme",
-        "munsell",
         "RcppEigen",
         "hdrcde",
         "locfit"
@@ -27461,7 +27146,6 @@
         "RCurl",
         "RcppEigen",
         "nlme",
-        "munsell",
         "hdrcde",
         "locfit"
     ],
@@ -27487,7 +27171,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "munsell",
         "nlme"
     ],
     "fmcsR": [
@@ -27509,7 +27192,6 @@
         "nlme",
         "Matrix",
         "later",
-        "munsell",
         "pillar"
     ],
     "fmrs": [
@@ -27567,7 +27249,6 @@
         "nlme",
         "blob",
         "memoise",
-        "munsell",
         "gridExtra",
         "lambda.r",
         "cachem",
@@ -27602,7 +27283,6 @@
         "pillar",
         "nlme",
         "Matrix",
-        "munsell",
         "httr",
         "Biostrings",
         "bit64",
@@ -27698,7 +27378,6 @@
         "blob",
         "memoise",
         "restfulr",
-        "munsell",
         "ellipsis",
         "gridExtra",
         "annotate",
@@ -27731,7 +27410,6 @@
         "dplyr",
         "knitr",
         "lifecycle",
-        "munsell",
         "ellipsis",
         "purrr",
         "stringr",
@@ -27769,7 +27447,6 @@
         "tibble",
         "vctrs",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "frma": [
@@ -27852,7 +27529,6 @@
         "tibble",
         "vctrs",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "funtooNorm": [
@@ -27983,7 +27659,6 @@
         "XVector",
         "broom",
         "car",
-        "munsell",
         "ellipsis",
         "pbkrtest",
         "quantreg",
@@ -28238,7 +27913,6 @@
         "progress",
         "MSQC",
         "stringr",
-        "munsell",
         "genefilter",
         "callr",
         "ellipsis",
@@ -28343,8 +28017,7 @@
         "XVector",
         "pillar",
         "RCurl",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "gcapc": [
         "GenomeInfoDb",
@@ -28408,7 +28081,6 @@
         "XVector",
         "highr",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "gcrma": [
@@ -28587,7 +28259,6 @@
         "hms",
         "vroom",
         "tzdb",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "knitr",
@@ -28649,7 +28320,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "gemini": [
@@ -28665,7 +28335,6 @@
         "mgcv",
         "segmented",
         "survival",
-        "munsell",
         "nlme",
         "Matrix"
     ],
@@ -28796,7 +28465,6 @@
         "broom",
         "car",
         "zoo",
-        "munsell",
         "ellipsis",
         "pbkrtest",
         "quantreg",
@@ -29029,7 +28697,6 @@
         "knitr",
         "later",
         "MatrixModels",
-        "munsell",
         "pillar",
         "ellipsis",
         "purrr",
@@ -29180,8 +28847,7 @@
         "lifecycle",
         "tidyselect",
         "pillar",
-        "scales",
-        "munsell"
+        "scales"
     ],
     "GeneStructureTools": [
         "Biostrings",
@@ -29237,7 +28903,6 @@
         "blob",
         "memoise",
         "lifecycle",
-        "munsell",
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
@@ -29338,7 +29003,6 @@
         "knitr",
         "stringr",
         "tinytex",
-        "munsell",
         "fontawesome",
         "later",
         "cachem",
@@ -29467,7 +29131,6 @@
         "ellipsis",
         "nlme",
         "Matrix",
-        "munsell",
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
@@ -29591,7 +29254,6 @@
         "pillar",
         "RCurl",
         "mgcv",
-        "munsell",
         "nlme",
         "Matrix"
     ],
@@ -29810,7 +29472,6 @@
         "AnnotationFilter",
         "interp",
         "nlme",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "dbplyr",
@@ -29895,7 +29556,6 @@
         "hms",
         "Rhtslib",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar",
@@ -30036,7 +29696,6 @@
         "memoise",
         "broom",
         "car",
-        "munsell",
         "ellipsis",
         "sass",
         "cachem",
@@ -30100,7 +29759,6 @@
         "biomaRt",
         "nlme",
         "Matrix",
-        "munsell",
         "DelayedArray",
         "pillar",
         "progress",
@@ -30185,7 +29843,6 @@
         "tzdb",
         "MatrixExtra",
         "selectr",
-        "munsell",
         "qdapRegex",
         "ggplot2",
         "gridExtra",
@@ -30231,7 +29888,6 @@
         "vctrs",
         "BiocParallel",
         "Rhtslib",
-        "munsell",
         "MatrixGenerics",
         "SummarizedExperiment",
         "dbplyr",
@@ -30320,8 +29976,7 @@
         "rematch2",
         "globals",
         "RCurl",
-        "hms",
-        "munsell"
+        "hms"
     ],
     "GEOexplorer": [
         "shiny",
@@ -30365,7 +30020,6 @@
         "sp",
         "httr",
         "purrr",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -30516,7 +30170,6 @@
         "minqa",
         "nloptr",
         "hms",
-        "munsell",
         "RCurl",
         "testthat",
         "callr",
@@ -30622,7 +30275,6 @@
         "openssl",
         "nlme",
         "hms",
-        "munsell",
         "affy",
         "affyio",
         "blob",
@@ -30669,7 +30321,6 @@
         "MatrixModels",
         "survival",
         "lifecycle",
-        "munsell",
         "ellipsis",
         "purrr",
         "stringr",
@@ -30740,7 +30391,6 @@
         "stringr",
         "Rhtslib",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
@@ -30788,7 +30438,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "Matrix",
         "MatrixGenerics",
         "IRanges",
@@ -30805,7 +30454,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "IRanges",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -30860,7 +30508,6 @@
         "htmlwidgets",
         "crosstalk",
         "promises",
-        "munsell",
         "openssl",
         "later",
         "askpass"
@@ -30881,7 +30528,6 @@
         "tidyr",
         "tibble",
         "statnet.common",
-        "munsell",
         "tidyselect",
         "vctrs",
         "pillar",
@@ -30931,7 +30577,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "pillar",
         "futile.logger",
         "blob",
@@ -30969,7 +30614,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "munsell",
         "ellipsis",
         "Matrix"
     ],
@@ -30995,7 +30639,6 @@
         "ggplotify",
         "patchwork",
         "Matrix",
-        "munsell",
         "ellipsis"
     ],
     "ggtreeExtra": [
@@ -31021,7 +30664,6 @@
         "ggplotify",
         "patchwork",
         "Matrix",
-        "munsell",
         "ellipsis"
     ],
     "GIGSEA": [
@@ -31114,7 +30756,6 @@
         "highr",
         "nlme",
         "askpass",
-        "munsell",
         "pillar",
         "RCurl"
     ],
@@ -31142,8 +30783,7 @@
         "pillar",
         "cachem",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "Glimma": [
         "htmlwidgets",
@@ -31179,7 +30819,6 @@
         "KEGGREST",
         "lambda.r",
         "nlme",
-        "munsell",
         "pillar",
         "openssl",
         "Biostrings",
@@ -31273,7 +30912,6 @@
         "gridtext",
         "nlme",
         "askpass",
-        "munsell",
         "knitr",
         "zoo",
         "km.ci",
@@ -31332,7 +30970,6 @@
         "cachem",
         "nlme",
         "askpass",
-        "munsell",
         "pillar",
         "RCurl"
     ],
@@ -31487,8 +31124,7 @@
         "openssl",
         "interp",
         "highr",
-        "askpass",
-        "munsell"
+        "askpass"
     ],
     "gmoviz": [
         "circlize",
@@ -31592,7 +31228,6 @@
         "hms",
         "vroom",
         "tzdb",
-        "munsell",
         "ellipsis",
         "gridExtra",
         "bit64",
@@ -31624,7 +31259,6 @@
         "nlme",
         "Matrix",
         "hms",
-        "munsell",
         "pillar",
         "blob",
         "purrr",
@@ -31705,7 +31339,6 @@
         "openssl",
         "cachem",
         "nlme",
-        "munsell",
         "askpass"
     ],
     "goProfiles": [
@@ -31905,7 +31538,6 @@
         "RcppArmadillo",
         "openssl",
         "cachem",
-        "munsell",
         "gridExtra",
         "RCurl",
         "askpass"
@@ -31990,7 +31622,6 @@
         "stringr",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "GOTHiC": [
@@ -32023,7 +31654,6 @@
         "interp",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar",
         "lambda.r",
         "RcppEigen",
@@ -32080,7 +31710,6 @@
         "memoise",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "gpuMagic": [
@@ -32158,7 +31787,6 @@
         "vroom",
         "tzdb",
         "plyr",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "purrr",
@@ -32209,7 +31837,6 @@
         "timechange",
         "nlme",
         "Matrix",
-        "munsell",
         "classInt",
         "s2",
         "units",
@@ -32234,7 +31861,6 @@
         "tibble",
         "vctrs",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "graph": [],
@@ -32301,7 +31927,6 @@
         "stringr",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "GreyListChIP": [
@@ -32369,7 +31994,6 @@
         "TH.data",
         "sandwich",
         "later",
-        "munsell",
         "ellipsis",
         "minqa",
         "nloptr",
@@ -32457,7 +32081,6 @@
         "memoise",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "gscreend": [
@@ -32609,7 +32232,6 @@
         "purrr",
         "tokenizers",
         "nlme",
-        "munsell",
         "SnowballC"
     ],
     "gsean": [
@@ -32651,7 +32273,6 @@
         "nlme",
         "askpass",
         "hms",
-        "munsell",
         "gsubfn",
         "pillar",
         "blob",
@@ -32888,7 +32509,6 @@
         "bit64",
         "blob",
         "restfulr",
-        "munsell",
         "ade4",
         "segmented",
         "sp",
@@ -32945,7 +32565,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "dbplyr",
         "futile.logger",
         "openssl",
@@ -33009,7 +32628,6 @@
         "blob",
         "memoise",
         "lifecycle",
-        "munsell",
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
@@ -33062,7 +32680,6 @@
         "purrr",
         "tidyr",
         "tidyselect",
-        "munsell",
         "pillar",
         "tzdb",
         "survival",
@@ -33175,8 +32792,7 @@
         "lifecycle",
         "tidyselect",
         "pillar",
-        "scales",
-        "munsell"
+        "scales"
     ],
     "gwasurvivr": [
         "GWASTools",
@@ -33244,8 +32860,7 @@
         "openssl",
         "hms",
         "scales",
-        "askpass",
-        "munsell"
+        "askpass"
     ],
     "GWENA": [
         "WGCNA",
@@ -33297,7 +32912,6 @@
         "httr",
         "htmlwidgets",
         "promises",
-        "munsell",
         "knitr",
         "openssl",
         "Biostrings",
@@ -33344,7 +32958,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "cachem"
     ],
@@ -33550,7 +33163,6 @@
         "openssl",
         "nlme",
         "hms",
-        "munsell",
         "blob",
         "lambda.r",
         "Biostrings",
@@ -33582,7 +33194,6 @@
         "pillar",
         "mgcv",
         "scales",
-        "munsell",
         "gridExtra"
     ],
     "hiAnnotator": [
@@ -33609,7 +33220,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "munsell",
         "SummarizedExperiment",
         "BiocParallel",
         "nlme",
@@ -33649,7 +33259,6 @@
         "tzdb",
         "plyr",
         "rhdf5filters",
-        "munsell",
         "pillar",
         "gridExtra",
         "lambda.r",
@@ -33701,7 +33310,6 @@
         "R.oo",
         "Biostrings",
         "Rhtslib",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray"
     ],
@@ -33765,7 +33373,6 @@
         "AnnotationFilter",
         "interp",
         "nlme",
-        "munsell",
         "dbplyr",
         "lambda.r",
         "survival",
@@ -33838,7 +33445,6 @@
         "calibrate",
         "broom",
         "car",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -33921,7 +33527,6 @@
         "RcppTOML",
         "here",
         "rhdf5filters",
-        "munsell",
         "ellipsis",
         "purrr",
         "bit64",
@@ -34059,7 +33664,6 @@
         "memoise",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "dbplyr",
         "SummarizedExperiment",
         "BiocParallel",
@@ -34168,7 +33772,6 @@
         "RcppTOML",
         "here",
         "RcppEigen",
-        "munsell",
         "Biobase",
         "RCurl"
     ],
@@ -34206,7 +33809,6 @@
         "Rhtslib",
         "BiocIO",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -34260,8 +33862,7 @@
         "mgcv",
         "scales",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "HPAStainR": [
         "dplyr",
@@ -34274,7 +33875,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "munsell",
         "httpuv",
         "fontawesome",
         "htmltools",
@@ -34327,7 +33927,6 @@
         "hardhat",
         "ipred",
         "lubridate",
-        "munsell",
         "bit64",
         "progress",
         "survival",
@@ -34434,7 +34033,6 @@
         "KEGGREST",
         "RCurl",
         "nlme",
-        "munsell",
         "pillar",
         "openssl",
         "Biostrings",
@@ -34562,7 +34160,6 @@
         "bslib",
         "jquerylib",
         "tinytex",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -34622,8 +34219,7 @@
         "tidyselect",
         "pillar",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "iBMQ": [
         "Biobase",
@@ -34635,7 +34231,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "iCARE": [
@@ -34660,7 +34255,6 @@
         "RcppEigen",
         "highr",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "Icens": [
@@ -34722,7 +34316,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "dbplyr",
         "dplyr",
@@ -34804,7 +34397,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "dbplyr",
         "dplyr",
@@ -34863,7 +34455,6 @@
         "GenomicRanges",
         "BiocParallel",
         "Rhtslib",
-        "munsell",
         "gridExtra",
         "futile.logger",
         "rtracklayer",
@@ -34902,7 +34493,6 @@
         "plyr",
         "stringr",
         "gplots",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -35019,7 +34609,6 @@
         "doParallel",
         "bit64",
         "blob",
-        "munsell",
         "TSP",
         "gclus",
         "igraph",
@@ -35097,8 +34686,7 @@
         "scales",
         "RCurl",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "idr2d": [
         "dplyr",
@@ -35123,7 +34711,6 @@
         "Matrix",
         "RcppTOML",
         "here",
-        "munsell",
         "nlme"
     ],
     "iGC": [
@@ -35160,7 +34747,6 @@
         "callr",
         "processx",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "igvR": [
@@ -35261,7 +34847,6 @@
         "RcppArmadillo",
         "stringr",
         "RcppEigen",
-        "munsell",
         "GenomicRanges",
         "DelayedArray",
         "MatrixGenerics",
@@ -35320,7 +34905,6 @@
         "S4Vectors",
         "KEGGREST",
         "nlme",
-        "munsell",
         "pillar",
         "openssl",
         "Biostrings",
@@ -35386,7 +34970,6 @@
         "blob",
         "memoise",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "ellipsis",
@@ -35497,7 +35080,6 @@
         "later",
         "sp",
         "terra",
-        "munsell",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -35581,7 +35163,6 @@
         "knitr",
         "stringr",
         "tinytex",
-        "munsell",
         "sass",
         "cachem",
         "memoise",
@@ -35633,7 +35214,6 @@
         "openssl",
         "nlme",
         "Matrix",
-        "munsell",
         "bit64",
         "progress",
         "askpass"
@@ -35783,7 +35363,6 @@
         "promises",
         "RcppTOML",
         "here",
-        "munsell",
         "sp",
         "httpuv",
         "fontawesome",
@@ -35879,7 +35458,6 @@
         "Matrix",
         "Rhtslib",
         "restfulr",
-        "munsell",
         "ade4",
         "segmented",
         "sp",
@@ -35959,7 +35537,6 @@
         "openssl",
         "nlme",
         "hms",
-        "munsell",
         "pillar",
         "purrr",
         "tidyselect",
@@ -36011,7 +35588,6 @@
         "Rhtslib",
         "broom",
         "car",
-        "munsell",
         "ellipsis",
         "futile.logger",
         "pbkrtest",
@@ -36086,7 +35662,6 @@
         "stringr",
         "Rhtslib",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
@@ -36166,7 +35741,6 @@
         "httr",
         "selectr",
         "tibble",
-        "munsell",
         "callr",
         "processx",
         "openssl",
@@ -36220,7 +35794,6 @@
         "nlme",
         "bit64",
         "blob",
-        "munsell",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -36309,7 +35882,6 @@
         "Matrix",
         "purrr",
         "cellranger",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -36424,7 +35996,6 @@
         "openssl",
         "cachem",
         "hms",
-        "munsell",
         "pillar",
         "purrr",
         "tidyselect",
@@ -36507,7 +36078,6 @@
         "interp",
         "nlme",
         "Matrix",
-        "munsell",
         "RcppEigen",
         "MatrixGenerics",
         "DelayedArray"
@@ -36560,7 +36130,6 @@
         "gridtext",
         "nlme",
         "car",
-        "munsell",
         "knitr",
         "zoo",
         "km.ci",
@@ -36676,7 +36245,6 @@
         "interp",
         "doParallel",
         "foreach",
-        "munsell",
         "RcppEigen",
         "highr",
         "nlme",
@@ -36832,7 +36400,6 @@
         "memoise",
         "broom",
         "car",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -36917,7 +36484,6 @@
         "reactR",
         "haven",
         "openxlsx",
-        "munsell",
         "bit64"
     ],
     "iSEE": [
@@ -36970,7 +36536,6 @@
         "memoise",
         "RCurl",
         "XVector",
-        "munsell",
         "pillar"
     ],
     "iSEEhex": [
@@ -37024,7 +36589,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "anytime",
         "pillar"
     ],
@@ -37096,8 +36660,7 @@
         "anytime",
         "purrr",
         "Biostrings",
-        "askpass",
-        "munsell"
+        "askpass"
     ],
     "iSEEu": [
         "iSEE",
@@ -37151,7 +36714,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "anytime",
         "pillar"
     ],
@@ -37196,7 +36758,6 @@
         "nlme",
         "Matrix",
         "hms",
-        "munsell",
         "pillar",
         "blob",
         "purrr",
@@ -37313,7 +36874,6 @@
         "ellipsis",
         "nlme",
         "Rhtslib",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "bit64",
@@ -37405,7 +36965,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "lambda.r",
         "openssl",
         "cachem",
@@ -37508,7 +37067,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "ellipsis",
         "purrr",
         "dbplyr",
@@ -37585,7 +37143,6 @@
         "gridtext",
         "openssl",
         "nlme",
-        "munsell",
         "knitr",
         "zoo",
         "km.ci",
@@ -37632,7 +37189,6 @@
         "tibble",
         "vctrs",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "karyoploteR": [
@@ -37684,7 +37240,6 @@
         "bit64",
         "blob",
         "lifecycle",
-        "munsell",
         "Matrix",
         "DelayedArray",
         "dbplyr",
@@ -37761,7 +37316,6 @@
         "nlme",
         "Matrix",
         "restfulr",
-        "munsell",
         "DelayedArray",
         "progress",
         "httr",
@@ -37951,7 +37505,6 @@
         "Matrix",
         "plyr",
         "stringr",
-        "munsell",
         "MatrixGenerics",
         "pillar",
         "tidyselect",
@@ -38056,7 +37609,6 @@
         "purrr",
         "tidyr",
         "tidyselect",
-        "munsell",
         "pillar",
         "IRanges",
         "RSQLite",
@@ -38194,7 +37746,6 @@
         "waldo",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar",
         "diffobj",
         "rematch2"
@@ -38224,7 +37775,6 @@
         "nlme",
         "TH.data",
         "sandwich",
-        "munsell",
         "pillar",
         "zoo"
     ],
@@ -38276,7 +37826,6 @@
         "memoise",
         "nlme",
         "askpass",
-        "munsell",
         "diffobj",
         "rematch2"
     ],
@@ -38313,7 +37862,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "lineagespot": [
@@ -38399,7 +37947,6 @@
         "haven",
         "readxl",
         "openxlsx",
-        "munsell",
         "Matrix",
         "MatrixGenerics",
         "tidyselect",
@@ -38460,7 +38007,6 @@
         "vctrs",
         "gdata",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "LinTInd": [
@@ -38502,7 +38048,6 @@
         "RCurl",
         "htmltools",
         "Matrix",
-        "munsell",
         "ellipsis"
     ],
     "lionessR": [
@@ -38562,7 +38107,6 @@
         "htmlwidgets",
         "crosstalk",
         "promises",
-        "munsell",
         "gmm",
         "lambda.r",
         "sandwich",
@@ -38607,7 +38151,6 @@
         "cachem",
         "nlme",
         "Matrix",
-        "munsell",
         "RCurl",
         "askpass"
     ],
@@ -38675,7 +38218,6 @@
         "RcppEigen",
         "minqa",
         "nloptr",
-        "munsell",
         "classInt",
         "s2",
         "units",
@@ -38750,7 +38292,6 @@
         "interp",
         "doParallel",
         "foreach",
-        "munsell",
         "RcppEigen",
         "highr",
         "nlme",
@@ -38769,8 +38310,7 @@
         "scales",
         "lambda.r",
         "RCurl",
-        "lifecycle",
-        "munsell"
+        "lifecycle"
     ],
     "logicFS": [
         "LogicReg",
@@ -38897,7 +38437,6 @@
         "memoise",
         "restfulr",
         "selectr",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -38965,7 +38504,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "purrr",
         "htmltools",
         "htmlwidgets",
@@ -39044,7 +38582,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "dbplyr",
         "dplyr",
@@ -39111,7 +38648,6 @@
         "patchwork",
         "lambda.r",
         "RCurl",
-        "munsell",
         "ellipsis"
     ],
     "M3C": [
@@ -39135,7 +38671,6 @@
         "RcppTOML",
         "here",
         "RcppEigen",
-        "munsell",
         "pillar"
     ],
     "M3Drop": [
@@ -39171,7 +38706,6 @@
         "highr",
         "loo",
         "pkgbuild",
-        "munsell",
         "pillar",
         "callr",
         "processx"
@@ -39254,7 +38788,6 @@
         "timechange",
         "cachem",
         "askpass",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -39319,7 +38852,6 @@
         "MatrixModels",
         "plyr",
         "stringr",
-        "munsell",
         "ellipsis",
         "purrr",
         "tidyr",
@@ -39414,7 +38946,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "ellipsis",
         "purrr",
         "tidyr",
@@ -39486,7 +39017,6 @@
         "nlme",
         "Matrix",
         "hms",
-        "munsell",
         "pillar",
         "ellipsis",
         "askpass"
@@ -39679,7 +39209,6 @@
         "GenomicFeatures",
         "Biostrings",
         "RSQLite",
-        "munsell",
         "pillar",
         "httr",
         "KEGGREST",
@@ -39798,7 +39327,6 @@
         "RCurl",
         "Biostrings",
         "nlme",
-        "munsell",
         "ellipsis",
         "dbplyr",
         "XVector",
@@ -39918,7 +39446,6 @@
         "htmltools",
         "jquerylib",
         "tinytex",
-        "munsell",
         "bit64",
         "sass",
         "cachem",
@@ -40016,7 +39543,6 @@
         "styler",
         "classInt",
         "labelled",
-        "munsell",
         "RcppEigen",
         "haven",
         "lava",
@@ -40142,7 +39668,6 @@
         "prodlim",
         "timechange",
         "cachem",
-        "munsell",
         "askpass",
         "lava",
         "future.apply",
@@ -40176,8 +39701,7 @@
         "DelayedArray",
         "RCurl",
         "XVector",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "marray": [],
     "martini": [
@@ -40242,7 +39766,6 @@
         "Matrix",
         "later",
         "Rhtslib",
-        "munsell",
         "dbplyr",
         "futile.logger",
         "survival",
@@ -40311,7 +39834,6 @@
         "XVector",
         "ellipsis",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "MatrixGenerics": [],
@@ -40395,7 +39917,6 @@
         "RcppTOML",
         "here",
         "RcppEigen",
-        "munsell",
         "gmm",
         "sandwich",
         "zoo"
@@ -40454,7 +39975,6 @@
         "openssl",
         "nlme",
         "Matrix",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar",
@@ -40549,7 +40069,6 @@
         "survival",
         "highr",
         "testthat",
-        "munsell",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -40603,8 +40122,7 @@
         "scales",
         "openssl",
         "nlme",
-        "askpass",
-        "munsell"
+        "askpass"
     ],
     "mbOmic": [
         "doParallel",
@@ -40655,7 +40173,6 @@
         "RcppEigen",
         "highr",
         "cachem",
-        "munsell",
         "pillar",
         "RCurl",
         "askpass"
@@ -40706,8 +40223,7 @@
         "lifecycle",
         "tidyselect",
         "pillar",
-        "scales",
-        "munsell"
+        "scales"
     ],
     "MBQN": [
         "SummarizedExperiment",
@@ -40753,7 +40269,6 @@
         "highr",
         "nlme",
         "bit64",
-        "munsell",
         "class",
         "askpass"
     ],
@@ -40785,7 +40300,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "Hmisc",
         "foreach",
         "doParallel",
@@ -40883,7 +40397,6 @@
         "blob",
         "memoise",
         "restfulr",
-        "munsell",
         "pillar",
         "purrr",
         "tidyselect",
@@ -40911,7 +40424,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "mdqc": [],
@@ -41029,7 +40541,6 @@
         "Rhtslib",
         "restfulr",
         "gridExtra",
-        "munsell",
         "multtest",
         "edgeR",
         "pillar",
@@ -41140,7 +40651,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "ellipsis",
         "purrr",
         "progress",
@@ -41238,7 +40748,6 @@
         "TH.data",
         "sandwich",
         "lifecycle",
-        "munsell",
         "Matrix",
         "minqa",
         "nloptr",
@@ -41334,7 +40843,6 @@
         "cachem",
         "memoise",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "Melissa": [
@@ -41378,7 +40886,6 @@
         "MatrixModels",
         "survival",
         "bslib",
-        "munsell",
         "pillar",
         "sass",
         "cachem",
@@ -41425,7 +40932,6 @@
         "nlme",
         "Matrix",
         "R.oo",
-        "munsell",
         "callr",
         "pkgload",
         "waldo",
@@ -41533,7 +41039,6 @@
         "RcppArmadillo",
         "cachem",
         "askpass",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -41625,7 +41130,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "openssl",
         "cachem",
         "askpass"
@@ -41642,7 +41146,6 @@
         "vctrs",
         "Matrix",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "Metab": [
@@ -41682,7 +41185,6 @@
         "vctrs",
         "doParallel",
         "foreach",
-        "munsell",
         "nlme",
         "pillar"
     ],
@@ -41720,7 +41222,6 @@
         "survival",
         "prodlim",
         "timechange",
-        "munsell",
         "lava",
         "future.apply",
         "progressr",
@@ -41780,7 +41281,6 @@
         "openssl",
         "cachem",
         "later",
-        "munsell",
         "ellipsis",
         "nlme",
         "askpass"
@@ -41839,7 +41339,6 @@
         "lambda.r",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "MetaboSignal": [
@@ -41931,7 +41430,6 @@
         "Rhtslib",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "futile.logger",
         "tidyr",
         "highr",
@@ -41982,7 +41480,6 @@
         "ggsignif",
         "gridExtra",
         "rstatix",
-        "munsell",
         "broom",
         "car",
         "stringr",
@@ -42047,7 +41544,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar",
@@ -42093,7 +41589,6 @@
         "lambda.r",
         "nlme",
         "Matrix",
-        "munsell",
         "MatrixGenerics",
         "Biobase",
         "DelayedArray"
@@ -42159,7 +41654,6 @@
         "interp",
         "doParallel",
         "foreach",
-        "munsell",
         "RcppEigen",
         "highr",
         "nlme",
@@ -42192,8 +41686,7 @@
         "purrr",
         "RCurl",
         "XVector",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "MetaPhOR": [
         "ggplot2",
@@ -42258,7 +41751,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "ellipsis",
         "ggfun",
         "ggplotify",
@@ -42310,7 +41802,6 @@
         "vctrs",
         "lambda.r",
         "nlme",
-        "munsell",
         "pillar",
         "gridExtra"
     ],
@@ -42429,7 +41920,6 @@
         "hms",
         "later",
         "plyr",
-        "munsell",
         "TSP",
         "gclus",
         "latticeExtra",
@@ -42511,7 +42001,6 @@
         "graph",
         "RBGL",
         "stringr",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "KEGGREST",
@@ -42572,7 +42061,6 @@
         "multcomp",
         "later",
         "robustbase",
-        "munsell",
         "sn",
         "survival",
         "TH.data",
@@ -42595,7 +42083,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "httpuv",
         "fontawesome",
         "htmltools",
@@ -42662,7 +42149,6 @@
         "BiocIO",
         "restfulr",
         "lifecycle",
-        "munsell",
         "tibble",
         "vctrs",
         "stringr",
@@ -42687,7 +42173,6 @@
         "stringr",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "methInheritSim": [
@@ -42731,7 +42216,6 @@
         "vctrs",
         "stringr",
         "lambda.r",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar"
@@ -42804,7 +42288,6 @@
         "memoise",
         "broom",
         "car",
-        "munsell",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -42870,7 +42353,6 @@
         "BiocParallel",
         "nlme",
         "Rhtslib",
-        "munsell",
         "pillar",
         "futile.logger",
         "lambda.r"
@@ -42951,7 +42433,6 @@
         "rhdf5filters",
         "base64",
         "plyr",
-        "munsell",
         "multtest",
         "pillar",
         "httr",
@@ -43046,7 +42527,6 @@
         "plyr",
         "Rhtslib",
         "restfulr",
-        "munsell",
         "multtest",
         "openssl",
         "progress",
@@ -43195,7 +42675,6 @@
         "knitr",
         "car",
         "selectr",
-        "munsell",
         "multtest",
         "waldo",
         "gert",
@@ -43325,7 +42804,6 @@
         "bit64",
         "blob",
         "gridExtra",
-        "munsell",
         "MatrixGenerics",
         "ggfun",
         "ggplotify",
@@ -43415,7 +42893,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "munsell",
         "pillar",
         "SummarizedExperiment",
         "stringr",
@@ -43459,7 +42936,6 @@
         "vctrs",
         "stringr",
         "lambda.r",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar"
@@ -43479,7 +42955,6 @@
         "R.utils",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "methylMnM": [
@@ -43544,7 +43019,6 @@
         "blob",
         "memoise",
         "lifecycle",
-        "munsell",
         "vctrs",
         "pillar",
         "purrr",
@@ -43677,7 +43151,6 @@
         "rhdf5filters",
         "R.oo",
         "lifecycle",
-        "munsell",
         "lambda.r",
         "Rhtslib",
         "GenomicAlignments",
@@ -43729,7 +43202,6 @@
         "BiocParallel",
         "plyr",
         "stringr",
-        "munsell",
         "MatrixGenerics",
         "Matrix",
         "openssl",
@@ -43827,7 +43299,6 @@
         "systemfonts",
         "textshaping",
         "tinytex",
-        "munsell",
         "httpuv",
         "fontawesome",
         "pillar",
@@ -43868,8 +43339,7 @@
         "RCurl",
         "XVector",
         "plyr",
-        "stringr",
-        "munsell"
+        "stringr"
     ],
     "mfa": [
         "ggplot2",
@@ -43898,7 +43368,6 @@
         "reshape",
         "MatrixModels",
         "survival",
-        "munsell",
         "ellipsis",
         "purrr",
         "hms"
@@ -44041,8 +43510,7 @@
         "sitmo",
         "cachem",
         "systemfonts",
-        "textshaping",
-        "munsell"
+        "textshaping"
     ],
     "miaSim": [
         "SummarizedExperiment",
@@ -44155,7 +43623,6 @@
         "RcppEigen",
         "ragg",
         "RcppArmadillo",
-        "munsell",
         "RcppAnnoy",
         "dqrng",
         "sitmo",
@@ -44202,7 +43669,6 @@
         "multtest",
         "plyr",
         "stringr",
-        "munsell",
         "ellipsis",
         "purrr",
         "sp",
@@ -44251,7 +43717,6 @@
         "RcppEigen",
         "sandwich",
         "stringr",
-        "munsell",
         "pillar",
         "locfit",
         "RCurl",
@@ -44350,7 +43815,6 @@
         "nloptr",
         "MatrixModels",
         "rhdf5filters",
-        "munsell",
         "TSP",
         "gclus",
         "MatrixGenerics",
@@ -44498,7 +43962,6 @@
         "stringr",
         "RcppZiggurat",
         "rhdf5filters",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -44638,7 +44101,6 @@
         "nlme",
         "stringr",
         "knitr",
-        "munsell",
         "gert",
         "gh",
         "futile.logger",
@@ -44711,8 +44173,7 @@
         "ggplotify",
         "RCurl",
         "TH.data",
-        "sandwich",
-        "munsell"
+        "sandwich"
     ],
     "microRNA": [
         "Biostrings",
@@ -44768,7 +44229,6 @@
         "tinytex",
         "httr",
         "selectr",
-        "munsell",
         "systemfonts",
         "callr",
         "sass",
@@ -44822,7 +44282,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -44884,7 +44343,6 @@
         "RcppEigen",
         "RcppArmadillo",
         "nlme",
-        "munsell",
         "gridExtra"
     ],
     "mimager": [
@@ -44904,7 +44362,6 @@
         "SummarizedExperiment",
         "foreach",
         "lifecycle",
-        "munsell",
         "XVector",
         "GenomeInfoDb",
         "bit64",
@@ -44940,7 +44397,6 @@
         "fBasics",
         "stable",
         "statip",
-        "munsell",
         "callr",
         "ellipsis",
         "pkgload",
@@ -44987,7 +44443,6 @@
         "htmlwidgets",
         "interp",
         "nlme",
-        "munsell",
         "pillar",
         "highr"
     ],
@@ -45042,7 +44497,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "org.Hs.eg.db",
-        "munsell",
         "affyio",
         "RCurl",
         "dbplyr",
@@ -45249,7 +44703,6 @@
         "GenomeInfoDb",
         "XVector",
         "nlme",
-        "munsell",
         "Biobase",
         "pillar",
         "RCurl"
@@ -45289,7 +44742,6 @@
         "rhdf5filters",
         "nlme",
         "R.oo",
-        "munsell",
         "pillar",
         "lambda.r",
         "Rhtslib",
@@ -45347,7 +44799,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -45447,7 +44898,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "cachem"
     ],
     "miRmine": [
@@ -45677,7 +45127,6 @@
         "timechange",
         "bit64",
         "blob",
-        "munsell",
         "broom",
         "dbplyr",
         "dtplyr",
@@ -45879,7 +45328,6 @@
         "memoise",
         "car",
         "selectr",
-        "munsell",
         "XVector",
         "GenomeInfoDb",
         "processx",
@@ -45925,8 +45373,7 @@
         "plyr",
         "stringr",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "missMethyl": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -45997,7 +45444,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "multtest",
         "openssl",
         "progress",
@@ -46041,7 +45487,6 @@
         "GenomeInfoDb",
         "XVector",
         "nlme",
-        "munsell",
         "pillar",
         "dplyr",
         "ellipsis",
@@ -46090,7 +45535,6 @@
         "hardhat",
         "ipred",
         "lubridate",
-        "munsell",
         "bit64",
         "progress",
         "survival",
@@ -46139,7 +45583,6 @@
         "nlme",
         "Matrix",
         "hms",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -46169,7 +45612,6 @@
         "RCurl",
         "nlme",
         "Matrix",
-        "munsell",
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
@@ -46230,8 +45672,7 @@
         "purrr",
         "lambda.r",
         "nlme",
-        "RcppEigen",
-        "munsell"
+        "RcppEigen"
     ],
     "MLInterfaces": [
         "Biobase",
@@ -46367,7 +45808,6 @@
         "tidyr",
         "tidyselect",
         "stringr",
-        "munsell",
         "pillar",
         "diffobj",
         "rematch2",
@@ -46429,7 +45869,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "munsell",
         "pillar",
         "lambda.r",
         "SummarizedExperiment",
@@ -46491,7 +45930,6 @@
         "foreach",
         "gplots",
         "Wrench",
-        "munsell",
         "survival",
         "testthat",
         "broom",
@@ -46536,7 +45974,6 @@
         "robustbase",
         "gdata",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "moanin": [
@@ -46579,7 +46016,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "openssl",
         "cachem",
@@ -46614,7 +46050,6 @@
         "vctrs",
         "doParallel",
         "foreach",
-        "munsell",
         "MatrixGenerics",
         "GenomicRanges",
         "Matrix",
@@ -46668,7 +46103,6 @@
         "highr",
         "cachem",
         "nlme",
-        "munsell",
         "pillar",
         "RCurl",
         "askpass"
@@ -46724,8 +46158,7 @@
         "irlba",
         "dqrng",
         "sitmo",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "MOGAMUN": [
         "RCy3",
@@ -46820,7 +46253,6 @@
         "GenomeInfoDb",
         "XVector",
         "nlme",
-        "munsell",
         "bit64",
         "progress",
         "RCurl"
@@ -46891,7 +46323,6 @@
         "ellipsis",
         "openssl",
         "nlme",
-        "munsell",
         "pillar",
         "tidyselect",
         "progress",
@@ -46927,8 +46358,7 @@
         "scales",
         "sparsesvd",
         "gridExtra",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "MoonlightR": [
         "doParallel",
@@ -47025,7 +46455,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "tweenr",
         "systemfonts",
         "RcppEigen",
@@ -47076,8 +46505,7 @@
         "purrr",
         "tidyselect",
         "pillar",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "MOSim": [
         "zoo",
@@ -47096,7 +46524,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "munsell",
         "ellipsis",
         "nlme",
         "Matrix"
@@ -47207,7 +46634,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "purrr",
         "tidyselect",
@@ -47310,7 +46736,6 @@
         "ellipsis",
         "openssl",
         "nlme",
-        "munsell",
         "pillar",
         "tidyselect",
         "progress",
@@ -47360,7 +46785,6 @@
         "memoise",
         "BiocIO",
         "restfulr",
-        "munsell",
         "pillar",
         "AnnotationDbi",
         "httr",
@@ -47409,7 +46833,6 @@
         "mgcv",
         "openssl",
         "plyr",
-        "munsell",
         "ellipsis",
         "purrr",
         "Biobase",
@@ -47431,7 +46854,6 @@
         "S4Vectors",
         "scales",
         "lifecycle",
-        "munsell",
         "MatrixGenerics",
         "GenomicRanges",
         "Biobase",
@@ -47501,7 +46923,6 @@
         "htmltools",
         "jquerylib",
         "tinytex",
-        "munsell",
         "ellipsis",
         "sass",
         "cachem",
@@ -47641,7 +47062,6 @@
         "mgcv",
         "openssl",
         "later",
-        "munsell",
         "ellipsis",
         "nlme",
         "askpass"
@@ -47731,7 +47151,6 @@
         "blob",
         "memoise",
         "restfulr",
-        "munsell",
         "pillar",
         "purrr",
         "tidyselect",
@@ -47848,7 +47267,6 @@
         "vctrs",
         "doParallel",
         "foreach",
-        "munsell",
         "lambda.r",
         "nlme",
         "Matrix",
@@ -47884,7 +47302,6 @@
         "doParallel",
         "foreach",
         "stringr",
-        "munsell",
         "lambda.r",
         "nlme",
         "Matrix",
@@ -47912,7 +47329,6 @@
         "vctrs",
         "doParallel",
         "foreach",
-        "munsell",
         "lambda.r",
         "nlme",
         "Matrix",
@@ -47985,7 +47401,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "sass",
         "cachem",
         "htmlwidgets",
@@ -48063,7 +47478,6 @@
         "broom",
         "knitr",
         "MatrixModels",
-        "munsell",
         "ggplot2",
         "openssl",
         "Biostrings",
@@ -48106,8 +47520,7 @@
         "memoise",
         "cachem",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "msqrob2": [
         "QFeatures",
@@ -48155,7 +47568,6 @@
         "mgcv",
         "openssl",
         "later",
-        "munsell",
         "callr",
         "pkgload",
         "processx",
@@ -48184,7 +47596,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "munsell",
         "pillar",
         "callr",
         "ellipsis",
@@ -48234,7 +47645,6 @@
         "marray",
         "RcppArmadillo",
         "MSstatsTMT",
-        "munsell",
         "ellipsis",
         "broom",
         "dbplyr",
@@ -48309,7 +47719,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "MSstatsPTM": [
@@ -48345,7 +47754,6 @@
         "minqa",
         "nloptr",
         "RcppEigen",
-        "munsell",
         "testthat",
         "callr",
         "ellipsis",
@@ -48403,7 +47811,6 @@
         "doParallel",
         "foreach",
         "later",
-        "munsell",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -48465,7 +47872,6 @@
         "mzID",
         "knitr",
         "pander",
-        "munsell",
         "affyio",
         "futile.logger",
         "highr",
@@ -48520,7 +47926,6 @@
         "purrr",
         "tidyr",
         "tidyselect",
-        "munsell",
         "pillar",
         "tzdb",
         "prodlim",
@@ -48597,7 +48002,6 @@
         "minqa",
         "nloptr",
         "RcppEigen",
-        "munsell",
         "RCurl",
         "highr",
         "testthat",
@@ -48630,7 +48034,6 @@
         "marray",
         "RcppArmadillo",
         "testthat",
-        "munsell",
         "pillar",
         "callr",
         "ellipsis",
@@ -48680,7 +48083,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "MultiAssayExperiment": [
@@ -48738,7 +48140,6 @@
         "crosstalk",
         "purrr",
         "promises",
-        "munsell",
         "pillar",
         "ellipsis",
         "tidyselect",
@@ -48762,7 +48163,6 @@
         "vctrs",
         "gridExtra",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "multicrispr": [
@@ -48847,7 +48247,6 @@
         "rhdf5filters",
         "bit64",
         "blob",
-        "munsell",
         "ade4",
         "segmented",
         "sp",
@@ -48892,7 +48291,6 @@
         "DelayedArray",
         "RCurl",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "multiGSEA": [
@@ -48943,7 +48341,6 @@
         "TH.data",
         "sandwich",
         "askpass",
-        "munsell",
         "quantreg",
         "RCurl",
         "MatrixModels",
@@ -48988,7 +48385,6 @@
         "Rsamtools",
         "future.apply",
         "rhdf5filters",
-        "munsell",
         "marray",
         "snowfall",
         "future",
@@ -49209,7 +48605,6 @@
         "xopen",
         "bit64",
         "blob",
-        "munsell",
         "quantreg",
         "waldo",
         "lava",
@@ -49367,7 +48762,6 @@
         "minqa",
         "nloptr",
         "hms",
-        "munsell",
         "gridExtra",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -49570,7 +48964,6 @@
         "GenomicAlignments",
         "restfulr",
         "selectr",
-        "munsell",
         "dbplyr",
         "futile.logger",
         "pbkrtest",
@@ -49640,7 +49033,6 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "DelayedArray",
         "futile.logger",
         "progress",
@@ -49706,7 +49098,6 @@
         "survival",
         "plyr",
         "stringr",
-        "munsell",
         "pillar",
         "ellipsis",
         "purrr",
@@ -49780,7 +49171,6 @@
         "nlme",
         "hms",
         "Rhtslib",
-        "munsell",
         "pillar",
         "futile.logger",
         "purrr",
@@ -49847,7 +49237,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "dbplyr",
         "dplyr",
@@ -49939,7 +49328,6 @@
         "robustbase",
         "rhdf5filters",
         "lifecycle",
-        "munsell",
         "sn",
         "sp",
         "interactiveDisplayBase",
@@ -50060,7 +49448,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "MatrixGenerics",
         "futile.logger",
         "rtracklayer",
@@ -50108,7 +49495,6 @@
         "RCurl",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "NanoStringQCPro": [
@@ -50145,7 +49531,6 @@
         "cachem",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar",
         "RCurl",
         "askpass"
@@ -50228,7 +49613,6 @@
         "htmltools",
         "jquerylib",
         "tinytex",
-        "munsell",
         "sass"
     ],
     "NanoTube": [
@@ -50247,7 +49631,6 @@
         "plyr",
         "futile.logger",
         "nlme",
-        "munsell",
         "pillar",
         "lambda.r"
     ],
@@ -50289,7 +49672,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "cachem",
         "askpass"
@@ -50324,7 +49706,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "munsell",
         "pillar",
         "ellipsis",
         "purrr",
@@ -50380,7 +49761,6 @@
         "vctrs",
         "doParallel",
         "foreach",
-        "munsell",
         "nlme",
         "pillar"
     ],
@@ -50422,7 +49802,6 @@
         "nlme",
         "Matrix",
         "askpass",
-        "munsell",
         "pillar"
     ],
     "ndexr": [
@@ -50485,7 +49864,6 @@
         "biomaRt",
         "nlme",
         "Matrix",
-        "munsell",
         "progress",
         "stringr",
         "httr",
@@ -50569,7 +49947,6 @@
         "RcppTOML",
         "here",
         "gplots",
-        "munsell",
         "reshape2",
         "gridExtra",
         "RcppArmadillo",
@@ -50639,7 +50016,6 @@
         "prabclus",
         "gdata",
         "nlme",
-        "munsell",
         "pillar",
         "lmtest"
     ],
@@ -50677,7 +50053,6 @@
         "KEGGREST",
         "lambda.r",
         "nlme",
-        "munsell",
         "pillar",
         "openssl",
         "Biostrings",
@@ -50734,7 +50109,6 @@
         "highr",
         "cachem",
         "nlme",
-        "munsell",
         "pillar",
         "RCurl",
         "askpass"
@@ -50816,7 +50190,6 @@
         "RcppArmadillo",
         "openssl",
         "cachem",
-        "munsell",
         "gridExtra",
         "RCurl",
         "askpass"
@@ -50867,7 +50240,6 @@
         "askpass",
         "bit64",
         "memoise",
-        "munsell",
         "ellipsis",
         "cachem"
     ],
@@ -50897,7 +50269,6 @@
         "statnet.common",
         "survey",
         "nlme",
-        "munsell",
         "coda",
         "pillar",
         "minqa",
@@ -50945,7 +50316,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "XVector",
         "GenomeInfoDb",
         "openssl",
@@ -50982,8 +50352,7 @@
         "mgcv",
         "scales",
         "plyr",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "netresponse": [
         "BiocStyle",
@@ -51014,7 +50383,6 @@
         "memoise",
         "highr",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "NetSAM": [
@@ -51073,8 +50441,7 @@
         "RCurl",
         "RcppEigen",
         "highr",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "netSmooth": [
         "scater",
@@ -51142,7 +50509,6 @@
         "rncl",
         "RNeXML",
         "RcppEigen",
-        "munsell",
         "RcppAnnoy",
         "dqrng",
         "softImpute",
@@ -51253,7 +50619,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "gsubfn",
         "dbplyr",
         "XVector",
@@ -51387,7 +50752,6 @@
         "bslib",
         "knitr",
         "tinytex",
-        "munsell",
         "sass",
         "cachem",
         "memoise",
@@ -51546,7 +50910,6 @@
         "cachem",
         "nlme",
         "Rhtslib",
-        "munsell",
         "futile.logger",
         "askpass",
         "lambda.r"
@@ -51619,7 +50982,6 @@
         "cellranger",
         "progress",
         "zoo",
-        "munsell",
         "pillar",
         "ellipsis",
         "purrr",
@@ -51682,7 +51044,6 @@
         "futile.logger",
         "nlme",
         "Matrix",
-        "munsell",
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
@@ -51708,8 +51069,7 @@
         "mgcv",
         "scales",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "npGSEA": [
         "GSEABase",
@@ -51769,7 +51129,6 @@
         "interp",
         "nlme",
         "Matrix",
-        "munsell",
         "lambda.r",
         "RcppEigen",
         "MatrixGenerics",
@@ -51804,7 +51163,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "hms",
-        "munsell",
         "pillar",
         "Biostrings",
         "BiocParallel",
@@ -51887,7 +51245,6 @@
         "Rhtslib",
         "bit64",
         "memoise",
-        "munsell",
         "ellipsis",
         "jquerylib",
         "cachem",
@@ -51995,7 +51352,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "GenomicAlignments",
         "latticeExtra",
         "ellipsis",
@@ -52099,7 +51455,6 @@
         "memoise",
         "broom",
         "car",
-        "munsell",
         "DelayedArray",
         "ellipsis",
         "progress",
@@ -52216,7 +51571,6 @@
         "Rhtslib",
         "bit64",
         "blob",
-        "munsell",
         "futile.logger",
         "survival",
         "gridExtra",
@@ -52328,7 +51682,6 @@
         "doParallel",
         "reshape2",
         "Biobase",
-        "munsell",
         "ellipsis",
         "hardhat",
         "shiny",
@@ -52537,7 +51890,6 @@
         "lobstr",
         "calibrate",
         "plyr",
-        "munsell",
         "pillar",
         "httr",
         "RSQLite",
@@ -52599,7 +51951,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "OMICsPCA": [
@@ -52697,7 +52048,6 @@
         "Rhtslib",
         "httr",
         "selectr",
-        "munsell",
         "systemfonts",
         "callr",
         "KEGGREST",
@@ -52826,7 +52176,6 @@
         "rstatix",
         "gridtext",
         "askpass",
-        "munsell",
         "knitr",
         "zoo",
         "km.ci",
@@ -52869,7 +52218,6 @@
         "tzdb",
         "nlme",
         "Matrix",
-        "munsell",
         "bit64",
         "progress"
     ],
@@ -52932,7 +52280,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "oncoscanR": [
@@ -53016,7 +52363,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "munsell",
         "ellipsis",
         "purrr",
         "tidyr",
@@ -53068,7 +52414,6 @@
         "pillar",
         "mgcv",
         "openssl",
-        "munsell",
         "nlme",
         "Matrix",
         "askpass"
@@ -53161,7 +52506,6 @@
         "pillar",
         "mgcv",
         "interp",
-        "munsell",
         "RcppEigen",
         "nlme"
     ],
@@ -53200,7 +52544,6 @@
         "htmlTable",
         "viridis",
         "htmltools",
-        "munsell",
         "ade4",
         "segmented",
         "sp",
@@ -53272,7 +52615,6 @@
         "htmlTable",
         "viridis",
         "highr",
-        "munsell",
         "ade4",
         "segmented",
         "sp",
@@ -53330,7 +52672,6 @@
         "MatrixModels",
         "plyr",
         "reshape2",
-        "munsell",
         "ellipsis",
         "purrr",
         "TMB",
@@ -53470,7 +52811,6 @@
         "rmarkdown",
         "htmlwidgets",
         "xopen",
-        "munsell",
         "waldo",
         "pillar",
         "gert",
@@ -53540,8 +52880,7 @@
         "plyr",
         "stringr",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "OrderedList": [
         "Biobase",
@@ -53640,7 +52979,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "ellipsis",
         "cachem"
     ],
@@ -53798,7 +53136,6 @@
         "tzdb",
         "broom",
         "car",
-        "munsell",
         "ellipsis",
         "stringr",
         "pbkrtest",
@@ -53920,7 +53257,6 @@
         "purrr",
         "promises",
         "stringr",
-        "munsell",
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
@@ -54070,7 +53406,6 @@
         "later",
         "MatrixModels",
         "survival",
-        "munsell",
         "stringr",
         "highr",
         "testthat",
@@ -54169,7 +53504,6 @@
         "ellipsis",
         "openssl",
         "nlme",
-        "munsell",
         "pillar",
         "tidyselect",
         "progress",
@@ -54245,7 +53579,6 @@
         "vctrs",
         "Matrix",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "panelcn.mops": [
@@ -54355,7 +53688,6 @@
         "askpass",
         "MatrixModels",
         "zoo",
-        "munsell",
         "gridExtra",
         "RCurl"
     ],
@@ -54453,7 +53785,6 @@
         "RcppArmadillo",
         "nlme",
         "plyr",
-        "munsell",
         "callr",
         "pkgload",
         "waldo",
@@ -54520,7 +53851,6 @@
         "plyr",
         "stringr",
         "Rhtslib",
-        "munsell",
         "futile.logger",
         "MatrixGenerics",
         "Biobase",
@@ -54615,7 +53945,6 @@
         "httr",
         "purrr",
         "gplots",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -54688,7 +54017,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "pathview": [
@@ -54814,7 +54142,6 @@
         "purrr",
         "bslib",
         "tinytex",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -54884,14 +54211,12 @@
         "stringr",
         "lambda.r",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "pcxn": [
         "pheatmap",
         "scales",
-        "lifecycle",
-        "munsell"
+        "lifecycle"
     ],
     "PDATK": [
         "SummarizedExperiment",
@@ -54954,7 +54279,6 @@
         "shinydashboard",
         "visNetwork",
         "vcd",
-        "munsell",
         "GenomeInfoDb",
         "prodlim",
         "ipred",
@@ -55095,8 +54419,7 @@
         "MatrixGenerics",
         "tidyselect",
         "pillar",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "peakPantheR": [
         "foreach",
@@ -55133,7 +54456,6 @@
         "affy",
         "pcaMethods",
         "mzID",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -55242,7 +54564,6 @@
         "nlme",
         "systemfonts",
         "textshaping",
-        "munsell",
         "pillar"
     ],
     "pengls": [
@@ -55272,7 +54593,6 @@
         "stringr",
         "nlme",
         "RcppArmadillo",
-        "munsell",
         "pillar"
     ],
     "pepStat": [
@@ -55295,7 +54615,6 @@
         "RCurl",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar",
         "gridExtra"
     ],
@@ -55335,7 +54654,6 @@
         "GenomeInfoDb",
         "MatrixModels",
         "stringr",
-        "munsell",
         "pillar",
         "RCurl",
         "rhdf5filters"
@@ -55369,7 +54687,6 @@
         "nlme",
         "Matrix",
         "Rhtslib",
-        "munsell",
         "pillar",
         "MatrixGenerics",
         "Biobase",
@@ -55420,7 +54737,6 @@
         "shadowtext",
         "ggtree",
         "nlme",
-        "munsell",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -55499,7 +54815,6 @@
         "knitr",
         "webutils",
         "rhdf5filters",
-        "munsell",
         "systemfonts",
         "futile.logger",
         "tidyselect",
@@ -55576,7 +54891,6 @@
         "shinyjs",
         "shinydashboard",
         "visNetwork",
-        "munsell",
         "dplyr",
         "ellipsis",
         "purrr",
@@ -55670,7 +54984,6 @@
         "calibrate",
         "bit64",
         "blob",
-        "munsell",
         "callr",
         "pkgload",
         "processx",
@@ -55703,8 +55016,7 @@
         "purrr",
         "RCurl",
         "XVector",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "phenoTest": [
         "Biobase",
@@ -55759,7 +55071,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -55809,7 +55120,6 @@
         "survival",
         "RcppZiggurat",
         "RcppArmadillo",
-        "munsell",
         "pillar",
         "ellipsis",
         "purrr",
@@ -55845,8 +55155,7 @@
         "tidyselect",
         "ggplotify",
         "patchwork",
-        "pillar",
-        "munsell"
+        "pillar"
     ],
     "PhIPData": [
         "SummarizedExperiment",
@@ -55940,7 +55249,6 @@
         "hms",
         "broom",
         "car",
-        "munsell",
         "coda",
         "pbkrtest",
         "quantreg",
@@ -56022,7 +55330,6 @@
         "highr",
         "stringr",
         "Matrix",
-        "munsell",
         "pillar",
         "graph",
         "GO.db",
@@ -56061,7 +55368,6 @@
         "vctrs",
         "survival",
         "stringr",
-        "munsell",
         "RCurl",
         "rhdf5filters",
         "pillar"
@@ -56117,7 +55423,6 @@
         "vroom",
         "tzdb",
         "gplots",
-        "munsell",
         "hexbin",
         "ape",
         "stringr",
@@ -56167,7 +55472,6 @@
         "cowplot",
         "Matrix",
         "lifecycle",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -56284,7 +55588,6 @@
         "stringr",
         "nlme",
         "bslib",
-        "munsell",
         "ellipsis",
         "ggfun",
         "ggplotify",
@@ -56370,7 +55673,6 @@
         "blob",
         "memoise",
         "lifecycle",
-        "munsell",
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
@@ -56429,7 +55731,6 @@
         "stringr",
         "V8",
         "plyr",
-        "munsell",
         "scuttle",
         "gridExtra",
         "DelayedArray",
@@ -56588,7 +55889,6 @@
         "cachem",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "plgem": [
@@ -56665,7 +55965,6 @@
         "futile.logger",
         "nlme",
         "Matrix",
-        "munsell",
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
@@ -56711,7 +56010,6 @@
         "tzdb",
         "cellranger",
         "progress",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -56825,7 +56123,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "PoDCall": [
@@ -56860,7 +56157,6 @@
         "memoise",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar",
         "bit64",
         "tidyselect",
@@ -56934,7 +56230,6 @@
         "Matrix",
         "nlme",
         "askpass",
-        "munsell",
         "MatrixGenerics",
         "GenomicRanges",
         "IRanges",
@@ -57035,7 +56330,6 @@
         "hardhat",
         "ipred",
         "lubridate",
-        "munsell",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -57119,7 +56413,6 @@
         "XVector",
         "nlme",
         "hms",
-        "munsell",
         "pillar",
         "ellipsis"
     ],
@@ -57165,7 +56458,6 @@
         "nlme",
         "callr",
         "processx",
-        "munsell",
         "askpass"
     ],
     "PPInfer": [
@@ -57205,7 +56497,6 @@
         "nlme",
         "askpass",
         "hms",
-        "munsell",
         "gsubfn",
         "pillar",
         "blob",
@@ -57307,7 +56598,6 @@
         "vctrs",
         "highr",
         "survival",
-        "munsell",
         "rhdf5filters",
         "pillar"
     ],
@@ -57388,7 +56678,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "dbplyr",
         "SummarizedExperiment",
         "BiocParallel",
@@ -57530,7 +56819,6 @@
         "vroom",
         "tzdb",
         "plyr",
-        "munsell",
         "htmlwidgets",
         "crosstalk",
         "knitr",
@@ -57591,7 +56879,6 @@
         "interp",
         "doParallel",
         "foreach",
-        "munsell",
         "quantmod",
         "nlme",
         "lambda.r",
@@ -57634,7 +56921,6 @@
         "rtracklayer",
         "biomaRt",
         "mgcv",
-        "munsell",
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
@@ -57734,7 +57020,6 @@
         "vsn",
         "lme4",
         "plyr",
-        "munsell",
         "genefilter",
         "BiocParallel",
         "edgeR",
@@ -57876,7 +57161,6 @@
         "doParallel",
         "later",
         "calibrate",
-        "munsell",
         "ellipsis",
         "askpass"
     ],
@@ -57971,7 +57255,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -58027,8 +57310,7 @@
         "scales",
         "plyr",
         "ellipsis",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "projectR": [
         "CoGAPS",
@@ -58059,7 +57341,6 @@
         "doParallel",
         "Biobase",
         "plyr",
-        "munsell",
         "gridExtra",
         "futile.logger",
         "nlme",
@@ -58132,7 +57413,6 @@
         "affy",
         "pcaMethods",
         "mzID",
-        "munsell",
         "affyio",
         "RSQLite",
         "KEGGREST",
@@ -58237,7 +57517,6 @@
         "mixtools",
         "biomaRt",
         "RcppArmadillo",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -58444,7 +57723,6 @@
         "pcaMethods",
         "mzID",
         "TTR",
-        "munsell",
         "affyio",
         "futile.logger",
         "doParallel",
@@ -58591,7 +57869,6 @@
         "nlme",
         "Matrix",
         "hms",
-        "munsell",
         "pillar",
         "blob",
         "purrr",
@@ -58695,7 +57972,6 @@
         "R.utils",
         "broom",
         "selectr",
-        "munsell",
         "systemfonts",
         "bit64",
         "callr",
@@ -58818,7 +58094,6 @@
         "bit64",
         "BiocIO",
         "restfulr",
-        "munsell",
         "foreach",
         "doRNG",
         "lambda.r",
@@ -58879,7 +58154,6 @@
         "mgcv",
         "openssl",
         "later",
-        "munsell",
         "ellipsis",
         "nlme",
         "askpass"
@@ -58924,7 +58198,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "ellipsis",
         "purrr",
         "Biostrings",
@@ -58983,7 +58256,6 @@
         "mzID",
         "httr",
         "rhdf5filters",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -59094,7 +58366,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "dbplyr",
         "dplyr",
@@ -59129,7 +58400,6 @@
         "tibble",
         "vctrs",
         "testthat",
-        "munsell",
         "callr",
         "ellipsis",
         "pkgload",
@@ -59182,7 +58452,6 @@
         "Rhtslib",
         "restfulr",
         "lifecycle",
-        "munsell",
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
@@ -59318,7 +58587,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "Matrix",
-        "munsell",
         "pillar",
         "interactiveDisplayBase",
         "dplyr",
@@ -59353,8 +58621,7 @@
         "plyr",
         "stringr",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "qcmetrics": [
         "Biobase",
@@ -59423,7 +58690,6 @@
         "mgcv",
         "openssl",
         "later",
-        "munsell",
         "ellipsis",
         "nlme",
         "askpass"
@@ -59451,7 +58717,6 @@
         "egg",
         "Matrix",
         "S4Vectors",
-        "munsell",
         "MatrixGenerics",
         "GenomicRanges",
         "Biobase",
@@ -59598,7 +58863,6 @@
         "hms",
         "vroom",
         "tzdb",
-        "munsell",
         "ellipsis",
         "affyio",
         "futile.logger",
@@ -59659,7 +58923,6 @@
         "htmltools",
         "nlme",
         "Matrix",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar",
@@ -59760,7 +59023,6 @@
         "lambda.r",
         "RcppEigen",
         "highr",
-        "munsell",
         "pillar",
         "openssl",
         "Biostrings",
@@ -59809,7 +59071,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "pillar",
         "httr",
         "RSQLite",
@@ -59859,8 +59120,7 @@
         "pillar",
         "RCurl",
         "XVector",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "quantro": [
         "Biobase",
@@ -59910,7 +59170,6 @@
         "rhdf5filters",
         "base64",
         "plyr",
-        "munsell",
         "multtest",
         "pillar",
         "httr",
@@ -60050,8 +59309,7 @@
         "purrr",
         "tidyselect",
         "pillar",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "qusage": [
         "Biobase",
@@ -60070,7 +59328,6 @@
         "stringr",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "R3CPET": [
@@ -60135,7 +59392,6 @@
         "RBGL",
         "Rhtslib",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar",
@@ -60194,7 +59450,6 @@
         "cachem",
         "nlme",
         "Matrix",
-        "munsell",
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
@@ -60284,7 +59539,6 @@
         "plyr",
         "stringr",
         "lifecycle",
-        "munsell",
         "GenomicRanges",
         "Matrix",
         "IRanges",
@@ -60373,7 +59627,6 @@
         "RCurl",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "ramwas": [
@@ -60576,7 +59829,6 @@
         "Matrix",
         "plyr",
         "stringr",
-        "munsell",
         "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
@@ -60730,7 +59982,6 @@
         "vroom",
         "tzdb",
         "Rhtslib",
-        "munsell",
         "ellipsis",
         "dbplyr",
         "futile.logger",
@@ -60764,7 +60015,6 @@
         "memoise",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "rCGH": [
@@ -60822,7 +60072,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "pillar",
         "dbplyr",
         "dplyr",
@@ -60930,7 +60179,6 @@
         "survival",
         "xts",
         "TTR",
-        "munsell",
         "pillar",
         "RCurl",
         "rhdf5filters"
@@ -60983,7 +60231,6 @@
         "RcppTOML",
         "here",
         "RcppEigen",
-        "munsell",
         "pillar"
     ],
     "Rcwl": [
@@ -61036,7 +60283,6 @@
         "tzdb",
         "RcppTOML",
         "here",
-        "munsell",
         "ggplot2",
         "gridExtra",
         "mgcv",
@@ -61102,7 +60348,6 @@
         "tzdb",
         "RcppTOML",
         "here",
-        "munsell",
         "ggplot2",
         "gridExtra",
         "mgcv",
@@ -61211,8 +60456,7 @@
         "purrr",
         "nlme",
         "Matrix",
-        "askpass",
-        "munsell"
+        "askpass"
     ],
     "ReactomePA": [
         "AnnotationDbi",
@@ -61279,7 +60523,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "ellipsis",
         "gridExtra",
         "XVector",
@@ -61341,8 +60584,7 @@
         "purrr",
         "RCurl",
         "XVector",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "reconsi": [
         "phyloseq",
@@ -61376,7 +60618,6 @@
         "XVector",
         "GenomeInfoDb",
         "survival",
-        "munsell",
         "pillar",
         "RCurl",
         "rhdf5filters"
@@ -61465,8 +60706,7 @@
         "RcppEigen",
         "highr",
         "cachem",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "recount3": [
         "SummarizedExperiment",
@@ -61637,7 +60877,6 @@
         "Matrix",
         "askpass",
         "hms",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar",
@@ -61717,7 +60956,6 @@
         "cachem",
         "nlme",
         "hms",
-        "munsell",
         "purrr",
         "ellipsis",
         "askpass"
@@ -61793,7 +61031,6 @@
         "httr",
         "Biostrings",
         "nlme",
-        "munsell",
         "ellipsis",
         "purrr",
         "knitr",
@@ -61856,7 +61093,6 @@
         "S4Vectors",
         "plyr",
         "stringr",
-        "munsell",
         "Matrix",
         "openssl",
         "reticulate",
@@ -61969,7 +61205,6 @@
         "askpass",
         "bit64",
         "blob",
-        "munsell",
         "pillar",
         "BSgenome",
         "dbplyr",
@@ -62073,7 +61308,6 @@
         "RcppEigen",
         "askpass",
         "hms",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -62194,7 +61428,6 @@
         "cachem",
         "askpass",
         "R.oo",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -62255,7 +61488,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "cachem",
         "askpass"
@@ -62339,7 +61571,6 @@
         "blob",
         "memoise",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar",
@@ -62456,7 +61687,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "munsell",
         "pillar",
         "futile.logger",
         "SummarizedExperiment",
@@ -62565,7 +61795,6 @@
         "tidyr",
         "lobstr",
         "plyr",
-        "munsell",
         "ellipsis",
         "purrr",
         "pbkrtest",
@@ -62624,7 +61853,6 @@
         "stringr",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "rfPred": [
@@ -62790,7 +62018,6 @@
         "blob",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "pillar",
         "dbplyr",
         "dplyr",
@@ -62951,7 +62178,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "Rhtslib"
     ],
     "rhdf5": [
@@ -63085,7 +62311,6 @@
         "blob",
         "memoise",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "ellipsis",
@@ -63158,7 +62383,6 @@
         "bit64",
         "memoise",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "lambda.r",
@@ -63235,7 +62459,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar",
@@ -63271,8 +62494,7 @@
         "ellipsis",
         "purrr",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "riboSeqR": [
         "GenomicRanges",
@@ -63333,7 +62555,6 @@
         "Matrix",
         "restfulr",
         "edgeR",
-        "munsell",
         "sp",
         "R.oo",
         "R.utils",
@@ -63413,7 +62634,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -63486,7 +62706,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -63545,7 +62764,6 @@
         "nlme",
         "Matrix",
         "hms",
-        "munsell",
         "pillar",
         "MatrixGenerics",
         "futile.logger",
@@ -63607,7 +62825,6 @@
         "vctrs",
         "doParallel",
         "foreach",
-        "munsell",
         "nlme",
         "pillar"
     ],
@@ -63672,7 +62889,6 @@
         "memoise",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "ellipsis",
         "purrr",
         "GO.db",
@@ -63703,7 +62919,6 @@
         "RcppEigen",
         "plyr",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "RJMCMCNucleosomes": [
@@ -63823,7 +63038,6 @@
         "Rhtslib",
         "bit64",
         "blob",
-        "munsell",
         "htmltools",
         "htmlwidgets",
         "crosstalk",
@@ -63909,7 +63123,6 @@
         "foreach",
         "askpass",
         "selectr",
-        "munsell",
         "lambda.r",
         "nlme",
         "Matrix",
@@ -64008,7 +63221,6 @@
         "blob",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -64096,7 +63308,6 @@
         "memoise",
         "BiocIO",
         "restfulr",
-        "munsell",
         "pillar",
         "foreach",
         "locfit",
@@ -64146,7 +63357,6 @@
         "tibble",
         "vctrs",
         "testthat",
-        "munsell",
         "Matrix",
         "RcppEigen",
         "nlme",
@@ -64219,7 +63429,6 @@
         "Rhtslib",
         "futile.logger",
         "askpass",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "lambda.r"
@@ -64272,7 +63481,6 @@
         "cachem",
         "nlme",
         "askpass",
-        "munsell",
         "pillar",
         "RCurl"
     ],
@@ -64329,7 +63537,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar",
@@ -64416,7 +63623,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar",
@@ -64485,7 +63691,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar",
@@ -64571,7 +63776,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar",
@@ -64608,7 +63812,6 @@
         "nlme",
         "plyr",
         "stringr",
-        "munsell",
         "pillar"
     ],
     "rnaseqcomp": [],
@@ -64714,7 +63917,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "munsell",
         "latticeExtra",
         "MatrixGenerics",
         "DelayedArray",
@@ -64826,7 +64028,6 @@
         "car",
         "BiocIO",
         "restfulr",
-        "munsell",
         "foreach",
         "doRNG",
         "pbkrtest",
@@ -64921,7 +64122,6 @@
         "HDF5Array",
         "BiocParallel",
         "stringr",
-        "munsell",
         "MatrixGenerics",
         "pillar",
         "futile.logger",
@@ -65031,7 +64231,6 @@
         "vctrs",
         "plyr",
         "stringr",
-        "munsell",
         "pillar"
     ],
     "rols": [
@@ -65097,7 +64296,6 @@
         "nlme",
         "later",
         "calibrate",
-        "munsell",
         "ellipsis",
         "askpass"
     ],
@@ -65151,7 +64349,6 @@
         "vctrs",
         "highr",
         "survival",
-        "munsell",
         "RCurl",
         "rhdf5filters",
         "pillar"
@@ -65192,7 +64389,6 @@
         "RCurl",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "rpx": [
@@ -65283,7 +64479,6 @@
         "nlme",
         "Matrix",
         "restfulr",
-        "munsell",
         "DelayedArray",
         "pillar",
         "BSgenome",
@@ -65356,7 +64551,6 @@
         "promises",
         "robustbase",
         "MatrixModels",
-        "munsell",
         "sn",
         "ellipsis",
         "stringr",
@@ -65396,8 +64590,7 @@
         "tidyselect",
         "pillar",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "rRDP": [
         "Biostrings",
@@ -65459,7 +64652,6 @@
         "RcppEigen",
         "bit64",
         "blob",
-        "munsell",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -65566,7 +64758,6 @@
         "tinytex",
         "httr",
         "selectr",
-        "munsell",
         "Matrix",
         "ggpubr",
         "gridExtra",
@@ -65703,7 +64894,6 @@
         "knitr",
         "MatrixModels",
         "lifecycle",
-        "munsell",
         "ellipsis",
         "purrr",
         "stringr",
@@ -65760,7 +64950,6 @@
         "knitr",
         "MatrixModels",
         "lifecycle",
-        "munsell",
         "ellipsis",
         "purrr",
         "stringr",
@@ -65801,7 +64990,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "car",
-        "munsell",
         "Matrix",
         "pbkrtest",
         "quantreg",
@@ -65862,8 +65050,7 @@
         "ellipsis",
         "purrr",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "rtracklayer": [
         "GenomicRanges",
@@ -65911,7 +65098,6 @@
         "RcppEigen",
         "highr",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "rTRM": [
@@ -66022,8 +65208,7 @@
         "diffobj",
         "rematch2",
         "pillar",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "RUVcorr": [
         "gridExtra",
@@ -66133,8 +65318,7 @@
         "pillar",
         "mgcv",
         "scales",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "rWikiPathways": [
         "httr",
@@ -66211,7 +65395,6 @@
         "openssl",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar",
         "dbplyr",
         "dplyr",
@@ -66297,7 +65480,6 @@
         "openssl",
         "bit64",
         "blob",
-        "munsell",
         "askpass"
     ],
     "sangerseqR": [
@@ -66355,7 +65537,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "savR": [
@@ -66369,7 +65550,6 @@
         "vctrs",
         "plyr",
         "stringr",
-        "munsell",
         "nlme",
         "Matrix",
         "pillar"
@@ -66464,7 +65644,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "Scale4C": [
@@ -66552,7 +65731,6 @@
         "RcppTOML",
         "here",
         "gplots",
-        "munsell",
         "reshape2",
         "gridExtra",
         "RcppArmadillo",
@@ -66657,7 +65835,6 @@
         "lambda.r",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "scanMiRApp": [
@@ -66735,7 +65912,6 @@
         "Rhtslib",
         "bit64",
         "blob",
-        "munsell",
         "askpass",
         "hms",
         "MatrixGenerics",
@@ -66832,7 +66008,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "gridExtra",
         "RcppArmadillo",
         "sp",
@@ -67003,7 +66178,6 @@
         "nlme",
         "systemfonts",
         "textshaping",
-        "munsell",
         "pillar"
     ],
     "scatterHatch": [
@@ -67018,7 +66192,6 @@
         "spatstat.data",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "scBFA": [
@@ -67097,7 +66270,6 @@
         "RcppTOML",
         "here",
         "gplots",
-        "munsell",
         "reshape2",
         "gridExtra",
         "sp",
@@ -67152,7 +66324,6 @@
         "treeio",
         "plyr",
         "stringr",
-        "munsell",
         "cowplot",
         "fitdistrplus",
         "ggrepel",
@@ -67289,7 +66460,6 @@
         "RcppTOML",
         "here",
         "gplots",
-        "munsell",
         "reshape2",
         "gridExtra",
         "RcppArmadillo",
@@ -67366,7 +66536,6 @@
         "rhdf5filters",
         "plyr",
         "stringr",
-        "munsell",
         "GenomicRanges",
         "GenomeInfoDb",
         "tidyr",
@@ -67417,7 +66586,6 @@
         "gridExtra",
         "loo",
         "pkgbuild",
-        "munsell",
         "sp",
         "future",
         "future.apply",
@@ -67457,7 +66625,6 @@
         "vctrs",
         "plyr",
         "stringr",
-        "munsell",
         "cowplot",
         "fitdistrplus",
         "future",
@@ -67594,7 +66761,6 @@
         "nlme",
         "systemfonts",
         "textshaping",
-        "munsell",
         "pillar"
     ],
     "scDD": [
@@ -67650,7 +66816,6 @@
         "minqa",
         "nloptr",
         "RcppEigen",
-        "munsell",
         "callr",
         "ellipsis",
         "pkgload",
@@ -67691,7 +66856,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "callr",
         "ellipsis",
         "pkgload",
@@ -67773,8 +66937,7 @@
         "mgcv",
         "scales",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "scGPS": [
         "SummarizedExperiment",
@@ -67827,7 +66990,6 @@
         "purrr",
         "tidyr",
         "stringr",
-        "munsell",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -67869,7 +67031,6 @@
         "systemfonts",
         "RcppEigen",
         "mgcv",
-        "munsell",
         "cowplot",
         "fitdistrplus",
         "future",
@@ -67978,7 +67139,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "scifer": [
@@ -68017,7 +67177,6 @@
         "jquerylib",
         "tinytex",
         "shiny",
-        "munsell",
         "sass",
         "cachem",
         "memoise",
@@ -68090,7 +67249,6 @@
         "RcppTOML",
         "here",
         "gplots",
-        "munsell",
         "reshape2",
         "gridExtra",
         "RcppArmadillo",
@@ -68143,8 +67301,7 @@
         "GenomeInfoDb",
         "RCurl",
         "XVector",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "scMerge": [
         "BiocParallel",
@@ -68189,7 +67346,6 @@
         "viridis",
         "htmltools",
         "densEstBayes",
-        "munsell",
         "nlme",
         "rstan",
         "rstantools",
@@ -68252,7 +67408,6 @@
         "callr",
         "processx",
         "bslib",
-        "munsell",
         "sass",
         "cachem",
         "memoise"
@@ -68336,7 +67491,6 @@
         "blob",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "progress",
         "purrr",
         "lambda.r",
@@ -68374,7 +67528,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "scone": [
@@ -68477,7 +67630,6 @@
         "ellipsis",
         "nlme",
         "Matrix",
-        "munsell",
         "bit64",
         "progress"
     ],
@@ -68617,7 +67769,6 @@
         "mgcv",
         "openssl",
         "later",
-        "munsell",
         "nlme",
         "askpass"
     ],
@@ -68693,7 +67844,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "munsell",
         "scuttle",
         "gridExtra",
         "Matrix",
@@ -68832,7 +67982,6 @@
         "pillar",
         "locfit",
         "mgcv",
-        "munsell",
         "ellipsis",
         "nlme",
         "Matrix"
@@ -68889,7 +68038,6 @@
         "systemfonts",
         "RcppArmadillo",
         "nlme",
-        "munsell",
         "ellipsis",
         "gridExtra"
     ],
@@ -68941,7 +68089,6 @@
         "Rhtslib",
         "Matrix",
         "restfulr",
-        "munsell",
         "latticeExtra",
         "DelayedArray",
         "MatrixGenerics",
@@ -69134,7 +68281,6 @@
         "Biostrings",
         "nlme",
         "later",
-        "munsell",
         "TSP",
         "gclus",
         "fitdistrplus",
@@ -69231,7 +68377,6 @@
         "bslib",
         "jquerylib",
         "tinytex",
-        "munsell",
         "Seurat",
         "shiny",
         "hexbin",
@@ -69437,7 +68582,6 @@
         "RcppTOML",
         "here",
         "gplots",
-        "munsell",
         "reshape2",
         "sp",
         "fontawesome",
@@ -69509,7 +68653,6 @@
         "plyr",
         "stringr",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "sechm": [
@@ -69537,8 +68680,7 @@
         "DelayedArray",
         "RCurl",
         "XVector",
-        "lifecycle",
-        "munsell"
+        "lifecycle"
     ],
     "segmenter": [
         "ChIPseeker",
@@ -69620,7 +68762,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "dbplyr",
         "futile.logger",
         "cowplot",
@@ -69713,7 +68854,6 @@
         "memoise",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "dbplyr",
         "SummarizedExperiment",
         "BiocParallel",
@@ -69813,8 +68953,7 @@
         "RcppEigen",
         "highr",
         "cachem",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "seqArchR": [
         "cvTools",
@@ -69847,7 +68986,6 @@
         "lambda.r",
         "RCurl",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "SeqArray": [
@@ -69894,7 +69032,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -69945,7 +69082,6 @@
         "vctrs",
         "Matrix",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "SeqGate": [
@@ -70011,7 +69147,6 @@
         "askpass",
         "bit64",
         "memoise",
-        "munsell",
         "cachem"
     ],
     "seqPattern": [
@@ -70056,7 +69191,6 @@
         "futile.logger",
         "nlme",
         "Matrix",
-        "munsell",
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
@@ -70119,7 +69253,6 @@
         "Matrix",
         "hms",
         "lobstr",
-        "munsell",
         "purrr",
         "Biobase",
         "KEGGREST",
@@ -70167,8 +69300,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "scales",
-        "munsell"
+        "scales"
     ],
     "sesame": [
         "sesameData",
@@ -70220,7 +69352,6 @@
         "nlme",
         "bit64",
         "memoise",
-        "munsell",
         "progress",
         "KEGGREST",
         "shiny",
@@ -70284,7 +69415,6 @@
         "stringr",
         "V8",
         "Rtsne",
-        "munsell",
         "TSP",
         "gclus",
         "httr",
@@ -70488,7 +69618,6 @@
         "base64",
         "highr",
         "Rhtslib",
-        "munsell",
         "TSP",
         "gclus",
         "multtest",
@@ -70656,7 +69785,6 @@
         "vegan",
         "hms",
         "lifecycle",
-        "munsell",
         "sp",
         "nlme",
         "rhdf5",
@@ -70784,8 +69912,7 @@
         "DelayedArray",
         "lambda.r",
         "XVector",
-        "lifecycle",
-        "munsell"
+        "lifecycle"
     ],
     "SigFuge": [
         "GenomicRanges",
@@ -70804,7 +69931,6 @@
         "RCurl",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "siggenes": [
@@ -70826,7 +69952,6 @@
         "stringr",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "signatureSearch": [
@@ -70885,7 +70010,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "GenomicRanges",
         "GenomeInfoDb",
         "htmlwidgets",
@@ -71025,7 +70149,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -71184,7 +70307,6 @@
         "memoise",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "knitr",
         "zoo",
         "km.ci",
@@ -71320,7 +70442,6 @@
         "stringr",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "SimBindProfiles": [
@@ -71351,7 +70472,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -71411,7 +70531,6 @@
         "lambda.r",
         "survival",
         "stringr",
-        "munsell",
         "rhdf5filters"
     ],
     "SIMD": [
@@ -71517,7 +70636,6 @@
         "beachmat",
         "scuttle",
         "nlme",
-        "munsell",
         "pillar",
         "blob",
         "purrr",
@@ -71581,7 +70699,6 @@
         "stringr",
         "foreach",
         "nlme",
-        "munsell",
         "pillar",
         "gridExtra"
     ],
@@ -71672,7 +70789,6 @@
         "sitmo",
         "RcppEigen",
         "lifecycle",
-        "munsell",
         "GenomicRanges",
         "GenomeInfoDb",
         "RcppHNSW",
@@ -71889,7 +71005,6 @@
         "blob",
         "GenomicAlignments",
         "restfulr",
-        "munsell",
         "sp",
         "spatstat.data",
         "spatstat.random",
@@ -72045,7 +71160,6 @@
         "openssl",
         "nlme",
         "later",
-        "munsell",
         "Biostrings",
         "askpass",
         "bit64",
@@ -72094,7 +71208,6 @@
         "rhdf5",
         "rhdf5filters",
         "nlme",
-        "munsell",
         "GenomicRanges",
         "GenomeInfoDb",
         "pillar",
@@ -72185,7 +71298,6 @@
         "pillar",
         "sp",
         "Matrix",
-        "munsell",
         "ellipsis"
     ],
     "skewr": [
@@ -72255,7 +71367,6 @@
         "plyr",
         "stringr",
         "knitr",
-        "munsell",
         "multtest",
         "affyio",
         "openssl",
@@ -72312,7 +71423,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "pillar",
         "openssl",
         "Biostrings",
@@ -72389,7 +71499,6 @@
         "Matrix",
         "httr",
         "Biostrings",
-        "munsell",
         "RCurl",
         "BiocIO",
         "biomaRt",
@@ -72461,7 +71570,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -72549,7 +71657,6 @@
         "plyr",
         "stringr",
         "Rhtslib",
-        "munsell",
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
@@ -72622,7 +71729,6 @@
         "DelayedArray",
         "lambda.r",
         "nlme",
-        "munsell",
         "latticeExtra",
         "pillar",
         "interp",
@@ -72662,7 +71768,6 @@
         "R.oo",
         "R.utils",
         "stringr",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -72736,7 +71841,6 @@
         "graph",
         "RBGL",
         "restfulr",
-        "munsell",
         "DelayedArray",
         "pillar",
         "futile.logger",
@@ -72884,7 +71988,6 @@
         "RcppTOML",
         "here",
         "gplots",
-        "munsell",
         "reshape2",
         "RcppArmadillo",
         "sp",
@@ -72951,7 +72054,6 @@
         "Biostrings",
         "nlme",
         "later",
-        "munsell",
         "ellipsis",
         "XVector",
         "GenomeInfoDb",
@@ -73021,7 +72123,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "munsell",
         "pillar",
         "futile.logger",
         "SummarizedExperiment",
@@ -73071,7 +72172,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "futile.logger",
         "blob",
         "purrr",
@@ -73139,7 +72239,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "bit64",
         "progress"
     ],
@@ -73162,7 +72261,6 @@
         "vctrs",
         "RcppTOML",
         "here",
-        "munsell",
         "SingleCellExperiment",
         "magick",
         "DropletUtils",
@@ -73265,7 +72363,6 @@
         "nloptr",
         "askpass",
         "hms",
-        "munsell",
         "RCurl",
         "testthat",
         "callr",
@@ -73485,7 +72582,6 @@
         "nlme",
         "RcppEigen",
         "bit64",
-        "munsell",
         "RcppAnnoy",
         "knitr",
         "Biostrings",
@@ -73559,7 +72655,6 @@
         "blob",
         "memoise",
         "restfulr",
-        "munsell",
         "dbplyr",
         "Hmisc",
         "VariantAnnotation",
@@ -73614,7 +72709,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "Spectra": [
@@ -73668,7 +72762,6 @@
         "R.oo",
         "Biostrings",
         "Rhtslib",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray"
     ],
@@ -73782,7 +72875,6 @@
         "R.oo",
         "RcppTOML",
         "here",
-        "munsell",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -73861,7 +72953,6 @@
         "RCurl",
         "XVector",
         "testthat",
-        "munsell",
         "classInt",
         "s2",
         "units",
@@ -73944,7 +73035,6 @@
         "tibble",
         "vctrs",
         "Rhtslib",
-        "munsell",
         "futile.logger",
         "nlme",
         "BiocIO",
@@ -73975,7 +73065,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "scuttle",
         "gridExtra",
         "Matrix",
@@ -74109,7 +73198,6 @@
         "stringr",
         "Rhtslib",
         "bit64",
-        "munsell",
         "TSP",
         "gclus",
         "callr",
@@ -74262,7 +73350,6 @@
         "blob",
         "memoise",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar",
@@ -74387,7 +73474,6 @@
         "rmarkdown",
         "car",
         "selectr",
-        "munsell",
         "processx",
         "pbkrtest",
         "quantreg",
@@ -74501,7 +73587,6 @@
         "RcppTOML",
         "here",
         "gplots",
-        "munsell",
         "reshape2",
         "RcppArmadillo",
         "sp",
@@ -74555,7 +73640,6 @@
         "XVector",
         "nlme",
         "plyr",
-        "munsell",
         "pillar",
         "RCurl"
     ],
@@ -74579,7 +73663,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "SPsimSeq": [
@@ -74634,7 +73717,6 @@
         "knitr",
         "htmlwidgets",
         "interp",
-        "munsell",
         "RCurl",
         "RcppEigen",
         "httr",
@@ -74700,7 +73782,6 @@
         "RcppTOML",
         "here",
         "RcppEigen",
-        "munsell",
         "pillar"
     ],
     "SRAdb": [
@@ -74836,7 +73917,6 @@
         "hms",
         "systemfonts",
         "textshaping",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -74920,7 +74000,6 @@
         "XVector",
         "openssl",
         "nlme",
-        "munsell",
         "tidyr",
         "gridExtra",
         "Biostrings",
@@ -74984,7 +74063,6 @@
         "haven",
         "nlme",
         "RSpectra",
-        "munsell",
         "pillar",
         "forcats",
         "hms",
@@ -75034,7 +74112,6 @@
         "RCurl",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar",
         "lambda.r"
     ],
@@ -75104,7 +74181,6 @@
         "blob",
         "memoise",
         "lifecycle",
-        "munsell",
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
@@ -75186,7 +74262,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "bit64",
         "progress",
         "KEGGREST",
@@ -75245,7 +74320,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -75292,7 +74366,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -75319,7 +74392,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "Statial": [
@@ -75388,7 +74460,6 @@
         "knitr",
         "rmarkdown",
         "selectr",
-        "munsell",
         "classInt",
         "s2",
         "units",
@@ -75447,7 +74518,6 @@
         "tidyselect",
         "systemfonts",
         "RcppEigen",
-        "munsell",
         "pillar",
         "dplyr",
         "ellipsis",
@@ -75546,7 +74616,6 @@
         "RcppTOML",
         "here",
         "gplots",
-        "munsell",
         "reshape2",
         "gridExtra",
         "RcppArmadillo",
@@ -75624,7 +74693,6 @@
         "highr",
         "nlme",
         "Matrix",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "progress",
@@ -75714,7 +74782,6 @@
         "vctrs",
         "purrr",
         "stringr",
-        "munsell",
         "knitr",
         "SummarizedExperiment",
         "S4Vectors",
@@ -75835,7 +74902,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -75872,8 +74938,7 @@
         "nlme",
         "Matrix",
         "plyr",
-        "stringr",
-        "munsell"
+        "stringr"
     ],
     "SUITOR": [
         "ggplot2",
@@ -75887,7 +74952,6 @@
         "lambda.r",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "SummarizedBenchmark": [
@@ -75922,8 +74986,7 @@
         "lambda.r",
         "RCurl",
         "XVector",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "SummarizedExperiment": [
         "MatrixGenerics",
@@ -76001,7 +75064,6 @@
         "survival",
         "prodlim",
         "timechange",
-        "munsell",
         "lava",
         "future.apply",
         "progressr"
@@ -76074,7 +75136,6 @@
         "nlme",
         "Matrix",
         "askpass",
-        "munsell",
         "bit64",
         "diffobj",
         "rematch2",
@@ -76140,7 +75201,6 @@
         "ggsignif",
         "rstatix",
         "gridtext",
-        "munsell",
         "knitr",
         "zoo",
         "km.ci",
@@ -76324,7 +75384,6 @@
         "nlme",
         "Matrix",
         "hms",
-        "munsell",
         "pillar",
         "blob",
         "purrr",
@@ -76374,8 +75433,7 @@
         "GenomeInfoDb",
         "RCurl",
         "XVector",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "synapsis": [
         "EBImage",
@@ -76433,7 +75491,6 @@
         "highr",
         "doParallel",
         "foreach",
-        "munsell",
         "Matrix",
         "pillar",
         "bit64",
@@ -76530,7 +75587,6 @@
         "knitr",
         "rmarkdown",
         "selectr",
-        "munsell",
         "classInt",
         "s2",
         "units",
@@ -76596,7 +75652,6 @@
         "nlme",
         "lme4",
         "knitr",
-        "munsell",
         "highr",
         "minqa",
         "nloptr",
@@ -76664,7 +75719,6 @@
         "nlme",
         "statnet.common",
         "Rhtslib",
-        "munsell",
         "pillar",
         "diffobj",
         "rematch2",
@@ -76706,7 +75760,6 @@
         "RCurl",
         "interp",
         "nlme",
-        "munsell",
         "pillar",
         "lambda.r",
         "RcppEigen"
@@ -76776,7 +75829,6 @@
         "R.utils",
         "knitr",
         "tinytex",
-        "munsell",
         "highr"
     ],
     "systemPipeTools": [
@@ -76840,7 +75892,6 @@
         "openssl",
         "hms",
         "later",
-        "munsell",
         "RSQLite",
         "KEGGREST",
         "lambda.r",
@@ -76899,7 +75950,6 @@
         "rhdf5filters",
         "broom",
         "car",
-        "munsell",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -76953,7 +76003,6 @@
         "patchwork",
         "tidyselect",
         "pillar",
-        "munsell",
         "ellipsis"
     ],
     "TAPseq": [
@@ -77069,7 +76118,6 @@
         "Matrix",
         "broom",
         "car",
-        "munsell",
         "stringr",
         "pbkrtest",
         "quantreg",
@@ -77131,7 +76179,6 @@
         "interp",
         "nlme",
         "Matrix",
-        "munsell",
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
@@ -77212,7 +76259,6 @@
         "dplyr",
         "purrr",
         "later",
-        "munsell",
         "genefilter",
         "pillar",
         "ellipsis",
@@ -77264,7 +76310,6 @@
         "lambda.r",
         "RCurl",
         "nlme",
-        "munsell",
         "pillar",
         "openssl",
         "Biostrings",
@@ -77322,7 +76367,6 @@
         "RCurl",
         "nlme",
         "askpass",
-        "munsell",
         "bit64",
         "blob",
         "Biostrings",
@@ -77470,7 +76514,6 @@
         "tinytex",
         "restfulr",
         "selectr",
-        "munsell",
         "ExperimentHub",
         "AnnotationHub",
         "bit64",
@@ -77609,7 +76652,6 @@
         "futile.logger",
         "RCurl",
         "nlme",
-        "munsell",
         "pillar",
         "lambda.r"
     ],
@@ -77674,7 +76716,6 @@
         "askpass",
         "bit64",
         "memoise",
-        "munsell",
         "cachem"
     ],
     "TENxIO": [
@@ -77888,7 +76929,6 @@
         "tibble",
         "vctrs",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "TFBSTools": [
@@ -77944,7 +76984,6 @@
         "openssl",
         "nlme",
         "Matrix",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "pillar",
@@ -78070,7 +77109,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "ellipsis",
         "cachem"
     ],
@@ -78151,7 +77189,6 @@
         "hms",
         "vroom",
         "tzdb",
-        "munsell",
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -78197,7 +77234,6 @@
         "openssl",
         "nlme",
         "later",
-        "munsell",
         "askpass"
     ],
     "tidySummarizedExperiment": [
@@ -78234,7 +77270,6 @@
         "openssl",
         "nlme",
         "later",
-        "munsell",
         "askpass"
     ],
     "tigre": [
@@ -78302,7 +77337,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -78343,7 +77377,6 @@
         "Matrix",
         "nlme",
         "RSpectra",
-        "munsell",
         "lambda.r",
         "RcppEigen"
     ],
@@ -78413,7 +77446,6 @@
         "IRkernel",
         "IRdisplay",
         "cellranger",
-        "munsell",
         "ellipsis",
         "RSQLite",
         "KEGGREST",
@@ -78523,7 +77555,6 @@
         "highr",
         "cachem",
         "nlme",
-        "munsell",
         "pillar",
         "RCurl",
         "askpass"
@@ -78560,7 +77591,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "openssl",
         "Biostrings",
         "bit64",
@@ -78656,7 +77686,6 @@
         "forcats",
         "viridis",
         "UpSetR",
-        "munsell",
         "SummarizedExperiment",
         "Rsamtools",
         "Biobase",
@@ -78789,7 +77818,6 @@
         "hms",
         "broom",
         "car",
-        "munsell",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -78869,8 +77897,7 @@
         "RCurl",
         "XVector",
         "nlme",
-        "hms",
-        "munsell"
+        "hms"
     ],
     "tomoda": [
         "reshape2",
@@ -78904,7 +77931,6 @@
         "RcppTOML",
         "here",
         "RcppEigen",
-        "munsell",
         "pillar"
     ],
     "tomoseqr": [
@@ -78950,7 +77976,6 @@
         "nlme",
         "Matrix",
         "bit64",
-        "munsell",
         "progress",
         "askpass"
     ],
@@ -78963,7 +77988,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "topdownr": [
@@ -78995,7 +78019,6 @@
         "nlme",
         "doParallel",
         "foreach",
-        "munsell",
         "pillar",
         "lambda.r"
     ],
@@ -79049,7 +78072,6 @@
         "mgcv",
         "plyr",
         "stringr",
-        "munsell",
         "GenomicRanges",
         "Matrix",
         "IRanges",
@@ -79125,8 +78147,7 @@
         "cachem",
         "memoise",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "TPP2D": [
         "dplyr",
@@ -79150,8 +78171,7 @@
         "purrr",
         "lambda.r",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "tracktables": [
         "IRanges",
@@ -79209,7 +78229,6 @@
         "Rhtslib",
         "restfulr",
         "lifecycle",
-        "munsell",
         "futile.logger",
         "progress",
         "stringr",
@@ -79279,8 +78298,7 @@
         "gridExtra",
         "lambda.r",
         "RCurl",
-        "XVector",
-        "munsell"
+        "XVector"
     ],
     "TrajectoryGeometry": [
         "rgl",
@@ -79297,7 +78315,6 @@
         "stringr",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "TrajectoryUtils": [
@@ -79351,7 +78368,6 @@
         "pillar",
         "openssl",
         "nlme",
-        "munsell",
         "blob",
         "Biostrings",
         "askpass",
@@ -79420,7 +78436,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "latticeExtra",
         "MatrixGenerics",
         "DelayedArray",
@@ -79484,7 +78499,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "munsell",
         "RCurl",
         "nlme",
         "Matrix"
@@ -79541,7 +78555,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "openssl",
         "cachem",
@@ -79617,7 +78630,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "traseR": [
@@ -79678,7 +78690,6 @@
         "XVector",
         "highr",
         "stringr",
-        "munsell",
         "pillar"
     ],
     "TreeAndLeaf": [
@@ -79770,7 +78781,6 @@
         "plyr",
         "stringr",
         "zoo",
-        "munsell",
         "ALL",
         "RCurl",
         "tweenr",
@@ -79917,7 +78927,6 @@
         "lambda.r",
         "highr",
         "nlme",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray"
     ],
@@ -80066,7 +79075,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "RcppAnnoy",
         "dqrng",
         "sitmo",
@@ -80106,7 +79114,6 @@
         "S4Vectors",
         "KEGGREST",
         "lambda.r",
-        "munsell",
         "pillar",
         "openssl",
         "Biostrings",
@@ -80183,7 +79190,6 @@
         "mgcv",
         "openssl",
         "knitr",
-        "munsell",
         "gert",
         "gh",
         "askpass",
@@ -80208,7 +79214,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "RCurl",
         "nlme",
         "Matrix",
@@ -80235,7 +79240,6 @@
         "tibble",
         "vctrs",
         "askpass",
-        "munsell",
         "nlme",
         "Matrix",
         "pillar"
@@ -80268,7 +79272,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "lambda.r",
         "nlme",
         "Matrix",
@@ -80290,8 +79293,7 @@
         "R.oo",
         "R.utils",
         "graph",
-        "lifecycle",
-        "munsell"
+        "lifecycle"
     ],
     "TSCAN": [
         "SingleCellExperiment",
@@ -80329,7 +79331,6 @@
         "memoise",
         "RCurl",
         "XVector",
-        "munsell",
         "pillar"
     ],
     "tscR": [
@@ -80375,7 +79376,6 @@
         "clv",
         "rgl",
         "nlme",
-        "munsell",
         "htmlwidgets"
     ],
     "ttgsea": [
@@ -80428,7 +79428,6 @@
         "RcppTOML",
         "here",
         "MatrixExtra",
-        "munsell",
         "config",
         "processx",
         "tfautograph",
@@ -80490,7 +79489,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "httpuv",
         "fontawesome",
         "htmltools",
@@ -80712,7 +79710,6 @@
         "Rhtslib",
         "bit64",
         "restfulr",
-        "munsell",
         "MatrixGenerics",
         "DelayedArray",
         "lambda.r",
@@ -80773,7 +79770,6 @@
         "memoise",
         "plyr",
         "Rhtslib",
-        "munsell",
         "latticeExtra",
         "MatrixGenerics",
         "Matrix",
@@ -80892,7 +79888,6 @@
         "tinytex",
         "bit64",
         "restfulr",
-        "munsell",
         "lambda.r",
         "survival",
         "ggplot2",
@@ -81018,7 +80013,6 @@
         "RCurl",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "updateObject": [
@@ -81062,8 +80056,7 @@
         "scales",
         "sparsesvd",
         "gridExtra",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "VAExprs": [
         "keras",
@@ -81143,7 +80136,6 @@
         "tzdb",
         "RcppTOML",
         "here",
-        "munsell",
         "SnowballC",
         "tm",
         "text2vec",
@@ -81258,7 +80250,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "munsell",
         "pillar",
         "futile.logger",
         "SummarizedExperiment",
@@ -81297,7 +80288,6 @@
         "hms",
         "plyr",
         "stringr",
-        "munsell",
         "ellipsis",
         "purrr",
         "tidyr",
@@ -81397,8 +80387,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "scales",
-        "munsell"
+        "scales"
     ],
     "VariantFiltering": [
         "VariantAnnotation",
@@ -81486,7 +80475,6 @@
         "RcppEigen",
         "askpass",
         "hms",
-        "munsell",
         "mgcv",
         "knitr",
         "highr",
@@ -81668,7 +80656,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "VegaMC": [
@@ -81762,8 +80749,7 @@
         "gridExtra",
         "plyr",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "VERSO": [
         "ape",
@@ -81807,7 +80793,6 @@
         "htmltools",
         "jquerylib",
         "tinytex",
-        "munsell",
         "MatrixGenerics",
         "Matrix",
         "GenomeInfoDb",
@@ -81900,7 +80885,6 @@
         "webshot",
         "egg",
         "R.oo",
-        "munsell",
         "graph",
         "gridExtra",
         "plyr",
@@ -81966,7 +80950,6 @@
         "org.Hs.eg.db",
         "AnnotationHub",
         "stringr",
-        "munsell",
         "koRpus.lang.en",
         "koRpus",
         "lexicon",
@@ -82040,7 +81023,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "classInt",
         "s2",
         "units",
@@ -82116,7 +81098,6 @@
         "futile.logger",
         "nlme",
         "Matrix",
-        "munsell",
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
@@ -82163,8 +81144,7 @@
         "tidyselect",
         "pillar",
         "RCurl",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "vsn": [
         "Biobase",
@@ -82178,7 +81158,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "vtpnet": [
@@ -82347,7 +81326,6 @@
         "hms",
         "bit64",
         "blob",
-        "munsell",
         "latticeExtra",
         "purrr",
         "ellipsis",
@@ -82401,7 +81379,6 @@
         "cachem",
         "testthat",
         "askpass",
-        "munsell",
         "callr",
         "ellipsis",
         "pkgload",
@@ -82468,7 +81445,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "MatrixGenerics",
         "futile.logger",
         "progress",
@@ -82555,7 +81531,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "dbplyr",
         "dplyr",
@@ -82608,7 +81583,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "openssl",
         "cachem",
@@ -82641,7 +81615,6 @@
         "mgcv",
         "plyr",
         "stringr",
-        "munsell",
         "GenomicRanges",
         "Biobase",
         "GenomeInfoDb",
@@ -82679,7 +81652,6 @@
         "nlme",
         "Matrix",
         "Rhtslib",
-        "munsell",
         "futile.logger",
         "MatrixGenerics",
         "Biobase",
@@ -82737,7 +81709,6 @@
         "nlme",
         "knitr",
         "purrr",
-        "munsell",
         "gert",
         "gh",
         "askpass",
@@ -82823,7 +81794,6 @@
         "vctrs",
         "doParallel",
         "foreach",
-        "munsell",
         "nlme",
         "pillar"
     ],
@@ -82911,7 +81881,6 @@
         "magicaxis",
         "reshape2",
         "plyr",
-        "munsell",
         "futile.logger",
         "MatrixGenerics",
         "piano",
@@ -82975,7 +81944,6 @@
         "RCurl",
         "gplots",
         "nlme",
-        "munsell",
         "gsubfn",
         "RSQLite",
         "pillar",
@@ -83115,7 +82083,6 @@
         "rngtools",
         "BiocParallel",
         "restfulr",
-        "munsell",
         "DelayedArray",
         "futile.logger",
         "progress",
@@ -83216,7 +82183,6 @@
         "askpass",
         "plyr",
         "memoise",
-        "munsell",
         "multtest",
         "rngtools",
         "lambda.r",
@@ -83316,7 +82282,6 @@
         "broom",
         "knitr",
         "RcppGSL",
-        "munsell",
         "MatrixGenerics",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -83362,8 +82327,7 @@
         "purrr",
         "RCurl",
         "XVector",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "zinbwave": [
         "SummarizedExperiment",
@@ -83484,7 +82448,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "circlize": [],
@@ -83513,7 +82476,6 @@
         "stringr",
         "tinytex",
         "lifecycle",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -83554,7 +82516,6 @@
         "stringr",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "ggdendro": [
@@ -83566,7 +82527,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "plotly": [
@@ -83588,7 +82548,6 @@
         "mgcv",
         "openssl",
         "later",
-        "munsell",
         "ellipsis",
         "nlme",
         "Matrix",
@@ -83630,8 +82589,7 @@
         "memoise"
     ],
     "scales": [
-        "lifecycle",
-        "munsell"
+        "lifecycle"
     ],
     "sass": [
         "htmltools"
@@ -83692,7 +82650,6 @@
     "lambda.r": [],
     "nlme": [],
     "later": [],
-    "munsell": [],
     "httpuv": [
         "promises",
         "later"
@@ -83738,7 +82695,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "nlme",
         "Matrix",
         "pillar"
@@ -83763,7 +82719,6 @@
         "mgcv",
         "broom",
         "car",
-        "munsell",
         "ellipsis",
         "stringr",
         "pbkrtest",
@@ -83795,7 +82750,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "shinyjs": [
@@ -83833,7 +82787,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "nlme",
         "Matrix",
         "pillar"
@@ -83845,7 +82798,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "nlme",
         "Matrix",
         "pillar"
@@ -83877,7 +82829,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "munsell",
         "highr",
         "testthat",
         "callr",
@@ -83915,8 +82866,7 @@
         "mgcv",
         "scales",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "car": [
         "mgcv",
@@ -83935,7 +82885,6 @@
         "MatrixModels",
         "survival",
         "lifecycle",
-        "munsell",
         "ellipsis",
         "purrr",
         "stringr",
@@ -83985,7 +82934,6 @@
         "mgcv",
         "scales",
         "testthat",
-        "munsell",
         "callr",
         "pkgload",
         "processx",
@@ -84198,7 +83146,6 @@
         "RcppEigen",
         "highr",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "GGally": [
@@ -84218,7 +83165,6 @@
         "ellipsis",
         "mgcv",
         "hms",
-        "munsell",
         "purrr",
         "nlme",
         "Matrix"
@@ -84261,7 +83207,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "restfulr": [
@@ -84316,7 +83261,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "Rtsne": [],
@@ -84333,8 +83277,7 @@
     ],
     "pheatmap": [
         "scales",
-        "lifecycle",
-        "munsell"
+        "lifecycle"
     ],
     "ggrastr": [
         "ggplot2",
@@ -84349,7 +83292,6 @@
         "textshaping",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "speedglm": [
@@ -84459,7 +83401,6 @@
         "nlme",
         "Matrix",
         "RcppGSL",
-        "munsell",
         "pillar",
         "askpass"
     ],
@@ -84584,7 +83525,6 @@
         "lifecycle",
         "mgcv",
         "vctrs",
-        "munsell",
         "pillar",
         "nlme",
         "Matrix"
@@ -84599,7 +83539,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "CVXR": [
@@ -84646,7 +83585,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "munsell",
         "pillar",
         "callr",
         "ellipsis",
@@ -84717,7 +83655,6 @@
         "survival",
         "prodlim",
         "timechange",
-        "munsell",
         "lava",
         "future.apply",
         "progressr",
@@ -84758,7 +83695,6 @@
         "memoise",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "umap": [
@@ -84789,7 +83725,6 @@
         "stable",
         "statip",
         "timeSeries",
-        "munsell",
         "pillar"
     ],
     "ModelMetrics": [],
@@ -85025,7 +83960,6 @@
         "RcppTOML",
         "here",
         "gplots",
-        "munsell",
         "reshape2",
         "gridExtra",
         "RcppArmadillo",
@@ -85104,7 +84038,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "nlme",
         "Matrix",
         "pillar"
@@ -85128,7 +84061,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "scattermore": [
@@ -85138,7 +84070,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "nlme",
         "Matrix",
         "pillar"
@@ -85162,8 +84093,7 @@
         "scales",
         "plyr",
         "stringr",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "SeuratObject": [
         "sp",
@@ -85795,7 +84725,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "nlme",
         "Matrix",
         "pillar"
@@ -85830,7 +84759,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "munsell",
         "ellipsis",
         "purrr",
         "nlme",
@@ -85903,7 +84831,6 @@
         "htmltools",
         "jquerylib",
         "tinytex",
-        "munsell",
         "bit64",
         "sass",
         "cachem",
@@ -86063,7 +84990,6 @@
         "plyr",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "ggalluvial": [
@@ -86080,8 +85006,7 @@
         "ellipsis",
         "purrr",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [
         "GenomicFeatures",
@@ -86198,8 +85123,7 @@
         "mgcv",
         "scales",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "reprex": [
         "callr",
@@ -86318,7 +85242,6 @@
         "minqa",
         "nloptr",
         "RcppEigen",
-        "munsell",
         "testthat",
         "callr",
         "pkgload",
@@ -86353,7 +85276,6 @@
         "vctrs",
         "doParallel",
         "foreach",
-        "munsell",
         "lambda.r",
         "nlme",
         "Matrix",
@@ -86371,7 +85293,6 @@
         "gridExtra",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "gdata": [],
@@ -86422,7 +85343,6 @@
         "processx",
         "Matrix",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "StanHeaders": [
@@ -86489,7 +85409,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -86528,7 +85447,6 @@
         "memoise",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "rstantools": [],
@@ -86565,7 +85483,6 @@
         "promises",
         "plyr",
         "stringr",
-        "munsell",
         "TSP",
         "gclus",
         "callr",
@@ -86599,7 +85516,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "TSP": [
@@ -86654,7 +85570,6 @@
         "plyr",
         "reshape2",
         "vegan",
-        "munsell",
         "sp",
         "nlme",
         "Matrix",
@@ -86840,7 +85755,6 @@
         "mgcv",
         "tibble",
         "Matrix",
-        "munsell",
         "nlme",
         "pillar"
     ],
@@ -86899,7 +85813,6 @@
         "cellranger",
         "progress",
         "tinytex",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -86979,7 +85892,6 @@
         "hms",
         "vroom",
         "tzdb",
-        "munsell",
         "ellipsis",
         "ggplot2",
         "gridExtra",
@@ -87087,7 +85999,6 @@
         "mgcv",
         "RcppArmadillo",
         "Matrix",
-        "munsell",
         "tidyr",
         "gridExtra",
         "nlme",
@@ -87106,7 +86017,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "ggnewscale": [
@@ -87118,7 +86028,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "scatterpie": [
@@ -87140,8 +86049,7 @@
         "purrr",
         "pillar",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "shadowtext": [
         "ggplot2",
@@ -87150,7 +86058,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "nlme",
         "Matrix",
         "pillar"
@@ -87182,7 +86089,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "ggplotify": [
@@ -87194,7 +86100,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "gh": [
@@ -87274,7 +86179,6 @@
         "highr",
         "interp",
         "zoo",
-        "munsell",
         "pillar",
         "RcppEigen"
     ],
@@ -87288,7 +86192,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "ranger": [
@@ -87427,7 +86330,6 @@
         "highr",
         "cachem",
         "nlme",
-        "munsell",
         "pillar",
         "RCurl",
         "askpass"
@@ -87492,7 +86394,6 @@
         "Matrix",
         "statnet.common",
         "nlme",
-        "munsell",
         "coda",
         "pillar"
     ],
@@ -87564,7 +86465,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "munsell",
         "nlme",
         "Matrix"
     ],
@@ -87709,8 +86609,7 @@
         "ellipsis",
         "cachem",
         "nlme",
-        "askpass",
-        "munsell"
+        "askpass"
     ],
     "metafor": [
         "Matrix",
@@ -87770,8 +86669,7 @@
         "V8",
         "scales",
         "Rtsne",
-        "lifecycle",
-        "munsell"
+        "lifecycle"
     ],
     "V8": [],
     "flexclust": [
@@ -87903,8 +86801,7 @@
         "sass",
         "RcppEigen",
         "highr",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "lsa": [
         "SnowballC"
@@ -88059,7 +86956,6 @@
         "vctrs",
         "markdown",
         "stringr",
-        "munsell",
         "nlme",
         "Matrix",
         "pillar"
@@ -88122,7 +87018,6 @@
         "TH.data",
         "sandwich",
         "lifecycle",
-        "munsell",
         "Matrix",
         "minqa",
         "nloptr",
@@ -88205,7 +87100,6 @@
         "nlme",
         "Matrix",
         "askpass",
-        "munsell",
         "pillar"
     ],
     "MCMCprecision": [
@@ -88225,7 +87119,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "magick": [],
@@ -88277,7 +87170,6 @@
         "later",
         "MatrixModels",
         "survival",
-        "munsell",
         "pillar",
         "ellipsis",
         "purrr",
@@ -88311,7 +87203,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "maptree": [],
@@ -88344,7 +87235,6 @@
         "Matrix",
         "MatrixModels",
         "survival",
-        "munsell",
         "nlme"
     ],
     "ggpp": [
@@ -88363,7 +87253,6 @@
         "pillar",
         "mgcv",
         "timechange",
-        "munsell",
         "nlme",
         "Matrix"
     ],
@@ -88389,8 +87278,7 @@
         "globals",
         "mgcv",
         "scales",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "mice": [
         "broom",
@@ -88408,8 +87296,7 @@
         "mgcv",
         "scales",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "furrr": [
         "future",
@@ -88681,7 +87568,6 @@
         "stringr",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "geneLenDataBase": [
@@ -88741,7 +87627,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "nlme",
         "Matrix",
         "pillar"
@@ -88787,7 +87672,6 @@
         "survival",
         "prodlim",
         "timechange",
-        "munsell",
         "lava",
         "future.apply",
         "progressr",
@@ -89249,7 +88133,6 @@
         "lifecycle",
         "selectr",
         "tibble",
-        "munsell",
         "systemfonts",
         "callr",
         "sass",
@@ -89271,7 +88154,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "qs": [
@@ -89288,7 +88170,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "stringfish": [],
@@ -89415,7 +88296,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "benchmarkme": [
@@ -89553,7 +88433,6 @@
         "promises",
         "Matrix",
         "broom",
-        "munsell",
         "minqa",
         "nloptr",
         "RcppEigen",
@@ -89613,7 +88492,6 @@
         "survival",
         "prodlim",
         "timechange",
-        "munsell",
         "lava",
         "future.apply",
         "progressr",
@@ -89688,7 +88566,6 @@
         "MatrixModels",
         "highr",
         "interp",
-        "munsell",
         "pillar",
         "RcppEigen"
     ],
@@ -89920,7 +88797,6 @@
         "vctrs",
         "doParallel",
         "foreach",
-        "munsell",
         "nlme",
         "pillar"
     ],
@@ -90082,8 +88958,7 @@
         "TTR",
         "mgcv",
         "scales",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "ccaPP": [
         "pcaPP",
@@ -90104,7 +88979,6 @@
         "vctrs",
         "Matrix",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "mrfDepth": [
@@ -90123,7 +88997,6 @@
         "plyr",
         "stringr",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "GoFKernel": [],
@@ -90148,7 +89021,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "geometry": [
@@ -90171,7 +89043,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "RSEIS": [],
@@ -90190,7 +89061,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "MBA": [],
@@ -90335,7 +89205,6 @@
         "vctrs",
         "doParallel",
         "foreach",
-        "munsell",
         "lambda.r",
         "nlme",
         "Matrix",
@@ -90440,7 +89309,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "rsq": [
@@ -90630,7 +89498,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "nlme",
         "Matrix",
         "pillar"
@@ -90662,7 +89529,6 @@
         "MatrixModels",
         "survival",
         "lifecycle",
-        "munsell",
         "ellipsis",
         "purrr",
         "stringr",
@@ -90699,7 +89565,6 @@
         "stringr",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "blockmodeling": [
@@ -90776,7 +89641,6 @@
         "tibble",
         "vctrs",
         "hms",
-        "munsell",
         "ellipsis",
         "nlme",
         "Matrix",
@@ -90939,7 +89803,6 @@
         "knitr",
         "htmlwidgets",
         "interp",
-        "munsell",
         "pillar",
         "RcppEigen",
         "highr"
@@ -91036,7 +89899,6 @@
         "nlme",
         "Matrix",
         "later",
-        "munsell",
         "askpass"
     ],
     "ComplexUpset": [
@@ -91047,7 +89909,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "nlme",
         "Matrix",
         "pillar"
@@ -91059,7 +89920,6 @@
         "lifecycle",
         "mgcv",
         "vctrs",
-        "munsell",
         "pillar",
         "nlme",
         "Matrix"
@@ -91092,7 +89952,6 @@
         "nlme",
         "Matrix",
         "later",
-        "munsell",
         "ellipsis",
         "askpass"
     ],
@@ -91112,8 +89971,7 @@
         "mgcv",
         "scales",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "yeastCC": [
         "Biobase"
@@ -91136,7 +89994,6 @@
         "tibble",
         "vctrs",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "fds": [
@@ -91156,7 +90013,6 @@
         "tibble",
         "vctrs",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "rainbow": [
@@ -91174,7 +90030,6 @@
         "tibble",
         "vctrs",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "hdrcde": [
@@ -91190,7 +90045,6 @@
         "multicool",
         "plot3D",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "SPARQL": [],
@@ -91207,7 +90061,6 @@
         "tibble",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "RecordLinkage": [
@@ -91252,7 +90105,6 @@
         "MatrixModels",
         "survival",
         "lifecycle",
-        "munsell",
         "ellipsis",
         "purrr",
         "stringr",
@@ -91286,7 +90138,6 @@
         "Matrix",
         "plyr",
         "stringr",
-        "munsell",
         "pillar"
     ],
     "analogue": [
@@ -91310,7 +90161,6 @@
         "stringr",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "dplR": [
@@ -91348,7 +90198,6 @@
         "ggsignif",
         "rstatix",
         "gridtext",
-        "munsell",
         "Matrix",
         "knitr",
         "zoo",
@@ -91389,7 +90238,6 @@
         "stringr",
         "Matrix",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "km.ci": [
@@ -91414,8 +90262,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "scales",
-        "munsell"
+        "scales"
     ],
     "genetics": [
         "gdata"
@@ -91539,7 +90386,6 @@
         "highr",
         "hms",
         "plyr",
-        "munsell",
         "TSP",
         "gclus",
         "callr",
@@ -91584,7 +90430,6 @@
         "crosstalk",
         "purrr",
         "promises",
-        "munsell",
         "openssl",
         "nlme",
         "Matrix",
@@ -91607,7 +90452,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "nlme",
         "Matrix",
         "pillar"
@@ -91654,7 +90498,6 @@
         "Matrix",
         "highr",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "gRain": [
@@ -91680,8 +90523,7 @@
         "pillar",
         "mgcv",
         "scales",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "gProfileR": [
         "RCurl",
@@ -91761,7 +90603,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "nlme",
         "Matrix",
         "pillar"
@@ -91894,8 +90735,7 @@
         "tidyselect",
         "pillar",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "GenomicFeatures",
@@ -92061,7 +90901,6 @@
         "stringr",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "datamods": [
@@ -92270,7 +91109,6 @@
         "vctrs",
         "callr",
         "processx",
-        "munsell",
         "pillar"
     ],
     "densEstBayes": [
@@ -92292,7 +91130,6 @@
         "vctrs",
         "callr",
         "processx",
-        "munsell",
         "pillar"
     ],
     "adabag": [
@@ -92329,7 +91166,6 @@
         "survival",
         "prodlim",
         "timechange",
-        "munsell",
         "lava",
         "future.apply",
         "progressr",
@@ -92379,7 +91215,6 @@
         "vctrs",
         "plyr",
         "stringr",
-        "munsell",
         "pillar"
     ],
     "TMB": [
@@ -92403,8 +91238,7 @@
         "Matrix",
         "RcppEigen",
         "pillar",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "RnBeads.hg19": [
         "GenomicRanges",
@@ -92479,7 +91313,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "agricolae": [
@@ -92648,7 +91481,6 @@
         "class",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "SmartSVA": [
@@ -92689,7 +91521,6 @@
         "bit64",
         "blob",
         "memoise",
-        "munsell",
         "pillar",
         "XVector",
         "GenomeInfoDb",
@@ -93000,8 +91831,7 @@
         "purrr",
         "nlme",
         "Matrix",
-        "hms",
-        "munsell"
+        "hms"
     ],
     "MCMCglmm": [
         "Matrix",
@@ -93032,7 +91862,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "nlme",
         "Matrix",
         "pillar"
@@ -93069,8 +91898,7 @@
         "mgcv",
         "scales",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "qdapTools": [
         "RCurl"
@@ -93198,8 +92026,7 @@
         "purrr",
         "tidyselect",
         "pillar",
-        "nlme",
-        "munsell"
+        "nlme"
     ],
     "BiBitR": [
         "viridis",
@@ -93219,7 +92046,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "dplyr",
         "ellipsis",
         "purrr",
@@ -93284,7 +92110,6 @@
         "jquerylib",
         "timechange",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "ppclust": [
@@ -93321,7 +92146,6 @@
         "vctrs",
         "timechange",
         "cachem",
-        "munsell",
         "nlme",
         "Matrix",
         "pillar"
@@ -93366,7 +92190,6 @@
         "prodlim",
         "timechange",
         "testthat",
-        "munsell",
         "lava",
         "callr",
         "pkgload",
@@ -93388,7 +92211,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "tnet": [
@@ -93447,7 +92269,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "munsell",
         "httpuv",
         "fontawesome",
         "later",
@@ -93469,7 +92290,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "munsell",
         "nlme",
         "Matrix",
         "pillar"
@@ -93497,7 +92317,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "crmn": [
@@ -93634,8 +92453,7 @@
     "grImport": [],
     "scico": [
         "scales",
-        "lifecycle",
-        "munsell"
+        "lifecycle"
     ],
     "VarfromPDB": [
         "XML2R",
@@ -93754,7 +92572,6 @@
         "MatrixModels",
         "vroom",
         "tzdb",
-        "munsell",
         "pillar",
         "purrr",
         "tidyr",
@@ -93925,7 +92742,6 @@
         "htmltools",
         "labelled",
         "plyr",
-        "munsell",
         "e1071",
         "haven",
         "httpuv",
@@ -94169,7 +92985,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "CircStats": [],
@@ -94329,8 +93144,7 @@
         "ellipsis",
         "purrr",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "ggdist": [
         "tidyselect",
@@ -94343,7 +93157,6 @@
         "lifecycle",
         "pillar",
         "mgcv",
-        "munsell",
         "nlme",
         "Matrix"
     ],
@@ -94357,7 +93170,6 @@
         "scales",
         "lifecycle",
         "mgcv",
-        "munsell",
         "nlme",
         "Matrix"
     ],
@@ -94368,7 +93180,6 @@
         "lifecycle",
         "mgcv",
         "tibble",
-        "munsell",
         "nlme",
         "Matrix",
         "pillar"
@@ -94452,7 +93263,6 @@
         "Matrix",
         "xts",
         "TTR",
-        "munsell",
         "pillar"
     ],
     "urca": [
@@ -94909,7 +93719,6 @@
         "nlme",
         "Matrix",
         "Rhtslib",
-        "munsell",
         "bit64",
         "progress",
         "futile.logger",
@@ -94947,7 +93756,6 @@
         "tidyr",
         "tidyselect",
         "stringr",
-        "munsell",
         "pillar",
         "tzdb",
         "survival",
@@ -94966,7 +93774,6 @@
         "lifecycle",
         "mgcv",
         "vctrs",
-        "munsell",
         "pillar",
         "nlme",
         "Matrix"
@@ -95080,7 +93887,6 @@
         "jquerylib",
         "memoise",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "bladderbatch": [
@@ -95138,7 +93944,6 @@
         "lambda.r",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "splines2": [
@@ -95241,8 +94046,7 @@
         "mgcv",
         "scales",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "glmpca": [],
     "nnTensor": [
@@ -95259,7 +94063,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar",
         "gridExtra"
     ],
@@ -95277,7 +94080,6 @@
         "tibble",
         "vctrs",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "tagcloud": [],
@@ -95306,7 +94108,6 @@
         "RcppEigen",
         "RcppArmadillo",
         "nlme",
-        "munsell",
         "ellipsis",
         "purrr"
     ],
@@ -95337,7 +94138,6 @@
         "stringr",
         "lobstr",
         "lifecycle",
-        "munsell",
         "urltools",
         "tibble",
         "tidyselect",
@@ -95440,7 +94240,6 @@
         "pillar",
         "ellipsis",
         "mgcv",
-        "munsell",
         "Matrix",
         "ggpubr",
         "maxstat",
@@ -95655,7 +94454,6 @@
         "RcppTOML",
         "here",
         "gplots",
-        "munsell",
         "reshape2",
         "gridExtra",
         "RcppArmadillo",
@@ -95863,7 +94661,6 @@
         "sp",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "xROI": [
@@ -95900,7 +94697,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "elsa": [
@@ -95990,7 +94786,6 @@
         "highr",
         "haven",
         "nlme",
-        "munsell",
         "pillar",
         "forcats",
         "hms",
@@ -96031,7 +94826,6 @@
         "haven",
         "dplyr",
         "tidyr",
-        "munsell",
         "pillar",
         "forcats",
         "hms",
@@ -96055,7 +94849,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "mosaicCore": [
@@ -96136,7 +94929,6 @@
         "vctrs",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "sftime": [
@@ -96262,7 +95054,6 @@
         "memoise",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "gghighlight": [
@@ -96278,8 +95069,7 @@
         "mgcv",
         "scales",
         "nlme",
-        "Matrix",
-        "munsell"
+        "Matrix"
     ],
     "bestNormalize": [
         "LambertW",
@@ -96318,7 +95108,6 @@
         "stringr",
         "nlme",
         "lava",
-        "munsell",
         "future.apply",
         "progressr",
         "future",
@@ -96349,7 +95138,6 @@
         "hms",
         "vroom",
         "tzdb",
-        "munsell",
         "bit64",
         "progress"
     ],
@@ -96366,7 +95154,6 @@
         "stringr",
         "nlme",
         "Matrix",
-        "munsell",
         "pillar"
     ],
     "butcher": [
@@ -96396,7 +95183,6 @@
         "ellipsis",
         "nlme",
         "Matrix",
-        "munsell",
         "bit64",
         "progress"
     ],
@@ -96514,7 +95300,6 @@
         "bslib",
         "jquerylib",
         "tinytex",
-        "munsell",
         "sass",
         "cachem",
         "memoise"
@@ -96595,7 +95380,6 @@
         "tibble",
         "vctrs",
         "nlme",
-        "munsell",
         "pillar"
     ],
     "Rmisc": [
