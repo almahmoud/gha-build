@@ -57,9 +57,7 @@
     "APAlyzer": [
         "VariantAnnotation"
     ],
-    "APL": [
-        "Seurat"
-    ],
+    "APL": [],
     "appreci8R": [
         "VariantAnnotation",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -148,7 +146,6 @@
     ],
     "benchdamic": [
         "TreeSummarizedExperiment",
-        "Seurat",
         "ANCOMBC",
         "mia",
         "lme4",
@@ -326,9 +323,7 @@
         "RTCGAToolbox",
         "TCGAutils"
     ],
-    "CelliD": [
-        "Seurat"
-    ],
+    "CelliD": [],
     "cellmigRation": [
         "FactoMineR",
         "car",
@@ -734,9 +729,7 @@
     "diffUTR": [
         "ensembldb"
     ],
-    "Dino": [
-        "Seurat"
-    ],
+    "Dino": [],
     "DiscoRhythm": [],
     "DMCFB": [
         "arm",
@@ -1354,9 +1347,7 @@
     ],
     "ImmuneSpaceR": [],
     "INDEED": [],
-    "infercnv": [
-        "Seurat"
-    ],
+    "infercnv": [],
     "InPAS": [
         "cleanUpdTSeq"
     ],
@@ -1398,7 +1389,6 @@
     ],
     "IPO": [],
     "IRISFGM": [
-        "Seurat",
         "clusterProfiler",
         "ggpubr",
         "enrichplot",
@@ -2011,9 +2001,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene"
     ],
-    "Nebulosa": [
-        "Seurat"
-    ],
+    "Nebulosa": [],
     "nempi": [],
     "NetActivity": [],
     "netboxr": [
@@ -2212,9 +2200,7 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "pipeComp": [
-        "Seurat"
-    ],
+    "pipeComp": [],
     "PloGO2": [
         "GOstats"
     ],
@@ -2605,33 +2591,22 @@
         "MGFR"
     ],
     "sangeranalyseR": [],
-    "scAlign": [
-        "Seurat"
-    ],
+    "scAlign": [],
     "scanMiRApp": [
         "ensembldb"
     ],
-    "scAnnotatR": [
-        "Seurat"
-    ],
+    "scAnnotatR": [],
     "SCATE": [
         "SCATEData"
     ],
-    "scBFA": [
-        "Seurat"
-    ],
+    "scBFA": [],
     "scBubbletree": [
-        "Seurat",
         "ggtree",
         "treeio"
     ],
-    "scCB2": [
-        "Seurat"
-    ],
+    "scCB2": [],
     "scClassify": [],
-    "scDataviz": [
-        "Seurat"
-    ],
+    "scDataviz": [],
     "scDD": [
         "arm",
         "lme4"
@@ -2640,12 +2615,8 @@
         "Oscope"
     ],
     "scGPS": [],
-    "schex": [
-        "Seurat"
-    ],
-    "scMAGeCK": [
-        "Seurat"
-    ],
+    "schex": [],
+    "scMAGeCK": [],
     "scMerge": [],
     "scmeth": [
         "annotatr"
@@ -2678,19 +2649,16 @@
         "ReactomePA",
         "schex",
         "enrichplot",
-        "Seurat",
         "ggtree",
         "treeio"
     ],
     "scTGIF": [
-        "schex",
-        "Seurat"
+        "schex"
     ],
     "scTreeViz": [
         "epivizr",
         "clustree",
         "epivizrData",
-        "Seurat",
         "bumphunter",
         "OrganismDbi",
         "ensembldb"
@@ -2771,7 +2739,6 @@
         "ensembldb",
         "ggtree",
         "scMerge",
-        "Seurat",
         "SoupX",
         "scRNAseq",
         "TENxPBMCData",
@@ -2820,9 +2787,7 @@
         "OrganismDbi",
         "ensembldb"
     ],
-    "Spaniel": [
-        "Seurat"
-    ],
+    "Spaniel": [],
     "sparrow": [],
     "spaSim": [],
     "spatialDE": [],
@@ -2867,9 +2832,7 @@
         "car",
         "pbkrtest"
     ],
-    "SpotClean": [
-        "Seurat"
-    ],
+    "SpotClean": [],
     "SPsimSeq": [],
     "srnadiff": [
         "Gviz",
@@ -2899,9 +2862,7 @@
     "Statial": [
         "tidyverse"
     ],
-    "stJoincount": [
-        "Seurat"
-    ],
+    "stJoincount": [],
     "strandCheckR": [
         "TxDb.Hsapiens.UCSC.hg38.knownGene"
     ],
@@ -3202,7 +3163,6 @@
     "lmerTest": [
         "lme4"
     ],
-    "Seurat": [],
     "TxDb.Hsapiens.UCSC.hg19.knownGene": [],
     "Homo.sapiens": [
         "OrganismDbi",
@@ -3425,9 +3385,7 @@
         "lme4"
     ],
     "celldex": [],
-    "SoupX": [
-        "Seurat"
-    ],
+    "SoupX": [],
     "scRNAseq": [
         "ensembldb"
     ],
