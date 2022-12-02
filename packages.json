@@ -7664,7 +7664,6 @@
     ],
     "interactiveDisplayBase": [],
     "InterCellar": [
-        "golem",
         "shinydashboard",
         "shinyFiles",
         "shinycssloaders",
@@ -9540,7 +9539,6 @@
     "MicrobiomeProfiler": [
         "clusterProfiler",
         "enrichplot",
-        "golem",
         "shinyWidgets",
         "shinycustomloader",
         "ggplot2",
@@ -10562,7 +10560,6 @@
     ],
     "multiOmicsViz": [],
     "multiSight": [
-        "golem",
         "shinydashboard",
         "dplyr",
         "anyLib",
@@ -17183,7 +17180,6 @@
         "shinyFiles",
         "plotly",
         "dplyr",
-        "golem",
         "ggplot2",
         "tidyr"
     ],
@@ -17708,7 +17704,6 @@
         "GenomicAlignments"
     ],
     "wpm": [
-        "golem",
         "ggplot2",
         "dplyr",
         "shinydashboard",
@@ -19258,7 +19253,6 @@
     "concaveman": [
         "dplyr"
     ],
-    "golem": [],
     "shinyalert": [],
     "AdaptGauss": [
         "DataVisualizations",
