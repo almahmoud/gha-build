@@ -24,9 +24,7 @@
         "rstatix"
     ],
     "BitSeq": [],
-    "brainflowprobes": [
-        "derfinderPlot"
-    ],
+    "brainflowprobes": [],
     "CancerInSilico": [],
     "CATALYST": [
         "FlowSOM",
@@ -88,7 +86,6 @@
         "rstatix"
     ],
     "ddPCRclust": [],
-    "derfinderPlot": [],
     "destiny": [
         "VIM"
     ],
