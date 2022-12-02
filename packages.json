@@ -35082,7 +35082,6 @@
         "interp"
     ],
     "seqArchR": [
-        "cvTools",
         "BiocParallel",
         "Biostrings",
         "ggplot2",
@@ -47290,7 +47289,6 @@
         "tidyr",
         "tweenr"
     ],
-    "cvTools": [],
     "adehabitatLT": [],
     "rbokeh": [
         "gistr",
