@@ -3572,7 +3572,6 @@
         "htmlwidgets"
     ],
     "BioNAR": [
-        "latex2exp",
         "RSpectra",
         "synaptome.db",
         "clusterCons",
@@ -4062,7 +4061,6 @@
         "e1071",
         "latticeExtra",
         "pcalg",
-        "latex2exp",
         "Linnorm",
         "bslib",
         "mgcv",
@@ -9959,7 +9957,6 @@
         "BoolNet",
         "e1071",
         "latticeExtra",
-        "latex2exp",
         "mgcv",
         "ggforce",
         "ggrepel",
@@ -13095,7 +13092,6 @@
         "latticeExtra",
         "pcalg",
         "mnem",
-        "latex2exp",
         "interp",
         "flexclust",
         "Linnorm",
@@ -27342,7 +27338,6 @@
         "BoolNet",
         "latticeExtra",
         "pcalg",
-        "latex2exp",
         "flexclust",
         "Linnorm",
         "ggplot2",
@@ -43411,7 +43406,6 @@
         "rmarkdown",
         "prettydoc",
         "ggplot2",
-        "latex2exp",
         "SummarizedExperiment",
         "GenomicRanges",
         "tibble",
@@ -47013,7 +47007,6 @@
     "TH.data": [
         "survival"
     ],
-    "latex2exp": [],
     "synaptome.db": [
         "synaptome.data",
         "RSQLite",
