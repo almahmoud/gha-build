@@ -206,9 +206,7 @@
         "dasper",
         "ggpubr"
     ],
-    "omicRexposome": [
-        "rexposome"
-    ],
+    "omicRexposome": [],
     "OMICsPCA": [
         "factoextra",
         "ggpubr"
@@ -248,7 +246,6 @@
         "ggpubr"
     ],
     "qmtools": [],
-    "rexposome": [],
     "RNAAgeCalc": [],
     "RNAmodR.AlkAnilineSeq": [],
     "RNAmodR.ML": [],
