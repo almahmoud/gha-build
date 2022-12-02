@@ -3608,7 +3608,6 @@
         "CAMERA",
         "xcms"
     ],
-    "MetaNeighbor": [],
     "MetaPhOR": [
         "clusterProfiler",
         "RecordLinkage",
