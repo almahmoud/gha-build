@@ -76811,7 +76811,6 @@
         "tidyselect",
         "ellipsis"
     ],
-    "weaver": [],
     "webbioc": [
         "Biobase",
         "affy",
