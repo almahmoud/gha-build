@@ -1353,7 +1353,6 @@
         "shinydashboardPlus",
         "plotly",
         "batchelor",
-        "gggenes",
         "scran",
         "scater",
         "msigdbr",
@@ -9929,7 +9928,6 @@
         "BiocFileCache"
     ],
     "shinydashboardPlus": [],
-    "gggenes": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
