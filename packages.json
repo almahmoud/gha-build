@@ -664,7 +664,6 @@
     ],
     "bioCancer": [
         "radiant.data",
-        "org.Bt.eg.db",
         "DOSE",
         "clusterProfiler",
         "reactome.db",
@@ -11459,7 +11458,6 @@
         "testthat",
         "waldo"
     ],
-    "org.Bt.eg.db": [],
     "DiagrammeR": [
         "readr",
         "tidyr"
