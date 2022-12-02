@@ -2454,7 +2454,6 @@
         "XVector",
         "fBasics",
         "stable",
-        "stabledist",
         "statip",
         "askpass",
         "clock",
@@ -17687,7 +17686,6 @@
         "timeDate",
         "timeSeries",
         "spatial",
-        "stabledist",
         "lattice",
         "BiocParallel",
         "Rsamtools",
@@ -21941,7 +21939,6 @@
         "mime",
         "fBasics",
         "stable",
-        "stabledist",
         "statip",
         "future.apply",
         "magrittr",
@@ -29396,7 +29393,6 @@
         "timeDate",
         "timeSeries",
         "spatial",
-        "stabledist",
         "cli",
         "gtable",
         "isoband",
@@ -48763,7 +48759,6 @@
         "gbutils",
         "Rdpack",
         "spatial",
-        "stabledist",
         "lambda.r",
         "RCurl",
         "GenomeInfoDbData",
@@ -67486,7 +67481,6 @@
         "quantreg",
         "fBasics",
         "stable",
-        "stabledist",
         "statip",
         "farver",
         "labeling",
@@ -100828,7 +100822,6 @@
         "Matrix",
         "lattice",
         "gsl",
-        "stabledist",
         "mvtnorm",
         "pcaPP",
         "S4Vectors",
@@ -127705,7 +127698,6 @@
         "withr",
         "fBasics",
         "stable",
-        "stabledist",
         "statip",
         "permute",
         "timeDate",
@@ -127774,7 +127766,6 @@
     "modeest": [
         "fBasics",
         "stable",
-        "stabledist",
         "statip",
         "timeDate",
         "timeSeries",
@@ -127799,11 +127790,9 @@
     "fBasics": [
         "timeDate",
         "timeSeries",
-        "spatial",
-        "stabledist"
+        "spatial"
     ],
     "stable": [],
-    "stabledist": [],
     "statip": [
         "clue",
         "rpart"
@@ -139088,7 +139077,6 @@
         "gbutils",
         "Rdpack",
         "spatial",
-        "stabledist",
         "lattice"
     ],
     "cvar": [
@@ -144585,7 +144573,6 @@
         "Matrix",
         "lattice",
         "gsl",
-        "stabledist",
         "mvtnorm",
         "pcaPP"
     ],
