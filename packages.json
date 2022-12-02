@@ -6778,7 +6778,6 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "QuartPAC": [],
     "QuasR": [
         "BSgenome",
         "GenomicFeatures",
