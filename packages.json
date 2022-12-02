@@ -45,7 +45,6 @@
     ],
     "abseqR": [
         "ggplot2",
-        "VennDiagram",
         "flexdashboard",
         "BiocParallel",
         "rmarkdown",
@@ -1195,7 +1194,6 @@
         "seqinr",
         "tidyr",
         "UpSetR",
-        "VennDiagram",
         "RSQLite",
         "KEGGREST",
         "tibble",
@@ -1450,7 +1448,6 @@
         "ensembldb",
         "GenomicFeatures",
         "SummarizedExperiment",
-        "VennDiagram",
         "biomaRt",
         "ggplot2",
         "InteractionSet",
@@ -5131,7 +5128,6 @@
         "GenomicFeatures",
         "Rsamtools",
         "SummarizedExperiment",
-        "VennDiagram",
         "biomaRt",
         "ggplot2",
         "InteractionSet",
@@ -6551,7 +6547,6 @@
         "tidyr",
         "shiny",
         "DT",
-        "VennDiagram",
         "rio",
         "shinydashboard",
         "shinyjs",
@@ -7325,7 +7320,6 @@
         "BiocFileCache",
         "ensembldb",
         "SummarizedExperiment",
-        "VennDiagram",
         "InteractionSet",
         "regioneR",
         "tibble",
@@ -8875,7 +8869,6 @@
         "ensembldb",
         "GenomicFeatures",
         "Rsamtools",
-        "VennDiagram",
         "biomaRt",
         "ggplot2",
         "InteractionSet",
@@ -9272,7 +9265,6 @@
         "BiocStyle",
         "rmarkdown",
         "kableExtra",
-        "VennDiagram",
         "UpSetR",
         "heatmaply",
         "viridis",
@@ -11075,7 +11067,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "rmarkdown",
-        "VennDiagram",
         "JASPAR2018",
         "TFBSTools",
         "motifmatchr",
@@ -11475,7 +11466,6 @@
         "rtracklayer",
         "tidyr",
         "tidyselect",
-        "VennDiagram",
         "patchwork",
         "pillar",
         "XVector",
@@ -11679,8 +11669,7 @@
         "progress"
     ],
     "fCI": [
-        "rgl",
-        "VennDiagram"
+        "rgl"
     ],
     "fcoex": [
         "FCBF",
@@ -12537,7 +12526,6 @@
         "arm",
         "tibble",
         "testthat",
-        "VennDiagram",
         "pamr",
         "GenomicRanges",
         "DelayedArray",
@@ -14655,7 +14643,6 @@
         "AnnotationDbi",
         "ensembldb",
         "SummarizedExperiment",
-        "VennDiagram",
         "biomaRt",
         "InteractionSet",
         "KEGGREST",
@@ -16594,7 +16581,6 @@
         "GenomicRanges",
         "DRIMSeq",
         "rtracklayer",
-        "VennDiagram",
         "tximeta",
         "dplyr",
         "readr",
@@ -17387,7 +17373,6 @@
     ],
     "LymphoSeq": [
         "dplyr",
-        "VennDiagram",
         "ggplot2",
         "ggtree",
         "msa",
@@ -18835,7 +18820,6 @@
         "rtracklayer",
         "SummarizedExperiment",
         "survcomp",
-        "VennDiagram",
         "vsn",
         "AnnotationDbi",
         "progress",
@@ -20684,7 +20668,6 @@
         "caret",
         "ggplot2",
         "testthat",
-        "VennDiagram",
         "pamr",
         "DESeq2",
         "SummarizedExperiment",
@@ -22248,7 +22231,6 @@
         "KEGGREST",
         "dplyr",
         "ensembldb",
-        "VennDiagram",
         "biomaRt",
         "ggplot2",
         "multtest",
@@ -24732,7 +24714,6 @@
         "ropls",
         "tibble",
         "tidyr",
-        "VennDiagram",
         "BiocFileCache",
         "RSQLite",
         "progress",
@@ -27374,7 +27355,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "SummarizedExperiment",
-        "VennDiagram",
         "biomaRt",
         "ggplot2",
         "InteractionSet",
@@ -28333,7 +28313,6 @@
         "rtracklayer",
         "GenomicRanges",
         "AnnotationHub",
-        "VennDiagram",
         "ggplotify",
         "ggprism",
         "RLHub",
@@ -29091,9 +29070,7 @@
         "Biostrings",
         "XVector"
     ],
-    "RRHO": [
-        "VennDiagram"
-    ],
+    "RRHO": [],
     "rrvgo": [
         "GOSemSim",
         "AnnotationDbi",
@@ -33900,9 +33877,7 @@
         "Biostrings",
         "XVector"
     ],
-    "SwathXtend": [
-        "VennDiagram"
-    ],
+    "SwathXtend": [],
     "switchBox": [],
     "switchde": [
         "SingleCellExperiment",
@@ -35179,7 +35154,6 @@
         "ggplot2",
         "rmarkdown",
         "tibble",
-        "VennDiagram",
         "tidyselect",
         "pillar",
         "bslib"
@@ -36374,7 +36348,6 @@
         "tibble",
         "ggplot2",
         "UpSetR",
-        "VennDiagram",
         "tidyselect",
         "pillar"
     ],
@@ -36609,7 +36582,6 @@
         "GenomicFeatures",
         "Rsamtools",
         "SummarizedExperiment",
-        "VennDiagram",
         "biomaRt",
         "ggplot2",
         "InteractionSet",
@@ -37117,7 +37089,6 @@
         "tibble",
         "pillar"
     ],
-    "VennDiagram": [],
     "flexdashboard": [
         "rmarkdown",
         "shiny",
