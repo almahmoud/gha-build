@@ -121,7 +121,6 @@
         "genefilter",
         "AnnotationDbi",
         "annotate",
-        "sandwich",
         "ggplot2",
         "httr",
         "RSQLite",
@@ -2595,7 +2594,6 @@
         "tidyselect",
         "XVector",
         "ragg",
-        "sandwich",
         "textshaping"
     ],
     "bayNorm": [
@@ -3665,7 +3663,6 @@
         "viridis",
         "htmlwidgets",
         "TH.data",
-        "sandwich",
         "pillar",
         "httr",
         "Biostrings",
@@ -4061,7 +4058,6 @@
         "betareg",
         "globaltest",
         "lmtest",
-        "sandwich",
         "XVector",
         "survival",
         "AnnotationDbi",
@@ -5222,7 +5218,6 @@
         "ragg",
         "survival",
         "TH.data",
-        "sandwich",
         "nloptr",
         "broom",
         "textshaping",
@@ -5947,7 +5942,6 @@
         "pillar",
         "nloptr",
         "TH.data",
-        "sandwich",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -6482,7 +6476,6 @@
         "htmlwidgets",
         "httr",
         "TH.data",
-        "sandwich",
         "hms",
         "vroom",
         "blob",
@@ -8536,7 +8529,6 @@
         "flowMerge",
         "ggplot2",
         "raster",
-        "sandwich",
         "rms",
         "htmlwidgets",
         "rrcov",
@@ -9952,7 +9944,6 @@
         "nloptr",
         "survival",
         "TH.data",
-        "sandwich",
         "viridis",
         "car",
         "tweenr",
@@ -9999,7 +9990,6 @@
         "ggpubr",
         "mgcv",
         "lme4",
-        "sandwich",
         "viridis",
         "car",
         "DT",
@@ -10444,7 +10434,6 @@
         "Biostrings",
         "survival",
         "TH.data",
-        "sandwich",
         "bslib",
         "jquerylib",
         "quantreg",
@@ -11118,8 +11107,7 @@
         "sass",
         "XVector",
         "gmm",
-        "progress",
-        "sandwich"
+        "progress"
     ],
     "DepecheR": [
         "ggplot2",
@@ -11313,8 +11301,7 @@
         "gamlss",
         "maxLik",
         "BiocParallel",
-        "survival",
-        "sandwich"
+        "survival"
     ],
     "destiny": [
         "RSpectra",
@@ -11587,7 +11574,6 @@
         "nloptr",
         "survival",
         "TH.data",
-        "sandwich",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -11912,7 +11898,6 @@
         "XVector",
         "survival",
         "TH.data",
-        "sandwich",
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
@@ -11922,7 +11907,6 @@
         "GenomicRanges",
         "betareg",
         "lmtest",
-        "sandwich",
         "GenomeInfoDb",
         "XVector"
     ],
@@ -12220,7 +12204,6 @@
         "lme4",
         "future.apply",
         "TH.data",
-        "sandwich",
         "hms",
         "pillar",
         "future",
@@ -12489,7 +12472,6 @@
         "GenomeInfoDb",
         "XVector",
         "TH.data",
-        "sandwich",
         "DelayedArray",
         "mixtools",
         "e1071",
@@ -12841,7 +12823,6 @@
         "sn",
         "XVector",
         "TH.data",
-        "sandwich",
         "quantreg"
     ],
     "eiR": [
@@ -16158,7 +16139,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "sandwich",
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -16359,7 +16339,6 @@
         "XVector",
         "RSQLite",
         "survival",
-        "sandwich",
         "lmtest",
         "logistf",
         "quantsmooth",
@@ -17473,7 +17452,6 @@
         "htmlTable",
         "viridis",
         "TH.data",
-        "sandwich",
         "httpuv",
         "bslib",
         "lmtest",
@@ -18195,7 +18173,6 @@
         "XVector",
         "survival",
         "TH.data",
-        "sandwich",
         "nloptr",
         "broom",
         "testthat",
@@ -18632,7 +18609,6 @@
     "GWASTools": [
         "RSQLite",
         "survival",
-        "sandwich",
         "lmtest",
         "logistf",
         "quantsmooth",
@@ -18655,7 +18631,6 @@
         "VariantAnnotation",
         "SummarizedExperiment",
         "RSQLite",
-        "sandwich",
         "lmtest",
         "logistf",
         "quantsmooth",
@@ -19178,7 +19153,6 @@
         "shiny",
         "DT",
         "TH.data",
-        "sandwich",
         "blob",
         "htmlwidgets",
         "jquerylib",
@@ -20087,7 +20061,6 @@
         "GenomeInfoDb",
         "XVector",
         "TH.data",
-        "sandwich",
         "htmlwidgets",
         "httpuv",
         "bslib",
@@ -20679,7 +20652,6 @@
         "tweenr",
         "ragg",
         "Biostrings",
-        "sandwich",
         "htmlwidgets",
         "blob",
         "broom",
@@ -21479,7 +21451,6 @@
         "DelayedArray",
         "XVector",
         "TH.data",
-        "sandwich",
         "pillar"
     ],
     "les": [],
@@ -21668,8 +21639,7 @@
         "ggrepel",
         "httr",
         "htmlwidgets",
-        "gmm",
-        "sandwich"
+        "gmm"
     ],
     "LiquidAssociation": [
         "geepack",
@@ -22704,8 +22674,7 @@
         "sass",
         "XVector",
         "interp",
-        "gmm",
-        "sandwich"
+        "gmm"
     ],
     "MatrixRider": [
         "TFBSTools",
@@ -22849,7 +22818,6 @@
         "GWASTools",
         "RSQLite",
         "survival",
-        "sandwich",
         "lmtest",
         "logistf",
         "quantsmooth",
@@ -23186,7 +23154,6 @@
         "lme4",
         "survival",
         "TH.data",
-        "sandwich",
         "nloptr",
         "broom",
         "dplyr",
@@ -23949,7 +23916,6 @@
         "sn",
         "survival",
         "TH.data",
-        "sandwich",
         "quantreg"
     ],
     "MetCirc": [
@@ -24909,7 +24875,6 @@
         "XVector",
         "GenomeInfoDb",
         "survival",
-        "sandwich",
         "pillar"
     ],
     "microbiomeExplorer": [
@@ -25052,7 +25017,6 @@
         "scater",
         "DirichletMultinomial",
         "TH.data",
-        "sandwich",
         "testthat",
         "clock",
         "hardhat",
@@ -25186,8 +25150,7 @@
         "GenomicRanges",
         "DelayedArray",
         "ggplotify",
-        "TH.data",
-        "sandwich"
+        "TH.data"
     ],
     "microRNA": [
         "Biostrings",
@@ -27545,7 +27508,6 @@
         "GenomeInfoDb",
         "survival",
         "TH.data",
-        "sandwich",
         "quantreg"
     ],
     "multiHiCcompare": [
@@ -27701,7 +27663,6 @@
         "prodlim",
         "Biostrings",
         "TH.data",
-        "sandwich",
         "downlit",
         "ragg",
         "xopen",
@@ -28147,7 +28108,6 @@
         "interp",
         "survival",
         "TH.data",
-        "sandwich",
         "blob",
         "quantreg",
         "CNEr",
@@ -29043,7 +29003,6 @@
         "tidyselect",
         "vctrs",
         "tibble",
-        "sandwich",
         "Hmisc",
         "e1071",
         "haven",
@@ -29592,7 +29551,6 @@
         "interp",
         "testthat",
         "gmm",
-        "sandwich",
         "Biostrings",
         "blob",
         "waldo",
@@ -30594,7 +30552,6 @@
         "Biostrings",
         "survival",
         "TH.data",
-        "sandwich",
         "blob",
         "quantreg",
         "XVector",
@@ -35230,7 +35187,6 @@
         "interp",
         "testthat",
         "gmm",
-        "sandwich",
         "waldo",
         "rematch2"
     ],
@@ -36808,7 +36764,6 @@
         "tidyselect",
         "pillar",
         "TH.data",
-        "sandwich",
         "testthat",
         "waldo",
         "rematch2"
@@ -40519,7 +40474,6 @@
         "latticeExtra",
         "htmlTable",
         "TH.data",
-        "sandwich",
         "textshaping",
         "densEstBayes",
         "quantreg",
@@ -40837,7 +40791,6 @@
         "genefilter",
         "AnnotationDbi",
         "annotate",
-        "sandwich",
         "ggplot2",
         "httr",
         "RSQLite",
@@ -41121,7 +41074,6 @@
         "MCMCpack",
         "quantreg",
         "gmm",
-        "sandwich",
         "survival"
     ],
     "sparsenetgls": [
@@ -43106,7 +43058,6 @@
         "rematch2",
         "survival",
         "TH.data",
-        "sandwich",
         "vroom",
         "progress",
         "rmarkdown",
@@ -44125,7 +44076,6 @@
         "AnnotationDbi",
         "annotate",
         "survival",
-        "sandwich",
         "ggplot2",
         "httr",
         "RSQLite",
@@ -44953,7 +44903,6 @@
         "nloptr",
         "survival",
         "TH.data",
-        "sandwich",
         "GenomicRanges",
         "DelayedArray",
         "ggplotify",
@@ -47130,10 +47079,7 @@
         "future"
     ],
     "future": [],
-    "strucchange": [
-        "sandwich"
-    ],
-    "sandwich": [],
+    "strucchange": [],
     "DT": [
         "htmlwidgets",
         "jquerylib"
@@ -48665,12 +48611,9 @@
         "pillar"
     ],
     "DirichletReg": [
-        "maxLik",
-        "sandwich"
+        "maxLik"
     ],
-    "maxLik": [
-        "sandwich"
-    ],
+    "maxLik": [],
     "rjags": [],
     "corncob": [
         "optimr",
@@ -49024,7 +48967,6 @@
         "viridis",
         "htmlwidgets",
         "TH.data",
-        "sandwich",
         "interp",
         "pillar"
     ],
@@ -49042,8 +48984,7 @@
     ],
     "multcomp": [
         "survival",
-        "TH.data",
-        "sandwich"
+        "TH.data"
     ],
     "TH.data": [
         "survival"
@@ -49239,8 +49180,7 @@
         "sass"
     ],
     "betareg": [
-        "lmtest",
-        "sandwich"
+        "lmtest"
     ],
     "pasilla": [
         "DEXSeq",
@@ -49479,7 +49419,6 @@
         "lme4",
         "survival",
         "TH.data",
-        "sandwich",
         "nloptr",
         "broom",
         "dplyr",
@@ -50312,7 +50251,6 @@
         "mgcv"
     ],
     "contrast": [
-        "sandwich",
         "rms",
         "Hmisc",
         "survival",
@@ -50683,7 +50621,6 @@
         "sn",
         "survival",
         "TH.data",
-        "sandwich",
         "quantreg"
     ],
     "TFisher": [
@@ -50695,8 +50632,7 @@
         "multtest",
         "multcomp",
         "survival",
-        "TH.data",
-        "sandwich"
+        "TH.data"
     ],
     "qqconf": [],
     "sn": [
@@ -50802,16 +50738,12 @@
     "imputeLCMD": [
         "tmvtnorm",
         "pcaMethods",
-        "gmm",
-        "sandwich"
+        "gmm"
     ],
     "tmvtnorm": [
-        "gmm",
-        "sandwich"
+        "gmm"
     ],
-    "gmm": [
-        "sandwich"
-    ],
+    "gmm": [],
     "ggplot.multistats": [
         "ggplot2",
         "mgcv",
@@ -50931,8 +50863,7 @@
     "coin": [
         "survival",
         "multcomp",
-        "TH.data",
-        "sandwich"
+        "TH.data"
     ],
     "ELMER.data": [
         "GenomicRanges",
@@ -51340,7 +51271,6 @@
         "viridis",
         "interp",
         "TH.data",
-        "sandwich",
         "httpuv",
         "bslib",
         "lmtest",
@@ -52443,7 +52373,6 @@
     "rdist": [],
     "RcmdrMisc": [
         "car",
-        "sandwich",
         "Hmisc",
         "e1071",
         "haven",
