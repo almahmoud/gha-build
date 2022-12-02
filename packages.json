@@ -113,7 +113,6 @@
     "ddPCRclust": [
         "flowDensity"
     ],
-    "DeepPINCS": [],
     "derfinderPlot": [],
     "destiny": [
         "VIM"
@@ -206,9 +205,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "GenProSeq": [
-        "DeepPINCS"
-    ],
+    "GenProSeq": [],
     "GEOexplorer": [
         "factoextra",
         "FactoMineR",
@@ -544,9 +541,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "VAExprs": [
-        "DeepPINCS"
-    ],
+    "VAExprs": [],
     "wateRmelon": [
         "lumi"
     ],
