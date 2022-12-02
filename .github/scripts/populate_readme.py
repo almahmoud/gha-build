@@ -3,7 +3,7 @@ from os.path import exists
 from tabulate import tabulate
 with open("original.json", "r") as f:
     pkgs = json.load(f)
-import requests
+import requests, time
 
 tables = {"Failed": [], "Unclaimed": [], "Succeeded": []}
 
@@ -48,8 +48,47 @@ for pkg in list(pkgs):
         tarname = f"[{tarname}](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/{tarname})"
     tables[status].append([name, status, tarname])\
 
+for each in tables["Failed"]:
+    rawurl = each[2].replace("github.com", "raw.githubusercontent.com").replace("blob/", "")
+    r = requests.get(rawurl)
+    retries = 0
+    while retries <= 5 and r.status_code != 200:
+        r = requests.get(rawurl)
+        retries += 1
+        time.sleep(5)
+    if r.status_code == 200:
+        logtext = r.content
+        name = each[0]
+        pkg = name[name.find('[')+1:name.find(']')]
+        # Check CRAN archived
+        if bytes(f"package ‘{pkg}’ is not available for Bioconductor version", "utf-8") in logtext:
+            cranurl = f"https://cran.r-project.org/web/packages/{pkg}/index.html"
+            r = requests.get(cranurl)
+            retries = 0
+            while retries <= 5 and r.status_code != 200:
+                r = requests.get(rawurl)
+                retries += 1
+                time.sleep(5)
+            if r.status_code == 200:
+                crantext = r.content.decode("utf-8")
+                if "Archived on " in crantext:
+                    archivetext = crantext[crantext.find("Archived on"):]
+                    archivetext = archivetext[:archivetext.find("\n")]
+                    each.append(f"[CRAN Package '{pkg}']({cranurl}) archived. Extracted text: {archivetext}")
+
+        # Check missing dependency
+        if bytes("there is no package called", "utf-8") in logtext:
+            tofind = bytes("there is no package called ‘", "utf-8")
+            missingtext = logtext[logtext.find(tofind)+len(tofind):]
+            missingtext = missingtext[:missingtext.find(bytes("’", "utf-8"))]
+            each.append(f"Undeclared R dependency: '{missingtext.decode('utf-8')}'")
+
+
+tables["Failed"] = [x if len(x)>3 else x+["Error unknown"] for x in tables["Failed"]]
+tables["Failed"].sort(key=lambda x: x[3])
+
 headers = ["Package", "Status", "Tarball"]
-failedheaders = ["Package", "Status", "Log"]
+failedheaders = ["Package", "Status", "Log", "Known Error"]
 with open("README.md", "w") as f:
     f.write(f"# Summary\n\n{len(tables['Succeeded'])} built packages\n\n{len(tables['Failed'])} failed packages\n\n{len(tables['Unclaimed'])} unclaimed packages\n\n")
     f.write(f"\n\n## Failed ({len(tables['Failed'])})\n")
