@@ -13012,7 +13012,6 @@
         "pROC",
         "recipes",
         "reshape2",
-        "intervals",
         "GenomeInfoDb",
         "XVector",
         "hms",
@@ -26021,7 +26020,6 @@
         "Rcpp",
         "RCurl",
         "GenomeInfoDbData",
-        "intervals",
         "Rhtslib",
         "latticeExtra",
         "MatrixGenerics",
@@ -34191,7 +34189,6 @@
         "GenomeInfoDbData"
     ],
     "genomeIntervals": [
-        "intervals",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -35960,7 +35957,6 @@
     "girafe": [
         "S4Vectors",
         "Rsamtools",
-        "intervals",
         "ShortRead",
         "genomeIntervals",
         "Biobase",
@@ -55312,7 +55308,6 @@
         "stringr",
         "digest",
         "ProtGenerics",
-        "intervals",
         "forcats",
         "reshape",
         "tidyr",
@@ -88685,7 +88680,6 @@
         "s2",
         "units",
         "xts",
-        "intervals",
         "lwgeom",
         "processx",
         "e1071",
@@ -103253,7 +103247,6 @@
         "pROC",
         "recipes",
         "reshape2",
-        "intervals",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -103297,7 +103290,6 @@
         "digest",
         "listenv"
     ],
-    "intervals": [],
     "RcppRoll": [
         "Rcpp"
     ],
@@ -112225,7 +112217,6 @@
         "s2",
         "units",
         "xts",
-        "intervals",
         "lwgeom",
         "rlang",
         "e1071",
@@ -112266,8 +112257,7 @@
     "spacetime": [
         "sp",
         "zoo",
-        "xts",
-        "intervals"
+        "xts"
     ],
     "stars": [
         "sf",
