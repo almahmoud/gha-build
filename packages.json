@@ -392,7 +392,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "CIMICE": [],
     "circRNAprofiler": [
         "gwascat",
         "VariantAnnotation"
