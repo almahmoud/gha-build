@@ -10162,7 +10162,6 @@
         "phyloseq",
         "tidyr"
     ],
-    "SimFFPE": [],
     "simpleSeg": [
         "cytomapper",
         "SpatialExperiment",
