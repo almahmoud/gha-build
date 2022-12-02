@@ -673,7 +673,6 @@
         "GenomicFeatures",
         "ensembldb"
     ],
-    "CNVPanelizer": [],
     "CNVrd2": [
         "VariantAnnotation",
         "GenomicFeatures"
