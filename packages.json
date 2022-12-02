@@ -30301,7 +30301,6 @@
         "ggthemes",
         "IRanges",
         "pheatmap",
-        "fit.models",
         "robustbase",
         "rrcov",
         "callr",
@@ -91555,7 +91554,6 @@
     ],
     "word2vec": [],
     "robust": [
-        "fit.models",
         "robustbase",
         "rrcov",
         "pcaPP"
@@ -91563,7 +91561,6 @@
     "roptim": [
         "RcppArmadillo"
     ],
-    "fit.models": [],
     "maptools": [
         "sp"
     ],
