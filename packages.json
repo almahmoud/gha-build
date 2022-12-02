@@ -14,7 +14,6 @@
     ],
     "abseqR": [
         "ggplot2",
-        "flexdashboard",
         "ggcorrplot",
         "ggdendro",
         "plotly",
@@ -12677,7 +12676,6 @@
         "genefilter",
         "readr",
         "plotly",
-        "flexdashboard",
         "shinydashboard",
         "kableExtra",
         "GGally",
@@ -17866,7 +17864,6 @@
     ],
     "GO.db": [],
     "ggplot2": [],
-    "flexdashboard": [],
     "ggcorrplot": [
         "ggplot2"
     ],
