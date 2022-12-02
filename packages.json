@@ -4940,7 +4940,6 @@
         "BiocFileCache",
         "VariantAnnotation"
     ],
-    "methylscaper": [],
     "MethylSeekR": [
         "rtracklayer",
         "BSgenome",
