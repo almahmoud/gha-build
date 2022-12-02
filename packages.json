@@ -1542,9 +1542,7 @@
         "ggtree",
         "ggtreeExtra"
     ],
-    "midasHLA": [
-        "HardyWeinberg"
-    ],
+    "midasHLA": [],
     "MIGSA": [],
     "miloR": [],
     "MineICA": [
@@ -2962,7 +2960,6 @@
         "AnnotationHubData",
         "OrganismDbi"
     ],
-    "HardyWeinberg": [],
     "cvms": [
         "lme4"
     ],
