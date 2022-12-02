@@ -1597,7 +1597,6 @@
         "broom",
         "testthat"
     ],
-    "cydar": [],
     "CyTOFpower": [
         "CytoGLMM",
         "diffcyt",
