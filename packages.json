@@ -23861,7 +23861,6 @@
         "jquerylib",
         "memoise",
         "htmlwidgets",
-        "phosphoricons",
         "reactable",
         "rio",
         "shinybusy",
@@ -59413,7 +59412,6 @@
     ],
     "datamods": [
         "htmlwidgets",
-        "phosphoricons",
         "reactable",
         "readxl",
         "rio",
@@ -59439,7 +59437,6 @@
         "tidyselect",
         "vroom"
     ],
-    "phosphoricons": [],
     "pd.mapping50k.xba240": [
         "Biostrings",
         "RSQLite",
