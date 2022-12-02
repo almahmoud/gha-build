@@ -33885,7 +33885,6 @@
         "vctrs",
         "pillar"
     ],
-    "RGraph2js": [],
     "rGREAT": [
         "GenomicRanges",
         "shiny",
