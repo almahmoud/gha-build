@@ -29592,7 +29592,6 @@
         "lmerTest",
         "mlr3learners",
         "mlr3tuning",
-        "paradox",
         "lme4",
         "ggplot2",
         "future.apply",
@@ -39425,24 +39424,18 @@
         "bslib"
     ],
     "mlr3": [
-        "future.apply",
-        "paradox"
+        "future.apply"
     ],
     "mlr3learners": [
         "mlr3",
-        "paradox",
         "future.apply"
     ],
     "mlr3tuning": [
         "mlr3",
-        "paradox",
         "bbotk",
         "future.apply"
     ],
-    "paradox": [],
-    "bbotk": [
-        "paradox"
-    ],
+    "bbotk": [],
     "survivalAnalysis": [
         "dplyr",
         "forcats",
