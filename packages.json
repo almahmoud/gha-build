@@ -3421,7 +3421,6 @@
         "tidyverse",
         "modelr"
     ],
-    "NanoTube": [],
     "NBAMSeq": [
         "DESeq2"
     ],
