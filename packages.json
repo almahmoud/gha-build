@@ -1916,7 +1916,6 @@
         "superheat",
         "drtmle",
         "SummarizedExperiment",
-        "SuperLearner",
         "ggdendro"
     ],
     "biovizBase": [
@@ -24917,10 +24916,7 @@
         "ggdendro",
         "tibble"
     ],
-    "drtmle": [
-        "SuperLearner"
-    ],
-    "SuperLearner": [],
+    "drtmle": [],
     "biscuiteerData": [
         "ExperimentHub",
         "AnnotationHub",
