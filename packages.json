@@ -15290,8 +15290,7 @@
     "cycle": [
         "Mfuzz",
         "Biobase",
-        "e1071",
-        "tkWidgets"
+        "e1071"
     ],
     "cydar": [
         "SingleCellExperiment",
@@ -38116,8 +38115,7 @@
     ],
     "Mfuzz": [
         "Biobase",
-        "e1071",
-        "tkWidgets"
+        "e1071"
     ],
     "MGFM": [
         "AnnotationDbi",
@@ -45372,8 +45370,7 @@
     ],
     "OLINgui": [
         "OLIN",
-        "marray",
-        "tkWidgets"
+        "marray"
     ],
     "omada": [
         "pdfCluster",
@@ -68067,7 +68064,6 @@
         "Matrix",
         "Biobase",
         "e1071",
-        "tkWidgets",
         "SummarizedExperiment",
         "GenomicRanges",
         "DelayedArray",
@@ -68261,7 +68257,6 @@
         "purrr",
         "ellipsis"
     ],
-    "tkWidgets": [],
     "tLOH": [
         "scales",
         "ggplot2",
