@@ -22090,7 +22090,6 @@
         "dplyr",
         "tidyselect"
     ],
-    "RedisParam": [],
     "REDseq": [
         "BSgenome.Celegans.UCSC.ce2",
         "Biostrings",
