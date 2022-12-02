@@ -2865,7 +2865,6 @@
         "scater",
         "DirichletMultinomial",
         "testthat",
-        "Rvmmin",
         "Rcgmin",
         "htmlwidgets",
         "hms",
@@ -49132,7 +49131,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "Rvmmin",
         "Rcgmin",
         "ape",
         "biomformat",
@@ -49153,7 +49151,6 @@
         "pillar"
     ],
     "optimr": [
-        "Rvmmin",
         "Rcgmin"
     ],
     "detectseparation": [
@@ -49164,7 +49161,6 @@
     ],
     "tokenizers": [],
     "ROI.plugin.lpsolve": [],
-    "Rvmmin": [],
     "Rcgmin": [],
     "sjmisc": [
         "dplyr",
