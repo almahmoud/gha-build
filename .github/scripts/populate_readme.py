@@ -49,7 +49,9 @@ for pkg in list(pkgs):
     tables[status].append([name, status, tarname])\
 
 for each in tables["Failed"]:
-    rawurl = each[2].replace("github.com", "raw.githubusercontent.com").replace("blob/", "")
+    logurl = each[2]
+    each[2] = f"[Build Log]({logurl})"
+    rawurl = logurl.replace("github.com", "raw.githubusercontent.com").replace("blob/", "")
     r = requests.get(rawurl)
     retries = 0
     while retries <= 5 and r.status_code != 200:
