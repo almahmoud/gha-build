@@ -21185,7 +21185,6 @@
         "pillar"
     ],
     "ndexr": [
-        "RCX",
         "tidyr",
         "dplyr",
         "tibble",
@@ -25582,7 +25581,6 @@
         "vroom",
         "ggplot2"
     ],
-    "RCX": [],
     "RCy3": [
         "IRkernel",
         "IRdisplay",
