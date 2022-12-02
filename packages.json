@@ -16112,7 +16112,6 @@
         "devtools",
         "ExperimentHub",
         "dplyr",
-        "PerformanceAnalytics",
         "ggpmisc",
         "tidyverse",
         "ggplot2",
@@ -19710,7 +19709,6 @@
         "factoextra",
         "rgl",
         "FactoMineR",
-        "PerformanceAnalytics",
         "tidyr",
         "dendextend",
         "ggpubr",
@@ -24200,7 +24198,6 @@
         "ballgown",
         "FactoMineR",
         "factoextra",
-        "PerformanceAnalytics",
         "DESeq2",
         "systemPipeR",
         "systemPipeRdata",
@@ -34276,7 +34273,6 @@
         "progress",
         "SummarizedExperiment"
     ],
-    "PerformanceAnalytics": [],
     "ggmcmc": [
         "dplyr",
         "tidyr",
