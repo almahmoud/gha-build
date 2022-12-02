@@ -6626,7 +6626,6 @@
         "tidytree",
         "ggsignif",
         "patchwork",
-        "ggstar",
         "treeio",
         "dtplyr",
         "ggtreeExtra",
@@ -13233,7 +13232,6 @@
         "tidyr",
         "GGally"
     ],
-    "ggstar": [],
     "HardyWeinberg": [
         "mice",
         "broom",
