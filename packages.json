@@ -4106,9 +4106,7 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "Repitools": [
-        "Ringo"
-    ],
+    "Repitools": [],
     "ReportingTools": [
         "Category",
         "GOstats",
@@ -4204,7 +4202,6 @@
         "lme4",
         "nloptr"
     ],
-    "Ringo": [],
     "RIPAT": [
         "biomaRt",
         "karyoploteR",
@@ -4683,9 +4680,7 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "SimBindProfiles": [
-        "Ringo"
-    ],
+    "SimBindProfiles": [],
     "simpleSeg": [
         "cytomapper",
         "SpatialExperiment"
