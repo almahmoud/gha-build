@@ -1150,7 +1150,6 @@
         "Biostrings"
     ],
     "autonomics": [
-        "assertive",
         "BiocFileCache",
         "ggplot2",
         "ggrepel",
@@ -15785,7 +15784,6 @@
         "tibble"
     ],
     "multicrispr": [
-        "assertive",
         "Biostrings",
         "BSgenome",
         "CRISPRseek",
@@ -27610,7 +27608,6 @@
         "KEGGREST",
         "Biostrings"
     ],
-    "assertive": [],
     "doBy": [
         "broom",
         "dplyr",
