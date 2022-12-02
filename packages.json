@@ -12690,7 +12690,6 @@
         "selectr",
         "rsparse",
         "koRpus.lang.en",
-        "koRpus",
         "lexicon",
         "quanteda",
         "textclean",
@@ -19858,7 +19857,6 @@
         "visNetwork",
         "rsparse",
         "koRpus.lang.en",
-        "koRpus",
         "lexicon",
         "quanteda",
         "textclean",
@@ -53075,7 +53073,6 @@
         "tfruns",
         "rsparse",
         "koRpus.lang.en",
-        "koRpus",
         "lexicon",
         "quanteda",
         "textclean",
@@ -53566,7 +53563,6 @@
         "selectr",
         "rsparse",
         "koRpus.lang.en",
-        "koRpus",
         "lexicon",
         "quanteda",
         "textclean",
@@ -54103,7 +54099,6 @@
         "org.Hs.eg.db",
         "AnnotationHub",
         "koRpus.lang.en",
-        "koRpus",
         "lexicon",
         "quanteda",
         "textclean",
@@ -59528,7 +59523,6 @@
     "textstem": [
         "koRpus.lang.en",
         "dplyr",
-        "koRpus",
         "lexicon",
         "quanteda",
         "textclean",
@@ -59542,10 +59536,7 @@
     "rsparse": [
         "MatrixExtra"
     ],
-    "koRpus.lang.en": [
-        "koRpus"
-    ],
-    "koRpus": [],
+    "koRpus.lang.en": [],
     "lexicon": [
         "syuzhet",
         "dplyr",
