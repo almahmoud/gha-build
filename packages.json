@@ -1639,7 +1639,6 @@
     "scDDboost": [],
     "schex": [],
     "scMAGeCK": [],
-    "scMerge": [],
     "scmeth": [
         "annotatr"
     ],
@@ -1713,7 +1712,6 @@
     "simpleSeg": [],
     "singleCellTK": [
         "ggtree",
-        "scMerge",
         "SoupX",
         "scRNAseq"
     ],
