@@ -3418,7 +3418,6 @@
         "s4vd",
         "BiBitR",
         "rqubic",
-        "subspace",
         "miRspongeR",
         "SPONGE",
         "clusterProfiler",
@@ -6591,7 +6590,6 @@
     ],
     "s4vd": [],
     "BiBitR": [],
-    "subspace": [],
     "cvms": [
         "lme4",
         "nloptr"
