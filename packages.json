@@ -45399,7 +45399,6 @@
         "ruv",
         "patchwork",
         "ggalluvial",
-        "mclustcomp",
         "RUVSeq",
         "tidyselect",
         "vctrs",
@@ -57670,7 +57669,6 @@
         "vctrs",
         "pillar"
     ],
-    "mclustcomp": [],
     "MLmetrics": [
         "ROCR"
     ],
