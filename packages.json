@@ -66446,7 +66446,6 @@
         "Rcpp",
         "R.methodsS3"
     ],
-    "PathNet": [],
     "PathoStat": [
         "corpcor",
         "reshape2",
