@@ -19007,7 +19007,6 @@
     ],
     "ssPATHS": [
         "SummarizedExperiment",
-        "dml",
         "MESS",
         "geepack",
         "ggplot2",
@@ -23631,7 +23630,6 @@
         "KEGGREST",
         "sqldf"
     ],
-    "dml": [],
     "MESS": [
         "geepack",
         "ggplot2",
