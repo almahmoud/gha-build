@@ -2,8 +2,7 @@
     "ADAMgui": [
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "affycoretools": [
         "ReportingTools",
@@ -43,8 +42,7 @@
     ],
     "atSNP": [],
     "BaalChIP": [
-        "doBy",
-        "pbkrtest"
+        "doBy"
     ],
     "BBCAnalyzer": [],
     "benchdamic": [
@@ -64,13 +62,11 @@
         "radiant.data",
         "clusterProfiler",
         "ReactomePA",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "BiocOncoTK": [
         "ggpubr",
         "car",
-        "pbkrtest",
         "rstatix"
     ],
     "biomvRCNS": [
@@ -106,7 +102,6 @@
         "FlowSOM",
         "car",
         "ggpubr",
-        "pbkrtest",
         "rstatix"
     ],
     "cbaf": [
@@ -119,8 +114,7 @@
     ],
     "cellmigRation": [
         "FactoMineR",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "CEMiTool": [
         "clusterProfiler"
@@ -130,16 +124,14 @@
         "FlowSOM",
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "CeTF": [
         "clusterProfiler",
         "GenomicTools",
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "ChAMP": [
         "DMRcate",
@@ -199,8 +191,7 @@
         "FactoMineR",
         "ggpubr",
         "car",
-        "rstatix",
-        "pbkrtest"
+        "rstatix"
     ],
     "consensusDE": [],
     "contiBAIT": [
@@ -228,8 +219,7 @@
     ],
     "cyanoFilter": [
         "flowDensity",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "CyTOFpower": [
         "CytoGLMM",
@@ -240,8 +230,7 @@
         "FactoMineR",
         "ggpubr",
         "car",
-        "rstatix",
-        "pbkrtest"
+        "rstatix"
     ],
     "CytoGLMM": [
         "factoextra",
@@ -249,13 +238,11 @@
         "FactoMineR",
         "ggpubr",
         "car",
-        "rstatix",
-        "pbkrtest"
+        "rstatix"
     ],
     "DaMiRseq": [
         "FactoMineR",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "DAPAR": [
         "DAPARdata"
@@ -263,13 +250,11 @@
     "dasper": [
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "ddPCRclust": [
         "flowDensity",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "debrowser": [
         "clusterProfiler"
@@ -290,15 +275,13 @@
     "DEScan2": [],
     "destiny": [
         "VIM",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "diffcyt": [
         "FlowSOM",
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "DMCFB": [],
     "DMRcate": [
@@ -316,15 +299,13 @@
     "DominoEffect": [],
     "Doscheda": [
         "drc",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "doseR": [],
     "easier": [
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "EasyCellType": [
         "clusterProfiler"
@@ -339,8 +320,7 @@
         "Gviz",
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "ENmix": [],
     "enrichTF": [
@@ -348,8 +328,7 @@
         "ggpubr",
         "clusterProfiler",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "EpiCompare": [
         "ChIPseeker"
@@ -357,14 +336,12 @@
     "epidecodeR": [
         "rstatix",
         "ggpubr",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "epigraHMM": [
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "epihet": [
         "EntropyExplorer",
@@ -390,8 +367,7 @@
         "orthogene",
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "ExperimentSubset": [],
     "extraChIPs": [
@@ -416,28 +392,23 @@
     ],
     "flowCut": [
         "flowDensity",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "flowDensity": [
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "flowPloidy": [
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "FlowSOM": [
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "flowVS": [],
     "frenchFISH": [
         "NHPoisson",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "funtooNorm": [
         "IlluminaHumanMethylation450kmanifest",
@@ -446,35 +417,30 @@
     "FuseSOM": [
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "GA4GHshiny": [],
     "GARS": [
         "DaMiRseq",
         "FactoMineR",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "GDCRNATools": [
         "clusterProfiler",
         "survminer",
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "genbankr": [],
     "GeneAccord": [
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "GeneGeneInteR": [
         "FactoMineR",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "GENESIS": [],
     "GeneStructureTools": [
@@ -490,8 +456,7 @@
     "GenomicSuperSignature": [
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "GenProSeq": [
         "DeepPINCS",
@@ -506,13 +471,11 @@
         "FactoMineR",
         "ggpubr",
         "car",
-        "rstatix",
-        "pbkrtest"
+        "rstatix"
     ],
     "GeomxTools": [],
     "GEWIST": [
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "ggbio": [],
     "ggmsa": [],
@@ -521,8 +484,7 @@
         "survminer",
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "gmapR": [],
     "goSorensen": [
@@ -530,8 +492,7 @@
     ],
     "GRmetrics": [
         "drc",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "GSReg": [],
     "Gviz": [],
@@ -542,8 +503,7 @@
     "HiCDOC": [
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "HiContacts": [
         "GenomicInteractions",
@@ -565,8 +525,7 @@
     "InTAD": [
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "intansv": [
         "ggbio"
@@ -576,22 +535,19 @@
         "FactoMineR",
         "ggpubr",
         "car",
-        "rstatix",
-        "pbkrtest"
+        "rstatix"
     ],
     "iPath": [
         "ggpubr",
         "survminer",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "IRISFGM": [
         "clusterProfiler",
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "ISAnalytics": [],
     "IsoformSwitchAnalyzeR": [],
@@ -600,8 +556,7 @@
         "survminer",
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "karyoploteR": [],
     "kissDE": [
@@ -609,14 +564,12 @@
         "FactoMineR",
         "ggpubr",
         "car",
-        "rstatix",
-        "pbkrtest"
+        "rstatix"
     ],
     "LinkHD": [
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "lisaClust": [
         "spicyR"
@@ -629,13 +582,11 @@
         "methylumi"
     ],
     "Maaslin2": [
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "Macarron": [
         "Maaslin2",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "MAGAR": [
         "RnBeads",
@@ -670,21 +621,18 @@
     ],
     "MEDME": [
         "drc",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "meshes": [],
     "MetaboSignal": [
         "MWASTools",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "MetaCyto": [
         "FlowSOM",
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "MetaPhOR": [
         "clusterProfiler"
@@ -696,8 +644,7 @@
         "ggpubr",
         "sesame",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "MethylAid": [],
     "methylCC": [
@@ -709,8 +656,7 @@
         "methylclockData",
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "methylGSA": [
         "clusterProfiler",
@@ -731,8 +677,7 @@
         "mia"
     ],
     "microbiomeExplorer": [
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "microbiomeMarker": [
         "ANCOMBC",
@@ -754,8 +699,7 @@
         "ReactomePA",
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "miRspongeR": [
         "SPONGE",
@@ -763,8 +707,7 @@
         "ReactomePA",
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "missMethyl": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -776,8 +719,7 @@
     "mitoClone2": [],
     "MMUPHin": [
         "Maaslin2",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "MoonlightR": [
         "clusterProfiler"
@@ -788,16 +730,14 @@
     "MQmetrics": [
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "msgbsR": [
         "ggbio"
     ],
     "MSPrep": [
         "VIM",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "MSstatsLiP": [
         "MSstatsPTM",
@@ -806,8 +746,7 @@
         "FactoMineR",
         "rstatix",
         "MSstatsTMT",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "MSstatsPTM": [
         "MSstatsTMT"
@@ -828,20 +767,17 @@
     "MungeSumstats": [],
     "muscat": [
         "blme",
-        "variancePartition",
-        "pbkrtest"
+        "variancePartition"
     ],
     "musicatk": [
         "factoextra",
         "FactoMineR",
         "ggpubr",
         "car",
-        "rstatix",
-        "pbkrtest"
+        "rstatix"
     ],
     "MWASTools": [
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "NADfinder": [
         "trackViewer",
@@ -849,8 +785,7 @@
     ],
     "NBSplice": [
         "car",
-        "mppa",
-        "pbkrtest"
+        "mppa"
     ],
     "nearBynding": [],
     "netboxr": [
@@ -863,8 +798,7 @@
     "nondetects": [],
     "NormalyzerDE": [
         "car",
-        "RcmdrMisc",
-        "pbkrtest"
+        "RcmdrMisc"
     ],
     "octad": [],
     "ODER": [
@@ -873,8 +807,7 @@
         "ggpubr",
         "GenomicFiles",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "OGRE": [
         "Gviz"
@@ -883,45 +816,38 @@
     "omicRexposome": [
         "rexposome",
         "FactoMineR",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "OMICsPCA": [
         "factoextra",
         "FactoMineR",
         "ggpubr",
         "car",
-        "pbkrtest",
         "rstatix"
     ],
     "omicsViewer": [
         "survminer",
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "OncoSimulR": [
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "onlineFDR": [],
     "OpenStats": [
         "AICcmodavg",
         "car",
-        "unmarked",
-        "pbkrtest"
+        "unmarked"
     ],
     "orthogene": [
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "padma": [
         "FactoMineR",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "PanomiR": [
         "clusterProfiler"
@@ -930,21 +856,18 @@
         "survminer",
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "PFP": [
         "clusterProfiler"
     ],
     "PhenStat": [
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "PhosR": [
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "Pigengene": [
         "clusterProfiler",
@@ -956,8 +879,7 @@
     "plotGrouper": [
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "preciseTAD": [
         "rCGH"
@@ -984,8 +906,7 @@
         "factoextra",
         "FactoMineR",
         "car",
-        "rstatix",
-        "pbkrtest"
+        "rstatix"
     ],
     "psichomics": [
         "recount",
@@ -995,8 +916,7 @@
     "ptairMS": [
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "PureCN": [],
     "pvca": [],
@@ -1005,8 +925,7 @@
     ],
     "qmtools": [
         "VIM",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "qrqc": [],
     "quantro": [],
@@ -1041,8 +960,7 @@
     ],
     "rexposome": [
         "FactoMineR",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "RgnTX": [],
     "rGREAT": [],
@@ -1053,8 +971,7 @@
     ],
     "ribosomeProfilingQC": [],
     "rifi": [
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "RIPAT": [
         "karyoploteR"
@@ -1087,7 +1004,6 @@
         "clusterProfiler",
         "ggpubr",
         "car",
-        "pbkrtest",
         "rstatix"
     ],
     "RnaSeqSampleSize": [
@@ -1096,8 +1012,7 @@
         "rstatix",
         "derfinder",
         "GenomicFiles",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "RnBeads": [
         "methylumi"
@@ -1106,31 +1021,26 @@
         "GenomicFiles"
     ],
     "rqt": [
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "RTCGA": [
         "survminer",
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "RTCGAToolbox": [],
     "RTN": [
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "RTNduals": [
         "RTN",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "RTNsurvival": [
         "RTN",
         "RTNduals",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "scBubbletree": [],
     "scDD": [],
@@ -1168,15 +1078,13 @@
         "survminer",
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "signifinder": [
         "survminer",
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "SigsPack": [],
     "simpleSeg": [],
@@ -1218,8 +1126,7 @@
     "SPONGE": [
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "srnadiff": [
         "Gviz"
@@ -1236,8 +1143,7 @@
         "survminer",
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "svaNUMT": [
         "StructuralVariantAnnotation"
@@ -1247,26 +1153,22 @@
     ],
     "synergyfinder": [
         "drc",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "synlet": [
-        "doBy",
-        "pbkrtest"
+        "doBy"
     ],
     "systemPipeTools": [],
     "TADCompare": [
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "tanggle": [],
     "TargetDecoy": [
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "TCGAbiolinksGUI": [
         "ELMER",
@@ -1275,8 +1177,7 @@
         "Gviz",
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "TDARACNE": [
         "GenKern"
@@ -1294,8 +1195,7 @@
     "TNBC.CMS": [
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "trackViewer": [
         "Gviz"
@@ -1309,8 +1209,7 @@
         "FlowSOM",
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "ttgsea": [
         "textstem"
@@ -1325,9 +1224,7 @@
         "ttgsea",
         "textstem"
     ],
-    "variancePartition": [
-        "pbkrtest"
-    ],
+    "variancePartition": [],
     "VariantExperiment": [],
     "VariantFiltering": [
         "Gviz"
@@ -1356,44 +1253,33 @@
         "quantro"
     ],
     "zenith": [
-        "variancePartition",
-        "pbkrtest"
+        "variancePartition"
     ],
     "ggpubr": [
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "rstatix": [
-        "car",
-        "pbkrtest"
+        "car"
     ],
-    "car": [
-        "pbkrtest"
-    ],
-    "pbkrtest": [],
+    "car": [],
     "PolyPhen.Hsapiens.dbSNP131": [],
     "SIFT.Hsapiens.dbSNP137": [],
     "mGSZ": [],
-    "doBy": [
-        "pbkrtest"
-    ],
+    "doBy": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [],
     "radiant.data": [
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "GenomicState": [
         "derfinder",
         "GenomicFiles"
     ],
     "drc": [
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "FactoMineR": [
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "GenomicTools": [],
     "IlluminaHumanMethylationEPICmanifest": [],
@@ -1405,37 +1291,32 @@
         "FactoMineR",
         "ggpubr",
         "car",
-        "rstatix",
-        "pbkrtest"
+        "rstatix"
     ],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [],
     "mbest": [],
     "DAPARdata": [],
     "textstem": [],
     "VIM": [
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "JASPAR2018": [],
     "EntropyExplorer": [],
     "SPARQL": [],
     "NHPoisson": [
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "survminer": [
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "FlowSorted.Blood.450k": [],
     "methylclockData": [],
     "blme": [],
     "mppa": [],
     "RcmdrMisc": [
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "AICcmodavg": [
         "unmarked"
@@ -1446,8 +1327,7 @@
         "survminer",
         "ggpubr",
         "rstatix",
-        "car",
-        "pbkrtest"
+        "car"
     ],
     "sampSurf": [],
     "GenKern": [],
