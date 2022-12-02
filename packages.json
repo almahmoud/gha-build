@@ -8761,7 +8761,6 @@
         "fBasics",
         "GenomicRanges",
         "IRanges",
-        "HilbertVis",
         "ShortRead",
         "XVector",
         "GenomeInfoDb",
@@ -24918,16 +24917,12 @@
         "RcppEigen"
     ],
     "HilbertCurve": [
-        "HilbertVis",
         "IRanges",
         "GenomicRanges",
         "GenomeInfoDb",
         "XVector"
     ],
-    "HilbertVis": [],
-    "HilbertVisGUI": [
-        "HilbertVis"
-    ],
+    "HilbertVisGUI": [],
     "HiLDA": [
         "ggplot2",
         "R2jags",
