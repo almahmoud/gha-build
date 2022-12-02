@@ -9672,7 +9672,6 @@
         "tidyselect",
         "ggthemes",
         "VIM",
-        "knn.covertree",
         "smoother",
         "tibble",
         "GenomicRanges",
@@ -43107,7 +43106,6 @@
         "waldo",
         "rematch2"
     ],
-    "knn.covertree": [],
     "NBPSeq": [
         "qvalue",
         "ggplot2",
