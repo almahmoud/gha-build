@@ -139,7 +139,6 @@
         "Homo.sapiens",
         "Mus.musculus",
         "BSgenome.Hsapiens.UCSC.hg19",
-        "BSgenome.Mmusculus.UCSC.mm10",
         "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
@@ -1457,7 +1456,6 @@
         "logistf"
     ],
     "GeneStructureTools": [
-        "BSgenome.Mmusculus.UCSC.mm10",
         "Gviz",
         "GenomicFeatures",
         "ensembldb",
@@ -2500,7 +2498,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
         "BSgenome.Mmusculus.UCSC.mm9",
-        "BSgenome.Mmusculus.UCSC.mm10",
         "deconstructSigs",
         "decompTumor2Sig",
         "factoextra",
@@ -3909,7 +3906,6 @@
     "trena": [
         "BSgenome.Hsapiens.UCSC.hg38",
         "BSgenome.Hsapiens.UCSC.hg19",
-        "BSgenome.Mmusculus.UCSC.mm10",
         "SNPlocs.Hsapiens.dbSNP150.GRCh38"
     ],
     "TRESS": [
@@ -4145,7 +4141,6 @@
         "GenomicFeatures",
         "TxDb.Mmusculus.UCSC.mm10.knownGene"
     ],
-    "BSgenome.Mmusculus.UCSC.mm10": [],
     "TxDb.Mmusculus.UCSC.mm10.knownGene": [
         "GenomicFeatures"
     ],
