@@ -2159,7 +2159,6 @@
     ],
     "scTreeViz": [
         "epivizr",
-        "clustree",
         "epivizrData"
     ],
     "segmenter": [
@@ -2749,7 +2748,6 @@
     "RLHub": [],
     "SCATEData": [],
     "Rmagic": [],
-    "clustree": [],
     "survivalAnalysis": [
         "survminer",
         "ggpubr",
