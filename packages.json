@@ -9971,7 +9971,6 @@
         "BSgenome",
         "GenomicFeatures",
         "Rhtslib",
-        "memuse",
         "Rcpp",
         "stringr",
         "vegan",
@@ -43401,7 +43400,6 @@
         "GenomicFeatures",
         "ape",
         "dplyr",
-        "memuse",
         "Rcpp",
         "stringr",
         "tibble",
@@ -96784,7 +96782,6 @@
     "vcfR": [
         "ape",
         "dplyr",
-        "memuse",
         "Rcpp",
         "stringr",
         "tibble",
@@ -96799,7 +96796,6 @@
         "mgcv",
         "Matrix"
     ],
-    "memuse": [],
     "biglm": [],
     "sqldf": [
         "gsubfn",
