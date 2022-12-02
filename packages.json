@@ -15232,7 +15232,6 @@
     ],
     "HiLDA": [
         "ggplot2",
-        "R2jags",
         "cowplot",
         "forcats",
         "GenomicRanges",
@@ -31048,7 +31047,6 @@
     "selectKSigs": [
         "HiLDA",
         "ggplot2",
-        "R2jags",
         "cowplot",
         "forcats",
         "GenomicRanges",
@@ -40510,7 +40508,6 @@
         "bslib",
         "XVector"
     ],
-    "R2jags": [],
     "servr": [],
     "available": [
         "tidytext",
