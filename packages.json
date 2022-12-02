@@ -6374,7 +6374,6 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "structToolbox": [],
     "StructuralVariantAnnotation": [
         "VariantAnnotation",
         "GenomicFeatures",
