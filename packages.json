@@ -77528,7 +77528,6 @@
         "gridExtra",
         "htmlTable",
         "base64enc",
-        "kpeaks",
         "lhs",
         "deldir",
         "RcppEigen",
@@ -120831,7 +120830,6 @@
         "base64enc",
         "yaml",
         "openssl",
-        "kpeaks",
         "lhs",
         "timechange",
         "lattice",
@@ -160551,7 +160549,6 @@
     "ppclust": [
         "inaparc",
         "MASS",
-        "kpeaks",
         "lhs",
         "Rcpp"
     ],
@@ -160576,7 +160573,6 @@
         "cli"
     ],
     "inaparc": [
-        "kpeaks",
         "lhs",
         "Rcpp"
     ],
@@ -160626,7 +160622,6 @@
         "cpp11",
         "utf8"
     ],
-    "kpeaks": [],
     "lhs": [
         "Rcpp"
     ],
