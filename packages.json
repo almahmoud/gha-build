@@ -2111,8 +2111,7 @@
         "babelgene",
         "GenomicAlignments",
         "ggbeeswarm",
-        "ggrastr",
-        "waiter"
+        "ggrastr"
     ],
     "chromstaR": [
         "GenomicAlignments"
@@ -5246,7 +5245,6 @@
         "tidyr",
         "tippy",
         "viridis",
-        "waiter",
         "patchwork",
         "geneplotter",
         "annotate"
@@ -10454,7 +10452,6 @@
         "caret",
         "dendextend",
         "biomaRt",
-        "waiter",
         "BiocFileCache",
         "recipes",
         "viridis",
@@ -11913,7 +11910,6 @@
         "rtracklayer",
         "scanMiR",
         "scanMiRData",
-        "waiter",
         "BiocFileCache",
         "biomaRt",
         "tidyr",
@@ -13629,8 +13625,7 @@
         "plotly",
         "shinydashboardPlus",
         "shinytoastr",
-        "tidyr",
-        "waiter"
+        "tidyr"
     ],
     "systemPipeTools": [
         "DESeq2",
@@ -15438,15 +15433,12 @@
         "GenomicAlignments",
         "dbplyr"
     ],
-    "shinydashboardPlus": [
-        "waiter"
-    ],
+    "shinydashboardPlus": [],
     "kableExtra": [],
     "gggenes": [
         "ggfittext"
     ],
     "ggfittext": [],
-    "waiter": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
@@ -15741,9 +15733,7 @@
         "broom",
         "tidyr"
     ],
-    "bs4Dash": [
-        "waiter"
-    ],
+    "bs4Dash": [],
     "tippy": [],
     "shinyHeatmaply": [
         "heatmaply",
