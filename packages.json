@@ -10607,7 +10607,6 @@
         "S4Vectors",
         "mvtnorm",
         "Rcpp",
-        "matrixcalc",
         "magrittr",
         "ggplot2",
         "cowplot",
@@ -26879,7 +26878,6 @@
         "Rcpp",
         "SummarizedExperiment",
         "knitr",
-        "matrixcalc",
         "rmarkdown",
         "DSS",
         "dendextend",
@@ -53652,7 +53650,6 @@
         "doSNOW",
         "foreach",
         "doParallel",
-        "matrixcalc",
         "Rtsne",
         "corpcor",
         "umap",
@@ -56738,7 +56735,6 @@
         "BPRMeth",
         "GenomicRanges",
         "ROCR",
-        "matrixcalc",
         "mclust",
         "ggplot2",
         "doParallel",
@@ -120983,7 +120979,6 @@
         "plotmo",
         "plotrix"
     ],
-    "matrixcalc": [],
     "plotmo": [
         "plotrix"
     ],
