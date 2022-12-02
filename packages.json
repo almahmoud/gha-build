@@ -44013,7 +44013,6 @@
         "memoise",
         "SnowballC",
         "tibble",
-        "yesno",
         "httr",
         "digest",
         "aws.signature",
@@ -118553,7 +118552,6 @@
         "memoise",
         "SnowballC",
         "tibble",
-        "yesno",
         "rprojroot",
         "rlang",
         "cachem",
@@ -118581,7 +118579,6 @@
         "openssl",
         "askpass"
     ],
-    "yesno": [],
     "aws.signature": [
         "digest"
     ],
