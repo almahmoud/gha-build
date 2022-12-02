@@ -10937,9 +10937,7 @@
         "GenomicAlignments",
         "dbplyr"
     ],
-    "QuartPAC": [
-        "SpacePAC"
-    ],
+    "QuartPAC": [],
     "QuasR": [
         "BSgenome",
         "GenomicFeatures",
@@ -13212,7 +13210,6 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "SpacePAC": [],
     "Spaniel": [
         "Seurat",
         "SingleCellExperiment",
