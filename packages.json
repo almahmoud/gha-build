@@ -5313,7 +5313,6 @@
         "DelayedArray"
     ],
     "ChIPXpress": [
-        "ChIPXpressData",
         "GEOquery",
         "frma",
         "oligo",
@@ -39481,7 +39480,6 @@
         "mixsqp"
     ],
     "mixsqp": [],
-    "ChIPXpressData": [],
     "shinyhelper": [
         "shiny",
         "bslib"
