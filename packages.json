@@ -1363,7 +1363,6 @@
         "GEOquery",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "methylumi",
-        "ruv",
         "tidyr",
         "lumi",
         "BSgenome",
@@ -2670,7 +2669,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
         "methylumi",
-        "ruv",
         "Hmisc",
         "VariantAnnotation",
         "readr",
@@ -5262,7 +5260,6 @@
     "MBECS": [
         "lme4",
         "lmerTest",
-        "ruv",
         "sva",
         "tidyr",
         "nloptr",
@@ -5332,7 +5329,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
         "methylumi",
-        "ruv",
         "sva",
         "BiocFileCache",
         "Hmisc",
@@ -5676,7 +5672,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
         "methylumi",
-        "ruv",
         "fgsea",
         "aplot",
         "ggraph",
@@ -6065,7 +6060,6 @@
         "IlluminaHumanMethylationEPICmanifest",
         "methylumi",
         "minfi",
-        "ruv",
         "FDb.InfiniumMethylation.hg19",
         "genefilter",
         "GenomicFeatures",
@@ -7374,7 +7368,6 @@
         "BiocFileCache"
     ],
     "PhosR": [
-        "ruv",
         "dendextend",
         "tidyr",
         "GGally",
@@ -8919,7 +8912,6 @@
     "scmap": [],
     "scMerge": [
         "M3Drop",
-        "ruv",
         "reldist",
         "Hmisc",
         "densEstBayes"
@@ -9394,7 +9386,6 @@
         "hgu95a.db",
         "ggrastr",
         "M3Drop",
-        "ruv",
         "genefilter",
         "biomaRt",
         "reldist",
@@ -9779,7 +9770,6 @@
         "SpatialExperiment",
         "readr",
         "tidyr",
-        "ruv",
         "ggalluvial",
         "RUVSeq",
         "EDASeq",
@@ -11268,7 +11258,6 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "ruv": [],
     "spp": [],
     "ChIC.data": [
         "caret",
