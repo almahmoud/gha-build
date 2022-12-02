@@ -39745,7 +39745,6 @@
         "htmltools",
         "base64enc",
         "mnormt",
-        "pbivnorm",
         "numDeriv",
         "nlme",
         "hms",
@@ -150889,7 +150888,6 @@
         "base64enc",
         "magrittr",
         "mnormt",
-        "pbivnorm",
         "numDeriv",
         "nlme",
         "stringr",
@@ -150918,10 +150916,8 @@
     "lavaan": [
         "MASS",
         "mnormt",
-        "pbivnorm",
         "numDeriv"
     ],
-    "pbivnorm": [],
     "RNOmni": [
         "plyr",
         "Rcpp",
