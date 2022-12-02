@@ -15968,7 +15968,6 @@
         "naniar",
         "LambertW",
         "recipes",
-        "butcher",
         "tidyr",
         "visdat",
         "viridis",
@@ -18852,7 +18851,6 @@
     "bestNormalize": [
         "LambertW",
         "recipes",
-        "butcher",
         "ggplot2",
         "hardhat",
         "ipred",
@@ -18870,7 +18868,6 @@
     "LambertW": [
         "ggplot2"
     ],
-    "butcher": [],
     "visdat": [
         "ggplot2",
         "tidyr",
