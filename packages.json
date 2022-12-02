@@ -299,9 +299,7 @@
     ],
     "BloodGen3Module": [],
     "bnbc": [],
-    "bnem": [
-        "epiNEM"
-    ],
+    "bnem": [],
     "BOBaFIT": [
         "ggbio",
         "biovizBase",
@@ -837,8 +835,7 @@
     ],
     "dce": [
         "tidyverse",
-        "ggraph",
-        "epiNEM"
+        "ggraph"
     ],
     "ddPCRclust": [
         "flowDensity",
@@ -1131,7 +1128,6 @@
         "OrganismDbi",
         "VariantAnnotation"
     ],
-    "epiNEM": [],
     "epistasisGA": [],
     "EpiTxDb": [
         "GenomicFeatures"
@@ -2478,9 +2474,7 @@
     "Nebulosa": [
         "Seurat"
     ],
-    "nempi": [
-        "epiNEM"
-    ],
+    "nempi": [],
     "NetActivity": [],
     "netboxr": [
         "clusterProfiler",
