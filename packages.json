@@ -20920,7 +20920,6 @@
         "DESeq2",
         "GenomicRanges",
         "knitrBootstrap",
-        "RefManageR",
         "rmarkdown",
         "SummarizedExperiment",
         "bookdown",
@@ -31371,7 +31370,6 @@
     "knitrBootstrap": [
         "rmarkdown"
     ],
-    "RefManageR": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [
         "BSgenome",
         "GenomicRanges",
