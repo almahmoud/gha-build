@@ -70156,7 +70156,6 @@
         "purrr",
         "ranger",
         "readr",
-        "ridge",
         "rlang",
         "rlist",
         "R.utils",
@@ -144078,7 +144077,6 @@
         "insight",
         "datawizard"
     ],
-    "ridge": [],
     "echarts4r": [
         "htmlwidgets",
         "dplyr",
