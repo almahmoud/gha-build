@@ -23697,9 +23697,7 @@
         "Matrix",
         "DelayedArray"
     ],
-    "gcatest": [
-        "lfa"
-    ],
+    "gcatest": [],
     "gCrisprTools": [
         "ggplot2",
         "SummarizedExperiment",
@@ -32057,7 +32055,6 @@
         "memoise",
         "rematch2"
     ],
-    "lfa": [],
     "LineagePulse": [
         "BiocParallel",
         "ComplexHeatmap",
