@@ -1598,8 +1598,7 @@
         "RCy3",
         "genefilter",
         "GO.db",
-        "AnnotationForge",
-        "IRkernel"
+        "AnnotationForge"
     ],
     "cbaf": [
         "BiocFileCache",
@@ -1863,7 +1862,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "IRkernel",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -3457,8 +3455,7 @@
     ],
     "DEGraph": [
         "NCIgraph",
-        "RCy3",
-        "IRkernel"
+        "RCy3"
     ],
     "DEGreport": [
         "broom",
@@ -4863,8 +4860,7 @@
     ],
     "fedup": [
         "ggthemes",
-        "RCy3",
-        "IRkernel"
+        "RCy3"
     ],
     "ffpe": [
         "lumi",
@@ -7751,7 +7747,6 @@
         "gson",
         "qvalue",
         "tidyr",
-        "IRkernel",
         "ipred",
         "HDO.db",
         "fgsea",
@@ -8680,8 +8675,7 @@
         "ggrepel"
     ],
     "MOGAMUN": [
-        "RCy3",
-        "IRkernel"
+        "RCy3"
     ],
     "mogsa": [
         "graphite",
@@ -9396,8 +9390,7 @@
         "vsn"
     ],
     "NCIgraph": [
-        "RCy3",
-        "IRkernel"
+        "RCy3"
     ],
     "ncRNAtools": [],
     "ndexr": [
@@ -9538,7 +9531,6 @@
         "Category",
         "annotate",
         "AnnotationForge",
-        "IRkernel",
         "sqldf",
         "biomaRt",
         "readr",
@@ -11320,9 +11312,7 @@
         "viridis",
         "vroom"
     ],
-    "RCy3": [
-        "IRkernel"
-    ],
+    "RCy3": [],
     "ReactomeGraph4R": [
         "neo4r",
         "tidyr"
@@ -11498,7 +11488,6 @@
         "BSgenome",
         "biovizBase",
         "GenomicAlignments",
-        "IRkernel",
         "Hmisc",
         "VariantAnnotation",
         "viridis"
@@ -14483,7 +14472,6 @@
         "gson",
         "qvalue",
         "ggrepel",
-        "IRkernel",
         "dbplyr",
         "HDO.db",
         "fgsea",
@@ -14675,8 +14663,7 @@
         "annotate"
     ],
     "transomics2cytoscape": [
-        "RCy3",
-        "IRkernel"
+        "RCy3"
     ],
     "TraRe": [
         "vbsr"
@@ -15890,7 +15877,6 @@
         "testthat",
         "waldo"
     ],
-    "IRkernel": [],
     "enrichR": [],
     "multipanelfigure": [],
     "FactoMineR": [
