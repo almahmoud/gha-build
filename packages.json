@@ -318,9 +318,7 @@
         "ensembldb"
     ],
     "BrainSABER": [],
-    "branchpointer": [
-        "BSgenome.Hsapiens.UCSC.hg38"
-    ],
+    "branchpointer": [],
     "BRGenomics": [],
     "BubbleTree": [
         "biovizBase",
@@ -1760,7 +1758,6 @@
     ],
     "katdetectr": [
         "VariantAnnotation",
-        "BSgenome.Hsapiens.UCSC.hg38",
         "GenomicFeatures"
     ],
     "kissDE": [
@@ -2369,7 +2366,6 @@
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "BSgenome.Hsapiens.UCSC.hg38",
         "deconstructSigs",
         "decompTumor2Sig",
         "factoextra",
@@ -2555,9 +2551,7 @@
     "oppti": [
         "devtools"
     ],
-    "ORFhunteR": [
-        "BSgenome.Hsapiens.UCSC.hg38"
-    ],
+    "ORFhunteR": [],
     "ORFik": [
         "GenomicFeatures"
     ],
@@ -2705,7 +2699,6 @@
         "GenomicFeatures"
     ],
     "primirTSS": [
-        "BSgenome.Hsapiens.UCSC.hg38",
         "phastCons100way.UCSC.hg38",
         "Gviz",
         "JASPAR2018",
@@ -3702,7 +3695,6 @@
         "treeio"
     ],
     "trena": [
-        "BSgenome.Hsapiens.UCSC.hg38",
         "SNPlocs.Hsapiens.dbSNP150.GRCh38"
     ],
     "TRESS": [
@@ -3741,7 +3733,6 @@
         "EnsDb.Hsapiens.v75",
         "EnsDb.Hsapiens.v86",
         "OrganismDbi",
-        "BSgenome.Hsapiens.UCSC.hg38",
         "ensembldb",
         "GenomicFeatures",
         "biovizBase",
@@ -3954,7 +3945,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "BSgenome.Hsapiens.UCSC.hg38": [],
     "devtools": [],
     "drc": [
         "car",
