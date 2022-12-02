@@ -136,7 +136,6 @@
         "lme4",
         "rstatix"
     ],
-    "biodbExpasy": [],
     "biomvRCNS": [
         "Gviz",
         "biovizBase",
