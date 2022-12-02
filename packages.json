@@ -16314,7 +16314,6 @@
         "htmlTable",
         "viridis",
         "geepack",
-        "yeastCC",
         "org.Sc.sgd.db",
         "GO.db",
         "AnnotationDbi",
@@ -24143,7 +24142,6 @@
     ],
     "LiquidAssociation": [
         "geepack",
-        "yeastCC",
         "org.Sc.sgd.db",
         "broom",
         "AnnotationDbi",
@@ -56982,7 +56980,6 @@
         "mgcv",
         "scales"
     ],
-    "yeastCC": [],
     "fda": [
         "fds",
         "rainbow",
