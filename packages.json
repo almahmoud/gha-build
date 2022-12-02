@@ -94,8 +94,7 @@
         "ReactomePA",
         "enrichplot",
         "car",
-        "pbkrtest",
-        "ggtree"
+        "pbkrtest"
     ],
     "BiocOncoTK": [
         "ggpubr",
@@ -146,9 +145,7 @@
         "biovizBase"
     ],
     "CancerInSilico": [],
-    "cardelino": [
-        "ggtree"
-    ],
+    "cardelino": [],
     "CATALYST": [
         "drc",
         "FlowSOM",
@@ -174,8 +171,7 @@
     ],
     "CEMiTool": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "censcyt": [
         "diffcyt",
@@ -191,7 +187,6 @@
         "ggpubr",
         "enrichplot",
         "rstatix",
-        "ggtree",
         "car",
         "pbkrtest"
     ],
@@ -224,8 +219,7 @@
     "ChIPpeakAnno": [],
     "ChIPQC": [],
     "ChIPseeker": [
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "cicero": [
         "Gviz",
@@ -242,8 +236,7 @@
     ],
     "clipper": [],
     "clusterProfiler": [
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "CNVfilteR": [
         "karyoploteR",
@@ -257,9 +250,7 @@
     ],
     "CNVrd2": [],
     "COCOA": [],
-    "cogeqc": [
-        "ggtree"
-    ],
+    "cogeqc": [],
     "comapr": [
         "Gviz",
         "biovizBase"
@@ -282,7 +273,6 @@
         "enrichplot",
         "FactoMineR",
         "ggpubr",
-        "ggtree",
         "car",
         "rstatix",
         "pbkrtest"
@@ -384,8 +374,7 @@
     ],
     "debrowser": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "decompTumor2Sig": [],
     "deconvR": [
@@ -456,16 +445,14 @@
     ],
     "EasyCellType": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "edge": [
         "snm"
     ],
     "eegc": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "ELMER": [
         "Gviz",
@@ -479,24 +466,20 @@
     "ENmix": [
         "minfi"
     ],
-    "enrichplot": [
-        "ggtree"
-    ],
+    "enrichplot": [],
     "enrichTF": [
         "JASPAR2018",
         "ggpubr",
         "clusterProfiler",
         "enrichplot",
         "rstatix",
-        "ggtree",
         "car",
         "pbkrtest"
     ],
     "epialleleR": [],
     "EpiCompare": [
         "ChIPseeker",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "epidecodeR": [
         "rstatix",
@@ -513,8 +496,7 @@
     "epihet": [
         "EntropyExplorer",
         "ReactomePA",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "EpiMix": [],
     "epimutacions": [
@@ -540,14 +522,12 @@
         "ChIPseeker",
         "clusterProfiler",
         "JASPAR2018",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "EventPointer": [],
     "EWCE": [
         "orthogene",
         "ggpubr",
-        "ggtree",
         "rstatix",
         "car",
         "pbkrtest"
@@ -563,14 +543,12 @@
     ],
     "famat": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "fCCAC": [],
     "fcoex": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "fcScan": [],
     "ffpe": [
@@ -644,7 +622,6 @@
         "survminer",
         "enrichplot",
         "ggpubr",
-        "ggtree",
         "rstatix",
         "car",
         "pbkrtest"
@@ -713,16 +690,9 @@
     "ggbio": [
         "biovizBase"
     ],
-    "ggmsa": [
-        "ggtree"
-    ],
-    "ggtree": [],
-    "ggtreeDendro": [
-        "ggtree"
-    ],
-    "ggtreeExtra": [
-        "ggtree"
-    ],
+    "ggmsa": [],
+    "ggtreeDendro": [],
+    "ggtreeExtra": [],
     "glmSparseNet": [
         "survminer",
         "ggpubr",
@@ -735,8 +705,7 @@
     "goseq": [],
     "goSorensen": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "GRmetrics": [
         "drc",
@@ -830,7 +799,6 @@
         "ggpubr",
         "enrichplot",
         "rstatix",
-        "ggtree",
         "car",
         "pbkrtest"
     ],
@@ -866,9 +834,7 @@
         "car",
         "pbkrtest"
     ],
-    "LinTInd": [
-        "ggtree"
-    ],
+    "LinTInd": [],
     "lisaClust": [
         "spicyR",
         "lmerTest"
@@ -882,9 +848,7 @@
         "FDb.InfiniumMethylation.hg19",
         "minfi"
     ],
-    "LymphoSeq": [
-        "ggtree"
-    ],
+    "LymphoSeq": [],
     "Maaslin2": [
         "car",
         "lmerTest",
@@ -907,8 +871,7 @@
     ],
     "MAGeCKFlute": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "MAI": [],
     "MAIT": [
@@ -958,8 +921,7 @@
     "megadepth": [],
     "memes": [],
     "meshes": [
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "MetaboAnnotation": [],
     "MetaboSignal": [
@@ -980,8 +942,7 @@
     ],
     "MetaPhOR": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "metaseqR2": [],
     "metavizr": [
@@ -1024,7 +985,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
         "methylumi",
-        "ggtree",
         "FDb.InfiniumMethylation.hg19"
     ],
     "methylPipe": [
@@ -1044,15 +1004,13 @@
     ],
     "miaViz": [
         "TreeSummarizedExperiment",
-        "mia",
-        "ggtree"
+        "mia"
     ],
     "microbiomeExplorer": [
         "car",
         "pbkrtest"
     ],
     "microbiomeMarker": [
-        "ggtree",
         "ANCOMBC",
         "mia",
         "TreeSummarizedExperiment",
@@ -1060,11 +1018,9 @@
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "MicrobiotaProcess": [
-        "ggtree",
         "ggtreeExtra"
     ],
     "midasHLA": [],
@@ -1088,7 +1044,6 @@
         "enrichplot",
         "cvms",
         "ggpubr",
-        "ggtree",
         "rstatix",
         "car",
         "pbkrtest"
@@ -1100,7 +1055,6 @@
         "enrichplot",
         "cvms",
         "ggpubr",
-        "ggtree",
         "rstatix",
         "car",
         "pbkrtest"
@@ -1126,8 +1080,7 @@
     ],
     "MoonlightR": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "mosbi": [],
     "motifbreakR": [
@@ -1191,8 +1144,7 @@
     "multiSight": [
         "clusterProfiler",
         "ReactomePA",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "MungeSumstats": [],
     "muscat": [
@@ -1234,8 +1186,7 @@
     "Nebulosa": [],
     "netboxr": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "netOmics": [],
     "netSmooth": [],
@@ -1309,7 +1260,6 @@
     ],
     "orthogene": [
         "ggpubr",
-        "ggtree",
         "rstatix",
         "car",
         "pbkrtest"
@@ -1322,8 +1272,7 @@
     "pageRank": [],
     "PanomiR": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "pcaExplorer": [],
     "PDATK": [
@@ -1335,17 +1284,14 @@
     ],
     "PFP": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "phenomis": [],
     "PhenStat": [
         "car",
         "pbkrtest"
     ],
-    "philr": [
-        "ggtree"
-    ],
+    "philr": [],
     "PhosR": [
         "ggpubr",
         "rstatix",
@@ -1355,8 +1301,7 @@
     "Pigengene": [
         "clusterProfiler",
         "ReactomePA",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "PING": [
         "Gviz",
@@ -1387,8 +1332,7 @@
     "profileplyr": [
         "ChIPseeker",
         "rGREAT",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "Prostar": [
         "DAPAR",
@@ -1451,8 +1395,7 @@
     ],
     "rCGH": [],
     "ReactomePA": [
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "recount": [
         "derfinder",
@@ -1546,7 +1489,6 @@
         "ggpubr",
         "car",
         "pbkrtest",
-        "ggtree",
         "rstatix"
     ],
     "RnaSeqSampleSize": [
@@ -1601,9 +1543,7 @@
     "scAnnotatR": [],
     "SCATE": [],
     "scBFA": [],
-    "scBubbletree": [
-        "ggtree"
-    ],
+    "scBubbletree": [],
     "scCB2": [],
     "scDataviz": [],
     "scDD": [
@@ -1628,8 +1568,7 @@
     "scTensor": [
         "ReactomePA",
         "schex",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "scTGIF": [
         "schex"
@@ -1639,8 +1578,7 @@
     ],
     "segmenter": [
         "ChIPseeker",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "selectKSigs": [
         "HiLDA"
@@ -1660,8 +1598,7 @@
     ],
     "signatureSearch": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "signeR": [
         "survivalAnalysis",
@@ -1681,7 +1618,6 @@
     "SigsPack": [],
     "simpleSeg": [],
     "singleCellTK": [
-        "ggtree",
         "SoupX",
         "scRNAseq"
     ],
@@ -1689,9 +1625,7 @@
         "QuasR",
         "GenomicFiles"
     ],
-    "sitePath": [
-        "ggtree"
-    ],
+    "sitePath": [],
     "skewr": [
         "methylumi",
         "wateRmelon",
@@ -1782,18 +1716,14 @@
         "doBy",
         "pbkrtest"
     ],
-    "systemPipeTools": [
-        "ggtree"
-    ],
+    "systemPipeTools": [],
     "TADCompare": [
         "ggpubr",
         "rstatix",
         "car",
         "pbkrtest"
     ],
-    "tanggle": [
-        "ggtree"
-    ],
+    "tanggle": [],
     "TargetDecoy": [
         "ggpubr",
         "rstatix",
@@ -1808,7 +1738,6 @@
         "enrichplot",
         "Gviz",
         "ggpubr",
-        "ggtree",
         "rstatix",
         "biovizBase",
         "car",
@@ -1825,8 +1754,7 @@
     ],
     "TimiRGeN": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "TitanCNA": [],
     "tLOH": [],
@@ -1845,7 +1773,6 @@
     ],
     "Travel": [],
     "treekoR": [
-        "ggtree",
         "diffcyt",
         "FlowSOM",
         "ggpubr",
