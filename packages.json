@@ -65,12 +65,8 @@
     "CiteFuse": [
         "propr"
     ],
-    "CNVfilteR": [
-        "CopyNumberPlots"
-    ],
-    "CNViz": [
-        "CopyNumberPlots"
-    ],
+    "CNVfilteR": [],
+    "CNViz": [],
     "compEpiTools": [],
     "conclus": [
         "factoextra",
@@ -79,7 +75,6 @@
         "rstatix"
     ],
     "conumee": [],
-    "CopyNumberPlots": [],
     "crisprVerse": [],
     "cyanoFilter": [
         "flowDensity"
