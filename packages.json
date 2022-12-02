@@ -4436,7 +4436,6 @@
     "BLMA": [
         "ROntoTools",
         "PADOG",
-        "metafor",
         "KEGGdzPathwaysGEO",
         "AnnotationDbi",
         "hgu133plus2.db",
@@ -25278,7 +25277,6 @@
     "MetaCyto": [
         "tidyr",
         "ggplot2",
-        "metafor",
         "FlowSOM",
         "igraph",
         "ConsensusClusterPlus",
@@ -25646,7 +25644,6 @@
         "plotly",
         "ggplot2",
         "cowplot",
-        "metafor",
         "metap",
         "topconfects",
         "htmlwidgets",
@@ -28067,7 +28064,6 @@
     ],
     "MMUPHin": [
         "Maaslin2",
-        "metafor",
         "igraph",
         "ggplot2",
         "dplyr",
@@ -52865,7 +52861,6 @@
         "pillar",
         "tidyselect"
     ],
-    "metafor": [],
     "KEGGdzPathwaysGEO": [],
     "hgu133plus2.db": [
         "AnnotationDbi",
