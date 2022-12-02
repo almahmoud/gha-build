@@ -9150,7 +9150,6 @@
         "ggplot2",
         "ggthemes",
         "MultiAssayExperiment",
-        "pals",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "transport",
@@ -52025,7 +52024,6 @@
         "tibble",
         "vctrs"
     ],
-    "pals": [],
     "Rmixmod": [],
     "HTSCluster": [
         "edgeR"
