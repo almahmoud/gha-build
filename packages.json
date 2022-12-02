@@ -83,7 +83,6 @@
     ],
     "ATACCoGAPS": [
         "tidyverse",
-        "motifmatchr",
         "chromVAR",
         "rGREAT",
         "Homo.sapiens",
@@ -96,9 +95,7 @@
         "ChIPpeakAnno",
         "motifStack"
     ],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
+    "ATACseqTFEA": [],
     "atSNP": [
         "motifStack"
     ],
@@ -691,9 +688,7 @@
         "pbkrtest",
         "lme4"
     ],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [
         "minfi",
         "bumphunter"
@@ -702,7 +697,6 @@
         "ggtree"
     ],
     "enrichTF": [
-        "motifmatchr",
         "JASPAR2018",
         "ggpubr",
         "clusterProfiler",
@@ -784,7 +778,6 @@
         "ChIPseeker",
         "clusterProfiler",
         "JASPAR2018",
-        "motifmatchr",
         "enrichplot",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "ggtree"
@@ -1569,7 +1562,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "motifmatchr": [],
     "motifStack": [],
     "MQmetrics": [
         "ggpubr",
@@ -1816,9 +1808,7 @@
         "pbkrtest",
         "lme4"
     ],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "PanomiR": [
         "clusterProfiler",
         "enrichplot",
@@ -2384,7 +2374,6 @@
     "SpatialFeatureExperiment": [],
     "spatzie": [
         "GenomicInteractions",
-        "motifmatchr",
         "Gviz",
         "biovizBase",
         "VariantAnnotation"
