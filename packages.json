@@ -14700,7 +14700,6 @@
         "blob",
         "Biostrings"
     ],
-    "ldblock": [],
     "LedPred": [
         "ggplot2",
         "testthat",
