@@ -1430,9 +1430,7 @@
         "VariantAnnotation",
         "GenomicFeatures"
     ],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "ffpe": [
         "lumi",
         "methylumi",
@@ -3902,7 +3900,6 @@
         "scRNAseq",
         "TENxPBMCData",
         "scDblFinder",
-        "TSCAN",
         "GenomicFeatures",
         "treeio",
         "M3Drop"
@@ -4309,7 +4306,6 @@
     "trigger": [],
     "tripr": [],
     "tRNAscanImport": [],
-    "TSCAN": [],
     "ttgsea": [
         "textstem",
         "lexicon",
