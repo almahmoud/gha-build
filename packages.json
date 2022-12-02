@@ -257,8 +257,7 @@
         "gwascat"
     ],
     "CircSeqAlignTk": [
-        "Rhisat2",
-        "SGSeq"
+        "Rhisat2"
     ],
     "CiteFuse": [
         "propr"
@@ -589,9 +588,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "ggtree"
     ],
-    "EventPointer": [
-        "SGSeq"
-    ],
+    "EventPointer": [],
     "EWCE": [
         "orthogene",
         "ggpubr",
@@ -1575,9 +1572,7 @@
     "rgsepd": [
         "goseq"
     ],
-    "Rhisat2": [
-        "SGSeq"
-    ],
+    "Rhisat2": [],
     "RiboCrypt": [],
     "RiboProfiling": [
         "ggbio",
@@ -1741,7 +1736,6 @@
     "seqCAT": [],
     "SeqVarTools": [],
     "sesame": [],
-    "SGSeq": [],
     "shinyepico": [
         "minfi"
     ],
