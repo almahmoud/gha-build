@@ -25,7 +25,6 @@
         "testthat",
         "tidyr",
         "rstatix",
-        "waldo",
         "broom",
         "car",
         "pbkrtest",
@@ -161,7 +160,6 @@
         "testthat",
         "treeio",
         "ggrastr",
-        "waldo",
         "tidytree"
     ],
     "AneuFinder": [],
@@ -296,8 +294,7 @@
         "UpSetR",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "ASICS": [
         "ropls",
@@ -324,8 +321,7 @@
         "VariantAnnotation",
         "tidyr",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "ASpli": [
         "GenomicFeatures",
@@ -414,7 +410,6 @@
         "testthat",
         "rtracklayer",
         "TFBSTools",
-        "waldo",
         "CNEr",
         "readr"
     ],
@@ -440,8 +435,7 @@
         "tidyr",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "BadRegionFinder": [
         "VariantAnnotation",
@@ -572,8 +566,7 @@
         "scater",
         "testthat",
         "tidytree",
-        "ggrastr",
-        "waldo"
+        "ggrastr"
     ],
     "BgeeCall": [
         "GenomicFeatures",
@@ -658,8 +651,7 @@
         "tidytree",
         "treeio",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "BiocDockerManager": [
         "readr"
@@ -688,8 +680,7 @@
         "BiocFileCache",
         "nloptr",
         "broom",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "BioCor": [
         "GSEABase"
@@ -704,62 +695,52 @@
     "BiocWorkflowTools": [],
     "biodb": [
         "BiocFileCache",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "biodbChebi": [
         "biodb",
         "BiocFileCache",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "biodbExpasy": [
         "biodb",
         "BiocFileCache",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "biodbHmdb": [
         "biodb",
         "testthat",
-        "BiocFileCache",
-        "waldo"
+        "BiocFileCache"
     ],
     "biodbKegg": [
         "biodb",
         "BiocFileCache",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "biodbLipidmaps": [
         "biodb",
         "BiocFileCache",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "biodbMirbase": [
         "biodb",
         "BiocFileCache",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "biodbNcbi": [
         "biodb",
         "BiocFileCache",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "biodbNci": [
         "biodb",
         "testthat",
-        "BiocFileCache",
-        "waldo"
+        "BiocFileCache"
     ],
     "biodbUniprot": [
         "biodb",
         "BiocFileCache",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "biomaRt": [
         "BiocFileCache"
@@ -872,8 +853,7 @@
         "ExperimentHub",
         "testthat",
         "AnnotationHub",
-        "BiocFileCache",
-        "waldo"
+        "BiocFileCache"
     ],
     "bnbc": [
         "sva",
@@ -979,8 +959,7 @@
     ],
     "BUMHMM": [
         "devtools",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "bumphunter": [
         "GenomicFeatures",
@@ -1112,8 +1091,7 @@
         "rstatix",
         "nloptr",
         "broom",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "Category": [
         "GSEABase",
@@ -1215,8 +1193,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "CellMixS": [
         "scater",
@@ -1265,7 +1242,6 @@
         "ggpubr",
         "testthat",
         "rstatix",
-        "waldo",
         "car",
         "pbkrtest"
     ],
@@ -1306,8 +1282,7 @@
         "tidytree",
         "treeio",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "CexoR": [
         "rtracklayer",
@@ -1654,8 +1629,7 @@
     "CNORfeeder": [],
     "CNORfuzzy": [
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "CNORode": [],
     "CNTools": [
@@ -1694,8 +1668,7 @@
         "BiocFileCache"
     ],
     "CNVPanelizer": [
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "CNVRanger": [],
     "CNVrd2": [
@@ -1730,8 +1703,7 @@
     "cogena": [
         "tidyr",
         "devtools",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "cogeqc": [
         "ggtree",
@@ -1786,8 +1758,7 @@
         "rtracklayer",
         "biomaRt",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "compartmap": [
         "rtracklayer"
@@ -1851,8 +1822,7 @@
         "treeio",
         "broom",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "condiments": [
         "slingshot",
@@ -2164,8 +2134,7 @@
         "fields",
         "nloptr",
         "broom",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "cydar": [],
     "CyTOFpower": [
@@ -2187,8 +2156,7 @@
         "testthat",
         "ipred",
         "pbkrtest",
-        "broom",
-        "waldo"
+        "broom"
     ],
     "CytoGLMM": [
         "factoextra",
@@ -2206,8 +2174,7 @@
         "ipred",
         "pbkrtest",
         "testthat",
-        "broom",
-        "waldo"
+        "broom"
     ],
     "cytomapper": [
         "SpatialExperiment",
@@ -2266,8 +2233,7 @@
         "ipred",
         "tidyr",
         "testthat",
-        "broom",
-        "waldo"
+        "broom"
     ],
     "DAPAR": [
         "MSnbase",
@@ -2293,7 +2259,6 @@
         "car",
         "pbkrtest",
         "lme4",
-        "waldo",
         "nloptr"
     ],
     "dce": [
@@ -2322,8 +2287,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "dearseq": [],
     "debCAM": [
@@ -2379,8 +2343,7 @@
         "rtracklayer",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "decoupleR": [
         "broom",
@@ -2506,16 +2469,14 @@
         "lme4",
         "nloptr",
         "broom",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "DEsubs": [
         "EBSeq",
         "NBPSeq",
         "DESeq2",
         "geneplotter",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "DEWSeq": [
         "DESeq2",
@@ -2561,7 +2522,6 @@
         "testthat",
         "broom",
         "car",
-        "waldo",
         "pbkrtest"
     ],
     "DifferentialRegulation": [
@@ -2613,8 +2573,7 @@
         "benchmarkme",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "DMCHMM": [
         "rtracklayer"
@@ -2701,8 +2660,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "DOSE": [
         "fgsea",
@@ -2711,8 +2669,7 @@
     "doseR": [
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "dpeak": [
         "BSgenome",
@@ -2771,8 +2728,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "EasyCellType": [
         "clusterProfiler",
@@ -2802,13 +2758,11 @@
         "geneplotter"
     ],
     "EBSeq": [
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "EBSeqHMM": [
         "EBSeq",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "EDASeq": [
         "ShortRead",
@@ -2823,8 +2777,7 @@
         "lme4",
         "genefilter",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "eegc": [
         "DESeq2",
@@ -2889,8 +2842,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [
@@ -2969,8 +2921,7 @@
         "tidytree",
         "treeio",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "ensembldb": [
         "GenomicFeatures",
@@ -3026,8 +2977,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "epigenomix": [],
     "epigraHMM": [
@@ -3042,8 +2992,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "epihet": [
         "EntropyExplorer",
@@ -3256,8 +3205,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "ExCluster": [
         "rtracklayer"
@@ -3484,8 +3432,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "flowDensity": [
         "car",
@@ -3497,8 +3444,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "flowGraph": [],
     "flowPloidy": [
@@ -3508,8 +3454,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "FlowSOM": [
         "ggpubr",
@@ -3520,8 +3465,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "flowStats": [
         "fda",
@@ -3572,8 +3516,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "FRGEpistasis": [
         "fda",
@@ -3612,8 +3555,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "GA4GHclient": [
         "VariantAnnotation",
@@ -3653,7 +3595,6 @@
         "GenomicFeatures",
         "car",
         "genefilter",
-        "waldo",
         "BiocFileCache",
         "pbkrtest",
         "rtracklayer",
@@ -3671,8 +3612,7 @@
     ],
     "GCSscore": [
         "devtools",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "GDCRNATools": [
         "DESeq2",
@@ -3706,8 +3646,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "gemma.R": [
         "tidyr"
@@ -3731,8 +3670,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "geneAttribution": [
         "GenomicFeatures",
@@ -3756,8 +3694,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "GeneMeta": [
         "genefilter"
@@ -3874,8 +3811,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "genotypeeval": [
         "VariantAnnotation",
@@ -3914,7 +3850,6 @@
         "lmerTest",
         "GGally",
         "nloptr",
-        "waldo",
         "tidyr"
     ],
     "GEOexplorer": [
@@ -3934,8 +3869,7 @@
         "lme4",
         "broom",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "GEOmetadb": [
         "GEOquery",
@@ -3949,8 +3883,7 @@
         "tidyr",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "GEOquery": [
         "readr",
@@ -3974,8 +3907,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "ggbio": [
         "Hmisc",
@@ -4067,8 +3999,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "GlobalAncova": [
         "globaltest",
@@ -4191,16 +4122,14 @@
         "lme4",
         "nloptr",
         "broom",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "groHMM": [
         "rtracklayer"
     ],
     "gscreend": [
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "GSEABase": [],
     "GSEABenchmarkeR": [
@@ -4378,8 +4307,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "HiContacts": [
         "HiContactsData",
@@ -4558,8 +4486,7 @@
         "tidyr",
         "nloptr",
         "BiocFileCache",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "imcRtools": [
         "SpatialExperiment",
@@ -4588,8 +4515,7 @@
     ],
     "INDEED": [
         "devtools",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "infercnv": [
         "Seurat",
@@ -4627,8 +4553,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "intansv": [
         "ggbio",
@@ -4668,8 +4593,7 @@
         "lme4",
         "broom",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "IntEREst": [
         "GenomicFeatures",
@@ -4696,8 +4620,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "ipdDb": [
         "AnnotationHub",
@@ -4740,8 +4663,7 @@
         "tidytree",
         "treeio",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "ISAnalytics": [
         "readr",
@@ -4817,8 +4739,7 @@
         "tidyr",
         "nloptr",
         "BiocFileCache",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "ivygapSE": [
         "survminer",
@@ -4832,8 +4753,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "IWTomics": [
         "fda",
@@ -4889,8 +4809,7 @@
         "lme4",
         "broom",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "KnowSeq": [
         "caret",
@@ -4908,13 +4827,11 @@
         "BiocFileCache"
     ],
     "LedPred": [
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "lefser": [],
     "levi": [
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "LineagePulse": [],
     "lineagespot": [
@@ -4938,8 +4855,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "Linnorm": [],
     "LinTInd": [
@@ -4975,8 +4891,7 @@
         "lme4",
         "scuttle",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "LOBSTAHS": [
         "xcms",
@@ -5058,8 +4973,7 @@
         "nloptr",
         "testthat",
         "broom",
-        "tidyr",
-        "waldo"
+        "tidyr"
     ],
     "Macarron": [
         "WGCNA",
@@ -5073,8 +4987,7 @@
         "nloptr",
         "testthat",
         "broom",
-        "tidyr",
-        "waldo"
+        "tidyr"
     ],
     "macat": [],
     "MACSQuantifyR": [],
@@ -5209,8 +5122,7 @@
         "tidyr",
         "nloptr",
         "genefilter",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "mbkmeans": [
         "benchmarkme"
@@ -5314,14 +5226,12 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "megadepth": [
         "readr",
         "cmdfun",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "MEIGOR": [
         "CNORode"
@@ -5333,8 +5243,7 @@
         "cmdfun",
         "readr",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "meshes": [
         "DOSE",
@@ -5401,8 +5310,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "MetaCyto": [
         "tidyr",
@@ -5414,8 +5322,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "metagene": [
         "rtracklayer",
@@ -5525,8 +5432,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "methrix": [
         "rtracklayer",
@@ -5586,7 +5492,6 @@
         "GenomicFeatures",
         "AnnotationHubData",
         "car",
-        "waldo",
         "rtracklayer",
         "OrganismDbi",
         "pbkrtest",
@@ -5677,8 +5582,7 @@
     ],
     "MetID": [
         "devtools",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "MetNet": [
         "tidyr"
@@ -5742,8 +5646,7 @@
         "geneplotter",
         "dendextend",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "microbiomeMarker": [
         "ggtree",
@@ -5769,8 +5672,7 @@
         "scater",
         "testthat",
         "ipred",
-        "ggrastr",
-        "waldo"
+        "ggrastr"
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler",
@@ -5822,8 +5724,7 @@
     ],
     "MIMOSA": [
         "testthat",
-        "tidyr",
-        "waldo"
+        "tidyr"
     ],
     "mina": [
         "Hmisc"
@@ -5940,8 +5841,7 @@
         "ipred",
         "car",
         "pbkrtest",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "miRspongeR": [
         "SPONGE",
@@ -5981,8 +5881,7 @@
         "ipred",
         "car",
         "pbkrtest",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "mirTarRnaSeq": [],
     "missMethyl": [
@@ -6043,7 +5942,6 @@
         "DESeq2",
         "recipes",
         "geneplotter",
-        "waldo",
         "ipred",
         "tidyr"
     ],
@@ -6061,8 +5959,7 @@
         "pbkrtest",
         "nloptr",
         "testthat",
-        "broom",
-        "waldo"
+        "broom"
     ],
     "mnem": [
         "Linnorm"
@@ -6184,8 +6081,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "MSA2dist": [
         "tidyr"
@@ -6244,8 +6140,7 @@
         "lme4",
         "nloptr",
         "broom",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "msPurity": [],
     "msqrob2": [
@@ -6255,14 +6150,12 @@
         "nloptr",
         "tidyr",
         "plotly",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "MSstats": [
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "MSstatsLiP": [
         "MSstats",
@@ -6284,8 +6177,7 @@
         "nloptr",
         "lmerTest",
         "pbkrtest",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "MSstatsPTM": [
         "MSstatsTMT",
@@ -6293,8 +6185,7 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "MSstatsQC": [
         "plotly",
@@ -6319,8 +6210,7 @@
         "nloptr",
         "ipred",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "MSstatsShiny": [
         "Hmisc",
@@ -6331,16 +6221,14 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "MSstatsTMT": [
         "lme4",
         "lmerTest",
         "MSstats",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "MuData": [
         "MultiAssayExperiment",
@@ -6423,8 +6311,7 @@
         "tidytree",
         "treeio",
         "ipred",
-        "plotly",
-        "waldo"
+        "plotly"
     ],
     "mumosa": [
         "scuttle",
@@ -6454,8 +6341,7 @@
         "pbkrtest",
         "testthat",
         "broom",
-        "tidyr",
-        "waldo"
+        "tidyr"
     ],
     "musicatk": [
         "VariantAnnotation",
@@ -6486,8 +6372,7 @@
         "lme4",
         "broom",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "MutationalPatterns": [
         "BSgenome",
@@ -6506,8 +6391,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "mygene": [
         "GenomicFeatures",
@@ -6562,7 +6446,6 @@
     "nanotatoR": [
         "testthat",
         "tidyverse",
-        "waldo",
         "broom",
         "haven",
         "modelr",
@@ -6585,8 +6468,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "ncGTW": [
         "xcms",
@@ -6713,8 +6595,7 @@
         "arm",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "NoRCE": [
         "tidyr",
@@ -6737,8 +6618,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "normr": [
         "rtracklayer"
@@ -6810,7 +6690,6 @@
         "car",
         "pbkrtest",
         "lme4",
-        "waldo",
         "BSgenome",
         "nloptr"
     ],
@@ -6860,8 +6739,7 @@
         "broom",
         "tidyr",
         "pbkrtest",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "OMICsPCA": [
         "OMICsPCAdata",
@@ -6884,8 +6762,7 @@
         "BiocFileCache",
         "nloptr",
         "broom",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "omicsPrint": [
         "MultiAssayExperiment",
@@ -6903,8 +6780,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "Omixer": [
         "readr"
@@ -6928,8 +6804,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "oneSENSE": [
         "plotly",
@@ -6959,8 +6834,7 @@
         "tidyr",
         "nloptr",
         "broom",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "oposSOM": [
         "biomaRt",
@@ -6972,8 +6846,7 @@
     ],
     "oppti": [
         "devtools",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "OPWeight": [],
     "ORFhunteR": [
@@ -7022,13 +6895,11 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "Oscope": [
         "EBSeq",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "OTUbase": [
         "ShortRead"
@@ -7058,8 +6929,7 @@
         "lme4",
         "nloptr",
         "broom",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "PADOG": [
         "hgu133plus2.db",
@@ -7075,8 +6945,7 @@
     ],
     "PAIRADISE": [
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "panelcn.mops": [
         "cn.mops"
@@ -7116,8 +6985,7 @@
         "DOSE",
         "fgsea",
         "GOSemSim",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "PAST": [
         "rtracklayer"
@@ -7128,8 +6996,7 @@
         "plotly",
         "devtools",
         "geneplotter",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "pathview": [],
     "paxtoolsr": [
@@ -7174,8 +7041,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "pdInfoBuilder": [
         "oligo"
@@ -7242,8 +7108,7 @@
         "ropls",
         "tidyr",
         "BiocFileCache",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "phenopath": [
         "tidyr"
@@ -7266,8 +7131,7 @@
         "mice",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "philr": [
         "tidyr",
@@ -7291,8 +7155,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "PhyloProfile": [
         "colourpicker",
@@ -7390,8 +7253,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "plyranges": [
         "rtracklayer"
@@ -7399,8 +7261,7 @@
     "pmm": [
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "PoDCall": [
         "readr"
@@ -7513,8 +7374,7 @@
         "genefilter",
         "Hmisc",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "proFIA": [
         "xcms",
@@ -7649,8 +7509,7 @@
         "lme4",
         "broom",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "psichomics": [
         "AnnotationHub",
@@ -7697,8 +7556,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "puma": [
         "oligo"
@@ -7714,8 +7572,7 @@
     "pvca": [
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "Pviz": [
         "Gviz",
@@ -7758,8 +7615,7 @@
         "tidyr",
         "nloptr",
         "broom",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "qpgraph": [
         "GenomicFeatures",
@@ -7779,7 +7635,6 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "ensembldb",
-        "waldo",
         "rtracklayer",
         "biomaRt",
         "BSgenome",
@@ -7876,8 +7731,7 @@
     ],
     "RAREsim": [
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "RareVariantVis": [
         "VariantAnnotation",
@@ -8137,8 +7991,7 @@
         "broom",
         "tidyr",
         "pbkrtest",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "rGADEM": [
         "BSgenome",
@@ -8251,8 +8104,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "RImmPort": [],
     "Ringo": [
@@ -8323,7 +8175,6 @@
         "GenomicFeatures",
         "rtracklayer",
         "biomaRt",
-        "waldo",
         "BiocFileCache"
     ],
     "rmspc": [
@@ -8347,8 +8198,7 @@
     ],
     "RNAdecay": [
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "rnaEditr": [
         "bumphunter",
@@ -8459,8 +8309,7 @@
         "treeio",
         "nloptr",
         "broom",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "RnaSeqSampleSize": [
         "biomaRt",
@@ -8484,8 +8333,7 @@
         "VariantAnnotation",
         "nloptr",
         "BSgenome",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "RnBeads": [
         "fields",
@@ -8544,8 +8392,7 @@
         "nloptr",
         "tidyr",
         "broom",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "rqubic": [
         "biclust",
@@ -8567,8 +8414,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "RTCGAToolbox": [
         "TCGAutils",
@@ -8588,8 +8434,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "RTNduals": [
         "RTN",
@@ -8599,8 +8444,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "RTNsurvival": [
         "RTN",
@@ -8611,8 +8455,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "Rtpca": [
         "tidyr"
@@ -8630,8 +8473,7 @@
     "runibic": [
         "biclust",
         "testthat",
-        "tidyr",
-        "waldo"
+        "tidyr"
     ],
     "RUVSeq": [
         "EDASeq",
@@ -8772,14 +8614,12 @@
         "lme4",
         "testthat",
         "scuttle",
-        "nloptr",
-        "waldo"
+        "nloptr"
     ],
     "scDDboost": [
         "EBSeq",
         "Oscope",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "scds": [],
     "scGPS": [
@@ -8865,8 +8705,7 @@
         "BiocFileCache",
         "tidyr",
         "scuttle",
-        "ggrastr",
-        "waldo"
+        "ggrastr"
     ],
     "scran": [
         "scuttle"
@@ -9105,8 +8944,7 @@
         "lmerTest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "SigCheck": [
         "MLInterfaces",
@@ -9156,7 +8994,6 @@
         "GenomicFeatures",
         "biomaRt",
         "car",
-        "waldo",
         "pbkrtest",
         "lme4"
     ],
@@ -9185,8 +9022,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "SigsPack": [
         "BSgenome",
@@ -9358,8 +9194,7 @@
     "snm": [
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "SNPhood": [
         "DESeq2",
@@ -9438,8 +9273,7 @@
         "tidyr",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "SpatialExperiment": [
         "DropletUtils",
@@ -9511,8 +9345,7 @@
         "DropletUtils",
         "BiocFileCache",
         "scuttle",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "SpidermiR": [
         "miRNAtap",
@@ -9583,8 +9416,7 @@
         "ipred",
         "car",
         "pbkrtest",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "SpotClean": [
         "SpatialExperiment",
@@ -9621,8 +9453,7 @@
         "biovizBase",
         "BiocFileCache",
         "Hmisc",
-        "VariantAnnotation",
-        "waldo"
+        "VariantAnnotation"
     ],
     "sSNAPPY": [
         "ggraph",
@@ -9736,8 +9567,7 @@
     ],
     "Summix": [
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "supersigs": [
         "caret",
@@ -9754,8 +9584,7 @@
         "biomaRt",
         "readr",
         "testthat",
-        "BiocFileCache",
-        "waldo"
+        "BiocFileCache"
     ],
     "survcomp": [
         "ipred"
@@ -9770,8 +9599,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "sva": [
         "genefilter"
@@ -9820,8 +9648,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "synlet": [
         "doBy",
@@ -9830,15 +9657,13 @@
         "tidyr",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "syntenet": [
         "rtracklayer",
         "ggnetwork",
         "intergraph",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "systemPipeR": [
         "ShortRead"
@@ -9872,8 +9697,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "tanggle": [
         "ggtree",
@@ -9900,8 +9724,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "TarSeqQC": [
         "Hmisc"
@@ -9976,8 +9799,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "TCGAutils": [
         "GenomicFeatures",
@@ -10140,8 +9962,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "TOAST": [
         "tidyr",
@@ -10252,7 +10073,6 @@
         "ggpubr",
         "testthat",
         "rstatix",
-        "waldo",
         "broom",
         "car",
         "pbkrtest"
@@ -10429,8 +10249,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "VariantAnnotation": [
         "rtracklayer",
@@ -10576,8 +10395,7 @@
         "BiocFileCache",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "wateRmelon": [
         "methylumi",
@@ -10687,8 +10505,7 @@
         "lme4",
         "nloptr",
         "broom",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "zFPKM": [
         "tidyr"
@@ -10708,12 +10525,9 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
-    "testthat": [
-        "waldo"
-    ],
+    "testthat": [],
     "rstatix": [
         "tidyr",
         "broom",
@@ -10721,10 +10535,8 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
-    "waldo": [],
     "broom": [
         "tidyr"
     ],
@@ -10734,25 +10546,21 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "pbkrtest": [
         "lme4",
         "broom",
         "tidyr",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "lme4": [
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "nloptr": [
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "adductData": [
         "ExperimentHub",
@@ -10776,8 +10584,7 @@
     "lmerTest": [
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "tidytree": [
         "tidyr"
@@ -10930,8 +10737,7 @@
         "tidyr",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "pRolocdata": [
         "MSnbase"
@@ -10973,8 +10779,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "DiagrammeR": [
         "readr",
@@ -11050,8 +10855,7 @@
         "rtracklayer"
     ],
     "devtools": [
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "vcfR": [],
     "drc": [
@@ -11061,8 +10865,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "FactoMineR": [
         "car",
@@ -11071,8 +10874,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "ggpmisc": [],
     "broom.mixed": [
@@ -11202,8 +11004,7 @@
         "lme4",
         "broom",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "Ecume": [
         "spatstat",
@@ -11270,21 +11071,18 @@
     "mbest": [
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "arm": [
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "DAPARdata": [
         "MSnbase"
     ],
     "cmdfun": [
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "metap": [],
     "DMwR2": [
@@ -11293,8 +11091,7 @@
     "rsq": [
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "textstem": [
         "lexicon",
@@ -11321,8 +11118,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "NBPSeq": [],
     "hgu133a2.db": [],
@@ -11381,8 +11177,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "FCPS": [],
     "survminer": [
@@ -11394,8 +11189,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "logistf": [
         "mice",
@@ -11460,8 +11254,7 @@
     "glmmTMB": [
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "bigstatsr": [],
     "depmap": [
@@ -11573,8 +11366,7 @@
         "tidyr",
         "nloptr",
         "ipred",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "groupdata2": [
         "tidyr"
@@ -11585,14 +11377,12 @@
     ],
     "anyLib": [
         "devtools",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "blme": [
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "deconstructSigs": [
         "BSgenome",
@@ -11615,8 +11405,7 @@
         "nloptr",
         "broom",
         "tidyr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "NxtIRFdata": [
         "ExperimentHub",
@@ -11645,8 +11434,7 @@
         "unmarked",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "summarytools": [
         "tidyr"
@@ -11654,8 +11442,7 @@
     "unmarked": [
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "biomartr": [
         "biomaRt",
@@ -11780,8 +11567,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "waldo"
+        "testthat"
     ],
     "tidytidbits": [
         "tidyr"
