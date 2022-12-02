@@ -65374,7 +65374,6 @@
         "reshape2",
         "dplyr",
         "plotly",
-        "mmand",
         "tibble",
         "vroom",
         "ComplexHeatmap",
@@ -84996,7 +84995,6 @@
     "PRIMME": [
         "Matrix"
     ],
-    "mmand": [],
     "alphahull": [
         "ggplot2",
         "interp",
