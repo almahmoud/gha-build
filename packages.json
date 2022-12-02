@@ -17817,7 +17817,6 @@
         "testthat",
         "VennDiagram",
         "pamr",
-        "sSeq",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -29385,7 +29384,6 @@
         "DESeq2",
         "edgeR",
         "SummarizedExperiment",
-        "sSeq",
         "e1071",
         "pROC",
         "recipes",
@@ -47475,7 +47473,6 @@
         "ade4",
         "segmented"
     ],
-    "sSeq": [],
     "ssize": [],
     "sSNAPPY": [
         "dplyr",
