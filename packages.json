@@ -1024,9 +1024,7 @@
         "lme4",
         "nloptr"
     ],
-    "DEsubs": [
-        "EBSeq"
-    ],
+    "DEsubs": [],
     "DEWSeq": [],
     "DExMA": [],
     "DEXSeq": [],
@@ -1143,10 +1141,7 @@
     ],
     "easyRNASeq": [],
     "EBSEA": [],
-    "EBSeq": [],
-    "EBSeqHMM": [
-        "EBSeq"
-    ],
+    "EBSeqHMM": [],
     "EDASeq": [
         "GenomicFeatures"
     ],
@@ -2973,9 +2968,7 @@
         "lme4",
         "nloptr"
     ],
-    "Oscope": [
-        "EBSeq"
-    ],
+    "Oscope": [],
     "OUTRIDER": [
         "GenomicFeatures",
         "heatmaply"
@@ -3682,13 +3675,11 @@
     ],
     "scDblFinder": [],
     "scDD": [
-        "EBSeq",
         "arm",
         "lme4",
         "nloptr"
     ],
     "scDDboost": [
-        "EBSeq",
         "Oscope"
     ],
     "scGPS": [],
