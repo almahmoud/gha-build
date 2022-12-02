@@ -7282,7 +7282,6 @@
         "regioneR",
         "BiocFileCache"
     ],
-    "RefPlus": [],
     "RegEnrich": [
         "BiocSet",
         "fgsea",
