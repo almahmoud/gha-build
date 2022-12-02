@@ -10196,7 +10196,6 @@
         "geepack",
         "ggformula",
         "broom",
-        "ggstance",
         "mosaicCore",
         "labelled",
         "tidyr",
@@ -12488,7 +12487,6 @@
         "geepack",
         "ggformula",
         "broom",
-        "ggstance",
         "mosaicCore",
         "labelled",
         "tidyr",
@@ -12496,14 +12494,12 @@
         "readr"
     ],
     "ggformula": [
-        "ggstance",
         "mosaicCore",
         "labelled",
         "haven",
         "tidyr",
         "readr"
     ],
-    "ggstance": [],
     "mosaicCore": [
         "tidyr"
     ],
