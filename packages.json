@@ -2562,7 +2562,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "singscore": [],
     "SISPA": [],
     "sitadela": [],
     "sitePath": [
@@ -2730,9 +2729,7 @@
         "pbkrtest",
         "lme4"
     ],
-    "TBSignatureProfiler": [
-        "singscore"
-    ],
+    "TBSignatureProfiler": [],
     "TCGAbiolinksGUI": [
         "ELMER",
         "clusterProfiler",
