@@ -1167,7 +1167,6 @@
         "testthat"
     ],
     "compartmap": [],
-    "COMPASS": [],
     "compEpiTools": [
         "topGO",
         "GenomicFeatures",
