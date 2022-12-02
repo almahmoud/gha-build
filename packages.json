@@ -744,7 +744,6 @@
     "BindingSiteFinder": [
         "tidyr",
         "rtracklayer",
-        "ggforce",
         "Gviz",
         "biomaRt",
         "GenomicFeatures",
@@ -792,7 +791,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "ggforce",
         "tidygraph",
         "ggfun",
         "ggplotify",
@@ -1060,7 +1058,6 @@
     "BOBaFIT": [
         "ggbio",
         "tidyr",
-        "ggforce",
         "plyranges",
         "Hmisc",
         "biovizBase",
@@ -1307,7 +1304,6 @@
         "ggridges",
         "scater",
         "car",
-        "ggforce",
         "ggpubr",
         "tidyr",
         "scuttle",
@@ -1485,7 +1481,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -1499,7 +1494,6 @@
         "broom",
         "FlowSOM",
         "nloptr",
-        "ggforce",
         "ggpubr",
         "testthat",
         "ggsci",
@@ -1517,8 +1511,7 @@
     "ceRNAnetsim": [
         "tidygraph",
         "ggraph",
-        "tidyr",
-        "ggforce"
+        "tidyr"
     ],
     "CeTF": [
         "clusterProfiler",
@@ -1554,7 +1547,6 @@
         "patchwork",
         "pbkrtest",
         "lme4",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -1747,7 +1739,6 @@
         "HDO.db",
         "fgsea",
         "qvalue",
-        "ggforce",
         "tidygraph",
         "tidyr",
         "tidytree",
@@ -1842,8 +1833,7 @@
     "CIMICE": [
         "tidyr",
         "ggraph",
-        "tidygraph",
-        "ggforce"
+        "tidygraph"
     ],
     "CINdex": [],
     "circRNAprofiler": [
@@ -1879,7 +1869,6 @@
         "scran",
         "ggridges",
         "ggraph",
-        "ggforce",
         "tidygraph",
         "scuttle",
         "tidyr"
@@ -1951,7 +1940,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -2210,7 +2198,6 @@
         "patchwork",
         "pbkrtest",
         "lme4",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -2595,7 +2582,6 @@
         "dendextend",
         "FactoMineR",
         "ggpubr",
-        "ggforce",
         "nloptr",
         "car",
         "ggsci",
@@ -2738,7 +2724,6 @@
         "graphite",
         "org.Hs.eg.db",
         "shadowtext",
-        "ggforce",
         "Linnorm",
         "tidyr",
         "broom",
@@ -2802,7 +2787,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -3040,7 +3024,6 @@
         "FlowSOM",
         "lme4",
         "tidyr",
-        "ggforce",
         "ggpubr",
         "nloptr",
         "ggsci",
@@ -3328,7 +3311,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -3396,7 +3378,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -3507,7 +3488,6 @@
         "HDO.db",
         "fgsea",
         "qvalue",
-        "ggforce",
         "tidygraph",
         "tidyr",
         "tidytree",
@@ -3551,7 +3531,6 @@
         "patchwork",
         "pbkrtest",
         "lme4",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -3607,7 +3586,6 @@
         "fgsea",
         "qvalue",
         "annotate",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -3670,7 +3648,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "ggforce",
         "tidygraph",
         "tidyr",
         "ggfun",
@@ -3842,7 +3819,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -3956,7 +3932,6 @@
         "ComplexUpset",
         "csaw",
         "GenomicInteractions",
-        "ggforce",
         "Gviz",
         "InteractionSet",
         "rtracklayer",
@@ -4012,7 +3987,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -4065,7 +4039,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -4206,7 +4179,6 @@
         "waldo"
     ],
     "FlowSOM": [
-        "ggforce",
         "ggpubr",
         "tidyr",
         "ggsci",
@@ -4245,7 +4217,6 @@
         "textclean",
         "tidygraph",
         "tidyr",
-        "ggforce",
         "ipred",
         "lexicon",
         "syuzhet"
@@ -4432,7 +4403,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -4540,7 +4510,6 @@
         "ComplexUpset",
         "dendextend",
         "DESeq2",
-        "ggforce",
         "GO.db",
         "plotly",
         "tidyr",
@@ -4786,7 +4755,6 @@
         "tidyr",
         "aplot",
         "ggalt",
-        "ggforce",
         "statebins",
         "ggtree",
         "ggfun",
@@ -4973,7 +4941,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -5342,7 +5309,6 @@
     ],
     "HumanTranscriptomeCompendium": [],
     "hypeR": [
-        "ggforce",
         "msigdbr",
         "kableExtra"
     ],
@@ -5480,7 +5446,6 @@
         "ggraph",
         "tidygraph",
         "concaveman",
-        "ggforce",
         "DropletUtils",
         "BiocFileCache",
         "tidyr"
@@ -5666,7 +5631,6 @@
         "ggsci",
         "ggsignif",
         "rstatix",
-        "ggforce",
         "tidygraph",
         "scuttle",
         "ggrastr",
@@ -5953,7 +5917,6 @@
         "BiocFileCache",
         "lmerTest",
         "lme4",
-        "ggforce",
         "scuttle",
         "nloptr",
         "testthat",
@@ -6144,7 +6107,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -6407,7 +6369,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "ggforce",
         "tidygraph",
         "tidyr",
         "tidytree",
@@ -6473,7 +6434,6 @@
     "MetaCyto": [
         "tidyr",
         "FlowSOM",
-        "ggforce",
         "ggpubr",
         "ggsci",
         "ggsignif",
@@ -6530,7 +6490,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -6739,7 +6698,6 @@
         "rtracklayer",
         "biomaRt",
         "readr",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -6848,7 +6806,6 @@
         "tidytree",
         "tidygraph",
         "tidyr",
-        "ggforce",
         "aplot",
         "ggfun",
         "treeio",
@@ -6934,7 +6891,6 @@
         "patchwork",
         "HDO.db",
         "fgsea",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -6974,7 +6930,6 @@
         "ggraph",
         "patchwork",
         "tidyr",
-        "ggforce",
         "tidygraph"
     ],
     "mimager": [
@@ -7114,7 +7069,6 @@
         "ggsci",
         "ggsignif",
         "rstatix",
-        "ggforce",
         "tidygraph",
         "broom",
         "dtplyr",
@@ -7169,7 +7123,6 @@
         "ggsci",
         "ggsignif",
         "rstatix",
-        "ggforce",
         "tidygraph",
         "broom",
         "dtplyr",
@@ -7348,7 +7301,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -7423,7 +7375,6 @@
         "readr",
         "ggpubr",
         "tidyr",
-        "ggforce",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -7697,7 +7648,6 @@
         "HDO.db",
         "fgsea",
         "annotate",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -7959,7 +7909,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -8066,7 +8015,6 @@
         "vsn",
         "car",
         "RcmdrMisc",
-        "ggforce",
         "pbkrtest",
         "lme4",
         "Hmisc",
@@ -8504,7 +8452,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -8526,7 +8473,6 @@
         "fgsea",
         "GOSemSim",
         "qvalue",
-        "ggforce",
         "testthat",
         "GO.db",
         "waldo"
@@ -8653,7 +8599,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -8791,7 +8736,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "ggforce",
         "tidygraph",
         "ggfun",
         "ggplotify",
@@ -9059,7 +9003,6 @@
         "HDO.db",
         "fgsea",
         "qvalue",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -9531,7 +9474,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "ggforce",
         "tidygraph",
         "tidyr",
         "ggfun",
@@ -10123,7 +10065,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -10479,7 +10420,6 @@
         "Cepo",
         "GSEABase",
         "patchwork",
-        "ggforce",
         "tidygraph",
         "annotate",
         "tidyr"
@@ -10537,7 +10477,6 @@
     ],
     "schex": [
         "Seurat",
-        "ggforce",
         "concaveman",
         "ggridges",
         "patchwork",
@@ -10546,9 +10485,7 @@
         "sctransform",
         "tidyr"
     ],
-    "scHOT": [
-        "ggforce"
-    ],
+    "scHOT": [],
     "scifer": [
         "kableExtra"
     ],
@@ -10654,8 +10591,7 @@
         "ggalluvial",
         "ggraph",
         "tidygraph",
-        "tidyr",
-        "ggforce"
+        "tidyr"
     ],
     "scruff": [
         "GenomicAlignments",
@@ -10707,7 +10643,6 @@
         "graphite",
         "gson",
         "Seurat",
-        "ggforce",
         "concaveman",
         "aplot",
         "scatterpie",
@@ -10733,7 +10668,6 @@
         "fields",
         "tidyr",
         "Seurat",
-        "ggforce",
         "concaveman",
         "ggridges",
         "patchwork",
@@ -10753,7 +10687,6 @@
         "OrganismDbi",
         "GenomicFeatures",
         "ensembldb",
-        "ggforce",
         "scuttle",
         "ggrastr",
         "ggridges",
@@ -10793,7 +10726,6 @@
         "HDO.db",
         "fgsea",
         "qvalue",
-        "ggforce",
         "tidygraph",
         "tidyr",
         "tidytree",
@@ -10977,7 +10909,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -11326,7 +11257,6 @@
         "scuttle"
     ],
     "SpatialCPie": [
-        "ggforce",
         "ggiraph",
         "readr",
         "tidyr"
@@ -11427,7 +11357,6 @@
         "lme4",
         "tidyr",
         "SpatialExperiment",
-        "ggforce",
         "nloptr",
         "DropletUtils",
         "BiocFileCache",
@@ -11573,7 +11502,6 @@
         "graphite",
         "ggraph",
         "org.Hs.eg.db",
-        "ggforce",
         "tidygraph",
         "tidyr"
     ],
@@ -11585,7 +11513,6 @@
         "ggstance",
         "ggridges",
         "mosaicCore",
-        "ggforce",
         "labelled",
         "tidyr",
         "haven",
@@ -11654,7 +11581,6 @@
     ],
     "STdeconvolve": [
         "scatterpie",
-        "ggforce",
         "ggfun",
         "tidyr"
     ],
@@ -11789,7 +11715,6 @@
         "drc",
         "tidyverse",
         "tidyr",
-        "ggforce",
         "gstat",
         "SpatialExtremes",
         "plotly",
@@ -11984,7 +11909,6 @@
         "patchwork",
         "Hmisc",
         "VariantAnnotation",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -12137,7 +12061,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "ggforce",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -12320,7 +12243,6 @@
         "treeio",
         "nloptr",
         "ggplotify",
-        "ggforce",
         "ggpubr",
         "testthat",
         "ggsci",
@@ -12629,7 +12551,6 @@
     "vissE": [
         "ggwordcloud",
         "GSEABase",
-        "ggforce",
         "msigdb",
         "textstem",
         "tidygraph",
@@ -13162,7 +13083,6 @@
         "BiocFileCache",
         "GenomicAlignments"
     ],
-    "ggforce": [],
     "radiant.data": [
         "tidyr",
         "broom",
@@ -13187,7 +13107,6 @@
     ],
     "HDO.db": [],
     "ggraph": [
-        "ggforce",
         "tidygraph",
         "tidyr"
     ],
@@ -13197,7 +13116,6 @@
         "patchwork"
     ],
     "scatterpie": [
-        "ggforce",
         "ggfun",
         "tidyr"
     ],
@@ -14094,7 +14012,6 @@
     "clustree": [
         "ggraph",
         "tidygraph",
-        "ggforce",
         "tidyr"
     ],
     "rbokeh": [],
@@ -14174,7 +14091,6 @@
         "ggstance",
         "ggridges",
         "mosaicCore",
-        "ggforce",
         "labelled",
         "tidyr",
         "haven",
@@ -14184,7 +14100,6 @@
         "ggstance",
         "ggridges",
         "mosaicCore",
-        "ggforce",
         "labelled",
         "haven",
         "tidyr",
