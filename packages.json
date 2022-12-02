@@ -7372,7 +7372,6 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "geneRxCluster": [],
     "GENESIS": [
         "GWASTools",
         "SeqArray",
