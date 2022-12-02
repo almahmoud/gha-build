@@ -1699,7 +1699,6 @@
         "bit64",
         "gmp",
         "Rmpfr",
-        "scs",
         "osqp",
         "RcppEigen",
         "mvtnorm",
@@ -5983,7 +5982,6 @@
         "bit64",
         "gmp",
         "Rmpfr",
-        "scs",
         "osqp",
         "mvtnorm",
         "expm",
@@ -53361,7 +53359,6 @@
         "bit64",
         "gmp",
         "Rmpfr",
-        "scs",
         "osqp",
         "RcppEigen",
         "expm",
@@ -101701,7 +101698,6 @@
         "bit64",
         "gmp",
         "Rmpfr",
-        "scs",
         "osqp",
         "RcppEigen"
     ],
@@ -101775,7 +101771,6 @@
     "Rmpfr": [
         "gmp"
     ],
-    "scs": [],
     "osqp": [
         "Rcpp",
         "Matrix"
