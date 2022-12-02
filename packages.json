@@ -504,9 +504,7 @@
         "treeio",
         "nloptr"
     ],
-    "CexoR": [
-        "genomation"
-    ],
+    "CexoR": [],
     "cghMCR": [],
     "ChAMP": [
         "minfi",
@@ -1173,7 +1171,6 @@
     "EpiCompare": [
         "BRGenomics",
         "ChIPseeker",
-        "genomation",
         "enrichplot",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -1342,8 +1339,7 @@
         "geepack"
     ],
     "fCCAC": [
-        "fda",
-        "genomation"
+        "fda"
     ],
     "fcoex": [
         "clusterProfiler",
@@ -1534,7 +1530,6 @@
         "VariantAnnotation"
     ],
     "GeneTonic": [],
-    "genomation": [],
     "GenomicDistributions": [],
     "GenomicFeatures": [],
     "GenomicFiles": [
@@ -3224,7 +3219,6 @@
     "RCAS": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicFeatures",
-        "genomation",
         "gprofiler2"
     ],
     "rCGH": [
