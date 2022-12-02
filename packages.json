@@ -1392,7 +1392,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "levi": [],
     "lineagespot": [
         "VariantAnnotation"
     ],
