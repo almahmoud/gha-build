@@ -46116,7 +46116,6 @@
         "XVector"
     ],
     "SMAD": [
-        "RcppAlgos",
         "dplyr",
         "tidyr",
         "tibble",
@@ -60668,7 +60667,6 @@
         "vctrs",
         "openssl"
     ],
-    "RcppAlgos": [],
     "sampSurf": [],
     "spdep": [
         "spData",
