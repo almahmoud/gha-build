@@ -542,9 +542,7 @@
     "BioTIP": [
         "scran"
     ],
-    "biotmle": [
-        "superheat"
-    ],
+    "biotmle": [],
     "biovizBase": [
         "GenomicFeatures",
         "VariantAnnotation",
@@ -7482,7 +7480,6 @@
         "AnnotationHub"
     ],
     "ggnetwork": [],
-    "superheat": [],
     "biscuiteerData": [
         "ExperimentHub",
         "AnnotationHub"
