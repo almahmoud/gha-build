@@ -1096,7 +1096,6 @@
     "cyanoFilter": [
         "flowDensity",
         "car",
-        "RFOC",
         "pbkrtest",
         "lme4",
         "nloptr"
@@ -1186,7 +1185,6 @@
     "ddPCRclust": [
         "flowDensity",
         "car",
-        "RFOC",
         "pbkrtest",
         "lme4",
         "nloptr"
@@ -1796,14 +1794,12 @@
     "flowCut": [
         "flowDensity",
         "car",
-        "RFOC",
         "pbkrtest",
         "lme4",
         "nloptr"
     ],
     "flowDensity": [
         "car",
-        "RFOC",
         "pbkrtest",
         "lme4",
         "nloptr"
@@ -5729,7 +5725,6 @@
         "ExperimentHub"
     ],
     "highcharter": [],
-    "RFOC": [],
     "mbest": [
         "lme4",
         "nloptr"
