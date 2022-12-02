@@ -889,7 +889,6 @@
     "AlpsNMR": [
         "future",
         "dplyr",
-        "signal",
         "scales",
         "tibble",
         "tidyr",
@@ -7103,7 +7102,6 @@
         "EBImage",
         "irlba",
         "matter",
-        "signal",
         "futile.logger",
         "htmlwidgets"
     ],
@@ -15825,7 +15823,6 @@
         "dplyr",
         "tidyr",
         "mzR",
-        "signal",
         "bit64",
         "reticulate",
         "ggplot2",
@@ -21931,7 +21928,6 @@
         "sessioninfo",
         "testthat",
         "R.utils",
-        "signal",
         "bit64",
         "blob",
         "vctrs",
@@ -28029,7 +28025,6 @@
         "wordcloud2",
         "readxl",
         "htmlwidgets",
-        "signal",
         "scales",
         "ComplexHeatmap",
         "biomaRt",
@@ -38547,7 +38542,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "baseline",
-        "signal",
         "GenomicAlignments",
         "GenomeInfoDb",
         "rtracklayer",
@@ -45561,7 +45555,6 @@
         "rhdf5",
         "shiny",
         "shinyscreenshot",
-        "signal",
         "scales",
         "htmlwidgets",
         "crosstalk",
@@ -65181,7 +65174,6 @@
     "segmented": [],
     "expm": [],
     "igraph": [],
-    "signal": [],
     "readxl": [
         "cellranger",
         "tibble",
@@ -70430,8 +70422,7 @@
         "pillar"
     ],
     "dplR": [
-        "R.utils",
-        "signal"
+        "R.utils"
     ],
     "survminer": [
         "ggplot2",
