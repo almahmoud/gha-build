@@ -4705,8 +4705,7 @@
         "VariantAnnotation"
     ],
     "SPIAT": [
-        "SpatialExperiment",
-        "xROI"
+        "SpatialExperiment"
     ],
     "spicyR": [
         "lmerTest",
@@ -5777,7 +5776,6 @@
         "ExperimentHub"
     ],
     "sampSurf": [],
-    "xROI": [],
     "miRNAtap.db": [],
     "MESS": [
         "geepack",
