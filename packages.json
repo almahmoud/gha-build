@@ -1368,7 +1368,6 @@
     ],
     "scBubbletree": [],
     "scDD": [],
-    "schex": [],
     "scMAGeCK": [],
     "scmeth": [],
     "scone": [],
@@ -1382,12 +1381,9 @@
     ],
     "scTensor": [
         "ReactomePA",
-        "schex",
         "enrichplot"
     ],
-    "scTGIF": [
-        "schex"
-    ],
+    "scTGIF": [],
     "scTreeViz": [
         "epivizr"
     ],
