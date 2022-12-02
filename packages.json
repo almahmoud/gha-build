@@ -1237,15 +1237,13 @@
         "AnnotationHub"
     ],
     "CRISPRseek": [
-        "BSgenome",
-        "keras"
+        "BSgenome"
     ],
     "crisprseekplus": [
         "CRISPRseek",
         "GUIDEseq",
         "GenomicFeatures",
         "BSgenome",
-        "keras",
         "biomaRt",
         "ChIPpeakAnno",
         "rio",
@@ -1462,7 +1460,6 @@
     "decoupleR": [],
     "DeepBlueR": [],
     "DeepPINCS": [
-        "keras",
         "ttgsea",
         "textstem",
         "DiagrammeR",
@@ -2395,7 +2392,6 @@
         "biomaRt"
     ],
     "GenProSeq": [
-        "keras",
         "DeepPINCS",
         "ttgsea",
         "textstem",
@@ -2602,7 +2598,6 @@
         "ensembldb",
         "biomaRt",
         "regioneR",
-        "keras",
         "haven"
     ],
     "Guitar": [
@@ -3879,7 +3874,6 @@
         "GenomicFeatures",
         "karyoploteR",
         "plyranges",
-        "keras",
         "biomaRt",
         "regioneR",
         "biovizBase",
@@ -4076,9 +4070,7 @@
         "GEOquery",
         "GenomicFeatures"
     ],
-    "NeuCA": [
-        "keras"
-    ],
+    "NeuCA": [],
     "ngsReports": [
         "plotly"
     ],
@@ -4328,7 +4320,6 @@
         "tfprobability",
         "tidygraph",
         "ggraph",
-        "keras",
         "nloptr",
         "DOSE",
         "GOSemSim"
@@ -6247,7 +6238,6 @@
     "TSCAN": [],
     "tscR": [],
     "ttgsea": [
-        "keras",
         "textstem",
         "DiagrammeR",
         "lexicon",
@@ -6309,7 +6299,6 @@
     ],
     "uSORT": [],
     "VAExprs": [
-        "keras",
         "scater",
         "DeepPINCS",
         "DiagrammeR",
@@ -6798,7 +6787,6 @@
         "ExperimentHub",
         "AnnotationHub"
     ],
-    "keras": [],
     "highcharter": [],
     "RFOC": [],
     "mbest": [
@@ -7028,9 +7016,7 @@
     "biomartr": [
         "biomaRt"
     ],
-    "tfprobability": [
-        "keras"
-    ],
+    "tfprobability": [],
     "verification": [],
     "tidybayes": [
         "posterior"
