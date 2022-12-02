@@ -880,7 +880,6 @@
         "GenomicFeatures",
         "Rsamtools",
         "rtracklayer",
-        "biocViews",
         "BiocCheck",
         "AnnotationDbi",
         "Biostrings",
@@ -2767,7 +2766,6 @@
         "rematch2"
     ],
     "BiocCheck": [
-        "biocViews",
         "httr"
     ],
     "BiocDockerManager": [
@@ -2891,7 +2889,6 @@
     "BiocParallel": [],
     "BiocPkgTools": [
         "BiocFileCache",
-        "biocViews",
         "tibble",
         "rvest",
         "dplyr",
@@ -2953,7 +2950,6 @@
         "credentials",
         "httr"
     ],
-    "biocViews": [],
     "BiocWorkflowTools": [
         "BiocStyle",
         "bookdown",
@@ -6090,7 +6086,6 @@
         "qlcMatrix",
         "pheatmap",
         "viridis",
-        "biocViews",
         "RSQLite",
         "KEGGREST",
         "progress",
@@ -12440,7 +12435,6 @@
         "GenomicFeatures",
         "Rsamtools",
         "rtracklayer",
-        "biocViews",
         "BiocCheck",
         "AnnotationDbi",
         "Biostrings",
@@ -21020,7 +21014,6 @@
         "KEGGREST",
         "Rsamtools",
         "rtracklayer",
-        "biocViews",
         "BiocCheck",
         "OrganismDbi",
         "AnnotationForge",
@@ -22850,7 +22843,6 @@
         "qlcMatrix",
         "pheatmap",
         "viridis",
-        "biocViews",
         "tidyselect",
         "pillar"
     ],
@@ -30861,7 +30853,6 @@
         "interp"
     ],
     "Risa": [
-        "biocViews",
         "xcms",
         "BiocParallel",
         "MSnbase",
@@ -34350,7 +34341,6 @@
         "blob"
     ],
     "sigFeature": [
-        "biocViews",
         "pheatmap",
         "SummarizedExperiment",
         "BiocParallel",
@@ -39408,7 +39398,6 @@
         "qlcMatrix",
         "pheatmap",
         "viridis",
-        "biocViews",
         "tidyselect",
         "pillar"
     ],
@@ -44557,7 +44546,6 @@
         "GenomicFeatures",
         "Rsamtools",
         "rtracklayer",
-        "biocViews",
         "BiocCheck",
         "Biostrings",
         "GenomeInfoDb",
