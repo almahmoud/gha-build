@@ -2594,7 +2594,6 @@
         "treeio"
     ],
     "pareg": [
-        "tfprobability",
         "ggraph",
         "DOSE"
     ],
@@ -4120,7 +4119,6 @@
     "unmarked": [
         "lme4"
     ],
-    "tfprobability": [],
     "tidybayes": [],
     "phastCons100way.UCSC.hg38": [],
     "EnsDb.Mmusculus.v79": [
