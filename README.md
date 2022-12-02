@@ -1,10 +1,10 @@
 # Summary
 
-3560 built packages
+3562 built packages
 
 22 failed packages
 
-226 unclaimed packages
+224 unclaimed packages
 
 
 
@@ -34,7 +34,7 @@
 | [GenKern](https://github.com/almahmoud/gha-build/actions/runs/3598001925/jobs/6060350141)         | Failed   | https://github.com/almahmoud/gha-build/blob/main/lists/failed/GenKern         |
 | [vbsr](https://github.com/almahmoud/gha-build/actions/runs/3598114344/jobs/6060686399)            | Failed   | https://github.com/almahmoud/gha-build/blob/main/lists/failed/vbsr            |
 
-## Succeeded (3560)
+## Succeeded (3562)
 | Package                                                                                                                         | Status    | Tarball                                                                                                                                                                                                                                |
 |---------------------------------------------------------------------------------------------------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [a4](https://github.com/almahmoud/gha-build/actions/runs/3599026062/jobs/6062385390)                                            | Succeeded | [a4_1.46.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/a4_1.46.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                     |
@@ -1112,6 +1112,7 @@
 | [mgsa](https://github.com/almahmoud/gha-build/actions/runs/3598413181/jobs/6061223193)                                          | Succeeded | [mgsa_1.46.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/mgsa_1.46.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                 |
 | [mia](https://github.com/almahmoud/gha-build/actions/runs/3599283544/jobs/6062848992)                                           | Succeeded | [mia_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/mia_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                     |
 | [miaSim](https://github.com/almahmoud/gha-build/actions/runs/3599283544/jobs/6062852634)                                        | Succeeded | [miaSim_1.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/miaSim_1.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
+| [miaViz](https://github.com/almahmoud/gha-build/actions/runs/3599349795/jobs/6062965441)                                        | Succeeded | [miaViz_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/miaViz_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
 | [MiChip](https://github.com/almahmoud/gha-build/actions/runs/3598383392/jobs/6061153181)                                        | Succeeded | [MiChip_1.52.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/MiChip_1.52.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                             |
 | [microbiome](https://github.com/almahmoud/gha-build/actions/runs/3598839690/jobs/6062018587)                                    | Succeeded | [microbiome_1.20.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/microbiome_1.20.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                     |
 | [microbiomeDASim](https://github.com/almahmoud/gha-build/actions/runs/3598839690/jobs/6062019133)                               | Succeeded | [microbiomeDASim_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/microbiomeDASim_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                                           |
@@ -1193,6 +1194,7 @@
 | [MSstats](https://github.com/almahmoud/gha-build/actions/runs/3599223673/jobs/6062749995)                                       | Succeeded | [MSstats_4.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/MSstats_4.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                             |
 | [MSstatsConvert](https://github.com/almahmoud/gha-build/actions/runs/3598345060/jobs/6061084601)                                | Succeeded | [MSstatsConvert_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/MSstatsConvert_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                                               |
 | [MSstatsLOBD](https://github.com/almahmoud/gha-build/actions/runs/3598702431/jobs/6061737982)                                   | Succeeded | [MSstatsLOBD_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/MSstatsLOBD_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                     |
+| [MSstatsPTM](https://github.com/almahmoud/gha-build/actions/runs/3599349795/jobs/6062964798)                                    | Succeeded | [MSstatsPTM_2.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/MSstatsPTM_2.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | [MSstatsQC](https://github.com/almahmoud/gha-build/actions/runs/3599026062/jobs/6062389026)                                     | Succeeded | [MSstatsQC_2.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/MSstatsQC_2.16.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | [MSstatsQCgui](https://github.com/almahmoud/gha-build/actions/runs/3599180591/jobs/6062656755)                                  | Succeeded | [MSstatsQCgui_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/MSstatsQCgui_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                 |
 | [MSstatsSampleSize](https://github.com/almahmoud/gha-build/actions/runs/3599283544/jobs/6062850885)                             | Succeeded | [MSstatsSampleSize_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/MSstatsSampleSize_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                                       |
@@ -3598,7 +3600,7 @@
 | [Rmisc](https://github.com/almahmoud/gha-build/actions/runs/3598381410/jobs/6061091879)                                         | Succeeded | [Rmisc_1.5.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/Rmisc_1.5.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                                 |
 | [alluvial](https://github.com/almahmoud/gha-build/actions/runs/3598112030/jobs/6060570310)                                      | Succeeded | [alluvial_0.1-2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/alluvial_0.1-2_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 
-## Unclaimed (226)
+## Unclaimed (224)
 | Package                                                                                              | Status    | Tarball   |
 |------------------------------------------------------------------------------------------------------|-----------|-----------|
 | ADAMgui                                                                                              | Unclaimed |           |
@@ -3699,7 +3701,6 @@
 | methylCC                                                                                             | Unclaimed |           |
 | methylclock                                                                                          | Unclaimed |           |
 | methylGSA                                                                                            | Unclaimed |           |
-| [miaViz](https://github.com/almahmoud/gha-build/actions/runs/3599349795/jobs/6062965441)             | Unclaimed |           |
 | microbiomeExplorer                                                                                   | Unclaimed |           |
 | microbiomeMarker                                                                                     | Unclaimed |           |
 | MineICA                                                                                              | Unclaimed |           |
@@ -3713,7 +3714,6 @@
 | [msgbsR](https://github.com/almahmoud/gha-build/actions/runs/3599349795/jobs/6062965212)             | Unclaimed |           |
 | MSPrep                                                                                               | Unclaimed |           |
 | MSstatsLiP                                                                                           | Unclaimed |           |
-| [MSstatsPTM](https://github.com/almahmoud/gha-build/actions/runs/3599349795/jobs/6062964798)         | Unclaimed |           |
 | MSstatsShiny                                                                                         | Unclaimed |           |
 | multicrispr                                                                                          | Unclaimed |           |
 | multiSight                                                                                           | Unclaimed |           |
@@ -3788,9 +3788,9 @@
 | skewr                                                                                                | Unclaimed |           |
 | sojourner                                                                                            | Unclaimed |           |
 | SomaticSignatures                                                                                    | Unclaimed |           |
-| SpatialDecon                                                                                         | Unclaimed |           |
+| [SpatialDecon](https://github.com/almahmoud/gha-build/actions/runs/3599349795/jobs/6062963869)       | Unclaimed |           |
 | spatzie                                                                                              | Unclaimed |           |
-| SPLINTER                                                                                             | Unclaimed |           |
+| [SPLINTER](https://github.com/almahmoud/gha-build/actions/runs/3599349795/jobs/6062964350)           | Unclaimed |           |
 | SPONGE                                                                                               | Unclaimed |           |
 | srnadiff                                                                                             | Unclaimed |           |
 | STAN                                                                                                 | Unclaimed |           |
