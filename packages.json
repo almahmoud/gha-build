@@ -13851,7 +13851,6 @@
     "RCy3": [
         "IRkernel"
     ],
-    "RDRToolbox": [],
     "ReactomeGraph4R": [
         "neo4r",
         "tidyr",
