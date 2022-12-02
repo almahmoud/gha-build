@@ -12017,7 +12017,6 @@
         "GO.db"
     ],
     "SQLDataFrame": [],
-    "sRACIPE": [],
     "SRAdb": [
         "GEOquery",
         "readr",
