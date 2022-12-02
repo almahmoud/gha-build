@@ -13762,7 +13762,6 @@
     "GCSscore": [
         "RSQLite",
         "devtools",
-        "dplR",
         "usethis",
         "miniUI",
         "pkgbuild",
@@ -43716,7 +43715,6 @@
         "tibble",
         "pillar"
     ],
-    "dplR": [],
     "survminer": [
         "ggplot2",
         "ggpubr",
