@@ -1998,8 +1998,7 @@
         "scuttle"
     ],
     "CytoML": [
-        "openCyto",
-        "ggcyto"
+        "openCyto"
     ],
     "dada2": [
         "ShortRead"
@@ -3588,7 +3587,6 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "ggcyto": [],
     "ggmanh": [],
     "ggmsa": [
         "aplot",
