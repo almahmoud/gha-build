@@ -10811,7 +10811,6 @@
         "GDSArray",
         "GenomeInfoDb",
         "IRanges",
-        "SNPRelate",
         "SummarizedExperiment",
         "edgeR",
         "qqman",
@@ -22173,7 +22172,6 @@
     ],
     "GDSArray": [
         "DelayedArray",
-        "SNPRelate",
         "SeqArray",
         "IRanges",
         "GenomicRanges",
@@ -22568,7 +22566,6 @@
         "IRanges",
         "SeqArray",
         "SeqVarTools",
-        "SNPRelate",
         "igraph",
         "reshape2",
         "futile.logger",
@@ -25751,7 +25748,6 @@
         "survival",
         "VariantAnnotation",
         "SummarizedExperiment",
-        "SNPRelate",
         "RSQLite",
         "sandwich",
         "lmtest",
@@ -54370,7 +54366,6 @@
     ],
     "SeqSQC": [
         "ExperimentHub",
-        "SNPRelate",
         "e1071",
         "GenomicRanges",
         "ggplot2",
@@ -56338,7 +56333,6 @@
         "tidyselect",
         "ellipsis"
     ],
-    "SNPRelate": [],
     "snpStats": [
         "survival"
     ],
@@ -63140,7 +63134,6 @@
         "GenomicRanges",
         "GDSArray",
         "DelayedDataFrame",
-        "SNPRelate",
         "SeqArray",
         "SeqVarTools",
         "DelayedArray",
