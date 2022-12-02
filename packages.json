@@ -11112,7 +11112,6 @@
         "GO.db",
         "ExperimentHub"
     ],
-    "TEQC": [],
     "terraTCGAdata": [
         "AnVIL",
         "MultiAssayExperiment",
