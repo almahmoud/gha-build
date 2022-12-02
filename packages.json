@@ -43183,7 +43183,6 @@
         "Matrix"
     ],
     "flowGraph": [
-        "effsize",
         "furrr",
         "future",
         "purrr",
@@ -147282,7 +147281,6 @@
     "lars": [],
     "gcspikelite": [],
     "SPARQL": [],
-    "effsize": [],
     "ggiraph": [
         "ggplot2",
         "htmlwidgets",
