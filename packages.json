@@ -1431,7 +1431,6 @@
         "ggraph",
         "tidygraph"
     ],
-    "CINdex": [],
     "circRNAprofiler": [
         "readr",
         "rtracklayer",
