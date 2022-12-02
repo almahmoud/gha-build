@@ -9511,7 +9511,6 @@
         "ggplot2",
         "ggrepel",
         "igraph",
-        "maptree",
         "mgcv",
         "reshape2",
         "Rtsne",
@@ -80410,7 +80409,6 @@
         "Matrix",
         "pillar"
     ],
-    "maptree": [],
     "topicmodels": [
         "tm"
     ],
