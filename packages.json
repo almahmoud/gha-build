@@ -11124,7 +11124,6 @@
         "SummarizedExperiment",
         "blob"
     ],
-    "frmaTools": [],
     "FunChIP": [
         "GenomicRanges",
         "shiny",
