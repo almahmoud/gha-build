@@ -242,7 +242,6 @@
     "bandle": [
         "pRoloc",
         "pRolocdata",
-        "MLInterfaces",
         "caret",
         "biomaRt"
     ],
@@ -3130,7 +3129,6 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "MLInterfaces": [],
     "MLSeq": [
         "caret",
         "DESeq2"
@@ -3904,13 +3902,11 @@
     ],
     "projectR": [],
     "pRoloc": [
-        "MLInterfaces",
         "caret",
         "biomaRt"
     ],
     "pRolocGUI": [
         "pRoloc",
-        "MLInterfaces",
         "caret",
         "biomaRt"
     ],
@@ -4721,9 +4717,7 @@
         "lme4",
         "nloptr"
     ],
-    "SigCheck": [
-        "MLInterfaces"
-    ],
+    "SigCheck": [],
     "signatureSearch": [
         "ExperimentHub",
         "clusterProfiler",
