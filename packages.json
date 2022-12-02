@@ -44711,7 +44711,6 @@
         "vctrs",
         "pillar"
     ],
-    "pickgene": [],
     "PICS": [
         "IRanges",
         "GenomicRanges",
