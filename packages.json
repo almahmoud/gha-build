@@ -1142,7 +1142,6 @@
     ],
     "BioNet": [],
     "BioNetStat": [
-        "shinyBS",
         "pathview",
         "Hmisc",
         "viridis",
@@ -1637,8 +1636,7 @@
         "GenomicAlignments"
     ],
     "cbpManager": [
-        "vroom",
-        "shinyBS"
+        "vroom"
     ],
     "ccfindR": [
         "SingleCellExperiment"
@@ -2959,7 +2957,6 @@
         "oligo",
         "sva",
         "shinyjs",
-        "shinyBS",
         "shinyWidgets",
         "shinypanel",
         "readxl",
@@ -3294,7 +3291,6 @@
     ],
     "debrowser": [
         "shinyjs",
-        "shinyBS",
         "annotate",
         "DESeq2",
         "DOSE",
@@ -3666,7 +3662,6 @@
     "DiscoRhythm": [
         "ggExtra",
         "broom",
-        "shinyBS",
         "shinyjs",
         "BiocStyle",
         "kableExtra",
@@ -4716,7 +4711,6 @@
         "reactome.db",
         "GO.db",
         "tidyr",
-        "shinyBS",
         "plotly",
         "clusterProfiler",
         "org.Hs.eg.db",
@@ -4757,7 +4751,6 @@
     ],
     "FastqCleaner": [
         "ShortRead",
-        "shinyBS",
         "GenomicAlignments"
     ],
     "FCBF": [],
@@ -5526,7 +5519,6 @@
     ],
     "GEOexplorer": [
         "plotly",
-        "shinyBS",
         "factoextra",
         "heatmaply",
         "shinyHeatmaply",
@@ -5879,8 +5871,7 @@
         "GO.db"
     ],
     "GPA": [
-        "ggrepel",
-        "shinyBS"
+        "ggrepel"
     ],
     "gpuMagic": [
         "DescTools",
@@ -6341,7 +6332,6 @@
         "GenomicAlignments"
     ],
     "iCOBRA": [
-        "shinyBS",
         "UpSetR"
     ],
     "ideal": [
@@ -6354,7 +6344,6 @@
         "goseq",
         "GOstats",
         "GO.db",
-        "shinyBS",
         "ggrepel",
         "shinyAce",
         "geneplotter",
@@ -6929,7 +6918,6 @@
         "shinyvalidate",
         "shinythemes",
         "shinyjs",
-        "shinyBS",
         "biomaRt",
         "BiocFileCache",
         "vroom",
@@ -8926,7 +8914,6 @@
         "waldo"
     ],
     "MSstatsShiny": [
-        "shinyBS",
         "shinyjs",
         "Hmisc",
         "MSstats",
@@ -9125,7 +9112,6 @@
         "sortable",
         "shinyjs",
         "shinyalert",
-        "shinyBS",
         "TCGAbiolinks",
         "rtracklayer",
         "ggseqlogo",
@@ -9621,7 +9607,6 @@
         "Gviz",
         "AnnotationHub",
         "rtracklayer",
-        "shinyBS",
         "tidyr",
         "BiocFileCache",
         "biomaRt",
@@ -9802,7 +9787,6 @@
     "openPrimeRui": [
         "openPrimeR",
         "shinyjs",
-        "shinyBS",
         "Hmisc",
         "viridis"
     ],
@@ -10077,7 +10061,6 @@
         "topGO",
         "GOstats",
         "GO.db",
-        "shinyBS",
         "ggrepel",
         "shinyAce",
         "biomaRt",
@@ -10302,7 +10285,6 @@
         "BiocStyle",
         "colourpicker",
         "ExperimentHub",
-        "shinyBS",
         "shinyjs",
         "OmaDB",
         "AnnotationHub",
@@ -10742,7 +10724,6 @@
     "Prostar": [
         "DAPAR",
         "DAPARdata",
-        "shinyBS",
         "shinyAce",
         "highcharter",
         "shinythemes",
@@ -10813,7 +10794,6 @@
         "waldo"
     ],
     "psichomics": [
-        "shinyBS",
         "AnnotationHub",
         "BiocFileCache",
         "colourpicker",
@@ -10922,7 +10902,6 @@
         "dbplyr"
     ],
     "pwrEWAS": [
-        "shinyBS",
         "shinyWidgets",
         "genefilter",
         "pwrEWAS.data",
@@ -14104,7 +14083,6 @@
         "shinyjs",
         "colourpicker",
         "sesame",
-        "shinyBS",
         "recipes",
         "DOSE",
         "enrichplot",
@@ -14614,7 +14592,6 @@
     ],
     "trio": [],
     "tripr": [
-        "shinyBS",
         "shinyjs",
         "plotly",
         "tidyr"
@@ -14714,7 +14691,6 @@
     ],
     "uncoverappLib": [
         "shinyjs",
-        "shinyBS",
         "shinyWidgets",
         "Gviz",
         "Homo.sapiens",
@@ -15635,7 +15611,6 @@
     ],
     "intergraph": [],
     "sna": [],
-    "shinyBS": [],
     "superheat": [
         "ggdendro"
     ],
@@ -15968,8 +15943,7 @@
     ],
     "tensorflow": [],
     "shinypanel": [
-        "shinyjs",
-        "shinyBS"
+        "shinyjs"
     ],
     "highcharter": [
         "broom",
