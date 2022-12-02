@@ -31375,7 +31375,6 @@
         "NLP",
         "slam",
         "BH",
-        "sylly",
         "sylly.en",
         "syuzhet",
         "askpass",
@@ -49321,7 +49320,6 @@
         "pillar",
         "mime",
         "openssl",
-        "sylly",
         "sylly.en",
         "syuzhet",
         "RcppArmadillo",
@@ -131808,7 +131806,6 @@
         "pillar",
         "base64enc",
         "yaml",
-        "sylly",
         "sylly.en",
         "syuzhet",
         "lattice",
@@ -133051,7 +133048,6 @@
         "bit64",
         "progress",
         "zlibbioc",
-        "sylly",
         "sylly.en",
         "syuzhet",
         "askpass",
@@ -134375,7 +134371,6 @@
         "yaml",
         "generics",
         "RcppArmadillo",
-        "sylly",
         "sylly.en",
         "syuzhet",
         "lattice",
@@ -149724,7 +149719,6 @@
         "pillar",
         "Rcpp",
         "digest",
-        "sylly",
         "Matrix",
         "sylly.en",
         "syuzhet",
@@ -149772,12 +149766,10 @@
     "koRpus.lang.en": [
         "koRpus",
         "sylly.en",
-        "sylly",
         "Matrix",
         "lattice"
     ],
     "koRpus": [
-        "sylly",
         "Matrix",
         "lattice"
     ],
@@ -149855,10 +149847,7 @@
         "slam",
         "stringi"
     ],
-    "sylly": [],
-    "sylly.en": [
-        "sylly"
-    ],
+    "sylly.en": [],
     "syuzhet": [
         "textshape",
         "NLP",
