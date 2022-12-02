@@ -4940,7 +4940,6 @@
         "biomaRt",
         "Category"
     ],
-    "PCAtools": [],
     "PDATK": [
         "MultiAssayExperiment",
         "CoreGx",
