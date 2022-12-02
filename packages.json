@@ -11112,7 +11112,6 @@
         "RSQLite",
         "SummarizedExperiment"
     ],
-    "iterativeBMAsurv": [],
     "IVAS": [
         "GenomicFeatures",
         "ggplot2",
