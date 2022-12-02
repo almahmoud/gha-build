@@ -26229,7 +26229,6 @@
         "hms",
         "prettyunits",
         "stringr",
-        "RPMG",
         "GEOmap",
         "RSEIS",
         "splancs",
@@ -27929,7 +27928,6 @@
         "DelayedArray",
         "caTools",
         "Matrix",
-        "RPMG",
         "GEOmap",
         "RSEIS",
         "splancs",
@@ -40517,7 +40515,6 @@
         "ncdfFlow",
         "DelayedArray",
         "caTools",
-        "RPMG",
         "GEOmap",
         "RSEIS",
         "splancs",
@@ -40630,7 +40627,6 @@
         "ncdfFlow",
         "DelayedArray",
         "caTools",
-        "RPMG",
         "GEOmap",
         "RSEIS",
         "splancs",
@@ -136842,7 +136838,6 @@
         "lattice"
     ],
     "RFOC": [
-        "RPMG",
         "GEOmap",
         "RSEIS",
         "splancs",
@@ -136890,9 +136885,7 @@
     "linprog": [
         "lpSolve"
     ],
-    "RPMG": [],
     "GEOmap": [
-        "RPMG",
         "splancs",
         "fields",
         "MBA",
@@ -136924,9 +136917,7 @@
         "magrittr",
         "pillar"
     ],
-    "RSEIS": [
-        "RPMG"
-    ],
+    "RSEIS": [],
     "splancs": [
         "sp",
         "lattice"
