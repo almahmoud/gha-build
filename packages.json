@@ -75601,7 +75601,6 @@
         "BiocParallel",
         "Rhtslib",
         "reportr",
-        "RNifti",
         "futile.logger",
         "RCurl",
         "lambda.r"
@@ -92045,11 +92044,9 @@
         "magick"
     ],
     "tractor.base": [
-        "reportr",
-        "RNifti"
+        "reportr"
     ],
     "reportr": [],
-    "RNifti": [],
     "vbsr": [],
     "lassopv": [],
     "RPostgreSQL": [],
