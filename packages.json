@@ -2986,7 +2986,6 @@
     "DeepPINCS": [
         "keras",
         "tensorflow",
-        "webchem",
         "ttgsea",
         "textstem",
         "DiagrammeR",
@@ -4862,7 +4861,6 @@
         "tensorflow",
         "DeepPINCS",
         "ttgsea",
-        "webchem",
         "textstem",
         "DiagrammeR",
         "readr",
@@ -10352,7 +10350,6 @@
     ],
     "RMassBank": [
         "MSnbase",
-        "webchem",
         "vsn"
     ],
     "Rmmquant": [
@@ -12984,7 +12981,6 @@
         "scater",
         "DeepPINCS",
         "DiagrammeR",
-        "webchem",
         "ttgsea",
         "readr",
         "tidyr",
@@ -14081,7 +14077,6 @@
         "testthat",
         "waldo"
     ],
-    "webchem": [],
     "textstem": [
         "lexicon",
         "textclean",
