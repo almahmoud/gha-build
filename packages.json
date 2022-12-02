@@ -7,9 +7,7 @@
         "pbkrtest",
         "lme4"
     ],
-    "adductomicsR": [
-        "adductData"
-    ],
+    "adductomicsR": [],
     "affycoretools": [
         "ReportingTools",
         "ggbio",
@@ -2663,7 +2661,6 @@
         "lme4"
     ],
     "lme4": [],
-    "adductData": [],
     "curatedTCGAData": [],
     "lmerTest": [
         "lme4"
