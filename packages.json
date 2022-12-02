@@ -1455,7 +1455,6 @@
         "readxl",
         "SummarizedExperiment",
         "tidyr",
-        "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
         "dbplyr",
@@ -19508,7 +19507,6 @@
         "rtracklayer",
         "tidyr",
         "tidyselect",
-        "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
         "Rsamtools",
@@ -34222,11 +34220,9 @@
     ],
     "mixtools": [],
     "assertive": [
-        "assertive.data",
         "assertive.data.uk",
         "assertive.data.us"
     ],
-    "assertive.data": [],
     "assertive.data.uk": [],
     "assertive.data.us": [],
     "doBy": [
