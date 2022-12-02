@@ -291,7 +291,6 @@
         "crayon",
         "ellipsis",
         "pkgconfig",
-        "formatR",
         "askpass",
         "utf8",
         "sys"
@@ -370,8 +369,7 @@
         "colorspace",
         "utf8",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "aCGH": [
         "cluster",
@@ -858,7 +856,6 @@
         "survival",
         "RcppEigen",
         "matrixStats",
-        "formatR",
         "bitops",
         "zlibbioc"
     ],
@@ -949,7 +946,6 @@
         "generics",
         "R6",
         "pillar",
-        "formatR",
         "cli",
         "bitops",
         "pkgconfig",
@@ -1172,7 +1168,6 @@
         "backports",
         "deldir",
         "RcppEigen",
-        "formatR",
         "assertthat"
     ],
     "affyILM": [
@@ -1530,7 +1525,6 @@
         "backports",
         "deldir",
         "RcppEigen",
-        "formatR",
         "assertthat"
     ],
     "AIMS": [
@@ -1664,8 +1658,7 @@
         "systemfonts",
         "textshaping",
         "bitops",
-        "zlibbioc",
-        "formatR"
+        "zlibbioc"
     ],
     "ALDEx2": [
         "zCompositions",
@@ -1703,7 +1696,6 @@
         "matrixStats",
         "RcppGSL",
         "zlibbioc",
-        "formatR",
         "bitops"
     ],
     "alevinQC": [
@@ -1919,7 +1911,6 @@
         "checkmate",
         "htmlwidgets",
         "rstudioapi",
-        "formatR",
         "colorspace",
         "askpass",
         "sys",
@@ -1994,7 +1985,6 @@
         "labeling",
         "munsell",
         "ellipsis",
-        "formatR",
         "colorspace",
         "askpass",
         "sys"
@@ -2087,7 +2077,6 @@
         "withr",
         "generics",
         "ellipsis",
-        "formatR",
         "askpass",
         "sys",
         "utf8"
@@ -2207,7 +2196,6 @@
         "curl",
         "mime",
         "openssl",
-        "formatR",
         "RcppGSL",
         "RcppEigen",
         "rappdirs",
@@ -2473,7 +2461,6 @@
         "pkgconfig",
         "deldir",
         "RcppEigen",
-        "formatR",
         "colorspace",
         "fs",
         "rappdirs",
@@ -2564,7 +2551,6 @@
         "openssl",
         "png",
         "Biostrings",
-        "formatR",
         "bit64",
         "blob",
         "memoise",
@@ -2776,7 +2762,6 @@
         "zlibbioc",
         "sys",
         "sitmo",
-        "formatR",
         "cachem",
         "colorspace",
         "systemfonts",
@@ -2856,8 +2841,7 @@
         "lattice",
         "matrixStats",
         "colorspace",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "ANF": [
         "igraph",
@@ -3042,7 +3026,6 @@
         "clue",
         "zlibbioc",
         "Biostrings",
-        "formatR",
         "KernSmooth",
         "lava",
         "bit64",
@@ -3153,7 +3136,6 @@
         "bit",
         "rlang",
         "vctrs",
-        "formatR",
         "cachem",
         "askpass",
         "sys",
@@ -3459,7 +3441,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "cachem",
         "rjson",
         "fastmap",
@@ -3627,7 +3608,6 @@
         "lambda.r",
         "futile.options",
         "base64enc",
-        "formatR",
         "fs"
     ],
     "anota": [
@@ -3744,7 +3724,6 @@
         "openssl",
         "png",
         "Biostrings",
-        "formatR",
         "colorspace",
         "utf8",
         "bit64",
@@ -3815,7 +3794,6 @@
         "memoise",
         "lazyeval",
         "Rcpp",
-        "formatR",
         "askpass",
         "utf8",
         "sys",
@@ -3978,7 +3956,6 @@
         "bit",
         "lazyeval",
         "Rcpp",
-        "formatR",
         "utf8",
         "prettyunits",
         "fs",
@@ -4104,8 +4081,7 @@
         "stringi",
         "sys",
         "fastmap",
-        "assertthat",
-        "formatR"
+        "assertthat"
     ],
     "apComplex": [
         "graph",
@@ -4493,7 +4469,6 @@
         "fs",
         "triebeard",
         "sys",
-        "formatR",
         "utf8"
     ],
     "aroma.light": [
@@ -4678,7 +4653,6 @@
         "DelayedArray",
         "sys",
         "bit",
-        "formatR",
         "matrixStats",
         "cachem",
         "colorspace",
@@ -4839,8 +4813,7 @@
         "R.methodsS3",
         "clipr",
         "vroom",
-        "tzdb",
-        "formatR"
+        "tzdb"
     ],
     "arrayQuality": [
         "gridBase",
@@ -5083,7 +5056,6 @@
         "XVector",
         "GenomeInfoDb",
         "crayon",
-        "formatR",
         "cachem",
         "testthat",
         "askpass",
@@ -5203,7 +5175,6 @@
         "curl",
         "mime",
         "openssl",
-        "formatR",
         "colorspace",
         "utf8",
         "later",
@@ -5366,7 +5337,6 @@
         "base64enc",
         "ellipsis",
         "deldir",
-        "formatR",
         "cachem",
         "testthat",
         "askpass",
@@ -5545,7 +5515,6 @@
         "assertthat",
         "checkmate",
         "rstudioapi",
-        "formatR",
         "askpass",
         "fs",
         "sys",
@@ -5662,7 +5631,6 @@
         "openssl",
         "png",
         "Biostrings",
-        "formatR",
         "bit64",
         "blob",
         "memoise",
@@ -5943,7 +5911,6 @@
         "R.methodsS3",
         "tinytex",
         "sys",
-        "formatR",
         "ps"
     ],
     "ATACseqQC": [
@@ -6100,7 +6067,6 @@
         "jquerylib",
         "promises",
         "ellipsis",
-        "formatR",
         "colorspace",
         "pracma",
         "R.oo",
@@ -6228,7 +6194,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "stringi",
         "progress",
         "askpass",
@@ -6322,7 +6287,6 @@
         "jquerylib",
         "promises",
         "png",
-        "formatR",
         "cachem",
         "askpass",
         "utf8",
@@ -6458,7 +6422,6 @@
         "SummarizedExperiment",
         "base64enc",
         "fastmap",
-        "formatR",
         "lattice",
         "cachem",
         "colorspace",
@@ -6854,7 +6817,6 @@
         "RcppEigen",
         "matrixStats",
         "utf8",
-        "formatR",
         "testthat",
         "brio",
         "callr",
@@ -6904,7 +6866,6 @@
         "magrittr",
         "pillar",
         "pkgconfig",
-        "formatR",
         "lattice",
         "colorspace",
         "utf8"
@@ -6996,7 +6957,6 @@
         "plogr",
         "sys",
         "bit",
-        "formatR",
         "cachem",
         "utf8",
         "fastmap"
@@ -7066,7 +7026,6 @@
         "openssl",
         "R6",
         "png",
-        "formatR",
         "bit64",
         "blob",
         "memoise",
@@ -7164,7 +7123,6 @@
         "mime",
         "openssl",
         "png",
-        "formatR",
         "cachem",
         "hms",
         "prettyunits",
@@ -7249,7 +7207,6 @@
         "pkgconfig",
         "RCurl",
         "GenomeInfoDbData",
-        "formatR",
         "lattice",
         "colorspace",
         "utf8",
@@ -7420,7 +7377,6 @@
         "fastmap",
         "mime",
         "openssl",
-        "formatR",
         "data.table",
         "hms",
         "prettyunits",
@@ -7712,7 +7668,6 @@
         "rappdirs",
         "MatrixGenerics",
         "DelayedArray",
-        "formatR",
         "matrixStats"
     ],
     "BaseSpaceR": [
@@ -7759,7 +7714,6 @@
         "XML",
         "BiocIO",
         "restfulr",
-        "formatR",
         "rjson",
         "yaml"
     ],
@@ -7869,7 +7823,6 @@
         "memoise",
         "base64enc",
         "yaml",
-        "formatR",
         "colorspace",
         "utf8",
         "bitops",
@@ -8007,7 +7960,6 @@
         "memoise",
         "base64enc",
         "yaml",
-        "formatR",
         "colorspace",
         "utf8",
         "fs",
@@ -8043,8 +7995,7 @@
         "lambda.r",
         "futile.options",
         "lattice",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "basilisk": [
         "reticulate",
@@ -8107,7 +8058,6 @@
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
-        "formatR",
         "bitops",
         "zlibbioc"
     ],
@@ -8245,7 +8195,6 @@
         "iterators",
         "png",
         "Biostrings",
-        "formatR",
         "askpass",
         "ps",
         "bit64",
@@ -8397,8 +8346,7 @@
         "zoo",
         "zlibbioc",
         "sys",
-        "fastmap",
-        "formatR"
+        "fastmap"
     ],
     "bayNorm": [
         "Rcpp",
@@ -8437,7 +8385,6 @@
         "GenomeInfoDbData",
         "XVector",
         "matrixStats",
-        "formatR",
         "bitops",
         "zlibbioc"
     ],
@@ -8529,7 +8476,6 @@
         "mime",
         "openssl",
         "R6",
-        "formatR",
         "cachem",
         "hms",
         "prettyunits",
@@ -8817,8 +8763,7 @@
         "yaml",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-        "formatR"
+        "DelayedArray"
     ],
     "BEclear": [
         "BiocParallel",
@@ -8840,7 +8785,6 @@
         "uuid",
         "lattice",
         "rbibutils",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -8903,7 +8847,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "bitops",
         "bit64",
         "memoise",
@@ -9184,7 +9127,6 @@
         "knitr",
         "checkmate",
         "yaml",
-        "formatR",
         "jpeg",
         "interp",
         "BiocBaseUtils",
@@ -9334,8 +9276,7 @@
         "lambda.r",
         "futile.options",
         "lattice",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "BgeeDB": [
         "topGO",
@@ -9658,7 +9599,6 @@
         "dbplyr",
         "filelock",
         "bit",
-        "formatR",
         "cachem",
         "prettyunits",
         "rjson",
@@ -9924,8 +9864,7 @@
         "backports",
         "evaluate",
         "highr",
-        "xfun",
-        "formatR"
+        "xfun"
     ],
     "bioassayR": [
         "DBI",
@@ -10248,7 +10187,6 @@
         "RCurl",
         "GenomeInfoDbData",
         "gridGraphics",
-        "formatR",
         "testthat",
         "zlibbioc",
         "bitops",
@@ -10494,8 +10432,7 @@
         "lattice",
         "BiocGenerics",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "BiocOncoTK": [
         "ComplexHeatmap",
@@ -10685,8 +10622,7 @@
         "lambda.r",
         "futile.options",
         "diffobj",
-        "rematch2",
-        "formatR"
+        "rematch2"
     ],
     "BioCor": [
         "BiocParallel",
@@ -10720,7 +10656,6 @@
         "R6",
         "png",
         "Biostrings",
-        "formatR",
         "bit64",
         "blob",
         "memoise",
@@ -10751,8 +10686,7 @@
         "BH",
         "cpp11",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "BiocPkgTools": [
         "htmlwidgets",
@@ -10920,8 +10854,7 @@
         "lattice",
         "lambda.r",
         "futile.options",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "BiocSklearn": [
         "reticulate",
@@ -11969,7 +11902,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "interp",
         "colorspace",
         "utf8",
@@ -12134,7 +12066,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "nlme",
         "utf8"
     ],
@@ -12278,7 +12209,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "askpass",
         "httpuv",
         "xtable",
@@ -12420,7 +12350,6 @@
         "rstudioapi",
         "fastmap",
         "Biostrings",
-        "formatR",
         "jpeg",
         "interp",
         "utf8",
@@ -12609,7 +12538,6 @@
         "openssl",
         "deldir",
         "RcppEigen",
-        "formatR",
         "colorspace",
         "utf8",
         "bitops",
@@ -12784,8 +12712,7 @@
         "RcppHNSW",
         "lambda.r",
         "futile.options",
-        "bitops",
-        "formatR"
+        "bitops"
     ],
     "biotmle": [
         "dplyr",
@@ -12863,7 +12790,6 @@
         "listenv",
         "parallelly",
         "foreach",
-        "formatR",
         "colorspace",
         "SparseM",
         "MatrixModels",
@@ -13006,7 +12932,6 @@
         "tidyselect",
         "generics",
         "ellipsis",
-        "formatR",
         "askpass",
         "utf8",
         "sys"
@@ -13172,7 +13097,6 @@
         "shiny",
         "DT",
         "png",
-        "formatR",
         "colorspace",
         "utf8",
         "prettyunits",
@@ -13278,7 +13202,6 @@
         "askpass",
         "sys",
         "fastmap",
-        "formatR",
         "cli",
         "lifecycle"
     ],
@@ -13304,8 +13227,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "blacksheepr": [
         "circlize",
@@ -13421,7 +13343,6 @@
         "tidyselect",
         "generics",
         "ellipsis",
-        "formatR",
         "cachem",
         "askpass",
         "sys",
@@ -13718,8 +13639,7 @@
         "lattice",
         "BiocGenerics",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "bnbc": [
         "BiocGenerics",
@@ -13788,7 +13708,6 @@
         "openssl",
         "R6",
         "Biostrings",
-        "formatR",
         "bit64",
         "blob",
         "memoise",
@@ -13951,7 +13870,6 @@
         "mime",
         "openssl",
         "Biostrings",
-        "formatR",
         "utf8",
         "bit64",
         "blob",
@@ -14113,7 +14031,6 @@
         "xfun",
         "cachem",
         "assertthat",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -14208,7 +14125,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "formatR",
         "rjson",
         "yaml"
     ],
@@ -14476,7 +14392,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "cachem",
         "askpass",
         "hms",
@@ -14709,7 +14624,6 @@
         "KernSmooth",
         "lava",
         "fastmap",
-        "formatR",
         "future.apply",
         "numDeriv",
         "progressr",
@@ -14778,8 +14692,7 @@
         "lattice",
         "matrixStats",
         "colorspace",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "brendaDb": [
         "dplyr",
@@ -14829,7 +14742,6 @@
         "memoise",
         "plogr",
         "bit",
-        "formatR",
         "cachem",
         "askpass",
         "sys",
@@ -14911,7 +14823,6 @@
         "mime",
         "openssl",
         "png",
-        "formatR",
         "colorspace",
         "utf8",
         "bit64",
@@ -14978,7 +14889,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice"
     ],
     "bsseq": [
@@ -15044,7 +14954,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "formatR",
         "rjson",
         "yaml"
     ],
@@ -15196,7 +15105,6 @@
         "assertthat",
         "purrr",
         "ellipsis",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -15456,8 +15364,7 @@
         "sys",
         "lambda.r",
         "futile.options",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "BumpyMatrix": [
         "Matrix",
@@ -15601,8 +15508,7 @@
         "sys",
         "fastmap",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "BUSseq": [
         "SingleCellExperiment",
@@ -15797,8 +15703,7 @@
         "highr",
         "xfun",
         "cachem",
-        "assertthat",
-        "formatR"
+        "assertthat"
     ],
     "CAGEfightR": [
         "GenomicRanges",
@@ -15919,7 +15824,6 @@
         "openssl",
         "deldir",
         "RcppEigen",
-        "formatR",
         "cachem",
         "nlme",
         "utf8",
@@ -16127,7 +16031,6 @@
         "RcppEigen",
         "evaluate",
         "highr",
-        "formatR",
         "cachem",
         "coda",
         "assertthat",
@@ -16223,7 +16126,6 @@
         "purrr",
         "tidyselect",
         "generics",
-        "formatR",
         "colorspace",
         "utf8"
     ],
@@ -16345,7 +16247,6 @@
         "stringi",
         "pillar",
         "limma",
-        "formatR",
         "colorspace",
         "utf8",
         "bitops"
@@ -16680,7 +16581,6 @@
         "prettyunits",
         "fastmap",
         "assertthat",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -16726,8 +16626,7 @@
         "fastmap",
         "jsonlite",
         "yaml",
-        "bitops",
-        "formatR"
+        "bitops"
     ],
     "CARNIVAL": [
         "readr",
@@ -16882,7 +16781,6 @@
         "withr",
         "generics",
         "ellipsis",
-        "formatR",
         "matrixStats",
         "askpass",
         "sys",
@@ -17049,7 +16947,6 @@
         "highr",
         "yaml",
         "xfun",
-        "formatR",
         "testthat",
         "brio",
         "callr",
@@ -17329,7 +17226,6 @@
         "sys",
         "sass",
         "lazyeval",
-        "formatR",
         "prettyunits",
         "Rsamtools",
         "GenomicAlignments",
@@ -17414,7 +17310,6 @@
         "curl",
         "mime",
         "openssl",
-        "formatR",
         "bitops",
         "bit64",
         "blob",
@@ -17544,7 +17439,6 @@
         "sass",
         "lazyeval",
         "png",
-        "formatR",
         "prettyunits",
         "Rsamtools",
         "GenomicAlignments",
@@ -17681,8 +17575,7 @@
         "RSpectra",
         "lambda.r",
         "futile.options",
-        "lattice",
-        "formatR"
+        "lattice"
     ],
     "ccmap": [
         "AnnotationDbi",
@@ -17981,8 +17874,7 @@
         "textshaping",
         "bitops",
         "zlibbioc",
-        "sys",
-        "formatR"
+        "sys"
     ],
     "CellaRepertorium": [
         "dplyr",
@@ -18103,7 +17995,6 @@
         "utf8",
         "MatrixGenerics",
         "DelayedArray",
-        "formatR",
         "matrixStats"
     ],
     "cellbaseR": [
@@ -18160,7 +18051,6 @@
         "pkgconfig",
         "withr",
         "sys",
-        "formatR",
         "utf8"
     ],
     "CellBench": [
@@ -18225,7 +18115,6 @@
         "bit",
         "RCurl",
         "GenomeInfoDbData",
-        "formatR",
         "lattice",
         "matrixStats",
         "askpass",
@@ -18481,7 +18370,6 @@
         "gtools",
         "caTools",
         "yaml",
-        "formatR",
         "colorspace",
         "utf8",
         "systemfonts",
@@ -18794,7 +18682,6 @@
         "RcppProgress",
         "dqrng",
         "sitmo",
-        "formatR",
         "colorspace",
         "systemfonts",
         "textshaping",
@@ -19254,7 +19141,6 @@
         "mime",
         "openssl",
         "deldir",
-        "formatR",
         "RCurl",
         "GenomeInfoDbData",
         "askpass",
@@ -19384,7 +19270,6 @@
         "gridExtra",
         "polynom",
         "rstatix",
-        "formatR",
         "bitops",
         "brio",
         "callr",
@@ -19499,7 +19384,6 @@
         "openssl",
         "png",
         "Biostrings",
-        "formatR",
         "colorspace",
         "bitops",
         "bit64",
@@ -19755,7 +19639,6 @@
         "RcppEigen",
         "gridGraphics",
         "fastmap",
-        "formatR",
         "boot",
         "minqa",
         "nloptr",
@@ -19864,7 +19747,6 @@
         "tidyselect",
         "progress",
         "bit",
-        "formatR",
         "lattice",
         "colorspace",
         "utf8",
@@ -19942,8 +19824,7 @@
         "matrixStats",
         "colorspace",
         "rjson",
-        "yaml",
-        "formatR"
+        "yaml"
     ],
     "CGEN": [
         "survival",
@@ -20272,7 +20153,6 @@
         "sys",
         "bit",
         "assertthat",
-        "formatR",
         "prettyunits",
         "rjson"
     ],
@@ -20519,7 +20399,6 @@
         "RColorBrewer",
         "viridisLite",
         "stringi",
-        "formatR",
         "colorspace",
         "utf8",
         "KernSmooth",
@@ -20750,7 +20629,6 @@
         "mgcv",
         "ellipsis",
         "rstudioapi",
-        "formatR",
         "colorspace",
         "askpass",
         "sys",
@@ -20802,8 +20680,7 @@
         "DelayedArray",
         "lambda.r",
         "futile.options",
-        "lattice",
-        "formatR"
+        "lattice"
     ],
     "ChIPComp": [
         "GenomicRanges",
@@ -20845,7 +20722,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice"
     ],
     "chipenrich": [
@@ -20983,8 +20859,7 @@
         "askpass",
         "utf8",
         "prettyunits",
-        "sys",
-        "formatR"
+        "sys"
     ],
     "ChIPexoQual": [
         "GenomicAlignments",
@@ -21108,7 +20983,6 @@
         "htmlwidgets",
         "rstudioapi",
         "png",
-        "formatR",
         "jpeg",
         "interp",
         "bit64",
@@ -21240,7 +21114,6 @@
         "assertthat",
         "purrr",
         "ellipsis",
-        "formatR",
         "colorspace",
         "askpass",
         "sys"
@@ -21377,7 +21250,6 @@
         "mime",
         "openssl",
         "png",
-        "formatR",
         "jpeg",
         "interp",
         "cachem",
@@ -21546,8 +21418,7 @@
         "futile.options",
         "matrixStats",
         "askpass",
-        "sys",
-        "formatR"
+        "sys"
     ],
     "chipseq": [
         "BiocGenerics",
@@ -21590,7 +21461,6 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "matrixStats"
     ],
     "ChIPseqR": [
@@ -21642,7 +21512,6 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "matrixStats"
     ],
     "ChIPsim": [
@@ -21686,7 +21555,6 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "matrixStats"
     ],
     "ChIPXpress": [
@@ -21855,8 +21723,7 @@
         "lattice",
         "matrixStats",
         "cli",
-        "lifecycle",
-        "formatR"
+        "lifecycle"
     ],
     "chromPlot": [
         "biomaRt",
@@ -22120,7 +21987,6 @@
         "sys",
         "processx",
         "rprojroot",
-        "formatR",
         "colorspace",
         "textshaping",
         "ps"
@@ -22190,8 +22056,7 @@
         "lattice",
         "matrixStats",
         "colorspace",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "chromswitch": [
         "GenomicRanges",
@@ -22271,7 +22136,6 @@
         "Rhtslib",
         "stringi",
         "pkgconfig",
-        "formatR",
         "nlme",
         "Matrix",
         "farver",
@@ -22402,7 +22266,6 @@
         "AnnotationDbi",
         "bit",
         "png",
-        "formatR",
         "colorspace",
         "askpass",
         "utf8",
@@ -22664,8 +22527,7 @@
         "backports",
         "evaluate",
         "highr",
-        "xfun",
-        "formatR"
+        "xfun"
     ],
     "CIMICE": [
         "dplyr",
@@ -22922,7 +22784,6 @@
         "sass",
         "lazyeval",
         "base64enc",
-        "formatR",
         "fs"
     ],
     "CircSeqAlignTk": [
@@ -23027,7 +22888,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "matrixStats",
         "cachem",
         "hms",
@@ -23154,8 +23014,7 @@
         "bitops",
         "ellipsis",
         "purrr",
-        "zlibbioc",
-        "formatR"
+        "zlibbioc"
     ],
     "ClassifyR": [
         "generics",
@@ -23218,7 +23077,6 @@
         "openssl",
         "png",
         "Biostrings",
-        "formatR",
         "matrixStats",
         "bit64",
         "blob",
@@ -23284,8 +23142,7 @@
         "MatrixGenerics",
         "Biobase",
         "Matrix",
-        "DelayedArray",
-        "formatR"
+        "DelayedArray"
     ],
     "cleaver": [
         "Biostrings",
@@ -23404,7 +23261,6 @@
         "bit",
         "vctrs",
         "SummarizedExperiment",
-        "formatR",
         "cachem",
         "askpass",
         "hms",
@@ -23494,8 +23350,7 @@
         "Biobase",
         "DelayedArray",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "cliqueMS": [
         "Rcpp",
@@ -23582,7 +23437,6 @@
         "nlme",
         "colorspace",
         "pillar",
-        "formatR",
         "utf8",
         "bitops"
     ],
@@ -23740,8 +23594,7 @@
         "colorspace",
         "askpass",
         "utf8",
-        "sys",
-        "formatR"
+        "sys"
     ],
     "clustComp": [
         "sm"
@@ -23871,7 +23724,6 @@
         "zlibbioc",
         "png",
         "Biostrings",
-        "formatR",
         "askpass",
         "utf8",
         "bit64",
@@ -24016,7 +23868,6 @@
         "fastmap",
         "RCurl",
         "GenomeInfoDbData",
-        "formatR",
         "colorspace",
         "askpass",
         "zlibbioc",
@@ -24046,7 +23897,6 @@
         "XVector",
         "RCurl",
         "GenomeInfoDbData",
-        "formatR",
         "lattice",
         "zlibbioc",
         "bitops"
@@ -24144,8 +23994,7 @@
         "futile.options",
         "prettyunits",
         "bitops",
-        "zlibbioc",
-        "formatR"
+        "zlibbioc"
     ],
     "CMA": [
         "Biobase",
@@ -24251,8 +24100,7 @@
         "cpp11",
         "crayon",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "CNAnorm": [],
     "CNEr": [
@@ -24356,8 +24204,7 @@
         "askpass",
         "utf8",
         "prettyunits",
-        "sys",
-        "formatR"
+        "sys"
     ],
     "CNORdt": [
         "CellNOptR",
@@ -24783,7 +24630,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "jpeg",
         "interp",
         "colorspace",
@@ -25013,8 +24859,7 @@
         "RcppEigen",
         "evaluate",
         "highr",
-        "xfun",
-        "formatR"
+        "xfun"
     ],
     "CNVMetrics": [
         "GenomicRanges",
@@ -25047,7 +24892,6 @@
         "rlang",
         "viridisLite",
         "zlibbioc",
-        "formatR",
         "cli",
         "colorspace",
         "bitops"
@@ -25152,8 +24996,7 @@
         "futile.options",
         "colorspace",
         "utf8",
-        "rappdirs",
-        "formatR"
+        "rappdirs"
     ],
     "CNVRanger": [
         "GenomicRanges",
@@ -25201,8 +25044,7 @@
         "magrittr",
         "stringi",
         "zlibbioc",
-        "crayon",
-        "formatR"
+        "crayon"
     ],
     "CNVrd2": [
         "VariantAnnotation",
@@ -25297,7 +25139,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "cachem",
         "hms",
         "prettyunits",
@@ -25452,7 +25293,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "formatR",
         "yaml"
     ],
     "codelink": [
@@ -25531,7 +25371,6 @@
         "BiocIO",
         "restfulr",
         "SummarizedExperiment",
-        "formatR",
         "rjson",
         "yaml",
         "MatrixGenerics",
@@ -25696,7 +25535,6 @@
         "XVector",
         "lattice",
         "matrixStats",
-        "formatR",
         "zlibbioc"
     ],
     "cogena": [
@@ -26014,8 +25852,7 @@
         "sys",
         "lambda.r",
         "futile.options",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "coGPS": [],
     "COHCAP": [
@@ -26214,7 +26051,6 @@
         "viridis",
         "deldir",
         "RcppEigen",
-        "formatR",
         "askpass",
         "hms",
         "prettyunits",
@@ -26455,8 +26291,7 @@
         "backports",
         "evaluate",
         "highr",
-        "xfun",
-        "formatR"
+        "xfun"
     ],
     "coMethDMR": [
         "AnnotationHub",
@@ -26560,7 +26395,6 @@
         "jquerylib",
         "promises",
         "png",
-        "formatR",
         "cachem",
         "testthat",
         "askpass",
@@ -26687,8 +26521,7 @@
         "pkgconfig",
         "lambda.r",
         "futile.options",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "COMPASS": [
         "Rcpp",
@@ -26954,7 +26787,6 @@
         "ellipsis",
         "deldir",
         "RcppEigen",
-        "formatR",
         "askpass",
         "farver",
         "labeling",
@@ -27084,7 +26916,6 @@
         "RColorBrewer",
         "viridisLite",
         "zlibbioc",
-        "formatR",
         "lattice",
         "colorspace"
     ],
@@ -27168,7 +26999,6 @@
         "cellranger",
         "progress",
         "rematch",
-        "formatR",
         "lattice",
         "prettyunits",
         "clipr",
@@ -27409,7 +27239,6 @@
         "RcppArmadillo",
         "base64enc",
         "yaml",
-        "formatR",
         "boot",
         "minqa",
         "nloptr",
@@ -27548,7 +27377,6 @@
         "Cairo",
         "png",
         "ragg",
-        "formatR",
         "RcppGSL",
         "bitops",
         "clock",
@@ -27854,7 +27682,6 @@
         "mime",
         "openssl",
         "R6",
-        "formatR",
         "jpeg",
         "interp",
         "cachem",
@@ -27993,7 +27820,6 @@
         "pkgconfig",
         "png",
         "Biostrings",
-        "formatR",
         "future.apply",
         "numDeriv",
         "progressr",
@@ -28048,7 +27874,6 @@
         "rjson",
         "yaml",
         "Rhtslib",
-        "formatR",
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -28105,7 +27930,6 @@
         "httr",
         "png",
         "Biostrings",
-        "formatR",
         "cli",
         "colorspace",
         "bitops",
@@ -28215,7 +28039,6 @@
         "RSQLite",
         "KEGGREST",
         "biomaRt",
-        "formatR",
         "lattice",
         "utf8",
         "progress",
@@ -28367,7 +28190,6 @@
         "jsonlite",
         "mime",
         "png",
-        "formatR",
         "askpass",
         "utf8",
         "bit64",
@@ -28528,7 +28350,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "jpeg",
         "interp",
         "colorspace",
@@ -28584,7 +28405,6 @@
         "bitops",
         "Rhtslib",
         "crayon",
-        "formatR",
         "Biobase",
         "hwriter",
         "latticeExtra",
@@ -28790,7 +28610,6 @@
         "MASS",
         "mgcv",
         "base64enc",
-        "formatR",
         "colorspace",
         "zlibbioc",
         "nlme",
@@ -28959,7 +28778,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-        "formatR",
         "utf8",
         "bitops",
         "zlibbioc",
@@ -29056,7 +28874,6 @@
         "R6",
         "viridisLite",
         "limma",
-        "formatR",
         "nlme",
         "colorspace",
         "bitops",
@@ -29344,7 +29161,6 @@
         "zlibbioc",
         "crayon",
         "bit",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -29397,8 +29213,7 @@
         "lambda.r",
         "futile.options",
         "lattice",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "covRNA": [
         "ade4",
@@ -29536,7 +29351,6 @@
         "mime",
         "openssl",
         "png",
-        "formatR",
         "lattice",
         "cachem",
         "colorspace",
@@ -29686,7 +29500,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice"
     ],
     "crisprBwa": [
@@ -29752,7 +29565,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice"
     ],
     "crisprDesign": [
@@ -29873,7 +29685,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "formatR",
         "httpuv",
         "xtable",
         "fontawesome",
@@ -30062,8 +29873,7 @@
         "backports",
         "lambda.r",
         "futile.options",
-        "Biobase",
-        "formatR"
+        "Biobase"
     ],
     "crisprseekplus": [
         "shiny",
@@ -30239,8 +30049,7 @@
         "vroom",
         "tzdb",
         "backports",
-        "sys",
-        "formatR"
+        "sys"
     ],
     "CrispRVariants": [
         "ggplot2",
@@ -30314,7 +30123,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "lattice",
         "matrixStats",
         "cachem",
@@ -30494,7 +30302,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "nlme",
         "fs"
     ],
@@ -30656,7 +30463,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "nlme",
         "utf8",
         "crosstalk",
@@ -30858,7 +30664,6 @@
         "openssl",
         "MatrixGenerics",
         "DelayedArray",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -30908,8 +30713,7 @@
         "crayon",
         "lambda.r",
         "futile.options",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "csdR": [
         "WGCNA",
@@ -31112,7 +30916,6 @@
         "tidyselect",
         "generics",
         "ellipsis",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -31323,7 +31126,6 @@
         "fs",
         "RCurl",
         "GenomeInfoDbData",
-        "formatR",
         "zlibbioc",
         "bitops"
     ],
@@ -31476,7 +31278,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "nlme",
         "R.oo",
         "R.methodsS3",
@@ -31636,8 +31437,7 @@
         "backports",
         "evaluate",
         "highr",
-        "xfun",
-        "formatR"
+        "xfun"
     ],
     "customCMPdb": [
         "AnnotationHub",
@@ -31829,7 +31629,6 @@
         "lattice",
         "askpass",
         "sys",
-        "formatR",
         "utf8"
     ],
     "cyanoFilter": [
@@ -32059,7 +31858,6 @@
         "base64enc",
         "lattice",
         "magrittr",
-        "formatR",
         "nlme",
         "bitops",
         "fs",
@@ -32301,7 +32099,6 @@
         "numDeriv",
         "rpart",
         "prodlim",
-        "formatR",
         "timechange",
         "broom",
         "corrplot",
@@ -32452,7 +32249,6 @@
         "rpart",
         "survival",
         "prodlim",
-        "formatR",
         "timechange",
         "colorspace",
         "testthat",
@@ -32558,7 +32354,6 @@
         "utf8",
         "pkgconfig",
         "withr",
-        "formatR",
         "bitops",
         "zlibbioc"
     ],
@@ -32690,7 +32485,6 @@
         "sitmo",
         "limma",
         "openssl",
-        "formatR",
         "colorspace",
         "utf8",
         "R.oo",
@@ -32859,7 +32653,6 @@
         "utf8",
         "MatrixGenerics",
         "DelayedArray",
-        "formatR",
         "matrixStats"
     ],
     "dagLogo": [
@@ -32993,7 +32786,6 @@
         "plyr",
         "rjson",
         "Rhtslib",
-        "formatR",
         "MatrixGenerics",
         "DelayedArray"
     ],
@@ -33109,7 +32901,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "cachem",
         "fastmap",
         "assertthat",
@@ -33330,7 +33121,6 @@
         "restfulr",
         "bit",
         "assertthat",
-        "formatR",
         "cachem",
         "askpass",
         "KernSmooth",
@@ -33451,8 +33241,7 @@
         "futile.options",
         "nlme",
         "colorspace",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "DART": [
         "igraph",
@@ -33595,7 +33384,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "formatR",
         "cachem",
         "colorspace",
         "askpass",
@@ -33893,8 +33681,7 @@
         "cpp11",
         "lattice",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "ddCt": [
         "Biobase",
@@ -34175,7 +33962,6 @@
         "stringi",
         "ellipsis",
         "pkgconfig",
-        "formatR",
         "nlme",
         "utf8",
         "bitops",
@@ -34391,7 +34177,6 @@
         "foreach",
         "sys",
         "iterators",
-        "formatR",
         "ps"
     ],
     "DECIPHER": [
@@ -34525,7 +34310,6 @@
         "curl",
         "mime",
         "openssl",
-        "formatR",
         "colorspace",
         "utf8",
         "zlibbioc",
@@ -34601,7 +34385,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-        "formatR",
         "nlme",
         "bitops",
         "farver",
@@ -34740,8 +34523,7 @@
         "lambda.r",
         "futile.options",
         "askpass",
-        "sys",
-        "formatR"
+        "sys"
     ],
     "DeconRNASeq": [
         "limSolve",
@@ -34927,7 +34709,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "formatR",
         "colorspace",
         "fs",
         "diffobj",
@@ -35039,8 +34820,7 @@
         "lambda.r",
         "futile.options",
         "lattice",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "DeepPINCS": [
         "keras",
@@ -35264,7 +35044,6 @@
         "withr",
         "generics",
         "ellipsis",
-        "formatR",
         "askpass",
         "sys",
         "utf8"
@@ -35341,7 +35120,6 @@
         "openssl",
         "png",
         "Biostrings",
-        "formatR",
         "colorspace",
         "utf8",
         "bit64",
@@ -35486,7 +35264,6 @@
         "rjson",
         "stringi",
         "sys",
-        "formatR",
         "ps"
     ],
     "DEGraph": [
@@ -35655,7 +35432,6 @@
         "mime",
         "openssl",
         "Biostrings",
-        "formatR",
         "bit64",
         "blob",
         "memoise",
@@ -35777,8 +35553,7 @@
         "sitmo",
         "matrixStats",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "deltaCaptureC": [
         "IRanges",
@@ -35850,7 +35625,6 @@
         "openssl",
         "png",
         "Biostrings",
-        "formatR",
         "bit64",
         "blob",
         "memoise",
@@ -36031,7 +35805,6 @@
         "mime",
         "openssl",
         "png",
-        "formatR",
         "Rhtslib",
         "bit64",
         "blob",
@@ -36233,7 +36006,6 @@
         "bitops",
         "fs",
         "rappdirs",
-        "formatR",
         "zoo"
     ],
     "DepecheR": [
@@ -36307,8 +36079,7 @@
         "purrr",
         "lambda.r",
         "futile.options",
-        "colorspace",
-        "formatR"
+        "colorspace"
     ],
     "DepInfeR": [
         "matrixStats",
@@ -36328,8 +36099,7 @@
         "iterators",
         "lambda.r",
         "futile.options",
-        "lattice",
-        "formatR"
+        "lattice"
     ],
     "DEqMS": [
         "ggplot2",
@@ -36483,7 +36253,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "cachem",
         "nlme",
         "hms",
@@ -36664,7 +36433,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -36761,7 +36529,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "cachem",
         "nlme",
         "utf8",
@@ -36851,7 +36618,6 @@
         "openssl",
         "png",
         "Biostrings",
-        "formatR",
         "colorspace",
         "utf8",
         "bitops",
@@ -36894,8 +36660,7 @@
         "lambda.r",
         "futile.options",
         "digest",
-        "zoo",
-        "formatR"
+        "zoo"
     ],
     "destiny": [
         "Matrix",
@@ -37121,7 +36886,6 @@
         "openssl",
         "png",
         "Biostrings",
-        "formatR",
         "bit64",
         "blob",
         "memoise",
@@ -37189,7 +36953,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-        "formatR",
         "nlme",
         "farver",
         "labeling",
@@ -37313,7 +37076,6 @@
         "openssl",
         "png",
         "Biostrings",
-        "formatR",
         "prettyunits",
         "blob",
         "memoise",
@@ -37419,7 +37181,6 @@
         "tidyselect",
         "generics",
         "ellipsis",
-        "formatR",
         "cachem",
         "nlme",
         "askpass",
@@ -37618,7 +37379,6 @@
         "digest",
         "base64enc",
         "fastmap",
-        "formatR",
         "png",
         "jpeg",
         "interp",
@@ -37960,7 +37720,6 @@
         "plyr",
         "stringr",
         "zlibbioc",
-        "formatR",
         "stringi"
     ],
     "diffGeneAnalysis": [
@@ -38013,8 +37772,7 @@
         "rjson",
         "yaml",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "DiffLogo": [
         "cba",
@@ -38187,7 +37945,6 @@
         "assertthat",
         "purrr",
         "ellipsis",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -38375,7 +38132,6 @@
         "caTools",
         "rprojroot",
         "yaml",
-        "formatR",
         "colorspace",
         "askpass",
         "utf8",
@@ -38562,7 +38318,6 @@
         "pkgconfig",
         "callr",
         "processx",
-        "formatR",
         "askpass",
         "bitops",
         "fs",
@@ -38669,8 +38424,7 @@
         "systemfonts",
         "textshaping",
         "bitops",
-        "zlibbioc",
-        "formatR"
+        "zlibbioc"
     ],
     "dittoSeq": [
         "ggplot2",
@@ -38825,7 +38579,6 @@
         "yaml",
         "Rhtslib",
         "stringi",
-        "formatR",
         "testthat",
         "askpass",
         "withr",
@@ -38891,8 +38644,7 @@
         "rjson",
         "yaml",
         "Rhtslib",
-        "zoo",
-        "formatR"
+        "zoo"
     ],
     "DMRcaller": [
         "GenomicRanges",
@@ -39112,7 +38864,6 @@
         "checkmate",
         "rstudioapi",
         "fastmap",
-        "formatR",
         "cachem",
         "askpass",
         "utf8",
@@ -39263,7 +39014,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "nlme",
         "utf8"
     ],
@@ -39419,7 +39169,6 @@
         "promises",
         "ellipsis",
         "png",
-        "formatR",
         "cachem",
         "colorspace",
         "askpass",
@@ -39506,8 +39255,7 @@
         "lambda.r",
         "futile.options",
         "lattice",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "DNAshapeR": [
         "GenomicRanges",
@@ -39645,8 +39393,7 @@
         "fastmap",
         "lambda.r",
         "futile.options",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "doppelgangR": [
         "Biobase",
@@ -39692,7 +39439,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-        "formatR",
         "bitops",
         "zlibbioc",
         "curl",
@@ -39930,7 +39676,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "cachem",
         "colorspace",
         "utf8",
@@ -40042,7 +39787,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice"
     ],
     "drawProteins": [
@@ -40147,7 +39891,6 @@
         "pillar",
         "pkgconfig",
         "zlibbioc",
-        "formatR",
         "colorspace",
         "utf8",
         "bitops"
@@ -40196,7 +39939,6 @@
         "RCurl",
         "GenomeInfoDbData",
         "zlibbioc",
-        "formatR",
         "bitops"
     ],
     "drugTargetInteractions": [
@@ -40292,7 +40034,6 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice",
         "matrixStats"
     ],
@@ -40471,7 +40212,6 @@
         "RColorBrewer",
         "rlang",
         "viridisLite",
-        "formatR",
         "cli",
         "colorspace",
         "bitops",
@@ -40588,7 +40328,6 @@
         "munsell",
         "viridisLite",
         "pkgconfig",
-        "formatR",
         "colorspace",
         "bitops",
         "zlibbioc"
@@ -40739,7 +40478,6 @@
         "openssl",
         "shiny",
         "DT",
-        "formatR",
         "boot",
         "minqa",
         "nloptr",
@@ -40917,7 +40655,6 @@
         "gridExtra",
         "zlibbioc",
         "sys",
-        "formatR",
         "bitops"
     ],
     "easyreporting": [
@@ -41051,7 +40788,6 @@
         "ellipsis",
         "deldir",
         "RcppEigen",
-        "formatR",
         "cachem",
         "askpass",
         "utf8",
@@ -41161,7 +40897,6 @@
         "openssl",
         "png",
         "Biostrings",
-        "formatR",
         "colorspace",
         "utf8",
         "bitops",
@@ -41359,7 +41094,6 @@
         "DelayedArray",
         "sys",
         "fastmap",
-        "formatR",
         "utf8"
     ],
     "edge": [
@@ -41434,7 +41168,6 @@
         "openssl",
         "png",
         "Biostrings",
-        "formatR",
         "colorspace",
         "utf8",
         "bit64",
@@ -41622,7 +41355,6 @@
         "systemfonts",
         "RcppEigen",
         "gridGraphics",
-        "formatR",
         "askpass",
         "lazyeval",
         "gridExtra",
@@ -41844,7 +41576,6 @@
         "numDeriv",
         "quantreg",
         "sys",
-        "formatR",
         "MatrixModels",
         "zoo",
         "zlibbioc"
@@ -42123,7 +41854,6 @@
         "numDeriv",
         "SparseM",
         "MatrixModels",
-        "formatR",
         "testthat",
         "brio",
         "callr",
@@ -42173,7 +41903,6 @@
         "magrittr",
         "pillar",
         "pkgconfig",
-        "formatR",
         "lattice",
         "colorspace",
         "utf8"
@@ -42298,7 +42027,6 @@
         "GO.db",
         "R.utils",
         "KEGGREST",
-        "formatR",
         "cachem",
         "utf8",
         "AnnotationDbi",
@@ -42484,7 +42212,6 @@
         "sass",
         "lazyeval",
         "base64enc",
-        "formatR",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -42713,7 +42440,6 @@
         "curl",
         "mime",
         "openssl",
-        "formatR",
         "cachem",
         "fastmap",
         "RCurl",
@@ -42907,7 +42633,6 @@
         "curl",
         "mime",
         "openssl",
-        "formatR",
         "boot",
         "minqa",
         "nloptr",
@@ -43018,7 +42743,6 @@
         "withr",
         "generics",
         "ellipsis",
-        "formatR",
         "lattice",
         "matrixStats",
         "askpass",
@@ -43112,7 +42836,6 @@
         "withr",
         "generics",
         "ellipsis",
-        "formatR",
         "askpass",
         "sys",
         "utf8"
@@ -43305,8 +43028,7 @@
         "RcppEigen",
         "gridGraphics",
         "prettyunits",
-        "gridExtra",
-        "formatR"
+        "gridExtra"
     ],
     "epidecodeR": [
         "EnvStats",
@@ -43411,7 +43133,6 @@
         "xfun",
         "matrixStats",
         "testthat",
-        "formatR",
         "brio",
         "callr",
         "desc",
@@ -43526,7 +43247,6 @@
         "curl",
         "jsonlite",
         "mime",
-        "formatR",
         "cachem",
         "colorspace",
         "askpass",
@@ -43635,7 +43355,6 @@
         "lambda.r",
         "futile.options",
         "utf8",
-        "formatR",
         "boot",
         "minqa",
         "nloptr",
@@ -43821,8 +43540,7 @@
         "cachem",
         "askpass",
         "lazyeval",
-        "sys",
-        "formatR"
+        "sys"
     ],
     "EpiMix": [
         "EpiMix.data",
@@ -43968,8 +43686,7 @@
         "base64enc",
         "lambda.r",
         "futile.options",
-        "fs",
-        "formatR"
+        "fs"
     ],
     "epimutacions": [
         "epimutacionsData",
@@ -44156,7 +43873,6 @@
         "ellipsis",
         "deldir",
         "RcppEigen",
-        "formatR",
         "cachem",
         "colorspace",
         "askpass",
@@ -44384,7 +44100,6 @@
         "htmlwidgets",
         "rstudioapi",
         "fastmap",
-        "formatR",
         "interp",
         "utf8",
         "jsonlite",
@@ -44498,8 +44213,7 @@
         "lambda.r",
         "futile.options",
         "lattice",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "epivizr": [
         "epivizrServer",
@@ -44607,7 +44321,6 @@
         "ellipsis",
         "askpass",
         "sys",
-        "formatR",
         "utf8"
     ],
     "epivizrChart": [
@@ -44711,7 +44424,6 @@
         "ellipsis",
         "askpass",
         "sys",
-        "formatR",
         "utf8"
     ],
     "epivizrData": [
@@ -44812,7 +44524,6 @@
         "ellipsis",
         "askpass",
         "sys",
-        "formatR",
         "utf8"
     ],
     "epivizrServer": [
@@ -44934,8 +44645,7 @@
         "sys",
         "lambda.r",
         "futile.options",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "erccdashboard": [
         "ggplot2",
@@ -45090,7 +44800,6 @@
         "bit",
         "curl",
         "openssl",
-        "formatR",
         "colorspace",
         "utf8",
         "fs",
@@ -45169,7 +44878,6 @@
         "KEGGREST",
         "RCurl",
         "GenomeInfoDbData",
-        "formatR",
         "colorspace",
         "utf8",
         "zlibbioc",
@@ -45369,7 +45077,6 @@
         "openssl",
         "deldir",
         "RcppEigen",
-        "formatR",
         "colorspace",
         "utf8",
         "pracma",
@@ -45486,7 +45193,6 @@
         "openssl",
         "png",
         "Biostrings",
-        "formatR",
         "colorspace",
         "bitops",
         "bit64",
@@ -45578,8 +45284,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "evaluomeR": [
         "SummarizedExperiment",
@@ -45834,7 +45539,6 @@
         "listenv",
         "parallelly",
         "ellipsis",
-        "formatR",
         "colorspace",
         "askpass",
         "utf8",
@@ -45953,7 +45657,6 @@
         "lazyeval",
         "mime",
         "openssl",
-        "formatR",
         "colorspace",
         "base64enc",
         "htmlwidgets",
@@ -46067,8 +45770,7 @@
         "Biobase",
         "DelayedArray",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "ExiMiR": [
         "Biobase",
@@ -46102,8 +45804,7 @@
         "cpp11",
         "crayon",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "exomePeak2": [
         "SummarizedExperiment",
@@ -46200,7 +45901,6 @@
         "mime",
         "openssl",
         "png",
-        "formatR",
         "cachem",
         "colorspace",
         "utf8",
@@ -46388,7 +46088,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "cachem",
         "rjson",
         "fastmap",
@@ -46508,7 +46207,6 @@
         "yulab.utils",
         "zlibbioc",
         "bit",
-        "formatR",
         "cachem",
         "askpass",
         "ellipsis",
@@ -46785,7 +46483,6 @@
         "mime",
         "openssl",
         "deldir",
-        "formatR",
         "hms",
         "prettyunits",
         "bit64",
@@ -46914,7 +46611,6 @@
         "filelock",
         "bit",
         "png",
-        "formatR",
         "lattice",
         "cachem",
         "colorspace",
@@ -47145,8 +46841,7 @@
         "systemfonts",
         "RcppEigen",
         "gridGraphics",
-        "RcppArmadillo",
-        "formatR"
+        "RcppArmadillo"
     ],
     "farms": [
         "affy",
@@ -47345,7 +47040,6 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "matrixStats"
     ],
     "fastreeR": [
@@ -47535,7 +47229,6 @@
         "plot3D",
         "pracma",
         "prettyunits",
-        "formatR",
         "misc3d"
     ],
     "fCI": [
@@ -47567,7 +47260,6 @@
         "highr",
         "stringr",
         "xfun",
-        "formatR",
         "stringi"
     ],
     "fcoex": [
@@ -47706,7 +47398,6 @@
         "bitops",
         "lazyeval",
         "fastmap",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -47800,7 +47491,6 @@
         "withr",
         "generics",
         "ellipsis",
-        "formatR",
         "askpass",
         "sys",
         "utf8"
@@ -47899,7 +47589,6 @@
         "bitops",
         "digest",
         "base64enc",
-        "formatR",
         "farver",
         "labeling",
         "munsell",
@@ -48170,8 +47859,7 @@
         "ellipsis",
         "purrr",
         "sys",
-        "assertthat",
-        "formatR"
+        "assertthat"
     ],
     "fgga": [
         "RBGL",
@@ -48286,7 +47974,6 @@
         "magrittr",
         "pillar",
         "pkgconfig",
-        "formatR",
         "colorspace",
         "utf8"
     ],
@@ -48315,8 +48002,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "FindIT2": [
         "GenomicRanges",
@@ -48426,7 +48112,6 @@
         "mime",
         "openssl",
         "png",
-        "formatR",
         "cachem",
         "colorspace",
         "fastmap",
@@ -48631,7 +48316,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "nlme",
         "colorspace",
         "stringi",
@@ -48849,7 +48533,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -49053,7 +48736,6 @@
         "labeling",
         "munsell",
         "pkgconfig",
-        "formatR",
         "nlme",
         "Matrix",
         "colorspace",
@@ -49901,7 +49583,6 @@
         "stringi",
         "pillar",
         "pkgconfig",
-        "formatR",
         "colorspace",
         "utf8"
     ],
@@ -50382,7 +50063,6 @@
         "zoo",
         "dtt",
         "fastmap",
-        "formatR",
         "future.apply",
         "numDeriv",
         "progressr",
@@ -50606,7 +50286,6 @@
         "bit",
         "gridExtra",
         "annotate",
-        "formatR",
         "cachem",
         "askpass",
         "rjson",
@@ -50898,7 +50577,6 @@
         "mvtnorm",
         "plot3D",
         "pracma",
-        "formatR",
         "gtable",
         "isoband",
         "scales",
@@ -51025,7 +50703,6 @@
         "jsonlite",
         "mime",
         "png",
-        "formatR",
         "askpass",
         "utf8",
         "bit64",
@@ -51270,8 +50947,7 @@
         "fastmap",
         "assertthat",
         "purrr",
-        "ellipsis",
-        "formatR"
+        "ellipsis"
     ],
     "GA4GHshiny": [
         "GA4GHclient",
@@ -51384,8 +51060,7 @@
         "assertthat",
         "lattice",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "gaga": [
         "Biobase",
@@ -51678,7 +51353,6 @@
         "prodlim",
         "highr",
         "xfun",
-        "formatR",
         "broom",
         "later",
         "SparseM",
@@ -51829,8 +51503,7 @@
         "futile.options",
         "lattice",
         "rjson",
-        "yaml",
-        "formatR"
+        "yaml"
     ],
     "gcatest": [
         "lfa",
@@ -52234,7 +51907,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "colorspace",
         "askpass",
         "utf8",
@@ -52512,7 +52184,6 @@
         "ellipsis",
         "askpass",
         "sys",
-        "formatR",
         "utf8"
     ],
     "GeneAccord": [
@@ -52735,7 +52406,6 @@
         "matrixStats",
         "askpass",
         "sys",
-        "formatR",
         "utf8"
     ],
     "GeneBreak": [
@@ -52778,8 +52448,7 @@
         "listenv",
         "parallelly",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "geneClassifiers": [
         "Biobase",
@@ -53050,7 +52719,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "colorspace",
         "testthat",
         "utf8",
@@ -53294,7 +52962,6 @@
         "bit",
         "vctrs",
         "operator.tools",
-        "formatR",
         "cachem",
         "nlme",
         "broom",
@@ -53464,7 +53131,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "nlme",
         "utf8"
     ],
@@ -53642,8 +53308,7 @@
         "askpass",
         "bitops",
         "zlibbioc",
-        "sys",
-        "formatR"
+        "sys"
     ],
     "geneXtendeR": [
         "rtracklayer",
@@ -53747,8 +53412,7 @@
         "askpass",
         "fs",
         "rappdirs",
-        "sys",
-        "formatR"
+        "sys"
     ],
     "GENIE3": [
         "reshape2",
@@ -53854,8 +53518,7 @@
         "lattice",
         "colorspace",
         "utf8",
-        "prettyunits",
-        "formatR"
+        "prettyunits"
     ],
     "GenomAutomorphism": [
         "Biostrings",
@@ -53896,8 +53559,7 @@
         "bitops",
         "pkgconfig",
         "withr",
-        "zlibbioc",
-        "formatR"
+        "zlibbioc"
     ],
     "GenomeInfoDb": [
         "BiocGenerics",
@@ -53976,8 +53638,7 @@
         "lambda.r",
         "futile.options",
         "lattice",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "GenomicDataCommons": [
         "magrittr",
@@ -54166,8 +53827,7 @@
         "futile.options",
         "lattice",
         "matrixStats",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "GenomicFiles": [
         "BiocGenerics",
@@ -54222,7 +53882,6 @@
         "rappdirs",
         "xml2",
         "png",
-        "formatR",
         "bit64",
         "blob",
         "memoise",
@@ -54376,8 +54035,7 @@
         "futile.options",
         "lattice",
         "matrixStats",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "GenomicInteractions": [
         "InteractionSet",
@@ -54509,7 +54167,6 @@
         "htmlwidgets",
         "rstudioapi",
         "fastmap",
-        "formatR",
         "cachem",
         "askpass",
         "sys",
@@ -54666,8 +54323,7 @@
         "evaluate",
         "highr",
         "xfun",
-        "cachem",
-        "formatR"
+        "cachem"
     ],
     "GenomicRanges": [
         "BiocGenerics",
@@ -55012,7 +54668,6 @@
         "rappdirs",
         "xml2",
         "png",
-        "formatR",
         "lattice",
         "colorspace",
         "utf8",
@@ -55288,8 +54943,7 @@
         "rjson",
         "yaml",
         "sys",
-        "fastmap",
-        "formatR"
+        "fastmap"
     ],
     "GeoDiff": [
         "Biobase",
@@ -56233,7 +55887,6 @@
         "cachem",
         "utf8",
         "assertthat",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -56575,8 +56228,7 @@
         "cachem",
         "askpass",
         "sys",
-        "fastmap",
-        "formatR"
+        "fastmap"
     ],
     "ggtree": [
         "ape",
@@ -56771,7 +56423,6 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "matrixStats"
     ],
     "GISPA": [
@@ -57035,7 +56686,6 @@
         "openssl",
         "png",
         "Biostrings",
-        "formatR",
         "colorspace",
         "utf8",
         "bit64",
@@ -57173,7 +56823,6 @@
         "rstatix",
         "gridtext",
         "pkgconfig",
-        "formatR",
         "matrixStats",
         "exactRankTests",
         "mvtnorm",
@@ -57428,7 +57077,6 @@
         "openssl",
         "R6",
         "png",
-        "formatR",
         "lattice",
         "cachem",
         "hms",
@@ -57693,7 +57341,6 @@
         "withr",
         "generics",
         "ellipsis",
-        "formatR",
         "askpass",
         "sys",
         "utf8"
@@ -58187,7 +57834,6 @@
         "futile.options",
         "ellipsis",
         "matrixStats",
-        "formatR",
         "utf8"
     ],
     "GOSim": [
@@ -58364,7 +58010,6 @@
         "fastmap",
         "RCurl",
         "GenomeInfoDbData",
-        "formatR",
         "colorspace",
         "askpass",
         "zlibbioc",
@@ -58600,8 +58245,7 @@
         "colorspace",
         "utf8",
         "MatrixGenerics",
-        "DelayedArray",
-        "formatR"
+        "DelayedArray"
     ],
     "goTools": [
         "GO.db",
@@ -58870,7 +58514,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "nlme",
         "utf8",
         "bitops",
@@ -59180,8 +58823,7 @@
         "rjson",
         "yaml",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "GRmetrics": [
         "SummarizedExperiment",
@@ -59336,8 +58978,7 @@
         "lambda.r",
         "futile.options",
         "lattice",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "GRridge": [
         "penalized",
@@ -59490,7 +59131,6 @@
         "waldo",
         "withr",
         "rprojroot",
-        "formatR",
         "crayon",
         "fs",
         "bitops",
@@ -59643,7 +59283,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "formatR",
         "cachem",
         "askpass",
         "utf8",
@@ -59808,7 +59447,6 @@
         "generics",
         "ellipsis",
         "Biostrings",
-        "formatR",
         "colorspace",
         "utf8",
         "bit64",
@@ -59932,8 +59570,7 @@
         "futile.options",
         "lattice",
         "matrixStats",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "GSRI": [
         "fdrtool",
@@ -60046,7 +59683,6 @@
         "R6",
         "png",
         "Biostrings",
-        "formatR",
         "bitops",
         "bit64",
         "blob",
@@ -60237,7 +59873,6 @@
         "whisker",
         "fastmap",
         "assertthat",
-        "formatR",
         "askpass",
         "ps",
         "backports",
@@ -60346,8 +59981,7 @@
         "ellipsis",
         "matrixStats",
         "askpass",
-        "sys",
-        "formatR"
+        "sys"
     ],
     "Gviz": [
         "S4Vectors",
@@ -60481,7 +60115,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "nlme",
         "utf8"
     ],
@@ -60682,7 +60315,6 @@
         "lambda.r",
         "futile.options",
         "base64enc",
-        "formatR",
         "fs"
     ],
     "GWASTools": [
@@ -60864,7 +60496,6 @@
         "gtable",
         "isoband",
         "scales",
-        "formatR",
         "askpass",
         "utf8",
         "sys",
@@ -61074,7 +60705,6 @@
         "magrittr",
         "pillar",
         "bit",
-        "formatR",
         "lattice",
         "cachem",
         "colorspace",
@@ -61326,7 +60956,6 @@
         "withr",
         "generics",
         "ellipsis",
-        "formatR",
         "askpass",
         "sys",
         "utf8"
@@ -61460,7 +61089,6 @@
         "plogr",
         "sys",
         "bit",
-        "formatR",
         "cachem",
         "fastmap"
     ],
@@ -61584,8 +61212,7 @@
         "Biobase",
         "DelayedArray",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "HIBAG": [
         "RcppParallel"
@@ -61662,7 +61289,6 @@
         "progress",
         "zlibbioc",
         "bit",
-        "formatR",
         "lattice",
         "prettyunits"
     ],
@@ -61747,7 +61373,6 @@
         "digest",
         "listenv",
         "parallelly",
-        "formatR",
         "limma",
         "colorspace"
     ],
@@ -61891,7 +61516,6 @@
         "htmlwidgets",
         "rstudioapi",
         "fastmap",
-        "formatR",
         "cachem",
         "askpass",
         "sys",
@@ -62017,7 +61641,6 @@
         "lme4",
         "base64enc",
         "yaml",
-        "formatR",
         "colorspace",
         "utf8",
         "CGHbase",
@@ -62234,7 +61857,6 @@
         "knitr",
         "checkmate",
         "rstudioapi",
-        "formatR",
         "backports",
         "evaluate",
         "highr",
@@ -62407,8 +62029,7 @@
         "DelayedArray",
         "sys",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "hipathia": [
         "igraph",
@@ -62655,7 +62276,6 @@
         "DelayedArray",
         "pkgconfig",
         "ellipsis",
-        "formatR",
         "lattice",
         "nlme",
         "colorspace",
@@ -62707,8 +62327,7 @@
         "DelayedArray",
         "lambda.r",
         "futile.options",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "hmdbQuery": [
         "XML",
@@ -63008,7 +62627,6 @@
         "R6",
         "deldir",
         "RcppEigen",
-        "formatR",
         "cachem",
         "hms",
         "prettyunits",
@@ -63081,7 +62699,6 @@
         "KEGGREST",
         "RCurl",
         "GenomeInfoDbData",
-        "formatR",
         "nlme",
         "farver",
         "labeling",
@@ -63397,7 +63014,6 @@
         "XVector",
         "lattice",
         "matrixStats",
-        "formatR",
         "bitops",
         "zlibbioc"
     ],
@@ -63653,7 +63269,6 @@
         "openssl",
         "deldir",
         "RcppEigen",
-        "formatR",
         "cachem",
         "colorspace",
         "utf8",
@@ -63835,8 +63450,7 @@
         "R.methodsS3",
         "clipr",
         "vroom",
-        "tzdb",
-        "formatR"
+        "tzdb"
     ],
     "iChip": [
         "limma"
@@ -63915,7 +63529,6 @@
         "BiocIO",
         "restfulr",
         "SummarizedExperiment",
-        "formatR",
         "rjson",
         "yaml",
         "MatrixGenerics",
@@ -64178,7 +63791,6 @@
         "processx",
         "iterators",
         "BiocIO",
-        "formatR",
         "askpass",
         "hms",
         "prettyunits",
@@ -64228,8 +63840,7 @@
         "lambda.r",
         "futile.options",
         "lattice",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "idiogram": [
         "Biobase",
@@ -64367,7 +63978,6 @@
         "viridisLite",
         "stringi",
         "rprojroot",
-        "formatR",
         "lattice",
         "nlme",
         "colorspace",
@@ -64526,7 +64136,6 @@
         "filelock",
         "bit",
         "vctrs",
-        "formatR",
         "cachem",
         "hms",
         "prettyunits",
@@ -64864,7 +64473,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "matrixStats",
         "cachem",
         "colorspace",
@@ -65058,7 +64666,6 @@
         "proxy",
         "limma",
         "openssl",
-        "formatR",
         "colorspace",
         "R.oo",
         "R.methodsS3",
@@ -65536,7 +65143,6 @@
         "curl",
         "mime",
         "openssl",
-        "formatR",
         "zoo",
         "htmltools",
         "TH.data",
@@ -65762,8 +65368,7 @@
         "lambda.r",
         "futile.options",
         "askpass",
-        "sys",
-        "formatR"
+        "sys"
     ],
     "INPower": [
         "mvtnorm"
@@ -65877,7 +65482,6 @@
         "bit",
         "openssl",
         "png",
-        "formatR",
         "nlme",
         "hms",
         "prettyunits",
@@ -66003,7 +65607,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "testthat",
         "brio",
         "callr",
@@ -66163,7 +65766,6 @@
         "cachem",
         "utf8",
         "assertthat",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -66727,7 +66329,6 @@
         "openssl",
         "R6",
         "png",
-        "formatR",
         "cachem",
         "hms",
         "prettyunits",
@@ -66902,7 +66503,6 @@
         "Rcpp",
         "deldir",
         "RcppEigen",
-        "formatR",
         "colorspace",
         "MatrixGenerics",
         "DelayedArray",
@@ -67015,7 +66615,6 @@
         "highr",
         "yaml",
         "xfun",
-        "formatR",
         "colorspace",
         "utf8",
         "stringi",
@@ -67214,7 +66813,6 @@
         "htmlwidgets",
         "rstudioapi",
         "fastmap",
-        "formatR",
         "png",
         "jpeg",
         "interp",
@@ -67508,7 +67106,6 @@
         "sys",
         "bitops",
         "gridGraphics",
-        "formatR",
         "boot",
         "minqa",
         "nloptr",
@@ -68069,7 +67666,6 @@
         "GenomeInfoDbData",
         "XVector",
         "matrixStats",
-        "formatR",
         "bitops",
         "zlibbioc"
     ],
@@ -68335,7 +67931,6 @@
         "survival",
         "lattice",
         "ellipsis",
-        "formatR",
         "nlme",
         "utf8",
         "rjson",
@@ -68514,7 +68109,6 @@
         "openssl",
         "cachem",
         "fastmap",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -68699,7 +68293,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "cachem",
         "colorspace",
         "utf8",
@@ -69064,7 +68657,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "nlme",
         "askpass",
         "sys",
@@ -69169,7 +68761,6 @@
         "digest",
         "BiocFileCache",
         "rappdirs",
-        "formatR",
         "xfun",
         "mime",
         "colorspace",
@@ -69381,7 +68972,6 @@
         "bit",
         "rlang",
         "vctrs",
-        "formatR",
         "cachem",
         "fastmap",
         "cli",
@@ -69551,7 +69141,6 @@
         "curl",
         "openssl",
         "png",
-        "formatR",
         "boot",
         "minqa",
         "nloptr",
@@ -69729,7 +69318,6 @@
         "fs",
         "rappdirs",
         "Biostrings",
-        "formatR",
         "KernSmooth",
         "lava",
         "bit64",
@@ -70210,7 +69798,6 @@
         "stringi",
         "pillar",
         "pkgconfig",
-        "formatR",
         "utf8",
         "zlibbioc"
     ],
@@ -70303,7 +69890,6 @@
         "withr",
         "generics",
         "ellipsis",
-        "formatR",
         "utf8"
     ],
     "LinkHD": [
@@ -70686,7 +70272,6 @@
         "calibrate",
         "bitops",
         "zlibbioc",
-        "formatR",
         "askpass",
         "zoo",
         "sys"
@@ -70885,7 +70470,6 @@
         "rhdf5filters",
         "mime",
         "openssl",
-        "formatR",
         "colorspace",
         "testthat",
         "R.oo",
@@ -71033,7 +70617,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "nlme",
         "colorspace",
         "bitops",
@@ -71073,7 +70656,6 @@
         "rlang",
         "viridisLite",
         "zlibbioc",
-        "formatR",
         "cli",
         "colorspace",
         "bitops"
@@ -71272,7 +70854,6 @@
         "biomaRt",
         "base64enc",
         "fastmap",
-        "formatR",
         "lattice",
         "nlme",
         "utf8",
@@ -71431,7 +71012,6 @@
         "promises",
         "png",
         "Biostrings",
-        "formatR",
         "lattice",
         "cachem",
         "colorspace",
@@ -71607,8 +71187,7 @@
         "R.methodsS3",
         "clipr",
         "vroom",
-        "tzdb",
-        "formatR"
+        "tzdb"
     ],
     "LymphoSeq": [
         "LymphoSeqDB",
@@ -71688,7 +71267,6 @@
         "jsonlite",
         "zlibbioc",
         "gridGraphics",
-        "formatR",
         "bitops"
     ],
     "M3C": [
@@ -71977,7 +71555,6 @@
         "lazyeval",
         "digest",
         "base64enc",
-        "formatR",
         "colorspace",
         "KernSmooth",
         "lava",
@@ -72269,7 +71846,6 @@
         "httr",
         "png",
         "Biostrings",
-        "formatR",
         "jpeg",
         "interp",
         "testthat",
@@ -72655,7 +72231,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "cachem",
         "hms",
         "prettyunits",
@@ -72859,8 +72434,7 @@
         "Rhtslib",
         "ellipsis",
         "purrr",
-        "assertthat",
-        "formatR"
+        "assertthat"
     ],
     "MAGeCKFlute": [
         "Biobase",
@@ -73002,7 +72576,6 @@
         "jquerylib",
         "promises",
         "GenomeInfoDbData",
-        "formatR",
         "cachem",
         "askpass",
         "httpuv",
@@ -73026,8 +72599,7 @@
         "BH",
         "cpp11",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "MAI": [
         "caret",
@@ -73354,7 +72926,6 @@
         "RcppEigen",
         "evaluate",
         "haven",
-        "formatR",
         "colorspace",
         "utf8",
         "lava",
@@ -73813,8 +73384,7 @@
         "backports",
         "evaluate",
         "highr",
-        "xfun",
-        "formatR"
+        "xfun"
     ],
     "maSigPro": [
         "Biobase",
@@ -74157,7 +73727,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "nlme",
         "Matrix",
         "farver",
@@ -74195,8 +73764,7 @@
         "cpp11",
         "lattice",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "MBAmethyl": [],
     "MBASED": [
@@ -74225,7 +73793,6 @@
         "lattice",
         "matrixStats",
         "zlibbioc",
-        "formatR",
         "bitops"
     ],
     "MBCB": [
@@ -74364,7 +73931,6 @@
         "mime",
         "openssl",
         "png",
-        "formatR",
         "bitops",
         "bit64",
         "blob",
@@ -74438,7 +74004,6 @@
         "matrixStats",
         "stringi",
         "pkgconfig",
-        "formatR",
         "nlme",
         "askpass",
         "utf8",
@@ -74859,7 +74424,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "jpeg",
         "interp",
         "cachem",
@@ -75023,7 +74587,6 @@
         "checkmate",
         "htmlwidgets",
         "rstudioapi",
-        "formatR",
         "backports",
         "evaluate",
         "highr",
@@ -75095,8 +74658,7 @@
         "lambda.r",
         "futile.options",
         "lattice",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "MEAL": [
         "Biobase",
@@ -75292,7 +74854,6 @@
         "htmlwidgets",
         "rstudioapi",
         "fastmap",
-        "formatR",
         "cachem",
         "askpass",
         "sys",
@@ -75453,7 +75014,6 @@
         "jsonlite",
         "mime",
         "png",
-        "formatR",
         "cachem",
         "colorspace",
         "askpass",
@@ -75581,7 +75141,6 @@
         "DelayedArray",
         "sys",
         "bit",
-        "formatR",
         "cachem",
         "utf8",
         "fastmap"
@@ -76201,7 +75760,6 @@
         "RCurl",
         "GenomeInfoDbData",
         "base64enc",
-        "formatR",
         "colorspace",
         "zlibbioc",
         "bitops",
@@ -76487,7 +76045,6 @@
         "R6",
         "viridisLite",
         "limma",
-        "formatR",
         "nlme",
         "colorspace",
         "bitops",
@@ -76671,7 +76228,6 @@
         "curl",
         "mime",
         "openssl",
-        "formatR",
         "cachem",
         "utf8",
         "later",
@@ -76797,7 +76353,6 @@
         "magrittr",
         "pillar",
         "pkgconfig",
-        "formatR",
         "lattice",
         "colorspace",
         "utf8"
@@ -76983,7 +76538,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "formatR",
         "fs",
         "diffobj",
         "rematch2"
@@ -77198,7 +76752,6 @@
         "mime",
         "openssl",
         "png",
-        "formatR",
         "lattice",
         "cachem",
         "colorspace",
@@ -77281,7 +76834,6 @@
         "Biobase",
         "DelayedArray",
         "pkgconfig",
-        "formatR",
         "lattice",
         "matrixStats",
         "colorspace"
@@ -77421,7 +76973,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "nlme",
         "colorspace",
         "bitops",
@@ -77644,7 +77195,6 @@
         "future",
         "globals",
         "GenomeInfoDbData",
-        "formatR",
         "zlibbioc",
         "listenv",
         "parallelly"
@@ -77701,7 +77251,6 @@
         "pillar",
         "pkgconfig",
         "gridExtra",
-        "formatR",
         "colorspace",
         "utf8"
     ],
@@ -77910,7 +77459,6 @@
         "Rhdf5lib",
         "ellipsis",
         "png",
-        "formatR",
         "jpeg",
         "interp",
         "future.apply",
@@ -78079,8 +77627,7 @@
         "generics",
         "lambda.r",
         "futile.options",
-        "ellipsis",
-        "formatR"
+        "ellipsis"
     ],
     "MetaVolcanoR": [
         "data.table",
@@ -78238,8 +77785,7 @@
         "futile.options",
         "lattice",
         "utf8",
-        "rappdirs",
-        "formatR"
+        "rappdirs"
     ],
     "MethCP": [
         "S4Vectors",
@@ -78327,7 +77873,6 @@
         "tibble",
         "vctrs",
         "withr",
-        "formatR",
         "colorspace",
         "stringr",
         "rjson",
@@ -78468,7 +78013,6 @@
         "DelayedArray",
         "pillar",
         "pkgconfig",
-        "formatR",
         "matrixStats",
         "colorspace",
         "utf8"
@@ -78621,7 +78165,6 @@
         "lazyeval",
         "digest",
         "base64enc",
-        "formatR",
         "boot",
         "minqa",
         "nloptr",
@@ -78717,8 +78260,7 @@
         "colorspace",
         "utf8",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "MethTargetedNGS": [
         "stringr",
@@ -78868,7 +78410,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "formatR",
         "colorspace",
         "utf8",
         "R.oo",
@@ -79042,7 +78583,6 @@
         "dbplyr",
         "filelock",
         "bit",
-        "formatR",
         "cachem",
         "askpass",
         "prettyunits",
@@ -79314,7 +78854,6 @@
         "bit",
         "crosstalk",
         "png",
-        "formatR",
         "minqa",
         "nloptr",
         "RcppEigen",
@@ -79495,7 +79034,6 @@
         "Rhdf5lib",
         "openssl",
         "base64",
-        "formatR",
         "colorspace",
         "utf8",
         "fs",
@@ -79613,7 +79151,6 @@
         "mvtnorm",
         "crayon",
         "SummarizedExperiment",
-        "formatR",
         "colorspace",
         "utf8",
         "stringr",
@@ -79703,7 +79240,6 @@
         "DelayedArray",
         "pillar",
         "pkgconfig",
-        "formatR",
         "matrixStats",
         "colorspace",
         "utf8"
@@ -79890,7 +79426,6 @@
         "htmlwidgets",
         "rstudioapi",
         "fastmap",
-        "formatR",
         "cachem",
         "colorspace",
         "askpass",
@@ -79984,7 +79519,6 @@
         "foreach",
         "zlibbioc",
         "iterators",
-        "formatR",
         "utf8",
         "bitops",
         "rappdirs"
@@ -80057,7 +79591,6 @@
         "askpass",
         "sys",
         "fastmap",
-        "formatR",
         "cli",
         "lifecycle"
     ],
@@ -80126,7 +79659,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "formatR",
         "rjson",
         "yaml"
     ],
@@ -80273,8 +79805,7 @@
         "purrr",
         "sys",
         "fastmap",
-        "assertthat",
-        "formatR"
+        "assertthat"
     ],
     "MetID": [
         "devtools",
@@ -80465,7 +79996,6 @@
         "munsell",
         "RColorBrewer",
         "viridisLite",
-        "formatR",
         "colorspace",
         "bitops",
         "stringi",
@@ -80766,7 +80296,6 @@
         "zlibbioc",
         "bit",
         "sitmo",
-        "formatR",
         "cachem",
         "systemfonts",
         "textshaping",
@@ -80837,7 +80366,6 @@
         "tidyr",
         "yulab.utils",
         "zlibbioc",
-        "formatR",
         "ellipsis",
         "purrr"
     ],
@@ -80965,7 +80493,6 @@
         "cluster",
         "sitmo",
         "gridGraphics",
-        "formatR",
         "colorspace",
         "textshaping",
         "bitops",
@@ -81327,7 +80854,6 @@
         "sys",
         "png",
         "Biostrings",
-        "formatR",
         "ps",
         "blob",
         "plogr",
@@ -81566,7 +81092,6 @@
         "curl",
         "openssl",
         "prodlim",
-        "formatR",
         "jpeg",
         "interp",
         "timechange",
@@ -81796,7 +81321,6 @@
         "futile.options",
         "RCurl",
         "GenomeInfoDbData",
-        "formatR",
         "zlibbioc",
         "bitops"
     ],
@@ -82070,7 +81594,6 @@
         "genefilter",
         "png",
         "Biostrings",
-        "formatR",
         "nlme",
         "bit64",
         "blob",
@@ -82191,7 +81714,6 @@
         "munsell",
         "viridisLite",
         "gridExtra",
-        "formatR",
         "colorspace",
         "bitops",
         "zlibbioc"
@@ -82613,8 +82135,7 @@
         "R.methodsS3",
         "clipr",
         "vroom",
-        "tzdb",
-        "formatR"
+        "tzdb"
     ],
     "minet": [],
     "minfi": [
@@ -82724,7 +82245,6 @@
         "jsonlite",
         "mime",
         "png",
-        "formatR",
         "askpass",
         "utf8",
         "bit64",
@@ -82822,8 +82342,7 @@
         "yaml",
         "sys",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "MiPP": [
         "Biobase",
@@ -82957,7 +82476,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "formatR",
         "rjson",
         "yaml"
     ],
@@ -83691,7 +83209,6 @@
         "rematch",
         "gridGraphics",
         "prodlim",
-        "formatR",
         "testthat",
         "tinytex",
         "lazyeval",
@@ -83949,7 +83466,6 @@
         "highr",
         "yaml",
         "xfun",
-        "formatR",
         "cachem",
         "testthat",
         "askpass",
@@ -84180,7 +83696,6 @@
         "dbplyr",
         "filelock",
         "fastmap",
-        "formatR",
         "askpass",
         "utf8",
         "prettyunits",
@@ -84536,7 +84051,6 @@
         "tidyselect",
         "generics",
         "ellipsis",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -84594,7 +84108,6 @@
         "munsell",
         "viridisLite",
         "stringi",
-        "formatR",
         "colorspace"
     ],
     "MLInterfaces": [
@@ -84860,7 +84373,6 @@
         "rpart",
         "nnet",
         "prodlim",
-        "formatR",
         "timechange",
         "colorspace",
         "utf8",
@@ -84974,7 +84486,6 @@
         "yaml",
         "fs",
         "rappdirs",
-        "formatR",
         "MatrixGenerics",
         "DelayedArray"
     ],
@@ -85358,7 +84869,6 @@
         "magrittr",
         "pillar",
         "pkgconfig",
-        "formatR",
         "utf8",
         "bitops"
     ],
@@ -85609,7 +85119,6 @@
         "digest",
         "lattice",
         "bitops",
-        "formatR",
         "askpass",
         "htmltools",
         "pillar",
@@ -85862,7 +85371,6 @@
         "scales",
         "tibble",
         "withr",
-        "formatR",
         "cachem",
         "pracma",
         "R.oo",
@@ -86132,7 +85640,6 @@
         "RcppEigen",
         "gridGraphics",
         "RcppArmadillo",
-        "formatR",
         "cachem",
         "lazyeval",
         "gridExtra"
@@ -86169,8 +85676,7 @@
         "DelayedArray",
         "lambda.r",
         "futile.options",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "mosbi": [
         "Rcpp",
@@ -86316,8 +85822,7 @@
         "lambda.r",
         "futile.options",
         "rjson",
-        "yaml",
-        "formatR"
+        "yaml"
     ],
     "motifbreakR": [
         "MotifDb",
@@ -86442,7 +85947,6 @@
         "R6",
         "deldir",
         "RcppEigen",
-        "formatR",
         "nlme",
         "hms",
         "prettyunits",
@@ -86534,8 +86038,7 @@
         "lambda.r",
         "futile.options",
         "lattice",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "motifmatchr": [
         "Matrix",
@@ -86632,7 +86135,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "nlme",
         "farver",
         "labeling",
@@ -86759,7 +86261,6 @@
         "curl",
         "mime",
         "openssl",
-        "formatR",
         "stringi",
         "MatrixGenerics",
         "DelayedArray",
@@ -86924,7 +86425,6 @@
         "vctrs",
         "lattice",
         "matrixStats",
-        "formatR",
         "cli",
         "bitops",
         "zlibbioc"
@@ -87124,8 +86624,7 @@
         "fs",
         "cluster",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "MsBackendMgf": [
         "Spectra",
@@ -87146,8 +86645,7 @@
         "fs",
         "cluster",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "MsBackendMsp": [
         "Spectra",
@@ -87168,8 +86666,7 @@
         "fs",
         "cluster",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "MsBackendRawFileReader": [
         "Spectra",
@@ -87191,8 +86688,7 @@
         "fs",
         "cluster",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "MsCoreUtils": [
         "S4Vectors",
@@ -87284,7 +86780,6 @@
         "munsell",
         "ellipsis",
         "zlibbioc",
-        "formatR",
         "nlme",
         "colorspace",
         "askpass",
@@ -87471,7 +86966,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -87551,7 +87045,6 @@
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
-        "formatR",
         "bitops",
         "zlibbioc"
     ],
@@ -87680,7 +87173,6 @@
         "magrittr",
         "pillar",
         "pkgconfig",
-        "formatR",
         "utf8"
     ],
     "msmsTests": [
@@ -87759,7 +87251,6 @@
         "stringi",
         "pillar",
         "pkgconfig",
-        "formatR",
         "utf8"
     ],
     "MSnbase": [
@@ -87825,7 +87316,6 @@
         "magrittr",
         "pillar",
         "pkgconfig",
-        "formatR",
         "utf8"
     ],
     "MSnID": [
@@ -87975,7 +87465,6 @@
         "ellipsis",
         "sys",
         "lazyeval",
-        "formatR",
         "fs"
     ],
     "MSPrep": [
@@ -88100,7 +87589,6 @@
         "highr",
         "yaml",
         "xfun",
-        "formatR",
         "testthat",
         "bit64",
         "blob",
@@ -88269,7 +87757,6 @@
         "curl",
         "mime",
         "openssl",
-        "formatR",
         "later",
         "bitops",
         "farver",
@@ -88783,7 +88270,6 @@
         "askpass",
         "stringi",
         "sys",
-        "formatR",
         "fs",
         "rappdirs"
     ],
@@ -88902,8 +88388,7 @@
         "cluster",
         "lambda.r",
         "futile.options",
-        "stringi",
-        "formatR"
+        "stringi"
     ],
     "MSstatsSampleSize": [
         "ggplot2",
@@ -88991,7 +88476,6 @@
         "rpart",
         "nnet",
         "prodlim",
-        "formatR",
         "timechange",
         "colorspace",
         "testthat",
@@ -89641,8 +89125,7 @@
         "backports",
         "sys",
         "deldir",
-        "RcppEigen",
-        "formatR"
+        "RcppEigen"
     ],
     "MultiDataSet": [
         "Biobase",
@@ -89787,7 +89270,6 @@
         "fastmap",
         "RCurl",
         "GenomeInfoDbData",
-        "formatR",
         "colorspace",
         "SparseM",
         "MatrixModels",
@@ -89874,7 +89356,6 @@
         "snowfall",
         "future",
         "globals",
-        "formatR",
         "colorspace",
         "R.oo",
         "R.methodsS3",
@@ -90224,7 +89705,6 @@
         "waldo",
         "zlibbioc",
         "bit",
-        "formatR",
         "colorspace",
         "KernSmooth",
         "lava",
@@ -90306,7 +89786,6 @@
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
-        "formatR",
         "bitops",
         "zlibbioc"
     ],
@@ -90406,8 +89885,7 @@
         "hms",
         "prettyunits",
         "purrr",
-        "ellipsis",
-        "formatR"
+        "ellipsis"
     ],
     "muscat": [
         "BiocParallel",
@@ -90564,7 +90042,6 @@
         "highr",
         "yaml",
         "xfun",
-        "formatR",
         "systemfonts",
         "textshaping",
         "stringi",
@@ -90851,7 +90328,6 @@
         "nloptr",
         "SparseM",
         "MatrixModels",
-        "formatR",
         "testthat",
         "brio",
         "callr",
@@ -90981,7 +90457,6 @@
         "prettyunits",
         "fastmap",
         "assertthat",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -91239,8 +90714,7 @@
         "DelayedArray",
         "lambda.r",
         "futile.options",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "myvariant": [
         "VariantAnnotation",
@@ -91370,8 +90844,7 @@
         "purrr",
         "tidyselect",
         "generics",
-        "ellipsis",
-        "formatR"
+        "ellipsis"
     ],
     "mzID": [
         "XML",
@@ -91584,7 +91057,6 @@
         "DT",
         "deldir",
         "RcppEigen",
-        "formatR",
         "cachem",
         "nlme",
         "askpass",
@@ -91751,7 +91223,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "formatR",
         "askpass",
         "rjson",
         "yaml",
@@ -92087,8 +91558,7 @@
         "lambda.r",
         "futile.options",
         "colorspace",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "NBAMSeq": [
         "SummarizedExperiment",
@@ -92150,7 +91620,6 @@
         "R6",
         "png",
         "Biostrings",
-        "formatR",
         "bitops",
         "bit64",
         "blob",
@@ -92243,7 +91712,6 @@
         "highr",
         "yaml",
         "xfun",
-        "formatR",
         "colorspace",
         "testthat",
         "utf8",
@@ -92341,7 +91809,6 @@
         "tibble",
         "vctrs",
         "withr",
-        "formatR",
         "matrixStats",
         "doParallel",
         "foreach",
@@ -92590,7 +92057,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "cachem",
         "hms",
         "prettyunits",
@@ -92930,7 +92396,6 @@
         "openssl",
         "png",
         "Biostrings",
-        "formatR",
         "colorspace",
         "utf8",
         "bit64",
@@ -93184,7 +92649,6 @@
         "gridExtra",
         "RCurl",
         "GenomeInfoDbData",
-        "formatR",
         "colorspace",
         "askpass",
         "zlibbioc",
@@ -93835,7 +93299,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "utf8",
         "hms",
         "prettyunits",
@@ -94042,7 +93505,6 @@
         "rtracklayer",
         "R.oo",
         "R.methodsS3",
-        "formatR",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -94139,8 +93601,7 @@
         "lambda.r",
         "futile.options",
         "bitops",
-        "zlibbioc",
-        "formatR"
+        "zlibbioc"
     ],
     "ngsReports": [
         "BiocGenerics",
@@ -94324,7 +93785,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "R.oo",
         "R.methodsS3",
         "bitops",
@@ -94517,8 +93977,7 @@
         "askpass",
         "sys",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "normalize450K": [
         "Biobase",
@@ -94775,8 +94234,7 @@
         "lattice",
         "matrixStats",
         "colorspace",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "NPARC": [
         "dplyr",
@@ -94814,7 +94272,6 @@
         "utf8",
         "stringi",
         "pkgconfig",
-        "formatR",
         "nlme",
         "Matrix",
         "farver",
@@ -94944,7 +94401,6 @@
         "colorspace",
         "MatrixGenerics",
         "DelayedArray",
-        "formatR",
         "matrixStats"
     ],
     "nuCpos": [],
@@ -95031,8 +94487,7 @@
         "rjson",
         "yaml",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "NuPoP": [],
     "NxtIRFcore": [
@@ -95158,7 +94613,6 @@
         "bit",
         "jquerylib",
         "png",
-        "formatR",
         "cachem",
         "colorspace",
         "askpass",
@@ -95351,7 +94805,6 @@
         "sass",
         "deldir",
         "RcppEigen",
-        "formatR",
         "rjson",
         "fs"
     ],
@@ -95547,7 +95000,6 @@
         "deldir",
         "RcppEigen",
         "highr",
-        "formatR",
         "boot",
         "minqa",
         "nloptr",
@@ -95739,8 +95191,7 @@
         "backports",
         "evaluate",
         "highr",
-        "xfun",
-        "formatR"
+        "xfun"
     ],
     "oligo": [
         "BiocGenerics",
@@ -96159,7 +95610,6 @@
         "fs",
         "rappdirs",
         "zlibbioc",
-        "formatR",
         "bitops"
     ],
     "omicRexposome": [
@@ -96338,7 +95788,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "later",
         "SparseM",
         "MatrixModels",
@@ -96415,7 +95864,6 @@
         "magrittr",
         "pillar",
         "pkgconfig",
-        "formatR",
         "colorspace",
         "utf8",
         "bitops",
@@ -96621,7 +96069,6 @@
         "hms",
         "prettyunits",
         "assertthat",
-        "formatR",
         "brio",
         "desc",
         "pkgload",
@@ -96826,7 +96273,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "formatR",
         "boot",
         "minqa",
         "nloptr",
@@ -97954,7 +97400,6 @@
         "bit",
         "rlang",
         "vctrs",
-        "formatR",
         "cachem",
         "askpass",
         "bitops",
@@ -98242,8 +97687,7 @@
         "DelayedArray",
         "lambda.r",
         "futile.options",
-        "lattice",
-        "formatR"
+        "lattice"
     ],
     "ORFik": [
         "IRanges",
@@ -98366,7 +97810,6 @@
         "bit",
         "assertthat",
         "ellipsis",
-        "formatR",
         "cachem",
         "colorspace",
         "utf8",
@@ -98460,8 +97903,7 @@
         "lambda.r",
         "futile.options",
         "lattice",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "OrganismDbi": [
         "BiocGenerics",
@@ -98552,8 +97994,7 @@
         "futile.options",
         "lattice",
         "matrixStats",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "orthogene": [
         "dplyr",
@@ -98737,7 +98178,6 @@
         "rematch2",
         "tibble",
         "bitops",
-        "formatR",
         "lattice",
         "pillar",
         "pkgconfig",
@@ -98790,7 +98230,6 @@
         "RcppEigen",
         "MatrixGenerics",
         "DelayedArray",
-        "formatR",
         "matrixStats"
     ],
     "OUTRIDER": [
@@ -98924,7 +98363,6 @@
         "bit",
         "processx",
         "png",
-        "formatR",
         "cachem",
         "askpass",
         "utf8",
@@ -98964,7 +98402,6 @@
         "XVector",
         "lattice",
         "matrixStats",
-        "formatR",
         "bitops",
         "zlibbioc"
     ],
@@ -99024,7 +98461,6 @@
         "R6",
         "png",
         "Biostrings",
-        "formatR",
         "bit64",
         "blob",
         "memoise",
@@ -99334,7 +98770,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "nlme",
         "farver",
         "labeling",
@@ -99397,7 +98832,6 @@
         "waldo",
         "withr",
         "rprojroot",
-        "formatR",
         "crayon",
         "fs",
         "bitops",
@@ -99520,8 +98954,7 @@
         "cpp11",
         "crayon",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "PanomiR": [
         "clusterProfiler",
@@ -99670,7 +99103,6 @@
         "fastmap",
         "RCurl",
         "GenomeInfoDbData",
-        "formatR",
         "colorspace",
         "zlibbioc",
         "bitops"
@@ -99729,7 +99161,6 @@
         "curl",
         "mime",
         "openssl",
-        "formatR",
         "cli",
         "lattice",
         "utf8",
@@ -99872,7 +99303,6 @@
         "curl",
         "mime",
         "openssl",
-        "formatR",
         "cachem",
         "fastmap",
         "RCurl",
@@ -99987,8 +99417,7 @@
         "DelayedArray",
         "lambda.r",
         "futile.options",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "Path2PPI": [
         "igraph",
@@ -100201,7 +99630,6 @@
         "diffobj",
         "rematch2",
         "zlibbioc",
-        "formatR",
         "bit64",
         "blob",
         "plogr",
@@ -100546,7 +99974,6 @@
         "bitops",
         "fs",
         "sys",
-        "formatR",
         "ps"
     ],
     "pcaMethods": [
@@ -100563,8 +99990,7 @@
         "BH",
         "cpp11",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "PCAtools": [
         "ggplot2",
@@ -100621,7 +100047,6 @@
         "stringi",
         "pillar",
         "pkgconfig",
-        "formatR",
         "colorspace",
         "utf8"
     ],
@@ -100844,7 +100269,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "future.apply",
         "numDeriv",
         "progressr",
@@ -101105,8 +100529,7 @@
         "cluster",
         "lambda.r",
         "futile.options",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "PECA": [
         "ROTS",
@@ -101279,7 +100702,6 @@
         "R6",
         "pillar",
         "zlibbioc",
-        "formatR",
         "colorspace",
         "utf8"
     ],
@@ -101301,8 +100723,7 @@
         "lattice",
         "iterators",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "PepsNMR": [
         "Matrix",
@@ -101527,7 +100948,6 @@
         "viridisLite",
         "pillar",
         "pkgconfig",
-        "formatR",
         "colorspace",
         "utf8",
         "MatrixGenerics",
@@ -101653,7 +101073,6 @@
         "gridExtra",
         "fastmap",
         "GenomeInfoDbData",
-        "formatR",
         "askpass",
         "zlibbioc",
         "sys"
@@ -101792,7 +101211,6 @@
         "utf8",
         "progress",
         "zlibbioc",
-        "formatR",
         "prettyunits",
         "bitops"
     ],
@@ -101902,7 +101320,6 @@
         "gtools",
         "KernSmooth",
         "yaml",
-        "formatR",
         "limma",
         "colorspace",
         "utf8",
@@ -102043,7 +101460,6 @@
         "XVector",
         "fastmap",
         "mime",
-        "formatR",
         "lattice",
         "matrixStats",
         "nlme",
@@ -103017,7 +102433,6 @@
         "fs",
         "rappdirs",
         "pillar",
-        "formatR",
         "utf8"
     ],
     "pickgene": [
@@ -103053,8 +102468,7 @@
         "lambda.r",
         "futile.options",
         "lattice",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "Pigengene": [
         "graph",
@@ -103224,7 +102638,6 @@
         "backports",
         "gridGraphics",
         "deldir",
-        "formatR",
         "askpass",
         "fs",
         "lazyeval",
@@ -103385,7 +102798,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "nlme",
         "utf8",
         "misc3d"
@@ -103581,7 +102993,6 @@
         "gtools",
         "caTools",
         "rprojroot",
-        "formatR",
         "askpass",
         "systemfonts",
         "textshaping",
@@ -103653,7 +103064,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice"
     ],
     "pkgDepTools": [
@@ -103873,8 +103283,7 @@
         "futile.options",
         "lattice",
         "matrixStats",
-        "colorspace",
-        "formatR"
+        "colorspace"
     ],
     "plotGrouper": [
         "ggplot2",
@@ -104067,8 +103476,7 @@
         "lambda.r",
         "futile.options",
         "lattice",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "pmm": [
         "lme4",
@@ -104283,7 +103691,6 @@
         "SummarizedExperiment",
         "rjson",
         "yaml",
-        "formatR",
         "MatrixGenerics",
         "DelayedArray"
     ],
@@ -104565,7 +103972,6 @@
         "mime",
         "openssl",
         "Biostrings",
-        "formatR",
         "KernSmooth",
         "lava",
         "bit64",
@@ -104909,7 +104315,6 @@
         "XVector",
         "GenomeInfoDb",
         "bit",
-        "formatR",
         "cachem",
         "fastmap",
         "GenomeInfoDbData",
@@ -104967,7 +104372,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice",
         "matrixStats"
     ],
@@ -105068,7 +104472,6 @@
         "viridisLite",
         "stringi",
         "permute",
-        "formatR",
         "colorspace",
         "Rhdf5lib",
         "rhdf5filters",
@@ -105244,8 +104647,7 @@
         "globals",
         "matrixStats",
         "listenv",
-        "parallelly",
-        "formatR"
+        "parallelly"
     ],
     "PREDA": [
         "Biobase",
@@ -105473,7 +104875,6 @@
         "knitr",
         "checkmate",
         "rstudioapi",
-        "formatR",
         "nlme",
         "colorspace",
         "backports",
@@ -105608,8 +105009,7 @@
         "xts",
         "TTR",
         "curl",
-        "stringi",
-        "formatR"
+        "stringi"
     ],
     "proActiv": [
         "AnnotationDbi",
@@ -105710,7 +105110,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "cachem",
         "hms",
         "prettyunits",
@@ -105810,7 +105209,6 @@
         "matrixStats",
         "askpass",
         "sys",
-        "formatR",
         "utf8"
     ],
     "proBatch": [
@@ -105947,7 +105345,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "cachem",
         "brio",
         "callr",
@@ -106122,7 +105519,6 @@
         "curl",
         "mime",
         "openssl",
-        "formatR",
         "matrixStats",
         "nlme",
         "doParallel",
@@ -106315,7 +105711,6 @@
         "treeio",
         "base64enc",
         "openssl",
-        "formatR",
         "hwriter",
         "latticeExtra",
         "stringi",
@@ -106473,7 +105868,6 @@
         "XVector",
         "lattice",
         "matrixStats",
-        "formatR",
         "zlibbioc"
     ],
     "pRoloc": [
@@ -106657,7 +106051,6 @@
         "prodlim",
         "png",
         "Biostrings",
-        "formatR",
         "timechange",
         "matrixStats",
         "askpass",
@@ -106877,7 +106270,6 @@
         "prodlim",
         "png",
         "Biostrings",
-        "formatR",
         "timechange",
         "matrixStats",
         "askpass",
@@ -106995,7 +106387,6 @@
         "R6",
         "png",
         "Biostrings",
-        "formatR",
         "bit64",
         "blob",
         "memoise",
@@ -107151,8 +106542,7 @@
         "limma",
         "cluster",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "proteasy": [
         "data.table",
@@ -107255,7 +106645,6 @@
         "withr",
         "generics",
         "ellipsis",
-        "formatR",
         "lattice",
         "matrixStats",
         "askpass",
@@ -107347,7 +106736,6 @@
         "mime",
         "openssl",
         "png",
-        "formatR",
         "lattice",
         "cachem",
         "hms",
@@ -107821,7 +107209,6 @@
         "knitr",
         "checkmate",
         "rstudioapi",
-        "formatR",
         "jpeg",
         "interp",
         "BSgenome",
@@ -107904,7 +107291,6 @@
         "curl",
         "mime",
         "openssl",
-        "formatR",
         "matrixStats",
         "later",
         "farver",
@@ -108165,7 +107551,6 @@
         "rappdirs",
         "stringi",
         "sys",
-        "formatR",
         "boot",
         "minqa",
         "nloptr",
@@ -108303,7 +107688,6 @@
         "rappdirs",
         "xml2",
         "matrixStats",
-        "formatR",
         "nlme",
         "rjson",
         "yaml",
@@ -108548,7 +107932,6 @@
         "nlme",
         "askpass",
         "sys",
-        "formatR",
         "utf8"
     ],
     "PWMEnrich": [
@@ -108883,8 +108266,7 @@
         "GenomeInfoDbData",
         "limma",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "QFeatures": [
         "MultiAssayExperiment",
@@ -109184,7 +108566,6 @@
         "rlang",
         "vctrs",
         "SummarizedExperiment",
-        "formatR",
         "cachem",
         "askpass",
         "hms",
@@ -109301,8 +108682,7 @@
         "lambda.r",
         "futile.options",
         "prettyunits",
-        "bitops",
-        "formatR"
+        "bitops"
     ],
     "qrqc": [
         "reshape",
@@ -109453,7 +108833,6 @@
         "purrr",
         "tidyselect",
         "generics",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -109496,7 +108875,6 @@
         "SummarizedExperiment",
         "rjson",
         "yaml",
-        "formatR",
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -109601,7 +108979,6 @@
         "mime",
         "openssl",
         "Biostrings",
-        "formatR",
         "colorspace",
         "utf8",
         "bit64",
@@ -109704,7 +109081,6 @@
         "openssl",
         "png",
         "Biostrings",
-        "formatR",
         "bit64",
         "blob",
         "memoise",
@@ -109912,7 +109288,6 @@
         "jsonlite",
         "mime",
         "png",
-        "formatR",
         "askpass",
         "bit64",
         "blob",
@@ -110060,7 +109435,6 @@
         "R6",
         "deldir",
         "RcppEigen",
-        "formatR",
         "cachem",
         "hms",
         "prettyunits",
@@ -110333,7 +109707,6 @@
         "openssl",
         "cachem",
         "assertthat",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -110415,7 +109788,6 @@
         "DelayedArray",
         "pillar",
         "fastmap",
-        "formatR",
         "lattice",
         "matrixStats",
         "colorspace",
@@ -110519,7 +109891,6 @@
         "plogr",
         "sys",
         "bit",
-        "formatR",
         "cachem",
         "utf8",
         "fastmap"
@@ -110632,7 +110003,6 @@
         "KernSmooth",
         "yaml",
         "pkgconfig",
-        "formatR",
         "limma",
         "utf8",
         "vctrs",
@@ -110838,7 +110208,6 @@
         "plogr",
         "sys",
         "bit",
-        "formatR",
         "cachem",
         "utf8",
         "fastmap"
@@ -111051,7 +110420,6 @@
         "sass",
         "lazyeval",
         "base64enc",
-        "formatR",
         "fs"
     ],
     "rawrr": [],
@@ -111144,7 +110512,6 @@
         "RcppEigen",
         "MatrixGenerics",
         "DelayedArray",
-        "formatR",
         "matrixStats"
     ],
     "RBGL": [
@@ -111188,8 +110555,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "rbsurv": [
         "Biobase",
@@ -111254,8 +110620,7 @@
         "futile.options",
         "lattice",
         "matrixStats",
-        "stringi",
-        "formatR"
+        "stringi"
     ],
     "RCAS": [
         "plotly",
@@ -111400,8 +110765,7 @@
         "sys",
         "assertthat",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "RCASPAR": [],
     "rcellminer": [
@@ -111592,8 +110956,7 @@
         "sys",
         "lambda.r",
         "futile.options",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "RcisTarget": [
         "AUCell",
@@ -111965,7 +111328,6 @@
         "MASS",
         "mgcv",
         "rprojroot",
-        "formatR",
         "lattice",
         "colorspace",
         "utf8",
@@ -112088,7 +111450,6 @@
         "MASS",
         "mgcv",
         "rprojroot",
-        "formatR",
         "lattice",
         "colorspace",
         "nlme"
@@ -112442,7 +111803,6 @@
         "fastmap",
         "RCurl",
         "GenomeInfoDbData",
-        "formatR",
         "zlibbioc",
         "bitops"
     ],
@@ -112743,7 +112103,6 @@
         "rstudioapi",
         "fastmap",
         "png",
-        "formatR",
         "jpeg",
         "RColorBrewer",
         "interp",
@@ -112855,8 +112214,7 @@
         "sys",
         "fastmap",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "recountmethylation": [
         "minfi",
@@ -112981,7 +112339,6 @@
         "digest",
         "fastmap",
         "png",
-        "formatR",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -113100,8 +112457,7 @@
         "futile.options",
         "ellipsis",
         "lattice",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "RedeR": [
         "igraph",
@@ -113124,7 +112480,6 @@
         "futile.options",
         "R6",
         "storr",
-        "formatR",
         "digest"
     ],
     "REDseq": [
@@ -113238,7 +112593,6 @@
         "assertthat",
         "purrr",
         "ellipsis",
-        "formatR",
         "colorspace",
         "askpass",
         "sys"
@@ -113381,7 +112735,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "jpeg",
         "interp",
         "colorspace",
@@ -113444,8 +112797,7 @@
         "DelayedArray",
         "lambda.r",
         "futile.options",
-        "lattice",
-        "formatR"
+        "lattice"
     ],
     "regioneReloaded": [
         "regioneR",
@@ -113533,8 +112885,7 @@
         "Biobase",
         "DelayedArray",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "regionReport": [
         "BiocStyle",
@@ -113691,7 +113042,6 @@
         "bit",
         "deldir",
         "RcppEigen",
-        "formatR",
         "colorspace",
         "utf8",
         "hms",
@@ -113897,7 +113247,6 @@
         "colorspace",
         "highr",
         "xfun",
-        "formatR",
         "nlme"
     ],
     "REMP": [
@@ -114061,7 +113410,6 @@
         "nnet",
         "prodlim",
         "png",
-        "formatR",
         "timechange",
         "cachem",
         "askpass",
@@ -114182,7 +113530,6 @@
         "openssl",
         "R6",
         "png",
-        "formatR",
         "nlme",
         "bit64",
         "blob",
@@ -114367,7 +113714,6 @@
         "backports",
         "deldir",
         "RcppEigen",
-        "formatR",
         "assertthat"
     ],
     "RepViz": [
@@ -114441,7 +113787,6 @@
         "plogr",
         "sys",
         "bit",
-        "formatR",
         "cachem",
         "utf8",
         "fastmap"
@@ -114470,8 +113815,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "ResidualMatrix": [
         "Matrix",
@@ -114569,8 +113913,7 @@
         "lambda.r",
         "futile.options",
         "MatrixGenerics",
-        "DelayedArray",
-        "formatR"
+        "DelayedArray"
     ],
     "restfulSE": [
         "SummarizedExperiment",
@@ -114916,8 +114259,7 @@
         "cpp11",
         "crayon",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "rGADEM": [
         "Biostrings",
@@ -114957,7 +114299,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice"
     ],
     "rGenomeTracks": [
@@ -115117,8 +114458,7 @@
         "lambda.r",
         "futile.options",
         "lattice",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "RgnTX": [
         "GenomeInfoDb",
@@ -115222,8 +114562,7 @@
         "DelayedArray",
         "sys",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "rgoslin": [
         "Rcpp",
@@ -115369,8 +114708,7 @@
         "futile.options",
         "lattice",
         "matrixStats",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "RGSEA": [
         "BiocGenerics"
@@ -115485,7 +114823,6 @@
         "viridisLite",
         "sys",
         "fastmap",
-        "formatR",
         "colorspace",
         "utf8",
         "rjson",
@@ -115608,7 +114945,6 @@
         "ellipsis",
         "askpass",
         "sys",
-        "formatR",
         "utf8"
     ],
     "Rhtslib": [
@@ -115734,7 +115070,6 @@
         "lattice",
         "annotate",
         "png",
-        "formatR",
         "cachem",
         "colorspace",
         "askpass",
@@ -115878,7 +115213,6 @@
         "fastmap",
         "rprojroot",
         "ellipsis",
-        "formatR",
         "checkmate",
         "callr",
         "processx",
@@ -116032,7 +115366,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -116108,8 +115441,7 @@
         "Rcpp",
         "lambda.r",
         "futile.options",
-        "lattice",
-        "formatR"
+        "lattice"
     ],
     "ribosomeProfilingQC": [
         "GenomicRanges",
@@ -116252,7 +115584,6 @@
         "ellipsis",
         "deldir",
         "RcppEigen",
-        "formatR",
         "askpass",
         "pracma",
         "clipr",
@@ -116374,7 +115705,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "formatR",
         "fs",
         "diffobj",
         "rematch2"
@@ -116625,8 +115955,7 @@
         "RcppEigen",
         "evaluate",
         "highr",
-        "xfun",
-        "formatR"
+        "xfun"
     ],
     "Risa": [
         "Biobase",
@@ -116707,7 +116036,6 @@
         "R6",
         "viridisLite",
         "limma",
-        "formatR",
         "nlme",
         "colorspace",
         "magrittr",
@@ -116853,8 +116181,7 @@
         "askpass",
         "MatrixGenerics",
         "DelayedArray",
-        "sys",
-        "formatR"
+        "sys"
     ],
     "RIVER": [
         "glmnet",
@@ -116929,7 +116256,6 @@
         "stringi",
         "crayon",
         "SummarizedExperiment",
-        "formatR",
         "rjson",
         "yaml",
         "Rhtslib",
@@ -117112,7 +116438,6 @@
         "promises",
         "class",
         "proxy",
-        "formatR",
         "askpass",
         "prettyunits",
         "clock",
@@ -117278,8 +116603,7 @@
         "Matrix",
         "colorspace",
         "utf8",
-        "later",
-        "formatR"
+        "later"
     ],
     "rmelting": [
         "Rdpack",
@@ -117449,7 +116773,6 @@
         "dplyr",
         "filelock",
         "bit",
-        "formatR",
         "colorspace",
         "utf8",
         "hms",
@@ -117501,8 +116824,7 @@
         "lambda.r",
         "futile.options",
         "lattice",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "RNAAgeCalc": [
         "ggplot2",
@@ -117642,7 +116964,6 @@
         "checkmate",
         "htmlwidgets",
         "rstudioapi",
-        "formatR",
         "jpeg",
         "interp",
         "askpass",
@@ -117832,8 +117153,7 @@
         "sys",
         "lambda.r",
         "futile.options",
-        "colorspace",
-        "formatR"
+        "colorspace"
     ],
     "RNAinteract": [
         "RColorBrewer",
@@ -118056,7 +117376,6 @@
         "openssl",
         "deldir",
         "RcppEigen",
-        "formatR",
         "cachem",
         "colorspace",
         "utf8",
@@ -118215,7 +117534,6 @@
         "htmlwidgets",
         "rstudioapi",
         "fastmap",
-        "formatR",
         "cachem",
         "colorspace",
         "askpass",
@@ -118351,7 +117669,6 @@
         "mime",
         "openssl",
         "deldir",
-        "formatR",
         "cachem",
         "colorspace",
         "utf8",
@@ -118510,7 +117827,6 @@
         "htmlwidgets",
         "rstudioapi",
         "fastmap",
-        "formatR",
         "cachem",
         "colorspace",
         "askpass",
@@ -118786,7 +118102,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "cachem",
         "testthat",
         "askpass",
@@ -118966,7 +118281,6 @@
         "htmlwidgets",
         "rstudioapi",
         "fastmap",
-        "formatR",
         "jpeg",
         "interp",
         "boot",
@@ -119153,8 +118467,7 @@
         "ellipsis",
         "purrr",
         "fastmap",
-        "assertthat",
-        "formatR"
+        "assertthat"
     ],
     "roar": [
         "BiocGenerics",
@@ -119192,8 +118505,7 @@
         "yaml",
         "Rhtslib",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "ROC": [
         "knitr",
@@ -119772,7 +119084,6 @@
         "rstudioapi",
         "deldir",
         "RcppEigen",
-        "formatR",
         "colorspace",
         "utf8",
         "rjson",
@@ -119995,8 +119306,7 @@
         "VennDiagram",
         "futile.logger",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "rrvgo": [
         "GOSemSim",
@@ -120116,8 +119426,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "rsbml": [
         "BiocGenerics",
@@ -120217,7 +119526,6 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "matrixStats"
     ],
     "rSWeeP": [
@@ -120458,8 +119766,7 @@
         "fastmap",
         "assertthat",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "RTN": [
         "RedeR",
@@ -120874,8 +120181,7 @@
         "lambda.r",
         "futile.options",
         "lattice",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "Rtreemix": [
         "graph",
@@ -121073,8 +120379,7 @@
         "futile.options",
         "matrixStats",
         "askpass",
-        "sys",
-        "formatR"
+        "sys"
     ],
     "runibic": [
         "biclust",
@@ -121175,8 +120480,7 @@
         "lambda.r",
         "futile.options",
         "magrittr",
-        "stringi",
-        "formatR"
+        "stringi"
     ],
     "RUVnormalize": [
         "RUVnormalizeData",
@@ -121287,7 +120591,6 @@
         "DelayedArray",
         "sys",
         "fastmap",
-        "formatR",
         "utf8"
     ],
     "RVS": [
@@ -121780,7 +121083,6 @@
         "magrittr",
         "pillar",
         "pkgconfig",
-        "formatR",
         "colorspace",
         "utf8",
         "bitops",
@@ -122277,7 +121579,6 @@
         "mime",
         "openssl",
         "png",
-        "formatR",
         "prettyunits",
         "askpass",
         "sys"
@@ -122330,7 +121631,6 @@
         "pillar",
         "pkgconfig",
         "zlibbioc",
-        "formatR",
         "lattice",
         "colorspace",
         "utf8"
@@ -122463,7 +121763,6 @@
         "munsell",
         "bit",
         "assertthat",
-        "formatR",
         "colorspace",
         "askpass",
         "utf8",
@@ -122704,8 +122003,7 @@
         "lambda.r",
         "futile.options",
         "lattice",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "SCArray": [
         "gdsfmt",
@@ -122807,7 +122105,6 @@
         "openssl",
         "shiny",
         "DT",
-        "formatR",
         "bit64",
         "memoise",
         "pkgconfig",
@@ -122917,7 +122214,6 @@
         "magrittr",
         "pillar",
         "pkgconfig",
-        "formatR",
         "colorspace",
         "utf8",
         "bitops",
@@ -123130,7 +122426,6 @@
         "zlibbioc",
         "sys",
         "Biostrings",
-        "formatR",
         "bit64",
         "blob",
         "plogr",
@@ -123450,7 +122745,6 @@
         "tensor",
         "zlibbioc",
         "sys",
-        "formatR",
         "fs",
         "stringi"
     ],
@@ -123554,7 +122848,6 @@
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
-        "formatR",
         "colorspace",
         "utf8",
         "stringi",
@@ -123927,7 +123220,6 @@
         "RcppAnnoy",
         "RcppProgress",
         "viridisLite",
-        "formatR",
         "nlme",
         "systemfonts",
         "textshaping",
@@ -124045,7 +123337,6 @@
         "RcppHNSW",
         "bitops",
         "rprojroot",
-        "formatR",
         "colorspace",
         "utf8",
         "crayon",
@@ -124127,7 +123418,6 @@
         "pkgconfig",
         "bitops",
         "rprojroot",
-        "formatR",
         "colorspace",
         "utf8",
         "crayon",
@@ -124173,8 +123463,7 @@
         "survival",
         "brew",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "scds": [
         "Matrix",
@@ -124255,7 +123544,6 @@
         "iterators",
         "lambda.r",
         "futile.options",
-        "formatR",
         "ps"
     ],
     "scFeatureFilter": [
@@ -124397,7 +123685,6 @@
         "openssl",
         "png",
         "Biostrings",
-        "formatR",
         "KernSmooth",
         "lava",
         "bit64",
@@ -124641,7 +123928,6 @@
         "RColorBrewer",
         "viridisLite",
         "pillar",
-        "formatR",
         "colorspace",
         "utf8",
         "bitops",
@@ -125049,7 +124335,6 @@
         "rstudioapi",
         "digest",
         "fastmap",
-        "formatR",
         "png",
         "jpeg",
         "interp",
@@ -125325,7 +124610,6 @@
         "fontawesome",
         "sourcetools",
         "sys",
-        "formatR",
         "prettyunits"
     ],
     "SCnorm": [
@@ -125384,7 +124668,6 @@
         "viridisLite",
         "pillar",
         "pkgconfig",
-        "formatR",
         "colorspace",
         "utf8",
         "bitops",
@@ -125481,7 +124764,6 @@
         "crayon",
         "BiocIO",
         "rtracklayer",
-        "formatR",
         "zlibbioc",
         "Rhtslib",
         "GenomicAlignments",
@@ -125666,7 +124948,6 @@
         "vctrs",
         "sys",
         "ellipsis",
-        "formatR",
         "cli",
         "utf8",
         "MatrixGenerics",
@@ -125726,7 +125007,6 @@
         "rappdirs",
         "xml2",
         "png",
-        "formatR",
         "rjson",
         "yaml",
         "bit64",
@@ -125902,8 +125182,7 @@
         "parallelly",
         "cli",
         "utf8",
-        "withr",
-        "formatR"
+        "withr"
     ],
     "scPipe": [
         "ggplot2",
@@ -126061,8 +125340,7 @@
         "systemfonts",
         "textshaping",
         "sys",
-        "fastmap",
-        "formatR"
+        "fastmap"
     ],
     "scran": [
         "SingleCellExperiment",
@@ -126113,7 +125391,6 @@
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
-        "formatR",
         "bitops",
         "zlibbioc"
     ],
@@ -126178,8 +125455,7 @@
         "lambda.r",
         "futile.options",
         "shape",
-        "RcppEigen",
-        "formatR"
+        "RcppEigen"
     ],
     "ScreenR": [
         "rlang",
@@ -126460,7 +125736,6 @@
         "openssl",
         "deldir",
         "RcppEigen",
-        "formatR",
         "cachem",
         "utf8",
         "hms",
@@ -126511,8 +125786,7 @@
         "lambda.r",
         "futile.options",
         "bitops",
-        "zlibbioc",
-        "formatR"
+        "zlibbioc"
     ],
     "scShapes": [
         "Matrix",
@@ -126537,8 +125811,7 @@
         "mvtnorm",
         "lambda.r",
         "futile.options",
-        "Rcpp",
-        "formatR"
+        "Rcpp"
     ],
     "scTensor": [
         "RSQLite",
@@ -126802,7 +126075,6 @@
         "gtools",
         "caTools",
         "rprojroot",
-        "formatR",
         "ps",
         "wk",
         "tensor",
@@ -127016,8 +126288,7 @@
         "cpp11",
         "Rcpp",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "scTreeViz": [
         "epivizr",
@@ -127244,7 +126515,6 @@
         "dbplyr",
         "filelock",
         "bit",
-        "formatR",
         "hms",
         "prettyunits",
         "fs",
@@ -127281,7 +126551,6 @@
         "RCurl",
         "GenomeInfoDbData",
         "zlibbioc",
-        "formatR",
         "bitops"
     ],
     "SDAMS": [
@@ -127554,8 +126823,7 @@
         "lambda.r",
         "futile.options",
         "askpass",
-        "sys",
-        "formatR"
+        "sys"
     ],
     "segmentSeq": [
         "baySeq",
@@ -127603,7 +126871,6 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "matrixStats"
     ],
     "selectKSigs": [
@@ -127719,8 +126986,7 @@
         "DelayedArray",
         "sys",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "SELEX": [
         "rJava",
@@ -127978,7 +127244,6 @@
         "pillar",
         "pkgconfig",
         "zlibbioc",
-        "formatR",
         "colorspace",
         "utf8",
         "bitops"
@@ -128114,7 +127379,6 @@
         "stringi",
         "fastmap",
         "assertthat",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -128283,7 +127547,6 @@
         "zlibbioc",
         "sys",
         "bit",
-        "formatR",
         "cachem",
         "colorspace",
         "utf8",
@@ -128384,8 +127647,7 @@
         "lattice",
         "matrixStats",
         "colorspace",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "SeqSQC": [
         "ExperimentHub",
@@ -128679,7 +127941,6 @@
         "bit",
         "shiny",
         "DT",
-        "formatR",
         "cachem",
         "askpass",
         "prettyunits",
@@ -128796,7 +128057,6 @@
         "iterators",
         "rjson",
         "crayon",
-        "formatR",
         "bitops",
         "magrittr",
         "pillar",
@@ -128902,8 +128162,7 @@
         "utf8",
         "prettyunits",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "SGSeq": [
         "IRanges",
@@ -128991,7 +128250,6 @@
         "withr",
         "generics",
         "ellipsis",
-        "formatR",
         "askpass",
         "sys",
         "utf8"
@@ -129185,7 +128443,6 @@
         "progress",
         "BiocFileCache",
         "png",
-        "formatR",
         "ps",
         "bit64",
         "blob",
@@ -129320,7 +128577,6 @@
         "BiocFileCache",
         "pkgconfig",
         "png",
-        "formatR",
         "askpass",
         "utf8",
         "bit64",
@@ -129380,7 +128636,6 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "matrixStats"
     ],
     "SIAMCAT": [
@@ -129533,8 +128788,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "SigCheck": [
         "MLInterfaces",
@@ -129635,7 +128889,6 @@
         "curl",
         "openssl",
         "pkgconfig",
-        "formatR",
         "cli",
         "matrixStats",
         "DEoptimR",
@@ -129705,7 +128958,6 @@
         "R6",
         "rlang",
         "viridisLite",
-        "formatR",
         "cli",
         "colorspace",
         "zlibbioc"
@@ -129942,7 +129194,6 @@
         "openssl",
         "shiny",
         "DT",
-        "formatR",
         "prettyunits",
         "bitops",
         "zlibbioc",
@@ -130202,8 +129453,7 @@
         "minqa",
         "numDeriv",
         "SparseM",
-        "MatrixModels",
-        "formatR"
+        "MatrixModels"
     ],
     "signifinder": [
         "ggplot2",
@@ -130416,7 +129666,6 @@
         "class",
         "proxy",
         "rpart",
-        "formatR",
         "askpass",
         "lava",
         "prettyunits",
@@ -130536,7 +129785,6 @@
         "withr",
         "generics",
         "ellipsis",
-        "formatR",
         "askpass",
         "sys",
         "utf8"
@@ -130803,7 +130051,6 @@
         "munsell",
         "viridisLite",
         "permute",
-        "formatR",
         "colorspace",
         "Rhdf5lib",
         "rhdf5filters",
@@ -130859,8 +130106,7 @@
         "pkgconfig",
         "withr",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "similaRpeak": [
         "R6"
@@ -130987,7 +130233,6 @@
         "dqrng",
         "beachmat",
         "scuttle",
-        "formatR",
         "magrittr",
         "nlme",
         "farver",
@@ -131187,8 +130432,7 @@
         "lambda.r",
         "futile.options",
         "lattice",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "SingleCellExperiment": [
         "SummarizedExperiment",
@@ -131294,7 +130538,6 @@
         "GenomeInfoDbData",
         "XVector",
         "cli",
-        "formatR",
         "zlibbioc"
     ],
     "singleCellTK": [
@@ -131627,7 +130870,6 @@
         "nnet",
         "foreign",
         "htmlTable",
-        "formatR",
         "TH.data",
         "sandwich",
         "askpass",
@@ -131743,7 +130985,6 @@
         "R6",
         "deldir",
         "RcppEigen",
-        "formatR",
         "cachem",
         "hms",
         "prettyunits",
@@ -131798,7 +131039,6 @@
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
-        "formatR",
         "bitops",
         "zlibbioc"
     ],
@@ -131892,7 +131132,6 @@
         "pkgconfig",
         "png",
         "Biostrings",
-        "formatR",
         "colorspace",
         "askpass",
         "utf8",
@@ -131997,7 +131236,6 @@
         "plogr",
         "crayon",
         "bit",
-        "formatR",
         "cachem",
         "askpass",
         "bitops",
@@ -132089,7 +131327,6 @@
         "Matrix",
         "DelayedArray",
         "sys",
-        "formatR",
         "lattice",
         "matrixStats",
         "utf8"
@@ -132302,7 +131539,6 @@
         "dbplyr",
         "filelock",
         "bit",
-        "formatR",
         "cachem",
         "askpass",
         "utf8",
@@ -132575,8 +131811,7 @@
         "lambda.r",
         "futile.options",
         "ellipsis",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "SNAGEE": [
         "SNAGEEdata"
@@ -132852,7 +132087,6 @@
         "rappdirs",
         "xml2",
         "png",
-        "formatR",
         "utf8",
         "rjson",
         "yaml",
@@ -132959,7 +132193,6 @@
         "stringi",
         "pillar",
         "pkgconfig",
-        "formatR",
         "png",
         "jpeg",
         "interp",
@@ -133211,7 +132444,6 @@
         "xfun",
         "cachem",
         "assertthat",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -133433,7 +132665,6 @@
         "tensor",
         "zlibbioc",
         "sys",
-        "formatR",
         "stringi"
     ],
     "sparrow": [
@@ -133541,7 +132772,6 @@
         "ellipsis",
         "XVector",
         "GenomeInfoDb",
-        "formatR",
         "askpass",
         "utf8",
         "bit64",
@@ -133680,8 +132910,7 @@
         "lambda.r",
         "futile.options",
         "MatrixGenerics",
-        "DelayedArray",
-        "formatR"
+        "DelayedArray"
     ],
     "spaSim": [
         "ggplot2",
@@ -133785,8 +133014,7 @@
         "cachem",
         "askpass",
         "sys",
-        "fastmap",
-        "formatR"
+        "fastmap"
     ],
     "SpatialCPie": [
         "colorspace",
@@ -133996,8 +133224,7 @@
         "cachem",
         "askpass",
         "sys",
-        "fastmap",
-        "formatR"
+        "fastmap"
     ],
     "SpatialDecon": [
         "SeuratObject",
@@ -134205,8 +133432,7 @@
         "bitops",
         "zlibbioc",
         "sys",
-        "fastmap",
-        "formatR"
+        "fastmap"
     ],
     "SpatialFeatureExperiment": [
         "BiocGenerics",
@@ -134293,7 +133519,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "R.oo",
         "R.methodsS3",
         "bitops",
@@ -134489,7 +133714,6 @@
         "checkmate",
         "rstudioapi",
         "Biostrings",
-        "formatR",
         "jpeg",
         "interp",
         "colorspace",
@@ -134656,7 +133880,6 @@
         "ellipsis",
         "deldir",
         "RcppEigen",
-        "formatR",
         "askpass",
         "sys",
         "knitr",
@@ -134750,8 +133973,7 @@
         "Rcpp",
         "cluster",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "SpectralTAD": [
         "dplyr",
@@ -134822,7 +134044,6 @@
         "snowfall",
         "future",
         "globals",
-        "formatR",
         "R.oo",
         "R.methodsS3",
         "bitops",
@@ -135044,8 +134265,7 @@
         "zlibbioc",
         "lambda.r",
         "futile.options",
-        "fs",
-        "formatR"
+        "fs"
     ],
     "spicyR": [
         "ggplot2",
@@ -135167,7 +134387,6 @@
         "rhdf5filters",
         "mime",
         "openssl",
-        "formatR",
         "colorspace",
         "R.oo",
         "R.methodsS3",
@@ -135325,8 +134544,7 @@
         "futile.options",
         "utf8",
         "rjson",
-        "yaml",
-        "formatR"
+        "yaml"
     ],
     "spkTools": [
         "Biobase",
@@ -135422,7 +134640,6 @@
         "RcppProgress",
         "dqrng",
         "sitmo",
-        "formatR",
         "utf8",
         "systemfonts",
         "textshaping",
@@ -135588,7 +134805,6 @@
         "bit",
         "processx",
         "png",
-        "formatR",
         "askpass",
         "utf8",
         "stringi",
@@ -135685,7 +134901,6 @@
         "openssl",
         "R6",
         "png",
-        "formatR",
         "matrixStats",
         "cachem",
         "hms",
@@ -135899,7 +135114,6 @@
         "checkmate",
         "htmlwidgets",
         "rstudioapi",
-        "formatR",
         "backports",
         "evaluate",
         "highr",
@@ -136315,8 +135529,7 @@
         "lambda.r",
         "futile.options",
         "fs",
-        "stringi",
-        "formatR"
+        "stringi"
     ],
     "SPOTlight": [
         "ggplot2",
@@ -136883,7 +136096,6 @@
         "mime",
         "deldir",
         "RcppEigen",
-        "formatR",
         "nlme",
         "hms",
         "systemfonts",
@@ -137039,7 +136251,6 @@
         "gridExtra",
         "png",
         "Biostrings",
-        "formatR",
         "colorspace",
         "askpass",
         "bitops",
@@ -137247,8 +136458,7 @@
         "futile.options",
         "lattice",
         "colorspace",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "stageR": [
         "SummarizedExperiment",
@@ -137405,7 +136615,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "nlme",
         "utf8"
     ],
@@ -137553,7 +136762,6 @@
         "fastmap",
         "deldir",
         "RcppEigen",
-        "formatR",
         "yaml"
     ],
     "staRank": [
@@ -137898,7 +137106,6 @@
         "highr",
         "yaml",
         "xfun",
-        "formatR",
         "matrixStats",
         "colorspace",
         "askpass",
@@ -138009,7 +137216,6 @@
         "NLP",
         "xml2",
         "generics",
-        "formatR",
         "colorspace",
         "utf8"
     ],
@@ -138211,8 +137417,7 @@
         "lambda.r",
         "futile.options",
         "fs",
-        "stringi",
-        "formatR"
+        "stringi"
     ],
     "strandCheckR": [
         "dplyr",
@@ -138322,7 +137527,6 @@
         "bit",
         "mime",
         "openssl",
-        "formatR",
         "hms",
         "prettyunits",
         "rjson",
@@ -138386,8 +137590,7 @@
         "BH",
         "cpp11",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "struct": [
         "ontologyIndex",
@@ -138609,8 +137812,7 @@
         "futile.options",
         "ellipsis",
         "askpass",
-        "sys",
-        "formatR"
+        "sys"
     ],
     "SubCellBarCode": [
         "Rtsne",
@@ -138805,7 +138007,6 @@
         "magrittr",
         "pillar",
         "pkgconfig",
-        "formatR",
         "lattice",
         "colorspace",
         "utf8"
@@ -138873,7 +138074,6 @@
         "munsell",
         "RColorBrewer",
         "viridisLite",
-        "formatR",
         "colorspace",
         "bitops",
         "zlibbioc"
@@ -139366,7 +138566,6 @@
         "R6",
         "png",
         "Biostrings",
-        "formatR",
         "bit64",
         "blob",
         "memoise",
@@ -139478,8 +138677,7 @@
         "futile.options",
         "ellipsis",
         "askpass",
-        "sys",
-        "formatR"
+        "sys"
     ],
     "svaRetro": [
         "GenomicRanges",
@@ -139570,8 +138768,7 @@
         "futile.options",
         "ellipsis",
         "askpass",
-        "sys",
-        "formatR"
+        "sys"
     ],
     "SWATH2stats": [
         "data.table",
@@ -139668,8 +138865,7 @@
         "futile.logger",
         "MASS",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "swfdr": [],
     "switchBox": [
@@ -139857,8 +139053,7 @@
         "prettyunits",
         "bitops",
         "fs",
-        "rappdirs",
-        "formatR"
+        "rappdirs"
     ],
     "synergyfinder": [
         "drc",
@@ -140272,8 +139467,7 @@
         "DelayedArray",
         "lambda.r",
         "futile.options",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "systemPipeR": [
         "Rsamtools",
@@ -140347,8 +139541,7 @@
         "deldir",
         "RcppEigen",
         "colorspace",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "systemPipeShiny": [
         "shiny",
@@ -140577,7 +139770,6 @@
         "sys",
         "png",
         "Biostrings",
-        "formatR",
         "bit64",
         "blob",
         "memoise",
@@ -140694,7 +139886,6 @@
         "digest",
         "listenv",
         "parallelly",
-        "formatR",
         "boot",
         "minqa",
         "nloptr",
@@ -140855,7 +140046,6 @@
         "mime",
         "openssl",
         "png",
-        "formatR",
         "lattice",
         "cachem",
         "hms",
@@ -141126,7 +140316,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "matrixStats",
         "colorspace",
         "utf8"
@@ -141267,7 +140456,6 @@
         "curl",
         "mime",
         "openssl",
-        "formatR",
         "utf8",
         "zlibbioc",
         "Biostrings",
@@ -141358,7 +140546,6 @@
         "openssl",
         "png",
         "Biostrings",
-        "formatR",
         "colorspace",
         "utf8",
         "bitops",
@@ -141740,7 +140927,6 @@
         "foreign",
         "htmlTable",
         "deldir",
-        "formatR",
         "KernSmooth",
         "lava",
         "checkmate",
@@ -141868,8 +141054,7 @@
         "fastmap",
         "assertthat",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "TCseq": [
         "edgeR",
@@ -141937,8 +141122,7 @@
         "lambda.r",
         "futile.options",
         "colorspace",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "TDARACNE": [
         "GenKern",
@@ -142051,7 +141235,6 @@
         "zlibbioc",
         "sys",
         "bit",
-        "formatR",
         "cachem",
         "colorspace",
         "utf8",
@@ -142240,8 +141423,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "ternarynet": [
         "igraph",
@@ -142257,8 +141439,7 @@
         "rlang",
         "lambda.r",
         "futile.options",
-        "lattice",
-        "formatR"
+        "lattice"
     ],
     "terraTCGAdata": [
         "AnVIL",
@@ -142366,7 +141547,6 @@
         "sass",
         "lazyeval",
         "png",
-        "formatR",
         "askpass",
         "prettyunits",
         "bitops",
@@ -142523,7 +141703,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "nlme",
         "Matrix",
         "farver",
@@ -142635,8 +141814,7 @@
         "lambda.r",
         "futile.options",
         "lattice",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "TFHAZ": [
         "GenomicRanges",
@@ -142760,7 +141938,6 @@
         "bit",
         "assertthat",
         "ellipsis",
-        "formatR",
         "cachem",
         "colorspace",
         "utf8",
@@ -142862,8 +142039,7 @@
         "bit",
         "lambda.r",
         "futile.options",
-        "fs",
-        "formatR"
+        "fs"
     ],
     "tidybulk": [
         "tibble",
@@ -143273,8 +142449,7 @@
         "lambda.r",
         "futile.options",
         "colorspace",
-        "RcppEigen",
-        "formatR"
+        "RcppEigen"
     ],
     "timescape": [
         "htmlwidgets",
@@ -143481,8 +142656,7 @@
         "gridGraphics",
         "RcppArmadillo",
         "lazyeval",
-        "gridExtra",
-        "formatR"
+        "gridExtra"
     ],
     "TIN": [
         "data.table",
@@ -143772,7 +142946,6 @@
         "assertthat",
         "purrr",
         "ellipsis",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -143925,7 +143098,6 @@
         "lava",
         "fastmap",
         "assertthat",
-        "formatR",
         "future.apply",
         "numDeriv",
         "progressr",
@@ -143959,8 +143131,7 @@
         "MASS",
         "lambda.r",
         "futile.options",
-        "truncnorm",
-        "formatR"
+        "truncnorm"
     ],
     "TNBC.CMS": [
         "e1071",
@@ -144087,7 +143258,6 @@
         "openssl",
         "png",
         "Biostrings",
-        "formatR",
         "boot",
         "minqa",
         "nloptr",
@@ -144480,8 +143650,7 @@
         "futile.options",
         "colorspace",
         "utf8",
-        "bitops",
-        "formatR"
+        "bitops"
     ],
     "topGO": [
         "BiocGenerics",
@@ -144627,7 +143796,6 @@
         "gtools",
         "KernSmooth",
         "yaml",
-        "formatR",
         "cluster",
         "slam",
         "sets",
@@ -144719,7 +143887,6 @@
         "digest",
         "base64enc",
         "fastmap",
-        "formatR",
         "nlme",
         "Matrix",
         "utf8",
@@ -144782,7 +143949,6 @@
         "RColorBrewer",
         "viridisLite",
         "pkgconfig",
-        "formatR",
         "lattice",
         "colorspace"
     ],
@@ -144819,8 +143985,7 @@
         "GenomeInfoDbData",
         "Rcpp",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "trackViewer": [
         "GenomicRanges",
@@ -144957,7 +144122,6 @@
         "knitr",
         "checkmate",
         "rstudioapi",
-        "formatR",
         "askpass",
         "sys",
         "backports",
@@ -145026,7 +144190,6 @@
         "labeling",
         "munsell",
         "R6",
-        "formatR",
         "colorspace",
         "bitops",
         "zlibbioc"
@@ -145325,7 +144488,6 @@
         "assertthat",
         "deldir",
         "RcppEigen",
-        "formatR",
         "askpass",
         "KernSmooth",
         "lava",
@@ -145515,7 +144677,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "cachem",
         "colorspace",
         "utf8",
@@ -145668,7 +144829,6 @@
         "RColorBrewer",
         "viridisLite",
         "pillar",
-        "formatR",
         "colorspace",
         "utf8",
         "zlibbioc"
@@ -145711,7 +144871,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice"
     ],
     "Travel": [
@@ -146035,7 +145194,6 @@
         "tidyr",
         "yulab.utils",
         "zlibbioc",
-        "formatR",
         "bitops",
         "ellipsis",
         "purrr"
@@ -146213,7 +145371,6 @@
         "munsell",
         "MatrixGenerics",
         "DelayedArray",
-        "formatR",
         "colorspace"
     ],
     "Trendy": [
@@ -146286,7 +145443,6 @@
         "pillar",
         "pkgconfig",
         "vctrs",
-        "formatR",
         "utf8",
         "rappdirs",
         "zlibbioc"
@@ -146375,7 +145531,6 @@
         "withr",
         "generics",
         "ellipsis",
-        "formatR",
         "askpass",
         "sys",
         "utf8"
@@ -146491,7 +145646,6 @@
         "textshaping",
         "bitops",
         "fastmap",
-        "formatR",
         "askpass",
         "sys"
     ],
@@ -146561,7 +145715,6 @@
         "openssl",
         "png",
         "Biostrings",
-        "formatR",
         "colorspace",
         "utf8",
         "bit64",
@@ -146876,7 +146029,6 @@
         "DelayedArray",
         "pillar",
         "pkgconfig",
-        "formatR",
         "lattice",
         "utf8"
     ],
@@ -147378,7 +146530,6 @@
         "mime",
         "openssl",
         "R6",
-        "formatR",
         "cachem",
         "hms",
         "prettyunits",
@@ -147515,7 +146666,6 @@
         "lambda.r",
         "futile.options",
         "base64enc",
-        "formatR",
         "fs"
     ],
     "tximport": [],
@@ -147549,7 +146699,6 @@
         "GenomeInfoDbData",
         "XVector",
         "matrixStats",
-        "formatR",
         "bitops",
         "zlibbioc"
     ],
@@ -147694,8 +146843,7 @@
         "prettyunits",
         "rjson",
         "stringi",
-        "sys",
-        "formatR"
+        "sys"
     ],
     "UMI4Cats": [
         "SummarizedExperiment",
@@ -147840,7 +146988,6 @@
         "mvtnorm",
         "plot3D",
         "pracma",
-        "formatR",
         "misc3d"
     ],
     "uncoverappLib": [
@@ -148017,7 +147164,6 @@
         "sys",
         "isoband",
         "mgcv",
-        "formatR",
         "nlme"
     ],
     "UNDO": [
@@ -148201,7 +147347,6 @@
         "withr",
         "generics",
         "ellipsis",
-        "formatR",
         "askpass",
         "sys",
         "utf8"
@@ -148511,7 +147656,6 @@
         "bit",
         "sylly",
         "sylly.en",
-        "formatR",
         "syuzhet",
         "askpass",
         "prettyunits",
@@ -148601,8 +147745,7 @@
         "lifecycle",
         "sys",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "VarCon": [
         "Biostrings",
@@ -148689,8 +147832,7 @@
         "futile.options",
         "MatrixGenerics",
         "Biobase",
-        "DelayedArray",
-        "formatR"
+        "DelayedArray"
     ],
     "variancePartition": [
         "ggplot2",
@@ -148772,7 +147914,6 @@
         "colorspace",
         "testthat",
         "stringi",
-        "formatR",
         "utf8",
         "brio",
         "callr",
@@ -148874,7 +148015,6 @@
         "withr",
         "generics",
         "ellipsis",
-        "formatR",
         "askpass",
         "sys",
         "utf8"
@@ -149088,7 +148228,6 @@
         "viridis",
         "deldir",
         "RcppEigen",
-        "formatR",
         "askpass",
         "hms",
         "prettyunits",
@@ -149182,7 +148321,6 @@
         "openssl",
         "R6",
         "png",
-        "formatR",
         "cachem",
         "hms",
         "prettyunits",
@@ -149259,7 +148397,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-        "formatR",
         "curl",
         "jsonlite",
         "mime",
@@ -149353,7 +148490,6 @@
         "mime",
         "openssl",
         "R6",
-        "formatR",
         "cachem",
         "hms",
         "prettyunits",
@@ -149435,7 +148571,6 @@
         "magrittr",
         "pillar",
         "pkgconfig",
-        "formatR",
         "colorspace",
         "utf8",
         "bitops",
@@ -149553,7 +148688,6 @@
         "GenomeInfoDbData",
         "XVector",
         "rprojroot",
-        "formatR",
         "bitops",
         "zlibbioc"
     ],
@@ -149598,7 +148732,6 @@
         "pkgconfig",
         "gridExtra",
         "plyr",
-        "formatR",
         "nlme",
         "Matrix",
         "utf8",
@@ -149727,7 +148860,6 @@
         "openssl",
         "png",
         "Biostrings",
-        "formatR",
         "bit64",
         "blob",
         "plogr",
@@ -149894,7 +149026,6 @@
         "sys",
         "iterators",
         "GenomeInfoDbData",
-        "formatR",
         "zlibbioc"
     ],
     "vissE": [
@@ -150152,7 +149283,6 @@
         "jsonlite",
         "mime",
         "openssl",
-        "formatR",
         "utf8",
         "R.oo",
         "R.methodsS3",
@@ -150228,8 +149358,7 @@
         "futile.options",
         "matrixStats",
         "colorspace",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "vsclust": [
         "matrixStats",
@@ -150467,7 +149596,6 @@
         "lambda.r",
         "futile.options",
         "base64enc",
-        "formatR",
         "fs"
     ],
     "vulcan": [
@@ -150632,7 +149760,6 @@
         "purrr",
         "ellipsis",
         "base64enc",
-        "formatR",
         "jpeg",
         "interp",
         "colorspace",
@@ -150715,7 +149842,6 @@
         "isoband",
         "mgcv",
         "scales",
-        "formatR",
         "matrixStats",
         "cachem",
         "testthat",
@@ -150904,8 +150030,7 @@
         "Rhtslib",
         "ellipsis",
         "purrr",
-        "assertthat",
-        "formatR"
+        "assertthat"
     ],
     "wavClusteR": [
         "GenomicRanges",
@@ -151038,7 +150163,6 @@
         "tidyselect",
         "generics",
         "ellipsis",
-        "formatR",
         "matrixStats",
         "askpass",
         "sys"
@@ -151190,7 +150314,6 @@
         "rbibutils",
         "stringi",
         "pkgconfig",
-        "formatR",
         "bitops",
         "zlibbioc"
     ],
@@ -151261,8 +150384,7 @@
         "DelayedArray",
         "lambda.r",
         "futile.options",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "wpm": [
         "cli",
@@ -151530,7 +150652,6 @@
         "R6",
         "viridisLite",
         "limma",
-        "formatR",
         "nlme",
         "colorspace",
         "bitops",
@@ -151767,7 +150888,6 @@
         "gtools",
         "KernSmooth",
         "yaml",
-        "formatR",
         "limma",
         "slam",
         "sets",
@@ -151915,7 +151035,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice"
     ],
     "XVector": [
@@ -152144,8 +151263,7 @@
         "RcppEigen",
         "evaluate",
         "highr",
-        "xfun",
-        "formatR"
+        "xfun"
     ],
     "yarn": [
         "Biobase",
@@ -152289,7 +151407,6 @@
         "R.methodsS3",
         "zlibbioc",
         "fastmap",
-        "formatR",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -152470,7 +151587,6 @@
         "memoise",
         "plogr",
         "bit",
-        "formatR",
         "cachem",
         "askpass",
         "brio",
@@ -152589,7 +151705,6 @@
         "R6",
         "png",
         "Biostrings",
-        "formatR",
         "bitops",
         "bit64",
         "blob",
@@ -152839,8 +151954,7 @@
     "VennDiagram": [
         "futile.logger",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "plyr": [
         "Rcpp"
@@ -153060,8 +152174,7 @@
     ],
     "futile.logger": [
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "snow": [],
     "BH": [],
@@ -153288,9 +152401,7 @@
         "utf8",
         "vctrs"
     ],
-    "lambda.r": [
-        "formatR"
-    ],
+    "lambda.r": [],
     "futile.options": [],
     "nlme": [
         "lattice"
@@ -153325,7 +152436,6 @@
     "ellipsis": [
         "rlang"
     ],
-    "formatR": [],
     "utf8": [],
     "locfit": [
         "lattice"
@@ -156555,7 +155665,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice"
     ],
     "TxDb.Hsapiens.UCSC.hg19.knownGene": [
@@ -156644,8 +155753,7 @@
         "futile.options",
         "lattice",
         "matrixStats",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "Homo.sapiens": [
         "AnnotationDbi",
@@ -156740,8 +155848,7 @@
         "futile.options",
         "lattice",
         "matrixStats",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "SNPlocs.Hsapiens.dbSNP144.GRCh37": [
         "BSgenome",
@@ -156780,7 +155887,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice"
     ],
     "XtraSNPlocs.Hsapiens.dbSNP144.GRCh37": [
@@ -156820,7 +155926,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice"
     ],
     "rsnps": [
@@ -156948,7 +156053,6 @@
         "lazyeval",
         "digest",
         "base64enc",
-        "formatR",
         "fs"
     ],
     "MafDb.ExAC.r1.0.hs37d5": [
@@ -157056,7 +156160,6 @@
         "lazyeval",
         "digest",
         "base64enc",
-        "formatR",
         "fs"
     ],
     "MafDb.gnomADex.r2.1.hs37d5": [
@@ -157164,7 +156267,6 @@
         "lazyeval",
         "digest",
         "base64enc",
-        "formatR",
         "fs"
     ],
     "COSMIC.67": [
@@ -157253,7 +156355,6 @@
         "withr",
         "generics",
         "ellipsis",
-        "formatR",
         "askpass",
         "sys",
         "utf8"
@@ -157346,7 +156447,6 @@
         "withr",
         "generics",
         "ellipsis",
-        "formatR",
         "utf8"
     ],
     "SIFT.Hsapiens.dbSNP137": [
@@ -157437,7 +156537,6 @@
         "withr",
         "generics",
         "ellipsis",
-        "formatR",
         "utf8"
     ],
     "openxlsx": [
@@ -157562,8 +156661,7 @@
         "futile.options",
         "lattice",
         "matrixStats",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "base64": [
         "openssl",
@@ -157908,8 +157006,7 @@
         "futile.options",
         "lattice",
         "matrixStats",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "BSgenome.Mmusculus.UCSC.mm10": [
         "BSgenome",
@@ -157948,7 +157045,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice"
     ],
     "nabor": [
@@ -158060,8 +157156,7 @@
         "futile.options",
         "lattice",
         "matrixStats",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "NMF": [
         "registry",
@@ -158230,8 +157325,7 @@
         "futile.options",
         "lattice",
         "matrixStats",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "TFMPvalue": [
         "Rcpp"
@@ -158715,7 +157809,6 @@
         "magrittr",
         "pillar",
         "pkgconfig",
-        "formatR",
         "utf8"
     ],
     "lbfgs": [
@@ -158969,7 +158062,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice"
     ],
     "ggExtra": [
@@ -159621,7 +158713,6 @@
         "jsonlite",
         "mime",
         "png",
-        "formatR",
         "askpass",
         "utf8",
         "bit64",
@@ -161450,7 +160541,6 @@
         "tidyselect",
         "generics",
         "ellipsis",
-        "formatR",
         "cachem",
         "nlme",
         "askpass",
@@ -161844,7 +160934,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "nlme",
         "farver",
         "labeling",
@@ -161892,7 +160981,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice"
     ],
     "WriteXLS": [],
@@ -163124,7 +162212,6 @@
         "jsonlite",
         "mime",
         "png",
-        "formatR",
         "askpass",
         "utf8",
         "bit64",
@@ -163259,7 +162346,6 @@
         "jsonlite",
         "mime",
         "png",
-        "formatR",
         "askpass",
         "utf8",
         "bit64",
@@ -163391,7 +162477,6 @@
         "jsonlite",
         "mime",
         "png",
-        "formatR",
         "askpass",
         "utf8",
         "bit64",
@@ -163542,7 +162627,6 @@
         "matrixStats",
         "askpass",
         "sys",
-        "formatR",
         "utf8"
     ],
     "JADE": [
@@ -163708,7 +162792,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice"
     ],
     "chipenrich.data": [
@@ -163787,8 +162870,7 @@
         "lattice",
         "matrixStats",
         "askpass",
-        "sys",
-        "formatR"
+        "sys"
     ],
     "org.Dm.eg.db": [
         "AnnotationDbi",
@@ -163997,8 +163079,7 @@
         "futile.options",
         "lattice",
         "matrixStats",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "TxDb.Mmusculus.UCSC.mm9.knownGene": [
         "GenomicFeatures",
@@ -164086,8 +163167,7 @@
         "futile.options",
         "lattice",
         "matrixStats",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [
         "GenomicFeatures",
@@ -164175,8 +163255,7 @@
         "futile.options",
         "lattice",
         "matrixStats",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "TxDb.Celegans.UCSC.ce6.ensGene": [
         "GenomicFeatures",
@@ -164264,8 +163343,7 @@
         "futile.options",
         "lattice",
         "matrixStats",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [
         "GenomicFeatures",
@@ -164353,8 +163431,7 @@
         "futile.options",
         "lattice",
         "matrixStats",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "ashr": [
         "Matrix",
@@ -164782,7 +163859,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice"
     ],
     "rgl": [
@@ -165594,7 +164670,6 @@
         "withr",
         "generics",
         "ellipsis",
-        "formatR",
         "lattice",
         "matrixStats",
         "askpass",
@@ -165720,7 +164795,6 @@
         "jsonlite",
         "mime",
         "png",
-        "formatR",
         "askpass",
         "utf8",
         "bit64",
@@ -165886,7 +164960,6 @@
         "R6",
         "viridisLite",
         "limma",
-        "formatR",
         "nlme",
         "colorspace",
         "bitops",
@@ -166794,7 +165867,6 @@
         "magrittr",
         "pillar",
         "pkgconfig",
-        "formatR",
         "utf8"
     ],
     "cmdfun": [
@@ -170136,8 +169208,7 @@
         "futile.options",
         "lattice",
         "matrixStats",
-        "utf8",
-        "formatR"
+        "utf8"
     ],
     "LiblineaR": [],
     "parallelDist": [
@@ -171630,7 +170701,6 @@
         "R6",
         "png",
         "Biostrings",
-        "formatR",
         "bit64",
         "blob",
         "memoise",
@@ -171750,7 +170820,6 @@
         "withr",
         "generics",
         "ellipsis",
-        "formatR",
         "lattice",
         "matrixStats",
         "askpass",
@@ -171986,7 +171055,6 @@
         "jsonlite",
         "mime",
         "png",
-        "formatR",
         "askpass",
         "utf8",
         "bit64",
@@ -172110,7 +171178,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "formatR",
         "cachem",
         "utf8",
         "rjson",
@@ -172446,7 +171513,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice"
     ],
     "miRcompData": [],
@@ -173432,7 +172498,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice"
     ],
     "philentropy": [
@@ -173865,7 +172930,6 @@
         "lazyeval",
         "digest",
         "base64enc",
-        "formatR",
         "fs"
     ],
     "fst": [
@@ -175061,7 +174125,6 @@
         "lazyeval",
         "digest",
         "base64enc",
-        "formatR",
         "fs"
     ],
     "forecast": [
@@ -175211,7 +174274,6 @@
         "withr",
         "generics",
         "ellipsis",
-        "formatR",
         "lattice",
         "matrixStats",
         "askpass",
@@ -175304,7 +174366,6 @@
         "withr",
         "generics",
         "ellipsis",
-        "formatR",
         "lattice",
         "matrixStats",
         "askpass",
@@ -175581,7 +174642,6 @@
         "lazyeval",
         "digest",
         "base64enc",
-        "formatR",
         "fs"
     ],
     "rcellminerData": [
@@ -175711,7 +174771,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice"
     ],
     "knitrBootstrap": [
@@ -175805,7 +174864,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice"
     ],
     "rGenomeTracksData": [
@@ -175979,8 +175037,7 @@
         "DelayedArray",
         "lambda.r",
         "futile.options",
-        "matrixStats",
-        "formatR"
+        "matrixStats"
     ],
     "caretEnsemble": [
         "pbapply",
@@ -176194,8 +175251,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "lambda.r",
-        "futile.options",
-        "formatR"
+        "futile.options"
     ],
     "rafalib": [
         "RColorBrewer"
@@ -176413,7 +175469,6 @@
         "pillar",
         "pkgconfig",
         "zlibbioc",
-        "formatR",
         "lattice",
         "colorspace",
         "utf8"
@@ -176501,7 +175556,6 @@
         "jquerylib",
         "promises",
         "png",
-        "formatR",
         "cachem",
         "askpass",
         "utf8",
@@ -177587,7 +176641,6 @@
         "lambda.r",
         "futile.options",
         "base64enc",
-        "formatR",
         "fs"
     ],
     "TENxPBMCData": [
@@ -178896,7 +177949,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "formatR",
         "lattice"
     ],
     "kmlShape": [
