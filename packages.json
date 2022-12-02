@@ -4242,7 +4242,6 @@
         "treeio"
     ],
     "TIN": [],
-    "TissueEnrich": [],
     "TitanCNA": [
         "VariantAnnotation",
         "GenomicFeatures"
