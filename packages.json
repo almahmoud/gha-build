@@ -8266,7 +8266,6 @@
         "cachem",
         "askpass"
     ],
-    "bridge": [],
     "BridgeDbR": [],
     "BrowserViz": [
         "httpuv",
