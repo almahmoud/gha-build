@@ -8728,7 +8728,6 @@
     "synergyfinder": [
         "drc",
         "tidyverse",
-        "gstat",
         "SpatialExtremes",
         "plotly",
         "mice",
@@ -10482,7 +10481,6 @@
     ],
     "mosaicCore": [],
     "rsample": [],
-    "gstat": [],
     "SpatialExtremes": [],
     "spsComps": [],
     "GenKern": [],
