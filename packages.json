@@ -1394,7 +1394,6 @@
         "dplyr",
         "BSgenome",
         "ggplot2",
-        "nabor",
         "BiocParallel",
         "Biostrings",
         "Rsamtools",
@@ -5510,7 +5509,6 @@
     "chromVAR": [
         "GenomicRanges",
         "ggplot2",
-        "nabor",
         "BiocParallel",
         "Biostrings",
         "TFBSTools",
@@ -38470,7 +38468,6 @@
         "SummarizedExperiment",
         "DelayedArray"
     ],
-    "nabor": [],
     "babelgene": [
         "dplyr",
         "tibble",
