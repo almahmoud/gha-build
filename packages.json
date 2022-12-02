@@ -1296,7 +1296,6 @@
         "readxl",
         "SummarizedExperiment",
         "tidyr",
-        "assertive.data.us",
         "dbplyr",
         "dplyr",
         "RSQLite",
@@ -17482,7 +17481,6 @@
         "rtracklayer",
         "tidyr",
         "tidyselect",
-        "assertive.data.us",
         "Rsamtools",
         "seqinr",
         "dplyr",
@@ -30544,10 +30542,7 @@
         "Biostrings",
         "blob"
     ],
-    "assertive": [
-        "assertive.data.us"
-    ],
-    "assertive.data.us": [],
+    "assertive": [],
     "doBy": [
         "broom",
         "dplyr",
