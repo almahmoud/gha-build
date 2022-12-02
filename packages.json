@@ -464,7 +464,6 @@
         "car"
     ],
     "methylCC": [
-        "FlowSorted.Blood.450k",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
     "methylclock": [
@@ -944,7 +943,6 @@
         "rstatix",
         "car"
     ],
-    "FlowSorted.Blood.450k": [],
     "mppa": [],
     "RcmdrMisc": [
         "car"
