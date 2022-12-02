@@ -15980,7 +15980,6 @@
         "tibble",
         "caret",
         "ggplot2",
-        "MCL",
         "recipes",
         "tidyselect",
         "pillar",
@@ -17035,7 +17034,6 @@
         "pillar"
     ],
     "IRISFGM": [
-        "MCL",
         "AnnotationDbi",
         "ggplot2",
         "org.Hs.eg.db",
@@ -20914,7 +20912,6 @@
         "rematch2"
     ],
     "mina": [
-        "MCL",
         "RSpectra",
         "ggplot2",
         "Hmisc",
@@ -21172,7 +21169,6 @@
     "miRSM": [
         "WGCNA",
         "linkcomm",
-        "MCL",
         "NMF",
         "biclust",
         "iBBiG",
@@ -21300,7 +21296,6 @@
     ],
     "miRspongeR": [
         "SPONGE",
-        "MCL",
         "clusterProfiler",
         "ReactomePA",
         "DOSE",
@@ -29510,7 +29505,6 @@
     "RITAN": [
         "ggplot2",
         "STRINGdb",
-        "MCL",
         "linkcomm",
         "sqldf",
         "BgeeDB",
@@ -42144,7 +42138,6 @@
     ],
     "R2jags": [],
     "servr": [],
-    "MCL": [],
     "available": [
         "tidytext",
         "tibble",
