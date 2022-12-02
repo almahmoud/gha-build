@@ -7799,9 +7799,7 @@
     "Rtreemix": [
         "Hmisc"
     ],
-    "rTRM": [],
     "rTRMui": [
-        "rTRM",
         "MotifDb",
         "rtracklayer"
     ],
