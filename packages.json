@@ -57765,7 +57765,6 @@
         "readr",
         "Biobase",
         "plyr",
-        "Kendall",
         "shiny",
         "purrr",
         "plotly",
@@ -93171,7 +93170,6 @@
         "askpass"
     ],
     "ParallelLogger": [],
-    "Kendall": [],
     "pairsD3": [
         "htmlwidgets",
         "shiny",
