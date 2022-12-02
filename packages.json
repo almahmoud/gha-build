@@ -595,7 +595,6 @@
     ],
     "drugTargetInteractions": [],
     "easier": [
-        "progeny",
         "ggpubr",
         "rstatix",
         "car",
@@ -1764,7 +1763,6 @@
         "enrichplot",
         "ggtree"
     ],
-    "progeny": [],
     "pRolocGUI": [],
     "Prostar": [
         "DAPAR",
