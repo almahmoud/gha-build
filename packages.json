@@ -4763,7 +4763,6 @@
         "tidyr",
         "qvalue",
         "Rsamtools",
-        "fastseg",
         "rtracklayer",
         "lme4",
         "nloptr",
@@ -6674,7 +6673,6 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "fastseg": [],
     "FCBF": [
         "ggplot2",
         "SummarizedExperiment"
@@ -10927,7 +10925,6 @@
         "BSgenome",
         "qvalue",
         "Rsamtools",
-        "fastseg",
         "rtracklayer",
         "ggplot2",
         "GenomicAlignments"
@@ -10939,7 +10936,6 @@
         "methylKit",
         "qvalue",
         "Rsamtools",
-        "fastseg",
         "rtracklayer",
         "ggplot2",
         "GenomicAlignments",
@@ -11158,7 +11154,6 @@
         "ggplot2",
         "qvalue",
         "Rsamtools",
-        "fastseg",
         "rtracklayer",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -11166,7 +11161,6 @@
     "methylKit": [
         "qvalue",
         "Rsamtools",
-        "fastseg",
         "rtracklayer",
         "ggplot2",
         "GenomicAlignments",
