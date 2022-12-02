@@ -12622,7 +12622,6 @@
         "proxy",
         "Formula",
         "plotmo",
-        "TeachingDemos",
         "BiocGenerics",
         "GenomeInfoDb",
         "XVector",
@@ -67629,7 +67628,6 @@
         "proxy",
         "Formula",
         "plotmo",
-        "TeachingDemos",
         "RCurl",
         "GenomeInfoDbData",
         "caTools",
@@ -98489,7 +98487,6 @@
         "Biobase",
         "xtable",
         "R2HTML",
-        "TeachingDemos",
         "BiocGenerics",
         "S4Vectors",
         "IRanges",
@@ -144270,16 +144267,13 @@
     "earth": [
         "Formula",
         "plotmo",
-        "TeachingDemos",
         "plotrix"
     ],
     "matrixcalc": [],
     "plotmo": [
         "Formula",
-        "plotrix",
-        "TeachingDemos"
+        "plotrix"
     ],
-    "TeachingDemos": [],
     "plotrix": [],
     "PolynomF": [
         "Rcpp"
