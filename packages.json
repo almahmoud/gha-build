@@ -20214,7 +20214,6 @@
         "tibble",
         "pillar"
     ],
-    "methylMnM": [],
     "methylPipe": [
         "GenomicRanges",
         "SummarizedExperiment",
@@ -33159,9 +33158,7 @@
         "DelayedArray",
         "XVector"
     ],
-    "SIMD": [
-        "methylMnM"
-    ],
+    "SIMD": [],
     "SimFFPE": [
         "Biostrings",
         "dplyr",
