@@ -4535,7 +4535,6 @@
         "bsseq",
         "BSgenome"
     ],
-    "NanoStringQCPro": [],
     "nanotatoR": [
         "testthat",
         "tidyverse",
