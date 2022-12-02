@@ -3990,7 +3990,6 @@
         "survminer",
         "piano",
         "genefu",
-        "verification",
         "biomaRt",
         "ggpubr",
         "rstatix",
@@ -6419,7 +6418,6 @@
         "biomaRt"
     ],
     "tfprobability": [],
-    "verification": [],
     "tidybayes": [],
     "phastCons100way.UCSC.hg38": [
         "GenomicScores",
