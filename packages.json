@@ -1507,9 +1507,7 @@
     ],
     "SigsPack": [],
     "simpleSeg": [],
-    "singleCellTK": [
-        "SoupX"
-    ],
+    "singleCellTK": [],
     "SingleMoleculeFootprinting": [
         "QuasR",
         "GenomicFiles"
@@ -1842,7 +1840,6 @@
         "car",
         "pbkrtest"
     ],
-    "SoupX": [],
     "sampSurf": [],
     "GenKern": [],
     "vbsr": []
