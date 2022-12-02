@@ -2880,7 +2880,6 @@
         "BSgenome"
     ],
     "HiCBricks": [],
-    "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "BSgenome",
@@ -2896,7 +2895,6 @@
         "ggExtra",
         "multiHiCcompare",
         "rstatix",
-        "HiCcompare",
         "broom",
         "car",
         "pbkrtest",
@@ -4239,9 +4237,7 @@
         "ensembldb"
     ],
     "multiGSEA": [],
-    "multiHiCcompare": [
-        "HiCcompare"
-    ],
+    "multiHiCcompare": [],
     "multiSight": [
         "anyLib",
         "caret",
@@ -6300,9 +6296,7 @@
         "VariantAnnotation"
     ],
     "SpeCond": [],
-    "SpectralTAD": [
-        "HiCcompare"
-    ],
+    "SpectralTAD": [],
     "SPIAT": [
         "SpatialExperiment",
         "plotly",
@@ -6546,7 +6540,6 @@
         "treeio"
     ],
     "TADCompare": [
-        "HiCcompare",
         "ggpubr",
         "rstatix",
         "broom",
