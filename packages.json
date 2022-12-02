@@ -2,10 +2,7 @@
     "ADAMgui": [
         "ggpubr"
     ],
-    "affycoretools": [],
-    "AgiMicroRna": [
-        "affycoretools"
-    ],
+    "AgiMicroRna": [],
     "ArrayExpressHTS": [],
     "arrayMvout": [],
     "ASpediaFI": [
