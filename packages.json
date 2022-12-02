@@ -14247,7 +14247,6 @@
         "BiocParallel",
         "DelayedArray"
     ],
-    "gcatest": [],
     "gCrisprTools": [
         "ggplot2",
         "SummarizedExperiment",
