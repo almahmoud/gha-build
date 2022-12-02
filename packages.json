@@ -256,18 +256,13 @@
         "ggpubr",
         "factoextra"
     ],
-    "psichomics": [
-        "recount"
-    ],
+    "psichomics": [],
     "ptairMS": [
         "ggpubr"
     ],
     "qmtools": [],
-    "recount": [],
     "rexposome": [],
-    "RNAAgeCalc": [
-        "recount"
-    ],
+    "RNAAgeCalc": [],
     "RNAmodR.AlkAnilineSeq": [],
     "RNAmodR.ML": [],
     "RNAmodR.RiboMethSeq": [],
@@ -276,7 +271,6 @@
         "ggpubr"
     ],
     "RnaSeqSampleSize": [
-        "recount",
         "ggpubr"
     ],
     "RTCGA": [
