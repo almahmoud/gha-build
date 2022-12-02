@@ -88,7 +88,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "rvest",
-        "smoother",
         "dplyr",
         "BiocFileCache",
         "RSQLite",
@@ -5321,7 +5320,6 @@
         "tidyr",
         "ggthemes",
         "VIM",
-        "smoother",
         "dplyr",
         "car",
         "pbkrtest",
@@ -22589,7 +22587,6 @@
         "shiny"
     ],
     "rvest": [],
-    "smoother": [],
     "dbplyr": [
         "dplyr"
     ],
