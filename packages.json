@@ -33695,7 +33695,6 @@
         "withr",
         "rtracklayer",
         "GenomeInfoDb",
-        "settings",
         "filehash",
         "htmlwidgets",
         "generics",
@@ -109759,7 +109758,6 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "settings",
         "BiocGenerics",
         "S4Vectors",
         "Biostrings",
@@ -160929,7 +160927,6 @@
         "rlang",
         "fastmap"
     ],
-    "settings": [],
     "filehash": [],
     "CatEncoders": [
         "Matrix",
