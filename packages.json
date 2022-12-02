@@ -9363,7 +9363,6 @@
         "crlmm",
         "bigstatsr",
         "UpSetR",
-        "RnBeads.hg19",
         "cowplot",
         "ggplot2",
         "oligoClasses",
@@ -21412,7 +21411,6 @@
         "cowplot",
         "ggplot2"
     ],
-    "RnBeads.hg19": [],
     "depmap": [
         "dplyr",
         "ExperimentHub",
