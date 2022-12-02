@@ -4007,10 +4007,8 @@
         "dplyr",
         "SummarizedExperiment"
     ],
-    "crisprBase": [],
     "crisprBowtie": [
         "BSgenome",
-        "crisprBase",
         "readr",
         "rtracklayer",
         "Rsamtools",
@@ -4020,7 +4018,6 @@
     ],
     "crisprBwa": [
         "BSgenome",
-        "crisprBase",
         "readr",
         "rtracklayer",
         "Rsamtools",
@@ -4029,7 +4026,6 @@
         "SummarizedExperiment"
     ],
     "crisprDesign": [
-        "crisprBase",
         "AnnotationDbi",
         "BSgenome",
         "crisprBowtie",
@@ -4118,7 +4114,6 @@
         "SummarizedExperiment"
     ],
     "crisprVerse": [
-        "crisprBase",
         "crisprBowtie",
         "crisprScore",
         "crisprDesign",
@@ -4151,7 +4146,6 @@
         "viridis"
     ],
     "crisprViz": [
-        "crisprBase",
         "crisprDesign",
         "BSgenome",
         "GenomicFeatures",
