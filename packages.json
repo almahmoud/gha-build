@@ -4541,7 +4541,6 @@
         "GenomeInfoDb",
         "openssl"
     ],
-    "BGmix": [],
     "bgx": [
         "Biobase",
         "affy",
