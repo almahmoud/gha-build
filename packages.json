@@ -3346,7 +3346,6 @@
         "GenomicFeatures"
     ],
     "REDseq": [
-        "BSgenome.Celegans.UCSC.ce2",
         "ChIPpeakAnno",
         "ensembldb",
         "GenomicFeatures",
@@ -4832,7 +4831,6 @@
     "phastCons100way.UCSC.hg19": [
         "GenomicScores"
     ],
-    "BSgenome.Celegans.UCSC.ce2": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [],
     "rGenomeTracksData": [],
     "valr": [],
