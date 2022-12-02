@@ -9674,7 +9674,6 @@
         "AnnotationHub",
         "BiocFileCache"
     ],
-    "qckitfastq": [],
     "QDNAseq": [],
     "QFeatures": [
         "MultiAssayExperiment",
