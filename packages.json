@@ -4070,7 +4070,6 @@
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
-        "mitools",
         "tidytree",
         "dqrng",
         "NADA",
@@ -14913,8 +14912,7 @@
         "pillar",
         "mgcv",
         "scales",
-        "survival",
-        "mitools"
+        "survival"
     ],
     "debCAM": [
         "BiocParallel",
@@ -20551,7 +20549,6 @@
         "plotly",
         "knitr",
         "survival",
-        "mitools",
         "lifecycle",
         "tibble",
         "tidyselect",
@@ -40502,8 +40499,7 @@
         "ICS",
         "statnet.common",
         "survey",
-        "pillar",
-        "mitools"
+        "pillar"
     ],
     "netOmics": [
         "dplyr",
@@ -51110,7 +51106,6 @@
         "RBGL",
         "survival",
         "RcppEigen",
-        "mitools",
         "affy",
         "ggplot2",
         "lifecycle",
@@ -68920,8 +68915,7 @@
         "pkgload"
     ],
     "survey": [
-        "survival",
-        "mitools"
+        "survival"
     ],
     "tokenizers": [],
     "softImpute": [],
@@ -68933,7 +68927,6 @@
     "Rcgmin": [
         "optextras"
     ],
-    "mitools": [],
     "sjmisc": [
         "dplyr",
         "purrr",
@@ -74343,13 +74336,11 @@
     "ICSNP": [
         "ICS",
         "survey",
-        "survival",
-        "mitools"
+        "survival"
     ],
     "ICS": [
         "survey",
-        "survival",
-        "mitools"
+        "survival"
     ],
     "dnet": [
         "igraph",
