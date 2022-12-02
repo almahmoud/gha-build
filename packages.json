@@ -126,7 +126,6 @@
         "scuttle",
         "ggrastr"
     ],
-    "ALDEx2": [],
     "alevinQC": [
         "GGally",
         "tidyr"
@@ -670,7 +669,6 @@
         "TreeSummarizedExperiment",
         "zinbwave",
         "DESeq2",
-        "ALDEx2",
         "MAST",
         "Seurat",
         "ANCOMBC",
@@ -6942,7 +6940,6 @@
         "DESeq2",
         "ANCOMBC",
         "caret",
-        "ALDEx2",
         "mia",
         "DescTools",
         "Hmisc",
@@ -8263,9 +8260,7 @@
     "omicade4": [
         "made4"
     ],
-    "omicplotR": [
-        "ALDEx2"
-    ],
+    "omicplotR": [],
     "omicRexposome": [
         "rexposome",
         "sva",
