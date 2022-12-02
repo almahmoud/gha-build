@@ -14510,7 +14510,6 @@
         "utf8"
     ],
     "cardelino": [
-        "combinat",
         "GenomeInfoDb",
         "GenomicRanges",
         "ggplot2",
@@ -15689,7 +15688,6 @@
         "tibble",
         "vctrs",
         "lattice",
-        "combinat",
         "RcppArmadillo",
         "RcppProgress",
         "assertive.base",
@@ -17625,7 +17623,6 @@
         "RColorBrewer",
         "dendextend",
         "matrixStats",
-        "combinat",
         "S4Vectors",
         "IRanges",
         "GenomeInfoDb",
@@ -19841,7 +19838,6 @@
         "GenomicAlignments",
         "digest",
         "DDRTree",
-        "combinat",
         "irlba",
         "Rtsne",
         "leidenbase",
@@ -42223,7 +42219,6 @@
         "TrajectoryUtils",
         "plyr",
         "igraph",
-        "combinat",
         "mgcv",
         "gplots",
         "iterators",
@@ -47214,7 +47209,6 @@
         "MASS",
         "gdata",
         "genetics",
-        "combinat",
         "mvtnorm"
     ],
     "GeneTonic": [
@@ -52152,7 +52146,6 @@
         "gdata",
         "Biostrings",
         "multtest",
-        "combinat",
         "foreach",
         "BiocGenerics",
         "S4Vectors",
@@ -64678,7 +64671,6 @@
         "base64enc",
         "magrittr",
         "Matrix",
-        "combinat",
         "questionr",
         "clue",
         "vsn",
@@ -75872,7 +75864,6 @@
         "igraph",
         "BiocGenerics",
         "plyr",
-        "combinat",
         "irlba",
         "matrixStats",
         "Rtsne",
@@ -80146,7 +80137,6 @@
         "Rhtslib",
         "survival",
         "zlibbioc",
-        "combinat",
         "RcppArmadillo",
         "RcppProgress",
         "RcppEigen",
@@ -82337,7 +82327,6 @@
         "bigmemory",
         "doParallel",
         "foreach",
-        "combinat",
         "rappdirs",
         "GenomeInfoDb",
         "S4Vectors",
@@ -84751,7 +84740,6 @@
         "lpSolve",
         "linprog",
         "RcppProgress",
-        "combinat",
         "questionr",
         "nlme",
         "rngtools",
@@ -97163,7 +97151,6 @@
         "Biobase",
         "survival",
         "MASS",
-        "combinat",
         "foreach",
         "iterators",
         "RCurl",
@@ -116279,7 +116266,6 @@
         "ellipsis",
         "uuid",
         "genefilter",
-        "combinat",
         "mclust",
         "softImpute",
         "KEGGREST",
@@ -129924,7 +129910,6 @@
         "shiny",
         "plyr",
         "igraph",
-        "combinat",
         "mgcv",
         "mclust",
         "gplots",
@@ -131129,7 +131114,6 @@
         "lattice",
         "ggplot2",
         "DDRTree",
-        "combinat",
         "irlba",
         "matrixStats",
         "Rtsne",
@@ -143434,7 +143418,6 @@
         "Biobase",
         "BiocGenerics"
     ],
-    "combinat": [],
     "vcfR": [
         "ape",
         "dplyr",
@@ -143683,7 +143666,6 @@
     "MCMCprecision": [
         "Rcpp",
         "Matrix",
-        "combinat",
         "RcppArmadillo",
         "RcppProgress",
         "RcppEigen",
@@ -149491,7 +149473,6 @@
         "colorspace"
     ],
     "genetics": [
-        "combinat",
         "gdata",
         "MASS",
         "mvtnorm"
@@ -150052,9 +150033,7 @@
         "Rcpp"
     ],
     "wk": [],
-    "RMallow": [
-        "combinat"
-    ],
+    "RMallow": [],
     "penalized": [
         "survival",
         "Rcpp",
@@ -151419,7 +151398,6 @@
         "MASS",
         "nlme",
         "AlgDesign",
-        "combinat",
         "questionr",
         "lattice",
         "shiny",
@@ -151485,7 +151463,6 @@
     ],
     "klaR": [
         "MASS",
-        "combinat",
         "questionr",
         "shiny",
         "miniUI",
@@ -153850,7 +153827,6 @@
         "mgcv",
         "scales",
         "withr",
-        "combinat",
         "questionr",
         "rngtools",
         "digest",
