@@ -1096,7 +1096,6 @@
     "GUIDEseq": [
         "ChIPpeakAnno"
     ],
-    "Guitar": [],
     "Gviz": [
         "biovizBase",
         "VariantAnnotation"
