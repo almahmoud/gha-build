@@ -1100,7 +1100,6 @@
     ],
     "GARS": [
         "DaMiRseq",
-        "MLSeq",
         "EDASeq",
         "FactoMineR",
         "arm",
@@ -1848,7 +1847,6 @@
         "deepSNV",
         "VariantAnnotation"
     ],
-    "MLSeq": [],
     "MMDiff2": [],
     "MMUPHin": [
         "Maaslin2",
