@@ -4420,7 +4420,6 @@
         "dnet",
         "supraHex"
     ],
-    "netresponse": [],
     "NetSAM": [
         "WGCNA",
         "biomaRt"
