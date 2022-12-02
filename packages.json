@@ -44883,7 +44883,6 @@
         "pcaMethods",
         "BiocParallel",
         "futile.logger",
-        "Lmoments",
         "MatrixModels",
         "survival"
     ],
@@ -62768,10 +62767,7 @@
     ],
     "copula": [],
     "proxyC": [],
-    "extRemes": [
-        "Lmoments"
-    ],
-    "Lmoments": [],
+    "extRemes": [],
     "torch": [
         "callr"
     ],
