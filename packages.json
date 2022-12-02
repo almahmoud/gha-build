@@ -1866,9 +1866,7 @@
         "ggtree",
         "treeio"
     ],
-    "mosbi": [
-        "QUBIC"
-    ],
+    "mosbi": [],
     "motifbreakR": [
         "VariantAnnotation",
         "motifStack",
@@ -2378,7 +2376,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "QUBIC": [],
     "R3CPET": [
         "ggbio",
         "biovizBase",
