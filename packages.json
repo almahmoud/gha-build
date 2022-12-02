@@ -331,7 +331,6 @@
         "ensembldb"
     ],
     "CAGEr": [],
-    "CAMERA": [],
     "canceR": [
         "phenoTest"
     ],
@@ -1141,9 +1140,7 @@
     "FindIT2": [
         "GenomicFeatures"
     ],
-    "flagme": [
-        "CAMERA"
-    ],
+    "flagme": [],
     "FLAMES": [
         "ggbio",
         "bambu",
@@ -1586,9 +1583,7 @@
         "pbkrtest",
         "lme4"
     ],
-    "IPO": [
-        "CAMERA"
-    ],
+    "IPO": [],
     "IRISFGM": [
         "Seurat",
         "clusterProfiler",
@@ -1672,9 +1667,7 @@
         "lmerTest",
         "lme4"
     ],
-    "LOBSTAHS": [
-        "CAMERA"
-    ],
+    "LOBSTAHS": [],
     "LowMACA": [
         "cBioPortalData",
         "motifStack",
@@ -1736,7 +1729,6 @@
         "tidyverse"
     ],
     "MAIT": [
-        "CAMERA",
         "agricolae",
         "klaR",
         "questionr"
@@ -1842,9 +1834,7 @@
         "ensembldb",
         "EnsDb.Hsapiens.v86"
     ],
-    "metaMS": [
-        "CAMERA"
-    ],
+    "metaMS": [],
     "MetaPhOR": [
         "clusterProfiler",
         "enrichplot",
