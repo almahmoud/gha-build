@@ -584,7 +584,6 @@
         "GenomicFeatures",
         "rtracklayer",
         "biomaRt",
-        "sjmisc",
         "BiocFileCache"
     ],
     "BgeeDB": [
@@ -11091,7 +11090,6 @@
         "tidyr"
     ],
     "corncob": [],
-    "sjmisc": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
         "bumphunter",
