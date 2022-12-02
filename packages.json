@@ -9594,7 +9594,6 @@
         "dbplyr"
     ],
     "convert": [],
-    "copa": [],
     "copynumber": [
         "GenomicRanges",
         "GenomeInfoDb",
