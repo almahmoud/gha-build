@@ -536,7 +536,6 @@
         "modelr",
         "readr",
         "readxl",
-        "reprex",
         "tidyr",
         "BiocFileCache",
         "GenomicAlignments",
@@ -3269,7 +3268,6 @@
         "modelr",
         "readr",
         "readxl",
-        "reprex",
         "ggdendro",
         "vroom"
     ],
@@ -7272,7 +7270,6 @@
         "modelr",
         "readr",
         "readxl",
-        "reprex",
         "tidyr",
         "vroom",
         "ipred"
@@ -7885,7 +7882,6 @@
         "modelr",
         "readr",
         "readxl",
-        "reprex",
         "GenomicFeatures",
         "AnnotationHubData",
         "annotate",
@@ -8409,7 +8405,6 @@
         "modelr",
         "readr",
         "readxl",
-        "reprex",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -8473,7 +8468,6 @@
         "modelr",
         "readr",
         "readxl",
-        "reprex",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -8891,7 +8885,6 @@
         "modelr",
         "readr",
         "readxl",
-        "reprex",
         "viridis",
         "car",
         "nloptr",
@@ -9286,7 +9279,6 @@
         "modelr",
         "readr",
         "readxl",
-        "reprex",
         "tidyr",
         "vroom"
     ],
@@ -13617,7 +13609,6 @@
         "modelr",
         "readr",
         "readxl",
-        "reprex",
         "nloptr",
         "vroom",
         "ipred",
@@ -13786,7 +13777,6 @@
         "modelr",
         "readr",
         "readxl",
-        "reprex",
         "vroom"
     ],
     "STdeconvolve": [
@@ -13970,7 +13960,6 @@
         "modelr",
         "readr",
         "readxl",
-        "reprex",
         "pbkrtest",
         "lme4",
         "viridis",
@@ -15483,7 +15472,6 @@
         "modelr",
         "readr",
         "readxl",
-        "reprex",
         "tidyr",
         "vroom"
     ],
@@ -15535,7 +15523,6 @@
         "broom",
         "tidyr"
     ],
-    "reprex": [],
     "reactome.db": [],
     "doBy": [
         "broom",
