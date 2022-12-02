@@ -299,8 +299,7 @@
     "ALDEx2": [
         "zCompositions",
         "GenomicRanges",
-        "SummarizedExperiment",
-        "NADA"
+        "SummarizedExperiment"
     ],
     "alevinQC": [
         "rmarkdown",
@@ -1652,7 +1651,6 @@
         "scater",
         "testthat",
         "tidytree",
-        "NADA",
         "RSQLite",
         "KEGGREST",
         "cellranger",
@@ -15185,7 +15183,6 @@
         "testthat",
         "hardhat",
         "ipred",
-        "NADA",
         "RSQLite",
         "KEGGREST",
         "prodlim",
@@ -17924,8 +17921,7 @@
         "vegan",
         "zCompositions",
         "GenomicRanges",
-        "SummarizedExperiment",
-        "NADA"
+        "SummarizedExperiment"
     ],
     "omicRexposome": [
         "rexposome",
@@ -28596,10 +28592,7 @@
         "tibble"
     ],
     "ragg": [],
-    "zCompositions": [
-        "NADA"
-    ],
-    "NADA": [],
+    "zCompositions": [],
     "shinydashboard": [
         "shiny"
     ],
