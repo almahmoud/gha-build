@@ -6996,7 +6996,6 @@
         "biomaRt",
         "WGCNA"
     ],
-    "Trendy": [],
     "TRESS": [
         "GenomicFeatures",
         "biomaRt"
