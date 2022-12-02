@@ -1976,7 +1976,6 @@
         "lifecycle"
     ],
     "ArrayExpressHTS": [
-        "sampling",
         "Rsamtools",
         "Biostrings",
         "GenomicRanges",
@@ -3171,7 +3170,6 @@
         "MLInterfaces",
         "caret",
         "e1071",
-        "sampling",
         "dendextend",
         "mixtools",
         "biomaRt",
@@ -45058,7 +45056,6 @@
         "BiocParallel",
         "caret",
         "e1071",
-        "sampling",
         "dendextend",
         "scales",
         "knitr",
@@ -45173,7 +45170,6 @@
         "MLInterfaces",
         "caret",
         "e1071",
-        "sampling",
         "dendextend",
         "knitr",
         "mixtools",
@@ -66452,7 +66448,6 @@
         "urltools"
     ],
     "urltools": [],
-    "sampling": [],
     "sendmailR": [],
     "FDb.InfiniumMethylation.hg19": [
         "GenomicFeatures",
