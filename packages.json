@@ -47905,7 +47905,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "celestial",
         "GenomicRanges",
         "DelayedArray",
         "IRanges",
@@ -51987,7 +51986,6 @@
         "BumpyMatrix",
         "lsa",
         "bench",
-        "celestial",
         "lifecycle",
         "GenomicRanges",
         "Matrix",
@@ -71539,7 +71537,6 @@
         "BumpyMatrix",
         "lsa",
         "bench",
-        "celestial",
         "Matrix",
         "GenomicRanges",
         "DelayedArray",
@@ -81255,10 +81252,7 @@
         "highr"
     ],
     "webutils": [],
-    "magicaxis": [
-        "celestial"
-    ],
-    "celestial": [],
+    "magicaxis": [],
     "PMCMRplus": [
         "Rmpfr",
         "BWStest",
