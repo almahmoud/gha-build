@@ -7175,8 +7175,7 @@
     "COHCAP": [],
     "cola": [
         "ComplexHeatmap",
-        "httr",
-        "eulerr"
+        "httr"
     ],
     "comapr": [
         "ggplot2",
@@ -35189,7 +35188,6 @@
     "seqsetvis": [
         "ggplot2",
         "cowplot",
-        "eulerr",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -44679,7 +44677,6 @@
         "tidyselect",
         "pillar"
     ],
-    "eulerr": [],
     "cobs": [
         "quantreg"
     ],
