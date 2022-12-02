@@ -1111,7 +1111,6 @@
         "minfi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "MetID": [],
     "mia": [
         "TreeSummarizedExperiment"
     ],
