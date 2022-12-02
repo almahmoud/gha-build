@@ -20761,7 +20761,6 @@
     ],
     "MSPrep": [
         "SummarizedExperiment",
-        "crmn",
         "dplyr",
         "tidyr",
         "tibble",
@@ -39833,7 +39832,6 @@
         "tibble",
         "pillar"
     ],
-    "crmn": [],
     "anyLib": [
         "devtools",
         "usethis",
