@@ -4058,7 +4058,6 @@
         "vioplot",
         "imager",
         "topGO",
-        "xlsx",
         "futile.logger",
         "mgcv",
         "scales",
@@ -54469,7 +54468,6 @@
         "readbitmap",
         "igraph"
     ],
-    "xlsx": [],
     "readbitmap": [],
     "multcomp": [
         "survival",
