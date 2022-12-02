@@ -60580,7 +60580,6 @@
         "RCurl",
         "lifecycle"
     ],
-    "semisup": [],
     "seq2pathway": [
         "WGCNA",
         "biomaRt",
