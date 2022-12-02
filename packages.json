@@ -12485,7 +12485,6 @@
         "tidyselect",
         "dbplyr"
     ],
-    "interacCircos": [],
     "InteractionSet": [
         "GenomicRanges",
         "SummarizedExperiment"
