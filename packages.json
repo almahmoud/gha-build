@@ -208,9 +208,7 @@
         "BSgenome",
         "BiocFileCache"
     ],
-    "apComplex": [
-        "org.Sc.sgd.db"
-    ],
+    "apComplex": [],
     "APL": [
         "plotly",
         "Seurat",
@@ -3073,7 +3071,6 @@
         "Hmisc",
         "WGCNA",
         "geepack",
-        "org.Sc.sgd.db",
         "broom"
     ],
     "FastqCleaner": [
@@ -4510,7 +4507,6 @@
     ],
     "LiquidAssociation": [
         "geepack",
-        "org.Sc.sgd.db",
         "broom"
     ],
     "lisaClust": [
@@ -7628,7 +7624,6 @@
         "DESeq2",
         "systemPipeR",
         "clusterProfiler",
-        "org.Sc.sgd.db",
         "DOSE",
         "sva",
         "rtracklayer",
@@ -9732,7 +9727,6 @@
     ],
     "GUniFrac": [],
     "recipes": [],
-    "org.Sc.sgd.db": [],
     "Seurat": [
         "plotly"
     ],
