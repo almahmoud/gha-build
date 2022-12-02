@@ -8848,7 +8848,6 @@
         "HTSFilter",
         "HTSCluster",
         "compositions",
-        "bayesm",
         "GenomicRanges",
         "geneplotter",
         "mgcv",
@@ -24698,7 +24697,6 @@
         "vegan",
         "XVector",
         "GenomeInfoDb",
-        "bayesm",
         "tidyselect",
         "vctrs",
         "pillar",
@@ -29301,7 +29299,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "multtest",
-        "bayesm",
         "htmlwidgets",
         "jquerylib",
         "bslib",
@@ -38210,7 +38207,6 @@
         "RUVSeq",
         "rARPACK",
         "SingleCellExperiment",
-        "bayesm",
         "segmented",
         "survival",
         "RSpectra",
@@ -50059,10 +50055,7 @@
     "HTSCluster": [
         "edgeR"
     ],
-    "compositions": [
-        "bayesm"
-    ],
-    "bayesm": [],
+    "compositions": [],
     "faahKO": [
         "xcms",
         "BiocParallel",
