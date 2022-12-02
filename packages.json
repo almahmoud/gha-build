@@ -43951,7 +43951,6 @@
         "lifecycle"
     ],
     "peco": [
-        "circular",
         "doParallel",
         "genlasso",
         "scater",
@@ -63744,7 +63743,6 @@
     ],
     "tricycle": [
         "SingleCellExperiment",
-        "circular",
         "ggplot2",
         "ggnewscale",
         "AnnotationDbi",
@@ -74871,7 +74869,6 @@
     "R.huge": [
         "R.utils"
     ],
-    "circular": [],
     "genlasso": [
         "igraph"
     ],
