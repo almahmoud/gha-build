@@ -464,7 +464,6 @@
         "nloptr",
         "tibble",
         "tidyr",
-        "gld",
         "readxl",
         "tidyselect",
         "ggplot2",
@@ -1667,7 +1666,6 @@
         "spatstat.explore",
         "treeio",
         "genefilter",
-        "gld",
         "readxl",
         "tidyselect",
         "AnnotationDbi",
@@ -11151,7 +11149,6 @@
     ],
     "gpuMagic": [
         "DescTools",
-        "gld",
         "readxl",
         "cellranger",
         "tibble",
@@ -12228,7 +12225,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "viridis",
-        "gld",
         "readxl",
         "tibble",
         "tidyselect",
@@ -14075,7 +14071,6 @@
         "dplyr",
         "RSQLite",
         "tibble",
-        "gld",
         "GenomicRanges",
         "tidyselect"
     ],
@@ -15420,7 +15415,6 @@
         "treeio",
         "shiny",
         "ggplotify",
-        "gld",
         "readxl",
         "annotate",
         "AnnotationDbi",
@@ -23643,7 +23637,6 @@
         "BSgenome",
         "Biostrings",
         "rtracklayer",
-        "gld",
         "readxl",
         "cellranger",
         "tibble",
@@ -29084,7 +29077,6 @@
         "tibble"
     ],
     "DescTools": [
-        "gld",
         "readxl",
         "cellranger",
         "tibble",
@@ -29099,7 +29091,6 @@
         "waldo",
         "rematch2"
     ],
-    "gld": [],
     "tidytree": [
         "dplyr",
         "tibble",
@@ -31468,7 +31459,6 @@
         "progress"
     ],
     "PairedData": [
-        "gld",
         "ggplot2",
         "tibble"
     ],
