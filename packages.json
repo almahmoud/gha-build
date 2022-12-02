@@ -202,7 +202,6 @@
     "BioNAR": [
         "synaptome.db"
     ],
-    "BioNERO": [],
     "biosigner": [],
     "biovizBase": [
         "VariantAnnotation",
@@ -277,7 +276,6 @@
     ],
     "cageminer": [
         "ggbio",
-        "BioNERO",
         "biovizBase",
         "VariantAnnotation",
         "OrganismDbi",
