@@ -25962,7 +25962,6 @@
         "graphlayouts",
         "RSQLite",
         "e1071",
-        "ada",
         "ipred",
         "lexicon",
         "textshape",
@@ -39766,7 +39765,6 @@
         "gplots",
         "RSQLite",
         "e1071",
-        "ada",
         "ipred",
         "Biobase",
         "IRanges",
@@ -66789,7 +66787,6 @@
         "kknn",
         "glmnet",
         "e1071",
-        "ada",
         "future.apply",
         "ggplot2",
         "pROC",
@@ -85798,7 +85795,6 @@
     "RecordLinkage": [
         "RSQLite",
         "e1071",
-        "ada",
         "ipred",
         "class",
         "survival",
@@ -85816,7 +85812,6 @@
         "future",
         "globals"
     ],
-    "ada": [],
     "BBmisc": [],
     "extraDistr": [],
     "NHPoisson": [
