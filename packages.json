@@ -914,7 +914,6 @@
         "biomaRt",
         "nloptr"
     ],
-    "compartmap": [],
     "compEpiTools": [
         "GenomicFeatures",
         "methylPipe",
