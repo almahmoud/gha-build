@@ -2830,7 +2830,6 @@
         "KEGGREST",
         "blob"
     ],
-    "BrowserViz": [],
     "BSgenome": [
         "GenomicRanges",
         "Biostrings",
@@ -12614,7 +12613,6 @@
     "igvR": [
         "GenomicRanges",
         "GenomicAlignments",
-        "BrowserViz",
         "rtracklayer",
         "VariantAnnotation",
         "SummarizedExperiment",
@@ -21832,9 +21830,7 @@
         "IRdisplay",
         "repr"
     ],
-    "RCyjs": [
-        "BrowserViz"
-    ],
+    "RCyjs": [],
     "RDRToolbox": [
         "rgl"
     ],
