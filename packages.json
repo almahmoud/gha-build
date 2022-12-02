@@ -225,9 +225,7 @@
     "CopyNumberPlots": [
         "karyoploteR"
     ],
-    "crisprseekplus": [
-        "GUIDEseq"
-    ],
+    "crisprseekplus": [],
     "crisprVerse": [
         "crisprViz",
         "Gviz"
@@ -553,7 +551,6 @@
     "GSReg": [
         "Homo.sapiens"
     ],
-    "GUIDEseq": [],
     "Gviz": [],
     "gwascat": [],
     "HelloRanges": [],
