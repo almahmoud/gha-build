@@ -5207,7 +5207,6 @@
         "GO.db",
         "biomaRt"
     ],
-    "LRBaseDbi": [],
     "LRcell": [
         "ExperimentHub",
         "AnnotationHub",
