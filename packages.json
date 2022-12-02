@@ -45954,7 +45954,6 @@
         "RcppEigen",
         "interp"
     ],
-    "profileScoreDist": [],
     "progeny": [
         "dplyr",
         "tidyr",
