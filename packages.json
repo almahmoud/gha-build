@@ -22694,7 +22694,6 @@
         "GenomicRanges",
         "Biostrings"
     ],
-    "rbsurv": [],
     "Rcade": [
         "GenomicRanges",
         "Rsamtools",
