@@ -37152,7 +37152,6 @@
         "tzdb",
         "BiocParallel",
         "illuminaio",
-        "wheatmap",
         "reshape2",
         "Biobase",
         "ellipsis",
@@ -60912,7 +60911,6 @@
         "readr",
         "tibble",
         "illuminaio",
-        "wheatmap",
         "GenomicRanges",
         "IRanges",
         "ggplot2",
@@ -67201,7 +67199,6 @@
         "sesameData",
         "BiocParallel",
         "illuminaio",
-        "wheatmap",
         "BiocFileCache",
         "httpuv",
         "fontawesome",
@@ -80538,7 +80535,6 @@
         "bslib",
         "sass"
     ],
-    "wheatmap": [],
     "FlowSorted.Blood.450k": [
         "minfi",
         "GenomicRanges",
