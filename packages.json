@@ -3206,7 +3206,6 @@
         "Hmisc",
         "FactoMineR",
         "caret",
-        "plsVarSel",
         "arm",
         "lme4",
         "recipes",
@@ -5189,7 +5188,6 @@
         "Hmisc",
         "FactoMineR",
         "caret",
-        "plsVarSel",
         "arm",
         "testthat",
         "lme4",
@@ -16208,7 +16206,6 @@
         "testthat",
         "waldo"
     ],
-    "plsVarSel": [],
     "arm": [
         "lme4",
         "nloptr",
