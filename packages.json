@@ -1063,7 +1063,6 @@
         "tidyselect",
         "hms"
     ],
-    "aroma.light": [],
     "ArrayExpress": [
         "oligo",
         "oligoClasses",
@@ -6711,7 +6710,6 @@
         "GenomicRanges",
         "geneplotter",
         "ShortRead",
-        "aroma.light",
         "biomaRt",
         "AnnotationFilter",
         "rtracklayer",
@@ -8004,7 +8002,6 @@
         "BiocParallel",
         "geneplotter",
         "ShortRead",
-        "aroma.light",
         "Rsamtools",
         "biomaRt",
         "Biostrings",
@@ -9924,7 +9921,6 @@
     ],
     "EDASeq": [
         "ShortRead",
-        "aroma.light",
         "Rsamtools",
         "biomaRt",
         "Biostrings",
@@ -12482,7 +12478,6 @@
         "BiocParallel",
         "geneplotter",
         "ShortRead",
-        "aroma.light",
         "Rsamtools",
         "biomaRt",
         "Biostrings",
@@ -18759,7 +18754,6 @@
         "ggplot2",
         "bsseq",
         "ShortRead",
-        "aroma.light",
         "annotate",
         "plotly",
         "viridis",
@@ -23012,7 +23006,6 @@
         "tidyselect",
         "pillar",
         "ShortRead",
-        "aroma.light",
         "Rsamtools",
         "biomaRt",
         "Biostrings",
@@ -24425,7 +24418,6 @@
         "RSQLite",
         "KEGGREST",
         "R.huge",
-        "aroma.light",
         "Biostrings",
         "blob",
         "XVector"
@@ -28019,7 +28011,6 @@
         "RSQLite",
         "KEGGREST",
         "ShortRead",
-        "aroma.light",
         "biomaRt",
         "SummarizedExperiment",
         "BiocParallel",
@@ -29236,7 +29227,6 @@
     "RUVSeq": [
         "EDASeq",
         "ShortRead",
-        "aroma.light",
         "Rsamtools",
         "biomaRt",
         "Biostrings",
@@ -30186,7 +30176,6 @@
     ],
     "scone": [
         "SummarizedExperiment",
-        "aroma.light",
         "BiocParallel",
         "compositions",
         "mixtools",
@@ -33244,7 +33233,6 @@
         "beachmat",
         "scuttle",
         "ShortRead",
-        "aroma.light",
         "Rsamtools",
         "biomaRt",
         "Biostrings",
@@ -34760,7 +34748,6 @@
         "viridis",
         "tibble",
         "Biostrings",
-        "aroma.light",
         "blob",
         "XVector",
         "pillar"
@@ -41067,15 +41054,13 @@
         "aroma.apd",
         "R.huge",
         "R.rsp",
-        "PSCBS",
-        "aroma.light"
+        "PSCBS"
     ],
     "aroma.core": [
         "R.filesets",
         "R.cache",
         "R.rsp",
-        "PSCBS",
-        "aroma.light"
+        "PSCBS"
     ],
     "R.filesets": [
         "R.cache"
@@ -41087,8 +41072,7 @@
         "R.cache"
     ],
     "PSCBS": [
-        "R.cache",
-        "aroma.light"
+        "R.cache"
     ],
     "R.huge": [],
     "opencpu": [],
