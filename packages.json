@@ -23703,7 +23703,6 @@
         "rematch2"
     ],
     "RUVcorr": [],
-    "RUVnormalize": [],
     "RUVSeq": [
         "EDASeq",
         "ShortRead",
