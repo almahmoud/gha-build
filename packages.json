@@ -1745,9 +1745,7 @@
         "enrichplot",
         "ggtree"
     ],
-    "netOmics": [
-        "RandomWalkRestartMH"
-    ],
+    "netOmics": [],
     "netSmooth": [
         "clusterExperiment"
     ],
@@ -2039,7 +2037,6 @@
         "VariantAnnotation"
     ],
     "RadioGx": [],
-    "RandomWalkRestartMH": [],
     "RareVariantVis": [
         "VariantAnnotation",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
