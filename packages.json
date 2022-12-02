@@ -55108,7 +55108,6 @@
     ],
     "getDEE2": [
         "SummarizedExperiment",
-        "htm2txt",
         "MatrixGenerics",
         "GenomicRanges",
         "Biobase",
@@ -166889,7 +166888,6 @@
     "repo": [
         "digest"
     ],
-    "htm2txt": [],
     "ggalt": [
         "ggplot2",
         "dplyr",
