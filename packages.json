@@ -29882,7 +29882,6 @@
         "Rcpp"
     ],
     "flagme": [
-        "gcspikelite",
         "xcms",
         "CAMERA",
         "gplots",
@@ -103157,7 +103156,6 @@
         "magrittr",
         "pillar"
     ],
-    "gcspikelite": [],
     "SPARQL": [],
     "ggiraph": [
         "ggplot2",
