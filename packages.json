@@ -654,9 +654,7 @@
         "ggtree",
         "treeio"
     ],
-    "ChIPXpress": [
-        "frma"
-    ],
+    "ChIPXpress": [],
     "chromPlot": [],
     "ChromSCape": [
         "scater"
@@ -1629,7 +1627,6 @@
     "FRGEpistasis": [
         "fda"
     ],
-    "frma": [],
     "FunChIP": [
         "fda"
     ],
