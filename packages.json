@@ -33622,7 +33622,6 @@
         "XVector"
     ],
     "SCATE": [
-        "splines2",
         "SCATEData",
         "GenomicAlignments",
         "GenomicRanges",
@@ -47219,7 +47218,6 @@
         "tibble",
         "pillar"
     ],
-    "splines2": [],
     "SCATEData": [
         "ExperimentHub",
         "GenomicAlignments",
