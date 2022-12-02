@@ -6766,7 +6766,6 @@
         "BiocFileCache",
         "GenomicAlignments"
     ],
-    "MEB": [],
     "MEDIPS": [
         "BSgenome",
         "biomaRt",
