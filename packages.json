@@ -109677,7 +109677,6 @@
         "stabledist",
         "mvtnorm",
         "pcaPP",
-        "pspline",
         "S4Vectors",
         "IRanges",
         "GenomicRanges",
@@ -157557,10 +157556,8 @@
         "gsl",
         "stabledist",
         "mvtnorm",
-        "pcaPP",
-        "pspline"
+        "pcaPP"
     ],
-    "pspline": [],
     "proxyC": [
         "Matrix",
         "Rcpp",
