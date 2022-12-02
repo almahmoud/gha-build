@@ -154,7 +154,6 @@
         "caret",
         "plotly",
         "MultiAssayExperiment",
-        "GUniFrac",
         "recipes",
         "geneplotter"
     ],
@@ -9623,7 +9622,6 @@
     "caret": [
         "recipes"
     ],
-    "GUniFrac": [],
     "recipes": [],
     "Seurat": [
         "plotly"
