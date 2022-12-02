@@ -2796,7 +2796,6 @@
         "DESeq2",
         "biomaRt"
     ],
-    "granulator": [],
     "GreyListChIP": [
         "BSgenome"
     ],
