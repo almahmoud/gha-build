@@ -1265,7 +1265,6 @@
     "MethCP": [],
     "MethReg": [
         "ggpubr",
-        "sesameData",
         "sesame",
         "rstatix",
         "car",
@@ -2077,9 +2076,7 @@
         "VariantAnnotation"
     ],
     "SeqVarTools": [],
-    "sesame": [
-        "sesameData"
-    ],
+    "sesame": [],
     "SGSeq": [],
     "shinyepico": [
         "minfi"
@@ -2287,7 +2284,6 @@
         "enrichplot",
         "Gviz",
         "ggpubr",
-        "sesameData",
         "ggtree",
         "rstatix",
         "biovizBase",
@@ -2591,7 +2587,6 @@
     ],
     "klaR": [],
     "EnsDb.Hsapiens.v75": [],
-    "sesameData": [],
     "FlowSorted.Blood.450k": [
         "minfi"
     ],
