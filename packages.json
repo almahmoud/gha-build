@@ -6432,7 +6432,6 @@
     "synergyfinder": [
         "drc",
         "tidyverse",
-        "SpatialExtremes",
         "plotly",
         "mice",
         "car",
@@ -7731,7 +7730,6 @@
         "labelled",
         "haven"
     ],
-    "SpatialExtremes": [],
     "GenKern": [],
     "bestNormalize": [],
     "naniar": [
