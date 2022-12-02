@@ -381,7 +381,6 @@
         "rmarkdown",
         "speaq",
         "ggplot2",
-        "rARPACK",
         "ggrepel",
         "cellranger",
         "progress",
@@ -6625,7 +6624,6 @@
         "tibble",
         "tidyselect",
         "tidyr",
-        "rARPACK",
         "ggrepel"
     ],
     "DepInfeR": [],
@@ -15825,7 +15823,6 @@
         "ggplot2",
         "dplyr",
         "tidyr",
-        "rARPACK",
         "ggrepel",
         "tibble",
         "tidyselect"
@@ -16788,7 +16785,6 @@
         "usethis",
         "TFisher",
         "mutoss",
-        "rARPACK",
         "ggrepel",
         "reactome.db",
         "graphite",
@@ -19434,7 +19430,6 @@
         "GenomicRanges",
         "geneplotter",
         "tidyselect",
-        "rARPACK",
         "annotate",
         "AnnotationDbi",
         "hardhat",
@@ -23232,7 +23227,6 @@
     "scone": [
         "SummarizedExperiment",
         "RUVSeq",
-        "rARPACK",
         "SingleCellExperiment",
         "EDASeq",
         "GenomicRanges",
@@ -25462,7 +25456,6 @@
         "tibble",
         "ggforce",
         "labelled",
-        "rARPACK",
         "dplyr",
         "tidyr",
         "tweenr",
@@ -26648,8 +26641,7 @@
         "ggplot2",
         "ggrepel",
         "propr",
-        "tidyselect",
-        "rARPACK"
+        "tidyselect"
     ],
     "timescape": [
         "dplyr",
@@ -28602,7 +28594,6 @@
         "rvest",
         "tibble"
     ],
-    "rARPACK": [],
     "cellranger": [
         "tibble"
     ],
@@ -31978,8 +31969,7 @@
         "Biostrings"
     ],
     "dml": [
-        "lfda",
-        "rARPACK"
+        "lfda"
     ],
     "MESS": [
         "geepack",
@@ -32002,9 +31992,7 @@
         "vroom",
         "progress"
     ],
-    "lfda": [
-        "rARPACK"
-    ],
+    "lfda": [],
     "ggformula": [
         "ggplot2",
         "ggstance",
