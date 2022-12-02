@@ -4198,9 +4198,7 @@
         "biomaRt"
     ],
     "pram": [],
-    "prebs": [
-        "RPA"
-    ],
+    "prebs": [],
     "preciseTAD": [
         "caret",
         "rCGH",
@@ -4839,7 +4837,6 @@
     ],
     "roar": [],
     "ropls": [],
-    "RPA": [],
     "rpx": [],
     "Rqc": [
         "biovizBase",
