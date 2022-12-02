@@ -48780,7 +48780,6 @@
     "GOfuncR": [
         "vioplot",
         "Rcpp",
-        "mapplots",
         "GenomicRanges",
         "IRanges",
         "AnnotationDbi",
@@ -143175,7 +143174,6 @@
         "RColorBrewer",
         "viridisLite"
     ],
-    "mapplots": [],
     "gProfileR": [
         "RCurl",
         "plyr",
