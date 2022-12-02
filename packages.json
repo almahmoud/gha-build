@@ -36,8 +36,7 @@
     "arrayMvout": [
         "lumi",
         "methylumi",
-        "FDb.InfiniumMethylation.hg19",
-        "minfi"
+        "FDb.InfiniumMethylation.hg19"
     ],
     "artMS": [
         "MSstats"
@@ -72,7 +71,6 @@
     ],
     "bigmelon": [
         "wateRmelon",
-        "minfi",
         "methylumi",
         "FDb.InfiniumMethylation.hg19",
         "lumi",
@@ -181,7 +179,6 @@
         "pbkrtest"
     ],
     "ChAMP": [
-        "minfi",
         "DMRcate",
         "IlluminaHumanMethylationEPICmanifest",
         "IlluminaHumanMethylation450kmanifest",
@@ -272,7 +269,6 @@
         "GenomicFiles"
     ],
     "conumee": [
-        "minfi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
@@ -386,7 +382,6 @@
     ],
     "DMCFB": [],
     "DMRcate": [
-        "minfi",
         "missMethyl",
         "Gviz",
         "biovizBase",
@@ -434,9 +429,7 @@
         "car",
         "pbkrtest"
     ],
-    "ENmix": [
-        "minfi"
-    ],
+    "ENmix": [],
     "enrichplot": [],
     "enrichTF": [
         "JASPAR2018",
@@ -470,7 +463,6 @@
         "enrichplot"
     ],
     "epimutacions": [
-        "minfi",
         "Homo.sapiens",
         "Gviz",
         "IlluminaHumanMethylation450kmanifest",
@@ -521,8 +513,7 @@
     "ffpe": [
         "lumi",
         "methylumi",
-        "FDb.InfiniumMethylation.hg19",
-        "minfi"
+        "FDb.InfiniumMethylation.hg19"
     ],
     "FLAMES": [
         "ggbio",
@@ -558,7 +549,6 @@
         "pbkrtest"
     ],
     "funtooNorm": [
-        "minfi",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
@@ -703,8 +693,7 @@
     "iCheck": [
         "lumi",
         "methylumi",
-        "FDb.InfiniumMethylation.hg19",
-        "minfi"
+        "FDb.InfiniumMethylation.hg19"
     ],
     "ideal": [],
     "igvR": [],
@@ -785,8 +774,7 @@
     ],
     "lumi": [
         "methylumi",
-        "FDb.InfiniumMethylation.hg19",
-        "minfi"
+        "FDb.InfiniumMethylation.hg19"
     ],
     "LymphoSeq": [],
     "Maaslin2": [
@@ -806,8 +794,7 @@
     "MAGAR": [
         "RnBeads",
         "methylumi",
-        "FDb.InfiniumMethylation.hg19",
-        "minfi"
+        "FDb.InfiniumMethylation.hg19"
     ],
     "MAGeCKFlute": [
         "clusterProfiler",
@@ -830,7 +817,6 @@
         "biovizBase"
     ],
     "MEAL": [
-        "minfi",
         "Gviz",
         "missMethyl",
         "biovizBase",
@@ -842,7 +828,6 @@
         "FDb.InfiniumMethylation.hg19"
     ],
     "MEAT": [
-        "minfi",
         "wateRmelon",
         "methylumi",
         "lumi",
@@ -885,19 +870,15 @@
         "car",
         "pbkrtest"
     ],
-    "MethylAid": [
-        "minfi"
-    ],
+    "MethylAid": [],
     "methylCC": [
         "FlowSorted.Blood.450k",
-        "minfi",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
     "methylclock": [
         "methylclockData",
         "ggpubr",
-        "minfi",
         "rstatix",
         "ExperimentHubData",
         "car",
@@ -909,7 +890,6 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "enrichplot",
-        "minfi",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
         "methylumi",
@@ -920,8 +900,7 @@
         "biovizBase"
     ],
     "methylumi": [
-        "FDb.InfiniumMethylation.hg19",
-        "minfi"
+        "FDb.InfiniumMethylation.hg19"
     ],
     "mia": [],
     "miaSim": [],
@@ -947,10 +926,8 @@
     "MineICA": [
         "lumi",
         "methylumi",
-        "FDb.InfiniumMethylation.hg19",
-        "minfi"
+        "FDb.InfiniumMethylation.hg19"
     ],
-    "minfi": [],
     "MinimumDistance": [],
     "miRSM": [
         "miRspongeR",
@@ -981,7 +958,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
         "methylumi",
-        "minfi",
         "FDb.InfiniumMethylation.hg19"
     ],
     "mitoClone2": [
@@ -1100,8 +1076,7 @@
     ],
     "netZooR": [
         "yarn",
-        "quantro",
-        "minfi"
+        "quantro"
     ],
     "nondetects": [],
     "NormalyzerDE": [
@@ -1269,9 +1244,7 @@
     "qrqc": [
         "biovizBase"
     ],
-    "quantro": [
-        "minfi"
-    ],
+    "quantro": [],
     "QuasR": [
         "GenomicFiles"
     ],
@@ -1290,7 +1263,6 @@
         "GenomicFiles"
     ],
     "recountmethylation": [
-        "minfi",
         "IlluminaHumanMethylation450kmanifest"
     ],
     "REDseq": [],
@@ -1302,9 +1274,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "REMP": [
-        "minfi"
-    ],
+    "REMP": [],
     "ReportingTools": [
         "ggbio",
         "biovizBase"
@@ -1380,8 +1350,7 @@
     ],
     "RnBeads": [
         "methylumi",
-        "FDb.InfiniumMethylation.hg19",
-        "minfi"
+        "FDb.InfiniumMethylation.hg19"
     ],
     "Rqc": [
         "biovizBase",
@@ -1453,11 +1422,8 @@
     ],
     "seqCAT": [],
     "sesame": [],
-    "shinyepico": [
-        "minfi"
-    ],
+    "shinyepico": [],
     "shinyMethyl": [
-        "minfi",
         "IlluminaHumanMethylation450kmanifest"
     ],
     "SIAMCAT": [
@@ -1494,7 +1460,6 @@
         "methylumi",
         "wateRmelon",
         "IlluminaHumanMethylation450kmanifest",
-        "minfi",
         "FDb.InfiniumMethylation.hg19",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
@@ -1677,7 +1642,6 @@
         "methylumi",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "minfi",
         "FDb.InfiniumMethylation.hg19"
     ],
     "YAPSA": [
@@ -1686,8 +1650,7 @@
         "biovizBase"
     ],
     "yarn": [
-        "quantro",
-        "minfi"
+        "quantro"
     ],
     "zenith": [
         "variancePartition",
@@ -1718,9 +1681,7 @@
     "doBy": [
         "pbkrtest"
     ],
-    "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
-        "minfi"
-    ],
+    "IlluminaHumanMethylation450kanno.ilmn12.hg19": [],
     "radiant.data": [
         "car",
         "pbkrtest"
@@ -1738,15 +1699,9 @@
         "pbkrtest"
     ],
     "GenomicTools": [],
-    "IlluminaHumanMethylationEPICmanifest": [
-        "minfi"
-    ],
-    "IlluminaHumanMethylation450kmanifest": [
-        "minfi"
-    ],
-    "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [
-        "minfi"
-    ],
+    "IlluminaHumanMethylationEPICmanifest": [],
+    "IlluminaHumanMethylation450kmanifest": [],
+    "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [],
     "spp": [],
     "propr": [],
     "factoextra": [
@@ -1756,9 +1711,7 @@
         "rstatix",
         "pbkrtest"
     ],
-    "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
-        "minfi"
-    ],
+    "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [],
     "mbest": [],
     "DAPARdata": [],
     "rsq": [],
@@ -1782,9 +1735,7 @@
     ],
     "glmmTMB": [],
     "agricolae": [],
-    "FlowSorted.Blood.450k": [
-        "minfi"
-    ],
+    "FlowSorted.Blood.450k": [],
     "methylclockData": [
         "ExperimentHubData"
     ],
