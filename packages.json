@@ -220,7 +220,6 @@
         "ggrepel"
     ],
     "ALDEx2": [
-        "zCompositions",
         "SummarizedExperiment"
     ],
     "alevinQC": [
@@ -1178,7 +1177,6 @@
         "ggridges",
         "cowplot",
         "tidytext",
-        "zCompositions",
         "mia",
         "DescTools",
         "Hmisc",
@@ -11412,7 +11410,6 @@
         "caret",
         "ALDEx2",
         "plotROC",
-        "zCompositions",
         "SummarizedExperiment",
         "mia",
         "DescTools",
@@ -13544,7 +13541,6 @@
     "OmicCircos": [],
     "omicplotR": [
         "ALDEx2",
-        "zCompositions",
         "SummarizedExperiment"
     ],
     "omicRexposome": [
@@ -21510,7 +21506,6 @@
         "ggplot2",
         "ggbeeswarm"
     ],
-    "zCompositions": [],
     "shinydashboard": [],
     "readxl": [
         "cellranger"
