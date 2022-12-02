@@ -119092,7 +119092,6 @@
         "GSA",
         "biomaRt",
         "GenomicRanges",
-        "seq2pathway.data",
         "XML",
         "AnnotationDbi",
         "progress",
@@ -164934,7 +164933,6 @@
         "colorspace"
     ],
     "chromhmmData": [],
-    "seq2pathway.data": [],
     "cvTools": [
         "lattice",
         "robustbase"
