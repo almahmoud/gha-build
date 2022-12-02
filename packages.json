@@ -4585,7 +4585,6 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "GOfuncR": [],
     "GOpro": [
         "dendextend",
         "GO.db",
