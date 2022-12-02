@@ -51,10 +51,8 @@
         "Rsamtools",
         "Biostrings"
     ],
-    "aCGH": [],
     "ADaCGH2": [
         "tilingArray",
-        "aCGH",
         "snapCGH",
         "vsn",
         "genefilter",
@@ -5320,9 +5318,7 @@
         "tidyselect"
     ],
     "cqn": [],
-    "CRImage": [
-        "aCGH"
-    ],
+    "CRImage": [],
     "crisprBase": [
         "Biostrings",
         "GenomicRanges"
@@ -19199,7 +19195,6 @@
         "org.Hs.eg.db",
         "GenomicFeatures",
         "AnnotationDbi",
-        "aCGH",
         "RSQLite",
         "KEGGREST",
         "Biostrings",
@@ -20373,7 +20368,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "AnnotationDbi",
-        "aCGH",
         "RSQLite",
         "KEGGREST",
         "Biostrings",
@@ -24255,7 +24249,6 @@
         "tidyselect"
     ],
     "snapCGH": [
-        "aCGH",
         "tilingArray",
         "vsn",
         "genefilter",
