@@ -194,9 +194,7 @@
         "BSgenome.Ecoli.NCBI.20080805"
     ],
     "BASiCStan": [],
-    "BatchQC": [
-        "heatmaply"
-    ],
+    "BatchQC": [],
     "BayesSpace": [],
     "BBCAnalyzer": [
         "VariantAnnotation",
@@ -917,7 +915,6 @@
         "DOSE",
         "clusterProfiler",
         "enrichplot",
-        "heatmaply",
         "ggraph",
         "ggtree",
         "treeio"
@@ -945,8 +942,7 @@
         "GenomicFeatures"
     ],
     "DegNorm": [
-        "GenomicFeatures",
-        "heatmaply"
+        "GenomicFeatures"
     ],
     "DEGreport": [],
     "deltaCaptureC": [],
@@ -1007,9 +1003,7 @@
     "Dino": [
         "Seurat"
     ],
-    "DiscoRhythm": [
-        "heatmaply"
-    ],
+    "DiscoRhythm": [],
     "DMCFB": [
         "arm",
         "lme4",
@@ -1420,8 +1414,7 @@
     ],
     "FRASER": [
         "GenomicFeatures",
-        "OUTRIDER",
-        "heatmaply"
+        "OUTRIDER"
     ],
     "frenchFISH": [
         "NHPoisson",
@@ -1584,7 +1577,6 @@
     ],
     "GEOexplorer": [
         "factoextra",
-        "heatmaply",
         "shinyHeatmaply",
         "FactoMineR",
         "ggpubr",
@@ -1797,7 +1789,6 @@
         "BSgenome.Hsapiens.UCSC.hg19"
     ],
     "ideal": [
-        "heatmaply",
         "pcaExplorer",
         "goseq",
         "GOstats",
@@ -1822,9 +1813,7 @@
         "cytomapper",
         "ggraph"
     ],
-    "ImmuneSpaceR": [
-        "heatmaply"
-    ],
+    "ImmuneSpaceR": [],
     "INDEED": [
         "devtools"
     ],
@@ -2201,7 +2190,6 @@
         "DSS",
         "EDASeq",
         "GenomicFeatures",
-        "heatmaply",
         "bsseq"
     ],
     "metavizr": [
@@ -2323,7 +2311,6 @@
         "treeio"
     ],
     "microbiomeExplorer": [
-        "heatmaply",
         "car",
         "pbkrtest",
         "lme4",
@@ -2874,8 +2861,7 @@
     ],
     "Oscope": [],
     "OUTRIDER": [
-        "GenomicFeatures",
-        "heatmaply"
+        "GenomicFeatures"
     ],
     "PAA": [],
     "padma": [
@@ -2910,7 +2896,6 @@
         "devtools"
     ],
     "pcaExplorer": [
-        "heatmaply",
         "GOstats"
     ],
     "PDATK": [
@@ -3145,7 +3130,6 @@
     ],
     "QFeatures": [],
     "qmtools": [
-        "heatmaply",
         "VIM",
         "car",
         "pbkrtest",
@@ -3620,7 +3604,6 @@
         "ensembldb"
     ],
     "scTensor": [
-        "heatmaply",
         "meshr",
         "GOstats",
         "ReactomePA",
@@ -3682,7 +3665,6 @@
         "GenomicFeatures"
     ],
     "shinyepico": [
-        "heatmaply",
         "minfi",
         "bumphunter",
         "GenomicFeatures"
@@ -3858,8 +3840,7 @@
     "spiky": [],
     "splatter": [],
     "SpliceWiz": [
-        "NxtIRFdata",
-        "heatmaply"
+        "NxtIRFdata"
     ],
     "SplicingGraphs": [
         "GenomicFeatures"
@@ -4236,9 +4217,7 @@
     ],
     "VegaMC": [],
     "vidger": [],
-    "ViSEAGO": [
-        "heatmaply"
-    ],
+    "ViSEAGO": [],
     "vissE": [
         "msigdb",
         "textstem",
@@ -4403,7 +4382,6 @@
         "nloptr"
     ],
     "BSgenome.Ecoli.NCBI.20080805": [],
-    "heatmaply": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
         "bumphunter",
@@ -4562,9 +4540,7 @@
     "logistf": [
         "mice"
     ],
-    "shinyHeatmaply": [
-        "heatmaply"
-    ],
+    "shinyHeatmaply": [],
     "ggalt": [],
     "HiContactsData": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
