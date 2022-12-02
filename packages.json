@@ -1785,7 +1785,6 @@
     ],
     "octad": [
         "RUVSeq",
-        "octad.db",
         "EDASeq"
     ],
     "ODER": [
@@ -2956,7 +2955,6 @@
         "lme4"
     ],
     "NxtIRFdata": [],
-    "octad.db": [],
     "diceR": [
         "klaR",
         "questionr"
