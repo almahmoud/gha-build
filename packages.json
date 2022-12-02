@@ -3293,7 +3293,6 @@
         "ensembldb",
         "biomaRt"
     ],
-    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category"
     ],
