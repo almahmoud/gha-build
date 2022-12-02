@@ -372,7 +372,6 @@
         "TCGAutils",
         "GenomicFeatures"
     ],
-    "celda": [],
     "CelliD": [
         "Seurat"
     ],
@@ -3149,7 +3148,6 @@
         "scMerge",
         "Seurat",
         "SoupX",
-        "celda",
         "scRNAseq",
         "TENxPBMCData",
         "GenomicFeatures",
