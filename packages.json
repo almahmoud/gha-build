@@ -10484,7 +10484,6 @@
         "Biostrings",
         "Rsamtools"
     ],
-    "GRridge": [],
     "GSCA": [
         "shiny",
         "ggplot2",
