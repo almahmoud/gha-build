@@ -10433,7 +10433,6 @@
         "tibble",
         "pillar"
     ],
-    "flowBeads": [],
     "flowBin": [
         "flowFP",
         "flowViz",
