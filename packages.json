@@ -3685,7 +3685,6 @@
     ],
     "eiR": [],
     "ELMER": [
-        "ELMER.data",
         "GenomicFeatures",
         "TCGAbiolinks",
         "Gviz",
@@ -3955,7 +3954,6 @@
         "EpiMix.data",
         "AnnotationHub",
         "biomaRt",
-        "ELMER.data",
         "ExperimentHub",
         "GenomicFeatures",
         "GEOquery",
@@ -12768,7 +12766,6 @@
         "gson",
         "qvalue",
         "tidyr",
-        "ELMER.data",
         "GenomicFeatures",
         "Gviz",
         "MultiAssayExperiment",
@@ -14532,7 +14529,6 @@
         "BiocFileCache"
     ],
     "coin": [],
-    "ELMER.data": [],
     "JASPAR2018": [],
     "EntropyExplorer": [],
     "EpiMix.data": [
