@@ -36713,7 +36713,6 @@
     ],
     "IRISFGM": [
         "MCL",
-        "anocva",
         "Polychrome",
         "AnnotationDbi",
         "ggplot2",
@@ -92127,7 +92126,6 @@
     ],
     "attempt": [],
     "rsm": [],
-    "anocva": [],
     "Polychrome": [],
     "AdaptGauss": [
         "shiny",
