@@ -549,8 +549,7 @@
     ],
     "netboxr": [],
     "netZooR": [
-        "yarn",
-        "quantro"
+        "yarn"
     ],
     "NormalyzerDE": [
         "car",
@@ -657,7 +656,6 @@
         "car"
     ],
     "qrqc": [],
-    "quantro": [],
     "QuasR": [],
     "R3CPET": [],
     "ReactomePA": [],
@@ -864,9 +862,7 @@
     "YAPSA": [
         "SomaticSignatures"
     ],
-    "yarn": [
-        "quantro"
-    ],
+    "yarn": [],
     "zenith": [
         "variancePartition"
     ],
