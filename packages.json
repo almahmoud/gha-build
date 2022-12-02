@@ -32559,7 +32559,6 @@
         "diceR",
         "ggplot2",
         "reshape",
-        "clValid",
         "glmnet",
         "dplyr",
         "klaR",
@@ -32742,7 +32741,6 @@
         "HelloRanges",
         "MultiAssayExperiment",
         "pdftools",
-        "clValid",
         "cowplot",
         "rmarkdown",
         "kableExtra",
@@ -37381,7 +37379,6 @@
     "R3CPET": [
         "ggplot2",
         "pheatmap",
-        "clValid",
         "igraph",
         "Hmisc",
         "GenomeInfoDb",
@@ -58131,7 +58128,6 @@
     ],
     "pdfCluster": [],
     "diceR": [
-        "clValid",
         "dplyr",
         "ggplot2",
         "klaR",
@@ -58167,7 +58163,6 @@
         "vroom",
         "progress"
     ],
-    "clValid": [],
     "yardstick": [
         "dplyr",
         "hardhat",
