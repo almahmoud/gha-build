@@ -425,9 +425,7 @@
     ],
     "multicrispr": [],
     "multiSight": [],
-    "muscat": [
-        "variancePartition"
-    ],
+    "muscat": [],
     "musicatk": [
         "factoextra",
         "FactoMineR",
@@ -678,7 +676,6 @@
     "VAExprs": [
         "DeepPINCS"
     ],
-    "variancePartition": [],
     "VariantFiltering": [],
     "VCFArray": [],
     "vissE": [],
@@ -690,9 +687,7 @@
         "SomaticSignatures"
     ],
     "yarn": [],
-    "zenith": [
-        "variancePartition"
-    ],
+    "zenith": [],
     "ggpubr": [
         "rstatix"
     ],
