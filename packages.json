@@ -32044,7 +32044,6 @@
         "Matrix"
     ],
     "fobitools": [
-        "clisymbols",
         "dplyr",
         "fgsea",
         "ggplot2",
@@ -40144,7 +40143,6 @@
         "biocthis",
         "dplyr",
         "aws.s3",
-        "clisymbols",
         "tidytext",
         "desc",
         "memoise",
@@ -42108,7 +42106,6 @@
         "kableExtra",
         "svglite",
         "htmltools",
-        "clisymbols",
         "fontawesome",
         "circlize",
         "clue",
@@ -106824,7 +106821,6 @@
         "viridisLite",
         "pillar"
     ],
-    "clisymbols": [],
     "RecordLinkage": [
         "RSQLite",
         "ff",
@@ -107623,7 +107619,6 @@
         "Matrix"
     ],
     "available": [
-        "clisymbols",
         "tidytext",
         "desc",
         "memoise",
