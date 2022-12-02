@@ -5878,7 +5878,6 @@
     "SimBindProfiles": [
         "Ringo"
     ],
-    "SimBu": [],
     "simpleSeg": [
         "cytomapper",
         "SpatialExperiment",
