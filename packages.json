@@ -3608,7 +3608,6 @@
         "scater",
         "DirichletMultinomial",
         "testthat",
-        "optextras",
         "Rvmmin",
         "Rcgmin",
         "htmlwidgets",
@@ -61336,7 +61335,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "optextras",
         "Rvmmin",
         "Rcgmin",
         "ade4",
@@ -61363,7 +61361,6 @@
         "pillar"
     ],
     "optimr": [
-        "optextras",
         "Rvmmin",
         "Rcgmin"
     ],
@@ -61377,13 +61374,8 @@
     "tokenizers": [],
     "softImpute": [],
     "ROI.plugin.lpsolve": [],
-    "optextras": [],
-    "Rvmmin": [
-        "optextras"
-    ],
-    "Rcgmin": [
-        "optextras"
-    ],
+    "Rvmmin": [],
+    "Rcgmin": [],
     "sjmisc": [
         "dplyr",
         "purrr",
