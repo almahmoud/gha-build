@@ -24487,7 +24487,6 @@
         "Biostrings",
         "BSgenome",
         "cleanUpdTSeq",
-        "depmixS4",
         "dplyr",
         "future",
         "future.apply",
@@ -53924,7 +53923,6 @@
         "VariantAnnotation",
         "GenomicRanges",
         "bestNormalize",
-        "depmixS4",
         "naniar",
         "LambertW",
         "doParallel",
@@ -62694,7 +62692,6 @@
     "phyclust": [
         "ape"
     ],
-    "depmixS4": [],
     "golem": [
         "pkgload",
         "roxygen2",
