@@ -435,7 +435,6 @@
         "JASPAR2018",
         "enrichplot"
     ],
-    "EventPointer": [],
     "EWCE": [
         "orthogene",
         "ggpubr",
