@@ -726,7 +726,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "customCMPdb": [],
     "customProDB": [
         "GenomicFeatures",
         "VariantAnnotation"
