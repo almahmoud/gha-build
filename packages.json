@@ -1940,7 +1940,6 @@
         "scater",
         "ggrastr"
     ],
-    "dittoSeq": [],
     "DMCFB": [
         "arm",
         "lme4",
@@ -7145,7 +7144,6 @@
     "SPIAT": [
         "SpatialExperiment",
         "plotly",
-        "dittoSeq",
         "xROI",
         "DropletUtils"
     ],
