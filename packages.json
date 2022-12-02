@@ -17660,7 +17660,6 @@
         "SummarizedExperiment",
         "dplyr"
     ],
-    "SCFA": [],
     "scFeatureFilter": [
         "dplyr",
         "ggplot2"
