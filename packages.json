@@ -16847,7 +16847,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "rtracklayer",
-        "idr",
         "RColorBrewer",
         "genomation",
         "Biostrings",
@@ -54990,7 +54989,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "ggplot2",
-        "idr",
         "IRanges",
         "magrittr",
         "reticulate",
@@ -139492,7 +139490,6 @@
         "zlibbioc",
         "lattice"
     ],
-    "idr": [],
     "quantmod": [
         "xts",
         "zoo",
