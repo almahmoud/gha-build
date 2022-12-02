@@ -808,7 +808,6 @@
         "genefilter"
     ],
     "CancerInSilico": [],
-    "CancerSubtypes": [],
     "cardelino": [
         "ggtree",
         "VariantAnnotation",
