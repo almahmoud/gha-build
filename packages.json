@@ -11209,7 +11209,6 @@
     "SDAMS": [
         "qvalue"
     ],
-    "sechm": [],
     "segmenter": [
         "ChIPseeker",
         "enrichplot",
@@ -11318,7 +11317,6 @@
         "AnnotationHub"
     ],
     "SEtools": [
-        "sechm",
         "DESeq2",
         "sva",
         "geneplotter",
