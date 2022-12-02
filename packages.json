@@ -11361,7 +11361,6 @@
         "pillar",
         "tidyselect"
     ],
-    "DFP": [],
     "DIAlignR": [
         "dplyr",
         "tidyr",
