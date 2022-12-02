@@ -497,7 +497,6 @@
         "ensembldb",
         "biomaRt"
     ],
-    "bugsigdbr": [],
     "BUMHMM": [
         "devtools"
     ],
