@@ -14074,7 +14074,6 @@
         "IRanges",
         "Biobase",
         "tidyr",
-        "mapproj",
         "MatrixGenerics",
         "GenomeInfoDb",
         "RcppEigen",
@@ -49185,7 +49184,6 @@
         "tibble",
         "vctrs",
         "celestial",
-        "mapproj",
         "GenomicRanges",
         "DelayedArray",
         "IRanges",
@@ -53349,7 +53347,6 @@
         "lsa",
         "bench",
         "celestial",
-        "mapproj",
         "lifecycle",
         "GenomicRanges",
         "Matrix",
@@ -62989,7 +62986,6 @@
         "readr",
         "latticeExtra",
         "lubridate",
-        "mapproj",
         "hexbin",
         "MatrixGenerics",
         "ggpubr",
@@ -73416,7 +73412,6 @@
         "lsa",
         "bench",
         "celestial",
-        "mapproj",
         "Matrix",
         "GenomicRanges",
         "DelayedArray",
@@ -79562,10 +79557,7 @@
         "vctrs"
     ],
     "relations": [],
-    "pals": [
-        "mapproj"
-    ],
-    "mapproj": [],
+    "pals": [],
     "capushe": [],
     "Rmixmod": [
         "RcppEigen",
@@ -83419,8 +83411,7 @@
     ],
     "webutils": [],
     "magicaxis": [
-        "celestial",
-        "mapproj"
+        "celestial"
     ],
     "celestial": [],
     "PMCMRplus": [
@@ -84539,7 +84530,6 @@
         "mgcv",
         "latticeExtra",
         "lubridate",
-        "mapproj",
         "hexbin",
         "lifecycle",
         "tibble",
