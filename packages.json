@@ -868,7 +868,6 @@
     "DeepPINCS": [
         "ttgsea",
         "textstem",
-        "lexicon",
         "textclean"
     ],
     "deepSNV": [
@@ -1313,8 +1312,7 @@
     ],
     "fobitools": [
         "ggraph",
-        "textclean",
-        "lexicon"
+        "textclean"
     ],
     "FRASER": [
         "GenomicFeatures",
@@ -1454,7 +1452,6 @@
         "DeepPINCS",
         "ttgsea",
         "textstem",
-        "lexicon",
         "textclean"
     ],
     "GenVisR": [
@@ -3806,7 +3803,6 @@
     "tRNAscanImport": [],
     "ttgsea": [
         "textstem",
-        "lexicon",
         "textclean"
     ],
     "txcutr": [
@@ -3850,7 +3846,6 @@
         "DeepPINCS",
         "ttgsea",
         "textstem",
-        "lexicon",
         "textclean"
     ],
     "VanillaICE": [
@@ -3893,7 +3888,6 @@
         "msigdb",
         "textstem",
         "ggraph",
-        "lexicon",
         "textclean"
     ],
     "Voyager": [
@@ -4137,13 +4131,9 @@
         "lme4"
     ],
     "textstem": [
-        "lexicon",
         "textclean"
     ],
-    "lexicon": [],
-    "textclean": [
-        "lexicon"
-    ],
+    "textclean": [],
     "VIM": [
         "car",
         "pbkrtest",
