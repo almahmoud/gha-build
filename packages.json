@@ -952,7 +952,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "methylSig": [],
     "methylumi": [
         "FDb.InfiniumMethylation.hg19",
         "minfi"
