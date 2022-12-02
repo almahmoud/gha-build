@@ -1567,7 +1567,6 @@
         "RSQLite",
         "KEGGREST",
         "tzdb",
-        "timeSeries",
         "lambda.r",
         "prodlim",
         "Biostrings",
@@ -11123,7 +11122,6 @@
         "ShortRead",
         "XVector",
         "GenomeInfoDb",
-        "timeSeries",
         "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
@@ -13727,7 +13725,6 @@
         "statip",
         "future.apply",
         "zoo",
-        "timeSeries",
         "future",
         "globals",
         "Matrix",
@@ -18316,7 +18313,6 @@
         "reshape",
         "scales",
         "zoo",
-        "timeSeries",
         "lifecycle",
         "mgcv",
         "tibble",
@@ -30187,7 +30183,6 @@
         "BiocParallel",
         "futile.logger",
         "fBasics",
-        "timeSeries",
         "Matrix",
         "cvar",
         "testthat",
@@ -41798,7 +41793,6 @@
         "processx",
         "waldo",
         "purrr",
-        "timeSeries",
         "Matrix",
         "MatrixModels",
         "survival",
@@ -78775,7 +78769,6 @@
         "fBasics",
         "stable",
         "statip",
-        "timeSeries",
         "pillar"
     ],
     "ModelMetrics": [],
@@ -78811,8 +78804,7 @@
     "modeest": [
         "fBasics",
         "stable",
-        "statip",
-        "timeSeries"
+        "statip"
     ],
     "gridSVG": [],
     "reticulate": [
@@ -78820,9 +78812,7 @@
         "RcppTOML",
         "here"
     ],
-    "fBasics": [
-        "timeSeries"
-    ],
+    "fBasics": [],
     "stable": [],
     "statip": [],
     "clock": [
@@ -78850,7 +78840,6 @@
     "lubridate": [],
     "RcppTOML": [],
     "here": [],
-    "timeSeries": [],
     "prodlim": [
         "survival",
         "lava",
@@ -85172,7 +85161,6 @@
     ],
     "fGarch": [
         "fBasics",
-        "timeSeries",
         "Matrix",
         "cvar",
         "gbutils",
