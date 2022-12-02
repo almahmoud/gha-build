@@ -3257,7 +3257,6 @@
         "BiocFileCache"
     ],
     "FuseSOM": [
-        "FCPS",
         "ggpubr",
         "rstatix",
         "broom",
@@ -10153,7 +10152,6 @@
         "broom",
         "testthat"
     ],
-    "FCPS": [],
     "survminer": [
         "ggpubr",
         "broom",
