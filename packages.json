@@ -3146,9 +3146,7 @@
         "pbkrtest"
     ],
     "rGADEM": [],
-    "rGenomeTracks": [
-        "rGenomeTracksData"
-    ],
+    "rGenomeTracks": [],
     "RgnTX": [
         "GenomicFeatures",
         "regioneR",
@@ -4438,7 +4436,6 @@
         "GenomicScores"
     ],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [],
-    "rGenomeTracksData": [],
     "valr": [],
     "caretEnsemble": [],
     "RLHub": [],
