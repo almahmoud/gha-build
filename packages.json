@@ -498,9 +498,7 @@
     "CiteFuse": [
         "propr"
     ],
-    "cleanUpdTSeq": [
-        "BSgenome.Drerio.UCSC.danRer7"
-    ],
+    "cleanUpdTSeq": [],
     "clipper": [
         "qpgraph",
         "GenomicFeatures"
@@ -1549,8 +1547,7 @@
     ],
     "InPAS": [
         "cleanUpdTSeq",
-        "GenomicFeatures",
-        "BSgenome.Drerio.UCSC.danRer7"
+        "GenomicFeatures"
     ],
     "INSPEcT": [
         "GenomicFeatures",
@@ -3750,7 +3747,6 @@
         "GenomicFeatures"
     ],
     "propr": [],
-    "BSgenome.Drerio.UCSC.danRer7": [],
     "factoextra": [
         "FactoMineR",
         "ggpubr",
