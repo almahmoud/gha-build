@@ -39,8 +39,7 @@
         "Gviz"
     ],
     "ATACCoGAPS": [
-        "rGREAT",
-        "Mus.musculus"
+        "rGREAT"
     ],
     "atSNP": [],
     "BaalChIP": [
@@ -77,9 +76,7 @@
     "biomvRCNS": [
         "Gviz"
     ],
-    "biscuiteer": [
-        "Mus.musculus"
-    ],
+    "biscuiteer": [],
     "BitSeq": [],
     "BOBaFIT": [
         "ggbio"
@@ -1383,7 +1380,6 @@
     "PolyPhen.Hsapiens.dbSNP131": [],
     "SIFT.Hsapiens.dbSNP137": [],
     "mGSZ": [],
-    "Mus.musculus": [],
     "doBy": [
         "pbkrtest"
     ],
