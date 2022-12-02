@@ -13,7 +13,6 @@
         "GO.db",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -32,7 +31,6 @@
         "GO.db",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -46,17 +44,14 @@
         "a4Preproc",
         "ROCR",
         "pamr",
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "a4Core": [
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "a4Preproc": [],
     "ABarray": [
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "abseqR": [
         "ggplot2",
@@ -97,14 +92,12 @@
         "pillar"
     ],
     "aCGH": [
-        "survival",
         "multtest"
     ],
     "ADaCGH2": [
         "tilingArray",
         "aCGH",
         "snapCGH",
-        "survival",
         "multtest",
         "strucchange",
         "vsn",
@@ -182,8 +175,7 @@
         "quantreg",
         "lme4",
         "blob",
-        "nloptr",
-        "survival"
+        "nloptr"
     ],
     "adductomicsR": [
         "adductData",
@@ -222,8 +214,7 @@
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
-        "XVector",
-        "survival"
+        "XVector"
     ],
     "adSplit": [
         "AnnotationDbi",
@@ -233,7 +224,6 @@
         "RSQLite",
         "httr",
         "Biostrings",
-        "survival",
         "XVector",
         "GenomeInfoDb",
         "blob"
@@ -304,7 +294,6 @@
         "AnnotationFilter",
         "DelayedArray",
         "pillar",
-        "survival",
         "biomaRt",
         "dplyr",
         "forcats",
@@ -412,7 +401,6 @@
         "AnnotationFilter",
         "DelayedArray",
         "pillar",
-        "survival",
         "biomaRt",
         "dplyr",
         "forcats",
@@ -467,7 +455,6 @@
         "ScaledMatrix",
         "XVector",
         "ragg",
-        "survival",
         "textshaping"
     ],
     "ALDEx2": [
@@ -479,7 +466,6 @@
         "multtest",
         "GenomeInfoDb",
         "XVector",
-        "survival",
         "DelayedArray",
         "NADA"
     ],
@@ -537,7 +523,6 @@
         "blob",
         "dbplyr",
         "dplyr",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -639,7 +624,6 @@
         "tidyselect",
         "pillar",
         "mgcv",
-        "survival",
         "GenomicRanges",
         "DelayedArray",
         "tidyr",
@@ -723,7 +707,6 @@
         "httr",
         "tidyselect",
         "pillar",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -788,9 +771,7 @@
         "DelayedArray",
         "pillar"
     ],
-    "ANF": [
-        "survival"
-    ],
+    "ANF": [],
     "animalcules": [
         "shiny",
         "shinyjs",
@@ -822,7 +803,6 @@
         "tidyselect",
         "pillar",
         "mgcv",
-        "survival",
         "ggrepel",
         "modeest",
         "DelayedArray",
@@ -862,7 +842,6 @@
         "genefilter",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
@@ -1006,7 +985,6 @@
     "anota": [
         "qvalue",
         "multtest",
-        "survival",
         "ggplot2",
         "mgcv",
         "tibble",
@@ -1021,7 +999,6 @@
         "BiocParallel",
         "geneplotter",
         "ggplot2",
-        "survival",
         "GenomeInfoDb",
         "DelayedArray",
         "annotate",
@@ -1117,7 +1094,6 @@
         "XVector",
         "biomaRt",
         "mgcv",
-        "survival",
         "httr",
         "R.cache",
         "DelayedArray",
@@ -1190,7 +1166,6 @@
         "KEGGREST",
         "tidyselect",
         "pillar",
-        "survival",
         "XVector",
         "httpuv",
         "bslib",
@@ -1282,7 +1257,6 @@
         "BiocFileCache",
         "XVector",
         "GenomeInfoDb",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -1332,7 +1306,6 @@
         "BiocFileCache",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
-        "survival",
         "tibble",
         "base64",
         "bumphunter",
@@ -1369,7 +1342,6 @@
         "illuminaio",
         "ggplot2",
         "annotate",
-        "survival",
         "htmlTable",
         "viridis",
         "interp",
@@ -1406,7 +1378,6 @@
         "pillar",
         "mgcv",
         "lme4",
-        "survival",
         "httr",
         "segmented",
         "Biostrings",
@@ -1428,7 +1399,6 @@
         "SummarizedExperiment",
         "mgcv",
         "tibble",
-        "survival",
         "ptw",
         "plotly",
         "MultiAssayExperiment",
@@ -1493,7 +1463,6 @@
         "nloptr",
         "hms",
         "blob",
-        "survival",
         "htmlTable",
         "viridis",
         "testthat",
@@ -1543,7 +1512,6 @@
         "blob",
         "DelayedArray",
         "dbplyr",
-        "survival",
         "htmlTable",
         "viridis",
         "hms"
@@ -1558,8 +1526,7 @@
         "blob"
     ],
     "ASSET": [
-        "msm",
-        "survival"
+        "msm"
     ],
     "ASSIGN": [
         "msm",
@@ -1567,7 +1534,6 @@
         "ggplot2",
         "mgcv",
         "tibble",
-        "survival",
         "genefilter",
         "BiocParallel",
         "AnnotationDbi",
@@ -1716,7 +1682,6 @@
         "pillar",
         "AnnotationFilter",
         "mgcv",
-        "survival",
         "CNEr",
         "DirichletMultinomial",
         "readr",
@@ -1849,8 +1814,7 @@
         "GenomeInfoDb",
         "GSEABase",
         "genefilter",
-        "blob",
-        "survival"
+        "blob"
     ],
     "AUCell": [
         "DelayedArray",
@@ -1862,7 +1826,6 @@
         "annotate",
         "AnnotationDbi",
         "segmented",
-        "survival",
         "httpuv",
         "bslib",
         "GenomicRanges",
@@ -1990,7 +1953,6 @@
         "BiocParallel",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "SummarizedExperiment",
         "httr",
         "RSQLite",
@@ -2076,7 +2038,6 @@
         "recipes",
         "viridis",
         "segmented",
-        "survival",
         "annotate",
         "genefilter",
         "ggvis",
@@ -2295,7 +2256,6 @@
         "pillar",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "httr",
         "tidyr",
         "RSQLite",
@@ -2350,7 +2310,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "BiocParallel",
-        "survival",
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
@@ -2434,8 +2393,7 @@
     ],
     "beadarraySNP": [
         "quantsmooth",
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "BEARscc": [
         "ggplot2",
@@ -2558,7 +2516,6 @@
         "ROI.plugin.lpsolve",
         "tidyselect",
         "pillar",
-        "survival",
         "AnnotationDbi",
         "annotate",
         "latticeExtra",
@@ -2654,7 +2611,6 @@
         "GSEABase",
         "annotate",
         "AnnotationDbi",
-        "survival",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -2711,7 +2667,6 @@
         "pillar",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
-        "survival",
         "rtracklayer",
         "biomaRt",
         "mgcv",
@@ -2744,7 +2699,6 @@
         "forcats",
         "progress",
         "mgcv",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -2794,7 +2748,6 @@
         "BiocParallel",
         "interp",
         "dbplyr",
-        "survival",
         "htmlTable",
         "viridis",
         "hms",
@@ -2901,7 +2854,6 @@
         "tidytree",
         "treeio",
         "nloptr",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -3007,7 +2959,6 @@
         "nloptr",
         "broom",
         "hms",
-        "survival",
         "blob",
         "Rsamtools",
         "GenomicAlignments",
@@ -3307,7 +3258,6 @@
         "topGO",
         "mgcv",
         "tibble",
-        "survival",
         "Hmisc",
         "quantreg",
         "multcomp",
@@ -3357,7 +3307,6 @@
         "interp",
         "dbplyr",
         "dplyr",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -3394,7 +3343,6 @@
         "dbplyr",
         "AnnotationHub",
         "Hmisc",
-        "survival",
         "BiocFileCache",
         "interactiveDisplayBase",
         "httr",
@@ -3436,7 +3384,6 @@
         "DelayedArray",
         "genefilter",
         "Hmisc",
-        "survival",
         "GO.db",
         "AnnotationDbi",
         "RSQLite",
@@ -3476,7 +3423,6 @@
         "rmarkdown",
         "mgcv",
         "tibble",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -3560,8 +3506,7 @@
         "XVector",
         "quantreg",
         "cvAUC",
-        "ROCR",
-        "survival"
+        "ROCR"
     ],
     "biovizBase": [
         "Hmisc",
@@ -3582,7 +3527,6 @@
         "rtracklayer",
         "BiocParallel",
         "biomaRt",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -3671,7 +3615,6 @@
         "betareg",
         "globaltest",
         "XVector",
-        "survival",
         "AnnotationDbi",
         "annotate",
         "Biostrings",
@@ -3718,7 +3661,6 @@
         "httr",
         "BiocFileCache",
         "annotate",
-        "survival",
         "Biostrings",
         "pillar",
         "dbplyr",
@@ -3812,7 +3754,6 @@
         "BiocParallel",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -3839,7 +3780,6 @@
         "BiocParallel",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "tibble",
         "interp",
         "vegan",
@@ -3892,7 +3832,6 @@
         "forcats",
         "progress",
         "reshape",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -3924,7 +3863,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "survival",
         "XVector",
         "mgcv",
         "rtracklayer",
@@ -3993,7 +3931,6 @@
         "GGally",
         "ensembldb",
         "AnnotationFilter",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -4058,7 +3995,6 @@
         "e1071",
         "pROC",
         "recipes",
-        "survival",
         "mgcv",
         "tibble",
         "Rsamtools",
@@ -4196,7 +4132,6 @@
         "rtracklayer",
         "BiocParallel",
         "biomaRt",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -4376,7 +4311,6 @@
         "progress",
         "reshape",
         "tidyr",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -4428,7 +4362,6 @@
         "interp",
         "blob",
         "dbplyr",
-        "survival",
         "htmlTable",
         "viridis",
         "hms"
@@ -4480,7 +4413,6 @@
         "tidyr",
         "network",
         "sna",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -4527,7 +4459,6 @@
     "CAMERA": [
         "xcms",
         "Hmisc",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -4550,7 +4481,6 @@
     "canceR": [
         "GSEABase",
         "geNetClassifier",
-        "survival",
         "phenoTest",
         "httr",
         "e1071",
@@ -4589,7 +4519,6 @@
     "CancerSubtypes": [
         "NMF",
         "ConsensusClusterPlus",
-        "survival",
         "ggplot2",
         "mgcv",
         "tibble",
@@ -4613,7 +4542,6 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "survival",
         "SummarizedExperiment",
         "Rsamtools",
         "Biostrings",
@@ -4666,7 +4594,6 @@
         "Rsamtools",
         "rtracklayer",
         "sqldf",
-        "survival",
         "AnnotationDbi",
         "RSQLite",
         "XVector",
@@ -4736,7 +4663,6 @@
         "ggsignif",
         "rstatix",
         "ragg",
-        "survival",
         "TH.data",
         "nloptr",
         "broom",
@@ -4753,7 +4679,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-        "survival",
         "Biostrings",
         "blob",
         "XVector",
@@ -4774,7 +4699,6 @@
         "AnnotationForge",
         "IRkernel",
         "IRdisplay",
-        "survival",
         "repr",
         "Biostrings",
         "blob",
@@ -4804,7 +4728,6 @@
         "TCGAutils",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "KEGGREST",
         "rapiclient",
         "tidyselect",
@@ -4844,7 +4767,6 @@
         "KEGGREST",
         "tidyselect",
         "pillar",
-        "survival",
         "segmented",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -4886,7 +4808,6 @@
         "hms",
         "vroom",
         "rvest",
-        "survival",
         "AnnotationDbi",
         "GenomicFeatures",
         "GenomicDataCommons",
@@ -5086,7 +5007,6 @@
         "Category",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "ggplot2",
         "httr",
         "RSQLite",
@@ -5143,7 +5063,6 @@
         "GenomeInfoDb",
         "RSpectra",
         "ScaledMatrix",
-        "survival",
         "XVector",
         "ragg",
         "tidyr",
@@ -5183,7 +5102,6 @@
         "DT",
         "ggplot2",
         "ggrepel",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -5326,7 +5244,6 @@
         "statnet.common",
         "bslib",
         "Hmisc",
-        "survival",
         "RSQLite",
         "KEGGREST",
         "HDO.db",
@@ -5366,7 +5283,6 @@
         "mice",
         "multcomp",
         "SummarizedExperiment",
-        "survival",
         "tibble",
         "tidyr",
         "broom",
@@ -5505,7 +5421,6 @@
         "hms",
         "broom",
         "car",
-        "survival",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -5572,16 +5487,13 @@
         "TTR",
         "DelayedArray"
     ],
-    "CGEN": [
-        "survival"
-    ],
+    "CGEN": [],
     "CGHcall": [],
     "cghMCR": [
         "CNTools",
         "genefilter",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -5632,7 +5544,6 @@
         "XVector",
         "mgcv",
         "tibble",
-        "survival",
         "annotate",
         "geneLenDataBase",
         "GO.db",
@@ -5745,14 +5656,12 @@
         "tidyr",
         "tidyselect",
         "pillar",
-        "survival",
         "prodlim",
         "lava",
         "future.apply"
     ],
     "Chicago": [
         "Hmisc",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -5803,7 +5712,6 @@
         "blob",
         "DelayedArray",
         "dbplyr",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -5859,7 +5767,6 @@
         "XVector",
         "interp",
         "Hmisc",
-        "survival",
         "ggplot2",
         "quantreg",
         "multcomp",
@@ -5912,7 +5819,6 @@
         "KEGGREST",
         "rtracklayer",
         "biomaRt",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "DelayedArray",
@@ -5955,7 +5861,6 @@
         "AnnotationFilter",
         "BiocParallel",
         "mgcv",
-        "survival",
         "BSgenome",
         "DelayedArray",
         "dbplyr",
@@ -6138,9 +6043,7 @@
         "DelayedArray",
         "progress"
     ],
-    "chopsticks": [
-        "survival"
-    ],
+    "chopsticks": [],
     "chromDraw": [
         "GenomicRanges",
         "GenomeInfoDb",
@@ -6392,7 +6295,6 @@
         "BiocParallel",
         "interp",
         "dbplyr",
-        "survival",
         "htmlTable",
         "hms",
         "blob",
@@ -6416,7 +6318,6 @@
         "ggrepel",
         "viridis",
         "graphlayouts",
-        "survival",
         "tweenr"
     ],
     "CINdex": [
@@ -6471,7 +6372,6 @@
         "shiny",
         "DT",
         "blob",
-        "survival",
         "DelayedArray",
         "progress",
         "httpuv",
@@ -6534,7 +6434,6 @@
         "tidygraph",
         "graphlayouts",
         "segmented",
-        "survival",
         "scuttle",
         "BiocParallel",
         "DelayedArray",
@@ -6555,7 +6454,6 @@
     "ClassifyR": [
         "MultiAssayExperiment",
         "BiocParallel",
-        "survival",
         "genefilter",
         "dplyr",
         "tidyr",
@@ -6728,7 +6626,6 @@
         "tibble",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "XVector",
         "mgcv",
         "progress",
@@ -6922,7 +6819,6 @@
         "genefilter",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -6962,7 +6858,6 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -7031,7 +6926,6 @@
         "DelayedArray",
         "progress",
         "BiocFileCache",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -7130,7 +7024,6 @@
         "MIRA",
         "tidyr",
         "fitdistrplus",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "mgcv",
@@ -7198,7 +7091,6 @@
         "pillar",
         "XVector",
         "mgcv",
-        "survival",
         "hms",
         "vroom",
         "RSQLite",
@@ -7340,7 +7232,6 @@
         "AnnotationFilter",
         "interp",
         "dbplyr",
-        "survival",
         "htmlTable",
         "viridis",
         "hms",
@@ -7362,7 +7253,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "XVector",
-        "survival",
         "pillar"
     ],
     "coMET": [
@@ -7399,7 +7289,6 @@
         "pillar",
         "tibble",
         "tidyselect",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -7530,7 +7419,6 @@
         "pillar",
         "tibble",
         "tidyselect",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -7670,7 +7558,6 @@
         "broom",
         "tweenr",
         "nloptr",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -7725,7 +7612,6 @@
         "ipred",
         "tidyr",
         "spatstat.sparse",
-        "survival",
         "prodlim",
         "textshaping",
         "lava",
@@ -7746,7 +7632,6 @@
         "tibble",
         "ks",
         "Hmisc",
-        "survival",
         "quantreg",
         "multcomp",
         "htmlTable",
@@ -7830,7 +7715,6 @@
         "pamr",
         "GenomicRanges",
         "GenomeInfoDb",
-        "survival",
         "prodlim",
         "ipred",
         "RSQLite",
@@ -7865,7 +7749,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "pheatmap",
-        "survival",
         "topGO",
         "AnnotationDbi",
         "GenomicRanges",
@@ -7938,7 +7821,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "readr",
         "dplyr",
         "tidyr",
@@ -7993,7 +7875,6 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -8159,7 +8040,6 @@
         "e1071",
         "Biostrings",
         "segmented",
-        "survival",
         "blob",
         "XVector",
         "GenomeInfoDb"
@@ -8194,7 +8074,6 @@
         "pillar",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "mgcv",
         "textshaping",
         "bslib",
@@ -8224,7 +8103,6 @@
         "genefilter",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -8265,14 +8143,12 @@
         "DelayedArray"
     ],
     "cqn": [
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "CRImage": [
         "EBImage",
         "aCGH",
         "e1071",
-        "survival",
         "multtest"
     ],
     "crisprBase": [
@@ -8460,7 +8336,6 @@
         "mgcv",
         "tensorflow",
         "tfruns",
-        "survival",
         "haven",
         "readxl",
         "blob",
@@ -8541,7 +8416,6 @@
         "pillar",
         "tidyselect",
         "dbplyr",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -8590,7 +8464,6 @@
         "dplyr",
         "ExperimentHub",
         "AnnotationHub",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -8654,7 +8527,6 @@
         "GenomeInfoDb",
         "tidyselect",
         "annotate",
-        "survival",
         "httr",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -8680,7 +8552,6 @@
     "csdR": [
         "WGCNA",
         "Hmisc",
-        "survival",
         "GO.db",
         "AnnotationDbi",
         "RSQLite",
@@ -8851,7 +8722,6 @@
         "pillar",
         "dbplyr",
         "dplyr",
-        "survival",
         "htmlTable",
         "viridis",
         "hms",
@@ -8945,7 +8815,6 @@
         "interp",
         "nloptr",
         "broom",
-        "survival",
         "viridis",
         "testthat",
         "waldo",
@@ -8978,8 +8847,7 @@
         "glmnet",
         "tibble",
         "tidyselect",
-        "pillar",
-        "survival"
+        "pillar"
     ],
     "CyTOFpower": [
         "CytoGLMM",
@@ -9025,7 +8893,6 @@
         "ggnewscale",
         "XVector",
         "nloptr",
-        "survival",
         "TH.data",
         "viridis",
         "car",
@@ -9081,7 +8948,6 @@
         "ipred",
         "pbkrtest",
         "quantreg",
-        "survival",
         "prodlim",
         "testthat",
         "broom",
@@ -9286,7 +9152,6 @@
         "RWeka",
         "mgcv",
         "tibble",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -9399,7 +9264,6 @@
         "gh",
         "credentials",
         "nloptr",
-        "survival",
         "rematch2"
     ],
     "dcanr": [],
@@ -9467,7 +9331,6 @@
         "rmarkdown",
         "sn",
         "Biostrings",
-        "survival",
         "TH.data",
         "bslib",
         "quantreg",
@@ -9500,7 +9363,6 @@
         "interp",
         "nloptr",
         "broom",
-        "survival",
         "tidyr",
         "viridis",
         "testthat",
@@ -9516,8 +9378,7 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "mgcv",
-        "survival"
+        "mgcv"
     ],
     "debCAM": [
         "BiocParallel",
@@ -9611,7 +9472,6 @@
         "pillar",
         "bbmle",
         "cowplot",
-        "survival",
         "ggforce",
         "ggrepel",
         "tidygraph",
@@ -10023,7 +9883,6 @@
         "beachmat",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "XVector",
         "pillar",
         "httr",
@@ -10093,8 +9952,7 @@
     ],
     "DepInfeR": [
         "glmnet",
-        "BiocParallel",
-        "survival"
+        "BiocParallel"
     ],
     "DEqMS": [
         "ggplot2",
@@ -10123,7 +9981,6 @@
         "XVector",
         "biomaRt",
         "VariantAnnotation",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -10183,7 +10040,6 @@
         "forcats",
         "reshape",
         "tidyr",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -10227,7 +10083,6 @@
         "pillar",
         "AnnotationFilter",
         "mgcv",
-        "survival",
         "BSgenome",
         "dbplyr",
         "hms",
@@ -10257,8 +10112,7 @@
         "bbmle",
         "gamlss",
         "maxLik",
-        "BiocParallel",
-        "survival"
+        "BiocParallel"
     ],
     "destiny": [
         "RSpectra",
@@ -10291,7 +10145,6 @@
         "xts",
         "nloptr",
         "broom",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -10355,7 +10208,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "survival",
         "mgcv",
         "genefilter",
         "BiocParallel",
@@ -10392,7 +10244,6 @@
         "BiocFileCache",
         "ggplot2",
         "annotate",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
@@ -10466,7 +10317,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "Hmisc",
-        "survival",
         "GO.db",
         "AnnotationDbi",
         "RSQLite",
@@ -10501,7 +10351,6 @@
         "ggplot2",
         "ggpubr",
         "nloptr",
-        "survival",
         "TH.data",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -10593,7 +10442,6 @@
         "httr",
         "BiocFileCache",
         "annotate",
-        "survival",
         "blob",
         "dbplyr",
         "hms"
@@ -10604,8 +10452,7 @@
         "mgcv",
         "mixtools",
         "e1071",
-        "segmented",
-        "survival"
+        "segmented"
     ],
     "Dino": [
         "BiocParallel",
@@ -10643,7 +10490,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "BiocNeighbors",
-        "survival",
         "XVector",
         "mgcv",
         "tidyr",
@@ -10792,7 +10638,6 @@
         "multcomp",
         "GenomeInfoDb",
         "XVector",
-        "survival",
         "TH.data",
         "Biostrings",
         "Rsamtools",
@@ -10859,7 +10704,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "annotate",
-        "survival",
         "readr",
         "tidyr",
         "base64",
@@ -10911,7 +10755,6 @@
         "interp",
         "dbplyr",
         "dplyr",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -11044,7 +10887,6 @@
         "genefilter",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "XVector",
         "httr",
         "RSQLite",
@@ -11066,7 +10908,6 @@
         "multcomp",
         "mgcv",
         "tibble",
-        "survival",
         "lava",
         "cellranger",
         "progress",
@@ -11298,7 +11139,6 @@
         "rstatix",
         "ggrepel",
         "coin",
-        "survival",
         "multcomp",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -11509,7 +11349,6 @@
         "BiocParallel",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "tibble",
         "nloptr",
         "httr",
@@ -11614,7 +11453,6 @@
         "GO.db",
         "mgcv",
         "tibble",
-        "survival",
         "annotate",
         "SummarizedExperiment",
         "GSEABase",
@@ -11723,7 +11561,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "survival",
         "htmlTable",
         "viridis",
         "nloptr",
@@ -11796,7 +11633,6 @@
         "httr",
         "dplyr",
         "annotate",
-        "survival",
         "base64",
         "GenomicRanges",
         "Biostrings",
@@ -11982,7 +11818,6 @@
         "vroom",
         "tweenr",
         "nloptr",
-        "survival",
         "progress",
         "testthat",
         "waldo",
@@ -12149,7 +11984,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "nloptr",
-        "survival",
         "DelayedArray",
         "testthat",
         "waldo",
@@ -12178,7 +12012,6 @@
         "mgcv",
         "tibble",
         "base64",
-        "survival",
         "httr",
         "blob",
         "pillar"
@@ -12218,7 +12051,6 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -12243,7 +12075,6 @@
         "graphite",
         "gson",
         "Hmisc",
-        "survival",
         "GO.db",
         "RSQLite",
         "KEGGREST",
@@ -12381,7 +12212,6 @@
         "VariantAnnotation",
         "tidyselect",
         "annotate",
-        "survival",
         "readr",
         "tidyr",
         "base64",
@@ -12424,7 +12254,6 @@
     ],
     "epistasisGA": [
         "BiocParallel",
-        "survival",
         "batchtools",
         "qgraph",
         "ggplot2",
@@ -12857,7 +12686,6 @@
         "AnnotationDbi",
         "RSQLite",
         "biomaRt",
-        "survival",
         "lava",
         "GenomicAlignments",
         "DelayedArray",
@@ -12934,7 +12762,6 @@
         "progress",
         "Biostrings",
         "nloptr",
-        "survival",
         "httpuv",
         "bslib",
         "testthat",
@@ -13164,7 +12991,6 @@
         "AnnotationFilter",
         "interp",
         "dbplyr",
-        "survival",
         "htmlTable",
         "viridis",
         "hms",
@@ -13212,7 +13038,6 @@
         "dplyr",
         "ggplot2",
         "plotly",
-        "survival",
         "tibble",
         "tidyselect",
         "pillar",
@@ -13281,7 +13106,6 @@
         "LiquidAssociation",
         "Hmisc",
         "WGCNA",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -13402,7 +13226,6 @@
         "SummarizedExperiment",
         "mgcv",
         "statnet.common",
-        "survival",
         "hms",
         "GenomicRanges",
         "DelayedArray",
@@ -13531,7 +13354,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
         "Biostrings",
-        "survival",
         "XVector",
         "rtracklayer",
         "biomaRt",
@@ -13615,7 +13437,6 @@
         "Biostrings",
         "biomaRt",
         "mgcv",
-        "survival",
         "DelayedArray",
         "hms",
         "Rsamtools",
@@ -13650,7 +13471,6 @@
         "MSnbase",
         "SummarizedExperiment",
         "MsFeatures",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -13728,7 +13548,6 @@
         "forcats",
         "reshape",
         "ragg",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "blob",
@@ -13807,7 +13626,6 @@
         "interp",
         "nloptr",
         "broom",
-        "survival",
         "tidyr",
         "viridis",
         "testthat",
@@ -13840,7 +13658,6 @@
         "interp",
         "nloptr",
         "broom",
-        "survival",
         "tidyr",
         "viridis",
         "testthat",
@@ -13890,7 +13707,6 @@
         "nloptr",
         "broom",
         "dplyr",
-        "survival",
         "tibble",
         "tidyr",
         "ggplot2",
@@ -13924,7 +13740,6 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -14011,9 +13826,7 @@
         "tibble",
         "pillar"
     ],
-    "fmrs": [
-        "survival"
-    ],
+    "fmrs": [],
     "fobitools": [
         "dplyr",
         "fgsea",
@@ -14041,7 +13854,6 @@
         "hms",
         "progress",
         "tweenr",
-        "survival",
         "prodlim",
         "syuzhet",
         "blob",
@@ -14122,7 +13934,6 @@
         "mgcv",
         "pbkrtest",
         "lme4",
-        "survival",
         "nloptr",
         "broom",
         "dplyr",
@@ -14204,7 +14015,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "readr",
         "dplyr",
         "tidyr",
@@ -14258,7 +14068,6 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -14344,8 +14153,7 @@
         "blob"
     ],
     "GAprediction": [
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "GARS": [
         "ggplot2",
@@ -14389,7 +14197,6 @@
         "ggrepel",
         "RWeka",
         "XVector",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -14515,7 +14322,6 @@
         "DOSE",
         "org.Hs.eg.db",
         "biomaRt",
-        "survival",
         "survminer",
         "pathview",
         "ggplot2",
@@ -14614,8 +14420,7 @@
         "tidyselect",
         "pillar",
         "mgcv",
-        "segmented",
-        "survival"
+        "segmented"
     ],
     "gemma.R": [
         "SummarizedExperiment",
@@ -14693,7 +14498,6 @@
         "XVector",
         "GenomeInfoDb",
         "nloptr",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -14740,7 +14544,6 @@
     "genefilter": [
         "AnnotationDbi",
         "annotate",
-        "survival",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -14760,7 +14563,6 @@
         "httr",
         "BiocFileCache",
         "pamr",
-        "survival",
         "prodlim",
         "ipred",
         "RSQLite",
@@ -14795,7 +14597,6 @@
         "XVector",
         "Biostrings",
         "BiocParallel",
-        "survival",
         "mgcv",
         "pbkrtest",
         "quantreg",
@@ -14815,7 +14616,6 @@
         "genefilter",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -14857,7 +14657,6 @@
         "GenomeInfoDb",
         "XVector",
         "RSQLite",
-        "survival",
         "logistf",
         "quantsmooth",
         "Biostrings",
@@ -14903,7 +14702,6 @@
         "interp",
         "dbplyr",
         "dplyr",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -15151,7 +14949,6 @@
         "mixtools",
         "SummarizedExperiment",
         "segmented",
-        "survival",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -15221,7 +15018,6 @@
         "interp",
         "DelayedArray",
         "dbplyr",
-        "survival",
         "htmlTable",
         "viridis",
         "hms",
@@ -15262,7 +15058,6 @@
         "forcats",
         "reshape",
         "tidyr",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -15338,7 +15133,6 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -15528,7 +15322,6 @@
         "lme4",
         "broom",
         "nloptr",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -15628,7 +15421,6 @@
         "tidyselect",
         "pillar",
         "mgcv",
-        "survival",
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -15655,7 +15447,6 @@
         "nloptr",
         "broom",
         "dplyr",
-        "survival",
         "tibble",
         "tidyr",
         "ggplot2",
@@ -15696,7 +15487,6 @@
         "tidyr",
         "mgcv",
         "tibble",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -15874,7 +15664,6 @@
         "latticeExtra",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "multcomp",
         "vcd",
         "shiny",
@@ -15959,7 +15748,6 @@
         "tidyselect",
         "pillar",
         "mgcv",
-        "survival",
         "GenomicRanges",
         "DelayedArray",
         "tidyr",
@@ -16002,7 +15790,6 @@
         "KEGGREST",
         "ggplot2",
         "viridis",
-        "survival",
         "mgcv",
         "tibble",
         "Biostrings",
@@ -16012,7 +15799,6 @@
         "pillar"
     ],
     "globaltest": [
-        "survival",
         "AnnotationDbi",
         "annotate",
         "httr",
@@ -16074,7 +15860,6 @@
         "httpuv",
         "bslib",
         "Hmisc",
-        "survival",
         "httr",
         "dplyr",
         "tibble",
@@ -16348,7 +16133,6 @@
         "KEGGREST",
         "GSEABase",
         "genefilter",
-        "survival",
         "Biostrings",
         "blob",
         "XVector",
@@ -16463,7 +16247,6 @@
         "tidyr",
         "tidyselect",
         "pillar",
-        "survival",
         "sf",
         "flextable",
         "mgcv",
@@ -16482,8 +16265,7 @@
     ],
     "GraphAT": [
         "MCMCpack",
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "graphite": [
         "AnnotationDbi",
@@ -16500,8 +16282,7 @@
         "Biostrings",
         "multtest",
         "XVector",
-        "GenomeInfoDb",
-        "survival"
+        "GenomeInfoDb"
     ],
     "GRENITS": [
         "ggplot2",
@@ -16543,7 +16324,6 @@
         "tidyselect",
         "pillar",
         "XVector",
-        "survival",
         "TH.data",
         "nloptr",
         "broom",
@@ -16565,7 +16345,6 @@
     ],
     "GRridge": [
         "penalized",
-        "survival",
         "glmnet"
     ],
     "GSAR": [],
@@ -16682,9 +16461,7 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "GSgalgoR": [
-        "survival"
-    ],
+    "GSgalgoR": [],
     "GSReg": [
         "Homo.sapiens",
         "org.Hs.eg.db",
@@ -16723,7 +16500,6 @@
         "les",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -16794,7 +16570,6 @@
         "BiocParallel",
         "RSQLite",
         "mgcv",
-        "survival",
         "haven",
         "readxl",
         "progress",
@@ -16870,7 +16645,6 @@
         "interp",
         "dbplyr",
         "dplyr",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -16897,7 +16671,6 @@
         "tidyr",
         "tidyselect",
         "pillar",
-        "survival",
         "prodlim",
         "lava",
         "future.apply"
@@ -16925,7 +16698,6 @@
         "hms",
         "tibble",
         "vroom",
-        "survival",
         "SummarizedExperiment",
         "Rsamtools",
         "BSgenome",
@@ -16943,7 +16715,6 @@
     ],
     "GWASTools": [
         "RSQLite",
-        "survival",
         "logistf",
         "quantsmooth",
         "mice",
@@ -16960,7 +16731,6 @@
     ],
     "gwasurvivr": [
         "GWASTools",
-        "survival",
         "VariantAnnotation",
         "SummarizedExperiment",
         "RSQLite",
@@ -17014,7 +16784,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "Hmisc",
-        "survival",
         "GO.db",
         "AnnotationDbi",
         "RSQLite",
@@ -17255,7 +17024,6 @@
         "AnnotationFilter",
         "interp",
         "dbplyr",
-        "survival",
         "htmlTable",
         "viridis",
         "hms",
@@ -17302,7 +17070,6 @@
         "Rsamtools",
         "future.apply",
         "nloptr",
-        "survival",
         "Biostrings",
         "testthat",
         "waldo",
@@ -17359,19 +17126,16 @@
         "shiny",
         "DT",
         "interp",
-        "survival",
         "htmlTable",
         "viridis",
         "httpuv",
         "bslib"
     ],
     "hierGWAS": [
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "hierinf": [
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "HilbertCurve": [
         "GenomicRanges",
@@ -17428,7 +17192,6 @@
         "interactiveDisplayBase",
         "httr",
         "dplyr",
-        "survival",
         "multcomp",
         "GenomicRanges",
         "tidyr",
@@ -17540,7 +17303,6 @@
         "hardhat",
         "ipred",
         "progress",
-        "survival",
         "prodlim",
         "lava",
         "future.apply"
@@ -17638,9 +17400,7 @@
         "XVector",
         "DelayedArray"
     ],
-    "HybridMTest": [
-        "survival"
-    ],
+    "HybridMTest": [],
     "hypeR": [
         "ggplot2",
         "ggforce",
@@ -17692,7 +17452,6 @@
     ],
     "iCARE": [
         "Hmisc",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -17702,9 +17461,7 @@
         "interp",
         "pillar"
     ],
-    "Icens": [
-        "survival"
-    ],
+    "Icens": [],
     "icetea": [
         "ggplot2",
         "GenomicFeatures",
@@ -17772,7 +17529,6 @@
         "BiocFileCache",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
-        "survival",
         "tibble",
         "base64",
         "bumphunter",
@@ -17891,7 +17647,6 @@
         "progress",
         "BiocFileCache",
         "GSEABase",
-        "survival",
         "rtracklayer",
         "GenomicFeatures",
         "Biostrings",
@@ -18034,7 +17789,6 @@
         "ggplot2",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "mgcv",
         "tibble",
         "httr",
@@ -18056,7 +17810,6 @@
         "GenomeInfoDb",
         "ggfortify",
         "Rsamtools",
-        "survival",
         "BiocParallel",
         "GenomicAlignments",
         "RSQLite",
@@ -18229,7 +17982,6 @@
         "SummarizedExperiment",
         "SingleCellExperiment",
         "tidyr",
-        "survival",
         "multcomp",
         "tibble",
         "tidyselect",
@@ -18375,7 +18127,6 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -18412,7 +18163,6 @@
         "tidyr",
         "mgcv",
         "tibble",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -18465,7 +18215,6 @@
         "httpuv",
         "bslib",
         "httr",
-        "survival",
         "Biostrings",
         "blob",
         "pillar",
@@ -18541,7 +18290,6 @@
         "XVector",
         "GenomeInfoDb",
         "nloptr",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -18573,7 +18321,6 @@
         "httr",
         "BiocFileCache",
         "annotate",
-        "survival",
         "mgcv",
         "tibble",
         "blob",
@@ -18623,12 +18370,10 @@
         "Biostrings",
         "multtest",
         "XVector",
-        "GenomeInfoDb",
-        "survival"
+        "GenomeInfoDb"
     ],
     "iPath": [
         "BiocParallel",
-        "survival",
         "ggpubr",
         "ggplot2",
         "survminer",
@@ -18687,7 +18432,6 @@
         "MSnbase",
         "SummarizedExperiment",
         "MsFeatures",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -18748,7 +18492,6 @@
         "tidygraph",
         "graphlayouts",
         "segmented",
-        "survival",
         "scuttle",
         "SummarizedExperiment",
         "DelayedArray",
@@ -19049,7 +18792,6 @@
         "progress",
         "AnnotationFilter",
         "annotate",
-        "survival",
         "DelayedArray",
         "blob",
         "shiny",
@@ -19110,12 +18852,10 @@
     ],
     "iterativeBMA": [
         "BMA",
-        "survival",
         "rrcov"
     ],
     "iterativeBMAsurv": [
         "BMA",
-        "survival",
         "rrcov"
     ],
     "IVAS": [
@@ -19157,7 +18897,6 @@
     "ivygapSE": [
         "SummarizedExperiment",
         "shiny",
-        "survival",
         "survminer",
         "plotly",
         "ggplot2",
@@ -19234,7 +18973,6 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -19273,7 +19011,6 @@
         "tidyselect",
         "pillar",
         "mgcv",
-        "survival",
         "GenomicAlignments",
         "SummarizedExperiment",
         "AnnotationDbi",
@@ -19291,8 +19028,7 @@
     ],
     "KCsmart": [
         "siggenes",
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "kebabs": [
         "Biostrings",
@@ -19389,7 +19125,6 @@
         "lme4",
         "broom",
         "nloptr",
-        "survival",
         "blob",
         "GenomicAlignments",
         "testthat",
@@ -19410,7 +19145,6 @@
         "quantreg",
         "mgcv",
         "tibble",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -19496,7 +19230,6 @@
         "SummarizedExperiment",
         "coin",
         "ggplot2",
-        "survival",
         "multcomp",
         "mgcv",
         "tibble",
@@ -19606,7 +19339,6 @@
         "lme4",
         "vroom",
         "nloptr",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -19751,7 +19483,6 @@
         "MSnbase",
         "SummarizedExperiment",
         "MsFeatures",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -19775,8 +19506,7 @@
         "XVector"
     ],
     "logicFS": [
-        "LogicReg",
-        "survival"
+        "LogicReg"
     ],
     "logitT": [],
     "LOLA": [
@@ -19828,7 +19558,6 @@
         "hms",
         "vroom",
         "rvest",
-        "survival",
         "AnnotationDbi",
         "GenomicFeatures",
         "GenomicDataCommons",
@@ -19910,7 +19639,6 @@
         "BiocFileCache",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
-        "survival",
         "tibble",
         "base64",
         "bumphunter",
@@ -19969,7 +19697,6 @@
         "bbmle",
         "reldist",
         "Hmisc",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -20023,7 +19750,6 @@
         "ipred",
         "tidyr",
         "DelayedArray",
-        "survival",
         "prodlim",
         "httpuv",
         "bslib",
@@ -20052,7 +19778,6 @@
         "TMB",
         "nloptr",
         "glmnet",
-        "survival",
         "testthat",
         "broom",
         "tidyr",
@@ -20079,7 +19804,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "Hmisc",
-        "survival",
         "GO.db",
         "AnnotationDbi",
         "RSQLite",
@@ -20201,9 +19925,7 @@
         "dbplyr",
         "hms"
     ],
-    "maftools": [
-        "survival"
-    ],
+    "maftools": [],
     "MAGAR": [
         "HDF5Array",
         "RnBeads",
@@ -20223,7 +19945,6 @@
         "GenomicRanges",
         "fields",
         "methylumi",
-        "survival",
         "viridis",
         "GenomeInfoDb",
         "XVector",
@@ -20373,7 +20094,6 @@
         "hardhat",
         "ipred",
         "rmarkdown",
-        "survival",
         "prodlim",
         "bslib",
         "lava"
@@ -20399,7 +20119,6 @@
         "viridis",
         "mgcv",
         "tibble",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "questionr",
@@ -20445,7 +20164,6 @@
         "reactome.db",
         "RSQLite",
         "KEGGREST",
-        "survival",
         "httr",
         "Biostrings",
         "blob",
@@ -20480,7 +20198,6 @@
         "tidyselect",
         "blob",
         "pillar",
-        "survival",
         "prodlim",
         "lava",
         "future.apply"
@@ -20500,8 +20217,7 @@
         "XVector"
     ],
     "martini": [
-        "snpStats",
-        "survival"
+        "snpStats"
     ],
     "maser": [
         "ggplot2",
@@ -20538,7 +20254,6 @@
         "BiocParallel",
         "interp",
         "dbplyr",
-        "survival",
         "htmlTable",
         "viridis",
         "hms",
@@ -20588,7 +20303,6 @@
         "tidyselect",
         "pillar",
         "mgcv",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -20674,7 +20388,6 @@
         "GenomeInfoDb",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "testthat",
         "httr",
         "RSQLite",
@@ -20709,7 +20422,6 @@
         "clusterSim",
         "e1071",
         "Hmisc",
-        "survival",
         "GO.db",
         "AnnotationDbi",
         "RSQLite",
@@ -20732,7 +20444,6 @@
         "oligoClasses",
         "GWASTools",
         "RSQLite",
-        "survival",
         "logistf",
         "quantsmooth",
         "GenomicRanges",
@@ -20795,7 +20506,6 @@
         "mgcv",
         "tibble",
         "Hmisc",
-        "survival",
         "tidyselect",
         "pillar",
         "latticeExtra",
@@ -20853,7 +20563,6 @@
         "blob",
         "pillar",
         "tidyselect",
-        "survival",
         "htmlTable",
         "viridis"
     ],
@@ -20932,7 +20641,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "annotate",
-        "survival",
         "readr",
         "dplyr",
         "tidyr",
@@ -20959,7 +20667,6 @@
         "wateRmelon",
         "tidyselect",
         "pillar",
-        "survival",
         "GenomicRanges",
         "Biostrings",
         "bumphunter",
@@ -21050,7 +20757,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "survival",
         "TH.data",
         "nloptr",
         "broom",
@@ -21112,7 +20818,6 @@
         "mgcv",
         "tibble",
         "quantreg",
-        "survival",
         "bslib",
         "pillar"
     ],
@@ -21222,7 +20927,6 @@
         "blob",
         "httr",
         "KEGGREST",
-        "survival",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -21250,7 +20954,6 @@
         "blob"
     ],
     "messina": [
-        "survival",
         "ggplot2",
         "mgcv",
         "tibble",
@@ -21288,7 +20991,6 @@
         "clock",
         "hardhat",
         "ipred",
-        "survival",
         "prodlim",
         "lava",
         "future.apply"
@@ -21346,7 +21048,6 @@
         "ggplot2",
         "mgcv",
         "tibble",
-        "survival",
         "pillar"
     ],
     "MetaboSignal": [
@@ -21385,7 +21086,6 @@
         "rtracklayer",
         "Rsamtools",
         "tibble",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -21429,7 +21129,6 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -21485,8 +21184,7 @@
         "DelayedArray"
     ],
     "metagenomeSeq": [
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "metaMS": [
         "CAMERA",
@@ -21496,7 +21194,6 @@
         "MSnbase",
         "SummarizedExperiment",
         "MsFeatures",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -21563,7 +21260,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "survival",
         "prodlim",
         "repr",
         "blob",
@@ -21636,7 +21332,6 @@
         "ShortRead",
         "aroma.light",
         "annotate",
-        "survival",
         "plotly",
         "viridis",
         "dendextend",
@@ -21698,7 +21393,6 @@
         "Rsamtools",
         "biomaRt",
         "tibble",
-        "survival",
         "DelayedArray",
         "KEGGREST",
         "progress",
@@ -21730,7 +21424,6 @@
         "multtest",
         "multcomp",
         "sn",
-        "survival",
         "TH.data",
         "quantreg"
     ],
@@ -21794,7 +21487,6 @@
         "fastseg",
         "rtracklayer",
         "mgcv",
-        "survival",
         "bbmle",
         "ggplot2",
         "Biostrings",
@@ -21854,7 +21546,6 @@
         "httpuv",
         "bslib",
         "nloptr",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -21911,7 +21602,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "readr",
         "dplyr",
         "tidyr",
@@ -21959,7 +21649,6 @@
         "tidyselect",
         "pillar",
         "annotate",
-        "survival",
         "XVector",
         "siggenes",
         "illuminaio",
@@ -22055,7 +21744,6 @@
         "blob",
         "AnnotationHubData",
         "annotate",
-        "survival",
         "gargle",
         "cellranger",
         "ids",
@@ -22155,7 +21843,6 @@
         "patchwork",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "cowplot",
-        "survival",
         "rtracklayer",
         "biomaRt",
         "readr",
@@ -22256,7 +21943,6 @@
         "interp",
         "dbplyr",
         "dplyr",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -22343,7 +22029,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
         "Biostrings",
-        "survival",
         "XVector",
         "rtracklayer",
         "biomaRt",
@@ -22436,7 +22121,6 @@
         "forcats",
         "progress",
         "reshape",
-        "survival",
         "hms"
     ],
     "Mfuzz": [
@@ -22606,8 +22290,7 @@
         "pillar",
         "mgcv",
         "biomformat",
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "microbiomeDASim": [
         "ggplot2",
@@ -22624,7 +22307,6 @@
         "gmm",
         "XVector",
         "GenomeInfoDb",
-        "survival",
         "pillar"
     ],
     "microbiomeExplorer": [
@@ -22674,7 +22356,6 @@
         "AnnotationDbi",
         "GenomeInfoDb",
         "XVector",
-        "survival",
         "nloptr",
         "DelayedArray",
         "progress",
@@ -22727,7 +22408,6 @@
         "GenomeInfoDb",
         "e1071",
         "recipes",
-        "survival",
         "multcomp",
         "geneplotter",
         "tidyselect",
@@ -22867,7 +22547,6 @@
         "ggtreeExtra",
         "XVector",
         "GenomeInfoDb",
-        "survival",
         "multcomp",
         "mgcv",
         "aplot",
@@ -22933,8 +22612,7 @@
         "blob",
         "pillar",
         "XVector",
-        "GenomeInfoDb",
-        "survival"
+        "GenomeInfoDb"
     ],
     "miloR": [
         "BiocNeighbors",
@@ -22994,7 +22672,6 @@
         "mgcv",
         "quantreg",
         "waldo",
-        "survival",
         "rematch2"
     ],
     "mina": [
@@ -23004,7 +22681,6 @@
         "Hmisc",
         "mgcv",
         "tibble",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -23031,7 +22707,6 @@
         "Category",
         "GO.db",
         "AnnotationForge",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -23092,7 +22767,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "readr",
         "dplyr",
         "tidyr",
@@ -23218,7 +22892,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "survival",
         "GO.db",
         "AnnotationForge",
         "ggplot2",
@@ -23312,7 +22985,6 @@
         "clusterProfiler",
         "ReactomePA",
         "DOSE",
-        "survival",
         "shiny",
         "ggwordcloud",
         "metR",
@@ -23424,7 +23096,6 @@
         "clusterProfiler",
         "ReactomePA",
         "DOSE",
-        "survival",
         "linkcomm",
         "org.Hs.eg.db",
         "AnnotationDbi",
@@ -23569,7 +23240,6 @@
         "BiocParallel",
         "httr",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "survival",
         "rtracklayer",
         "biomaRt",
         "readr",
@@ -23626,7 +23296,6 @@
         "hardhat",
         "ipred",
         "progress",
-        "survival",
         "prodlim",
         "lava",
         "future.apply"
@@ -23707,7 +23376,6 @@
         "SummarizedExperiment",
         "AnnotationDbi",
         "httr",
-        "survival",
         "dplyr",
         "httpuv",
         "bslib",
@@ -23749,7 +23417,6 @@
         "geneplotter",
         "mgcv",
         "tibble",
-        "survival",
         "GenomeInfoDb",
         "DelayedArray",
         "waldo",
@@ -23818,7 +23485,6 @@
         "TMB",
         "nloptr",
         "glmnet",
-        "survival",
         "testthat",
         "broom",
         "waldo",
@@ -23878,7 +23544,6 @@
     "MODA": [
         "WGCNA",
         "Hmisc",
-        "survival",
         "GO.db",
         "AnnotationDbi",
         "RSQLite",
@@ -23935,7 +23600,6 @@
         "GSEABase",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -23979,7 +23643,6 @@
         "GenomeInfoDb",
         "rtracklayer",
         "Rsamtools",
-        "survival",
         "DelayedArray",
         "CNEr",
         "DirichletMultinomial",
@@ -24121,7 +23784,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "segmented",
-        "survival",
         "DelayedArray"
     ],
     "motifbreakR": [
@@ -24165,7 +23827,6 @@
         "readr",
         "annotate",
         "GO.db",
-        "survival",
         "htmlTable",
         "viridis",
         "hms",
@@ -24324,7 +23985,6 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -24430,7 +24090,6 @@
         "forcats",
         "reshape",
         "tidyr",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -24567,7 +24226,6 @@
         "lme4",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "XVector",
         "httr",
         "RSQLite",
@@ -24619,7 +24277,6 @@
     ],
     "MSstats": [
         "lme4",
-        "survival",
         "ggplot2",
         "ggrepel",
         "mgcv",
@@ -24654,7 +24311,6 @@
         "ggsignif",
         "rstatix",
         "lme4",
-        "survival",
         "MSstatsTMT",
         "broom",
         "dbplyr",
@@ -24709,7 +24365,6 @@
         "pillar",
         "mgcv",
         "lme4",
-        "survival",
         "lmerTest",
         "nloptr",
         "testthat",
@@ -24774,7 +24429,6 @@
         "mgcv",
         "tibble",
         "lme4",
-        "survival",
         "ggrepel",
         "nloptr",
         "dplyr",
@@ -24809,7 +24463,6 @@
         "tidyselect",
         "pillar",
         "mgcv",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -24834,7 +24487,6 @@
         "mgcv",
         "tibble",
         "nloptr",
-        "survival",
         "ggrepel",
         "testthat",
         "pillar",
@@ -24896,7 +24548,6 @@
         "tidyselect"
     ],
     "multiClust": [
-        "survival",
         "dendextend",
         "ggplot2",
         "viridis",
@@ -24955,7 +24606,6 @@
         "blob",
         "segmented",
         "dbplyr",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -25000,7 +24650,6 @@
         "sn",
         "XVector",
         "GenomeInfoDb",
-        "survival",
         "TH.data",
         "quantreg"
     ],
@@ -25141,7 +24790,6 @@
         "cowplot",
         "credentials",
         "tweenr",
-        "survival",
         "prodlim",
         "Biostrings",
         "TH.data",
@@ -25156,9 +24804,7 @@
         "rematch2",
         "future.apply"
     ],
-    "multtest": [
-        "survival"
-    ],
+    "multtest": [],
     "mumosa": [
         "SingleCellExperiment",
         "BiocParallel",
@@ -25326,7 +24972,6 @@
         "RSQLite",
         "biomaRt",
         "mgcv",
-        "survival",
         "httr",
         "httpuv",
         "bslib",
@@ -25418,7 +25063,6 @@
         "nloptr",
         "broom",
         "dplyr",
-        "survival",
         "pillar",
         "tidyr",
         "tidyselect",
@@ -25439,7 +25083,6 @@
         "Biostrings",
         "rtracklayer",
         "biomaRt",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -25467,7 +25110,6 @@
         "httr",
         "Hmisc",
         "GenomeInfoDb",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -25554,7 +25196,6 @@
         "pillar",
         "mgcv",
         "interp",
-        "survival",
         "TH.data",
         "blob",
         "quantreg",
@@ -25712,7 +25353,6 @@
         "ggplot2",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "GenomeInfoDb",
         "DelayedArray",
         "httr",
@@ -25737,7 +25377,6 @@
         "nloptr",
         "broom",
         "dplyr",
-        "survival",
         "pillar",
         "tidyr",
         "tidyselect",
@@ -25853,7 +25492,6 @@
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
-        "survival",
         "XVector",
         "tidyr",
         "dplyr",
@@ -25911,7 +25549,6 @@
     "netboost": [
         "WGCNA",
         "Hmisc",
-        "survival",
         "GO.db",
         "AnnotationDbi",
         "RSQLite",
@@ -25991,7 +25628,6 @@
         "XVector",
         "mgcv",
         "tibble",
-        "survival",
         "SummarizedExperiment",
         "DelayedArray",
         "tidyr",
@@ -26009,7 +25645,6 @@
         "ggplot2",
         "mgcv",
         "tibble",
-        "survival",
         "ICS",
         "statnet.common",
         "survey",
@@ -26068,7 +25703,6 @@
         "WGCNA",
         "biomaRt",
         "AnnotationDbi",
-        "survival",
         "GO.db",
         "RSQLite",
         "KEGGREST",
@@ -26135,7 +25769,6 @@
         "httr",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "textshaping",
         "progress",
         "tidyr",
@@ -26172,7 +25805,6 @@
         "Category",
         "annotate",
         "AnnotationForge",
-        "survival",
         "httr",
         "IRkernel",
         "IRdisplay",
@@ -26363,7 +25995,6 @@
         "forcats",
         "hms",
         "readr",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -26496,7 +26127,6 @@
         "XVector",
         "Rsamtools",
         "annotate",
-        "survival",
         "mgcv",
         "tibble",
         "ExperimentHub",
@@ -26513,8 +26143,7 @@
     ],
     "OCplus": [
         "multtest",
-        "interp",
-        "survival"
+        "interp"
     ],
     "octad": [
         "dplyr",
@@ -26620,7 +26249,6 @@
         "blob",
         "biomaRt",
         "VariantAnnotation",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -26695,7 +26323,6 @@
         "BiocParallel",
         "interp",
         "blob",
-        "survival",
         "htmlTable",
         "viridis",
         "hms",
@@ -26738,7 +26365,6 @@
         "tidyselect",
         "pillar",
         "mgcv",
-        "survival",
         "questionr",
         "hardhat",
         "shiny",
@@ -26802,7 +26428,6 @@
         "NADA",
         "GenomeInfoDb",
         "XVector",
-        "survival",
         "DelayedArray"
     ],
     "omicRexposome": [
@@ -26836,7 +26461,6 @@
         "DT",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "XVector",
         "latticeExtra",
         "htmlTable",
@@ -26931,7 +26555,6 @@
         "BiocFileCache",
         "nloptr",
         "broom",
-        "survival",
         "blob",
         "dbplyr",
         "testthat",
@@ -26955,7 +26578,6 @@
     ],
     "omicsViewer": [
         "survminer",
-        "survival",
         "DT",
         "shiny",
         "shinythemes",
@@ -27092,7 +26714,6 @@
         "pillar",
         "nloptr",
         "broom",
-        "survival",
         "tidyr",
         "testthat",
         "waldo",
@@ -27175,7 +26796,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "survival",
         "mgcv",
         "latticeExtra",
         "htmlTable",
@@ -27208,7 +26828,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "survival",
         "mgcv",
         "latticeExtra",
         "htmlTable",
@@ -27222,7 +26841,6 @@
         "AICcmodavg",
         "car",
         "summarytools",
-        "survival",
         "unmarked",
         "mgcv",
         "pbkrtest",
@@ -27486,7 +27104,6 @@
         "lme4",
         "progress",
         "nloptr",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -27570,7 +27187,6 @@
         "mRMRe",
         "ROCR",
         "sva",
-        "survival",
         "mgcv",
         "genefilter",
         "BiocParallel",
@@ -27615,7 +27231,6 @@
         "pillar",
         "nloptr",
         "broom",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -27761,7 +27376,6 @@
         "tidytree",
         "treeio",
         "Biostrings",
-        "survival",
         "TH.data",
         "blob",
         "quantreg",
@@ -27889,7 +27503,6 @@
         "tidyselect",
         "pillar",
         "mgcv",
-        "survival",
         "biomformat",
         "Biostrings",
         "multtest",
@@ -27942,9 +27555,7 @@
         "GenomeInfoDb",
         "blob"
     ],
-    "pathwayPCA": [
-        "survival"
-    ],
+    "pathwayPCA": [],
     "paxtoolsr": [
         "httr",
         "readr",
@@ -27987,7 +27598,6 @@
         "BiocParallel",
         "geneplotter",
         "annotate",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "mgcv",
@@ -28039,7 +27649,6 @@
         "CoreGx",
         "caret",
         "survminer",
-        "survival",
         "dplyr",
         "BiocParallel",
         "piano",
@@ -28164,7 +27773,6 @@
         "PSCBS",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -28207,8 +27815,7 @@
     ],
     "pengls": [
         "glmnet",
-        "BiocParallel",
-        "survival"
+        "BiocParallel"
     ],
     "PepsNMR": [
         "ptw",
@@ -28234,7 +27841,6 @@
         "ggplot2",
         "phyloseq",
         "fitdistrplus",
-        "survival",
         "mgcv",
         "tibble",
         "biomformat",
@@ -28435,7 +28041,6 @@
         "BMA",
         "ggplot2",
         "Hmisc",
-        "survival",
         "Category",
         "AnnotationDbi",
         "biomaRt",
@@ -28484,7 +28089,6 @@
         "dplyr",
         "tidyr",
         "testthat",
-        "survival",
         "pillar",
         "tidyselect",
         "waldo",
@@ -28562,7 +28166,6 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -28614,7 +28217,6 @@
         "GenomeInfoDb",
         "mgcv",
         "tibble",
-        "survival",
         "pillar"
     ],
     "Pi": [
@@ -28642,7 +28244,6 @@
         "network",
         "sna",
         "mgcv",
-        "survival",
         "crul",
         "httr",
         "hms",
@@ -28711,7 +28312,6 @@
         "tidyselect",
         "pillar",
         "mgcv",
-        "survival",
         "ggraph",
         "reactome.db",
         "graphite",
@@ -28778,7 +28378,6 @@
         "interp",
         "dbplyr",
         "dplyr",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -28840,7 +28439,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "ScaledMatrix",
-        "survival",
         "XVector",
         "ragg",
         "tidyr",
@@ -28895,7 +28493,6 @@
         "KEGGREST",
         "GSEABase",
         "genefilter",
-        "survival",
         "Biostrings",
         "blob",
         "XVector",
@@ -28944,7 +28541,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -29092,7 +28688,6 @@
         "tidyselect",
         "pillar",
         "mgcv",
-        "survival",
         "rARPACK",
         "bslib",
         "GenomeInfoDb",
@@ -29232,7 +28827,6 @@
         "DelayedArray",
         "mgcv",
         "tibble",
-        "survival",
         "pillar"
     ],
     "preciseTAD": [
@@ -29253,7 +28847,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "aCGH",
-        "survival",
         "multtest",
         "RSQLite",
         "KEGGREST",
@@ -29291,7 +28884,6 @@
         "annotate",
         "AnnotationDbi",
         "httr",
-        "survival",
         "RSQLite",
         "KEGGREST",
         "Biostrings",
@@ -29352,7 +28944,6 @@
         "interp",
         "blob",
         "mgcv",
-        "survival",
         "htmlTable",
         "viridis",
         "DT",
@@ -29373,7 +28964,6 @@
         "ggplot2",
         "tseries",
         "urca",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -29465,7 +29055,6 @@
         "genefilter",
         "BiocParallel",
         "Hmisc",
-        "survival",
         "GO.db",
         "AnnotationDbi",
         "RSQLite",
@@ -29485,8 +29074,7 @@
         "rematch2"
     ],
     "PROcess": [
-        "Icens",
-        "survival"
+        "Icens"
     ],
     "procoil": [
         "kebabs",
@@ -29657,7 +29245,6 @@
         "mgcv",
         "tibble",
         "segmented",
-        "survival",
         "annotate",
         "genefilter",
         "ggvis",
@@ -29729,7 +29316,6 @@
         "recipes",
         "viridis",
         "segmented",
-        "survival",
         "annotate",
         "genefilter",
         "ggvis",
@@ -29774,7 +29360,6 @@
         "BiocParallel",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -29931,7 +29516,6 @@
         "bslib",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "forcats",
         "progress",
         "reshape",
@@ -29983,7 +29567,6 @@
         "Rfast",
         "shinyjs",
         "SummarizedExperiment",
-        "survival",
         "RSQLite",
         "KEGGREST",
         "interactiveDisplayBase",
@@ -30094,7 +29677,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -30199,7 +29781,6 @@
         "httr",
         "BiocFileCache",
         "BiocParallel",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -30256,7 +29837,6 @@
         "pwrEWAS.data",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "mgcv",
         "tibble",
         "ExperimentHub",
@@ -30347,7 +29927,6 @@
         "tidyselect",
         "nloptr",
         "broom",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -30428,7 +30007,6 @@
         "rtracklayer",
         "BiocParallel",
         "biomaRt",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -30463,7 +30041,6 @@
         "SummarizedExperiment",
         "sva",
         "Hmisc",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -30504,7 +30081,6 @@
         "BiocParallel",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "XVector",
         "pillar",
         "httr",
@@ -30556,7 +30132,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "readr",
         "dplyr",
         "tidyr",
@@ -30579,8 +30154,7 @@
         "dbplyr"
     ],
     "quantsmooth": [
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "QuartPAC": [
         "iPAC",
@@ -30589,8 +30163,7 @@
         "Biostrings",
         "multtest",
         "XVector",
-        "GenomeInfoDb",
-        "survival"
+        "GenomeInfoDb"
     ],
     "QuasR": [
         "GenomicRanges",
@@ -30672,7 +30245,6 @@
         "AnnotationFilter",
         "mgcv",
         "tibble",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -30789,8 +30361,7 @@
         "DelayedArray"
     ],
     "rain": [
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "ramr": [
         "GenomicRanges",
@@ -30817,7 +30388,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "BiocParallel",
-        "survival",
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -30925,9 +30495,7 @@
         "XVector",
         "BiocParallel"
     ],
-    "rbsurv": [
-        "survival"
-    ],
+    "rbsurv": [],
     "Rcade": [
         "GenomicRanges",
         "Rsamtools",
@@ -31007,7 +30575,6 @@
         "GenomicRanges",
         "AnnotationDbi",
         "aCGH",
-        "survival",
         "multtest",
         "RSQLite",
         "KEGGREST",
@@ -31056,7 +30623,6 @@
         "RSQLite",
         "KEGGREST",
         "segmented",
-        "survival",
         "httpuv",
         "bslib",
         "Biostrings",
@@ -31075,7 +30641,6 @@
         "quantmod",
         "XVector",
         "GenomeInfoDb",
-        "survival",
         "xts",
         "TTR",
         "pillar"
@@ -31246,8 +30811,7 @@
     ],
     "REBET": [
         "ASSET",
-        "msm",
-        "survival"
+        "msm"
     ],
     "rebook": [
         "rmarkdown",
@@ -31281,7 +30845,6 @@
         "vegan",
         "XVector",
         "GenomeInfoDb",
-        "survival",
         "pillar"
     ],
     "recount": [
@@ -31316,7 +30879,6 @@
         "pillar",
         "biomaRt",
         "VariantAnnotation",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -31382,7 +30944,6 @@
         "tibble",
         "tidyselect",
         "annotate",
-        "survival",
         "readr",
         "tidyr",
         "base64",
@@ -31454,7 +31015,6 @@
         "ggplot2",
         "InteractionSet",
         "regioneR",
-        "survival",
         "progress",
         "httr",
         "BiocFileCache",
@@ -31502,7 +31062,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "Hmisc",
-        "survival",
         "GO.db",
         "RSQLite",
         "annotate",
@@ -31586,7 +31145,6 @@
         "VariantAnnotation",
         "mgcv",
         "tibble",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -31604,7 +31162,6 @@
     "regsplice": [
         "glmnet",
         "SummarizedExperiment",
-        "survival",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -31651,7 +31208,6 @@
         "DT",
         "repr",
         "interp",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -31706,7 +31262,6 @@
         "tidyselect",
         "pillar",
         "annotate",
-        "survival",
         "tidyr",
         "mgcv",
         "base64",
@@ -31741,7 +31296,6 @@
         "vsn",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "DelayedArray",
         "ggplot2",
         "httr",
@@ -31789,7 +31343,6 @@
         "GO.db",
         "AnnotationForge",
         "XVector",
-        "survival",
         "biomaRt",
         "dplyr",
         "forcats",
@@ -31856,7 +31409,6 @@
         "Rsamtools",
         "mgcv",
         "tibble",
-        "survival",
         "BiocParallel",
         "GenomicAlignments",
         "pillar",
@@ -31908,7 +31460,6 @@
         "DT",
         "mgcv",
         "tibble",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -32259,7 +31810,6 @@
         "forcats",
         "reshape",
         "tidyr",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -32360,7 +31910,6 @@
         "BiocParallel",
         "nloptr",
         "broom",
-        "survival",
         "tidyr",
         "testthat",
         "waldo",
@@ -32380,7 +31929,6 @@
         "vsn",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "ggplot2",
         "httr",
         "RSQLite",
@@ -32429,7 +31977,6 @@
         "pillar",
         "blob",
         "tidyselect",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -32500,7 +32047,6 @@
         "ggplot2",
         "mgcv",
         "tibble",
-        "survival",
         "pillar"
     ],
     "RJMCMCNucleosomes": [
@@ -32517,8 +32063,7 @@
         "DelayedArray"
     ],
     "RLassoCox": [
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "RLSeq": [
         "dplyr",
@@ -32577,15 +32122,13 @@
         "httpuv",
         "bslib",
         "DelayedArray",
-        "survival",
         "prodlim",
         "lava",
         "future.apply"
     ],
     "Rmagpie": [
         "e1071",
-        "pamr",
-        "survival"
+        "pamr"
     ],
     "RMassBank": [
         "MSnbase",
@@ -32712,7 +32255,6 @@
         "tidyselect",
         "biomaRt",
         "VariantAnnotation",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -32739,7 +32281,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "bumphunter",
-        "survival",
         "logistf",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -32787,7 +32328,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-        "survival",
         "ggplot2",
         "mgcv",
         "tibble",
@@ -32834,7 +32374,6 @@
         "pillar",
         "dbplyr",
         "dplyr",
-        "survival",
         "htmlTable",
         "viridis",
         "hms",
@@ -32875,7 +32414,6 @@
         "interp",
         "dbplyr",
         "dplyr",
-        "survival",
         "htmlTable",
         "viridis",
         "hms",
@@ -32923,7 +32461,6 @@
         "pillar",
         "dbplyr",
         "dplyr",
-        "survival",
         "htmlTable",
         "viridis",
         "hms",
@@ -32964,7 +32501,6 @@
         "interp",
         "dbplyr",
         "dplyr",
-        "survival",
         "htmlTable",
         "viridis",
         "hms",
@@ -33058,7 +32594,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "survival",
         "ggforce",
         "tidygraph",
         "graphlayouts",
@@ -33125,7 +32660,6 @@
         "lme4",
         "blob",
         "VariantAnnotation",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -33162,7 +32696,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
         "Biostrings",
-        "survival",
         "rtracklayer",
         "biomaRt",
         "bumphunter",
@@ -33269,7 +32802,6 @@
         "GenomeInfoDb",
         "mgcv",
         "tibble",
-        "survival",
         "pillar"
     ],
     "rprimer": [
@@ -33331,7 +32863,6 @@
         "RSQLite",
         "KEGGREST",
         "biomaRt",
-        "survival",
         "htmlTable",
         "viridis",
         "interp",
@@ -33357,7 +32888,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "survival",
         "TFisher",
         "mutoss",
         "ggplot2",
@@ -33465,7 +32995,6 @@
     "RTCGA": [
         "rvest",
         "dplyr",
-        "survival",
         "survminer",
         "ggplot2",
         "ggthemes",
@@ -33505,7 +33034,6 @@
         "RaggedExperiment",
         "rvest",
         "SummarizedExperiment",
-        "survival",
         "TCGAutils",
         "XVector",
         "tibble",
@@ -33545,7 +33073,6 @@
         "quantreg",
         "lme4",
         "segmented",
-        "survival",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -33576,7 +33103,6 @@
         "quantreg",
         "lme4",
         "segmented",
-        "survival",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -33597,7 +33123,6 @@
     "RTNsurvival": [
         "RTN",
         "RTNduals",
-        "survival",
         "egg",
         "ggplot2",
         "pheatmap",
@@ -33628,8 +33153,7 @@
         "rematch2"
     ],
     "RTopper": [
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "Rtpca": [
         "dplyr",
@@ -33654,7 +33178,6 @@
     ],
     "Rtreemix": [
         "Hmisc",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -33762,7 +33285,6 @@
         "kinship2",
         "gRbase",
         "broom",
-        "survival",
         "dplyr",
         "tibble",
         "tidyr",
@@ -33966,7 +33488,6 @@
         "DelayedArray",
         "tfruns",
         "tfautograph",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "tidyr",
@@ -33998,7 +33519,6 @@
         "pillar",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "GenomicRanges",
         "SummarizedExperiment",
         "hms",
@@ -34112,7 +33632,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "dbplyr",
-        "survival",
         "XVector",
         "DT",
         "tidyr",
@@ -34249,7 +33768,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "genefilter",
-        "survival",
         "AnnotationDbi",
         "annotate",
         "XVector",
@@ -34299,7 +33817,6 @@
         "ggplotify",
         "tidyselect",
         "pillar",
-        "survival",
         "httpuv",
         "bslib",
         "spatstat.random",
@@ -34338,7 +33855,6 @@
         "tibble",
         "uwot",
         "GenomeInfoDb",
-        "survival",
         "XVector",
         "mgcv",
         "tidyr",
@@ -34372,7 +33888,6 @@
         "tidygraph",
         "graphlayouts",
         "segmented",
-        "survival",
         "tidyselect",
         "pillar",
         "tweenr",
@@ -34445,7 +33960,6 @@
         "GenomicRanges",
         "DelayedArray",
         "RSpectra",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "tidyr",
@@ -34544,8 +34058,7 @@
         "mgcv",
         "quantreg",
         "extRemes",
-        "BiocParallel",
-        "survival"
+        "BiocParallel"
     ],
     "scds": [
         "SingleCellExperiment",
@@ -34563,8 +34076,7 @@
     "SCFA": [
         "BiocParallel",
         "torch",
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "scFeatureFilter": [
         "dplyr",
@@ -34592,7 +34104,6 @@
         "tidyselect",
         "pillar",
         "mgcv",
-        "survival",
         "DelayedArray",
         "GenomeInfoDb",
         "annotate",
@@ -34647,7 +34158,6 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "DelayedArray",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "tidyr",
@@ -34721,7 +34231,6 @@
         "spatstat.explore",
         "spatstat.geom",
         "uwot",
-        "survival",
         "tidyr",
         "dplyr",
         "httpuv",
@@ -34766,7 +34275,6 @@
         "XVector",
         "mgcv",
         "tibble",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -34856,7 +34364,6 @@
         "forcats",
         "tibble",
         "mgcv",
-        "survival",
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
@@ -34873,7 +34380,6 @@
         "rARPACK",
         "SingleCellExperiment",
         "segmented",
-        "survival",
         "RSpectra",
         "EDASeq",
         "GenomicRanges",
@@ -34948,7 +34454,6 @@
         "SummarizedExperiment",
         "XVector",
         "GenomeInfoDb",
-        "survival",
         "DelayedArray",
         "Rsamtools",
         "AnnotationDbi",
@@ -35089,7 +34594,6 @@
         "SAVER",
         "Rmagic",
         "BiocParallel",
-        "survival",
         "glmnet"
     ],
     "ScreenR": [
@@ -35169,7 +34673,6 @@
         "forcats",
         "reshape",
         "tidyr",
-        "survival",
         "htmlTable",
         "viridis",
         "interp",
@@ -35267,7 +34770,6 @@
         "shadowtext",
         "ggtree",
         "cowplot",
-        "survival",
         "XVector",
         "tweenr",
         "ggrepel",
@@ -35352,7 +34854,6 @@
         "spatstat.geom",
         "uwot",
         "httpuv",
-        "survival",
         "Biostrings",
         "blob",
         "classInt",
@@ -35429,7 +34930,6 @@
         "rtracklayer",
         "Rsamtools",
         "Biostrings",
-        "survival",
         "XVector",
         "biomaRt",
         "tweenr",
@@ -35619,7 +35119,6 @@
         "GenomeInfoDb",
         "XVector",
         "Hmisc",
-        "survival",
         "GO.db",
         "RSQLite",
         "KEGGREST",
@@ -35873,7 +35372,6 @@
         "genefilter",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "XVector",
         "tibble",
         "httr",
@@ -35980,7 +35478,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "readr",
         "base64",
         "multtest",
@@ -36018,7 +35515,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "readr",
         "dplyr",
         "tidyr",
@@ -36064,7 +35560,6 @@
         "mlr3learners",
         "mlr3tuning",
         "paradox",
-        "survival",
         "lme4",
         "ggplot2",
         "future.apply",
@@ -36096,7 +35591,6 @@
         "MLInterfaces",
         "e1071",
         "BiocParallel",
-        "survival",
         "annotate",
         "genefilter",
         "ggvis",
@@ -36143,8 +35637,7 @@
         "pillar"
     ],
     "siggenes": [
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "sights": [
         "qvalue",
@@ -36229,7 +35722,6 @@
         "nloptr",
         "PMCMRplus",
         "ppclust",
-        "survival",
         "survivalAnalysis",
         "kknn",
         "glmnet",
@@ -36312,7 +35804,6 @@
         "openair",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "survival",
         "survminer",
         "viridis",
         "RSQLite",
@@ -36410,14 +35901,11 @@
         "tibble",
         "tidyselect"
     ],
-    "sigsquared": [
-        "survival"
-    ],
+    "sigsquared": [],
     "SIM": [
         "quantreg",
         "globaltest",
         "quantsmooth",
-        "survival",
         "AnnotationDbi",
         "annotate",
         "httr",
@@ -36440,7 +35928,6 @@
         "vsn",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "ggplot2",
         "httr",
         "RSQLite",
@@ -36472,8 +35959,7 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "XVector",
-        "survival"
+        "XVector"
     ],
     "SIMD": [
         "methylMnM"
@@ -36581,7 +36067,6 @@
         "pheatmap",
         "multtest",
         "scran",
-        "survival",
         "SingleCellExperiment",
         "scuttle",
         "SummarizedExperiment",
@@ -36694,7 +36179,6 @@
         "TFisher",
         "mutoss",
         "babelgene",
-        "survival",
         "bslib",
         "ggbeeswarm",
         "RcppML",
@@ -36823,7 +36307,6 @@
         "ggplot2",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "mgcv",
         "tibble",
         "SummarizedExperiment",
@@ -36925,7 +36408,6 @@
         "XVector",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
-        "survival",
         "rtracklayer",
         "biomaRt",
         "readr",
@@ -37001,7 +36483,6 @@
         "mgcv",
         "tibble",
         "GO.db",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -37026,7 +36507,6 @@
     "snapCGH": [
         "aCGH",
         "tilingArray",
-        "survival",
         "multtest",
         "strucchange",
         "vsn",
@@ -37100,9 +36580,7 @@
         "hms",
         "tidyselect"
     ],
-    "snpStats": [
-        "survival"
-    ],
+    "snpStats": [],
     "soGGi": [
         "SummarizedExperiment",
         "ggplot2",
@@ -37136,7 +36614,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "survival",
         "mgcv",
         "segmented",
         "httpuv",
@@ -37175,7 +36652,6 @@
         "progress",
         "reshape",
         "tidyr",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -37197,8 +36673,7 @@
         "Biostrings",
         "multtest",
         "XVector",
-        "GenomeInfoDb",
-        "survival"
+        "GenomeInfoDb"
     ],
     "Spaniel": [
         "Seurat",
@@ -37250,7 +36725,6 @@
         "bslib",
         "GenomeInfoDb",
         "ScaledMatrix",
-        "survival",
         "XVector",
         "ragg",
         "tidyr",
@@ -37289,13 +36763,11 @@
         "tmvtnorm",
         "MCMCpack",
         "quantreg",
-        "gmm",
-        "survival"
+        "gmm"
     ],
     "sparsenetgls": [
         "glmnet",
-        "huge",
-        "survival"
+        "huge"
     ],
     "SparseSignatures": [
         "NMF",
@@ -37515,7 +36987,6 @@
         "pillar",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "mgcv",
         "tidyr",
         "DelayedArray",
@@ -37595,7 +37066,6 @@
         "interp",
         "hms",
         "vroom",
-        "survival",
         "htmlTable",
         "viridis"
     ],
@@ -37767,7 +37237,6 @@
         "BSgenome",
         "ggplot2",
         "mgcv",
-        "survival",
         "XVector",
         "rtracklayer",
         "SummarizedExperiment",
@@ -37783,7 +37252,6 @@
         "ggplot2",
         "scater",
         "SummarizedExperiment",
-        "survival",
         "mgcv",
         "tibble",
         "scuttle",
@@ -37842,7 +37310,6 @@
         "XVector",
         "Rsamtools",
         "annotate",
-        "survival",
         "mgcv",
         "tibble",
         "viridis",
@@ -37945,7 +37412,6 @@
         "DelayedArray",
         "pillar",
         "tidyselect",
-        "survival",
         "htmlTable",
         "viridis"
     ],
@@ -37984,7 +37450,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "survival",
         "broom",
         "dbplyr",
         "dtplyr",
@@ -38066,7 +37531,6 @@
         "HDF5Array",
         "beachmat",
         "scuttle",
-        "survival",
         "XVector",
         "tidyr",
         "httpuv",
@@ -38106,7 +37570,6 @@
         "Hmisc",
         "WGCNA",
         "phyloseq",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -38227,7 +37690,6 @@
         "dbplyr",
         "dplyr",
         "credentials",
-        "survival",
         "htmlTable",
         "viridis",
         "hms",
@@ -38300,7 +37762,6 @@
         "ggforce",
         "labelled",
         "mgcv",
-        "survival",
         "rARPACK",
         "dplyr",
         "tidyr",
@@ -38370,7 +37831,6 @@
         "interp",
         "dbplyr",
         "dplyr",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -38438,7 +37898,6 @@
         "Category",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "ggplot2",
         "httr",
         "RSQLite",
@@ -38596,7 +38055,6 @@
         "HDF5Array",
         "beachmat",
         "scuttle",
-        "survival",
         "XVector",
         "tidyr",
         "classInt",
@@ -38735,7 +38193,6 @@
         "pillar",
         "XVector",
         "GenomeInfoDb",
-        "survival",
         "prodlim",
         "lava",
         "future.apply"
@@ -38811,7 +38268,6 @@
         "clock",
         "hardhat",
         "ipred",
-        "survival",
         "prodlim",
         "lava",
         "future.apply"
@@ -38857,7 +38313,6 @@
         "blob"
     ],
     "survcomp": [
-        "survival",
         "prodlim",
         "ipred",
         "lava",
@@ -38866,7 +38321,6 @@
     "survtype": [
         "SummarizedExperiment",
         "pheatmap",
-        "survival",
         "survminer",
         "clustvarsel",
         "BMA",
@@ -38907,7 +38361,6 @@
         "BiocParallel",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -39035,7 +38488,6 @@
         "vsn",
         "mzID",
         "ggplot2",
-        "survival",
         "hms",
         "tibble",
         "vroom",
@@ -39095,7 +38547,6 @@
         "cellranger",
         "ids",
         "rematch2",
-        "survival",
         "TH.data",
         "vroom",
         "progress",
@@ -39299,7 +38750,6 @@
         "Biostrings",
         "DelayedArray",
         "nloptr",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -39383,7 +38833,6 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -39402,7 +38851,6 @@
         "SummarizedExperiment",
         "mgcv",
         "tibble",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -39442,7 +38890,6 @@
         "annotate",
         "AnnotationDbi",
         "XVector",
-        "survival",
         "httr",
         "dplyr",
         "genefilter",
@@ -39554,7 +39001,6 @@
         "rtracklayer",
         "DelayedArray",
         "mgcv",
-        "survival",
         "KEGGgraph",
         "org.Hs.eg.db",
         "KEGGREST",
@@ -40026,7 +39472,6 @@
         "genefilter",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "ggplot2",
         "httr",
         "RSQLite",
@@ -40138,7 +39583,6 @@
         "R.filesets",
         "aroma.apd",
         "Hmisc",
-        "survival",
         "GO.db",
         "AnnotationDbi",
         "RSQLite",
@@ -40253,7 +39697,6 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "survival",
         "prodlim",
         "hms",
         "vroom",
@@ -40275,7 +39718,6 @@
         "GGally",
         "ggplot2",
         "ggpubr",
-        "survival",
         "dplyr",
         "forcats",
         "progress",
@@ -40506,7 +39948,6 @@
         "DelayedArray",
         "dbplyr",
         "dplyr",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -40610,7 +40051,6 @@
         "DelayedArray",
         "pillar",
         "dbplyr",
-        "survival",
         "prodlim",
         "interp",
         "hms",
@@ -40665,7 +40105,6 @@
         "XVector",
         "mgcv",
         "tibble",
-        "survival",
         "DelayedArray",
         "httr",
         "Biostrings",
@@ -40700,7 +40139,6 @@
         "BiocParallel",
         "mgcv",
         "tibble",
-        "survival",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -40772,7 +40210,6 @@
         "tidytree",
         "treeio",
         "nloptr",
-        "survival",
         "TH.data",
         "GenomicRanges",
         "DelayedArray",
@@ -40844,7 +40281,6 @@
         "GenomeInfoDb",
         "rtracklayer",
         "Rsamtools",
-        "survival",
         "blob",
         "Hmisc",
         "GO.db",
@@ -40956,7 +40392,6 @@
         "BiocParallel",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "tibble",
         "httr",
         "RSQLite",
@@ -40968,7 +40403,6 @@
         "GenomeInfoDb"
     ],
     "trio": [
-        "survival",
         "siggenes",
         "LogicReg",
         "multtest"
@@ -41127,8 +40561,7 @@
     "TurboNorm": [],
     "tweeDEseq": [
         "cqn",
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "twoddpcr": [
         "ggplot2",
@@ -41357,7 +40790,6 @@
         "blob",
         "pillar",
         "interp",
-        "survival",
         "ggplot2",
         "viridis",
         "hms",
@@ -41653,7 +41085,6 @@
         "pillar",
         "tibble",
         "tidyselect",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -41706,7 +41137,6 @@
         "genefilter",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -41844,8 +41274,7 @@
     "viper": [
         "mixtools",
         "e1071",
-        "segmented",
-        "survival"
+        "segmented"
     ],
     "ViSEAGO": [
         "AnnotationDbi",
@@ -42037,7 +41466,6 @@
         "hms",
         "tibble",
         "vroom",
-        "survival",
         "SummarizedExperiment",
         "Rsamtools",
         "BSgenome",
@@ -42103,7 +41531,6 @@
         "mgcv",
         "BSgenome",
         "segmented",
-        "survival",
         "DelayedArray",
         "ShortRead",
         "dbplyr",
@@ -42165,7 +41592,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
         "Biostrings",
-        "survival",
         "XVector",
         "rtracklayer",
         "biomaRt",
@@ -42209,7 +41635,6 @@
         "biomaRt",
         "mgcv",
         "tibble",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -42240,7 +41665,6 @@
         "AnnotationDbi",
         "XVector",
         "Biostrings",
-        "survival",
         "ggplot2",
         "RSQLite",
         "KEGGREST",
@@ -42354,7 +41778,6 @@
         "MultiAssayExperiment",
         "GenomeInfoDb",
         "XVector",
-        "survival",
         "SummarizedExperiment",
         "tidyr",
         "dplyr",
@@ -42368,7 +41791,6 @@
         "siggenes",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "multtest",
         "httr",
         "RSQLite",
@@ -42492,7 +41914,6 @@
         "forcats",
         "reshape",
         "tidyr",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "blob",
@@ -42538,7 +41959,6 @@
         "GenomicFeatures",
         "blob",
         "annotate",
-        "survival",
         "tidyr",
         "base64",
         "multtest",
@@ -42623,7 +42043,6 @@
         "genefilter",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
@@ -42634,13 +42053,9 @@
         "Biostrings",
         "blob"
     ],
-    "glmnet": [
-        "survival"
-    ],
+    "glmnet": [],
     "ROCR": [],
-    "pamr": [
-        "survival"
-    ],
+    "pamr": [],
     "GO.db": [
         "AnnotationDbi",
         "RSQLite",
@@ -42651,7 +42066,6 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "survival": [],
     "httr": [],
     "RSQLite": [
         "blob"
@@ -42752,7 +42166,6 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -42800,7 +42213,6 @@
         "lme4",
         "pillar",
         "nloptr",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -42827,7 +42239,6 @@
         "nloptr",
         "broom",
         "dplyr",
-        "survival",
         "tibble",
         "tidyr",
         "ggplot2",
@@ -42856,9 +42267,7 @@
         "waldo",
         "rematch2"
     ],
-    "quantreg": [
-        "survival"
-    ],
+    "quantreg": [],
     "lme4": [
         "nloptr",
         "testthat",
@@ -42918,8 +42327,7 @@
     ],
     "xts": [],
     "SAVER": [
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "affydata": [],
     "PFAM.db": [
@@ -42933,7 +42341,6 @@
         "GenomeInfoDb"
     ],
     "Hmisc": [
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -42979,8 +42386,7 @@
     "e1071": [],
     "smurf": [
         "glmnet",
-        "mgcv",
-        "survival"
+        "mgcv"
     ],
     "emdbook": [
         "bbmle"
@@ -43010,13 +42416,10 @@
     ],
     "textshaping": [],
     "zCompositions": [
-        "NADA",
-        "survival"
+        "NADA"
     ],
     "Rfast": [],
-    "NADA": [
-        "survival"
-    ],
+    "NADA": [],
     "shinydashboard": [
         "shiny",
         "httpuv",
@@ -43156,7 +42559,6 @@
         "tidyr",
         "tidyselect",
         "pillar",
-        "survival",
         "prodlim",
         "lava",
         "future.apply"
@@ -43198,7 +42600,6 @@
         "tidyr",
         "tidyselect",
         "pillar",
-        "survival",
         "prodlim",
         "lava",
         "future.apply"
@@ -43210,19 +42611,16 @@
         "pillar"
     ],
     "ipred": [
-        "survival",
         "prodlim",
         "lava",
         "future.apply"
     ],
     "prodlim": [
-        "survival",
         "lava",
         "future.apply"
     ],
     "lava": [
-        "future.apply",
-        "survival"
+        "future.apply"
     ],
     "rapiclient": [
         "httr"
@@ -43284,7 +42682,6 @@
         "spatstat.geom",
         "tibble",
         "uwot",
-        "survival",
         "mgcv",
         "tidyr",
         "dplyr",
@@ -43315,9 +42712,7 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "fitdistrplus": [
-        "survival"
-    ],
+    "fitdistrplus": [],
     "ggridges": [
         "ggplot2",
         "mgcv",
@@ -43698,9 +43093,7 @@
         "pillar",
         "mgcv"
     ],
-    "msm": [
-        "survival"
-    ],
+    "msm": [],
     "msigdbr": [
         "babelgene",
         "dplyr",
@@ -43918,8 +43311,7 @@
         "GenomeInfoDb"
     ],
     "mixtools": [
-        "segmented",
-        "survival"
+        "segmented"
     ],
     "assertive": [
         "assertive.strings",
@@ -43983,9 +43375,7 @@
         "httpuv",
         "bslib"
     ],
-    "gbm": [
-        "survival"
-    ],
+    "gbm": [],
     "threejs": [],
     "rstan": [
         "StanHeaders",
@@ -44040,8 +43430,7 @@
     ],
     "rstantools": [],
     "MCMCpack": [
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "heatmaply": [
         "plotly",
@@ -44087,8 +43476,7 @@
         "multtest",
         "vegan",
         "XVector",
-        "GenomeInfoDb",
-        "survival"
+        "GenomeInfoDb"
     ],
     "tidytext": [
         "dplyr",
@@ -44100,9 +43488,7 @@
     "detectseparation": [
         "ROI.plugin.lpsolve"
     ],
-    "survey": [
-        "survival"
-    ],
+    "survey": [],
     "ROI.plugin.lpsolve": [],
     "sjmisc": [
         "dplyr",
@@ -44131,7 +43517,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "readr",
         "dplyr",
         "tidyr",
@@ -44198,7 +43583,6 @@
         "progress",
         "httpuv",
         "nloptr",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -44357,7 +43741,6 @@
     "credentials": [],
     "rms": [
         "Hmisc",
-        "survival",
         "ggplot2",
         "quantreg",
         "multcomp",
@@ -44379,12 +43762,9 @@
     "ranger": [],
     "imager": [],
     "multcomp": [
-        "survival",
         "TH.data"
     ],
-    "TH.data": [
-        "survival"
-    ],
+    "TH.data": [],
     "synaptome.db": [
         "synaptome.data",
         "RSQLite",
@@ -44412,7 +43792,6 @@
     "rSpectral": [],
     "WGCNA": [
         "Hmisc",
-        "survival",
         "GO.db",
         "AnnotationDbi",
         "RSQLite",
@@ -44503,16 +43882,14 @@
         "future.apply",
         "quantreg",
         "cvAUC",
-        "ROCR",
-        "survival"
+        "ROCR"
     ],
     "SuperLearner": [
         "cvAUC",
         "ROCR"
     ],
     "np": [
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "cvAUC": [
         "ROCR"
@@ -44559,7 +43936,6 @@
         "BiocFileCache",
         "ggplot2",
         "annotate",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
@@ -44605,9 +43981,7 @@
     ],
     "ggm": [],
     "vcd": [],
-    "gamlss": [
-        "survival"
-    ],
+    "gamlss": [],
     "GenomicState": [
         "AnnotationHub",
         "GenomicFeatures",
@@ -44641,7 +44015,6 @@
         "pillar",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -44721,7 +44094,6 @@
         "pillar"
     ],
     "BMA": [
-        "survival",
         "rrcov"
     ],
     "rrcov": [],
@@ -44744,7 +44116,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "survival",
         "TH.data",
         "nloptr",
         "broom",
@@ -44804,7 +44175,6 @@
         "nloptr",
         "broom",
         "dplyr",
-        "survival",
         "pillar",
         "tidyr",
         "tidyselect",
@@ -44828,8 +44198,7 @@
         "tidyselect",
         "pillar",
         "mgcv",
-        "xts",
-        "survival"
+        "xts"
     ],
     "ggpp": [
         "ggplot2",
@@ -44865,8 +44234,7 @@
     "furrr": [],
     "GenomicTools": [],
     "GenomicTools.fileHandler": [
-        "snpStats",
-        "survival"
+        "snpStats"
     ],
     "quantmod": [
         "xts",
@@ -44897,7 +44265,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "readr",
         "dplyr",
         "tidyr",
@@ -44940,7 +44307,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "readr",
         "dplyr",
         "tidyr",
@@ -44983,7 +44349,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "readr",
         "dplyr",
         "tidyr",
@@ -45068,7 +44433,6 @@
         "tidyr",
         "tidyselect",
         "pillar",
-        "survival",
         "prodlim",
         "lava",
         "future.apply"
@@ -45396,8 +44760,7 @@
     ],
     "eulerr": [],
     "cobs": [
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "phylolm": [
         "future.apply"
@@ -45439,7 +44802,6 @@
         "pillar",
         "broom",
         "nloptr",
-        "survival",
         "testthat",
         "waldo",
         "rematch2"
@@ -45467,7 +44829,6 @@
         "ipred",
         "tidyr",
         "spatstat.sparse",
-        "survival",
         "prodlim",
         "lava",
         "future.apply"
@@ -45500,7 +44861,6 @@
     "contrast": [
         "rms",
         "Hmisc",
-        "survival",
         "ggplot2",
         "quantreg",
         "multcomp",
@@ -45557,8 +44917,7 @@
         "tidyselect"
     ],
     "iC10": [
-        "pamr",
-        "survival"
+        "pamr"
     ],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "minfi",
@@ -45580,7 +44939,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "readr",
         "dplyr",
         "tidyr",
@@ -45635,8 +44993,7 @@
         "pillar",
         "mixtools",
         "e1071",
-        "segmented",
-        "survival"
+        "segmented"
     ],
     "crisprScoreData": [
         "ExperimentHub",
@@ -45808,24 +45165,20 @@
         "multtest",
         "multcomp",
         "sn",
-        "survival",
         "TH.data",
         "quantreg"
     ],
     "TFisher": [
         "sn",
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "mutoss": [
         "multtest",
         "multcomp",
-        "survival",
         "TH.data"
     ],
     "sn": [
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "DMwR2": [
         "xts",
@@ -45935,7 +45288,6 @@
         "nloptr",
         "broom",
         "dplyr",
-        "survival",
         "tibble",
         "tidyr",
         "ggplot2",
@@ -45957,8 +45309,7 @@
     "bnstruct": [],
     "phangorn": [],
     "DiffCorr": [
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "MetaCycle": [],
     "fastDummies": [
@@ -46012,7 +45363,6 @@
         "bslib"
     ],
     "coin": [
-        "survival",
         "multcomp",
         "TH.data"
     ],
@@ -46056,7 +45406,6 @@
         "ggplot2",
         "mgcv",
         "tibble",
-        "survival",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -46187,7 +45536,6 @@
         "RSQLite",
         "e1071",
         "ipred",
-        "survival",
         "prodlim",
         "blob",
         "lava",
@@ -46202,7 +45550,6 @@
         "nloptr",
         "broom",
         "dplyr",
-        "survival",
         "tibble",
         "tidyr",
         "ggplot2",
@@ -46233,7 +45580,6 @@
     "survminer": [
         "ggplot2",
         "ggpubr",
-        "survival",
         "broom",
         "dplyr",
         "tidyr",
@@ -46259,16 +45605,13 @@
         "rematch2"
     ],
     "survMisc": [
-        "survival",
         "ggplot2",
         "km.ci",
         "mgcv",
         "tibble",
         "pillar"
     ],
-    "km.ci": [
-        "survival"
-    ],
+    "km.ci": [],
     "logistf": [
         "mice",
         "mgcv",
@@ -46361,7 +45704,6 @@
         "vcd",
         "shiny",
         "Hmisc",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -46385,7 +45727,6 @@
         "mgcv"
     ],
     "epiR": [
-        "survival",
         "sf",
         "flextable",
         "rmarkdown",
@@ -46404,9 +45745,7 @@
         "e1071"
     ],
     "s2": [],
-    "penalized": [
-        "survival"
-    ],
+    "penalized": [],
     "fGarch": [
         "cvar"
     ],
@@ -46608,9 +45947,7 @@
     "scam": [
         "mgcv"
     ],
-    "LogicReg": [
-        "survival"
-    ],
+    "LogicReg": [],
     "reldist": [
         "mgcv",
         "densEstBayes",
@@ -46647,7 +45984,6 @@
         "tidyr",
         "tidyselect",
         "pillar",
-        "survival",
         "prodlim",
         "lava",
         "future.apply"
@@ -46822,7 +46158,6 @@
         "BiocParallel",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "ggplot2",
         "httr",
         "RSQLite",
@@ -46916,7 +46251,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "annotate",
-        "survival",
         "readr",
         "dplyr",
         "tidyr",
@@ -47053,16 +46387,12 @@
     "InvariantCausalPrediction": [
         "glmnet",
         "mboost",
-        "survival",
         "partykit"
     ],
     "mboost": [
-        "survival",
         "partykit"
     ],
-    "partykit": [
-        "survival"
-    ],
+    "partykit": [],
     "miRBaseVersions.db": [
         "AnnotationDbi",
         "RSQLite",
@@ -47151,7 +46481,6 @@
         "clock",
         "hardhat",
         "ipred",
-        "survival",
         "prodlim",
         "testthat",
         "lava",
@@ -47165,9 +46494,7 @@
         "tibble",
         "pillar"
     ],
-    "tnet": [
-        "survival"
-    ],
+    "tnet": [],
     "groupdata2": [
         "dplyr",
         "rearrr",
@@ -47285,12 +46612,10 @@
     "huge": [],
     "ICSNP": [
         "ICS",
-        "survey",
-        "survival"
+        "survey"
     ],
     "ICS": [
-        "survey",
-        "survival"
+        "survey"
     ],
     "dnet": [
         "supraHex",
@@ -47320,7 +46645,6 @@
         "readr",
         "tibble",
         "tidyselect",
-        "survival",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -47451,7 +46775,6 @@
     "ontologyPlot": [],
     "distrEx": [],
     "AICcmodavg": [
-        "survival",
         "unmarked",
         "lme4",
         "TMB",
@@ -47501,9 +46824,7 @@
         "dbplyr",
         "blob"
     ],
-    "mRMRe": [
-        "survival"
-    ],
+    "mRMRe": [],
     "kmer": [
         "phylogram"
     ],
@@ -47581,8 +46902,7 @@
     ],
     "C50": [
         "partykit",
-        "Cubist",
-        "survival"
+        "Cubist"
     ],
     "Cubist": [],
     "tidybayes": [
@@ -47895,7 +47215,6 @@
         "tidyr",
         "tidyselect",
         "pillar",
-        "survival",
         "prodlim",
         "lava",
         "future.apply"
@@ -48104,7 +47423,6 @@
         "paradox"
     ],
     "survivalAnalysis": [
-        "survival",
         "dplyr",
         "forcats",
         "tibble",
@@ -48226,7 +47544,6 @@
         "spatstat.explore",
         "spatstat.geom",
         "uwot",
-        "survival",
         "tidyr",
         "dplyr",
         "httpuv",
@@ -48358,8 +47675,7 @@
         "GenomeInfoDb"
     ],
     "bamlss": [
-        "mgcv",
-        "survival"
+        "mgcv"
     ],
     "dml": [
         "lfda",
@@ -48380,7 +47696,6 @@
         "ggforce",
         "labelled",
         "mgcv",
-        "survival",
         "dplyr",
         "tidyr",
         "tweenr",
@@ -48446,7 +47761,6 @@
     "slider": [],
     "clustvarsel": [
         "BMA",
-        "survival",
         "rrcov"
     ],
     "gstat": [
@@ -48547,7 +47861,6 @@
         "ipred",
         "tidyr",
         "mgcv",
-        "survival",
         "prodlim",
         "lava",
         "future.apply"
