@@ -1616,7 +1616,6 @@
         "broom",
         "DESeq2"
     ],
-    "DEGseq": [],
     "deltaCaptureC": [
         "DESeq2"
     ],
