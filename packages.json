@@ -322,7 +322,6 @@
     "ChIPQC": [
         "DiffBind",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "TxDb.Rnorvegicus.UCSC.rn4.ensGene",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene"
@@ -733,7 +732,6 @@
         "Homo.sapiens",
         "Gviz",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
@@ -1851,7 +1849,6 @@
     "ppcseq": [],
     "preciseTAD": [
         "rCGH",
-        "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene"
     ],
@@ -1964,7 +1961,6 @@
     ],
     "RCAS": [],
     "rCGH": [
-        "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene"
     ],
@@ -2720,7 +2716,6 @@
     ],
     "geneLenDataBase": [],
     "spp": [],
-    "TxDb.Hsapiens.UCSC.hg18.knownGene": [],
     "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [],
     "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [],
     "propr": [],
