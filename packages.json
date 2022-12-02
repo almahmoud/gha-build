@@ -4342,7 +4342,6 @@
     "combi": [
         "ggplot2",
         "phyloseq",
-        "cobs",
         "SummarizedExperiment",
         "tibble",
         "GenomicRanges"
@@ -7758,7 +7757,6 @@
         "prodlim",
         "GenomicRanges",
         "qvalue",
-        "cobs",
         "BSgenome",
         "fgsea",
         "rtracklayer",
@@ -27320,7 +27318,6 @@
         "dplyr",
         "tibble"
     ],
-    "cobs": [],
     "phylolm": [],
     "rio": [
         "haven",
