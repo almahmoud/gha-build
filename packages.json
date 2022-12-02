@@ -123,7 +123,6 @@
     ],
     "airpart": [
         "scater",
-        "apeglm",
         "scuttle",
         "ggrastr"
     ],
@@ -284,7 +283,6 @@
     "apComplex": [
         "org.Sc.sgd.db"
     ],
-    "apeglm": [],
     "APL": [
         "plotly",
         "Seurat",
@@ -1741,7 +1739,6 @@
         "ShortRead",
         "systemPipeR",
         "DESeq2",
-        "apeglm",
         "GreyListChIP",
         "rtracklayer",
         "biomaRt",
@@ -2815,7 +2812,6 @@
         "plotly",
         "heatmaply",
         "pathview",
-        "apeglm",
         "GO.db",
         "GOSemSim",
         "gson",
@@ -3060,7 +3056,6 @@
         "GenomicAlignments",
         "systemPipeR",
         "DESeq2",
-        "apeglm",
         "GreyListChIP",
         "geneplotter",
         "BSgenome",
@@ -12135,7 +12130,6 @@
         "GenKern"
     ],
     "TEKRABber": [
-        "apeglm",
         "biomaRt",
         "DESeq2",
         "BiocFileCache",
@@ -12818,7 +12812,6 @@
         "rtracklayer",
         "geneplotter",
         "systemPipeR",
-        "apeglm",
         "GreyListChIP",
         "BiocFileCache",
         "annotate",
