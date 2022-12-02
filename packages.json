@@ -3205,7 +3205,6 @@
         "tibble",
         "vegan",
         "ggdendro",
-        "ggm",
         "RSQLite",
         "KEGGREST",
         "pillar",
@@ -7916,7 +7915,6 @@
         "TFisher",
         "mutoss",
         "Linnorm",
-        "ggm",
         "tidyr",
         "broom",
         "dbplyr",
@@ -10459,7 +10457,6 @@
         "mnem",
         "Linnorm",
         "ggplot2",
-        "ggm",
         "tibble",
         "vegan",
         "ggdendro",
@@ -19627,7 +19624,6 @@
         "htmlTable",
         "viridis",
         "mboost",
-        "ggm",
         "GenomicRanges",
         "DelayedArray",
         "biomaRt",
@@ -21870,7 +21866,6 @@
         "tibble",
         "vegan",
         "ggdendro",
-        "ggm",
         "pillar"
     ],
     "NetActivity": [
@@ -21970,7 +21965,6 @@
     ],
     "nethet": [
         "huge",
-        "ggm",
         "multtest",
         "ICSNP",
         "glmnet",
@@ -37583,10 +37577,7 @@
         "XVector"
     ],
     "randomcoloR": [],
-    "pcalg": [
-        "ggm"
-    ],
-    "ggm": [],
+    "pcalg": [],
     "gamlss": [],
     "GenomicState": [
         "AnnotationHub",
