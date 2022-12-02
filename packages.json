@@ -3938,7 +3938,6 @@
         "cachem"
     ],
     "BAGS": [
-        "breastCancerVDX",
         "Biobase"
     ],
     "ballgown": [
@@ -87373,7 +87372,6 @@
         "diffobj",
         "rematch2"
     ],
-    "breastCancerVDX": [],
     "xgboost": [
         "Matrix"
     ],
