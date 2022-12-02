@@ -348,16 +348,12 @@
         "VIM"
     ],
     "MSstatsLiP": [
-        "MSstatsPTM",
         "factoextra",
         "ggpubr",
         "FactoMineR",
         "rstatix"
     ],
-    "MSstatsPTM": [],
-    "MSstatsShiny": [
-        "MSstatsPTM"
-    ],
+    "MSstatsShiny": [],
     "multicrispr": [],
     "multiSight": [],
     "muscat": [],
