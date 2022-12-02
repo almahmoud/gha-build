@@ -4872,7 +4872,6 @@
         "qvalue",
         "ggplot2"
     ],
-    "DelayedTensor": [],
     "deltaCaptureC": [
         "SummarizedExperiment",
         "ggplot2",
