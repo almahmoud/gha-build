@@ -496,8 +496,7 @@
         "cBioPortalData",
         "RTCGAToolbox",
         "TCGAutils",
-        "GenomicFeatures",
-        "GenomicDataCommons"
+        "GenomicFeatures"
     ],
     "CBEA": [
         "TreeSummarizedExperiment",
@@ -506,8 +505,7 @@
     "cBioPortalData": [
         "RTCGAToolbox",
         "TCGAutils",
-        "GenomicFeatures",
-        "GenomicDataCommons"
+        "GenomicFeatures"
     ],
     "CCPROMISE": [],
     "celda": [
@@ -1682,7 +1680,6 @@
         "clusterProfiler",
         "DOSE",
         "survminer",
-        "GenomicDataCommons",
         "enrichplot",
         "ggpubr",
         "ggraph",
@@ -1736,7 +1733,6 @@
     ],
     "genomation": [],
     "genomes": [],
-    "GenomicDataCommons": [],
     "GenomicDistributions": [],
     "GenomicFeatures": [],
     "GenomicFiles": [
@@ -2257,8 +2253,7 @@
         "RTCGAToolbox",
         "TCGAutils",
         "TFBSTools",
-        "GenomicFeatures",
-        "GenomicDataCommons"
+        "GenomicFeatures"
     ],
     "LRcell": [
         "ExperimentHub"
@@ -3883,8 +3878,7 @@
     ],
     "RTCGAToolbox": [
         "TCGAutils",
-        "GenomicFeatures",
-        "GenomicDataCommons"
+        "GenomicFeatures"
     ],
     "RTN": [
         "car",
@@ -4493,8 +4487,7 @@
         "nloptr"
     ],
     "TCGAutils": [
-        "GenomicFeatures",
-        "GenomicDataCommons"
+        "GenomicFeatures"
     ],
     "TDARACNE": [
         "GenKern"
@@ -4509,8 +4502,7 @@
     ],
     "terraTCGAdata": [
         "TCGAutils",
-        "GenomicFeatures",
-        "GenomicDataCommons"
+        "GenomicFeatures"
     ],
     "TFBSTools": [],
     "TFEA.ChIP": [
