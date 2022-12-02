@@ -55251,7 +55251,6 @@
         "BiBitR",
         "rqubic",
         "Biobase",
-        "PMA",
         "dbscan",
         "subspace",
         "SOMbrero",
@@ -63718,7 +63717,6 @@
         "sva",
         "ggplot2",
         "ggrepel",
-        "PMA",
         "omicade4",
         "gridExtra",
         "MultiDataSet",
@@ -114127,7 +114125,6 @@
         "nlme",
         "Matrix"
     ],
-    "PMA": [],
     "subspace": [
         "ggvis",
         "stringr",
