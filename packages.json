@@ -14516,7 +14516,6 @@
         "blob",
         "Biostrings"
     ],
-    "Herper": [],
     "HGC": [
         "dendextend",
         "ggplot2",
