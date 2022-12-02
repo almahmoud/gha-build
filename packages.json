@@ -13384,7 +13384,6 @@
         "futile.logger",
         "lambda.r"
     ],
-    "CNAnorm": [],
     "CNEr": [
         "Biostrings",
         "RSQLite",
