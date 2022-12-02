@@ -17314,7 +17314,6 @@
     "SIAMCAT": [
         "phyloseq",
         "lmerTest",
-        "mlr3learners",
         "lme4",
         "ggplot2",
         "nloptr",
@@ -22686,7 +22685,6 @@
     "gistr": [
         "dplyr"
     ],
-    "mlr3learners": [],
     "survivalAnalysis": [
         "dplyr",
         "forcats",
