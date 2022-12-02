@@ -641,7 +641,6 @@
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene"
     ],
     "consensusOV": [],
-    "consICA": [],
     "contiBAIT": [
         "GenomicFiles",
         "VariantAnnotation",
