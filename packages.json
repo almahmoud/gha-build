@@ -99488,7 +99488,6 @@
         "MASS",
         "mgcv",
         "withr",
-        "yaImpute",
         "evaluate",
         "highr",
         "stringr",
@@ -168108,10 +168107,7 @@
         "magrittr",
         "stringi"
     ],
-    "intrinsicDimension": [
-        "yaImpute"
-    ],
-    "yaImpute": [],
+    "intrinsicDimension": [],
     "strawr": [
         "Rcpp"
     ],
