@@ -959,9 +959,7 @@
         "minfi"
     ],
     "minfi": [],
-    "MinimumDistance": [
-        "VanillaICE"
-    ],
+    "MinimumDistance": [],
     "miRSM": [
         "miRspongeR",
         "SPONGE",
@@ -1670,7 +1668,6 @@
         "ttgsea",
         "textstem"
     ],
-    "VanillaICE": [],
     "variancePartition": [
         "pbkrtest",
         "lmerTest"
