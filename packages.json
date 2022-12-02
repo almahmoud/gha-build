@@ -19072,7 +19072,6 @@
         "prettydoc",
         "ggplot2",
         "SummarizedExperiment",
-        "longitudinalData",
         "kml"
     ],
     "ttgsea": [
@@ -22202,13 +22201,9 @@
         "SummarizedExperiment"
     ],
     "kmlShape": [
-        "longitudinalData",
         "kml"
     ],
-    "longitudinalData": [],
-    "kml": [
-        "longitudinalData"
-    ],
+    "kml": [],
     "mirbase.db": [
         "AnnotationDbi"
     ],
