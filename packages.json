@@ -3166,7 +3166,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "rTRMui": [],
     "RUVSeq": [
         "EDASeq",
         "GenomicFeatures"
