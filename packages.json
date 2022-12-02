@@ -26906,7 +26906,6 @@
         "GenomicRanges"
     ],
     "SCFA": [
-        "torch",
         "glmnet"
     ],
     "scFeatureFilter": [
@@ -37278,7 +37277,6 @@
         "DT",
         "bslib"
     ],
-    "torch": [],
     "origami": [],
     "Rmagic": [],
     "ggvenn": [
