@@ -1968,7 +1968,6 @@
         "ggtree",
         "treeio"
     ],
-    "Metab": [],
     "metabCombiner": [],
     "MetaboAnnotation": [
         "QFeatures"
