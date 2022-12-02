@@ -173,7 +173,6 @@
         "VariantAnnotation",
         "GenomicFeatures"
     ],
-    "beer": [],
     "benchdamic": [
         "TreeSummarizedExperiment",
         "Seurat",
