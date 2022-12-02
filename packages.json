@@ -31741,7 +31741,6 @@
         "webshot",
         "svglite",
         "DelayedArray",
-        "qpdf",
         "xts",
         "htmlwidgets",
         "bslib",
@@ -56329,10 +56328,7 @@
         "vctrs",
         "pillar"
     ],
-    "pdftools": [
-        "qpdf"
-    ],
-    "qpdf": [],
+    "pdftools": [],
     "flatxml": [
         "httr",
         "openssl"
