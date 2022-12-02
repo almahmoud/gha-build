@@ -49099,7 +49099,6 @@
     ],
     "phantasus": [
         "ggplot2",
-        "protolite",
         "Biobase",
         "GEOquery",
         "Rook",
@@ -83398,13 +83397,11 @@
         "Matrix",
         "igraph"
     ],
-    "protolite": [],
     "Rook": [],
     "opencpu": [
         "httpuv",
         "knitr",
         "webutils",
-        "protolite",
         "openssl",
         "promises",
         "highr"
