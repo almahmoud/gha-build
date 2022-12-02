@@ -19867,8 +19867,7 @@
     ],
     "scPCA": [
         "tibble",
-        "dplyr",
-        "origami"
+        "dplyr"
     ],
     "scPipe": [
         "ggplot2",
@@ -27027,7 +27026,6 @@
         "tibble",
         "shiny"
     ],
-    "origami": [],
     "Rmagic": [],
     "ggvenn": [
         "dplyr",
