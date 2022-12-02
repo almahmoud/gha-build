@@ -2499,7 +2499,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "NPARC": [],
     "NxtIRFcore": [
         "NxtIRFdata"
     ],
