@@ -6582,7 +6582,6 @@
         "biomaRt"
     ],
     "velociraptor": [],
-    "VennDetail": [],
     "vidger": [
         "DESeq2",
         "GGally"
