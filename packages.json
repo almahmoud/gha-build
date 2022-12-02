@@ -1411,7 +1411,6 @@
         "ewceData",
         "orthogene",
         "ExperimentHub",
-        "homologene",
         "gprofiler2",
         "ggpubr",
         "ggtree",
@@ -3076,7 +3075,6 @@
         "GenomicFeatures"
     ],
     "orthogene": [
-        "homologene",
         "gprofiler2",
         "ggpubr",
         "ggtree",
@@ -4899,7 +4897,6 @@
     "ewceData": [
         "ExperimentHub"
     ],
-    "homologene": [],
     "gprofiler2": [],
     "gap": [],
     "geepack": [],
