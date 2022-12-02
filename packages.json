@@ -9167,9 +9167,7 @@
     "TSCAN": [
         "TrajectoryUtils"
     ],
-    "tscR": [
-        "kmlShape"
-    ],
+    "tscR": [],
     "ttgsea": [
         "keras",
         "textstem",
@@ -10504,7 +10502,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "kmlShape": [],
     "msigdb": [
         "ExperimentHub",
         "GSEABase",
