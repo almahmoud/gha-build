@@ -428,9 +428,7 @@
         "DESeq2",
         "biomaRt"
     ],
-    "BLMA": [
-        "PADOG"
-    ],
+    "BLMA": [],
     "BloodGen3Module": [
         "ExperimentHub"
     ],
@@ -1472,9 +1470,7 @@
     "EGAD": [
         "GEOquery"
     ],
-    "EGSEA": [
-        "PADOG"
-    ],
+    "EGSEA": [],
     "ELMER": [
         "GenomicFeatures",
         "TCGAbiolinks",
@@ -3643,7 +3639,6 @@
         "lme4",
         "nloptr"
     ],
-    "PADOG": [],
     "pageRank": [
         "motifmatchr",
         "TFBSTools",
