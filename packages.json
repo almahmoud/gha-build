@@ -13812,7 +13812,6 @@
         "zlibbioc"
     ],
     "CCPROMISE": [
-        "CCP",
         "PROMISE",
         "Biobase",
         "GSEABase",
@@ -127537,7 +127536,6 @@
     ],
     "Rmpi": [],
     "ccdata": [],
-    "CCP": [],
     "enrichR": [
         "httr",
         "rjson",
