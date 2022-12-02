@@ -152,7 +152,6 @@
     "frenchFISH": [
         "NHPoisson"
     ],
-    "funtooNorm": [],
     "FuseSOM": [
         "ggpubr",
         "rstatix"
