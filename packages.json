@@ -12185,7 +12185,6 @@
         "shinyalert",
         "tibble",
         "visNetwork",
-        "wordcloud2",
         "readxl",
         "biomaRt",
         "AnnotationDbi",
@@ -30321,7 +30320,6 @@
     "shinyalert": [
         "shiny"
     ],
-    "wordcloud2": [],
     "AdaptGauss": [
         "shiny",
         "DataVisualizations",
