@@ -50035,7 +50035,6 @@
         "ggrepel",
         "psych",
         "readxl",
-        "Rcapture",
         "forcats",
         "shiny",
         "shinyWidgets",
@@ -125919,7 +125918,6 @@
         "stringi",
         "pillar"
     ],
-    "Rcapture": [],
     "datamods": [
         "htmltools",
         "htmlwidgets",
