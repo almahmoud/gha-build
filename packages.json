@@ -901,7 +901,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "metaseqR2": [],
     "metavizr": [
         "epivizr",
         "epivizrStandalone"
