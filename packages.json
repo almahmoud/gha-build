@@ -1579,7 +1579,6 @@
         "rtracklayer",
         "shinydashboardPlus",
         "plotly",
-        "kableExtra",
         "batchelor",
         "gggenes",
         "scran",
@@ -2716,7 +2715,6 @@
     "DiscoRhythm": [
         "ggExtra",
         "broom",
-        "kableExtra",
         "UpSetR",
         "heatmaply",
         "plotly",
@@ -3388,7 +3386,6 @@
     "esetVis": [],
     "evaluomeR": [
         "MultiAssayExperiment",
-        "kableExtra",
         "tidyr"
     ],
     "EventPointer": [
@@ -4693,8 +4690,7 @@
     ],
     "HumanTranscriptomeCompendium": [],
     "hypeR": [
-        "msigdbr",
-        "kableExtra"
+        "msigdbr"
     ],
     "iasva": [],
     "iBBiG": [
@@ -4889,9 +4885,7 @@
         "BiocFileCache"
     ],
     "InteractionSet": [],
-    "InteractiveComplexHeatmap": [
-        "kableExtra"
-    ],
+    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category",
         "GSEABase",
@@ -6121,7 +6115,6 @@
         "MultiAssayExperiment",
         "broom",
         "HardyWeinberg",
-        "kableExtra",
         "tidyr",
         "mice"
     ],
@@ -7249,7 +7242,6 @@
         "OMICsPCAdata",
         "HelloRanges",
         "MultiAssayExperiment",
-        "kableExtra",
         "rtracklayer",
         "factoextra",
         "FactoMineR",
@@ -8070,7 +8062,6 @@
         "genefilter",
         "readr",
         "plotly",
-        "kableExtra",
         "GGally",
         "factoextra",
         "FactoMineR",
@@ -9293,9 +9284,7 @@
         "tidyr"
     ],
     "scHOT": [],
-    "scifer": [
-        "kableExtra"
-    ],
+    "scifer": [],
     "scMAGeCK": [
         "Seurat",
         "patchwork",
@@ -11804,7 +11793,6 @@
         "BiocFileCache"
     ],
     "shinydashboardPlus": [],
-    "kableExtra": [],
     "gggenes": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
