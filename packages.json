@@ -96238,7 +96238,6 @@
         "askpass",
         "utf8"
     ],
-    "proteinProfiles": [],
     "ProteoDisco": [
         "BiocGenerics",
         "BiocParallel",
