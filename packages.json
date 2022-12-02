@@ -7564,7 +7564,6 @@
         "testthat",
         "waldo"
     ],
-    "NormqPCR": [],
     "normr": [
         "qvalue",
         "rtracklayer"
