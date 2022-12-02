@@ -6041,7 +6041,6 @@
         "RCurl",
         "GenomeInfoDbData"
     ],
-    "BHC": [],
     "BicARE": [
         "Biobase",
         "multtest",
