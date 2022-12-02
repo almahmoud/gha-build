@@ -1760,7 +1760,6 @@
         "scater",
         "scran",
         "SummarizedExperiment",
-        "DirichletReg",
         "ggplot2",
         "BiocFileCache",
         "BiocSingular",
@@ -34023,7 +34022,6 @@
         "tibble",
         "pillar"
     ],
-    "DirichletReg": [],
     "corncob": [
         "ggplot2",
         "dplyr",
