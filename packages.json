@@ -7700,7 +7700,6 @@
         "ggplot2",
         "ggrepel",
         "gggenes",
-        "qs",
         "DT",
         "scran",
         "scater",
@@ -10881,7 +10880,6 @@
         "ggrepel",
         "highcharter",
         "httr",
-        "qs",
         "R.utils",
         "readxl",
         "reshape2",
@@ -56703,7 +56701,6 @@
         "vctrs",
         "pillar"
     ],
-    "qs": [],
     "ggfittext": [
         "ggplot2",
         "mgcv",
