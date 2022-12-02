@@ -17716,7 +17716,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
-    "scShapes": [],
     "scTensor": [
         "plotly",
         "reactome.db",
