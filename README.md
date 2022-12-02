@@ -1,10 +1,10 @@
 # Summary
 
-3696 built packages
+3702 built packages
 
 22 failed packages
 
-90 unclaimed packages
+84 unclaimed packages
 
 
 
@@ -34,7 +34,7 @@
 | [GenKern](https://github.com/almahmoud/gha-build/actions/runs/3598001925/jobs/6060350141)         | Failed   | https://github.com/almahmoud/gha-build/blob/main/lists/failed/GenKern         |
 | [vbsr](https://github.com/almahmoud/gha-build/actions/runs/3598114344/jobs/6060686399)            | Failed   | https://github.com/almahmoud/gha-build/blob/main/lists/failed/vbsr            |
 
-## Succeeded (3696)
+## Succeeded (3702)
 | Package                                                                                                                         | Status    | Tarball                                                                                                                                                                                                                                |
 |---------------------------------------------------------------------------------------------------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [a4](https://github.com/almahmoud/gha-build/actions/runs/3599026062/jobs/6062385390)                                            | Succeeded | [a4_1.46.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/a4_1.46.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                     |
@@ -70,6 +70,7 @@
 | [AGDEX](https://github.com/almahmoud/gha-build/actions/runs/3598878560/jobs/6062114558)                                         | Succeeded | [AGDEX_1.46.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/AGDEX_1.46.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
 | [aggregateBioVar](https://github.com/almahmoud/gha-build/actions/runs/3598736707/jobs/6061867621)                               | Succeeded | [aggregateBioVar_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/aggregateBioVar_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                                             |
 | [agilp](https://github.com/almahmoud/gha-build/actions/runs/3598172140/jobs/6060742526)                                         | Succeeded | [agilp_3.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/agilp_3.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
+| [AgiMicroRna](https://github.com/almahmoud/gha-build/actions/runs/3599484824/jobs/6063167573)                                   | Succeeded | [AgiMicroRna_2.48.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/AgiMicroRna_2.48.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
 | [AIMS](https://github.com/almahmoud/gha-build/actions/runs/3598528389/jobs/6061380509)                                          | Succeeded | [AIMS_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/AIMS_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                 |
 | [airpart](https://github.com/almahmoud/gha-build/actions/runs/3598959165/jobs/6062251418)                                       | Succeeded | [airpart_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/airpart_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                             |
 | [ALDEx2](https://github.com/almahmoud/gha-build/actions/runs/3598699347/jobs/6061694759)                                        | Succeeded | [ALDEx2_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/ALDEx2_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                             |
@@ -625,6 +626,7 @@
 | [ensembldb](https://github.com/almahmoud/gha-build/actions/runs/3599070913/jobs/6062473850)                                     | Succeeded | [ensembldb_2.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/ensembldb_2.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | [epialleleR](https://github.com/almahmoud/gha-build/actions/runs/3599223673/jobs/6062752715)                                    | Succeeded | [epialleleR_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/epialleleR_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | [EpiCompare](https://github.com/almahmoud/gha-build/actions/runs/3599349795/jobs/6062965289)                                    | Succeeded | [EpiCompare_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/EpiCompare_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
+| [epidecodeR](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063175225)                                    | Succeeded | [epidecodeR_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/epidecodeR_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | [EpiDISH](https://github.com/almahmoud/gha-build/actions/runs/3598521535/jobs/6061377150)                                       | Succeeded | [EpiDISH_2.14.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/EpiDISH_2.14.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | [epigenomix](https://github.com/almahmoud/gha-build/actions/runs/3598736707/jobs/6061869586)                                    | Succeeded | [epigenomix_1.38.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/epigenomix_1.38.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                     |
 | [EpiMix](https://github.com/almahmoud/gha-build/actions/runs/3599180591/jobs/6062660249)                                        | Succeeded | [EpiMix_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/EpiMix_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
@@ -706,6 +708,7 @@
 | [flowPeaks](https://github.com/almahmoud/gha-build/actions/runs/3598034728/jobs/6060564800)                                     | Succeeded | [flowPeaks_1.44.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/flowPeaks_1.44.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | [flowPloidy](https://github.com/almahmoud/gha-build/actions/runs/3599381277/jobs/6063059999)                                    | Succeeded | [flowPloidy_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/flowPloidy_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                     |
 | [flowPlots](https://github.com/almahmoud/gha-build/actions/runs/3598034728/jobs/6060564479)                                     | Succeeded | [flowPlots_1.46.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/flowPlots_1.46.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
+| [FlowSOM](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063174597)                                       | Succeeded | [FlowSOM_2.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/FlowSOM_2.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                             |
 | [flowSpecs](https://github.com/almahmoud/gha-build/actions/runs/3598702431/jobs/6061734836)                                     | Succeeded | [flowSpecs_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/flowSpecs_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | [flowStats](https://github.com/almahmoud/gha-build/actions/runs/3599180591/jobs/6062658997)                                     | Succeeded | [flowStats_4.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/flowStats_4.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | [flowTime](https://github.com/almahmoud/gha-build/actions/runs/3598658514/jobs/6061690725)                                      | Succeeded | [flowTime_1.22.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/flowTime_1.22.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
@@ -1316,6 +1319,7 @@
 | [netresponse](https://github.com/almahmoud/gha-build/actions/runs/3598801474/jobs/6061956648)                                   | Succeeded | [netresponse_1.58.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/netresponse_1.58.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
 | [NetSAM](https://github.com/almahmoud/gha-build/actions/runs/3598997491/jobs/6062253581)                                        | Succeeded | [NetSAM_1.38.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/NetSAM_1.38.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                             |
 | [netSmooth](https://github.com/almahmoud/gha-build/actions/runs/3599180591/jobs/6062657080)                                     | Succeeded | [netSmooth_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/netSmooth_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
+| [netZooR](https://github.com/almahmoud/gha-build/actions/runs/3599470719/jobs/6063142627)                                       | Succeeded | [netZooR_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/netZooR_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                             |
 | [NeuCA](https://github.com/almahmoud/gha-build/actions/runs/3598997491/jobs/6062254250)                                         | Succeeded | [NeuCA_1.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/NeuCA_1.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                 |
 | [NewWave](https://github.com/almahmoud/gha-build/actions/runs/3598790947/jobs/6061886919)                                       | Succeeded | [NewWave_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/NewWave_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                             |
 | [ngsReports](https://github.com/almahmoud/gha-build/actions/runs/3598999371/jobs/6062307432)                                    | Succeeded | [ngsReports_2.0.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/ngsReports_2.0.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
@@ -1325,6 +1329,7 @@
 | [nondetects](https://github.com/almahmoud/gha-build/actions/runs/3599283544/jobs/6062850782)                                    | Succeeded | [nondetects_2.28.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/nondetects_2.28.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                     |
 | [NoRCE](https://github.com/almahmoud/gha-build/actions/runs/3599070913/jobs/6062473646)                                         | Succeeded | [NoRCE_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/NoRCE_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
 | [normalize450K](https://github.com/almahmoud/gha-build/actions/runs/3598565544/jobs/6061505910)                                 | Succeeded | [normalize450K_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/normalize450K_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                                                               |
+| [NormalyzerDE](https://github.com/almahmoud/gha-build/actions/runs/3599461445/jobs/6063138370)                                  | Succeeded | [NormalyzerDE_1.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/NormalyzerDE_1.16.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                 |
 | [NormqPCR](https://github.com/almahmoud/gha-build/actions/runs/3598699347/jobs/6061694659)                                      | Succeeded | [NormqPCR_1.44.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/NormqPCR_1.44.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
 | [normr](https://github.com/almahmoud/gha-build/actions/runs/3598878560/jobs/6062115140)                                         | Succeeded | [normr_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/normr_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
 | [NPARC](https://github.com/almahmoud/gha-build/actions/runs/3598997491/jobs/6062254481)                                         | Succeeded | [NPARC_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/NPARC_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
@@ -1382,6 +1387,7 @@
 | [OVESEG](https://github.com/almahmoud/gha-build/actions/runs/3598699347/jobs/6061691848)                                        | Succeeded | [OVESEG_1.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/OVESEG_1.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                             |
 | [PAA](https://github.com/almahmoud/gha-build/actions/runs/3598999371/jobs/6062305189)                                           | Succeeded | [PAA_1.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/PAA_1.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                   |
 | [packFinder](https://github.com/almahmoud/gha-build/actions/runs/3598600581/jobs/6061557093)                                    | Succeeded | [packFinder_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/packFinder_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                     |
+| [padma](https://github.com/almahmoud/gha-build/actions/runs/3599429756/jobs/6063120213)                                         | Succeeded | [padma_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/padma_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                 |
 | [PADOG](https://github.com/almahmoud/gha-build/actions/runs/3598872840/jobs/6062078223)                                         | Succeeded | [PADOG_1.40.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/PADOG_1.40.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
 | [pageRank](https://github.com/almahmoud/gha-build/actions/runs/3599180591/jobs/6062658239)                                      | Succeeded | [pageRank_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/pageRank_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | [PAIRADISE](https://github.com/almahmoud/gha-build/actions/runs/3599070913/jobs/6062469916)                                     | Succeeded | [PAIRADISE_1.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/PAIRADISE_1.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
@@ -3734,11 +3740,10 @@
 | [Rmisc](https://github.com/almahmoud/gha-build/actions/runs/3598381410/jobs/6061091879)                                         | Succeeded | [Rmisc_1.5.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/Rmisc_1.5.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                                 |
 | [alluvial](https://github.com/almahmoud/gha-build/actions/runs/3598112030/jobs/6060570310)                                      | Succeeded | [alluvial_0.1-2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/alluvial_0.1-2_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 
-## Unclaimed (90)
+## Unclaimed (84)
 | Package                                                                                                 | Status    | Tarball   |
 |---------------------------------------------------------------------------------------------------------|-----------|-----------|
 | [ADAMgui](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063173413)               | Unclaimed |           |
-| [AgiMicroRna](https://github.com/almahmoud/gha-build/actions/runs/3599484824/jobs/6063167573)           | Unclaimed |           |
 | ASpediaFI                                                                                               | Unclaimed |           |
 | bigmelon                                                                                                | Unclaimed |           |
 | [BiocOncoTK](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063175002)            | Unclaimed |           |
@@ -3757,13 +3762,11 @@
 | [easier](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063174326)                | Unclaimed |           |
 | [ELMER](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063174919)                 | Unclaimed |           |
 | enrichTF                                                                                                | Unclaimed |           |
-| [epidecodeR](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063175225)            | Unclaimed |           |
 | [epigraHMM](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063174744)             | Unclaimed |           |
 | epihet                                                                                                  | Unclaimed |           |
 | esATAC                                                                                                  | Unclaimed |           |
 | EWCE                                                                                                    | Unclaimed |           |
 | flowCL                                                                                                  | Unclaimed |           |
-| [FlowSOM](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063174597)               | Unclaimed |           |
 | [FuseSOM](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063173322)               | Unclaimed |           |
 | [GARS](https://github.com/almahmoud/gha-build/actions/runs/3599478633/jobs/6063162154)                  | Unclaimed |           |
 | GDCRNATools                                                                                             | Unclaimed |           |
@@ -3789,14 +3792,11 @@
 | MSstatsLiP                                                                                              | Unclaimed |           |
 | musicatk                                                                                                | Unclaimed |           |
 | NBSplice                                                                                                | Unclaimed |           |
-| [netZooR](https://github.com/almahmoud/gha-build/actions/runs/3599470719/jobs/6063142627)               | Unclaimed |           |
-| [NormalyzerDE](https://github.com/almahmoud/gha-build/actions/runs/3599461445/jobs/6063138370)          | Unclaimed |           |
 | ODER                                                                                                    | Unclaimed |           |
 | [omicRexposome](https://github.com/almahmoud/gha-build/actions/runs/3599483422/jobs/6063164745)         | Unclaimed |           |
 | OMICsPCA                                                                                                | Unclaimed |           |
 | omicsViewer                                                                                             | Unclaimed |           |
 | [orthogene](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063173573)             | Unclaimed |           |
-| [padma](https://github.com/almahmoud/gha-build/actions/runs/3599429756/jobs/6063120213)                 | Unclaimed |           |
 | PDATK                                                                                                   | Unclaimed |           |
 | [PhosR](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063173641)                 | Unclaimed |           |
 | [plotGrouper](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063174215)           | Unclaimed |           |
@@ -3806,7 +3806,7 @@
 | [psichomics](https://github.com/almahmoud/gha-build/actions/runs/3599473250/jobs/6063152976)            | Unclaimed |           |
 | [ptairMS](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063175431)               | Unclaimed |           |
 | RNASeqR                                                                                                 | Unclaimed |           |
-| RnaSeqSampleSize                                                                                        | Unclaimed |           |
+| [RnaSeqSampleSize](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063173816)      | Unclaimed |           |
 | RTCGA                                                                                                   | Unclaimed |           |
 | RTNsurvival                                                                                             | Unclaimed |           |
 | scRecover                                                                                               | Unclaimed |           |
@@ -3814,16 +3814,16 @@
 | signifinder                                                                                             | Unclaimed |           |
 | skewr                                                                                                   | Unclaimed |           |
 | sojourner                                                                                               | Unclaimed |           |
-| SPONGE                                                                                                  | Unclaimed |           |
+| [SPONGE](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063173243)                | Unclaimed |           |
 | survtype                                                                                                | Unclaimed |           |
-| TADCompare                                                                                              | Unclaimed |           |
-| TargetDecoy                                                                                             | Unclaimed |           |
+| [TADCompare](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063174664)            | Unclaimed |           |
+| [TargetDecoy](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063173491)           | Unclaimed |           |
 | TCGAbiolinksGUI                                                                                         | Unclaimed |           |
 | TDARACNE                                                                                                | Unclaimed |           |
 | timeOmics                                                                                               | Unclaimed |           |
 | TNBC.CMS                                                                                                | Unclaimed |           |
 | TraRe                                                                                                   | Unclaimed |           |
 | treekoR                                                                                                 | Unclaimed |           |
-| factoextra                                                                                              | Unclaimed |           |
+| [factoextra](https://github.com/almahmoud/gha-build/actions/runs/3599486266/jobs/6063174507)            | Unclaimed |           |
 | survminer                                                                                               | Unclaimed |           |
 | survivalAnalysis                                                                                        | Unclaimed |           |
