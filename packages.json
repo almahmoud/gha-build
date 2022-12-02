@@ -39,9 +39,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "cellmigRation": [
-        "FactoMineR"
-    ],
+    "cellmigRation": [],
     "censcyt": [
         "diffcyt",
         "FlowSOM",
@@ -70,7 +68,6 @@
     "compEpiTools": [],
     "conclus": [
         "factoextra",
-        "FactoMineR",
         "ggpubr",
         "rstatix"
     ],
@@ -84,19 +81,15 @@
         "diffcyt",
         "factoextra",
         "FlowSOM",
-        "FactoMineR",
         "ggpubr",
         "rstatix"
     ],
     "CytoGLMM": [
         "factoextra",
-        "FactoMineR",
         "ggpubr",
         "rstatix"
     ],
-    "DaMiRseq": [
-        "FactoMineR"
-    ],
+    "DaMiRseq": [],
     "DAPAR": [
         "DAPARdata"
     ],
@@ -178,8 +171,7 @@
         "rstatix"
     ],
     "GARS": [
-        "DaMiRseq",
-        "FactoMineR"
+        "DaMiRseq"
     ],
     "GDCRNATools": [
         "survminer",
@@ -190,9 +182,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "GeneGeneInteR": [
-        "FactoMineR"
-    ],
+    "GeneGeneInteR": [],
     "GenomicSuperSignature": [
         "ggpubr",
         "rstatix"
@@ -200,7 +190,6 @@
     "GenProSeq": [],
     "GEOexplorer": [
         "factoextra",
-        "FactoMineR",
         "ggpubr",
         "rstatix"
     ],
@@ -226,7 +215,6 @@
     ],
     "InterCellar": [
         "factoextra",
-        "FactoMineR",
         "ggpubr",
         "rstatix"
     ],
@@ -247,7 +235,6 @@
     ],
     "kissDE": [
         "factoextra",
-        "FactoMineR",
         "ggpubr",
         "rstatix"
     ],
@@ -323,7 +310,6 @@
     "MSstatsLiP": [
         "factoextra",
         "ggpubr",
-        "FactoMineR",
         "rstatix"
     ],
     "MSstatsShiny": [],
@@ -332,7 +318,6 @@
     "muscat": [],
     "musicatk": [
         "factoextra",
-        "FactoMineR",
         "ggpubr",
         "rstatix"
     ],
@@ -353,12 +338,10 @@
         "rstatix"
     ],
     "omicRexposome": [
-        "rexposome",
-        "FactoMineR"
+        "rexposome"
     ],
     "OMICsPCA": [
         "factoextra",
-        "FactoMineR",
         "ggpubr",
         "rstatix"
     ],
@@ -374,9 +357,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "padma": [
-        "FactoMineR"
-    ],
+    "padma": [],
     "PDATK": [
         "survminer",
         "ggpubr",
@@ -402,7 +383,6 @@
     "protGear": [
         "ggpubr",
         "factoextra",
-        "FactoMineR",
         "rstatix"
     ],
     "psichomics": [
@@ -417,9 +397,7 @@
     ],
     "recount": [],
     "regionReport": [],
-    "rexposome": [
-        "FactoMineR"
-    ],
+    "rexposome": [],
     "rifi": [],
     "RIPAT": [],
     "RNAAgeCalc": [
@@ -429,7 +407,6 @@
     "RNAmodR.ML": [],
     "RNAmodR.RiboMethSeq": [],
     "RNASeqR": [
-        "FactoMineR",
         "factoextra",
         "ggpubr",
         "rstatix"
@@ -541,12 +518,10 @@
     "mGSZ": [],
     "radiant.data": [],
     "GenomicState": [],
-    "FactoMineR": [],
     "GenomicTools": [],
     "spp": [],
     "propr": [],
     "factoextra": [
-        "FactoMineR",
         "ggpubr",
         "rstatix"
     ],
