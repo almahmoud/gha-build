@@ -8234,7 +8234,6 @@
         "tidyselect",
         "pillar",
         "rsparse",
-        "koRpus.lang.en",
         "lexicon",
         "textclean",
         "syuzhet",
@@ -13010,7 +13009,6 @@
         "viridis",
         "visNetwork",
         "rsparse",
-        "koRpus.lang.en",
         "lexicon",
         "textclean",
         "tidyselect",
@@ -34658,7 +34656,6 @@
         "tensorflow",
         "tfruns",
         "rsparse",
-        "koRpus.lang.en",
         "lexicon",
         "textclean",
         "tidyselect",
@@ -34993,7 +34990,6 @@
         "textstem",
         "rvest",
         "rsparse",
-        "koRpus.lang.en",
         "lexicon",
         "textclean",
         "progress",
@@ -35357,7 +35353,6 @@
         "org.Mm.eg.db",
         "org.Hs.eg.db",
         "AnnotationHub",
-        "koRpus.lang.en",
         "lexicon",
         "textclean",
         "tidyr",
@@ -38637,7 +38632,6 @@
         "rsparse"
     ],
     "textstem": [
-        "koRpus.lang.en",
         "dplyr",
         "lexicon",
         "textclean",
@@ -38648,7 +38642,6 @@
         "tidyr"
     ],
     "rsparse": [],
-    "koRpus.lang.en": [],
     "lexicon": [
         "syuzhet",
         "dplyr",
