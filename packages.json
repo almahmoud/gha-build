@@ -5557,7 +5557,6 @@
         "waldo",
         "rematch2"
     ],
-    "cycle": [],
     "cydar": [
         "SingleCellExperiment",
         "viridis",
