@@ -3833,7 +3833,6 @@
         "annotate"
     ],
     "esetVis": [],
-    "eudysbiome": [],
     "evaluomeR": [
         "MultiAssayExperiment",
         "kableExtra",
