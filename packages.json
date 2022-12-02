@@ -11962,7 +11962,6 @@
     ],
     "MoonlightR": [
         "SummarizedExperiment",
-        "HiveR",
         "clusterProfiler",
         "DOSE",
         "TCGAbiolinks",
@@ -23114,7 +23113,6 @@
     "MKmisc": [
         "ggplot2"
     ],
-    "HiveR": [],
     "gghalves": [
         "ggplot2"
     ],
