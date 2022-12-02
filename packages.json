@@ -6867,8 +6867,7 @@
     "MetaVolcanoR": [
         "tidyr",
         "plotly",
-        "metap",
-        "topconfects"
+        "metap"
     ],
     "MetCirc": [],
     "MethCP": [
@@ -12702,7 +12701,6 @@
         "plotly",
         "tidyr"
     ],
-    "topconfects": [],
     "topdownr": [
         "MSnbase",
         "vsn"
@@ -13256,9 +13254,7 @@
         "qvalue",
         "GO.db"
     ],
-    "weitrix": [
-        "topconfects"
-    ],
+    "weitrix": [],
     "wiggleplotr": [
         "rtracklayer",
         "GenomicAlignments"
