@@ -1223,7 +1223,6 @@
     "celda": [
         "scater",
         "scran",
-        "multipanelfigure",
         "scuttle",
         "ggrastr"
     ],
@@ -9700,7 +9699,6 @@
         "TrajectoryUtils",
         "scuttle",
         "BiocFileCache",
-        "multipanelfigure",
         "geneplotter",
         "GenomicFeatures",
         "rtracklayer",
@@ -11578,7 +11576,6 @@
         "testthat",
         "waldo"
     ],
-    "multipanelfigure": [],
     "FactoMineR": [
         "car",
         "pbkrtest",
