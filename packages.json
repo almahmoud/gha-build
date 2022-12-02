@@ -206,7 +206,6 @@
         "VariantAnnotation",
         "GenomicFeatures"
     ],
-    "BEAT": [],
     "beer": [],
     "benchdamic": [
         "TreeSummarizedExperiment",
