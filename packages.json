@@ -8952,7 +8952,6 @@
         "BiocFileCache",
         "BSgenome"
     ],
-    "regsplice": [],
     "regutools": [
         "AnnotationHub",
         "Gviz",
