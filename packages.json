@@ -2041,7 +2041,6 @@
     ],
     "RadioGx": [],
     "RandomWalkRestartMH": [],
-    "RAREsim": [],
     "RareVariantVis": [
         "VariantAnnotation",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
