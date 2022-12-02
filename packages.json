@@ -34,7 +34,6 @@
     ],
     "BitSeq": [],
     "brainflowprobes": [
-        "derfinder",
         "derfinderPlot",
         "GenomicState"
     ],
@@ -133,10 +132,7 @@
     ],
     "debrowser": [],
     "DeepPINCS": [],
-    "derfinder": [],
-    "derfinderPlot": [
-        "derfinder"
-    ],
+    "derfinderPlot": [],
     "destiny": [
         "VIM"
     ],
@@ -425,7 +421,6 @@
     ],
     "ODER": [
         "dasper",
-        "derfinder",
         "ggpubr",
         "rstatix"
     ],
@@ -490,8 +485,7 @@
         "rstatix"
     ],
     "psichomics": [
-        "recount",
-        "derfinder"
+        "recount"
     ],
     "ptairMS": [
         "ggpubr",
@@ -503,13 +497,9 @@
     ],
     "QuasR": [],
     "R3CPET": [],
-    "recount": [
-        "derfinder"
-    ],
+    "recount": [],
     "recountmethylation": [],
-    "regionReport": [
-        "derfinder"
-    ],
+    "regionReport": [],
     "regutools": [],
     "ReportingTools": [],
     "rexposome": [
@@ -519,8 +509,7 @@
     "rifi": [],
     "RIPAT": [],
     "RNAAgeCalc": [
-        "recount",
-        "derfinder"
+        "recount"
     ],
     "RNAmodR": [],
     "RNAmodR.AlkAnilineSeq": [
@@ -541,8 +530,7 @@
     "RnaSeqSampleSize": [
         "recount",
         "ggpubr",
-        "rstatix",
-        "derfinder"
+        "rstatix"
     ],
     "RnBeads": [],
     "Rqc": [],
@@ -668,9 +656,7 @@
     "rstatix": [],
     "mGSZ": [],
     "radiant.data": [],
-    "GenomicState": [
-        "derfinder"
-    ],
+    "GenomicState": [],
     "drc": [],
     "FactoMineR": [],
     "GenomicTools": [],
