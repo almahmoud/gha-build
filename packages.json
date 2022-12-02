@@ -3168,8 +3168,7 @@
     "CNVRanger": [
         "RaggedExperiment",
         "GDSArray",
-        "SummarizedExperiment",
-        "SeqArray"
+        "SummarizedExperiment"
     ],
     "CNVrd2": [
         "VariantAnnotation",
@@ -6686,7 +6685,6 @@
     ],
     "GateFinder": [],
     "GBScleanR": [
-        "SeqArray",
         "ggplot2",
         "tidyr",
         "dplyr"
@@ -6767,9 +6765,7 @@
         "waldo",
         "rematch2"
     ],
-    "GDSArray": [
-        "SeqArray"
-    ],
+    "GDSArray": [],
     "GEM": [
         "ggplot2"
     ],
@@ -6872,7 +6868,6 @@
     ],
     "GENESIS": [
         "GWASTools",
-        "SeqArray",
         "SeqVarTools",
         "logistf",
         "mice",
@@ -7293,8 +7288,7 @@
     ],
     "ggmanh": [
         "ggplot2",
-        "ggrepel",
-        "SeqArray"
+        "ggrepel"
     ],
     "ggmsa": [
         "ggplot2",
@@ -15833,9 +15827,7 @@
     "safe": [
         "AnnotationDbi"
     ],
-    "SAIGEgds": [
-        "SeqArray"
-    ],
+    "SAIGEgds": [],
     "sampleClassifier": [
         "MGFM",
         "MGFR",
@@ -16649,7 +16641,6 @@
         "ggplot2",
         "ggseqlogo"
     ],
-    "SeqArray": [],
     "seqbias": [],
     "seqCAT": [
         "VariantAnnotation",
@@ -16710,7 +16701,6 @@
         "dbplyr"
     ],
     "SeqVarTools": [
-        "SeqArray",
         "logistf",
         "mice",
         "broom",
@@ -19367,7 +19357,6 @@
     "VariantExperiment": [
         "SummarizedExperiment",
         "GDSArray",
-        "SeqArray",
         "SeqVarTools",
         "logistf",
         "mice",
