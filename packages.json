@@ -228,7 +228,6 @@
         "OrganismDbi",
         "ensembldb"
     ],
-    "branchpointer": [],
     "BubbleTree": [
         "biovizBase",
         "VariantAnnotation",
