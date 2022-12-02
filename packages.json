@@ -3389,9 +3389,7 @@
         "SingleCellExperiment",
         "GenomicRanges"
     ],
-    "ccImpute": [
-        "SIMLR"
-    ],
+    "ccImpute": [],
     "ccmap": [
         "AnnotationDbi",
         "RSQLite",
@@ -25494,7 +25492,6 @@
         "tibble",
         "tidyselect"
     ],
-    "SIMLR": [],
     "simpleSeg": [
         "EBImage",
         "SummarizedExperiment",
@@ -25549,7 +25546,6 @@
         "GenomicRanges"
     ],
     "SingleCellSignalR": [
-        "SIMLR",
         "scran",
         "SingleCellExperiment",
         "scuttle",
