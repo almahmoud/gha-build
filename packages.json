@@ -20381,7 +20381,6 @@
         "tidyselect"
     ],
     "nethet": [
-        "huge",
         "multtest",
         "ICSNP",
         "glmnet",
@@ -29114,8 +29113,7 @@
         "quantreg"
     ],
     "sparsenetgls": [
-        "glmnet",
-        "huge"
+        "glmnet"
     ],
     "SparseSignatures": [
         "NMF",
@@ -36895,7 +36893,6 @@
         "RISmed"
     ],
     "mppa": [],
-    "huge": [],
     "ICSNP": [
         "ICS",
         "survey"
