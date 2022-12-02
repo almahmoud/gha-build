@@ -6952,7 +6952,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "hunspell",
-        "janeaustenr",
         "purrr",
         "tokenizers",
         "treeio",
@@ -45779,7 +45778,6 @@
         "png",
         "stringi",
         "hunspell",
-        "janeaustenr",
         "Matrix",
         "purrr",
         "tokenizers",
@@ -48417,7 +48415,6 @@
         "cachem",
         "R.cache",
         "hunspell",
-        "janeaustenr",
         "Matrix",
         "stringr",
         "tokenizers",
@@ -122238,7 +122235,6 @@
     "tidytext": [
         "dplyr",
         "hunspell",
-        "janeaustenr",
         "lifecycle",
         "Matrix",
         "purrr",
@@ -122288,7 +122284,6 @@
         "Rcpp",
         "digest"
     ],
-    "janeaustenr": [],
     "tokenizers": [
         "stringi",
         "Rcpp",
@@ -130146,7 +130141,6 @@
         "vctrs",
         "dplyr",
         "hunspell",
-        "janeaustenr",
         "Matrix",
         "purrr",
         "stringr",
