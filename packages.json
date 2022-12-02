@@ -413,7 +413,6 @@
         "ggraph",
         "pbkrtest",
         "lme4",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio",
@@ -768,7 +767,6 @@
         "enrichplot",
         "GOSemSim",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -802,7 +800,6 @@
         "GOSemSim",
         "rstatix",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "broom",
         "car",
@@ -921,7 +918,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "DOSE",
         "ggraph",
-        "scatterpie",
         "GOSemSim",
         "ggtree",
         "biomaRt",
@@ -1021,7 +1017,6 @@
         "enrichplot",
         "GOSemSim",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -1145,7 +1140,6 @@
         "FactoMineR",
         "ggpubr",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "car",
         "rstatix",
@@ -1480,7 +1474,6 @@
         "heatmaply",
         "GOSemSim",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -1763,7 +1756,6 @@
         "enrichplot",
         "GOSemSim",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -1795,7 +1787,6 @@
         "enrichplot",
         "GOSemSim",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -1848,7 +1839,6 @@
     "enrichplot": [
         "DOSE",
         "ggraph",
-        "scatterpie",
         "GOSemSim",
         "ggtree",
         "tidygraph",
@@ -1868,7 +1858,6 @@
         "rstatix",
         "CNEr",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "broom",
         "car",
@@ -1901,7 +1890,6 @@
         "BSgenome",
         "DOSE",
         "ggraph",
-        "scatterpie",
         "GOSemSim",
         "ggtree",
         "biomaRt",
@@ -1936,7 +1924,6 @@
         "enrichplot",
         "ggraph",
         "GOSemSim",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -2043,7 +2030,6 @@
         "biomaRt",
         "CNEr",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -2132,7 +2118,6 @@
         "enrichplot",
         "GOSemSim",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -2156,7 +2141,6 @@
         "enrichplot",
         "GOSemSim",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -2360,7 +2344,6 @@
         "ggpubr",
         "broom",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "rstatix",
         "tidygraph",
@@ -2639,7 +2622,6 @@
         "enrichplot",
         "GOSemSim",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -2996,7 +2978,6 @@
         "rstatix",
         "tidygraph",
         "plotly",
-        "scatterpie",
         "ggtree",
         "broom",
         "car",
@@ -3247,7 +3228,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -3382,7 +3362,6 @@
         "GOSemSim",
         "AnnotationHub",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -3445,7 +3424,6 @@
         "enrichplot",
         "GOSemSim",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -3558,7 +3536,6 @@
         "IlluminaHumanMethylationEPICmanifest",
         "methylumi",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "FDb.InfiniumMethylation.hg19",
         "GenomicFeatures",
@@ -3661,7 +3638,6 @@
         "DOSE",
         "GOSemSim",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -3744,7 +3720,6 @@
         "cvms",
         "ggpubr",
         "lme4",
-        "scatterpie",
         "ggtree",
         "rstatix",
         "tidygraph",
@@ -3770,7 +3745,6 @@
         "cvms",
         "ggpubr",
         "lme4",
-        "scatterpie",
         "ggtree",
         "rstatix",
         "tidygraph",
@@ -3861,7 +3835,6 @@
         "GOSemSim",
         "biomaRt",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -4053,7 +4026,6 @@
         "DOSE",
         "GOSemSim",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio",
@@ -4201,7 +4173,6 @@
         "enrichplot",
         "GOSemSim",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -4492,7 +4463,6 @@
         "enrichplot",
         "GOSemSim",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -4555,7 +4525,6 @@
         "enrichplot",
         "GOSemSim",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -4624,7 +4593,6 @@
         "enrichplot",
         "GOSemSim",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -4759,7 +4727,6 @@
         "chipseq",
         "DOSE",
         "ggraph",
-        "scatterpie",
         "GOSemSim",
         "ggtree",
         "tidygraph",
@@ -5027,7 +4994,6 @@
         "enrichplot",
         "ggraph",
         "GOSemSim",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -5353,7 +5319,6 @@
         "pbkrtest",
         "lme4",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "rstatix",
         "tidygraph",
@@ -5644,7 +5609,6 @@
         "enrichplot",
         "ggraph",
         "Seurat",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -5678,7 +5642,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "DOSE",
         "ggraph",
-        "scatterpie",
         "GOSemSim",
         "ggtree",
         "biomaRt",
@@ -5767,7 +5730,6 @@
         "GOSemSim",
         "AnnotationHub",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -6122,9 +6084,7 @@
         "haven",
         "modelr"
     ],
-    "STdeconvolve": [
-        "scatterpie"
-    ],
+    "STdeconvolve": [],
     "stJoincount": [
         "Seurat",
         "SpatialExperiment",
@@ -6277,7 +6237,6 @@
         "ggpubr",
         "sesameData",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "rstatix",
         "ensembldb",
@@ -6358,7 +6317,6 @@
         "enrichplot",
         "GOSemSim",
         "ggraph",
-        "scatterpie",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -6922,7 +6880,6 @@
     "ggraph": [
         "tidygraph"
     ],
-    "scatterpie": [],
     "tidygraph": [],
     "synaptome.db": [
         "synaptome.data",
