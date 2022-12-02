@@ -6579,7 +6579,6 @@
     "MatrixQCvis": [
         "plotly",
         "Hmisc",
-        "proDA",
         "tidyr",
         "UpSetR",
         "vsn",
@@ -9542,7 +9541,6 @@
         "testthat",
         "waldo"
     ],
-    "proDA": [],
     "proFIA": [
         "xcms",
         "ropls",
