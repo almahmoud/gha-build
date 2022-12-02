@@ -22,9 +22,7 @@
     ],
     "ASpli": [],
     "ATACCoGAPS": [],
-    "BaalChIP": [
-        "doBy"
-    ],
+    "BaalChIP": [],
     "benchdamic": [
         "ANCOMBC"
     ],
@@ -662,9 +660,7 @@
     "synergyfinder": [
         "drc"
     ],
-    "synlet": [
-        "doBy"
-    ],
+    "synlet": [],
     "TADCompare": [
         "ggpubr",
         "rstatix"
@@ -727,7 +723,6 @@
     ],
     "rstatix": [],
     "mGSZ": [],
-    "doBy": [],
     "radiant.data": [],
     "GenomicState": [
         "derfinder"
