@@ -2320,8 +2320,7 @@
         "fda",
         "genomation",
         "fds",
-        "BSgenome",
-        "rainbow"
+        "BSgenome"
     ],
     "fcoex": [
         "clusterProfiler",
@@ -2433,14 +2432,12 @@
     ],
     "flowStats": [
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "flowVS": [
         "flowStats",
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "fobitools": [
         "ggraph",
@@ -2473,14 +2470,12 @@
     ],
     "FRGEpistasis": [
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "frma": [],
     "FunChIP": [
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "funtooNorm": [
         "minfi",
@@ -3321,8 +3316,7 @@
     ],
     "IWTomics": [
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "karyoploteR": [
         "regioneR",
@@ -5077,8 +5071,7 @@
         "GenomicFeatures",
         "ensembldb",
         "biovizBase",
-        "VariantAnnotation",
-        "rainbow"
+        "VariantAnnotation"
     ],
     "pipeComp": [
         "Seurat",
@@ -7129,8 +7122,7 @@
         "GenomicFeatures",
         "fda",
         "fds",
-        "biomaRt",
-        "rainbow"
+        "biomaRt"
     ],
     "uncoverappLib": [
         "Gviz",
@@ -7804,13 +7796,9 @@
         "broom"
     ],
     "fda": [
-        "fds",
-        "rainbow"
+        "fds"
     ],
-    "fds": [
-        "rainbow"
-    ],
-    "rainbow": [],
+    "fds": [],
     "SPARQL": [],
     "RecordLinkage": [],
     "NHPoisson": [
