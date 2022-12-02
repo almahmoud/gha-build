@@ -137,7 +137,6 @@
         "lme4",
         "lmerTest"
     ],
-    "BgeeCall": [],
     "bigmelon": [
         "wateRmelon",
         "minfi",
