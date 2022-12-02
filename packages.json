@@ -8190,7 +8190,6 @@
         "ggplot2",
         "cowplot"
     ],
-    "GraphAT": [],
     "graphite": [
         "AnnotationDbi",
         "KEGGREST"
