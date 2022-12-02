@@ -5029,9 +5029,7 @@
         "bitops",
         "sys"
     ],
-    "ARRmNormalization": [
-        "ARRmData"
-    ],
+    "ARRmNormalization": [],
     "artMS": [
         "AnnotationDbi",
         "bit64",
@@ -159457,7 +159455,6 @@
         "systemfonts",
         "cpp11"
     ],
-    "ARRmData": [],
     "getopt": [],
     "UpSetR": [
         "ggplot2",
