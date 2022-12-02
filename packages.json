@@ -14027,7 +14027,6 @@
         "SummarizedExperiment",
         "nloptr",
         "fGarch",
-        "cvar",
         "testthat",
         "GenomicRanges",
         "DelayedArray",
@@ -39088,10 +39087,7 @@
     ],
     "classInt": [],
     "penalized": [],
-    "fGarch": [
-        "cvar"
-    ],
-    "cvar": [],
+    "fGarch": [],
     "ggwordcloud": [
         "ggplot2",
         "tibble",
