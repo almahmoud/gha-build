@@ -232,10 +232,7 @@
     "lisaClust": [],
     "LowMACA": [],
     "lumi": [],
-    "Maaslin2": [],
-    "Macarron": [
-        "Maaslin2"
-    ],
+    "Macarron": [],
     "MAGAR": [
         "RnBeads"
     ],
@@ -284,9 +281,7 @@
         "rstatix"
     ],
     "missMethyl": [],
-    "MMUPHin": [
-        "Maaslin2"
-    ],
+    "MMUPHin": [],
     "MQmetrics": [
         "ggpubr",
         "rstatix"
