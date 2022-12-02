@@ -848,7 +848,6 @@
         "treeio"
     ],
     "enrichTF": [
-        "pipeFrame",
         "motifmatchr",
         "JASPAR2018",
         "ggpubr",
@@ -947,7 +946,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "esATAC": [
-        "pipeFrame",
         "ChIPseeker",
         "clusterProfiler",
         "JASPAR2018",
@@ -2251,7 +2249,6 @@
     "pipeComp": [
         "Seurat"
     ],
-    "pipeFrame": [],
     "PloGO2": [
         "GOstats"
     ],
