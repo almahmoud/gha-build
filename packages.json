@@ -1648,7 +1648,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "ORFik": [],
     "orthogene": [
         "ggpubr",
         "ggtree",
@@ -1891,9 +1890,7 @@
     "Rhisat2": [
         "SGSeq"
     ],
-    "RiboCrypt": [
-        "ORFik"
-    ],
+    "RiboCrypt": [],
     "RiboDiPA": [],
     "RiboProfiling": [
         "ggbio",
@@ -2317,9 +2314,7 @@
         "TCGAutils"
     ],
     "TFEA.ChIP": [],
-    "TFHAZ": [
-        "ORFik"
-    ],
+    "TFHAZ": [],
     "timeOmics": [
         "propr"
     ],
