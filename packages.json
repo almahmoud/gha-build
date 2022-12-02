@@ -4234,9 +4234,7 @@
     "cleaver": [
         "Biostrings"
     ],
-    "clippda": [
-        "rgl"
-    ],
+    "clippda": [],
     "clipper": [
         "qpgraph",
         "annotate",
@@ -6001,7 +5999,6 @@
         "annotate",
         "rtracklayer",
         "nloptr",
-        "rgl",
         "dplyr",
         "hardhat",
         "ipred",
@@ -8763,9 +8760,7 @@
         "tidyselect",
         "progress"
     ],
-    "fCI": [
-        "rgl"
-    ],
+    "fCI": [],
     "fcoex": [
         "FCBF",
         "progress",
@@ -9444,7 +9439,6 @@
         "annotate",
         "rtracklayer",
         "nloptr",
-        "rgl",
         "dplyr",
         "hardhat",
         "ipred",
@@ -11685,7 +11679,6 @@
     ],
     "iCheck": [
         "lumi",
-        "rgl",
         "methylumi",
         "GenomicFeatures",
         "GenomicRanges",
@@ -15787,7 +15780,6 @@
         "fgsea",
         "ggplot2",
         "readr",
-        "rgl",
         "GenomicRanges",
         "biomaRt",
         "tibble",
@@ -17343,8 +17335,7 @@
         "rematch2"
     ],
     "NormqPCR": [
-        "qpcR",
-        "rgl"
+        "qpcR"
     ],
     "normr": [
         "GenomicRanges",
@@ -17669,7 +17660,6 @@
         "rtracklayer",
         "ggplot2",
         "factoextra",
-        "rgl",
         "FactoMineR",
         "tidyr",
         "dendextend",
@@ -17948,7 +17938,6 @@
     "optimalFlow": [
         "dplyr",
         "flowMeans",
-        "rgl",
         "tibble",
         "tidyselect",
         "feature"
@@ -20316,7 +20305,6 @@
         "GenomicRanges",
         "Rsamtools",
         "baySeq",
-        "rgl",
         "GenomicAlignments",
         "SummarizedExperiment",
         "Biostrings"
@@ -20457,9 +20445,7 @@
         "repr"
     ],
     "RCyjs": [],
-    "RDRToolbox": [
-        "rgl"
-    ],
+    "RDRToolbox": [],
     "ReactomeGraph4R": [
         "neo4r",
         "shiny",
@@ -26512,7 +26498,6 @@
         "GenomicRanges"
     ],
     "TrajectoryGeometry": [
-        "rgl",
         "ggplot2",
         "tibble"
     ],
@@ -26639,7 +26624,6 @@
         "SingleCellExperiment",
         "slingshot",
         "SummarizedExperiment",
-        "rgl",
         "tibble",
         "GenomicRanges",
         "TrajectoryUtils"
@@ -26866,8 +26850,7 @@
         "tibble",
         "tidyselect",
         "longitudinalData",
-        "kml",
-        "rgl"
+        "kml"
     ],
     "ttgsea": [
         "keras",
@@ -26890,7 +26873,6 @@
         "progress"
     ],
     "TTMap": [
-        "rgl",
         "SummarizedExperiment",
         "GenomicRanges"
     ],
@@ -29528,7 +29510,6 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "rgl": [],
     "phylobase": [
         "rncl",
         "RNeXML",
@@ -29794,8 +29775,7 @@
     ],
     "plsVarSel": [
         "progress",
-        "MSQC",
-        "rgl"
+        "MSQC"
     ],
     "FSelector": [],
     "arm": [
@@ -29806,9 +29786,7 @@
         "rematch2",
         "tibble"
     ],
-    "MSQC": [
-        "rgl"
-    ],
+    "MSQC": [],
     "DAPARdata": [
         "MSnbase",
         "vsn",
@@ -30701,9 +30679,7 @@
         "ggplot2",
         "tibble"
     ],
-    "HiveR": [
-        "rgl"
-    ],
+    "HiveR": [],
     "gghalves": [
         "ggplot2",
         "tibble"
@@ -30782,9 +30758,7 @@
         "waldo",
         "rematch2"
     ],
-    "qpcR": [
-        "rgl"
-    ],
+    "qpcR": [],
     "NxtIRFdata": [
         "ExperimentHub",
         "BiocFileCache",
@@ -31580,15 +31554,11 @@
     ],
     "kmlShape": [
         "longitudinalData",
-        "kml",
-        "rgl"
+        "kml"
     ],
-    "longitudinalData": [
-        "rgl"
-    ],
+    "longitudinalData": [],
     "kml": [
-        "longitudinalData",
-        "rgl"
+        "longitudinalData"
     ],
     "mirbase.db": [
         "AnnotationDbi",
