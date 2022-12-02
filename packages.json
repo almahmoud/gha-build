@@ -6267,7 +6267,6 @@
         "GO.db",
         "AnnotationDbi",
         "zoo",
-        "xlsxjars",
         "IRanges",
         "RSQLite",
         "KEGGREST",
@@ -82136,9 +82135,7 @@
         "igraph",
         "Matrix"
     ],
-    "xlsx": [
-        "xlsxjars"
-    ],
+    "xlsx": [],
     "readbitmap": [],
     "multcomp": [
         "survival",
@@ -82147,7 +82144,6 @@
         "zoo",
         "Matrix"
     ],
-    "xlsxjars": [],
     "TH.data": [
         "survival",
         "Matrix"
