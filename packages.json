@@ -19,7 +19,6 @@
         "ggdendro",
         "plotly",
         "BiocStyle",
-        "bookdown",
         "tidyr",
         "dplyr"
     ],
@@ -560,7 +559,6 @@
         "BiocStyle",
         "UpSetR",
         "tidyr",
-        "bookdown",
         "rtracklayer",
         "biomaRt",
         "ensembldb",
@@ -794,7 +792,6 @@
         "ggalluvial",
         "ggrepel",
         "tidyr",
-        "bookdown",
         "vsn",
         "MLInterfaces",
         "caret",
@@ -1188,12 +1185,9 @@
         "tidyr"
     ],
     "BiocSklearn": [],
-    "BiocStyle": [
-        "bookdown"
-    ],
+    "BiocStyle": [],
     "BiocWorkflowTools": [
-        "BiocStyle",
-        "bookdown"
+        "BiocStyle"
     ],
     "biodb": [
         "BiocFileCache",
@@ -1528,8 +1522,7 @@
     "BPRMeth": [
         "ggplot2",
         "cowplot",
-        "BiocStyle",
-        "bookdown"
+        "BiocStyle"
     ],
     "brainflowprobes": [
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -1619,7 +1612,6 @@
         "BiocStyle",
         "ggplot2",
         "biovizBase",
-        "bookdown",
         "Hmisc",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2322,7 +2314,6 @@
         "org.Mm.eg.db",
         "dplyr",
         "BiocStyle",
-        "bookdown",
         "GenomicFeatures",
         "rtracklayer",
         "biomaRt",
@@ -3004,8 +2995,7 @@
     "COMPASS": [
         "dplyr",
         "tidyr",
-        "BiocStyle",
-        "bookdown"
+        "BiocStyle"
     ],
     "compcodeR": [
         "ggplot2"
@@ -3929,8 +3919,7 @@
     "deco": [
         "ggplot2",
         "BiocStyle",
-        "made4",
-        "bookdown"
+        "made4"
     ],
     "DEComplexDisease": [
         "DESeq2",
@@ -4341,7 +4330,6 @@
         "heatmaply",
         "viridis",
         "plotly",
-        "bookdown",
         "tidyr",
         "colourpicker",
         "miniUI",
@@ -5461,8 +5449,7 @@
         "shinyjs"
     ],
     "ExpressionAtlas": [
-        "BiocStyle",
-        "bookdown"
+        "BiocStyle"
     ],
     "extraChIPs": [
         "ggplot2",
@@ -6287,7 +6274,6 @@
         "dplyr",
         "BiocStyle",
         "org.Rn.eg.db",
-        "bookdown",
         "GenomicAlignments"
     ],
     "GENIE3": [
@@ -8876,8 +8862,7 @@
         "BPRMeth",
         "ggplot2",
         "cowplot",
-        "BiocStyle",
-        "bookdown"
+        "BiocStyle"
     ],
     "memes": [
         "dplyr",
@@ -8931,7 +8916,6 @@
         "BiocStyle",
         "MeSHDbi",
         "Category",
-        "bookdown",
         "GSEABase",
         "genefilter",
         "annotate"
@@ -9134,7 +9118,6 @@
         "viridis",
         "dendextend",
         "egg",
-        "bookdown",
         "ipred",
         "dbplyr",
         "dplyr",
@@ -10400,7 +10383,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "interactiveDisplayBase",
-        "bookdown",
         "msmsEDA",
         "qvalue",
         "vsn",
@@ -11113,8 +11095,7 @@
     "netresponse": [
         "BiocStyle",
         "ggplot2",
-        "qvalue",
-        "bookdown"
+        "qvalue"
     ],
     "NetSAM": [
         "WGCNA",
@@ -11895,7 +11876,6 @@
         "plotly",
         "shinyjs",
         "devtools",
-        "bookdown",
         "geneplotter",
         "miniUI",
         "pkgdown",
@@ -12202,7 +12182,6 @@
         "shinyFiles",
         "shinyjs",
         "OmaDB",
-        "bookdown",
         "miniUI",
         "AnnotationHub",
         "BiocFileCache",
@@ -12252,7 +12231,6 @@
         "ReactomePA",
         "ggplot2",
         "DOSE",
-        "bookdown",
         "enrichplot",
         "GOSemSim",
         "gson",
@@ -12471,7 +12449,6 @@
         "RPA",
         "BiocStyle",
         "phyloseq",
-        "bookdown",
         "ggplot2"
     ],
     "preciseTAD": [
@@ -13318,8 +13295,7 @@
         "GO.db"
     ],
     "rebook": [
-        "BiocStyle",
-        "bookdown"
+        "BiocStyle"
     ],
     "receptLoss": [
         "dplyr",
@@ -13442,7 +13418,6 @@
         "DEFormats",
         "DESeq2",
         "knitrBootstrap",
-        "bookdown",
         "bumphunter",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -13884,7 +13859,6 @@
         "org.Mm.eg.db",
         "DESeq2",
         "BiocStyle",
-        "bookdown",
         "geneplotter",
         "ggplot2",
         "miniUI",
@@ -14182,7 +14156,6 @@
     "RPA": [
         "BiocStyle",
         "phyloseq",
-        "bookdown",
         "ggplot2"
     ],
     "rprimer": [
@@ -14203,7 +14176,6 @@
         "biovizBase",
         "GenomicAlignments",
         "GenomicFiles",
-        "bookdown",
         "Hmisc",
         "GenomicFeatures",
         "VariantAnnotation",
@@ -14418,7 +14390,6 @@
         "ggdendro",
         "shinyWidgets",
         "BiocStyle",
-        "bookdown",
         "ggplot2",
         "tidyr",
         "dplyr"
@@ -14433,7 +14404,6 @@
     "SBGNview": [
         "pathview",
         "SBGNview.data",
-        "bookdown",
         "org.Hs.eg.db"
     ],
     "SC3": [
@@ -14774,8 +14744,7 @@
         "BiocStyle",
         "cowplot",
         "SingleCellExperiment",
-        "dplyr",
-        "bookdown"
+        "dplyr"
     ],
     "scmeth": [
         "bsseq",
@@ -14950,7 +14919,6 @@
         "BiocFileCache",
         "interactiveDisplayBase",
         "dplyr",
-        "bookdown",
         "GSEABase",
         "genefilter",
         "annotate",
@@ -15000,7 +14968,6 @@
         "msigdbr",
         "schex",
         "ggplot2",
-        "bookdown",
         "annotate",
         "babelgene",
         "dplyr",
@@ -16162,7 +16129,6 @@
         "GenomicAlignments",
         "Gviz",
         "BiocStyle",
-        "bookdown",
         "geneplotter",
         "ggplot2",
         "miniUI",
@@ -18021,7 +17987,6 @@
         "tidyr",
         "dplyr"
     ],
-    "bookdown": [],
     "tidyr": [
         "dplyr"
     ],
@@ -19566,9 +19531,7 @@
         "dbplyr",
         "dplyr"
     ],
-    "rmdformats": [
-        "bookdown"
-    ],
+    "rmdformats": [],
     "sesameData": [
         "ExperimentHub",
         "AnnotationHub",
@@ -19969,9 +19932,7 @@
     "treemap": [
         "ggplot2"
     ],
-    "SBGNview.data": [
-        "bookdown"
-    ],
+    "SBGNview.data": [],
     "scanMiRData": [
         "scanMiR",
         "ggplot2",
