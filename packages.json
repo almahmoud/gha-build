@@ -78,9 +78,7 @@
     "CNViz": [
         "CopyNumberPlots"
     ],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "conclus": [
         "factoextra",
         "FactoMineR",
@@ -319,7 +317,6 @@
     "methylGSA": [
         "missMethyl"
     ],
-    "methylPipe": [],
     "miaViz": [],
     "microbiomeExplorer": [],
     "microbiomeMarker": [],
