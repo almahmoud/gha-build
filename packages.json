@@ -41799,7 +41799,6 @@
     ],
     "powerTCR": [
         "doParallel",
-        "evmix",
         "purrr",
         "vegan",
         "mgcv"
@@ -50436,7 +50435,6 @@
         "ggrepel",
         "viridis",
         "graphlayouts",
-        "evmix",
         "purrr",
         "future",
         "future.apply",
@@ -68862,7 +68860,6 @@
         "reshape2"
     ],
     "strawr": [],
-    "evmix": [],
     "tidybayes": [
         "ggdist",
         "dplyr",
