@@ -867,7 +867,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "bumphunter"
     ],
-    "flagme": [],
     "FLAMES": [
         "ggbio",
         "bambu",
