@@ -755,7 +755,6 @@
     ],
     "MungeSumstats": [],
     "muscat": [
-        "blme",
         "variancePartition"
     ],
     "musicatk": [
@@ -1267,7 +1266,6 @@
     ],
     "FlowSorted.Blood.450k": [],
     "methylclockData": [],
-    "blme": [],
     "mppa": [],
     "RcmdrMisc": [
         "car"
