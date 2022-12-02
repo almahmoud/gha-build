@@ -517,8 +517,7 @@
     ],
     "ChIPanalyser": [],
     "ChIPComp": [
-        "BSgenome.Hsapiens.UCSC.hg19",
-        "BSgenome.Mmusculus.UCSC.mm9"
+        "BSgenome.Hsapiens.UCSC.hg19"
     ],
     "chipenrich": [],
     "ChIPexoQual": [
@@ -2495,7 +2494,6 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
-        "BSgenome.Mmusculus.UCSC.mm9",
         "deconstructSigs",
         "decompTumor2Sig",
         "factoextra",
@@ -3644,7 +3642,6 @@
     "SPLINTER": [
         "GenomicFeatures",
         "Gviz",
-        "BSgenome.Mmusculus.UCSC.mm9",
         "ensembldb",
         "biovizBase",
         "VariantAnnotation"
@@ -4204,7 +4201,6 @@
     ],
     "spp": [],
     "ChIC.data": [],
-    "BSgenome.Mmusculus.UCSC.mm9": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [
         "GenomicFeatures"
     ],
