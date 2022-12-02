@@ -4258,7 +4258,6 @@
     "BrainSABER": [
         "biomaRt",
         "SummarizedExperiment",
-        "lsa",
         "BiocFileCache",
         "shiny",
         "dbplyr",
@@ -5226,7 +5225,6 @@
     ],
     "ccmap": [
         "AnnotationDbi",
-        "lsa",
         "RSQLite",
         "KEGGREST",
         "httr",
@@ -5563,9 +5561,7 @@
         "vctrs",
         "pillar"
     ],
-    "CellScore": [
-        "lsa"
-    ],
+    "CellScore": [],
     "CellTrails": [
         "SingleCellExperiment",
         "dendextend",
@@ -8501,7 +8497,6 @@
         "piano",
         "BiocParallel",
         "BumpyMatrix",
-        "lsa",
         "bench",
         "pillar",
         "tibble",
@@ -29657,7 +29652,6 @@
         "e1071",
         "recipes",
         "BumpyMatrix",
-        "lsa",
         "bench",
         "tibble",
         "tidyselect",
@@ -29978,7 +29972,6 @@
         "ggplot2",
         "piano",
         "BumpyMatrix",
-        "lsa",
         "bench",
         "mgcv",
         "tibble",
@@ -32537,7 +32530,6 @@
         "MultiAssayExperiment",
         "piano",
         "BumpyMatrix",
-        "lsa",
         "bench",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -33692,7 +33684,6 @@
         "GenomicRanges",
         "glmnet",
         "ggplot2",
-        "lsa",
         "XVector",
         "rtracklayer",
         "Rsamtools",
@@ -42730,7 +42721,6 @@
         "MultiAssayExperiment",
         "piano",
         "BumpyMatrix",
-        "lsa",
         "bench",
         "tidyselect",
         "vctrs",
@@ -44820,7 +44810,6 @@
         "BiocParallel",
         "piano",
         "BumpyMatrix",
-        "lsa",
         "bench",
         "GenomicRanges",
         "DelayedArray",
@@ -47327,7 +47316,6 @@
         "BSgenome",
         "sass"
     ],
-    "lsa": [],
     "BSgenome.Hsapiens.UCSC.hg38": [
         "BSgenome",
         "GenomeInfoDb",
