@@ -2378,7 +2378,6 @@
         "biomaRt",
         "GenomicFeatures"
     ],
-    "IdeoViz": [],
     "igvR": [
         "VariantAnnotation",
         "GenomicFeatures",
