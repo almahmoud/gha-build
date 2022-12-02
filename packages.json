@@ -27551,7 +27551,6 @@
         "SummarizedExperiment",
         "SingleCellExperiment",
         "tidyr",
-        "argparse",
         "survival",
         "libcoin",
         "multcomp",
@@ -30589,7 +30588,6 @@
         "bigstatsr",
         "UpSetR",
         "reshape2",
-        "argparse",
         "RnBeads.hg19",
         "bigparallelr",
         "cowplot",
@@ -70791,7 +70789,6 @@
     "phyclust": [
         "ape"
     ],
-    "argparse": [],
     "depmixS4": [],
     "golem": [
         "pkgload",
