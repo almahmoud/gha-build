@@ -15417,7 +15417,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "partykit",
         "vroom",
         "dbplyr",
         "Biostrings"
@@ -19051,7 +19050,6 @@
     "Pigengene": [
         "BiocStyle",
         "C50",
-        "partykit",
         "WGCNA",
         "GO.db",
         "dplyr",
@@ -30963,13 +30961,9 @@
         "SummarizedExperiment"
     ],
     "InvariantCausalPrediction": [
-        "mboost",
-        "partykit"
+        "mboost"
     ],
-    "mboost": [
-        "partykit"
-    ],
-    "partykit": [],
+    "mboost": [],
     "miRBaseVersions.db": [
         "AnnotationDbi",
         "RSQLite",
@@ -31286,9 +31280,7 @@
     "osfr": [
         "tibble"
     ],
-    "C50": [
-        "partykit"
-    ],
+    "C50": [],
     "tidybayes": [
         "ggdist",
         "dplyr",
