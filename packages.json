@@ -12,9 +12,7 @@
         "ReportingTools"
     ],
     "AllelicImbalance": [],
-    "ANCOMBC": [
-        "mia"
-    ],
+    "ANCOMBC": [],
     "appreci8R": [],
     "ArrayExpressHTS": [],
     "arrayMvout": [
@@ -30,8 +28,7 @@
         "doBy"
     ],
     "benchdamic": [
-        "ANCOMBC",
-        "mia"
+        "ANCOMBC"
     ],
     "bigmelon": [
         "wateRmelon",
@@ -499,16 +496,12 @@
     ],
     "methylPipe": [],
     "methylumi": [],
-    "mia": [],
-    "miaViz": [
-        "mia"
-    ],
+    "miaViz": [],
     "microbiomeExplorer": [
         "car"
     ],
     "microbiomeMarker": [
-        "ANCOMBC",
-        "mia"
+        "ANCOMBC"
     ],
     "MicrobiomeProfiler": [],
     "MicrobiotaProcess": [],
