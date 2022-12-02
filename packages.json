@@ -2773,7 +2773,6 @@
     "GOpro": [
         "MultiAssayExperiment"
     ],
-    "goProfiles": [],
     "GOSemSim": [],
     "goseq": [
         "geneLenDataBase",
@@ -2784,7 +2783,6 @@
         "topGO"
     ],
     "goSorensen": [
-        "goProfiles",
         "clusterProfiler",
         "DOSE",
         "enrichplot",
