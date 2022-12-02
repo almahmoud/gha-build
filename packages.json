@@ -17400,7 +17400,6 @@
     "RaggedExperiment": [
         "SummarizedExperiment"
     ],
-    "rain": [],
     "ramr": [
         "ggplot2",
         "EnvStats",
