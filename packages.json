@@ -9,12 +9,9 @@
     "BiocOncoTK": [],
     "BitSeq": [],
     "CancerInSilico": [],
-    "CATALYST": [
-        "FlowSOM"
-    ],
+    "CATALYST": [],
     "censcyt": [
-        "diffcyt",
-        "FlowSOM"
+        "diffcyt"
     ],
     "CeTF": [
         "GenomicTools"
@@ -32,8 +29,7 @@
     "CyTOFpower": [
         "CytoGLMM",
         "diffcyt",
-        "factoextra",
-        "FlowSOM"
+        "factoextra"
     ],
     "CytoGLMM": [
         "factoextra"
@@ -42,9 +38,7 @@
         "DAPARdata"
     ],
     "dasper": [],
-    "diffcyt": [
-        "FlowSOM"
-    ],
+    "diffcyt": [],
     "easier": [],
     "ELMER": [],
     "enrichTF": [
@@ -63,7 +57,6 @@
     "flowCL": [
         "SPARQL"
     ],
-    "FlowSOM": [],
     "FuseSOM": [],
     "GARS": [],
     "GDCRNATools": [
@@ -95,9 +88,7 @@
     ],
     "LinkHD": [],
     "MEAT": [],
-    "MetaCyto": [
-        "FlowSOM"
-    ],
+    "MetaCyto": [],
     "MethReg": [],
     "methylclock": [],
     "miRSM": [
@@ -192,8 +183,7 @@
     ],
     "Travel": [],
     "treekoR": [
-        "diffcyt",
-        "FlowSOM"
+        "diffcyt"
     ],
     "mGSZ": [],
     "GenomicTools": [],
