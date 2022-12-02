@@ -1579,7 +1579,6 @@
         "quantro",
         "minfi"
     ],
-    "nnSVG": [],
     "nondetects": [
         "arm",
         "lme4"
