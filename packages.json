@@ -835,9 +835,7 @@
         "rstatix",
         "car"
     ],
-    "preciseTAD": [
-        "rCGH"
-    ],
+    "preciseTAD": [],
     "primirTSS": [
         "Gviz",
         "JASPAR2018"
@@ -881,7 +879,6 @@
         "ggbio"
     ],
     "R453Plus1Toolbox": [],
-    "rCGH": [],
     "ReactomePA": [],
     "recount": [
         "derfinder"
