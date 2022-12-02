@@ -1134,9 +1134,7 @@
     "factR": [
         "GenomicFeatures"
     ],
-    "FamAgg": [
-        "gap"
-    ],
+    "FamAgg": [],
     "famat": [
         "clusterProfiler",
         "enrichplot",
@@ -3868,7 +3866,6 @@
     "EntropyExplorer": [],
     "EpiMix.data": [],
     "ewceData": [],
-    "gap": [],
     "fda": [],
     "SPARQL": [],
     "NHPoisson": [
