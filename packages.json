@@ -1498,7 +1498,6 @@
         "GenomicFiles"
     ],
     "PSMatch": [],
-    "psygenet2r": [],
     "ptairMS": [
         "ggpubr",
         "rstatix",
