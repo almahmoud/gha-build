@@ -1051,9 +1051,7 @@
         "lme4",
         "nloptr"
     ],
-    "debCAM": [
-        "DMwR2"
-    ],
+    "debCAM": [],
     "debrowser": [
         "DESeq2",
         "DOSE",
@@ -5123,7 +5121,6 @@
     ],
     "DAPARdata": [],
     "cmdfun": [],
-    "DMwR2": [],
     "rsq": [
         "lme4",
         "nloptr"
