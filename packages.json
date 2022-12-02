@@ -5922,7 +5922,6 @@
         "BSgenome",
         "biomaRt"
     ],
-    "SemDist": [],
     "seq2pathway": [
         "WGCNA",
         "biomaRt"
