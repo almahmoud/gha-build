@@ -5585,7 +5585,6 @@
         "rms",
         "feature",
         "tibble",
-        "ks",
         "Hmisc",
         "quantreg",
         "multcomp",
@@ -7665,7 +7664,6 @@
         "dbplyr"
     ],
     "diggit": [
-        "ks",
         "viper",
         "mixtools"
     ],
@@ -9772,7 +9770,6 @@
         "vroom",
         "pillar",
         "hdrcde",
-        "ks",
         "tidyselect",
         "progress"
     ],
@@ -10132,12 +10129,10 @@
         "pillar"
     ],
     "flowMeans": [
-        "feature",
-        "ks"
+        "feature"
     ],
     "flowMerge": [
-        "feature",
-        "ks"
+        "feature"
     ],
     "flowPloidy": [
         "car",
@@ -10193,7 +10188,6 @@
         "flowWorkspace",
         "flowViz",
         "fda",
-        "ks",
         "fds",
         "ggplot2",
         "dplyr",
@@ -10218,7 +10212,6 @@
         "flowStats",
         "flowWorkspace",
         "fda",
-        "ks",
         "fds",
         "ggplot2",
         "dplyr",
@@ -10344,7 +10337,6 @@
         "fds",
         "rainbow",
         "hdrcde",
-        "ks",
         "ggplot2",
         "tibble",
         "pillar"
@@ -10369,7 +10361,6 @@
         "Biostrings",
         "rainbow",
         "hdrcde",
-        "ks",
         "ggplot2",
         "tibble",
         "pillar"
@@ -14107,7 +14098,6 @@
         "fds",
         "rainbow",
         "hdrcde",
-        "ks",
         "ggplot2",
         "tibble",
         "pillar"
@@ -18972,7 +18962,6 @@
         "Seurat",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "ks",
         "tibble",
         "cowplot",
         "ggrepel",
@@ -19415,7 +19404,6 @@
         "InteractionSet",
         "ggplot2",
         "plyranges",
-        "ks",
         "progress",
         "ggridges",
         "tibble",
@@ -20049,8 +20037,7 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "feature",
-        "ks"
+        "feature"
     ],
     "OPWeight": [
         "qvalue",
@@ -21127,7 +21114,6 @@
         "ggplot2",
         "viridis",
         "hdrcde",
-        "ks",
         "blob",
         "pillar",
         "tibble",
@@ -22948,7 +22934,6 @@
     ],
     "reconsi": [
         "phyloseq",
-        "ks",
         "ggplot2",
         "tibble",
         "Biostrings",
@@ -30175,8 +30160,7 @@
         "progress",
         "blob",
         "rainbow",
-        "hdrcde",
-        "ks"
+        "hdrcde"
     ],
     "uncoverappLib": [
         "shiny",
@@ -33225,10 +33209,7 @@
         "TH.data",
         "pillar"
     ],
-    "feature": [
-        "ks"
-    ],
-    "ks": [],
+    "feature": [],
     "airway": [
         "SummarizedExperiment",
         "GenomicRanges"
@@ -33707,7 +33688,6 @@
         "fds",
         "rainbow",
         "hdrcde",
-        "ks",
         "ggplot2",
         "tibble",
         "pillar"
@@ -33715,20 +33695,17 @@
     "fds": [
         "rainbow",
         "hdrcde",
-        "ks",
         "ggplot2",
         "tibble",
         "pillar"
     ],
     "rainbow": [
         "hdrcde",
-        "ks",
         "ggplot2",
         "tibble",
         "pillar"
     ],
     "hdrcde": [
-        "ks",
         "ggplot2",
         "tibble",
         "pillar"
