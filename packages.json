@@ -1374,7 +1374,6 @@
         "ggplot2",
         "ggsci",
         "superheat",
-        "drtmle",
         "ggdendro"
     ],
     "biovizBase": [
@@ -18634,7 +18633,6 @@
         "ggplot2",
         "ggdendro"
     ],
-    "drtmle": [],
     "biscuiteerData": [
         "ExperimentHub",
         "AnnotationHub",
