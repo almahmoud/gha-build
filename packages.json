@@ -5,7 +5,6 @@
         "a4Core",
         "annaffy",
         "genefilter",
-        "pamr",
         "GO.db",
         "AnnotationDbi",
         "annotate",
@@ -27,8 +26,7 @@
         "blob"
     ],
     "a4Classif": [
-        "a4Core",
-        "pamr"
+        "a4Core"
     ],
     "a4Core": [],
     "ABarray": [],
@@ -5648,7 +5646,6 @@
         "progress",
         "BiocFileCache",
         "annotate",
-        "pamr",
         "GenomicRanges",
         "prodlim",
         "ipred",
@@ -10517,7 +10514,6 @@
         "arm",
         "tibble",
         "testthat",
-        "pamr",
         "GenomicRanges",
         "lme4",
         "recipes",
@@ -10812,7 +10808,6 @@
         "AnnotationDbi",
         "progress",
         "BiocFileCache",
-        "pamr",
         "prodlim",
         "ipred",
         "RSQLite",
@@ -17417,7 +17412,6 @@
         "caret",
         "ggplot2",
         "testthat",
-        "pamr",
         "DESeq2",
         "SummarizedExperiment",
         "recipes",
@@ -20627,7 +20621,6 @@
         "ggsci",
         "ggsignif",
         "rstatix",
-        "pamr",
         "lava",
         "clock",
         "hardhat",
@@ -23927,9 +23920,7 @@
         "prodlim",
         "lava"
     ],
-    "Rmagpie": [
-        "pamr"
-    ],
+    "Rmagpie": [],
     "RMassBank": [
         "MSnbase",
         "webchem",
@@ -26605,7 +26596,6 @@
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
-        "pamr",
         "car",
         "prodlim",
         "ipred",
@@ -31152,7 +31142,6 @@
         "Biostrings",
         "blob"
     ],
-    "pamr": [],
     "GO.db": [
         "AnnotationDbi",
         "RSQLite",
@@ -33270,9 +33259,7 @@
         "tibble",
         "tidyselect"
     ],
-    "iC10": [
-        "pamr"
-    ],
+    "iC10": [],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "minfi",
         "GenomicRanges",
