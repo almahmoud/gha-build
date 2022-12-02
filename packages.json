@@ -13304,7 +13304,6 @@
         "AnnotationDbi",
         "annotate"
     ],
-    "packFinder": [],
     "padma": [
         "SummarizedExperiment",
         "FactoMineR",
