@@ -5362,7 +5362,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "GSCA": [],
     "gscreend": [
         "nloptr",
         "testthat",
