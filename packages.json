@@ -204,7 +204,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "callr",
         "waldo",
         "RSQLite",
         "sass",
@@ -752,7 +751,6 @@
         "doParallel",
         "dplyr",
         "ComplexHeatmap",
-        "callr",
         "BiocFileCache",
         "DT",
         "MultiAssayExperiment",
@@ -920,7 +918,6 @@
         "pheatmap",
         "ggrastr",
         "ggrepel",
-        "callr",
         "waldo",
         "tidytree",
         "ScaledMatrix",
@@ -1724,7 +1721,6 @@
         "XVector",
         "GenomeInfoDb",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -1823,7 +1819,6 @@
         "viridis",
         "testthat",
         "htmlwidgets",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -2027,7 +2022,6 @@
         "openssl",
         "RcppEigen",
         "vroom",
-        "callr",
         "rmarkdown",
         "restfulr",
         "selectr",
@@ -2204,7 +2198,6 @@
         "vctrs",
         "htmlwidgets",
         "TFBSTools",
-        "callr",
         "waldo",
         "blob",
         "pillar",
@@ -2355,7 +2348,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -2573,7 +2565,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "callr",
         "pillar"
     ],
     "barcodetrackR": [
@@ -2735,7 +2726,6 @@
         "tibble",
         "vctrs",
         "rhdf5",
-        "callr",
         "htmlwidgets",
         "httpuv",
         "fontawesome",
@@ -2816,7 +2806,6 @@
         "survival",
         "httr",
         "tidyr",
-        "callr",
         "RSQLite",
         "KEGGREST",
         "openssl",
@@ -3169,7 +3158,6 @@
         "RcppML",
         "pheatmap",
         "ggrastr",
-        "callr",
         "waldo",
         "ScaledMatrix",
         "rsvd",
@@ -3540,7 +3528,6 @@
         "nloptr",
         "survival",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -3680,7 +3667,6 @@
         "BiocParallel",
         "testthat",
         "futile.logger",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -3809,7 +3795,6 @@
         "httr",
         "hms",
         "blob",
-        "callr",
         "waldo",
         "vctrs",
         "pillar",
@@ -3829,7 +3814,6 @@
         "httr",
         "hms",
         "blob",
-        "callr",
         "waldo",
         "vctrs",
         "pillar",
@@ -3849,7 +3833,6 @@
         "httr",
         "hms",
         "blob",
-        "callr",
         "waldo",
         "vctrs",
         "pillar",
@@ -3864,7 +3847,6 @@
         "RSQLite",
         "openssl",
         "progress",
-        "callr",
         "waldo",
         "dbplyr",
         "dplyr",
@@ -3889,7 +3871,6 @@
         "httr",
         "hms",
         "blob",
-        "callr",
         "waldo",
         "vctrs",
         "pillar",
@@ -3909,7 +3890,6 @@
         "httr",
         "hms",
         "blob",
-        "callr",
         "waldo",
         "vctrs",
         "pillar",
@@ -3929,7 +3909,6 @@
         "httr",
         "hms",
         "blob",
-        "callr",
         "waldo",
         "vctrs",
         "pillar",
@@ -3949,7 +3928,6 @@
         "httr",
         "hms",
         "blob",
-        "callr",
         "waldo",
         "vctrs",
         "pillar",
@@ -3964,7 +3942,6 @@
         "RSQLite",
         "openssl",
         "progress",
-        "callr",
         "waldo",
         "dbplyr",
         "dplyr",
@@ -3989,7 +3966,6 @@
         "httr",
         "hms",
         "blob",
-        "callr",
         "waldo",
         "vctrs",
         "pillar",
@@ -4621,7 +4597,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "callr",
         "waldo",
         "RSQLite",
         "AnnotationDbi",
@@ -5188,7 +5163,6 @@
         "GenomicRanges",
         "DelayedArray",
         "shiny",
-        "callr",
         "bslib",
         "downlit",
         "httr",
@@ -5776,7 +5750,6 @@
         "broom",
         "textshaping",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -6334,7 +6307,6 @@
         "tidyr",
         "tidyselect",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -6578,7 +6550,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "callr",
         "waldo",
         "car",
         "rematch2",
@@ -6725,7 +6696,6 @@
         "RcppEigen",
         "nloptr",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -7588,7 +7558,6 @@
         "ragg",
         "RcppEigen",
         "selectr",
-        "callr",
         "textshaping"
     ],
     "chromstaR": [
@@ -8395,7 +8364,6 @@
         "vctrs",
         "bslib",
         "jquerylib",
-        "callr",
         "waldo",
         "sass",
         "pillar",
@@ -8592,7 +8560,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "callr",
         "waldo",
         "futile.logger",
         "sass",
@@ -8797,7 +8764,6 @@
         "mgcv",
         "scales",
         "shiny",
-        "callr",
         "bslib",
         "downlit",
         "httr",
@@ -9061,7 +9027,6 @@
         "sass",
         "SummarizedExperiment",
         "hms",
-        "callr",
         "waldo",
         "DelayedArray",
         "rematch2"
@@ -9342,7 +9307,6 @@
         "nloptr",
         "survival",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -10884,7 +10848,6 @@
         "survival",
         "viridis",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -11001,7 +10964,6 @@
         "quantreg",
         "prodlim",
         "broom",
-        "callr",
         "waldo",
         "lava",
         "rematch2",
@@ -11058,7 +11020,6 @@
         "testthat",
         "broom",
         "lava",
-        "callr",
         "waldo",
         "future.apply",
         "rematch2",
@@ -11343,7 +11304,6 @@
         "blob",
         "restfulr",
         "lava",
-        "callr",
         "waldo",
         "future.apply",
         "rematch2",
@@ -11436,7 +11396,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "callr",
         "waldo",
         "gert",
         "gh",
@@ -11522,7 +11481,6 @@
         "multcomp",
         "vroom",
         "progress",
-        "callr",
         "rmarkdown",
         "selectr",
         "sn",
@@ -11576,7 +11534,6 @@
         "tidyr",
         "viridis",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -11713,7 +11670,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "callr",
         "tweenr"
     ],
     "DECIPHER": [
@@ -11873,7 +11829,6 @@
         "scales",
         "testthat",
         "DelayedArray",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -12053,7 +12008,6 @@
         "blob",
         "restfulr",
         "DelayedArray",
-        "callr",
         "dbplyr",
         "hms"
     ],
@@ -12542,7 +12496,6 @@
         "broom",
         "survival",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -12571,7 +12524,6 @@
         "GenomeInfoDb",
         "XVector",
         "DelayedArray",
-        "callr",
         "waldo",
         "pillar",
         "httr",
@@ -12821,7 +12773,6 @@
         "testthat",
         "broom",
         "car",
-        "callr",
         "waldo",
         "pbkrtest",
         "quantreg",
@@ -13055,8 +13006,7 @@
         "sass",
         "XVector",
         "openssl",
-        "selectr",
-        "callr"
+        "selectr"
     ],
     "distinct": [
         "Rfast",
@@ -13151,7 +13101,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -13518,7 +13467,6 @@
         "tidyr",
         "tidyselect",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -13558,7 +13506,6 @@
         "DelayedArray",
         "XVector",
         "testthat",
-        "callr",
         "waldo",
         "rematch2",
         "tibble",
@@ -13829,7 +13776,6 @@
         "fontawesome",
         "bslib",
         "sass",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -13963,7 +13909,6 @@
     "EBSeq": [
         "blockmodeling",
         "testthat",
-        "callr",
         "waldo",
         "rematch2",
         "tibble",
@@ -13974,7 +13919,6 @@
         "EBSeq",
         "blockmodeling",
         "testthat",
-        "callr",
         "waldo",
         "rematch2",
         "tibble",
@@ -14046,7 +13990,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "callr",
         "waldo",
         "XVector",
         "GenomeInfoDb",
@@ -14300,7 +14243,6 @@
         "RcppEigen",
         "nloptr",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -14605,7 +14547,6 @@
         "survival",
         "progress",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -14798,7 +14739,6 @@
         "survival",
         "DelayedArray",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -14878,7 +14818,6 @@
         "RcppEigen",
         "survival",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -15606,7 +15545,6 @@
         "pillar",
         "dplyr",
         "tidyselect",
-        "callr",
         "sass",
         "openssl"
     ],
@@ -15737,7 +15675,6 @@
         "bslib",
         "sass",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -16812,7 +16749,6 @@
         "tidyr",
         "viridis",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -16852,7 +16788,6 @@
         "tidyr",
         "viridis",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -16922,7 +16857,6 @@
         "vctrs",
         "pillar",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -16956,7 +16890,6 @@
         "nloptr",
         "survival",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -17184,8 +17117,7 @@
         "hms",
         "blob",
         "restfulr",
-        "annotate",
-        "callr"
+        "annotate"
     ],
     "frenchFISH": [
         "MCMCpack",
@@ -17208,7 +17140,6 @@
         "vctrs",
         "pillar",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -17358,7 +17289,6 @@
         "RcppEigen",
         "survival",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -17516,7 +17446,6 @@
         "progress",
         "MSQC",
         "genefilter",
-        "callr",
         "waldo",
         "pillar",
         "futile.logger",
@@ -17635,7 +17564,6 @@
         "blob",
         "vctrs",
         "shiny",
-        "callr",
         "bslib",
         "downlit",
         "httr",
@@ -17751,7 +17679,6 @@
         "RcppEigen",
         "nloptr",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -17875,7 +17802,6 @@
         "RcppEigen",
         "survival",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -18010,7 +17936,6 @@
         "tidyr",
         "tidyselect",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -18645,7 +18570,6 @@
         "RcppEigen",
         "survival",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -18791,7 +18715,6 @@
         "ggthemes",
         "pheatmap",
         "rrcov",
-        "callr",
         "waldo",
         "XVector",
         "GenomeInfoDb",
@@ -18864,7 +18787,6 @@
         "cellranger",
         "progress",
         "RcppEigen",
-        "callr",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -18936,7 +18858,6 @@
         "nloptr",
         "hms",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -19029,7 +18950,6 @@
         "vctrs",
         "pillar",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -19420,7 +19340,6 @@
         "lme4",
         "nloptr",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -20088,7 +20007,6 @@
         "RcppEigen",
         "broom",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -20145,7 +20063,6 @@
         "DelayedArray",
         "gbutils",
         "XVector",
-        "callr",
         "waldo",
         "rematch2",
         "tibble",
@@ -21016,7 +20933,6 @@
         "survival",
         "Biostrings",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -21456,8 +21372,7 @@
         "httpuv",
         "fontawesome",
         "sass",
-        "selectr",
-        "callr"
+        "selectr"
     ],
     "hyperdraw": [
         "hypergraph",
@@ -21743,7 +21658,6 @@
         "doParallel",
         "blob",
         "igraph",
-        "callr",
         "dbplyr",
         "hms",
         "Rsamtools",
@@ -21822,7 +21736,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "callr",
         "pillar"
     ],
     "igvR": [
@@ -21968,7 +21881,6 @@
         "dbplyr",
         "openssl",
         "hms",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -22083,8 +21995,7 @@
         "jquerylib",
         "sass",
         "tidyselect",
-        "pillar",
-        "callr"
+        "pillar"
     ],
     "immunoClust": [],
     "immunotation": [
@@ -22120,7 +22031,6 @@
         "testthat",
         "htmlwidgets",
         "shiny",
-        "callr",
         "bslib",
         "downlit",
         "httr",
@@ -22339,7 +22249,6 @@
         "RcppEigen",
         "survival",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -22424,7 +22333,6 @@
         "httr",
         "selectr",
         "tibble",
-        "callr",
         "openssl",
         "pillar",
         "vctrs"
@@ -22545,7 +22453,6 @@
         "nloptr",
         "survival",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -22676,7 +22583,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -22865,7 +22771,6 @@
         "textshaping",
         "nloptr",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -23283,7 +23188,6 @@
         "SummarizedExperiment",
         "openssl",
         "hms",
-        "callr",
         "waldo",
         "DelayedArray",
         "rematch2"
@@ -23333,7 +23237,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -23575,7 +23478,6 @@
         "GenomicAlignments",
         "restfulr",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -23653,7 +23555,6 @@
         "shinyBS",
         "shinydashboard",
         "biomaRt",
-        "callr",
         "AnnotationDbi",
         "progress",
         "httr",
@@ -23698,7 +23599,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "callr",
         "waldo",
         "pillar",
         "rematch2"
@@ -23745,7 +23645,6 @@
         "bslib",
         "httpuv",
         "fontawesome",
-        "callr",
         "waldo",
         "sass",
         "rematch2"
@@ -23842,7 +23741,6 @@
         "RcppEigen",
         "survival",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -24003,7 +23901,6 @@
         "blob",
         "openssl",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -24305,8 +24202,7 @@
         "interp",
         "loo",
         "pkgbuild",
-        "pillar",
-        "callr"
+        "pillar"
     ],
     "m6Aboost": [
         "adabag",
@@ -24398,7 +24294,6 @@
         "testthat",
         "broom",
         "tidyr",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -24458,7 +24353,6 @@
         "blob",
         "tidyr",
         "openssl",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -24780,7 +24674,6 @@
         "clock",
         "hardhat",
         "ipred",
-        "callr",
         "rmarkdown",
         "selectr",
         "survival",
@@ -25166,7 +25059,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-        "callr",
         "waldo",
         "openssl",
         "blob",
@@ -25619,7 +25511,6 @@
         "vctrs",
         "pillar",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -25639,7 +25530,6 @@
         "XVector",
         "hms",
         "vroom",
-        "callr",
         "waldo",
         "gert",
         "gh",
@@ -25720,7 +25610,6 @@
         "credentials",
         "openssl",
         "httr",
-        "callr",
         "waldo",
         "progress",
         "rematch2"
@@ -26042,7 +25931,6 @@
         "futile.logger",
         "tidyr",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -26078,7 +25966,6 @@
         "nloptr",
         "survival",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -26357,7 +26244,6 @@
         "lava",
         "hms",
         "latticeExtra",
-        "callr",
         "pillar",
         "tidyselect",
         "interp",
@@ -26602,7 +26488,6 @@
         "RcppEigen",
         "survival",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -26841,7 +26726,6 @@
         "openssl",
         "base64",
         "shiny",
-        "callr",
         "bslib",
         "downlit",
         "ragg",
@@ -27239,7 +27123,6 @@
         "tibble",
         "vctrs",
         "shiny",
-        "callr",
         "bslib",
         "downlit",
         "httr",
@@ -27586,7 +27469,6 @@
         "nloptr",
         "DelayedArray",
         "progress",
-        "callr",
         "RSQLite",
         "KEGGREST",
         "testthat",
@@ -27705,7 +27587,6 @@
         "pheatmap",
         "ggrastr",
         "ggrepel",
-        "callr",
         "waldo",
         "ScaledMatrix",
         "rsvd",
@@ -27859,7 +27740,6 @@
         "jquerylib",
         "httr",
         "selectr",
-        "callr",
         "sass",
         "openssl"
     ],
@@ -27966,7 +27846,6 @@
         "quantreg",
         "fBasics",
         "statip",
-        "callr",
         "waldo",
         "survival",
         "rematch2"
@@ -28460,7 +28339,6 @@
         "clock",
         "hardhat",
         "ipred",
-        "callr",
         "rmarkdown",
         "car",
         "selectr",
@@ -28580,7 +28458,6 @@
         "clock",
         "hardhat",
         "ipred",
-        "callr",
         "rmarkdown",
         "car",
         "selectr",
@@ -28871,7 +28748,6 @@
         "survival",
         "GenomeInfoDb",
         "DelayedArray",
-        "callr",
         "waldo",
         "futile.logger",
         "annotate",
@@ -28959,7 +28835,6 @@
         "survival",
         "testthat",
         "broom",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -29569,7 +29444,6 @@
         "nloptr",
         "survival",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -29904,7 +29778,6 @@
         "Biostrings",
         "testthat",
         "blob",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -29953,7 +29826,6 @@
         "pillar",
         "mgcv",
         "openssl",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -29971,7 +29843,6 @@
         "RcppEigen",
         "testthat",
         "pillar",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -30034,7 +29905,6 @@
         "lmerTest",
         "vroom",
         "progress",
-        "callr",
         "rmarkdown",
         "selectr",
         "pbkrtest",
@@ -30076,7 +29946,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -30181,7 +30050,6 @@
         "prodlim",
         "testthat",
         "lava",
-        "callr",
         "waldo",
         "future.apply",
         "rematch2",
@@ -30227,7 +30095,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -30247,7 +30114,6 @@
         "ggrepel",
         "testthat",
         "pillar",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -30613,7 +30479,6 @@
         "Biostrings",
         "TH.data",
         "sandwich",
-        "callr",
         "downlit",
         "ragg",
         "xopen",
@@ -30750,7 +30615,6 @@
         "KEGGREST",
         "tidyr",
         "textshaping",
-        "callr",
         "waldo",
         "openssl",
         "Biostrings",
@@ -30859,7 +30723,6 @@
         "broom",
         "nloptr",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -30939,7 +30802,6 @@
         "tidyr",
         "tidyselect",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -31230,7 +31092,6 @@
         "GenomeInfoDb",
         "XVector",
         "openssl",
-        "callr",
         "waldo",
         "broom",
         "dbplyr",
@@ -31328,7 +31189,6 @@
         "tidyr",
         "tidyselect",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -32021,7 +31881,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "callr",
         "waldo",
         "rematch2",
         "tibble",
@@ -32120,7 +31979,6 @@
         "interp",
         "testthat",
         "vroom",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -32433,7 +32291,6 @@
         "lme4",
         "htmlwidgets",
         "interp",
-        "callr",
         "waldo",
         "gert",
         "gh",
@@ -32700,7 +32557,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -32780,7 +32636,6 @@
         "rstatix",
         "httr",
         "selectr",
-        "callr",
         "KEGGREST",
         "futile.logger",
         "progress",
@@ -32872,7 +32727,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -32984,7 +32838,6 @@
         "survival",
         "tidyr",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -33004,7 +32857,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "callr",
         "sass",
         "jquerylib",
         "tidyselect",
@@ -33172,7 +33024,6 @@
         "broom",
         "TMB",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -33246,7 +33097,6 @@
         "tibble",
         "vctrs",
         "shiny",
-        "callr",
         "bslib",
         "downlit",
         "httr",
@@ -33466,7 +33316,6 @@
         "RcppEigen",
         "survival",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -33476,7 +33325,6 @@
         "BiocParallel",
         "futile.logger",
         "blockmodeling",
-        "callr",
         "waldo",
         "rematch2",
         "tibble",
@@ -33547,7 +33395,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "callr",
         "dbplyr",
         "hms"
     ],
@@ -33624,7 +33471,6 @@
         "broom",
         "survival",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -33695,7 +33541,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "XVector",
-        "callr",
         "waldo",
         "rematch2",
         "tibble",
@@ -33869,7 +33714,6 @@
         "tweenr",
         "RcppEigen",
         "GO.db",
-        "callr",
         "waldo",
         "httr",
         "Biostrings",
@@ -33968,7 +33812,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "callr",
         "futile.logger",
         "rhdf5",
         "XVector",
@@ -34109,8 +33952,7 @@
         "openssl",
         "Biostrings",
         "hms",
-        "blob",
-        "callr"
+        "blob"
     ],
     "pcaMethods": [],
     "PCAN": [
@@ -34232,7 +34074,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -34614,7 +34455,6 @@
         "XVector",
         "hms",
         "blob",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -34699,7 +34539,6 @@
         "survival",
         "pillar",
         "tidyselect",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -34789,7 +34628,6 @@
         "RcppEigen",
         "survival",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -35278,7 +35116,6 @@
         "RcppEigen",
         "nloptr",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -35307,7 +35144,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "callr",
         "waldo",
         "rematch2",
         "tibble",
@@ -35533,8 +35369,7 @@
         "ggdist",
         "posterior",
         "distributional",
-        "openssl",
-        "callr"
+        "openssl"
     ],
     "PPInfer": [
         "biomaRt",
@@ -35921,7 +35756,6 @@
         "XVector",
         "GenomeInfoDb",
         "openssl",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -36328,7 +36162,6 @@
         "fontawesome",
         "bslib",
         "pillar",
-        "callr",
         "sass",
         "jquerylib",
         "tidyselect",
@@ -36505,7 +36338,6 @@
         "R.utils",
         "broom",
         "selectr",
-        "callr",
         "Biostrings",
         "nloptr",
         "RcppEigen",
@@ -36707,7 +36539,6 @@
         "RcppEigen",
         "nloptr",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -36773,7 +36604,6 @@
         "tibble",
         "vctrs",
         "testthat",
-        "callr",
         "waldo",
         "pillar",
         "rematch2"
@@ -36992,7 +36822,6 @@
         "RcppEigen",
         "pillar",
         "lmtest",
-        "callr",
         "tidyselect",
         "openssl",
         "nloptr",
@@ -37086,7 +36915,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "callr",
         "waldo",
         "RSQLite",
         "KEGGREST",
@@ -37596,7 +37424,6 @@
     "RAREsim": [
         "nloptr",
         "testthat",
-        "callr",
         "waldo",
         "rematch2",
         "tibble",
@@ -38925,7 +38752,6 @@
         "testthat",
         "gmm",
         "sandwich",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -39289,8 +39115,7 @@
         "DelayedArray",
         "hms",
         "loo",
-        "pkgbuild",
-        "callr"
+        "pkgbuild"
     ],
     "RiboProfiling": [
         "Biostrings",
@@ -39460,7 +39285,6 @@
         "futile.logger",
         "tidyr",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -39663,7 +39487,6 @@
         "ComplexHeatmap",
         "AnnotationHub",
         "VennDiagram",
-        "callr",
         "ggplotify",
         "ggprism",
         "RLHub",
@@ -39803,7 +39626,6 @@
         "tibble",
         "vctrs",
         "shiny",
-        "callr",
         "bslib",
         "downlit",
         "httr",
@@ -39913,7 +39735,6 @@
         "vctrs",
         "testthat",
         "RcppEigen",
-        "callr",
         "waldo",
         "pillar",
         "rematch2"
@@ -40305,7 +40126,6 @@
         "blob",
         "tweenr",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -40380,7 +40200,6 @@
         "RcppEigen",
         "BSgenome",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -40687,7 +40506,6 @@
         "TH.data",
         "sandwich",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -40826,7 +40644,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -40902,7 +40719,6 @@
         "vctrs",
         "pillar",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -40938,7 +40754,6 @@
         "vctrs",
         "pillar",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -40976,7 +40791,6 @@
         "tidyr",
         "tidyselect",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -41080,7 +40894,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "callr",
         "waldo",
         "XVector",
         "mgcv",
@@ -41956,7 +41769,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "XVector",
-        "callr",
         "progress"
     ],
     "scDataviz": [
@@ -42089,7 +41901,6 @@
         "XVector",
         "nloptr",
         "RcppEigen",
-        "callr",
         "waldo",
         "pillar",
         "rematch2"
@@ -42113,7 +41924,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "XVector",
-        "callr",
         "waldo",
         "pillar",
         "rematch2"
@@ -42151,8 +41961,7 @@
         "glmnet",
         "survival",
         "futile.logger",
-        "RcppEigen",
-        "callr"
+        "RcppEigen"
     ],
     "scFeatureFilter": [
         "dplyr",
@@ -42316,7 +42125,6 @@
         "selectr",
         "httpuv",
         "fontawesome",
-        "callr",
         "openssl"
     ],
     "scMAGeCK": [
@@ -42418,8 +42226,7 @@
         "interp",
         "pillar",
         "loo",
-        "pkgbuild",
-        "callr"
+        "pkgbuild"
     ],
     "scMET": [
         "rstan",
@@ -42448,7 +42255,6 @@
         "GenomeInfoDb",
         "jquerylib",
         "XVector",
-        "callr",
         "bslib",
         "sass"
     ],
@@ -42746,7 +42552,6 @@
         "pheatmap",
         "ggrastr",
         "ggrepel",
-        "callr",
         "waldo",
         "dbplyr",
         "futile.logger",
@@ -43034,7 +42839,6 @@
         "uwot",
         "httpuv",
         "fontawesome",
-        "callr",
         "ggfun",
         "ggplotify",
         "ape",
@@ -43859,7 +43663,6 @@
         "openssl",
         "base64",
         "multtest",
-        "callr",
         "RSQLite",
         "KEGGREST",
         "biomaRt",
@@ -43976,7 +43779,6 @@
         "nloptr",
         "testthat",
         "pillar",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -44227,7 +44029,6 @@
         "car",
         "DelayedArray",
         "km.ci",
-        "callr",
         "waldo",
         "progress",
         "futile.logger",
@@ -44330,7 +44131,6 @@
         "nloptr",
         "future",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -44770,8 +44570,7 @@
         "StanHeaders",
         "interp",
         "loo",
-        "pkgbuild",
-        "callr"
+        "pkgbuild"
     ],
     "SingleMoleculeFootprinting": [
         "Biostrings",
@@ -45145,7 +44944,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "callr",
         "waldo",
         "rematch2",
         "tibble",
@@ -45608,7 +45406,6 @@
         "nloptr",
         "hms",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -45988,7 +45785,6 @@
         "e1071",
         "blob",
         "openssl",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -46135,8 +45931,7 @@
         "blob",
         "pillar",
         "tidyselect",
-        "openssl",
-        "callr"
+        "openssl"
     ],
     "SplicingFactory": [
         "SummarizedExperiment",
@@ -46314,7 +46109,6 @@
         "clock",
         "hardhat",
         "ipred",
-        "callr",
         "rmarkdown",
         "car",
         "selectr",
@@ -46570,7 +46364,6 @@
         "vctrs",
         "interp",
         "shiny",
-        "callr",
         "bslib",
         "downlit",
         "ragg",
@@ -46934,7 +46727,6 @@
         "openssl",
         "vroom",
         "progress",
-        "callr",
         "rmarkdown",
         "selectr",
         "classInt",
@@ -47253,7 +47045,6 @@
     "Summix": [
         "nloptr",
         "testthat",
-        "callr",
         "waldo",
         "rematch2",
         "tibble",
@@ -47332,7 +47123,6 @@
         "hms",
         "vroom",
         "segmented",
-        "callr",
         "waldo",
         "RSQLite",
         "KEGGREST",
@@ -47386,7 +47176,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -47624,7 +47413,6 @@
         "sandwich",
         "vroom",
         "progress",
-        "callr",
         "rmarkdown",
         "selectr",
         "classInt",
@@ -47666,7 +47454,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -47701,7 +47488,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "callr",
         "waldo",
         "SummarizedExperiment",
         "BiocParallel",
@@ -47871,7 +47657,6 @@
         "RcppEigen",
         "survival",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -47975,7 +47760,6 @@
         "RcppEigen",
         "survival",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -48259,7 +48043,6 @@
         "nloptr",
         "future",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -49085,7 +48868,6 @@
         "RcppEigen",
         "blob",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -49673,7 +49455,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "callr",
         "waldo",
         "broom",
         "car",
@@ -50607,7 +50388,6 @@
         "tidyselect",
         "pillar",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -51000,7 +50780,6 @@
         "hms",
         "vroom",
         "blob",
-        "callr",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -51303,7 +51082,6 @@
         "mgcv",
         "scales",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -51868,7 +51646,6 @@
         "blob",
         "openssl",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -52096,7 +51873,6 @@
         "RcppEigen",
         "survival",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -52117,7 +51893,6 @@
         "jquerylib"
     ],
     "testthat": [
-        "callr",
         "waldo",
         "rematch2",
         "tibble",
@@ -52159,11 +51934,9 @@
         "RcppEigen",
         "survival",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
-    "callr": [],
     "waldo": [
         "rematch2",
         "tibble",
@@ -52199,7 +51972,6 @@
         "vctrs",
         "pillar",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -52223,7 +51995,6 @@
         "mgcv",
         "scales",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -52234,7 +52005,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "callr",
         "waldo",
         "rematch2",
         "tibble",
@@ -52243,7 +52013,6 @@
     ],
     "nloptr": [
         "testthat",
-        "callr",
         "waldo",
         "rematch2",
         "tibble",
@@ -52592,7 +52361,6 @@
         "RcppEigen",
         "testthat",
         "pillar",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -53353,7 +53121,6 @@
         "openssl",
         "vroom",
         "progress",
-        "callr",
         "rmarkdown",
         "selectr",
         "bslib",
@@ -53553,7 +53320,6 @@
         "scales"
     ],
     "reprex": [
-        "callr",
         "rmarkdown",
         "bslib",
         "jquerylib",
@@ -53625,7 +53391,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -53686,16 +53451,13 @@
         "scales",
         "tibble",
         "vctrs",
-        "callr",
         "pillar"
     ],
     "StanHeaders": [
         "RcppEigen"
     ],
     "loo": [],
-    "pkgbuild": [
-        "callr"
-    ],
+    "pkgbuild": [],
     "prettydoc": [
         "rmarkdown",
         "bslib",
@@ -53774,15 +53536,12 @@
         "httr",
         "tidyr",
         "dplyr",
-        "callr",
         "tidyselect",
         "pillar",
         "openssl"
     ],
     "seriation": [],
-    "webshot": [
-        "callr"
-    ],
+    "webshot": [],
     "egg": [
         "ggplot2",
         "mgcv",
@@ -53971,7 +53730,6 @@
         "RcppEigen",
         "survival",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -54608,7 +54366,6 @@
         "roxygen2",
         "testthat",
         "shiny",
-        "callr",
         "bslib",
         "downlit",
         "httr",
@@ -54633,7 +54390,6 @@
     ],
     "pkgdown": [
         "bslib",
-        "callr",
         "downlit",
         "httr",
         "ragg",
@@ -54650,7 +54406,6 @@
         "htmlwidgets"
     ],
     "rcmdcheck": [
-        "callr",
         "pkgbuild",
         "xopen"
     ],
@@ -54709,7 +54464,6 @@
         "vctrs",
         "pillar",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -54784,7 +54538,6 @@
         "tidyr",
         "tidyselect",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -55376,7 +55129,6 @@
         "httr",
         "selectr",
         "tibble",
-        "callr",
         "sass",
         "openssl",
         "pillar",
@@ -55559,7 +55311,6 @@
         "RcppEigen",
         "survival",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -55948,7 +55699,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "callr",
         "waldo",
         "rematch2",
         "tibble",
@@ -55981,7 +55731,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "callr",
         "waldo",
         "rematch2",
         "tibble",
@@ -56014,7 +55763,6 @@
         "R.utils",
         "testthat",
         "usethis",
-        "callr",
         "waldo",
         "gert",
         "gh",
@@ -56082,7 +55830,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "callr",
         "waldo",
         "rematch2",
         "tibble",
@@ -56203,7 +55950,6 @@
         "vctrs",
         "pillar",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -56553,7 +56299,6 @@
         "vctrs",
         "pillar",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -56609,7 +56354,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -56705,8 +56449,7 @@
         "sass",
         "mgcv",
         "openssl",
-        "hms",
-        "callr"
+        "hms"
     ],
     "shinybusy": [
         "shiny",
@@ -57111,7 +56854,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "callr",
         "pillar"
     ],
     "densEstBayes": [
@@ -57126,7 +56868,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "callr",
         "pillar"
     ],
     "adabag": [
@@ -57163,7 +56904,6 @@
         "RcppEigen",
         "nloptr",
         "testthat",
-        "callr",
         "waldo",
         "rematch2",
         "tibble",
@@ -57787,7 +57527,6 @@
         "prodlim",
         "testthat",
         "lava",
-        "callr",
         "waldo",
         "future.apply",
         "rematch2",
@@ -57884,7 +57623,6 @@
         "testthat",
         "openssl",
         "shiny",
-        "callr",
         "bslib",
         "downlit",
         "ragg",
@@ -57915,7 +57653,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "callr",
         "waldo",
         "rematch2",
         "tibble",
@@ -58027,7 +57764,6 @@
         "pillar",
         "tidyr",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
@@ -58183,7 +57919,6 @@
         "RcppEigen",
         "nloptr",
         "testthat",
-        "callr",
         "waldo",
         "rematch2",
         "tibble",
@@ -58206,7 +57941,6 @@
         "RcppEigen",
         "nloptr",
         "testthat",
-        "callr",
         "waldo",
         "rematch2",
         "tibble",
@@ -58900,9 +58634,7 @@
     "copula": [],
     "proxyC": [],
     "extRemes": [],
-    "torch": [
-        "callr"
-    ],
+    "torch": [],
     "sparsepca": [
         "rsvd"
     ],
@@ -59051,7 +58783,6 @@
         "nloptr",
         "RcppEigen",
         "testthat",
-        "callr",
         "waldo",
         "rematch2"
     ],
