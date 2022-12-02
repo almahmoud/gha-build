@@ -714,10 +714,8 @@
     "cpvSNP": [
         "GenomicFeatures"
     ],
-    "crisprBowtie": [],
     "crisprBwa": [],
     "crisprDesign": [
-        "crisprBowtie",
         "crisprScore",
         "GenomicFeatures",
         "VariantAnnotation",
@@ -737,7 +735,6 @@
         "regioneR"
     ],
     "crisprVerse": [
-        "crisprBowtie",
         "crisprScore",
         "crisprDesign",
         "crisprViz",
@@ -752,7 +749,6 @@
         "crisprDesign",
         "GenomicFeatures",
         "Gviz",
-        "crisprBowtie",
         "crisprScore",
         "VariantAnnotation",
         "ensembldb",
