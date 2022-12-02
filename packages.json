@@ -1764,7 +1764,6 @@
         "GOstats"
     ],
     "miRSM": [
-        "BiBitR",
         "miRspongeR",
         "SPONGE",
         "clusterProfiler",
@@ -3310,7 +3309,6 @@
         "OrganismDbi"
     ],
     "HardyWeinberg": [],
-    "BiBitR": [],
     "cvms": [
         "lme4"
     ],
