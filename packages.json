@@ -67995,7 +67995,6 @@
         "pillar"
     ],
     "ramwas": [
-        "filematrix",
         "glmnet",
         "GenomicAlignments",
         "Rsamtools",
@@ -107247,7 +107246,6 @@
     "ExtDist": [
         "optimx"
     ],
-    "filematrix": [],
     "googleVis": [],
     "phastCons100way.UCSC.hg19": [
         "GenomicScores",
