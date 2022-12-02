@@ -8174,7 +8174,6 @@
         "dplyr",
         "tidyr",
         "readr",
-        "bsplus",
         "shinyvalidate",
         "shinythemes",
         "shinyFiles",
@@ -15364,7 +15363,6 @@
         "shinydashboard",
         "shinycssloaders",
         "shinyWidgets",
-        "bsplus",
         "tidyr",
         "BiocFileCache",
         "rtracklayer",
@@ -16575,7 +16573,6 @@
     "systemPipeShiny": [
         "spsComps",
         "drawer",
-        "bsplus",
         "dplyr",
         "ggplot2",
         "plotly",
@@ -19463,7 +19460,6 @@
     "sortable": [
         "learnr"
     ],
-    "bsplus": [],
     "shinyvalidate": [],
     "learnr": [],
     "reldist": [
@@ -20194,9 +20190,7 @@
         "shinytoastr",
         "shinyAce"
     ],
-    "drawer": [
-        "bsplus"
-    ],
+    "drawer": [],
     "GenKern": [],
     "ttservice": [
         "dplyr"
