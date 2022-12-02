@@ -1012,7 +1012,6 @@
         "biomaRt"
     ],
     "ChromSCape": [
-        "shinydashboardPlus",
         "plotly",
         "batchelor",
         "scran",
@@ -5183,7 +5182,6 @@
     ],
     "pRolocGUI": [
         "pRoloc",
-        "shinydashboardPlus",
         "MLInterfaces",
         "caret",
         "biomaRt",
@@ -6707,8 +6705,7 @@
     ],
     "systemPipeR": [],
     "systemPipeShiny": [
-        "plotly",
-        "shinydashboardPlus"
+        "plotly"
     ],
     "systemPipeTools": [
         "DESeq2",
@@ -7594,7 +7591,6 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "shinydashboardPlus": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome"
