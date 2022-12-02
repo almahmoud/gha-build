@@ -5347,7 +5347,6 @@
         "Rsamtools",
         "latticeExtra",
         "GenomicAlignments",
-        "DDRTree",
         "leidenbase",
         "qlcMatrix",
         "viridis",
@@ -20298,7 +20297,6 @@
     ],
     "monocle": [
         "ggplot2",
-        "DDRTree",
         "leidenbase",
         "tibble",
         "dplyr",
@@ -34987,7 +34985,6 @@
         "RSpectra",
         "monocle",
         "ggplot2",
-        "DDRTree",
         "leidenbase",
         "tibble",
         "dplyr",
@@ -38240,7 +38237,6 @@
         "shiny",
         "bslib"
     ],
-    "DDRTree": [],
     "leidenbase": [],
     "qlcMatrix": [],
     "propr": [],
