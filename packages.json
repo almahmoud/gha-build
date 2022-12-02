@@ -24757,7 +24757,6 @@
         "blob",
         "spatstat.random"
     ],
-    "scTHI": [],
     "scTreeViz": [
         "epivizr",
         "SummarizedExperiment",
