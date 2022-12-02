@@ -21,7 +21,6 @@
         "mia"
     ],
     "appreci8R": [
-        "Homo.sapiens",
         "PolyPhen.Hsapiens.dbSNP131",
         "SIFT.Hsapiens.dbSNP137"
     ],
@@ -43,7 +42,6 @@
     ],
     "ATACCoGAPS": [
         "rGREAT",
-        "Homo.sapiens",
         "Mus.musculus"
     ],
     "atSNP": [],
@@ -82,8 +80,7 @@
         "Gviz"
     ],
     "biscuiteer": [
-        "Mus.musculus",
-        "Homo.sapiens"
+        "Mus.musculus"
     ],
     "BitSeq": [],
     "BOBaFIT": [
@@ -381,7 +378,6 @@
         "ReactomePA"
     ],
     "epimutacions": [
-        "Homo.sapiens",
         "Gviz",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
@@ -390,7 +386,6 @@
     ],
     "epivizrStandalone": [],
     "erma": [
-        "Homo.sapiens",
         "GenomicFiles"
     ],
     "esATAC": [
@@ -545,9 +540,7 @@
         "car",
         "pbkrtest"
     ],
-    "GSReg": [
-        "Homo.sapiens"
-    ],
+    "GSReg": [],
     "Gviz": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -667,7 +660,6 @@
     "MBECS": [],
     "mBPCR": [],
     "mCSEA": [
-        "Homo.sapiens",
         "Gviz"
     ],
     "MEAL": [
@@ -1343,8 +1335,7 @@
     ],
     "UMI4Cats": [],
     "uncoverappLib": [
-        "Gviz",
-        "Homo.sapiens"
+        "Gviz"
     ],
     "Uniquorn": [],
     "VAExprs": [
@@ -1399,7 +1390,6 @@
         "pbkrtest"
     ],
     "pbkrtest": [],
-    "Homo.sapiens": [],
     "PolyPhen.Hsapiens.dbSNP131": [],
     "SIFT.Hsapiens.dbSNP137": [],
     "mGSZ": [],
