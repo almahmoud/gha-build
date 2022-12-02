@@ -4914,7 +4914,6 @@
         "spatstat.random",
         "spatstat.sparse",
         "mitools",
-        "SnowballC",
         "tidytree",
         "dqrng",
         "NADA",
@@ -7680,7 +7679,6 @@
         "AnnotationDbi",
         "progress",
         "stringr",
-        "SnowballC",
         "httpuv",
         "fontawesome",
         "htmltools",
@@ -9351,7 +9349,6 @@
         "IRanges",
         "RSQLite",
         "KEGGREST",
-        "SnowballC",
         "Matrix",
         "httr",
         "Biostrings",
@@ -9972,8 +9969,7 @@
     "CellScore": [
         "Biobase",
         "gplots",
-        "lsa",
-        "SnowballC"
+        "lsa"
     ],
     "CellTrails": [
         "SingleCellExperiment",
@@ -15114,7 +15110,6 @@
         "futile.logger",
         "Matrix",
         "IRanges",
-        "SnowballC",
         "GenomicRanges",
         "DelayedArray",
         "tidyr",
@@ -18418,7 +18413,6 @@
         "config",
         "processx",
         "tfautograph",
-        "SnowballC",
         "tm",
         "text2vec",
         "textstem",
@@ -28070,7 +28064,6 @@
         "GO.db",
         "dplyr",
         "networkD3",
-        "SnowballC",
         "tm",
         "wordcloud",
         "AnnotationDbi",
@@ -28834,7 +28827,6 @@
         "koRpus",
         "lexicon",
         "quanteda",
-        "SnowballC",
         "textclean",
         "textshape",
         "tidyselect",
@@ -31150,8 +31142,7 @@
         "scales",
         "Matrix",
         "purrr",
-        "tokenizers",
-        "SnowballC"
+        "tokenizers"
     ],
     "gsean": [
         "fgsea",
@@ -32911,7 +32902,6 @@
         "aws.s3",
         "tidytext",
         "memoise",
-        "SnowballC",
         "tibble",
         "httr",
         "styler",
@@ -52484,7 +52474,6 @@
         "rstatix",
         "gridtext",
         "pamr",
-        "SnowballC",
         "lava",
         "clock",
         "hardhat",
@@ -53024,7 +53013,6 @@
         "lambda.r",
         "RCurl",
         "XVector",
-        "SnowballC",
         "gplots",
         "igraph",
         "relations",
@@ -57534,7 +57522,6 @@
         "lambda.r",
         "RCurl",
         "XVector",
-        "SnowballC",
         "tidyr",
         "gplots",
         "igraph",
@@ -59594,7 +59581,6 @@
         "foreach",
         "survival",
         "RcppEigen",
-        "SnowballC",
         "rngtools",
         "stringr",
         "doParallel",
@@ -75459,7 +75445,6 @@
         "lambda.r",
         "RCurl",
         "XVector",
-        "SnowballC",
         "gplots",
         "igraph",
         "relations",
@@ -76731,7 +76716,6 @@
         "koRpus",
         "lexicon",
         "quanteda",
-        "SnowballC",
         "textclean",
         "textshape",
         "lifecycle",
@@ -77430,7 +77414,6 @@
         "tzdb",
         "RcppTOML",
         "here",
-        "SnowballC",
         "tm",
         "text2vec",
         "textstem",
@@ -78219,7 +78202,6 @@
         "koRpus",
         "lexicon",
         "quanteda",
-        "SnowballC",
         "textclean",
         "textshape",
         "tidyr",
@@ -79129,7 +79111,6 @@
         "lambda.r",
         "RCurl",
         "XVector",
-        "SnowballC",
         "gplots",
         "igraph",
         "relations",
@@ -82709,8 +82690,7 @@
         "tokenizers",
         "vctrs",
         "tidyselect",
-        "pillar",
-        "SnowballC"
+        "pillar"
     ],
     "optimr": [
         "optextras",
@@ -82727,9 +82707,7 @@
         "survival",
         "mitools"
     ],
-    "tokenizers": [
-        "SnowballC"
-    ],
+    "tokenizers": [],
     "softImpute": [
         "Matrix"
     ],
@@ -82745,7 +82723,6 @@
         "optextras"
     ],
     "mitools": [],
-    "SnowballC": [],
     "sjmisc": [
         "dplyr",
         "purrr",
@@ -83875,9 +83852,7 @@
         "RcppEigen",
         "highr"
     ],
-    "lsa": [
-        "SnowballC"
-    ],
+    "lsa": [],
     "BSgenome.Hsapiens.UCSC.hg38": [
         "BSgenome",
         "IRanges",
@@ -86359,7 +86334,6 @@
         "koRpus",
         "lexicon",
         "quanteda",
-        "SnowballC",
         "textclean",
         "textshape",
         "lifecycle",
@@ -86409,7 +86383,6 @@
     ],
     "quanteda": [
         "Matrix",
-        "SnowballC",
         "RcppArmadillo"
     ],
     "textclean": [
@@ -87625,7 +87598,6 @@
     "available": [
         "tidytext",
         "memoise",
-        "SnowballC",
         "tibble",
         "cachem",
         "lifecycle",
