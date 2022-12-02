@@ -332,8 +332,7 @@
     ],
     "BitSeq": [],
     "blacksheepr": [
-        "pasilla",
-        "DEXSeq"
+        "pasilla"
     ],
     "BloodGen3Module": [],
     "bnbc": [],
@@ -1003,7 +1002,6 @@
     ],
     "DEsubs": [],
     "DExMA": [],
-    "DEXSeq": [],
     "DiffBind": [
         "GreyListChIP"
     ],
@@ -1019,7 +1017,6 @@
     ],
     "diffHic": [],
     "diffUTR": [
-        "DEXSeq",
         "ensembldb",
         "GenomicFeatures"
     ],
@@ -1903,8 +1900,7 @@
         "nloptr"
     ],
     "IntEREst": [
-        "GenomicFeatures",
-        "DEXSeq"
+        "GenomicFeatures"
     ],
     "iPath": [
         "ggpubr",
@@ -1946,7 +1942,6 @@
     "isobar": [],
     "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
-        "DEXSeq",
         "tximeta",
         "GenomicFeatures",
         "ensembldb"
@@ -4482,9 +4477,7 @@
     ],
     "synaptome.data": [],
     "biscuiteerData": [],
-    "pasilla": [
-        "DEXSeq"
-    ],
+    "pasilla": [],
     "GenomicState": [
         "GenomicFeatures",
         "bumphunter",
