@@ -1079,7 +1079,6 @@
         "ensembldb",
         "GenomicFeatures"
     ],
-    "DrugVsDisease": [],
     "DSS": [
         "bsseq"
     ],
