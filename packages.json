@@ -33,7 +33,6 @@
         "OrganismDbi",
         "ensembldb"
     ],
-    "alevinQC": [],
     "AllelicImbalance": [
         "VariantAnnotation",
         "GenomicFeatures",
