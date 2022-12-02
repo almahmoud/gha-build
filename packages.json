@@ -26,7 +26,6 @@
         "TreeSummarizedExperiment",
         "lmerTest"
     ],
-    "annotatr": [],
     "APAlyzer": [],
     "APL": [],
     "appreci8R": [
@@ -115,8 +114,7 @@
     "biscuiteer": [
         "Mus.musculus",
         "Homo.sapiens",
-        "dmrseq",
-        "annotatr"
+        "dmrseq"
     ],
     "BitSeq": [],
     "blacksheepr": [],
@@ -455,9 +453,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "dmrseq": [
-        "annotatr"
-    ],
+    "dmrseq": [],
     "DominoEffect": [],
     "Doscheda": [
         "drc",
@@ -1639,9 +1635,7 @@
     "scDDboost": [],
     "schex": [],
     "scMAGeCK": [],
-    "scmeth": [
-        "annotatr"
-    ],
+    "scmeth": [],
     "scone": [
         "RUVSeq"
     ],
