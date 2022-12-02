@@ -2248,8 +2248,7 @@
         "genefilter",
         "GO.db",
         "AnnotationForge",
-        "IRkernel",
-        "IRdisplay"
+        "IRkernel"
     ],
     "cbaf": [
         "BiocFileCache",
@@ -2602,7 +2601,6 @@
         "ggsignif",
         "rstatix",
         "IRkernel",
-        "IRdisplay",
         "KEGGREST",
         "HDO.db",
         "fgsea",
@@ -4797,8 +4795,7 @@
     "DEGraph": [
         "NCIgraph",
         "RCy3",
-        "IRkernel",
-        "IRdisplay"
+        "IRkernel"
     ],
     "DEGreport": [
         "broom",
@@ -6686,8 +6683,7 @@
         "ggthemes",
         "forcats",
         "RCy3",
-        "IRkernel",
-        "IRdisplay"
+        "IRkernel"
     ],
     "FELLA": [
         "KEGGREST"
@@ -10696,7 +10692,6 @@
         "qvalue",
         "tidyr",
         "IRkernel",
-        "IRdisplay",
         "ipred",
         "KEGGREST",
         "HDO.db",
@@ -11916,8 +11911,7 @@
     ],
     "MOGAMUN": [
         "RCy3",
-        "IRkernel",
-        "IRdisplay"
+        "IRkernel"
     ],
     "mogsa": [
         "graphite",
@@ -12887,8 +12881,7 @@
     ],
     "NCIgraph": [
         "RCy3",
-        "IRkernel",
-        "IRdisplay"
+        "IRkernel"
     ],
     "ncRNAtools": [
         "ggplot2"
@@ -13085,7 +13078,6 @@
         "annotate",
         "AnnotationForge",
         "IRkernel",
-        "IRdisplay",
         "sqldf",
         "biomaRt",
         "readr",
@@ -15540,8 +15532,7 @@
         "ggplot2"
     ],
     "RCy3": [
-        "IRkernel",
-        "IRdisplay"
+        "IRkernel"
     ],
     "RDRToolbox": [],
     "ReactomeGraph4R": [
@@ -15786,7 +15777,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "IRkernel",
-        "IRdisplay",
         "Hmisc",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -19912,7 +19902,6 @@
         "ggrepel",
         "SummarizedExperiment",
         "IRkernel",
-        "IRdisplay",
         "cellranger",
         "KEGGREST",
         "dbplyr",
@@ -20193,8 +20182,7 @@
         "RCy3",
         "KEGGREST",
         "dplyr",
-        "IRkernel",
-        "IRdisplay"
+        "IRkernel"
     ],
     "TransView": [],
     "TraRe": [
@@ -22021,10 +22009,7 @@
         "waldo",
         "rematch2"
     ],
-    "IRkernel": [
-        "IRdisplay"
-    ],
-    "IRdisplay": [],
+    "IRkernel": [],
     "rintrojs": [],
     "enrichR": [
         "ggplot2"
