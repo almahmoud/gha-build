@@ -267,7 +267,6 @@
     "cogeqc": [
         "ggtree"
     ],
-    "Cogito": [],
     "comapr": [
         "Gviz",
         "biovizBase"
