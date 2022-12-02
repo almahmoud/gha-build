@@ -1909,7 +1909,6 @@
         "dplyr",
         "rmarkdown",
         "knitr",
-        "clusterCrit",
         "futile.logger",
         "snow",
         "BH",
@@ -76739,7 +76738,6 @@
         "diceR",
         "ggplot2",
         "reshape",
-        "clusterCrit",
         "clValid",
         "glmnet",
         "dplyr",
@@ -99455,7 +99453,6 @@
         "coro",
         "igraph",
         "Matrix",
-        "clusterCrit",
         "psych",
         "glmnet",
         "RhpcBLASctl",
@@ -124373,7 +124370,6 @@
         "pillar",
         "lattice"
     ],
-    "clusterCrit": [],
     "extrafont": [
         "Rttf2pt1"
     ],
@@ -139124,7 +139120,6 @@
         "abind",
         "class",
         "clue",
-        "clusterCrit",
         "clValid",
         "dplyr",
         "ggplot2",
