@@ -17685,7 +17685,6 @@
         "IRanges",
         "HilbertVis",
         "ShortRead",
-        "timsac",
         "XVector",
         "GenomeInfoDb",
         "timeDate",
@@ -134816,7 +134815,6 @@
     ],
     "etrunct": [],
     "invgamma": [],
-    "timsac": [],
     "ChIPXpressData": [
         "bigmemory",
         "Rcpp",
