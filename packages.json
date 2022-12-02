@@ -63084,7 +63084,6 @@
         "zlibbioc"
     ],
     "mCSEA": [
-        "mCSEAdata",
         "Homo.sapiens",
         "biomaRt",
         "fgsea",
@@ -144817,7 +144816,6 @@
         "magrittr",
         "pillar"
     ],
-    "mCSEAdata": [],
     "SmartSVA": [
         "sva",
         "isva",
