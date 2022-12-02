@@ -1461,7 +1461,6 @@
         "SummarizedExperiment",
         "BiocSingular",
         "scuttle",
-        "ResidualMatrix",
         "ScaledMatrix",
         "GenomicRanges"
     ],
@@ -4070,7 +4069,6 @@
         "forcats",
         "BiocSingular",
         "scuttle",
-        "ResidualMatrix",
         "ScaledMatrix",
         "miniUI",
         "tidyselect",
@@ -16835,7 +16833,6 @@
         "scuttle",
         "scran",
         "batchelor",
-        "ResidualMatrix",
         "bluster",
         "GenomicRanges"
     ],
@@ -21267,7 +21264,6 @@
         "GenomicRanges",
         "Biostrings"
     ],
-    "ResidualMatrix": [],
     "RESOLVE": [
         "NMF",
         "Biostrings",
@@ -24422,7 +24418,6 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "BiocSingular",
-        "ResidualMatrix",
         "ScaledMatrix",
         "multipanelfigure",
         "miniUI",
