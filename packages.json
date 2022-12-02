@@ -475,7 +475,6 @@
         "diffcyt",
         "broom.mixed",
         "lme4",
-        "mice",
         "FlowSOM",
         "nloptr",
         "ggpubr",
@@ -1509,8 +1508,7 @@
     "GENESIS": [
         "GWASTools",
         "SeqVarTools",
-        "logistf",
-        "mice"
+        "logistf"
     ],
     "GeneStructureTools": [
         "BSgenome.Mmusculus.UCSC.mm10",
@@ -1709,15 +1707,13 @@
         "VariantAnnotation"
     ],
     "GWASTools": [
-        "logistf",
-        "mice"
+        "logistf"
     ],
     "gwasurvivr": [
         "GWASTools",
         "VariantAnnotation",
         "logistf",
-        "GenomicFeatures",
-        "mice"
+        "GenomicFeatures"
     ],
     "GWENA": [
         "gprofiler2"
@@ -2078,8 +2074,7 @@
     "mbOmic": [],
     "mBPCR": [
         "GWASTools",
-        "logistf",
-        "mice"
+        "logistf"
     ],
     "MCbiclust": [],
     "mCSEA": [
@@ -2337,8 +2332,7 @@
         "ggtreeExtra"
     ],
     "midasHLA": [
-        "HardyWeinberg",
-        "mice"
+        "HardyWeinberg"
     ],
     "MIGSA": [
         "GOstats"
@@ -2778,7 +2772,6 @@
         "SmartSVA",
         "FactoMineR",
         "lme4",
-        "mice",
         "car",
         "nloptr",
         "pbkrtest"
@@ -2929,8 +2922,7 @@
         "logistf",
         "lme4",
         "pbkrtest",
-        "nloptr",
-        "mice"
+        "nloptr"
     ],
     "philr": [
         "ggtree",
@@ -3276,7 +3268,6 @@
     "rexposome": [
         "FactoMineR",
         "lme4",
-        "mice",
         "car",
         "nloptr",
         "pbkrtest"
@@ -3375,8 +3366,7 @@
     "rnaEditr": [
         "bumphunter",
         "logistf",
-        "GenomicFeatures",
-        "mice"
+        "GenomicFeatures"
     ],
     "RNAinteract": [
         "cellHTS2"
@@ -3649,8 +3639,7 @@
     "SeqGSEA": [],
     "SeqSQC": [],
     "SeqVarTools": [
-        "logistf",
-        "mice"
+        "logistf"
     ],
     "sesame": [
         "sesameData"
@@ -3944,7 +3933,6 @@
     "synergyfinder": [
         "drc",
         "tidyverse",
-        "mice",
         "car",
         "pbkrtest",
         "lme4",
@@ -4189,8 +4177,7 @@
     ],
     "VariantExperiment": [
         "SeqVarTools",
-        "logistf",
-        "mice"
+        "logistf"
     ],
     "VariantFiltering": [
         "VariantAnnotation",
@@ -4417,7 +4404,6 @@
         "nloptr"
     ],
     "broom.mixed": [],
-    "mice": [],
     "GenomicTools": [],
     "IlluminaHumanMethylationEPICmanifest": [
         "minfi",
@@ -4532,9 +4518,7 @@
         "lme4",
         "nloptr"
     ],
-    "logistf": [
-        "mice"
-    ],
+    "logistf": [],
     "shinyHeatmaply": [],
     "ggalt": [],
     "HiContactsData": [],
@@ -4576,9 +4560,7 @@
         "OrganismDbi"
     ],
     "ggmcmc": [],
-    "HardyWeinberg": [
-        "mice"
-    ],
+    "HardyWeinberg": [],
     "BSgenome.Hsapiens.UCSC.hg18": [],
     "s4vd": [],
     "BiBitR": [],
