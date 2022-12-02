@@ -40,7 +40,6 @@
         "OrganismDbi",
         "ensembldb"
     ],
-    "airpart": [],
     "alevinQC": [],
     "AllelicImbalance": [
         "VariantAnnotation",
