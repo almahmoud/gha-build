@@ -47211,8 +47211,7 @@
     ],
     "TileDBArray": [
         "DelayedArray",
-        "tiledb",
-        "nanotime"
+        "tiledb"
     ],
     "tilingArray": [
         "strucchange",
@@ -57644,10 +57643,7 @@
         "vctrs",
         "pillar"
     ],
-    "tiledb": [
-        "nanotime"
-    ],
-    "nanotime": [],
+    "tiledb": [],
     "FreqProf": [
         "ggplot2",
         "shiny",
