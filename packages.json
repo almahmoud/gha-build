@@ -69573,7 +69573,6 @@
         "DelayedArray",
         "DelayedMatrixStats",
         "DESeq2",
-        "NetActivityData",
         "SummarizedExperiment",
         "Matrix",
         "BiocGenerics",
@@ -129551,7 +129550,6 @@
         "Rcpp"
     ],
     "mppa": [],
-    "NetActivityData": [],
     "huge": [
         "Matrix",
         "igraph",
