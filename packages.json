@@ -35404,7 +35404,6 @@
         "Gviz",
         "scales",
         "AnnotationDbi",
-        "grImport",
         "htmlwidgets",
         "Rgraphviz",
         "InteractionSet",
@@ -52099,7 +52098,6 @@
         "genefilter",
         "ggplot2",
         "ggdendro",
-        "grImport",
         "gplots",
         "igraph",
         "shiny",
@@ -56198,7 +56196,6 @@
         "scales",
         "IRanges",
         "AnnotationDbi",
-        "grImport",
         "htmlwidgets",
         "Rgraphviz",
         "InteractionSet",
@@ -66063,7 +66060,6 @@
         "jquerylib",
         "memoise"
     ],
-    "grImport": [],
     "scico": [
         "scales"
     ],
