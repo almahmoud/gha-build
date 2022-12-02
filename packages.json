@@ -198,7 +198,6 @@
         "dbplyr",
         "shiny",
         "blob",
-        "xts",
         "Biostrings",
         "httpuv",
         "bslib",
@@ -5253,7 +5252,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "xts",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -5483,7 +5481,6 @@
         "XVector",
         "mgcv",
         "rtracklayer",
-        "xts",
         "TTR",
         "DelayedArray"
     ],
@@ -8636,7 +8633,6 @@
         "BiocParallel",
         "mgcv",
         "broom",
-        "xts",
         "quantmod",
         "tidyr",
         "cellranger",
@@ -9198,7 +9194,6 @@
         "dplyr",
         "tibble",
         "broom",
-        "xts",
         "quantmod",
         "tidyr",
         "BiocParallel",
@@ -9385,7 +9380,6 @@
         "SummarizedExperiment",
         "NMF",
         "DMwR2",
-        "xts",
         "quantmod",
         "dplyr",
         "readr",
@@ -9855,7 +9849,6 @@
         "mgcv",
         "tibble",
         "quantmod",
-        "xts",
         "TTR",
         "pillar"
     ],
@@ -10142,7 +10135,6 @@
         "lme4",
         "pillar",
         "XVector",
-        "xts",
         "nloptr",
         "broom",
         "testthat",
@@ -13348,7 +13340,6 @@
         "SummarizedExperiment",
         "genefilter",
         "illuminaio",
-        "xts",
         "httr",
         "KEGGREST",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -21721,7 +21712,6 @@
         "DelayedArray",
         "HDF5Array",
         "BiocParallel",
-        "xts",
         "broom",
         "dbplyr",
         "dtplyr",
@@ -26531,7 +26521,6 @@
         "webshot",
         "svglite",
         "DelayedArray",
-        "xts",
         "bslib",
         "XVector",
         "dplyr",
@@ -28973,7 +28962,6 @@
         "mgcv",
         "interp",
         "quantmod",
-        "xts",
         "TTR"
     ],
     "proActiv": [
@@ -29386,7 +29374,6 @@
         "mgcv",
         "dplyr",
         "broom",
-        "xts",
         "quantmod",
         "tidyr",
         "httpuv",
@@ -29576,7 +29563,6 @@
         "pillar",
         "mgcv",
         "broom",
-        "xts",
         "quantmod",
         "tidyr",
         "BiocParallel",
@@ -30640,7 +30626,6 @@
         "quantmod",
         "XVector",
         "GenomeInfoDb",
-        "xts",
         "TTR",
         "pillar"
     ],
@@ -32565,7 +32550,6 @@
         "tibble",
         "KEGGgraph",
         "KEGGREST",
-        "xts",
         "ShortRead",
         "RSQLite",
         "pbkrtest",
@@ -38552,7 +38536,6 @@
         "rmarkdown",
         "classInt",
         "s2",
-        "xts",
         "lwgeom",
         "e1071",
         "nloptr",
@@ -42310,12 +42293,9 @@
         "pillar"
     ],
     "smoother": [
-        "TTR",
-        "xts"
+        "TTR"
     ],
-    "TTR": [
-        "xts"
-    ],
+    "TTR": [],
     "dbplyr": [
         "blob",
         "dplyr",
@@ -42323,7 +42303,6 @@
         "tibble",
         "tidyselect"
     ],
-    "xts": [],
     "SAVER": [
         "glmnet"
     ],
@@ -44195,14 +44174,12 @@
         "dplyr",
         "tidyselect",
         "pillar",
-        "mgcv",
-        "xts"
+        "mgcv"
     ],
     "ggpp": [
         "ggplot2",
         "tibble",
         "dplyr",
-        "xts",
         "tidyselect",
         "pillar",
         "mgcv"
@@ -44235,7 +44212,6 @@
         "snpStats"
     ],
     "quantmod": [
-        "xts",
         "TTR"
     ],
     "ChAMPdata": [
@@ -45042,7 +45018,6 @@
         "dplyr",
         "tibble",
         "broom",
-        "xts",
         "quantmod",
         "tidyr",
         "ggplot2",
@@ -45179,7 +45154,6 @@
         "quantreg"
     ],
     "DMwR2": [
-        "xts",
         "quantmod",
         "dplyr",
         "readr",
@@ -45257,7 +45231,6 @@
     ],
     "tseries": [
         "quantmod",
-        "xts",
         "TTR"
     ],
     "imputeLCMD": [
@@ -46311,9 +46284,7 @@
         "hms",
         "DelayedArray"
     ],
-    "PerformanceAnalytics": [
-        "xts"
-    ],
+    "PerformanceAnalytics": [],
     "ggmcmc": [
         "dplyr",
         "tidyr",
@@ -46974,7 +46945,6 @@
         "mgcv",
         "tibble",
         "quantmod",
-        "xts",
         "TTR",
         "pillar"
     ],
@@ -47766,7 +47736,6 @@
         "stars",
         "classInt",
         "s2",
-        "xts",
         "lwgeom",
         "e1071"
     ],
@@ -47784,9 +47753,7 @@
         "s2",
         "e1071"
     ],
-    "spacetime": [
-        "xts"
-    ],
+    "spacetime": [],
     "stars": [
         "sf",
         "classInt",
