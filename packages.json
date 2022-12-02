@@ -7482,7 +7482,6 @@
         "rtracklayer",
         "GenomicAlignments"
     ],
-    "MiRaGE": [],
     "mirIntegrator": [
         "org.Hs.eg.db"
     ],
