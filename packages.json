@@ -3474,7 +3474,6 @@
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
-        "assertive.reflection",
         "assertive.code",
         "knitr",
         "dbplyr",
@@ -45388,7 +45387,6 @@
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
-        "assertive.reflection",
         "assertive.code",
         "knitr",
         "IRanges",
@@ -80231,7 +80229,6 @@
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
-        "assertive.reflection",
         "assertive.code",
         "knitr",
         "highr"
@@ -80258,7 +80255,6 @@
         "assertive.strings",
         "assertive.types"
     ],
-    "assertive.reflection": [],
     "assertive.code": [
         "assertive.types"
     ],
