@@ -264,7 +264,6 @@
         "viridis",
         "MultiAssayExperiment",
         "decontam",
-        "DECIPHER",
         "scuttle",
         "scater",
         "testthat",
@@ -567,9 +566,7 @@
         "dbplyr",
         "viridis"
     ],
-    "AssessORF": [
-        "DECIPHER"
-    ],
+    "AssessORF": [],
     "ASSIGN": [
         "sva",
         "ggplot2",
@@ -965,7 +962,6 @@
         "viridis",
         "MultiAssayExperiment",
         "decontam",
-        "DECIPHER",
         "scuttle",
         "scater",
         "testthat",
@@ -3891,7 +3887,6 @@
         "tidytree",
         "treeio"
     ],
-    "DECIPHER": [],
     "deco": [
         "ggplot2",
         "BiocStyle",
@@ -9420,7 +9415,6 @@
         "TreeSummarizedExperiment",
         "MultiAssayExperiment",
         "decontam",
-        "DECIPHER",
         "scuttle",
         "scater",
         "dplyr",
@@ -9462,7 +9456,6 @@
         "SingleCellExperiment",
         "MultiAssayExperiment",
         "decontam",
-        "DECIPHER",
         "scuttle",
         "ggbeeswarm",
         "ggrastr",
@@ -9540,7 +9533,6 @@
         "viridis",
         "MultiAssayExperiment",
         "decontam",
-        "DECIPHER",
         "scuttle",
         "scater",
         "testthat",
@@ -11511,7 +11503,6 @@
     "openPrimeR": [
         "ggplot2",
         "dplyr",
-        "DECIPHER",
         "Hmisc",
         "viridis"
     ],
@@ -11521,7 +11512,6 @@
         "shinyBS",
         "ggplot2",
         "dplyr",
-        "DECIPHER",
         "Hmisc",
         "viridis"
     ],
@@ -14311,7 +14301,6 @@
         "dplyr"
     ],
     "sangeranalyseR": [
-        "DECIPHER",
         "sangerseqR",
         "shinydashboard",
         "shinyjs",
@@ -14631,7 +14620,6 @@
     "scifer": [
         "dplyr",
         "ggplot2",
-        "DECIPHER",
         "sangerseqR",
         "kableExtra",
         "rvest"
@@ -16417,9 +16405,7 @@
         "testthat",
         "waldo"
     ],
-    "SynExtend": [
-        "DECIPHER"
-    ],
+    "SynExtend": [],
     "synlet": [
         "ggplot2",
         "doBy",
