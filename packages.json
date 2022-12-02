@@ -35,7 +35,6 @@
     "enrichTF": [
         "JASPAR2018"
     ],
-    "epigraHMM": [],
     "epihet": [
         "EntropyExplorer"
     ],
