@@ -4739,7 +4739,6 @@
         "tidytree",
         "treeio"
     ],
-    "PanViz": [],
     "pareg": [
         "tfprobability",
         "tidygraph",
