@@ -1171,7 +1171,6 @@
         "lme4",
         "pbkrtest"
     ],
-    "MACSr": [],
     "MADSEQ": [
         "VariantAnnotation"
     ],
