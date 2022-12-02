@@ -23702,7 +23702,6 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "pkgDepTools": [],
     "planet": [
         "tibble",
         "dplyr",
