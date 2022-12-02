@@ -1884,7 +1884,6 @@
         "RSQLite",
         "ScaledMatrix",
         "beachmat",
-        "maxLik",
         "tibble",
         "scuttle",
         "DelayedMatrixStats",
@@ -8368,8 +8367,7 @@
         "blob"
     ],
     "DEsingle": [
-        "gamlss",
-        "maxLik"
+        "gamlss"
     ],
     "destiny": [
         "RSpectra",
@@ -12038,7 +12036,6 @@
         "dplyr",
         "ggplot2",
         "ggpubr",
-        "maxLik",
         "tibble",
         "AnnotationDbi",
         "progress",
@@ -15409,7 +15406,6 @@
         "qvalue",
         "tidyr",
         "gamlss",
-        "maxLik",
         "tibble",
         "ggrepel",
         "ggsci",
@@ -36142,10 +36138,7 @@
         "tibble",
         "pillar"
     ],
-    "DirichletReg": [
-        "maxLik"
-    ],
-    "maxLik": [],
+    "DirichletReg": [],
     "corncob": [
         "ggplot2",
         "dplyr",
