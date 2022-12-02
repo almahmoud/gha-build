@@ -9609,8 +9609,7 @@
     "satuRn": [],
     "savR": [],
     "SBGNview": [
-        "pathview",
-        "SBGNview.data"
+        "pathview"
     ],
     "SC3": [],
     "Scale4C": [],
@@ -13038,7 +13037,6 @@
         "BiocFileCache"
     ],
     "TBX20BamSubset": [],
-    "SBGNview.data": [],
     "scanMiRData": [
         "scanMiR"
     ],
