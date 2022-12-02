@@ -1332,7 +1332,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "MetID": [],
-    "mfa": [],
     "mia": [
         "TreeSummarizedExperiment"
     ],
