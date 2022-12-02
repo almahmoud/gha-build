@@ -136,7 +136,6 @@
     ],
     "ANCOMBC": [
         "mia",
-        "DescTools",
         "Hmisc",
         "TreeSummarizedExperiment",
         "lme4",
@@ -505,7 +504,6 @@
         "dearseq",
         "corncob",
         "mia",
-        "DescTools",
         "Hmisc",
         "lme4",
         "lmerTest",
@@ -3779,9 +3777,7 @@
     ],
     "goTools": [],
     "GPA": [],
-    "gpuMagic": [
-        "DescTools"
-    ],
+    "gpuMagic": [],
     "GRaNIE": [
         "DESeq2",
         "readr",
@@ -4115,8 +4111,7 @@
         "BiocFileCache"
     ],
     "ILoReg": [
-        "dendextend",
-        "DescTools"
+        "dendextend"
     ],
     "imageHTS": [
         "cellHTS2",
@@ -5196,7 +5191,6 @@
         "ANCOMBC",
         "caret",
         "mia",
-        "DescTools",
         "Hmisc",
         "TreeSummarizedExperiment",
         "lme4",
@@ -7961,7 +7955,6 @@
     ],
     "SCOPE": [
         "BSgenome.Hsapiens.UCSC.hg19",
-        "DescTools",
         "BSgenome",
         "rtracklayer"
     ],
@@ -9692,7 +9685,6 @@
         "BiocFileCache"
     ],
     "readr": [],
-    "DescTools": [],
     "lmerTest": [
         "lme4",
         "nloptr",
