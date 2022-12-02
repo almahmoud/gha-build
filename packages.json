@@ -619,8 +619,7 @@
     "bnem": [
         "epiNEM",
         "mnem",
-        "sva",
-        "Linnorm"
+        "sva"
     ],
     "BOBaFIT": [
         "ggbio",
@@ -1634,7 +1633,6 @@
         "epiNEM",
         "metap",
         "mnem",
-        "Linnorm",
         "broom",
         "haven",
         "modelr",
@@ -2227,8 +2225,7 @@
         "readr"
     ],
     "epiNEM": [
-        "mnem",
-        "Linnorm"
+        "mnem"
     ],
     "epistasisGA": [
         "qgraph"
@@ -3543,7 +3540,6 @@
         "nloptr",
         "testthat"
     ],
-    "Linnorm": [],
     "LinTInd": [
         "ggtree",
         "aplot",
@@ -4365,9 +4361,7 @@
         "testthat",
         "broom"
     ],
-    "mnem": [
-        "Linnorm"
-    ],
+    "mnem": [],
     "moanin": [
         "topGO"
     ],
@@ -4783,8 +4777,7 @@
     ],
     "nempi": [
         "mnem",
-        "epiNEM",
-        "Linnorm"
+        "epiNEM"
     ],
     "NetActivity": [
         "DESeq2"
