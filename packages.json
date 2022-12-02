@@ -1225,7 +1225,6 @@
         "GenomicRanges",
         "projectR",
         "TFBSTools",
-        "GeneOverlap",
         "msigdbr",
         "tidyverse",
         "motifmatchr",
@@ -11650,7 +11649,6 @@
         "blob"
     ],
     "GeneNetworkBuilder": [],
-    "GeneOverlap": [],
     "geneplotter": [
         "annotate",
         "AnnotationDbi",
