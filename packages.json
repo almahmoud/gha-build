@@ -3695,7 +3695,6 @@
         "Seurat"
     ],
     "SPsimSeq": [],
-    "SRAdb": [],
     "srnadiff": [
         "devtools",
         "GenomicFeatures",
