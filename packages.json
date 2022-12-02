@@ -12452,7 +12452,6 @@
         "purrr",
         "IRanges",
         "fields",
-        "MBA",
         "interp",
         "nloptr",
         "broom",
@@ -13241,7 +13240,6 @@
         "IRanges",
         "tidyselect",
         "fields",
-        "MBA",
         "interp",
         "nloptr",
         "RcppEigen",
@@ -19176,7 +19174,6 @@
         "vctrs",
         "pillar",
         "fields",
-        "MBA",
         "interp",
         "nloptr",
         "RcppEigen",
@@ -19226,7 +19223,6 @@
         "vctrs",
         "pillar",
         "fields",
-        "MBA",
         "interp",
         "nloptr",
         "RcppEigen",
@@ -52481,7 +52477,6 @@
         "BSgenome",
         "ggplot2",
         "mgcv",
-        "MBA",
         "survival",
         "XVector",
         "rtracklayer",
@@ -63713,7 +63708,6 @@
         "GEOmap",
         "splancs",
         "fields",
-        "MBA",
         "viridis",
         "ggplot2",
         "mgcv",
@@ -63726,7 +63720,6 @@
     "GEOmap": [
         "splancs",
         "fields",
-        "MBA",
         "viridis",
         "ggplot2",
         "mgcv",
@@ -63745,7 +63738,6 @@
         "vctrs",
         "pillar"
     ],
-    "MBA": [],
     "shinyFeedback": [
         "fontawesome",
         "shiny",
@@ -67647,7 +67639,6 @@
     ],
     "bamlss": [
         "mgcv",
-        "MBA",
         "survival"
     ],
     "dml": [
