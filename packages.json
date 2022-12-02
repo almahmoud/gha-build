@@ -4,7 +4,6 @@
         "a4Preproc",
         "a4Classif",
         "a4Core",
-        "a4Reporting",
         "annaffy",
         "genefilter",
         "multtest",
@@ -76,7 +75,6 @@
         "RcppEigen"
     ],
     "a4Preproc": [],
-    "a4Reporting": [],
     "ABarray": [
         "multtest",
         "survival"
