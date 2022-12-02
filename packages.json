@@ -144,7 +144,6 @@
         "R.utils",
         "Rsamtools",
         "future.apply",
-        "marray",
         "future",
         "globals",
         "RCurl",
@@ -2149,9 +2148,7 @@
         "ellipsis",
         "vroom"
     ],
-    "arrayQuality": [
-        "marray"
-    ],
+    "arrayQuality": [],
     "arrayQualityMetrics": [
         "affy",
         "affyPLM",
@@ -2227,7 +2224,6 @@
         "MSstatsConvert",
         "lme4",
         "survival",
-        "marray",
         "httr",
         "htmlwidgets",
         "crosstalk",
@@ -5818,7 +5814,6 @@
         "regioneR",
         "reshape2",
         "doRNG",
-        "marray",
         "future",
         "globals",
         "biomaRt",
@@ -8816,12 +8811,9 @@
     "CGEN": [
         "survival"
     ],
-    "CGHbase": [
-        "marray"
-    ],
+    "CGHbase": [],
     "CGHcall": [
-        "CGHbase",
-        "marray"
+        "CGHbase"
     ],
     "cghMCR": [
         "CNTools",
@@ -8847,12 +8839,10 @@
     ],
     "CGHnormaliter": [
         "CGHcall",
-        "CGHbase",
-        "marray"
+        "CGHbase"
     ],
     "CGHregions": [
-        "CGHbase",
-        "marray"
+        "CGHbase"
     ],
     "ChAMP": [
         "minfi",
@@ -8868,7 +8858,6 @@
         "rmarkdown",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "marray",
         "wateRmelon",
         "goseq",
         "missMethyl",
@@ -11829,7 +11818,6 @@
         "rtracklayer",
         "biomaRt",
         "SummarizedExperiment",
-        "marray",
         "Gviz",
         "GenomicAlignments",
         "BiocParallel",
@@ -12505,9 +12493,7 @@
         "dbplyr",
         "cachem"
     ],
-    "convert": [
-        "marray"
-    ],
+    "convert": [],
     "copa": [],
     "copynumber": [
         "IRanges",
@@ -12649,7 +12635,6 @@
         "gplots",
         "igraph",
         "relations",
-        "marray",
         "fgsea",
         "shiny",
         "DT",
@@ -17690,9 +17675,7 @@
     "dupRadar": [
         "Rsubread"
     ],
-    "dyebias": [
-        "marray"
-    ],
+    "dyebias": [],
     "easier": [
         "progeny",
         "easierData",
@@ -22983,7 +22966,6 @@
         "CGHcall",
         "CGHbase",
         "GenomicRanges",
-        "marray",
         "IRanges",
         "GenomeInfoDb",
         "XVector",
@@ -26858,7 +26840,6 @@
         "R.utils",
         "Rsamtools",
         "future.apply",
-        "marray",
         "future",
         "globals",
         "RCurl",
@@ -26991,7 +26972,6 @@
         "R.utils",
         "Rsamtools",
         "future.apply",
-        "marray",
         "future",
         "globals",
         "nloptr",
@@ -31858,8 +31838,7 @@
     ],
     "maigesPack": [
         "convert",
-        "graph",
-        "marray"
+        "graph"
     ],
     "MAIT": [
         "CAMERA",
@@ -32055,7 +32034,6 @@
         "RCurl",
         "XVector"
     ],
-    "marray": [],
     "martini": [
         "igraph",
         "snpStats",
@@ -34681,7 +34659,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "Rsamtools",
-        "marray",
         "gplots",
         "IRanges",
         "Gviz",
@@ -35895,7 +35872,6 @@
         "scales",
         "biomaRt",
         "GOstats",
-        "marray",
         "igraph",
         "Rgraphviz",
         "graph",
@@ -38397,7 +38373,6 @@
         "ggplot2",
         "ggrepel",
         "gplots",
-        "marray",
         "lifecycle",
         "mgcv",
         "scales",
@@ -38448,7 +38423,6 @@
         "lme4",
         "survival",
         "gplots",
-        "marray",
         "MSstatsTMT",
         "ellipsis",
         "broom",
@@ -38534,7 +38508,6 @@
         "lme4",
         "survival",
         "gplots",
-        "marray",
         "lmerTest",
         "RCurl",
         "nloptr",
@@ -38660,7 +38633,6 @@
         "survival",
         "ggrepel",
         "gplots",
-        "marray",
         "nloptr",
         "RcppEigen",
         "dplyr",
@@ -38698,7 +38670,6 @@
         "MSstatsPTM",
         "MSstatsConvert",
         "gplots",
-        "marray",
         "DT",
         "ggrepel",
         "tidyr",
@@ -38760,7 +38731,6 @@
         "survival",
         "ggrepel",
         "gplots",
-        "marray",
         "testthat",
         "pillar",
         "callr",
@@ -39044,7 +39014,6 @@
         "R.utils",
         "Rsamtools",
         "future.apply",
-        "marray",
         "future",
         "globals",
         "Biostrings",
@@ -40976,9 +40945,7 @@
         "bit64",
         "progress"
     ],
-    "nnNorm": [
-        "marray"
-    ],
+    "nnNorm": [],
     "nnSVG": [
         "SpatialExperiment",
         "SingleCellExperiment",
@@ -41677,12 +41644,9 @@
         "cachem",
         "lifecycle"
     ],
-    "OLIN": [
-        "marray"
-    ],
+    "OLIN": [],
     "OLINgui": [
-        "OLIN",
-        "marray"
+        "OLIN"
     ],
     "omada": [
         "pdfCluster",
@@ -43817,7 +43781,6 @@
         "tidyr",
         "gplots",
         "relations",
-        "marray",
         "fgsea",
         "shiny",
         "DT",
@@ -44293,7 +44256,6 @@
         "gplots",
         "igraph",
         "relations",
-        "marray",
         "fgsea",
         "shiny",
         "DT",
@@ -44762,7 +44724,6 @@
         "gplots",
         "igraph",
         "relations",
-        "marray",
         "fgsea",
         "shiny",
         "DT",
@@ -47340,7 +47301,6 @@
         "R.utils",
         "Rsamtools",
         "future.apply",
-        "marray",
         "future",
         "globals",
         "GenomeInfoDb",
@@ -48068,7 +48028,6 @@
         "gplots",
         "igraph",
         "relations",
-        "marray",
         "fgsea",
         "shiny",
         "DT",
@@ -48313,9 +48272,7 @@
         "graph"
     ],
     "rBiopaxParser": [],
-    "RBM": [
-        "marray"
-    ],
+    "RBM": [],
     "Rbowtie2": [
         "Rsamtools",
         "GenomeInfoDb",
@@ -58746,7 +58703,6 @@
         "R.utils",
         "Rsamtools",
         "future.apply",
-        "marray",
         "future",
         "globals",
         "Biostrings",
@@ -60181,9 +60137,7 @@
         "ellipsis",
         "purrr"
     ],
-    "stepNorm": [
-        "marray"
-    ],
+    "stepNorm": [],
     "stJoincount": [
         "dplyr",
         "raster",
@@ -61337,7 +61291,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "marray",
         "future",
         "globals",
         "RCurl",
@@ -62467,9 +62420,7 @@
         "cachem",
         "RCurl"
     ],
-    "timecourse": [
-        "marray"
-    ],
+    "timecourse": [],
     "timeOmics": [
         "mixOmics",
         "dplyr",
@@ -63068,7 +63019,6 @@
         "gplots",
         "igraph",
         "relations",
-        "marray",
         "fgsea",
         "shiny",
         "DT",
@@ -64163,7 +64113,6 @@
     ],
     "TurboNorm": [
         "convert",
-        "marray",
         "affy"
     ],
     "tweeDEseq": [
@@ -66128,7 +66077,6 @@
         "gplots",
         "igraph",
         "relations",
-        "marray",
         "fgsea",
         "shiny",
         "DT",
