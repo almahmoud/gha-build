@@ -1040,7 +1040,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "mosbi": [],
     "motifbreakR": [
         "Gviz",
         "biovizBase"
