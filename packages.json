@@ -292,8 +292,7 @@
         "ggbeeswarm",
         "viridis",
         "ggrastr",
-        "ggrepel",
-        "ScaledMatrix"
+        "ggrepel"
     ],
     "ALDEx2": [
         "zCompositions",
@@ -478,7 +477,6 @@
         "ggrepel",
         "waldo",
         "tidytree",
-        "ScaledMatrix",
         "rematch2"
     ],
     "AneuFinder": [
@@ -1419,8 +1417,7 @@
         "tibble",
         "BiocSingular",
         "bluster",
-        "GenomicRanges",
-        "ScaledMatrix"
+        "GenomicRanges"
     ],
     "BASiCStan": [
         "BASiCS",
@@ -1437,7 +1434,6 @@
         "BiocSingular",
         "bluster",
         "GenomicRanges",
-        "ScaledMatrix",
         "colourpicker",
         "miniUI",
         "shiny",
@@ -1456,7 +1452,6 @@
         "SummarizedExperiment",
         "BiocSingular",
         "scuttle",
-        "ScaledMatrix",
         "GenomicRanges"
     ],
     "BatchQC": [
@@ -1493,7 +1488,6 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "ScaledMatrix",
         "tibble",
         "scuttle",
         "ggbeeswarm",
@@ -1651,7 +1645,6 @@
         "ggbeeswarm",
         "ggrastr",
         "waldo",
-        "ScaledMatrix",
         "rematch2"
     ],
     "BgeeCall": [
@@ -1969,9 +1962,7 @@
         "tidyselect",
         "Biostrings"
     ],
-    "BiocSingular": [
-        "ScaledMatrix"
-    ],
+    "BiocSingular": [],
     "BiocSklearn": [
         "SummarizedExperiment",
         "GenomicRanges"
@@ -2270,8 +2261,7 @@
         "scuttle",
         "SummarizedExperiment",
         "BiocSingular",
-        "bluster",
-        "ScaledMatrix"
+        "bluster"
     ],
     "biotmle": [
         "dplyr",
@@ -3044,7 +3034,6 @@
         "viridis",
         "ggrastr",
         "GenomicRanges",
-        "ScaledMatrix",
         "pbkrtest",
         "lme4",
         "tweenr",
@@ -3228,8 +3217,7 @@
         "viridis",
         "ggrastr",
         "bluster",
-        "GenomicRanges",
-        "ScaledMatrix"
+        "GenomicRanges"
     ],
     "CellaRepertorium": [
         "dplyr",
@@ -3311,7 +3299,6 @@
         "shiny",
         "spatstat.explore",
         "GenomicRanges",
-        "ScaledMatrix",
         "tidyr",
         "dplyr",
         "tidyselect"
@@ -3364,8 +3351,7 @@
         "ggbeeswarm",
         "ggrastr",
         "ggrepel",
-        "GenomicRanges",
-        "ScaledMatrix"
+        "GenomicRanges"
     ],
     "CellNOptR": [
         "ggplot2",
@@ -4053,7 +4039,6 @@
         "forcats",
         "BiocSingular",
         "scuttle",
-        "ScaledMatrix",
         "miniUI",
         "tidyselect",
         "ggfittext",
@@ -4262,7 +4247,6 @@
         "BiocSingular",
         "bluster",
         "GenomicRanges",
-        "ScaledMatrix",
         "tidyselect",
         "tweenr",
         "tidyr"
@@ -4369,7 +4353,6 @@
         "zinbwave",
         "phylobase",
         "mbkmeans",
-        "ScaledMatrix",
         "ClusterR",
         "benchmarkme",
         "ggplot2",
@@ -4864,7 +4847,6 @@
         "GenomicRanges",
         "ggplot2",
         "rtracklayer",
-        "ScaledMatrix",
         "tibble",
         "Biostrings",
         "Rsamtools",
@@ -4985,7 +4967,6 @@
         "ggrastr",
         "bluster",
         "GenomicRanges",
-        "ScaledMatrix",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -5042,7 +5023,6 @@
         "spatstat.explore",
         "spatstat.model",
         "spatstat.linnet",
-        "ScaledMatrix",
         "hardhat",
         "ipred",
         "tidyr",
@@ -5106,7 +5086,6 @@
         "GSEABase",
         "SingleCellExperiment",
         "BiocSingular",
-        "ScaledMatrix",
         "AnnotationDbi",
         "progress",
         "BiocFileCache",
@@ -6527,8 +6506,7 @@
         "tibble"
     ],
     "DelayedTensor": [
-        "BiocSingular",
-        "ScaledMatrix"
+        "BiocSingular"
     ],
     "deltaCaptureC": [
         "GenomicRanges",
@@ -6942,7 +6920,6 @@
         "SingleCellExperiment",
         "Seurat",
         "scran",
-        "ScaledMatrix",
         "scuttle",
         "bluster",
         "cowplot",
@@ -7009,8 +6986,7 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "GenomicRanges",
-        "ScaledMatrix"
+        "GenomicRanges"
     ],
     "dittoSeq": [
         "ggplot2",
@@ -7643,7 +7619,6 @@
         "hgu133a.db",
         "tidyr",
         "dplyr",
-        "ScaledMatrix",
         "tidyselect",
         "Biostrings",
         "multcomp",
@@ -8473,7 +8448,6 @@
         "GenomicRanges",
         "RSQLite",
         "KEGGREST",
-        "ScaledMatrix",
         "Biostrings"
     ],
     "esetVis": [
@@ -9112,7 +9086,6 @@
         "ggrepel",
         "bluster",
         "KEGGREST",
-        "ScaledMatrix",
         "progress",
         "BiocFileCache",
         "forcats",
@@ -11167,7 +11140,6 @@
         "GSEABase",
         "SingleCellExperiment",
         "BiocSingular",
-        "ScaledMatrix",
         "annotate",
         "AnnotationDbi",
         "GenomicRanges",
@@ -12501,7 +12473,6 @@
         "SeuratObject",
         "spatstat.explore",
         "GenomicRanges",
-        "ScaledMatrix",
         "HDO.db",
         "fgsea",
         "tidyselect",
@@ -14972,7 +14943,6 @@
         "ggrastr",
         "ggrepel",
         "treeio",
-        "ScaledMatrix",
         "tidytree"
     ],
     "miaSim": [
@@ -15022,7 +14992,6 @@
         "GenomicRanges",
         "ggplotify",
         "patchwork",
-        "ScaledMatrix",
         "RSQLite",
         "tweenr"
     ],
@@ -15147,7 +15116,6 @@
         "ggrastr",
         "ggrepel",
         "waldo",
-        "ScaledMatrix",
         "lava",
         "rematch2"
     ],
@@ -15271,7 +15239,6 @@
         "dplyr",
         "ggrepel",
         "ggbeeswarm",
-        "ScaledMatrix",
         "tidyselect",
         "ggforce",
         "viridis",
@@ -16298,7 +16265,6 @@
         "SummarizedExperiment",
         "BiocSingular",
         "bluster",
-        "ScaledMatrix",
         "GenomicRanges"
     ],
     "mslp": [
@@ -16779,7 +16745,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "BiocSingular",
-        "ScaledMatrix",
         "scuttle",
         "scran",
         "batchelor",
@@ -16835,7 +16800,6 @@
         "ggrastr",
         "ggrepel",
         "pbkrtest",
-        "ScaledMatrix",
         "annotate",
         "AnnotationDbi",
         "testthat",
@@ -17080,7 +17044,6 @@
         "tibble",
         "tidyr",
         "KEGGREST",
-        "ScaledMatrix",
         "BSgenome",
         "Biostrings",
         "tidyselect",
@@ -17414,7 +17377,6 @@
         "ggrastr",
         "ggrepel",
         "GenomicRanges",
-        "ScaledMatrix",
         "tibble",
         "ClusterR",
         "benchmarkme",
@@ -17491,7 +17453,6 @@
         "SummarizedExperiment",
         "SingleCellExperiment",
         "BiocSingular",
-        "ScaledMatrix",
         "GenomicRanges"
     ],
     "ngsReports": [
@@ -17709,7 +17670,6 @@
         "tidyr",
         "KEGGREST",
         "dbplyr",
-        "ScaledMatrix",
         "progress",
         "annotate",
         "rtracklayer",
@@ -18182,7 +18142,6 @@
         "BiocSingular",
         "RSQLite",
         "KEGGREST",
-        "ScaledMatrix",
         "GenomicRanges",
         "Biostrings"
     ],
@@ -18670,7 +18629,6 @@
         "ggrepel",
         "cowplot",
         "BiocSingular",
-        "ScaledMatrix",
         "tibble"
     ],
     "PDATK": [
@@ -18775,7 +18733,6 @@
         "ggrastr",
         "ggrepel",
         "GenomicRanges",
-        "ScaledMatrix",
         "tibble"
     ],
     "pengls": [],
@@ -19203,7 +19160,6 @@
         "shiny",
         "spatstat.explore",
         "GenomicRanges",
-        "ScaledMatrix",
         "tidyr"
     ],
     "pipeFrame": [
@@ -22596,7 +22552,6 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "ScaledMatrix": [],
     "scAlign": [
         "SingleCellExperiment",
         "Seurat",
@@ -22765,7 +22720,6 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "ScaledMatrix",
         "tibble",
         "GenomicRanges"
     ],
@@ -22928,7 +22882,6 @@
         "GenomicRanges",
         "Rsamtools",
         "rtracklayer",
-        "ScaledMatrix",
         "Biostrings",
         "GenomicAlignments",
         "ggplot2",
@@ -22954,7 +22907,6 @@
         "BiocSingular",
         "bluster",
         "GenomicRanges",
-        "ScaledMatrix",
         "nloptr",
         "waldo",
         "rematch2"
@@ -23094,7 +23046,6 @@
         "ruv",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "ScaledMatrix",
         "reldist",
         "Hmisc",
         "ggplot2",
@@ -23244,7 +23195,6 @@
         "tibble",
         "dplyr",
         "origami",
-        "ScaledMatrix",
         "tidyselect"
     ],
     "scPipe": [
@@ -23280,7 +23230,6 @@
         "ggrepel",
         "waldo",
         "dbplyr",
-        "ScaledMatrix",
         "rematch2"
     ],
     "scran": [
@@ -23289,7 +23238,6 @@
         "SummarizedExperiment",
         "BiocSingular",
         "bluster",
-        "ScaledMatrix",
         "GenomicRanges"
     ],
     "scReClassify": [
@@ -23369,7 +23317,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "BiocSingular",
-        "ScaledMatrix",
         "GenomicRanges"
     ],
     "scShapes": [],
@@ -23527,7 +23474,6 @@
         "SeuratObject",
         "shiny",
         "spatstat.explore",
-        "ScaledMatrix",
         "AnnotationDbi",
         "tidyselect",
         "AnnotationFilter",
@@ -24137,7 +24083,6 @@
         "broom",
         "survMisc",
         "ggtext",
-        "ScaledMatrix",
         "survcomp",
         "biomaRt",
         "iC10",
@@ -24286,7 +24231,6 @@
         "SummarizedExperiment",
         "BiocSingular",
         "bluster",
-        "ScaledMatrix",
         "GenomicRanges"
     ],
     "singleCellTK": [
@@ -24343,7 +24287,6 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "BiocSingular",
-        "ScaledMatrix",
         "multipanelfigure",
         "miniUI",
         "GenomicRanges",
@@ -24419,7 +24362,6 @@
     "SingleR": [
         "SummarizedExperiment",
         "BiocSingular",
-        "ScaledMatrix",
         "GenomicRanges"
     ],
     "singscore": [
@@ -24452,7 +24394,6 @@
         "BiocSingular",
         "RSQLite",
         "KEGGREST",
-        "ScaledMatrix",
         "GenomicRanges",
         "Biostrings"
     ],
@@ -24720,7 +24661,6 @@
         "sctransform",
         "SeuratObject",
         "spatstat.explore",
-        "ScaledMatrix",
         "tidyr"
     ],
     "sparrow": [
@@ -24898,7 +24838,6 @@
         "Hmisc",
         "GO.db",
         "KEGGREST",
-        "ScaledMatrix",
         "Biostrings"
     ],
     "spatzie": [
@@ -25054,8 +24993,7 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "GenomicRanges",
-        "ScaledMatrix"
+        "GenomicRanges"
     ],
     "SpliceWiz": [
         "NxtIRFdata",
@@ -26135,7 +26073,6 @@
         "ggrepel",
         "plotly",
         "tidyr",
-        "ScaledMatrix",
         "annotate",
         "AnnotationDbi",
         "dplyr",
@@ -26732,7 +26669,6 @@
         "SingleCellExperiment",
         "BiocSingular",
         "GenomicRanges",
-        "ScaledMatrix",
         "tidyselect",
         "annotate",
         "AnnotationDbi",
@@ -27155,7 +27091,6 @@
         "viridis",
         "ggrastr",
         "ggrepel",
-        "ScaledMatrix",
         "Biostrings"
     ],
     "trigger": [
@@ -27512,7 +27447,6 @@
         "ggrastr",
         "ggrepel",
         "GenomicRanges",
-        "ScaledMatrix",
         "tidyselect",
         "vroom",
         "text2vec",
@@ -27722,7 +27656,6 @@
         "scuttle",
         "SingleCellExperiment",
         "BiocSingular",
-        "ScaledMatrix",
         "GenomicRanges"
     ],
     "VennDetail": [
