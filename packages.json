@@ -666,7 +666,6 @@
         "GenomicAlignments",
         "ggdendro",
         "ggrepel",
-        "ReorderCluster",
         "XVector",
         "SummarizedExperiment",
         "BiocParallel",
@@ -37661,7 +37660,6 @@
         "tidyselect",
         "pillar"
     ],
-    "ReorderCluster": [],
     "caret": [
         "ggplot2",
         "recipes",
