@@ -10316,7 +10316,6 @@
     "DeepPINCS": [
         "keras",
         "tensorflow",
-        "rcdk",
         "webchem",
         "ttgsea",
         "tfruns",
@@ -16199,7 +16198,6 @@
         "tensorflow",
         "DeepPINCS",
         "ttgsea",
-        "rcdk",
         "webchem",
         "tfruns",
         "tfautograph",
@@ -31430,7 +31428,6 @@
         "Rsamtools",
         "Biostrings",
         "GOSemSim",
-        "rcdk",
         "KEGGREST",
         "XVector",
         "biomaRt",
@@ -32754,7 +32751,6 @@
     "Rcpi": [
         "Biostrings",
         "GOSemSim",
-        "rcdk",
         "XVector",
         "GenomeInfoDb",
         "AnnotationDbi",
@@ -34337,7 +34333,6 @@
         "survival"
     ],
     "RMassBank": [
-        "rcdk",
         "MSnbase",
         "httr",
         "readJDX",
@@ -43653,7 +43648,6 @@
         "scater",
         "DeepPINCS",
         "DiagrammeR",
-        "rcdk",
         "webchem",
         "ttgsea",
         "dplyr",
@@ -48443,7 +48437,6 @@
     "diffr": [
         "htmlwidgets"
     ],
-    "rcdk": [],
     "webchem": [
         "httr",
         "rvest",
