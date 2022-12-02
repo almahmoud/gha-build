@@ -47285,7 +47285,6 @@
         "Rsamtools",
         "GenomicFeatures",
         "GenomicAlignments",
-        "elitism",
         "IRanges",
         "GenomicRanges",
         "reldist",
@@ -70954,7 +70953,6 @@
         "GenomeInfoDb",
         "sass"
     ],
-    "elitism": [],
     "doMC": [],
     "nls2": [],
     "valr": [
