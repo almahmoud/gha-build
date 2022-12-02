@@ -2445,7 +2445,6 @@
         "XVector",
         "gld",
         "readxl",
-        "ROI.plugin.lpsolve",
         "tidyselect",
         "pillar",
         "AnnotationDbi",
@@ -42060,7 +42059,6 @@
         "dplyr",
         "detectseparation",
         "phyloseq",
-        "ROI.plugin.lpsolve",
         "tibble",
         "tidyselect",
         "pillar",
@@ -42078,11 +42076,8 @@
         "pillar"
     ],
     "optimr": [],
-    "detectseparation": [
-        "ROI.plugin.lpsolve"
-    ],
+    "detectseparation": [],
     "survey": [],
-    "ROI.plugin.lpsolve": [],
     "sjmisc": [
         "dplyr",
         "tidyselect",
