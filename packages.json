@@ -105,7 +105,6 @@
         "AnnotationDbi",
         "Biostrings",
         "GenomicRanges",
-        "DelayedArray",
         "RSQLite",
         "XVector",
         "blob"
@@ -139,7 +138,6 @@
         "broom",
         "car",
         "GenomicRanges",
-        "DelayedArray",
         "rematch2",
         "XVector",
         "pbkrtest",
@@ -178,7 +176,6 @@
         "SummarizedExperiment",
         "glmnet",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "adSplit": [
@@ -195,7 +192,6 @@
         "SummarizedExperiment",
         "MultiAssayExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "XVector",
         "dplyr",
@@ -246,7 +242,6 @@
         "GGally",
         "ensembldb",
         "AnnotationFilter",
-        "DelayedArray",
         "pillar",
         "biomaRt",
         "dplyr",
@@ -296,7 +291,6 @@
         "SingleCellExperiment",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "pillar",
         "XVector"
     ],
@@ -339,7 +333,6 @@
         "GGally",
         "ensembldb",
         "AnnotationFilter",
-        "DelayedArray",
         "pillar",
         "biomaRt",
         "dplyr",
@@ -370,7 +363,6 @@
         "tidyselect",
         "pillar",
         "scuttle",
-        "DelayedArray",
         "DelayedMatrixStats",
         "beachmat",
         "BiocNeighbors",
@@ -391,7 +383,6 @@
         "SummarizedExperiment",
         "multtest",
         "XVector",
-        "DelayedArray",
         "NADA"
     ],
     "alevinQC": [
@@ -432,7 +423,6 @@
         "biomaRt",
         "ensembldb",
         "biovizBase",
-        "DelayedArray",
         "progress",
         "BiocFileCache",
         "Hmisc",
@@ -469,7 +459,6 @@
         "RSQLite",
         "rtracklayer",
         "biomaRt",
-        "DelayedArray",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -525,7 +514,6 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "hms",
         "vroom",
@@ -556,8 +544,7 @@
         "Rsamtools",
         "GenomicAlignments",
         "latticeExtra",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "Anaquin": [
         "ggplot2",
@@ -570,7 +557,6 @@
         "annotate",
         "AnnotationDbi",
         "XVector",
-        "DelayedArray",
         "pillar",
         "RSQLite",
         "KEGGREST",
@@ -603,7 +589,6 @@
         "vegan",
         "Biostrings",
         "DECIPHER",
-        "DelayedArray",
         "DelayedMatrixStats",
         "scuttle",
         "scater",
@@ -642,7 +627,6 @@
         "XVector",
         "SummarizedExperiment",
         "tibble",
-        "DelayedArray",
         "pillar"
     ],
     "ANF": [],
@@ -673,7 +657,6 @@
         "pillar",
         "ggrepel",
         "modeest",
-        "DelayedArray",
         "tidyr",
         "bslib",
         "RSpectra",
@@ -786,8 +769,7 @@
         "shiny",
         "DT",
         "hms",
-        "bslib",
-        "DelayedArray"
+        "bslib"
     ],
     "annotatr": [
         "AnnotationDbi",
@@ -820,8 +802,7 @@
         "shiny",
         "DT",
         "blob",
-        "bslib",
-        "DelayedArray"
+        "bslib"
     ],
     "anota": [
         "qvalue",
@@ -838,7 +819,6 @@
         "GenomicRanges",
         "geneplotter",
         "ggplot2",
-        "DelayedArray",
         "annotate",
         "AnnotationDbi",
         "XVector",
@@ -921,7 +901,6 @@
         "XVector",
         "biomaRt",
         "R.cache",
-        "DelayedArray",
         "BSgenome",
         "KEGGREST",
         "progress",
@@ -945,8 +924,7 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "RcppNumerical",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "APL": [
         "ggrepel",
@@ -975,7 +953,6 @@
         "spatstat.explore",
         "uwot",
         "GenomicRanges",
-        "DelayedArray",
         "GO.db",
         "RSQLite",
         "KEGGREST",
@@ -1020,7 +997,6 @@
         "biomaRt",
         "BiocFileCache",
         "AnnotationHub",
-        "DelayedArray",
         "HDF5Array",
         "OrganismDbi",
         "GO.db",
@@ -1046,8 +1022,7 @@
         "XVector",
         "GenomicRanges",
         "SummarizedExperiment",
-        "blob",
-        "DelayedArray"
+        "blob"
     ],
     "ArrayExpressHTS": [
         "Rsamtools",
@@ -1074,8 +1049,7 @@
         "hms",
         "blob",
         "pillar",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "arrayMvout": [
         "affyContam",
@@ -1107,7 +1081,6 @@
         "siggenes",
         "DelayedMatrixStats",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "Rsamtools",
         "GenomicAlignments",
@@ -1183,7 +1156,6 @@
         "MultiAssayExperiment",
         "MultiDataSet",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "tidyr",
         "ggrepel",
@@ -1222,7 +1194,6 @@
         "latticeExtra",
         "lme4",
         "ggfortify",
-        "DelayedArray",
         "KEGGREST",
         "dbplyr",
         "Hmisc",
@@ -1274,7 +1245,6 @@
         "pillar",
         "bslib",
         "blob",
-        "DelayedArray",
         "dbplyr",
         "htmlTable",
         "viridis",
@@ -1310,7 +1280,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "ATACCoGAPS": [
@@ -1387,8 +1356,7 @@
         "rematch2",
         "vroom",
         "rmarkdown",
-        "bslib",
-        "DelayedArray"
+        "bslib"
     ],
     "ATACseqQC": [
         "BSgenome",
@@ -1414,7 +1382,6 @@
         "regioneR",
         "BiocFileCache",
         "AnnotationHub",
-        "DelayedArray",
         "HDF5Array",
         "TFBSTools",
         "RSQLite",
@@ -1452,7 +1419,6 @@
         "Biostrings",
         "XVector",
         "BSgenome",
-        "DelayedArray",
         "CNEr",
         "RSQLite",
         "rtracklayer",
@@ -1479,7 +1445,6 @@
         "dplyr",
         "Biostrings",
         "XVector",
-        "DelayedArray",
         "KEGGREST",
         "dbplyr",
         "tibble",
@@ -1521,7 +1486,6 @@
         "AnnotationDbi",
         "hms",
         "vroom",
-        "DelayedArray",
         "progress"
     ],
     "attract": [
@@ -1542,7 +1506,6 @@
         "blob"
     ],
     "AUCell": [
-        "DelayedArray",
         "DelayedMatrixStats",
         "GSEABase",
         "mixtools",
@@ -1576,7 +1539,6 @@
         "RSQLite",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "cellranger",
         "progress",
         "tidyselect",
@@ -1588,7 +1550,6 @@
     "awst": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "BaalChIP": [
@@ -1608,7 +1569,6 @@
         "tidyselect",
         "pillar",
         "lme4",
-        "DelayedArray",
         "nloptr",
         "testthat",
         "waldo",
@@ -1639,7 +1599,6 @@
         "dplyr",
         "hms",
         "GenomicAlignments",
-        "DelayedArray",
         "blob",
         "pillar",
         "tibble",
@@ -1659,7 +1618,6 @@
         "SummarizedExperiment",
         "RSQLite",
         "KEGGREST",
-        "DelayedArray",
         "blob"
     ],
     "bambu": [
@@ -1680,7 +1638,6 @@
         "AnnotationDbi",
         "RSQLite",
         "biomaRt",
-        "DelayedArray",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -1742,7 +1699,6 @@
         "hardhat",
         "ipred",
         "GenomicRanges",
-        "DelayedArray",
         "blob",
         "XVector",
         "prodlim",
@@ -1774,7 +1730,6 @@
         "pillar",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "basecallQC": [
@@ -1795,8 +1750,7 @@
         "GenomicRanges",
         "latticeExtra",
         "XVector",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "Basic4Cseq": [
         "Biostrings",
@@ -1807,8 +1761,7 @@
         "BSgenome",
         "SummarizedExperiment",
         "Rsamtools",
-        "rtracklayer",
-        "DelayedArray"
+        "rtracklayer"
     ],
     "BASiCS": [
         "SingleCellExperiment",
@@ -1824,7 +1777,6 @@
         "shiny",
         "shinyjs",
         "tibble",
-        "DelayedArray",
         "DelayedMatrixStats",
         "BiocSingular",
         "bluster",
@@ -1850,7 +1802,6 @@
         "ggplot2",
         "viridis",
         "DelayedMatrixStats",
-        "DelayedArray",
         "HDF5Array",
         "beachmat",
         "pkgbuild",
@@ -1874,15 +1825,13 @@
         "SummarizedExperiment",
         "Biostrings",
         "Rsamtools",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "batchelor": [
         "SingleCellExperiment",
         "SummarizedExperiment",
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "scuttle",
         "ResidualMatrix",
@@ -1933,7 +1882,6 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DelayedArray",
         "ScaledMatrix",
         "beachmat",
         "maxLik",
@@ -1959,7 +1907,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "baySeq": [
@@ -1973,7 +1920,6 @@
         "GenomicRanges",
         "Biostrings",
         "XVector",
-        "DelayedArray",
         "AnnotationDbi",
         "rtracklayer",
         "BSgenome",
@@ -2006,13 +1952,10 @@
         "SummarizedExperiment",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
-    "beachmat": [
-        "DelayedArray"
-    ],
+    "beachmat": [],
     "beadarray": [
         "AnnotationDbi",
         "GenomicRanges",
@@ -2036,7 +1979,6 @@
         "tibble",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -2050,8 +1992,7 @@
         "Rsamtools",
         "GenomicAlignments",
         "latticeExtra",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "BEclear": [],
     "beer": [
@@ -2059,7 +2000,6 @@
         "SummarizedExperiment",
         "BiocFileCache",
         "GenomicRanges",
-        "DelayedArray",
         "dbplyr",
         "dplyr",
         "RSQLite",
@@ -2119,7 +2059,6 @@
         "shiny",
         "spatstat.explore",
         "uwot",
-        "DelayedArray",
         "treeio",
         "genefilter",
         "XVector",
@@ -2180,8 +2119,7 @@
         "dbplyr",
         "SummarizedExperiment",
         "hms",
-        "blob",
-        "DelayedArray"
+        "blob"
     ],
     "BgeeDB": [
         "topGO",
@@ -2240,7 +2178,6 @@
         "bumphunter",
         "siggenes",
         "DelayedMatrixStats",
-        "DelayedArray",
         "HDF5Array",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -2265,7 +2202,6 @@
         "dbplyr"
     ],
     "bigPint": [
-        "DelayedArray",
         "dplyr",
         "GGally",
         "ggplot2",
@@ -2324,8 +2260,7 @@
         "htmlTable",
         "viridis",
         "hms",
-        "blob",
-        "DelayedArray"
+        "blob"
     ],
     "bioassayR": [
         "RSQLite",
@@ -2498,7 +2433,6 @@
         "ggsignif",
         "rstatix",
         "bslib",
-        "DelayedArray",
         "KEGGREST",
         "BiocFileCache",
         "interactiveDisplayBase",
@@ -2555,14 +2489,12 @@
         "blob"
     ],
     "BiocSingular": [
-        "DelayedArray",
         "ScaledMatrix",
         "beachmat"
     ],
     "BiocSklearn": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "BiocStyle": [
@@ -2816,7 +2748,6 @@
         "viridis",
         "hms",
         "blob",
-        "DelayedArray",
         "pillar",
         "tibble",
         "tidyselect"
@@ -2872,7 +2803,6 @@
         "sna",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "genefilter",
         "Hmisc",
         "GO.db",
@@ -2926,7 +2856,6 @@
         "ropls",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "ggplot2",
         "ggrepel",
@@ -2947,7 +2876,6 @@
         "SingleCellExperiment",
         "scuttle",
         "SummarizedExperiment",
-        "DelayedArray",
         "DelayedMatrixStats",
         "BiocSingular",
         "bluster",
@@ -2969,7 +2897,6 @@
         "np",
         "future.apply",
         "GenomicRanges",
-        "DelayedArray",
         "ggdendro",
         "XVector",
         "quantreg",
@@ -2996,7 +2923,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "DelayedArray",
         "BSgenome",
         "progress",
         "BiocFileCache",
@@ -3025,7 +2951,6 @@
         "dmrseq",
         "ExperimentHub",
         "AnnotationHub",
-        "DelayedArray",
         "BSgenome",
         "Biostrings",
         "beachmat",
@@ -3073,7 +2998,6 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "blob"
@@ -3090,7 +3014,6 @@
         "pasilla",
         "DEXSeq",
         "GenomicRanges",
-        "DelayedArray",
         "ggplot2",
         "DESeq2",
         "AnnotationDbi",
@@ -3151,7 +3074,6 @@
         "BiocFileCache",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "waldo",
         "RSQLite",
         "AnnotationDbi",
@@ -3178,7 +3100,6 @@
         "sva",
         "EBImage",
         "XVector",
-        "DelayedArray",
         "genefilter",
         "AnnotationDbi",
         "annotate",
@@ -3248,7 +3169,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "DelayedArray",
         "BiocFileCache",
         "hms",
         "blob",
@@ -3264,7 +3184,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "DelayedMatrixStats",
-        "DelayedArray",
         "BSgenome",
         "Biostrings",
         "HDF5Array",
@@ -3342,7 +3261,6 @@
         "shiny",
         "DT",
         "blob",
-        "DelayedArray",
         "hms",
         "bslib"
     ],
@@ -3358,7 +3276,6 @@
         "progress",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "KEGGREST",
         "blob",
         "pillar",
@@ -3401,7 +3318,6 @@
         "pillar",
         "blob",
         "prodlim",
-        "DelayedArray",
         "lava",
         "future.apply"
     ],
@@ -3415,7 +3331,6 @@
         "Biostrings",
         "XVector",
         "tibble",
-        "DelayedArray",
         "pillar"
     ],
     "brendaDb": [
@@ -3440,7 +3355,6 @@
         "ggplot2",
         "Biostrings",
         "XVector",
-        "DelayedArray",
         "annotate",
         "AnnotationDbi",
         "tibble",
@@ -3457,14 +3371,12 @@
         "XVector",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "bsseq": [
         "GenomicRanges",
         "SummarizedExperiment",
         "DelayedMatrixStats",
-        "DelayedArray",
         "BSgenome",
         "Biostrings",
         "HDF5Array",
@@ -3504,7 +3416,6 @@
         "htmlTable",
         "viridis",
         "bslib",
-        "DelayedArray",
         "BSgenome",
         "progress",
         "BiocFileCache",
@@ -3539,7 +3450,6 @@
         "roxygen2",
         "testthat",
         "GenomicRanges",
-        "DelayedArray",
         "shiny",
         "bslib",
         "downlit",
@@ -3573,13 +3483,11 @@
         "hms",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "BUScorrect": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "BUSpaRse": [
@@ -3609,20 +3517,17 @@
         "dbplyr",
         "SummarizedExperiment",
         "hms",
-        "blob",
-        "DelayedArray"
+        "blob"
     ],
     "BUSseq": [
         "SingleCellExperiment",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "CAEN": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "CAFE": [
@@ -3657,7 +3562,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "DelayedArray",
         "pillar",
         "BiocFileCache",
         "tidyselect",
@@ -3688,7 +3592,6 @@
         "BSgenome",
         "biovizBase",
         "latticeExtra",
-        "DelayedArray",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -3747,7 +3650,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "DelayedArray",
         "genefilter",
         "pillar",
         "GO.db",
@@ -3761,7 +3663,6 @@
     "CAGEr": [
         "MultiAssayExperiment",
         "BSgenome",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomicAlignments",
         "GenomicRanges",
@@ -3792,7 +3693,6 @@
         "tibble",
         "vsn",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -3865,7 +3765,6 @@
         "pillar",
         "biomaRt",
         "GenomicAlignments",
-        "DelayedArray",
         "progress",
         "BiocFileCache",
         "blob",
@@ -3910,7 +3809,6 @@
         "dbplyr",
         "dplyr",
         "hms",
-        "DelayedArray",
         "pillar",
         "tibble",
         "tidyselect"
@@ -3936,7 +3834,6 @@
         "ggpubr",
         "tidyr",
         "scuttle",
-        "DelayedArray",
         "DelayedMatrixStats",
         "beachmat",
         "BiocNeighbors",
@@ -4023,7 +3920,6 @@
         "blob",
         "pillar",
         "XVector",
-        "DelayedArray",
         "hms",
         "vroom",
         "rvest",
@@ -4051,7 +3947,6 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "SingleCellExperiment",
         "Biostrings",
         "treeio",
@@ -4082,7 +3977,6 @@
         "RSQLite",
         "pillar",
         "XVector",
-        "DelayedArray",
         "hms",
         "vroom",
         "rvest",
@@ -4119,7 +4013,6 @@
         "SummarizedExperiment",
         "SingleCellExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "ccImpute": [
@@ -4152,7 +4045,6 @@
         "dplyr",
         "readr",
         "tibble",
-        "DelayedArray",
         "tidyselect",
         "pillar",
         "SingleCellExperiment",
@@ -4171,7 +4063,6 @@
         "ggrepel",
         "scater",
         "scran",
-        "DelayedArray",
         "multipanelfigure",
         "tibble",
         "scuttle",
@@ -4214,8 +4105,7 @@
         "GenomicRanges",
         "latticeExtra",
         "SummarizedExperiment",
-        "pillar",
-        "DelayedArray"
+        "pillar"
     ],
     "cellbaseR": [
         "tidyr",
@@ -4240,7 +4130,6 @@
         "pillar",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "blob",
         "XVector"
     ],
@@ -4271,7 +4160,6 @@
         "cowplot",
         "tibble",
         "scuttle",
-        "DelayedArray",
         "DelayedMatrixStats",
         "beachmat",
         "BiocNeighbors",
@@ -4359,7 +4247,6 @@
         "tidyselect",
         "pillar",
         "scuttle",
-        "DelayedArray",
         "DelayedMatrixStats",
         "beachmat",
         "BiocSingular",
@@ -4395,7 +4282,6 @@
         "viridis",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -4493,7 +4379,6 @@
         "nloptr",
         "TH.data",
         "GenomicRanges",
-        "DelayedArray",
         "ggplot2",
         "ggforce",
         "ggnewscale",
@@ -4515,7 +4400,6 @@
     "Cepo": [
         "GSEABase",
         "DelayedMatrixStats",
-        "DelayedArray",
         "HDF5Array",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -4586,7 +4470,6 @@
         "rstatix",
         "IRkernel",
         "IRdisplay",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "HDO.db",
@@ -4638,7 +4521,6 @@
         "tibble",
         "hms",
         "vroom",
-        "DelayedArray",
         "pillar",
         "tidyselect",
         "progress"
@@ -4658,8 +4540,7 @@
         "Biostrings",
         "XVector",
         "rtracklayer",
-        "TTR",
-        "DelayedArray"
+        "TTR"
     ],
     "CGEN": [],
     "cghMCR": [
@@ -4720,7 +4601,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "methylumi",
@@ -4777,7 +4657,6 @@
         "dplyr",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "tidyselect",
         "pillar",
         "XVector"
@@ -4851,7 +4730,6 @@
         "Hmisc",
         "VariantAnnotation",
         "blob",
-        "DelayedArray",
         "dbplyr",
         "ggplot2",
         "htmlTable",
@@ -4866,8 +4744,7 @@
         "XVector",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "ChIPComp": [
         "GenomicRanges",
@@ -4879,8 +4756,7 @@
         "XVector",
         "Biostrings",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "chipenrich": [
         "AnnotationDbi",
@@ -4913,7 +4789,6 @@
         "hms",
         "vroom",
         "blob",
-        "DelayedArray",
         "pillar",
         "tidyselect",
         "progress"
@@ -4948,7 +4823,6 @@
         "biomaRt",
         "latticeExtra",
         "htmlTable",
-        "DelayedArray",
         "BSgenome",
         "progress",
         "BiocFileCache",
@@ -4982,7 +4856,6 @@
         "pillar",
         "AnnotationFilter",
         "BSgenome",
-        "DelayedArray",
         "dbplyr",
         "hms",
         "blob"
@@ -5029,7 +4902,6 @@
         "BSgenome",
         "blob",
         "latticeExtra",
-        "DelayedArray",
         "dbplyr",
         "annotate",
         "hms"
@@ -5082,8 +4954,7 @@
         "dbplyr",
         "cowplot",
         "tweenr",
-        "hms",
-        "DelayedArray"
+        "hms"
     ],
     "chipseq": [
         "GenomicRanges",
@@ -5093,8 +4964,7 @@
         "Rsamtools",
         "GenomicAlignments",
         "latticeExtra",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "ChIPseqR": [
         "Biostrings",
@@ -5104,8 +4974,7 @@
         "Rsamtools",
         "GenomicAlignments",
         "latticeExtra",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "ChIPsim": [
         "Biostrings",
@@ -5115,8 +4984,7 @@
         "GenomicAlignments",
         "GenomicRanges",
         "latticeExtra",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "ChIPXpress": [
         "GEOquery",
@@ -5137,7 +5005,6 @@
         "vroom",
         "XVector",
         "blob",
-        "DelayedArray",
         "progress"
     ],
     "chopsticks": [],
@@ -5157,8 +5024,7 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "blob",
-        "DelayedArray"
+        "blob"
     ],
     "chromPlot": [
         "biomaRt",
@@ -5209,7 +5075,6 @@
         "SummarizedExperiment",
         "msigdbr",
         "forcats",
-        "DelayedArray",
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
@@ -5249,7 +5114,6 @@
         "Biostrings",
         "XVector",
         "tibble",
-        "DelayedArray",
         "pillar"
     ],
     "chromswitch": [
@@ -5266,8 +5130,7 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "chromVAR": [
         "GenomicRanges",
@@ -5287,7 +5150,6 @@
         "tidyr",
         "dplyr",
         "bslib",
-        "DelayedArray",
         "CNEr",
         "RSQLite",
         "GenomicAlignments",
@@ -5356,8 +5218,7 @@
         "dbplyr",
         "htmlTable",
         "hms",
-        "blob",
-        "DelayedArray"
+        "blob"
     ],
     "CIMICE": [
         "dplyr",
@@ -5423,7 +5284,6 @@
         "shiny",
         "DT",
         "blob",
-        "DelayedArray",
         "progress",
         "bslib"
     ],
@@ -5454,7 +5314,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "DelayedArray",
         "dbplyr",
         "hms"
     ],
@@ -5476,7 +5335,6 @@
         "viridis",
         "tidygraph",
         "scuttle",
-        "DelayedArray",
         "DelayedMatrixStats",
         "BiocSingular",
         "bluster",
@@ -5503,7 +5361,6 @@
         "annotate",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "XVector",
@@ -5520,8 +5377,7 @@
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "cleaver": [
         "Biostrings",
@@ -5554,8 +5410,7 @@
         "hms",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "cliProfiler": [
         "dplyr",
@@ -5570,8 +5425,7 @@
         "tidyselect",
         "pillar",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "cliqueMS": [
         "xcms",
@@ -5583,7 +5437,6 @@
         "MsFeatures",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -5615,7 +5468,6 @@
         "SummarizedExperiment",
         "NMF",
         "BiocSingular",
-        "DelayedArray",
         "HDF5Array",
         "zinbwave",
         "phylobase",
@@ -5707,14 +5559,12 @@
         "hms",
         "vroom",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "progress"
     ],
     "cmapR": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "cn.farms": [
@@ -5725,8 +5575,7 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "XVector",
-        "blob",
-        "DelayedArray"
+        "blob"
     ],
     "cn.mops": [
         "GenomicRanges",
@@ -5754,7 +5603,6 @@
         "hms",
         "vroom",
         "blob",
-        "DelayedArray",
         "pillar",
         "tidyselect",
         "progress"
@@ -5822,7 +5670,6 @@
         "bamsignals",
         "AnnotationDbi",
         "BSgenome",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "Hmisc",
@@ -5889,7 +5736,6 @@
         "exomeCopy",
         "biomaRt",
         "BSgenome",
-        "DelayedArray",
         "progress",
         "BiocFileCache",
         "latticeExtra",
@@ -5925,7 +5771,6 @@
         "RaggedExperiment",
         "GDSArray",
         "SummarizedExperiment",
-        "DelayedArray",
         "SeqArray",
         "XVector",
         "Biostrings"
@@ -5947,7 +5792,6 @@
         "KEGGREST",
         "biomaRt",
         "GenomicAlignments",
-        "DelayedArray",
         "pillar",
         "progress",
         "BiocFileCache",
@@ -5979,7 +5823,6 @@
         "tidyselect",
         "SummarizedExperiment",
         "DelayedMatrixStats",
-        "DelayedArray",
         "BSgenome",
         "Biostrings",
         "HDF5Array",
@@ -6007,8 +5850,7 @@
         "GenomicRanges",
         "rtracklayer",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "coexnet": [
         "siggenes",
@@ -6024,7 +5866,6 @@
         "multtest",
         "sqldf",
         "GenomicRanges",
-        "DelayedArray",
         "ggplot2",
         "tibble",
         "tidyselect",
@@ -6040,7 +5881,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "cogena": [
@@ -6111,8 +5951,7 @@
         "dplyr",
         "SummarizedExperiment",
         "hms",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "cola": [],
     "comapr": [
@@ -6138,7 +5977,6 @@
         "Rsamtools",
         "latticeExtra",
         "GenomicAlignments",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "progress",
@@ -6163,7 +6001,6 @@
         "Biostrings",
         "multtest",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -6199,8 +6036,7 @@
         "tidyselect",
         "ggplot2",
         "htmlTable",
-        "viridis",
-        "DelayedArray"
+        "viridis"
     ],
     "coMethDMR": [
         "AnnotationHub",
@@ -6237,7 +6073,6 @@
         "SummarizedExperiment",
         "hms",
         "waldo",
-        "DelayedArray",
         "rematch2"
     ],
     "compartmap": [
@@ -6247,7 +6082,6 @@
         "HDF5Array",
         "GenomicRanges",
         "ggplot2",
-        "DelayedArray",
         "rtracklayer",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -6302,7 +6136,6 @@
         "biovizBase",
         "latticeExtra",
         "blob",
-        "DelayedArray",
         "dbplyr",
         "dplyr",
         "Hmisc",
@@ -6389,7 +6222,6 @@
         "ggrepel",
         "readr",
         "scuttle",
-        "DelayedArray",
         "DelayedMatrixStats",
         "beachmat",
         "BiocNeighbors",
@@ -6455,7 +6287,6 @@
         "caret",
         "transport",
         "GenomicRanges",
-        "DelayedArray",
         "recipes",
         "XVector",
         "scuttle",
@@ -6529,7 +6360,6 @@
         "biomaRt",
         "AnnotationFilter",
         "rtracklayer",
-        "DelayedArray",
         "progress",
         "BiocFileCache",
         "annotate",
@@ -6552,7 +6382,6 @@
         "SummarizedExperiment",
         "GSEABase",
         "SingleCellExperiment",
-        "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
         "BiocSingular",
@@ -6587,8 +6416,7 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "consICA": [
         "org.Hs.eg.db",
@@ -6597,7 +6425,6 @@
         "topGO",
         "AnnotationDbi",
         "GenomicRanges",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "XVector",
@@ -6617,7 +6444,6 @@
         "VariantAnnotation",
         "XVector",
         "tibble",
-        "DelayedArray",
         "pillar",
         "AnnotationDbi",
         "BSgenome",
@@ -6650,7 +6476,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "Rsamtools",
         "GenomicAlignments",
@@ -6695,7 +6520,6 @@
         "AnnotationDbi",
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "Hmisc",
@@ -6726,8 +6550,7 @@
         "SummarizedExperiment",
         "Biostrings",
         "XVector",
-        "latticeExtra",
-        "DelayedArray"
+        "latticeExtra"
     ],
     "coRdon": [
         "Biostrings",
@@ -6750,7 +6573,6 @@
         "pillar",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "fgsea",
         "shiny",
@@ -6774,7 +6596,6 @@
         "transport",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "XVector",
         "pillar",
@@ -6791,7 +6612,6 @@
         "GenomicRanges",
         "geneplotter",
         "tibble",
-        "DelayedArray",
         "annotate",
         "AnnotationDbi",
         "XVector",
@@ -6810,7 +6630,6 @@
         "vsn",
         "ggplot2",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "tibble",
         "pillar"
@@ -6868,7 +6687,6 @@
         "AnnotationDbi",
         "annotate",
         "bslib",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "XVector",
@@ -6883,8 +6701,7 @@
         "GenomicAlignments",
         "SummarizedExperiment",
         "Biostrings",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "covRNA": [
         "genefilter",
@@ -6920,8 +6737,7 @@
         "dplyr",
         "SummarizedExperiment",
         "hms",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "cqn": [
         "quantreg"
@@ -6952,8 +6768,7 @@
         "pillar",
         "tidyselect",
         "progress",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "crisprBwa": [
         "BSgenome",
@@ -6971,8 +6786,7 @@
         "pillar",
         "tidyselect",
         "progress",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "crisprDesign": [
         "crisprBase",
@@ -7002,7 +6816,6 @@
         "tibble",
         "vroom",
         "blob",
-        "DelayedArray",
         "interactiveDisplayBase",
         "dplyr",
         "dbplyr",
@@ -7038,7 +6851,6 @@
         "seqinr",
         "BSgenome",
         "XVector",
-        "DelayedArray",
         "GenomicRanges",
         "dplyr",
         "keras",
@@ -7070,7 +6882,6 @@
         "XVector",
         "Rsamtools",
         "seqinr",
-        "DelayedArray",
         "dplyr",
         "keras",
         "biomaRt",
@@ -7118,7 +6929,6 @@
         "SummarizedExperiment",
         "tibble",
         "blob",
-        "DelayedArray",
         "pillar"
     ],
     "crisprVerse": [
@@ -7159,7 +6969,6 @@
         "Hmisc",
         "AnnotationFilter",
         "blob",
-        "DelayedArray",
         "pillar",
         "tidyselect",
         "dbplyr",
@@ -7210,7 +7019,6 @@
         "hms",
         "tibble",
         "vroom",
-        "DelayedArray",
         "interactiveDisplayBase",
         "pillar",
         "tidyselect",
@@ -7226,8 +7034,7 @@
         "Biostrings",
         "RSQLite",
         "XVector",
-        "blob",
-        "DelayedArray"
+        "blob"
     ],
     "crossmeta": [
         "AnnotationDbi",
@@ -7262,8 +7069,7 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "hms",
-        "vroom",
-        "DelayedArray"
+        "vroom"
     ],
     "CSAR": [
         "GenomicRanges",
@@ -7274,8 +7080,7 @@
         "SummarizedExperiment",
         "Rsamtools",
         "XVector",
-        "Biostrings",
-        "DelayedArray"
+        "Biostrings"
     ],
     "csdR": [
         "WGCNA",
@@ -7308,7 +7113,6 @@
         "XVector",
         "biomaRt",
         "tibble",
-        "DelayedArray",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -7379,7 +7183,6 @@
         "DropletUtils",
         "BiocFileCache",
         "GenomicRanges",
-        "DelayedArray",
         "dbplyr",
         "dplyr",
         "RSQLite",
@@ -7425,7 +7228,6 @@
         "htmlTable",
         "viridis",
         "hms",
-        "DelayedArray",
         "tidyselect"
     ],
     "customCMPdb": [
@@ -7470,7 +7272,6 @@
         "dbplyr",
         "dplyr",
         "hms",
-        "DelayedArray",
         "pillar",
         "tibble",
         "tidyselect"
@@ -7499,7 +7300,6 @@
         "pillar",
         "latticeExtra",
         "ncdfFlow",
-        "DelayedArray",
         "hms",
         "GEOmap",
         "fields",
@@ -7521,7 +7321,6 @@
         "BiocNeighbors",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "ggplot2",
         "XVector",
         "tibble",
@@ -7559,7 +7358,6 @@
         "pillar",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "recipes",
         "dendextend",
         "FactoMineR",
@@ -7633,7 +7431,6 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "cytomapper": [
@@ -7641,7 +7438,6 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "HDF5Array",
-        "DelayedArray",
         "viridis",
         "SummarizedExperiment",
         "ggplot2",
@@ -7676,7 +7472,6 @@
         "pillar",
         "ggplot2",
         "ncdfFlow",
-        "DelayedArray",
         "flowViz",
         "flowClust",
         "latticeExtra"
@@ -7692,8 +7487,7 @@
         "GenomicRanges",
         "latticeExtra",
         "SummarizedExperiment",
-        "pillar",
-        "DelayedArray"
+        "pillar"
     ],
     "dagLogo": [
         "Biostrings",
@@ -7726,8 +7520,7 @@
         "pillar",
         "tidyselect",
         "SummarizedExperiment",
-        "vroom",
-        "DelayedArray"
+        "vroom"
     ],
     "DAMEfinder": [
         "GenomicRanges",
@@ -7746,7 +7539,6 @@
         "tibble",
         "hms",
         "vroom",
-        "DelayedArray",
         "rtracklayer",
         "BSgenome",
         "RSQLite",
@@ -7792,7 +7584,6 @@
         "viridis",
         "progress",
         "MSQC",
-        "DelayedArray",
         "genefilter",
         "RSQLite",
         "KEGGREST",
@@ -7871,7 +7662,6 @@
         "Rsamtools",
         "hms",
         "vroom",
-        "DelayedArray",
         "KEGGREST",
         "progress",
         "testthat",
@@ -7963,7 +7753,6 @@
         "latticeExtra",
         "dplyr",
         "ncdfFlow",
-        "DelayedArray",
         "GEOmap",
         "pillar",
         "tidyselect",
@@ -7995,7 +7784,6 @@
         "readr",
         "ggplot2",
         "GenomicRanges",
-        "DelayedArray",
         "tibble",
         "tidyselect",
         "pillar",
@@ -8058,7 +7846,6 @@
         "egg",
         "KEGGgraph",
         "bslib",
-        "DelayedArray",
         "genefilter",
         "ggfun",
         "ggplotify",
@@ -8093,7 +7880,6 @@
         "rmarkdown",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "Biostrings",
         "bslib",
@@ -8106,7 +7892,6 @@
         "GenomicRanges",
         "geneplotter",
         "ggplot2",
-        "DelayedArray",
         "annotate",
         "AnnotationDbi",
         "XVector",
@@ -8137,7 +7922,6 @@
         "tibble",
         "cellranger",
         "progress",
-        "DelayedArray",
         "Rsamtools",
         "KEGGREST",
         "BiocFileCache",
@@ -8181,7 +7965,6 @@
         "GenomicAlignments",
         "SummarizedExperiment",
         "testthat",
-        "DelayedArray",
         "waldo",
         "rematch2"
     ],
@@ -8206,8 +7989,7 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "DeepPINCS": [
         "keras",
@@ -8244,7 +8026,6 @@
         "Biostrings",
         "VariantAnnotation",
         "XVector",
-        "DelayedArray",
         "Rsamtools",
         "AnnotationDbi",
         "rtracklayer",
@@ -8271,7 +8052,6 @@
         "geneplotter",
         "ggplot2",
         "XVector",
-        "DelayedArray",
         "annotate",
         "AnnotationDbi",
         "tibble",
@@ -8310,7 +8090,6 @@
         "tidyselect",
         "pillar",
         "blob",
-        "DelayedArray",
         "dbplyr",
         "hms"
     ],
@@ -8338,7 +8117,6 @@
         "geneplotter",
         "tidyselect",
         "pillar",
-        "DelayedArray",
         "annotate",
         "AnnotationDbi",
         "XVector",
@@ -8353,18 +8131,10 @@
         "tibble",
         "pillar"
     ],
-    "DelayedArray": [],
-    "DelayedDataFrame": [
-        "DelayedArray"
-    ],
-    "DelayedMatrixStats": [
-        "DelayedArray"
-    ],
-    "DelayedRandomArray": [
-        "DelayedArray"
-    ],
+    "DelayedDataFrame": [],
+    "DelayedMatrixStats": [],
+    "DelayedRandomArray": [],
     "DelayedTensor": [
-        "DelayedArray",
         "HDF5Array",
         "BiocSingular",
         "DelayedRandomArray",
@@ -8379,7 +8149,6 @@
         "geneplotter",
         "XVector",
         "tibble",
-        "DelayedArray",
         "annotate",
         "AnnotationDbi",
         "pillar",
@@ -8408,7 +8177,6 @@
         "tibble",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "genefilter",
         "DelayedMatrixStats",
         "BSgenome",
@@ -8454,7 +8222,6 @@
         "vroom",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "progress"
     ],
@@ -8505,7 +8272,6 @@
         "BiocFileCache",
         "tibble",
         "blob",
-        "DelayedArray",
         "BSgenome",
         "dbplyr",
         "dplyr",
@@ -8550,7 +8316,6 @@
         "htmlTable",
         "viridis",
         "blob",
-        "DelayedArray",
         "pillar",
         "dbplyr",
         "tidyselect",
@@ -8559,7 +8324,6 @@
     "DEScan2": [
         "GenomicRanges",
         "ChIPpeakAnno",
-        "DelayedArray",
         "GenomicAlignments",
         "rtracklayer",
         "SummarizedExperiment",
@@ -8597,7 +8361,6 @@
         "AnnotationDbi",
         "XVector",
         "tibble",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "pillar",
@@ -8621,7 +8384,6 @@
         "smoother",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "TTR",
         "dplyr",
         "car",
@@ -8651,7 +8413,6 @@
         "annotate",
         "AnnotationDbi",
         "XVector",
-        "DelayedArray",
         "waldo",
         "pillar",
         "RSQLite",
@@ -8667,7 +8428,6 @@
         "geneplotter",
         "ggplot2",
         "XVector",
-        "DelayedArray",
         "annotate",
         "AnnotationDbi",
         "tibble",
@@ -8717,7 +8477,6 @@
         "annotate",
         "XVector",
         "Biostrings",
-        "DelayedArray",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -8759,7 +8518,6 @@
         "XVector",
         "BSgenome",
         "rtracklayer",
-        "DelayedArray",
         "ShortRead",
         "annotate",
         "AnnotationDbi",
@@ -8774,7 +8532,6 @@
         "DiffCorr",
         "multtest",
         "GenomicRanges",
-        "DelayedArray",
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
@@ -8807,7 +8564,6 @@
         "nloptr",
         "TH.data",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "tweenr",
         "ggrepel",
@@ -8831,7 +8587,6 @@
         "DRIMSeq",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -8845,8 +8600,7 @@
         "csaw",
         "rtracklayer",
         "XVector",
-        "GenomicAlignments",
-        "DelayedArray"
+        "GenomicAlignments"
     ],
     "diffuStats": [
         "precrec",
@@ -8878,7 +8632,6 @@
         "Biostrings",
         "XVector",
         "GenomicAlignments",
-        "DelayedArray",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -8898,7 +8651,6 @@
         "SingleCellExperiment",
         "Seurat",
         "scran",
-        "DelayedArray",
         "ScaledMatrix",
         "beachmat",
         "scuttle",
@@ -8971,7 +8723,6 @@
         "svglite",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "distinct": [
@@ -8981,7 +8732,6 @@
         "scater",
         "tibble",
         "scuttle",
-        "DelayedArray",
         "DelayedMatrixStats",
         "beachmat",
         "BiocNeighbors",
@@ -9006,14 +8756,12 @@
         "SingleCellExperiment",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
     "divergence": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "DMCFB": [
@@ -9031,7 +8779,6 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "DelayedArray",
         "pillar",
         "tidyselect",
         "nloptr",
@@ -9048,8 +8795,7 @@
         "TH.data",
         "Biostrings",
         "Rsamtools",
-        "GenomicAlignments",
-        "DelayedArray"
+        "GenomicAlignments"
     ],
     "DMRcaller": [
         "GenomicRanges",
@@ -9065,7 +8811,6 @@
         "Gviz",
         "SummarizedExperiment",
         "DelayedMatrixStats",
-        "DelayedArray",
         "BSgenome",
         "Biostrings",
         "HDF5Array",
@@ -9153,7 +8898,6 @@
         "viridis",
         "hms",
         "blob",
-        "DelayedArray",
         "pillar",
         "tibble",
         "tidyselect"
@@ -9180,7 +8924,6 @@
         "readr",
         "regioneR",
         "SummarizedExperiment",
-        "DelayedArray",
         "BSgenome",
         "Biostrings",
         "HDF5Array",
@@ -9216,8 +8959,7 @@
         "GenomicAlignments",
         "SummarizedExperiment",
         "Biostrings",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "DNAshapeR": [
         "GenomicRanges",
@@ -9241,7 +8983,6 @@
         "progress",
         "BiocFileCache",
         "XVector",
-        "DelayedArray",
         "Rsamtools",
         "rtracklayer",
         "BSgenome",
@@ -9259,7 +9000,6 @@
         "sva",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "genefilter",
         "AnnotationDbi",
         "annotate",
@@ -9323,7 +9063,6 @@
         "SummarizedExperiment",
         "nloptr",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "testthat",
         "waldo",
@@ -9339,8 +9078,7 @@
         "XVector",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "drawProteins": [
         "ggplot2",
@@ -9365,7 +9103,6 @@
         "SingleCellExperiment",
         "GenomicRanges",
         "SummarizedExperiment",
-        "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
         "beachmat",
@@ -9397,8 +9134,7 @@
         "XVector",
         "hms",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "DrugVsDisease": [
         "biomaRt",
@@ -9431,15 +9167,13 @@
         "XVector",
         "blob",
         "GenomicRanges",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "DSS": [
         "bsseq",
         "GenomicRanges",
         "SummarizedExperiment",
         "DelayedMatrixStats",
-        "DelayedArray",
         "BSgenome",
         "Biostrings",
         "HDF5Array",
@@ -9466,7 +9200,6 @@
         "tweenr",
         "progress",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "hms"
     ],
@@ -9509,7 +9242,6 @@
         "annotate",
         "XVector",
         "TH.data",
-        "DelayedArray",
         "mixtools",
         "KEGGREST",
         "dbplyr",
@@ -9588,7 +9320,6 @@
         "progress",
         "XVector",
         "latticeExtra",
-        "DelayedArray",
         "KEGGREST",
         "blob",
         "pillar",
@@ -9607,7 +9338,6 @@
         "AnnotationDbi",
         "XVector",
         "tibble",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "pillar",
@@ -9652,8 +9382,7 @@
         "blob",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "edge": [
         "sva",
@@ -9714,7 +9443,6 @@
         "XVector",
         "Biostrings",
         "blob",
-        "DelayedArray",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -9762,7 +9490,6 @@
         "SummarizedExperiment",
         "GSEABase",
         "SingleCellExperiment",
-        "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
         "BiocSingular",
@@ -9797,8 +9524,7 @@
     "eisaR": [
         "GenomicRanges",
         "SummarizedExperiment",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "ELMER": [
         "ELMER.data",
@@ -9821,7 +9547,6 @@
         "progress",
         "ggpubr",
         "rtracklayer",
-        "DelayedArray",
         "AnnotationDbi",
         "BiocFileCache",
         "tidyselect",
@@ -9890,7 +9615,6 @@
         "pillar",
         "tibble",
         "tidyselect",
-        "DelayedArray",
         "CNEr",
         "readr",
         "ggplot2",
@@ -9922,7 +9646,6 @@
         "siggenes",
         "DelayedMatrixStats",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "KEGGREST",
         "dbplyr",
@@ -9969,7 +9692,6 @@
         "Biostrings",
         "org.Hs.eg.db",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "blob",
         "pillar",
@@ -10065,7 +9787,6 @@
         "blob",
         "broom",
         "car",
-        "DelayedArray",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -10106,7 +9827,6 @@
         "dbplyr",
         "dplyr",
         "hms",
-        "DelayedArray",
         "pillar",
         "tibble",
         "tidyselect"
@@ -10116,7 +9836,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
-        "DelayedArray",
         "Rsamtools",
         "Biostrings",
         "AnnotationDbi",
@@ -10186,7 +9905,6 @@
         "hms",
         "vroom",
         "blob",
-        "DelayedArray",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -10232,7 +9950,6 @@
         "lme4",
         "SummarizedExperiment",
         "nloptr",
-        "DelayedArray",
         "testthat",
         "waldo",
         "rematch2"
@@ -10250,7 +9967,6 @@
         "XVector",
         "quantreg",
         "Biostrings",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "tibble",
@@ -10279,7 +9995,6 @@
         "GenomicAlignments",
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "tidyselect",
         "pillar",
         "broom",
@@ -10368,7 +10083,6 @@
         "rtracklayer",
         "readr",
         "hms",
-        "DelayedArray",
         "dbplyr",
         "shiny",
         "DT",
@@ -10424,7 +10138,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "pillar",
         "dbplyr",
@@ -10458,8 +10171,7 @@
     "epistack": [
         "GenomicRanges",
         "SummarizedExperiment",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "epistasisGA": [
         "batchtools",
@@ -10500,8 +10212,7 @@
         "GenomicAlignments",
         "ggplot2",
         "SummarizedExperiment",
-        "hms",
-        "DelayedArray"
+        "hms"
     ],
     "epivizr": [
         "epivizrServer",
@@ -10521,7 +10232,6 @@
         "Rsamtools",
         "Biostrings",
         "biomaRt",
-        "DelayedArray",
         "progress",
         "BiocFileCache",
         "blob",
@@ -10549,7 +10259,6 @@
         "Biostrings",
         "XVector",
         "biomaRt",
-        "DelayedArray",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -10577,7 +10286,6 @@
         "Biostrings",
         "XVector",
         "biomaRt",
-        "DelayedArray",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -10617,7 +10325,6 @@
         "dplyr",
         "AnnotationFilter",
         "hms",
-        "DelayedArray",
         "pillar",
         "tibble",
         "tidyselect"
@@ -10651,7 +10358,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "Biostrings",
         "bslib",
-        "DelayedArray",
         "biomaRt",
         "blob",
         "pillar",
@@ -10673,7 +10379,6 @@
         "annotate",
         "AnnotationDbi",
         "XVector",
-        "DelayedArray",
         "pillar",
         "RSQLite",
         "KEGGREST",
@@ -10733,7 +10438,6 @@
         "shadowtext",
         "ggtree",
         "blob",
-        "DelayedArray",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -10767,7 +10471,6 @@
         "pillar",
         "annotate",
         "AnnotationDbi",
-        "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
         "BiocSingular",
@@ -10809,7 +10512,6 @@
         "webshot",
         "svglite",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "XVector",
         "bslib",
@@ -10840,7 +10542,6 @@
         "biomaRt",
         "lava",
         "GenomicAlignments",
-        "DelayedArray",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -10859,7 +10560,6 @@
         "ggplot2",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "DelayedArray",
         "orthogene",
         "tibble",
         "tidyselect",
@@ -10920,8 +10620,7 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "ExiMiR": [],
     "exomeCopy": [
@@ -10947,7 +10646,6 @@
         "RSQLite",
         "biomaRt",
         "tibble",
-        "DelayedArray",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -11009,8 +10707,7 @@
         "shiny",
         "DT",
         "hms",
-        "bslib",
-        "DelayedArray"
+        "bslib"
     ],
     "ExperimentSubset": [
         "SummarizedExperiment",
@@ -11018,7 +10715,6 @@
         "SpatialExperiment",
         "TreeSummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "DropletUtils",
         "BiocFileCache",
         "Biostrings",
@@ -11059,7 +10755,6 @@
         "bookdown",
         "rmarkdown",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "bslib"
     ],
@@ -11097,7 +10792,6 @@
         "biovizBase",
         "latticeExtra",
         "GenomicAlignments",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "progress",
@@ -11139,8 +10833,7 @@
         "hms",
         "vroom",
         "blob",
-        "dbplyr",
-        "DelayedArray"
+        "dbplyr"
     ],
     "FamAgg": [
         "gap",
@@ -11239,8 +10932,7 @@
         "GenomicAlignments",
         "GenomicRanges",
         "latticeExtra",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "fastseg": [
         "GenomicRanges",
@@ -11251,7 +10943,6 @@
         "SummarizedExperiment",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -11277,7 +10968,6 @@
         "pillar",
         "hdrcde",
         "ks",
-        "DelayedArray",
         "tidyselect",
         "progress"
     ],
@@ -11310,7 +11000,6 @@
         "SummarizedExperiment",
         "hms",
         "GenomicRanges",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "HDO.db",
@@ -11344,7 +11033,6 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "DelayedArray",
         "AnnotationDbi",
         "BSgenome",
         "GenomicFeatures",
@@ -11369,7 +11057,6 @@
         "shiny",
         "ggplot2",
         "GenomicRanges",
-        "DelayedArray",
         "TrajectoryUtils",
         "XVector",
         "tibble",
@@ -11421,7 +11108,6 @@
         "siggenes",
         "DelayedMatrixStats",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "blob",
         "progress",
@@ -11482,7 +11168,6 @@
         "XVector",
         "Biostrings",
         "biomaRt",
-        "DelayedArray",
         "hms",
         "Rsamtools",
         "GenomicAlignments",
@@ -11501,7 +11186,6 @@
         "SingleCellExperiment",
         "XVector",
         "ggplot2",
-        "DelayedArray",
         "tibble",
         "pillar"
     ],
@@ -11518,7 +11202,6 @@
         "viridis",
         "vsn",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "tibble",
         "pillar"
@@ -11548,7 +11231,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
         "beachmat",
@@ -11631,7 +11313,6 @@
         "ggplot2",
         "dplyr",
         "ncdfFlow",
-        "DelayedArray",
         "GEOmap",
         "tibble",
         "tidyselect",
@@ -11660,7 +11341,6 @@
         "ggplot2",
         "dplyr",
         "ncdfFlow",
-        "DelayedArray",
         "GEOmap",
         "tibble",
         "tidyselect",
@@ -11757,7 +11437,6 @@
         "latticeExtra",
         "ggplot2",
         "dplyr",
-        "DelayedArray",
         "tibble",
         "tidyselect",
         "pillar",
@@ -11789,7 +11468,6 @@
         "fds",
         "ggplot2",
         "dplyr",
-        "DelayedArray",
         "tibble",
         "tidyselect",
         "pillar",
@@ -11800,7 +11478,6 @@
         "ggplot2",
         "dplyr",
         "ncdfFlow",
-        "DelayedArray",
         "tibble",
         "tidyselect",
         "pillar"
@@ -11865,7 +11542,6 @@
         "biomaRt",
         "BSgenome",
         "cowplot",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -11937,8 +11613,7 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "XVector",
-        "blob",
-        "DelayedArray"
+        "blob"
     ],
     "frmaTools": [],
     "FunChIP": [
@@ -11953,7 +11628,6 @@
         "XVector",
         "bslib",
         "rainbow",
-        "DelayedArray",
         "hdrcde",
         "ks",
         "ggplot2",
@@ -11973,7 +11647,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "XVector",
         "GenomicFeatures",
@@ -12017,7 +11690,6 @@
         "ggsignif",
         "rstatix",
         "GenomicRanges",
-        "DelayedArray",
         "tidyselect",
         "pillar",
         "XVector",
@@ -12050,7 +11722,6 @@
         "KEGGREST",
         "biomaRt",
         "GenomicAlignments",
-        "DelayedArray",
         "progress",
         "BiocFileCache",
         "blob",
@@ -12087,8 +11758,7 @@
         "SummarizedExperiment",
         "BSgenome",
         "dbplyr",
-        "hms",
-        "DelayedArray"
+        "hms"
     ],
     "gaga": [],
     "gage": [
@@ -12121,7 +11791,6 @@
         "testthat",
         "pamr",
         "GenomicRanges",
-        "DelayedArray",
         "lme4",
         "recipes",
         "geneplotter",
@@ -12194,8 +11863,7 @@
         "GenomicAlignments",
         "XVector",
         "rtracklayer",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "gCrisprTools": [
         "ggplot2",
@@ -12204,7 +11872,6 @@
         "tibble",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -12292,7 +11959,6 @@
         "Biostrings",
         "hms",
         "vroom",
-        "DelayedArray",
         "km.ci",
         "ggfun",
         "ggplotify",
@@ -12314,7 +11980,6 @@
         "rematch2"
     ],
     "GDSArray": [
-        "DelayedArray",
         "SeqArray",
         "GenomicRanges",
         "Biostrings",
@@ -12338,7 +12003,6 @@
         "tibble",
         "tidyr",
         "GenomicRanges",
-        "DelayedArray",
         "pillar",
         "dplyr",
         "tidyselect",
@@ -12362,7 +12026,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "DelayedArray",
         "dbplyr",
         "dplyr",
         "hms",
@@ -12425,7 +12088,6 @@
         "dbplyr",
         "dplyr",
         "hms",
-        "DelayedArray",
         "pillar",
         "tibble",
         "tidyselect"
@@ -12581,7 +12243,6 @@
         "viridis",
         "hms",
         "blob",
-        "DelayedArray",
         "pillar",
         "tibble",
         "tidyselect"
@@ -12626,7 +12287,6 @@
         "tidyselect",
         "pillar",
         "tweenr",
-        "DelayedArray",
         "annotate",
         "XVector",
         "Biostrings",
@@ -12654,8 +12314,7 @@
         "GenomicAlignments",
         "SummarizedExperiment",
         "bslib",
-        "blob",
-        "DelayedArray"
+        "blob"
     ],
     "GENIE3": [
         "dplyr",
@@ -12678,7 +12337,6 @@
         "tibble",
         "hms",
         "vroom",
-        "DelayedArray",
         "pillar",
         "tidyselect",
         "progress"
@@ -12710,8 +12368,7 @@
         "SummarizedExperiment",
         "Biostrings",
         "Rsamtools",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "GenomicDataCommons": [
         "readr",
@@ -12757,8 +12414,7 @@
         "hms",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "GenomicFiles": [
         "GenomicRanges",
@@ -12769,7 +12425,6 @@
         "VariantAnnotation",
         "Biostrings",
         "XVector",
-        "DelayedArray",
         "AnnotationDbi",
         "BSgenome",
         "GenomicFeatures",
@@ -12790,7 +12445,6 @@
         "mixtools",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "GenomicInteractionNodes": [
@@ -12815,8 +12469,7 @@
         "hms",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "GenomicInteractions": [
         "InteractionSet",
@@ -12847,7 +12500,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "DelayedArray",
         "dbplyr",
         "htmlTable",
         "viridis",
@@ -12888,7 +12540,6 @@
         "htmlTable",
         "viridis",
         "hms",
-        "DelayedArray",
         "pillar",
         "blob",
         "tidyselect"
@@ -12901,7 +12552,6 @@
         "BiocFileCache",
         "Biostrings",
         "AnnotationHub",
-        "DelayedArray",
         "HDF5Array",
         "RSQLite",
         "AnnotationDbi",
@@ -12939,7 +12589,6 @@
         "ggsignif",
         "rstatix",
         "GenomicRanges",
-        "DelayedArray",
         "blob",
         "XVector",
         "bslib",
@@ -12974,7 +12623,6 @@
         "RSQLite",
         "KEGGREST",
         "biomaRt",
-        "DelayedArray",
         "pillar",
         "progress",
         "BiocFileCache",
@@ -13038,7 +12686,6 @@
         "hms",
         "blob",
         "GenomicAlignments",
-        "DelayedArray",
         "pillar",
         "tidyselect"
     ],
@@ -13218,7 +12865,6 @@
     "getDEE2": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "GEWIST": [
@@ -13268,7 +12914,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "DelayedArray",
         "BiocFileCache",
         "tidyselect",
         "pillar",
@@ -13281,7 +12926,6 @@
         "ncdfFlow",
         "flowWorkspace",
         "dplyr",
-        "DelayedArray",
         "tibble",
         "tidyselect",
         "pillar"
@@ -13342,7 +12986,6 @@
         "ggside",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "DropletUtils",
         "BiocFileCache",
         "dbplyr",
@@ -13411,8 +13054,7 @@
         "GenomicRanges",
         "GenomicAlignments",
         "latticeExtra",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "GISPA": [
         "genefilter",
@@ -13454,7 +13096,6 @@
         "GenomicRanges",
         "geneplotter",
         "ggplot2",
-        "DelayedArray",
         "annotate",
         "AnnotationDbi",
         "XVector",
@@ -13467,7 +13108,6 @@
     ],
     "glmGamPoi": [
         "DelayedMatrixStats",
-        "DelayedArray",
         "HDF5Array",
         "SummarizedExperiment",
         "SingleCellExperiment",
@@ -13492,7 +13132,6 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "hms",
         "vroom",
@@ -13564,7 +13203,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "DelayedArray",
         "dbplyr",
         "dplyr",
         "hms",
@@ -13621,7 +13259,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "DelayedArray",
         "dbplyr",
         "dplyr",
         "hms",
@@ -13647,7 +13284,6 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "hms",
         "vroom",
@@ -13692,7 +13328,6 @@
         "viridis",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "XVector",
         "tibble",
@@ -13741,7 +13376,6 @@
         "dbplyr",
         "dplyr",
         "hms",
-        "DelayedArray",
         "pillar",
         "tibble",
         "tidyselect"
@@ -13850,8 +13484,7 @@
         "GenomicAlignments",
         "latticeExtra",
         "SummarizedExperiment",
-        "pillar",
-        "DelayedArray"
+        "pillar"
     ],
     "goTools": [
         "GO.db",
@@ -13906,7 +13539,6 @@
         "pillar",
         "hms",
         "vroom",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -13966,8 +13598,7 @@
         "rtracklayer",
         "SummarizedExperiment",
         "Biostrings",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "GRmetrics": [
         "SummarizedExperiment",
@@ -13980,7 +13611,6 @@
         "tidyr",
         "dplyr",
         "GenomicRanges",
-        "DelayedArray",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -14001,8 +13631,7 @@
         "SummarizedExperiment",
         "Biostrings",
         "Rsamtools",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "GRridge": [
         "penalized",
@@ -14021,7 +13650,6 @@
         "fGarch",
         "testthat",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "waldo",
         "rematch2",
@@ -14057,7 +13685,6 @@
         "pathview",
         "safe",
         "GenomicRanges",
-        "DelayedArray",
         "blob",
         "pillar",
         "tibble",
@@ -14131,8 +13758,7 @@
         "hms",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "GSRI": [
         "genefilter",
@@ -14149,7 +13775,6 @@
         "SummarizedExperiment",
         "GSEABase",
         "SingleCellExperiment",
-        "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
         "BiocSingular",
@@ -14193,7 +13818,6 @@
         "KEGGREST",
         "regioneR",
         "seqinr",
-        "DelayedArray",
         "keras",
         "tibble",
         "tidyselect",
@@ -14237,8 +13861,7 @@
         "SummarizedExperiment",
         "blob",
         "dbplyr",
-        "hms",
-        "DelayedArray"
+        "hms"
     ],
     "Gviz": [
         "GenomicRanges",
@@ -14269,7 +13892,6 @@
         "viridis",
         "hms",
         "blob",
-        "DelayedArray",
         "pillar",
         "tibble",
         "tidyselect"
@@ -14321,7 +13943,6 @@
         "shiny",
         "DT",
         "GenomicAlignments",
-        "DelayedArray",
         "bslib"
     ],
     "GWASTools": [
@@ -14347,7 +13968,6 @@
         "logistf",
         "quantsmooth",
         "GenomicRanges",
-        "DelayedArray",
         "Rsamtools",
         "XVector",
         "Biostrings",
@@ -14385,7 +14005,6 @@
         "pillar",
         "plotly",
         "GenomicRanges",
-        "DelayedArray",
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
@@ -14434,9 +14053,7 @@
         "blob",
         "progress"
     ],
-    "HDF5Array": [
-        "DelayedArray"
-    ],
+    "HDF5Array": [],
     "heatmaps": [
         "Biostrings",
         "GenomicRanges",
@@ -14457,7 +14074,6 @@
         "AnnotationDbi",
         "RSQLite",
         "biomaRt",
-        "DelayedArray",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -14490,7 +14106,6 @@
         "tidyselect",
         "pillar",
         "XVector",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -14522,8 +14137,7 @@
         "tidyselect",
         "pillar",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "HiCBricks": [
         "ggplot2",
@@ -14551,8 +14165,7 @@
         "SummarizedExperiment",
         "Rsamtools",
         "future.apply",
-        "Biostrings",
-        "DelayedArray"
+        "Biostrings"
     ],
     "HiCDCPlus": [
         "InteractionSet",
@@ -14578,7 +14191,6 @@
         "ensembldb",
         "biovizBase",
         "latticeExtra",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "progress",
@@ -14614,7 +14226,6 @@
         "ggsignif",
         "rstatix",
         "HiCcompare",
-        "DelayedArray",
         "tidyselect",
         "pillar",
         "QDNAseq",
@@ -14669,7 +14280,6 @@
         "biovizBase",
         "latticeExtra",
         "GenomicAlignments",
-        "DelayedArray",
         "KEGGREST",
         "Hmisc",
         "VariantAnnotation",
@@ -14719,8 +14329,7 @@
         "GenomicAlignments",
         "dbplyr",
         "SummarizedExperiment",
-        "hms",
-        "DelayedArray"
+        "hms"
     ],
     "hipathia": [
         "AnnotationHub",
@@ -14728,7 +14337,6 @@
         "SummarizedExperiment",
         "coin",
         "servr",
-        "DelayedArray",
         "BiocFileCache",
         "RSQLite",
         "AnnotationDbi",
@@ -14761,7 +14369,6 @@
         "pillar",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "RSpectra",
         "XVector"
     ],
@@ -14783,8 +14390,7 @@
         "ggplot2",
         "cellranger",
         "progress",
-        "hms",
-        "DelayedArray"
+        "hms"
     ],
     "HiTC": [
         "GenomicRanges",
@@ -14793,8 +14399,7 @@
         "XVector",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "HPAanalyze": [
         "dplyr",
@@ -14851,7 +14456,6 @@
         "biomaRt",
         "BSgenome",
         "latticeExtra",
-        "DelayedArray",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -14873,7 +14477,6 @@
         "AnnotationDbi",
         "XVector",
         "tibble",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "pillar",
@@ -14902,14 +14505,12 @@
         "bslib",
         "DT",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "hummingbird": [
         "GenomicRanges",
         "SummarizedExperiment",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "HybridMTest": [],
     "hypeR": [
@@ -14935,7 +14536,6 @@
     "iasva": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "iBBiG": [
@@ -14983,7 +14583,6 @@
         "biomaRt",
         "tibble",
         "latticeExtra",
-        "DelayedArray",
         "BSgenome",
         "KEGGREST",
         "progress",
@@ -15026,7 +14625,6 @@
         "siggenes",
         "DelayedMatrixStats",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "Rsamtools",
         "GenomicAlignments",
@@ -15058,8 +14656,7 @@
         "GenomicRanges",
         "rtracklayer",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "iCOBRA": [
         "shiny",
@@ -15120,7 +14717,6 @@
         "biomaRt",
         "tidyr",
         "bslib",
-        "DelayedArray",
         "progress",
         "BiocFileCache",
         "GSEABase",
@@ -15140,8 +14736,7 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "idiogram": [
         "annotate",
@@ -15177,7 +14772,6 @@
         "ggplot2",
         "pkgbuild",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "tibble",
         "pillar"
@@ -15198,7 +14792,6 @@
         "RSQLite",
         "KEGGREST",
         "biomaRt",
-        "DelayedArray",
         "progress",
         "BiocFileCache",
         "blob",
@@ -15227,7 +14820,6 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "cellranger",
         "progress",
@@ -15278,7 +14870,6 @@
         "pillar",
         "testthat",
         "blob",
-        "DelayedArray",
         "dbplyr",
         "hms",
         "waldo",
@@ -15304,7 +14895,6 @@
         "concaveman",
         "tidyselect",
         "HDF5Array",
-        "DelayedArray",
         "ggbeeswarm",
         "svgPanZoom",
         "svglite",
@@ -15348,7 +14938,6 @@
         "flowWorkspace",
         "dplyr",
         "ncdfFlow",
-        "DelayedArray",
         "tibble",
         "viridis",
         "dendextend",
@@ -15424,7 +15013,6 @@
         "spatstat.explore",
         "uwot",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "TH.data",
         "bslib",
@@ -15464,8 +15052,7 @@
         "blob",
         "BiocFileCache",
         "SummarizedExperiment",
-        "dbplyr",
-        "DelayedArray"
+        "dbplyr"
     ],
     "INSPEcT": [
         "GenomicFeatures",
@@ -15485,7 +15072,6 @@
         "XVector",
         "biomaRt",
         "bslib",
-        "DelayedArray",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -15515,7 +15101,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "DelayedArray",
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
@@ -15562,7 +15147,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "DelayedArray",
         "BiocFileCache",
         "tidyselect",
         "pillar",
@@ -15574,8 +15158,7 @@
     "InteractionSet": [
         "GenomicRanges",
         "SummarizedExperiment",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "InteractiveComplexHeatmap": [
         "shiny",
@@ -15691,7 +15274,6 @@
         "genefilter",
         "RSQLite",
         "rtracklayer",
-        "DelayedArray",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -15711,7 +15293,6 @@
         "SummarizedExperiment",
         "XVector",
         "RSQLite",
-        "DelayedArray",
         "blob"
     ],
     "IntramiRExploreR": [],
@@ -15729,8 +15310,7 @@
         "GenomicAlignments",
         "GenomicRanges",
         "latticeExtra",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "iPAC": [
         "Biostrings",
@@ -15797,7 +15377,6 @@
         "viridis",
         "vsn",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "tibble",
         "pillar"
@@ -15842,7 +15421,6 @@
         "tidygraph",
         "scuttle",
         "SummarizedExperiment",
-        "DelayedArray",
         "DelayedMatrixStats",
         "beachmat",
         "BiocNeighbors",
@@ -15934,7 +15512,6 @@
         "tibble",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -15955,7 +15532,6 @@
         "shinyWidgets",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "miniUI",
         "XVector",
         "pillar"
@@ -15983,7 +15559,6 @@
         "shinyWidgets",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "KEGGREST",
         "dbplyr",
         "miniUI",
@@ -16013,14 +15588,12 @@
         "shinyWidgets",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
     "ISLET": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "isobar": [
@@ -16102,7 +15675,6 @@
         "progress",
         "AnnotationFilter",
         "annotate",
-        "DelayedArray",
         "blob",
         "shiny",
         "DT",
@@ -16134,7 +15706,6 @@
         "progress",
         "hms",
         "vroom",
-        "DelayedArray",
         "annotate",
         "Biostrings",
         "blob"
@@ -16148,8 +15719,7 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "XVector",
-        "blob",
-        "DelayedArray"
+        "blob"
     ],
     "iterativeBMA": [
         "BMA"
@@ -16186,7 +15756,6 @@
         "SummarizedExperiment",
         "hms",
         "waldo",
-        "DelayedArray",
         "rematch2"
     ],
     "ivygapSE": [
@@ -16201,7 +15770,6 @@
         "dplyr",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "ggpubr",
         "broom",
         "survMisc",
@@ -16264,7 +15832,6 @@
         "htmlTable",
         "viridis",
         "blob",
-        "DelayedArray",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -16298,7 +15865,6 @@
         "RSQLite",
         "KEGGREST",
         "biomaRt",
-        "DelayedArray",
         "progress",
         "BiocFileCache",
         "blob",
@@ -16364,7 +15930,6 @@
         "tibble",
         "bslib",
         "DelayedMatrixStats",
-        "DelayedArray",
         "BSgenome",
         "Biostrings",
         "HDF5Array",
@@ -16457,7 +16022,6 @@
         "bslib",
         "learnr",
         "GenomicRanges",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -16481,7 +16045,6 @@
         "multcomp",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "TH.data",
         "pillar"
@@ -16508,7 +16071,6 @@
         "SummarizedExperiment",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -16516,7 +16078,6 @@
         "VariantAnnotation",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "Rsamtools",
         "XVector",
         "Biostrings",
@@ -16554,7 +16115,6 @@
         "rstatix",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "haven",
         "readxl",
         "tidyselect",
@@ -16606,7 +16166,6 @@
     "lionessR": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "lipidr": [
@@ -16627,7 +16186,6 @@
         "MultiAssayExperiment",
         "MultiDataSet",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "ggrepel"
     ],
@@ -16663,7 +16221,6 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "DropletUtils",
         "BiocFileCache",
         "spatstat.random",
@@ -16699,7 +16256,6 @@
         "viridis",
         "vsn",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "tibble",
         "pillar"
@@ -16718,7 +16274,6 @@
     "LoomExperiment": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "DelayedArray",
         "GenomicRanges",
         "HDF5Array",
         "XVector"
@@ -16750,7 +16305,6 @@
         "dbplyr",
         "RSQLite",
         "pillar",
-        "DelayedArray",
         "hms",
         "vroom",
         "rvest",
@@ -16828,7 +16382,6 @@
         "siggenes",
         "DelayedMatrixStats",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "Rsamtools",
         "GenomicAlignments",
@@ -16914,7 +16467,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "DelayedArray",
         "prodlim",
         "bslib",
         "lava",
@@ -16946,7 +16498,6 @@
     ],
     "Macarron": [
         "SummarizedExperiment",
-        "DelayedArray",
         "WGCNA",
         "Maaslin2",
         "metagenomeSeq",
@@ -17031,7 +16582,6 @@
     "made4": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "MADSEQ": [
@@ -17046,7 +16596,6 @@
         "rtracklayer",
         "vcfR",
         "XVector",
-        "DelayedArray",
         "AnnotationDbi",
         "GenomicFeatures",
         "dplyr",
@@ -17078,7 +16627,6 @@
         "tibble",
         "oligoClasses",
         "illuminaio",
-        "DelayedArray",
         "GenomicRanges",
         "fields",
         "methylumi",
@@ -17180,7 +16728,6 @@
         "ggplot2",
         "recipes",
         "GenomicRanges",
-        "DelayedArray",
         "broom",
         "dbplyr",
         "dplyr",
@@ -17241,7 +16788,6 @@
         "tidyr",
         "tidyselect",
         "GenomicRanges",
-        "DelayedArray",
         "pillar",
         "XVector",
         "prodlim",
@@ -17306,7 +16852,6 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "martini": [
@@ -17345,8 +16890,7 @@
         "htmlTable",
         "viridis",
         "hms",
-        "blob",
-        "DelayedArray"
+        "blob"
     ],
     "maskBAD": [
         "gcrma",
@@ -17361,7 +16905,6 @@
         "tibble",
         "hms",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -17391,7 +16934,6 @@
         "tmvtnorm",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "RSpectra",
         "XVector"
     ],
@@ -17417,7 +16959,6 @@
         "tibble",
         "hms",
         "vroom",
-        "DelayedArray",
         "pillar",
         "tidyselect",
         "progress"
@@ -17426,8 +16967,7 @@
     "MBASED": [
         "GenomicRanges",
         "SummarizedExperiment",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "MBECS": [
         "phyloseq",
@@ -17459,7 +16999,6 @@
         "rematch2"
     ],
     "mbkmeans": [
-        "DelayedArray",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "ClusterR",
@@ -17506,7 +17045,6 @@
         "mice",
         "quantreg",
         "blob",
-        "DelayedArray",
         "broom",
         "dplyr",
         "tidyr",
@@ -17528,7 +17066,6 @@
         "gld",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "blob",
         "pillar",
         "tidyselect",
@@ -17587,7 +17124,6 @@
         "GO.db",
         "org.Hs.eg.db",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "DelayedArray",
         "KEGGREST",
         "dbplyr",
         "dplyr",
@@ -17612,8 +17148,7 @@
         "Biostrings",
         "Rsamtools",
         "XVector",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "MEAL": [
         "MultiDataSet",
@@ -17646,7 +17181,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
@@ -17699,7 +17233,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "methylumi",
         "lumi",
@@ -17731,7 +17264,6 @@
     "MEB": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "MEDIPS": [
@@ -17755,8 +17287,7 @@
         "blob",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "MEDME": [
         "Biostrings",
@@ -17949,7 +17480,6 @@
         "vsn",
         "ggplot2",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "tibble",
         "pillar"
@@ -17984,7 +17514,6 @@
         "MultiAssayExperiment",
         "plotly",
         "GenomicRanges",
-        "DelayedArray",
         "ggplot2",
         "DT",
         "blob",
@@ -17998,7 +17527,6 @@
         "struct",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "rols",
         "XVector",
@@ -18052,7 +17580,6 @@
         "viridis",
         "hms",
         "blob",
-        "DelayedArray",
         "pillar",
         "tidyselect",
         "nloptr",
@@ -18111,7 +17638,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "DelayedArray",
         "pillar",
         "dbplyr",
         "dplyr",
@@ -18130,8 +17656,7 @@
         "pillar",
         "SummarizedExperiment",
         "Biostrings",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "metagenomeSeq": [
         "glmnet"
@@ -18149,7 +17674,6 @@
         "viridis",
         "vsn",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "tibble",
         "pillar"
@@ -18164,7 +17688,6 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "MetaPhOR": [
@@ -18268,7 +17791,6 @@
         "bslib",
         "bookdown",
         "blob",
-        "DelayedArray",
         "prodlim",
         "ipred",
         "KEGGREST",
@@ -18313,7 +17835,6 @@
         "Rsamtools",
         "biomaRt",
         "tibble",
-        "DelayedArray",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -18359,7 +17880,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "DelayedMatrixStats",
-        "DelayedArray",
         "BSgenome",
         "Biostrings",
         "HDF5Array",
@@ -18398,14 +17918,12 @@
         "GenomicAlignments",
         "SummarizedExperiment",
         "tibble",
-        "DelayedArray",
         "pillar"
     ],
     "MethReg": [
         "dplyr",
         "GenomicRanges",
         "SummarizedExperiment",
-        "DelayedArray",
         "ggplot2",
         "ggpubr",
         "tibble",
@@ -18451,7 +17969,6 @@
     "methrix": [
         "SummarizedExperiment",
         "rtracklayer",
-        "DelayedArray",
         "HDF5Array",
         "BSgenome",
         "DelayedMatrixStats",
@@ -18483,7 +18000,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "bslib",
         "XVector",
@@ -18522,7 +18038,6 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "SummarizedExperiment",
         "DelayedMatrixStats",
-        "DelayedArray",
         "BSgenome",
         "Biostrings",
         "HDF5Array",
@@ -18596,7 +18111,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "broom",
         "dbplyr",
@@ -18697,7 +18211,6 @@
         "siggenes",
         "DelayedMatrixStats",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "blob",
         "ggfun",
@@ -18738,8 +18251,7 @@
         "Biostrings",
         "GenomicAlignments",
         "pillar",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "methylKit": [
         "GenomicRanges",
@@ -18754,7 +18266,6 @@
         "GenomicAlignments",
         "SummarizedExperiment",
         "tibble",
-        "DelayedArray",
         "pillar"
     ],
     "MethylMix": [
@@ -18779,7 +18290,6 @@
         "BSgenome",
         "biovizBase",
         "latticeExtra",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "progress",
@@ -18810,7 +18320,6 @@
         "bslib",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "pillar"
     ],
     "MethylSeekR": [
@@ -18827,12 +18336,10 @@
         "RSQLite",
         "KEGGREST",
         "SummarizedExperiment",
-        "blob",
-        "DelayedArray"
+        "blob"
     ],
     "methylSig": [
         "bsseq",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DSS",
         "GenomicRanges",
@@ -18870,7 +18377,6 @@
         "siggenes",
         "DelayedMatrixStats",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "progress",
         "BiocFileCache",
@@ -18922,7 +18428,6 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "mfa": [
@@ -18978,7 +18483,6 @@
         "vegan",
         "Biostrings",
         "DECIPHER",
-        "DelayedArray",
         "DelayedMatrixStats",
         "scuttle",
         "scater",
@@ -19009,7 +18513,6 @@
         "SummarizedExperiment",
         "TreeSummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "SingleCellExperiment",
         "Biostrings",
         "dplyr",
@@ -19027,7 +18530,6 @@
         "mia",
         "ggplot2",
         "ggraph",
-        "DelayedArray",
         "scater",
         "ggtree",
         "ggnewscale",
@@ -19136,7 +18638,6 @@
         "AnnotationDbi",
         "XVector",
         "nloptr",
-        "DelayedArray",
         "progress",
         "RSQLite",
         "KEGGREST",
@@ -19199,7 +18700,6 @@
         "MultiAssayExperiment",
         "decontam",
         "DECIPHER",
-        "DelayedArray",
         "DelayedMatrixStats",
         "scuttle",
         "scater",
@@ -19307,7 +18807,6 @@
         "ggfun",
         "ggnewscale",
         "GenomicRanges",
-        "DelayedArray",
         "ggplotify",
         "TH.data"
     ],
@@ -19334,7 +18833,6 @@
         "webshot",
         "svglite",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "bslib"
     ],
@@ -19374,7 +18872,6 @@
         "dplyr",
         "ggrepel",
         "ggbeeswarm",
-        "DelayedArray",
         "ScaledMatrix",
         "beachmat",
         "tidyselect",
@@ -19396,8 +18893,7 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "XVector",
-        "blob",
-        "DelayedArray"
+        "blob"
     ],
     "MIMOSA": [
         "ggplot2",
@@ -19467,7 +18963,6 @@
         "siggenes",
         "DelayedMatrixStats",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "Rsamtools",
         "GenomicAlignments",
@@ -19486,7 +18981,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "XVector",
         "GenomicFeatures",
@@ -19520,7 +19014,6 @@
         "XVector",
         "Biostrings",
         "RSQLite",
-        "DelayedArray",
         "crlmm",
         "BSgenome.Hsapiens.UCSC.hg18",
         "BSgenome",
@@ -19537,7 +19030,6 @@
         "tibble",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -19547,7 +19039,6 @@
         "bsseq",
         "SummarizedExperiment",
         "DelayedMatrixStats",
-        "DelayedArray",
         "BSgenome",
         "Biostrings",
         "HDF5Array",
@@ -19607,7 +19098,6 @@
         "viridis",
         "mboost",
         "GenomicRanges",
-        "DelayedArray",
         "biomaRt",
         "rvest",
         "readr",
@@ -19627,7 +19117,6 @@
     "miRmine": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "miRNAmeConverter": [
@@ -19683,7 +19172,6 @@
         "metR",
         "ggvis",
         "GenomicRanges",
-        "DelayedArray",
         "Hmisc",
         "GO.db",
         "RSQLite",
@@ -19898,7 +19386,6 @@
         "siggenes",
         "DelayedMatrixStats",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "rtracklayer",
@@ -19925,7 +19412,6 @@
         "tibble",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "XVector",
         "pillar",
@@ -19980,7 +19466,6 @@
         "VariantAnnotation",
         "XVector",
         "tibble",
-        "DelayedArray",
         "pillar",
         "Rsamtools",
         "AnnotationDbi",
@@ -20022,7 +19507,6 @@
         "dplyr",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "tibble",
@@ -20051,7 +19535,6 @@
         "GenomicRanges",
         "geneplotter",
         "tibble",
-        "DelayedArray",
         "waldo",
         "annotate",
         "AnnotationDbi",
@@ -20085,8 +19568,7 @@
         "bslib",
         "GenomicAlignments",
         "pillar",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "MMUPHin": [
         "Maaslin2",
@@ -20129,7 +19611,6 @@
         "ClusterR",
         "ggplot2",
         "GenomicRanges",
-        "DelayedArray",
         "GO.db",
         "AnnotationDbi",
         "RSQLite",
@@ -20150,7 +19631,6 @@
         "MsFeatures",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -20184,7 +19664,6 @@
         "ggrepel",
         "HDF5Array",
         "forcats",
-        "DelayedArray",
         "uwot",
         "tibble",
         "tidyselect",
@@ -20222,7 +19701,6 @@
         "pillar",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "hms",
         "vroom",
         "XVector",
@@ -20238,7 +19716,6 @@
         "XVector",
         "rtracklayer",
         "Rsamtools",
-        "DelayedArray",
         "CNEr",
         "RSQLite",
         "GenomicAlignments",
@@ -20288,7 +19765,6 @@
         "readr",
         "rgl",
         "GenomicRanges",
-        "DelayedArray",
         "biomaRt",
         "tibble",
         "rvest",
@@ -20328,8 +19804,7 @@
         "Rsamtools",
         "SummarizedExperiment",
         "Biostrings",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "mosbi": [
         "biclust",
@@ -20358,8 +19833,7 @@
         "XVector",
         "rtracklayer",
         "Rsamtools",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "motifbreakR": [
         "MotifDb",
@@ -20382,7 +19856,6 @@
         "GenomicAlignments",
         "ggplot2",
         "TFBSTools",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "progress",
@@ -20415,8 +19888,7 @@
         "XVector",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "motifmatchr": [
         "TFBSTools",
@@ -20427,7 +19899,6 @@
         "Rsamtools",
         "XVector",
         "rtracklayer",
-        "DelayedArray",
         "CNEr",
         "RSQLite",
         "GenomicAlignments",
@@ -20468,7 +19939,6 @@
         "SummarizedExperiment",
         "hms",
         "vroom",
-        "DelayedArray",
         "tidyselect",
         "progress"
     ],
@@ -20495,7 +19965,6 @@
     "mpra": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "MPRAnalyze": [
@@ -20503,7 +19972,6 @@
         "SummarizedExperiment",
         "hms",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "MQmetrics": [
@@ -20573,7 +20041,6 @@
         "AnnotationFilter",
         "plotly",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "tidyr",
         "ggplot2",
@@ -20585,7 +20052,6 @@
     "MsFeatures": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "msgbsR": [
@@ -20615,7 +20081,6 @@
         "ensembldb",
         "AnnotationFilter",
         "tibble",
-        "DelayedArray",
         "KEGGREST",
         "dbplyr",
         "dplyr",
@@ -20640,7 +20105,6 @@
         "SingleCellExperiment",
         "scuttle",
         "SummarizedExperiment",
-        "DelayedArray",
         "DelayedMatrixStats",
         "BiocSingular",
         "bluster",
@@ -20721,7 +20185,6 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "genefilter",
         "car",
         "ranger",
@@ -20759,7 +20222,6 @@
         "MultiAssayExperiment",
         "nloptr",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "AnnotationFilter",
         "plotly",
@@ -20968,7 +20430,6 @@
         "MultiAssayExperiment",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "DelayedArray",
         "GenomicRanges",
         "tidyr",
         "XVector",
@@ -20987,7 +20448,6 @@
     "MultiAssayExperiment": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "XVector",
         "dplyr",
@@ -21002,7 +20462,6 @@
         "tibble",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "plotly",
         "MultiDataSet",
@@ -21039,7 +20498,6 @@
         "XVector",
         "Rsamtools",
         "seqinr",
-        "DelayedArray",
         "dplyr",
         "keras",
         "AnnotationDbi",
@@ -21076,7 +20534,6 @@
         "ggrepel",
         "XVector",
         "tibble",
-        "DelayedArray",
         "pillar"
     ],
     "multiGSEA": [
@@ -21117,8 +20574,7 @@
         "SummarizedExperiment",
         "Rsamtools",
         "future.apply",
-        "Biostrings",
-        "DelayedArray"
+        "Biostrings"
     ],
     "multiMiR": [
         "tibble",
@@ -21135,7 +20591,6 @@
     "multiOmicsViz": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "multiSight": [
@@ -21210,7 +20665,6 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "DelayedArray",
         "multtest",
         "multcomp",
         "RSpectra",
@@ -21238,7 +20692,6 @@
     "multtest": [],
     "mumosa": [
         "SingleCellExperiment",
-        "DelayedArray",
         "DelayedMatrixStats",
         "SummarizedExperiment",
         "BiocNeighbors",
@@ -21275,7 +20728,6 @@
         "RSQLite",
         "KEGGREST",
         "biomaRt",
-        "DelayedArray",
         "progress",
         "BiocFileCache",
         "blob",
@@ -21305,7 +20757,6 @@
         "pillar",
         "nloptr",
         "hms",
-        "DelayedArray",
         "DelayedMatrixStats",
         "beachmat",
         "BiocNeighbors",
@@ -21385,7 +20836,6 @@
         "biomaRt",
         "bslib",
         "learnr",
-        "DelayedArray",
         "rvest",
         "readr",
         "KEGGREST",
@@ -21438,7 +20888,6 @@
         "KEGGREST",
         "biomaRt",
         "GenomicAlignments",
-        "DelayedArray",
         "progress",
         "BiocFileCache",
         "blob",
@@ -21458,7 +20907,6 @@
         "tibble",
         "Biostrings",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "nloptr",
         "broom",
@@ -21497,8 +20945,7 @@
         "SummarizedExperiment",
         "hms",
         "pillar",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "myvariant": [
         "VariantAnnotation",
@@ -21521,7 +20968,6 @@
         "biomaRt",
         "tibble",
         "GenomicAlignments",
-        "DelayedArray",
         "progress",
         "BiocFileCache",
         "blob",
@@ -21549,7 +20995,6 @@
         "XVector",
         "TFisher",
         "mutoss",
-        "DelayedArray",
         "GenomicFeatures",
         "Gviz",
         "AnnotationDbi",
@@ -21612,7 +21057,6 @@
         "tibble",
         "tidyr",
         "KEGGREST",
-        "DelayedArray",
         "ScaledMatrix",
         "beachmat",
         "DelayedMatrixStats",
@@ -21712,7 +21156,6 @@
         "ggplot2",
         "AnnotationDbi",
         "annotate",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "XVector",
@@ -21748,7 +21191,6 @@
         "vsn",
         "ggplot2",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "tibble",
         "pillar"
@@ -21801,7 +21243,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "DelayedArray",
         "dbplyr",
         "hms"
     ],
@@ -21827,7 +21268,6 @@
         "spatstat.explore",
         "uwot",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "tidyr",
         "dplyr",
@@ -21850,7 +21290,6 @@
     ],
     "NetActivity": [
         "airway",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DESeq2",
         "SummarizedExperiment",
@@ -21937,7 +21376,6 @@
         "XVector",
         "tibble",
         "SummarizedExperiment",
-        "DelayedArray",
         "tidyr",
         "blob",
         "pillar",
@@ -22026,7 +21464,6 @@
         "clusterExperiment",
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "DelayedArray",
         "HDF5Array",
         "NMF",
         "BiocSingular",
@@ -22115,7 +21552,6 @@
         "illuminaio",
         "DelayedMatrixStats",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "GenomicFeatures",
         "multtest",
@@ -22130,7 +21566,6 @@
         "tfruns",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "tfautograph",
         "tidyselect"
@@ -22138,7 +21573,6 @@
     "NewWave": [
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "DelayedArray",
         "BiocSingular",
         "ScaledMatrix",
         "beachmat",
@@ -22171,7 +21605,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "DropletUtils",
         "BiocFileCache",
         "dbplyr",
@@ -22225,8 +21658,7 @@
         "hms",
         "vroom",
         "Rsamtools",
-        "GenomicAlignments",
-        "DelayedArray"
+        "GenomicAlignments"
     ],
     "normalize450K": [
         "illuminaio"
@@ -22248,7 +21680,6 @@
         "haven",
         "readxl",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "forcats",
         "hms",
@@ -22284,7 +21715,6 @@
         "GenomicAlignments",
         "SummarizedExperiment",
         "tibble",
-        "DelayedArray",
         "pillar"
     ],
     "NPARC": [
@@ -22319,8 +21749,7 @@
         "pillar",
         "GenomicAlignments",
         "latticeExtra",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "nullranges": [
         "GenomicRanges",
@@ -22340,8 +21769,7 @@
         "Rsamtools",
         "hms",
         "pillar",
-        "Biostrings",
-        "DelayedArray"
+        "Biostrings"
     ],
     "NxtIRFcore": [
         "NxtIRFdata",
@@ -22350,7 +21778,6 @@
         "BiocFileCache",
         "Biostrings",
         "BSgenome",
-        "DelayedArray",
         "DelayedMatrixStats",
         "genefilter",
         "GenomicRanges",
@@ -22409,7 +21836,6 @@
         "GenomicFeatures",
         "GSEABase",
         "SingleCellExperiment",
-        "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
         "BiocSingular",
@@ -22478,7 +21904,6 @@
         "vroom",
         "broom",
         "car",
-        "DelayedArray",
         "progress",
         "pbkrtest",
         "quantreg",
@@ -22537,8 +21962,7 @@
         "blob",
         "htmlTable",
         "viridis",
-        "hms",
-        "DelayedArray"
+        "hms"
     ],
     "oligo": [
         "oligoClasses",
@@ -22547,8 +21971,7 @@
         "XVector",
         "GenomicRanges",
         "SummarizedExperiment",
-        "blob",
-        "DelayedArray"
+        "blob"
     ],
     "oligoClasses": [
         "GenomicRanges",
@@ -22556,8 +21979,7 @@
         "Biostrings",
         "RSQLite",
         "XVector",
-        "blob",
-        "DelayedArray"
+        "blob"
     ],
     "OLINgui": [],
     "omada": [
@@ -22603,7 +22025,6 @@
         "made4",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "OmicCircos": [
@@ -22622,8 +22043,7 @@
         "multtest",
         "bslib",
         "NADA",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "omicRexposome": [
         "rexposome",
@@ -22646,7 +22066,6 @@
         "lme4",
         "mice",
         "RSpectra",
-        "DelayedArray",
         "genefilter",
         "car",
         "DT",
@@ -22678,7 +22097,6 @@
         "ggplot2",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -22713,7 +22131,6 @@
         "rvest",
         "webshot",
         "svglite",
-        "DelayedArray",
         "bslib",
         "XVector",
         "dplyr",
@@ -22746,7 +22163,6 @@
         "MultiAssayExperiment",
         "RaggedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "XVector",
         "dplyr",
@@ -22778,7 +22194,6 @@
         "blob",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "ggpubr",
         "broom",
         "survMisc",
@@ -22834,7 +22249,6 @@
         "SummarizedExperiment",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -22917,7 +22331,6 @@
         "pillar",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "KEGGREST",
         "blob",
         "XVector",
@@ -22931,7 +22344,6 @@
         "latticeExtra",
         "ggplot2",
         "dplyr",
-        "DelayedArray",
         "tibble",
         "tidyselect",
         "pillar"
@@ -23029,7 +22441,6 @@
         "AnnotationDbi",
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
         "BiocSingular",
@@ -23091,8 +22502,7 @@
         "GenomicRanges",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "ORFik": [
         "GenomicRanges",
@@ -23118,7 +22528,6 @@
         "readr",
         "XVector",
         "geneplotter",
-        "DelayedArray",
         "dbplyr",
         "tidyselect",
         "pillar",
@@ -23149,8 +22558,7 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "hms",
-        "DelayedArray"
+        "hms"
     ],
     "OrganismDbi": [
         "AnnotationDbi",
@@ -23173,8 +22581,7 @@
         "hms",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "orthogene": [
         "dplyr",
@@ -23184,7 +22591,6 @@
         "ggplot2",
         "ggpubr",
         "patchwork",
-        "DelayedArray",
         "repmis",
         "ggtree",
         "tibble",
@@ -23234,8 +22640,7 @@
         "GenomicAlignments",
         "GenomicRanges",
         "latticeExtra",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "OUTRIDER": [
         "GenomicFeatures",
@@ -23260,7 +22665,6 @@
         "egg",
         "tidyr",
         "dplyr",
-        "DelayedArray",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -23276,7 +22680,6 @@
     "OVESEG": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "PAA": [
@@ -23307,7 +22710,6 @@
         "ggplot2",
         "ggrepel",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "pbkrtest",
         "quantreg",
@@ -23344,7 +22746,6 @@
         "SummarizedExperiment",
         "Rsamtools",
         "rtracklayer",
-        "DelayedArray",
         "CNEr",
         "RSQLite",
         "GenomicAlignments",
@@ -23367,7 +22768,6 @@
         "SummarizedExperiment",
         "testthat",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "waldo",
         "rematch2",
@@ -23380,7 +22780,6 @@
         "tibble",
         "Biostrings",
         "GenomicRanges",
-        "DelayedArray",
         "pillar",
         "XVector"
     ],
@@ -23516,8 +22915,7 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "PathoStat": [
         "ggplot2",
@@ -23559,7 +22957,6 @@
         "AnnotationDbi",
         "downlit",
         "ragg",
-        "DelayedArray",
         "waldo",
         "gert",
         "gh",
@@ -23641,7 +23038,6 @@
         "egg",
         "dplyr",
         "bslib",
-        "DelayedArray",
         "tidyselect",
         "dbplyr",
         "GSEABase",
@@ -23656,7 +23052,6 @@
         "ggrepel",
         "cowplot",
         "DelayedMatrixStats",
-        "DelayedArray",
         "BiocSingular",
         "beachmat",
         "ScaledMatrix",
@@ -23688,7 +23083,6 @@
         "iC10",
         "AIMS",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "fgsea",
         "shiny",
@@ -23743,15 +23137,13 @@
         "XVector",
         "GenomicRanges",
         "SummarizedExperiment",
-        "blob",
-        "DelayedArray"
+        "blob"
     ],
     "PeacoQC": [
         "flowWorkspace",
         "ggplot2",
         "dplyr",
         "ncdfFlow",
-        "DelayedArray",
         "tibble",
         "tidyselect",
         "pillar"
@@ -23791,7 +23183,6 @@
         "SummarizedExperiment",
         "scuttle",
         "ggplot2",
-        "DelayedArray",
         "DelayedMatrixStats",
         "beachmat",
         "BiocNeighbors",
@@ -23851,8 +23242,7 @@
         "tibble",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "pillar",
-        "DelayedArray"
+        "pillar"
     ],
     "PFP": [
         "KEGGgraph",
@@ -23921,7 +23311,6 @@
         "hms",
         "vroom",
         "blob",
-        "DelayedArray",
         "progress"
     ],
     "PharmacoGx": [
@@ -23933,7 +23322,6 @@
         "bench",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "pillar",
         "XVector",
@@ -23973,7 +23361,6 @@
         "progress",
         "testthat",
         "GenomicRanges",
-        "DelayedArray",
         "dplyr",
         "pillar",
         "tidyselect",
@@ -23993,7 +23380,6 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "phenoTest": [
@@ -24068,7 +23454,6 @@
         "dplyr",
         "RSQLite",
         "XVector",
-        "DelayedArray",
         "blob",
         "pillar",
         "tibble",
@@ -24098,7 +23483,6 @@
         "ggsignif",
         "rstatix",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "hms",
         "broom",
@@ -24202,8 +23586,7 @@
         "GenomicAlignments",
         "SummarizedExperiment",
         "Biostrings",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "Pigengene": [
         "BiocStyle",
@@ -24295,7 +23678,6 @@
         "hdrcde",
         "ks",
         "blob",
-        "DelayedArray",
         "pillar",
         "tibble",
         "tidyselect"
@@ -24315,7 +23697,6 @@
         "tidyselect",
         "pillar",
         "scuttle",
-        "DelayedArray",
         "DelayedMatrixStats",
         "beachmat",
         "BiocNeighbors",
@@ -24355,8 +23736,7 @@
         "Rsamtools",
         "bslib",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "pkgDepTools": [],
     "planet": [
@@ -24403,8 +23783,7 @@
         "Rsamtools",
         "SummarizedExperiment",
         "Biostrings",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "plotGrouper": [
         "ggplot2",
@@ -24457,8 +23836,7 @@
         "pillar",
         "SummarizedExperiment",
         "Biostrings",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "pmm": [
         "lme4",
@@ -24474,7 +23852,6 @@
         "SummarizedExperiment",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -24500,8 +23877,7 @@
         "XVector",
         "rtracklayer",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "pogos": [
         "shiny",
@@ -24521,7 +23897,6 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "KEGGREST",
         "blob",
         "XVector",
@@ -24554,7 +23929,6 @@
         "pillar",
         "rARPACK",
         "bslib",
-        "DelayedArray",
         "annotate",
         "AnnotationDbi",
         "XVector",
@@ -24591,7 +23965,6 @@
         "tibble",
         "progress",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "hms",
         "pillar"
@@ -24648,8 +24021,7 @@
         "Rsamtools",
         "SummarizedExperiment",
         "Biostrings",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "prebs": [
         "GenomicAlignments",
@@ -24667,7 +24039,6 @@
         "multtest",
         "vegan",
         "bslib",
-        "DelayedArray",
         "tibble",
         "pillar"
     ],
@@ -24711,8 +24082,7 @@
         "SummarizedExperiment",
         "lava",
         "hms",
-        "future.apply",
-        "DelayedArray"
+        "future.apply"
     ],
     "PREDA": [
         "multtest",
@@ -24744,7 +24114,6 @@
         "pillar",
         "BiocFileCache",
         "AnnotationHub",
-        "DelayedArray",
         "HDF5Array",
         "biomaRt",
         "AnnotationDbi",
@@ -24817,7 +24186,6 @@
         "XVector",
         "rtracklayer",
         "biomaRt",
-        "DelayedArray",
         "progress",
         "BiocFileCache",
         "annotate",
@@ -24844,7 +24212,6 @@
         "dbplyr",
         "dplyr",
         "hms",
-        "DelayedArray",
         "pillar",
         "tibble",
         "tidyselect"
@@ -24891,7 +24258,6 @@
     "proDA": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "proFIA": [
@@ -24907,7 +24273,6 @@
         "tibble",
         "vsn",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "ggrepel",
         "dplyr",
@@ -24949,7 +24314,6 @@
         "progress",
         "GenomicAlignments",
         "chipseq",
-        "DelayedArray",
         "KEGGREST",
         "BiocFileCache",
         "ShortRead",
@@ -25006,7 +24370,6 @@
         "pillar",
         "tidyr",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "pRoloc": [
@@ -25043,7 +24406,6 @@
         "tidyselect",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "pillar",
         "blob",
         "XVector",
@@ -25098,7 +24460,6 @@
         "ipred",
         "tidyr",
         "GenomicRanges",
-        "DelayedArray",
         "blob",
         "XVector",
         "prodlim",
@@ -25180,7 +24541,6 @@
         "dbplyr",
         "dplyr",
         "hms",
-        "DelayedArray",
         "pillar",
         "tibble",
         "tidyselect"
@@ -25209,7 +24569,6 @@
         "BiocFileCache",
         "blob",
         "GenomicAlignments",
-        "DelayedArray",
         "dbplyr",
         "hms"
     ],
@@ -25320,7 +24679,6 @@
         "rentrez",
         "rtracklayer",
         "bslib",
-        "DelayedArray",
         "blob",
         "bumphunter",
         "GenomicAlignments",
@@ -25350,7 +24708,6 @@
         "AnnotationFilter",
         "plotly",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "ggplot2",
         "dplyr",
@@ -25423,8 +24780,7 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "XVector",
-        "blob",
-        "DelayedArray"
+        "blob"
     ],
     "PureCN": [
         "VariantAnnotation",
@@ -25441,7 +24797,6 @@
         "biomaRt",
         "tibble",
         "GenomicAlignments",
-        "DelayedArray",
         "BSgenome",
         "KEGGREST",
         "progress",
@@ -25491,7 +24846,6 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "DelayedArray",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -25576,7 +24930,6 @@
         "AnnotationFilter",
         "plotly",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "ggplot2",
         "dplyr",
@@ -25599,7 +24952,6 @@
         "webshot",
         "egg",
         "GenomicRanges",
-        "DelayedArray",
         "car",
         "ranger",
         "pbkrtest",
@@ -25638,8 +24990,7 @@
         "hms",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "qPLEXanalyzer": [
         "MSnbase",
@@ -25683,7 +25034,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "DelayedArray",
         "pillar",
         "BSgenome",
         "rematch2",
@@ -25703,8 +25053,7 @@
         "Rsamtools",
         "XVector",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "qsmooth": [
         "SummarizedExperiment",
@@ -25715,7 +25064,6 @@
         "htmlTable",
         "viridis",
         "GenomicRanges",
-        "DelayedArray",
         "genefilter",
         "AnnotationDbi",
         "annotate",
@@ -25737,7 +25085,6 @@
         "ggplot2",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "genefilter",
         "AnnotationDbi",
         "annotate",
@@ -25758,7 +25105,6 @@
         "tidyr",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "dplyr",
         "tidyselect",
         "pillar",
@@ -25777,7 +25123,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "XVector",
         "GenomicFeatures",
@@ -25834,7 +25179,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "DelayedArray",
         "dbplyr",
         "dplyr",
         "hms",
@@ -25893,7 +25237,6 @@
         "forcats",
         "progress",
         "tidyr",
-        "DelayedArray",
         "pillar",
         "BiocFileCache",
         "tidyselect",
@@ -25915,7 +25258,6 @@
         "SummarizedExperiment",
         "tibble",
         "blob",
-        "DelayedArray",
         "pillar"
     ],
     "R453Plus1Toolbox": [
@@ -25934,7 +25276,6 @@
         "rtracklayer",
         "GenomicAlignments",
         "latticeExtra",
-        "DelayedArray",
         "GenomicFeatures",
         "RSQLite",
         "KEGGREST",
@@ -25957,7 +25298,6 @@
         "piano",
         "bench",
         "GenomicRanges",
-        "DelayedArray",
         "pillar",
         "tibble",
         "XVector",
@@ -25977,8 +25317,7 @@
     "RaggedExperiment": [
         "GenomicRanges",
         "SummarizedExperiment",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "rain": [
         "multtest"
@@ -26008,7 +25347,6 @@
         "dbplyr",
         "dplyr",
         "hms",
-        "DelayedArray",
         "blob",
         "pillar",
         "tibble",
@@ -26055,7 +25393,6 @@
         "biomaRt",
         "BiocFileCache",
         "AnnotationHub",
-        "DelayedArray",
         "HDF5Array",
         "KEGGREST",
         "interactiveDisplayBase",
@@ -26089,8 +25426,7 @@
         "pillar",
         "tidyselect",
         "progress",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "Rbowtie2": [
         "Rsamtools",
@@ -26107,8 +25443,7 @@
         "GenomicAlignments",
         "SummarizedExperiment",
         "Biostrings",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "RCAS": [
         "plotly",
@@ -26147,8 +25482,7 @@
         "SummarizedExperiment",
         "hms",
         "vroom",
-        "dbplyr",
-        "DelayedArray"
+        "dbplyr"
     ],
     "rcellminer": [
         "ggplot2",
@@ -26187,8 +25521,7 @@
         "dplyr",
         "SummarizedExperiment",
         "hms",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "RcisTarget": [
         "AUCell",
@@ -26199,7 +25532,6 @@
         "GSEABase",
         "SummarizedExperiment",
         "tidyselect",
-        "DelayedArray",
         "DelayedMatrixStats",
         "mixtools",
         "shiny",
@@ -26382,7 +25714,6 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "reconsi": [
@@ -26416,7 +25747,6 @@
         "dplyr",
         "tidyr",
         "Biostrings",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "tibble",
@@ -26448,7 +25778,6 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "DelayedArray",
         "blob",
         "pillar",
         "tibble",
@@ -26462,7 +25791,6 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DelayedArray",
         "GenomicRanges",
         "SummarizedExperiment",
         "Biostrings",
@@ -26513,7 +25841,6 @@
         "dbplyr",
         "dplyr",
         "hms",
-        "DelayedArray",
         "pillar",
         "tidyselect"
     ],
@@ -26547,7 +25874,6 @@
         "pillar",
         "AnnotationFilter",
         "blob",
-        "DelayedArray",
         "dbplyr",
         "hms"
     ],
@@ -26578,7 +25904,6 @@
         "tidyselect",
         "pillar",
         "cowplot",
-        "DelayedArray",
         "Hmisc",
         "GO.db",
         "RSQLite",
@@ -26598,8 +25923,7 @@
         "XVector",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "regioneReloaded": [
         "regioneR",
@@ -26616,8 +25940,7 @@
         "Rsamtools",
         "GenomicAlignments",
         "pillar",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "regionReport": [
         "BiocStyle",
@@ -26643,7 +25966,6 @@
         "ggplot2",
         "XVector",
         "bslib",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "annotate",
@@ -26668,7 +25990,6 @@
         "glmnet",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "regutools": [
@@ -26712,8 +26033,7 @@
         "htmlTable",
         "viridis",
         "hms",
-        "bslib",
-        "DelayedArray"
+        "bslib"
     ],
     "REMP": [
         "SummarizedExperiment",
@@ -26742,7 +26062,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "hms",
         "tibble",
@@ -26783,7 +26102,6 @@
         "vsn",
         "AnnotationDbi",
         "annotate",
-        "DelayedArray",
         "ggplot2",
         "RSQLite",
         "KEGGREST",
@@ -26833,7 +26151,6 @@
         "htmlTable",
         "viridis",
         "blob",
-        "DelayedArray",
         "pillar",
         "BiocFileCache",
         "tidyselect",
@@ -26866,9 +26183,7 @@
         "Biostrings",
         "XVector"
     ],
-    "ResidualMatrix": [
-        "DelayedArray"
-    ],
+    "ResidualMatrix": [],
     "RESOLVE": [
         "NMF",
         "Biostrings",
@@ -26883,12 +26198,10 @@
         "tibble",
         "GenomicAlignments",
         "pillar",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "restfulSE": [
         "SummarizedExperiment",
-        "DelayedArray",
         "AnnotationDbi",
         "GO.db",
         "rhdf5client",
@@ -26969,8 +26282,7 @@
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "rGenomeTracks": [
         "rGenomeTracksData",
@@ -27003,8 +26315,7 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "RgnTX": [
         "GenomicFeatures",
@@ -27031,8 +26342,7 @@
         "dplyr",
         "SummarizedExperiment",
         "hms",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "rgoslin": [
         "dplyr",
@@ -27068,8 +26378,7 @@
         "SummarizedExperiment",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "rgsepd": [
         "DESeq2",
@@ -27087,7 +26396,6 @@
         "geneplotter",
         "ggplot2",
         "geneLenDataBase",
-        "DelayedArray",
         "dbplyr",
         "dplyr",
         "rtracklayer",
@@ -27103,9 +26411,7 @@
         "Rsamtools",
         "GenomicAlignments"
     ],
-    "rhdf5client": [
-        "DelayedArray"
-    ],
+    "rhdf5client": [],
     "Rhisat2": [
         "GenomicFeatures",
         "SGSeq",
@@ -27123,7 +26429,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "DelayedArray",
         "dbplyr",
         "dplyr",
         "hms",
@@ -27161,7 +26466,6 @@
         "readr",
         "geneplotter",
         "blob",
-        "DelayedArray",
         "dbplyr",
         "annotate",
         "hms",
@@ -27197,7 +26501,6 @@
         "rstan",
         "StanHeaders",
         "annotate",
-        "DelayedArray",
         "hms",
         "pkgbuild"
     ],
@@ -27235,7 +26538,6 @@
         "htmlTable",
         "viridis",
         "blob",
-        "DelayedArray",
         "pillar",
         "dbplyr",
         "tidyselect",
@@ -27283,7 +26585,6 @@
         "BiocFileCache",
         "blob",
         "latticeExtra",
-        "DelayedArray",
         "CNEr",
         "pillar",
         "dbplyr",
@@ -27314,7 +26615,6 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "DelayedArray",
         "nloptr",
         "broom",
         "tidyr",
@@ -27379,8 +26679,7 @@
         "tidyselect",
         "latticeExtra",
         "htmlTable",
-        "viridis",
-        "DelayedArray"
+        "viridis"
     ],
     "Risa": [
         "xcms",
@@ -27390,7 +26689,6 @@
         "vsn",
         "ggplot2",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "tibble",
         "pillar"
@@ -27426,8 +26724,7 @@
         "GO.db",
         "dbplyr",
         "SummarizedExperiment",
-        "hms",
-        "DelayedArray"
+        "hms"
     ],
     "RIVER": [
         "glmnet",
@@ -27443,8 +26740,7 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "RLassoCox": [
         "glmnet"
@@ -27495,7 +26791,6 @@
         "hardhat",
         "ipred",
         "bslib",
-        "DelayedArray",
         "prodlim",
         "lava",
         "future.apply"
@@ -27539,7 +26834,6 @@
         "testthat",
         "XVector",
         "AnnotationDbi",
-        "DelayedArray",
         "Rsamtools",
         "GenomicFeatures",
         "RSQLite",
@@ -27574,8 +26868,7 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "RNAAgeCalc": [
         "ggplot2",
@@ -27591,7 +26884,6 @@
         "GenomicRanges",
         "rentrez",
         "rtracklayer",
-        "DelayedArray",
         "bumphunter",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -27655,8 +26947,7 @@
         "GenomicAlignments",
         "dbplyr",
         "SummarizedExperiment",
-        "hms",
-        "DelayedArray"
+        "hms"
     ],
     "RNAinteract": [
         "ICS",
@@ -27707,7 +26998,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "blob",
-        "DelayedArray",
         "pillar",
         "dbplyr",
         "dplyr",
@@ -27749,7 +27039,6 @@
         "viridis",
         "hms",
         "blob",
-        "DelayedArray",
         "pillar",
         "tidyselect"
     ],
@@ -27782,7 +27071,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "blob",
-        "DelayedArray",
         "pillar",
         "dbplyr",
         "dplyr",
@@ -27824,7 +27112,6 @@
         "viridis",
         "hms",
         "blob",
-        "DelayedArray",
         "pillar",
         "tidyselect"
     ],
@@ -27835,7 +27122,6 @@
         "SummarizedExperiment",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -27900,7 +27186,6 @@
         "rstatix",
         "GenomicAlignments",
         "latticeExtra",
-        "DelayedArray",
         "genefilter",
         "ggfun",
         "ggplotify",
@@ -27944,7 +27229,6 @@
         "GenomicRanges",
         "rentrez",
         "rtracklayer",
-        "DelayedArray",
         "RSQLite",
         "dbplyr",
         "XVector",
@@ -28001,7 +27285,6 @@
         "siggenes",
         "DelayedMatrixStats",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "pillar",
         "progress",
@@ -28025,14 +27308,12 @@
         "rtracklayer",
         "Biostrings",
         "Rsamtools",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "ROCpAI": [
         "SummarizedExperiment",
         "fission",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "RolDE": [
@@ -28040,7 +27321,6 @@
         "qvalue",
         "ggplot2",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "tibble",
         "pillar"
@@ -28063,7 +27343,6 @@
         "SummarizedExperiment",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "ggrepel",
         "dplyr",
@@ -28139,7 +27418,6 @@
         "biomaRt",
         "htmlTable",
         "viridis",
-        "DelayedArray",
         "pillar",
         "BSgenome",
         "progress",
@@ -28166,7 +27444,6 @@
         "MultiAssayExperiment",
         "MultiDataSet",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "tibble",
         "nloptr",
@@ -28225,7 +27502,6 @@
     "rScudo": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "rsemmed": [
@@ -28242,8 +27518,7 @@
         "Rsamtools",
         "GenomicAlignments",
         "latticeExtra",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "RTCGA": [
         "rvest",
@@ -28278,7 +27553,6 @@
         "rematch2"
     ],
     "RTCGAToolbox": [
-        "DelayedArray",
         "GenomicRanges",
         "RaggedExperiment",
         "rvest",
@@ -28318,7 +27592,6 @@
         "quantreg",
         "lme4",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "nloptr",
         "broom",
@@ -28342,7 +27615,6 @@
         "quantreg",
         "lme4",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "nloptr",
         "broom",
@@ -28370,7 +27642,6 @@
         "quantreg",
         "lme4",
         "GenomicRanges",
-        "DelayedArray",
         "pillar",
         "XVector",
         "nloptr",
@@ -28399,8 +27670,7 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "Rtreemix": [
         "Hmisc",
@@ -28436,8 +27706,7 @@
         "blob",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "runibic": [
         "biclust",
@@ -28446,7 +27715,6 @@
         "tidyr",
         "ggplot2",
         "GenomicRanges",
-        "DelayedArray",
         "waldo",
         "XVector",
         "tibble",
@@ -28481,8 +27749,7 @@
         "blob",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "RVS": [
         "GENLIB",
@@ -28582,7 +27849,6 @@
         "ggplot2",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -28605,7 +27871,6 @@
         "org.Hs.eg.db",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "blob"
     ],
@@ -28617,19 +27882,15 @@
         "tibble",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
     "Scale4C": [
         "GenomicRanges",
         "SummarizedExperiment",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
-    "ScaledMatrix": [
-        "DelayedArray"
-    ],
+    "ScaledMatrix": [],
     "scAlign": [
         "SingleCellExperiment",
         "Seurat",
@@ -28652,7 +27913,6 @@
         "uwot",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "tfruns",
         "tfautograph",
         "XVector",
@@ -28686,7 +27946,6 @@
         "vroom",
         "blob",
         "KEGGREST",
-        "DelayedArray",
         "progress"
     ],
     "scanMiR": [
@@ -28739,8 +27998,7 @@
         "pillar",
         "SummarizedExperiment",
         "blob",
-        "hms",
-        "DelayedArray"
+        "hms"
     ],
     "scAnnotatR": [
         "Seurat",
@@ -28773,7 +28031,6 @@
         "spatstat.explore",
         "uwot",
         "GenomicRanges",
-        "DelayedArray",
         "KEGGREST",
         "dbplyr",
         "XVector",
@@ -28796,11 +28053,9 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "SCArray": [
-        "DelayedArray",
         "SummarizedExperiment",
         "SingleCellExperiment",
         "DelayedMatrixStats",
@@ -28818,7 +28073,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
-        "DelayedArray",
         "RSQLite",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -28838,7 +28092,6 @@
         "scuttle",
         "ggplot2",
         "SummarizedExperiment",
-        "DelayedArray",
         "DelayedMatrixStats",
         "beachmat",
         "BiocNeighbors",
@@ -28884,7 +28137,6 @@
         "shiny",
         "spatstat.explore",
         "uwot",
-        "DelayedArray",
         "genefilter",
         "AnnotationDbi",
         "annotate",
@@ -28937,7 +28189,6 @@
         "DropletUtils",
         "Seurat",
         "GenomicRanges",
-        "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
         "beachmat",
@@ -28973,7 +28224,6 @@
         "Cepo",
         "GSEABase",
         "DelayedMatrixStats",
-        "DelayedArray",
         "HDF5Array",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -29018,7 +28268,6 @@
         "future.apply",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "progress"
     ],
@@ -29044,7 +28293,6 @@
         "uwot",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "RSpectra",
         "XVector",
         "tidyr",
@@ -29063,7 +28311,6 @@
         "scater",
         "scuttle",
         "bluster",
-        "DelayedArray",
         "GenomicRanges",
         "Rsamtools",
         "rtracklayer",
@@ -29096,7 +28343,6 @@
         "viridis",
         "tibble",
         "scuttle",
-        "DelayedArray",
         "DelayedMatrixStats",
         "BiocSingular",
         "bluster",
@@ -29119,7 +28365,6 @@
         "testthat",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "waldo",
         "pillar",
@@ -29136,7 +28381,6 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "SCFA": [
@@ -29164,7 +28408,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "DelayedArray",
         "annotate",
         "AnnotationDbi",
         "XVector",
@@ -29209,7 +28452,6 @@
         "bslib",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "tidyr",
         "classInt",
@@ -29224,7 +28466,6 @@
         "tidyselect",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -29282,12 +28523,10 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "scMerge": [
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "M3Drop",
         "ruv",
@@ -29327,7 +28566,6 @@
         "pillar",
         "pkgbuild",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "bslib"
     ],
@@ -29337,7 +28575,6 @@
         "AnnotationHub",
         "GenomicRanges",
         "BSgenome",
-        "DelayedArray",
         "annotatr",
         "SummarizedExperiment",
         "Biostrings",
@@ -29379,7 +28616,6 @@
         "forcats",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -29392,7 +28628,6 @@
         "RSpectra",
         "EDASeq",
         "GenomicRanges",
-        "DelayedArray",
         "ShortRead",
         "Rsamtools",
         "biomaRt",
@@ -29443,8 +28678,7 @@
         "GenomicAlignments",
         "SummarizedExperiment",
         "hms",
-        "pillar",
-        "DelayedArray"
+        "pillar"
     ],
     "scoreInvHap": [
         "Biostrings",
@@ -29453,7 +28687,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "XVector",
-        "DelayedArray",
         "Rsamtools",
         "AnnotationDbi",
         "rtracklayer",
@@ -29483,7 +28716,6 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "AnnotationFilter",
         "plotly",
@@ -29495,7 +28727,6 @@
         "dplyr",
         "origami",
         "RSpectra",
-        "DelayedArray",
         "ScaledMatrix",
         "tidyselect",
         "pillar",
@@ -29529,7 +28760,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "scuttle",
-        "DelayedArray",
         "DelayedMatrixStats",
         "beachmat",
         "BiocNeighbors",
@@ -29551,7 +28781,6 @@
         "SingleCellExperiment",
         "scuttle",
         "SummarizedExperiment",
-        "DelayedArray",
         "DelayedMatrixStats",
         "BiocSingular",
         "bluster",
@@ -29565,7 +28794,6 @@
         "SummarizedExperiment",
         "SingleCellExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "scRecover": [
@@ -29605,7 +28833,6 @@
         "viridis",
         "future.apply",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "tweenr"
     ],
@@ -29637,7 +28864,6 @@
         "AnnotationFilter",
         "tibble",
         "latticeExtra",
-        "DelayedArray",
         "progress",
         "BiocFileCache",
         "dplyr",
@@ -29652,7 +28878,6 @@
         "hms"
     ],
     "scry": [
-        "DelayedArray",
         "HDF5Array",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -29720,7 +28945,6 @@
         "ggforce",
         "concaveman",
         "GenomicRanges",
-        "DelayedArray",
         "dbplyr",
         "sf",
         "tidyselect",
@@ -29780,7 +29004,6 @@
         "ggforce",
         "concaveman",
         "GenomicRanges",
-        "DelayedArray",
         "pillar",
         "RSQLite",
         "KEGGREST",
@@ -29830,7 +29053,6 @@
         "tibble",
         "ggforce",
         "scuttle",
-        "DelayedArray",
         "DelayedMatrixStats",
         "beachmat",
         "BiocNeighbors",
@@ -29879,7 +29101,6 @@
         "SingleCellExperiment",
         "GenomicRanges",
         "SummarizedExperiment",
-        "DelayedArray",
         "DelayedMatrixStats",
         "beachmat",
         "XVector"
@@ -29889,7 +29110,6 @@
         "qvalue",
         "ggplot2",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "tibble",
         "pillar"
@@ -29899,7 +29119,6 @@
         "seriation",
         "randomcoloR",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "segmenter": [
@@ -29915,7 +29134,6 @@
         "rtracklayer",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "XVector",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "tibble",
@@ -29964,8 +29182,7 @@
         "Biostrings",
         "GenomicAlignments",
         "latticeExtra",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "selectKSigs": [
         "HiLDA",
@@ -29996,8 +29213,7 @@
         "GenomicAlignments",
         "dbplyr",
         "SummarizedExperiment",
-        "hms",
-        "DelayedArray"
+        "hms"
     ],
     "SELEX": [
         "Biostrings",
@@ -30071,7 +29287,6 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "DelayedArray",
         "AnnotationDbi",
         "BSgenome",
         "GenomicFeatures",
@@ -30093,8 +29308,7 @@
     "SeqGate": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "SeqGSEA": [
         "DESeq2",
@@ -30114,7 +29328,6 @@
         "XVector",
         "tibble",
         "hms",
-        "DelayedArray",
         "blob",
         "pillar",
         "tidyselect",
@@ -30138,7 +29351,6 @@
         "Biostrings",
         "XVector",
         "tibble",
-        "DelayedArray",
         "pillar"
     ],
     "SeqSQC": [
@@ -30205,7 +29417,6 @@
         "vroom",
         "ExperimentHub",
         "AnnotationHub",
-        "DelayedArray",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "blob",
@@ -30226,7 +29437,6 @@
         "ggplot2",
         "seriation",
         "randomcoloR",
-        "DelayedArray",
         "genefilter",
         "AnnotationDbi",
         "annotate",
@@ -30252,7 +29462,6 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "DelayedArray",
         "pillar",
         "tidyselect",
         "progress"
@@ -30270,7 +29479,6 @@
         "KEGGREST",
         "XVector",
         "biomaRt",
-        "DelayedArray",
         "progress",
         "BiocFileCache",
         "blob",
@@ -30314,7 +29522,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "bslib",
         "Rsamtools",
@@ -30347,7 +29554,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "bslib",
         "XVector",
@@ -30381,8 +29587,7 @@
         "GenomicRanges",
         "latticeExtra",
         "XVector",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "SIAMCAT": [
         "mlr3",
@@ -30428,7 +29633,6 @@
         "dplyr",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "tibble",
@@ -30441,7 +29645,6 @@
     "sigFeature": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "SigFuge": [
@@ -30477,7 +29680,6 @@
         "readr",
         "DOSE",
         "GSEABase",
-        "DelayedArray",
         "tibble",
         "KEGGREST",
         "enrichplot",
@@ -30576,7 +29778,6 @@
         "blob",
         "biomaRt",
         "car",
-        "DelayedArray",
         "km.ci",
         "waldo",
         "progress",
@@ -30616,7 +29817,6 @@
         "Biostrings",
         "GSEABase",
         "SingleCellExperiment",
-        "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
         "BiocSingular",
@@ -30672,7 +29872,6 @@
         "XVector",
         "Rsamtools",
         "GenomicAlignments",
-        "DelayedArray",
         "AnnotationDbi",
         "GenomicFeatures",
         "RSQLite",
@@ -30734,7 +29933,6 @@
         "multtest",
         "vegan",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "SIMD": [],
@@ -30758,7 +29956,6 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "HDF5Array",
-        "DelayedArray",
         "viridis",
         "ggplot2",
         "ggbeeswarm",
@@ -30811,13 +30008,11 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "SingleCellExperiment": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "SingleCellSignalR": [
@@ -30827,7 +30022,6 @@
         "SingleCellExperiment",
         "scuttle",
         "SummarizedExperiment",
-        "DelayedArray",
         "DelayedMatrixStats",
         "BiocSingular",
         "bluster",
@@ -30841,7 +30035,6 @@
     "singleCellTK": [
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "DelayedArray",
         "AnnotationHub",
         "batchelor",
         "celldex",
@@ -30986,7 +30179,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "DelayedArray",
         "dbplyr",
         "dplyr",
         "hms",
@@ -30996,7 +30188,6 @@
     ],
     "SingleR": [
         "SummarizedExperiment",
-        "DelayedArray",
         "DelayedMatrixStats",
         "BiocSingular",
         "beachmat",
@@ -31017,7 +30208,6 @@
         "AnnotationDbi",
         "dplyr",
         "GenomicRanges",
-        "DelayedArray",
         "tidyselect",
         "RSQLite",
         "KEGGREST",
@@ -31036,7 +30226,6 @@
         "SummarizedExperiment",
         "GSEABase",
         "SingleCellExperiment",
-        "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
         "BiocSingular",
@@ -31071,8 +30260,7 @@
         "hms",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "sitePath": [
         "aplot",
@@ -31110,7 +30298,6 @@
         "siggenes",
         "DelayedMatrixStats",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -31146,7 +30333,6 @@
         "annotate",
         "AnnotationDbi",
         "GenomicRanges",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "XVector",
@@ -31159,7 +30345,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "SMAD": [
@@ -31201,7 +30386,6 @@
         "dbplyr",
         "dplyr",
         "hms",
-        "DelayedArray",
         "tidyselect"
     ],
     "snapCGH": [
@@ -31224,8 +30408,7 @@
     "snapcount": [
         "GenomicRanges",
         "SummarizedExperiment",
-        "XVector",
-        "DelayedArray"
+        "XVector"
     ],
     "snifter": [],
     "snm": [
@@ -31248,7 +30431,6 @@
         "XVector",
         "geneplotter",
         "tibble",
-        "DelayedArray",
         "AnnotationDbi",
         "rtracklayer",
         "BSgenome",
@@ -31280,7 +30462,6 @@
         "XVector",
         "ShortRead",
         "tibble",
-        "DelayedArray",
         "latticeExtra",
         "pillar"
     ],
@@ -31331,7 +30512,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "DelayedArray",
         "pillar",
         "BiocFileCache",
         "tidyselect",
@@ -31360,7 +30540,6 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
         "beachmat",
@@ -31404,7 +30583,6 @@
         "AnnotationDbi",
         "KEGGREST",
         "tidyr",
-        "DelayedArray",
         "annotate",
         "RSQLite",
         "tidyselect",
@@ -31434,8 +30612,7 @@
         "tibble",
         "GenomicAlignments",
         "pillar",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "spaSim": [
         "ggplot2",
@@ -31450,7 +30627,6 @@
         "DropletUtils",
         "BiocFileCache",
         "GenomicRanges",
-        "DelayedArray",
         "dbplyr",
         "RSQLite",
         "DelayedMatrixStats",
@@ -31481,7 +30657,6 @@
         "vroom",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "progress"
     ],
@@ -31495,7 +30670,6 @@
         "DropletUtils",
         "BiocFileCache",
         "GenomicRanges",
-        "DelayedArray",
         "dbplyr",
         "dplyr",
         "RSQLite",
@@ -31549,7 +30723,6 @@
         "dplyr",
         "RSQLite",
         "GenomicRanges",
-        "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
         "beachmat",
@@ -31568,7 +30741,6 @@
         "SummarizedExperiment",
         "classInt",
         "GenomicRanges",
-        "DelayedArray",
         "DropletUtils",
         "BiocFileCache",
         "dbplyr",
@@ -31610,7 +30782,6 @@
         "AnnotationDbi",
         "annotate",
         "tidyr",
-        "DelayedArray",
         "DelayedMatrixStats",
         "beachmat",
         "BiocNeighbors",
@@ -31654,7 +30825,6 @@
         "dplyr",
         "Gviz",
         "tibble",
-        "DelayedArray",
         "CNEr",
         "KEGGREST",
         "progress",
@@ -31705,8 +30875,7 @@
         "SummarizedExperiment",
         "Rsamtools",
         "future.apply",
-        "Biostrings",
-        "DelayedArray"
+        "Biostrings"
     ],
     "SPIA": [
         "KEGGgraph"
@@ -31736,7 +30905,6 @@
         "DropletUtils",
         "BiocFileCache",
         "GenomicRanges",
-        "DelayedArray",
         "RSpectra",
         "hms",
         "progress",
@@ -31774,7 +30942,6 @@
         "tweenr",
         "nloptr",
         "GenomicRanges",
-        "DelayedArray",
         "DropletUtils",
         "BiocFileCache",
         "spatstat.random",
@@ -31816,7 +30983,6 @@
         "rtracklayer",
         "SummarizedExperiment",
         "tibble",
-        "DelayedArray",
         "pillar"
     ],
     "splatter": [
@@ -31827,7 +30993,6 @@
         "SummarizedExperiment",
         "tibble",
         "scuttle",
-        "DelayedArray",
         "DelayedMatrixStats",
         "beachmat",
         "BiocNeighbors",
@@ -31850,7 +31015,6 @@
         "BiocFileCache",
         "Biostrings",
         "BSgenome",
-        "DelayedArray",
         "DelayedMatrixStats",
         "genefilter",
         "GenomicRanges",
@@ -31893,7 +31057,6 @@
     "SplicingFactory": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "SplicingGraphs": [
@@ -31912,7 +31075,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "DelayedArray",
         "dbplyr",
         "dplyr",
         "hms",
@@ -31960,7 +31122,6 @@
         "AnnotationFilter",
         "hms",
         "blob",
-        "DelayedArray",
         "pillar",
         "tidyselect",
         "htmlTable",
@@ -32059,7 +31220,6 @@
         "DropletUtils",
         "BiocFileCache",
         "GenomicRanges",
-        "DelayedArray",
         "dbplyr",
         "RSQLite",
         "DelayedMatrixStats",
@@ -32079,7 +31239,6 @@
         "tibble",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -32089,7 +31248,6 @@
         "SummarizedExperiment",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -32108,7 +31266,6 @@
         "vegan",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "GO.db",
         "AnnotationDbi",
         "RSQLite",
@@ -32134,7 +31291,6 @@
         "umap",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "RSpectra",
         "XVector",
         "pillar"
@@ -32186,7 +31342,6 @@
         "BSgenome",
         "biovizBase",
         "latticeExtra",
-        "DelayedArray",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -32235,7 +31390,6 @@
         "tidygraph",
         "AnnotationDbi",
         "GenomicRanges",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "XVector",
@@ -32253,7 +31407,6 @@
         "ggformula",
         "glmnet",
         "GenomicRanges",
-        "DelayedArray",
         "broom",
         "XVector",
         "ggstance",
@@ -32293,7 +31446,6 @@
     "stageR": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "STAN": [
@@ -32326,7 +31478,6 @@
         "viridis",
         "hms",
         "blob",
-        "DelayedArray",
         "pillar",
         "tibble",
         "tidyselect"
@@ -32350,7 +31501,6 @@
         "vroom",
         "EDASeq",
         "GenomicRanges",
-        "DelayedArray",
         "DropletUtils",
         "BiocFileCache",
         "dbplyr",
@@ -32427,7 +31577,6 @@
         "pillar",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "spatstat.random",
         "broom",
         "dbplyr",
@@ -32496,7 +31645,6 @@
         "BiocFileCache",
         "sf",
         "GenomicRanges",
-        "DelayedArray",
         "dbplyr",
         "RSQLite",
         "DelayedMatrixStats",
@@ -32531,7 +31679,6 @@
         "KEGGREST",
         "rtracklayer",
         "biomaRt",
-        "DelayedArray",
         "progress",
         "BiocFileCache",
         "blob",
@@ -32550,7 +31697,6 @@
         "rols",
         "progress",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "hms"
     ],
@@ -32567,7 +31713,6 @@
         "rols",
         "progress",
         "GenomicRanges",
-        "DelayedArray",
         "pillar",
         "XVector",
         "hms"
@@ -32589,7 +31734,6 @@
         "biomaRt",
         "Rsamtools",
         "GenomicAlignments",
-        "DelayedArray",
         "BSgenome",
         "KEGGREST",
         "progress",
@@ -32647,12 +31791,10 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "SummarizedExperiment": [
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "Summix": [
@@ -32679,7 +31821,6 @@
         "furrr",
         "slider",
         "GenomicRanges",
-        "DelayedArray",
         "clock",
         "hardhat",
         "ipred",
@@ -32735,7 +31876,6 @@
         "clustvarsel",
         "BMA",
         "GenomicRanges",
-        "DelayedArray",
         "ggplot2",
         "ggpubr",
         "broom",
@@ -32795,7 +31935,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "DelayedArray",
         "dbplyr",
         "hms"
     ],
@@ -32822,7 +31961,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "DelayedArray",
         "dbplyr",
         "hms"
     ],
@@ -32855,7 +31993,6 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "synapsis": [
@@ -32986,8 +32123,7 @@
         "waldo",
         "SummarizedExperiment",
         "pillar",
-        "rematch2",
-        "DelayedArray"
+        "rematch2"
     ],
     "systemPipeR": [
         "Rsamtools",
@@ -33000,7 +32136,6 @@
         "tibble",
         "GenomicAlignments",
         "latticeExtra",
-        "DelayedArray",
         "pillar"
     ],
     "systemPipeShiny": [
@@ -33059,7 +32194,6 @@
         "ggfun",
         "tidytree",
         "treeio",
-        "DelayedArray",
         "ggplotify",
         "patchwork",
         "annotate",
@@ -33098,7 +32232,6 @@
         "quantreg",
         "lme4",
         "Biostrings",
-        "DelayedArray",
         "nloptr",
         "testthat",
         "waldo",
@@ -33141,7 +32274,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "DelayedArray",
         "dbplyr",
         "hms"
     ],
@@ -33191,7 +32323,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "DelayedArray",
         "pillar"
     ],
     "TBSignatureProfiler": [
@@ -33209,7 +32340,6 @@
         "tibble",
         "GSEABase",
         "SingleCellExperiment",
-        "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
         "BiocSingular",
@@ -33241,7 +32371,6 @@
         "AnnotationDbi",
         "XVector",
         "tibble",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "pillar",
@@ -33266,7 +32395,6 @@
         "XVector",
         "hms",
         "vroom",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -33316,7 +32444,6 @@
         "progress",
         "ggpubr",
         "rtracklayer",
-        "DelayedArray",
         "KEGGgraph",
         "org.Hs.eg.db",
         "KEGGREST",
@@ -33401,7 +32528,6 @@
         "Biostrings",
         "rtracklayer",
         "biomaRt",
-        "DelayedArray",
         "tidyr",
         "progress",
         "BiocFileCache",
@@ -33423,7 +32549,6 @@
         "Biostrings",
         "XVector",
         "tibble",
-        "DelayedArray",
         "pillar"
     ],
     "TDARACNE": [
@@ -33442,7 +32567,6 @@
         "BiocFileCache",
         "geneplotter",
         "ggplot2",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -33465,7 +32589,6 @@
         "hms",
         "tibble",
         "vroom",
-        "DelayedArray",
         "pillar",
         "tidyselect",
         "progress"
@@ -33483,7 +32606,6 @@
         "dplyr",
         "DT",
         "AnnotationHub",
-        "DelayedArray",
         "GO.db",
         "rhdf5client",
         "bigrquery",
@@ -33530,7 +32652,6 @@
         "pillar",
         "XVector",
         "SummarizedExperiment",
-        "DelayedArray",
         "hms",
         "vroom",
         "AnnotationDbi",
@@ -33577,7 +32698,6 @@
         "tibble",
         "hms",
         "vroom",
-        "DelayedArray",
         "pillar",
         "tidyselect",
         "progress"
@@ -33604,8 +32724,7 @@
         "blob",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "TFHAZ": [
         "GenomicRanges",
@@ -33632,7 +32751,6 @@
         "dplyr",
         "readr",
         "geneplotter",
-        "DelayedArray",
         "dbplyr",
         "tidyselect",
         "pillar",
@@ -33680,7 +32798,6 @@
         "XVector",
         "hms",
         "vroom",
-        "DelayedArray",
         "progress"
     ],
     "tidySingleCellExperiment": [
@@ -33695,7 +32812,6 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "tidySummarizedExperiment": [
@@ -33708,7 +32824,6 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "tigre": [
@@ -33721,7 +32836,6 @@
         "XVector"
     ],
     "TileDBArray": [
-        "DelayedArray",
         "tiledb"
     ],
     "tilingArray": [
@@ -33787,7 +32901,6 @@
         "ggrepel",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "IRkernel",
         "IRdisplay",
         "cellranger",
@@ -33856,7 +32969,6 @@
         "annotate",
         "AnnotationDbi",
         "GenomicRanges",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "XVector",
@@ -33882,7 +32994,6 @@
         "KEGGREST",
         "biomaRt",
         "GenomicAlignments",
-        "DelayedArray",
         "progress",
         "BiocFileCache",
         "blob",
@@ -33922,7 +33033,6 @@
         "hardhat",
         "ipred",
         "GenomicAlignments",
-        "DelayedArray",
         "readr",
         "progress",
         "BiocFileCache",
@@ -33953,7 +33063,6 @@
         "rstatix",
         "GSEABase",
         "SingleCellExperiment",
-        "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
         "BiocSingular",
@@ -33995,7 +33104,6 @@
         "progress",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "tidyselect",
         "pillar",
         "XVector",
@@ -34008,7 +33116,6 @@
         "SummarizedExperiment",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "RSpectra",
         "XVector",
         "pillar"
@@ -34068,7 +33175,6 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "fgsea",
         "shiny",
@@ -34130,7 +33236,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "blob",
-        "DelayedArray",
         "dbplyr",
         "dplyr",
         "ggplot2",
@@ -34150,7 +33255,6 @@
         "TrajectoryUtils",
         "viridis",
         "GenomicRanges",
-        "DelayedArray",
         "pillar",
         "XVector"
     ],
@@ -34164,7 +33268,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "transcriptogramer": [
@@ -34217,7 +33320,6 @@
         "tidyselect",
         "blob",
         "latticeExtra",
-        "DelayedArray",
         "pillar",
         "dbplyr",
         "prodlim",
@@ -34227,7 +33329,6 @@
     ],
     "transformGamPoi": [
         "glmGamPoi",
-        "DelayedArray",
         "SummarizedExperiment",
         "HDF5Array",
         "DelayedMatrixStats",
@@ -34267,7 +33368,6 @@
         "annotate",
         "XVector",
         "tibble",
-        "DelayedArray",
         "Biostrings",
         "blob",
         "pillar"
@@ -34296,7 +33396,6 @@
         "SummarizedExperiment",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -34309,8 +33408,7 @@
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "Travel": [],
     "traviz": [
@@ -34322,7 +33420,6 @@
         "rgl",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "TrajectoryUtils",
         "XVector",
         "pillar"
@@ -34359,7 +33456,6 @@
         "nloptr",
         "TH.data",
         "GenomicRanges",
-        "DelayedArray",
         "ggplotify",
         "ggforce",
         "ggnewscale",
@@ -34390,14 +33486,12 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "tidytree",
         "tidyr"
     ],
     "TREG": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "trena": [
@@ -34435,8 +33529,7 @@
         "pillar",
         "tibble",
         "tidyselect",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "Trendy": [
         "DT",
@@ -34446,7 +33539,6 @@
         "bslib",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -34469,7 +33561,6 @@
         "dbplyr",
         "dplyr",
         "hms",
-        "DelayedArray",
         "pillar",
         "tibble",
         "tidyselect"
@@ -34491,7 +33582,6 @@
         "pillar",
         "XVector",
         "scuttle",
-        "DelayedArray",
         "DelayedMatrixStats",
         "beachmat",
         "BiocNeighbors",
@@ -34586,7 +33676,6 @@
         "ggplot2",
         "SummarizedExperiment",
         "tibble",
-        "DelayedArray",
         "pillar"
     ],
     "TRONCO": [
@@ -34598,7 +33687,6 @@
         "ggplot2",
         "shiny",
         "SummarizedExperiment",
-        "DelayedArray",
         "tibble",
         "bslib",
         "GenomicRanges",
@@ -34620,7 +33708,6 @@
         "longitudinalData",
         "kml",
         "bslib",
-        "DelayedArray",
         "rgl"
     ],
     "ttgsea": [
@@ -34653,7 +33740,6 @@
         "rgl",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "TurboNorm": [],
@@ -34687,7 +33773,6 @@
         "dbplyr",
         "dplyr",
         "hms",
-        "DelayedArray",
         "pillar",
         "tibble",
         "tidyselect"
@@ -34712,7 +33797,6 @@
         "rtracklayer",
         "Rsamtools",
         "biomaRt",
-        "DelayedArray",
         "pillar",
         "progress",
         "blob",
@@ -34728,7 +33812,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "Ularcirc": [
@@ -34769,7 +33852,6 @@
         "blob",
         "pillar",
         "tidyselect",
-        "DelayedArray",
         "hms"
     ],
     "UMI4Cats": [
@@ -34804,7 +33886,6 @@
         "fds",
         "biomaRt",
         "latticeExtra",
-        "DelayedArray",
         "KEGGREST",
         "progress",
         "blob",
@@ -34864,8 +33945,7 @@
         "pillar",
         "ggplot2",
         "viridis",
-        "hms",
-        "DelayedArray"
+        "hms"
     ],
     "unifiedWMWqPCR": [],
     "UniProt.ws": [
@@ -34900,7 +33980,6 @@
         "KEGGREST",
         "biomaRt",
         "GenomicAlignments",
-        "DelayedArray",
         "progress",
         "BiocFileCache",
         "blob",
@@ -34950,7 +34029,6 @@
         "tfruns",
         "scuttle",
         "ggplot2",
-        "DelayedArray",
         "DelayedMatrixStats",
         "beachmat",
         "BiocNeighbors",
@@ -34988,7 +34066,6 @@
         "XVector",
         "Biostrings",
         "RSQLite",
-        "DelayedArray",
         "rtracklayer",
         "Rsamtools",
         "blob",
@@ -35009,8 +34086,7 @@
         "bslib",
         "GenomicAlignments",
         "pillar",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "variancePartition": [
         "ggplot2",
@@ -35044,7 +34120,6 @@
         "KEGGREST",
         "biomaRt",
         "GenomicAlignments",
-        "DelayedArray",
         "progress",
         "BiocFileCache",
         "blob",
@@ -35062,7 +34137,6 @@
         "DelayedDataFrame",
         "SeqArray",
         "SeqVarTools",
-        "DelayedArray",
         "Biostrings",
         "XVector",
         "logistf",
@@ -35098,7 +34172,6 @@
         "biomaRt",
         "BiocFileCache",
         "AnnotationHub",
-        "DelayedArray",
         "HDF5Array",
         "ensembldb",
         "biovizBase",
@@ -35138,7 +34211,6 @@
         "progress",
         "BiocFileCache",
         "blob",
-        "DelayedArray",
         "dbplyr",
         "dplyr",
         "hms",
@@ -35156,7 +34228,6 @@
         "SummarizedExperiment",
         "Biostrings",
         "XVector",
-        "DelayedArray",
         "genefilter",
         "AnnotationDbi",
         "annotate",
@@ -35165,7 +34236,6 @@
         "blob"
     ],
     "VCFArray": [
-        "DelayedArray",
         "GenomicRanges",
         "VariantAnnotation",
         "GenomicFiles",
@@ -35198,7 +34268,6 @@
         "SummarizedExperiment",
         "tibble",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "pillar"
     ],
@@ -35221,7 +34290,6 @@
     ],
     "velociraptor": [
         "SummarizedExperiment",
-        "DelayedArray",
         "zellkonverter",
         "scuttle",
         "SingleCellExperiment",
@@ -35259,7 +34327,6 @@
         "progress",
         "tibble",
         "bslib",
-        "DelayedArray",
         "tidyselect",
         "pillar",
         "annotate",
@@ -35368,7 +34435,6 @@
         "tibble",
         "classInt",
         "GenomicRanges",
-        "DelayedArray",
         "DropletUtils",
         "BiocFileCache",
         "dbplyr",
@@ -35393,7 +34459,6 @@
         "Biostrings",
         "XVector",
         "tibble",
-        "DelayedArray",
         "pillar"
     ],
     "vsclust": [
@@ -35402,7 +34467,6 @@
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "ggplot2",
         "bslib",
@@ -35449,7 +34513,6 @@
         "shiny",
         "DT",
         "GenomicAlignments",
-        "DelayedArray",
         "bslib"
     ],
     "vulcan": [
@@ -35494,7 +34557,6 @@
         "AnnotationFilter",
         "annotate",
         "BSgenome",
-        "DelayedArray",
         "ShortRead",
         "dbplyr",
         "hms",
@@ -35513,7 +34575,6 @@
         "EnvStats",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "blob",
         "pillar",
         "tibble",
@@ -35552,7 +34613,6 @@
         "siggenes",
         "DelayedMatrixStats",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "blob",
         "progress",
@@ -35596,7 +34656,6 @@
         "dbplyr",
         "dplyr",
         "hms",
-        "DelayedArray",
         "tidyselect"
     ],
     "webbioc": [
@@ -35618,7 +34677,6 @@
     ],
     "weitrix": [
         "SummarizedExperiment",
-        "DelayedArray",
         "DelayedMatrixStats",
         "topconfects",
         "dplyr",
@@ -35642,8 +34700,7 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "wpm": [
         "SummarizedExperiment",
@@ -35662,7 +34719,6 @@
         "usethis",
         "bslib",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "gert",
         "gh"
@@ -35691,13 +34747,11 @@
         "vsn",
         "ggplot2",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "tibble",
         "pillar"
     ],
     "xcore": [
-        "DelayedArray",
         "GenomicRanges",
         "glmnet",
         "MultiAssayExperiment",
@@ -35732,7 +34786,6 @@
         "piano",
         "bench",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "pillar",
         "XVector",
@@ -35768,15 +34821,13 @@
         "rmarkdown",
         "bslib",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "XVector": [],
     "yamss": [
         "SummarizedExperiment",
         "EBImage",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "YAPSA": [
@@ -35814,7 +34865,6 @@
         "GGally",
         "ensembldb",
         "AnnotationFilter",
-        "DelayedArray",
         "progress",
         "BiocFileCache",
         "forcats",
@@ -35850,7 +34900,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "pillar",
         "tidyselect",
@@ -35867,7 +34916,6 @@
     "zellkonverter": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "DelayedArray",
         "GenomicRanges",
         "XVector"
     ],
@@ -35906,7 +34954,6 @@
         "org.Hs.eg.db",
         "broom",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "blob",
         "testthat",
@@ -35922,7 +34969,6 @@
         "tidyselect",
         "pillar",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "zinbwave": [
@@ -35932,7 +34978,6 @@
         "AnnotationDbi",
         "annotate",
         "GenomicRanges",
-        "DelayedArray",
         "RSQLite",
         "KEGGREST",
         "XVector",
@@ -36282,7 +35327,6 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "dplyr",
-        "DelayedArray",
         "GenomicRanges",
         "tidyr",
         "KEGGREST",
@@ -36523,8 +35567,7 @@
         "XVector",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "TxDb.Hsapiens.UCSC.hg19.knownGene": [
         "GenomicFeatures",
@@ -36547,8 +35590,7 @@
         "hms",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "Homo.sapiens": [
         "AnnotationDbi",
@@ -36575,8 +35617,7 @@
         "hms",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "SNPlocs.Hsapiens.dbSNP144.GRCh37": [
         "BSgenome",
@@ -36586,8 +35627,7 @@
         "XVector",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "XtraSNPlocs.Hsapiens.dbSNP144.GRCh37": [
         "BSgenome",
@@ -36597,8 +35637,7 @@
         "XVector",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "rsnps": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [
@@ -36611,7 +35650,6 @@
         "Rsamtools",
         "BiocFileCache",
         "AnnotationHub",
-        "DelayedArray",
         "HDF5Array",
         "RSQLite",
         "AnnotationDbi",
@@ -36639,7 +35677,6 @@
         "Rsamtools",
         "BiocFileCache",
         "AnnotationHub",
-        "DelayedArray",
         "HDF5Array",
         "RSQLite",
         "AnnotationDbi",
@@ -36667,7 +35704,6 @@
         "Rsamtools",
         "BiocFileCache",
         "AnnotationHub",
-        "DelayedArray",
         "HDF5Array",
         "RSQLite",
         "AnnotationDbi",
@@ -36690,7 +35726,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
-        "DelayedArray",
         "Rsamtools",
         "Biostrings",
         "AnnotationDbi",
@@ -36727,7 +35762,6 @@
         "GenomicFeatures",
         "biomaRt",
         "GenomicAlignments",
-        "DelayedArray",
         "progress",
         "BiocFileCache",
         "dbplyr",
@@ -36753,7 +35787,6 @@
         "GenomicFeatures",
         "biomaRt",
         "GenomicAlignments",
-        "DelayedArray",
         "progress",
         "BiocFileCache",
         "dbplyr",
@@ -36786,8 +35819,7 @@
         "hms",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "svglite": [],
     "UpSetR": [
@@ -36868,8 +35900,7 @@
         "hms",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "BSgenome.Mmusculus.UCSC.mm10": [
         "BSgenome",
@@ -36879,8 +35910,7 @@
         "XVector",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "babelgene": [
         "dplyr",
@@ -36909,8 +35939,7 @@
         "hms",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "NMF": [
         "ggplot2",
@@ -36946,8 +35975,7 @@
         "hms",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "dtplyr": [
         "dplyr",
@@ -37069,8 +36097,7 @@
         "XVector",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "ggExtra": [
         "colourpicker",
@@ -37157,7 +36184,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "XVector",
         "GenomicFeatures",
@@ -37517,7 +36543,6 @@
         "annotate",
         "XVector",
         "Biostrings",
-        "DelayedArray",
         "dbplyr",
         "dplyr",
         "tibble",
@@ -37585,7 +36610,6 @@
         "blob",
         "hms",
         "bslib",
-        "DelayedArray",
         "BSgenome"
     ],
     "BSgenome.Hsapiens.UCSC.hg38": [
@@ -37596,8 +36620,7 @@
         "XVector",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "devtools": [
         "usethis",
@@ -37780,7 +36803,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "XVector",
         "GenomicFeatures",
@@ -37817,7 +36839,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "XVector",
         "GenomicFeatures",
@@ -37854,7 +36875,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "XVector",
         "GenomicFeatures",
@@ -37905,7 +36925,6 @@
         "dbplyr",
         "dplyr",
         "hms",
-        "DelayedArray",
         "pillar",
         "tibble",
         "tidyselect"
@@ -37943,8 +36962,7 @@
         "XVector",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "chipenrich.data": [
         "AnnotationDbi",
@@ -37964,8 +36982,7 @@
         "blob",
         "pillar",
         "tidyselect",
-        "progress",
-        "DelayedArray"
+        "progress"
     ],
     "org.Dm.eg.db": [
         "AnnotationDbi",
@@ -38012,8 +37029,7 @@
         "hms",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "TxDb.Mmusculus.UCSC.mm9.knownGene": [
         "GenomicFeatures",
@@ -38036,8 +37052,7 @@
         "hms",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [
         "GenomicFeatures",
@@ -38060,8 +37075,7 @@
         "hms",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "TxDb.Celegans.UCSC.ce6.ensGene": [
         "GenomicFeatures",
@@ -38084,8 +37098,7 @@
         "hms",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [
         "GenomicFeatures",
@@ -38108,8 +37121,7 @@
         "hms",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "ashr": [],
     "shinyhelper": [
@@ -38166,8 +37178,7 @@
         "XVector",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "rgl": [],
     "phylobase": [
@@ -38314,7 +37325,6 @@
     "airway": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "EnsDb.Hsapiens.v86": [
@@ -38338,7 +37348,6 @@
         "dbplyr",
         "dplyr",
         "hms",
-        "DelayedArray",
         "pillar",
         "tibble",
         "tidyselect"
@@ -38357,7 +37366,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "XVector",
         "GenomicFeatures",
@@ -38396,7 +37404,6 @@
         "vsn",
         "ggplot2",
         "GenomicRanges",
-        "DelayedArray",
         "XVector",
         "tibble",
         "pillar"
@@ -38717,7 +37724,6 @@
         "interactiveDisplayBase",
         "dplyr",
         "GenomicRanges",
-        "DelayedArray",
         "KEGGREST",
         "dbplyr",
         "tibble",
@@ -39122,8 +38128,7 @@
         "hms",
         "pillar",
         "tibble",
-        "tidyselect",
-        "DelayedArray"
+        "tidyselect"
     ],
     "concaveman": [
         "sf",
@@ -39183,8 +38188,7 @@
         "XVector",
         "GenomicRanges",
         "SummarizedExperiment",
-        "blob",
-        "DelayedArray"
+        "blob"
     ],
     "hgu95av2.db": [
         "AnnotationDbi",
@@ -39423,7 +38427,6 @@
         "dbplyr",
         "dplyr",
         "hms",
-        "DelayedArray",
         "pillar",
         "tibble",
         "tidyselect"
@@ -39469,7 +38472,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "GEOquery",
-        "DelayedArray",
         "HDF5Array",
         "XVector",
         "GenomicFeatures",
@@ -39527,8 +38529,7 @@
         "progress",
         "SummarizedExperiment",
         "bslib",
-        "hms",
-        "DelayedArray"
+        "hms"
     ],
     "PerformanceAnalytics": [],
     "ggmcmc": [
@@ -39585,8 +38586,7 @@
         "XVector",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "InvariantCausalPrediction": [
         "glmnet",
@@ -39764,8 +38764,7 @@
         "XVector",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "shinyjqui": [
         "shiny",
@@ -39851,7 +38850,6 @@
         "KEGGREST",
         "shiny",
         "DT",
-        "DelayedArray",
         "bslib"
     ],
     "octad.db": [
@@ -39911,7 +38909,6 @@
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "tidyr",
         "XVector",
         "dplyr",
@@ -40065,7 +39062,6 @@
         "Rsamtools",
         "BiocFileCache",
         "AnnotationHub",
-        "DelayedArray",
         "HDF5Array",
         "RSQLite",
         "AnnotationDbi",
@@ -40113,7 +39109,6 @@
         "dbplyr",
         "dplyr",
         "hms",
-        "DelayedArray",
         "pillar",
         "tibble",
         "tidyselect"
@@ -40139,7 +39134,6 @@
         "dbplyr",
         "dplyr",
         "hms",
-        "DelayedArray",
         "pillar",
         "tibble",
         "tidyselect"
@@ -40182,7 +39176,6 @@
         "Rsamtools",
         "BiocFileCache",
         "AnnotationHub",
-        "DelayedArray",
         "HDF5Array",
         "RSQLite",
         "AnnotationDbi",
@@ -40220,8 +39213,7 @@
         "XVector",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "knitrBootstrap": [
         "rmarkdown",
@@ -40236,8 +39228,7 @@
         "XVector",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "rGenomeTracksData": [
         "AnnotationHub",
@@ -40276,8 +39267,7 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "progress",
-        "DelayedArray"
+        "progress"
     ],
     "caretEnsemble": [
         "ggplot2",
@@ -40334,7 +39324,6 @@
     "fission": [
         "SummarizedExperiment",
         "GenomicRanges",
-        "DelayedArray",
         "XVector"
     ],
     "treemap": [
@@ -40377,7 +39366,6 @@
         "interactiveDisplayBase",
         "dplyr",
         "dbplyr",
-        "DelayedArray",
         "KEGGREST",
         "blob",
         "pillar",
@@ -40523,7 +39511,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "AnnotationDbi",
-        "DelayedArray",
         "DelayedMatrixStats",
         "RSQLite",
         "KEGGREST",
@@ -40599,7 +39586,6 @@
         "Biostrings",
         "XVector",
         "biomaRt",
-        "DelayedArray",
         "dbplyr",
         "progress",
         "tibble",
@@ -40622,7 +39608,6 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "dplyr",
-        "DelayedArray",
         "SummarizedExperiment",
         "GenomicRanges",
         "KEGGREST",
@@ -40886,8 +39871,7 @@
         "XVector",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "DelayedArray"
+        "SummarizedExperiment"
     ],
     "kmlShape": [
         "longitudinalData",
