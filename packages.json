@@ -81317,7 +81317,6 @@
         "ggplot2",
         "GSVA",
         "reshape2",
-        "ROCit",
         "S4Vectors",
         "singscore",
         "SummarizedExperiment",
@@ -101399,7 +101398,6 @@
         "tinytex",
         "highr"
     ],
-    "ROCit": [],
     "GenKern": [],
     "ttservice": [
         "dplyr",
