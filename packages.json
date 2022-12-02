@@ -23095,7 +23095,6 @@
         "annotate",
         "RSQLite",
         "KEGGREST",
-        "R.huge",
         "Biostrings",
         "blob",
         "XVector"
@@ -32823,7 +32822,6 @@
         "AnnotationDbi",
         "RSQLite",
         "KEGGREST",
-        "R.huge",
         "R.rsp",
         "PSCBS",
         "ggplot2",
@@ -38821,7 +38819,6 @@
         "aroma.core",
         "R.filesets",
         "aroma.apd",
-        "R.huge",
         "R.rsp",
         "PSCBS"
     ],
@@ -38831,12 +38828,9 @@
         "PSCBS"
     ],
     "R.filesets": [],
-    "aroma.apd": [
-        "R.huge"
-    ],
+    "aroma.apd": [],
     "R.rsp": [],
     "PSCBS": [],
-    "R.huge": [],
     "opencpu": [],
     "PMCMRplus": [],
     "SmoothWin": [],
