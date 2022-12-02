@@ -6327,7 +6327,6 @@
     "BiocWorkflowTools": [
         "BiocStyle",
         "bookdown",
-        "git2r",
         "httr",
         "knitr",
         "rmarkdown",
@@ -25299,7 +25298,6 @@
     ],
     "epivizrStandalone": [
         "epivizr",
-        "git2r",
         "epivizrServer",
         "GenomeInfoDb",
         "GenomicFeatures",
@@ -43698,7 +43696,6 @@
         "GenomicFeatures",
         "ensembldb",
         "httpuv",
-        "git2r",
         "RCurl",
         "GenomeInfoDbData",
         "openssl",
@@ -62853,7 +62850,6 @@
     "RcwlPipelines": [
         "Rcwl",
         "BiocFileCache",
-        "git2r",
         "httr",
         "S4Vectors",
         "dbplyr",
@@ -89818,7 +89814,6 @@
         "openssl",
         "askpass"
     ],
-    "git2r": [],
     "chk": [
         "lifecycle"
     ],
