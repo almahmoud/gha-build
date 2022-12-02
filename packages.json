@@ -51845,7 +51845,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "IRanges",
-        "ParallelLogger",
         "tibble",
         "tidyr",
         "VariantAnnotation",
@@ -83793,7 +83792,6 @@
         "tidyselect",
         "ellipsis"
     ],
-    "ParallelLogger": [],
     "pairsD3": [
         "htmlwidgets",
         "shiny",
