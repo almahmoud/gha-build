@@ -312,7 +312,6 @@
         "GO.db",
         "annotate",
         "AnnotationForge",
-        "Rgraphviz",
         "GenomicRanges",
         "PFAM.db",
         "GSEABase",
@@ -427,7 +426,6 @@
         "GO.db",
         "annotate",
         "AnnotationForge",
-        "Rgraphviz",
         "GenomicRanges",
         "PFAM.db",
         "GSEABase",
@@ -1251,7 +1249,6 @@
         "hms"
     ],
     "apComplex": [
-        "Rgraphviz",
         "org.Sc.sgd.db",
         "AnnotationDbi",
         "RSQLite",
@@ -2018,7 +2015,6 @@
         "GO.db",
         "annotate",
         "AnnotationForge",
-        "Rgraphviz",
         "httr",
         "Biostrings",
         "XVector",
@@ -2944,8 +2940,7 @@
         "rsbml",
         "hyperdraw",
         "LIM",
-        "hypergraph",
-        "Rgraphviz"
+        "hypergraph"
     ],
     "bigmelon": [
         "wateRmelon",
@@ -3243,7 +3238,6 @@
         "vctrs"
     ],
     "biocGraph": [
-        "Rgraphviz",
         "geneplotter",
         "annotate",
         "AnnotationDbi",
@@ -3273,7 +3267,6 @@
         "curatedTCGAData",
         "ggpubr",
         "car",
-        "Rgraphviz",
         "gargle",
         "progress",
         "tibble",
@@ -3663,9 +3656,7 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "BioMVCClass": [
-        "Rgraphviz"
-    ],
+    "BioMVCClass": [],
     "biomvRCNS": [
         "GenomicRanges",
         "Gviz",
@@ -3840,7 +3831,6 @@
         "htmlTable",
         "viridis",
         "KEGGgraph",
-        "Rgraphviz",
         "AnnotationDbi",
         "org.Hs.eg.db",
         "KEGGREST",
@@ -4138,7 +4128,6 @@
         "hgu133a.db",
         "KEGGREST",
         "KEGGgraph",
-        "Rgraphviz",
         "RSQLite",
         "org.Hs.eg.db",
         "httr",
@@ -4216,7 +4205,6 @@
     ],
     "bnem": [
         "CellNOptR",
-        "Rgraphviz",
         "flexclust",
         "epiNEM",
         "mnem",
@@ -5245,7 +5233,6 @@
         "genefilter",
         "GO.db",
         "AnnotationForge",
-        "Rgraphviz",
         "IRkernel",
         "IRdisplay",
         "survival",
@@ -5766,7 +5753,6 @@
         "textshaping"
     ],
     "CellNOptR": [
-        "Rgraphviz",
         "ggplot2",
         "rmarkdown",
         "igraph",
@@ -6361,7 +6347,6 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "rmarkdown",
-        "Rgraphviz",
         "DT",
         "dplyr",
         "BiocStyle",
@@ -7250,7 +7235,6 @@
         "gRbase",
         "qpgraph",
         "KEGGgraph",
-        "Rgraphviz",
         "annotate",
         "BiocParallel",
         "AnnotationDbi",
@@ -7555,7 +7539,6 @@
     ],
     "CNORdt": [
         "CellNOptR",
-        "Rgraphviz",
         "ggplot2",
         "rmarkdown",
         "igraph",
@@ -7569,7 +7552,6 @@
     ],
     "CNORfeeder": [
         "CellNOptR",
-        "Rgraphviz",
         "ggplot2",
         "rmarkdown",
         "igraph",
@@ -7584,7 +7566,6 @@
     "CNORfuzzy": [
         "CellNOptR",
         "nloptr",
-        "Rgraphviz",
         "ggplot2",
         "rmarkdown",
         "igraph",
@@ -7601,7 +7582,6 @@
     ],
     "CNORode": [
         "CellNOptR",
-        "Rgraphviz",
         "ggplot2",
         "rmarkdown",
         "igraph",
@@ -8521,7 +8501,6 @@
         "htmlwidgets",
         "rrcov",
         "feature",
-        "Rgraphviz",
         "mgcv",
         "tibble",
         "vctrs",
@@ -9827,7 +9806,6 @@
         "tidyselect",
         "pillar",
         "latticeExtra",
-        "Rgraphviz",
         "ncdfFlow",
         "DelayedArray",
         "hms",
@@ -10062,7 +10040,6 @@
     "CytoML": [
         "flowWorkspace",
         "openCyto",
-        "Rgraphviz",
         "dplyr",
         "ggcyto",
         "tibble",
@@ -10358,7 +10335,6 @@
         "mnem",
         "graphite",
         "dplyr",
-        "Rgraphviz",
         "org.Hs.eg.db",
         "shadowtext",
         "tibble",
@@ -10443,7 +10419,6 @@
         "quantreg",
         "lme4",
         "latticeExtra",
-        "Rgraphviz",
         "dplyr",
         "ncdfFlow",
         "DelayedArray",
@@ -10564,7 +10539,6 @@
         "webshot",
         "egg",
         "KEGGgraph",
-        "Rgraphviz",
         "httpuv",
         "bslib",
         "DelayedArray",
@@ -10895,7 +10869,6 @@
     ],
     "DEGraph": [
         "KEGGgraph",
-        "Rgraphviz",
         "rrcov",
         "NCIgraph",
         "RCy3",
@@ -12787,7 +12760,6 @@
         "hgu133plus2.db",
         "hgu133a.db",
         "KEGGgraph",
-        "Rgraphviz",
         "httr",
         "tidyr",
         "dplyr",
@@ -13023,7 +12995,6 @@
         "GO.db",
         "KEGGREST",
         "KEGGgraph",
-        "Rgraphviz",
         "SPIA",
         "edgeR",
         "graphite",
@@ -13622,7 +13593,6 @@
         "mnem",
         "latex2exp",
         "interp",
-        "Rgraphviz",
         "flexclust",
         "Linnorm",
         "ggplot2",
@@ -14887,7 +14857,6 @@
         "dplyr",
         "RSQLite",
         "httr",
-        "Rgraphviz",
         "igraph",
         "blob",
         "pillar",
@@ -15132,7 +15101,6 @@
         "pillar"
     ],
     "flowCL": [
-        "Rgraphviz",
         "SPARQL"
     ],
     "flowClean": [],
@@ -15150,7 +15118,6 @@
         "lme4",
         "latticeExtra",
         "ggplot2",
-        "Rgraphviz",
         "dplyr",
         "ncdfFlow",
         "DelayedArray",
@@ -15186,7 +15153,6 @@
         "lme4",
         "latticeExtra",
         "ggplot2",
-        "Rgraphviz",
         "dplyr",
         "ncdfFlow",
         "DelayedArray",
@@ -15239,7 +15205,6 @@
     "flowMerge": [
         "feature",
         "flowClust",
-        "Rgraphviz",
         "rrcov",
         "ks",
         "mgcv"
@@ -15319,7 +15284,6 @@
         "fds",
         "latticeExtra",
         "ggplot2",
-        "Rgraphviz",
         "dplyr",
         "DelayedArray",
         "mgcv",
@@ -15359,7 +15323,6 @@
         "latticeExtra",
         "fds",
         "ggplot2",
-        "Rgraphviz",
         "dplyr",
         "DelayedArray",
         "mgcv",
@@ -15373,7 +15336,6 @@
     ],
     "flowWorkspace": [
         "ggplot2",
-        "Rgraphviz",
         "dplyr",
         "ncdfFlow",
         "DelayedArray",
@@ -15970,7 +15932,6 @@
         "mgcv",
         "vctrs",
         "KEGGgraph",
-        "Rgraphviz",
         "KEGGREST",
         "httpuv",
         "bslib",
@@ -16274,8 +16235,7 @@
         "vctrs"
     ],
     "GeneNetworkBuilder": [
-        "htmlwidgets",
-        "Rgraphviz"
+        "htmlwidgets"
     ],
     "GeneOverlap": [],
     "geneplast": [
@@ -17240,7 +17200,6 @@
         "ggplot2",
         "ncdfFlow",
         "flowWorkspace",
-        "Rgraphviz",
         "dplyr",
         "DelayedArray",
         "mgcv",
@@ -17629,7 +17588,6 @@
         "jquerylib",
         "GO.db",
         "AnnotationForge",
-        "Rgraphviz",
         "igraph",
         "broom",
         "httpuv",
@@ -17925,7 +17883,6 @@
         "GO.db",
         "annotate",
         "AnnotationForge",
-        "Rgraphviz",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -18237,7 +18194,6 @@
         "GSEABase",
         "GO.db",
         "KEGGgraph",
-        "Rgraphviz",
         "SPIA",
         "graphite",
         "pathview",
@@ -19376,8 +19332,7 @@
         "sass"
     ],
     "hyperdraw": [
-        "hypergraph",
-        "Rgraphviz"
+        "hypergraph"
     ],
     "hypergraph": [],
     "iasva": [
@@ -19607,7 +19562,6 @@
         "Category",
         "annotate",
         "AnnotationForge",
-        "Rgraphviz",
         "viridis",
         "dendextend",
         "seriation",
@@ -19917,7 +19871,6 @@
         "heatmaply",
         "rmarkdown",
         "flowWorkspace",
-        "Rgraphviz",
         "dplyr",
         "ncdfFlow",
         "DelayedArray",
@@ -21189,9 +21142,7 @@
         "apcluster",
         "GenomeInfoDb"
     ],
-    "KEGGgraph": [
-        "Rgraphviz"
-    ],
+    "KEGGgraph": [],
     "KEGGlincs": [
         "hgu133a.db",
         "org.Hs.eg.db",
@@ -21201,7 +21152,6 @@
         "httr",
         "KEGGREST",
         "RSQLite",
-        "Rgraphviz",
         "Biostrings",
         "XVector",
         "GenomeInfoDb",
@@ -22291,7 +22241,6 @@
         "babelgene",
         "tidyselect",
         "KEGGgraph",
-        "Rgraphviz",
         "org.Hs.eg.db",
         "KEGGREST",
         "RSQLite",
@@ -23159,7 +23108,6 @@
     "MEIGOR": [
         "CNORode",
         "CellNOptR",
-        "Rgraphviz",
         "ggplot2",
         "rmarkdown",
         "igraph",
@@ -23476,7 +23424,6 @@
         "httr",
         "BiocFileCache",
         "ensembldb",
-        "Rgraphviz",
         "Biostrings",
         "qvalue",
         "car",
@@ -25163,7 +25110,6 @@
         "GSEABase",
         "ismev",
         "org.Hs.eg.db",
-        "Rgraphviz",
         "vegan",
         "RSQLite",
         "KEGGREST",
@@ -25272,7 +25218,6 @@
         "biomaRt",
         "GOstats",
         "igraph",
-        "Rgraphviz",
         "annotate",
         "Hmisc",
         "JADE",
@@ -25452,7 +25397,6 @@
         "ggplot2",
         "org.Hs.eg.db",
         "AnnotationDbi",
-        "Rgraphviz",
         "RSQLite",
         "KEGGREST",
         "mgcv",
@@ -25489,7 +25433,6 @@
         "survival",
         "GO.db",
         "AnnotationForge",
-        "Rgraphviz",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -25658,7 +25601,6 @@
         "ggforce",
         "tidygraph",
         "graphlayouts",
-        "Rgraphviz",
         "htmlwidgets",
         "Biostrings",
         "blob",
@@ -25769,7 +25711,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "Rgraphviz",
         "broom",
         "dbplyr",
         "dtplyr",
@@ -26144,7 +26085,6 @@
         "rematch2"
     ],
     "mnem": [
-        "Rgraphviz",
         "flexclust",
         "Linnorm",
         "e1071",
@@ -27906,7 +27846,6 @@
         "doParallel",
         "tibble",
         "vctrs",
-        "Rgraphviz",
         "httr",
         "Biostrings",
         "GenomicRanges",
@@ -28032,7 +27971,6 @@
         "Gviz",
         "AnnotationDbi",
         "htmlwidgets",
-        "Rgraphviz",
         "InteractionSet",
         "RSQLite",
         "KEGGREST",
@@ -28296,7 +28234,6 @@
     "NCIgraph": [
         "KEGGgraph",
         "RCy3",
-        "Rgraphviz",
         "httr",
         "IRkernel",
         "IRdisplay",
@@ -28417,7 +28354,6 @@
         "latticeExtra",
         "pcalg",
         "latex2exp",
-        "Rgraphviz",
         "flexclust",
         "Linnorm",
         "ggplot2",
@@ -28599,7 +28535,6 @@
         "plotly",
         "dnet",
         "supraHex",
-        "Rgraphviz",
         "httr",
         "Biostrings",
         "htmlwidgets",
@@ -28629,7 +28564,6 @@
     ],
     "netresponse": [
         "BiocStyle",
-        "Rgraphviz",
         "rmarkdown",
         "ggplot2",
         "igraph",
@@ -28764,7 +28698,6 @@
         "Category",
         "annotate",
         "AnnotationForge",
-        "Rgraphviz",
         "survival",
         "httr",
         "IRkernel",
@@ -29749,7 +29682,6 @@
         "GenomeInfoDb"
     ],
     "OncoSimulR": [
-        "Rgraphviz",
         "igraph",
         "car",
         "dplyr",
@@ -29799,7 +29731,6 @@
     "ontoProc": [
         "BiocFileCache",
         "shiny",
-        "Rgraphviz",
         "ontologyPlot",
         "dplyr",
         "DT",
@@ -29835,7 +29766,6 @@
         "flowClust",
         "latticeExtra",
         "ggplot2",
-        "Rgraphviz",
         "dplyr",
         "DelayedArray",
         "tibble",
@@ -30414,9 +30344,7 @@
         "pillar",
         "vctrs"
     ],
-    "paircompviz": [
-        "Rgraphviz"
-    ],
+    "paircompviz": [],
     "pairkat": [
         "SummarizedExperiment",
         "KEGGREST",
@@ -30679,7 +30607,6 @@
         "blob"
     ],
     "pathRender": [
-        "Rgraphviz",
         "AnnotationDbi",
         "RSQLite",
         "KEGGREST",
@@ -30699,7 +30626,6 @@
     ],
     "pathview": [
         "KEGGgraph",
-        "Rgraphviz",
         "AnnotationDbi",
         "org.Hs.eg.db",
         "KEGGREST",
@@ -30768,7 +30694,6 @@
         "vctrs",
         "Category",
         "AnnotationForge",
-        "Rgraphviz",
         "viridis",
         "dendextend",
         "seriation",
@@ -30920,7 +30845,6 @@
         "flowWorkspace",
         "ggplot2",
         "doParallel",
-        "Rgraphviz",
         "dplyr",
         "ncdfFlow",
         "DelayedArray",
@@ -31094,7 +31018,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "Rgraphviz",
         "tidyselect",
         "RSQLite",
         "KEGGREST",
@@ -31488,7 +31411,6 @@
         "e1071",
         "pROC",
         "recipes",
-        "Rgraphviz",
         "tidyselect",
         "vctrs",
         "pillar",
@@ -31548,7 +31470,6 @@
         "BiocStyle",
         "C50",
         "partykit",
-        "Rgraphviz",
         "WGCNA",
         "GO.db",
         "pheatmap",
@@ -31778,7 +31699,6 @@
         "Category",
         "annotate",
         "AnnotationForge",
-        "Rgraphviz",
         "RSQLite",
         "KEGGREST",
         "GSEABase",
@@ -31943,7 +31863,6 @@
         "tibble",
         "vctrs",
         "BiocFileCache",
-        "Rgraphviz",
         "ontologyPlot",
         "dplyr",
         "DT",
@@ -33421,7 +33340,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "GenomicFeatures",
-        "Rgraphviz",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -33931,7 +33849,6 @@
         "igraph",
         "dnet",
         "supraHex",
-        "Rgraphviz",
         "ape",
         "readr",
         "tibble",
@@ -34988,7 +34905,6 @@
         "vctrs",
         "GO.db",
         "AnnotationForge",
-        "Rgraphviz",
         "XVector",
         "survival",
         "biomaRt",
@@ -35267,7 +35183,6 @@
         "pillar"
     ],
     "RGraph2js": [],
-    "Rgraphviz": [],
     "rGREAT": [
         "GenomicRanges",
         "shiny",
@@ -36326,7 +36241,6 @@
         "tibble",
         "vctrs",
         "KEGGgraph",
-        "Rgraphviz",
         "KEGGREST",
         "xts",
         "ShortRead",
@@ -36538,7 +36452,6 @@
     "ROntoTools": [
         "KEGGREST",
         "KEGGgraph",
-        "Rgraphviz",
         "httr",
         "Biostrings",
         "XVector",
@@ -37125,7 +37038,6 @@
         "kinship2",
         "doParallel",
         "gRbase",
-        "Rgraphviz",
         "igraph",
         "broom",
         "survival",
@@ -37283,7 +37195,6 @@
         "jquerylib",
         "Biostrings",
         "KEGGgraph",
-        "Rgraphviz",
         "org.Hs.eg.db",
         "bslib",
         "GenomicRanges",
@@ -38782,7 +38693,6 @@
         "vctrs",
         "GO.db",
         "AnnotationForge",
-        "Rgraphviz",
         "viridis",
         "dendextend",
         "seriation",
@@ -41404,8 +41314,7 @@
     ],
     "SPEM": [],
     "SPIA": [
-        "KEGGgraph",
-        "Rgraphviz"
+        "KEGGgraph"
     ],
     "SPIAT": [
         "SpatialExperiment",
@@ -41657,7 +41566,6 @@
     "SplicingGraphs": [
         "GenomicFeatures",
         "GenomicAlignments",
-        "Rgraphviz",
         "igraph",
         "BiocParallel",
         "GenomeInfoDb",
@@ -41781,7 +41689,6 @@
         "ggsignif",
         "rstatix",
         "survival",
-        "Rgraphviz",
         "broom",
         "dbplyr",
         "dtplyr",
@@ -43500,7 +43407,6 @@
         "vctrs",
         "survival",
         "KEGGgraph",
-        "Rgraphviz",
         "org.Hs.eg.db",
         "KEGGREST",
         "httr",
@@ -43630,8 +43536,7 @@
         "pillar"
     ],
     "TDARACNE": [
-        "GenKern",
-        "Rgraphviz"
+        "GenKern"
     ],
     "TEKRABber": [
         "apeglm",
@@ -43692,7 +43597,6 @@
         "RSQLite",
         "KEGGREST",
         "BiocFileCache",
-        "Rgraphviz",
         "ontologyPlot",
         "dplyr",
         "DT",
@@ -44514,7 +44418,6 @@
         "rtracklayer",
         "AnnotationDbi",
         "htmlwidgets",
-        "Rgraphviz",
         "InteractionSet",
         "RSQLite",
         "KEGGREST",
@@ -45135,7 +45038,6 @@
         "pillar"
     ],
     "TRONCO": [
-        "Rgraphviz",
         "doParallel",
         "igraph",
         "R.matlab"
@@ -46811,7 +46713,6 @@
         "GO.db",
         "KEGGREST",
         "KEGGgraph",
-        "Rgraphviz",
         "SPIA",
         "edgeR",
         "graphite",
@@ -50001,7 +49902,6 @@
         "htmlwidgets"
     ],
     "gRbase": [
-        "Rgraphviz",
         "igraph"
     ],
     "phylobase": [
@@ -51202,7 +51102,6 @@
     ],
     "gRain": [
         "gRbase",
-        "Rgraphviz",
         "igraph",
         "broom",
         "dplyr",
@@ -52268,7 +52167,6 @@
     "dnet": [
         "igraph",
         "supraHex",
-        "Rgraphviz",
         "ape",
         "readr",
         "tibble",
@@ -52447,9 +52345,7 @@
     "flatxml": [
         "httr"
     ],
-    "ontologyPlot": [
-        "Rgraphviz"
-    ],
+    "ontologyPlot": [],
     "distrEx": [],
     "AICcmodavg": [
         "survival",
