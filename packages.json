@@ -2067,9 +2067,7 @@
         "lme4"
     ],
     "pogos": [],
-    "ppcseq": [
-        "tidybayes"
-    ],
+    "ppcseq": [],
     "preciseTAD": [
         "rCGH",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
@@ -3164,7 +3162,6 @@
     "unmarked": [
         "lme4"
     ],
-    "tidybayes": [],
     "phastCons100way.UCSC.hg38": [],
     "EnsDb.Mmusculus.v79": [
         "ensembldb"
