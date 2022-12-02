@@ -1083,7 +1083,6 @@
     "IsoformSwitchAnalyzeR": [
         "tximeta"
     ],
-    "isomiRs": [],
     "IVAS": [
         "lme4"
     ],
