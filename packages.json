@@ -10325,7 +10325,6 @@
         "highr",
         "xfun",
         "timechange",
-        "infotheo",
         "askpass",
         "utf8",
         "viridisLite",
@@ -12504,7 +12503,6 @@
         "magrittr",
         "Matrix",
         "pkgconfig",
-        "infotheo",
         "statmod",
         "RhpcBLASctl",
         "abind",
@@ -14085,7 +14083,6 @@
         "Rtsne",
         "gmodels",
         "nlme",
-        "infotheo",
         "abind",
         "ggm",
         "corpcor",
@@ -15660,8 +15657,7 @@
         "lattice"
     ],
     "BUS": [
-        "minet",
-        "infotheo"
+        "minet"
     ],
     "BUScorrect": [
         "gplots",
@@ -16255,7 +16251,6 @@
         "Matrix",
         "pkgconfig",
         "nlme",
-        "infotheo",
         "statmod",
         "RhpcBLASctl",
         "abind",
@@ -16645,7 +16640,6 @@
         "htmltools",
         "base64enc",
         "nlme",
-        "infotheo",
         "askpass",
         "sys",
         "dbplyr",
@@ -18003,9 +17997,7 @@
         "zlibbioc",
         "bitops"
     ],
-    "ccrepe": [
-        "infotheo"
-    ],
+    "ccrepe": [],
     "celaref": [
         "SummarizedExperiment",
         "MAST",
@@ -24179,7 +24171,6 @@
         "fastmap"
     ],
     "ClusterJudge": [
-        "infotheo",
         "lattice",
         "latticeExtra",
         "httr",
@@ -25891,7 +25882,6 @@
         "Matrix",
         "pkgconfig",
         "rlang",
-        "infotheo",
         "bslib",
         "evaluate",
         "htmltools",
@@ -34229,7 +34219,6 @@
         "gmodels",
         "timechange",
         "nlme",
-        "infotheo",
         "mvtnorm",
         "plotrix",
         "multtest",
@@ -44741,7 +44730,6 @@
         "jpeg",
         "interp",
         "MASS",
-        "infotheo",
         "cluster",
         "Rgraphviz",
         "flexclust",
@@ -54118,7 +54106,6 @@
         "proxy",
         "lattice",
         "cluster",
-        "infotheo",
         "MASS"
     ],
     "GeneticsPed": [
@@ -83616,9 +83603,7 @@
         "tzdb",
         "formatR"
     ],
-    "minet": [
-        "infotheo"
-    ],
+    "minet": [],
     "minfi": [
         "BiocGenerics",
         "GenomicRanges",
@@ -91072,7 +91057,6 @@
         "enrichplot",
         "ppcor",
         "metap",
-        "infotheo",
         "igraph",
         "networkD3",
         "easyPubMed",
@@ -93944,7 +93928,6 @@
         "amap",
         "Rtsne",
         "gmodels",
-        "infotheo",
         "abind",
         "RBGL",
         "ggm",
@@ -94517,7 +94500,6 @@
         "viridisLite",
         "Matrix",
         "pkgconfig",
-        "infotheo",
         "dnet",
         "ellipsis",
         "cpp11",
@@ -94657,7 +94639,6 @@
         "magrittr",
         "Matrix",
         "pkgconfig",
-        "infotheo",
         "Rcpp",
         "stringr",
         "bslib",
@@ -97013,7 +96994,6 @@
         "abind",
         "assertthat",
         "clue",
-        "infotheo",
         "klaR",
         "magrittr",
         "mclust",
@@ -121940,7 +121920,6 @@
         "pkgconfig",
         "rlang",
         "BiocGenerics",
-        "infotheo",
         "kernlab",
         "segmented",
         "survival",
@@ -122050,7 +122029,6 @@
         "pkgconfig",
         "rlang",
         "BiocGenerics",
-        "infotheo",
         "kernlab",
         "segmented",
         "survival",
@@ -122181,7 +122159,6 @@
         "pkgconfig",
         "BiocGenerics",
         "lattice",
-        "infotheo",
         "kernlab",
         "segmented",
         "colorspace",
@@ -130956,7 +130933,6 @@
         "RColorBrewer",
         "scales",
         "stringr",
-        "infotheo",
         "progress",
         "corrplot",
         "lmerTest",
@@ -162371,7 +162347,6 @@
         "rlang",
         "lattice"
     ],
-    "infotheo": [],
     "mnormt": [],
     "ggfun": [
         "ggplot2",
@@ -176272,7 +176247,6 @@
         "clValid",
         "dplyr",
         "ggplot2",
-        "infotheo",
         "klaR",
         "magrittr",
         "mclust",
