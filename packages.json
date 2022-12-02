@@ -92,7 +92,6 @@
     ],
     "ChAMP": [
         "DMRcate",
-        "IlluminaHumanMethylationEPICmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "wateRmelon",
         "missMethyl",
@@ -132,8 +131,7 @@
     "contiBAIT": [],
     "conumee": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
-        "IlluminaHumanMethylationEPICmanifest"
+        "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
     ],
     "CopyNumberPlots": [
         "karyoploteR"
@@ -203,7 +201,6 @@
         "missMethyl",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "IlluminaHumanMethylationEPICmanifest",
         "methylumi"
     ],
     "DMRforPairs": [],
@@ -246,7 +243,6 @@
         "ReactomePA"
     ],
     "epimutacions": [
-        "IlluminaHumanMethylationEPICmanifest",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
     ],
@@ -445,7 +441,6 @@
         "missMethyl",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "IlluminaHumanMethylationEPICmanifest",
         "methylumi"
     ],
     "MEAT": [
@@ -490,7 +485,6 @@
         "missMethyl",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "IlluminaHumanMethylationEPICmanifest",
         "methylumi"
     ],
     "methylPipe": [],
@@ -525,7 +519,6 @@
     "missMethyl": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "IlluminaHumanMethylationEPICmanifest",
         "methylumi"
     ],
     "mitoClone2": [],
@@ -941,7 +934,6 @@
         "car"
     ],
     "GenomicTools": [],
-    "IlluminaHumanMethylationEPICmanifest": [],
     "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [],
     "spp": [],
     "propr": [],
