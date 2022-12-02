@@ -433,7 +433,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "bbmle",
         "mgcv",
         "scuttle",
         "DelayedArray",
@@ -1121,7 +1120,6 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "RcppNumerical",
-        "bbmle",
         "GenomeInfoDb",
         "XVector",
         "DelayedArray"
@@ -5908,7 +5906,6 @@
         "latticeExtra",
         "DelayedArray",
         "dbplyr",
-        "bbmle",
         "annotate",
         "interp",
         "hms"
@@ -9457,7 +9454,6 @@
         "patchwork",
         "tidyselect",
         "pillar",
-        "bbmle",
         "cowplot",
         "ggforce",
         "ggrepel",
@@ -9588,7 +9584,6 @@
         "rtracklayer",
         "mgcv",
         "lme4",
-        "bbmle",
         "nloptr",
         "ggplot2",
         "Biostrings",
@@ -10095,7 +10090,6 @@
         "blob"
     ],
     "DEsingle": [
-        "bbmle",
         "gamlss",
         "maxLik",
         "BiocParallel"
@@ -10283,7 +10277,6 @@
         "rtracklayer",
         "DelayedArray",
         "ShortRead",
-        "bbmle",
         "annotate",
         "AnnotationDbi",
         "latticeExtra",
@@ -16968,7 +16961,6 @@
     "HiCDCPlus": [
         "InteractionSet",
         "GenomicInteractions",
-        "bbmle",
         "BSgenome",
         "dplyr",
         "tidyr",
@@ -18456,7 +18448,6 @@
         "gson",
         "qvalue",
         "tidyr",
-        "bbmle",
         "gamlss",
         "maxLik",
         "BiocParallel",
@@ -19673,7 +19664,6 @@
         "pillar"
     ],
     "M3Drop": [
-        "bbmle",
         "reldist",
         "Hmisc",
         "ggplot2",
@@ -21438,7 +21428,6 @@
         "fastseg",
         "rtracklayer",
         "mgcv",
-        "bbmle",
         "ggplot2",
         "GenomicAlignments",
         "tibble",
@@ -21466,7 +21455,6 @@
         "fastseg",
         "rtracklayer",
         "mgcv",
-        "bbmle",
         "ggplot2",
         "Biostrings",
         "BiocParallel",
@@ -21856,7 +21844,6 @@
         "Rsamtools",
         "fastseg",
         "rtracklayer",
-        "bbmle",
         "Biostrings",
         "GenomicAlignments",
         "pillar",
@@ -21872,7 +21859,6 @@
         "fastseg",
         "rtracklayer",
         "mgcv",
-        "bbmle",
         "XVector",
         "ggplot2",
         "Biostrings",
@@ -34233,7 +34219,6 @@
         "SummarizedExperiment",
         "ScaledMatrix",
         "beachmat",
-        "bbmle",
         "reldist",
         "Hmisc",
         "ggplot2",
@@ -34556,7 +34541,6 @@
     ],
     "scRecover": [
         "penalized",
-        "bbmle",
         "gamlss",
         "SAVER",
         "Rmagic",
@@ -34664,8 +34648,7 @@
     ],
     "scShapes": [
         "BiocParallel",
-        "emdbook",
-        "bbmle"
+        "emdbook"
     ],
     "scTensor": [
         "RSQLite",
@@ -36173,7 +36156,6 @@
         "biomaRt",
         "ragg",
         "org.Hs.eg.db",
-        "bbmle",
         "reldist",
         "Hmisc",
         "multcomp",
@@ -39112,7 +39094,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "bbmle",
         "annotate",
         "XVector",
         "mgcv",
@@ -41497,7 +41478,6 @@
         "DelayedArray",
         "ShortRead",
         "dbplyr",
-        "bbmle",
         "hms",
         "blob",
         "latticeExtra",
@@ -42347,11 +42327,8 @@
         "glmnet",
         "mgcv"
     ],
-    "emdbook": [
-        "bbmle"
-    ],
+    "emdbook": [],
     "RcppNumerical": [],
-    "bbmle": [],
     "ggbeeswarm": [
         "ggplot2",
         "mgcv",
