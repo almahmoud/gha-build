@@ -329,7 +329,6 @@
     "clipper": [
         "qpgraph"
     ],
-    "clusterExperiment": [],
     "clusterProfiler": [
         "enrichplot",
         "ggtree"
@@ -1601,9 +1600,7 @@
         "ggtree"
     ],
     "netOmics": [],
-    "netSmooth": [
-        "clusterExperiment"
-    ],
+    "netSmooth": [],
     "netZooR": [
         "yarn",
         "quantro",
