@@ -107,7 +107,6 @@
         "GenomicRanges",
         "rematch2",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr"
     ],
@@ -1480,7 +1479,6 @@
         "ggplot2",
         "dendextend",
         "egg",
-        "quantreg",
         "genefilter",
         "tibble",
         "tidyselect",
@@ -1566,8 +1564,7 @@
         "Biostrings"
     ],
     "beadarraySNP": [
-        "quantsmooth",
-        "quantreg"
+        "quantsmooth"
     ],
     "BEARscc": [
         "ggplot2",
@@ -1853,7 +1850,6 @@
         "ggraph",
         "graphite",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "aplot",
         "ggnewscale",
@@ -1924,7 +1920,6 @@
         "progress",
         "tibble",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "MultiAssayExperiment",
         "AnnotationHub",
@@ -2153,7 +2148,6 @@
         "topGO",
         "tibble",
         "Hmisc",
-        "quantreg",
         "multcomp",
         "GO.db",
         "AnnotationDbi",
@@ -2301,8 +2295,7 @@
         "SuperLearner",
         "np",
         "GenomicRanges",
-        "ggdendro",
-        "quantreg"
+        "ggdendro"
     ],
     "biovizBase": [
         "Hmisc",
@@ -3066,7 +3059,6 @@
         "GenomicRanges",
         "ScaledMatrix",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "tweenr",
         "ggsci",
@@ -3362,7 +3354,6 @@
         "ggrepel",
         "viridis",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "tibble",
         "nloptr",
@@ -3456,7 +3447,6 @@
         "tidyselect",
         "cowplot",
         "ggpp",
-        "quantreg",
         "Hmisc",
         "RSQLite",
         "KEGGREST",
@@ -3509,8 +3499,7 @@
         "waldo",
         "car",
         "rematch2",
-        "pbkrtest",
-        "quantreg"
+        "pbkrtest"
     ],
     "Cepo": [
         "GSEABase",
@@ -3595,7 +3584,6 @@
         "ggplotify",
         "patchwork",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "ggforce",
         "viridis",
@@ -3832,7 +3820,6 @@
         "readr",
         "Hmisc",
         "ggplot2",
-        "quantreg",
         "multcomp",
         "Biostrings",
         "Rsamtools",
@@ -4831,7 +4818,6 @@
         "cobs",
         "vegan",
         "SummarizedExperiment",
-        "quantreg",
         "tibble",
         "Biostrings",
         "GenomicRanges"
@@ -5044,7 +5030,6 @@
         "ggplotify",
         "patchwork",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "ggforce",
         "tidygraph",
@@ -5099,7 +5084,6 @@
         "feature",
         "tibble",
         "Hmisc",
-        "quantreg",
         "multcomp",
         "viridis",
         "TH.data"
@@ -5434,9 +5418,7 @@
         "SummarizedExperiment",
         "tidyselect"
     ],
-    "cqn": [
-        "quantreg"
-    ],
+    "cqn": [],
     "CRImage": [
         "aCGH"
     ],
@@ -5886,7 +5868,6 @@
         "tidyr",
         "tibble",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "tidyselect",
         "GEOmap",
@@ -5953,7 +5934,6 @@
         "hardhat",
         "ipred",
         "pbkrtest",
-        "quantreg",
         "prodlim",
         "broom",
         "waldo",
@@ -5985,7 +5965,6 @@
         "hardhat",
         "ipred",
         "pbkrtest",
-        "quantreg",
         "prodlim",
         "testthat",
         "broom",
@@ -6126,7 +6105,6 @@
         "KEGGREST",
         "BiocFileCache",
         "pbkrtest",
-        "quantreg",
         "annotate",
         "rtracklayer",
         "nloptr",
@@ -6194,7 +6172,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "waldo",
         "nloptr",
@@ -6248,8 +6225,7 @@
         "rmarkdown",
         "sn",
         "Biostrings",
-        "TH.data",
-        "quantreg"
+        "TH.data"
     ],
     "ddPCRclust": [
         "ggplot2",
@@ -6260,7 +6236,6 @@
         "flowWorkspace",
         "tibble",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "dplyr",
         "GEOmap",
@@ -6779,7 +6754,6 @@
         "dplyr",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "broom",
@@ -6932,7 +6906,6 @@
         "car",
         "waldo",
         "pbkrtest",
-        "quantreg",
         "rematch2"
     ],
     "DifferentialRegulation": [
@@ -7299,7 +7272,6 @@
         "cellranger",
         "progress",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "TH.data",
         "nloptr",
@@ -7475,7 +7447,6 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "annotate",
         "TH.data",
@@ -7707,8 +7678,7 @@
         "multcomp",
         "GenomicRanges",
         "sn",
-        "TH.data",
-        "quantreg"
+        "TH.data"
     ],
     "eiR": [
         "ChemmineR",
@@ -7763,7 +7733,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "viridis",
         "nloptr",
@@ -7949,7 +7918,6 @@
         "ggplotify",
         "patchwork",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "ggforce",
         "viridis",
@@ -8087,7 +8055,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "SummarizedExperiment",
         "nloptr",
@@ -8103,7 +8070,6 @@
         "beadarray",
         "AnnotationDbi",
         "ggplot2",
-        "quantreg",
         "Biostrings",
         "RSQLite",
         "KEGGREST",
@@ -8134,7 +8100,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat",
@@ -8579,7 +8544,6 @@
         "fgsea",
         "rtracklayer",
         "Rsamtools",
-        "quantreg",
         "ggplot2",
         "cowplot",
         "AnnotationDbi",
@@ -8637,7 +8601,6 @@
         "car",
         "KEGGREST",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "shiny",
         "progress",
@@ -9218,7 +9181,6 @@
         "RFOC",
         "flowWorkspace",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "ggplot2",
         "dplyr",
@@ -9243,7 +9205,6 @@
         "RFOC",
         "flowWorkspace",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "ggplot2",
         "dplyr",
@@ -9280,7 +9241,6 @@
         "rmarkdown",
         "shiny",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "broom",
@@ -9311,7 +9271,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat",
@@ -9441,7 +9400,6 @@
     "frenchFISH": [
         "MCMCpack",
         "NHPoisson",
-        "quantreg",
         "car",
         "pbkrtest",
         "lme4",
@@ -9538,7 +9496,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat",
@@ -9637,7 +9594,6 @@
         "KEGGREST",
         "BiocFileCache",
         "pbkrtest",
-        "quantreg",
         "annotate",
         "rtracklayer",
         "nloptr",
@@ -9763,7 +9719,6 @@
         "treeio",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "tweenr",
         "nloptr",
@@ -9837,7 +9792,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "Biostrings",
         "nloptr",
@@ -9909,7 +9863,6 @@
         "ggrepel",
         "Biostrings",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "tibble",
         "nloptr",
@@ -9953,7 +9906,6 @@
         "quantsmooth",
         "Biostrings",
         "mice",
-        "quantreg",
         "broom",
         "dplyr",
         "tidyr",
@@ -10274,7 +10226,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat",
@@ -10413,7 +10364,6 @@
         "cellranger",
         "progress",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "broom",
         "nloptr",
@@ -10505,7 +10455,6 @@
     "GEWIST": [
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "broom",
@@ -10741,7 +10690,6 @@
         "Biostrings",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat",
@@ -11083,8 +11031,7 @@
         "tibble"
     ],
     "GraphAT": [
-        "MCMCpack",
-        "quantreg"
+        "MCMCpack"
     ],
     "graphite": [
         "AnnotationDbi",
@@ -11121,7 +11068,6 @@
         "dplyr",
         "GenomicRanges",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "tidyselect",
         "TH.data",
@@ -11397,7 +11343,6 @@
         "logistf",
         "quantsmooth",
         "mice",
-        "quantreg",
         "broom",
         "dplyr",
         "tidyr",
@@ -11422,7 +11367,6 @@
         "KEGGREST",
         "biomaRt",
         "mice",
-        "quantreg",
         "GenomicAlignments",
         "progress",
         "BiocFileCache",
@@ -11631,7 +11575,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "Rsamtools",
         "nloptr",
@@ -12330,7 +12273,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat",
@@ -12438,7 +12380,6 @@
         "ggsignif",
         "rstatix",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "Biostrings",
         "broom",
@@ -12514,7 +12455,6 @@
         "tidyselect",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat",
@@ -12616,7 +12556,6 @@
         "ggfun",
         "ggplotify",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "tidytree",
         "treeio",
@@ -12886,7 +12825,6 @@
         "rstatix",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat",
@@ -13021,7 +12959,6 @@
         "rtracklayer",
         "Rsamtools",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "broom",
         "nloptr",
@@ -13038,7 +12975,6 @@
         "sva",
         "Hmisc",
         "recipes",
-        "quantreg",
         "tibble",
         "viridis",
         "genefilter",
@@ -13167,7 +13103,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "vroom",
         "nloptr",
@@ -13454,7 +13389,6 @@
         "cplm",
         "lme4",
         "pbkrtest",
-        "quantreg",
         "tibble",
         "tidyselect",
         "nloptr",
@@ -13484,7 +13418,6 @@
         "RSQLite",
         "KEGGREST",
         "pbkrtest",
-        "quantreg",
         "tibble",
         "tidyselect",
         "viridis",
@@ -13902,7 +13835,6 @@
         "SummarizedExperiment",
         "Biostrings",
         "mice",
-        "quantreg",
         "broom",
         "dplyr",
         "tidyr",
@@ -14108,7 +14040,6 @@
         "car",
         "multcomp",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "TH.data",
         "nloptr",
@@ -14152,8 +14083,7 @@
         "BiocStyle",
         "bookdown",
         "rmarkdown",
-        "tibble",
-        "quantreg"
+        "tibble"
     ],
     "memes": [
         "Biostrings",
@@ -14334,7 +14264,6 @@
         "dbplyr",
         "dplyr",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "GenomicRanges",
         "AnnotationFilter",
@@ -14370,7 +14299,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat",
@@ -14580,8 +14508,7 @@
         "mutoss",
         "multcomp",
         "sn",
-        "TH.data",
-        "quantreg"
+        "TH.data"
     ],
     "MetCirc": [
         "shiny",
@@ -14655,7 +14582,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "Biostrings",
         "nloptr",
@@ -14765,7 +14691,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "ggpp",
-        "quantreg",
         "ggrepel",
         "ggsci",
         "cowplot",
@@ -15045,7 +14970,6 @@
         "tidyselect",
         "tidyr",
         "GGally",
-        "quantreg",
         "forcats",
         "progress"
     ],
@@ -15189,7 +15113,6 @@
         "plotly",
         "ggplot2",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -15424,7 +15347,6 @@
         "tidyr",
         "tibble",
         "tidyselect",
-        "quantreg",
         "waldo",
         "rematch2"
     ],
@@ -15706,7 +15628,6 @@
         "rmarkdown",
         "car",
         "pbkrtest",
-        "quantreg",
         "prodlim",
         "testthat",
         "lava",
@@ -15792,7 +15713,6 @@
         "rmarkdown",
         "car",
         "pbkrtest",
-        "quantreg",
         "prodlim",
         "testthat",
         "lava",
@@ -15990,7 +15910,6 @@
         "cplm",
         "lme4",
         "pbkrtest",
-        "quantreg",
         "nloptr",
         "testthat",
         "broom",
@@ -16336,7 +16255,6 @@
         "car",
         "progress",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat",
@@ -16495,7 +16413,6 @@
         "genefilter",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "AnnotationDbi",
         "annotate",
@@ -16589,7 +16506,6 @@
         "progress",
         "rmarkdown",
         "pbkrtest",
-        "quantreg",
         "testthat",
         "waldo"
     ],
@@ -16806,8 +16722,7 @@
         "Biostrings",
         "multcomp",
         "sn",
-        "TH.data",
-        "quantreg"
+        "TH.data"
     ],
     "multiHiCcompare": [
         "dplyr",
@@ -16911,7 +16826,6 @@
         "Biostrings",
         "TH.data",
         "ragg",
-        "quantreg",
         "waldo",
         "lava",
         "rematch2"
@@ -17054,7 +16968,6 @@
         "GenomicAlignments",
         "dbplyr",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "broom",
         "nloptr",
@@ -17096,7 +17009,6 @@
         "SummarizedExperiment",
         "KEGGREST",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "tibble",
         "Biostrings",
@@ -17200,7 +17112,6 @@
         "tibble",
         "tidyselect",
         "TH.data",
-        "quantreg",
         "CNEr",
         "readr",
         "annotate",
@@ -17316,7 +17227,6 @@
         "mppa",
         "ggplot2",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "tibble",
         "nloptr",
@@ -17717,7 +17627,6 @@
         "SummarizedExperiment",
         "ggforce",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "tweenr",
         "tidyselect",
@@ -17910,7 +17819,6 @@
         "car",
         "progress",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "waldo",
         "BSgenome",
@@ -18050,7 +17958,6 @@
         "RSQLite",
         "KEGGREST",
         "pbkrtest",
-        "quantreg",
         "tidyselect",
         "testthat",
         "Biostrings",
@@ -18093,7 +18000,6 @@
         "dplyr",
         "tidyselect",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "viridis",
         "AnnotationDbi",
@@ -18152,7 +18058,6 @@
         "rstatix",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat",
@@ -18216,7 +18121,6 @@
         "ggplot2",
         "ggrepel",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "tibble",
         "tidyselect",
@@ -18302,7 +18206,6 @@
         "summarytools",
         "unmarked",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "ggplot2",
         "viridis",
@@ -18478,7 +18381,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "progress",
         "nloptr",
@@ -18559,7 +18461,6 @@
         "GenomicRanges",
         "tidyr",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "tibble",
         "dplyr",
@@ -18674,7 +18575,6 @@
         "treeio",
         "Biostrings",
         "TH.data",
-        "quantreg",
         "tweenr"
     ],
     "PanViz": [
@@ -18889,7 +18789,6 @@
         "dbplyr",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "Biostrings",
         "nloptr",
@@ -18966,8 +18865,7 @@
         "phyloseq",
         "tibble",
         "Biostrings",
-        "vegan",
-        "quantreg"
+        "vegan"
     ],
     "periodicDNA": [
         "Biostrings",
@@ -19125,7 +19023,6 @@
         "ggplot2",
         "lme4",
         "pbkrtest",
-        "quantreg",
         "tibble",
         "nloptr",
         "mice",
@@ -19187,7 +19084,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat",
@@ -19457,7 +19353,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat",
@@ -20127,7 +20022,6 @@
         "RSQLite",
         "KEGGREST",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "viridis",
         "broom",
@@ -20235,7 +20129,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat",
@@ -20390,7 +20283,6 @@
         "GenomicRanges",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "tidyr",
         "dplyr",
@@ -20546,9 +20438,7 @@
         "GenomicAlignments",
         "dbplyr"
     ],
-    "quantsmooth": [
-        "quantreg"
-    ],
+    "quantsmooth": [],
     "QuartPAC": [
         "iPAC",
         "GraphPAC",
@@ -21433,7 +21323,6 @@
         "dplyr",
         "tidyr",
         "pbkrtest",
-        "quantreg",
         "tidyselect",
         "testthat",
         "waldo",
@@ -21735,7 +21624,6 @@
         "tibble",
         "rtracklayer",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "tidyselect",
         "GenomicRanges",
@@ -22202,7 +22090,6 @@
         "ShortRead",
         "RSQLite",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "viridis",
         "tidyselect",
@@ -22270,7 +22157,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "VariantAnnotation",
         "viridis",
@@ -22422,7 +22308,6 @@
         "car",
         "metap",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "TFisher",
         "mutoss",
@@ -22513,7 +22398,6 @@
         "rstatix",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat",
@@ -22552,7 +22436,6 @@
         "SummarizedExperiment",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "GenomicRanges",
         "nloptr",
@@ -22572,7 +22455,6 @@
         "SummarizedExperiment",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "GenomicRanges",
         "nloptr",
@@ -22596,7 +22478,6 @@
         "SummarizedExperiment",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "GenomicRanges",
         "nloptr",
@@ -23170,9 +23051,7 @@
         "waldo",
         "rematch2"
     ],
-    "scde": [
-        "quantreg"
-    ],
+    "scde": [],
     "scds": [
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -23353,7 +23232,6 @@
     "SCnorm": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "quantreg",
         "ggplot2",
         "forcats",
         "tibble",
@@ -24302,7 +24180,6 @@
         "waldo",
         "progress",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "rematch2"
     ],
@@ -24362,7 +24239,6 @@
         "ipred",
         "dbplyr",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "lava",
         "nloptr",
@@ -24392,7 +24268,6 @@
         "tidyselect"
     ],
     "SIM": [
-        "quantreg",
         "globaltest",
         "quantsmooth",
         "AnnotationDbi",
@@ -24600,7 +24475,6 @@
         "sn",
         "TH.data",
         "densEstBayes",
-        "quantreg",
         "rstan"
     ],
     "SingleMoleculeFootprinting": [
@@ -24953,8 +24827,7 @@
         "Biostrings"
     ],
     "sparseDOSSA": [
-        "MCMCpack",
-        "quantreg"
+        "MCMCpack"
     ],
     "sparsenetgls": [],
     "SparseSignatures": [
@@ -25418,7 +25291,6 @@
         "rmarkdown",
         "car",
         "pbkrtest",
-        "quantreg",
         "prodlim",
         "Biostrings",
         "testthat",
@@ -25983,7 +25855,6 @@
         "rstatix",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat",
@@ -26118,7 +25989,6 @@
         "reprex",
         "rvest",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "viridis",
         "gargle",
@@ -26262,7 +26132,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "Biostrings",
         "nloptr",
@@ -26326,7 +26195,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat",
@@ -26493,7 +26361,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "tweenr",
         "lava",
@@ -26972,7 +26839,6 @@
         "RSQLite",
         "KEGGREST",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "Biostrings",
         "nloptr",
@@ -27293,8 +27159,7 @@
         "broom",
         "car",
         "rematch2",
-        "pbkrtest",
-        "quantreg"
+        "pbkrtest"
     ],
     "TreeSummarizedExperiment": [
         "SingleCellExperiment",
@@ -27507,8 +27372,7 @@
         "GenomicRanges"
     ],
     "tweeDEseq": [
-        "cqn",
-        "quantreg"
+        "cqn"
     ],
     "twoddpcr": [
         "ggplot2",
@@ -28572,7 +28436,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat",
@@ -28608,7 +28471,6 @@
         "car",
         "ggplot2",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat",
@@ -28628,7 +28490,6 @@
     ],
     "car": [
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "broom",
@@ -28657,7 +28518,6 @@
         "waldo",
         "rematch2"
     ],
-    "quantreg": [],
     "lme4": [
         "nloptr",
         "testthat",
@@ -29382,9 +29242,7 @@
         "shinyjs",
         "tibble"
     ],
-    "MCMCpack": [
-        "quantreg"
-    ],
+    "MCMCpack": [],
     "heatmaply": [
         "plotly",
         "viridis",
@@ -29474,7 +29332,6 @@
         "shinyFiles",
         "patchwork",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "tidyselect",
         "vroom",
@@ -29585,7 +29442,6 @@
     "rms": [
         "Hmisc",
         "ggplot2",
-        "quantreg",
         "multcomp",
         "tibble",
         "viridis",
@@ -29669,13 +29525,10 @@
     ],
     "drtmle": [
         "SuperLearner",
-        "np",
-        "quantreg"
+        "np"
     ],
     "SuperLearner": [],
-    "np": [
-        "quantreg"
-    ],
+    "np": [],
     "biscuiteerData": [
         "ExperimentHub",
         "AnnotationHub",
@@ -29806,7 +29659,6 @@
         "car",
         "multcomp",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "TH.data",
         "nloptr",
@@ -29844,7 +29696,6 @@
         "ggplot2",
         "ggrepel",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "tibble",
         "nloptr",
@@ -29863,7 +29714,6 @@
     "ggpmisc": [
         "ggpp",
         "ggplot2",
-        "quantreg",
         "tibble",
         "dplyr",
         "tidyselect"
@@ -30241,9 +30091,7 @@
         "tibble",
         "tidyselect"
     ],
-    "cobs": [
-        "quantreg"
-    ],
+    "cobs": [],
     "phylolm": [],
     "rio": [
         "haven",
@@ -30273,7 +30121,6 @@
         "rstatix",
         "tidyselect",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "broom",
         "nloptr",
@@ -30314,7 +30161,6 @@
         "rms",
         "Hmisc",
         "ggplot2",
-        "quantreg",
         "multcomp",
         "tibble",
         "viridis",
@@ -30511,20 +30357,16 @@
         "mutoss",
         "multcomp",
         "sn",
-        "TH.data",
-        "quantreg"
+        "TH.data"
     ],
     "TFisher": [
-        "sn",
-        "quantreg"
+        "sn"
     ],
     "mutoss": [
         "multcomp",
         "TH.data"
     ],
-    "sn": [
-        "quantreg"
-    ],
+    "sn": [],
     "DMwR2": [
         "quantmod",
         "dplyr",
@@ -30594,7 +30436,6 @@
     "VIM": [
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "broom",
@@ -30771,7 +30612,6 @@
     "NHPoisson": [
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "broom",
@@ -30813,7 +30653,6 @@
         "rstatix",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat",
@@ -31487,7 +31326,6 @@
         "haven",
         "readxl",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "forcats",
         "readr",
@@ -32003,7 +31841,6 @@
         "rstatix",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat",
