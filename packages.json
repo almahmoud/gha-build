@@ -2667,7 +2667,6 @@
         "nloptr",
         "testthat"
     ],
-    "epigenomix": [],
     "epigraHMM": [
         "rtracklayer",
         "ggpubr",
