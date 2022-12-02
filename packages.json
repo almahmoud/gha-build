@@ -1880,7 +1880,6 @@
     ],
     "hermes": [],
     "hiAnnotator": [],
-    "HiCBricks": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
