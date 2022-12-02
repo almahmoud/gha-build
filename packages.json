@@ -139350,7 +139350,6 @@
         "bit64",
         "RcppCCTZ",
         "zoo",
-        "RcppDate",
         "bit"
     ],
     "tilingArray": [
@@ -173965,7 +173964,6 @@
         "bit64",
         "RcppCCTZ",
         "zoo",
-        "RcppDate",
         "bit",
         "lattice"
     ],
@@ -173974,14 +173972,12 @@
         "RcppCCTZ",
         "zoo",
         "Rcpp",
-        "RcppDate",
         "bit",
         "lattice"
     ],
     "RcppCCTZ": [
         "Rcpp"
     ],
-    "RcppDate": [],
     "FreqProf": [
         "reshape2",
         "ggplot2",
