@@ -10083,7 +10083,6 @@
     ],
     "ScreenR": [
         "patchwork",
-        "ggvenn",
         "tidyr"
     ],
     "scRepertoire": [
@@ -13332,7 +13331,6 @@
         "BiocFileCache"
     ],
     "Rmagic": [],
-    "ggvenn": [],
     "nnTensor": [
         "fields"
     ],
