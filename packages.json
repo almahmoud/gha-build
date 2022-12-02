@@ -18251,8 +18251,7 @@
         "Biobase",
         "e1071",
         "tkWidgets",
-        "class",
-        "DynDoc"
+        "class"
     ],
     "cydar": [
         "SingleCellExperiment",
@@ -23106,7 +23105,6 @@
         "marray",
         "Biobase"
     ],
-    "DynDoc": [],
     "easier": [
         "progeny",
         "easierData",
@@ -45598,8 +45596,7 @@
         "Biobase",
         "e1071",
         "tkWidgets",
-        "class",
-        "DynDoc"
+        "class"
     ],
     "MGFM": [
         "AnnotationDbi",
@@ -54329,8 +54326,7 @@
         "OLIN",
         "marray",
         "tkWidgets",
-        "locfit",
-        "DynDoc"
+        "locfit"
     ],
     "omada": [
         "pdfCluster",
@@ -81504,7 +81500,6 @@
         "promises",
         "bslib",
         "cachem",
-        "DynDoc",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -81691,9 +81686,7 @@
         "ellipsis",
         "askpass"
     ],
-    "tkWidgets": [
-        "DynDoc"
-    ],
+    "tkWidgets": [],
     "tLOH": [
         "scales",
         "ggplot2",
