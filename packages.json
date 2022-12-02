@@ -754,8 +754,7 @@
     ],
     "BLMA": [
         "PADOG",
-        "hgu133plus2.db",
-        "hgu133a.db"
+        "hgu133plus2.db"
     ],
     "BloodGen3Module": [
         "ExperimentHub",
@@ -935,7 +934,6 @@
         "Category",
         "biomaRt",
         "genefilter",
-        "hgu133a.db",
         "BiocFileCache"
     ],
     "CancerInSilico": [],
@@ -2408,7 +2406,6 @@
         "biomaRt",
         "ArrayExpress",
         "GEOquery",
-        "hgu133a.db",
         "hgu133a2.db",
         "hgu133plus2.db",
         "oligo",
@@ -2517,8 +2514,7 @@
         "metap",
         "plotly",
         "GSEABase",
-        "hgu133plus2.db",
-        "hgu133a.db"
+        "hgu133plus2.db"
     ],
     "ELMER": [
         "GenomicFeatures",
@@ -4267,9 +4263,7 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "KEGGlincs": [
-        "hgu133a.db"
-    ],
+    "KEGGlincs": [],
     "keggorthology": [],
     "KinSwingR": [],
     "kissDE": [
@@ -6151,8 +6145,7 @@
         "testthat"
     ],
     "PADOG": [
-        "hgu133plus2.db",
-        "hgu133a.db"
+        "hgu133plus2.db"
     ],
     "pageRank": [
         "motifmatchr",
@@ -6313,7 +6306,6 @@
         "biomaRt",
         "GSEABase",
         "genefilter",
-        "hgu133a.db",
         "BiocFileCache"
     ],
     "PhenStat": [
@@ -9602,7 +9594,6 @@
         "BiocFileCache"
     ],
     "hgu133plus2.db": [],
-    "hgu133a.db": [],
     "GenomicState": [
         "AnnotationHub",
         "GenomicFeatures",
