@@ -11293,7 +11293,6 @@
     "TPP2D": [
         "tidyr"
     ],
-    "tracktables": [],
     "trackViewer": [
         "GenomicFeatures",
         "Gviz",
