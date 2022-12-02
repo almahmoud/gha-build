@@ -37,7 +37,6 @@
     "BindingSiteFinder": [],
     "bioCancer": [
         "radiant.data",
-        "ReactomePA",
         "car"
     ],
     "BiocOncoTK": [
@@ -231,8 +230,7 @@
         "car"
     ],
     "epihet": [
-        "EntropyExplorer",
-        "ReactomePA"
+        "EntropyExplorer"
     ],
     "epimutacions": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -479,14 +477,12 @@
     "miRSM": [
         "miRspongeR",
         "SPONGE",
-        "ReactomePA",
         "ggpubr",
         "rstatix",
         "car"
     ],
     "miRspongeR": [
         "SPONGE",
-        "ReactomePA",
         "ggpubr",
         "rstatix",
         "car"
@@ -524,9 +520,7 @@
         "MSstatsPTM"
     ],
     "multicrispr": [],
-    "multiSight": [
-        "ReactomePA"
-    ],
+    "multiSight": [],
     "muscat": [
         "variancePartition"
     ],
@@ -615,9 +609,7 @@
         "rstatix",
         "car"
     ],
-    "Pigengene": [
-        "ReactomePA"
-    ],
+    "Pigengene": [],
     "PING": [],
     "plotGrouper": [
         "ggpubr",
@@ -657,7 +649,6 @@
     ],
     "QuasR": [],
     "R3CPET": [],
-    "ReactomePA": [],
     "recount": [
         "derfinder"
     ],
@@ -734,9 +725,7 @@
         "Rmagic"
     ],
     "scruff": [],
-    "scTensor": [
-        "ReactomePA"
-    ],
+    "scTensor": [],
     "scTGIF": [],
     "scTreeViz": [],
     "segmenter": [],
