@@ -220,7 +220,6 @@
     "GenProSeq": [
         "DeepPINCS"
     ],
-    "GeoDiff": [],
     "GEOexplorer": [
         "factoextra",
         "FactoMineR",
