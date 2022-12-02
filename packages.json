@@ -30035,7 +30035,6 @@
         "recipes",
         "groupdata2",
         "lme4",
-        "MuMIn",
         "parameters",
         "rearrr",
         "pillar",
@@ -30152,7 +30151,6 @@
         "recipes",
         "groupdata2",
         "lme4",
-        "MuMIn",
         "parameters",
         "rearrr",
         "tibble",
@@ -48913,7 +48911,6 @@
         "doParallel",
         "groupdata2",
         "lme4",
-        "MuMIn",
         "parameters",
         "rearrr",
         "tibble",
@@ -61103,7 +61100,6 @@
         "ggplot2",
         "groupdata2",
         "lme4",
-        "MuMIn",
         "parameters",
         "pROC",
         "rearrr",
@@ -61154,7 +61150,6 @@
         "vctrs",
         "pillar"
     ],
-    "MuMIn": [],
     "parameters": [
         "bayestestR"
     ],
