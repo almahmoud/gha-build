@@ -103,7 +103,6 @@
         "tidyr",
         "dplyr"
     ],
-    "AffyCompatible": [],
     "affycoretools": [
         "GOstats",
         "gcrma",
