@@ -22716,7 +22716,6 @@
     ],
     "plethy": [
         "RSQLite",
-        "Streamer",
         "ggplot2",
         "tibble",
         "blob",
@@ -30276,7 +30275,6 @@
         "dbplyr",
         "hms"
     ],
-    "Streamer": [],
     "STRINGdb": [
         "sqldf",
         "RSQLite",
