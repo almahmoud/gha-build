@@ -1134,7 +1134,6 @@
         "lme4"
     ],
     "HiContacts": [
-        "HiContactsData",
         "GenomicInteractions",
         "Gviz",
         "biovizBase",
@@ -2933,7 +2932,6 @@
     ],
     "logistf": [],
     "shinyHeatmaply": [],
-    "HiContactsData": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
     "datamods": [],
     "glmmTMB": [
