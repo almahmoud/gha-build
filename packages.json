@@ -25569,7 +25569,6 @@
         "biomaRt",
         "ArrayExpress",
         "GEOquery",
-        "DrugVsDiseasedata",
         "qvalue",
         "annotate",
         "hgu133a.db",
@@ -105721,7 +105720,6 @@
         "vctrs"
     ],
     "corrgram": [],
-    "DrugVsDiseasedata": [],
     "hgu133a2.db": [
         "AnnotationDbi",
         "org.Hs.eg.db",
