@@ -22,7 +22,6 @@
     ],
     "ANCOMBC": [
         "mia",
-        "TreeSummarizedExperiment",
         "lmerTest"
     ],
     "APAlyzer": [],
@@ -68,7 +67,6 @@
     "BadRegionFinder": [],
     "BBCAnalyzer": [],
     "benchdamic": [
-        "TreeSummarizedExperiment",
         "ANCOMBC",
         "mia",
         "lmerTest"
@@ -155,9 +153,7 @@
         "cBioPortalData",
         "RTCGAToolbox"
     ],
-    "CBEA": [
-        "TreeSummarizedExperiment"
-    ],
+    "CBEA": [],
     "cBioPortalData": [
         "RTCGAToolbox"
     ],
@@ -516,9 +512,7 @@
         "pbkrtest"
     ],
     "ExperimentHubData": [],
-    "ExperimentSubset": [
-        "TreeSummarizedExperiment"
-    ],
+    "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
@@ -945,14 +939,9 @@
         "FDb.InfiniumMethylation.hg19",
         "minfi"
     ],
-    "mia": [
-        "TreeSummarizedExperiment"
-    ],
-    "miaSim": [
-        "TreeSummarizedExperiment"
-    ],
+    "mia": [],
+    "miaSim": [],
     "miaViz": [
-        "TreeSummarizedExperiment",
         "mia"
     ],
     "microbiomeExplorer": [
@@ -962,7 +951,6 @@
     "microbiomeMarker": [
         "ANCOMBC",
         "mia",
-        "TreeSummarizedExperiment",
         "lmerTest"
     ],
     "MicrobiomeProfiler": [
@@ -1682,7 +1670,6 @@
         "car",
         "pbkrtest"
     ],
-    "TreeSummarizedExperiment": [],
     "trena": [],
     "ttgsea": [
         "textstem"
