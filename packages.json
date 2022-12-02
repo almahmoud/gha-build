@@ -119,7 +119,6 @@
     "GenomicSuperSignature": [
         "ggpubr"
     ],
-    "GenProSeq": [],
     "GEOexplorer": [
         "factoextra",
         "ggpubr"
