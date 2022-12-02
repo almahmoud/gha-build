@@ -12706,7 +12706,6 @@
         "interp",
         "DelayedArray"
     ],
-    "fastreeR": [],
     "fastseg": [
         "GenomicRanges",
         "GenomeInfoDb",
