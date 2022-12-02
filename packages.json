@@ -9294,7 +9294,6 @@
     ],
     "BOBaFIT": [
         "dplyr",
-        "NbClust",
         "ggplot2",
         "ggbio",
         "tidyr",
@@ -64107,7 +64106,6 @@
         "MultiAssayExperiment",
         "pdftools",
         "clValid",
-        "NbClust",
         "cowplot",
         "rmarkdown",
         "kableExtra",
@@ -74319,7 +74317,6 @@
     "RCSL": [
         "RcppAnnoy",
         "igraph",
-        "NbClust",
         "Rtsne",
         "ggplot2",
         "umap",
@@ -107367,7 +107364,6 @@
         "lmtest",
         "zoo"
     ],
-    "NbClust": [],
     "gamlss": [
         "gamlss.dist",
         "nlme",
