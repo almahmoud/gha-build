@@ -1067,7 +1067,6 @@
     "consensusOV": [
         "GSVA",
         "genefu",
-        "survcomp",
         "biomaRt"
     ],
     "consensusSeekeR": [],
@@ -2154,7 +2153,6 @@
         "biomaRt"
     ],
     "genefu": [
-        "survcomp",
         "biomaRt"
     ],
     "GeneGeneInteR": [
@@ -3117,7 +3115,6 @@
         "EDASeq",
         "GenomicFeatures",
         "heatmaply",
-        "survcomp",
         "bsseq",
         "BSgenome"
     ],
@@ -4054,7 +4051,6 @@
         "caret",
         "survminer",
         "piano",
-        "survcomp",
         "genefu",
         "verification",
         "biomaRt",
@@ -5186,7 +5182,6 @@
         "genefu",
         "GenomicFeatures",
         "ggpubr",
-        "survcomp",
         "biomaRt",
         "rstatix",
         "car",
@@ -5512,7 +5507,6 @@
     "surfaltr": [
         "biomaRt"
     ],
-    "survcomp": [],
     "survtype": [
         "survminer",
         "ggpubr",
