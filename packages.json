@@ -3746,7 +3746,6 @@
         "keras",
         "rtracklayer",
         "tensorflow",
-        "tfruns",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
@@ -3773,7 +3772,6 @@
         "InteractionSet",
         "regioneR",
         "tensorflow",
-        "tfruns",
         "haven",
         "readxl",
         "dbplyr",
@@ -4419,7 +4417,6 @@
         "tensorflow",
         "webchem",
         "ttgsea",
-        "tfruns",
         "textstem",
         "DiagrammeR",
         "rvest",
@@ -7097,7 +7094,6 @@
         "DeepPINCS",
         "ttgsea",
         "webchem",
-        "tfruns",
         "textstem",
         "DiagrammeR",
         "dplyr",
@@ -7788,7 +7784,6 @@
         "forcats",
         "readr",
         "tensorflow",
-        "tfruns",
         "cellranger",
         "dbplyr",
         "vroom"
@@ -11685,7 +11680,6 @@
         "SummarizedExperiment",
         "ensembldb",
         "tensorflow",
-        "tfruns",
         "dbplyr",
         "viridis"
     ],
@@ -12294,7 +12288,6 @@
         "keras",
         "SingleCellExperiment",
         "tensorflow",
-        "tfruns",
         "SummarizedExperiment"
     ],
     "NewWave": [
@@ -13045,7 +13038,6 @@
         "ggforce",
         "ggrepel",
         "viridis",
-        "tfruns",
         "testthat",
         "cowplot",
         "GO.db",
@@ -15880,7 +15872,6 @@
         "scattermore",
         "sctransform",
         "SummarizedExperiment",
-        "tfruns",
         "tidyr",
         "dplyr"
     ],
@@ -19104,7 +19095,6 @@
         "tidyr",
         "viridis",
         "tensorflow",
-        "tfruns",
         "lexicon",
         "textclean",
         "syuzhet",
@@ -19273,7 +19263,6 @@
         "readr",
         "tidyr",
         "viridis",
-        "tfruns",
         "scuttle",
         "ggplot2",
         "ggbeeswarm",
@@ -20995,13 +20984,9 @@
         "dbplyr"
     ],
     "keras": [
-        "tensorflow",
-        "tfruns"
+        "tensorflow"
     ],
-    "tensorflow": [
-        "tfruns"
-    ],
-    "tfruns": [],
+    "tensorflow": [],
     "shinypanel": [
         "shinyjs",
         "shinyBS"
@@ -21788,8 +21773,7 @@
     ],
     "tfprobability": [
         "tensorflow",
-        "keras",
-        "tfruns"
+        "keras"
     ],
     "verification": [
         "fields",
