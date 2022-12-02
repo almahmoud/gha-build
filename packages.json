@@ -2069,7 +2069,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "periodicDNA": [],
     "PFP": [
         "clusterProfiler",
         "enrichplot",
