@@ -3794,7 +3794,6 @@
     "PPInfer": [
         "biomaRt"
     ],
-    "pram": [],
     "prebs": [],
     "preciseTAD": [
         "caret",
