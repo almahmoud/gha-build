@@ -32562,7 +32562,6 @@
         "bslib",
         "jquerylib",
         "tinytex",
-        "wk",
         "sass",
         "cachem",
         "memoise"
@@ -35869,7 +35868,6 @@
         "later",
         "sp",
         "terra",
-        "wk",
         "munsell",
         "httpuv",
         "fontawesome",
@@ -39109,7 +39107,6 @@
         "R.oo",
         "bit64",
         "memoise",
-        "wk",
         "cachem",
         "askpass",
         "callr",
@@ -68738,8 +68735,7 @@
         "caTools",
         "askpass",
         "plyr",
-        "stringr",
-        "wk"
+        "stringr"
     ],
     "scHOT": [
         "S4Vectors",
@@ -69998,8 +69994,7 @@
         "e1071",
         "class",
         "sitmo",
-        "caTools",
-        "wk"
+        "caTools"
     ],
     "scTGIF": [
         "GSEABase",
@@ -70123,8 +70118,7 @@
         "class",
         "sitmo",
         "caTools",
-        "plyr",
-        "wk"
+        "plyr"
     ],
     "scTHI": [
         "BiocParallel",
@@ -74218,7 +74212,6 @@
         "lambda.r",
         "RCurl",
         "XVector",
-        "wk",
         "blob",
         "lifecycle",
         "pillar",
@@ -74738,7 +74731,6 @@
         "R.oo",
         "bit64",
         "memoise",
-        "wk",
         "callr",
         "desc",
         "pkgload",
@@ -76285,7 +76277,6 @@
         "htmltools",
         "jquerylib",
         "tinytex",
-        "wk",
         "bit64",
         "sass",
         "cachem",
@@ -76430,7 +76421,6 @@
         "RcppTOML",
         "here",
         "gplots",
-        "wk",
         "munsell",
         "reshape2",
         "gridExtra",
@@ -77440,7 +77430,6 @@
         "bslib",
         "jquerylib",
         "tinytex",
-        "wk",
         "gridExtra",
         "bit64",
         "sass",
@@ -83012,7 +83001,6 @@
         "RCurl",
         "XVector",
         "nlme",
-        "wk",
         "pillar",
         "blob",
         "purrr",
@@ -92799,7 +92787,6 @@
         "bslib",
         "jquerylib",
         "tinytex",
-        "wk",
         "sass",
         "cachem",
         "memoise"
@@ -92810,18 +92797,14 @@
         "s2",
         "units",
         "e1071",
-        "class",
-        "wk"
+        "class"
     ],
     "classInt": [
         "e1071",
         "class"
     ],
-    "s2": [
-        "wk"
-    ],
+    "s2": [],
     "units": [],
-    "wk": [],
     "RMallow": [],
     "penalized": [
         "survival",
@@ -93058,8 +93041,7 @@
         "s2",
         "units",
         "e1071",
-        "class",
-        "wk"
+        "class"
     ],
     "Rlabkey": [
         "httr",
@@ -96999,7 +96981,6 @@
         "s2",
         "e1071",
         "class",
-        "wk",
         "classInt"
     ],
     "spData": [
@@ -97288,8 +97269,7 @@
         "xts",
         "lwgeom",
         "e1071",
-        "class",
-        "wk"
+        "class"
     ],
     "SpatialExtremes": [
         "fields",
@@ -97313,8 +97293,7 @@
         "s2",
         "units",
         "e1071",
-        "class",
-        "wk"
+        "class"
     ],
     "spacetime": [
         "sp",
@@ -97328,8 +97307,7 @@
         "units",
         "e1071",
         "class",
-        "s2",
-        "wk"
+        "s2"
     ],
     "lwgeom": [
         "units",
@@ -97337,8 +97315,7 @@
         "classInt",
         "s2",
         "e1071",
-        "class",
-        "wk"
+        "class"
     ],
     "spsUtil": [
         "httr",
