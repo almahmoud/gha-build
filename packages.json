@@ -6944,7 +6944,6 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "mpra": [],
     "MQmetrics": [
         "readr",
         "ggpubr",
