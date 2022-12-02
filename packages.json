@@ -277,7 +277,6 @@
         "Seurat",
         "topGO",
         "tidyr",
-        "ggridges",
         "patchwork",
         "scattermore",
         "sctransform",
@@ -559,7 +558,6 @@
         "rstan"
     ],
     "barcodetrackR": [
-        "ggridges",
         "tidyr"
     ],
     "basecallQC": [
@@ -636,7 +634,6 @@
         "ANCOMBC",
         "dearseq",
         "corncob",
-        "ggridges",
         "mia",
         "DescTools",
         "Hmisc",
@@ -1229,7 +1226,6 @@
     "CATALYST": [
         "drc",
         "FlowSOM",
-        "ggridges",
         "scater",
         "car",
         "ggpubr",
@@ -1340,7 +1336,6 @@
         "fgsea",
         "scuttle",
         "ggrastr",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -1366,7 +1361,6 @@
     "CellMixS": [
         "scater",
         "tidyr",
-        "ggridges",
         "scuttle",
         "ggrastr"
     ],
@@ -1760,7 +1754,6 @@
     "CiteFuse": [
         "propr",
         "scran",
-        "ggridges",
         "ggraph",
         "tidygraph",
         "scuttle",
@@ -2891,7 +2884,6 @@
         "Seurat",
         "scran",
         "scuttle",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -2914,9 +2906,7 @@
         "scuttle",
         "ggrastr"
     ],
-    "dittoSeq": [
-        "ggridges"
-    ],
+    "dittoSeq": [],
     "DMCFB": [
         "arm",
         "rtracklayer",
@@ -3600,7 +3590,6 @@
     "escape": [
         "GSEABase",
         "GSVA",
-        "ggridges",
         "msigdbr",
         "UCell",
         "broom",
@@ -5165,7 +5154,6 @@
     "infercnv": [
         "Seurat",
         "tidyr",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -5320,7 +5308,6 @@
         "tidygraph",
         "scuttle",
         "ggrastr",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -6033,8 +6020,7 @@
         "annotate"
     ],
     "MesKit": [
-        "tidyr",
-        "ggridges"
+        "tidyr"
     ],
     "messina": [],
     "Metab": [
@@ -6668,7 +6654,6 @@
         "tidyverse",
         "caret",
         "biomaRt",
-        "ggridges",
         "cvms",
         "ggpubr",
         "BiocFileCache",
@@ -6719,7 +6704,6 @@
         "tidyverse",
         "caret",
         "biomaRt",
-        "ggridges",
         "cvms",
         "ggpubr",
         "BiocFileCache",
@@ -7445,7 +7429,6 @@
     "Nebulosa": [
         "patchwork",
         "Seurat",
-        "ggridges",
         "plotly",
         "scattermore",
         "sctransform",
@@ -7618,7 +7601,6 @@
     "nullranges": [
         "InteractionSet",
         "plyranges",
-        "ggridges",
         "rtracklayer"
     ],
     "NxtIRFcore": [
@@ -8308,7 +8290,6 @@
         "scater",
         "scuttle",
         "ggrastr",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -9752,7 +9733,6 @@
     "scAlign": [
         "Seurat",
         "tensorflow",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -9788,7 +9768,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "recipes",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -9816,7 +9795,6 @@
         "zinbwave",
         "DESeq2",
         "geneplotter",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -9834,7 +9812,6 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "ggridges",
         "plotly",
         "scattermore",
         "sctransform",
@@ -9844,7 +9821,6 @@
         "DropletUtils",
         "Seurat",
         "scuttle",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -9868,7 +9844,6 @@
     ],
     "scDataviz": [
         "Seurat",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -9913,7 +9888,6 @@
     "schex": [
         "Seurat",
         "concaveman",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -9926,7 +9900,6 @@
     ],
     "scMAGeCK": [
         "Seurat",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -10074,7 +10047,6 @@
         "shadowtext",
         "ggtree",
         "tidygraph",
-        "ggridges",
         "patchwork",
         "scattermore",
         "sctransform",
@@ -10094,7 +10066,6 @@
         "tidyr",
         "Seurat",
         "concaveman",
-        "ggridges",
         "patchwork",
         "scattermore",
         "sctransform"
@@ -10114,7 +10085,6 @@
         "ensembldb",
         "scuttle",
         "ggrastr",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -10350,7 +10320,6 @@
         "GSVA",
         "consensusOV",
         "ensembldb",
-        "ggridges",
         "openair",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -10475,7 +10444,6 @@
         "ggrastr",
         "M3Drop",
         "ruv",
-        "ggridges",
         "patchwork",
         "scattermore",
         "sctransform",
@@ -10622,7 +10590,6 @@
         "DropletUtils",
         "scuttle",
         "ggrastr",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -10733,7 +10700,6 @@
         "dittoSeq",
         "alphahull",
         "xROI",
-        "ggridges",
         "tidyr",
         "DropletUtils",
         "BiocFileCache",
@@ -10809,7 +10775,6 @@
         "tidyverse",
         "caret",
         "biomaRt",
-        "ggridges",
         "cvms",
         "ggpubr",
         "tidyr",
@@ -10837,7 +10802,6 @@
     "SpotClean": [
         "SpatialExperiment",
         "Seurat",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -10848,9 +10812,7 @@
         "tidyr"
     ],
     "SPOTlight": [],
-    "spqn": [
-        "ggridges"
-    ],
+    "spqn": [],
     "SPsimSeq": [
         "Hmisc",
         "WGCNA",
@@ -10892,7 +10854,6 @@
         "ggformula",
         "broom",
         "ggstance",
-        "ggridges",
         "mosaicCore",
         "labelled",
         "tidyr",
@@ -10964,7 +10925,6 @@
     "stJoincount": [
         "Seurat",
         "SpatialExperiment",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -12184,14 +12144,12 @@
     "ipred": [],
     "org.Sc.sgd.db": [],
     "Seurat": [
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
         "sctransform",
         "tidyr"
     ],
-    "ggridges": [],
     "patchwork": [],
     "scattermore": [],
     "sctransform": [],
@@ -13288,7 +13246,6 @@
     ],
     "SoupX": [
         "Seurat",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -13323,7 +13280,6 @@
         "ggformula",
         "broom",
         "ggstance",
-        "ggridges",
         "mosaicCore",
         "labelled",
         "tidyr",
@@ -13332,7 +13288,6 @@
     ],
     "ggformula": [
         "ggstance",
-        "ggridges",
         "mosaicCore",
         "labelled",
         "haven",
