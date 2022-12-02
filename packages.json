@@ -809,9 +809,7 @@
         "gmapR",
         "VariantTools"
     ],
-    "icetea": [
-        "TxDb.Dmelanogaster.UCSC.dm6.ensGene"
-    ],
+    "icetea": [],
     "iCheck": [
         "lumi",
         "methylumi",
@@ -2053,7 +2051,6 @@
         "car",
         "pbkrtest"
     ],
-    "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
     "glmmTMB": [],
     "agricolae": [
         "klaR"
