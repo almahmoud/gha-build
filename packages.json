@@ -55015,7 +55015,6 @@
         "digest",
         "BiocFileCache",
         "rappdirs",
-        "startupmsg",
         "sfsmisc",
         "cli",
         "gtable",
@@ -78811,7 +78810,6 @@
         "XVector",
         "GenomeInfoDb",
         "RSQLite",
-        "startupmsg",
         "sfsmisc",
         "generics",
         "lifecycle",
@@ -78921,7 +78919,6 @@
         "sass",
         "memoise",
         "RSQLite",
-        "startupmsg",
         "sfsmisc",
         "generics",
         "tibble",
@@ -101041,7 +101038,6 @@
         "IRanges",
         "matrixStats",
         "sparseMatrixStats",
-        "startupmsg",
         "sfsmisc",
         "magrittr",
         "rlang",
@@ -106429,7 +106425,6 @@
         "XVector",
         "sass",
         "memoise",
-        "startupmsg",
         "sfsmisc",
         "iterators",
         "sitmo",
@@ -137719,10 +137714,8 @@
         "rlang"
     ],
     "distr": [
-        "startupmsg",
         "sfsmisc"
     ],
-    "startupmsg": [],
     "pd.mapping50k.xba240": [
         "Biostrings",
         "RSQLite",
@@ -140682,7 +140675,6 @@
     "paintmap": [],
     "distrEx": [
         "distr",
-        "startupmsg",
         "sfsmisc"
     ],
     "uniqtag": [],
