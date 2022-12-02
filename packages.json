@@ -1238,7 +1238,6 @@
         "intergraph",
         "ggnewscale",
         "GENIE3",
-        "network",
         "sna",
         "genefilter",
         "Hmisc",
@@ -1608,7 +1607,6 @@
         "ensembldb",
         "biomaRt",
         "tidyr",
-        "network",
         "sna",
         "viridis",
         "genefilter",
@@ -1927,7 +1925,6 @@
         "clusterProfiler",
         "fgsea",
         "intergraph",
-        "network",
         "ggdendro",
         "DOSE",
         "enrichplot",
@@ -2004,7 +2001,6 @@
         "ggplot2",
         "ggpubr",
         "ggrepel",
-        "network",
         "RCy3",
         "DOSE",
         "enrichplot",
@@ -2491,7 +2487,6 @@
         "MsFeatures"
     ],
     "CluMSID": [
-        "network",
         "GGally",
         "ggplot2",
         "plotly",
@@ -4394,7 +4389,6 @@
         "geneplotter",
         "HDO.db",
         "fgsea",
-        "network",
         "aplot",
         "ggnewscale",
         "ggraph",
@@ -5220,7 +5214,6 @@
         "ggrepel",
         "intergraph",
         "clusterProfiler",
-        "network",
         "sna",
         "SingleCellExperiment",
         "DOSE",
@@ -6179,7 +6172,6 @@
     ],
     "GGPA": [
         "GGally",
-        "network",
         "sna",
         "ggplot2",
         "tidyr"
@@ -10352,7 +10344,6 @@
         "tidyr"
     ],
     "nethet": [
-        "network",
         "ggplot2"
     ],
     "netOmics": [
@@ -11362,7 +11353,6 @@
         "GGally",
         "ggdendro",
         "ggpubr",
-        "network",
         "ggtext",
         "viridis",
         "ggrepel",
@@ -11409,7 +11399,6 @@
         "osfr",
         "readr",
         "recipes",
-        "network",
         "sna",
         "vroom",
         "hardhat",
@@ -15442,7 +15431,6 @@
         "intergraph",
         "testthat",
         "ggrepel",
-        "network",
         "sna",
         "GenomicAlignments",
         "waldo",
@@ -17364,16 +17352,10 @@
     "ggnetwork": [
         "ggplot2",
         "ggrepel",
-        "network",
         "sna"
     ],
-    "intergraph": [
-        "network"
-    ],
-    "network": [],
-    "sna": [
-        "network"
-    ],
+    "intergraph": [],
+    "sna": [],
     "shinyBS": [],
     "superheat": [
         "ggplot2",
