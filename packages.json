@@ -433,8 +433,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "ChIC": [
-        "spp",
-        "ChIC.data"
+        "spp"
     ],
     "chimeraviz": [
         "Gviz",
@@ -3714,7 +3713,6 @@
         "GenomicFeatures"
     ],
     "spp": [],
-    "ChIC.data": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [
         "GenomicFeatures"
     ],
