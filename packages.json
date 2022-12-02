@@ -11916,7 +11916,6 @@
     "DeepPINCS": [
         "keras",
         "tensorflow",
-        "CatEncoders",
         "rcdk",
         "tokenizers",
         "webchem",
@@ -18698,7 +18697,6 @@
         "tensorflow",
         "DeepPINCS",
         "ttgsea",
-        "CatEncoders",
         "rcdk",
         "tokenizers",
         "webchem",
@@ -50473,7 +50471,6 @@
         "SummarizedExperiment",
         "tensorflow",
         "scater",
-        "CatEncoders",
         "DeepPINCS",
         "DiagrammeR",
         "rcdk",
@@ -56097,7 +56094,6 @@
     "diffr": [
         "htmlwidgets"
     ],
-    "CatEncoders": [],
     "rcdk": [],
     "webchem": [
         "httr",
