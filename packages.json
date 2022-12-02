@@ -2338,7 +2338,6 @@
     ],
     "cosmosR": [
         "CARNIVAL",
-        "dorothea",
         "GSEABase",
         "readr",
         "tidyr",
@@ -3269,7 +3268,6 @@
     "easier": [
         "progeny",
         "easierData",
-        "dorothea",
         "quantiseqr",
         "ggpubr",
         "DESeq2",
@@ -13420,7 +13418,6 @@
         "MSnbase",
         "vsn"
     ],
-    "dorothea": [],
     "crisprScoreData": [
         "ExperimentHub",
         "AnnotationHub",
