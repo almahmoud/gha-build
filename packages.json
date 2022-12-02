@@ -1021,9 +1021,7 @@
     "OGRE": [
         "Gviz"
     ],
-    "omada": [
-        "diceR"
-    ],
+    "omada": [],
     "omicRexposome": [
         "rexposome",
         "FactoMineR",
@@ -1623,7 +1621,6 @@
         "car",
         "pbkrtest"
     ],
-    "diceR": [],
     "AICcmodavg": [
         "unmarked"
     ],
