@@ -4641,9 +4641,7 @@
         "Rcwl",
         "DiagrammeR"
     ],
-    "ReactomeGraph4R": [
-        "neo4r"
-    ],
+    "ReactomeGraph4R": [],
     "ReactomePA": [
         "DOSE",
         "enrichplot",
@@ -6782,7 +6780,6 @@
         "BSgenome",
         "AnnotationHub"
     ],
-    "neo4r": [],
     "BSgenome.Celegans.UCSC.ce2": [
         "BSgenome"
     ],
