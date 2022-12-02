@@ -2165,9 +2165,7 @@
         "ggtree",
         "treeio"
     ],
-    "M3Drop": [
-        "reldist"
-    ],
+    "M3Drop": [],
     "m6Aboost": [
         "adabag",
         "ExperimentHub"
@@ -3535,8 +3533,7 @@
         "biomartr"
     ],
     "RiboDiPA": [
-        "GenomicFeatures",
-        "reldist"
+        "GenomicFeatures"
     ],
     "RiboProfiling": [
         "GenomicFeatures",
@@ -3804,8 +3801,7 @@
         "Seurat"
     ],
     "scMerge": [
-        "M3Drop",
-        "reldist"
+        "M3Drop"
     ],
     "scmeth": [
         "bsseq",
@@ -4000,8 +3996,7 @@
         "TSCAN",
         "GenomicFeatures",
         "treeio",
-        "M3Drop",
-        "reldist"
+        "M3Drop"
     ],
     "SingleMoleculeFootprinting": [
         "QuasR",
@@ -4889,7 +4884,6 @@
     "datamods": [
         "rio"
     ],
-    "reldist": [],
     "adabag": [],
     "glmmTMB": [
         "lme4",
