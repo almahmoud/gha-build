@@ -4641,7 +4641,6 @@
         "tidytree",
         "treeio"
     ],
-    "easyreporting": [],
     "easyRNASeq": [
         "BiocFileCache",
         "biomaRt",
