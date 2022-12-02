@@ -284,9 +284,7 @@
         "biovizBase"
     ],
     "CNVrd2": [],
-    "COCOA": [
-        "MIRA"
-    ],
+    "COCOA": [],
     "cogeqc": [
         "ggtree"
     ],
@@ -1161,7 +1159,6 @@
     "MinimumDistance": [
         "VanillaICE"
     ],
-    "MIRA": [],
     "miRLAB": [],
     "miRSM": [
         "miRspongeR",
