@@ -13556,7 +13556,6 @@
         "doParallel",
         "irlba",
         "IRanges",
-        "polylabelr",
         "RcppArmadillo",
         "openssl",
         "Matrix",
@@ -32026,7 +32025,6 @@
         "circlize",
         "IRanges",
         "GenomicRanges",
-        "polylabelr",
         "GenomeInfoDb",
         "XVector",
         "RCurl"
@@ -65915,7 +65913,6 @@
         "rtracklayer",
         "UpSetR",
         "scales",
-        "polylabelr",
         "RcppArmadillo",
         "RCurl",
         "SummarizedExperiment",
@@ -84168,10 +84165,8 @@
     "biwt": [],
     "skmeans": [],
     "eulerr": [
-        "polylabelr",
         "RcppArmadillo"
     ],
-    "polylabelr": [],
     "alabama": [],
     "cobs": [
         "quantreg",
