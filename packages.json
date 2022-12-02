@@ -10363,8 +10363,7 @@
     ],
     "rrvgo": [
         "GOSemSim",
-        "GO.db",
-        "treemap"
+        "GO.db"
     ],
     "RSVSim": [
         "ShortRead",
@@ -14235,7 +14234,6 @@
         "BiocFileCache"
     ],
     "TBX20BamSubset": [],
-    "treemap": [],
     "SBGNview.data": [],
     "scanMiRData": [
         "scanMiR",
