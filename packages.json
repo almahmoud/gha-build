@@ -295,16 +295,12 @@
         "karyoploteR",
         "biovizBase"
     ],
-    "crisprDesign": [
-        "crisprScore"
-    ],
-    "crisprScore": [],
+    "crisprDesign": [],
     "crisprseekplus": [
         "GUIDEseq",
         "ChIPpeakAnno"
     ],
     "crisprVerse": [
-        "crisprScore",
         "crisprDesign",
         "crisprViz",
         "Gviz",
@@ -313,7 +309,6 @@
     "crisprViz": [
         "crisprDesign",
         "Gviz",
-        "crisprScore",
         "biovizBase"
     ],
     "cTRAP": [],
