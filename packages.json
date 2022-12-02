@@ -503,7 +503,6 @@
     "ChIPComp": [
         "BSgenome.Hsapiens.UCSC.hg19"
     ],
-    "chipenrich": [],
     "ChIPexoQual": [
         "biovizBase",
         "GenomicFeatures",
