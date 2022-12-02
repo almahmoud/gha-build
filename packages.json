@@ -18615,7 +18615,6 @@
         "svglite",
         "babelgene",
         "htmlwidgets",
-        "reactR",
         "bslib",
         "httpuv",
         "sass"
@@ -19862,7 +19861,6 @@
         "cellranger",
         "progress",
         "httpuv",
-        "reactR",
         "haven"
     ],
     "iSEE": [
@@ -49162,10 +49160,8 @@
         "httr"
     ],
     "reactable": [
-        "htmlwidgets",
-        "reactR"
+        "htmlwidgets"
     ],
-    "reactR": [],
     "biclust": [
         "flexclust",
         "tidyr",
@@ -49262,7 +49258,6 @@
         "shinyWidgets",
         "tibble",
         "shinybusy",
-        "reactR",
         "cellranger",
         "progress",
         "haven",
