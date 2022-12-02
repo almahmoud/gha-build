@@ -366,7 +366,6 @@
         "DESeq2",
         "Seurat",
         "ANCOMBC",
-        "dearseq",
         "corncob",
         "mia",
         "lme4",
@@ -1551,7 +1550,6 @@
         "broom",
         "testthat"
     ],
-    "dearseq": [],
     "debCAM": [
         "DMwR2"
     ],
