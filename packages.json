@@ -2948,7 +2948,6 @@
         "GenomicRanges",
         "ggplot2",
         "ggtree",
-        "snpStats",
         "VariantAnnotation",
         "vcfR",
         "tibble",
@@ -3522,7 +3521,6 @@
         "geneplotter",
         "tibble",
         "tidyselect",
-        "snpStats",
         "forcats",
         "progress",
         "sna",
@@ -4191,7 +4189,6 @@
         "tibble",
         "tidyselect",
         "GenomicFeatures",
-        "snpStats",
         "VariantAnnotation",
         "vroom",
         "GenomicAlignments",
@@ -6744,7 +6741,6 @@
     ],
     "DExMA": [
         "GEOquery",
-        "snpStats",
         "sva",
         "readr",
         "dplyr",
@@ -9792,7 +9788,6 @@
         "seqinr"
     ],
     "GeneGeneInteR": [
-        "snpStats",
         "Rsamtools",
         "FactoMineR",
         "GenomicRanges",
@@ -11254,7 +11249,6 @@
         "Biostrings",
         "AnnotationDbi",
         "BiocFileCache",
-        "snpStats",
         "VariantAnnotation",
         "AnnotationHub",
         "RSQLite",
@@ -13418,7 +13412,6 @@
     ],
     "MAGAR": [
         "RnBeads",
-        "snpStats",
         "crlmm",
         "bigstatsr",
         "UpSetR",
@@ -13612,9 +13605,7 @@
         "tidyselect",
         "GenomicRanges"
     ],
-    "martini": [
-        "snpStats"
-    ],
+    "martini": [],
     "maser": [
         "ggplot2",
         "GenomicRanges",
@@ -22438,7 +22429,6 @@
     ],
     "RVS": [
         "gRain",
-        "snpStats",
         "broom",
         "dplyr",
         "tibble",
@@ -23149,7 +23139,6 @@
     ],
     "scoreInvHap": [
         "Biostrings",
-        "snpStats",
         "VariantAnnotation",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -24563,7 +24552,6 @@
         "dplyr",
         "tidyselect"
     ],
-    "snpStats": [],
     "soGGi": [
         "SummarizedExperiment",
         "ggplot2",
@@ -27797,7 +27785,6 @@
         "Biostrings",
         "AnnotationDbi",
         "BiocFileCache",
-        "snpStats",
         "VariantAnnotation",
         "AnnotationHub",
         "RSQLite",
@@ -29551,9 +29538,7 @@
         "tidyselect"
     ],
     "GenomicTools": [],
-    "GenomicTools.fileHandler": [
-        "snpStats"
-    ],
+    "GenomicTools.fileHandler": [],
     "quantmod": [],
     "ChAMPdata": [
         "GenomicRanges"
