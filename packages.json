@@ -7293,7 +7293,6 @@
         "vctrs",
         "Rcpp",
         "Matrix",
-        "RhpcBLASctl",
         "RcppArmadillo",
         "htmlwidgets",
         "plyr",
@@ -9462,7 +9461,6 @@
         "htmltools",
         "Matrix",
         "nlme",
-        "RhpcBLASctl",
         "RcppArmadillo",
         "htmlwidgets",
         "graph",
@@ -18192,7 +18190,6 @@
     ],
     "csdR": [
         "WGCNA",
-        "RhpcBLASctl",
         "Rcpp",
         "Hmisc",
         "foreach",
@@ -20640,7 +20637,6 @@
         "vroom",
         "tzdb",
         "MatrixExtra",
-        "RhpcBLASctl",
         "munsell",
         "viridisLite",
         "qdapRegex",
@@ -32325,7 +32321,6 @@
         "vroom",
         "tzdb",
         "MatrixExtra",
-        "RhpcBLASctl",
         "selectr",
         "munsell",
         "viridisLite",
@@ -35658,7 +35653,6 @@
         "Matrix",
         "foreach",
         "Rcpp",
-        "RhpcBLASctl",
         "RcppArmadillo",
         "XML",
         "MatrixGenerics",
@@ -42522,7 +42516,6 @@
         "survival",
         "scales",
         "flock",
-        "RhpcBLASctl",
         "MatrixGenerics",
         "spam",
         "viridis",
@@ -42831,7 +42824,6 @@
         "reshape2",
         "caTools",
         "fields",
-        "RhpcBLASctl",
         "BiocParallel",
         "MSnbase",
         "mzR",
@@ -52968,7 +52960,6 @@
         "GenomeInfoDb",
         "pbkrtest",
         "gplots",
-        "RhpcBLASctl",
         "Rdpack",
         "RcppHNSW",
         "ScaledMatrix",
@@ -72687,7 +72678,6 @@
         "Matrix",
         "psych",
         "glmnet",
-        "RhpcBLASctl",
         "survival",
         "futile.logger",
         "foreach",
@@ -86257,7 +86247,6 @@
         "RcppTOML",
         "here",
         "MatrixExtra",
-        "RhpcBLASctl",
         "munsell",
         "viridisLite",
         "config",
@@ -87058,7 +87047,6 @@
         "askpass",
         "RcppArmadillo",
         "MatrixExtra",
-        "RhpcBLASctl",
         "qdapRegex",
         "zoo"
     ],
@@ -87167,7 +87155,6 @@
         "foreach",
         "doParallel",
         "gplots",
-        "RhpcBLASctl",
         "progress",
         "reshape2",
         "scales",
@@ -88605,7 +88592,6 @@
         "scales",
         "reshape2",
         "Ckmeans.1d.dp",
-        "RhpcBLASctl",
         "futile.logger",
         "Rcpp",
         "Rdpack",
@@ -89334,7 +89320,6 @@
         "foreach",
         "doParallel",
         "gplots",
-        "RhpcBLASctl",
         "lme4",
         "httr",
         "IRanges",
@@ -93950,7 +93935,6 @@
     "NetRep": [
         "foreach",
         "Rcpp",
-        "RhpcBLASctl",
         "RcppArmadillo"
     ],
     "network": [
@@ -93970,7 +93954,6 @@
         "pillar",
         "vctrs"
     ],
-    "RhpcBLASctl": [],
     "statnet.common": [
         "coda"
     ],
@@ -97233,7 +97216,6 @@
         "mlapi",
         "lgr",
         "MatrixExtra",
-        "RhpcBLASctl",
         "RcppArmadillo"
     ],
     "textstem": [
@@ -97270,7 +97252,6 @@
         "Matrix",
         "MatrixExtra",
         "Rcpp",
-        "RhpcBLASctl",
         "lgr",
         "RcppArmadillo"
     ],
@@ -97342,8 +97323,7 @@
     ],
     "MatrixExtra": [
         "Matrix",
-        "Rcpp",
-        "RhpcBLASctl"
+        "Rcpp"
     ],
     "qdapRegex": [],
     "einsum": [
@@ -99331,7 +99311,6 @@
         "RcppArmadillo",
         "doParallel",
         "flock",
-        "RhpcBLASctl",
         "scales",
         "lifecycle",
         "mgcv",
@@ -99357,7 +99336,6 @@
         "foreach",
         "doParallel",
         "flock",
-        "RhpcBLASctl",
         "Rcpp"
     ],
     "rmio": [
@@ -99413,7 +99391,6 @@
         "reshape2",
         "plyr",
         "fields",
-        "RhpcBLASctl",
         "spam",
         "viridis",
         "Rcpp",
