@@ -2216,7 +2216,6 @@
     "StructuralVariantAnnotation": [
         "VariantAnnotation"
     ],
-    "Summix": [],
     "survtype": [
         "survminer",
         "ggpubr",
