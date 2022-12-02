@@ -39496,7 +39496,6 @@
         "KEGGREST",
         "doParallel",
         "genefu",
-        "DGEobj",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -52623,7 +52622,6 @@
         "pillar"
     ],
     "DGEobj.utils": [
-        "DGEobj",
         "dplyr",
         "tibble",
         "tidyselect",
@@ -52645,7 +52643,6 @@
         "vroom",
         "progress"
     ],
-    "DGEobj": [],
     "celldex": [
         "SummarizedExperiment",
         "ExperimentHub",
