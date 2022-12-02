@@ -288,7 +288,6 @@
         "rstatix",
         "car"
     ],
-    "ENmix": [],
     "enrichTF": [
         "JASPAR2018",
         "ggpubr",
