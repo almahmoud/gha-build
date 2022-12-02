@@ -3226,7 +3226,6 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "KEGGlincs": [],
     "keggorthology": [],
     "kissDE": [
         "DESeq2",
