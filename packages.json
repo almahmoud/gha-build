@@ -649,7 +649,6 @@
     ],
     "AnVIL": [
         "dplyr",
-        "rapiclient",
         "tibble",
         "tidyselect",
         "tidyr",
@@ -674,7 +673,6 @@
         "rmarkdown",
         "readr",
         "dplyr",
-        "rapiclient",
         "tibble",
         "tidyselect",
         "tidyr",
@@ -3114,7 +3112,6 @@
         "AnnotationDbi",
         "annotate",
         "KEGGREST",
-        "rapiclient",
         "tidyselect",
         "shiny",
         "miniUI",
@@ -3159,7 +3156,6 @@
         "tibble",
         "tidyr",
         "TCGAutils",
-        "rapiclient",
         "tidyselect",
         "shiny",
         "miniUI",
@@ -13234,7 +13230,6 @@
         "TCGAutils",
         "ggplot2",
         "TFBSTools",
-        "rapiclient",
         "tidyselect",
         "shiny",
         "miniUI",
@@ -26457,7 +26452,6 @@
         "readr",
         "tidyr",
         "TCGAutils",
-        "rapiclient",
         "tibble",
         "tidyselect",
         "shiny",
@@ -28695,7 +28689,6 @@
         "lava"
     ],
     "lava": [],
-    "rapiclient": [],
     "miniUI": [
         "shiny"
     ],
