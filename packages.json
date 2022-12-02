@@ -33264,7 +33264,6 @@
         "rematch2",
         "tidyselect"
     ],
-    "sscore": [],
     "sscu": [
         "Biostrings",
         "seqinr",
