@@ -334,7 +334,6 @@
     "MMUPHin": [
         "Maaslin2"
     ],
-    "motifbreakR": [],
     "MQmetrics": [
         "ggpubr",
         "rstatix"
