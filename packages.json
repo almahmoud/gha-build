@@ -5,7 +5,6 @@
         "a4Core",
         "annaffy",
         "genefilter",
-        "multtest",
         "pamr",
         "GO.db",
         "AnnotationDbi",
@@ -19,7 +18,6 @@
         "a4Core",
         "annaffy",
         "genefilter",
-        "multtest",
         "GO.db",
         "AnnotationDbi",
         "annotate",
@@ -33,9 +31,7 @@
         "pamr"
     ],
     "a4Core": [],
-    "ABarray": [
-        "multtest"
-    ],
+    "ABarray": [],
     "abseqR": [
         "ggplot2",
         "flexdashboard",
@@ -62,14 +58,11 @@
         "Biostrings",
         "pillar"
     ],
-    "aCGH": [
-        "multtest"
-    ],
+    "aCGH": [],
     "ADaCGH2": [
         "tilingArray",
         "aCGH",
         "snapCGH",
-        "multtest",
         "vsn",
         "genefilter",
         "AnnotationDbi",
@@ -164,7 +157,6 @@
         "AnnotationDbi",
         "GO.db",
         "KEGGREST",
-        "multtest",
         "RSQLite",
         "Biostrings",
         "blob"
@@ -343,7 +335,6 @@
         "zCompositions",
         "GenomicRanges",
         "SummarizedExperiment",
-        "multtest",
         "NADA"
     ],
     "alevinQC": [
@@ -728,13 +719,11 @@
     ],
     "anota": [
         "qvalue",
-        "multtest",
         "ggplot2",
         "tibble",
         "pillar"
     ],
     "anota2seq": [
-        "multtest",
         "qvalue",
         "DESeq2",
         "SummarizedExperiment",
@@ -986,7 +975,6 @@
         "readr",
         "tidyr",
         "hms",
-        "multtest",
         "pillar",
         "tidyselect",
         "vroom"
@@ -1256,7 +1244,6 @@
         "ggplot2",
         "InteractionSet",
         "KEGGREST",
-        "multtest",
         "regioneR",
         "BiocFileCache",
         "AnnotationHub",
@@ -1833,7 +1820,6 @@
         "tidytext",
         "zCompositions",
         "GenomicRanges",
-        "multtest",
         "mia",
         "DescTools",
         "Hmisc",
@@ -1933,7 +1919,6 @@
         "Biostrings"
     ],
     "BicARE": [
-        "multtest",
         "GSEABase",
         "annotate",
         "AnnotationDbi",
@@ -1977,7 +1962,6 @@
         "biomaRt",
         "hms",
         "vroom",
-        "multtest",
         "progress",
         "BiocFileCache",
         "blob",
@@ -4206,7 +4190,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "FDb.InfiniumMethylation.hg19",
-        "multtest",
         "interactiveDisplayBase",
         "dbplyr",
         "progress",
@@ -4409,7 +4392,6 @@
         "ggplot2",
         "InteractionSet",
         "KEGGREST",
-        "multtest",
         "regioneR",
         "rtracklayer",
         "RSQLite",
@@ -5343,7 +5325,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "multtest",
         "sqldf",
         "GenomicRanges",
         "ggplot2",
@@ -5468,7 +5449,6 @@
         "quantreg",
         "tibble",
         "Biostrings",
-        "multtest",
         "GenomicRanges",
         "pillar"
     ],
@@ -5912,7 +5892,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "multtest",
         "RSQLite",
         "KEGGREST",
         "tibble",
@@ -6149,8 +6128,7 @@
     ],
     "CRImage": [
         "EBImage",
-        "aCGH",
-        "multtest"
+        "aCGH"
     ],
     "crisprBase": [
         "Biostrings",
@@ -6281,7 +6259,6 @@
         "keras",
         "biomaRt",
         "ChIPpeakAnno",
-        "multtest",
         "GenomicAlignments",
         "rio",
         "tidyr",
@@ -7061,7 +7038,6 @@
         "rematch2",
         "vegan",
         "ggdendro",
-        "multtest",
         "multcomp",
         "vroom",
         "progress",
@@ -7623,7 +7599,6 @@
         "ggplot2",
         "InteractionSet",
         "KEGGREST",
-        "multtest",
         "regioneR",
         "RSQLite",
         "progress",
@@ -7800,7 +7775,6 @@
         "WGCNA",
         "SummarizedExperiment",
         "DiffCorr",
-        "multtest",
         "GenomicRanges",
         "Hmisc",
         "GO.db",
@@ -8089,7 +8063,6 @@
         "tidyr",
         "ggplot2",
         "FDb.InfiniumMethylation.hg19",
-        "multtest",
         "blob",
         "pillar",
         "tibble",
@@ -8696,7 +8669,6 @@
         "tidyselect",
         "pillar",
         "Biostrings",
-        "multtest",
         "multcomp",
         "blob",
         "GenomicRanges",
@@ -8840,7 +8812,6 @@
         "shiny",
         "DT",
         "blob",
-        "multtest",
         "rtracklayer",
         "biomaRt",
         "hms",
@@ -9307,7 +9278,6 @@
         "DT",
         "hms",
         "blob",
-        "multtest",
         "viridis",
         "vroom"
     ],
@@ -10206,7 +10176,6 @@
         "tidyr",
         "Rsamtools",
         "GenomicAlignments",
-        "multtest",
         "pillar",
         "dbplyr",
         "tidyselect",
@@ -10704,7 +10673,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "multtest",
         "RSQLite",
         "KEGGREST",
         "tibble",
@@ -12495,8 +12463,7 @@
     ],
     "GraphPAC": [
         "iPAC",
-        "Biostrings",
-        "multtest"
+        "Biostrings"
     ],
     "GRENITS": [
         "ggplot2",
@@ -12693,7 +12660,6 @@
         "CRISPRseek",
         "ChIPpeakAnno",
         "BSgenome",
-        "multtest",
         "GenomicAlignments",
         "Rsamtools",
         "dplyr",
@@ -13466,7 +13432,6 @@
         "readr",
         "tidyr",
         "hms",
-        "multtest",
         "pillar",
         "tidyselect",
         "vroom"
@@ -14080,8 +14045,7 @@
         "SummarizedExperiment"
     ],
     "iPAC": [
-        "Biostrings",
-        "multtest"
+        "Biostrings"
     ],
     "iPath": [
         "ggpubr",
@@ -14598,8 +14562,7 @@
         "hms"
     ],
     "KCsmart": [
-        "siggenes",
-        "multtest"
+        "siggenes"
     ],
     "kebabs": [
         "Biostrings"
@@ -15070,7 +15033,6 @@
         "readr",
         "tidyr",
         "hms",
-        "multtest",
         "pillar",
         "tidyselect",
         "vroom"
@@ -15316,7 +15278,6 @@
         "tidyr",
         "Rsamtools",
         "GenomicAlignments",
-        "multtest",
         "dbplyr",
         "tidyselect",
         "hms",
@@ -15453,7 +15414,6 @@
         "progress"
     ],
     "mAPKL": [
-        "multtest",
         "AnnotationDbi",
         "reactome.db",
         "RSQLite",
@@ -15614,7 +15574,6 @@
         "pillar",
         "nloptr",
         "Biostrings",
-        "multtest",
         "genefilter",
         "AnnotationDbi",
         "annotate",
@@ -15814,7 +15773,6 @@
         "dplyr",
         "tidyr",
         "FDb.InfiniumMethylation.hg19",
-        "multtest",
         "pillar",
         "dbplyr",
         "tidyselect",
@@ -15849,7 +15807,6 @@
         "RSQLite",
         "ggplot2",
         "FDb.InfiniumMethylation.hg19",
-        "multtest",
         "KEGGREST",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
@@ -16121,7 +16078,6 @@
         "hms"
     ],
     "metabomxtr": [
-        "multtest",
         "ggplot2",
         "tibble",
         "pillar"
@@ -16388,7 +16344,6 @@
         "ensembldb",
         "Biostrings",
         "ggplot2",
-        "multtest",
         "AnnotationDbi",
         "AnnotationFilter",
         "RSQLite",
@@ -16420,7 +16375,6 @@
         "pillar",
         "TFisher",
         "mutoss",
-        "multtest",
         "multcomp",
         "sn",
         "TH.data",
@@ -16549,7 +16503,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "multtest",
         "pillar",
         "RSQLite",
         "KEGGREST",
@@ -16595,7 +16548,6 @@
         "biomaRt",
         "readr",
         "tidyr",
-        "multtest",
         "progress",
         "BiocFileCache",
         "hms",
@@ -16672,7 +16624,6 @@
         "vroom",
         "progress",
         "car",
-        "multtest",
         "waldo",
         "gert",
         "KEGGREST",
@@ -16749,7 +16700,6 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "multtest",
         "progress",
         "BiocFileCache",
         "tweenr",
@@ -16889,7 +16839,6 @@
         "blob",
         "Rsamtools",
         "GenomicAlignments",
-        "multtest",
         "pillar",
         "dbplyr",
         "tidyselect",
@@ -17063,8 +17012,7 @@
         "tidyr",
         "vegan",
         "tidyselect",
-        "pillar",
-        "multtest"
+        "pillar"
     ],
     "microbiomeDASim": [
         "ggplot2",
@@ -17073,7 +17021,6 @@
         "metagenomeSeq",
         "tibble",
         "Biostrings",
-        "multtest",
         "vegan",
         "pillar"
     ],
@@ -17140,7 +17087,6 @@
         "ANCOMBC",
         "caret",
         "ALDEx2",
-        "multtest",
         "plotROC",
         "vegan",
         "zCompositions",
@@ -17413,7 +17359,6 @@
         "GenomicAlignments",
         "readr",
         "tidyr",
-        "multtest",
         "vroom"
     ],
     "minfi": [
@@ -17430,7 +17375,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "multtest",
         "RSQLite",
         "KEGGREST",
         "tibble",
@@ -17579,7 +17523,6 @@
         "MatrixCorrelation",
         "viridis",
         "dendextend",
-        "multtest",
         "tidyr",
         "ggplot2",
         "annotate",
@@ -17804,7 +17747,6 @@
         "tidyr",
         "tibble",
         "blob",
-        "multtest",
         "progress",
         "BiocFileCache",
         "tidyselect",
@@ -18882,7 +18824,6 @@
         "TFisher",
         "mutoss",
         "Biostrings",
-        "multtest",
         "multcomp",
         "blob",
         "sn",
@@ -18986,7 +18927,6 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "multtest",
         "multcomp",
         "clock",
         "hardhat",
@@ -19007,7 +18947,6 @@
         "lava",
         "rematch2"
     ],
-    "multtest": [],
     "mumosa": [
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -19299,7 +19238,6 @@
         "ensembldb",
         "biomaRt",
         "ggplot2",
-        "multtest",
         "regioneR",
         "BiocFileCache",
         "AnnotationHub",
@@ -19644,7 +19582,6 @@
         "tidyselect"
     ],
     "nethet": [
-        "multtest",
         "ICSNP",
         "network",
         "ggplot2",
@@ -19799,7 +19736,6 @@
         "siggenes",
         "GEOquery",
         "GenomicFeatures",
-        "multtest",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments"
@@ -20027,9 +19963,7 @@
         "shiny",
         "DT"
     ],
-    "OCplus": [
-        "multtest"
-    ],
+    "OCplus": [],
     "octad": [
         "dplyr",
         "ggplot2",
@@ -20240,7 +20174,6 @@
         "zCompositions",
         "GenomicRanges",
         "SummarizedExperiment",
-        "multtest",
         "NADA"
     ],
     "omicRexposome": [
@@ -20966,7 +20899,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "multtest",
         "multcomp",
         "sn",
         "ggfun",
@@ -21080,7 +21012,6 @@
         "tidyselect",
         "pillar",
         "Biostrings",
-        "multtest",
         "annotate",
         "AnnotationDbi",
         "downlit",
@@ -21324,7 +21255,6 @@
         "phyloseq",
         "tibble",
         "Biostrings",
-        "multtest",
         "vegan",
         "quantreg",
         "pillar"
@@ -21613,7 +21543,6 @@
     "phyloseq": [
         "Biostrings",
         "ggplot2",
-        "multtest",
         "vegan",
         "tibble",
         "pillar"
@@ -22066,7 +21995,6 @@
         "phyloseq",
         "bookdown",
         "ggplot2",
-        "multtest",
         "vegan",
         "tibble",
         "pillar"
@@ -22085,7 +22013,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "aCGH",
-        "multtest",
         "RSQLite",
         "KEGGREST",
         "Biostrings",
@@ -22111,7 +22038,6 @@
         "hms"
     ],
     "PREDA": [
-        "multtest",
         "annotate",
         "AnnotationDbi",
         "RSQLite",
@@ -23082,7 +23008,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "multtest",
         "pillar",
         "RSQLite",
         "KEGGREST",
@@ -23105,8 +23030,7 @@
         "iPAC",
         "GraphPAC",
         "SpacePAC",
-        "Biostrings",
-        "multtest"
+        "Biostrings"
     ],
     "QuasR": [
         "GenomicRanges",
@@ -23260,9 +23184,7 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "rain": [
-        "multtest"
-    ],
+    "rain": [],
     "ramr": [
         "GenomicRanges",
         "ggplot2",
@@ -23429,7 +23351,6 @@
         "GenomicRanges",
         "AnnotationDbi",
         "aCGH",
-        "multtest",
         "RSQLite",
         "KEGGREST",
         "Biostrings",
@@ -23473,7 +23394,6 @@
         "phyloseq",
         "tibble",
         "Biostrings",
-        "multtest",
         "vegan",
         "quantmod",
         "TTR",
@@ -23632,7 +23552,6 @@
         "ggplot2",
         "tibble",
         "Biostrings",
-        "multtest",
         "vegan",
         "pillar"
     ],
@@ -23712,7 +23631,6 @@
         "annotate",
         "readr",
         "tidyr",
-        "multtest",
         "KEGGREST",
         "rtracklayer",
         "biomaRt",
@@ -23748,7 +23666,6 @@
     "RedisParam": [],
     "REDseq": [
         "BSgenome.Celegans.UCSC.ce2",
-        "multtest",
         "Biostrings",
         "BSgenome",
         "ChIPpeakAnno",
@@ -23961,7 +23878,6 @@
         "hardhat",
         "ipred",
         "blob",
-        "multtest",
         "progress",
         "biomaRt",
         "prodlim",
@@ -25102,7 +25018,6 @@
         "blob",
         "Rsamtools",
         "GenomicAlignments",
-        "multtest",
         "dbplyr",
         "tidyselect",
         "hms",
@@ -25158,7 +25073,6 @@
         "bookdown",
         "Biostrings",
         "ggplot2",
-        "multtest",
         "vegan",
         "tibble",
         "pillar"
@@ -25240,7 +25154,6 @@
         "nloptr",
         "tidyr",
         "ggrepel",
-        "multtest",
         "multcomp",
         "broom",
         "dplyr",
@@ -25432,9 +25345,7 @@
         "waldo",
         "rematch2"
     ],
-    "RTopper": [
-        "multtest"
-    ],
+    "RTopper": [],
     "Rtpca": [
         "dplyr",
         "tidyr",
@@ -27091,7 +27002,6 @@
         "AnnotationDbi",
         "annotate",
         "readr",
-        "multtest",
         "RSQLite",
         "KEGGREST",
         "biomaRt",
@@ -27119,7 +27029,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "multtest",
         "RSQLite",
         "KEGGREST",
         "tibble",
@@ -27154,7 +27063,6 @@
         "lme4",
         "ggplot2",
         "Biostrings",
-        "multtest",
         "vegan",
         "hms",
         "tibble",
@@ -27199,9 +27107,7 @@
         "tibble",
         "pillar"
     ],
-    "siggenes": [
-        "multtest"
-    ],
+    "siggenes": [],
     "sights": [
         "qvalue",
         "ggplot2",
@@ -27460,7 +27366,6 @@
         "tidyselect",
         "pillar",
         "Biostrings",
-        "multtest",
         "vegan",
         "GenomicRanges"
     ],
@@ -27534,7 +27439,6 @@
     ],
     "SingleCellSignalR": [
         "SIMLR",
-        "multtest",
         "scran",
         "SingleCellExperiment",
         "scuttle",
@@ -27566,7 +27470,6 @@
         "GSVAdata",
         "MAST",
         "msigdbr",
-        "multtest",
         "plotly",
         "scater",
         "scMerge",
@@ -27797,7 +27700,6 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "multtest",
         "progress",
         "BiocFileCache",
         "tidyselect",
@@ -27872,7 +27774,6 @@
     "snapCGH": [
         "aCGH",
         "tilingArray",
-        "multtest",
         "vsn",
         "genefilter",
         "AnnotationDbi",
@@ -27994,8 +27895,7 @@
     "SOMNiBUS": [],
     "SpacePAC": [
         "iPAC",
-        "Biostrings",
-        "multtest"
+        "Biostrings"
     ],
     "Spaniel": [
         "Seurat",
@@ -28636,7 +28536,6 @@
         "latticeExtra",
         "viridis",
         "Biostrings",
-        "multtest",
         "vegan",
         "SummarizedExperiment",
         "GenomicRanges",
@@ -29316,7 +29215,6 @@
     "synapter": [
         "MSnbase",
         "qvalue",
-        "multtest",
         "Biostrings",
         "cleaver",
         "readr",
@@ -30575,7 +30473,6 @@
         "org.Hs.eg.db",
         "GOSemSim",
         "qvalue",
-        "multtest",
         "GenomicRanges",
         "SummarizedExperiment",
         "geneplotter",
@@ -30810,8 +30707,7 @@
     ],
     "trio": [
         "siggenes",
-        "LogicReg",
-        "multtest"
+        "LogicReg"
     ],
     "triplex": [
         "Biostrings",
@@ -31647,7 +31543,6 @@
         "ggplot2",
         "InteractionSet",
         "KEGGREST",
-        "multtest",
         "regioneR",
         "rtracklayer",
         "geneplotter",
@@ -31726,7 +31621,6 @@
         "tidyr",
         "Rsamtools",
         "GenomicAlignments",
-        "multtest",
         "pillar",
         "dbplyr",
         "tidyselect",
@@ -31761,7 +31655,6 @@
         "tidyselect"
     ],
     "webbioc": [
-        "multtest",
         "annaffy",
         "vsn",
         "gcrma",
@@ -31859,7 +31752,6 @@
         "siggenes",
         "AnnotationDbi",
         "annotate",
-        "multtest",
         "RSQLite",
         "KEGGREST",
         "Biostrings",
@@ -31984,7 +31876,6 @@
         "blob",
         "annotate",
         "tidyr",
-        "multtest",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments"
@@ -33122,7 +33013,6 @@
         "tidyselect",
         "pillar",
         "Biostrings",
-        "multtest",
         "vegan"
     ],
     "tidytext": [
@@ -33154,7 +33044,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "multtest",
         "RSQLite",
         "KEGGREST",
         "tibble",
@@ -33722,7 +33611,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "multtest",
         "RSQLite",
         "KEGGREST",
         "tibble",
@@ -33754,7 +33642,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "multtest",
         "RSQLite",
         "KEGGREST",
         "tibble",
@@ -33786,7 +33673,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "multtest",
         "RSQLite",
         "KEGGREST",
         "tibble",
@@ -34241,7 +34127,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "multtest",
         "RSQLite",
         "KEGGREST",
         "tibble",
@@ -34414,7 +34299,6 @@
     "metap": [
         "TFisher",
         "mutoss",
-        "multtest",
         "multcomp",
         "sn",
         "TH.data",
@@ -34425,7 +34309,6 @@
         "quantreg"
     ],
     "mutoss": [
-        "multtest",
         "multcomp",
         "TH.data"
     ],
@@ -34536,9 +34419,7 @@
         "tibble",
         "pillar"
     ],
-    "DiffCorr": [
-        "multtest"
-    ],
+    "DiffCorr": [],
     "fastDummies": [
         "tibble",
         "pillar"
@@ -35253,7 +35134,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "multtest",
         "RSQLite",
         "KEGGREST",
         "tibble",
