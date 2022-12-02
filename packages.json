@@ -19615,7 +19615,6 @@
         "DelayedRandomArray",
         "irlba",
         "Matrix",
-        "einsum",
         "S4Vectors",
         "BiocParallel",
         "ScaledMatrix",
@@ -90732,7 +90731,6 @@
         "Matrix"
     ],
     "qdapRegex": [],
-    "einsum": [],
     "tseries": [
         "zoo",
         "quantmod",
