@@ -16171,7 +16171,6 @@
         "rmarkdown",
         "gdtools",
         "classInt",
-        "s2",
         "bslib"
     ],
     "graper": [
@@ -17788,7 +17787,6 @@
         "DelayedMatrixStats",
         "beachmat",
         "classInt",
-        "s2",
         "DropletUtils",
         "BiocFileCache",
         "GenomeInfoDb",
@@ -19372,7 +19370,6 @@
         "tweenr",
         "nloptr",
         "classInt",
-        "s2",
         "blob",
         "testthat",
         "waldo",
@@ -33985,7 +33982,6 @@
         "XVector",
         "tidyr",
         "classInt",
-        "s2",
         "spatstat.random",
         "spatstat.sparse"
     ],
@@ -34612,7 +34608,6 @@
         "tidytree",
         "treeio",
         "classInt",
-        "s2",
         "spatstat.random",
         "spatstat.sparse"
     ],
@@ -34672,7 +34667,6 @@
         "Biostrings",
         "blob",
         "classInt",
-        "s2",
         "spatstat.random",
         "spatstat.sparse"
     ],
@@ -36744,7 +36738,6 @@
         "spdep",
         "SummarizedExperiment",
         "classInt",
-        "s2",
         "GenomicRanges",
         "DelayedArray",
         "DropletUtils",
@@ -37010,7 +37003,6 @@
         "XVector",
         "testthat",
         "classInt",
-        "s2",
         "blob",
         "waldo",
         "rematch2"
@@ -37785,7 +37777,6 @@
         "progress",
         "rmarkdown",
         "classInt",
-        "s2",
         "bslib"
     ],
     "statTarget": [
@@ -37843,7 +37834,6 @@
         "DropletUtils",
         "BiocFileCache",
         "sf",
-        "s2",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -38348,7 +38338,6 @@
         "progress",
         "rmarkdown",
         "classInt",
-        "s2",
         "lwgeom",
         "nloptr",
         "bslib",
@@ -41163,7 +41152,6 @@
         "mgcv",
         "tibble",
         "classInt",
-        "s2",
         "GenomicRanges",
         "DelayedArray",
         "DropletUtils",
@@ -45481,15 +45469,12 @@
         "rmarkdown",
         "gdtools",
         "classInt",
-        "s2",
         "bslib"
     ],
     "sf": [
-        "classInt",
-        "s2"
+        "classInt"
     ],
     "classInt": [],
-    "s2": [],
     "penalized": [],
     "fGarch": [
         "cvar"
@@ -45586,8 +45571,7 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "classInt",
-        "s2"
+        "classInt"
     ],
     "Rlabkey": [
         "httr"
@@ -47350,7 +47334,6 @@
     "sampSurf": [],
     "spdep": [
         "sf",
-        "s2",
         "classInt"
     ],
     "alphahull": [
@@ -47485,7 +47468,6 @@
         "spacetime",
         "stars",
         "classInt",
-        "s2",
         "lwgeom"
     ],
     "SpatialExtremes": [
@@ -47498,20 +47480,17 @@
     ],
     "sftime": [
         "sf",
-        "classInt",
-        "s2"
+        "classInt"
     ],
     "spacetime": [],
     "stars": [
         "sf",
         "classInt",
-        "lwgeom",
-        "s2"
+        "lwgeom"
     ],
     "lwgeom": [
         "sf",
-        "classInt",
-        "s2"
+        "classInt"
     ],
     "spsUtil": [
         "httr"
