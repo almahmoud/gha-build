@@ -6406,7 +6406,6 @@
         "geepack",
         "ggformula",
         "broom",
-        "mosaicCore",
         "labelled",
         "haven"
     ],
@@ -7831,16 +7830,13 @@
         "geepack",
         "ggformula",
         "broom",
-        "mosaicCore",
         "labelled",
         "haven"
     ],
     "ggformula": [
-        "mosaicCore",
         "labelled",
         "haven"
     ],
-    "mosaicCore": [],
     "rsample": [],
     "SpatialExtremes": [],
     "GenKern": [],
