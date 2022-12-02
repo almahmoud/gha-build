@@ -75473,7 +75473,6 @@
         "bit64",
         "doParallel",
         "DT",
-        "enviPat",
         "foreach",
         "ggplot2",
         "ggpubr",
@@ -81796,7 +81795,6 @@
         "Biobase",
         "MSnbase",
         "httr",
-        "enviPat",
         "RCurl",
         "readJDX",
         "webchem",
@@ -122207,7 +122205,6 @@
         "Rcpp",
         "magrittr"
     ],
-    "enviPat": [],
     "shinyscreenshot": [
         "shiny",
         "httpuv",
