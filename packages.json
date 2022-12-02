@@ -1002,7 +1002,6 @@
         "memoise",
         "Matrix",
         "highr",
-        "itertools",
         "doRNG",
         "hms",
         "RSpectra",
@@ -16113,7 +16112,6 @@
         "Matrix",
         "tfruns",
         "ellipsis",
-        "itertools",
         "RcppTOML",
         "processx",
         "tfautograph",
@@ -25227,7 +25225,6 @@
         "tidyr",
         "viridis",
         "visNetwork",
-        "itertools",
         "rsparse",
         "mlapi",
         "lgr",
@@ -33375,7 +33372,6 @@
         "recipes",
         "reshape2",
         "globals",
-        "itertools",
         "doRNG",
         "MatrixGenerics",
         "GenomicRanges",
@@ -40149,7 +40145,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "itertools",
         "doRNG",
         "MatrixGenerics",
         "GenomicRanges",
@@ -47508,7 +47503,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "itertools",
         "doRNG",
         "MatrixGenerics",
         "GenomicRanges",
@@ -48351,7 +48345,6 @@
         "missForest",
         "ropls",
         "futile.logger",
-        "itertools",
         "doRNG",
         "ggplot2",
         "plotly",
@@ -48890,7 +48883,6 @@
         "BiocIO",
         "biomaRt",
         "GO.db",
-        "itertools",
         "BiocParallel",
         "bit64",
         "blob",
@@ -50957,7 +50949,6 @@
         "GenomeInfoDb",
         "AnnotationDbi",
         "GO.db",
-        "itertools",
         "RSQLite",
         "KEGGREST",
         "httr",
@@ -53409,7 +53400,6 @@
         "pcaMethods",
         "mzID",
         "scales",
-        "itertools",
         "rvest",
         "dplyr",
         "purrr",
@@ -67880,7 +67870,6 @@
         "XVector",
         "mgcv",
         "ragg",
-        "itertools",
         "RcppEigen",
         "hms",
         "vroom",
@@ -70635,7 +70624,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "itertools",
         "doRNG",
         "RcppZiggurat",
         "httr",
@@ -70658,10 +70646,8 @@
         "vctrs"
     ],
     "missForest": [
-        "itertools",
         "doRNG"
     ],
-    "itertools": [],
     "doRNG": [],
     "RSpectra": [
         "Matrix",
@@ -75678,9 +75664,7 @@
     "CatEncoders": [
         "Matrix"
     ],
-    "rcdk": [
-        "itertools"
-    ],
+    "rcdk": [],
     "webchem": [
         "httr",
         "rvest",
