@@ -10389,7 +10389,6 @@
         "caret",
         "tidyr",
         "ggnetwork",
-        "osfr",
         "readr",
         "recipes",
         "sna",
@@ -16645,7 +16644,6 @@
         "fields",
         "viridis"
     ],
-    "osfr": [],
     "tidybayes": [
         "ggdist",
         "tidyr",
