@@ -3828,9 +3828,7 @@
         "BiocFileCache",
         "geneplotter"
     ],
-    "granulator": [
-        "epiR"
-    ],
+    "granulator": [],
     "graper": [],
     "GreyListChIP": [
         "BSgenome",
@@ -10379,7 +10377,6 @@
     "gRain": [
         "broom"
     ],
-    "epiR": [],
     "HiContactsData": [
         "ExperimentHub",
         "BiocFileCache",
