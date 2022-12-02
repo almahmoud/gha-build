@@ -87,7 +87,6 @@
         "pillar",
         "httpuv"
     ],
-    "ABSSeq": [],
     "ACE": [
         "QDNAseq",
         "ggplot2",
@@ -23596,7 +23595,6 @@
     ],
     "metaseqR2": [
         "DESeq2",
-        "ABSSeq",
         "baySeq",
         "BiocParallel",
         "biomaRt",
