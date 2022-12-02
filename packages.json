@@ -138,7 +138,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "extraChIPs": [],
     "ffpe": [
         "lumi"
     ],
