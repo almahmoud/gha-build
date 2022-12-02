@@ -2482,7 +2482,6 @@
         "bumphunter",
         "GenomicFeatures"
     ],
-    "NeuCA": [],
     "ngsReports": [],
     "nnSVG": [
         "SpatialExperiment"
