@@ -7501,7 +7501,6 @@
     ],
     "Rmmquant": [
         "devtools",
-        "TBX20BamSubset",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "DESeq2",
         "geneplotter",
@@ -10536,7 +10535,6 @@
         "ExperimentHub",
         "BiocFileCache"
     ],
-    "TBX20BamSubset": [],
     "scanMiRData": [
         "scanMiR"
     ],
