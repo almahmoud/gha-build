@@ -15218,7 +15218,6 @@
     ],
     "Pigengene": [
         "BiocStyle",
-        "C50",
         "WGCNA",
         "GO.db",
         "dplyr",
@@ -24752,7 +24751,6 @@
     ],
     "aroma.affymetrix": [],
     "osfr": [],
-    "C50": [],
     "tidybayes": [
         "ggdist",
         "dplyr",
