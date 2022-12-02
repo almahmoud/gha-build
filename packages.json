@@ -6955,7 +6955,6 @@
         "tidyselect",
         "DelayedArray"
     ],
-    "COHCAP": [],
     "cola": [
         "ComplexHeatmap",
         "httr"
