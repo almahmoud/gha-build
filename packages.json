@@ -603,9 +603,7 @@
         "GenomicFeatures"
     ],
     "CluMSID": [],
-    "clusterExperiment": [
-        "phylobase"
-    ],
+    "clusterExperiment": [],
     "clusterProfiler": [
         "DOSE",
         "enrichplot",
@@ -2603,8 +2601,7 @@
     ],
     "NetSAM": [],
     "netSmooth": [
-        "clusterExperiment",
-        "phylobase"
+        "clusterExperiment"
     ],
     "netZooR": [
         "yarn",
@@ -4279,7 +4276,6 @@
     ],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [],
-    "phylobase": [],
     "rio": [],
     "factoextra": [
         "FactoMineR",
