@@ -5803,7 +5803,6 @@
         "ggpubr",
         "minfi",
         "tidyr",
-        "planet",
         "testthat",
         "AnnotationHub",
         "BiocFileCache",
@@ -7693,7 +7692,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "planet": [],
     "plethy": [],
     "PloGO2": [
         "GO.db",
