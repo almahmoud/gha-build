@@ -3353,7 +3353,6 @@
         "intergraph",
         "networkD3",
         "ggnewscale",
-        "NetRep",
         "BiocParallel",
         "GENIE3",
         "SummarizedExperiment",
@@ -4358,7 +4357,6 @@
         "intergraph",
         "networkD3",
         "ggnewscale",
-        "NetRep",
         "BiocParallel",
         "GENIE3",
         "SummarizedExperiment",
@@ -16690,7 +16688,6 @@
         "gprofiler2",
         "tibble",
         "tidyr",
-        "NetRep",
         "SummarizedExperiment",
         "tidyselect",
         "pillar",
@@ -43600,7 +43597,6 @@
         "pillar"
     ],
     "networkD3": [],
-    "NetRep": [],
     "network": [
         "tibble",
         "pillar"
