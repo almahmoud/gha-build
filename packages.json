@@ -25614,7 +25614,6 @@
         "cowplot",
         "DelayedArray",
         "DelayedMatrixStats",
-        "extraDistr",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -37400,7 +37399,6 @@
         "crosstalk",
         "purrr",
         "promises",
-        "extraDistr",
         "bslib",
         "jquerylib",
         "knitr",
@@ -53536,7 +53534,6 @@
     ],
     "proDA": [
         "SummarizedExperiment",
-        "extraDistr",
         "MatrixGenerics",
         "GenomicRanges",
         "Biobase",
@@ -84435,7 +84432,6 @@
         "globals"
     ],
     "BBmisc": [],
-    "extraDistr": [],
     "NHPoisson": [
         "car",
         "mgcv",
