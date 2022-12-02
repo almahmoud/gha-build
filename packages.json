@@ -9520,7 +9520,6 @@
         "reshape2",
         "rtracklayer",
         "S4Vectors",
-        "som",
         "SummarizedExperiment",
         "vegan",
         "futile.logger",
@@ -13431,7 +13430,6 @@
     "CINdex": [
         "GenomicRanges",
         "gplots",
-        "som",
         "dplyr",
         "gridExtra",
         "stringr",
@@ -42128,7 +42126,6 @@
         "scales",
         "class",
         "e1071",
-        "som",
         "coda",
         "Matrix",
         "minqa",
@@ -42223,7 +42220,6 @@
         "scales",
         "class",
         "e1071",
-        "som",
         "coda",
         "minqa",
         "reshape2",
@@ -49817,7 +49813,6 @@
         "pbkrtest",
         "quantreg",
         "e1071",
-        "som",
         "coda",
         "minqa",
         "reshape2",
@@ -94572,7 +94567,6 @@
         "stringr"
     ],
     "formula.tools": [],
-    "som": [],
     "BMA": [
         "survival",
         "robustbase",
@@ -99280,8 +99274,7 @@
         "class",
         "e1071",
         "pcaPP",
-        "robustbase",
-        "som"
+        "robustbase"
     ],
     "optparse": [],
     "glmmTMB": [
