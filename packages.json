@@ -1552,7 +1552,6 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "CoCiteStats": [],
     "COCOA": [
         "MIRA",
         "bsseq",
