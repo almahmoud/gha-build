@@ -541,7 +541,6 @@
         "qpgraph",
         "GenomicFeatures"
     ],
-    "CluMSID": [],
     "clusterExperiment": [],
     "clusterProfiler": [
         "DOSE",
