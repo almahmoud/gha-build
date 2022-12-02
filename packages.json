@@ -746,7 +746,6 @@
     "segmenter": [],
     "selectKSigs": [],
     "shinyMethyl": [],
-    "SIAMCAT": [],
     "signatureSearch": [],
     "signeR": [
         "survivalAnalysis",
