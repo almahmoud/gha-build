@@ -34961,8 +34961,7 @@
         "highr"
     ],
     "maSigPro": [
-        "Biobase",
-        "venn"
+        "Biobase"
     ],
     "maskBAD": [
         "gcrma",
@@ -80344,7 +80343,6 @@
         "e1071",
         "sp"
     ],
-    "venn": [],
     "PairedData": [
         "gld",
         "ggplot2",
