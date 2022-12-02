@@ -847,8 +847,7 @@
     ],
     "MAI": [],
     "MAIT": [
-        "agricolae",
-        "klaR"
+        "agricolae"
     ],
     "maser": [
         "Gviz",
@@ -1190,8 +1189,7 @@
         "biovizBase"
     ],
     "omada": [
-        "diceR",
-        "klaR"
+        "diceR"
     ],
     "omicRexposome": [
         "rexposome",
@@ -1901,10 +1899,7 @@
         "pbkrtest"
     ],
     "glmmTMB": [],
-    "agricolae": [
-        "klaR"
-    ],
-    "klaR": [],
+    "agricolae": [],
     "EnsDb.Hsapiens.v75": [],
     "FlowSorted.Blood.450k": [
         "minfi"
@@ -1919,9 +1914,7 @@
         "car",
         "pbkrtest"
     ],
-    "diceR": [
-        "klaR"
-    ],
+    "diceR": [],
     "AICcmodavg": [
         "unmarked"
     ],
