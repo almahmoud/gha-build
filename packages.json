@@ -3784,7 +3784,6 @@
         "circlize",
         "corrplot",
         "dplyr",
-        "getopt",
         "ggdendro",
         "ggplot2",
         "gplots",
@@ -55251,7 +55250,6 @@
         "foreach",
         "gplots",
         "Wrench",
-        "getopt",
         "mvtnorm",
         "permute",
         "BiocGenerics",
@@ -55384,7 +55382,6 @@
         "RColorBrewer",
         "gplots",
         "Wrench",
-        "getopt",
         "mvtnorm",
         "permute",
         "caTools",
@@ -65272,7 +65269,6 @@
         "foreach",
         "gplots",
         "Wrench",
-        "getopt",
         "mvtnorm",
         "farver",
         "munsell",
@@ -102592,7 +102588,6 @@
         "coda",
         "lattice",
         "quantreg",
-        "getopt",
         "mvtnorm",
         "Matrix",
         "gmm",
@@ -120901,7 +120896,6 @@
     "svglite": [
         "systemfonts"
     ],
-    "getopt": [],
     "UpSetR": [
         "ggplot2",
         "gridExtra",
@@ -130889,9 +130883,7 @@
         "mclust",
         "mvtnorm"
     ],
-    "optparse": [
-        "getopt"
-    ],
+    "optparse": [],
     "glmmTMB": [
         "TMB",
         "lme4",
