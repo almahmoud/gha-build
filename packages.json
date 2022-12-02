@@ -11608,8 +11608,7 @@
         "TrajectoryUtils"
     ],
     "tscR": [
-        "kmlShape",
-        "kml"
+        "kmlShape"
     ],
     "ttgsea": [
         "keras",
@@ -13326,10 +13325,7 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "kmlShape": [
-        "kml"
-    ],
-    "kml": [],
+    "kmlShape": [],
     "mirbase.db": [],
     "msigdb": [
         "ExperimentHub",
