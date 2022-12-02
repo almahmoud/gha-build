@@ -197,7 +197,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "wateRmelon",
-        "goseq",
         "missMethyl",
         "Gviz",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -695,7 +694,6 @@
     ],
     "gmapR": [],
     "GmicR": [],
-    "goseq": [],
     "goSorensen": [
         "clusterProfiler",
         "enrichplot"
@@ -751,8 +749,7 @@
     ],
     "iCNV": [],
     "ideal": [
-        "pcaExplorer",
-        "goseq"
+        "pcaExplorer"
     ],
     "igvR": [],
     "IMAS": [
@@ -1423,9 +1420,7 @@
     ],
     "RgnTX": [],
     "rGREAT": [],
-    "rgsepd": [
-        "goseq"
-    ],
+    "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [],
     "RiboProfiling": [
@@ -1627,9 +1622,7 @@
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
-    "SMITE": [
-        "goseq"
-    ],
+    "SMITE": [],
     "snm": [],
     "SNPhood": [],
     "sojourner": [
