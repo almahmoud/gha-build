@@ -996,7 +996,6 @@
         "dplyr",
         "GO.db"
     ],
-    "bgx": [],
     "BicARE": [
         "GSEABase",
         "annotate"
