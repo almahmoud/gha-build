@@ -15942,7 +15942,6 @@
         "DOSE",
         "TCGAbiolinks",
         "GEOquery",
-        "RISmed",
         "AnnotationDbi",
         "dplyr",
         "enrichplot",
@@ -17083,7 +17082,6 @@
         "reprex",
         "rvest",
         "tidyr",
-        "RISmed",
         "gargle",
         "cellranger",
         "rematch2",
@@ -31036,7 +31034,6 @@
     "HiveR": [
         "rgl"
     ],
-    "RISmed": [],
     "gghalves": [
         "ggplot2",
         "tibble"
@@ -31077,9 +31074,7 @@
     "shinyjqui": [
         "shiny"
     ],
-    "VarfromPDB": [
-        "RISmed"
-    ],
+    "VarfromPDB": [],
     "mppa": [],
     "ICSNP": [
         "ICS",
