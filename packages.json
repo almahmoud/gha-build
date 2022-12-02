@@ -142,13 +142,10 @@
     "anota2seq": [
         "DESeq2"
     ],
-    "AnVIL": [],
     "AnVILBilling": [
         "plotly"
     ],
-    "AnVILPublish": [
-        "AnVIL"
-    ],
+    "AnVILPublish": [],
     "APAlyzer": [
         "GenomicFeatures",
         "DESeq2",
@@ -755,7 +752,6 @@
     ],
     "cbaf": [
         "cBioPortalData",
-        "AnVIL",
         "MultiAssayExperiment",
         "RTCGAToolbox",
         "TCGAutils",
@@ -770,7 +766,6 @@
         "tidytree"
     ],
     "cBioPortalData": [
-        "AnVIL",
         "MultiAssayExperiment",
         "RTCGAToolbox",
         "TCGAutils",
@@ -3399,7 +3394,6 @@
     "LowMACA": [
         "cBioPortalData",
         "motifStack",
-        "AnVIL",
         "MultiAssayExperiment",
         "RTCGAToolbox",
         "TCGAutils",
@@ -6818,7 +6812,6 @@
         "ExperimentHub"
     ],
     "terraTCGAdata": [
-        "AnVIL",
         "MultiAssayExperiment",
         "TCGAutils",
         "GenomicFeatures",
