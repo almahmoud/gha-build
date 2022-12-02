@@ -334,7 +334,6 @@
         "rstatix",
         "nloptr"
     ],
-    "BiocPkgTools": [],
     "biodb": [],
     "biodbChebi": [
         "biodb"
