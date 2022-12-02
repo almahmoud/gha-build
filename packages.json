@@ -19695,7 +19695,6 @@
         "GenomeInfoDbData",
         "beeswarm",
         "vipor",
-        "shades",
         "png",
         "ragg",
         "highr",
@@ -103979,7 +103978,6 @@
         "BiocParallel",
         "BiocIO",
         "stringi",
-        "shades",
         "cli",
         "gtable",
         "isoband",
@@ -129725,7 +129723,6 @@
         "magrittr",
         "stringi",
         "reportr",
-        "shades",
         "RNifti",
         "futile.logger",
         "snow",
@@ -147440,7 +147437,6 @@
         "ggfittext",
         "rlang",
         "stringi",
-        "shades",
         "cli",
         "gtable",
         "isoband",
@@ -147481,7 +147477,6 @@
     "ggfittext": [
         "stringi",
         "ggplot2",
-        "shades",
         "cli",
         "gtable",
         "isoband",
@@ -147572,7 +147567,6 @@
         "Rcpp",
         "BH"
     ],
-    "shades": [],
     "DDRTree": [
         "irlba",
         "Rcpp",
@@ -160303,7 +160297,6 @@
     ],
     "tractor.base": [
         "reportr",
-        "shades",
         "RNifti",
         "Rcpp"
     ],
