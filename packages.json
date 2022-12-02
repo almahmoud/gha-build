@@ -50910,7 +50910,6 @@
         "purrr",
         "ggtext",
         "fields",
-        "CircStats",
         "dtw",
         "AnnotationDbi",
         "progress",
@@ -64791,7 +64790,6 @@
         "sp",
         "ade4",
         "adehabitatMA",
-        "CircStats",
         "foreach"
     ],
     "seqcombo": [
@@ -87118,7 +87116,6 @@
     ],
     "verification": [
         "fields",
-        "CircStats",
         "dtw",
         "spam",
         "viridis",
@@ -87132,7 +87129,6 @@
         "Matrix",
         "pillar"
     ],
-    "CircStats": [],
     "aroma.affymetrix": [
         "R.utils",
         "aroma.core",
@@ -88192,8 +88188,7 @@
     "adehabitatLT": [
         "sp",
         "ade4",
-        "adehabitatMA",
-        "CircStats"
+        "adehabitatMA"
     ],
     "adehabitatMA": [
         "sp"
