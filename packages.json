@@ -9175,7 +9175,6 @@
         "wateRmelon",
         "goseq",
         "missMethyl",
-        "kpmt",
         "ggplot2",
         "GenomicRanges",
         "qvalue",
@@ -73153,7 +73152,6 @@
         "dbplyr",
         "cachem"
     ],
-    "kpmt": [],
     "isva": [
         "qvalue",
         "JADE",
