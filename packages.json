@@ -272,9 +272,7 @@
         "biomaRt"
     ],
     "BEAT": [],
-    "beer": [
-        "PhIPData"
-    ],
+    "beer": [],
     "benchdamic": [
         "TreeSummarizedExperiment",
         "zinbwave",
@@ -3723,7 +3721,6 @@
         "ggtree",
         "treeio"
     ],
-    "PhIPData": [],
     "PhosR": [
         "ggpubr",
         "rstatix",
