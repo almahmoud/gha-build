@@ -13,7 +13,6 @@
         "annotate"
     ],
     "abseqR": [
-        "ggplot2",
         "ggcorrplot",
         "ggdendro",
         "plotly",
@@ -21,16 +20,14 @@
         "tidyr"
     ],
     "ACE": [
-        "QDNAseq",
-        "ggplot2"
+        "QDNAseq"
     ],
     "ADaCGH2": [
         "tilingArray",
         "snapCGH",
         "vsn",
         "genefilter",
-        "annotate",
-        "ggplot2"
+        "annotate"
     ],
     "ADAM": [
         "GO.db"
@@ -38,7 +35,6 @@
     "ADAMgui": [
         "ADAM",
         "GO.db",
-        "ggplot2",
         "ggrepel",
         "ggpubr",
         "ggsignif",
@@ -76,7 +72,6 @@
     ],
     "affycoretools": [
         "GOstats",
-        "ggplot2",
         "oligoClasses",
         "ReportingTools",
         "Glimma",
@@ -117,7 +112,6 @@
     "AgiMicroRna": [
         "affycoretools",
         "GOstats",
-        "ggplot2",
         "oligoClasses",
         "ReportingTools",
         "Glimma",
@@ -151,7 +145,6 @@
         "SingleCellExperiment",
         "scater",
         "apeglm",
-        "ggplot2",
         "scuttle",
         "ggbeeswarm",
         "viridis",
@@ -160,7 +153,6 @@
     ],
     "ALDEx2": [],
     "alevinQC": [
-        "ggplot2",
         "GGally",
         "shinydashboard",
         "cowplot",
@@ -179,11 +171,9 @@
         "BiocFileCache",
         "Hmisc",
         "dbplyr",
-        "ggplot2",
         "viridis"
     ],
     "AlphaBeta": [
-        "ggplot2",
         "plotly",
         "tidyr"
     ],
@@ -200,7 +190,6 @@
         "readxl",
         "mixOmics",
         "speaq",
-        "ggplot2",
         "ggrepel",
         "rvest"
     ],
@@ -209,7 +198,6 @@
         "MultiAssayExperiment",
         "curatedTCGAData",
         "readr",
-        "ggplot2",
         "dbplyr",
         "AnnotationHub",
         "ExperimentHub",
@@ -218,13 +206,11 @@
     ],
     "amplican": [
         "ShortRead",
-        "ggplot2",
         "ggthemes",
         "waffle",
         "GenomicAlignments"
     ],
     "Anaquin": [
-        "ggplot2",
         "qvalue",
         "DESeq2",
         "geneplotter",
@@ -241,7 +227,6 @@
         "nloptr",
         "tidyr",
         "readxl",
-        "ggplot2",
         "viridis",
         "MultiAssayExperiment",
         "decontam",
@@ -257,7 +242,6 @@
         "rematch2"
     ],
     "AneuFinder": [
-        "ggplot2",
         "cowplot",
         "GenomicAlignments",
         "ggdendro",
@@ -268,7 +252,6 @@
         "DESeq2",
         "caret",
         "plotly",
-        "ggplot2",
         "MultiAssayExperiment",
         "plotROC",
         "GUniFrac",
@@ -306,7 +289,6 @@
     "annotatr": [
         "AnnotationHub",
         "GenomicFeatures",
-        "ggplot2",
         "readr",
         "regioneR",
         "rtracklayer",
@@ -318,14 +300,12 @@
         "dbplyr"
     ],
     "anota": [
-        "qvalue",
-        "ggplot2"
+        "qvalue"
     ],
     "anota2seq": [
         "qvalue",
         "DESeq2",
         "geneplotter",
-        "ggplot2",
         "annotate"
     ],
     "AnVIL": [
@@ -335,7 +315,6 @@
     "AnVILBilling": [
         "shinytoastr",
         "plotly",
-        "ggplot2",
         "tidyr"
     ],
     "AnVILPublish": [
@@ -350,7 +329,6 @@
         "GenomicAlignments",
         "DESeq2",
         "ggrepel",
-        "ggplot2",
         "rtracklayer",
         "VariantAnnotation",
         "tidyr",
@@ -367,7 +345,6 @@
     "apeglm": [],
     "APL": [
         "ggrepel",
-        "ggplot2",
         "plotly",
         "Seurat",
         "SingleCellExperiment",
@@ -419,7 +396,6 @@
         "ShortRead",
         "biomaRt",
         "BiocFileCache",
-        "ggplot2",
         "viridis",
         "GenomicAlignments",
         "dbplyr"
@@ -431,7 +407,6 @@
         "annotate",
         "rtracklayer",
         "biomaRt",
-        "ggplot2",
         "FDb.InfiniumMethylation.hg19",
         "minfi",
         "genefilter",
@@ -451,13 +426,11 @@
         "genefilter",
         "Hmisc",
         "vsn",
-        "ggplot2",
         "annotate",
         "viridis"
     ],
     "artMS": [
         "ggdendro",
-        "ggplot2",
         "ggrepel",
         "MSstats",
         "org.Hs.eg.db",
@@ -471,7 +444,6 @@
         "rematch2"
     ],
     "ASICS": [
-        "ggplot2",
         "PepsNMR",
         "ropls",
         "plotly",
@@ -488,7 +460,6 @@
         "Gviz",
         "fgsea",
         "rtracklayer",
-        "ggplot2",
         "mGSZ",
         "BiocFileCache",
         "cowplot",
@@ -519,7 +490,6 @@
         "ensembldb",
         "BSgenome",
         "biovizBase",
-        "ggplot2",
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
@@ -529,7 +499,6 @@
     "AssessORF": [],
     "ASSIGN": [
         "sva",
-        "ggplot2",
         "genefilter",
         "annotate"
     ],
@@ -552,7 +521,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Mmusculus.UCSC.mm10",
         "BSgenome",
-        "ggplot2",
         "plotly",
         "miniUI",
         "SingleCellExperiment",
@@ -598,7 +566,6 @@
         "ensembldb",
         "GenomicFeatures",
         "biomaRt",
-        "ggplot2",
         "InteractionSet",
         "regioneR",
         "BiocFileCache",
@@ -615,7 +582,6 @@
         "GenomicAlignments",
         "motifmatchr",
         "TFBSTools",
-        "ggplot2",
         "ggrepel",
         "BSgenome",
         "CNEr",
@@ -634,7 +600,6 @@
     "atSNP": [
         "BSgenome",
         "BiocFileCache",
-        "ggplot2",
         "motifStack",
         "testthat",
         "dbplyr",
@@ -666,7 +631,6 @@
     ],
     "autonomics": [
         "BiocFileCache",
-        "ggplot2",
         "ggrepel",
         "MultiAssayExperiment",
         "readxl",
@@ -677,7 +641,6 @@
     "BaalChIP": [
         "GenomicAlignments",
         "doBy",
-        "ggplot2",
         "broom",
         "pbkrtest",
         "tidyr",
@@ -687,9 +650,7 @@
         "waldo",
         "rematch2"
     ],
-    "bacon": [
-        "ggplot2"
-    ],
+    "bacon": [],
     "BadRegionFinder": [
         "VariantAnnotation",
         "biomaRt",
@@ -718,14 +679,12 @@
         "dbplyr"
     ],
     "BANDITS": [
-        "ggplot2",
         "DRIMSeq"
     ],
     "bandle": [
         "MSnbase",
         "pRoloc",
         "pRolocdata",
-        "ggplot2",
         "BiocStyle",
         "ggalluvial",
         "ggrepel",
@@ -745,12 +704,10 @@
         "ipred"
     ],
     "banocc": [
-        "rstan",
-        "ggplot2"
+        "rstan"
     ],
     "barcodetrackR": [
         "cowplot",
-        "ggplot2",
         "ggdendro",
         "ggridges",
         "tidyr",
@@ -758,7 +715,6 @@
     ],
     "basecallQC": [
         "prettydoc",
-        "ggplot2",
         "tidyr",
         "ShortRead",
         "GenomicAlignments"
@@ -773,7 +729,6 @@
         "SingleCellExperiment",
         "cowplot",
         "ggExtra",
-        "ggplot2",
         "scran",
         "scuttle",
         "viridis",
@@ -790,7 +745,6 @@
         "SingleCellExperiment",
         "cowplot",
         "ggExtra",
-        "ggplot2",
         "viridis",
         "colourpicker",
         "miniUI",
@@ -809,7 +763,6 @@
         "heatmaply",
         "plotly",
         "viridis",
-        "ggplot2",
         "dendextend",
         "egg",
         "genefilter",
@@ -820,7 +773,6 @@
         "SingleCellExperiment",
         "scater",
         "scran",
-        "ggplot2",
         "BiocFileCache",
         "dbplyr",
         "scuttle",
@@ -842,14 +794,9 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "BDMMAcorrect": [
-        "ggplot2"
-    ],
-    "beadarray": [
-        "ggplot2"
-    ],
+    "BDMMAcorrect": [],
+    "beadarray": [],
     "BEARscc": [
-        "ggplot2",
         "SingleCellExperiment"
     ],
     "BEAT": [
@@ -874,7 +821,6 @@
         "ANCOMBC",
         "dearseq",
         "corncob",
-        "ggplot2",
         "ggdendro",
         "ggridges",
         "cowplot",
@@ -935,7 +881,6 @@
         "GEOquery",
         "readr",
         "tidyr",
-        "ggplot2",
         "FDb.InfiniumMethylation.hg19",
         "annotate",
         "genefilter",
@@ -954,7 +899,6 @@
     ],
     "bigPint": [
         "GGally",
-        "ggplot2",
         "Hmisc",
         "plotly",
         "shinycssloaders",
@@ -964,7 +908,6 @@
     ],
     "BindingSiteFinder": [
         "tidyr",
-        "ggplot2",
         "rtracklayer",
         "ggforce",
         "Gviz",
@@ -981,13 +924,11 @@
         "viridis"
     ],
     "bioassayR": [
-        "ChemmineR",
-        "ggplot2"
+        "ChemmineR"
     ],
     "biobroom": [
         "broom",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "bioCancer": [
         "radiant.data",
@@ -1009,7 +950,6 @@
         "viridis",
         "HDO.db",
         "fgsea",
-        "ggplot2",
         "broom",
         "car",
         "shinyAce",
@@ -1055,7 +995,6 @@
         "annotate"
     ],
     "BiocOncoTK": [
-        "ggplot2",
         "GenomicFeatures",
         "curatedTCGAData",
         "ggpubr",
@@ -1188,7 +1127,6 @@
     "BioMM": [
         "rms",
         "precrec",
-        "ggplot2",
         "topGO",
         "Hmisc",
         "GO.db",
@@ -1207,7 +1145,6 @@
         "Hmisc",
         "VariantAnnotation",
         "dbplyr",
-        "ggplot2",
         "viridis"
     ],
     "BioNAR": [
@@ -1216,7 +1153,6 @@
         "GO.db",
         "org.Hs.eg.db",
         "WGCNA",
-        "ggplot2",
         "ggrepel",
         "cowplot",
         "synaptome.data",
@@ -1229,7 +1165,6 @@
     "BioNERO": [
         "WGCNA",
         "sva",
-        "ggplot2",
         "ggrepel",
         "patchwork",
         "ggnetwork",
@@ -1247,7 +1182,6 @@
     "BioNetStat": [
         "shinyBS",
         "pathview",
-        "ggplot2",
         "Hmisc",
         "viridis",
         "org.Hs.eg.db"
@@ -1257,7 +1191,6 @@
         "MultiDataSet",
         "ropls",
         "tidyr",
-        "ggplot2",
         "ggrepel",
         "plotly"
     ],
@@ -1267,7 +1200,6 @@
         "scuttle"
     ],
     "biotmle": [
-        "ggplot2",
         "ggsci",
         "superheat",
         "ggdendro"
@@ -1280,7 +1212,6 @@
         "ensembldb",
         "rtracklayer",
         "biomaRt",
-        "ggplot2",
         "viridis",
         "BSgenome",
         "BiocFileCache",
@@ -1299,7 +1230,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BSgenome",
-        "ggplot2",
         "bumphunter",
         "annotatr",
         "OrganismDbi",
@@ -1327,7 +1257,6 @@
         "viridis",
         "pasilla",
         "DEXSeq",
-        "ggplot2",
         "DESeq2",
         "biomaRt",
         "geneplotter",
@@ -1337,8 +1266,7 @@
         "dbplyr"
     ],
     "blima": [
-        "beadarray",
-        "ggplot2"
+        "beadarray"
     ],
     "BLMA": [
         "ROntoTools",
@@ -1350,7 +1278,6 @@
     "BloodGen3Module": [
         "ExperimentHub",
         "testthat",
-        "ggplot2",
         "AnnotationHub",
         "BiocFileCache",
         "waldo",
@@ -1368,14 +1295,12 @@
         "mnem",
         "sva",
         "vsn",
-        "ggplot2",
         "Linnorm",
         "genefilter",
         "annotate",
         "ggdendro"
     ],
     "BOBaFIT": [
-        "ggplot2",
         "ggbio",
         "tidyr",
         "ggforce",
@@ -1398,14 +1323,12 @@
     "borealis": [
         "bsseq",
         "DSS",
-        "ggplot2",
         "cowplot",
         "BSgenome",
         "rtracklayer",
         "GenomicAlignments"
     ],
     "BPRMeth": [
-        "ggplot2",
         "cowplot",
         "BiocStyle"
     ],
@@ -1415,7 +1338,6 @@
         "cowplot",
         "derfinder",
         "derfinderPlot",
-        "ggplot2",
         "GenomicState",
         "BSgenome",
         "GenomicFeatures",
@@ -1446,7 +1368,6 @@
     "branchpointer": [
         "caret",
         "cowplot",
-        "ggplot2",
         "biomaRt",
         "BSgenome.Hsapiens.UCSC.hg38",
         "rtracklayer",
@@ -1460,8 +1381,7 @@
     ],
     "breakpointR": [
         "cowplot",
-        "GenomicAlignments",
-        "ggplot2"
+        "GenomicAlignments"
     ],
     "brendaDb": [
         "tidyr",
@@ -1473,7 +1393,6 @@
         "GenomicAlignments",
         "DESeq2",
         "geneplotter",
-        "ggplot2",
         "annotate"
     ],
     "BSgenome": [
@@ -1487,7 +1406,6 @@
     ],
     "BubbleTree": [
         "BiocStyle",
-        "ggplot2",
         "biovizBase",
         "Hmisc",
         "GenomicAlignments",
@@ -1528,7 +1446,6 @@
         "BSgenome",
         "ensembldb",
         "GenomicFeatures",
-        "ggplot2",
         "plyranges",
         "tidyr",
         "BiocFileCache",
@@ -1543,7 +1460,6 @@
     "CAFE": [
         "biovizBase",
         "ggbio",
-        "ggplot2",
         "annotate",
         "Hmisc",
         "GenomicAlignments",
@@ -1570,7 +1486,6 @@
         "GenomicInteractions",
         "biomaRt",
         "VariantAnnotation",
-        "ggplot2",
         "ensembldb",
         "BSgenome",
         "biovizBase",
@@ -1580,7 +1495,6 @@
         "viridis"
     ],
     "cageminer": [
-        "ggplot2",
         "ggbio",
         "ggtext",
         "BioNERO",
@@ -1616,14 +1530,12 @@
         "MultiAssayExperiment",
         "BSgenome",
         "GenomicAlignments",
-        "ggplot2",
         "rtracklayer",
         "tidyr"
     ],
     "CAMERA": [
         "xcms",
         "Hmisc",
-        "ggplot2",
         "viridis",
         "MSnbase",
         "MsFeatures",
@@ -1633,7 +1545,6 @@
         "GSEABase",
         "phenoTest",
         "annotate",
-        "ggplot2",
         "Hmisc",
         "Category",
         "biomaRt",
@@ -1646,11 +1557,9 @@
     ],
     "CancerInSilico": [],
     "CancerSubtypes": [
-        "NMF",
-        "ggplot2"
+        "NMF"
     ],
     "cardelino": [
-        "ggplot2",
         "ggtree",
         "VariantAnnotation",
         "vcfR",
@@ -1688,7 +1597,6 @@
         "cowplot",
         "drc",
         "FlowSOM",
-        "ggplot2",
         "ggrepel",
         "ggridges",
         "scater",
@@ -1795,14 +1703,12 @@
     ],
     "celaref": [
         "MAST",
-        "ggplot2",
         "readr",
         "SingleCellExperiment",
         "vroom"
     ],
     "celda": [
         "SingleCellExperiment",
-        "ggplot2",
         "enrichR",
         "ggrepel",
         "scater",
@@ -1817,7 +1723,6 @@
         "tidyr"
     ],
     "CellBarcode": [
-        "ggplot2",
         "ShortRead",
         "egg",
         "GenomicAlignments"
@@ -1836,14 +1741,12 @@
         "vsn",
         "GSEABase",
         "Category",
-        "annotate",
-        "ggplot2"
+        "annotate"
     ],
     "CelliD": [
         "Seurat",
         "SingleCellExperiment",
         "scater",
-        "ggplot2",
         "fgsea",
         "cowplot",
         "scuttle",
@@ -1860,7 +1763,6 @@
         "tidyr"
     ],
     "cellity": [
-        "ggplot2",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "topGO",
@@ -1870,7 +1772,6 @@
         "FactoMineR",
         "Hmisc",
         "car",
-        "ggplot2",
         "ggrepel",
         "viridis",
         "pbkrtest",
@@ -1883,7 +1784,6 @@
         "rematch2"
     ],
     "CellMixS": [
-        "ggplot2",
         "scater",
         "viridis",
         "cowplot",
@@ -1895,15 +1795,12 @@
         "ggrastr",
         "ggrepel"
     ],
-    "CellNOptR": [
-        "ggplot2"
-    ],
+    "CellNOptR": [],
     "cellscape": [],
     "CellTrails": [
         "SingleCellExperiment",
         "dendextend",
         "EnvStats",
-        "ggplot2",
         "ggrepel",
         "viridis"
     ],
@@ -1914,7 +1811,6 @@
     "cellxgenedp": [],
     "CEMiTool": [
         "WGCNA",
-        "ggplot2",
         "ggpmisc",
         "ggthemes",
         "ggrepel",
@@ -1958,7 +1854,6 @@
         "broom",
         "FlowSOM",
         "nloptr",
-        "ggplot2",
         "ggforce",
         "ggnewscale",
         "ggpubr",
@@ -1976,13 +1871,11 @@
     "Cepo": [
         "GSEABase",
         "SingleCellExperiment",
-        "ggplot2",
         "patchwork",
         "annotate"
     ],
     "ceRNAnetsim": [
         "tidygraph",
-        "ggplot2",
         "ggraph",
         "tidyr",
         "ggforce",
@@ -1995,7 +1888,6 @@
         "GenomicTools",
         "GGally",
         "ggnetwork",
-        "ggplot2",
         "ggpubr",
         "ggrepel",
         "RCy3",
@@ -2044,14 +1936,12 @@
         "genomation",
         "BSgenome",
         "GenomicAlignments",
-        "ggplot2",
         "readr",
         "vroom"
     ],
     "cfDNAPro": [
         "GenomicAlignments",
         "plyranges",
-        "ggplot2",
         "rtracklayer"
     ],
     "cghMCR": [
@@ -2072,7 +1962,6 @@
         "wateRmelon",
         "goseq",
         "missMethyl",
-        "ggplot2",
         "qvalue",
         "isva",
         "bumphunter",
@@ -2111,11 +2000,8 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "vroom"
     ],
-    "ChemmineR": [
-        "ggplot2"
-    ],
+    "ChemmineR": [],
     "CHETAH": [
-        "ggplot2",
         "SingleCellExperiment",
         "plotly",
         "dendextend",
@@ -2127,14 +2013,12 @@
         "spp",
         "ChIC.data",
         "caret",
-        "ggplot2",
         "recipes",
         "ipred",
         "tidyr"
     ],
     "Chicago": [
         "Hmisc",
-        "ggplot2",
         "viridis"
     ],
     "chimeraviz": [
@@ -2153,7 +2037,6 @@
         "Hmisc",
         "VariantAnnotation",
         "dbplyr",
-        "ggplot2",
         "viridis"
     ],
     "ChIPanalyser": [
@@ -2179,14 +2062,12 @@
         "rtracklayer",
         "readr",
         "Hmisc",
-        "ggplot2",
         "GenomicAlignments",
         "viridis",
         "vroom"
     ],
     "ChIPexoQual": [
         "GenomicAlignments",
-        "ggplot2",
         "biovizBase",
         "broom",
         "viridis",
@@ -2206,7 +2087,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "biomaRt",
-        "ggplot2",
         "InteractionSet",
         "regioneR",
         "rtracklayer",
@@ -2215,7 +2095,6 @@
         "dbplyr"
     ],
     "ChIPQC": [
-        "ggplot2",
         "DiffBind",
         "GenomicAlignments",
         "chipseq",
@@ -2244,7 +2123,6 @@
     "ChIPseeker": [
         "enrichplot",
         "GenomicFeatures",
-        "ggplot2",
         "rtracklayer",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "aplot",
@@ -2320,7 +2198,6 @@
         "kableExtra",
         "viridis",
         "batchelor",
-        "ggplot2",
         "ggrepel",
         "gggenes",
         "scran",
@@ -2339,18 +2216,15 @@
         "waiter"
     ],
     "chromstaR": [
-        "ggplot2",
         "GenomicAlignments"
     ],
     "chromswitch": [
         "NMF",
         "rtracklayer",
         "tidyr",
-        "ggplot2",
         "GenomicAlignments"
     ],
     "chromVAR": [
-        "ggplot2",
         "TFBSTools",
         "plotly",
         "miniUI",
@@ -2372,7 +2246,6 @@
     "cicero": [
         "monocle",
         "Gviz",
-        "ggplot2",
         "tidyr",
         "rtracklayer",
         "biomaRt",
@@ -2388,7 +2261,6 @@
         "dbplyr"
     ],
     "CIMICE": [
-        "ggplot2",
         "tidyr",
         "ggcorrplot",
         "ggraph",
@@ -2402,7 +2274,6 @@
         "readr",
         "rtracklayer",
         "DESeq2",
-        "ggplot2",
         "universalmotif",
         "AnnotationHub",
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -2420,7 +2291,6 @@
     ],
     "CircSeqAlignTk": [
         "tidyr",
-        "ggplot2",
         "ShortRead",
         "Rbowtie2",
         "Rhisat2",
@@ -2435,7 +2305,6 @@
     "CiteFuse": [
         "SingleCellExperiment",
         "cowplot",
-        "ggplot2",
         "propr",
         "scran",
         "ggridges",
@@ -2471,7 +2340,6 @@
     ],
     "cliProfiler": [
         "rtracklayer",
-        "ggplot2",
         "BSgenome",
         "GenomicAlignments"
     ],
@@ -2479,12 +2347,10 @@
         "xcms",
         "MSnbase",
         "vsn",
-        "ggplot2",
         "MsFeatures"
     ],
     "CluMSID": [
         "GGally",
-        "ggplot2",
         "plotly",
         "sna",
         "MSnbase",
@@ -2499,7 +2365,6 @@
         "mbkmeans",
         "ClusterR",
         "benchmarkme",
-        "ggplot2",
         "RNeXML",
         "genefilter",
         "benchmarkmeData",
@@ -2516,7 +2381,6 @@
         "tidyr",
         "HDO.db",
         "fgsea",
-        "ggplot2",
         "aplot",
         "ggnewscale",
         "ggraph",
@@ -2537,7 +2401,6 @@
     "clustifyr": [
         "cowplot",
         "fgsea",
-        "ggplot2",
         "readr",
         "tidyr",
         "SingleCellExperiment",
@@ -2555,30 +2418,25 @@
         "rtracklayer",
         "GenomicAlignments",
         "readr",
-        "ggplot2",
         "annotate",
         "GO.db",
         "vroom"
     ],
     "CNORdt": [
-        "CellNOptR",
-        "ggplot2"
+        "CellNOptR"
     ],
     "CNORfeeder": [
-        "CellNOptR",
-        "ggplot2"
+        "CellNOptR"
     ],
     "CNORfuzzy": [
         "CellNOptR",
         "nloptr",
-        "ggplot2",
         "testthat",
         "waldo",
         "rematch2"
     ],
     "CNORode": [
-        "CellNOptR",
-        "ggplot2"
+        "CellNOptR"
     ],
     "CNTools": [
         "genefilter",
@@ -2600,13 +2458,10 @@
         "exomeCopy",
         "biomaRt",
         "BiocFileCache",
-        "ggplot2",
         "viridis",
         "dbplyr"
     ],
-    "CNVgears": [
-        "ggplot2"
-    ],
+    "CNVgears": [],
     "CNViz": [
         "plotly",
         "karyoploteR",
@@ -2617,7 +2472,6 @@
         "rtracklayer",
         "biovizBase",
         "GenomicFeatures",
-        "ggplot2",
         "tidyr",
         "Hmisc",
         "GenomicAlignments",
@@ -2631,7 +2485,6 @@
     ],
     "CNVPanelizer": [
         "exomeCopy",
-        "ggplot2",
         "testthat",
         "shinyFiles",
         "shinyjs",
@@ -2644,7 +2497,6 @@
     ],
     "CNVrd2": [
         "VariantAnnotation",
-        "ggplot2",
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
@@ -2657,7 +2509,6 @@
         "org.Hs.eg.db"
     ],
     "COCOA": [
-        "ggplot2",
         "MIRA",
         "tidyr",
         "bsseq",
@@ -2681,14 +2532,12 @@
         "readr",
         "tidyr",
         "sqldf",
-        "ggplot2",
         "vroom"
     ],
     "CoGAPS": [
         "SingleCellExperiment"
     ],
     "cogena": [
-        "ggplot2",
         "tidyr",
         "devtools",
         "miniUI",
@@ -2698,7 +2547,6 @@
         "rematch2"
     ],
     "cogeqc": [
-        "ggplot2",
         "ggtree",
         "patchwork",
         "aplot",
@@ -2710,7 +2558,6 @@
     ],
     "Cogito": [
         "GenomicFeatures",
-        "ggplot2",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "rtracklayer",
         "biomaRt",
@@ -2719,7 +2566,6 @@
         "dbplyr"
     ],
     "comapr": [
-        "ggplot2",
         "plotly",
         "tidyr",
         "Gviz",
@@ -2737,7 +2583,6 @@
         "viridis"
     ],
     "combi": [
-        "ggplot2",
         "phyloseq"
     ],
     "coMET": [
@@ -2753,7 +2598,6 @@
         "dbplyr",
         "Hmisc",
         "VariantAnnotation",
-        "ggplot2",
         "viridis"
     ],
     "coMethDMR": [
@@ -2764,7 +2608,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "lme4",
-        "ggplot2",
         "dbplyr",
         "rtracklayer",
         "biomaRt",
@@ -2776,7 +2619,6 @@
     ],
     "compartmap": [
         "RaggedExperiment",
-        "ggplot2",
         "rtracklayer",
         "GenomicAlignments"
     ],
@@ -2784,9 +2626,7 @@
         "tidyr",
         "BiocStyle"
     ],
-    "compcodeR": [
-        "ggplot2"
-    ],
+    "compcodeR": [],
     "compEpiTools": [
         "topGO",
         "GenomicFeatures",
@@ -2803,16 +2643,13 @@
         "dbplyr",
         "Hmisc",
         "VariantAnnotation",
-        "ggplot2",
         "viridis"
     ],
     "CompoundDb": [
         "ChemmineR",
-        "dbplyr",
-        "ggplot2"
+        "dbplyr"
     ],
     "ComPrAn": [
-        "ggplot2",
         "tidyr",
         "rio",
         "shinydashboard",
@@ -2830,7 +2667,6 @@
         "biomaRt",
         "scran",
         "scater",
-        "ggplot2",
         "SingleCellExperiment",
         "GEOquery",
         "clusterProfiler",
@@ -2886,7 +2722,6 @@
         "Ecume",
         "TrajectoryUtils",
         "distinct",
-        "ggplot2",
         "scater",
         "spatstat",
         "caret",
@@ -2903,7 +2738,6 @@
     ],
     "CONFESS": [
         "contrast",
-        "ggplot2",
         "rms",
         "Hmisc",
         "viridis"
@@ -2920,7 +2754,6 @@
         "org.Hs.eg.db",
         "RUVSeq",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
-        "ggplot2",
         "viridis",
         "geneplotter",
         "ShortRead",
@@ -2954,7 +2787,6 @@
     "contiBAIT": [
         "GenomicFiles",
         "rtracklayer",
-        "ggplot2",
         "exomeCopy",
         "GenomicAlignments",
         "VariantAnnotation",
@@ -2999,7 +2831,6 @@
         "ensembldb",
         "biomaRt",
         "BiocFileCache",
-        "ggplot2",
         "viridis",
         "dbplyr"
     ],
@@ -3008,9 +2839,7 @@
         "GenomicAlignments",
         "ShortRead"
     ],
-    "coRdon": [
-        "ggplot2"
-    ],
+    "coRdon": [],
     "CoreGx": [
         "MultiAssayExperiment",
         "piano",
@@ -3018,11 +2847,9 @@
         "fgsea",
         "shinyjs",
         "shinydashboard",
-        "ggplot2",
         "cowplot"
     ],
     "corral": [
-        "ggplot2",
         "ggthemes",
         "MultiAssayExperiment",
         "SingleCellExperiment",
@@ -3030,7 +2857,6 @@
     ],
     "coseq": [
         "DESeq2",
-        "ggplot2",
         "HTSFilter",
         "geneplotter",
         "annotate"
@@ -3040,8 +2866,7 @@
         "faahKO",
         "MSnbase",
         "MsFeatures",
-        "vsn",
-        "ggplot2"
+        "vsn"
     ],
     "cosmosR": [
         "CARNIVAL",
@@ -3053,14 +2878,12 @@
         "vroom"
     ],
     "COTAN": [
-        "ggplot2",
         "ggrepel",
         "tidyr"
     ],
     "countsimQC": [
         "DESeq2",
         "tidyr",
-        "ggplot2",
         "genefilter",
         "geneplotter",
         "annotate"
@@ -3076,7 +2899,6 @@
     "cpvSNP": [
         "GenomicFeatures",
         "GSEABase",
-        "ggplot2",
         "rtracklayer",
         "biomaRt",
         "annotate",
@@ -3142,7 +2964,6 @@
         "GenomicAlignments",
         "rio",
         "tidyr",
-        "ggplot2",
         "patchwork",
         "BiocFileCache",
         "ensembldb",
@@ -3156,7 +2977,6 @@
         "vroom"
     ],
     "CrispRVariants": [
-        "ggplot2",
         "GenomicAlignments"
     ],
     "crisprVerse": [
@@ -3181,7 +3001,6 @@
         "BiocFileCache",
         "Hmisc",
         "dbplyr",
-        "ggplot2",
         "viridis"
     ],
     "crisprViz": [
@@ -3204,7 +3023,6 @@
         "dbplyr",
         "ExperimentHub",
         "AnnotationHub",
-        "ggplot2",
         "viridis",
         "vroom"
     ],
@@ -3233,20 +3051,17 @@
         "WGCNA",
         "Hmisc",
         "GO.db",
-        "ggplot2",
         "viridis"
     ],
     "CSSQ": [
         "rtracklayer",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ggplot2",
         "biomaRt",
         "BiocFileCache",
         "dbplyr"
     ],
     "CTDquerier": [
-        "ggplot2",
         "BiocFileCache",
         "dbplyr"
     ],
@@ -3254,7 +3069,6 @@
         "AnnotationHub",
         "cowplot",
         "fgsea",
-        "ggplot2",
         "ggrepel",
         "highcharter",
         "readxl",
@@ -3264,13 +3078,10 @@
         "tidyr",
         "dbplyr"
     ],
-    "ctsGE": [
-        "ggplot2"
-    ],
+    "ctsGE": [],
     "CTSV": [
         "qvalue",
         "SpatialExperiment",
-        "ggplot2",
         "SingleCellExperiment",
         "DropletUtils",
         "BiocFileCache",
@@ -3278,7 +3089,6 @@
         "scuttle"
     ],
     "cummeRbund": [
-        "ggplot2",
         "rtracklayer",
         "Gviz",
         "biomaRt",
@@ -3297,8 +3107,7 @@
         "AnnotationHub",
         "ChemmineR",
         "BiocFileCache",
-        "dbplyr",
-        "ggplot2"
+        "dbplyr"
     ],
     "customProDB": [
         "biomaRt",
@@ -3313,7 +3122,6 @@
     "cyanoFilter": [
         "flowDensity",
         "cytometree",
-        "ggplot2",
         "GGally",
         "mrfDepth",
         "cowplot",
@@ -3334,14 +3142,12 @@
     ],
     "cydar": [
         "SingleCellExperiment",
-        "viridis",
-        "ggplot2"
+        "viridis"
     ],
     "CytoDx": [],
     "CyTOFpower": [
         "CytoGLMM",
         "diffcyt",
-        "ggplot2",
         "shinyFeedback",
         "shinyjs",
         "shinyMatrix",
@@ -3375,7 +3181,6 @@
     "CytoGLMM": [
         "cowplot",
         "factoextra",
-        "ggplot2",
         "mbest",
         "ggrepel",
         "tidyr",
@@ -3403,7 +3208,6 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "viridis",
-        "ggplot2",
         "ggbeeswarm",
         "shinydashboard",
         "DropletUtils",
@@ -3414,11 +3218,9 @@
     "CytoML": [
         "flowWorkspace",
         "openCyto",
-        "ggcyto",
-        "ggplot2"
+        "ggcyto"
     ],
     "dada2": [
-        "ggplot2",
         "ShortRead",
         "GenomicAlignments"
     ],
@@ -3427,7 +3229,6 @@
         "biomaRt",
         "motifStack",
         "BiocFileCache",
-        "ggplot2",
         "TFBSTools",
         "dbplyr",
         "BSgenome",
@@ -3443,7 +3244,6 @@
         "readr",
         "GenomicAlignments",
         "VariantAnnotation",
-        "ggplot2",
         "bumphunter",
         "cowplot",
         "GenomicFeatures",
@@ -3455,7 +3255,6 @@
         "dbplyr"
     ],
     "DaMiRseq": [
-        "ggplot2",
         "DESeq2",
         "EDASeq",
         "sva",
@@ -3494,13 +3293,11 @@
         "highcharter",
         "broom",
         "tidyr",
-        "vsn",
-        "ggplot2"
+        "vsn"
     ],
     "dasper": [
         "BiocFileCache",
         "GenomicFeatures",
-        "ggplot2",
         "ggpubr",
         "ggrepel",
         "megadepth",
@@ -3530,7 +3327,6 @@
         "tidyverse",
         "ggraph",
         "tidygraph",
-        "ggplot2",
         "epiNEM",
         "metap",
         "mnem",
@@ -3559,7 +3355,6 @@
         "vroom"
     ],
     "ddPCRclust": [
-        "ggplot2",
         "flowDensity",
         "car",
         "RFOC",
@@ -3577,7 +3372,6 @@
         "rematch2"
     ],
     "dearseq": [
-        "ggplot2",
         "patchwork",
         "scattermore"
     ],
@@ -3585,14 +3379,12 @@
         "NMF",
         "DMwR2",
         "readr",
-        "ggplot2",
         "vroom"
     ],
     "debrowser": [
         "shinyjs",
         "shinydashboard",
         "shinyBS",
-        "ggplot2",
         "annotate",
         "DESeq2",
         "DOSE",
@@ -3636,18 +3428,15 @@
         "treeio"
     ],
     "deco": [
-        "ggplot2",
         "BiocStyle",
         "made4"
     ],
     "DEComplexDisease": [
         "DESeq2",
         "geneplotter",
-        "ggplot2",
         "annotate"
     ],
     "decompTumor2Sig": [
-        "ggplot2",
         "GenomicFeatures",
         "BSgenome.Hsapiens.UCSC.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -3661,12 +3450,8 @@
         "GenomicAlignments",
         "dbplyr"
     ],
-    "DeconRNASeq": [
-        "ggplot2"
-    ],
-    "decontam": [
-        "ggplot2"
-    ],
+    "DeconRNASeq": [],
+    "decontam": [],
     "deconvR": [
         "methylKit",
         "rsq",
@@ -3675,7 +3460,6 @@
         "rtracklayer",
         "lme4",
         "nloptr",
-        "ggplot2",
         "GenomicAlignments",
         "testthat",
         "waldo",
@@ -3683,8 +3467,7 @@
     ],
     "decoupleR": [
         "broom",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "DeepBlueR": [
         "rtracklayer",
@@ -3704,8 +3487,7 @@
         "lexicon",
         "textclean",
         "syuzhet",
-        "vroom",
-        "ggplot2"
+        "vroom"
     ],
     "deepSNV": [
         "VariantAnnotation",
@@ -3720,14 +3502,12 @@
     "DEFormats": [
         "DESeq2",
         "geneplotter",
-        "ggplot2",
         "annotate"
     ],
     "DegNorm": [
         "GenomicFeatures",
         "GenomicAlignments",
         "heatmaply",
-        "ggplot2",
         "plotly",
         "viridis",
         "rtracklayer",
@@ -3747,7 +3527,6 @@
         "broom",
         "cowplot",
         "DESeq2",
-        "ggplot2",
         "ggdendro",
         "ggrepel",
         "tidyr",
@@ -3755,23 +3534,18 @@
         "annotate"
     ],
     "DEGseq": [
-        "qvalue",
-        "ggplot2"
+        "qvalue"
     ],
     "deltaCaptureC": [
-        "ggplot2",
         "DESeq2",
         "geneplotter",
         "annotate"
     ],
-    "deltaGseg": [
-        "ggplot2"
-    ],
+    "deltaGseg": [],
     "DeMixT": [
         "DSS",
         "dendextend",
         "sva",
-        "ggplot2",
         "viridis",
         "bsseq",
         "genefilter",
@@ -3780,11 +3554,8 @@
         "rtracklayer",
         "GenomicAlignments"
     ],
-    "demuxmix": [
-        "ggplot2"
-    ],
+    "demuxmix": [],
     "DEP": [
-        "ggplot2",
         "readr",
         "tidyr",
         "MSnbase",
@@ -3794,15 +3565,12 @@
         "vroom"
     ],
     "DepecheR": [
-        "ggplot2",
         "viridis",
         "mixOmics",
         "tidyr",
         "ggrepel"
     ],
-    "DEqMS": [
-        "ggplot2"
-    ],
+    "DEqMS": [],
     "derfinder": [
         "bumphunter",
         "GenomicAlignments",
@@ -3813,7 +3581,6 @@
         "rtracklayer",
         "biomaRt",
         "VariantAnnotation",
-        "ggplot2",
         "viridis",
         "BiocFileCache",
         "BSgenome",
@@ -3823,7 +3590,6 @@
         "derfinder",
         "GenomicFeatures",
         "ggbio",
-        "ggplot2",
         "bumphunter",
         "GenomicAlignments",
         "GenomicFiles",
@@ -3849,7 +3615,6 @@
         "ensembldb",
         "GenomicFeatures",
         "biomaRt",
-        "ggplot2",
         "InteractionSet",
         "regioneR",
         "BiocFileCache",
@@ -3858,12 +3623,10 @@
     ],
     "DESeq2": [
         "geneplotter",
-        "ggplot2",
         "annotate"
     ],
     "destiny": [
         "SingleCellExperiment",
-        "ggplot2",
         "ggplot.multistats",
         "tidyr",
         "ggthemes",
@@ -3880,7 +3643,6 @@
     "DEsubs": [
         "EBSeq",
         "NBPSeq",
-        "ggplot2",
         "DESeq2",
         "geneplotter",
         "testthat",
@@ -3892,7 +3654,6 @@
     "DEWSeq": [
         "DESeq2",
         "geneplotter",
-        "ggplot2",
         "annotate"
     ],
     "DExMA": [
@@ -3910,18 +3671,15 @@
         "geneplotter",
         "genefilter",
         "BiocFileCache",
-        "ggplot2",
         "annotate",
         "dbplyr"
     ],
     "DIAlignR": [
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "DiffBind": [
         "GenomicAlignments",
         "systemPipeR",
-        "ggplot2",
         "DESeq2",
         "ggrepel",
         "apeglm",
@@ -3936,7 +3694,6 @@
         "WGCNA",
         "Hmisc",
         "GO.db",
-        "ggplot2",
         "viridis"
     ],
     "diffcyt": [
@@ -3945,7 +3702,6 @@
         "tidyr",
         "ggforce",
         "ggnewscale",
-        "ggplot2",
         "ggpubr",
         "nloptr",
         "ggrepel",
@@ -3963,7 +3719,6 @@
     "DifferentialRegulation": [
         "BANDITS",
         "SingleCellExperiment",
-        "ggplot2",
         "DRIMSeq"
     ],
     "diffHic": [
@@ -3974,12 +3729,10 @@
         "GenomicAlignments"
     ],
     "diffuStats": [
-        "precrec",
-        "ggplot2"
+        "precrec"
     ],
     "diffUTR": [
         "DEXSeq",
-        "ggplot2",
         "rtracklayer",
         "ggrepel",
         "ensembldb",
@@ -3999,7 +3752,6 @@
         "scran",
         "scuttle",
         "cowplot",
-        "ggplot2",
         "ggrepel",
         "ggridges",
         "miniUI",
@@ -4011,7 +3763,6 @@
     ],
     "discordant": [],
     "DiscoRhythm": [
-        "ggplot2",
         "ggExtra",
         "broom",
         "shinyBS",
@@ -4033,7 +3784,6 @@
     ],
     "distinct": [
         "SingleCellExperiment",
-        "ggplot2",
         "scater",
         "scuttle",
         "ggbeeswarm",
@@ -4042,7 +3792,6 @@
         "ggrepel"
     ],
     "dittoSeq": [
-        "ggplot2",
         "cowplot",
         "ggrepel",
         "ggridges",
@@ -4098,7 +3847,6 @@
         "annotate",
         "readr",
         "tidyr",
-        "ggplot2",
         "FDb.InfiniumMethylation.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "viridis",
@@ -4117,12 +3865,10 @@
         "Hmisc",
         "VariantAnnotation",
         "dbplyr",
-        "ggplot2",
         "viridis"
     ],
     "dmrseq": [
         "bsseq",
-        "ggplot2",
         "bumphunter",
         "annotatr",
         "AnnotationHub",
@@ -4145,8 +3891,7 @@
     ],
     "DNAshapeR": [
         "fields",
-        "viridis",
-        "ggplot2"
+        "viridis"
     ],
     "DominoEffect": [
         "biomaRt",
@@ -4166,7 +3911,6 @@
     "Doscheda": [
         "drc",
         "vsn",
-        "ggplot2",
         "shinydashboard",
         "readxl",
         "car",
@@ -4182,7 +3926,6 @@
     "DOSE": [
         "HDO.db",
         "fgsea",
-        "ggplot2",
         "GOSemSim",
         "qvalue",
         "cowplot",
@@ -4201,14 +3944,11 @@
         "GenomicAlignments"
     ],
     "drawProteins": [
-        "ggplot2",
         "readr",
         "tidyr",
         "vroom"
     ],
-    "DRIMSeq": [
-        "ggplot2"
-    ],
+    "DRIMSeq": [],
     "DropletUtils": [
         "SingleCellExperiment",
         "scuttle"
@@ -4237,7 +3977,6 @@
         "readr",
         "tidyr",
         "org.Hs.eg.db",
-        "ggplot2",
         "dbplyr",
         "oligoClasses",
         "vroom"
@@ -4248,11 +3987,8 @@
         "rtracklayer",
         "GenomicAlignments"
     ],
-    "dStruct": [
-        "ggplot2"
-    ],
+    "dStruct": [],
     "Dune": [
-        "ggplot2",
         "tidyr",
         "gganimate"
     ],
@@ -4261,7 +3997,6 @@
         "easierData",
         "dorothea",
         "quantiseqr",
-        "ggplot2",
         "ggpubr",
         "DESeq2",
         "rstatix",
@@ -4289,7 +4024,6 @@
     ],
     "EasyCellType": [
         "clusterProfiler",
-        "ggplot2",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "DOSE",
@@ -4328,7 +4062,6 @@
     "EBSEA": [
         "DESeq2",
         "geneplotter",
-        "ggplot2",
         "annotate"
     ],
     "EBSeq": [
@@ -4355,7 +4088,6 @@
         "sva",
         "snm",
         "qvalue",
-        "ggplot2",
         "lme4",
         "genefilter",
         "annotate",
@@ -4368,7 +4100,6 @@
         "sna",
         "DESeq2",
         "clusterProfiler",
-        "ggplot2",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "DOSE",
@@ -4412,7 +4143,6 @@
         "PADOG",
         "GSVA",
         "globaltest",
-        "ggplot2",
         "safe",
         "metap",
         "org.Hs.eg.db",
@@ -4430,13 +4160,11 @@
         "tidyr"
     ],
     "eiR": [
-        "ChemmineR",
-        "ggplot2"
+        "ChemmineR"
     ],
     "eisaR": [],
     "ELMER": [
         "ELMER.data",
-        "ggplot2",
         "GenomicFeatures",
         "TCGAbiolinks",
         "Gviz",
@@ -4472,11 +4200,8 @@
         "waldo",
         "rematch2"
     ],
-    "EMDomics": [
-        "ggplot2"
-    ],
+    "EMDomics": [],
     "EnhancedVolcano": [
-        "ggplot2",
         "ggrepel"
     ],
     "enhancerHomologSearch": [
@@ -4489,7 +4214,6 @@
         "GenomicAlignments",
         "CNEr",
         "readr",
-        "ggplot2",
         "annotate",
         "GO.db",
         "vroom"
@@ -4528,7 +4252,6 @@
         "aplot",
         "DOSE",
         "ggnewscale",
-        "ggplot2",
         "ggraph",
         "scatterpie",
         "shadowtext",
@@ -4558,7 +4281,6 @@
         "TFBSTools",
         "JASPAR2018",
         "ggpubr",
-        "ggplot2",
         "clusterProfiler",
         "DOSE",
         "enrichplot",
@@ -4625,7 +4347,6 @@
         "BRGenomics",
         "ChIPseeker",
         "genomation",
-        "ggplot2",
         "plotly",
         "rtracklayer",
         "BiocFileCache",
@@ -4667,7 +4388,6 @@
     ],
     "epidecodeR": [
         "EnvStats",
-        "ggplot2",
         "rtracklayer",
         "rstatix",
         "ggpubr",
@@ -4687,14 +4407,12 @@
         "rematch2"
     ],
     "epigenomix": [
-        "beadarray",
-        "ggplot2"
+        "beadarray"
     ],
     "epigraHMM": [
         "rtracklayer",
         "csaw",
         "ggpubr",
-        "ggplot2",
         "GreyListChIP",
         "ggrepel",
         "ggsci",
@@ -4714,7 +4432,6 @@
         "rematch2"
     ],
     "epihet": [
-        "ggplot2",
         "EntropyExplorer",
         "qvalue",
         "WGCNA",
@@ -4755,7 +4472,6 @@
         "ExperimentHub",
         "GenomicFeatures",
         "GEOquery",
-        "ggplot2",
         "tidyr",
         "BiocFileCache",
         "rtracklayer",
@@ -4767,7 +4483,6 @@
     "epimutacions": [
         "minfi",
         "bumphunter",
-        "ggplot2",
         "GenomicFeatures",
         "biomaRt",
         "Homo.sapiens",
@@ -4805,13 +4520,11 @@
     "epiNEM": [
         "mnem",
         "Linnorm",
-        "ggplot2",
         "ggdendro"
     ],
     "epistack": [],
     "epistasisGA": [
         "qgraph",
-        "ggplot2",
         "Hmisc",
         "viridis"
     ],
@@ -4823,8 +4536,7 @@
         "rtracklayer",
         "biomaRt",
         "tRNA",
-        "GenomicAlignments",
-        "ggplot2"
+        "GenomicAlignments"
     ],
     "epivizr": [
         "epivizrData",
@@ -4873,14 +4585,12 @@
         "dbplyr"
     ],
     "erccdashboard": [
-        "ggplot2",
         "qvalue"
     ],
     "erma": [
         "Homo.sapiens",
         "GenomicFiles",
         "rtracklayer",
-        "ggplot2",
         "GenomicAlignments",
         "VariantAnnotation",
         "OrganismDbi",
@@ -4895,7 +4605,6 @@
     ],
     "ERSSA": [
         "DESeq2",
-        "ggplot2",
         "geneplotter",
         "annotate"
     ],
@@ -4904,7 +4613,6 @@
         "pipeFrame",
         "Rbowtie2",
         "rtracklayer",
-        "ggplot2",
         "ChIPseeker",
         "clusterProfiler",
         "BSgenome",
@@ -4948,7 +4656,6 @@
         "vroom"
     ],
     "escape": [
-        "ggplot2",
         "GSEABase",
         "GSVA",
         "SingleCellExperiment",
@@ -4967,7 +4674,6 @@
     "eudysbiome": [],
     "evaluomeR": [
         "MultiAssayExperiment",
-        "ggplot2",
         "ggdendro",
         "kableExtra",
         "rvest",
@@ -4980,7 +4686,6 @@
         "BSgenome",
         "fgsea",
         "rtracklayer",
-        "ggplot2",
         "cowplot",
         "biomaRt",
         "GenomicAlignments",
@@ -4989,7 +4694,6 @@
     ],
     "EWCE": [
         "ewceData",
-        "ggplot2",
         "SingleCellExperiment",
         "orthogene",
         "ExperimentHub",
@@ -5034,7 +4738,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "DESeq2",
-        "ggplot2",
         "BSgenome",
         "rtracklayer",
         "geneplotter",
@@ -5077,7 +4780,6 @@
         "shinydashboard",
         "cowplot",
         "tidyr",
-        "ggplot2",
         "rintrojs",
         "shinyjs"
     ],
@@ -5085,7 +4787,6 @@
         "BiocStyle"
     ],
     "extraChIPs": [
-        "ggplot2",
         "broom",
         "ComplexUpset",
         "csaw",
@@ -5116,7 +4817,6 @@
         "tidyr",
         "wiggleplotr",
         "drawProteins",
-        "ggplot2",
         "readr",
         "biomaRt",
         "GenomicAlignments",
@@ -5127,7 +4827,6 @@
     ],
     "FamAgg": [
         "gap",
-        "ggplot2",
         "plotly",
         "tidyr"
     ],
@@ -5147,7 +4846,6 @@
         "GOSemSim",
         "gson",
         "qvalue",
-        "ggplot2",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -5171,7 +4869,6 @@
         "LiquidAssociation",
         "Hmisc",
         "WGCNA",
-        "ggplot2",
         "viridis",
         "geepack",
         "org.Sc.sgd.db",
@@ -5184,13 +4881,10 @@
         "shinyBS",
         "GenomicAlignments"
     ],
-    "FCBF": [
-        "ggplot2"
-    ],
+    "FCBF": [],
     "fCCAC": [
         "fda",
         "genomation",
-        "ggplot2",
         "fds",
         "BSgenome",
         "GenomicAlignments",
@@ -5202,7 +4896,6 @@
     ],
     "fcoex": [
         "FCBF",
-        "ggplot2",
         "ggrepel",
         "intergraph",
         "clusterProfiler",
@@ -5247,11 +4940,9 @@
         "SingleCellExperiment",
         "TSCAN",
         "SC3",
-        "ggplot2",
         "TrajectoryUtils"
     ],
     "fedup": [
-        "ggplot2",
         "ggthemes",
         "RCy3",
         "IRkernel"
@@ -5261,7 +4952,6 @@
         "methylumi",
         "GenomicFeatures",
         "annotate",
-        "ggplot2",
         "FDb.InfiniumMethylation.hg19",
         "minfi",
         "genefilter",
@@ -5283,7 +4973,6 @@
         "dbplyr"
     ],
     "fgsea": [
-        "ggplot2",
         "cowplot"
     ],
     "FilterFFPE": [],
@@ -5291,7 +4980,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "patchwork",
-        "ggplot2",
         "qvalue",
         "ggrepel",
         "tidyr",
@@ -5303,8 +4991,7 @@
     ],
     "fishpond": [
         "qvalue",
-        "SingleCellExperiment",
-        "ggplot2"
+        "SingleCellExperiment"
     ],
     "flagme": [
         "xcms",
@@ -5312,7 +4999,6 @@
         "Hmisc",
         "MSnbase",
         "MsFeatures",
-        "ggplot2",
         "viridis",
         "vsn"
     ],
@@ -5324,7 +5010,6 @@
         "scuttle",
         "rtracklayer",
         "ggbio",
-        "ggplot2",
         "scran",
         "cowplot",
         "bambu",
@@ -5346,17 +5031,12 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "flowAI": [
-        "ggplot2"
-    ],
+    "flowAI": [],
     "flowcatchR": [
         "plotly",
-        "ggplot2",
         "tidyr"
     ],
-    "flowCHIC": [
-        "ggplot2"
-    ],
+    "flowCHIC": [],
     "flowCL": [
         "SPARQL"
     ],
@@ -5367,7 +5047,6 @@
         "flowWorkspace",
         "pbkrtest",
         "lme4",
-        "ggplot2",
         "GEOmap",
         "fields",
         "nloptr",
@@ -5384,7 +5063,6 @@
         "flowWorkspace",
         "pbkrtest",
         "lme4",
-        "ggplot2",
         "GEOmap",
         "fields",
         "nloptr",
@@ -5397,8 +5075,7 @@
     ],
     "flowGraph": [
         "ggiraph",
-        "ggrepel",
-        "ggplot2"
+        "ggrepel"
     ],
     "flowPloidy": [
         "car",
@@ -5407,7 +5084,6 @@
         "nloptr",
         "broom",
         "tidyr",
-        "ggplot2",
         "testthat",
         "waldo",
         "rematch2"
@@ -5415,7 +5091,6 @@
     "FlowSOM": [
         "ggforce",
         "ggnewscale",
-        "ggplot2",
         "ggpubr",
         "tidyr",
         "ggrepel",
@@ -5432,14 +5107,11 @@
         "waldo",
         "rematch2"
     ],
-    "flowSpecs": [
-        "ggplot2"
-    ],
+    "flowSpecs": [],
     "flowStats": [
         "flowWorkspace",
         "fda",
         "fds",
-        "ggplot2",
         "rainbow",
         "hdrcde"
     ],
@@ -5449,20 +5121,15 @@
         "flowWorkspace",
         "fda",
         "fds",
-        "ggplot2",
         "rainbow",
         "hdrcde"
     ],
-    "flowWorkspace": [
-        "ggplot2"
-    ],
+    "flowWorkspace": [],
     "fmcsR": [
-        "ChemmineR",
-        "ggplot2"
+        "ChemmineR"
     ],
     "fobitools": [
         "fgsea",
-        "ggplot2",
         "ggraph",
         "RecordLinkage",
         "textclean",
@@ -5479,7 +5146,6 @@
     ],
     "FoldGO": [
         "topGO",
-        "ggplot2",
         "tidyr",
         "GO.db"
     ],
@@ -5489,7 +5155,6 @@
         "cowplot",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ggplot2",
         "ggrepel",
         "OUTRIDER",
         "plotly",
@@ -5513,7 +5178,6 @@
         "nloptr",
         "broom",
         "tidyr",
-        "ggplot2",
         "testthat",
         "waldo",
         "rematch2"
@@ -5522,8 +5186,7 @@
         "fda",
         "fds",
         "rainbow",
-        "hdrcde",
-        "ggplot2"
+        "hdrcde"
     ],
     "frma": [
         "oligo",
@@ -5534,8 +5197,7 @@
         "GenomicAlignments",
         "fds",
         "rainbow",
-        "hdrcde",
-        "ggplot2"
+        "hdrcde"
     ],
     "funtooNorm": [
         "minfi",
@@ -5558,7 +5220,6 @@
     "FuseSOM": [
         "FCPS",
         "ggplotify",
-        "ggplot2",
         "ggpubr",
         "DataVisualizations",
         "ggrepel",
@@ -5604,7 +5265,6 @@
         "GO.db"
     ],
     "GARS": [
-        "ggplot2",
         "DaMiRseq",
         "MLSeq",
         "DESeq2",
@@ -5640,7 +5300,6 @@
         "broom"
     ],
     "GBScleanR": [
-        "ggplot2",
         "tidyr"
     ],
     "gcapc": [
@@ -5648,9 +5307,7 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "gCrisprTools": [
-        "ggplot2"
-    ],
+    "gCrisprTools": [],
     "GCSscore": [
         "devtools",
         "miniUI",
@@ -5667,7 +5324,6 @@
         "biomaRt",
         "survminer",
         "pathview",
-        "ggplot2",
         "GenomicDataCommons",
         "BiocFileCache",
         "enrichplot",
@@ -5715,12 +5371,8 @@
         "rematch2"
     ],
     "GDSArray": [],
-    "GEM": [
-        "ggplot2"
-    ],
-    "gemini": [
-        "ggplot2"
-    ],
+    "GEM": [],
+    "gemini": [],
     "gemma.R": [
         "tidyr"
     ],
@@ -5736,7 +5388,6 @@
     ],
     "GeneAccord": [
         "biomaRt",
-        "ggplot2",
         "ggpubr",
         "BiocFileCache",
         "ggrepel",
@@ -5780,7 +5431,6 @@
     "GeneGeneInteR": [
         "FactoMineR",
         "car",
-        "ggplot2",
         "ggrepel",
         "pbkrtest",
         "lme4",
@@ -5804,8 +5454,7 @@
         "logistf",
         "mice",
         "broom",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "GeneStructureTools": [
         "BSgenome.Mmusculus.UCSC.mm10",
@@ -5821,7 +5470,6 @@
         "Hmisc",
         "VariantAnnotation",
         "dbplyr",
-        "ggplot2",
         "viridis"
     ],
     "GeneTonic": [
@@ -5831,7 +5479,6 @@
         "dendextend",
         "DESeq2",
         "ggforce",
-        "ggplot2",
         "ggrepel",
         "GO.db",
         "plotly",
@@ -5860,7 +5507,6 @@
     "genomation": [
         "BSgenome",
         "GenomicAlignments",
-        "ggplot2",
         "readr",
         "rtracklayer",
         "vroom"
@@ -5876,7 +5522,6 @@
         "vroom"
     ],
     "GenomicDistributions": [
-        "ggplot2",
         "broom",
         "tidyr"
     ],
@@ -5910,7 +5555,6 @@
     "GenomicInteractions": [
         "InteractionSet",
         "rtracklayer",
-        "ggplot2",
         "Gviz",
         "biomaRt",
         "GenomicFeatures",
@@ -5926,7 +5570,6 @@
     ],
     "GenomicOZone": [
         "biomaRt",
-        "ggplot2",
         "ggbio",
         "BiocFileCache",
         "Hmisc",
@@ -5949,7 +5592,6 @@
         "dbplyr"
     ],
     "GenomicSuperSignature": [
-        "ggplot2",
         "ggpubr",
         "plotly",
         "BiocFileCache",
@@ -5971,7 +5613,6 @@
     ],
     "genotypeeval": [
         "VariantAnnotation",
-        "ggplot2",
         "rtracklayer",
         "GenomicAlignments",
         "BSgenome",
@@ -5995,13 +5636,11 @@
         "textclean",
         "rvest",
         "syuzhet",
-        "vroom",
-        "ggplot2"
+        "vroom"
     ],
     "GenVisR": [
         "biomaRt",
         "GenomicFeatures",
-        "ggplot2",
         "viridis",
         "BSgenome",
         "VariantAnnotation",
@@ -6019,7 +5658,6 @@
         "EnvStats",
         "lmerTest",
         "GGally",
-        "ggplot2",
         "nloptr",
         "ggbeeswarm",
         "ggiraph",
@@ -6035,7 +5673,6 @@
         "heatmaply",
         "shinyHeatmaply",
         "shinybusy",
-        "ggplot2",
         "GEOquery",
         "dendextend",
         "FactoMineR",
@@ -6075,7 +5712,6 @@
         "EnvStats",
         "lmerTest",
         "GGally",
-        "ggplot2",
         "tidyr",
         "lme4",
         "ggbeeswarm",
@@ -6096,7 +5732,6 @@
         "annotate"
     ],
     "gespeR": [
-        "ggplot2",
         "cellHTS2",
         "biomaRt",
         "BiocFileCache",
@@ -6115,13 +5750,11 @@
         "nloptr",
         "broom",
         "tidyr",
-        "ggplot2",
         "testthat",
         "waldo",
         "rematch2"
     ],
     "ggbio": [
-        "ggplot2",
         "Hmisc",
         "biovizBase",
         "GenomicAlignments",
@@ -6139,15 +5772,12 @@
         "dbplyr"
     ],
     "ggcyto": [
-        "ggplot2",
         "flowWorkspace"
     ],
     "ggmanh": [
-        "ggplot2",
         "ggrepel"
     ],
     "ggmsa": [
-        "ggplot2",
         "tidyr",
         "aplot",
         "ggalt",
@@ -6164,11 +5794,9 @@
     "GGPA": [
         "GGally",
         "sna",
-        "ggplot2",
         "tidyr"
     ],
     "ggspavis": [
-        "ggplot2",
         "SpatialExperiment",
         "SingleCellExperiment",
         "ggside",
@@ -6179,7 +5807,6 @@
     ],
     "ggtree": [
         "aplot",
-        "ggplot2",
         "ggfun",
         "tidyr",
         "tidytree",
@@ -6189,7 +5816,6 @@
     ],
     "ggtreeDendro": [
         "ggtree",
-        "ggplot2",
         "tidytree",
         "aplot",
         "ggfun",
@@ -6199,7 +5825,6 @@
         "patchwork"
     ],
     "ggtreeExtra": [
-        "ggplot2",
         "ggnewscale",
         "ggtree",
         "tidytree",
@@ -6220,18 +5845,15 @@
         "HH",
         "annotate",
         "Hmisc",
-        "ggplot2",
         "viridis"
     ],
     "GladiaTOX": [
-        "ggplot2",
         "ggrepel",
         "tidyr"
     ],
     "Glimma": [
         "DESeq2",
         "geneplotter",
-        "ggplot2",
         "annotate"
     ],
     "glmGamPoi": [
@@ -6241,7 +5863,6 @@
         "MultiAssayExperiment",
         "biomaRt",
         "readr",
-        "ggplot2",
         "survminer",
         "BiocFileCache",
         "tidyr",
@@ -6269,7 +5890,6 @@
         "annotate",
         "dendextend",
         "GSEABase",
-        "ggplot2",
         "viridis"
     ],
     "globaltest": [
@@ -6300,7 +5920,6 @@
         "broom",
         "Hmisc",
         "tidyr",
-        "ggplot2",
         "viridis"
     ],
     "gmoviz": [
@@ -6312,7 +5931,6 @@
         "dbplyr"
     ],
     "GNET2": [
-        "ggplot2",
         "DiagrammeR",
         "readr",
         "tidyr",
@@ -6321,7 +5939,6 @@
     ],
     "GOexpress": [
         "biomaRt",
-        "ggplot2",
         "BiocFileCache",
         "dbplyr"
     ],
@@ -6331,7 +5948,6 @@
         "org.Hs.eg.db",
         "GO.db",
         "MultiAssayExperiment",
-        "ggplot2",
         "viridis",
         "tidyr"
     ],
@@ -6370,7 +5986,6 @@
         "tidyr",
         "HDO.db",
         "fgsea",
-        "ggplot2",
         "aplot",
         "ggnewscale",
         "ggraph",
@@ -6402,21 +6017,17 @@
         "GSEABase",
         "genefilter"
     ],
-    "GOsummaries": [
-        "ggplot2"
-    ],
+    "GOsummaries": [],
     "GOTHiC": [
         "BSgenome",
         "ShortRead",
         "rtracklayer",
-        "ggplot2",
         "GenomicAlignments"
     ],
     "goTools": [
         "GO.db"
     ],
     "GPA": [
-        "ggplot2",
         "ggrepel",
         "shinyBS"
     ],
@@ -6427,7 +6038,6 @@
     "GRaNIE": [
         "patchwork",
         "DESeq2",
-        "ggplot2",
         "readr",
         "tidyr",
         "viridis",
@@ -6441,18 +6051,14 @@
     "granulator": [
         "cowplot",
         "epiR",
-        "ggplot2",
         "ggplotify",
         "tidyr"
     ],
     "graper": [
-        "ggplot2",
         "cowplot"
     ],
     "graphite": [],
-    "GRENITS": [
-        "ggplot2"
-    ],
+    "GRENITS": [],
     "GreyListChIP": [
         "GenomicAlignments",
         "BSgenome",
@@ -6461,7 +6067,6 @@
     "GRmetrics": [
         "drc",
         "plotly",
-        "ggplot2",
         "car",
         "tidyr",
         "pbkrtest",
@@ -6476,9 +6081,7 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "GSCA": [
-        "ggplot2"
-    ],
+    "GSCA": [],
     "gscreend": [
         "nloptr",
         "testthat",
@@ -6505,14 +6108,12 @@
     "GSEAmining": [
         "tidytext",
         "dendextend",
-        "ggplot2",
         "ggwordcloud",
         "viridis"
     ],
     "gsean": [
         "fgsea",
         "PPInfer",
-        "ggplot2",
         "cowplot",
         "biomaRt",
         "STRINGdb",
@@ -6551,7 +6152,6 @@
         "GenomicFeatures",
         "rio",
         "tidyr",
-        "ggplot2",
         "patchwork",
         "rtracklayer",
         "ensembldb",
@@ -6570,7 +6170,6 @@
     "Guitar": [
         "GenomicFeatures",
         "rtracklayer",
-        "ggplot2",
         "biomaRt",
         "GenomicAlignments",
         "BiocFileCache",
@@ -6588,12 +6187,10 @@
         "Hmisc",
         "VariantAnnotation",
         "dbplyr",
-        "ggplot2",
         "viridis"
     ],
     "GWAS.BAYES": [
         "caret",
-        "ggplot2",
         "recipes",
         "ipred",
         "tidyr"
@@ -6615,8 +6212,7 @@
         "logistf",
         "mice",
         "broom",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "gwasurvivr": [
         "GWASTools",
@@ -6631,12 +6227,10 @@
         "BiocFileCache",
         "broom",
         "tidyr",
-        "dbplyr",
-        "ggplot2"
+        "dbplyr"
     ],
     "GWENA": [
         "WGCNA",
-        "ggplot2",
         "gprofiler2",
         "tidyr",
         "plotly",
@@ -6644,9 +6238,7 @@
         "GO.db",
         "viridis"
     ],
-    "h5vc": [
-        "ggplot2"
-    ],
+    "h5vc": [],
     "hca": [
         "tidyr",
         "readr",
@@ -6670,7 +6262,6 @@
         "biomaRt",
         "DESeq2",
         "EnvStats",
-        "ggplot2",
         "ggrepel",
         "MultiAssayExperiment",
         "tidyr",
@@ -6681,24 +6272,20 @@
     ],
     "HGC": [
         "dendextend",
-        "ggplot2",
         "patchwork",
         "viridis"
     ],
     "hiAnnotator": [
         "rtracklayer",
         "BSgenome",
-        "ggplot2",
         "GenomicAlignments"
     ],
     "HiCBricks": [
-        "ggplot2",
         "viridis",
         "readr",
         "vroom"
     ],
     "HiCcompare": [
-        "ggplot2",
         "InteractionSet",
         "QDNAseq"
     ],
@@ -6708,7 +6295,6 @@
         "BSgenome",
         "tidyr",
         "rtracklayer",
-        "ggplot2",
         "Gviz",
         "GenomicAlignments",
         "biomaRt",
@@ -6723,7 +6309,6 @@
     ],
     "HiCDOC": [
         "InteractionSet",
-        "ggplot2",
         "ggpubr",
         "ggExtra",
         "multiHiCcompare",
@@ -6753,7 +6338,6 @@
         "GenomicInteractions",
         "vroom",
         "tidyr",
-        "ggplot2",
         "ggrastr",
         "rtracklayer",
         "Gviz",
@@ -6773,7 +6357,6 @@
         "viridis"
     ],
     "HiLDA": [
-        "ggplot2",
         "cowplot",
         "GenomicFeatures",
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -6795,7 +6378,6 @@
         "dbplyr"
     ],
     "HIPPO": [
-        "ggplot2",
         "SingleCellExperiment",
         "ggrepel"
     ],
@@ -6804,16 +6386,13 @@
         "hiAnnotator",
         "readxl",
         "rtracklayer",
-        "BSgenome",
-        "ggplot2"
+        "BSgenome"
     ],
     "HiTC": [
         "rtracklayer",
         "GenomicAlignments"
     ],
-    "HPAanalyze": [
-        "ggplot2"
-    ],
+    "HPAanalyze": [],
     "HPAStainR": [
         "tidyr"
     ],
@@ -6821,7 +6400,6 @@
         "readr",
         "tidyr",
         "caret",
-        "ggplot2",
         "recipes",
         "vroom",
         "ipred"
@@ -6843,7 +6421,6 @@
     "HTSFilter": [
         "DESeq2",
         "geneplotter",
-        "ggplot2",
         "annotate"
     ],
     "HubPub": [
@@ -6855,7 +6432,6 @@
     ],
     "hummingbird": [],
     "hypeR": [
-        "ggplot2",
         "ggforce",
         "msigdbr",
         "kableExtra",
@@ -6865,19 +6441,14 @@
     "iasva": [],
     "iBBiG": [
         "biclust",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
-    "iBMQ": [
-        "ggplot2"
-    ],
+    "iBMQ": [],
     "iCARE": [
         "Hmisc",
-        "ggplot2",
         "viridis"
     ],
     "icetea": [
-        "ggplot2",
         "GenomicFeatures",
         "ShortRead",
         "GenomicAlignments",
@@ -6900,7 +6471,6 @@
         "annotate",
         "rtracklayer",
         "biomaRt",
-        "ggplot2",
         "FDb.InfiniumMethylation.hg19",
         "minfi",
         "genefilter",
@@ -6918,7 +6488,6 @@
     "iCNV": [
         "CODEX",
         "fields",
-        "ggplot2",
         "tidyr",
         "BSgenome.Hsapiens.UCSC.hg19",
         "viridis",
@@ -6929,13 +6498,11 @@
     "iCOBRA": [
         "shinydashboard",
         "shinyBS",
-        "ggplot2",
         "UpSetR"
     ],
     "ideal": [
         "topGO",
         "DESeq2",
-        "ggplot2",
         "heatmaply",
         "plotly",
         "pcaExplorer",
@@ -6974,15 +6541,10 @@
     "idiogram": [
         "annotate"
     ],
-    "idpr": [
-        "ggplot2"
-    ],
-    "idr2d": [
-        "ggplot2"
-    ],
+    "idpr": [],
+    "idr2d": [],
     "IgGeneUsage": [
-        "rstan",
-        "ggplot2"
+        "rstan"
     ],
     "igvR": [
         "GenomicAlignments",
@@ -6995,7 +6557,6 @@
         "dbplyr"
     ],
     "ILoReg": [
-        "ggplot2",
         "cowplot",
         "dendextend",
         "DescTools",
@@ -7009,12 +6570,10 @@
         "genefilter",
         "GSEABase",
         "Category",
-        "ggplot2",
         "annotate"
     ],
     "IMAS": [
         "GenomicFeatures",
-        "ggplot2",
         "IVAS",
         "lme4",
         "ggfortify",
@@ -7039,7 +6598,6 @@
         "vroom",
         "ggraph",
         "tidygraph",
-        "ggplot2",
         "concaveman",
         "ggbeeswarm",
         "shinydashboard",
@@ -7055,7 +6613,6 @@
         "sqldf"
     ],
     "ImmuneSpaceR": [
-        "ggplot2",
         "plotly",
         "heatmaply",
         "flowWorkspace",
@@ -7065,7 +6622,6 @@
         "tidyr"
     ],
     "immunotation": [
-        "ggplot2",
         "readr",
         "rvest",
         "tidyr",
@@ -7080,7 +6636,6 @@
         "rematch2"
     ],
     "infercnv": [
-        "ggplot2",
         "coin",
         "Seurat",
         "SingleCellExperiment",
@@ -7098,7 +6653,6 @@
         "BSgenome",
         "cleanUpdTSeq",
         "GenomicFeatures",
-        "ggplot2",
         "plyranges",
         "readr",
         "rtracklayer",
@@ -7116,7 +6670,6 @@
         "rtracklayer",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "geneplotter",
-        "ggplot2",
         "biomaRt",
         "BiocFileCache",
         "annotate",
@@ -7126,7 +6679,6 @@
         "MultiAssayExperiment",
         "rtracklayer",
         "qvalue",
-        "ggplot2",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -7146,7 +6698,6 @@
     ],
     "intansv": [
         "ggbio",
-        "ggplot2",
         "Hmisc",
         "biovizBase",
         "GenomicAlignments",
@@ -7169,7 +6720,6 @@
         "rvest"
     ],
     "interactiveDisplay": [
-        "ggplot2",
         "Category",
         "GSEABase",
         "genefilter",
@@ -7183,7 +6733,6 @@
         "colourpicker",
         "dendextend",
         "factoextra",
-        "ggplot2",
         "plotly",
         "shinyFeedback",
         "shinyalert",
@@ -7216,7 +6765,6 @@
         "DEXSeq",
         "DESeq2",
         "geneplotter",
-        "ggplot2",
         "biomaRt",
         "genefilter",
         "rtracklayer",
@@ -7230,12 +6778,10 @@
     "IONiseR": [
         "tidyr",
         "ShortRead",
-        "ggplot2",
         "GenomicAlignments"
     ],
     "iPath": [
         "ggpubr",
-        "ggplot2",
         "survminer",
         "ggrepel",
         "ggsci",
@@ -7265,12 +6811,10 @@
         "Hmisc",
         "MSnbase",
         "MsFeatures",
-        "ggplot2",
         "viridis",
         "vsn"
     ],
     "IRISFGM": [
-        "ggplot2",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "AdaptGauss",
@@ -7329,7 +6873,6 @@
     "ISAnalytics": [
         "readr",
         "tidyr",
-        "ggplot2",
         "ggrepel",
         "readxl",
         "shinyWidgets",
@@ -7345,7 +6888,6 @@
         "shinyAce",
         "shinyjs",
         "rintrojs",
-        "ggplot2",
         "ggrepel",
         "colourpicker",
         "shinyWidgets",
@@ -7353,7 +6895,6 @@
     ],
     "iSEEhex": [
         "iSEE",
-        "ggplot2",
         "SingleCellExperiment",
         "shinydashboard",
         "shinyAce",
@@ -7374,7 +6915,6 @@
         "shinyjs",
         "BiocFileCache",
         "shinyAce",
-        "ggplot2",
         "ggrepel",
         "colourpicker",
         "shinyWidgets",
@@ -7385,7 +6925,6 @@
         "iSEE",
         "iSEEhex",
         "SingleCellExperiment",
-        "ggplot2",
         "colourpicker",
         "shinyAce",
         "miniUI",
@@ -7398,7 +6937,6 @@
     "ISLET": [],
     "isobar": [
         "biomaRt",
-        "ggplot2",
         "BiocFileCache",
         "dbplyr"
     ],
@@ -7415,7 +6953,6 @@
     ],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
-        "ggplot2",
         "BSgenome",
         "DRIMSeq",
         "rtracklayer",
@@ -7439,7 +6976,6 @@
         "cowplot",
         "DEGreport",
         "DESeq2",
-        "ggplot2",
         "GGally",
         "readr",
         "tidyr",
@@ -7456,7 +6992,6 @@
     ],
     "IVAS": [
         "GenomicFeatures",
-        "ggplot2",
         "lme4",
         "ggfortify",
         "rtracklayer",
@@ -7473,7 +7008,6 @@
     "ivygapSE": [
         "survminer",
         "plotly",
-        "ggplot2",
         "UpSetR",
         "tidyr",
         "ggpubr",
@@ -7497,8 +7031,7 @@
         "fda",
         "fds",
         "rainbow",
-        "hdrcde",
-        "ggplot2"
+        "hdrcde"
     ],
     "karyoploteR": [
         "regioneR",
@@ -7512,13 +7045,11 @@
         "biomaRt",
         "BSgenome",
         "BiocFileCache",
-        "ggplot2",
         "viridis",
         "dbplyr"
     ],
     "katdetectr": [
         "VariantAnnotation",
-        "ggplot2",
         "tidyr",
         "BSgenome",
         "ggtext",
@@ -7546,7 +7077,6 @@
     "kissDE": [
         "DESeq2",
         "DSS",
-        "ggplot2",
         "shinycssloaders",
         "factoextra",
         "geneplotter",
@@ -7575,7 +7105,6 @@
         "rematch2"
     ],
     "KnowSeq": [
-        "ggplot2",
         "caret",
         "sva",
         "Hmisc",
@@ -7603,17 +7132,14 @@
         "dbplyr"
     ],
     "LedPred": [
-        "ggplot2",
         "testthat",
         "waldo",
         "rematch2"
     ],
     "lefser": [
-        "coin",
-        "ggplot2"
+        "coin"
     ],
     "levi": [
-        "ggplot2",
         "shinydashboard",
         "shinyjs",
         "testthat",
@@ -7621,7 +7147,6 @@
         "rematch2"
     ],
     "LineagePulse": [
-        "ggplot2",
         "SingleCellExperiment"
     ],
     "lineagespot": [
@@ -7635,7 +7160,6 @@
         "dbplyr"
     ],
     "LinkHD": [
-        "ggplot2",
         "ggpubr",
         "rio",
         "MultiAssayExperiment",
@@ -7659,11 +7183,9 @@
         "rematch2"
     ],
     "Linnorm": [
-        "ggplot2",
         "ggdendro"
     ],
     "LinTInd": [
-        "ggplot2",
         "cowplot",
         "ggnewscale",
         "ggtree",
@@ -7678,7 +7200,6 @@
     "lionessR": [],
     "lipidr": [
         "tidyr",
-        "ggplot2",
         "fgsea",
         "ropls",
         "cowplot",
@@ -7691,11 +7212,9 @@
         "geepack",
         "org.Sc.sgd.db",
         "broom",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "lisaClust": [
-        "ggplot2",
         "concaveman",
         "spicyR",
         "tidyr",
@@ -7719,7 +7238,6 @@
         "Hmisc",
         "MSnbase",
         "MsFeatures",
-        "ggplot2",
         "viridis",
         "vsn"
     ],
@@ -7737,7 +7255,6 @@
         "RTCGAToolbox",
         "tidyr",
         "TCGAutils",
-        "ggplot2",
         "TFBSTools",
         "miniUI",
         "dbplyr",
@@ -7757,7 +7274,6 @@
     "LRcell": [
         "ExperimentHub",
         "AnnotationHub",
-        "ggplot2",
         "ggrepel",
         "BiocFileCache",
         "dbplyr"
@@ -7768,7 +7284,6 @@
         "annotate",
         "rtracklayer",
         "biomaRt",
-        "ggplot2",
         "FDb.InfiniumMethylation.hg19",
         "minfi",
         "genefilter",
@@ -7784,7 +7299,6 @@
         "vroom"
     ],
     "LymphoSeq": [
-        "ggplot2",
         "ggtree",
         "UpSetR",
         "aplot",
@@ -7795,13 +7309,10 @@
         "ggplotify",
         "patchwork"
     ],
-    "M3C": [
-        "ggplot2"
-    ],
+    "M3C": [],
     "M3Drop": [
         "reldist",
         "Hmisc",
-        "ggplot2",
         "viridis",
         "densEstBayes",
         "rstan"
@@ -7816,14 +7327,12 @@
         "BiocFileCache",
         "GenomicAlignments",
         "dbplyr",
-        "ggplot2",
         "recipes",
         "ipred",
         "tidyr"
     ],
     "Maaslin2": [
         "car",
-        "ggplot2",
         "lmerTest",
         "glmmTMB",
         "cplm",
@@ -7840,7 +7349,6 @@
         "WGCNA",
         "Maaslin2",
         "car",
-        "ggplot2",
         "lmerTest",
         "glmmTMB",
         "cplm",
@@ -7861,7 +7369,6 @@
     ],
     "MACSQuantifyR": [
         "readxl",
-        "ggplot2",
         "ggrepel",
         "prettydoc",
         "rvest"
@@ -7891,7 +7398,6 @@
         "bigstatsr",
         "UpSetR",
         "cowplot",
-        "ggplot2",
         "oligoClasses",
         "fields",
         "methylumi",
@@ -7915,7 +7421,6 @@
         "vroom"
     ],
     "MAGeCKFlute": [
-        "ggplot2",
         "ggrepel",
         "DOSE",
         "clusterProfiler",
@@ -7955,7 +7460,6 @@
     "MAI": [
         "caret",
         "tidyverse",
-        "ggplot2",
         "recipes",
         "broom",
         "dbplyr",
@@ -7980,7 +7484,6 @@
         "caret",
         "klaR",
         "Hmisc",
-        "ggplot2",
         "recipes",
         "fields",
         "MSnbase",
@@ -8002,17 +7505,13 @@
     "maPredictDSC": [
         "caret",
         "hgu133plus2.db",
-        "ggplot2",
         "recipes",
         "org.Hs.eg.db",
         "ipred",
         "tidyr"
     ],
-    "marr": [
-        "ggplot2"
-    ],
+    "marr": [],
     "maser": [
-        "ggplot2",
         "rtracklayer",
         "Gviz",
         "biomaRt",
@@ -8029,12 +7528,10 @@
     ],
     "maskBAD": [],
     "MAST": [
-        "SingleCellExperiment",
-        "ggplot2"
+        "SingleCellExperiment"
     ],
     "MatrixQCvis": [
         "plotly",
-        "ggplot2",
         "Hmisc",
         "proDA",
         "shinydashboard",
@@ -8052,7 +7549,6 @@
         "rtracklayer",
         "GenomicAlignments",
         "readr",
-        "ggplot2",
         "annotate",
         "GO.db",
         "vroom"
@@ -8062,7 +7558,6 @@
         "phyloseq",
         "lme4",
         "lmerTest",
-        "ggplot2",
         "ruv",
         "sva",
         "tidyr",
@@ -8077,14 +7572,12 @@
         "SingleCellExperiment",
         "ClusterR",
         "benchmarkme",
-        "benchmarkmeData",
-        "ggplot2"
+        "benchmarkmeData"
     ],
     "mbOmic": [
         "WGCNA",
         "Hmisc",
         "GO.db",
-        "ggplot2",
         "viridis"
     ],
     "mBPCR": [
@@ -8093,12 +7586,10 @@
         "logistf",
         "mice",
         "broom",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "MBQN": [
         "BiocFileCache",
-        "ggplot2",
         "PairedData",
         "dbplyr"
     ],
@@ -8106,7 +7597,6 @@
         "GO.db",
         "org.Hs.eg.db",
         "GGally",
-        "ggplot2",
         "WGCNA",
         "tidyr",
         "Hmisc",
@@ -8117,7 +7607,6 @@
         "biomaRt",
         "fgsea",
         "GenomicFeatures",
-        "ggplot2",
         "Gviz",
         "BiocFileCache",
         "cowplot",
@@ -8135,16 +7624,13 @@
         "VariantAnnotation",
         "viridis"
     ],
-    "mdp": [
-        "ggplot2"
-    ],
+    "mdp": [],
     "MDTS": [
         "GenomicAlignments"
     ],
     "MEAL": [
         "MultiDataSet",
         "minfi",
-        "ggplot2",
         "Gviz",
         "missMethyl",
         "isva",
@@ -8195,7 +7681,6 @@
         "annotate",
         "readr",
         "tidyr",
-        "ggplot2",
         "FDb.InfiniumMethylation.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
@@ -8223,7 +7708,6 @@
         "nloptr",
         "broom",
         "tidyr",
-        "ggplot2",
         "testthat",
         "waldo",
         "rematch2"
@@ -8238,18 +7722,15 @@
     ],
     "MEIGOR": [
         "CNORode",
-        "CellNOptR",
-        "ggplot2"
+        "CellNOptR"
     ],
     "Melissa": [
         "BPRMeth",
-        "ggplot2",
         "cowplot",
         "BiocStyle"
     ],
     "memes": [
         "cmdfun",
-        "ggplot2",
         "ggseqlogo",
         "patchwork",
         "readr",
@@ -8270,7 +7751,6 @@
         "BiocFileCache",
         "HDO.db",
         "fgsea",
-        "ggplot2",
         "qvalue",
         "aplot",
         "ggnewscale",
@@ -8304,23 +7784,18 @@
         "tidyr",
         "ggrepel",
         "ggridges",
-        "cowplot",
-        "ggplot2"
+        "cowplot"
     ],
-    "messina": [
-        "ggplot2"
-    ],
+    "messina": [],
     "Metab": [
         "xcms",
         "MSnbase",
         "MsFeatures",
-        "vsn",
-        "ggplot2"
+        "vsn"
     ],
     "metabCombiner": [
         "caret",
         "tidyr",
-        "ggplot2",
         "recipes",
         "ipred"
     ],
@@ -8331,7 +7806,6 @@
         "dbplyr",
         "MultiAssayExperiment",
         "plotly",
-        "ggplot2",
         "tidyr"
     ],
     "metabolomicsWorkbenchR": [
@@ -8339,9 +7813,7 @@
         "struct",
         "tidyr"
     ],
-    "metabomxtr": [
-        "ggplot2"
-    ],
+    "metabomxtr": [],
     "MetaboSignal": [
         "EnsDb.Hsapiens.v75",
         "org.Hs.eg.db",
@@ -8352,7 +7824,6 @@
         "ensembldb",
         "qvalue",
         "car",
-        "ggplot2",
         "GenomicFeatures",
         "Hmisc",
         "sqldf",
@@ -8371,7 +7842,6 @@
     ],
     "MetaCyto": [
         "tidyr",
-        "ggplot2",
         "FlowSOM",
         "ggforce",
         "ggnewscale",
@@ -8394,7 +7864,6 @@
         "rtracklayer",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ggplot2",
         "ensembldb",
         "EnsDb.Hsapiens.v86",
         "biomaRt",
@@ -8403,8 +7872,7 @@
     ],
     "metagene2": [
         "rtracklayer",
-        "GenomicAlignments",
-        "ggplot2"
+        "GenomicAlignments"
     ],
     "metaMS": [
         "CAMERA",
@@ -8412,17 +7880,14 @@
         "Hmisc",
         "MSnbase",
         "MsFeatures",
-        "ggplot2",
         "viridis",
         "vsn"
     ],
     "MetaNeighbor": [
         "SingleCellExperiment",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "MetaPhOR": [
-        "ggplot2",
         "ggrepel",
         "clusterProfiler",
         "RecordLinkage",
@@ -8457,7 +7922,6 @@
     "metapone": [
         "fields",
         "fgsea",
-        "ggplot2",
         "ggrepel",
         "cowplot",
         "viridis"
@@ -8479,7 +7943,6 @@
         "vsn",
         "BiocFileCache",
         "geneplotter",
-        "ggplot2",
         "bsseq",
         "ShortRead",
         "annotate",
@@ -8501,7 +7964,6 @@
         "OrganismDbi",
         "GenomicFeatures",
         "ensembldb",
-        "ggplot2",
         "rtracklayer",
         "biomaRt",
         "BiocFileCache",
@@ -8511,16 +7973,13 @@
     "MetaVolcanoR": [
         "tidyr",
         "plotly",
-        "ggplot2",
         "cowplot",
         "metap",
         "topconfects",
         "TFisher",
         "mutoss"
     ],
-    "MetCirc": [
-        "ggplot2"
-    ],
+    "MetCirc": [],
     "MethCP": [
         "bsseq",
         "DSS",
@@ -8528,21 +7987,16 @@
         "BSgenome",
         "qvalue",
         "rtracklayer",
-        "ggplot2",
         "GenomicAlignments"
     ],
-    "methimpute": [
-        "ggplot2"
-    ],
+    "methimpute": [],
     "methInheritSim": [
         "methylKit",
         "qvalue",
         "rtracklayer",
-        "ggplot2",
         "GenomicAlignments"
     ],
     "MethReg": [
-        "ggplot2",
         "ggpubr",
         "tidyr",
         "sesameData",
@@ -8570,11 +8024,9 @@
     "methrix": [
         "rtracklayer",
         "BSgenome",
-        "ggplot2",
         "GenomicAlignments"
     ],
     "MethylAid": [
-        "ggplot2",
         "minfi",
         "bumphunter",
         "genefilter",
@@ -8618,7 +8070,6 @@
         "ExperimentHub",
         "ggpmisc",
         "tidyverse",
-        "ggplot2",
         "ggpubr",
         "minfi",
         "tidyr",
@@ -8665,7 +8116,6 @@
         "GenomicAlignments"
     ],
     "methylGSA": [
-        "ggplot2",
         "clusterProfiler",
         "missMethyl",
         "org.Hs.eg.db",
@@ -8719,7 +8169,6 @@
     ],
     "methylInheritance": [
         "methylKit",
-        "ggplot2",
         "qvalue",
         "rtracklayer",
         "GenomicAlignments"
@@ -8727,12 +8176,9 @@
     "methylKit": [
         "qvalue",
         "rtracklayer",
-        "ggplot2",
         "GenomicAlignments"
     ],
-    "MethylMix": [
-        "ggplot2"
-    ],
+    "MethylMix": [],
     "methylPipe": [
         "Gviz",
         "GenomicAlignments",
@@ -8746,7 +8192,6 @@
         "Hmisc",
         "VariantAnnotation",
         "dbplyr",
-        "ggplot2",
         "viridis"
     ],
     "methylscaper": [
@@ -8768,7 +8213,6 @@
         "GenomicAlignments"
     ],
     "methylumi": [
-        "ggplot2",
         "FDb.InfiniumMethylation.hg19",
         "minfi",
         "annotate",
@@ -8790,7 +8234,6 @@
     "MetID": [
         "devtools",
         "ChemmineR",
-        "ggplot2",
         "miniUI",
         "pkgdown",
         "testthat",
@@ -8798,12 +8241,10 @@
         "rematch2"
     ],
     "MetNet": [
-        "ggplot2",
         "GENIE3",
         "tidyr"
     ],
     "mfa": [
-        "ggplot2",
         "ggmcmc",
         "tidyr",
         "GGally"
@@ -8825,7 +8266,6 @@
         "scuttle",
         "scater",
         "tidyr",
-        "ggplot2",
         "ggbeeswarm",
         "viridis",
         "ggrastr",
@@ -8843,7 +8283,6 @@
     "miaViz": [
         "TreeSummarizedExperiment",
         "mia",
-        "ggplot2",
         "ggraph",
         "scater",
         "ggtree",
@@ -8868,11 +8307,9 @@
     ],
     "microbiome": [
         "phyloseq",
-        "ggplot2",
         "tidyr"
     ],
     "microbiomeDASim": [
-        "ggplot2",
         "phyloseq"
     ],
     "microbiomeExplorer": [
@@ -8887,7 +8324,6 @@
         "car",
         "broom",
         "plotly",
-        "ggplot2",
         "pbkrtest",
         "lme4",
         "geneplotter",
@@ -8903,7 +8339,6 @@
     ],
     "microbiomeMarker": [
         "phyloseq",
-        "ggplot2",
         "coin",
         "ggtree",
         "tidytree",
@@ -8949,7 +8384,6 @@
         "enrichplot",
         "shinyWidgets",
         "shinycustomloader",
-        "ggplot2",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -8977,7 +8411,6 @@
     ],
     "MicrobiotaProcess": [
         "tidyr",
-        "ggplot2",
         "ggrepel",
         "ggtree",
         "tidytree",
@@ -8999,13 +8432,11 @@
         "HardyWeinberg",
         "kableExtra",
         "tidyr",
-        "ggplot2",
         "mice",
         "rvest"
     ],
     "MIGSA": [
         "ggdendro",
-        "ggplot2",
         "GO.db",
         "GOstats",
         "GSEABase",
@@ -9018,7 +8449,6 @@
     "miloR": [
         "SingleCellExperiment",
         "cowplot",
-        "ggplot2",
         "ggraph",
         "patchwork",
         "tidyr",
@@ -9033,19 +8463,16 @@
         "oligoClasses"
     ],
     "MIMOSA": [
-        "ggplot2",
         "testthat",
         "tidyr",
         "waldo",
         "rematch2"
     ],
     "mina": [
-        "ggplot2",
         "Hmisc",
         "viridis"
     ],
     "MineICA": [
-        "ggplot2",
         "biomaRt",
         "GOstats",
         "annotate",
@@ -9099,11 +8526,9 @@
         "GenomicAlignments"
     ],
     "miQC": [
-        "SingleCellExperiment",
-        "ggplot2"
+        "SingleCellExperiment"
     ],
     "MIRA": [
-        "ggplot2",
         "bsseq",
         "BSgenome",
         "rtracklayer",
@@ -9112,7 +8537,6 @@
     "MiRaGE": [],
     "mirIntegrator": [
         "ROntoTools",
-        "ggplot2",
         "org.Hs.eg.db"
     ],
     "miRLAB": [
@@ -9126,7 +8550,6 @@
         "annotate",
         "GO.db",
         "AnnotationForge",
-        "ggplot2",
         "viridis",
         "biomaRt",
         "rvest",
@@ -9160,7 +8583,6 @@
         "viridis",
         "dendextend",
         "tidyr",
-        "ggplot2",
         "annotate",
         "SPONGE",
         "clusterProfiler",
@@ -9242,7 +8664,6 @@
         "tidyr",
         "HDO.db",
         "fgsea",
-        "ggplot2",
         "ggraph",
         "reactome.db",
         "graphite",
@@ -9295,9 +8716,7 @@
         "testthat",
         "waldo"
     ],
-    "mirTarRnaSeq": [
-        "ggplot2"
-    ],
+    "mirTarRnaSeq": [],
     "missMethyl": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
@@ -9308,7 +8727,6 @@
         "minfi",
         "org.Hs.eg.db",
         "ruv",
-        "ggplot2",
         "FDb.InfiniumMethylation.hg19",
         "annotate",
         "genefilter",
@@ -9326,13 +8744,11 @@
         "dbplyr"
     ],
     "missRows": [
-        "ggplot2",
         "MultiAssayExperiment",
         "tidyr"
     ],
     "mistyR": [
         "caret",
-        "ggplot2",
         "readr",
         "tidyr",
         "recipes",
@@ -9341,14 +8757,12 @@
     ],
     "mitch": [
         "GGally",
-        "ggplot2",
         "echarts4r",
         "broom",
         "tidyr"
     ],
     "mitoClone2": [
         "deepSNV",
-        "ggplot2",
         "VariantAnnotation",
         "rtracklayer",
         "BSgenome",
@@ -9359,7 +8773,6 @@
         "dbplyr"
     ],
     "mixOmics": [
-        "ggplot2",
         "tidyr",
         "ggrepel"
     ],
@@ -9371,7 +8784,6 @@
     "MLP": [],
     "MLSeq": [
         "caret",
-        "ggplot2",
         "testthat",
         "DESeq2",
         "recipes",
@@ -9384,13 +8796,11 @@
     ],
     "MMDiff2": [
         "BSgenome",
-        "ggplot2",
         "rtracklayer",
         "GenomicAlignments"
     ],
     "MMUPHin": [
         "Maaslin2",
-        "ggplot2",
         "tidyr",
         "cowplot",
         "car",
@@ -9407,33 +8817,28 @@
     ],
     "mnem": [
         "Linnorm",
-        "ggplot2",
         "ggdendro"
     ],
     "moanin": [
         "topGO",
         "viridis",
         "ClusterR",
-        "ggplot2",
         "GO.db"
     ],
     "MobilityTransformR": [
         "MSnbase",
         "xcms",
         "vsn",
-        "ggplot2",
         "MsFeatures"
     ],
     "MODA": [
         "WGCNA",
         "Hmisc",
         "GO.db",
-        "ggplot2",
         "viridis"
     ],
     "MOFA2": [
         "tidyr",
-        "ggplot2",
         "cowplot",
         "ggrepel"
     ],
@@ -9448,7 +8853,6 @@
         "annotate"
     ],
     "MOMA": [
-        "ggplot2",
         "MKmisc",
         "MultiAssayExperiment",
         "qvalue",
@@ -9463,13 +8867,11 @@
         "CNEr",
         "GenomicAlignments",
         "readr",
-        "ggplot2",
         "annotate",
         "GO.db",
         "vroom"
     ],
     "monocle": [
-        "ggplot2",
         "viridis"
     ],
     "MoonlightR": [
@@ -9485,7 +8887,6 @@
         "tidyr",
         "HDO.db",
         "fgsea",
-        "ggplot2",
         "readr",
         "biomaRt",
         "rvest",
@@ -9515,12 +8916,10 @@
     "mosbi": [
         "biclust",
         "QUBIC",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "MOSim": [
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "Motif2Site": [
         "BSgenome",
@@ -9539,7 +8938,6 @@
         "ensembldb",
         "biovizBase",
         "GenomicAlignments",
-        "ggplot2",
         "TFBSTools",
         "BiocFileCache",
         "Hmisc",
@@ -9562,13 +8960,11 @@
         "CNEr",
         "GenomicAlignments",
         "readr",
-        "ggplot2",
         "annotate",
         "GO.db",
         "vroom"
     ],
     "motifStack": [
-        "ggplot2",
         "TFBSTools",
         "BSgenome",
         "CNEr",
@@ -9580,7 +8976,6 @@
         "vroom"
     ],
     "MouseFM": [
-        "ggplot2",
         "tidyr",
         "biomaRt",
         "BiocFileCache",
@@ -9589,7 +8984,6 @@
     "mpra": [],
     "MPRAnalyze": [],
     "MQmetrics": [
-        "ggplot2",
         "readr",
         "ggpubr",
         "cowplot",
@@ -9617,8 +9011,7 @@
         "QFeatures",
         "MultiAssayExperiment",
         "plotly",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "MsFeatures": [],
     "msgbsR": [
@@ -9627,7 +9020,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "ggbio",
-        "ggplot2",
         "rtracklayer",
         "BiocFileCache",
         "biomaRt",
@@ -9653,25 +9045,21 @@
     ],
     "msmsEDA": [
         "MSnbase",
-        "vsn",
-        "ggplot2"
+        "vsn"
     ],
     "msmsTests": [
         "MSnbase",
         "msmsEDA",
         "qvalue",
-        "vsn",
-        "ggplot2"
+        "vsn"
     ],
     "MSnbase": [
-        "vsn",
-        "ggplot2"
+        "vsn"
     ],
     "MSnID": [
         "MSnbase",
         "BiocStyle",
         "msmsTests",
-        "ggplot2",
         "AnnotationHub",
         "BiocFileCache",
         "msmsEDA",
@@ -9690,14 +9078,12 @@
         "annotate",
         "nloptr",
         "broom",
-        "ggplot2",
         "testthat",
         "waldo",
         "rematch2"
     ],
     "msPurity": [
-        "dbplyr",
-        "ggplot2"
+        "dbplyr"
     ],
     "msqrob2": [
         "QFeatures",
@@ -9707,13 +9093,11 @@
         "tidyr",
         "plotly",
         "testthat",
-        "ggplot2",
         "waldo",
         "rematch2"
     ],
     "MSstats": [
         "lme4",
-        "ggplot2",
         "ggrepel",
         "nloptr",
         "testthat",
@@ -9721,7 +9105,6 @@
         "rematch2"
     ],
     "MSstatsLiP": [
-        "ggplot2",
         "MSstats",
         "MSstatsPTM",
         "factoextra",
@@ -9757,11 +9140,8 @@
         "testthat",
         "waldo"
     ],
-    "MSstatsLOBD": [
-        "ggplot2"
-    ],
+    "MSstatsLOBD": [],
     "MSstatsPTM": [
-        "ggplot2",
         "MSstatsTMT",
         "MSstats",
         "ggrepel",
@@ -9774,7 +9154,6 @@
     ],
     "MSstatsQC": [
         "plotly",
-        "ggplot2",
         "ggExtra",
         "MSnbase",
         "colourpicker",
@@ -9788,7 +9167,6 @@
         "ggExtra",
         "plotly",
         "colourpicker",
-        "ggplot2",
         "miniUI",
         "shinyjs",
         "MSnbase",
@@ -9796,7 +9174,6 @@
         "vsn"
     ],
     "MSstatsSampleSize": [
-        "ggplot2",
         "caret",
         "MSstats",
         "recipes",
@@ -9813,7 +9190,6 @@
         "shinyBS",
         "shinyjs",
         "shinybusy",
-        "ggplot2",
         "Hmisc",
         "MSstats",
         "MSstatsTMT",
@@ -9831,7 +9207,6 @@
     "MSstatsTMT": [
         "lme4",
         "lmerTest",
-        "ggplot2",
         "MSstats",
         "nloptr",
         "ggrepel",
@@ -9846,14 +9221,12 @@
     ],
     "Mulcom": [
         "fields",
-        "viridis",
-        "ggplot2"
+        "viridis"
     ],
     "MultiAssayExperiment": [
         "tidyr"
     ],
     "MultiBaC": [
-        "ggplot2",
         "MultiAssayExperiment",
         "ropls",
         "tidyr",
@@ -9863,14 +9236,12 @@
     ],
     "multiClust": [
         "dendextend",
-        "ggplot2",
         "viridis"
     ],
     "multicrispr": [
         "BSgenome",
         "CRISPRseek",
         "GenomicFeatures",
-        "ggplot2",
         "karyoploteR",
         "plyranges",
         "rtracklayer",
@@ -9889,21 +9260,18 @@
         "viridis"
     ],
     "MultiDataSet": [
-        "ggplot2",
         "ggrepel"
     ],
     "multiGSEA": [
         "graphite",
         "fgsea",
         "metap",
-        "ggplot2",
         "cowplot",
         "TFisher",
         "mutoss"
     ],
     "multiHiCcompare": [
         "HiCcompare",
-        "ggplot2",
         "InteractionSet",
         "QDNAseq"
     ],
@@ -9926,7 +9294,6 @@
         "MultiAssayExperiment",
         "MultiDataSet",
         "ropls",
-        "ggplot2",
         "recipes",
         "DOSE",
         "GO.db",
@@ -9984,7 +9351,6 @@
     "muscat": [
         "blme",
         "DESeq2",
-        "ggplot2",
         "glmmTMB",
         "lmerTest",
         "lme4",
@@ -10014,7 +9380,6 @@
         "tidyr",
         "BSgenome",
         "GenomicFeatures",
-        "ggplot2",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -10066,7 +9431,6 @@
         "BSgenome",
         "VariantAnnotation",
         "tidyr",
-        "ggplot2",
         "ggdendro",
         "cowplot",
         "ggalluvial",
@@ -10080,7 +9444,6 @@
     "MWASTools": [
         "qvalue",
         "car",
-        "ggplot2",
         "pbkrtest",
         "lme4",
         "nloptr",
@@ -10096,7 +9459,6 @@
         "sqldf",
         "rtracklayer",
         "biomaRt",
-        "ggplot2",
         "viridis",
         "BiocFileCache",
         "GenomicAlignments",
@@ -10105,7 +9467,6 @@
     "myvariant": [
         "VariantAnnotation",
         "Hmisc",
-        "ggplot2",
         "viridis",
         "rtracklayer",
         "BSgenome",
@@ -10133,7 +9494,6 @@
         "InteractionSet",
         "ensembldb",
         "biomaRt",
-        "ggplot2",
         "regioneR",
         "BiocFileCache",
         "AnnotationHub",
@@ -10150,7 +9510,6 @@
         "vroom"
     ],
     "NanoMethViz": [
-        "ggplot2",
         "readr",
         "bsseq",
         "ggrastr",
@@ -10163,15 +9522,13 @@
         "GenomicAlignments"
     ],
     "NanoStringNCTools": [
-        "ggplot2",
         "ggbeeswarm",
         "ggiraph",
         "ggthemes"
     ],
     "NanoStringQCPro": [
         "org.Hs.eg.db",
-        "NMF",
-        "ggplot2"
+        "NMF"
     ],
     "nanotatoR": [
         "testthat",
@@ -10181,7 +9538,6 @@
         "broom",
         "dbplyr",
         "dtplyr",
-        "ggplot2",
         "googlesheets4",
         "haven",
         "modelr",
@@ -10194,7 +9550,6 @@
         "vroom"
     ],
     "NanoTube": [
-        "ggplot2",
         "fgsea",
         "cowplot"
     ],
@@ -10202,13 +9557,11 @@
         "DESeq2",
         "genefilter",
         "geneplotter",
-        "ggplot2",
         "annotate"
     ],
     "NBSplice": [
         "car",
         "mppa",
-        "ggplot2",
         "pbkrtest",
         "lme4",
         "nloptr",
@@ -10222,16 +9575,13 @@
         "xcms",
         "MSnbase",
         "MsFeatures",
-        "vsn",
-        "ggplot2"
+        "vsn"
     ],
     "NCIgraph": [
         "RCy3",
         "IRkernel"
     ],
-    "ncRNAtools": [
-        "ggplot2"
-    ],
+    "ncRNAtools": [],
     "ndexr": [
         "tidyr"
     ],
@@ -10240,7 +9590,6 @@
         "rtracklayer",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "ggplot2",
         "GenomicAlignments",
         "GenomicFeatures",
         "biomaRt",
@@ -10248,7 +9597,6 @@
         "dbplyr"
     ],
     "Nebulosa": [
-        "ggplot2",
         "patchwork",
         "Seurat",
         "SingleCellExperiment",
@@ -10265,21 +9613,18 @@
         "mnem",
         "epiNEM",
         "Linnorm",
-        "ggplot2",
         "ggdendro"
     ],
     "NetActivity": [
         "airway",
         "DESeq2",
         "geneplotter",
-        "ggplot2",
         "annotate"
     ],
     "netboost": [
         "WGCNA",
         "Hmisc",
         "GO.db",
-        "ggplot2",
         "viridis"
     ],
     "netboxr": [
@@ -10293,7 +9638,6 @@
         "tidyr",
         "HDO.db",
         "fgsea",
-        "ggplot2",
         "aplot",
         "ggnewscale",
         "ggraph",
@@ -10312,17 +9656,13 @@
         "treeio"
     ],
     "netDx": [
-        "ggplot2",
         "MultiAssayExperiment",
         "BiocFileCache",
         "dbplyr",
         "tidyr"
     ],
-    "nethet": [
-        "ggplot2"
-    ],
+    "nethet": [],
     "netOmics": [
-        "ggplot2",
         "tidyr",
         "GO.db",
         "RandomWalkRestartMH",
@@ -10333,12 +9673,9 @@
         "readr",
         "vroom"
     ],
-    "netprioR": [
-        "ggplot2"
-    ],
+    "netprioR": [],
     "netresponse": [
         "BiocStyle",
-        "ggplot2",
         "qvalue"
     ],
     "NetSAM": [
@@ -10348,7 +9685,6 @@
         "BiocFileCache",
         "Hmisc",
         "dbplyr",
-        "ggplot2",
         "viridis"
     ],
     "netSmooth": [
@@ -10360,7 +9696,6 @@
         "phylobase",
         "mbkmeans",
         "scuttle",
-        "ggplot2",
         "ggbeeswarm",
         "viridis",
         "ggrastr",
@@ -10381,7 +9716,6 @@
         "GOstats",
         "GO.db",
         "org.Hs.eg.db",
-        "ggplot2",
         "ggdendro",
         "tidyr",
         "Category",
@@ -10413,7 +9747,6 @@
         "SingleCellExperiment"
     ],
     "ngsReports": [
-        "ggplot2",
         "patchwork",
         "ggdendro",
         "plotly",
@@ -10442,7 +9775,6 @@
         "reactome.db",
         "rWikiPathways",
         "dbplyr",
-        "ggplot2",
         "readr",
         "GO.db",
         "biomaRt",
@@ -10455,7 +9787,6 @@
     "NormalyzerDE": [
         "vsn",
         "car",
-        "ggplot2",
         "RcmdrMisc",
         "ggforce",
         "pbkrtest",
@@ -10477,13 +9808,11 @@
     "normr": [
         "qvalue",
         "rtracklayer",
-        "ggplot2",
         "GenomicAlignments"
     ],
     "NPARC": [
         "tidyr",
-        "broom",
-        "ggplot2"
+        "broom"
     ],
     "npGSEA": [
         "GSEABase",
@@ -10491,12 +9820,10 @@
     ],
     "nucleR": [
         "ShortRead",
-        "ggplot2",
         "GenomicAlignments"
     ],
     "nullranges": [
         "InteractionSet",
-        "ggplot2",
         "plyranges",
         "ggridges",
         "rtracklayer",
@@ -10504,7 +9831,6 @@
     ],
     "NxtIRFcore": [
         "NxtIRFdata",
-        "ggplot2",
         "AnnotationHub",
         "BiocFileCache",
         "BSgenome",
@@ -10518,7 +9844,6 @@
         "GenomicAlignments"
     ],
     "octad": [
-        "ggplot2",
         "RUVSeq",
         "DESeq2",
         "octad.db",
@@ -10544,7 +9869,6 @@
         "BiocFileCache",
         "dasper",
         "derfinder",
-        "ggplot2",
         "ggpubr",
         "ggrepel",
         "rtracklayer",
@@ -10580,7 +9904,6 @@
     ],
     "odseq": [],
     "OGRE": [
-        "ggplot2",
         "Gviz",
         "AnnotationHub",
         "shinyFiles",
@@ -10606,7 +9929,6 @@
     "oligoClasses": [],
     "omada": [
         "diceR",
-        "ggplot2",
         "klaR",
         "NMF",
         "tidyr",
@@ -10631,7 +9953,6 @@
     "omicRexposome": [
         "rexposome",
         "sva",
-        "ggplot2",
         "ggrepel",
         "omicade4",
         "MultiDataSet",
@@ -10655,9 +9976,7 @@
         "waldo",
         "rematch2"
     ],
-    "OmicsLonDA": [
-        "ggplot2"
-    ],
+    "OmicsLonDA": [],
     "OMICsPCA": [
         "OMICsPCAdata",
         "HelloRanges",
@@ -10665,7 +9984,6 @@
         "cowplot",
         "kableExtra",
         "rtracklayer",
-        "ggplot2",
         "factoextra",
         "FactoMineR",
         "tidyr",
@@ -10707,7 +10025,6 @@
         "shinybusy",
         "ggseqlogo",
         "shinyjs",
-        "ggplot2",
         "shinycssloaders",
         "cowplot",
         "tidyr",
@@ -10728,7 +10045,6 @@
         "rematch2"
     ],
     "Omixer": [
-        "ggplot2",
         "readr",
         "vroom"
     ],
@@ -10740,7 +10056,6 @@
         "vroom"
     ],
     "oncomix": [
-        "ggplot2",
         "ggrepel"
     ],
     "oncoscanR": [
@@ -10754,7 +10069,6 @@
     ],
     "OncoSimulR": [
         "car",
-        "ggplot2",
         "ggrepel",
         "pbkrtest",
         "lme4",
@@ -10768,7 +10082,6 @@
     "oneSENSE": [
         "shinyFiles",
         "plotly",
-        "ggplot2",
         "tidyr"
     ],
     "onlineFDR": [],
@@ -10778,11 +10091,9 @@
         "dbplyr"
     ],
     "openCyto": [
-        "flowWorkspace",
-        "ggplot2"
+        "flowWorkspace"
     ],
     "openPrimeR": [
-        "ggplot2",
         "Hmisc",
         "viridis"
     ],
@@ -10790,7 +10101,6 @@
         "openPrimeR",
         "shinyjs",
         "shinyBS",
-        "ggplot2",
         "Hmisc",
         "viridis"
     ],
@@ -10802,7 +10112,6 @@
         "unmarked",
         "pbkrtest",
         "lme4",
-        "ggplot2",
         "viridis",
         "tidyr",
         "nloptr",
@@ -10823,7 +10132,6 @@
         "SingleCellExperiment"
     ],
     "oppti": [
-        "ggplot2",
         "devtools",
         "miniUI",
         "pkgdown",
@@ -10833,8 +10141,7 @@
     ],
     "optimalFlow": [],
     "OPWeight": [
-        "qvalue",
-        "ggplot2"
+        "qvalue"
     ],
     "ORFhunteR": [
         "rtracklayer",
@@ -10850,7 +10157,6 @@
         "cowplot",
         "DESeq2",
         "GenomicFeatures",
-        "ggplot2",
         "rtracklayer",
         "BiocFileCache",
         "readr",
@@ -10879,7 +10185,6 @@
         "homologene",
         "gprofiler2",
         "babelgene",
-        "ggplot2",
         "ggpubr",
         "patchwork",
         "ggtree",
@@ -10919,7 +10224,6 @@
     "OUTRIDER": [
         "GenomicFeatures",
         "DESeq2",
-        "ggplot2",
         "heatmaply",
         "plotly",
         "geneplotter",
@@ -10944,7 +10248,6 @@
         "FactoMineR",
         "MultiAssayExperiment",
         "car",
-        "ggplot2",
         "ggrepel",
         "tidyr",
         "pbkrtest",
@@ -10968,7 +10271,6 @@
         "CNEr",
         "GenomicAlignments",
         "readr",
-        "ggplot2",
         "annotate",
         "GO.db",
         "vroom"
@@ -10980,9 +10282,7 @@
         "rematch2"
     ],
     "pairkat": [],
-    "pandaR": [
-        "ggplot2"
-    ],
+    "pandaR": [],
     "panelcn.mops": [
         "cn.mops",
         "exomeCopy"
@@ -11004,7 +10304,6 @@
         "mutoss",
         "HDO.db",
         "fgsea",
-        "ggplot2",
         "aplot",
         "ggnewscale",
         "ggraph",
@@ -11030,7 +10329,6 @@
         "tfprobability",
         "tidyr",
         "tidygraph",
-        "ggplot2",
         "ggraph",
         "keras",
         "nloptr",
@@ -11053,11 +10351,9 @@
     "PAST": [
         "qvalue",
         "rtracklayer",
-        "ggplot2",
         "GenomicAlignments"
     ],
     "PathoStat": [
-        "ggplot2",
         "tidyr",
         "phyloseq",
         "BiocStyle",
@@ -11074,9 +10370,7 @@
         "rematch2"
     ],
     "pathRender": [],
-    "pathVar": [
-        "ggplot2"
-    ],
+    "pathVar": [],
     "pathview": [
         "org.Hs.eg.db"
     ],
@@ -11087,7 +10381,6 @@
     "pcaExplorer": [
         "DESeq2",
         "genefilter",
-        "ggplot2",
         "heatmaply",
         "plotly",
         "NMF",
@@ -11112,7 +10405,6 @@
         "GSEABase"
     ],
     "PCAtools": [
-        "ggplot2",
         "ggrepel",
         "cowplot"
     ],
@@ -11125,7 +10417,6 @@
         "piano",
         "survcomp",
         "genefu",
-        "ggplot2",
         "verification",
         "recipes",
         "biomaRt",
@@ -11160,11 +10451,9 @@
         "oligoClasses"
     ],
     "PeacoQC": [
-        "flowWorkspace",
-        "ggplot2"
+        "flowWorkspace"
     ],
     "peakPantheR": [
-        "ggplot2",
         "MSnbase",
         "shinycssloaders",
         "vsn"
@@ -11177,34 +10466,27 @@
         "scater",
         "SingleCellExperiment",
         "scuttle",
-        "ggplot2",
         "ggbeeswarm",
         "viridis",
         "ggrastr",
         "ggrepel"
     ],
-    "PepsNMR": [
-        "ggplot2"
-    ],
+    "PepsNMR": [],
     "pepStat": [
         "fields",
-        "ggplot2",
         "viridis"
     ],
     "PERFect": [
-        "ggplot2",
         "phyloseq"
     ],
     "periodicDNA": [
         "BSgenome",
         "rtracklayer",
-        "ggplot2",
         "cowplot",
         "GenomicAlignments"
     ],
     "PFP": [
         "clusterProfiler",
-        "ggplot2",
         "tidyr",
         "DOSE",
         "enrichplot",
@@ -11232,7 +10514,6 @@
         "treeio"
     ],
     "phantasus": [
-        "ggplot2",
         "GEOquery",
         "fgsea",
         "DESeq2",
@@ -11246,7 +10527,6 @@
     "PharmacoGx": [
         "CoreGx",
         "MultiAssayExperiment",
-        "ggplot2",
         "piano",
         "tidyr",
         "fgsea",
@@ -11258,7 +10538,6 @@
     "phenomis": [
         "biodb",
         "biodbChebi",
-        "ggplot2",
         "ggrepel",
         "MultiAssayExperiment",
         "MultiDataSet",
@@ -11272,12 +10551,10 @@
         "rematch2"
     ],
     "phenopath": [
-        "ggplot2",
         "tidyr"
     ],
     "phenoTest": [
         "annotate",
-        "ggplot2",
         "Hmisc",
         "Category",
         "biomaRt",
@@ -11292,7 +10569,6 @@
     "PhenStat": [
         "car",
         "logistf",
-        "ggplot2",
         "lme4",
         "pbkrtest",
         "nloptr",
@@ -11305,7 +10581,6 @@
     ],
     "philr": [
         "tidyr",
-        "ggplot2",
         "ggtree",
         "aplot",
         "ggfun",
@@ -11322,7 +10597,6 @@
         "ruv",
         "dendextend",
         "tidyr",
-        "ggplot2",
         "GGally",
         "ggdendro",
         "ggpubr",
@@ -11346,7 +10620,6 @@
         "BiocStyle",
         "colourpicker",
         "ExperimentHub",
-        "ggplot2",
         "shinyBS",
         "shinyFiles",
         "shinyjs",
@@ -11358,12 +10631,9 @@
         "dbplyr",
         "GO.db"
     ],
-    "phyloseq": [
-        "ggplot2"
-    ],
+    "phyloseq": [],
     "Pi": [
         "dnet",
-        "ggplot2",
         "supraHex",
         "ggrepel",
         "caret",
@@ -11380,7 +10650,6 @@
         "fgsea",
         "shinyjs",
         "shinydashboard",
-        "ggplot2",
         "cowplot"
     ],
     "PICS": [
@@ -11392,7 +10661,6 @@
         "GO.db",
         "clusterProfiler",
         "ReactomePA",
-        "ggplot2",
         "DOSE",
         "enrichplot",
         "GOSemSim",
@@ -11438,7 +10706,6 @@
         "VariantAnnotation",
         "rainbow",
         "dbplyr",
-        "ggplot2",
         "viridis",
         "hdrcde"
     ],
@@ -11446,7 +10713,6 @@
         "SingleCellExperiment",
         "Seurat",
         "scran",
-        "ggplot2",
         "cowplot",
         "scater",
         "scuttle",
@@ -11468,9 +10734,7 @@
         "GenomicAlignments"
     ],
     "planet": [],
-    "plethy": [
-        "ggplot2"
-    ],
+    "plethy": [],
     "PloGO2": [
         "GO.db",
         "GOstats",
@@ -11483,12 +10747,10 @@
     "plotgardener": [
         "ggplotify",
         "plyranges",
-        "ggplot2",
         "rtracklayer",
         "GenomicAlignments"
     ],
     "plotGrouper": [
-        "ggplot2",
         "tidyr",
         "readr",
         "readxl",
@@ -11526,11 +10788,8 @@
         "waldo",
         "rematch2"
     ],
-    "pmp": [
-        "ggplot2"
-    ],
+    "pmp": [],
     "PoDCall": [
-        "ggplot2",
         "shinyjs",
         "readr",
         "vroom"
@@ -11542,7 +10801,6 @@
     ],
     "pogos": [
         "ontoProc",
-        "ggplot2",
         "BiocFileCache",
         "AnnotationHub",
         "dbplyr"
@@ -11551,7 +10809,6 @@
         "broom",
         "caret",
         "DESeq2",
-        "ggplot2",
         "ggrepel",
         "mixOmics",
         "tidyr",
@@ -11566,13 +10823,11 @@
     ],
     "POWSC": [
         "SingleCellExperiment",
-        "MAST",
-        "ggplot2"
+        "MAST"
     ],
     "ppcseq": [
         "rstan",
         "tidyr",
-        "ggplot2",
         "tidybayes",
         "benchmarkme",
         "benchmarkmeData",
@@ -11583,7 +10838,6 @@
     "PPInfer": [
         "biomaRt",
         "fgsea",
-        "ggplot2",
         "STRINGdb",
         "BiocFileCache",
         "cowplot",
@@ -11598,13 +10852,11 @@
         "GenomicAlignments",
         "RPA",
         "BiocStyle",
-        "phyloseq",
-        "ggplot2"
+        "phyloseq"
     ],
     "preciseTAD": [
         "caret",
         "rCGH",
-        "ggplot2",
         "recipes",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -11644,7 +10896,6 @@
         "Hmisc",
         "VariantAnnotation",
         "readr",
-        "ggplot2",
         "annotate",
         "GO.db",
         "viridis",
@@ -11655,7 +10906,6 @@
         "forecast",
         "Hmisc",
         "MSnbase",
-        "ggplot2",
         "viridis",
         "vsn"
     ],
@@ -11663,7 +10913,6 @@
         "DESeq2",
         "GenomicFeatures",
         "GenomicAlignments",
-        "ggplot2",
         "geneplotter",
         "rtracklayer",
         "biomaRt",
@@ -11681,7 +10930,6 @@
     ],
     "proBatch": [
         "ggfortify",
-        "ggplot2",
         "pvca",
         "sva",
         "tidyr",
@@ -11703,7 +10951,6 @@
     "proFIA": [
         "xcms",
         "ropls",
-        "ggplot2",
         "plotly",
         "MultiAssayExperiment",
         "MultiDataSet",
@@ -11725,7 +10972,6 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "rGREAT",
-        "ggplot2",
         "rtracklayer",
         "enrichplot",
         "biomaRt",
@@ -11759,7 +11005,6 @@
     ],
     "progeny": [
         "tidyr",
-        "ggplot2",
         "ggrepel",
         "decoupleR",
         "broom"
@@ -11769,7 +11014,6 @@
         "NMF",
         "ggalluvial",
         "viridis",
-        "ggplot2",
         "SingleCellExperiment",
         "tidyr"
     ],
@@ -11778,7 +11022,6 @@
         "MLInterfaces",
         "caret",
         "dendextend",
-        "ggplot2",
         "biomaRt",
         "BiocFileCache",
         "recipes",
@@ -11794,7 +11037,6 @@
     "pRolocGUI": [
         "pRoloc",
         "MSnbase",
-        "ggplot2",
         "shinydashboardPlus",
         "colourpicker",
         "shinyhelper",
@@ -11836,7 +11078,6 @@
         "shinythemes",
         "shinycssloaders",
         "shinyjqui",
-        "ggplot2",
         "shinyjs",
         "MSnbase",
         "broom",
@@ -11871,14 +11112,12 @@
     ],
     "ProteoMM": [
         "biomaRt",
-        "ggplot2",
         "ggrepel",
         "BiocFileCache",
         "dbplyr"
     ],
     "protGear": [
         "vsn",
-        "ggplot2",
         "tidyr",
         "ggpubr",
         "genefilter",
@@ -11913,7 +11152,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "colourpicker",
-        "ggplot2",
         "ggrepel",
         "highcharter",
         "pairsD3",
@@ -11943,11 +11181,9 @@
         "QFeatures",
         "MultiAssayExperiment",
         "plotly",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "psygenet2r": [
-        "ggplot2",
         "biomaRt",
         "BgeeDB",
         "topGO",
@@ -11957,7 +11193,6 @@
         "dbplyr"
     ],
     "ptairMS": [
-        "ggplot2",
         "ggpubr",
         "Hmisc",
         "MSnbase",
@@ -11988,7 +11223,6 @@
         "VariantAnnotation",
         "GenomicFeatures",
         "rtracklayer",
-        "ggplot2",
         "biomaRt",
         "GenomicAlignments",
         "BSgenome",
@@ -11999,7 +11233,6 @@
         "vsn",
         "lme4",
         "nloptr",
-        "ggplot2",
         "testthat",
         "waldo",
         "rematch2"
@@ -12016,7 +11249,6 @@
         "biomaRt",
         "BSgenome",
         "BiocFileCache",
-        "ggplot2",
         "viridis",
         "dbplyr"
     ],
@@ -12030,7 +11262,6 @@
     ],
     "pwrEWAS": [
         "shinyBS",
-        "ggplot2",
         "shinyWidgets",
         "genefilter",
         "pwrEWAS.data",
@@ -12040,18 +11271,14 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "qckitfastq": [
-        "ggplot2"
-    ],
+    "qckitfastq": [],
     "QDNAseq": [],
     "QFeatures": [
         "MultiAssayExperiment",
         "plotly",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "qmtools": [
-        "ggplot2",
         "patchwork",
         "heatmaply",
         "VIM",
@@ -12081,14 +11308,12 @@
     "qPLEXanalyzer": [
         "MSnbase",
         "ggdendro",
-        "ggplot2",
         "readr",
         "tidyr",
         "vsn",
         "vroom"
     ],
     "qrqc": [
-        "ggplot2",
         "biovizBase",
         "testthat",
         "Hmisc",
@@ -12113,24 +11338,20 @@
     "qsmooth": [
         "sva",
         "Hmisc",
-        "ggplot2",
         "viridis",
         "genefilter",
         "annotate"
     ],
     "qsvaR": [
         "sva",
-        "ggplot2",
         "genefilter",
         "annotate"
     ],
     "quantiseqr": [
-        "ggplot2",
         "tidyr"
     ],
     "quantro": [
         "minfi",
-        "ggplot2",
         "bumphunter",
         "genefilter",
         "GEOquery",
@@ -12163,14 +11384,10 @@
     "QuaternaryProd": [],
     "QUBIC": [
         "biclust",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
-    "qvalue": [
-        "ggplot2"
-    ],
+    "qvalue": [],
     "R3CPET": [
-        "ggplot2",
         "Hmisc",
         "ggbio",
         "biovizBase",
@@ -12192,7 +11409,6 @@
         "rtracklayer",
         "qvalue",
         "sqldf",
-        "ggplot2",
         "GenomicAlignments"
     ],
     "R453Plus1Toolbox": [
@@ -12214,12 +11430,10 @@
         "fgsea",
         "shinyjs",
         "shinydashboard",
-        "ggplot2",
         "cowplot"
     ],
     "RaggedExperiment": [],
     "ramr": [
-        "ggplot2",
         "EnvStats"
     ],
     "ramwas": [
@@ -12258,7 +11472,6 @@
     ],
     "Rbec": [
         "dada2",
-        "ggplot2",
         "readr",
         "ShortRead",
         "vroom",
@@ -12275,7 +11488,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "genomation",
-        "ggplot2",
         "cowplot",
         "ggseqlogo",
         "gprofiler2",
@@ -12287,11 +11499,8 @@
         "vroom",
         "dbplyr"
     ],
-    "rcellminer": [
-        "ggplot2"
-    ],
+    "rcellminer": [],
     "rCGH": [
-        "ggplot2",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -12309,23 +11518,19 @@
         "annotate"
     ],
     "RCM": [
-        "ggplot2",
         "phyloseq"
     ],
     "Rcpi": [
         "GOSemSim",
         "GO.db"
     ],
-    "RCSL": [
-        "ggplot2"
-    ],
+    "RCSL": [],
     "Rcwl": [
         "DiagrammeR",
         "readr",
         "tidyr",
         "viridis",
-        "vroom",
-        "ggplot2"
+        "vroom"
     ],
     "RcwlPipelines": [
         "Rcwl",
@@ -12335,8 +11540,7 @@
         "readr",
         "tidyr",
         "viridis",
-        "vroom",
-        "ggplot2"
+        "vroom"
     ],
     "RCy3": [
         "IRkernel"
@@ -12346,13 +11550,11 @@
         "tidyr"
     ],
     "ReactomeGSA": [
-        "ggplot2",
         "tidyr"
     ],
     "ReactomePA": [
         "DOSE",
         "enrichplot",
-        "ggplot2",
         "ggraph",
         "reactome.db",
         "graphite",
@@ -12383,12 +11585,10 @@
         "BiocStyle"
     ],
     "receptLoss": [
-        "ggplot2",
         "tidyr"
     ],
     "reconsi": [
-        "phyloseq",
-        "ggplot2"
+        "phyloseq"
     ],
     "recount": [
         "derfinder",
@@ -12404,7 +11604,6 @@
         "tidyr",
         "biomaRt",
         "VariantAnnotation",
-        "ggplot2",
         "viridis",
         "vroom",
         "BiocFileCache",
@@ -12436,7 +11635,6 @@
     ],
     "recoup": [
         "GenomicAlignments",
-        "ggplot2",
         "biomaRt",
         "GenomicFeatures",
         "rtracklayer",
@@ -12452,7 +11650,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "biomaRt",
-        "ggplot2",
         "InteractionSet",
         "regioneR",
         "BiocFileCache",
@@ -12465,7 +11662,6 @@
         "DOSE",
         "DESeq2",
         "WGCNA",
-        "ggplot2",
         "tidyr",
         "geneplotter",
         "HDO.db",
@@ -12484,7 +11680,6 @@
     ],
     "regioneReloaded": [
         "regioneR",
-        "ggplot2",
         "ggrepel",
         "BSgenome",
         "rtracklayer",
@@ -12503,7 +11698,6 @@
         "qvalue",
         "rtracklayer",
         "geneplotter",
-        "ggplot2",
         "annotate",
         "biomaRt",
         "VariantAnnotation",
@@ -12529,7 +11723,6 @@
         "IRkernel",
         "Hmisc",
         "VariantAnnotation",
-        "ggplot2",
         "viridis"
     ],
     "REMP": [
@@ -12541,7 +11734,6 @@
         "AnnotationHub",
         "org.Hs.eg.db",
         "BiocFileCache",
-        "ggplot2",
         "recipes",
         "bumphunter",
         "genefilter",
@@ -12562,8 +11754,7 @@
         "Ringo",
         "genefilter",
         "vsn",
-        "annotate",
-        "ggplot2"
+        "annotate"
     ],
     "ReportingTools": [
         "Category",
@@ -12572,7 +11763,6 @@
         "PFAM.db",
         "GSEABase",
         "DESeq2",
-        "ggplot2",
         "ggbio",
         "genefilter",
         "geneplotter",
@@ -12604,7 +11794,6 @@
         "NMF",
         "BSgenome",
         "BSgenome.Hsapiens.1000genomes.hs37d5",
-        "ggplot2",
         "rtracklayer",
         "GenomicAlignments"
     ],
@@ -12617,7 +11806,6 @@
     ],
     "rexposome": [
         "FactoMineR",
-        "ggplot2",
         "Hmisc",
         "lme4",
         "ggrepel",
@@ -12635,9 +11823,7 @@
     "rfaRm": [
         "rvest"
     ],
-    "Rfastp": [
-        "ggplot2"
-    ],
+    "Rfastp": [],
     "rfPred": [],
     "rGADEM": [
         "BSgenome",
@@ -12656,7 +11842,6 @@
     ],
     "RgnTX": [
         "GenomicFeatures",
-        "ggplot2",
         "regioneR",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "rtracklayer",
@@ -12687,7 +11872,6 @@
         "GO.db",
         "BiocFileCache",
         "geneplotter",
-        "ggplot2",
         "geneLenDataBase",
         "dbplyr",
         "rtracklayer",
@@ -12707,7 +11891,6 @@
     "RiboCrypt": [
         "ORFik",
         "GenomicFeatures",
-        "ggplot2",
         "plotly",
         "rtracklayer",
         "biomaRt",
@@ -12730,7 +11913,6 @@
         "reldist",
         "qvalue",
         "DESeq2",
-        "ggplot2",
         "BiocFileCache",
         "dbplyr",
         "geneplotter",
@@ -12743,7 +11925,6 @@
     "RiboProfiling": [
         "GenomicFeatures",
         "GenomicAlignments",
-        "ggplot2",
         "ggbio",
         "rtracklayer",
         "sqldf",
@@ -12761,7 +11942,6 @@
         "dbplyr"
     ],
     "ribor": [
-        "ggplot2",
         "tidyr"
     ],
     "riboSeqR": [],
@@ -12773,7 +11953,6 @@
         "motifStack",
         "rtracklayer",
         "RUVSeq",
-        "ggplot2",
         "ggfittext",
         "ggrepel",
         "ShortRead",
@@ -12791,7 +11970,6 @@
         "car",
         "cowplot",
         "egg",
-        "ggplot2",
         "rtracklayer",
         "pbkrtest",
         "lme4",
@@ -12809,12 +11987,10 @@
     "Ringo": [
         "genefilter",
         "vsn",
-        "annotate",
-        "ggplot2"
+        "annotate"
     ],
     "RIPAT": [
         "biomaRt",
-        "ggplot2",
         "karyoploteR",
         "regioneR",
         "rtracklayer",
@@ -12833,11 +12009,9 @@
         "xcms",
         "MSnbase",
         "MsFeatures",
-        "vsn",
-        "ggplot2"
+        "vsn"
     ],
     "RITAN": [
-        "ggplot2",
         "STRINGdb",
         "sqldf",
         "BgeeDB",
@@ -12853,16 +12027,13 @@
         "GO.db",
         "dbplyr"
     ],
-    "RIVER": [
-        "ggplot2"
-    ],
+    "RIVER": [],
     "RJMCMCNucleosomes": [
         "consensusSeekeR",
         "rtracklayer",
         "GenomicAlignments"
     ],
     "RLSeq": [
-        "ggplot2",
         "regioneR",
         "valr",
         "caretEnsemble",
@@ -12890,7 +12061,6 @@
         "MSnbase",
         "webchem",
         "ChemmineR",
-        "ggplot2",
         "vsn",
         "rvest"
     ],
@@ -12902,7 +12072,6 @@
         "DESeq2",
         "BiocStyle",
         "geneplotter",
-        "ggplot2",
         "miniUI",
         "pkgdown",
         "testthat",
@@ -12921,7 +12090,6 @@
         "GenomicAlignments"
     ],
     "RNAAgeCalc": [
-        "ggplot2",
         "recount",
         "org.Hs.eg.db",
         "derfinder",
@@ -12944,7 +12112,6 @@
         "dbplyr"
     ],
     "RNAdecay": [
-        "ggplot2",
         "nloptr",
         "testthat",
         "waldo",
@@ -12960,7 +12127,6 @@
         "broom",
         "tidyr",
         "BiocFileCache",
-        "ggplot2",
         "GenomicAlignments",
         "dbplyr"
     ],
@@ -12971,15 +12137,13 @@
         "vsn",
         "GSEABase",
         "Category",
-        "annotate",
-        "ggplot2"
+        "annotate"
     ],
     "RNAmodR": [
         "GenomicFeatures",
         "GenomicAlignments",
         "rtracklayer",
         "BSgenome",
-        "ggplot2",
         "Gviz",
         "biomaRt",
         "ensembldb",
@@ -13000,7 +12164,6 @@
         "BSgenome",
         "biovizBase",
         "GenomicAlignments",
-        "ggplot2",
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
@@ -13013,7 +12176,6 @@
         "GenomicAlignments",
         "rtracklayer",
         "BSgenome",
-        "ggplot2",
         "Gviz",
         "biomaRt",
         "ensembldb",
@@ -13034,7 +12196,6 @@
         "BSgenome",
         "biovizBase",
         "GenomicAlignments",
-        "ggplot2",
         "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
@@ -13042,12 +12203,10 @@
         "viridis"
     ],
     "RNAsense": [
-        "ggplot2",
         "NBPSeq",
         "qvalue"
     ],
     "RNASeqR": [
-        "ggplot2",
         "pathview",
         "ballgown",
         "FactoMineR",
@@ -13105,7 +12264,6 @@
         "rematch2"
     ],
     "RnaSeqSampleSize": [
-        "ggplot2",
         "biomaRt",
         "recount",
         "ggpubr",
@@ -13142,7 +12300,6 @@
     ],
     "RnBeads": [
         "fields",
-        "ggplot2",
         "methylumi",
         "viridis",
         "FDb.InfiniumMethylation.hg19",
@@ -13171,12 +12328,10 @@
         "fission"
     ],
     "RolDE": [
-        "qvalue",
-        "ggplot2"
+        "qvalue"
     ],
     "ROntoTools": [],
     "ropls": [
-        "ggplot2",
         "plotly",
         "MultiAssayExperiment",
         "MultiDataSet",
@@ -13185,11 +12340,9 @@
     ],
     "RPA": [
         "BiocStyle",
-        "phyloseq",
-        "ggplot2"
+        "phyloseq"
     ],
     "rprimer": [
-        "ggplot2",
         "patchwork",
         "shinycssloaders",
         "shinyFeedback"
@@ -13200,7 +12353,6 @@
     ],
     "Rqc": [
         "ShortRead",
-        "ggplot2",
         "BiocStyle",
         "biovizBase",
         "GenomicAlignments",
@@ -13224,7 +12376,6 @@
         "lme4",
         "TFisher",
         "mutoss",
-        "ggplot2",
         "plotly",
         "MultiAssayExperiment",
         "MultiDataSet",
@@ -13238,13 +12389,11 @@
     ],
     "rqubic": [
         "biclust",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "rrvgo": [
         "GOSemSim",
         "GO.db",
-        "ggplot2",
         "ggrepel",
         "treemap"
     ],
@@ -13257,7 +12406,6 @@
     "RTCGA": [
         "rvest",
         "survminer",
-        "ggplot2",
         "ggthemes",
         "viridis",
         "ggpubr",
@@ -13301,7 +12449,6 @@
         "nloptr",
         "broom",
         "tidyr",
-        "ggplot2",
         "testthat",
         "waldo",
         "rematch2"
@@ -13314,7 +12461,6 @@
         "nloptr",
         "broom",
         "tidyr",
-        "ggplot2",
         "testthat",
         "waldo",
         "rematch2"
@@ -13323,7 +12469,6 @@
         "RTN",
         "RTNduals",
         "egg",
-        "ggplot2",
         "car",
         "pbkrtest",
         "lme4",
@@ -13335,15 +12480,13 @@
         "rematch2"
     ],
     "Rtpca": [
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "rtracklayer": [
         "GenomicAlignments"
     ],
     "Rtreemix": [
         "Hmisc",
-        "ggplot2",
         "viridis"
     ],
     "rTRM": [],
@@ -13359,7 +12502,6 @@
         "biclust",
         "testthat",
         "tidyr",
-        "ggplot2",
         "waldo",
         "rematch2"
     ],
@@ -13376,8 +12518,7 @@
     "RVS": [
         "gRain",
         "broom",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "rWikiPathways": [
         "tidyr"
@@ -13388,7 +12529,6 @@
         "MGFM",
         "MGFR",
         "annotate",
-        "ggplot2",
         "biomaRt",
         "BiocFileCache",
         "dbplyr"
@@ -13402,23 +12542,17 @@
         "ggdendro",
         "shinyWidgets",
         "BiocStyle",
-        "ggplot2",
         "tidyr"
     ],
     "sangerseqR": [],
-    "satuRn": [
-        "ggplot2"
-    ],
-    "savR": [
-        "ggplot2"
-    ],
+    "satuRn": [],
+    "savR": [],
     "SBGNview": [
         "pathview",
         "SBGNview.data",
         "org.Hs.eg.db"
     ],
     "SC3": [
-        "ggplot2",
         "SingleCellExperiment"
     ],
     "Scale4C": [],
@@ -13426,7 +12560,6 @@
         "SingleCellExperiment",
         "Seurat",
         "tensorflow",
-        "ggplot2",
         "cowplot",
         "ggrepel",
         "ggridges",
@@ -13449,7 +12582,6 @@
         "vroom"
     ],
     "scanMiR": [
-        "ggplot2",
         "ggseqlogo",
         "cowplot"
     ],
@@ -13457,7 +12589,6 @@
         "AnnotationHub",
         "ensembldb",
         "GenomicFeatures",
-        "ggplot2",
         "plotly",
         "rintrojs",
         "rtracklayer",
@@ -13478,7 +12609,6 @@
     "scAnnotatR": [
         "Seurat",
         "SingleCellExperiment",
-        "ggplot2",
         "caret",
         "AnnotationHub",
         "BiocFileCache",
@@ -13513,20 +12643,16 @@
     "scater": [
         "SingleCellExperiment",
         "scuttle",
-        "ggplot2",
         "ggbeeswarm",
         "viridis",
         "ggrastr",
         "ggrepel"
     ],
-    "scatterHatch": [
-        "ggplot2"
-    ],
+    "scatterHatch": [],
     "scBFA": [
         "SingleCellExperiment",
         "Seurat",
         "zinbwave",
-        "ggplot2",
         "DESeq2",
         "geneplotter",
         "cowplot",
@@ -13543,7 +12669,6 @@
     ],
     "scBubbletree": [
         "Seurat",
-        "ggplot2",
         "ggtree",
         "patchwork",
         "aplot",
@@ -13566,7 +12691,6 @@
         "Seurat",
         "scuttle",
         "cowplot",
-        "ggplot2",
         "ggrepel",
         "ggridges",
         "miniUI",
@@ -13578,7 +12702,6 @@
     ],
     "scClassify": [
         "ggraph",
-        "ggplot2",
         "Cepo",
         "GSEABase",
         "SingleCellExperiment",
@@ -13594,7 +12717,6 @@
         "rstan",
         "SingleCellExperiment",
         "tidyr",
-        "ggplot2",
         "ggrepel",
         "patchwork",
         "readr",
@@ -13602,7 +12724,6 @@
     ],
     "scDataviz": [
         "SingleCellExperiment",
-        "ggplot2",
         "ggrepel",
         "Seurat",
         "cowplot",
@@ -13621,7 +12742,6 @@
         "scuttle",
         "rtracklayer",
         "GenomicAlignments",
-        "ggplot2",
         "ggbeeswarm",
         "viridis",
         "ggrastr",
@@ -13629,7 +12749,6 @@
     ],
     "scDD": [
         "fields",
-        "ggplot2",
         "EBSeq",
         "arm",
         "SingleCellExperiment",
@@ -13643,7 +12762,6 @@
         "rematch2"
     ],
     "scDDboost": [
-        "ggplot2",
         "EBSeq",
         "SingleCellExperiment",
         "Oscope",
@@ -13654,13 +12772,10 @@
     "scds": [
         "SingleCellExperiment"
     ],
-    "scFeatureFilter": [
-        "ggplot2"
-    ],
+    "scFeatureFilter": [],
     "scGPS": [
         "SingleCellExperiment",
         "caret",
-        "ggplot2",
         "DESeq2",
         "recipes",
         "geneplotter",
@@ -13671,7 +12786,6 @@
     "schex": [
         "SingleCellExperiment",
         "Seurat",
-        "ggplot2",
         "ggforce",
         "concaveman",
         "cowplot",
@@ -13686,18 +12800,15 @@
     ],
     "scHOT": [
         "SingleCellExperiment",
-        "ggplot2",
         "ggforce"
     ],
     "scifer": [
-        "ggplot2",
         "sangerseqR",
         "kableExtra",
         "rvest"
     ],
     "scMAGeCK": [
         "Seurat",
-        "ggplot2",
         "cowplot",
         "ggrepel",
         "ggridges",
@@ -13709,8 +12820,7 @@
         "tidyr"
     ],
     "scmap": [
-        "SingleCellExperiment",
-        "ggplot2"
+        "SingleCellExperiment"
     ],
     "scMerge": [
         "M3Drop",
@@ -13718,14 +12828,12 @@
         "SingleCellExperiment",
         "reldist",
         "Hmisc",
-        "ggplot2",
         "viridis",
         "densEstBayes",
         "rstan"
     ],
     "scMET": [
         "rstan",
-        "ggplot2",
         "viridis",
         "BiocStyle",
         "cowplot",
@@ -13738,7 +12846,6 @@
         "annotatr",
         "BiocFileCache",
         "GenomicFeatures",
-        "ggplot2",
         "readr",
         "regioneR",
         "rtracklayer",
@@ -13748,8 +12855,7 @@
         "GenomicAlignments"
     ],
     "SCnorm": [
-        "SingleCellExperiment",
-        "ggplot2"
+        "SingleCellExperiment"
     ],
     "scone": [
         "RUVSeq",
@@ -13764,7 +12870,6 @@
         "dbplyr"
     ],
     "Sconify": [
-        "ggplot2",
         "readr",
         "vroom"
     ],
@@ -13791,12 +12896,10 @@
         "SingleCellExperiment",
         "MultiAssayExperiment",
         "tidyr",
-        "plotly",
-        "ggplot2"
+        "plotly"
     ],
     "scPCA": [],
     "scPipe": [
-        "ggplot2",
         "SingleCellExperiment",
         "biomaRt",
         "GGally",
@@ -13830,11 +12933,9 @@
     "ScreenR": [
         "patchwork",
         "ggvenn",
-        "ggplot2",
         "tidyr"
     ],
     "scRepertoire": [
-        "ggplot2",
         "ggalluvial",
         "SingleCellExperiment",
         "ggraph",
@@ -13848,7 +12949,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "ShortRead",
-        "ggplot2",
         "ggthemes",
         "ggbio",
         "rtracklayer",
@@ -13885,7 +12985,6 @@
         "ReactomePA",
         "DOSE",
         "schex",
-        "ggplot2",
         "BiocFileCache",
         "GSEABase",
         "genefilter",
@@ -13935,7 +13034,6 @@
         "nnTensor",
         "msigdbr",
         "schex",
-        "ggplot2",
         "annotate",
         "babelgene",
         "fields",
@@ -13961,7 +13059,6 @@
         "scater",
         "Seurat",
         "SingleCellExperiment",
-        "ggplot2",
         "viridis",
         "tidygraph",
         "ggrepel",
@@ -13991,15 +13088,13 @@
         "SingleCellExperiment"
     ],
     "SDAMS": [
-        "qvalue",
-        "ggplot2"
+        "qvalue"
     ],
     "sechm": [],
     "segmenter": [
         "ChIPseeker",
         "enrichplot",
         "GenomicFeatures",
-        "ggplot2",
         "rtracklayer",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "aplot",
@@ -14036,7 +13131,6 @@
     ],
     "selectKSigs": [
         "HiLDA",
-        "ggplot2",
         "cowplot",
         "GenomicFeatures",
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -14060,16 +13154,13 @@
         "Hmisc",
         "GO.db",
         "dbplyr",
-        "ggplot2",
         "viridis"
     ],
     "seqArchR": [
-        "ggplot2",
         "ggseqlogo"
     ],
     "seqCAT": [
         "VariantAnnotation",
-        "ggplot2",
         "rtracklayer",
         "tidyr",
         "GenomicAlignments",
@@ -14079,21 +13170,17 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "seqcombo": [
-        "ggplot2"
-    ],
+    "seqcombo": [],
     "SeqGate": [],
     "SeqGSEA": [
         "DESeq2",
         "biomaRt",
         "BiocFileCache",
         "geneplotter",
-        "ggplot2",
         "dbplyr",
         "annotate"
     ],
     "seqsetvis": [
-        "ggplot2",
         "cowplot",
         "GenomicAlignments",
         "ggplotify",
@@ -14102,7 +13189,6 @@
     ],
     "SeqSQC": [
         "ExperimentHub",
-        "ggplot2",
         "GGally",
         "rbokeh",
         "AnnotationHub",
@@ -14115,13 +13201,11 @@
         "logistf",
         "mice",
         "broom",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "sesame": [
         "sesameData",
         "readr",
-        "ggplot2",
         "BiocFileCache",
         "dbplyr",
         "vroom",
@@ -14133,7 +13217,6 @@
         "DESeq2",
         "sva",
         "geneplotter",
-        "ggplot2",
         "genefilter",
         "annotate"
     ],
@@ -14153,7 +13236,6 @@
         "dbplyr"
     ],
     "shinyepico": [
-        "ggplot2",
         "heatmaply",
         "minfi",
         "plotly",
@@ -14202,7 +13284,6 @@
         "phyloseq",
         "lmerTest",
         "lme4",
-        "ggplot2",
         "nloptr",
         "testthat",
         "waldo",
@@ -14216,16 +13297,12 @@
         "ggvis"
     ],
     "sigFeature": [],
-    "SigFuge": [
-        "ggplot2"
-    ],
+    "SigFuge": [],
     "sights": [
-        "qvalue",
-        "ggplot2"
+        "qvalue"
     ],
     "signatureSearch": [
         "org.Hs.eg.db",
-        "ggplot2",
         "ExperimentHub",
         "fgsea",
         "qvalue",
@@ -14267,7 +13344,6 @@
         "NMF",
         "nloptr",
         "survivalAnalysis",
-        "ggplot2",
         "survminer",
         "ggpubr",
         "cowplot",
@@ -14300,7 +13376,6 @@
         "rematch2"
     ],
     "signifinder": [
-        "ggplot2",
         "org.Hs.eg.db",
         "patchwork",
         "DGEobj.utils",
@@ -14359,18 +13434,14 @@
         "globaltest",
         "annotate"
     ],
-    "SIMAT": [
-        "ggplot2"
-    ],
+    "SIMAT": [],
     "SimBindProfiles": [
         "Ringo",
         "genefilter",
         "vsn",
-        "annotate",
-        "ggplot2"
+        "annotate"
     ],
     "SimBu": [
-        "ggplot2",
         "phyloseq",
         "tidyr"
     ],
@@ -14380,7 +13451,6 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "viridis",
-        "ggplot2",
         "ggbeeswarm",
         "shinydashboard",
         "DropletUtils",
@@ -14394,7 +13464,6 @@
         "org.Hs.eg.db"
     ],
     "sincell": [
-        "ggplot2",
         "fields",
         "viridis"
     ],
@@ -14419,7 +13488,6 @@
         "ExperimentHub",
         "ensembldb",
         "fields",
-        "ggplot2",
         "ggplotify",
         "ggrepel",
         "ggtree",
@@ -14503,7 +13571,6 @@
     ],
     "SingleR": [],
     "singscore": [
-        "ggplot2",
         "ggrepel",
         "GSEABase",
         "plotly",
@@ -14513,7 +13580,6 @@
     "SISPA": [
         "genefilter",
         "GSVA",
-        "ggplot2",
         "annotate",
         "GSEABase",
         "SingleCellExperiment"
@@ -14528,7 +13594,6 @@
     ],
     "sitePath": [
         "aplot",
-        "ggplot2",
         "ggrepel",
         "ggtree",
         "tidytree",
@@ -14543,7 +13608,6 @@
         "wateRmelon",
         "IlluminaHumanMethylation450kmanifest",
         "minfi",
-        "ggplot2",
         "FDb.InfiniumMethylation.hg19",
         "annotate",
         "genefilter",
@@ -14564,7 +13628,6 @@
         "dbplyr"
     ],
     "slalom": [
-        "ggplot2",
         "GSEABase",
         "SingleCellExperiment",
         "annotate"
@@ -14579,7 +13642,6 @@
     "SMITE": [
         "Hmisc",
         "org.Hs.eg.db",
-        "ggplot2",
         "reactome.db",
         "BioNet",
         "goseq",
@@ -14597,8 +13659,7 @@
         "tilingArray",
         "vsn",
         "genefilter",
-        "annotate",
-        "ggplot2"
+        "annotate"
     ],
     "snapcount": [],
     "snm": [
@@ -14610,7 +13671,6 @@
     ],
     "SNPhood": [
         "DESeq2",
-        "ggplot2",
         "VariantAnnotation",
         "geneplotter",
         "rtracklayer",
@@ -14623,21 +13683,18 @@
         "dbplyr"
     ],
     "soGGi": [
-        "ggplot2",
         "GenomicAlignments",
         "rtracklayer",
         "chipseq",
         "ShortRead"
     ],
     "sojourner": [
-        "ggplot2",
         "sampSurf",
         "shinyjs"
     ],
     "SomaticSignatures": [
         "VariantAnnotation",
         "NMF",
-        "ggplot2",
         "ggbio",
         "Hmisc",
         "biovizBase",
@@ -14658,7 +13715,6 @@
     "Spaniel": [
         "Seurat",
         "SingleCellExperiment",
-        "ggplot2",
         "scater",
         "scran",
         "DropletUtils",
@@ -14679,7 +13735,6 @@
     "sparrow": [
         "babelgene",
         "BiocSet",
-        "ggplot2",
         "GSEABase",
         "plotly",
         "viridis",
@@ -14689,12 +13744,10 @@
     "SparseSignatures": [
         "NMF",
         "BSgenome",
-        "ggplot2",
         "rtracklayer",
         "GenomicAlignments"
     ],
     "spaSim": [
-        "ggplot2",
         "SpatialExperiment",
         "SingleCellExperiment",
         "DropletUtils",
@@ -14705,7 +13758,6 @@
     "SpatialCPie": [
         "ggforce",
         "ggiraph",
-        "ggplot2",
         "ggrepel",
         "readr",
         "shinycssloaders",
@@ -14716,7 +13768,6 @@
     ],
     "spatialDE": [
         "SpatialExperiment",
-        "ggplot2",
         "ggrepel",
         "SingleCellExperiment",
         "DropletUtils",
@@ -14731,7 +13782,6 @@
         "EnvStats",
         "lmerTest",
         "GGally",
-        "ggplot2",
         "tidyr",
         "lme4",
         "ggbeeswarm",
@@ -14762,7 +13812,6 @@
         "BiocFileCache",
         "WGCNA",
         "genefilter",
-        "ggplot2",
         "ggdendro",
         "ggplotify",
         "plotly",
@@ -14786,7 +13835,6 @@
         "BSgenome",
         "GenomicFeatures",
         "GenomicInteractions",
-        "ggplot2",
         "motifmatchr",
         "TFBSTools",
         "rtracklayer",
@@ -14810,18 +13858,15 @@
     "specL": [],
     "SpeCond": [
         "fields",
-        "viridis",
-        "ggplot2"
+        "viridis"
     ],
     "SpectralTAD": [
         "HiCcompare",
-        "ggplot2",
         "InteractionSet",
         "QDNAseq"
     ],
     "SPIAT": [
         "SpatialExperiment",
-        "ggplot2",
         "plotly",
         "vroom",
         "dittoSeq",
@@ -14841,7 +13886,6 @@
         "scuttle"
     ],
     "spicyR": [
-        "ggplot2",
         "concaveman",
         "lmerTest",
         "lme4",
@@ -14868,12 +13912,10 @@
     "spiky": [
         "GenomicAlignments",
         "BSgenome",
-        "ggplot2",
         "rtracklayer"
     ],
     "splatter": [
         "SingleCellExperiment",
-        "ggplot2",
         "scater",
         "scuttle",
         "ggbeeswarm",
@@ -14883,7 +13925,6 @@
     ],
     "SpliceWiz": [
         "NxtIRFdata",
-        "ggplot2",
         "AnnotationHub",
         "BiocFileCache",
         "BSgenome",
@@ -14917,7 +13958,6 @@
         "annotate"
     ],
     "SPLINTER": [
-        "ggplot2",
         "biomaRt",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -14939,7 +13979,6 @@
         "biomaRt",
         "ggridges",
         "cvms",
-        "ggplot2",
         "MetBrewer",
         "ggpubr",
         "tidyr",
@@ -14974,7 +14013,6 @@
     ],
     "SpotClean": [
         "SpatialExperiment",
-        "ggplot2",
         "viridis",
         "Seurat",
         "cowplot",
@@ -14993,12 +14031,10 @@
         "tidyr"
     ],
     "SPOTlight": [
-        "ggplot2",
         "NMF",
         "SingleCellExperiment"
     ],
     "spqn": [
-        "ggplot2",
         "ggridges"
     ],
     "SPsimSeq": [
@@ -15006,16 +14042,13 @@
         "Hmisc",
         "WGCNA",
         "phyloseq",
-        "ggplot2",
         "viridis",
         "GO.db"
     ],
     "SQLDataFrame": [
         "dbplyr"
     ],
-    "sRACIPE": [
-        "ggplot2"
-    ],
+    "sRACIPE": [],
     "SRAdb": [
         "GEOquery",
         "readr",
@@ -15031,7 +14064,6 @@
         "Gviz",
         "BiocStyle",
         "geneplotter",
-        "ggplot2",
         "miniUI",
         "pkgdown",
         "testthat",
@@ -15050,7 +14082,6 @@
     ],
     "sSNAPPY": [
         "graphite",
-        "ggplot2",
         "ggraph",
         "org.Hs.eg.db",
         "ggforce",
@@ -15063,7 +14094,6 @@
     "ssPATHS": [
         "MESS",
         "geepack",
-        "ggplot2",
         "ggformula",
         "broom",
         "ggstance",
@@ -15077,9 +14107,7 @@
         "vroom"
     ],
     "ssrch": [],
-    "ssviz": [
-        "ggplot2"
-    ],
+    "ssviz": [],
     "stageR": [],
     "STAN": [
         "Gviz",
@@ -15094,14 +14122,12 @@
         "Hmisc",
         "VariantAnnotation",
         "dbplyr",
-        "ggplot2",
         "viridis"
     ],
     "standR": [
         "SpatialExperiment",
         "SingleCellExperiment",
         "readr",
-        "ggplot2",
         "tidyr",
         "ruv",
         "patchwork",
@@ -15125,27 +14151,22 @@
         "vsn",
         "GSEABase",
         "Category",
-        "annotate",
-        "ggplot2"
+        "annotate"
     ],
     "StarBioTrek": [
         "SpidermiR",
         "graphite",
-        "ggplot2",
         "miRNAtap",
         "miRNAtap.db",
         "org.Hs.eg.db",
         "sqldf"
     ],
-    "STATegRa": [
-        "ggplot2"
-    ],
+    "STATegRa": [],
     "Statial": [
         "concaveman",
         "tidyverse",
         "tidyr",
         "SingleCellExperiment",
-        "ggplot2",
         "broom",
         "dbplyr",
         "dtplyr",
@@ -15160,7 +14181,6 @@
         "vroom"
     ],
     "STdeconvolve": [
-        "ggplot2",
         "scatterpie",
         "viridis",
         "ggforce",
@@ -15169,7 +14189,6 @@
     ],
     "stJoincount": [
         "spdep",
-        "ggplot2",
         "Seurat",
         "SpatialExperiment",
         "cowplot",
@@ -15189,7 +14208,6 @@
     ],
     "strandCheckR": [
         "GenomicAlignments",
-        "ggplot2",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "GenomicFeatures",
         "rtracklayer",
@@ -15203,7 +14221,6 @@
     "struct": [],
     "structToolbox": [
         "struct",
-        "ggplot2",
         "ggthemes"
     ],
     "StructuralVariantAnnotation": [
@@ -15218,7 +14235,6 @@
     ],
     "SubCellBarCode": [
         "caret",
-        "ggplot2",
         "ggrepel",
         "org.Hs.eg.db",
         "recipes",
@@ -15227,16 +14243,12 @@
     ],
     "subSeq": [
         "tidyr",
-        "ggplot2",
         "qvalue"
     ],
-    "SUITOR": [
-        "ggplot2"
-    ],
+    "SUITOR": [],
     "SummarizedBenchmark": [
         "tidyr",
-        "UpSetR",
-        "ggplot2"
+        "UpSetR"
     ],
     "Summix": [
         "nloptr",
@@ -15248,7 +14260,6 @@
         "caret",
         "tidyr",
         "rsample",
-        "ggplot2",
         "recipes",
         "ipred"
     ],
@@ -15259,7 +14270,6 @@
     ],
     "surfaltr": [
         "biomaRt",
-        "ggplot2",
         "readr",
         "testthat",
         "BiocFileCache",
@@ -15273,7 +14283,6 @@
     ],
     "survtype": [
         "survminer",
-        "ggplot2",
         "ggpubr",
         "broom",
         "tidyr",
@@ -15319,28 +14328,24 @@
         "dbplyr"
     ],
     "SWATH2stats": [
-        "ggplot2",
         "biomaRt",
         "BiocFileCache",
         "dbplyr"
     ],
     "switchde": [
-        "SingleCellExperiment",
-        "ggplot2"
+        "SingleCellExperiment"
     ],
     "synapter": [
         "MSnbase",
         "qvalue",
         "readr",
         "vsn",
-        "ggplot2",
         "vroom"
     ],
     "synergyfinder": [
         "drc",
         "tidyverse",
         "tidyr",
-        "ggplot2",
         "ggforce",
         "gstat",
         "SpatialExtremes",
@@ -15374,7 +14379,6 @@
     ],
     "SynExtend": [],
     "synlet": [
-        "ggplot2",
         "doBy",
         "broom",
         "pbkrtest",
@@ -15387,7 +14391,6 @@
     ],
     "syntenet": [
         "rtracklayer",
-        "ggplot2",
         "ggnetwork",
         "intergraph",
         "testthat",
@@ -15399,13 +14402,11 @@
     ],
     "systemPipeR": [
         "ShortRead",
-        "ggplot2",
         "GenomicAlignments"
     ],
     "systemPipeShiny": [
         "spsComps",
         "drawer",
-        "ggplot2",
         "plotly",
         "shinyAce",
         "shinyFiles",
@@ -15422,7 +14423,6 @@
     "systemPipeTools": [
         "DESeq2",
         "GGally",
-        "ggplot2",
         "ggrepel",
         "ggtree",
         "plotly",
@@ -15438,7 +14438,6 @@
     ],
     "TADCompare": [
         "HiCcompare",
-        "ggplot2",
         "tidyr",
         "ggpubr",
         "cowplot",
@@ -15458,7 +14457,6 @@
         "rematch2"
     ],
     "tanggle": [
-        "ggplot2",
         "ggtree",
         "aplot",
         "ggfun",
@@ -15480,7 +14478,6 @@
     ],
     "target": [],
     "TargetDecoy": [
-        "ggplot2",
         "ggpubr",
         "miniUI",
         "ggrepel",
@@ -15499,7 +14496,6 @@
         "rematch2"
     ],
     "TarSeqQC": [
-        "ggplot2",
         "cowplot",
         "GenomicAlignments",
         "Hmisc",
@@ -15508,7 +14504,6 @@
     "TBSignatureProfiler": [
         "ASSIGN",
         "DESeq2",
-        "ggplot2",
         "GSVA",
         "singscore",
         "sva",
@@ -15524,12 +14519,10 @@
     "TCC": [
         "DESeq2",
         "geneplotter",
-        "ggplot2",
         "annotate"
     ],
     "TCGAbiolinks": [
         "biomaRt",
-        "ggplot2",
         "rvest",
         "readr",
         "tidyr",
@@ -15544,7 +14537,6 @@
         "ggrepel",
         "caret",
         "shinyFiles",
-        "ggplot2",
         "pathview",
         "ELMER",
         "clusterProfiler",
@@ -15629,8 +14621,7 @@
         "dbplyr"
     ],
     "TCseq": [
-        "GenomicAlignments",
-        "ggplot2"
+        "GenomicAlignments"
     ],
     "TDARACNE": [
         "GenKern"
@@ -15641,7 +14632,6 @@
         "DESeq2",
         "BiocFileCache",
         "geneplotter",
-        "ggplot2",
         "dbplyr",
         "annotate"
     ],
@@ -15681,8 +14671,7 @@
     ],
     "TFARM": [
         "fields",
-        "viridis",
-        "ggplot2"
+        "viridis"
     ],
     "TFBSTools": [
         "BSgenome",
@@ -15690,7 +14679,6 @@
         "rtracklayer",
         "GenomicAlignments",
         "readr",
-        "ggplot2",
         "annotate",
         "GO.db",
         "vroom"
@@ -15713,7 +14701,6 @@
         "cowplot",
         "DESeq2",
         "GenomicFeatures",
-        "ggplot2",
         "rtracklayer",
         "BiocFileCache",
         "readr",
@@ -15740,12 +14727,10 @@
         "ttservice",
         "SingleCellExperiment",
         "tidyr",
-        "ggplot2",
         "plotly"
     ],
     "tidySummarizedExperiment": [
         "tidyr",
-        "ggplot2",
         "plotly"
     ],
     "tigre": [
@@ -15754,13 +14739,11 @@
     "tilingArray": [
         "vsn",
         "genefilter",
-        "annotate",
-        "ggplot2"
+        "annotate"
     ],
     "timeOmics": [
         "mixOmics",
         "tidyr",
-        "ggplot2",
         "ggrepel",
         "propr"
     ],
@@ -15772,7 +14755,6 @@
         "FreqProf",
         "ggdendro",
         "gghighlight",
-        "ggplot2",
         "RCy3",
         "readxl",
         "rWikiPathways",
@@ -15809,11 +14791,9 @@
         "WGCNA",
         "Hmisc",
         "GO.db",
-        "ggplot2",
         "viridis"
     ],
     "TissueEnrich": [
-        "ggplot2",
         "GSEABase",
         "tidyr",
         "annotate"
@@ -15829,7 +14809,6 @@
         "dbplyr"
     ],
     "tLOH": [
-        "ggplot2",
         "VariantAnnotation",
         "bestNormalize",
         "naniar",
@@ -15853,7 +14832,6 @@
     "TNBC.CMS": [
         "GSVA",
         "GGally",
-        "ggplot2",
         "ggpubr",
         "tidyr",
         "ggrepel",
@@ -15874,29 +14852,23 @@
         "rematch2"
     ],
     "TOAST": [
-        "ggplot2",
         "tidyr",
         "GGally"
     ],
     "tomoda": [
-        "ggplot2",
         "ggrepel"
     ],
     "tomoseqr": [
         "BiocFileCache",
         "readr",
         "plotly",
-        "ggplot2",
         "dbplyr",
         "tidyr",
         "vroom"
     ],
-    "topconfects": [
-        "ggplot2"
-    ],
+    "topconfects": [],
     "topdownr": [
         "MSnbase",
-        "ggplot2",
         "vsn"
     ],
     "topGO": [
@@ -15904,7 +14876,6 @@
     ],
     "ToxicoGx": [
         "CoreGx",
-        "ggplot2",
         "tidyr",
         "MultiAssayExperiment",
         "piano",
@@ -15916,11 +14887,9 @@
     "TPP": [
         "tidyr",
         "biobroom",
-        "broom",
-        "ggplot2"
+        "broom"
     ],
     "TPP2D": [
-        "ggplot2",
         "tidyr"
     ],
     "tracktables": [],
@@ -15938,25 +14907,20 @@
         "Hmisc",
         "VariantAnnotation",
         "dbplyr",
-        "ggplot2",
         "viridis"
     ],
     "tradeSeq": [
         "SingleCellExperiment",
         "slingshot",
-        "ggplot2",
         "TrajectoryUtils",
         "viridis"
     ],
-    "TrajectoryGeometry": [
-        "ggplot2"
-    ],
+    "TrajectoryGeometry": [],
     "TrajectoryUtils": [
         "SingleCellExperiment"
     ],
     "transcriptogramer": [
         "biomaRt",
-        "ggplot2",
         "tidyr",
         "topGO",
         "BiocFileCache",
@@ -15968,7 +14932,6 @@
         "chipseq",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ggplot2",
         "rtracklayer",
         "recipes",
         "ShortRead",
@@ -15983,7 +14946,6 @@
         "SingleCellExperiment"
     ],
     "transite": [
-        "ggplot2",
         "ggseqlogo"
     ],
     "tRanslatome": [
@@ -15994,7 +14956,6 @@
         "GOSemSim",
         "qvalue",
         "geneplotter",
-        "ggplot2",
         "GO.db",
         "annotate"
     ],
@@ -16003,7 +14964,6 @@
         "IRkernel"
     ],
     "TraRe": [
-        "ggplot2",
         "vbsr"
     ],
     "traseR": [
@@ -16014,7 +14974,6 @@
     ],
     "Travel": [],
     "traviz": [
-        "ggplot2",
         "viridis",
         "SingleCellExperiment",
         "slingshot",
@@ -16027,7 +14986,6 @@
     "treekoR": [
         "tidyr",
         "ggiraph",
-        "ggplot2",
         "ggtree",
         "patchwork",
         "SingleCellExperiment",
@@ -16077,7 +15035,6 @@
         "Hmisc",
         "GO.db",
         "dbplyr",
-        "ggplot2",
         "viridis",
         "GenomicAlignments"
     ],
@@ -16094,7 +15051,6 @@
     ],
     "tricycle": [
         "SingleCellExperiment",
-        "ggplot2",
         "ggnewscale",
         "scater",
         "scattermore",
@@ -16107,7 +15063,6 @@
     "trigger": [
         "qvalue",
         "sva",
-        "ggplot2",
         "genefilter",
         "annotate"
     ],
@@ -16117,32 +15072,25 @@
         "shinyjs",
         "shinyFiles",
         "plotly",
-        "ggplot2",
         "tidyr"
     ],
-    "tRNA": [
-        "ggplot2"
-    ],
+    "tRNA": [],
     "tRNAdbImport": [
-        "tRNA",
-        "ggplot2"
+        "tRNA"
     ],
     "tRNAscanImport": [
         "tRNA",
         "rtracklayer",
         "BSgenome",
-        "GenomicAlignments",
-        "ggplot2"
+        "GenomicAlignments"
     ],
     "TSCAN": [
         "SingleCellExperiment",
-        "TrajectoryUtils",
-        "ggplot2"
+        "TrajectoryUtils"
     ],
     "tscR": [
         "kmlShape",
         "prettydoc",
-        "ggplot2",
         "kml"
     ],
     "ttgsea": [
@@ -16156,13 +15104,10 @@
         "lexicon",
         "textclean",
         "syuzhet",
-        "vroom",
-        "ggplot2"
+        "vroom"
     ],
     "TTMap": [],
-    "twoddpcr": [
-        "ggplot2"
-    ],
+    "twoddpcr": [],
     "txcutr": [
         "GenomicFeatures",
         "rtracklayer",
@@ -16189,7 +15134,6 @@
         "BSgenome",
         "GenomicFeatures",
         "GenomicAlignments",
-        "ggplot2",
         "ggrepel",
         "mirbase.db",
         "Organism.dplyr",
@@ -16207,7 +15151,6 @@
     "UMI4Cats": [
         "cowplot",
         "ShortRead",
-        "ggplot2",
         "regioneR",
         "BSgenome",
         "DESeq2",
@@ -16255,7 +15198,6 @@
         "GO.db",
         "Hmisc",
         "VariantAnnotation",
-        "ggplot2",
         "viridis"
     ],
     "UniProt.ws": [
@@ -16272,12 +15214,9 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "universalmotif": [
-        "ggplot2"
-    ],
+    "universalmotif": [],
     "uSORT": [
         "monocle",
-        "ggplot2",
         "viridis"
     ],
     "VAExprs": [
@@ -16293,7 +15232,6 @@
         "tidyr",
         "viridis",
         "scuttle",
-        "ggplot2",
         "ggbeeswarm",
         "ggrastr",
         "ggrepel",
@@ -16316,12 +15254,10 @@
         "BSgenome",
         "shinycssloaders",
         "shinyFiles",
-        "ggplot2",
         "rtracklayer",
         "GenomicAlignments"
     ],
     "variancePartition": [
-        "ggplot2",
         "pbkrtest",
         "lmerTest",
         "lme4",
@@ -16347,8 +15283,7 @@
         "logistf",
         "mice",
         "broom",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "VariantFiltering": [
         "VariantAnnotation",
@@ -16368,7 +15303,6 @@
         "GenomicAlignments",
         "dbplyr",
         "Hmisc",
-        "ggplot2",
         "viridis"
     ],
     "VariantTools": [
@@ -16402,7 +15336,6 @@
     ],
     "VDJdive": [
         "cowplot",
-        "ggplot2",
         "SingleCellExperiment"
     ],
     "VegaMC": [
@@ -16416,13 +15349,11 @@
         "SingleCellExperiment"
     ],
     "VennDetail": [
-        "ggplot2",
         "UpSetR"
     ],
     "vidger": [
         "DESeq2",
         "GGally",
-        "ggplot2",
         "ggrepel",
         "tidyr",
         "geneplotter",
@@ -16435,7 +15366,6 @@
         "DiagrammeR",
         "fgsea",
         "GOSemSim",
-        "ggplot2",
         "GO.db",
         "heatmaply",
         "plotly",
@@ -16451,7 +15381,6 @@
         "vroom"
     ],
     "vissE": [
-        "ggplot2",
         "ggwordcloud",
         "GSEABase",
         "ggforce",
@@ -16475,7 +15404,6 @@
     ],
     "Voyager": [
         "ggnewscale",
-        "ggplot2",
         "patchwork",
         "SingleCellExperiment",
         "SpatialExperiment",
@@ -16487,19 +15415,15 @@
         "scuttle"
     ],
     "VplotR": [
-        "ggplot2",
         "cowplot",
         "GenomicAlignments"
     ],
     "vsclust": [
         "qvalue",
         "MultiAssayExperiment",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
-    "vsn": [
-        "ggplot2"
-    ],
+    "vsn": [],
     "vtpnet": [
         "gwascat",
         "GenomicFeatures",
@@ -16524,7 +15448,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "biomaRt",
-        "ggplot2",
         "InteractionSet",
         "regioneR",
         "rtracklayer",
@@ -16547,7 +15470,6 @@
         "lme4",
         "dbplyr",
         "EnvStats",
-        "ggplot2",
         "nloptr",
         "testthat",
         "waldo",
@@ -16560,7 +15482,6 @@
         "minfi",
         "GenomicFeatures",
         "annotate",
-        "ggplot2",
         "FDb.InfiniumMethylation.hg19",
         "genefilter",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -16578,7 +15499,6 @@
     ],
     "wavClusteR": [
         "GenomicFeatures",
-        "ggplot2",
         "Hmisc",
         "rtracklayer",
         "biomaRt",
@@ -16591,21 +15511,17 @@
         "annaffy",
         "vsn",
         "qvalue",
-        "GO.db",
-        "ggplot2"
+        "GO.db"
     ],
     "weitrix": [
-        "topconfects",
-        "ggplot2"
+        "topconfects"
     ],
     "wiggleplotr": [
-        "ggplot2",
         "rtracklayer",
         "cowplot",
         "GenomicAlignments"
     ],
     "wpm": [
-        "ggplot2",
         "shinydashboard",
         "shinyWidgets",
         "shinycustomloader"
@@ -16621,8 +15537,7 @@
     "xcms": [
         "MSnbase",
         "MsFeatures",
-        "vsn",
-        "ggplot2"
+        "vsn"
     ],
     "xcore": [
         "MultiAssayExperiment",
@@ -16634,7 +15549,6 @@
         "annotate"
     ],
     "Xeva": [
-        "ggplot2",
         "PharmacoGx",
         "CoreGx",
         "MultiAssayExperiment",
@@ -16646,7 +15560,6 @@
         "cowplot"
     ],
     "XINA": [
-        "ggplot2",
         "STRINGdb",
         "sqldf"
     ],
@@ -16657,7 +15570,6 @@
     ],
     "yamss": [],
     "YAPSA": [
-        "ggplot2",
         "SomaticSignatures",
         "VariantAnnotation",
         "dendextend",
@@ -16686,7 +15598,6 @@
         "quantro",
         "BiocFileCache",
         "minfi",
-        "ggplot2",
         "vroom",
         "dbplyr",
         "bumphunter",
@@ -16706,7 +15617,6 @@
         "EnrichmentBrowser",
         "GSEABase",
         "msigdbr",
-        "ggplot2",
         "tidyr",
         "BiocFileCache",
         "GO.db",
@@ -16727,7 +15637,6 @@
         "rematch2"
     ],
     "zFPKM": [
-        "ggplot2",
         "tidyr"
     ],
     "zinbwave": [
@@ -16736,23 +15645,14 @@
         "annotate"
     ],
     "GO.db": [],
-    "ggplot2": [],
-    "ggcorrplot": [
-        "ggplot2"
-    ],
-    "ggdendro": [
-        "ggplot2"
-    ],
+    "ggcorrplot": [],
+    "ggdendro": [],
     "plotly": [
-        "ggplot2",
         "tidyr"
     ],
     "tidyr": [],
-    "ggrepel": [
-        "ggplot2"
-    ],
+    "ggrepel": [],
     "ggpubr": [
-        "ggplot2",
         "ggrepel",
         "ggsci",
         "tidyr",
@@ -16768,25 +15668,18 @@
         "waldo",
         "rematch2"
     ],
-    "ggsignif": [
-        "ggplot2"
-    ],
+    "ggsignif": [],
     "shinyjs": [],
     "testthat": [
         "waldo",
         "rematch2"
     ],
-    "ggsci": [
-        "ggplot2"
-    ],
-    "cowplot": [
-        "ggplot2"
-    ],
+    "ggsci": [],
+    "cowplot": [],
     "rstatix": [
         "tidyr",
         "broom",
         "car",
-        "ggplot2",
         "pbkrtest",
         "lme4",
         "nloptr",
@@ -16798,8 +15691,7 @@
         "rematch2"
     ],
     "broom": [
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "car": [
         "pbkrtest",
@@ -16807,7 +15699,6 @@
         "nloptr",
         "broom",
         "tidyr",
-        "ggplot2",
         "testthat",
         "waldo",
         "rematch2"
@@ -16817,7 +15708,6 @@
         "lme4",
         "broom",
         "tidyr",
-        "ggplot2",
         "nloptr",
         "testthat",
         "waldo",
@@ -16844,27 +15734,19 @@
     "dbplyr": [],
     "PFAM.db": [],
     "Hmisc": [
-        "ggplot2",
         "viridis"
     ],
     "GGally": [
-        "ggplot2",
         "tidyr"
     ],
-    "viridis": [
-        "ggplot2"
-    ],
-    "ggbeeswarm": [
-        "ggplot2"
-    ],
+    "viridis": [],
+    "ggbeeswarm": [],
     "ggrastr": [
-        "ggplot2",
         "ggbeeswarm"
     ],
     "shinydashboard": [],
     "readxl": [],
     "speaq": [
-        "ggplot2",
         "rvest"
     ],
     "curatedTCGAData": [
@@ -16879,18 +15761,13 @@
         "vroom"
     ],
     "vroom": [],
-    "ggthemes": [
-        "ggplot2"
-    ],
-    "waffle": [
-        "ggplot2"
-    ],
+    "ggthemes": [],
+    "waffle": [],
     "DescTools": [
         "readxl"
     ],
     "lmerTest": [
         "lme4",
-        "ggplot2",
         "nloptr",
         "testthat",
         "waldo",
@@ -16900,16 +15777,12 @@
         "tidyr"
     ],
     "caret": [
-        "ggplot2",
         "recipes",
         "ipred",
         "tidyr"
     ],
-    "plotROC": [
-        "ggplot2"
-    ],
+    "plotROC": [],
     "GUniFrac": [
-        "ggplot2",
         "ggrepel"
     ],
     "recipes": [
@@ -16922,7 +15795,6 @@
     "org.Sc.sgd.db": [],
     "Seurat": [
         "cowplot",
-        "ggplot2",
         "ggrepel",
         "ggridges",
         "miniUI",
@@ -16934,18 +15806,10 @@
     ],
     "org.Hs.eg.db": [],
     "org.Mm.eg.db": [],
-    "ggridges": [
-        "ggplot2"
-    ],
-    "patchwork": [
-        "ggplot2"
-    ],
-    "scattermore": [
-        "ggplot2"
-    ],
-    "sctransform": [
-        "ggplot2"
-    ],
+    "ggridges": [],
+    "patchwork": [],
+    "scattermore": [],
+    "sctransform": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
         "rtracklayer",
@@ -17048,12 +15912,9 @@
         "GenomicAlignments",
         "dbplyr"
     ],
-    "UpSetR": [
-        "ggplot2"
-    ],
+    "UpSetR": [],
     "mGSZ": [],
     "ggfortify": [
-        "ggplot2",
         "tidyr"
     ],
     "msigdbr": [
@@ -17063,7 +15924,6 @@
         "broom",
         "dbplyr",
         "dtplyr",
-        "ggplot2",
         "googlesheets4",
         "haven",
         "modelr",
@@ -17101,11 +15961,8 @@
         "GenomicAlignments",
         "dbplyr"
     ],
-    "NMF": [
-        "ggplot2"
-    ],
+    "NMF": [],
     "ggalluvial": [
-        "ggplot2",
         "tidyr"
     ],
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [
@@ -17126,14 +15983,12 @@
     ],
     "modelr": [
         "broom",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "reprex": [],
     "reactome.db": [],
     "doBy": [
         "broom",
-        "ggplot2",
         "pbkrtest",
         "tidyr",
         "lme4",
@@ -17144,17 +15999,13 @@
     ],
     "pRolocdata": [
         "MSnbase",
-        "vsn",
-        "ggplot2"
+        "vsn"
     ],
     "dendextend": [
-        "ggplot2",
         "viridis"
     ],
     "ggvis": [],
-    "rstan": [
-        "ggplot2"
-    ],
+    "rstan": [],
     "prettydoc": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
@@ -17163,28 +16014,22 @@
     ],
     "ggExtra": [
         "colourpicker",
-        "ggplot2",
         "miniUI",
         "shinyjs"
     ],
     "colourpicker": [
-        "ggplot2",
         "miniUI",
         "shinyjs"
     ],
     "heatmaply": [
         "plotly",
         "viridis",
-        "ggplot2",
         "dendextend",
         "egg",
         "tidyr"
     ],
-    "egg": [
-        "ggplot2"
-    ],
+    "egg": [],
     "corncob": [
-        "ggplot2",
         "phyloseq"
     ],
     "tidytext": [],
@@ -17206,11 +16051,8 @@
         "dbplyr"
     ],
     "shinycssloaders": [],
-    "ggforce": [
-        "ggplot2"
-    ],
+    "ggforce": [],
     "radiant.data": [
-        "ggplot2",
         "tidyr",
         "broom",
         "car",
@@ -17234,8 +16076,7 @@
         "readr",
         "tidyr",
         "viridis",
-        "vroom",
-        "ggplot2"
+        "vroom"
     ],
     "gson": [
         "tidyr"
@@ -17244,7 +16085,6 @@
     "shinyAce": [],
     "shinyFiles": [],
     "ggraph": [
-        "ggplot2",
         "ggforce",
         "ggrepel",
         "viridis",
@@ -17253,40 +16093,27 @@
     ],
     "aplot": [
         "ggfun",
-        "ggplot2",
         "ggplotify",
         "patchwork"
     ],
-    "ggnewscale": [
-        "ggplot2"
-    ],
+    "ggnewscale": [],
     "scatterpie": [
-        "ggplot2",
         "ggforce",
         "ggfun",
         "tidyr"
     ],
-    "shadowtext": [
-        "ggplot2"
-    ],
+    "shadowtext": [],
     "tidygraph": [
         "tidyr"
     ],
-    "ggfun": [
-        "ggplot2"
-    ],
-    "ggplotify": [
-        "ggplot2"
-    ],
+    "ggfun": [],
+    "ggplotify": [],
     "rorcid": [],
     "rms": [
         "Hmisc",
-        "ggplot2",
         "viridis"
     ],
-    "precrec": [
-        "ggplot2"
-    ],
+    "precrec": [],
     "synaptome.db": [
         "synaptome.data",
         "dbplyr",
@@ -17296,7 +16123,6 @@
     "WGCNA": [
         "Hmisc",
         "GO.db",
-        "ggplot2",
         "viridis"
     ],
     "synaptome.data": [
@@ -17305,7 +16131,6 @@
         "dbplyr"
     ],
     "ggnetwork": [
-        "ggplot2",
         "ggrepel",
         "sna"
     ],
@@ -17313,7 +16138,6 @@
     "sna": [],
     "shinyBS": [],
     "superheat": [
-        "ggplot2",
         "ggdendro"
     ],
     "biscuiteerData": [
@@ -17329,7 +16153,6 @@
         "geneplotter",
         "genefilter",
         "BiocFileCache",
-        "ggplot2",
         "annotate",
         "dbplyr"
     ],
@@ -17354,7 +16177,6 @@
         "biomaRt",
         "dbplyr",
         "VariantAnnotation",
-        "ggplot2",
         "viridis",
         "BSgenome"
     ],
@@ -17371,9 +16193,7 @@
         "rematch2"
     ],
     "pkgdown": [],
-    "ggtext": [
-        "ggplot2"
-    ],
+    "ggtext": [],
     "vcfR": [],
     "sqldf": [],
     "drc": [
@@ -17383,22 +16203,16 @@
         "nloptr",
         "broom",
         "tidyr",
-        "ggplot2",
         "testthat",
         "waldo",
         "rematch2"
     ],
     "IRkernel": [],
     "rintrojs": [],
-    "enrichR": [
-        "ggplot2"
-    ],
-    "multipanelfigure": [
-        "ggplot2"
-    ],
+    "enrichR": [],
+    "multipanelfigure": [],
     "FactoMineR": [
         "car",
-        "ggplot2",
         "ggrepel",
         "pbkrtest",
         "lme4",
@@ -17409,25 +16223,18 @@
         "waldo",
         "rematch2"
     ],
-    "EnvStats": [
-        "ggplot2"
-    ],
+    "EnvStats": [],
     "ggpmisc": [
-        "ggpp",
-        "ggplot2"
+        "ggpp"
     ],
-    "ggpp": [
-        "ggplot2"
-    ],
+    "ggpp": [],
     "broom.mixed": [
         "broom",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "mice": [
         "broom",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "GenomicTools": [],
     "IlluminaHumanMethylationEPICmanifest": [
@@ -17479,8 +16286,7 @@
         "dbplyr"
     ],
     "isva": [
-        "qvalue",
-        "ggplot2"
+        "qvalue"
     ],
     "geneLenDataBase": [
         "rtracklayer",
@@ -17490,13 +16296,10 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "ruv": [
-        "ggplot2"
-    ],
+    "ruv": [],
     "spp": [],
     "ChIC.data": [
         "caret",
-        "ggplot2",
         "recipes",
         "ipred",
         "tidyr"
@@ -17565,12 +16368,9 @@
         "rvest"
     ],
     "gggenes": [
-        "ggplot2",
         "ggfittext"
     ],
-    "ggfittext": [
-        "ggplot2"
-    ],
+    "ggfittext": [],
     "waiter": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
@@ -17582,9 +16382,7 @@
         "RNeXML",
         "tidyr"
     ],
-    "ClusterR": [
-        "ggplot2"
-    ],
+    "ClusterR": [],
     "benchmarkme": [
         "benchmarkmeData"
     ],
@@ -17599,7 +16397,6 @@
         "vroom"
     ],
     "factoextra": [
-        "ggplot2",
         "dendextend",
         "FactoMineR",
         "ggpubr",
@@ -17622,7 +16419,6 @@
     "Ecume": [
         "spatstat",
         "caret",
-        "ggplot2",
         "recipes",
         "spatstat.model",
         "spatstat.linnet",
@@ -17640,7 +16436,6 @@
     "contrast": [
         "rms",
         "Hmisc",
-        "ggplot2",
         "viridis"
     ],
     "airway": [],
@@ -17673,8 +16468,7 @@
         "xcms",
         "MSnbase",
         "MsFeatures",
-        "vsn",
-        "ggplot2"
+        "vsn"
     ],
     "dorothea": [],
     "crisprScoreData": [
@@ -17693,30 +16487,23 @@
     ],
     "highcharter": [
         "broom",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "cytometree": [
-        "ggplot2",
         "cowplot"
     ],
-    "mrfDepth": [
-        "ggplot2"
-    ],
+    "mrfDepth": [],
     "RFOC": [
         "GEOmap",
         "fields",
-        "viridis",
-        "ggplot2"
+        "viridis"
     ],
     "GEOmap": [
         "fields",
-        "viridis",
-        "ggplot2"
+        "viridis"
     ],
     "fields": [
-        "viridis",
-        "ggplot2"
+        "viridis"
     ],
     "shinyFeedback": [],
     "shinyMatrix": [],
@@ -17737,8 +16524,7 @@
     ],
     "DAPARdata": [
         "MSnbase",
-        "vsn",
-        "ggplot2"
+        "vsn"
     ],
     "cmdfun": [
         "testthat",
@@ -17755,9 +16541,7 @@
         "readr",
         "vroom"
     ],
-    "ggseqlogo": [
-        "ggplot2"
-    ],
+    "ggseqlogo": [],
     "rsq": [
         "lme4",
         "nloptr",
@@ -17786,9 +16570,7 @@
     "syuzhet": [
         "tidyr"
     ],
-    "ggplot.multistats": [
-        "ggplot2"
-    ],
+    "ggplot.multistats": [],
     "VIM": [
         "car",
         "pbkrtest",
@@ -17796,21 +16578,17 @@
         "nloptr",
         "broom",
         "tidyr",
-        "ggplot2",
         "testthat",
         "waldo",
         "rematch2"
     ],
     "NBPSeq": [
-        "qvalue",
-        "ggplot2"
+        "qvalue"
     ],
     "hgu133a2.db": [
         "org.Hs.eg.db"
     ],
-    "gganimate": [
-        "ggplot2"
-    ],
+    "gganimate": [],
     "easierData": [
         "ExperimentHub",
         "AnnotationHub",
@@ -17829,7 +16607,6 @@
     ],
     "qgraph": [
         "Hmisc",
-        "ggplot2",
         "viridis"
     ],
     "ewceData": [
@@ -17843,49 +16620,36 @@
         "vroom"
     ],
     "gprofiler2": [
-        "ggplot2",
         "plotly",
         "tidyr"
     ],
     "ComplexUpset": [
-        "ggplot2",
         "patchwork"
     ],
-    "ggside": [
-        "ggplot2"
-    ],
+    "ggside": [],
     "gap": [
-        "ggplot2",
         "plotly",
         "tidyr"
     ],
     "geepack": [
         "broom",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "fda": [
         "fds",
         "rainbow",
-        "hdrcde",
-        "ggplot2"
+        "hdrcde"
     ],
     "fds": [
         "rainbow",
-        "hdrcde",
-        "ggplot2"
+        "hdrcde"
     ],
     "rainbow": [
-        "hdrcde",
-        "ggplot2"
+        "hdrcde"
     ],
-    "hdrcde": [
-        "ggplot2"
-    ],
+    "hdrcde": [],
     "SPARQL": [],
-    "ggiraph": [
-        "ggplot2"
-    ],
+    "ggiraph": [],
     "RecordLinkage": [
         "ipred"
     ],
@@ -17896,20 +16660,15 @@
         "nloptr",
         "broom",
         "tidyr",
-        "ggplot2",
         "testthat",
         "waldo",
         "rematch2"
     ],
     "FCPS": [
-        "ggplot2",
         "DataVisualizations"
     ],
-    "DataVisualizations": [
-        "ggplot2"
-    ],
+    "DataVisualizations": [],
     "survminer": [
-        "ggplot2",
         "ggpubr",
         "broom",
         "tidyr",
@@ -17928,14 +16687,11 @@
         "waldo",
         "rematch2"
     ],
-    "survMisc": [
-        "ggplot2"
-    ],
+    "survMisc": [],
     "logistf": [
         "mice",
         "broom",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "bs4Dash": [
         "waiter"
@@ -17946,34 +16702,26 @@
         "plotly",
         "readxl",
         "viridis",
-        "ggplot2",
         "dendextend",
         "egg",
         "tidyr"
     ],
     "shinybusy": [],
     "ggalt": [
-        "ggplot2",
         "plotly",
         "tidyr"
     ],
-    "statebins": [
-        "ggplot2"
-    ],
+    "statebins": [],
     "HH": [
         "Hmisc",
-        "ggplot2",
         "viridis"
     ],
     "gRain": [
         "broom",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "epiR": [],
-    "ggwordcloud": [
-        "ggplot2"
-    ],
+    "ggwordcloud": [],
     "HiContactsData": [
         "ExperimentHub",
         "BiocFileCache",
@@ -17984,8 +16732,7 @@
         "tidytext"
     ],
     "biclust": [
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "GenomicFeatures",
@@ -17998,8 +16745,7 @@
     "concaveman": [],
     "shinyalert": [],
     "AdaptGauss": [
-        "DataVisualizations",
-        "ggplot2"
+        "DataVisualizations"
     ],
     "datamods": [
         "readxl",
@@ -18024,16 +16770,13 @@
     "learnr": [],
     "reldist": [
         "densEstBayes",
-        "rstan",
-        "ggplot2"
+        "rstan"
     ],
     "densEstBayes": [
-        "rstan",
-        "ggplot2"
+        "rstan"
     ],
     "adabag": [
         "caret",
-        "ggplot2",
         "recipes",
         "ipred",
         "tidyr"
@@ -18045,12 +16788,9 @@
         "waldo",
         "rematch2"
     ],
-    "cplm": [
-        "ggplot2"
-    ],
+    "cplm": [],
     "bigstatsr": [
-        "cowplot",
-        "ggplot2"
+        "cowplot"
     ],
     "depmap": [
         "ExperimentHub",
@@ -18060,8 +16800,7 @@
     ],
     "plsgenomics": [
         "fields",
-        "viridis",
-        "ggplot2"
+        "viridis"
     ],
     "agricolae": [
         "klaR",
@@ -18096,16 +16835,13 @@
         "readr",
         "vroom"
     ],
-    "PairedData": [
-        "ggplot2"
-    ],
+    "PairedData": [],
     "SmartSVA": [
         "sva",
         "isva",
         "qvalue",
         "genefilter",
-        "annotate",
-        "ggplot2"
+        "annotate"
     ],
     "EnsDb.Hsapiens.v75": [
         "ensembldb",
@@ -18157,18 +16893,14 @@
     ],
     "ggmcmc": [
         "tidyr",
-        "ggplot2",
         "GGally"
     ],
     "shinycustomloader": [],
-    "ggstar": [
-        "ggplot2"
-    ],
+    "ggstar": [],
     "HardyWeinberg": [
         "mice",
         "broom",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "lumiHumanAll.db": [
         "org.Hs.eg.db"
@@ -18181,29 +16913,23 @@
     "miRBaseVersions.db": [],
     "s4vd": [
         "biclust",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "BiBitR": [
         "viridis",
         "dendextend",
         "biclust",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
     "subspace": [
         "ggvis"
     ],
     "SOMbrero": [
-        "ggplot2",
         "ggwordcloud",
         "metR"
     ],
-    "metR": [
-        "ggplot2"
-    ],
+    "metR": [],
     "cvms": [
-        "ggplot2",
         "groupdata2",
         "lme4",
         "rearrr",
@@ -18215,9 +16941,7 @@
         "waldo",
         "rematch2"
     ],
-    "MetBrewer": [
-        "ggplot2"
-    ],
+    "MetBrewer": [],
     "groupdata2": [
         "rearrr",
         "tidyr"
@@ -18225,15 +16949,10 @@
     "rearrr": [],
     "echarts4r": [
         "broom",
-        "tidyr",
-        "ggplot2"
+        "tidyr"
     ],
-    "MKmisc": [
-        "ggplot2"
-    ],
-    "gghalves": [
-        "ggplot2"
-    ],
+    "MKmisc": [],
+    "gghalves": [],
     "anyLib": [
         "devtools",
         "miniUI",
@@ -18271,7 +16990,6 @@
         "pbkrtest",
         "lme4",
         "readr",
-        "ggplot2",
         "viridis",
         "nloptr",
         "broom",
@@ -18296,7 +17014,6 @@
         "dbplyr"
     ],
     "diceR": [
-        "ggplot2",
         "klaR",
         "NMF",
         "tidyr",
@@ -18344,28 +17061,22 @@
     ],
     "verification": [
         "fields",
-        "viridis",
-        "ggplot2"
+        "viridis"
     ],
     "osfr": [],
     "tidybayes": [
         "ggdist",
         "tidyr",
-        "ggplot2",
         "posterior",
         "distributional"
     ],
     "ggdist": [
-        "ggplot2",
         "distributional"
     ],
     "posterior": [
-        "distributional",
-        "ggplot2"
+        "distributional"
     ],
-    "distributional": [
-        "ggplot2"
-    ],
+    "distributional": [],
     "phastCons100way.UCSC.hg38": [
         "GenomicScores",
         "BSgenome",
@@ -18375,9 +17086,7 @@
         "dbplyr",
         "GenomicAlignments"
     ],
-    "forecast": [
-        "ggplot2"
-    ],
+    "forecast": [],
     "EnsDb.Mmusculus.v79": [
         "ensembldb",
         "GenomicFeatures",
@@ -18433,7 +17142,6 @@
     ],
     "valr": [
         "broom",
-        "ggplot2",
         "readr",
         "rtracklayer",
         "tidyr",
@@ -18441,15 +17149,12 @@
         "GenomicAlignments"
     ],
     "caretEnsemble": [
-        "ggplot2",
         "caret",
         "recipes",
         "ipred",
         "tidyr"
     ],
-    "ggprism": [
-        "ggplot2"
-    ],
+    "ggprism": [],
     "RLHub": [
         "AnnotationHub",
         "ExperimentHub",
@@ -18459,13 +17164,10 @@
     "TBX20BamSubset": [],
     "systemPipeRdata": [],
     "fission": [],
-    "treemap": [
-        "ggplot2"
-    ],
+    "treemap": [],
     "SBGNview.data": [],
     "scanMiRData": [
         "scanMiR",
-        "ggplot2",
         "ggseqlogo",
         "cowplot"
     ],
@@ -18477,22 +17179,17 @@
         "dbplyr"
     ],
     "Rmagic": [],
-    "ggvenn": [
-        "ggplot2"
-    ],
+    "ggvenn": [],
     "nnTensor": [
         "fields",
-        "ggplot2",
         "viridis"
     ],
     "ccTensor": [
         "fields",
-        "viridis",
-        "ggplot2"
+        "viridis"
     ],
     "clustree": [
         "ggraph",
-        "ggplot2",
         "viridis",
         "tidygraph",
         "ggrepel",
@@ -18505,7 +17202,6 @@
     "gistr": [],
     "survivalAnalysis": [
         "tidyr",
-        "ggplot2",
         "survminer",
         "cowplot",
         "tidytidbits",
@@ -18547,7 +17243,6 @@
         "org.Hs.eg.db"
     ],
     "SoupX": [
-        "ggplot2",
         "Seurat",
         "cowplot",
         "ggrepel",
@@ -18583,13 +17278,10 @@
     ],
     "sampSurf": [],
     "spdep": [],
-    "alphahull": [
-        "ggplot2"
-    ],
+    "alphahull": [],
     "xROI": [
         "colourpicker",
         "shinyjs",
-        "ggplot2",
         "miniUI"
     ],
     "miRNAtap.db": [
@@ -18598,7 +17290,6 @@
     ],
     "MESS": [
         "geepack",
-        "ggplot2",
         "ggformula",
         "broom",
         "ggstance",
@@ -18612,7 +17303,6 @@
         "vroom"
     ],
     "ggformula": [
-        "ggplot2",
         "ggstance",
         "ggridges",
         "mosaicCore",
@@ -18623,9 +17313,7 @@
         "readr",
         "vroom"
     ],
-    "ggstance": [
-        "ggplot2"
-    ],
+    "ggstance": [],
     "mosaicCore": [
         "tidyr"
     ],
@@ -18639,8 +17327,7 @@
     ],
     "SpatialExtremes": [
         "fields",
-        "viridis",
-        "ggplot2"
+        "viridis"
     ],
     "sftime": [],
     "stars": [
@@ -18654,22 +17341,17 @@
     "drawer": [],
     "GenKern": [],
     "ttservice": [],
-    "FreqProf": [
-        "ggplot2"
-    ],
+    "FreqProf": [],
     "gghighlight": [
-        "ggplot2",
         "ggrepel"
     ],
     "bestNormalize": [
         "LambertW",
         "recipes",
-        "ggplot2",
         "ipred",
         "tidyr"
     ],
     "naniar": [
-        "ggplot2",
         "tidyr",
         "visdat",
         "viridis",
@@ -18677,11 +17359,8 @@
         "readr",
         "vroom"
     ],
-    "LambertW": [
-        "ggplot2"
-    ],
+    "LambertW": [],
     "visdat": [
-        "ggplot2",
         "tidyr",
         "readr",
         "vroom"
@@ -18710,7 +17389,6 @@
         "dbplyr"
     ],
     "eva": [
-        "EnvStats",
-        "ggplot2"
+        "EnvStats"
     ]
 }
