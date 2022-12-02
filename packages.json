@@ -211,7 +211,6 @@
         "BSgenome",
         "biovizBase",
         "lme4",
-        "ggfortify",
         "VariantAnnotation",
         "nloptr",
         "testthat"
@@ -2906,7 +2905,6 @@
         "biomaRt"
     ],
     "hermes": [
-        "ggfortify",
         "biomaRt",
         "DESeq2",
         "MultiAssayExperiment"
@@ -3046,7 +3044,6 @@
         "GenomicFeatures",
         "IVAS",
         "lme4",
-        "ggfortify",
         "biomaRt",
         "nloptr",
         "testthat"
@@ -3222,7 +3219,6 @@
     "IVAS": [
         "GenomicFeatures",
         "lme4",
-        "ggfortify",
         "biomaRt",
         "nloptr",
         "testthat"
@@ -5050,7 +5046,6 @@
         "biomaRt"
     ],
     "proBatch": [
-        "ggfortify",
         "pvca",
         "sva",
         "WGCNA",
@@ -7300,7 +7295,6 @@
         "biomaRt"
     ],
     "mGSZ": [],
-    "ggfortify": [],
     "tidyverse": [
         "broom",
         "haven",
