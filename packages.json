@@ -6317,7 +6317,6 @@
         "readxl",
         "ROI",
         "ROI.plugin.lpsolve",
-        "lpSolveAPI",
         "pkgload",
         "iterators",
         "tidyselect",
@@ -67865,7 +67864,6 @@
         "dplyr",
         "stringr",
         "DECIPHER",
-        "lpSolveAPI",
         "digest",
         "Hmisc",
         "ape",
@@ -67950,7 +67948,6 @@
         "dplyr",
         "stringr",
         "DECIPHER",
-        "lpSolveAPI",
         "digest",
         "Hmisc",
         "ape",
@@ -110857,7 +110854,6 @@
         "phyloseq",
         "ROI",
         "ROI.plugin.lpsolve",
-        "lpSolveAPI",
         "pkgload",
         "lifecycle",
         "rlang",
@@ -110935,7 +110931,6 @@
     "detectseparation": [
         "ROI",
         "ROI.plugin.lpsolve",
-        "lpSolveAPI",
         "pkgload",
         "desc",
         "rlang",
@@ -110964,10 +110959,8 @@
     ],
     "ROI": [],
     "ROI.plugin.lpsolve": [
-        "ROI",
-        "lpSolveAPI"
+        "ROI"
     ],
-    "lpSolveAPI": [],
     "optextras": [],
     "Rvmmin": [
         "optextras"
