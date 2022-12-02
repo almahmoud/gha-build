@@ -19388,7 +19388,6 @@
         "GenomicRanges"
     ],
     "PAA": [
-        "mRMRe",
         "sva",
         "genefilter",
         "AnnotationDbi",
@@ -33092,7 +33091,6 @@
         "dbplyr",
         "blob"
     ],
-    "mRMRe": [],
     "kmer": [],
     "tfprobability": [
         "tensorflow",
