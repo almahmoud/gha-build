@@ -4109,7 +4109,6 @@
         "rtracklayer",
         "BiocFileCache"
     ],
-    "InterMineR": [],
     "IONiseR": [
         "ShortRead"
     ],
