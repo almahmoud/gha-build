@@ -436,7 +436,6 @@
         "lme4"
     ],
     "CellMixS": [],
-    "cellTree": [],
     "CEMiTool": [
         "clusterProfiler",
         "DOSE",
