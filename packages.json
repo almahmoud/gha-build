@@ -441,7 +441,6 @@
     ],
     "BASiCStan": [
         "BASiCS",
-        "glmGamPoi",
         "scran",
         "scuttle",
         "ggExtra",
@@ -3567,7 +3566,6 @@
         "DESeq2",
         "geneplotter"
     ],
-    "glmGamPoi": [],
     "glmSparseNet": [
         "MultiAssayExperiment",
         "biomaRt",
@@ -8910,9 +8908,7 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "transite": [],
     "tRanslatome": [
         "anota",
