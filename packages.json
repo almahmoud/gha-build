@@ -1534,7 +1534,6 @@
         "futile.logger",
         "progress",
         "sass",
-        "urltools",
         "openssl",
         "RBGL",
         "blob",
@@ -3750,7 +3749,6 @@
         "vroom",
         "crul",
         "selectr",
-        "urltools",
         "blob",
         "progress"
     ],
@@ -35076,7 +35074,6 @@
         "hms",
         "vroom",
         "ape",
-        "urltools",
         "openssl",
         "statnet.common",
         "clock",
@@ -43839,7 +43836,6 @@
         "crul",
         "hms",
         "KEGGREST",
-        "urltools",
         "blob",
         "openssl",
         "shiny",
@@ -53262,7 +53258,6 @@
     "rsnps": [
         "crul",
         "httr",
-        "urltools",
         "openssl"
     ],
     "MafDb.1Kgenomes.phase3.hs37d5": [
@@ -53487,10 +53482,7 @@
         "tibble",
         "tidyselect"
     ],
-    "crul": [
-        "urltools"
-    ],
-    "urltools": [],
+    "crul": [],
     "FDb.InfiniumMethylation.hg19": [
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -54408,7 +54400,6 @@
         "crul",
         "httr",
         "tibble",
-        "urltools",
         "openssl",
         "pillar",
         "vctrs"
@@ -58607,7 +58598,6 @@
         "crul",
         "tibble",
         "httr",
-        "urltools",
         "openssl",
         "pillar",
         "vctrs"
@@ -59245,7 +59235,6 @@
         "httr",
         "rmarkdown",
         "dplyr",
-        "urltools",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -59260,7 +59249,6 @@
         "httr",
         "rmarkdown",
         "dplyr",
-        "urltools",
         "tibble",
         "tidyselect",
         "vctrs",
