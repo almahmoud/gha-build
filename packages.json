@@ -2585,7 +2585,6 @@
         "assertive.types",
         "assertive.strings",
         "assertive.datetimes",
-        "assertive.files",
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
@@ -6822,7 +6821,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "assertive.files",
         "assertive.types",
         "scuttle",
         "DelayedMatrixStats",
@@ -33837,7 +33835,6 @@
         "assertive.types",
         "assertive.strings",
         "assertive.datetimes",
-        "assertive.files",
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
@@ -49899,7 +49896,6 @@
         "bbmle",
         "reldist",
         "Hmisc",
-        "assertive.files",
         "assertive.types",
         "multcomp",
         "hms",
@@ -59707,7 +59703,6 @@
         "assertive.types",
         "assertive.strings",
         "assertive.datetimes",
-        "assertive.files",
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
@@ -59721,7 +59716,6 @@
     "assertive.datetimes": [
         "assertive.types"
     ],
-    "assertive.files": [],
     "assertive.data": [
         "assertive.strings",
         "assertive.types"
@@ -61000,7 +60994,6 @@
         "RcppEigen"
     ],
     "multipanelfigure": [
-        "assertive.files",
         "assertive.types",
         "ggplot2",
         "mgcv",
