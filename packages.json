@@ -3583,7 +3583,6 @@
     ],
     "CONFESS": [
         "contrast",
-        "flowMerge",
         "ggplot2",
         "rms",
         "Hmisc",
@@ -6615,7 +6614,6 @@
         "ggrepel",
         "ggplot2"
     ],
-    "flowMerge": [],
     "flowPloidy": [
         "car",
         "pbkrtest",
