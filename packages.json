@@ -1176,7 +1176,6 @@
         "nloptr"
     ],
     "dpeak": [],
-    "drawProteins": [],
     "drugTargetInteractions": [
         "ensembldb",
         "GenomicFeatures"
@@ -1448,8 +1447,7 @@
     ],
     "factR": [
         "GenomicFeatures",
-        "wiggleplotr",
-        "drawProteins"
+        "wiggleplotr"
     ],
     "FamAgg": [
         "gap"
