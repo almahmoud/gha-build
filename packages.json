@@ -5498,7 +5498,6 @@
         "AnnotationDbi",
         "e1071",
         "ggplot2",
-        "mvoutlier",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "topGO",
@@ -15349,7 +15348,6 @@
     ],
     "GateFinder": [
         "splancs",
-        "mvoutlier",
         "flowFP",
         "flowViz",
         "latticeExtra",
@@ -47886,7 +47884,6 @@
         "vctrs",
         "pillar"
     ],
-    "mvoutlier": [],
     "SpatialTools": [],
     "FactoMineR": [
         "car",
