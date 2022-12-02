@@ -5031,7 +5031,6 @@
         "vegan",
         "apcluster",
         "ggdendro",
-        "gmodels",
         "ggm",
         "vcd",
         "httr",
@@ -12231,7 +12230,6 @@
         "vegan",
         "apcluster",
         "ggdendro",
-        "gmodels",
         "multtest",
         "multcomp",
         "vroom",
@@ -13050,7 +13048,6 @@
         "doSNOW",
         "mixOmics",
         "reshape2",
-        "gmodels",
         "RcppEigen",
         "tibble",
         "tidyselect",
@@ -16028,7 +16025,6 @@
         "vegan",
         "apcluster",
         "ggdendro",
-        "gmodels",
         "lmtest",
         "pillar"
     ],
@@ -25295,7 +25291,6 @@
         "ggplot2",
         "igraph",
         "ggdendro",
-        "gmodels",
         "mgcv",
         "scales",
         "tibble",
@@ -30725,7 +30720,6 @@
         "apcluster",
         "igraph",
         "ggdendro",
-        "gmodels",
         "pillar"
     ],
     "moanin": [
@@ -33401,7 +33395,6 @@
         "vegan",
         "apcluster",
         "ggdendro",
-        "gmodels",
         "RBGL",
         "ggm",
         "vcd",
@@ -35994,7 +35987,6 @@
         "vegan",
         "shinyjs",
         "glmnet",
-        "gmodels",
         "ROCR",
         "knitr",
         "devtools",
@@ -57780,7 +57772,6 @@
         "vcd",
         "lmtest"
     ],
-    "gmodels": [],
     "ggm": [
         "igraph"
     ],
