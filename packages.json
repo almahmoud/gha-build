@@ -10,7 +10,6 @@
         "affycoretools",
         "ReportingTools"
     ],
-    "ANCOMBC": [],
     "appreci8R": [],
     "ArrayExpressHTS": [],
     "arrayMvout": [
@@ -21,9 +20,7 @@
     ],
     "ATACCoGAPS": [],
     "BaalChIP": [],
-    "benchdamic": [
-        "ANCOMBC"
-    ],
+    "benchdamic": [],
     "bigmelon": [
         "wateRmelon",
         "lumi"
@@ -367,9 +364,7 @@
     "methylPipe": [],
     "miaViz": [],
     "microbiomeExplorer": [],
-    "microbiomeMarker": [
-        "ANCOMBC"
-    ],
+    "microbiomeMarker": [],
     "MicrobiomeProfiler": [],
     "MineICA": [
         "lumi"
