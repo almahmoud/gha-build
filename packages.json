@@ -1787,7 +1787,6 @@
         "sass",
         "cachem",
         "memoise",
-        "Rttf2pt1",
         "lambda.r",
         "SummarizedExperiment",
         "digest",
@@ -41168,7 +41167,6 @@
         "treeio",
         "ellipsis",
         "nlme",
-        "Rttf2pt1",
         "RCurl",
         "GenomeInfoDbData",
         "gridGraphics",
@@ -95080,7 +95078,6 @@
         "quantreg",
         "lme4",
         "rprojroot",
-        "Rttf2pt1",
         "markdown",
         "png",
         "jpeg",
@@ -113262,7 +113259,6 @@
         "gridExtra",
         "gtable",
         "extrafont",
-        "Rttf2pt1",
         "isoband",
         "lifecycle",
         "mgcv",
@@ -113279,10 +113275,7 @@
         "magrittr",
         "pillar"
     ],
-    "extrafont": [
-        "Rttf2pt1"
-    ],
-    "Rttf2pt1": [],
+    "extrafont": [],
     "CVXR": [
         "Matrix",
         "Rcpp",
@@ -123213,7 +123206,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "Rttf2pt1",
         "isoband",
         "mgcv",
         "withr",
@@ -128613,7 +128605,6 @@
         "survMisc",
         "ggtext",
         "extrafont",
-        "Rttf2pt1",
         "ggrepel",
         "ggsci",
         "ggsignif",
@@ -128669,7 +128660,6 @@
         "lifecycle",
         "vctrs",
         "pillar",
-        "Rttf2pt1",
         "ellipsis",
         "withr",
         "stringi"
