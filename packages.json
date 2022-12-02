@@ -10333,7 +10333,6 @@
         "shiny",
         "spatstat.explore"
     ],
-    "infinityFlow": [],
     "InPAS": [
         "AnnotationDbi",
         "batchtools",
