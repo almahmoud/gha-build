@@ -68225,7 +68225,6 @@
     "SCFA": [
         "BiocParallel",
         "torch",
-        "coro",
         "igraph",
         "Matrix",
         "psych",
@@ -95923,12 +95922,10 @@
     ],
     "torch": [
         "bit64",
-        "coro",
         "callr",
         "ellipsis",
         "processx"
     ],
-    "coro": [],
     "elasticnet": [],
     "sparsepca": [
         "rsvd",
