@@ -7557,7 +7557,6 @@
         "BSgenome",
         "BiocFileCache"
     ],
-    "rgoslin": [],
     "rGREAT": [
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
