@@ -2731,7 +2731,6 @@
         "tidytree",
         "treeio"
     ],
-    "clusterSeq": [],
     "clustifyr": [
         "cowplot",
         "dplyr",
