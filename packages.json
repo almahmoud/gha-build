@@ -4745,7 +4745,6 @@
         "visNetwork",
         "ggcorrplot",
         "ggraph",
-        "maftools",
         "tidygraph",
         "tibble",
         "tidyselect",
@@ -14532,7 +14531,6 @@
     "katdetectr": [
         "dplyr",
         "GenomicRanges",
-        "maftools",
         "tibble",
         "VariantAnnotation",
         "ggplot2",
@@ -15234,7 +15232,6 @@
         "dbplyr",
         "hms"
     ],
-    "maftools": [],
     "MAGAR": [
         "RnBeads",
         "snpStats",
@@ -19054,7 +19051,6 @@
         "factoextra",
         "shinydashboard",
         "sortable",
-        "maftools",
         "shiny",
         "shinyjs",
         "shinyalert",
@@ -29591,7 +29587,6 @@
         "DT",
         "plotly",
         "readr",
-        "maftools",
         "SummarizedExperiment",
         "ggrepel",
         "caret",
