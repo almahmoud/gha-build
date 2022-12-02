@@ -309,8 +309,7 @@
         "annotate"
     ],
     "AnVIL": [
-        "tidyr",
-        "miniUI"
+        "tidyr"
     ],
     "AnVILBilling": [
         "shinytoastr",
@@ -321,7 +320,6 @@
         "AnVIL",
         "readr",
         "tidyr",
-        "miniUI",
         "vroom"
     ],
     "APAlyzer": [
@@ -354,7 +352,6 @@
         "tidyr",
         "cowplot",
         "ggridges",
-        "miniUI",
         "patchwork",
         "scattermore",
         "sctransform",
@@ -522,7 +519,6 @@
         "BSgenome.Mmusculus.UCSC.mm10",
         "BSgenome",
         "plotly",
-        "miniUI",
         "SingleCellExperiment",
         "cowplot",
         "rtracklayer",
@@ -733,7 +729,6 @@
         "scuttle",
         "viridis",
         "colourpicker",
-        "miniUI",
         "shinyjs"
     ],
     "BASiCStan": [
@@ -747,7 +742,6 @@
         "ggExtra",
         "viridis",
         "colourpicker",
-        "miniUI",
         "shinyjs"
     ],
     "BasicSTARRseq": [
@@ -837,7 +831,6 @@
         "scattermore",
         "geneplotter",
         "ggrepel",
-        "miniUI",
         "plotly",
         "sctransform",
         "treeio",
@@ -1426,7 +1419,6 @@
     ],
     "BUMHMM": [
         "devtools",
-        "miniUI",
         "pkgdown",
         "testthat",
         "waldo",
@@ -1649,7 +1641,6 @@
         "tidyr",
         "TCGAutils",
         "annotate",
-        "miniUI",
         "vroom",
         "rvest",
         "GenomicFeatures",
@@ -1675,7 +1666,6 @@
         "RTCGAToolbox",
         "tidyr",
         "TCGAutils",
-        "miniUI",
         "dbplyr",
         "vroom",
         "rvest",
@@ -1755,7 +1745,6 @@
         "ggrastr",
         "ggrepel",
         "ggridges",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -2206,7 +2195,6 @@
         "SingleCellExperiment",
         "msigdbr",
         "scuttle",
-        "miniUI",
         "ggfittext",
         "rvest",
         "babelgene",
@@ -2227,7 +2215,6 @@
     "chromVAR": [
         "TFBSTools",
         "plotly",
-        "miniUI",
         "BSgenome",
         "rtracklayer",
         "tidyr",
@@ -2540,7 +2527,6 @@
     "cogena": [
         "tidyr",
         "devtools",
-        "miniUI",
         "pkgdown",
         "testthat",
         "waldo",
@@ -3031,7 +3017,6 @@
     ],
     "crossmeta": [
         "GEOquery",
-        "miniUI",
         "oligo",
         "sva",
         "shinyjs",
@@ -3403,7 +3388,6 @@
         "gson",
         "qvalue",
         "tidyr",
-        "miniUI",
         "geneplotter",
         "HDO.db",
         "fgsea",
@@ -3754,7 +3738,6 @@
         "cowplot",
         "ggrepel",
         "ggridges",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -3777,7 +3760,6 @@
         "plotly",
         "tidyr",
         "colourpicker",
-        "miniUI",
         "dendextend",
         "egg",
         "rvest"
@@ -5310,7 +5292,6 @@
     "gCrisprTools": [],
     "GCSscore": [
         "devtools",
-        "miniUI",
         "pkgdown",
         "testthat",
         "waldo",
@@ -5490,7 +5471,6 @@
         "tippy",
         "viridis",
         "waiter",
-        "miniUI",
         "shinyjs",
         "patchwork",
         "geneplotter",
@@ -6243,7 +6223,6 @@
         "tidyr",
         "readr",
         "BiocFileCache",
-        "miniUI",
         "dbplyr",
         "vroom"
     ],
@@ -6313,7 +6292,6 @@
         "ggExtra",
         "multiHiCcompare",
         "colourpicker",
-        "miniUI",
         "shinyjs",
         "ggrepel",
         "ggsci",
@@ -6629,7 +6607,6 @@
     ],
     "INDEED": [
         "devtools",
-        "miniUI",
         "pkgdown",
         "testthat",
         "waldo",
@@ -6643,7 +6620,6 @@
         "cowplot",
         "ggrepel",
         "ggridges",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -6739,7 +6715,6 @@
         "readxl",
         "biomaRt",
         "BiocFileCache",
-        "miniUI",
         "shinyjs",
         "viridis",
         "FactoMineR",
@@ -6845,7 +6820,6 @@
         "ggbeeswarm",
         "ggrastr",
         "ggridges",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -6890,8 +6864,7 @@
         "rintrojs",
         "ggrepel",
         "colourpicker",
-        "shinyWidgets",
-        "miniUI"
+        "shinyWidgets"
     ],
     "iSEEhex": [
         "iSEE",
@@ -6902,8 +6875,7 @@
         "rintrojs",
         "ggrepel",
         "colourpicker",
-        "shinyWidgets",
-        "miniUI"
+        "shinyWidgets"
     ],
     "iSEEhub": [
         "SingleCellExperiment",
@@ -6918,8 +6890,7 @@
         "ggrepel",
         "colourpicker",
         "shinyWidgets",
-        "dbplyr",
-        "miniUI"
+        "dbplyr"
     ],
     "iSEEu": [
         "iSEE",
@@ -6927,7 +6898,6 @@
         "SingleCellExperiment",
         "colourpicker",
         "shinyAce",
-        "miniUI",
         "shinyjs",
         "shinydashboard",
         "rintrojs",
@@ -7256,7 +7226,6 @@
         "tidyr",
         "TCGAutils",
         "TFBSTools",
-        "miniUI",
         "dbplyr",
         "vroom",
         "rvest",
@@ -7493,7 +7462,6 @@
         "vsn",
         "ipred",
         "tidyr",
-        "miniUI",
         "labelled",
         "haven",
         "readr",
@@ -8074,7 +8042,6 @@
         "minfi",
         "tidyr",
         "planet",
-        "miniUI",
         "pkgdown",
         "testthat",
         "AnnotationHub",
@@ -8234,7 +8201,6 @@
     "MetID": [
         "devtools",
         "ChemmineR",
-        "miniUI",
         "pkgdown",
         "testthat",
         "waldo",
@@ -9157,7 +9123,6 @@
         "ggExtra",
         "MSnbase",
         "colourpicker",
-        "miniUI",
         "shinyjs",
         "vsn",
         "tidyr"
@@ -9167,7 +9132,6 @@
         "ggExtra",
         "plotly",
         "colourpicker",
-        "miniUI",
         "shinyjs",
         "MSnbase",
         "tidyr",
@@ -9315,7 +9279,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "miniUI",
         "pkgdown",
         "testthat",
         "HDO.db",
@@ -9603,7 +9566,6 @@
         "cowplot",
         "ggrepel",
         "ggridges",
-        "miniUI",
         "plotly",
         "scattermore",
         "sctransform",
@@ -9934,7 +9896,6 @@
         "tidyr",
         "yardstick",
         "questionr",
-        "miniUI",
         "labelled",
         "haven",
         "readr",
@@ -10133,7 +10094,6 @@
     ],
     "oppti": [
         "devtools",
-        "miniUI",
         "pkgdown",
         "testthat",
         "waldo",
@@ -10362,7 +10322,6 @@
         "shinyjs",
         "devtools",
         "geneplotter",
-        "miniUI",
         "pkgdown",
         "testthat",
         "annotate",
@@ -10624,7 +10583,6 @@
         "shinyFiles",
         "shinyjs",
         "OmaDB",
-        "miniUI",
         "AnnotationHub",
         "BiocFileCache",
         "topGO",
@@ -10721,7 +10679,6 @@
         "ggrastr",
         "ggrepel",
         "ggridges",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -10759,7 +10716,6 @@
         "shinythemes",
         "colourpicker",
         "Hmisc",
-        "miniUI",
         "shinyjs",
         "ggrepel",
         "ggsci",
@@ -11043,7 +10999,6 @@
         "shinyWidgets",
         "shinyjs",
         "shinydashboard",
-        "miniUI",
         "vsn",
         "MLInterfaces",
         "caret",
@@ -11158,7 +11113,6 @@
         "recount",
         "shinyjs",
         "dbplyr",
-        "miniUI",
         "broom",
         "tidyr",
         "derfinder",
@@ -12072,7 +12026,6 @@
         "DESeq2",
         "BiocStyle",
         "geneplotter",
-        "miniUI",
         "pkgdown",
         "testthat",
         "GenomicFeatures",
@@ -12563,7 +12516,6 @@
         "cowplot",
         "ggrepel",
         "ggridges",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -12616,7 +12568,6 @@
         "cowplot",
         "ggrepel",
         "ggridges",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -12658,7 +12609,6 @@
         "cowplot",
         "ggrepel",
         "ggridges",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -12679,7 +12629,6 @@
         "cowplot",
         "ggrepel",
         "ggridges",
-        "miniUI",
         "plotly",
         "scattermore",
         "sctransform",
@@ -12693,7 +12642,6 @@
         "cowplot",
         "ggrepel",
         "ggridges",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -12728,7 +12676,6 @@
         "Seurat",
         "cowplot",
         "ggridges",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -12791,7 +12738,6 @@
         "cowplot",
         "ggrepel",
         "ggridges",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -12812,7 +12758,6 @@
         "cowplot",
         "ggrepel",
         "ggridges",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -13017,7 +12962,6 @@
         "ggrepel",
         "tidygraph",
         "ggridges",
-        "miniUI",
         "patchwork",
         "scattermore",
         "sctransform",
@@ -13045,7 +12989,6 @@
         "cowplot",
         "ggrepel",
         "ggridges",
-        "miniUI",
         "patchwork",
         "scattermore",
         "sctransform"
@@ -13072,7 +13015,6 @@
         "ggrastr",
         "cowplot",
         "ggridges",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -13522,7 +13464,6 @@
         "scuttle",
         "BiocFileCache",
         "multipanelfigure",
-        "miniUI",
         "geneplotter",
         "GenomicFeatures",
         "rtracklayer",
@@ -13725,7 +13666,6 @@
         "ggrepel",
         "cowplot",
         "ggridges",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -13882,7 +13822,6 @@
         "colourpicker",
         "shinyjs",
         "dbplyr",
-        "miniUI",
         "scuttle"
     ],
     "spicyR": [
@@ -14018,7 +13957,6 @@
         "cowplot",
         "ggrepel",
         "ggridges",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -14064,7 +14002,6 @@
         "Gviz",
         "BiocStyle",
         "geneplotter",
-        "miniUI",
         "pkgdown",
         "testthat",
         "biomaRt",
@@ -14194,7 +14131,6 @@
         "cowplot",
         "ggrepel",
         "ggridges",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -14479,7 +14415,6 @@
     "target": [],
     "TargetDecoy": [
         "ggpubr",
-        "miniUI",
         "ggrepel",
         "ggsci",
         "tidyr",
@@ -14553,7 +14488,6 @@
         "gson",
         "qvalue",
         "tidyr",
-        "miniUI",
         "ELMER.data",
         "GenomicFeatures",
         "Gviz",
@@ -14659,7 +14593,6 @@
         "readr",
         "tidyr",
         "TCGAutils",
-        "miniUI",
         "dbplyr",
         "vroom",
         "GenomicFeatures",
@@ -14710,7 +14643,6 @@
         "vroom"
     ],
     "TFutils": [
-        "miniUI",
         "GSEABase",
         "BiocFileCache",
         "readxl",
@@ -15790,14 +15722,12 @@
         "tidyr"
     ],
     "ipred": [],
-    "miniUI": [],
     "shinytoastr": [],
     "org.Sc.sgd.db": [],
     "Seurat": [
         "cowplot",
         "ggrepel",
         "ggridges",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -16014,11 +15944,9 @@
     ],
     "ggExtra": [
         "colourpicker",
-        "miniUI",
         "shinyjs"
     ],
     "colourpicker": [
-        "miniUI",
         "shinyjs"
     ],
     "heatmaply": [
@@ -16186,7 +16114,6 @@
         "GenomicAlignments"
     ],
     "devtools": [
-        "miniUI",
         "pkgdown",
         "testthat",
         "waldo",
@@ -16805,7 +16732,6 @@
     "agricolae": [
         "klaR",
         "questionr",
-        "miniUI",
         "labelled",
         "haven",
         "tidyr",
@@ -16814,7 +16740,6 @@
     ],
     "klaR": [
         "questionr",
-        "miniUI",
         "labelled",
         "haven",
         "tidyr",
@@ -16822,7 +16747,6 @@
         "vroom"
     ],
     "questionr": [
-        "miniUI",
         "labelled",
         "haven",
         "tidyr",
@@ -16955,7 +16879,6 @@
     "gghalves": [],
     "anyLib": [
         "devtools",
-        "miniUI",
         "pkgdown",
         "testthat",
         "waldo",
@@ -17019,7 +16942,6 @@
         "tidyr",
         "yardstick",
         "questionr",
-        "miniUI",
         "labelled",
         "haven",
         "readr",
@@ -17247,7 +17169,6 @@
         "cowplot",
         "ggrepel",
         "ggridges",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -17281,8 +17202,7 @@
     "alphahull": [],
     "xROI": [
         "colourpicker",
-        "shinyjs",
-        "miniUI"
+        "shinyjs"
     ],
     "miRNAtap.db": [
         "miRNAtap",
