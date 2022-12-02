@@ -841,8 +841,7 @@
         "Matrix",
         "DelayedArray",
         "NADA",
-        "RCurl",
-        "RcppGSL"
+        "RCurl"
     ],
     "alevinQC": [
         "rmarkdown",
@@ -1079,7 +1078,6 @@
         "selectr",
         "rngtools",
         "openssl",
-        "RcppGSL",
         "RcppEigen"
     ],
     "altcdfenvs": [
@@ -4546,7 +4544,6 @@
         "e1071",
         "knitr",
         "interp",
-        "RcppGSL",
         "cellranger",
         "beachmat",
         "BiocNeighbors",
@@ -13405,7 +13402,6 @@
         "rsvd",
         "sparseMatrixStats",
         "ragg",
-        "RcppGSL",
         "clock",
         "ellipsis",
         "hardhat",
@@ -14191,8 +14187,7 @@
         "RcppZiggurat",
         "RcppArmadillo",
         "ellipsis",
-        "purrr",
-        "RcppGSL"
+        "purrr"
     ],
     "countsimQC": [
         "rmarkdown",
@@ -18690,7 +18685,6 @@
         "XVector",
         "ragg",
         "RcppEigen",
-        "RcppGSL",
         "pillar",
         "RcppAnnoy",
         "dqrng",
@@ -33727,7 +33721,6 @@
         "openssl",
         "knitr",
         "markdown",
-        "RcppGSL",
         "tinytex",
         "bit64",
         "blob",
@@ -38518,7 +38511,6 @@
         "jquerylib",
         "memoise",
         "RCurl",
-        "RcppGSL",
         "pillar",
         "vctrs",
         "foreach"
@@ -39332,7 +39324,6 @@
         "openssl",
         "prodlim",
         "interp",
-        "RcppGSL",
         "cellranger",
         "progress",
         "zoo",
@@ -45890,7 +45881,6 @@
         "graph",
         "shiny",
         "DT",
-        "RcppGSL",
         "Rhtslib",
         "bit64",
         "blob",
@@ -46312,8 +46302,7 @@
         "RcppZiggurat",
         "MatrixGenerics",
         "DelayedArray",
-        "RCurl",
-        "RcppGSL"
+        "RCurl"
     ],
     "omicRexposome": [
         "Biobase",
@@ -47252,7 +47241,6 @@
         "cytolib",
         "highr",
         "Matrix",
-        "RcppGSL",
         "pcaPP",
         "mgcv"
     ],
@@ -49264,7 +49252,6 @@
         "ellipsis",
         "purrr",
         "tidyselect",
-        "RcppGSL",
         "callr",
         "pkgload",
         "waldo",
@@ -51899,7 +51886,6 @@
         "readr",
         "Biostrings",
         "TTR",
-        "RcppGSL",
         "bit64",
         "BiocIO",
         "restfulr",
@@ -72184,8 +72170,7 @@
         "ape",
         "Rfast",
         "RcppZiggurat",
-        "RcppArmadillo",
-        "RcppGSL"
+        "RcppArmadillo"
     ],
     "vidger": [
         "Biobase",
@@ -73541,7 +73526,6 @@
         "org.Hs.eg.db",
         "broom",
         "knitr",
-        "RcppGSL",
         "MatrixGenerics",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -74462,17 +74446,13 @@
     ],
     "Rfast": [
         "RcppZiggurat",
-        "RcppArmadillo",
-        "RcppGSL"
+        "RcppArmadillo"
     ],
-    "RcppZiggurat": [
-        "RcppGSL"
-    ],
+    "RcppZiggurat": [],
     "NADA": [
         "survival",
         "Matrix"
     ],
-    "RcppGSL": [],
     "shinydashboard": [
         "shiny",
         "htmltools",
@@ -74532,7 +74512,6 @@
         "rngtools",
         "openssl",
         "Matrix",
-        "RcppGSL",
         "pillar"
     ],
     "pcaPP": [],
@@ -83184,8 +83163,7 @@
     "SmoothWin": [
         "Rfast",
         "RcppZiggurat",
-        "RcppArmadillo",
-        "RcppGSL"
+        "RcppArmadillo"
     ],
     "pingr": [
         "processx"
