@@ -595,9 +595,7 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Mmusculus.UCSC.mm9"
     ],
-    "chipenrich": [
-        "chipenrich.data"
-    ],
+    "chipenrich": [],
     "ChIPexoQual": [
         "biovizBase",
         "GenomicFeatures",
@@ -4759,7 +4757,6 @@
     "spp": [],
     "ChIC.data": [],
     "BSgenome.Mmusculus.UCSC.mm9": [],
-    "chipenrich.data": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [
         "GenomicFeatures"
     ],
