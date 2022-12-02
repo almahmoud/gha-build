@@ -2792,7 +2792,6 @@
         "broom",
         "tidyr"
     ],
-    "ctsGE": [],
     "CTSV": [
         "qvalue",
         "SpatialExperiment",
