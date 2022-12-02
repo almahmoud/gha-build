@@ -150,8 +150,7 @@
         "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "modelr"
+        "TxDb.Hsapiens.UCSC.hg38.knownGene"
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
@@ -904,8 +903,7 @@
     "dce": [
         "tidyverse",
         "ggraph",
-        "epiNEM",
-        "modelr"
+        "epiNEM"
     ],
     "ddPCRclust": [
         "flowDensity",
@@ -2065,8 +2063,7 @@
         "treeio"
     ],
     "MAI": [
-        "tidyverse",
-        "modelr"
+        "tidyverse"
     ],
     "MAIT": [
         "CAMERA",
@@ -2257,7 +2254,6 @@
         "rstatix",
         "ExperimentHubData",
         "bumphunter",
-        "modelr",
         "GenomicFeatures",
         "AnnotationHubData",
         "car",
@@ -2410,7 +2406,6 @@
         "lme4",
         "ggtree",
         "rstatix",
-        "modelr",
         "treeio",
         "nloptr",
         "car",
@@ -2429,7 +2424,6 @@
         "lme4",
         "ggtree",
         "rstatix",
-        "modelr",
         "treeio",
         "nloptr",
         "car",
@@ -2555,7 +2549,6 @@
         "rstatix",
         "lme4",
         "MSstatsTMT",
-        "modelr",
         "car",
         "nloptr",
         "lmerTest",
@@ -2687,8 +2680,7 @@
         "bsseq"
     ],
     "nanotatoR": [
-        "tidyverse",
-        "modelr"
+        "tidyverse"
     ],
     "NBAMSeq": [],
     "NBSplice": [
@@ -3887,7 +3879,6 @@
         "ggpubr",
         "lme4",
         "rstatix",
-        "modelr",
         "nloptr",
         "car",
         "pbkrtest"
@@ -3934,8 +3925,7 @@
         "SpidermiR"
     ],
     "Statial": [
-        "tidyverse",
-        "modelr"
+        "tidyverse"
     ],
     "STdeconvolve": [],
     "stJoincount": [
@@ -3981,7 +3971,6 @@
         "tidyverse",
         "mice",
         "car",
-        "modelr",
         "pbkrtest",
         "lme4",
         "nloptr"
@@ -4396,9 +4385,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "mGSZ": [],
-    "tidyverse": [
-        "modelr"
-    ],
+    "tidyverse": [],
     "Mus.musculus": [
         "OrganismDbi",
         "GenomicFeatures",
@@ -4411,7 +4398,6 @@
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [
         "GenomicFeatures"
     ],
-    "modelr": [],
     "doBy": [
         "pbkrtest",
         "lme4",
