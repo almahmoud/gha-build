@@ -35256,7 +35256,6 @@
         "irlba",
         "DelayedArray",
         "BiocSingular",
-        "SharedObject",
         "BiocParallel",
         "ScaledMatrix",
         "rsvd",
@@ -48344,7 +48343,6 @@
         "tibble",
         "tidyselect"
     ],
-    "SharedObject": [],
     "shinyepico": [
         "DT",
         "doParallel",
