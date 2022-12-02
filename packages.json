@@ -27,7 +27,6 @@
         "ExperimentHub",
         "AnnotationHub"
     ],
-    "adSplit": [],
     "AffiXcan": [
         "MultiAssayExperiment"
     ],
