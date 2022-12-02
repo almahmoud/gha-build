@@ -14264,7 +14264,6 @@
         "memoise",
         "tidyselect"
     ],
-    "Director": [],
     "DirichletMultinomial": [
         "IRanges"
     ],
