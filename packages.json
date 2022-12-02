@@ -27069,7 +27069,6 @@
         "SmoothWin",
         "car",
         "logistf",
-        "pingr",
         "ggplot2",
         "lme4",
         "pbkrtest",
@@ -45083,7 +45082,6 @@
     "SmoothWin": [
         "Rfast"
     ],
-    "pingr": [],
     "osfr": [
         "crul",
         "tibble",
