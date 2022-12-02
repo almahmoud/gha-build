@@ -5995,13 +5995,11 @@
         "GEOquery",
         "sva"
     ],
-    "scanMiR": [],
     "scanMiRApp": [
         "AnnotationHub",
         "ensembldb",
         "GenomicFeatures",
         "plotly",
-        "scanMiR",
         "scanMiRData",
         "biomaRt"
     ],
@@ -8066,9 +8064,7 @@
         "AnnotationHub",
         "ExperimentHub"
     ],
-    "scanMiRData": [
-        "scanMiR"
-    ],
+    "scanMiRData": [],
     "SCATEData": [
         "ExperimentHub",
         "AnnotationHub"
