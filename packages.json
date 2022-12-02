@@ -1,11 +1,8 @@
 {
     "a4": [
-        "a4Base",
-        "annaffy"
+        "a4Base"
     ],
-    "a4Base": [
-        "annaffy"
-    ],
+    "a4Base": [],
     "abseqR": [
         "plotly"
     ],
@@ -122,7 +119,6 @@
         "MultiAssayExperiment",
         "recipes"
     ],
-    "annaffy": [],
     "annmap": [],
     "AnnotationHub": [],
     "AnnotationHubData": [
@@ -7214,9 +7210,7 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "webbioc": [
-        "annaffy"
-    ],
+    "webbioc": [],
     "wiggleplotr": [],
     "wppi": [
         "OmnipathR"
