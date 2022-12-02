@@ -2515,10 +2515,7 @@
     "isobar": [
         "biomaRt"
     ],
-    "IsoCorrectoR": [],
-    "IsoCorrectoRGUI": [
-        "IsoCorrectoR"
-    ],
+    "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "tximeta",
