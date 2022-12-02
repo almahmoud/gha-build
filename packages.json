@@ -992,9 +992,7 @@
         "biomaRt"
     ],
     "CopywriteR": [],
-    "CoreGx": [
-        "piano"
-    ],
+    "CoreGx": [],
     "corral": [],
     "coseq": [
         "DESeq2",
@@ -3684,7 +3682,6 @@
         "CoreGx",
         "caret",
         "survminer",
-        "piano",
         "genefu",
         "biomaRt",
         "ggpubr",
@@ -3714,8 +3711,7 @@
         "DESeq2"
     ],
     "PharmacoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "phenomis": [
         "biodb",
@@ -3756,7 +3752,6 @@
         "supraHex",
         "caret"
     ],
-    "piano": [],
     "Pigengene": [
         "clusterProfiler",
         "ReactomePA",
@@ -4032,8 +4027,7 @@
         "GenomicFeatures"
     ],
     "RadioGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "ramwas": [
         "biomaRt"
@@ -5208,8 +5202,7 @@
     "tomoseqr": [],
     "topdownr": [],
     "ToxicoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "TPP": [
         "biobroom"
@@ -5460,8 +5453,7 @@
     "XDE": [],
     "Xeva": [
         "PharmacoGx",
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "XINA": [],
     "XNAString": [],
