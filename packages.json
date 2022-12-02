@@ -4731,11 +4731,9 @@
     "OmaDB": [
         "topGO"
     ],
-    "omicade4": [],
     "omicRexposome": [
         "rexposome",
         "sva",
-        "omicade4",
         "SmartSVA",
         "isva",
         "FactoMineR",
