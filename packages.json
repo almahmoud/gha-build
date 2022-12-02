@@ -520,9 +520,7 @@
         "biomaRt"
     ],
     "CAGEr": [],
-    "CAMERA": [
-        "xcms"
-    ],
+    "CAMERA": [],
     "canceR": [
         "phenoTest",
         "Category",
@@ -795,9 +793,7 @@
         "biomaRt"
     ],
     "cliProfiler": [],
-    "cliqueMS": [
-        "xcms"
-    ],
+    "cliqueMS": [],
     "CluMSID": [],
     "clusterExperiment": [
         "zinbwave",
@@ -979,7 +975,6 @@
         "HTSFilter"
     ],
     "cosmiq": [
-        "xcms",
         "faahKO"
     ],
     "cosmosR": [],
@@ -1751,7 +1746,6 @@
         "biomaRt"
     ],
     "flagme": [
-        "xcms",
         "CAMERA"
     ],
     "FLAMES": [
@@ -2393,7 +2387,6 @@
     ],
     "ipdDb": [],
     "IPO": [
-        "xcms",
         "CAMERA"
     ],
     "IRISFGM": [
@@ -2528,7 +2521,6 @@
         "nloptr"
     ],
     "LOBSTAHS": [
-        "xcms",
         "CAMERA"
     ],
     "LowMACA": [
@@ -2622,7 +2614,6 @@
     "MAIT": [
         "CAMERA",
         "agricolae",
-        "xcms",
         "caret",
         "klaR",
         "questionr",
@@ -2729,9 +2720,7 @@
     "meshr": [
         "Category"
     ],
-    "Metab": [
-        "xcms"
-    ],
+    "Metab": [],
     "metabCombiner": [
         "caret"
     ],
@@ -2767,8 +2756,7 @@
         "biomaRt"
     ],
     "metaMS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "MetaPhOR": [
         "clusterProfiler",
@@ -3099,9 +3087,7 @@
         "nloptr"
     ],
     "moanin": [],
-    "MobilityTransformR": [
-        "xcms"
-    ],
+    "MobilityTransformR": [],
     "MODA": [],
     "mogsa": [],
     "MOMA": [],
@@ -3364,9 +3350,7 @@
         "lme4",
         "nloptr"
     ],
-    "ncGTW": [
-        "xcms"
-    ],
+    "ncGTW": [],
     "nearBynding": [
         "plyranges",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -3805,7 +3789,6 @@
         "nloptr"
     ],
     "proFIA": [
-        "xcms",
         "ropls"
     ],
     "profileplyr": [
@@ -4201,9 +4184,7 @@
         "VariantAnnotation",
         "ensembldb"
     ],
-    "Risa": [
-        "xcms"
-    ],
+    "Risa": [],
     "RITAN": [
         "BgeeDB",
         "GenomicFeatures",
@@ -5361,7 +5342,6 @@
     "webbioc": [],
     "wiggleplotr": [],
     "wppi": [],
-    "xcms": [],
     "xcore": [],
     "XDE": [],
     "Xeva": [
@@ -5641,9 +5621,7 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "faahKO": [
-        "xcms"
-    ],
+    "faahKO": [],
     "crisprScoreData": [
         "ExperimentHub"
     ],
