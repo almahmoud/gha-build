@@ -29916,7 +29916,6 @@
         "cpp11",
         "tzdb",
         "MatrixExtra",
-        "float",
         "RhpcBLASctl",
         "farver",
         "labeling",
@@ -47012,7 +47011,6 @@
         "cpp11",
         "tzdb",
         "MatrixExtra",
-        "float",
         "RhpcBLASctl",
         "selectr",
         "farver",
@@ -125604,7 +125602,6 @@
         "rappdirs",
         "withr",
         "MatrixExtra",
-        "float",
         "RhpcBLASctl",
         "farver",
         "labeling",
@@ -126777,7 +126774,6 @@
         "prettyunits",
         "RcppArmadillo",
         "MatrixExtra",
-        "float",
         "RhpcBLASctl",
         "mgsub",
         "qdapRegex",
@@ -142555,7 +142551,6 @@
         "digest",
         "lattice",
         "MatrixExtra",
-        "float",
         "RhpcBLASctl",
         "RcppArmadillo"
     ],
@@ -142609,7 +142604,6 @@
         "Matrix",
         "MatrixExtra",
         "Rcpp",
-        "float",
         "RhpcBLASctl",
         "lgr",
         "RcppArmadillo",
@@ -142728,10 +142722,8 @@
         "Matrix",
         "Rcpp",
         "RhpcBLASctl",
-        "float",
         "lattice"
     ],
-    "float": [],
     "mgsub": [],
     "qdapRegex": [
         "stringi"
