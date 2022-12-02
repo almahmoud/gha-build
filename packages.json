@@ -1474,7 +1474,6 @@
         "zinbwave",
         "phylobase",
         "mbkmeans",
-        "benchmarkme",
         "RNeXML",
         "genefilter"
     ],
@@ -2386,7 +2385,6 @@
     "DMCFB": [
         "arm",
         "rtracklayer",
-        "benchmarkme",
         "lme4",
         "nloptr",
         "testthat"
@@ -4724,9 +4722,7 @@
         "genefilter",
         "testthat"
     ],
-    "mbkmeans": [
-        "benchmarkme"
-    ],
+    "mbkmeans": [],
     "mbOmic": [
         "WGCNA",
         "Hmisc"
@@ -6020,7 +6016,6 @@
         "mbkmeans",
         "scuttle",
         "ggrastr",
-        "benchmarkme",
         "RNeXML",
         "genefilter"
     ],
@@ -6700,7 +6695,6 @@
     ],
     "ppcseq": [
         "tidybayes",
-        "benchmarkme",
         "ggdist",
         "posterior"
     ],
@@ -10066,7 +10060,6 @@
     "phylobase": [
         "RNeXML"
     ],
-    "benchmarkme": [],
     "RNeXML": [],
     "rio": [
         "haven",
