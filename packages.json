@@ -391,7 +391,6 @@
         "ReactomePA",
         "DiagrammeR",
         "enrichplot",
-        "GOSemSim",
         "car",
         "plotly",
         "ggraph",
@@ -735,7 +734,6 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "GOSemSim",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -765,7 +763,6 @@
         "ggpubr",
         "DOSE",
         "enrichplot",
-        "GOSemSim",
         "rstatix",
         "ggraph",
         "ggtree",
@@ -883,7 +880,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "DOSE",
         "ggraph",
-        "GOSemSim",
         "ggtree",
         "biomaRt",
         "tidygraph",
@@ -979,7 +975,6 @@
     "clusterProfiler": [
         "DOSE",
         "enrichplot",
-        "GOSemSim",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -1100,7 +1095,6 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "GOSemSim",
         "FactoMineR",
         "ggpubr",
         "ggraph",
@@ -1421,7 +1415,6 @@
         "enrichplot",
         "plotly",
         "heatmaply",
-        "GOSemSim",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -1643,9 +1636,7 @@
         "lme4",
         "nloptr"
     ],
-    "DOSE": [
-        "GOSemSim"
-    ],
+    "DOSE": [],
     "doseR": [
         "lme4",
         "nloptr"
@@ -1689,7 +1680,6 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "GOSemSim",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -1720,7 +1710,6 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "GOSemSim",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -1773,7 +1762,6 @@
     "enrichplot": [
         "DOSE",
         "ggraph",
-        "GOSemSim",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -1788,7 +1776,6 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "GOSemSim",
         "rstatix",
         "CNEr",
         "ggraph",
@@ -1823,7 +1810,6 @@
         "BSgenome",
         "DOSE",
         "ggraph",
-        "GOSemSim",
         "ggtree",
         "biomaRt",
         "tidygraph",
@@ -1853,7 +1839,6 @@
         "DOSE",
         "enrichplot",
         "ggraph",
-        "GOSemSim",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -1954,7 +1939,6 @@
         "enrichplot",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "DOSE",
-        "GOSemSim",
         "biomaRt",
         "CNEr",
         "ggraph",
@@ -2041,7 +2025,6 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "GOSemSim",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -2062,7 +2045,6 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "GOSemSim",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -2254,7 +2236,6 @@
         "survminer",
         "GenomicDataCommons",
         "enrichplot",
-        "GOSemSim",
         "ggpubr",
         "ggraph",
         "ggtree",
@@ -2502,7 +2483,6 @@
     "GOpro": [
         "MultiAssayExperiment"
     ],
-    "GOSemSim": [],
     "goseq": [
         "geneLenDataBase",
         "GenomicFeatures",
@@ -2515,7 +2495,6 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "GOSemSim",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -2855,7 +2834,6 @@
         "scran",
         "DOSE",
         "enrichplot",
-        "GOSemSim",
         "rstatix",
         "tidygraph",
         "plotly",
@@ -3095,7 +3073,6 @@
         "clusterProfiler",
         "enrichplot",
         "depmap",
-        "GOSemSim",
         "ExperimentHub",
         "AnnotationHub",
         "ggraph",
@@ -3222,7 +3199,6 @@
     "meshes": [
         "DOSE",
         "enrichplot",
-        "GOSemSim",
         "AnnotationHub",
         "ggraph",
         "ggtree",
@@ -3283,7 +3259,6 @@
         "RecordLinkage",
         "DOSE",
         "enrichplot",
-        "GOSemSim",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -3389,7 +3364,6 @@
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "DOSE",
         "enrichplot",
-        "GOSemSim",
         "minfi",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
@@ -3493,7 +3467,6 @@
         "clusterProfiler",
         "enrichplot",
         "DOSE",
-        "GOSemSim",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -3566,7 +3539,6 @@
         "ReactomePA",
         "DOSE",
         "enrichplot",
-        "GOSemSim",
         "ggraph",
         "tidyverse",
         "caret",
@@ -3590,7 +3562,6 @@
         "ReactomePA",
         "DOSE",
         "enrichplot",
-        "GOSemSim",
         "ggraph",
         "tidyverse",
         "caret",
@@ -3679,7 +3650,6 @@
         "TCGAbiolinks",
         "GEOquery",
         "enrichplot",
-        "GOSemSim",
         "biomaRt",
         "ggraph",
         "ggtree",
@@ -3865,7 +3835,6 @@
         "MultiAssayExperiment",
         "ropls",
         "DOSE",
-        "GOSemSim",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -4004,7 +3973,6 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "GOSemSim",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -4280,7 +4248,6 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "GOSemSim",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -4291,8 +4258,7 @@
         "tidygraph",
         "ggraph",
         "nloptr",
-        "DOSE",
-        "GOSemSim"
+        "DOSE"
     ],
     "PAST": [],
     "PathoStat": [
@@ -4340,7 +4306,6 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "GOSemSim",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -4404,7 +4369,6 @@
         "ReactomePA",
         "DOSE",
         "enrichplot",
-        "GOSemSim",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -4536,7 +4500,6 @@
         "chipseq",
         "DOSE",
         "ggraph",
-        "GOSemSim",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -4572,7 +4535,6 @@
         "EnsDb.Rnorvegicus.v79",
         "Rcpi",
         "GenomicFeatures",
-        "GOSemSim",
         "biomaRt"
     ],
     "ProteoDisco": [
@@ -4773,9 +4735,7 @@
         "AUCell"
     ],
     "RCM": [],
-    "Rcpi": [
-        "GOSemSim"
-    ],
+    "Rcpi": [],
     "Rcwl": [
         "DiagrammeR"
     ],
@@ -4790,7 +4750,6 @@
         "DOSE",
         "enrichplot",
         "ggraph",
-        "GOSemSim",
         "ggtree",
         "tidygraph",
         "treeio"
@@ -4830,8 +4789,7 @@
     ],
     "RegEnrich": [
         "DOSE",
-        "DESeq2",
-        "GOSemSim"
+        "DESeq2"
     ],
     "regioneR": [
         "BSgenome"
@@ -5102,7 +5060,6 @@
         "DOSE",
         "sva",
         "enrichplot",
-        "GOSemSim",
         "ggpubr",
         "car",
         "pbkrtest",
@@ -5167,9 +5124,7 @@
         "nloptr"
     ],
     "rqubic": [],
-    "rrvgo": [
-        "GOSemSim"
-    ],
+    "rrvgo": [],
     "RSVSim": [],
     "RTCGA": [
         "survminer",
@@ -5379,7 +5334,6 @@
         "ReactomePA",
         "DOSE",
         "schex",
-        "GOSemSim",
         "enrichplot",
         "ggraph",
         "Seurat",
@@ -5416,7 +5370,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "DOSE",
         "ggraph",
-        "GOSemSim",
         "ggtree",
         "biomaRt",
         "tidygraph",
@@ -5498,7 +5451,6 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "GOSemSim",
         "AnnotationHub",
         "ggraph",
         "ggtree",
@@ -5553,9 +5505,7 @@
         "SpatialExperiment",
         "DropletUtils"
     ],
-    "simplifyEnrichment": [
-        "GOSemSim"
-    ],
+    "simplifyEnrichment": [],
     "sincell": [],
     "single": [],
     "SingleCellSignalR": [
@@ -5980,7 +5930,6 @@
         "sesame",
         "DOSE",
         "enrichplot",
-        "GOSemSim",
         "GenomicFeatures",
         "Gviz",
         "MultiAssayExperiment",
@@ -6065,7 +6014,6 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "GOSemSim",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -6136,8 +6084,7 @@
     "transformGamPoi": [],
     "tRanslatome": [
         "DESeq2",
-        "topGO",
-        "GOSemSim"
+        "topGO"
     ],
     "TraRe": [
         "vbsr"
@@ -6325,7 +6272,6 @@
     "ViSEAGO": [
         "biomaRt",
         "DiagrammeR",
-        "GOSemSim",
         "heatmaply",
         "plotly",
         "topGO"
