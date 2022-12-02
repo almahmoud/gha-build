@@ -283,7 +283,6 @@
     ],
     "biscuiteer": [
         "biscuiteerData",
-        "bsseq",
         "VariantAnnotation",
         "Mus.musculus",
         "Homo.sapiens",
@@ -314,7 +313,6 @@
         "ensembldb"
     ],
     "borealis": [
-        "bsseq",
         "DSS"
     ],
     "brainflowprobes": [
@@ -336,7 +334,6 @@
         "BSgenome.Hsapiens.UCSC.hg38"
     ],
     "BRGenomics": [],
-    "bsseq": [],
     "BubbleTree": [
         "biovizBase",
         "GenomicFeatures",
@@ -480,7 +477,6 @@
         "missMethyl",
         "bumphunter",
         "GenomicFeatures",
-        "bsseq",
         "DSS",
         "Gviz",
         "geneLenDataBase",
@@ -611,8 +607,7 @@
         "GenomicFeatures"
     ],
     "COCOA": [
-        "MIRA",
-        "bsseq"
+        "MIRA"
     ],
     "CODEX": [
         "BSgenome.Hsapiens.UCSC.hg19"
@@ -896,8 +891,7 @@
     "DEGreport": [],
     "deltaCaptureC": [],
     "DeMixT": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "derfinder": [
         "bumphunter",
@@ -956,7 +950,6 @@
         "lme4"
     ],
     "DMRcate": [
-        "bsseq",
         "DSS",
         "minfi",
         "missMethyl",
@@ -982,7 +975,6 @@
         "VariantAnnotation"
     ],
     "dmrseq": [
-        "bsseq",
         "bumphunter",
         "annotatr",
         "GenomicFeatures",
@@ -1007,9 +999,7 @@
         "ensembldb",
         "GenomicFeatures"
     ],
-    "DSS": [
-        "bsseq"
-    ],
+    "DSS": [],
     "easier": [
         "progeny",
         "easierData",
@@ -1838,7 +1828,6 @@
     "kissDE": [
         "DSS",
         "factoextra",
-        "bsseq",
         "FactoMineR",
         "ggpubr",
         "car",
@@ -2068,8 +2057,7 @@
     "metaseqR2": [
         "DSS",
         "EDASeq",
-        "GenomicFeatures",
-        "bsseq"
+        "GenomicFeatures"
     ],
     "metavizr": [
         "epivizr",
@@ -2082,7 +2070,6 @@
     ],
     "MetaVolcanoR": [],
     "MethCP": [
-        "bsseq",
         "DSS"
     ],
     "MethReg": [
@@ -2103,7 +2090,6 @@
     "methylCC": [
         "FlowSorted.Blood.450k",
         "minfi",
-        "bsseq",
         "bumphunter",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -2153,7 +2139,6 @@
     ],
     "MethylSeekR": [],
     "methylSig": [
-        "bsseq",
         "DSS"
     ],
     "methylumi": [
@@ -2240,9 +2225,7 @@
         "VanillaICE",
         "BSgenome.Hsapiens.UCSC.hg18"
     ],
-    "MIRA": [
-        "bsseq"
-    ],
+    "MIRA": [],
     "miRLAB": [
         "TCGAbiolinks",
         "GOstats"
@@ -2505,9 +2488,7 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "NanoMethViz": [
-        "bsseq"
-    ],
+    "NanoMethViz": [],
     "nanotatoR": [
         "tidyverse"
     ],
@@ -3334,7 +3315,6 @@
         "M3Drop"
     ],
     "scmeth": [
-        "bsseq",
         "annotatr",
         "GenomicFeatures",
         "regioneR"
