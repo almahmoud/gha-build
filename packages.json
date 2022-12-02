@@ -55,7 +55,6 @@
         "adductData",
         "ExperimentHub",
         "AnnotationHub",
-        "rvest",
         "BiocFileCache",
         "dbplyr"
     ],
@@ -189,8 +188,7 @@
         "readxl",
         "mixOmics",
         "speaq",
-        "ggrepel",
-        "rvest"
+        "ggrepel"
     ],
     "AMARETTO": [
         "BiocFileCache",
@@ -540,7 +538,6 @@
         "readr",
         "readxl",
         "reprex",
-        "rvest",
         "tidyr",
         "BiocFileCache",
         "GenomicAlignments",
@@ -1009,7 +1006,6 @@
     ],
     "BiocPkgTools": [
         "BiocFileCache",
-        "rvest",
         "readr",
         "dbplyr",
         "vroom"
@@ -1614,7 +1610,6 @@
         "TCGAutils",
         "annotate",
         "vroom",
-        "rvest",
         "GenomicFeatures",
         "GenomicDataCommons",
         "rtracklayer",
@@ -1640,7 +1635,6 @@
         "TCGAutils",
         "dbplyr",
         "vroom",
-        "rvest",
         "GenomicFeatures",
         "GenomicDataCommons",
         "rtracklayer",
@@ -2162,7 +2156,6 @@
         "msigdbr",
         "scuttle",
         "ggfittext",
-        "rvest",
         "babelgene",
         "GenomicAlignments",
         "ggbeeswarm",
@@ -3288,7 +3281,6 @@
         "readr",
         "readxl",
         "reprex",
-        "rvest",
         "ggdendro",
         "vroom"
     ],
@@ -3415,7 +3407,6 @@
         "ttgsea",
         "textstem",
         "DiagrammeR",
-        "rvest",
         "readr",
         "tidyr",
         "viridis",
@@ -3708,8 +3699,7 @@
         "tidyr",
         "colourpicker",
         "dendextend",
-        "egg",
-        "rvest"
+        "egg"
     ],
     "distinct": [
         "SingleCellExperiment",
@@ -4094,7 +4084,6 @@
         "biomaRt",
         "ggrepel",
         "readr",
-        "rvest",
         "plotly",
         "tidyr",
         "ggpubr",
@@ -4594,7 +4583,6 @@
         "MultiAssayExperiment",
         "ggdendro",
         "kableExtra",
-        "rvest",
         "tidyr"
     ],
     "EventPointer": [
@@ -5532,7 +5520,6 @@
         "viridis",
         "lexicon",
         "textclean",
-        "rvest",
         "syuzhet",
         "vroom"
     ],
@@ -5593,9 +5580,7 @@
         "testthat",
         "waldo"
     ],
-    "GEOfastq": [
-        "rvest"
-    ],
+    "GEOfastq": [],
     "GEOmetadb": [
         "GEOquery",
         "readr",
@@ -6323,7 +6308,6 @@
         "ggforce",
         "msigdbr",
         "kableExtra",
-        "rvest",
         "babelgene"
     ],
     "iasva": [],
@@ -6509,7 +6493,6 @@
     ],
     "immunotation": [
         "readr",
-        "rvest",
         "tidyr",
         "vroom"
     ],
@@ -6597,8 +6580,7 @@
     ],
     "InteractionSet": [],
     "InteractiveComplexHeatmap": [
-        "kableExtra",
-        "rvest"
+        "kableExtra"
     ],
     "interactiveDisplay": [
         "Category",
@@ -7119,7 +7101,6 @@
         "TFBSTools",
         "dbplyr",
         "vroom",
-        "rvest",
         "GenomicFeatures",
         "GenomicDataCommons",
         "BSgenome",
@@ -7227,8 +7208,7 @@
     ],
     "MACSQuantifyR": [
         "readxl",
-        "ggrepel",
-        "rvest"
+        "ggrepel"
     ],
     "MACSr": [
         "ExperimentHub",
@@ -7327,7 +7307,6 @@
         "readr",
         "readxl",
         "reprex",
-        "rvest",
         "tidyr",
         "vroom",
         "ipred"
@@ -7942,7 +7921,6 @@
         "readr",
         "readxl",
         "reprex",
-        "rvest",
         "GenomicFeatures",
         "AnnotationHubData",
         "annotate",
@@ -8270,8 +8248,7 @@
         "HardyWeinberg",
         "kableExtra",
         "tidyr",
-        "mice",
-        "rvest"
+        "mice"
     ],
     "MIGSA": [
         "ggdendro",
@@ -8388,7 +8365,6 @@
         "AnnotationForge",
         "viridis",
         "biomaRt",
-        "rvest",
         "readr",
         "tidyr",
         "BiocFileCache",
@@ -8471,7 +8447,6 @@
         "readr",
         "readxl",
         "reprex",
-        "rvest",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -8536,7 +8511,6 @@
         "readr",
         "readxl",
         "reprex",
-        "rvest",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -8720,7 +8694,6 @@
         "fgsea",
         "readr",
         "biomaRt",
-        "rvest",
         "BiocFileCache",
         "aplot",
         "ggnewscale",
@@ -8956,7 +8929,6 @@
         "readr",
         "readxl",
         "reprex",
-        "rvest",
         "viridis",
         "car",
         "nloptr",
@@ -9223,7 +9195,6 @@
         "ggpubr",
         "biomaRt",
         "learnr",
-        "rvest",
         "readr",
         "BiocFileCache",
         "viridis",
@@ -9358,7 +9329,6 @@
         "readr",
         "readxl",
         "reprex",
-        "rvest",
         "tidyr",
         "vroom"
     ],
@@ -9799,7 +9769,6 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "GenomicAlignments",
-        "rvest",
         "pbkrtest",
         "lme4",
         "viridis",
@@ -9853,7 +9822,6 @@
     "OmnipathR": [
         "readr",
         "readxl",
-        "rvest",
         "tidyr",
         "vroom"
     ],
@@ -10914,7 +10882,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "rvest",
         "vroom",
         "pbkrtest",
         "lme4",
@@ -11586,9 +11553,7 @@
         "testthat",
         "waldo"
     ],
-    "rfaRm": [
-        "rvest"
-    ],
+    "rfaRm": [],
     "Rfastp": [],
     "rfPred": [],
     "rGADEM": [
@@ -11826,8 +11791,7 @@
         "MSnbase",
         "webchem",
         "ChemmineR",
-        "vsn",
-        "rvest"
+        "vsn"
     ],
     "Rmmquant": [
         "devtools",
@@ -12161,7 +12125,6 @@
         "GenomicAlignments"
     ],
     "RTCGA": [
-        "rvest",
         "survminer",
         "ggthemes",
         "viridis",
@@ -12184,7 +12147,6 @@
     ],
     "RTCGAToolbox": [
         "RaggedExperiment",
-        "rvest",
         "TCGAutils",
         "GenomicFeatures",
         "GenomicDataCommons",
@@ -12543,8 +12505,7 @@
         "ggforce"
     ],
     "scifer": [
-        "kableExtra",
-        "rvest"
+        "kableExtra"
     ],
     "scMAGeCK": [
         "Seurat",
@@ -13726,7 +13687,6 @@
         "readr",
         "readxl",
         "reprex",
-        "rvest",
         "nloptr",
         "vroom",
         "ipred",
@@ -13896,7 +13856,6 @@
         "readr",
         "readxl",
         "reprex",
-        "rvest",
         "vroom"
     ],
     "STdeconvolve": [
@@ -14081,7 +14040,6 @@
         "readr",
         "readxl",
         "reprex",
-        "rvest",
         "pbkrtest",
         "lme4",
         "viridis",
@@ -14232,7 +14190,6 @@
     ],
     "TCGAbiolinks": [
         "biomaRt",
-        "rvest",
         "readr",
         "tidyr",
         "BiocFileCache",
@@ -14267,7 +14224,6 @@
         "Gviz",
         "MultiAssayExperiment",
         "biomaRt",
-        "rvest",
         "ggpubr",
         "rtracklayer",
         "org.Hs.eg.db",
@@ -14317,7 +14273,6 @@
         "GenomicDataCommons",
         "MultiAssayExperiment",
         "RaggedExperiment",
-        "rvest",
         "readr",
         "rtracklayer",
         "biomaRt",
@@ -14370,7 +14325,6 @@
         "vroom",
         "GenomicFeatures",
         "GenomicDataCommons",
-        "rvest",
         "rtracklayer",
         "biomaRt",
         "GenomicAlignments"
@@ -14937,7 +14891,6 @@
         "ggrepel",
         "vroom",
         "textstem",
-        "rvest",
         "lexicon",
         "textclean",
         "syuzhet"
@@ -15229,7 +15182,6 @@
         "tidyr",
         "readr",
         "readxl",
-        "rvest",
         "vroom"
     ],
     "xcms": [
@@ -15417,7 +15369,6 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "rvest": [],
     "dbplyr": [],
     "PFAM.db": [],
     "Hmisc": [
@@ -15433,9 +15384,7 @@
     ],
     "shinydashboard": [],
     "readxl": [],
-    "speaq": [
-        "rvest"
-    ],
+    "speaq": [],
     "curatedTCGAData": [
         "MultiAssayExperiment",
         "AnnotationHub",
@@ -15614,7 +15563,6 @@
         "readr",
         "readxl",
         "reprex",
-        "rvest",
         "tidyr",
         "vroom"
     ],
@@ -16031,9 +15979,7 @@
         "shinydashboard",
         "waiter"
     ],
-    "kableExtra": [
-        "rvest"
-    ],
+    "kableExtra": [],
     "gggenes": [
         "ggfittext"
     ],
@@ -16210,9 +16156,7 @@
         "testthat",
         "waldo"
     ],
-    "webchem": [
-        "rvest"
-    ],
+    "webchem": [],
     "textstem": [
         "lexicon",
         "textclean",
