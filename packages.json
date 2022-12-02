@@ -901,7 +901,6 @@
     "doseR": [
         "lme4"
     ],
-    "dpeak": [],
     "drugTargetInteractions": [
         "ensembldb",
         "GenomicFeatures"
