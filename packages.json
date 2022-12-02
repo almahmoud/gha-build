@@ -2684,7 +2684,6 @@
         "ggplot2",
         "MsFeatures"
     ],
-    "clstutils": [],
     "CluMSID": [
         "network",
         "GGally",
