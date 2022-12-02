@@ -14449,7 +14449,6 @@
         "genefilter",
         "annotate"
     ],
-    "trio": [],
     "tripr": [
         "plotly",
         "tidyr"
