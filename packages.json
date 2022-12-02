@@ -18935,7 +18935,6 @@
         "testthat",
         "GeomxTools",
         "NanoStringNCTools",
-        "roptim",
         "readxl",
         "EnvStats",
         "lmerTest",
@@ -57093,7 +57092,6 @@
     "robust": [
         "rrcov"
     ],
-    "roptim": [],
     "shinyHeatmaply": [
         "heatmaply",
         "shiny",
