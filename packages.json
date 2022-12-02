@@ -9157,7 +9157,6 @@
         "viridis",
         "vsn"
     ],
-    "loci2path": [],
     "LoomExperiment": [
         "SingleCellExperiment",
         "SummarizedExperiment"
