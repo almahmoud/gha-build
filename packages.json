@@ -3538,7 +3538,6 @@
         "gridSVG",
         "Hmisc",
         "latticeExtra",
-        "setRNG",
         "vsn",
         "XML",
         "svglite",
@@ -6685,7 +6684,6 @@
         "DirichletMultinomial",
         "testthat",
         "optextras",
-        "setRNG",
         "Rvmmin",
         "Rcgmin",
         "htmlwidgets",
@@ -114862,7 +114860,6 @@
     "beanplot": [],
     "nor1mix": [],
     "hexbin": [],
-    "setRNG": [],
     "svglite": [
         "systemfonts"
     ],
@@ -116086,7 +116083,6 @@
         "mgcv",
         "withr",
         "optextras",
-        "setRNG",
         "Rvmmin",
         "Rcgmin",
         "ade4",
@@ -116147,7 +116143,6 @@
     ],
     "optimr": [
         "optextras",
-        "setRNG",
         "Rvmmin",
         "Rcgmin"
     ],
