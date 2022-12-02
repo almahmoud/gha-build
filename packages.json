@@ -1335,7 +1335,6 @@
         "IlluminaHumanMethylation450kmanifest"
     ],
     "REDseq": [],
-    "regioneReloaded": [],
     "regionReport": [
         "derfinder",
         "GenomicFiles"
