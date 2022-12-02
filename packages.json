@@ -722,7 +722,6 @@
     "DSS": [],
     "easier": [
         "progeny",
-        "easierData",
         "ggpubr",
         "rstatix",
         "car",
@@ -3041,7 +3040,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "easierData": [],
     "JASPAR2018": [],
     "EntropyExplorer": [],
     "EpiMix.data": [],
