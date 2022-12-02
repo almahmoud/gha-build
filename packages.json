@@ -8148,7 +8148,6 @@
         "clusterProfiler",
         "enrichplot",
         "shinyWidgets",
-        "shinycustomloader",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -15059,8 +15058,7 @@
         "GenomicAlignments"
     ],
     "wpm": [
-        "shinyWidgets",
-        "shinycustomloader"
+        "shinyWidgets"
     ],
     "wppi": [
         "OmnipathR",
@@ -16363,7 +16361,6 @@
         "tidyr",
         "GGally"
     ],
-    "shinycustomloader": [],
     "ggstar": [],
     "HardyWeinberg": [
         "mice",
