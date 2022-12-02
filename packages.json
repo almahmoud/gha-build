@@ -917,7 +917,6 @@
         "tibble",
         "tidyr",
         "Rmpfr",
-        "osqp",
         "RcppEigen",
         "gld",
         "readxl",
@@ -3298,7 +3297,6 @@
         "rhdf5",
         "XVector",
         "Rmpfr",
-        "osqp",
         "gld",
         "readxl",
         "ROI.plugin.lpsolve",
@@ -29020,7 +29018,6 @@
         "shiny",
         "ggplotify",
         "Rmpfr",
-        "osqp",
         "RcppEigen",
         "gld",
         "readxl",
@@ -55147,7 +55144,6 @@
     ],
     "CVXR": [
         "Rmpfr",
-        "osqp",
         "RcppEigen"
     ],
     "DescTools": [
@@ -55180,7 +55176,6 @@
         "rematch2"
     ],
     "Rmpfr": [],
-    "osqp": [],
     "gld": [
         "e1071"
     ],
