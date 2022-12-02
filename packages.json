@@ -746,9 +746,7 @@
         "Ecume",
         "distinct"
     ],
-    "CONFESS": [
-        "contrast"
-    ],
+    "CONFESS": [],
     "consensusDE": [
         "EDASeq",
         "ensembldb",
@@ -4627,7 +4625,6 @@
         "nloptr"
     ],
     "Ecume": [],
-    "contrast": [],
     "EnsDb.Hsapiens.v86": [
         "ensembldb",
         "GenomicFeatures"
