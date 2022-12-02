@@ -11109,7 +11109,6 @@
         "colourpicker",
         "ggrepel",
         "highcharter",
-        "pairsD3",
         "recount",
         "shinyjs",
         "dbplyr",
@@ -17027,7 +17026,6 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "pairsD3": [],
     "shinyscreenshot": [],
     "pwrEWAS.data": [
         "ExperimentHub",
