@@ -25995,7 +25995,6 @@
         "irlba",
         "dqrng"
     ],
-    "Informeasure": [],
     "InPAS": [
         "AnnotationDbi",
         "batchtools",
