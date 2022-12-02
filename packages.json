@@ -173,9 +173,7 @@
     "cicero": [
         "Gviz"
     ],
-    "circRNAprofiler": [
-        "gwascat"
-    ],
+    "circRNAprofiler": [],
     "CircSeqAlignTk": [
         "Rhisat2"
     ],
@@ -552,7 +550,6 @@
         "Homo.sapiens"
     ],
     "Gviz": [],
-    "gwascat": [],
     "HelloRanges": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -1379,9 +1376,7 @@
         "textstem"
     ],
     "Voyager": [],
-    "vtpnet": [
-        "gwascat"
-    ],
+    "vtpnet": [],
     "vulcan": [],
     "waddR": [],
     "wateRmelon": [
