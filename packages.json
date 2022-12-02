@@ -8555,9 +8555,7 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "velociraptor": [
-        "zellkonverter"
-    ],
+    "velociraptor": [],
     "VennDetail": [],
     "vidger": [
         "DESeq2",
@@ -8708,7 +8706,6 @@
         "GEOquery",
         "GenomicFeatures"
     ],
-    "zellkonverter": [],
     "zenith": [
         "variancePartition",
         "EnrichmentBrowser",
