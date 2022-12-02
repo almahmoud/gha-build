@@ -50848,7 +50848,6 @@
         "RcppEigen",
         "DelayedArray"
     ],
-    "rSWeeP": [],
     "RTCA": [],
     "RTCGA": [
         "rvest",
