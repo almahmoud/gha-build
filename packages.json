@@ -4905,7 +4905,6 @@
         "tidyr"
     ],
     "LACE": [
-        "sortable",
         "tidyr",
         "readr",
         "biomaRt",
@@ -6476,7 +6475,6 @@
         "decompTumor2Sig",
         "plotly",
         "factoextra",
-        "sortable",
         "TCGAbiolinks",
         "rtracklayer",
         "dendextend",
@@ -11455,7 +11453,6 @@
         "oligo"
     ],
     "hgu95av2.db": [],
-    "sortable": [],
     "reldist": [
         "densEstBayes"
     ],
