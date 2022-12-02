@@ -12317,7 +12317,6 @@
         "GenomicAlignments",
         "chipseq",
         "reshape2",
-        "Nozzle.R1",
         "Biobase",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -93748,7 +93747,6 @@
         "askpass",
         "lifecycle"
     ],
-    "Nozzle.R1": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [
         "GenomicFeatures",
         "AnnotationDbi",
