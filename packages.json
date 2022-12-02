@@ -325,7 +325,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
-        "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "TxDb.Rnorvegicus.UCSC.rn4.ensGene",
         "TxDb.Celegans.UCSC.ce6.ensGene",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene"
@@ -381,9 +380,7 @@
     "cogeqc": [
         "ggtree"
     ],
-    "Cogito": [
-        "TxDb.Mmusculus.UCSC.mm9.knownGene"
-    ],
+    "Cogito": [],
     "comapr": [
         "Gviz",
         "biovizBase",
@@ -1122,9 +1119,7 @@
     "INDEED": [],
     "infercnv": [],
     "InPAS": [],
-    "INSPEcT": [
-        "TxDb.Mmusculus.UCSC.mm9.knownGene"
-    ],
+    "INSPEcT": [],
     "InTAD": [
         "ggpubr",
         "rstatix",
@@ -1880,7 +1875,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
-        "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "rGREAT",
         "enrichplot",
         "ggtree"
@@ -2068,9 +2062,7 @@
     "RLSeq": [
         "RLHub"
     ],
-    "Rmmquant": [
-        "TxDb.Mmusculus.UCSC.mm9.knownGene"
-    ],
+    "Rmmquant": [],
     "RNAAgeCalc": [
         "recount",
         "derfinder",
@@ -2732,7 +2724,6 @@
     "geneLenDataBase": [],
     "spp": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [],
-    "TxDb.Mmusculus.UCSC.mm9.knownGene": [],
     "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [],
     "TxDb.Celegans.UCSC.ce6.ensGene": [],
     "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [],
