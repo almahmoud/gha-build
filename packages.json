@@ -1136,7 +1136,6 @@
     "HiLDA": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "hiReadsProcessor": [],
     "HTSeqGenie": [
         "gmapR",
         "VariantAnnotation",
