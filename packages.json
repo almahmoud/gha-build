@@ -2198,7 +2198,6 @@
         "nloptr",
         "tibble",
         "tidyr",
-        "optimr",
         "detectseparation",
         "patchwork",
         "scattermore",
@@ -38706,7 +38705,6 @@
     ],
     "maxLik": [],
     "corncob": [
-        "optimr",
         "ggplot2",
         "dplyr",
         "detectseparation",
@@ -38725,7 +38723,6 @@
         "tidyselect",
         "pillar"
     ],
-    "optimr": [],
     "detectseparation": [],
     "survey": [],
     "sjmisc": [
