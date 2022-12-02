@@ -1719,7 +1719,6 @@
         "GEOquery"
     ],
     "EGSEA": [
-        "gage",
         "topGO",
         "PADOG",
         "GSVA",
@@ -2205,7 +2204,6 @@
         "biomaRt",
         "BSgenome"
     ],
-    "gage": [],
     "GARS": [
         "DaMiRseq",
         "MLSeq",
