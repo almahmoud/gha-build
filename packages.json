@@ -21812,7 +21812,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "Rbowtie",
         "readr",
         "stringr",
         "S4Vectors",
@@ -21929,7 +21928,6 @@
         "XVector",
         "Rsamtools",
         "stringr",
-        "Rbowtie",
         "readr",
         "crisprScoreData",
         "basilisk",
@@ -22348,7 +22346,6 @@
         "stringr",
         "BSgenome",
         "GenomeInfoDb",
-        "Rbowtie",
         "readr",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -22509,7 +22506,6 @@
         "SummarizedExperiment",
         "AnnotationFilter",
         "rlang",
-        "Rbowtie",
         "readr",
         "crisprScoreData",
         "basilisk",
@@ -65938,7 +65934,6 @@
         "karyoploteR",
         "magrittr",
         "plyranges",
-        "Rbowtie",
         "reticulate",
         "rtracklayer",
         "stringi",
@@ -81097,7 +81092,6 @@
     ],
     "QuasR": [
         "GenomicRanges",
-        "Rbowtie",
         "BiocGenerics",
         "S4Vectors",
         "IRanges",
@@ -81969,7 +81963,6 @@
     "RBM": [
         "marray"
     ],
-    "Rbowtie": [],
     "Rbowtie2": [
         "magrittr",
         "Rsamtools",
@@ -97210,7 +97203,6 @@
         "RCurl",
         "GenomeInfoDbData",
         "Rcpp",
-        "Rbowtie",
         "Biobase",
         "GenomicFeatures",
         "ShortRead",
