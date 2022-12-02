@@ -54808,7 +54808,6 @@
         "biclust",
         "isa2",
         "QUBIC",
-        "akmbiclust",
         "flexclust",
         "tidyr",
         "ggplot2",
@@ -109613,7 +109612,6 @@
         "openssl",
         "askpass"
     ],
-    "akmbiclust": [],
     "gghalves": [
         "ggplot2",
         "lifecycle",
