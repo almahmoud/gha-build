@@ -19730,7 +19730,6 @@
         "genefu",
         "ggplot2",
         "switchBox",
-        "reportROC",
         "verification",
         "recipes",
         "bench",
@@ -33113,7 +33112,6 @@
         "tfruns",
         "tidyselect"
     ],
-    "reportROC": [],
     "verification": [
         "fields",
         "viridis",
