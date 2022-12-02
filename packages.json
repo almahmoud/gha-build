@@ -8104,7 +8104,6 @@
         "tidyr",
         "fgsea"
     ],
-    "PhenoGeneRanker": [],
     "phenomis": [
         "biodb",
         "biodbChebi",
