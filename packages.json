@@ -768,7 +768,6 @@
         "GenomeInfoDbData",
         "XVector"
     ],
-    "agilp": [],
     "AgiMicroRna": [
         "Biobase",
         "affy",
