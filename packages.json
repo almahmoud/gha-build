@@ -9794,7 +9794,6 @@
         "network",
         "sna",
         "SingleCellExperiment",
-        "pathwayPCA",
         "AnnotationDbi",
         "DOSE",
         "enrichplot",
@@ -20520,7 +20519,6 @@
         "Biostrings",
         "blob"
     ],
-    "pathwayPCA": [],
     "paxtoolsr": [
         "readr",
         "tibble",
