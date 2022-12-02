@@ -31923,7 +31923,6 @@
         "ggplot2",
         "reshape2",
         "stringr",
-        "HGNChelper",
         "Matrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -116878,7 +116877,6 @@
         "RCurl",
         "GenomeInfoDbData"
     ],
-    "HGNChelper": [],
     "homologene": [
         "dplyr",
         "magrittr",
