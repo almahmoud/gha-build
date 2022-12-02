@@ -5771,7 +5771,6 @@
         "rgl"
     ],
     "clipper": [
-        "gRbase",
         "qpgraph",
         "KEGGgraph",
         "annotate",
@@ -11939,7 +11938,6 @@
         "vroom"
     ],
     "fgga": [
-        "gRbase",
         "BiocFileCache",
         "dbplyr",
         "dplyr",
@@ -14143,7 +14141,6 @@
         "AnnotationDbi",
         "Category",
         "DT",
-        "gRbase",
         "GSEABase",
         "gRain",
         "GOstats",
@@ -20503,7 +20500,6 @@
         "reactome.db",
         "graphite",
         "bslib",
-        "gRbase",
         "glmnet",
         "tidyverse",
         "caret",
@@ -20592,7 +20588,6 @@
         "ggraph",
         "reactome.db",
         "graphite",
-        "gRbase",
         "glmnet",
         "tidyverse",
         "caret",
@@ -29640,7 +29635,6 @@
         "gRain",
         "snpStats",
         "kinship2",
-        "gRbase",
         "broom",
         "dplyr",
         "tibble",
@@ -33302,7 +33296,6 @@
         "viridis"
     ],
     "SPONGE": [
-        "gRbase",
         "glmnet",
         "tidyverse",
         "caret",
@@ -39767,7 +39760,6 @@
         "DelayedArray"
     ],
     "rgl": [],
-    "gRbase": [],
     "phylobase": [
         "rncl",
         "RNeXML",
@@ -40658,7 +40650,6 @@
         "pillar"
     ],
     "gRain": [
-        "gRbase",
         "broom",
         "dplyr",
         "tibble",
