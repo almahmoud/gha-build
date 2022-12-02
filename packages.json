@@ -75826,7 +75826,6 @@
         "arrayhelpers",
         "posterior",
         "ellipsis",
-        "svUnit",
         "rprojroot",
         "distributional",
         "mime",
@@ -126020,7 +126019,6 @@
         "posterior",
         "withr",
         "vctrs",
-        "svUnit",
         "lifecycle",
         "pillar",
         "scales",
@@ -126062,9 +126060,7 @@
         "nlme",
         "Matrix"
     ],
-    "arrayhelpers": [
-        "svUnit"
-    ],
+    "arrayhelpers": [],
     "posterior": [
         "checkmate",
         "rlang",
@@ -126088,7 +126084,6 @@
         "nlme",
         "Matrix"
     ],
-    "svUnit": [],
     "distributional": [
         "vctrs",
         "rlang",
