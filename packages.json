@@ -2273,7 +2273,6 @@
         "Hmisc"
     ],
     "consensusDE": [
-        "airway",
         "dendextend",
         "DESeq2",
         "EDASeq",
@@ -8040,7 +8039,6 @@
         "Linnorm"
     ],
     "NetActivity": [
-        "airway",
         "DESeq2",
         "geneplotter",
         "annotate"
@@ -13639,7 +13637,6 @@
         "rms",
         "Hmisc"
     ],
-    "airway": [],
     "EnsDb.Hsapiens.v86": [
         "ensembldb",
         "GenomicFeatures",
