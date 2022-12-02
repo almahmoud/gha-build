@@ -26209,7 +26209,6 @@
         "GenomicRanges",
         "Biostrings"
     ],
-    "ternarynet": [],
     "terraTCGAdata": [
         "AnVIL",
         "MultiAssayExperiment",
