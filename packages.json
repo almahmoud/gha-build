@@ -498,7 +498,6 @@
     ],
     "coseq": [],
     "cosmiq": [],
-    "cpvSNP": [],
     "crisprDesign": [
         "crisprScore",
         "VariantAnnotation",
