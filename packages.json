@@ -2960,7 +2960,6 @@
     "iBBiG": [
         "biclust"
     ],
-    "iCARE": [],
     "icetea": [
         "GenomicFeatures",
         "VariantAnnotation",
