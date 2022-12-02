@@ -1709,9 +1709,7 @@
         "plotly",
         "biomaRt"
     ],
-    "DEGraph": [
-        "NCIgraph"
-    ],
+    "DEGraph": [],
     "DEGreport": [
         "broom",
         "DESeq2"
@@ -4736,7 +4734,6 @@
         "xcms",
         "MSnbase"
     ],
-    "NCIgraph": [],
     "ndexr": [],
     "nearBynding": [
         "plyranges",
