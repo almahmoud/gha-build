@@ -2768,7 +2768,6 @@
         "precrec",
         "ranger",
         "ggplot2",
-        "imager",
         "topGO",
         "tibble",
         "Hmisc",
@@ -27015,7 +27014,6 @@
         "DelayedArray"
     ],
     "rGenomeTracks": [
-        "imager",
         "rGenomeTracksData",
         "AnnotationHub",
         "BiocFileCache",
@@ -37432,7 +37430,6 @@
         "pillar"
     ],
     "ranger": [],
-    "imager": [],
     "multcomp": [
         "TH.data"
     ],
