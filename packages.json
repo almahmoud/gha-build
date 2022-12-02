@@ -886,7 +886,6 @@
     "meshes": [
         "enrichplot"
     ],
-    "MetaboAnnotation": [],
     "MetaboSignal": [
         "MWASTools",
         "car",
