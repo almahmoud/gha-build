@@ -3774,8 +3774,7 @@
         "treeio"
     ],
     "M3Drop": [
-        "reldist",
-        "densEstBayes"
+        "reldist"
     ],
     "m6Aboost": [
         "adabag",
@@ -6200,8 +6199,7 @@
         "GenomicFeatures",
         "reldist",
         "DESeq2",
-        "biomaRt",
-        "densEstBayes"
+        "biomaRt"
     ],
     "RiboProfiling": [
         "GenomicFeatures",
@@ -6643,8 +6641,7 @@
     "scmap": [],
     "scMerge": [
         "M3Drop",
-        "reldist",
-        "densEstBayes"
+        "reldist"
     ],
     "scmeth": [
         "bsseq",
@@ -6988,8 +6985,7 @@
         "M3Drop",
         "genefilter",
         "biomaRt",
-        "reldist",
-        "densEstBayes"
+        "reldist"
     ],
     "SingleMoleculeFootprinting": [
         "BSgenome",
@@ -8574,10 +8570,7 @@
     "pd.mapping50k.xba240": [
         "oligo"
     ],
-    "reldist": [
-        "densEstBayes"
-    ],
-    "densEstBayes": [],
+    "reldist": [],
     "adabag": [
         "caret",
         "recipes"
