@@ -767,7 +767,6 @@
         "ggtree",
         "treeio"
     ],
-    "easyRNASeq": [],
     "EBSeqHMM": [],
     "EDASeq": [],
     "edge": [
@@ -1797,7 +1796,6 @@
         "QFeatures"
     ],
     "msgbsR": [
-        "easyRNASeq",
         "ggbio",
         "biovizBase",
         "VariantAnnotation",
