@@ -1208,7 +1208,6 @@
         "DESeq2",
         "ggrepel",
         "SummarizedExperiment",
-        "Rsubread",
         "ggplot2",
         "rtracklayer",
         "VariantAnnotation",
@@ -11562,7 +11561,6 @@
         "edgeR",
         "DEXSeq",
         "GenomicRanges",
-        "Rsubread",
         "ggplot2",
         "rtracklayer",
         "ComplexHeatmap",
@@ -12339,9 +12337,7 @@
         "XVector",
         "hms"
     ],
-    "dupRadar": [
-        "Rsubread"
-    ],
+    "dupRadar": [],
     "dyebias": [],
     "easier": [
         "progeny",
@@ -14131,7 +14127,6 @@
         "rematch2"
     ],
     "ExCluster": [
-        "Rsubread",
         "GenomicRanges",
         "rtracklayer",
         "GenomeInfoDb",
@@ -15396,7 +15391,6 @@
         "pcaMethods",
         "pheatmap",
         "plotly",
-        "Rsubread",
         "tibble",
         "RSQLite",
         "KEGGREST",
@@ -35391,7 +35385,6 @@
         "rtracklayer",
         "Rsamtools",
         "RUVSeq",
-        "Rsubread",
         "XVector",
         "ggplot2",
         "ggfittext",
@@ -36632,7 +36625,6 @@
         "vctrs",
         "pillar"
     ],
-    "Rsubread": [],
     "RSVSim": [
         "Biostrings",
         "GenomicRanges",
@@ -38515,7 +38507,6 @@
         "rtracklayer",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "Rsubread",
         "RSQLite",
         "KEGGREST",
         "XVector",
