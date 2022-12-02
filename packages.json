@@ -20,8 +20,7 @@
         "mia"
     ],
     "appreci8R": [
-        "PolyPhen.Hsapiens.dbSNP131",
-        "SIFT.Hsapiens.dbSNP137"
+        "PolyPhen.Hsapiens.dbSNP131"
     ],
     "ArrayExpressHTS": [],
     "arrayMvout": [
@@ -1207,7 +1206,6 @@
     ],
     "car": [],
     "PolyPhen.Hsapiens.dbSNP131": [],
-    "SIFT.Hsapiens.dbSNP137": [],
     "mGSZ": [],
     "doBy": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [],
