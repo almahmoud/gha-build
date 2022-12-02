@@ -23641,7 +23641,6 @@
         "tidyselect",
         "rematch2"
     ],
-    "RUVcorr": [],
     "RUVSeq": [
         "EDASeq",
         "ShortRead",
