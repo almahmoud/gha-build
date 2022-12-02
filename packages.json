@@ -40459,7 +40459,6 @@
         "htmltools",
         "latticeExtra",
         "htmlTable",
-        "lhs",
         "RcppEigen",
         "formula.tools",
         "memoise",
@@ -62976,7 +62975,6 @@
         "biomaRt",
         "gridtext",
         "openssl",
-        "lhs",
         "knitr",
         "tinytex",
         "bit64",
@@ -82669,8 +82667,7 @@
         "pillar"
     ],
     "ppclust": [
-        "inaparc",
-        "lhs"
+        "inaparc"
     ],
     "MatrixCorrelation": [
         "progress",
@@ -82683,9 +82680,7 @@
         "lifecycle",
         "vctrs"
     ],
-    "inaparc": [
-        "lhs"
-    ],
+    "inaparc": [],
     "metR": [
         "formula.tools",
         "ggplot2",
@@ -82702,7 +82697,6 @@
         "Matrix",
         "pillar"
     ],
-    "lhs": [],
     "cvms": [
         "dplyr",
         "ggplot2",
