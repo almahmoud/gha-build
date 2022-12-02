@@ -320,9 +320,7 @@
         "VariantAnnotation",
         "ensembldb"
     ],
-    "BUMHMM": [
-        "devtools"
-    ],
+    "BUMHMM": [],
     "bumphunter": [
         "GenomicFeatures"
     ],
@@ -579,9 +577,7 @@
         "MIRA"
     ],
     "CODEX": [],
-    "cogena": [
-        "devtools"
-    ],
+    "cogena": [],
     "cogeqc": [
         "ggtree",
         "treeio"
@@ -1320,9 +1316,7 @@
         "car",
         "pbkrtest"
     ],
-    "GCSscore": [
-        "devtools"
-    ],
+    "GCSscore": [],
     "GDCRNATools": [
         "clusterProfiler",
         "DOSE",
@@ -1630,9 +1624,7 @@
         "ggraph"
     ],
     "ImmuneSpaceR": [],
-    "INDEED": [
-        "devtools"
-    ],
+    "INDEED": [],
     "infercnv": [
         "Seurat"
     ],
@@ -1998,7 +1990,6 @@
     ],
     "methylclock": [
         "methylclockData",
-        "devtools",
         "tidyverse",
         "ggpubr",
         "minfi",
@@ -2049,9 +2040,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "bumphunter"
     ],
-    "MetID": [
-        "devtools"
-    ],
+    "MetID": [],
     "mfa": [],
     "MGFR": [],
     "mia": [
@@ -2315,7 +2304,6 @@
         "clusterProfiler",
         "ReactomePA",
         "enrichplot",
-        "devtools",
         "DOSE",
         "ggraph",
         "ggtree",
@@ -2517,9 +2505,7 @@
         "lme4"
     ],
     "oposSOM": [],
-    "oppti": [
-        "devtools"
-    ],
+    "oppti": [],
     "ORFhunteR": [],
     "ORFik": [
         "GenomicFeatures"
@@ -2566,9 +2552,7 @@
         "ggraph",
         "DOSE"
     ],
-    "PathoStat": [
-        "devtools"
-    ],
+    "PathoStat": [],
     "pcaExplorer": [
         "GOstats"
     ],
@@ -2970,7 +2954,6 @@
         "RLHub"
     ],
     "Rmmquant": [
-        "devtools",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "GenomicFeatures"
     ],
@@ -3416,7 +3399,6 @@
     ],
     "SPsimSeq": [],
     "srnadiff": [
-        "devtools",
         "GenomicFeatures",
         "Gviz",
         "ensembldb",
@@ -3870,7 +3852,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "devtools": [],
     "drc": [
         "car",
         "pbkrtest",
@@ -4022,9 +4003,7 @@
         "lme4"
     ],
     "echarts4r": [],
-    "anyLib": [
-        "devtools"
-    ],
+    "anyLib": [],
     "blme": [
         "lme4"
     ],
