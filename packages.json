@@ -1321,7 +1321,6 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene"
     ],
     "Nebulosa": [],
-    "nempi": [],
     "netboxr": [
         "clusterProfiler",
         "enrichplot",
