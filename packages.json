@@ -35932,7 +35932,6 @@
         "doParallel",
         "selectr"
     ],
-    "rmelting": [],
     "Rmmquant": [
         "GenomicRanges",
         "SummarizedExperiment",
