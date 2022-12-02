@@ -578,7 +578,6 @@
         "GenomeInfoDb",
         "XVector",
         "survival",
-        "RcppZiggurat",
         "DelayedArray",
         "NADA"
     ],
@@ -744,7 +743,6 @@
         "doRNG",
         "hms",
         "RSpectra",
-        "RcppZiggurat",
         "httr",
         "selectr",
         "openssl",
@@ -3181,7 +3179,6 @@
         "Rcgmin",
         "htmlwidgets",
         "hms",
-        "RcppZiggurat",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -9474,7 +9471,6 @@
         "recipes",
         "XVector",
         "scales",
-        "RcppZiggurat",
         "scuttle",
         "DelayedMatrixStats",
         "beachmat",
@@ -10050,8 +10046,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "mgcv",
-        "RcppZiggurat"
+        "mgcv"
     ],
     "countsimQC": [
         "rmarkdown",
@@ -13200,7 +13195,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "RcppZiggurat",
         "scuttle",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -23878,7 +23872,6 @@
         "jquerylib",
         "hms",
         "vroom",
-        "RcppZiggurat",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -27344,7 +27337,6 @@
         "futile.logger",
         "XVector",
         "GenomeInfoDb",
-        "RcppZiggurat",
         "ade4",
         "segmented",
         "TSP",
@@ -27934,7 +27926,6 @@
         "hardhat",
         "ipred",
         "lubridate",
-        "RcppZiggurat",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -32627,7 +32618,6 @@
         "BiocSingular",
         "openssl",
         "tidyr",
-        "RcppZiggurat",
         "KEGGREST",
         "R.utils",
         "dbplyr",
@@ -32928,7 +32918,6 @@
         "GenomeInfoDb",
         "XVector",
         "survival",
-        "RcppZiggurat",
         "DelayedArray"
     ],
     "omicRexposome": [
@@ -33581,7 +33570,6 @@
         "pillar",
         "rrcov",
         "feature",
-        "RcppZiggurat",
         "htmlwidgets",
         "RcppEigen",
         "ks",
@@ -35011,7 +34999,6 @@
         "tidyr",
         "testthat",
         "survival",
-        "RcppZiggurat",
         "pillar",
         "tidyselect",
         "callr",
@@ -36890,7 +36877,6 @@
         "GenomicRanges",
         "rentrez",
         "rtracklayer",
-        "RcppZiggurat",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -51354,8 +51340,7 @@
     ],
     "VERSO": [
         "ape",
-        "Rfast",
-        "RcppZiggurat"
+        "Rfast"
     ],
     "vidger": [
         "DESeq2",
@@ -52305,7 +52290,6 @@
         "dplyr",
         "tidyselect",
         "hms",
-        "RcppZiggurat",
         "BiocParallel",
         "pbkrtest",
         "lmerTest",
@@ -52900,10 +52884,7 @@
         "NADA",
         "survival"
     ],
-    "Rfast": [
-        "RcppZiggurat"
-    ],
-    "RcppZiggurat": [],
+    "Rfast": [],
     "NADA": [
         "survival"
     ],
@@ -52940,7 +52921,6 @@
         "tibble",
         "vctrs",
         "doRNG",
-        "RcppZiggurat",
         "httr",
         "selectr",
         "openssl",
@@ -58851,8 +58831,7 @@
     ],
     "BWStest": [],
     "SmoothWin": [
-        "Rfast",
-        "RcppZiggurat"
+        "Rfast"
     ],
     "pingr": [],
     "osfr": [
