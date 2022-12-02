@@ -841,7 +841,6 @@
         "car",
         "pbkrtest"
     ],
-    "GCSscore": [],
     "GDCRNATools": [
         "clusterProfiler",
         "survminer",
