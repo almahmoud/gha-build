@@ -777,7 +777,6 @@
     "BiocSet": [
         "tidyr"
     ],
-    "BiocSklearn": [],
     "BiocWorkflowTools": [],
     "biodb": [
         "BiocFileCache",
