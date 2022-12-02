@@ -267,18 +267,15 @@
         "karyoploteR",
         "biovizBase"
     ],
-    "crisprDesign": [],
     "crisprseekplus": [
         "GUIDEseq"
     ],
     "crisprVerse": [
-        "crisprDesign",
         "crisprViz",
         "Gviz",
         "biovizBase"
     ],
     "crisprViz": [
-        "crisprDesign",
         "Gviz",
         "biovizBase"
     ],
