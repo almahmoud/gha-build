@@ -41533,7 +41533,6 @@
         "RcppEigen",
         "DelayedArray"
     ],
-    "RTCA": [],
     "RTCGA": [
         "rvest",
         "dplyr",
