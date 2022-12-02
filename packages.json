@@ -2156,7 +2156,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "BAGS": [],
     "ballgown": [
         "GenomicRanges",
         "sva",
