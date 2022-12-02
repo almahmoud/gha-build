@@ -90093,7 +90093,6 @@
         "diffobj",
         "rematch2"
     ],
-    "OSAT": [],
     "Oscope": [
         "EBSeq",
         "testthat",
