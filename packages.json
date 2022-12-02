@@ -461,7 +461,6 @@
         "babelgene",
         "org.Mm.eg.db",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
-        "NMF",
         "ggalluvial",
         "viridis",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -1332,9 +1331,7 @@
         "viridis"
     ],
     "CancerInSilico": [],
-    "CancerSubtypes": [
-        "NMF"
-    ],
+    "CancerSubtypes": [],
     "cardelino": [
         "ggtree",
         "VariantAnnotation",
@@ -1897,7 +1894,6 @@
         "GenomicAlignments"
     ],
     "chromswitch": [
-        "NMF",
         "rtracklayer",
         "tidyr",
         "GenomicAlignments"
@@ -2022,7 +2018,6 @@
         "vsn"
     ],
     "clusterExperiment": [
-        "NMF",
         "zinbwave",
         "phylobase",
         "mbkmeans",
@@ -2906,7 +2901,6 @@
         "scattermore"
     ],
     "debCAM": [
-        "NMF",
         "DMwR2",
         "readr"
     ],
@@ -5666,7 +5660,6 @@
         "dendextend",
         "egg",
         "genefilter",
-        "NMF",
         "biomaRt",
         "tidyr",
         "BiocFileCache",
@@ -7388,7 +7381,6 @@
     "miRNAtap": [],
     "miRSM": [
         "WGCNA",
-        "NMF",
         "biclust",
         "iBBiG",
         "BicARE",
@@ -8086,7 +8078,6 @@
         "waldo"
     ],
     "musicatk": [
-        "NMF",
         "VariantAnnotation",
         "tidyr",
         "BSgenome",
@@ -8126,7 +8117,6 @@
         "waldo"
     ],
     "MutationalPatterns": [
-        "NMF",
         "BSgenome",
         "VariantAnnotation",
         "tidyr",
@@ -8212,8 +8202,7 @@
         "ggthemes"
     ],
     "NanoStringQCPro": [
-        "org.Hs.eg.db",
-        "NMF"
+        "org.Hs.eg.db"
     ],
     "nanotatoR": [
         "testthat",
@@ -8350,7 +8339,6 @@
     "netSmooth": [
         "scater",
         "clusterExperiment",
-        "NMF",
         "zinbwave",
         "phylobase",
         "mbkmeans",
@@ -8555,7 +8543,6 @@
     "omada": [
         "diceR",
         "klaR",
-        "NMF",
         "tidyr",
         "yardstick",
         "questionr",
@@ -8940,7 +8927,6 @@
         "genefilter",
         "heatmaply",
         "plotly",
-        "NMF",
         "topGO",
         "GOstats",
         "GO.db",
@@ -9474,7 +9460,6 @@
     ],
     "projectR": [
         "CoGAPS",
-        "NMF",
         "ggalluvial",
         "viridis",
         "tidyr"
@@ -10152,7 +10137,6 @@
     ],
     "ReQON": [],
     "RESOLVE": [
-        "NMF",
         "BSgenome",
         "BSgenome.Hsapiens.1000genomes.hs37d5",
         "rtracklayer",
@@ -11463,7 +11447,6 @@
     ],
     "signeR": [
         "VariantAnnotation",
-        "NMF",
         "nloptr",
         "survivalAnalysis",
         "survminer",
@@ -11768,7 +11751,6 @@
     ],
     "SomaticSignatures": [
         "VariantAnnotation",
-        "NMF",
         "ggbio",
         "Hmisc",
         "biovizBase",
@@ -11809,7 +11791,6 @@
         "annotate"
     ],
     "SparseSignatures": [
-        "NMF",
         "BSgenome",
         "rtracklayer",
         "GenomicAlignments"
@@ -12037,9 +12018,7 @@
         "scuttle",
         "tidyr"
     ],
-    "SPOTlight": [
-        "NMF"
-    ],
+    "SPOTlight": [],
     "spqn": [
         "ggridges"
     ],
@@ -13339,7 +13318,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome",
         "viridis",
-        "NMF",
         "ggbio",
         "rtracklayer",
         "GenomicFeatures",
@@ -13661,7 +13639,6 @@
         "BiocFileCache",
         "GenomicAlignments"
     ],
-    "NMF": [],
     "ggalluvial": [
         "tidyr"
     ],
@@ -14550,7 +14527,6 @@
     ],
     "diceR": [
         "klaR",
-        "NMF",
         "tidyr",
         "yardstick",
         "questionr",
