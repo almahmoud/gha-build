@@ -62521,7 +62521,6 @@
         "lattice",
         "lambda.r"
     ],
-    "MBAmethyl": [],
     "MBASED": [
         "RUnit",
         "BiocGenerics",
