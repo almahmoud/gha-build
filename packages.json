@@ -13899,7 +13899,6 @@
         "mice",
         "metR",
         "car",
-        "sftime",
         "stars",
         "broom",
         "fields",
@@ -16732,14 +16731,12 @@
         "tidyr"
     ],
     "gstat": [
-        "sftime",
         "stars"
     ],
     "SpatialExtremes": [
         "fields",
         "viridis"
     ],
-    "sftime": [],
     "stars": [],
     "spsComps": [
         "shinytoastr"
