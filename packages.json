@@ -531,7 +531,6 @@
         "caret",
         "plotly",
         "ggplot2",
-        "rentrez",
         "covr",
         "vegan",
         "dplyr",
@@ -824,7 +823,6 @@
         "MafDb.ExAC.r1.0.hs37d5",
         "MafDb.gnomADex.r2.1.hs37d5",
         "COSMIC.67",
-        "rentrez",
         "PolyPhen.Hsapiens.dbSNP131",
         "SIFT.Hsapiens.dbSNP137",
         "seqinr",
@@ -12580,7 +12578,6 @@
         "shinydashboard",
         "shinyBS",
         "DT",
-        "rentrez",
         "rintrojs",
         "ggrepel",
         "rmarkdown",
@@ -18059,7 +18056,6 @@
         "blob"
     ],
     "nanotatoR": [
-        "rentrez",
         "testthat",
         "AnnotationDbi",
         "GenomicRanges",
@@ -19544,7 +19540,6 @@
         "tidyr",
         "dplyr",
         "tibble",
-        "rentrez",
         "tidyselect"
     ],
     "pareg": [
@@ -19603,7 +19598,6 @@
     ],
     "PathoStat": [
         "ggplot2",
-        "rentrez",
         "DT",
         "tidyr",
         "dplyr",
@@ -21108,7 +21102,6 @@
         "derfinder",
         "GEOquery",
         "GenomicRanges",
-        "rentrez",
         "rtracklayer",
         "blob",
         "bumphunter",
@@ -21994,7 +21987,6 @@
         "derfinder",
         "GEOquery",
         "GenomicRanges",
-        "rentrez",
         "rtracklayer",
         "AnnotationDbi",
         "bumphunter",
@@ -22988,7 +22980,6 @@
         "derfinder",
         "GEOquery",
         "GenomicRanges",
-        "rentrez",
         "rtracklayer",
         "bumphunter",
         "GenomicAlignments",
@@ -23291,7 +23282,6 @@
         "derfinder",
         "GEOquery",
         "GenomicRanges",
-        "rentrez",
         "rtracklayer",
         "RSQLite",
         "dbplyr",
@@ -30163,7 +30153,6 @@
         "prodlim",
         "lava"
     ],
-    "rentrez": [],
     "covr": [],
     "plotROC": [
         "ggplot2",
