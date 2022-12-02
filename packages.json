@@ -8313,7 +8313,6 @@
         "SummarizedExperiment"
     ],
     "epivizr": [
-        "epivizrServer",
         "epivizrData",
         "GenomicRanges",
         "bumphunter",
@@ -8339,7 +8338,6 @@
     ],
     "epivizrChart": [
         "epivizrData",
-        "epivizrServer",
         "GenomicRanges",
         "SummarizedExperiment",
         "OrganismDbi",
@@ -8362,7 +8360,6 @@
         "tidyselect"
     ],
     "epivizrData": [
-        "epivizrServer",
         "GenomicRanges",
         "SummarizedExperiment",
         "OrganismDbi",
@@ -8384,10 +8381,8 @@
         "tibble",
         "tidyselect"
     ],
-    "epivizrServer": [],
     "epivizrStandalone": [
         "epivizr",
-        "epivizrServer",
         "GenomicFeatures",
         "epivizrData",
         "GenomicRanges",
@@ -14546,7 +14541,6 @@
         "metagenomeSeq",
         "epivizr",
         "epivizrData",
-        "epivizrServer",
         "epivizrStandalone",
         "vegan",
         "phyloseq",
@@ -23707,7 +23701,6 @@
         "clustree",
         "scran",
         "epivizrData",
-        "epivizrServer",
         "ggraph",
         "scater",
         "Seurat",
