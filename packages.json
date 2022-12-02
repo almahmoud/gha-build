@@ -439,7 +439,6 @@
     ],
     "bnem": [
         "epiNEM",
-        "mnem",
         "sva"
     ],
     "BOBaFIT": [
@@ -1188,7 +1187,6 @@
         "tidyverse",
         "ggraph",
         "epiNEM",
-        "mnem",
         "modelr"
     ],
     "ddPCRclust": [
@@ -1612,9 +1610,7 @@
         "GEOquery",
         "VariantAnnotation"
     ],
-    "epiNEM": [
-        "mnem"
-    ],
+    "epiNEM": [],
     "epistasisGA": [],
     "EpiTxDb": [
         "GenomicFeatures",
@@ -3141,7 +3137,6 @@
         "pbkrtest",
         "nloptr"
     ],
-    "mnem": [],
     "moanin": [],
     "MobilityTransformR": [
         "xcms"
@@ -3427,7 +3422,6 @@
         "Seurat"
     ],
     "nempi": [
-        "mnem",
         "epiNEM"
     ],
     "NetActivity": [
