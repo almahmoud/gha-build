@@ -29631,7 +29631,6 @@
         "e1071",
         "epiR",
         "dplyr",
-        "dtangle",
         "ggplot2",
         "ggplotify",
         "limSolve",
@@ -84343,7 +84342,6 @@
         "cachem",
         "memoise"
     ],
-    "dtangle": [],
     "sf": [
         "classInt",
         "s2",
