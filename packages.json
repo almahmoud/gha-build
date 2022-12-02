@@ -1911,9 +1911,7 @@
     "RITAN": [
         "EnsDb.Hsapiens.v86"
     ],
-    "RLSeq": [
-        "RLHub"
-    ],
+    "RLSeq": [],
     "Rmmquant": [],
     "RNAAgeCalc": [
         "recount",
@@ -2631,7 +2629,6 @@
     "EnsDb.Mmusculus.v79": [],
     "EnsDb.Rnorvegicus.v79": [],
     "phastCons100way.UCSC.hg19": [],
-    "RLHub": [],
     "Rmagic": [],
     "survivalAnalysis": [
         "survminer",
