@@ -21004,7 +21004,6 @@
         "RSQLite"
     ],
     "sparseDOSSA": [],
-    "sparsenetgls": [],
     "SparseSignatures": [
         "NMF",
         "BSgenome",
