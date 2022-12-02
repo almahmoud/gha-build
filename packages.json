@@ -4206,7 +4206,6 @@
         "biomaRt",
         "readr"
     ],
-    "miRNAtap": [],
     "miRSM": [
         "WGCNA",
         "biclust",
@@ -6817,7 +6816,6 @@
         "testthat"
     ],
     "SpidermiR": [
-        "miRNAtap",
         "miRNAtap.db"
     ],
     "spikeLI": [],
@@ -6934,7 +6932,6 @@
     ],
     "StarBioTrek": [
         "SpidermiR",
-        "miRNAtap",
         "miRNAtap.db"
     ],
     "Statial": [
@@ -8451,9 +8448,7 @@
     ],
     "sampSurf": [],
     "xROI": [],
-    "miRNAtap.db": [
-        "miRNAtap"
-    ],
+    "miRNAtap.db": [],
     "MESS": [
         "geepack",
         "ggformula",
