@@ -383,7 +383,6 @@
         "rstatix",
         "pbkrtest"
     ],
-    "cytomapper": [],
     "dagLogo": [],
     "DAMEfinder": [],
     "DaMiRseq": [
@@ -852,9 +851,7 @@
     "IMAS": [
         "IVAS"
     ],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "infercnv": [],
     "InPAS": [],
     "INSPEcT": [],
@@ -1768,9 +1765,7 @@
         "pbkrtest"
     ],
     "SigsPack": [],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "singleCellTK": [
         "ggtree",
         "scMerge",
