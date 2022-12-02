@@ -15352,7 +15352,6 @@
         "Rsamtools",
         "GenomicAlignments"
     ],
-    "normalize450K": [],
     "NormalyzerDE": [
         "vsn",
         "car",
