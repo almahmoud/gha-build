@@ -996,7 +996,6 @@
         "BiocGenerics",
         "AnnotationDbi",
         "BiocManager",
-        "R2HTML",
         "Biobase",
         "preprocessCore",
         "zlibbioc",
@@ -3803,7 +3802,6 @@
         "GenomicRanges",
         "Hmisc",
         "IRanges",
-        "R2HTML",
         "RColorBrewer",
         "ShortRead",
         "XML",
@@ -32851,7 +32849,6 @@
     ],
     "DMRforPairs": [
         "Gviz",
-        "R2HTML",
         "GenomicRanges",
         "BiocGenerics",
         "S4Vectors",
@@ -35055,7 +35052,6 @@
         "DelayedMatrixStats",
         "HDF5Array",
         "BiocSingular",
-        "R2HTML",
         "yaml",
         "lattice",
         "Rdpack",
@@ -58935,7 +58931,6 @@
         "corpcor"
     ],
     "limmaGUI": [
-        "R2HTML",
         "tkrplot"
     ],
     "LineagePulse": [
@@ -61712,7 +61707,6 @@
         "Matrix",
         "MASS",
         "ade4",
-        "R2HTML",
         "class",
         "magrittr",
         "rlang",
@@ -62580,7 +62574,6 @@
         "MASS",
         "ade4",
         "e1071",
-        "R2HTML",
         "foreach",
         "iterators",
         "magrittr",
@@ -78688,7 +78681,6 @@
         "foreach",
         "survival",
         "GO.db",
-        "R2HTML",
         "BiocGenerics",
         "Biobase",
         "IRanges",
@@ -92861,7 +92853,6 @@
         "VariantAnnotation",
         "Biostrings",
         "Biobase",
-        "R2HTML",
         "BiocGenerics",
         "S4Vectors",
         "IRanges",
@@ -130127,7 +130118,6 @@
     "rjson": [],
     "deldir": [],
     "tkrplot": [],
-    "R2HTML": [],
     "e1071": [
         "class",
         "MASS"
@@ -141297,9 +141287,7 @@
         "RColorBrewer",
         "Rcpp"
     ],
-    "HTMLUtils": [
-        "R2HTML"
-    ],
+    "HTMLUtils": [],
     "ELMER.data": [
         "GenomicRanges",
         "BiocGenerics",
@@ -144381,7 +144369,6 @@
         "MASS",
         "ade4",
         "e1071",
-        "R2HTML",
         "sp",
         "class",
         "lattice"
