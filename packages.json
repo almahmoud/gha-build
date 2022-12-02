@@ -1356,7 +1356,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "CompoundDb": [],
     "ComPrAn": [
         "rio",
         "haven",
@@ -4100,7 +4099,6 @@
     ],
     "MetaboAnnotation": [
         "QFeatures",
-        "CompoundDb",
         "MultiAssayExperiment",
         "plotly"
     ],
