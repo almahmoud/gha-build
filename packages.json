@@ -30748,7 +30748,6 @@
         "tkWidgets",
         "class",
         "proxy",
-        "widgetTools",
         "DynDoc",
         "MASS"
     ],
@@ -77468,7 +77467,6 @@
         "BiocGenerics",
         "class",
         "proxy",
-        "widgetTools",
         "DynDoc",
         "MASS"
     ],
@@ -92194,7 +92192,6 @@
         "OLIN",
         "marray",
         "tkWidgets",
-        "widgetTools",
         "limma",
         "locfit",
         "DynDoc",
@@ -137953,7 +137950,6 @@
         "fastmap",
         "bslib",
         "cachem",
-        "widgetTools",
         "DynDoc",
         "ggfun",
         "ggplotify",
@@ -138280,7 +138276,6 @@
         "sys"
     ],
     "tkWidgets": [
-        "widgetTools",
         "DynDoc"
     ],
     "tLOH": [
@@ -145398,7 +145393,6 @@
         "stringi",
         "zlibbioc"
     ],
-    "widgetTools": [],
     "wiggleplotr": [
         "dplyr",
         "ggplot2",
