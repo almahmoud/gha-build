@@ -37516,7 +37516,6 @@
         "iBBiG",
         "fabia",
         "BicARE",
-        "isa2",
         "s4vd",
         "BiBitR",
         "rqubic",
@@ -38776,7 +38775,6 @@
         "igraph",
         "fabia",
         "biclust",
-        "isa2",
         "QUBIC",
         "flexclust",
         "tidyr",
@@ -76816,7 +76814,6 @@
         "igraph",
         "Matrix"
     ],
-    "isa2": [],
     "s4vd": [
         "biclust",
         "irlba",
