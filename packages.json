@@ -467,7 +467,6 @@
     ],
     "ggbio": [],
     "ggmsa": [],
-    "ggtreeDendro": [],
     "glmSparseNet": [
         "survminer",
         "ggpubr",
