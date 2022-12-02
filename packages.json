@@ -29190,7 +29190,6 @@
     "IRanges": [],
     "IRISFGM": [
         "MCL",
-        "Polychrome",
         "AnnotationDbi",
         "ggplot2",
         "org.Hs.eg.db",
@@ -73047,7 +73046,6 @@
         "htmlwidgets"
     ],
     "rsm": [],
-    "Polychrome": [],
     "AdaptGauss": [
         "shiny",
         "DataVisualizations",
