@@ -6999,7 +6999,6 @@
         "GenomeInfoDb",
         "openssl"
     ],
-    "CellMapper": [],
     "cellmigRation": [
         "reshape2",
         "doParallel",
