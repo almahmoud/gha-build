@@ -207,12 +207,9 @@
     "Basic4Cseq": [
         "BSgenome.Ecoli.NCBI.20080805"
     ],
-    "BASiCS": [
-        "ggExtra"
-    ],
+    "BASiCS": [],
     "BASiCStan": [
-        "BASiCS",
-        "ggExtra"
+        "BASiCS"
     ],
     "BatchQC": [
         "sva",
@@ -1117,7 +1114,6 @@
         "Seurat"
     ],
     "DiscoRhythm": [
-        "ggExtra",
         "heatmaply"
     ],
     "distinct": [
@@ -1904,7 +1900,6 @@
     ],
     "HiCDOC": [
         "ggpubr",
-        "ggExtra",
         "multiHiCcompare",
         "rstatix",
         "car",
@@ -2769,12 +2764,9 @@
         "lmerTest",
         "nloptr"
     ],
-    "MSstatsQC": [
-        "ggExtra"
-    ],
+    "MSstatsQC": [],
     "MSstatsQCgui": [
-        "MSstatsQC",
-        "ggExtra"
+        "MSstatsQC"
     ],
     "MSstatsSampleSize": [
         "MSstats",
@@ -4759,7 +4751,6 @@
     ],
     "pRolocdata": [],
     "BSgenome.Ecoli.NCBI.20080805": [],
-    "ggExtra": [],
     "heatmaply": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
