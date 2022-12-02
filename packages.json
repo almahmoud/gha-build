@@ -1292,8 +1292,7 @@
     ],
     "MAIT": [
         "agricolae",
-        "klaR",
-        "questionr"
+        "klaR"
     ],
     "maser": [
         "Gviz",
@@ -1760,8 +1759,7 @@
     ],
     "omada": [
         "diceR",
-        "klaR",
-        "questionr"
+        "klaR"
     ],
     "omicRexposome": [
         "rexposome",
@@ -2847,13 +2845,9 @@
     ],
     "depmap": [],
     "agricolae": [
-        "klaR",
-        "questionr"
+        "klaR"
     ],
-    "klaR": [
-        "questionr"
-    ],
-    "questionr": [],
+    "klaR": [],
     "EnsDb.Hsapiens.v75": [],
     "sesameData": [],
     "FlowSorted.Blood.450k": [
@@ -2879,8 +2873,7 @@
     ],
     "NxtIRFdata": [],
     "diceR": [
-        "klaR",
-        "questionr"
+        "klaR"
     ],
     "AICcmodavg": [
         "unmarked",
