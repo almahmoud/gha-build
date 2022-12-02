@@ -41871,7 +41871,6 @@
         "BiocParallel",
         "matrixStats",
         "ggplot2",
-        "CDFt",
         "preprocessCore",
         "futile.logger",
         "snow",
@@ -166917,7 +166916,6 @@
     ],
     "TCGAbiolinksGUI.data": [],
     "emdist": [],
-    "CDFt": [],
     "JASPAR2018": [],
     "heatmap3": [
         "fastcluster"
