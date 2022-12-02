@@ -722,9 +722,7 @@
         "treeio",
         "nloptr"
     ],
-    "condiments": [
-        "Ecume"
-    ],
+    "condiments": [],
     "CONFESS": [],
     "consensusDE": [
         "EDASeq",
@@ -4536,7 +4534,6 @@
         "lme4",
         "nloptr"
     ],
-    "Ecume": [],
     "EnsDb.Hsapiens.v86": [
         "ensembldb",
         "GenomicFeatures"
