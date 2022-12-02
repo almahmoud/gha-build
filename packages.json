@@ -11154,7 +11154,6 @@
         "DelayedArray"
     ],
     "FamAgg": [
-        "kinship2",
         "gap",
         "survey",
         "dplyr",
@@ -28528,7 +28527,6 @@
         "GENLIB",
         "gRain",
         "snpStats",
-        "kinship2",
         "broom",
         "dplyr",
         "tibble",
@@ -32295,7 +32293,6 @@
         "ggplot2",
         "ggformula",
         "glmnet",
-        "kinship2",
         "GenomicRanges",
         "DelayedArray",
         "broom",
@@ -38887,7 +38884,6 @@
         "tibble",
         "pillar"
     ],
-    "kinship2": [],
     "gap": [
         "dplyr",
         "ggplot2",
@@ -40415,9 +40411,7 @@
         "bslib",
         "pillar"
     ],
-    "GENLIB": [
-        "kinship2"
-    ],
+    "GENLIB": [],
     "excelR": [],
     "SBGNview.data": [
         "rmarkdown",
@@ -40762,7 +40756,6 @@
         "ggplot2",
         "ggformula",
         "glmnet",
-        "kinship2",
         "broom",
         "ggstance",
         "ggridges",
