@@ -464,7 +464,6 @@
         "VariantAnnotation",
         "viridis"
     ],
-    "AssessORF": [],
     "ASSIGN": [
         "sva",
         "genefilter",
