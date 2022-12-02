@@ -59,9 +59,7 @@
         "Homo.sapiens",
         "Mus.musculus"
     ],
-    "ATACseqQC": [
-        "ChIPpeakAnno"
-    ],
+    "ATACseqQC": [],
     "ATACseqTFEA": [],
     "atSNP": [],
     "BaalChIP": [
@@ -215,7 +213,6 @@
     "ChIPexoQual": [
         "biovizBase"
     ],
-    "ChIPpeakAnno": [],
     "ChIPQC": [],
     "ChIPseeker": [
         "enrichplot"
@@ -296,8 +293,7 @@
     ],
     "crisprDesign": [],
     "crisprseekplus": [
-        "GUIDEseq",
-        "ChIPpeakAnno"
+        "GUIDEseq"
     ],
     "crisprVerse": [
         "crisprDesign",
@@ -388,9 +384,7 @@
         "GenomicFiles",
         "biovizBase"
     ],
-    "DEScan2": [
-        "ChIPpeakAnno"
-    ],
+    "DEScan2": [],
     "destiny": [
         "VIM",
         "car",
@@ -700,9 +694,7 @@
     "GSReg": [
         "Homo.sapiens"
     ],
-    "GUIDEseq": [
-        "ChIPpeakAnno"
-    ],
+    "GUIDEseq": [],
     "Gviz": [
         "biovizBase"
     ],
@@ -1150,7 +1142,6 @@
     "NADfinder": [
         "trackViewer",
         "ATACseqQC",
-        "ChIPpeakAnno",
         "Gviz",
         "biovizBase"
     ],
@@ -1382,9 +1373,7 @@
         "minfi",
         "IlluminaHumanMethylation450kmanifest"
     ],
-    "REDseq": [
-        "ChIPpeakAnno"
-    ],
+    "REDseq": [],
     "regioneReloaded": [],
     "regionReport": [
         "derfinder",
@@ -1797,9 +1786,7 @@
     "vtpnet": [
         "gwascat"
     ],
-    "vulcan": [
-        "ChIPpeakAnno"
-    ],
+    "vulcan": [],
     "waddR": [
         "arm"
     ],
