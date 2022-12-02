@@ -470,12 +470,10 @@
     ],
     "BioNAR": [
         "synaptome.db",
-        "WGCNA",
         "synaptome.data",
         "AnnotationHub"
     ],
     "BioNERO": [
-        "WGCNA",
         "sva"
     ],
     "BioNetStat": [],
@@ -637,7 +635,6 @@
     "cageminer": [
         "ggbio",
         "BioNERO",
-        "WGCNA",
         "sva",
         "biovizBase",
         "BSgenome",
@@ -746,7 +743,6 @@
         "topGO"
     ],
     "CEMiTool": [
-        "WGCNA",
         "clusterProfiler",
         "DOSE",
         "enrichplot",
@@ -1294,9 +1290,7 @@
         "GEOquery",
         "sva"
     ],
-    "csdR": [
-        "WGCNA"
-    ],
+    "csdR": [],
     "CSSQ": [
         "GenomicFeatures",
         "biomaRt"
@@ -1570,9 +1564,7 @@
         "GreyListChIP",
         "BSgenome"
     ],
-    "diffcoexp": [
-        "WGCNA"
-    ],
+    "diffcoexp": [],
     "diffcyt": [
         "FlowSOM",
         "lme4",
@@ -1877,7 +1869,6 @@
     ],
     "epihet": [
         "EntropyExplorer",
-        "WGCNA",
         "ReactomePA",
         "DOSE",
         "enrichplot",
@@ -2078,7 +2069,6 @@
     ],
     "fastLiquidAssociation": [
         "LiquidAssociation",
-        "WGCNA",
         "geepack"
     ],
     "FastqCleaner": [],
@@ -2526,8 +2516,7 @@
     "GmicR": [
         "Category",
         "gRain",
-        "GOstats",
-        "WGCNA"
+        "GOstats"
     ],
     "gmoviz": [
         "GenomicFeatures",
@@ -2655,7 +2644,6 @@
         "mice"
     ],
     "GWENA": [
-        "WGCNA",
         "gprofiler2",
         "plotly"
     ],
@@ -3105,7 +3093,6 @@
         "nloptr"
     ],
     "Macarron": [
-        "WGCNA",
         "Maaslin2",
         "car",
         "lmerTest",
@@ -3192,9 +3179,7 @@
         "sva",
         "nloptr"
     ],
-    "mbOmic": [
-        "WGCNA"
-    ],
+    "mbOmic": [],
     "mBPCR": [
         "GWASTools",
         "logistf",
@@ -3202,8 +3187,7 @@
     ],
     "MBQN": [],
     "MCbiclust": [
-        "GGally",
-        "WGCNA"
+        "GGally"
     ],
     "mCSEA": [
         "Homo.sapiens",
@@ -3606,7 +3590,6 @@
         "biomaRt"
     ],
     "miRSM": [
-        "WGCNA",
         "iBBiG",
         "BicARE",
         "s4vd",
@@ -3717,9 +3700,7 @@
     "MobilityTransformR": [
         "xcms"
     ],
-    "MODA": [
-        "WGCNA"
-    ],
+    "MODA": [],
     "mogsa": [],
     "MOMA": [
         "MultiAssayExperiment"
@@ -4057,9 +4038,7 @@
     "NetActivity": [
         "DESeq2"
     ],
-    "netboost": [
-        "WGCNA"
-    ],
+    "netboost": [],
     "netboxr": [
         "clusterProfiler",
         "DOSE",
@@ -4081,7 +4060,6 @@
         "supraHex"
     ],
     "NetSAM": [
-        "WGCNA",
         "biomaRt"
     ],
     "netSmooth": [
@@ -4465,7 +4443,6 @@
     ],
     "piano": [],
     "Pigengene": [
-        "WGCNA",
         "clusterProfiler",
         "ReactomePA",
         "DOSE",
@@ -4579,7 +4556,6 @@
     "proBatch": [
         "pvca",
         "sva",
-        "WGCNA",
         "lme4",
         "nloptr"
     ],
@@ -4900,7 +4876,6 @@
     "RegEnrich": [
         "DOSE",
         "DESeq2",
-        "WGCNA",
         "GOSemSim"
     ],
     "regioneR": [
@@ -5506,7 +5481,6 @@
         "biomaRt"
     ],
     "seq2pathway": [
-        "WGCNA",
         "biomaRt"
     ],
     "seqCAT": [
@@ -5779,7 +5753,6 @@
         "DropletUtils"
     ],
     "spatialHeatmap": [
-        "WGCNA",
         "plotly",
         "scater",
         "scran"
@@ -5865,9 +5838,7 @@
         "plotly",
         "DropletUtils"
     ],
-    "SPsimSeq": [
-        "WGCNA"
-    ],
+    "SPsimSeq": [],
     "SRAdb": [
         "GEOquery"
     ],
@@ -6153,9 +6124,7 @@
         "tidygraph",
         "treeio"
     ],
-    "TIN": [
-        "WGCNA"
-    ],
+    "TIN": [],
     "TissueEnrich": [],
     "TitanCNA": [
         "VariantAnnotation",
@@ -6260,8 +6229,7 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Mmusculus.UCSC.mm10",
         "SNPlocs.Hsapiens.dbSNP150.GRCh38",
-        "biomaRt",
-        "WGCNA"
+        "biomaRt"
     ],
     "TRESS": [
         "GenomicFeatures",
@@ -6697,7 +6665,6 @@
         "synaptome.data",
         "AnnotationHub"
     ],
-    "WGCNA": [],
     "synaptome.data": [
         "AnnotationHub"
     ],
