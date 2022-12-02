@@ -527,7 +527,6 @@
         "RSpectra"
     ],
     "altcdfenvs": [
-        "makecdfenv",
         "Biostrings",
         "XVector"
     ],
@@ -15006,7 +15005,6 @@
     "Harman": [],
     "Harshlight": [
         "altcdfenvs",
-        "makecdfenv",
         "Biostrings",
         "XVector"
     ],
@@ -17964,7 +17962,6 @@
         "vroom",
         "progress"
     ],
-    "makecdfenv": [],
     "mAPKL": [
         "multtest",
         "clusterSim",
