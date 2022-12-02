@@ -83,7 +83,6 @@
         "aCGH",
         "snapCGH",
         "multtest",
-        "strucchange",
         "vsn",
         "genefilter",
         "AnnotationDbi",
@@ -7789,7 +7788,6 @@
         "cowplot",
         "factoextra",
         "mbest",
-        "strucchange",
         "ggrepel",
         "caret",
         "FlowSOM",
@@ -7835,7 +7833,6 @@
         "factoextra",
         "ggplot2",
         "mbest",
-        "strucchange",
         "tibble",
         "ggrepel",
         "tidyr",
@@ -32136,7 +32133,6 @@
         "aCGH",
         "tilingArray",
         "multtest",
-        "strucchange",
         "vsn",
         "genefilter",
         "AnnotationDbi",
@@ -34721,7 +34717,6 @@
         "tiledb"
     ],
     "tilingArray": [
-        "strucchange",
         "vsn",
         "genefilter",
         "AnnotationDbi",
@@ -37078,7 +37073,6 @@
     "tidyselect": [],
     "pillar": [],
     "future.apply": [],
-    "strucchange": [],
     "DT": [],
     "ggrepel": [
         "ggplot2",
