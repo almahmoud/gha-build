@@ -2515,7 +2515,6 @@
         "GenomicAlignments",
         "ShortRead"
     ],
-    "coRdon": [],
     "CoreGx": [
         "MultiAssayExperiment",
         "piano",
