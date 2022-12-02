@@ -418,11 +418,8 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
     ],
-    "epivizr": [],
     "epivizrChart": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "erma": [
         "Homo.sapiens",
         "GenomicFiles"
@@ -780,7 +777,6 @@
         "enrichplot"
     ],
     "metavizr": [
-        "epivizr",
         "epivizrStandalone"
     ],
     "MethReg": [
@@ -1283,9 +1279,7 @@
         "enrichplot"
     ],
     "scTGIF": [],
-    "scTreeViz": [
-        "epivizr"
-    ],
+    "scTreeViz": [],
     "segmenter": [
         "ChIPseeker",
         "enrichplot"
