@@ -1782,7 +1782,6 @@
         "lme4",
         "nloptr"
     ],
-    "GlobalAncova": [],
     "gmapR": [
         "GenomicFeatures",
         "VariantAnnotation"
