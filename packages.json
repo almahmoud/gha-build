@@ -438,7 +438,6 @@
     "qmtools": [
         "VIM"
     ],
-    "QuasR": [],
     "R3CPET": [],
     "recount": [],
     "recountmethylation": [],
@@ -511,9 +510,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "SingleMoleculeFootprinting": [
-        "QuasR"
-    ],
+    "SingleMoleculeFootprinting": [],
     "skewr": [
         "wateRmelon",
         "lumi"
