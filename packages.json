@@ -6321,7 +6321,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "ggbeeswarm",
-        "svgPanZoom",
         "shiny",
         "shinydashboard",
         "tibble",
@@ -12743,7 +12742,6 @@
         "concaveman",
         "tidyselect",
         "ggbeeswarm",
-        "svgPanZoom",
         "shiny",
         "shinydashboard",
         "tibble",
@@ -25536,7 +25534,6 @@
         "viridis",
         "ggplot2",
         "ggbeeswarm",
-        "svgPanZoom",
         "shiny",
         "shinydashboard",
         "GenomicRanges",
@@ -31865,7 +31862,6 @@
         "rematch2",
         "tibble"
     ],
-    "svgPanZoom": [],
     "httpcache": [],
     "plsVarSel": [
         "progress",
