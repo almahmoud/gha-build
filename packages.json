@@ -3570,7 +3570,6 @@
         "lme4",
         "nloptr"
     ],
-    "OmnipathR": [],
     "OncoScore": [
         "biomaRt"
     ],
@@ -5461,9 +5460,7 @@
     ],
     "webbioc": [],
     "wiggleplotr": [],
-    "wppi": [
-        "OmnipathR"
-    ],
+    "wppi": [],
     "xcms": [],
     "xcore": [],
     "XDE": [],
