@@ -675,9 +675,7 @@
         "enrichplot",
         "ggtree"
     ],
-    "EpiMix": [
-        "EpiMix.data"
-    ],
+    "EpiMix": [],
     "epimutacions": [
         "minfi",
         "Homo.sapiens",
@@ -2629,7 +2627,6 @@
     ],
     "JASPAR2018": [],
     "EntropyExplorer": [],
-    "EpiMix.data": [],
     "SPARQL": [],
     "NHPoisson": [
         "car",
