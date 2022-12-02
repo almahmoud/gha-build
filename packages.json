@@ -4011,10 +4011,7 @@
     "ontoProc": [
         "AnnotationHub"
     ],
-    "openPrimeR": [],
-    "openPrimeRui": [
-        "openPrimeR"
-    ],
+    "openPrimeRui": [],
     "OpenStats": [
         "AICcmodavg",
         "car",
