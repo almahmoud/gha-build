@@ -102280,7 +102280,6 @@
         "graph",
         "Rgraphviz",
         "RColorBrewer",
-        "cMAP",
         "AnnotationDbi",
         "BiocGenerics",
         "Biobase",
@@ -178393,7 +178392,6 @@
     "matrixLaplacian": [
         "scatterplot3d"
     ],
-    "cMAP": [],
     "EMT": [],
     "Matching": [
         "MASS"
