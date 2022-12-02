@@ -929,7 +929,6 @@
         "fgsea",
         "broom",
         "car",
-        "shinyAce",
         "readxl",
         "plotly",
         "patchwork",
@@ -5339,7 +5338,6 @@
         "ggrepel",
         "GO.db",
         "plotly",
-        "shinyAce",
         "shinyWidgets",
         "tidyr",
         "tippy",
@@ -6345,7 +6343,6 @@
         "GOstats",
         "GO.db",
         "ggrepel",
-        "shinyAce",
         "geneplotter",
         "geneLenDataBase",
         "Category",
@@ -6696,7 +6693,6 @@
     ],
     "iSEE": [
         "SingleCellExperiment",
-        "shinyAce",
         "shinyjs",
         "ggrepel",
         "colourpicker",
@@ -6705,7 +6701,6 @@
     "iSEEhex": [
         "iSEE",
         "SingleCellExperiment",
-        "shinyAce",
         "shinyjs",
         "ggrepel",
         "colourpicker",
@@ -6718,7 +6713,6 @@
         "iSEE",
         "shinyjs",
         "BiocFileCache",
-        "shinyAce",
         "ggrepel",
         "colourpicker",
         "shinyWidgets",
@@ -6729,7 +6723,6 @@
         "iSEEhex",
         "SingleCellExperiment",
         "colourpicker",
-        "shinyAce",
         "shinyjs",
         "ggrepel",
         "shinyWidgets"
@@ -10062,7 +10055,6 @@
         "GOstats",
         "GO.db",
         "ggrepel",
-        "shinyAce",
         "biomaRt",
         "tidyr",
         "BiocFileCache",
@@ -10724,7 +10716,6 @@
     "Prostar": [
         "DAPAR",
         "DAPARdata",
-        "shinyAce",
         "highcharter",
         "shinythemes",
         "shinyjs",
@@ -13956,7 +13947,6 @@
         "spsComps",
         "drawer",
         "plotly",
-        "shinyAce",
         "shinyWidgets",
         "shinydashboardPlus",
         "shinyjs",
@@ -15535,7 +15525,6 @@
         "tidyr",
         "broom",
         "car",
-        "shinyAce",
         "readr",
         "readxl",
         "plotly",
@@ -15559,7 +15548,6 @@
         "tidyr"
     ],
     "HDO.db": [],
-    "shinyAce": [],
     "ggraph": [
         "ggforce",
         "ggrepel",
@@ -16754,8 +16742,7 @@
     "sftime": [],
     "stars": [],
     "spsComps": [
-        "shinytoastr",
-        "shinyAce"
+        "shinytoastr"
     ],
     "drawer": [],
     "GenKern": [],
