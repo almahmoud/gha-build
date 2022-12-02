@@ -35015,7 +35015,6 @@
     ],
     "EBSEA": [
         "DESeq2",
-        "EmpiricalBrownsMethod",
         "S4Vectors",
         "IRanges",
         "GenomicRanges",
@@ -35937,7 +35936,6 @@
         "pillar",
         "lattice"
     ],
-    "EmpiricalBrownsMethod": [],
     "EnhancedVolcano": [
         "ggplot2",
         "ggrepel",
@@ -77933,7 +77931,6 @@
         "trackViewer",
         "Rsamtools",
         "metap",
-        "EmpiricalBrownsMethod",
         "ATACseqQC",
         "corrplot",
         "csaw",
