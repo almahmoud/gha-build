@@ -11323,7 +11323,6 @@
         "tidyselect",
         "Biostrings"
     ],
-    "GSgalgoR": [],
     "GSReg": [
         "Homo.sapiens",
         "org.Hs.eg.db",
