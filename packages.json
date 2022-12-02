@@ -5952,7 +5952,6 @@
         "plotly"
     ],
     "SCANVIS": [],
-    "SCArray": [],
     "SCATE": [
         "SCATEData",
         "ExperimentHub",
