@@ -1379,7 +1379,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "GEOmetadb": [],
     "GeomxTools": [
         "lmerTest",
         "lme4"
