@@ -42019,7 +42019,6 @@
         "pillar",
         "iterators"
     ],
-    "iSeq": [],
     "ISLET": [
         "Matrix",
         "BiocParallel",
