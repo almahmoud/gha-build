@@ -643,7 +643,6 @@
     "lumi": [
         "methylumi"
     ],
-    "LymphoSeq": [],
     "Maaslin2": [
         "car",
         "pbkrtest"
