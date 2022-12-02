@@ -1426,7 +1426,6 @@
         "textclean",
         "lexicon"
     ],
-    "FoldGO": [],
     "FRASER": [
         "GenomicFeatures",
         "OUTRIDER",
