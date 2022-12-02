@@ -5380,7 +5380,6 @@
     "ASSIGN": [
         "gplots",
         "msm",
-        "Rlab",
         "sva",
         "ggplot2",
         "yaml",
@@ -135750,7 +135749,6 @@
         "SummarizedExperiment",
         "gplots",
         "msm",
-        "Rlab",
         "sva",
         "yaml",
         "futile.logger",
@@ -151639,7 +151637,6 @@
         "lattice"
     ],
     "rmeta": [],
-    "Rlab": [],
     "plot3D": [
         "misc3d"
     ],
