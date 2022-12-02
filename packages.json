@@ -935,7 +935,6 @@
         "GenomicRanges",
         "RSQLite"
     ],
-    "ASSET": [],
     "ASSIGN": [
         "sva",
         "ggplot2",
@@ -19764,9 +19763,7 @@
         "GO.db",
         "Biostrings"
     ],
-    "REBET": [
-        "ASSET"
-    ],
+    "REBET": [],
     "rebook": [
         "rmarkdown",
         "BiocStyle",
