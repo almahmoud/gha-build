@@ -26365,7 +26365,6 @@
         "IRanges",
         "codetools",
         "iterators",
-        "GenSA",
         "polyclip",
         "polylabelr",
         "RcppArmadillo",
@@ -129806,7 +129805,6 @@
         "gtable",
         "rlang",
         "scales",
-        "GenSA",
         "polyclip",
         "polylabelr",
         "Rcpp",
@@ -167067,13 +167065,11 @@
         "cluster"
     ],
     "eulerr": [
-        "GenSA",
         "polyclip",
         "polylabelr",
         "Rcpp",
         "RcppArmadillo"
     ],
-    "GenSA": [],
     "polylabelr": [
         "Rcpp"
     ],
