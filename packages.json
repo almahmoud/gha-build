@@ -3314,8 +3314,7 @@
         "dbplyr"
     ],
     "Cardinal": [
-        "EBImage",
-        "matter"
+        "EBImage"
     ],
     "CARNIVAL": [
         "readr",
@@ -15141,7 +15140,6 @@
         "tidyselect",
         "progress"
     ],
-    "matter": [],
     "MBASED": [
         "GenomicRanges",
         "SummarizedExperiment"
