@@ -1542,7 +1542,6 @@
     ],
     "chipenrich": [
         "chipenrich.data",
-        "org.Rn.eg.db",
         "rms",
         "rtracklayer",
         "readr",
@@ -3135,7 +3134,6 @@
         "GSVA",
         "globaltest",
         "metap",
-        "org.Rn.eg.db",
         "plotly",
         "GO.db",
         "annotate",
@@ -4183,8 +4181,7 @@
     ],
     "geneXtendeR": [
         "rtracklayer",
-        "GO.db",
-        "org.Rn.eg.db"
+        "GO.db"
     ],
     "genomation": [
         "BSgenome",
@@ -12274,7 +12271,6 @@
         "readr",
         "rtracklayer"
     ],
-    "org.Rn.eg.db": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [
         "GenomicFeatures",
         "rtracklayer",
