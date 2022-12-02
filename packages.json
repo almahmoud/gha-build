@@ -601,7 +601,6 @@
     ],
     "MethReg": [
         "ggpubr",
-        "sesame",
         "rstatix",
         "car"
     ],
@@ -989,7 +988,6 @@
     ],
     "selectKSigs": [],
     "seqCAT": [],
-    "sesame": [],
     "shinyepico": [],
     "shinyMethyl": [
         "IlluminaHumanMethylation450kmanifest"
@@ -1082,7 +1080,6 @@
     "TCGAbiolinksGUI": [
         "ELMER",
         "clusterProfiler",
-        "sesame",
         "Gviz",
         "ggpubr",
         "rstatix",
