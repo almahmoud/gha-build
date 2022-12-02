@@ -8276,7 +8276,6 @@
         "pillar"
     ],
     "DiscoRhythm": [
-        "MetaCycle",
         "ggplot2",
         "ggExtra",
         "dplyr",
@@ -35860,7 +35859,6 @@
     "DiffCorr": [
         "multtest"
     ],
-    "MetaCycle": [],
     "fastDummies": [
         "tibble",
         "pillar"
