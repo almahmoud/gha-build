@@ -7200,7 +7200,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "insight",
         "purrr",
         "sjlabelled",
         "KEGGREST",
@@ -64843,7 +64842,6 @@
         "askpass",
         "bayestestR",
         "datawizard",
-        "insight",
         "clipr",
         "vroom",
         "tzdb",
@@ -65042,7 +65040,6 @@
         "timechange",
         "bayestestR",
         "datawizard",
-        "insight",
         "prettyunits",
         "clipr",
         "vroom",
@@ -105601,7 +105598,6 @@
         "timechange",
         "bayestestR",
         "datawizard",
-        "insight",
         "prettyunits",
         "BH",
         "clipr",
@@ -123590,7 +123586,6 @@
     "slam": [],
     "sjmisc": [
         "dplyr",
-        "insight",
         "magrittr",
         "purrr",
         "rlang",
@@ -123606,14 +123601,10 @@
     "rslurm": [
         "whisker"
     ],
-    "insight": [],
     "sjlabelled": [
-        "insight",
         "datawizard"
     ],
-    "datawizard": [
-        "insight"
-    ],
+    "datawizard": [],
     "poibin": [],
     "LIM": [
         "limSolve",
@@ -133725,7 +133716,6 @@
         "RcppEigen",
         "bayestestR",
         "datawizard",
-        "insight",
         "clock",
         "ellipsis",
         "hardhat",
@@ -133818,8 +133808,7 @@
     ],
     "parameters": [
         "bayestestR",
-        "datawizard",
-        "insight"
+        "datawizard"
     ],
     "rearrr": [
         "checkmate",
@@ -133837,7 +133826,6 @@
         "withr"
     ],
     "bayestestR": [
-        "insight",
         "datawizard"
     ],
     "echarts4r": [
