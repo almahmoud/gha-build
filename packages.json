@@ -78,9 +78,7 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "AlpsNMR": [
-        "mixOmics"
-    ],
+    "AlpsNMR": [],
     "AMARETTO": [
         "MultiAssayExperiment",
         "curatedTCGAData",
@@ -1476,9 +1474,7 @@
         "BSgenome"
     ],
     "DEP": [],
-    "DepecheR": [
-        "mixOmics"
-    ],
+    "DepecheR": [],
     "derfinder": [
         "bumphunter",
         "GenomicFeatures",
@@ -3605,7 +3601,6 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "mixOmics": [],
     "MLInterfaces": [],
     "MLSeq": [
         "caret",
@@ -3821,7 +3816,6 @@
         "anyLib",
         "caret",
         "biosigner",
-        "mixOmics",
         "DESeq2",
         "clusterProfiler",
         "ReactomePA",
@@ -4419,8 +4413,7 @@
     ],
     "POMA": [
         "caret",
-        "DESeq2",
-        "mixOmics"
+        "DESeq2"
     ],
     "POWSC": [],
     "ppcseq": [
@@ -6000,7 +5993,6 @@
     ],
     "tilingArray": [],
     "timeOmics": [
-        "mixOmics",
         "propr"
     ],
     "TimiRGeN": [
