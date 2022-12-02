@@ -15437,7 +15437,6 @@
         "ggridges",
         "cvms",
         "MetBrewer",
-        "tnet",
         "ggpubr",
         "tidyselect",
         "BiocFileCache",
@@ -15517,7 +15516,6 @@
         "ggridges",
         "cvms",
         "MetBrewer",
-        "tnet",
         "ggpubr",
         "RSQLite",
         "KEGGREST",
@@ -25010,7 +25008,6 @@
         "cvms",
         "ggplot2",
         "MetBrewer",
-        "tnet",
         "ggpubr",
         "tidyr",
         "AnnotationDbi",
@@ -30917,7 +30914,6 @@
         "ggplot2",
         "tibble"
     ],
-    "tnet": [],
     "groupdata2": [
         "dplyr",
         "rearrr",
