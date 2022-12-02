@@ -544,7 +544,6 @@
         "ttgsea",
         "textstem"
     ],
-    "GenVisR": [],
     "GeoDiff": [
         "GeomxTools",
         "lmerTest"
