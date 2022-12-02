@@ -64,7 +64,6 @@
     "glmSparseNet": [
         "survminer"
     ],
-    "HiCDOC": [],
     "InterCellar": [
         "factoextra"
     ],
