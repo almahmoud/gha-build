@@ -10558,7 +10558,6 @@
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
-        "NLP",
         "httr",
         "Biostrings",
         "bit64",
@@ -19481,7 +19480,6 @@
         "quanteda",
         "textclean",
         "textshape",
-        "NLP",
         "sylly.en",
         "syuzhet",
         "askpass",
@@ -27872,7 +27870,6 @@
         "lambda.r",
         "cachem",
         "lava",
-        "NLP",
         "zoo",
         "future.apply",
         "progressr",
@@ -29719,7 +29716,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "NLP",
         "htmltools",
         "jquerylib",
         "tinytex",
@@ -30499,7 +30495,6 @@
         "textclean",
         "textshape",
         "tidyselect",
-        "NLP",
         "httr",
         "rvest",
         "data.tree",
@@ -50157,7 +50152,6 @@
         "restfulr",
         "selectr",
         "munsell",
-        "NLP",
         "dbplyr",
         "futile.logger",
         "pbkrtest",
@@ -66217,7 +66211,6 @@
         "bslib",
         "cachem",
         "ellipsis",
-        "NLP",
         "igraph",
         "Matrix",
         "openssl",
@@ -72389,7 +72382,6 @@
         "foreach",
         "doParallel",
         "RcppArmadillo",
-        "NLP",
         "httr",
         "Biostrings",
         "bit64",
@@ -76343,8 +76335,7 @@
         "pillar",
         "dplyr",
         "ellipsis",
-        "purrr",
-        "NLP"
+        "purrr"
     ],
     "stepNorm": [
         "marray"
@@ -81352,7 +81343,6 @@
         "SnowballC",
         "textclean",
         "textshape",
-        "NLP",
         "lifecycle",
         "tidyselect",
         "vctrs",
@@ -82112,7 +82102,6 @@
         "quanteda",
         "textclean",
         "textshape",
-        "NLP",
         "bit64",
         "progress",
         "sylly.en",
@@ -82925,7 +82914,6 @@
         "textshape",
         "tidyr",
         "pillar",
-        "NLP",
         "httr",
         "IRanges",
         "RSQLite",
@@ -89374,14 +89362,10 @@
     ],
     "maptree": [],
     "topicmodels": [
-        "tm",
-        "NLP"
+        "tm"
     ],
     "maptpx": [],
-    "tm": [
-        "NLP"
-    ],
-    "NLP": [],
+    "tm": [],
     "rjsoncons": [],
     "ggpmisc": [
         "ggpp",
@@ -91605,7 +91589,6 @@
         "stopwords",
         "RcppArmadillo",
         "qdapRegex",
-        "NLP",
         "zoo",
         "tidyr",
         "ellipsis",
@@ -91633,7 +91616,6 @@
     "lexicon": [
         "syuzhet",
         "textshape",
-        "NLP",
         "zoo",
         "dplyr",
         "tidyr",
@@ -91656,7 +91638,6 @@
         "qdapRegex",
         "textshape",
         "syuzhet",
-        "NLP",
         "zoo",
         "dplyr",
         "tidyr",
@@ -91672,7 +91653,6 @@
     "sylly.en": [],
     "syuzhet": [
         "textshape",
-        "NLP",
         "zoo",
         "dplyr",
         "tidyr",
