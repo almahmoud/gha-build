@@ -1859,7 +1859,6 @@
         "mgcv",
         "survival",
         "RcppEigen",
-        "dirmult",
         "ggrepel",
         "modeest",
         "DelayedArray",
@@ -12070,7 +12069,6 @@
         "diffcyt",
         "BiocParallel",
         "broom.mixed",
-        "dirmult",
         "dplyr",
         "edgeR",
         "fitdistrplus",
@@ -97094,7 +97092,6 @@
         "ggplot2",
         "Matrix",
         "ape",
-        "dirmult",
         "ggrepel",
         "foreach",
         "modeest",
@@ -97155,7 +97152,6 @@
         "listenv"
     ],
     "rex": [],
-    "dirmult": [],
     "modeest": [
         "fBasics",
         "stable",
