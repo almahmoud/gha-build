@@ -25911,7 +25911,6 @@
         "tidyselect",
         "Biostrings"
     ],
-    "SwathXtend": [],
     "switchde": [
         "SingleCellExperiment",
         "SummarizedExperiment",
