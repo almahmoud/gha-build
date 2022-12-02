@@ -55988,7 +55988,6 @@
     ],
     "sevenbridges": [
         "httr",
-        "objectProperties",
         "openssl"
     ],
     "sevenC": [
@@ -75770,7 +75769,6 @@
         "cachem",
         "memoise"
     ],
-    "objectProperties": [],
     "mlr3": [
         "future",
         "future.apply",
