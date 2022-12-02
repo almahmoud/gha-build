@@ -1773,7 +1773,6 @@
         "ggtree",
         "treeio"
     ],
-    "GISPA": [],
     "Glimma": [],
     "glmSparseNet": [
         "survminer",
