@@ -2908,7 +2908,6 @@
     "RcwlPipelines": [
         "Rcwl"
     ],
-    "ReactomeGraph4R": [],
     "ReactomePA": [
         "DOSE",
         "enrichplot",
