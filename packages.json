@@ -1441,7 +1441,6 @@
         "ggplot2",
         "topGO",
         "Hmisc",
-        "multcomp",
         "GO.db",
         "AnnotationDbi",
         "viridis"
@@ -2053,7 +2052,6 @@
         "SummarizedExperiment",
         "scater",
         "car",
-        "multcomp",
         "ggforce",
         "ggnewscale",
         "ggpubr",
@@ -2357,7 +2355,6 @@
         "dplyr",
         "lme4",
         "mice",
-        "multcomp",
         "SummarizedExperiment",
         "tidyr",
         "broom",
@@ -2615,7 +2612,6 @@
         "readr",
         "Hmisc",
         "ggplot2",
-        "multcomp",
         "GenomicAlignments",
         "SummarizedExperiment",
         "viridis",
@@ -3469,7 +3465,6 @@
         "ggplot2",
         "rms",
         "Hmisc",
-        "multcomp",
         "viridis"
     ],
     "consensusDE": [
@@ -4017,7 +4012,6 @@
         "caret",
         "FlowSOM",
         "lme4",
-        "multcomp",
         "recipes",
         "dendextend",
         "FactoMineR",
@@ -4250,7 +4244,6 @@
         "cellranger",
         "rematch2",
         "ggdendro",
-        "multcomp",
         "vroom"
     ],
     "ddPCRclust": [
@@ -4709,7 +4702,6 @@
         "FlowSOM",
         "SummarizedExperiment",
         "lme4",
-        "multcomp",
         "dplyr",
         "tidyr",
         "ggforce",
@@ -4853,7 +4845,6 @@
     "DMCHMM": [
         "SummarizedExperiment",
         "rtracklayer",
-        "multcomp",
         "GenomicAlignments"
     ],
     "DMRcate": [
@@ -4979,7 +4970,6 @@
         "shinydashboard",
         "readxl",
         "car",
-        "multcomp",
         "cellranger",
         "pbkrtest",
         "lme4",
@@ -5094,7 +5084,6 @@
         "rstatix",
         "ggrepel",
         "coin",
-        "multcomp",
         "SummarizedExperiment",
         "geneplotter",
         "ExperimentHub",
@@ -5279,8 +5268,7 @@
         "hgu133plus2.db",
         "hgu133a.db",
         "tidyr",
-        "dplyr",
-        "multcomp"
+        "dplyr"
     ],
     "eiR": [
         "ChemmineR",
@@ -7355,7 +7343,6 @@
         "HH",
         "AnnotationDbi",
         "annotate",
-        "multcomp",
         "Hmisc",
         "ggplot2",
         "viridis"
@@ -7652,7 +7639,6 @@
         "plotly",
         "ggplot2",
         "car",
-        "multcomp",
         "tidyr",
         "dplyr",
         "pbkrtest",
@@ -8054,7 +8040,6 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "dplyr",
-        "multcomp",
         "tidyr",
         "dbplyr"
     ],
@@ -8406,7 +8391,6 @@
         "SummarizedExperiment",
         "SingleCellExperiment",
         "tidyr",
-        "multcomp",
         "cowplot",
         "ggrepel",
         "ggridges",
@@ -9019,8 +9003,7 @@
     "lefser": [
         "SummarizedExperiment",
         "coin",
-        "ggplot2",
-        "multcomp"
+        "ggplot2"
     ],
     "levi": [
         "dplyr",
@@ -9739,7 +9722,6 @@
     "MEDME": [
         "drc",
         "car",
-        "multcomp",
         "pbkrtest",
         "lme4",
         "nloptr",
@@ -10080,8 +10062,7 @@
         "metap",
         "topconfects",
         "TFisher",
-        "mutoss",
-        "multcomp"
+        "mutoss"
     ],
     "MetCirc": [
         "ggplot2"
@@ -10547,7 +10528,6 @@
         "lmerTest",
         "nloptr",
         "recipes",
-        "multcomp",
         "geneplotter",
         "aplot",
         "ggfun",
@@ -10621,7 +10601,6 @@
         "treeio",
         "dtplyr",
         "ggtreeExtra",
-        "multcomp",
         "aplot",
         "ggfun",
         "ggnewscale",
@@ -11681,8 +11660,7 @@
         "ggplot2",
         "cowplot",
         "TFisher",
-        "mutoss",
-        "multcomp"
+        "mutoss"
     ],
     "multiHiCcompare": [
         "dplyr",
@@ -11753,7 +11731,6 @@
         "tidygraph",
         "tidytree",
         "treeio",
-        "multcomp",
         "hardhat",
         "ipred",
         "plotly",
@@ -11960,7 +11937,6 @@
         "AnnotationHub",
         "biovizBase",
         "TFBSTools",
-        "multcomp",
         "interactiveDisplayBase",
         "dbplyr",
         "Hmisc",
@@ -12984,7 +12960,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "multcomp",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -15599,7 +15574,6 @@
         "nloptr",
         "tidyr",
         "ggrepel",
-        "multcomp",
         "broom",
         "dplyr",
         "testthat",
@@ -17084,7 +17058,6 @@
         "org.Hs.eg.db",
         "reldist",
         "Hmisc",
-        "multcomp",
         "GenomicAlignments",
         "densEstBayes",
         "rstan"
@@ -18111,7 +18084,6 @@
         "mice",
         "metR",
         "car",
-        "multcomp",
         "sftime",
         "stars",
         "broom",
@@ -18924,7 +18896,6 @@
         "SingleCellExperiment",
         "diffcyt",
         "lme4",
-        "multcomp",
         "FlowSOM",
         "SummarizedExperiment",
         "aplot",
@@ -20446,13 +20417,11 @@
     "rms": [
         "Hmisc",
         "ggplot2",
-        "multcomp",
         "viridis"
     ],
     "precrec": [
         "ggplot2"
     ],
-    "multcomp": [],
     "synaptome.db": [
         "synaptome.data",
         "dplyr",
@@ -20574,7 +20543,6 @@
     "sqldf": [],
     "drc": [
         "car",
-        "multcomp",
         "pbkrtest",
         "lme4",
         "nloptr",
@@ -20897,7 +20865,6 @@
         "rms",
         "Hmisc",
         "ggplot2",
-        "multcomp",
         "viridis"
     ],
     "airway": [
@@ -21020,13 +20987,10 @@
     ],
     "metap": [
         "TFisher",
-        "mutoss",
-        "multcomp"
+        "mutoss"
     ],
     "TFisher": [],
-    "mutoss": [
-        "multcomp"
-    ],
+    "mutoss": [],
     "DMwR2": [
         "dplyr",
         "readr",
@@ -21107,9 +21071,7 @@
         "dplyr",
         "dbplyr"
     ],
-    "coin": [
-        "multcomp"
-    ],
+    "coin": [],
     "ELMER.data": [],
     "JASPAR2018": [],
     "EntropyExplorer": [],
@@ -21271,7 +21233,6 @@
         "ggplot2"
     ],
     "HH": [
-        "multcomp",
         "Hmisc",
         "ggplot2",
         "viridis"
