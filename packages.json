@@ -144,7 +144,6 @@
         "waffle"
     ],
     "Anaquin": [
-        "qvalue",
         "DESeq2",
         "geneplotter"
     ],
@@ -203,11 +202,8 @@
         "biomaRt",
         "BSgenome"
     ],
-    "anota": [
-        "qvalue"
-    ],
+    "anota": [],
     "anota2seq": [
-        "qvalue",
         "DESeq2",
         "geneplotter"
     ],
@@ -645,7 +641,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "readr",
         "fgsea",
@@ -925,7 +920,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "rtracklayer",
         "ggbio",
         "AnnotationHub",
@@ -1248,7 +1242,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "Hmisc",
         "aplot",
@@ -1296,7 +1289,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "geneplotter",
         "rstatix",
@@ -1344,7 +1336,6 @@
         "wateRmelon",
         "goseq",
         "missMethyl",
-        "qvalue",
         "isva",
         "bumphunter",
         "plotly",
@@ -1478,7 +1469,6 @@
         "ggfun",
         "BiocFileCache",
         "fgsea",
-        "qvalue",
         "tidygraph",
         "tidyr",
         "tidytree",
@@ -1636,7 +1626,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "fgsea",
         "aplot",
@@ -1841,7 +1830,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "dendextend",
         "FactoMineR",
@@ -2136,7 +2124,6 @@
         "tidyr"
     ],
     "CTSV": [
-        "qvalue",
         "SpatialExperiment",
         "DropletUtils",
         "BiocFileCache",
@@ -2357,7 +2344,6 @@
         "pathview",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "geneplotter",
         "fgsea",
@@ -2392,7 +2378,6 @@
         "methylKit",
         "rsq",
         "tidyr",
-        "qvalue",
         "rtracklayer",
         "lme4",
         "nloptr",
@@ -2449,9 +2434,7 @@
         "tidyr",
         "geneplotter"
     ],
-    "DEGseq": [
-        "qvalue"
-    ],
+    "DEGseq": [],
     "deltaCaptureC": [
         "DESeq2",
         "geneplotter"
@@ -2479,7 +2462,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "rtracklayer",
         "biomaRt",
         "VariantAnnotation",
@@ -2493,7 +2475,6 @@
         "bumphunter",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "rtracklayer",
         "biomaRt",
         "biovizBase",
@@ -2536,7 +2517,6 @@
         "DESeq2",
         "geneplotter",
         "testthat",
-        "qvalue",
         "waldo"
     ],
     "DEWSeq": [
@@ -2728,8 +2708,7 @@
     ],
     "DOSE": [
         "fgsea",
-        "GOSemSim",
-        "qvalue"
+        "GOSemSim"
     ],
     "doseR": [
         "lme4",
@@ -2760,7 +2739,6 @@
         "biomaRt",
         "ArrayExpress",
         "GEOquery",
-        "qvalue",
         "hgu133a.db",
         "hgu133a2.db",
         "hgu133plus2.db",
@@ -2804,7 +2782,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "fgsea",
         "aplot",
@@ -2845,7 +2822,6 @@
     "edge": [
         "sva",
         "snm",
-        "qvalue",
         "lme4",
         "genefilter",
         "nloptr",
@@ -2859,7 +2835,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "geneplotter",
         "fgsea",
@@ -2959,7 +2934,6 @@
         "ggtree",
         "ggfun",
         "fgsea",
-        "qvalue",
         "tidygraph",
         "tidyr",
         "tidytree",
@@ -2978,7 +2952,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "rstatix",
         "CNEr",
@@ -3041,7 +3014,6 @@
         "biomaRt",
         "ggfun",
         "fgsea",
-        "qvalue",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -3077,7 +3049,6 @@
     ],
     "epihet": [
         "EntropyExplorer",
-        "qvalue",
         "WGCNA",
         "ReactomePA",
         "DOSE",
@@ -3193,9 +3164,7 @@
         "OrganismDbi",
         "ensembldb"
     ],
-    "erccdashboard": [
-        "qvalue"
-    ],
+    "erccdashboard": [],
     "erma": [
         "Homo.sapiens",
         "GenomicFiles",
@@ -3228,7 +3197,6 @@
         "DOSE",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "biomaRt",
         "CNEr",
@@ -3261,7 +3229,6 @@
     "EventPointer": [
         "SGSeq",
         "GenomicFeatures",
-        "qvalue",
         "BSgenome",
         "fgsea",
         "rtracklayer",
@@ -3377,7 +3344,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "fgsea",
         "aplot",
         "ggraph",
@@ -3419,7 +3385,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "fgsea",
         "aplot",
@@ -3469,15 +3434,12 @@
     "FindIT2": [
         "rtracklayer",
         "GenomicFeatures",
-        "qvalue",
         "tidyr",
         "MultiAssayExperiment",
         "biomaRt",
         "BiocFileCache"
     ],
-    "fishpond": [
-        "qvalue"
-    ],
+    "fishpond": [],
     "flagme": [
         "xcms",
         "CAMERA",
@@ -3726,7 +3688,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "geneplotter",
         "fgsea",
@@ -4176,7 +4137,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "fgsea",
         "aplot",
@@ -4662,7 +4622,6 @@
     "InTAD": [
         "MultiAssayExperiment",
         "rtracklayer",
-        "qvalue",
         "ggpubr",
         "tidyr",
         "rstatix",
@@ -4765,7 +4724,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "rstatix",
         "tidygraph",
@@ -5168,7 +5126,6 @@
         "depmap",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "ExperimentHub",
         "AnnotationHub",
@@ -5312,7 +5269,6 @@
         "ensembldb",
         "BSgenome",
         "biovizBase",
-        "qvalue",
         "bumphunter",
         "genefilter",
         "GEOquery",
@@ -5391,7 +5347,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "fgsea",
-        "qvalue",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -5441,7 +5396,6 @@
         "mygene",
         "BiocFileCache",
         "ensembldb",
-        "qvalue",
         "car",
         "GenomicFeatures",
         "Hmisc",
@@ -5494,7 +5448,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "ipred",
         "fgsea",
@@ -5521,7 +5474,6 @@
         "GenomicFeatures",
         "heatmaply",
         "NBPSeq",
-        "qvalue",
         "rtracklayer",
         "survcomp",
         "BiocFileCache",
@@ -5556,12 +5508,10 @@
         "DSS",
         "methylKit",
         "BSgenome",
-        "qvalue",
         "rtracklayer"
     ],
     "methInheritSim": [
         "methylKit",
-        "qvalue",
         "rtracklayer"
     ],
     "MethReg": [
@@ -5658,7 +5608,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "minfi",
         "IlluminaHumanMethylation450kmanifest",
@@ -5687,11 +5636,9 @@
     ],
     "methylInheritance": [
         "methylKit",
-        "qvalue",
         "rtracklayer"
     ],
     "methylKit": [
-        "qvalue",
         "rtracklayer"
     ],
     "methylPipe": [
@@ -5835,7 +5782,6 @@
         "DOSE",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "aplot",
         "ggraph",
@@ -5969,7 +5915,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "fgsea",
         "ggraph",
         "reactome.db",
@@ -6010,7 +5955,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "fgsea",
         "ggraph",
@@ -6148,7 +6092,6 @@
     ],
     "MOMA": [
         "MultiAssayExperiment",
-        "qvalue",
         "readr",
         "tidyr"
     ],
@@ -6168,7 +6111,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "fgsea",
         "readr",
@@ -6286,8 +6228,7 @@
     ],
     "msmsTests": [
         "MSnbase",
-        "msmsEDA",
-        "qvalue"
+        "msmsEDA"
     ],
     "MSnbase": [],
     "MSnID": [
@@ -6295,8 +6236,7 @@
         "msmsTests",
         "AnnotationHub",
         "BiocFileCache",
-        "msmsEDA",
-        "qvalue"
+        "msmsEDA"
     ],
     "MSPrep": [
         "tidyr",
@@ -6472,7 +6412,6 @@
         "DOSE",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "geneplotter",
         "aplot",
@@ -6566,7 +6505,6 @@
         "BiocFileCache"
     ],
     "MWASTools": [
-        "qvalue",
         "car",
         "pbkrtest",
         "lme4",
@@ -6696,7 +6634,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "fgsea",
         "aplot",
@@ -6723,9 +6660,7 @@
         "supraHex",
         "readr"
     ],
-    "netresponse": [
-        "qvalue"
-    ],
+    "netresponse": [],
     "NetSAM": [
         "WGCNA",
         "biomaRt",
@@ -6811,7 +6746,6 @@
         "waldo"
     ],
     "normr": [
-        "qvalue",
         "rtracklayer"
     ],
     "NPARC": [
@@ -6872,7 +6806,6 @@
         "bumphunter",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "rstatix",
         "cmdfun",
         "testthat",
@@ -6922,7 +6855,6 @@
         "MultiDataSet",
         "SmartSVA",
         "isva",
-        "qvalue",
         "FactoMineR",
         "Hmisc",
         "lme4",
@@ -7048,9 +6980,7 @@
         "testthat",
         "waldo"
     ],
-    "OPWeight": [
-        "qvalue"
-    ],
+    "OPWeight": [],
     "ORFhunteR": [
         "rtracklayer",
         "BSgenome.Hsapiens.UCSC.hg38",
@@ -7164,7 +7094,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "fgsea",
         "aplot",
@@ -7192,12 +7121,10 @@
         "DOSE",
         "fgsea",
         "GOSemSim",
-        "qvalue",
         "testthat",
         "waldo"
     ],
     "PAST": [
-        "qvalue",
         "rtracklayer"
     ],
     "PathoStat": [
@@ -7285,7 +7212,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "fgsea",
         "aplot",
         "ggraph",
@@ -7403,7 +7329,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "fgsea",
         "ggraph",
@@ -7630,7 +7555,6 @@
         "ggtree",
         "ggfun",
         "fgsea",
-        "qvalue",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -7748,7 +7672,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "readr",
         "biomaRt",
         "VariantAnnotation",
@@ -7911,7 +7834,6 @@
         "biclust",
         "tidyr"
     ],
-    "qvalue": [],
     "R3CPET": [
         "Hmisc",
         "ggbio",
@@ -7928,8 +7850,7 @@
         "BiocFileCache"
     ],
     "r3Cseq": [
-        "rtracklayer",
-        "qvalue"
+        "rtracklayer"
     ],
     "R453Plus1Toolbox": [
         "VariantAnnotation",
@@ -8040,7 +7961,6 @@
         "gson",
         "fgsea",
         "GOSemSim",
-        "qvalue",
         "aplot",
         "scatterpie",
         "shadowtext",
@@ -8064,7 +7984,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "readr",
         "tidyr",
         "biomaRt",
@@ -8117,7 +8036,6 @@
         "tidyr",
         "geneplotter",
         "GOSemSim",
-        "qvalue",
         "Hmisc"
     ],
     "regioneR": [
@@ -8137,7 +8055,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "rtracklayer",
         "geneplotter",
         "biomaRt",
@@ -8293,7 +8210,6 @@
     "RiboDiPA": [
         "GenomicFeatures",
         "reldist",
-        "qvalue",
         "DESeq2",
         "BiocFileCache",
         "geneplotter",
@@ -8428,7 +8344,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "readr",
         "tidyr",
         "biomaRt",
@@ -8511,8 +8426,7 @@
         "VariantAnnotation"
     ],
     "RNAsense": [
-        "NBPSeq",
-        "qvalue"
+        "NBPSeq"
     ],
     "RNASeqR": [
         "pathview",
@@ -8529,7 +8443,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "geneplotter",
         "fgsea",
@@ -8569,7 +8482,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "readr",
         "broom",
         "car",
@@ -8601,9 +8513,7 @@
         "rtracklayer"
     ],
     "ROCpAI": [],
-    "RolDE": [
-        "qvalue"
-    ],
+    "RolDE": [],
     "ropls": [
         "plotly",
         "MultiAssayExperiment",
@@ -9017,7 +8927,6 @@
         "fields",
         "fgsea",
         "GOSemSim",
-        "qvalue",
         "dendextend",
         "tidyr",
         "enrichplot",
@@ -9067,9 +8976,7 @@
         "BiocFileCache"
     ],
     "scuttle": [],
-    "SDAMS": [
-        "qvalue"
-    ],
+    "SDAMS": [],
     "segmenter": [
         "ChIPseeker",
         "enrichplot",
@@ -9087,7 +8994,6 @@
         "ggfun",
         "BiocFileCache",
         "fgsea",
-        "qvalue",
         "tidygraph",
         "tidyr",
         "tidytree",
@@ -9214,13 +9120,10 @@
         "genefilter",
         "ggvis"
     ],
-    "sights": [
-        "qvalue"
-    ],
+    "sights": [],
     "signatureSearch": [
         "ExperimentHub",
         "fgsea",
-        "qvalue",
         "reactome.db",
         "clusterProfiler",
         "readr",
@@ -9368,7 +9271,6 @@
         "geneplotter",
         "GenomicFeatures",
         "rtracklayer",
-        "qvalue",
         "aplot",
         "ggfun",
         "tidyr",
@@ -9833,8 +9735,7 @@
         "tidyr"
     ],
     "subSeq": [
-        "tidyr",
-        "qvalue"
+        "tidyr"
     ],
     "SummarizedBenchmark": [
         "tidyr",
@@ -9907,7 +9808,6 @@
     "switchde": [],
     "synapter": [
         "MSnbase",
-        "qvalue",
         "readr"
     ],
     "synergyfinder": [
@@ -10050,7 +9950,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "tidyr",
         "GenomicFeatures",
         "Gviz",
@@ -10193,7 +10092,6 @@
         "enrichplot",
         "GOSemSim",
         "gson",
-        "qvalue",
         "fgsea",
         "aplot",
         "ggraph",
@@ -10327,7 +10225,6 @@
         "DESeq2",
         "topGO",
         "GOSemSim",
-        "qvalue",
         "geneplotter"
     ],
     "transomics2cytoscape": [],
@@ -10398,7 +10295,6 @@
         "ggrastr"
     ],
     "trigger": [
-        "qvalue",
         "sva",
         "genefilter"
     ],
@@ -10649,7 +10545,6 @@
     ],
     "VplotR": [],
     "vsclust": [
-        "qvalue",
         "MultiAssayExperiment",
         "tidyr"
     ],
@@ -10716,8 +10611,7 @@
         "BiocFileCache"
     ],
     "webbioc": [
-        "annaffy",
-        "qvalue"
+        "annaffy"
     ],
     "weitrix": [],
     "wiggleplotr": [
@@ -11155,7 +11049,6 @@
         "BiocFileCache",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "biomaRt",
         "VariantAnnotation",
         "BSgenome"
@@ -11235,9 +11128,7 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "isva": [
-        "qvalue"
-    ],
+    "isva": [],
     "geneLenDataBase": [
         "rtracklayer",
         "GenomicFeatures",
@@ -11441,9 +11332,7 @@
         "testthat",
         "waldo"
     ],
-    "NBPSeq": [
-        "qvalue"
-    ],
+    "NBPSeq": [],
     "hgu133a2.db": [],
     "easierData": [
         "ExperimentHub",
@@ -11622,7 +11511,6 @@
     "SmartSVA": [
         "sva",
         "isva",
-        "qvalue",
         "genefilter"
     ],
     "EnsDb.Hsapiens.v75": [
