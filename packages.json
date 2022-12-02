@@ -1062,7 +1062,6 @@
         "biomaRt"
     ],
     "cicero": [
-        "monocle",
         "Gviz",
         "biomaRt",
         "GenomicFeatures",
@@ -4350,7 +4349,6 @@
         "CNEr",
         "readr"
     ],
-    "monocle": [],
     "MoonlightR": [
         "clusterProfiler",
         "DOSE",
@@ -7424,9 +7422,7 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "uSORT": [
-        "monocle"
-    ],
+    "uSORT": [],
     "VAExprs": [
         "keras",
         "scater",
