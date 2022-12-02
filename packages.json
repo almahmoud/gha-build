@@ -8527,7 +8527,6 @@
         "BiocStyle",
         "Biobase",
         "ggplot2",
-        "WriteXLS",
         "gridExtra",
         "biovizBase",
         "e1071",
@@ -14736,7 +14735,6 @@
         "lambda.r"
     ],
     "COHCAP": [
-        "WriteXLS",
         "gplots",
         "RcppArmadillo",
         "caTools"
@@ -27024,7 +27022,6 @@
         "ROCR",
         "robustbase",
         "rrcov",
-        "WriteXLS",
         "S4Vectors",
         "RcppArmadillo",
         "GenomicRanges",
@@ -38268,7 +38265,6 @@
         "readxl",
         "stringr",
         "tibble",
-        "WriteXLS",
         "lifecycle",
         "tidyselect",
         "vctrs",
@@ -38288,7 +38284,6 @@
         "readr",
         "stringr",
         "tibble",
-        "WriteXLS",
         "cellranger",
         "progress",
         "lifecycle",
@@ -68392,7 +68387,6 @@
         "ROCR",
         "robustbase",
         "rrcov",
-        "WriteXLS",
         "SummarizedExperiment",
         "SingleCellExperiment",
         "S4Vectors",
@@ -83341,7 +83335,6 @@
     "Uniquorn": [
         "stringr",
         "R.utils",
-        "WriteXLS",
         "doParallel",
         "foreach",
         "GenomicRanges",
@@ -90525,7 +90518,6 @@
         "Matrix",
         "DelayedArray"
     ],
-    "WriteXLS": [],
     "devtools": [
         "usethis",
         "desc",
