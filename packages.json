@@ -4468,7 +4468,6 @@
         "car",
         "ggrepel",
         "viridis",
-        "MSQC",
         "genefilter",
         "KEGGREST",
         "BiocFileCache",
@@ -7132,7 +7131,6 @@
         "car",
         "ggrepel",
         "viridis",
-        "MSQC",
         "genefilter",
         "waldo",
         "KEGGREST",
@@ -22483,9 +22481,7 @@
         "waldo",
         "rematch2"
     ],
-    "plsVarSel": [
-        "MSQC"
-    ],
+    "plsVarSel": [],
     "arm": [
         "lme4",
         "nloptr",
@@ -22493,7 +22489,6 @@
         "waldo",
         "rematch2"
     ],
-    "MSQC": [],
     "DAPARdata": [
         "MSnbase",
         "vsn",
