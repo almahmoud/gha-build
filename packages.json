@@ -147,9 +147,7 @@
         "flowDensity"
     ],
     "debrowser": [],
-    "DeepPINCS": [
-        "ttgsea"
-    ],
+    "DeepPINCS": [],
     "derfinder": [],
     "derfinderPlot": [
         "derfinder"
@@ -260,8 +258,7 @@
         "rstatix"
     ],
     "GenProSeq": [
-        "DeepPINCS",
-        "ttgsea"
+        "DeepPINCS"
     ],
     "GeoDiff": [],
     "GEOexplorer": [
@@ -678,11 +675,9 @@
         "ggpubr",
         "rstatix"
     ],
-    "ttgsea": [],
     "uncoverappLib": [],
     "VAExprs": [
-        "DeepPINCS",
-        "ttgsea"
+        "DeepPINCS"
     ],
     "variancePartition": [],
     "VariantFiltering": [],
