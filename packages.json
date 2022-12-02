@@ -1,7 +1,6 @@
 {
     "a4": [
         "a4Base",
-        "a4Preproc",
         "a4Classif",
         "a4Core",
         "annaffy",
@@ -22,7 +21,6 @@
         "GenomeInfoDb"
     ],
     "a4Base": [
-        "a4Preproc",
         "a4Core",
         "annaffy",
         "genefilter",
@@ -41,7 +39,6 @@
     ],
     "a4Classif": [
         "a4Core",
-        "a4Preproc",
         "ROCR",
         "pamr",
         "glmnet"
@@ -49,7 +46,6 @@
     "a4Core": [
         "glmnet"
     ],
-    "a4Preproc": [],
     "ABarray": [
         "multtest"
     ],
