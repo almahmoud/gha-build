@@ -31119,7 +31119,6 @@
         "BSgenome.Drerio.UCSC.danRer7",
         "seqinr",
         "e1071",
-        "Rsolnp",
         "lifecycle",
         "tibble",
         "tidyselect",
@@ -35886,7 +35885,6 @@
         "rematch2"
     ],
     "MEIGOR": [
-        "Rsolnp",
         "snowfall",
         "CNORode",
         "CellNOptR",
@@ -38862,7 +38860,6 @@
         "htmlwidgets",
         "rmarkdown",
         "mice",
-        "Rsolnp",
         "rvest",
         "scales",
         "webshot",
@@ -54004,7 +54001,6 @@
         "gplots",
         "edgeR",
         "Ringo",
-        "Rsolnp",
         "XVector",
         "RCurl",
         "SummarizedExperiment",
@@ -63966,7 +63962,6 @@
         "DelayedArray"
     ],
     "SPEM": [
-        "Rsolnp",
         "Biobase"
     ],
     "SPIA": [
@@ -65173,7 +65168,6 @@
         "IRanges",
         "GenomeInfoDb",
         "Gviz",
-        "Rsolnp",
         "RCurl",
         "XVector",
         "rtracklayer",
@@ -68289,7 +68283,6 @@
         "recipes",
         "tibble",
         "butcher",
-        "Rsolnp",
         "lifecycle",
         "tidyselect",
         "vctrs",
@@ -68356,8 +68349,7 @@
         "flexclust",
         "Biobase",
         "SPEM",
-        "futile.logger",
-        "Rsolnp"
+        "futile.logger"
     ],
     "TNBC.CMS": [
         "e1071",
@@ -79825,10 +79817,7 @@
         "ape"
     ],
     "argparse": [],
-    "depmixS4": [
-        "Rsolnp"
-    ],
-    "Rsolnp": [],
+    "depmixS4": [],
     "golem": [
         "here",
         "htmltools",
@@ -80766,7 +80755,6 @@
     ],
     "HardyWeinberg": [
         "mice",
-        "Rsolnp",
         "broom",
         "dplyr",
         "tidyr",
