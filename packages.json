@@ -94167,7 +94167,6 @@
         "ggplotify",
         "matrixStats",
         "RColorBrewer",
-        "clusterRepro",
         "CoreGx",
         "caret",
         "survminer",
@@ -163446,7 +163445,6 @@
         "MASS"
     ],
     "pcxnData": [],
-    "clusterRepro": [],
     "reportROC": [
         "pROC",
         "vcd",
