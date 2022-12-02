@@ -1260,7 +1260,6 @@
         "bumphunter",
         "GenomicFeatures"
     ],
-    "EnrichmentBrowser": [],
     "enrichplot": [
         "DOSE",
         "ggraph",
@@ -1840,7 +1839,6 @@
         "nloptr"
     ],
     "GSEABenchmarkeR": [
-        "EnrichmentBrowser",
         "ExperimentHub"
     ],
     "gsean": [
@@ -4658,7 +4656,6 @@
     ],
     "zenith": [
         "variancePartition",
-        "EnrichmentBrowser",
         "pbkrtest",
         "lmerTest",
         "lme4",
