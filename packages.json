@@ -108,7 +108,6 @@
         "multtest"
     ],
     "ADaCGH2": [
-        "GLAD",
         "tilingArray",
         "aCGH",
         "snapCGH",
@@ -17245,7 +17244,6 @@
         "GenomeInfoDb",
         "pillar"
     ],
-    "GLAD": [],
     "GladiaTOX": [
         "RSQLite",
         "ggplot2",
@@ -20745,7 +20743,6 @@
         "blob"
     ],
     "ITALICS": [
-        "GLAD",
         "oligo",
         "pd.mapping50k.xba240",
         "oligoClasses",
@@ -22209,9 +22206,7 @@
         "progress"
     ],
     "makecdfenv": [],
-    "MANOR": [
-        "GLAD"
-    ],
+    "MANOR": [],
     "mAPKL": [
         "multtest",
         "clusterSim",
@@ -38832,7 +38827,6 @@
         "hms"
     ],
     "seqCNA": [
-        "GLAD",
         "adehabitatLT"
     ],
     "seqcombo": [
@@ -40262,7 +40256,6 @@
     ],
     "snapCGH": [
         "aCGH",
-        "GLAD",
         "tilingArray",
         "survival",
         "multtest",
