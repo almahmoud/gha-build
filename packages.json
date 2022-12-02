@@ -41,8 +41,7 @@
         "mia",
         "TreeSummarizedExperiment",
         "lme4",
-        "lmerTest",
-        "treeio"
+        "lmerTest"
     ],
     "AnnotationHubData": [
         "OrganismDbi"
@@ -138,8 +137,7 @@
         "ANCOMBC",
         "mia",
         "lme4",
-        "lmerTest",
-        "treeio"
+        "lmerTest"
     ],
     "BgeeCall": [],
     "bigmelon": [
@@ -166,8 +164,7 @@
         "car",
         "pbkrtest",
         "lme4",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "BiocOncoTK": [
         "curatedTCGAData",
@@ -277,8 +274,7 @@
     "CancerInSilico": [],
     "cardelino": [
         "ggtree",
-        "VariantAnnotation",
-        "treeio"
+        "VariantAnnotation"
     ],
     "casper": [],
     "CATALYST": [
@@ -297,8 +293,7 @@
         "TCGAutils"
     ],
     "CBEA": [
-        "TreeSummarizedExperiment",
-        "treeio"
+        "TreeSummarizedExperiment"
     ],
     "cBioPortalData": [
         "RTCGAToolbox",
@@ -314,8 +309,7 @@
     "CEMiTool": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "censcyt": [
         "diffcyt",
@@ -336,8 +330,7 @@
         "ggtree",
         "car",
         "pbkrtest",
-        "lme4",
-        "treeio"
+        "lme4"
     ],
     "CexoR": [],
     "ChAMP": [
@@ -393,8 +386,7 @@
     "ChIPseeker": [
         "enrichplot",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "chromVAR": [],
     "cicero": [
@@ -422,8 +414,7 @@
     "clusterExperiment": [],
     "clusterProfiler": [
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "CNORfuzzy": [],
     "CNVfilteR": [
@@ -449,8 +440,7 @@
     "CODEX": [],
     "cogena": [],
     "cogeqc": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "Cogito": [
         "TxDb.Mmusculus.UCSC.mm9.knownGene"
@@ -490,8 +480,7 @@
         "car",
         "rstatix",
         "pbkrtest",
-        "lme4",
-        "treeio"
+        "lme4"
     ],
     "condiments": [],
     "CONFESS": [],
@@ -636,8 +625,7 @@
     "debrowser": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "decompTumor2Sig": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -758,8 +746,7 @@
     "EasyCellType": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "EBSeqHMM": [],
     "EDASeq": [],
@@ -770,8 +757,7 @@
     "eegc": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "ELMER": [
         "Gviz",
@@ -792,8 +778,7 @@
         "bumphunter"
     ],
     "enrichplot": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "enrichTF": [
         "motifmatchr",
@@ -805,8 +790,7 @@
         "ggtree",
         "car",
         "pbkrtest",
-        "lme4",
-        "treeio"
+        "lme4"
     ],
     "ensembldb": [],
     "epialleleR": [
@@ -816,8 +800,7 @@
         "ChIPseeker",
         "enrichplot",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "epidecodeR": [
         "rstatix",
@@ -837,8 +820,7 @@
         "EntropyExplorer",
         "ReactomePA",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "EpiMix": [
         "EpiMix.data"
@@ -897,8 +879,7 @@
         "motifmatchr",
         "enrichplot",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "EventPointer": [
         "SGSeq"
@@ -909,7 +890,6 @@
         "ggpubr",
         "ggtree",
         "rstatix",
-        "treeio",
         "car",
         "pbkrtest",
         "lme4"
@@ -920,8 +900,7 @@
         "OrganismDbi"
     ],
     "ExperimentSubset": [
-        "TreeSummarizedExperiment",
-        "treeio"
+        "TreeSummarizedExperiment"
     ],
     "extraChIPs": [
         "GenomicInteractions",
@@ -935,8 +914,7 @@
     "famat": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "fastLiquidAssociation": [
         "LiquidAssociation"
@@ -945,8 +923,7 @@
     "fcoex": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "fcScan": [
         "VariantAnnotation"
@@ -1051,7 +1028,6 @@
         "ggpubr",
         "ggtree",
         "rstatix",
-        "treeio",
         "car",
         "pbkrtest",
         "lme4"
@@ -1152,20 +1128,15 @@
         "ensembldb"
     ],
     "ggmsa": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "ggspavis": [],
-    "ggtree": [
-        "treeio"
-    ],
+    "ggtree": [],
     "ggtreeDendro": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "ggtreeExtra": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "glmSparseNet": [
         "survminer",
@@ -1186,8 +1157,7 @@
     "goSorensen": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "GRmetrics": [
         "drc",
@@ -1340,8 +1310,7 @@
         "ggtree",
         "car",
         "pbkrtest",
-        "lme4",
-        "treeio"
+        "lme4"
     ],
     "ISAnalytics": [
         "datamods"
@@ -1394,8 +1363,7 @@
         "lme4"
     ],
     "LinTInd": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "lipidr": [],
     "LiquidAssociation": [],
@@ -1420,8 +1388,7 @@
         "bumphunter"
     ],
     "LymphoSeq": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "m6Aboost": [],
     "Maaslin2": [
@@ -1455,8 +1422,7 @@
         "clusterProfiler",
         "enrichplot",
         "depmap",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "MAI": [
         "tidyverse"
@@ -1526,8 +1492,7 @@
     "memes": [],
     "meshes": [
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "MetaboAnnotation": [
         "QFeatures"
@@ -1557,8 +1522,7 @@
     "MetaPhOR": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "metaseqR2": [
         "DSS",
@@ -1622,8 +1586,7 @@
         "ggtree",
         "FDb.InfiniumMethylation.hg19",
         "bumphunter",
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "treeio"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "methylPipe": [
         "Gviz",
@@ -1643,18 +1606,15 @@
     "MetID": [],
     "mfa": [],
     "mia": [
-        "TreeSummarizedExperiment",
-        "treeio"
+        "TreeSummarizedExperiment"
     ],
     "miaSim": [
-        "TreeSummarizedExperiment",
-        "treeio"
+        "TreeSummarizedExperiment"
     ],
     "miaViz": [
         "TreeSummarizedExperiment",
         "mia",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "microbiomeExplorer": [
         "car",
@@ -1667,18 +1627,15 @@
         "mia",
         "TreeSummarizedExperiment",
         "lme4",
-        "lmerTest",
-        "treeio"
+        "lmerTest"
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "MicrobiotaProcess": [
         "ggtree",
-        "treeio",
         "ggtreeExtra"
     ],
     "midasHLA": [
@@ -1714,7 +1671,6 @@
         "lme4",
         "ggtree",
         "rstatix",
-        "treeio",
         "car",
         "pbkrtest"
     ],
@@ -1729,7 +1685,6 @@
         "lme4",
         "ggtree",
         "rstatix",
-        "treeio",
         "car",
         "pbkrtest"
     ],
@@ -1761,8 +1716,7 @@
     "MoonlightR": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "mosbi": [],
     "motifbreakR": [
@@ -1855,8 +1809,7 @@
         "clusterProfiler",
         "ReactomePA",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "MungeSumstats": [
         "VariantAnnotation"
@@ -1924,8 +1877,7 @@
     "netboxr": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -2031,7 +1983,6 @@
         "ggpubr",
         "ggtree",
         "rstatix",
-        "treeio",
         "car",
         "pbkrtest",
         "lme4"
@@ -2051,8 +2002,7 @@
     "PanomiR": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "pareg": [],
     "PathoStat": [],
@@ -2068,8 +2018,7 @@
     "PFP": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "PharmacoGx": [],
     "phenomis": [
@@ -2082,8 +2031,7 @@
         "pbkrtest"
     ],
     "philr": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "PhosR": [
         "ggpubr",
@@ -2098,8 +2046,7 @@
         "clusterProfiler",
         "ReactomePA",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "PING": [
         "Gviz",
@@ -2152,8 +2099,7 @@
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "rGREAT",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "progeny": [],
     "pRolocGUI": [],
@@ -2263,8 +2209,7 @@
     "RcwlPipelines": [],
     "ReactomePA": [
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "recount": [
         "derfinder",
@@ -2418,8 +2363,7 @@
         "pbkrtest",
         "lme4",
         "ggtree",
-        "rstatix",
-        "treeio"
+        "rstatix"
     ],
     "RnaSeqSampleSize": [
         "recount",
@@ -2496,8 +2440,7 @@
     ],
     "scBFA": [],
     "scBubbletree": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "scCB2": [],
     "scClassify": [],
@@ -2541,8 +2484,7 @@
         "ReactomePA",
         "schex",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "scTGIF": [
         "schex"
@@ -2559,8 +2501,7 @@
         "ChIPseeker",
         "enrichplot",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "selectKSigs": [
         "HiLDA",
@@ -2593,8 +2534,7 @@
     "signatureSearch": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "signeR": [
         "VariantAnnotation",
@@ -2631,8 +2571,7 @@
         "scMerge",
         "SoupX",
         "scRNAseq",
-        "TENxPBMCData",
-        "treeio"
+        "TENxPBMCData"
     ],
     "SingleMoleculeFootprinting": [
         "QuasR",
@@ -2643,8 +2582,7 @@
     "SISPA": [],
     "sitadela": [],
     "sitePath": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "skewr": [
         "methylumi",
@@ -2789,8 +2727,7 @@
         "lme4"
     ],
     "systemPipeTools": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "TADCompare": [
         "ggpubr",
@@ -2800,8 +2737,7 @@
         "lme4"
     ],
     "tanggle": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "TAPseq": [],
     "TargetDecoy": [
@@ -2827,7 +2763,6 @@
         "ensembldb",
         "biovizBase",
         "VariantAnnotation",
-        "treeio",
         "car",
         "pbkrtest",
         "lme4"
@@ -2853,8 +2788,7 @@
     "TimiRGeN": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "TitanCNA": [
         "VariantAnnotation"
@@ -2884,21 +2818,17 @@
     ],
     "traseR": [],
     "Travel": [],
-    "treeio": [],
     "treekoR": [
         "ggtree",
         "diffcyt",
         "lme4",
         "FlowSOM",
-        "treeio",
         "ggpubr",
         "rstatix",
         "car",
         "pbkrtest"
     ],
-    "TreeSummarizedExperiment": [
-        "treeio"
-    ],
+    "TreeSummarizedExperiment": [],
     "trena": [],
     "TRESS": [],
     "tripr": [],
