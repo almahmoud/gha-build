@@ -3961,7 +3961,6 @@
         "cvms",
         "ggpubr",
         "recipes",
-        "groupdata2",
         "lme4",
         "scatterpie",
         "ggtree",
@@ -3992,7 +3991,6 @@
         "cvms",
         "ggpubr",
         "recipes",
-        "groupdata2",
         "lme4",
         "scatterpie",
         "ggtree",
@@ -6414,7 +6412,6 @@
         "cvms",
         "ggpubr",
         "recipes",
-        "groupdata2",
         "lme4",
         "rstatix",
         "broom",
@@ -7716,13 +7713,11 @@
     ],
     "subspace": [],
     "cvms": [
-        "groupdata2",
         "lme4",
         "recipes",
         "nloptr",
         "testthat"
     ],
-    "groupdata2": [],
     "echarts4r": [
         "broom"
     ],
