@@ -6568,7 +6568,6 @@
         "tensorflow",
         "tfruns",
         "GenomicAlignments",
-        "tfautograph",
         "SummarizedExperiment"
     ],
     "crisprseekplus": [
@@ -6618,7 +6617,6 @@
         "hms",
         "readr",
         "cellranger",
-        "tfautograph",
         "vroom"
     ],
     "CrispRVariants": [
@@ -7666,7 +7664,6 @@
         "webchem",
         "ttgsea",
         "tfruns",
-        "tfautograph",
         "text2vec",
         "textstem",
         "DiagrammeR",
@@ -12129,7 +12126,6 @@
         "ttgsea",
         "webchem",
         "tfruns",
-        "tfautograph",
         "text2vec",
         "textstem",
         "DiagrammeR",
@@ -13274,8 +13270,7 @@
         "cellranger",
         "blob",
         "dbplyr",
-        "vroom",
-        "tfautograph"
+        "vroom"
     ],
     "Guitar": [
         "GenomicFeatures",
@@ -19693,8 +19688,7 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "hms",
-        "tfautograph"
+        "hms"
     ],
     "MultiDataSet": [
         "GenomicRanges",
@@ -20697,7 +20691,6 @@
         "tfruns",
         "SummarizedExperiment",
         "GenomicRanges",
-        "tfautograph",
         "tidyselect"
     ],
     "NewWave": [
@@ -21958,7 +21951,6 @@
         "tfruns",
         "testthat",
         "hms",
-        "tfautograph",
         "RSQLite",
         "KEGGREST",
         "cowplot",
@@ -26764,7 +26756,6 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "tfruns",
-        "tfautograph",
         "tidyr",
         "dplyr",
         "bslib",
@@ -32322,7 +32313,6 @@
         "syuzhet",
         "hms",
         "vroom",
-        "tfautograph",
         "ggplot2",
         "progress"
     ],
@@ -32615,7 +32605,6 @@
         "ggrastr",
         "ggrepel",
         "GenomicRanges",
-        "tfautograph",
         "ScaledMatrix",
         "tidyselect",
         "pillar",
@@ -35888,18 +35877,15 @@
     "keras": [
         "tensorflow",
         "tfruns",
-        "tfautograph",
         "tidyselect"
     ],
     "tensorflow": [
         "tfruns",
-        "tfautograph",
         "tidyselect"
     ],
     "tfruns": [
         "tidyselect"
     ],
-    "tfautograph": [],
     "shinypanel": [
         "shinyjs",
         "shiny",
@@ -37376,7 +37362,6 @@
         "tensorflow",
         "keras",
         "tfruns",
-        "tfautograph",
         "tidyselect"
     ],
     "reportROC": [],
