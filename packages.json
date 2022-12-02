@@ -1059,7 +1059,6 @@
         "DelayedArray",
         "sass"
     ],
-    "annotationTools": [],
     "annotatr": [
         "AnnotationDbi",
         "AnnotationHub",
