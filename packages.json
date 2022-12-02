@@ -1760,7 +1760,6 @@
         "readr",
         "rtracklayer",
         "DESeq2",
-        "universalmotif",
         "AnnotationHub",
         "BSgenome.Hsapiens.UCSC.hg19",
         "gwascat",
@@ -6090,7 +6089,6 @@
         "patchwork",
         "readr",
         "tidyr",
-        "universalmotif",
         "testthat",
         "waldo"
     ],
@@ -11942,7 +11940,6 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "universalmotif": [],
     "uSORT": [
         "monocle"
     ],
