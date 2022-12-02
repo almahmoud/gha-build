@@ -626,9 +626,7 @@
         "regioneR",
         "biomaRt"
     ],
-    "BiSeq": [
-        "globaltest"
-    ],
+    "BiSeq": [],
     "BitSeq": [],
     "blacksheepr": [
         "pasilla",
@@ -983,7 +981,6 @@
         "minfi",
         "DMRcate",
         "IlluminaHumanMethylationEPICmanifest",
-        "globaltest",
         "sva",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
@@ -2112,7 +2109,6 @@
         "pathview",
         "PADOG",
         "GSVA",
-        "globaltest",
         "metap",
         "plotly",
         "GSEABase",
@@ -3030,10 +3026,8 @@
         "testthat"
     ],
     "GlobalAncova": [
-        "globaltest",
         "GSEABase"
     ],
-    "globaltest": [],
     "gmapR": [
         "GenomicFeatures",
         "VariantAnnotation",
@@ -6852,9 +6846,7 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "SIM": [
-        "globaltest"
-    ],
+    "SIM": [],
     "SimBindProfiles": [
         "Ringo",
         "genefilter"
