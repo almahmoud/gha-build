@@ -173,10 +173,7 @@
     "RTCGA": [
         "survminer"
     ],
-    "RTNduals": [],
-    "RTNsurvival": [
-        "RTNduals"
-    ],
+    "RTNsurvival": [],
     "scMAGeCK": [],
     "scRecover": [
         "Rmagic"
