@@ -8071,7 +8071,6 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "switchde": [],
     "synapter": [
         "MSnbase",
         "readr"
