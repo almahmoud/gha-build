@@ -27142,7 +27142,6 @@
     ],
     "RnaSeqSampleSize": [
         "ggplot2",
-        "RnaSeqSampleSizeData",
         "biomaRt",
         "KEGGREST",
         "recount",
@@ -39208,7 +39207,6 @@
         "Biostrings",
         "XVector"
     ],
-    "RnaSeqSampleSizeData": [],
     "fission": [
         "SummarizedExperiment",
         "GenomicRanges",
