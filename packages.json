@@ -1672,7 +1672,6 @@
     ],
     "MetID": [],
     "mfa": [],
-    "MGFR": [],
     "mia": [
         "TreeSummarizedExperiment",
         "treeio"
@@ -2547,9 +2546,7 @@
         "EDASeq"
     ],
     "RVS": [],
-    "sampleClassifier": [
-        "MGFR"
-    ],
+    "sampleClassifier": [],
     "scAlign": [],
     "scanMiRApp": [
         "ensembldb"
