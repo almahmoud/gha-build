@@ -161,9 +161,7 @@
         "GenomicFeatures"
     ],
     "bandle": [],
-    "Basic4Cseq": [
-        "BSgenome.Ecoli.NCBI.20080805"
-    ],
+    "Basic4Cseq": [],
     "BASiCStan": [],
     "BatchQC": [],
     "BayesSpace": [],
@@ -3752,7 +3750,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "BSgenome.Ecoli.NCBI.20080805": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
         "bumphunter",
