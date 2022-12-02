@@ -99,7 +99,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "highr",
         "httr",
         "tidyr",
         "dplyr",
@@ -194,7 +193,6 @@
         "AnnotationDbi",
         "httr",
         "Biostrings",
-        "highr",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -238,7 +236,6 @@
         "cowplot",
         "rstatix",
         "AnnotationDbi",
-        "highr",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -438,7 +435,6 @@
         "GGally",
         "ensembldb",
         "AnnotationFilter",
-        "highr",
         "DelayedArray",
         "pillar",
         "futile.logger",
@@ -587,7 +583,6 @@
         "GGally",
         "ensembldb",
         "AnnotationFilter",
-        "highr",
         "DelayedArray",
         "pillar",
         "futile.logger",
@@ -716,7 +711,6 @@
         "fontawesome",
         "sass",
         "memoise",
-        "highr",
         "hms",
         "purrr"
     ],
@@ -775,8 +769,7 @@
         "tidyselect",
         "mgcv",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "AlphaBeta": [
         "dplyr",
@@ -875,7 +868,6 @@
         "missForest",
         "sass",
         "memoise",
-        "highr",
         "doRNG",
         "hms",
         "RSpectra",
@@ -931,7 +923,6 @@
         "survival",
         "RcppEigen",
         "openssl",
-        "highr",
         "GenomicRanges",
         "DelayedArray",
         "tidyr",
@@ -977,7 +968,6 @@
         "mgcv",
         "scales",
         "purrr",
-        "highr",
         "bslib",
         "jquerylib",
         "Rsamtools",
@@ -1006,7 +996,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "highr",
         "reshape2",
         "gplots",
         "futile.logger",
@@ -1107,7 +1096,6 @@
         "irlba",
         "rsvd",
         "ragg",
-        "highr",
         "hms",
         "blob",
         "memoise",
@@ -1390,7 +1378,6 @@
         "openssl",
         "shiny",
         "DT",
-        "highr",
         "purrr",
         "htmlwidgets",
         "crosstalk",
@@ -1594,7 +1581,6 @@
         "htmlwidgets",
         "crosstalk",
         "promises",
-        "highr",
         "httpuv",
         "fontawesome",
         "purrr",
@@ -1894,7 +1880,6 @@
         "purrr",
         "tidyselect",
         "RcppEigen",
-        "highr",
         "memoise",
         "DelayedArray"
     ],
@@ -2005,7 +1990,6 @@
         "base64",
         "RcppEigen",
         "openssl",
-        "highr",
         "blob",
         "memoise",
         "pillar"
@@ -2172,7 +2156,6 @@
         "callr",
         "pkgload",
         "waldo",
-        "highr",
         "rematch2"
     ],
     "ASpli": [
@@ -2227,7 +2210,6 @@
         "AnnotationFilter",
         "pillar",
         "mgcv",
-        "highr",
         "interp",
         "bslib",
         "blob",
@@ -2415,8 +2397,7 @@
         "fontawesome",
         "bslib",
         "DelayedArray",
-        "sass",
-        "highr"
+        "sass"
     ],
     "ATACseqQC": [
         "BSgenome",
@@ -2744,7 +2725,6 @@
         "pillar",
         "XVector",
         "openssl",
-        "highr",
         "hms",
         "memoise"
     ],
@@ -2789,7 +2769,6 @@
         "lme4",
         "knitr",
         "DelayedArray",
-        "highr",
         "nloptr",
         "RcppEigen",
         "testthat",
@@ -2967,7 +2946,6 @@
         "pillar",
         "mgcv",
         "scales",
-        "highr",
         "mzR",
         "MsCoreUtils",
         "IRanges",
@@ -3099,7 +3077,6 @@
         "promises",
         "mgcv",
         "scales",
-        "highr",
         "terra",
         "bslib",
         "BiocParallel",
@@ -3306,7 +3283,6 @@
         "htmlwidgets",
         "webshot",
         "egg",
-        "highr",
         "quantreg",
         "bslib",
         "jquerylib",
@@ -3756,7 +3732,6 @@
         "ScaledMatrix",
         "rsvd",
         "ragg",
-        "highr",
         "blob",
         "rematch2",
         "systemfonts",
@@ -3928,7 +3903,6 @@
         "purrr",
         "progress",
         "BiocFileCache",
-        "highr",
         "blob",
         "memoise",
         "Rsamtools",
@@ -3981,8 +3955,7 @@
         "openssl",
         "interp",
         "hms",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "BindingSiteFinder": [
         "GenomicRanges",
@@ -4040,8 +4013,7 @@
         "memoise",
         "DelayedArray",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "bioassayR": [
         "RSQLite",
@@ -4164,7 +4136,6 @@
         "tidygraph",
         "graphlayouts",
         "Biostrings",
-        "highr",
         "hms",
         "vroom",
         "cellranger",
@@ -4194,8 +4165,7 @@
         "httr",
         "knitr",
         "RBGL",
-        "openssl",
-        "highr"
+        "openssl"
     ],
     "BiocDockerManager": [
         "httr",
@@ -4349,7 +4319,6 @@
         "restfulr",
         "dbplyr",
         "BiocParallel",
-        "highr",
         "testthat",
         "futile.logger",
         "callr",
@@ -4461,7 +4430,6 @@
         "knitr",
         "rmarkdown",
         "jquerylib",
-        "highr",
         "bslib",
         "sass",
         "memoise"
@@ -4492,7 +4460,6 @@
         "usethis",
         "jquerylib",
         "openssl",
-        "highr",
         "bslib",
         "gert",
         "gh",
@@ -4821,7 +4788,6 @@
         "pillar",
         "httr",
         "Biostrings",
-        "highr",
         "interp",
         "blob",
         "memoise",
@@ -4884,8 +4850,7 @@
         "tidyselect",
         "mgcv",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "BioNAR": [
         "igraph",
@@ -4945,7 +4910,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "highr",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -5006,8 +4970,7 @@
         "blob",
         "memoise",
         "openssl",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "BioNet": [
         "RBGL",
@@ -5053,7 +5016,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "highr",
         "KEGGgraph",
         "Rgraphviz",
         "AnnotationDbi",
@@ -5222,7 +5184,6 @@
         "dplyr",
         "openssl",
         "RcppEigen",
-        "highr",
         "hms",
         "pillar",
         "purrr",
@@ -5576,7 +5537,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "highr",
         "interp",
         "fpc",
         "vegan",
@@ -5661,8 +5621,7 @@
         "blob",
         "memoise",
         "dbplyr",
-        "openssl",
-        "highr"
+        "openssl"
     ],
     "borealis": [
         "doParallel",
@@ -5723,7 +5682,6 @@
         "tibble",
         "vctrs",
         "jquerylib",
-        "highr",
         "bslib",
         "pillar",
         "sass",
@@ -5813,7 +5771,6 @@
         "jquerylib",
         "promises",
         "RcppEigen",
-        "highr",
         "hms",
         "httpuv",
         "fontawesome",
@@ -6073,7 +6030,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "highr",
         "bslib",
         "DelayedArray",
         "BSgenome",
@@ -6154,7 +6110,6 @@
         "vctrs",
         "credentials",
         "openssl",
-        "highr",
         "systemfonts",
         "textshaping",
         "httpuv",
@@ -6336,8 +6291,7 @@
         "memoise",
         "purrr",
         "dbplyr",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "CAGEfightR": [
         "GenomicRanges",
@@ -6397,8 +6351,7 @@
         "hms",
         "purrr",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "cageminer": [
         "ggplot2",
@@ -6482,8 +6435,7 @@
         "purrr",
         "dbplyr",
         "openssl",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "CAGEr": [
         "MultiAssayExperiment",
@@ -6557,7 +6509,6 @@
         "DelayedArray",
         "XVector",
         "RcppEigen",
-        "highr",
         "doParallel",
         "pillar"
     ],
@@ -6612,8 +6563,7 @@
         "GenomeInfoDb",
         "purrr",
         "tidyselect",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "cancerclass": [],
     "CancerInSilico": [],
@@ -6714,7 +6664,6 @@
         "purrr",
         "sass",
         "memoise",
-        "highr",
         "progress"
     ],
     "casper": [
@@ -6834,7 +6783,6 @@
         "knitr",
         "MatrixModels",
         "textshaping",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -7494,7 +7442,6 @@
         "knitr",
         "interp",
         "RcppEigen",
-        "highr",
         "nloptr",
         "broom",
         "dplyr",
@@ -7573,7 +7520,6 @@
         "knitr",
         "sass",
         "memoise",
-        "highr",
         "pillar"
     ],
     "cellscape": [
@@ -7697,7 +7643,6 @@
         "quantreg",
         "lubridate",
         "purrr",
-        "highr",
         "statnet.common",
         "bslib",
         "Hmisc",
@@ -7806,8 +7751,7 @@
         "pbkrtest",
         "quantreg",
         "knitr",
-        "MatrixModels",
-        "highr"
+        "MatrixModels"
     ],
     "Cepo": [
         "GSEABase",
@@ -7966,7 +7910,6 @@
         "nloptr",
         "knitr",
         "MatrixModels",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -8171,7 +8114,6 @@
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
-        "highr",
         "interp",
         "affy",
         "FDb.InfiniumMethylation.hg19",
@@ -8298,7 +8240,6 @@
         "htmlwidgets",
         "interp",
         "RcppEigen",
-        "highr",
         "pillar"
     ],
     "chimeraviz": [
@@ -8352,7 +8293,6 @@
         "sass",
         "memoise",
         "BiocIO",
-        "highr",
         "interp",
         "blob",
         "restfulr",
@@ -8457,7 +8397,6 @@
         "memoise",
         "futile.logger",
         "openssl",
-        "highr",
         "DelayedArray",
         "pillar",
         "tidyselect",
@@ -8508,7 +8447,6 @@
         "survival",
         "latticeExtra",
         "htmlTable",
-        "highr",
         "DelayedArray",
         "BSgenome",
         "progress",
@@ -8954,7 +8892,6 @@
         "memoise",
         "sparseMatrixStats",
         "ragg",
-        "highr",
         "RcppEigen",
         "selectr",
         "systemfonts",
@@ -9171,8 +9108,7 @@
         "memoise",
         "DelayedArray",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "CIMICE": [
         "dplyr",
@@ -9455,8 +9391,7 @@
     "clippda": [
         "rgl",
         "htmlwidgets",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "clipper": [
         "igraph",
@@ -9560,8 +9495,7 @@
     ],
     "clst": [
         "ROC",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "clstutils": [
         "clst",
@@ -9572,7 +9506,6 @@
         "memoise",
         "vctrs",
         "knitr",
-        "highr",
         "lifecycle"
     ],
     "CluMSID": [
@@ -9875,7 +9808,6 @@
         "knitr",
         "sass",
         "memoise",
-        "highr",
         "pillar"
     ],
     "CNORfeeder": [
@@ -9895,7 +9827,6 @@
         "knitr",
         "sass",
         "memoise",
-        "highr",
         "pillar"
     ],
     "CNORfuzzy": [
@@ -9920,7 +9851,6 @@
         "waldo",
         "sass",
         "memoise",
-        "highr",
         "pillar",
         "rematch2"
     ],
@@ -9932,7 +9862,6 @@
         "ggplot2",
         "rmarkdown",
         "igraph",
-        "highr",
         "lifecycle",
         "mgcv",
         "scales",
@@ -10020,8 +9949,7 @@
         "pillar",
         "purrr",
         "tidyselect",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "CNVgears": [
         "ggplot2",
@@ -10108,8 +10036,7 @@
         "knitr",
         "interp",
         "hms",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "CNVMetrics": [
         "GenomicRanges",
@@ -10341,7 +10268,6 @@
         "XVector",
         "mgcv",
         "scales",
-        "highr",
         "survival",
         "hms",
         "vroom",
@@ -10411,7 +10337,6 @@
         "jquerylib",
         "credentials",
         "openssl",
-        "highr",
         "systemfonts",
         "textshaping",
         "httpuv",
@@ -10475,7 +10400,6 @@
         "BiocFileCache",
         "sass",
         "memoise",
-        "highr",
         "blob",
         "Rsamtools",
         "GenomicAlignments",
@@ -10504,8 +10428,7 @@
         "doParallel",
         "irlba",
         "IRanges",
-        "openssl",
-        "highr"
+        "openssl"
     ],
     "comapr": [
         "ggplot2",
@@ -10564,8 +10487,7 @@
         "hms",
         "blob",
         "memoise",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "combi": [
         "ggplot2",
@@ -10649,8 +10571,7 @@
         "DelayedArray",
         "mgcv",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "coMethDMR": [
         "AnnotationHub",
@@ -10763,7 +10684,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "highr",
         "bslib",
         "jquerylib",
         "purrr",
@@ -10785,7 +10705,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "highr",
         "fBasics",
         "statip",
         "future.apply",
@@ -10848,8 +10767,7 @@
         "RcppEigen",
         "mgcv",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "ComplexHeatmap": [
         "IRanges",
@@ -11042,7 +10960,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -11165,7 +11082,6 @@
         "knitr",
         "TH.data",
         "MatrixModels",
-        "highr",
         "interp",
         "RcppEigen"
     ],
@@ -11503,8 +11419,7 @@
         "pillar",
         "purrr",
         "tidyselect",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "CopywriteR": [
         "BiocParallel",
@@ -11732,7 +11647,6 @@
         "memoise",
         "openssl",
         "Biostrings",
-        "highr",
         "segmented",
         "survival",
         "blob",
@@ -11802,7 +11716,6 @@
         "sass",
         "memoise",
         "XVector",
-        "highr",
         "openssl",
         "Biostrings",
         "blob"
@@ -12276,8 +12189,7 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "sass",
-        "highr"
+        "sass"
     ],
     "crisprViz": [
         "crisprBase",
@@ -12347,7 +12259,6 @@
         "htmlwidgets",
         "shiny",
         "DT",
-        "highr",
         "crosstalk",
         "jquerylib",
         "promises",
@@ -12485,7 +12396,6 @@
         "GenomeInfoDb",
         "openssl",
         "RcppEigen",
-        "highr",
         "pillar"
     ],
     "CSSQ": [
@@ -12633,7 +12543,6 @@
         "SpatialExperiment",
         "SummarizedExperiment",
         "futile.logger",
-        "highr",
         "ggplot2",
         "reshape2",
         "SingleCellExperiment",
@@ -12722,8 +12631,7 @@
         "purrr",
         "tidyselect",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "customCMPdb": [
         "AnnotationHub",
@@ -12855,7 +12763,6 @@
         "MatrixModels",
         "survival",
         "viridis",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -13000,7 +12907,6 @@
         "lava",
         "MatrixModels",
         "rematch2",
-        "highr",
         "future.apply",
         "future"
     ],
@@ -13064,7 +12970,6 @@
         "callr",
         "pkgload",
         "waldo",
-        "highr",
         "future.apply",
         "rematch2",
         "future"
@@ -13388,7 +13293,6 @@
         "dbplyr",
         "openssl",
         "prodlim",
-        "highr",
         "testthat",
         "broom",
         "MatrixModels",
@@ -13511,8 +13415,7 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "rematch2",
-        "highr"
+        "rematch2"
     ],
     "dcanr": [
         "igraph",
@@ -13609,7 +13512,6 @@
         "sn",
         "lmtest",
         "Biostrings",
-        "highr",
         "survival",
         "TH.data",
         "sandwich",
@@ -13669,7 +13571,6 @@
         "purrr",
         "tidyr",
         "viridis",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -13871,7 +13772,6 @@
         "XVector",
         "httr",
         "Biostrings",
-        "highr",
         "bslib",
         "blob",
         "memoise",
@@ -14279,7 +14179,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "highr",
         "GenomeInfoDb",
         "DelayedArray",
         "futile.logger",
@@ -14398,7 +14297,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "highr",
         "bslib",
         "jquerylib",
         "GenomicRanges",
@@ -14498,7 +14396,6 @@
         "sass",
         "memoise",
         "XVector",
-        "highr",
         "gmm",
         "progress",
         "sandwich"
@@ -14596,7 +14493,6 @@
         "dplyr",
         "openssl",
         "RcppEigen",
-        "highr",
         "hms",
         "pillar",
         "purrr",
@@ -14670,8 +14566,7 @@
         "interp",
         "hms",
         "purrr",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "DEScan2": [
         "GenomicRanges",
@@ -14802,7 +14697,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -15076,7 +14970,6 @@
         "memoise",
         "openssl",
         "RcppEigen",
-        "highr",
         "pillar"
     ],
     "diffcyt": [
@@ -15134,8 +15027,7 @@
         "quantreg",
         "rematch2",
         "knitr",
-        "MatrixModels",
-        "highr"
+        "MatrixModels"
     ],
     "DifferentialRegulation": [
         "doRNG",
@@ -15392,7 +15284,6 @@
         "egg",
         "rvest",
         "svglite",
-        "highr",
         "gnm",
         "httr",
         "bslib",
@@ -15654,8 +15545,7 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "sass",
-        "highr"
+        "sass"
     ],
     "DMRforPairs": [
         "Gviz",
@@ -15709,8 +15599,7 @@
         "tidyselect",
         "mgcv",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "DMRScan": [
         "GenomicRanges",
@@ -15941,7 +15830,6 @@
         "purrr",
         "tidyr",
         "tidyselect",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -16302,7 +16190,6 @@
         "jquerylib",
         "promises",
         "Biostrings",
-        "highr",
         "testthat",
         "httpuv",
         "fontawesome",
@@ -16385,8 +16272,7 @@
         "promises",
         "lifecycle",
         "sass",
-        "memoise",
-        "highr"
+        "memoise"
     ],
     "easyRNASeq": [
         "BiocFileCache",
@@ -16838,7 +16724,6 @@
         "memoise",
         "BiocParallel",
         "openssl",
-        "highr",
         "interp",
         "blob",
         "broom",
@@ -17169,7 +17054,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "highr",
         "blob",
         "broom",
         "car",
@@ -17348,7 +17232,6 @@
         "openssl",
         "shiny",
         "DT",
-        "highr",
         "hms",
         "vroom",
         "blob",
@@ -17421,7 +17304,6 @@
         "MatrixModels",
         "survival",
         "DelayedArray",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -17514,7 +17396,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -17592,8 +17473,7 @@
         "Biostrings",
         "interp",
         "blob",
-        "memoise",
-        "highr"
+        "memoise"
     ],
     "EpiMix": [
         "EpiMix.data",
@@ -17754,8 +17634,7 @@
         "fontawesome",
         "bslib",
         "sass",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "epiNEM": [
         "BoolNet",
@@ -17822,8 +17701,7 @@
         "knitr",
         "htmlwidgets",
         "interp",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "EpiTxDb": [
         "AnnotationDbi",
@@ -18197,7 +18075,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "highr",
         "visNetwork",
         "bslib",
         "jquerylib",
@@ -18353,7 +18230,6 @@
         "tidyr",
         "GenomeInfoDb",
         "XVector",
-        "highr",
         "bslib",
         "jquerylib",
         "httr",
@@ -18511,7 +18387,6 @@
         "fontawesome",
         "bslib",
         "sass",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -18671,7 +18546,6 @@
         "SummarizedExperiment",
         "shiny",
         "DT",
-        "highr",
         "htmlwidgets",
         "crosstalk",
         "jquerylib",
@@ -18767,7 +18641,6 @@
         "DelayedArray",
         "jquerylib",
         "XVector",
-        "highr",
         "bslib",
         "sass",
         "memoise"
@@ -18843,8 +18716,7 @@
         "blob",
         "memoise",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "fabia": [],
     "factDesign": [],
@@ -18910,7 +18782,6 @@
         "pillar",
         "mgcv",
         "scales",
-        "highr",
         "httr",
         "htmlwidgets",
         "tidyr",
@@ -19030,7 +18901,6 @@
         "RcppEigen",
         "httr",
         "Biostrings",
-        "highr",
         "blob",
         "memoise",
         "pillar",
@@ -19140,8 +19010,7 @@
         "VennDiagram",
         "htmlwidgets",
         "knitr",
-        "futile.logger",
-        "highr"
+        "futile.logger"
     ],
     "fcoex": [
         "FCBF",
@@ -19550,7 +19419,6 @@
         "interp",
         "doParallel",
         "RcppEigen",
-        "highr",
         "pillar"
     ],
     "FLAMES": [
@@ -19652,8 +19520,7 @@
         "interp",
         "hms",
         "systemfonts",
-        "textshaping",
-        "highr"
+        "textshaping"
     ],
     "flowAI": [
         "ggplot2",
@@ -19667,7 +19534,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "highr",
         "bslib",
         "jquerylib",
         "sass",
@@ -19678,7 +19544,6 @@
         "rrcov",
         "flowCore",
         "knitr",
-        "highr",
         "pcaPP"
     ],
     "flowBin": [
@@ -19785,7 +19650,6 @@
         "purrr",
         "tidyr",
         "viridis",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -19837,7 +19701,6 @@
         "purrr",
         "tidyr",
         "viridis",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -19908,7 +19771,6 @@
         "quantreg",
         "lme4",
         "scales",
-        "highr",
         "bslib",
         "jquerylib",
         "httpuv",
@@ -19973,7 +19835,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -20273,7 +20134,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -20452,7 +20312,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -20671,7 +20530,6 @@
         "dbplyr",
         "openssl",
         "prodlim",
-        "highr",
         "broom",
         "MatrixModels",
         "blob",
@@ -20750,7 +20608,6 @@
         "sass",
         "memoise",
         "XVector",
-        "highr",
         "pillar"
     ],
     "gcrma": [
@@ -20799,7 +20656,6 @@
         "jquerylib",
         "credentials",
         "openssl",
-        "highr",
         "systemfonts",
         "textshaping",
         "httpuv",
@@ -20904,7 +20760,6 @@
         "ape",
         "tidytree",
         "treeio",
-        "highr",
         "car",
         "pbkrtest",
         "quantreg",
@@ -21059,7 +20914,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -21218,7 +21072,6 @@
         "purrr",
         "tidyr",
         "tidyselect",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -21374,8 +21227,7 @@
         "tidyselect",
         "mgcv",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "geNetClassifier": [
         "EBarrays",
@@ -21455,7 +21307,6 @@
         "XVector",
         "openssl",
         "Biostrings",
-        "highr",
         "blob"
     ],
     "geneXtendeR": [
@@ -21493,7 +21344,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "httr",
-        "highr",
         "bslib",
         "blob",
         "memoise",
@@ -21804,8 +21654,7 @@
         "memoise",
         "purrr",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "GenomicOZone": [
         "Ckmeans.1d.dp",
@@ -21867,8 +21716,7 @@
         "htmlwidgets",
         "interp",
         "memoise",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "GenomicRanges": [
         "IRanges",
@@ -21955,7 +21803,6 @@
         "systemfonts",
         "XVector",
         "openssl",
-        "highr",
         "bslib",
         "jquerylib",
         "memoise",
@@ -22231,7 +22078,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "highr",
         "broom",
         "nloptr",
         "MatrixModels",
@@ -22424,7 +22270,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -22489,8 +22334,7 @@
         "purrr",
         "dbplyr",
         "openssl",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "ggcyto": [
         "ggplot2",
@@ -22754,7 +22598,6 @@
         "blob",
         "XVector",
         "GenomeInfoDb",
-        "highr",
         "pillar"
     ],
     "GLAD": [],
@@ -22871,7 +22714,6 @@
         "km.ci",
         "blob",
         "Biostrings",
-        "highr",
         "memoise",
         "car",
         "pbkrtest",
@@ -23025,8 +22867,7 @@
         "scales",
         "knitr",
         "openssl",
-        "interp",
-        "highr"
+        "interp"
     ],
     "gmoviz": [
         "GenomicRanges",
@@ -23553,7 +23394,6 @@
         "classInt",
         "s2",
         "systemfonts",
-        "highr",
         "bslib",
         "jquerylib",
         "sass",
@@ -23667,7 +23507,6 @@
         "broom",
         "knitr",
         "MatrixModels",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -24070,7 +23909,6 @@
         "biomaRt",
         "mgcv",
         "scales",
-        "highr",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -24139,8 +23977,7 @@
         "tidyselect",
         "mgcv",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "GWAS.BAYES": [
         "RcppEigen",
@@ -24347,8 +24184,7 @@
         "interp",
         "blob",
         "memoise",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "h5vc": [
         "ggplot2",
@@ -24680,8 +24516,7 @@
         "blob",
         "memoise",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "HiCDOC": [
         "InteractionSet",
@@ -24747,7 +24582,6 @@
         "MatrixModels",
         "survival",
         "Biostrings",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -24831,8 +24665,7 @@
         "fontawesome",
         "bslib",
         "sass",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "hierGWAS": [
         "glmnet",
@@ -25265,7 +25098,6 @@
         "promises",
         "sass",
         "memoise",
-        "highr",
         "selectr",
         "callr"
     ],
@@ -25326,7 +25158,6 @@
         "htmlwidgets",
         "interp",
         "RcppEigen",
-        "highr",
         "pillar"
     ],
     "Icens": [
@@ -25408,7 +25239,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "highr",
         "scales",
         "reshape2",
         "ggplot2",
@@ -25574,7 +25404,6 @@
         "seriation",
         "webshot",
         "egg",
-        "highr",
         "genefilter",
         "NMF",
         "threejs",
@@ -26008,7 +25837,6 @@
         "IRanges",
         "tidyselect",
         "pillar",
-        "highr",
         "TSP",
         "callr"
     ],
@@ -26073,7 +25901,6 @@
         "vctrs",
         "credentials",
         "openssl",
-        "highr",
         "systemfonts",
         "textshaping",
         "httpuv",
@@ -26321,7 +26148,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -26387,8 +26213,7 @@
         "purrr",
         "dbplyr",
         "openssl",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "interacCircos": [
         "htmlwidgets"
@@ -26422,7 +26247,6 @@
         "sass",
         "jquerylib",
         "memoise",
-        "highr",
         "httr",
         "selectr",
         "tibble",
@@ -26552,7 +26376,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "highr",
         "hms",
         "RcppEigen",
         "gert",
@@ -26647,8 +26470,7 @@
         "FGNet",
         "knitr",
         "R.utils",
-        "reshape2",
-        "highr"
+        "reshape2"
     ],
     "IONiseR": [
         "rhdf5",
@@ -26719,7 +26541,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "highr",
         "nloptr",
         "RcppEigen",
         "MatrixModels",
@@ -26802,7 +26623,6 @@
         "interp",
         "doParallel",
         "RcppEigen",
-        "highr",
         "pillar"
     ],
     "IRanges": [],
@@ -26858,7 +26678,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "highr",
         "expm",
         "segmented",
         "survival",
@@ -27352,7 +27171,6 @@
         "annotate",
         "httr",
         "Biostrings",
-        "highr",
         "blob",
         "memoise",
         "openssl"
@@ -27484,7 +27302,6 @@
         "openssl",
         "knitr",
         "km.ci",
-        "highr",
         "car",
         "pbkrtest",
         "quantreg",
@@ -27570,8 +27387,7 @@
         "pillar",
         "purrr",
         "tidyselect",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "katdetectr": [
         "BiocParallel",
@@ -27776,7 +27592,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -27819,7 +27634,6 @@
         "AnnotationDbi",
         "annotate",
         "htmlwidgets",
-        "highr",
         "interp",
         "MatrixModels",
         "dplyr",
@@ -27901,8 +27715,7 @@
         "openssl",
         "knitr",
         "blob",
-        "Biostrings",
-        "highr"
+        "Biostrings"
     ],
     "lapmix": [],
     "ldblock": [
@@ -27976,7 +27789,6 @@
         "mgcv",
         "scales",
         "openssl",
-        "highr",
         "bslib",
         "httpuv",
         "fontawesome",
@@ -28003,7 +27815,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "highr",
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
@@ -28094,7 +27905,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -28328,7 +28138,6 @@
         "interp",
         "doParallel",
         "RcppEigen",
-        "highr",
         "pillar"
     ],
     "loci2path": [
@@ -28639,7 +28448,6 @@
         "knitr",
         "htmlwidgets",
         "interp",
-        "highr",
         "loo",
         "pkgbuild",
         "pillar",
@@ -28751,7 +28559,6 @@
         "MatrixModels",
         "purrr",
         "tidyr",
-        "highr",
         "callr",
         "pkgload",
         "waldo",
@@ -28823,7 +28630,6 @@
         "purrr",
         "tidyr",
         "openssl",
-        "highr",
         "callr",
         "pkgload",
         "waldo",
@@ -28870,7 +28676,6 @@
         "memoise",
         "openssl",
         "RcppEigen",
-        "highr",
         "hms",
         "pillar"
     ],
@@ -29196,7 +29001,6 @@
         "selectr",
         "survival",
         "prodlim",
-        "highr",
         "bslib",
         "jquerylib",
         "sass",
@@ -29265,7 +29069,6 @@
         "doParallel",
         "shiny",
         "miniUI",
-        "highr",
         "styler",
         "classInt",
         "labelled",
@@ -29346,7 +29149,6 @@
         "tibble",
         "vctrs",
         "httr",
-        "highr",
         "dplyr",
         "clock",
         "hardhat",
@@ -29448,8 +29250,7 @@
         "memoise",
         "DelayedArray",
         "purrr",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "maSigPro": [],
     "maskBAD": [
@@ -29536,7 +29337,6 @@
         "sass",
         "memoise",
         "XVector",
-        "highr",
         "interp",
         "RcppEigen",
         "gmm",
@@ -29646,7 +29446,6 @@
         "AnnotationDbi",
         "annotate",
         "survival",
-        "highr",
         "testthat",
         "httr",
         "RSQLite",
@@ -29721,7 +29520,6 @@
         "GenomeInfoDb",
         "openssl",
         "RcppEigen",
-        "highr",
         "pillar"
     ],
     "mBPCR": [
@@ -29789,8 +29587,7 @@
         "tidyselect",
         "XVector",
         "e1071",
-        "openssl",
-        "highr"
+        "openssl"
     ],
     "MBttest": [
         "gplots"
@@ -29837,8 +29634,7 @@
         "htmlwidgets",
         "openssl",
         "interp",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "mCSEA": [
         "Homo.sapiens",
@@ -29900,8 +29696,7 @@
         "viridis",
         "RcppEigen",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "mdp": [
         "ggplot2",
@@ -30019,8 +29814,7 @@
         "memoise",
         "purrr",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "MEAT": [
         "glmnet",
@@ -30082,7 +29876,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "highr",
         "hms",
         "vroom",
         "blob",
@@ -30171,7 +29964,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -30217,7 +30009,6 @@
         "ggplot2",
         "rmarkdown",
         "igraph",
-        "highr",
         "lifecycle",
         "mgcv",
         "scales",
@@ -30254,7 +30045,6 @@
         "quantreg",
         "gplots",
         "jquerylib",
-        "highr",
         "MatrixModels",
         "survival",
         "bslib",
@@ -30399,7 +30189,6 @@
         "GSEABase",
         "genefilter",
         "annotate",
-        "highr",
         "bslib",
         "jquerylib",
         "blob",
@@ -30571,7 +30360,6 @@
         "rols",
         "GenomeInfoDb",
         "XVector",
-        "highr",
         "progress",
         "dplyr",
         "lifecycle",
@@ -30665,7 +30453,6 @@
         "restfulr",
         "futile.logger",
         "tidyr",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -30711,7 +30498,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -30832,7 +30618,6 @@
         "interp",
         "doParallel",
         "RcppEigen",
-        "highr",
         "pillar"
     ],
     "MetaNeighbor": [
@@ -31031,7 +30816,6 @@
         "lifecycle",
         "mgcv",
         "tibble",
-        "highr",
         "tidyr",
         "purrr",
         "lava",
@@ -31324,7 +31108,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -31626,7 +31409,6 @@
         "biomaRt",
         "credentials",
         "DT",
-        "highr",
         "systemfonts",
         "textshaping",
         "httpuv",
@@ -31875,8 +31657,7 @@
         "tidyselect",
         "mgcv",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "methylscaper": [
         "shiny",
@@ -32072,7 +31853,6 @@
         "sass",
         "credentials",
         "openssl",
-        "highr",
         "systemfonts",
         "textshaping",
         "httpuv",
@@ -32448,7 +32228,6 @@
         "seriation",
         "webshot",
         "egg",
-        "highr",
         "glmnet",
         "gplots",
         "Wrench",
@@ -32618,7 +32397,6 @@
         "irlba",
         "rsvd",
         "ragg",
-        "highr",
         "lava",
         "hms",
         "blob",
@@ -32705,7 +32483,6 @@
         "RcppEigen",
         "httr",
         "Biostrings",
-        "highr",
         "blob",
         "XVector",
         "GenomeInfoDb"
@@ -32782,7 +32559,6 @@
         "scales",
         "webshot",
         "svglite",
-        "highr",
         "GenomicRanges",
         "DelayedArray",
         "IRanges",
@@ -32948,8 +32724,7 @@
         "knitr",
         "htmlwidgets",
         "interp",
-        "pillar",
-        "highr"
+        "pillar"
     ],
     "MineICA": [
         "ggplot2",
@@ -33015,7 +32790,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "base64",
         "RcppEigen",
-        "highr",
         "bumphunter",
         "siggenes",
         "DelayedMatrixStats",
@@ -33268,7 +33042,6 @@
         "mgcv",
         "scales",
         "htmlwidgets",
-        "highr",
         "interp",
         "partykit",
         "hms",
@@ -33481,7 +33254,6 @@
         "cellranger",
         "ids",
         "rematch2",
-        "highr",
         "nloptr",
         "bayestestR",
         "vroom",
@@ -33629,7 +33401,6 @@
         "pbkrtest",
         "quantreg",
         "prodlim",
-        "highr",
         "testthat",
         "bslib",
         "jquerylib",
@@ -33803,7 +33574,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "highr",
         "bslib",
         "jquerylib",
         "sass",
@@ -34066,7 +33836,6 @@
         "broom",
         "knitr",
         "MatrixModels",
-        "highr",
         "callr",
         "pkgload",
         "waldo",
@@ -34182,7 +33951,6 @@
         "GenomeInfoDb",
         "openssl",
         "RcppEigen",
-        "highr",
         "pillar"
     ],
     "Modstrings": [
@@ -34420,7 +34188,6 @@
         "mgcv",
         "scales",
         "openssl",
-        "highr",
         "hms",
         "vroom",
         "htmlwidgets",
@@ -34575,8 +34342,7 @@
         "purrr",
         "tidyselect",
         "knitr",
-        "vroom",
-        "highr"
+        "vroom"
     ],
     "motifcounter": [
         "Biostrings",
@@ -34772,7 +34538,6 @@
         "ggsci",
         "ggsignif",
         "rstatix",
-        "highr",
         "hms",
         "vroom",
         "bslib",
@@ -34955,8 +34720,7 @@
         "openssl",
         "interp",
         "hms",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "msImpute": [
         "softImpute",
@@ -35126,7 +34890,6 @@
         "openssl",
         "shiny",
         "DT",
-        "highr",
         "gplots",
         "bslib",
         "blob",
@@ -35187,7 +34950,6 @@
         "ggplot2",
         "openssl",
         "Biostrings",
-        "highr",
         "testthat",
         "blob",
         "memoise",
@@ -35350,7 +35112,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "highr",
         "testthat",
         "bslib",
         "sass",
@@ -35433,7 +35194,6 @@
         "knitr",
         "futile.logger",
         "openssl",
-        "highr",
         "doParallel",
         "httpuv",
         "fontawesome",
@@ -35484,7 +35244,6 @@
         "mzID",
         "knitr",
         "futile.logger",
-        "highr",
         "doParallel"
     ],
     "MSstatsSampleSize": [
@@ -35575,7 +35334,6 @@
         "interp",
         "nloptr",
         "RcppEigen",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -35756,7 +35514,6 @@
         "BiocParallel",
         "tensorflow",
         "tfruns",
-        "highr",
         "blob",
         "ade4",
         "segmented",
@@ -35995,7 +35752,6 @@
         "tidytree",
         "treeio",
         "openssl",
-        "highr",
         "DelayedArray",
         "qqman",
         "multtest",
@@ -36177,7 +35933,6 @@
         "RSQLite",
         "KEGGREST",
         "tidyr",
-        "highr",
         "systemfonts",
         "textshaping",
         "callr",
@@ -36288,7 +36043,6 @@
         "ggsignif",
         "rstatix",
         "openssl",
-        "highr",
         "rmarkdown",
         "hms",
         "vroom",
@@ -36399,7 +36153,6 @@
         "purrr",
         "tidyr",
         "tidyselect",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -36449,7 +36202,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "RcppEigen",
-        "highr",
         "hms",
         "pillar",
         "futile.logger",
@@ -36498,7 +36250,6 @@
         "progress",
         "BiocFileCache",
         "RcppEigen",
-        "highr",
         "blob",
         "memoise",
         "pillar",
@@ -36614,8 +36365,7 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "sass",
-        "highr"
+        "sass"
     ],
     "NanoMethViz": [
         "ggplot2",
@@ -36705,7 +36455,6 @@
         "IRanges",
         "RSQLite",
         "KEGGREST",
-        "highr",
         "doParallel",
         "ggplot2",
         "reshape2",
@@ -36746,7 +36495,6 @@
         "GenomeInfoDb",
         "XVector",
         "openssl",
-        "highr",
         "callr",
         "pkgload",
         "waldo",
@@ -36856,7 +36604,6 @@
         "purrr",
         "tidyr",
         "tidyselect",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -37147,7 +36894,6 @@
         "GenomeInfoDb",
         "openssl",
         "RcppEigen",
-        "highr",
         "pillar"
     ],
     "netboxr": [
@@ -37348,7 +37094,6 @@
         "jquerylib",
         "sass",
         "memoise",
-        "highr",
         "pillar"
     ],
     "NetSAM": [
@@ -37392,8 +37137,7 @@
         "knitr",
         "htmlwidgets",
         "interp",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "netSmooth": [
         "scater",
@@ -37631,7 +37375,6 @@
         "sass",
         "memoise",
         "openssl",
-        "highr",
         "progress"
     ],
     "nnNorm": [],
@@ -37796,7 +37539,6 @@
         "purrr",
         "tidyr",
         "htmlwidgets",
-        "highr",
         "interp",
         "testthat",
         "vroom",
@@ -37810,8 +37552,7 @@
         "qpcR",
         "rgl",
         "htmlwidgets",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "normr": [
         "GenomeInfoDb",
@@ -38168,7 +37909,6 @@
         "BSgenome",
         "credentials",
         "RcppEigen",
-        "highr",
         "nloptr",
         "MatrixModels",
         "rematch2"
@@ -38250,8 +37990,7 @@
         "RcppEigen",
         "hms",
         "DelayedArray",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "oligo": [
         "oligoClasses",
@@ -38316,7 +38055,6 @@
         "hardhat",
         "shiny",
         "miniUI",
-        "highr",
         "styler",
         "classInt",
         "labelled",
@@ -38393,7 +38131,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "highr",
         "bslib",
         "httpuv",
         "fontawesome",
@@ -38483,7 +38220,6 @@
         "sandwich",
         "openssl",
         "Biostrings",
-        "highr",
         "MatrixModels",
         "blob",
         "memoise",
@@ -38579,7 +38315,6 @@
         "ggsci",
         "ggsignif",
         "rstatix",
-        "highr",
         "httr",
         "selectr",
         "systemfonts",
@@ -38683,7 +38418,6 @@
         "gridtext",
         "knitr",
         "km.ci",
-        "highr",
         "car",
         "pbkrtest",
         "quantreg",
@@ -38738,8 +38472,7 @@
         "knitr",
         "selectr",
         "sass",
-        "memoise",
-        "highr"
+        "memoise"
     ],
     "oncomix": [
         "ggplot2",
@@ -38822,7 +38555,6 @@
         "survival",
         "purrr",
         "tidyr",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -38964,8 +38696,7 @@
         "interp",
         "blob",
         "memoise",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "openPrimeRui": [
         "openPrimeR",
@@ -39010,7 +38741,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "highr",
         "ade4",
         "segmented",
         "interp",
@@ -39034,7 +38764,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "highr",
         "dplyr",
         "lubridate",
         "pryr",
@@ -39145,7 +38874,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "highr",
         "shiny",
         "callr",
         "bslib",
@@ -39191,7 +38919,6 @@
         "knitr",
         "RcppEigen",
         "ks",
-        "highr",
         "pcaPP",
         "mgcv"
     ],
@@ -39404,7 +39131,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -39590,7 +39316,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -39984,7 +39709,6 @@
         "mgcv",
         "survival",
         "RcppEigen",
-        "highr",
         "ade4",
         "biomformat",
         "Biostrings",
@@ -40137,7 +39861,6 @@
         "seriation",
         "webshot",
         "egg",
-        "highr",
         "doParallel",
         "dplyr",
         "purrr",
@@ -40287,7 +40010,6 @@
         "sass",
         "memoise",
         "openssl",
-        "highr",
         "future.apply",
         "hms",
         "car",
@@ -40641,7 +40363,6 @@
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
-        "highr",
         "hms",
         "vroom",
         "blob",
@@ -40827,8 +40548,7 @@
         "GenomeInfoDb",
         "purrr",
         "tidyselect",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "PhenStat": [
         "SmoothWin",
@@ -40846,7 +40566,6 @@
         "lifecycle",
         "tibble",
         "vctrs",
-        "highr",
         "nloptr",
         "RcppEigen",
         "mice",
@@ -40965,7 +40684,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -41018,7 +40736,6 @@
         "sass",
         "memoise",
         "openssl",
-        "highr",
         "pillar",
         "GO.db",
         "KEGGREST",
@@ -41209,7 +40926,6 @@
         "httr",
         "latticeExtra",
         "htmlTable",
-        "highr",
         "bslib",
         "ggfun",
         "ggplotify",
@@ -41289,8 +41005,7 @@
         "tidyselect",
         "mgcv",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "pipeComp": [
         "BiocParallel",
@@ -41319,7 +41034,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "highr",
         "V8",
         "scuttle",
         "DelayedArray",
@@ -41402,7 +41116,6 @@
         "htmlwidgets",
         "sass",
         "memoise",
-        "highr",
         "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
@@ -41547,7 +41260,6 @@
         "quantreg",
         "lme4",
         "RcppEigen",
-        "highr",
         "nloptr",
         "MatrixModels",
         "testthat",
@@ -41758,7 +41470,6 @@
         "annotate",
         "AnnotationDbi",
         "XVector",
-        "highr",
         "RSpectra",
         "clock",
         "hardhat",
@@ -41951,7 +41662,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "highr",
         "survival",
         "pillar"
     ],
@@ -42123,8 +41833,7 @@
         "vroom",
         "htmlwidgets",
         "crosstalk",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "PrInCE": [
         "purrr",
@@ -42167,7 +41876,6 @@
         "interp",
         "doParallel",
         "quantmod",
-        "highr",
         "xts",
         "TTR"
     ],
@@ -42301,7 +42009,6 @@
         "XVector",
         "GenomeInfoDb",
         "openssl",
-        "highr",
         "callr",
         "pkgload",
         "waldo",
@@ -42544,7 +42251,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "highr",
         "segmented",
         "survival",
         "annotate",
@@ -42655,7 +42361,6 @@
         "recipes",
         "reshape2",
         "viridis",
-        "highr",
         "segmented",
         "survival",
         "annotate",
@@ -42951,7 +42656,6 @@
         "rvest",
         "webshot",
         "svglite",
-        "highr",
         "httr",
         "crosstalk",
         "promises",
@@ -43078,8 +42782,7 @@
         "knitr",
         "interp",
         "BSgenome",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "PSMatch": [
         "igraph",
@@ -43206,7 +42909,6 @@
         "quantreg",
         "lme4",
         "RcppEigen",
-        "highr",
         "nloptr",
         "MatrixModels",
         "testthat",
@@ -43348,8 +43050,7 @@
         "memoise",
         "pillar",
         "purrr",
-        "tidyselect",
-        "highr"
+        "tidyselect"
     ],
     "PWMEnrich": [
         "Biostrings",
@@ -43462,8 +43163,7 @@
         "scales"
     ],
     "qcmetrics": [
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "QDNAseq": [
         "CGHbase",
@@ -43560,7 +43260,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "highr",
         "testthat",
         "pkgload",
         "waldo",
@@ -43694,7 +43393,6 @@
         "dplyr",
         "openssl",
         "RcppEigen",
-        "highr",
         "hms",
         "purrr",
         "tidyselect"
@@ -43749,7 +43447,6 @@
         "RSQLite",
         "KEGGREST",
         "RcppEigen",
-        "highr",
         "pillar",
         "openssl",
         "Biostrings",
@@ -44033,7 +43730,6 @@
         "BiocFileCache",
         "tidyselect",
         "RcppEigen",
-        "highr",
         "hms",
         "blob",
         "memoise",
@@ -44389,7 +44085,6 @@
         "htmlwidgets",
         "knitr",
         "futile.logger",
-        "highr",
         "DelayedArray"
     ],
     "RCAS": [
@@ -44433,7 +44128,6 @@
         "vctrs",
         "tidyr",
         "dplyr",
-        "highr",
         "httr",
         "purrr",
         "RcppEigen",
@@ -44746,8 +44440,7 @@
     "RDRToolbox": [
         "rgl",
         "htmlwidgets",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "ReactomeContentService4R": [
         "httr",
@@ -44868,7 +44561,6 @@
         "CodeDepends",
         "BiocStyle",
         "bookdown",
-        "highr",
         "bslib",
         "jquerylib",
         "sass",
@@ -44978,8 +44670,7 @@
         "memoise",
         "BSgenome",
         "dbplyr",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "recount3": [
         "SummarizedExperiment",
@@ -45229,8 +44920,7 @@
         "interp",
         "blob",
         "memoise",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "regioneR": [
         "GenomicRanges",
@@ -45313,7 +45003,6 @@
         "geneplotter",
         "ggplot2",
         "XVector",
-        "highr",
         "httr",
         "lubridate",
         "bslib",
@@ -45437,8 +45126,7 @@
         "DelayedArray",
         "sass",
         "mgcv",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "REMP": [
         "SummarizedExperiment",
@@ -45614,7 +45302,6 @@
         "GO.db",
         "AnnotationForge",
         "Rgraphviz",
-        "highr",
         "futile.logger",
         "XVector",
         "survival",
@@ -45809,7 +45496,6 @@
         "testthat",
         "gmm",
         "sandwich",
-        "highr",
         "MatrixModels",
         "callr",
         "pkgload",
@@ -46296,8 +45982,7 @@
         "interp",
         "hms",
         "purrr",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "ribor": [
         "dplyr",
@@ -46430,7 +46115,6 @@
         "futile.logger",
         "purrr",
         "tidyr",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -46530,8 +46214,7 @@
         "knitr",
         "htmlwidgets",
         "interp",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "Risa": [
         "biocViews",
@@ -46598,7 +46281,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "highr",
         "expm",
         "KEGGREST",
         "progress",
@@ -46831,7 +46513,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "highr",
         "shiny",
         "callr",
         "bslib",
@@ -46943,8 +46624,7 @@
         "interp",
         "BSgenome",
         "dbplyr",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "RNAdecay": [
         "ggplot2",
@@ -47103,8 +46783,7 @@
         "purrr",
         "tidyselect",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "RNAmodR.AlkAnilineSeq": [
         "RNAmodR",
@@ -47163,8 +46842,7 @@
         "purrr",
         "tidyselect",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "RNAmodR.ML": [
         "RNAmodR",
@@ -47224,8 +46902,7 @@
         "purrr",
         "tidyselect",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "RNAmodR.RiboMethSeq": [
         "RNAmodR",
@@ -47284,8 +46961,7 @@
         "purrr",
         "tidyselect",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "RNAsense": [
         "ggplot2",
@@ -47412,7 +47088,6 @@
         "memoise",
         "tweenr",
         "systemfonts",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -47497,7 +47172,6 @@
         "RcppEigen",
         "MatrixModels",
         "BSgenome",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -47588,14 +47262,12 @@
         "futile.logger"
     ],
     "ROC": [
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "ROCpAI": [
         "SummarizedExperiment",
         "fission",
         "knitr",
-        "highr",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -47703,7 +47375,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "highr",
         "survival",
         "pillar"
     ],
@@ -47784,7 +47455,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "highr",
         "httpuv",
         "fontawesome",
         "promises",
@@ -47865,7 +47535,6 @@
         "tidyselect",
         "pillar",
         "openssl",
-        "highr",
         "TH.data",
         "sandwich",
         "testthat",
@@ -48004,7 +47673,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "highr",
         "bslib",
         "jquerylib",
         "httr",
@@ -48118,7 +47786,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -48161,7 +47828,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -48206,7 +47872,6 @@
         "purrr",
         "tidyr",
         "tidyselect",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -48262,7 +47927,6 @@
         "htmlwidgets",
         "interp",
         "RcppEigen",
-        "highr",
         "pillar"
     ],
     "rTRM": [
@@ -48417,7 +48081,6 @@
         "tidyr",
         "ggplot2",
         "RBGL",
-        "highr",
         "lifecycle",
         "tidyselect",
         "vctrs",
@@ -48522,7 +48185,6 @@
         "jquerylib",
         "promises",
         "ggplot2",
-        "highr",
         "igraph",
         "scales",
         "httr",
@@ -48613,7 +48275,6 @@
         "jquerylib",
         "openssl",
         "Biostrings",
-        "highr",
         "KEGGgraph",
         "Rgraphviz",
         "org.Hs.eg.db",
@@ -49801,7 +49462,6 @@
         "rvest",
         "webshot",
         "svglite",
-        "highr",
         "bslib",
         "jquerylib",
         "shiny",
@@ -49937,7 +49597,6 @@
         "htmlwidgets",
         "interp",
         "pillar",
-        "highr",
         "loo",
         "pkgbuild",
         "callr"
@@ -49972,7 +49631,6 @@
         "GenomeInfoDb",
         "jquerylib",
         "XVector",
-        "highr",
         "callr",
         "bslib",
         "sass",
@@ -50017,7 +49675,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "highr",
         "bslib",
         "KEGGREST",
         "dbplyr",
@@ -50507,8 +50164,7 @@
         "htmlwidgets",
         "openssl",
         "RcppEigen",
-        "hms",
-        "highr"
+        "hms"
     ],
     "scry": [
         "DelayedArray",
@@ -50591,7 +50247,6 @@
         "htmlwidgets",
         "webshot",
         "egg",
-        "highr",
         "tidyr",
         "crosstalk",
         "purrr",
@@ -50694,7 +50349,6 @@
         "vctrs",
         "annotate",
         "AnnotationDbi",
-        "highr",
         "babelgene",
         "dplyr",
         "tidyselect",
@@ -51140,8 +50794,7 @@
         "Biostrings",
         "interp",
         "memoise",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "seqArchR": [
         "cvTools",
@@ -51355,7 +51008,6 @@
         "tidyselect",
         "pillar",
         "crul",
-        "highr",
         "hms",
         "lobstr",
         "purrr",
@@ -51629,7 +51281,6 @@
         "rhdf5",
         "openssl",
         "base64",
-        "highr",
         "TSP",
         "multtest",
         "callr",
@@ -52057,7 +51708,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "highr",
         "rematch2",
         "MatrixModels"
     ],
@@ -52152,7 +51802,6 @@
         "openssl",
         "pamr",
         "RcppEigen",
-        "highr",
         "car",
         "prodlim",
         "ipred",
@@ -52656,7 +52305,6 @@
         "ragg",
         "org.Hs.eg.db",
         "openssl",
-        "highr",
         "bbmle",
         "reldist",
         "Hmisc",
@@ -52952,7 +52600,6 @@
         "BiocFileCache",
         "tidyselect",
         "pillar",
-        "highr",
         "hms",
         "vroom",
         "blob",
@@ -53061,7 +52708,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "RcppEigen",
-        "highr",
         "dbplyr",
         "dplyr",
         "futile.logger",
@@ -53304,8 +52950,7 @@
         "purrr",
         "dbplyr",
         "openssl",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "SOMNiBUS": [
         "mgcv"
@@ -53840,8 +53485,7 @@
         "Biostrings",
         "interp",
         "systemfonts",
-        "textshaping",
-        "highr"
+        "textshaping"
     ],
     "spatzie": [
         "BSgenome",
@@ -53909,8 +53553,7 @@
         "viridis",
         "RcppEigen",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "specL": [
         "RSQLite",
@@ -54416,8 +54059,7 @@
         "viridis",
         "RcppEigen",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "SPONGE": [
         "doRNG",
@@ -54506,7 +54148,6 @@
         "quantreg",
         "prodlim",
         "Biostrings",
-        "highr",
         "testthat",
         "bslib",
         "jquerylib",
@@ -54680,7 +54321,6 @@
         "interp",
         "RcppEigen",
         "httr",
-        "highr",
         "blob",
         "memoise",
         "pillar",
@@ -54802,7 +54442,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "highr",
         "interp",
         "shiny",
         "callr",
@@ -54933,7 +54572,6 @@
         "tweenr",
         "tidyselect",
         "systemfonts",
-        "highr",
         "haven",
         "RSpectra",
         "pillar",
@@ -55035,8 +54673,7 @@
         "tidyselect",
         "mgcv",
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "standR": [
         "dplyr",
@@ -55238,7 +54875,6 @@
         "classInt",
         "s2",
         "e1071",
-        "highr",
         "bslib",
         "jquerylib",
         "sass",
@@ -55248,8 +54884,7 @@
         "ROC",
         "rrcov",
         "knitr",
-        "pcaPP",
-        "highr"
+        "pcaPP"
     ],
     "STdeconvolve": [
         "topicmodels",
@@ -55402,7 +55037,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "highr",
         "DelayedArray",
         "progress",
         "httr",
@@ -55436,7 +55070,6 @@
         "knitr",
         "SummarizedExperiment",
         "rols",
-        "highr",
         "httr",
         "progress",
         "GenomicRanges",
@@ -55468,7 +55101,6 @@
         "knitr",
         "SummarizedExperiment",
         "rols",
-        "highr",
         "httr",
         "progress",
         "GenomicRanges",
@@ -55766,7 +55398,6 @@
         "gridtext",
         "knitr",
         "km.ci",
-        "highr",
         "pcaPP",
         "car",
         "pbkrtest",
@@ -55975,7 +55606,6 @@
         "memoise",
         "mgcv",
         "vctrs",
-        "highr",
         "doParallel",
         "pillar",
         "tidyselect",
@@ -56059,7 +55689,6 @@
         "xts",
         "lwgeom",
         "e1071",
-        "highr",
         "nloptr",
         "MatrixModels",
         "bslib",
@@ -56101,7 +55730,6 @@
         "tidyr",
         "lme4",
         "knitr",
-        "highr",
         "nloptr",
         "RcppEigen",
         "testthat",
@@ -56233,8 +55861,7 @@
         "hms",
         "progress",
         "R.utils",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "systemPipeTools": [
         "DESeq2",
@@ -56340,7 +55967,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -56463,7 +56089,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -56500,8 +56125,7 @@
         "interp",
         "DelayedArray",
         "pillar",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "TBSignatureProfiler": [
         "ASSIGN",
@@ -56589,7 +56213,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "highr",
         "DelayedArray",
         "httr",
         "RSQLite",
@@ -56627,7 +56250,6 @@
         "mgcv",
         "scales",
         "openssl",
-        "highr",
         "hms",
         "vroom",
         "selectr",
@@ -56748,7 +56370,6 @@
         "GenomicAlignments",
         "openssl",
         "base64",
-        "highr",
         "clock",
         "hardhat",
         "ipred",
@@ -57529,7 +57150,6 @@
         "GenomeInfoDb",
         "openssl",
         "RcppEigen",
-        "highr",
         "pillar"
     ],
     "TissueEnrich": [
@@ -57739,7 +57359,6 @@
         "MatrixModels",
         "blob",
         "memoise",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -57752,8 +57371,7 @@
         "GenomeInfoDb",
         "IRanges",
         "knitr",
-        "XVector",
-        "highr"
+        "XVector"
     ],
     "TOAST": [
         "EpiDISH",
@@ -57956,7 +57574,6 @@
         "pillar",
         "mgcv",
         "scales",
-        "highr",
         "bslib",
         "jquerylib",
         "sass",
@@ -58045,8 +57662,7 @@
         "tibble",
         "tidyselect",
         "mgcv",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "tradeSeq": [
         "mgcv",
@@ -58082,7 +57698,6 @@
         "vctrs",
         "htmlwidgets",
         "knitr",
-        "highr",
         "pillar"
     ],
     "TrajectoryUtils": [
@@ -58356,7 +57971,6 @@
         "IRanges",
         "GenomeInfoDb",
         "XVector",
-        "highr",
         "pillar"
     ],
     "TreeAndLeaf": [
@@ -58444,8 +58058,7 @@
         "pbkrtest",
         "quantreg",
         "knitr",
-        "MatrixModels",
-        "highr"
+        "MatrixModels"
     ],
     "TreeSummarizedExperiment": [
         "SingleCellExperiment",
@@ -58537,7 +58150,6 @@
         "knitr",
         "htmlwidgets",
         "interp",
-        "highr",
         "DelayedArray"
     ],
     "Trendy": [
@@ -58738,8 +58350,7 @@
         "knitr",
         "gert",
         "gh",
-        "credentials",
-        "highr"
+        "credentials"
     ],
     "tRNA": [
         "GenomicRanges",
@@ -58861,7 +58472,6 @@
         "scales",
         "longitudinalData",
         "kml",
-        "highr",
         "bslib",
         "jquerylib",
         "DelayedArray",
@@ -58921,8 +58531,7 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "XVector",
-        "highr"
+        "XVector"
     ],
     "TurboNorm": [
         "convert",
@@ -59247,7 +58856,6 @@
         "vctrs",
         "BiocIO",
         "openssl",
-        "highr",
         "interp",
         "restfulr",
         "survival",
@@ -59542,7 +59150,6 @@
         "tidyr",
         "tidyselect",
         "pillar",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -59683,8 +59290,7 @@
         "RcppEigen",
         "hms",
         "mgcv",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "VariantTools": [
         "IRanges",
@@ -59914,7 +59520,6 @@
         "mgcv",
         "tibble",
         "vctrs",
-        "highr",
         "bslib",
         "jquerylib",
         "GenomeInfoDb",
@@ -60391,7 +59996,6 @@
         "lifecycle",
         "tibble",
         "vctrs",
-        "highr",
         "bumphunter",
         "siggenes",
         "DelayedMatrixStats",
@@ -60469,7 +60073,6 @@
         "dplyr",
         "openssl",
         "RcppEigen",
-        "highr",
         "hms",
         "DelayedArray",
         "purrr",
@@ -60597,8 +60200,7 @@
         "gh",
         "credentials",
         "openssl",
-        "httr",
-        "highr"
+        "httr"
     ],
     "wppi": [
         "dplyr",
@@ -60626,8 +60228,7 @@
         "knitr",
         "selectr",
         "sass",
-        "memoise",
-        "highr"
+        "memoise"
     ],
     "Wrench": [],
     "xcms": [
@@ -60783,7 +60384,6 @@
         "knitr",
         "rmarkdown",
         "future",
-        "highr",
         "bslib",
         "jquerylib",
         "BiocParallel",
@@ -60881,8 +60481,7 @@
         "interp",
         "hms",
         "purrr",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "yarn": [
         "biomaRt",
@@ -61017,7 +60616,6 @@
         "XVector",
         "blob",
         "openssl",
-        "highr",
         "testthat",
         "memoise",
         "callr",
@@ -61139,7 +60737,6 @@
         "bslib",
         "jquerylib",
         "memoise",
-        "highr",
         "lifecycle",
         "httpuv",
         "fontawesome",
@@ -61150,12 +60747,9 @@
         "jquerylib",
         "knitr",
         "sass",
-        "memoise",
-        "highr"
+        "memoise"
     ],
-    "knitr": [
-        "highr"
-    ],
+    "knitr": [],
     "vegan": [
         "mgcv"
     ],
@@ -61201,7 +60795,6 @@
         "knitr",
         "rmarkdown",
         "jquerylib",
-        "highr",
         "bslib",
         "sass",
         "memoise"
@@ -61232,7 +60825,6 @@
         "pillar",
         "vctrs"
     ],
-    "highr": [],
     "tidyr": [
         "dplyr",
         "lifecycle",
@@ -61316,7 +60908,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -61393,7 +60984,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -61443,7 +61033,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -61469,7 +61058,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "highr",
         "nloptr",
         "RcppEigen",
         "mgcv",
@@ -61617,7 +61205,6 @@
         "htmlwidgets",
         "interp",
         "RcppEigen",
-        "highr",
         "pillar"
     ],
     "GGally": [
@@ -61655,8 +61242,7 @@
     ],
     "htmlTable": [
         "knitr",
-        "htmlwidgets",
-        "highr"
+        "htmlwidgets"
     ],
     "viridis": [
         "ggplot2",
@@ -62828,7 +62414,6 @@
         "knitr",
         "rmarkdown",
         "selectr",
-        "highr",
         "bslib",
         "jquerylib",
         "sass",
@@ -63062,7 +62647,6 @@
         "knitr",
         "lifecycle",
         "rmarkdown",
-        "highr",
         "bslib",
         "jquerylib",
         "sass",
@@ -63101,8 +62685,7 @@
         "assertive.data.uk",
         "assertive.data.us",
         "assertive.code",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "assertive.types": [],
     "assertive.strings": [
@@ -63143,7 +62726,6 @@
         "scales",
         "lme4",
         "knitr",
-        "highr",
         "nloptr",
         "RcppEigen",
         "testthat",
@@ -63234,8 +62816,7 @@
         "jquerylib",
         "knitr",
         "sass",
-        "memoise",
-        "highr"
+        "memoise"
     ],
     "raster": [
         "terra"
@@ -63556,7 +63137,6 @@
         "htmlwidgets",
         "crosstalk",
         "promises",
-        "highr",
         "httr",
         "hms",
         "vroom",
@@ -63841,7 +63421,6 @@
         "TH.data",
         "sandwich",
         "MatrixModels",
-        "highr",
         "interp",
         "pillar",
         "RcppEigen"
@@ -63946,7 +63525,6 @@
         "GenomeInfoDb",
         "openssl",
         "RcppEigen",
-        "highr",
         "pillar"
     ],
     "apcluster": [],
@@ -64291,8 +63869,7 @@
         "DelayedArray",
         "BSgenome",
         "sass",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "lsa": [],
     "BSgenome.Hsapiens.UCSC.hg38": [
@@ -64346,7 +63923,6 @@
         "vctrs",
         "credentials",
         "openssl",
-        "highr",
         "systemfonts",
         "textshaping",
         "httpuv",
@@ -64373,8 +63949,7 @@
         "textshaping",
         "knitr",
         "lifecycle",
-        "pillar",
-        "highr"
+        "pillar"
     ],
     "profvis": [
         "htmlwidgets"
@@ -64388,8 +63963,7 @@
     "roxygen2": [
         "knitr",
         "pkgload",
-        "purrr",
-        "highr"
+        "purrr"
     ],
     "rversions": [],
     "sessioninfo": [],
@@ -64468,7 +64042,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -64567,7 +64140,6 @@
         "purrr",
         "tidyr",
         "tidyselect",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -65256,7 +64828,6 @@
         "scales",
         "webshot",
         "svglite",
-        "highr",
         "bslib",
         "jquerylib",
         "httr",
@@ -65345,8 +64916,7 @@
     ],
     "rgl": [
         "htmlwidgets",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "gRbase": [
         "RBGL",
@@ -65488,7 +65058,6 @@
         "knitr",
         "MatrixModels",
         "survival",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -65583,7 +65152,6 @@
         "htmlwidgets",
         "TH.data",
         "MatrixModels",
-        "highr",
         "interp",
         "pillar",
         "RcppEigen"
@@ -65979,8 +65547,7 @@
         "lifecycle",
         "vctrs",
         "htmlwidgets",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "kknn": [
         "igraph"
@@ -66009,8 +65576,7 @@
     "MSQC": [
         "rgl",
         "htmlwidgets",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "RWekajars": [],
     "DAPARdata": [
@@ -66258,7 +65824,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -66455,8 +66020,7 @@
         "htmlwidgets",
         "interp",
         "pillar",
-        "RcppEigen",
-        "highr"
+        "RcppEigen"
     ],
     "RNOmni": [],
     "ewceData": [
@@ -66547,8 +66111,7 @@
         "pillar"
     ],
     "kinship2": [
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "gap": [
         "dplyr",
@@ -66683,7 +66246,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -66744,7 +66306,6 @@
         "gridtext",
         "knitr",
         "km.ci",
-        "highr",
         "car",
         "pbkrtest",
         "quantreg",
@@ -66768,7 +66329,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "highr",
         "pillar"
     ],
     "km.ci": [
@@ -66825,7 +66385,6 @@
         "knitr",
         "gdtools",
         "systemfonts",
-        "highr",
         "bslib",
         "jquerylib",
         "sass",
@@ -66877,7 +66436,6 @@
         "memoise",
         "mgcv",
         "openssl",
-        "highr",
         "hms",
         "TSP",
         "callr"
@@ -66959,7 +66517,6 @@
         "knitr",
         "htmlwidgets",
         "RcppEigen",
-        "highr",
         "pillar"
     ],
     "gRain": [
@@ -66994,7 +66551,6 @@
         "s2",
         "e1071",
         "systemfonts",
-        "highr",
         "bslib",
         "jquerylib",
         "sass",
@@ -67203,13 +66759,11 @@
         "memoise",
         "credentials",
         "openssl",
-        "httr",
-        "highr"
+        "httr"
     ],
     "shinyalert": [
         "knitr",
         "shiny",
-        "highr",
         "httpuv",
         "fontawesome",
         "promises",
@@ -67322,8 +66876,7 @@
         "bslib",
         "sass",
         "jquerylib",
-        "memoise",
-        "highr"
+        "memoise"
     ],
     "configr": [],
     "bsplus": [
@@ -67334,8 +66887,7 @@
         "jquerylib",
         "knitr",
         "sass",
-        "memoise",
-        "highr"
+        "memoise"
     ],
     "shinyvalidate": [
         "shiny",
@@ -67355,7 +66907,6 @@
         "promises",
         "rmarkdown",
         "shiny",
-        "highr",
         "bslib",
         "jquerylib",
         "httpuv",
@@ -67541,7 +67092,6 @@
         "questionr",
         "shiny",
         "miniUI",
-        "highr",
         "styler",
         "classInt",
         "labelled",
@@ -67574,7 +67124,6 @@
         "questionr",
         "shiny",
         "miniUI",
-        "highr",
         "styler",
         "classInt",
         "labelled",
@@ -67606,7 +67155,6 @@
     "questionr": [
         "shiny",
         "miniUI",
-        "highr",
         "styler",
         "classInt",
         "labelled",
@@ -67742,7 +67290,6 @@
         "rmarkdown",
         "bookdown",
         "jquerylib",
-        "highr",
         "bslib",
         "sass",
         "memoise"
@@ -67893,7 +67440,6 @@
         "jquerylib",
         "promises",
         "SummarizedExperiment",
-        "highr",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -67952,7 +67498,6 @@
         "htmlwidgets",
         "knitr",
         "rmarkdown",
-        "highr",
         "bslib",
         "jquerylib",
         "sass",
@@ -68262,8 +67807,7 @@
     "HiveR": [
         "rgl",
         "htmlwidgets",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "RISmed": [
         "httr",
@@ -68316,7 +67860,6 @@
         "jquerylib",
         "vctrs",
         "credentials",
-        "highr",
         "systemfonts",
         "textshaping",
         "httpuv",
@@ -68464,7 +68007,6 @@
         "pillar",
         "purrr",
         "tidyr",
-        "highr",
         "testthat",
         "callr",
         "pkgload",
@@ -68475,8 +68017,7 @@
     "qpcR": [
         "rgl",
         "htmlwidgets",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "NxtIRFdata": [
         "ExperimentHub",
@@ -68585,7 +68126,6 @@
         "hardhat",
         "shiny",
         "miniUI",
-        "highr",
         "styler",
         "classInt",
         "labelled",
@@ -68813,8 +68353,7 @@
         "httpuv",
         "knitr",
         "openssl",
-        "promises",
-        "highr"
+        "promises"
     ],
     "magicaxis": [],
     "PMCMRplus": [
@@ -69202,7 +68741,6 @@
     "knitrBootstrap": [
         "knitr",
         "rmarkdown",
-        "highr",
         "bslib",
         "jquerylib",
         "sass",
@@ -69420,8 +68958,7 @@
     "GENLIB": [
         "kinship2",
         "doParallel",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "excelR": [
         "htmlwidgets"
@@ -69431,7 +68968,6 @@
         "rmarkdown",
         "bookdown",
         "jquerylib",
-        "highr",
         "bslib",
         "sass",
         "memoise"
@@ -69600,7 +69136,6 @@
         "vctrs",
         "pillar",
         "openssl",
-        "highr",
         "bslib",
         "jquerylib",
         "sass",
@@ -69619,7 +69154,6 @@
         "vctrs",
         "pillar",
         "openssl",
-        "highr",
         "bslib",
         "jquerylib",
         "sass",
@@ -69686,7 +69220,6 @@
         "gridtext",
         "knitr",
         "km.ci",
-        "highr",
         "car",
         "pbkrtest",
         "quantreg",
@@ -70079,7 +69612,6 @@
         "tweenr",
         "tidyselect",
         "systemfonts",
-        "highr",
         "haven",
         "pillar",
         "forcats",
@@ -70244,8 +69776,7 @@
         "sass",
         "jquerylib",
         "memoise",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "GenKern": [],
     "ttservice": [
@@ -70406,23 +69937,20 @@
         "clv",
         "rgl",
         "htmlwidgets",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "longitudinalData": [
         "clv",
         "rgl",
         "htmlwidgets",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "kml": [
         "clv",
         "longitudinalData",
         "rgl",
         "htmlwidgets",
-        "knitr",
-        "highr"
+        "knitr"
     ],
     "clv": [],
     "mirbase.db": [
@@ -70452,7 +69980,6 @@
         "vctrs",
         "pillar",
         "htmlwidgets",
-        "highr",
         "bslib",
         "jquerylib",
         "sass",
