@@ -87,7 +87,6 @@
         "tidyr",
         "BiocFileCache"
     ],
-    "affylmGUI": [],
     "AGDEX": [
         "GSEABase",
         "annotate"
