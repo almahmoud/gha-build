@@ -67593,7 +67593,6 @@
         "lifecycle"
     ],
     "kissDE": [
-        "aods3",
         "Biobase",
         "DESeq2",
         "DSS",
@@ -166352,7 +166351,6 @@
         "zlibbioc",
         "sys"
     ],
-    "aods3": [],
     "sortable": [
         "htmltools",
         "htmlwidgets",
