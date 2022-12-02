@@ -2892,7 +2892,6 @@
         "dbplyr"
     ],
     "borealis": [
-        "gamlss",
         "bsseq",
         "DSS",
         "ggplot2",
@@ -7668,9 +7667,7 @@
         "Biostrings",
         "blob"
     ],
-    "DEsingle": [
-        "gamlss"
-    ],
+    "DEsingle": [],
     "destiny": [
         "SummarizedExperiment",
         "SingleCellExperiment",
@@ -14200,7 +14197,6 @@
         "gson",
         "qvalue",
         "tidyr",
-        "gamlss",
         "tibble",
         "ggrepel",
         "ggsci",
@@ -26498,7 +26494,6 @@
     ],
     "scRecover": [
         "penalized",
-        "gamlss",
         "SAVER",
         "Rmagic",
         "glmnet"
@@ -33585,7 +33580,6 @@
         "blob"
     ],
     "pcalg": [],
-    "gamlss": [],
     "GenomicState": [
         "AnnotationHub",
         "GenomicFeatures",
