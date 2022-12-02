@@ -668,7 +668,6 @@
         "pbkrtest"
     ],
     "gmapR": [],
-    "GmicR": [],
     "goSorensen": [
         "clusterProfiler",
         "enrichplot"
