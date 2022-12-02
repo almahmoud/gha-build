@@ -12157,7 +12157,6 @@
         "BH"
     ],
     "CancerSubtypes": [
-        "sigclust",
         "NMF",
         "impute",
         "ConsensusClusterPlus",
@@ -96236,7 +96235,6 @@
         "GenomicRanges",
         "ggplot2",
         "reshape",
-        "sigclust",
         "BiocGenerics",
         "S4Vectors",
         "IRanges",
@@ -120106,7 +120104,6 @@
         "mvtnorm",
         "pcaPP"
     ],
-    "sigclust": [],
     "ALL": [
         "Biobase",
         "BiocGenerics"
