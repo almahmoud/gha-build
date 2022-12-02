@@ -1267,9 +1267,7 @@
     ],
     "gscreend": [],
     "GSEABenchmarkeR": [],
-    "gsean": [
-        "PPInfer"
-    ],
+    "gsean": [],
     "GSReg": [
         "Homo.sapiens",
         "OrganismDbi",
@@ -2252,7 +2250,6 @@
     "ppcseq": [
         "tidybayes"
     ],
-    "PPInfer": [],
     "prebs": [],
     "preciseTAD": [
         "rCGH",
