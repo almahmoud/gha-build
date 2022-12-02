@@ -645,7 +645,6 @@
         "ggpubr",
         "megadepth",
         "rstatix",
-        "cmdfun",
         "car",
         "pbkrtest",
         "lme4"
@@ -1577,12 +1576,8 @@
         "pbkrtest",
         "lme4"
     ],
-    "megadepth": [
-        "cmdfun"
-    ],
-    "memes": [
-        "cmdfun"
-    ],
+    "megadepth": [],
+    "memes": [],
     "meshes": [
         "enrichplot",
         "ggtree",
@@ -2047,7 +2042,6 @@
         "bumphunter",
         "GenomicFiles",
         "rstatix",
-        "cmdfun",
         "VariantAnnotation",
         "car",
         "pbkrtest",
@@ -3254,7 +3248,6 @@
         "lme4"
     ],
     "DAPARdata": [],
-    "cmdfun": [],
     "rsq": [
         "lme4"
     ],
