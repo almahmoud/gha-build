@@ -4514,7 +4514,6 @@
         "tidyselect",
         "pillar"
     ],
-    "CellScore": [],
     "CellTrails": [
         "SingleCellExperiment",
         "dendextend",
