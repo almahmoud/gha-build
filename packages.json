@@ -33907,10 +33907,7 @@
         "DelayedArray",
         "vctrs"
     ],
-    "OLIN": [],
-    "OLINgui": [
-        "OLIN"
-    ],
+    "OLINgui": [],
     "omada": [
         "pdfCluster",
         "diceR",
