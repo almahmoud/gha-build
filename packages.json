@@ -358,7 +358,6 @@
         "ensembldb",
         "GenomicFeatures",
         "biomaRt",
-        "InteractionSet",
         "regioneR",
         "BiocFileCache",
         "AnnotationHub",
@@ -942,7 +941,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "Gviz",
-        "InteractionSet",
         "GenomicInteractions",
         "biomaRt",
         "VariantAnnotation",
@@ -1313,7 +1311,6 @@
         "ensembldb",
         "GenomicFeatures",
         "biomaRt",
-        "InteractionSet",
         "regioneR",
         "rtracklayer",
         "BiocFileCache",
@@ -1885,7 +1882,6 @@
         "rio",
         "BiocFileCache",
         "ensembldb",
-        "InteractionSet",
         "regioneR",
         "haven",
         "readr"
@@ -2300,7 +2296,6 @@
         "ensembldb",
         "GenomicFeatures",
         "biomaRt",
-        "InteractionSet",
         "regioneR",
         "BiocFileCache",
         "BSgenome"
@@ -2370,7 +2365,6 @@
         "BANDITS"
     ],
     "diffHic": [
-        "InteractionSet",
         "BSgenome",
         "rtracklayer"
     ],
@@ -3046,7 +3040,6 @@
         "ComplexUpset",
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
         "rtracklayer",
         "biomaRt",
         "GenomicFeatures",
@@ -3523,7 +3516,6 @@
         "BiocFileCache"
     ],
     "GenomicInteractions": [
-        "InteractionSet",
         "rtracklayer",
         "Gviz",
         "biomaRt",
@@ -3895,7 +3887,6 @@
         "rtracklayer",
         "ensembldb",
         "biomaRt",
-        "InteractionSet",
         "regioneR",
         "keras",
         "haven",
@@ -3987,11 +3978,8 @@
     "HiCBricks": [
         "readr"
     ],
-    "HiCcompare": [
-        "InteractionSet"
-    ],
+    "HiCcompare": [],
     "HiCDCPlus": [
-        "InteractionSet",
         "GenomicInteractions",
         "BSgenome",
         "rtracklayer",
@@ -4005,7 +3993,6 @@
         "VariantAnnotation"
     ],
     "HiCDOC": [
-        "InteractionSet",
         "ggpubr",
         "ggExtra",
         "multiHiCcompare",
@@ -4021,7 +4008,6 @@
     ],
     "HiContacts": [
         "HiContactsData",
-        "InteractionSet",
         "GenomicInteractions",
         "ggrastr",
         "rtracklayer",
@@ -4259,7 +4245,6 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "InteractionSet": [],
     "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category",
@@ -5819,8 +5804,7 @@
         "metap"
     ],
     "multiHiCcompare": [
-        "HiCcompare",
-        "InteractionSet"
+        "HiCcompare"
     ],
     "multiSight": [
         "anyLib",
@@ -5958,7 +5942,6 @@
         "motifStack",
         "GenomicFeatures",
         "Gviz",
-        "InteractionSet",
         "ensembldb",
         "biomaRt",
         "regioneR",
@@ -6154,7 +6137,6 @@
         "ShortRead"
     ],
     "nullranges": [
-        "InteractionSet",
         "plyranges",
         "rtracklayer"
     ],
@@ -7297,7 +7279,6 @@
         "ensembldb",
         "GenomicFeatures",
         "biomaRt",
-        "InteractionSet",
         "regioneR",
         "BiocFileCache"
     ],
@@ -8256,7 +8237,6 @@
         "genefilter"
     ],
     "sevenC": [
-        "InteractionSet",
         "rtracklayer",
         "readr"
     ],
@@ -8635,7 +8615,6 @@
         "TFBSTools",
         "rtracklayer",
         "biomaRt",
-        "InteractionSet",
         "Gviz",
         "CNEr",
         "BiocFileCache",
@@ -8649,8 +8628,7 @@
         "fields"
     ],
     "SpectralTAD": [
-        "HiCcompare",
-        "InteractionSet"
+        "HiCcompare"
     ],
     "SPIAT": [
         "SpatialExperiment",
@@ -8986,7 +8964,6 @@
         "HiCcompare",
         "ggpubr",
         "rstatix",
-        "InteractionSet",
         "broom",
         "car",
         "pbkrtest",
@@ -9265,7 +9242,6 @@
         "GenomicFeatures",
         "Gviz",
         "rtracklayer",
-        "InteractionSet",
         "biomaRt",
         "ensembldb",
         "BSgenome",
@@ -9626,7 +9602,6 @@
         "ensembldb",
         "GenomicFeatures",
         "biomaRt",
-        "InteractionSet",
         "regioneR",
         "rtracklayer",
         "geneplotter",
