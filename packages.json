@@ -6210,7 +6210,6 @@
         "dplyr",
         "tidyselect"
     ],
-    "CORREP": [],
     "coseq": [
         "SummarizedExperiment",
         "DESeq2",
