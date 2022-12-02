@@ -53,7 +53,6 @@
         "lmerTest",
         "treeio"
     ],
-    "animalcules": [],
     "AnnotationHubData": [
         "GenomicFeatures",
         "OrganismDbi"
