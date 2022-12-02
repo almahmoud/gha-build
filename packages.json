@@ -273,9 +273,7 @@
         "OrganismDbi",
         "ensembldb"
     ],
-    "canceR": [
-        "phenoTest"
-    ],
+    "canceR": [],
     "CancerInSilico": [],
     "cardelino": [
         "ggtree",
@@ -2077,7 +2075,6 @@
     "phenomis": [
         "biodbChebi"
     ],
-    "phenoTest": [],
     "PhenStat": [
         "car",
         "logistf",
