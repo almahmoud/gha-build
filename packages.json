@@ -26992,7 +26992,6 @@
         "Biobase"
     ],
     "gep2pep": [
-        "repo",
         "foreach",
         "GSEABase",
         "Biobase",
@@ -80813,7 +80812,6 @@
         "jquerylib",
         "memoise"
     ],
-    "repo": [],
     "ggalt": [
         "ggplot2",
         "dplyr",
