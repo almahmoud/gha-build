@@ -38284,7 +38284,6 @@
         "rematch2"
     ],
     "lfa": [],
-    "limmaGUI": [],
     "LineagePulse": [
         "BiocParallel",
         "circlize",
