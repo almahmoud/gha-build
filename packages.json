@@ -319,7 +319,6 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
     ],
-    "epivizrStandalone": [],
     "erma": [],
     "esATAC": [
         "ChIPseeker",
@@ -582,9 +581,7 @@
     "MetaPhOR": [
         "clusterProfiler"
     ],
-    "metavizr": [
-        "epivizrStandalone"
-    ],
+    "metavizr": [],
     "MethReg": [
         "ggpubr",
         "rstatix",
