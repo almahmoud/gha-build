@@ -450,7 +450,6 @@
         "rstatix",
         "car"
     ],
-    "gmapR": [],
     "goSorensen": [
         "clusterProfiler"
     ],
@@ -473,9 +472,7 @@
         "GenomicInteractions",
         "Gviz"
     ],
-    "HTSeqGenie": [
-        "gmapR"
-    ],
+    "HTSeqGenie": [],
     "iCheck": [
         "lumi",
         "methylumi"
