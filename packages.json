@@ -458,7 +458,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fcScan": [],
     "ffpe": [
         "lumi",
         "methylumi",
