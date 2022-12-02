@@ -8221,9 +8221,7 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "GraphPAC": [
-        "iPAC"
-    ],
+    "GraphPAC": [],
     "GRENITS": [
         "ggplot2"
     ],
@@ -9240,7 +9238,6 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "iPAC": [],
     "iPath": [
         "ggpubr",
         "ggplot2",
@@ -15323,7 +15320,6 @@
         "dbplyr"
     ],
     "QuartPAC": [
-        "iPAC",
         "GraphPAC",
         "SpacePAC"
     ],
@@ -18540,9 +18536,7 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "SpacePAC": [
-        "iPAC"
-    ],
+    "SpacePAC": [],
     "Spaniel": [
         "Seurat",
         "SingleCellExperiment",
