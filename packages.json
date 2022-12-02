@@ -1972,7 +1972,6 @@
         "ggtree",
         "treeio"
     ],
-    "meshr": [],
     "Metab": [],
     "metabCombiner": [],
     "MetaboAnnotation": [
@@ -3286,7 +3285,6 @@
         "ensembldb"
     ],
     "scTensor": [
-        "meshr",
         "GOstats",
         "ReactomePA",
         "DOSE",
