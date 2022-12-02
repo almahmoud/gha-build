@@ -11720,7 +11720,6 @@
     ],
     "MsBackendMassbank": [],
     "MsBackendMgf": [],
-    "MsBackendMsp": [],
     "MsExperiment": [
         "SummarizedExperiment",
         "QFeatures",
