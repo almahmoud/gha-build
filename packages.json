@@ -4271,9 +4271,7 @@
     "KEGGlincs": [
         "hgu133a.db"
     ],
-    "keggorthology": [
-        "hgu95av2.db"
-    ],
+    "keggorthology": [],
     "KinSwingR": [],
     "kissDE": [
         "DESeq2",
@@ -9950,7 +9948,6 @@
     "pd.mapping50k.xba240": [
         "oligo"
     ],
-    "hgu95av2.db": [],
     "reldist": [
         "densEstBayes"
     ],
