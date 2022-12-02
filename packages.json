@@ -251,7 +251,6 @@
         "nlme",
         "Matrix",
         "later",
-        "fs",
         "rappdirs",
         "farver",
         "labeling",
@@ -592,7 +591,6 @@
         "nlme",
         "Matrix",
         "utf8",
-        "fs",
         "broom",
         "corrplot",
         "car",
@@ -744,7 +742,6 @@
         "sass",
         "RCurl",
         "GenomeInfoDbData",
-        "fs",
         "zlibbioc"
     ],
     "ADImpute": [
@@ -1649,7 +1646,6 @@
         "cpp11",
         "lattice",
         "colorspace",
-        "fs",
         "rappdirs"
     ],
     "AllelicImbalance": [
@@ -1950,7 +1946,6 @@
         "reshape2",
         "mixOmics",
         "matrixStats",
-        "fs",
         "rmarkdown",
         "speaq",
         "htmltools",
@@ -2197,7 +2192,6 @@
         "GenomeInfoDbData",
         "shiny",
         "prettyunits",
-        "fs",
         "zlibbioc",
         "Biostrings",
         "httpuv",
@@ -2293,7 +2287,6 @@
         "deldir",
         "RcppEigen",
         "colorspace",
-        "fs",
         "rappdirs",
         "MatrixGenerics",
         "DelayedArray"
@@ -2555,7 +2548,6 @@
         "highr",
         "xfun",
         "askpass",
-        "fs",
         "hms",
         "prettyunits",
         "plyr",
@@ -2822,7 +2814,6 @@
         "nnet",
         "prodlim",
         "timechange",
-        "fs",
         "clue",
         "zlibbioc",
         "Biostrings",
@@ -3117,7 +3108,6 @@
         "base64enc",
         "RCurl",
         "GenomeInfoDbData",
-        "fs",
         "zlibbioc"
     ],
     "AnnotationHubData": [
@@ -3231,8 +3221,7 @@
         "lazyeval",
         "base64enc",
         "lattice",
-        "matrixStats",
-        "fs"
+        "matrixStats"
     ],
     "annotationTools": [
         "Biobase",
@@ -3358,8 +3347,7 @@
         "lazyeval",
         "lambda.r",
         "futile.options",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "anota": [
         "qvalue",
@@ -3539,7 +3527,6 @@
         "Rcpp",
         "askpass",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "AnVILBilling": [
@@ -3604,7 +3591,6 @@
         "ellipsis",
         "sass",
         "memoise",
-        "fs",
         "rappdirs",
         "rstudioapi",
         "yaml",
@@ -3692,7 +3678,6 @@
         "Rcpp",
         "utf8",
         "prettyunits",
-        "fs",
         "rappdirs"
     ],
     "APAlyzer": [
@@ -4029,7 +4014,6 @@
         "plogr",
         "tensor",
         "zlibbioc",
-        "fs",
         "stringi"
     ],
     "appreci8R": [
@@ -4168,7 +4152,6 @@
         "hms",
         "prettyunits",
         "rjson",
-        "fs",
         "triebeard",
         "utf8"
     ],
@@ -4731,7 +4714,6 @@
         "waldo",
         "zlibbioc",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -4999,7 +4981,6 @@
         "rprojroot",
         "highr",
         "xfun",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -5148,7 +5129,6 @@
         "checkmate",
         "rstudioapi",
         "askpass",
-        "fs",
         "backports"
     ],
     "AssessORF": [
@@ -5470,7 +5450,6 @@
         "vroom",
         "tzdb",
         "callr",
-        "fs",
         "knitr",
         "rmarkdown",
         "plyr",
@@ -5673,8 +5652,7 @@
         "sourcetools",
         "later",
         "bslib",
-        "sass",
-        "fs"
+        "sass"
     ],
     "ATACseqTFEA": [
         "BiocGenerics",
@@ -5882,8 +5860,7 @@
         "sass",
         "lazyeval",
         "digest",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "atSNP": [
         "BSgenome",
@@ -5961,7 +5938,6 @@
         "openssl",
         "nlme",
         "Matrix",
-        "fs",
         "zlibbioc",
         "Rhtslib",
         "bit64",
@@ -6140,7 +6116,6 @@
         "bit64",
         "blob",
         "plogr",
-        "fs",
         "rappdirs",
         "zlibbioc",
         "vctrs",
@@ -6374,7 +6349,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -6919,7 +6893,6 @@
         "askpass",
         "bit64",
         "plogr",
-        "fs",
         "lava",
         "future.apply",
         "numDeriv",
@@ -7057,7 +7030,6 @@
         "matrixStats",
         "nlme",
         "utf8",
-        "fs",
         "rappdirs",
         "zlibbioc"
     ],
@@ -7154,7 +7126,6 @@
         "deldir",
         "RcppEigen",
         "colorspace",
-        "fs",
         "rappdirs",
         "MatrixGenerics",
         "DelayedArray",
@@ -7310,7 +7281,6 @@
         "colorspace",
         "utf8",
         "zlibbioc",
-        "fs",
         "rappdirs"
     ],
     "BASiCStan": [
@@ -7440,7 +7410,6 @@
         "yaml",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "BasicSTARRseq": [
@@ -7651,7 +7620,6 @@
         "curl",
         "openssl",
         "utf8",
-        "fs",
         "rappdirs",
         "foreach",
         "iterators",
@@ -8532,7 +8500,6 @@
         "askpass",
         "utf8",
         "desc",
-        "fs",
         "RcppGSL",
         "cellranger",
         "Rhdf5lib",
@@ -9077,7 +9044,6 @@
         "xfun",
         "colorspace",
         "askpass",
-        "fs",
         "rappdirs",
         "zlibbioc"
     ],
@@ -9492,7 +9458,6 @@
         "farver",
         "labeling",
         "munsell",
-        "fs",
         "gridExtra",
         "ggfun",
         "ggplotify",
@@ -9650,7 +9615,6 @@
         "cli",
         "lattice",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "BiocFileCache": [
@@ -9875,7 +9839,6 @@
         "memoise",
         "lazyeval",
         "iterators",
-        "fs",
         "rstudioapi",
         "GenomeInfoDbData",
         "rhdf5",
@@ -10194,13 +10157,11 @@
         "fastmap",
         "magrittr",
         "stringi",
-        "fs",
         "R6",
         "rappdirs"
     ],
     "biocthis": [
         "BiocManager",
-        "fs",
         "rlang",
         "styler",
         "usethis",
@@ -10279,7 +10240,6 @@
         "clipr",
         "crayon",
         "desc",
-        "fs",
         "gert",
         "gh",
         "lifecycle",
@@ -10357,7 +10317,6 @@
         "generics",
         "mime",
         "cachem",
-        "fs",
         "diffobj",
         "rematch2",
         "fastmap",
@@ -10420,7 +10379,6 @@
         "generics",
         "mime",
         "cachem",
-        "fs",
         "diffobj",
         "rematch2",
         "fastmap",
@@ -10483,7 +10441,6 @@
         "generics",
         "mime",
         "cachem",
-        "fs",
         "diffobj",
         "rematch2",
         "fastmap",
@@ -10530,7 +10487,6 @@
         "rprojroot",
         "askpass",
         "crayon",
-        "fs",
         "hms",
         "prettyunits",
         "bit64",
@@ -10609,7 +10565,6 @@
         "generics",
         "mime",
         "cachem",
-        "fs",
         "diffobj",
         "rematch2",
         "fastmap",
@@ -10672,7 +10627,6 @@
         "generics",
         "mime",
         "cachem",
-        "fs",
         "diffobj",
         "rematch2",
         "fastmap",
@@ -10735,7 +10689,6 @@
         "generics",
         "mime",
         "cachem",
-        "fs",
         "diffobj",
         "rematch2",
         "fastmap",
@@ -10798,7 +10751,6 @@
         "generics",
         "mime",
         "cachem",
-        "fs",
         "diffobj",
         "rematch2",
         "fastmap",
@@ -10845,7 +10797,6 @@
         "rprojroot",
         "askpass",
         "crayon",
-        "fs",
         "hms",
         "prettyunits",
         "bit64",
@@ -10924,7 +10875,6 @@
         "generics",
         "mime",
         "cachem",
-        "fs",
         "diffobj",
         "rematch2",
         "fastmap",
@@ -11402,8 +11352,7 @@
         "ellipsis",
         "zlibbioc",
         "sass",
-        "lazyeval",
-        "fs"
+        "lazyeval"
     ],
     "BioNERO": [
         "WGCNA",
@@ -11704,7 +11653,6 @@
         "bit64",
         "blob",
         "plogr",
-        "fs",
         "rappdirs",
         "GenomeInfoDbData",
         "askpass",
@@ -12249,8 +12197,7 @@
         "stringi",
         "sass",
         "lazyeval",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "BiSeq": [
         "S4Vectors",
@@ -12663,7 +12610,6 @@
         "crayon",
         "lattice",
         "nlme",
-        "fs",
         "farver",
         "labeling",
         "munsell",
@@ -12919,7 +12865,6 @@
         "futile.options",
         "gdata",
         "deldir",
-        "fs",
         "R6",
         "rappdirs",
         "farver",
@@ -13253,7 +13198,6 @@
         "colorspace",
         "utf8",
         "stringi",
-        "fs",
         "rappdirs"
     ],
     "BRAIN": [
@@ -13437,8 +13381,7 @@
         "sourcetools",
         "later",
         "bslib",
-        "sass",
-        "fs"
+        "sass"
     ],
     "BrainSABER": [
         "biomaRt",
@@ -13517,7 +13460,6 @@
         "Biostrings",
         "askpass",
         "utf8",
-        "fs",
         "zlibbioc"
     ],
     "branchpointer": [
@@ -14090,7 +14032,6 @@
         "hms",
         "prettyunits",
         "rjson",
-        "fs",
         "assertthat",
         "purrr",
         "ellipsis",
@@ -14158,7 +14099,6 @@
         "cli",
         "desc",
         "ellipsis",
-        "fs",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -15566,7 +15506,6 @@
         "bit64",
         "progress",
         "prettyunits",
-        "fs",
         "rappdirs"
     ],
     "casper": [
@@ -15828,7 +15767,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -15903,7 +15841,6 @@
         "AnnotationForge",
         "Rgraphviz",
         "RJSONIO",
-        "fs",
         "uuid",
         "uchardet",
         "RCurl",
@@ -16082,7 +16019,6 @@
         "BiocParallel",
         "rjson",
         "Rhtslib",
-        "fs",
         "snow",
         "BH"
     ],
@@ -16279,7 +16215,6 @@
         "BiocParallel",
         "rjson",
         "Rhtslib",
-        "fs",
         "snow",
         "BH"
     ],
@@ -16353,7 +16288,6 @@
         "utf8",
         "prettyunits",
         "stringr",
-        "fs",
         "stringi"
     ],
     "ccfindR": [
@@ -17143,8 +17077,7 @@
         "textshaping",
         "plyr",
         "tensor",
-        "zlibbioc",
-        "fs"
+        "zlibbioc"
     ],
     "cellity": [
         "AnnotationDbi",
@@ -17343,7 +17276,6 @@
         "cpp11",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -17492,7 +17424,6 @@
         "pillar",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "cellscape": [
@@ -17696,7 +17627,6 @@
         "cli",
         "askpass",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "CEMiTool": [
@@ -17851,7 +17781,6 @@
         "bit64",
         "blob",
         "plogr",
-        "fs",
         "rappdirs",
         "XVector",
         "GenomeInfoDb",
@@ -18002,7 +17931,6 @@
         "waldo",
         "zlibbioc",
         "rprojroot",
-        "fs",
         "corrplot",
         "car",
         "farver",
@@ -18248,7 +18176,6 @@
         "RJSONIO",
         "XML",
         "graph",
-        "fs",
         "uuid",
         "uchardet",
         "RCurl",
@@ -18827,7 +18754,6 @@
         "blob",
         "plogr",
         "restfulr",
-        "fs",
         "assertthat",
         "prettyunits",
         "rjson"
@@ -18974,7 +18900,6 @@
         "colorspace",
         "askpass",
         "utf8",
-        "fs",
         "rappdirs",
         "zlibbioc"
     ],
@@ -19270,7 +19195,6 @@
         "hms",
         "prettyunits",
         "rjson",
-        "fs",
         "farver",
         "labeling",
         "munsell",
@@ -19621,7 +19545,6 @@
         "Rcpp",
         "plogr",
         "restfulr",
-        "fs",
         "dbplyr",
         "mime",
         "openssl",
@@ -20389,7 +20312,6 @@
         "qualV",
         "stringdist",
         "stringr",
-        "fs",
         "qs",
         "DT",
         "scran",
@@ -20828,7 +20750,6 @@
         "plyr",
         "stringr",
         "rjson",
-        "fs",
         "rappdirs",
         "stringi",
         "progress",
@@ -21299,8 +21220,7 @@
         "bslib",
         "sass",
         "lazyeval",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "CircSeqAlignTk": [
         "S4Vectors",
@@ -22682,7 +22602,6 @@
         "pillar",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "CNORfeeder": [
@@ -22739,7 +22658,6 @@
         "pillar",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "CNORfuzzy": [
@@ -22801,7 +22719,6 @@
         "lattice",
         "nlme",
         "crayon",
-        "fs",
         "farver",
         "labeling",
         "munsell",
@@ -22869,7 +22786,6 @@
         "pillar",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "CNTools": [
@@ -23226,7 +23142,6 @@
         "bit64",
         "blob",
         "plogr",
-        "fs",
         "dbplyr",
         "lambda.r",
         "futile.options",
@@ -23340,7 +23255,6 @@
         "bslib",
         "cachem",
         "ellipsis",
-        "fs",
         "digest",
         "magrittr",
         "brio",
@@ -23834,7 +23748,6 @@
         "bit64",
         "blob",
         "plogr",
-        "fs",
         "rappdirs",
         "farver",
         "labeling",
@@ -23905,7 +23818,6 @@
         "cli",
         "desc",
         "ellipsis",
-        "fs",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -24157,7 +24069,6 @@
         "prettyunits",
         "rjson",
         "Rhtslib",
-        "fs",
         "futile.logger",
         "snow",
         "BH",
@@ -24717,7 +24628,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "MatrixGenerics",
         "DelayedArray",
         "diffobj",
@@ -24857,7 +24767,6 @@
         "utf8",
         "stringi",
         "withr",
-        "fs",
         "rappdirs"
     ],
     "compcodeR": [
@@ -25133,7 +25042,6 @@
         "memoise",
         "plogr",
         "BiocParallel",
-        "fs",
         "futile.logger",
         "snow",
         "cpp11",
@@ -25250,7 +25158,6 @@
         "clipr",
         "vroom",
         "tzdb",
-        "fs",
         "rappdirs",
         "bit64"
     ],
@@ -25491,7 +25398,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -26648,7 +26554,6 @@
         "Rcpp",
         "cli",
         "lattice",
-        "fs",
         "rappdirs"
     ],
     "CoreGx": [
@@ -26752,7 +26657,6 @@
         "colorspace",
         "zlibbioc",
         "nlme",
-        "fs",
         "rappdirs"
     ],
     "Cormotif": [
@@ -27092,7 +26996,6 @@
         "XVector",
         "GenomeInfoDb",
         "askpass",
-        "fs",
         "rappdirs",
         "nlme",
         "RCurl",
@@ -27263,7 +27166,6 @@
         "bit64",
         "blob",
         "plogr",
-        "fs",
         "rappdirs",
         "zlibbioc",
         "crayon",
@@ -27763,8 +27665,7 @@
         "bslib",
         "sass",
         "lazyeval",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "crisprScore": [
         "crisprScoreData",
@@ -27849,8 +27750,7 @@
         "sass",
         "lazyeval",
         "digest",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "CRISPRseek": [
         "BiocGenerics",
@@ -28076,7 +27976,6 @@
         "prettyunits",
         "cellranger",
         "rjson",
-        "fs",
         "farver",
         "labeling",
         "munsell",
@@ -28335,8 +28234,7 @@
         "evaluate",
         "highr",
         "xfun",
-        "nlme",
-        "fs"
+        "nlme"
     ],
     "crisprViz": [
         "crisprBase",
@@ -28498,8 +28396,7 @@
         "sourcetools",
         "later",
         "bslib",
-        "sass",
-        "fs"
+        "sass"
     ],
     "crlmm": [
         "oligoClasses",
@@ -28665,7 +28562,6 @@
         "clipr",
         "vroom",
         "tzdb",
-        "fs",
         "rappdirs",
         "purrr",
         "iterators",
@@ -29097,7 +28993,6 @@
         "GenomeInfoDb",
         "lambda.r",
         "futile.options",
-        "fs",
         "RCurl",
         "GenomeInfoDbData",
         "zlibbioc"
@@ -29159,7 +29054,6 @@
         "lattice",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "CTSV": [
@@ -29484,7 +29378,6 @@
         "lattice",
         "colorspace",
         "GenomeInfoDbData",
-        "fs",
         "zlibbioc"
     ],
     "customProDB": [
@@ -29708,7 +29601,6 @@
         "waldo",
         "gridExtra",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -29792,7 +29684,6 @@
         "lattice",
         "magrittr",
         "nlme",
-        "fs",
         "rappdirs",
         "farver",
         "labeling",
@@ -30009,7 +29900,6 @@
         "ipred",
         "lubridate",
         "timeDate",
-        "fs",
         "rappdirs",
         "zlibbioc",
         "carData",
@@ -30196,7 +30086,6 @@
         "progressr",
         "SQUAREM",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "future",
@@ -30394,7 +30283,6 @@
         "R.methodsS3",
         "bit64",
         "plogr",
-        "fs",
         "zlibbioc",
         "askpass"
     ],
@@ -31002,7 +30890,6 @@
         "future.apply",
         "progressr",
         "SQUAREM",
-        "fs",
         "diffobj",
         "rematch2",
         "future",
@@ -31174,7 +31061,6 @@
         "rstatix",
         "Rcpp",
         "xfun",
-        "fs",
         "cmdfun",
         "GenomicAlignments",
         "Rsamtools",
@@ -31446,7 +31332,6 @@
         "tzdb",
         "progress",
         "callr",
-        "fs",
         "knitr",
         "rmarkdown",
         "selectr",
@@ -31644,7 +31529,6 @@
         "gridExtra",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -31974,7 +31858,6 @@
         "gridGraphics",
         "askpass",
         "utf8",
-        "fs",
         "rappdirs",
         "foreach",
         "iterators",
@@ -32103,7 +31986,6 @@
         "utf8",
         "zlibbioc",
         "askpass",
-        "fs",
         "rappdirs"
     ],
     "DEComplexDisease": [
@@ -32474,7 +32356,6 @@
         "waldo",
         "rprojroot",
         "colorspace",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -33013,7 +32894,6 @@
         "pcaPP",
         "httr",
         "RJSONIO",
-        "fs",
         "uuid",
         "uchardet",
         "base64url",
@@ -33494,7 +33374,6 @@
         "utf8",
         "R.oo",
         "R.methodsS3",
-        "fs",
         "rappdirs",
         "zlibbioc",
         "curl",
@@ -33689,7 +33568,6 @@
         "futile.options",
         "sandwich",
         "prettyunits",
-        "fs",
         "rappdirs",
         "zoo"
     ],
@@ -34414,7 +34292,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -34507,7 +34384,6 @@
         "GenomeInfoDbData",
         "utf8",
         "crayon",
-        "fs",
         "plyr",
         "stringr",
         "diffobj",
@@ -35215,7 +35091,6 @@
         "pbkrtest",
         "quantreg",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2",
         "numDeriv",
@@ -35690,7 +35565,6 @@
         "stringr",
         "tensor",
         "zlibbioc",
-        "fs",
         "stringi"
     ],
     "dir.expiry": [],
@@ -35860,7 +35734,6 @@
         "callr",
         "processx",
         "askpass",
-        "fs",
         "rappdirs",
         "foreach",
         "zlibbioc",
@@ -36121,7 +35994,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -36391,8 +36263,7 @@
         "backports",
         "evaluate",
         "highr",
-        "xfun",
-        "fs"
+        "xfun"
     ],
     "DMRforPairs": [
         "Gviz",
@@ -36681,8 +36552,7 @@
         "sass",
         "lazyeval",
         "base64enc",
-        "prettyunits",
-        "fs"
+        "prettyunits"
     ],
     "DNABarcodeCompatibility": [
         "dplyr",
@@ -37053,7 +36923,6 @@
         "SparseM",
         "MatrixModels",
         "zoo",
-        "fs",
         "rappdirs",
         "backports",
         "generics",
@@ -37201,7 +37070,6 @@
         "zlibbioc",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "tibble",
@@ -37950,7 +37818,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -38105,7 +37972,6 @@
         "cli",
         "magrittr",
         "stringi",
-        "fs",
         "rappdirs"
     ],
     "easyRNASeq": [
@@ -38333,7 +38199,6 @@
         "rprojroot",
         "lattice",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "tibble",
@@ -38370,7 +38235,6 @@
         "rprojroot",
         "lattice",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "tibble",
@@ -38568,7 +38432,6 @@
         "rprojroot",
         "cachem",
         "askpass",
-        "fs",
         "diffobj",
         "rematch2",
         "fastmap",
@@ -39177,7 +39040,6 @@
         "deldir",
         "RcppEigen",
         "askpass",
-        "fs",
         "lambda.r",
         "futile.options",
         "checkmate",
@@ -39531,7 +39393,6 @@
         "prettyunits",
         "rjson",
         "Rhtslib",
-        "fs",
         "stringi"
     ],
     "EnrichedHeatmap": [
@@ -39909,7 +39770,6 @@
         "hms",
         "vroom",
         "tzdb",
-        "fs",
         "rappdirs",
         "tweenr",
         "polyclip",
@@ -40274,7 +40134,6 @@
         "colorspace",
         "askpass",
         "utf8",
-        "fs",
         "httpuv",
         "xtable",
         "fontawesome",
@@ -40401,7 +40260,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -40626,7 +40484,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -40912,8 +40769,7 @@
         "lazyeval",
         "base64enc",
         "lambda.r",
-        "futile.options",
-        "fs"
+        "futile.options"
     ],
     "epimutacions": [
         "epimutacionsData",
@@ -41112,8 +40968,7 @@
         "backports",
         "evaluate",
         "highr",
-        "xfun",
-        "fs"
+        "xfun"
     ],
     "epiNEM": [
         "BoolNet",
@@ -41236,7 +41091,6 @@
         "base64url",
         "checkmate",
         "digest",
-        "fs",
         "progress",
         "R6",
         "rappdirs",
@@ -41962,7 +41816,6 @@
         "openssl",
         "colorspace",
         "utf8",
-        "fs",
         "dbplyr",
         "dplyr",
         "askpass",
@@ -42227,7 +42080,6 @@
         "clipr",
         "vroom",
         "tzdb",
-        "fs",
         "assertthat",
         "tweenr",
         "polyclip",
@@ -42513,7 +42365,6 @@
         "zlibbioc",
         "askpass",
         "ps",
-        "fs",
         "rappdirs"
     ],
     "EventPointer": [
@@ -42820,7 +42671,6 @@
         "highr",
         "xfun",
         "testthat",
-        "fs",
         "brio",
         "callr",
         "desc",
@@ -43074,7 +42924,6 @@
         "base64enc",
         "RCurl",
         "GenomeInfoDbData",
-        "fs",
         "zlibbioc"
     ],
     "ExperimentHubData": [
@@ -43190,8 +43039,7 @@
         "lazyeval",
         "base64enc",
         "lattice",
-        "matrixStats",
-        "fs"
+        "matrixStats"
     ],
     "ExperimentSubset": [
         "SummarizedExperiment",
@@ -43347,7 +43195,6 @@
         "colorspace",
         "utf8",
         "lattice",
-        "fs",
         "rappdirs"
     ],
     "ExpressionAtlas": [
@@ -43400,7 +43247,6 @@
         "magrittr",
         "stringi",
         "zlibbioc",
-        "fs",
         "rappdirs"
     ],
     "extraChIPs": [
@@ -43866,7 +43712,6 @@
         "bit64",
         "blob",
         "plogr",
-        "fs",
         "rappdirs",
         "zlibbioc",
         "lambda.r",
@@ -44058,7 +43903,6 @@
         "futile.options",
         "deldir",
         "RcppEigen",
-        "fs",
         "rappdirs",
         "MatrixGenerics",
         "Matrix",
@@ -44586,7 +44430,6 @@
         "zlibbioc",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "fedup": [
@@ -44624,7 +44467,6 @@
         "XML",
         "BiocGenerics",
         "graph",
-        "fs",
         "uuid",
         "uchardet",
         "RCurl",
@@ -45524,7 +45366,6 @@
         "pillar",
         "lattice",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "flowBeads": [
@@ -45662,7 +45503,6 @@
         "colorspace",
         "askpass",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "flowCHIC": [
@@ -45888,7 +45728,6 @@
         "gridExtra",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -46018,7 +45857,6 @@
         "gridExtra",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -46296,7 +46134,6 @@
         "pillar",
         "colorspace",
         "testthat",
-        "fs",
         "rappdirs",
         "gtable",
         "isoband",
@@ -46414,7 +46251,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -47211,7 +47047,6 @@
         "cpp11",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -47381,7 +47216,6 @@
         "hdrcde",
         "colorspace",
         "ks",
-        "fs",
         "rappdirs",
         "locfit",
         "ash",
@@ -47656,7 +47490,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -47838,7 +47671,6 @@
         "hms",
         "prettyunits",
         "rjson",
-        "fs",
         "Matrix",
         "DelayedArray",
         "futile.logger",
@@ -48090,7 +47922,6 @@
         "rgl",
         "colorspace",
         "utf8",
-        "fs",
         "hms",
         "prettyunits",
         "dplyr",
@@ -48339,7 +48170,6 @@
         "stringi",
         "pillar",
         "utf8",
-        "fs",
         "rappdirs",
         "zlibbioc"
     ],
@@ -48373,7 +48203,6 @@
         "cli",
         "desc",
         "ellipsis",
-        "fs",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -48651,7 +48480,6 @@
         "plogr",
         "corrplot",
         "car",
-        "fs",
         "zlibbioc",
         "carData",
         "abind",
@@ -49028,7 +48856,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -49412,7 +49239,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -49940,7 +49766,6 @@
         "bit64",
         "blob",
         "plogr",
-        "fs",
         "rappdirs",
         "stringi",
         "XML",
@@ -50043,7 +49868,6 @@
         "futile.options",
         "matrixStats",
         "askpass",
-        "fs",
         "rappdirs"
     ],
     "GENIE3": [
@@ -50980,8 +50804,7 @@
         "sass",
         "lazyeval",
         "digest",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "GenomicSuperSignature": [
         "SummarizedExperiment",
@@ -51114,7 +50937,6 @@
         "SparseM",
         "MatrixModels",
         "survival",
-        "fs",
         "testthat",
         "brio",
         "callr",
@@ -51553,7 +51375,6 @@
         "isoband",
         "mgcv",
         "numDeriv",
-        "fs",
         "cellranger",
         "cpp11",
         "mvtnorm",
@@ -51732,7 +51553,6 @@
         "prettyunits",
         "broom",
         "corrplot",
-        "fs",
         "foreach",
         "bit64",
         "backports",
@@ -51929,7 +51749,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -52217,7 +52036,6 @@
         "cpp11",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -52974,7 +52792,6 @@
         "xfun",
         "nlme",
         "askpass",
-        "fs",
         "rappdirs",
         "farver",
         "labeling",
@@ -53297,7 +53114,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -53612,7 +53428,6 @@
         "jpeg",
         "RColorBrewer",
         "interp",
-        "fs",
         "rappdirs",
         "cpp11",
         "viridisLite",
@@ -54644,7 +54459,6 @@
         "pillar",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "gpls": [],
@@ -54897,7 +54711,6 @@
         "cachem",
         "memoise",
         "stringi",
-        "fs",
         "rappdirs"
     ],
     "graper": [
@@ -55196,7 +55009,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -55322,7 +55134,6 @@
         "pillar",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "gscreend": [
@@ -55381,7 +55192,6 @@
         "withr",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "tibble",
@@ -55532,8 +55342,7 @@
         "sass",
         "lazyeval",
         "digest",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "GSEAlm": [
         "Biobase",
@@ -56475,8 +56284,7 @@
         "lazyeval",
         "lambda.r",
         "futile.options",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "GWASTools": [
         "Biobase",
@@ -56938,8 +56746,7 @@
         "bit64",
         "plogr",
         "progress",
-        "prettyunits",
-        "fs"
+        "prettyunits"
     ],
     "HDF5Array": [
         "DelayedArray",
@@ -57742,7 +57549,6 @@
         "R.methodsS3",
         "Biostrings",
         "Rhtslib",
-        "fs",
         "rappdirs",
         "stringi",
         "listenv",
@@ -57926,8 +57732,7 @@
         "backports",
         "evaluate",
         "highr",
-        "xfun",
-        "fs"
+        "xfun"
     ],
     "hierGWAS": [
         "glmnet",
@@ -58178,8 +57983,7 @@
         "sass",
         "lazyeval",
         "digest",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "HIPPO": [
         "ggplot2",
@@ -58458,7 +58262,6 @@
         "cli",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "HPiP": [
@@ -58741,7 +58544,6 @@
         "biocthis",
         "dplyr",
         "aws.s3",
-        "fs",
         "BiocManager",
         "cli",
         "clisymbols",
@@ -58851,7 +58653,6 @@
         "matrixStats",
         "lazyeval",
         "yaml",
-        "fs",
         "rappdirs",
         "zlibbioc"
     ],
@@ -58973,7 +58774,6 @@
         "cpp11",
         "callr",
         "processx",
-        "fs",
         "rappdirs",
         "ps"
     ],
@@ -59574,7 +59374,6 @@
         "utf8",
         "stringi",
         "lattice",
-        "fs",
         "rappdirs"
     ],
     "ideal": [
@@ -59753,7 +59552,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "fs",
         "ps",
         "rjson",
         "Rhtslib"
@@ -60406,7 +60204,6 @@
         "assertthat",
         "rprojroot",
         "askpass",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -60574,8 +60371,7 @@
         "R.methodsS3",
         "plogr",
         "zlibbioc",
-        "askpass",
-        "fs"
+        "askpass"
     ],
     "IMMAN": [
         "STRINGdb",
@@ -60729,7 +60525,6 @@
         "processx",
         "lattice",
         "utf8",
-        "fs",
         "rappdirs",
         "foreach",
         "iterators",
@@ -60815,7 +60610,6 @@
         "cli",
         "desc",
         "ellipsis",
-        "fs",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -61063,8 +60857,7 @@
         "colorspace",
         "askpass",
         "tensor",
-        "zlibbioc",
-        "fs"
+        "zlibbioc"
     ],
     "infinityFlow": [
         "flowCore",
@@ -61130,7 +60923,6 @@
         "base64url",
         "checkmate",
         "digest",
-        "fs",
         "progress",
         "R6",
         "rappdirs",
@@ -61334,7 +61126,6 @@
         "nlme",
         "hms",
         "prettyunits",
-        "fs",
         "farver",
         "labeling",
         "munsell",
@@ -61464,7 +61255,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -61711,7 +61501,6 @@
         "processx",
         "curl",
         "openssl",
-        "fs",
         "rappdirs",
         "pillar",
         "vctrs",
@@ -61803,7 +61592,6 @@
         "openssl",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs",
         "RCurl",
         "GenomeInfoDbData",
@@ -61844,7 +61632,6 @@
         "yaml",
         "Rcpp",
         "cli",
-        "fs",
         "rappdirs"
     ],
     "InterCellar": [
@@ -61855,7 +61642,6 @@
         "shinydashboard",
         "shinyFiles",
         "shinycssloaders",
-        "fs",
         "dplyr",
         "tidyr",
         "circlize",
@@ -62426,7 +62212,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -62500,8 +62285,7 @@
         "sass",
         "lazyeval",
         "digest",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "IPO": [
         "xcms",
@@ -62872,7 +62656,6 @@
         "nloptr",
         "SparseM",
         "MatrixModels",
-        "fs",
         "testthat",
         "brio",
         "callr",
@@ -62894,7 +62677,6 @@
         "rlang",
         "tibble",
         "stringr",
-        "fs",
         "lubridate",
         "lifecycle",
         "ggplot2",
@@ -63061,7 +62843,6 @@
         "base64enc",
         "yaml",
         "lattice",
-        "fs",
         "rappdirs",
         "farver",
         "labeling",
@@ -63160,7 +62941,6 @@
         "rjson",
         "yaml",
         "utf8",
-        "fs",
         "rappdirs",
         "zlibbioc"
     ],
@@ -63274,7 +63054,6 @@
         "Biostrings",
         "askpass",
         "utf8",
-        "fs",
         "farver",
         "labeling",
         "munsell",
@@ -63371,7 +63150,6 @@
         "iterators",
         "rjson",
         "utf8",
-        "fs",
         "rappdirs",
         "zlibbioc"
     ],
@@ -63685,8 +63463,7 @@
         "fastmap",
         "bslib",
         "sass",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "ISoLDE": [],
     "isomiRs": [
@@ -64003,7 +63780,6 @@
         "assertthat",
         "rprojroot",
         "askpass",
-        "fs",
         "MatrixGenerics",
         "DelayedArray",
         "diffobj",
@@ -64118,7 +63894,6 @@
         "utf8",
         "corrplot",
         "car",
-        "fs",
         "rappdirs",
         "stringi",
         "zlibbioc",
@@ -64761,7 +64536,6 @@
         "R.methodsS3",
         "broom",
         "corrplot",
-        "fs",
         "rappdirs",
         "stringi",
         "zlibbioc",
@@ -64934,7 +64708,6 @@
         "timechange",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs",
         "Biostrings",
         "lava",
@@ -64976,7 +64749,6 @@
         "readr",
         "configr",
         "DT",
-        "fs",
         "htmltools",
         "htmlwidgets",
         "bsplus",
@@ -65151,7 +64923,6 @@
         "nlme",
         "Matrix",
         "crayon",
-        "fs",
         "farver",
         "labeling",
         "munsell",
@@ -65300,7 +65071,6 @@
         "nlme",
         "askpass",
         "utf8",
-        "fs",
         "farver",
         "labeling",
         "munsell",
@@ -65596,7 +65366,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -66044,7 +65813,6 @@
         "fastmap",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -66408,8 +66176,7 @@
         "R.oo",
         "R.methodsS3",
         "rjson",
-        "Rhtslib",
-        "fs"
+        "Rhtslib"
     ],
     "LPE": [],
     "LPEadj": [
@@ -66547,7 +66314,6 @@
         "base64enc",
         "RCurl",
         "GenomeInfoDbData",
-        "fs",
         "zlibbioc"
     ],
     "lumi": [
@@ -67041,7 +66807,6 @@
         "numDeriv",
         "progressr",
         "SQUAREM",
-        "fs",
         "future",
         "globals",
         "listenv",
@@ -67167,7 +66932,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "cpp11",
         "diffobj",
         "rematch2"
@@ -67349,7 +67113,6 @@
         "waldo",
         "rprojroot",
         "askpass",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -67466,7 +67229,6 @@
         "colorspace",
         "askpass",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "MACSr": [
@@ -67548,7 +67310,6 @@
         "base64enc",
         "RCurl",
         "GenomeInfoDbData",
-        "fs",
         "zlibbioc"
     ],
     "made4": [
@@ -68000,8 +67761,7 @@
         "bslib",
         "zlibbioc",
         "sass",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "magrene": [
         "BiocParallel",
@@ -68120,7 +67880,6 @@
         "ipred",
         "timeDate",
         "callr",
-        "fs",
         "knitr",
         "rmarkdown",
         "selectr",
@@ -68352,7 +68111,6 @@
         "globals",
         "clipr",
         "vroom",
-        "fs",
         "rappdirs",
         "listenv",
         "parallelly",
@@ -68986,7 +68744,6 @@
         "sandwich",
         "rprojroot",
         "deldir",
-        "fs",
         "zoo"
     ],
     "MatrixRider": [
@@ -69250,7 +69007,6 @@
         "colorspace",
         "Rhdf5lib",
         "rhdf5filters",
-        "fs",
         "rappdirs",
         "brio",
         "callr",
@@ -69617,7 +69373,6 @@
         "colorspace",
         "askpass",
         "utf8",
-        "fs",
         "zlibbioc"
     ],
     "MBttest": [
@@ -70486,13 +70241,11 @@
         "waldo",
         "cpp11",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
     "megadepth": [
         "xfun",
-        "fs",
         "GenomicRanges",
         "readr",
         "cmdfun",
@@ -70624,7 +70377,6 @@
         "pillar",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "Melissa": [
@@ -70715,7 +70467,6 @@
         "utf8",
         "plotrix",
         "stringi",
-        "fs",
         "rappdirs"
     ],
     "memes": [
@@ -70770,7 +70521,6 @@
         "RcppThread",
         "curl",
         "desc",
-        "fs",
         "gert",
         "gh",
         "jsonlite",
@@ -70980,8 +70730,7 @@
         "GenomeInfoDbData",
         "base64enc",
         "colorspace",
-        "zlibbioc",
-        "fs"
+        "zlibbioc"
     ],
     "meshr": [
         "markdown",
@@ -71042,7 +70791,6 @@
         "R6",
         "png",
         "Biostrings",
-        "fs",
         "rappdirs",
         "cli",
         "lifecycle",
@@ -71356,7 +71104,6 @@
         "lazyeval",
         "igraph",
         "plotly",
-        "fs",
         "MatrixGenerics",
         "GenomicRanges",
         "Matrix",
@@ -71702,7 +71449,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -71811,7 +71557,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -72209,7 +71954,6 @@
         "XML",
         "BiocGenerics",
         "graph",
-        "fs",
         "uuid",
         "uchardet",
         "RCurl",
@@ -72571,7 +72315,6 @@
         "progressr",
         "SQUAREM",
         "nlme",
-        "fs",
         "foreach",
         "iterators",
         "future",
@@ -72849,7 +72592,6 @@
         "BiocParallel",
         "ProtGenerics",
         "IRanges",
-        "fs",
         "futile.logger",
         "snow",
         "BH",
@@ -73240,7 +72982,6 @@
         "highr",
         "xfun",
         "testthat",
-        "fs",
         "brio",
         "callr",
         "desc",
@@ -73469,7 +73210,6 @@
         "hms",
         "vroom",
         "tzdb",
-        "fs",
         "rappdirs",
         "purrr",
         "zlibbioc",
@@ -73657,7 +73397,6 @@
         "cli",
         "desc",
         "ellipsis",
-        "fs",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -74057,7 +73796,6 @@
         "base64",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs",
         "multtest",
         "scrime",
@@ -74478,7 +74216,6 @@
         "cachem",
         "ellipsis",
         "lifecycle",
-        "fs",
         "tibble",
         "digest",
         "MatrixGenerics",
@@ -74800,7 +74537,6 @@
         "cli",
         "desc",
         "ellipsis",
-        "fs",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -75727,7 +75463,6 @@
         "MatrixModels",
         "Rhdf5lib",
         "rhdf5filters",
-        "fs",
         "rappdirs",
         "farver",
         "labeling",
@@ -76024,7 +75759,6 @@
         "highr",
         "xfun",
         "askpass",
-        "fs",
         "lava",
         "hms",
         "prettyunits",
@@ -76101,7 +75835,6 @@
         "attempt",
         "crayon",
         "desc",
-        "fs",
         "here",
         "pkgload",
         "roxygen2",
@@ -76397,7 +76130,6 @@
         "zlibbioc",
         "askpass",
         "ps",
-        "fs",
         "rappdirs"
     ],
     "MIGSA": [
@@ -76696,7 +76428,6 @@
         "colorspace",
         "utf8",
         "crayon",
-        "fs",
         "SparseM",
         "MatrixModels",
         "survival",
@@ -77952,7 +77683,6 @@
         "ipred",
         "timeDate",
         "callr",
-        "fs",
         "rmarkdown",
         "corrplot",
         "car",
@@ -78182,7 +77912,6 @@
         "ipred",
         "timeDate",
         "callr",
-        "fs",
         "knitr",
         "rmarkdown",
         "bit64",
@@ -78663,7 +78392,6 @@
         "lattice",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "mitoClone2": [
@@ -78912,7 +78640,6 @@
         "bit64",
         "blob",
         "plogr",
-        "fs",
         "rappdirs",
         "zlibbioc"
     ],
@@ -79034,7 +78761,6 @@
         "GenomeInfoDbData",
         "XVector",
         "crayon",
-        "fs",
         "dplyr",
         "clock",
         "generics",
@@ -79167,7 +78893,6 @@
         "utf8",
         "rjson",
         "yaml",
-        "fs",
         "rappdirs",
         "MatrixGenerics",
         "DelayedArray"
@@ -79300,7 +79025,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -79474,7 +79198,6 @@
         "scales",
         "MASS",
         "Rcpp",
-        "fs",
         "RColorBrewer",
         "RANN",
         "MassSpecWavelet",
@@ -79728,7 +79451,6 @@
         "XML",
         "BiocGenerics",
         "graph",
-        "fs",
         "uuid",
         "uchardet",
         "RCurl",
@@ -81068,7 +80790,6 @@
         "lme4",
         "lattice",
         "prettyunits",
-        "fs",
         "rappdirs",
         "boot",
         "minqa",
@@ -81163,7 +80884,6 @@
         "MASS",
         "clue",
         "Rcpp",
-        "fs",
         "lambda.r",
         "futile.options"
     ],
@@ -81182,7 +80902,6 @@
         "clue",
         "Rcpp",
         "ProtGenerics",
-        "fs",
         "lambda.r",
         "futile.options"
     ],
@@ -81201,7 +80920,6 @@
         "clue",
         "Rcpp",
         "ProtGenerics",
-        "fs",
         "lambda.r",
         "futile.options"
     ],
@@ -81221,7 +80939,6 @@
         "clue",
         "Rcpp",
         "ProtGenerics",
-        "fs",
         "lambda.r",
         "futile.options"
     ],
@@ -81248,7 +80965,6 @@
         "igraph",
         "plotly",
         "BiocParallel",
-        "fs",
         "MatrixGenerics",
         "GenomicRanges",
         "Matrix",
@@ -81941,8 +81657,7 @@
         "sourcetools",
         "later",
         "ellipsis",
-        "lazyeval",
-        "fs"
+        "lazyeval"
     ],
     "MSPrep": [
         "SummarizedExperiment",
@@ -82080,7 +81795,6 @@
         "waldo",
         "fastmap",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -82235,7 +81949,6 @@
         "askpass",
         "utf8",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -82300,7 +82013,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -82432,7 +82144,6 @@
         "tzdb",
         "progress",
         "callr",
-        "fs",
         "knitr",
         "rmarkdown",
         "plyr",
@@ -82592,7 +82303,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -82702,7 +82412,6 @@
         "colorspace",
         "askpass",
         "stringi",
-        "fs",
         "rappdirs"
     ],
     "MSstatsQCgui": [
@@ -82809,7 +82518,6 @@
         "iterators",
         "Rhdf5lib",
         "askpass",
-        "fs",
         "rappdirs",
         "limma",
         "lambda.r",
@@ -82919,7 +82627,6 @@
         "progressr",
         "SQUAREM",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "future",
@@ -83041,7 +82748,6 @@
         "xfun",
         "colorspace",
         "testthat",
-        "fs",
         "rappdirs",
         "zlibbioc",
         "brio",
@@ -83120,7 +82826,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -83900,7 +83605,6 @@
         "cli",
         "crayon",
         "desc",
-        "fs",
         "here",
         "pkgload",
         "roxygen2",
@@ -84189,7 +83893,6 @@
         "Rhtslib",
         "RSQLite",
         "KEGGREST",
-        "fs",
         "rappdirs",
         "rstudioapi",
         "withr",
@@ -84386,7 +84089,6 @@
         "mime",
         "openssl",
         "Biostrings",
-        "fs",
         "bit64",
         "blob",
         "memoise",
@@ -84629,7 +84331,6 @@
         "tinytex",
         "broom",
         "corrplot",
-        "fs",
         "lambda.r",
         "futile.options",
         "boot",
@@ -84873,7 +84574,6 @@
         "waldo",
         "cpp11",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -85351,8 +85051,7 @@
         "backports",
         "evaluate",
         "highr",
-        "xfun",
-        "fs"
+        "xfun"
     ],
     "NanoMethViz": [
         "ggplot2",
@@ -85368,7 +85067,6 @@
         "Rcpp",
         "dplyr",
         "e1071",
-        "fs",
         "GenomicRanges",
         "ggrastr",
         "limma",
@@ -85717,7 +85415,6 @@
         "timechange",
         "askpass",
         "utf8",
-        "fs",
         "clipr",
         "vroom",
         "tzdb",
@@ -85951,7 +85648,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -86058,7 +85754,6 @@
         "BH",
         "httr",
         "RJSONIO",
-        "fs",
         "uuid",
         "uchardet",
         "base64url",
@@ -86414,7 +86109,6 @@
         "tensor",
         "cpp11",
         "zlibbioc",
-        "fs",
         "stringi"
     ],
     "NeighborNet": [
@@ -87158,7 +86852,6 @@
         "pillar",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "NetSAM": [
@@ -87496,7 +87189,6 @@
         "httr",
         "RJSONIO",
         "XML",
-        "fs",
         "uuid",
         "uchardet",
         "RCurl",
@@ -87795,7 +87487,6 @@
         "zlibbioc",
         "askpass",
         "prettyunits",
-        "fs",
         "rappdirs"
     ],
     "nnNorm": [
@@ -87941,7 +87632,6 @@
         "withr",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "tibble",
@@ -88201,7 +87891,6 @@
         "waldo",
         "bit64",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -88662,8 +88351,7 @@
         "fontawesome",
         "sourcetools",
         "bslib",
-        "sass",
-        "fs"
+        "sass"
     ],
     "occugene": [],
     "OCplus": [
@@ -88836,8 +88524,7 @@
         "sass",
         "deldir",
         "RcppEigen",
-        "rjson",
-        "fs"
+        "rjson"
     ],
     "ODER": [
         "BiocGenerics",
@@ -88905,7 +88592,6 @@
         "rstatix",
         "Rcpp",
         "xfun",
-        "fs",
         "cmdfun",
         "XML",
         "Biostrings",
@@ -89135,7 +88821,6 @@
         "bslib",
         "cachem",
         "ellipsis",
-        "fs",
         "purrr",
         "tidyselect",
         "cpp11",
@@ -89415,7 +89100,6 @@
         "clipr",
         "vroom",
         "tzdb",
-        "fs",
         "rappdirs",
         "bit64",
         "progress",
@@ -89586,7 +89270,6 @@
         "RCurl",
         "GenomeInfoDbData",
         "RcppGSL",
-        "fs",
         "rappdirs",
         "zlibbioc"
     ],
@@ -89774,7 +89457,6 @@
         "rprojroot",
         "cachem",
         "askpass",
-        "fs",
         "zoo",
         "diffobj",
         "rematch2"
@@ -90008,7 +89690,6 @@
         "bit64",
         "blob",
         "plogr",
-        "fs",
         "dbplyr",
         "backports",
         "lambda.r",
@@ -90185,7 +89866,6 @@
         "exactRankTests",
         "mvtnorm",
         "askpass",
-        "fs",
         "rappdirs",
         "farver",
         "labeling",
@@ -90342,8 +90022,7 @@
         "lattice",
         "askpass",
         "utf8",
-        "bit64",
-        "fs"
+        "bit64"
     ],
     "ompBAM": [
         "Rcpp",
@@ -90562,7 +90241,6 @@
         "cpp11",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -90620,7 +90298,6 @@
         "cachem",
         "ellipsis",
         "lifecycle",
-        "fs",
         "callr",
         "sass",
         "jquerylib",
@@ -90745,7 +90422,6 @@
         "png",
         "Biostrings",
         "askpass",
-        "fs",
         "zlibbioc"
     ],
     "openCyto": [
@@ -91024,7 +90700,6 @@
         "bit64",
         "blob",
         "plogr",
-        "fs",
         "rappdirs",
         "zlibbioc",
         "backports",
@@ -91142,7 +90817,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -91293,7 +90967,6 @@
         "cli",
         "desc",
         "ellipsis",
-        "fs",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -91592,7 +91265,6 @@
         "purrr",
         "philentropy",
         "withr",
-        "fs",
         "XVector",
         "crayon",
         "matrixStats",
@@ -91956,7 +91628,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -91996,7 +91667,6 @@
         "gtools",
         "caTools",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "tibble",
@@ -92406,7 +92076,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -92612,7 +92281,6 @@
         "withr",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "tibble",
@@ -93040,7 +92708,6 @@
         "httr",
         "Biostrings",
         "colorspace",
-        "fs",
         "bit64",
         "blob",
         "memoise",
@@ -93231,7 +92898,6 @@
         "cli",
         "desc",
         "ellipsis",
-        "fs",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -93672,7 +93338,6 @@
         "futile.options",
         "askpass",
         "utf8",
-        "fs",
         "ps"
     ],
     "pcaMethods": [
@@ -93975,7 +93640,6 @@
         "askpass",
         "bit64",
         "plogr",
-        "fs",
         "listenv",
         "parallelly",
         "minqa",
@@ -94188,7 +93852,6 @@
         "Matrix",
         "clue",
         "colorspace",
-        "fs",
         "rappdirs",
         "pillar",
         "limma",
@@ -94950,7 +94613,6 @@
         "memoise",
         "lazyeval",
         "base64enc",
-        "fs",
         "rappdirs"
     ],
     "PhenoGeneRanker": [
@@ -95094,7 +94756,6 @@
         "rprojroot",
         "cachem",
         "colorspace",
-        "fs",
         "diffobj",
         "rematch2",
         "zlibbioc"
@@ -95357,7 +95018,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -95597,7 +95257,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -95677,7 +95336,6 @@
         "bslib",
         "cachem",
         "ellipsis",
-        "fs",
         "digest",
         "RSQLite",
         "BiocVersion",
@@ -95841,7 +95499,6 @@
         "crul",
         "jsonlite",
         "stringi",
-        "fs",
         "memoise",
         "httr",
         "misc3d",
@@ -95975,7 +95632,6 @@
         "lambda.r",
         "futile.options",
         "nlme",
-        "fs",
         "rappdirs",
         "pillar",
         "utf8"
@@ -96174,7 +95830,6 @@
         "gridGraphics",
         "deldir",
         "askpass",
-        "fs",
         "lazyeval",
         "RCurl",
         "GenomeInfoDbData",
@@ -96511,8 +96166,7 @@
         "systemfonts",
         "textshaping",
         "tensor",
-        "zlibbioc",
-        "fs"
+        "zlibbioc"
     ],
     "pipeFrame": [
         "BSgenome",
@@ -96565,7 +96219,6 @@
         "cpp11",
         "SummarizedExperiment",
         "rjson",
-        "fs",
         "R6",
         "rappdirs",
         "lambda.r",
@@ -96892,7 +96545,6 @@
         "evaluate",
         "highr",
         "xfun",
-        "fs",
         "rappdirs",
         "boot",
         "minqa",
@@ -97000,7 +96652,6 @@
         "withr",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "tibble",
@@ -97134,7 +96785,6 @@
         "colorspace",
         "utf8",
         "prettyunits",
-        "fs",
         "rappdirs"
     ],
     "podkat": [
@@ -97269,7 +96919,6 @@
         "utf8",
         "bit64",
         "plogr",
-        "fs",
         "png",
         "Biostrings",
         "zlibbioc"
@@ -97430,7 +97079,6 @@
         "nnet",
         "prodlim",
         "timechange",
-        "fs",
         "rappdirs",
         "zlibbioc",
         "curl",
@@ -97900,7 +97548,6 @@
         "colorspace",
         "Rhdf5lib",
         "rhdf5filters",
-        "fs",
         "rappdirs",
         "pillar",
         "utf8"
@@ -98045,7 +97692,6 @@
         "rjson",
         "yaml",
         "Rhtslib",
-        "fs",
         "futile.logger",
         "BH",
         "assertthat",
@@ -98266,7 +97912,6 @@
         "vroom",
         "tzdb",
         "plyr",
-        "fs",
         "farver",
         "labeling",
         "munsell",
@@ -98729,7 +98374,6 @@
         "RCurl",
         "GenomeInfoDbData",
         "askpass",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -99073,7 +98717,6 @@
         "jpeg",
         "interp",
         "askpass",
-        "fs",
         "gridExtra",
         "deldir"
     ],
@@ -99387,7 +99030,6 @@
         "bit64",
         "plogr",
         "lava",
-        "fs",
         "future.apply",
         "numDeriv",
         "progressr",
@@ -99545,7 +99187,6 @@
         "Rhdf5lib",
         "utf8",
         "lpSolve",
-        "fs",
         "limma",
         "RSQLite",
         "KEGGREST",
@@ -99830,7 +99471,6 @@
         "doParallel",
         "Rhdf5lib",
         "ps",
-        "fs",
         "rappdirs",
         "limma",
         "lambda.r",
@@ -100245,7 +99885,6 @@
         "broom",
         "corrplot",
         "selectr",
-        "fs",
         "rappdirs",
         "farver",
         "labeling",
@@ -100455,7 +100094,6 @@
         "vroom",
         "tzdb",
         "Rhtslib",
-        "fs",
         "progress",
         "rngtools",
         "knitr",
@@ -100780,7 +100418,6 @@
         "xfun",
         "askpass",
         "utf8",
-        "fs",
         "rappdirs",
         "stringi",
         "boot",
@@ -101012,7 +100649,6 @@
         "colorspace",
         "utf8",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -101253,8 +100889,7 @@
         "bslib",
         "sass",
         "lazyeval",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "pwrEWAS": [
         "shinyBS",
@@ -101327,7 +100962,6 @@
         "Matrix",
         "lattice",
         "magrittr",
-        "fs",
         "farver",
         "labeling",
         "munsell",
@@ -101659,7 +101293,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -101927,7 +101560,6 @@
         "base64enc",
         "nlme",
         "Matrix",
-        "fs",
         "farver",
         "labeling",
         "munsell",
@@ -103106,7 +102738,6 @@
         "mgcv",
         "base64enc",
         "nlme",
-        "fs",
         "rappdirs"
     ],
     "RaggedExperiment": [
@@ -103349,7 +102980,6 @@
         "withr",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "tibble",
@@ -103468,8 +103098,7 @@
         "bslib",
         "sass",
         "lazyeval",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "rawrr": [],
     "RbcBook1": [
@@ -103789,7 +103418,6 @@
         "askpass",
         "utf8",
         "prettyunits",
-        "fs",
         "MatrixGenerics",
         "DelayedArray",
         "assertthat",
@@ -103852,7 +103480,6 @@
         "lattice",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "rCGH": [
@@ -103959,7 +103586,6 @@
         "rjson",
         "yaml",
         "Rhtslib",
-        "fs",
         "stringi",
         "futile.logger",
         "snow",
@@ -104058,7 +103684,6 @@
         "plogr",
         "nlme",
         "askpass",
-        "fs",
         "rappdirs"
     ],
     "RCM": [
@@ -104242,7 +103867,6 @@
         "base64url",
         "checkmate",
         "digest",
-        "fs",
         "progress",
         "R6",
         "rappdirs",
@@ -104355,7 +103979,6 @@
         "base64url",
         "checkmate",
         "digest",
-        "fs",
         "progress",
         "stringi",
         "withr",
@@ -104452,7 +104075,6 @@
         "XML",
         "BiocGenerics",
         "graph",
-        "fs",
         "uuid",
         "uchardet",
         "RCurl",
@@ -104601,7 +104223,6 @@
         "lattice",
         "askpass",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "ReactomeGSA": [
@@ -104809,7 +104430,6 @@
         "fastmap",
         "magrittr",
         "stringi",
-        "fs",
         "R6",
         "rappdirs"
     ],
@@ -105906,7 +105526,6 @@
         "bit64",
         "blob",
         "plogr",
-        "fs",
         "farver",
         "labeling",
         "munsell",
@@ -105996,7 +105615,6 @@
         "RJSONIO",
         "XML",
         "graph",
-        "fs",
         "uuid",
         "uchardet",
         "RCurl",
@@ -106291,7 +105909,6 @@
         "numDeriv",
         "progressr",
         "SQUAREM",
-        "fs",
         "future",
         "globals",
         "listenv",
@@ -106784,7 +106401,6 @@
         "GenomeInfoDb",
         "dbplyr",
         "cli",
-        "fs",
         "rstudioapi",
         "withr",
         "RCurl",
@@ -106958,7 +106574,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "zoo",
         "diffobj",
         "rematch2"
@@ -107179,7 +106794,6 @@
         "base64enc",
         "RCurl",
         "GenomeInfoDbData",
-        "fs",
         "zlibbioc"
     ],
     "RGMQL": [
@@ -107454,7 +107068,6 @@
         "BiocParallel",
         "openssl",
         "Rhtslib",
-        "fs",
         "stringi",
         "futile.logger",
         "snow",
@@ -107778,7 +107391,6 @@
         "readr",
         "downloader",
         "philentropy",
-        "fs",
         "matrixStats",
         "locfit",
         "geneplotter",
@@ -108412,7 +108024,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -109119,7 +108730,6 @@
         "prodlim",
         "timechange",
         "lava",
-        "fs",
         "future.apply",
         "numDeriv",
         "progressr",
@@ -109283,7 +108893,6 @@
         "cli",
         "desc",
         "ellipsis",
-        "fs",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -109654,7 +109263,6 @@
         "rprojroot",
         "utf8",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -110667,7 +110275,6 @@
         "processx",
         "ps",
         "waldo",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -110849,7 +110456,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -111338,7 +110944,6 @@
         "colorspace",
         "Rhdf5lib",
         "rhdf5filters",
-        "fs",
         "rappdirs",
         "pillar",
         "utf8"
@@ -111401,7 +111006,6 @@
         "yaml",
         "nlme",
         "Matrix",
-        "fs",
         "rappdirs",
         "farver",
         "labeling",
@@ -111586,7 +111190,6 @@
         "bit64",
         "blob",
         "plogr",
-        "fs",
         "dbplyr",
         "dplyr",
         "backports",
@@ -111728,7 +111331,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -111877,7 +111479,6 @@
         "rprojroot",
         "curl",
         "utf8",
-        "fs",
         "RCurl",
         "GenomeInfoDbData",
         "zlibbioc"
@@ -112098,7 +111699,6 @@
         "askpass",
         "corrplot",
         "car",
-        "fs",
         "rappdirs",
         "carData",
         "abind",
@@ -112322,7 +111922,6 @@
         "cpp11",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -112425,7 +112024,6 @@
         "cpp11",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -112531,7 +112129,6 @@
         "cpp11",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -112788,7 +112385,6 @@
         "rjson",
         "yaml",
         "Rhtslib",
-        "fs",
         "rappdirs",
         "futile.logger",
         "snow",
@@ -112856,7 +112452,6 @@
         "vctrs",
         "matrixStats",
         "crayon",
-        "fs",
         "dplyr",
         "purrr",
         "tidyselect",
@@ -113340,7 +112935,6 @@
         "bit64",
         "blob",
         "plogr",
-        "fs",
         "rappdirs",
         "farver",
         "labeling",
@@ -113388,7 +112982,6 @@
         "cli",
         "magrittr",
         "zlibbioc",
-        "fs",
         "rappdirs"
     ],
     "SANTA": [
@@ -113563,7 +113156,6 @@
         "plogr",
         "stringi",
         "vctrs",
-        "fs",
         "rappdirs",
         "zlibbioc",
         "cli",
@@ -113653,7 +113245,6 @@
         "pillar",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs",
         "zlibbioc"
     ],
@@ -113833,7 +113424,6 @@
         "tensor",
         "cpp11",
         "zlibbioc",
-        "fs",
         "stringi"
     ],
     "SCAN.UPC": [
@@ -114104,7 +113694,6 @@
         "utf8",
         "hms",
         "prettyunits",
-        "fs",
         "MatrixGenerics",
         "DelayedArray",
         "matrixStats"
@@ -114286,7 +113875,6 @@
         "tensor",
         "zlibbioc",
         "lava",
-        "fs",
         "numDeriv",
         "SQUAREM"
     ],
@@ -114444,8 +114032,7 @@
         "sass",
         "lazyeval",
         "digest",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "scater": [
         "SingleCellExperiment",
@@ -114729,7 +114316,6 @@
         "bit64",
         "blob",
         "plogr",
-        "fs",
         "stringi"
     ],
     "SCBN": [],
@@ -114866,8 +114452,7 @@
         "yaml",
         "askpass",
         "utf8",
-        "tensor",
-        "fs"
+        "tensor"
     ],
     "scCB2": [
         "SingleCellExperiment",
@@ -115030,7 +114615,6 @@
         "stringr",
         "tensor",
         "zlibbioc",
-        "fs",
         "stringi"
     ],
     "scClassify": [
@@ -115383,8 +114967,7 @@
         "yaml",
         "utf8",
         "tensor",
-        "zlibbioc",
-        "fs"
+        "zlibbioc"
     ],
     "scDblFinder": [
         "SingleCellExperiment",
@@ -115592,7 +115175,6 @@
         "colorspace",
         "utf8",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "zlibbioc"
@@ -115668,7 +115250,6 @@
         "colorspace",
         "utf8",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "zlibbioc"
@@ -116080,7 +115661,6 @@
         "plyr",
         "stringr",
         "wk",
-        "fs",
         "tensor",
         "zlibbioc",
         "proxy",
@@ -116242,7 +115822,6 @@
         "curl",
         "openssl",
         "lattice",
-        "fs",
         "rappdirs",
         "askpass",
         "ps"
@@ -116371,7 +115950,6 @@
         "stringr",
         "tensor",
         "cpp11",
-        "fs",
         "stringi"
     ],
     "scmap": [
@@ -116642,7 +116220,6 @@
         "ps",
         "stringi",
         "zlibbioc",
-        "fs",
         "rappdirs"
     ],
     "scmeth": [
@@ -116783,7 +116360,6 @@
         "askpass",
         "utf8",
         "rjson",
-        "fs",
         "httpuv",
         "xtable",
         "fontawesome",
@@ -117441,7 +117017,6 @@
         "nlme",
         "colorspace",
         "utf8",
-        "fs",
         "hms",
         "prettyunits",
         "RcppEigen",
@@ -118135,7 +117710,6 @@
         "RcppTOML",
         "here",
         "gplots",
-        "fs",
         "sp",
         "classInt",
         "s2",
@@ -118320,7 +117894,6 @@
         "bit64",
         "blob",
         "plogr",
-        "fs",
         "reshape2",
         "gridExtra",
         "RcppArmadillo",
@@ -118578,7 +118151,6 @@
         "dbplyr",
         "hms",
         "prettyunits",
-        "fs",
         "stringi",
         "assertthat"
     ],
@@ -119736,7 +119308,6 @@
         "utf8",
         "bit64",
         "plogr",
-        "fs",
         "crosstalk",
         "promises",
         "png",
@@ -119923,8 +119494,7 @@
         "sass",
         "lazyeval",
         "digest",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "SEtools": [
         "SummarizedExperiment",
@@ -120340,7 +119910,6 @@
         "utf8",
         "rjson",
         "Rhtslib",
-        "fs",
         "rappdirs",
         "farver",
         "labeling",
@@ -120489,7 +120058,6 @@
         "hms",
         "vroom",
         "tzdb",
-        "fs",
         "rappdirs",
         "purrr",
         "zlibbioc",
@@ -120660,7 +120228,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -120797,7 +120364,6 @@
         "bit64",
         "blob",
         "plogr",
-        "fs",
         "rappdirs",
         "zlibbioc"
     ],
@@ -121095,8 +120661,7 @@
         "bslib",
         "lazyeval",
         "gridExtra",
-        "sass",
-        "fs"
+        "sass"
     ],
     "signeR": [
         "VariantAnnotation",
@@ -121281,7 +120846,6 @@
         "plogr",
         "corrplot",
         "car",
-        "fs",
         "stringi",
         "DelayedArray",
         "zoo",
@@ -121546,7 +121110,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -122074,7 +121637,6 @@
         "R.methodsS3",
         "bit64",
         "plogr",
-        "fs",
         "askpass"
     ],
     "simplifyEnrichment": [
@@ -122654,7 +122216,6 @@
         "systemfonts",
         "textshaping",
         "densEstBayes",
-        "fs",
         "mnormt",
         "quantreg",
         "tensor",
@@ -123687,7 +123248,6 @@
         "withr",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "tibble",
@@ -123972,7 +123532,6 @@
         "colorspace",
         "utf8",
         "stringi",
-        "fs",
         "rappdirs"
     ],
     "SomaticSignatures": [
@@ -124326,7 +123885,6 @@
         "textshaping",
         "plyr",
         "stringr",
-        "fs",
         "tensor",
         "zlibbioc",
         "stringi"
@@ -124736,7 +124294,6 @@
         "matrixStats",
         "nlme",
         "utf8",
-        "fs",
         "rappdirs",
         "farver",
         "labeling",
@@ -124966,7 +124523,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -125314,7 +124870,6 @@
         "askpass",
         "systemfonts",
         "textshaping",
-        "fs",
         "zlibbioc",
         "backports",
         "deldir",
@@ -125538,7 +125093,6 @@
         "ProtGenerics",
         "IRanges",
         "MsCoreUtils",
-        "fs",
         "BiocGenerics",
         "futile.logger",
         "snow",
@@ -125822,8 +125376,7 @@
         "plogr",
         "zlibbioc",
         "lambda.r",
-        "futile.options",
-        "fs"
+        "futile.options"
     ],
     "spicyR": [
         "ggplot2",
@@ -125962,7 +125515,6 @@
         "cachem",
         "askpass",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "fastmap"
@@ -126302,7 +125854,6 @@
         "bslib",
         "cachem",
         "ellipsis",
-        "fs",
         "anytime",
         "sass",
         "KEGGREST",
@@ -126775,7 +126326,6 @@
         "ipred",
         "timeDate",
         "callr",
-        "fs",
         "knitr",
         "rmarkdown",
         "corrplot",
@@ -127010,7 +126560,6 @@
         "zlibbioc",
         "lambda.r",
         "futile.options",
-        "fs",
         "stringi"
     ],
     "SPOTlight": [
@@ -127413,7 +126962,6 @@
         "cli",
         "desc",
         "ellipsis",
-        "fs",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -127831,7 +127379,6 @@
         "yaml",
         "Rcpp",
         "cli",
-        "fs",
         "rappdirs"
     ],
     "ssviz": [
@@ -128463,7 +128010,6 @@
         "tzdb",
         "progress",
         "callr",
-        "fs",
         "knitr",
         "rmarkdown",
         "selectr",
@@ -128782,7 +128328,6 @@
         "zlibbioc",
         "lambda.r",
         "futile.options",
-        "fs",
         "stringi"
     ],
     "strandCheckR": [
@@ -128882,7 +128427,6 @@
         "blob",
         "plogr",
         "restfulr",
-        "fs",
         "dbplyr",
         "curl",
         "mime",
@@ -129439,7 +128983,6 @@
         "withr",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "tibble",
@@ -129652,7 +129195,6 @@
         "Matrix",
         "askpass",
         "utf8",
-        "fs",
         "prettyunits",
         "farver",
         "labeling",
@@ -129819,7 +129361,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -130310,7 +129851,6 @@
         "colorspace",
         "utf8",
         "prettyunits",
-        "fs",
         "rappdirs"
     ],
     "synergyfinder": [
@@ -130446,7 +129986,6 @@
         "tzdb",
         "progress",
         "callr",
-        "fs",
         "knitr",
         "rmarkdown",
         "selectr",
@@ -130590,7 +130129,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -130681,7 +130219,6 @@
         "lattice",
         "nlme",
         "statnet.common",
-        "fs",
         "rjson",
         "Rhtslib",
         "farver",
@@ -130854,7 +130391,6 @@
         "ellipsis",
         "fresh",
         "waiter",
-        "fs",
         "anytime",
         "sass",
         "stringi",
@@ -131127,7 +130663,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -131303,7 +130838,6 @@
         "cli",
         "magrittr",
         "zlibbioc",
-        "fs",
         "rappdirs"
     ],
     "TargetDecoy": [
@@ -131390,7 +130924,6 @@
         "lattice",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs",
         "boot",
         "minqa",
@@ -131961,7 +131494,6 @@
         "bslib",
         "cachem",
         "ellipsis",
-        "fs",
         "stringi",
         "MatrixGenerics",
         "Biobase",
@@ -132523,7 +132055,6 @@
         "plogr",
         "lazyeval",
         "purrr",
-        "fs",
         "rstudioapi",
         "openssl",
         "utf8",
@@ -132679,7 +132210,6 @@
         "BiocParallel",
         "rjson",
         "Rhtslib",
-        "fs",
         "snow",
         "BH"
     ],
@@ -132971,7 +132501,6 @@
         "purrr",
         "philentropy",
         "withr",
-        "fs",
         "crayon",
         "matrixStats",
         "gtable",
@@ -133126,8 +132655,7 @@
         "bit64",
         "plogr",
         "lambda.r",
-        "futile.options",
-        "fs"
+        "futile.options"
     ],
     "tidybulk": [
         "tibble",
@@ -133605,7 +133133,6 @@
         "IRanges",
         "RJSONIO",
         "graph",
-        "fs",
         "uuid",
         "uchardet",
         "RCurl",
@@ -134298,7 +133825,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -134540,8 +134066,7 @@
         "lattice",
         "colorspace",
         "askpass",
-        "prettyunits",
-        "fs"
+        "prettyunits"
     ],
     "topconfects": [
         "assertthat",
@@ -134787,7 +134312,6 @@
         "memoise",
         "lazyeval",
         "base64enc",
-        "fs",
         "rappdirs"
     ],
     "TPP": [
@@ -134865,7 +134389,6 @@
         "viridisLite",
         "lattice",
         "colorspace",
-        "fs",
         "rappdirs"
     ],
     "TPP2D": [
@@ -135627,7 +135150,6 @@
         "XML",
         "BiocGenerics",
         "graph",
-        "fs",
         "uuid",
         "uchardet",
         "RCurl",
@@ -136022,7 +135544,6 @@
         "waldo",
         "zlibbioc",
         "rprojroot",
-        "fs",
         "broom",
         "corrplot",
         "car",
@@ -136296,7 +135817,6 @@
         "cachem",
         "ellipsis",
         "lifecycle",
-        "fs",
         "tibble",
         "MatrixGenerics",
         "GenomicRanges",
@@ -136655,7 +136175,6 @@
         "cli",
         "crayon",
         "desc",
-        "fs",
         "here",
         "pkgload",
         "roxygen2",
@@ -136979,7 +136498,6 @@
         "pillar",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs",
         "zlibbioc"
     ],
@@ -137059,7 +136577,6 @@
         "colorspace",
         "htmlwidgets",
         "mime",
-        "fs",
         "rappdirs"
     ],
     "ttgsea": [
@@ -137292,7 +136809,6 @@
         "magrittr",
         "pillar",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "txcutr": [
@@ -137479,8 +136995,7 @@
         "sass",
         "lambda.r",
         "futile.options",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "tximport": [],
     "TypeInfo": [],
@@ -137601,7 +137116,6 @@
         "bslib",
         "cachem",
         "ellipsis",
-        "fs",
         "digest",
         "lazyeval",
         "futile.logger",
@@ -137919,7 +137433,6 @@
         "bit64",
         "plogr",
         "restfulr",
-        "fs",
         "farver",
         "labeling",
         "munsell",
@@ -138528,7 +138041,6 @@
         "cachem",
         "ellipsis",
         "digest",
-        "fs",
         "sass",
         "jquerylib",
         "memoise",
@@ -138655,7 +138167,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -138943,7 +138454,6 @@
         "hms",
         "prettyunits",
         "rjson",
-        "fs",
         "farver",
         "labeling",
         "munsell",
@@ -139522,7 +139032,6 @@
         "lambda.r",
         "futile.options",
         "utf8",
-        "fs",
         "rappdirs",
         "zlibbioc",
         "curl",
@@ -139819,8 +139328,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "base64enc",
-        "zlibbioc",
-        "fs"
+        "zlibbioc"
     ],
     "Voyager": [
         "BiocParallel",
@@ -140060,7 +139568,6 @@
         "GenomeInfoDbData",
         "lattice",
         "nlme",
-        "fs",
         "rappdirs",
         "farver",
         "labeling",
@@ -140219,8 +139726,7 @@
         "lazyeval",
         "lambda.r",
         "futile.options",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "vulcan": [
         "ChIPpeakAnno",
@@ -140476,7 +139982,6 @@
         "rprojroot",
         "colorspace",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -141000,7 +140505,6 @@
         "attempt",
         "crayon",
         "desc",
-        "fs",
         "here",
         "pkgload",
         "roxygen2",
@@ -141134,8 +140638,7 @@
         "fastmap",
         "highr",
         "askpass",
-        "bit64",
-        "fs"
+        "bit64"
     ],
     "Wrench": [
         "limma",
@@ -141443,7 +140946,6 @@
         "memoise",
         "lazyeval",
         "base64enc",
-        "fs",
         "rappdirs"
     ],
     "XINA": [
@@ -141557,7 +141059,6 @@
         "rjson",
         "lambda.r",
         "futile.options",
-        "fs",
         "R6",
         "rappdirs",
         "MatrixGenerics",
@@ -142095,7 +141596,6 @@
         "zlibbioc",
         "fastmap",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -142429,7 +141929,6 @@
         "stringr",
         "xfun",
         "tinytex",
-        "fs",
         "R6",
         "rappdirs",
         "farver",
@@ -142478,7 +141977,6 @@
         "highr",
         "magrittr",
         "stringi",
-        "fs",
         "R6",
         "rappdirs"
     ],
@@ -142642,7 +142140,6 @@
         "memoise",
         "magrittr",
         "stringi",
-        "fs",
         "R6",
         "rappdirs"
     ],
@@ -142691,7 +142188,6 @@
         "Rcpp",
         "cli",
         "magrittr",
-        "fs",
         "rappdirs"
     ],
     "scales": [
@@ -142707,7 +142203,6 @@
         "colorspace"
     ],
     "sass": [
-        "fs",
         "rlang",
         "htmltools",
         "R6",
@@ -142727,7 +142222,6 @@
         "fastmap",
         "digest",
         "base64enc",
-        "fs",
         "R6",
         "rappdirs"
     ],
@@ -142847,7 +142341,6 @@
         "Rcpp",
         "rlang"
     ],
-    "fs": [],
     "rappdirs": [],
     "farver": [],
     "labeling": [],
@@ -143051,7 +142544,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -143111,7 +142603,6 @@
         "Rcpp",
         "cli",
         "magrittr",
-        "fs",
         "rappdirs"
     ],
     "testthat": [
@@ -143135,7 +142626,6 @@
         "withr",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "tibble",
@@ -143270,7 +142760,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -143289,7 +142778,6 @@
         "cli",
         "crayon",
         "desc",
-        "fs",
         "rlang",
         "rprojroot",
         "withr",
@@ -143423,7 +142911,6 @@
         "cpp11",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -143506,7 +142993,6 @@
         "rprojroot",
         "colorspace",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -143549,7 +143035,6 @@
         "withr",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "tibble",
@@ -143582,7 +143067,6 @@
         "withr",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "tibble",
@@ -143666,7 +143150,6 @@
         "base64enc",
         "RCurl",
         "GenomeInfoDbData",
-        "fs",
         "zlibbioc"
     ],
     "ade4": [
@@ -144335,7 +143818,6 @@
         "jquerylib",
         "memoise",
         "cli",
-        "fs",
         "rappdirs"
     ],
     "seqinr": [
@@ -144592,8 +144074,7 @@
         "sass",
         "lazyeval",
         "digest",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "readr": [
         "cli",
@@ -144822,7 +144303,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -145036,7 +144516,6 @@
         "lattice",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "umap": [
@@ -145340,7 +144819,6 @@
         "Rcpp",
         "cli",
         "magrittr",
-        "fs",
         "rappdirs"
     ],
     "bigrquery": [
@@ -145359,7 +144837,6 @@
         "tibble",
         "rapidjsonr",
         "cli",
-        "fs",
         "rappdirs",
         "rstudioapi",
         "withr",
@@ -145403,12 +144880,10 @@
         "Rcpp",
         "cli",
         "magrittr",
-        "fs",
         "rappdirs"
     ],
     "gargle": [
         "cli",
-        "fs",
         "httr",
         "jsonlite",
         "rappdirs",
@@ -145604,7 +145079,6 @@
         "stringr",
         "tensor",
         "cpp11",
-        "fs",
         "stringi"
     ],
     "org.Hs.eg.db": [
@@ -146287,8 +145761,7 @@
         "sass",
         "lazyeval",
         "digest",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "MafDb.ExAC.r1.0.hs37d5": [
         "GenomicScores",
@@ -146387,8 +145860,7 @@
         "sass",
         "lazyeval",
         "digest",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "MafDb.gnomADex.r2.1.hs37d5": [
         "GenomicScores",
@@ -146487,8 +145959,7 @@
         "sass",
         "lazyeval",
         "digest",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "COSMIC.67": [
         "GenomicRanges",
@@ -147054,7 +146525,6 @@
         "tzdb",
         "progress",
         "callr",
-        "fs",
         "knitr",
         "rmarkdown",
         "selectr",
@@ -147510,7 +146980,6 @@
         "uuid",
         "vctrs",
         "withr",
-        "fs",
         "rappdirs",
         "rstudioapi",
         "curl",
@@ -147535,7 +147004,6 @@
         "tibble",
         "vctrs",
         "rematch",
-        "fs",
         "jsonlite",
         "rappdirs",
         "rstudioapi",
@@ -147616,7 +147084,6 @@
         "callr",
         "cli",
         "clipr",
-        "fs",
         "knitr",
         "lifecycle",
         "rlang",
@@ -147854,7 +147321,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -148002,7 +147468,6 @@
         "Rcpp",
         "cli",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "gbm": [
@@ -148119,7 +147584,6 @@
         "highr",
         "magrittr",
         "stringi",
-        "fs",
         "R6",
         "rappdirs"
     ],
@@ -148223,7 +147687,6 @@
         "pillar",
         "lattice",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "colourpicker": [
@@ -148277,7 +147740,6 @@
         "lattice",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "rstantools": [
@@ -148525,7 +147987,6 @@
         "colorspace",
         "utf8",
         "desc",
-        "fs",
         "rprojroot",
         "stringr",
         "slam",
@@ -148579,7 +148040,6 @@
         "cli",
         "crayon",
         "desc",
-        "fs",
         "rlang",
         "rprojroot",
         "withr",
@@ -148823,7 +148283,6 @@
         "Rcpp",
         "cli",
         "magrittr",
-        "fs",
         "rappdirs"
     ],
     "ggforce": [
@@ -148964,7 +148423,6 @@
         "sourcetools",
         "later",
         "fastmap",
-        "fs",
         "rematch",
         "Rcpp",
         "openssl",
@@ -149025,7 +148483,6 @@
         "Rcpp",
         "cli",
         "magrittr",
-        "fs",
         "rappdirs"
     ],
     "org.Bt.eg.db": [
@@ -149230,7 +148687,6 @@
         "Rcpp",
         "cli",
         "magrittr",
-        "fs",
         "rappdirs"
     ],
     "psych": [
@@ -149243,7 +148699,6 @@
         "htmltools",
         "jsonlite",
         "shiny",
-        "fs",
         "tibble",
         "digest",
         "base64enc",
@@ -149602,7 +149057,6 @@
         "crayon",
         "curl",
         "desc",
-        "fs",
         "gert",
         "gh",
         "jsonlite",
@@ -149889,7 +149343,6 @@
         "base64enc",
         "RCurl",
         "GenomeInfoDbData",
-        "fs",
         "zlibbioc"
     ],
     "clusterCons": [
@@ -150076,7 +149529,6 @@
         "base64enc",
         "RCurl",
         "GenomeInfoDbData",
-        "fs",
         "zlibbioc"
     ],
     "ggnetwork": [
@@ -150214,7 +149666,6 @@
         "Rcpp",
         "cli",
         "magrittr",
-        "fs",
         "rappdirs"
     ],
     "superheat": [
@@ -150388,7 +149839,6 @@
         "base64enc",
         "RCurl",
         "GenomeInfoDbData",
-        "fs",
         "zlibbioc"
     ],
     "qualV": [],
@@ -150859,8 +150309,7 @@
         "farver",
         "labeling",
         "munsell",
-        "colorspace",
-        "fs"
+        "colorspace"
     ],
     "lsa": [
         "SnowballC"
@@ -150908,7 +150357,6 @@
         "cli",
         "desc",
         "ellipsis",
-        "fs",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -150999,7 +150447,6 @@
         "desc",
         "digest",
         "downlit",
-        "fs",
         "httr",
         "jsonlite",
         "magrittr",
@@ -151094,7 +150541,6 @@
         "yaml",
         "xfun",
         "crayon",
-        "fs",
         "magrittr"
     ],
     "rversions": [
@@ -151361,7 +150807,6 @@
         "cpp11",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -151455,7 +150900,6 @@
         "Rcpp",
         "cli",
         "magrittr",
-        "fs",
         "rappdirs"
     ],
     "Rmpi": [],
@@ -151671,7 +151115,6 @@
         "cpp11",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -153283,7 +152726,6 @@
         "Rcpp",
         "cli",
         "magrittr",
-        "fs",
         "rappdirs"
     ],
     "shinyWidgets": [
@@ -153302,7 +152744,6 @@
         "digest",
         "base64enc",
         "fastmap",
-        "fs",
         "R6",
         "rappdirs",
         "httpuv",
@@ -153351,7 +152792,6 @@
         "memoise",
         "Rcpp",
         "magrittr",
-        "fs",
         "rappdirs"
     ],
     "kableExtra": [
@@ -153407,7 +152847,6 @@
         "askpass",
         "utf8",
         "ps",
-        "fs",
         "rappdirs"
     ],
     "gggenes": [
@@ -153496,7 +152935,6 @@
         "base64enc",
         "rlang",
         "fastmap",
-        "fs",
         "R6",
         "rappdirs",
         "httpuv",
@@ -153547,7 +152985,6 @@
         "Rcpp",
         "cli",
         "magrittr",
-        "fs",
         "rappdirs"
     ],
     "anytime": [
@@ -154024,7 +153461,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -154759,7 +154195,6 @@
         "base64enc",
         "RCurl",
         "GenomeInfoDbData",
-        "fs",
         "zlibbioc"
     ],
     "keras": [
@@ -154907,7 +154342,6 @@
         "Rcpp",
         "cli",
         "magrittr",
-        "fs",
         "rappdirs"
     ],
     "SMVar": [],
@@ -155229,7 +154663,6 @@
         "Rcpp",
         "cli",
         "magrittr",
-        "fs",
         "rappdirs"
     ],
     "shinyMatrix": [
@@ -155260,7 +154693,6 @@
         "Rcpp",
         "cli",
         "magrittr",
-        "fs",
         "rappdirs"
     ],
     "mbest": [
@@ -155303,7 +154735,6 @@
         "withr",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "tibble",
@@ -155416,7 +154847,6 @@
         "withr",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "tibble",
@@ -155545,7 +154975,6 @@
         "clipr",
         "crayon",
         "curl",
-        "fs",
         "gert",
         "gh",
         "rappdirs",
@@ -155739,7 +155168,6 @@
         "withr",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "tibble",
@@ -156171,7 +155599,6 @@
         "cpp11",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -156459,8 +155886,7 @@
         "sass",
         "lazyeval",
         "digest",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "coin": [
         "survival",
@@ -156572,7 +155998,6 @@
         "base64enc",
         "RCurl",
         "GenomeInfoDbData",
-        "fs",
         "zlibbioc"
     ],
     "R.matlab": [
@@ -156589,7 +156014,6 @@
         "base64url",
         "checkmate",
         "digest",
-        "fs",
         "progress",
         "R6",
         "rappdirs",
@@ -156758,7 +156182,6 @@
         "base64enc",
         "RCurl",
         "GenomeInfoDbData",
-        "fs",
         "zlibbioc"
     ],
     "HGNChelper": [],
@@ -157339,7 +156762,6 @@
         "cpp11",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -157543,7 +156965,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -157689,7 +157110,6 @@
         "ellipsis",
         "askpass",
         "magrittr",
-        "fs",
         "rappdirs"
     ],
     "tippy": [
@@ -157722,7 +157142,6 @@
         "Rcpp",
         "cli",
         "magrittr",
-        "fs",
         "rappdirs"
     ],
     "lsr": [],
@@ -157757,7 +157176,6 @@
         "magrittr",
         "stringi",
         "cpp11",
-        "fs",
         "rappdirs"
     ],
     "officer": [
@@ -157887,7 +157305,6 @@
         "nlme",
         "Matrix",
         "askpass",
-        "fs",
         "rappdirs",
         "foreach",
         "iterators",
@@ -157924,7 +157341,6 @@
         "Rcpp",
         "cli",
         "magrittr",
-        "fs",
         "rappdirs"
     ],
     "repo": [
@@ -158108,7 +157524,6 @@
         "highr",
         "xfun",
         "nlme",
-        "fs",
         "rappdirs",
         "farver",
         "labeling",
@@ -158221,7 +157636,6 @@
         "MASS",
         "proxy",
         "stringi",
-        "fs",
         "rappdirs"
     ],
     "dtangle": [],
@@ -158429,7 +157843,6 @@
         "base64enc",
         "RCurl",
         "GenomeInfoDbData",
-        "fs",
         "zlibbioc"
     ],
     "fmsb": [],
@@ -158737,7 +158150,6 @@
         "config",
         "crayon",
         "desc",
-        "fs",
         "here",
         "htmltools",
         "pkgload",
@@ -158829,7 +158241,6 @@
         "cli",
         "magrittr",
         "stringi",
-        "fs",
         "rappdirs"
     ],
     "wordcloud2": [
@@ -158899,7 +158310,6 @@
         "lattice",
         "nlme",
         "Matrix",
-        "fs",
         "rappdirs",
         "farver",
         "labeling",
@@ -158971,7 +158381,6 @@
         "zip",
         "utf8",
         "prettyunits",
-        "fs",
         "rappdirs",
         "clipr",
         "vroom",
@@ -159120,7 +158529,6 @@
         "cli",
         "magrittr",
         "tinytex",
-        "fs",
         "stringi"
     ],
     "configr": [
@@ -159160,7 +158568,6 @@
         "memoise",
         "highr",
         "cpp11",
-        "fs",
         "R6",
         "rappdirs"
     ],
@@ -159192,7 +158599,6 @@
         "Rcpp",
         "cli",
         "magrittr",
-        "fs",
         "rappdirs"
     ],
     "logr": [
@@ -159243,8 +158649,7 @@
         "cachem",
         "sass",
         "memoise",
-        "stringi",
-        "fs"
+        "stringi"
     ],
     "akima": [
         "sp",
@@ -159488,7 +158893,6 @@
         "withr",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "tibble",
@@ -159679,7 +159083,6 @@
         "base64enc",
         "RCurl",
         "GenomeInfoDbData",
-        "fs",
         "zlibbioc"
     ],
     "plsgenomics": [
@@ -159790,7 +159193,6 @@
         "clipr",
         "vroom",
         "tzdb",
-        "fs",
         "rappdirs",
         "bit64",
         "progress",
@@ -159861,7 +159263,6 @@
         "clipr",
         "vroom",
         "tzdb",
-        "fs",
         "rappdirs",
         "bit64",
         "progress",
@@ -159930,7 +159331,6 @@
         "clipr",
         "vroom",
         "tzdb",
-        "fs",
         "rappdirs",
         "bit64",
         "progress",
@@ -160213,7 +159613,6 @@
         "memoise",
         "magrittr",
         "stringi",
-        "fs",
         "R6",
         "rappdirs"
     ],
@@ -160298,8 +159697,7 @@
         "sass",
         "lazyeval",
         "digest",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "wheatmap": [
         "colorspace",
@@ -160542,8 +159940,7 @@
         "Matrix",
         "DelayedArray",
         "lattice",
-        "matrixStats",
-        "fs"
+        "matrixStats"
     ],
     "PerformanceAnalytics": [
         "xts",
@@ -160661,7 +160058,6 @@
         "Rcpp",
         "cli",
         "magrittr",
-        "fs",
         "rappdirs"
     ],
     "ggstar": [
@@ -160715,7 +160111,6 @@
         "memoise",
         "magrittr",
         "stringi",
-        "fs",
         "R6",
         "rappdirs"
     ],
@@ -161078,7 +160473,6 @@
         "Rcpp",
         "cli",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "SOMbrero": [
@@ -161151,7 +160545,6 @@
         "stringi",
         "pillar",
         "utf8",
-        "fs",
         "rappdirs",
         "cpp11"
     ],
@@ -161322,7 +160715,6 @@
         "progressr",
         "SQUAREM",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "future",
@@ -161485,7 +160877,6 @@
         "cpp11",
         "nlme",
         "Matrix",
-        "fs",
         "rappdirs",
         "lattice"
     ],
@@ -161601,7 +160992,6 @@
         "cli",
         "desc",
         "ellipsis",
-        "fs",
         "lifecycle",
         "memoise",
         "miniUI",
@@ -161691,7 +161081,6 @@
         "jsonlite",
         "memoise",
         "rlang",
-        "fs",
         "rappdirs",
         "rstudioapi",
         "withr",
@@ -161735,7 +161124,6 @@
         "withr",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "tibble",
@@ -161821,7 +161209,6 @@
         "Rcpp",
         "cli",
         "magrittr",
-        "fs",
         "rappdirs"
     ],
     "poorman": [],
@@ -162068,7 +161455,6 @@
         "ps",
         "waldo",
         "rprojroot",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -162195,8 +161581,7 @@
         "sass",
         "lazyeval",
         "digest",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "fst": [
         "fstcore",
@@ -162275,7 +161660,6 @@
         "base64enc",
         "RCurl",
         "GenomeInfoDbData",
-        "fs",
         "zlibbioc"
     ],
     "pdfCluster": [
@@ -162388,7 +161772,6 @@
         "clipr",
         "vroom",
         "tzdb",
-        "fs",
         "rappdirs",
         "bit64",
         "progress",
@@ -162532,7 +161915,6 @@
         "withr",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "tibble",
@@ -162618,7 +162000,6 @@
         "withr",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2",
         "tibble",
@@ -162646,7 +162027,6 @@
         "R.utils",
         "philentropy",
         "withr",
-        "fs",
         "AnnotationDbi",
         "progress",
         "digest",
@@ -163011,7 +162391,6 @@
         "purrr",
         "tibble",
         "rlang",
-        "fs",
         "memoise",
         "httr",
         "curl",
@@ -163315,8 +162694,7 @@
         "sass",
         "lazyeval",
         "digest",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "forecast": [
         "colorspace",
@@ -163586,7 +162964,6 @@
         "Rcpp",
         "cli",
         "magrittr",
-        "fs",
         "rappdirs"
     ],
     "enviPat": [],
@@ -163619,7 +162996,6 @@
         "Rcpp",
         "cli",
         "magrittr",
-        "fs",
         "rappdirs"
     ],
     "CpGassoc": [
@@ -163696,7 +163072,6 @@
         "base64enc",
         "RCurl",
         "GenomeInfoDbData",
-        "fs",
         "zlibbioc"
     ],
     "ExtDist": [
@@ -163804,8 +163179,7 @@
         "sass",
         "lazyeval",
         "digest",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "rcellminerData": [
         "Biobase",
@@ -163872,7 +163246,6 @@
         "lattice",
         "askpass",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "getPass": [
@@ -163953,7 +163326,6 @@
         "fastmap",
         "magrittr",
         "stringi",
-        "fs",
         "R6",
         "rappdirs"
     ],
@@ -164088,7 +163460,6 @@
         "base64enc",
         "RCurl",
         "GenomeInfoDbData",
-        "fs",
         "zlibbioc"
     ],
     "RGMQLlib": [],
@@ -164351,7 +163722,6 @@
         "base64enc",
         "RCurl",
         "GenomeInfoDbData",
-        "fs",
         "zlibbioc"
     ],
     "readJDX": [
@@ -164472,7 +163842,6 @@
         "viridisLite",
         "pillar",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "pwr": [],
@@ -164537,7 +163906,6 @@
         "fastmap",
         "magrittr",
         "stringi",
-        "fs",
         "R6",
         "rappdirs"
     ],
@@ -164682,8 +164050,7 @@
         "sass",
         "lazyeval",
         "digest",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "copula": [
         "Matrix",
@@ -164990,7 +164357,6 @@
         "utf8",
         "withr",
         "triebeard",
-        "fs",
         "rappdirs"
     ],
     "gistr": [
@@ -165036,7 +164402,6 @@
         "withr",
         "Rcpp",
         "triebeard",
-        "fs",
         "rappdirs"
     ],
     "objectProperties": [
@@ -165234,7 +164599,6 @@
         "waldo",
         "rprojroot",
         "crayon",
-        "fs",
         "diffobj",
         "rematch2"
     ],
@@ -165411,8 +164775,7 @@
         "sass",
         "lazyeval",
         "digest",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "GSVAdata": [
         "Biobase",
@@ -165580,7 +164943,6 @@
         "stringr",
         "tensor",
         "cpp11",
-        "fs",
         "stringi"
     ],
     "scRNAseq": [
@@ -165687,8 +165049,7 @@
         "sass",
         "lambda.r",
         "futile.options",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "TENxPBMCData": [
         "SingleCellExperiment",
@@ -165772,8 +165133,7 @@
         "sass",
         "lazyeval",
         "digest",
-        "base64enc",
-        "fs"
+        "base64enc"
     ],
     "VAM": [
         "MASS",
@@ -165961,7 +165321,6 @@
         "cpp11",
         "nlme",
         "Matrix",
-        "fs",
         "rappdirs",
         "farver",
         "labeling",
@@ -166469,7 +165828,6 @@
         "memoise",
         "Rcpp",
         "cli",
-        "fs",
         "rappdirs"
     ],
     "drawer": [
@@ -166514,7 +165872,6 @@
         "xfun",
         "yaml",
         "highr",
-        "fs",
         "rappdirs",
         "cpp11"
     ],
@@ -166604,7 +165961,6 @@
         "lattice",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "gghighlight": [
@@ -167088,7 +166444,6 @@
         "backports",
         "colorspace",
         "utf8",
-        "fs",
         "rappdirs"
     ],
     "shinyTree": [
@@ -167123,7 +166478,6 @@
         "digest",
         "base64enc",
         "cli",
-        "fs",
         "rappdirs"
     ],
     "msigdb": [
@@ -167202,8 +166556,7 @@
         "GenomeInfoDbData",
         "digest",
         "base64enc",
-        "zlibbioc",
-        "fs"
+        "zlibbioc"
     ],
     "eva": [
         "Matrix",
