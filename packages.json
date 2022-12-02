@@ -1266,7 +1266,6 @@
     "HiLDA": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "hipathia": [],
     "hiReadsProcessor": [],
     "HTSeqGenie": [
         "gmapR",
