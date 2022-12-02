@@ -8457,7 +8457,6 @@
         "GenomicRanges",
         "DelayedArray",
         "XVector",
-        "gmm",
         "progress"
     ],
     "DepecheR": [
@@ -16632,8 +16631,7 @@
         "GenomicRanges",
         "DelayedArray",
         "XVector",
-        "ggrepel",
-        "gmm"
+        "ggrepel"
     ],
     "LiquidAssociation": [
         "geepack",
@@ -17398,8 +17396,7 @@
         "GenomicRanges",
         "DelayedArray",
         "RSpectra",
-        "XVector",
-        "gmm"
+        "XVector"
     ],
     "MatrixRider": [
         "TFBSTools",
@@ -19097,7 +19094,6 @@
         "Biostrings",
         "multtest",
         "vegan",
-        "gmm",
         "XVector",
         "pillar"
     ],
@@ -22675,7 +22671,6 @@
         "quantreg",
         "tidyselect",
         "testthat",
-        "gmm",
         "Biostrings",
         "blob",
         "waldo",
@@ -26949,7 +26944,6 @@
         "tidyselect",
         "pillar",
         "testthat",
-        "gmm",
         "waldo",
         "rematch2"
     ],
@@ -31426,8 +31420,7 @@
     "sparseDOSSA": [
         "tmvtnorm",
         "MCMCpack",
-        "quantreg",
-        "gmm"
+        "quantreg"
     ],
     "sparsenetgls": [
         "glmnet",
@@ -38660,13 +38653,9 @@
         "TTR"
     ],
     "imputeLCMD": [
-        "tmvtnorm",
-        "gmm"
+        "tmvtnorm"
     ],
-    "tmvtnorm": [
-        "gmm"
-    ],
-    "gmm": [],
+    "tmvtnorm": [],
     "ggplot.multistats": [
         "ggplot2",
         "tibble",
