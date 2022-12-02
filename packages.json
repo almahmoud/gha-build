@@ -1560,7 +1560,6 @@
         "lme4",
         "pbkrtest"
     ],
-    "monaLisa": [],
     "MoonlightR": [
         "clusterProfiler",
         "enrichplot",
