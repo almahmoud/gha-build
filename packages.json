@@ -182,9 +182,7 @@
         "AnnotationHub",
         "OrganismDbi"
     ],
-    "ArrayExpress": [
-        "oligo"
-    ],
+    "ArrayExpress": [],
     "ArrayExpressHTS": [
         "biomaRt"
     ],
@@ -1011,8 +1009,7 @@
     "ChIPsim": [],
     "ChIPXpress": [
         "GEOquery",
-        "frma",
-        "oligo"
+        "frma"
     ],
     "ChromHeatMap": [],
     "chromPlot": [
@@ -1114,9 +1111,7 @@
         "treeio"
     ],
     "clustifyr": [],
-    "cn.farms": [
-        "oligo"
-    ],
+    "cn.farms": [],
     "CNEr": [],
     "CNORfuzzy": [
         "nloptr",
@@ -1424,7 +1419,6 @@
     ],
     "crossmeta": [
         "GEOquery",
-        "oligo",
         "sva"
     ],
     "csdR": [
@@ -1872,8 +1866,7 @@
     "DrugVsDisease": [
         "biomaRt",
         "ArrayExpress",
-        "GEOquery",
-        "oligo"
+        "GEOquery"
     ],
     "DSS": [
         "bsseq",
@@ -2483,9 +2476,7 @@
         "fds",
         "rainbow"
     ],
-    "frma": [
-        "oligo"
-    ],
+    "frma": [],
     "FunChIP": [
         "fda",
         "fds",
@@ -3306,7 +3297,6 @@
         "GGally"
     ],
     "ITALICS": [
-        "oligo",
         "pd.mapping50k.xba240"
     ],
     "IVAS": [
@@ -4020,9 +4010,7 @@
         "ggraph",
         "tidygraph"
     ],
-    "mimager": [
-        "oligo"
-    ],
+    "mimager": [],
     "MIMOSA": [
         "testthat"
     ],
@@ -4734,7 +4722,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "oligo": [],
     "omada": [
         "diceR",
         "klaR",
@@ -4978,9 +4965,7 @@
         "nloptr",
         "testthat"
     ],
-    "pdInfoBuilder": [
-        "oligo"
-    ],
+    "pdInfoBuilder": [],
     "PeacoQC": [],
     "peakPantheR": [
         "MSnbase"
@@ -5342,9 +5327,7 @@
         "nloptr",
         "testthat"
     ],
-    "puma": [
-        "oligo"
-    ],
+    "puma": [],
     "PureCN": [
         "VariantAnnotation",
         "GenomicFeatures",
@@ -6017,7 +6000,6 @@
         "plotly"
     ],
     "SCAN.UPC": [
-        "oligo",
         "GEOquery",
         "sva"
     ],
@@ -7887,9 +7869,7 @@
         "rio",
         "haven"
     ],
-    "pd.mapping50k.xba240": [
-        "oligo"
-    ],
+    "pd.mapping50k.xba240": [],
     "reldist": [],
     "adabag": [
         "caret",
