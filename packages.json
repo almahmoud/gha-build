@@ -595,7 +595,6 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "CARNIVAL": [],
     "casper": [
         "GenomicFeatures",
         "biomaRt"
@@ -1089,9 +1088,7 @@
         "xcms",
         "faahKO"
     ],
-    "cosmosR": [
-        "CARNIVAL"
-    ],
+    "cosmosR": [],
     "countsimQC": [
         "DESeq2"
     ],
