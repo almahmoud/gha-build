@@ -1717,7 +1717,6 @@
         "GEOquery",
         "oligo",
         "sva",
-        "shinypanel",
         "readr",
         "genefilter"
     ],
@@ -9166,7 +9165,6 @@
         "BiocFileCache"
     ],
     "keras": [],
-    "shinypanel": [],
     "highcharter": [
         "broom"
     ],
