@@ -715,7 +715,6 @@
         "biomaRt",
         "treeio"
     ],
-    "ChIPsim": [],
     "ChIPXpress": [
         "GEOquery",
         "frma"
