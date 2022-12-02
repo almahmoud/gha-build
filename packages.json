@@ -13744,7 +13744,6 @@
         "dplyr",
         "tidyr",
         "gganimate",
-        "aricode",
         "futile.logger",
         "tibble",
         "tidyselect",
@@ -21870,7 +21869,6 @@
         "openssl"
     ],
     "ILoReg": [
-        "aricode",
         "ggplot2",
         "cowplot",
         "RSpectra",
@@ -35082,7 +35080,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "Seurat",
-        "aricode",
         "dplyr",
         "scales",
         "scran",
@@ -56276,7 +56273,6 @@
         "hms",
         "pillar"
     ],
-    "aricode": [],
     "easierData": [
         "ExperimentHub",
         "AnnotationHub",
