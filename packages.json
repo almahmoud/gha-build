@@ -272,7 +272,6 @@
     "artMS": [
         "MSstats",
         "plotly",
-        "UpSetR",
         "lme4",
         "nloptr",
         "testthat"
@@ -305,7 +304,6 @@
     "ASpli": [
         "GenomicFeatures",
         "Gviz",
-        "UpSetR",
         "rtracklayer",
         "biomaRt",
         "ensembldb",
@@ -2407,7 +2405,6 @@
     "DiscoRhythm": [
         "ggExtra",
         "broom",
-        "UpSetR",
         "heatmaply",
         "plotly",
         "colourpicker",
@@ -4163,16 +4160,13 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "iCOBRA": [
-        "UpSetR"
-    ],
+    "iCOBRA": [],
     "ideal": [
         "topGO",
         "DESeq2",
         "heatmaply",
         "plotly",
         "pcaExplorer",
-        "UpSetR",
         "goseq",
         "GOstats",
         "geneplotter",
@@ -4461,7 +4455,6 @@
     "ivygapSE": [
         "survminer",
         "plotly",
-        "UpSetR",
         "ggpubr",
         "broom",
         "rstatix",
@@ -4644,7 +4637,6 @@
     ],
     "LymphoSeq": [
         "ggtree",
-        "UpSetR",
         "aplot",
         "ggfun",
         "tidytree",
@@ -4709,7 +4701,6 @@
         "RnBeads",
         "crlmm",
         "bigstatsr",
-        "UpSetR",
         "fields",
         "methylumi",
         "FDb.InfiniumMethylation.hg19",
@@ -4797,8 +4788,7 @@
     "MAST": [],
     "MatrixQCvis": [
         "plotly",
-        "Hmisc",
-        "UpSetR"
+        "Hmisc"
     ],
     "MatrixRider": [
         "TFBSTools",
@@ -8297,8 +8287,7 @@
         "geneplotter"
     ],
     "seqsetvis": [
-        "rtracklayer",
-        "UpSetR"
+        "rtracklayer"
     ],
     "SeqSQC": [
         "ExperimentHub",
@@ -8697,7 +8686,6 @@
         "scater",
         "scuttle",
         "scran",
-        "UpSetR",
         "ggrastr",
         "Hmisc"
     ],
@@ -8943,9 +8931,7 @@
         "ipred"
     ],
     "subSeq": [],
-    "SummarizedBenchmark": [
-        "UpSetR"
-    ],
+    "SummarizedBenchmark": [],
     "Summix": [
         "nloptr",
         "testthat"
@@ -9297,7 +9283,6 @@
         "naniar",
         "recipes",
         "visdat",
-        "UpSetR",
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
@@ -9648,9 +9633,7 @@
         "zellkonverter",
         "scuttle"
     ],
-    "VennDetail": [
-        "UpSetR"
-    ],
+    "VennDetail": [],
     "vidger": [
         "DESeq2",
         "GGally",
@@ -9665,7 +9648,6 @@
         "heatmaply",
         "plotly",
         "topGO",
-        "UpSetR",
         "BiocFileCache",
         "readr"
     ],
@@ -9990,7 +9972,6 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "UpSetR": [],
     "mGSZ": [],
     "ggfortify": [],
     "msigdbr": [],
@@ -10859,7 +10840,6 @@
     ],
     "naniar": [
         "visdat",
-        "UpSetR",
         "readr"
     ],
     "visdat": [
