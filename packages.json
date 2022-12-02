@@ -10,9 +10,7 @@
         "tilingArray",
         "snapCGH"
     ],
-    "ADAM": [],
     "ADAMgui": [
-        "ADAM",
         "ggpubr",
         "rstatix",
         "car",
