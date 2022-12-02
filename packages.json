@@ -725,7 +725,6 @@
         "WGCNA",
         "sva",
         "ggnetwork",
-        "intergraph",
         "genefilter",
         "Hmisc"
     ],
@@ -956,7 +955,6 @@
         "WGCNA",
         "sva",
         "ggnetwork",
-        "intergraph",
         "Hmisc",
         "biovizBase",
         "BSgenome",
@@ -1136,7 +1134,6 @@
         "ggpmisc",
         "clusterProfiler",
         "fgsea",
-        "intergraph",
         "DOSE",
         "enrichplot",
         "GOSemSim",
@@ -3103,7 +3100,6 @@
         "rainbow"
     ],
     "fcoex": [
-        "intergraph",
         "clusterProfiler",
         "DOSE",
         "enrichplot",
@@ -8938,7 +8934,6 @@
     "syntenet": [
         "rtracklayer",
         "ggnetwork",
-        "intergraph",
         "testthat"
     ],
     "systemPipeR": [
@@ -9990,7 +9985,6 @@
         "BiocFileCache"
     ],
     "ggnetwork": [],
-    "intergraph": [],
     "superheat": [],
     "biscuiteerData": [
         "ExperimentHub",
