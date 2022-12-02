@@ -17112,7 +17112,6 @@
         "bigstatsr",
         "UpSetR",
         "RnBeads.hg19",
-        "bigparallelr",
         "cowplot",
         "ggplot2",
         "RSpectra",
@@ -39381,7 +39380,6 @@
         "pillar"
     ],
     "bigstatsr": [
-        "bigparallelr",
         "cowplot",
         "ggplot2",
         "RSpectra",
@@ -39392,7 +39390,6 @@
         "GenomicRanges",
         "XVector"
     ],
-    "bigparallelr": [],
     "depmap": [
         "dplyr",
         "ExperimentHub",
