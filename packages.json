@@ -65,7 +65,6 @@
     "AGDEX": [
         "GSEABase"
     ],
-    "aggregateBioVar": [],
     "AgiMicroRna": [
         "affycoretools",
         "GOstats",
