@@ -2246,7 +2246,6 @@
     "ExploreModelMatrix": [],
     "extraChIPs": [
         "broom",
-        "ComplexUpset",
         "GenomicInteractions",
         "Gviz",
         "biomaRt",
@@ -2589,7 +2588,6 @@
         "VariantAnnotation"
     ],
     "GeneTonic": [
-        "ComplexUpset",
         "DESeq2",
         "plotly"
     ],
@@ -7684,7 +7682,6 @@
     "gprofiler2": [
         "plotly"
     ],
-    "ComplexUpset": [],
     "gap": [
         "plotly"
     ],
