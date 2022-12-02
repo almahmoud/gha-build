@@ -36504,7 +36504,6 @@
         "RcppEigen",
         "DelayedArray"
     ],
-    "RBioinf": [],
     "RBM": [],
     "Rbowtie2": [
         "Rsamtools",
