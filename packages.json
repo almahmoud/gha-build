@@ -50364,7 +50364,6 @@
     ],
     "GRridge": [
         "penalized",
-        "Iso",
         "survival",
         "graph",
         "glmnet",
@@ -144214,7 +144213,6 @@
         "Matrix",
         "lattice"
     ],
-    "Iso": [],
     "fGarch": [
         "fBasics",
         "timeDate",
