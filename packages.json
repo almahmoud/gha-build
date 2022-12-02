@@ -4703,7 +4703,6 @@
     "signifinder": [
         "consensusOV",
         "ensembldb",
-        "openair",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "survminer",
@@ -5957,7 +5956,6 @@
         "lme4",
         "nloptr"
     ],
-    "openair": [],
     "celldex": [
         "ExperimentHub"
     ],
