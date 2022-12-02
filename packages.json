@@ -188,7 +188,6 @@
         "rstatix"
     ],
     "GRmetrics": [],
-    "HiCDCPlus": [],
     "HiCDOC": [
         "ggpubr",
         "rstatix"
