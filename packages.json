@@ -923,7 +923,6 @@
         "treeio"
     ],
     "easyRNASeq": [],
-    "EBSEA": [],
     "EBSeqHMM": [],
     "EDASeq": [
         "GenomicFeatures"
