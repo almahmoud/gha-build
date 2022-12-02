@@ -10059,7 +10059,6 @@
         "GEOquery",
         "ggplot2",
         "progress",
-        "R.matlab",
         "SummarizedExperiment",
         "tibble",
         "tidyr",
@@ -18249,7 +18248,6 @@
     ],
     "MethylMix": [
         "ggplot2",
-        "R.matlab",
         "tibble",
         "pillar"
     ],
@@ -30434,7 +30432,6 @@
         "ggplot2",
         "dplyr",
         "EBImage",
-        "R.matlab",
         "fitdistrplus",
         "mixtools",
         "sampSurf",
@@ -33640,9 +33637,7 @@
         "tibble",
         "pillar"
     ],
-    "TRONCO": [
-        "R.matlab"
-    ],
+    "TRONCO": [],
     "TSCAN": [
         "SingleCellExperiment",
         "TrajectoryUtils",
@@ -37718,7 +37713,6 @@
         "bslib",
         "XVector"
     ],
-    "R.matlab": [],
     "batchtools": [
         "progress",
         "hms"
