@@ -48,9 +48,7 @@
     "esATAC": [
         "JASPAR2018"
     ],
-    "EWCE": [
-        "orthogene"
-    ],
+    "EWCE": [],
     "flowCL": [
         "SPARQL"
     ],
@@ -107,7 +105,6 @@
         "survminer"
     ],
     "onlineFDR": [],
-    "orthogene": [],
     "PDATK": [
         "survminer"
     ],
