@@ -2080,8 +2080,7 @@
         "CAMERA",
         "agricolae",
         "klaR",
-        "questionr",
-        "labelled"
+        "questionr"
     ],
     "maPredictDSC": [],
     "maser": [
@@ -2806,8 +2805,7 @@
     "omada": [
         "diceR",
         "klaR",
-        "questionr",
-        "labelled"
+        "questionr"
     ],
     "OmaDB": [],
     "omicRexposome": [
@@ -3926,8 +3924,7 @@
     "ssPATHS": [
         "MESS",
         "geepack",
-        "ggformula",
-        "labelled"
+        "ggformula"
     ],
     "STAN": [
         "Gviz",
@@ -4612,17 +4609,12 @@
     "depmap": [],
     "agricolae": [
         "klaR",
-        "questionr",
-        "labelled"
+        "questionr"
     ],
     "klaR": [
-        "questionr",
-        "labelled"
+        "questionr"
     ],
-    "questionr": [
-        "labelled"
-    ],
-    "labelled": [],
+    "questionr": [],
     "SmartSVA": [],
     "EnsDb.Hsapiens.v75": [
         "ensembldb",
@@ -4674,8 +4666,7 @@
     "octad.db": [],
     "diceR": [
         "klaR",
-        "questionr",
-        "labelled"
+        "questionr"
     ],
     "OMICsPCAdata": [],
     "AICcmodavg": [
@@ -4736,12 +4727,9 @@
     "sampSurf": [],
     "MESS": [
         "geepack",
-        "ggformula",
-        "labelled"
+        "ggformula"
     ],
-    "ggformula": [
-        "labelled"
-    ],
+    "ggformula": [],
     "GenKern": [],
     "naniar": [],
     "vbsr": [],
