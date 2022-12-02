@@ -39336,7 +39336,6 @@
         "ggplotify",
         "IRanges",
         "plyranges",
-        "strawr",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -56079,7 +56078,6 @@
         "dbplyr",
         "ggplotify",
         "plyranges",
-        "strawr",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -65097,7 +65095,6 @@
     "Cubist": [
         "reshape2"
     ],
-    "strawr": [],
     "tidybayes": [
         "ggdist",
         "dplyr",
