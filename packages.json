@@ -2964,7 +2964,6 @@
         "ggtree",
         "treeio"
     ],
-    "TIN": [],
     "TitanCNA": [
         "VariantAnnotation"
     ],
