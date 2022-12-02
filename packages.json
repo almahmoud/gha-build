@@ -55940,7 +55940,6 @@
         "Matrix",
         "parallelDist",
         "dplyr",
-        "HiddenMarkov",
         "ggplot2",
         "edgeR",
         "coin",
@@ -73755,7 +73754,6 @@
         "viridisLite"
     ],
     "MOSim": [
-        "HiddenMarkov",
         "zoo",
         "matrixStats",
         "dplyr",
@@ -145632,7 +145630,6 @@
         "lattice",
         "Rcpp"
     ],
-    "HiddenMarkov": [],
     "argparse": [
         "R6",
         "findpython"
