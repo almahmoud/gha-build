@@ -7180,7 +7180,6 @@
         "SpatialFeatureExperiment",
         "DropletUtils"
     ],
-    "VplotR": [],
     "vsclust": [
         "MultiAssayExperiment"
     ],
