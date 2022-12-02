@@ -2889,8 +2889,7 @@
         "rtracklayer"
     ],
     "Dune": [
-        "tidyr",
-        "gganimate"
+        "tidyr"
     ],
     "easier": [
         "progeny",
@@ -12039,7 +12038,6 @@
         "qvalue"
     ],
     "hgu133a2.db": [],
-    "gganimate": [],
     "easierData": [
         "ExperimentHub",
         "AnnotationHub",
