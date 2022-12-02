@@ -4955,7 +4955,6 @@
         "ggmcmc",
         "GGally"
     ],
-    "MGFM": [],
     "MGFR": [
         "biomaRt",
         "BiocFileCache"
@@ -7527,7 +7526,6 @@
     ],
     "rWikiPathways": [],
     "sampleClassifier": [
-        "MGFM",
         "MGFR",
         "biomaRt",
         "BiocFileCache"
