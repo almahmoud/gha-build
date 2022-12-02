@@ -6214,7 +6214,6 @@
     "diffcoexp": [
         "WGCNA",
         "SummarizedExperiment",
-        "DiffCorr",
         "GenomicRanges",
         "Hmisc",
         "GO.db",
@@ -27666,7 +27665,6 @@
         "ggplot2",
         "tibble"
     ],
-    "DiffCorr": [],
     "fastDummies": [
         "tibble"
     ],
