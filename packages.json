@@ -306,7 +306,6 @@
         "ttgsea",
         "textstem"
     ],
-    "deepSNV": [],
     "derfinder": [
         "GenomicFiles"
     ],
@@ -845,9 +844,7 @@
         "IlluminaHumanMethylationEPICmanifest",
         "methylumi"
     ],
-    "mitoClone2": [
-        "deepSNV"
-    ],
+    "mitoClone2": [],
     "MMUPHin": [
         "Maaslin2",
         "car",
