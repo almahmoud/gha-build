@@ -37,9 +37,7 @@
     "ASpli": [
         "Gviz"
     ],
-    "ATACCoGAPS": [
-        "rGREAT"
-    ],
+    "ATACCoGAPS": [],
     "atSNP": [],
     "BaalChIP": [
         "doBy"
@@ -885,8 +883,7 @@
         "pvca"
     ],
     "profileplyr": [
-        "ChIPseeker",
-        "rGREAT"
+        "ChIPseeker"
     ],
     "Prostar": [
         "DAPAR",
@@ -953,7 +950,6 @@
         "FactoMineR",
         "car"
     ],
-    "rGREAT": [],
     "rgsepd": [],
     "Rhisat2": [],
     "RiboProfiling": [
