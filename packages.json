@@ -1923,7 +1923,6 @@
         "drtmle",
         "SummarizedExperiment",
         "SuperLearner",
-        "np",
         "ggdendro"
     ],
     "biovizBase": [
@@ -25040,11 +25039,9 @@
         "tibble"
     ],
     "drtmle": [
-        "SuperLearner",
-        "np"
+        "SuperLearner"
     ],
     "SuperLearner": [],
-    "np": [],
     "biscuiteerData": [
         "ExperimentHub",
         "AnnotationHub",
