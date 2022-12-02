@@ -3999,7 +3999,6 @@
         "tidyr",
         "aplot",
         "ggalt",
-        "statebins",
         "ggtree",
         "ggfun",
         "plotly",
@@ -11418,7 +11417,6 @@
         "plotly",
         "tidyr"
     ],
-    "statebins": [],
     "HH": [
         "Hmisc"
     ],
