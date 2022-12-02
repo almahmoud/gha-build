@@ -4848,7 +4848,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "SpectralTAD": [],
     "SPIAT": [
         "SpatialExperiment",
         "xROI"
