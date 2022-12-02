@@ -18306,7 +18306,6 @@
         "biomaRt",
         "igraph",
         "STRINGdb",
-        "yeastExpData",
         "httr",
         "AnnotationDbi",
         "progress",
@@ -32134,7 +32133,6 @@
         "ggplot2",
         "igraph",
         "STRINGdb",
-        "yeastExpData",
         "httr",
         "AnnotationDbi",
         "progress",
@@ -51324,7 +51322,6 @@
         "vctrs",
         "pillar"
     ],
-    "yeastExpData": [],
     "matchingR": [],
     "BatchJobs": [
         "BBmisc",
