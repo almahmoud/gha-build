@@ -545,7 +545,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "DEsubs": [],
     "DiffBind": [],
     "diffcyt": [
         "FlowSOM",
