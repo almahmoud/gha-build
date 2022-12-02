@@ -1051,7 +1051,6 @@
     "clusterExperiment": [
         "zinbwave",
         "phylobase",
-        "mbkmeans",
         "RNeXML"
     ],
     "clusterProfiler": [
@@ -3428,7 +3427,6 @@
         "nloptr",
         "testthat"
     ],
-    "mbkmeans": [],
     "mbOmic": [
         "WGCNA"
     ],
@@ -4405,7 +4403,6 @@
         "clusterExperiment",
         "zinbwave",
         "phylobase",
-        "mbkmeans",
         "RNeXML"
     ],
     "netZooR": [
