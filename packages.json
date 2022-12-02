@@ -3612,7 +3612,6 @@
         "BiocFileCache"
     ],
     "fgsea": [],
-    "FilterFFPE": [],
     "FindIT2": [
         "rtracklayer",
         "GenomicFeatures",
