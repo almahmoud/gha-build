@@ -2427,7 +2427,6 @@
     ],
     "ViSEAGO": [],
     "vissE": [
-        "msigdb",
         "textstem",
         "textclean"
     ],
@@ -2671,6 +2670,5 @@
     "sampSurf": [],
     "MESS": [],
     "GenKern": [],
-    "vbsr": [],
-    "msigdb": []
+    "vbsr": []
 }
