@@ -2841,7 +2841,6 @@
         "survival",
         "httr",
         "tidyr",
-        "TSP",
         "callr",
         "RSQLite",
         "KEGGREST",
@@ -9681,7 +9680,6 @@
     "contiBAIT": [
         "Rsamtools",
         "GenomicRanges",
-        "TSP",
         "GenomicFiles",
         "rtracklayer",
         "BiocParallel",
@@ -11818,7 +11816,6 @@
         "openssl",
         "Biostrings",
         "blob",
-        "TSP",
         "callr",
         "tweenr"
     ],
@@ -12161,7 +12158,6 @@
         "openssl",
         "blob",
         "restfulr",
-        "TSP",
         "DelayedArray",
         "callr",
         "dbplyr",
@@ -13175,7 +13171,6 @@
         "XVector",
         "openssl",
         "selectr",
-        "TSP",
         "callr"
     ],
     "distinct": [
@@ -17340,7 +17335,6 @@
         "blob",
         "restfulr",
         "annotate",
-        "TSP",
         "callr"
     ],
     "frenchFISH": [
@@ -19030,7 +19024,6 @@
         "cellranger",
         "progress",
         "RcppEigen",
-        "TSP",
         "callr",
         "pbkrtest",
         "quantreg",
@@ -20202,7 +20195,6 @@
     "GraphPAC": [
         "iPAC",
         "igraph",
-        "TSP",
         "Biostrings",
         "multtest",
         "XVector",
@@ -21925,7 +21917,6 @@
         "Biostrings",
         "doParallel",
         "blob",
-        "TSP",
         "igraph",
         "callr",
         "dbplyr",
@@ -22273,7 +22264,6 @@
         "sass",
         "tidyselect",
         "pillar",
-        "TSP",
         "callr"
     ],
     "immunoClust": [],
@@ -26570,7 +26560,6 @@
         "tidyr",
         "lava",
         "hms",
-        "TSP",
         "latticeExtra",
         "callr",
         "pillar",
@@ -27331,7 +27320,6 @@
         "GenomeInfoDb",
         "ade4",
         "segmented",
-        "TSP",
         "httpuv",
         "fontawesome",
         "bslib",
@@ -27818,7 +27806,6 @@
         "RcppEigen",
         "openssl",
         "nloptr",
-        "TSP",
         "DelayedArray",
         "progress",
         "callr",
@@ -32023,7 +32010,6 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "TSP",
         "Hmisc",
         "dbplyr",
         "dplyr",
@@ -33829,7 +33815,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "TSP",
         "callr",
         "dbplyr",
         "hms"
@@ -34395,7 +34380,6 @@
         "Biostrings",
         "hms",
         "blob",
-        "TSP",
         "callr"
     ],
     "pcaMethods": [],
@@ -37290,7 +37274,6 @@
         "tidyr",
         "dplyr",
         "RcppEigen",
-        "TSP",
         "pillar",
         "lmtest",
         "callr",
@@ -37587,7 +37570,6 @@
         "GraphPAC",
         "SpacePAC",
         "igraph",
-        "TSP",
         "Biostrings",
         "multtest",
         "XVector",
@@ -43351,7 +43333,6 @@
         "openssl",
         "DT",
         "Biostrings",
-        "TSP",
         "fitdistrplus",
         "future",
         "future.apply",
@@ -43593,7 +43574,6 @@
         "randomcoloR",
         "doParallel",
         "scales",
-        "TSP",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -44069,7 +44049,6 @@
         "XVector",
         "tibble",
         "vctrs",
-        "TSP",
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -44201,7 +44180,6 @@
         "rhdf5",
         "openssl",
         "base64",
-        "TSP",
         "multtest",
         "callr",
         "RSQLite",
@@ -44892,7 +44870,6 @@
     ],
     "sincell": [
         "igraph",
-        "TSP",
         "ggplot2",
         "fields",
         "viridis",
@@ -46510,7 +46487,6 @@
         "pillar",
         "tidyselect",
         "openssl",
-        "TSP",
         "callr"
     ],
     "SplicingFactory": [
@@ -51401,7 +51377,6 @@
         "hms",
         "vroom",
         "blob",
-        "TSP",
         "callr",
         "XVector",
         "GenomeInfoDb"
@@ -54193,15 +54168,12 @@
         "httr",
         "tidyr",
         "dplyr",
-        "TSP",
         "callr",
         "tidyselect",
         "pillar",
         "openssl"
     ],
-    "seriation": [
-        "TSP"
-    ],
+    "seriation": [],
     "webshot": [
         "callr"
     ],
@@ -54213,7 +54185,6 @@
         "vctrs",
         "pillar"
     ],
-    "TSP": [],
     "DirichletReg": [
         "maxLik",
         "sandwich"
@@ -57154,7 +57125,6 @@
         "mgcv",
         "openssl",
         "hms",
-        "TSP",
         "callr"
     ],
     "shinybusy": [
