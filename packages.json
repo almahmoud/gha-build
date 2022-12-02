@@ -506,8 +506,7 @@
     ],
     "DeepPINCS": [
         "ttgsea",
-        "textstem",
-        "textclean"
+        "textstem"
     ],
     "deepSNV": [
         "VariantAnnotation"
@@ -783,9 +782,7 @@
     "flowVS": [
         "flowStats"
     ],
-    "fobitools": [
-        "textclean"
-    ],
+    "fobitools": [],
     "FRASER": [],
     "frenchFISH": [
         "NHPoisson",
@@ -884,8 +881,7 @@
     "GenProSeq": [
         "DeepPINCS",
         "ttgsea",
-        "textstem",
-        "textclean"
+        "textstem"
     ],
     "GenVisR": [
         "VariantAnnotation"
@@ -2330,8 +2326,7 @@
     "TreeSummarizedExperiment": [],
     "trena": [],
     "ttgsea": [
-        "textstem",
-        "textclean"
+        "textstem"
     ],
     "tximeta": [],
     "Ularcirc": [],
@@ -2354,8 +2349,7 @@
     "VAExprs": [
         "DeepPINCS",
         "ttgsea",
-        "textstem",
-        "textclean"
+        "textstem"
     ],
     "VanillaICE": [],
     "variancePartition": [
@@ -2381,8 +2375,7 @@
     ],
     "ViSEAGO": [],
     "vissE": [
-        "textstem",
-        "textclean"
+        "textstem"
     ],
     "Voyager": [],
     "vtpnet": [
@@ -2532,10 +2525,7 @@
     "rsq": [
         "lme4"
     ],
-    "textstem": [
-        "textclean"
-    ],
-    "textclean": [],
+    "textstem": [],
     "VIM": [
         "car",
         "pbkrtest",
