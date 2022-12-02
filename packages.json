@@ -1610,7 +1610,6 @@
     "easier": [
         "progeny",
         "easierData",
-        "quantiseqr",
         "ggpubr",
         "DESeq2",
         "rstatix",
@@ -4477,7 +4476,6 @@
     "qsvaR": [
         "sva"
     ],
-    "quantiseqr": [],
     "quantro": [
         "minfi",
         "bumphunter",
