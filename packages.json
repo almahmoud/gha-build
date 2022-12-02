@@ -18648,7 +18648,6 @@
         "confintr",
         "polynom",
         "quantreg",
-        "lmodel2",
         "splus2R",
         "lubridate",
         "purrr",
@@ -77028,7 +77027,6 @@
         "confintr",
         "polynom",
         "quantreg",
-        "lmodel2",
         "splus2R",
         "plyr",
         "lubridate",
@@ -158572,7 +158570,6 @@
         "confintr",
         "polynom",
         "quantreg",
-        "lmodel2",
         "splus2R",
         "tibble",
         "plyr",
@@ -158656,7 +158653,6 @@
     "confintr": [
         "boot"
     ],
-    "lmodel2": [],
     "splus2R": [],
     "broom.mixed": [
         "broom",
