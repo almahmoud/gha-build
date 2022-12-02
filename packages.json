@@ -3539,7 +3539,6 @@
         "tidyr",
         "broom",
         "forcats",
-        "furrr",
         "FlowSOM",
         "tidyselect",
         "nloptr",
@@ -3581,7 +3580,6 @@
     "ceRNAnetsim": [
         "dplyr",
         "tidygraph",
-        "furrr",
         "tibble",
         "ggplot2",
         "ggraph",
@@ -9375,7 +9373,6 @@
         "flowViz"
     ],
     "flowGraph": [
-        "furrr",
         "ggiraph",
         "ggrepel",
         "ggplot2",
@@ -16043,7 +16040,6 @@
     "mistyR": [
         "caret",
         "dplyr",
-        "furrr",
         "ggplot2",
         "readr",
         "tibble",
@@ -18901,7 +18897,6 @@
         "tensorflow",
         "tfprobability",
         "tidyr",
-        "furrr",
         "tibble",
         "tidygraph",
         "dplyr",
@@ -19809,7 +19804,6 @@
         "rstan",
         "tibble",
         "dplyr",
-        "furrr",
         "tidyr",
         "ggplot2",
         "tidybayes",
@@ -26198,7 +26192,6 @@
         "recipes",
         "tibble",
         "tidyselect",
-        "furrr",
         "slider",
         "GenomicRanges",
         "hardhat",
@@ -26365,7 +26358,6 @@
         "tidyverse",
         "dplyr",
         "tidyr",
-        "furrr",
         "ggplot2",
         "ggforce",
         "vegan",
@@ -30218,7 +30210,6 @@
         "forcats",
         "tibble",
         "tidyr",
-        "furrr",
         "ggplot2",
         "tidyselect"
     ],
@@ -30230,7 +30221,6 @@
         "ggplot2",
         "tidyselect"
     ],
-    "furrr": [],
     "GenomicTools": [],
     "GenomicTools.fileHandler": [
         "snpStats"
@@ -32581,7 +32571,6 @@
     ],
     "rsample": [
         "dplyr",
-        "furrr",
         "slider",
         "tibble",
         "tidyr",
