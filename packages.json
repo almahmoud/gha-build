@@ -3127,7 +3127,6 @@
     "CNVgears": [
         "ggplot2"
     ],
-    "cnvGSA": [],
     "CNViz": [
         "dplyr",
         "plotly",
