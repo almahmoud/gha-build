@@ -1241,7 +1241,6 @@
         "beadarray"
     ],
     "BLMA": [
-        "ROntoTools",
         "PADOG",
         "hgu133plus2.db",
         "hgu133a.db",
@@ -8390,7 +8389,6 @@
     ],
     "MiRaGE": [],
     "mirIntegrator": [
-        "ROntoTools",
         "org.Hs.eg.db"
     ],
     "miRLAB": [
@@ -12113,7 +12111,6 @@
     "RolDE": [
         "qvalue"
     ],
-    "ROntoTools": [],
     "ropls": [
         "plotly",
         "MultiAssayExperiment",
