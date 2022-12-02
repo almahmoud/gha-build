@@ -238,7 +238,6 @@
         "speaq",
         "ggplot2",
         "ggrepel",
-        "cellranger",
         "rvest"
     ],
     "AMARETTO": [
@@ -293,7 +292,6 @@
         "scater",
         "testthat",
         "treeio",
-        "cellranger",
         "ggbeeswarm",
         "ggrastr",
         "ggrepel",
@@ -684,7 +682,6 @@
         "BiocFileCache",
         "GenomicAlignments",
         "annotate",
-        "cellranger",
         "rematch2",
         "vroom"
     ],
@@ -784,8 +781,7 @@
         "readxl",
         "tidyr",
         "dbplyr",
-        "dplyr",
-        "cellranger"
+        "dplyr"
     ],
     "awst": [],
     "BaalChIP": [
@@ -1041,7 +1037,6 @@
         "scater",
         "testthat",
         "tidytree",
-        "cellranger",
         "ggbeeswarm",
         "ggrastr",
         "waldo",
@@ -1183,7 +1178,6 @@
         "ggrepel",
         "tidygraph",
         "vroom",
-        "cellranger",
         "ggfun",
         "ggplotify",
         "tidytree",
@@ -3200,7 +3194,6 @@
         "haven",
         "readxl",
         "readr",
-        "cellranger",
         "vroom"
     ],
     "conclus": [
@@ -3573,7 +3566,6 @@
         "dbplyr",
         "forcats",
         "readr",
-        "cellranger",
         "vroom"
     ],
     "CrispRVariants": [
@@ -3654,7 +3646,6 @@
         "dplyr",
         "tidyr",
         "oligoClasses",
-        "cellranger",
         "genefilter",
         "annotate",
         "vroom"
@@ -3700,7 +3691,6 @@
         "interactiveDisplayBase",
         "broom",
         "tidyr",
-        "cellranger",
         "dbplyr"
     ],
     "ctsGE": [
@@ -4027,7 +4017,6 @@
         "readxl",
         "reprex",
         "rvest",
-        "cellranger",
         "rematch2",
         "ggdendro",
         "vroom"
@@ -4141,7 +4130,6 @@
         "AnnotationDbi",
         "rtracklayer",
         "biomaRt",
-        "cellranger",
         "BiocFileCache",
         "GenomicAlignments",
         "dbplyr",
@@ -4714,7 +4702,6 @@
         "shinydashboard",
         "readxl",
         "car",
-        "cellranger",
         "pbkrtest",
         "lme4",
         "nloptr",
@@ -6774,7 +6761,6 @@
         "waldo",
         "forcats",
         "tidyr",
-        "cellranger",
         "rematch2"
     ],
     "GEOexplorer": [
@@ -6802,7 +6788,6 @@
         "ggsignif",
         "rstatix",
         "vroom",
-        "cellranger",
         "pbkrtest",
         "lme4",
         "broom",
@@ -6835,7 +6820,6 @@
         "ggbeeswarm",
         "ggiraph",
         "ggthemes",
-        "cellranger",
         "nloptr",
         "testthat",
         "waldo",
@@ -7226,8 +7210,7 @@
     ],
     "gpuMagic": [
         "DescTools",
-        "readxl",
-        "cellranger"
+        "readxl"
     ],
     "GRaNIE": [
         "patchwork",
@@ -7392,7 +7375,6 @@
         "forcats",
         "readr",
         "tensorflow",
-        "cellranger",
         "dbplyr",
         "vroom"
     ],
@@ -7672,8 +7654,7 @@
         "readxl",
         "rtracklayer",
         "BSgenome",
-        "ggplot2",
-        "cellranger"
+        "ggplot2"
     ],
     "HiTC": [
         "rtracklayer",
@@ -7894,8 +7875,7 @@
         "dplyr",
         "SingleCellExperiment",
         "viridis",
-        "readxl",
-        "cellranger"
+        "readxl"
     ],
     "imageHTS": [
         "cellHTS2",
@@ -8111,7 +8091,6 @@
         "FactoMineR",
         "ggpubr",
         "ggrepel",
-        "cellranger",
         "dbplyr",
         "car",
         "ggsci",
@@ -8264,7 +8243,6 @@
         "rio",
         "shinybusy",
         "vroom",
-        "cellranger",
         "haven"
     ],
     "iSEE": [
@@ -8339,15 +8317,13 @@
         "dplyr",
         "readr",
         "readxl",
-        "vroom",
-        "cellranger"
+        "vroom"
     ],
     "IsoCorrectoRGUI": [
         "IsoCorrectoR",
         "readxl",
         "dplyr",
         "readr",
-        "cellranger",
         "vroom"
     ],
     "IsoformSwitchAnalyzeR": [
@@ -8614,7 +8590,6 @@
         "readxl",
         "forcats",
         "readr",
-        "cellranger",
         "broom",
         "car",
         "pbkrtest",
@@ -8855,8 +8830,7 @@
         "ggplot2",
         "ggrepel",
         "prettydoc",
-        "rvest",
-        "cellranger"
+        "rvest"
     ],
     "MACSr": [
         "ExperimentHub",
@@ -8973,7 +8947,6 @@
         "reprex",
         "rvest",
         "tidyr",
-        "cellranger",
         "rematch2",
         "vroom",
         "hardhat",
@@ -9731,7 +9704,6 @@
         "GenomicFeatures",
         "AnnotationHubData",
         "annotate",
-        "cellranger",
         "rematch2",
         "vroom",
         "car",
@@ -10045,7 +10017,6 @@
         "testthat",
         "hardhat",
         "ipred",
-        "cellranger",
         "ggbeeswarm",
         "ggrastr",
         "ggrepel",
@@ -10353,7 +10324,6 @@
         "patchwork",
         "tidytree",
         "treeio",
-        "cellranger",
         "rematch2",
         "nloptr",
         "vroom",
@@ -10426,7 +10396,6 @@
         "patchwork",
         "tidytree",
         "treeio",
-        "cellranger",
         "rematch2",
         "nloptr",
         "vroom",
@@ -10947,7 +10916,6 @@
         "rvest",
         "viridis",
         "car",
-        "cellranger",
         "rematch2",
         "nloptr",
         "lmerTest",
@@ -11277,7 +11245,6 @@
         "ggsignif",
         "rstatix",
         "vroom",
-        "cellranger",
         "GenomicAlignments",
         "dbplyr",
         "pbkrtest",
@@ -11435,7 +11402,6 @@
         "reprex",
         "rvest",
         "tidyr",
-        "cellranger",
         "rematch2",
         "vroom"
     ],
@@ -11743,7 +11709,6 @@
         "nloptr",
         "broom",
         "dplyr",
-        "cellranger",
         "tidyr",
         "testthat",
         "vroom",
@@ -12042,8 +12007,7 @@
         "readxl",
         "rvest",
         "tidyr",
-        "vroom",
-        "cellranger"
+        "vroom"
     ],
     "oncomix": [
         "ggplot2",
@@ -12900,7 +12864,6 @@
         "rstatix",
         "viridis",
         "vroom",
-        "cellranger",
         "broom",
         "car",
         "pbkrtest",
@@ -15456,7 +15419,6 @@
         "BSgenome",
         "rtracklayer",
         "readxl",
-        "cellranger",
         "GenomicAlignments"
     ],
     "scoreInvHap": [
@@ -16522,7 +16484,6 @@
         "ggbeeswarm",
         "ggiraph",
         "ggthemes",
-        "cellranger",
         "nloptr",
         "testthat",
         "waldo",
@@ -16771,7 +16732,6 @@
         "readxl",
         "reprex",
         "rvest",
-        "cellranger",
         "rematch2",
         "nloptr",
         "vroom",
@@ -16986,7 +16946,6 @@
         "readxl",
         "reprex",
         "rvest",
-        "cellranger",
         "rematch2",
         "vroom"
     ],
@@ -17224,7 +17183,6 @@
         "pbkrtest",
         "lme4",
         "viridis",
-        "cellranger",
         "rematch2",
         "vroom",
         "lwgeom",
@@ -17630,8 +17588,7 @@
         "AnnotationDbi",
         "org.Hs.eg.db",
         "dbplyr",
-        "annotate",
-        "cellranger"
+        "annotate"
     ],
     "tidybulk": [
         "readr",
@@ -17698,7 +17655,6 @@
         "qvalue",
         "ggrepel",
         "IRkernel",
-        "cellranger",
         "dbplyr",
         "HDO.db",
         "fgsea",
@@ -18633,8 +18589,7 @@
         "readr",
         "readxl",
         "rvest",
-        "vroom",
-        "cellranger"
+        "vroom"
     ],
     "xcms": [
         "MSnbase",
@@ -18917,14 +18872,11 @@
         "ggbeeswarm"
     ],
     "shinydashboard": [],
-    "readxl": [
-        "cellranger"
-    ],
+    "readxl": [],
     "speaq": [
         "ggplot2",
         "rvest"
     ],
-    "cellranger": [],
     "curatedTCGAData": [
         "MultiAssayExperiment",
         "AnnotationHub",
@@ -18947,8 +18899,7 @@
         "ggplot2"
     ],
     "DescTools": [
-        "readxl",
-        "cellranger"
+        "readxl"
     ],
     "lmerTest": [
         "lme4",
@@ -19175,7 +19126,6 @@
         "reprex",
         "rvest",
         "tidyr",
-        "cellranger",
         "rematch2",
         "vroom"
     ],
@@ -19234,7 +19184,6 @@
     ],
     "googledrive": [],
     "googlesheets4": [
-        "cellranger",
         "googledrive",
         "rematch2"
     ],
@@ -19357,7 +19306,6 @@
         "pbkrtest",
         "lme4",
         "vroom",
-        "cellranger",
         "nloptr",
         "testthat",
         "waldo",
@@ -19809,7 +19757,6 @@
         "readxl",
         "forcats",
         "readr",
-        "cellranger",
         "vroom"
     ],
     "factoextra": [
@@ -20206,8 +20153,7 @@
         "ggplot2",
         "dendextend",
         "egg",
-        "tidyr",
-        "cellranger"
+        "tidyr"
     ],
     "shinybusy": [],
     "ggalt": [
@@ -20278,7 +20224,6 @@
         "rio",
         "shinyWidgets",
         "shinybusy",
-        "cellranger",
         "haven",
         "forcats",
         "readr",
@@ -20595,7 +20540,6 @@
         "readr",
         "ggplot2",
         "viridis",
-        "cellranger",
         "nloptr",
         "broom",
         "dplyr",
