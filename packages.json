@@ -689,7 +689,6 @@
         "VariantAnnotation",
         "dplyr",
         "tidyr",
-        "repmis",
         "Rsamtools",
         "geneplotter",
         "tibble",
@@ -8519,7 +8518,6 @@
         "babelgene",
         "ggpubr",
         "patchwork",
-        "repmis",
         "ggtree",
         "GenomicRanges",
         "AnnotationHub",
@@ -18256,7 +18254,6 @@
         "ggplot2",
         "ggpubr",
         "patchwork",
-        "repmis",
         "ggtree",
         "tibble",
         "tidyselect",
@@ -24750,7 +24747,6 @@
     "SpatialDecon": [
         "SeuratObject",
         "GeomxTools",
-        "repmis",
         "NanoStringNCTools",
         "readxl",
         "EnvStats",
@@ -28560,7 +28556,6 @@
         "shiny"
     ],
     "gargle": [],
-    "repmis": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi",
         "RSQLite",
