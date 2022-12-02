@@ -2802,7 +2802,6 @@
         "EnrichmentBrowser",
         "ExperimentHub"
     ],
-    "GSEAmining": [],
     "gsean": [
         "PPInfer",
         "biomaRt"
