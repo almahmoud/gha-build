@@ -12682,7 +12682,6 @@
         "ipred",
         "tidyr",
         "tidyselect",
-        "RWekajars",
         "GenomicAlignments",
         "pillar",
         "dbplyr",
@@ -19591,7 +19590,6 @@
         "ipred",
         "tidyr",
         "tidyselect",
-        "RWekajars",
         "GenomicAlignments",
         "rematch2",
         "dbplyr",
@@ -62353,8 +62351,7 @@
         "igraph"
     ],
     "FSelector": [
-        "RWeka",
-        "RWekajars"
+        "RWeka"
     ],
     "arm": [
         "lme4",
@@ -62369,15 +62366,12 @@
         "pillar",
         "vctrs"
     ],
-    "RWeka": [
-        "RWekajars"
-    ],
+    "RWeka": [],
     "MSQC": [
         "rgl",
         "htmlwidgets",
         "knitr"
     ],
-    "RWekajars": [],
     "DAPARdata": [
         "MSnbase",
         "mzR",
