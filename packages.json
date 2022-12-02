@@ -86245,7 +86245,6 @@
         "car",
         "nlme",
         "MASS",
-        "msgps",
         "logistf",
         "knitr",
         "pingr",
@@ -147490,7 +147489,6 @@
         "RcppArmadillo",
         "RcppGSL"
     ],
-    "msgps": [],
     "pingr": [
         "processx",
         "ps",
