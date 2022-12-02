@@ -140,8 +140,7 @@
         "tidyr"
     ],
     "amplican": [
-        "ShortRead",
-        "waffle"
+        "ShortRead"
     ],
     "Anaquin": [
         "DESeq2",
@@ -10773,7 +10772,6 @@
         "tidyr"
     ],
     "readr": [],
-    "waffle": [],
     "DescTools": [],
     "lmerTest": [
         "lme4",
