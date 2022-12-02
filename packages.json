@@ -30029,7 +30029,6 @@
         "labeling",
         "munsell",
         "viridisLite",
-        "english",
         "mgsub",
         "qdapRegex",
         "ggplot2",
@@ -43077,7 +43076,6 @@
         "ipred",
         "nnet",
         "stringi",
-        "english",
         "lexicon",
         "mgsub",
         "qdapRegex",
@@ -47187,7 +47185,6 @@
         "labeling",
         "munsell",
         "viridisLite",
-        "english",
         "mgsub",
         "qdapRegex",
         "ggplot2",
@@ -126030,7 +126027,6 @@
         "config",
         "processx",
         "tfautograph",
-        "english",
         "mgsub",
         "qdapRegex",
         "whisker",
@@ -127200,7 +127196,6 @@
         "MatrixExtra",
         "float",
         "RhpcBLASctl",
-        "english",
         "mgsub",
         "qdapRegex",
         "zoo"
@@ -128466,7 +128461,6 @@
         "lattice",
         "nlme",
         "stopwords",
-        "english",
         "mgsub",
         "qdapRegex",
         "ellipsis",
@@ -143047,7 +143041,6 @@
         "stopwords",
         "yaml",
         "RcppArmadillo",
-        "english",
         "mgsub",
         "qdapRegex",
         "slam",
@@ -143129,7 +143122,6 @@
         "lattice"
     ],
     "textclean": [
-        "english",
         "lexicon",
         "mgsub",
         "qdapRegex",
@@ -143194,7 +143186,6 @@
         "lattice"
     ],
     "float": [],
-    "english": [],
     "mgsub": [],
     "qdapRegex": [
         "stringi"
