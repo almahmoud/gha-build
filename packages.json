@@ -1851,7 +1851,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "Oscope": [],
     "OUTRIDER": [],
     "padma": [
         "FactoMineR",
@@ -2279,9 +2278,7 @@
         "arm",
         "lme4"
     ],
-    "scDDboost": [
-        "Oscope"
-    ],
+    "scDDboost": [],
     "schex": [],
     "scMAGeCK": [],
     "scMerge": [],
