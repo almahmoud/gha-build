@@ -458,7 +458,6 @@
         "pbkrtest"
     ],
     "doseR": [],
-    "drugTargetInteractions": [],
     "easier": [
         "ggpubr",
         "rstatix",
