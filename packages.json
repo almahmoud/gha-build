@@ -5537,7 +5537,6 @@
         "factoextra",
         "heatmaply",
         "shinyHeatmaply",
-        "shinybusy",
         "GEOquery",
         "dendextend",
         "FactoMineR",
@@ -6712,7 +6711,6 @@
         "shinyWidgets",
         "datamods",
         "rio",
-        "shinybusy",
         "vroom",
         "haven"
     ],
@@ -8948,7 +8946,6 @@
     "MSstatsShiny": [
         "shinyBS",
         "shinyjs",
-        "shinybusy",
         "Hmisc",
         "MSstats",
         "MSstatsTMT",
@@ -9146,7 +9143,6 @@
         "sortable",
         "shinyjs",
         "shinyalert",
-        "shinybusy",
         "shinyBS",
         "TCGAbiolinks",
         "shinyjqui",
@@ -9755,7 +9751,6 @@
         "shinyWidgets",
         "plotly",
         "fgsea",
-        "shinybusy",
         "ggseqlogo",
         "shinyjs",
         "cowplot",
@@ -16232,7 +16227,6 @@
         "egg",
         "tidyr"
     ],
-    "shinybusy": [],
     "ggalt": [
         "plotly",
         "tidyr"
@@ -16277,7 +16271,6 @@
         "readxl",
         "rio",
         "shinyWidgets",
-        "shinybusy",
         "haven",
         "readr",
         "vroom"
