@@ -17748,7 +17748,6 @@
         "BSgenome",
         "crisprBase",
         "GenomeInfoDb",
-        "Rbwa",
         "readr",
         "stringr",
         "S4Vectors",
@@ -66197,7 +66196,6 @@
         "survival",
         "Matrix"
     ],
-    "Rbwa": [],
     "Rcade": [
         "GenomicRanges",
         "Rsamtools",
