@@ -1888,7 +1888,6 @@
     ],
     "HiCDOC": [
         "ggpubr",
-        "multiHiCcompare",
         "rstatix",
         "car",
         "pbkrtest",
@@ -2784,7 +2783,6 @@
         "VariantAnnotation",
         "ensembldb"
     ],
-    "multiHiCcompare": [],
     "multiSight": [
         "anyLib",
         "biosigner",
