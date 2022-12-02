@@ -54169,7 +54169,6 @@
         "graph",
         "BiocGenerics"
     ],
-    "iASeq": [],
     "iasva": [
         "irlba",
         "SummarizedExperiment",
