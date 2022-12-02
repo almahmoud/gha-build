@@ -35916,7 +35916,6 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "proj4",
         "scales",
         "extrafont",
         "plotly",
@@ -107283,7 +107282,6 @@
     "ggalt": [
         "ggplot2",
         "dplyr",
-        "proj4",
         "scales",
         "extrafont",
         "tibble",
@@ -107338,7 +107336,6 @@
         "magrittr",
         "pillar"
     ],
-    "proj4": [],
     "HH": [
         "latticeExtra",
         "multcomp",
