@@ -1799,7 +1799,6 @@
         "GOstats"
     ],
     "miRSM": [
-        "s4vd",
         "BiBitR",
         "miRspongeR",
         "SPONGE",
@@ -3410,7 +3409,6 @@
         "OrganismDbi"
     ],
     "HardyWeinberg": [],
-    "s4vd": [],
     "BiBitR": [],
     "cvms": [
         "lme4"
