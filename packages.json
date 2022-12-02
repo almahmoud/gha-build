@@ -3305,7 +3305,6 @@
         "ggpubr",
         "DESeq2",
         "rstatix",
-        "coin",
         "geneplotter",
         "ExperimentHub",
         "AnnotationHub",
@@ -5322,7 +5321,6 @@
     "hipathia": [
         "AnnotationHub",
         "MultiAssayExperiment",
-        "coin",
         "BiocFileCache",
         "tidyr"
     ],
@@ -5535,7 +5533,6 @@
         "waldo"
     ],
     "infercnv": [
-        "coin",
         "Seurat",
         "tidyr",
         "ggridges",
@@ -5916,9 +5913,7 @@
         "testthat",
         "waldo"
     ],
-    "lefser": [
-        "coin"
-    ],
+    "lefser": [],
     "levi": [
         "testthat",
         "waldo"
@@ -6925,7 +6920,6 @@
     ],
     "microbiomeMarker": [
         "phyloseq",
-        "coin",
         "ggtree",
         "tidytree",
         "tidyr",
@@ -6986,7 +6980,6 @@
         "tidyr",
         "ggtree",
         "tidytree",
-        "coin",
         "ggsignif",
         "patchwork",
         "ggstar",
@@ -13667,7 +13660,6 @@
         "AnnotationHub",
         "BiocFileCache"
     ],
-    "coin": [],
     "JASPAR2018": [],
     "EntropyExplorer": [],
     "EpiMix.data": [
