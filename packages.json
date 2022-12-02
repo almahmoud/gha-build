@@ -607,7 +607,6 @@
         "GenomicInteractions",
         "Gviz"
     ],
-    "HiLDA": [],
     "HTSeqGenie": [
         "gmapR",
         "VariantTools"
@@ -1280,9 +1279,7 @@
         "ChIPseeker",
         "enrichplot"
     ],
-    "selectKSigs": [
-        "HiLDA"
-    ],
+    "selectKSigs": [],
     "seqCAT": [],
     "sesame": [],
     "shinyepico": [],
