@@ -1,0 +1,4 @@
++ '[' 0 = 0 ']'
++ cd JASPAR2018
++ git checkout RELEASE_3_16
+error: pathspec 'RELEASE_3_16' did not match any file(s) known to git
