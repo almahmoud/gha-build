@@ -429,7 +429,6 @@
     ],
     "BioCor": [],
     "BiocPkgTools": [],
-    "BiocSet": [],
     "biodb": [],
     "biodbChebi": [
         "biodb"
@@ -703,7 +702,6 @@
         "biomaRt"
     ],
     "CBEA": [
-        "BiocSet",
         "TreeSummarizedExperiment",
         "treeio"
     ],
@@ -4905,7 +4903,6 @@
         "regioneR"
     ],
     "RegEnrich": [
-        "BiocSet",
         "DOSE",
         "DESeq2",
         "WGCNA",
@@ -5759,7 +5756,6 @@
         "plotly"
     ],
     "sparrow": [
-        "BiocSet",
         "plotly"
     ],
     "SparseSignatures": [
