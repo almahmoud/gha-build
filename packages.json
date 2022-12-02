@@ -1094,7 +1094,6 @@
         "CVXR",
         "DescTools",
         "Hmisc",
-        "Rdpack",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "TreeSummarizedExperiment",
@@ -3793,7 +3792,6 @@
     "BEclear": [
         "BiocParallel",
         "futile.logger",
-        "Rdpack",
         "ids",
         "openssl"
     ],
@@ -3857,7 +3855,6 @@
         "CVXR",
         "DescTools",
         "Hmisc",
-        "Rdpack",
         "SingleCellExperiment",
         "doParallel",
         "doRNG",
@@ -5224,7 +5221,6 @@
         "poweRlaw",
         "latex2exp",
         "RSpectra",
-        "Rdpack",
         "synaptome.db",
         "clusterCons",
         "fgsea",
@@ -7566,7 +7562,6 @@
         "Rtsne",
         "ape",
         "irlba",
-        "Rdpack",
         "RcppEigen",
         "GenomicRanges",
         "DelayedArray",
@@ -7736,7 +7731,6 @@
         "IRanges",
         "XVector",
         "GenomeInfoDb",
-        "Rdpack",
         "lifecycle",
         "mgcv",
         "scales",
@@ -14394,7 +14388,6 @@
         "graphlayouts",
         "AnnotationDbi",
         "httr",
-        "Rdpack",
         "TFisher",
         "mutoss",
         "qqconf",
@@ -14661,7 +14654,6 @@
         "futile.logger",
         "sass",
         "memoise",
-        "Rdpack",
         "tidyselect",
         "pillar",
         "bbmle",
@@ -17715,7 +17707,6 @@
         "DelayedMatrixStats",
         "HDF5Array",
         "BiocSingular",
-        "Rdpack",
         "TFisher",
         "mutoss",
         "qqconf",
@@ -19438,7 +19429,6 @@
         "reshape2",
         "ggplot2",
         "ggdendro",
-        "Rdpack",
         "kableExtra",
         "lifecycle",
         "mgcv",
@@ -21049,7 +21039,6 @@
         "igraph",
         "visNetwork",
         "htmlwidgets",
-        "Rdpack",
         "globals",
         "lifecycle",
         "vctrs",
@@ -23123,7 +23112,6 @@
         "ggbio",
         "IRanges",
         "GenomeInfoDb",
-        "Rdpack",
         "AnnotationDbi",
         "progress",
         "httr",
@@ -25179,7 +25167,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "gbutils",
-        "Rdpack",
         "XVector",
         "callr",
         "ellipsis",
@@ -25877,8 +25864,7 @@
         "fabia"
     ],
     "Harman": [
-        "Ckmeans.1d.dp",
-        "Rdpack"
+        "Ckmeans.1d.dp"
     ],
     "Harshlight": [
         "affy",
@@ -26001,7 +25987,6 @@
         "lifecycle",
         "MultiAssayExperiment",
         "purrr",
-        "Rdpack",
         "tidyr",
         "AnnotationDbi",
         "progress",
@@ -29279,7 +29264,6 @@
         "maftools",
         "tibble",
         "VariantAnnotation",
-        "Rdpack",
         "ggplot2",
         "tidyr",
         "BSgenome",
@@ -33030,7 +33014,6 @@
         "vctrs",
         "pillar",
         "mgcv",
-        "Rdpack",
         "TFisher",
         "mutoss",
         "qqconf",
@@ -34474,7 +34457,6 @@
         "CVXR",
         "DescTools",
         "Hmisc",
-        "Rdpack",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
         "doParallel",
@@ -37943,7 +37925,6 @@
         "graph",
         "httr",
         "purrr",
-        "Rdpack",
         "TFisher",
         "mutoss",
         "qqconf",
@@ -38093,7 +38074,6 @@
         "pkgload",
         "roxygen2",
         "usethis",
-        "Rdpack",
         "TFisher",
         "mutoss",
         "qqconf",
@@ -38312,7 +38292,6 @@
         "GenomeInfoDb",
         "pbkrtest",
         "gplots",
-        "Rdpack",
         "ScaledMatrix",
         "irlba",
         "rsvd",
@@ -38711,7 +38690,6 @@
         "edgeR",
         "BiocParallel",
         "XVector",
-        "Rdpack",
         "TFisher",
         "mutoss",
         "qqconf",
@@ -42114,7 +42092,6 @@
         "ellipsis",
         "annotate",
         "graph",
-        "Rdpack",
         "TFisher",
         "mutoss",
         "qqconf",
@@ -44649,7 +44626,6 @@
         "ranger",
         "speedglm",
         "MSnbase",
-        "Rdpack",
         "lifecycle",
         "tibble",
         "tidyselect",
@@ -46888,9 +46864,7 @@
         "progress"
     ],
     "randPack": [],
-    "randRotation": [
-        "Rdpack"
-    ],
+    "randRotation": [],
     "RankProd": [
         "Rmpfr"
     ],
@@ -49572,9 +49546,7 @@
         "doParallel",
         "selectr"
     ],
-    "rmelting": [
-        "Rdpack"
-    ],
+    "rmelting": [],
     "Rmmquant": [
         "GenomicRanges",
         "SummarizedExperiment",
@@ -50674,7 +50646,6 @@
         "scales",
         "survival",
         "RcppEigen",
-        "Rdpack",
         "TFisher",
         "mutoss",
         "qqconf",
@@ -51486,7 +51457,6 @@
     "SBGNview": [
         "pathview",
         "SBGNview.data",
-        "Rdpack",
         "igraph",
         "rmarkdown",
         "knitr",
@@ -53234,7 +53204,6 @@
         "tibble",
         "dplyr",
         "purrr",
-        "Rdpack",
         "BiocParallel",
         "sparsepca",
         "origami",
@@ -55718,7 +55687,6 @@
         "graph",
         "hgu95a.db",
         "progress",
-        "Rdpack",
         "TFisher",
         "mutoss",
         "qqconf",
@@ -58320,7 +58288,6 @@
         "pillar",
         "mgcv",
         "scales",
-        "Rdpack",
         "hms",
         "vroom",
         "EDASeq",
@@ -63055,7 +63022,6 @@
         "progress",
         "reshape2",
         "scales",
-        "Rdpack",
         "lme4",
         "futile.logger",
         "lifecycle",
@@ -64106,7 +64072,6 @@
         "reshape2",
         "Ckmeans.1d.dp",
         "futile.logger",
-        "Rdpack",
         "IRanges",
         "sparseMatrixStats",
         "lifecycle",
@@ -64585,7 +64550,6 @@
         "tidyr",
         "reshape2",
         "progress",
-        "Rdpack",
         "SummarizedExperiment",
         "graph",
         "AnnotationDbi",
@@ -65602,7 +65566,6 @@
         "vctrs",
         "ellipsis"
     ],
-    "Rdpack": [],
     "lmerTest": [
         "lme4",
         "ggplot2",
@@ -67695,7 +67658,6 @@
         "dplyr",
         "dbplyr",
         "igraph",
-        "Rdpack",
         "AnnotationHub",
         "BiocFileCache",
         "AnnotationDbi",
@@ -67733,7 +67695,6 @@
         "apcluster"
     ],
     "rSpectral": [
-        "Rdpack",
         "igraph",
         "graph"
     ],
@@ -68389,9 +68350,7 @@
         "vctrs",
         "pillar"
     ],
-    "Ckmeans.1d.dp": [
-        "Rdpack"
-    ],
+    "Ckmeans.1d.dp": [],
     "mvoutlier": [],
     "FME": [],
     "SpatialTools": [
@@ -70006,7 +69965,6 @@
         "vctrs"
     ],
     "metap": [
-        "Rdpack",
         "TFisher",
         "mutoss",
         "qqconf",
@@ -71027,16 +70985,12 @@
     "fGarch": [
         "fBasics",
         "cvar",
-        "gbutils",
-        "Rdpack"
+        "gbutils"
     ],
     "cvar": [
-        "gbutils",
-        "Rdpack"
+        "gbutils"
     ],
-    "gbutils": [
-        "Rdpack"
-    ],
+    "gbutils": [],
     "KEGGandMetacoreDzPathwaysGEO": [],
     "ggwordcloud": [
         "ggplot2",
@@ -71331,8 +71285,7 @@
         "lifecycle"
     ],
     "changepoint.np": [
-        "changepoint",
-        "Rdpack"
+        "changepoint"
     ],
     "hgu95av2.db": [
         "AnnotationDbi",
@@ -74385,9 +74338,7 @@
         "ellipsis",
         "purrr"
     ],
-    "mclustcomp": [
-        "Rdpack"
-    ],
+    "mclustcomp": [],
     "MLmetrics": [
         "ROCR",
         "gplots"
