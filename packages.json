@@ -350,7 +350,6 @@
         "tidyr"
     ],
     "arrayQualityMetrics": [
-        "beadarray",
         "genefilter",
         "Hmisc",
         "vsn",
@@ -652,7 +651,6 @@
         "GenomicAlignments",
         "BiocFileCache"
     ],
-    "beadarray": [],
     "BEARscc": [],
     "BEAT": [
         "ShortRead",
@@ -1033,9 +1031,7 @@
         "BiocFileCache",
         "annotate"
     ],
-    "blima": [
-        "beadarray"
-    ],
+    "blima": [],
     "BLMA": [
         "PADOG",
         "hgu133plus2.db",
@@ -3654,9 +3650,7 @@
         "testthat",
         "waldo"
     ],
-    "epigenomix": [
-        "beadarray"
-    ],
+    "epigenomix": [],
     "epigraHMM": [
         "rtracklayer",
         "csaw",
