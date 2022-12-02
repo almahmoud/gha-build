@@ -194,7 +194,6 @@
         "ensembldb"
     ],
     "biscuiteer": [
-        "biscuiteerData",
         "VariantAnnotation",
         "Mus.musculus",
         "Homo.sapiens",
@@ -2980,7 +2979,6 @@
         "lme4"
     ],
     "synaptome.db": [],
-    "biscuiteerData": [],
     "pasilla": [],
     "GenomicState": [
         "bumphunter",
