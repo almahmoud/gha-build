@@ -1561,7 +1561,6 @@
         "ggbio",
         "biovizBase"
     ],
-    "restfulSE": [],
     "rexposome": [
         "FactoMineR",
         "car",
@@ -1921,9 +1920,7 @@
     "TDARACNE": [
         "GenKern"
     ],
-    "tenXplore": [
-        "restfulSE"
-    ],
+    "tenXplore": [],
     "terraTCGAdata": [],
     "TFHAZ": [],
     "timeOmics": [
