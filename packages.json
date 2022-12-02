@@ -2099,7 +2099,6 @@
         "scuttle",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "rstantools",
         "StanHeaders",
         "cowplot",
         "ggExtra",
@@ -17104,7 +17103,6 @@
     ],
     "IgGeneUsage": [
         "rstan",
-        "rstantools",
         "SummarizedExperiment",
         "StanHeaders",
         "ggplot2",
@@ -19027,7 +19025,6 @@
         "viridis",
         "densEstBayes",
         "rstan",
-        "rstantools",
         "StanHeaders",
         "tibble",
         "interp",
@@ -27698,7 +27695,6 @@
     ],
     "ppcseq": [
         "rstan",
-        "rstantools",
         "tibble",
         "dplyr",
         "furrr",
@@ -30625,7 +30621,6 @@
         "pillar",
         "tidyselect",
         "rstan",
-        "rstantools",
         "StanHeaders",
         "annotate",
         "DelayedArray",
@@ -32673,7 +32668,6 @@
         "blob"
     ],
     "sccomp": [
-        "rstantools",
         "rstan",
         "SeuratObject",
         "SingleCellExperiment",
@@ -33024,7 +33018,6 @@
         "viridis",
         "densEstBayes",
         "rstan",
-        "rstantools",
         "StanHeaders",
         "interp",
         "pillar",
@@ -33032,7 +33025,6 @@
     ],
     "scMET": [
         "rstan",
-        "rstantools",
         "ggplot2",
         "viridis",
         "BiocStyle",
@@ -34897,7 +34889,6 @@
         "densEstBayes",
         "quantreg",
         "rstan",
-        "rstantools",
         "StanHeaders",
         "interp",
         "pkgbuild"
@@ -41799,7 +41790,6 @@
         "bslib",
         "pillar"
     ],
-    "rstantools": [],
     "MCMCpack": [
         "quantreg"
     ],
@@ -44182,7 +44172,6 @@
     "reldist": [
         "densEstBayes",
         "rstan",
-        "rstantools",
         "StanHeaders",
         "ggplot2",
         "pkgbuild",
@@ -44191,7 +44180,6 @@
     ],
     "densEstBayes": [
         "rstan",
-        "rstantools",
         "StanHeaders",
         "ggplot2",
         "pkgbuild",
