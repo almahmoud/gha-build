@@ -73,9 +73,7 @@
         "ggpubr"
     ],
     "ddPCRclust": [],
-    "destiny": [
-        "VIM"
-    ],
+    "destiny": [],
     "diffcyt": [
         "FlowSOM",
         "ggpubr"
@@ -216,9 +214,7 @@
     "MQmetrics": [
         "ggpubr"
     ],
-    "MSPrep": [
-        "VIM"
-    ],
+    "MSPrep": [],
     "MSstatsLiP": [
         "factoextra",
         "ggpubr"
@@ -285,9 +281,7 @@
     "ptairMS": [
         "ggpubr"
     ],
-    "qmtools": [
-        "VIM"
-    ],
+    "qmtools": [],
     "recount": [],
     "regionReport": [],
     "rexposome": [],
@@ -389,7 +383,6 @@
         "ggpubr"
     ],
     "DAPARdata": [],
-    "VIM": [],
     "JASPAR2018": [],
     "EntropyExplorer": [],
     "SPARQL": [],
