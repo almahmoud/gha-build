@@ -261,9 +261,7 @@
         "rstatix",
         "pbkrtest"
     ],
-    "consensusDE": [
-        "RUVSeq"
-    ],
+    "consensusDE": [],
     "contiBAIT": [
         "GenomicFiles"
     ],
@@ -1080,9 +1078,7 @@
         "RcmdrMisc",
         "pbkrtest"
     ],
-    "octad": [
-        "RUVSeq"
-    ],
+    "octad": [],
     "ODER": [
         "dasper",
         "derfinder",
@@ -1288,9 +1284,7 @@
         "ggbio",
         "biovizBase"
     ],
-    "ribosomeProfilingQC": [
-        "RUVSeq"
-    ],
+    "ribosomeProfilingQC": [],
     "rifi": [
         "car",
         "pbkrtest"
@@ -1379,7 +1373,6 @@
         "car",
         "pbkrtest"
     ],
-    "RUVSeq": [],
     "scanMiRApp": [],
     "scAnnotatR": [],
     "scBubbletree": [],
@@ -1387,9 +1380,7 @@
     "schex": [],
     "scMAGeCK": [],
     "scmeth": [],
-    "scone": [
-        "RUVSeq"
-    ],
+    "scone": [],
     "scoreInvHap": [],
     "scRecover": [
         "Rmagic"
@@ -1504,9 +1495,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "standR": [
-        "RUVSeq"
-    ],
+    "standR": [],
     "StarBioTrek": [],
     "Statial": [],
     "strandCheckR": [],
