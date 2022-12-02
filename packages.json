@@ -41322,7 +41322,6 @@
         "ggplot2",
         "scatterpie",
         "viridis",
-        "liger",
         "tibble",
         "vctrs",
         "ggforce",
@@ -52199,7 +52198,6 @@
     "MLmetrics": [
         "ROCR"
     ],
-    "liger": [],
     "rsample": [
         "dplyr",
         "furrr",
