@@ -2732,7 +2732,6 @@
         "cytomapper"
     ],
     "simplifyEnrichment": [],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "celldex",
         "ensembldb",
