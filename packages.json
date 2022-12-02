@@ -15747,7 +15747,6 @@
         "R.utils",
         "gplots",
         "sna",
-        "wordcloud",
         "igraph",
         "pheatmap",
         "edgeR",
@@ -20379,7 +20378,6 @@
         "dplyr",
         "networkD3",
         "tm",
-        "wordcloud",
         "AnnotationDbi",
         "BiocStyle",
         "org.Rn.eg.db",
@@ -26882,7 +26880,6 @@
     ],
     "loci2path": [
         "pheatmap",
-        "wordcloud",
         "GenomicRanges",
         "BiocParallel",
         "futile.logger",
@@ -45456,7 +45453,6 @@
         "ggrepel",
         "treemap",
         "tm",
-        "wordcloud",
         "shiny",
         "umap",
         "IRanges",
@@ -57160,7 +57156,6 @@
         "GenomicRanges",
         "viper",
         "DiffBind",
-        "wordcloud",
         "csaw",
         "gplots",
         "DESeq2",
@@ -62825,7 +62820,6 @@
         "TH.data",
         "sandwich"
     ],
-    "wordcloud": [],
     "ELMER.data": [
         "GenomicRanges",
         "IRanges",
