@@ -495,8 +495,7 @@
         "Gviz"
     ],
     "HTSeqGenie": [
-        "gmapR",
-        "VariantTools"
+        "gmapR"
     ],
     "icetea": [],
     "iCheck": [
@@ -1179,7 +1178,6 @@
     "VariantFiltering": [
         "Gviz"
     ],
-    "VariantTools": [],
     "VCFArray": [
         "GenomicFiles"
     ],
