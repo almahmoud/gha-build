@@ -2820,7 +2820,6 @@
         "VariantAnnotation"
     ],
     "GeneTonic": [
-        "bs4Dash",
         "ComplexUpset",
         "DESeq2",
         "plotly"
@@ -8462,7 +8461,6 @@
         "mice",
         "broom"
     ],
-    "bs4Dash": [],
     "shinyHeatmaply": [
         "heatmaply",
         "plotly"
