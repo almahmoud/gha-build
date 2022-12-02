@@ -5759,7 +5759,6 @@
         "VGAM",
         "detectseparation",
         "scales",
-        "CompQuadForm",
         "patchwork",
         "scattermore",
         "survey",
@@ -21637,7 +21636,6 @@
         "rematch2"
     ],
     "dearseq": [
-        "CompQuadForm",
         "dplyr",
         "ggplot2",
         "magrittr",
@@ -36814,7 +36812,6 @@
         "Biobase",
         "AnnotationDbi",
         "GO.db",
-        "CompQuadForm",
         "stringr",
         "IRanges",
         "RSQLite",
@@ -36980,7 +36977,6 @@
         "rlang",
         "tidyr",
         "Biobase",
-        "CompQuadForm",
         "stringr",
         "IRanges",
         "RSQLite",
@@ -59081,7 +59077,6 @@
         "mvtnorm",
         "GeneNet",
         "huge",
-        "CompQuadForm",
         "ggm",
         "multtest",
         "ICSNP",
@@ -62951,7 +62946,6 @@
         "KEGGREST",
         "igraph",
         "magrittr",
-        "CompQuadForm",
         "tibble",
         "Matrix",
         "rlang",
@@ -75838,7 +75832,6 @@
         "ropls",
         "car",
         "metap",
-        "CompQuadForm",
         "glmnet",
         "mgcv",
         "pbkrtest",
@@ -100876,7 +100869,6 @@
         "desc",
         "rlang"
     ],
-    "CompQuadForm": [],
     "survey": [
         "Matrix",
         "survival",
