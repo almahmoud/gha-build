@@ -733,7 +733,6 @@
         "enrichplot",
         "ggtree"
     ],
-    "EBSeqHMM": [],
     "EDASeq": [],
     "edge": [
         "snm",
