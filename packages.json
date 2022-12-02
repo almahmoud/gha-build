@@ -70688,7 +70688,6 @@
         "SummarizedExperiment",
         "boot",
         "mvtnorm",
-        "geigen",
         "iterators",
         "Matrix",
         "igraph",
@@ -121712,16 +121711,13 @@
         "boot",
         "mvtnorm"
     ],
-    "conicfit": [
-        "geigen"
-    ],
+    "conicfit": [],
     "genlasso": [
         "Matrix",
         "igraph",
         "magrittr",
         "rlang"
     ],
-    "geigen": [],
     "protolite": [
         "Rcpp"
     ],
