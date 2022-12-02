@@ -76430,7 +76430,6 @@
         "diffobj",
         "rematch2"
     ],
-    "sigPathway": [],
     "SigsPack": [
         "Biobase",
         "BSgenome",
@@ -85279,7 +85278,6 @@
         "Matrix"
     ],
     "tRanslatome": [
-        "sigPathway",
         "anota",
         "DESeq2",
         "edgeR",
