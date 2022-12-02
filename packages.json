@@ -2477,7 +2477,6 @@
     ],
     "ChAMP": [
         "minfi",
-        "ChAMPdata",
         "DMRcate",
         "IlluminaHumanMethylationEPICmanifest",
         "prettydoc",
@@ -20600,7 +20599,6 @@
         "ggplot2"
     ],
     "GenomicTools": [],
-    "ChAMPdata": [],
     "IlluminaHumanMethylationEPICmanifest": [
         "minfi",
         "SummarizedExperiment",
