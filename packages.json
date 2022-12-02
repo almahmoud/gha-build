@@ -2735,7 +2735,6 @@
         "spp",
         "ChIC.data",
         "caret",
-        "genomeIntervals",
         "Rsamtools",
         "ggplot2",
         "recipes",
@@ -5533,7 +5532,6 @@
     "easyRNASeq": [
         "BiocFileCache",
         "biomaRt",
-        "genomeIntervals",
         "GenomicAlignments",
         "SummarizedExperiment",
         "Rsamtools",
@@ -7454,7 +7452,6 @@
     "GenomAutomorphism": [
         "dplyr"
     ],
-    "genomeIntervals": [],
     "genomes": [
         "readr",
         "vroom"
@@ -7892,7 +7889,6 @@
     "girafe": [
         "Rsamtools",
         "ShortRead",
-        "genomeIntervals",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
@@ -12184,7 +12180,6 @@
         "rtracklayer",
         "BiocFileCache",
         "biomaRt",
-        "genomeIntervals",
         "ShortRead",
         "AnnotationDbi",
         "Hmisc",
@@ -22186,7 +22181,6 @@
     ],
     "spp": [],
     "ChIC.data": [
-        "genomeIntervals",
         "caret",
         "ggplot2",
         "recipes",
