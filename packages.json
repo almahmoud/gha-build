@@ -95,7 +95,6 @@
         "DESeq2",
         "caret"
     ],
-    "annmap": [],
     "AnnotationHub": [],
     "AnnotationHubData": [
         "AnnotationHub",
