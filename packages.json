@@ -18849,7 +18849,6 @@
         "GSEABase",
         "Biostrings"
     ],
-    "PCAN": [],
     "PCAtools": [
         "ggplot2",
         "ggrepel",
