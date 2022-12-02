@@ -1551,7 +1551,6 @@
         "DESeq2",
         "biomaRt"
     ],
-    "DIAlignR": [],
     "DiffBind": [
         "systemPipeR",
         "DESeq2",
