@@ -2228,7 +2228,6 @@
     "pmm": [
         "lme4"
     ],
-    "podkat": [],
     "pogos": [],
     "ppcseq": [
         "tidybayes"
