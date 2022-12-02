@@ -1244,9 +1244,7 @@
         "DAPAR",
         "DAPARdata"
     ],
-    "proteasy": [
-        "EnsDb.Rnorvegicus.v79"
-    ],
+    "proteasy": [],
     "ProteoDisco": [],
     "protGear": [
         "ggpubr",
@@ -1819,7 +1817,6 @@
         "unmarked"
     ],
     "unmarked": [],
-    "EnsDb.Rnorvegicus.v79": [],
     "Rmagic": [],
     "survivalAnalysis": [
         "survminer",
