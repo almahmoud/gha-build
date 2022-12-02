@@ -1638,9 +1638,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "ssPATHS": [
-        "MESS"
-    ],
+    "ssPATHS": [],
     "STAN": [
         "Gviz",
         "biovizBase"
@@ -1933,7 +1931,6 @@
     "SoupX": [],
     "scRNAseq": [],
     "sampSurf": [],
-    "MESS": [],
     "GenKern": [],
     "vbsr": []
 }
