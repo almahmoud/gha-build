@@ -9384,7 +9384,6 @@
         "waldo",
         "rematch2"
     ],
-    "EpiDISH": [],
     "epigenomix": [
         "GenomicRanges",
         "SummarizedExperiment",
@@ -31167,7 +31166,6 @@
         "GenomicRanges"
     ],
     "TOAST": [
-        "EpiDISH",
         "SummarizedExperiment",
         "ggplot2",
         "tidyr",
