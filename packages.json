@@ -150,7 +150,6 @@
         "SPARQL"
     ],
     "flowCut": [],
-    "flowPloidy": [],
     "FlowSOM": [
         "ggpubr",
         "rstatix"
