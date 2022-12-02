@@ -3154,7 +3154,6 @@
         "AnnotationHub",
         "MultiAssayExperiment"
     ],
-    "HIPPO": [],
     "hiReadsProcessor": [
         "hiAnnotator",
         "BSgenome"
