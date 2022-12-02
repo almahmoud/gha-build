@@ -140,7 +140,6 @@
         "bumphunter",
         "GEOquery"
     ],
-    "arrayQualityMetrics": [],
     "artMS": [
         "MSstats",
         "lme4",
