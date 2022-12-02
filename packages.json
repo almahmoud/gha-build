@@ -1027,7 +1027,6 @@
         "ggtree",
         "treeio"
     ],
-    "EGAD": [],
     "EGSEA": [],
     "ELMER": [
         "GenomicFeatures",
