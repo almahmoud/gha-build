@@ -8951,7 +8951,6 @@
         "snpStats",
         "sva",
         "swamp",
-        "bnstruct",
         "readr",
         "dplyr",
         "tidyr",
@@ -39750,7 +39749,6 @@
         "pillar"
     ],
     "swamp": [],
-    "bnstruct": [],
     "DiffCorr": [
         "multtest"
     ],
