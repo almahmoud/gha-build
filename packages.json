@@ -2726,7 +2726,6 @@
     ],
     "proFIA": [],
     "profileplyr": [
-        "soGGi",
         "ChIPseeker",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -3396,7 +3395,6 @@
         "VariantAnnotation",
         "GenomicFeatures"
     ],
-    "soGGi": [],
     "sojourner": [
         "sampSurf"
     ],
