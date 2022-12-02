@@ -3670,7 +3670,6 @@
         "nloptr",
         "DOSE"
     ],
-    "PAST": [],
     "PathoStat": [
         "DESeq2",
         "devtools"
