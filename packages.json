@@ -26,7 +26,6 @@
     ],
     "appreci8R": [
         "Homo.sapiens",
-        "COSMIC.67",
         "PolyPhen.Hsapiens.dbSNP131",
         "SIFT.Hsapiens.dbSNP137"
     ],
@@ -1646,7 +1645,6 @@
     "pbkrtest": [],
     "lmerTest": [],
     "Homo.sapiens": [],
-    "COSMIC.67": [],
     "PolyPhen.Hsapiens.dbSNP131": [],
     "SIFT.Hsapiens.dbSNP137": [],
     "FDb.InfiniumMethylation.hg19": [],
