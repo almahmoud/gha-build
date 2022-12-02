@@ -2671,7 +2671,6 @@
     ],
     "Motif2Site": [],
     "motifbreakR": [
-        "MotifDb",
         "VariantAnnotation",
         "motifStack",
         "Gviz",
@@ -2680,7 +2679,6 @@
         "biovizBase",
         "TFBSTools"
     ],
-    "MotifDb": [],
     "motifmatchr": [
         "TFBSTools"
     ],
@@ -3769,9 +3767,7 @@
         "lme4",
         "nloptr"
     ],
-    "rTRMui": [
-        "MotifDb"
-    ],
+    "rTRMui": [],
     "runibic": [],
     "RUVSeq": [
         "EDASeq",
@@ -4446,7 +4442,6 @@
         "treeio"
     ],
     "trena": [
-        "MotifDb",
         "BSgenome.Hsapiens.UCSC.hg38",
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Mmusculus.UCSC.mm10",
