@@ -4875,7 +4875,6 @@
         "dplyr",
         "dbplyr",
         "RSQLite",
-        "Spectra",
         "GenomicRanges",
         "ggplot2",
         "tidyselect"
@@ -14045,7 +14044,6 @@
         "lava"
     ],
     "MetaboAnnotation": [
-        "Spectra",
         "SummarizedExperiment",
         "QFeatures",
         "CompoundDb",
@@ -14346,7 +14344,6 @@
     ],
     "MetCirc": [
         "shiny",
-        "Spectra",
         "ggplot2",
         "tibble"
     ],
@@ -15746,7 +15743,6 @@
     "MobilityTransformR": [
         "MSnbase",
         "xcms",
-        "Spectra",
         "vsn",
         "ggplot2",
         "SummarizedExperiment",
@@ -16075,20 +16071,11 @@
         "tidyr",
         "tidyselect"
     ],
-    "MsBackendMassbank": [
-        "Spectra"
-    ],
-    "MsBackendMgf": [
-        "Spectra"
-    ],
-    "MsBackendMsp": [
-        "Spectra"
-    ],
-    "MsBackendRawFileReader": [
-        "Spectra"
-    ],
+    "MsBackendMassbank": [],
+    "MsBackendMgf": [],
+    "MsBackendMsp": [],
+    "MsBackendRawFileReader": [],
     "MsExperiment": [
-        "Spectra",
         "SummarizedExperiment",
         "QFeatures",
         "MultiAssayExperiment",
@@ -24725,7 +24712,6 @@
         "ggplot2",
         "tibble"
     ],
-    "Spectra": [],
     "SpectralTAD": [
         "dplyr",
         "HiCcompare",
