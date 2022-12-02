@@ -886,7 +886,6 @@
     "recountmethylation": [
         "IlluminaHumanMethylation450kmanifest"
     ],
-    "REDseq": [],
     "regionReport": [
         "derfinder"
     ],
