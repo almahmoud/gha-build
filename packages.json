@@ -21,9 +21,7 @@
     "CeTF": [
         "GenomicTools"
     ],
-    "ChAMP": [
-        "DMRcate"
-    ],
+    "ChAMP": [],
     "ChIC": [
         "spp"
     ],
@@ -49,7 +47,6 @@
     "diffcyt": [
         "FlowSOM"
     ],
-    "DMRcate": [],
     "easier": [],
     "ELMER": [],
     "enrichTF": [
