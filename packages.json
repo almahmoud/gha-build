@@ -7883,7 +7883,6 @@
         "BiocFileCache",
         "annotate"
     ],
-    "OVESEG": [],
     "PAA": [
         "sva",
         "genefilter",
