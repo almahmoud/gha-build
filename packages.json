@@ -362,7 +362,6 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "BANDITS": [],
     "bandle": [
         "MSnbase",
         "pRoloc",
@@ -1947,9 +1946,7 @@
         "car",
         "pbkrtest"
     ],
-    "DifferentialRegulation": [
-        "BANDITS"
-    ],
+    "DifferentialRegulation": [],
     "diffHic": [
         "BSgenome"
     ],
