@@ -1457,7 +1457,6 @@
         "readxl",
         "SummarizedExperiment",
         "tidyr",
-        "assertive.datetimes",
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
@@ -19535,7 +19534,6 @@
         "rtracklayer",
         "tidyr",
         "tidyselect",
-        "assertive.datetimes",
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
@@ -34265,12 +34263,10 @@
     ],
     "mixtools": [],
     "assertive": [
-        "assertive.datetimes",
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us"
     ],
-    "assertive.datetimes": [],
     "assertive.data": [],
     "assertive.data.uk": [],
     "assertive.data.us": [],
