@@ -7971,7 +7971,6 @@
     ],
     "bigmelon": [
         "wateRmelon",
-        "gdsfmt",
         "minfi",
         "Biobase",
         "methylumi",
@@ -21106,7 +21105,6 @@
         "SNPRelate",
         "SummarizedExperiment",
         "edgeR",
-        "gdsfmt",
         "lattice",
         "plyr",
         "qqman",
@@ -43504,7 +43502,6 @@
         "tidyr",
         "expm",
         "Rcpp",
-        "gdsfmt",
         "Matrix",
         "cli",
         "gtable",
@@ -43953,7 +43950,6 @@
         "rematch2"
     ],
     "GDSArray": [
-        "gdsfmt",
         "BiocGenerics",
         "DelayedArray",
         "S4Vectors",
@@ -43972,7 +43968,6 @@
         "matrixStats",
         "zlibbioc"
     ],
-    "gdsfmt": [],
     "GEM": [
         "ggplot2",
         "cli",
@@ -44750,7 +44745,6 @@
         "BiocGenerics",
         "BiocParallel",
         "GWASTools",
-        "gdsfmt",
         "GenomicRanges",
         "IRanges",
         "S4Vectors",
@@ -47315,7 +47309,6 @@
     ],
     "ggmanh": [
         "ggplot2",
-        "gdsfmt",
         "ggrepel",
         "RColorBrewer",
         "rlang",
@@ -50989,7 +50982,6 @@
     ],
     "GWASTools": [
         "Biobase",
-        "gdsfmt",
         "RSQLite",
         "survival",
         "sandwich",
@@ -51052,7 +51044,6 @@
         "SummarizedExperiment",
         "SNPRelate",
         "Biobase",
-        "gdsfmt",
         "RSQLite",
         "sandwich",
         "lmtest",
@@ -62660,7 +62651,6 @@
         "GWASTools",
         "Biobase",
         "BiocGenerics",
-        "gdsfmt",
         "RSQLite",
         "survival",
         "sandwich",
@@ -102107,7 +102097,6 @@
         "SparseM"
     ],
     "SAIGEgds": [
-        "gdsfmt",
         "SeqArray",
         "Rcpp",
         "SPAtest",
@@ -103179,7 +103168,6 @@
         "matrixStats"
     ],
     "SCArray": [
-        "gdsfmt",
         "DelayedArray",
         "BiocGenerics",
         "S4Vectors",
@@ -107676,7 +107664,6 @@
         "zlibbioc"
     ],
     "SeqArray": [
-        "gdsfmt",
         "IRanges",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -108025,7 +108012,6 @@
         "SNPRelate",
         "e1071",
         "GenomicRanges",
-        "gdsfmt",
         "ggplot2",
         "GGally",
         "IRanges",
@@ -108134,7 +108120,6 @@
         "SeqArray",
         "Biobase",
         "BiocGenerics",
-        "gdsfmt",
         "GenomicRanges",
         "IRanges",
         "S4Vectors",
@@ -111823,9 +111808,7 @@
         "ellipsis",
         "askpass"
     ],
-    "SNPRelate": [
-        "gdsfmt"
-    ],
+    "SNPRelate": [],
     "snpStats": [
         "survival",
         "Matrix",
@@ -125354,7 +125337,6 @@
         "GenomicRanges",
         "GDSArray",
         "DelayedDataFrame",
-        "gdsfmt",
         "SNPRelate",
         "SeqArray",
         "SeqVarTools",
