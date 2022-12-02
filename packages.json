@@ -800,9 +800,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MAIT": [
-        "agricolae"
-    ],
+    "MAIT": [],
     "maser": [
         "Gviz",
         "biovizBase"
@@ -1732,7 +1730,6 @@
         "pbkrtest"
     ],
     "glmmTMB": [],
-    "agricolae": [],
     "FlowSorted.Blood.450k": [],
     "methylclockData": [
         "ExperimentHubData"
