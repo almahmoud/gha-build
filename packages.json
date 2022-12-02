@@ -28036,7 +28036,6 @@
         "mlr3tuning",
         "lme4",
         "ggplot2",
-        "bbotk",
         "Biostrings",
         "multtest",
         "vegan",
@@ -37339,10 +37338,8 @@
         "mlr3"
     ],
     "mlr3tuning": [
-        "mlr3",
-        "bbotk"
+        "mlr3"
     ],
-    "bbotk": [],
     "survivalAnalysis": [
         "dplyr",
         "forcats",
