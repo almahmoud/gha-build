@@ -982,7 +982,6 @@
         "VariantAnnotation",
         "GenomicFeatures"
     ],
-    "DEFormats": [],
     "DegNorm": [
         "GenomicFeatures",
         "heatmaply"
@@ -3363,7 +3362,6 @@
     ],
     "regionReport": [
         "derfinder",
-        "DEFormats",
         "bumphunter",
         "GenomicFeatures",
         "GenomicFiles",
