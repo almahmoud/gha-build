@@ -973,8 +973,7 @@
     ],
     "GENESIS": [
         "GWASTools",
-        "SeqVarTools",
-        "logistf"
+        "SeqVarTools"
     ],
     "GeneStructureTools": [
         "Gviz",
@@ -1097,13 +1096,10 @@
     "gwascat": [
         "VariantAnnotation"
     ],
-    "GWASTools": [
-        "logistf"
-    ],
+    "GWASTools": [],
     "gwasurvivr": [
         "GWASTools",
-        "VariantAnnotation",
-        "logistf"
+        "VariantAnnotation"
     ],
     "HelloRanges": [
         "VariantAnnotation"
@@ -1337,8 +1333,7 @@
         "lmerTest"
     ],
     "mBPCR": [
-        "GWASTools",
-        "logistf"
+        "GWASTools"
     ],
     "mCSEA": [
         "Homo.sapiens",
@@ -1896,7 +1891,6 @@
     "phenomis": [],
     "PhenStat": [
         "car",
-        "logistf",
         "lme4",
         "pbkrtest"
     ],
@@ -2171,8 +2165,7 @@
     ],
     "RNAdecay": [],
     "rnaEditr": [
-        "bumphunter",
-        "logistf"
+        "bumphunter"
     ],
     "RNAinteract": [],
     "RNAmodR": [
@@ -2348,9 +2341,7 @@
         "VariantAnnotation"
     ],
     "SeqSQC": [],
-    "SeqVarTools": [
-        "logistf"
-    ],
+    "SeqVarTools": [],
     "sesame": [
         "sesameData"
     ],
@@ -2687,8 +2678,7 @@
     ],
     "VariantAnnotation": [],
     "VariantExperiment": [
-        "SeqVarTools",
-        "logistf"
+        "SeqVarTools"
     ],
     "VariantFiltering": [
         "VariantAnnotation",
@@ -2910,7 +2900,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "logistf": [],
     "shinyHeatmaply": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
     "datamods": [],
