@@ -783,7 +783,6 @@
         "GenomicFeatures",
         "ensembldb"
     ],
-    "CopywriteR": [],
     "CoreGx": [],
     "coseq": [
         "HTSFilter"
