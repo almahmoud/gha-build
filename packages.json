@@ -7214,7 +7214,6 @@
         "GenomeInfoDb",
         "rtracklayer",
         "betareg",
-        "lokern",
         "globaltest",
         "flexmix",
         "lmtest",
@@ -56582,7 +56581,6 @@
     ],
     "PREDA": [
         "Biobase",
-        "lokern",
         "multtest",
         "annotate",
         "AnnotationDbi",
@@ -86391,7 +86389,6 @@
         "sandwich",
         "zoo"
     ],
-    "lokern": [],
     "pasilla": [
         "DEXSeq",
         "BiocParallel",
