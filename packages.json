@@ -18756,7 +18756,6 @@
         "genefilter",
         "aroma.affymetrix",
         "aroma.core",
-        "R.filesets",
         "aroma.apd",
         "AnnotationDbi",
         "annotate",
@@ -26628,7 +26627,6 @@
         "aroma.affymetrix",
         "WGCNA",
         "aroma.core",
-        "R.filesets",
         "aroma.apd",
         "Hmisc",
         "GO.db",
@@ -31355,13 +31353,9 @@
     ],
     "aroma.affymetrix": [
         "aroma.core",
-        "R.filesets",
         "aroma.apd"
     ],
-    "aroma.core": [
-        "R.filesets"
-    ],
-    "R.filesets": [],
+    "aroma.core": [],
     "aroma.apd": [],
     "osfr": [
         "tibble"
