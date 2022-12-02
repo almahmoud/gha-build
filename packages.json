@@ -18970,7 +18970,6 @@
         "BiocParallel",
         "DelayedArray"
     ],
-    "hmdbQuery": [],
     "HPAanalyze": [
         "dplyr",
         "ggplot2",
