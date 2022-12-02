@@ -6287,7 +6287,6 @@
         "cowplot",
         "dplyr",
         "drc",
-        "flowCore",
         "FlowSOM",
         "ggplot2",
         "ggrepel",
@@ -7203,7 +7202,6 @@
         "broom",
         "forcats",
         "furrr",
-        "flowCore",
         "FlowSOM",
         "reshape2",
         "ComplexHeatmap",
@@ -9086,7 +9084,6 @@
     "CMA": [],
     "cmapR": [
         "rhdf5",
-        "flowCore",
         "SummarizedExperiment",
         "GenomicRanges",
         "IRanges",
@@ -10336,7 +10333,6 @@
         "changepoint",
         "contrast",
         "EBImage",
-        "flowCore",
         "flowClust",
         "flowMeans",
         "flowMerge",
@@ -11891,7 +11887,6 @@
         "tidyselect"
     ],
     "cyanoFilter": [
-        "flowCore",
         "flowDensity",
         "flowClust",
         "cytometree",
@@ -11955,7 +11950,6 @@
         "shiny",
         "BiocParallel",
         "SummarizedExperiment",
-        "flowCore",
         "BiocNeighbors",
         "futile.logger",
         "httpuv",
@@ -11981,7 +11975,6 @@
         "doParallel",
         "dplyr",
         "glmnet",
-        "flowCore",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -12012,7 +12005,6 @@
         "strucchange",
         "ggrepel",
         "caret",
-        "flowCore",
         "FlowSOM",
         "edgeR",
         "lme4",
@@ -12211,11 +12203,9 @@
         "openssl"
     ],
     "cytoMEM": [
-        "gplots",
-        "flowCore"
+        "gplots"
     ],
     "CytoML": [
-        "flowCore",
         "flowWorkspace",
         "openCyto",
         "RBGL",
@@ -12665,7 +12655,6 @@
     "ddPCRclust": [
         "ggplot2",
         "R.utils",
-        "flowCore",
         "flowDensity",
         "flowViz",
         "car",
@@ -14023,7 +14012,6 @@
         "pillar"
     ],
     "diffcyt": [
-        "flowCore",
         "FlowSOM",
         "SummarizedExperiment",
         "edgeR",
@@ -18298,7 +18286,6 @@
     ],
     "flowAI": [
         "ggplot2",
-        "flowCore",
         "changepoint",
         "knitr",
         "reshape2",
@@ -18315,11 +18302,9 @@
     ],
     "flowBeads": [
         "rrcov",
-        "flowCore",
         "knitr"
     ],
     "flowBin": [
-        "flowCore",
         "flowFP",
         "flowViz",
         "latticeExtra",
@@ -18353,7 +18338,6 @@
         "openssl"
     ],
     "flowCHIC": [
-        "flowCore",
         "EBImage",
         "vegan",
         "ggplot2",
@@ -18369,15 +18353,10 @@
         "SPARQL"
     ],
     "flowClean": [
-        "flowCore",
         "changepoint"
     ],
-    "flowClust": [
-        "flowCore"
-    ],
-    "flowCore": [],
+    "flowClust": [],
     "flowCut": [
-        "flowCore",
         "flowDensity",
         "e1071",
         "flowViz",
@@ -18427,7 +18406,6 @@
         "mgcv"
     ],
     "flowDensity": [
-        "flowCore",
         "flowViz",
         "car",
         "rgeos",
@@ -18470,7 +18448,6 @@
         "rematch2"
     ],
     "flowFP": [
-        "flowCore",
         "flowViz",
         "latticeExtra",
         "interp",
@@ -18497,13 +18474,10 @@
         "reshape2",
         "scales"
     ],
-    "flowMatch": [
-        "flowCore"
-    ],
+    "flowMatch": [],
     "flowMeans": [
         "rrcov",
         "feature",
-        "flowCore",
         "ks",
         "mgcv"
     ],
@@ -18512,12 +18486,10 @@
         "flowClust",
         "Rgraphviz",
         "rrcov",
-        "flowCore",
         "ks",
         "mgcv"
     ],
     "flowPloidy": [
-        "flowCore",
         "car",
         "knitr",
         "rmarkdown",
@@ -18556,7 +18528,6 @@
         "igraph",
         "ConsensusClusterPlus",
         "dplyr",
-        "flowCore",
         "ggforce",
         "ggnewscale",
         "ggplot2",
@@ -18594,7 +18565,6 @@
         "ggplot2",
         "BiocParallel",
         "reshape2",
-        "flowCore",
         "futile.logger",
         "mgcv",
         "scales",
@@ -18603,7 +18573,6 @@
         "pillar"
     ],
     "flowStats": [
-        "flowCore",
         "flowWorkspace",
         "ncdfFlow",
         "flowViz",
@@ -18630,7 +18599,6 @@
         "hdrcde"
     ],
     "flowTime": [
-        "flowCore",
         "dplyr",
         "tibble",
         "tidyselect",
@@ -18638,7 +18606,6 @@
         "pillar"
     ],
     "flowTrans": [
-        "flowCore",
         "flowViz",
         "flowClust",
         "latticeExtra",
@@ -18646,13 +18613,11 @@
         "RcppEigen"
     ],
     "flowViz": [
-        "flowCore",
         "latticeExtra",
         "interp",
         "RcppEigen"
     ],
     "flowVS": [
-        "flowCore",
         "flowViz",
         "flowStats",
         "flowWorkspace",
@@ -18685,7 +18650,6 @@
         "Rgraphviz",
         "dplyr",
         "scales",
-        "flowCore",
         "ncdfFlow",
         "DelayedArray",
         "IRanges",
@@ -19243,7 +19207,6 @@
     "GateFinder": [
         "splancs",
         "mvoutlier",
-        "flowCore",
         "flowFP",
         "flowViz",
         "latticeExtra",
@@ -20925,7 +20888,6 @@
     ],
     "ggcyto": [
         "ggplot2",
-        "flowCore",
         "ncdfFlow",
         "flowWorkspace",
         "scales",
@@ -24170,7 +24132,6 @@
         "plotly",
         "heatmaply",
         "rmarkdown",
-        "flowCore",
         "flowWorkspace",
         "RBGL",
         "Rgraphviz",
@@ -24201,9 +24162,7 @@
         "TSP",
         "callr"
     ],
-    "immunoClust": [
-        "flowCore"
-    ],
+    "immunoClust": [],
     "immunotation": [
         "ggplot2",
         "readr",
@@ -24333,7 +24292,6 @@
         "memoise"
     ],
     "infinityFlow": [
-        "flowCore",
         "raster",
         "uwot",
         "xgboost",
@@ -28541,7 +28499,6 @@
         "rematch2"
     ],
     "MetaCyto": [
-        "flowCore",
         "tidyr",
         "ggplot2",
         "metafor",
@@ -34317,9 +34274,7 @@
         "waldo",
         "rematch2"
     ],
-    "ncdfFlow": [
-        "flowCore"
-    ],
+    "ncdfFlow": [],
     "ncGTW": [
         "BiocParallel",
         "xcms",
@@ -36150,7 +36105,6 @@
         "shinyFiles",
         "plotly",
         "gplots",
-        "flowCore",
         "ggplot2",
         "scales",
         "httr",
@@ -36215,7 +36169,6 @@
         "Biostrings"
     ],
     "openCyto": [
-        "flowCore",
         "flowViz",
         "ncdfFlow",
         "flowWorkspace",
@@ -36472,7 +36425,6 @@
         "pillar",
         "rrcov",
         "feature",
-        "flowCore",
         "RcppZiggurat",
         "htmlwidgets",
         "knitr",
@@ -37536,7 +37488,6 @@
     ],
     "PeacoQC": [
         "ComplexHeatmap",
-        "flowCore",
         "flowWorkspace",
         "ggplot2",
         "IRanges",
@@ -45956,7 +45907,6 @@
         "SingleCellExperiment",
         "ggplot2",
         "ggrepel",
-        "flowCore",
         "umap",
         "Seurat",
         "reshape2",
@@ -46326,7 +46276,6 @@
         "kableExtra",
         "tibble",
         "scales",
-        "flowCore",
         "IRanges",
         "XVector",
         "GenomeInfoDb",
@@ -46640,7 +46589,6 @@
     "Sconify": [
         "tibble",
         "dplyr",
-        "flowCore",
         "ggplot2",
         "readr",
         "tidyselect",
@@ -54335,7 +54283,6 @@
         "edgeR",
         "lme4",
         "multcomp",
-        "flowCore",
         "FlowSOM",
         "SummarizedExperiment",
         "reshape2",
