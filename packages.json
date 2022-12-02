@@ -14041,7 +14041,6 @@
         "lme4",
         "viridis",
         "vroom",
-        "lwgeom",
         "nloptr",
         "testthat",
         "waldo"
@@ -16900,18 +16899,14 @@
     ],
     "gstat": [
         "sftime",
-        "stars",
-        "lwgeom"
+        "stars"
     ],
     "SpatialExtremes": [
         "fields",
         "viridis"
     ],
     "sftime": [],
-    "stars": [
-        "lwgeom"
-    ],
-    "lwgeom": [],
+    "stars": [],
     "spsComps": [
         "shinytoastr",
         "shinyAce"
