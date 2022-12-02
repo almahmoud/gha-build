@@ -1728,7 +1728,6 @@
         "lme4",
         "nloptr"
     ],
-    "ExCluster": [],
     "exomePeak2": [
         "GenomicFeatures",
         "DESeq2",
