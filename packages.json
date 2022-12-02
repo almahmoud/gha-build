@@ -5304,7 +5304,6 @@
         "DropletUtils"
     ],
     "simplifyEnrichment": [],
-    "sincell": [],
     "single": [],
     "SingleCellSignalR": [
         "scran"
