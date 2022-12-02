@@ -2944,7 +2944,6 @@
         "R.cache",
         "gert",
         "gh",
-        "credentials",
         "httr"
     ],
     "BiocWorkflowTools": [
@@ -2955,8 +2954,7 @@
         "usethis",
         "bslib",
         "gert",
-        "gh",
-        "credentials"
+        "gh"
     ],
     "biodb": [
         "BiocFileCache",
@@ -4050,7 +4048,6 @@
         "waldo",
         "gert",
         "gh",
-        "credentials",
         "textshaping",
         "httpuv",
         "pillar",
@@ -6897,7 +6894,6 @@
         "waldo",
         "gert",
         "gh",
-        "credentials",
         "textshaping",
         "httpuv",
         "rematch2"
@@ -8950,7 +8946,6 @@
         "waldo",
         "gert",
         "gh",
-        "credentials",
         "nloptr",
         "rematch2"
     ],
@@ -13819,7 +13814,6 @@
         "waldo",
         "gert",
         "gh",
-        "credentials",
         "textshaping",
         "httpuv",
         "pillar",
@@ -16789,7 +16783,6 @@
         "pillar",
         "gert",
         "gh",
-        "credentials",
         "R.cache"
     ],
     "HumanTranscriptomeCompendium": [
@@ -17350,7 +17343,6 @@
         "waldo",
         "gert",
         "gh",
-        "credentials",
         "textshaping",
         "httpuv",
         "pillar",
@@ -17656,7 +17648,6 @@
         "quantreg",
         "lme4",
         "blob",
-        "credentials",
         "Biostrings",
         "broom",
         "XVector",
@@ -20061,7 +20052,6 @@
         "gert",
         "gh",
         "progress",
-        "credentials",
         "httr",
         "rematch2"
     ],
@@ -20113,7 +20103,6 @@
         "vroom",
         "gert",
         "gh",
-        "credentials",
         "httr",
         "waldo",
         "progress",
@@ -21001,7 +20990,6 @@
         "pbkrtest",
         "lme4",
         "biomaRt",
-        "credentials",
         "DT",
         "textshaping",
         "httpuv",
@@ -21299,7 +21287,6 @@
         "waldo",
         "gert",
         "gh",
-        "credentials",
         "textshaping",
         "httpuv",
         "pillar",
@@ -21718,7 +21705,6 @@
         "gert",
         "gh",
         "cowplot",
-        "credentials",
         "tweenr",
         "httr",
         "Biostrings",
@@ -23891,7 +23877,6 @@
         "gert",
         "gh",
         "cowplot",
-        "credentials",
         "tweenr",
         "prodlim",
         "Biostrings",
@@ -25313,7 +25298,6 @@
         "gert",
         "gh",
         "BSgenome",
-        "credentials",
         "nloptr",
         "rematch2"
     ],
@@ -25952,7 +25936,6 @@
         "pillar",
         "gert",
         "gh",
-        "credentials",
         "textshaping",
         "httpuv",
         "rematch2"
@@ -26524,7 +26507,6 @@
         "gh",
         "RSQLite",
         "KEGGREST",
-        "credentials",
         "textshaping",
         "rematch2",
         "blob"
@@ -31025,7 +31007,6 @@
         "gh",
         "progress",
         "BiocFileCache",
-        "credentials",
         "textshaping",
         "blob",
         "GenomicAlignments",
@@ -36295,7 +36276,6 @@
         "gh",
         "dbplyr",
         "dplyr",
-        "credentials",
         "htmlTable",
         "viridis",
         "hms",
@@ -38926,8 +38906,7 @@
         "httpuv",
         "bslib",
         "gert",
-        "gh",
-        "credentials"
+        "gh"
     ],
     "tRNA": [
         "GenomicRanges",
@@ -40178,7 +40157,6 @@
         "XVector",
         "gert",
         "gh",
-        "credentials",
         "httr"
     ],
     "wppi": [
@@ -42072,13 +42050,9 @@
     "usethis": [
         "gert",
         "gh",
-        "credentials",
         "httr"
     ],
-    "gert": [
-        "credentials"
-    ],
-    "credentials": [],
+    "gert": [],
     "rms": [
         "Hmisc",
         "ggplot2",
@@ -42386,7 +42360,6 @@
         "waldo",
         "gert",
         "gh",
-        "credentials",
         "textshaping",
         "httpuv",
         "pillar",
@@ -43419,7 +43392,6 @@
         "waldo",
         "gert",
         "gh",
-        "credentials",
         "httr",
         "rematch2",
         "tibble",
@@ -44080,7 +44052,6 @@
         "bslib",
         "gert",
         "gh",
-        "credentials",
         "httr"
     ],
     "shinyalert": [
@@ -44737,7 +44708,6 @@
         "waldo",
         "gert",
         "gh",
-        "credentials",
         "textshaping",
         "httpuv",
         "pillar",
