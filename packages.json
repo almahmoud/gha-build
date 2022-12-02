@@ -883,7 +883,6 @@
         "OrganismDbi",
         "VariantAnnotation"
     ],
-    "epistasisGA": [],
     "EpiTxDb": [],
     "epivizr": [
         "epivizrData",
