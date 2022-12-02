@@ -9113,7 +9113,6 @@
         "testthat",
         "waldo"
     ],
-    "rfPred": [],
     "rGADEM": [
         "BSgenome",
         "rtracklayer"
