@@ -980,7 +980,6 @@
         "genefu",
         "biomaRt"
     ],
-    "consensusSeekeR": [],
     "consICA": [],
     "contiBAIT": [
         "GenomicFiles",
@@ -4376,9 +4375,7 @@
         "EnsDb.Hsapiens.v86",
         "biomaRt"
     ],
-    "RJMCMCNucleosomes": [
-        "consensusSeekeR"
-    ],
+    "RJMCMCNucleosomes": [],
     "RLSeq": [
         "regioneR",
         "valr",
