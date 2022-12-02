@@ -2839,7 +2839,6 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "Cardinal": [],
     "CARNIVAL": [
         "readr",
         "dplyr",
