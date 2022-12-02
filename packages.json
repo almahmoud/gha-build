@@ -61167,7 +61167,6 @@
     ],
     "ReactomeGraph4R": [
         "neo4r",
-        "getPass",
         "purrr",
         "ReactomeContentService4R",
         "doParallel",
@@ -94762,7 +94761,6 @@
         "memoise",
         "askpass"
     ],
-    "getPass": [],
     "CodeDepends": [
         "graph"
     ],
