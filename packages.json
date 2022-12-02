@@ -2335,7 +2335,6 @@
         "HDF5Array",
         "BiocParallel",
         "lumi",
-        "ROC",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "RSQLite",
         "KEGGREST",
@@ -4910,7 +4909,6 @@
         "dplyr",
         "bslib",
         "lumi",
-        "ROC",
         "RSQLite",
         "KEGGREST",
         "BSgenome",
@@ -5800,13 +5798,10 @@
         "XVector",
         "pillar"
     ],
-    "clst": [
-        "ROC"
-    ],
+    "clst": [],
     "clstutils": [
         "clst",
         "RSQLite",
-        "ROC",
         "blob"
     ],
     "CluMSID": [
@@ -17890,7 +17885,6 @@
     ],
     "maPredictDSC": [
         "gcrma",
-        "ROC",
         "caret",
         "hgu133plus2.db",
         "ROCR",
@@ -18337,7 +18331,6 @@
         "BiocParallel",
         "methylumi",
         "lumi",
-        "ROC",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "XVector",
         "GenomicFeatures",
@@ -29013,7 +29006,6 @@
         "XVector",
         "DelayedArray"
     ],
-    "ROC": [],
     "ROCpAI": [
         "SummarizedExperiment",
         "fission",
@@ -32224,7 +32216,6 @@
         "HDF5Array",
         "BiocParallel",
         "lumi",
-        "ROC",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "RSQLite",
         "KEGGREST",
@@ -33620,7 +33611,6 @@
         "bslib"
     ],
     "statTarget": [
-        "ROC",
         "rrcov"
     ],
     "STdeconvolve": [
@@ -34428,7 +34418,6 @@
     "TCC": [
         "DESeq2",
         "baySeq",
-        "ROC",
         "GenomicRanges",
         "SummarizedExperiment",
         "BiocParallel",
@@ -36805,7 +36794,6 @@
     "wateRmelon": [
         "methylumi",
         "lumi",
-        "ROC",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "illuminaio",
         "minfi",
