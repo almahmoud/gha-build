@@ -1,10 +1,10 @@
 # Summary
 
-3680 built packages
+3684 built packages
 
 22 failed packages
 
-106 unclaimed packages
+102 unclaimed packages
 
 
 
@@ -34,7 +34,7 @@
 | [GenKern](https://github.com/almahmoud/gha-build/actions/runs/3598001925/jobs/6060350141)         | Failed   | https://github.com/almahmoud/gha-build/blob/main/lists/failed/GenKern         |
 | [vbsr](https://github.com/almahmoud/gha-build/actions/runs/3598114344/jobs/6060686399)            | Failed   | https://github.com/almahmoud/gha-build/blob/main/lists/failed/vbsr            |
 
-## Succeeded (3680)
+## Succeeded (3684)
 | Package                                                                                                                         | Status    | Tarball                                                                                                                                                                                                                                |
 |---------------------------------------------------------------------------------------------------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [a4](https://github.com/almahmoud/gha-build/actions/runs/3599026062/jobs/6062385390)                                            | Succeeded | [a4_1.46.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/a4_1.46.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                     |
@@ -1047,6 +1047,7 @@
 | [m6Aboost](https://github.com/almahmoud/gha-build/actions/runs/3599118231/jobs/6062514377)                                      | Succeeded | [m6Aboost_1.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/m6Aboost_1.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | [maanova](https://github.com/almahmoud/gha-build/actions/runs/3598381410/jobs/6061091927)                                       | Succeeded | [maanova_1.68.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/maanova_1.68.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | [Maaslin2](https://github.com/almahmoud/gha-build/actions/runs/3599381277/jobs/6063060623)                                      | Succeeded | [Maaslin2_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/Maaslin2_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
+| [Macarron](https://github.com/almahmoud/gha-build/actions/runs/3599429756/jobs/6063118679)                                      | Succeeded | [Macarron_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/Macarron_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | [macat](https://github.com/almahmoud/gha-build/actions/runs/3598790947/jobs/6061885663)                                         | Succeeded | [macat_1.72.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/macat_1.72.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
 | [maCorrPlot](https://github.com/almahmoud/gha-build/actions/runs/3598255221/jobs/6060963827)                                    | Succeeded | [maCorrPlot_1.68.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/maCorrPlot_1.68.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                     |
 | [MACSQuantifyR](https://github.com/almahmoud/gha-build/actions/runs/3598790947/jobs/6061885339)                                 | Succeeded | [MACSQuantifyR_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/MACSQuantifyR_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                                               |
@@ -1673,6 +1674,7 @@
 | [RTCA](https://github.com/almahmoud/gha-build/actions/runs/3598318869/jobs/6061020806)                                          | Succeeded | [RTCA_1.50.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/RTCA_1.50.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                 |
 | [RTCGAToolbox](https://github.com/almahmoud/gha-build/actions/runs/3599223673/jobs/6062751710)                                  | Succeeded | [RTCGAToolbox_2.28.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/RTCGAToolbox_2.28.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                 |
 | [RTN](https://github.com/almahmoud/gha-build/actions/runs/3599381277/jobs/6063058709)                                           | Succeeded | [RTN_2.22.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/RTN_2.22.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                                   |
+| [RTNduals](https://github.com/almahmoud/gha-build/actions/runs/3599461445/jobs/6063138274)                                      | Succeeded | [RTNduals_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/RTNduals_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
 | [RTopper](https://github.com/almahmoud/gha-build/actions/runs/3598565544/jobs/6061507255)                                       | Succeeded | [RTopper_1.44.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/RTopper_1.44.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | [Rtpca](https://github.com/almahmoud/gha-build/actions/runs/3598839690/jobs/6062018691)                                         | Succeeded | [Rtpca_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/Rtpca_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                 |
 | [rtracklayer](https://github.com/almahmoud/gha-build/actions/runs/3598736707/jobs/6061868644)                                   | Succeeded | [rtracklayer_1.58.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/rtracklayer_1.58.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
@@ -2063,6 +2065,7 @@
 | [vtpnet](https://github.com/almahmoud/gha-build/actions/runs/3599283544/jobs/6062851924)                                        | Succeeded | [vtpnet_0.38.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/vtpnet_0.38.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                             |
 | [vulcan](https://github.com/almahmoud/gha-build/actions/runs/3599223673/jobs/6062749391)                                        | Succeeded | [vulcan_1.20.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/vulcan_1.20.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                             |
 | [waddR](https://github.com/almahmoud/gha-build/actions/runs/3599283544/jobs/6062851022)                                         | Succeeded | [waddR_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/waddR_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
+| [wateRmelon](https://github.com/almahmoud/gha-build/actions/runs/3599429756/jobs/6063120040)                                    | Succeeded | [wateRmelon_2.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/wateRmelon_2.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | [wavClusteR](https://github.com/almahmoud/gha-build/actions/runs/3599070913/jobs/6062472678)                                    | Succeeded | [wavClusteR_2.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/wavClusteR_2.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                     |
 | [weaver](https://github.com/almahmoud/gha-build/actions/runs/3598203479/jobs/6060774601)                                        | Succeeded | [weaver_1.64.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/weaver_1.64.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                             |
 | [webbioc](https://github.com/almahmoud/gha-build/actions/runs/3598878560/jobs/6062115759)                                       | Succeeded | [webbioc_1.70.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/webbioc_1.70.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
@@ -2081,6 +2084,7 @@
 | [XNAString](https://github.com/almahmoud/gha-build/actions/runs/3598997491/jobs/6062251680)                                     | Succeeded | [XNAString_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/XNAString_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
 | [XVector](https://github.com/almahmoud/gha-build/actions/runs/3598445366/jobs/6061231821)                                       | Succeeded | [XVector_0.38.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/XVector_0.38.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | [yamss](https://github.com/almahmoud/gha-build/actions/runs/3598658514/jobs/6061689654)                                         | Succeeded | [yamss_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/yamss_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
+| [YAPSA](https://github.com/almahmoud/gha-build/actions/runs/3599429756/jobs/6063119355)                                         | Succeeded | [YAPSA_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/YAPSA_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
 | [yarn](https://github.com/almahmoud/gha-build/actions/runs/3599381277/jobs/6063059325)                                          | Succeeded | [yarn_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/yarn_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                 |
 | [zellkonverter](https://github.com/almahmoud/gha-build/actions/runs/3598736707/jobs/6061866921)                                 | Succeeded | [zellkonverter_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/zellkonverter_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                 |
 | [zenith](https://github.com/almahmoud/gha-build/actions/runs/3599381277/jobs/6063060879)                                        | Succeeded | [zenith_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/zenith_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
@@ -3718,7 +3722,7 @@
 | [Rmisc](https://github.com/almahmoud/gha-build/actions/runs/3598381410/jobs/6061091879)                                         | Succeeded | [Rmisc_1.5.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/Rmisc_1.5.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                                 |
 | [alluvial](https://github.com/almahmoud/gha-build/actions/runs/3598112030/jobs/6060570310)                                      | Succeeded | [alluvial_0.1-2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/alluvial_0.1-2_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 
-## Unclaimed (106)
+## Unclaimed (102)
 | Package                                                                                           | Status    | Tarball   |
 |---------------------------------------------------------------------------------------------------|-----------|-----------|
 | ADAMgui                                                                                           | Unclaimed |           |
@@ -3752,7 +3756,7 @@
 | flowCL                                                                                            | Unclaimed |           |
 | FlowSOM                                                                                           | Unclaimed |           |
 | FuseSOM                                                                                           | Unclaimed |           |
-| GARS                                                                                              | Unclaimed |           |
+| [GARS](https://github.com/almahmoud/gha-build/actions/runs/3599478633/jobs/6063162154)            | Unclaimed |           |
 | GDCRNATools                                                                                       | Unclaimed |           |
 | GeneAccord                                                                                        | Unclaimed |           |
 | GenomicSuperSignature                                                                             | Unclaimed |           |
@@ -3766,7 +3770,6 @@
 | ivygapSE                                                                                          | Unclaimed |           |
 | kissDE                                                                                            | Unclaimed |           |
 | LinkHD                                                                                            | Unclaimed |           |
-| [Macarron](https://github.com/almahmoud/gha-build/actions/runs/3599429756/jobs/6063118679)        | Unclaimed |           |
 | [MAGAR](https://github.com/almahmoud/gha-build/actions/runs/3599470719/jobs/6063142531)           | Unclaimed |           |
 | [MEAL](https://github.com/almahmoud/gha-build/actions/runs/3599461445/jobs/6063138469)            | Unclaimed |           |
 | MEAT                                                                                              | Unclaimed |           |
@@ -3805,7 +3808,6 @@
 | RNASeqR                                                                                           | Unclaimed |           |
 | RnaSeqSampleSize                                                                                  | Unclaimed |           |
 | RTCGA                                                                                             | Unclaimed |           |
-| [RTNduals](https://github.com/almahmoud/gha-build/actions/runs/3599461445/jobs/6063138274)        | Unclaimed |           |
 | RTNsurvival                                                                                       | Unclaimed |           |
 | scRecover                                                                                         | Unclaimed |           |
 | signeR                                                                                            | Unclaimed |           |
@@ -3822,8 +3824,6 @@
 | TNBC.CMS                                                                                          | Unclaimed |           |
 | TraRe                                                                                             | Unclaimed |           |
 | treekoR                                                                                           | Unclaimed |           |
-| [wateRmelon](https://github.com/almahmoud/gha-build/actions/runs/3599429756/jobs/6063120040)      | Unclaimed |           |
-| [YAPSA](https://github.com/almahmoud/gha-build/actions/runs/3599429756/jobs/6063119355)           | Unclaimed |           |
 | factoextra                                                                                        | Unclaimed |           |
 | survminer                                                                                         | Unclaimed |           |
 | survivalAnalysis                                                                                  | Unclaimed |           |
