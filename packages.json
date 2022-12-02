@@ -3074,7 +3074,6 @@
     "CyTOFpower": [
         "CytoGLMM",
         "diffcyt",
-        "shinyFeedback",
         "shinyjs",
         "shinyMatrix",
         "tidyr",
@@ -6570,7 +6569,6 @@
         "dendextend",
         "factoextra",
         "plotly",
-        "shinyFeedback",
         "shinyalert",
         "readxl",
         "biomaRt",
@@ -12001,8 +11999,7 @@
         "phyloseq"
     ],
     "rprimer": [
-        "patchwork",
-        "shinyFeedback"
+        "patchwork"
     ],
     "rpx": [
         "BiocFileCache",
@@ -16023,7 +16020,6 @@
     "fields": [
         "viridis"
     ],
-    "shinyFeedback": [],
     "shinyMatrix": [],
     "mbest": [
         "lme4",
