@@ -4538,7 +4538,6 @@
     "POWSC": [],
     "ppcseq": [
         "tidybayes",
-        "ggdist",
         "posterior"
     ],
     "PPInfer": [
@@ -7084,10 +7083,8 @@
     ],
     "verification": [],
     "tidybayes": [
-        "ggdist",
         "posterior"
     ],
-    "ggdist": [],
     "posterior": [],
     "phastCons100way.UCSC.hg38": [
         "GenomicScores",
