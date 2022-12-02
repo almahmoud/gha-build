@@ -15830,7 +15830,6 @@
         "FSelector",
         "reshape2",
         "arm",
-        "RSNNS",
         "edgeR",
         "Matrix",
         "lme4",
@@ -24422,7 +24421,6 @@
         "FSelector",
         "reshape2",
         "arm",
-        "RSNNS",
         "edgeR",
         "lifecycle",
         "mgcv",
@@ -78402,7 +78400,6 @@
         "pillar",
         "vctrs"
     ],
-    "RSNNS": [],
     "RWeka": [
         "RWekajars"
     ],
