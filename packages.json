@@ -82,13 +82,10 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene"
     ],
     "ATACseqQC": [
-        "ChIPpeakAnno",
-        "motifStack"
+        "ChIPpeakAnno"
     ],
     "ATACseqTFEA": [],
-    "atSNP": [
-        "motifStack"
-    ],
+    "atSNP": [],
     "attract": [],
     "BaalChIP": [
         "doBy",
@@ -465,9 +462,7 @@
         "pbkrtest"
     ],
     "cytomapper": [],
-    "dagLogo": [
-        "motifStack"
-    ],
+    "dagLogo": [],
     "DAMEfinder": [
         "VariantAnnotation"
     ],
@@ -1128,7 +1123,6 @@
     ],
     "LowMACA": [
         "cBioPortalData",
-        "motifStack",
         "RTCGAToolbox",
         "TCGAutils"
     ],
@@ -1422,11 +1416,9 @@
     "mosbi": [],
     "motifbreakR": [
         "VariantAnnotation",
-        "motifStack",
         "Gviz",
         "biovizBase"
     ],
-    "motifStack": [],
     "MQmetrics": [
         "ggpubr",
         "rstatix",
@@ -1539,7 +1531,6 @@
         "trackViewer",
         "ATACseqQC",
         "ChIPpeakAnno",
-        "motifStack",
         "Gviz",
         "biovizBase",
         "VariantAnnotation"
@@ -1892,7 +1883,6 @@
         "VariantAnnotation"
     ],
     "ribosomeProfilingQC": [
-        "motifStack",
         "RUVSeq"
     ],
     "rifi": [
