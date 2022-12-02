@@ -7677,7 +7677,6 @@
         "visNetwork",
         "tidyselect",
         "pillar",
-        "rsparse",
         "lexicon",
         "textclean",
         "syuzhet",
@@ -12136,7 +12135,6 @@
         "tidyr",
         "viridis",
         "visNetwork",
-        "rsparse",
         "lexicon",
         "textclean",
         "tidyselect",
@@ -32305,7 +32303,6 @@
         "visNetwork",
         "tensorflow",
         "tfruns",
-        "rsparse",
         "lexicon",
         "textclean",
         "tidyselect",
@@ -32614,7 +32611,6 @@
         "text2vec",
         "textstem",
         "rvest",
-        "rsparse",
         "lexicon",
         "textclean",
         "progress",
@@ -36048,9 +36044,7 @@
         "tidyselect",
         "pillar"
     ],
-    "text2vec": [
-        "rsparse"
-    ],
+    "text2vec": [],
     "textstem": [
         "dplyr",
         "lexicon",
@@ -36061,7 +36055,6 @@
         "syuzhet",
         "tidyr"
     ],
-    "rsparse": [],
     "lexicon": [
         "syuzhet",
         "dplyr",
