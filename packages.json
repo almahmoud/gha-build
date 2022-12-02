@@ -1513,7 +1513,6 @@
     ],
     "annmap": [
         "GenomicRanges",
-        "RMySQL",
         "Biobase",
         "Rsamtools",
         "genefilter",
@@ -27448,7 +27447,6 @@
     ],
     "GLAD": [],
     "GladiaTOX": [
-        "RMySQL",
         "RSQLite",
         "ggplot2",
         "ggrepel",
@@ -32096,7 +32094,6 @@
         "GenomicFeatures",
         "IRanges",
         "seqinr",
-        "RMySQL",
         "GenomicAlignments",
         "BiocParallel",
         "DEXSeq",
@@ -70418,7 +70415,6 @@
         "glmnet",
         "MotifDb",
         "RSQLite",
-        "RMySQL",
         "lassopv",
         "xgboost",
         "RPostgreSQL",
@@ -74826,7 +74822,6 @@
         "globals",
         "Matrix"
     ],
-    "RMySQL": [],
     "rapiclient": [
         "httr",
         "openssl"
