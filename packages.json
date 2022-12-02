@@ -12001,7 +12001,6 @@
         "GEOquery",
         "frma",
         "affy",
-        "bigmemory",
         "biganalytics",
         "affyio",
         "foreach",
@@ -17770,7 +17769,6 @@
         "minqa",
         "nloptr",
         "RcppEigen",
-        "bigmemory",
         "survival",
         "TH.data",
         "sandwich",
@@ -17850,7 +17848,6 @@
         "FactoMineR",
         "ggpubr",
         "mgcv",
-        "bigmemory",
         "lme4",
         "zoo",
         "sandwich",
@@ -45149,7 +45146,6 @@
         "MCL",
         "RSpectra",
         "apcluster",
-        "bigmemory",
         "foreach",
         "ggplot2",
         "parallelDist",
@@ -51053,7 +51049,6 @@
         "MultiAssayExperiment",
         "BiocFileCache",
         "GenomicRanges",
-        "bigmemory",
         "doParallel",
         "foreach",
         "GenomeInfoDb",
@@ -89571,12 +89566,8 @@
         "RcppArmadillo",
         "Matrix"
     ],
-    "ChIPXpressData": [
-        "bigmemory"
-    ],
-    "bigmemory": [],
+    "ChIPXpressData": [],
     "biganalytics": [
-        "bigmemory",
         "foreach",
         "biglm"
     ],
@@ -90630,7 +90621,6 @@
     ],
     "mbest": [
         "nlme",
-        "bigmemory",
         "foreach",
         "lme4",
         "Matrix",
