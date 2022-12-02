@@ -73,9 +73,7 @@
     ],
     "conumee": [],
     "crisprVerse": [],
-    "cyanoFilter": [
-        "flowDensity"
-    ],
+    "cyanoFilter": [],
     "CyTOFpower": [
         "CytoGLMM",
         "diffcyt",
@@ -97,9 +95,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "ddPCRclust": [
-        "flowDensity"
-    ],
+    "ddPCRclust": [],
     "derfinderPlot": [],
     "destiny": [
         "VIM"
@@ -153,10 +149,7 @@
     "flowCL": [
         "SPARQL"
     ],
-    "flowCut": [
-        "flowDensity"
-    ],
-    "flowDensity": [],
+    "flowCut": [],
     "flowPloidy": [],
     "FlowSOM": [
         "ggpubr",
