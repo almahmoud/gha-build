@@ -2924,7 +2924,6 @@
         "shadowtext",
         "ggforce",
         "viridis",
-        "mutoss",
         "Linnorm",
         "tidyr",
         "broom",
@@ -3652,7 +3651,6 @@
         "annotate",
         "GSEABase",
         "SingleCellExperiment",
-        "mutoss",
         "hgu133plus2.db",
         "hgu133a.db",
         "tidyr"
@@ -6971,8 +6969,7 @@
         "tidyr",
         "plotly",
         "metap",
-        "topconfects",
-        "mutoss"
+        "topconfects"
     ],
     "MetCirc": [],
     "MethCP": [
@@ -8098,8 +8095,7 @@
     "multiGSEA": [
         "graphite",
         "fgsea",
-        "metap",
-        "mutoss"
+        "metap"
     ],
     "multiHiCcompare": [
         "HiCcompare",
@@ -8136,7 +8132,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "mutoss",
         "reactome.db",
         "graphite",
         "ggfun",
@@ -8286,7 +8281,6 @@
         "ChIPpeakAnno",
         "GenomicScores",
         "motifStack",
-        "mutoss",
         "GenomicFeatures",
         "Gviz",
         "InteractionSet",
@@ -8991,7 +8985,6 @@
         "qvalue",
         "tidyr",
         "annotate",
-        "mutoss",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -10798,7 +10791,6 @@
         "metap",
         "pbkrtest",
         "lme4",
-        "mutoss",
         "plotly",
         "MultiAssayExperiment",
         "MultiDataSet",
@@ -11803,7 +11795,6 @@
         "treeio",
         "annotate",
         "hgu95a.db",
-        "mutoss",
         "babelgene",
         "ggrastr",
         "M3Drop",
@@ -14361,10 +14352,7 @@
         "testthat",
         "waldo"
     ],
-    "metap": [
-        "mutoss"
-    ],
-    "mutoss": [],
+    "metap": [],
     "DMwR2": [
         "readr"
     ],
