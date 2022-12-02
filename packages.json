@@ -11737,7 +11737,6 @@
         "ggplot2",
         "ggforce",
         "dplyr",
-        "reactable",
         "msigdbr",
         "kableExtra",
         "rmarkdown",
@@ -12505,7 +12504,6 @@
         "shiny",
         "shinyWidgets",
         "datamods",
-        "reactable",
         "rio",
         "shinybusy",
         "tidyselect",
@@ -30581,7 +30579,6 @@
         "dplyr",
         "tidyselect"
     ],
-    "reactable": [],
     "biclust": [
         "tidyr",
         "ggplot2",
@@ -30629,7 +30626,6 @@
         "tibble"
     ],
     "datamods": [
-        "reactable",
         "readxl",
         "rio",
         "shiny",
