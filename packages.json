@@ -2195,7 +2195,6 @@
         "KEGGREST",
         "tzdb",
         "timeSeries",
-        "spatial",
         "lambda.r",
         "rprojroot",
         "rpart",
@@ -15638,7 +15637,6 @@
         "XVector",
         "GenomeInfoDb",
         "timeSeries",
-        "spatial",
         "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
@@ -19378,7 +19376,6 @@
         "stringi",
         "zoo",
         "timeSeries",
-        "spatial",
         "future",
         "globals",
         "Matrix",
@@ -25927,7 +25924,6 @@
         "scales",
         "zoo",
         "timeSeries",
-        "spatial",
         "gtable",
         "isoband",
         "lifecycle",
@@ -42989,7 +42985,6 @@
         "DelayedArray",
         "gbutils",
         "Rdpack",
-        "spatial",
         "lambda.r",
         "RCurl",
         "GenomeInfoDbData",
@@ -59522,7 +59517,6 @@
         "purrr",
         "rprojroot",
         "timeSeries",
-        "spatial",
         "nlme",
         "Matrix",
         "SparseM",
@@ -112610,7 +112604,6 @@
         "statip",
         "permute",
         "timeSeries",
-        "spatial",
         "farver",
         "munsell",
         "viridisLite",
@@ -112668,7 +112661,6 @@
         "stable",
         "statip",
         "timeSeries",
-        "spatial",
         "clue",
         "rpart"
     ],
@@ -112685,8 +112677,7 @@
         "rprojroot"
     ],
     "fBasics": [
-        "timeSeries",
-        "spatial"
+        "timeSeries"
     ],
     "stable": [],
     "statip": [
@@ -112733,7 +112724,6 @@
         "rprojroot"
     ],
     "timeSeries": [],
-    "spatial": [],
     "prodlim": [
         "Rcpp",
         "survival",
@@ -122437,8 +122427,7 @@
         "Matrix",
         "cvar",
         "gbutils",
-        "Rdpack",
-        "spatial"
+        "Rdpack"
     ],
     "cvar": [
         "gbutils",
