@@ -98230,7 +98230,6 @@
         "GenomeInfoDb",
         "pillar",
         "profmem",
-        "NISTunits",
         "pracma",
         "lambda.r",
         "futile.options",
@@ -106671,7 +106670,6 @@
         "pillar",
         "profmem",
         "tibble",
-        "NISTunits",
         "pracma",
         "backports",
         "lambda.r",
@@ -146278,7 +146276,6 @@
         "magrittr",
         "pillar",
         "profmem",
-        "NISTunits",
         "pracma",
         "lambda.r",
         "futile.options",
@@ -168480,15 +168477,12 @@
         "sm",
         "mapproj",
         "RANN",
-        "NISTunits",
         "pracma"
     ],
     "celestial": [
         "RANN",
-        "NISTunits",
         "pracma"
     ],
-    "NISTunits": [],
     "PMCMRplus": [
         "mvtnorm",
         "multcompView",
