@@ -39879,7 +39879,6 @@
         "GenomicRanges",
         "XVector",
         "Rsamtools",
-        "tractor.base",
         "GenomeInfoDb",
         "Biostrings",
         "BiocParallel"
@@ -47847,7 +47846,6 @@
         "vroom",
         "progress"
     ],
-    "tractor.base": [],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
