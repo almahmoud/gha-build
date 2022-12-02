@@ -919,7 +919,6 @@
     "DiffBind": [
         "GreyListChIP"
     ],
-    "diffcoexp": [],
     "diffcyt": [
         "FlowSOM",
         "lme4",
