@@ -1968,7 +1968,6 @@
         "rmarkdown"
     ],
     "biocthis": [
-        "styler",
         "usethis"
     ],
     "BiocWorkflowTools": [
@@ -11703,7 +11702,6 @@
         "dplyr",
         "tidytext",
         "tibble",
-        "styler",
         "tidyselect"
     ],
     "HumanTranscriptomeCompendium": [
@@ -13547,7 +13545,6 @@
         "prodlim",
         "shiny",
         "miniUI",
-        "styler",
         "labelled",
         "haven",
         "lava",
@@ -17758,7 +17755,6 @@
         "hardhat",
         "shiny",
         "miniUI",
-        "styler",
         "labelled",
         "haven",
         "forcats",
@@ -19846,7 +19842,6 @@
         "shinydashboard",
         "kableExtra",
         "GGally",
-        "styler",
         "factoextra",
         "FactoMineR",
         "tidyselect",
@@ -25861,7 +25856,6 @@
         "shinyjqui",
         "shinyjs",
         "shinytoastr",
-        "styler",
         "tibble",
         "vroom",
         "RSQLite",
@@ -29204,7 +29198,6 @@
     "rorcid": [
         "tibble"
     ],
-    "styler": [],
     "usethis": [],
     "rms": [
         "Hmisc",
@@ -30690,7 +30683,6 @@
         "questionr",
         "shiny",
         "miniUI",
-        "styler",
         "labelled",
         "haven",
         "dplyr",
@@ -30706,7 +30698,6 @@
         "questionr",
         "shiny",
         "miniUI",
-        "styler",
         "labelled",
         "haven",
         "dplyr",
@@ -30721,7 +30712,6 @@
     "questionr": [
         "shiny",
         "miniUI",
-        "styler",
         "labelled",
         "haven",
         "dplyr",
@@ -31140,7 +31130,6 @@
         "hardhat",
         "shiny",
         "miniUI",
-        "styler",
         "labelled",
         "haven",
         "forcats",
