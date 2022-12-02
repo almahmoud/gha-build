@@ -2158,7 +2158,6 @@
         "lmerTest",
         "lme4"
     ],
-    "SpatialFeatureExperiment": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
@@ -2389,9 +2388,7 @@
         "textstem",
         "textclean"
     ],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "vtpnet": [
         "gwascat",
         "VariantAnnotation"
