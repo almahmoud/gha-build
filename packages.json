@@ -18943,7 +18943,6 @@
         "aroma.core",
         "R.filesets",
         "aroma.apd",
-        "R.rsp",
         "AnnotationDbi",
         "annotate",
         "RSQLite",
@@ -26885,7 +26884,6 @@
         "AnnotationDbi",
         "RSQLite",
         "KEGGREST",
-        "R.rsp",
         "ggplot2",
         "viridis",
         "tibble",
@@ -31659,16 +31657,13 @@
     "aroma.affymetrix": [
         "aroma.core",
         "R.filesets",
-        "aroma.apd",
-        "R.rsp"
+        "aroma.apd"
     ],
     "aroma.core": [
-        "R.filesets",
-        "R.rsp"
+        "R.filesets"
     ],
     "R.filesets": [],
     "aroma.apd": [],
-    "R.rsp": [],
     "opencpu": [],
     "osfr": [
         "tibble"
