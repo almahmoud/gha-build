@@ -1589,7 +1589,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "methrix": [],
     "MethylAid": [
         "minfi",
         "bumphunter"
