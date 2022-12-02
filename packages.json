@@ -34,8 +34,7 @@
         "shiny",
         "tibble",
         "tidyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "ACE": [
         "QDNAseq",
@@ -64,7 +63,6 @@
         "dplyr",
         "SummarizedExperiment",
         "tibble",
-        "tidyselect",
         "AnnotationDbi",
         "Biostrings",
         "GenomicRanges",
@@ -84,7 +82,6 @@
         "KEGGREST",
         "SummarizedExperiment",
         "tibble",
-        "tidyselect",
         "ggsci",
         "tidyr",
         "cowplot",
@@ -113,7 +110,6 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "tibble",
-        "tidyselect",
         "KEGGREST",
         "dbplyr",
         "shiny",
@@ -138,8 +134,7 @@
         "GenomicRanges",
         "tidyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "AffyCompatible": [
         "Biostrings"
@@ -187,7 +182,6 @@
         "tidyr",
         "viridis",
         "BiocFileCache",
-        "tidyselect",
         "dbplyr"
     ],
     "affyILM": [
@@ -264,7 +258,6 @@
         "tidyr",
         "viridis",
         "BiocFileCache",
-        "tidyselect",
         "dbplyr"
     ],
     "airpart": [
@@ -277,7 +270,6 @@
         "ggplot2",
         "GenomicRanges",
         "tibble",
-        "tidyselect",
         "scuttle",
         "BiocSingular",
         "ggbeeswarm",
@@ -299,7 +291,6 @@
         "shinydashboard",
         "cowplot",
         "tibble",
-        "tidyselect",
         "forcats",
         "progress",
         "tidyr"
@@ -329,15 +320,13 @@
         "dplyr",
         "ggplot2",
         "viridis",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "AlphaBeta": [
         "dplyr",
         "ggplot2",
         "plotly",
         "tibble",
-        "tidyselect",
         "tidyr"
     ],
     "alpine": [
@@ -356,14 +345,12 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "AlpsNMR": [
         "dplyr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "readxl",
         "mixOmics",
         "rmarkdown",
@@ -391,7 +378,6 @@
         "AnnotationHub",
         "ExperimentHub",
         "SummarizedExperiment",
-        "tidyselect",
         "GenomicRanges",
         "tidyr",
         "vroom",
@@ -412,7 +398,6 @@
         "dplyr",
         "rmarkdown",
         "tibble",
-        "tidyselect",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -445,7 +430,6 @@
         "tibble",
         "tidyr",
         "readxl",
-        "tidyselect",
         "ggplot2",
         "viridis",
         "MultiAssayExperiment",
@@ -498,7 +482,6 @@
         "recipes",
         "GenomicRanges",
         "geneplotter",
-        "tidyselect",
         "ggrepel",
         "tidyr",
         "annotate",
@@ -557,7 +540,6 @@
         "KEGGREST",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
@@ -581,7 +563,6 @@
         "dbplyr",
         "progress",
         "tibble",
-        "tidyselect",
         "SummarizedExperiment",
         "shiny"
     ],
@@ -600,7 +581,6 @@
         "BiocFileCache",
         "interactiveDisplayBase",
         "tibble",
-        "tidyselect",
         "Biostrings",
         "biomaRt",
         "vroom",
@@ -634,7 +614,6 @@
     "AnVIL": [
         "dplyr",
         "tibble",
-        "tidyselect",
         "tidyr",
         "shiny",
         "miniUI"
@@ -648,7 +627,6 @@
         "ggplot2",
         "progress",
         "tibble",
-        "tidyselect",
         "tidyr"
     ],
     "AnVILPublish": [
@@ -657,7 +635,6 @@
         "readr",
         "dplyr",
         "tibble",
-        "tidyselect",
         "tidyr",
         "shiny",
         "miniUI",
@@ -679,7 +656,6 @@
         "Rsamtools",
         "geneplotter",
         "tibble",
-        "tidyselect",
         "Biostrings",
         "AnnotationDbi",
         "RSQLite",
@@ -729,7 +705,6 @@
         "GO.db",
         "RSQLite",
         "KEGGREST",
-        "tidyselect",
         "Biostrings"
     ],
     "appreci8R": [
@@ -769,8 +744,7 @@
         "dbplyr",
         "progress",
         "GenomicAlignments",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ArrayExpress": [
         "oligo",
@@ -798,8 +772,7 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "arrayMvout": [
         "lumi",
@@ -832,7 +805,6 @@
         "dplyr",
         "readr",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "arrayQualityMetrics": [
@@ -866,7 +838,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "lme4",
         "Biostrings",
         "nloptr",
@@ -886,8 +857,7 @@
         "GenomicRanges",
         "tidyr",
         "ggrepel",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "ASpediaFI": [
         "SummarizedExperiment",
@@ -907,7 +877,6 @@
         "progress",
         "BiocFileCache",
         "tibble",
-        "tidyselect",
         "cowplot",
         "Biostrings",
         "RSQLite",
@@ -951,7 +920,6 @@
         "biovizBase",
         "dplyr",
         "tibble",
-        "tidyselect",
         "ggplot2",
         "progress",
         "BiocFileCache",
@@ -1011,7 +979,6 @@
         "SummarizedExperiment",
         "SingleCellExperiment",
         "tibble",
-        "tidyselect",
         "cowplot",
         "AnnotationDbi",
         "RSQLite",
@@ -1080,7 +1047,6 @@
         "dbplyr",
         "progress",
         "tibble",
-        "tidyselect",
         "AnnotationFilter",
         "CNEr",
         "readr",
@@ -1100,7 +1066,6 @@
         "ggrepel",
         "dplyr",
         "tibble",
-        "tidyselect",
         "Biostrings",
         "BSgenome",
         "CNEr",
@@ -1129,7 +1094,6 @@
         "KEGGREST",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "shiny"
     ],
     "atSNP": [
@@ -1148,7 +1112,6 @@
         "tibble",
         "TFBSTools",
         "waldo",
-        "tidyselect",
         "GenomicAlignments",
         "CNEr",
         "rematch2",
@@ -1202,8 +1165,7 @@
         "tibble",
         "GenomicRanges",
         "cellranger",
-        "progress",
-        "tidyselect"
+        "progress"
     ],
     "awst": [
         "SummarizedExperiment",
@@ -1222,7 +1184,6 @@
         "SummarizedExperiment",
         "Biostrings",
         "tidyr",
-        "tidyselect",
         "lme4",
         "nloptr",
         "testthat",
@@ -1251,8 +1212,7 @@
         "dbplyr",
         "dplyr",
         "GenomicAlignments",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ballgown": [
         "GenomicRanges",
@@ -1280,7 +1240,6 @@
         "Biostrings",
         "rtracklayer",
         "tibble",
-        "tidyselect",
         "AnnotationDbi",
         "RSQLite",
         "biomaRt",
@@ -1311,7 +1270,6 @@
         "bookdown",
         "rmarkdown",
         "tibble",
-        "tidyselect",
         "vsn",
         "MLInterfaces",
         "caret",
@@ -1353,7 +1311,6 @@
         "tibble",
         "tidyr",
         "viridis",
-        "tidyselect",
         "GenomicRanges"
     ],
     "basecallQC": [
@@ -1364,7 +1321,6 @@
         "tidyr",
         "ShortRead",
         "tibble",
-        "tidyselect",
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
@@ -1449,7 +1405,6 @@
         "egg",
         "genefilter",
         "tibble",
-        "tidyselect",
         "AnnotationDbi",
         "annotate",
         "tidyr",
@@ -1475,8 +1430,7 @@
         "ggrastr",
         "ggrepel",
         "bluster",
-        "GenomicRanges",
-        "tidyselect"
+        "GenomicRanges"
     ],
     "bayNorm": [
         "SingleCellExperiment",
@@ -1504,8 +1458,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "BCRANK": [
         "Biostrings"
@@ -1556,8 +1509,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "benchdamic": [
         "phyloseq",
@@ -1604,7 +1556,6 @@
         "treeio",
         "genefilter",
         "readxl",
-        "tidyselect",
         "AnnotationDbi",
         "annotate",
         "viridis",
@@ -1635,7 +1586,6 @@
         "progress",
         "BiocFileCache",
         "tibble",
-        "tidyselect",
         "GenomicRanges",
         "RSQLite",
         "Rsamtools",
@@ -1650,7 +1600,6 @@
         "dplyr",
         "RSQLite",
         "tibble",
-        "tidyselect",
         "GO.db",
         "AnnotationDbi",
         "KEGGREST",
@@ -1695,7 +1644,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
         "rtracklayer",
@@ -1719,7 +1667,6 @@
         "SummarizedExperiment",
         "tidyr",
         "tibble",
-        "tidyselect",
         "forcats",
         "progress",
         "viridis",
@@ -1734,7 +1681,6 @@
         "rtracklayer",
         "ggforce",
         "Gviz",
-        "tidyselect",
         "biomaRt",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -1766,8 +1712,7 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "ggplot2",
-        "tidyselect"
+        "ggplot2"
     ],
     "bioCancer": [
         "radiant.data",
@@ -1796,7 +1741,6 @@
         "HDO.db",
         "fgsea",
         "ggplot2",
-        "tidyselect",
         "broom",
         "car",
         "rmarkdown",
@@ -1835,7 +1779,6 @@
         "readr",
         "dplyr",
         "tibble",
-        "tidyselect",
         "vroom",
         "progress"
     ],
@@ -1843,15 +1786,13 @@
         "shiny",
         "tidyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "BiocFileCache": [
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "biocGraph": [
         "geneplotter",
@@ -1879,7 +1820,6 @@
         "MultiAssayExperiment",
         "AnnotationHub",
         "ExperimentHub",
-        "tidyselect",
         "AnnotationDbi",
         "RSQLite",
         "Biostrings",
@@ -1920,7 +1860,6 @@
         "rorcid",
         "dbplyr",
         "RSQLite",
-        "tidyselect",
         "vroom",
         "progress"
     ],
@@ -1931,7 +1870,6 @@
         "KEGGREST",
         "tidyr",
         "RSQLite",
-        "tidyselect",
         "Biostrings"
     ],
     "BiocSingular": [],
@@ -1961,7 +1899,6 @@
         "dplyr",
         "waldo",
         "tibble",
-        "tidyselect",
         "rematch2"
     ],
     "biodbChebi": [
@@ -1974,7 +1911,6 @@
         "dplyr",
         "waldo",
         "tibble",
-        "tidyselect",
         "rematch2"
     ],
     "biodbExpasy": [
@@ -1987,7 +1923,6 @@
         "dplyr",
         "waldo",
         "tibble",
-        "tidyselect",
         "rematch2"
     ],
     "biodbHmdb": [
@@ -2000,8 +1935,7 @@
         "dbplyr",
         "dplyr",
         "rematch2",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "biodbKegg": [
         "biodb",
@@ -2013,7 +1947,6 @@
         "dplyr",
         "waldo",
         "tibble",
-        "tidyselect",
         "rematch2"
     ],
     "biodbLipidmaps": [
@@ -2026,7 +1959,6 @@
         "dplyr",
         "waldo",
         "tibble",
-        "tidyselect",
         "rematch2"
     ],
     "biodbMirbase": [
@@ -2039,7 +1971,6 @@
         "dplyr",
         "waldo",
         "tibble",
-        "tidyselect",
         "rematch2"
     ],
     "biodbNcbi": [
@@ -2052,7 +1983,6 @@
         "dplyr",
         "waldo",
         "tibble",
-        "tidyselect",
         "rematch2"
     ],
     "biodbNci": [
@@ -2065,8 +1995,7 @@
         "dbplyr",
         "dplyr",
         "rematch2",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "biodbUniprot": [
         "biodb",
@@ -2078,7 +2007,6 @@
         "dplyr",
         "waldo",
         "tibble",
-        "tidyselect",
         "rematch2"
     ],
     "biomaRt": [
@@ -2090,7 +2018,6 @@
         "dbplyr",
         "dplyr",
         "tibble",
-        "tidyselect",
         "Biostrings"
     ],
     "BioMM": [
@@ -2133,8 +2060,7 @@
         "dplyr",
         "ggplot2",
         "viridis",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "BioNAR": [
         "synaptome.db",
@@ -2149,7 +2075,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "cowplot",
         "synaptome.data",
         "dbplyr",
@@ -2183,7 +2108,6 @@
         "AnnotationDbi",
         "RSQLite",
         "KEGGREST",
-        "tidyselect",
         "annotate",
         "viridis",
         "Biostrings"
@@ -2220,8 +2144,7 @@
         "ggrepel",
         "plotly",
         "tibble",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "Biostrings": [],
     "BioTIP": [
@@ -2241,7 +2164,6 @@
         "superheat",
         "drtmle",
         "SummarizedExperiment",
-        "tidyselect",
         "SuperLearner",
         "np",
         "GenomicRanges",
@@ -2270,8 +2192,7 @@
         "BiocFileCache",
         "tibble",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "biscuiteer": [
         "biscuiteerData",
@@ -2311,7 +2232,6 @@
         "dplyr",
         "regioneR",
         "biomaRt",
-        "tidyselect",
         "progress",
         "dbplyr",
         "shiny"
@@ -2355,8 +2275,7 @@
         "annotate",
         "Biostrings",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "blima": [
         "beadarray",
@@ -2396,7 +2315,6 @@
         "dbplyr",
         "rematch2",
         "KEGGREST",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
@@ -2439,7 +2357,6 @@
         "ggforce",
         "plyranges",
         "tibble",
-        "tidyselect",
         "Hmisc",
         "biovizBase",
         "SummarizedExperiment",
@@ -2475,7 +2392,6 @@
         "BSgenome",
         "Biostrings",
         "tibble",
-        "tidyselect",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments"
@@ -2531,7 +2447,6 @@
         "viridis",
         "dbplyr",
         "progress",
-        "tidyselect",
         "forcats",
         "tidyr",
         "shiny"
@@ -2549,7 +2464,6 @@
         "GenomicRanges",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "Biostrings"
     ],
     "branchpointer": [
@@ -2577,7 +2491,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "tidyselect",
         "prodlim",
         "lava"
     ],
@@ -2597,8 +2510,7 @@
         "tidyr",
         "BiocFileCache",
         "dbplyr",
-        "RSQLite",
-        "tidyselect"
+        "RSQLite"
     ],
     "BRGenomics": [
         "rtracklayer",
@@ -2652,7 +2564,6 @@
         "ensembldb",
         "AnnotationFilter",
         "tibble",
-        "tidyselect",
         "RSQLite",
         "KEGGREST",
         "rtracklayer",
@@ -2670,7 +2581,6 @@
         "dplyr",
         "RSQLite",
         "tibble",
-        "tidyselect",
         "progress"
     ],
     "BUMHMM": [
@@ -2704,8 +2614,7 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "BUScorrect": [
         "SummarizedExperiment",
@@ -2731,7 +2640,6 @@
         "BiocFileCache",
         "rtracklayer",
         "Rsamtools",
-        "tidyselect",
         "GenomicAlignments",
         "dbplyr",
         "SummarizedExperiment"
@@ -2775,7 +2683,6 @@
         "tidyr",
         "viridis",
         "BiocFileCache",
-        "tidyselect",
         "dbplyr"
     ],
     "CAGEfightR": [
@@ -2805,7 +2712,6 @@
         "Hmisc",
         "AnnotationFilter",
         "tibble",
-        "tidyselect",
         "dbplyr",
         "viridis"
     ],
@@ -2852,7 +2758,6 @@
         "genefilter",
         "GO.db",
         "BiocFileCache",
-        "tidyselect",
         "annotate",
         "dbplyr"
     ],
@@ -2868,8 +2773,7 @@
         "Biostrings",
         "tibble",
         "tidyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "CAMERA": [
         "xcms",
@@ -2903,8 +2807,7 @@
         "viridis",
         "dbplyr",
         "dplyr",
-        "Biostrings",
-        "tidyselect"
+        "Biostrings"
     ],
     "CancerInSilico": [],
     "CancerSubtypes": [
@@ -2936,7 +2839,6 @@
         "KEGGREST",
         "ggplotify",
         "patchwork",
-        "tidyselect",
         "biomaRt",
         "GenomicAlignments",
         "progress",
@@ -2950,7 +2852,6 @@
         "tibble",
         "tidyr",
         "rmarkdown",
-        "tidyselect",
         "vroom",
         "progress"
     ],
@@ -2971,8 +2872,7 @@
         "SummarizedExperiment",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "CATALYST": [
         "SingleCellExperiment",
@@ -2986,7 +2886,6 @@
         "SummarizedExperiment",
         "scater",
         "tibble",
-        "tidyselect",
         "car",
         "multcomp",
         "ggforce",
@@ -3056,7 +2955,6 @@
         "AnnotationDbi",
         "annotate",
         "KEGGREST",
-        "tidyselect",
         "shiny",
         "miniUI",
         "vroom",
@@ -3079,7 +2977,6 @@
         "tidyr",
         "AnnotationDbi",
         "KEGGREST",
-        "tidyselect",
         "GenomicRanges",
         "SingleCellExperiment",
         "Biostrings",
@@ -3100,7 +2997,6 @@
         "tibble",
         "tidyr",
         "TCGAutils",
-        "tidyselect",
         "shiny",
         "miniUI",
         "dbplyr",
@@ -3127,7 +3023,6 @@
         "shinycssloaders",
         "rintrojs",
         "tibble",
-        "tidyselect",
         "progress"
     ],
     "ccfindR": [
@@ -3158,7 +3053,6 @@
         "dplyr",
         "readr",
         "tibble",
-        "tidyselect",
         "SingleCellExperiment",
         "progress",
         "vroom",
@@ -3188,8 +3082,7 @@
         "Biostrings",
         "tidyr",
         "forcats",
-        "progress",
-        "tidyselect"
+        "progress"
     ],
     "CellBarcode": [
         "ggplot2",
@@ -3208,8 +3101,7 @@
         "GenomicRanges",
         "Biostrings",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "CellBench": [
         "SingleCellExperiment",
@@ -3217,7 +3109,6 @@
         "BiocFileCache",
         "dplyr",
         "tidyr",
-        "tidyselect",
         "dbplyr",
         "RSQLite",
         "SummarizedExperiment",
@@ -3262,8 +3153,7 @@
         "spatstat.explore",
         "GenomicRanges",
         "tidyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "cellity": [
         "AnnotationDbi",
@@ -3291,7 +3181,6 @@
         "broom",
         "dplyr",
         "tidyr",
-        "tidyselect",
         "testthat",
         "waldo",
         "rematch2"
@@ -3307,7 +3196,6 @@
         "dplyr",
         "ggridges",
         "tibble",
-        "tidyselect",
         "scuttle",
         "BiocSingular",
         "ggbeeswarm",
@@ -3322,8 +3210,7 @@
     ],
     "cellscape": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "CellTrails": [
         "SingleCellExperiment",
@@ -3347,8 +3234,7 @@
     "cellxgenedp": [
         "dplyr",
         "shiny",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "CEMiTool": [
         "dplyr",
@@ -3373,7 +3259,6 @@
         "qvalue",
         "tidyr",
         "tibble",
-        "tidyselect",
         "cowplot",
         "ggpp",
         "Hmisc",
@@ -3409,7 +3294,6 @@
         "broom",
         "forcats",
         "FlowSOM",
-        "tidyselect",
         "nloptr",
         "GenomicRanges",
         "ggplot2",
@@ -3435,7 +3319,6 @@
         "patchwork",
         "dplyr",
         "tibble",
-        "tidyselect",
         "annotate",
         "AnnotationDbi",
         "GenomicRanges",
@@ -3450,7 +3333,6 @@
         "ggplot2",
         "ggraph",
         "tidyr",
-        "tidyselect",
         "ggforce",
         "ggrepel",
         "viridis"
@@ -3480,7 +3362,6 @@
         "GenomicRanges",
         "geneplotter",
         "tibble",
-        "tidyselect",
         "forcats",
         "progress",
         "sna",
@@ -3534,7 +3415,6 @@
         "SummarizedExperiment",
         "tibble",
         "vroom",
-        "tidyselect",
         "progress"
     ],
     "cfDNAPro": [
@@ -3546,7 +3426,6 @@
         "quantmod",
         "ggplot2",
         "Rsamtools",
-        "tidyselect",
         "SummarizedExperiment",
         "Biostrings",
         "rtracklayer"
@@ -3610,7 +3489,6 @@
         "RSQLite",
         "KEGGREST",
         "BSgenome",
-        "tidyselect",
         "AnnotationHub",
         "BiocFileCache",
         "rtracklayer",
@@ -3645,8 +3523,7 @@
         "tibble",
         "tidyr",
         "dplyr",
-        "GenomicRanges",
-        "tidyselect"
+        "GenomicRanges"
     ],
     "ChIC": [
         "spp",
@@ -3664,7 +3541,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "tidyselect",
         "prodlim",
         "lava"
     ],
@@ -3692,7 +3568,6 @@
         "KEGGREST",
         "bookdown",
         "tibble",
-        "tidyselect",
         "GenomicFeatures",
         "rtracklayer",
         "SummarizedExperiment",
@@ -3751,7 +3626,6 @@
         "tibble",
         "viridis",
         "vroom",
-        "tidyselect",
         "progress"
     ],
     "ChIPexoQual": [
@@ -3774,7 +3648,6 @@
         "AnnotationFilter",
         "tibble",
         "tidyr",
-        "tidyselect",
         "RSQLite",
         "KEGGREST",
         "rtracklayer",
@@ -3804,7 +3677,6 @@
         "progress",
         "BiocFileCache",
         "tibble",
-        "tidyselect",
         "AnnotationFilter",
         "BSgenome",
         "dbplyr"
@@ -3842,7 +3714,6 @@
         "progress",
         "BiocFileCache",
         "geneplotter",
-        "tidyselect",
         "BSgenome",
         "dbplyr",
         "annotate"
@@ -3859,7 +3730,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "aplot",
         "DOSE",
         "ggnewscale",
@@ -3925,7 +3795,6 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "tidyselect",
         "Biostrings",
         "RSQLite",
         "GenomicRanges",
@@ -3959,7 +3828,6 @@
         "dbplyr",
         "dplyr",
         "tibble",
-        "tidyselect",
         "Biostrings"
     ],
     "ChromSCape": [
@@ -3994,7 +3862,6 @@
         "BiocSingular",
         "scuttle",
         "miniUI",
-        "tidyselect",
         "ggfittext",
         "rvest",
         "rmarkdown",
@@ -4024,7 +3891,6 @@
         "rtracklayer",
         "tidyr",
         "tibble",
-        "tidyselect",
         "ggplot2",
         "Biostrings",
         "Rsamtools",
@@ -4053,7 +3919,6 @@
         "annotate",
         "GO.db",
         "KEGGREST",
-        "tidyselect",
         "AnnotationDbi",
         "vroom",
         "progress"
@@ -4068,7 +3933,6 @@
         "dbplyr",
         "dplyr",
         "tibble",
-        "tidyselect",
         "Biostrings"
     ],
     "cicero": [
@@ -4079,7 +3943,6 @@
         "ggplot2",
         "tibble",
         "tidyr",
-        "tidyselect",
         "rtracklayer",
         "biomaRt",
         "AnnotationDbi",
@@ -4109,7 +3972,6 @@
         "ggraph",
         "tidygraph",
         "tibble",
-        "tidyselect",
         "ggforce",
         "ggrepel",
         "viridis"
@@ -4117,8 +3979,7 @@
     "CINdex": [
         "GenomicRanges",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "circRNAprofiler": [
         "dplyr",
@@ -4141,7 +4002,6 @@
         "SummarizedExperiment",
         "geneplotter",
         "tibble",
-        "tidyselect",
         "GenomicFeatures",
         "VariantAnnotation",
         "vroom",
@@ -4163,7 +4023,6 @@
         "Rbowtie2",
         "Rhisat2",
         "tibble",
-        "tidyselect",
         "GenomicFeatures",
         "SGSeq",
         "GenomicRanges",
@@ -4197,7 +4056,6 @@
         "BiocSingular",
         "bluster",
         "GenomicRanges",
-        "tidyselect",
         "tidyr"
     ],
     "ClassifyR": [
@@ -4206,7 +4064,6 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "tidyselect",
         "AnnotationDbi",
         "annotate",
         "SummarizedExperiment",
@@ -4247,8 +4104,7 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "cliProfiler": [
         "dplyr",
@@ -4259,7 +4115,6 @@
         "Biostrings",
         "Rsamtools",
         "tibble",
-        "tidyselect",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
@@ -4288,8 +4143,7 @@
         "progress",
         "tidyr",
         "tibble",
-        "vsn",
-        "tidyselect"
+        "vsn"
     ],
     "clusterExperiment": [
         "SingleCellExperiment",
@@ -4315,7 +4169,6 @@
         "tidyr",
         "RSQLite",
         "KEGGREST",
-        "tidyselect",
         "Biostrings"
     ],
     "clusterProfiler": [
@@ -4334,7 +4187,6 @@
         "fgsea",
         "ggplot2",
         "tibble",
-        "tidyselect",
         "aplot",
         "ggnewscale",
         "ggraph",
@@ -4367,7 +4219,6 @@
         "tidyr",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "tidyselect",
         "vroom",
         "GenomicRanges",
         "progress"
@@ -4406,7 +4257,6 @@
         "Rsamtools",
         "tibble",
         "vroom",
-        "tidyselect",
         "progress"
     ],
     "CNORdt": [
@@ -4475,8 +4325,7 @@
         "viridis",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "CNVgears": [
         "ggplot2",
@@ -4498,7 +4347,6 @@
         "VariantAnnotation",
         "cn.mops",
         "tibble",
-        "tidyselect",
         "rtracklayer",
         "biovizBase",
         "GenomicFeatures",
@@ -4565,8 +4413,7 @@
         "progress",
         "BiocFileCache",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "CoCiteStats": [
         "org.Hs.eg.db",
@@ -4583,7 +4430,6 @@
         "tibble",
         "bsseq",
         "dplyr",
-        "tidyselect",
         "SummarizedExperiment",
         "BSgenome",
         "Biostrings",
@@ -4622,7 +4468,6 @@
         "GenomicRanges",
         "ggplot2",
         "tibble",
-        "tidyselect",
         "vroom",
         "RSQLite",
         "progress"
@@ -4642,7 +4487,6 @@
         "miniUI",
         "pkgdown",
         "testthat",
-        "tidyselect",
         "shiny",
         "rmarkdown",
         "waldo",
@@ -4660,8 +4504,7 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "ggplotify",
-        "tidyselect"
+        "ggplotify"
     ],
     "Cogito": [
         "GenomicRanges",
@@ -4682,8 +4525,7 @@
         "GenomicAlignments",
         "dbplyr",
         "dplyr",
-        "SummarizedExperiment",
-        "tidyselect"
+        "SummarizedExperiment"
     ],
     "comapr": [
         "ggplot2",
@@ -4694,7 +4536,6 @@
         "SummarizedExperiment",
         "Gviz",
         "tibble",
-        "tidyselect",
         "rtracklayer",
         "biomaRt",
         "AnnotationDbi",
@@ -4748,7 +4589,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "tibble",
-        "tidyselect",
         "ggplot2",
         "viridis"
     ],
@@ -4769,7 +4609,6 @@
         "KEGGREST",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "Biostrings",
         "rtracklayer",
         "biomaRt",
@@ -4801,8 +4640,7 @@
         "BiocStyle",
         "rmarkdown",
         "bookdown",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "compcodeR": [
         "ggplot2",
@@ -4836,7 +4674,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "tibble",
-        "tidyselect",
         "ggplot2",
         "viridis"
     ],
@@ -4848,8 +4685,7 @@
         "dbplyr",
         "RSQLite",
         "GenomicRanges",
-        "ggplot2",
-        "tidyselect"
+        "ggplot2"
     ],
     "ComPrAn": [
         "dplyr",
@@ -4861,7 +4697,6 @@
         "shinydashboard",
         "shinyjs",
         "tibble",
-        "tidyselect",
         "haven",
         "readxl",
         "readr",
@@ -4896,7 +4731,6 @@
         "qvalue",
         "tidyr",
         "tibble",
-        "tidyselect",
         "dendextend",
         "FactoMineR",
         "ggpubr",
@@ -4950,7 +4784,6 @@
         "ggplot2",
         "scater",
         "tibble",
-        "tidyselect",
         "spatstat",
         "caret",
         "GenomicRanges",
@@ -5013,8 +4846,7 @@
         "annotate",
         "tibble",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "consensusOV": [
         "GSVA",
@@ -5039,7 +4871,6 @@
         "dplyr",
         "lava",
         "tibble",
-        "tidyselect",
         "Biostrings"
     ],
     "consensusSeekeR": [
@@ -5082,8 +4913,7 @@
         "progress",
         "BiocFileCache",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "conumee": [
         "minfi",
@@ -5110,7 +4940,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "biomaRt",
         "vroom",
         "progress",
@@ -5149,8 +4978,7 @@
         "viridis",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "CopywriteR": [
         "chipseq",
@@ -5165,8 +4993,7 @@
         "Biostrings",
         "dplyr",
         "ggplot2",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "CoRegNet": [
         "shiny"
@@ -5185,8 +5012,7 @@
         "shinydashboard",
         "ggplot2",
         "cowplot",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "corral": [
         "ggplot2",
@@ -5197,8 +5023,7 @@
         "tibble",
         "GenomicRanges",
         "tidyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "coseq": [
         "SummarizedExperiment",
@@ -5236,7 +5061,6 @@
         "tidyr",
         "rmarkdown",
         "viper",
-        "tidyselect",
         "annotate",
         "AnnotationDbi",
         "RSQLite",
@@ -5249,8 +5073,7 @@
         "ggplot2",
         "ggrepel",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "countsimQC": [
         "rmarkdown",
@@ -5263,7 +5086,6 @@
         "GenomicRanges",
         "geneplotter",
         "tibble",
-        "tidyselect",
         "AnnotationDbi",
         "annotate",
         "RSQLite",
@@ -5305,8 +5127,7 @@
         "GenomicAlignments",
         "dbplyr",
         "dplyr",
-        "SummarizedExperiment",
-        "tidyselect"
+        "SummarizedExperiment"
     ],
     "CRImage": [],
     "crisprBase": [
@@ -5324,7 +5145,6 @@
         "tibble",
         "vroom",
         "GenomicAlignments",
-        "tidyselect",
         "progress",
         "SummarizedExperiment"
     ],
@@ -5339,7 +5159,6 @@
         "tibble",
         "vroom",
         "GenomicAlignments",
-        "tidyselect",
         "progress",
         "SummarizedExperiment"
     ],
@@ -5371,7 +5190,6 @@
         "interactiveDisplayBase",
         "dplyr",
         "dbplyr",
-        "tidyselect",
         "shiny"
     ],
     "crisprScore": [
@@ -5387,7 +5205,6 @@
         "KEGGREST",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "shiny"
     ],
     "CRISPRseek": [
@@ -5399,7 +5216,6 @@
         "rtracklayer",
         "Rsamtools",
         "tibble",
-        "tidyselect",
         "tensorflow",
         "tfruns",
         "GenomicAlignments",
@@ -5435,7 +5251,6 @@
         "InteractionSet",
         "regioneR",
         "tibble",
-        "tidyselect",
         "tensorflow",
         "tfruns",
         "haven",
@@ -5493,7 +5308,6 @@
         "progress",
         "Hmisc",
         "AnnotationFilter",
-        "tidyselect",
         "dbplyr",
         "ggplot2",
         "viridis",
@@ -5535,7 +5349,6 @@
         "tibble",
         "vroom",
         "interactiveDisplayBase",
-        "tidyselect",
         "shiny"
     ],
     "crlmm": [
@@ -5568,7 +5381,6 @@
         "cellranger",
         "progress",
         "genefilter",
-        "tidyselect",
         "annotate",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -5612,8 +5424,7 @@
         "progress",
         "BiocFileCache",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "CTDquerier": [
         "ggplot2",
@@ -5621,8 +5432,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "cTRAP": [
         "AnnotationDbi",
@@ -5641,7 +5451,6 @@
         "KEGGREST",
         "BiocFileCache",
         "interactiveDisplayBase",
-        "tidyselect",
         "broom",
         "quantmod",
         "tidyr",
@@ -5668,8 +5477,7 @@
         "dplyr",
         "RSQLite",
         "scuttle",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "cummeRbund": [
         "RSQLite",
@@ -5696,8 +5504,7 @@
         "AnnotationFilter",
         "dbplyr",
         "dplyr",
-        "viridis",
-        "tidyselect"
+        "viridis"
     ],
     "customCMPdb": [
         "AnnotationHub",
@@ -5711,7 +5518,6 @@
         "ggplot2",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
@@ -5733,8 +5539,7 @@
         "BSgenome",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "cyanoFilter": [
         "flowDensity",
@@ -5754,7 +5559,6 @@
         "tibble",
         "pbkrtest",
         "lme4",
-        "tidyselect",
         "GEOmap",
         "fields",
         "nloptr",
@@ -5776,8 +5580,7 @@
     ],
     "CytoDx": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "CyTOFpower": [
         "CytoGLMM",
@@ -5799,7 +5602,6 @@
         "FlowSOM",
         "lme4",
         "multcomp",
-        "tidyselect",
         "GenomicRanges",
         "recipes",
         "dendextend",
@@ -5834,7 +5636,6 @@
         "tidyr",
         "caret",
         "recipes",
-        "tidyselect",
         "dendextend",
         "FactoMineR",
         "ggpubr",
@@ -5859,7 +5660,6 @@
         "SummarizedExperiment",
         "dplyr",
         "tibble",
-        "tidyselect",
         "GenomicRanges"
     ],
     "cytomapper": [
@@ -5878,8 +5678,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "scuttle",
-        "tidyselect"
+        "scuttle"
     ],
     "CytoML": [
         "flowWorkspace",
@@ -5887,7 +5686,6 @@
         "dplyr",
         "ggcyto",
         "tibble",
-        "tidyselect",
         "ggplot2",
         "flowViz"
     ],
@@ -5925,7 +5723,6 @@
         "readr",
         "annotate",
         "GO.db",
-        "tidyselect",
         "SummarizedExperiment",
         "vroom"
     ],
@@ -5949,7 +5746,6 @@
         "RSQLite",
         "KEGGREST",
         "biomaRt",
-        "tidyselect",
         "progress",
         "BiocFileCache",
         "dbplyr",
@@ -5995,7 +5791,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "tidyselect",
         "GenomicAlignments",
         "dbplyr",
         "prodlim",
@@ -6015,8 +5810,7 @@
         "quantmod",
         "tidyr",
         "vsn",
-        "ggplot2",
-        "tidyselect"
+        "ggplot2"
     ],
     "dasper": [
         "BiocFileCache",
@@ -6035,7 +5829,6 @@
         "dbplyr",
         "RSQLite",
         "tibble",
-        "tidyselect",
         "AnnotationDbi",
         "Biostrings",
         "biomaRt",
@@ -6072,7 +5865,6 @@
         "org.Hs.eg.db",
         "shadowtext",
         "tibble",
-        "tidyselect",
         "ggforce",
         "ggrepel",
         "viridis",
@@ -6117,7 +5909,6 @@
         "lme4",
         "dplyr",
         "GEOmap",
-        "tidyselect",
         "fields",
         "nloptr",
         "broom",
@@ -6132,8 +5923,7 @@
         "ggplot2",
         "patchwork",
         "scattermore",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "debCAM": [
         "SummarizedExperiment",
@@ -6145,7 +5935,6 @@
         "ggplot2",
         "GenomicRanges",
         "tibble",
-        "tidyselect",
         "vroom",
         "progress"
     ],
@@ -6197,7 +5986,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "tidyselect",
         "cowplot",
         "ggforce",
         "ggrepel",
@@ -6261,8 +6049,7 @@
         "BiocFileCache",
         "GenomicAlignments",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "DeconRNASeq": [
         "ggplot2",
@@ -6279,7 +6066,6 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "tidyselect",
         "qvalue",
         "Rsamtools",
         "fastseg",
@@ -6299,7 +6085,6 @@
         "dplyr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "ggplot2"
     ],
     "DeepBlueR": [
@@ -6307,7 +6092,6 @@
         "dplyr",
         "rtracklayer",
         "tibble",
-        "tidyselect",
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
@@ -6328,7 +6112,6 @@
         "readr",
         "tidyr",
         "viridis",
-        "tidyselect",
         "lexicon",
         "textclean",
         "syuzhet",
@@ -6354,8 +6137,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "DEFormats": [
         "DESeq2",
@@ -6393,7 +6175,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "tidyselect",
         "dbplyr"
     ],
     "DEGraph": [
@@ -6416,7 +6197,6 @@
         "tibble",
         "GenomicRanges",
         "geneplotter",
-        "tidyselect",
         "annotate",
         "AnnotationDbi",
         "RSQLite",
@@ -6490,7 +6270,6 @@
         "shinydashboard",
         "rmarkdown",
         "imputeLCMD",
-        "tidyselect",
         "vroom",
         "GenomicRanges",
         "progress"
@@ -6501,7 +6280,6 @@
         "viridis",
         "mixOmics",
         "tibble",
-        "tidyselect",
         "tidyr",
         "ggrepel"
     ],
@@ -6533,8 +6311,7 @@
         "tibble",
         "BSgenome",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "derfinderPlot": [
         "derfinder",
@@ -6569,8 +6346,7 @@
         "forcats",
         "tidyr",
         "viridis",
-        "dbplyr",
-        "tidyselect"
+        "dbplyr"
     ],
     "DEScan2": [
         "GenomicRanges",
@@ -6593,7 +6369,6 @@
         "progress",
         "BiocFileCache",
         "tibble",
-        "tidyselect",
         "AnnotationFilter",
         "BSgenome",
         "dbplyr"
@@ -6616,7 +6391,6 @@
         "ggplot2",
         "ggplot.multistats",
         "tidyr",
-        "tidyselect",
         "ggthemes",
         "VIM",
         "smoother",
@@ -6672,7 +6446,6 @@
         "tidyr",
         "genefilter",
         "tibble",
-        "tidyselect",
         "AnnotationDbi",
         "annotate",
         "vroom",
@@ -6699,16 +6472,14 @@
         "Biostrings",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "DIAlignR": [
         "dplyr",
         "tidyr",
         "ggplot2",
         "RSQLite",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "DiffBind": [
         "GenomicRanges",
@@ -6724,7 +6495,6 @@
         "GreyListChIP",
         "geneplotter",
         "tibble",
-        "tidyselect",
         "Biostrings",
         "BSgenome",
         "rtracklayer",
@@ -6757,7 +6527,6 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "tidyselect",
         "ggforce",
         "ggnewscale",
         "ggplot2",
@@ -6817,7 +6586,6 @@
         "geneplotter",
         "genefilter",
         "tibble",
-        "tidyselect",
         "GenomicFeatures",
         "AnnotationFilter",
         "RSQLite",
@@ -6855,13 +6623,11 @@
         "tibble",
         "GenomicRanges",
         "tidyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "discordant": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "DiscoRhythm": [
         "ggplot2",
@@ -6884,7 +6650,6 @@
         "bookdown",
         "tibble",
         "tidyr",
-        "tidyselect",
         "colourpicker",
         "miniUI",
         "dendextend",
@@ -6934,7 +6699,6 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "tidyselect",
         "nloptr",
         "testthat",
         "waldo",
@@ -7000,7 +6764,6 @@
         "ggplot2",
         "FDb.InfiniumMethylation.hg19",
         "tibble",
-        "tidyselect",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "viridis",
         "shiny",
@@ -7031,8 +6794,7 @@
         "dplyr",
         "ggplot2",
         "viridis",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "DMRScan": [
         "GenomicRanges"
@@ -7061,7 +6823,6 @@
         "GenomicAlignments",
         "KEGGREST",
         "dbplyr",
-        "tidyselect",
         "biomaRt",
         "shiny",
         "vroom",
@@ -7070,8 +6831,7 @@
     "DNABarcodeCompatibility": [
         "dplyr",
         "tidyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "DNAfusion": [
         "bamsignals",
@@ -7107,8 +6867,7 @@
         "dbplyr",
         "dplyr",
         "GenomicAlignments",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "doppelgangR": [
         "sva",
@@ -7141,7 +6900,6 @@
         "broom",
         "dplyr",
         "tidyr",
-        "tidyselect",
         "testthat",
         "waldo",
         "rematch2"
@@ -7185,7 +6943,6 @@
         "readr",
         "tidyr",
         "tibble",
-        "tidyselect",
         "vroom",
         "progress"
     ],
@@ -7213,7 +6970,6 @@
         "AnnotationDbi",
         "progress",
         "tibble",
-        "tidyselect",
         "GenomicFeatures",
         "rtracklayer",
         "Rsamtools",
@@ -7244,7 +7000,6 @@
         "KEGGREST",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "oligoClasses",
         "Biostrings",
         "vroom",
@@ -7272,7 +7027,6 @@
         "tidyr",
         "gganimate",
         "tibble",
-        "tidyselect",
         "progress",
         "GenomicRanges"
     ],
@@ -7294,7 +7048,6 @@
         "geneplotter",
         "viper",
         "tibble",
-        "tidyselect",
         "ExperimentHub",
         "AnnotationHub",
         "ggsci",
@@ -7338,7 +7091,6 @@
         "qvalue",
         "tidyr",
         "tibble",
-        "tidyselect",
         "HDO.db",
         "fgsea",
         "aplot",
@@ -7379,8 +7131,7 @@
         "AnnotationDbi",
         "progress",
         "KEGGREST",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "EBSEA": [
         "DESeq2",
@@ -7425,8 +7176,7 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "edge": [
         "sva",
@@ -7471,7 +7221,6 @@
         "fgsea",
         "tibble",
         "network",
-        "tidyselect",
         "aplot",
         "ggnewscale",
         "ggraph",
@@ -7497,7 +7246,6 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "tidyselect",
         "vroom",
         "progress"
     ],
@@ -7531,7 +7279,6 @@
         "hgu133a.db",
         "tidyr",
         "dplyr",
-        "tidyselect",
         "Biostrings",
         "multcomp",
         "GenomicRanges",
@@ -7569,7 +7316,6 @@
         "rtracklayer",
         "AnnotationDbi",
         "BiocFileCache",
-        "tidyselect",
         "RSQLite",
         "Biostrings",
         "ggsci",
@@ -7621,7 +7367,6 @@
         "SummarizedExperiment",
         "GenomicAlignments",
         "tibble",
-        "tidyselect",
         "CNEr",
         "readr",
         "ggplot2",
@@ -7654,7 +7399,6 @@
         "dbplyr",
         "GenomicFeatures",
         "tibble",
-        "tidyselect",
         "readr",
         "tidyr",
         "shiny",
@@ -7686,8 +7430,7 @@
         "Biostrings",
         "org.Hs.eg.db",
         "GenomicRanges",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "enrichplot": [
         "aplot",
@@ -7718,7 +7461,6 @@
         "GO.db",
         "RSQLite",
         "KEGGREST",
-        "tidyselect",
         "cowplot",
         "Biostrings"
     ],
@@ -7760,7 +7502,6 @@
         "annotate",
         "HDO.db",
         "fgsea",
-        "tidyselect",
         "aplot",
         "ggnewscale",
         "ggraph",
@@ -7803,8 +7544,7 @@
         "SummarizedExperiment",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "epialleleR": [
         "GenomicRanges",
@@ -7824,8 +7564,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "EpiCompare": [
         "AnnotationHub",
@@ -7858,7 +7597,6 @@
         "KEGGREST",
         "dbplyr",
         "geneplotter",
-        "tidyselect",
         "aplot",
         "DOSE",
         "ggnewscale",
@@ -7896,7 +7634,6 @@
         "ggpubr",
         "dplyr",
         "tibble",
-        "tidyselect",
         "ggrepel",
         "ggsci",
         "tidyr",
@@ -7949,7 +7686,6 @@
         "GenomicAlignments",
         "BSgenome",
         "Biostrings",
-        "tidyselect",
         "broom",
         "car",
         "pbkrtest",
@@ -7995,7 +7731,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "tidyselect",
         "cowplot",
         "tidytree",
         "treeio",
@@ -8021,7 +7756,6 @@
         "KEGGREST",
         "BiocFileCache",
         "interactiveDisplayBase",
-        "tidyselect",
         "Biostrings",
         "rtracklayer",
         "readr",
@@ -8076,7 +7810,6 @@
         "dbplyr",
         "Hmisc",
         "VariantAnnotation",
-        "tidyselect",
         "annotate",
         "readr",
         "tidyr",
@@ -8122,7 +7855,6 @@
         "tRNA",
         "progress",
         "tibble",
-        "tidyselect",
         "Rsamtools",
         "GenomicAlignments",
         "ggplot2",
@@ -8149,8 +7881,7 @@
         "GenomicAlignments",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "epivizrChart": [
         "epivizrData",
@@ -8172,8 +7903,7 @@
         "GenomicAlignments",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "epivizrData": [
         "GenomicRanges",
@@ -8194,8 +7924,7 @@
         "GenomicAlignments",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "epivizrStandalone": [
         "epivizr",
@@ -8219,8 +7948,7 @@
         "dbplyr",
         "dplyr",
         "AnnotationFilter",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "erccdashboard": [
         "ggplot2",
@@ -8253,8 +7981,7 @@
         "progress",
         "BiocFileCache",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "ERSSA": [
         "DESeq2",
@@ -8309,7 +8036,6 @@
         "annotate",
         "HDO.db",
         "fgsea",
-        "tidyselect",
         "aplot",
         "ggnewscale",
         "ggraph",
@@ -8343,7 +8069,6 @@
         "SummarizedExperiment",
         "tibble",
         "tidyr",
-        "tidyselect",
         "annotate",
         "AnnotationDbi",
         "BiocSingular",
@@ -8376,8 +8101,7 @@
         "rmarkdown",
         "GenomicRanges",
         "tidyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "EventPointer": [
         "SGSeq",
@@ -8404,8 +8128,7 @@
         "BiocFileCache",
         "tibble",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "EWCE": [
         "ewceData",
@@ -8415,7 +8138,6 @@
         "SummarizedExperiment",
         "orthogene",
         "tibble",
-        "tidyselect",
         "ExperimentHub",
         "homologene",
         "gprofiler2",
@@ -8491,8 +8213,7 @@
         "BiocFileCache",
         "annotate",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "ExperimentHub": [
         "AnnotationHub",
@@ -8504,7 +8225,6 @@
         "dbplyr",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
@@ -8530,7 +8250,6 @@
         "GenomicAlignments",
         "progress",
         "tibble",
-        "tidyselect",
         "SummarizedExperiment",
         "shiny"
     ],
@@ -8548,7 +8267,6 @@
         "dbplyr",
         "RSQLite",
         "tibble",
-        "tidyselect",
         "scuttle",
         "tidytree",
         "tidyr"
@@ -8562,8 +8280,7 @@
         "ggplot2",
         "rintrojs",
         "tibble",
-        "shinyjs",
-        "tidyselect"
+        "shinyjs"
     ],
     "ExpressionAtlas": [
         "SummarizedExperiment",
@@ -8592,7 +8309,6 @@
         "Rsamtools",
         "rtracklayer",
         "tidyr",
-        "tidyselect",
         "patchwork",
         "biomaRt",
         "AnnotationDbi",
@@ -8623,7 +8339,6 @@
         "wiggleplotr",
         "drawProteins",
         "ggplot2",
-        "tidyselect",
         "readr",
         "AnnotationDbi",
         "RSQLite",
@@ -8644,7 +8359,6 @@
         "ggplot2",
         "plotly",
         "tibble",
-        "tidyselect",
         "tidyr"
     ],
     "famat": [
@@ -8668,7 +8382,6 @@
         "gson",
         "qvalue",
         "tibble",
-        "tidyselect",
         "ggplot2",
         "Biostrings",
         "RSQLite",
@@ -8707,8 +8420,7 @@
         "tibble",
         "dplyr",
         "tidyr",
-        "Biostrings",
-        "tidyselect"
+        "Biostrings"
     ],
     "FastqCleaner": [
         "shiny",
@@ -8747,7 +8459,6 @@
         "SummarizedExperiment",
         "vroom",
         "hdrcde",
-        "tidyselect",
         "progress"
     ],
     "fCI": [],
@@ -8771,7 +8482,6 @@
         "qvalue",
         "tidyr",
         "tibble",
-        "tidyselect",
         "SummarizedExperiment",
         "GenomicRanges",
         "RSQLite",
@@ -8813,8 +8523,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "FEAST": [
         "SummarizedExperiment",
@@ -8834,7 +8543,6 @@
         "ggthemes",
         "forcats",
         "RCy3",
-        "tidyselect",
         "IRkernel",
         "IRdisplay",
         "repr"
@@ -8874,7 +8582,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
-        "tidyselect",
         "vroom"
     ],
     "fgga": [
@@ -8882,8 +8589,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "fgsea": [
         "ggplot2",
@@ -8909,7 +8615,6 @@
         "SummarizedExperiment",
         "MultiAssayExperiment",
         "progress",
-        "tidyselect",
         "AnnotationDbi",
         "RSQLite",
         "Biostrings",
@@ -8964,7 +8669,6 @@
         "BSgenome",
         "GenomicAlignments",
         "tibble",
-        "tidyselect",
         "AnnotationDbi",
         "RSQLite",
         "biomaRt",
@@ -9002,8 +8706,7 @@
         "ggplot2",
         "tidyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "flowCHIC": [
         "ggplot2",
@@ -9024,7 +8727,6 @@
         "dplyr",
         "GEOmap",
         "tibble",
-        "tidyselect",
         "fields",
         "nloptr",
         "broom",
@@ -9046,7 +8748,6 @@
         "dplyr",
         "GEOmap",
         "tibble",
-        "tidyselect",
         "fields",
         "nloptr",
         "broom",
@@ -9083,7 +8784,6 @@
         "tibble",
         "tidyr",
         "ggplot2",
-        "tidyselect",
         "testthat",
         "waldo",
         "rematch2"
@@ -9096,7 +8796,6 @@
         "ggpubr",
         "tidyr",
         "tibble",
-        "tidyselect",
         "ggrepel",
         "ggsci",
         "cowplot",
@@ -9123,14 +8822,12 @@
         "ggplot2",
         "dplyr",
         "tibble",
-        "tidyselect",
         "rainbow",
         "hdrcde"
     ],
     "flowTime": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "flowTrans": [
         "flowViz"
@@ -9145,15 +8842,13 @@
         "ggplot2",
         "dplyr",
         "tibble",
-        "tidyselect",
         "rainbow",
         "hdrcde"
     ],
     "flowWorkspace": [
         "ggplot2",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "fmcsR": [
         "ChemmineR",
@@ -9171,7 +8866,6 @@
         "tidyr",
         "vroom",
         "tibble",
-        "tidyselect",
         "cowplot",
         "ggforce",
         "ggrepel",
@@ -9190,7 +8884,6 @@
         "tidyr",
         "tibble",
         "dplyr",
-        "tidyselect",
         "GO.db",
         "AnnotationDbi",
         "RSQLite",
@@ -9224,7 +8917,6 @@
         "dplyr",
         "dbplyr",
         "geneplotter",
-        "tidyselect",
         "viridis",
         "dendextend",
         "egg",
@@ -9242,7 +8934,6 @@
         "tibble",
         "tidyr",
         "ggplot2",
-        "tidyselect",
         "testthat",
         "waldo",
         "rematch2"
@@ -9297,7 +8988,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -9324,7 +9014,6 @@
         "ggsignif",
         "rstatix",
         "GenomicRanges",
-        "tidyselect",
         "broom",
         "car",
         "pbkrtest",
@@ -9340,7 +9029,6 @@
         "GenomicRanges",
         "VariantAnnotation",
         "tibble",
-        "tidyselect",
         "SummarizedExperiment",
         "Rsamtools",
         "AnnotationDbi",
@@ -9367,7 +9055,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "Biostrings",
         "GenomicRanges",
         "VariantAnnotation",
@@ -9433,7 +9120,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "tidyselect",
         "GenomicAlignments",
         "rematch2",
         "dbplyr",
@@ -9452,8 +9138,7 @@
         "tibble",
         "GenomicRanges",
         "Biostrings",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "gcapc": [
         "Biostrings",
@@ -9522,7 +9207,6 @@
         "ggtext",
         "RSQLite",
         "dbplyr",
-        "tidyselect",
         "aplot",
         "ggnewscale",
         "ggraph",
@@ -9565,16 +9249,14 @@
     "gemini": [
         "dplyr",
         "ggplot2",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "gemma.R": [
         "SummarizedExperiment",
         "tibble",
         "tidyr",
         "GenomicRanges",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "genbankr": [
         "GenomicRanges",
@@ -9594,8 +9276,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GeneAccord": [
         "biomaRt",
@@ -9606,7 +9287,6 @@
         "AnnotationDbi",
         "progress",
         "BiocFileCache",
-        "tidyselect",
         "ggrepel",
         "ggsci",
         "tidyr",
@@ -9643,8 +9323,7 @@
         "SummarizedExperiment",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GeneBreak": [
         "QDNAseq",
@@ -9674,7 +9353,6 @@
         "dplyr",
         "lava",
         "tibble",
-        "tidyselect",
         "Biostrings"
     ],
     "GeneGA": [],
@@ -9693,7 +9371,6 @@
         "broom",
         "dplyr",
         "tidyr",
-        "tidyselect",
         "testthat",
         "waldo",
         "rematch2"
@@ -9733,8 +9410,7 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "ggplot2",
-        "tidyselect"
+        "ggplot2"
     ],
     "GeneStructureTools": [
         "Biostrings",
@@ -9762,8 +9438,7 @@
         "dplyr",
         "ggplot2",
         "viridis",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GeneTonic": [
         "AnnotationDbi",
@@ -9798,7 +9473,6 @@
         "GenomicRanges",
         "geneplotter",
         "tibble",
-        "tidyselect",
         "annotate",
         "Biostrings"
     ],
@@ -9814,7 +9488,6 @@
         "bookdown",
         "rmarkdown",
         "tibble",
-        "tidyselect",
         "GenomicRanges",
         "Biostrings",
         "Rsamtools",
@@ -9823,8 +9496,7 @@
     ],
     "GENIE3": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "genomation": [
         "Biostrings",
@@ -9839,15 +9511,13 @@
         "SummarizedExperiment",
         "tibble",
         "vroom",
-        "tidyselect",
         "progress"
     ],
     "GenomAutomorphism": [
         "Biostrings",
         "GenomicRanges",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "genomeIntervals": [
         "GenomicRanges"
@@ -9856,7 +9526,6 @@
         "readr",
         "tibble",
         "vroom",
-        "tidyselect",
         "progress"
     ],
     "GenomicAlignments": [
@@ -9870,7 +9539,6 @@
         "GenomicRanges",
         "dplyr",
         "tibble",
-        "tidyselect",
         "vroom",
         "progress"
     ],
@@ -9881,8 +9549,7 @@
         "dplyr",
         "broom",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "GenomicFeatures": [
         "GenomicRanges",
@@ -9899,8 +9566,7 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GenomicFiles": [
         "GenomicRanges",
@@ -9920,8 +9586,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "genomicInstability": [
         "SummarizedExperiment",
@@ -9944,8 +9609,7 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GenomicInteractions": [
         "InteractionSet",
@@ -9956,7 +9620,6 @@
         "dplyr",
         "Gviz",
         "tibble",
-        "tidyselect",
         "biomaRt",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -10005,8 +9668,7 @@
         "dplyr",
         "forcats",
         "tidyr",
-        "viridis",
-        "tidyselect"
+        "viridis"
     ],
     "GenomicRanges": [],
     "GenomicScores": [
@@ -10021,7 +9683,6 @@
         "dbplyr",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "shiny"
     ],
     "GenomicSuperSignature": [
@@ -10035,7 +9696,6 @@
         "dbplyr",
         "RSQLite",
         "tibble",
-        "tidyselect",
         "rmarkdown",
         "ggrepel",
         "ggsci",
@@ -10075,8 +9735,7 @@
         "progress",
         "BiocFileCache",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "GenProSeq": [
         "keras",
@@ -10095,7 +9754,6 @@
         "viridis",
         "lexicon",
         "textclean",
-        "tidyselect",
         "rvest",
         "syuzhet",
         "vroom",
@@ -10122,8 +9780,7 @@
         "SummarizedExperiment",
         "dbplyr",
         "dplyr",
-        "GenomicAlignments",
-        "tidyselect"
+        "GenomicAlignments"
     ],
     "GeoDiff": [
         "lme4",
@@ -10144,7 +9801,6 @@
         "ggthemes",
         "waldo",
         "tibble",
-        "tidyselect",
         "forcats",
         "progress",
         "tidyr",
@@ -10173,7 +9829,6 @@
         "egg",
         "rmarkdown",
         "readxl",
-        "tidyselect",
         "car",
         "ggsci",
         "cowplot",
@@ -10201,7 +9856,6 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "tidyselect",
         "vroom",
         "progress"
     ],
@@ -10215,7 +9869,6 @@
         "ggplot2",
         "SeuratObject",
         "tibble",
-        "tidyselect",
         "forcats",
         "progress",
         "tidyr",
@@ -10235,7 +9888,6 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "tidyselect",
         "vroom",
         "progress"
     ],
@@ -10260,7 +9912,6 @@
         "GSEABase",
         "Category",
         "tibble",
-        "tidyselect",
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -10281,7 +9932,6 @@
         "tibble",
         "tidyr",
         "ggplot2",
-        "tidyselect",
         "testthat",
         "waldo",
         "rematch2"
@@ -10314,15 +9964,13 @@
         "tibble",
         "viridis",
         "BiocFileCache",
-        "tidyselect",
         "dbplyr"
     ],
     "ggcyto": [
         "ggplot2",
         "flowWorkspace",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ggmanh": [
         "ggplot2",
@@ -10348,7 +9996,6 @@
         "ggplotify",
         "patchwork",
         "tibble",
-        "tidyselect",
         "plotly",
         "tidytree",
         "treeio"
@@ -10362,8 +10009,7 @@
         "forcats",
         "progress",
         "tidyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ggspavis": [
         "ggplot2",
@@ -10378,8 +10024,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "scuttle",
-        "tidyselect"
+        "scuttle"
     ],
     "ggtree": [
         "aplot",
@@ -10391,8 +10036,7 @@
         "treeio",
         "ggplotify",
         "patchwork",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ggtreeDendro": [
         "ggtree",
@@ -10404,7 +10048,6 @@
         "ggfun",
         "tidyr",
         "treeio",
-        "tidyselect",
         "ggplotify",
         "patchwork"
     ],
@@ -10419,7 +10062,6 @@
         "ggfun",
         "tidyr",
         "treeio",
-        "tidyselect",
         "ggplotify",
         "patchwork"
     ],
@@ -10454,8 +10096,7 @@
         "ggrepel",
         "tidyr",
         "tibble",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "Glimma": [
         "DESeq2",
@@ -10488,7 +10129,6 @@
         "progress",
         "BiocFileCache",
         "tibble",
-        "tidyselect",
         "GenomicRanges",
         "tidyr",
         "vroom",
@@ -10551,8 +10191,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GmicR": [
         "AnnotationDbi",
@@ -10577,8 +10216,7 @@
         "tidyr",
         "ggplot2",
         "viridis",
-        "Biostrings",
-        "tidyselect"
+        "Biostrings"
     ],
     "gmoviz": [
         "GenomicRanges",
@@ -10596,8 +10234,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GMRP": [
         "GenomicRanges"
@@ -10611,7 +10248,6 @@
         "tibble",
         "tidyr",
         "viridis",
-        "tidyselect",
         "GenomicRanges",
         "vroom",
         "progress"
@@ -10627,7 +10263,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "tidyselect",
         "Biostrings"
     ],
     "GOfuncR": [
@@ -10652,8 +10287,7 @@
         "tidyr",
         "tibble",
         "Biostrings",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "goProfiles": [
         "AnnotationDbi",
@@ -10687,8 +10321,7 @@
         "SummarizedExperiment",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GOSim": [
         "GO.db",
@@ -10719,7 +10352,6 @@
         "fgsea",
         "ggplot2",
         "tibble",
-        "tidyselect",
         "aplot",
         "ggnewscale",
         "ggraph",
@@ -10749,8 +10381,7 @@
         "dbplyr",
         "dplyr",
         "Biostrings",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GOstats": [
         "Category",
@@ -10810,7 +10441,6 @@
         "Biostrings",
         "SummarizedExperiment",
         "forcats",
-        "tidyselect",
         "readr",
         "tidyr",
         "dplyr",
@@ -10834,7 +10464,6 @@
         "ggplotify",
         "tibble",
         "tidyr",
-        "tidyselect",
         "sf",
         "flextable",
         "rmarkdown"
@@ -10883,7 +10512,6 @@
         "GenomicRanges",
         "pbkrtest",
         "lme4",
-        "tidyselect",
         "nloptr",
         "broom",
         "testthat",
@@ -10940,7 +10568,6 @@
         "safe",
         "GenomicRanges",
         "tibble",
-        "tidyselect",
         "annotate",
         "shiny",
         "Biostrings",
@@ -10953,8 +10580,7 @@
         "tibble",
         "ggplot2",
         "ggwordcloud",
-        "viridis",
-        "tidyselect"
+        "viridis"
     ],
     "gsean": [
         "fgsea",
@@ -10972,7 +10598,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "tidyselect",
         "Biostrings"
     ],
     "GSReg": [
@@ -10996,8 +10621,7 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GSRI": [
         "genefilter",
@@ -11047,7 +10671,6 @@
         "regioneR",
         "keras",
         "tibble",
-        "tidyselect",
         "RSQLite",
         "haven",
         "readxl",
@@ -11072,7 +10695,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "Biostrings",
         "biomaRt",
         "Rsamtools",
@@ -11106,8 +10728,7 @@
         "dplyr",
         "ggplot2",
         "viridis",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GWAS.BAYES": [
         "caret",
@@ -11118,7 +10739,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "tidyselect",
         "prodlim",
         "lava"
     ],
@@ -11144,7 +10764,6 @@
         "Rsamtools",
         "BSgenome",
         "progress",
-        "tidyselect",
         "shiny",
         "GenomicAlignments"
     ],
@@ -11157,8 +10776,7 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "ggplot2",
-        "tidyselect"
+        "ggplot2"
     ],
     "gwasurvivr": [
         "GWASTools",
@@ -11185,8 +10803,7 @@
         "tidyr",
         "dbplyr",
         "tibble",
-        "ggplot2",
-        "tidyselect"
+        "ggplot2"
     ],
     "GWENA": [
         "WGCNA",
@@ -11196,7 +10813,6 @@
         "tibble",
         "tidyr",
         "SummarizedExperiment",
-        "tidyselect",
         "plotly",
         "GenomicRanges",
         "Hmisc",
@@ -11230,7 +10846,6 @@
         "miniUI",
         "dbplyr",
         "RSQLite",
-        "tidyselect",
         "vroom",
         "progress"
     ],
@@ -11256,8 +10871,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "hermes": [
         "ggfortify",
@@ -11277,7 +10891,6 @@
         "BiocFileCache",
         "geneplotter",
         "tibble",
-        "tidyselect",
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -11290,8 +10903,7 @@
         "patchwork",
         "dplyr",
         "viridis",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "hiAnnotator": [
         "GenomicRanges",
@@ -11302,7 +10914,6 @@
         "Biostrings",
         "Rsamtools",
         "tibble",
-        "tidyselect",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
@@ -11313,7 +10924,6 @@
         "tibble",
         "readr",
         "vroom",
-        "tidyselect",
         "progress"
     ],
     "HiCcompare": [
@@ -11323,7 +10933,6 @@
         "GenomicRanges",
         "QDNAseq",
         "tibble",
-        "tidyselect",
         "SummarizedExperiment",
         "Rsamtools",
         "Biostrings"
@@ -11339,7 +10948,6 @@
         "Biostrings",
         "rtracklayer",
         "Rsamtools",
-        "tidyselect",
         "ggplot2",
         "Gviz",
         "SummarizedExperiment",
@@ -11380,7 +10988,6 @@
         "ggsignif",
         "rstatix",
         "HiCcompare",
-        "tidyselect",
         "QDNAseq",
         "broom",
         "car",
@@ -11404,7 +11011,6 @@
         "dplyr",
         "ggplot2",
         "ggrastr",
-        "tidyselect",
         "Rsamtools",
         "rtracklayer",
         "Gviz",
@@ -11454,7 +11060,6 @@
         "rtracklayer",
         "biomaRt",
         "dplyr",
-        "tidyselect",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -11479,7 +11084,6 @@
         "KEGGREST",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
@@ -11489,7 +11093,6 @@
         "SingleCellExperiment",
         "ggrepel",
         "tibble",
-        "tidyselect",
         "SummarizedExperiment",
         "GenomicRanges"
     ],
@@ -11501,7 +11104,6 @@
         "GenomicRanges",
         "readxl",
         "tibble",
-        "tidyselect",
         "SummarizedExperiment",
         "Rsamtools",
         "rtracklayer",
@@ -11521,15 +11123,13 @@
     "HPAanalyze": [
         "dplyr",
         "ggplot2",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "HPAStainR": [
         "dplyr",
         "tidyr",
         "tibble",
-        "shiny",
-        "tidyselect"
+        "shiny"
     ],
     "HPiP": [
         "dplyr",
@@ -11539,7 +11139,6 @@
         "caret",
         "ggplot2",
         "recipes",
-        "tidyselect",
         "vroom",
         "hardhat",
         "ipred",
@@ -11569,8 +11168,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "HTSFilter": [
         "DESeq2",
@@ -11591,8 +11189,7 @@
         "biocthis",
         "dplyr",
         "tidytext",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "HumanTranscriptomeCompendium": [
         "shiny",
@@ -11613,7 +11210,6 @@
         "rmarkdown",
         "shiny",
         "tibble",
-        "tidyselect",
         "rvest",
         "babelgene"
     ],
@@ -11626,8 +11222,7 @@
         "tidyr",
         "ggplot2",
         "tibble",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "iBMQ": [
         "ggplot2",
@@ -11664,8 +11259,7 @@
         "BiocFileCache",
         "annotate",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "iCheck": [
         "lumi",
@@ -11698,7 +11292,6 @@
         "dplyr",
         "readr",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "iCNV": [
@@ -11711,7 +11304,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "Biostrings",
         "tibble",
-        "tidyselect",
         "viridis",
         "BSgenome",
         "GenomicRanges",
@@ -11726,8 +11318,7 @@
         "ggplot2",
         "dplyr",
         "UpSetR",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ideal": [
         "topGO",
@@ -11755,7 +11346,6 @@
         "KEGGREST",
         "geneplotter",
         "tibble",
-        "tidyselect",
         "geneLenDataBase",
         "Category",
         "annotate",
@@ -11796,15 +11386,13 @@
         "ggplot2",
         "dplyr",
         "Biostrings",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "idr2d": [
         "dplyr",
         "GenomicRanges",
         "ggplot2",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "IgGeneUsage": [
         "rstan",
@@ -11831,8 +11419,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ILoReg": [
         "ggplot2",
@@ -11845,7 +11432,6 @@
         "viridis",
         "readxl",
         "tibble",
-        "tidyselect",
         "GenomicRanges",
         "cellranger",
         "progress"
@@ -11886,7 +11472,6 @@
         "nloptr",
         "progress",
         "BiocFileCache",
-        "tidyselect",
         "testthat",
         "dbplyr",
         "waldo",
@@ -11907,7 +11492,6 @@
         "ggplot2",
         "sf",
         "concaveman",
-        "tidyselect",
         "ggbeeswarm",
         "shiny",
         "shinydashboard",
@@ -11939,8 +11523,7 @@
         "viridis",
         "dendextend",
         "egg",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "immunotation": [
         "ggplot2",
@@ -11950,7 +11533,6 @@
         "tibble",
         "vroom",
         "dplyr",
-        "tidyselect",
         "progress"
     ],
     "INDEED": [
@@ -11975,7 +11557,6 @@
         "tidyr",
         "multcomp",
         "tibble",
-        "tidyselect",
         "cowplot",
         "ggrepel",
         "ggridges",
@@ -12009,7 +11590,6 @@
         "Rsamtools",
         "BSgenome.Drerio.UCSC.danRer7",
         "tibble",
-        "tidyselect",
         "biomaRt",
         "GenomicAlignments",
         "vroom",
@@ -12039,8 +11619,7 @@
         "annotate",
         "tibble",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "InTAD": [
         "GenomicRanges",
@@ -12061,7 +11640,6 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "tidyselect",
         "broom",
         "car",
         "pbkrtest",
@@ -12100,7 +11678,6 @@
         "tibble",
         "viridis",
         "BiocFileCache",
-        "tidyselect",
         "dbplyr"
     ],
     "InteractionSet": [
@@ -12155,7 +11732,6 @@
         "miniUI",
         "shinyjs",
         "viridis",
-        "tidyselect",
         "FactoMineR",
         "ggpubr",
         "ggrepel",
@@ -12200,8 +11776,7 @@
         "annotate",
         "tibble",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "InterMineR": [
         "Biostrings",
@@ -12217,7 +11792,6 @@
         "Biostrings",
         "ggplot2",
         "tibble",
-        "tidyselect",
         "Rsamtools",
         "GenomicAlignments",
         "GenomicRanges",
@@ -12241,7 +11815,6 @@
         "broom",
         "survMisc",
         "ggtext",
-        "tidyselect",
         "car",
         "pbkrtest",
         "lme4",
@@ -12262,7 +11835,6 @@
         "dplyr",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "shiny"
     ],
     "IPO": [
@@ -12329,7 +11901,6 @@
         "GenomicRanges",
         "HDO.db",
         "fgsea",
-        "tidyselect",
         "aplot",
         "ggnewscale",
         "scatterpie",
@@ -12363,7 +11934,6 @@
         "datamods",
         "rio",
         "shinybusy",
-        "tidyselect",
         "vroom",
         "cellranger",
         "progress",
@@ -12427,7 +11997,6 @@
         "dbplyr",
         "miniUI",
         "tibble",
-        "tidyselect",
         "Biostrings"
     ],
     "iSEEu": [
@@ -12463,7 +12032,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "tidyselect",
         "Biostrings"
     ],
     "IsoCorrectoR": [
@@ -12471,7 +12039,6 @@
         "readr",
         "readxl",
         "tibble",
-        "tidyselect",
         "vroom",
         "cellranger",
         "progress"
@@ -12484,7 +12051,6 @@
         "tibble",
         "cellranger",
         "progress",
-        "tidyselect",
         "vroom"
     ],
     "IsoformSwitchAnalyzeR": [
@@ -12506,7 +12072,6 @@
         "biomaRt",
         "geneplotter",
         "genefilter",
-        "tidyselect",
         "vroom",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -12541,7 +12106,6 @@
         "ggdendro",
         "ggrepel",
         "geneplotter",
-        "tidyselect",
         "forcats",
         "progress",
         "vroom",
@@ -12577,7 +12141,6 @@
         "nloptr",
         "progress",
         "BiocFileCache",
-        "tidyselect",
         "testthat",
         "Rsamtools",
         "GenomicAlignments",
@@ -12601,7 +12164,6 @@
         "broom",
         "survMisc",
         "ggtext",
-        "tidyselect",
         "ggrepel",
         "ggsci",
         "cowplot",
@@ -12650,8 +12212,7 @@
         "viridis",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "katdetectr": [
         "dplyr",
@@ -12668,7 +12229,6 @@
         "Biostrings",
         "rtracklayer",
         "Rsamtools",
-        "tidyselect",
         "GenomicAlignments",
         "SummarizedExperiment",
         "AnnotationDbi",
@@ -12737,7 +12297,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "tidyselect",
         "RSQLite",
         "KEGGREST",
         "rtracklayer",
@@ -12767,7 +12326,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "tidyselect",
         "RSQLite",
         "KEGGREST",
         "prodlim",
@@ -12794,7 +12352,6 @@
         "BiocFileCache",
         "rmarkdown",
         "tibble",
-        "tidyselect",
         "vroom",
         "learnr",
         "GenomicRanges",
@@ -12827,7 +12384,6 @@
         "testthat",
         "rmarkdown",
         "tibble",
-        "tidyselect",
         "waldo",
         "rematch2"
     ],
@@ -12856,8 +12412,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "LinkHD": [
         "ggplot2",
@@ -12876,7 +12431,6 @@
         "GenomicRanges",
         "haven",
         "readxl",
-        "tidyselect",
         "forcats",
         "readr",
         "cellranger",
@@ -12904,7 +12458,6 @@
         "Biostrings",
         "ggtree",
         "tibble",
-        "tidyselect",
         "aplot",
         "ggfun",
         "tidyr",
@@ -12927,7 +12480,6 @@
         "ropls",
         "imputeLCMD",
         "tibble",
-        "tidyselect",
         "cowplot",
         "plotly",
         "MultiAssayExperiment",
@@ -12946,7 +12498,6 @@
         "tibble",
         "tidyr",
         "ggplot2",
-        "tidyselect",
         "Biostrings"
     ],
     "lisaClust": [
@@ -12961,7 +12512,6 @@
         "SummarizedExperiment",
         "sf",
         "tibble",
-        "tidyselect",
         "GenomicRanges",
         "DropletUtils",
         "BiocFileCache",
@@ -13019,7 +12569,6 @@
         "TCGAutils",
         "ggplot2",
         "TFBSTools",
-        "tidyselect",
         "shiny",
         "miniUI",
         "dbplyr",
@@ -13057,7 +12606,6 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "tibble",
-        "tidyselect",
         "KEGGREST",
         "dbplyr",
         "shiny",
@@ -13093,7 +12641,6 @@
         "dplyr",
         "readr",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "LymphoSeq": [
@@ -13104,7 +12651,6 @@
         "Biostrings",
         "UpSetR",
         "tibble",
-        "tidyselect",
         "aplot",
         "ggfun",
         "tidyr",
@@ -13137,7 +12683,6 @@
         "caret",
         "Rsamtools",
         "tibble",
-        "tidyselect",
         "AnnotationHub",
         "BiocFileCache",
         "GenomicAlignments",
@@ -13167,7 +12712,6 @@
         "lme4",
         "pbkrtest",
         "tibble",
-        "tidyselect",
         "nloptr",
         "testthat",
         "broom",
@@ -13195,7 +12739,6 @@
         "KEGGREST",
         "pbkrtest",
         "tibble",
-        "tidyselect",
         "viridis",
         "nloptr",
         "Biostrings",
@@ -13234,7 +12777,6 @@
         "KEGGREST",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
@@ -13259,7 +12801,6 @@
         "tibble",
         "RSQLite",
         "KEGGREST",
-        "tidyselect",
         "biomaRt",
         "progress",
         "BiocFileCache",
@@ -13304,7 +12845,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
-        "tidyselect",
         "vroom"
     ],
     "MAGeCKFlute": [
@@ -13335,7 +12875,6 @@
         "ggtree",
         "tibble",
         "babelgene",
-        "tidyselect",
         "org.Hs.eg.db",
         "KEGGREST",
         "RSQLite",
@@ -13376,7 +12915,6 @@
         "rvest",
         "tibble",
         "tidyr",
-        "tidyselect",
         "cellranger",
         "rematch2",
         "vroom",
@@ -13409,7 +12947,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "tidyselect",
         "GenomicRanges",
         "prodlim",
         "shiny",
@@ -13445,7 +12982,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "tidyselect",
         "prodlim",
         "lava"
     ],
@@ -13454,7 +12990,6 @@
         "ggplot2",
         "dplyr",
         "tibble",
-        "tidyselect",
         "GenomicRanges"
     ],
     "martini": [],
@@ -13465,7 +13000,6 @@
         "rtracklayer",
         "Gviz",
         "tibble",
-        "tidyselect",
         "biomaRt",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -13515,7 +13049,6 @@
         "tidyr",
         "UpSetR",
         "vsn",
-        "tidyselect",
         "viridis",
         "GenomicRanges"
     ],
@@ -13538,7 +13071,6 @@
         "SummarizedExperiment",
         "tibble",
         "vroom",
-        "tidyselect",
         "progress"
     ],
     "MBASED": [
@@ -13556,7 +13088,6 @@
         "sva",
         "tibble",
         "tidyr",
-        "tidyselect",
         "nloptr",
         "Biostrings",
         "genefilter",
@@ -13577,8 +13108,7 @@
         "dplyr",
         "tibble",
         "ggplot2",
-        "GenomicRanges",
-        "tidyselect"
+        "GenomicRanges"
     ],
     "mbOmic": [
         "WGCNA",
@@ -13606,8 +13136,7 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "ggplot2",
-        "tidyselect"
+        "ggplot2"
     ],
     "MBQN": [
         "SummarizedExperiment",
@@ -13619,8 +13148,7 @@
         "dplyr",
         "RSQLite",
         "tibble",
-        "GenomicRanges",
-        "tidyselect"
+        "GenomicRanges"
     ],
     "MCbiclust": [
         "AnnotationDbi",
@@ -13637,7 +13165,6 @@
         "tidyr",
         "tibble",
         "Hmisc",
-        "tidyselect",
         "viridis",
         "Biostrings"
     ],
@@ -13673,7 +13200,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "tidyselect",
         "viridis"
     ],
     "mdp": [
@@ -13736,7 +13262,6 @@
         "tidyr",
         "FDb.InfiniumMethylation.hg19",
         "dbplyr",
-        "tidyselect",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "viridis",
         "vroom"
@@ -13747,7 +13272,6 @@
         "dplyr",
         "SummarizedExperiment",
         "wateRmelon",
-        "tidyselect",
         "GenomicRanges",
         "Biostrings",
         "bumphunter",
@@ -13797,8 +13321,7 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "MEDME": [
         "Biostrings",
@@ -13813,7 +13336,6 @@
         "tibble",
         "tidyr",
         "ggplot2",
-        "tidyselect",
         "testthat",
         "waldo",
         "rematch2"
@@ -13826,7 +13348,6 @@
         "testthat",
         "usethis",
         "tibble",
-        "tidyselect",
         "vroom",
         "waldo",
         "progress",
@@ -13864,7 +13385,6 @@
         "usethis",
         "universalmotif",
         "testthat",
-        "tidyselect",
         "vroom",
         "waldo",
         "progress",
@@ -13904,7 +13424,6 @@
         "patchwork",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "cowplot",
         "ggforce",
         "ggrepel",
@@ -13941,8 +13460,7 @@
         "ggplot2",
         "RSQLite",
         "KEGGREST",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "messina": [
         "ggplot2",
@@ -13965,7 +13483,6 @@
         "ggplot2",
         "recipes",
         "tibble",
-        "tidyselect",
         "hardhat",
         "ipred",
         "prodlim",
@@ -13985,7 +13502,6 @@
         "plotly",
         "GenomicRanges",
         "ggplot2",
-        "tidyselect",
         "tidyr"
     ],
     "metabolomicsWorkbenchR": [
@@ -13997,8 +13513,7 @@
         "rols",
         "progress",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "metabomxtr": [
         "ggplot2",
@@ -14034,7 +13549,6 @@
         "Rsamtools",
         "tibble",
         "viridis",
-        "tidyselect",
         "nloptr",
         "broom",
         "GenomicAlignments",
@@ -14052,7 +13566,6 @@
         "ggnewscale",
         "ggpubr",
         "tibble",
-        "tidyselect",
         "ggrepel",
         "ggsci",
         "cowplot",
@@ -14087,8 +13600,7 @@
         "progress",
         "BiocFileCache",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "metagene2": [
         "GenomicRanges",
@@ -14098,7 +13610,6 @@
         "Rsamtools",
         "dplyr",
         "tibble",
-        "tidyselect",
         "SummarizedExperiment",
         "Biostrings"
     ],
@@ -14123,7 +13634,6 @@
         "tidyr",
         "tibble",
         "ggplot2",
-        "tidyselect",
         "GenomicRanges"
     ],
     "MetaPhOR": [
@@ -14149,7 +13659,6 @@
         "KEGGREST",
         "HDO.db",
         "fgsea",
-        "tidyselect",
         "aplot",
         "ggnewscale",
         "ggraph",
@@ -14222,8 +13731,7 @@
         "BSgenome",
         "tibble",
         "tidyr",
-        "lava",
-        "tidyselect"
+        "lava"
     ],
     "metavizr": [
         "metagenomeSeq",
@@ -14251,8 +13759,7 @@
         "BiocFileCache",
         "GenomicAlignments",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "MetaVolcanoR": [
         "dplyr",
@@ -14263,7 +13770,6 @@
         "metap",
         "topconfects",
         "tibble",
-        "tidyselect",
         "TFisher",
         "mutoss",
         "multcomp",
@@ -14327,7 +13833,6 @@
         "RSQLite",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "tidyselect",
         "ggrepel",
         "ggsci",
         "cowplot",
@@ -14381,7 +13886,6 @@
         "tidyr",
         "RSQLite",
         "KEGGREST",
-        "tidyselect",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -14408,7 +13912,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "tibble",
-        "tidyselect",
         "annotate",
         "siggenes",
         "GEOquery",
@@ -14442,7 +13945,6 @@
         "miniUI",
         "pkgdown",
         "testthat",
-        "tidyselect",
         "AnnotationHub",
         "BiocFileCache",
         "ggpp",
@@ -14526,7 +14028,6 @@
         "SummarizedExperiment",
         "HDO.db",
         "fgsea",
-        "tidyselect",
         "aplot",
         "ggnewscale",
         "ggraph",
@@ -14616,8 +14117,7 @@
         "dplyr",
         "ggplot2",
         "viridis",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "methylscaper": [
         "shiny",
@@ -14682,7 +14182,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
-        "tidyselect",
         "vroom"
     ],
     "MetID": [
@@ -14706,7 +14205,6 @@
         "GENIE3",
         "tibble",
         "tidyr",
-        "tidyselect",
         "GenomicRanges"
     ],
     "mfa": [
@@ -14715,7 +14213,6 @@
         "ggmcmc",
         "MCMCpack",
         "tibble",
-        "tidyselect",
         "tidyr",
         "GGally",
         "forcats",
@@ -14739,7 +14236,6 @@
         "dbplyr",
         "dplyr",
         "tibble",
-        "tidyselect",
         "Biostrings"
     ],
     "mia": [
@@ -14757,7 +14253,6 @@
         "tidyr",
         "RSQLite",
         "ggplot2",
-        "tidyselect",
         "GenomicRanges",
         "BiocSingular",
         "ggbeeswarm",
@@ -14776,7 +14271,6 @@
         "dplyr",
         "treeio",
         "tibble",
-        "tidyselect",
         "tidytree",
         "tidyr"
     ],
@@ -14795,7 +14289,6 @@
         "tidygraph",
         "tidyr",
         "dplyr",
-        "tidyselect",
         "ggforce",
         "ggrepel",
         "aplot",
@@ -14821,8 +14314,7 @@
         "Biostrings",
         "dplyr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "microbiomeDASim": [
         "ggplot2",
@@ -14855,7 +14347,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "geneplotter",
-        "tidyselect",
         "viridis",
         "dendextend",
         "egg",
@@ -14903,7 +14394,6 @@
         "recipes",
         "multcomp",
         "geneplotter",
-        "tidyselect",
         "aplot",
         "ggfun",
         "treeio",
@@ -14965,7 +14455,6 @@
         "patchwork",
         "HDO.db",
         "fgsea",
-        "tidyselect",
         "ggforce",
         "ggrepel",
         "viridis",
@@ -14988,7 +14477,6 @@
         "ggsignif",
         "patchwork",
         "ggstar",
-        "tidyselect",
         "SummarizedExperiment",
         "treeio",
         "dtplyr",
@@ -15014,7 +14502,6 @@
         "tibble",
         "tidyr",
         "ggplot2",
-        "tidyselect",
         "rmarkdown",
         "mice",
         "rvest",
@@ -15050,7 +14537,6 @@
         "dplyr",
         "ggrepel",
         "ggbeeswarm",
-        "tidyselect",
         "ggforce",
         "viridis",
         "tidygraph",
@@ -15073,7 +14559,6 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "tidyselect",
         "waldo",
         "rematch2"
     ],
@@ -15114,7 +14599,6 @@
         "FDb.InfiniumMethylation.hg19",
         "minfi",
         "SummarizedExperiment",
-        "tidyselect",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "bumphunter",
         "siggenes",
@@ -15142,7 +14626,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -15215,7 +14698,6 @@
         "genefilter",
         "annotate",
         "tibble",
-        "tidyselect",
         "GO.db",
         "AnnotationForge",
         "ggplot2",
@@ -15306,7 +14788,6 @@
         "cvms",
         "MetBrewer",
         "ggpubr",
-        "tidyselect",
         "BiocFileCache",
         "recipes",
         "groupdata2",
@@ -15392,7 +14873,6 @@
         "lme4",
         "rearrr",
         "tibble",
-        "tidyselect",
         "aplot",
         "ggnewscale",
         "scatterpie",
@@ -15441,8 +14921,7 @@
     "mirTarRnaSeq": [
         "ggplot2",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "missMethyl": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -15477,7 +14956,6 @@
         "tibble",
         "progress",
         "BiocFileCache",
-        "tidyselect",
         "vroom",
         "Rsamtools",
         "GenomicAlignments",
@@ -15490,8 +14968,7 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "tidyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "mistyR": [
         "caret",
@@ -15500,7 +14977,6 @@
         "readr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "recipes",
         "vroom",
         "hardhat",
@@ -15520,8 +14996,7 @@
         "forcats",
         "progress",
         "tidyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "mitoClone2": [
         "GenomicRanges",
@@ -15543,16 +15018,14 @@
         "progress",
         "BiocFileCache",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "mixOmics": [
         "ggplot2",
         "dplyr",
         "tidyr",
         "ggrepel",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "MLInterfaces": [
         "annotate",
@@ -15566,7 +15039,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "Biostrings"
     ],
     "MLP": [
@@ -15592,7 +15064,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "tidyselect",
         "rematch2",
         "RSQLite",
         "KEGGREST",
@@ -15619,7 +15090,6 @@
         "tidyr",
         "cowplot",
         "tibble",
-        "tidyselect",
         "metagenomeSeq",
         "car",
         "lmerTest",
@@ -15686,8 +15156,7 @@
         "cowplot",
         "ggrepel",
         "forcats",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "MOGAMUN": [
         "RCy3",
@@ -15714,7 +15183,6 @@
         "readr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "SummarizedExperiment",
         "GenomicRanges",
         "vroom",
@@ -15739,15 +15207,13 @@
         "AnnotationDbi",
         "tibble",
         "vroom",
-        "tidyselect",
         "progress"
     ],
     "monocle": [
         "ggplot2",
         "tibble",
         "dplyr",
-        "viridis",
-        "tidyselect"
+        "viridis"
     ],
     "MoonlightR": [
         "SummarizedExperiment",
@@ -15776,7 +15242,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "tidyselect",
         "aplot",
         "ggnewscale",
         "ggraph",
@@ -15810,15 +15275,13 @@
         "tidyr",
         "ggplot2",
         "tibble",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "MOSim": [
         "dplyr",
         "tibble",
         "tidyr",
-        "ggplot2",
-        "tidyselect"
+        "ggplot2"
     ],
     "Motif2Site": [
         "BSgenome",
@@ -15862,7 +15325,6 @@
         "annotate",
         "GO.db",
         "viridis",
-        "tidyselect",
         "vroom"
     ],
     "motifcounter": [
@@ -15895,7 +15357,6 @@
         "AnnotationDbi",
         "tibble",
         "vroom",
-        "tidyselect",
         "progress"
     ],
     "motifStack": [
@@ -15917,7 +15378,6 @@
         "AnnotationDbi",
         "SummarizedExperiment",
         "vroom",
-        "tidyselect",
         "progress"
     ],
     "MouseFM": [
@@ -15930,7 +15390,6 @@
         "progress",
         "BiocFileCache",
         "tibble",
-        "tidyselect",
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -15957,7 +15416,6 @@
         "ggrepel",
         "gghalves",
         "tibble",
-        "tidyselect",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -15980,8 +15438,7 @@
         "GenomicRanges",
         "dplyr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "MsBackendMassbank": [],
     "MsBackendMgf": [],
@@ -15997,8 +15454,7 @@
         "tidyr",
         "ggplot2",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "MsFeatures": [
         "SummarizedExperiment",
@@ -16036,15 +15492,13 @@
         "progress",
         "forcats",
         "tidyr",
-        "viridis",
-        "tidyselect"
+        "viridis"
     ],
     "msImpute": [
         "scran",
         "tidyr",
         "dplyr",
         "tibble",
-        "tidyselect",
         "SingleCellExperiment",
         "scuttle",
         "SummarizedExperiment",
@@ -16094,7 +15548,6 @@
         "interactiveDisplayBase",
         "bookdown",
         "rmarkdown",
-        "tidyselect",
         "msmsEDA",
         "qvalue",
         "vsn",
@@ -16108,7 +15561,6 @@
         "tibble",
         "sva",
         "VIM",
-        "tidyselect",
         "GenomicRanges",
         "genefilter",
         "car",
@@ -16131,8 +15583,7 @@
         "dbplyr",
         "ggplot2",
         "RSQLite",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "msqrob2": [
         "QFeatures",
@@ -16148,7 +15599,6 @@
         "ggplot2",
         "dplyr",
         "tibble",
-        "tidyselect",
         "waldo",
         "rematch2"
     ],
@@ -16173,7 +15623,6 @@
         "tibble",
         "tidyr",
         "tidyverse",
-        "tidyselect",
         "dendextend",
         "FactoMineR",
         "ggrepel",
@@ -16220,7 +15669,6 @@
         "Biostrings",
         "ggrepel",
         "tibble",
-        "tidyselect",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -16235,7 +15683,6 @@
         "ggExtra",
         "MSnbase",
         "tibble",
-        "tidyselect",
         "colourpicker",
         "miniUI",
         "shiny",
@@ -16250,7 +15697,6 @@
         "plotly",
         "dplyr",
         "tibble",
-        "tidyselect",
         "colourpicker",
         "ggplot2",
         "miniUI",
@@ -16272,7 +15718,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "tidyselect",
         "prodlim",
         "testthat",
         "lava",
@@ -16293,7 +15738,6 @@
         "ggrepel",
         "tidyr",
         "tibble",
-        "tidyselect",
         "viridis",
         "lme4",
         "Biostrings",
@@ -16322,8 +15766,7 @@
         "GenomicRanges",
         "tidyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "Mulcom": [
         "fields",
@@ -16336,8 +15779,7 @@
         "GenomicRanges",
         "tidyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "MultiBaC": [
         "ggplot2",
@@ -16350,8 +15792,7 @@
         "plotly",
         "MultiDataSet",
         "ggrepel",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "multiClust": [
         "dendextend",
@@ -16371,7 +15812,6 @@
         "plyranges",
         "rtracklayer",
         "tidyr",
-        "tidyselect",
         "Rsamtools",
         "dplyr",
         "keras",
@@ -16412,7 +15852,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "ggplot2",
         "cowplot",
         "TFisher",
@@ -16426,7 +15865,6 @@
         "HiCcompare",
         "GenomicRanges",
         "tibble",
-        "tidyselect",
         "ggplot2",
         "InteractionSet",
         "QDNAseq",
@@ -16440,7 +15878,6 @@
         "dplyr",
         "RSQLite",
         "KEGGREST",
-        "tidyselect",
         "Biostrings"
     ],
     "multiOmicsViz": [
@@ -16481,7 +15918,6 @@
         "GenomicRanges",
         "geneplotter",
         "tibble",
-        "tidyselect",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -16541,7 +15977,6 @@
         "rtracklayer",
         "Rsamtools",
         "tibble",
-        "tidyselect",
         "GenomicAlignments",
         "SummarizedExperiment",
         "AnnotationDbi",
@@ -16572,7 +16007,6 @@
         "GenomicRanges",
         "geneplotter",
         "tibble",
-        "tidyselect",
         "nloptr",
         "BiocSingular",
         "ggbeeswarm",
@@ -16630,7 +16064,6 @@
         "Rsamtools",
         "ggseqlogo",
         "readxl",
-        "tidyselect",
         "dendextend",
         "FactoMineR",
         "ggpubr",
@@ -16676,7 +16109,6 @@
         "ggalluvial",
         "rtracklayer",
         "Rsamtools",
-        "tidyselect",
         "SummarizedExperiment",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -16703,7 +16135,6 @@
         "broom",
         "dplyr",
         "tidyr",
-        "tidyselect",
         "testthat",
         "waldo",
         "rematch2"
@@ -16728,8 +16159,7 @@
         "GenomicAlignments",
         "dbplyr",
         "dplyr",
-        "SummarizedExperiment",
-        "tidyselect"
+        "SummarizedExperiment"
     ],
     "myvariant": [
         "VariantAnnotation",
@@ -16752,8 +16182,7 @@
         "progress",
         "BiocFileCache",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "NADfinder": [
         "GenomicRanges",
@@ -16796,7 +16225,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "tibble",
-        "tidyselect",
         "CNEr",
         "readr",
         "annotate",
@@ -16824,7 +16252,6 @@
         "KEGGREST",
         "BSgenome",
         "Biostrings",
-        "tidyselect",
         "ggbeeswarm",
         "vroom",
         "rtracklayer",
@@ -16860,7 +16287,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "waldo",
         "broom",
         "dbplyr",
@@ -16914,7 +16340,6 @@
         "broom",
         "dplyr",
         "tidyr",
-        "tidyselect",
         "testthat",
         "waldo",
         "rematch2"
@@ -16943,8 +16368,7 @@
     "ndexr": [
         "tidyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "nearBynding": [
         "plyranges",
@@ -16956,7 +16380,6 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "ggplot2",
         "tibble",
-        "tidyselect",
         "GenomicAlignments",
         "Biostrings",
         "GenomicFeatures",
@@ -16988,8 +16411,7 @@
         "spatstat.explore",
         "GenomicRanges",
         "tidyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "nempi": [
         "mnem",
@@ -17042,7 +16464,6 @@
         "fgsea",
         "ggplot2",
         "tibble",
-        "tidyselect",
         "aplot",
         "ggnewscale",
         "ggraph",
@@ -17071,8 +16492,7 @@
         "RSQLite",
         "tibble",
         "SummarizedExperiment",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "nethet": [
         "ICSNP",
@@ -17092,7 +16512,6 @@
         "gprofiler2",
         "RSQLite",
         "KEGGREST",
-        "tidyselect",
         "plotly",
         "dnet",
         "supraHex",
@@ -17104,8 +16523,7 @@
     "netprioR": [
         "dplyr",
         "ggplot2",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "netresponse": [
         "BiocStyle",
@@ -17130,8 +16548,7 @@
         "ggplot2",
         "viridis",
         "Biostrings",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "netSmooth": [
         "scater",
@@ -17164,7 +16581,6 @@
         "tidyr",
         "RSQLite",
         "KEGGREST",
-        "tidyselect",
         "Biostrings"
     ],
     "netZooR": [
@@ -17183,7 +16599,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "Category",
         "annotate",
         "AnnotationForge",
@@ -17218,8 +16633,7 @@
         "tensorflow",
         "tfruns",
         "SummarizedExperiment",
-        "GenomicRanges",
-        "tidyselect"
+        "GenomicRanges"
     ],
     "NewWave": [
         "SummarizedExperiment",
@@ -17239,7 +16653,6 @@
         "readr",
         "rmarkdown",
         "tidyr",
-        "tidyselect",
         "vroom",
         "progress"
     ],
@@ -17254,8 +16667,7 @@
         "dplyr",
         "RSQLite",
         "scuttle",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "nondetects": [
         "arm",
@@ -17286,7 +16698,6 @@
         "progress",
         "BiocFileCache",
         "tibble",
-        "tidyselect",
         "Biostrings",
         "vroom",
         "Rsamtools",
@@ -17302,7 +16713,6 @@
         "ggforce",
         "pbkrtest",
         "lme4",
-        "tidyselect",
         "tibble",
         "Hmisc",
         "haven",
@@ -17342,8 +16752,7 @@
         "tidyr",
         "broom",
         "tibble",
-        "ggplot2",
-        "tidyselect"
+        "ggplot2"
     ],
     "npGSEA": [
         "GSEABase",
@@ -17361,7 +16770,6 @@
         "dplyr",
         "ggplot2",
         "tibble",
-        "tidyselect",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
@@ -17375,7 +16783,6 @@
         "tibble",
         "SummarizedExperiment",
         "dplyr",
-        "tidyselect",
         "rtracklayer",
         "GenomicAlignments",
         "Rsamtools",
@@ -17405,7 +16812,6 @@
         "tidyr",
         "GenomicAlignments",
         "KEGGREST",
-        "tidyselect",
         "shiny"
     ],
     "OCplus": [],
@@ -17428,7 +16834,6 @@
         "SummarizedExperiment",
         "geneplotter",
         "tibble",
-        "tidyselect",
         "ShortRead",
         "Rsamtools",
         "biomaRt",
@@ -17472,7 +16877,6 @@
         "Hmisc",
         "qvalue",
         "Rsamtools",
-        "tidyselect",
         "ggsci",
         "cowplot",
         "ggsignif",
@@ -17526,7 +16930,6 @@
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
-        "tidyselect",
         "KEGGREST",
         "dbplyr",
         "progress",
@@ -17558,7 +16961,6 @@
         "tidyr",
         "yardstick",
         "tibble",
-        "tidyselect",
         "questionr",
         "hardhat",
         "shiny",
@@ -17626,7 +17028,6 @@
         "RSQLite",
         "KEGGREST",
         "pbkrtest",
-        "tidyselect",
         "testthat",
         "Biostrings",
         "waldo",
@@ -17665,7 +17066,6 @@
         "SummarizedExperiment",
         "rvest",
         "dplyr",
-        "tidyselect",
         "pbkrtest",
         "lme4",
         "viridis",
@@ -17692,8 +17092,7 @@
         "GenomicRanges",
         "tidyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "omicsViewer": [
         "survminer",
@@ -17718,7 +17117,6 @@
         "broom",
         "survMisc",
         "ggtext",
-        "tidyselect",
         "ggrepel",
         "ggsci",
         "ggsignif",
@@ -17737,7 +17135,6 @@
         "forcats",
         "tibble",
         "readr",
-        "tidyselect",
         "vroom",
         "progress"
     ],
@@ -17750,7 +17147,6 @@
         "rvest",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom",
         "cellranger"
     ],
@@ -17766,7 +17162,6 @@
         "readr",
         "tibble",
         "vroom",
-        "tidyselect",
         "progress"
     ],
     "OncoScore": [
@@ -17779,7 +17174,6 @@
         "dbplyr",
         "dplyr",
         "tibble",
-        "tidyselect",
         "Biostrings"
     ],
     "OncoSimulR": [
@@ -17790,7 +17184,6 @@
         "pbkrtest",
         "lme4",
         "tibble",
-        "tidyselect",
         "nloptr",
         "broom",
         "tidyr",
@@ -17805,8 +17198,7 @@
         "ggplot2",
         "tidyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "onlineFDR": [
         "progress"
@@ -17822,7 +17214,6 @@
         "interactiveDisplayBase",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "GenomicRanges",
         "KEGGREST",
         "Biostrings"
@@ -17832,8 +17223,7 @@
         "flowWorkspace",
         "ggplot2",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "openPrimeR": [
         "Biostrings",
@@ -17844,7 +17234,6 @@
         "Hmisc",
         "RSQLite",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "openPrimeRui": [
@@ -17861,7 +17250,6 @@
         "Hmisc",
         "RSQLite",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "OpenStats": [
@@ -17877,7 +17265,6 @@
         "dplyr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "nloptr",
         "broom",
         "testthat",
@@ -17894,7 +17281,6 @@
         "dbplyr",
         "dplyr",
         "tibble",
-        "tidyselect",
         "Biostrings"
     ],
     "oppar": [
@@ -17927,7 +17313,6 @@
         "dplyr",
         "flowMeans",
         "tibble",
-        "tidyselect",
         "feature"
     ],
     "OPWeight": [
@@ -17969,7 +17354,6 @@
         "readr",
         "geneplotter",
         "dbplyr",
-        "tidyselect",
         "annotate",
         "vroom"
     ],
@@ -17984,7 +17368,6 @@
         "dbplyr",
         "tibble",
         "KEGGREST",
-        "tidyselect",
         "Biostrings",
         "rtracklayer",
         "biomaRt",
@@ -18009,8 +17392,7 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "orthogene": [
         "dplyr",
@@ -18022,7 +17404,6 @@
         "patchwork",
         "ggtree",
         "tibble",
-        "tidyselect",
         "ggrepel",
         "ggsci",
         "tidyr",
@@ -18085,7 +17466,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "tidyselect",
         "annotate",
         "Rsamtools",
         "GenomicAlignments",
@@ -18121,7 +17501,6 @@
         "lme4",
         "tibble",
         "dplyr",
-        "tidyselect",
         "nloptr",
         "broom",
         "testthat",
@@ -18157,7 +17536,6 @@
         "AnnotationDbi",
         "tibble",
         "vroom",
-        "tidyselect",
         "progress"
     ],
     "PAIRADISE": [
@@ -18203,7 +17581,6 @@
         "gson",
         "qvalue",
         "tidyr",
-        "tidyselect",
         "annotate",
         "TFisher",
         "mutoss",
@@ -18235,8 +17612,7 @@
     "PanViz": [
         "tidyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "pareg": [
         "tensorflow",
@@ -18257,7 +17633,6 @@
         "fgsea",
         "GOSemSim",
         "qvalue",
-        "tidyselect",
         "ggforce",
         "ggrepel",
         "viridis",
@@ -18282,7 +17657,6 @@
         "ggplot2",
         "GenomicRanges",
         "tibble",
-        "tidyselect",
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
@@ -18309,7 +17683,6 @@
         "pkgdown",
         "testthat",
         "tibble",
-        "tidyselect",
         "Biostrings",
         "annotate",
         "AnnotationDbi",
@@ -18339,7 +17712,6 @@
         "readr",
         "tibble",
         "vroom",
-        "tidyselect",
         "progress"
     ],
     "pcaExplorer": [
@@ -18376,7 +17748,6 @@
         "dendextend",
         "egg",
         "dplyr",
-        "tidyselect",
         "dbplyr",
         "GSEABase",
         "Biostrings"
@@ -18404,7 +17775,6 @@
         "recipes",
         "bench",
         "tibble",
-        "tidyselect",
         "biomaRt",
         "iC10",
         "GenomicRanges",
@@ -18455,8 +17825,7 @@
         "flowWorkspace",
         "ggplot2",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "peakPantheR": [
         "ggplot2",
@@ -18534,7 +17903,6 @@
         "gson",
         "qvalue",
         "tibble",
-        "tidyselect",
         "RSQLite",
         "KEGGREST",
         "HDO.db",
@@ -18573,7 +17941,6 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "tidyselect",
         "annotate",
         "Biostrings",
         "vroom",
@@ -18594,13 +17961,11 @@
         "shinyjs",
         "shinydashboard",
         "dplyr",
-        "tidyselect",
         "cowplot"
     ],
     "PhenoGeneRanker": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "phenomis": [
         "SummarizedExperiment",
@@ -18620,7 +17985,6 @@
         "testthat",
         "GenomicRanges",
         "dplyr",
-        "tidyselect",
         "dbplyr",
         "waldo",
         "rematch2"
@@ -18631,7 +17995,6 @@
         "tibble",
         "ggplot2",
         "tidyr",
-        "tidyselect",
         "GenomicRanges"
     ],
     "phenoTest": [
@@ -18653,8 +18016,7 @@
         "viridis",
         "dbplyr",
         "dplyr",
-        "Biostrings",
-        "tidyselect"
+        "Biostrings"
     ],
     "PhenStat": [
         "car",
@@ -18669,7 +18031,6 @@
         "dplyr",
         "tidyr",
         "testthat",
-        "tidyselect",
         "waldo",
         "rematch2"
     ],
@@ -18683,7 +18044,6 @@
         "ggfun",
         "tidytree",
         "treeio",
-        "tidyselect",
         "ggplotify",
         "patchwork"
     ],
@@ -18694,8 +18054,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "PhosR": [
         "ruv",
@@ -18711,7 +18070,6 @@
         "ggtext",
         "viridis",
         "tibble",
-        "tidyselect",
         "forcats",
         "progress",
         "ggrepel",
@@ -18754,8 +18112,7 @@
         "dplyr",
         "dbplyr",
         "GO.db",
-        "KEGGREST",
-        "tidyselect"
+        "KEGGREST"
     ],
     "phyloseq": [
         "Biostrings",
@@ -18776,7 +18133,6 @@
         "readr",
         "tibble",
         "recipes",
-        "tidyselect",
         "network",
         "sna",
         "vroom",
@@ -18823,7 +18179,6 @@
         "HDO.db",
         "fgsea",
         "tibble",
-        "tidyselect",
         "ggraph",
         "reactome.db",
         "graphite",
@@ -18877,8 +18232,7 @@
         "ggplot2",
         "viridis",
         "hdrcde",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "pipeComp": [
         "SingleCellExperiment",
@@ -18890,7 +18244,6 @@
         "cowplot",
         "scater",
         "tibble",
-        "tidyselect",
         "scuttle",
         "BiocSingular",
         "ggbeeswarm",
@@ -18922,8 +18275,7 @@
     ],
     "planet": [
         "tibble",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "plethy": [
         "RSQLite",
@@ -18948,7 +18300,6 @@
         "ggplotify",
         "plyranges",
         "tibble",
-        "tidyselect",
         "ggplot2",
         "GenomicRanges",
         "rtracklayer",
@@ -18972,7 +18323,6 @@
         "Hmisc",
         "miniUI",
         "shinyjs",
-        "tidyselect",
         "ggrepel",
         "ggsci",
         "cowplot",
@@ -18994,7 +18344,6 @@
     "plyranges": [
         "GenomicRanges",
         "dplyr",
-        "tidyselect",
         "rtracklayer",
         "GenomicAlignments",
         "Rsamtools",
@@ -19023,7 +18372,6 @@
         "readr",
         "tibble",
         "vroom",
-        "tidyselect",
         "progress"
     ],
     "podkat": [
@@ -19048,7 +18396,6 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "dbplyr",
-        "tidyselect",
         "GenomicRanges",
         "KEGGREST",
         "Biostrings"
@@ -19071,7 +18418,6 @@
         "recipes",
         "GenomicRanges",
         "geneplotter",
-        "tidyselect",
         "annotate",
         "AnnotationDbi",
         "hardhat",
@@ -19109,7 +18455,6 @@
         "tidybayes",
         "benchmarkme",
         "benchmarkmeData",
-        "tidyselect",
         "ggdist",
         "posterior",
         "distributional"
@@ -19129,7 +18474,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "tidyselect",
         "Biostrings"
     ],
     "pqsfinder": [
@@ -19181,7 +18525,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "tidyselect",
         "progress",
         "BiocFileCache",
         "prodlim",
@@ -19213,7 +18556,6 @@
         "JASPAR2018",
         "tibble",
         "BSgenome",
-        "tidyselect",
         "BiocFileCache",
         "AnnotationHub",
         "biomaRt",
@@ -19248,7 +18590,6 @@
         "Hmisc",
         "MSnbase",
         "tibble",
-        "tidyselect",
         "ggplot2",
         "tseries",
         "viridis",
@@ -19268,7 +18609,6 @@
         "RSQLite",
         "KEGGREST",
         "geneplotter",
-        "tidyselect",
         "Biostrings",
         "Rsamtools",
         "rtracklayer",
@@ -19294,8 +18634,7 @@
         "SummarizedExperiment",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "proBatch": [
         "dplyr",
@@ -19307,7 +18646,6 @@
         "tibble",
         "viridis",
         "WGCNA",
-        "tidyselect",
         "vsn",
         "lme4",
         "genefilter",
@@ -19347,8 +18685,7 @@
         "GenomicRanges",
         "tidyr",
         "ggrepel",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "profileplyr": [
         "SummarizedExperiment",
@@ -19372,7 +18709,6 @@
         "AnnotationDbi",
         "enrichplot",
         "tibble",
-        "tidyselect",
         "RSQLite",
         "Biostrings",
         "biomaRt",
@@ -19414,8 +18750,7 @@
         "ggrepel",
         "decoupleR",
         "broom",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "projectR": [
         "CoGAPS",
@@ -19427,7 +18762,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "tibble",
-        "tidyselect",
         "tidyr",
         "GenomicRanges"
     ],
@@ -19457,7 +18791,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "tidyselect",
         "GenomicRanges",
         "prodlim",
         "Biostrings",
@@ -19477,7 +18810,6 @@
         "shinydashboard",
         "miniUI",
         "tibble",
-        "tidyselect",
         "vsn",
         "MLInterfaces",
         "caret",
@@ -19540,7 +18872,6 @@
         "broom",
         "quantmod",
         "tidyr",
-        "tidyselect",
         "vsn"
     ],
     "proteasy": [
@@ -19567,8 +18898,7 @@
         "SummarizedExperiment",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ProteoDisco": [
         "Biostrings",
@@ -19579,7 +18909,6 @@
         "tibble",
         "tidyr",
         "VariantAnnotation",
-        "tidyselect",
         "AnnotationDbi",
         "RSQLite",
         "rtracklayer",
@@ -19605,7 +18934,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "tidyselect",
         "Biostrings"
     ],
     "protGear": [
@@ -19626,7 +18954,6 @@
         "GGally",
         "factoextra",
         "FactoMineR",
-        "tidyselect",
         "dendextend",
         "ggrepel",
         "car",
@@ -19673,7 +19000,6 @@
         "dbplyr",
         "miniUI",
         "tibble",
-        "tidyselect",
         "broom",
         "quantmod",
         "tidyr",
@@ -19707,8 +19033,7 @@
         "tidyr",
         "ggplot2",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "psygenet2r": [
         "ggplot2",
@@ -19725,7 +19050,6 @@
         "tibble",
         "KEGGREST",
         "dbplyr",
-        "tidyselect",
         "Biostrings"
     ],
     "ptairMS": [
@@ -19746,7 +19070,6 @@
         "rstatix",
         "viridis",
         "vsn",
-        "tidyselect",
         "broom",
         "car",
         "pbkrtest",
@@ -19783,8 +19106,7 @@
         "progress",
         "BiocFileCache",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "pvca": [
         "vsn",
@@ -19821,8 +19143,7 @@
         "viridis",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "PWMEnrich": [
         "Biostrings"
@@ -19842,7 +19163,6 @@
         "sqldf",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
@@ -19864,14 +19184,12 @@
         "interactiveDisplayBase",
         "dplyr",
         "dbplyr",
-        "Biostrings",
-        "tidyselect"
+        "Biostrings"
     ],
     "qckitfastq": [
         "ggplot2",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "QDNAseq": [
         "GenomicRanges",
@@ -19887,8 +19205,7 @@
         "tidyr",
         "ggplot2",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "qmtools": [
         "SummarizedExperiment",
@@ -19907,7 +19224,6 @@
         "lme4",
         "tidyr",
         "dplyr",
-        "tidyselect",
         "nloptr",
         "broom",
         "testthat",
@@ -19931,8 +19247,7 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "qPLEXanalyzer": [
         "MSnbase",
@@ -19943,7 +19258,6 @@
         "readr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vsn",
         "vroom",
         "progress"
@@ -19975,8 +19289,7 @@
         "progress",
         "BiocFileCache",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "qsea": [
         "Biostrings",
@@ -20027,8 +19340,7 @@
         "tidyr",
         "tibble",
         "GenomicRanges",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "quantro": [
         "minfi",
@@ -20049,7 +19361,6 @@
         "tidyr",
         "RSQLite",
         "KEGGREST",
-        "tidyselect",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -20086,21 +19397,18 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "QuaternaryProd": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "QUBIC": [
         "biclust",
         "tidyr",
         "ggplot2",
         "tibble",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "qvalue": [
         "ggplot2",
@@ -20135,7 +19443,6 @@
         "progress",
         "tidyr",
         "BiocFileCache",
-        "tidyselect",
         "dbplyr"
     ],
     "r3Cseq": [
@@ -20170,8 +19477,7 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "R4RNA": [
         "Biostrings"
@@ -20191,8 +19497,7 @@
         "shinydashboard",
         "ggplot2",
         "cowplot",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "RaggedExperiment": [
         "GenomicRanges",
@@ -20219,8 +19524,7 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "RandomWalkRestartMH": [
         "dnet",
@@ -20229,7 +19533,6 @@
         "tibble",
         "tidyr",
         "dplyr",
-        "tidyselect",
         "vroom",
         "progress"
     ],
@@ -20265,7 +19568,6 @@
         "progress",
         "GenomicAlignments",
         "tibble",
-        "tidyselect",
         "shiny"
     ],
     "Rbec": [
@@ -20279,7 +19581,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "GenomicRanges",
-        "tidyselect",
         "progress",
         "SummarizedExperiment"
     ],
@@ -20323,7 +19624,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "tidyselect",
         "SummarizedExperiment",
         "vroom",
         "dbplyr"
@@ -20355,8 +19655,7 @@
         "GenomicAlignments",
         "dbplyr",
         "dplyr",
-        "SummarizedExperiment",
-        "tidyselect"
+        "SummarizedExperiment"
     ],
     "RcisTarget": [
         "AUCell",
@@ -20366,7 +19665,6 @@
         "tibble",
         "GSEABase",
         "SummarizedExperiment",
-        "tidyselect",
         "shiny",
         "annotate",
         "AnnotationDbi",
@@ -20404,7 +19702,6 @@
         "tibble",
         "tidyr",
         "viridis",
-        "tidyselect",
         "vroom",
         "ggplot2"
     ],
@@ -20419,7 +19716,6 @@
         "shiny",
         "progress",
         "tibble",
-        "tidyselect",
         "readr",
         "tidyr",
         "viridis",
@@ -20438,7 +19734,6 @@
         "shiny",
         "tibble",
         "tidyr",
-        "tidyselect",
         "dplyr"
     ],
     "ReactomeGSA": [
@@ -20446,8 +19741,7 @@
         "ggplot2",
         "dplyr",
         "tidyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ReactomePA": [
         "AnnotationDbi",
@@ -20479,7 +19773,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "tidyselect",
         "cowplot",
         "tidytree",
         "treeio",
@@ -20500,7 +19793,6 @@
         "tidyr",
         "SummarizedExperiment",
         "tibble",
-        "tidyselect",
         "GenomicRanges"
     ],
     "reconsi": [
@@ -20530,7 +19822,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "biomaRt",
         "VariantAnnotation",
         "ggplot2",
@@ -20552,8 +19843,7 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "recountmethylation": [
         "minfi",
@@ -20572,7 +19862,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "tibble",
-        "tidyselect",
         "annotate",
         "readr",
         "tidyr",
@@ -20601,8 +19890,7 @@
         "tibble",
         "KEGGREST",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "REDseq": [
         "BSgenome.Celegans.UCSC.ce2",
@@ -20627,7 +19915,6 @@
         "progress",
         "BiocFileCache",
         "tibble",
-        "tidyselect",
         "AnnotationFilter",
         "dbplyr"
     ],
@@ -20654,7 +19941,6 @@
         "HDO.db",
         "GOSemSim",
         "qvalue",
-        "tidyselect",
         "cowplot",
         "Hmisc",
         "GO.db",
@@ -20718,8 +20004,7 @@
         "BiocFileCache",
         "BSgenome",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "regsplice": [
         "SummarizedExperiment",
@@ -20754,7 +20039,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "tibble",
-        "tidyselect",
         "shiny",
         "repr",
         "ggplot2",
@@ -20789,7 +20073,6 @@
         "KEGGREST",
         "dbplyr",
         "GenomicFeatures",
-        "tidyselect",
         "annotate",
         "tidyr",
         "shiny",
@@ -20857,7 +20140,6 @@
         "tidyr",
         "viridis",
         "BiocFileCache",
-        "tidyselect",
         "dbplyr"
     ],
     "RepViz": [
@@ -20872,8 +20154,7 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ReQON": [
         "Rsamtools",
@@ -20908,7 +20189,6 @@
         "interactiveDisplayBase",
         "progress",
         "tibble",
-        "tidyselect",
         "GenomicRanges",
         "dbplyr",
         "shiny",
@@ -20930,7 +20210,6 @@
         "dplyr",
         "tidyr",
         "pbkrtest",
-        "tidyselect",
         "testthat",
         "waldo",
         "rematch2"
@@ -20969,7 +20248,6 @@
         "KEGGREST",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
@@ -20978,7 +20256,6 @@
         "rtracklayer",
         "dplyr",
         "tibble",
-        "tidyselect",
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
@@ -21004,13 +20281,11 @@
         "GenomicAlignments",
         "dbplyr",
         "dplyr",
-        "SummarizedExperiment",
-        "tidyselect"
+        "SummarizedExperiment"
     ],
     "rgoslin": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "rGREAT": [
         "GenomicRanges",
@@ -21033,8 +20308,7 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "rgsepd": [
         "DESeq2",
@@ -21059,7 +20333,6 @@
         "annotate",
         "tibble",
         "Biostrings",
-        "tidyselect",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -21080,8 +20353,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "RiboCrypt": [
         "ORFik",
@@ -21092,7 +20364,6 @@
         "ggplot2",
         "plotly",
         "tibble",
-        "tidyselect",
         "AnnotationDbi",
         "RSQLite",
         "rtracklayer",
@@ -21137,7 +20408,6 @@
         "densEstBayes",
         "KEGGREST",
         "progress",
-        "tidyselect",
         "rstan",
         "annotate"
     ],
@@ -21171,15 +20441,13 @@
         "forcats",
         "tidyr",
         "viridis",
-        "dbplyr",
-        "tidyselect"
+        "dbplyr"
     ],
     "ribor": [
         "dplyr",
         "ggplot2",
         "tidyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "riboSeqR": [
         "GenomicRanges",
@@ -21217,7 +20485,6 @@
         "readr",
         "annotate",
         "GO.db",
-        "tidyselect",
         "vroom"
     ],
     "rifi": [
@@ -21231,7 +20498,6 @@
         "rtracklayer",
         "pbkrtest",
         "lme4",
-        "tidyselect",
         "GenomicRanges",
         "Biostrings",
         "Rsamtools",
@@ -21247,8 +20513,7 @@
         "dplyr",
         "sqldf",
         "RSQLite",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "Ringo": [
         "genefilter",
@@ -21288,7 +20553,6 @@
         "SummarizedExperiment",
         "ensembldb",
         "AnnotationFilter",
-        "tidyselect",
         "viridis"
     ],
     "Risa": [
@@ -21324,7 +20588,6 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "tidyselect",
         "GenomicAlignments",
         "GO.db",
         "dbplyr",
@@ -21363,7 +20626,6 @@
         "interactiveDisplayBase",
         "caret",
         "tibble",
-        "tidyselect",
         "Biostrings",
         "biomaRt",
         "BSgenome",
@@ -21394,8 +20656,7 @@
         "vsn",
         "rvest",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "Rmmquant": [
         "GenomicRanges",
@@ -21431,8 +20692,7 @@
         "GenomicAlignments",
         "rematch2",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "rmspc": [
         "rtracklayer",
@@ -21466,7 +20726,6 @@
         "dplyr",
         "tidyr",
         "Biostrings",
-        "tidyselect",
         "biomaRt",
         "VariantAnnotation",
         "viridis",
@@ -21503,7 +20762,6 @@
         "BiocFileCache",
         "tibble",
         "ggplot2",
-        "tidyselect",
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
@@ -21552,8 +20810,7 @@
         "AnnotationFilter",
         "dbplyr",
         "dplyr",
-        "viridis",
-        "tidyselect"
+        "viridis"
     ],
     "RNAmodR.AlkAnilineSeq": [
         "RNAmodR",
@@ -21582,8 +20839,7 @@
         "tibble",
         "dbplyr",
         "dplyr",
-        "viridis",
-        "tidyselect"
+        "viridis"
     ],
     "RNAmodR.ML": [
         "RNAmodR",
@@ -21612,8 +20868,7 @@
         "AnnotationFilter",
         "dbplyr",
         "dplyr",
-        "viridis",
-        "tidyselect"
+        "viridis"
     ],
     "RNAmodR.RiboMethSeq": [
         "RNAmodR",
@@ -21642,8 +20897,7 @@
         "tibble",
         "dbplyr",
         "dplyr",
-        "viridis",
-        "tidyselect"
+        "viridis"
     ],
     "RNAsense": [
         "ggplot2",
@@ -21694,7 +20948,6 @@
         "pbkrtest",
         "lme4",
         "viridis",
-        "tidyselect",
         "aplot",
         "ggnewscale",
         "ggraph",
@@ -21730,7 +20983,6 @@
         "SummarizedExperiment",
         "tidyr",
         "dplyr",
-        "tidyselect",
         "AnnotationDbi",
         "progress",
         "BiocFileCache",
@@ -21800,7 +21052,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
-        "tidyselect",
         "vroom"
     ],
     "roar": [
@@ -21840,8 +21091,7 @@
         "GenomicRanges",
         "tidyr",
         "ggrepel",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "RPA": [
         "BiocStyle",
@@ -21866,8 +21116,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "Rqc": [
         "ShortRead",
@@ -21899,8 +21148,7 @@
         "progress",
         "BiocFileCache",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "rqt": [
         "SummarizedExperiment",
@@ -21924,7 +21172,6 @@
         "broom",
         "dplyr",
         "sn",
-        "tidyselect",
         "testthat",
         "waldo",
         "rematch2"
@@ -21934,8 +21181,7 @@
         "tidyr",
         "ggplot2",
         "tibble",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "rRDP": [
         "Biostrings"
@@ -21963,8 +21209,7 @@
     ],
     "rsemmed": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "RSVSim": [
         "Biostrings",
@@ -21983,7 +21228,6 @@
         "viridis",
         "rmarkdown",
         "tibble",
-        "tidyselect",
         "ggpubr",
         "broom",
         "tidyr",
@@ -22023,7 +21267,6 @@
         "tidyr",
         "progress",
         "BiocFileCache",
-        "tidyselect",
         "vroom",
         "Rsamtools",
         "GenomicAlignments",
@@ -22042,7 +21285,6 @@
         "tibble",
         "tidyr",
         "ggplot2",
-        "tidyselect",
         "testthat",
         "waldo",
         "rematch2"
@@ -22061,7 +21303,6 @@
         "tibble",
         "tidyr",
         "ggplot2",
-        "tidyselect",
         "testthat",
         "waldo",
         "rematch2"
@@ -22082,7 +21323,6 @@
         "broom",
         "dplyr",
         "tidyr",
-        "tidyselect",
         "testthat",
         "waldo",
         "rematch2"
@@ -22092,8 +21332,7 @@
         "dplyr",
         "tidyr",
         "ggplot2",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "rtracklayer": [
         "GenomicRanges",
@@ -22140,7 +21379,6 @@
         "waldo",
         "tibble",
         "dplyr",
-        "tidyselect",
         "rematch2"
     ],
     "RUVSeq": [
@@ -22161,8 +21399,7 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "RVS": [
         "gRain",
@@ -22170,14 +21407,12 @@
         "dplyr",
         "tibble",
         "tidyr",
-        "ggplot2",
-        "tidyselect"
+        "ggplot2"
     ],
     "rWikiPathways": [
         "tidyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "safe": [
         "AnnotationDbi",
@@ -22204,8 +21439,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "Biostrings",
-        "tidyselect"
+        "Biostrings"
     ],
     "sangeranalyseR": [
         "Biostrings",
@@ -22225,8 +21459,7 @@
         "ggplot2",
         "tidyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "sangerseqR": [
         "Biostrings",
@@ -22291,8 +21524,7 @@
         "GenomicRanges",
         "tfruns",
         "tidyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "SCAN.UPC": [
         "oligo",
@@ -22306,7 +21538,6 @@
         "RSQLite",
         "genefilter",
         "tibble",
-        "tidyselect",
         "AnnotationDbi",
         "annotate",
         "GenomicRanges",
@@ -22356,7 +21587,6 @@
         "cowplot",
         "dbplyr",
         "progress",
-        "tidyselect",
         "SummarizedExperiment"
     ],
     "scAnnotatR": [
@@ -22373,7 +21603,6 @@
         "interactiveDisplayBase",
         "recipes",
         "tibble",
-        "tidyselect",
         "cowplot",
         "ggrepel",
         "ggridges",
@@ -22425,7 +21654,6 @@
         "dbplyr",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "shiny"
     ],
     "scater": [
@@ -22473,7 +21701,6 @@
         "dplyr",
         "RSQLite",
         "KEGGREST",
-        "tidyselect",
         "Biostrings"
     ],
     "scBubbletree": [
@@ -22498,8 +21725,7 @@
         "SeuratObject",
         "shiny",
         "spatstat.explore",
-        "ggplotify",
-        "tidyselect"
+        "ggplotify"
     ],
     "scCB2": [
         "SingleCellExperiment",
@@ -22522,8 +21748,7 @@
         "spatstat.explore",
         "tibble",
         "tidyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "scClassify": [
         "ggraph",
@@ -22539,7 +21764,6 @@
         "ggrepel",
         "viridis",
         "tidygraph",
-        "tidyselect",
         "annotate",
         "AnnotationDbi",
         "GenomicRanges",
@@ -22555,7 +21779,6 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "tidyselect",
         "ggplot2",
         "ggrepel",
         "patchwork",
@@ -22585,8 +21808,7 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "tidyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "scDblFinder": [
         "SingleCellExperiment",
@@ -22646,15 +21868,13 @@
         "SummarizedExperiment",
         "dplyr",
         "tibble",
-        "tidyselect",
         "GenomicRanges"
     ],
     "SCFA": [],
     "scFeatureFilter": [
         "dplyr",
         "ggplot2",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "scGPS": [
         "SummarizedExperiment",
@@ -22667,7 +21887,6 @@
         "GenomicRanges",
         "geneplotter",
         "tibble",
-        "tidyselect",
         "annotate",
         "AnnotationDbi",
         "hardhat",
@@ -22689,7 +21908,6 @@
         "concaveman",
         "sf",
         "tibble",
-        "tidyselect",
         "cowplot",
         "ggrepel",
         "ggridges",
@@ -22709,7 +21927,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "ggforce",
-        "tidyselect",
         "tibble",
         "GenomicRanges"
     ],
@@ -22723,7 +21940,6 @@
         "kableExtra",
         "tibble",
         "RSQLite",
-        "tidyselect",
         "rvest",
         "shiny"
     ],
@@ -22743,8 +21959,7 @@
         "shiny",
         "spatstat.explore",
         "tidyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "scmap": [
         "SingleCellExperiment",
@@ -22752,7 +21967,6 @@
         "dplyr",
         "ggplot2",
         "tibble",
-        "tidyselect",
         "GenomicRanges"
     ],
     "scMerge": [
@@ -22782,7 +21996,6 @@
         "bookdown",
         "rmarkdown",
         "tibble",
-        "tidyselect",
         "GenomicRanges"
     ],
     "scmeth": [
@@ -22808,7 +22021,6 @@
         "KEGGREST",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "biomaRt",
         "shiny",
         "vroom",
@@ -22843,15 +22055,13 @@
         "GenomicAlignments",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "Sconify": [
         "tibble",
         "dplyr",
         "ggplot2",
         "readr",
-        "tidyselect",
         "vroom",
         "progress"
     ],
@@ -22888,8 +22098,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "scp": [
         "QFeatures",
@@ -22898,7 +22107,6 @@
         "MultiAssayExperiment",
         "dplyr",
         "tibble",
-        "tidyselect",
         "GenomicRanges",
         "tidyr",
         "AnnotationFilter",
@@ -22908,8 +22116,7 @@
     "scPCA": [
         "tibble",
         "dplyr",
-        "origami",
-        "tidyselect"
+        "origami"
     ],
     "scPipe": [
         "ggplot2",
@@ -22930,7 +22137,6 @@
         "progress",
         "BiocFileCache",
         "tibble",
-        "tidyselect",
         "forcats",
         "tidyr",
         "Biostrings",
@@ -22969,8 +22175,7 @@
         "ggvenn",
         "ggplot2",
         "tidyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "scRepertoire": [
         "ggplot2",
@@ -22983,7 +22188,6 @@
         "tidygraph",
         "SeuratObject",
         "tibble",
-        "tidyselect",
         "tidyr",
         "ggforce",
         "ggrepel",
@@ -23022,8 +22226,7 @@
         "forcats",
         "tidyr",
         "viridis",
-        "dbplyr",
-        "tidyselect"
+        "dbplyr"
     ],
     "scry": [
         "SingleCellExperiment",
@@ -23084,7 +22287,6 @@
         "GenomicRanges",
         "dbplyr",
         "sf",
-        "tidyselect",
         "aplot",
         "ggnewscale",
         "scatterpie",
@@ -23123,7 +22325,6 @@
         "AnnotationDbi",
         "babelgene",
         "dplyr",
-        "tidyselect",
         "fields",
         "tidyr",
         "Seurat",
@@ -23184,7 +22385,6 @@
         "shiny",
         "spatstat.explore",
         "AnnotationDbi",
-        "tidyselect",
         "AnnotationFilter",
         "RSQLite",
         "rtracklayer",
@@ -23229,7 +22429,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "aplot",
         "DOSE",
         "ggnewscale",
@@ -23288,7 +22487,6 @@
         "rtracklayer",
         "biomaRt",
         "dplyr",
-        "tidyselect",
         "KEGGREST",
         "progress",
         "BiocFileCache",
@@ -23324,7 +22522,6 @@
         "ggplot2",
         "viridis",
         "tibble",
-        "tidyselect",
         "Biostrings"
     ],
     "seqArchR": [
@@ -23350,7 +22547,6 @@
         "SummarizedExperiment",
         "tidyr",
         "tibble",
-        "tidyselect",
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
@@ -23388,7 +22584,6 @@
         "dplyr",
         "annotate",
         "tibble",
-        "tidyselect",
         "Biostrings"
     ],
     "seqPattern": [
@@ -23427,7 +22622,6 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "dbplyr",
-        "tidyselect",
         "KEGGREST",
         "shiny",
         "Biostrings"
@@ -23442,8 +22636,7 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "ggplot2",
-        "tidyselect"
+        "ggplot2"
     ],
     "sesame": [
         "sesameData",
@@ -23456,7 +22649,6 @@
         "dplyr",
         "dbplyr",
         "RSQLite",
-        "tidyselect",
         "vroom",
         "ExperimentHub",
         "AnnotationHub",
@@ -23494,7 +22686,6 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "tidyselect",
         "progress"
     ],
     "SGSeq": [
@@ -23513,8 +22704,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "shinyepico": [
         "dplyr",
@@ -23532,7 +22722,6 @@
         "shinythemes",
         "tidyr",
         "tibble",
-        "tidyselect",
         "viridis",
         "dendextend",
         "egg",
@@ -23576,7 +22765,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -23627,7 +22815,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "Biostrings"
     ],
     "sigFeature": [
@@ -23668,7 +22855,6 @@
         "gson",
         "tidyr",
         "HDO.db",
-        "tidyselect",
         "AnnotationHub",
         "BiocFileCache",
         "cowplot",
@@ -23723,7 +22909,6 @@
         "RSQLite",
         "Rsamtools",
         "rmarkdown",
-        "tidyselect",
         "ggrepel",
         "ggsci",
         "ggsignif",
@@ -23769,7 +22954,6 @@
         "KEGGREST",
         "genefu",
         "tibble",
-        "tidyselect",
         "GenomicRanges",
         "GenomicFeatures",
         "AnnotationFilter",
@@ -23828,8 +23012,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SIM": [
         "globaltest",
@@ -23863,7 +23046,6 @@
         "SummarizedExperiment",
         "tidyr",
         "tibble",
-        "tidyselect",
         "Biostrings",
         "GenomicRanges"
     ],
@@ -23872,8 +23054,7 @@
         "dplyr",
         "GenomicRanges",
         "Rsamtools",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "simpleSeg": [
         "SummarizedExperiment",
@@ -23892,8 +23073,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "scuttle",
-        "tidyselect"
+        "scuttle"
     ],
     "simplifyEnrichment": [
         "GOSemSim",
@@ -23917,7 +23097,6 @@
         "Rsamtools",
         "tidyr",
         "tibble",
-        "tidyselect",
         "GenomicRanges",
         "SummarizedExperiment"
     ],
@@ -23992,7 +23171,6 @@
         "miniUI",
         "GenomicRanges",
         "geneplotter",
-        "tidyselect",
         "GenomicFeatures",
         "AnnotationFilter",
         "rtracklayer",
@@ -24056,8 +23234,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SingleR": [
         "SummarizedExperiment",
@@ -24076,7 +23253,6 @@
         "AnnotationDbi",
         "dplyr",
         "GenomicRanges",
-        "tidyselect",
         "RSQLite",
         "KEGGREST",
         "Biostrings"
@@ -24113,8 +23289,7 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "sitePath": [
         "aplot",
@@ -24128,8 +23303,7 @@
         "tibble",
         "dplyr",
         "tidyr",
-        "treeio",
-        "tidyselect"
+        "treeio"
     ],
     "skewr": [
         "methylumi",
@@ -24162,7 +23336,6 @@
         "tibble",
         "progress",
         "BiocFileCache",
-        "tidyselect",
         "vroom",
         "Rsamtools",
         "GenomicAlignments",
@@ -24190,8 +23363,7 @@
     "SMAD": [
         "dplyr",
         "tidyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SMITE": [
         "GenomicRanges",
@@ -24218,8 +23390,7 @@
         "BiocFileCache",
         "SummarizedExperiment",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "snapCGH": [
         "tilingArray",
@@ -24267,8 +23438,7 @@
         "progress",
         "BiocFileCache",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "soGGi": [
         "SummarizedExperiment",
@@ -24288,8 +23458,7 @@
         "sampSurf",
         "shiny",
         "shinyjs",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SomaticSignatures": [
         "VariantAnnotation",
@@ -24321,7 +23490,6 @@
         "tidyr",
         "viridis",
         "BiocFileCache",
-        "tidyselect",
         "dbplyr"
     ],
     "SpacePAC": [
@@ -24339,7 +23507,6 @@
         "shiny",
         "DropletUtils",
         "tibble",
-        "tidyselect",
         "GenomicRanges",
         "scuttle",
         "BiocSingular",
@@ -24373,7 +23540,6 @@
         "tidyr",
         "annotate",
         "RSQLite",
-        "tidyselect",
         "Biostrings"
     ],
     "sparseDOSSA": [
@@ -24398,7 +23564,6 @@
         "SpatialExperiment",
         "SummarizedExperiment",
         "tibble",
-        "tidyselect",
         "SingleCellExperiment",
         "DropletUtils",
         "BiocFileCache",
@@ -24421,7 +23586,6 @@
         "SummarizedExperiment",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom",
         "GenomicRanges",
         "progress"
@@ -24439,8 +23603,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "scuttle",
-        "tidyselect"
+        "scuttle"
     ],
     "SpatialDecon": [
         "SeuratObject",
@@ -24453,7 +23616,6 @@
         "GGally",
         "ggplot2",
         "tibble",
-        "tidyselect",
         "forcats",
         "progress",
         "tidyr",
@@ -24478,8 +23640,7 @@
         "RSQLite",
         "GenomicRanges",
         "scuttle",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SpatialFeatureExperiment": [
         "sf",
@@ -24494,8 +23655,7 @@
         "dplyr",
         "RSQLite",
         "scuttle",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "spatialHeatmap": [
         "BiocFileCache",
@@ -24517,7 +23677,6 @@
         "UpSetR",
         "dbplyr",
         "RSQLite",
-        "tidyselect",
         "AnnotationDbi",
         "annotate",
         "tidyr",
@@ -24560,7 +23719,6 @@
         "readr",
         "annotate",
         "GO.db",
-        "tidyselect",
         "ensembldb",
         "biovizBase",
         "dbplyr",
@@ -24584,7 +23742,6 @@
         "HiCcompare",
         "GenomicRanges",
         "tibble",
-        "tidyselect",
         "ggplot2",
         "InteractionSet",
         "QDNAseq",
@@ -24609,7 +23766,6 @@
         "ggrepel",
         "ggridges",
         "SingleCellExperiment",
-        "tidyselect",
         "tidyr",
         "DropletUtils",
         "BiocFileCache",
@@ -24637,7 +23793,6 @@
         "ggforce",
         "sf",
         "tibble",
-        "tidyselect",
         "nloptr",
         "GenomicRanges",
         "DropletUtils",
@@ -24717,8 +23872,7 @@
         "ExperimentHub",
         "tidyr",
         "GenomicAlignments",
-        "KEGGREST",
-        "tidyselect"
+        "KEGGREST"
     ],
     "SplicingFactory": [
         "SummarizedExperiment",
@@ -24740,8 +23894,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "splineTimeR": [
         "GSEABase",
@@ -24777,7 +23930,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "tidyselect",
         "viridis"
     ],
     "SPONGE": [
@@ -24799,7 +23951,6 @@
         "lme4",
         "rearrr",
         "tibble",
-        "tidyselect",
         "ggrepel",
         "ggsci",
         "cowplot",
@@ -24842,7 +23993,6 @@
         "tibble",
         "viridis",
         "Seurat",
-        "tidyselect",
         "cowplot",
         "ggrepel",
         "ggridges",
@@ -24898,8 +24048,7 @@
         "dplyr",
         "dbplyr",
         "RSQLite",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "sRACIPE": [
         "SummarizedExperiment",
@@ -24914,7 +24063,6 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "tidyselect",
         "vroom",
         "progress"
     ],
@@ -24958,8 +24106,7 @@
         "dbplyr",
         "dplyr",
         "viridis",
-        "rematch2",
-        "tidyselect"
+        "rematch2"
     ],
     "sscu": [
         "Biostrings"
@@ -24974,7 +24121,6 @@
         "SummarizedExperiment",
         "ggforce",
         "ggnewscale",
-        "tidyselect",
         "ggrepel",
         "viridis",
         "tidygraph",
@@ -25003,7 +24149,6 @@
         "labelled",
         "dplyr",
         "tidyr",
-        "tidyselect",
         "haven",
         "forcats",
         "readr",
@@ -25049,8 +24194,7 @@
         "dplyr",
         "ggplot2",
         "viridis",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "standR": [
         "dplyr",
@@ -25065,7 +24209,6 @@
         "patchwork",
         "ggalluvial",
         "RUVSeq",
-        "tidyselect",
         "vroom",
         "EDASeq",
         "GenomicRanges",
@@ -25125,7 +24268,6 @@
         "tidyr",
         "SingleCellExperiment",
         "tibble",
-        "tidyselect",
         "ggplot2",
         "sf",
         "SummarizedExperiment",
@@ -25156,7 +24298,6 @@
         "ggforce",
         "ggfun",
         "tidyr",
-        "tidyselect",
         "dplyr"
     ],
     "stJoincount": [
@@ -25167,7 +24308,6 @@
         "SpatialExperiment",
         "SummarizedExperiment",
         "tibble",
-        "tidyselect",
         "cowplot",
         "ggrepel",
         "ggridges",
@@ -25198,7 +24338,6 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "rmarkdown",
         "tibble",
-        "tidyselect",
         "SummarizedExperiment",
         "Biostrings",
         "GenomicFeatures",
@@ -25243,7 +24382,6 @@
         "GenomicFeatures",
         "SummarizedExperiment",
         "tibble",
-        "tidyselect",
         "AnnotationDbi",
         "RSQLite",
         "biomaRt",
@@ -25270,7 +24408,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "tidyselect",
         "prodlim",
         "lava"
     ],
@@ -25279,8 +24416,7 @@
         "tidyr",
         "ggplot2",
         "qvalue",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SUITOR": [
         "ggplot2",
@@ -25293,7 +24429,6 @@
         "ggplot2",
         "dplyr",
         "tibble",
-        "tidyselect",
         "GenomicRanges"
     ],
     "SummarizedExperiment": [
@@ -25316,7 +24451,6 @@
         "ggplot2",
         "recipes",
         "tibble",
-        "tidyselect",
         "GenomicRanges",
         "hardhat",
         "ipred",
@@ -25328,7 +24462,6 @@
         "tibble",
         "tidyr",
         "dplyr",
-        "tidyselect",
         "vroom",
         "progress"
     ],
@@ -25344,7 +24477,6 @@
         "progress",
         "BiocFileCache",
         "tibble",
-        "tidyselect",
         "vroom",
         "waldo",
         "RSQLite",
@@ -25370,7 +24502,6 @@
         "survMisc",
         "tibble",
         "ggtext",
-        "tidyselect",
         "ggrepel",
         "ggsci",
         "cowplot",
@@ -25401,7 +24532,6 @@
         "dplyr",
         "GenomicFeatures",
         "tibble",
-        "tidyselect",
         "AnnotationDbi",
         "RSQLite",
         "biomaRt",
@@ -25423,7 +24553,6 @@
         "dplyr",
         "GenomicFeatures",
         "tibble",
-        "tidyselect",
         "AnnotationDbi",
         "RSQLite",
         "biomaRt",
@@ -25447,7 +24576,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "tidyselect",
         "Biostrings"
     ],
     "switchde": [
@@ -25456,7 +24584,6 @@
         "dplyr",
         "ggplot2",
         "tibble",
-        "tidyselect",
         "GenomicRanges"
     ],
     "synapsis": [],
@@ -25471,7 +24598,6 @@
         "ggplot2",
         "tibble",
         "vroom",
-        "tidyselect",
         "progress"
     ],
     "synergyfinder": [
@@ -25488,7 +24614,6 @@
         "mice",
         "metR",
         "tibble",
-        "tidyselect",
         "car",
         "multcomp",
         "sf",
@@ -25532,7 +24657,6 @@
         "broom",
         "pbkrtest",
         "tibble",
-        "tidyselect",
         "tidyr",
         "lme4",
         "nloptr",
@@ -25591,7 +24715,6 @@
         "vroom",
         "RSQLite",
         "rmarkdown",
-        "tidyselect",
         "tidyr",
         "fresh",
         "waiter",
@@ -25609,7 +24732,6 @@
         "tibble",
         "GenomicRanges",
         "geneplotter",
-        "tidyselect",
         "forcats",
         "progress",
         "tidyr",
@@ -25633,7 +24755,6 @@
         "ggpubr",
         "cowplot",
         "tibble",
-        "tidyselect",
         "ggrepel",
         "ggsci",
         "ggsignif",
@@ -25664,8 +24785,7 @@
         "tidytree",
         "treeio",
         "ggplotify",
-        "patchwork",
-        "tidyselect"
+        "patchwork"
     ],
     "TAPseq": [
         "GenomicAlignments",
@@ -25678,7 +24798,6 @@
         "rtracklayer",
         "Rsamtools",
         "tibble",
-        "tidyselect",
         "SummarizedExperiment",
         "AnnotationDbi",
         "RSQLite",
@@ -25705,7 +24824,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "tidyselect",
         "broom",
         "car",
         "pbkrtest",
@@ -25748,7 +24866,6 @@
         "AnnotationDbi",
         "dplyr",
         "genefilter",
-        "tidyselect",
         "RSQLite",
         "KEGGREST",
         "Biostrings"
@@ -25780,7 +24897,6 @@
         "AnnotationDbi",
         "progress",
         "BiocFileCache",
-        "tidyselect",
         "vroom",
         "RSQLite",
         "KEGGREST",
@@ -25837,7 +24953,6 @@
         "dbplyr",
         "HDO.db",
         "fgsea",
-        "tidyselect",
         "aplot",
         "ggnewscale",
         "ggraph",
@@ -25901,7 +25016,6 @@
         "tidyr",
         "progress",
         "BiocFileCache",
-        "tidyselect",
         "vroom",
         "Rsamtools",
         "GenomicAlignments",
@@ -25936,7 +25050,6 @@
         "dplyr",
         "annotate",
         "tibble",
-        "tidyselect",
         "Biostrings"
     ],
     "TENxIO": [
@@ -25946,7 +25059,6 @@
         "readr",
         "tibble",
         "vroom",
-        "tidyselect",
         "progress"
     ],
     "tenXplore": [
@@ -25969,7 +25081,6 @@
         "progress",
         "tibble",
         "dbplyr",
-        "tidyselect",
         "Biostrings"
     ],
     "TEQC": [
@@ -25988,7 +25099,6 @@
         "tidyr",
         "TCGAutils",
         "tibble",
-        "tidyselect",
         "shiny",
         "miniUI",
         "dbplyr",
@@ -26032,7 +25142,6 @@
         "SummarizedExperiment",
         "tibble",
         "vroom",
-        "tidyselect",
         "progress"
     ],
     "TFEA.ChIP": [
@@ -26045,7 +25154,6 @@
         "progress",
         "BiocFileCache",
         "tibble",
-        "tidyselect",
         "RSQLite",
         "Biostrings",
         "rtracklayer",
@@ -26080,7 +25188,6 @@
         "readr",
         "geneplotter",
         "dbplyr",
-        "tidyselect",
         "annotate",
         "vroom"
     ],
@@ -26098,7 +25205,6 @@
         "KEGGREST",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "annotate",
         "cellranger",
         "progress",
@@ -26110,7 +25216,6 @@
         "readr",
         "dplyr",
         "tidyr",
-        "tidyselect",
         "SummarizedExperiment",
         "GenomicRanges",
         "vroom",
@@ -26125,7 +25230,6 @@
         "tidyr",
         "ggplot2",
         "plotly",
-        "tidyselect",
         "GenomicRanges"
     ],
     "tidySummarizedExperiment": [
@@ -26135,7 +25239,6 @@
         "tidyr",
         "ggplot2",
         "plotly",
-        "tidyselect",
         "GenomicRanges"
     ],
     "tigre": [
@@ -26164,13 +25267,11 @@
         "tibble",
         "ggplot2",
         "ggrepel",
-        "propr",
-        "tidyselect"
+        "propr"
     ],
     "timescape": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "TimiRGeN": [
         "MultiAssayExperiment",
@@ -26195,7 +25296,6 @@
         "gson",
         "qvalue",
         "tibble",
-        "tidyselect",
         "shiny",
         "ggrepel",
         "SummarizedExperiment",
@@ -26247,7 +25347,6 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "tidyselect",
         "annotate",
         "AnnotationDbi",
         "GenomicRanges",
@@ -26260,7 +25359,6 @@
         "VariantAnnotation",
         "dplyr",
         "tibble",
-        "tidyselect",
         "SummarizedExperiment",
         "Rsamtools",
         "Biostrings",
@@ -26287,7 +25385,6 @@
         "recipes",
         "tibble",
         "butcher",
-        "tidyselect",
         "tidyr",
         "visdat",
         "forcats",
@@ -26334,7 +25431,6 @@
         "SingleCellExperiment",
         "BiocSingular",
         "GenomicRanges",
-        "tidyselect",
         "annotate",
         "AnnotationDbi",
         "broom",
@@ -26361,8 +25457,7 @@
         "forcats",
         "progress",
         "tibble",
-        "GenomicRanges",
-        "tidyselect"
+        "GenomicRanges"
     ],
     "tomoda": [
         "ggplot2",
@@ -26381,7 +25476,6 @@
         "ggplot2",
         "dbplyr",
         "RSQLite",
-        "tidyselect",
         "tidyr",
         "vroom",
         "progress"
@@ -26414,7 +25508,6 @@
         "MultiAssayExperiment",
         "piano",
         "bench",
-        "tidyselect",
         "GenomicRanges",
         "fgsea",
         "shiny",
@@ -26429,15 +25522,13 @@
         "broom",
         "ggplot2",
         "rmarkdown",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "TPP2D": [
         "dplyr",
         "ggplot2",
         "tidyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "tracktables": [
         "GenomicRanges",
@@ -26470,8 +25561,7 @@
         "dplyr",
         "ggplot2",
         "viridis",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "tradeSeq": [
         "SingleCellExperiment",
@@ -26502,7 +25592,6 @@
         "BiocFileCache",
         "tibble",
         "dplyr",
-        "tidyselect",
         "GO.db",
         "RSQLite",
         "KEGGREST",
@@ -26533,7 +25622,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "tidyselect",
         "dbplyr",
         "prodlim",
         "lava"
@@ -26550,8 +25638,7 @@
         "GenomicRanges",
         "ggplot2",
         "ggseqlogo",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "tRanslatome": [
         "anota",
@@ -26577,7 +25664,6 @@
         "KEGGREST",
         "dplyr",
         "tibble",
-        "tidyselect",
         "Biostrings",
         "IRkernel",
         "IRdisplay",
@@ -26618,7 +25704,6 @@
         "dplyr",
         "tibble",
         "tidytree",
-        "tidyselect",
         "tidyr"
     ],
     "treekoR": [
@@ -26635,7 +25720,6 @@
         "FlowSOM",
         "SummarizedExperiment",
         "tibble",
-        "tidyselect",
         "aplot",
         "ggfun",
         "tidytree",
@@ -26665,7 +25749,6 @@
         "SummarizedExperiment",
         "treeio",
         "tibble",
-        "tidyselect",
         "GenomicRanges",
         "tidytree",
         "tidyr"
@@ -26701,7 +25784,6 @@
         "viridis",
         "GenomicAlignments",
         "tibble",
-        "tidyselect",
         "SummarizedExperiment"
     ],
     "Trendy": [
@@ -26727,8 +25809,7 @@
         "SummarizedExperiment",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "tricycle": [
         "SingleCellExperiment",
@@ -26743,7 +25824,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "scuttle",
         "BiocSingular",
         "ggbeeswarm",
@@ -26780,7 +25860,6 @@
         "dplyr",
         "golem",
         "tibble",
-        "tidyselect",
         "usethis",
         "ggplot2",
         "tidyr"
@@ -26834,7 +25913,6 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "tibble",
-        "tidyselect",
         "longitudinalData",
         "kml"
     ],
@@ -26852,7 +25930,6 @@
         "tfruns",
         "lexicon",
         "textclean",
-        "tidyselect",
         "syuzhet",
         "vroom",
         "ggplot2",
@@ -26884,8 +25961,7 @@
         "SummarizedExperiment",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "tximeta": [
         "SummarizedExperiment",
@@ -26907,7 +25983,6 @@
         "Rsamtools",
         "biomaRt",
         "progress",
-        "tidyselect",
         "shiny",
         "GenomicAlignments"
     ],
@@ -26947,8 +26022,7 @@
         "dbplyr",
         "ggplotify",
         "plyranges",
-        "progress",
-        "tidyselect"
+        "progress"
     ],
     "UMI4Cats": [
         "SummarizedExperiment",
@@ -26976,7 +26050,6 @@
         "rtracklayer",
         "geneplotter",
         "tibble",
-        "tidyselect",
         "fds",
         "biomaRt",
         "KEGGREST",
@@ -27010,7 +26083,6 @@
         "BSgenome",
         "rmarkdown",
         "tibble",
-        "tidyselect",
         "ensembldb",
         "rtracklayer",
         "biomaRt",
@@ -27038,7 +26110,6 @@
         "dbplyr",
         "dplyr",
         "tibble",
-        "tidyselect",
         "Biostrings"
     ],
     "Uniquorn": [
@@ -27059,8 +26130,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "universalmotif": [
         "ggplot2",
@@ -27072,8 +26142,7 @@
         "ggplot2",
         "tibble",
         "dplyr",
-        "viridis",
-        "tidyselect"
+        "viridis"
     ],
     "VAExprs": [
         "keras",
@@ -27098,7 +26167,6 @@
         "ggrastr",
         "ggrepel",
         "GenomicRanges",
-        "tidyselect",
         "vroom",
         "text2vec",
         "textstem",
@@ -27146,7 +26214,6 @@
         "broom",
         "dplyr",
         "tidyr",
-        "tidyselect",
         "testthat",
         "waldo",
         "rematch2"
@@ -27168,8 +26235,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "VariantExperiment": [
         "SummarizedExperiment",
@@ -27184,8 +26250,7 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "ggplot2",
-        "tidyselect"
+        "ggplot2"
     ],
     "VariantFiltering": [
         "VariantAnnotation",
@@ -27218,7 +26283,6 @@
         "Hmisc",
         "AnnotationFilter",
         "tibble",
-        "tidyselect",
         "ggplot2",
         "viridis"
     ],
@@ -27240,8 +26304,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "VaSP": [
         "ballgown",
@@ -27277,8 +26340,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "VDJdive": [
         "cowplot",
@@ -27298,7 +26360,6 @@
         "dbplyr",
         "dplyr",
         "tibble",
-        "tidyselect",
         "Biostrings"
     ],
     "velociraptor": [
@@ -27313,8 +26374,7 @@
         "dplyr",
         "tibble",
         "ggplot2",
-        "UpSetR",
-        "tidyselect"
+        "UpSetR"
     ],
     "vidger": [
         "DESeq2",
@@ -27330,7 +26390,6 @@
         "forcats",
         "progress",
         "tibble",
-        "tidyselect",
         "annotate",
         "AnnotationDbi",
         "RSQLite",
@@ -27364,7 +26423,6 @@
         "cowplot",
         "egg",
         "dbplyr",
-        "tidyselect",
         "Biostrings",
         "vroom"
     ],
@@ -27378,7 +26436,6 @@
         "textstem",
         "tidygraph",
         "ggraph",
-        "tidyselect",
         "tibble",
         "dplyr",
         "viridis",
@@ -27418,8 +26475,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "scuttle",
-        "tidyselect"
+        "scuttle"
     ],
     "VplotR": [
         "GenomicRanges",
@@ -27440,8 +26496,7 @@
         "tidyr",
         "ggplot2",
         "tibble",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "vsn": [
         "ggplot2",
@@ -27470,7 +26525,6 @@
         "Rsamtools",
         "BSgenome",
         "progress",
-        "tidyselect",
         "shiny",
         "GenomicAlignments"
     ],
@@ -27505,7 +26559,6 @@
         "progress",
         "BiocFileCache",
         "tibble",
-        "tidyselect",
         "AnnotationFilter",
         "annotate",
         "BSgenome",
@@ -27525,7 +26578,6 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "tibble",
-        "tidyselect",
         "ggplot2",
         "nloptr",
         "testthat",
@@ -27564,7 +26616,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "dbplyr",
-        "tidyselect",
         "vroom"
     ],
     "wavClusteR": [
@@ -27586,8 +26637,7 @@
         "BiocFileCache",
         "SummarizedExperiment",
         "dbplyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "webbioc": [
         "annaffy",
@@ -27608,7 +26658,6 @@
         "dplyr",
         "ggplot2",
         "tibble",
-        "tidyselect",
         "GenomicRanges"
     ],
     "wiggleplotr": [
@@ -27618,7 +26667,6 @@
         "rtracklayer",
         "cowplot",
         "tibble",
-        "tidyselect",
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
@@ -27634,7 +26682,6 @@
         "shinyWidgets",
         "shinycustomloader",
         "tibble",
-        "tidyselect",
         "usethis",
         "GenomicRanges"
     ],
@@ -27644,7 +26691,6 @@
         "progress",
         "tibble",
         "tidyr",
-        "tidyselect",
         "readr",
         "readxl",
         "rmarkdown",
@@ -27667,8 +26713,7 @@
         "SummarizedExperiment",
         "tidyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "XDE": [
         "genefilter",
@@ -27696,7 +26741,6 @@
         "shinyjs",
         "shinydashboard",
         "dplyr",
-        "tidyselect",
         "cowplot"
     ],
     "XINA": [
@@ -27736,7 +26780,6 @@
         "BSgenome",
         "viridis",
         "tibble",
-        "tidyselect",
         "NMF",
         "ggbio",
         "SummarizedExperiment",
@@ -27781,7 +26824,6 @@
         "siggenes",
         "genefilter",
         "GEOquery",
-        "tidyselect",
         "GenomicFeatures",
         "annotate",
         "tidyr",
@@ -27815,7 +26857,6 @@
         "annotate",
         "babelgene",
         "dplyr",
-        "tidyselect",
         "pbkrtest",
         "lmerTest",
         "lme4",
@@ -27836,7 +26877,6 @@
         "tidyr",
         "SummarizedExperiment",
         "tibble",
-        "tidyselect",
         "GenomicRanges"
     ],
     "zinbwave": [
@@ -27877,8 +26917,7 @@
         "ggplot2",
         "tidyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "bookdown": [
         "rmarkdown"
@@ -27887,14 +26926,11 @@
     "tibble": [],
     "tidyr": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "dplyr": [
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
-    "tidyselect": [],
     "ggrepel": [
         "ggplot2",
         "tibble"
@@ -27909,7 +26945,6 @@
         "ggsignif",
         "rstatix",
         "tibble",
-        "tidyselect",
         "broom",
         "car",
         "pbkrtest",
@@ -27944,7 +26979,6 @@
         "broom",
         "tibble",
         "dplyr",
-        "tidyselect",
         "car",
         "ggplot2",
         "pbkrtest",
@@ -27962,8 +26996,7 @@
         "dplyr",
         "tibble",
         "tidyr",
-        "ggplot2",
-        "tidyselect"
+        "ggplot2"
     ],
     "car": [
         "pbkrtest",
@@ -27974,7 +27007,6 @@
         "tibble",
         "tidyr",
         "ggplot2",
-        "tidyselect",
         "testthat",
         "waldo",
         "rematch2"
@@ -27989,7 +27021,6 @@
         "tibble",
         "tidyr",
         "ggplot2",
-        "tidyselect",
         "nloptr",
         "testthat",
         "waldo",
@@ -28019,7 +27050,6 @@
         "KEGGREST",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
@@ -28029,8 +27059,7 @@
     "smoother": [],
     "dbplyr": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SAVER": [],
     "PFAM.db": [
@@ -28050,8 +27079,7 @@
         "forcats",
         "progress",
         "tidyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "forcats": [
         "tibble"
@@ -28103,19 +27131,16 @@
         "KEGGREST",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
     "readr": [
         "tibble",
         "vroom",
-        "tidyselect",
         "progress"
     ],
     "vroom": [
         "tibble",
-        "tidyselect",
         "progress"
     ],
     "ggthemes": [
@@ -28144,8 +27169,7 @@
     "tidytree": [
         "dplyr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "caret": [
         "ggplot2",
@@ -28155,7 +27179,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "tidyselect",
         "prodlim",
         "lava"
     ],
@@ -28175,7 +27198,6 @@
         "ipred",
         "tibble",
         "tidyr",
-        "tidyselect",
         "prodlim",
         "lava"
     ],
@@ -28221,8 +27243,7 @@
         "spatstat.explore",
         "tibble",
         "tidyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "org.Hs.eg.db": [
         "AnnotationDbi",
@@ -28251,8 +27272,7 @@
     "sctransform": [
         "dplyr",
         "ggplot2",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SeuratObject": [],
     "spatstat.explore": [],
@@ -28281,8 +27301,7 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "Homo.sapiens": [
         "AnnotationDbi",
@@ -28304,8 +27323,7 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SNPlocs.Hsapiens.dbSNP144.GRCh37": [
         "BSgenome",
@@ -28342,7 +27360,6 @@
         "GenomicAlignments",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "SummarizedExperiment",
         "shiny"
     ],
@@ -28363,7 +27380,6 @@
         "GenomicAlignments",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "SummarizedExperiment",
         "shiny"
     ],
@@ -28384,7 +27400,6 @@
         "GenomicAlignments",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "SummarizedExperiment",
         "shiny"
     ],
@@ -28406,8 +27421,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "PolyPhen.Hsapiens.dbSNP131": [
         "VariantAnnotation",
@@ -28427,8 +27441,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SIFT.Hsapiens.dbSNP137": [
         "VariantAnnotation",
@@ -28448,8 +27461,7 @@
         "BiocFileCache",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "FDb.InfiniumMethylation.hg19": [
         "GenomicFeatures",
@@ -28469,8 +27481,7 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "UpSetR": [
         "ggplot2",
@@ -28481,14 +27492,12 @@
         "ggplot2",
         "dplyr",
         "tidyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "msigdbr": [
         "babelgene",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "tidyverse": [
         "broom",
@@ -28507,7 +27516,6 @@
         "rvest",
         "tibble",
         "tidyr",
-        "tidyselect",
         "cellranger",
         "rematch2",
         "vroom",
@@ -28534,8 +27542,7 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "BSgenome.Mmusculus.UCSC.mm10": [
         "BSgenome",
@@ -28548,8 +27555,7 @@
     ],
     "babelgene": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "TxDb.Mmusculus.UCSC.mm10.knownGene": [
         "GenomicFeatures",
@@ -28567,8 +27573,7 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "NMF": [
         "ggplot2",
@@ -28578,7 +27583,6 @@
         "ggplot2",
         "dplyr",
         "tidyr",
-        "tidyselect",
         "tibble"
     ],
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [
@@ -28597,13 +27601,11 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "dtplyr": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "googledrive": [
         "tibble"
@@ -28618,7 +27620,6 @@
         "forcats",
         "readr",
         "tibble",
-        "tidyselect",
         "vroom",
         "progress"
     ],
@@ -28626,7 +27627,6 @@
         "broom",
         "tibble",
         "tidyr",
-        "tidyselect",
         "dplyr",
         "ggplot2"
     ],
@@ -28647,7 +27647,6 @@
         "pbkrtest",
         "tibble",
         "tidyr",
-        "tidyselect",
         "lme4",
         "nloptr",
         "testthat",
@@ -28668,8 +27667,7 @@
     "ggvis": [
         "shiny",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "rstan": [
         "ggplot2",
@@ -28711,8 +27709,7 @@
         "egg",
         "tibble",
         "tidyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "egg": [
         "ggplot2",
@@ -28723,17 +27720,14 @@
         "dplyr",
         "phyloseq",
         "tibble",
-        "tidyselect",
         "Biostrings"
     ],
     "tidytext": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "sjmisc": [
         "dplyr",
-        "tidyselect",
         "tibble"
     ],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
@@ -28754,7 +27748,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -28769,7 +27762,6 @@
     ],
     "ggforce": [
         "ggplot2",
-        "tidyselect",
         "tibble"
     ],
     "radiant.data": [
@@ -28789,7 +27781,6 @@
         "patchwork",
         "pbkrtest",
         "lme4",
-        "tidyselect",
         "vroom",
         "cellranger",
         "progress",
@@ -28813,7 +27804,6 @@
         "tibble",
         "tidyr",
         "viridis",
-        "tidyselect",
         "vroom",
         "ggplot2",
         "progress"
@@ -28821,8 +27811,7 @@
     "gson": [
         "tidyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "HDO.db": [
         "AnnotationDbi",
@@ -28845,7 +27834,6 @@
         "viridis",
         "tidygraph",
         "tibble",
-        "tidyselect",
         "tidyr"
     ],
     "aplot": [
@@ -28864,7 +27852,6 @@
         "ggforce",
         "ggfun",
         "tidyr",
-        "tidyselect",
         "tibble",
         "dplyr"
     ],
@@ -28875,8 +27862,7 @@
     "tidygraph": [
         "tibble",
         "dplyr",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "ggfun": [
         "ggplot2",
@@ -28912,7 +27898,6 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "tibble",
-        "tidyselect",
         "KEGGREST",
         "shiny",
         "Biostrings"
@@ -28938,7 +27923,6 @@
         "KEGGREST",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
@@ -28967,8 +27951,7 @@
         "dplyr",
         "ggplot2",
         "ggdendro",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "drtmle": [
         "SuperLearner",
@@ -28987,7 +27970,6 @@
         "KEGGREST",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
@@ -29010,8 +27992,7 @@
         "Biostrings",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "hgu133plus2.db": [
         "AnnotationDbi",
@@ -29051,7 +28032,6 @@
         "dbplyr",
         "progress",
         "tibble",
-        "tidyselect",
         "SummarizedExperiment",
         "VariantAnnotation",
         "ggplot2",
@@ -29089,8 +28069,7 @@
     ],
     "vcfR": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "sqldf": [
         "RSQLite"
@@ -29106,7 +28085,6 @@
         "tibble",
         "tidyr",
         "ggplot2",
-        "tidyselect",
         "testthat",
         "waldo",
         "rematch2"
@@ -29141,7 +28119,6 @@
         "broom",
         "dplyr",
         "tidyr",
-        "tidyselect",
         "testthat",
         "waldo",
         "rematch2"
@@ -29154,14 +28131,12 @@
         "ggpp",
         "ggplot2",
         "tibble",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "ggpp": [
         "ggplot2",
         "tibble",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "broom.mixed": [
         "broom",
@@ -29169,16 +28144,14 @@
         "forcats",
         "tibble",
         "tidyr",
-        "ggplot2",
-        "tidyselect"
+        "ggplot2"
     ],
     "mice": [
         "broom",
         "dplyr",
         "tidyr",
         "tibble",
-        "ggplot2",
-        "tidyselect"
+        "ggplot2"
     ],
     "GenomicTools": [],
     "GenomicTools.fileHandler": [],
@@ -29204,7 +28177,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -29232,7 +28204,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -29260,7 +28231,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -29291,8 +28261,7 @@
         "SummarizedExperiment",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ruv": [
         "ggplot2",
@@ -29310,7 +28279,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "tidyselect",
         "prodlim",
         "lava"
     ],
@@ -29336,7 +28304,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "tidyselect",
         "progress"
     ],
     "org.Dm.eg.db": [
@@ -29373,8 +28340,7 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "TxDb.Mmusculus.UCSC.mm9.knownGene": [
         "GenomicFeatures",
@@ -29392,8 +28358,7 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [
         "GenomicFeatures",
@@ -29411,8 +28376,7 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "TxDb.Celegans.UCSC.ce6.ensGene": [
         "GenomicFeatures",
@@ -29430,8 +28394,7 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [
         "GenomicFeatures",
@@ -29449,8 +28412,7 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "shinyhelper": [
         "shiny"
@@ -29500,8 +28462,7 @@
         "progress",
         "dplyr",
         "tidyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ClusterR": [
         "ggplot2",
@@ -29510,8 +28471,7 @@
     "benchmarkme": [
         "benchmarkmeData",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "rncl": [
         "progress"
@@ -29519,13 +28479,11 @@
     "RNeXML": [
         "dplyr",
         "tidyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "benchmarkmeData": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "cobs": [],
     "phylolm": [],
@@ -29535,7 +28493,6 @@
         "tibble",
         "forcats",
         "readr",
-        "tidyselect",
         "cellranger",
         "progress",
         "vroom"
@@ -29555,7 +28512,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "tidyselect",
         "pbkrtest",
         "lme4",
         "broom",
@@ -29571,7 +28527,6 @@
         "ggplot2",
         "recipes",
         "tibble",
-        "tidyselect",
         "spatstat.explore",
         "spatstat.model",
         "spatstat.linnet",
@@ -29624,8 +28579,7 @@
         "SummarizedExperiment",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "iC10": [],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
@@ -29646,7 +28600,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -29672,8 +28625,7 @@
     "dorothea": [
         "dplyr",
         "viper",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "crisprScoreData": [
         "ExperimentHub",
@@ -29686,22 +28638,17 @@
         "KEGGREST",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
     "keras": [
         "tensorflow",
-        "tfruns",
-        "tidyselect"
+        "tfruns"
     ],
     "tensorflow": [
-        "tfruns",
-        "tidyselect"
+        "tfruns"
     ],
-    "tfruns": [
-        "tidyselect"
-    ],
+    "tfruns": [],
     "shinypanel": [
         "shinyjs",
         "shiny",
@@ -29713,8 +28660,7 @@
         "broom",
         "quantmod",
         "tidyr",
-        "ggplot2",
-        "tidyselect"
+        "ggplot2"
     ],
     "cytometree": [
         "ggplot2",
@@ -29802,7 +28748,6 @@
         "dplyr",
         "readr",
         "tibble",
-        "tidyselect",
         "vroom",
         "progress"
     ],
@@ -29821,8 +28766,7 @@
     "webchem": [
         "rvest",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "text2vec": [],
     "textstem": [
@@ -29830,7 +28774,6 @@
         "lexicon",
         "textclean",
         "tibble",
-        "tidyselect",
         "syuzhet",
         "tidyr"
     ],
@@ -29838,22 +28781,19 @@
         "syuzhet",
         "dplyr",
         "tidyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "textclean": [
         "lexicon",
         "syuzhet",
         "dplyr",
         "tidyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "syuzhet": [
         "dplyr",
         "tidyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "tseries": [
         "quantmod"
@@ -29873,7 +28813,6 @@
         "tibble",
         "tidyr",
         "ggplot2",
-        "tidyselect",
         "testthat",
         "waldo",
         "rematch2"
@@ -29912,7 +28851,6 @@
         "KEGGREST",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
@@ -29935,7 +28873,6 @@
         "dbplyr",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
@@ -29959,7 +28896,6 @@
         "dbplyr",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
@@ -29967,7 +28903,6 @@
         "dplyr",
         "readr",
         "tibble",
-        "tidyselect",
         "vroom",
         "progress"
     ],
@@ -29976,8 +28911,7 @@
         "plotly",
         "tidyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ComplexUpset": [
         "ggplot2",
@@ -29993,7 +28927,6 @@
         "ggplot2",
         "plotly",
         "tibble",
-        "tidyselect",
         "tidyr"
     ],
     "geepack": [
@@ -30001,8 +28934,7 @@
         "dplyr",
         "tibble",
         "tidyr",
-        "ggplot2",
-        "tidyselect"
+        "ggplot2"
     ],
     "fda": [
         "fds",
@@ -30047,7 +28979,6 @@
         "tibble",
         "tidyr",
         "ggplot2",
-        "tidyselect",
         "testthat",
         "waldo",
         "rematch2"
@@ -30071,7 +29002,6 @@
         "survMisc",
         "tibble",
         "ggtext",
-        "tidyselect",
         "ggrepel",
         "ggsci",
         "cowplot",
@@ -30095,8 +29025,7 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "ggplot2",
-        "tidyselect"
+        "ggplot2"
     ],
     "bs4Dash": [
         "shiny",
@@ -30117,7 +29046,6 @@
         "rmarkdown",
         "readxl",
         "tibble",
-        "tidyselect",
         "viridis",
         "ggplot2",
         "dendextend",
@@ -30134,7 +29062,6 @@
         "dplyr",
         "tibble",
         "plotly",
-        "tidyselect",
         "tidyr"
     ],
     "seqmagick": [
@@ -30157,8 +29084,7 @@
         "dplyr",
         "tibble",
         "tidyr",
-        "ggplot2",
-        "tidyselect"
+        "ggplot2"
     ],
     "epiR": [
         "sf",
@@ -30184,22 +29110,19 @@
         "dbplyr",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
     "available": [
         "tidytext",
         "tibble",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "biclust": [
         "tidyr",
         "ggplot2",
         "tibble",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "GenomicFeatures",
@@ -30217,14 +29140,12 @@
         "dbplyr",
         "dplyr",
         "SummarizedExperiment",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "concaveman": [
         "sf",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "golem": [
         "shiny",
@@ -30251,7 +29172,6 @@
         "haven",
         "forcats",
         "readr",
-        "tidyselect",
         "vroom"
     ],
     "pd.mapping50k.xba240": [
@@ -30304,7 +29224,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "tidyselect",
         "prodlim",
         "lava"
     ],
@@ -30337,7 +29256,6 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "tibble",
-        "tidyselect",
         "KEGGREST",
         "dbplyr",
         "shiny",
@@ -30359,7 +29277,6 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "tidyselect",
         "forcats",
         "readr",
         "vroom",
@@ -30374,7 +29291,6 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "tidyselect",
         "forcats",
         "readr",
         "vroom",
@@ -30388,7 +29304,6 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "tidyselect",
         "forcats",
         "readr",
         "vroom",
@@ -30399,7 +29314,6 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "tidyselect",
         "forcats",
         "readr",
         "vroom",
@@ -30440,8 +29354,7 @@
         "SummarizedExperiment",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "rmdformats": [
         "rmarkdown",
@@ -30461,7 +29374,6 @@
         "vroom",
         "KEGGREST",
         "dbplyr",
-        "tidyselect",
         "shiny",
         "progress",
         "Biostrings"
@@ -30484,7 +29396,6 @@
         "RSQLite",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "rtracklayer",
         "biomaRt",
         "vroom",
@@ -30514,7 +29425,6 @@
         "dbplyr",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "biomaRt",
         "shiny",
         "GenomicAlignments",
@@ -30527,7 +29437,6 @@
         "ggplot2",
         "GGally",
         "tibble",
-        "tidyselect",
         "forcats",
         "progress"
     ],
@@ -30547,8 +29456,7 @@
         "dplyr",
         "tidyr",
         "tibble",
-        "ggplot2",
-        "tidyselect"
+        "ggplot2"
     ],
     "lumiHumanAll.db": [
         "AnnotationDbi",
@@ -30581,8 +29489,7 @@
         "tidyr",
         "ggplot2",
         "tibble",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "BiBitR": [
         "viridis",
@@ -30591,15 +29498,13 @@
         "tidyr",
         "ggplot2",
         "tibble",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "subspace": [
         "ggvis",
         "shiny",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SOMbrero": [
         "shiny",
@@ -30624,7 +29529,6 @@
         "recipes",
         "tibble",
         "tidyr",
-        "tidyselect",
         "nloptr",
         "hardhat",
         "ipred",
@@ -30642,13 +29546,11 @@
         "dplyr",
         "rearrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "rearrr": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "echarts4r": [
         "dplyr",
@@ -30656,8 +29558,7 @@
         "shiny",
         "tibble",
         "tidyr",
-        "ggplot2",
-        "tidyselect"
+        "ggplot2"
     ],
     "MKmisc": [
         "ggplot2",
@@ -30714,7 +29615,6 @@
         "tibble",
         "tidyr",
         "dplyr",
-        "tidyselect",
         "vroom",
         "progress"
     ],
@@ -30728,7 +29628,6 @@
         "forcats",
         "readr",
         "tibble",
-        "tidyselect",
         "ggplot2",
         "viridis",
         "cellranger",
@@ -30758,7 +29657,6 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "tibble",
-        "tidyselect",
         "SummarizedExperiment",
         "KEGGREST",
         "shiny"
@@ -30774,7 +29672,6 @@
         "dbplyr",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
@@ -30786,7 +29683,6 @@
         "tidyr",
         "yardstick",
         "tibble",
-        "tidyselect",
         "questionr",
         "hardhat",
         "shiny",
@@ -30801,7 +29697,6 @@
     "yardstick": [
         "dplyr",
         "hardhat",
-        "tidyselect",
         "tibble"
     ],
     "OMICsPCAdata": [
@@ -30810,8 +29705,7 @@
         "GenomicRanges",
         "tidyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "AICcmodavg": [
         "unmarked",
@@ -30825,8 +29719,7 @@
     "summarytools": [
         "dplyr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "unmarked": [
         "lme4",
@@ -30845,7 +29738,6 @@
         "AnnotationDbi",
         "progress",
         "BiocFileCache",
-        "tidyselect",
         "vroom",
         "RSQLite",
         "KEGGREST",
@@ -30854,8 +29746,7 @@
     "tfprobability": [
         "tensorflow",
         "keras",
-        "tfruns",
-        "tidyselect"
+        "tfruns"
     ],
     "verification": [
         "fields",
@@ -30876,13 +29767,11 @@
         "dplyr",
         "tidyr",
         "ggplot2",
-        "tidyselect",
         "tibble",
         "posterior",
         "distributional"
     ],
     "ggdist": [
-        "tidyselect",
         "dplyr",
         "ggplot2",
         "tibble",
@@ -30914,7 +29803,6 @@
         "GenomicAlignments",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "SummarizedExperiment",
         "shiny"
     ],
@@ -30942,8 +29830,7 @@
         "SummarizedExperiment",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "EnsDb.Rnorvegicus.v79": [
         "ensembldb",
@@ -30963,8 +29850,7 @@
         "SummarizedExperiment",
         "dbplyr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "pairsD3": [
         "shiny"
@@ -30983,7 +29869,6 @@
         "dbplyr",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
@@ -31004,18 +29889,14 @@
         "GenomicAlignments",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "SummarizedExperiment",
         "shiny"
     ],
-    "arrow": [
-        "tidyselect"
-    ],
+    "arrow": [],
     "neo4r": [
         "shiny",
         "tibble",
         "tidyr",
-        "tidyselect",
         "dplyr"
     ],
     "BSgenome.Celegans.UCSC.ce2": [
@@ -31049,7 +29930,6 @@
         "KEGGREST",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
@@ -31061,7 +29941,6 @@
         "rtracklayer",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom",
         "GenomicRanges",
         "Biostrings",
@@ -31079,7 +29958,6 @@
         "hardhat",
         "ipred",
         "tidyr",
-        "tidyselect",
         "prodlim",
         "lava"
     ],
@@ -31098,7 +29976,6 @@
         "KEGGREST",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
@@ -31148,7 +30025,6 @@
         "dbplyr",
         "KEGGREST",
         "tibble",
-        "tidyselect",
         "shiny"
     ],
     "origami": [],
@@ -31156,8 +30032,7 @@
     "ggvenn": [
         "dplyr",
         "ggplot2",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "nnTensor": [
         "fields",
@@ -31179,7 +30054,6 @@
         "tidygraph",
         "ggrepel",
         "tibble",
-        "tidyselect",
         "ggforce",
         "tidyr"
     ],
@@ -31187,14 +30061,12 @@
         "gistr",
         "rmarkdown",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "gistr": [
         "rmarkdown",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "mlr3": [],
     "mlr3learners": [
@@ -31212,7 +30084,6 @@
         "survminer",
         "cowplot",
         "tidytidbits",
-        "tidyselect",
         "ggpubr",
         "broom",
         "survMisc",
@@ -31233,20 +30104,17 @@
         "dplyr",
         "forcats",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "DGEobj.utils": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "openair": [
         "dplyr",
         "tidyr",
         "readr",
         "tibble",
-        "tidyselect",
         "vroom",
         "progress"
     ],
@@ -31263,7 +30131,6 @@
         "GenomicRanges",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
@@ -31293,8 +30160,7 @@
         "shiny",
         "spatstat.explore",
         "tidyr",
-        "dplyr",
-        "tidyselect"
+        "dplyr"
     ],
     "scRNAseq": [
         "SingleCellExperiment",
@@ -31318,7 +30184,6 @@
         "dbplyr",
         "progress",
         "tibble",
-        "tidyselect",
         "shiny",
         "GenomicAlignments"
     ],
@@ -31336,7 +30201,6 @@
         "KEGGREST",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
@@ -31387,7 +30251,6 @@
         "labelled",
         "dplyr",
         "tidyr",
-        "tidyselect",
         "haven",
         "forcats",
         "readr",
@@ -31403,7 +30266,6 @@
         "tibble",
         "ggforce",
         "labelled",
-        "tidyselect",
         "haven",
         "dplyr",
         "tidyr",
@@ -31419,14 +30281,12 @@
     "mosaicCore": [
         "dplyr",
         "tidyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "rsample": [
         "dplyr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "clustvarsel": [],
     "gstat": [
@@ -31464,8 +30324,7 @@
     "GenKern": [],
     "ttservice": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "FreqProf": [
         "ggplot2",
@@ -31476,8 +30335,7 @@
         "ggplot2",
         "dplyr",
         "ggrepel",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "bestNormalize": [
         "LambertW",
@@ -31485,7 +30343,6 @@
         "recipes",
         "tibble",
         "butcher",
-        "tidyselect",
         "ggplot2",
         "hardhat",
         "ipred",
@@ -31502,7 +30359,6 @@
         "forcats",
         "viridis",
         "UpSetR",
-        "tidyselect",
         "readr",
         "vroom",
         "progress"
@@ -31520,7 +30376,6 @@
         "dplyr",
         "readr",
         "tibble",
-        "tidyselect",
         "vroom",
         "progress"
     ],
@@ -31551,8 +30406,7 @@
     "condformat": [
         "dplyr",
         "rmarkdown",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "shinyTree": [
         "shiny"
@@ -31572,7 +30426,6 @@
         "annotate",
         "dbplyr",
         "tibble",
-        "tidyselect",
         "shiny",
         "Biostrings"
     ],
