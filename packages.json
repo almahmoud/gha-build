@@ -1614,7 +1614,6 @@
         "GenomicFiles"
     ],
     "rnaEditr": [],
-    "RNAinteract": [],
     "RNAmodR": [
         "Gviz",
         "biovizBase"
