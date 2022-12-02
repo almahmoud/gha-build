@@ -5308,7 +5308,6 @@
         "SummarizedExperiment",
         "tidyselect"
     ],
-    "cqn": [],
     "CRImage": [],
     "crisprBase": [
         "Biostrings",
@@ -12755,7 +12754,6 @@
         "rematch2"
     ],
     "KnowSeq": [
-        "cqn",
         "ggplot2",
         "rmarkdown",
         "caret",
@@ -26866,9 +26864,7 @@
         "SummarizedExperiment",
         "GenomicRanges"
     ],
-    "tweeDEseq": [
-        "cqn"
-    ],
+    "tweeDEseq": [],
     "twoddpcr": [
         "ggplot2",
         "shiny",
