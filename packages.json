@@ -2532,7 +2532,6 @@
         "klaR",
         "questionr"
     ],
-    "OmaDB": [],
     "omicRexposome": [
         "rexposome",
         "SmartSVA",
@@ -2679,9 +2678,7 @@
         "pbkrtest",
         "lme4"
     ],
-    "PhyloProfile": [
-        "OmaDB"
-    ],
+    "PhyloProfile": [],
     "Pi": [],
     "Pigengene": [
         "clusterProfiler",
