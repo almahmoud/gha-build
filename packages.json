@@ -6090,7 +6090,6 @@
         "car",
         "lmerTest",
         "glmmTMB",
-        "cplm",
         "lme4",
         "pbkrtest",
         "nloptr",
@@ -6105,7 +6104,6 @@
         "car",
         "lmerTest",
         "glmmTMB",
-        "cplm",
         "lme4",
         "Hmisc",
         "GO.db",
@@ -7330,7 +7328,6 @@
         "car",
         "lmerTest",
         "glmmTMB",
-        "cplm",
         "lme4",
         "pbkrtest",
         "nloptr",
@@ -13841,7 +13838,6 @@
         "testthat",
         "waldo"
     ],
-    "cplm": [],
     "bigstatsr": [],
     "depmap": [
         "ExperimentHub",
