@@ -592,7 +592,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "singleCellTK": [],
     "SingleMoleculeFootprinting": [
         "QuasR"
     ],
