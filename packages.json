@@ -1330,7 +1330,6 @@
         "listenv",
         "mgcv",
         "igraph",
-        "corpcor",
         "rARPACK",
         "gridExtra",
         "ggrepel",
@@ -5076,7 +5075,6 @@
         "MCMCpack",
         "shiny",
         "sva",
-        "corpcor",
         "ggvis",
         "heatmaply",
         "reshape2",
@@ -8625,7 +8623,6 @@
         "gmodels",
         "nlme",
         "ggm",
-        "corpcor",
         "robustbase",
         "vcd",
         "clue",
@@ -14510,7 +14507,6 @@
         "gRbase",
         "qpgraph",
         "KEGGgraph",
-        "corpcor",
         "RBGL",
         "Rgraphviz",
         "magrittr",
@@ -18230,7 +18226,6 @@
     "cpvSNP": [
         "GenomicFeatures",
         "GSEABase",
-        "corpcor",
         "BiocParallel",
         "ggplot2",
         "plyr",
@@ -20885,7 +20880,6 @@
         "RcppEigen",
         "RBGL",
         "ggm",
-        "corpcor",
         "robustbase",
         "vcd",
         "clue",
@@ -21097,7 +21091,6 @@
         "BiocParallel",
         "Biobase",
         "SummarizedExperiment",
-        "corpcor",
         "geometry",
         "NMF",
         "nnls",
@@ -22433,7 +22426,6 @@
         "gdata",
         "caTools",
         "igraph",
-        "corpcor",
         "tidyr",
         "rARPACK",
         "gridExtra",
@@ -25575,7 +25567,6 @@
         "qvalue",
         "ggplot2",
         "reshape2",
-        "corpcor",
         "lme4",
         "mgcv",
         "genefilter",
@@ -27390,7 +27381,6 @@
         "ggplot2",
         "RBGL",
         "ggm",
-        "corpcor",
         "robustbase",
         "vcd",
         "clue",
@@ -27457,7 +27447,6 @@
         "plyr",
         "Hmisc",
         "png",
-        "corpcor",
         "reshape2",
         "lambda.r",
         "latticeExtra",
@@ -30866,7 +30855,6 @@
         "Biobase",
         "ks",
         "rrcov",
-        "corpcor",
         "fds",
         "Rcpp",
         "cytolib",
@@ -30974,7 +30962,6 @@
         "fda",
         "ks",
         "rrcov",
-        "corpcor",
         "latticeExtra",
         "hexbin",
         "IDPmisc",
@@ -32041,8 +32028,7 @@
         "lambda.r"
     ],
     "gcatest": [
-        "lfa",
-        "corpcor"
+        "lfa"
     ],
     "gCrisprTools": [
         "Biobase",
@@ -35372,7 +35358,6 @@
         "rematch2"
     ],
     "GlobalAncova": [
-        "corpcor",
         "globaltest",
         "annotate",
         "AnnotationDbi",
@@ -35963,7 +35948,6 @@
         "RBGL",
         "graph",
         "Matrix",
-        "corpcor",
         "Rcpp",
         "XML",
         "Biobase",
@@ -43304,9 +43288,7 @@
         "diffobj",
         "rematch2"
     ],
-    "lfa": [
-        "corpcor"
-    ],
+    "lfa": [],
     "limmaGUI": [
         "tkrplot"
     ],
@@ -44260,7 +44242,6 @@
         "foreach",
         "doParallel",
         "Rtsne",
-        "corpcor",
         "umap",
         "iterators",
         "lifecycle",
@@ -49587,7 +49568,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "BiocParallel",
-        "corpcor",
         "dplyr",
         "ggplot2",
         "GeneNet",
@@ -49650,7 +49630,6 @@
         "scales",
         "Matrix",
         "ape",
-        "corpcor",
         "cubature",
         "quantreg",
         "nlme",
@@ -51345,7 +51324,6 @@
         "mboost",
         "igraph",
         "ggm",
-        "corpcor",
         "robustbase",
         "vcd",
         "clue",
@@ -51527,7 +51505,6 @@
         "RSpectra",
         "RcppArmadillo",
         "expm",
-        "corpcor",
         "SPONGE",
         "clusterProfiler",
         "ReactomePA",
@@ -51720,7 +51697,6 @@
         "listenv"
     ],
     "miRspongeR": [
-        "corpcor",
         "SPONGE",
         "igraph",
         "MCL",
@@ -52245,7 +52221,6 @@
     "mixOmics": [
         "ggplot2",
         "igraph",
-        "corpcor",
         "dplyr",
         "tidyr",
         "reshape2",
@@ -52881,7 +52856,6 @@
         "gplots",
         "GSEABase",
         "Biobase",
-        "corpcor",
         "AnnotationDbi",
         "annotate",
         "survival",
@@ -55607,7 +55581,6 @@
         "mutoss",
         "mathjaxr",
         "qqconf",
-        "corpcor",
         "rARPACK",
         "gridExtra",
         "ggrepel",
@@ -57317,7 +57290,6 @@
         "gmodels",
         "RBGL",
         "ggm",
-        "corpcor",
         "robustbase",
         "vcd",
         "clue",
@@ -57600,7 +57572,6 @@
         "glmnet",
         "network",
         "ggplot2",
-        "corpcor",
         "longitudinal",
         "igraph",
         "graph",
@@ -61745,7 +61716,6 @@
         "Rcpp"
     ],
     "PathoStat": [
-        "corpcor",
         "reshape2",
         "scales",
         "ggplot2",
@@ -64540,7 +64510,6 @@
         "survival",
         "RcppEigen",
         "igraph",
-        "corpcor",
         "rARPACK",
         "gridExtra",
         "Rmpfr",
@@ -78949,9 +78918,7 @@
         "lifecycle"
     ],
     "semisup": [],
-    "SEPIRA": [
-        "corpcor"
-    ],
+    "SEPIRA": [],
     "seq2pathway": [
         "WGCNA",
         "biomaRt",
@@ -82041,7 +82008,6 @@
         "png"
     ],
     "snm": [
-        "corpcor",
         "lme4",
         "Matrix",
         "nlme",
@@ -83928,7 +83894,6 @@
         "GSEABase",
         "GeneNet",
         "longitudinal",
-        "corpcor",
         "annotate",
         "graph",
         "AnnotationDbi",
@@ -88600,7 +88565,6 @@
         "Rcpp",
         "zoo",
         "igraph",
-        "corpcor",
         "reshape2",
         "rARPACK",
         "gridExtra",
@@ -89167,7 +89131,6 @@
         "EpiDISH",
         "nnls",
         "SummarizedExperiment",
-        "corpcor",
         "doParallel",
         "ggplot2",
         "tidyr",
@@ -90604,7 +90567,6 @@
         "askpass"
     ],
     "trigger": [
-        "corpcor",
         "qtl",
         "qvalue",
         "sva",
@@ -95698,7 +95660,6 @@
         "limSolve"
     ],
     "limSolve": [],
-    "corpcor": [],
     "rARPACK": [
         "RSpectra",
         "Matrix",
@@ -99626,7 +99587,6 @@
         "RBGL",
         "igraph",
         "ggm",
-        "corpcor",
         "robustbase",
         "vcd",
         "Rcpp",
@@ -103381,7 +103341,6 @@
         "igraph",
         "png",
         "Matrix",
-        "corpcor",
         "reshape2",
         "ggplot2",
         "lifecycle",
@@ -105816,13 +105775,10 @@
         "mvtnorm"
     ],
     "GeneNet": [
-        "corpcor",
         "longitudinal"
     ],
     "stabs": [],
-    "longitudinal": [
-        "corpcor"
-    ],
+    "longitudinal": [],
     "ggmcmc": [
         "dplyr",
         "tidyr",
@@ -105854,7 +105810,6 @@
         "Matrix",
         "coda",
         "ape",
-        "corpcor",
         "cubature",
         "nlme",
         "Rcpp"
