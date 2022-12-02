@@ -1542,7 +1542,6 @@
         "lmerTest"
     ],
     "spikeLI": [],
-    "SpliceWiz": [],
     "SPLINTER": [
         "Gviz",
         "biovizBase"
