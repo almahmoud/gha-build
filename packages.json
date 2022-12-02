@@ -7675,7 +7675,6 @@
         "MultiAssayExperiment",
         "biomaRt",
         "clusterProfiler",
-        "gghighlight",
         "rWikiPathways",
         "DOSE",
         "enrichplot",
@@ -8968,7 +8967,6 @@
     "rsample": [],
     "SpatialExtremes": [],
     "GenKern": [],
-    "gghighlight": [],
     "bestNormalize": [
         "recipes"
     ],
