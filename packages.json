@@ -29140,7 +29140,6 @@
         "ScaledMatrix",
         "GenomicRanges"
     ],
-    "veloviz": [],
     "VennDetail": [
         "dplyr",
         "tibble",
