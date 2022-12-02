@@ -3499,7 +3499,6 @@
         "testthat",
         "broom"
     ],
-    "macat": [],
     "MACSr": [
         "ExperimentHub",
         "AnnotationHub"
