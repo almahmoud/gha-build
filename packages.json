@@ -154,7 +154,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "EpiCompare": [],
     "epidecodeR": [
         "rstatix",
         "ggpubr"
