@@ -1338,7 +1338,6 @@
         "Hmisc",
         "viridis",
         "MSnbase",
-        "MsFeatures",
         "vsn"
     ],
     "canceR": [
@@ -2052,8 +2051,7 @@
     "cliqueMS": [
         "xcms",
         "MSnbase",
-        "vsn",
-        "MsFeatures"
+        "vsn"
     ],
     "CluMSID": [
         "GGally",
@@ -2521,7 +2519,6 @@
         "xcms",
         "faahKO",
         "MSnbase",
-        "MsFeatures",
         "vsn"
     ],
     "cosmosR": [
@@ -4405,7 +4402,6 @@
         "CAMERA",
         "Hmisc",
         "MSnbase",
-        "MsFeatures",
         "viridis",
         "vsn"
     ],
@@ -5988,7 +5984,6 @@
         "CAMERA",
         "Hmisc",
         "MSnbase",
-        "MsFeatures",
         "viridis",
         "vsn"
     ],
@@ -6328,7 +6323,6 @@
         "CAMERA",
         "Hmisc",
         "MSnbase",
-        "MsFeatures",
         "viridis",
         "vsn"
     ],
@@ -6551,7 +6545,6 @@
         "recipes",
         "fields",
         "MSnbase",
-        "MsFeatures",
         "viridis",
         "questionr",
         "vsn",
@@ -6821,7 +6814,6 @@
     "Metab": [
         "xcms",
         "MSnbase",
-        "MsFeatures",
         "vsn"
     ],
     "metabCombiner": [
@@ -6900,7 +6892,6 @@
         "xcms",
         "Hmisc",
         "MSnbase",
-        "MsFeatures",
         "viridis",
         "vsn"
     ],
@@ -7740,8 +7731,7 @@
     "MobilityTransformR": [
         "MSnbase",
         "xcms",
-        "vsn",
-        "MsFeatures"
+        "vsn"
     ],
     "MODA": [
         "WGCNA",
@@ -7905,7 +7895,6 @@
         "plotly",
         "tidyr"
     ],
-    "MsFeatures": [],
     "msgbsR": [
         "BSgenome",
         "easyRNASeq",
@@ -8385,7 +8374,6 @@
     "ncGTW": [
         "xcms",
         "MSnbase",
-        "MsFeatures",
         "vsn"
     ],
     "NCIgraph": [
@@ -9581,7 +9569,6 @@
         "MultiAssayExperiment",
         "MultiDataSet",
         "MSnbase",
-        "MsFeatures",
         "vsn",
         "tidyr"
     ],
@@ -10508,7 +10495,6 @@
     "Risa": [
         "xcms",
         "MSnbase",
-        "MsFeatures",
         "vsn"
     ],
     "RITAN": [
@@ -13567,7 +13553,6 @@
     ],
     "xcms": [
         "MSnbase",
-        "MsFeatures",
         "vsn"
     ],
     "xcore": [
@@ -14352,7 +14337,6 @@
     "faahKO": [
         "xcms",
         "MSnbase",
-        "MsFeatures",
         "vsn"
     ],
     "dorothea": [],
