@@ -2621,8 +2621,7 @@
     ],
     "sSNAPPY": [],
     "ssPATHS": [
-        "MESS",
-        "ggformula"
+        "MESS"
     ],
     "STAN": [
         "Gviz",
@@ -3135,10 +3134,7 @@
     ],
     "TENxPBMCData": [],
     "sampSurf": [],
-    "MESS": [
-        "ggformula"
-    ],
-    "ggformula": [],
+    "MESS": [],
     "GenKern": [],
     "naniar": [],
     "vbsr": [],
