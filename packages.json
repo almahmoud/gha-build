@@ -1431,7 +1431,6 @@
         "AnVIL",
         "MultiAssayExperiment",
         "readr",
-        "RaggedExperiment",
         "RTCGAToolbox",
         "tidyr",
         "TCGAutils",
@@ -1455,7 +1454,6 @@
         "MultiAssayExperiment",
         "BiocFileCache",
         "readr",
-        "RaggedExperiment",
         "RTCGAToolbox",
         "tidyr",
         "TCGAutils",
@@ -2184,7 +2182,6 @@
         "waldo"
     ],
     "CNVRanger": [
-        "RaggedExperiment",
         "GDSArray"
     ],
     "CNVrd2": [
@@ -2299,7 +2296,6 @@
         "waldo"
     ],
     "compartmap": [
-        "RaggedExperiment",
         "rtracklayer",
         "GenomicAlignments"
     ],
@@ -6334,7 +6330,6 @@
         "MultiAssayExperiment",
         "BiocFileCache",
         "readr",
-        "RaggedExperiment",
         "RTCGAToolbox",
         "tidyr",
         "TCGAutils",
@@ -8753,7 +8748,6 @@
     ],
     "omicsPrint": [
         "MultiAssayExperiment",
-        "RaggedExperiment",
         "tidyr"
     ],
     "omicsViewer": [
@@ -9966,7 +9960,6 @@
         "tidyr",
         "fgsea"
     ],
-    "RaggedExperiment": [],
     "ramr": [
         "EnvStats"
     ],
@@ -10851,7 +10844,6 @@
         "waldo"
     ],
     "RTCGAToolbox": [
-        "RaggedExperiment",
         "TCGAutils",
         "GenomicFeatures",
         "GenomicDataCommons",
@@ -12728,7 +12720,6 @@
         "GenomicFeatures",
         "GenomicDataCommons",
         "MultiAssayExperiment",
-        "RaggedExperiment",
         "readr",
         "rtracklayer",
         "biomaRt",
@@ -12768,7 +12759,6 @@
         "AnVIL",
         "MultiAssayExperiment",
         "BiocFileCache",
-        "RaggedExperiment",
         "readr",
         "tidyr",
         "TCGAutils",
