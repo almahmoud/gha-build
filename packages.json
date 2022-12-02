@@ -1905,9 +1905,7 @@
         "treeio"
     ],
     "M3Drop": [],
-    "m6Aboost": [
-        "adabag"
-    ],
+    "m6Aboost": [],
     "Maaslin2": [
         "car",
         "lmerTest",
@@ -4268,7 +4266,6 @@
     "datamods": [
         "rio"
     ],
-    "adabag": [],
     "glmmTMB": [
         "lme4"
     ],
