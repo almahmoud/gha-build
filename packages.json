@@ -11254,7 +11254,6 @@
         "viridis",
         "vroom"
     ],
-    "motifcounter": [],
     "MotifDb": [
         "rtracklayer",
         "GenomicAlignments",
