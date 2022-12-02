@@ -1508,8 +1508,7 @@
     "SigsPack": [],
     "simpleSeg": [],
     "singleCellTK": [
-        "SoupX",
-        "scRNAseq"
+        "SoupX"
     ],
     "SingleMoleculeFootprinting": [
         "QuasR",
@@ -1844,7 +1843,6 @@
         "pbkrtest"
     ],
     "SoupX": [],
-    "scRNAseq": [],
     "sampSurf": [],
     "GenKern": [],
     "vbsr": []
