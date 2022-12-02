@@ -109668,7 +109668,6 @@
         "limma",
         "locfit",
         "Lmoments",
-        "distillery",
         "lattice",
         "modeltools",
         "nlme",
@@ -156005,7 +156004,6 @@
     ],
     "extRemes": [
         "Lmoments",
-        "distillery",
         "Rcpp",
         "RcppArmadillo"
     ],
@@ -156013,7 +156011,6 @@
         "Rcpp",
         "RcppArmadillo"
     ],
-    "distillery": [],
     "torch": [
         "Rcpp",
         "R6",
