@@ -5158,7 +5158,6 @@
         "ensembldb",
         "biomaRt"
     ],
-    "SDAMS": [],
     "segmenter": [
         "ChIPseeker",
         "enrichplot",
