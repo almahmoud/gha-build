@@ -7501,7 +7501,6 @@
         "tidyr",
         "BiocFileCache"
     ],
-    "miRmine": [],
     "miRNAmeConverter": [
         "miRBaseVersions.db"
     ],
