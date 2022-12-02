@@ -571,9 +571,7 @@
         "crisprScoreData"
     ],
     "CSSQ": [],
-    "cTRAP": [
-        "highcharter"
-    ],
+    "cTRAP": [],
     "CTSV": [],
     "cummeRbund": [
         "Gviz",
@@ -630,8 +628,7 @@
         "pbkrtest"
     ],
     "DAPAR": [
-        "DAPARdata",
-        "highcharter"
+        "DAPARdata"
     ],
     "dasper": [
         "ggpubr",
@@ -2221,8 +2218,7 @@
     "PROPS": [],
     "Prostar": [
         "DAPAR",
-        "DAPARdata",
-        "highcharter"
+        "DAPARdata"
     ],
     "proteasy": [
         "ensembldb",
@@ -2244,7 +2240,6 @@
         "lme4"
     ],
     "psichomics": [
-        "highcharter",
         "recount",
         "derfinder",
         "bumphunter",
@@ -3212,7 +3207,6 @@
         "bumphunter"
     ],
     "crisprScoreData": [],
-    "highcharter": [],
     "mbest": [
         "lme4"
     ],
