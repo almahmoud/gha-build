@@ -6521,7 +6521,6 @@
         "dendextend",
         "factoextra",
         "plotly",
-        "shinyalert",
         "readxl",
         "biomaRt",
         "BiocFileCache",
@@ -9044,7 +9043,6 @@
         "plotly",
         "factoextra",
         "sortable",
-        "shinyalert",
         "TCGAbiolinks",
         "rtracklayer",
         "ggseqlogo",
@@ -12976,7 +12974,6 @@
         "SingleR",
         "SoupX",
         "sva",
-        "shinyalert",
         "enrichR",
         "celda",
         "DropletUtils",
@@ -16038,7 +16035,6 @@
         "dbplyr"
     ],
     "concaveman": [],
-    "shinyalert": [],
     "AdaptGauss": [
         "DataVisualizations"
     ],
