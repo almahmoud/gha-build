@@ -24036,7 +24036,6 @@
         "GenomicRanges",
         "DelayedArray",
         "dplyr",
-        "BWStest",
         "pillar",
         "tidyselect",
         "dbplyr",
@@ -30634,7 +30633,6 @@
         "ggsignif",
         "rstatix",
         "testthat",
-        "BWStest",
         "hms",
         "vroom",
         "GenomicAlignments",
@@ -35882,7 +35880,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "BWStest",
         "NMF",
         "ggbio",
         "SummarizedExperiment",
@@ -40137,10 +40134,7 @@
     ],
     "R.huge": [],
     "opencpu": [],
-    "PMCMRplus": [
-        "BWStest"
-    ],
-    "BWStest": [],
+    "PMCMRplus": [],
     "SmoothWin": [],
     "osfr": [
         "tibble",
