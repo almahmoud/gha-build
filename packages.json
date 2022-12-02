@@ -4051,7 +4051,6 @@
         "biomaRt",
         "BiocFileCache"
     ],
-    "genomicInstability": [],
     "GenomicInteractionNodes": [
         "GO.db",
         "GenomicFeatures",
