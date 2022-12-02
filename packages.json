@@ -2474,16 +2474,11 @@
         "datamods",
         "rio"
     ],
-    "iSEE": [],
-    "iSEEhex": [
-        "iSEE"
-    ],
+    "iSEEhex": [],
     "iSEEhub": [
-        "ExperimentHub",
-        "iSEE"
+        "ExperimentHub"
     ],
     "iSEEu": [
-        "iSEE",
         "iSEEhex"
     ],
     "isobar": [
