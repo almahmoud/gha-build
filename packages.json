@@ -274,8 +274,7 @@
         "VariantAnnotation"
     ],
     "BioNAR": [
-        "synaptome.db",
-        "synaptome.data"
+        "synaptome.db"
     ],
     "BioNERO": [],
     "biosigner": [],
@@ -4125,10 +4124,7 @@
         "lme4"
     ],
     "ggraph": [],
-    "synaptome.db": [
-        "synaptome.data"
-    ],
-    "synaptome.data": [],
+    "synaptome.db": [],
     "biscuiteerData": [],
     "pasilla": [],
     "GenomicState": [
