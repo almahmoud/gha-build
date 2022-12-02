@@ -8748,7 +8748,6 @@
     "cellHTS2": [
         "Biobase",
         "genefilter",
-        "splots",
         "vsn",
         "GSEABase",
         "Category",
@@ -26546,7 +26545,6 @@
         "httr",
         "BiocFileCache",
         "genefilter",
-        "splots",
         "vsn",
         "GSEABase",
         "Category",
@@ -30643,7 +30641,6 @@
         "vsn",
         "e1071",
         "genefilter",
-        "splots",
         "GSEABase",
         "Category",
         "htmltools",
@@ -55742,7 +55739,6 @@
         "geneplotter",
         "gplots",
         "latticeExtra",
-        "splots",
         "Biobase",
         "genefilter",
         "vsn",
@@ -64516,7 +64512,6 @@
         "htmlwidgets",
         "highr"
     ],
-    "splots": [],
     "SPONGE": [
         "Biobase",
         "foreach",
@@ -65329,7 +65324,6 @@
         "cellHTS2",
         "Biobase",
         "genefilter",
-        "splots",
         "vsn",
         "GSEABase",
         "Category",
