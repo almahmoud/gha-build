@@ -855,7 +855,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "debCAM": [],
     "debrowser": [
         "DOSE",
         "clusterProfiler",
