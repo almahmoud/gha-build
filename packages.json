@@ -164,8 +164,7 @@
     "AlpsNMR": [
         "tidyr",
         "readxl",
-        "mixOmics",
-        "speaq"
+        "mixOmics"
     ],
     "AMARETTO": [
         "BiocFileCache",
@@ -13443,7 +13442,6 @@
     "viridis": [],
     "ggrastr": [],
     "readxl": [],
-    "speaq": [],
     "curatedTCGAData": [
         "MultiAssayExperiment",
         "AnnotationHub",
