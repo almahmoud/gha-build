@@ -7604,7 +7604,6 @@
         "BiocParallel",
         "ggplot2",
         "HTSFilter",
-        "HTSCluster",
         "compositions",
         "GenomicRanges",
         "geneplotter",
@@ -42660,7 +42659,6 @@
         "tibble"
     ],
     "Rmixmod": [],
-    "HTSCluster": [],
     "compositions": [],
     "faahKO": [
         "xcms",
