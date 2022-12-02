@@ -7890,7 +7890,6 @@
         "dbplyr",
         "vroom"
     ],
-    "heatmaps": [],
     "HelloRanges": [
         "BSgenome",
         "GenomicFeatures",
