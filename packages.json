@@ -4953,7 +4953,6 @@
         "Rsamtools",
         "latticeExtra",
         "GenomicAlignments",
-        "leidenbase",
         "viridis",
         "RSQLite",
         "KEGGREST",
@@ -18815,7 +18814,6 @@
     ],
     "monocle": [
         "ggplot2",
-        "leidenbase",
         "tibble",
         "dplyr",
         "viridis",
@@ -32342,7 +32340,6 @@
     "uSORT": [
         "monocle",
         "ggplot2",
-        "leidenbase",
         "tibble",
         "dplyr",
         "viridis",
@@ -35352,7 +35349,6 @@
         "shiny",
         "bslib"
     ],
-    "leidenbase": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
