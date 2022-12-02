@@ -649,7 +649,6 @@
     ],
     "srnadiff": [],
     "STAN": [],
-    "standR": [],
     "survtype": [
         "survminer",
         "ggpubr",
