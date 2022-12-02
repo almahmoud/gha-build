@@ -25543,7 +25543,6 @@
         "vegan",
         "GenomicRanges"
     ],
-    "SIMD": [],
     "SimFFPE": [
         "Biostrings",
         "dplyr",
