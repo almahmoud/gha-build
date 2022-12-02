@@ -117583,7 +117583,6 @@
         "egg",
         "ggplot2",
         "pheatmap",
-        "dunn.test",
         "gridExtra",
         "gtable",
         "cli",
@@ -171926,7 +171925,6 @@
         "rappdirs"
     ],
     "pwr": [],
-    "dunn.test": [],
     "bladderbatch": [
         "Biobase",
         "BiocGenerics"
