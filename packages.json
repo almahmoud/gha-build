@@ -7370,7 +7370,6 @@
         "XVector"
     ],
     "ctsGE": [
-        "ccaPP",
         "ggplot2",
         "shiny",
         "tibble",
@@ -23948,7 +23947,6 @@
         "opencpu",
         "fgsea",
         "svglite",
-        "ccaPP",
         "AnnotationDbi",
         "DESeq2",
         "RSQLite",
@@ -38544,7 +38542,6 @@
         "pillar",
         "TTR"
     ],
-    "ccaPP": [],
     "cytometree": [
         "ggplot2",
         "cowplot",
