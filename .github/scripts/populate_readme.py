@@ -1,4 +1,4 @@
-import json
+import json, yaml
 from os.path import exists
 from tabulate import tabulate
 with open("original.json", "r") as f:
@@ -53,6 +53,8 @@ for each in tables["Failed"]:
     each[2] = f"[Build Log]({logurl})"
     rawurl = logurl.replace("github.com", "raw.githubusercontent.com").replace("blob/", "")
     r = requests.get(rawurl)
+    name = each[0]
+    pkg = name[name.find('[')+1:name.find(']')]
     retries = 0
     while retries <= 5 and r.status_code != 200:
         r = requests.get(rawurl)
@@ -60,8 +62,6 @@ for each in tables["Failed"]:
         time.sleep(5)
     if r.status_code == 200:
         logtext = r.content
-        name = each[0]
-        pkg = name[name.find('[')+1:name.find(']')]
         # Check CRAN archived
         if bytes(f"package ‘{pkg}’ is not available for Bioconductor version", "utf-8") in logtext:
             cranurl = f"https://cran.r-project.org/web/packages/{pkg}/index.html"
@@ -85,12 +85,32 @@ for each in tables["Failed"]:
             missingtext = missingtext[:missingtext.find(bytes("’", "utf-8"))]
             each.append(f"Undeclared R dependency: '{missingtext.decode('utf-8')}'")
 
+    # Check BBS status
+    bbsurl = f"https://bioconductor.org/checkResults/release/bioc-LATEST/{pkg}/raw-results/nebbiolo2/buildsrc-summary.dcf"
+    r = requests.get(bbsurl)
+    retries = 0
+    if "CRAN Package" not in each[-1]:
+        while retries <= 5 and r.status_code != 200:
+            r = requests.get(bbsurl)
+            retries += 1
+            time.sleep(5)
+        if r.status_code == 200:
+            bbs_summary = r.content.decode("utf-8")
+            bbs_status = yaml.safe_load(bbs_summary).get("Status", "Unknown")
+        if not bbs_status:
+            bbs_status = "Failed retrieving"
+        else:
+            bbs_status = f"[{bbs_status}]({bbsurl.replace('/raw-results/nebbiolo2/buildsrc-summary.dcf', '')})"
+        each.insert(2, bbs_status)
+    else:
+        each.insert(2, "N/A: CRAN Package")
 
-tables["Failed"] = [x if len(x)>3 else x+["Error unknown"] for x in tables["Failed"]]
-tables["Failed"].sort(key=lambda x: x[3])
+
+tables["Failed"] = [x if len(x)>4 else x+["Error unknown"] for x in tables["Failed"]]
+tables["Failed"].sort(key=lambda x: x[4])
 
 headers = ["Package", "Status", "Tarball"]
-failedheaders = ["Package", "Status", "Log", "Known Error"]
+failedheaders = ["Package", "Status", "BBS Status", "Log", "Known Error"]
 with open("README.md", "w") as f:
     f.write(f"# Summary\n\n{len(tables['Succeeded'])} built packages\n\n{len(tables['Failed'])} failed packages\n\n{len(tables['Unclaimed'])} unclaimed packages\n\n")
     f.write(f"\n\n## Failed ({len(tables['Failed'])})\n")

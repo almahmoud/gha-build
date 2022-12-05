@@ -8,19 +8,33 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          #token: ${{ secrets.PAT }}
+          token: ${{ secrets.PAT }}
           persist-credentials: true
+
+      - name: Copy old run
+        run: |
+          STARTTIME=$(cat runstarttime)
+          ARCHIVEDIR="archive/$STARTTIME"
+          mkdir -p "$ARCHIVEDIR"
+          mv runstarttime "$ARCHIVEDIR"/
+          mv original.json "$ARCHIVEDIR"/
+          mv packages.json "$ARCHIVEDIR"/
+          mv tobuild.txt "$ARCHIVEDIR"/
+          mv lists "$ARCHIVEDIR"/lists
+          mv logs "$ARCHIVEDIR"/logs
+
       - shell: sh
         run: |
           Rscript deps_json.R packages.json
           cp packages.json original.json
           python3 -c 'import json; f = open("packages.json", "r"); pkgs = json.load(f); f.close(); f = open("packages.json", "w"); f.write(json.dumps(pkgs, indent=4)); f.close()'
+          echo "$(TZ=EST date '+%Y-%m-%d_%H-%M')" > runstarttime
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
+          git add runstarttime
+          git add archive
           git add packages.json
           git add original.json
           git commit -m "Reset packages"
           git push
-        env:
-          GITHUB_PAT: ${{ secrets.GIT_PAT }}
