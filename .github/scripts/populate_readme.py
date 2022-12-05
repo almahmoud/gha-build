@@ -88,6 +88,7 @@ for each in tables["Failed"]:
     # Check BBS status
     bbsurl = f"https://bioconductor.org/checkResults/release/bioc-LATEST/{pkg}/raw-results/nebbiolo2/buildsrc-summary.dcf"
     r = requests.get(bbsurl)
+    bbs_status = ""
     retries = 0
     if "CRAN Package" not in each[-1]:
         while retries <= 5 and r.status_code != 200:
