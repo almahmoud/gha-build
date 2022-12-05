@@ -84,6 +84,11 @@ for each in tables["Failed"]:
             missingtext = logtext[logtext.find(tofind)+len(tofind):]
             missingtext = missingtext[:missingtext.find(bytes("’", "utf-8"))]
             each.append(f"Undeclared R dependency: '{missingtext.decode('utf-8')}'")
+        if bytes(f"ERROR: dependency", "utf-8"):
+            tofind = bytes("ERROR: dependency ‘", "utf-8")
+            missingtext = logtext[logtext.find(tofind)+len(tofind):]
+            missingtext = missingtext[:missingtext.find(bytes("’", "utf-8"))]
+            each.append(f"Undeclared R dependency: '{missingtext.decode('utf-8')}'")
 
     # Check BBS status
     bbsurl = f"https://bioconductor.org/checkResults/release/bioc-LATEST/{pkg}/raw-results/nebbiolo2/buildsrc-summary.dcf"
