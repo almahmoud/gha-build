@@ -84,7 +84,7 @@ for each in tables["Failed"]:
             missingtext = logtext[logtext.find(tofind)+len(tofind):]
             missingtext = missingtext[:missingtext.find(bytes("’", "utf-8"))]
             each.append(f"Undeclared R dependency: '{missingtext.decode('utf-8')}'")
-        if bytes(f"ERROR: dependency", "utf-8"):
+        if bytes(f"ERROR: dependency", "utf-8") in logtext:
             tofind = bytes("ERROR: dependency ‘", "utf-8")
             missingtext = logtext[logtext.find(tofind)+len(tofind):]
             missingtext = missingtext[:missingtext.find(bytes("’", "utf-8"))]
@@ -121,7 +121,7 @@ with open("README.md", "w") as f:
     f.write(f"# Summary\n\n{len(tables['Succeeded'])} built packages\n\n{len(tables['Failed'])} failed packages\n\n{len(tables['Unclaimed'])} unclaimed packages\n\n")
     f.write(f"\n\n## Failed ({len(tables['Failed'])})\n")
     f.write(tabulate(tables["Failed"], failedheaders, tablefmt="github"))
-    f.write(f"\n\n## Succeeded ({len(tables['Succeeded'])})\n")
-    f.write(tabulate(tables["Succeeded"], headers, tablefmt="github"))
     f.write(f"\n\n## Unclaimed ({len(tables['Unclaimed'])})\n")
     f.write(tabulate(tables["Unclaimed"], headers, tablefmt="github"))
+    f.write(f"\n\n## Succeeded ({len(tables['Succeeded'])})\n")
+    f.write(tabulate(tables["Succeeded"], headers, tablefmt="github"))
