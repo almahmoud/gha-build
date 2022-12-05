@@ -16,12 +16,12 @@
 | [BitSeq](https://github.com/almahmoud/gha-build/actions/runs/3598699347/jobs/6061693678)          | Failed   | [ERROR](https://bioconductor.org/checkResults/release/bioc-LATEST/BitSeq)          | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/BitSeq)          | Error unknown                                                                                                                                                                                      |
 | [CancerInSilico](https://github.com/almahmoud/gha-build/actions/runs/3598203479/jobs/6060775673)  | Failed   | [OK](https://bioconductor.org/checkResults/release/bioc-LATEST/CancerInSilico)     | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/CancerInSilico)  | Error unknown                                                                                                                                                                                      |
 | [scMAGeCK](https://github.com/almahmoud/gha-build/actions/runs/3599180591/jobs/6062660590)        | Failed   | [ERROR](https://bioconductor.org/checkResults/release/bioc-LATEST/scMAGeCK)        | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/scMAGeCK)        | Error unknown                                                                                                                                                                                      |
-| [spaSim](https://github.com/almahmoud/gha-build/actions/runs/3599141588/jobs/6062579259)          | Failed   | [OK](https://bioconductor.org/checkResults/release/bioc-LATEST/spaSim)             | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/spaSim)          | Error unknown                                                                                                                                                                                      |
 | [TCGAbiolinksGUI](https://github.com/almahmoud/gha-build/actions/runs/3599518220/jobs/6063230181) | Failed   | [ERROR](https://bioconductor.org/checkResults/release/bioc-LATEST/TCGAbiolinksGUI) | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/TCGAbiolinksGUI) | Error unknown                                                                                                                                                                                      |
 | [Travel](https://github.com/almahmoud/gha-build/actions/runs/3598255221/jobs/6060964128)          | Failed   | [OK](https://bioconductor.org/checkResults/release/bioc-LATEST/Travel)             | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/Travel)          | Error unknown                                                                                                                                                                                      |
 | [DAPARdata](https://github.com/almahmoud/gha-build/actions/runs/3598872840/jobs/6062080122)       | Failed   | Failed retrieving                                                                  | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/DAPARdata)       | Error unknown                                                                                                                                                                                      |
 | [JASPAR2018](https://github.com/almahmoud/gha-build/actions/runs/3598000465/jobs/6060346078)      | Failed   | Failed retrieving                                                                  | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/JASPAR2018)      | Error unknown                                                                                                                                                                                      |
 | [ISAnalytics](https://github.com/almahmoud/gha-build/actions/runs/3599180591/jobs/6062657621)     | Failed   | [OK](https://bioconductor.org/checkResults/release/bioc-LATEST/ISAnalytics)        | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/ISAnalytics)     | Undeclared R dependency: 'DT'                                                                                                                                                                      |
+| [spaSim](https://github.com/almahmoud/gha-build/actions/runs/3599141588/jobs/6062579259)          | Failed   | [OK](https://bioconductor.org/checkResults/release/bioc-LATEST/spaSim)             | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/spaSim)          | Undeclared R dependency: 'RANN'                                                                                                                                                                    |
 | [onlineFDR](https://github.com/almahmoud/gha-build/actions/runs/3598600581/jobs/6061553224)       | Failed   | [OK](https://bioconductor.org/checkResults/release/bioc-LATEST/onlineFDR)          | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/onlineFDR)       | Undeclared R dependency: 'Rcpp'                                                                                                                                                                    |
 | [EntropyExplorer](https://github.com/almahmoud/gha-build/actions/runs/3598112030/jobs/6060567033) | Failed   | N/A: CRAN Package                                                                  | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/EntropyExplorer) | [CRAN Package 'EntropyExplorer'](https://cran.r-project.org/web/packages/EntropyExplorer/index.html) archived. Extracted text: Archived on 2022-05-24 as email to the maintainer is undeliverable. |
 | [GenKern](https://github.com/almahmoud/gha-build/actions/runs/3598001925/jobs/6060350141)         | Failed   | N/A: CRAN Package                                                                  | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/GenKern)         | [CRAN Package 'GenKern'](https://cran.r-project.org/web/packages/GenKern/index.html) archived. Extracted text: Archived on 2022-05-23 as check issues were not corrected despite reminders.        |
@@ -34,6 +34,27 @@
 | [sampSurf](https://github.com/almahmoud/gha-build/actions/runs/3598034728/jobs/6060565803)        | Failed   | N/A: CRAN Package                                                                  | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/sampSurf)        | [CRAN Package 'sampSurf'](https://cran.r-project.org/web/packages/sampSurf/index.html) archived. Extracted text: Archived on 2022-05-17 as email to the maintainer is undeliverable.               |
 | [spp](https://github.com/almahmoud/gha-build/actions/runs/3598114344/jobs/6060686641)             | Failed   | N/A: CRAN Package                                                                  | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/spp)             | [CRAN Package 'spp'](https://cran.r-project.org/web/packages/spp/index.html) archived. Extracted text: Archived on 2022-11-20 as issues were not corrected despite reminders.                      |
 | [vbsr](https://github.com/almahmoud/gha-build/actions/runs/3598114344/jobs/6060686399)            | Failed   | N/A: CRAN Package                                                                  | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/vbsr)            | [CRAN Package 'vbsr'](https://cran.r-project.org/web/packages/vbsr/index.html) archived. Extracted text: Archived on 2022-05-23 as email to the maintainer is undeliverable.                       |
+
+## Unclaimed (17)
+| Package   | Status    | Tarball   |
+|-----------|-----------|-----------|
+| ASpediaFI | Unclaimed |           |
+| CeTF      | Unclaimed |           |
+| ChIC      | Unclaimed |           |
+| CiteFuse  | Unclaimed |           |
+| DAPAR     | Unclaimed |           |
+| enrichTF  | Unclaimed |           |
+| epihet    | Unclaimed |           |
+| esATAC    | Unclaimed |           |
+| flowCL    | Unclaimed |           |
+| NBSplice  | Unclaimed |           |
+| primirTSS | Unclaimed |           |
+| Prostar   | Unclaimed |           |
+| scRecover | Unclaimed |           |
+| sojourner | Unclaimed |           |
+| TDARACNE  | Unclaimed |           |
+| timeOmics | Unclaimed |           |
+| TraRe     | Unclaimed |           |
 
 ## Succeeded (3768)
 | Package                                                                                                                         | Status    | Tarball                                                                                                                                                                                                                                |
@@ -3806,24 +3827,3 @@
 | [eva](https://github.com/almahmoud/gha-build/actions/runs/3598790947/jobs/6061885807)                                           | Succeeded | [eva_0.2.6_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/eva_0.2.6_R_x86_64-pc-linux-gnu.tar.gz)                                                                                     |
 | [Rmisc](https://github.com/almahmoud/gha-build/actions/runs/3598381410/jobs/6061091879)                                         | Succeeded | [Rmisc_1.5.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/Rmisc_1.5.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                                 |
 | [alluvial](https://github.com/almahmoud/gha-build/actions/runs/3598112030/jobs/6060570310)                                      | Succeeded | [alluvial_0.1-2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/alluvial_0.1-2_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
-
-## Unclaimed (17)
-| Package   | Status    | Tarball   |
-|-----------|-----------|-----------|
-| ASpediaFI | Unclaimed |           |
-| CeTF      | Unclaimed |           |
-| ChIC      | Unclaimed |           |
-| CiteFuse  | Unclaimed |           |
-| DAPAR     | Unclaimed |           |
-| enrichTF  | Unclaimed |           |
-| epihet    | Unclaimed |           |
-| esATAC    | Unclaimed |           |
-| flowCL    | Unclaimed |           |
-| NBSplice  | Unclaimed |           |
-| primirTSS | Unclaimed |           |
-| Prostar   | Unclaimed |           |
-| scRecover | Unclaimed |           |
-| sojourner | Unclaimed |           |
-| TDARACNE  | Unclaimed |           |
-| timeOmics | Unclaimed |           |
-| TraRe     | Unclaimed |           |
