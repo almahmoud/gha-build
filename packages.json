@@ -1655,7 +1655,6 @@
     "MAGeCKFlute": [
         "DOSE",
         "clusterProfiler",
-        "depmap",
         "enrichplot",
         "ggraph",
         "ggtree"
@@ -3577,7 +3576,6 @@
     "glmmTMB": [
         "lme4"
     ],
-    "depmap": [],
     "agricolae": [
         "klaR",
         "questionr"
