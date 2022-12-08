@@ -247,7 +247,6 @@
         "readr"
     ],
     "arrayQualityMetrics": [
-        "beadarray",
         "genefilter"
     ],
     "artMS": [
@@ -446,7 +445,6 @@
         "VariantAnnotation",
         "biomaRt"
     ],
-    "beadarray": [],
     "BEAT": [
         "BSgenome",
         "ShortRead"
@@ -715,9 +713,7 @@
         "geneplotter",
         "pasilla"
     ],
-    "blima": [
-        "beadarray"
-    ],
+    "blima": [],
     "BLMA": [
         "PADOG",
         "hgu133a.db",
@@ -2496,9 +2492,7 @@
         "testthat",
         "waldo"
     ],
-    "epigenomix": [
-        "beadarray"
-    ],
+    "epigenomix": [],
     "epigraHMM": [
         "BSgenome",
         "GreyListChIP",
