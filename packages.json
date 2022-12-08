@@ -10292,7 +10292,6 @@
         "MatrixGenerics",
         "RCurl",
         "ROCR",
-        "RcppRoll",
         "Rhtslib",
         "Rsamtools",
         "SummarizedExperiment",
@@ -19172,7 +19171,6 @@
         "GenomicRanges",
         "IRanges",
         "RCurl",
-        "RcppRoll",
         "XVector",
         "betareg",
         "flexmix",
@@ -19368,7 +19366,6 @@
         "IRanges",
         "Matrix",
         "RCurl",
-        "RcppRoll",
         "XVector"
     ],
     "dmrseq": [
@@ -79776,7 +79773,6 @@
         "tzdb",
         "vctrs"
     ],
-    "RcppRoll": [],
     "BSgenome.Mmusculus.UCSC.mm9": [
         "BSgenome",
         "Biobase",
