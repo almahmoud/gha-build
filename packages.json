@@ -62,7 +62,6 @@
         "GSEABase",
         "GenomicFeatures",
         "Glimma",
-        "Hmisc",
         "OrganismDbi",
         "PFAM.db",
         "ReportingTools",
@@ -92,7 +91,6 @@
         "GSEABase",
         "GenomicFeatures",
         "Glimma",
-        "Hmisc",
         "OrganismDbi",
         "PFAM.db",
         "ReportingTools",
@@ -120,7 +118,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -157,7 +154,6 @@
         "geneplotter"
     ],
     "ANCOMBC": [
-        "Hmisc",
         "MultiAssayExperiment",
         "TreeSummarizedExperiment",
         "ggrastr",
@@ -276,7 +272,6 @@
     ],
     "ArrayExpressHTS": [
         "BiocFileCache",
-        "Hmisc",
         "ShortRead",
         "biomaRt"
     ],
@@ -298,7 +293,6 @@
         "rtracklayer"
     ],
     "arrayQualityMetrics": [
-        "Hmisc",
         "annotate",
         "beadarray",
         "genefilter"
@@ -323,7 +317,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "IVAS",
         "VariantAnnotation",
         "biomaRt",
@@ -343,7 +336,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -565,7 +557,6 @@
     "benchdamic": [
         "ANCOMBC",
         "DESeq2",
-        "Hmisc",
         "MAST",
         "MultiAssayExperiment",
         "Seurat",
@@ -624,7 +615,6 @@
     ],
     "bigPint": [
         "GGally",
-        "Hmisc",
         "plotly"
     ],
     "BindingSiteFinder": [
@@ -632,7 +622,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -775,7 +764,6 @@
     ],
     "BioMM": [
         "GO.db",
-        "Hmisc",
         "rms",
         "topGO"
     ],
@@ -784,7 +772,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -795,7 +782,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "GO.db",
-        "Hmisc",
         "WGCNA",
         "fgsea",
         "org.Hs.eg.db",
@@ -804,7 +790,6 @@
     ],
     "BioNERO": [
         "GO.db",
-        "Hmisc",
         "WGCNA",
         "annotate",
         "genefilter",
@@ -813,7 +798,6 @@
     ],
     "BioNet": [],
     "BioNetStat": [
-        "Hmisc",
         "org.Hs.eg.db",
         "pathview"
     ],
@@ -834,7 +818,6 @@
         "BSgenome",
         "BiocFileCache",
         "GenomicFeatures",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "ensembldb",
@@ -915,7 +898,6 @@
         "BiocFileCache",
         "GGally",
         "GenomicFeatures",
-        "Hmisc",
         "OrganismDbi",
         "VariantAnnotation",
         "biomaRt",
@@ -941,7 +923,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "GenomicState",
-        "Hmisc",
         "OrganismDbi",
         "VariantAnnotation",
         "biomaRt",
@@ -988,7 +969,6 @@
         "BSgenome",
         "BiocFileCache",
         "GenomicFeatures",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1024,7 +1004,6 @@
         "BiocFileCache",
         "GGally",
         "GenomicFeatures",
-        "Hmisc",
         "OrganismDbi",
         "VariantAnnotation",
         "annotate",
@@ -1041,7 +1020,6 @@
         "GenomicFiles",
         "GenomicInteractions",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1055,7 +1033,6 @@
         "GGally",
         "GO.db",
         "GenomicFeatures",
-        "Hmisc",
         "OrganismDbi",
         "VariantAnnotation",
         "WGCNA",
@@ -1075,7 +1052,6 @@
         "rtracklayer"
     ],
     "CAMERA": [
-        "Hmisc",
         "MSnbase",
         "xcms"
     ],
@@ -1083,7 +1059,6 @@
         "BiocFileCache",
         "Category",
         "GSEABase",
-        "Hmisc",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -1227,7 +1202,6 @@
     ],
     "cellmigRation": [
         "FactoMineR",
-        "Hmisc",
         "broom",
         "car",
         "lme4",
@@ -1252,7 +1226,6 @@
         "DOSE",
         "GO.db",
         "GOSemSim",
-        "Hmisc",
         "WGCNA",
         "aplot",
         "clusterProfiler",
@@ -1349,7 +1322,6 @@
         "GO.db",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
@@ -1389,15 +1361,12 @@
         "recipes",
         "spp"
     ],
-    "Chicago": [
-        "Hmisc"
-    ],
+    "Chicago": [],
     "chimeraviz": [
         "BSgenome",
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1417,7 +1386,6 @@
         "rtracklayer"
     ],
     "chipenrich": [
-        "Hmisc",
         "chipenrich.data",
         "org.Dm.eg.db",
         "org.Dr.eg.db",
@@ -1432,7 +1400,6 @@
         "BSgenome",
         "BiocFileCache",
         "GenomicFeatures",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1548,7 +1515,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1678,7 +1644,6 @@
         "BiocFileCache",
         "CopyNumberPlots",
         "GenomicFeatures",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1693,7 +1658,6 @@
         "BiocFileCache",
         "CopyNumberPlots",
         "GenomicFeatures",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1762,7 +1726,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1776,7 +1739,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1807,7 +1769,6 @@
         "GO.db",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1874,7 +1835,6 @@
         "spatstat.linnet"
     ],
     "CONFESS": [
-        "Hmisc",
         "contrast",
         "rms"
     ],
@@ -1941,7 +1901,6 @@
         "BSgenome",
         "BiocFileCache",
         "GenomicFeatures",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -2064,7 +2023,6 @@
         "ExperimentHub",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -2084,7 +2042,6 @@
         "ExperimentHub",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -2108,7 +2065,6 @@
     ],
     "csdR": [
         "GO.db",
-        "Hmisc",
         "WGCNA"
     ],
     "CSSQ": [
@@ -2138,7 +2094,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -2250,7 +2205,6 @@
         "EDASeq",
         "FactoMineR",
         "GenomicFeatures",
-        "Hmisc",
         "MSQC",
         "ShortRead",
         "annotate",
@@ -2468,7 +2422,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "GenomicFiles",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "bumphunter",
@@ -2480,7 +2433,6 @@
         "GGally",
         "GenomicFeatures",
         "GenomicFiles",
-        "Hmisc",
         "OrganismDbi",
         "VariantAnnotation",
         "biomaRt",
@@ -2557,7 +2509,6 @@
     ],
     "diffcoexp": [
         "GO.db",
-        "Hmisc",
         "WGCNA"
     ],
     "diffcyt": [
@@ -2640,7 +2591,6 @@
         "GO.db",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
@@ -2666,7 +2616,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -2888,7 +2837,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "MultiAssayExperiment",
         "TCGAbiolinks",
         "VariantAnnotation",
@@ -3067,7 +3015,6 @@
         "EntropyExplorer",
         "GO.db",
         "GOSemSim",
-        "Hmisc",
         "ReactomePA",
         "WGCNA",
         "aplot",
@@ -3102,7 +3049,6 @@
         "GO.db",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "Homo.sapiens",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
@@ -3129,7 +3075,6 @@
         "mnem"
     ],
     "epistasisGA": [
-        "Hmisc",
         "qgraph"
     ],
     "EpiTxDb": [
@@ -3320,7 +3265,6 @@
         "GenomicFeatures",
         "GenomicInteractions",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -3364,7 +3308,6 @@
     ],
     "fastLiquidAssociation": [
         "GO.db",
-        "Hmisc",
         "LiquidAssociation",
         "WGCNA",
         "broom",
@@ -3447,7 +3390,6 @@
     "fishpond": [],
     "flagme": [
         "CAMERA",
-        "Hmisc",
         "MSnbase",
         "xcms"
     ],
@@ -3457,7 +3399,6 @@
         "DropletUtils",
         "GGally",
         "GenomicFeatures",
-        "Hmisc",
         "MultiAssayExperiment",
         "OrganismDbi",
         "VariantAnnotation",
@@ -3635,7 +3576,6 @@
         "EDASeq",
         "FactoMineR",
         "GenomicFeatures",
-        "Hmisc",
         "MLSeq",
         "MSQC",
         "ShortRead",
@@ -3774,7 +3714,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -3839,7 +3778,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -3851,7 +3789,6 @@
         "BiocFileCache",
         "GGally",
         "GenomicFeatures",
-        "Hmisc",
         "OrganismDbi",
         "VariantAnnotation",
         "biomaRt",
@@ -3978,7 +3915,6 @@
         "BiocFileCache",
         "GGally",
         "GenomicFeatures",
-        "Hmisc",
         "OrganismDbi",
         "VariantAnnotation",
         "biomaRt",
@@ -4028,7 +3964,6 @@
     "GISPA": [
         "GSEABase",
         "HH",
-        "Hmisc",
         "annotate",
         "genefilter"
     ],
@@ -4076,7 +4011,6 @@
         "GO.db",
         "GOstats",
         "GSEABase",
-        "Hmisc",
         "WGCNA",
         "annotate",
         "broom",
@@ -4271,7 +4205,6 @@
         "BSgenome",
         "BiocFileCache",
         "GenomicFeatures",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -4311,7 +4244,6 @@
     ],
     "GWENA": [
         "GO.db",
-        "Hmisc",
         "WGCNA",
         "gprofiler2",
         "plotly"
@@ -4354,7 +4286,6 @@
         "GenomicFeatures",
         "GenomicInteractions",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -4385,7 +4316,6 @@
         "GenomicInteractions",
         "Gviz",
         "HiContactsData",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -4448,9 +4378,7 @@
     "iBBiG": [
         "biclust"
     ],
-    "iCARE": [
-        "Hmisc"
-    ],
+    "iCARE": [],
     "icetea": [
         "BSgenome",
         "BiocFileCache",
@@ -4615,7 +4543,6 @@
         "BiocFileCache",
         "GGally",
         "GenomicFeatures",
-        "Hmisc",
         "OrganismDbi",
         "VariantAnnotation",
         "biomaRt",
@@ -4684,7 +4611,6 @@
     ],
     "IPO": [
         "CAMERA",
-        "Hmisc",
         "MSnbase",
         "xcms"
     ],
@@ -4820,7 +4746,6 @@
         "BSgenome",
         "BiocFileCache",
         "GenomicFeatures",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -4870,7 +4795,6 @@
         "waldo"
     ],
     "KnowSeq": [
-        "Hmisc",
         "annotate",
         "caret",
         "genefilter",
@@ -4948,7 +4872,6 @@
     ],
     "LOBSTAHS": [
         "CAMERA",
-        "Hmisc",
         "MSnbase",
         "xcms"
     ],
@@ -5001,7 +4924,6 @@
         "treeio"
     ],
     "M3Drop": [
-        "Hmisc",
         "densEstBayes",
         "reldist"
     ],
@@ -5028,7 +4950,6 @@
     ],
     "Macarron": [
         "GO.db",
-        "Hmisc",
         "Maaslin2",
         "WGCNA",
         "broom",
@@ -5112,7 +5033,6 @@
     ],
     "MAIT": [
         "CAMERA",
-        "Hmisc",
         "MSnbase",
         "agricolae",
         "caret",
@@ -5139,7 +5059,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -5148,7 +5067,6 @@
     ],
     "MAST": [],
     "MatrixQCvis": [
-        "Hmisc",
         "plotly"
     ],
     "MatrixRider": [
@@ -5173,7 +5091,6 @@
     "mbkmeans": [],
     "mbOmic": [
         "GO.db",
-        "Hmisc",
         "WGCNA"
     ],
     "mBPCR": [
@@ -5188,7 +5105,6 @@
     "MCbiclust": [
         "GGally",
         "GO.db",
-        "Hmisc",
         "WGCNA",
         "org.Hs.eg.db"
     ],
@@ -5198,7 +5114,6 @@
         "GO.db",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "Homo.sapiens",
         "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -5218,7 +5133,6 @@
         "GO.db",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
@@ -5340,7 +5254,6 @@
         "BiocFileCache",
         "EnsDb.Hsapiens.v75",
         "GenomicFeatures",
-        "Hmisc",
         "MWASTools",
         "biomaRt",
         "broom",
@@ -5380,7 +5293,6 @@
     ],
     "metaMS": [
         "CAMERA",
-        "Hmisc",
         "MSnbase",
         "xcms"
     ],
@@ -5586,7 +5498,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -5688,7 +5599,6 @@
     "microbiomeMarker": [
         "ANCOMBC",
         "DESeq2",
-        "Hmisc",
         "MultiAssayExperiment",
         "TreeSummarizedExperiment",
         "annotate",
@@ -5760,9 +5670,7 @@
         "testthat",
         "waldo"
     ],
-    "mina": [
-        "Hmisc"
-    ],
+    "mina": [],
     "MineICA": [
         "BiocFileCache",
         "Category",
@@ -5772,7 +5680,6 @@
         "GOstats",
         "GSEABase",
         "GenomicFeatures",
-        "Hmisc",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "annotate",
         "biomaRt",
@@ -5819,7 +5726,6 @@
         "GO.db",
         "GOstats",
         "GSEABase",
-        "Hmisc",
         "TCGAbiolinks",
         "annotate",
         "biomaRt",
@@ -5839,7 +5745,6 @@
         "GO.db",
         "GOSemSim",
         "GSEABase",
-        "Hmisc",
         "ReactomePA",
         "SOMbrero",
         "SPONGE",
@@ -6012,7 +5917,6 @@
     ],
     "MODA": [
         "GO.db",
-        "Hmisc",
         "WGCNA"
     ],
     "MOFA2": [],
@@ -6078,7 +5982,6 @@
         "GO.db",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "MotifDb",
         "TFBSTools",
         "VariantAnnotation",
@@ -6138,7 +6041,6 @@
         "BiocFileCache",
         "GGally",
         "GenomicFeatures",
-        "Hmisc",
         "OrganismDbi",
         "ShortRead",
         "VariantAnnotation",
@@ -6255,7 +6157,6 @@
         "waldo"
     ],
     "MSstatsShiny": [
-        "Hmisc",
         "MSstats",
         "MSstatsPTM",
         "MSstatsTMT",
@@ -6292,7 +6193,6 @@
         "BiocFileCache",
         "CRISPRseek",
         "GenomicFeatures",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -6432,7 +6332,6 @@
     "mygene": [
         "BiocFileCache",
         "GenomicFeatures",
-        "Hmisc",
         "biomaRt",
         "rtracklayer"
     ],
@@ -6440,7 +6339,6 @@
         "BSgenome",
         "BiocFileCache",
         "GenomicFeatures",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -6456,7 +6354,6 @@
         "GenomicFeatures",
         "GenomicScores",
         "Gviz",
-        "Hmisc",
         "TFBSTools",
         "VariantAnnotation",
         "annotate",
@@ -6545,7 +6442,6 @@
     "netbiov": [],
     "netboost": [
         "GO.db",
-        "Hmisc",
         "WGCNA"
     ],
     "netboxr": [
@@ -6582,7 +6478,6 @@
     "NetSAM": [
         "BiocFileCache",
         "GO.db",
-        "Hmisc",
         "WGCNA",
         "biomaRt"
     ],
@@ -6651,7 +6546,6 @@
         "rtracklayer"
     ],
     "NormalyzerDE": [
-        "Hmisc",
         "RcmdrMisc",
         "broom",
         "car",
@@ -6717,7 +6611,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "GenomicFiles",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "broom",
@@ -6745,7 +6638,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -6769,7 +6661,6 @@
     "omicplotR": [],
     "omicRexposome": [
         "FactoMineR",
-        "Hmisc",
         "MultiDataSet",
         "SmartSVA",
         "annotate",
@@ -6859,16 +6750,12 @@
         "BiocFileCache"
     ],
     "openCyto": [],
-    "openPrimeR": [
-        "Hmisc"
-    ],
+    "openPrimeR": [],
     "openPrimeRui": [
-        "Hmisc",
         "openPrimeR"
     ],
     "OpenStats": [
         "AICcmodavg",
-        "Hmisc",
         "broom",
         "car",
         "lme4",
@@ -7163,7 +7050,6 @@
         "BiocFileCache",
         "Category",
         "GSEABase",
-        "Hmisc",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -7228,7 +7114,6 @@
         "DOSE",
         "GO.db",
         "GOSemSim",
-        "Hmisc",
         "ReactomePA",
         "WGCNA",
         "aplot",
@@ -7249,7 +7134,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "PICS",
         "VariantAnnotation",
         "biomaRt",
@@ -7285,7 +7169,6 @@
         "rtracklayer"
     ],
     "plotGrouper": [
-        "Hmisc",
         "broom",
         "car",
         "colourpicker",
@@ -7377,7 +7260,6 @@
         "GenomicFeatures",
         "GenomicScores",
         "Gviz",
-        "Hmisc",
         "TFBSTools",
         "VariantAnnotation",
         "annotate",
@@ -7389,7 +7271,6 @@
         "rtracklayer"
     ],
     "PrInCE": [
-        "Hmisc",
         "MSnbase",
         "forecast"
     ],
@@ -7410,7 +7291,6 @@
     ],
     "proBatch": [
         "GO.db",
-        "Hmisc",
         "WGCNA",
         "annotate",
         "genefilter",
@@ -7564,7 +7444,6 @@
         "GEOquery",
         "GenomicFeatures",
         "GenomicFiles",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "broom",
@@ -7589,7 +7468,6 @@
         "topGO"
     ],
     "ptairMS": [
-        "Hmisc",
         "MSnbase",
         "broom",
         "car",
@@ -7624,7 +7502,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -7677,7 +7554,6 @@
         "BSgenome",
         "BiocFileCache",
         "GenomicFeatures",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -7691,7 +7567,6 @@
         "rtracklayer"
     ],
     "qsmooth": [
-        "Hmisc",
         "annotate",
         "genefilter",
         "sva"
@@ -7733,7 +7608,6 @@
         "BiocFileCache",
         "GGally",
         "GenomicFeatures",
-        "Hmisc",
         "OrganismDbi",
         "VariantAnnotation",
         "biomaRt",
@@ -7869,7 +7743,6 @@
         "GEOquery",
         "GenomicFeatures",
         "GenomicFiles",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "bumphunter",
@@ -7918,7 +7791,6 @@
         "DOSE",
         "GO.db",
         "GOSemSim",
-        "Hmisc",
         "WGCNA",
         "annotate",
         "fgsea",
@@ -7940,7 +7812,6 @@
         "DESeq2",
         "GenomicFeatures",
         "GenomicFiles",
-        "Hmisc",
         "VariantAnnotation",
         "annotate",
         "biomaRt",
@@ -7955,7 +7826,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "RCy3",
         "VariantAnnotation",
         "biomaRt",
@@ -7997,7 +7867,6 @@
         "GOstats",
         "GSEABase",
         "GenomicFeatures",
-        "Hmisc",
         "OrganismDbi",
         "PFAM.db",
         "VariantAnnotation",
@@ -8027,7 +7896,6 @@
     ],
     "rexposome": [
         "FactoMineR",
-        "Hmisc",
         "broom",
         "car",
         "lme4",
@@ -8119,7 +7987,6 @@
         "BiocFileCache",
         "GGally",
         "GenomicFeatures",
-        "Hmisc",
         "OrganismDbi",
         "VariantAnnotation",
         "biomaRt",
@@ -8164,7 +8031,6 @@
         "BSgenome",
         "BiocFileCache",
         "GenomicFeatures",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -8237,7 +8103,6 @@
         "GEOquery",
         "GenomicFeatures",
         "GenomicFiles",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "bumphunter",
@@ -8275,7 +8140,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -8287,7 +8151,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "RNAmodR",
         "VariantAnnotation",
         "biomaRt",
@@ -8300,7 +8163,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "RNAmodR",
         "VariantAnnotation",
         "biomaRt",
@@ -8313,7 +8175,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "RNAmodR",
         "VariantAnnotation",
         "biomaRt",
@@ -8370,7 +8231,6 @@
         "GEOquery",
         "GenomicFeatures",
         "GenomicFiles",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "broom",
@@ -8424,7 +8284,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "GenomicFiles",
-        "Hmisc",
         "ShortRead",
         "VariantAnnotation",
         "biomaRt",
@@ -8519,9 +8378,7 @@
     ],
     "Rtpca": [],
     "rtracklayer": [],
-    "Rtreemix": [
-        "Hmisc"
-    ],
+    "Rtreemix": [],
     "rTRM": [],
     "rTRMui": [
         "MotifDb",
@@ -8695,7 +8552,6 @@
     ],
     "scmap": [],
     "scMerge": [
-        "Hmisc",
         "M3Drop",
         "densEstBayes",
         "reldist"
@@ -8777,7 +8633,6 @@
         "BiocFileCache",
         "GGally",
         "GenomicFeatures",
-        "Hmisc",
         "OrganismDbi",
         "ShortRead",
         "VariantAnnotation",
@@ -8892,7 +8747,6 @@
     "seq2pathway": [
         "BiocFileCache",
         "GO.db",
-        "Hmisc",
         "WGCNA",
         "biomaRt"
     ],
@@ -9112,7 +8966,6 @@
         "GSVA",
         "GSVAdata",
         "GenomicFeatures",
-        "Hmisc",
         "M3Drop",
         "MAST",
         "Seurat",
@@ -9220,7 +9073,6 @@
         "BiocFileCache",
         "GO.db",
         "GenomicFeatures",
-        "Hmisc",
         "biomaRt",
         "geneLenDataBase",
         "goseq",
@@ -9265,7 +9117,6 @@
         "BiocFileCache",
         "GGally",
         "GenomicFeatures",
-        "Hmisc",
         "OrganismDbi",
         "VariantAnnotation",
         "biomaRt",
@@ -9332,7 +9183,6 @@
     "spatialHeatmap": [
         "BiocFileCache",
         "GO.db",
-        "Hmisc",
         "WGCNA",
         "annotate",
         "genefilter",
@@ -9350,7 +9200,6 @@
         "GenomicFeatures",
         "GenomicInteractions",
         "Gviz",
-        "Hmisc",
         "TFBSTools",
         "VariantAnnotation",
         "annotate",
@@ -9429,7 +9278,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -9470,7 +9318,6 @@
     "spqn": [],
     "SPsimSeq": [
         "GO.db",
-        "Hmisc",
         "WGCNA"
     ],
     "SQLDataFrame": [],
@@ -9484,7 +9331,6 @@
         "DESeq2",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "annotate",
         "biomaRt",
@@ -9516,7 +9362,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -9746,9 +9591,7 @@
         "testthat",
         "waldo"
     ],
-    "TarSeqQC": [
-        "Hmisc"
-    ],
+    "TarSeqQC": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "DESeq2",
@@ -9782,7 +9625,6 @@
         "GOSemSim",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "MultiAssayExperiment",
         "TCGAbiolinks",
         "VariantAnnotation",
@@ -9942,7 +9784,6 @@
     ],
     "TIN": [
         "GO.db",
-        "Hmisc",
         "WGCNA"
     ],
     "TissueEnrich": [
@@ -10016,7 +9857,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -10104,7 +9944,6 @@
         "BSgenome.Mmusculus.UCSC.mm10",
         "BiocFileCache",
         "GO.db",
-        "Hmisc",
         "MotifDb",
         "SNPlocs.Hsapiens.dbSNP150.GRCh38",
         "WGCNA",
@@ -10214,7 +10053,6 @@
         "GO.db",
         "GenomicFeatures",
         "Gviz",
-        "Hmisc",
         "Homo.sapiens",
         "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -10294,7 +10132,6 @@
         "GenomicFeatures",
         "GenomicScores",
         "Gviz",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -10447,7 +10284,6 @@
     "wavClusteR": [
         "BiocFileCache",
         "GenomicFeatures",
-        "Hmisc",
         "biomaRt",
         "rtracklayer"
     ],
@@ -10497,7 +10333,6 @@
         "BiocFileCache",
         "GGally",
         "GenomicFeatures",
-        "Hmisc",
         "OrganismDbi",
         "SomaticSignatures",
         "VariantAnnotation",
@@ -10602,7 +10437,6 @@
         "ExperimentHub"
     ],
     "PFAM.db": [],
-    "Hmisc": [],
     "GGally": [],
     "ggrastr": [],
     "speaq": [],
@@ -10819,17 +10653,14 @@
     "aplot": [],
     "scatterpie": [],
     "tidygraph": [],
-    "rms": [
-        "Hmisc"
-    ],
+    "rms": [],
     "synaptome.db": [
         "AnnotationHub",
         "BiocFileCache",
         "synaptome.data"
     ],
     "WGCNA": [
-        "GO.db",
-        "Hmisc"
+        "GO.db"
     ],
     "synaptome.data": [
         "AnnotationHub",
@@ -10863,7 +10694,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "GenomicFiles",
-        "Hmisc",
         "VariantAnnotation",
         "biomaRt",
         "bumphunter",
@@ -11033,7 +10863,6 @@
     ],
     "spatstat.linnet": [],
     "contrast": [
-        "Hmisc",
         "rms"
     ],
     "EnsDb.Hsapiens.v86": [
@@ -11149,9 +10978,7 @@
         "BiocFileCache",
         "ExperimentHub"
     ],
-    "qgraph": [
-        "Hmisc"
-    ],
+    "qgraph": [],
     "ewceData": [
         "AnnotationHub",
         "BiocFileCache",
@@ -11212,9 +11039,7 @@
     "ggalt": [
         "plotly"
     ],
-    "HH": [
-        "Hmisc"
-    ],
+    "HH": [],
     "gRain": [
         "broom"
     ],
@@ -11387,7 +11212,6 @@
         "supraHex"
     ],
     "RcmdrMisc": [
-        "Hmisc",
         "broom",
         "car",
         "haven",
