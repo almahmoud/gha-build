@@ -18518,7 +18518,6 @@
         "xts",
         "zoo"
     ],
-    "DeMAND": [],
     "DeMixT": [
         "AnnotationDbi",
         "BSgenome",
