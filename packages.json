@@ -20187,7 +20187,6 @@
         "rmarkdown",
         "rvest",
         "selectr",
-        "sftime",
         "stars",
         "testthat",
         "tidyr",
@@ -24638,7 +24637,6 @@
         "tidyr"
     ],
     "gstat": [
-        "sftime",
         "stars"
     ],
     "SpatialExtremes": [
@@ -24646,7 +24644,6 @@
         "ggplot2",
         "viridis"
     ],
-    "sftime": [],
     "stars": [],
     "spsUtil": [],
     "spsComps": [
