@@ -1017,7 +1017,6 @@
         "caret",
         "distinct",
         "scater",
-        "slingshot",
         "spatstat"
     ],
     "CONFESS": [
@@ -5196,7 +5195,6 @@
     "slalom": [
         "GSEABase"
     ],
-    "slingshot": [],
     "SMITE": [
         "GenomicFeatures",
         "geneLenDataBase",
@@ -5636,9 +5634,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "tradeSeq": [
-        "slingshot"
-    ],
+    "tradeSeq": [],
     "transcriptogramer": [
         "topGO"
     ],
@@ -5660,9 +5656,7 @@
         "BSgenome.Hsapiens.UCSC.hg19"
     ],
     "Travel": [],
-    "traviz": [
-        "slingshot"
-    ],
+    "traviz": [],
     "treeio": [],
     "treekoR": [
         "FlowSOM",
