@@ -6939,7 +6939,6 @@
         "rtracklayer",
         "seqinr",
         "tensorflow",
-        "tfautograph",
         "tfruns",
         "tibble",
         "tidyselect"
@@ -6987,7 +6986,6 @@
         "shinyjs",
         "stringr",
         "tensorflow",
-        "tfautograph",
         "tfruns",
         "tibble",
         "tidyr",
@@ -8133,7 +8131,6 @@
         "text2vec",
         "textclean",
         "textstem",
-        "tfautograph",
         "tfruns",
         "tibble",
         "tidyr",
@@ -12849,7 +12846,6 @@
         "text2vec",
         "textclean",
         "textstem",
-        "tfautograph",
         "tfruns",
         "tibble",
         "tidyr",
@@ -14034,7 +14030,6 @@
         "seqinr",
         "stringr",
         "tensorflow",
-        "tfautograph",
         "tfruns",
         "tibble",
         "tidyr",
@@ -20829,7 +20824,6 @@
         "seqinr",
         "stringr",
         "tensorflow",
-        "tfautograph",
         "tfruns",
         "tibble",
         "tidyr",
@@ -21895,7 +21889,6 @@
         "SummarizedExperiment",
         "keras",
         "tensorflow",
-        "tfautograph",
         "tfruns",
         "tidyselect"
     ],
@@ -23230,7 +23223,6 @@
         "stringr",
         "tensorflow",
         "testthat",
-        "tfautograph",
         "tfprobability",
         "tfruns",
         "tibble",
@@ -28345,7 +28337,6 @@
         "spatstat.random",
         "stringr",
         "tensorflow",
-        "tfautograph",
         "tfruns",
         "tibble",
         "tidyr",
@@ -34208,7 +34199,6 @@
         "text2vec",
         "textclean",
         "textstem",
-        "tfautograph",
         "tfruns",
         "tibble",
         "tidyr",
@@ -34524,7 +34514,6 @@
         "text2vec",
         "textclean",
         "textstem",
-        "tfautograph",
         "tfruns",
         "tibble",
         "tidyr",
@@ -38005,19 +37994,16 @@
     ],
     "keras": [
         "tensorflow",
-        "tfautograph",
         "tfruns",
         "tidyselect"
     ],
     "tensorflow": [
-        "tfautograph",
         "tfruns",
         "tidyselect"
     ],
     "tfruns": [
         "tidyselect"
     ],
-    "tfautograph": [],
     "shinypanel": [
         "bslib",
         "shiny",
@@ -39594,7 +39580,6 @@
     "tfprobability": [
         "keras",
         "tensorflow",
-        "tfautograph",
         "tfruns",
         "tidyselect"
     ],
