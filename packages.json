@@ -7217,7 +7217,6 @@
         "rstatix",
         "shinyFeedback",
         "shinyFiles",
-        "shinyalert",
         "shinycssloaders",
         "shinydashboard",
         "shinyjs",
@@ -10013,7 +10012,6 @@
         "rtracklayer",
         "rvest",
         "shinyBS",
-        "shinyalert",
         "shinybusy",
         "shinydashboard",
         "shinyjqui",
@@ -14410,7 +14408,6 @@
         "scran",
         "sctransform",
         "scuttle",
-        "shinyalert",
         "shinycssloaders",
         "shinyjs",
         "sva",
@@ -17842,7 +17839,6 @@
     "golem": [
         "roxygen2"
     ],
-    "shinyalert": [],
     "AdaptGauss": [
         "DataVisualizations"
     ],
