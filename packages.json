@@ -221,7 +221,6 @@
         "GenomicFeatures"
     ],
     "bandle": [
-        "MLInterfaces",
         "caret",
         "pRoloc",
         "pRolocdata"
@@ -2848,7 +2847,6 @@
         "VariantAnnotation",
         "deepSNV"
     ],
-    "MLInterfaces": [],
     "MLSeq": [
         "DESeq2",
         "caret",
@@ -3565,11 +3563,9 @@
     ],
     "projectR": [],
     "pRoloc": [
-        "MLInterfaces",
         "caret"
     ],
     "pRolocGUI": [
-        "MLInterfaces",
         "caret",
         "pRoloc"
     ],
@@ -4284,9 +4280,7 @@
         "nloptr",
         "testthat"
     ],
-    "SigCheck": [
-        "MLInterfaces"
-    ],
+    "SigCheck": [],
     "signatureSearch": [
         "DOSE",
         "clusterProfiler",
