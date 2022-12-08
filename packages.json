@@ -42886,7 +42886,6 @@
         "vctrs"
     ],
     "qckitfastq": [
-        "RSeqAn",
         "dplyr",
         "ggplot2",
         "mgcv",
@@ -47359,7 +47358,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "RSeqAn": [],
     "Rsubread": [],
     "RSVSim": [
         "BiocParallel",
