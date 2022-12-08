@@ -286,15 +286,11 @@
         "VIM"
     ],
     "MSstatsLiP": [
-        "MSstatsPTM",
         "factoextra",
         "ggpubr",
         "rstatix"
     ],
-    "MSstatsPTM": [],
-    "MSstatsShiny": [
-        "MSstatsPTM"
-    ],
+    "MSstatsShiny": [],
     "multiSight": [],
     "muscat": [],
     "musicatk": [
