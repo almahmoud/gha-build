@@ -4202,7 +4202,6 @@
         "rCGH",
         "recipes"
     ],
-    "PREDA": [],
     "primirTSS": [
         "BSgenome.Hsapiens.UCSC.hg38",
         "CNEr",
