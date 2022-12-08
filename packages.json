@@ -704,8 +704,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
-        "TxDb.Rnorvegicus.UCSC.rn4.ensGene",
-        "systemPipeR"
+        "TxDb.Rnorvegicus.UCSC.rn4.ensGene"
     ],
     "ChIPseeker": [
         "DOSE",
@@ -1242,8 +1241,7 @@
     ],
     "DiffBind": [
         "DESeq2",
-        "GreyListChIP",
-        "systemPipeR"
+        "GreyListChIP"
     ],
     "diffcoexp": [],
     "diffcyt": [
@@ -4197,7 +4195,6 @@
         "pbkrtest",
         "rstatix",
         "sva",
-        "systemPipeR",
         "testthat",
         "treeio"
     ],
@@ -4850,7 +4847,6 @@
     "syntenet": [
         "testthat"
     ],
-    "systemPipeR": [],
     "systemPipeShiny": [],
     "systemPipeTools": [
         "DESeq2",
@@ -5195,7 +5191,6 @@
         "ensembldb",
         "mixtools",
         "regioneR",
-        "systemPipeR",
         "viper"
     ],
     "waddR": [
