@@ -450,7 +450,6 @@
         "tidyr"
     ],
     "AnVILBilling": [
-        "bigrquery",
         "dplyr",
         "ggplot2",
         "plotly",
@@ -1350,7 +1349,6 @@
         "KEGGREST",
         "MultiAssayExperiment",
         "Rsamtools",
-        "bigrquery",
         "biomaRt",
         "broom",
         "car",
@@ -15467,7 +15465,6 @@
         "ExperimentHub",
         "GO.db",
         "KEGGREST",
-        "bigrquery",
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase"
@@ -19154,7 +19151,6 @@
         "ExperimentHub",
         "GO.db",
         "KEGGREST",
-        "bigrquery",
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
@@ -20734,7 +20730,6 @@
     "hardhat": [],
     "ipred": [],
     "miniUI": [],
-    "bigrquery": [],
     "shinytoastr": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi",
