@@ -19757,7 +19757,6 @@
         "vctrs"
     ],
     "Maaslin2": [
-        "TMB",
         "broom",
         "car",
         "chemometrics",
@@ -19799,7 +19798,6 @@
         "Maaslin2",
         "RSQLite",
         "SummarizedExperiment",
-        "TMB",
         "WGCNA",
         "XVector",
         "blob",
@@ -23445,7 +23443,6 @@
     ],
     "MMUPHin": [
         "Maaslin2",
-        "TMB",
         "broom",
         "car",
         "chemometrics",
@@ -24875,7 +24872,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "TMB",
         "XVector",
         "annotate",
         "beachmat",
@@ -26843,7 +26839,6 @@
     "OpenStats": [
         "AICcmodavg",
         "Hmisc",
-        "TMB",
         "broom",
         "car",
         "dplyr",
@@ -32270,7 +32265,6 @@
         "vroom"
     ],
     "RNAdecay": [
-        "TMB",
         "ggplot2",
         "nloptr",
         "pillar",
@@ -46053,7 +46047,6 @@
     ],
     "chemometrics": [],
     "glmmTMB": [
-        "TMB",
         "lme4",
         "nloptr",
         "pillar",
@@ -46072,7 +46065,6 @@
         "tibble",
         "vctrs"
     ],
-    "TMB": [],
     "bigstatsr": [
         "RSpectra",
         "bigparallelr",
@@ -46852,7 +46844,6 @@
     "flatxml": [],
     "ontologyPlot": [],
     "AICcmodavg": [
-        "TMB",
         "lme4",
         "nloptr",
         "pillar",
@@ -46876,7 +46867,6 @@
         "vctrs"
     ],
     "unmarked": [
-        "TMB",
         "lme4",
         "nloptr",
         "pillar",
