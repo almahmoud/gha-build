@@ -3,11 +3,8 @@
         "ggpubr",
         "rstatix"
     ],
-    "affycoretools": [
-        "ReportingTools"
-    ],
+    "affycoretools": [],
     "AgiMicroRna": [
-        "ReportingTools",
         "affycoretools"
     ],
     "appreci8R": [],
@@ -483,7 +480,6 @@
     "recount": [],
     "regionReport": [],
     "regutools": [],
-    "ReportingTools": [],
     "rexposome": [
         "FactoMineR"
     ],
