@@ -64721,7 +64721,6 @@
         "purrr",
         "quantreg",
         "qvalue",
-        "rafalib",
         "rematch2",
         "reshape2",
         "restfulr",
@@ -79870,8 +79869,7 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "purrr",
-        "rafalib"
+        "purrr"
     ],
     "trena": [
         "AnnotationDbi",
@@ -95126,7 +95124,6 @@
         "futile.logger",
         "lambda.r"
     ],
-    "rafalib": [],
     "systemPipeRdata": [
         "Biostrings",
         "GenomeInfoDb",
