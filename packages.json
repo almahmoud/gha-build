@@ -19535,7 +19535,6 @@
         "tibble",
         "waldo"
     ],
-    "paircompviz": [],
     "pairkat": [
         "Biostrings",
         "GenomicRanges",
