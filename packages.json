@@ -1212,9 +1212,7 @@
         "GenomicFeatures",
         "heatmaply"
     ],
-    "DEGraph": [
-        "NCIgraph"
-    ],
+    "DEGraph": [],
     "DEGreport": [
         "DESeq2"
     ],
@@ -3379,7 +3377,6 @@
     "ncGTW": [
         "xcms"
     ],
-    "NCIgraph": [],
     "ndexr": [],
     "nearBynding": [
         "GenomicFeatures",
