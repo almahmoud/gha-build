@@ -4056,9 +4056,7 @@
         "DiagrammeR",
         "Rcwl"
     ],
-    "ReactomeGraph4R": [
-        "neo4r"
-    ],
+    "ReactomeGraph4R": [],
     "ReactomePA": [
         "DOSE",
         "enrichplot",
@@ -5914,7 +5912,6 @@
     "phastCons100way.UCSC.hg19": [
         "GenomicScores"
     ],
-    "neo4r": [],
     "BSgenome.Celegans.UCSC.ce2": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [],
     "rGenomeTracksData": [],
