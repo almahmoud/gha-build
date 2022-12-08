@@ -5626,7 +5626,6 @@
         "dplyr",
         "fields",
         "flowDensity",
-        "flowViz",
         "flowWorkspace",
         "forcats",
         "ggplot2",
@@ -5758,7 +5757,6 @@
     ],
     "CytoML": [
         "dplyr",
-        "flowViz",
         "flowWorkspace",
         "ggcyto",
         "ggplot2",
@@ -5990,7 +5988,6 @@
         "dplyr",
         "fields",
         "flowDensity",
-        "flowViz",
         "flowWorkspace",
         "ggplot2",
         "knitr",
@@ -8810,8 +8807,7 @@
         "knitr"
     ],
     "flowBin": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "flowcatchR": [
         "dplyr",
@@ -8836,7 +8832,6 @@
         "dplyr",
         "fields",
         "flowDensity",
-        "flowViz",
         "flowWorkspace",
         "ggplot2",
         "knitr",
@@ -8858,7 +8853,6 @@
         "car",
         "dplyr",
         "fields",
-        "flowViz",
         "flowWorkspace",
         "ggplot2",
         "knitr",
@@ -8872,9 +8866,7 @@
         "viridis",
         "waldo"
     ],
-    "flowFP": [
-        "flowViz"
-    ],
+    "flowFP": [],
     "flowGraph": [
         "ggiraph",
         "ggplot2",
@@ -8935,7 +8927,6 @@
         "dplyr",
         "fda",
         "fds",
-        "flowViz",
         "flowWorkspace",
         "ggplot2",
         "hdrcde",
@@ -8946,16 +8937,12 @@
         "dplyr",
         "tibble"
     ],
-    "flowTrans": [
-        "flowViz"
-    ],
-    "flowViz": [],
+    "flowTrans": [],
     "flowVS": [
         "dplyr",
         "fda",
         "fds",
         "flowStats",
-        "flowViz",
         "flowWorkspace",
         "ggplot2",
         "hdrcde",
@@ -9244,8 +9231,7 @@
         "waldo"
     ],
     "GateFinder": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "GBScleanR": [
         "Biostrings",
@@ -17456,7 +17442,6 @@
     ],
     "openCyto": [
         "dplyr",
-        "flowViz",
         "flowWorkspace",
         "ggplot2",
         "tibble"
