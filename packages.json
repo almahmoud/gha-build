@@ -1495,7 +1495,6 @@
         "ggrastr",
         "ggrepel",
         "gld",
-        "gmp",
         "gridExtra",
         "highr",
         "hms",
@@ -5135,7 +5134,6 @@
         "gld",
         "glmnet",
         "globals",
-        "gmp",
         "gplots",
         "gridExtra",
         "here",
@@ -13322,7 +13320,6 @@
         "futile.logger",
         "genefilter",
         "ggplot2",
-        "gmp",
         "hms",
         "httr",
         "irlba",
@@ -31567,7 +31564,6 @@
         "fontawesome",
         "genefilter",
         "ggplot2",
-        "gmp",
         "graph",
         "gridExtra",
         "highr",
@@ -41192,7 +41188,6 @@
         "foreach",
         "futile.logger",
         "ggplot2",
-        "gmp",
         "httr",
         "lambda.r",
         "lifecycle",
@@ -45118,7 +45113,6 @@
         "gld",
         "glmnet",
         "globals",
-        "gmp",
         "gplots",
         "gridExtra",
         "gridSVG",
@@ -47240,7 +47234,6 @@
         "cachem",
         "edgeR",
         "ggplot2",
-        "gmp",
         "graph",
         "gridExtra",
         "httr",
@@ -48536,7 +48529,6 @@
         "cachem",
         "doRNG",
         "foreach",
-        "gmp",
         "httr",
         "lifecycle",
         "memoise",
@@ -51914,7 +51906,6 @@
         "ggplot2",
         "ggrastr",
         "ggrepel",
-        "gmp",
         "gridExtra",
         "hms",
         "httr",
@@ -56489,7 +56480,6 @@
         "futile.logger",
         "ggplot2",
         "ggrepel",
-        "gmp",
         "hms",
         "htmltools",
         "htmlwidgets",
@@ -57872,7 +57862,6 @@
         "ggrepel",
         "glmnet",
         "globals",
-        "gmp",
         "gridExtra",
         "hardhat",
         "highr",
@@ -61252,7 +61241,6 @@
     "rain": [
         "Biobase",
         "Matrix",
-        "gmp",
         "multtest",
         "survival"
     ],
@@ -61366,8 +61354,7 @@
         "Rdpack"
     ],
     "RankProd": [
-        "Rmpfr",
-        "gmp"
+        "Rmpfr"
     ],
     "RAREsim": [
         "callr",
@@ -72099,7 +72086,6 @@
         "ggtext",
         "glmnet",
         "globals",
-        "gmp",
         "gridExtra",
         "gridtext",
         "highr",
@@ -73450,7 +73436,6 @@
         "RcppAlgos",
         "dplyr",
         "ellipsis",
-        "gmp",
         "lifecycle",
         "pillar",
         "purrr",
@@ -77746,7 +77731,6 @@
         "dplyr",
         "ellipsis",
         "ggplot2",
-        "gmp",
         "highr",
         "knitr",
         "lifecycle",
@@ -80716,7 +80700,6 @@
         "futile.logger",
         "geneplotter",
         "ggplot2",
-        "gmp",
         "gplots",
         "graph",
         "httr",
@@ -84357,7 +84340,6 @@
         "ggbeeswarm",
         "ggbio",
         "ggplot2",
-        "gmp",
         "graph",
         "gridExtra",
         "gtrellis",
@@ -85907,7 +85889,6 @@
         "RcppEigen",
         "Rmpfr",
         "bit64",
-        "gmp",
         "osqp"
     ],
     "DescTools": [
@@ -85958,10 +85939,7 @@
         "vctrs",
         "waldo"
     ],
-    "gmp": [],
-    "Rmpfr": [
-        "gmp"
-    ],
+    "Rmpfr": [],
     "osqp": [
         "Matrix"
     ],
@@ -90817,7 +90795,6 @@
         "Matrix",
         "RcppArmadillo",
         "ggplot2",
-        "gmp",
         "lifecycle",
         "mgcv",
         "munsell",
@@ -93087,7 +93064,6 @@
         "ellipsis",
         "fontawesome",
         "ggplot2",
-        "gmp",
         "gridExtra",
         "highr",
         "htmlTable",
@@ -95796,7 +95772,6 @@
         "BWStest",
         "Rmpfr",
         "cachem",
-        "gmp",
         "kSamples",
         "memoise"
     ],
@@ -97401,9 +97376,7 @@
         "vctrs"
     ],
     "mixsmsn": [],
-    "RcppAlgos": [
-        "gmp"
-    ],
+    "RcppAlgos": [],
     "sampSurf": [],
     "spdep": [
         "class",
