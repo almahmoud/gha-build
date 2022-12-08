@@ -38,7 +38,6 @@
         "GO.db",
         "broom",
         "car",
-        "cowplot",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -153,7 +152,6 @@
     "ALDEx2": [],
     "alevinQC": [
         "GGally",
-        "cowplot",
         "tidyr"
     ],
     "AllelicImbalance": [
@@ -239,7 +237,6 @@
     ],
     "AneuFinder": [
         "GenomicAlignments",
-        "cowplot",
         "ggdendro",
         "ggrepel"
     ],
@@ -337,7 +334,6 @@
         "GO.db",
         "Seurat",
         "SingleCellExperiment",
-        "cowplot",
         "ggrepel",
         "ggridges",
         "org.Hs.eg.db",
@@ -449,7 +445,6 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "cowplot",
         "dbplyr",
         "ensembldb",
         "fgsea",
@@ -514,7 +509,6 @@
         "biomaRt",
         "broom",
         "chromVAR",
-        "cowplot",
         "dbplyr",
         "dtplyr",
         "fgsea",
@@ -690,7 +684,6 @@
         "rstan"
     ],
     "barcodetrackR": [
-        "cowplot",
         "ggdendro",
         "ggridges",
         "tidyr",
@@ -711,7 +704,6 @@
     "BASiCS": [
         "SingleCellExperiment",
         "colourpicker",
-        "cowplot",
         "ggExtra",
         "scran",
         "scuttle",
@@ -721,7 +713,6 @@
         "BASiCS",
         "SingleCellExperiment",
         "colourpicker",
-        "cowplot",
         "ggExtra",
         "glmGamPoi",
         "rstan",
@@ -802,7 +793,6 @@
         "TreeSummarizedExperiment",
         "annotate",
         "corncob",
-        "cowplot",
         "dearseq",
         "decontam",
         "genefilter",
@@ -916,7 +906,6 @@
         "broom",
         "car",
         "clusterProfiler",
-        "cowplot",
         "enrichplot",
         "fgsea",
         "ggforce",
@@ -973,7 +962,6 @@
         "biomaRt",
         "broom",
         "car",
-        "cowplot",
         "curatedTCGAData",
         "dbplyr",
         "ggpubr",
@@ -1113,7 +1101,6 @@
         "GO.db",
         "Hmisc",
         "WGCNA",
-        "cowplot",
         "dbplyr",
         "fgsea",
         "ggrepel",
@@ -1283,13 +1270,11 @@
         "DSS",
         "GenomicAlignments",
         "bsseq",
-        "cowplot",
         "rtracklayer"
     ],
     "BPRMeth": [
         "BiocStyle",
-        "bookdown",
-        "cowplot"
+        "bookdown"
     ],
     "brainflowprobes": [
         "AnnotationHub",
@@ -1307,7 +1292,6 @@
         "biomaRt",
         "biovizBase",
         "bumphunter",
-        "cowplot",
         "dbplyr",
         "derfinder",
         "derfinderPlot",
@@ -1331,7 +1315,6 @@
         "GenomicAlignments",
         "biomaRt",
         "caret",
-        "cowplot",
         "dbplyr",
         "ipred",
         "recipes",
@@ -1339,8 +1322,7 @@
         "tidyr"
     ],
     "breakpointR": [
-        "GenomicAlignments",
-        "cowplot"
+        "GenomicAlignments"
     ],
     "brendaDb": [
         "BiocFileCache",
@@ -1552,7 +1534,6 @@
         "SingleCellExperiment",
         "broom",
         "car",
-        "cowplot",
         "drc",
         "ggbeeswarm",
         "ggforce",
@@ -1693,7 +1674,6 @@
     "CelliD": [
         "Seurat",
         "SingleCellExperiment",
-        "cowplot",
         "fgsea",
         "ggbeeswarm",
         "ggrastr",
@@ -1730,7 +1710,6 @@
     ],
     "CellMixS": [
         "SingleCellExperiment",
-        "cowplot",
         "ggbeeswarm",
         "ggrastr",
         "ggrepel",
@@ -1762,7 +1741,6 @@
         "WGCNA",
         "aplot",
         "clusterProfiler",
-        "cowplot",
         "enrichplot",
         "fgsea",
         "ggdendro",
@@ -1794,7 +1772,6 @@
         "broom",
         "broom.mixed",
         "car",
-        "cowplot",
         "diffcyt",
         "ggforce",
         "ggnewscale",
@@ -1840,7 +1817,6 @@
         "broom",
         "car",
         "clusterProfiler",
-        "cowplot",
         "enrichplot",
         "fgsea",
         "geneplotter",
@@ -1942,7 +1918,6 @@
     "ChemmineR": [],
     "CHETAH": [
         "SingleCellExperiment",
-        "cowplot",
         "dendextend",
         "plotly",
         "tidyr",
@@ -2070,7 +2045,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "aplot",
         "biomaRt",
-        "cowplot",
         "dbplyr",
         "enrichplot",
         "fgsea",
@@ -2231,7 +2205,6 @@
     ],
     "CiteFuse": [
         "SingleCellExperiment",
-        "cowplot",
         "ggforce",
         "ggraph",
         "ggrepel",
@@ -2310,7 +2283,6 @@
         "GOSemSim",
         "HDO.db",
         "aplot",
-        "cowplot",
         "enrichplot",
         "fgsea",
         "ggforce",
@@ -2334,7 +2306,6 @@
     "clusterSeq": [],
     "clustifyr": [
         "SingleCellExperiment",
-        "cowplot",
         "fgsea",
         "readr",
         "tidyr"
@@ -2594,7 +2565,6 @@
         "broom",
         "car",
         "clusterProfiler",
-        "cowplot",
         "dbplyr",
         "dendextend",
         "enrichplot",
@@ -2759,7 +2729,6 @@
     ],
     "CoreGx": [
         "MultiAssayExperiment",
-        "cowplot",
         "fgsea",
         "piano",
         "tidyr"
@@ -2974,7 +2943,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "broom",
-        "cowplot",
         "dbplyr",
         "fgsea",
         "ggrepel",
@@ -3028,7 +2996,6 @@
         "RFOC",
         "broom",
         "car",
-        "cowplot",
         "cytometree",
         "fields",
         "flowDensity",
@@ -3053,7 +3020,6 @@
         "broom",
         "car",
         "caret",
-        "cowplot",
         "dendextend",
         "diffcyt",
         "factoextra",
@@ -3080,7 +3046,6 @@
         "broom",
         "car",
         "caret",
-        "cowplot",
         "dendextend",
         "factoextra",
         "ggpubr",
@@ -3142,7 +3107,6 @@
         "VariantAnnotation",
         "biomaRt",
         "bumphunter",
-        "cowplot",
         "dbplyr",
         "readr",
         "rtracklayer"
@@ -3196,7 +3160,6 @@
         "broom",
         "car",
         "cmdfun",
-        "cowplot",
         "dbplyr",
         "ggpubr",
         "ggrepel",
@@ -3279,7 +3242,6 @@
         "aplot",
         "clusterProfiler",
         "colourpicker",
-        "cowplot",
         "dendextend",
         "egg",
         "enrichplot",
@@ -3419,7 +3381,6 @@
         "DESeq2",
         "annotate",
         "broom",
-        "cowplot",
         "geneplotter",
         "ggdendro",
         "ggrepel",
@@ -3589,7 +3550,6 @@
         "FlowSOM",
         "broom",
         "car",
-        "cowplot",
         "ggforce",
         "ggnewscale",
         "ggpubr",
@@ -3643,7 +3603,6 @@
     "Dino": [
         "Seurat",
         "SingleCellExperiment",
-        "cowplot",
         "ggrepel",
         "ggridges",
         "patchwork",
@@ -3682,7 +3641,6 @@
     ],
     "dittoSeq": [
         "SingleCellExperiment",
-        "cowplot",
         "ggrepel",
         "ggridges"
     ],
@@ -3810,7 +3768,6 @@
         "GO.db",
         "GOSemSim",
         "HDO.db",
-        "cowplot",
         "fgsea",
         "qvalue"
     ],
@@ -3880,7 +3837,6 @@
         "annotate",
         "broom",
         "car",
-        "cowplot",
         "dbplyr",
         "decoupleR",
         "dorothea",
@@ -3910,7 +3866,6 @@
         "HDO.db",
         "aplot",
         "clusterProfiler",
-        "cowplot",
         "enrichplot",
         "fgsea",
         "ggforce",
@@ -3984,7 +3939,6 @@
         "annotate",
         "aplot",
         "clusterProfiler",
-        "cowplot",
         "enrichplot",
         "fgsea",
         "geneplotter",
@@ -4054,7 +4008,6 @@
         "biovizBase",
         "broom",
         "car",
-        "cowplot",
         "dbplyr",
         "ensembldb",
         "ggpubr",
@@ -4125,7 +4078,6 @@
         "GOSemSim",
         "HDO.db",
         "aplot",
-        "cowplot",
         "fgsea",
         "ggforce",
         "ggfun",
@@ -4158,7 +4110,6 @@
         "broom",
         "car",
         "clusterProfiler",
-        "cowplot",
         "enrichplot",
         "fgsea",
         "ggforce",
@@ -4227,7 +4178,6 @@
         "annotate",
         "aplot",
         "biomaRt",
-        "cowplot",
         "dbplyr",
         "enrichplot",
         "fgsea",
@@ -4258,7 +4208,6 @@
         "GenomicAlignments",
         "broom",
         "car",
-        "cowplot",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -4281,7 +4230,6 @@
         "GreyListChIP",
         "broom",
         "car",
-        "cowplot",
         "csaw",
         "ggpubr",
         "ggrepel",
@@ -4306,7 +4254,6 @@
         "ReactomePA",
         "WGCNA",
         "aplot",
-        "cowplot",
         "enrichplot",
         "fgsea",
         "ggforce",
@@ -4489,7 +4436,6 @@
         "aplot",
         "biomaRt",
         "clusterProfiler",
-        "cowplot",
         "dbplyr",
         "enrichplot",
         "fgsea",
@@ -4546,7 +4492,6 @@
         "GenomicFeatures",
         "SGSeq",
         "biomaRt",
-        "cowplot",
         "dbplyr",
         "fgsea",
         "qvalue",
@@ -4561,7 +4506,6 @@
         "babelgene",
         "broom",
         "car",
-        "cowplot",
         "dbplyr",
         "ewceData",
         "ggfun",
@@ -4635,7 +4579,6 @@
         "treeio"
     ],
     "ExploreModelMatrix": [
-        "cowplot",
         "tidyr"
     ],
     "ExpressionAtlas": [
@@ -4672,7 +4615,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "biomaRt",
-        "cowplot",
         "dbplyr",
         "drawProteins",
         "readr",
@@ -4692,7 +4634,6 @@
         "HDO.db",
         "aplot",
         "clusterProfiler",
-        "cowplot",
         "enrichplot",
         "fgsea",
         "ggforce",
@@ -4755,7 +4696,6 @@
         "SingleCellExperiment",
         "aplot",
         "clusterProfiler",
-        "cowplot",
         "enrichplot",
         "fgsea",
         "ggforce",
@@ -4825,9 +4765,7 @@
         "dbplyr"
     ],
     "FGNet": [],
-    "fgsea": [
-        "cowplot"
-    ],
+    "fgsea": [],
     "FilterFFPE": [],
     "FindIT2": [
         "BiocFileCache",
@@ -4870,7 +4808,6 @@
         "bambu",
         "biomaRt",
         "biovizBase",
-        "cowplot",
         "dbplyr",
         "ensembldb",
         "ggbeeswarm",
@@ -4943,7 +4880,6 @@
     "FlowSOM": [
         "broom",
         "car",
-        "cowplot",
         "ggforce",
         "ggnewscale",
         "ggpubr",
@@ -4981,7 +4917,6 @@
     ],
     "fobitools": [
         "RecordLinkage",
-        "cowplot",
         "fgsea",
         "ggforce",
         "ggraph",
@@ -5008,7 +4943,6 @@
         "OUTRIDER",
         "annotate",
         "biomaRt",
-        "cowplot",
         "dbplyr",
         "dendextend",
         "egg",
@@ -5070,7 +5004,6 @@
         "FCPS",
         "broom",
         "car",
-        "cowplot",
         "ggplotify",
         "ggpubr",
         "ggrepel",
@@ -5174,7 +5107,6 @@
         "broom",
         "car",
         "clusterProfiler",
-        "cowplot",
         "dbplyr",
         "enrichplot",
         "fgsea",
@@ -5237,7 +5169,6 @@
         "biomaRt",
         "broom",
         "car",
-        "cowplot",
         "dbplyr",
         "ggpubr",
         "ggrepel",
@@ -5433,7 +5364,6 @@
         "BiocFileCache",
         "broom",
         "car",
-        "cowplot",
         "dbplyr",
         "flextable",
         "ggpubr",
@@ -5507,7 +5437,6 @@
         "GEOquery",
         "broom",
         "car",
-        "cowplot",
         "dendextend",
         "egg",
         "factoextra",
@@ -5693,7 +5622,6 @@
         "biomaRt",
         "broom",
         "car",
-        "cowplot",
         "dbplyr",
         "ggpubr",
         "ggrepel",
@@ -5805,7 +5733,6 @@
         "HDO.db",
         "aplot",
         "clusterProfiler",
-        "cowplot",
         "enrichplot",
         "fgsea",
         "ggforce",
@@ -5872,15 +5799,12 @@
         "viridis"
     ],
     "granulator": [
-        "cowplot",
         "epiR",
         "flextable",
         "ggplotify",
         "tidyr"
     ],
-    "graper": [
-        "cowplot"
-    ],
+    "graper": [],
     "graphite": [],
     "GraphPAC": [],
     "GRENITS": [],
@@ -5939,7 +5863,6 @@
         "PPInfer",
         "STRINGdb",
         "biomaRt",
-        "cowplot",
         "dbplyr",
         "fgsea"
     ],
@@ -6132,7 +6055,6 @@
         "broom",
         "car",
         "colourpicker",
-        "cowplot",
         "ggExtra",
         "ggpubr",
         "ggrepel",
@@ -6178,7 +6100,6 @@
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "biomaRt",
-        "cowplot",
         "dbplyr",
         "rtracklayer",
         "tidyr"
@@ -6363,7 +6284,6 @@
     "ILoReg": [
         "DescTools",
         "SingleCellExperiment",
-        "cowplot",
         "dendextend",
         "readxl",
         "viridis"
@@ -6435,7 +6355,6 @@
     "infercnv": [
         "Seurat",
         "SingleCellExperiment",
-        "cowplot",
         "ggrepel",
         "ggridges",
         "patchwork",
@@ -6474,7 +6393,6 @@
         "MultiAssayExperiment",
         "broom",
         "car",
-        "cowplot",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -6525,7 +6443,6 @@
         "broom",
         "car",
         "colourpicker",
-        "cowplot",
         "dbplyr",
         "dendextend",
         "factoextra",
@@ -6570,7 +6487,6 @@
     "iPath": [
         "broom",
         "car",
-        "cowplot",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -6613,7 +6529,6 @@
         "broom",
         "car",
         "clusterProfiler",
-        "cowplot",
         "enrichplot",
         "fgsea",
         "ggbeeswarm",
@@ -6732,7 +6647,6 @@
         "GGally",
         "annotate",
         "broom",
-        "cowplot",
         "geneplotter",
         "ggdendro",
         "ggrepel",
@@ -6762,7 +6676,6 @@
         "UpSetR",
         "broom",
         "car",
-        "cowplot",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -6835,7 +6748,6 @@
         "broom",
         "bsseq",
         "car",
-        "cowplot",
         "dendextend",
         "factoextra",
         "geneplotter",
@@ -6900,7 +6812,6 @@
         "MultiAssayExperiment",
         "broom",
         "car",
-        "cowplot",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -6922,7 +6833,6 @@
     ],
     "LinTInd": [
         "aplot",
-        "cowplot",
         "ggfun",
         "ggnewscale",
         "ggplotify",
@@ -6936,7 +6846,6 @@
     "lipidr": [
         "MultiAssayExperiment",
         "MultiDataSet",
-        "cowplot",
         "fgsea",
         "ggrepel",
         "plotly",
@@ -7135,7 +7044,6 @@
         "bigstatsr",
         "biomaRt",
         "bumphunter",
-        "cowplot",
         "crlmm",
         "dbplyr",
         "fields",
@@ -7160,7 +7068,6 @@
         "aplot",
         "babelgene",
         "clusterProfiler",
-        "cowplot",
         "dbplyr",
         "depmap",
         "enrichplot",
@@ -7335,7 +7242,6 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "cowplot",
         "dbplyr",
         "ensembldb",
         "fgsea",
@@ -7441,8 +7347,7 @@
     "Melissa": [
         "BPRMeth",
         "BiocStyle",
-        "bookdown",
-        "cowplot"
+        "bookdown"
     ],
     "memes": [
         "cmdfun",
@@ -7464,7 +7369,6 @@
         "HDO.db",
         "MeSHDbi",
         "aplot",
-        "cowplot",
         "dbplyr",
         "enrichplot",
         "fgsea",
@@ -7495,7 +7399,6 @@
         "genefilter"
     ],
     "MesKit": [
-        "cowplot",
         "ggrepel",
         "ggridges",
         "tidyr"
@@ -7556,7 +7459,6 @@
         "FlowSOM",
         "broom",
         "car",
-        "cowplot",
         "ggforce",
         "ggnewscale",
         "ggpubr",
@@ -7608,7 +7510,6 @@
         "RecordLinkage",
         "aplot",
         "clusterProfiler",
-        "cowplot",
         "enrichplot",
         "fgsea",
         "ggforce",
@@ -7631,7 +7532,6 @@
         "viridis"
     ],
     "metapone": [
-        "cowplot",
         "fgsea",
         "fields",
         "ggrepel",
@@ -7684,7 +7584,6 @@
     ],
     "MetaVolcanoR": [
         "TFisher",
-        "cowplot",
         "metap",
         "plotly",
         "tidyr",
@@ -7713,7 +7612,6 @@
         "ExperimentHub",
         "broom",
         "car",
-        "cowplot",
         "dbplyr",
         "ggpubr",
         "ggrepel",
@@ -7787,7 +7685,6 @@
         "broom",
         "bumphunter",
         "car",
-        "cowplot",
         "dbplyr",
         "devtools",
         "dtplyr",
@@ -7839,7 +7736,6 @@
         "biomaRt",
         "bumphunter",
         "clusterProfiler",
-        "cowplot",
         "dbplyr",
         "enrichplot",
         "fgsea",
@@ -8075,7 +7971,6 @@
         "HDO.db",
         "aplot",
         "clusterProfiler",
-        "cowplot",
         "enrichplot",
         "fgsea",
         "ggforce",
@@ -8136,7 +8031,6 @@
     ],
     "miloR": [
         "SingleCellExperiment",
-        "cowplot",
         "ggbeeswarm",
         "ggforce",
         "ggraph",
@@ -8272,7 +8166,6 @@
         "car",
         "caret",
         "clusterProfiler",
-        "cowplot",
         "cvms",
         "dbplyr",
         "dendextend",
@@ -8345,7 +8238,6 @@
         "car",
         "caret",
         "clusterProfiler",
-        "cowplot",
         "cvms",
         "dbplyr",
         "dtplyr",
@@ -8478,7 +8370,6 @@
         "Maaslin2",
         "broom",
         "car",
-        "cowplot",
         "cplm",
         "glmmTMB",
         "lme4",
@@ -8512,7 +8403,6 @@
         "viridis"
     ],
     "MOFA2": [
-        "cowplot",
         "ggrepel",
         "tidyr"
     ],
@@ -8558,7 +8448,6 @@
         "aplot",
         "biomaRt",
         "clusterProfiler",
-        "cowplot",
         "dbplyr",
         "enrichplot",
         "fgsea",
@@ -8658,7 +8547,6 @@
     "MQmetrics": [
         "broom",
         "car",
-        "cowplot",
         "ggforce",
         "gghalves",
         "ggpubr",
@@ -8779,7 +8667,6 @@
         "MSstatsTMT",
         "broom",
         "car",
-        "cowplot",
         "dbplyr",
         "dendextend",
         "dtplyr",
@@ -8919,7 +8806,6 @@
     ],
     "multiGSEA": [
         "TFisher",
-        "cowplot",
         "fgsea",
         "graphite",
         "metap"
@@ -8947,7 +8833,6 @@
         "biosigner",
         "caret",
         "clusterProfiler",
-        "cowplot",
         "devtools",
         "enrichplot",
         "fgsea",
@@ -9041,7 +8926,6 @@
         "biomaRt",
         "broom",
         "car",
-        "cowplot",
         "dbplyr",
         "decompTumor2Sig",
         "deconstructSigs",
@@ -9076,7 +8960,6 @@
         "NMF",
         "VariantAnnotation",
         "biomaRt",
-        "cowplot",
         "dbplyr",
         "ggalluvial",
         "ggdendro",
@@ -9185,7 +9068,6 @@
         "waldo"
     ],
     "NanoTube": [
-        "cowplot",
         "fgsea"
     ],
     "NBAMSeq": [
@@ -9233,7 +9115,6 @@
     "Nebulosa": [
         "Seurat",
         "SingleCellExperiment",
-        "cowplot",
         "ggrepel",
         "ggridges",
         "patchwork",
@@ -9268,7 +9149,6 @@
         "HDO.db",
         "aplot",
         "clusterProfiler",
-        "cowplot",
         "enrichplot",
         "fgsea",
         "ggforce",
@@ -9508,7 +9388,6 @@
         "bumphunter",
         "car",
         "cmdfun",
-        "cowplot",
         "dasper",
         "dbplyr",
         "derfinder",
@@ -9612,7 +9491,6 @@
         "biomaRt",
         "broom",
         "car",
-        "cowplot",
         "dbplyr",
         "dendextend",
         "factoextra",
@@ -9640,7 +9518,6 @@
     "omicsViewer": [
         "broom",
         "car",
-        "cowplot",
         "fgsea",
         "ggpubr",
         "ggrepel",
@@ -9763,7 +9640,6 @@
         "annotate",
         "biomaRt",
         "biomartr",
-        "cowplot",
         "dbplyr",
         "geneplotter",
         "readr",
@@ -9790,7 +9666,6 @@
         "babelgene",
         "broom",
         "car",
-        "cowplot",
         "ggfun",
         "ggplotify",
         "ggpubr",
@@ -9895,7 +9770,6 @@
         "annotate",
         "aplot",
         "clusterProfiler",
-        "cowplot",
         "enrichplot",
         "fgsea",
         "ggforce",
@@ -9926,7 +9800,6 @@
         "GO.db",
         "GOSemSim",
         "HDO.db",
-        "cowplot",
         "fgsea",
         "ggforce",
         "ggraph",
@@ -9995,7 +9868,6 @@
         "viridis"
     ],
     "PCAtools": [
-        "cowplot",
         "ggrepel"
     ],
     "PDATK": [
@@ -10006,7 +9878,6 @@
         "broom",
         "car",
         "caret",
-        "cowplot",
         "dbplyr",
         "fgsea",
         "fields",
@@ -10069,7 +9940,6 @@
     "periodicDNA": [
         "BSgenome",
         "GenomicAlignments",
-        "cowplot",
         "rtracklayer"
     ],
     "PFP": [
@@ -10079,7 +9949,6 @@
         "HDO.db",
         "aplot",
         "clusterProfiler",
-        "cowplot",
         "enrichplot",
         "fgsea",
         "ggforce",
@@ -10104,7 +9973,6 @@
         "DESeq2",
         "GEOquery",
         "annotate",
-        "cowplot",
         "fgsea",
         "geneplotter",
         "readr",
@@ -10113,7 +9981,6 @@
     "PharmacoGx": [
         "CoreGx",
         "MultiAssayExperiment",
-        "cowplot",
         "fgsea",
         "piano",
         "tidyr"
@@ -10179,7 +10046,6 @@
         "GGally",
         "broom",
         "car",
-        "cowplot",
         "dendextend",
         "ggdendro",
         "ggpubr",
@@ -10223,7 +10089,6 @@
         "tidyr"
     ],
     "piano": [
-        "cowplot",
         "fgsea"
     ],
     "PICS": [
@@ -10243,7 +10108,6 @@
         "aplot",
         "bookdown",
         "clusterProfiler",
-        "cowplot",
         "enrichplot",
         "fgsea",
         "ggforce",
@@ -10289,7 +10153,6 @@
     "pipeComp": [
         "Seurat",
         "SingleCellExperiment",
-        "cowplot",
         "ggbeeswarm",
         "ggrastr",
         "ggrepel",
@@ -10331,7 +10194,6 @@
         "broom",
         "car",
         "colourpicker",
-        "cowplot",
         "egg",
         "ggpubr",
         "ggrepel",
@@ -10406,7 +10268,6 @@
         "BiocFileCache",
         "STRINGdb",
         "biomaRt",
-        "cowplot",
         "dbplyr",
         "fgsea"
     ],
@@ -10542,7 +10403,6 @@
         "aplot",
         "biomaRt",
         "chipseq",
-        "cowplot",
         "dbplyr",
         "enrichplot",
         "fgsea",
@@ -10679,7 +10539,6 @@
         "annotate",
         "broom",
         "car",
-        "cowplot",
         "dendextend",
         "factoextra",
         "genefilter",
@@ -10746,7 +10605,6 @@
         "MSnbase",
         "broom",
         "car",
-        "cowplot",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -10964,7 +10822,6 @@
     "RadioGx": [
         "CoreGx",
         "MultiAssayExperiment",
-        "cowplot",
         "fgsea",
         "piano",
         "tidyr"
@@ -11022,7 +10879,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "biomaRt",
-        "cowplot",
         "dbplyr",
         "genomation",
         "ggseqlogo",
@@ -11094,7 +10950,6 @@
         "GOSemSim",
         "HDO.db",
         "aplot",
-        "cowplot",
         "enrichplot",
         "fgsea",
         "ggforce",
@@ -11201,7 +11056,6 @@
         "Hmisc",
         "WGCNA",
         "annotate",
-        "cowplot",
         "fgsea",
         "geneplotter",
         "qvalue",
@@ -11433,7 +11287,6 @@
         "annotate",
         "biomaRt",
         "biomartr",
-        "cowplot",
         "dbplyr",
         "geneplotter",
         "plotly",
@@ -11502,7 +11355,6 @@
         "GenomicAlignments",
         "broom",
         "car",
-        "cowplot",
         "egg",
         "lme4",
         "nloptr",
@@ -11746,7 +11598,6 @@
         "broom",
         "car",
         "clusterProfiler",
-        "cowplot",
         "dendextend",
         "enrichplot",
         "factoextra",
@@ -11799,7 +11650,6 @@
         "broom",
         "bumphunter",
         "car",
-        "cowplot",
         "dbplyr",
         "derfinder",
         "ggpubr",
@@ -11924,7 +11774,6 @@
     "RTCGA": [
         "broom",
         "car",
-        "cowplot",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -12078,7 +11927,6 @@
     "scAlign": [
         "Seurat",
         "SingleCellExperiment",
-        "cowplot",
         "ggrepel",
         "ggridges",
         "patchwork",
@@ -12099,7 +11947,6 @@
         "tidyr"
     ],
     "scanMiR": [
-        "cowplot",
         "ggseqlogo"
     ],
     "scanMiRApp": [
@@ -12108,7 +11955,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "biomaRt",
-        "cowplot",
         "dbplyr",
         "ensembldb",
         "ggseqlogo",
@@ -12124,7 +11970,6 @@
         "Seurat",
         "SingleCellExperiment",
         "caret",
-        "cowplot",
         "dbplyr",
         "ggrepel",
         "ggridges",
@@ -12165,7 +12010,6 @@
         "Seurat",
         "SingleCellExperiment",
         "annotate",
-        "cowplot",
         "genefilter",
         "geneplotter",
         "ggrepel",
@@ -12180,7 +12024,6 @@
     "scBubbletree": [
         "Seurat",
         "aplot",
-        "cowplot",
         "ggfun",
         "ggplotify",
         "ggrepel",
@@ -12198,7 +12041,6 @@
         "DropletUtils",
         "Seurat",
         "SingleCellExperiment",
-        "cowplot",
         "ggrepel",
         "ggridges",
         "patchwork",
@@ -12234,7 +12076,6 @@
     "scDataviz": [
         "Seurat",
         "SingleCellExperiment",
-        "cowplot",
         "ggrepel",
         "ggridges",
         "patchwork",
@@ -12293,7 +12134,6 @@
         "Seurat",
         "SingleCellExperiment",
         "concaveman",
-        "cowplot",
         "ggforce",
         "ggrepel",
         "ggridges",
@@ -12313,7 +12153,6 @@
     ],
     "scMAGeCK": [
         "Seurat",
-        "cowplot",
         "ggrepel",
         "ggridges",
         "patchwork",
@@ -12339,7 +12178,6 @@
         "BiocStyle",
         "SingleCellExperiment",
         "bookdown",
-        "cowplot",
         "rstan",
         "viridis"
     ],
@@ -12494,7 +12332,6 @@
         "bookdown",
         "ccTensor",
         "concaveman",
-        "cowplot",
         "dbplyr",
         "dendextend",
         "egg",
@@ -12539,7 +12376,6 @@
         "babelgene",
         "bookdown",
         "concaveman",
-        "cowplot",
         "fields",
         "ggforce",
         "ggrepel",
@@ -12564,7 +12400,6 @@
         "biomaRt",
         "bumphunter",
         "clustree",
-        "cowplot",
         "dbplyr",
         "ensembldb",
         "epivizr",
@@ -12606,7 +12441,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "aplot",
         "biomaRt",
-        "cowplot",
         "dbplyr",
         "enrichplot",
         "fgsea",
@@ -12641,7 +12475,6 @@
         "HiLDA",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "biomaRt",
-        "cowplot",
         "dbplyr",
         "rtracklayer",
         "tidyr"
@@ -12686,7 +12519,6 @@
     "seqsetvis": [
         "GenomicAlignments",
         "UpSetR",
-        "cowplot",
         "ggplotify",
         "rtracklayer"
     ],
@@ -12807,7 +12639,6 @@
         "annotate",
         "aplot",
         "clusterProfiler",
-        "cowplot",
         "dbplyr",
         "enrichplot",
         "fgsea",
@@ -12843,7 +12674,6 @@
         "broom",
         "bsplus",
         "car",
-        "cowplot",
         "dbplyr",
         "ggpubr",
         "ggrepel",
@@ -12879,7 +12709,6 @@
         "broom",
         "car",
         "consensusOV",
-        "cowplot",
         "dbplyr",
         "ensembldb",
         "genefu",
@@ -12993,7 +12822,6 @@
         "celda",
         "celldex",
         "colourpicker",
-        "cowplot",
         "dbplyr",
         "densEstBayes",
         "enrichR",
@@ -13197,7 +13025,6 @@
         "DropletUtils",
         "Seurat",
         "SingleCellExperiment",
-        "cowplot",
         "ggbeeswarm",
         "ggrastr",
         "ggrepel",
@@ -13343,7 +13170,6 @@
         "SpatialExperiment",
         "alphahull",
         "colourpicker",
-        "cowplot",
         "dbplyr",
         "dittoSeq",
         "ggrepel",
@@ -13442,7 +13268,6 @@
         "broom",
         "car",
         "caret",
-        "cowplot",
         "cvms",
         "dbplyr",
         "dtplyr",
@@ -13477,7 +13302,6 @@
         "Seurat",
         "SingleCellExperiment",
         "SpatialExperiment",
-        "cowplot",
         "dbplyr",
         "ggrepel",
         "ggridges",
@@ -13645,7 +13469,6 @@
         "Seurat",
         "SingleCellExperiment",
         "SpatialExperiment",
-        "cowplot",
         "dbplyr",
         "ggrepel",
         "ggridges",
@@ -13728,7 +13551,6 @@
     "survtype": [
         "broom",
         "car",
-        "cowplot",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -13870,7 +13692,6 @@
         "QDNAseq",
         "broom",
         "car",
-        "cowplot",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -13906,7 +13727,6 @@
     "TargetDecoy": [
         "broom",
         "car",
-        "cowplot",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -13922,7 +13742,6 @@
     "TarSeqQC": [
         "GenomicAlignments",
         "Hmisc",
-        "cowplot",
         "viridis"
     ],
     "TBSignatureProfiler": [
@@ -13978,7 +13797,6 @@
         "caret",
         "clusterProfiler",
         "colourpicker",
-        "cowplot",
         "dbplyr",
         "enrichplot",
         "ensembldb",
@@ -14112,7 +13930,6 @@
         "annotate",
         "biomaRt",
         "biomartr",
-        "cowplot",
         "dbplyr",
         "geneplotter",
         "readr",
@@ -14168,7 +13985,6 @@
         "aplot",
         "biomaRt",
         "clusterProfiler",
-        "cowplot",
         "dbplyr",
         "enrichplot",
         "fgsea",
@@ -14244,7 +14060,6 @@
         "annotate",
         "broom",
         "car",
-        "cowplot",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -14282,7 +14097,6 @@
     "ToxicoGx": [
         "CoreGx",
         "MultiAssayExperiment",
-        "cowplot",
         "fgsea",
         "piano",
         "tidyr"
@@ -14392,7 +14206,6 @@
         "aplot",
         "broom",
         "car",
-        "cowplot",
         "diffcyt",
         "ggforce",
         "ggfun",
@@ -14554,7 +14367,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "annotate",
         "biomaRt",
-        "cowplot",
         "dbplyr",
         "fda",
         "fds",
@@ -14718,8 +14530,7 @@
         "rtracklayer"
     ],
     "VDJdive": [
-        "SingleCellExperiment",
-        "cowplot"
+        "SingleCellExperiment"
     ],
     "VegaMC": [
         "BiocFileCache",
@@ -14755,7 +14566,6 @@
         "GOSemSim",
         "UpSetR",
         "biomaRt",
-        "cowplot",
         "dbplyr",
         "dendextend",
         "egg",
@@ -14801,8 +14611,7 @@
         "scuttle"
     ],
     "VplotR": [
-        "GenomicAlignments",
-        "cowplot"
+        "GenomicAlignments"
     ],
     "vsclust": [
         "MultiAssayExperiment",
@@ -14905,7 +14714,6 @@
     ],
     "wiggleplotr": [
         "GenomicAlignments",
-        "cowplot",
         "rtracklayer"
     ],
     "wpm": [
@@ -14936,7 +14744,6 @@
         "CoreGx",
         "MultiAssayExperiment",
         "PharmacoGx",
-        "cowplot",
         "fgsea",
         "piano",
         "tidyr"
@@ -15036,7 +14843,6 @@
     "ggpubr": [
         "broom",
         "car",
-        "cowplot",
         "ggrepel",
         "ggsci",
         "ggsignif",
@@ -15053,7 +14859,6 @@
         "waldo"
     ],
     "ggsci": [],
-    "cowplot": [],
     "rstatix": [
         "broom",
         "car",
@@ -15157,7 +14962,6 @@
     "ipred": [],
     "org.Sc.sgd.db": [],
     "Seurat": [
-        "cowplot",
         "ggrepel",
         "ggridges",
         "patchwork",
@@ -15725,7 +15529,6 @@
         "FactoMineR",
         "broom",
         "car",
-        "cowplot",
         "dendextend",
         "ggpubr",
         "ggrepel",
@@ -15814,9 +15617,7 @@
         "broom",
         "tidyr"
     ],
-    "cytometree": [
-        "cowplot"
-    ],
+    "cytometree": [],
     "mrfDepth": [],
     "RFOC": [
         "GEOmap",
@@ -15985,7 +15786,6 @@
     "survminer": [
         "broom",
         "car",
-        "cowplot",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -16097,9 +15897,7 @@
         "waldo"
     ],
     "cplm": [],
-    "bigstatsr": [
-        "cowplot"
-    ],
+    "bigstatsr": [],
     "depmap": [
         "AnnotationHub",
         "BiocFileCache",
@@ -16465,7 +16263,6 @@
         "bookdown"
     ],
     "scanMiRData": [
-        "cowplot",
         "ggseqlogo",
         "scanMiR"
     ],
@@ -16501,7 +16298,6 @@
     "survivalAnalysis": [
         "broom",
         "car",
-        "cowplot",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -16540,7 +16336,6 @@
     ],
     "SoupX": [
         "Seurat",
-        "cowplot",
         "ggrepel",
         "ggridges",
         "patchwork",
