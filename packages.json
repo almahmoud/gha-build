@@ -987,7 +987,6 @@
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "TxDb.Rnorvegicus.UCSC.rn4.ensGene",
         "biomaRt",
-        "chipseq",
         "geneplotter",
         "systemPipeR"
     ],
@@ -1006,7 +1005,6 @@
         "tidytree",
         "treeio"
     ],
-    "chipseq": [],
     "ChIPseqR": [],
     "ChIPsim": [],
     "ChIPXpress": [
@@ -1304,9 +1302,7 @@
         "karyoploteR",
         "regioneR"
     ],
-    "CopywriteR": [
-        "chipseq"
-    ],
+    "CopywriteR": [],
     "CoreGx": [
         "MultiAssayExperiment",
         "piano"
@@ -3052,7 +3048,6 @@
         "VariantAnnotation",
         "VariantTools",
         "biomaRt",
-        "chipseq",
         "gmapR"
     ],
     "HTSFilter": [
@@ -5203,7 +5198,6 @@
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "aplot",
         "biomaRt",
-        "chipseq",
         "enrichplot",
         "ggraph",
         "ggtree",
@@ -6461,9 +6455,7 @@
         "biomaRt",
         "geneplotter"
     ],
-    "soGGi": [
-        "chipseq"
-    ],
+    "soGGi": [],
     "sojourner": [
         "mixtools",
         "plotly",
@@ -7018,7 +7010,6 @@
         "GenomicFeatures",
         "biomaRt",
         "caret",
-        "chipseq",
         "recipes"
     ],
     "transformGamPoi": [],
