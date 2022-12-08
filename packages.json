@@ -21071,7 +21071,6 @@
         "cowplot",
         "dplyr",
         "fgsea",
-        "flatxml",
         "ggplot2",
         "ggpubr",
         "ggrepel",
@@ -36964,7 +36963,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "flatxml": [],
     "ontologyPlot": [],
     "AICcmodavg": [
         "lme4",
