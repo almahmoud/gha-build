@@ -1978,7 +1978,6 @@
         "ggtree",
         "treeio"
     ],
-    "GGPA": [],
     "ggspavis": [
         "SpatialExperiment"
     ],
