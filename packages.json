@@ -42651,7 +42651,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "SPEM": [],
     "SPIA": [
         "KEGGgraph",
         "Rgraphviz"
@@ -45619,7 +45618,6 @@
     ],
     "TMixClust": [
         "BiocParallel",
-        "SPEM",
         "flexclust"
     ],
     "TNBC.CMS": [
