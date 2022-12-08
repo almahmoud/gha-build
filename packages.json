@@ -276,7 +276,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "intansv": [],
     "InterCellar": [
         "FactoMineR",
         "factoextra",
