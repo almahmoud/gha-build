@@ -659,7 +659,6 @@
         "fgsea",
         "ggraph",
         "ggtree",
-        "graphite",
         "gson",
         "lme4",
         "nloptr",
@@ -2314,7 +2313,6 @@
         "epiNEM",
         "ggraph",
         "googlesheets4",
-        "graphite",
         "haven",
         "metap",
         "mnem",
@@ -2957,7 +2955,6 @@
         "GO.db",
         "GSEABase",
         "annotate",
-        "graphite",
         "org.Hs.eg.db",
         "pathview",
         "safe"
@@ -3097,7 +3094,6 @@
         "fgsea",
         "ggraph",
         "ggtree",
-        "graphite",
         "gson",
         "reactome.db",
         "scatterpie",
@@ -4208,7 +4204,6 @@
         "epiR"
     ],
     "graper": [],
-    "graphite": [],
     "GreyListChIP": [
         "BSgenome",
         "rtracklayer"
@@ -4243,7 +4238,6 @@
         "GO.db",
         "GSEABase",
         "annotate",
-        "graphite",
         "org.Hs.eg.db",
         "pathview",
         "safe"
@@ -5905,7 +5899,6 @@
         "ggraph",
         "ggtree",
         "googlesheets4",
-        "graphite",
         "groupdata2",
         "gson",
         "haven",
@@ -5952,7 +5945,6 @@
         "ggraph",
         "ggtree",
         "googlesheets4",
-        "graphite",
         "groupdata2",
         "gson",
         "haven",
@@ -6070,8 +6062,7 @@
     "mogsa": [
         "GSEABase",
         "annotate",
-        "genefilter",
-        "graphite"
+        "genefilter"
     ],
     "MOMA": [
         "MultiAssayExperiment",
@@ -6357,7 +6348,6 @@
     "MultiDataSet": [],
     "multiGSEA": [
         "fgsea",
-        "graphite",
         "metap"
     ],
     "multiHiCcompare": [
@@ -6386,7 +6376,6 @@
         "ggraph",
         "ggtree",
         "golem",
-        "graphite",
         "gson",
         "metap",
         "mixOmics",
@@ -7296,7 +7285,6 @@
         "fgsea",
         "ggraph",
         "ggtree",
-        "graphite",
         "gson",
         "reactome.db",
         "scatterpie",
@@ -7389,7 +7377,6 @@
         "recipes"
     ],
     "PoTRA": [
-        "graphite",
         "org.Hs.eg.db"
     ],
     "POWSC": [
@@ -7917,7 +7904,6 @@
         "fgsea",
         "ggraph",
         "ggtree",
-        "graphite",
         "gson",
         "reactome.db",
         "scatterpie",
@@ -8877,7 +8863,6 @@
         "genefilter",
         "ggraph",
         "ggtree",
-        "graphite",
         "gson",
         "heatmaply",
         "meshr",
@@ -9569,7 +9554,6 @@
     ],
     "sSNAPPY": [
         "ggraph",
-        "graphite",
         "org.Hs.eg.db",
         "tidygraph"
     ],
@@ -9618,7 +9602,6 @@
     ],
     "StarBioTrek": [
         "SpidermiR",
-        "graphite",
         "miRNAtap",
         "miRNAtap.db",
         "org.Hs.eg.db"
@@ -10606,7 +10589,6 @@
         "GSEABase",
         "annotate",
         "broom",
-        "graphite",
         "lme4",
         "lmerTest",
         "msigdbr",
