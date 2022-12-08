@@ -570,9 +570,7 @@
         "tidyr",
         "vsn"
     ],
-    "banocc": [
-        "rstan"
-    ],
+    "banocc": [],
     "barcodetrackR": [
         "tidyr"
     ],
@@ -596,7 +594,6 @@
         "colourpicker",
         "ggExtra",
         "glmGamPoi",
-        "rstan",
         "scran",
         "scuttle"
     ],
@@ -5251,9 +5248,7 @@
     "idiogram": [
         "annotate"
     ],
-    "IgGeneUsage": [
-        "rstan"
-    ],
+    "IgGeneUsage": [],
     "igvR": [
         "BSgenome",
         "BiocFileCache",
@@ -5822,8 +5817,7 @@
     "M3Drop": [
         "Hmisc",
         "densEstBayes",
-        "reldist",
-        "rstan"
+        "reldist"
     ],
     "m6Aboost": [
         "AnnotationHub",
@@ -8623,7 +8617,6 @@
         "distributional",
         "ggdist",
         "posterior",
-        "rstan",
         "tidybayes",
         "tidyr"
     ],
@@ -9512,7 +9505,6 @@
         "geneplotter",
         "qvalue",
         "reldist",
-        "rstan",
         "rtracklayer"
     ],
     "RiboProfiling": [
@@ -10140,7 +10132,6 @@
     "sccomp": [
         "patchwork",
         "readr",
-        "rstan",
         "tidyr"
     ],
     "scDataviz": [
@@ -10213,12 +10204,10 @@
         "M3Drop",
         "densEstBayes",
         "reldist",
-        "rstan",
         "ruv"
     ],
     "scMET": [
-        "BiocStyle",
-        "rstan"
+        "BiocStyle"
     ],
     "scmeth": [
         "AnnotationHub",
@@ -10755,7 +10744,6 @@
         "plotly",
         "qvalue",
         "reldist",
-        "rstan",
         "rtracklayer",
         "ruv",
         "scDblFinder",
@@ -12667,7 +12655,6 @@
     ],
     "dendextend": [],
     "ggvis": [],
-    "rstan": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "rtracklayer"
@@ -13261,12 +13248,9 @@
     "sortable": [],
     "bsplus": [],
     "reldist": [
-        "densEstBayes",
-        "rstan"
+        "densEstBayes"
     ],
-    "densEstBayes": [
-        "rstan"
-    ],
+    "densEstBayes": [],
     "adabag": [
         "caret",
         "ipred",
