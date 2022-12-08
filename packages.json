@@ -9856,7 +9856,6 @@
         "spatstat.explore",
         "tidyr"
     ],
-    "infinityFlow": [],
     "InPAS": [
         "AnnotationDbi",
         "BSgenome",
