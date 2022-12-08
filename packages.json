@@ -630,7 +630,6 @@
     "GUIDEseq": [],
     "Gviz": [],
     "gwasurvivr": [],
-    "HelloRanges": [],
     "hermes": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -1086,7 +1085,6 @@
     ],
     "OMICsPCA": [
         "FactoMineR",
-        "HelloRanges",
         "car",
         "factoextra",
         "ggpubr",
