@@ -1788,7 +1788,6 @@
         "rsvd",
         "scales",
         "scater",
-        "scs",
         "scuttle",
         "sitmo",
         "sparseMatrixStats",
@@ -6065,7 +6064,6 @@
         "scales",
         "scater",
         "scattermore",
-        "scs",
         "sctransform",
         "scuttle",
         "shiny",
@@ -53624,7 +53622,6 @@
         "sass",
         "scales",
         "scater",
-        "scs",
         "scuttle",
         "shiny",
         "sitmo",
@@ -102093,8 +102090,7 @@
         "Rmpfr",
         "bit64",
         "gmp",
-        "osqp",
-        "scs"
+        "osqp"
     ],
     "DescTools": [
         "BH",
@@ -102166,7 +102162,6 @@
     "Rmpfr": [
         "gmp"
     ],
-    "scs": [],
     "osqp": [
         "Matrix",
         "Rcpp"
