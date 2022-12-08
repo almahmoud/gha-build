@@ -17555,7 +17555,6 @@
         "knitr",
         "latticeExtra",
         "lifecycle",
-        "linprog",
         "lme4",
         "magic",
         "mgcv",
@@ -18771,7 +18770,6 @@
         "hms",
         "lambda.r",
         "lifecycle",
-        "linprog",
         "magic",
         "mgcv",
         "munsell",
@@ -52482,7 +52480,6 @@
         "labelled",
         "later",
         "lifecycle",
-        "linprog",
         "magic",
         "memoise",
         "mgcv",
@@ -90425,7 +90422,6 @@
         "geometry",
         "ggplot2",
         "lifecycle",
-        "linprog",
         "magic",
         "mgcv",
         "munsell",
@@ -90464,11 +90460,9 @@
         "viridis"
     ],
     "geometry": [
-        "linprog",
         "magic"
     ],
     "IDPmisc": [],
-    "linprog": [],
     "GEOmap": [
         "MBA",
         "Matrix",
@@ -94221,7 +94215,6 @@
     ],
     "pdfCluster": [
         "geometry",
-        "linprog",
         "magic"
     ],
     "diceR": [
