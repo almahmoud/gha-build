@@ -1256,7 +1256,6 @@
         "enrichplot"
     ],
     "selectKSigs": [],
-    "seqCAT": [],
     "shinyepico": [],
     "shinyMethyl": [
         "IlluminaHumanMethylation450kmanifest"
