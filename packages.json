@@ -38796,9 +38796,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "seqCNA": [
-        "adehabitatLT"
-    ],
+    "seqCNA": [],
     "seqcombo": [
         "ggplot2",
         "pillar",
@@ -52406,7 +52404,6 @@
         "vctrs",
         "viridis"
     ],
-    "adehabitatLT": [],
     "rbokeh": [
         "bslib",
         "crul",
