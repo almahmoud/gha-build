@@ -891,7 +891,6 @@
         "genefilter",
         "ggnetwork",
         "intergraph",
-        "sna",
         "sva"
     ],
     "BioNet": [],
@@ -1163,7 +1162,6 @@
         "ggnetwork",
         "intergraph",
         "rtracklayer",
-        "sna",
         "sva",
         "tidyr"
     ],
@@ -1384,7 +1382,6 @@
         "qvalue",
         "scatterpie",
         "shadowtext",
-        "sna",
         "tidygraph",
         "tidyr",
         "tidytree",
@@ -1445,7 +1442,6 @@
         "rstatix",
         "scatterpie",
         "shadowtext",
-        "sna",
         "testthat",
         "tidygraph",
         "tidyr",
@@ -1779,7 +1775,6 @@
         "GGally",
         "MSnbase",
         "plotly",
-        "sna",
         "tidyr"
     ],
     "clusterExperiment": [
@@ -3132,7 +3127,6 @@
         "qvalue",
         "scatterpie",
         "shadowtext",
-        "sna",
         "tidygraph",
         "tidyr",
         "tidytree",
@@ -3739,7 +3733,6 @@
         "qvalue",
         "scatterpie",
         "shadowtext",
-        "sna",
         "tidygraph",
         "tidyr",
         "tidytree",
@@ -4399,7 +4392,6 @@
     ],
     "GGPA": [
         "GGally",
-        "sna",
         "tidyr"
     ],
     "ggspavis": [
@@ -8000,7 +7992,6 @@
         "ggnetwork",
         "readr",
         "recipes",
-        "sna",
         "supraHex",
         "tidyr"
     ],
@@ -10752,7 +10743,6 @@
         "ggnetwork",
         "intergraph",
         "rtracklayer",
-        "sna",
         "testthat",
         "waldo"
     ],
@@ -12031,11 +12021,8 @@
         "AnnotationHub",
         "BiocFileCache"
     ],
-    "ggnetwork": [
-        "sna"
-    ],
+    "ggnetwork": [],
     "intergraph": [],
-    "sna": [],
     "superheat": [],
     "biscuiteerData": [
         "AnnotationHub",
