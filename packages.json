@@ -891,7 +891,6 @@
     ],
     "CluMSID": [],
     "clusterExperiment": [
-        "RNeXML",
         "phylobase",
         "zinbwave"
     ],
@@ -3770,7 +3769,6 @@
     ],
     "NetSAM": [],
     "netSmooth": [
-        "RNeXML",
         "clusterExperiment",
         "phylobase",
         "scater",
@@ -6220,10 +6218,7 @@
     ],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [],
-    "phylobase": [
-        "RNeXML"
-    ],
-    "RNeXML": [],
+    "phylobase": [],
     "rio": [
         "haven"
     ],
