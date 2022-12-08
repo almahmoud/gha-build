@@ -3390,7 +3390,6 @@
         "GSEABase",
         "TCGAbiolinks"
     ],
-    "miRNAmeConverter": [],
     "miRSM": [
         "BiBitR",
         "BicARE",
