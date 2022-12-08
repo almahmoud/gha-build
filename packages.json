@@ -1798,7 +1798,6 @@
         "sva",
         "testthat"
     ],
-    "gcapc": [],
     "GCSscore": [
         "devtools",
         "testthat"
