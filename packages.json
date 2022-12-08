@@ -45377,7 +45377,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "RGSEA": [],
     "rgsepd": [
         "AnnotationDbi",
         "BiocFileCache",
