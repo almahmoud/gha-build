@@ -1942,7 +1942,6 @@
     "hermes": [
         "DESeq2"
     ],
-    "HiCBricks": [],
     "HiCDCPlus": [
         "GenomicFeatures",
         "GenomicInteractions",
