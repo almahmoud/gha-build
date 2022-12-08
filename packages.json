@@ -56792,7 +56792,6 @@
     "tomoseqr": [
         "BiocFileCache",
         "RSQLite",
-        "animation",
         "blob",
         "bslib",
         "crosstalk",
@@ -68985,7 +68984,6 @@
         "vctrs",
         "vroom"
     ],
-    "animation": [],
     "tractor.base": [],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
