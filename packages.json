@@ -1939,9 +1939,7 @@
         "testthat",
         "waldo"
     ],
-    "CNVRanger": [
-        "GDSArray"
-    ],
+    "CNVRanger": [],
     "CNVrd2": [
         "BSgenome",
         "BiocFileCache",
@@ -4253,7 +4251,6 @@
         "treeio",
         "waldo"
     ],
-    "GDSArray": [],
     "gemini": [
         "mixtools",
         "plotly",
@@ -11958,7 +11955,6 @@
         "rtracklayer"
     ],
     "VariantExperiment": [
-        "GDSArray",
         "SeqVarTools",
         "broom",
         "logistf",
