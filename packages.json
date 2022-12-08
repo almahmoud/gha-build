@@ -940,7 +940,6 @@
         "sass",
         "scales",
         "selectr",
-        "signal",
         "speaq",
         "stringr",
         "tibble",
@@ -7256,8 +7255,7 @@
         "futile.logger",
         "htmlwidgets",
         "irlba",
-        "matter",
-        "signal"
+        "matter"
     ],
     "CARNIVAL": [
         "bit64",
@@ -16216,7 +16214,6 @@
         "purrr",
         "reticulate",
         "scales",
-        "signal",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -22472,7 +22469,6 @@
         "sass",
         "sessioninfo",
         "shiny",
-        "signal",
         "stringr",
         "systemfonts",
         "testthat",
@@ -28741,7 +28737,6 @@
         "shinycssloaders",
         "shinydashboard",
         "shinyjs",
-        "signal",
         "stringr",
         "survival",
         "testthat",
@@ -39514,7 +39509,6 @@
         "sass",
         "scales",
         "shiny",
-        "signal",
         "sn",
         "stringr",
         "survival",
@@ -46613,7 +46607,6 @@
         "scales",
         "shiny",
         "shinyscreenshot",
-        "signal",
         "stringr",
         "survival",
         "testthat",
@@ -66637,7 +66630,6 @@
     "segmented": [],
     "expm": [],
     "igraph": [],
-    "signal": [],
     "readxl": [
         "cellranger",
         "ellipsis",
@@ -72033,7 +72025,6 @@
     "dplR": [
         "R.utils",
         "lifecycle",
-        "signal",
         "stringr",
         "vctrs"
     ],
