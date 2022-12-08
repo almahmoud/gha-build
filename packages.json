@@ -16388,7 +16388,6 @@
         "zlibbioc"
     ],
     "Chicago": [
-        "Delaporte",
         "Hmisc",
         "Matrix",
         "RColorBrewer",
@@ -131442,7 +131441,6 @@
         "zlibbioc"
     ],
     "intervals": [],
-    "Delaporte": [],
     "RcppRoll": [
         "Rcpp"
     ],
