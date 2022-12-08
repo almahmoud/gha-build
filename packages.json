@@ -404,9 +404,7 @@
     "iCheck": [
         "lumi"
     ],
-    "ideal": [
-        "pcaExplorer"
-    ],
+    "ideal": [],
     "IMAS": [],
     "InTAD": [
         "car",
@@ -694,7 +692,6 @@
     "PanomiR": [
         "clusterProfiler"
     ],
-    "pcaExplorer": [],
     "PDATK": [
         "car",
         "ggpubr",
