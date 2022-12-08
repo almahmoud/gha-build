@@ -599,7 +599,6 @@
     "BatchQC": [
         "annotate",
         "dendextend",
-        "egg",
         "genefilter",
         "ggvis",
         "heatmaply",
@@ -1346,8 +1345,7 @@
         "tidyr"
     ],
     "CellBarcode": [
-        "ShortRead",
-        "egg"
+        "ShortRead"
     ],
     "cellbaseR": [
         "tidyr"
@@ -2659,7 +2657,6 @@
         "clusterProfiler",
         "colourpicker",
         "dendextend",
-        "egg",
         "enrichplot",
         "fgsea",
         "genefilter",
@@ -2761,7 +2758,6 @@
         "GenomicFeatures",
         "biomaRt",
         "dendextend",
-        "egg",
         "heatmaply",
         "plotly",
         "rtracklayer",
@@ -2976,7 +2972,6 @@
         "broom",
         "colourpicker",
         "dendextend",
-        "egg",
         "ggExtra",
         "heatmaply",
         "kableExtra",
@@ -4100,7 +4095,6 @@
         "annotate",
         "biomaRt",
         "dendextend",
-        "egg",
         "geneplotter",
         "heatmaply",
         "plotly",
@@ -4522,7 +4516,6 @@
         "broom",
         "car",
         "dendextend",
-        "egg",
         "factoextra",
         "ggpubr",
         "ggsci",
@@ -5207,7 +5200,6 @@
         "annotate",
         "biomaRt",
         "dendextend",
-        "egg",
         "geneLenDataBase",
         "genefilter",
         "geneplotter",
@@ -5276,7 +5268,6 @@
     ],
     "ImmuneSpaceR": [
         "dendextend",
-        "egg",
         "heatmaply",
         "plotly",
         "tidyr"
@@ -6288,7 +6279,6 @@
         "biomaRt",
         "bsseq",
         "dendextend",
-        "egg",
         "genefilter",
         "geneplotter",
         "heatmaply",
@@ -6591,7 +6581,6 @@
         "broom",
         "car",
         "dendextend",
-        "egg",
         "geneplotter",
         "heatmaply",
         "lme4",
@@ -8095,7 +8084,6 @@
         "annotate",
         "biomaRt",
         "dendextend",
-        "egg",
         "geneplotter",
         "heatmaply",
         "plotly",
@@ -8229,7 +8217,6 @@
         "annotate",
         "biomaRt",
         "dendextend",
-        "egg",
         "genefilter",
         "geneplotter",
         "heatmaply",
@@ -8512,7 +8499,6 @@
         "broom",
         "car",
         "colourpicker",
-        "egg",
         "ggpubr",
         "ggsci",
         "ggsignif",
@@ -8927,7 +8913,6 @@
         "broom",
         "car",
         "dendextend",
-        "egg",
         "heatmaply",
         "lme4",
         "nloptr",
@@ -9486,7 +9471,6 @@
     "rifi": [
         "broom",
         "car",
-        "egg",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -9893,7 +9877,6 @@
         "RTNduals",
         "broom",
         "car",
-        "egg",
         "lme4",
         "mixtools",
         "nloptr",
@@ -10263,7 +10246,6 @@
         "ccTensor",
         "concaveman",
         "dendextend",
-        "egg",
         "enrichplot",
         "fgsea",
         "fields",
@@ -10458,7 +10440,6 @@
         "biomaRt",
         "bumphunter",
         "dendextend",
-        "egg",
         "genefilter",
         "heatmaply",
         "minfi",
@@ -10979,7 +10960,6 @@
         "NxtIRFdata",
         "annotate",
         "dendextend",
-        "egg",
         "genefilter",
         "heatmaply",
         "plotly",
@@ -12083,7 +12063,6 @@
         "UpSetR",
         "biomaRt",
         "dendextend",
-        "egg",
         "fgsea",
         "heatmaply",
         "plotly",
@@ -12578,11 +12557,9 @@
     "colourpicker": [],
     "heatmaply": [
         "dendextend",
-        "egg",
         "plotly",
         "tidyr"
     ],
-    "egg": [],
     "corncob": [
         "phyloseq"
     ],
@@ -13104,7 +13081,6 @@
     "bs4Dash": [],
     "shinyHeatmaply": [
         "dendextend",
-        "egg",
         "heatmaply",
         "plotly",
         "tidyr"
