@@ -11110,7 +11110,6 @@
         "permute",
         "pheatmap",
         "pillar",
-        "pinfsc50",
         "png",
         "progress",
         "purrr",
@@ -48652,7 +48651,6 @@
         "openssl",
         "permute",
         "pillar",
-        "pinfsc50",
         "png",
         "progress",
         "purrr",
@@ -108752,7 +108750,6 @@
         "nlme",
         "permute",
         "pillar",
-        "pinfsc50",
         "rlang",
         "stringi",
         "stringr",
@@ -108764,7 +108761,6 @@
         "withr"
     ],
     "memuse": [],
-    "pinfsc50": [],
     "biglm": [],
     "sqldf": [
         "RSQLite",
