@@ -1662,7 +1662,6 @@
     "clusterExperiment": [
         "RNeXML",
         "annotate",
-        "benchmarkme",
         "genefilter",
         "mbkmeans",
         "phylobase",
@@ -2670,7 +2669,6 @@
     "dittoSeq": [],
     "DMCFB": [
         "arm",
-        "benchmarkme",
         "lme4",
         "nloptr",
         "rtracklayer",
@@ -5267,9 +5265,7 @@
         "testthat",
         "waldo"
     ],
-    "mbkmeans": [
-        "benchmarkme"
-    ],
+    "mbkmeans": [],
     "mbOmic": [
         "GO.db",
         "Hmisc",
@@ -6721,7 +6717,6 @@
     "netSmooth": [
         "RNeXML",
         "annotate",
-        "benchmarkme",
         "clusterExperiment",
         "genefilter",
         "ggrastr",
@@ -7484,7 +7479,6 @@
         "MAST"
     ],
     "ppcseq": [
-        "benchmarkme",
         "ggdist",
         "posterior",
         "tidybayes"
@@ -11207,7 +11201,6 @@
     "phylobase": [
         "RNeXML"
     ],
-    "benchmarkme": [],
     "RNeXML": [],
     "rio": [
         "haven",
