@@ -1495,7 +1495,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "plsVarSel",
         "recipes",
         "sva",
         "testthat"
@@ -2480,7 +2479,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "plsVarSel",
         "recipes",
         "sva",
         "testthat"
@@ -7586,7 +7584,6 @@
         "nloptr",
         "testthat"
     ],
-    "plsVarSel": [],
     "arm": [
         "lme4",
         "nloptr",
