@@ -2135,7 +2135,6 @@
         "lme4",
         "lmerTest"
     ],
-    "spatialHeatmap": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
