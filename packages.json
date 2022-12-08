@@ -241,7 +241,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "enhancerHomologSearch": [],
     "enrichTF": [
         "car",
         "clusterProfiler",
