@@ -462,7 +462,6 @@
         "biomaRt"
     ],
     "beadarray": [],
-    "BEARscc": [],
     "BEAT": [
         "BSgenome",
         "ShortRead"
