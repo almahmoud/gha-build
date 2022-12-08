@@ -836,7 +836,6 @@
         "tidyr",
         "topGO"
     ],
-    "bgx": [],
     "BicARE": [
         "GSEABase",
         "annotate"
