@@ -16972,7 +16972,6 @@
         "MSnbase",
         "dplyr",
         "ggplot2",
-        "readJDX",
         "rvest",
         "selectr",
         "vsn",
@@ -24462,7 +24461,6 @@
         "dplyr",
         "interactiveDisplayBase"
     ],
-    "readJDX": [],
     "TBX20BamSubset": [
         "Rsamtools"
     ],
