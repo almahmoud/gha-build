@@ -8472,7 +8472,6 @@
         "piano",
         "tidyr"
     ],
-    "PhenoGeneRanker": [],
     "phenomis": [
         "BiocFileCache",
         "MultiAssayExperiment",
