@@ -236,8 +236,7 @@
     "attract": [
         "Category",
         "GOstats",
-        "GSEABase",
-        "reactome.db"
+        "GSEABase"
     ],
     "AUCell": [
         "GSEABase",
@@ -359,7 +358,6 @@
         "nloptr",
         "pbkrtest",
         "radiant.data",
-        "reactome.db",
         "testthat",
         "tidygraph",
         "treeio"
@@ -1730,7 +1728,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "reactome.db",
         "tidygraph",
         "treeio"
     ],
@@ -1894,7 +1891,6 @@
         "ggtree",
         "gprofiler2",
         "rWikiPathways",
-        "reactome.db",
         "tidygraph",
         "treeio"
     ],
@@ -2902,9 +2898,7 @@
         "recipes",
         "xcms"
     ],
-    "mAPKL": [
-        "reactome.db"
-    ],
+    "mAPKL": [],
     "maPredictDSC": [
         "caret",
         "hgu133plus2.db",
@@ -3164,7 +3158,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "reactome.db",
         "tidygraph",
         "treeio"
     ],
@@ -3338,7 +3331,6 @@
         "modelr",
         "nloptr",
         "pbkrtest",
-        "reactome.db",
         "recipes",
         "rqubic",
         "rstatix",
@@ -3367,7 +3359,6 @@
         "modelr",
         "nloptr",
         "pbkrtest",
-        "reactome.db",
         "recipes",
         "rstatix",
         "testthat",
@@ -3631,7 +3622,6 @@
         "ggtree",
         "mixOmics",
         "rWikiPathways",
-        "reactome.db",
         "recipes",
         "ropls",
         "testthat",
@@ -3813,8 +3803,7 @@
     ],
     "NoRCE": [
         "GenomicFeatures",
-        "rWikiPathways",
-        "reactome.db"
+        "rWikiPathways"
     ],
     "NormalyzerDE": [
         "RcmdrMisc",
@@ -4157,7 +4146,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "reactome.db",
         "tidygraph",
         "treeio"
     ],
@@ -4501,7 +4489,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "reactome.db",
         "tidygraph",
         "treeio"
     ],
@@ -5043,7 +5030,6 @@
         "ggtree",
         "heatmaply",
         "meshr",
-        "reactome.db",
         "schex",
         "tidygraph",
         "treeio"
@@ -5150,7 +5136,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "reactome.db",
         "tidygraph",
         "treeio"
     ],
@@ -5277,8 +5262,7 @@
     "SMITE": [
         "GenomicFeatures",
         "geneLenDataBase",
-        "goseq",
-        "reactome.db"
+        "goseq"
     ],
     "snapCGH": [
         "tilingArray"
@@ -6121,7 +6105,6 @@
     ],
     "haven": [],
     "modelr": [],
-    "reactome.db": [],
     "mixtools": [],
     "doBy": [
         "lme4",
