@@ -2248,7 +2248,6 @@
     "hiReadsProcessor": [
         "hiAnnotator"
     ],
-    "HiTC": [],
     "HPiP": [
         "caret"
     ],
