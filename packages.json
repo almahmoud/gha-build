@@ -1125,9 +1125,7 @@
     "LymphoSeq": [
         "ggtree"
     ],
-    "m6Aboost": [
-        "adabag"
-    ],
+    "m6Aboost": [],
     "Maaslin2": [
         "car",
         "glmmTMB",
@@ -2499,7 +2497,6 @@
         "rstatix"
     ],
     "datamods": [],
-    "adabag": [],
     "glmmTMB": [
         "lme4"
     ],
