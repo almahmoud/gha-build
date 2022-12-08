@@ -914,7 +914,6 @@
         "treeio"
     ],
     "ChIPseqR": [],
-    "ChIPsim": [],
     "ChIPXpress": [
         "GEOquery",
         "frma"
