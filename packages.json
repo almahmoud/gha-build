@@ -27456,7 +27456,6 @@
         "tRNA",
         "tibble"
     ],
-    "TRONCO": [],
     "TSCAN": [
         "GenomicRanges",
         "SingleCellExperiment",
