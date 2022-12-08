@@ -4285,7 +4285,6 @@
         "geneplotter",
         "heatmaply",
         "plotly",
-        "rmdformats",
         "survcomp"
     ],
     "metavizr": [
@@ -8975,7 +8974,6 @@
         "biomaRt",
         "ensembldb"
     ],
-    "rmdformats": [],
     "sesameData": [
         "AnnotationHub",
         "ExperimentHub",
