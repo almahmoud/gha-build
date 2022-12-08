@@ -1019,9 +1019,7 @@
         "ExperimentHub",
         "crisprScoreData"
     ],
-    "CRISPRseek": [
-        "keras"
-    ],
+    "CRISPRseek": [],
     "crisprseekplus": [
         "CRISPRseek",
         "ChIPpeakAnno",
@@ -1029,7 +1027,6 @@
         "GenomicFeatures",
         "ensembldb",
         "haven",
-        "keras",
         "regioneR",
         "rio"
     ],
@@ -1221,7 +1218,6 @@
     "decoupleR": [],
     "DeepPINCS": [
         "DiagrammeR",
-        "keras",
         "lexicon",
         "syuzhet",
         "textclean",
@@ -2035,7 +2031,6 @@
     "GenProSeq": [
         "DeepPINCS",
         "DiagrammeR",
-        "keras",
         "lexicon",
         "syuzhet",
         "textclean",
@@ -2211,7 +2206,6 @@
         "GenomicFeatures",
         "ensembldb",
         "haven",
-        "keras",
         "regioneR",
         "rio"
     ],
@@ -3335,7 +3329,6 @@
         "biovizBase",
         "ensembldb",
         "karyoploteR",
-        "keras",
         "plyranges",
         "regioneR"
     ],
@@ -3506,9 +3499,7 @@
         "quantro",
         "yarn"
     ],
-    "NeuCA": [
-        "keras"
-    ],
+    "NeuCA": [],
     "ngsReports": [],
     "nnSVG": [
         "SpatialExperiment"
@@ -3732,7 +3723,6 @@
     "pareg": [
         "DOSE",
         "ggraph",
-        "keras",
         "nloptr",
         "testthat",
         "tfprobability",
@@ -5322,7 +5312,6 @@
     ],
     "ttgsea": [
         "DiagrammeR",
-        "keras",
         "lexicon",
         "syuzhet",
         "textclean",
@@ -5372,7 +5361,6 @@
     "VAExprs": [
         "DeepPINCS",
         "DiagrammeR",
-        "keras",
         "lexicon",
         "syuzhet",
         "textclean",
@@ -5788,7 +5776,6 @@
     "crisprScoreData": [
         "ExperimentHub"
     ],
-    "keras": [],
     "highcharter": [],
     "RFOC": [],
     "mbest": [
@@ -6004,9 +5991,7 @@
         "testthat"
     ],
     "biomartr": [],
-    "tfprobability": [
-        "keras"
-    ],
+    "tfprobability": [],
     "verification": [],
     "tidybayes": [
         "posterior"
