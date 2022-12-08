@@ -372,7 +372,6 @@
         "haven",
         "modelr",
         "motifmatchr",
-        "msigdbr",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "plotly",
@@ -1485,7 +1484,6 @@
         "colourpicker",
         "ggrastr",
         "kableExtra",
-        "msigdbr",
         "plotly",
         "rtracklayer",
         "scater",
@@ -3178,8 +3176,7 @@
         "GSVA",
         "UCell",
         "annotate",
-        "broom",
-        "msigdbr"
+        "broom"
     ],
     "esetVis": [],
     "evaluomeR": [
@@ -4368,8 +4365,7 @@
     "HubPub": [],
     "HumanTranscriptomeCompendium": [],
     "hypeR": [
-        "kableExtra",
-        "msigdbr"
+        "kableExtra"
     ],
     "iBBiG": [
         "biclust"
@@ -5009,7 +5005,6 @@
         "ggraph",
         "ggtree",
         "gson",
-        "msigdbr",
         "org.Hs.eg.db",
         "pathview",
         "scatterpie",
@@ -8674,7 +8669,6 @@
         "GSEABase",
         "Seurat",
         "annotate",
-        "msigdbr",
         "nnTensor",
         "plotly",
         "schex"
@@ -8983,7 +8977,6 @@
         "ggtree",
         "hgu95a.db",
         "metap",
-        "msigdbr",
         "org.Hs.eg.db",
         "plotly",
         "reldist",
@@ -10360,7 +10353,6 @@
         "broom",
         "lme4",
         "lmerTest",
-        "msigdbr",
         "nloptr",
         "org.Hs.eg.db",
         "pathview",
@@ -10542,7 +10534,6 @@
     ],
     "mGSZ": [],
     "ggfortify": [],
-    "msigdbr": [],
     "tidyverse": [
         "broom",
         "googlesheets4",
