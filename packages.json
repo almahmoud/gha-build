@@ -1125,7 +1125,6 @@
     "cytomapper": [
         "SpatialExperiment"
     ],
-    "CytoML": [],
     "dagLogo": [
         "CNEr",
         "TFBSTools",
