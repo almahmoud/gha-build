@@ -3563,7 +3563,6 @@
         "biomaRt",
         "dbplyr",
         "dplyr",
-        "gaga",
         "pillar",
         "progress",
         "rtracklayer",
@@ -11222,7 +11221,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "gaga": [],
     "gage": [
         "AnnotationDbi",
         "Biostrings",
