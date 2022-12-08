@@ -25322,7 +25322,6 @@
         "purrr",
         "qap",
         "qvcalc",
-        "relimp",
         "reshape2",
         "rlang",
         "rmarkdown",
@@ -109646,16 +109645,13 @@
     "MetaCycle": [
         "Matrix",
         "gnm",
-        "qvcalc",
-        "relimp"
+        "qvcalc"
     ],
     "gnm": [
         "Matrix",
-        "qvcalc",
-        "relimp"
+        "qvcalc"
     ],
     "qvcalc": [],
-    "relimp": [],
     "fastDummies": [
         "lifecycle",
         "magrittr",
