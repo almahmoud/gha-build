@@ -6078,7 +6078,6 @@
         "Biostrings",
         "DESeq2",
         "EDASeq",
-        "FSelector",
         "FactoMineR",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9573,7 +9572,6 @@
         "DESeq2",
         "DaMiRseq",
         "EDASeq",
-        "FSelector",
         "FactoMineR",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -30216,7 +30214,6 @@
         "progress",
         "rgl"
     ],
-    "FSelector": [],
     "arm": [
         "lme4",
         "nloptr",
