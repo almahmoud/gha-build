@@ -2069,7 +2069,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "AWFisher": [],
     "awst": [
         "DelayedArray",
         "GenomeInfoDb",
