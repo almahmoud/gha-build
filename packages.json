@@ -426,7 +426,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "BrainSABER": [],
     "branchpointer": [
         "BSgenome.Hsapiens.UCSC.hg38",
         "caret"
