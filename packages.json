@@ -3057,8 +3057,7 @@
     "RLSeq": [
         "RLHub",
         "caret",
-        "caretEnsemble",
-        "valr"
+        "caretEnsemble"
     ],
     "Rmmquant": [
         "DESeq2",
@@ -4162,7 +4161,6 @@
     ],
     "pwrEWAS.data": [],
     "phastCons100way.UCSC.hg19": [],
-    "valr": [],
     "caretEnsemble": [
         "caret"
     ],
