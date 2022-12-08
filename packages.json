@@ -1194,8 +1194,7 @@
         "rtracklayer",
         "tidyr",
         "tidytree",
-        "treeio",
-        "vcfR"
+        "treeio"
     ],
     "CARNIVAL": [
         "readr",
@@ -5504,8 +5503,7 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "biomaRt",
-        "rtracklayer",
-        "vcfR"
+        "rtracklayer"
     ],
     "MAGAR": [
         "BiocFileCache",
@@ -11908,7 +11906,6 @@
         "testthat",
         "waldo"
     ],
-    "vcfR": [],
     "drc": [
         "broom",
         "car",
