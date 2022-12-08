@@ -25799,7 +25799,6 @@
         "SummarizedExperiment",
         "broom",
         "car",
-        "clustvarsel",
         "cowplot",
         "dplyr",
         "ggplot2",
@@ -31901,7 +31900,6 @@
         "tibble",
         "tidyr"
     ],
-    "clustvarsel": [],
     "gstat": [
         "lwgeom",
         "sftime",
