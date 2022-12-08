@@ -69799,7 +69799,6 @@
         "readr",
         "recipes",
         "reshape2",
-        "ridge",
         "rlang",
         "rlist",
         "rpart",
@@ -143134,7 +143133,6 @@
         "datawizard",
         "insight"
     ],
-    "ridge": [],
     "echarts4r": [
         "Matrix",
         "RColorBrewer",
