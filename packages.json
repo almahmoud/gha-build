@@ -10567,8 +10567,7 @@
     ],
     "rrvgo": [
         "GO.db",
-        "GOSemSim",
-        "treemap"
+        "GOSemSim"
     ],
     "RSVSim": [
         "GenomicAlignments",
@@ -14513,7 +14512,6 @@
         "ExperimentHub"
     ],
     "TBX20BamSubset": [],
-    "treemap": [],
     "GENLIB": [],
     "SBGNview.data": [
         "bookdown"
