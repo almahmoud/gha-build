@@ -14,7 +14,6 @@
         "a4Classif",
         "a4Core",
         "a4Preproc",
-        "a4Reporting",
         "annaffy",
         "annotate",
         "blob",
@@ -72,7 +71,6 @@
         "survival"
     ],
     "a4Preproc": [],
-    "a4Reporting": [],
     "ABarray": [
         "multtest",
         "survival"
