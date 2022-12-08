@@ -1581,9 +1581,7 @@
         "minfi"
     ],
     "minfi": [],
-    "MinimumDistance": [
-        "VanillaICE"
-    ],
+    "MinimumDistance": [],
     "MIRA": [],
     "miRLAB": [
         "GOstats"
@@ -2719,7 +2717,6 @@
         "textstem",
         "ttgsea"
     ],
-    "VanillaICE": [],
     "variancePartition": [
         "lme4",
         "lmerTest",
