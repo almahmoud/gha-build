@@ -27,7 +27,6 @@
         "a4Core"
     ],
     "a4Core": [],
-    "ABarray": [],
     "abseqR": [
         "BiocStyle",
         "bookdown",
