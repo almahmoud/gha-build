@@ -9525,7 +9525,6 @@
         "rstatix",
         "rtracklayer",
         "rvest",
-        "shinyjqui",
         "sortable",
         "testthat",
         "tidyr",
@@ -11176,7 +11175,6 @@
         "MSnbase",
         "broom",
         "highcharter",
-        "shinyjqui",
         "tidyr",
         "vsn"
     ],
@@ -12737,7 +12735,6 @@
         "rtracklayer",
         "scanMiR",
         "scanMiRData",
-        "shinyjqui",
         "tidyr"
     ],
     "scAnnotatR": [
@@ -14540,7 +14537,6 @@
         "drawer",
         "plotly",
         "shinydashboardPlus",
-        "shinyjqui",
         "shinytoastr",
         "spsComps",
         "tidyr"
@@ -17110,7 +17106,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "shinyjqui": [],
     "mppa": [],
     "ICSNP": [],
     "dnet": [
