@@ -4782,7 +4782,6 @@
         "rmarkdown",
         "rvest",
         "shadowtext",
-        "sn",
         "tidygraph",
         "tidyr",
         "tidyverse",
@@ -5927,7 +5926,6 @@
         "pathview",
         "plotly",
         "safe",
-        "sn",
         "tidyr",
         "topGO"
     ],
@@ -11211,7 +11209,6 @@
         "metap",
         "mutoss",
         "plotly",
-        "sn",
         "tidyr",
         "topconfects"
     ],
@@ -12952,8 +12949,7 @@
         "ggplot2",
         "graphite",
         "metap",
-        "mutoss",
-        "sn"
+        "mutoss"
     ],
     "multiHiCcompare": [
         "HiCcompare",
@@ -13029,7 +13025,6 @@
         "scatterpie",
         "shadowtext",
         "shinydashboard",
-        "sn",
         "testthat",
         "tidygraph",
         "tidyr",
@@ -13267,7 +13262,6 @@
         "readr",
         "regioneR",
         "rtracklayer",
-        "sn",
         "trackViewer",
         "viridis",
         "vroom"
@@ -14389,7 +14383,6 @@
         "qvalue",
         "scatterpie",
         "shadowtext",
-        "sn",
         "tidygraph",
         "tidyr",
         "tidytree",
@@ -14610,8 +14603,7 @@
     ],
     "PERFect": [
         "ggplot2",
-        "phyloseq",
-        "sn"
+        "phyloseq"
     ],
     "periodicDNA": [
         "BSgenome",
@@ -17304,7 +17296,6 @@
         "plotly",
         "rematch2",
         "ropls",
-        "sn",
         "testthat",
         "tidyr",
         "waldo"
@@ -18941,7 +18932,6 @@
         "shinyalert",
         "shinycssloaders",
         "shinyjs",
-        "sn",
         "sva",
         "tidyr",
         "tidytree",
@@ -23305,14 +23295,10 @@
     ],
     "metap": [
         "TFisher",
-        "mutoss",
-        "sn"
+        "mutoss"
     ],
-    "TFisher": [
-        "sn"
-    ],
+    "TFisher": [],
     "mutoss": [],
-    "sn": [],
     "DMwR2": [
         "dplyr",
         "readr",
