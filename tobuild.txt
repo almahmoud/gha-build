@@ -1,3 +1,0 @@
-flexclust
-mgcv
-bbmle
