@@ -3245,7 +3245,6 @@
         "testthat",
         "waldo"
     ],
-    "GEOfastq": [],
     "GEOmetadb": [
         "GEOquery",
         "readr"
