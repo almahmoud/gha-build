@@ -4023,7 +4023,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "BumpyMatrix": [],
     "BUScorrect": [
         "GenomicRanges",
         "SummarizedExperiment",
@@ -7617,7 +7616,6 @@
     ],
     "CoreGx": [
         "BiocParallel",
-        "BumpyMatrix",
         "DT",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -26769,7 +26767,6 @@
         "BiocFileCache",
         "BiocParallel",
         "Biostrings",
-        "BumpyMatrix",
         "CoreGx",
         "DT",
         "GenomicRanges",
@@ -27065,7 +27062,6 @@
     ],
     "PharmacoGx": [
         "BiocParallel",
-        "BumpyMatrix",
         "CoreGx",
         "DT",
         "GenomicRanges",
@@ -29353,7 +29349,6 @@
     ],
     "RadioGx": [
         "BiocParallel",
-        "BumpyMatrix",
         "CoreGx",
         "DT",
         "GenomicRanges",
@@ -38499,7 +38494,6 @@
     ],
     "ToxicoGx": [
         "BiocParallel",
-        "BumpyMatrix",
         "CoreGx",
         "DT",
         "GenomicRanges",
@@ -40392,7 +40386,6 @@
     ],
     "Xeva": [
         "BiocParallel",
-        "BumpyMatrix",
         "CoreGx",
         "DT",
         "GenomicRanges",
