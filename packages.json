@@ -4815,7 +4815,6 @@
     ],
     "CancerInSilico": [],
     "CancerSubtypes": [
-        "ConsensusClusterPlus",
         "NMF",
         "ggplot2",
         "pillar",
@@ -4927,7 +4926,6 @@
         "BiocNeighbors",
         "BiocParallel",
         "BiocSingular",
-        "ConsensusClusterPlus",
         "DelayedArray",
         "DelayedMatrixStats",
         "FlowSOM",
@@ -5637,7 +5635,6 @@
     ],
     "censcyt": [
         "BiocParallel",
-        "ConsensusClusterPlus",
         "DelayedArray",
         "FlowSOM",
         "GenomeInfoDb",
@@ -6490,7 +6487,6 @@
         "BiocParallel",
         "BiocSingular",
         "Biostrings",
-        "ConsensusClusterPlus",
         "DT",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -8181,7 +8177,6 @@
         "vctrs",
         "viridis"
     ],
-    "ConsensusClusterPlus": [],
     "consensusDE": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -9464,7 +9459,6 @@
     ],
     "CyTOFpower": [
         "BiocParallel",
-        "ConsensusClusterPlus",
         "CytoGLMM",
         "DT",
         "DelayedArray",
@@ -10474,7 +10468,6 @@
         "AnnotationDbi",
         "BiocParallel",
         "Biostrings",
-        "ConsensusClusterPlus",
         "DESeq2",
         "DelayedArray",
         "GenomeInfoDb",
@@ -11072,7 +11065,6 @@
         "viridis"
     ],
     "diffcyt": [
-        "ConsensusClusterPlus",
         "DelayedArray",
         "FlowSOM",
         "GenomeInfoDb",
@@ -14696,7 +14688,6 @@
         "waldo"
     ],
     "FlowSOM": [
-        "ConsensusClusterPlus",
         "broom",
         "car",
         "cowplot",
@@ -20162,7 +20153,6 @@
         "AnnotationDbi",
         "BiocParallel",
         "Biostrings",
-        "ConsensusClusterPlus",
         "DEGreport",
         "DESeq2",
         "DelayedArray",
@@ -22610,7 +22600,6 @@
         "waldo"
     ],
     "MetaCyto": [
-        "ConsensusClusterPlus",
         "FlowSOM",
         "broom",
         "car",
@@ -29595,7 +29584,6 @@
         "BiocParallel",
         "Biostrings",
         "BumpyMatrix",
-        "ConsensusClusterPlus",
         "CoreGx",
         "DT",
         "DelayedArray",
@@ -42934,7 +42922,6 @@
         "vctrs"
     ],
     "treekoR": [
-        "ConsensusClusterPlus",
         "DelayedArray",
         "FlowSOM",
         "GenomeInfoDb",
