@@ -1392,7 +1392,6 @@
         "lme4",
         "lmerTest"
     ],
-    "MultiBaC": [],
     "multicrispr": [
         "biovizBase",
         "karyoploteR"
