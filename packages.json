@@ -730,7 +730,6 @@
         "methylumi"
     ],
     "LymphoSeq": [],
-    "m6Aboost": [],
     "Maaslin2": [
         "car",
         "glmmTMB",
