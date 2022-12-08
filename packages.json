@@ -11885,7 +11885,6 @@
         "annotate",
         "bayesm",
         "blob",
-        "capushe",
         "compositions",
         "e1071",
         "edgeR",
@@ -67100,12 +67099,10 @@
     ],
     "relations": [],
     "pals": [],
-    "capushe": [],
     "Rmixmod": [
         "RcppEigen"
     ],
     "HTSCluster": [
-        "capushe",
         "edgeR"
     ],
     "compositions": [
