@@ -20,7 +20,6 @@
         "memoise",
         "multtest",
         "pamr",
-        "survival",
         "vctrs"
     ],
     "a4Base": [
@@ -40,23 +39,19 @@
         "httr",
         "memoise",
         "multtest",
-        "survival",
         "vctrs"
     ],
     "a4Classif": [
         "ROCR",
         "a4Core",
         "glmnet",
-        "pamr",
-        "survival"
+        "pamr"
     ],
     "a4Core": [
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "ABarray": [
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "abseqR": [
         "BiocParallel",
@@ -103,8 +98,7 @@
         "vctrs"
     ],
     "aCGH": [
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "ADaCGH2": [
         "AnnotationDbi",
@@ -125,7 +119,6 @@
         "scales",
         "snapCGH",
         "strucchange",
-        "survival",
         "tibble",
         "tilingArray",
         "vctrs",
@@ -195,7 +188,6 @@
         "shiny",
         "shinyjs",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -244,8 +236,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "adSplit": [
         "AnnotationDbi",
@@ -259,7 +250,6 @@
         "httr",
         "memoise",
         "multtest",
-        "survival",
         "vctrs"
     ],
     "AffiXcan": [
@@ -344,7 +334,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -463,7 +452,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -503,7 +491,6 @@
         "scater",
         "scuttle",
         "smurf",
-        "survival",
         "textshaping",
         "tibble",
         "tidyselect",
@@ -521,7 +508,6 @@
         "SummarizedExperiment",
         "XVector",
         "multtest",
-        "survival",
         "zCompositions"
     ],
     "alevinQC": [
@@ -588,7 +574,6 @@
         "scales",
         "seqinr",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -716,7 +701,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -835,7 +819,6 @@
         "scater",
         "scuttle",
         "stringr",
-        "survival",
         "testthat",
         "textshaping",
         "tibble",
@@ -872,9 +855,7 @@
         "tibble",
         "vctrs"
     ],
-    "ANF": [
-        "survival"
-    ],
+    "ANF": [],
     "animalcules": [
         "AnnotationDbi",
         "BiocParallel",
@@ -923,7 +904,6 @@
         "shiny",
         "shinyjs",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -959,7 +939,6 @@
         "genefilter",
         "httr",
         "memoise",
-        "survival",
         "vctrs"
     ],
     "annotate": [
@@ -1118,7 +1097,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs"
     ],
@@ -1146,7 +1124,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs"
     ],
@@ -1249,7 +1226,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -1323,7 +1299,6 @@
         "spatstat.geom",
         "spatstat.random",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -1438,7 +1413,6 @@
         "progress",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -1492,7 +1466,6 @@
         "scales",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -1527,7 +1500,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "svglite",
         "tibble",
         "vctrs",
@@ -1562,7 +1534,6 @@
         "scales",
         "seqinr",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -1592,7 +1563,6 @@
         "ropls",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -1649,7 +1619,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -1703,7 +1672,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -1722,8 +1690,7 @@
         "vctrs"
     ],
     "ASSET": [
-        "msm",
-        "survival"
+        "msm"
     ],
     "ASSIGN": [
         "AnnotationDbi",
@@ -1742,7 +1709,6 @@
         "msm",
         "pillar",
         "scales",
-        "survival",
         "sva",
         "tibble",
         "vctrs"
@@ -1903,7 +1869,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -2044,7 +2009,6 @@
         "memoise",
         "org.Hs.eg.db",
         "reactome.db",
-        "survival",
         "vctrs"
     ],
     "AUCell": [
@@ -2072,7 +2036,6 @@
         "plotly",
         "scales",
         "shiny",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -2212,7 +2175,6 @@
         "httr",
         "memoise",
         "rtracklayer",
-        "survival",
         "sva",
         "vctrs"
     ],
@@ -2321,7 +2283,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "threejs",
         "tibble",
         "tidyr",
@@ -2548,7 +2509,6 @@
         "seriation",
         "shiny",
         "stringr",
-        "survival",
         "sva",
         "tibble",
         "tidyr",
@@ -2608,8 +2568,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "fitdistrplus",
-        "survival"
+        "fitdistrplus"
     ],
     "baySeq": [
         "GenomeInfoDb",
@@ -2697,8 +2656,7 @@
     ],
     "beadarraySNP": [
         "quantreg",
-        "quantsmooth",
-        "survival"
+        "quantsmooth"
     ],
     "BEARscc": [
         "DelayedArray",
@@ -2853,7 +2811,6 @@
         "spatstat.random",
         "stringr",
         "survey",
-        "survival",
         "testthat",
         "textshaping",
         "tibble",
@@ -2939,7 +2896,6 @@
         "httr",
         "memoise",
         "multtest",
-        "survival",
         "vctrs"
     ],
     "BiFET": [
@@ -3004,7 +2960,6 @@
         "scales",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -3040,7 +2995,6 @@
         "shinycssloaders",
         "shinydashboard",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -3087,7 +3041,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -3194,7 +3147,6 @@
         "shinyFiles",
         "shinythemes",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidygraph",
@@ -3331,7 +3283,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -3719,7 +3670,6 @@
         "rms",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "topGO",
         "vctrs",
@@ -3767,7 +3717,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -3812,7 +3761,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "synaptome.data",
         "synaptome.db",
         "tibble",
@@ -3859,7 +3807,6 @@
         "scales",
         "sna",
         "stringr",
-        "survival",
         "sva",
         "tibble",
         "tidyselect",
@@ -3910,7 +3857,6 @@
         "shiny",
         "shinyBS",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis"
@@ -3982,7 +3928,6 @@
         "quantreg",
         "scales",
         "superheat",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -4024,7 +3969,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -4116,7 +4060,6 @@
         "httr",
         "memoise",
         "rtracklayer",
-        "survival",
         "vctrs"
     ],
     "BitSeq": [
@@ -4159,7 +4102,6 @@
         "progress",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -4265,7 +4207,6 @@
         "genefilter",
         "httr",
         "memoise",
-        "survival",
         "sva",
         "vctrs"
     ],
@@ -4303,7 +4244,6 @@
         "rmarkdown",
         "scales",
         "stringr",
-        "survival",
         "sva",
         "tibble",
         "vcd",
@@ -4357,7 +4297,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -4388,7 +4327,6 @@
         "pillar",
         "rtracklayer",
         "scales",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -4476,7 +4414,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -4551,7 +4488,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -4690,7 +4626,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -4885,7 +4820,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -4935,7 +4869,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -5002,7 +4935,6 @@
         "scales",
         "sna",
         "stringr",
-        "survival",
         "sva",
         "tibble",
         "tidyr",
@@ -5058,7 +4990,6 @@
         "pillar",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis",
@@ -5101,7 +5032,6 @@
         "rrcov",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -5116,7 +5046,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs"
     ],
@@ -5157,7 +5086,6 @@
         "scales",
         "snpStats",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -5217,7 +5145,6 @@
         "rtracklayer",
         "sqldf",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -5273,7 +5200,6 @@
         "scater",
         "scuttle",
         "stringr",
-        "survival",
         "testthat",
         "textshaping",
         "tibble",
@@ -5299,7 +5225,6 @@
         "genefilter",
         "httr",
         "memoise",
-        "survival",
         "vctrs"
     ],
     "categoryCompare": [
@@ -5326,7 +5251,6 @@
         "memoise",
         "pillar",
         "repr",
-        "survival",
         "vctrs"
     ],
     "CausalR": [],
@@ -5374,7 +5298,6 @@
         "selectr",
         "shiny",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -5405,7 +5328,6 @@
         "pillar",
         "plotly",
         "scales",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -5454,7 +5376,6 @@
         "selectr",
         "shiny",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -5679,7 +5600,6 @@
         "memoise",
         "pillar",
         "scales",
-        "survival",
         "tibble",
         "vctrs",
         "vsn"
@@ -5735,7 +5655,6 @@
         "spatstat.geom",
         "spatstat.random",
         "stringr",
-        "survival",
         "textshaping",
         "tibble",
         "tidyr",
@@ -5789,7 +5708,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -5961,7 +5879,6 @@
         "shadowtext",
         "sna",
         "stringr",
-        "survival",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -6013,7 +5930,6 @@
         "rstatix",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -6143,7 +6059,6 @@
         "sna",
         "snpStats",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidygraph",
@@ -6206,9 +6121,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "CGEN": [
-        "survival"
-    ],
+    "CGEN": [],
     "CGHcall": [],
     "cghMCR": [
         "AnnotationDbi",
@@ -6223,7 +6136,6 @@
         "genefilter",
         "httr",
         "memoise",
-        "survival",
         "vctrs"
     ],
     "CGHnormaliter": [
@@ -6317,7 +6229,6 @@
         "shinythemes",
         "siggenes",
         "stringr",
-        "survival",
         "sva",
         "tibble",
         "tidyr",
@@ -6389,7 +6300,6 @@
         "scales",
         "spp",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -6405,7 +6315,6 @@
         "pillar",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis"
@@ -6457,7 +6366,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -6531,7 +6439,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -6579,7 +6486,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -6622,7 +6528,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -6812,9 +6717,7 @@
         "vctrs",
         "vroom"
     ],
-    "chopsticks": [
-        "survival"
-    ],
+    "chopsticks": [],
     "chromDraw": [
         "GenomeInfoDb",
         "GenomicRanges",
@@ -7097,7 +7000,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -7118,7 +7020,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -7184,7 +7085,6 @@
         "shiny",
         "snpStats",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "universalmotif",
@@ -7264,7 +7164,6 @@
         "scran",
         "scuttle",
         "stringr",
-        "survival",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -7294,7 +7193,6 @@
         "memoise",
         "pillar",
         "ranger",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -7478,7 +7376,6 @@
         "rncl",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -7710,7 +7607,6 @@
         "genefilter",
         "httr",
         "memoise",
-        "survival",
         "vctrs"
     ],
     "CNVfilteR": [
@@ -7757,7 +7653,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -7824,7 +7719,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -7950,7 +7844,6 @@
         "pillar",
         "rtracklayer",
         "scales",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -8008,7 +7901,6 @@
         "siggenes",
         "sqldf",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -8170,7 +8062,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -8194,7 +8085,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "vegan"
@@ -8238,7 +8128,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -8387,7 +8276,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "topGO",
@@ -8529,7 +8417,6 @@
         "scuttle",
         "shadowtext",
         "stringr",
-        "survival",
         "testthat",
         "textshaping",
         "tibble",
@@ -8592,7 +8479,6 @@
         "spatstat.model",
         "spatstat.random",
         "stringr",
-        "survival",
         "textshaping",
         "tibble",
         "tidyr",
@@ -8627,7 +8513,6 @@
         "rrcov",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis"
@@ -8723,7 +8608,6 @@
         "progress",
         "stringr",
         "survcomp",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -8760,7 +8644,6 @@
         "org.Hs.eg.db",
         "pheatmap",
         "scales",
-        "survival",
         "topGO",
         "vctrs"
     ],
@@ -8843,7 +8726,6 @@
         "rtracklayer",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -8898,7 +8780,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -9064,7 +8945,6 @@
         "rmarkdown",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -9114,7 +8994,6 @@
         "rmarkdown",
         "scales",
         "stringr",
-        "survival",
         "textshaping",
         "tibble",
         "tidyr",
@@ -9146,7 +9025,6 @@
         "genefilter",
         "httr",
         "memoise",
-        "survival",
         "vctrs"
     ],
     "cpvSNP": [
@@ -9184,14 +9062,12 @@
         "vctrs"
     ],
     "cqn": [
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "CRImage": [
         "EBImage",
         "aCGH",
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "crisprBase": [
         "Biostrings",
@@ -9397,7 +9273,6 @@
         "shiny",
         "shinyjs",
         "stringr",
-        "survival",
         "tensorflow",
         "tfautograph",
         "tfruns",
@@ -9485,7 +9360,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -9545,7 +9419,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -9603,7 +9476,6 @@
         "shinyjs",
         "shinypanel",
         "stringr",
-        "survival",
         "sva",
         "tibble",
         "tidyr",
@@ -9647,7 +9519,6 @@
         "pillar",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis"
@@ -9829,7 +9700,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -9930,7 +9800,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -9966,7 +9835,6 @@
         "dplyr",
         "glmnet",
         "pillar",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -10030,7 +9898,6 @@
         "shinyjs",
         "stringr",
         "strucchange",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -10078,7 +9945,6 @@
         "scales",
         "stringr",
         "strucchange",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -10335,7 +10201,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "sva",
         "testthat",
         "tibble",
@@ -10417,7 +10282,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -10499,7 +10363,6 @@
         "shadowtext",
         "sn",
         "stringr",
-        "survival",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -10542,7 +10405,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -10561,7 +10423,6 @@
         "scattermore",
         "stringr",
         "survey",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -10664,7 +10525,6 @@
         "shinydashboard",
         "shinyjs",
         "stringr",
-        "survival",
         "sva",
         "tibble",
         "tidygraph",
@@ -10843,7 +10703,6 @@
         "scales",
         "siggenes",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -11160,7 +11019,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "sva",
         "tibble",
         "vctrs",
@@ -11234,8 +11092,7 @@
     ],
     "DepInfeR": [
         "BiocParallel",
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "DEqMS": [
         "ggplot2",
@@ -11284,7 +11141,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -11340,7 +11196,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -11384,7 +11239,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -11414,8 +11268,7 @@
     "DEsingle": [
         "BiocParallel",
         "gamlss",
-        "maxLik",
-        "survival"
+        "maxLik"
     ],
     "destiny": [
         "DelayedArray",
@@ -11446,7 +11299,6 @@
         "scales",
         "smoother",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -11535,7 +11387,6 @@
         "readr",
         "scales",
         "snpStats",
-        "survival",
         "sva",
         "swamp",
         "tibble",
@@ -11573,7 +11424,6 @@
         "progress",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -11659,7 +11509,6 @@
         "pillar",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis"
@@ -11698,7 +11547,6 @@
         "rstatix",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -11785,7 +11633,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -11799,7 +11646,6 @@
         "pillar",
         "plotly",
         "scales",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -11851,7 +11697,6 @@
         "spatstat.geom",
         "spatstat.random",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -12015,8 +11860,7 @@
         "TH.data",
         "XVector",
         "multcomp",
-        "rtracklayer",
-        "survival"
+        "rtracklayer"
     ],
     "DMRcaller": [
         "GenomeInfoDb",
@@ -12097,7 +11941,6 @@
         "shiny",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -12144,7 +11987,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -12286,7 +12128,6 @@
         "genefilter",
         "httr",
         "memoise",
-        "survival",
         "sva",
         "vctrs"
     ],
@@ -12323,7 +12164,6 @@
         "shiny",
         "shinydashboard",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -12609,7 +12449,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -12814,7 +12653,6 @@
         "scales",
         "snm",
         "stringr",
-        "survival",
         "sva",
         "testthat",
         "tibble",
@@ -12944,7 +12782,6 @@
         "safe",
         "scales",
         "sn",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -13031,7 +12868,6 @@
         "scales",
         "selectr",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -13143,7 +12979,6 @@
         "shiny",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -13303,7 +13138,6 @@
         "scatterpie",
         "shadowtext",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidygraph",
@@ -13492,7 +13326,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -13529,7 +13362,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs"
     ],
@@ -13569,7 +13401,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -13627,7 +13458,6 @@
         "scatterpie",
         "shadowtext",
         "stringr",
-        "survival",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -13756,7 +13586,6 @@
         "shiny",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -13809,7 +13638,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis"
@@ -14295,7 +14123,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -14362,7 +14189,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -14617,7 +14443,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -14675,7 +14500,6 @@
         "scales",
         "stringr",
         "survey",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -14768,7 +14592,6 @@
         "pillar",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -14906,7 +14729,6 @@
         "shadowtext",
         "sna",
         "stringr",
-        "survival",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -15044,7 +14866,6 @@
         "scales",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -15123,7 +14944,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -15169,7 +14989,6 @@
         "pillar",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis",
@@ -15244,7 +15063,6 @@
         "scran",
         "scuttle",
         "stringr",
-        "survival",
         "textshaping",
         "tibble",
         "tidyr",
@@ -15338,7 +15156,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -15376,7 +15193,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -15441,7 +15257,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -15473,7 +15288,6 @@
         "rstatix",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -15578,9 +15392,7 @@
         "tibble",
         "vctrs"
     ],
-    "fmrs": [
-        "survival"
-    ],
+    "fmrs": [],
     "fobitools": [
         "BiocParallel",
         "RSQLite",
@@ -15605,7 +15417,6 @@
         "progress",
         "scales",
         "stringr",
-        "survival",
         "syuzhet",
         "textclean",
         "tibble",
@@ -15707,7 +15518,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -15807,7 +15617,6 @@
         "rtracklayer",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -15846,7 +15655,6 @@
         "rstatix",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -15943,8 +15751,7 @@
     ],
     "gaggle": [],
     "GAprediction": [
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "GARS": [
         "AnnotationDbi",
@@ -16018,7 +15825,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "sva",
         "testthat",
         "tibble",
@@ -16197,7 +16003,6 @@
         "shiny",
         "stringr",
         "survMisc",
-        "survival",
         "survminer",
         "testthat",
         "tibble",
@@ -16235,7 +16040,6 @@
         "pillar",
         "plotly",
         "scales",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -16326,7 +16130,6 @@
         "rstatix",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -16387,7 +16190,6 @@
         "blob",
         "httr",
         "memoise",
-        "survival",
         "vctrs"
     ],
     "genefu": [
@@ -16416,7 +16218,6 @@
         "progress",
         "stringr",
         "survcomp",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -16449,7 +16250,6 @@
         "scales",
         "snpStats",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -16469,7 +16269,6 @@
         "genefilter",
         "httr",
         "memoise",
-        "survival",
         "vctrs"
     ],
     "GeneNetworkBuilder": [
@@ -16523,7 +16322,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -16569,7 +16367,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -16846,7 +16643,6 @@
         "pillar",
         "plotly",
         "scales",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -16924,7 +16720,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -16975,7 +16770,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -17051,7 +16845,6 @@
         "rstatix",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -17256,7 +17049,6 @@
         "shinyHeatmaply",
         "shinybusy",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -17384,7 +17176,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -17412,7 +17203,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -17463,7 +17253,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -17666,7 +17455,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "tibble",
         "vcd",
         "vctrs",
@@ -17768,7 +17556,6 @@
         "scales",
         "stringr",
         "survMisc",
-        "survival",
         "survminer",
         "testthat",
         "tibble",
@@ -17795,7 +17582,6 @@
         "memoise",
         "pillar",
         "scales",
-        "survival",
         "tibble",
         "vctrs",
         "viridis"
@@ -17811,7 +17597,6 @@
         "blob",
         "httr",
         "memoise",
-        "survival",
         "vctrs"
     ],
     "gmapR": [
@@ -17886,7 +17671,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -18186,7 +17970,6 @@
         "genefilter",
         "httr",
         "memoise",
-        "survival",
         "vctrs"
     ],
     "GOsummaries": [
@@ -18318,7 +18101,6 @@
         "scales",
         "sf",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -18334,8 +18116,7 @@
     ],
     "GraphAT": [
         "MCMCpack",
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "graphite": [
         "AnnotationDbi",
@@ -18354,8 +18135,7 @@
         "GenomeInfoDb",
         "XVector",
         "iPAC",
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "GRENITS": [
         "ggplot2",
@@ -18404,7 +18184,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -18426,8 +18205,7 @@
     ],
     "GRridge": [
         "glmnet",
-        "penalized",
-        "survival"
+        "penalized"
     ],
     "GSAR": [],
     "GSCA": [
@@ -18560,9 +18338,7 @@
         "vctrs",
         "yeastExpData"
     ],
-    "GSgalgoR": [
-        "survival"
-    ],
+    "GSgalgoR": [],
     "GSReg": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -18613,7 +18389,6 @@
         "httr",
         "les",
         "memoise",
-        "survival",
         "vctrs"
     ],
     "GSVA": [
@@ -18692,7 +18467,6 @@
         "scales",
         "seqinr",
         "stringr",
-        "survival",
         "tensorflow",
         "tfautograph",
         "tfruns",
@@ -18773,7 +18547,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -18795,7 +18568,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -18837,7 +18609,6 @@
         "shiny",
         "snpStats",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -18857,7 +18628,6 @@
         "quantsmooth",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -18899,7 +18669,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -18932,7 +18701,6 @@
         "plotly",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -19186,7 +18954,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -19237,7 +19004,6 @@
         "shiny",
         "shinyjs",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -19297,7 +19063,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "textshaping",
         "tibble",
         "tidyr",
@@ -19307,12 +19072,10 @@
         "vroom"
     ],
     "hierGWAS": [
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "hierinf": [
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "HilbertCurve": [
         "GenomeInfoDb",
@@ -19387,7 +19150,6 @@
         "pillar",
         "servr",
         "shiny",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -19494,7 +19256,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -19603,9 +19364,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "HybridMTest": [
-        "survival"
-    ],
+    "HybridMTest": [],
     "hypeR": [
         "babelgene",
         "bslib",
@@ -19677,14 +19436,11 @@
         "pillar",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis"
     ],
-    "Icens": [
-        "survival"
-    ],
+    "Icens": [],
     "icetea": [
         "AnnotationDbi",
         "BSgenome",
@@ -19775,7 +19531,6 @@
         "scales",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -19891,7 +19646,6 @@
         "shinyBS",
         "shinydashboard",
         "stringr",
-        "survival",
         "threejs",
         "tibble",
         "tidyr",
@@ -20056,7 +19810,6 @@
         "memoise",
         "pillar",
         "scales",
-        "survival",
         "tibble",
         "vctrs",
         "vsn"
@@ -20095,7 +19848,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -20297,7 +20049,6 @@
         "spatstat.geom",
         "spatstat.random",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -20424,7 +20175,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -20476,7 +20226,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -20537,7 +20286,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "tibble",
         "vctrs"
     ],
@@ -20609,7 +20357,6 @@
         "shinydashboard",
         "shinyjs",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -20656,7 +20403,6 @@
         "scales",
         "seqinr",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -20709,8 +20455,7 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "iPath": [
         "BiocParallel",
@@ -20738,7 +20483,6 @@
         "scales",
         "stringr",
         "survMisc",
-        "survival",
         "survminer",
         "testthat",
         "tibble",
@@ -20793,7 +20537,6 @@
         "pillar",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis",
@@ -20897,7 +20640,6 @@
         "spatstat.geom",
         "spatstat.random",
         "stringr",
-        "survival",
         "testthat",
         "textshaping",
         "tibble",
@@ -21173,7 +20915,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "tximeta",
@@ -21238,13 +20979,11 @@
     ],
     "iterativeBMA": [
         "BMA",
-        "rrcov",
-        "survival"
+        "rrcov"
     ],
     "iterativeBMAsurv": [
         "BMA",
-        "rrcov",
-        "survival"
+        "rrcov"
     ],
     "IVAS": [
         "AnnotationDbi",
@@ -21323,7 +21062,6 @@
         "shiny",
         "stringr",
         "survMisc",
-        "survival",
         "survminer",
         "testthat",
         "tibble",
@@ -21387,7 +21125,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -21430,7 +21167,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -21438,8 +21174,7 @@
     ],
     "KCsmart": [
         "multtest",
-        "siggenes",
-        "survival"
+        "siggenes"
     ],
     "kebabs": [
         "Biostrings",
@@ -21548,7 +21283,6 @@
         "shiny",
         "shinycssloaders",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -21593,7 +21327,6 @@
         "rmarkdown",
         "scales",
         "stringr",
-        "survival",
         "sva",
         "tibble",
         "tidyr",
@@ -21674,7 +21407,6 @@
         "multcomp",
         "pillar",
         "scales",
-        "survival",
         "tibble",
         "vctrs"
     ],
@@ -21789,7 +21521,6 @@
         "rstatix",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -21962,7 +21693,6 @@
         "pillar",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis",
@@ -21978,8 +21708,7 @@
         "scales"
     ],
     "logicFS": [
-        "LogicReg",
-        "survival"
+        "LogicReg"
     ],
     "logitT": [],
     "LOLA": [
@@ -22053,7 +21782,6 @@
         "selectr",
         "shiny",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -22146,7 +21874,6 @@
         "scales",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -22202,7 +21929,6 @@
         "rstan",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis"
@@ -22249,7 +21975,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -22280,7 +22005,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -22334,7 +22058,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -22448,9 +22171,7 @@
         "vctrs",
         "vegan"
     ],
-    "maftools": [
-        "survival"
-    ],
+    "maftools": [],
     "MAGAR": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -22507,7 +22228,6 @@
         "siggenes",
         "snpStats",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -22630,7 +22350,6 @@
         "scales",
         "selectr",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -22689,7 +22408,6 @@
         "shiny",
         "stringr",
         "styler",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -22714,7 +22432,6 @@
         "memoise",
         "multtest",
         "reactome.db",
-        "survival",
         "vctrs"
     ],
     "maPredictDSC": [
@@ -22747,7 +22464,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -22772,8 +22488,7 @@
         "vctrs"
     ],
     "martini": [
-        "snpStats",
-        "survival"
+        "snpStats"
     ],
     "maser": [
         "AnnotationDbi",
@@ -22816,7 +22531,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -22878,7 +22592,6 @@
         "shinyhelper",
         "shinyjs",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -22967,7 +22680,6 @@
         "ruv",
         "scales",
         "stringr",
-        "survival",
         "sva",
         "testthat",
         "tibble",
@@ -23021,7 +22733,6 @@
         "pillar",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis",
@@ -23049,7 +22760,6 @@
         "quantsmooth",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -23110,7 +22820,6 @@
         "progress",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -23164,7 +22873,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -23259,7 +22967,6 @@
         "scales",
         "siggenes",
         "stringr",
-        "survival",
         "sva",
         "tibble",
         "tidyr",
@@ -23319,7 +23026,6 @@
         "scales",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -23385,7 +23091,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -23452,7 +23157,6 @@
         "rmarkdown",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs"
     ],
@@ -23577,7 +23281,6 @@
         "memoise",
         "rmarkdown",
         "stringr",
-        "survival",
         "vctrs"
     ],
     "MesKit": [
@@ -23608,7 +23311,6 @@
         "ggplot2",
         "pillar",
         "scales",
-        "survival",
         "tibble",
         "vctrs"
     ],
@@ -23645,7 +23347,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -23709,7 +23410,6 @@
         "multtest",
         "pillar",
         "scales",
-        "survival",
         "tibble",
         "vctrs"
     ],
@@ -23766,7 +23466,6 @@
         "scales",
         "sqldf",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -23800,7 +23499,6 @@
         "rstatix",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -23867,8 +23565,7 @@
     ],
     "metagenomeSeq": [
         "Wrench",
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "metaMS": [
         "BiocParallel",
@@ -23891,7 +23588,6 @@
         "pillar",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis",
@@ -23963,7 +23659,6 @@
         "scatterpie",
         "shadowtext",
         "stringr",
-        "survival",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -24053,7 +23748,6 @@
         "seriation",
         "stringr",
         "survcomp",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -24107,7 +23801,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -24129,7 +23822,6 @@
         "quantreg",
         "scales",
         "sn",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -24212,7 +23904,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs"
     ],
@@ -24267,7 +23958,6 @@
         "sesameData",
         "shiny",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -24347,7 +24037,6 @@
         "shiny",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -24400,7 +24089,6 @@
         "scales",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -24507,7 +24195,6 @@
         "shiny",
         "siggenes",
         "stringr",
-        "survival",
         "testthat",
         "textshaping",
         "tibble",
@@ -24597,7 +24284,6 @@
         "shiny",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -24703,7 +24389,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -24815,7 +24500,6 @@
         "scales",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -24890,7 +24574,6 @@
         "progress",
         "quantreg",
         "scales",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -25075,7 +24758,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -25098,7 +24780,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tmvtnorm",
         "vctrs",
@@ -25158,7 +24839,6 @@
         "shinydashboard",
         "shinyjs",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -25263,7 +24943,6 @@
         "scuttle",
         "shiny",
         "stringr",
-        "survival",
         "testthat",
         "textshaping",
         "tibble",
@@ -25365,7 +25044,6 @@
         "patchwork",
         "pillar",
         "scales",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -25439,7 +25117,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "vegan"
@@ -25503,7 +25180,6 @@
         "quantreg",
         "rematch2",
         "scales",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -25524,7 +25200,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis"
@@ -25588,7 +25263,6 @@
         "scales",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -25633,7 +25307,6 @@
         "rtracklayer",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -25780,7 +25453,6 @@
         "scales",
         "selectr",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -25955,7 +25627,6 @@
         "shiny",
         "stringr",
         "subspace",
-        "survival",
         "testthat",
         "tibble",
         "tidygraph",
@@ -26070,7 +25741,6 @@
         "selectr",
         "shadowtext",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidygraph",
@@ -26149,7 +25819,6 @@
         "scales",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -26192,7 +25861,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -26298,7 +25966,6 @@
         "memoise",
         "pillar",
         "shiny",
-        "survival",
         "threejs",
         "tibble",
         "tidyselect",
@@ -26351,7 +26018,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -26408,7 +26074,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -26495,7 +26160,6 @@
         "pillar",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis"
@@ -26554,7 +26218,6 @@
         "graphite",
         "httr",
         "memoise",
-        "survival",
         "vctrs"
     ],
     "MOMA": [
@@ -26615,7 +26278,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -26759,7 +26421,6 @@
         "plotly",
         "rtracklayer",
         "scales",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -26813,7 +26474,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -26985,7 +26645,6 @@
         "rstatix",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -27106,7 +26765,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -27261,7 +26919,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "sva",
         "testthat",
         "tibble",
@@ -27322,7 +26979,6 @@
         "pillar",
         "rematch2",
         "scales",
-        "survival",
         "testthat",
         "tibble",
         "vctrs",
@@ -27383,7 +27039,6 @@
         "scales",
         "selectr",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -27418,7 +27073,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyselect",
@@ -27502,7 +27156,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -27541,7 +27194,6 @@
         "shinybusy",
         "shinyjs",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -27561,7 +27213,6 @@
         "pillar",
         "rematch2",
         "scales",
-        "survival",
         "testthat",
         "tibble",
         "vctrs",
@@ -27630,7 +27281,6 @@
         "ggplot2",
         "pillar",
         "scales",
-        "survival",
         "tibble",
         "vctrs",
         "viridis"
@@ -27687,7 +27337,6 @@
         "scales",
         "seqinr",
         "stringr",
-        "survival",
         "tensorflow",
         "tfautograph",
         "tfruns",
@@ -27736,7 +27385,6 @@
         "quantreg",
         "scales",
         "sn",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -27884,7 +27532,6 @@
         "shinydashboard",
         "sn",
         "stringr",
-        "survival",
         "testthat",
         "textshaping",
         "tibble",
@@ -27900,9 +27547,7 @@
         "waldo",
         "xopen"
     ],
-    "multtest": [
-        "survival"
-    ],
+    "multtest": [],
     "mumosa": [
         "BiocNeighbors",
         "BiocParallel",
@@ -28111,7 +27756,6 @@
         "shinyjs",
         "sortable",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -28191,7 +27835,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -28233,7 +27876,6 @@
         "scales",
         "sqldf",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -28274,7 +27916,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -28352,7 +27993,6 @@
         "shiny",
         "sn",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "trackViewer",
@@ -28524,7 +28164,6 @@
         "memoise",
         "pillar",
         "scales",
-        "survival",
         "tibble",
         "vctrs"
     ],
@@ -28546,7 +28185,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -28679,7 +28317,6 @@
         "spatstat.geom",
         "spatstat.random",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -28757,7 +28394,6 @@
         "pillar",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis"
@@ -28833,7 +28469,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -28851,7 +28486,6 @@
         "pillar",
         "scales",
         "survey",
-        "survival",
         "tibble",
         "vctrs"
     ],
@@ -28941,7 +28575,6 @@
         "scales",
         "seriation",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -28996,7 +28629,6 @@
         "scater",
         "scuttle",
         "stringr",
-        "survival",
         "textshaping",
         "tibble",
         "tidyr",
@@ -29065,7 +28697,6 @@
         "siggenes",
         "sqldf",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -29247,7 +28878,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -29398,7 +29028,6 @@
         "rtracklayer",
         "scales",
         "shiny",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -29406,8 +29035,7 @@
     ],
     "OCplus": [
         "interp",
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "octad": [
         "AnnotationDbi",
@@ -29534,7 +29162,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -29600,7 +29227,6 @@
         "shinyFiles",
         "shinydashboard",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -29661,7 +29287,6 @@
         "shiny",
         "stringr",
         "styler",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -29717,7 +29342,6 @@
         "rmarkdown",
         "shiny",
         "stringr",
-        "survival",
         "vctrs",
         "vegan",
         "zCompositions"
@@ -29773,7 +29397,6 @@
         "rexposome",
         "scales",
         "stringr",
-        "survival",
         "sva",
         "testthat",
         "tibble",
@@ -29858,7 +29481,6 @@
         "scales",
         "selectr",
         "stringr",
-        "survival",
         "svglite",
         "testthat",
         "tibble",
@@ -29934,7 +29556,6 @@
         "shinythemes",
         "stringr",
         "survMisc",
-        "survival",
         "survminer",
         "testthat",
         "tibble",
@@ -30045,7 +29666,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -30146,7 +29766,6 @@
         "scales",
         "seqinr",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -30182,7 +29801,6 @@
         "shinyBS",
         "shinyjs",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -30213,7 +29831,6 @@
         "scales",
         "stringr",
         "summarytools",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -30487,7 +30104,6 @@
         "rstatix",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -30593,7 +30209,6 @@
         "httr",
         "mRMRe",
         "memoise",
-        "survival",
         "sva",
         "vctrs"
     ],
@@ -30629,7 +30244,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -30789,7 +30403,6 @@
         "shadowtext",
         "sn",
         "stringr",
-        "survival",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -30951,7 +30564,6 @@
         "shiny",
         "shinyjs",
         "stringr",
-        "survival",
         "testthat",
         "textshaping",
         "tibble",
@@ -30999,9 +30611,7 @@
         "org.Hs.eg.db",
         "vctrs"
     ],
-    "pathwayPCA": [
-        "survival"
-    ],
+    "pathwayPCA": [],
     "paxtoolsr": [
         "hms",
         "httr",
@@ -31067,7 +30677,6 @@
         "shinyBS",
         "shinydashboard",
         "stringr",
-        "survival",
         "threejs",
         "tibble",
         "tidyr",
@@ -31175,7 +30784,6 @@
         "stringr",
         "survMisc",
         "survcomp",
-        "survival",
         "survminer",
         "switchBox",
         "testthat",
@@ -31258,7 +30866,6 @@
         "genefilter",
         "httr",
         "memoise",
-        "survival",
         "vctrs"
     ],
     "peco": [
@@ -31295,8 +30902,7 @@
     ],
     "pengls": [
         "BiocParallel",
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "PepsNMR": [
         "ggplot2",
@@ -31335,7 +30941,6 @@
         "scales",
         "sn",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "vegan"
@@ -31579,7 +31184,6 @@
         "rrcov",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -31605,7 +31209,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -31687,7 +31290,6 @@
         "ruv",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -31748,7 +31350,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "vegan"
@@ -31787,7 +31388,6 @@
         "sna",
         "stringr",
         "supraHex",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -31881,7 +31481,6 @@
         "scatterpie",
         "shadowtext",
         "stringr",
-        "survival",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -31937,7 +31536,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -31997,7 +31595,6 @@
         "spatstat.geom",
         "spatstat.random",
         "stringr",
-        "survival",
         "textshaping",
         "tibble",
         "tidyr",
@@ -32070,7 +31667,6 @@
         "genefilter",
         "httr",
         "memoise",
-        "survival",
         "vctrs"
     ],
     "plotgardener": [
@@ -32133,7 +31729,6 @@
         "shinyjs",
         "shinythemes",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -32297,7 +31892,6 @@
         "rmarkdown",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -32437,7 +32031,6 @@
         "rmarkdown",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "vegan"
@@ -32489,7 +32082,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -32507,7 +32099,6 @@
         "httr",
         "memoise",
         "multtest",
-        "survival",
         "vctrs"
     ],
     "primirTSS": [
@@ -32566,7 +32157,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -32594,7 +32184,6 @@
         "ranger",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -32701,7 +32290,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "sva",
         "testthat",
         "tibble",
@@ -32713,8 +32301,7 @@
         "waldo"
     ],
     "PROcess": [
-        "Icens",
-        "survival"
+        "Icens"
     ],
     "procoil": [
         "Biostrings",
@@ -32922,7 +32509,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "threejs",
         "tibble",
         "tidyr",
@@ -32988,7 +32574,6 @@
         "shinyhelper",
         "shinyjs",
         "stringr",
-        "survival",
         "threejs",
         "tibble",
         "tidyr",
@@ -33028,7 +32613,6 @@
         "memoise",
         "reshape2",
         "stringr",
-        "survival",
         "sva",
         "vctrs"
     ],
@@ -33218,7 +32802,6 @@
         "shinydashboard",
         "stringr",
         "styler",
-        "survival",
         "svglite",
         "testthat",
         "tibble",
@@ -33293,7 +32876,6 @@
         "shinyBS",
         "shinyjs",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -33387,7 +32969,6 @@
         "shiny",
         "shinyscreenshot",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -33499,7 +33080,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -33569,7 +33149,6 @@
         "shiny",
         "shinyBS",
         "shinyWidgets",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -33649,7 +33228,6 @@
         "scales",
         "seriation",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -33756,7 +33334,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyselect",
@@ -33802,7 +33379,6 @@
         "pillar",
         "scales",
         "stringr",
-        "survival",
         "sva",
         "tibble",
         "vctrs",
@@ -33832,7 +33408,6 @@
         "memoise",
         "pillar",
         "scales",
-        "survival",
         "sva",
         "tibble",
         "vctrs"
@@ -33898,7 +33473,6 @@
         "scales",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -33906,8 +33480,7 @@
         "vroom"
     ],
     "quantsmooth": [
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "QuartPAC": [
         "Biostrings",
@@ -33916,8 +33489,7 @@
         "SpacePAC",
         "XVector",
         "iPAC",
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "QuasR": [
         "AnnotationDbi",
@@ -34027,7 +33599,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -34139,8 +33710,7 @@
         "XVector"
     ],
     "rain": [
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "ramr": [
         "EnvStats",
@@ -34180,7 +33750,6 @@
         "pillar",
         "progress",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -34294,9 +33863,7 @@
         "Rsamtools",
         "XVector"
     ],
-    "rbsurv": [
-        "survival"
-    ],
+    "rbsurv": [],
     "Rcade": [
         "BiocParallel",
         "Biostrings",
@@ -34412,7 +33979,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -34444,7 +34010,6 @@
         "plotly",
         "scales",
         "shiny",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -34464,7 +34029,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tseries",
         "vctrs",
@@ -34656,8 +34220,7 @@
     ],
     "REBET": [
         "ASSET",
-        "msm",
-        "survival"
+        "msm"
     ],
     "rebook": [
         "BiocStyle",
@@ -34698,7 +34261,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "vegan"
@@ -34747,7 +34309,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -34817,7 +34378,6 @@
         "rtracklayer",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -34900,7 +34460,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -34949,7 +34508,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -35046,7 +34604,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -35058,8 +34615,7 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "XVector",
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "regutools": [
         "AnnotationDbi",
@@ -35110,7 +34666,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -35174,7 +34729,6 @@
         "shiny",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -35205,7 +34759,6 @@
         "pillar",
         "rtracklayer",
         "scales",
-        "survival",
         "tibble",
         "vctrs",
         "vsn"
@@ -35265,7 +34818,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -35329,7 +34881,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs"
     ],
@@ -35397,7 +34948,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -35781,7 +35331,6 @@
         "scales",
         "sqldf",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -35885,7 +35434,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -35921,7 +35469,6 @@
         "memoise",
         "pillar",
         "scales",
-        "survival",
         "tibble",
         "vctrs",
         "vsn"
@@ -35967,7 +35514,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -36043,7 +35589,6 @@
         "glmnet",
         "pillar",
         "scales",
-        "survival",
         "tibble",
         "vctrs"
     ],
@@ -36063,8 +35608,7 @@
         "vctrs"
     ],
     "RLassoCox": [
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "RLSeq": [
         "AnnotationDbi",
@@ -36123,7 +35667,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -36132,8 +35675,7 @@
         "vroom"
     ],
     "Rmagpie": [
-        "pamr",
-        "survival"
+        "pamr"
     ],
     "RMassBank": [
         "BiocParallel",
@@ -36281,7 +35823,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -36334,7 +35875,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -36365,7 +35905,6 @@
         "pillar",
         "scales",
         "survey",
-        "survival",
         "tibble",
         "vctrs",
         "vsn"
@@ -36412,7 +35951,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -36461,7 +35999,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -36511,7 +36048,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -36560,7 +36096,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -36659,7 +36194,6 @@
         "scatterpie",
         "shadowtext",
         "stringr",
-        "survival",
         "sva",
         "systemPipeR",
         "systemPipeRdata",
@@ -36735,7 +36269,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -36791,7 +36324,6 @@
         "scales",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -36896,7 +36428,6 @@
         "rmarkdown",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "vegan"
@@ -36981,7 +36512,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -37021,7 +36551,6 @@
         "scales",
         "sn",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -37145,7 +36674,6 @@
         "selectr",
         "stringr",
         "survMisc",
-        "survival",
         "survminer",
         "testthat",
         "tibble",
@@ -37188,7 +36716,6 @@
         "rvest",
         "selectr",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -37220,7 +36747,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -37255,7 +36781,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -37292,7 +36817,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -37302,8 +36826,7 @@
         "waldo"
     ],
     "RTopper": [
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "Rtpca": [
         "dplyr",
@@ -37336,7 +36859,6 @@
         "pillar",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis"
@@ -37456,7 +36978,6 @@
         "scales",
         "snpStats",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -37683,7 +37204,6 @@
         "spatstat.geom",
         "spatstat.random",
         "stringr",
-        "survival",
         "tensorflow",
         "tfautograph",
         "tfruns",
@@ -37717,7 +37237,6 @@
         "pillar",
         "progress",
         "readr",
-        "survival",
         "sva",
         "tibble",
         "tidyr",
@@ -37843,7 +37362,6 @@
         "spatstat.geom",
         "spatstat.random",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -37988,7 +37506,6 @@
         "spatstat.geom",
         "spatstat.random",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -38030,7 +37547,6 @@
         "spatstat.geom",
         "spatstat.random",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -38081,7 +37597,6 @@
         "spatstat.geom",
         "spatstat.random",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -38121,7 +37636,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -38197,7 +37711,6 @@
         "spatstat.geom",
         "spatstat.random",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -38298,8 +37811,7 @@
     "scde": [
         "BiocParallel",
         "extRemes",
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "scds": [
         "DelayedArray",
@@ -38318,7 +37830,6 @@
         "BiocParallel",
         "callr",
         "glmnet",
-        "survival",
         "torch"
     ],
     "scFeatureFilter": [
@@ -38363,7 +37874,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -38409,7 +37919,6 @@
         "spatstat.geom",
         "spatstat.random",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -38494,7 +38003,6 @@
         "spatstat.geom",
         "spatstat.random",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -38547,7 +38055,6 @@
         "ruv",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis"
@@ -38643,7 +38150,6 @@
         "pillar",
         "quantreg",
         "scales",
-        "survival",
         "tibble",
         "vctrs"
     ],
@@ -38687,7 +38193,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -38759,7 +38264,6 @@
         "rtracklayer",
         "snpStats",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -38889,8 +38393,7 @@
         "SAVER",
         "gamlss",
         "glmnet",
-        "penalized",
-        "survival"
+        "penalized"
     ],
     "ScreenR": [
         "dplyr",
@@ -38982,7 +38485,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -39100,7 +38602,6 @@
         "spatstat.geom",
         "spatstat.random",
         "stringr",
-        "survival",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -39170,7 +38671,6 @@
         "spatstat.geom",
         "spatstat.random",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -39259,7 +38759,6 @@
         "spatstat.geom",
         "spatstat.random",
         "stringr",
-        "survival",
         "textshaping",
         "tibble",
         "tidygraph",
@@ -39474,7 +38973,6 @@
         "progress",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -39742,7 +39240,6 @@
         "sechm",
         "seriation",
         "stringr",
-        "survival",
         "sva",
         "tibble",
         "vctrs"
@@ -39860,7 +39357,6 @@
         "shinythemes",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -39911,7 +39407,6 @@
         "shiny",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -39957,7 +39452,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "vctrs",
@@ -39998,7 +39492,6 @@
         "memoise",
         "pillar",
         "shiny",
-        "survival",
         "threejs",
         "tibble",
         "tidyselect",
@@ -40027,8 +39520,7 @@
         "vctrs"
     ],
     "siggenes": [
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "sights": [
         "ggplot2",
@@ -40180,7 +39672,6 @@
         "shinydashboard",
         "stringr",
         "survMisc",
-        "survival",
         "survivalAnalysis",
         "survminer",
         "testthat",
@@ -40272,7 +39763,6 @@
         "stringr",
         "survMisc",
         "survcomp",
-        "survival",
         "survminer",
         "testthat",
         "tibble",
@@ -40315,9 +39805,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "sigsquared": [
-        "survival"
-    ],
+    "sigsquared": [],
     "SIM": [
         "AnnotationDbi",
         "Biostrings",
@@ -40332,7 +39820,6 @@
         "memoise",
         "quantreg",
         "quantsmooth",
-        "survival",
         "vctrs"
     ],
     "SIMAT": [
@@ -40360,7 +39847,6 @@
         "memoise",
         "pillar",
         "scales",
-        "survival",
         "tibble",
         "vctrs",
         "vsn"
@@ -40383,7 +39869,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -40526,7 +40011,6 @@
         "scran",
         "scuttle",
         "stringr",
-        "survival",
         "vctrs"
     ],
     "singleCellTK": [
@@ -40664,7 +40148,6 @@
         "spatstat.geom",
         "spatstat.random",
         "stringr",
-        "survival",
         "sva",
         "textshaping",
         "tibble",
@@ -40783,7 +40266,6 @@
         "memoise",
         "pillar",
         "scales",
-        "survival",
         "tibble",
         "vctrs"
     ],
@@ -40886,7 +40368,6 @@
         "scales",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -40973,7 +40454,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -40997,7 +40477,6 @@
         "pillar",
         "scales",
         "strucchange",
-        "survival",
         "tibble",
         "tilingArray",
         "vctrs",
@@ -41066,9 +40545,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "snpStats": [
-        "survival"
-    ],
+    "snpStats": [],
     "soGGi": [
         "BiocParallel",
         "Biostrings",
@@ -41111,7 +40588,6 @@
         "shiny",
         "shinyjs",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -41162,7 +40638,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -41175,8 +40650,7 @@
         "GenomeInfoDb",
         "XVector",
         "iPAC",
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "Spaniel": [
         "BiocNeighbors",
@@ -41231,7 +40705,6 @@
         "spatstat.geom",
         "spatstat.random",
         "stringr",
-        "survival",
         "textshaping",
         "tibble",
         "tidyr",
@@ -41273,13 +40746,11 @@
         "MCMCpack",
         "gmm",
         "quantreg",
-        "survival",
         "tmvtnorm"
     ],
     "sparsenetgls": [
         "glmnet",
-        "huge",
-        "survival"
+        "huge"
     ],
     "SparseSignatures": [
         "BSgenome",
@@ -41546,7 +41017,6 @@
         "shiny",
         "shinydashboard",
         "stringr",
-        "survival",
         "textshaping",
         "tibble",
         "tidyr",
@@ -41605,7 +41075,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -41796,7 +41265,6 @@
         "pillar",
         "rtracklayer",
         "scales",
-        "survival",
         "tibble",
         "vctrs"
     ],
@@ -41826,7 +41294,6 @@
         "scales",
         "scater",
         "scuttle",
-        "survival",
         "textshaping",
         "tibble",
         "uwot",
@@ -41884,7 +41351,6 @@
         "shinyWidgets",
         "shinydashboard",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -41984,7 +41450,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -42061,7 +41526,6 @@
         "scales",
         "selectr",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -42119,7 +41583,6 @@
         "spatstat.geom",
         "spatstat.random",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -42186,7 +41649,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "vegan",
@@ -42299,7 +41761,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "testthat",
         "textshaping",
         "tibble",
@@ -42387,7 +41848,6 @@
         "readr",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -42461,7 +41921,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -42539,7 +41998,6 @@
         "memoise",
         "pillar",
         "scales",
-        "survival",
         "tibble",
         "vctrs",
         "vsn"
@@ -42707,7 +42165,6 @@
         "spatstat.random",
         "spdep",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -42864,7 +42321,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -42949,7 +42405,6 @@
         "scales",
         "slider",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -43004,8 +42459,7 @@
         "future.apply",
         "ipred",
         "lava",
-        "prodlim",
-        "survival"
+        "prodlim"
     ],
     "survtype": [
         "BMA",
@@ -43041,7 +42495,6 @@
         "scales",
         "stringr",
         "survMisc",
-        "survival",
         "survminer",
         "testthat",
         "tibble",
@@ -43063,7 +42516,6 @@
         "genefilter",
         "httr",
         "memoise",
-        "survival",
         "vctrs"
     ],
     "svaNUMT": [
@@ -43201,7 +42653,6 @@
         "rmarkdown",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -43264,7 +42715,6 @@
         "spacetime",
         "stars",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -43484,7 +42934,6 @@
         "rstatix",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -43578,7 +43027,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -43607,7 +43055,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis"
@@ -43651,7 +43098,6 @@
         "scales",
         "singscore",
         "stringr",
-        "survival",
         "sva",
         "tibble",
         "tidyr",
@@ -43832,7 +43278,6 @@
         "shinydashboard",
         "shinyjs",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidygraph",
@@ -44298,7 +43743,6 @@
         "pillar",
         "scales",
         "strucchange",
-        "survival",
         "tibble",
         "vctrs",
         "vsn"
@@ -44432,7 +43876,6 @@
         "pillar",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis"
@@ -44538,7 +43981,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -44598,7 +44040,6 @@
         "rstatix",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -44826,7 +44267,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -44936,7 +44376,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -44997,7 +44436,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "topGO",
         "vctrs"
@@ -45035,7 +44473,6 @@
         "glmnet",
         "pillar",
         "scales",
-        "survival",
         "tibble",
         "vbsr",
         "vctrs"
@@ -45128,7 +44565,6 @@
         "rstatix",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -45206,7 +44642,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -45320,7 +44755,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "sva",
         "tibble",
         "vctrs"
@@ -45328,8 +44762,7 @@
     "trio": [
         "LogicReg",
         "multtest",
-        "siggenes",
-        "survival"
+        "siggenes"
     ],
     "triplex": [
         "Biostrings",
@@ -45510,8 +44943,7 @@
     "TurboNorm": [],
     "tweeDEseq": [
         "cqn",
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "twoddpcr": [
         "bslib",
@@ -45761,7 +45193,6 @@
         "shinycssloaders",
         "shinyjs",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -46089,7 +45520,6 @@
         "shinyjs",
         "shinythemes",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -46147,7 +45577,6 @@
         "httr",
         "memoise",
         "rtracklayer",
-        "survival",
         "sva",
         "vctrs"
     ],
@@ -46298,7 +45727,6 @@
         "pillar",
         "plotly",
         "scales",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -46525,7 +45953,6 @@
         "shiny",
         "snpStats",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -46586,7 +46013,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "systemPipeR",
         "tibble",
         "tidyr",
@@ -46674,7 +46100,6 @@
         "scales",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -46715,7 +46140,6 @@
         "scales",
         "seqinr",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -46741,7 +46165,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "vsn"
@@ -46868,7 +46291,6 @@
         "dplyr",
         "glmnet",
         "pillar",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -46889,7 +46311,6 @@
         "memoise",
         "multtest",
         "siggenes",
-        "survival",
         "vctrs"
     ],
     "Xeva": [
@@ -47022,7 +46443,6 @@
         "rtracklayer",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -47070,7 +46490,6 @@
         "scales",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -47172,16 +46591,11 @@
         "genefilter",
         "httr",
         "memoise",
-        "survival",
         "vctrs"
     ],
-    "glmnet": [
-        "survival"
-    ],
+    "glmnet": [],
     "ROCR": [],
-    "pamr": [
-        "survival"
-    ],
+    "pamr": [],
     "GO.db": [
         "AnnotationDbi",
         "Biostrings",
@@ -47194,7 +46608,6 @@
         "memoise",
         "vctrs"
     ],
-    "survival": [],
     "httr": [],
     "RSQLite": [
         "blob",
@@ -47341,7 +46754,6 @@
         "rstatix",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -47399,7 +46811,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -47439,7 +46850,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -47471,9 +46881,7 @@
         "vctrs",
         "waldo"
     ],
-    "quantreg": [
-        "survival"
-    ],
+    "quantreg": [],
     "lme4": [
         "callr",
         "nloptr",
@@ -47543,8 +46951,7 @@
         "vctrs"
     ],
     "SAVER": [
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "affydata": [],
     "PFAM.db": [
@@ -47568,7 +46975,6 @@
         "pillar",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis"
@@ -47615,8 +47021,7 @@
         "vctrs"
     ],
     "smurf": [
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "emdbook": [],
     "RcppNumerical": [],
@@ -47650,13 +47055,10 @@
     "dqrng": [],
     "textshaping": [],
     "zCompositions": [
-        "NADA",
-        "survival"
+        "NADA"
     ],
     "Rfast": [],
-    "NADA": [
-        "survival"
-    ],
+    "NADA": [],
     "shinydashboard": [
         "bslib",
         "httpuv",
@@ -47808,7 +47210,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -47853,7 +47254,6 @@
         "lava",
         "pillar",
         "prodlim",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -47871,17 +47271,14 @@
     "ipred": [
         "future.apply",
         "lava",
-        "prodlim",
-        "survival"
+        "prodlim"
     ],
     "prodlim": [
         "future.apply",
-        "lava",
-        "survival"
+        "lava"
     ],
     "lava": [
-        "future.apply",
-        "survival"
+        "future.apply"
     ],
     "rapiclient": [
         "httr"
@@ -47956,7 +47353,6 @@
         "spatstat.geom",
         "spatstat.random",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -47987,9 +47383,7 @@
         "memoise",
         "vctrs"
     ],
-    "fitdistrplus": [
-        "survival"
-    ],
+    "fitdistrplus": [],
     "ggridges": [
         "ggplot2",
         "pillar",
@@ -48401,9 +47795,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "msm": [
-        "survival"
-    ],
+    "msm": [],
     "msigdbr": [
         "babelgene",
         "dplyr",
@@ -48662,7 +48054,6 @@
         "pillar",
         "plotly",
         "scales",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -48741,9 +48132,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "gbm": [
-        "survival"
-    ],
+    "gbm": [],
     "threejs": [],
     "rstan": [
         "StanHeaders",
@@ -48809,8 +48198,7 @@
         "vctrs"
     ],
     "MCMCpack": [
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "heatmaply": [
         "callr",
@@ -48864,7 +48252,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -48883,9 +48270,7 @@
         "Rvmmin"
     ],
     "detectseparation": [],
-    "survey": [
-        "survival"
-    ],
+    "survey": [],
     "Rvmmin": [],
     "Rcgmin": [],
     "sjmisc": [
@@ -48933,7 +48318,6 @@
         "rtracklayer",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -48989,7 +48373,6 @@
         "shinyAce",
         "shinyFiles",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -49185,7 +48568,6 @@
         "quantreg",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis"
@@ -49203,12 +48585,9 @@
         "vctrs"
     ],
     "multcomp": [
-        "TH.data",
-        "survival"
+        "TH.data"
     ],
-    "TH.data": [
-        "survival"
-    ],
+    "TH.data": [],
     "latex2exp": [
         "stringr",
         "vctrs"
@@ -49260,7 +48639,6 @@
         "pillar",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis"
@@ -49339,16 +48717,14 @@
         "cvAUC",
         "future.apply",
         "np",
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "SuperLearner": [
         "ROCR",
         "cvAUC"
     ],
     "np": [
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "cvAUC": [
         "ROCR"
@@ -49409,7 +48785,6 @@
         "progress",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -49454,9 +48829,7 @@
     "gmodels": [],
     "ggm": [],
     "vcd": [],
-    "gamlss": [
-        "survival"
-    ],
+    "gamlss": [],
     "GenomicState": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -49505,7 +48878,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -49607,8 +48979,7 @@
         "vctrs"
     ],
     "BMA": [
-        "rrcov",
-        "survival"
+        "rrcov"
     ],
     "rrcov": [],
     "vcfR": [
@@ -49643,7 +49014,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -49712,7 +49082,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -49736,7 +49105,6 @@
         "quantreg",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -49782,8 +49150,7 @@
     ],
     "GenomicTools": [],
     "GenomicTools.fileHandler": [
-        "snpStats",
-        "survival"
+        "snpStats"
     ],
     "quantmod": [
         "TTR"
@@ -49831,7 +49198,6 @@
         "rtracklayer",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -49876,7 +49242,6 @@
         "rtracklayer",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -49921,7 +49286,6 @@
         "rtracklayer",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -49995,7 +49359,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -50378,8 +49741,7 @@
         "vctrs"
     ],
     "cobs": [
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "phylolm": [
         "future.apply"
@@ -50423,7 +49785,6 @@
         "rstatix",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -50453,7 +49814,6 @@
         "spatstat.model",
         "spatstat.random",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -50493,7 +49853,6 @@
         "rms",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis"
@@ -50542,8 +49901,7 @@
         "vctrs"
     ],
     "iC10": [
-        "pamr",
-        "survival"
+        "pamr"
     ],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "AnnotationDbi",
@@ -50583,7 +49941,6 @@
         "rtracklayer",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -50624,7 +49981,6 @@
         "pillar",
         "plotly",
         "scales",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -50831,23 +50187,19 @@
         "multtest",
         "mutoss",
         "quantreg",
-        "sn",
-        "survival"
+        "sn"
     ],
     "TFisher": [
         "quantreg",
-        "sn",
-        "survival"
+        "sn"
     ],
     "mutoss": [
         "TH.data",
         "multcomp",
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "sn": [
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "DMwR2": [
         "TTR",
@@ -50971,7 +50323,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -50995,8 +50346,7 @@
     "bnstruct": [],
     "phangorn": [],
     "DiffCorr": [
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "MetaCycle": [],
     "fastDummies": [
@@ -51058,8 +50408,7 @@
     ],
     "coin": [
         "TH.data",
-        "multcomp",
-        "survival"
+        "multcomp"
     ],
     "ELMER.data": [
         "GenomeInfoDb",
@@ -51109,7 +50458,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs",
         "viridis"
@@ -51261,7 +50609,6 @@
         "lava",
         "memoise",
         "prodlim",
-        "survival",
         "vctrs"
     ],
     "NHPoisson": [
@@ -51279,7 +50626,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -51338,7 +50684,6 @@
         "scales",
         "stringr",
         "survMisc",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -51353,13 +50698,10 @@
         "pillar",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "vctrs"
     ],
-    "km.ci": [
-        "survival"
-    ],
+    "km.ci": [],
     "logistf": [
         "broom",
         "dplyr",
@@ -51481,7 +50823,6 @@
         "scales",
         "shiny",
         "stringr",
-        "survival",
         "tibble",
         "vcd",
         "vctrs",
@@ -51512,16 +50853,13 @@
         "rmarkdown",
         "sf",
         "stringr",
-        "survival",
         "vctrs"
     ],
     "sf": [
         "classInt"
     ],
     "classInt": [],
-    "penalized": [
-        "survival"
-    ],
+    "penalized": [],
     "fGarch": [
         "cvar",
         "gbutils"
@@ -51770,9 +51108,7 @@
         "vctrs"
     ],
     "scam": [],
-    "LogicReg": [
-        "survival"
-    ],
+    "LogicReg": [],
     "reldist": [
         "StanHeaders",
         "callr",
@@ -51811,7 +51147,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -52012,7 +51347,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "sva",
         "tibble",
         "vctrs"
@@ -52127,7 +51461,6 @@
         "rtracklayer",
         "siggenes",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -52261,17 +51594,14 @@
         "glmnet",
         "inum",
         "mboost",
-        "partykit",
-        "survival"
+        "partykit"
     ],
     "mboost": [
         "inum",
-        "partykit",
-        "survival"
+        "partykit"
     ],
     "partykit": [
-        "inum",
-        "survival"
+        "inum"
     ],
     "inum": [],
     "miRBaseVersions.db": [
@@ -52377,7 +51707,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -52392,9 +51721,7 @@
         "tibble",
         "vctrs"
     ],
-    "tnet": [
-        "survival"
-    ],
+    "tnet": [],
     "groupdata2": [
         "dplyr",
         "pillar",
@@ -52536,12 +51863,10 @@
     "huge": [],
     "ICSNP": [
         "ICS",
-        "survey",
-        "survival"
+        "survey"
     ],
     "ICS": [
-        "survey",
-        "survival"
+        "survey"
     ],
     "dnet": [
         "Rgraphviz",
@@ -52585,7 +51910,6 @@
         "rematch2",
         "scales",
         "stringr",
-        "survival",
         "testthat",
         "tibble",
         "tidyr",
@@ -52727,7 +52051,6 @@
         "nloptr",
         "pillar",
         "rematch2",
-        "survival",
         "testthat",
         "tibble",
         "unmarked",
@@ -52782,9 +52105,7 @@
         "vctrs",
         "vroom"
     ],
-    "mRMRe": [
-        "survival"
-    ],
+    "mRMRe": [],
     "kmer": [
         "phylogram"
     ],
@@ -52875,7 +52196,6 @@
         "partykit",
         "reshape2",
         "stringr",
-        "survival",
         "vctrs"
     ],
     "Cubist": [
@@ -53224,7 +52544,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -53491,7 +52810,6 @@
         "scales",
         "stringr",
         "survMisc",
-        "survival",
         "survminer",
         "testthat",
         "tibble",
@@ -53613,7 +52931,6 @@
         "spatstat.geom",
         "spatstat.random",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -53752,9 +53069,7 @@
         "stringr",
         "vctrs"
     ],
-    "bamlss": [
-        "survival"
-    ],
+    "bamlss": [],
     "dml": [
         "RSpectra",
         "lfda",
@@ -53782,7 +53097,6 @@
         "readr",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -53851,8 +53165,7 @@
     ],
     "clustvarsel": [
         "BMA",
-        "rrcov",
-        "survival"
+        "rrcov"
     ],
     "gstat": [
         "classInt",
@@ -53962,7 +53275,6 @@
         "reshape2",
         "scales",
         "stringr",
-        "survival",
         "tibble",
         "tidyr",
         "tidyselect",
