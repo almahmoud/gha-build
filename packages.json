@@ -1583,9 +1583,7 @@
         "minfi"
     ],
     "epiNEM": [],
-    "epistasisGA": [
-        "qgraph"
-    ],
+    "epistasisGA": [],
     "EpiTxDb": [
         "GenomicFeatures",
         "tRNAdbImport"
@@ -5726,7 +5724,6 @@
     "EpiMix.data": [
         "ExperimentHub"
     ],
-    "qgraph": [],
     "ewceData": [
         "ExperimentHub"
     ],
