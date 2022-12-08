@@ -259,10 +259,7 @@
         "ggpubr",
         "survminer"
     ],
-    "RTNduals": [],
-    "RTNsurvival": [
-        "RTNduals"
-    ],
+    "RTNsurvival": [],
     "scRecover": [
         "Rmagic"
     ],
