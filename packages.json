@@ -8433,7 +8433,6 @@
         "vctrs",
         "viridis"
     ],
-    "consensus": [],
     "ConsensusClusterPlus": [],
     "consensusDE": [
         "AnnotationDbi",
