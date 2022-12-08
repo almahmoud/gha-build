@@ -157,7 +157,6 @@
         "geneplotter"
     ],
     "ANCOMBC": [
-        "DescTools",
         "Hmisc",
         "MultiAssayExperiment",
         "TreeSummarizedExperiment",
@@ -568,7 +567,6 @@
     "benchdamic": [
         "ANCOMBC",
         "DESeq2",
-        "DescTools",
         "Hmisc",
         "MAST",
         "MultiAssayExperiment",
@@ -4208,9 +4206,7 @@
         "GO.db"
     ],
     "GPA": [],
-    "gpuMagic": [
-        "DescTools"
-    ],
+    "gpuMagic": [],
     "GRaNIE": [
         "BiocFileCache",
         "DESeq2",
@@ -4573,7 +4569,6 @@
         "rtracklayer"
     ],
     "ILoReg": [
-        "DescTools",
         "dendextend"
     ],
     "imageHTS": [
@@ -5750,7 +5745,6 @@
     "microbiomeMarker": [
         "ANCOMBC",
         "DESeq2",
-        "DescTools",
         "Hmisc",
         "MultiAssayExperiment",
         "TreeSummarizedExperiment",
@@ -8826,7 +8820,6 @@
     "SCOPE": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
-        "DescTools",
         "rtracklayer"
     ],
     "scoreInvHap": [
@@ -10731,7 +10724,6 @@
         "MultiAssayExperiment"
     ],
     "readr": [],
-    "DescTools": [],
     "lmerTest": [
         "lme4",
         "nloptr",
