@@ -15927,7 +15927,6 @@
         "KEGGREST",
         "SummarizedExperiment",
         "annotate",
-        "arrow",
         "dplyr",
         "ggplot2",
         "mixtools",
@@ -23999,7 +23998,6 @@
         "interactiveDisplayBase",
         "rtracklayer"
     ],
-    "arrow": [],
     "neo4r": [
         "dplyr",
         "tidyr"
