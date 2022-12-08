@@ -3098,7 +3098,6 @@
         "rtracklayer"
     ],
     "Dune": [
-        "gganimate",
         "tidyr"
     ],
     "easier": [
@@ -12792,7 +12791,6 @@
     "hgu133a2.db": [
         "org.Hs.eg.db"
     ],
-    "gganimate": [],
     "easierData": [
         "AnnotationHub",
         "BiocFileCache",
