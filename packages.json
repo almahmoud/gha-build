@@ -2070,7 +2070,6 @@
         "rio",
         "rtracklayer"
     ],
-    "CrispRVariants": [],
     "crisprVerse": [
         "AnnotationHub",
         "BSgenome",
