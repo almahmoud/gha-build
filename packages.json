@@ -6032,7 +6032,6 @@
         "rstatix",
         "shinyBS",
         "shinyHeatmaply",
-        "shinybusy",
         "testthat",
         "tidyr",
         "viridis",
@@ -7284,7 +7283,6 @@
         "readxl",
         "rio",
         "shinyWidgets",
-        "shinybusy",
         "tidyr",
         "vroom"
     ],
@@ -9698,7 +9696,6 @@
         "nloptr",
         "rematch2",
         "shinyBS",
-        "shinybusy",
         "shinyjs",
         "testthat",
         "tidyr",
@@ -9922,7 +9919,6 @@
         "rtracklayer",
         "rvest",
         "shinyBS",
-        "shinybusy",
         "shinydashboard",
         "shinyjqui",
         "shinyjs",
@@ -10574,7 +10570,6 @@
         "rematch2",
         "rstatix",
         "shinyWidgets",
-        "shinybusy",
         "shinycssloaders",
         "shinyjs",
         "shinythemes",
@@ -17638,7 +17633,6 @@
         "tidyr",
         "viridis"
     ],
-    "shinybusy": [],
     "ggalt": [
         "plotly",
         "tidyr"
@@ -17691,7 +17685,6 @@
         "readxl",
         "rio",
         "shinyWidgets",
-        "shinybusy",
         "vroom"
     ],
     "pd.mapping50k.xba240": [
