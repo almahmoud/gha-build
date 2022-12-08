@@ -22652,7 +22652,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "iGC": [],
     "IgGeneUsage": [
         "DelayedArray",
         "GenomeInfoDb",
