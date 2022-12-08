@@ -2339,7 +2339,6 @@
         "MultiAssayExperiment",
         "NADA",
         "RSQLite",
-        "Rcgmin",
         "RcppML",
         "ScaledMatrix",
         "Seurat",
@@ -42053,7 +42052,6 @@
     "DirichletReg": [],
     "corncob": [
         "Biostrings",
-        "Rcgmin",
         "XVector",
         "detectseparation",
         "dplyr",
@@ -42078,12 +42076,9 @@
         "tidyselect",
         "vctrs"
     ],
-    "optimr": [
-        "Rcgmin"
-    ],
+    "optimr": [],
     "detectseparation": [],
     "survey": [],
-    "Rcgmin": [],
     "sjmisc": [
         "dplyr",
         "pillar",
