@@ -6830,7 +6830,6 @@
         "recipes"
     ],
     "SCANVIS": [],
-    "SCArray": [],
     "SCATE": [
         "AnnotationHub",
         "ExperimentHub",
