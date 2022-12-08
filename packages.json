@@ -19879,7 +19879,6 @@
         "quantreg",
         "recipes",
         "rematch2",
-        "reportROC",
         "reshape2",
         "rstatix",
         "shiny",
@@ -33309,7 +33308,6 @@
         "tfruns",
         "tidyselect"
     ],
-    "reportROC": [],
     "verification": [
         "fields",
         "ggplot2",
