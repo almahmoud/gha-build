@@ -7666,7 +7666,6 @@
         "HTSFilter",
         "KEGGREST",
         "RSQLite",
-        "Rmixmod",
         "SummarizedExperiment",
         "XVector",
         "annotate",
@@ -43547,7 +43546,6 @@
         "tibble",
         "vctrs"
     ],
-    "Rmixmod": [],
     "faahKO": [
         "BiocParallel",
         "GenomicRanges",
