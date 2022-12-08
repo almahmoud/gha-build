@@ -7218,7 +7218,6 @@
         "biomaRt",
         "tidyr"
     ],
-    "mpra": [],
     "MQmetrics": [
         "broom",
         "car",
