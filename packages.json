@@ -819,7 +819,6 @@
     "scTensor": [
         "ReactomePA"
     ],
-    "scTreeViz": [],
     "segmenter": [
         "ChIPseeker"
     ],
