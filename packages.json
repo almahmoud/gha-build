@@ -4751,7 +4751,6 @@
         "zoo"
     ],
     "bayNorm": [
-        "BB",
         "Biobase",
         "BiocParallel",
         "DelayedArray",
@@ -14620,7 +14619,6 @@
         "viridis"
     ],
     "combi": [
-        "BB",
         "Biobase",
         "Biostrings",
         "DelayedArray",
@@ -87960,7 +87958,6 @@
         "zoo"
     ],
     "miscTools": [],
-    "BB": [],
     "rjags": [
         "coda"
     ],
