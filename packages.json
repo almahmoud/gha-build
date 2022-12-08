@@ -52792,8 +52792,7 @@
         "Spectra",
         "clue",
         "futile.logger",
-        "lambda.r",
-        "rawrr"
+        "lambda.r"
     ],
     "MsCoreUtils": [
         "Rcpp",
@@ -67156,7 +67155,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "rawrr": [],
     "RbcBook1": [
         "Biobase",
         "graph"
