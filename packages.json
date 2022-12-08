@@ -557,7 +557,6 @@
         "enrichplot",
         "ggtree"
     ],
-    "EGSEA": [],
     "ELMER": [
         "Gviz",
         "biovizBase",
