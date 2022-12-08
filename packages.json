@@ -1466,7 +1466,6 @@
         "KEGGREST",
         "Matrix",
         "RCurl",
-        "RMySQL",
         "RSQLite",
         "Rsamtools",
         "XVector",
@@ -26815,7 +26814,6 @@
     "GladiaTOX": [
         "Matrix",
         "RCurl",
-        "RMySQL",
         "RSQLite",
         "bit64",
         "blob",
@@ -31345,7 +31343,6 @@
         "Matrix",
         "MatrixGenerics",
         "RCurl",
-        "RMySQL",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -68741,7 +68738,6 @@
         "MatrixGenerics",
         "MotifDb",
         "RCurl",
-        "RMySQL",
         "RPostgreSQL",
         "RSQLite",
         "RcppEigen",
@@ -73084,7 +73080,6 @@
         "globals",
         "survival"
     ],
-    "RMySQL": [],
     "rapiclient": [
         "httr",
         "openssl"
