@@ -46,7 +46,6 @@
         "ggbio"
     ],
     "airpart": [],
-    "alevinQC": [],
     "AllelicImbalance": [
         "GenomicFeatures",
         "Gviz",
