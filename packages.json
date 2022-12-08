@@ -425,7 +425,6 @@
         "survminer"
     ],
     "synergyfinder": [],
-    "synlet": [],
     "TADCompare": [
         "ggpubr",
         "rstatix"
