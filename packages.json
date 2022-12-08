@@ -9861,9 +9861,7 @@
         "edgeR",
         "futile.logger"
     ],
-    "ClusterSignificance": [
-        "princurve"
-    ],
+    "ClusterSignificance": [],
     "clusterStab": [],
     "clustifyr": [
         "BiocParallel",
@@ -11227,7 +11225,6 @@
         "pROC",
         "pheatmap",
         "pillar",
-        "princurve",
         "prodlim",
         "purrr",
         "ragg",
@@ -20728,7 +20725,6 @@
         "pheatmap",
         "pillar",
         "pkgload",
-        "princurve",
         "psych",
         "purrr",
         "quantreg",
@@ -40415,9 +40411,7 @@
     "Path2PPI": [
         "igraph"
     ],
-    "pathifier": [
-        "princurve"
-    ],
+    "pathifier": [],
     "PathoStat": [
         "AnnotationDbi",
         "BiocParallel",
@@ -53671,8 +53665,7 @@
         "SummarizedExperiment",
         "TrajectoryUtils",
         "XVector",
-        "igraph",
-        "princurve"
+        "igraph"
     ],
     "SMAD": [
         "RcppAlgos",
@@ -58804,7 +58797,6 @@
         "lifecycle",
         "mgcv",
         "pillar",
-        "princurve",
         "scales",
         "slingshot",
         "tibble",
@@ -59091,7 +59083,6 @@
         "lifecycle",
         "mgcv",
         "pillar",
-        "princurve",
         "rgl",
         "scales",
         "slingshot",
@@ -66308,7 +66299,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "princurve": [],
     "kohonen": [],
     "biwt": [],
     "skmeans": [],
@@ -67605,7 +67595,6 @@
     ],
     "analogue": [
         "mgcv",
-        "princurve",
         "vegan"
     ],
     "DataVisualizations": [
