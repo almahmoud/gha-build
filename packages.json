@@ -2454,7 +2454,6 @@
         "caret",
         "minfi"
     ],
-    "Repitools": [],
     "ReportingTools": [
         "Category",
         "DESeq2",
