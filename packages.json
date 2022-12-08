@@ -633,7 +633,6 @@
         "stringr",
         "tibble"
     ],
-    "ANF": [],
     "animalcules": [
         "AnnotationDbi",
         "Biostrings",
