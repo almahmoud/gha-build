@@ -6750,7 +6750,6 @@
         "rematch2",
         "reshape2",
         "scales",
-        "spBayes",
         "stringr",
         "survival",
         "testthat",
@@ -58137,9 +58136,7 @@
     ],
     "Ckmeans.1d.dp": [],
     "mvoutlier": [],
-    "SpatialTools": [
-        "spBayes"
-    ],
+    "SpatialTools": [],
     "FactoMineR": [
         "DT",
         "RcppEigen",
@@ -58169,7 +58166,6 @@
         "vctrs",
         "waldo"
     ],
-    "spBayes": [],
     "EnvStats": [
         "ggplot2",
         "mgcv",
