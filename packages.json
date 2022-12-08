@@ -3939,7 +3939,6 @@
     "keggorthology": [
         "hgu95av2.db"
     ],
-    "KinSwingR": [],
     "kissDE": [
         "BSgenome",
         "DESeq2",
