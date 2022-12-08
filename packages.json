@@ -4932,7 +4932,6 @@
     "tRNAdbImport": [],
     "tRNAscanImport": [],
     "tscR": [
-        "kml",
         "kmlShape"
     ],
     "ttgsea": [
@@ -5604,9 +5603,6 @@
     "visdat": [],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [],
-    "kmlShape": [
-        "kml"
-    ],
-    "kml": [],
+    "kmlShape": [],
     "msigdb": []
 }
