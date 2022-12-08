@@ -8437,7 +8437,6 @@
         "rtracklayer",
         "tidyr"
     ],
-    "rcellminer": [],
     "rCGH": [
         "BiocFileCache",
         "GenomicFeatures",
