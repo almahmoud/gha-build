@@ -163,9 +163,7 @@
         "Gviz"
     ],
     "circRNAprofiler": [],
-    "CircSeqAlignTk": [
-        "Rhisat2"
-    ],
+    "CircSeqAlignTk": [],
     "CiteFuse": [
         "propr"
     ],
@@ -1069,7 +1067,6 @@
     ],
     "rfaRm": [],
     "rgsepd": [],
-    "Rhisat2": [],
     "RiboCrypt": [],
     "RiboProfiling": [
         "ggbio"
