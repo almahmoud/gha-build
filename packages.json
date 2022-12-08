@@ -81,7 +81,6 @@
         "GSEABase",
         "annotate"
     ],
-    "aggregateBioVar": [],
     "AgiMicroRna": [
         "BSgenome",
         "BiocFileCache",
