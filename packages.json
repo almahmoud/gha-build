@@ -44518,7 +44518,6 @@
         "s2",
         "scuttle",
         "sf",
-        "spData",
         "spdep",
         "tibble",
         "tidyselect",
@@ -45832,7 +45831,6 @@
         "scuttle",
         "sf",
         "shiny",
-        "spData",
         "spatstat.explore",
         "spatstat.geom",
         "spatstat.random",
@@ -49829,7 +49827,6 @@
         "scico",
         "scuttle",
         "sf",
-        "spData",
         "spdep",
         "tibble",
         "tidyselect",
@@ -57786,10 +57783,8 @@
         "classInt",
         "e1071",
         "s2",
-        "sf",
-        "spData"
+        "sf"
     ],
-    "spData": [],
     "alphahull": [
         "ggplot2",
         "interp",
