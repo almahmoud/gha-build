@@ -2105,9 +2105,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "pwrEWAS": [
-        "pwrEWAS.data"
-    ],
+    "pwrEWAS": [],
     "QFeatures": [],
     "qmtools": [
         "VIM",
@@ -3030,7 +3028,6 @@
     "phastCons100way.UCSC.hg38": [],
     "EnsDb.Mmusculus.v79": [],
     "EnsDb.Rnorvegicus.v79": [],
-    "pwrEWAS.data": [],
     "phastCons100way.UCSC.hg19": [],
     "caretEnsemble": [],
     "Rmagic": [],
