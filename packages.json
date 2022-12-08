@@ -1186,9 +1186,7 @@
         "KEGGREST",
         "ggplot2"
     ],
-    "beadarraySNP": [
-        "quantsmooth"
-    ],
+    "beadarraySNP": [],
     "BEARscc": [
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -7709,7 +7707,6 @@
         "ggplot2",
         "logistf",
         "mice",
-        "quantsmooth",
         "tidyr"
     ],
     "GeneStructureTools": [
@@ -8802,7 +8799,6 @@
         "ggplot2",
         "logistf",
         "mice",
-        "quantsmooth",
         "tidyr"
     ],
     "gwasurvivr": [
@@ -8823,7 +8819,6 @@
         "ggplot2",
         "logistf",
         "mice",
-        "quantsmooth",
         "rtracklayer",
         "tidyr"
     ],
@@ -10727,7 +10722,6 @@
         "logistf",
         "mice",
         "oligoClasses",
-        "quantsmooth",
         "tidyr"
     ],
     "MBQN": [
@@ -15911,7 +15905,6 @@
         "tidyr",
         "vroom"
     ],
-    "quantsmooth": [],
     "QuartPAC": [
         "GraphPAC",
         "SpacePAC",
@@ -18879,8 +18872,7 @@
         "AnnotationDbi",
         "KEGGREST",
         "annotate",
-        "globaltest",
-        "quantsmooth"
+        "globaltest"
     ],
     "SIMAT": [
         "ggplot2"
