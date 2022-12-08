@@ -30,7 +30,6 @@
         "plotly",
         "reshape2",
         "rmarkdown",
-        "shiny",
         "tibble",
         "tidyr"
     ],
@@ -82,7 +81,6 @@
         "rematch2",
         "reshape2",
         "rstatix",
-        "shiny",
         "shinyjs",
         "testthat",
         "tibble",
@@ -102,7 +100,6 @@
         "reshape2",
         "rvest",
         "selectr",
-        "shiny",
         "smoother",
         "tibble"
     ],
@@ -264,7 +261,6 @@
         "ggplot2",
         "knitr",
         "rmarkdown",
-        "shiny",
         "shinydashboard",
         "tibble",
         "tidyr"
@@ -349,7 +345,6 @@
         "readr",
         "reshape2",
         "rmarkdown",
-        "shiny",
         "tibble",
         "tidyr",
         "vroom"
@@ -448,7 +443,6 @@
         "prodlim",
         "recipes",
         "reshape2",
-        "shiny",
         "shinyjs",
         "tibble",
         "tidyr"
@@ -484,7 +478,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "AnnotationHubData": [
@@ -505,7 +498,6 @@
         "interactiveDisplayBase",
         "knitr",
         "rtracklayer",
-        "shiny",
         "tibble"
     ],
     "annotatr": [
@@ -527,7 +519,6 @@
         "regioneR",
         "reshape2",
         "rtracklayer",
-        "shiny",
         "tibble",
         "vroom"
     ],
@@ -552,7 +543,6 @@
     "AnVIL": [
         "dplyr",
         "miniUI",
-        "shiny",
         "tibble",
         "tidyr"
     ],
@@ -561,7 +551,6 @@
         "dplyr",
         "ggplot2",
         "plotly",
-        "shiny",
         "shinytoastr",
         "tibble",
         "tidyr"
@@ -573,7 +562,6 @@
         "miniUI",
         "readr",
         "rmarkdown",
-        "shiny",
         "tibble",
         "tidyr",
         "vroom"
@@ -629,7 +617,6 @@
         "reshape2",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "tibble",
         "tidyr",
@@ -667,7 +654,6 @@
         "org.Hs.eg.db",
         "rsnps",
         "rtracklayer",
-        "shiny",
         "shinyjs",
         "tibble"
     ],
@@ -917,7 +903,6 @@
         "rtracklayer",
         "rvest",
         "selectr",
-        "shiny",
         "tibble",
         "tidyr",
         "tidyverse",
@@ -953,7 +938,6 @@
         "regioneR",
         "reshape2",
         "rtracklayer",
-        "shiny",
         "tibble",
         "vroom"
     ],
@@ -989,7 +973,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "atSNP": [
@@ -1040,7 +1023,6 @@
         "ggplot2",
         "mixtools",
         "plotly",
-        "shiny",
         "tibble",
         "tidyr"
     ],
@@ -1166,7 +1148,6 @@
         "recipes",
         "reshape2",
         "rmarkdown",
-        "shiny",
         "tibble",
         "tidyr",
         "viridis",
@@ -1184,7 +1165,6 @@
         "ggdendro",
         "ggplot2",
         "ggridges",
-        "shiny",
         "tibble",
         "tidyr",
         "viridis"
@@ -1223,7 +1203,6 @@
         "reshape2",
         "scran",
         "scuttle",
-        "shiny",
         "shinyjs",
         "tibble",
         "viridis"
@@ -1244,7 +1223,6 @@
         "rstan",
         "scran",
         "scuttle",
-        "shiny",
         "shinyjs",
         "tibble",
         "viridis"
@@ -1276,7 +1254,6 @@
         "plotly",
         "reshape2",
         "rmarkdown",
-        "shiny",
         "sva",
         "tibble",
         "tidyr",
@@ -1409,7 +1386,6 @@
         "scattermore",
         "sctransform",
         "scuttle",
-        "shiny",
         "spatstat.explore",
         "testthat",
         "tibble",
@@ -1501,7 +1477,6 @@
         "htmlTable",
         "knitr",
         "plotly",
-        "shiny",
         "shinycssloaders",
         "shinydashboard",
         "tibble",
@@ -1593,7 +1568,6 @@
         "rmarkdown",
         "scatterpie",
         "shadowtext",
-        "shiny",
         "shinyAce",
         "shinyFiles",
         "shinythemes",
@@ -1618,7 +1592,6 @@
     ],
     "BiocFHIR": [
         "dplyr",
-        "shiny",
         "tibble",
         "tidyr"
     ],
@@ -1665,7 +1638,6 @@
         "rematch2",
         "rstatix",
         "rtracklayer",
-        "shiny",
         "testthat",
         "tibble",
         "tidyr",
@@ -1882,7 +1854,6 @@
         "knitr",
         "latex2exp",
         "org.Hs.eg.db",
-        "shiny",
         "synaptome.data",
         "synaptome.db",
         "tibble",
@@ -1928,7 +1899,6 @@
         "org.Hs.eg.db",
         "pathview",
         "rmarkdown",
-        "shiny",
         "shinyBS",
         "tibble",
         "viridis"
@@ -2023,7 +1993,6 @@
         "regioneR",
         "reshape2",
         "rtracklayer",
-        "shiny",
         "tibble",
         "vroom"
     ],
@@ -2090,7 +2059,6 @@
         "randomcoloR",
         "rematch2",
         "reshape2",
-        "shiny",
         "testthat",
         "tibble",
         "waldo"
@@ -2214,7 +2182,6 @@
         "qvalue",
         "reshape2",
         "rtracklayer",
-        "shiny",
         "tibble",
         "tidyr",
         "viridis"
@@ -2227,7 +2194,6 @@
         "biomaRt",
         "dbplyr",
         "dplyr",
-        "shiny",
         "tibble"
     ],
     "branchpointer": [
@@ -2339,7 +2305,6 @@
         "rematch2",
         "rmarkdown",
         "roxygen2",
-        "shiny",
         "testthat",
         "tibble",
         "usethis",
@@ -2682,7 +2647,6 @@
         "rtracklayer",
         "rvest",
         "selectr",
-        "shiny",
         "tibble",
         "tidyr",
         "vroom"
@@ -2725,7 +2689,6 @@
         "rtracklayer",
         "rvest",
         "selectr",
-        "shiny",
         "tibble",
         "tidyr",
         "vroom"
@@ -2735,7 +2698,6 @@
         "rapportools",
         "reshape2",
         "rintrojs",
-        "shiny",
         "shinyBS",
         "shinycssloaders",
         "shinydashboard",
@@ -2851,7 +2813,6 @@
         "scattermore",
         "sctransform",
         "scuttle",
-        "shiny",
         "spatstat.explore",
         "tibble",
         "tidyr",
@@ -2935,7 +2896,6 @@
     ],
     "cellxgenedp": [
         "dplyr",
-        "shiny",
         "tibble"
     ],
     "CEMiTool": [
@@ -3190,7 +3150,6 @@
         "rmarkdown",
         "rtracklayer",
         "ruv",
-        "shiny",
         "shinythemes",
         "siggenes",
         "sva",
@@ -3213,7 +3172,6 @@
         "ggplot2",
         "plotly",
         "reshape2",
-        "shiny",
         "tibble",
         "tidyr",
         "viridis"
@@ -3514,7 +3472,6 @@
         "scran",
         "scuttle",
         "selectr",
-        "shiny",
         "shinyFiles",
         "shinyWidgets",
         "shinycssloaders",
@@ -3566,7 +3523,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "shiny",
         "tibble",
         "tidyr",
         "vroom"
@@ -3649,7 +3605,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "shiny",
         "tibble",
         "universalmotif",
         "vroom"
@@ -3977,7 +3932,6 @@
         "plotly",
         "regioneR",
         "rtracklayer",
-        "shiny",
         "tibble",
         "tidyr",
         "viridis"
@@ -3989,7 +3943,6 @@
         "ggplot2",
         "rematch2",
         "reshape2",
-        "shiny",
         "shinyFiles",
         "shinyjs",
         "testthat",
@@ -4083,7 +4036,6 @@
         "reshape2",
         "rmarkdown",
         "roxygen2",
-        "shiny",
         "testthat",
         "tibble",
         "tidyr",
@@ -4207,7 +4159,6 @@
         "nloptr",
         "rematch2",
         "rtracklayer",
-        "shiny",
         "testthat",
         "tibble",
         "waldo"
@@ -4284,7 +4235,6 @@
         "readr",
         "readxl",
         "rio",
-        "shiny",
         "shinydashboard",
         "shinyjs",
         "tibble",
@@ -4552,9 +4502,7 @@
         "ggplot2",
         "tibble"
     ],
-    "CoRegNet": [
-        "shiny"
-    ],
+    "CoRegNet": [],
     "CoreGx": [
         "MultiAssayExperiment",
         "SummarizedExperiment",
@@ -4564,7 +4512,6 @@
         "fgsea",
         "ggplot2",
         "piano",
-        "shiny",
         "shinydashboard",
         "shinyjs",
         "tibble",
@@ -4719,7 +4666,6 @@
         "interactiveDisplayBase",
         "readr",
         "rtracklayer",
-        "shiny",
         "tibble",
         "vroom"
     ],
@@ -4733,7 +4679,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "CRISPRseek": [
@@ -4777,7 +4722,6 @@
         "regioneR",
         "rio",
         "rtracklayer",
-        "shiny",
         "shinyjs",
         "tensorflow",
         "tfruns",
@@ -4827,7 +4771,6 @@
         "knitr",
         "readr",
         "rtracklayer",
-        "shiny",
         "tibble",
         "viridis",
         "vroom"
@@ -4863,7 +4806,6 @@
         "knitr",
         "readr",
         "rtracklayer",
-        "shiny",
         "tibble",
         "viridis",
         "vroom"
@@ -4886,7 +4828,6 @@
         "oligoClasses",
         "readr",
         "readxl",
-        "shiny",
         "shinyBS",
         "shinyWidgets",
         "shinyjs",
@@ -4953,7 +4894,6 @@
         "quantmod",
         "readxl",
         "reshape2",
-        "shiny",
         "shinycssloaders",
         "tibble",
         "tidyr"
@@ -4961,7 +4901,6 @@
     "ctsGE": [
         "ggplot2",
         "reshape2",
-        "shiny",
         "tibble"
     ],
     "CTSV": [
@@ -5015,7 +4954,6 @@
         "dplyr",
         "ggplot2",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "customProDB": [
@@ -5065,7 +5003,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "ggplot2",
-        "shiny",
         "tibble",
         "viridis"
     ],
@@ -5106,7 +5043,6 @@
         "rematch2",
         "reshape2",
         "rstatix",
-        "shiny",
         "shinyFeedback",
         "shinyMatrix",
         "shinyjs",
@@ -5164,7 +5100,6 @@
         "ggbeeswarm",
         "ggplot2",
         "scuttle",
-        "shiny",
         "shinydashboard",
         "tibble",
         "viridis"
@@ -5460,7 +5395,6 @@
         "reshape2",
         "scatterpie",
         "shadowtext",
-        "shiny",
         "shinyBS",
         "shinydashboard",
         "shinyjs",
@@ -5727,7 +5661,6 @@
         "knitr",
         "readr",
         "rmarkdown",
-        "shiny",
         "shinydashboard",
         "tibble",
         "tidyr",
@@ -6055,7 +5988,6 @@
         "scran",
         "sctransform",
         "scuttle",
-        "shiny",
         "spatstat.explore",
         "tibble",
         "tidyr"
@@ -6085,7 +6017,6 @@
         "rmarkdown",
         "rvest",
         "selectr",
-        "shiny",
         "shinyBS",
         "shinycssloaders",
         "shinydashboard",
@@ -6190,7 +6121,6 @@
         "reshape2",
         "rtracklayer",
         "ruv",
-        "shiny",
         "siggenes",
         "tibble",
         "tidyr",
@@ -6245,7 +6175,6 @@
         "regioneR",
         "reshape2",
         "rtracklayer",
-        "shiny",
         "tibble",
         "vroom"
     ],
@@ -6306,7 +6235,6 @@
         "readxl",
         "rematch2",
         "reshape2",
-        "shiny",
         "shinydashboard",
         "testthat",
         "tibble",
@@ -6461,7 +6389,6 @@
         "rematch2",
         "reshape2",
         "rstatix",
-        "shiny",
         "testthat",
         "tibble",
         "tidyr",
@@ -6507,8 +6434,7 @@
     ],
     "easyreporting": [
         "knitr",
-        "rmarkdown",
-        "shiny"
+        "rmarkdown"
     ],
     "easyRNASeq": [
         "AnnotationDbi",
@@ -6772,7 +6698,6 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "shiny",
         "siggenes",
         "tibble",
         "tidyr",
@@ -6966,7 +6891,6 @@
         "scatterpie",
         "seqPattern",
         "shadowtext",
-        "shiny",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -7103,7 +7027,6 @@
         "interactiveDisplayBase",
         "readr",
         "rtracklayer",
-        "shiny",
         "tibble",
         "tidyr",
         "vroom"
@@ -7152,7 +7075,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "shiny",
         "siggenes",
         "tibble",
         "tidyr",
@@ -7301,7 +7223,6 @@
         "ggplot2",
         "org.Hs.eg.db",
         "rtracklayer",
-        "shiny",
         "tibble"
     ],
     "ERSSA": [
@@ -7475,7 +7396,6 @@
         "rematch2",
         "reshape2",
         "rstatix",
-        "shiny",
         "testthat",
         "tibble",
         "tidyr",
@@ -7520,7 +7440,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "ExperimentHubData": [
@@ -7543,7 +7462,6 @@
         "interactiveDisplayBase",
         "knitr",
         "rtracklayer",
-        "shiny",
         "tibble"
     ],
     "ExperimentSubset": [
@@ -7566,7 +7484,6 @@
         "dplyr",
         "ggplot2",
         "rintrojs",
-        "shiny",
         "shinydashboard",
         "shinyjs",
         "tibble",
@@ -7679,7 +7596,6 @@
         "reshape2",
         "scatterpie",
         "shadowtext",
-        "shiny",
         "shinyBS",
         "shinydashboard",
         "tibble",
@@ -7712,7 +7628,6 @@
         "Rsamtools",
         "ShortRead",
         "SummarizedExperiment",
-        "shiny",
         "shinyBS"
     ],
     "fastreeR": [],
@@ -7807,7 +7722,6 @@
         "TSCAN",
         "TrajectoryUtils",
         "ggplot2",
-        "shiny",
         "tibble"
     ],
     "fedup": [
@@ -7973,7 +7887,6 @@
         "dplyr",
         "ggplot2",
         "plotly",
-        "shiny",
         "tibble",
         "tidyr"
     ],
@@ -8049,7 +7962,6 @@
         "pbkrtest",
         "rematch2",
         "rmarkdown",
-        "shiny",
         "testthat",
         "tibble",
         "tidyr",
@@ -8217,7 +8129,6 @@
         "ggplot2",
         "hdrcde",
         "rainbow",
-        "shiny",
         "tibble"
     ],
     "funtooNorm": [
@@ -8303,7 +8214,6 @@
         "dbplyr",
         "dplyr",
         "rtracklayer",
-        "shiny",
         "shinyjs",
         "shinythemes",
         "tibble",
@@ -8398,7 +8308,6 @@
         "rematch2",
         "rmarkdown",
         "roxygen2",
-        "shiny",
         "testthat",
         "tibble",
         "usethis",
@@ -8455,7 +8364,6 @@
         "rstatix",
         "scatterpie",
         "shadowtext",
-        "shiny",
         "survMisc",
         "survminer",
         "testthat",
@@ -8663,7 +8571,6 @@
         "plotly",
         "rintrojs",
         "rmarkdown",
-        "shiny",
         "shinyAce",
         "shinyWidgets",
         "shinycssloaders",
@@ -8853,7 +8760,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "GenomicSuperSignature": [
@@ -8994,7 +8900,6 @@
         "reshape2",
         "rmarkdown",
         "rstatix",
-        "shiny",
         "shinyBS",
         "shinyHeatmaply",
         "shinybusy",
@@ -9231,7 +9136,6 @@
         "knitr",
         "multcomp",
         "reshape2",
-        "shiny",
         "tibble",
         "viridis"
     ],
@@ -9345,7 +9249,6 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "reshape2",
-        "shiny",
         "tibble",
         "tidyr",
         "viridis"
@@ -9518,7 +9421,6 @@
     "GPA": [
         "ggplot2",
         "ggrepel",
-        "shiny",
         "shinyBS",
         "tibble"
     ],
@@ -9617,7 +9519,6 @@
     "GSCA": [
         "ggplot2",
         "reshape2",
-        "shiny",
         "tibble"
     ],
     "gscreend": [
@@ -9653,7 +9554,6 @@
         "org.Hs.eg.db",
         "pathview",
         "safe",
-        "shiny",
         "tibble"
     ],
     "GSEAmining": [
@@ -9819,7 +9719,6 @@
         "interactiveDisplayBase",
         "readr",
         "rtracklayer",
-        "shiny",
         "tibble",
         "vroom"
     ],
@@ -9888,7 +9787,6 @@
         "dplyr",
         "miniUI",
         "readr",
-        "shiny",
         "tibble",
         "tidyr",
         "vroom"
@@ -10018,7 +9916,6 @@
         "pbkrtest",
         "rematch2",
         "rstatix",
-        "shiny",
         "shinyjs",
         "testthat",
         "tibble",
@@ -10055,7 +9952,6 @@
         "interactiveDisplayBase",
         "knitr",
         "rtracklayer",
-        "shiny",
         "tibble",
         "tidyr",
         "viridis",
@@ -10095,7 +9991,6 @@
         "dplyr",
         "interactiveDisplayBase",
         "multcomp",
-        "shiny",
         "tibble",
         "tidyr"
     ],
@@ -10134,7 +10029,6 @@
     ],
     "HPAStainR": [
         "dplyr",
-        "shiny",
         "tibble",
         "tidyr"
     ],
@@ -10193,7 +10087,6 @@
     ],
     "HumanTranscriptomeCompendium": [
         "SummarizedExperiment",
-        "shiny",
         "ssrch"
     ],
     "hummingbird": [
@@ -10211,7 +10104,6 @@
         "rmarkdown",
         "rvest",
         "selectr",
-        "shiny",
         "tibble"
     ],
     "iasva": [
@@ -10311,7 +10203,6 @@
         "dplyr",
         "ggplot2",
         "reshape2",
-        "shiny",
         "shinyBS",
         "shinydashboard",
         "tibble"
@@ -10352,7 +10243,6 @@
         "rintrojs",
         "rmarkdown",
         "rtracklayer",
-        "shiny",
         "shinyAce",
         "shinyBS",
         "shinydashboard",
@@ -10471,7 +10361,6 @@
         "ggrepel",
         "readr",
         "scuttle",
-        "shiny",
         "shinydashboard",
         "tibble",
         "tidygraph",
@@ -10517,7 +10406,6 @@
         "rematch2",
         "rmarkdown",
         "roxygen2",
-        "shiny",
         "testthat",
         "tibble",
         "usethis",
@@ -10541,7 +10429,6 @@
         "reshape2",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "tibble",
         "tidyr"
@@ -10587,7 +10474,6 @@
         "geneplotter",
         "ggplot2",
         "rtracklayer",
-        "shiny",
         "tibble"
     ],
     "InTAD": [
@@ -10657,7 +10543,6 @@
         "rmarkdown",
         "rvest",
         "selectr",
-        "shiny",
         "tibble"
     ],
     "interactiveDisplay": [
@@ -10670,12 +10555,9 @@
         "ggplot2",
         "interactiveDisplayBase",
         "reshape2",
-        "shiny",
         "tibble"
     ],
-    "interactiveDisplayBase": [
-        "shiny"
-    ],
+    "interactiveDisplayBase": [],
     "InterCellar": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -10708,7 +10590,6 @@
         "reshape2",
         "roxygen2",
         "rstatix",
-        "shiny",
         "shinyFeedback",
         "shinyFiles",
         "shinyalert",
@@ -10795,7 +10676,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "IPO": [
@@ -10871,7 +10751,6 @@
         "sctransform",
         "scuttle",
         "shadowtext",
-        "shiny",
         "spatstat.explore",
         "testthat",
         "tibble",
@@ -10893,7 +10772,6 @@
         "readr",
         "readxl",
         "rio",
-        "shiny",
         "shinyWidgets",
         "shinybusy",
         "tibble",
@@ -10908,7 +10786,6 @@
         "ggrepel",
         "miniUI",
         "rintrojs",
-        "shiny",
         "shinyAce",
         "shinyWidgets",
         "shinydashboard",
@@ -10924,7 +10801,6 @@
         "iSEE",
         "miniUI",
         "rintrojs",
-        "shiny",
         "shinyAce",
         "shinyWidgets",
         "shinydashboard",
@@ -10948,7 +10824,6 @@
         "interactiveDisplayBase",
         "miniUI",
         "rintrojs",
-        "shiny",
         "shinyAce",
         "shinyWidgets",
         "shinydashboard",
@@ -10965,7 +10840,6 @@
         "iSEEhex",
         "miniUI",
         "rintrojs",
-        "shiny",
         "shinyAce",
         "shinyWidgets",
         "shinydashboard",
@@ -11028,7 +10902,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "shiny",
         "tibble",
         "tximeta",
         "vroom"
@@ -11104,7 +10977,6 @@
         "plotly",
         "rematch2",
         "rstatix",
-        "shiny",
         "survMisc",
         "survminer",
         "testthat",
@@ -11221,7 +11093,6 @@
         "reshape2",
         "rstatix",
         "rtracklayer",
-        "shiny",
         "shinycssloaders",
         "testthat",
         "tibble",
@@ -11266,7 +11137,6 @@
         "learnr",
         "readr",
         "rmarkdown",
-        "shiny",
         "shinyBS",
         "shinyFiles",
         "shinydashboard",
@@ -11299,7 +11169,6 @@
         "rematch2",
         "reshape2",
         "rmarkdown",
-        "shiny",
         "shinydashboard",
         "shinyjs",
         "testthat",
@@ -11488,7 +11357,6 @@
         "rtracklayer",
         "rvest",
         "selectr",
-        "shiny",
         "tibble",
         "tidyr",
         "vroom"
@@ -11508,7 +11376,6 @@
         "ggplot2",
         "ggrepel",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "lumi": [
@@ -11592,7 +11459,6 @@
         "recipes",
         "reshape2",
         "rtracklayer",
-        "shiny",
         "tibble",
         "tidyr"
     ],
@@ -11669,7 +11535,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "made4": [
@@ -11768,7 +11633,6 @@
         "reshape2",
         "scatterpie",
         "shadowtext",
-        "shiny",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -11834,7 +11698,6 @@
         "readr",
         "recipes",
         "reshape2",
-        "shiny",
         "styler",
         "tibble",
         "tidyr",
@@ -11923,7 +11786,6 @@
         "plotly",
         "proDA",
         "rmarkdown",
-        "shiny",
         "shinydashboard",
         "shinyhelper",
         "shinyjs",
@@ -12279,7 +12141,6 @@
         "reshape2",
         "scatterpie",
         "shadowtext",
-        "shiny",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -12608,7 +12469,6 @@
     "MetCirc": [
         "Spectra",
         "ggplot2",
-        "shiny",
         "tibble"
     ],
     "MethCP": [
@@ -12671,7 +12531,6 @@
         "rstatix",
         "sesame",
         "sesameData",
-        "shiny",
         "testthat",
         "tibble",
         "tidyr",
@@ -12707,7 +12566,6 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "shiny",
         "siggenes",
         "tibble",
         "tidyr",
@@ -12803,7 +12661,6 @@
         "rtracklayer",
         "rvest",
         "selectr",
-        "shiny",
         "siggenes",
         "testthat",
         "tibble",
@@ -12865,7 +12722,6 @@
         "ruv",
         "scatterpie",
         "shadowtext",
-        "shiny",
         "siggenes",
         "tibble",
         "tidygraph",
@@ -12929,7 +12785,6 @@
     ],
     "methylscaper": [
         "SummarizedExperiment",
-        "shiny",
         "shinyFiles",
         "shinyjs",
         "tibble"
@@ -12993,7 +12848,6 @@
         "rematch2",
         "rmarkdown",
         "roxygen2",
-        "shiny",
         "testthat",
         "tibble",
         "usethis",
@@ -13135,7 +12989,6 @@
         "rematch2",
         "reshape2",
         "rmarkdown",
-        "shiny",
         "shinyWidgets",
         "shinycssloaders",
         "shinydashboard",
@@ -13196,7 +13049,6 @@
         "reshape2",
         "scater",
         "scuttle",
-        "shiny",
         "testthat",
         "tibble",
         "tidyr",
@@ -13236,7 +13088,6 @@
         "roxygen2",
         "scatterpie",
         "shadowtext",
-        "shiny",
         "shinyWidgets",
         "shinycustomloader",
         "tibble",
@@ -13582,7 +13433,6 @@
         "scatterpie",
         "selectr",
         "shadowtext",
-        "shiny",
         "subspace",
         "testthat",
         "tibble",
@@ -13748,7 +13598,6 @@
         "knitr",
         "reshape2",
         "rmarkdown",
-        "shiny",
         "tibble",
         "tidyr"
     ],
@@ -13787,7 +13636,6 @@
         "dplyr",
         "genefilter",
         "ggvis",
-        "shiny",
         "tibble"
     ],
     "MLP": [
@@ -13822,7 +13670,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "rtracklayer",
-        "shiny",
         "tibble"
     ],
     "MMUPHin": [
@@ -14269,7 +14116,6 @@
         "qvalue",
         "reshape2",
         "rmarkdown",
-        "shiny",
         "tibble",
         "vsn"
     ],
@@ -14402,7 +14248,6 @@
         "miniUI",
         "plotly",
         "qcmetrics",
-        "shiny",
         "shinyjs",
         "tibble",
         "tidyr",
@@ -14419,7 +14264,6 @@
         "miniUI",
         "plotly",
         "qcmetrics",
-        "shiny",
         "shinyjs",
         "tibble",
         "tidyr",
@@ -14458,7 +14302,6 @@
         "lmerTest",
         "nloptr",
         "rematch2",
-        "shiny",
         "shinyBS",
         "shinybusy",
         "shinyjs",
@@ -14652,7 +14495,6 @@
         "roxygen2",
         "scatterpie",
         "shadowtext",
-        "shiny",
         "shinydashboard",
         "sn",
         "testthat",
@@ -14777,7 +14619,6 @@
         "rtracklayer",
         "rvest",
         "selectr",
-        "shiny",
         "shinyBS",
         "shinyalert",
         "shinybusy",
@@ -14916,7 +14757,6 @@
         "regioneR",
         "reshape2",
         "rtracklayer",
-        "shiny",
         "sn",
         "tibble",
         "trackViewer",
@@ -15083,7 +14923,6 @@
         "reshape2",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "tibble",
         "tidyr"
@@ -15456,7 +15295,6 @@
         "interactiveDisplayBase",
         "plotly",
         "rtracklayer",
-        "shiny",
         "tibble",
         "tidyr"
     ],
@@ -15489,7 +15327,6 @@
         "plotly",
         "reshape2",
         "rtracklayer",
-        "shiny",
         "tibble",
         "tidyr"
     ],
@@ -15569,7 +15406,6 @@
         "interactiveDisplayBase",
         "knitr",
         "rtracklayer",
-        "shiny",
         "shinyBS",
         "shinyFiles",
         "shinydashboard",
@@ -15598,7 +15434,6 @@
         "questionr",
         "readr",
         "reshape2",
-        "shiny",
         "styler",
         "tibble",
         "tidyr",
@@ -15621,7 +15456,6 @@
         "SummarizedExperiment",
         "knitr",
         "rmarkdown",
-        "shiny",
         "zCompositions"
     ],
     "omicRexposome": [
@@ -15743,7 +15577,6 @@
         "rematch2",
         "reshape2",
         "rstatix",
-        "shiny",
         "shinyWidgets",
         "shinybusy",
         "shinycssloaders",
@@ -15817,7 +15650,6 @@
         "dplyr",
         "ggplot2",
         "plotly",
-        "shiny",
         "shinyFiles",
         "tibble",
         "tidyr"
@@ -15832,7 +15664,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "openCyto": [
@@ -15862,7 +15693,6 @@
         "openPrimeR",
         "reshape2",
         "rmarkdown",
-        "shiny",
         "shinyBS",
         "shinyjs",
         "tibble",
@@ -15921,7 +15751,6 @@
         "rematch2",
         "rmarkdown",
         "roxygen2",
-        "shiny",
         "testthat",
         "tibble",
         "usethis",
@@ -16264,7 +16093,6 @@
         "reshape2",
         "rmarkdown",
         "roxygen2",
-        "shiny",
         "shinyjs",
         "testthat",
         "tibble",
@@ -16317,7 +16145,6 @@
         "plotly",
         "reshape2",
         "rmarkdown",
-        "shiny",
         "shinyAce",
         "shinyBS",
         "shinydashboard",
@@ -16372,7 +16199,6 @@
         "rematch2",
         "reshape2",
         "rstatix",
-        "shiny",
         "shinydashboard",
         "shinyjs",
         "survMisc",
@@ -16399,7 +16225,6 @@
     "peakPantheR": [
         "MSnbase",
         "ggplot2",
-        "shiny",
         "shinycssloaders",
         "tibble",
         "vsn"
@@ -16517,7 +16342,6 @@
         "ggplot2",
         "piano",
         "reshape2",
-        "shiny",
         "shinydashboard",
         "shinyjs",
         "tibble",
@@ -16660,7 +16484,6 @@
         "knitr",
         "miniUI",
         "rmarkdown",
-        "shiny",
         "shinyBS",
         "shinyFiles",
         "shinyjs",
@@ -16697,7 +16520,6 @@
         "cowplot",
         "fgsea",
         "ggplot2",
-        "shiny",
         "shinydashboard",
         "shinyjs",
         "tibble"
@@ -16808,7 +16630,6 @@
         "scran",
         "sctransform",
         "scuttle",
-        "shiny",
         "spatstat.explore",
         "tibble",
         "tidyr",
@@ -16878,7 +16699,6 @@
         "readxl",
         "rematch2",
         "rstatix",
-        "shiny",
         "shinyjs",
         "shinythemes",
         "testthat",
@@ -16913,7 +16733,6 @@
     "PoDCall": [
         "ggplot2",
         "readr",
-        "shiny",
         "shinyjs",
         "tibble",
         "vroom"
@@ -16936,7 +16755,6 @@
         "ggplot2",
         "interactiveDisplayBase",
         "ontoProc",
-        "shiny",
         "tibble"
     ],
     "polyester": [],
@@ -17050,7 +16868,6 @@
         "recipes",
         "reshape2",
         "rtracklayer",
-        "shiny",
         "tibble",
         "tidyr"
     ],
@@ -17092,7 +16909,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "shiny",
         "tibble",
         "tidyr",
         "viridis",
@@ -17238,7 +17054,6 @@
         "rtracklayer",
         "scatterpie",
         "shadowtext",
-        "shiny",
         "soGGi",
         "tibble",
         "tidygraph",
@@ -17294,7 +17109,6 @@
         "prodlim",
         "recipes",
         "reshape2",
-        "shiny",
         "tibble",
         "tidyr",
         "viridis",
@@ -17328,7 +17142,6 @@
         "prodlim",
         "recipes",
         "reshape2",
-        "shiny",
         "shinyWidgets",
         "shinydashboard",
         "shinydashboardPlus",
@@ -17363,7 +17176,6 @@
         "ggplot2",
         "highcharter",
         "quantmod",
-        "shiny",
         "shinyAce",
         "shinyBS",
         "shinycssloaders",
@@ -17458,7 +17270,6 @@
         "rstatix",
         "rvest",
         "selectr",
-        "shiny",
         "shinydashboard",
         "styler",
         "testthat",
@@ -17504,7 +17315,6 @@
         "recount",
         "reshape2",
         "rtracklayer",
-        "shiny",
         "shinyBS",
         "shinyjs",
         "tibble",
@@ -17558,7 +17368,6 @@
         "plotly",
         "rematch2",
         "rstatix",
-        "shiny",
         "shinyscreenshot",
         "testthat",
         "tibble",
@@ -17635,7 +17444,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "sqldf",
         "tibble"
     ],
@@ -17652,7 +17460,6 @@
         "ggplot2",
         "interactiveDisplayBase",
         "pwrEWAS.data",
-        "shiny",
         "shinyBS",
         "shinyWidgets",
         "tibble"
@@ -17930,7 +17737,6 @@
         "ggplot2",
         "piano",
         "reshape2",
-        "shiny",
         "shinydashboard",
         "shinyjs",
         "tibble",
@@ -17993,7 +17799,6 @@
         "interactiveDisplayBase",
         "phastCons100way.UCSC.hg19",
         "rtracklayer",
-        "shiny",
         "tibble"
     ],
     "Rbec": [
@@ -18050,7 +17855,6 @@
     ],
     "rcellminer": [
         "ggplot2",
-        "shiny",
         "tibble"
     ],
     "rCGH": [
@@ -18070,7 +17874,6 @@
         "ggplot2",
         "org.Hs.eg.db",
         "rtracklayer",
-        "shiny",
         "tibble"
     ],
     "RcisTarget": [
@@ -18085,7 +17888,6 @@
         "ggplot2",
         "mixtools",
         "plotly",
-        "shiny",
         "tibble",
         "tidyr"
     ],
@@ -18113,7 +17915,6 @@
         "dplyr",
         "ggplot2",
         "readr",
-        "shiny",
         "tibble",
         "tidyr",
         "viridis",
@@ -18128,7 +17929,6 @@
         "dplyr",
         "ggplot2",
         "readr",
-        "shiny",
         "tibble",
         "tidyr",
         "viridis",
@@ -18146,7 +17946,6 @@
     "ReactomeGraph4R": [
         "dplyr",
         "neo4r",
-        "shiny",
         "tibble",
         "tidyr"
     ],
@@ -18428,7 +18227,6 @@
         "interactiveDisplayBase",
         "knitr",
         "rtracklayer",
-        "shiny",
         "tibble",
         "viridis"
     ],
@@ -18461,7 +18259,6 @@
         "recipes",
         "reshape2",
         "rtracklayer",
-        "shiny",
         "siggenes",
         "tibble",
         "tidyr",
@@ -18561,7 +18358,6 @@
         "dplyr",
         "interactiveDisplayBase",
         "reshape2",
-        "shiny",
         "tibble"
     ],
     "rexposome": [
@@ -18618,7 +18414,6 @@
         "imager",
         "interactiveDisplayBase",
         "rGenomeTracksData",
-        "shiny",
         "tibble"
     ],
     "RGMQL": [
@@ -18667,7 +18462,6 @@
         "dplyr",
         "org.Hs.eg.db",
         "rtracklayer",
-        "shiny",
         "tibble"
     ],
     "rgsepd": [
@@ -18966,7 +18760,6 @@
         "regioneR",
         "reshape2",
         "rtracklayer",
-        "shiny",
         "tibble",
         "tidyr",
         "valr",
@@ -19013,7 +18806,6 @@
         "rmarkdown",
         "roxygen2",
         "rtracklayer",
-        "shiny",
         "testthat",
         "tibble",
         "usethis",
@@ -19411,7 +19203,6 @@
         "ggplot2",
         "patchwork",
         "reshape2",
-        "shiny",
         "shinyFeedback",
         "shinycssloaders",
         "tibble"
@@ -19449,7 +19240,6 @@
         "reshape2",
         "rmarkdown",
         "rtracklayer",
-        "shiny",
         "tibble",
         "viridis"
     ],
@@ -19494,7 +19284,6 @@
         "KEGGREST",
         "ggplot2",
         "ggrepel",
-        "shiny",
         "tibble",
         "treemap"
     ],
@@ -19660,8 +19449,7 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "rTRM",
-        "rtracklayer",
-        "shiny"
+        "rtracklayer"
     ],
     "runibic": [
         "SummarizedExperiment",
@@ -19741,7 +19529,6 @@
         "reshape2",
         "rmarkdown",
         "sangerseqR",
-        "shiny",
         "shinyWidgets",
         "shinycssloaders",
         "shinydashboard",
@@ -19749,9 +19536,7 @@
         "tibble",
         "tidyr"
     ],
-    "sangerseqR": [
-        "shiny"
-    ],
+    "sangerseqR": [],
     "sarks": [],
     "satuRn": [
         "SummarizedExperiment",
@@ -19778,7 +19563,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "ggplot2",
-        "shiny",
         "tibble"
     ],
     "Scale4C": [
@@ -19800,7 +19584,6 @@
         "reshape2",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "tensorflow",
         "tfruns",
@@ -19852,7 +19635,6 @@
         "rtracklayer",
         "scanMiR",
         "scanMiRData",
-        "shiny",
         "shinycssloaders",
         "shinydashboard",
         "shinyjqui",
@@ -19887,7 +19669,6 @@
         "reshape2",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "tibble",
         "tidyr"
@@ -19915,7 +19696,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "scater": [
@@ -19956,7 +19736,6 @@
         "reshape2",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "tibble",
         "tidyr",
@@ -19980,7 +19759,6 @@
         "reshape2",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "tibble",
         "tidyr",
@@ -20005,7 +19783,6 @@
         "scattermore",
         "sctransform",
         "scuttle",
-        "shiny",
         "spatstat.explore",
         "tibble",
         "tidyr"
@@ -20063,7 +19840,6 @@
         "reshape2",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "tibble",
         "tidyr"
@@ -20166,7 +19942,6 @@
         "reshape2",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "tibble",
         "tidyr"
@@ -20188,7 +19963,6 @@
         "rvest",
         "sangerseqR",
         "selectr",
-        "shiny",
         "tibble"
     ],
     "scMAGeCK": [
@@ -20205,7 +19979,6 @@
         "reshape2",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "tibble",
         "tidyr"
@@ -20271,7 +20044,6 @@
         "reshape2",
         "rmarkdown",
         "rtracklayer",
-        "shiny",
         "tibble",
         "vroom"
     ],
@@ -20526,7 +20298,6 @@
         "schex",
         "sctransform",
         "shadowtext",
-        "shiny",
         "spatstat.explore",
         "tibble",
         "tidygraph",
@@ -20566,7 +20337,6 @@
         "scattermore",
         "schex",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "tibble",
         "tidyr",
@@ -20613,7 +20383,6 @@
         "scran",
         "sctransform",
         "scuttle",
-        "shiny",
         "spatstat.explore",
         "tibble",
         "tidygraph",
@@ -20807,7 +20576,6 @@
         "rbokeh",
         "reshape2",
         "rmarkdown",
-        "shiny",
         "tibble",
         "tidyr"
     ],
@@ -20835,7 +20603,6 @@
         "readr",
         "reshape2",
         "sesameData",
-        "shiny",
         "tibble",
         "vroom"
     ],
@@ -20904,7 +20671,6 @@
         "reshape2",
         "rmarkdown",
         "rtracklayer",
-        "shiny",
         "shinyWidgets",
         "shinycssloaders",
         "shinyjs",
@@ -20934,7 +20700,6 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "shiny",
         "siggenes",
         "tibble",
         "tidyr",
@@ -20971,7 +20736,6 @@
         "dplyr",
         "genefilter",
         "ggvis",
-        "shiny",
         "tibble"
     ],
     "sigFeature": [
@@ -21026,7 +20790,6 @@
         "reshape2",
         "scatterpie",
         "shadowtext",
-        "shiny",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -21071,7 +20834,6 @@
         "rmarkdown",
         "rstatix",
         "rtracklayer",
-        "shiny",
         "shinyWidgets",
         "shinycssloaders",
         "shinydashboard",
@@ -21207,7 +20969,6 @@
         "ggbeeswarm",
         "ggplot2",
         "scuttle",
-        "shiny",
         "shinydashboard",
         "tibble",
         "viridis"
@@ -21331,7 +21092,6 @@
         "scran",
         "sctransform",
         "scuttle",
-        "shiny",
         "shinyalert",
         "shinycssloaders",
         "shinyjs",
@@ -21563,7 +21323,6 @@
         "plotly",
         "reshape2",
         "sampSurf",
-        "shiny",
         "shinyjs",
         "tibble",
         "tidyr"
@@ -21626,7 +21385,6 @@
         "scran",
         "sctransform",
         "scuttle",
-        "shiny",
         "spatstat.explore",
         "tibble",
         "tidyr",
@@ -21681,7 +21439,6 @@
         "ggplot2",
         "ggrepel",
         "readr",
-        "shiny",
         "shinyWidgets",
         "shinycssloaders",
         "shinyjs",
@@ -21777,7 +21534,6 @@
         "scater",
         "scran",
         "scuttle",
-        "shiny",
         "shinydashboard",
         "tibble",
         "tidyr",
@@ -21856,7 +21612,6 @@
         "plotly",
         "reshape2",
         "scuttle",
-        "shiny",
         "shinyjs",
         "spatstat.explore",
         "tibble",
@@ -21939,7 +21694,6 @@
         "plotly",
         "reshape2",
         "rtracklayer",
-        "shiny",
         "shinyFiles",
         "shinyWidgets",
         "shinydashboard",
@@ -22069,7 +21823,6 @@
         "scattermore",
         "sctransform",
         "scuttle",
-        "shiny",
         "spatstat.explore",
         "tibble",
         "tidyr",
@@ -22159,7 +21912,6 @@
         "rmarkdown",
         "roxygen2",
         "rtracklayer",
-        "shiny",
         "testthat",
         "tibble",
         "usethis",
@@ -22209,9 +21961,7 @@
         "tidyr",
         "vroom"
     ],
-    "ssrch": [
-        "shiny"
-    ],
+    "ssrch": [],
     "ssviz": [
         "Rsamtools",
         "ggplot2",
@@ -22367,7 +22117,6 @@
         "scattermore",
         "sctransform",
         "scuttle",
-        "shiny",
         "spatstat.explore",
         "spdep",
         "tibble",
@@ -22709,7 +22458,6 @@
         "knitr",
         "plotly",
         "rmarkdown",
-        "shiny",
         "shinyAce",
         "shinyFiles",
         "shinyWidgets",
@@ -22805,9 +22553,7 @@
         "tibble",
         "tidyr"
     ],
-    "target": [
-        "shiny"
-    ],
+    "target": [],
     "TargetDecoy": [
         "broom",
         "car",
@@ -22825,7 +22571,6 @@
         "pbkrtest",
         "rematch2",
         "rstatix",
-        "shiny",
         "testthat",
         "tibble",
         "tidyr",
@@ -22974,7 +22719,6 @@
         "sesame",
         "sesameData",
         "shadowtext",
-        "shiny",
         "shinyBS",
         "shinyFiles",
         "shinydashboard",
@@ -23060,7 +22804,6 @@
         "org.Mm.eg.db",
         "reshape2",
         "restfulSE",
-        "shiny",
         "tibble"
     ],
     "TEQC": [
@@ -23088,7 +22831,6 @@
         "rtracklayer",
         "rvest",
         "selectr",
-        "shiny",
         "tibble",
         "tidyr",
         "vroom"
@@ -23168,7 +22910,6 @@
         "miniUI",
         "org.Hs.eg.db",
         "readxl",
-        "shiny",
         "tibble"
     ],
     "tidybulk": [
@@ -23267,7 +23008,6 @@
         "reshape2",
         "scatterpie",
         "shadowtext",
-        "shiny",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -23408,7 +23148,6 @@
         "ggplot2",
         "plotly",
         "readr",
-        "shiny",
         "tibble",
         "tidyr",
         "vroom"
@@ -23439,7 +23178,6 @@
         "ggplot2",
         "piano",
         "reshape2",
-        "shiny",
         "shinydashboard",
         "shinyjs",
         "tibble",
@@ -23694,7 +23432,6 @@
     ],
     "Trendy": [
         "SummarizedExperiment",
-        "shiny",
         "shinyFiles",
         "tibble"
     ],
@@ -23753,7 +23490,6 @@
         "plotly",
         "pryr",
         "roxygen2",
-        "shiny",
         "shinyBS",
         "shinyFiles",
         "shinyjs",
@@ -23791,7 +23527,6 @@
         "SummarizedExperiment",
         "TrajectoryUtils",
         "ggplot2",
-        "shiny",
         "tibble"
     ],
     "tscR": [
@@ -23835,7 +23570,6 @@
     ],
     "twoddpcr": [
         "ggplot2",
-        "shiny",
         "tibble"
     ],
     "txcutr": [
@@ -23868,7 +23602,6 @@
         "ensembldb",
         "interactiveDisplayBase",
         "rtracklayer",
-        "shiny",
         "tibble"
     ],
     "UCell": [
@@ -23898,7 +23631,6 @@
         "plotgardener",
         "plyranges",
         "rtracklayer",
-        "shiny",
         "shinyFiles",
         "shinydashboard",
         "shinyjs",
@@ -23968,7 +23700,6 @@
         "org.Hs.eg.db",
         "rmarkdown",
         "rtracklayer",
-        "shiny",
         "shinyBS",
         "shinyWidgets",
         "shinycssloaders",
@@ -24060,7 +23791,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "rtracklayer",
-        "shiny",
         "shinyFiles",
         "shinycssloaders",
         "tibble"
@@ -24134,7 +23864,6 @@
         "interactiveDisplayBase",
         "knitr",
         "rtracklayer",
-        "shiny",
         "shinyTree",
         "shinyjs",
         "shinythemes",
@@ -24288,7 +24017,6 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "reshape2",
-        "shiny",
         "syuzhet",
         "textclean",
         "textstem",
@@ -24330,7 +24058,6 @@
         "ggplot2",
         "qvalue",
         "reshape2",
-        "shiny",
         "tibble",
         "tidyr"
     ],
@@ -24356,7 +24083,6 @@
         "interactiveDisplayBase",
         "readr",
         "rtracklayer",
-        "shiny",
         "tibble",
         "vroom"
     ],
@@ -24502,7 +24228,6 @@
         "golem",
         "knitr",
         "roxygen2",
-        "shiny",
         "shinyWidgets",
         "shinycustomloader",
         "shinydashboard",
@@ -24558,7 +24283,6 @@
         "ggplot2",
         "piano",
         "reshape2",
-        "shiny",
         "shinydashboard",
         "shinyjs",
         "tibble",
@@ -24706,8 +24430,7 @@
     "reshape2": [],
     "flexdashboard": [
         "knitr",
-        "rmarkdown",
-        "shiny"
+        "rmarkdown"
     ],
     "rmarkdown": [
         "knitr"
@@ -24732,7 +24455,6 @@
         "knitr",
         "rmarkdown"
     ],
-    "shiny": [],
     "tibble": [],
     "tidyr": [
         "dplyr",
@@ -24769,9 +24491,7 @@
         "ggplot2",
         "tibble"
     ],
-    "shinyjs": [
-        "shiny"
-    ],
+    "shinyjs": [],
     "testthat": [
         "rematch2",
         "tibble",
@@ -24862,7 +24582,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "rvest": [
@@ -24915,9 +24634,7 @@
         "tibble"
     ],
     "zCompositions": [],
-    "shinydashboard": [
-        "shiny"
-    ],
+    "shinydashboard": [],
     "readxl": [
         "cellranger",
         "tibble"
@@ -24943,7 +24660,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble",
         "tidyr"
     ],
@@ -24994,7 +24710,6 @@
     ],
     "plotROC": [
         "ggplot2",
-        "shiny",
         "tibble"
     ],
     "GUniFrac": [
@@ -25017,15 +24732,11 @@
         "prodlim"
     ],
     "prodlim": [],
-    "miniUI": [
-        "shiny"
-    ],
+    "miniUI": [],
     "bigrquery": [
         "tibble"
     ],
-    "shinytoastr": [
-        "shiny"
-    ],
+    "shinytoastr": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi",
         "KEGGREST"
@@ -25043,7 +24754,6 @@
         "reshape2",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "tibble",
         "tidyr"
@@ -25144,7 +24854,6 @@
         "dplyr",
         "interactiveDisplayBase",
         "rtracklayer",
-        "shiny",
         "tibble"
     ],
     "MafDb.ExAC.r1.0.hs37d5": [
@@ -25161,7 +24870,6 @@
         "dplyr",
         "interactiveDisplayBase",
         "rtracklayer",
-        "shiny",
         "tibble"
     ],
     "MafDb.gnomADex.r2.1.hs37d5": [
@@ -25178,7 +24886,6 @@
         "dplyr",
         "interactiveDisplayBase",
         "rtracklayer",
-        "shiny",
         "tibble"
     ],
     "COSMIC.67": [
@@ -25424,7 +25131,6 @@
     ],
     "ggvis": [
         "dplyr",
-        "shiny",
         "tibble"
     ],
     "rstan": [
@@ -25446,14 +25152,12 @@
         "colourpicker",
         "ggplot2",
         "miniUI",
-        "shiny",
         "shinyjs",
         "tibble"
     ],
     "colourpicker": [
         "ggplot2",
         "miniUI",
-        "shiny",
         "shinyjs",
         "tibble"
     ],
@@ -25511,9 +25215,7 @@
         "tidyr",
         "vroom"
     ],
-    "shinycssloaders": [
-        "shiny"
-    ],
+    "shinycssloaders": [],
     "ggforce": [
         "ggplot2",
         "tibble"
@@ -25534,7 +25236,6 @@
         "readxl",
         "rematch2",
         "rmarkdown",
-        "shiny",
         "shinyAce",
         "shinyFiles",
         "testthat",
@@ -25543,9 +25244,7 @@
         "vroom",
         "waldo"
     ],
-    "shinythemes": [
-        "shiny"
-    ],
+    "shinythemes": [],
     "org.Bt.eg.db": [
         "AnnotationDbi",
         "KEGGREST"
@@ -25568,11 +25267,8 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "shinyAce": [
-        "shiny"
-    ],
+    "shinyAce": [],
     "shinyFiles": [
-        "shiny",
         "tibble"
     ],
     "ggraph": [
@@ -25650,7 +25346,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "synaptome.data",
         "tibble"
     ],
@@ -25673,7 +25368,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "ggnetwork": [
@@ -25694,9 +25388,7 @@
         "network",
         "tibble"
     ],
-    "shinyBS": [
-        "shiny"
-    ],
+    "shinyBS": [],
     "superheat": [
         "dplyr",
         "ggdendro",
@@ -25718,7 +25410,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "pasilla": [
@@ -25775,7 +25466,6 @@
         "qvalue",
         "reshape2",
         "rtracklayer",
-        "shiny",
         "tibble",
         "viridis"
     ],
@@ -25794,7 +25484,6 @@
         "rematch2",
         "rmarkdown",
         "roxygen2",
-        "shiny",
         "testthat",
         "tibble",
         "usethis",
@@ -25844,9 +25533,7 @@
     "rapportools": [
         "reshape2"
     ],
-    "rintrojs": [
-        "shiny"
-    ],
+    "rintrojs": [],
     "enrichR": [
         "ggplot2",
         "tibble"
@@ -26112,15 +25799,10 @@
         "rtracklayer",
         "tibble"
     ],
-    "shinyhelper": [
-        "shiny"
-    ],
-    "shinyWidgets": [
-        "shiny"
-    ],
+    "shinyhelper": [],
+    "shinyWidgets": [],
     "shinydashboardPlus": [
         "fresh",
-        "shiny",
         "shinydashboard",
         "waiter"
     ],
@@ -26140,12 +25822,8 @@
         "ggplot2",
         "tibble"
     ],
-    "fresh": [
-        "shiny"
-    ],
-    "waiter": [
-        "shiny"
-    ],
+    "fresh": [],
+    "waiter": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
@@ -26330,7 +26008,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "keras": [
@@ -26342,7 +26019,6 @@
     ],
     "tfruns": [],
     "shinypanel": [
-        "shiny",
         "shinyBS",
         "shinyjs"
     ],
@@ -26382,12 +26058,8 @@
         "tibble",
         "viridis"
     ],
-    "shinyFeedback": [
-        "shiny"
-    ],
-    "shinyMatrix": [
-        "shiny"
-    ],
+    "shinyFeedback": [],
+    "shinyMatrix": [],
     "mbest": [
         "lme4",
         "nloptr",
@@ -26541,7 +26213,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "coin": [
@@ -26558,7 +26229,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "batchtools": [],
@@ -26580,7 +26250,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "homologene": [
@@ -26720,12 +26389,9 @@
     ],
     "bs4Dash": [
         "fresh",
-        "shiny",
         "waiter"
     ],
-    "tippy": [
-        "shiny"
-    ],
+    "tippy": [],
     "flextable": [
         "knitr",
         "rmarkdown"
@@ -26742,14 +26408,11 @@
         "readxl",
         "reshape2",
         "rmarkdown",
-        "shiny",
         "tibble",
         "tidyr",
         "viridis"
     ],
-    "shinybusy": [
-        "shiny"
-    ],
+    "shinybusy": [],
     "ggalt": [
         "dplyr",
         "ggplot2",
@@ -26769,7 +26432,6 @@
         "knitr",
         "multcomp",
         "reshape2",
-        "shiny",
         "tibble",
         "viridis"
     ],
@@ -26800,7 +26462,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "available": [
@@ -26835,18 +26496,15 @@
     "golem": [
         "knitr",
         "roxygen2",
-        "shiny",
         "usethis"
     ],
     "shinyalert": [
-        "knitr",
-        "shiny"
+        "knitr"
     ],
     "AdaptGauss": [
         "DataVisualizations",
         "ggplot2",
         "reshape2",
-        "shiny",
         "tibble"
     ],
     "datamods": [
@@ -26856,7 +26514,6 @@
         "readr",
         "readxl",
         "rio",
-        "shiny",
         "shinyWidgets",
         "shinybusy",
         "tibble",
@@ -26875,21 +26532,17 @@
     "sortable": [
         "knitr",
         "learnr",
-        "rmarkdown",
-        "shiny"
+        "rmarkdown"
     ],
     "configr": [],
     "bsplus": [
         "knitr",
         "rmarkdown"
     ],
-    "shinyvalidate": [
-        "shiny"
-    ],
+    "shinyvalidate": [],
     "learnr": [
         "knitr",
-        "rmarkdown",
-        "shiny"
+        "rmarkdown"
     ],
     "reldist": [
         "densEstBayes",
@@ -26942,7 +26595,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "plsgenomics": [
@@ -26961,7 +26613,6 @@
         "miniUI",
         "questionr",
         "readr",
-        "shiny",
         "styler",
         "tibble",
         "tidyr",
@@ -26975,7 +26626,6 @@
         "miniUI",
         "questionr",
         "readr",
-        "shiny",
         "styler",
         "tibble",
         "tidyr",
@@ -26988,7 +26638,6 @@
         "labelled",
         "miniUI",
         "readr",
-        "shiny",
         "styler",
         "tibble",
         "tidyr",
@@ -27050,7 +26699,6 @@
         "dplyr",
         "interactiveDisplayBase",
         "readr",
-        "shiny",
         "tibble",
         "vroom"
     ],
@@ -27098,7 +26746,6 @@
         "interactiveDisplayBase",
         "knitr",
         "rtracklayer",
-        "shiny",
         "tibble"
     ],
     "ggmcmc": [
@@ -27109,9 +26756,7 @@
         "tibble",
         "tidyr"
     ],
-    "shinycustomloader": [
-        "shiny"
-    ],
+    "shinycustomloader": [],
     "ggstar": [
         "ggplot2",
         "tibble"
@@ -27168,14 +26813,12 @@
     "subspace": [
         "dplyr",
         "ggvis",
-        "shiny",
         "tibble"
     ],
     "SOMbrero": [
         "ggplot2",
         "ggwordcloud",
         "metR",
-        "shiny",
         "tibble"
     ],
     "MatrixCorrelation": [],
@@ -27218,7 +26861,6 @@
         "broom",
         "dplyr",
         "ggplot2",
-        "shiny",
         "tibble",
         "tidyr"
     ],
@@ -27243,7 +26885,6 @@
         "rematch2",
         "rmarkdown",
         "roxygen2",
-        "shiny",
         "testthat",
         "tibble",
         "usethis",
@@ -27267,9 +26908,7 @@
         "reshape2",
         "rtracklayer"
     ],
-    "shinyjqui": [
-        "shiny"
-    ],
+    "shinyjqui": [],
     "VarfromPDB": [],
     "mppa": [],
     "ICSNP": [
@@ -27325,7 +26964,6 @@
         "dplyr",
         "interactiveDisplayBase",
         "rtracklayer",
-        "shiny",
         "tibble"
     ],
     "octad.db": [
@@ -27337,7 +26975,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "diceR": [
@@ -27353,7 +26990,6 @@
         "questionr",
         "readr",
         "reshape2",
-        "shiny",
         "styler",
         "tibble",
         "tidyr",
@@ -27474,7 +27110,6 @@
         "dplyr",
         "interactiveDisplayBase",
         "rtracklayer",
-        "shiny",
         "tibble"
     ],
     "forecast": [
@@ -27515,12 +27150,8 @@
         "rtracklayer",
         "tibble"
     ],
-    "pairsD3": [
-        "shiny"
-    ],
-    "shinyscreenshot": [
-        "shiny"
-    ],
+    "pairsD3": [],
+    "shinyscreenshot": [],
     "pwrEWAS.data": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -27530,7 +27161,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "phastCons100way.UCSC.hg19": [
@@ -27547,13 +27177,11 @@
         "dplyr",
         "interactiveDisplayBase",
         "rtracklayer",
-        "shiny",
         "tibble"
     ],
     "arrow": [],
     "neo4r": [
         "dplyr",
-        "shiny",
         "tibble",
         "tidyr"
     ],
@@ -27584,7 +27212,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "valr": [
@@ -27625,7 +27252,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "readJDX": [],
@@ -27638,7 +27264,6 @@
     ],
     "treemap": [
         "ggplot2",
-        "shiny",
         "tibble"
     ],
     "GENLIB": [
@@ -27669,7 +27294,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "Rmagic": [],
@@ -27773,7 +27397,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "GSVAdata": [
@@ -27798,7 +27421,6 @@
         "reshape2",
         "scattermore",
         "sctransform",
-        "shiny",
         "spatstat.explore",
         "tibble",
         "tidyr"
@@ -27821,7 +27443,6 @@
         "ensembldb",
         "interactiveDisplayBase",
         "rtracklayer",
-        "shiny",
         "tibble"
     ],
     "TENxPBMCData": [
@@ -27835,7 +27456,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "shiny",
         "tibble"
     ],
     "hgu95a.db": [
@@ -27853,7 +27473,6 @@
         "colourpicker",
         "ggplot2",
         "miniUI",
-        "shiny",
         "shinyjs",
         "tibble"
     ],
@@ -27934,15 +27553,13 @@
     "lwgeom": [],
     "spsUtil": [],
     "spsComps": [
-        "shiny",
         "shinyAce",
         "shinytoastr"
     ],
     "drawer": [
         "bsplus",
         "knitr",
-        "rmarkdown",
-        "shiny"
+        "rmarkdown"
     ],
     "GenKern": [],
     "ttservice": [
@@ -27952,7 +27569,6 @@
     "FreqProf": [
         "ggplot2",
         "reshape2",
-        "shiny",
         "tibble"
     ],
     "gghighlight": [
@@ -28036,9 +27652,7 @@
         "rmarkdown",
         "tibble"
     ],
-    "shinyTree": [
-        "shiny"
-    ],
+    "shinyTree": [],
     "msigdb": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -28052,7 +27666,6 @@
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "shiny",
         "tibble"
     ],
     "eva": [
