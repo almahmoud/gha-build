@@ -28534,7 +28534,6 @@
         "tidyr",
         "tidyselect",
         "tinytex",
-        "units",
         "vctrs",
         "zoo"
     ],
@@ -31437,7 +31436,6 @@
         "tidyselect",
         "tweenr",
         "tzdb",
-        "units",
         "vctrs",
         "viridis",
         "vroom"
@@ -34270,7 +34268,6 @@
         "tidyr",
         "tidyselect",
         "tweenr",
-        "units",
         "vctrs",
         "waldo"
     ],
@@ -60062,7 +60059,6 @@
         "tidyr",
         "tidyselect",
         "tweenr",
-        "units",
         "uwot",
         "vctrs",
         "zoo"
@@ -61169,7 +61165,6 @@
         "tinytex",
         "treeio",
         "tweenr",
-        "units",
         "uwot",
         "vctrs",
         "viridis",
@@ -61283,7 +61278,6 @@
         "tidyselect",
         "tinytex",
         "tweenr",
-        "units",
         "uwot",
         "vctrs",
         "viridis",
@@ -64888,7 +64882,6 @@
         "spdep",
         "tibble",
         "tidyselect",
-        "units",
         "vctrs"
     ],
     "spatialHeatmap": [
@@ -65327,7 +65320,6 @@
         "tidyr",
         "tidyselect",
         "tweenr",
-        "units",
         "vctrs",
         "waldo"
     ],
@@ -66667,7 +66659,6 @@
         "tidyverse",
         "tinytex",
         "tzdb",
-        "units",
         "vctrs",
         "vroom"
     ],
@@ -66814,7 +66805,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "units",
         "uwot",
         "vctrs",
         "zoo"
@@ -67675,7 +67665,6 @@
         "tinytex",
         "tweenr",
         "tzdb",
-        "units",
         "vctrs",
         "vegan",
         "viridis",
@@ -72591,7 +72580,6 @@
         "spdep",
         "tibble",
         "tidyselect",
-        "units",
         "vctrs"
     ],
     "VplotR": [
@@ -81118,21 +81106,18 @@
         "survival",
         "systemfonts",
         "tinytex",
-        "units",
         "vctrs",
         "zoo"
     ],
     "sf": [
         "classInt",
         "e1071",
-        "s2",
-        "units"
+        "s2"
     ],
     "classInt": [
         "e1071"
     ],
     "s2": [],
-    "units": [],
     "penalized": [
         "Matrix",
         "survival"
@@ -81336,7 +81321,6 @@
         "sf",
         "tibble",
         "tidyselect",
-        "units",
         "vctrs"
     ],
     "Rlabkey": [
@@ -84793,8 +84777,7 @@
         "e1071",
         "s2",
         "sf",
-        "spData",
-        "units"
+        "spData"
     ],
     "spData": [],
     "protViz": [],
@@ -85038,7 +85021,6 @@
         "sftime",
         "spacetime",
         "stars",
-        "units",
         "xts",
         "zoo"
     ],
@@ -85059,8 +85041,7 @@
         "classInt",
         "e1071",
         "s2",
-        "sf",
-        "units"
+        "sf"
     ],
     "spacetime": [
         "xts",
@@ -85071,15 +85052,13 @@
         "e1071",
         "lwgeom",
         "s2",
-        "sf",
-        "units"
+        "sf"
     ],
     "lwgeom": [
         "classInt",
         "e1071",
         "s2",
-        "sf",
-        "units"
+        "sf"
     ],
     "spsUtil": [
         "httr",
