@@ -745,7 +745,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "ReorderCluster",
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
@@ -42610,7 +42609,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "ReorderCluster": [],
     "caret": [
         "clock",
         "dplyr",
