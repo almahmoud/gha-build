@@ -5393,7 +5393,6 @@
     "OmaDB": [
         "topGO"
     ],
-    "omicade4": [],
     "omicRexposome": [
         "FactoMineR",
         "SmartSVA",
@@ -5404,7 +5403,6 @@
         "lme4",
         "mice",
         "nloptr",
-        "omicade4",
         "pbkrtest",
         "rexposome",
         "sva",
