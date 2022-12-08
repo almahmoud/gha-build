@@ -1858,7 +1858,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "RESOLVE": [],
     "rexposome": [
         "FactoMineR",
         "car",
