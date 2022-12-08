@@ -1071,7 +1071,6 @@
         "iterators",
         "lambda.r",
         "lifecycle",
-        "lpSolve",
         "magrittr",
         "mgcv",
         "munsell",
@@ -1419,7 +1418,6 @@
         "lifecycle",
         "limSolve",
         "listenv",
-        "lpSolve",
         "magrittr",
         "memoise",
         "mgcv",
@@ -3078,7 +3076,6 @@
         "latticeExtra",
         "lifecycle",
         "locfit",
-        "lpSolve",
         "magrittr",
         "memoise",
         "mgcv",
@@ -4933,7 +4930,6 @@
         "lbfgs",
         "lifecycle",
         "listenv",
-        "lpSolve",
         "lubridate",
         "magrittr",
         "memoise",
@@ -6378,7 +6374,6 @@
         "hypergraph",
         "lifecycle",
         "limSolve",
-        "lpSolve",
         "magrittr",
         "rlang",
         "rsbml",
@@ -11152,7 +11147,6 @@
         "jquerylib",
         "knitr",
         "lifecycle",
-        "lpSolve",
         "magrittr",
         "memoise",
         "pillar",
@@ -19466,7 +19460,6 @@
         "knitr",
         "later",
         "lifecycle",
-        "lpSolve",
         "magrittr",
         "memoise",
         "mgcv",
@@ -21329,7 +21322,6 @@
         "lifecycle",
         "linprog",
         "lme4",
-        "lpSolve",
         "magic",
         "magrittr",
         "mgcv",
@@ -22842,7 +22834,6 @@
         "lambda.r",
         "lifecycle",
         "linprog",
-        "lpSolve",
         "magic",
         "magrittr",
         "mgcv",
@@ -23251,7 +23242,6 @@
         "gtable",
         "lifecycle",
         "limSolve",
-        "lpSolve",
         "magrittr",
         "mgcv",
         "munsell",
@@ -27312,7 +27302,6 @@
         "limSolve",
         "lme4",
         "locfit",
-        "lpSolve",
         "magrittr",
         "memoise",
         "mgcv",
@@ -30726,7 +30715,6 @@
         "lava",
         "lifecycle",
         "listenv",
-        "lpSolve",
         "magrittr",
         "memoise",
         "mgcv",
@@ -39467,7 +39455,6 @@
         "knitr",
         "lifecycle",
         "limSolve",
-        "lpSolve",
         "lubridate",
         "magrittr",
         "memoise",
@@ -46784,7 +46771,6 @@
         "gtable",
         "irr",
         "lifecycle",
-        "lpSolve",
         "magrittr",
         "mgcv",
         "munsell",
@@ -47697,9 +47683,7 @@
     "LPEadj": [
         "LPE"
     ],
-    "lpNet": [
-        "lpSolve"
-    ],
+    "lpNet": [],
     "LRBaseDbi": [
         "AnnotationDbi",
         "Biobase",
@@ -61256,7 +61240,6 @@
         "lifecycle",
         "limSolve",
         "locfit",
-        "lpSolve",
         "magrittr",
         "mathjaxr",
         "memoise",
@@ -64162,7 +64145,6 @@
         "later",
         "lifecycle",
         "linprog",
-        "lpSolve",
         "magic",
         "magrittr",
         "memoise",
@@ -71303,7 +71285,6 @@
         "lava",
         "lifecycle",
         "listenv",
-        "lpSolve",
         "lubridate",
         "magrittr",
         "memoise",
@@ -71441,7 +71422,6 @@
         "lava",
         "lifecycle",
         "listenv",
-        "lpSolve",
         "lubridate",
         "magrittr",
         "markdown",
@@ -73392,7 +73372,6 @@
         "gtable",
         "lifecycle",
         "limSolve",
-        "lpSolve",
         "magrittr",
         "mgcv",
         "munsell",
@@ -89658,7 +89637,6 @@
         "jquerylib",
         "later",
         "lifecycle",
-        "lpSolve",
         "magrittr",
         "memoise",
         "mgcv",
@@ -101896,7 +101874,6 @@
         "latticeExtra",
         "lifecycle",
         "limSolve",
-        "lpSolve",
         "magrittr",
         "memoise",
         "mgcv",
@@ -103526,7 +103503,6 @@
     "forestplot": [
         "checkmate"
     ],
-    "lpSolve": [],
     "RcppNumerical": [
         "Matrix",
         "Rcpp",
@@ -103756,12 +103732,9 @@
     ],
     "baseline": [
         "SparseM",
-        "limSolve",
-        "lpSolve"
+        "limSolve"
     ],
-    "limSolve": [
-        "lpSolve"
-    ],
+    "limSolve": [],
     "corpcor": [],
     "rARPACK": [
         "Matrix",
@@ -105382,9 +105355,7 @@
     "triebeard": [
         "Rcpp"
     ],
-    "sampling": [
-        "lpSolve"
-    ],
+    "sampling": [],
     "rJava": [],
     "sendmailR": [],
     "FDb.InfiniumMethylation.hg19": [
@@ -106730,8 +106701,7 @@
     "poibin": [],
     "LIM": [
         "diagram",
-        "limSolve",
-        "lpSolve"
+        "limSolve"
     ],
     "diagram": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
@@ -111191,7 +111161,6 @@
         "gtable",
         "lifecycle",
         "linprog",
-        "lpSolve",
         "magic",
         "magrittr",
         "mgcv",
@@ -111244,13 +111213,10 @@
     "geometry": [
         "Rcpp",
         "linprog",
-        "lpSolve",
         "magic"
     ],
     "IDPmisc": [],
-    "linprog": [
-        "lpSolve"
-    ],
+    "linprog": [],
     "GEOmap": [
         "BH",
         "MBA",
@@ -114075,9 +114041,7 @@
     "akima": [
         "sp"
     ],
-    "irr": [
-        "lpSolve"
-    ],
+    "irr": [],
     "scam": [
         "Matrix",
         "mgcv",
@@ -116214,7 +116178,6 @@
         "Rcpp",
         "geometry",
         "linprog",
-        "lpSolve",
         "magic"
     ],
     "diceR": [
