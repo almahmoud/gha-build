@@ -550,7 +550,6 @@
         "propr"
     ],
     "ClassifyR": [],
-    "cleanUpdTSeq": [],
     "clipper": [
         "qpgraph"
     ],
@@ -1666,9 +1665,7 @@
         "devtools"
     ],
     "infercnv": [],
-    "InPAS": [
-        "cleanUpdTSeq"
-    ],
+    "InPAS": [],
     "INSPEcT": [
         "DESeq2",
         "TxDb.Mmusculus.UCSC.mm9.knownGene"
