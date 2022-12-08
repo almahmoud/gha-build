@@ -20819,7 +20819,6 @@
         "viridis"
     ],
     "PhenStat": [
-        "SmoothWin",
         "broom",
         "car",
         "dplyr",
@@ -34563,7 +34562,6 @@
         "stringr"
     ],
     "PMCMRplus": [],
-    "SmoothWin": [],
     "osfr": [
         "tibble"
     ],
