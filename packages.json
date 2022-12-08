@@ -172,7 +172,6 @@
     "scRecover": [
         "Rmagic"
     ],
-    "scTensor": [],
     "signeR": [
         "survivalAnalysis",
         "survminer"
