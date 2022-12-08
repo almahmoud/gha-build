@@ -3566,8 +3566,7 @@
         "pbkrtest",
         "rstatix",
         "survminer",
-        "testthat",
-        "verification"
+        "testthat"
     ],
     "peakPantheR": [],
     "PECA": [],
@@ -5698,7 +5697,6 @@
     ],
     "biomartr": [],
     "tfprobability": [],
-    "verification": [],
     "tidybayes": [],
     "phastCons100way.UCSC.hg38": [
         "GenomicScores"
