@@ -11675,7 +11675,6 @@
         "ggplotify",
         "knitr",
         "rmarkdown",
-        "sf",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -12811,7 +12810,6 @@
         "progress",
         "readr",
         "scuttle",
-        "sf",
         "shiny",
         "shinydashboard",
         "tibble",
@@ -13955,7 +13953,6 @@
         "nloptr",
         "rematch2",
         "scuttle",
-        "sf",
         "spatstat.explore",
         "spatstat.random",
         "spicyR",
@@ -24512,7 +24509,6 @@
         "reshape2",
         "scattermore",
         "sctransform",
-        "sf",
         "shiny",
         "spatstat.explore",
         "spatstat.random",
@@ -24947,7 +24943,6 @@
         "scatterpie",
         "schex",
         "sctransform",
-        "sf",
         "shadowtext",
         "shiny",
         "spatstat.explore",
@@ -24997,7 +24992,6 @@
         "scattermore",
         "schex",
         "sctransform",
-        "sf",
         "shiny",
         "spatstat.explore",
         "spatstat.random",
@@ -26446,7 +26440,6 @@
         "dbplyr",
         "dplyr",
         "scuttle",
-        "sf",
         "spdep",
         "tibble",
         "tidyselect"
@@ -26611,7 +26604,6 @@
         "nloptr",
         "rematch2",
         "scuttle",
-        "sf",
         "spatstat.explore",
         "spatstat.random",
         "testthat",
@@ -27153,7 +27145,6 @@
         "rmarkdown",
         "rvest",
         "selectr",
-        "sf",
         "spatstat.explore",
         "spatstat.random",
         "tibble",
@@ -27202,7 +27193,6 @@
         "scattermore",
         "sctransform",
         "scuttle",
-        "sf",
         "shiny",
         "spatstat.explore",
         "spatstat.random",
@@ -27559,7 +27549,6 @@
         "rmarkdown",
         "rvest",
         "selectr",
-        "sf",
         "sftime",
         "spacetime",
         "stars",
@@ -29600,7 +29589,6 @@
         "ggplot2",
         "patchwork",
         "scuttle",
-        "sf",
         "spdep",
         "tibble",
         "tidyselect"
@@ -32608,10 +32596,8 @@
     "epiR": [
         "flextable",
         "knitr",
-        "rmarkdown",
-        "sf"
+        "rmarkdown"
     ],
-    "sf": [],
     "fGarch": [
         "cvar"
     ],
@@ -32673,7 +32659,6 @@
     ],
     "concaveman": [
         "dplyr",
-        "sf",
         "tibble",
         "tidyselect"
     ],
@@ -33904,9 +33889,7 @@
         "org.Hs.eg.db"
     ],
     "sampSurf": [],
-    "spdep": [
-        "sf"
-    ],
+    "spdep": [],
     "alphahull": [
         "ggplot2",
         "spatstat.random",
@@ -33996,7 +33979,6 @@
     "clustvarsel": [],
     "gstat": [
         "lwgeom",
-        "sf",
         "sftime",
         "spacetime",
         "stars"
@@ -34007,17 +33989,12 @@
         "tibble",
         "viridis"
     ],
-    "sftime": [
-        "sf"
-    ],
+    "sftime": [],
     "spacetime": [],
     "stars": [
-        "lwgeom",
-        "sf"
+        "lwgeom"
     ],
-    "lwgeom": [
-        "sf"
-    ],
+    "lwgeom": [],
     "spsUtil": [],
     "spsComps": [
         "shiny",
