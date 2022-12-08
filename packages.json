@@ -291,7 +291,6 @@
     ],
     "condiments": [],
     "consensusDE": [
-        "EnsDb.Hsapiens.v86",
         "RUVSeq"
     ],
     "contiBAIT": [
@@ -957,9 +956,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "metagene": [
-        "EnsDb.Hsapiens.v86"
-    ],
+    "metagene": [],
     "MetaPhOR": [
         "clusterProfiler",
         "enrichplot"
@@ -1354,7 +1351,6 @@
     "pRolocGUI": [],
     "Prostar": [],
     "proteasy": [
-        "EnsDb.Hsapiens.v86",
         "EnsDb.Rnorvegicus.v79"
     ],
     "ProteoDisco": [],
@@ -1462,9 +1458,7 @@
         "biovizBase",
         "karyoploteR"
     ],
-    "RITAN": [
-        "EnsDb.Hsapiens.v86"
-    ],
+    "RITAN": [],
     "RLSeq": [],
     "Rmmquant": [],
     "RNAAgeCalc": [
@@ -1785,7 +1779,6 @@
     "Ularcirc": [],
     "UMI4Cats": [],
     "uncoverappLib": [
-        "EnsDb.Hsapiens.v86",
         "Gviz",
         "Homo.sapiens",
         "biovizBase"
@@ -1901,7 +1894,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "EnsDb.Hsapiens.v86": [],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [],
     "dorothea": [],
     "mbest": [],
