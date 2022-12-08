@@ -999,7 +999,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "MutationalPatterns": [],
     "MWASTools": [
         "car",
         "pbkrtest"
