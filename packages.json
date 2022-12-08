@@ -104,7 +104,6 @@
         "tibble"
     ],
     "ADImpute": [
-        "SAVER",
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
@@ -20162,8 +20161,7 @@
         "SummarizedExperiment"
     ],
     "scRecover": [
-        "Rmagic",
-        "SAVER"
+        "Rmagic"
     ],
     "ScreenR": [
         "dplyr",
@@ -24585,7 +24583,6 @@
         "dplyr",
         "tibble"
     ],
-    "SAVER": [],
     "PFAM.db": [
         "AnnotationDbi",
         "KEGGREST"
