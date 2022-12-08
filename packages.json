@@ -26647,7 +26647,6 @@
         "tibble",
         "vctrs"
     ],
-    "MethPed": [],
     "MethReg": [
         "AnnotationDbi",
         "AnnotationHub",
