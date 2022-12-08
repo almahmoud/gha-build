@@ -19390,8 +19390,7 @@
         "SummarizedExperiment",
         "dbplyr",
         "dplyr",
-        "scuttle",
-        "spdep"
+        "scuttle"
     ],
     "spatialHeatmap": [
         "AnnotationDbi",
@@ -19948,7 +19947,6 @@
         "sctransform",
         "scuttle",
         "spatstat.explore",
-        "spdep",
         "tidyr"
     ],
     "strandCheckR": [
@@ -21676,8 +21674,7 @@
         "ggnewscale",
         "ggplot2",
         "patchwork",
-        "scuttle",
-        "spdep"
+        "scuttle"
     ],
     "VplotR": [
         "GenomicAlignments",
@@ -24581,7 +24578,6 @@
         "org.Hs.eg.db"
     ],
     "sampSurf": [],
-    "spdep": [],
     "alphahull": [
         "ggplot2"
     ],
