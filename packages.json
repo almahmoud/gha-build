@@ -6859,10 +6859,8 @@
         "reshape2",
         "tibble"
     ],
-    "DelayedRandomArray": [],
     "DelayedTensor": [
         "BiocSingular",
-        "DelayedRandomArray",
         "ScaledMatrix"
     ],
     "deltaCaptureC": [
