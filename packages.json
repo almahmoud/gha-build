@@ -170,7 +170,6 @@
     ],
     "animalcules": [
         "DESeq2",
-        "GUniFrac",
         "MultiAssayExperiment",
         "annotate",
         "caret",
@@ -10412,7 +10411,6 @@
     "caret": [
         "recipes"
     ],
-    "GUniFrac": [],
     "recipes": [],
     "org.Sc.sgd.db": [],
     "Seurat": [
