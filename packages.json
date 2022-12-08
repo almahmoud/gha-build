@@ -143,7 +143,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "biosigner": [],
     "biovizBase": [],
     "biscuiteer": [
         "Homo.sapiens",
@@ -1445,7 +1444,6 @@
     "multiSight": [
         "ReactomePA",
         "anyLib",
-        "biosigner",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
