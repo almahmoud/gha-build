@@ -3232,7 +3232,6 @@
         "tidyverse"
     ],
     "SpotClean": [],
-    "SRAdb": [],
     "srnadiff": [
         "DESeq2",
         "Gviz",
