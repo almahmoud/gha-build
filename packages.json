@@ -21164,7 +21164,6 @@
         "RSQLite",
         "annotate",
         "genefilter",
-        "mRMRe",
         "sva"
     ],
     "packFinder": [
@@ -36361,7 +36360,6 @@
         "tidyselect",
         "vroom"
     ],
-    "mRMRe": [],
     "kmer": [],
     "tfprobability": [
         "keras",
