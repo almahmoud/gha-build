@@ -25833,7 +25833,6 @@
         "vctrs",
         "vroom"
     ],
-    "NetPathMiner": [],
     "netprioR": [
         "dplyr",
         "ggplot2",
