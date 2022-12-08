@@ -29469,7 +29469,6 @@
         "edgeR",
         "ensembldb",
         "ggplot2",
-        "grImport",
         "hms",
         "htmlTable",
         "httpuv",
@@ -43244,7 +43243,6 @@
         "ggplotify",
         "ggrastr",
         "ggrepel",
-        "grImport",
         "htmlTable",
         "httpuv",
         "httr",
@@ -46678,7 +46676,6 @@
         "dplyr",
         "ensembldb",
         "ggplot2",
-        "grImport",
         "hms",
         "htmlTable",
         "httr",
@@ -54806,7 +54803,6 @@
         "sass",
         "shiny"
     ],
-    "grImport": [],
     "scico": [
         "scales"
     ],
