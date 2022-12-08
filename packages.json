@@ -733,7 +733,6 @@
         "RSpectra",
         "RcppEigen",
         "Rfast",
-        "baseline",
         "bslib",
         "cellranger",
         "dplyr",
@@ -32261,7 +32260,6 @@
         "VennDiagram",
         "XVector",
         "annotate",
-        "baseline",
         "biomaRt",
         "biovizBase",
         "blob",
@@ -54478,7 +54476,6 @@
         "tibble",
         "vctrs"
     ],
-    "baseline": [],
     "rARPACK": [
         "RSpectra",
         "RcppEigen"
