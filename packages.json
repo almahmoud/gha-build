@@ -42,7 +42,6 @@
         "DSS"
     ],
     "DSS": [],
-    "ELMER": [],
     "epigraHMM": [],
     "epihet": [
         "EntropyExplorer"
@@ -107,9 +106,7 @@
     ],
     "SPONGE": [],
     "survtype": [],
-    "TCGAbiolinksGUI": [
-        "ELMER"
-    ],
+    "TCGAbiolinksGUI": [],
     "TDARACNE": [
         "GenKern"
     ],
