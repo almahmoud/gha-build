@@ -1545,7 +1545,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "Oscope": [],
     "OUTRIDER": [],
     "padma": [
         "FactoMineR",
@@ -1893,9 +1892,7 @@
         "arm",
         "lme4"
     ],
-    "scDDboost": [
-        "Oscope"
-    ],
+    "scDDboost": [],
     "scGPS": [],
     "scMerge": [],
     "scmeth": [],
