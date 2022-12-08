@@ -33492,7 +33492,6 @@
         "annotate",
         "blob",
         "bslib",
-        "copula",
         "cowplot",
         "dplyr",
         "fitdistrplus",
@@ -47075,7 +47074,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "copula": [],
     "torch": [],
     "origami": [
         "future.apply"
