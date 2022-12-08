@@ -2838,7 +2838,6 @@
         "genefilter"
     ],
     "GOTHiC": [],
-    "goTools": [],
     "GRaNIE": [
         "DESeq2",
         "biomaRt",
