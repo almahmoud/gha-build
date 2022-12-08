@@ -3051,7 +3051,6 @@
         "future",
         "future.apply",
         "gbm",
-        "gdata",
         "genefilter",
         "ggalluvial",
         "ggplot2",
@@ -5707,7 +5706,6 @@
         "flexclust",
         "fpc",
         "futile.logger",
-        "gdata",
         "genefilter",
         "ggdendro",
         "ggm",
@@ -11554,7 +11552,6 @@
         "futile.logger",
         "future",
         "future.apply",
-        "gdata",
         "genefu",
         "graph",
         "hms",
@@ -13900,7 +13897,6 @@
         "forcats",
         "fpc",
         "gargle",
-        "gdata",
         "ggdendro",
         "ggforce",
         "ggm",
@@ -14215,7 +14211,6 @@
         "bookdown",
         "bslib",
         "futile.logger",
-        "gdata",
         "ggplot2",
         "gplots",
         "highr",
@@ -14909,7 +14904,6 @@
         "doSNOW",
         "dplyr",
         "futile.logger",
-        "gdata",
         "ggplot2",
         "ggrepel",
         "gmodels",
@@ -18243,7 +18237,6 @@
         "e1071",
         "flexclust",
         "fpc",
-        "gdata",
         "ggdendro",
         "ggm",
         "ggplot2",
@@ -21962,7 +21955,6 @@
         "e1071"
     ],
     "GeneticsPed": [
-        "gdata",
         "genetics"
     ],
     "GeneTonic": [
@@ -24244,7 +24236,6 @@
         "IRanges",
         "TSP",
         "XVector",
-        "gdata",
         "iPAC",
         "igraph",
         "multtest",
@@ -26960,7 +26951,6 @@
         "dplyr",
         "fontawesome",
         "futile.logger",
-        "gdata",
         "geneplotter",
         "ggplot2",
         "hms",
@@ -27408,7 +27398,6 @@
         "GenomeInfoDb",
         "IRanges",
         "XVector",
-        "gdata",
         "multtest",
         "survival"
     ],
@@ -28852,7 +28841,6 @@
         "Rtsne",
         "apcluster",
         "fpc",
-        "gdata",
         "ggdendro",
         "ggplot2",
         "gmodels",
@@ -34767,7 +34755,6 @@
         "fontawesome",
         "fpc",
         "gbm",
-        "gdata",
         "genefilter",
         "ggvis",
         "htmlwidgets",
@@ -34952,7 +34939,6 @@
         "e1071",
         "flexclust",
         "fpc",
-        "gdata",
         "ggdendro",
         "ggplot2",
         "gmodels",
@@ -38009,7 +37995,6 @@
         "epiNEM",
         "flexclust",
         "fpc",
-        "gdata",
         "ggdendro",
         "ggm",
         "ggplot2",
@@ -40977,7 +40962,6 @@
         "edgeR",
         "fontawesome",
         "futile.logger",
-        "gdata",
         "geneplotter",
         "gert",
         "ggplot2",
@@ -42219,7 +42203,6 @@
         "enrichplot",
         "fgsea",
         "futile.logger",
-        "gdata",
         "ggforce",
         "ggfun",
         "ggnewscale",
@@ -43624,7 +43607,6 @@
         "future",
         "future.apply",
         "gbm",
-        "gdata",
         "genefilter",
         "ggplot2",
         "ggvis",
@@ -43709,7 +43691,6 @@
         "future",
         "future.apply",
         "gbm",
-        "gdata",
         "genefilter",
         "ggplot2",
         "ggvis",
@@ -43967,7 +43948,6 @@
         "blob",
         "dbplyr",
         "dplyr",
-        "gdata",
         "ggplot2",
         "ggrepel",
         "hms",
@@ -44446,8 +44426,7 @@
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
-        "XVector",
-        "gdata"
+        "XVector"
     ],
     "pwOmics": [
         "AnnotationDbi",
@@ -44999,7 +44978,6 @@
         "SpacePAC",
         "TSP",
         "XVector",
-        "gdata",
         "iPAC",
         "igraph",
         "multtest",
@@ -53129,7 +53107,6 @@
         "fpc",
         "futile.logger",
         "gbm",
-        "gdata",
         "genefilter",
         "ggvis",
         "htmlwidgets",
@@ -53443,7 +53420,6 @@
         "futile.logger",
         "future",
         "future.apply",
-        "gdata",
         "genefu",
         "ggplot2",
         "ggpubr",
@@ -54682,7 +54658,6 @@
         "GenomeInfoDb",
         "IRanges",
         "XVector",
-        "gdata",
         "iPAC",
         "multtest",
         "survival"
@@ -55509,7 +55484,6 @@
         "RSQLite",
         "XVector",
         "blob",
-        "gdata",
         "gsubfn",
         "httr",
         "igraph",
@@ -56234,9 +56208,7 @@
         "seqinr"
     ],
     "sSeq": [],
-    "ssize": [
-        "gdata"
-    ],
+    "ssize": [],
     "sSNAPPY": [
         "AnnotationDbi",
         "BiocParallel",
@@ -56539,7 +56511,6 @@
         "XVector",
         "blob",
         "e1071",
-        "gdata",
         "ggplot2",
         "gplots",
         "graph",
@@ -57967,7 +57938,6 @@
         "edgeR",
         "expm",
         "futile.logger",
-        "gdata",
         "genefilter",
         "geneplotter",
         "ggplot2",
@@ -64825,7 +64795,6 @@
         "vctrs",
         "viridis"
     ],
-    "gdata": [],
     "ggvis": [
         "bslib",
         "dplyr",
@@ -65877,9 +65846,7 @@
         "lmtest",
         "vcd"
     ],
-    "gmodels": [
-        "gdata"
-    ],
+    "gmodels": [],
     "ggm": [
         "graph",
         "igraph"
@@ -68539,9 +68506,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "genetics": [
-        "gdata"
-    ],
+    "genetics": [],
     "backbone": [
         "igraph"
     ],
