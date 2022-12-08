@@ -16854,7 +16854,6 @@
         "knitr",
         "msigdbr",
         "pillar",
-        "reactable",
         "reshape2",
         "rmarkdown",
         "rvest",
@@ -17973,7 +17972,6 @@
         "hms",
         "pillar",
         "progress",
-        "reactable",
         "readr",
         "readxl",
         "rio",
@@ -44399,7 +44397,6 @@
         "vctrs"
     ],
     "aws.s3": [],
-    "reactable": [],
     "biclust": [
         "dplyr",
         "ggplot2",
@@ -44484,7 +44481,6 @@
         "hms",
         "pillar",
         "progress",
-        "reactable",
         "readr",
         "readxl",
         "rio",
