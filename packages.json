@@ -354,7 +354,6 @@
         "knitr",
         "progress",
         "rtracklayer",
-        "seqinr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -818,7 +817,6 @@
         "progress",
         "rsnps",
         "rtracklayer",
-        "seqinr",
         "shiny",
         "shinyjs",
         "tibble",
@@ -926,7 +924,6 @@
         "org.Hs.eg.db",
         "plotly",
         "rematch2",
-        "seqinr",
         "testthat",
         "tibble",
         "tidyr",
@@ -3411,7 +3408,6 @@
         "SummarizedExperiment",
         "egg",
         "ggplot2",
-        "seqinr",
         "tibble"
     ],
     "cellbaseR": [
@@ -4415,7 +4411,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "seqinr",
         "shiny",
         "snpStats",
         "tibble",
@@ -4499,8 +4494,7 @@
         "GenomicRanges",
         "Rsamtools",
         "SummarizedExperiment",
-        "rtracklayer",
-        "seqinr"
+        "rtracklayer"
     ],
     "cleaver": [
         "Biostrings"
@@ -5752,7 +5746,6 @@
         "dplyr",
         "keras",
         "rtracklayer",
-        "seqinr",
         "tensorflow",
         "tfruns",
         "tibble",
@@ -5791,7 +5784,6 @@
         "regioneR",
         "rio",
         "rtracklayer",
-        "seqinr",
         "shiny",
         "shinyjs",
         "tensorflow",
@@ -10276,9 +10268,7 @@
         "tibble",
         "tidyselect"
     ],
-    "GeneGA": [
-        "seqinr"
-    ],
+    "GeneGA": [],
     "GeneGeneInteR": [
         "Biostrings",
         "FactoMineR",
@@ -11715,7 +11705,6 @@
         "regioneR",
         "rio",
         "rtracklayer",
-        "seqinr",
         "tensorflow",
         "tfruns",
         "tibble",
@@ -12622,7 +12611,6 @@
         "Biostrings",
         "RSQLite",
         "STRINGdb",
-        "seqinr",
         "sqldf"
     ],
     "ImmuneSpaceR": [
@@ -12720,7 +12708,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "seqinr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -12920,7 +12907,6 @@
         "ggplot2",
         "progress",
         "rtracklayer",
-        "seqinr",
         "tibble",
         "tidyselect"
     ],
@@ -15203,8 +15189,7 @@
         "tibble"
     ],
     "MethTargetedNGS": [
-        "Biostrings",
-        "seqinr"
+        "Biostrings"
     ],
     "MethylAid": [
         "AnnotationDbi",
@@ -15480,7 +15465,6 @@
         "Biostrings",
         "GenomicRanges",
         "SummarizedExperiment",
-        "seqinr",
         "shiny",
         "shinyFiles",
         "shinyjs",
@@ -16930,7 +16914,6 @@
         "Biostrings",
         "GenomicRanges",
         "dplyr",
-        "seqinr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -17372,7 +17355,6 @@
         "progress",
         "regioneR",
         "rtracklayer",
-        "seqinr",
         "tensorflow",
         "tfruns",
         "tibble",
@@ -18915,7 +18897,6 @@
         "htmlTable",
         "knitr",
         "reshape2",
-        "seqinr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -18933,7 +18914,6 @@
         "openPrimeR",
         "reshape2",
         "rmarkdown",
-        "seqinr",
         "shiny",
         "shinyBS",
         "shinyjs",
@@ -23561,7 +23541,6 @@
         "reshape2",
         "rmarkdown",
         "sangerseqR",
-        "seqinr",
         "shiny",
         "shinyWidgets",
         "shinycssloaders",
@@ -25571,7 +25550,6 @@
         "ggrepel",
         "ggtree",
         "patchwork",
-        "seqinr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -26048,8 +26026,7 @@
         "vroom"
     ],
     "specL": [
-        "RSQLite",
-        "seqinr"
+        "RSQLite"
     ],
     "SpeCond": [
         "fields",
@@ -26461,8 +26438,7 @@
         "waldo"
     ],
     "sscu": [
-        "Biostrings",
-        "seqinr"
+        "Biostrings"
     ],
     "sSNAPPY": [
         "AnnotationDbi",
@@ -26870,7 +26846,6 @@
         "progress",
         "readr",
         "rematch2",
-        "seqinr",
         "testthat",
         "tibble",
         "tidyselect",
@@ -27078,8 +27053,7 @@
         "waldo"
     ],
     "SynMut": [
-        "Biostrings",
-        "seqinr"
+        "Biostrings"
     ],
     "syntenet": [
         "Biostrings",
@@ -29235,7 +29209,6 @@
         "knitr",
         "progress",
         "rtracklayer",
-        "seqinr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -29758,7 +29731,6 @@
     "shinydashboard": [
         "shiny"
     ],
-    "seqinr": [],
     "readxl": [
         "cellranger",
         "progress",
