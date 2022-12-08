@@ -38937,7 +38937,6 @@
         "stringr",
         "vctrs"
     ],
-    "SBMLR": [],
     "SC3": [
         "DelayedArray",
         "GenomeInfoDb",
