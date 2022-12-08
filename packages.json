@@ -1260,7 +1260,6 @@
         "Hmisc",
         "org.Hs.eg.db",
         "pathview",
-        "shinyBS",
         "viridis"
     ],
     "biosigner": [
@@ -1795,7 +1794,6 @@
     ],
     "cbpManager": [
         "rapportools",
-        "shinyBS",
         "shinydashboard",
         "vroom"
     ],
@@ -3209,7 +3207,6 @@
         "oligoClasses",
         "readr",
         "readxl",
-        "shinyBS",
         "shinypanel",
         "sva",
         "tidyr",
@@ -3595,7 +3592,6 @@
         "qvalue",
         "scatterpie",
         "shadowtext",
-        "shinyBS",
         "shinydashboard",
         "sva",
         "tidygraph",
@@ -3993,7 +3989,6 @@
         "kableExtra",
         "plotly",
         "rvest",
-        "shinyBS",
         "shinydashboard",
         "tidyr",
         "viridis"
@@ -5119,7 +5114,6 @@
         "reactome.db",
         "scatterpie",
         "shadowtext",
-        "shinyBS",
         "shinydashboard",
         "tidygraph",
         "tidyr",
@@ -5141,8 +5135,7 @@
     ],
     "FastqCleaner": [
         "GenomicAlignments",
-        "ShortRead",
-        "shinyBS"
+        "ShortRead"
     ],
     "FCBF": [],
     "fCCAC": [
@@ -5994,7 +5987,6 @@
         "readxl",
         "rematch2",
         "rstatix",
-        "shinyBS",
         "shinyHeatmaply",
         "testthat",
         "tidyr",
@@ -6356,8 +6348,7 @@
         "GO.db"
     ],
     "GPA": [
-        "ggrepel",
-        "shinyBS"
+        "ggrepel"
     ],
     "gpuMagic": [
         "DescTools",
@@ -6852,7 +6843,6 @@
     ],
     "iCOBRA": [
         "UpSetR",
-        "shinyBS",
         "shinydashboard"
     ],
     "ideal": [
@@ -6882,7 +6872,6 @@
         "pcaExplorer",
         "plotly",
         "rtracklayer",
-        "shinyBS",
         "shinydashboard",
         "tidyr",
         "topGO",
@@ -7476,7 +7465,6 @@
         "dbplyr",
         "learnr",
         "readr",
-        "shinyBS",
         "shinyFiles",
         "shinydashboard",
         "sortable",
@@ -9630,7 +9618,6 @@
         "lmerTest",
         "nloptr",
         "rematch2",
-        "shinyBS",
         "testthat",
         "tidyr",
         "viridis",
@@ -9852,7 +9839,6 @@
         "rstatix",
         "rtracklayer",
         "rvest",
-        "shinyBS",
         "shinydashboard",
         "shinyjqui",
         "sortable",
@@ -10382,7 +10368,6 @@
         "dbplyr",
         "ensembldb",
         "rtracklayer",
-        "shinyBS",
         "shinyFiles",
         "shinydashboard",
         "tidyr",
@@ -10564,7 +10549,6 @@
     "openPrimeRui": [
         "Hmisc",
         "openPrimeR",
-        "shinyBS",
         "viridis"
     ],
     "OpenStats": [
@@ -10878,7 +10862,6 @@
         "ggrepel",
         "heatmaply",
         "plotly",
-        "shinyBS",
         "shinydashboard",
         "tidyr",
         "topGO",
@@ -11112,7 +11095,6 @@
         "bookdown",
         "colourpicker",
         "dbplyr",
-        "shinyBS",
         "shinyFiles",
         "topGO"
     ],
@@ -11575,7 +11557,6 @@
         "MSnbase",
         "broom",
         "highcharter",
-        "shinyBS",
         "shinyjqui",
         "tidyr",
         "vsn"
@@ -11672,7 +11653,6 @@
         "readr",
         "recount",
         "rtracklayer",
-        "shinyBS",
         "tidyr",
         "viridis",
         "vroom"
@@ -11772,8 +11752,7 @@
         "annotate",
         "dbplyr",
         "genefilter",
-        "pwrEWAS.data",
-        "shinyBS"
+        "pwrEWAS.data"
     ],
     "qckitfastq": [],
     "qcmetrics": [],
@@ -15235,7 +15214,6 @@
         "sesame",
         "sesameData",
         "shadowtext",
-        "shinyBS",
         "shinyFiles",
         "shinydashboard",
         "testthat",
@@ -15743,7 +15721,6 @@
         "golem",
         "plotly",
         "roxygen2",
-        "shinyBS",
         "shinyFiles",
         "tidyr"
     ],
@@ -15883,7 +15860,6 @@
         "ensembldb",
         "org.Hs.eg.db",
         "rtracklayer",
-        "shinyBS",
         "viridis"
     ],
     "UniProt.ws": [
@@ -16877,7 +16853,6 @@
     ],
     "intergraph": [],
     "sna": [],
-    "shinyBS": [],
     "superheat": [
         "ggdendro"
     ],
@@ -17253,9 +17228,7 @@
         "tensorflow"
     ],
     "tensorflow": [],
-    "shinypanel": [
-        "shinyBS"
-    ],
+    "shinypanel": [],
     "highcharter": [
         "broom",
         "tidyr"
