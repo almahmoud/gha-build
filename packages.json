@@ -3834,7 +3834,6 @@
     "GeoDiff": [
         "GGally",
         "GeomxTools",
-        "NanoStringNCTools",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -3867,7 +3866,6 @@
     ],
     "GeomxTools": [
         "GGally",
-        "NanoStringNCTools",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -6344,7 +6342,6 @@
         "readr",
         "rtracklayer"
     ],
-    "NanoStringNCTools": [],
     "NanoStringQCPro": [
         "org.Hs.eg.db"
     ],
@@ -9117,7 +9114,6 @@
     "SpatialDecon": [
         "GGally",
         "GeomxTools",
-        "NanoStringNCTools",
         "lme4",
         "lmerTest",
         "nloptr",
