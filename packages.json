@@ -835,7 +835,6 @@
         "MatrixGenerics",
         "NADA",
         "RCurl",
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "SummarizedExperiment",
@@ -1034,7 +1033,6 @@
         "Matrix",
         "RSpectra",
         "RcppEigen",
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "baseline",
@@ -4466,7 +4464,6 @@
         "Rcgmin",
         "RcppAnnoy",
         "RcppEigen",
-        "RcppGSL",
         "RcppML",
         "RcppTOML",
         "RcppZiggurat",
@@ -13550,7 +13547,6 @@
         "RCurl",
         "RcppAnnoy",
         "RcppEigen",
-        "RcppGSL",
         "RcppML",
         "RcppZiggurat",
         "Rfast",
@@ -14389,7 +14385,6 @@
         "GetoptLong",
         "IRanges",
         "Matrix",
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "doParallel",
@@ -18978,7 +18973,6 @@
         "RCurl",
         "RcppAnnoy",
         "RcppEigen",
-        "RcppGSL",
         "RcppML",
         "RcppZiggurat",
         "Rfast",
@@ -34211,7 +34205,6 @@
         "MatrixGenerics",
         "RCurl",
         "RSQLite",
-        "RcppGSL",
         "RcppTOML",
         "RcppZiggurat",
         "Rfast",
@@ -39109,7 +39102,6 @@
         "Matrix",
         "MatrixGenerics",
         "RCurl",
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "SummarizedExperiment",
@@ -39861,7 +39853,6 @@
         "RSQLite",
         "RcppAnnoy",
         "RcppEigen",
-        "RcppGSL",
         "RcppML",
         "RcppZiggurat",
         "Rdpack",
@@ -46562,7 +46553,6 @@
         "RSQLite",
         "RUVSeq",
         "RcppEigen",
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "Rhtslib",
@@ -47003,7 +46993,6 @@
         "MatrixGenerics",
         "NADA",
         "RCurl",
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "SummarizedExperiment",
@@ -47961,7 +47950,6 @@
         "Biobase",
         "Matrix",
         "RcppEigen",
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "cytolib",
@@ -49983,7 +49971,6 @@
         "Matrix",
         "MatrixModels",
         "RcppEigen",
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "SmoothWin",
@@ -52624,7 +52611,6 @@
         "RCurl",
         "RSQLite",
         "RcppEigen",
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "Rhtslib",
@@ -73311,7 +73297,6 @@
         "vctrs"
     ],
     "VERSO": [
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "ape"
@@ -74670,7 +74655,6 @@
         "RCurl",
         "RSQLite",
         "RcppEigen",
-        "RcppGSL",
         "RcppZiggurat",
         "Rdpack",
         "Rfast",
@@ -75660,17 +75644,13 @@
         "survival"
     ],
     "Rfast": [
-        "RcppGSL",
         "RcppZiggurat"
     ],
-    "RcppZiggurat": [
-        "RcppGSL"
-    ],
+    "RcppZiggurat": [],
     "NADA": [
         "Matrix",
         "survival"
     ],
-    "RcppGSL": [],
     "shinydashboard": [
         "bslib",
         "cachem",
@@ -75710,7 +75690,6 @@
     ],
     "speaq": [
         "Matrix",
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "doRNG",
@@ -84554,7 +84533,6 @@
         "memoise"
     ],
     "SmoothWin": [
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast"
     ],
