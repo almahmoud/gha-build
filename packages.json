@@ -5340,7 +5340,6 @@
         "patchwork",
         "plotly",
         "tidyr",
-        "tippy",
         "viridis"
     ],
     "geneXtendeR": [
@@ -16023,7 +16022,6 @@
         "tidyr"
     ],
     "bs4Dash": [],
-    "tippy": [],
     "flextable": [],
     "shinyHeatmaply": [
         "dendextend",
