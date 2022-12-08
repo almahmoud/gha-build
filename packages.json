@@ -7877,7 +7877,6 @@
         "XVector",
         "annotate",
         "blob",
-        "compositions",
         "geneplotter",
         "ggplot2",
         "pillar",
@@ -22117,7 +22116,6 @@
     "microbiome": [
         "Biostrings",
         "XVector",
-        "compositions",
         "dplyr",
         "ggplot2",
         "multtest",
@@ -26234,7 +26232,6 @@
         "SummarizedExperiment",
         "XVector",
         "bslib",
-        "compositions",
         "knitr",
         "multtest",
         "rmarkdown",
@@ -34141,7 +34138,6 @@
         "aroma.light",
         "biomaRt",
         "blob",
-        "compositions",
         "dbplyr",
         "dplyr",
         "ggplot2",
@@ -44695,7 +44691,6 @@
         "vctrs"
     ],
     "Rmixmod": [],
-    "compositions": [],
     "faahKO": [
         "BiocParallel",
         "DelayedArray",
