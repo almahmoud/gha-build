@@ -260,9 +260,7 @@
         "HTSFilter"
     ],
     "cosmosR": [],
-    "crisprseekplus": [
-        "GUIDEseq"
-    ],
+    "crisprseekplus": [],
     "crisprVerse": [
         "Gviz",
         "crisprViz"
@@ -626,7 +624,6 @@
         "pbkrtest"
     ],
     "GSReg": [],
-    "GUIDEseq": [],
     "Gviz": [],
     "gwasurvivr": [],
     "hermes": [],
