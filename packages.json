@@ -1146,7 +1146,6 @@
     "metabCombiner": [],
     "MetaboAnnotation": [],
     "MetaboSignal": [
-        "EnsDb.Hsapiens.v75",
         "MWASTools",
         "car",
         "lme4",
@@ -2192,7 +2191,6 @@
     "Ularcirc": [],
     "UMI4Cats": [],
     "uncoverappLib": [
-        "EnsDb.Hsapiens.v75",
         "EnsDb.Hsapiens.v86",
         "Gviz",
         "Homo.sapiens",
@@ -2391,7 +2389,6 @@
         "questionr"
     ],
     "questionr": [],
-    "EnsDb.Hsapiens.v75": [],
     "FlowSorted.Blood.450k": [
         "minfi"
     ],
