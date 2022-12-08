@@ -21549,7 +21549,6 @@
         "mgcv",
         "msigdbr",
         "pillar",
-        "reactR",
         "reactable",
         "reshape2",
         "rmarkdown",
@@ -22995,7 +22994,6 @@
         "mgcv",
         "pillar",
         "progress",
-        "reactR",
         "reactable",
         "readr",
         "readxl",
@@ -57049,10 +57047,8 @@
         "httr"
     ],
     "reactable": [
-        "htmlwidgets",
-        "reactR"
+        "htmlwidgets"
     ],
-    "reactR": [],
     "biclust": [
         "dplyr",
         "flexclust",
@@ -57169,7 +57165,6 @@
         "memoise",
         "pillar",
         "progress",
-        "reactR",
         "reactable",
         "readr",
         "readxl",
