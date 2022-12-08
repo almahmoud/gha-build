@@ -4657,7 +4657,6 @@
         "bslib",
         "cowplot",
         "e1071",
-        "earth",
         "ggplot2",
         "knitr",
         "memoise",
@@ -24818,7 +24817,6 @@
         "bslib",
         "cowplot",
         "e1071",
-        "earth",
         "ggplot2",
         "knitr",
         "memoise",
@@ -52572,7 +52570,6 @@
     "gamlss": [
         "survival"
     ],
-    "earth": [],
     "GenomicState": [
         "AnnotationDbi",
         "AnnotationHub",
