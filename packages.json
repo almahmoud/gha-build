@@ -265,7 +265,6 @@
     "BASiCStan": [
         "BASiCS"
     ],
-    "batchelor": [],
     "BatchQC": [
         "heatmaply",
         "sva"
@@ -787,9 +786,7 @@
         "frma"
     ],
     "chromPlot": [],
-    "ChromSCape": [
-        "batchelor"
-    ],
+    "ChromSCape": [],
     "chromVAR": [
         "CNEr",
         "TFBSTools"
@@ -3466,9 +3463,7 @@
         "tidygraph",
         "treeio"
     ],
-    "mumosa": [
-        "batchelor"
-    ],
+    "mumosa": [],
     "MungeSumstats": [
         "GenomicFeatures",
         "VariantAnnotation"
@@ -4963,7 +4958,6 @@
         "SoupX",
         "TENxPBMCData",
         "TSCAN",
-        "batchelor",
         "celda",
         "celldex",
         "ensembldb",
