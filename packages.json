@@ -271,15 +271,13 @@
     ],
     "cbaf": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "CBEA": [
         "TreeSummarizedExperiment"
     ],
     "cBioPortalData": [
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "CCPROMISE": [],
     "cellHTS2": [],
@@ -1332,7 +1330,6 @@
     "LOBSTAHS": [],
     "LowMACA": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData",
         "motifStack"
     ],
@@ -2318,9 +2315,7 @@
         "rstatix",
         "survminer"
     ],
-    "RTCGAToolbox": [
-        "TCGAutils"
-    ],
+    "RTCGAToolbox": [],
     "RTN": [
         "car",
         "lme4",
@@ -2639,7 +2634,6 @@
         "rstatix",
         "sesame"
     ],
-    "TCGAutils": [],
     "TDARACNE": [
         "GenKern"
     ],
@@ -2649,9 +2643,7 @@
     "tenXplore": [
         "restfulSE"
     ],
-    "terraTCGAdata": [
-        "TCGAutils"
-    ],
+    "terraTCGAdata": [],
     "TFHAZ": [
         "DESeq2",
         "ORFik"
