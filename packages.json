@@ -1503,8 +1503,7 @@
         "sva",
         "tibble",
         "tidyr",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "BayesSpace": [
         "BiocFileCache",
@@ -4114,8 +4113,7 @@
         "tibble",
         "tidyr",
         "viridis",
-        "waiter",
-        "webshot"
+        "waiter"
     ],
     "chromstaR": [
         "Biostrings",
@@ -6362,8 +6360,7 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "DECIPHER": [
         "Biostrings",
@@ -6567,8 +6564,7 @@
         "rtracklayer",
         "tibble",
         "tidyr",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "DEGraph": [
         "IRdisplay",
@@ -7082,8 +7078,7 @@
         "shinyjs",
         "tibble",
         "tidyr",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "distinct": [
         "BiocNeighbors",
@@ -8584,8 +8579,7 @@
         "rvest",
         "selectr",
         "tibble",
-        "tidyr",
-        "webshot"
+        "tidyr"
     ],
     "EventPointer": [
         "AnnotationDbi",
@@ -9451,8 +9445,7 @@
         "rtracklayer",
         "tibble",
         "tidyr",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "frenchFISH": [
         "MCMCpack",
@@ -10423,8 +10416,7 @@
         "tidyr",
         "viridis",
         "vroom",
-        "waldo",
-        "webshot"
+        "waldo"
     ],
     "GEOfastq": [
         "rvest",
@@ -11838,8 +11830,7 @@
         "rvest",
         "selectr",
         "shiny",
-        "tibble",
-        "webshot"
+        "tibble"
     ],
     "hyperdraw": [],
     "iasva": [
@@ -12002,8 +11993,7 @@
         "tibble",
         "tidyr",
         "topGO",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "IdeoViz": [
         "Biostrings",
@@ -12165,8 +12155,7 @@
         "rmarkdown",
         "tibble",
         "tidyr",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "immunotation": [
         "dplyr",
@@ -12346,8 +12335,7 @@
         "rvest",
         "selectr",
         "shiny",
-        "tibble",
-        "webshot"
+        "tibble"
     ],
     "interactiveDisplay": [
         "AnnotationDbi",
@@ -14502,8 +14490,7 @@
         "tibble",
         "tidyr",
         "viridis",
-        "vsn",
-        "webshot"
+        "vsn"
     ],
     "metavizr": [
         "AnnotationDbi",
@@ -15166,8 +15153,7 @@
         "tidyr",
         "viridis",
         "vroom",
-        "waldo",
-        "webshot"
+        "waldo"
     ],
     "microbiomeMarker": [
         "ALDEx2",
@@ -15322,8 +15308,7 @@
         "rvest",
         "selectr",
         "tibble",
-        "tidyr",
-        "webshot"
+        "tidyr"
     ],
     "MIGSA": [
         "AnnotationDbi",
@@ -18062,8 +18047,7 @@
         "tibble",
         "tidyr",
         "viridis",
-        "waldo",
-        "webshot"
+        "waldo"
     ],
     "omicsPrint": [
         "GenomicRanges",
@@ -18184,8 +18168,7 @@
         "shiny",
         "shinyFiles",
         "tibble",
-        "tidyr",
-        "webshot"
+        "tidyr"
     ],
     "onlineFDR": [
         "progress"
@@ -18478,8 +18461,7 @@
         "rtracklayer",
         "tibble",
         "tidyr",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "OVESEG": [
         "GenomicRanges",
@@ -18709,8 +18691,7 @@
         "tibble",
         "tidyr",
         "usethis",
-        "waldo",
-        "webshot"
+        "waldo"
     ],
     "pathRender": [
         "AnnotationDbi",
@@ -18773,8 +18754,7 @@
         "tibble",
         "tidyr",
         "topGO",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "PCAN": [],
     "PCAtools": [
@@ -19966,8 +19946,7 @@
         "shinythemes",
         "tibble",
         "tidyr",
-        "vsn",
-        "webshot"
+        "vsn"
     ],
     "proteasy": [
         "AnnotationDbi",
@@ -20076,8 +20055,7 @@
         "viridis",
         "vroom",
         "vsn",
-        "waldo",
-        "webshot"
+        "waldo"
     ],
     "psichomics": [
         "AnnotationDbi",
@@ -20342,8 +20320,7 @@
         "tibble",
         "tidyr",
         "viridis",
-        "waldo",
-        "webshot"
+        "waldo"
     ],
     "qpgraph": [
         "AnnotationDbi",
@@ -23209,8 +23186,7 @@
         "sangerseqR",
         "selectr",
         "shiny",
-        "tibble",
-        "webshot"
+        "tibble"
     ],
     "scMAGeCK": [
         "Seurat",
@@ -23599,8 +23575,7 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "scTGIF": [
         "AnnotationDbi",
@@ -24056,8 +24031,7 @@
         "tibble",
         "tidyr",
         "viridis",
-        "vroom",
-        "webshot"
+        "vroom"
     ],
     "shinyMethyl": [
         "AnnotationDbi",
@@ -25245,8 +25219,7 @@
         "shinydashboard",
         "tibble",
         "tidyr",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "SplicingFactory": [
         "GenomicRanges",
@@ -27932,8 +27905,7 @@
         "tidyr",
         "topGO",
         "viridis",
-        "vroom",
-        "webshot"
+        "vroom"
     ],
     "vissE": [
         "AnnotationDbi",
@@ -29285,10 +29257,8 @@
         "reshape2",
         "tibble",
         "tidyr",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
-    "webshot": [],
     "egg": [
         "ggplot2",
         "tibble"
@@ -30044,8 +30014,7 @@
         "rmarkdown",
         "rvest",
         "selectr",
-        "tibble",
-        "webshot"
+        "tibble"
     ],
     "gggenes": [
         "ggfittext",
@@ -30706,8 +30675,7 @@
         "shiny",
         "tibble",
         "tidyr",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "shinybusy": [
         "shiny"
