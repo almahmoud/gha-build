@@ -2738,7 +2738,6 @@
     "SeqGSEA": [
         "DESeq2"
     ],
-    "SeqSQC": [],
     "SeqVarTools": [],
     "sesame": [],
     "SEtools": [
