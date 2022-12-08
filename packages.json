@@ -172,7 +172,6 @@
         "pbkrtest",
         "radiant.data"
     ],
-    "biocGraph": [],
     "BiocOncoTK": [
         "car",
         "ggpubr",
