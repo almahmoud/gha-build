@@ -5842,7 +5842,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
-        "PolynomF",
         "XVector"
     ],
     "brainflowprobes": [
@@ -65528,7 +65527,6 @@
         "survival"
     ],
     "earth": [],
-    "PolynomF": [],
     "GenomicState": [
         "AnnotationDbi",
         "AnnotationHub",
