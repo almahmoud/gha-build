@@ -1338,7 +1338,6 @@
         "tibble",
         "vctrs"
     ],
-    "antiProfiles": [],
     "AnVIL": [
         "DT",
         "bslib",
