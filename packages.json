@@ -1815,7 +1815,6 @@
     "nearBynding": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "nempi": [],
     "NetActivity": [
         "DESeq2"
     ],
