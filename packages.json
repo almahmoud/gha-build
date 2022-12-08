@@ -2930,7 +2930,6 @@
         "ggraph",
         "ggtree",
         "rGREAT",
-        "soGGi",
         "treeio"
     ],
     "progeny": [],
@@ -3605,7 +3604,6 @@
         "DESeq2",
         "VariantAnnotation"
     ],
-    "soGGi": [],
     "sojourner": [
         "sampSurf"
     ],
