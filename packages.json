@@ -11447,7 +11447,6 @@
         "tidyselect",
         "viridis"
     ],
-    "GeneticsPed": [],
     "GeneTonic": [
         "AnnotationDbi",
         "Biostrings",
