@@ -6828,7 +6828,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "covEB": [],
     "CoverageView": [
         "Biostrings",
         "GenomicAlignments",
