@@ -6276,7 +6276,6 @@
         "GSEABase"
     ],
     "slingshot": [],
-    "SMAD": [],
     "SMITE": [
         "GenomicFeatures",
         "biomaRt",
