@@ -61617,7 +61617,6 @@
         "vctrs"
     ],
     "semisup": [],
-    "SEPIRA": [],
     "seq2pathway": [
         "AnnotationDbi",
         "Biobase",
