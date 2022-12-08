@@ -970,9 +970,7 @@
         "ggraph",
         "ggtree"
     ],
-    "EpiMix": [
-        "EpiMix.data"
-    ],
+    "EpiMix": [],
     "epimutacions": [
         "Gviz",
         "Homo.sapiens",
@@ -3553,7 +3551,6 @@
         "pbkrtest"
     ],
     "EntropyExplorer": [],
-    "EpiMix.data": [],
     "ewceData": [],
     "fda": [],
     "SPARQL": [],
