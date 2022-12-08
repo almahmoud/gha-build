@@ -868,7 +868,6 @@
         "lumi",
         "methylumi"
     ],
-    "MinimumDistance": [],
     "miRLAB": [],
     "miRSM": [
         "ReactomePA",
