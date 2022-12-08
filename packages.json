@@ -585,7 +585,6 @@
     "COCOA": [
         "MIRA"
     ],
-    "CODEX": [],
     "coexnet": [],
     "cogena": [
         "devtools"
@@ -1633,9 +1632,7 @@
         "methylumi",
         "minfi"
     ],
-    "iCNV": [
-        "CODEX"
-    ],
+    "iCNV": [],
     "ideal": [
         "Category",
         "DESeq2",
