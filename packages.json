@@ -78598,7 +78598,6 @@
         "genefilter",
         "ggplot2",
         "gplots",
-        "gsmoothr",
         "gtable",
         "httr",
         "labeling",
@@ -120967,7 +120966,6 @@
         "vctrs"
     ],
     "bibtex": [],
-    "gsmoothr": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [
         "BH",
         "BSgenome",
