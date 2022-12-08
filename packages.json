@@ -14586,7 +14586,6 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "condformat",
         "dbplyr",
         "ensembldb",
         "org.Hs.eg.db",
@@ -16663,7 +16662,6 @@
         "longitudinalData"
     ],
     "mirbase.db": [],
-    "condformat": [],
     "msigdb": [
         "AnnotationHub",
         "BiocFileCache",
