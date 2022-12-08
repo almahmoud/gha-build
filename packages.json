@@ -991,7 +991,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "ROC",
         "Rsamtools",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "annotate",
@@ -2183,7 +2182,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylationEPICmanifest",
-        "ROC",
         "Rsamtools",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation",
@@ -2614,11 +2612,8 @@
         "vsn",
         "xcms"
     ],
-    "clst": [
-        "ROC"
-    ],
+    "clst": [],
     "clstutils": [
-        "ROC",
         "clst"
     ],
     "CluMSID": [
@@ -8283,7 +8278,6 @@
     ],
     "maPredictDSC": [
         "AnnotationDbi",
-        "ROC",
         "caret",
         "hgu133plus2.db",
         "ipred",
@@ -8472,7 +8466,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "ROC",
         "Rsamtools",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "annotate",
@@ -13566,7 +13559,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "ROC": [],
     "ROCpAI": [
         "fission"
     ],
@@ -14979,7 +14971,6 @@
         "GenomicFeatures",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
-        "ROC",
         "Rsamtools",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "annotate",
@@ -15591,9 +15582,7 @@
         "tidyverse",
         "vroom"
     ],
-    "statTarget": [
-        "ROC"
-    ],
+    "statTarget": [],
     "STdeconvolve": [
         "ggforce",
         "ggfun",
@@ -15957,7 +15946,6 @@
     "TCC": [
         "AnnotationDbi",
         "DESeq2",
-        "ROC",
         "annotate",
         "geneplotter"
     ],
@@ -17036,7 +17024,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "ROC",
         "Rsamtools",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "annotate",
