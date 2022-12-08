@@ -22317,7 +22317,6 @@
         "ggplot2",
         "tibble"
     ],
-    "synapsis": [],
     "synapter": [
         "MSnbase",
         "cleaver",
