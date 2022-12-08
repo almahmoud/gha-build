@@ -40403,7 +40403,6 @@
         "futile.logger",
         "ggplot2",
         "lifecycle",
-        "longitudinal",
         "mgcv",
         "pillar",
         "plyr",
@@ -46857,7 +46856,6 @@
         "huge",
         "igraph",
         "lifecycle",
-        "longitudinal",
         "mgcv",
         "mitools",
         "multtest",
@@ -68359,7 +68357,6 @@
         "httr",
         "igraph",
         "lifecycle",
-        "longitudinal",
         "memoise",
         "openssl",
         "vctrs"
@@ -85628,10 +85625,7 @@
     "rebus.datetimes": [],
     "rebus.numbers": [],
     "mhsmm": [],
-    "GeneNet": [
-        "longitudinal"
-    ],
-    "longitudinal": [],
+    "GeneNet": [],
     "ggmcmc": [
         "GGally",
         "Matrix",
