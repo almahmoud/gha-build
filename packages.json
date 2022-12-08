@@ -461,7 +461,6 @@
         "GenomicFiles",
         "Homo.sapiens"
     ],
-    "ERSSA": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
