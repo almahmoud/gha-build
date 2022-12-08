@@ -944,13 +944,11 @@
     "cpvSNP": [
         "GenomicFeatures"
     ],
-    "crisprBowtie": [],
     "crisprBwa": [],
     "crisprDesign": [
         "ExperimentHub",
         "GenomicFeatures",
         "VariantAnnotation",
-        "crisprBowtie",
         "crisprScore",
         "crisprScoreData"
     ],
@@ -975,7 +973,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "crisprBowtie",
         "crisprDesign",
         "crisprScore",
         "crisprScoreData",
@@ -988,7 +985,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "crisprBowtie",
         "crisprDesign",
         "crisprScore",
         "crisprScoreData",
