@@ -18358,7 +18358,6 @@
         "lme4",
         "lmerTest",
         "mlr3learners",
-        "mlr3tuning",
         "nloptr",
         "phyloseq",
         "rematch2",
@@ -24050,7 +24049,6 @@
         "rmarkdown"
     ],
     "mlr3learners": [],
-    "mlr3tuning": [],
     "survivalAnalysis": [
         "broom",
         "car",
