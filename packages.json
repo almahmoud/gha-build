@@ -21037,7 +21037,6 @@
     "coGPS": [],
     "COHCAP": [
         "BH",
-        "COHCAPanno",
         "RColorBrewer",
         "Rcpp",
         "RcppArmadillo",
@@ -133949,7 +133948,6 @@
     "biwt": [
         "robustbase"
     ],
-    "COHCAPanno": [],
     "skmeans": [
         "clue",
         "slam"
