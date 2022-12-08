@@ -9037,8 +9037,7 @@
     "systemPipeShiny": [
         "drawer",
         "plotly",
-        "shinydashboardPlus",
-        "spsComps"
+        "shinydashboardPlus"
     ],
     "systemPipeTools": [
         "DESeq2",
@@ -10817,7 +10816,6 @@
     "mosaicCore": [],
     "rsample": [],
     "SpatialExtremes": [],
-    "spsComps": [],
     "drawer": [],
     "GenKern": [],
     "gghighlight": [],
