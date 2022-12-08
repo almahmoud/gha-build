@@ -480,7 +480,6 @@
     "qmtools": [
         "VIM"
     ],
-    "QuasR": [],
     "R3CPET": [],
     "ReactomePA": [],
     "recount": [],
@@ -559,9 +558,7 @@
         "rstatix",
         "survminer"
     ],
-    "SingleMoleculeFootprinting": [
-        "QuasR"
-    ],
+    "SingleMoleculeFootprinting": [],
     "skewr": [
         "wateRmelon"
     ],
