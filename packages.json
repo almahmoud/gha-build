@@ -5917,7 +5917,6 @@
         "tidyr",
         "vroom"
     ],
-    "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -6641,7 +6640,6 @@
         "BSgenome",
         "BiocFileCache",
         "ComplexUpset",
-        "EnrichedHeatmap",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicInteractions",
@@ -15040,7 +15038,6 @@
         "BiocFileCache",
         "ChIPseeker",
         "DOSE",
-        "EnrichedHeatmap",
         "GO.db",
         "GOSemSim",
         "GenomicAlignments",
