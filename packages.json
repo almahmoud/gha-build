@@ -14405,7 +14405,6 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "DiffLogo": [],
     "diffuStats": [
         "ggplot2",
         "igraph",
