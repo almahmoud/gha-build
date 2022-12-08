@@ -19958,7 +19958,6 @@
         "future",
         "future.apply"
     ],
-    "geneClassifiers": [],
     "GeneExpressionSignature": [],
     "genefilter": [
         "AnnotationDbi",
