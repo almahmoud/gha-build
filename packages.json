@@ -448,7 +448,6 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "annotate",
-        "babelgene",
         "biomaRt",
         "broom",
         "chromVAR",
@@ -1852,7 +1851,6 @@
     ],
     "ChromSCape": [
         "GenomicAlignments",
-        "babelgene",
         "batchelor",
         "colourpicker",
         "ggfittext",
@@ -4004,7 +4002,6 @@
         "GSVA",
         "UCell",
         "annotate",
-        "babelgene",
         "broom",
         "ggridges",
         "msigdbr",
@@ -4036,7 +4033,6 @@
         "BiocFileCache",
         "ExperimentHub",
         "aplot",
-        "babelgene",
         "broom",
         "car",
         "ewceData",
@@ -5534,7 +5530,6 @@
     ],
     "HumanTranscriptomeCompendium": [],
     "hypeR": [
-        "babelgene",
         "ggforce",
         "kableExtra",
         "msigdbr"
@@ -6334,7 +6329,6 @@
         "GOSemSim",
         "HDO.db",
         "aplot",
-        "babelgene",
         "clusterProfiler",
         "depmap",
         "enrichplot",
@@ -8667,7 +8661,6 @@
     ],
     "orthogene": [
         "aplot",
-        "babelgene",
         "broom",
         "car",
         "ggfun",
@@ -11088,7 +11081,6 @@
         "GSEABase",
         "Seurat",
         "annotate",
-        "babelgene",
         "bookdown",
         "concaveman",
         "fields",
@@ -11478,7 +11470,6 @@
         "TrajectoryUtils",
         "annotate",
         "aplot",
-        "babelgene",
         "batchelor",
         "biomaRt",
         "celda",
@@ -11680,7 +11671,6 @@
         "BiocSet",
         "GSEABase",
         "annotate",
-        "babelgene",
         "plotly",
         "tidyr"
     ],
@@ -13227,7 +13217,6 @@
         "GO.db",
         "GSEABase",
         "annotate",
-        "babelgene",
         "broom",
         "graphite",
         "lme4",
@@ -13471,9 +13460,7 @@
     "ggfortify": [
         "tidyr"
     ],
-    "msigdbr": [
-        "babelgene"
-    ],
+    "msigdbr": [],
     "tidyverse": [
         "broom",
         "dtplyr",
@@ -13500,7 +13487,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "babelgene": [],
     "TxDb.Mmusculus.UCSC.mm10.knownGene": [
         "BiocFileCache",
         "GenomicAlignments",
