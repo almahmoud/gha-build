@@ -1511,14 +1511,11 @@
         "bookdown",
         "rmarkdown"
     ],
-    "biocthis": [
-        "usethis"
-    ],
+    "biocthis": [],
     "BiocWorkflowTools": [
         "BiocStyle",
         "bookdown",
-        "rmarkdown",
-        "usethis"
+        "rmarkdown"
     ],
     "biodb": [
         "BiocFileCache",
@@ -2079,7 +2076,6 @@
         "rmarkdown",
         "roxygen2",
         "testthat",
-        "usethis",
         "waldo"
     ],
     "bumphunter": [
@@ -3646,7 +3642,6 @@
         "roxygen2",
         "testthat",
         "tidyr",
-        "usethis",
         "waldo"
     ],
     "cogeqc": [
@@ -4750,7 +4745,6 @@
         "rtracklayer",
         "testthat",
         "tidyr",
-        "usethis",
         "vroom",
         "waldo"
     ],
@@ -7497,7 +7491,6 @@
         "rmarkdown",
         "roxygen2",
         "testthat",
-        "usethis",
         "waldo"
     ],
     "GDCRNATools": [
@@ -9096,8 +9089,7 @@
         "available",
         "biocthis",
         "dplyr",
-        "tidytext",
-        "usethis"
+        "tidytext"
     ],
     "HumanTranscriptomeCompendium": [
         "SummarizedExperiment",
@@ -9385,7 +9377,6 @@
         "rmarkdown",
         "roxygen2",
         "testthat",
-        "usethis",
         "waldo"
     ],
     "infercnv": [
@@ -9553,7 +9544,6 @@
         "shinyjs",
         "testthat",
         "tidyr",
-        "usethis",
         "viridis",
         "waldo"
     ],
@@ -10869,7 +10859,6 @@
         "readr",
         "rematch2",
         "testthat",
-        "usethis",
         "vroom",
         "waldo"
     ],
@@ -10898,7 +10887,6 @@
         "testthat",
         "tidyr",
         "universalmotif",
-        "usethis",
         "vroom",
         "waldo"
     ],
@@ -11406,7 +11394,6 @@
         "testthat",
         "tidyr",
         "tidyverse",
-        "usethis",
         "vroom",
         "waldo"
     ],
@@ -11573,7 +11560,6 @@
         "rmarkdown",
         "roxygen2",
         "testthat",
-        "usethis",
         "waldo"
     ],
     "MetNet": [
@@ -11794,7 +11780,6 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "usethis",
         "viridis"
     ],
     "MicrobiotaProcess": [
@@ -13050,7 +13035,6 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "usethis",
         "viridis",
         "waldo"
     ],
@@ -13834,7 +13818,6 @@
         "rtracklayer",
         "testthat",
         "tidyr",
-        "usethis",
         "viridis",
         "vroom",
         "waldo"
@@ -14167,7 +14150,6 @@
         "rmarkdown",
         "roxygen2",
         "testthat",
-        "usethis",
         "waldo"
     ],
     "optimalFlow": [
@@ -14480,7 +14462,6 @@
         "shinyjs",
         "testthat",
         "tidyr",
-        "usethis",
         "waldo"
     ],
     "pathRender": [
@@ -16915,7 +16896,6 @@
         "roxygen2",
         "rtracklayer",
         "testthat",
-        "usethis",
         "waldo"
     ],
     "rmspc": [
@@ -19691,7 +19671,6 @@
         "roxygen2",
         "rtracklayer",
         "testthat",
-        "usethis",
         "viridis",
         "waldo"
     ],
@@ -21095,8 +21074,7 @@
         "shinyBS",
         "shinyFiles",
         "shinyjs",
-        "tidyr",
-        "usethis"
+        "tidyr"
     ],
     "tRNA": [
         "Modstrings",
@@ -21762,8 +21740,7 @@
         "roxygen2",
         "shinyWidgets",
         "shinycustomloader",
-        "shinydashboard",
-        "usethis"
+        "shinydashboard"
     ],
     "wppi": [
         "OmnipathR",
@@ -22673,7 +22650,6 @@
         "ggplot2"
     ],
     "rorcid": [],
-    "usethis": [],
     "rms": [
         "Hmisc",
         "ggplot2",
@@ -22811,7 +22787,6 @@
         "rmarkdown",
         "roxygen2",
         "testthat",
-        "usethis",
         "waldo"
     ],
     "pkgdown": [
@@ -23326,7 +23301,6 @@
     "cmdfun": [
         "rematch2",
         "testthat",
-        "usethis",
         "waldo"
     ],
     "metap": [
@@ -23647,8 +23621,7 @@
         "dplyr"
     ],
     "golem": [
-        "roxygen2",
-        "usethis"
+        "roxygen2"
     ],
     "shinyalert": [],
     "AdaptGauss": [
@@ -23978,7 +23951,6 @@
         "rmarkdown",
         "roxygen2",
         "testthat",
-        "usethis",
         "waldo"
     ],
     "blme": [
