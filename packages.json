@@ -6289,8 +6289,7 @@
     ],
     "SPIAT": [
         "SpatialExperiment",
-        "plotly",
-        "xROI"
+        "plotly"
     ],
     "spicyR": [
         "SpatialExperiment",
@@ -7740,7 +7739,6 @@
         "ExperimentHub"
     ],
     "sampSurf": [],
-    "xROI": [],
     "miRNAtap.db": [],
     "MESS": [
         "broom",
