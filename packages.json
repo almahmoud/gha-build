@@ -73,12 +73,9 @@
         "DSS"
     ],
     "miRSM": [
-        "SPONGE",
         "miRspongeR"
     ],
-    "miRspongeR": [
-        "SPONGE"
-    ],
+    "miRspongeR": [],
     "MSstatsLiP": [],
     "musicatk": [],
     "NBSplice": [
@@ -104,7 +101,6 @@
     "sojourner": [
         "sampSurf"
     ],
-    "SPONGE": [],
     "survtype": [],
     "TCGAbiolinksGUI": [],
     "TDARACNE": [
