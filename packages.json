@@ -26461,7 +26461,6 @@
         "reshape2",
         "restfulr",
         "rhdf5",
-        "rmio",
         "rtracklayer",
         "scales",
         "siggenes",
@@ -61404,7 +61403,6 @@
         "ggplot2",
         "mgcv",
         "pillar",
-        "rmio",
         "scales",
         "tibble",
         "vctrs"
@@ -61417,7 +61415,6 @@
     "bigparallelr": [
         "doParallel"
     ],
-    "rmio": [],
     "depmap": [
         "AnnotationDbi",
         "AnnotationHub",
