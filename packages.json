@@ -665,7 +665,6 @@
     "ChIPXpress": [
         "GEOquery"
     ],
-    "chromPlot": [],
     "ChromSCape": [],
     "chromVAR": [
         "TFBSTools"
