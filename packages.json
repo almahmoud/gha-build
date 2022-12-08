@@ -1476,7 +1476,6 @@
         "RSQLite",
         "SummarizedExperiment",
         "assertive",
-        "assertive.data.uk",
         "assertive.data.us",
         "cellranger",
         "dbplyr",
@@ -20134,7 +20133,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "assertive",
-        "assertive.data.uk",
         "assertive.data.us",
         "bamsignals",
         "biomaRt",
@@ -35372,12 +35370,10 @@
         "tidyselect"
     ],
     "assertive": [
-        "assertive.data.uk",
         "assertive.data.us",
         "knitr",
         "stringr"
     ],
-    "assertive.data.uk": [],
     "assertive.data.us": [],
     "doBy": [
         "broom",
