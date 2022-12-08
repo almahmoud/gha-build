@@ -20900,7 +20900,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "ontologyPlot",
         "pillar",
         "shiny",
         "tibble",
@@ -22380,7 +22379,6 @@
         "ggplot2",
         "interactiveDisplayBase",
         "ontoProc",
-        "ontologyPlot",
         "pillar",
         "shiny",
         "tibble",
@@ -30528,7 +30526,6 @@
         "gargle",
         "interactiveDisplayBase",
         "ontoProc",
-        "ontologyPlot",
         "org.Mm.eg.db",
         "pillar",
         "progress",
@@ -36456,7 +36453,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "ontologyPlot": [],
     "AICcmodavg": [
         "lme4",
         "nloptr",
