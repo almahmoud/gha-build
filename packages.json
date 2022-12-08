@@ -2812,7 +2812,6 @@
         "rtracklayer",
         "tibble"
     ],
-    "BrowserViz": [],
     "BSgenome": [
         "Biostrings",
         "GenomicAlignments",
@@ -12627,7 +12626,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "BrowserViz",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
@@ -21890,9 +21888,7 @@
         "IRkernel",
         "repr"
     ],
-    "RCyjs": [
-        "BrowserViz"
-    ],
+    "RCyjs": [],
     "RDRToolbox": [
         "knitr",
         "rgl"
