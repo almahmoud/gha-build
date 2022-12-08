@@ -228,9 +228,7 @@
         "wateRmelon"
     ],
     "MEDME": [],
-    "MetaboSignal": [
-        "MWASTools"
-    ],
+    "MetaboSignal": [],
     "MetaCyto": [
         "FlowSOM",
         "ggpubr",
@@ -293,7 +291,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "MWASTools": [],
     "NADfinder": [],
     "NBSplice": [
         "mppa"
