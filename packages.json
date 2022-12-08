@@ -350,7 +350,6 @@
     "ASICS": [
         "MultiAssayExperiment",
         "MultiDataSet",
-        "PepsNMR",
         "plotly",
         "ropls",
         "tidyr"
@@ -7892,7 +7891,6 @@
         "scater",
         "scuttle"
     ],
-    "PepsNMR": [],
     "pepStat": [
         "fields"
     ],
