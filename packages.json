@@ -2068,7 +2068,6 @@
     "diffHic": [
         "BSgenome"
     ],
-    "diffuStats": [],
     "diffUTR": [
         "DESeq2",
         "DEXSeq",
