@@ -185,7 +185,6 @@
         "Hmisc",
         "MultiAssayExperiment",
         "TreeSummarizedExperiment",
-        "decontam",
         "ggrastr",
         "lme4",
         "lmerTest",
@@ -663,7 +662,6 @@
         "annotate",
         "corncob",
         "dearseq",
-        "decontam",
         "genefilter",
         "geneplotter",
         "ggrastr",
@@ -2756,7 +2754,6 @@
         "readxl",
         "rtracklayer"
     ],
-    "decontam": [],
     "deconvR": [
         "BiocFileCache",
         "GEOquery",
@@ -6673,7 +6670,6 @@
     "mia": [
         "MultiAssayExperiment",
         "TreeSummarizedExperiment",
-        "decontam",
         "ggrastr",
         "scater",
         "scuttle",
@@ -6691,7 +6687,6 @@
         "MultiAssayExperiment",
         "TreeSummarizedExperiment",
         "aplot",
-        "decontam",
         "ggforce",
         "ggfun",
         "ggplotify",
@@ -6742,7 +6737,6 @@
         "annotate",
         "aplot",
         "caret",
-        "decontam",
         "geneplotter",
         "ggfun",
         "ggplotify",
