@@ -17053,7 +17053,6 @@
         "annotate",
         "blob",
         "genefilter",
-        "les",
         "memoise",
         "vctrs"
     ],
@@ -19855,7 +19854,6 @@
         "tibble",
         "vctrs"
     ],
-    "les": [],
     "levi": [
         "DT",
         "bslib",
