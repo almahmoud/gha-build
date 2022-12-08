@@ -2670,10 +2670,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "basilisk": [
-        "basilisk.utils"
-    ],
-    "basilisk.utils": [],
+    "basilisk": [],
     "batchelor": [
         "BiocNeighbors",
         "BiocParallel",
@@ -3631,8 +3628,7 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "BiocStyle": [
         "bookdown",
@@ -5804,7 +5800,6 @@
     "cbpManager": [
         "DT",
         "basilisk",
-        "basilisk.utils",
         "bslib",
         "dplyr",
         "hms",
@@ -9847,7 +9842,6 @@
         "VariantAnnotation",
         "XVector",
         "basilisk",
-        "basilisk.utils",
         "biomaRt",
         "blob",
         "bslib",
@@ -9887,7 +9881,6 @@
         "RSQLite",
         "XVector",
         "basilisk",
-        "basilisk.utils",
         "blob",
         "bslib",
         "crisprScoreData",
@@ -10046,7 +10039,6 @@
         "VariantAnnotation",
         "XVector",
         "basilisk",
-        "basilisk.utils",
         "biomaRt",
         "biovizBase",
         "blob",
@@ -10111,7 +10103,6 @@
         "VariantAnnotation",
         "XVector",
         "basilisk",
-        "basilisk.utils",
         "biomaRt",
         "biovizBase",
         "blob",
@@ -11048,7 +11039,6 @@
         "SummarizedExperiment",
         "XVector",
         "basilisk",
-        "basilisk.utils",
         "biomaRt",
         "blob",
         "broom",
@@ -11896,8 +11886,7 @@
         "vctrs"
     ],
     "densvis": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "DEP": [
         "BiocParallel",
@@ -16168,7 +16157,6 @@
         "XVector",
         "bambu",
         "basilisk",
-        "basilisk.utils",
         "beachmat",
         "biomaRt",
         "biovizBase",
@@ -23823,7 +23811,6 @@
         "RSQLite",
         "XVector",
         "basilisk",
-        "basilisk.utils",
         "blob",
         "bslib",
         "dbplyr",
@@ -28222,7 +28209,6 @@
         "DelayedArray",
         "HDF5Array",
         "basilisk",
-        "basilisk.utils",
         "cowplot",
         "dplyr",
         "dqrng",
@@ -31434,7 +31420,6 @@
         "VariantAnnotation",
         "XVector",
         "basilisk",
-        "basilisk.utils",
         "biomaRt",
         "blob",
         "broom",
@@ -36805,7 +36790,6 @@
         "BiocParallel",
         "DiagrammeR",
         "basilisk",
-        "basilisk.utils",
         "batchtools",
         "bslib",
         "dplyr",
@@ -36838,7 +36822,6 @@
         "RSQLite",
         "Rcwl",
         "basilisk",
-        "basilisk.utils",
         "batchtools",
         "blob",
         "bslib",
@@ -43097,7 +43080,6 @@
         "SummarizedExperiment",
         "XVector",
         "basilisk",
-        "basilisk.utils",
         "biomformat",
         "dplyr",
         "ggplot2",
@@ -43775,8 +43757,7 @@
         "vctrs"
     ],
     "snifter": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "snm": [
         "callr",
@@ -44171,7 +44152,6 @@
         "SummarizedExperiment",
         "XVector",
         "basilisk",
-        "basilisk.utils",
         "beachmat",
         "blob",
         "dbplyr",
@@ -49311,7 +49291,6 @@
         "SummarizedExperiment",
         "XVector",
         "basilisk",
-        "basilisk.utils",
         "cowplot",
         "ggplot2",
         "mgcv",
@@ -49354,7 +49333,6 @@
         "SummarizedExperiment",
         "XVector",
         "basilisk",
-        "basilisk.utils",
         "beachmat",
         "scuttle",
         "zellkonverter"
@@ -50277,8 +50255,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "zenith": [
         "AnnotationDbi",
