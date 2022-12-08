@@ -11322,7 +11322,6 @@
         "readxl",
         "rematch2",
         "reshape2",
-        "robust",
         "stringr",
         "testthat",
         "tibble",
@@ -33679,7 +33678,6 @@
         "rmarkdown",
         "stringr"
     ],
-    "robust": [],
     "shinyHeatmaply": [
         "cellranger",
         "dendextend",
