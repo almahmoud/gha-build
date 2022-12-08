@@ -4901,7 +4901,6 @@
         "CoreGx",
         "PharmacoGx"
     ],
-    "XNAString": [],
     "YAPSA": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicFeatures",
