@@ -11849,7 +11849,6 @@
         "BSgenome",
         "BiocFileCache",
         "GenomicFeatures",
-        "LambertW",
         "UpSetR",
         "VariantAnnotation",
         "bestNormalize",
@@ -13850,7 +13849,6 @@
     "GenKern": [],
     "gghighlight": [],
     "bestNormalize": [
-        "LambertW",
         "ipred",
         "recipes",
         "tidyr"
@@ -13861,7 +13859,6 @@
         "tidyr",
         "visdat"
     ],
-    "LambertW": [],
     "visdat": [
         "readr",
         "tidyr"
