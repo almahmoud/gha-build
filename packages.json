@@ -13610,7 +13610,6 @@
         "biclust",
         "tidyr"
     ],
-    "rRDP": [],
     "rrvgo": [
         "AnnotationDbi",
         "GO.db",
