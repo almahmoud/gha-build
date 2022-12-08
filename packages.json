@@ -2890,7 +2890,6 @@
         "haven",
         "klaR",
         "labelled",
-        "plsgenomics",
         "questionr",
         "recipes",
         "xcms"
@@ -6351,7 +6350,6 @@
     "depmap": [
         "ExperimentHub"
     ],
-    "plsgenomics": [],
     "agricolae": [
         "haven",
         "klaR",
