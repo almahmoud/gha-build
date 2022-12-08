@@ -6621,7 +6621,6 @@
         "vioplot",
         "viridis",
         "xlsx",
-        "xlsxjars",
         "zoo"
     ],
     "BioMVCClass": [
@@ -87233,9 +87232,7 @@
         "stringr",
         "vctrs"
     ],
-    "xlsx": [
-        "xlsxjars"
-    ],
+    "xlsx": [],
     "readbitmap": [],
     "multcomp": [
         "Matrix",
@@ -87244,7 +87241,6 @@
         "survival",
         "zoo"
     ],
-    "xlsxjars": [],
     "TH.data": [
         "Matrix",
         "survival"
