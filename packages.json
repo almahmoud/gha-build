@@ -1273,7 +1273,6 @@
     ],
     "BUMHMM": [
         "devtools",
-        "pkgdown",
         "testthat",
         "waldo"
     ],
@@ -2277,7 +2276,6 @@
     ],
     "cogena": [
         "devtools",
-        "pkgdown",
         "testthat",
         "tidyr",
         "waldo"
@@ -4774,7 +4772,6 @@
     ],
     "GCSscore": [
         "devtools",
-        "pkgdown",
         "testthat",
         "waldo"
     ],
@@ -5952,7 +5949,6 @@
     ],
     "INDEED": [
         "devtools",
-        "pkgdown",
         "testthat",
         "waldo"
     ],
@@ -7223,7 +7219,6 @@
         "modelr",
         "nloptr",
         "pbkrtest",
-        "pkgdown",
         "planet",
         "readr",
         "readxl",
@@ -7343,7 +7338,6 @@
     ],
     "MetID": [
         "devtools",
-        "pkgdown",
         "testthat",
         "waldo"
     ],
@@ -8309,7 +8303,6 @@
         "metap",
         "mixOmics",
         "patchwork",
-        "pkgdown",
         "plotly",
         "qvalue",
         "rWikiPathways",
@@ -9024,7 +9017,6 @@
     ],
     "oppti": [
         "devtools",
-        "pkgdown",
         "testthat",
         "waldo"
     ],
@@ -9227,7 +9219,6 @@
         "devtools",
         "geneplotter",
         "phyloseq",
-        "pkgdown",
         "plotly",
         "testthat",
         "tidyr",
@@ -10757,7 +10748,6 @@
         "devtools",
         "geneplotter",
         "org.Mm.eg.db",
-        "pkgdown",
         "rtracklayer",
         "testthat",
         "waldo"
@@ -12529,7 +12519,6 @@
         "devtools",
         "ensembldb",
         "geneplotter",
-        "pkgdown",
         "rtracklayer",
         "testthat",
         "viridis",
@@ -14385,11 +14374,9 @@
         "rtracklayer"
     ],
     "devtools": [
-        "pkgdown",
         "testthat",
         "waldo"
     ],
-    "pkgdown": [],
     "vcfR": [],
     "drc": [
         "broom",
@@ -15063,7 +15050,6 @@
     "HiveR": [],
     "anyLib": [
         "devtools",
-        "pkgdown",
         "testthat",
         "waldo"
     ],
