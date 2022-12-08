@@ -371,9 +371,7 @@
         "MSstatsPTM"
     ],
     "multiSight": [],
-    "muscat": [
-        "variancePartition"
-    ],
+    "muscat": [],
     "musicatk": [
         "FactoMineR",
         "factoextra",
@@ -600,7 +598,6 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "variancePartition": [],
     "VariantFiltering": [],
     "VCFArray": [],
     "vissE": [],
@@ -611,9 +608,7 @@
         "SomaticSignatures"
     ],
     "yarn": [],
-    "zenith": [
-        "variancePartition"
-    ],
+    "zenith": [],
     "ggpubr": [
         "rstatix"
     ],
