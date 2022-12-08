@@ -4338,7 +4338,6 @@
         "csaw",
         "ensembldb",
         "ggforce",
-        "ggside",
         "patchwork",
         "rtracklayer",
         "tidyr",
@@ -5234,7 +5233,6 @@
         "DropletUtils",
         "SingleCellExperiment",
         "SpatialExperiment",
-        "ggside",
         "scuttle"
     ],
     "ggtree": [
@@ -14852,7 +14850,6 @@
     "ComplexUpset": [
         "patchwork"
     ],
-    "ggside": [],
     "gap": [
         "plotly",
         "tidyr"
