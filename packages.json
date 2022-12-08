@@ -8822,7 +8822,6 @@
         "GO.db",
         "WGCNA"
     ],
-    "SQLDataFrame": [],
     "SRAdb": [
         "GEOquery",
         "readr"
