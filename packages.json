@@ -508,7 +508,6 @@
     "ggbio": [],
     "ggmsa": [],
     "ggtreeDendro": [],
-    "ggtreeExtra": [],
     "glmSparseNet": [
         "car",
         "ggpubr",
@@ -750,9 +749,7 @@
     "MicrobiomeProfiler": [
         "clusterProfiler"
     ],
-    "MicrobiotaProcess": [
-        "ggtreeExtra"
-    ],
+    "MicrobiotaProcess": [],
     "MIGSA": [],
     "MineICA": [
         "lumi",
