@@ -8004,7 +8004,6 @@
         "tibble",
         "vctrs"
     ],
-    "BridgeDbR": [],
     "BrowserViz": [
         "httpuv",
         "later",
