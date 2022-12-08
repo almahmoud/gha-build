@@ -249,7 +249,6 @@
     "qmtools": [],
     "rfaRm": [],
     "RNAAgeCalc": [],
-    "RNAmodR.RiboMethSeq": [],
     "RNASeqR": [
         "factoextra",
         "ggpubr"
