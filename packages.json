@@ -828,7 +828,6 @@
     "AssessORF": [
         "DECIPHER"
     ],
-    "ASSET": [],
     "ASSIGN": [
         "AnnotationDbi",
         "KEGGREST",
@@ -17970,9 +17969,7 @@
         "treeio",
         "viridis"
     ],
-    "REBET": [
-        "ASSET"
-    ],
+    "REBET": [],
     "rebook": [
         "BiocStyle",
         "bookdown",
