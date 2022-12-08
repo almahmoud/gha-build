@@ -15,7 +15,6 @@
     "abseqR": [
         "BiocStyle",
         "bookdown",
-        "ggdendro",
         "plotly",
         "tidyr"
     ],
@@ -236,7 +235,6 @@
     ],
     "AneuFinder": [
         "GenomicAlignments",
-        "ggdendro",
         "ggrepel"
     ],
     "animalcules": [
@@ -414,7 +412,6 @@
     "artMS": [
         "MSstats",
         "UpSetR",
-        "ggdendro",
         "ggrepel",
         "lme4",
         "nloptr",
@@ -683,7 +680,6 @@
         "rstan"
     ],
     "barcodetrackR": [
-        "ggdendro",
         "ggridges",
         "tidyr",
         "viridis"
@@ -797,7 +793,6 @@
         "genefilter",
         "geneplotter",
         "ggbeeswarm",
-        "ggdendro",
         "ggrastr",
         "ggrepel",
         "ggridges",
@@ -1143,7 +1138,6 @@
     ],
     "biotmle": [
         "drtmle",
-        "ggdendro",
         "ggsci",
         "superheat"
     ],
@@ -1236,7 +1230,6 @@
         "annotate",
         "epiNEM",
         "genefilter",
-        "ggdendro",
         "mnem",
         "sva",
         "vsn"
@@ -1739,7 +1732,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggdendro",
         "ggforce",
         "ggfun",
         "ggnewscale",
@@ -3177,7 +3169,6 @@
         "dbplyr",
         "dtplyr",
         "epiNEM",
-        "ggdendro",
         "ggforce",
         "ggraph",
         "ggrepel",
@@ -3374,7 +3365,6 @@
         "annotate",
         "broom",
         "geneplotter",
-        "ggdendro",
         "ggrepel",
         "tidyr"
     ],
@@ -4318,7 +4308,6 @@
     ],
     "epiNEM": [
         "Linnorm",
-        "ggdendro",
         "mnem"
     ],
     "epistack": [],
@@ -4470,7 +4459,6 @@
     "eudysbiome": [],
     "evaluomeR": [
         "MultiAssayExperiment",
-        "ggdendro",
         "kableExtra",
         "rvest",
         "tidyr"
@@ -6634,7 +6622,6 @@
         "annotate",
         "broom",
         "geneplotter",
-        "ggdendro",
         "ggrepel",
         "readr",
         "tidyr"
@@ -6814,9 +6801,7 @@
         "tidyr",
         "waldo"
     ],
-    "Linnorm": [
-        "ggdendro"
-    ],
+    "Linnorm": [],
     "LinTInd": [
         "aplot",
         "ggfun",
@@ -8010,7 +7995,6 @@
         "GSEABase",
         "annotate",
         "genefilter",
-        "ggdendro",
         "org.Hs.eg.db"
     ],
     "miloR": [
@@ -8365,8 +8349,7 @@
         "waldo"
     ],
     "mnem": [
-        "Linnorm",
-        "ggdendro"
+        "Linnorm"
     ],
     "moanin": [
         "ClusterR",
@@ -8945,7 +8928,6 @@
         "biomaRt",
         "dbplyr",
         "ggalluvial",
-        "ggdendro",
         "rtracklayer",
         "tidyr"
     ],
@@ -9109,7 +9091,6 @@
     "nempi": [
         "Linnorm",
         "epiNEM",
-        "ggdendro",
         "mnem"
     ],
     "NetActivity": [
@@ -9224,7 +9205,6 @@
         "bumphunter",
         "dbplyr",
         "genefilter",
-        "ggdendro",
         "minfi",
         "org.Hs.eg.db",
         "pandaR",
@@ -9243,7 +9223,6 @@
         "SingleCellExperiment"
     ],
     "ngsReports": [
-        "ggdendro",
         "patchwork",
         "plotly",
         "readr",
@@ -10030,7 +10009,6 @@
         "broom",
         "car",
         "dendextend",
-        "ggdendro",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -10690,7 +10668,6 @@
     ],
     "qPLEXanalyzer": [
         "MSnbase",
-        "ggdendro",
         "readr",
         "tidyr",
         "vsn"
@@ -11890,7 +11867,6 @@
     "sangeranalyseR": [
         "BiocStyle",
         "bookdown",
-        "ggdendro",
         "plotly",
         "tidyr"
     ],
@@ -13102,7 +13078,6 @@
         "dbplyr",
         "genefilter",
         "ggbeeswarm",
-        "ggdendro",
         "ggplotify",
         "ggrastr",
         "ggrepel",
@@ -13969,7 +13944,6 @@
         "dbplyr",
         "enrichplot",
         "fgsea",
-        "ggdendro",
         "ggforce",
         "ggfun",
         "gghighlight",
@@ -14813,7 +14787,6 @@
         "genefilter"
     ],
     "GO.db": [],
-    "ggdendro": [],
     "plotly": [
         "tidyr"
     ],
@@ -15264,9 +15237,7 @@
     ],
     "intergraph": [],
     "sna": [],
-    "superheat": [
-        "ggdendro"
-    ],
+    "superheat": [],
     "drtmle": [],
     "biscuiteerData": [
         "AnnotationHub",
