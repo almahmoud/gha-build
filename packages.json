@@ -6534,9 +6534,7 @@
         "testthat",
         "waldo"
     ],
-    "NormqPCR": [
-        "qpcR"
-    ],
+    "NormqPCR": [],
     "normr": [
         "rtracklayer"
     ],
@@ -11189,7 +11187,6 @@
         "testthat",
         "waldo"
     ],
-    "qpcR": [],
     "NxtIRFdata": [
         "AnnotationHub",
         "BiocFileCache",
