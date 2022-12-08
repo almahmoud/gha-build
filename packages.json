@@ -22949,7 +22949,6 @@
         "rtracklayer",
         "vctrs"
     ],
-    "MiPP": [],
     "miQC": [
         "DelayedArray",
         "GenomicRanges",
