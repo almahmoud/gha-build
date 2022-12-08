@@ -215,7 +215,6 @@
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylationEPICmanifest",
         "biovizBase",
-        "goseq",
         "lumi",
         "methylumi",
         "minfi",
@@ -739,7 +738,6 @@
     ],
     "gmapR": [],
     "GmicR": [],
-    "goseq": [],
     "goSorensen": [
         "clusterProfiler",
         "enrichplot"
@@ -793,7 +791,6 @@
         "minfi"
     ],
     "ideal": [
-        "goseq",
         "pcaExplorer"
     ],
     "igvR": [],
@@ -1482,9 +1479,7 @@
     "rfaRm": [],
     "RgnTX": [],
     "rGREAT": [],
-    "rgsepd": [
-        "goseq"
-    ],
+    "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [
         "ORFik"
@@ -1682,9 +1677,7 @@
         "minfi",
         "wateRmelon"
     ],
-    "SMITE": [
-        "goseq"
-    ],
+    "SMITE": [],
     "snm": [],
     "SNPhood": [],
     "sojourner": [
