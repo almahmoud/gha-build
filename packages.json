@@ -89208,7 +89208,6 @@
         "yaml",
         "yulab.utils"
     ],
-    "OSAT": [],
     "Oscope": [
         "BH",
         "BiocParallel",
