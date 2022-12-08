@@ -2472,8 +2472,7 @@
     ],
     "netDx": [],
     "netOmics": [
-        "RandomWalkRestartMH",
-        "dnet"
+        "RandomWalkRestartMH"
     ],
     "netSmooth": [
         "clusterExperiment"
@@ -2708,8 +2707,7 @@
         "OmaDB"
     ],
     "Pi": [
-        "caret",
-        "dnet"
+        "caret"
     ],
     "Pigengene": [
         "DOSE",
@@ -2901,9 +2899,7 @@
     "RadioGx": [
         "CoreGx"
     ],
-    "RandomWalkRestartMH": [
-        "dnet"
-    ],
+    "RandomWalkRestartMH": [],
     "RAREsim": [
         "nloptr"
     ],
@@ -4116,7 +4112,6 @@
     ],
     "deconstructSigs": [],
     "mppa": [],
-    "dnet": [],
     "RcmdrMisc": [
         "car",
         "lme4",
