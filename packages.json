@@ -2830,7 +2830,6 @@
         "latticeExtra",
         "org.Hs.eg.db",
         "pillar",
-        "rSpectral",
         "shiny",
         "stringr",
         "synaptome.data",
@@ -37171,7 +37170,6 @@
         "tibble",
         "tidyselect"
     ],
-    "rSpectral": [],
     "WGCNA": [
         "AnnotationDbi",
         "Biostrings",
