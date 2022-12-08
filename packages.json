@@ -3987,7 +3987,6 @@
         "ggtree",
         "treeio"
     ],
-    "rebook": [],
     "recount": [
         "GEOquery",
         "GenomicFeatures",
