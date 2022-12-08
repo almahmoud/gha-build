@@ -11071,7 +11071,6 @@
         "rtracklayer",
         "tidyr"
     ],
-    "SplicingFactory": [],
     "SplicingGraphs": [
         "BiocFileCache",
         "GenomicFeatures",
