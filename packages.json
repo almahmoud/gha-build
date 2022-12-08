@@ -263,7 +263,6 @@
     ],
     "missMethyl": [],
     "MMUPHin": [],
-    "MoonlightR": [],
     "MQmetrics": [
         "ggpubr",
         "rstatix"
