@@ -21311,7 +21311,6 @@
         "viridis"
     ],
     "GWAS.BAYES": [
-        "GA",
         "RcppEigen",
         "caret",
         "clock",
@@ -58993,7 +58992,6 @@
     ],
     "yeastExpData": [],
     "matchingR": [],
-    "GA": [],
     "BatchJobs": [
         "BBmisc",
         "RSQLite",
