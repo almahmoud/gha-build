@@ -2322,7 +2322,6 @@
         "ggraph",
         "ggtree"
     ],
-    "netDx": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
