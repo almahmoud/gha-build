@@ -17888,7 +17888,6 @@
         "vctrs",
         "viridis"
     ],
-    "fabia": [],
     "factDesign": [],
     "factR": [
         "AnnotationDbi",
@@ -23125,9 +23124,7 @@
         "tibble",
         "vctrs"
     ],
-    "hapFabia": [
-        "fabia"
-    ],
+    "hapFabia": [],
     "Harman": [
         "Ckmeans.1d.dp"
     ],
@@ -31636,7 +31633,6 @@
         "dtplyr",
         "e1071",
         "enrichplot",
-        "fabia",
         "fgsea",
         "flexclust",
         "forcats",
@@ -32661,7 +32657,6 @@
         "QUBIC",
         "biclust",
         "dplyr",
-        "fabia",
         "flexclust",
         "ggplot2",
         "igraph",
