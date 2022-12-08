@@ -570,7 +570,6 @@
         "ensembldb",
         "karyoploteR"
     ],
-    "CNVPanelizer": [],
     "CNVrd2": [
         "VariantAnnotation"
     ],
