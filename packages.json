@@ -1449,7 +1449,6 @@
     "dagLogo": [
         "CNEr",
         "TFBSTools",
-        "UniProt.ws",
         "biomaRt",
         "motifStack"
     ],
@@ -1804,7 +1803,6 @@
     "drawProteins": [],
     "drugTargetInteractions": [
         "GenomicFeatures",
-        "UniProt.ws",
         "biomaRt",
         "ensembldb"
     ],
@@ -6881,7 +6879,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "UniProt.ws": [],
     "Uniquorn": [
         "GenomicFeatures",
         "VariantAnnotation",
