@@ -43,9 +43,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "AMARETTO": [
-        "curatedTCGAData"
-    ],
+    "AMARETTO": [],
     "Anaquin": [
         "DESeq2"
     ],
@@ -191,7 +189,6 @@
     "biocGraph": [],
     "BiocOncoTK": [
         "car",
-        "curatedTCGAData",
         "ggpubr",
         "lme4",
         "pbkrtest",
@@ -3421,7 +3418,6 @@
     ],
     "lme4": [],
     "adductData": [],
-    "curatedTCGAData": [],
     "lmerTest": [
         "lme4"
     ],
