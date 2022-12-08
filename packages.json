@@ -515,7 +515,6 @@
     "sojourner": [
         "sampSurf"
     ],
-    "SomaticSignatures": [],
     "SpatialDecon": [],
     "spatzie": [],
     "SPONGE": [
@@ -576,9 +575,7 @@
     "vissE": [],
     "vulcan": [],
     "wateRmelon": [],
-    "YAPSA": [
-        "SomaticSignatures"
-    ],
+    "YAPSA": [],
     "yarn": [],
     "zenith": [],
     "ggpubr": [
