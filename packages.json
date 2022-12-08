@@ -4314,7 +4314,6 @@
         "arm",
         "benchmarkme",
         "benchmarkmeData",
-        "fastDummies",
         "lme4",
         "nloptr",
         "rematch2",
@@ -18581,7 +18580,6 @@
     "NBPSeq": [
         "qvalue"
     ],
-    "fastDummies": [],
     "hgu133a2.db": [
         "AnnotationDbi",
         "org.Hs.eg.db"
