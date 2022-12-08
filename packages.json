@@ -3252,7 +3252,6 @@
         "VariantAnnotation",
         "phastCons100way.UCSC.hg19"
     ],
-    "Rbec": [],
     "RCAS": [],
     "rCGH": [
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
