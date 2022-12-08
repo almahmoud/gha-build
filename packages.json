@@ -2151,7 +2151,6 @@
         "devtools"
     ],
     "mfa": [],
-    "MGFR": [],
     "mia": [
         "TreeSummarizedExperiment",
         "treeio"
@@ -3276,9 +3275,7 @@
         "EDASeq"
     ],
     "RVS": [],
-    "sampleClassifier": [
-        "MGFR"
-    ],
+    "sampleClassifier": [],
     "SBGNview": [],
     "scAlign": [],
     "SCAN.UPC": [],
