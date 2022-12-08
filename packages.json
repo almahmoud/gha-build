@@ -20682,7 +20682,6 @@
         "gstat",
         "haven",
         "lme4",
-        "lwgeom",
         "metR",
         "mice",
         "modelr",
@@ -25240,7 +25239,6 @@
         "tidyr"
     ],
     "gstat": [
-        "lwgeom",
         "sftime",
         "stars"
     ],
@@ -25250,10 +25248,7 @@
         "viridis"
     ],
     "sftime": [],
-    "stars": [
-        "lwgeom"
-    ],
-    "lwgeom": [],
+    "stars": [],
     "spsUtil": [],
     "spsComps": [
         "shinyAce",
