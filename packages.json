@@ -2580,7 +2580,6 @@
     ],
     "hiAnnotator": [],
     "HiCBricks": [],
-    "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicFeatures",
         "GenomicInteractions",
@@ -2590,7 +2589,6 @@
         "ensembldb"
     ],
     "HiCDOC": [
-        "HiCcompare",
         "car",
         "ggExtra",
         "ggpubr",
@@ -3809,9 +3807,7 @@
         "plyranges",
         "regioneR"
     ],
-    "multiHiCcompare": [
-        "HiCcompare"
-    ],
+    "multiHiCcompare": [],
     "multiSight": [
         "DESeq2",
         "DOSE",
@@ -5658,9 +5654,7 @@
         "motifmatchr"
     ],
     "SpeCond": [],
-    "SpectralTAD": [
-        "HiCcompare"
-    ],
+    "SpectralTAD": [],
     "SPIAT": [
         "SpatialExperiment",
         "plotly"
@@ -5869,7 +5863,6 @@
         "treeio"
     ],
     "TADCompare": [
-        "HiCcompare",
         "car",
         "ggpubr",
         "lme4",
