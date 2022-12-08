@@ -1153,7 +1153,6 @@
         "bsseq",
         "sva"
     ],
-    "DEP": [],
     "DepecheR": [],
     "derfinder": [
         "GenomicFeatures",
