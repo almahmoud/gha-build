@@ -44374,7 +44374,6 @@
         "GenomicRanges",
         "IRanges",
         "Matrix",
-        "Peptides",
         "RCurl",
         "Rsamtools",
         "SummarizedExperiment",
@@ -78006,7 +78005,6 @@
         "vctrs",
         "waldo"
     ],
-    "Peptides": [],
     "biomartr": [
         "AnnotationDbi",
         "BiocFileCache",
