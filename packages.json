@@ -1850,7 +1850,6 @@
         "progress",
         "purrr",
         "scales",
-        "sendmailR",
         "stringr",
         "survival",
         "tibble",
@@ -24067,7 +24066,6 @@
         "reshape",
         "rhdf5",
         "scales",
-        "sendmailR",
         "tibble",
         "vctrs"
     ],
@@ -39323,7 +39321,6 @@
         "blob",
         "doParallel",
         "memoise",
-        "sendmailR",
         "vctrs"
     ],
     "PAST": [
@@ -61785,7 +61782,6 @@
         "urltools"
     ],
     "urltools": [],
-    "sendmailR": [],
     "FDb.InfiniumMethylation.hg19": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -65983,7 +65979,6 @@
         "RSQLite",
         "blob",
         "memoise",
-        "sendmailR",
         "vctrs"
     ],
     "HiContactsData": [
