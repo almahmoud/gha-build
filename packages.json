@@ -3053,7 +3053,6 @@
         "lme4",
         "lmerTest"
     ],
-    "SigCheck": [],
     "signatureSearch": [
         "DOSE",
         "clusterProfiler",
