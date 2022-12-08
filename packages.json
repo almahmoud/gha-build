@@ -36585,7 +36585,6 @@
         "ggplot2",
         "hms",
         "latticeExtra",
-        "mclustcomp",
         "patchwork",
         "pillar",
         "progress",
@@ -46386,7 +46385,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "mclustcomp": [],
     "MLmetrics": [],
     "rsample": [
         "dplyr",
