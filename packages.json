@@ -4922,7 +4922,6 @@
         "ropls",
         "testthat"
     ],
-    "phenopath": [],
     "phenoTest": [
         "Category",
         "GSEABase",
