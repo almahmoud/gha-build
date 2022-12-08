@@ -1221,7 +1221,6 @@
         "tidyr"
     ],
     "BUSseq": [],
-    "CAEN": [],
     "CAFE": [
         "BSgenome",
         "BiocFileCache",
