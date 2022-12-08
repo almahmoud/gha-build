@@ -5678,7 +5678,6 @@
         "recipes",
         "tidyr"
     ],
-    "marr": [],
     "maser": [
         "BSgenome",
         "BiocFileCache",
