@@ -1335,7 +1335,6 @@
     "ELMER": [
         "GenomicFeatures",
         "Gviz",
-        "TCGAbiolinks",
         "VariantAnnotation",
         "biovizBase",
         "car",
@@ -2761,8 +2760,7 @@
     ],
     "miRLAB": [
         "Category",
-        "GOstats",
-        "TCGAbiolinks"
+        "GOstats"
     ],
     "miRSM": [
         "BiBitR",
@@ -2863,7 +2861,6 @@
     "MoonlightR": [
         "DOSE",
         "GEOquery",
-        "TCGAbiolinks",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -3041,7 +3038,6 @@
         "BSgenome.Hsapiens.UCSC.hg38",
         "FactoMineR",
         "GenomicFeatures",
-        "TCGAbiolinks",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "VariantAnnotation",
@@ -4617,13 +4613,11 @@
     "TCC": [
         "DESeq2"
     ],
-    "TCGAbiolinks": [],
     "TCGAbiolinksGUI": [
         "DOSE",
         "ELMER",
         "GenomicFeatures",
         "Gviz",
-        "TCGAbiolinks",
         "VariantAnnotation",
         "biovizBase",
         "car",
