@@ -1728,7 +1728,6 @@
         "GSEABase",
         "GSVA"
     ],
-    "esetVis": [],
     "evaluomeR": [
         "MultiAssayExperiment"
     ],
