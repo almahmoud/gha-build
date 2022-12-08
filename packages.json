@@ -108621,7 +108621,6 @@
         "proxy",
         "ps",
         "purrr",
-        "pwr",
         "quantreg",
         "rematch2",
         "rlang",
@@ -108732,7 +108731,6 @@
         "proxy",
         "ps",
         "purrr",
-        "pwr",
         "quantreg",
         "rematch2",
         "rlang",
@@ -108846,7 +108844,6 @@
         "proxy",
         "ps",
         "purrr",
-        "pwr",
         "quantreg",
         "rematch2",
         "rlang",
@@ -159253,7 +159250,6 @@
         "withr",
         "xtable"
     ],
-    "pwr": [],
     "bladderbatch": [
         "Biobase",
         "BiocGenerics"
