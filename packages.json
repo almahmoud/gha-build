@@ -568,10 +568,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "flowStats": [],
-    "flowVS": [
-        "flowStats"
-    ],
+    "flowVS": [],
     "fobitools": [],
     "FRASER": [
         "OUTRIDER"
