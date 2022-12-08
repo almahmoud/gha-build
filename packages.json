@@ -2982,7 +2982,6 @@
         "devtools",
         "testthat"
     ],
-    "paxtoolsr": [],
     "pcaExplorer": [
         "Category",
         "DESeq2",
