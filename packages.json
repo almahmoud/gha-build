@@ -2263,7 +2263,6 @@
         "Category",
         "GOstats"
     ],
-    "plotgardener": [],
     "plotGrouper": [
         "car",
         "ggpubr",
@@ -3090,8 +3089,7 @@
     "txcutr": [],
     "tximeta": [],
     "Ularcirc": [
-        "Organism.dplyr",
-        "plotgardener"
+        "Organism.dplyr"
     ],
     "UMI4Cats": [
         "DESeq2",
