@@ -226,7 +226,6 @@
         "affyio",
         "annotate",
         "askpass",
-        "aws",
         "bit64",
         "blob",
         "cachem",
@@ -31282,9 +31281,7 @@
         "viridis",
         "zoo"
     ],
-    "GLAD": [
-        "aws"
-    ],
+    "GLAD": [],
     "GladiaTOX": [
         "Matrix",
         "RCurl",
@@ -37593,7 +37590,6 @@
         "SummarizedExperiment",
         "XVector",
         "affyio",
-        "aws",
         "bit64",
         "blob",
         "cachem",
@@ -40225,8 +40221,7 @@
         "affyio"
     ],
     "MANOR": [
-        "GLAD",
-        "aws"
+        "GLAD"
     ],
     "mAPKL": [
         "AnnotationDbi",
@@ -70211,7 +70206,6 @@
         "ade4",
         "adehabitatLT",
         "adehabitatMA",
-        "aws",
         "doSNOW",
         "foreach",
         "sp"
@@ -72732,7 +72726,6 @@
         "affyio",
         "annotate",
         "askpass",
-        "aws",
         "bit64",
         "blob",
         "cachem",
@@ -84053,7 +84046,6 @@
     "globals": [],
     "R.oo": [],
     "ff": [],
-    "aws": [],
     "strucchange": [
         "sandwich",
         "zoo"
