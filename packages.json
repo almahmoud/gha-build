@@ -3322,7 +3322,6 @@
     "singleCellTK": [
         "DESeq2",
         "GSVA",
-        "GSVAdata",
         "M3Drop",
         "SoupX",
         "TENxPBMCData",
@@ -4102,7 +4101,6 @@
         "rstatix",
         "survminer"
     ],
-    "GSVAdata": [],
     "SoupX": [],
     "scRNAseq": [
         "ensembldb"
