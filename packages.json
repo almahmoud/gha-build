@@ -44,8 +44,7 @@
         "Gviz"
     ],
     "ATACCoGAPS": [
-        "projectR",
-        "rGREAT"
+        "projectR"
     ],
     "ATACseqQC": [],
     "ATACseqTFEA": [],
@@ -1134,8 +1133,7 @@
     ],
     "profileplyr": [
         "ChIPseeker",
-        "enrichplot",
-        "rGREAT"
+        "enrichplot"
     ],
     "projectR": [],
     "pRolocGUI": [],
@@ -1209,7 +1207,6 @@
     ],
     "rfaRm": [],
     "RgnTX": [],
-    "rGREAT": [],
     "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [
