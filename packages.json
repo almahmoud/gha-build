@@ -453,7 +453,6 @@
     "Pigengene": [
         "ReactomePA"
     ],
-    "PING": [],
     "plotGrouper": [
         "ggpubr",
         "rstatix"
