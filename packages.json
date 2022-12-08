@@ -1427,7 +1427,6 @@
         "testthat"
     ],
     "decoupleR": [],
-    "DeepBlueR": [],
     "DeepPINCS": [
         "DiagrammeR",
         "keras",
