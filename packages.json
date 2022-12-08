@@ -2832,7 +2832,6 @@
     "escape": [
         "GSEABase",
         "GSVA",
-        "UCell",
         "annotate",
         "broom"
     ],
@@ -8950,7 +8949,6 @@
         "biomaRt",
         "ensembldb"
     ],
-    "UCell": [],
     "Ularcirc": [
         "AnnotationHub",
         "BSgenome",
