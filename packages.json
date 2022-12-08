@@ -1148,7 +1148,6 @@
         "BiocFileCache",
         "dbplyr",
         "readr",
-        "rorcid",
         "rvest",
         "vroom"
     ],
@@ -17728,7 +17727,6 @@
     ],
     "ggfun": [],
     "ggplotify": [],
-    "rorcid": [],
     "rms": [
         "Hmisc",
         "viridis"
