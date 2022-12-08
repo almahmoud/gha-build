@@ -3963,7 +3963,6 @@
         "devtools",
         "testthat"
     ],
-    "OPWeight": [],
     "ORFhunteR": [
         "BSgenome.Hsapiens.UCSC.hg38"
     ],
