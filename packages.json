@@ -8066,7 +8066,6 @@
         "testthat",
         "waldo"
     ],
-    "scds": [],
     "scGPS": [
         "DESeq2",
         "annotate",
@@ -8509,7 +8508,6 @@
         "scMerge",
         "scRNAseq",
         "scater",
-        "scds",
         "scran",
         "scuttle",
         "sva",
