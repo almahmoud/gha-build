@@ -7604,7 +7604,6 @@
         "tidyselect",
         "viridis"
     ],
-    "cytoMEM": [],
     "CytoML": [
         "dplyr",
         "flowClust",
