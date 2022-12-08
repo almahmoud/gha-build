@@ -10339,7 +10339,6 @@
         "ggridges",
         "gridExtra",
         "irlba",
-        "kSamples",
         "lambda.r",
         "lifecycle",
         "mgcv",
@@ -55785,7 +55784,6 @@
         "htmlwidgets",
         "httr",
         "igraph",
-        "kSamples",
         "lambda.r",
         "later",
         "lgr",
@@ -71217,7 +71215,6 @@
         "igraph",
         "inaparc",
         "jquerylib",
-        "kSamples",
         "kknn",
         "km.ci",
         "knitr",
@@ -83345,7 +83342,6 @@
         "htmlwidgets",
         "httr",
         "interp",
-        "kSamples",
         "knitr",
         "lambda.r",
         "latticeExtra",
@@ -88574,7 +88570,6 @@
         "sp"
     ],
     "magic": [],
-    "kSamples": [],
     "cba": [],
     "dtw": [],
     "EnvStats": [
@@ -94572,7 +94567,6 @@
         "BWStest",
         "Rmpfr",
         "cachem",
-        "kSamples",
         "memoise"
     ],
     "BWStest": [
