@@ -1398,7 +1398,6 @@
         "scuttle",
         "tidyr"
     ],
-    "cellscape": [],
     "CellTrails": [
         "EnvStats",
         "dendextend"
