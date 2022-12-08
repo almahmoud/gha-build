@@ -1508,7 +1508,6 @@
         "devtools",
         "pkgdown",
         "rematch2",
-        "roxygen2",
         "testthat",
         "waldo"
     ],
@@ -2655,7 +2654,6 @@
         "devtools",
         "pkgdown",
         "rematch2",
-        "roxygen2",
         "testthat",
         "tidyr",
         "waldo"
@@ -5518,7 +5516,6 @@
         "devtools",
         "pkgdown",
         "rematch2",
-        "roxygen2",
         "testthat",
         "waldo"
     ],
@@ -6886,7 +6883,6 @@
         "devtools",
         "pkgdown",
         "rematch2",
-        "roxygen2",
         "testthat",
         "waldo"
     ],
@@ -7004,7 +7000,6 @@
         "plotly",
         "readxl",
         "rematch2",
-        "roxygen2",
         "rstatix",
         "shinyFiles",
         "shinydashboard",
@@ -8368,7 +8363,6 @@
         "readxl",
         "rematch2",
         "reprex",
-        "roxygen2",
         "rstatix",
         "rtracklayer",
         "rvest",
@@ -8499,7 +8493,6 @@
         "devtools",
         "pkgdown",
         "rematch2",
-        "roxygen2",
         "testthat",
         "waldo"
     ],
@@ -8663,7 +8656,6 @@
         "gson",
         "patchwork",
         "qvalue",
-        "roxygen2",
         "scatterpie",
         "shadowtext",
         "shinycustomloader",
@@ -9609,7 +9601,6 @@
         "recipes",
         "rematch2",
         "ropls",
-        "roxygen2",
         "scatterpie",
         "shadowtext",
         "shinydashboard",
@@ -10437,7 +10428,6 @@
         "devtools",
         "pkgdown",
         "rematch2",
-        "roxygen2",
         "testthat",
         "waldo"
     ],
@@ -10674,7 +10664,6 @@
         "pkgdown",
         "plotly",
         "rematch2",
-        "roxygen2",
         "testthat",
         "tidyr",
         "waldo"
@@ -12444,7 +12433,6 @@
         "org.Mm.eg.db",
         "pkgdown",
         "rematch2",
-        "roxygen2",
         "rtracklayer",
         "testthat",
         "waldo"
@@ -14482,7 +14470,6 @@
         "geneplotter",
         "pkgdown",
         "rematch2",
-        "roxygen2",
         "rtracklayer",
         "testthat",
         "viridis",
@@ -15495,7 +15482,6 @@
     "tripr": [
         "golem",
         "plotly",
-        "roxygen2",
         "shinyFiles",
         "tidyr"
     ],
@@ -15973,7 +15959,6 @@
     ],
     "wpm": [
         "golem",
-        "roxygen2",
         "shinycustomloader",
         "shinydashboard"
     ],
@@ -16666,12 +16651,10 @@
     "devtools": [
         "pkgdown",
         "rematch2",
-        "roxygen2",
         "testthat",
         "waldo"
     ],
     "pkgdown": [],
-    "roxygen2": [],
     "ggtext": [],
     "vcfR": [],
     "sqldf": [],
@@ -17238,9 +17221,7 @@
         "rtracklayer"
     ],
     "concaveman": [],
-    "golem": [
-        "roxygen2"
-    ],
+    "golem": [],
     "AdaptGauss": [
         "DataVisualizations"
     ],
@@ -17458,7 +17439,6 @@
         "devtools",
         "pkgdown",
         "rematch2",
-        "roxygen2",
         "testthat",
         "waldo"
     ],
