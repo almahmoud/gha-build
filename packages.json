@@ -254,16 +254,13 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "GeoDiff": [
-        "GeomxTools"
-    ],
+    "GeoDiff": [],
     "GEOexplorer": [
         "FactoMineR",
         "factoextra",
         "ggpubr",
         "rstatix"
     ],
-    "GeomxTools": [],
     "GEWIST": [],
     "glmSparseNet": [
         "ggpubr",
@@ -642,9 +639,7 @@
         "sampSurf"
     ],
     "SomaticSignatures": [],
-    "SpatialDecon": [
-        "GeomxTools"
-    ],
+    "SpatialDecon": [],
     "spatzie": [
         "GenomicInteractions"
     ],
