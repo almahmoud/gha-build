@@ -1669,7 +1669,6 @@
         "enrichplot",
         "ggtree"
     ],
-    "Motif2Site": [],
     "motifbreakR": [
         "Gviz",
         "VariantAnnotation",
