@@ -8816,7 +8816,6 @@
         "transport",
         "vctrs"
     ],
-    "CORREP": [],
     "coseq": [
         "AnnotationDbi",
         "BiocParallel",
