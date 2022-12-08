@@ -6378,7 +6378,6 @@
         "BiocFileCache",
         "biomaRt",
         "bsplus",
-        "learnr",
         "readr",
         "sortable",
         "tidyr"
@@ -8434,7 +8433,6 @@
         "ggsci",
         "ggseqlogo",
         "ggsignif",
-        "learnr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -14971,11 +14969,8 @@
     "hgu95av2.db": [
         "org.Hs.eg.db"
     ],
-    "sortable": [
-        "learnr"
-    ],
+    "sortable": [],
     "bsplus": [],
-    "learnr": [],
     "reldist": [
         "densEstBayes",
         "rstan"
