@@ -10038,7 +10038,6 @@
         "genefilter",
         "pwrEWAS.data"
     ],
-    "qckitfastq": [],
     "QDNAseq": [],
     "QFeatures": [
         "MultiAssayExperiment",
