@@ -815,7 +815,6 @@
         "SPONGE",
         "car",
         "clusterProfiler",
-        "cvms",
         "enrichplot",
         "ggpubr",
         "miRspongeR",
@@ -827,7 +826,6 @@
         "SPONGE",
         "car",
         "clusterProfiler",
-        "cvms",
         "enrichplot",
         "ggpubr",
         "pbkrtest",
@@ -1293,7 +1291,6 @@
     ],
     "SPONGE": [
         "car",
-        "cvms",
         "ggpubr",
         "pbkrtest",
         "rstatix"
@@ -1500,7 +1497,6 @@
     "klaR": [],
     "FlowSorted.Blood.450k": [],
     "methylclockData": [],
-    "cvms": [],
     "blme": [],
     "mppa": [],
     "RcmdrMisc": [
