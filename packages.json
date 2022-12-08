@@ -66,7 +66,6 @@
         "ReactomePA",
         "car",
         "clusterProfiler",
-        "enrichplot",
         "pbkrtest",
         "radiant.data"
     ],
@@ -125,8 +124,7 @@
         "pbkrtest"
     ],
     "CEMiTool": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "censcyt": [
         "FlowSOM",
@@ -140,7 +138,6 @@
         "GenomicTools",
         "car",
         "clusterProfiler",
-        "enrichplot",
         "ggpubr",
         "pbkrtest",
         "rstatix"
@@ -165,9 +162,7 @@
         "Gviz"
     ],
     "ChIPQC": [],
-    "ChIPseeker": [
-        "enrichplot"
-    ],
+    "ChIPseeker": [],
     "cicero": [
         "Gviz"
     ],
@@ -178,9 +173,7 @@
     "CiteFuse": [
         "propr"
     ],
-    "clusterProfiler": [
-        "enrichplot"
-    ],
+    "clusterProfiler": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "karyoploteR"
@@ -207,7 +200,6 @@
         "FactoMineR",
         "car",
         "clusterProfiler",
-        "enrichplot",
         "factoextra",
         "ggpubr",
         "pbkrtest",
@@ -281,8 +273,7 @@
         "pbkrtest"
     ],
     "debrowser": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "deconvR": [
         "rsq"
@@ -340,15 +331,13 @@
         "rstatix"
     ],
     "EasyCellType": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "edge": [
         "snm"
     ],
     "eegc": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "ELMER": [
         "Gviz",
@@ -359,18 +348,15 @@
     ],
     "enhancerHomologSearch": [],
     "ENmix": [],
-    "enrichplot": [],
     "enrichTF": [
         "car",
         "clusterProfiler",
-        "enrichplot",
         "ggpubr",
         "pbkrtest",
         "rstatix"
     ],
     "EpiCompare": [
-        "ChIPseeker",
-        "enrichplot"
+        "ChIPseeker"
     ],
     "epidecodeR": [
         "car",
@@ -386,8 +372,7 @@
     ],
     "epihet": [
         "EntropyExplorer",
-        "ReactomePA",
-        "enrichplot"
+        "ReactomePA"
     ],
     "epimutacions": [
         "Gviz",
@@ -400,8 +385,7 @@
     "erma": [],
     "esATAC": [
         "ChIPseeker",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "EWCE": [
         "car",
@@ -416,13 +400,11 @@
         "Gviz"
     ],
     "famat": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "fastLiquidAssociation": [],
     "fcoex": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "ffpe": [
         "lumi",
@@ -481,7 +463,6 @@
     "GDCRNATools": [
         "car",
         "clusterProfiler",
-        "enrichplot",
         "ggpubr",
         "pbkrtest",
         "rstatix",
@@ -552,8 +533,7 @@
     ],
     "GmicR": [],
     "goSorensen": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "GRmetrics": [
         "car",
@@ -617,7 +597,6 @@
     "IRISFGM": [
         "car",
         "clusterProfiler",
-        "enrichplot",
         "ggpubr",
         "pbkrtest",
         "rstatix"
@@ -677,8 +656,7 @@
         "methylumi"
     ],
     "MAGeCKFlute": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "MAIT": [
         "agricolae",
@@ -714,9 +692,7 @@
         "drc",
         "pbkrtest"
     ],
-    "meshes": [
-        "enrichplot"
-    ],
+    "meshes": [],
     "MetaboSignal": [
         "MWASTools",
         "car",
@@ -731,8 +707,7 @@
     ],
     "metagene": [],
     "MetaPhOR": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "metaseqR2": [
         "DSS"
@@ -768,7 +743,6 @@
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylationEPICmanifest",
         "clusterProfiler",
-        "enrichplot",
         "methylumi",
         "missMethyl"
     ],
@@ -794,8 +768,7 @@
         "mia"
     ],
     "MicrobiomeProfiler": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "MicrobiotaProcess": [
         "ggtreeExtra"
@@ -811,7 +784,6 @@
         "SPONGE",
         "car",
         "clusterProfiler",
-        "enrichplot",
         "ggpubr",
         "miRspongeR",
         "pbkrtest",
@@ -822,7 +794,6 @@
         "SPONGE",
         "car",
         "clusterProfiler",
-        "enrichplot",
         "ggpubr",
         "pbkrtest",
         "rstatix"
@@ -843,8 +814,7 @@
         "pbkrtest"
     ],
     "MoonlightR": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "motifbreakR": [
         "Gviz"
@@ -900,8 +870,7 @@
     ],
     "multiSight": [
         "ReactomePA",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "muscat": [
         "blme",
@@ -934,8 +903,7 @@
     ],
     "netbiov": [],
     "netboxr": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "netOmics": [],
     "netZooR": [
@@ -1008,8 +976,7 @@
     ],
     "pageRank": [],
     "PanomiR": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "pcaExplorer": [],
     "PDATK": [
@@ -1020,8 +987,7 @@
         "survminer"
     ],
     "PFP": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "PhenStat": [
         "car",
@@ -1036,8 +1002,7 @@
     ],
     "Pigengene": [
         "ReactomePA",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "PING": [
         "Gviz"
@@ -1058,8 +1023,7 @@
         "pvca"
     ],
     "profileplyr": [
-        "ChIPseeker",
-        "enrichplot"
+        "ChIPseeker"
     ],
     "projectR": [],
     "pRolocGUI": [],
@@ -1097,9 +1061,7 @@
     "R3CPET": [
         "ggbio"
     ],
-    "ReactomePA": [
-        "enrichplot"
-    ],
+    "ReactomePA": [],
     "recount": [
         "derfinder"
     ],
@@ -1162,7 +1124,6 @@
         "FactoMineR",
         "car",
         "clusterProfiler",
-        "enrichplot",
         "factoextra",
         "ggpubr",
         "pbkrtest",
@@ -1216,13 +1177,11 @@
         "ggbio"
     ],
     "scTensor": [
-        "ReactomePA",
-        "enrichplot"
+        "ReactomePA"
     ],
     "scTreeViz": [],
     "segmenter": [
-        "ChIPseeker",
-        "enrichplot"
+        "ChIPseeker"
     ],
     "selectKSigs": [],
     "shinyepico": [],
@@ -1233,8 +1192,7 @@
         "lmerTest"
     ],
     "signatureSearch": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "signeR": [
         "car",
@@ -1337,7 +1295,6 @@
         "Gviz",
         "car",
         "clusterProfiler",
-        "enrichplot",
         "ggpubr",
         "pbkrtest",
         "rstatix"
@@ -1350,8 +1307,7 @@
         "propr"
     ],
     "TimiRGeN": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "TNBC.CMS": [
         "car",
