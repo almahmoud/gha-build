@@ -761,7 +761,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "HybridMTest",
         "KEGGREST",
         "RSQLite",
         "Rsamtools",
@@ -12924,7 +12923,6 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "HybridMTest": [],
     "hypeR": [
         "babelgene",
         "dplyr",
