@@ -15,7 +15,6 @@
         "testthat"
     ],
     "adductomicsR": [
-        "ExperimentHub",
         "adductData"
     ],
     "AffiXcan": [],
@@ -61,7 +60,6 @@
     ],
     "AlpsNMR": [],
     "AMARETTO": [
-        "ExperimentHub",
         "curatedTCGAData"
     ],
     "Anaquin": [
@@ -308,7 +306,6 @@
     "BiocDockerManager": [],
     "biocGraph": [],
     "BiocOncoTK": [
-        "ExperimentHub",
         "GenomicFeatures",
         "car",
         "curatedTCGAData",
@@ -386,7 +383,6 @@
         "ensembldb"
     ],
     "biscuiteer": [
-        "ExperimentHub",
         "GenomicFeatures",
         "Homo.sapiens",
         "Mus.musculus",
@@ -412,7 +408,6 @@
         "PADOG"
     ],
     "BloodGen3Module": [
-        "ExperimentHub",
         "testthat"
     ],
     "bnbc": [
@@ -625,7 +620,6 @@
     "ChAMP": [
         "DMRcate",
         "DSS",
-        "ExperimentHub",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
         "GenomicFeatures",
@@ -831,7 +825,6 @@
         "ensembldb"
     ],
     "coMethDMR": [
-        "ExperimentHub",
         "GenomicFeatures",
         "bumphunter",
         "lme4",
@@ -939,14 +932,12 @@
     ],
     "crisprBwa": [],
     "crisprDesign": [
-        "ExperimentHub",
         "GenomicFeatures",
         "VariantAnnotation",
         "crisprScore",
         "crisprScoreData"
     ],
     "crisprScore": [
-        "ExperimentHub",
         "crisprScoreData"
     ],
     "CRISPRseek": [],
@@ -961,7 +952,6 @@
         "rio"
     ],
     "crisprVerse": [
-        "ExperimentHub",
         "GenomicFeatures",
         "Gviz",
         "VariantAnnotation",
@@ -973,7 +963,6 @@
         "ensembldb"
     ],
     "crisprViz": [
-        "ExperimentHub",
         "GenomicFeatures",
         "Gviz",
         "VariantAnnotation",
@@ -1259,7 +1248,6 @@
     ],
     "DMRcate": [
         "DSS",
-        "ExperimentHub",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
         "GenomicFeatures",
@@ -1327,7 +1315,6 @@
     ],
     "easier": [
         "DESeq2",
-        "ExperimentHub",
         "car",
         "decoupleR",
         "dorothea",
@@ -1408,7 +1395,6 @@
         "motifmatchr"
     ],
     "ENmix": [
-        "ExperimentHub",
         "GEOquery",
         "GenomicFeatures",
         "bumphunter",
@@ -1490,12 +1476,10 @@
     ],
     "EpiMix": [
         "EpiMix.data",
-        "ExperimentHub",
         "GEOquery",
         "GenomicFeatures"
     ],
     "epimutacions": [
-        "ExperimentHub",
         "GEOquery",
         "GenomicFeatures",
         "Gviz",
@@ -1581,7 +1565,6 @@
         "SGSeq"
     ],
     "EWCE": [
-        "ExperimentHub",
         "car",
         "ewceData",
         "ggpubr",
@@ -1600,10 +1583,8 @@
         "DESeq2",
         "GenomicFeatures"
     ],
-    "ExperimentHub": [],
     "ExperimentHubData": [
         "AnnotationHubData",
-        "ExperimentHub",
         "GenomicFeatures",
         "OrganismDbi"
     ],
@@ -2056,8 +2037,7 @@
         "testthat"
     ],
     "GSEABenchmarkeR": [
-        "EnrichmentBrowser",
-        "ExperimentHub"
+        "EnrichmentBrowser"
     ],
     "gsean": [
         "PPInfer"
@@ -2138,7 +2118,6 @@
         "testthat"
     ],
     "HiContacts": [
-        "ExperimentHub",
         "GenomicFeatures",
         "GenomicInteractions",
         "Gviz",
@@ -2314,9 +2293,7 @@
         "rio"
     ],
     "iSEEhex": [],
-    "iSEEhub": [
-        "ExperimentHub"
-    ],
+    "iSEEhub": [],
     "iSEEu": [
         "iSEEhex"
     ],
@@ -2443,9 +2420,7 @@
         "cBioPortalData",
         "motifStack"
     ],
-    "LRcell": [
-        "ExperimentHub"
-    ],
+    "LRcell": [],
     "lumi": [
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -2461,7 +2436,6 @@
     ],
     "M3Drop": [],
     "m6Aboost": [
-        "ExperimentHub",
         "adabag",
         "caret"
     ],
@@ -2484,9 +2458,7 @@
         "pbkrtest",
         "testthat"
     ],
-    "MACSr": [
-        "ExperimentHub"
-    ],
+    "MACSr": [],
     "MADSEQ": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicFeatures",
@@ -2504,7 +2476,6 @@
     ],
     "MAGeCKFlute": [
         "DOSE",
-        "ExperimentHub",
         "clusterProfiler",
         "depmap",
         "enrichplot",
@@ -2701,7 +2672,6 @@
     ],
     "methInheritSim": [],
     "MethReg": [
-        "ExperimentHub",
         "car",
         "ggpubr",
         "lme4",
@@ -2731,7 +2701,6 @@
     ],
     "methylclock": [
         "AnnotationHubData",
-        "ExperimentHub",
         "ExperimentHubData",
         "GEOquery",
         "GenomicFeatures",
@@ -3330,13 +3299,11 @@
     "npGSEA": [],
     "nullranges": [],
     "NxtIRFcore": [
-        "ExperimentHub",
         "NxtIRFdata"
     ],
     "octad": [
         "DESeq2",
         "EDASeq",
-        "ExperimentHub",
         "GSVA",
         "GenomicFeatures",
         "RUVSeq",
@@ -3592,7 +3559,6 @@
         "testthat"
     ],
     "PhyloProfile": [
-        "ExperimentHub",
         "OmaDB"
     ],
     "Pi": [
@@ -3799,7 +3765,6 @@
     ],
     "pwOmics": [],
     "pwrEWAS": [
-        "ExperimentHub",
         "pwrEWAS.data"
     ],
     "QFeatures": [],
@@ -3980,9 +3945,7 @@
     "RESOLVE": [
         "BSgenome.Hsapiens.1000genomes.hs37d5"
     ],
-    "restfulSE": [
-        "ExperimentHub"
-    ],
+    "restfulSE": [],
     "rexposome": [
         "FactoMineR",
         "car",
@@ -4070,7 +4033,6 @@
     ],
     "RJMCMCNucleosomes": [],
     "RLSeq": [
-        "ExperimentHub",
         "GenomicFeatures",
         "RLHub",
         "caret",
@@ -4281,7 +4243,6 @@
         "caret"
     ],
     "SCATE": [
-        "ExperimentHub",
         "SCATEData"
     ],
     "scBFA": [
@@ -4425,15 +4386,12 @@
     "SeqGSEA": [
         "DESeq2"
     ],
-    "SeqSQC": [
-        "ExperimentHub"
-    ],
+    "SeqSQC": [],
     "SeqVarTools": [
         "logistf",
         "mice"
     ],
     "sesame": [
-        "ExperimentHub",
         "sesameData"
     ],
     "SEtools": [
@@ -4469,7 +4427,6 @@
     ],
     "signatureSearch": [
         "DOSE",
-        "ExperimentHub",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -4523,7 +4480,6 @@
     "SingleCellSignalR": [],
     "singleCellTK": [
         "DESeq2",
-        "ExperimentHub",
         "GSVA",
         "GSVAdata",
         "GenomicFeatures",
@@ -4654,7 +4610,6 @@
     "spiky": [],
     "splatter": [],
     "SpliceWiz": [
-        "ExperimentHub",
         "NxtIRFdata",
         "heatmaply"
     ],
@@ -4854,7 +4809,6 @@
     "TCGAbiolinksGUI": [
         "DOSE",
         "ELMER",
-        "ExperimentHub",
         "GenomicFeatures",
         "Gviz",
         "TCGAbiolinks",
@@ -4889,7 +4843,6 @@
     ],
     "TENxIO": [],
     "tenXplore": [
-        "ExperimentHub",
         "ontoProc",
         "restfulSE"
     ],
@@ -5121,7 +5074,6 @@
         "heatmaply"
     ],
     "vissE": [
-        "ExperimentHub",
         "ggraph",
         "lexicon",
         "msigdb",
@@ -5245,12 +5197,8 @@
     "nloptr": [
         "testthat"
     ],
-    "adductData": [
-        "ExperimentHub"
-    ],
-    "curatedTCGAData": [
-        "ExperimentHub"
-    ],
+    "adductData": [],
+    "curatedTCGAData": [],
     "lmerTest": [
         "lme4",
         "nloptr",
@@ -5342,9 +5290,7 @@
         "synaptome.data"
     ],
     "synaptome.data": [],
-    "biscuiteerData": [
-        "ExperimentHub"
-    ],
+    "biscuiteerData": [],
     "pasilla": [
         "DESeq2",
         "DEXSeq"
@@ -5457,9 +5403,7 @@
         "mixtools",
         "viper"
     ],
-    "crisprScoreData": [
-        "ExperimentHub"
-    ],
+    "crisprScoreData": [],
     "highcharter": [],
     "RFOC": [],
     "mbest": [
@@ -5497,16 +5441,10 @@
         "pbkrtest",
         "testthat"
     ],
-    "easierData": [
-        "ExperimentHub"
-    ],
+    "easierData": [],
     "EntropyExplorer": [],
-    "EpiMix.data": [
-        "ExperimentHub"
-    ],
-    "ewceData": [
-        "ExperimentHub"
-    ],
+    "EpiMix.data": [],
+    "ewceData": [],
     "homologene": [],
     "gprofiler2": [],
     "gap": [],
@@ -5537,9 +5475,7 @@
     ],
     "ggalt": [],
     "gRain": [],
-    "HiContactsData": [
-        "ExperimentHub"
-    ],
+    "HiContactsData": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "GenomicFeatures"
     ],
@@ -5555,9 +5491,7 @@
         "nloptr",
         "testthat"
     ],
-    "depmap": [
-        "ExperimentHub"
-    ],
+    "depmap": [],
     "agricolae": [
         "haven",
         "klaR",
@@ -5583,9 +5517,7 @@
         "GenomicFeatures",
         "ensembldb"
     ],
-    "sesameData": [
-        "ExperimentHub"
-    ],
+    "sesameData": [],
     "FlowSorted.Blood.450k": [
         "GEOquery",
         "GenomicFeatures",
@@ -5594,7 +5526,6 @@
     ],
     "methylclockData": [
         "AnnotationHubData",
-        "ExperimentHub",
         "ExperimentHubData",
         "GenomicFeatures",
         "OrganismDbi"
@@ -5635,12 +5566,8 @@
         "pbkrtest",
         "testthat"
     ],
-    "NxtIRFdata": [
-        "ExperimentHub"
-    ],
-    "octad.db": [
-        "ExperimentHub"
-    ],
+    "NxtIRFdata": [],
+    "octad.db": [],
     "diceR": [
         "haven",
         "klaR",
@@ -5673,9 +5600,7 @@
         "GenomicFeatures",
         "ensembldb"
     ],
-    "pwrEWAS.data": [
-        "ExperimentHub"
-    ],
+    "pwrEWAS.data": [],
     "phastCons100way.UCSC.hg19": [
         "GenomicScores"
     ],
@@ -5685,12 +5610,8 @@
     "caretEnsemble": [
         "caret"
     ],
-    "RLHub": [
-        "ExperimentHub"
-    ],
-    "SCATEData": [
-        "ExperimentHub"
-    ],
+    "RLHub": [],
+    "SCATEData": [],
     "Rmagic": [],
     "clustree": [
         "ggraph"
@@ -5706,21 +5627,16 @@
         "testthat"
     ],
     "openair": [],
-    "celldex": [
-        "ExperimentHub"
-    ],
+    "celldex": [],
     "GSVAdata": [],
     "SoupX": [
         "Seurat"
     ],
     "scRNAseq": [
-        "ExperimentHub",
         "GenomicFeatures",
         "ensembldb"
     ],
-    "TENxPBMCData": [
-        "ExperimentHub"
-    ],
+    "TENxPBMCData": [],
     "sampSurf": [],
     "MESS": [
         "geepack",
@@ -5744,7 +5660,5 @@
         "kml"
     ],
     "kml": [],
-    "msigdb": [
-        "ExperimentHub"
-    ]
+    "msigdb": []
 }
