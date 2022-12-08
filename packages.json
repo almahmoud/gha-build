@@ -960,7 +960,6 @@
     "drugTargetInteractions": [
         "ensembldb"
     ],
-    "DrugVsDisease": [],
     "DSS": [],
     "easier": [
         "DESeq2",
