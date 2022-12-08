@@ -20576,7 +20576,6 @@
         "tidyr",
         "viridis"
     ],
-    "scTHI": [],
     "scTreeViz": [
         "AnnotationDbi",
         "AnnotationFilter",
