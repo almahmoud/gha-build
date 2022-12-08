@@ -252,7 +252,6 @@
         "ggbio"
     ],
     "CAGEr": [],
-    "CAMERA": [],
     "canceR": [
         "phenoTest"
     ],
@@ -924,9 +923,7 @@
         "methylumi",
         "minfi"
     ],
-    "flagme": [
-        "CAMERA"
-    ],
+    "flagme": [],
     "FLAMES": [
         "VariantAnnotation",
         "biovizBase",
@@ -1308,9 +1305,7 @@
         "rstatix",
         "survminer"
     ],
-    "IPO": [
-        "CAMERA"
-    ],
+    "IPO": [],
     "IRISFGM": [
         "DOSE",
         "car",
@@ -1388,9 +1383,7 @@
         "lmerTest",
         "spicyR"
     ],
-    "LOBSTAHS": [
-        "CAMERA"
-    ],
+    "LOBSTAHS": [],
     "LowMACA": [
         "RTCGAToolbox",
         "TCGAutils",
@@ -1443,7 +1436,6 @@
     ],
     "MAI": [],
     "MAIT": [
-        "CAMERA",
         "agricolae",
         "klaR",
         "questionr"
@@ -1532,9 +1524,7 @@
     "metagene": [
         "EnsDb.Hsapiens.v86"
     ],
-    "metaMS": [
-        "CAMERA"
-    ],
+    "metaMS": [],
     "MetaPhOR": [
         "DOSE",
         "clusterProfiler",
