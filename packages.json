@@ -1021,7 +1021,6 @@
     "GmicR": [
         "GOstats"
     ],
-    "GNET2": [],
     "goseq": [],
     "goSorensen": [
         "clusterProfiler",
