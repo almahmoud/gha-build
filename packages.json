@@ -3181,9 +3181,7 @@
         "broom",
         "geneplotter"
     ],
-    "ITALICS": [
-        "pd.mapping50k.xba240"
-    ],
+    "ITALICS": [],
     "IVAS": [
         "GenomicFeatures",
         "biomaRt",
@@ -7539,7 +7537,6 @@
         "haven",
         "rio"
     ],
-    "pd.mapping50k.xba240": [],
     "hgu95av2.db": [],
     "reldist": [],
     "adabag": [
