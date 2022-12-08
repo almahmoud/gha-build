@@ -2100,7 +2100,6 @@
         "GenomicFiles",
         "QuasR"
     ],
-    "singscore": [],
     "SISPA": [],
     "sitePath": [
         "ggtree"
@@ -2228,9 +2227,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "TBSignatureProfiler": [
-        "singscore"
-    ],
+    "TBSignatureProfiler": [],
     "TCC": [],
     "TCGAbiolinksGUI": [
         "ELMER",
