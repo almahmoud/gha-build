@@ -243,7 +243,6 @@
         "wateRmelon"
     ],
     "ChIC": [
-        "ChIC.data",
         "spp"
     ],
     "chimeraviz": [
@@ -2150,7 +2149,6 @@
         "minfi"
     ],
     "spp": [],
-    "ChIC.data": [],
     "propr": [],
     "factoextra": [
         "FactoMineR",
