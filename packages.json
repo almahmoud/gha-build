@@ -683,7 +683,6 @@
     "countsimQC": [
         "DESeq2"
     ],
-    "cpvSNP": [],
     "crisprDesign": [
         "VariantAnnotation",
         "crisprScore",
