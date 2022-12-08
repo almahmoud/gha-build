@@ -1104,7 +1104,6 @@
         "knitr",
         "lambda.r",
         "lifecycle",
-        "limSolve",
         "memoise",
         "mgcv",
         "missForest",
@@ -4976,7 +4975,6 @@
         "hyperdraw",
         "hypergraph",
         "lifecycle",
-        "limSolve",
         "rsbml",
         "stringr",
         "vctrs"
@@ -17895,7 +17893,6 @@
         "Matrix",
         "ggplot2",
         "lifecycle",
-        "limSolve",
         "mgcv",
         "pcaMethods",
         "pillar",
@@ -20953,7 +20950,6 @@
         "later",
         "libcoin",
         "lifecycle",
-        "limSolve",
         "lme4",
         "locfit",
         "memoise",
@@ -30206,7 +30202,6 @@
         "jquerylib",
         "knitr",
         "lifecycle",
-        "limSolve",
         "lubridate",
         "memoise",
         "mgcv",
@@ -46766,7 +46761,6 @@
         "later",
         "latticeExtra",
         "lifecycle",
-        "limSolve",
         "locfit",
         "memoise",
         "metap",
@@ -55965,7 +55959,6 @@
         "ellipsis",
         "ggplot2",
         "lifecycle",
-        "limSolve",
         "mgcv",
         "pillar",
         "purrr",
@@ -77822,7 +77815,6 @@
         "lambda.r",
         "latticeExtra",
         "lifecycle",
-        "limSolve",
         "memoise",
         "mgcv",
         "openssl",
@@ -79072,10 +79064,7 @@
         "vctrs"
     ],
     "pcaPP": [],
-    "baseline": [
-        "limSolve"
-    ],
-    "limSolve": [],
+    "baseline": [],
     "rARPACK": [
         "Matrix",
         "RSpectra",
@@ -81209,9 +81198,7 @@
     ],
     "rslurm": [],
     "sjlabelled": [],
-    "LIM": [
-        "limSolve"
-    ],
+    "LIM": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "AnnotationDbi",
         "Biobase",
