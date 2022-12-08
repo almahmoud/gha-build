@@ -4018,7 +4018,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "betareg",
         "blob",
         "globaltest",
         "httr",
@@ -11802,8 +11801,7 @@
     "DMRcaller": [
         "GenomeInfoDb",
         "GenomicRanges",
-        "XVector",
-        "betareg"
+        "XVector"
     ],
     "DMRcate": [
         "AnnotationDbi",
@@ -48486,7 +48484,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "betareg": [],
     "pasilla": [
         "AnnotationDbi",
         "BiocFileCache",
