@@ -1614,7 +1614,6 @@
     "LymphoSeq": [
         "ggtree"
     ],
-    "M3Drop": [],
     "m6Aboost": [
         "adabag",
         "caret"
@@ -2835,9 +2834,7 @@
     ],
     "schex": [],
     "scMAGeCK": [],
-    "scMerge": [
-        "M3Drop"
-    ],
+    "scMerge": [],
     "scmeth": [],
     "scone": [
         "RUVSeq"
@@ -2966,7 +2963,6 @@
     "singleCellTK": [
         "DESeq2",
         "GSVA",
-        "M3Drop",
         "SoupX",
         "TENxPBMCData",
         "celda",
