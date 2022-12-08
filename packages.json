@@ -16125,7 +16125,6 @@
         "MatrixModels",
         "R.utils",
         "RCurl",
-        "RSNNS",
         "RSQLite",
         "RWeka",
         "RWekajars",
@@ -24937,7 +24936,6 @@
         "MatrixModels",
         "R.utils",
         "RCurl",
-        "RSNNS",
         "RSQLite",
         "RWeka",
         "RWekajars",
@@ -79914,7 +79912,6 @@
         "vctrs",
         "waldo"
     ],
-    "RSNNS": [],
     "RWeka": [
         "RWekajars"
     ],
