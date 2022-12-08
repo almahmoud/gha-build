@@ -26700,7 +26700,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "pdftools",
         "pillar",
         "progress",
         "quantreg",
@@ -47187,7 +47186,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "pdftools": [],
     "flatxml": [],
     "ontologyPlot": [
         "Rgraphviz"
