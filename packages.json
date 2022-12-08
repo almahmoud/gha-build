@@ -128,7 +128,6 @@
         "scater",
         "scuttle"
     ],
-    "ALDEx2": [],
     "alevinQC": [
         "GGally",
         "tidyr"
@@ -655,7 +654,6 @@
         "PhIPData"
     ],
     "benchdamic": [
-        "ALDEx2",
         "ANCOMBC",
         "DESeq2",
         "DescTools",
@@ -6762,7 +6760,6 @@
         "waldo"
     ],
     "microbiomeMarker": [
-        "ALDEx2",
         "ANCOMBC",
         "DESeq2",
         "DescTools",
@@ -8084,9 +8081,7 @@
     "omicade4": [
         "made4"
     ],
-    "omicplotR": [
-        "ALDEx2"
-    ],
+    "omicplotR": [],
     "omicRexposome": [
         "FactoMineR",
         "Hmisc",
