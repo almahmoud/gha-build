@@ -22689,7 +22689,6 @@
         "glmnet",
         "hms",
         "htmlTable",
-        "inum",
         "knitr",
         "latticeExtra",
         "mboost",
@@ -28083,7 +28082,6 @@
         "graphite",
         "gson",
         "htmlTable",
-        "inum",
         "knitr",
         "latticeExtra",
         "partykit",
@@ -46081,18 +46079,13 @@
     ],
     "InvariantCausalPrediction": [
         "glmnet",
-        "inum",
         "mboost",
         "partykit"
     ],
     "mboost": [
-        "inum",
         "partykit"
     ],
-    "partykit": [
-        "inum"
-    ],
-    "inum": [],
+    "partykit": [],
     "miRBaseVersions.db": [
         "AnnotationDbi",
         "Biostrings",
@@ -46606,7 +46599,6 @@
     ],
     "C50": [
         "Cubist",
-        "inum",
         "partykit",
         "reshape2",
         "stringr",
