@@ -11239,7 +11239,6 @@
         "mgcv",
         "pillar",
         "progress",
-        "rcdk",
         "readr",
         "rsparse",
         "rvest",
@@ -17649,7 +17648,6 @@
         "mgcv",
         "pillar",
         "progress",
-        "rcdk",
         "readr",
         "rsparse",
         "rvest",
@@ -34193,7 +34191,6 @@
         "memoise",
         "pillar",
         "progress",
-        "rcdk",
         "rtracklayer",
         "stringr",
         "tibble",
@@ -35627,7 +35624,6 @@
         "blob",
         "httr",
         "memoise",
-        "rcdk",
         "vctrs"
     ],
     "RCSL": [
@@ -37342,7 +37338,6 @@
         "mgcv",
         "mzID",
         "pillar",
-        "rcdk",
         "readJDX",
         "rvest",
         "scales",
@@ -47434,7 +47429,6 @@
         "pillar",
         "progress",
         "ragg",
-        "rcdk",
         "readr",
         "rsparse",
         "rvest",
@@ -52663,7 +52657,6 @@
         "waldo"
     ],
     "diffr": [],
-    "rcdk": [],
     "webchem": [
         "dplyr",
         "httr",
