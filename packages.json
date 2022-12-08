@@ -1993,7 +1993,6 @@
         "reshape2",
         "rlang",
         "rngtools",
-        "rootSolve",
         "rprojroot",
         "rstudioapi",
         "rsvd",
@@ -6728,7 +6727,6 @@
         "rhdf5filters",
         "rlang",
         "rngtools",
-        "rootSolve",
         "rprojroot",
         "rstudioapi",
         "rsvd",
@@ -13623,7 +13621,6 @@
         "rematch2",
         "reshape2",
         "rlang",
-        "rootSolve",
         "rprojroot",
         "rstudioapi",
         "scales",
@@ -43121,7 +43118,6 @@
         "pryr",
         "readxl",
         "rlang",
-        "rootSolve",
         "rstudioapi",
         "stringi",
         "stringr",
@@ -47384,7 +47380,6 @@
         "reticulate",
         "rlang",
         "rngtools",
-        "rootSolve",
         "rprojroot",
         "rstudioapi",
         "scales",
@@ -48287,7 +48282,6 @@
         "purrr",
         "restfulr",
         "rlang",
-        "rootSolve",
         "rtracklayer",
         "sass",
         "scales",
@@ -59808,7 +59802,6 @@
         "rhdf5filters",
         "rlang",
         "rngtools",
-        "rootSolve",
         "rprojroot",
         "rstudioapi",
         "rsvd",
@@ -92225,7 +92218,6 @@
         "readxl",
         "restfulr",
         "rlang",
-        "rootSolve",
         "rstudioapi",
         "rtracklayer",
         "tibble",
@@ -113981,7 +113973,6 @@
         "progress",
         "readxl",
         "rlang",
-        "rootSolve",
         "rstudioapi",
         "tibble",
         "vctrs"
@@ -114043,9 +114034,7 @@
         "Matrix",
         "Rcpp"
     ],
-    "Exact": [
-        "rootSolve"
-    ],
+    "Exact": [],
     "gld": [
         "class",
         "e1071",
@@ -114056,7 +114045,6 @@
         "Rcpp",
         "nlme"
     ],
-    "rootSolve": [],
     "lmom": [],
     "tidytree": [
         "Rcpp",
@@ -119210,8 +119198,7 @@
     "FME": [
         "Rcpp",
         "coda",
-        "minqa",
-        "rootSolve"
+        "minqa"
     ],
     "SpatialTools": [
         "Matrix",
