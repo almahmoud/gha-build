@@ -1530,7 +1530,6 @@
         "RSQLite",
         "SummarizedExperiment",
         "assertive",
-        "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
         "blob",
@@ -20704,7 +20703,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "assertive",
-        "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
         "bamsignals",
@@ -36352,13 +36350,11 @@
         "tidyselect"
     ],
     "assertive": [
-        "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
         "knitr",
         "stringr"
     ],
-    "assertive.data": [],
     "assertive.data.uk": [],
     "assertive.data.us": [],
     "doBy": [
