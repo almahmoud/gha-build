@@ -2943,7 +2943,6 @@
         "lme4",
         "pbkrtest"
     ],
-    "syntenet": [],
     "systemPipeTools": [
         "DESeq2",
         "ggtree"
