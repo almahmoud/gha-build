@@ -161,7 +161,6 @@
         "diffcyt",
         "factoextra",
         "ggpubr",
-        "mbest",
         "rstatix"
     ],
     "CytoGLMM": [
@@ -169,7 +168,6 @@
         "car",
         "factoextra",
         "ggpubr",
-        "mbest",
         "rstatix"
     ],
     "DaMiRseq": [
@@ -985,7 +983,6 @@
         "rstatix"
     ],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [],
-    "mbest": [],
     "VIM": [
         "car"
     ],
