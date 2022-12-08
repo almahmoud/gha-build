@@ -6337,7 +6337,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "transport",
         "uwot",
         "viridis"
     ],
@@ -6623,8 +6622,7 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "transport"
+        "tidyselect"
     ],
     "coseq": [
         "AnnotationDbi",
@@ -21370,8 +21368,7 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyselect",
-        "transport"
+        "tidyselect"
     ],
     "Nebulosa": [
         "GenomicRanges",
@@ -22622,8 +22619,7 @@
         "rgl",
         "stringr",
         "tibble",
-        "tidyselect",
-        "transport"
+        "tidyselect"
     ],
     "OPWeight": [
         "ggplot2",
@@ -37487,8 +37483,7 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "transport"
+        "tidyselect"
     ],
     "spatstat": [
         "spatstat.explore",
@@ -37496,7 +37491,6 @@
         "spatstat.model",
         "spatstat.random"
     ],
-    "transport": [],
     "spatstat.model": [
         "spatstat.explore",
         "spatstat.random"
