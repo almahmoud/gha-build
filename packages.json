@@ -1734,8 +1734,7 @@
     ],
     "primirTSS": [
         "Gviz",
-        "biovizBase",
-        "phastCons100way.UCSC.hg38"
+        "biovizBase"
     ],
     "proActiv": [],
     "proBatch": [
@@ -2560,7 +2559,6 @@
     "unmarked": [
         "lme4"
     ],
-    "phastCons100way.UCSC.hg38": [],
     "EnsDb.Mmusculus.v79": [],
     "EnsDb.Rnorvegicus.v79": [],
     "phastCons100way.UCSC.hg19": [],
