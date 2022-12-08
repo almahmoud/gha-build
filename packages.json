@@ -9424,7 +9424,6 @@
         "restfulr",
         "rtracklayer",
         "scales",
-        "som",
         "sparseMatrixStats",
         "stringr",
         "tibble",
@@ -13269,7 +13268,6 @@
         "gridExtra",
         "lifecycle",
         "pillar",
-        "som",
         "stringr",
         "tibble",
         "tidyselect",
@@ -41694,7 +41692,6 @@
         "reshape2",
         "robustbase",
         "scales",
-        "som",
         "stringr",
         "survival",
         "testthat",
@@ -41802,7 +41799,6 @@
         "reshape2",
         "robustbase",
         "scales",
-        "som",
         "stringr",
         "survival",
         "testthat",
@@ -49285,7 +49281,6 @@
         "reshape2",
         "robustbase",
         "scales",
-        "som",
         "stringr",
         "survival",
         "testthat",
@@ -93478,7 +93473,6 @@
         "vctrs"
     ],
     "formula.tools": [],
-    "som": [],
     "BMA": [
         "Matrix",
         "pcaPP",
@@ -98039,8 +98033,7 @@
         "class",
         "e1071",
         "pcaPP",
-        "robustbase",
-        "som"
+        "robustbase"
     ],
     "optparse": [],
     "glmmTMB": [
