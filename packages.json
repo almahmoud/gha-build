@@ -8128,7 +8128,6 @@
         "pillar",
         "plotly",
         "promises",
-        "qs",
         "ragg",
         "restfulr",
         "reticulate",
@@ -11480,7 +11479,6 @@
         "pillar",
         "progress",
         "promises",
-        "qs",
         "quantmod",
         "readxl",
         "reshape2",
@@ -59486,7 +59484,6 @@
         "tibble",
         "vctrs"
     ],
-    "qs": [],
     "rlist": [],
     "ggfittext": [
         "ggplot2",
