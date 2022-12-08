@@ -1025,9 +1025,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "ISAnalytics": [
-        "datamods"
-    ],
+    "ISAnalytics": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "tximeta"
@@ -2426,7 +2424,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "datamods": [],
     "glmmTMB": [
         "lme4"
     ],
