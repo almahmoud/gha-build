@@ -7950,7 +7950,6 @@
         "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
-    "VplotR": [],
     "vsclust": [
         "MultiAssayExperiment"
     ],
