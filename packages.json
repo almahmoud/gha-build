@@ -20422,7 +20422,6 @@
         "illuminaio",
         "interactiveDisplayBase",
         "interp",
-        "isotree",
         "jquerylib",
         "knitr",
         "latticeExtra",
@@ -76527,7 +76526,6 @@
     "R.matlab": [
         "R.utils"
     ],
-    "isotree": [],
     "batchtools": [
         "ellipsis",
         "hms",
