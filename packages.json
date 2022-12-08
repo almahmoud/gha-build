@@ -335,7 +335,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation",
         "biovizBase",
-        "geneLenDataBase",
         "goseq",
         "lumi",
         "methylumi",
@@ -1155,9 +1154,7 @@
     ],
     "GNET2": [],
     "GOpro": [],
-    "goseq": [
-        "geneLenDataBase"
-    ],
+    "goseq": [],
     "goSorensen": [
         "DOSE",
         "clusterProfiler",
@@ -1254,7 +1251,6 @@
     "ideal": [
         "DESeq2",
         "GOstats",
-        "geneLenDataBase",
         "goseq",
         "pcaExplorer"
     ],
@@ -2309,7 +2305,6 @@
     ],
     "rgsepd": [
         "DESeq2",
-        "geneLenDataBase",
         "goseq"
     ],
     "Rhisat2": [
@@ -2620,7 +2615,6 @@
     ],
     "slalom": [],
     "SMITE": [
-        "geneLenDataBase",
         "goseq"
     ],
     "snm": [
@@ -3050,7 +3044,6 @@
     "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [
         "minfi"
     ],
-    "geneLenDataBase": [],
     "spp": [],
     "ChIC.data": [],
     "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [],
