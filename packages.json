@@ -882,7 +882,6 @@
     "countsimQC": [
         "DESeq2"
     ],
-    "covRNA": [],
     "cpvSNP": [
         "GenomicFeatures"
     ],
