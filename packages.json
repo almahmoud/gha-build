@@ -16901,7 +16901,6 @@
         "tibble",
         "vctrs"
     ],
-    "DTA": [],
     "Dune": [
         "BiocParallel",
         "DelayedArray",
