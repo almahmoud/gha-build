@@ -17643,7 +17643,6 @@
         "Biostrings",
         "KEGGREST",
         "PSCBS",
-        "R.filesets",
         "R.rsp",
         "RSQLite",
         "annotate",
@@ -25026,7 +25025,6 @@
         "Hmisc",
         "KEGGREST",
         "PSCBS",
-        "R.filesets",
         "R.rsp",
         "RSQLite",
         "WGCNA",
@@ -29433,16 +29431,13 @@
     ],
     "aroma.affymetrix": [
         "PSCBS",
-        "R.filesets",
         "R.rsp",
         "aroma.core"
     ],
     "aroma.core": [
         "PSCBS",
-        "R.filesets",
         "R.rsp"
     ],
-    "R.filesets": [],
     "R.rsp": [],
     "PSCBS": [],
     "opencpu": [
