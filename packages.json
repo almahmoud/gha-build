@@ -353,8 +353,7 @@
         "DiffBind",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Mmusculus.UCSC.mm10.knownGene",
-        "TxDb.Rnorvegicus.UCSC.rn4.ensGene"
+        "TxDb.Mmusculus.UCSC.mm10.knownGene"
     ],
     "ChIPseeker": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -2888,7 +2887,6 @@
     ],
     "spp": [],
     "ChIC.data": [],
-    "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [],
     "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [],
     "propr": [],
     "factoextra": [
