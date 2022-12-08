@@ -13579,7 +13579,6 @@
         "SummarizedExperiment",
         "XVector",
         "ade4",
-        "alabama",
         "ape",
         "biomformat",
         "cobs",
@@ -57043,7 +57042,6 @@
         "TTR",
         "XVector",
         "ade4",
-        "alabama",
         "ape",
         "biomformat",
         "edgeR",
@@ -83891,7 +83889,6 @@
     "eulerr": [
         "RcppArmadillo"
     ],
-    "alabama": [],
     "cobs": [
         "Matrix",
         "MatrixModels",
