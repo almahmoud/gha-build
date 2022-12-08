@@ -191,7 +191,6 @@
     ],
     "deconvR": [],
     "DeepPINCS": [
-        "textstem",
         "ttgsea"
     ],
     "DeMixT": [
@@ -357,7 +356,6 @@
     ],
     "GenProSeq": [
         "DeepPINCS",
-        "textstem",
         "ttgsea"
     ],
     "GeoDiff": [
@@ -962,22 +960,17 @@
         "ggpubr",
         "rstatix"
     ],
-    "ttgsea": [
-        "textstem"
-    ],
+    "ttgsea": [],
     "uncoverappLib": [],
     "VAExprs": [
         "DeepPINCS",
-        "textstem",
         "ttgsea"
     ],
     "variancePartition": [],
     "VariantExperiment": [],
     "VariantFiltering": [],
     "VCFArray": [],
-    "vissE": [
-        "textstem"
-    ],
+    "vissE": [],
     "vtpnet": [],
     "vulcan": [],
     "waddR": [],
@@ -1028,7 +1021,6 @@
     ],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [],
     "mbest": [],
-    "textstem": [],
     "VIM": [
         "car"
     ],
