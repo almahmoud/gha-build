@@ -1684,8 +1684,7 @@
         "lme4",
         "pbkrtest",
         "rstatix",
-        "sesame",
-        "sesameData"
+        "sesame"
     ],
     "MethylAid": [
         "minfi"
@@ -2741,9 +2740,7 @@
     ],
     "SeqSQC": [],
     "SeqVarTools": [],
-    "sesame": [
-        "sesameData"
-    ],
+    "sesame": [],
     "SEtools": [
         "DESeq2"
     ],
@@ -3007,8 +3004,7 @@
         "lme4",
         "pbkrtest",
         "rstatix",
-        "sesame",
-        "sesameData"
+        "sesame"
     ],
     "TCGAutils": [],
     "TDARACNE": [
@@ -3376,7 +3372,6 @@
     ],
     "questionr": [],
     "EnsDb.Hsapiens.v75": [],
-    "sesameData": [],
     "FlowSorted.Blood.450k": [
         "minfi"
     ],
