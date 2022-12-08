@@ -2908,7 +2908,6 @@
         "colourpicker",
         "dplyr",
         "forcats",
-        "fresh",
         "ggbeeswarm",
         "ggfittext",
         "gggenes",
@@ -7214,7 +7213,6 @@
         "colourpicker",
         "dendextend",
         "dplyr",
-        "fresh",
         "geneplotter",
         "ggforce",
         "ggplot2",
@@ -14432,7 +14430,6 @@
         "dbplyr",
         "dendextend",
         "dplyr",
-        "fresh",
         "genefilter",
         "ggplot2",
         "ggvis",
@@ -18865,7 +18862,6 @@
         "bsplus",
         "dplyr",
         "drawer",
-        "fresh",
         "ggplot2",
         "plotly",
         "rmarkdown",
@@ -21610,7 +21606,6 @@
     "shinyhelper": [],
     "shinyWidgets": [],
     "shinydashboardPlus": [
-        "fresh",
         "shinydashboard",
         "waiter"
     ],
@@ -21625,7 +21620,6 @@
     "ggfittext": [
         "ggplot2"
     ],
-    "fresh": [],
     "waiter": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
@@ -22062,7 +22056,6 @@
         "tidyr"
     ],
     "bs4Dash": [
-        "fresh",
         "waiter"
     ],
     "tippy": [],
