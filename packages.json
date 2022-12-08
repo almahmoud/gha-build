@@ -1687,7 +1687,6 @@
         "car",
         "ggpubr",
         "lme4",
-        "multiHiCcompare",
         "nloptr",
         "pbkrtest",
         "rstatix"
@@ -2492,7 +2491,6 @@
         "ensembldb",
         "karyoploteR"
     ],
-    "multiHiCcompare": [],
     "multiSight": [
         "DESeq2",
         "DOSE",
