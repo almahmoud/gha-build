@@ -1655,7 +1655,6 @@
     ],
     "fCCAC": [
         "fda",
-        "fds",
         "genomation"
     ],
     "fcoex": [
@@ -1735,12 +1734,10 @@
         "testthat"
     ],
     "flowStats": [
-        "fda",
-        "fds"
+        "fda"
     ],
     "flowVS": [
         "fda",
-        "fds",
         "flowStats"
     ],
     "fobitools": [
@@ -1764,12 +1761,10 @@
         "testthat"
     ],
     "FRGEpistasis": [
-        "fda",
-        "fds"
+        "fda"
     ],
     "FunChIP": [
-        "fda",
-        "fds"
+        "fda"
     ],
     "funtooNorm": [
         "GEOquery",
@@ -2375,8 +2370,7 @@
         "testthat"
     ],
     "IWTomics": [
-        "fda",
-        "fds"
+        "fda"
     ],
     "karyoploteR": [
         "GenomicFeatures",
@@ -3639,8 +3633,7 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "fda",
-        "fds"
+        "fda"
     ],
     "pipeComp": [
         "Seurat"
@@ -5067,7 +5060,6 @@
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "fda",
-        "fds",
         "regioneR"
     ],
     "uncoverappLib": [
@@ -5539,10 +5531,7 @@
     "gprofiler2": [],
     "gap": [],
     "geepack": [],
-    "fda": [
-        "fds"
-    ],
-    "fds": [],
+    "fda": [],
     "SPARQL": [],
     "NHPoisson": [
         "car",
