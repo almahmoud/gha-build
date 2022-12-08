@@ -27041,7 +27041,6 @@
         "memoise",
         "mgcv",
         "nloptr",
-        "officer",
         "openssl",
         "pbkrtest",
         "pillar",
@@ -28983,7 +28982,6 @@
         "lubridate",
         "memoise",
         "mgcv",
-        "officer",
         "pheatmap",
         "pillar",
         "purrr",
@@ -82218,7 +82216,6 @@
         "knitr",
         "lifecycle",
         "memoise",
-        "officer",
         "rmarkdown",
         "sass",
         "stringr",
@@ -82226,7 +82223,6 @@
         "tinytex",
         "vctrs"
     ],
-    "officer": [],
     "gdtools": [
         "systemfonts"
     ],
@@ -82424,7 +82420,6 @@
         "lifecycle",
         "lubridate",
         "memoise",
-        "officer",
         "rmarkdown",
         "s2",
         "sass",
