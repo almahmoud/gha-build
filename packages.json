@@ -4815,7 +4815,6 @@
         "Seurat",
         "caret"
     ],
-    "SCANVIS": [],
     "SCATE": [
         "ExperimentHub",
         "SCATEData"
