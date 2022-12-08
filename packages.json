@@ -37780,7 +37780,6 @@
     "RBGL": [],
     "RBioinf": [],
     "rBiopaxParser": [],
-    "RBM": [],
     "Rbowtie2": [
         "BiocParallel",
         "Biostrings",
