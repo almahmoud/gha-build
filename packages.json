@@ -232,9 +232,7 @@
     "EasyCellType": [
         "clusterProfiler"
     ],
-    "edge": [
-        "snm"
-    ],
+    "edge": [],
     "eegc": [
         "clusterProfiler"
     ],
@@ -873,7 +871,6 @@
         "wateRmelon"
     ],
     "SMITE": [],
-    "snm": [],
     "sojourner": [
         "sampSurf"
     ],
