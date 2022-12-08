@@ -808,8 +808,7 @@
     ],
     "ISAnalytics": [],
     "IsoformSwitchAnalyzeR": [
-        "DEXSeq",
-        "tximeta"
+        "DEXSeq"
     ],
     "isomiRs": [
         "DEGreport"
@@ -1725,7 +1724,6 @@
     "ttgsea": [
         "textstem"
     ],
-    "tximeta": [],
     "Ularcirc": [],
     "UMI4Cats": [],
     "uncoverappLib": [
