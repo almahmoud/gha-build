@@ -6408,7 +6408,6 @@
         "ggrepel"
     ],
     "ggmsa": [
-        "R4RNA",
         "aplot",
         "ggalt",
         "ggforce",
@@ -12530,7 +12529,6 @@
         "dbplyr",
         "rtracklayer"
     ],
-    "R4RNA": [],
     "RadioGx": [
         "CoreGx",
         "MultiAssayExperiment",
