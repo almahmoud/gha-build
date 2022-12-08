@@ -29358,7 +29358,6 @@
         "BH",
         "BiocParallel",
         "Matrix",
-        "emdist",
         "farver",
         "futile.logger",
         "ggplot2",
@@ -116745,7 +116744,6 @@
         "XVector"
     ],
     "TCGAbiolinksGUI.data": [],
-    "emdist": [],
     "heatmap3": [],
     "EntropyExplorer": [],
     "EpiMix.data": [
