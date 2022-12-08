@@ -198,8 +198,7 @@
         "lmerTest",
         "mia",
         "nloptr",
-        "treeio",
-        "zinbwave"
+        "treeio"
     ],
     "BgeeCall": [],
     "BgeeDB": [],
@@ -579,9 +578,7 @@
         "qpgraph"
     ],
     "cliqueMS": [],
-    "clusterExperiment": [
-        "zinbwave"
-    ],
+    "clusterExperiment": [],
     "clusterProfiler": [
         "DOSE",
         "enrichplot",
@@ -2555,8 +2552,7 @@
         "dnet"
     ],
     "netSmooth": [
-        "clusterExperiment",
-        "zinbwave"
+        "clusterExperiment"
     ],
     "netZooR": [
         "Category",
@@ -3309,8 +3305,7 @@
         "SCATEData"
     ],
     "scBFA": [
-        "DESeq2",
-        "zinbwave"
+        "DESeq2"
     ],
     "scBubbletree": [
         "ggtree",
@@ -3497,8 +3492,7 @@
         "scDblFinder",
         "scMerge",
         "scRNAseq",
-        "treeio",
-        "zinbwave"
+        "treeio"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
@@ -3990,7 +3984,6 @@
         "pbkrtest",
         "variancePartition"
     ],
-    "zinbwave": [],
     "ggpubr": [
         "car",
         "lme4",
