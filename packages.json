@@ -7321,7 +7321,6 @@
         "qvalue",
         "rtracklayer"
     ],
-    "MethylMix": [],
     "methylPipe": [
         "BSgenome",
         "BiocFileCache",
