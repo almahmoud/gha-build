@@ -1673,7 +1673,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "timeSeries",
         "timechange",
         "tzdb",
         "umap",
@@ -11917,8 +11916,7 @@
         "futile.logger",
         "interp",
         "lambda.r",
-        "latticeExtra",
-        "timeSeries"
+        "latticeExtra"
     ],
     "ChIPsim": [
         "Biobase",
@@ -14725,7 +14723,6 @@
         "statip",
         "stringr",
         "tibble",
-        "timeSeries",
         "vctrs",
         "vioplot",
         "zoo"
@@ -19690,7 +19687,6 @@
         "reshape",
         "scales",
         "tibble",
-        "timeSeries",
         "tseries",
         "vctrs",
         "wavethresh",
@@ -32497,7 +32493,6 @@
         "rematch2",
         "testthat",
         "tibble",
-        "timeSeries",
         "vctrs",
         "waldo"
     ],
@@ -44916,7 +44911,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "timeSeries",
         "vctrs",
         "waldo"
     ],
@@ -84718,7 +84712,6 @@
         "stable",
         "statip",
         "tibble",
-        "timeSeries",
         "vctrs",
         "vegan"
     ],
@@ -84756,8 +84749,7 @@
     "modeest": [
         "fBasics",
         "stable",
-        "statip",
-        "timeSeries"
+        "statip"
     ],
     "gridSVG": [],
     "reticulate": [
@@ -84765,9 +84757,7 @@
         "RcppTOML",
         "here"
     ],
-    "fBasics": [
-        "timeSeries"
-    ],
+    "fBasics": [],
     "stable": [],
     "statip": [],
     "clock": [
@@ -84797,7 +84787,6 @@
     ],
     "RcppTOML": [],
     "here": [],
-    "timeSeries": [],
     "prodlim": [
         "Matrix",
         "future",
@@ -91673,8 +91662,7 @@
         "Rdpack",
         "cvar",
         "fBasics",
-        "gbutils",
-        "timeSeries"
+        "gbutils"
     ],
     "cvar": [
         "Rdpack",
