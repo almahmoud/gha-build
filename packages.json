@@ -61278,7 +61278,6 @@
         "openssl",
         "vctrs"
     ],
-    "semisup": [],
     "seq2pathway": [
         "AnnotationDbi",
         "Biobase",
