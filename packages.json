@@ -40109,7 +40109,6 @@
         "nnet",
         "numDeriv",
         "pbapply",
-        "pbivnorm",
         "pillar",
         "plyr",
         "png",
@@ -152210,7 +152209,6 @@
         "nnet",
         "numDeriv",
         "pbapply",
-        "pbivnorm",
         "pillar",
         "plyr",
         "png",
@@ -152235,10 +152233,8 @@
     "lavaan": [
         "MASS",
         "mnormt",
-        "numDeriv",
-        "pbivnorm"
+        "numDeriv"
     ],
-    "pbivnorm": [],
     "RNOmni": [
         "Rcpp",
         "RcppArmadillo",
