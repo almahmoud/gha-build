@@ -6548,7 +6548,6 @@
         "rstatix",
         "testthat"
     ],
-    "TarSeqQC": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "DESeq2",
