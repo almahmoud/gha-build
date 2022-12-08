@@ -34957,7 +34957,6 @@
         "askpass",
         "available",
         "aws.s3",
-        "aws.signature",
         "biocthis",
         "cachem",
         "credentials",
@@ -64714,7 +64713,6 @@
         "XVector",
         "askpass",
         "aws.s3",
-        "aws.signature",
         "biomaRt",
         "bit64",
         "blob",
@@ -93312,11 +93310,9 @@
     ],
     "aws.s3": [
         "askpass",
-        "aws.signature",
         "httr",
         "openssl"
     ],
-    "aws.signature": [],
     "reactable": [
         "htmltools",
         "htmlwidgets",
