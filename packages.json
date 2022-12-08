@@ -2032,7 +2032,6 @@
     "ppcseq": [
         "tidybayes"
     ],
-    "prebs": [],
     "preciseTAD": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "rCGH"
