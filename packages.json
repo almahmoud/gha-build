@@ -4038,7 +4038,6 @@
         "ggpubr",
         "ggraph",
         "ggtree",
-        "groupdata2",
         "gson",
         "haven",
         "iBBiG",
@@ -4076,7 +4075,6 @@
         "ggpubr",
         "ggraph",
         "ggtree",
-        "groupdata2",
         "gson",
         "haven",
         "lme4",
@@ -6542,7 +6540,6 @@
         "caret",
         "cvms",
         "ggpubr",
-        "groupdata2",
         "haven",
         "lme4",
         "modelr",
@@ -7835,13 +7832,11 @@
     ],
     "subspace": [],
     "cvms": [
-        "groupdata2",
         "lme4",
         "nloptr",
         "recipes",
         "testthat"
     ],
-    "groupdata2": [],
     "echarts4r": [
         "broom"
     ],
