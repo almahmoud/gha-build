@@ -15285,7 +15285,6 @@
         "repr",
         "rlang",
         "survival",
-        "uchardet",
         "utf8",
         "uuid",
         "vctrs",
@@ -17606,7 +17605,6 @@
         "tidytree",
         "treeio",
         "tweenr",
-        "uchardet",
         "utf8",
         "uuid",
         "vctrs",
@@ -31823,7 +31821,6 @@
         "rlang",
         "robustbase",
         "rrcov",
-        "uchardet",
         "utf8",
         "uuid",
         "vctrs"
@@ -43031,7 +43028,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "uchardet",
         "utf8",
         "uuid",
         "vctrs",
@@ -69605,7 +69601,6 @@
         "tidytree",
         "treeio",
         "tweenr",
-        "uchardet",
         "utf8",
         "uuid",
         "vctrs",
@@ -76775,7 +76770,6 @@
         "snow",
         "stringi",
         "stringr",
-        "uchardet",
         "utf8",
         "uuid",
         "vctrs"
@@ -82884,7 +82878,6 @@
         "pillar",
         "repr",
         "rlang",
-        "uchardet",
         "utf8",
         "uuid",
         "vctrs"
@@ -84339,7 +84332,6 @@
         "tidyr",
         "tidyselect",
         "tzdb",
-        "uchardet",
         "utf8",
         "uuid",
         "vctrs",
@@ -100555,7 +100547,6 @@
         "pillar",
         "repr",
         "rlang",
-        "uchardet",
         "utf8",
         "uuid",
         "vctrs"
@@ -102113,7 +102104,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "uchardet",
         "utf8",
         "uuid",
         "vctrs",
@@ -128771,7 +128761,6 @@
         "tkWidgets",
         "treeio",
         "tweenr",
-        "uchardet",
         "utf8",
         "uuid",
         "vctrs",
@@ -130661,7 +130650,6 @@
         "rlang",
         "tibble",
         "tidyselect",
-        "uchardet",
         "utf8",
         "uuid",
         "vctrs",
@@ -145823,7 +145811,6 @@
         "yaml",
         "zoo"
     ],
-    "uchardet": [],
     "base64url": [
         "backports"
     ],
