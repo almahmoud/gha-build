@@ -1840,7 +1840,6 @@
         "ggraph",
         "googlesheets4",
         "haven",
-        "metap",
         "mnem",
         "modelr",
         "readr",
@@ -2311,7 +2310,6 @@
         "globaltest",
         "hgu133a.db",
         "hgu133plus2.db",
-        "metap",
         "org.Rn.eg.db",
         "pathview",
         "plotly",
@@ -4430,7 +4428,6 @@
         "epivizrStandalone"
     ],
     "MetaVolcanoR": [
-        "metap",
         "plotly"
     ],
     "MethCP": [
@@ -5162,9 +5159,7 @@
         "plyranges",
         "regioneR"
     ],
-    "multiGSEA": [
-        "metap"
-    ],
+    "multiGSEA": [],
     "multiHiCcompare": [
         "HiCcompare"
     ],
@@ -5187,7 +5182,6 @@
         "ggtree",
         "golem",
         "gson",
-        "metap",
         "mixOmics",
         "plotly",
         "rWikiPathways",
@@ -5296,7 +5290,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "metap",
         "motifStack",
         "readr",
         "regioneR",
@@ -5758,7 +5751,6 @@
         "ggraph",
         "ggtree",
         "gson",
-        "metap",
         "scatterpie",
         "tidygraph",
         "tidytree",
@@ -6900,7 +6892,6 @@
         "broom",
         "car",
         "lme4",
-        "metap",
         "nloptr",
         "pbkrtest",
         "plotly",
@@ -7477,7 +7468,6 @@
         "geneplotter",
         "ggtree",
         "hgu95a.db",
-        "metap",
         "plotly",
         "reldist",
         "scDblFinder",
@@ -9065,7 +9055,6 @@
         "testthat",
         "waldo"
     ],
-    "metap": [],
     "DMwR2": [
         "readr"
     ],
