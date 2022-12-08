@@ -1071,7 +1071,6 @@
     "clusterExperiment": [
         "RNeXML",
         "genefilter",
-        "mbkmeans",
         "phylobase",
         "zinbwave"
     ],
@@ -3488,7 +3487,6 @@
         "sva",
         "testthat"
     ],
-    "mbkmeans": [],
     "mbOmic": [
         "WGCNA"
     ],
@@ -4492,7 +4490,6 @@
         "RNeXML",
         "clusterExperiment",
         "genefilter",
-        "mbkmeans",
         "phylobase",
         "scater",
         "zinbwave"
