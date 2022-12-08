@@ -4184,7 +4184,6 @@
         "rstatix",
         "testthat"
     ],
-    "MSA2dist": [],
     "MsExperiment": [
         "MultiAssayExperiment",
         "QFeatures",
