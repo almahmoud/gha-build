@@ -4671,7 +4671,6 @@
         "geneplotter",
         "testthat"
     ],
-    "rmspc": [],
     "RNAAgeCalc": [
         "GEOquery",
         "GenomicFeatures",
