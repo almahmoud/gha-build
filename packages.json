@@ -12549,7 +12549,6 @@
         "shadowtext",
         "sva",
         "systemPipeR",
-        "systemPipeRdata",
         "testthat",
         "tidygraph",
         "tidyr",
@@ -17544,7 +17543,6 @@
         "dbplyr"
     ],
     "TBX20BamSubset": [],
-    "systemPipeRdata": [],
     "fission": [],
     "treemap": [],
     "GENLIB": [],
