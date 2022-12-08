@@ -2661,7 +2661,6 @@
         "ps",
         "purrr",
         "ragg",
-        "rbibutils",
         "readxl",
         "rematch",
         "rematch2",
@@ -8621,7 +8620,6 @@
         "lambda.r",
         "lattice",
         "openssl",
-        "rbibutils",
         "snow",
         "sys",
         "uuid"
@@ -8935,7 +8933,6 @@
         "purrr",
         "ragg",
         "rappdirs",
-        "rbibutils",
         "readxl",
         "rematch",
         "rematch2",
@@ -11989,7 +11986,6 @@
         "purrr",
         "rSpectral",
         "rappdirs",
-        "rbibutils",
         "rlang",
         "rpart",
         "rstudioapi",
@@ -17261,7 +17257,6 @@
         "lattice",
         "matrixStats",
         "nlme",
-        "rbibutils",
         "zlibbioc"
     ],
     "ccImpute": [
@@ -17676,7 +17671,6 @@
         "pkgconfig",
         "plyr",
         "png",
-        "rbibutils",
         "rlang",
         "scales",
         "segmented",
@@ -33043,7 +33037,6 @@
         "qqconf",
         "quantreg",
         "rappdirs",
-        "rbibutils",
         "readr",
         "readxl",
         "rematch",
@@ -33554,7 +33547,6 @@
         "qap",
         "qvalue",
         "rappdirs",
-        "rbibutils",
         "reshape2",
         "rlang",
         "sass",
@@ -40913,7 +40905,6 @@
         "purrr",
         "qqconf",
         "quantreg",
-        "rbibutils",
         "rhdf5",
         "rhdf5filters",
         "rlang",
@@ -44663,7 +44654,6 @@
         "purrr",
         "randomForest",
         "rappdirs",
-        "rbibutils",
         "reshape2",
         "rlang",
         "rmarkdown",
@@ -48431,7 +48421,6 @@
         "pillar",
         "pkgconfig",
         "purrr",
-        "rbibutils",
         "rlang",
         "scales",
         "stringi",
@@ -53494,7 +53483,6 @@
         "progress",
         "purrr",
         "rappdirs",
-        "rbibutils",
         "reshape",
         "reshape2",
         "restfulr",
@@ -58231,7 +58219,6 @@
         "praise",
         "processx",
         "ps",
-        "rbibutils",
         "rematch2",
         "rlang",
         "rprojroot",
@@ -59791,8 +59778,7 @@
         "Ckmeans.1d.dp",
         "Rcpp",
         "Rdpack",
-        "matrixStats",
-        "rbibutils"
+        "matrixStats"
     ],
     "Harshlight": [
         "Biobase",
@@ -60136,7 +60122,6 @@
         "progress",
         "purrr",
         "rappdirs",
-        "rbibutils",
         "rjson",
         "rlang",
         "scales",
@@ -67678,7 +67663,6 @@
         "progress",
         "purrr",
         "rappdirs",
-        "rbibutils",
         "restfulr",
         "rjson",
         "rlang",
@@ -76447,7 +76431,6 @@
         "purrr",
         "qqconf",
         "quantreg",
-        "rbibutils",
         "rlang",
         "robustbase",
         "sandwich",
@@ -79779,7 +79762,6 @@
         "purrr",
         "ragg",
         "rappdirs",
-        "rbibutils",
         "readxl",
         "recipes",
         "rematch",
@@ -87825,7 +87807,6 @@
         "qqconf",
         "quantreg",
         "rappdirs",
-        "rbibutils",
         "rlang",
         "robustbase",
         "sandwich",
@@ -88213,7 +88194,6 @@
         "ragg",
         "randomForest",
         "rappdirs",
-        "rbibutils",
         "rcmdcheck",
         "reactome.db",
         "recipes",
@@ -88583,7 +88563,6 @@
         "ps",
         "purrr",
         "ragg",
-        "rbibutils",
         "rematch2",
         "reshape2",
         "rjson",
@@ -89580,7 +89559,6 @@
         "quantreg",
         "randomForest",
         "rappdirs",
-        "rbibutils",
         "readr",
         "regioneR",
         "reshape2",
@@ -97448,7 +97426,6 @@
         "qqconf",
         "quantreg",
         "qvalue",
-        "rbibutils",
         "reshape2",
         "rlang",
         "robustbase",
@@ -103246,7 +103223,6 @@
         "quadprog",
         "quantmod",
         "ranger",
-        "rbibutils",
         "rlang",
         "robustbase",
         "rpart",
@@ -108425,8 +108401,7 @@
         "BiocGenerics"
     ],
     "randRotation": [
-        "Rdpack",
-        "rbibutils"
+        "Rdpack"
     ],
     "RankProd": [
         "Rmpfr",
@@ -114663,8 +114638,7 @@
     ],
     "rmelting": [
         "Rdpack",
-        "rJava",
-        "rbibutils"
+        "rJava"
     ],
     "Rmmquant": [
         "AnnotationDbi",
@@ -117233,7 +117207,6 @@
         "qqconf",
         "qqman",
         "quantreg",
-        "rbibutils",
         "rematch2",
         "rlang",
         "robustbase",
@@ -119210,7 +119183,6 @@
         "plogr",
         "png",
         "rappdirs",
-        "rbibutils",
         "rlang",
         "rmarkdown",
         "rsvg",
@@ -123138,7 +123110,6 @@
         "pillar",
         "pkgconfig",
         "purrr",
-        "rbibutils",
         "rlang",
         "rsvd",
         "snow",
@@ -128669,7 +128640,6 @@
         "qvalue",
         "ragg",
         "rappdirs",
-        "rbibutils",
         "reldist",
         "reshape2",
         "restfulr",
@@ -134483,7 +134453,6 @@
         "progress",
         "purrr",
         "rappdirs",
-        "rbibutils",
         "readr",
         "restfulr",
         "rhdf5",
@@ -145444,7 +145413,6 @@
         "progress",
         "ps",
         "purrr",
-        "rbibutils",
         "rematch2",
         "reshape2",
         "rlang",
@@ -147842,7 +147810,6 @@
         "pkgconfig",
         "plyr",
         "purrr",
-        "rbibutils",
         "reshape2",
         "rlang",
         "scales",
@@ -149095,7 +149062,6 @@
         "ps",
         "purrr",
         "rappdirs",
-        "rbibutils",
         "rematch2",
         "reshape2",
         "rlang",
@@ -151928,9 +151894,7 @@
         "utf8",
         "vctrs"
     ],
-    "Rdpack": [
-        "rbibutils"
-    ],
+    "Rdpack": [],
     "emmeans": [
         "estimability",
         "mvtnorm",
@@ -152021,7 +151985,6 @@
         "lattice",
         "nlme"
     ],
-    "rbibutils": [],
     "rootSolve": [],
     "lmom": [],
     "tidytree": [
@@ -157349,7 +157312,6 @@
         "promises",
         "purrr",
         "rappdirs",
-        "rbibutils",
         "rlang",
         "sass",
         "shiny",
@@ -157384,7 +157346,6 @@
         "lattice",
         "magrittr",
         "pkgconfig",
-        "rbibutils",
         "rlang"
     ],
     "WGCNA": [
@@ -159119,8 +159080,7 @@
     ],
     "Ckmeans.1d.dp": [
         "Rcpp",
-        "Rdpack",
-        "rbibutils"
+        "Rdpack"
     ],
     "tictoc": [],
     "mvoutlier": [
@@ -163380,7 +163340,6 @@
         "plotrix",
         "qqconf",
         "quantreg",
-        "rbibutils",
         "robustbase",
         "sandwich",
         "sn",
@@ -166205,7 +166164,6 @@
         "gbutils",
         "gss",
         "lattice",
-        "rbibutils",
         "spatial",
         "stabledist",
         "timeDate",
@@ -166213,12 +166171,10 @@
     ],
     "cvar": [
         "Rdpack",
-        "gbutils",
-        "rbibutils"
+        "gbutils"
     ],
     "gbutils": [
-        "Rdpack",
-        "rbibutils"
+        "Rdpack"
     ],
     "KEGGandMetacoreDzPathwaysGEO": [
         "Biobase",
@@ -167008,7 +166964,6 @@
         "Rdpack",
         "changepoint",
         "lattice",
-        "rbibutils",
         "zoo"
     ],
     "KOdata": [],
@@ -174585,8 +174540,7 @@
     "mclustcomp": [
         "Rcpp",
         "RcppArmadillo",
-        "Rdpack",
-        "rbibutils"
+        "Rdpack"
     ],
     "MLmetrics": [
         "ROCR",
