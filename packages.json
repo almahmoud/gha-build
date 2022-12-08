@@ -46622,7 +46622,6 @@
         "vctrs",
         "viridis"
     ],
-    "ModCon": [],
     "Modstrings": [
         "Biostrings",
         "GenomeInfoDb",
