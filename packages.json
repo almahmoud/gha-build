@@ -373,7 +373,6 @@
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
         "IlluminaHumanMethylationEPICmanifest"
     ],
-    "epivizrStandalone": [],
     "erma": [],
     "esATAC": [
         "ChIPseeker",
@@ -703,9 +702,7 @@
     "metaseqR2": [
         "DSS"
     ],
-    "metavizr": [
-        "epivizrStandalone"
-    ],
+    "metavizr": [],
     "MethCP": [
         "DSS"
     ],
