@@ -9098,7 +9098,6 @@
         "tibble",
         "tidyr"
     ],
-    "FISHalyseR": [],
     "fishpond": [
         "GenomicRanges",
         "SingleCellExperiment",
