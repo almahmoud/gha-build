@@ -29035,7 +29035,6 @@
         "httr",
         "iBBiG",
         "ids",
-        "inaparc",
         "interp",
         "ipred",
         "knitr",
@@ -45111,7 +45110,6 @@
         "htmlwidgets",
         "httpuv",
         "httr",
-        "inaparc",
         "kknn",
         "km.ci",
         "knitr",
@@ -58973,9 +58971,7 @@
         "tibble",
         "vctrs"
     ],
-    "ppclust": [
-        "inaparc"
-    ],
+    "ppclust": [],
     "MatrixCorrelation": [
         "RSpectra",
         "RcppEigen",
@@ -58983,7 +58979,6 @@
         "progress",
         "vctrs"
     ],
-    "inaparc": [],
     "metR": [
         "ggplot2",
         "memoise",
