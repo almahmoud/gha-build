@@ -1810,7 +1810,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
-        "DirichletReg",
         "GenomicRanges",
         "RSQLite",
         "ScaledMatrix",
@@ -35420,7 +35419,6 @@
         "pillar",
         "tibble"
     ],
-    "DirichletReg": [],
     "corncob": [
         "Biostrings",
         "detectseparation",
