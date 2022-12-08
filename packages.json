@@ -48,7 +48,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "alpine": [],
     "AlpsNMR": [],
     "AMARETTO": [
         "curatedTCGAData"
