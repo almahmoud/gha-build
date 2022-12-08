@@ -5608,7 +5608,6 @@
         "GenomicFeatures",
         "caret"
     ],
-    "transformGamPoi": [],
     "tRanslatome": [
         "DESeq2",
         "GOSemSim",
