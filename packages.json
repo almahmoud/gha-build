@@ -2694,7 +2694,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "tradeSeq": [],
     "transcriptR": [],
     "tRanslatome": [
         "DESeq2"
