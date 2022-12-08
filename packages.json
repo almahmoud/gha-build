@@ -74,9 +74,7 @@
     "AnnotationHubData": [
         "OrganismDbi"
     ],
-    "annotatr": [
-        "regioneR"
-    ],
+    "annotatr": [],
     "anota2seq": [
         "DESeq2"
     ],
@@ -156,8 +154,7 @@
         "ChIPpeakAnno",
         "TFBSTools",
         "ensembldb",
-        "motifStack",
-        "regioneR"
+        "motifStack"
     ],
     "ATACseqTFEA": [
         "TFBSTools",
@@ -336,8 +333,7 @@
         "annotatr",
         "biscuiteerData",
         "bumphunter",
-        "dmrseq",
-        "regioneR"
+        "dmrseq"
     ],
     "BiSeq": [],
     "BitSeq": [],
@@ -570,8 +566,7 @@
         "ensembldb"
     ],
     "ChIPpeakAnno": [
-        "ensembldb",
-        "regioneR"
+        "ensembldb"
     ],
     "ChIPQC": [
         "DESeq2",
@@ -645,16 +640,14 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CNViz": [
         "CopyNumberPlots",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CNVPanelizer": [
         "testthat"
@@ -761,8 +754,7 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CoreGx": [],
     "corral": [],
@@ -796,7 +788,6 @@
         "ChIPpeakAnno",
         "GUIDEseq",
         "ensembldb",
-        "regioneR",
         "rio"
     ],
     "crisprVerse": [
@@ -988,8 +979,7 @@
     ],
     "DEScan2": [
         "ChIPpeakAnno",
-        "ensembldb",
-        "regioneR"
+        "ensembldb"
     ],
     "DESeq2": [],
     "destiny": [
@@ -1070,8 +1060,7 @@
     ],
     "dmrseq": [
         "annotatr",
-        "bumphunter",
-        "regioneR"
+        "bumphunter"
     ],
     "DominoEffect": [
         "VariantAnnotation"
@@ -1733,7 +1722,6 @@
         "CRISPRseek",
         "ChIPpeakAnno",
         "ensembldb",
-        "regioneR",
         "rio"
     ],
     "Guitar": [],
@@ -1959,8 +1947,7 @@
     "karyoploteR": [
         "VariantAnnotation",
         "biovizBase",
-        "ensembldb",
-        "regioneR"
+        "ensembldb"
     ],
     "katdetectr": [
         "VariantAnnotation"
@@ -2622,8 +2609,7 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "multiHiCcompare": [],
     "multiSight": [
@@ -2696,7 +2682,6 @@
         "biovizBase",
         "ensembldb",
         "motifStack",
-        "regioneR",
         "trackViewer"
     ],
     "NanoMethViz": [],
@@ -3268,17 +3253,13 @@
     "recoup": [],
     "REDseq": [
         "ChIPpeakAnno",
-        "ensembldb",
-        "regioneR"
+        "ensembldb"
     ],
     "RegEnrich": [
         "DESeq2",
         "DOSE"
     ],
-    "regioneR": [],
-    "regioneReloaded": [
-        "regioneR"
-    ],
+    "regioneReloaded": [],
     "regionReport": [
         "DEFormats",
         "DESeq2",
@@ -3323,8 +3304,7 @@
     "rGADEM": [],
     "rGenomeTracks": [],
     "RgnTX": [
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "regioneR"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "rGREAT": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -3369,8 +3349,7 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "Risa": [],
     "RITAN": [
@@ -3382,7 +3361,6 @@
         "RLHub",
         "caret",
         "caretEnsemble",
-        "regioneR",
         "valr"
     ],
     "RMassBank": [],
@@ -3598,8 +3576,7 @@
         "M3Drop"
     ],
     "scmeth": [
-        "annotatr",
-        "regioneR"
+        "annotatr"
     ],
     "scone": [
         "EDASeq",
@@ -4175,8 +4152,7 @@
     "UMI4Cats": [
         "DESeq2",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "fda",
-        "regioneR"
+        "fda"
     ],
     "uncoverappLib": [
         "EnsDb.Hsapiens.v75",
@@ -4260,7 +4236,6 @@
         "GreyListChIP",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "ensembldb",
-        "regioneR",
         "viper"
     ],
     "waddR": [
