@@ -199,7 +199,6 @@
     "AffyCompatible": [
         "Biostrings"
     ],
-    "affyContam": [],
     "affycoretools": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -1058,7 +1057,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "affyContam",
         "annotate",
         "biomaRt",
         "blob",
