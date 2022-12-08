@@ -211,9 +211,7 @@
         "XtraSNPlocs.Hsapiens.dbSNP144.GRCh37",
         "biomaRt"
     ],
-    "ArrayExpress": [
-        "oligo"
-    ],
+    "ArrayExpress": [],
     "ArrayExpressHTS": [
         "ShortRead",
         "biomaRt"
@@ -1165,7 +1163,6 @@
     "ChIPXpress": [
         "GEOquery",
         "frma",
-        "oligo",
         "readr"
     ],
     "ChromHeatMap": [],
@@ -1278,9 +1275,7 @@
     "clustifyr": [
         "readr"
     ],
-    "cn.farms": [
-        "oligo"
-    ],
+    "cn.farms": [],
     "cn.mops": [],
     "CNEr": [
         "readr"
@@ -1632,7 +1627,6 @@
     "crossmeta": [
         "GEOquery",
         "genefilter",
-        "oligo",
         "readr",
         "sva"
     ],
@@ -2154,7 +2148,6 @@
         "hgu133a.db",
         "hgu133a2.db",
         "hgu133plus2.db",
-        "oligo",
         "readr"
     ],
     "DSS": [
@@ -2826,9 +2819,7 @@
         "fds",
         "rainbow"
     ],
-    "frma": [
-        "oligo"
-    ],
+    "frma": [],
     "FunChIP": [
         "fda",
         "fds",
@@ -3782,7 +3773,6 @@
         "readr"
     ],
     "ITALICS": [
-        "oligo",
         "pd.mapping50k.xba240"
     ],
     "IVAS": [
@@ -4572,9 +4562,7 @@
         "ggraph",
         "tidygraph"
     ],
-    "mimager": [
-        "oligo"
-    ],
+    "mimager": [],
     "MIMOSA": [
         "testthat",
         "waldo"
@@ -5380,7 +5368,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "oligo": [],
     "omada": [
         "diceR",
         "haven",
@@ -5664,9 +5651,7 @@
         "verification",
         "waldo"
     ],
-    "pdInfoBuilder": [
-        "oligo"
-    ],
+    "pdInfoBuilder": [],
     "PeacoQC": [],
     "peakPantheR": [
         "MSnbase"
@@ -6066,9 +6051,7 @@
         "testthat",
         "waldo"
     ],
-    "puma": [
-        "oligo"
-    ],
+    "puma": [],
     "PureCN": [
         "BSgenome",
         "GenomicFeatures",
@@ -6835,7 +6818,6 @@
     "SCAN.UPC": [
         "GEOquery",
         "genefilter",
-        "oligo",
         "readr",
         "sva"
     ],
@@ -8959,9 +8941,7 @@
         "readr",
         "rio"
     ],
-    "pd.mapping50k.xba240": [
-        "oligo"
-    ],
+    "pd.mapping50k.xba240": [],
     "hgu95av2.db": [],
     "sortable": [],
     "reldist": [],
