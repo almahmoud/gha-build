@@ -8025,7 +8025,6 @@
         "stringi"
     ],
     "bioCancer": [
-        "AlgDesign",
         "AnnotationDbi",
         "BH",
         "Biobase",
@@ -58529,7 +58528,6 @@
         "marray"
     ],
     "MAIT": [
-        "AlgDesign",
         "BH",
         "Biobase",
         "BiocGenerics",
@@ -128034,7 +128032,6 @@
         "withr",
         "writexl"
     ],
-    "AlgDesign": [],
     "shinythemes": [
         "Rcpp",
         "base64enc",
@@ -137064,7 +137061,6 @@
         "withr"
     ],
     "agricolae": [
-        "AlgDesign",
         "R.cache",
         "R.methodsS3",
         "R.oo",
