@@ -32906,7 +32906,6 @@
         "pdftools",
         "pillar",
         "progress",
-        "qpdf",
         "quantreg",
         "rematch2",
         "reshape2",
@@ -58346,10 +58345,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "pdftools": [
-        "qpdf"
-    ],
-    "qpdf": [],
+    "pdftools": [],
     "flatxml": [
         "httr"
     ],
