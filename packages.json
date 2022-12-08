@@ -6498,7 +6498,6 @@
         "readr",
         "tidyr"
     ],
-    "heatmaps": [],
     "HelloRanges": [
         "AnnotationDbi",
         "BSgenome",
