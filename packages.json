@@ -3215,7 +3215,6 @@
         "scuttle",
         "tidyr"
     ],
-    "discordant": [],
     "DiscoRhythm": [
         "BiocStyle",
         "UpSetR",
