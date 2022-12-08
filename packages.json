@@ -29163,7 +29163,6 @@
         "blob",
         "vctrs"
     ],
-    "PROPER": [],
     "PROPS": [
         "AnnotationDbi",
         "BiocParallel",
