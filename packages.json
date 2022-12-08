@@ -2644,8 +2644,7 @@
     ],
     "CNVRanger": [
         "GDSArray",
-        "RaggedExperiment",
-        "SeqArray"
+        "RaggedExperiment"
     ],
     "CNVrd2": [
         "AnnotationDbi",
@@ -5604,7 +5603,6 @@
     ],
     "GateFinder": [],
     "GBScleanR": [
-        "SeqArray",
         "tidyr"
     ],
     "gcapc": [
@@ -5676,9 +5674,7 @@
         "vroom",
         "waldo"
     ],
-    "GDSArray": [
-        "SeqArray"
-    ],
+    "GDSArray": [],
     "GEM": [],
     "gemini": [
         "mixtools",
@@ -5769,7 +5765,6 @@
     ],
     "GENESIS": [
         "GWASTools",
-        "SeqArray",
         "SeqVarTools",
         "broom",
         "logistf",
@@ -6109,7 +6104,6 @@
         "flowWorkspace"
     ],
     "ggmanh": [
-        "SeqArray",
         "ggrepel"
     ],
     "ggmsa": [
@@ -13184,9 +13178,7 @@
     "safe": [
         "AnnotationDbi"
     ],
-    "SAIGEgds": [
-        "SeqArray"
-    ],
+    "SAIGEgds": [],
     "sampleClassifier": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -13835,7 +13827,6 @@
     "seqArchR": [
         "ggseqlogo"
     ],
-    "SeqArray": [],
     "seqCAT": [
         "AnnotationDbi",
         "BSgenome",
@@ -13878,7 +13869,6 @@
         "tidyr"
     ],
     "SeqVarTools": [
-        "SeqArray",
         "broom",
         "logistf",
         "mice",
@@ -16051,7 +16041,6 @@
     ],
     "VariantExperiment": [
         "GDSArray",
-        "SeqArray",
         "SeqVarTools",
         "broom",
         "logistf",
