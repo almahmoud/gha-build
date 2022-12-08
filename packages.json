@@ -340,7 +340,6 @@
         "SummarizedExperiment",
         "apeglm",
         "dplyr",
-        "emdbook",
         "ggbeeswarm",
         "ggplot2",
         "ggrastr",
@@ -884,8 +883,7 @@
     ],
     "apeglm": [
         "GenomicRanges",
-        "SummarizedExperiment",
-        "emdbook"
+        "SummarizedExperiment"
     ],
     "APL": [
         "AnnotationDbi",
@@ -4764,7 +4762,6 @@
         "chipseq",
         "dbplyr",
         "dplyr",
-        "emdbook",
         "geneplotter",
         "ggplot2",
         "ggrepel",
@@ -7642,7 +7639,6 @@
         "dendextend",
         "dplyr",
         "egg",
-        "emdbook",
         "enrichplot",
         "fgsea",
         "genefilter",
@@ -7782,7 +7778,6 @@
         "bumphunter",
         "dbplyr",
         "dplyr",
-        "emdbook",
         "fastseg",
         "genefilter",
         "ggplot2",
@@ -8339,7 +8334,6 @@
         "apeglm",
         "ashr",
         "dplyr",
-        "emdbook",
         "geneplotter",
         "ggplot2",
         "ggrepel",
@@ -17544,7 +17538,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "bsseq",
-        "emdbook",
         "fastseg",
         "ggplot2",
         "methylKit",
@@ -17570,7 +17563,6 @@
         "GenomicRanges",
         "Rsamtools",
         "SummarizedExperiment",
-        "emdbook",
         "fastseg",
         "ggplot2",
         "methylKit",
@@ -17902,7 +17894,6 @@
         "GenomicRanges",
         "Rsamtools",
         "SummarizedExperiment",
-        "emdbook",
         "fastseg",
         "ggplot2",
         "methylKit",
@@ -17919,7 +17910,6 @@
         "GenomicRanges",
         "Rsamtools",
         "SummarizedExperiment",
-        "emdbook",
         "fastseg",
         "ggplot2",
         "pillar",
@@ -28407,9 +28397,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
-    "scShapes": [
-        "emdbook"
-    ],
+    "scShapes": [],
     "scTensor": [
         "AnnotationDbi",
         "AnnotationForge",
@@ -32004,7 +31992,6 @@
         "biomaRt",
         "dbplyr",
         "dplyr",
-        "emdbook",
         "geneplotter",
         "ggplot2",
         "hms",
@@ -33916,7 +33903,6 @@
         "csaw",
         "dbplyr",
         "dplyr",
-        "emdbook",
         "ensembldb",
         "geneplotter",
         "ggplot2",
@@ -34656,7 +34642,6 @@
     "smurf": [
         "glmnet"
     ],
-    "emdbook": [],
     "ggbeeswarm": [
         "ggplot2",
         "pillar",
