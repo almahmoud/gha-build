@@ -3952,7 +3952,6 @@
         "GenomicRanges",
         "Hmisc",
         "KEGGREST",
-        "NetRep",
         "RSQLite",
         "SummarizedExperiment",
         "WGCNA",
@@ -5116,7 +5115,6 @@
         "GenomicRanges",
         "Hmisc",
         "KEGGREST",
-        "NetRep",
         "OrganismDbi",
         "RBGL",
         "RSQLite",
@@ -19546,7 +19544,6 @@
         "GenomicRanges",
         "Hmisc",
         "KEGGREST",
-        "NetRep",
         "RSQLite",
         "SummarizedExperiment",
         "WGCNA",
@@ -51146,7 +51143,6 @@
         "vctrs"
     ],
     "networkD3": [],
-    "NetRep": [],
     "network": [
         "pillar",
         "tibble",
