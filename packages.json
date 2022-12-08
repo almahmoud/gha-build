@@ -45574,7 +45574,6 @@
         "vctrs",
         "viridis"
     ],
-    "stepNorm": [],
     "stJoincount": [
         "BiocFileCache",
         "BiocParallel",
