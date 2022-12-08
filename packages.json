@@ -5679,7 +5679,6 @@
         "rtracklayer",
         "tidyr"
     ],
-    "KCsmart": [],
     "KEGGlincs": [
         "hgu133a.db",
         "org.Hs.eg.db"
