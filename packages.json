@@ -2547,9 +2547,7 @@
         "ggtree",
         "treeio"
     ],
-    "M3Drop": [
-        "reldist"
-    ],
+    "M3Drop": [],
     "m6Aboost": [
         "ExperimentHub",
         "adabag",
@@ -4167,8 +4165,7 @@
     ],
     "RiboDiPA": [
         "DESeq2",
-        "GenomicFeatures",
-        "reldist"
+        "GenomicFeatures"
     ],
     "RiboProfiling": [
         "GenomicFeatures",
@@ -4479,8 +4476,7 @@
         "Seurat"
     ],
     "scMerge": [
-        "M3Drop",
-        "reldist"
+        "M3Drop"
     ],
     "scmeth": [
         "GenomicFeatures",
@@ -4695,7 +4691,6 @@
         "celldex",
         "ensembldb",
         "ggtree",
-        "reldist",
         "scDblFinder",
         "scMerge",
         "scRNAseq",
@@ -5748,7 +5743,6 @@
         "haven",
         "rio"
     ],
-    "reldist": [],
     "adabag": [
         "caret"
     ],
