@@ -308,7 +308,6 @@
     ],
     "ASICS": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "plotly",
         "ropls"
     ],
@@ -802,7 +801,6 @@
     ],
     "biosigner": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "plotly",
         "ropls"
     ],
@@ -4838,7 +4836,6 @@
     ],
     "lipidr": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "fgsea",
         "plotly",
         "ropls"
@@ -5126,7 +5123,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylationEPICmanifest",
-        "MultiDataSet",
         "SmartSVA",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation",
@@ -6166,7 +6162,6 @@
     "MultiAssayExperiment": [],
     "MultiBaC": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "plotly",
         "ropls"
     ],
@@ -6188,7 +6183,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "MultiDataSet": [],
     "multiGSEA": [
         "fgsea",
         "metap"
@@ -6203,7 +6197,6 @@
         "GO.db",
         "GOSemSim",
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ReactomePA",
         "annotate",
         "anyLib",
@@ -6645,7 +6638,6 @@
     "omicplotR": [],
     "omicRexposome": [
         "FactoMineR",
-        "MultiDataSet",
         "SmartSVA",
         "annotate",
         "broom",
@@ -7021,7 +7013,6 @@
     "phenomis": [
         "BiocFileCache",
         "MultiAssayExperiment",
-        "MultiDataSet",
         "biodb",
         "biodbChebi",
         "plotly",
@@ -7290,7 +7281,6 @@
     "proFIA": [
         "MSnbase",
         "MultiAssayExperiment",
-        "MultiDataSet",
         "plotly",
         "ropls",
         "xcms"
@@ -8255,7 +8245,6 @@
     "RolDE": [],
     "ropls": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "plotly"
     ],
     "RPA": [],
@@ -8277,7 +8266,6 @@
     ],
     "rqt": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "broom",
         "car",
         "lme4",
