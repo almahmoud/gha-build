@@ -6747,7 +6747,6 @@
     "piano": [
         "fgsea"
     ],
-    "PICS": [],
     "Pigengene": [
         "DOSE",
         "GO.db",
@@ -6772,7 +6771,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "PICS",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
