@@ -456,9 +456,7 @@
         "propr"
     ],
     "ClassifyR": [],
-    "clipper": [
-        "qpgraph"
-    ],
+    "clipper": [],
     "clusterProfiler": [
         "DOSE",
         "enrichplot",
@@ -2398,7 +2396,6 @@
         "lme4",
         "pbkrtest"
     ],
-    "qpgraph": [],
     "qrqc": [
         "VariantAnnotation",
         "biovizBase"
