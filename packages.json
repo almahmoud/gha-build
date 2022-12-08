@@ -8,9 +8,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "adductomicsR": [
-        "adductData"
-    ],
+    "adductomicsR": [],
     "affycoretools": [
         "Category",
         "DESeq2",
@@ -3169,7 +3167,6 @@
         "lme4"
     ],
     "lme4": [],
-    "adductData": [],
     "lmerTest": [
         "lme4"
     ],
