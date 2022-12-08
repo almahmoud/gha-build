@@ -7543,8 +7543,7 @@
     "TSCAN": [],
     "tscR": [
         "kml",
-        "kmlShape",
-        "longitudinalData"
+        "kmlShape"
     ],
     "ttgsea": [
         "DiagrammeR",
@@ -8636,13 +8635,9 @@
         "BSgenome"
     ],
     "kmlShape": [
-        "kml",
-        "longitudinalData"
+        "kml"
     ],
-    "longitudinalData": [],
-    "kml": [
-        "longitudinalData"
-    ],
+    "kml": [],
     "msigdb": [
         "AnnotationHub",
         "ExperimentHub",
