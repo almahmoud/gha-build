@@ -3782,7 +3782,6 @@
     "PoTRA": [],
     "POWSC": [],
     "ppcseq": [
-        "posterior",
         "tidybayes"
     ],
     "PPInfer": [],
@@ -5860,10 +5859,7 @@
     "biomartr": [],
     "tfprobability": [],
     "verification": [],
-    "tidybayes": [
-        "posterior"
-    ],
-    "posterior": [],
+    "tidybayes": [],
     "phastCons100way.UCSC.hg38": [
         "GenomicScores"
     ],
