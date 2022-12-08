@@ -2906,7 +2906,6 @@
         "safe",
         "topGO"
     ],
-    "eiR": [],
     "ELMER": [
         "BSgenome",
         "BiocFileCache",
