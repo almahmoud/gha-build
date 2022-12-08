@@ -16837,7 +16837,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "PerformanceAnalytics",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -20620,7 +20619,6 @@
         "KEGGREST",
         "MultiAssayExperiment",
         "OMICsPCAdata",
-        "PerformanceAnalytics",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -25333,7 +25331,6 @@
         "HDO.db",
         "KEGGREST",
         "KEGGgraph",
-        "PerformanceAnalytics",
         "RSQLite",
         "Rsamtools",
         "ShortRead",
@@ -35943,7 +35940,6 @@
         "tibble",
         "tidyselect"
     ],
-    "PerformanceAnalytics": [],
     "ggmcmc": [
         "GGally",
         "dplyr",
