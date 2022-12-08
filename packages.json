@@ -35301,7 +35301,6 @@
         "ggplot2",
         "htmlwidgets",
         "httpuv",
-        "magicaxis",
         "memoise",
         "mgcv",
         "piano",
@@ -38301,7 +38300,6 @@
         "ggplot2",
         "htmlwidgets",
         "httpuv",
-        "magicaxis",
         "memoise",
         "mgcv",
         "piano",
@@ -52710,7 +52708,6 @@
         "ggplot2",
         "htmlwidgets",
         "httpuv",
-        "magicaxis",
         "memoise",
         "mgcv",
         "piano",
@@ -59578,7 +59575,6 @@
         "stringr",
         "vctrs"
     ],
-    "magicaxis": [],
     "PMCMRplus": [
         "BWStest",
         "memoise"
