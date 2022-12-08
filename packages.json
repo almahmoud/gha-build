@@ -6897,7 +6897,6 @@
         "Seurat",
         "plotly"
     ],
-    "scmap": [],
     "scMerge": [
         "M3Drop",
         "reldist"
