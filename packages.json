@@ -236,7 +236,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "beer": [],
     "benchdamic": [
         "ANCOMBC",
         "DESeq2",
