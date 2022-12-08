@@ -21232,7 +21232,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "KEGGREST",
-        "R2WinBUGS",
         "R2jags",
         "RSQLite",
         "Rsamtools",
@@ -43476,7 +43475,6 @@
         "GenomicRanges",
         "HiLDA",
         "KEGGREST",
-        "R2WinBUGS",
         "R2jags",
         "RSQLite",
         "Rsamtools",
@@ -57016,10 +57014,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "R2jags": [
-        "R2WinBUGS"
-    ],
-    "R2WinBUGS": [],
+    "R2jags": [],
     "servr": [
         "httpuv"
     ],
