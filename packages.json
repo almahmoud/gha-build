@@ -290,7 +290,6 @@
         "testthat",
         "treeio"
     ],
-    "BiocDockerManager": [],
     "biocGraph": [],
     "BiocOncoTK": [
         "GenomicFeatures",
