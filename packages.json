@@ -1676,7 +1676,6 @@
         "rmarkdown"
     ],
     "biocthis": [
-        "styler",
         "usethis"
     ],
     "BiocWorkflowTools": [
@@ -10079,7 +10078,6 @@
         "available",
         "biocthis",
         "dplyr",
-        "styler",
         "tibble",
         "tidytext",
         "usethis"
@@ -11697,7 +11695,6 @@
         "readr",
         "recipes",
         "reshape2",
-        "styler",
         "tibble",
         "tidyr",
         "viridis",
@@ -15433,7 +15430,6 @@
         "questionr",
         "readr",
         "reshape2",
-        "styler",
         "tibble",
         "tidyr",
         "vroom",
@@ -17270,7 +17266,6 @@
         "rvest",
         "selectr",
         "shinydashboard",
-        "styler",
         "testthat",
         "tibble",
         "tidyr",
@@ -22465,7 +22460,6 @@
         "shinytoastr",
         "spsComps",
         "spsUtil",
-        "styler",
         "tibble",
         "tidyr",
         "vroom",
@@ -25316,7 +25310,6 @@
     "rorcid": [
         "tibble"
     ],
-    "styler": [],
     "usethis": [],
     "rms": [
         "Hmisc",
@@ -26609,7 +26602,6 @@
         "miniUI",
         "questionr",
         "readr",
-        "styler",
         "tibble",
         "tidyr",
         "vroom"
@@ -26622,7 +26614,6 @@
         "miniUI",
         "questionr",
         "readr",
-        "styler",
         "tibble",
         "tidyr",
         "vroom"
@@ -26634,7 +26625,6 @@
         "labelled",
         "miniUI",
         "readr",
-        "styler",
         "tibble",
         "tidyr",
         "vroom"
@@ -26986,7 +26976,6 @@
         "questionr",
         "readr",
         "reshape2",
-        "styler",
         "tibble",
         "tidyr",
         "vroom",
