@@ -13867,7 +13867,6 @@
         "RCurl",
         "S4Vectors",
         "XVector",
-        "brglm",
         "doParallel",
         "foreach",
         "splitstackshape"
@@ -28368,7 +28367,6 @@
         "SummarizedExperiment",
         "XVector",
         "analogue",
-        "brglm",
         "broom",
         "callr",
         "car",
@@ -90849,7 +90847,6 @@
         "vctrs"
     ],
     "princurve": [],
-    "brglm": [],
     "splitstackshape": [],
     "kohonen": [],
     "biwt": [
@@ -92716,7 +92713,6 @@
     ],
     "analogue": [
         "Matrix",
-        "brglm",
         "mgcv",
         "nlme",
         "princurve",
