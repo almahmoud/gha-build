@@ -13695,7 +13695,6 @@
         "cachem",
         "callr",
         "colourpicker",
-        "coop",
         "crosstalk",
         "dplyr",
         "dqrng",
@@ -31733,7 +31732,6 @@
         "callr",
         "car",
         "class",
-        "coop",
         "cowplot",
         "desc",
         "diffobj",
@@ -63163,7 +63161,6 @@
         "cachem",
         "celestial",
         "checkmate",
-        "coop",
         "cowplot",
         "crosstalk",
         "downloader",
@@ -78029,7 +78026,6 @@
         "Rdpack",
         "S4Vectors",
         "ScaledMatrix",
-        "coop",
         "dplyr",
         "elasticnet",
         "futile.logger",
@@ -94180,7 +94176,6 @@
         "checkmate",
         "circlize",
         "clue",
-        "coop",
         "cowplot",
         "crosstalk",
         "doParallel",
@@ -101839,7 +101834,6 @@
     "rlist": [
         "XML"
     ],
-    "coop": [],
     "matrixTests": [],
     "ggfittext": [
         "Matrix",
