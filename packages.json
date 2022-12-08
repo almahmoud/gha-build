@@ -12962,7 +12962,6 @@
         "treeio",
         "viridis"
     ],
-    "magrene": [],
     "MAI": [
         "SummarizedExperiment",
         "broom",
