@@ -2774,9 +2774,7 @@
     "mistyR": [
         "caret"
     ],
-    "mitch": [
-        "echarts4r"
-    ],
+    "mitch": [],
     "mitoClone2": [
         "GenomicFeatures",
         "VariantAnnotation",
@@ -5206,7 +5204,6 @@
         "nloptr",
         "testthat"
     ],
-    "echarts4r": [],
     "anyLib": [
         "devtools",
         "testthat"
