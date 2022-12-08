@@ -7716,7 +7716,6 @@
         "tidyselect",
         "vsn"
     ],
-    "DART": [],
     "dasper": [
         "AnnotationDbi",
         "BiocFileCache",
