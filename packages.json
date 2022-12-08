@@ -6509,7 +6509,6 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "biomaRt"
     ],
-    "structToolbox": [],
     "StructuralVariantAnnotation": [
         "GenomicFeatures",
         "VariantAnnotation",
