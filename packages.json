@@ -14657,7 +14657,6 @@
         "stringr",
         "vctrs"
     ],
-    "flowMatch": [],
     "flowMeans": [
         "feature",
         "ks",
