@@ -496,7 +496,6 @@
         "BSgenome.Hsapiens.UCSC.hg38",
         "caret"
     ],
-    "brendaDb": [],
     "BRGenomics": [
         "DESeq2"
     ],
