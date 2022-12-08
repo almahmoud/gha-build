@@ -19,7 +19,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "AGDEX": [],
     "AgiMicroRna": [
         "Category",
         "DESeq2",
