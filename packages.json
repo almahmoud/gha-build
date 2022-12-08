@@ -8893,7 +8893,6 @@
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
-        "HilbertVis",
         "IRanges",
         "RcppEigen",
         "Rsamtools",
@@ -25376,14 +25375,10 @@
     "HilbertCurve": [
         "GenomeInfoDb",
         "GenomicRanges",
-        "HilbertVis",
         "IRanges",
         "XVector"
     ],
-    "HilbertVis": [],
-    "HilbertVisGUI": [
-        "HilbertVis"
-    ],
+    "HilbertVisGUI": [],
     "HiLDA": [
         "AnnotationDbi",
         "BSgenome",
