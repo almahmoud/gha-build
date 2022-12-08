@@ -298,9 +298,7 @@
     "netZooR": [
         "yarn"
     ],
-    "NormalyzerDE": [
-        "RcmdrMisc"
-    ],
+    "NormalyzerDE": [],
     "ODER": [
         "dasper",
         "ggpubr",
@@ -496,7 +494,6 @@
         "rstatix"
     ],
     "mppa": [],
-    "RcmdrMisc": [],
     "Rmagic": [],
     "survivalAnalysis": [
         "ggpubr",
