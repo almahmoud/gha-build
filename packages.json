@@ -8218,7 +8218,6 @@
     "SWATH2stats": [
         "biomaRt"
     ],
-    "switchde": [],
     "synapter": [
         "MSnbase",
         "readr"
