@@ -105,7 +105,6 @@
     "ACE": [
         "BiocParallel",
         "Biostrings",
-        "CGHbase",
         "CGHcall",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -4600,7 +4599,6 @@
         "BiocFileCache",
         "BiocParallel",
         "Biostrings",
-        "CGHbase",
         "CGHcall",
         "DT",
         "DelayedArray",
@@ -7063,10 +7061,7 @@
     "CGEN": [
         "survival"
     ],
-    "CGHbase": [],
-    "CGHcall": [
-        "CGHbase"
-    ],
+    "CGHcall": [],
     "cghMCR": [
         "AnnotationDbi",
         "Biostrings",
@@ -7085,12 +7080,9 @@
         "vctrs"
     ],
     "CGHnormaliter": [
-        "CGHbase",
         "CGHcall"
     ],
-    "CGHregions": [
-        "CGHbase"
-    ],
+    "CGHregions": [],
     "ChAMP": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -18618,7 +18610,6 @@
     "GeneBreak": [
         "BiocParallel",
         "Biostrings",
-        "CGHbase",
         "CGHcall",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -21720,7 +21711,6 @@
     "HiCcompare": [
         "BiocParallel",
         "Biostrings",
-        "CGHbase",
         "CGHcall",
         "DelayedArray",
         "GenomeInfoDb",
@@ -21803,7 +21793,6 @@
     "HiCDOC": [
         "BiocParallel",
         "Biostrings",
-        "CGHbase",
         "CGHcall",
         "DelayedArray",
         "GenomeInfoDb",
@@ -31609,7 +31598,6 @@
     "multiHiCcompare": [
         "BiocParallel",
         "Biostrings",
-        "CGHbase",
         "CGHcall",
         "DelayedArray",
         "GenomeInfoDb",
@@ -38325,7 +38313,6 @@
     "QDNAseq": [
         "BiocParallel",
         "Biostrings",
-        "CGHbase",
         "CGHcall",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -47552,7 +47539,6 @@
     "SpectralTAD": [
         "BiocParallel",
         "Biostrings",
-        "CGHbase",
         "CGHcall",
         "DelayedArray",
         "GenomeInfoDb",
@@ -49629,7 +49615,6 @@
     "TADCompare": [
         "BiocParallel",
         "Biostrings",
-        "CGHbase",
         "CGHcall",
         "DelayedArray",
         "GenomeInfoDb",
