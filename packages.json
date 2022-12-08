@@ -5018,7 +5018,6 @@
         "plotly",
         "tidyr"
     ],
-    "h5vc": [],
     "hca": [
         "BiocFileCache",
         "readr",
