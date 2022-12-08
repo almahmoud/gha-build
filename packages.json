@@ -7049,7 +7049,6 @@
         "ggfun",
         "ggplotify",
         "ggtree",
-        "msa",
         "patchwork",
         "tidyr",
         "tidytree",
@@ -8689,7 +8688,6 @@
         "tidyr",
         "waldo"
     ],
-    "msa": [],
     "MSA2dist": [
         "tidyr"
     ],
@@ -9547,9 +9545,7 @@
         "viridis",
         "waldo"
     ],
-    "odseq": [
-        "msa"
-    ],
+    "odseq": [],
     "OGRE": [
         "AnnotationHub",
         "BSgenome",
@@ -13739,7 +13735,6 @@
         "BiocFileCache",
         "biomaRt",
         "dbplyr",
-        "msa",
         "readr",
         "testthat",
         "waldo"
