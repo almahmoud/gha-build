@@ -7062,7 +7062,6 @@
         "graphite"
     ],
     "MOMA": [
-        "MKmisc",
         "MultiAssayExperiment",
         "qvalue",
         "readr",
@@ -13423,7 +13422,6 @@
         "broom",
         "tidyr"
     ],
-    "MKmisc": [],
     "HiveR": [],
     "anyLib": [
         "devtools",
