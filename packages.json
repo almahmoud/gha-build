@@ -34783,7 +34783,6 @@
         "tidyr",
         "tidyselect",
         "tseries",
-        "urca",
         "vctrs",
         "viridis",
         "vsn",
@@ -56733,11 +56732,9 @@
         "scales",
         "tibble",
         "tseries",
-        "urca",
         "vctrs",
         "xts"
     ],
-    "urca": [],
     "rhandsontable": [
         "htmlwidgets"
     ],
