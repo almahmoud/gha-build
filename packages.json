@@ -8691,7 +8691,6 @@
         "vctrs",
         "visNetwork"
     ],
-    "Cormotif": [],
     "corral": [
         "DelayedArray",
         "GenomeInfoDb",
