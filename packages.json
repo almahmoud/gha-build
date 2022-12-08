@@ -568,7 +568,6 @@
         "GO.db",
         "KEGGREST",
         "Seurat",
-        "SeuratObject",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "cowplot",
@@ -1281,7 +1280,6 @@
         "MAST",
         "MultiAssayExperiment",
         "Seurat",
-        "SeuratObject",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "TreeSummarizedExperiment",
@@ -2649,7 +2647,6 @@
     "CelliD": [
         "BiocSingular",
         "Seurat",
-        "SeuratObject",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "cowplot",
@@ -5660,7 +5657,6 @@
     "Dino": [
         "BiocSingular",
         "Seurat",
-        "SeuratObject",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "bluster",
@@ -8396,7 +8392,6 @@
         "GGally",
         "GeomxTools",
         "NanoStringNCTools",
-        "SeuratObject",
         "cellranger",
         "dplyr",
         "forcats",
@@ -8466,7 +8461,6 @@
         "EnvStats",
         "GGally",
         "NanoStringNCTools",
-        "SeuratObject",
         "cellranger",
         "dplyr",
         "forcats",
@@ -9860,7 +9854,6 @@
     ],
     "infercnv": [
         "Seurat",
-        "SeuratObject",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "coin",
@@ -10137,7 +10130,6 @@
         "HDO.db",
         "KEGGREST",
         "Seurat",
-        "SeuratObject",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "aplot",
@@ -14121,7 +14113,6 @@
     ],
     "Nebulosa": [
         "Seurat",
-        "SeuratObject",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "cowplot",
@@ -15726,7 +15717,6 @@
     "pipeComp": [
         "BiocSingular",
         "Seurat",
-        "SeuratObject",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "bluster",
@@ -18528,7 +18518,6 @@
     ],
     "scAlign": [
         "Seurat",
-        "SeuratObject",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "cowplot",
@@ -18602,7 +18591,6 @@
         "BiocFileCache",
         "KEGGREST",
         "Seurat",
-        "SeuratObject",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "caret",
@@ -18669,7 +18657,6 @@
         "DESeq2",
         "KEGGREST",
         "Seurat",
-        "SeuratObject",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "annotate",
@@ -18692,7 +18679,6 @@
     ],
     "scBubbletree": [
         "Seurat",
-        "SeuratObject",
         "aplot",
         "cowplot",
         "dplyr",
@@ -18716,7 +18702,6 @@
     "scCB2": [
         "DropletUtils",
         "Seurat",
-        "SeuratObject",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "cowplot",
@@ -18756,7 +18741,6 @@
         "viridis"
     ],
     "sccomp": [
-        "SeuratObject",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "dplyr",
@@ -18771,7 +18755,6 @@
     ],
     "scDataviz": [
         "Seurat",
-        "SeuratObject",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "cowplot",
@@ -18864,7 +18847,6 @@
     ],
     "schex": [
         "Seurat",
-        "SeuratObject",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "concaveman",
@@ -18902,7 +18884,6 @@
     ],
     "scMAGeCK": [
         "Seurat",
-        "SeuratObject",
         "cowplot",
         "dplyr",
         "ggplot2",
@@ -19101,7 +19082,6 @@
         "tidyr"
     ],
     "scRepertoire": [
-        "SeuratObject",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "dplyr",
@@ -19170,7 +19150,6 @@
         "MeSHDbi",
         "ReactomePA",
         "Seurat",
-        "SeuratObject",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "annotate",
@@ -19228,7 +19207,6 @@
         "GSEABase",
         "KEGGREST",
         "Seurat",
-        "SeuratObject",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "annotate",
@@ -19268,7 +19246,6 @@
         "OrganismDbi",
         "Rsamtools",
         "Seurat",
-        "SeuratObject",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "biomaRt",
@@ -19909,7 +19886,6 @@
         "MAST",
         "Rsamtools",
         "Seurat",
-        "SeuratObject",
         "SingleCellExperiment",
         "SingleR",
         "SoupX",
@@ -20231,7 +20207,6 @@
         "BiocSingular",
         "DropletUtils",
         "Seurat",
-        "SeuratObject",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "bluster",
@@ -20323,7 +20298,6 @@
         "GGally",
         "GeomxTools",
         "NanoStringNCTools",
-        "SeuratObject",
         "cellranger",
         "dplyr",
         "forcats",
@@ -20649,7 +20623,6 @@
         "BiocFileCache",
         "DropletUtils",
         "Seurat",
-        "SeuratObject",
         "SingleCellExperiment",
         "SpatialExperiment",
         "SummarizedExperiment",
@@ -20925,7 +20898,6 @@
         "BiocFileCache",
         "DropletUtils",
         "Seurat",
-        "SeuratObject",
         "SingleCellExperiment",
         "SpatialExperiment",
         "SummarizedExperiment",
@@ -23370,7 +23342,6 @@
         "KEGGREST"
     ],
     "Seurat": [
-        "SeuratObject",
         "cowplot",
         "dplyr",
         "ggplot2",
@@ -23407,7 +23378,6 @@
         "ggplot2",
         "reshape2"
     ],
-    "SeuratObject": [],
     "spatstat.explore": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
@@ -25775,7 +25745,6 @@
     ],
     "SoupX": [
         "Seurat",
-        "SeuratObject",
         "cowplot",
         "dplyr",
         "ggplot2",
