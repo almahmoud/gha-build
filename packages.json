@@ -19884,7 +19884,6 @@
         "SummarizedExperiment",
         "XVector",
         "bamsignals",
-        "chromstaRData",
         "cli",
         "colorspace",
         "cpp11",
@@ -149027,7 +149026,6 @@
         "Rcpp"
     ],
     "shades": [],
-    "chromstaRData": [],
     "DDRTree": [
         "BH",
         "Matrix",
