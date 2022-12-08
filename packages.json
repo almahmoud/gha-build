@@ -442,9 +442,7 @@
         "dmrseq",
         "regioneR"
     ],
-    "BiSeq": [
-        "globaltest"
-    ],
+    "BiSeq": [],
     "BitSeq": [],
     "blacksheepr": [
         "DESeq2",
@@ -715,7 +713,6 @@
         "bumphunter",
         "ensembldb",
         "geneLenDataBase",
-        "globaltest",
         "goseq",
         "lumi",
         "methylumi",
@@ -1517,7 +1514,6 @@
         "GSVA",
         "PADOG",
         "gage",
-        "globaltest",
         "hgu133plus2.db",
         "pathview",
         "topGO"
@@ -2193,10 +2189,8 @@
         "testthat"
     ],
     "GlobalAncova": [
-        "GSEABase",
-        "globaltest"
+        "GSEABase"
     ],
-    "globaltest": [],
     "gmapR": [
         "GenomicFeatures",
         "VariantAnnotation"
@@ -4930,9 +4924,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "SIM": [
-        "globaltest"
-    ],
+    "SIM": [],
     "SimBindProfiles": [
         "Ringo"
     ],
