@@ -130,12 +130,10 @@
     ],
     "clusterProfiler": [],
     "CNVfilteR": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "CNViz": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "comapr": [],
     "coMET": [],
@@ -158,9 +156,7 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
     ],
-    "CopyNumberPlots": [
-        "karyoploteR"
-    ],
+    "CopyNumberPlots": [],
     "coseq": [],
     "crisprVerse": [
         "crisprViz"
@@ -471,7 +467,6 @@
         "rstatix",
         "survminer"
     ],
-    "karyoploteR": [],
     "kissDE": [
         "DSS",
         "FactoMineR",
@@ -676,9 +671,7 @@
         "MSstats",
         "lmerTest"
     ],
-    "multicrispr": [
-        "karyoploteR"
-    ],
+    "multicrispr": [],
     "multiSight": [
         "ReactomePA",
         "clusterProfiler"
@@ -861,9 +854,7 @@
     "rifi": [
         "car"
     ],
-    "RIPAT": [
-        "karyoploteR"
-    ],
+    "RIPAT": [],
     "RITAN": [],
     "RLSeq": [],
     "RNAAgeCalc": [
