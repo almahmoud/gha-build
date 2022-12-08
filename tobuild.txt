@@ -1,4 +1,0 @@
-CATALYST
-TCGAbiolinksGUI
-diffcyt
-MetaCyto
