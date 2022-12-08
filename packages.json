@@ -413,7 +413,6 @@
         "treeio"
     ],
     "BiocDockerManager": [],
-    "BiocFHIR": [],
     "biocGraph": [
         "geneplotter"
     ],
