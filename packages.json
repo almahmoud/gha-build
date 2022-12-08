@@ -58,7 +58,6 @@
     "ATACCoGAPS": [
         "Homo.sapiens",
         "Mus.musculus",
-        "chromVAR",
         "projectR",
         "rGREAT"
     ],
@@ -233,7 +232,6 @@
     "ChIPseeker": [
         "enrichplot"
     ],
-    "chromVAR": [],
     "cicero": [
         "Gviz",
         "biovizBase"
