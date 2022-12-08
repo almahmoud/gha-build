@@ -20936,7 +20936,6 @@
     "STRINGdb": [
         "sqldf"
     ],
-    "STROMA4": [],
     "struct": [
         "SummarizedExperiment",
         "knitr",
