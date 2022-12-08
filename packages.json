@@ -1730,7 +1730,6 @@
     ],
     "biotmle": [
         "SummarizedExperiment",
-        "SuperLearner",
         "dplyr",
         "drtmle",
         "ggdendro",
@@ -22696,10 +22695,7 @@
         "ggdendro",
         "ggplot2"
     ],
-    "drtmle": [
-        "SuperLearner"
-    ],
-    "SuperLearner": [],
+    "drtmle": [],
     "biscuiteerData": [
         "AnnotationDbi",
         "AnnotationHub",
