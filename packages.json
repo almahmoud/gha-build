@@ -19628,7 +19628,6 @@
         "XVector",
         "gcrma"
     ],
-    "massiR": [],
     "MAST": [
         "GenomicRanges",
         "SingleCellExperiment",
