@@ -1026,7 +1026,6 @@
         "ggplot2",
         "ggrepel",
         "glmnet",
-        "gridSVG",
         "hardhat",
         "htmlwidgets",
         "httpuv",
@@ -1722,7 +1721,6 @@
         "gcrma",
         "genefilter",
         "ggplot2",
-        "gridSVG",
         "htmlTable",
         "htmlwidgets",
         "httr",
@@ -23150,7 +23148,6 @@
         "bslib",
         "genefilter",
         "ggplot2",
-        "gridSVG",
         "htmlwidgets",
         "httpuv",
         "httr",
@@ -28489,7 +28486,6 @@
         "ggtree",
         "gld",
         "glmnet",
-        "gridSVG",
         "hardhat",
         "hms",
         "htmlTable",
@@ -54161,7 +54157,6 @@
     "plotROC": [
         "bslib",
         "ggplot2",
-        "gridSVG",
         "httpuv",
         "jquerylib",
         "memoise",
@@ -54211,7 +54206,6 @@
     "modeest": [
         "statip"
     ],
-    "gridSVG": [],
     "statip": [],
     "clock": [
         "vctrs"
