@@ -5066,7 +5066,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "CellScore": [],
     "CellTrails": [
         "DelayedArray",
         "EnvStats",
