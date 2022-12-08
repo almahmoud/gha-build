@@ -3172,7 +3172,6 @@
         "ensembldb",
         "motifmatchr"
     ],
-    "SPIAT": [],
     "spicyR": [
         "lme4",
         "lmerTest"
