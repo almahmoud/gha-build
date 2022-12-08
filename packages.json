@@ -813,7 +813,6 @@
         "ggpubr",
         "lme4",
         "pbkrtest",
-        "progeny",
         "rstatix",
         "viper"
     ],
@@ -2331,7 +2330,6 @@
         "ggtree",
         "rGREAT"
     ],
-    "progeny": [],
     "projectR": [],
     "pRoloc": [
         "caret"
