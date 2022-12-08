@@ -18882,7 +18882,6 @@
         "XVector",
         "biomaRt",
         "blob",
-        "changepoint.np",
         "dbplyr",
         "dplyr",
         "ggplot2",
@@ -45657,7 +45656,6 @@
         "oligoClasses",
         "vctrs"
     ],
-    "changepoint.np": [],
     "hgu95av2.db": [
         "AnnotationDbi",
         "Biostrings",
