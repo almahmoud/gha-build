@@ -892,7 +892,6 @@
     "Gviz": [
         "biovizBase"
     ],
-    "GWAS.BAYES": [],
     "gwascat": [],
     "GWASTools": [],
     "gwasurvivr": [
