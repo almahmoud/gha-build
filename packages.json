@@ -4498,7 +4498,6 @@
         "topGO",
         "vctrs"
     ],
-    "BGmix": [],
     "bgx": [
         "Biostrings",
         "GenomeInfoDb",
