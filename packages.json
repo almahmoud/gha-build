@@ -101,7 +101,6 @@
     "ChAMP": [
         "DMRcate",
         "DSS",
-        "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "lumi",
         "missMethyl",
         "wateRmelon"
@@ -214,7 +213,6 @@
     "DMCFB": [],
     "DMRcate": [
         "DSS",
-        "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "missMethyl"
     ],
     "DMRforPairs": [],
@@ -472,7 +470,6 @@
     "MBECS": [],
     "mCSEA": [],
     "MEAL": [
-        "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "missMethyl"
     ],
     "MEAT": [
@@ -519,7 +516,6 @@
         "rstatix"
     ],
     "methylGSA": [
-        "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "clusterProfiler",
         "missMethyl"
     ],
@@ -558,9 +554,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "missMethyl": [
-        "IlluminaHumanMethylationEPICanno.ilm10b4.hg19"
-    ],
+    "missMethyl": [],
     "mitoClone2": [],
     "MMUPHin": [
         "Maaslin2",
@@ -986,7 +980,6 @@
         "car"
     ],
     "GenomicTools": [],
-    "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [],
     "spp": [],
     "propr": [],
     "factoextra": [
