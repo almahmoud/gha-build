@@ -3127,7 +3127,6 @@
         "DESeq2"
     ],
     "netbiov": [],
-    "netboost": [],
     "netboxr": [
         "DOSE",
         "clusterProfiler",
