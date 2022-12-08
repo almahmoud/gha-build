@@ -12,9 +12,7 @@
         "affycoretools"
     ],
     "AllelicImbalance": [],
-    "ANCOMBC": [
-        "lmerTest"
-    ],
+    "ANCOMBC": [],
     "appreci8R": [],
     "ArrayExpressHTS": [],
     "arrayMvout": [
@@ -37,8 +35,7 @@
         "doBy"
     ],
     "benchdamic": [
-        "ANCOMBC",
-        "lmerTest"
+        "ANCOMBC"
     ],
     "bigmelon": [
         "lumi",
@@ -135,9 +132,7 @@
     ],
     "comapr": [],
     "coMET": [],
-    "coMethDMR": [
-        "lmerTest"
-    ],
+    "coMethDMR": [],
     "compEpiTools": [
         "methylPipe"
     ],
@@ -375,8 +370,7 @@
         "ttgsea"
     ],
     "GeoDiff": [
-        "GeomxTools",
-        "lmerTest"
+        "GeomxTools"
     ],
     "GEOexplorer": [
         "FactoMineR",
@@ -385,9 +379,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "GeomxTools": [
-        "lmerTest"
-    ],
+    "GeomxTools": [],
     "GEWIST": [
         "car"
     ],
@@ -474,7 +466,6 @@
         "rstatix"
     ],
     "lisaClust": [
-        "lmerTest",
         "spicyR"
     ],
     "LowMACA": [],
@@ -482,13 +473,11 @@
         "methylumi"
     ],
     "Maaslin2": [
-        "car",
-        "lmerTest"
+        "car"
     ],
     "Macarron": [
         "Maaslin2",
-        "car",
-        "lmerTest"
+        "car"
     ],
     "MAGAR": [
         "RnBeads",
@@ -501,9 +490,7 @@
         "agricolae"
     ],
     "maser": [],
-    "MBECS": [
-        "lmerTest"
-    ],
+    "MBECS": [],
     "mCSEA": [],
     "MEAL": [
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
@@ -572,8 +559,7 @@
         "car"
     ],
     "microbiomeMarker": [
-        "ANCOMBC",
-        "lmerTest"
+        "ANCOMBC"
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler"
@@ -609,8 +595,7 @@
     "mitoClone2": [],
     "MMUPHin": [
         "Maaslin2",
-        "car",
-        "lmerTest"
+        "car"
     ],
     "MoonlightR": [
         "clusterProfiler"
@@ -636,13 +621,11 @@
         "car",
         "factoextra",
         "ggpubr",
-        "lmerTest",
         "rstatix"
     ],
     "MSstatsPTM": [
         "MSstats",
-        "MSstatsTMT",
-        "lmerTest"
+        "MSstatsTMT"
     ],
     "MSstatsSampleSize": [
         "MSstats"
@@ -650,12 +633,10 @@
     "MSstatsShiny": [
         "MSstats",
         "MSstatsPTM",
-        "MSstatsTMT",
-        "lmerTest"
+        "MSstatsTMT"
     ],
     "MSstatsTMT": [
-        "MSstats",
-        "lmerTest"
+        "MSstats"
     ],
     "multicrispr": [],
     "multiSight": [
@@ -664,7 +645,6 @@
     ],
     "muscat": [
         "blme",
-        "lmerTest",
         "variancePartition"
     ],
     "musicatk": [
@@ -915,9 +895,7 @@
     "selectKSigs": [],
     "shinyepico": [],
     "shinyMethyl": [],
-    "SIAMCAT": [
-        "lmerTest"
-    ],
+    "SIAMCAT": [],
     "signatureSearch": [
         "clusterProfiler"
     ],
@@ -951,15 +929,12 @@
     ],
     "SomaticSignatures": [],
     "SpatialDecon": [
-        "GeomxTools",
-        "lmerTest"
+        "GeomxTools"
     ],
     "spatzie": [
         "GenomicInteractions"
     ],
-    "spicyR": [
-        "lmerTest"
-    ],
+    "spicyR": [],
     "SPLINTER": [],
     "SPONGE": [
         "car",
@@ -1041,9 +1016,7 @@
         "textstem",
         "ttgsea"
     ],
-    "variancePartition": [
-        "lmerTest"
-    ],
+    "variancePartition": [],
     "VariantExperiment": [],
     "VariantFiltering": [],
     "VCFArray": [],
@@ -1065,7 +1038,6 @@
         "quantro"
     ],
     "zenith": [
-        "lmerTest",
         "variancePartition"
     ],
     "ggpubr": [
@@ -1076,7 +1048,6 @@
         "car"
     ],
     "car": [],
-    "lmerTest": [],
     "mGSZ": [],
     "doBy": [],
     "radiant.data": [
