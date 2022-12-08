@@ -11559,7 +11559,6 @@
         "rstudioapi",
         "sandwich",
         "scales",
-        "sm",
         "snow",
         "stringi",
         "stringr",
@@ -18042,7 +18041,6 @@
         "rstudioapi",
         "scales",
         "scatterplot3d",
-        "sm",
         "sp",
         "spBayes",
         "stringi",
@@ -22939,9 +22937,7 @@
         "yaml",
         "zlibbioc"
     ],
-    "clustComp": [
-        "sm"
-    ],
+    "clustComp": [],
     "clusterExperiment": [
         "AnnotationDbi",
         "BH",
@@ -25887,7 +25883,6 @@
         "rmutil",
         "rpart",
         "scales",
-        "sm",
         "spatial",
         "stable",
         "stabledist",
@@ -27154,7 +27149,6 @@
         "png",
         "rlang",
         "scales",
-        "sm",
         "snow",
         "survival",
         "sys",
@@ -56088,7 +56082,6 @@
         "plogr",
         "png",
         "rlang",
-        "sm",
         "sys",
         "vctrs",
         "vioplot",
@@ -83041,7 +83034,6 @@
         "rtracklayer",
         "scales",
         "seqLogo",
-        "sm",
         "snow",
         "stabs",
         "stringi",
@@ -98513,7 +98505,6 @@
         "shinydashboard",
         "shinyjs",
         "slam",
-        "sm",
         "snow",
         "sourcetools",
         "stringi",
@@ -103553,7 +103544,6 @@
         "shinyjqui",
         "shinyjs",
         "shinythemes",
-        "sm",
         "snow",
         "sourcetools",
         "stringi",
@@ -106952,7 +106942,6 @@
         "shinydashboard",
         "shinyjs",
         "slam",
-        "sm",
         "snow",
         "sourcetools",
         "stringi",
@@ -146719,7 +146708,6 @@
         "shinydashboard",
         "shinyjs",
         "slam",
-        "sm",
         "snow",
         "sourcetools",
         "stringi",
@@ -155381,7 +155369,6 @@
     ],
     "vioplot": [
         "lattice",
-        "sm",
         "zoo"
     ],
     "CMplot": [],
@@ -155426,7 +155413,6 @@
         "survival",
         "zoo"
     ],
-    "sm": [],
     "xlsxjars": [
         "rJava"
     ],
@@ -169080,8 +169066,7 @@
         "celestial",
         "mapproj",
         "plotrix",
-        "pracma",
-        "sm"
+        "pracma"
     ],
     "celestial": [
         "RANN",
