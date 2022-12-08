@@ -510,7 +510,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "ChIPanalyser": [],
     "ChIPComp": [],
     "chipenrich": [],
     "ChIPexoQual": [
