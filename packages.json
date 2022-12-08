@@ -506,7 +506,6 @@
         "plotly",
         "recipes"
     ],
-    "banocc": [],
     "barcodetrackR": [],
     "basecallQC": [
         "ShortRead"
