@@ -4719,9 +4719,7 @@
         "nloptr",
         "testthat"
     ],
-    "SpidermiR": [
-        "miRNAtap.db"
-    ],
+    "SpidermiR": [],
     "spiky": [],
     "splatter": [],
     "SpliceWiz": [
@@ -4801,8 +4799,7 @@
         "cellHTS2"
     ],
     "StarBioTrek": [
-        "SpidermiR",
-        "miRNAtap.db"
+        "SpidermiR"
     ],
     "Statial": [
         "haven",
@@ -5817,7 +5814,6 @@
         "ExperimentHub"
     ],
     "sampSurf": [],
-    "miRNAtap.db": [],
     "MESS": [
         "geepack",
         "ggformula",
