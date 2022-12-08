@@ -2417,7 +2417,6 @@
         "bumphunter"
     ],
     "MinimumDistance": [
-        "BSgenome.Hsapiens.UCSC.hg18",
         "VanillaICE"
     ],
     "MIRA": [],
@@ -4269,9 +4268,7 @@
         "textstem",
         "ttgsea"
     ],
-    "VanillaICE": [
-        "BSgenome.Hsapiens.UCSC.hg18"
-    ],
+    "VanillaICE": [],
     "VarCon": [],
     "variancePartition": [
         "lme4",
@@ -4659,7 +4656,6 @@
         "OrganismDbi"
     ],
     "HardyWeinberg": [],
-    "BSgenome.Hsapiens.UCSC.hg18": [],
     "s4vd": [],
     "BiBitR": [],
     "cvms": [
