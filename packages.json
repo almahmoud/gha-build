@@ -102,7 +102,6 @@
         "dplyr",
         "tidyr"
     ],
-    "AffyCompatible": [],
     "affycoretools": [
         "AnnotationDbi",
         "AnnotationForge",
