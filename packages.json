@@ -2987,7 +2987,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "bumphunter",
         "lumi",
-        "lumiHumanAll.db",
         "methylumi",
         "minfi"
     ],
@@ -5834,7 +5833,6 @@
     "HardyWeinberg": [
         "mice"
     ],
-    "lumiHumanAll.db": [],
     "BSgenome.Hsapiens.UCSC.hg18": [],
     "s4vd": [],
     "BiBitR": [],
