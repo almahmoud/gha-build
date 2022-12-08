@@ -1021,7 +1021,6 @@
         "rematch2",
         "scatterpie",
         "shadowtext",
-        "shinyFiles",
         "testthat",
         "tidygraph",
         "tidyr",
@@ -2299,7 +2298,6 @@
         "scater",
         "scran",
         "scuttle",
-        "shinyFiles",
         "shinydashboardPlus",
         "tidyr",
         "viridis"
@@ -2594,7 +2592,6 @@
     "CNVPanelizer": [
         "exomeCopy",
         "rematch2",
-        "shinyFiles",
         "testthat",
         "waldo"
     ],
@@ -6984,7 +6981,6 @@
         "readxl",
         "rematch2",
         "rstatix",
-        "shinyFiles",
         "testthat",
         "tidyr",
         "viridis",
@@ -7340,7 +7336,6 @@
         "dbplyr",
         "learnr",
         "readr",
-        "shinyFiles",
         "sortable",
         "tidyr"
     ],
@@ -8426,9 +8421,7 @@
         "rtracklayer",
         "viridis"
     ],
-    "methylscaper": [
-        "shinyFiles"
-    ],
+    "methylscaper": [],
     "MethylSeekR": [
         "AnnotationDbi",
         "BSgenome",
@@ -10186,7 +10179,6 @@
         "dbplyr",
         "ensembldb",
         "rtracklayer",
-        "shinyFiles",
         "tidyr",
         "viridis"
     ],
@@ -10343,7 +10335,6 @@
     ],
     "oneSENSE": [
         "plotly",
-        "shinyFiles",
         "tidyr"
     ],
     "ontoProc": [
@@ -10896,7 +10887,6 @@
         "bookdown",
         "colourpicker",
         "dbplyr",
-        "shinyFiles",
         "topGO"
     ],
     "phyloseq": [],
@@ -14284,7 +14274,6 @@
         "heatmaply",
         "plotly",
         "rtracklayer",
-        "shinyFiles",
         "tidyr",
         "viridis"
     ],
@@ -14760,7 +14749,6 @@
         "bsplus",
         "drawer",
         "plotly",
-        "shinyFiles",
         "shinydashboardPlus",
         "shinyjqui",
         "shinytoastr",
@@ -14940,7 +14928,6 @@
         "sesame",
         "sesameData",
         "shadowtext",
-        "shinyFiles",
         "testthat",
         "tidygraph",
         "tidyr",
@@ -15396,9 +15383,7 @@
         "rtracklayer",
         "viridis"
     ],
-    "Trendy": [
-        "shinyFiles"
-    ],
+    "Trendy": [],
     "TRESS": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -15431,7 +15416,6 @@
     "tripr": [
         "golem",
         "plotly",
-        "shinyFiles",
         "tidyr"
     ],
     "tRNA": [],
@@ -15510,8 +15494,7 @@
         "mirbase.db",
         "plotgardener",
         "plyranges",
-        "rtracklayer",
-        "shinyFiles"
+        "rtracklayer"
     ],
     "UMI4Cats": [
         "AnnotationDbi",
@@ -15617,8 +15600,7 @@
     "VarCon": [
         "BSgenome",
         "GenomicAlignments",
-        "rtracklayer",
-        "shinyFiles"
+        "rtracklayer"
     ],
     "variancePartition": [
         "broom",
@@ -16461,7 +16443,6 @@
         "readr",
         "readxl",
         "rematch2",
-        "shinyFiles",
         "testthat",
         "tidyr",
         "waldo"
@@ -16480,7 +16461,6 @@
     "HDO.db": [
         "AnnotationDbi"
     ],
-    "shinyFiles": [],
     "ggraph": [
         "ggforce",
         "ggrepel",
