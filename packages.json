@@ -14942,8 +14942,7 @@
         "sqldf",
         "stringr",
         "tibble",
-        "tidyselect",
-        "yeastExpData"
+        "tidyselect"
     ],
     "GSgalgoR": [],
     "GSReg": [
@@ -26052,8 +26051,7 @@
         "sqldf",
         "stringr",
         "tibble",
-        "tidyselect",
-        "yeastExpData"
+        "tidyselect"
     ],
     "pqsfinder": [
         "Biostrings",
@@ -41297,7 +41295,6 @@
         "pillar",
         "tibble"
     ],
-    "yeastExpData": [],
     "BatchJobs": [
         "RSQLite",
         "blob"
