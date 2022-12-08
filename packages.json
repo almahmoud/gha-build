@@ -8615,7 +8615,6 @@
         "qvalue",
         "scatterpie",
         "shadowtext",
-        "shinycustomloader",
         "tidygraph",
         "tidyr",
         "tidytree",
@@ -15853,8 +15852,7 @@
         "rtracklayer"
     ],
     "wpm": [
-        "golem",
-        "shinycustomloader"
+        "golem"
     ],
     "wppi": [
         "OmnipathR",
@@ -17254,7 +17252,6 @@
         "GGally",
         "tidyr"
     ],
-    "shinycustomloader": [],
     "ggstar": [],
     "formattable": [],
     "HardyWeinberg": [
