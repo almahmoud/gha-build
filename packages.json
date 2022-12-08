@@ -1138,7 +1138,6 @@
         "enrichplot",
         "ggtree"
     ],
-    "meshr": [],
     "metabCombiner": [],
     "MetaboAnnotation": [],
     "MetaboSignal": [
@@ -1923,8 +1922,7 @@
         "GOstats",
         "ReactomePA",
         "enrichplot",
-        "ggtree",
-        "meshr"
+        "ggtree"
     ],
     "scTGIF": [],
     "scTreeViz": [
