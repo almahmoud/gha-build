@@ -11008,7 +11008,6 @@
         "GenomicRanges",
         "IRanges",
         "RaggedExperiment",
-        "SNPRelate",
         "SeqArray",
         "SummarizedExperiment",
         "XVector",
@@ -22629,7 +22628,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "SNPRelate",
         "SeqArray",
         "XVector"
     ],
@@ -23037,7 +23035,6 @@
         "IRanges",
         "MatrixModels",
         "RSQLite",
-        "SNPRelate",
         "SeqArray",
         "SeqVarTools",
         "XVector",
@@ -26301,7 +26298,6 @@
         "MatrixModels",
         "RSQLite",
         "Rsamtools",
-        "SNPRelate",
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
@@ -55409,7 +55405,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "SNPRelate",
         "XVector",
         "bit64",
         "blob",
@@ -57397,7 +57392,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "SNPRelate": [],
     "snpStats": [
         "survival"
     ],
@@ -64306,7 +64300,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "SNPRelate",
         "SeqArray",
         "SeqVarTools",
         "SummarizedExperiment",
