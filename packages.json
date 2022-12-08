@@ -6582,7 +6582,6 @@
         "XVector",
         "baySeq"
     ],
-    "ClusterSignificance": [],
     "clustifyr": [
         "BiocParallel",
         "DelayedArray",
