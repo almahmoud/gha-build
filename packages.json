@@ -69428,7 +69428,6 @@
         "IRanges",
         "Matrix",
         "MatrixGenerics",
-        "RcppSpdlog",
         "bit64",
         "nanotime",
         "spdl",
@@ -85423,7 +85422,6 @@
         "vctrs"
     ],
     "tiledb": [
-        "RcppSpdlog",
         "bit64",
         "nanotime",
         "spdl",
@@ -85433,10 +85431,7 @@
         "bit64",
         "zoo"
     ],
-    "spdl": [
-        "RcppSpdlog"
-    ],
-    "RcppSpdlog": [],
+    "spdl": [],
     "FreqProf": [
         "Matrix",
         "bslib",
