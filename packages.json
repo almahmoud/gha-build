@@ -8765,7 +8765,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "WriteXLS",
         "XML",
         "XVector",
         "askpass",
@@ -15130,7 +15129,6 @@
     ],
     "COHCAP": [
         "RcppArmadillo",
-        "WriteXLS",
         "caTools",
         "gplots"
     ],
@@ -27798,7 +27796,6 @@
         "SummarizedExperiment",
         "TSCAN",
         "TrajectoryUtils",
-        "WriteXLS",
         "XVector",
         "bslib",
         "caTools",
@@ -39361,7 +39358,6 @@
         "viridisLite"
     ],
     "IsoCorrectoR": [
-        "WriteXLS",
         "bit64",
         "cellranger",
         "dplyr",
@@ -39381,7 +39377,6 @@
     ],
     "IsoCorrectoRGUI": [
         "IsoCorrectoR",
-        "WriteXLS",
         "bit64",
         "cellranger",
         "dplyr",
@@ -70368,7 +70363,6 @@
         "S4Vectors",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "WriteXLS",
         "XVector",
         "bslib",
         "caTools",
@@ -85713,7 +85707,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "WriteXLS",
         "XML",
         "XVector",
         "askpass",
@@ -93124,7 +93117,6 @@
         "restfulr",
         "rtracklayer"
     ],
-    "WriteXLS": [],
     "devtools": [
         "askpass",
         "brio",
