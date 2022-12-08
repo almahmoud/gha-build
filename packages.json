@@ -6062,7 +6062,6 @@
         "testthat",
         "waldo"
     ],
-    "msPurity": [],
     "msqrob2": [
         "MultiAssayExperiment",
         "QFeatures",
