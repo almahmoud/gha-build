@@ -740,7 +740,6 @@
         "scuttle",
         "testthat",
         "tidyr",
-        "tidytext",
         "tidytree",
         "treeio",
         "viridis",
@@ -5404,7 +5403,6 @@
     "GSEAmining": [
         "dendextend",
         "ggwordcloud",
-        "tidytext",
         "viridis"
     ],
     "gsean": [
@@ -5684,8 +5682,7 @@
     ],
     "HubPub": [
         "available",
-        "biocthis",
-        "tidytext"
+        "biocthis"
     ],
     "HumanTranscriptomeCompendium": [],
     "hypeR": [
@@ -13958,7 +13955,6 @@
     "corncob": [
         "phyloseq"
     ],
-    "tidytext": [],
     "sjmisc": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "BiocFileCache",
@@ -14558,9 +14554,7 @@
         "BiocFileCache",
         "ExperimentHub"
     ],
-    "available": [
-        "tidytext"
-    ],
+    "available": [],
     "biclust": [
         "tidyr"
     ],
