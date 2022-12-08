@@ -25886,7 +25886,6 @@
         "reshape2",
         "tibble"
     ],
-    "SwathXtend": [],
     "switchde": [
         "GenomicRanges",
         "SingleCellExperiment",
