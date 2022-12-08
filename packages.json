@@ -2671,9 +2671,7 @@
         "annotate",
         "geneplotter"
     ],
-    "deltaGseg": [
-        "tseries"
-    ],
+    "deltaGseg": [],
     "DeMixT": [
         "BSgenome",
         "DSS",
@@ -8187,8 +8185,7 @@
         "Hmisc",
         "MSnbase",
         "forecast",
-        "tidyr",
-        "tseries"
+        "tidyr"
     ],
     "proActiv": [
         "BiocFileCache",
@@ -8659,8 +8656,7 @@
         "tidyr"
     ],
     "RCM": [
-        "phyloseq",
-        "tseries"
+        "phyloseq"
     ],
     "Rcpi": [
         "GO.db",
@@ -12343,7 +12339,6 @@
     "syuzhet": [
         "tidyr"
     ],
-    "tseries": [],
     "VIM": [
         "broom",
         "car",
@@ -12733,9 +12728,7 @@
         "GenomicScores",
         "rtracklayer"
     ],
-    "forecast": [
-        "tseries"
-    ],
+    "forecast": [],
     "EnsDb.Mmusculus.v79": [
         "BiocFileCache",
         "GenomicFeatures",
