@@ -2878,7 +2878,6 @@
         "rhdf5",
         "rhdf5filters",
         "rlang",
-        "rmutil",
         "rpart",
         "rprojroot",
         "sass",
@@ -25693,7 +25692,6 @@
         "phylolm",
         "pillar",
         "rlang",
-        "rmutil",
         "rpart",
         "scales",
         "spatial",
@@ -79080,7 +79078,6 @@
         "rematch2",
         "reshape",
         "rlang",
-        "rmutil",
         "rpart",
         "rprojroot",
         "scales",
@@ -149546,7 +149543,6 @@
         "permute",
         "pillar",
         "rlang",
-        "rmutil",
         "rpart",
         "scales",
         "spatial",
@@ -149621,7 +149617,6 @@
         "lazyeval"
     ],
     "statmod": [],
-    "rmutil": [],
     "dirmult": [],
     "modeest": [
         "MASS",
@@ -149629,7 +149624,6 @@
         "cluster",
         "fBasics",
         "gss",
-        "rmutil",
         "rpart",
         "spatial",
         "stable",
@@ -149662,9 +149656,7 @@
         "timeDate",
         "timeSeries"
     ],
-    "stable": [
-        "rmutil"
-    ],
+    "stable": [],
     "stabledist": [],
     "statip": [
         "clue",
