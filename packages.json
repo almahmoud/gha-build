@@ -833,7 +833,6 @@
         "annotate",
         "genefilter",
         "ggnetwork",
-        "intergraph",
         "sva"
     ],
     "BioNet": [],
@@ -1095,7 +1094,6 @@
         "genefilter",
         "ggbio",
         "ggnetwork",
-        "intergraph",
         "rtracklayer",
         "sva"
     ],
@@ -1294,7 +1292,6 @@
         "ggraph",
         "ggtree",
         "gson",
-        "intergraph",
         "scatterpie",
         "tidygraph",
         "tidytree",
@@ -3475,7 +3472,6 @@
         "ggraph",
         "ggtree",
         "gson",
-        "intergraph",
         "scatterpie",
         "tidygraph",
         "tidytree",
@@ -9904,7 +9900,6 @@
     ],
     "syntenet": [
         "ggnetwork",
-        "intergraph",
         "rtracklayer",
         "testthat",
         "waldo"
@@ -11068,7 +11063,6 @@
         "BiocFileCache"
     ],
     "ggnetwork": [],
-    "intergraph": [],
     "superheat": [],
     "biscuiteerData": [
         "AnnotationHub",
