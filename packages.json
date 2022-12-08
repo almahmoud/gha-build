@@ -539,7 +539,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "metagene": [],
     "MetaPhOR": [
         "clusterProfiler"
     ],
