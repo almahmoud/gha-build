@@ -4525,7 +4525,6 @@
         "plotly",
         "supraHex"
     ],
-    "netresponse": [],
     "NetSAM": [
         "WGCNA",
         "biomaRt"
