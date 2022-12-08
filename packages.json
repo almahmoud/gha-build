@@ -7,14 +7,12 @@
         "rstatix"
     ],
     "affycoretools": [
-        "GOstats",
         "Glimma",
         "ReportingTools",
         "biovizBase",
         "ggbio"
     ],
     "AgiMicroRna": [
-        "GOstats",
         "Glimma",
         "ReportingTools",
         "affycoretools",
@@ -76,9 +74,7 @@
     "atSNP": [
         "motifStack"
     ],
-    "attract": [
-        "GOstats"
-    ],
+    "attract": [],
     "BaalChIP": [
         "doBy",
         "lme4",
@@ -183,9 +179,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "categoryCompare": [
-        "GOstats"
-    ],
+    "categoryCompare": [],
     "cbaf": [
         "RTCGAToolbox",
         "cBioPortalData"
@@ -797,15 +791,12 @@
         "survminer"
     ],
     "gmapR": [],
-    "GmicR": [
-        "GOstats"
-    ],
+    "GmicR": [],
     "goseq": [],
     "goSorensen": [
         "clusterProfiler",
         "enrichplot"
     ],
-    "GOstats": [],
     "GRaNIE": [],
     "GRmetrics": [
         "car",
@@ -860,7 +851,6 @@
         "minfi"
     ],
     "ideal": [
-        "GOstats",
         "goseq",
         "pcaExplorer"
     ],
@@ -1161,22 +1151,17 @@
     "MicrobiotaProcess": [
         "ggtreeExtra"
     ],
-    "MIGSA": [
-        "GOstats"
-    ],
+    "MIGSA": [],
     "miloR": [],
     "MineICA": [
         "FDb.InfiniumMethylation.hg19",
-        "GOstats",
         "lumi",
         "methylumi",
         "minfi"
     ],
     "minfi": [],
     "MinimumDistance": [],
-    "miRLAB": [
-        "GOstats"
-    ],
+    "miRLAB": [],
     "miRSM": [
         "ReactomePA",
         "SPONGE",
@@ -1353,7 +1338,6 @@
     ],
     "netOmics": [],
     "netZooR": [
-        "GOstats",
         "minfi",
         "quantro",
         "yarn"
@@ -1448,9 +1432,7 @@
         "enrichplot"
     ],
     "PathoStat": [],
-    "pcaExplorer": [
-        "GOstats"
-    ],
+    "pcaExplorer": [],
     "PDATK": [
         "car",
         "ggpubr",
@@ -1490,9 +1472,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "PloGO2": [
-        "GOstats"
-    ],
+    "PloGO2": [],
     "plotGrouper": [
         "car",
         "ggpubr",
@@ -1612,7 +1592,6 @@
         "minfi"
     ],
     "ReportingTools": [
-        "GOstats",
         "biovizBase",
         "ggbio"
     ],
@@ -1768,7 +1747,6 @@
         "ggbio"
     ],
     "scTensor": [
-        "GOstats",
         "ReactomePA",
         "enrichplot"
     ],
