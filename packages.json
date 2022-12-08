@@ -5542,7 +5542,6 @@
         "sass",
         "scales",
         "segmented",
-        "sfsmisc",
         "shiny",
         "stringi",
         "stringr",
@@ -9875,7 +9874,6 @@
         "rlang",
         "rtracklayer",
         "sandwich",
-        "sfsmisc",
         "survival",
         "vctrs",
         "zlibbioc",
@@ -10357,7 +10355,6 @@
         "robustbase",
         "sass",
         "scales",
-        "sfsmisc",
         "snowfall",
         "statmod",
         "stringi",
@@ -25273,7 +25270,6 @@
         "sass",
         "scales",
         "selectr",
-        "sfsmisc",
         "shadowtext",
         "sn",
         "snowfall",
@@ -25779,7 +25775,6 @@
         "rmarkdown",
         "sass",
         "scales",
-        "sfsmisc",
         "sp",
         "stringi",
         "stringr",
@@ -33150,7 +33145,6 @@
         "rlang",
         "robustbase",
         "scales",
-        "sfsmisc",
         "snowfall",
         "statmod",
         "stringi",
@@ -36069,7 +36063,6 @@
         "rngtools",
         "rtracklayer",
         "scales",
-        "sfsmisc",
         "siggenes",
         "sparseMatrixStats",
         "stringi",
@@ -36804,7 +36797,6 @@
         "cpp11",
         "cytolib",
         "flowCore",
-        "sfsmisc",
         "zoo"
     ],
     "flowClust": [
@@ -50979,7 +50971,6 @@
         "purrr",
         "rlang",
         "scales",
-        "sfsmisc",
         "stringi",
         "stringr",
         "tibble",
@@ -58753,7 +58744,6 @@
         "scales",
         "sesame",
         "sesameData",
-        "sfsmisc",
         "shiny",
         "stringi",
         "stringr",
@@ -62253,7 +62243,6 @@
         "rvest",
         "scales",
         "selectr",
-        "sfsmisc",
         "stabs",
         "stringi",
         "stringr",
@@ -63362,7 +63351,6 @@
         "rlang",
         "robustbase",
         "sass",
-        "sfsmisc",
         "shiny",
         "survival",
         "threejs",
@@ -69471,7 +69459,6 @@
         "rlang",
         "robustbase",
         "scales",
-        "sfsmisc",
         "snowfall",
         "statmod",
         "stringi",
@@ -72993,7 +72980,6 @@
         "scales",
         "segmented",
         "seqinr",
-        "sfsmisc",
         "sp",
         "stringi",
         "stringr",
@@ -73084,7 +73070,6 @@
         "scales",
         "segmented",
         "seqinr",
-        "sfsmisc",
         "shiny",
         "shinyBS",
         "shinyjs",
@@ -78781,7 +78766,6 @@
         "openssl",
         "png",
         "rlang",
-        "sfsmisc",
         "survival",
         "vctrs",
         "zlibbioc"
@@ -79790,7 +79774,6 @@
         "sass",
         "scales",
         "segmented",
-        "sfsmisc",
         "shiny",
         "stringi",
         "stringr",
@@ -79946,7 +79929,6 @@
         "sass",
         "scales",
         "segmented",
-        "sfsmisc",
         "shiny",
         "shinyWidgets",
         "shinydashboard",
@@ -93597,7 +93579,6 @@
         "rsvd",
         "ruv",
         "scales",
-        "sfsmisc",
         "sparseMatrixStats",
         "statmod",
         "stringi",
@@ -97078,7 +97059,6 @@
         "rlang",
         "robustbase",
         "sass",
-        "sfsmisc",
         "shiny",
         "survival",
         "threejs",
@@ -98580,7 +98560,6 @@
         "scran",
         "sctransform",
         "scuttle",
-        "sfsmisc",
         "shiny",
         "shinyalert",
         "shinycssloaders",
@@ -118791,7 +118770,6 @@
         "withr"
     ],
     "gdata": [],
-    "sfsmisc": [],
     "ggvis": [
         "Rcpp",
         "base64enc",
@@ -120673,9 +120651,7 @@
         "sandwich",
         "zoo"
     ],
-    "lokern": [
-        "sfsmisc"
-    ],
+    "lokern": [],
     "pasilla": [
         "AnnotationDbi",
         "BH",
@@ -120872,7 +120848,6 @@
         "magrittr",
         "rlang",
         "robustbase",
-        "sfsmisc",
         "vcd",
         "zoo"
     ],
@@ -127301,9 +127276,7 @@
         "htmltools",
         "rlang"
     ],
-    "distr": [
-        "sfsmisc"
-    ],
+    "distr": [],
     "pd.mapping50k.xba240": [
         "Biobase",
         "BiocGenerics",
@@ -130023,8 +129996,7 @@
         "graph"
     ],
     "distrEx": [
-        "distr",
-        "sfsmisc"
+        "distr"
     ],
     "uniqtag": [],
     "AICcmodavg": [
