@@ -406,20 +406,15 @@
     "MSstatsLiP": [
         "FactoMineR",
         "MSstatsPTM",
-        "MSstatsTMT",
         "factoextra",
         "ggpubr",
         "rstatix"
     ],
-    "MSstatsPTM": [
-        "MSstatsTMT"
-    ],
+    "MSstatsPTM": [],
     "MSstatsSampleSize": [],
     "MSstatsShiny": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsTMT": [],
     "multicrispr": [],
     "multiSight": [
         "ReactomePA"
