@@ -282,7 +282,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "bigPint": [],
     "BindingSiteFinder": [
         "GenomicFeatures",
         "Gviz",
