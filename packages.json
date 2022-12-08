@@ -1327,7 +1327,6 @@
         "plotly",
         "viper"
     ],
-    "COTAN": [],
     "countsimQC": [
         "DESeq2",
         "genefilter",
