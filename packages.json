@@ -12262,7 +12262,6 @@
         "derfinder",
         "ggrepel",
         "highcharter",
-        "pairsD3",
         "qvalue",
         "readr",
         "recount",
@@ -18879,7 +18878,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "pairsD3": [],
     "shinyscreenshot": [],
     "pwrEWAS.data": [
         "AnnotationDbi",
