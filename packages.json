@@ -331,7 +331,6 @@
     ],
     "artMS": [
         "MSstats",
-        "UpSetR",
         "lme4",
         "nloptr",
         "org.Hs.eg.db",
@@ -375,7 +374,6 @@
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
-        "UpSetR",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -2818,7 +2816,6 @@
     ],
     "DiscoRhythm": [
         "BiocStyle",
-        "UpSetR",
         "broom",
         "colourpicker",
         "dendextend",
@@ -4884,9 +4881,7 @@
         "rtracklayer",
         "tidyr"
     ],
-    "iCOBRA": [
-        "UpSetR"
-    ],
+    "iCOBRA": [],
     "ideal": [
         "AnnotationForge",
         "BiocFileCache",
@@ -4896,7 +4891,6 @@
         "GOstats",
         "GSEABase",
         "GenomicFeatures",
-        "UpSetR",
         "annotate",
         "biomaRt",
         "dendextend",
@@ -5224,7 +5218,6 @@
         "waldo"
     ],
     "ivygapSE": [
-        "UpSetR",
         "broom",
         "car",
         "ggpubr",
@@ -5435,7 +5428,6 @@
         "tidyr"
     ],
     "LymphoSeq": [
-        "UpSetR",
         "aplot",
         "ggfun",
         "ggtree",
@@ -5512,7 +5504,6 @@
         "GenomicFeatures",
         "RnBeads",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "UpSetR",
         "annotate",
         "bigstatsr",
         "biomaRt",
@@ -5607,7 +5598,6 @@
     "MAST": [],
     "MatrixQCvis": [
         "Hmisc",
-        "UpSetR",
         "plotly",
         "tidyr"
     ],
@@ -9746,7 +9736,6 @@
         "geneplotter"
     ],
     "seqsetvis": [
-        "UpSetR",
         "rtracklayer"
     ],
     "SeqSQC": [
@@ -10200,7 +10189,6 @@
         "BiocFileCache",
         "GO.db",
         "Hmisc",
-        "UpSetR",
         "WGCNA",
         "annotate",
         "genefilter",
@@ -10487,7 +10475,6 @@
         "tidyr"
     ],
     "SummarizedBenchmark": [
-        "UpSetR",
         "tidyr"
     ],
     "Summix": [
@@ -10894,7 +10881,6 @@
         "BSgenome",
         "BiocFileCache",
         "GenomicFeatures",
-        "UpSetR",
         "VariantAnnotation",
         "bestNormalize",
         "biomaRt",
@@ -11290,9 +11276,7 @@
         "scuttle",
         "zellkonverter"
     ],
-    "VennDetail": [
-        "UpSetR"
-    ],
+    "VennDetail": [],
     "vidger": [
         "DESeq2",
         "GGally",
@@ -11311,7 +11295,6 @@
         "DiagrammeR",
         "GO.db",
         "GOSemSim",
-        "UpSetR",
         "biomaRt",
         "dendextend",
         "fgsea",
@@ -11708,7 +11691,6 @@
         "org.Hs.eg.db",
         "rtracklayer"
     ],
-    "UpSetR": [],
     "mGSZ": [],
     "ggfortify": [
         "tidyr"
@@ -12734,7 +12716,6 @@
         "tidyr"
     ],
     "naniar": [
-        "UpSetR",
         "readr",
         "tidyr",
         "visdat"
