@@ -4197,12 +4197,10 @@
         "testthat",
         "waldo"
     ],
-    "MeSHDbi": [],
     "meshes": [
         "AnnotationHub",
         "DOSE",
         "GOSemSim",
-        "MeSHDbi",
         "aplot",
         "enrichplot",
         "ggraph",
@@ -4215,7 +4213,6 @@
     "meshr": [
         "Category",
         "GSEABase",
-        "MeSHDbi",
         "genefilter"
     ],
     "MesKit": [],
@@ -7023,7 +7020,6 @@
         "GOSemSim",
         "GOstats",
         "GSEABase",
-        "MeSHDbi",
         "ReactomePA",
         "Seurat",
         "aplot",
