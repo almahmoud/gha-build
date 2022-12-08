@@ -45519,7 +45519,6 @@
         "latticeExtra",
         "lazyeval",
         "lifecycle",
-        "lsr",
         "magrittr",
         "matrixStats",
         "memoise",
@@ -80075,7 +80074,6 @@
         "lme4",
         "lobstr",
         "locfit",
-        "lsr",
         "made4",
         "magrittr",
         "matrixStats",
@@ -95362,7 +95360,6 @@
         "lifecycle",
         "lme4",
         "lobstr",
-        "lsr",
         "magrittr",
         "mgcv",
         "mice",
@@ -140653,7 +140650,6 @@
         "withr",
         "yaml"
     ],
-    "lsr": [],
     "flextable": [
         "Rcpp",
         "base64enc",
