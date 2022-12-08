@@ -2447,7 +2447,6 @@
         "GWASTools",
         "logistf"
     ],
-    "MCbiclust": [],
     "mCSEA": [
         "GenomicFeatures",
         "Gviz",
