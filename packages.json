@@ -120792,7 +120792,6 @@
         "isoband",
         "jquerylib",
         "knitr",
-        "kriging",
         "labeling",
         "later",
         "lattice",
@@ -153939,7 +153938,6 @@
         "viridisLite",
         "withr"
     ],
-    "kriging": [],
     "sftime": [
         "MASS",
         "Rcpp",
