@@ -639,7 +639,6 @@
         "lmerTest",
         "mia",
         "nloptr",
-        "phyloseq",
         "plotly",
         "scater",
         "scuttle",
@@ -1939,9 +1938,7 @@
         "rtracklayer",
         "tidyr"
     ],
-    "combi": [
-        "phyloseq"
-    ],
+    "combi": [],
     "coMET": [
         "BSgenome",
         "BiocFileCache",
@@ -5680,7 +5677,6 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "phyloseq",
         "sva",
         "testthat",
         "tidyr",
@@ -5992,7 +5988,6 @@
         "epivizr",
         "epivizrData",
         "epivizrStandalone",
-        "phyloseq",
         "rtracklayer"
     ],
     "MetaVolcanoR": [
@@ -6247,12 +6242,9 @@
         "treeio"
     ],
     "microbiome": [
-        "phyloseq",
         "tidyr"
     ],
-    "microbiomeDASim": [
-        "phyloseq"
-    ],
+    "microbiomeDASim": [],
     "microbiomeExplorer": [
         "DESeq2",
         "annotate",
@@ -6288,7 +6280,6 @@
         "lmerTest",
         "mia",
         "nloptr",
-        "phyloseq",
         "recipes",
         "scater",
         "scuttle",
@@ -7789,7 +7780,6 @@
         "annotate",
         "devtools",
         "geneplotter",
-        "phyloseq",
         "plotly",
         "testthat",
         "tidyr",
@@ -7865,9 +7855,7 @@
     "pepStat": [
         "fields"
     ],
-    "PERFect": [
-        "phyloseq"
-    ],
+    "PERFect": [],
     "periodicDNA": [
         "BSgenome",
         "rtracklayer"
@@ -7982,7 +7970,6 @@
         "colourpicker",
         "topGO"
     ],
-    "phyloseq": [],
     "Pi": [
         "caret",
         "dnet",
@@ -8138,8 +8125,7 @@
     ],
     "prebs": [
         "BiocStyle",
-        "RPA",
-        "phyloseq"
+        "RPA"
     ],
     "preciseTAD": [
         "BiocFileCache",
@@ -8654,9 +8640,7 @@
         "plotly",
         "tidyr"
     ],
-    "RCM": [
-        "phyloseq"
-    ],
+    "RCM": [],
     "Rcpi": [
         "GO.db",
         "GOSemSim"
@@ -8710,9 +8694,7 @@
     "receptLoss": [
         "tidyr"
     ],
-    "reconsi": [
-        "phyloseq"
-    ],
+    "reconsi": [],
     "recount": [
         "BSgenome",
         "BiocFileCache",
@@ -9305,8 +9287,7 @@
         "tidyr"
     ],
     "RPA": [
-        "BiocStyle",
-        "phyloseq"
+        "BiocStyle"
     ],
     "rprimer": [],
     "rpx": [
@@ -9952,7 +9933,6 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "phyloseq",
         "testthat",
         "waldo"
     ],
@@ -10063,7 +10043,6 @@
         "genefilter"
     ],
     "SimBu": [
-        "phyloseq",
         "tidyr"
     ],
     "simpleSeg": [
@@ -10485,8 +10464,7 @@
     "SPsimSeq": [
         "GO.db",
         "Hmisc",
-        "WGCNA",
-        "phyloseq"
+        "WGCNA"
     ],
     "SQLDataFrame": [],
     "SRAdb": [
@@ -11941,9 +11919,7 @@
         "plotly",
         "tidyr"
     ],
-    "corncob": [
-        "phyloseq"
-    ],
+    "corncob": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "BiocFileCache",
         "GEOquery",
