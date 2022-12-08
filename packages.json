@@ -6059,7 +6059,6 @@
         "ggtree",
         "heatmaply",
         "meshr",
-        "nnTensor",
         "plotly",
         "reactome.db",
         "scatterpie",
@@ -6071,7 +6070,6 @@
     "scTGIF": [
         "GSEABase",
         "Seurat",
-        "nnTensor",
         "plotly",
         "schex"
     ],
@@ -7881,7 +7879,6 @@
         "ExperimentHub"
     ],
     "Rmagic": [],
-    "nnTensor": [],
     "ccTensor": [],
     "clustree": [
         "ggraph",
