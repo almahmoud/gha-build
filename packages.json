@@ -65610,7 +65610,6 @@
         "vctrs"
     ],
     "rnaseqcomp": [],
-    "RNASeqPower": [],
     "RNASeqR": [
         "AnnotationDbi",
         "Biobase",
