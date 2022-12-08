@@ -21,9 +21,7 @@
         "lmerTest",
         "mia"
     ],
-    "appreci8R": [
-        "PolyPhen.Hsapiens.dbSNP131"
-    ],
+    "appreci8R": [],
     "ArrayExpressHTS": [],
     "arrayMvout": [
         "lumi",
@@ -1481,7 +1479,6 @@
     ],
     "pbkrtest": [],
     "lmerTest": [],
-    "PolyPhen.Hsapiens.dbSNP131": [],
     "mGSZ": [],
     "doBy": [
         "pbkrtest"
