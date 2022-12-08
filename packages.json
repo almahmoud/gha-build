@@ -3404,7 +3404,6 @@
         "EnsDb.Hsapiens.v86",
         "ensembldb"
     ],
-    "RJMCMCNucleosomes": [],
     "RLSeq": [
         "RLHub",
         "caret",
