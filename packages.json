@@ -702,9 +702,7 @@
     ],
     "preciseTAD": [],
     "primirTSS": [],
-    "proBatch": [
-        "pvca"
-    ],
+    "proBatch": [],
     "profileplyr": [
         "ChIPseeker"
     ],
@@ -725,7 +723,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "pvca": [],
     "Pviz": [],
     "qmtools": [
         "VIM",
