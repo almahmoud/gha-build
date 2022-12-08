@@ -5069,7 +5069,6 @@
     "BiGGR": [
         "LIM",
         "Rgraphviz",
-        "diagram",
         "graph",
         "hyperdraw",
         "hypergraph",
@@ -14819,7 +14818,6 @@
         "blob",
         "cachem",
         "dbplyr",
-        "diagram",
         "dplyr",
         "ellipsis",
         "exomeCopy",
@@ -30204,8 +30202,7 @@
         "GenomicRanges",
         "IRanges",
         "RCurl",
-        "XVector",
-        "diagram"
+        "XVector"
     ],
     "GNET2": [
         "Biobase",
@@ -82895,10 +82892,8 @@
     "rslurm": [],
     "sjlabelled": [],
     "LIM": [
-        "diagram",
         "limSolve"
     ],
-    "diagram": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "AnnotationDbi",
         "Biobase",
