@@ -8739,7 +8739,6 @@
         "pillar",
         "progress",
         "readr",
-        "rsparse",
         "rvest",
         "selectr",
         "stringr",
@@ -13782,7 +13781,6 @@
         "pillar",
         "progress",
         "readr",
-        "rsparse",
         "rvest",
         "selectr",
         "stringr",
@@ -36596,7 +36594,6 @@
         "pillar",
         "progress",
         "readr",
-        "rsparse",
         "stringr",
         "syuzhet",
         "tensorflow",
@@ -36933,7 +36930,6 @@
         "progress",
         "ragg",
         "readr",
-        "rsparse",
         "rvest",
         "scater",
         "scuttle",
@@ -40807,9 +40803,7 @@
         "tibble",
         "tidyselect"
     ],
-    "text2vec": [
-        "rsparse"
-    ],
+    "text2vec": [],
     "textstem": [
         "dplyr",
         "lexicon",
@@ -40820,7 +40814,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "rsparse": [],
     "lexicon": [
         "dplyr",
         "pillar",
