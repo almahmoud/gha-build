@@ -38607,7 +38607,6 @@
         "Matrix",
         "Rcpp",
         "RcppEigen",
-        "fmsb",
         "foreach",
         "glmnet",
         "survival"
@@ -38616,7 +38615,6 @@
         "Matrix",
         "Rcpp",
         "RcppEigen",
-        "fmsb",
         "foreach",
         "glmnet",
         "survival"
@@ -41215,7 +41213,6 @@
         "emmeans",
         "factoextra",
         "flashClust",
-        "fmsb",
         "fontawesome",
         "foreach",
         "gert",
@@ -54290,7 +54287,6 @@
         "blob",
         "cachem",
         "doRNG",
-        "fmsb",
         "foreach",
         "gmp",
         "httr",
@@ -104936,7 +104932,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "fmsb": [],
     "R2jags": [
         "R2WinBUGS",
         "coda",
