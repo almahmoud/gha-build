@@ -413,9 +413,7 @@
         "crisprScore"
     ],
     "crisprScore": [],
-    "CRISPRseek": [],
     "crisprseekplus": [
-        "CRISPRseek",
         "ChIPpeakAnno",
         "GUIDEseq"
     ],
@@ -960,7 +958,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "GUIDEseq": [
-        "CRISPRseek",
         "ChIPpeakAnno"
     ],
     "Gviz": [
@@ -1515,7 +1512,6 @@
     ],
     "MultiBaC": [],
     "multicrispr": [
-        "CRISPRseek",
         "biovizBase",
         "karyoploteR"
     ],
