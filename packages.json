@@ -281,9 +281,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "lisaClust": [
-        "spicyR"
-    ],
+    "lisaClust": [],
     "Maaslin2": [],
     "Macarron": [
         "Maaslin2"
@@ -538,7 +536,6 @@
     "SomaticSignatures": [],
     "SpatialDecon": [],
     "spatzie": [],
-    "spicyR": [],
     "SPLINTER": [],
     "SPONGE": [
         "ggpubr",
