@@ -1923,7 +1923,6 @@
     "ORFik": [
         "DESeq2"
     ],
-    "Organism.dplyr": [],
     "orthogene": [
         "car",
         "ggpubr",
@@ -2753,9 +2752,7 @@
         "textstem"
     ],
     "tximeta": [],
-    "Ularcirc": [
-        "Organism.dplyr"
-    ],
+    "Ularcirc": [],
     "UMI4Cats": [
         "DESeq2",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
