@@ -626,9 +626,7 @@
         "GenomicInteractions",
         "Gviz"
     ],
-    "HTSeqGenie": [
-        "VariantTools"
-    ],
+    "HTSeqGenie": [],
     "HTSFilter": [],
     "icetea": [],
     "iCheck": [
@@ -1503,7 +1501,6 @@
     "VariantFiltering": [
         "Gviz"
     ],
-    "VariantTools": [],
     "VCFArray": [
         "GenomicFiles"
     ],
