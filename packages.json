@@ -1661,7 +1661,6 @@
     "Prostar": [],
     "proteasy": [
         "EnsDb.Hsapiens.v86",
-        "EnsDb.Mmusculus.v79",
         "EnsDb.Rnorvegicus.v79"
     ],
     "ProteoDisco": [],
@@ -2416,7 +2415,6 @@
     "unmarked": [
         "lme4"
     ],
-    "EnsDb.Mmusculus.v79": [],
     "EnsDb.Rnorvegicus.v79": [],
     "caretEnsemble": [],
     "Rmagic": [],
