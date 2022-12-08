@@ -6089,8 +6089,7 @@
         "rstatix",
         "survivalAnalysis",
         "survminer",
-        "testthat",
-        "tidytidbits"
+        "testthat"
     ],
     "signifinder": [
         "GSEABase",
@@ -7749,10 +7748,8 @@
         "pbkrtest",
         "rstatix",
         "survminer",
-        "testthat",
-        "tidytidbits"
+        "testthat"
     ],
-    "tidytidbits": [],
     "openair": [],
     "celldex": [
         "ExperimentHub"
