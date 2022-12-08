@@ -6134,7 +6134,6 @@
         "minfi",
         "readr"
     ],
-    "QuartPAC": [],
     "QuasR": [
         "BSgenome",
         "GenomicFeatures",
