@@ -1041,9 +1041,7 @@
         "pbkrtest",
         "testthat"
     ],
-    "debCAM": [
-        "DMwR2"
-    ],
+    "debCAM": [],
     "debrowser": [
         "DESeq2",
         "DOSE",
@@ -5129,7 +5127,6 @@
     "cmdfun": [
         "testthat"
     ],
-    "DMwR2": [],
     "rsq": [
         "lme4",
         "nloptr",
