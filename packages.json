@@ -10078,7 +10078,6 @@
     "MsBackendMassbank": [],
     "MsBackendMgf": [],
     "MsBackendMsp": [],
-    "MsBackendRawFileReader": [],
     "MsExperiment": [
         "MultiAssayExperiment",
         "QFeatures",
