@@ -1,10 +1,10 @@
 # Summary
 
-3685 built packages
+3686 built packages
 
 18 failed packages
 
-107 unclaimed packages
+106 unclaimed packages
 
 
 
@@ -30,7 +30,7 @@
 | [spp](https://github.com/almahmoud/gha-build/actions/runs/3650360818/jobs/6166382771)             | Failed   | N/A: CRAN Package                                                                  | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/spp)             | [CRAN Package 'spp'](https://cran.r-project.org/web/packages/spp/index.html) archived. Extracted text: Archived on 2022-11-20 as issues were not corrected despite reminders.                      |
 | [vbsr](https://github.com/almahmoud/gha-build/actions/runs/3650360818/jobs/6166381575)            | Failed   | N/A: CRAN Package                                                                  | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/vbsr)            | [CRAN Package 'vbsr'](https://cran.r-project.org/web/packages/vbsr/index.html) archived. Extracted text: Archived on 2022-05-23 as email to the maintainer is undeliverable.                       |
 
-## Unclaimed (107)
+## Unclaimed (106)
 | Package                                                                                                 | Status    | Tarball   |
 |---------------------------------------------------------------------------------------------------------|-----------|-----------|
 | ADAMgui                                                                                                 | Unclaimed |           |
@@ -52,7 +52,6 @@
 | CytoGLMM                                                                                                | Unclaimed |           |
 | dasper                                                                                                  | Unclaimed |           |
 | DeMixT                                                                                                  | Unclaimed |           |
-| [destiny](https://github.com/almahmoud/gha-build/actions/runs/3652451876/jobs/6170913371)               | Unclaimed |           |
 | diffcyt                                                                                                 | Unclaimed |           |
 | DMRcate                                                                                                 | Unclaimed |           |
 | [DSS](https://github.com/almahmoud/gha-build/actions/runs/3651795783/jobs/6169724975)                   | Unclaimed |           |
@@ -141,7 +140,7 @@
 | survminer                                                                                               | Unclaimed |           |
 | survivalAnalysis                                                                                        | Unclaimed |           |
 
-## Succeeded (3685)
+## Succeeded (3686)
 | Package                                                                                                                         | Status    | Tarball                                                                                                                                                                                                                                |
 |---------------------------------------------------------------------------------------------------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [a4](almahmoud/gha-build/actions/runs/3651795783)                                                                               | Succeeded | [a4_1.46.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/a4_1.46.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                     |
@@ -643,6 +642,7 @@
 | [DEScan2](https://github.com/almahmoud/gha-build/actions/runs/3652035522/jobs/6170159294)                                       | Succeeded | [DEScan2_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/DEScan2_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | [DESeq2](https://github.com/almahmoud/gha-build/actions/runs/3651928962/jobs/6169725750)                                        | Succeeded | [DESeq2_1.38.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/DESeq2_1.38.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                             |
 | [DEsingle](https://github.com/almahmoud/gha-build/actions/runs/3650973591/jobs/6167761534)                                      | Succeeded | [DEsingle_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/DEsingle_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
+| [destiny](https://github.com/almahmoud/gha-build/actions/runs/3652451876/jobs/6170913371)                                       | Succeeded | [destiny_3.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/destiny_3.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | [DEsubs](https://github.com/almahmoud/gha-build/actions/runs/3652035522/jobs/6170155327)                                        | Succeeded | [DEsubs_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/DEsubs_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                             |
 | [DEWSeq](almahmoud/gha-build/actions/runs/3652015157)                                                                           | Succeeded | [DEWSeq_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/DEWSeq_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                             |
 | [DExMA](https://github.com/almahmoud/gha-build/actions/runs/3651795783/jobs/6169719572)                                         | Succeeded | [DExMA_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/DExMA_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                 |
