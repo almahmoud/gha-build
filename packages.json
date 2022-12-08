@@ -171,7 +171,6 @@
     "chimeraviz": [
         "Gviz"
     ],
-    "ChIPexoQual": [],
     "ChIPQC": [],
     "ChIPseeker": [
         "enrichplot"
