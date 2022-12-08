@@ -1410,7 +1410,6 @@
         "highcharter"
     ],
     "CTSV": [
-        "DropletUtils",
         "SpatialExperiment"
     ],
     "cummeRbund": [
@@ -1472,7 +1471,6 @@
         "testthat"
     ],
     "cytomapper": [
-        "DropletUtils",
         "SpatialExperiment"
     ],
     "CytoML": [],
@@ -1838,7 +1836,6 @@
     ],
     "dpeak": [],
     "drawProteins": [],
-    "DropletUtils": [],
     "drugTargetInteractions": [
         "GenomicFeatures",
         "UniProt.ws",
@@ -2248,7 +2245,6 @@
         "biomaRt"
     ],
     "ExperimentSubset": [
-        "DropletUtils",
         "SpatialExperiment",
         "TreeSummarizedExperiment",
         "tidytree",
@@ -2350,7 +2346,6 @@
         "xcms"
     ],
     "FLAMES": [
-        "DropletUtils",
         "GGally",
         "GenomicFeatures",
         "MultiAssayExperiment",
@@ -2751,7 +2746,6 @@
         "GGally"
     ],
     "ggspavis": [
-        "DropletUtils",
         "SpatialExperiment"
     ],
     "ggtree": [
@@ -3105,7 +3099,6 @@
         "testthat"
     ],
     "imcRtools": [
-        "DropletUtils",
         "SpatialExperiment",
         "cytomapper",
         "ggraph",
@@ -3386,7 +3379,6 @@
         "geepack"
     ],
     "lisaClust": [
-        "DropletUtils",
         "SpatialExperiment",
         "lme4",
         "lmerTest",
@@ -4608,7 +4600,6 @@
         "plotly"
     ],
     "nnSVG": [
-        "DropletUtils",
         "SpatialExperiment"
     ],
     "nondetects": [
@@ -5998,7 +5989,6 @@
         "treeio"
     ],
     "scCB2": [
-        "DropletUtils",
         "Seurat",
         "plotly"
     ],
@@ -6319,7 +6309,6 @@
     ],
     "SimBu": [],
     "simpleSeg": [
-        "DropletUtils",
         "SpatialExperiment",
         "cytomapper"
     ],
@@ -6333,7 +6322,6 @@
     ],
     "singleCellTK": [
         "DESeq2",
-        "DropletUtils",
         "ExperimentHub",
         "GSEABase",
         "GSVA",
@@ -6452,7 +6440,6 @@
         "ggbio"
     ],
     "Spaniel": [
-        "DropletUtils",
         "Seurat",
         "plotly",
         "scater",
@@ -6465,12 +6452,10 @@
     ],
     "SparseSignatures": [],
     "spaSim": [
-        "DropletUtils",
         "SpatialExperiment"
     ],
     "SpatialCPie": [],
     "spatialDE": [
-        "DropletUtils",
         "SpatialExperiment"
     ],
     "SpatialDecon": [
@@ -6481,11 +6466,8 @@
         "nloptr",
         "testthat"
     ],
-    "SpatialExperiment": [
-        "DropletUtils"
-    ],
+    "SpatialExperiment": [],
     "SpatialFeatureExperiment": [
-        "DropletUtils",
         "SpatialExperiment"
     ],
     "spatialHeatmap": [
@@ -6512,13 +6494,11 @@
         "HiCcompare"
     ],
     "SPIAT": [
-        "DropletUtils",
         "SpatialExperiment",
         "plotly",
         "xROI"
     ],
     "spicyR": [
-        "DropletUtils",
         "SpatialExperiment",
         "lme4",
         "lmerTest",
@@ -6574,7 +6554,6 @@
         "tidyverse"
     ],
     "SpotClean": [
-        "DropletUtils",
         "Seurat",
         "SpatialExperiment",
         "plotly"
@@ -6619,7 +6598,6 @@
         "ensembldb"
     ],
     "standR": [
-        "DropletUtils",
         "EDASeq",
         "GenomicFeatures",
         "RUVSeq",
@@ -6647,7 +6625,6 @@
         "scatterpie"
     ],
     "stJoincount": [
-        "DropletUtils",
         "Seurat",
         "SpatialExperiment",
         "plotly"
@@ -7212,7 +7189,6 @@
         "tidygraph"
     ],
     "Voyager": [
-        "DropletUtils",
         "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
