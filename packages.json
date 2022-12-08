@@ -255,7 +255,6 @@
         "blob",
         "bslib",
         "dbplyr",
-        "doSNOW",
         "dplyr",
         "htmlwidgets",
         "httpuv",
@@ -749,7 +748,6 @@
         "baseline",
         "bslib",
         "cellranger",
-        "doSNOW",
         "dplyr",
         "futile.logger",
         "future",
@@ -3056,7 +3054,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "doSNOW",
         "fitdistrplus",
         "futile.logger",
         "survival"
@@ -13068,7 +13065,6 @@
         "BiocParallel",
         "RSpectra",
         "RcppEigen",
-        "doSNOW",
         "dplyr",
         "futile.logger",
         "ggplot2",
@@ -15903,7 +15899,6 @@
         "bslib",
         "dbplyr",
         "doParallel",
-        "doSNOW",
         "dplyr",
         "futile.logger",
         "ggplot2",
@@ -23209,7 +23204,6 @@
         "cellranger",
         "cowplot",
         "dendextend",
-        "doSNOW",
         "dplyr",
         "e1071",
         "ggplot2",
@@ -25733,7 +25727,6 @@
         "RSpectra",
         "RcppEigen",
         "doParallel",
-        "doSNOW",
         "ggplot2",
         "mgcv",
         "openssl",
@@ -31690,7 +31683,6 @@
         "RSQLite",
         "blob",
         "dbplyr",
-        "doSNOW",
         "dplyr",
         "ggplot2",
         "memoise",
@@ -37734,7 +37726,6 @@
         "caret",
         "clock",
         "dbplyr",
-        "doSNOW",
         "dplyr",
         "e1071",
         "futile.logger",
@@ -39029,7 +39020,6 @@
         "bslib",
         "dbplyr",
         "doParallel",
-        "doSNOW",
         "dplyr",
         "genefilter",
         "ggplot2",
@@ -46040,8 +46030,7 @@
     "seqCNA": [
         "GLAD",
         "adehabitatLT",
-        "adehabitatMA",
-        "doSNOW"
+        "adehabitatMA"
     ],
     "seqcombo": [
         "ggplot2",
@@ -52264,7 +52253,6 @@
         "biomaRt",
         "blob",
         "dbplyr",
-        "doSNOW",
         "dplyr",
         "ggplot2",
         "hms",
@@ -55342,7 +55330,6 @@
         "tibble",
         "vctrs"
     ],
-    "doSNOW": [],
     "smoother": [
         "TTR",
         "xts"
@@ -55532,7 +55519,6 @@
     ],
     "speaq": [
         "Rfast",
-        "doSNOW",
         "ggplot2",
         "httr",
         "mgcv",
