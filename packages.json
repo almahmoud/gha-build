@@ -41,7 +41,6 @@
         "diffcyt"
     ],
     "CytoGLMM": [],
-    "dasper": [],
     "DeMixT": [
         "DSS"
     ],
@@ -122,9 +121,7 @@
         "mppa"
     ],
     "netbiov": [],
-    "ODER": [
-        "dasper"
-    ],
+    "ODER": [],
     "omicRexposome": [],
     "OMICsPCA": [],
     "omicsViewer": [
