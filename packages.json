@@ -30637,7 +30637,6 @@
         "lifecycle",
         "memoise",
         "openssl",
-        "repo",
         "rhdf5",
         "rhdf5filters",
         "vctrs"
@@ -91651,7 +91650,6 @@
         "sass",
         "shiny"
     ],
-    "repo": [],
     "ggalt": [
         "Matrix",
         "askpass",
