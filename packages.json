@@ -199,7 +199,6 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "chromVAR",
-        "ggalluvial",
         "haven",
         "modelr",
         "motifmatchr",
@@ -261,7 +260,6 @@
     "bandle": [
         "MLInterfaces",
         "caret",
-        "ggalluvial",
         "mixtools",
         "pRoloc",
         "pRolocdata"
@@ -3589,8 +3587,7 @@
     ],
     "MutationalPatterns": [
         "GenomicFeatures",
-        "VariantAnnotation",
-        "ggalluvial"
+        "VariantAnnotation"
     ],
     "MWASTools": [
         "car",
@@ -4173,9 +4170,7 @@
     "progeny": [
         "decoupleR"
     ],
-    "projectR": [
-        "ggalluvial"
-    ],
+    "projectR": [],
     "pRoloc": [
         "MLInterfaces",
         "caret",
@@ -4879,7 +4874,6 @@
         "Rmagic"
     ],
     "scRepertoire": [
-        "ggalluvial",
         "ggraph",
         "tidygraph"
     ],
@@ -5283,8 +5277,7 @@
         "EDASeq",
         "GenomicFeatures",
         "RUVSeq",
-        "SpatialExperiment",
-        "ggalluvial"
+        "SpatialExperiment"
     ],
     "staRank": [
         "Category",
@@ -5931,7 +5924,6 @@
     "TxDb.Mmusculus.UCSC.mm10.knownGene": [
         "GenomicFeatures"
     ],
-    "ggalluvial": [],
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [
         "GenomicFeatures"
     ],
