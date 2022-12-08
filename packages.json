@@ -3540,7 +3540,6 @@
     "mosbi": [
         "QUBIC"
     ],
-    "MOSim": [],
     "Motif2Site": [
         "mixtools",
         "plotly"
