@@ -68675,7 +68675,6 @@
         "dbplyr",
         "dplyr",
         "ellipsis",
-        "filematrix",
         "foreach",
         "futile.logger",
         "glmnet",
@@ -108325,7 +108324,6 @@
     "ExtDist": [
         "optimx"
     ],
-    "filematrix": [],
     "googleVis": [],
     "phastCons100way.UCSC.hg19": [
         "AnnotationDbi",
