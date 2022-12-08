@@ -5363,7 +5363,6 @@
         "progress",
         "promises",
         "purrr",
-        "qualV",
         "readr",
         "regioneR",
         "reshape2",
@@ -9018,7 +9017,6 @@
         "promises",
         "purrr",
         "qs",
-        "qualV",
         "ragg",
         "restfulr",
         "reticulate",
@@ -64987,7 +64985,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "qualV": [],
     "betareg": [
         "lmtest",
         "sandwich"
