@@ -20538,7 +20538,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "geva": [],
     "GEWIST": [
         "RcppEigen",
         "broom",
