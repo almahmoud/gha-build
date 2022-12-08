@@ -47271,7 +47271,6 @@
         "KEGGREST",
         "Matrix",
         "MatrixGenerics",
-        "NMI",
         "RCurl",
         "RSQLite",
         "RcppArmadillo",
@@ -95099,7 +95098,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "NMI": [],
     "MKmisc": [
         "Matrix",
         "ggplot2",
