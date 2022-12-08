@@ -420,7 +420,6 @@
         "DiagrammeR",
         "GOSemSim",
         "ReactomePA",
-        "aplot",
         "broom",
         "car",
         "clusterProfiler",
@@ -710,7 +709,6 @@
     "cardelino": [
         "GenomicFeatures",
         "VariantAnnotation",
-        "aplot",
         "biomaRt",
         "ggtree",
         "treeio"
@@ -813,7 +811,6 @@
         "DOSE",
         "GOSemSim",
         "WGCNA",
-        "aplot",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -848,7 +845,6 @@
         "GGally",
         "GOSemSim",
         "GenomicTools",
-        "aplot",
         "broom",
         "car",
         "clusterProfiler",
@@ -970,7 +966,6 @@
         "GOSemSim",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "aplot",
         "biomaRt",
         "enrichplot",
         "ggraph",
@@ -1067,7 +1062,6 @@
     "clusterProfiler": [
         "DOSE",
         "GOSemSim",
-        "aplot",
         "enrichplot",
         "ggraph",
         "ggtree",
@@ -1129,7 +1123,6 @@
         "testthat"
     ],
     "cogeqc": [
-        "aplot",
         "ggtree",
         "treeio"
     ],
@@ -1185,7 +1178,6 @@
         "FactoMineR",
         "GEOquery",
         "GOSemSim",
-        "aplot",
         "biomaRt",
         "broom",
         "car",
@@ -1522,7 +1514,6 @@
         "DESeq2",
         "DOSE",
         "GOSemSim",
-        "aplot",
         "clusterProfiler",
         "enrichplot",
         "genefilter",
@@ -1839,7 +1830,6 @@
     "EasyCellType": [
         "DOSE",
         "GOSemSim",
-        "aplot",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -1877,7 +1867,6 @@
         "DESeq2",
         "DOSE",
         "GOSemSim",
-        "aplot",
         "clusterProfiler",
         "enrichplot",
         "geneplotter",
@@ -1942,7 +1931,6 @@
     "enrichplot": [
         "DOSE",
         "GOSemSim",
-        "aplot",
         "ggraph",
         "ggtree",
         "tidygraph",
@@ -1953,7 +1941,6 @@
         "DOSE",
         "GOSemSim",
         "TFBSTools",
-        "aplot",
         "broom",
         "car",
         "clusterProfiler",
@@ -1988,7 +1975,6 @@
         "GOSemSim",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "aplot",
         "biomaRt",
         "enrichplot",
         "geneplotter",
@@ -2027,7 +2013,6 @@
         "GOSemSim",
         "ReactomePA",
         "WGCNA",
-        "aplot",
         "enrichplot",
         "ggraph",
         "ggtree",
@@ -2127,7 +2112,6 @@
         "GenomicFeatures",
         "TFBSTools",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "aplot",
         "biomaRt",
         "clusterProfiler",
         "enrichplot",
@@ -2154,7 +2138,6 @@
     ],
     "EWCE": [
         "ExperimentHub",
-        "aplot",
         "broom",
         "car",
         "ewceData",
@@ -2214,7 +2197,6 @@
     "famat": [
         "DOSE",
         "GOSemSim",
-        "aplot",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -2240,7 +2222,6 @@
     "fcoex": [
         "DOSE",
         "GOSemSim",
-        "aplot",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -2446,7 +2427,6 @@
         "DOSE",
         "GOSemSim",
         "GenomicDataCommons",
-        "aplot",
         "biomaRt",
         "broom",
         "car",
@@ -2665,7 +2645,6 @@
         "ensembldb"
     ],
     "ggmsa": [
-        "aplot",
         "ggalt",
         "ggtree",
         "plotly",
@@ -2678,16 +2657,13 @@
         "SpatialExperiment"
     ],
     "ggtree": [
-        "aplot",
         "treeio"
     ],
     "ggtreeDendro": [
-        "aplot",
         "ggtree",
         "treeio"
     ],
     "ggtreeExtra": [
-        "aplot",
         "ggtree",
         "treeio"
     ],
@@ -2758,7 +2734,6 @@
     "goSorensen": [
         "DOSE",
         "GOSemSim",
-        "aplot",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -3119,7 +3094,6 @@
         "DOSE",
         "GOSemSim",
         "Seurat",
-        "aplot",
         "broom",
         "car",
         "clusterProfiler",
@@ -3271,7 +3245,6 @@
         "testthat"
     ],
     "LinTInd": [
-        "aplot",
         "ggtree",
         "treeio"
     ],
@@ -3323,7 +3296,6 @@
         "minfi"
     ],
     "LymphoSeq": [
-        "aplot",
         "ggtree",
         "treeio"
     ],
@@ -3384,7 +3356,6 @@
         "DOSE",
         "ExperimentHub",
         "GOSemSim",
-        "aplot",
         "clusterProfiler",
         "depmap",
         "enrichplot",
@@ -3532,7 +3503,6 @@
     "meshes": [
         "DOSE",
         "GOSemSim",
-        "aplot",
         "enrichplot",
         "ggraph",
         "ggtree",
@@ -3598,7 +3568,6 @@
     "MetaPhOR": [
         "DOSE",
         "GOSemSim",
-        "aplot",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -3711,7 +3680,6 @@
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylationEPICmanifest",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "aplot",
         "biomaRt",
         "bumphunter",
         "clusterProfiler",
@@ -3780,7 +3748,6 @@
     "miaViz": [
         "MultiAssayExperiment",
         "TreeSummarizedExperiment",
-        "aplot",
         "ggraph",
         "ggtree",
         "mia",
@@ -3807,7 +3774,6 @@
         "DESeq2",
         "MultiAssayExperiment",
         "TreeSummarizedExperiment",
-        "aplot",
         "caret",
         "geneplotter",
         "ggtree",
@@ -3823,7 +3789,6 @@
     "MicrobiomeProfiler": [
         "DOSE",
         "GOSemSim",
-        "aplot",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -3832,7 +3797,6 @@
         "treeio"
     ],
     "MicrobiotaProcess": [
-        "aplot",
         "ggtree",
         "ggtreeExtra",
         "treeio"
@@ -3906,7 +3870,6 @@
         "ReactomePA",
         "SPONGE",
         "WGCNA",
-        "aplot",
         "biomaRt",
         "broom",
         "car",
@@ -3940,7 +3903,6 @@
         "GOSemSim",
         "ReactomePA",
         "SPONGE",
-        "aplot",
         "biomaRt",
         "broom",
         "car",
@@ -4048,7 +4010,6 @@
         "GEOquery",
         "GOSemSim",
         "TCGAbiolinks",
-        "aplot",
         "biomaRt",
         "clusterProfiler",
         "enrichplot",
@@ -4244,7 +4205,6 @@
         "MultiAssayExperiment",
         "ReactomePA",
         "anyLib",
-        "aplot",
         "biosigner",
         "caret",
         "clusterProfiler",
@@ -4406,7 +4366,6 @@
     "netboxr": [
         "DOSE",
         "GOSemSim",
-        "aplot",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -4660,7 +4619,6 @@
         "biomaRt"
     ],
     "orthogene": [
-        "aplot",
         "broom",
         "car",
         "ggpubr",
@@ -4720,7 +4678,6 @@
         "DOSE",
         "GOSemSim",
         "GSEABase",
-        "aplot",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -4791,7 +4748,6 @@
     "PFP": [
         "DOSE",
         "GOSemSim",
-        "aplot",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -4834,7 +4790,6 @@
         "testthat"
     ],
     "philr": [
-        "aplot",
         "ggtree",
         "treeio"
     ],
@@ -4866,7 +4821,6 @@
         "GOSemSim",
         "ReactomePA",
         "WGCNA",
-        "aplot",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -5004,7 +4958,6 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
-        "aplot",
         "biomaRt",
         "enrichplot",
         "ggraph",
@@ -5278,7 +5231,6 @@
     "ReactomePA": [
         "DOSE",
         "GOSemSim",
-        "aplot",
         "enrichplot",
         "ggraph",
         "ggtree",
@@ -5593,7 +5545,6 @@
         "DOSE",
         "FactoMineR",
         "GOSemSim",
-        "aplot",
         "ballgown",
         "broom",
         "car",
@@ -5793,7 +5744,6 @@
     ],
     "scBubbletree": [
         "Seurat",
-        "aplot",
         "ggtree",
         "plotly",
         "treeio"
@@ -5914,7 +5864,6 @@
         "GSEABase",
         "ReactomePA",
         "Seurat",
-        "aplot",
         "ccTensor",
         "enrichplot",
         "genefilter",
@@ -5957,7 +5906,6 @@
         "GOSemSim",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "aplot",
         "biomaRt",
         "enrichplot",
         "ggraph",
@@ -6047,7 +5995,6 @@
         "ExperimentHub",
         "GOSemSim",
         "GSEABase",
-        "aplot",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -6129,7 +6076,6 @@
         "SoupX",
         "TENxPBMCData",
         "TSCAN",
-        "aplot",
         "batchelor",
         "biomaRt",
         "celda",
@@ -6170,7 +6116,6 @@
         "biomaRt"
     ],
     "sitePath": [
-        "aplot",
         "ggtree",
         "treeio"
     ],
@@ -6511,7 +6456,6 @@
     "systemPipeTools": [
         "DESeq2",
         "GGally",
-        "aplot",
         "geneplotter",
         "ggtree",
         "plotly",
@@ -6529,7 +6473,6 @@
         "testthat"
     ],
     "tanggle": [
-        "aplot",
         "ggtree",
         "treeio"
     ],
@@ -6575,7 +6518,6 @@
         "MultiAssayExperiment",
         "TCGAbiolinks",
         "VariantAnnotation",
-        "aplot",
         "biomaRt",
         "biovizBase",
         "broom",
@@ -6664,7 +6606,6 @@
         "DOSE",
         "GOSemSim",
         "MultiAssayExperiment",
-        "aplot",
         "biomaRt",
         "clusterProfiler",
         "enrichplot",
@@ -6765,7 +6706,6 @@
     "treeio": [],
     "treekoR": [
         "FlowSOM",
-        "aplot",
         "broom",
         "car",
         "diffcyt",
@@ -7232,7 +7172,6 @@
     "ggraph": [
         "tidygraph"
     ],
-    "aplot": [],
     "tidygraph": [],
     "rms": [],
     "synaptome.db": [
