@@ -299,7 +299,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "affycomp": [],
     "AffyCompatible": [
         "Biostrings",
         "GenomeInfoDb",
