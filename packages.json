@@ -13,7 +13,6 @@
     "adductomicsR": [
         "adductData"
     ],
-    "AffiXcan": [],
     "affycoretools": [
         "Category",
         "DESeq2",
