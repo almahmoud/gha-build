@@ -23,9 +23,7 @@
     "ATACCoGAPS": [
         "projectR"
     ],
-    "BaalChIP": [
-        "doBy"
-    ],
+    "BaalChIP": [],
     "benchdamic": [],
     "bigmelon": [
         "lumi",
@@ -848,9 +846,7 @@
         "car",
         "drc"
     ],
-    "synlet": [
-        "doBy"
-    ],
+    "synlet": [],
     "TADCompare": [
         "car",
         "ggpubr",
@@ -926,7 +922,6 @@
     ],
     "car": [],
     "mGSZ": [],
-    "doBy": [],
     "radiant.data": [
         "car"
     ],
