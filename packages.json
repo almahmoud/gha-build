@@ -1809,8 +1809,7 @@
     "RandomWalkRestartMH": [],
     "RAREsim": [],
     "RareVariantVis": [
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "phastCons100way.UCSC.hg19"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "rCGH": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
@@ -2542,7 +2541,6 @@
     ],
     "EnsDb.Mmusculus.v79": [],
     "EnsDb.Rnorvegicus.v79": [],
-    "phastCons100way.UCSC.hg19": [],
     "caretEnsemble": [],
     "Rmagic": [],
     "clustree": [],
