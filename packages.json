@@ -989,9 +989,7 @@
         "gmapR"
     ],
     "HTSFilter": [],
-    "icetea": [
-        "TxDb.Dmelanogaster.UCSC.dm6.ensGene"
-    ],
+    "icetea": [],
     "iCheck": [
         "FDb.InfiniumMethylation.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -2508,7 +2506,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
     "datamods": [],
     "adabag": [],
     "glmmTMB": [
