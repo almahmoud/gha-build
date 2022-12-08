@@ -29602,7 +29602,6 @@
         "lattice",
         "mathjaxr",
         "matrixStats",
-        "rTensor",
         "rhdf5",
         "rhdf5filters",
         "rsvd",
@@ -104933,7 +104932,6 @@
         "purrr",
         "qap",
         "qvalue",
-        "rTensor",
         "rappdirs",
         "reactome.db",
         "reshape2",
@@ -105111,7 +105109,6 @@
         "progressr",
         "promises",
         "purrr",
-        "rTensor",
         "rappdirs",
         "reshape2",
         "reticulate",
@@ -138464,7 +138461,6 @@
     "qdapRegex": [
         "stringi"
     ],
-    "rTensor": [],
     "einsum": [
         "Rcpp",
         "mathjaxr"
@@ -146100,7 +146096,6 @@
         "nlme",
         "pillar",
         "plot3D",
-        "rTensor",
         "rlang",
         "scales",
         "spam",
@@ -146131,7 +146126,6 @@
         "munsell",
         "nlme",
         "pillar",
-        "rTensor",
         "rlang",
         "scales",
         "spam",
