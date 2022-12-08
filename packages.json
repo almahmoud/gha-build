@@ -23845,9 +23845,7 @@
         "restfulr",
         "rtracklayer"
     ],
-    "gcatest": [
-        "lfa"
-    ],
+    "gcatest": [],
     "gCrisprTools": [
         "ComplexHeatmap",
         "DelayedArray",
@@ -32253,7 +32251,6 @@
         "vctrs",
         "waldo"
     ],
-    "lfa": [],
     "limmaGUI": [],
     "LineagePulse": [
         "BiocParallel",
