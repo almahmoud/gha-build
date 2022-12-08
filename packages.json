@@ -4319,7 +4319,6 @@
         "RcppEigen",
         "WGCNA",
         "XVector",
-        "apcluster",
         "blob",
         "bslib",
         "clusterCons",
@@ -4895,7 +4894,6 @@
         "Rgraphviz",
         "XVector",
         "annotate",
-        "apcluster",
         "blob",
         "bslib",
         "e1071",
@@ -9161,7 +9159,6 @@
         "rhdf5"
     ],
     "cogena": [
-        "apcluster",
         "bslib",
         "callr",
         "credentials",
@@ -11947,7 +11944,6 @@
         "TFisher",
         "TH.data",
         "XVector",
-        "apcluster",
         "blob",
         "broom",
         "bslib",
@@ -12097,7 +12093,6 @@
         "SummarizedExperiment",
         "TTR",
         "XVector",
-        "apcluster",
         "doParallel",
         "dplyr",
         "ggplot2",
@@ -15735,7 +15730,6 @@
         "RBGL",
         "RcppEigen",
         "Rgraphviz",
-        "apcluster",
         "e1071",
         "flexclust",
         "ggdendro",
@@ -24446,7 +24440,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "apcluster",
         "e1071"
     ],
     "KEGGgraph": [
@@ -24858,7 +24851,6 @@
         "waldo"
     ],
     "Linnorm": [
-        "apcluster",
         "ggdendro",
         "ggplot2",
         "gmodels",
@@ -25922,7 +25914,6 @@
         "KEGGREST",
         "RSQLite",
         "XVector",
-        "apcluster",
         "blob",
         "clusterSim",
         "e1071",
@@ -29140,7 +29131,6 @@
         "MCL",
         "RSpectra",
         "RcppEigen",
-        "apcluster",
         "biganalytics",
         "ggplot2",
         "htmlTable",
@@ -30170,7 +30160,6 @@
         "Linnorm",
         "RcppEigen",
         "Rgraphviz",
-        "apcluster",
         "e1071",
         "flexclust",
         "ggdendro",
@@ -32792,7 +32781,6 @@
         "RBGL",
         "RcppEigen",
         "Rgraphviz",
-        "apcluster",
         "e1071",
         "epiNEM",
         "flexclust",
@@ -33791,7 +33779,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "apcluster",
         "e1071",
         "kebabs",
         "msa"
@@ -37418,7 +37405,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "apcluster",
         "e1071",
         "kebabs"
     ],
@@ -47751,7 +47737,6 @@
         "SummarizedExperiment",
         "XVector",
         "alphahull",
-        "apcluster",
         "beachmat",
         "blob",
         "bslib",
@@ -56476,9 +56461,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "clusterCons": [
-        "apcluster"
-    ],
+    "clusterCons": [],
     "rSpectral": [
         "igraph"
     ],
@@ -56512,7 +56495,6 @@
         "vctrs",
         "viridis"
     ],
-    "apcluster": [],
     "synaptome.data": [
         "AnnotationDbi",
         "AnnotationHub",
