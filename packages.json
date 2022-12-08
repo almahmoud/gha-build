@@ -301,7 +301,6 @@
     "CiteFuse": [
         "propr"
     ],
-    "clipper": [],
     "clusterProfiler": [
         "enrichplot",
         "ggtree"
