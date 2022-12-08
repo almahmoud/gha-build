@@ -6996,8 +6996,7 @@
         "TFisher",
         "metap",
         "plotly",
-        "tidyr",
-        "topconfects"
+        "tidyr"
     ],
     "MetCirc": [],
     "MethCP": [
@@ -12953,7 +12952,6 @@
         "readr",
         "tidyr"
     ],
-    "topconfects": [],
     "topdownr": [
         "MSnbase",
         "vsn"
@@ -13524,9 +13522,7 @@
         "qvalue",
         "vsn"
     ],
-    "weitrix": [
-        "topconfects"
-    ],
+    "weitrix": [],
     "wiggleplotr": [
         "GenomicAlignments",
         "rtracklayer"
