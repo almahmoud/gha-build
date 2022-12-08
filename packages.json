@@ -22403,7 +22403,6 @@
         "mgcv",
         "pROC",
         "pillar",
-        "plgem",
         "progress",
         "restfulr",
         "rtracklayer",
@@ -35334,7 +35333,6 @@
         "tibble",
         "vctrs"
     ],
-    "plgem": [],
     "plier": [],
     "PloGO2": [
         "AnnotationDbi",
