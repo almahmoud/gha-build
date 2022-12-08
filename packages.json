@@ -2869,7 +2869,6 @@
         "survminer",
         "testthat"
     ],
-    "OmnipathR": [],
     "OncoScore": [],
     "OncoSimulR": [
         "car",
@@ -4337,9 +4336,7 @@
     ],
     "wavClusteR": [],
     "webbioc": [],
-    "wppi": [
-        "OmnipathR"
-    ],
+    "wppi": [],
     "xcore": [],
     "XDE": [],
     "Xeva": [
