@@ -4409,7 +4409,6 @@
         "tibble",
         "tidyselect"
     ],
-    "CGEN": [],
     "cghMCR": [
         "AnnotationDbi",
         "Biostrings",
