@@ -266,7 +266,6 @@
         "viridis"
     ],
     "airpart": [
-        "BiocNeighbors",
         "BiocSingular",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -427,7 +426,6 @@
         "tibble"
     ],
     "ANCOMBC": [
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "DECIPHER",
@@ -1353,7 +1351,6 @@
         "rtracklayer"
     ],
     "BASiCS": [
-        "BiocNeighbors",
         "BiocSingular",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -1373,7 +1370,6 @@
     ],
     "BASiCStan": [
         "BASiCS",
-        "BiocNeighbors",
         "BiocSingular",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -1400,7 +1396,6 @@
         "SummarizedExperiment"
     ],
     "batchelor": [
-        "BiocNeighbors",
         "BiocSingular",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -1432,7 +1427,6 @@
     ],
     "BayesSpace": [
         "BiocFileCache",
-        "BiocNeighbors",
         "BiocSingular",
         "RSQLite",
         "SingleCellExperiment",
@@ -1526,7 +1520,6 @@
         "ALDEx2",
         "ANCOMBC",
         "AnnotationDbi",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "DECIPHER",
@@ -1825,7 +1818,6 @@
         "annotate",
         "geneplotter"
     ],
-    "BiocNeighbors": [],
     "BiocOncoTK": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -2185,7 +2177,6 @@
     ],
     "Biostrings": [],
     "BioTIP": [
-        "BiocNeighbors",
         "BiocSingular",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -2353,9 +2344,7 @@
         "tibble",
         "waldo"
     ],
-    "bluster": [
-        "BiocNeighbors"
-    ],
+    "bluster": [],
     "bnbc": [
         "AnnotationDbi",
         "Biostrings",
@@ -2921,7 +2910,6 @@
         "tibble"
     ],
     "CATALYST": [
-        "BiocNeighbors",
         "BiocSingular",
         "FlowSOM",
         "SingleCellExperiment",
@@ -3110,7 +3098,6 @@
         "vroom"
     ],
     "celda": [
-        "BiocNeighbors",
         "BiocSingular",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -3178,7 +3165,6 @@
         "vsn"
     ],
     "CelliD": [
-        "BiocNeighbors",
         "BiocSingular",
         "Seurat",
         "SeuratObject",
@@ -3240,7 +3226,6 @@
         "waldo"
     ],
     "CellMixS": [
-        "BiocNeighbors",
         "BiocSingular",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -3887,7 +3872,6 @@
         "tibble"
     ],
     "ChromSCape": [
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "GenomicAlignments",
@@ -4097,7 +4081,6 @@
         "tidyr"
     ],
     "CiteFuse": [
-        "BiocNeighbors",
         "BiocSingular",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -4783,7 +4766,6 @@
     "conclus": [
         "AnnotationDbi",
         "BiocFileCache",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "DOSE",
@@ -4852,7 +4834,6 @@
         "waldo"
     ],
     "condiments": [
-        "BiocNeighbors",
         "BiocSingular",
         "Ecume",
         "SingleCellExperiment",
@@ -5637,7 +5618,6 @@
         "waldo"
     ],
     "cydar": [
-        "BiocNeighbors",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "ggplot2",
@@ -6693,7 +6673,6 @@
         "viper"
     ],
     "Dino": [
-        "BiocNeighbors",
         "BiocSingular",
         "Seurat",
         "SeuratObject",
@@ -6753,7 +6732,6 @@
         "viridis"
     ],
     "distinct": [
-        "BiocNeighbors",
         "BiocSingular",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -8142,7 +8120,6 @@
     ],
     "escape": [
         "AnnotationDbi",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "GSEABase",
@@ -8742,7 +8719,6 @@
         "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "DropletUtils",
@@ -11553,7 +11529,6 @@
     ],
     "imcRtools": [
         "BiocFileCache",
-        "BiocNeighbors",
         "DropletUtils",
         "RSQLite",
         "SingleCellExperiment",
@@ -11944,7 +11919,6 @@
     "IRISFGM": [
         "AdaptGauss",
         "AnnotationDbi",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "DOSE",
@@ -14358,7 +14332,6 @@
         "tibble"
     ],
     "mia": [
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "DECIPHER",
@@ -14394,7 +14367,6 @@
         "treeio"
     ],
     "miaViz": [
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "DECIPHER",
@@ -14489,7 +14461,6 @@
         "ALDEx2",
         "ANCOMBC",
         "AnnotationDbi",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "DECIPHER",
@@ -14654,7 +14625,6 @@
         "tibble"
     ],
     "miloR": [
-        "BiocNeighbors",
         "BiocSingular",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -15652,7 +15622,6 @@
         "viridis"
     ],
     "msImpute": [
-        "BiocNeighbors",
         "BiocSingular",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -16125,7 +16094,6 @@
         "waldo"
     ],
     "mumosa": [
-        "BiocNeighbors",
         "BiocSingular",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -16156,7 +16124,6 @@
     ],
     "muscat": [
         "AnnotationDbi",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "DESeq2",
@@ -16735,7 +16702,6 @@
     ],
     "netSmooth": [
         "AnnotationDbi",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "ClusterR",
@@ -18051,7 +18017,6 @@
         "genefilter"
     ],
     "peco": [
-        "BiocNeighbors",
         "BiocSingular",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -18449,7 +18414,6 @@
         "viridis"
     ],
     "pipeComp": [
-        "BiocNeighbors",
         "BiocSingular",
         "Seurat",
         "SeuratObject",
@@ -21914,7 +21878,6 @@
         "tibble"
     ],
     "scater": [
-        "BiocNeighbors",
         "BiocSingular",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -22070,7 +22033,6 @@
         "tidyr"
     ],
     "scDblFinder": [
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "GenomicAlignments",
@@ -22090,7 +22052,6 @@
         "viridis"
     ],
     "scDD": [
-        "BiocNeighbors",
         "BiocSingular",
         "EBSeq",
         "SingleCellExperiment",
@@ -22379,7 +22340,6 @@
     "scPipe": [
         "AnnotationDbi",
         "BiocFileCache",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "GGally",
@@ -22411,7 +22371,6 @@
         "waldo"
     ],
     "scran": [
-        "BiocNeighbors",
         "BiocSingular",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -22610,7 +22569,6 @@
         "AnnotationDbi",
         "AnnotationFilter",
         "BiocFileCache",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "GenomicAlignments",
@@ -23354,7 +23312,6 @@
         "SummarizedExperiment"
     ],
     "SingleCellSignalR": [
-        "BiocNeighbors",
         "BiocSingular",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -23367,7 +23324,6 @@
         "AnnotationFilter",
         "AnnotationHub",
         "BiocFileCache",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "DESeq2",
@@ -23488,7 +23444,6 @@
         "tibble"
     ],
     "SingleR": [
-        "BiocNeighbors",
         "BiocSingular",
         "SummarizedExperiment"
     ],
@@ -23752,7 +23707,6 @@
         "iPAC"
     ],
     "Spaniel": [
-        "BiocNeighbors",
         "BiocSingular",
         "DropletUtils",
         "Seurat",
@@ -23912,7 +23866,6 @@
     "spatialHeatmap": [
         "AnnotationDbi",
         "BiocFileCache",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "GO.db",
@@ -24080,7 +24033,6 @@
         "tibble"
     ],
     "splatter": [
-        "BiocNeighbors",
         "BiocSingular",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -26072,7 +26024,6 @@
     ],
     "tricycle": [
         "AnnotationDbi",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "KEGGREST",
@@ -26247,7 +26198,6 @@
         "tibble"
     ],
     "UCell": [
-        "BiocNeighbors",
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
@@ -26406,7 +26356,6 @@
         "viridis"
     ],
     "VAExprs": [
-        "BiocNeighbors",
         "BiocSingular",
         "DeepPINCS",
         "DiagrammeR",
@@ -26723,7 +26672,6 @@
     ],
     "Voyager": [
         "BiocFileCache",
-        "BiocNeighbors",
         "DropletUtils",
         "RSQLite",
         "SingleCellExperiment",
