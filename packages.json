@@ -123,7 +123,6 @@
         "ExperimentHub",
         "KEGGREST",
         "RSQLite",
-        "TTR",
         "adductData",
         "dbplyr",
         "dplyr",
@@ -3829,7 +3828,6 @@
         "GenomicRanges",
         "Rsamtools",
         "SummarizedExperiment",
-        "TTR",
         "dplyr",
         "ggplot2",
         "plyranges",
@@ -6056,7 +6054,6 @@
         "Biostrings",
         "KEGGREST",
         "RSQLite",
-        "TTR",
         "broom",
         "cellranger",
         "cowplot",
@@ -6463,7 +6460,6 @@
     "DAPAR": [
         "DAPARdata",
         "MSnbase",
-        "TTR",
         "broom",
         "dplyr",
         "ggplot2",
@@ -6614,7 +6610,6 @@
         "GenomicRanges",
         "NMF",
         "SummarizedExperiment",
-        "TTR",
         "dplyr",
         "ggplot2",
         "progress",
@@ -6955,7 +6950,6 @@
         "tibble"
     ],
     "deltaGseg": [
-        "TTR",
         "ggplot2",
         "quantmod",
         "tibble",
@@ -7136,7 +7130,6 @@
         "GenomicRanges",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "TTR",
         "VIM",
         "broom",
         "car",
@@ -9511,7 +9504,6 @@
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
-        "TTR",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "annotate",
         "biomaRt",
@@ -20668,7 +20660,6 @@
     "PrInCE": [
         "Hmisc",
         "MSnbase",
-        "TTR",
         "dplyr",
         "forecast",
         "ggplot2",
@@ -20976,7 +20967,6 @@
         "DAPAR",
         "DAPARdata",
         "MSnbase",
-        "TTR",
         "broom",
         "dplyr",
         "ggplot2",
@@ -21126,7 +21116,6 @@
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
-        "TTR",
         "VariantAnnotation",
         "biomaRt",
         "broom",
@@ -21875,7 +21864,6 @@
     ],
     "RCM": [
         "Biostrings",
-        "TTR",
         "ggplot2",
         "phyloseq",
         "quantmod",
@@ -30071,11 +30059,8 @@
         "selectr",
         "tibble"
     ],
-    "smoother": [
-        "TTR"
-    ],
+    "smoother": [],
     "selectr": [],
-    "TTR": [],
     "dbplyr": [
         "dplyr",
         "tibble",
@@ -31347,9 +31332,7 @@
     "GenomicTools.fileHandler": [
         "snpStats"
     ],
-    "quantmod": [
-        "TTR"
-    ],
+    "quantmod": [],
     "ChAMPdata": [
         "GenomicRanges"
     ],
@@ -31904,7 +31887,6 @@
         "shinyjs"
     ],
     "highcharter": [
-        "TTR",
         "broom",
         "dplyr",
         "ggplot2",
@@ -32007,7 +31989,6 @@
         "quantreg"
     ],
     "DMwR2": [
-        "TTR",
         "dplyr",
         "progress",
         "quantmod",
@@ -32067,7 +32048,6 @@
         "tidyselect"
     ],
     "tseries": [
-        "TTR",
         "quantmod"
     ],
     "imputeLCMD": [],
@@ -33236,7 +33216,6 @@
         "tidyselect"
     ],
     "forecast": [
-        "TTR",
         "ggplot2",
         "quantmod",
         "tibble",
