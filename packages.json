@@ -3075,7 +3075,6 @@
         "bsseq",
         "cowplot",
         "dplyr",
-        "gamlss",
         "ggplot2",
         "pillar",
         "rtracklayer",
@@ -8185,9 +8184,7 @@
         "pillar",
         "tibble"
     ],
-    "DEsingle": [
-        "gamlss"
-    ],
+    "DEsingle": [],
     "destiny": [
         "GenomicRanges",
         "SingleCellExperiment",
@@ -15095,7 +15092,6 @@
         "enrichplot",
         "fgsea",
         "fitdistrplus",
-        "gamlss",
         "ggbeeswarm",
         "ggforce",
         "ggfun",
@@ -28280,7 +28276,6 @@
     "scRecover": [
         "Rmagic",
         "SAVER",
-        "gamlss",
         "glmnet",
         "penalized"
     ],
@@ -35863,7 +35858,6 @@
         "stringr"
     ],
     "pcalg": [],
-    "gamlss": [],
     "GenomicState": [
         "AnnotationDbi",
         "AnnotationHub",
