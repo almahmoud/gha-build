@@ -50827,7 +50827,6 @@
         "SparseM",
         "SummarizedExperiment",
         "XVector",
-        "aggregation",
         "backports",
         "base64enc",
         "boot",
@@ -73671,7 +73670,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "aggregation",
         "calibrate",
         "cli",
         "cpp11",
@@ -139211,7 +139209,6 @@
         "stringi",
         "vctrs"
     ],
-    "aggregation": [],
     "HiContactsData": [
         "AnnotationDbi",
         "AnnotationHub",
