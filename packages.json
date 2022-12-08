@@ -998,9 +998,7 @@
         "ggraph",
         "ggtree"
     ],
-    "fastLiquidAssociation": [
-        "LiquidAssociation"
-    ],
+    "fastLiquidAssociation": [],
     "fCCAC": [
         "fda"
     ],
@@ -1511,7 +1509,6 @@
         "ggtree"
     ],
     "lipidr": [],
-    "LiquidAssociation": [],
     "lisaClust": [
         "lme4",
         "lmerTest",
