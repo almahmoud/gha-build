@@ -547,7 +547,6 @@
     "clipper": [
         "qpgraph"
     ],
-    "cliqueMS": [],
     "clusterExperiment": [],
     "clusterProfiler": [
         "DOSE",
