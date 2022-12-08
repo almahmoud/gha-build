@@ -2786,7 +2786,6 @@
         "miRspongeR",
         "nloptr",
         "pbkrtest",
-        "rqubic",
         "rstatix",
         "s4vd",
         "testthat",
@@ -4016,7 +4015,6 @@
         "ropls",
         "testthat"
     ],
-    "rqubic": [],
     "rrvgo": [],
     "RTCGA": [
         "car",
