@@ -52,7 +52,6 @@
         "MultiAssayExperiment"
     ],
     "affycoretools": [
-        "AnnotationForge",
         "BSgenome",
         "BiocFileCache",
         "Category",
@@ -84,7 +83,6 @@
     ],
     "aggregateBioVar": [],
     "AgiMicroRna": [
-        "AnnotationForge",
         "BSgenome",
         "BiocFileCache",
         "Category",
@@ -195,12 +193,10 @@
         "genefilter"
     ],
     "annotate": [],
-    "AnnotationForge": [],
     "AnnotationHub": [
         "BiocFileCache"
     ],
     "AnnotationHubData": [
-        "AnnotationForge",
         "AnnotationHub",
         "BiocFileCache",
         "GenomicFeatures",
@@ -445,7 +441,6 @@
         "waldo"
     ],
     "attract": [
-        "AnnotationForge",
         "Category",
         "GO.db",
         "GOstats",
@@ -1152,7 +1147,6 @@
         "genefilter"
     ],
     "categoryCompare": [
-        "AnnotationForge",
         "Category",
         "GO.db",
         "GOstats",
@@ -3340,7 +3334,6 @@
         "BiocFileCache"
     ],
     "ExperimentHubData": [
-        "AnnotationForge",
         "AnnotationHub",
         "AnnotationHubData",
         "BiocFileCache",
@@ -4129,7 +4122,6 @@
         "rtracklayer"
     ],
     "GmicR": [
-        "AnnotationForge",
         "Category",
         "GO.db",
         "GOstats",
@@ -4209,7 +4201,6 @@
         "biomaRt"
     ],
     "GOstats": [
-        "AnnotationForge",
         "Category",
         "GO.db",
         "GSEABase",
@@ -4554,7 +4545,6 @@
     ],
     "iCOBRA": [],
     "ideal": [
-        "AnnotationForge",
         "BiocFileCache",
         "Category",
         "DESeq2",
@@ -5585,7 +5575,6 @@
         "rtracklayer"
     ],
     "methylclock": [
-        "AnnotationForge",
         "AnnotationHub",
         "AnnotationHubData",
         "BiocFileCache",
@@ -5824,7 +5813,6 @@
         "mice"
     ],
     "MIGSA": [
-        "AnnotationForge",
         "Category",
         "GO.db",
         "GOstats",
@@ -5848,7 +5836,6 @@
         "Hmisc"
     ],
     "MineICA": [
-        "AnnotationForge",
         "BiocFileCache",
         "Category",
         "FDb.InfiniumMethylation.hg19",
@@ -5900,7 +5887,6 @@
         "org.Hs.eg.db"
     ],
     "miRLAB": [
-        "AnnotationForge",
         "BiocFileCache",
         "Category",
         "GO.db",
@@ -6699,7 +6685,6 @@
         "zinbwave"
     ],
     "netZooR": [
-        "AnnotationForge",
         "BiocFileCache",
         "Category",
         "GEOquery",
@@ -7159,7 +7144,6 @@
         "readr"
     ],
     "pcaExplorer": [
-        "AnnotationForge",
         "BiocFileCache",
         "Category",
         "DESeq2",
@@ -7384,7 +7368,6 @@
         "rtracklayer"
     ],
     "PloGO2": [
-        "AnnotationForge",
         "Category",
         "GO.db",
         "GOstats",
@@ -8106,7 +8089,6 @@
         "rtracklayer"
     ],
     "ReportingTools": [
-        "AnnotationForge",
         "BSgenome",
         "BiocFileCache",
         "Category",
@@ -8913,7 +8895,6 @@
     ],
     "scry": [],
     "scTensor": [
-        "AnnotationForge",
         "AnnotationHub",
         "BiocFileCache",
         "Category",
@@ -10492,7 +10473,6 @@
         "plotly"
     ],
     "ViSEAGO": [
-        "AnnotationForge",
         "BiocFileCache",
         "DiagrammeR",
         "GO.db",
@@ -11479,7 +11459,6 @@
         "rtracklayer"
     ],
     "methylclockData": [
-        "AnnotationForge",
         "AnnotationHub",
         "AnnotationHubData",
         "BiocFileCache",
