@@ -27571,7 +27571,6 @@
         "vctrs"
     ],
     "Path2PPI": [],
-    "pathifier": [],
     "PathoStat": [
         "AnnotationDbi",
         "BiocParallel",
