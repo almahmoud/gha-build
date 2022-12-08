@@ -4038,7 +4038,6 @@
     "fgga": [
         "BiocFileCache"
     ],
-    "FGNet": [],
     "fgsea": [],
     "FilterFFPE": [],
     "FindIT2": [
@@ -5511,9 +5510,7 @@
         "rtracklayer"
     ],
     "InterMineR": [],
-    "IntramiRExploreR": [
-        "FGNet"
-    ],
+    "IntramiRExploreR": [],
     "IONiseR": [
         "ShortRead",
         "tidyr"
