@@ -3357,7 +3357,6 @@
         "recipes",
         "rematch2",
         "rstatix",
-        "shinyFeedback",
         "shinyjs",
         "testthat",
         "tidyr",
@@ -7132,7 +7131,6 @@
         "rematch2",
         "roxygen2",
         "rstatix",
-        "shinyFeedback",
         "shinyFiles",
         "shinydashboard",
         "shinyjs",
@@ -12978,8 +12976,7 @@
         "phyloseq"
     ],
     "rprimer": [
-        "patchwork",
-        "shinyFeedback"
+        "patchwork"
     ],
     "rpx": [
         "BiocFileCache",
@@ -17359,7 +17356,6 @@
     "fields": [
         "viridis"
     ],
-    "shinyFeedback": [],
     "mbest": [
         "lme4",
         "nloptr",
