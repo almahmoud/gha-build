@@ -2895,7 +2895,6 @@
         "MAST",
         "MultiAssayExperiment",
         "NADA",
-        "NOISeq",
         "ROCR",
         "ROI.plugin.lpsolve",
         "RSQLite",
@@ -8148,7 +8147,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "GenomicRanges",
-        "NOISeq",
         "Rsamtools",
         "XVector",
         "bslib",
@@ -24983,9 +24981,7 @@
         "vctrs",
         "viridis"
     ],
-    "metaSeq": [
-        "NOISeq"
-    ],
+    "metaSeq": [],
     "metaseqR2": [
         "AnnotationDbi",
         "BSgenome",
@@ -30417,7 +30413,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "NOISeq": [],
     "nondetects": [
         "HTqPCR",
         "arm",
