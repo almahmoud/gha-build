@@ -135,13 +135,10 @@
     ],
     "categoryCompare": [],
     "cbaf": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
     "CBEA": [],
-    "cBioPortalData": [
-        "RTCGAToolbox"
-    ],
+    "cBioPortalData": [],
     "cellmigRation": [
         "FactoMineR",
         "car",
@@ -723,7 +720,6 @@
         "spicyR"
     ],
     "LowMACA": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
     "lumi": [
@@ -1311,7 +1307,6 @@
         "rstatix",
         "survminer"
     ],
-    "RTCGAToolbox": [],
     "RTN": [
         "car",
         "pbkrtest"
