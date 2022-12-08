@@ -2,8 +2,7 @@
     "a4": [],
     "abseqR": [],
     "ADaCGH2": [
-        "snapCGH",
-        "tilingArray"
+        "snapCGH"
     ],
     "ADAMgui": [
         "car",
@@ -4369,9 +4368,7 @@
         "geneLenDataBase",
         "goseq"
     ],
-    "snapCGH": [
-        "tilingArray"
-    ],
+    "snapCGH": [],
     "snm": [
         "lme4",
         "nloptr",
@@ -4684,7 +4681,6 @@
     "TFutils": [],
     "tidybulk": [],
     "tidySingleCellExperiment": [],
-    "tilingArray": [],
     "timeOmics": [
         "propr"
     ],
