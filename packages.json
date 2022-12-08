@@ -308,7 +308,6 @@
         "smurf",
         "tibble",
         "tidyselect",
-        "uwot",
         "viridis"
     ],
     "ALDEx2": [
@@ -509,7 +508,6 @@
         "tidyselect",
         "tidytree",
         "treeio",
-        "uwot",
         "viridis",
         "waldo"
     ],
@@ -792,8 +790,7 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "topGO",
-        "uwot"
+        "topGO"
     ],
     "appreci8R": [
         "AnnotationDbi",
@@ -1599,7 +1596,6 @@
         "scuttle",
         "tibble",
         "tidyselect",
-        "uwot",
         "viridis"
     ],
     "bayNorm": [
@@ -1755,7 +1751,6 @@
         "tidytext",
         "tidytree",
         "treeio",
-        "uwot",
         "viridis",
         "waldo",
         "zCompositions",
@@ -3251,7 +3246,6 @@
         "tidyr",
         "tidyselect",
         "tweenr",
-        "uwot",
         "viridis",
         "waldo"
     ],
@@ -3438,7 +3432,6 @@
         "scran",
         "scuttle",
         "tibble",
-        "uwot",
         "viridis"
     ],
     "CellaRepertorium": [
@@ -3528,7 +3521,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uwot",
         "viridis"
     ],
     "cellity": [
@@ -3585,7 +3577,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uwot",
         "viridis"
     ],
     "CellNOptR": [
@@ -4325,7 +4316,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uwot",
         "viridis",
         "waiter",
         "webshot"
@@ -4538,7 +4528,6 @@
         "tidyr",
         "tidyselect",
         "tweenr",
-        "uwot",
         "viridis"
     ],
     "ClassifyR": [
@@ -5338,7 +5327,6 @@
         "tidytree",
         "treeio",
         "tweenr",
-        "uwot",
         "viridis",
         "vroom",
         "waldo"
@@ -5377,7 +5365,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uwot",
         "viridis"
     ],
     "CONFESS": [
@@ -7414,8 +7401,7 @@
         "spatstat.random",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "uwot"
+        "tidyselect"
     ],
     "discordant": [
         "dplyr",
@@ -7469,7 +7455,6 @@
         "scater",
         "scuttle",
         "tibble",
-        "uwot",
         "viridis"
     ],
     "dittoSeq": [
@@ -9669,7 +9654,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uwot",
         "viridis"
     ],
     "flowAI": [
@@ -12855,12 +12839,9 @@
         "spatstat.random",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "uwot"
+        "tidyselect"
     ],
-    "infinityFlow": [
-        "uwot"
-    ],
+    "infinityFlow": [],
     "InPAS": [
         "AnnotationDbi",
         "BSgenome",
@@ -13254,7 +13235,6 @@
         "tidytree",
         "treeio",
         "tweenr",
-        "uwot",
         "viridis",
         "waldo"
     ],
@@ -15841,7 +15821,6 @@
         "tidyselect",
         "tidytree",
         "treeio",
-        "uwot",
         "viridis"
     ],
     "miaSim": [
@@ -15894,7 +15873,6 @@
         "tidytree",
         "treeio",
         "tweenr",
-        "uwot",
         "viridis"
     ],
     "microbiome": [
@@ -16025,7 +16003,6 @@
         "tidyselect",
         "tidytree",
         "treeio",
-        "uwot",
         "viridis",
         "waldo",
         "zCompositions"
@@ -16845,8 +16822,7 @@
         "reshape2",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "uwot"
+        "tidyselect"
     ],
     "MOGAMUN": [
         "IRdisplay",
@@ -17764,8 +17740,7 @@
         "batchelor",
         "bluster",
         "scran",
-        "scuttle",
-        "uwot"
+        "scuttle"
     ],
     "MungeSumstats": [
         "AnnotationDbi",
@@ -17827,7 +17802,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uwot",
         "variancePartition",
         "viridis",
         "waldo"
@@ -17903,7 +17877,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uwot",
         "viridis",
         "vroom",
         "waldo"
@@ -18261,8 +18234,7 @@
         "spatstat.random",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "uwot"
+        "tidyselect"
     ],
     "nempi": [
         "Linnorm",
@@ -18452,7 +18424,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uwot",
         "viridis",
         "zinbwave"
     ],
@@ -19886,7 +19857,6 @@
         "scater",
         "scuttle",
         "tibble",
-        "uwot",
         "viridis"
     ],
     "pengls": [],
@@ -20343,7 +20313,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uwot",
         "viridis"
     ],
     "pipeFrame": [
@@ -20527,8 +20496,7 @@
         "rmarkdown",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "uwot"
+        "tidyselect"
     ],
     "PoTRA": [
         "AnnotationDbi",
@@ -23967,8 +23935,7 @@
         "tfruns",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "uwot"
+        "tidyselect"
     ],
     "SCAN.UPC": [
         "AnnotationDbi",
@@ -24072,8 +24039,7 @@
         "spatstat.random",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "uwot"
+        "tidyselect"
     ],
     "SCANVIS": [
         "Biostrings",
@@ -24121,7 +24087,6 @@
         "ggrepel",
         "scuttle",
         "tibble",
-        "uwot",
         "viridis"
     ],
     "scatterHatch": [
@@ -24159,7 +24124,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uwot",
         "zinbwave"
     ],
     "scBubbletree": [
@@ -24187,8 +24151,7 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "treeio",
-        "uwot"
+        "treeio"
     ],
     "scCB2": [
         "DropletUtils",
@@ -24214,8 +24177,7 @@
         "spatstat.random",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "uwot"
+        "tidyselect"
     ],
     "scClassify": [
         "AnnotationDbi",
@@ -24284,8 +24246,7 @@
         "spatstat.random",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "uwot"
+        "tidyselect"
     ],
     "scDblFinder": [
         "BiocNeighbors",
@@ -24307,7 +24268,6 @@
         "scran",
         "scuttle",
         "tibble",
-        "uwot",
         "viridis"
     ],
     "scDD": [
@@ -24414,8 +24374,7 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tweenr",
-        "uwot"
+        "tweenr"
     ],
     "scHOT": [
         "GenomicRanges",
@@ -24463,8 +24422,7 @@
         "spatstat.random",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "uwot"
+        "tidyselect"
     ],
     "scmap": [
         "GenomicRanges",
@@ -24679,7 +24637,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uwot",
         "viridis",
         "waldo"
     ],
@@ -24852,7 +24809,6 @@
         "tidytree",
         "treeio",
         "tweenr",
-        "uwot",
         "viridis",
         "webshot"
     ],
@@ -24897,7 +24853,6 @@
         "tidyr",
         "tidyselect",
         "tweenr",
-        "uwot",
         "viridis"
     ],
     "scTHI": [],
@@ -24957,7 +24912,6 @@
         "tidyr",
         "tidyselect",
         "tweenr",
-        "uwot",
         "viridis"
     ],
     "scuttle": [
@@ -25841,7 +25795,6 @@
         "tidyselect",
         "tidytree",
         "treeio",
-        "uwot",
         "viridis",
         "zinbwave"
     ],
@@ -26192,7 +26145,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uwot",
         "viridis"
     ],
     "sparrow": [
@@ -26377,7 +26329,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uwot",
         "viridis"
     ],
     "spatzie": [
@@ -26542,7 +26493,6 @@
         "scater",
         "scuttle",
         "tibble",
-        "uwot",
         "viridis"
     ],
     "SpliceWiz": [
@@ -26733,7 +26683,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uwot",
         "viridis"
     ],
     "SPOTlight": [
@@ -27090,8 +27039,7 @@
         "spdep",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "uwot"
+        "tidyselect"
     ],
     "strandCheckR": [
         "AnnotationDbi",
@@ -28758,7 +28706,6 @@
         "scuttle",
         "tibble",
         "tidyselect",
-        "uwot",
         "viridis"
     ],
     "trigger": [
@@ -29138,7 +29085,6 @@
         "tidyr",
         "tidyselect",
         "ttgsea",
-        "uwot",
         "viridis",
         "vroom",
         "webchem"
@@ -30174,7 +30120,6 @@
         "ggplot2",
         "tibble"
     ],
-    "uwot": [],
     "ggrastr": [
         "ggbeeswarm",
         "ggplot2",
@@ -30350,8 +30295,7 @@
         "spatstat.random",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "uwot"
+        "tidyselect"
     ],
     "org.Hs.eg.db": [
         "AnnotationDbi",
@@ -33692,8 +33636,7 @@
         "spatstat.random",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "uwot"
+        "tidyselect"
     ],
     "scRNAseq": [
         "AnnotationDbi",
