@@ -526,7 +526,6 @@
     "ChIPQC": [
         "DESeq2",
         "DiffBind",
-        "GreyListChIP",
         "TxDb.Celegans.UCSC.ce6.ensGene",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
@@ -931,8 +930,7 @@
         "DESeq2"
     ],
     "DiffBind": [
-        "DESeq2",
-        "GreyListChIP"
+        "DESeq2"
     ],
     "diffcyt": [
         "FlowSOM",
@@ -1123,7 +1121,6 @@
         "rstatix"
     ],
     "epigraHMM": [
-        "GreyListChIP",
         "car",
         "ggpubr",
         "lme4",
@@ -1576,7 +1573,6 @@
     "GRaNIE": [
         "DESeq2"
     ],
-    "GreyListChIP": [],
     "GRmetrics": [
         "car",
         "drc",
@@ -3924,7 +3920,6 @@
         "ChIPpeakAnno",
         "DESeq2",
         "DiffBind",
-        "GreyListChIP",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "ensembldb",
         "viper"
