@@ -26786,7 +26786,6 @@
         "RBGL",
         "RColorBrewer",
         "RFOC",
-        "RPMG",
         "RProtoBufLib",
         "RSEIS",
         "Rcpp",
@@ -28540,7 +28539,6 @@
         "RBGL",
         "RColorBrewer",
         "RFOC",
-        "RPMG",
         "RProtoBufLib",
         "RSEIS",
         "Rcpp",
@@ -41501,7 +41499,6 @@
         "RBGL",
         "RColorBrewer",
         "RFOC",
-        "RPMG",
         "RProtoBufLib",
         "RSEIS",
         "Rcpp",
@@ -41620,7 +41617,6 @@
         "RBGL",
         "RColorBrewer",
         "RFOC",
-        "RPMG",
         "RProtoBufLib",
         "RSEIS",
         "Rcpp",
@@ -140340,7 +140336,6 @@
         "Matrix",
         "R6",
         "RColorBrewer",
-        "RPMG",
         "RSEIS",
         "cli",
         "dotCall64",
@@ -140383,14 +140378,12 @@
     "linprog": [
         "lpSolve"
     ],
-    "RPMG": [],
     "GEOmap": [
         "BH",
         "MBA",
         "Matrix",
         "R6",
         "RColorBrewer",
-        "RPMG",
         "cli",
         "dotCall64",
         "farver",
@@ -140418,9 +140411,7 @@
         "viridisLite",
         "withr"
     ],
-    "RSEIS": [
-        "RPMG"
-    ],
+    "RSEIS": [],
     "splancs": [
         "lattice",
         "sp"
