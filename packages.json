@@ -77994,7 +77994,6 @@
         "GenomicRanges",
         "IRanges",
         "RCurl",
-        "RNifti",
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
@@ -94972,11 +94971,9 @@
         "magick"
     ],
     "tractor.base": [
-        "RNifti",
         "reportr"
     ],
     "reportr": [],
-    "RNifti": [],
     "vbsr": [],
     "lassopv": [],
     "RPostgreSQL": [],
