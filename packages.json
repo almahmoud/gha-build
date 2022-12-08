@@ -15829,7 +15829,6 @@
         "glmnet",
         "lifecycle",
         "pillar",
-        "rpart.plot",
         "survival",
         "tibble",
         "tidyselect",
@@ -80895,7 +80894,6 @@
     ],
     "MBA": [],
     "spam": [],
-    "rpart.plot": [],
     "shinyFeedback": [
         "bslib",
         "cachem",
