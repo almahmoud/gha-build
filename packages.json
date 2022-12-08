@@ -240,7 +240,6 @@
     "orthogene": [
         "ggpubr"
     ],
-    "padma": [],
     "PDATK": [
         "ggpubr",
         "survminer"
