@@ -409,7 +409,6 @@
         "knitr",
         "mixOmics",
         "progress",
-        "rARPACK",
         "readxl",
         "reshape2",
         "rmarkdown",
@@ -7292,7 +7291,6 @@
         "ggplot2",
         "ggrepel",
         "mixOmics",
-        "rARPACK",
         "reshape2",
         "stringr",
         "tibble",
@@ -17326,7 +17324,6 @@
         "dplyr",
         "ggplot2",
         "ggrepel",
-        "rARPACK",
         "reshape2",
         "stringr",
         "tibble",
@@ -18394,7 +18391,6 @@
         "profvis",
         "quantreg",
         "qvalue",
-        "rARPACK",
         "rWikiPathways",
         "rcmdcheck",
         "reactome.db",
@@ -21291,7 +21287,6 @@
         "lava",
         "mixOmics",
         "prodlim",
-        "rARPACK",
         "recipes",
         "reshape2",
         "rmarkdown",
@@ -25499,7 +25494,6 @@
         "mixtools",
         "plotly",
         "progress",
-        "rARPACK",
         "rtracklayer",
         "stringr",
         "tibble",
@@ -27906,7 +27900,6 @@
         "lfda",
         "mosaicCore",
         "progress",
-        "rARPACK",
         "readr",
         "stringr",
         "tibble",
@@ -29203,7 +29196,6 @@
         "ggrepel",
         "mixOmics",
         "propr",
-        "rARPACK",
         "reshape2",
         "stringr",
         "tibble",
@@ -31363,7 +31355,6 @@
         "stringr",
         "tibble"
     ],
-    "rARPACK": [],
     "cellranger": [
         "tibble"
     ],
@@ -35137,8 +35128,7 @@
     ],
     "bamlss": [],
     "dml": [
-        "lfda",
-        "rARPACK"
+        "lfda"
     ],
     "MESS": [
         "broom",
@@ -35164,9 +35154,7 @@
         "tweenr",
         "vroom"
     ],
-    "lfda": [
-        "rARPACK"
-    ],
+    "lfda": [],
     "ggformula": [
         "dplyr",
         "forcats",
