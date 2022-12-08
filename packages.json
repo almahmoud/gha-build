@@ -17147,7 +17147,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "genArise": [],
     "genbankr": [
         "AnnotationDbi",
         "BSgenome",
