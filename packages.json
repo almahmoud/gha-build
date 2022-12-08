@@ -5659,7 +5659,6 @@
         "ggrepel",
         "hms",
         "latticeExtra",
-        "mixsqp",
         "pillar",
         "progress",
         "reshape2",
@@ -8619,7 +8618,6 @@
         "XVector",
         "ashr",
         "dplyr",
-        "mixsqp",
         "pillar",
         "tibble",
         "tidyselect",
@@ -9098,7 +9096,6 @@
         "gson",
         "heatmaply",
         "miniUI",
-        "mixsqp",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "patchwork",
@@ -9936,7 +9933,6 @@
         "ggplot2",
         "ggrepel",
         "latticeExtra",
-        "mixsqp",
         "pillar",
         "rtracklayer",
         "scales",
@@ -40158,7 +40154,6 @@
         "ggrepel",
         "hms",
         "latticeExtra",
-        "mixsqp",
         "mixtools",
         "multtest",
         "pillar",
@@ -43282,10 +43277,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "ashr": [
-        "mixsqp"
-    ],
-    "mixsqp": [],
+    "ashr": [],
     "ChIPXpressData": [],
     "shinyhelper": [
         "bslib",
