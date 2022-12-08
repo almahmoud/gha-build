@@ -10347,7 +10347,6 @@
         "pillar",
         "robustbase",
         "scales",
-        "sgeostat",
         "tibble",
         "topGO",
         "vctrs"
@@ -16468,7 +16467,6 @@
         "htmlwidgets",
         "locfit",
         "multtest",
-        "sgeostat",
         "survival"
     ],
     "crisprBase": [
@@ -28746,7 +28744,6 @@
         "latticeExtra",
         "mvoutlier",
         "robustbase",
-        "sgeostat",
         "sp",
         "splancs"
     ],
@@ -74910,7 +74907,6 @@
         "sass",
         "scales",
         "scuttle",
-        "sgeostat",
         "shiny",
         "shinyjs",
         "sitmo",
@@ -89634,10 +89630,8 @@
         "Rdpack"
     ],
     "mvoutlier": [
-        "robustbase",
-        "sgeostat"
+        "robustbase"
     ],
-    "sgeostat": [],
     "FME": [
         "coda",
         "minqa"
@@ -97442,7 +97436,6 @@
         "nlme",
         "pillar",
         "scales",
-        "sgeostat",
         "sp",
         "spatstat.data",
         "spatstat.geom",
