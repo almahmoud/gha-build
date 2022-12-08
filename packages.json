@@ -2095,14 +2095,12 @@
         "rmarkdown"
     ],
     "biocthis": [
-        "gert",
         "styler",
         "usethis"
     ],
     "BiocWorkflowTools": [
         "BiocStyle",
         "bookdown",
-        "gert",
         "knitr",
         "rmarkdown",
         "usethis"
@@ -2873,7 +2871,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "devtools",
-        "gert",
         "knitr",
         "miniUI",
         "pkgdown",
@@ -4977,7 +4974,6 @@
     "cogena": [
         "devtools",
         "dplyr",
-        "gert",
         "ggplot2",
         "knitr",
         "miniUI",
@@ -6467,7 +6463,6 @@
         "cowplot",
         "dbplyr",
         "dplyr",
-        "gert",
         "ggplot2",
         "ggpubr",
         "ggrepel",
@@ -10144,7 +10139,6 @@
         "RSQLite",
         "devtools",
         "dplR",
-        "gert",
         "knitr",
         "miniUI",
         "pkgdown",
@@ -12365,7 +12359,6 @@
         "available",
         "biocthis",
         "dplyr",
-        "gert",
         "styler",
         "tibble",
         "tidyselect",
@@ -12758,7 +12751,6 @@
     ],
     "INDEED": [
         "devtools",
-        "gert",
         "knitr",
         "miniUI",
         "pkgdown",
@@ -12969,7 +12961,6 @@
         "dendextend",
         "dplyr",
         "factoextra",
-        "gert",
         "ggplot2",
         "ggpubr",
         "ggrepel",
@@ -14761,7 +14752,6 @@
         "GenomicRanges",
         "cmdfun",
         "dplyr",
-        "gert",
         "progress",
         "readr",
         "rematch2",
@@ -14798,7 +14788,6 @@
         "GenomicRanges",
         "cmdfun",
         "dplyr",
-        "gert",
         "ggplot2",
         "ggseqlogo",
         "patchwork",
@@ -15435,7 +15424,6 @@
         "forcats",
         "gargle",
         "genefilter",
-        "gert",
         "ggplot2",
         "ggpmisc",
         "ggpp",
@@ -15682,7 +15670,6 @@
     "MetID": [
         "ChemmineR",
         "devtools",
-        "gert",
         "ggplot2",
         "knitr",
         "miniUI",
@@ -15969,7 +15956,6 @@
         "dplyr",
         "enrichplot",
         "fgsea",
-        "gert",
         "ggforce",
         "ggfun",
         "ggnewscale",
@@ -17614,7 +17600,6 @@
         "enrichplot",
         "fgsea",
         "geneplotter",
-        "gert",
         "ggforce",
         "ggfun",
         "ggnewscale",
@@ -18683,7 +18668,6 @@
         "dbplyr",
         "derfinder",
         "dplyr",
-        "gert",
         "ggplot2",
         "ggpubr",
         "ggrepel",
@@ -19170,7 +19154,6 @@
     ],
     "oppti": [
         "devtools",
-        "gert",
         "ggplot2",
         "knitr",
         "miniUI",
@@ -19584,7 +19567,6 @@
         "devtools",
         "dplyr",
         "geneplotter",
-        "gert",
         "ggplot2",
         "knitr",
         "miniUI",
@@ -22900,7 +22882,6 @@
         "devtools",
         "dplyr",
         "geneplotter",
-        "gert",
         "ggplot2",
         "knitr",
         "miniUI",
@@ -26670,7 +26651,6 @@
         "dplyr",
         "ensembldb",
         "geneplotter",
-        "gert",
         "ggplot2",
         "htmlTable",
         "knitr",
@@ -28620,7 +28600,6 @@
     ],
     "tripr": [
         "dplyr",
-        "gert",
         "ggplot2",
         "golem",
         "knitr",
@@ -29531,7 +29510,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "dplyr",
-        "gert",
         "ggplot2",
         "golem",
         "knitr",
@@ -30881,10 +30859,7 @@
         "tibble"
     ],
     "styler": [],
-    "usethis": [
-        "gert"
-    ],
-    "gert": [],
+    "usethis": [],
     "rms": [
         "Hmisc",
         "ggplot2",
@@ -31078,7 +31053,6 @@
         "rtracklayer"
     ],
     "devtools": [
-        "gert",
         "knitr",
         "miniUI",
         "pkgdown",
@@ -31842,7 +31816,6 @@
         "vsn"
     ],
     "cmdfun": [
-        "gert",
         "rematch2",
         "testthat",
         "tibble",
@@ -32324,7 +32297,6 @@
     ],
     "Rlabkey": [],
     "golem": [
-        "gert",
         "knitr",
         "roxygen2",
         "shiny",
@@ -32796,7 +32768,6 @@
     ],
     "anyLib": [
         "devtools",
-        "gert",
         "knitr",
         "miniUI",
         "pkgdown",
