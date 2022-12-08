@@ -1427,7 +1427,6 @@
         "tidygraph",
         "treeio"
     ],
-    "deco": [],
     "DEComplexDisease": [
         "DESeq2",
         "geneplotter"
