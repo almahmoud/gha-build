@@ -991,7 +991,6 @@
     "HiLDA": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "hipathia": [],
     "HPiP": [],
     "HTSeqGenie": [
         "VariantTools",
