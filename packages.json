@@ -6026,7 +6026,6 @@
     "FamAgg": [
         "gap",
         "ggplot2",
-        "kinship2",
         "plotly",
         "tidyr"
     ],
@@ -15534,7 +15533,6 @@
         "broom",
         "gRain",
         "ggplot2",
-        "kinship2",
         "tidyr"
     ],
     "rWikiPathways": [
@@ -17460,7 +17458,6 @@
         "ggridges",
         "ggstance",
         "haven",
-        "kinship2",
         "labelled",
         "mosaicCore",
         "readr",
@@ -20730,7 +20727,6 @@
     "ggside": [
         "ggplot2"
     ],
-    "kinship2": [],
     "gap": [
         "ggplot2",
         "plotly",
@@ -21455,9 +21451,7 @@
     "treemap": [
         "ggplot2"
     ],
-    "GENLIB": [
-        "kinship2"
-    ],
+    "GENLIB": [],
     "SBGNview.data": [
         "bookdown",
         "rmarkdown"
@@ -21626,7 +21620,6 @@
         "ggridges",
         "ggstance",
         "haven",
-        "kinship2",
         "labelled",
         "mosaicCore",
         "readr",
