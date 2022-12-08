@@ -36015,7 +36015,6 @@
         "dplyr",
         "e1071",
         "ellipsis",
-        "flock",
         "futile.logger",
         "future",
         "future.apply",
@@ -39845,7 +39844,6 @@
         "ellipsis",
         "ff",
         "fields",
-        "flock",
         "foreach",
         "futile.logger",
         "genefilter",
@@ -92378,7 +92376,6 @@
         "Rsolnp",
         "nlme"
     ],
-    "flock": [],
     "Rsolnp": [],
     "golem": [
         "askpass",
@@ -92805,7 +92802,6 @@
         "cowplot",
         "doParallel",
         "ff",
-        "flock",
         "foreach",
         "ggplot2",
         "lifecycle",
@@ -92828,7 +92824,6 @@
     ],
     "bigparallelr": [
         "doParallel",
-        "flock",
         "foreach"
     ],
     "rmio": [
