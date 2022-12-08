@@ -3311,7 +3311,6 @@
     "MIRA": [
         "bsseq"
     ],
-    "mirIntegrator": [],
     "miRLAB": [
         "Category",
         "GOstats",
