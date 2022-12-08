@@ -17918,7 +17918,6 @@
         "topGO",
         "viridis"
     ],
-    "PCAN": [],
     "PCAtools": [
         "BiocSingular",
         "cowplot",
