@@ -110,9 +110,7 @@
         "rstatix"
     ],
     "contiBAIT": [],
-    "conumee": [
-        "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
-    ],
+    "conumee": [],
     "CopyNumberPlots": [],
     "crisprVerse": [],
     "cyanoFilter": [
@@ -207,9 +205,7 @@
         "EntropyExplorer",
         "ReactomePA"
     ],
-    "epimutacions": [
-        "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
-    ],
+    "epimutacions": [],
     "erma": [],
     "esATAC": [
         "clusterProfiler"
@@ -800,7 +796,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [],
     "VIM": [],
     "EntropyExplorer": [],
     "SPARQL": [],
