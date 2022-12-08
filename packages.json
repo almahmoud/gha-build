@@ -2188,7 +2188,6 @@
         "illuminaio",
         "lifecycle",
         "lumi",
-        "mdqc",
         "memoise",
         "methylumi",
         "mgcv",
@@ -33891,7 +33890,6 @@
         "tibble",
         "vctrs"
     ],
-    "mdqc": [],
     "MDTS": [
         "BiocParallel",
         "Biostrings",
