@@ -8337,7 +8337,6 @@
         "BiocFileCache",
         "DESeq2",
         "GenomicFeatures",
-        "TBX20BamSubset",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "annotate",
         "biomaRt",
@@ -11676,7 +11675,6 @@
         "BiocFileCache",
         "ExperimentHub"
     ],
-    "TBX20BamSubset": [],
     "SBGNview.data": [],
     "scanMiRData": [
         "scanMiR"
