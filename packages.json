@@ -6448,7 +6448,6 @@
         "httr",
         "memoise",
         "mgcv",
-        "mvoutlier",
         "openssl",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -17964,7 +17963,6 @@
         "flowViz",
         "interp",
         "latticeExtra",
-        "mvoutlier",
         "splancs"
     ],
     "GBScleanR": [
@@ -55916,7 +55914,6 @@
         "vctrs"
     ],
     "Ckmeans.1d.dp": [],
-    "mvoutlier": [],
     "SpatialTools": [],
     "FactoMineR": [
         "DT",
