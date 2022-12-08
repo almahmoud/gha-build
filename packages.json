@@ -252,7 +252,6 @@
         "qvalue"
     ],
     "ANCOMBC": [
-        "DECIPHER",
         "DescTools",
         "Hmisc",
         "MultiAssayExperiment",
@@ -573,9 +572,7 @@
         "tidyr",
         "viridis"
     ],
-    "AssessORF": [
-        "DECIPHER"
-    ],
+    "AssessORF": [],
     "ASSIGN": [
         "AnnotationDbi",
         "annotate",
@@ -935,7 +932,6 @@
         "ALDEx2",
         "ANCOMBC",
         "AnnotationDbi",
-        "DECIPHER",
         "DESeq2",
         "DescTools",
         "Hmisc",
@@ -3877,7 +3873,6 @@
         "treeio",
         "viridis"
     ],
-    "DECIPHER": [],
     "deco": [
         "AnnotationDbi",
         "BiocStyle",
@@ -9262,7 +9257,6 @@
         "dbplyr"
     ],
     "mia": [
-        "DECIPHER",
         "MultiAssayExperiment",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
@@ -9285,7 +9279,6 @@
         "treeio"
     ],
     "miaViz": [
-        "DECIPHER",
         "MultiAssayExperiment",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
@@ -9348,7 +9341,6 @@
         "ALDEx2",
         "ANCOMBC",
         "AnnotationDbi",
-        "DECIPHER",
         "DESeq2",
         "DescTools",
         "Hmisc",
@@ -11275,13 +11267,11 @@
         "flowWorkspace"
     ],
     "openPrimeR": [
-        "DECIPHER",
         "Hmisc",
         "htmlTable",
         "viridis"
     ],
     "openPrimeRui": [
-        "DECIPHER",
         "Hmisc",
         "htmlTable",
         "openPrimeR",
@@ -14054,7 +14044,6 @@
     ],
     "sangeranalyseR": [
         "BiocStyle",
-        "DECIPHER",
         "bookdown",
         "ggdendro",
         "plotly",
@@ -14342,7 +14331,6 @@
         "ggforce"
     ],
     "scifer": [
-        "DECIPHER",
         "kableExtra",
         "rmarkdown",
         "rvest",
@@ -16077,9 +16065,7 @@
         "vroom",
         "waldo"
     ],
-    "SynExtend": [
-        "DECIPHER"
-    ],
+    "SynExtend": [],
     "synlet": [
         "broom",
         "doBy",
