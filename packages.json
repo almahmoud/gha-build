@@ -13064,7 +13064,6 @@
         "DelayedArray",
         "GEOmap",
         "GGally",
-        "GoFKernel",
         "IRanges",
         "MatrixModels",
         "RBGL",
@@ -67233,7 +67232,6 @@
         "pcaPP"
     ],
     "cytometree": [
-        "GoFKernel",
         "cowplot",
         "ggplot2",
         "igraph",
@@ -67257,7 +67255,6 @@
         "tibble",
         "vctrs"
     ],
-    "GoFKernel": [],
     "rgeos": [],
     "RFOC": [
         "GEOmap",
