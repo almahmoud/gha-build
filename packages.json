@@ -387,7 +387,6 @@
         "Seurat",
         "TreeSummarizedExperiment",
         "corncob",
-        "dearseq",
         "genefilter",
         "geneplotter",
         "lme4",
@@ -1595,7 +1594,6 @@
         "pbkrtest",
         "testthat"
     ],
-    "dearseq": [],
     "debCAM": [
         "DMwR2"
     ],
