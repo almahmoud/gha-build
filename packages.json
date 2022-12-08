@@ -4802,7 +4802,6 @@
         "xcms"
     ],
     "IRISFGM": [
-        "AdaptGauss",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -11484,7 +11483,6 @@
         "rtracklayer"
     ],
     "golem": [],
-    "AdaptGauss": [],
     "datamods": [
         "haven",
         "readr",
