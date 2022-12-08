@@ -555,7 +555,6 @@
     "benchdamic": [
         "ANCOMBC",
         "DESeq2",
-        "MAST",
         "MultiAssayExperiment",
         "Seurat",
         "TreeSummarizedExperiment",
@@ -1160,7 +1159,6 @@
         "annotate"
     ],
     "celaref": [
-        "MAST",
         "readr"
     ],
     "celda": [
@@ -5051,7 +5049,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "MAST": [],
     "MatrixQCvis": [
         "plotly"
     ],
@@ -7186,9 +7183,7 @@
     "PoTRA": [
         "org.Hs.eg.db"
     ],
-    "POWSC": [
-        "MAST"
-    ],
+    "POWSC": [],
     "ppcseq": [
         "ggdist",
         "posterior",
@@ -8935,7 +8930,6 @@
         "GSVAdata",
         "GenomicFeatures",
         "M3Drop",
-        "MAST",
         "Seurat",
         "SoupX",
         "TENxPBMCData",
