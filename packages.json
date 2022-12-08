@@ -3009,7 +3009,6 @@
         "patchwork",
         "progress",
         "rtracklayer",
-        "snpStats",
         "tibble",
         "tidyr",
         "tidytree",
@@ -3597,7 +3596,6 @@
         "scatterpie",
         "shadowtext",
         "sna",
-        "snpStats",
         "testthat",
         "tibble",
         "tidygraph",
@@ -4243,7 +4241,6 @@
         "reshape2",
         "rtracklayer",
         "shiny",
-        "snpStats",
         "tibble",
         "universalmotif",
         "vroom"
@@ -6832,7 +6829,6 @@
         "genefilter",
         "progress",
         "readr",
-        "snpStats",
         "sva",
         "tibble",
         "tidyr",
@@ -9890,7 +9886,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "snpStats",
         "testthat",
         "tibble",
         "tidyr",
@@ -11339,7 +11334,6 @@
         "readr",
         "rtracklayer",
         "shiny",
-        "snpStats",
         "tibble",
         "vroom"
     ],
@@ -13514,7 +13508,6 @@
         "reshape2",
         "rtracklayer",
         "siggenes",
-        "snpStats",
         "tibble",
         "tidyr",
         "viridis",
@@ -13678,9 +13671,7 @@
         "ggplot2",
         "tibble"
     ],
-    "martini": [
-        "snpStats"
-    ],
+    "martini": [],
     "maser": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -22582,7 +22573,6 @@
         "ggplot2",
         "kinship2",
         "knitr",
-        "snpStats",
         "tibble",
         "tidyr"
     ],
@@ -23305,7 +23295,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "snpStats",
         "tibble"
     ],
     "scp": [
@@ -24701,7 +24690,6 @@
         "rtracklayer",
         "tibble"
     ],
-    "snpStats": [],
     "soGGi": [
         "Biostrings",
         "GenomicAlignments",
@@ -27940,7 +27928,6 @@
         "readr",
         "rtracklayer",
         "shiny",
-        "snpStats",
         "tibble",
         "vroom"
     ],
@@ -29664,9 +29651,7 @@
         "tidyr"
     ],
     "GenomicTools": [],
-    "GenomicTools.fileHandler": [
-        "snpStats"
-    ],
+    "GenomicTools.fileHandler": [],
     "quantmod": [],
     "ChAMPdata": [
         "GenomicRanges"
