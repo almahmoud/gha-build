@@ -9954,7 +9954,6 @@
         "RSQLite",
         "SummarizedExperiment",
         "annotate",
-        "backbone",
         "bs4Dash",
         "colourpicker",
         "dendextend",
@@ -30540,7 +30539,6 @@
         "tibble",
         "tidyr"
     ],
-    "backbone": [],
     "bs4Dash": [
         "fresh",
         "shiny",
