@@ -8006,7 +8006,6 @@
         "prodlim",
         "survcomp"
     ],
-    "GeneGA": [],
     "GeneGeneInteR": [
         "FactoMineR",
         "Rsamtools",
