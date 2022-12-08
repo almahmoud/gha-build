@@ -12,9 +12,7 @@
     ],
     "appreci8R": [],
     "ArrayExpressHTS": [],
-    "arrayMvout": [
-        "lumi"
-    ],
+    "arrayMvout": [],
     "ASpediaFI": [
         "mGSZ"
     ],
@@ -24,7 +22,6 @@
     "BaalChIP": [],
     "benchdamic": [],
     "bigmelon": [
-        "lumi",
         "wateRmelon"
     ],
     "bioCancer": [
@@ -70,7 +67,6 @@
     "ChAMP": [
         "DMRcate",
         "DSS",
-        "lumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -185,9 +181,7 @@
     "famat": [],
     "fastLiquidAssociation": [],
     "fcoex": [],
-    "ffpe": [
-        "lumi"
-    ],
+    "ffpe": [],
     "flowCL": [
         "SPARQL"
     ],
@@ -254,9 +248,7 @@
         "rstatix"
     ],
     "HiContacts": [],
-    "iCheck": [
-        "lumi"
-    ],
+    "iCheck": [],
     "ideal": [],
     "InTAD": [
         "ggpubr",
@@ -297,7 +289,6 @@
     "lisaClust": [
         "spicyR"
     ],
-    "lumi": [],
     "Maaslin2": [],
     "Macarron": [
         "Maaslin2"
@@ -311,7 +302,6 @@
         "missMethyl"
     ],
     "MEAT": [
-        "lumi",
         "wateRmelon"
     ],
     "MEDME": [
@@ -351,9 +341,7 @@
     "microbiomeExplorer": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [],
-    "MineICA": [
-        "lumi"
-    ],
+    "MineICA": [],
     "miRSM": [
         "ReactomePA",
         "SPONGE",
@@ -576,7 +564,6 @@
         "QuasR"
     ],
     "skewr": [
-        "lumi",
         "wateRmelon"
     ],
     "sojourner": [
@@ -652,9 +639,7 @@
     "vissE": [],
     "vulcan": [],
     "waddR": [],
-    "wateRmelon": [
-        "lumi"
-    ],
+    "wateRmelon": [],
     "YAPSA": [
         "SomaticSignatures"
     ],
