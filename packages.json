@@ -152,7 +152,6 @@
         "biovizBase"
     ],
     "bioCancer": [
-        "DOSE",
         "ReactomePA",
         "car",
         "clusterProfiler",
@@ -294,7 +293,6 @@
         "pbkrtest"
     ],
     "CEMiTool": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
@@ -311,7 +309,6 @@
     "ceRNAnetsim": [],
     "CeTF": [
         "DESeq2",
-        "DOSE",
         "GenomicTools",
         "car",
         "clusterProfiler",
@@ -365,7 +362,6 @@
         "TxDb.Rnorvegicus.UCSC.rn4.ensGene"
     ],
     "ChIPseeker": [
-        "DOSE",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "enrichplot",
         "ggtree"
@@ -391,7 +387,6 @@
     ],
     "clipper": [],
     "clusterProfiler": [
-        "DOSE",
         "enrichplot",
         "ggtree"
     ],
@@ -443,7 +438,6 @@
     ],
     "ComPrAn": [],
     "conclus": [
-        "DOSE",
         "FactoMineR",
         "car",
         "clusterProfiler",
@@ -593,7 +587,6 @@
     ],
     "debrowser": [
         "DESeq2",
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
@@ -713,7 +706,6 @@
         "lme4",
         "pbkrtest"
     ],
-    "DOSE": [],
     "doseR": [
         "lme4"
     ],
@@ -730,7 +722,6 @@
         "viper"
     ],
     "EasyCellType": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
@@ -745,7 +736,6 @@
     ],
     "eegc": [
         "DESeq2",
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
@@ -769,11 +759,9 @@
     ],
     "EnrichmentBrowser": [],
     "enrichplot": [
-        "DOSE",
         "ggtree"
     ],
     "enrichTF": [
-        "DOSE",
         "car",
         "clusterProfiler",
         "enrichplot",
@@ -791,7 +779,6 @@
         "BRGenomics",
         "ChIPseeker",
         "DESeq2",
-        "DOSE",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "enrichplot",
         "ggtree"
@@ -811,7 +798,6 @@
         "rstatix"
     ],
     "epihet": [
-        "DOSE",
         "EntropyExplorer",
         "ReactomePA",
         "enrichplot",
@@ -853,7 +839,6 @@
     ],
     "esATAC": [
         "ChIPseeker",
-        "DOSE",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "clusterProfiler",
         "enrichplot",
@@ -891,7 +876,6 @@
     ],
     "factR": [],
     "famat": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
@@ -901,7 +885,6 @@
         "fda"
     ],
     "fcoex": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
@@ -1009,7 +992,6 @@
     ],
     "GDCRNATools": [
         "DESeq2",
-        "DOSE",
         "car",
         "clusterProfiler",
         "enrichplot",
@@ -1147,7 +1129,6 @@
     "GOpro": [],
     "goseq": [],
     "goSorensen": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
@@ -1301,7 +1282,6 @@
     ],
     "IPO": [],
     "IRISFGM": [
-        "DOSE",
         "car",
         "clusterProfiler",
         "enrichplot",
@@ -1423,7 +1403,6 @@
         "minfi"
     ],
     "MAGeCKFlute": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
@@ -1491,7 +1470,6 @@
         "cmdfun"
     ],
     "meshes": [
-        "DOSE",
         "enrichplot",
         "ggtree"
     ],
@@ -1520,7 +1498,6 @@
     ],
     "metaMS": [],
     "MetaPhOR": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
@@ -1567,7 +1544,6 @@
         "rstatix"
     ],
     "methylGSA": [
-        "DOSE",
         "FDb.InfiniumMethylation.hg19",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
@@ -1625,7 +1601,6 @@
         "mia"
     ],
     "MicrobiomeProfiler": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
@@ -1657,7 +1632,6 @@
         "GOstats"
     ],
     "miRSM": [
-        "DOSE",
         "ReactomePA",
         "SPONGE",
         "car",
@@ -1672,7 +1646,6 @@
         "rstatix"
     ],
     "miRspongeR": [
-        "DOSE",
         "ReactomePA",
         "SPONGE",
         "car",
@@ -1716,7 +1689,6 @@
     "MobilityTransformR": [],
     "monaLisa": [],
     "MoonlightR": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
@@ -1811,7 +1783,6 @@
     ],
     "multiSight": [
         "DESeq2",
-        "DOSE",
         "ReactomePA",
         "anyLib",
         "biosigner",
@@ -1885,7 +1856,6 @@
     ],
     "netbiov": [],
     "netboxr": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
@@ -2014,14 +1984,11 @@
     ],
     "PAIRADISE": [],
     "PanomiR": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
     ],
-    "pareg": [
-        "DOSE"
-    ],
+    "pareg": [],
     "PathoStat": [
         "DESeq2",
         "devtools"
@@ -2040,7 +2007,6 @@
     ],
     "peco": [],
     "PFP": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
@@ -2071,7 +2037,6 @@
     "PhyloProfile": [],
     "Pi": [],
     "Pigengene": [
-        "DOSE",
         "ReactomePA",
         "clusterProfiler",
         "enrichplot",
@@ -2123,7 +2088,6 @@
     "proFIA": [],
     "profileplyr": [
         "ChIPseeker",
-        "DOSE",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "enrichplot",
@@ -2229,7 +2193,6 @@
     "Rcpi": [],
     "RcwlPipelines": [],
     "ReactomePA": [
-        "DOSE",
         "enrichplot",
         "ggtree"
     ],
@@ -2246,8 +2209,7 @@
         "ChIPpeakAnno"
     ],
     "RegEnrich": [
-        "DESeq2",
-        "DOSE"
+        "DESeq2"
     ],
     "regionReport": [
         "DEFormats",
@@ -2366,7 +2328,6 @@
     ],
     "RNASeqR": [
         "DESeq2",
-        "DOSE",
         "FactoMineR",
         "car",
         "clusterProfiler",
@@ -2486,7 +2447,6 @@
         "ggbio"
     ],
     "scTensor": [
-        "DOSE",
         "GOstats",
         "ReactomePA",
         "enrichplot",
@@ -2504,7 +2464,6 @@
     ],
     "segmenter": [
         "ChIPseeker",
-        "DOSE",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "enrichplot",
         "ggtree"
@@ -2537,7 +2496,6 @@
         "lmerTest"
     ],
     "signatureSearch": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
@@ -2746,7 +2704,6 @@
         "DESeq2"
     ],
     "TCGAbiolinksGUI": [
-        "DOSE",
         "ELMER",
         "Gviz",
         "VariantAnnotation",
@@ -2784,7 +2741,6 @@
         "propr"
     ],
     "TimiRGeN": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
