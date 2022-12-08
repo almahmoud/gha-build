@@ -103241,7 +103241,6 @@
         "Rook",
         "SparseM",
         "cpp11",
-        "distillery",
         "edgeR",
         "extRemes",
         "flexmix",
@@ -146787,14 +146786,12 @@
     "extRemes": [
         "Lmoments",
         "Rcpp",
-        "RcppArmadillo",
-        "distillery"
+        "RcppArmadillo"
     ],
     "Lmoments": [
         "Rcpp",
         "RcppArmadillo"
     ],
-    "distillery": [],
     "torch": [
         "Rcpp",
         "bit64",
