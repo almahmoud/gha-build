@@ -10,8 +10,7 @@
         "a4Core",
         "annaffy",
         "annotate",
-        "genefilter",
-        "pamr"
+        "genefilter"
     ],
     "a4Base": [
         "AnnotationDbi",
@@ -25,8 +24,7 @@
         "genefilter"
     ],
     "a4Classif": [
-        "a4Core",
-        "pamr"
+        "a4Core"
     ],
     "a4Core": [],
     "ABarray": [],
@@ -5681,7 +5679,6 @@
         "iC10",
         "ipred",
         "lava",
-        "pamr",
         "prodlim",
         "progress",
         "stringr",
@@ -10554,7 +10551,6 @@
         "lava",
         "lme4",
         "nloptr",
-        "pamr",
         "pbkrtest",
         "plsVarSel",
         "prodlim",
@@ -10832,7 +10828,6 @@
         "iC10",
         "ipred",
         "lava",
-        "pamr",
         "prodlim",
         "progress",
         "stringr",
@@ -17431,7 +17426,6 @@
         "hardhat",
         "ipred",
         "lava",
-        "pamr",
         "prodlim",
         "recipes",
         "rematch2",
@@ -20632,7 +20626,6 @@
         "lava",
         "lme4",
         "nloptr",
-        "pamr",
         "pbkrtest",
         "piano",
         "prodlim",
@@ -23932,9 +23925,7 @@
         "valr",
         "vroom"
     ],
-    "Rmagpie": [
-        "pamr"
-    ],
+    "Rmagpie": [],
     "RMassBank": [
         "ChemmineR",
         "MSnbase",
@@ -26650,7 +26641,6 @@
         "nloptr",
         "openair",
         "org.Hs.eg.db",
-        "pamr",
         "patchwork",
         "pbkrtest",
         "prodlim",
@@ -31193,7 +31183,6 @@
         "annotate",
         "genefilter"
     ],
-    "pamr": [],
     "GO.db": [
         "AnnotationDbi",
         "Biostrings",
@@ -33259,9 +33248,7 @@
         "tibble",
         "tidyselect"
     ],
-    "iC10": [
-        "pamr"
-    ],
+    "iC10": [],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "AnnotationDbi",
         "BiocFileCache",
