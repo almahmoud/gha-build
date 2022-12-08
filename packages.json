@@ -698,7 +698,6 @@
         "sva"
     ],
     "bnem": [
-        "Linnorm",
         "epiNEM",
         "genefilter",
         "mnem",
@@ -1793,7 +1792,6 @@
         "waldo"
     ],
     "dce": [
-        "Linnorm",
         "broom",
         "epiNEM",
         "ggraph",
@@ -2462,7 +2460,6 @@
         "readr"
     ],
     "epiNEM": [
-        "Linnorm",
         "mnem"
     ],
     "epistasisGA": [
@@ -3899,7 +3896,6 @@
         "testthat",
         "waldo"
     ],
-    "Linnorm": [],
     "LinTInd": [
         "aplot",
         "ggtree",
@@ -4780,9 +4776,7 @@
         "testthat",
         "waldo"
     ],
-    "mnem": [
-        "Linnorm"
-    ],
+    "mnem": [],
     "moanin": [
         "topGO"
     ],
@@ -5220,7 +5214,6 @@
         "plotly"
     ],
     "nempi": [
-        "Linnorm",
         "epiNEM",
         "mnem"
     ],
