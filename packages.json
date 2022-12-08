@@ -24,8 +24,7 @@
     "animalcules": [],
     "anota2seq": [],
     "appreci8R": [
-        "PolyPhen.Hsapiens.dbSNP131",
-        "SIFT.Hsapiens.dbSNP137"
+        "PolyPhen.Hsapiens.dbSNP131"
     ],
     "ArrayExpressHTS": [],
     "arrayMvout": [
@@ -1536,7 +1535,6 @@
     "pbkrtest": [],
     "lmerTest": [],
     "PolyPhen.Hsapiens.dbSNP131": [],
-    "SIFT.Hsapiens.dbSNP137": [],
     "mGSZ": [],
     "doBy": [
         "pbkrtest"
