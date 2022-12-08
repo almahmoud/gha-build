@@ -28978,7 +28978,6 @@
         "IRanges",
         "Matrix",
         "RCurl",
-        "RMallow",
         "TSP",
         "XVector",
         "foreach",
@@ -53676,7 +53675,6 @@
         "IRanges",
         "Matrix",
         "RCurl",
-        "RMallow",
         "SpacePAC",
         "TSP",
         "XVector",
@@ -82236,7 +82234,6 @@
     ],
     "s2": [],
     "units": [],
-    "RMallow": [],
     "penalized": [
         "Matrix",
         "survival"
