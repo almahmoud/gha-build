@@ -5516,7 +5516,6 @@
         "tidytree",
         "treeio"
     ],
-    "M3C": [],
     "M3Drop": [
         "Hmisc",
         "densEstBayes",
