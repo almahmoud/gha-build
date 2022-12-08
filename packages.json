@@ -3,9 +3,7 @@
         "a4Base"
     ],
     "a4Base": [],
-    "abseqR": [
-        "plotly"
-    ],
+    "abseqR": [],
     "ADaCGH2": [
         "snapCGH",
         "tilingArray"
@@ -71,9 +69,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "AlphaBeta": [
-        "plotly"
-    ],
+    "AlphaBeta": [],
     "alpine": [
         "GenomicFeatures"
     ],
@@ -105,7 +101,6 @@
         "MultiAssayExperiment",
         "caret",
         "geneplotter",
-        "plotly",
         "recipes"
     ],
     "annmap": [],
@@ -121,9 +116,7 @@
         "DESeq2",
         "geneplotter"
     ],
-    "AnVILBilling": [
-        "plotly"
-    ],
+    "AnVILBilling": [],
     "AnVILPublish": [],
     "APAlyzer": [
         "DESeq2",
@@ -134,7 +127,6 @@
     "apComplex": [],
     "APL": [
         "Seurat",
-        "plotly",
         "topGO"
     ],
     "appreci8R": [
@@ -170,12 +162,10 @@
         "MSstats",
         "lme4",
         "nloptr",
-        "plotly",
         "testthat"
     ],
     "ASICS": [
         "MultiAssayExperiment",
-        "plotly",
         "ropls"
     ],
     "ASpediaFI": [
@@ -217,7 +207,6 @@
         "haven",
         "modelr",
         "motifmatchr",
-        "plotly",
         "projectR",
         "rGREAT",
         "tidyverse"
@@ -252,8 +241,7 @@
     ],
     "AUCell": [
         "GSEABase",
-        "mixtools",
-        "plotly"
+        "mixtools"
     ],
     "autonomics": [
         "MultiAssayExperiment"
@@ -282,7 +270,6 @@
         "mixtools",
         "pRoloc",
         "pRolocdata",
-        "plotly",
         "recipes"
     ],
     "Basic4Cseq": [
@@ -300,7 +287,6 @@
     "batchelor": [],
     "BatchQC": [
         "heatmaply",
-        "plotly",
         "sva"
     ],
     "BayesSpace": [
@@ -324,7 +310,6 @@
         "lmerTest",
         "mia",
         "nloptr",
-        "plotly",
         "scater",
         "testthat",
         "treeio",
@@ -351,9 +336,7 @@
         "minfi",
         "wateRmelon"
     ],
-    "bigPint": [
-        "plotly"
-    ],
+    "bigPint": [],
     "BindingSiteFinder": [
         "GenomicFeatures",
         "Gviz",
@@ -375,7 +358,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "plotly",
         "radiant.data",
         "reactome.db",
         "testthat",
@@ -465,7 +447,6 @@
     ],
     "biosigner": [
         "MultiAssayExperiment",
-        "plotly",
         "ropls"
     ],
     "BioTIP": [
@@ -654,7 +635,6 @@
     "CBEA": [
         "TreeSummarizedExperiment",
         "mixtools",
-        "plotly",
         "treeio"
     ],
     "cBioPortalData": [
@@ -681,7 +661,6 @@
     ],
     "CelliD": [
         "Seurat",
-        "plotly",
         "scater"
     ],
     "cellity": [
@@ -786,13 +765,10 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "plotly",
         "sva",
         "wateRmelon"
     ],
-    "CHETAH": [
-        "plotly"
-    ],
+    "CHETAH": [],
     "ChIC": [
         "ChIC.data",
         "caret",
@@ -862,14 +838,12 @@
     "chromPlot": [],
     "ChromSCape": [
         "batchelor",
-        "plotly",
         "scater",
         "scran"
     ],
     "chromVAR": [
         "CNEr",
-        "TFBSTools",
-        "plotly"
+        "TFBSTools"
     ],
     "CHRONOS": [],
     "cicero": [
@@ -899,7 +873,6 @@
     "CiteFuse": [
         "ggraph",
         "mixtools",
-        "plotly",
         "propr",
         "scran",
         "tidygraph"
@@ -918,9 +891,7 @@
     "cliqueMS": [
         "xcms"
     ],
-    "CluMSID": [
-        "plotly"
-    ],
+    "CluMSID": [],
     "clusterExperiment": [
         "RNeXML",
         "phylobase",
@@ -959,7 +930,6 @@
         "biovizBase",
         "ensembldb",
         "karyoploteR",
-        "plotly",
         "regioneR"
     ],
     "CNVPanelizer": [
@@ -996,8 +966,7 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "ensembldb",
-        "plotly"
+        "ensembldb"
     ],
     "coMET": [
         "GenomicFeatures",
@@ -1125,7 +1094,6 @@
         "GSEABase",
         "dorothea",
         "mixtools",
-        "plotly",
         "viper"
     ],
     "countsimQC": [
@@ -1336,7 +1304,6 @@
         "ggtree",
         "heatmaply",
         "pathview",
-        "plotly",
         "sva",
         "tidygraph",
         "treeio"
@@ -1382,8 +1349,7 @@
     ],
     "DegNorm": [
         "GenomicFeatures",
-        "heatmaply",
-        "plotly"
+        "heatmaply"
     ],
     "DEGraph": [
         "NCIgraph"
@@ -1486,18 +1452,15 @@
     ],
     "diggit": [
         "mixtools",
-        "plotly",
         "viper"
     ],
     "Dino": [
         "Seurat",
-        "plotly",
         "scran"
     ],
     "DiscoRhythm": [
         "ggExtra",
-        "heatmaply",
-        "plotly"
+        "heatmaply"
     ],
     "distinct": [
         "scater"
@@ -1592,7 +1555,6 @@
         "mixtools",
         "nloptr",
         "pbkrtest",
-        "plotly",
         "progeny",
         "quantiseqr",
         "rstatix",
@@ -1654,7 +1616,6 @@
         "globaltest",
         "hgu133plus2.db",
         "pathview",
-        "plotly",
         "topGO"
     ],
     "ELMER": [
@@ -1670,7 +1631,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "plotly",
         "rstatix",
         "testthat"
     ],
@@ -1740,7 +1700,6 @@
         "genomation",
         "ggraph",
         "ggtree",
-        "plotly",
         "tidygraph",
         "treeio"
     ],
@@ -1889,7 +1848,6 @@
         "nloptr",
         "orthogene",
         "pbkrtest",
-        "plotly",
         "rstatix",
         "testthat",
         "treeio"
@@ -1925,8 +1883,7 @@
         "wiggleplotr"
     ],
     "FamAgg": [
-        "gap",
-        "plotly"
+        "gap"
     ],
     "famat": [
         "DOSE",
@@ -1936,7 +1893,6 @@
         "ggraph",
         "ggtree",
         "gprofiler2",
-        "plotly",
         "rWikiPathways",
         "reactome.db",
         "tidygraph",
@@ -1999,9 +1955,7 @@
         "scater",
         "scran"
     ],
-    "flowcatchR": [
-        "plotly"
-    ],
+    "flowcatchR": [],
     "flowCL": [
         "SPARQL"
     ],
@@ -2062,8 +2016,7 @@
         "GenomicFeatures",
         "OUTRIDER",
         "geneplotter",
-        "heatmaply",
-        "plotly"
+        "heatmaply"
     ],
     "frenchFISH": [
         "NHPoisson",
@@ -2156,8 +2109,7 @@
         "treeio"
     ],
     "gemini": [
-        "mixtools",
-        "plotly"
+        "mixtools"
     ],
     "genbankr": [
         "GenomicFeatures",
@@ -2203,8 +2155,7 @@
     ],
     "GeneTonic": [
         "DESeq2",
-        "geneplotter",
-        "plotly"
+        "geneplotter"
     ],
     "geneXtendeR": [],
     "genomation": [],
@@ -2217,8 +2168,7 @@
         "VariantAnnotation"
     ],
     "genomicInstability": [
-        "mixtools",
-        "plotly"
+        "mixtools"
     ],
     "GenomicInteractionNodes": [
         "GenomicFeatures"
@@ -2245,7 +2195,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "plotly",
         "rstatix",
         "testthat"
     ],
@@ -2284,7 +2233,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "plotly",
         "rstatix",
         "shinyHeatmaply",
         "testthat"
@@ -2324,7 +2272,6 @@
     "ggmsa": [
         "ggalt",
         "ggtree",
-        "plotly",
         "treeio"
     ],
     "GGPA": [],
@@ -2421,7 +2368,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "plotly",
         "testthat"
     ],
     "groHMM": [],
@@ -2490,8 +2436,7 @@
         "mice"
     ],
     "GWENA": [
-        "gprofiler2",
-        "plotly"
+        "gprofiler2"
     ],
     "hca": [],
     "HelloRanges": [
@@ -2595,7 +2540,6 @@
         "goseq",
         "heatmaply",
         "pcaExplorer",
-        "plotly",
         "topGO"
     ],
     "igvR": [
@@ -2623,8 +2567,7 @@
     ],
     "IMMAN": [],
     "ImmuneSpaceR": [
-        "heatmaply",
-        "plotly"
+        "heatmaply"
     ],
     "immunotation": [],
     "INDEED": [
@@ -2632,8 +2575,7 @@
         "testthat"
     ],
     "infercnv": [
-        "Seurat",
-        "plotly"
+        "Seurat"
     ],
     "InPAS": [
         "BSgenome.Drerio.UCSC.danRer7",
@@ -2678,7 +2620,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "plotly",
         "rstatix",
         "testthat"
     ],
@@ -2717,7 +2658,6 @@
         "mixtools",
         "nloptr",
         "pbkrtest",
-        "plotly",
         "rstatix",
         "scater",
         "scran",
@@ -2768,7 +2708,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "plotly",
         "rstatix",
         "survminer",
         "testthat"
@@ -2842,7 +2781,6 @@
     ],
     "lipidr": [
         "MultiAssayExperiment",
-        "plotly",
         "ropls"
     ],
     "LiquidAssociation": [
@@ -2980,9 +2918,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "MatrixQCvis": [
-        "plotly"
-    ],
+    "MatrixQCvis": [],
     "MatrixRider": [
         "CNEr",
         "TFBSTools"
@@ -3085,8 +3021,7 @@
     ],
     "MetaboAnnotation": [
         "MultiAssayExperiment",
-        "QFeatures",
-        "plotly"
+        "QFeatures"
     ],
     "metabolomicsWorkbenchR": [
         "MultiAssayExperiment"
@@ -3140,8 +3075,7 @@
         "GenomicFeatures",
         "bsseq",
         "geneplotter",
-        "heatmaply",
-        "plotly"
+        "heatmaply"
     ],
     "metavizr": [
         "GenomicFeatures",
@@ -3152,9 +3086,7 @@
         "epivizrData",
         "epivizrStandalone"
     ],
-    "MetaVolcanoR": [
-        "plotly"
-    ],
+    "MetaVolcanoR": [],
     "MethCP": [
         "DSS",
         "bsseq",
@@ -3302,7 +3234,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "plotly",
         "testthat"
     ],
     "microbiomeMarker": [
@@ -3531,8 +3462,7 @@
         "QUBIC"
     ],
     "Motif2Site": [
-        "mixtools",
-        "plotly"
+        "mixtools"
     ],
     "motifbreakR": [
         "CNEr",
@@ -3566,8 +3496,7 @@
     ],
     "MsExperiment": [
         "MultiAssayExperiment",
-        "QFeatures",
-        "plotly"
+        "QFeatures"
     ],
     "msgbsR": [
         "GenomicFeatures",
@@ -3604,7 +3533,6 @@
         "QFeatures",
         "lme4",
         "nloptr",
-        "plotly",
         "testthat"
     ],
     "MSstats": [
@@ -3639,13 +3567,11 @@
         "testthat"
     ],
     "MSstatsQC": [
-        "ggExtra",
-        "plotly"
+        "ggExtra"
     ],
     "MSstatsQCgui": [
         "MSstatsQC",
-        "ggExtra",
-        "plotly"
+        "ggExtra"
     ],
     "MSstatsSampleSize": [
         "MSstats",
@@ -3678,7 +3604,6 @@
     "MultiAssayExperiment": [],
     "MultiBaC": [
         "MultiAssayExperiment",
-        "plotly",
         "ropls"
     ],
     "multiClust": [],
@@ -3710,7 +3635,6 @@
         "ggraph",
         "ggtree",
         "mixOmics",
-        "plotly",
         "rWikiPathways",
         "reactome.db",
         "recipes",
@@ -3759,7 +3683,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "plotly",
         "rstatix",
         "testthat"
     ],
@@ -3831,8 +3754,7 @@
         "plyranges"
     ],
     "Nebulosa": [
-        "Seurat",
-        "plotly"
+        "Seurat"
     ],
     "nempi": [
         "epiNEM"
@@ -3860,7 +3782,6 @@
         "RandomWalkRestartMH",
         "dnet",
         "gprofiler2",
-        "plotly",
         "supraHex"
     ],
     "NetSAM": [],
@@ -3885,9 +3806,7 @@
     "NeuCA": [
         "keras"
     ],
-    "ngsReports": [
-        "plotly"
-    ],
+    "ngsReports": [],
     "nnSVG": [
         "SpatialExperiment"
     ],
@@ -3921,8 +3840,7 @@
     ],
     "NxtIRFcore": [
         "ExperimentHub",
-        "NxtIRFdata",
-        "plotly"
+        "NxtIRFdata"
     ],
     "octad": [
         "DESeq2",
@@ -3933,8 +3851,7 @@
         "GenomicFeatures",
         "RUVSeq",
         "geneplotter",
-        "octad.db",
-        "plotly"
+        "octad.db"
     ],
     "ODER": [
         "GenomicFeatures",
@@ -4008,7 +3925,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "plotly",
         "rstatix",
         "survminer",
         "testthat"
@@ -4024,9 +3940,7 @@
         "pbkrtest",
         "testthat"
     ],
-    "oneSENSE": [
-        "plotly"
-    ],
+    "oneSENSE": [],
     "ontoProc": [],
     "openPrimeR": [],
     "openPrimeRui": [
@@ -4076,7 +3990,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "plotly",
         "rstatix",
         "testthat",
         "treeio"
@@ -4090,8 +4003,7 @@
         "DESeq2",
         "GenomicFeatures",
         "geneplotter",
-        "heatmaply",
-        "plotly"
+        "heatmaply"
     ],
     "PAA": [
         "sva"
@@ -4145,7 +4057,6 @@
         "DESeq2",
         "devtools",
         "geneplotter",
-        "plotly",
         "testthat"
     ],
     "pathview": [],
@@ -4157,7 +4068,6 @@
         "GSEABase",
         "geneplotter",
         "heatmaply",
-        "plotly",
         "topGO"
     ],
     "PDATK": [
@@ -4206,7 +4116,6 @@
         "MultiAssayExperiment",
         "biodb",
         "biodbChebi",
-        "plotly",
         "ropls",
         "testthat"
     ],
@@ -4270,7 +4179,6 @@
     ],
     "pipeComp": [
         "Seurat",
-        "plotly",
         "scater",
         "scran"
     ],
@@ -4363,7 +4271,6 @@
     ],
     "proFIA": [
         "MultiAssayExperiment",
-        "plotly",
         "ropls",
         "xcms"
     ],
@@ -4394,7 +4301,6 @@
         "MLInterfaces",
         "caret",
         "mixtools",
-        "plotly",
         "recipes"
     ],
     "pRolocGUI": [
@@ -4402,7 +4308,6 @@
         "caret",
         "mixtools",
         "pRoloc",
-        "plotly",
         "recipes"
     ],
     "PROMISE": [
@@ -4438,7 +4343,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "plotly",
         "rstatix",
         "testthat"
     ],
@@ -4454,8 +4358,7 @@
     ],
     "PSMatch": [
         "MultiAssayExperiment",
-        "QFeatures",
-        "plotly"
+        "QFeatures"
     ],
     "psygenet2r": [
         "BgeeDB",
@@ -4467,7 +4370,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "plotly",
         "rstatix",
         "testthat"
     ],
@@ -4493,8 +4395,7 @@
         "pwrEWAS.data"
     ],
     "QFeatures": [
-        "MultiAssayExperiment",
-        "plotly"
+        "MultiAssayExperiment"
     ],
     "qmtools": [
         "VIM",
@@ -4503,7 +4404,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "plotly",
         "testthat"
     ],
     "qpgraph": [
@@ -4575,8 +4475,7 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicFeatures",
         "genomation",
-        "gprofiler2",
-        "plotly"
+        "gprofiler2"
     ],
     "rCGH": [
         "GenomicFeatures",
@@ -4587,8 +4486,7 @@
     "RcisTarget": [
         "AUCell",
         "GSEABase",
-        "mixtools",
-        "plotly"
+        "mixtools"
     ],
     "RCM": [],
     "Rcpi": [
@@ -4740,8 +4638,7 @@
         "GenomicFeatures",
         "ORFik",
         "biomartr",
-        "geneplotter",
-        "plotly"
+        "geneplotter"
     ],
     "RiboDiPA": [
         "DESeq2",
@@ -4920,8 +4817,7 @@
         "minfi"
     ],
     "ropls": [
-        "MultiAssayExperiment",
-        "plotly"
+        "MultiAssayExperiment"
     ],
     "RPA": [],
     "rpx": [],
@@ -4938,7 +4834,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "plotly",
         "ropls",
         "testthat"
     ],
@@ -4968,7 +4863,6 @@
         "mixtools",
         "nloptr",
         "pbkrtest",
-        "plotly",
         "testthat",
         "viper"
     ],
@@ -4979,7 +4873,6 @@
         "mixtools",
         "nloptr",
         "pbkrtest",
-        "plotly",
         "testthat",
         "viper"
     ],
@@ -4991,7 +4884,6 @@
         "mixtools",
         "nloptr",
         "pbkrtest",
-        "plotly",
         "testthat",
         "viper"
     ],
@@ -5013,15 +4905,12 @@
     "sampleClassifier": [
         "MGFR"
     ],
-    "sangeranalyseR": [
-        "plotly"
-    ],
+    "sangeranalyseR": [],
     "SBGNview": [
         "pathview"
     ],
     "scAlign": [
-        "Seurat",
-        "plotly"
+        "Seurat"
     ],
     "SCAN.UPC": [
         "GEOquery",
@@ -5030,13 +4919,11 @@
     "scanMiRApp": [
         "GenomicFeatures",
         "ensembldb",
-        "plotly",
         "scanMiRData"
     ],
     "scAnnotatR": [
         "Seurat",
         "caret",
-        "plotly",
         "recipes"
     ],
     "SCANVIS": [],
@@ -5049,31 +4936,26 @@
         "DESeq2",
         "Seurat",
         "geneplotter",
-        "plotly",
         "zinbwave"
     ],
     "scBubbletree": [
         "Seurat",
         "ggtree",
-        "plotly",
         "treeio"
     ],
     "scCB2": [
-        "Seurat",
-        "plotly"
+        "Seurat"
     ],
     "scClassify": [
         "Cepo",
         "GSEABase",
         "ggraph",
         "mixtools",
-        "plotly",
         "tidygraph"
     ],
     "sccomp": [],
     "scDataviz": [
-        "Seurat",
-        "plotly"
+        "Seurat"
     ],
     "scDblFinder": [
         "scater",
@@ -5099,13 +4981,11 @@
         "recipes"
     ],
     "schex": [
-        "Seurat",
-        "plotly"
+        "Seurat"
     ],
     "scifer": [],
     "scMAGeCK": [
-        "Seurat",
-        "plotly"
+        "Seurat"
     ],
     "scMerge": [
         "M3Drop",
@@ -5122,8 +5002,7 @@
         "EDASeq",
         "GenomicFeatures",
         "RUVSeq",
-        "mixtools",
-        "plotly"
+        "mixtools"
     ],
     "Sconify": [],
     "SCOPE": [
@@ -5135,8 +5014,7 @@
     ],
     "scp": [
         "MultiAssayExperiment",
-        "QFeatures",
-        "plotly"
+        "QFeatures"
     ],
     "scPipe": [
         "scater",
@@ -5172,7 +5050,6 @@
         "ggtree",
         "heatmaply",
         "meshr",
-        "plotly",
         "reactome.db",
         "schex",
         "tidygraph",
@@ -5181,7 +5058,6 @@
     "scTGIF": [
         "GSEABase",
         "Seurat",
-        "plotly",
         "schex"
     ],
     "scTreeViz": [
@@ -5194,7 +5070,6 @@
         "epivizr",
         "epivizrData",
         "ggraph",
-        "plotly",
         "scater",
         "scran",
         "tidygraph"
@@ -5254,8 +5129,7 @@
         "GenomicFeatures",
         "bumphunter",
         "heatmaply",
-        "minfi",
-        "plotly"
+        "minfi"
     ],
     "shinyMethyl": [
         "GEOquery",
@@ -5360,7 +5234,6 @@
         "ensembldb",
         "geneplotter",
         "ggtree",
-        "plotly",
         "reldist",
         "scDblFinder",
         "scMerge",
@@ -5378,8 +5251,7 @@
         "VariantAnnotation"
     ],
     "singscore": [
-        "GSEABase",
-        "plotly"
+        "GSEABase"
     ],
     "SISPA": [
         "GSEABase",
@@ -5432,7 +5304,6 @@
     "soGGi": [],
     "sojourner": [
         "mixtools",
-        "plotly",
         "sampSurf"
     ],
     "SomaticSignatures": [
@@ -5445,13 +5316,11 @@
     ],
     "Spaniel": [
         "Seurat",
-        "plotly",
         "scater",
         "scran"
     ],
     "sparrow": [
-        "GSEABase",
-        "plotly"
+        "GSEABase"
     ],
     "SparseSignatures": [],
     "spaSim": [
@@ -5473,7 +5342,6 @@
         "SpatialExperiment"
     ],
     "spatialHeatmap": [
-        "plotly",
         "scater",
         "scran"
     ],
@@ -5491,8 +5359,7 @@
     "SpeCond": [],
     "SpectralTAD": [],
     "SPIAT": [
-        "SpatialExperiment",
-        "plotly"
+        "SpatialExperiment"
     ],
     "spicyR": [
         "SpatialExperiment",
@@ -5511,8 +5378,7 @@
     "SpliceWiz": [
         "ExperimentHub",
         "NxtIRFdata",
-        "heatmaply",
-        "plotly"
+        "heatmaply"
     ],
     "SplicingGraphs": [
         "GenomicFeatures"
@@ -5545,8 +5411,7 @@
     ],
     "SpotClean": [
         "Seurat",
-        "SpatialExperiment",
-        "plotly"
+        "SpatialExperiment"
     ],
     "SPsimSeq": [],
     "SRAdb": [
@@ -5605,8 +5470,7 @@
     "STdeconvolve": [],
     "stJoincount": [
         "Seurat",
-        "SpatialExperiment",
-        "plotly"
+        "SpatialExperiment"
     ],
     "strandCheckR": [
         "GenomicFeatures",
@@ -5668,7 +5532,6 @@
         "modelr",
         "nloptr",
         "pbkrtest",
-        "plotly",
         "testthat",
         "tidyverse"
     ],
@@ -5683,14 +5546,11 @@
         "testthat"
     ],
     "systemPipeR": [],
-    "systemPipeShiny": [
-        "plotly"
-    ],
+    "systemPipeShiny": [],
     "systemPipeTools": [
         "DESeq2",
         "geneplotter",
         "ggtree",
-        "plotly",
         "treeio"
     ],
     "TADCompare": [
@@ -5724,7 +5584,6 @@
         "GSEABase",
         "GSVA",
         "geneplotter",
-        "plotly",
         "singscore",
         "sva"
     ],
@@ -5756,7 +5615,6 @@
         "nloptr",
         "pathview",
         "pbkrtest",
-        "plotly",
         "recipes",
         "rstatix",
         "sesame",
@@ -5807,12 +5665,8 @@
         "GSEABase"
     ],
     "tidybulk": [],
-    "tidySingleCellExperiment": [
-        "plotly"
-    ],
-    "tidySummarizedExperiment": [
-        "plotly"
-    ],
+    "tidySingleCellExperiment": [],
+    "tidySummarizedExperiment": [],
     "tilingArray": [],
     "timeOmics": [
         "mixOmics",
@@ -5858,9 +5712,7 @@
         "testthat"
     ],
     "TOAST": [],
-    "tomoseqr": [
-        "plotly"
-    ],
+    "tomoseqr": [],
     "topdownr": [],
     "topGO": [],
     "ToxicoGx": [
@@ -5939,9 +5791,7 @@
     "trigger": [
         "sva"
     ],
-    "tripr": [
-        "plotly"
-    ],
+    "tripr": [],
     "tRNAdbImport": [],
     "tRNAscanImport": [],
     "TSCAN": [],
@@ -6056,14 +5906,12 @@
         "geneplotter"
     ],
     "viper": [
-        "mixtools",
-        "plotly"
+        "mixtools"
     ],
     "ViSEAGO": [
         "DiagrammeR",
         "GOSemSim",
         "heatmaply",
-        "plotly",
         "topGO"
     ],
     "vissE": [
@@ -6099,7 +5947,6 @@
         "ensembldb",
         "geneplotter",
         "mixtools",
-        "plotly",
         "regioneR",
         "systemPipeR",
         "viper"
@@ -6174,7 +6021,6 @@
     ],
     "zFPKM": [],
     "zinbwave": [],
-    "plotly": [],
     "ggpubr": [
         "car",
         "lme4",
@@ -6225,9 +6071,7 @@
         "recipes"
     ],
     "recipes": [],
-    "Seurat": [
-        "plotly"
-    ],
+    "Seurat": [],
     "BSgenome.Hsapiens.UCSC.hg19": [],
     "TxDb.Hsapiens.UCSC.hg19.knownGene": [
         "GenomicFeatures"
@@ -6285,9 +6129,7 @@
     "haven": [],
     "modelr": [],
     "reactome.db": [],
-    "mixtools": [
-        "plotly"
-    ],
+    "mixtools": [],
     "doBy": [
         "lme4",
         "nloptr",
@@ -6297,9 +6139,7 @@
     "pRolocdata": [],
     "BSgenome.Ecoli.NCBI.20080805": [],
     "ggExtra": [],
-    "heatmaply": [
-        "plotly"
-    ],
+    "heatmaply": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "GEOquery",
         "GenomicFeatures",
@@ -6311,7 +6151,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "plotly",
         "testthat"
     ],
     "DiagrammeR": [],
@@ -6447,7 +6286,6 @@
     ],
     "dorothea": [
         "mixtools",
-        "plotly",
         "viper"
     ],
     "crisprScoreData": [
@@ -6508,12 +6346,8 @@
         "ExperimentHub"
     ],
     "homologene": [],
-    "gprofiler2": [
-        "plotly"
-    ],
-    "gap": [
-        "plotly"
-    ],
+    "gprofiler2": [],
+    "gap": [],
     "geepack": [],
     "fda": [
         "fds"
@@ -6540,12 +6374,9 @@
         "mice"
     ],
     "shinyHeatmaply": [
-        "heatmaply",
-        "plotly"
+        "heatmaply"
     ],
-    "ggalt": [
-        "plotly"
-    ],
+    "ggalt": [],
     "gRain": [],
     "HiContactsData": [
         "ExperimentHub"
@@ -6747,8 +6578,7 @@
         "GSEABase"
     ],
     "SoupX": [
-        "Seurat",
-        "plotly"
+        "Seurat"
     ],
     "scRNAseq": [
         "ExperimentHub",
