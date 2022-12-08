@@ -628,7 +628,6 @@
         "clusterProfiler"
     ],
     "netZooR": [
-        "quantro",
         "yarn"
     ],
     "nondetects": [],
@@ -743,7 +742,6 @@
         "VIM",
         "car"
     ],
-    "quantro": [],
     "QuasR": [],
     "R3CPET": [],
     "ReactomePA": [],
@@ -967,9 +965,7 @@
     "YAPSA": [
         "SomaticSignatures"
     ],
-    "yarn": [
-        "quantro"
-    ],
+    "yarn": [],
     "zenith": [
         "variancePartition"
     ],
