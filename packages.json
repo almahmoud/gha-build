@@ -174,9 +174,7 @@
         "biomaRt",
         "geneplotter"
     ],
-    "apComplex": [
-        "org.Sc.sgd.db"
-    ],
+    "apComplex": [],
     "APL": [
         "Seurat",
         "plotly",
@@ -2475,8 +2473,7 @@
         "LiquidAssociation",
         "WGCNA",
         "broom",
-        "geepack",
-        "org.Sc.sgd.db"
+        "geepack"
     ],
     "FastqCleaner": [],
     "fCCAC": [
@@ -3632,8 +3629,7 @@
     ],
     "LiquidAssociation": [
         "broom",
-        "geepack",
-        "org.Sc.sgd.db"
+        "geepack"
     ],
     "lisaClust": [
         "DropletUtils",
@@ -6187,7 +6183,6 @@
         "gson",
         "lme4",
         "nloptr",
-        "org.Sc.sgd.db",
         "pathview",
         "pbkrtest",
         "rstatix",
@@ -7859,7 +7854,6 @@
         "recipes"
     ],
     "recipes": [],
-    "org.Sc.sgd.db": [],
     "Seurat": [
         "plotly"
     ],
