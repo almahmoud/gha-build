@@ -2797,7 +2797,6 @@
     "SigsPack": [
         "VariantAnnotation"
     ],
-    "SimBindProfiles": [],
     "simpleSeg": [
         "cytomapper"
     ],
