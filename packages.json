@@ -1195,7 +1195,6 @@
         "motifmatchr",
         "nloptr",
         "pbkrtest",
-        "pipeFrame",
         "rstatix",
         "testthat",
         "treeio"
@@ -1309,7 +1308,6 @@
         "ggraph",
         "ggtree",
         "motifmatchr",
-        "pipeFrame",
         "treeio"
     ],
     "escape": [
@@ -3027,7 +3025,6 @@
         "fda"
     ],
     "pipeComp": [],
-    "pipeFrame": [],
     "PloGO2": [
         "Category",
         "GOstats"
