@@ -18901,7 +18901,6 @@
     "logicFS": [
         "LogicReg"
     ],
-    "logitT": [],
     "LOLA": [
         "GenomicRanges",
         "XVector",
