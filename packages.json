@@ -119,7 +119,6 @@
         "Category",
         "GOstats"
     ],
-    "autonomics": [],
     "BaalChIP": [
         "doBy",
         "lme4",
