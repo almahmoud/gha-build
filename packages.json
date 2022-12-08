@@ -9823,7 +9823,6 @@
         "ggplot2",
         "tibble"
     ],
-    "fmrs": [],
     "fobitools": [
         "RSQLite",
         "RecordLinkage",
