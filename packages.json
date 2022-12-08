@@ -381,10 +381,7 @@
         "dorothea"
     ],
     "countsimQC": [],
-    "crisprDesign": [
-        "crisprScore"
-    ],
-    "crisprScore": [],
+    "crisprDesign": [],
     "crisprseekplus": [
         "ChIPpeakAnno",
         "GUIDEseq"
@@ -393,14 +390,12 @@
         "Gviz",
         "biovizBase",
         "crisprDesign",
-        "crisprScore",
         "crisprViz"
     ],
     "crisprViz": [
         "Gviz",
         "biovizBase",
-        "crisprDesign",
-        "crisprScore"
+        "crisprDesign"
     ],
     "cummeRbund": [
         "Gviz",
