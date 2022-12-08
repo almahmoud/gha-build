@@ -196,7 +196,6 @@
     ],
     "BgeeCall": [],
     "BgeeDB": [],
-    "BicARE": [],
     "bigmelon": [
         "FDb.InfiniumMethylation.hg19",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -2180,7 +2179,6 @@
         "GOstats"
     ],
     "miRSM": [
-        "BicARE",
         "DOSE",
         "ReactomePA",
         "SPONGE",
