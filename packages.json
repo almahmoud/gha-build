@@ -656,8 +656,7 @@
         "BiocFileCache",
         "GenomicFeatures",
         "biomaRt",
-        "rtracklayer",
-        "sjmisc"
+        "rtracklayer"
     ],
     "BgeeDB": [
         "GO.db",
@@ -11990,7 +11989,6 @@
     "corncob": [
         "phyloseq"
     ],
-    "sjmisc": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "BiocFileCache",
         "GEOquery",
