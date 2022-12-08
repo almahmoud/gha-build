@@ -456,10 +456,7 @@
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
         "IlluminaHumanMethylationEPICmanifest"
     ],
-    "epivizr": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "erma": [
         "GenomicFiles",
         "Homo.sapiens"
@@ -852,7 +849,6 @@
         "DSS"
     ],
     "metavizr": [
-        "epivizr",
         "epivizrStandalone"
     ],
     "MethCP": [
@@ -1405,9 +1401,7 @@
         "enrichplot"
     ],
     "scTGIF": [],
-    "scTreeViz": [
-        "epivizr"
-    ],
+    "scTreeViz": [],
     "segmenter": [
         "ChIPseeker",
         "enrichplot"
