@@ -390,9 +390,7 @@
     "BioNERO": [
         "sva"
     ],
-    "BioNetStat": [
-        "pathview"
-    ],
+    "BioNetStat": [],
     "biosigner": [
         "ropls"
     ],
@@ -1168,7 +1166,6 @@
         "ggraph",
         "ggtree",
         "heatmaply",
-        "pathview",
         "sva",
         "tidygraph",
         "treeio"
@@ -1444,7 +1441,6 @@
     "EGSEA": [
         "GSVA",
         "PADOG",
-        "pathview",
         "topGO"
     ],
     "ELMER": [
@@ -1474,9 +1470,7 @@
         "bumphunter",
         "minfi"
     ],
-    "EnrichmentBrowser": [
-        "pathview"
-    ],
+    "EnrichmentBrowser": [],
     "enrichplot": [
         "DOSE",
         "ggraph",
@@ -1894,7 +1888,6 @@
         "ggtree",
         "lme4",
         "nloptr",
-        "pathview",
         "pbkrtest",
         "rstatix",
         "survminer",
@@ -2148,8 +2141,7 @@
     ],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
-        "ExperimentHub",
-        "pathview"
+        "ExperimentHub"
     ],
     "gsean": [
         "PPInfer"
@@ -2610,7 +2602,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "pathview",
         "tidygraph",
         "treeio"
     ],
@@ -3655,7 +3646,6 @@
         "devtools",
         "testthat"
     ],
-    "pathview": [],
     "paxtoolsr": [],
     "pcaExplorer": [
         "Category",
@@ -4311,7 +4301,6 @@
         "ggtree",
         "lme4",
         "nloptr",
-        "pathview",
         "pbkrtest",
         "rstatix",
         "sva",
@@ -4424,9 +4413,7 @@
         "MGFR"
     ],
     "sangeranalyseR": [],
-    "SBGNview": [
-        "pathview"
-    ],
+    "SBGNview": [],
     "scAlign": [
         "Seurat"
     ],
@@ -5053,7 +5040,6 @@
         "ggtree",
         "lme4",
         "nloptr",
-        "pathview",
         "pbkrtest",
         "rstatix",
         "sesame",
@@ -5410,7 +5396,6 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "pathview",
         "pbkrtest",
         "testthat",
         "variancePartition"
