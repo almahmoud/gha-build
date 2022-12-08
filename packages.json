@@ -544,7 +544,6 @@
         "hardhat",
         "ipred",
         "lava",
-        "modeest",
         "plotROC",
         "plotly",
         "prodlim",
@@ -5161,7 +5160,6 @@
     "compcodeR": [
         "ggplot2",
         "knitr",
-        "modeest",
         "phylolm",
         "tibble"
     ],
@@ -16075,7 +16073,6 @@
         "MCMCpack",
         "dplyr",
         "ggplot2",
-        "modeest",
         "quantreg",
         "rematch2",
         "testthat",
@@ -30059,7 +30056,6 @@
     "GUniFrac": [
         "ggplot2",
         "ggrepel",
-        "modeest",
         "tibble"
     ],
     "recipes": [
@@ -30072,7 +30068,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "modeest": [],
     "hardhat": [
         "tibble"
     ],
