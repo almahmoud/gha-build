@@ -6381,7 +6381,6 @@
         "dplyr",
         "dqrng",
         "drc",
-        "flowCore",
         "futile.logger",
         "ggbeeswarm",
         "ggforce",
@@ -7288,7 +7287,6 @@
         "dplyr",
         "edgeR",
         "fitdistrplus",
-        "flowCore",
         "forcats",
         "furrr",
         "futile.logger",
@@ -9198,7 +9196,6 @@
         "IRanges",
         "SummarizedExperiment",
         "XVector",
-        "flowCore",
         "rhdf5"
     ],
     "cn.farms": [
@@ -10463,7 +10460,6 @@
         "contrast",
         "feature",
         "flowClust",
-        "flowCore",
         "flowMeans",
         "flowMerge",
         "ggplot2",
@@ -12047,7 +12043,6 @@
         "dplyr",
         "fields",
         "flowClust",
-        "flowCore",
         "flowDensity",
         "flowViz",
         "flowWorkspace",
@@ -12100,7 +12095,6 @@
         "SummarizedExperiment",
         "XVector",
         "bslib",
-        "flowCore",
         "futile.logger",
         "ggplot2",
         "httpuv",
@@ -12120,7 +12114,6 @@
         "RcppEigen",
         "doParallel",
         "dplyr",
-        "flowCore",
         "glmnet",
         "pillar",
         "survival",
@@ -12159,7 +12152,6 @@
         "e1071",
         "edgeR",
         "factoextra",
-        "flowCore",
         "futile.logger",
         "future",
         "future.apply",
@@ -12349,9 +12341,7 @@
         "vctrs",
         "viridis"
     ],
-    "cytoMEM": [
-        "flowCore"
-    ],
+    "cytoMEM": [],
     "CytoML": [
         "DelayedArray",
         "IRanges",
@@ -12360,7 +12350,6 @@
         "Rgraphviz",
         "dplyr",
         "flowClust",
-        "flowCore",
         "flowViz",
         "flowWorkspace",
         "ggcyto",
@@ -12825,7 +12814,6 @@
         "car",
         "dplyr",
         "fields",
-        "flowCore",
         "flowDensity",
         "flowViz",
         "flowWorkspace",
@@ -14234,7 +14222,6 @@
         "doParallel",
         "dplyr",
         "edgeR",
-        "flowCore",
         "ggforce",
         "ggnewscale",
         "ggplot2",
@@ -18547,7 +18534,6 @@
     ],
     "flowAI": [
         "bslib",
-        "flowCore",
         "ggplot2",
         "jquerylib",
         "knitr",
@@ -18563,7 +18549,6 @@
         "vctrs"
     ],
     "flowBeads": [
-        "flowCore",
         "knitr",
         "rrcov",
         "stringr",
@@ -18571,7 +18556,6 @@
     ],
     "flowBin": [
         "RcppEigen",
-        "flowCore",
         "flowFP",
         "flowViz",
         "interp",
@@ -18604,7 +18588,6 @@
     ],
     "flowCHIC": [
         "EBImage",
-        "flowCore",
         "ggplot2",
         "htmlwidgets",
         "mgcv",
@@ -18618,13 +18601,8 @@
         "Rgraphviz",
         "SPARQL"
     ],
-    "flowClean": [
-        "flowCore"
-    ],
-    "flowClust": [
-        "flowCore"
-    ],
-    "flowCore": [],
+    "flowClean": [],
+    "flowClust": [],
     "flowCut": [
         "DelayedArray",
         "GEOmap",
@@ -18640,7 +18618,6 @@
         "dplyr",
         "e1071",
         "fields",
-        "flowCore",
         "flowDensity",
         "flowViz",
         "flowWorkspace",
@@ -18688,7 +18665,6 @@
         "car",
         "dplyr",
         "fields",
-        "flowCore",
         "flowViz",
         "flowWorkspace",
         "ggplot2",
@@ -18719,7 +18695,6 @@
     ],
     "flowFP": [
         "RcppEigen",
-        "flowCore",
         "flowViz",
         "interp",
         "latticeExtra"
@@ -18748,12 +18723,9 @@
         "stringr",
         "vctrs"
     ],
-    "flowMatch": [
-        "flowCore"
-    ],
+    "flowMatch": [],
     "flowMeans": [
         "feature",
-        "flowCore",
         "ks",
         "mgcv",
         "rrcov"
@@ -18762,7 +18734,6 @@
         "Rgraphviz",
         "feature",
         "flowClust",
-        "flowCore",
         "ks",
         "mgcv",
         "rrcov"
@@ -18775,7 +18746,6 @@
         "callr",
         "car",
         "dplyr",
-        "flowCore",
         "ggplot2",
         "httpuv",
         "jquerylib",
@@ -18812,7 +18782,6 @@
         "car",
         "cowplot",
         "dplyr",
-        "flowCore",
         "ggforce",
         "ggnewscale",
         "ggplot2",
@@ -18844,7 +18813,6 @@
     ],
     "flowSpecs": [
         "BiocParallel",
-        "flowCore",
         "futile.logger",
         "ggplot2",
         "mgcv",
@@ -18864,7 +18832,6 @@
         "dplyr",
         "fda",
         "fds",
-        "flowCore",
         "flowViz",
         "flowWorkspace",
         "ggplot2",
@@ -18884,7 +18851,6 @@
     ],
     "flowTime": [
         "dplyr",
-        "flowCore",
         "pillar",
         "tibble",
         "tidyselect",
@@ -18893,14 +18859,12 @@
     "flowTrans": [
         "RcppEigen",
         "flowClust",
-        "flowCore",
         "flowViz",
         "interp",
         "latticeExtra"
     ],
     "flowViz": [
         "RcppEigen",
-        "flowCore",
         "interp",
         "latticeExtra"
     ],
@@ -18913,7 +18877,6 @@
         "dplyr",
         "fda",
         "fds",
-        "flowCore",
         "flowStats",
         "flowViz",
         "flowWorkspace",
@@ -18938,7 +18901,6 @@
         "RBGL",
         "Rgraphviz",
         "dplyr",
-        "flowCore",
         "ggplot2",
         "mgcv",
         "ncdfFlow",
@@ -19502,7 +19464,6 @@
     ],
     "GateFinder": [
         "RcppEigen",
-        "flowCore",
         "flowFP",
         "flowViz",
         "interp",
@@ -21229,7 +21190,6 @@
         "RBGL",
         "Rgraphviz",
         "dplyr",
-        "flowCore",
         "flowWorkspace",
         "ggplot2",
         "mgcv",
@@ -24492,7 +24452,6 @@
         "dendextend",
         "dplyr",
         "egg",
-        "flowCore",
         "flowWorkspace",
         "ggplot2",
         "heatmaply",
@@ -24521,9 +24480,7 @@
         "viridis",
         "webshot"
     ],
-    "immunoClust": [
-        "flowCore"
-    ],
+    "immunoClust": [],
     "immunotation": [
         "dplyr",
         "ggplot2",
@@ -24654,7 +24611,6 @@
     ],
     "infinityFlow": [
         "dqrng",
-        "flowCore",
         "raster",
         "uwot",
         "xgboost"
@@ -28905,7 +28861,6 @@
         "car",
         "cowplot",
         "dplyr",
-        "flowCore",
         "ggforce",
         "ggnewscale",
         "ggplot2",
@@ -34725,9 +34680,7 @@
         "vctrs",
         "waldo"
     ],
-    "ncdfFlow": [
-        "flowCore"
-    ],
+    "ncdfFlow": [],
     "ncGTW": [
         "BiocParallel",
         "DelayedArray",
@@ -36574,7 +36527,6 @@
         "bslib",
         "callr",
         "dplyr",
-        "flowCore",
         "ggplot2",
         "htmlwidgets",
         "httpuv",
@@ -36645,7 +36597,6 @@
         "Rgraphviz",
         "dplyr",
         "flowClust",
-        "flowCore",
         "flowViz",
         "flowWorkspace",
         "ggplot2",
@@ -36892,7 +36843,6 @@
         "doParallel",
         "dplyr",
         "feature",
-        "flowCore",
         "flowMeans",
         "htmlwidgets",
         "knitr",
@@ -37979,7 +37929,6 @@
         "Rgraphviz",
         "doParallel",
         "dplyr",
-        "flowCore",
         "flowWorkspace",
         "ggplot2",
         "mgcv",
@@ -46519,7 +46468,6 @@
         "dplyr",
         "dqrng",
         "fitdistrplus",
-        "flowCore",
         "future",
         "future.apply",
         "ggplot2",
@@ -46871,7 +46819,6 @@
         "bslib",
         "callr",
         "dplyr",
-        "flowCore",
         "ggplot2",
         "httpuv",
         "httr",
@@ -47192,7 +47139,6 @@
     ],
     "Sconify": [
         "dplyr",
-        "flowCore",
         "ggplot2",
         "hms",
         "mgcv",
@@ -54987,7 +54933,6 @@
         "doParallel",
         "dplyr",
         "edgeR",
-        "flowCore",
         "ggforce",
         "ggfun",
         "ggiraph",
