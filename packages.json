@@ -6,7 +6,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "adductomicsR": [],
     "affycoretools": [
         "GOstats",
         "Glimma",
