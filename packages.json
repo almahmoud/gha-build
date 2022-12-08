@@ -9343,7 +9343,6 @@
     ],
     "cogena": [
         "apcluster",
-        "biwt",
         "bslib",
         "callr",
         "credentials",
@@ -13856,7 +13855,6 @@
     ],
     "DirichletMultinomial": [],
     "discordant": [
-        "biwt",
         "dplyr",
         "pillar",
         "tibble",
@@ -58845,7 +58843,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "biwt": [],
     "skmeans": [],
     "eulerr": [],
     "cobs": [
