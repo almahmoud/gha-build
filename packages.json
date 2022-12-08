@@ -24046,7 +24046,6 @@
         "blob",
         "broom",
         "car",
-        "crmn",
         "dplyr",
         "genefilter",
         "ggplot2",
@@ -46325,7 +46324,6 @@
         "tibble",
         "vctrs"
     ],
-    "crmn": [],
     "anyLib": [
         "bslib",
         "devtools",
