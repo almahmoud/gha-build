@@ -2935,8 +2935,7 @@
         "triebeard",
         "urltools",
         "vctrs",
-        "withr",
-        "zip"
+        "withr"
     ],
     "aroma.light": [
         "R.oo",
@@ -3321,8 +3320,7 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "withr",
-        "zip"
+        "withr"
     ],
     "ASGSCA": [
         "Matrix"
@@ -7243,8 +7241,7 @@
         "usethis",
         "vctrs",
         "whisker",
-        "withr",
-        "zip"
+        "withr"
     ],
     "biocViews": [
         "BH",
@@ -7286,8 +7283,7 @@
         "usethis",
         "vctrs",
         "whisker",
-        "withr",
-        "zip"
+        "withr"
     ],
     "biodb": [
         "BiocFileCache",
@@ -10031,8 +10027,7 @@
         "waldo",
         "whisker",
         "withr",
-        "xopen",
-        "zip"
+        "xopen"
     ],
     "bumphunter": [
         "AnnotationDbi",
@@ -11323,8 +11318,7 @@
         "tzdb",
         "vctrs",
         "vroom",
-        "withr",
-        "zip"
+        "withr"
     ],
     "CBEA": [
         "AnnotationDbi",
@@ -14777,8 +14771,7 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "withr",
-        "zip"
+        "withr"
     ],
     "cicero": [
         "AnnotationDbi",
@@ -16517,8 +16510,7 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "withr",
-        "zip"
+        "withr"
     ],
     "CNVRanger": [
         "BH",
@@ -16958,8 +16950,7 @@
         "waldo",
         "whisker",
         "withr",
-        "xopen",
-        "zip"
+        "xopen"
     ],
     "cogeqc": [
         "Biostrings",
@@ -17803,8 +17794,7 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "withr",
-        "zip"
+        "withr"
     ],
     "conclus": [
         "AnnotationDbi",
@@ -19838,8 +19828,7 @@
         "viridisLite",
         "vroom",
         "whisker",
-        "withr",
-        "zip"
+        "withr"
     ],
     "CrispRVariants": [
         "AnnotationDbi",
@@ -22045,8 +22034,7 @@
         "vroom",
         "waldo",
         "whisker",
-        "withr",
-        "zip"
+        "withr"
     ],
     "dcanr": [
         "Matrix",
@@ -22315,8 +22303,7 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "withr",
-        "zip"
+        "withr"
     ],
     "dearseq": [
         "CompQuadForm",
@@ -25326,8 +25313,7 @@
         "viridis",
         "viridisLite",
         "webshot",
-        "withr",
-        "zip"
+        "withr"
     ],
     "distinct": [
         "BH",
@@ -31535,8 +31521,7 @@
         "tidyselect",
         "vctrs",
         "viridisLite",
-        "withr",
-        "zip"
+        "withr"
     ],
     "FELLA": [
         "Biostrings",
@@ -33737,8 +33722,7 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "withr",
-        "zip"
+        "withr"
     ],
     "gaga": [
         "Biobase",
@@ -34176,8 +34160,7 @@
         "waldo",
         "whisker",
         "withr",
-        "xopen",
-        "zip"
+        "xopen"
     ],
     "GDCRNATools": [
         "AnnotationDbi",
@@ -36085,8 +36068,7 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "withr",
-        "zip"
+        "withr"
     ],
     "GenomicTuples": [
         "GenomeInfoDb",
@@ -38706,7 +38688,6 @@
         "viridisLite",
         "withr",
         "wk",
-        "zip",
         "zoo"
     ],
     "graper": [
@@ -39525,8 +39506,7 @@
         "viridisLite",
         "vroom",
         "whisker",
-        "withr",
-        "zip"
+        "withr"
     ],
     "Guitar": [
         "AnnotationDbi",
@@ -41143,8 +41123,7 @@
         "tidyselect",
         "vctrs",
         "viridisLite",
-        "withr",
-        "zip"
+        "withr"
     ],
     "HPAStainR": [
         "Rcpp",
@@ -41404,8 +41383,7 @@
         "usethis",
         "vctrs",
         "whisker",
-        "withr",
-        "zip"
+        "withr"
     ],
     "HumanTranscriptomeCompendium": [
         "Biobase",
@@ -41524,8 +41502,7 @@
         "viridisLite",
         "visNetwork",
         "webshot",
-        "withr",
-        "zip"
+        "withr"
     ],
     "hyperdraw": [
         "Rgraphviz",
@@ -42857,8 +42834,7 @@
         "waldo",
         "whisker",
         "withr",
-        "xopen",
-        "zip"
+        "xopen"
     ],
     "infercnv": [
         "BH",
@@ -43657,8 +43633,7 @@
         "waldo",
         "whisker",
         "withr",
-        "wordcloud2",
-        "zip"
+        "wordcloud2"
     ],
     "IntEREst": [
         "AnnotationDbi",
@@ -44322,8 +44297,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "writexl",
-        "zip"
+        "writexl"
     ],
     "iSEE": [
         "BH",
@@ -46147,8 +46121,7 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "withr",
-        "zip"
+        "withr"
     ],
     "Linnorm": [
         "Matrix",
@@ -49573,8 +49546,7 @@
         "vroom",
         "waldo",
         "whisker",
-        "withr",
-        "zip"
+        "withr"
     ],
     "MEIGOR": [
         "BH",
@@ -49736,8 +49708,7 @@
         "vroom",
         "waldo",
         "whisker",
-        "withr",
-        "zip"
+        "withr"
     ],
     "MeSHDbi": [
         "AnnotationDbi",
@@ -51891,7 +51862,6 @@
         "withr",
         "xopen",
         "xts",
-        "zip",
         "zoo"
     ],
     "methylGSA": [
@@ -52591,8 +52561,7 @@
         "waldo",
         "whisker",
         "withr",
-        "xopen",
-        "zip"
+        "xopen"
     ],
     "MetNet": [
         "BH",
@@ -53554,8 +53523,7 @@
         "viridis",
         "viridisLite",
         "whisker",
-        "withr",
-        "zip"
+        "withr"
     ],
     "MicrobiotaProcess": [
         "Biobase",
@@ -59070,7 +59038,6 @@
         "whisker",
         "withr",
         "xopen",
-        "zip",
         "zoo"
     ],
     "multtest": [
@@ -60266,8 +60233,7 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "withr",
-        "zip"
+        "withr"
     ],
     "NanoTube": [
         "BH",
@@ -62545,8 +62511,7 @@
         "vroom",
         "waldo",
         "whisker",
-        "withr",
-        "zip"
+        "withr"
     ],
     "odseq": [
         "Biostrings",
@@ -63387,7 +63352,6 @@
         "viridisLite",
         "waldo",
         "withr",
-        "zip",
         "zoo"
     ],
     "Omixer": [
@@ -63843,8 +63807,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "zip"
+        "withr"
     ],
     "openPrimeRui": [
         "Biostrings",
@@ -63926,8 +63889,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "zip"
+        "withr"
     ],
     "OpenStats": [
         "AICcmodavg",
@@ -64173,8 +64135,7 @@
         "waldo",
         "whisker",
         "withr",
-        "xopen",
-        "zip"
+        "xopen"
     ],
     "optimalFlow": [
         "BH",
@@ -65579,8 +65540,7 @@
         "webshot",
         "whisker",
         "withr",
-        "xopen",
-        "zip"
+        "xopen"
     ],
     "pathRender": [
         "AnnotationDbi",
@@ -66626,8 +66586,7 @@
         "viridisLite",
         "vroom",
         "webutils",
-        "withr",
-        "zip"
+        "withr"
     ],
     "PharmacoGx": [
         "BH",
@@ -67554,8 +67513,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "zip"
+        "withr"
     ],
     "PING": [
         "AnnotationDbi",
@@ -67939,8 +67897,7 @@
         "rlang",
         "stringi",
         "survival",
-        "vctrs",
-        "zip"
+        "vctrs"
     ],
     "plotgardener": [
         "BH",
@@ -76252,8 +76209,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "zip"
+        "withr"
     ],
     "Risa": [
         "BH",
@@ -76800,8 +76756,7 @@
         "waldo",
         "whisker",
         "withr",
-        "xopen",
-        "zip"
+        "xopen"
     ],
     "rmspc": [
         "BH",
@@ -79572,8 +79527,7 @@
         "tinytex",
         "vctrs",
         "viridisLite",
-        "withr",
-        "zip"
+        "withr"
     ],
     "sangerseqR": [
         "Biostrings",
@@ -84344,8 +84298,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "zip"
+        "withr"
     ],
     "sevenbridges": [
         "S4Vectors",
@@ -84596,8 +84549,7 @@
         "viridisLite",
         "vroom",
         "webshot",
-        "withr",
-        "zip"
+        "withr"
     ],
     "shinyMethyl": [
         "AnnotationDbi",
@@ -84933,8 +84885,7 @@
         "rlang",
         "scales",
         "stringi",
-        "viridisLite",
-        "zip"
+        "viridisLite"
     ],
     "SigFuge": [
         "GenomeInfoDb",
@@ -89720,8 +89671,7 @@
         "waldo",
         "whisker",
         "withr",
-        "xopen",
-        "zip"
+        "xopen"
     ],
     "sscore": [
         "Biobase",
@@ -91525,8 +91475,7 @@
         "futile.logger",
         "lambda.r",
         "openxlsx",
-        "stringi",
-        "zip"
+        "stringi"
     ],
     "swfdr": [],
     "switchBox": [
@@ -92482,8 +92431,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "zip"
+        "withr"
     ],
     "TBSignatureProfiler": [
         "ASSIGN",
@@ -94850,8 +94798,7 @@
         "tinytex",
         "vctrs",
         "viridisLite",
-        "withr",
-        "zip"
+        "withr"
     ],
     "TPP2D": [
         "BH",
@@ -94884,8 +94831,7 @@
         "tidyselect",
         "vctrs",
         "viridisLite",
-        "withr",
-        "zip"
+        "withr"
     ],
     "tracktables": [
         "BH",
@@ -96151,8 +96097,7 @@
         "vctrs",
         "viridisLite",
         "whisker",
-        "withr",
-        "zip"
+        "withr"
     ],
     "tRNA": [
         "Biostrings",
@@ -96999,8 +96944,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "zip"
+        "withr"
     ],
     "UNDO": [
         "Biobase",
@@ -99216,8 +99160,7 @@
         "vctrs",
         "viridisLite",
         "whisker",
-        "withr",
-        "zip"
+        "withr"
     ],
     "wppi": [
         "Matrix",
@@ -103051,10 +102994,8 @@
     ],
     "openxlsx": [
         "Rcpp",
-        "stringi",
-        "zip"
+        "stringi"
     ],
-    "zip": [],
     "crul": [
         "Rcpp",
         "triebeard",
@@ -105006,14 +104947,12 @@
         "purrr",
         "rlang",
         "whisker",
-        "withr",
-        "zip"
+        "withr"
     ],
     "gert": [
         "askpass",
         "credentials",
-        "openssl",
-        "zip"
+        "openssl"
     ],
     "credentials": [
         "askpass",
@@ -105960,8 +105899,7 @@
         "waldo",
         "whisker",
         "withr",
-        "xopen",
-        "zip"
+        "xopen"
     ],
     "pkgdown": [
         "askpass",
@@ -107964,8 +107902,7 @@
         "tzdb",
         "vctrs",
         "vroom",
-        "withr",
-        "zip"
+        "withr"
     ],
     "factoextra": [
         "DT",
@@ -109094,8 +109031,7 @@
         "vctrs",
         "waldo",
         "whisker",
-        "withr",
-        "zip"
+        "withr"
     ],
     "metap": [
         "Biobase",
@@ -110552,12 +110488,9 @@
         "stringr",
         "systemfonts",
         "tinytex",
-        "vctrs",
-        "zip"
+        "vctrs"
     ],
-    "officer": [
-        "zip"
-    ],
+    "officer": [],
     "gdtools": [
         "Rcpp",
         "systemfonts"
@@ -110862,7 +110795,6 @@
         "units",
         "vctrs",
         "wk",
-        "zip",
         "zoo"
     ],
     "dtangle": [],
@@ -111247,8 +111179,7 @@
         "usethis",
         "vctrs",
         "whisker",
-        "withr",
-        "zip"
+        "withr"
     ],
     "shinyalert": [
         "Rcpp",
@@ -111369,8 +111300,7 @@
         "vctrs",
         "vroom",
         "withr",
-        "writexl",
-        "zip"
+        "writexl"
     ],
     "phosphoricons": [
         "digest",
@@ -113213,8 +113143,7 @@
         "waldo",
         "whisker",
         "withr",
-        "xopen",
-        "zip"
+        "xopen"
     ],
     "googleAuthR": [
         "askpass",
@@ -114098,8 +114027,7 @@
         "stringi",
         "stringr",
         "vctrs",
-        "webutils",
-        "zip"
+        "webutils"
     ],
     "webutils": [],
     "magicaxis": [
@@ -116985,8 +116913,7 @@
         "tinytex",
         "vctrs",
         "viridisLite",
-        "withr",
-        "zip"
+        "withr"
     ],
     "shinyTree": [
         "Rcpp",
