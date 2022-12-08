@@ -1196,7 +1196,6 @@
     ],
     "clustifyr": [],
     "cn.farms": [],
-    "cn.mops": [],
     "CNEr": [],
     "CNORfuzzy": [
         "nloptr",
@@ -1212,7 +1211,6 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "cn.mops",
         "ensembldb",
         "karyoploteR",
         "regioneR"
@@ -1224,7 +1222,6 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "cn.mops",
         "ensembldb",
         "karyoploteR",
         "plotly",
@@ -1403,7 +1400,6 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "cn.mops",
         "ensembldb",
         "karyoploteR",
         "regioneR"
@@ -5207,9 +5203,7 @@
         "nloptr",
         "testthat"
     ],
-    "panelcn.mops": [
-        "cn.mops"
-    ],
+    "panelcn.mops": [],
     "PanomiR": [
         "DOSE",
         "GOSemSim",
