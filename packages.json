@@ -130,8 +130,7 @@
         "biomaRt"
     ],
     "AlpsNMR": [
-        "mixOmics",
-        "speaq"
+        "mixOmics"
     ],
     "AMARETTO": [
         "AnnotationHub",
@@ -9892,7 +9891,6 @@
     "PFAM.db": [],
     "GGally": [],
     "ggrastr": [],
-    "speaq": [],
     "curatedTCGAData": [
         "AnnotationHub",
         "BiocFileCache",
