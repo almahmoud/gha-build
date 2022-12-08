@@ -193,7 +193,6 @@
         "nloptr"
     ],
     "BgeeCall": [],
-    "BgeeDB": [],
     "bigmelon": [
         "FDb.InfiniumMethylation.hg19",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -2834,9 +2833,7 @@
     "PSMatch": [
         "QFeatures"
     ],
-    "psygenet2r": [
-        "BgeeDB"
-    ],
+    "psygenet2r": [],
     "ptairMS": [
         "car",
         "ggpubr",
@@ -3037,7 +3034,6 @@
     ],
     "Risa": [],
     "RITAN": [
-        "BgeeDB",
         "EnsDb.Hsapiens.v86",
         "ensembldb"
     ],
