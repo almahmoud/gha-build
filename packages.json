@@ -727,7 +727,6 @@
         "lme4",
         "pbkrtest"
     ],
-    "debCAM": [],
     "debrowser": [
         "DESeq2",
         "DOSE",
