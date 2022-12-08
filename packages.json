@@ -6061,7 +6061,6 @@
         "GO.db",
         "GSEABase",
         "KEGGREST",
-        "SPIA",
         "SummarizedExperiment",
         "annotate",
         "dbplyr",
@@ -8622,7 +8621,6 @@
         "GO.db",
         "GSEABase",
         "KEGGREST",
-        "SPIA",
         "SummarizedExperiment",
         "annotate",
         "dbplyr",
@@ -19447,7 +19445,6 @@
         "dplyr",
         "ggplot2"
     ],
-    "SPIA": [],
     "SPIAT": [
         "BiocFileCache",
         "DropletUtils",
@@ -21949,7 +21946,6 @@
         "GO.db",
         "GSEABase",
         "KEGGREST",
-        "SPIA",
         "SummarizedExperiment",
         "annotate",
         "babelgene",
