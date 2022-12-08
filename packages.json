@@ -694,7 +694,6 @@
     "AnVILBilling": [
         "bigrquery",
         "dplyr",
-        "gargle",
         "ggplot2",
         "plotly",
         "progress",
@@ -1097,7 +1096,6 @@
         "dtplyr",
         "fgsea",
         "forcats",
-        "gargle",
         "ggalluvial",
         "ggplot2",
         "googledrive",
@@ -2027,7 +2025,6 @@
         "curatedTCGAData",
         "dbplyr",
         "dplyr",
-        "gargle",
         "ggplot2",
         "ggpubr",
         "ggrepel",
@@ -6505,7 +6502,6 @@
         "dtplyr",
         "epiNEM",
         "forcats",
-        "gargle",
         "ggdendro",
         "ggforce",
         "ggplot2",
@@ -14254,7 +14250,6 @@
         "dplyr",
         "dtplyr",
         "forcats",
-        "gargle",
         "ggplot2",
         "googledrive",
         "googlesheets4",
@@ -15422,7 +15417,6 @@
         "dplyr",
         "dtplyr",
         "forcats",
-        "gargle",
         "genefilter",
         "ggplot2",
         "ggpmisc",
@@ -16325,7 +16319,6 @@
         "enrichplot",
         "fgsea",
         "forcats",
-        "gargle",
         "ggforce",
         "ggfun",
         "ggnewscale",
@@ -16424,7 +16417,6 @@
         "enrichplot",
         "fgsea",
         "forcats",
-        "gargle",
         "ggforce",
         "ggfun",
         "ggnewscale",
@@ -17287,7 +17279,6 @@
         "dtplyr",
         "factoextra",
         "forcats",
-        "gargle",
         "ggplot2",
         "ggpubr",
         "ggrepel",
@@ -17682,7 +17673,6 @@
         "biomaRt",
         "dbplyr",
         "dplyr",
-        "gargle",
         "googleAuthR",
         "progress",
         "rtracklayer",
@@ -18022,7 +18012,6 @@
         "dplyr",
         "dtplyr",
         "forcats",
-        "gargle",
         "ggplot2",
         "googledrive",
         "googlesheets4",
@@ -22343,7 +22332,6 @@
         "bigrquery",
         "dbplyr",
         "dplyr",
-        "gargle",
         "interactiveDisplayBase",
         "progress",
         "reshape2",
@@ -26492,7 +26480,6 @@
         "dplyr",
         "dtplyr",
         "forcats",
-        "gargle",
         "ggplot2",
         "ggpubr",
         "ggrepel",
@@ -26847,7 +26834,6 @@
         "dplyr",
         "dtplyr",
         "forcats",
-        "gargle",
         "ggplot2",
         "googledrive",
         "googlesheets4",
@@ -27231,7 +27217,6 @@
         "fields",
         "forcats",
         "furrr",
-        "gargle",
         "ggforce",
         "ggplot2",
         "ggrepel",
@@ -27745,7 +27730,6 @@
         "bigrquery",
         "dbplyr",
         "dplyr",
-        "gargle",
         "interactiveDisplayBase",
         "ontoProc",
         "org.Mm.eg.db",
@@ -30122,14 +30106,12 @@
         "shiny"
     ],
     "bigrquery": [
-        "gargle",
         "progress",
         "tibble"
     ],
     "shinytoastr": [
         "shiny"
     ],
-    "gargle": [],
     "repmis": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi",
@@ -30432,7 +30414,6 @@
         "dplyr",
         "dtplyr",
         "forcats",
-        "gargle",
         "ggplot2",
         "googledrive",
         "googlesheets4",
@@ -30545,12 +30526,10 @@
         "tidyselect"
     ],
     "googledrive": [
-        "gargle",
         "tibble"
     ],
     "googlesheets4": [
         "cellranger",
-        "gargle",
         "googledrive",
         "rematch2",
         "tibble"
@@ -32782,9 +32761,7 @@
         "usethis",
         "waldo"
     ],
-    "googleAuthR": [
-        "gargle"
-    ],
+    "googleAuthR": [],
     "blme": [
         "lme4",
         "nloptr",
