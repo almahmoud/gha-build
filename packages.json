@@ -10275,7 +10275,6 @@
         "plotly",
         "tidyr"
     ],
-    "scPCA": [],
     "scPipe": [
         "BiocFileCache",
         "GGally",
