@@ -2120,7 +2120,6 @@
         "klaR",
         "questionr"
     ],
-    "OmaDB": [],
     "omicRexposome": [
         "FactoMineR",
         "SmartSVA",
@@ -2257,9 +2256,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "PhyloProfile": [
-        "OmaDB"
-    ],
+    "PhyloProfile": [],
     "Pi": [
         "caret"
     ],
