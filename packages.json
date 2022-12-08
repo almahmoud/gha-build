@@ -316,7 +316,6 @@
         "textstem",
         "ttgsea"
     ],
-    "deepSNV": [],
     "DeMixT": [
         "DSS"
     ],
@@ -891,9 +890,7 @@
         "IlluminaHumanMethylationEPICmanifest",
         "methylumi"
     ],
-    "mitoClone2": [
-        "deepSNV"
-    ],
+    "mitoClone2": [],
     "MLSeq": [],
     "MMUPHin": [
         "Maaslin2",
