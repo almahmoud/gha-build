@@ -63,9 +63,7 @@
     "alpine": [
         "GenomicFeatures"
     ],
-    "AlpsNMR": [
-        "mixOmics"
-    ],
+    "AlpsNMR": [],
     "AMARETTO": [
         "ExperimentHub",
         "curatedTCGAData"
@@ -1229,9 +1227,7 @@
         "sva"
     ],
     "DEP": [],
-    "DepecheR": [
-        "mixOmics"
-    ],
+    "DepecheR": [],
     "derfinder": [
         "GenomicFeatures",
         "GenomicFiles",
@@ -3093,7 +3089,6 @@
         "VariantAnnotation",
         "deepSNV"
     ],
-    "mixOmics": [],
     "MLInterfaces": [],
     "MLSeq": [
         "DESeq2",
@@ -3292,7 +3287,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "mixOmics",
         "ropls",
         "testthat",
         "tidygraph",
@@ -3809,8 +3803,7 @@
     ],
     "POMA": [
         "DESeq2",
-        "caret",
-        "mixOmics"
+        "caret"
     ],
     "PoTRA": [],
     "POWSC": [],
@@ -5122,7 +5115,6 @@
     "tidySummarizedExperiment": [],
     "tilingArray": [],
     "timeOmics": [
-        "mixOmics",
         "propr"
     ],
     "TimiRGeN": [
