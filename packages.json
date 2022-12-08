@@ -3466,7 +3466,6 @@
         "tidyr",
         "viridis"
     ],
-    "DEqMS": [],
     "derfinder": [
         "BSgenome",
         "BiocFileCache",
