@@ -641,9 +641,7 @@
         "caret",
         "distinct"
     ],
-    "CONFESS": [
-        "contrast"
-    ],
+    "CONFESS": [],
     "consensusDE": [
         "DESeq2",
         "EDASeq",
@@ -3980,7 +3978,6 @@
     "Ecume": [
         "caret"
     ],
-    "contrast": [],
     "EnsDb.Hsapiens.v86": [
         "ensembldb"
     ],
