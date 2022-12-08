@@ -1624,9 +1624,7 @@
         "annotate"
     ],
     "BiFET": [],
-    "BiGGR": [
-        "hyperdraw"
-    ],
+    "BiGGR": [],
     "bigmelon": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -11263,7 +11261,6 @@
         "shiny",
         "tibble"
     ],
-    "hyperdraw": [],
     "iasva": [
         "SummarizedExperiment"
     ],
