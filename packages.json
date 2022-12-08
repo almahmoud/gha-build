@@ -2098,7 +2098,6 @@
     "distinct": [
         "scater"
     ],
-    "dittoSeq": [],
     "DMCFB": [
         "arm",
         "lme4",
@@ -7666,7 +7665,6 @@
     "SPIAT": [
         "DropletUtils",
         "SpatialExperiment",
-        "dittoSeq",
         "plotly",
         "xROI"
     ],
