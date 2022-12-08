@@ -530,7 +530,6 @@
     ],
     "BLMA": [
         "PADOG",
-        "hgu133a.db",
         "hgu133plus2.db"
     ],
     "BloodGen3Module": [
@@ -646,7 +645,6 @@
         "Category",
         "GSEABase",
         "genefilter",
-        "hgu133a.db",
         "phenoTest"
     ],
     "CancerInSilico": [],
@@ -1648,7 +1646,6 @@
     "DrugVsDisease": [
         "ArrayExpress",
         "GEOquery",
-        "hgu133a.db",
         "hgu133plus2.db"
     ],
     "DSS": [
@@ -1728,7 +1725,6 @@
         "PADOG",
         "gage",
         "globaltest",
-        "hgu133a.db",
         "hgu133plus2.db",
         "pathview",
         "plotly",
@@ -2907,9 +2903,7 @@
         "VariantAnnotation",
         "plyranges"
     ],
-    "KEGGlincs": [
-        "hgu133a.db"
-    ],
+    "KEGGlincs": [],
     "keggorthology": [
         "hgu95av2.db"
     ],
@@ -4271,7 +4265,6 @@
         "testthat"
     ],
     "PADOG": [
-        "hgu133a.db",
         "hgu133plus2.db"
     ],
     "pageRank": [
@@ -4382,8 +4375,7 @@
     "phenoTest": [
         "Category",
         "GSEABase",
-        "genefilter",
-        "hgu133a.db"
+        "genefilter"
     ],
     "PhenStat": [
         "car",
@@ -6578,7 +6570,6 @@
         "geneplotter"
     ],
     "hgu133plus2.db": [],
-    "hgu133a.db": [],
     "GenomicState": [
         "GenomicFeatures",
         "GenomicFiles",
