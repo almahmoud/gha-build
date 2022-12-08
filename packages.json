@@ -2420,7 +2420,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "cleaver": [],
     "clippda": [],
     "clipper": [
         "AnnotationDbi",
@@ -11354,7 +11353,6 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "biomaRt",
-        "cleaver",
         "dbplyr",
         "rtracklayer",
         "tidyr"
@@ -14661,7 +14659,6 @@
     ],
     "synapter": [
         "MSnbase",
-        "cleaver",
         "qvalue",
         "readr",
         "vsn"
