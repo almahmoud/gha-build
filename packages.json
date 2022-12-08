@@ -963,7 +963,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DRaWR",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
@@ -30484,7 +30483,6 @@
         "ggplot2",
         "tibble"
     ],
-    "DRaWR": [],
     "mGSZ": [],
     "ggfortify": [
         "dplyr",
