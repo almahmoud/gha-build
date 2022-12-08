@@ -1512,9 +1512,7 @@
         "rvest",
         "tidyr"
     ],
-    "cbpManager": [
-        "rapportools"
-    ],
+    "cbpManager": [],
     "ccfindR": [
         "SingleCellExperiment"
     ],
@@ -9044,7 +9042,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rapportools",
         "summarytools",
         "testthat",
         "tidyr",
@@ -14462,7 +14459,6 @@
         "waldo"
     ],
     "IRkernel": [],
-    "rapportools": [],
     "multipanelfigure": [],
     "FactoMineR": [
         "broom",
@@ -15202,7 +15198,6 @@
         "waldo"
     ],
     "summarytools": [
-        "rapportools",
         "tidyr"
     ],
     "unmarked": [
