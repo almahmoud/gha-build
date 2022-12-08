@@ -2411,7 +2411,6 @@
         "ggtree",
         "treeio"
     ],
-    "girafe": [],
     "GISPA": [
         "GSEABase",
         "genefilter"
