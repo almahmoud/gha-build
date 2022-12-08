@@ -5820,7 +5820,6 @@
     ],
     "metabolomicsWorkbenchR": [
         "MultiAssayExperiment",
-        "struct",
         "tidyr"
     ],
     "MetaboSignal": [
@@ -10474,10 +10473,7 @@
         "rtracklayer"
     ],
     "STRINGdb": [],
-    "struct": [],
-    "structToolbox": [
-        "struct"
-    ],
+    "structToolbox": [],
     "StructuralVariantAnnotation": [
         "BSgenome",
         "BiocFileCache",
