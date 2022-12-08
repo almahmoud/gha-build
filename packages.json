@@ -19843,7 +19843,6 @@
         "ggtree",
         "graphlayouts",
         "gson",
-        "heatmap3",
         "highr",
         "hms",
         "htmlwidgets",
@@ -54691,7 +54690,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "heatmap3",
         "highr",
         "hms",
         "htmlTable",
@@ -76753,7 +76751,6 @@
         "RCurl",
         "XVector"
     ],
-    "heatmap3": [],
     "EntropyExplorer": [],
     "EpiMix.data": [
         "AnnotationDbi",
