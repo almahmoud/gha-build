@@ -121,7 +121,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "biodbNcbi": [],
     "biomvRCNS": [
         "Gviz",
         "biovizBase"
