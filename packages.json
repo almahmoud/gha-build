@@ -377,7 +377,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "varhandle",
         "vctrs",
         "waldo"
     ],
@@ -85058,7 +85057,6 @@
         "later",
         "promises"
     ],
-    "varhandle": [],
     "ggrepel": [
         "Matrix",
         "ggplot2",
