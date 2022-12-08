@@ -9176,7 +9176,6 @@
         "KEGGREST",
         "RSQLite"
     ],
-    "GAprediction": [],
     "GARS": [
         "AnnotationDbi",
         "BiocFileCache",
