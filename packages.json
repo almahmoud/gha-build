@@ -134,7 +134,6 @@
         "orthogene",
         "rstatix"
     ],
-    "extraChIPs": [],
     "fastLiquidAssociation": [],
     "flowCL": [
         "SPARQL"
