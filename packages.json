@@ -3478,7 +3478,6 @@
     "CNVgears": [
         "ggplot2"
     ],
-    "cnvGSA": [],
     "CNViz": [
         "AnnotationDbi",
         "BSgenome",
