@@ -14611,7 +14611,6 @@
         "tidyselect",
         "vroom"
     ],
-    "HTqPCR": [],
     "HTSeqGenie": [
         "AnnotationDbi",
         "BSgenome",
@@ -21891,7 +21890,6 @@
         "tidyselect"
     ],
     "nondetects": [
-        "HTqPCR",
         "arm",
         "lme4",
         "nloptr",
@@ -34322,9 +34320,7 @@
         "tidyselect",
         "viridis"
     ],
-    "unifiedWMWqPCR": [
-        "HTqPCR"
-    ],
+    "unifiedWMWqPCR": [],
     "UniProt.ws": [
         "AnnotationDbi",
         "BiocFileCache",
