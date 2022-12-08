@@ -625,14 +625,12 @@
     "LymphoSeq": [],
     "Maaslin2": [
         "car",
-        "glmmTMB",
         "lmerTest",
         "pbkrtest"
     ],
     "Macarron": [
         "Maaslin2",
         "car",
-        "glmmTMB",
         "lmerTest",
         "pbkrtest"
     ],
@@ -792,7 +790,6 @@
     "MMUPHin": [
         "Maaslin2",
         "car",
-        "glmmTMB",
         "lmerTest",
         "pbkrtest"
     ],
@@ -857,7 +854,6 @@
     ],
     "muscat": [
         "blme",
-        "glmmTMB",
         "lmerTest",
         "pbkrtest",
         "variancePartition"
@@ -1423,7 +1419,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "glmmTMB": [],
     "agricolae": [
         "klaR"
     ],
