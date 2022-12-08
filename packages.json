@@ -292,7 +292,6 @@
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "VariantAnnotation",
         "annotatr",
-        "biscuiteerData",
         "bumphunter",
         "dmrseq"
     ],
@@ -3946,7 +3945,6 @@
     ],
     "ggraph": [],
     "synaptome.db": [],
-    "biscuiteerData": [],
     "pasilla": [
         "DESeq2",
         "DEXSeq"
