@@ -110,7 +110,6 @@
     ],
     "BitSeq": [],
     "blacksheepr": [
-        "DEXSeq",
         "pasilla"
     ],
     "BOBaFIT": [
@@ -392,7 +391,6 @@
     ],
     "DEsubs": [],
     "DEWSeq": [],
-    "DEXSeq": [],
     "DiffBind": [],
     "diffcyt": [
         "FlowSOM",
@@ -401,9 +399,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "diffUTR": [
-        "DEXSeq"
-    ],
+    "diffUTR": [],
     "diggit": [],
     "DMCFB": [
         "arm"
@@ -772,9 +768,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "IntEREst": [
-        "DEXSeq"
-    ],
+    "IntEREst": [],
     "iPath": [
         "car",
         "ggpubr",
@@ -791,9 +785,7 @@
         "rstatix"
     ],
     "ISAnalytics": [],
-    "IsoformSwitchAnalyzeR": [
-        "DEXSeq"
-    ],
+    "IsoformSwitchAnalyzeR": [],
     "isomiRs": [
         "DEGreport"
     ],
@@ -1789,9 +1781,7 @@
         "car",
         "pbkrtest"
     ],
-    "pasilla": [
-        "DEXSeq"
-    ],
+    "pasilla": [],
     "GenomicState": [
         "GenomicFiles",
         "derfinder"
