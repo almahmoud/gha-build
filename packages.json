@@ -1697,7 +1697,6 @@
         "ensembldb",
         "readr"
     ],
-    "crlmm": [],
     "crossmeta": [
         "GEOquery",
         "genefilter",
@@ -4182,7 +4181,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "biomaRt",
         "bumphunter",
-        "crlmm",
         "genefilter",
         "methylumi",
         "minfi",
@@ -4804,8 +4802,7 @@
     "MinimumDistance": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg18",
-        "VanillaICE",
-        "crlmm"
+        "VanillaICE"
     ],
     "MIRA": [
         "BSgenome",
@@ -8512,8 +8509,7 @@
     ],
     "VanillaICE": [
         "BSgenome",
-        "BSgenome.Hsapiens.UCSC.hg18",
-        "crlmm"
+        "BSgenome.Hsapiens.UCSC.hg18"
     ],
     "VarCon": [
         "BSgenome"
