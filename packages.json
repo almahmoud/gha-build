@@ -527,7 +527,6 @@
     ],
     "GSReg": [],
     "Gviz": [],
-    "gwasurvivr": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz"
