@@ -17609,7 +17609,6 @@
         "vctrs",
         "viridis"
     ],
-    "interacCircos": [],
     "InteractionSet": [
         "GenomicRanges",
         "SummarizedExperiment",
