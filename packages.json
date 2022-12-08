@@ -10916,7 +10916,6 @@
         "patchwork",
         "pheatmap",
         "pillar",
-        "pinfsc50",
         "png",
         "progress",
         "purrr",
@@ -47763,7 +47762,6 @@
         "nlme",
         "openssl",
         "pillar",
-        "pinfsc50",
         "png",
         "progress",
         "purrr",
@@ -106627,7 +106625,6 @@
         "mgcv",
         "nlme",
         "pillar",
-        "pinfsc50",
         "rlang",
         "stringi",
         "stringr",
@@ -106639,7 +106636,6 @@
         "withr"
     ],
     "memuse": [],
-    "pinfsc50": [],
     "biglm": [],
     "sqldf": [
         "RSQLite",
