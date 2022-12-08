@@ -12414,7 +12414,6 @@
         "tibble",
         "viridis"
     ],
-    "Icens": [],
     "icetea": [
         "AnnotationDbi",
         "BSgenome",
@@ -20656,9 +20655,7 @@
         "vsn",
         "waldo"
     ],
-    "PROcess": [
-        "Icens"
-    ],
+    "PROcess": [],
     "procoil": [
         "Biostrings",
         "kebabs"
