@@ -2181,7 +2181,6 @@
         "RFOC",
         "broom",
         "car",
-        "cytometree",
         "fields",
         "flowDensity",
         "lme4",
@@ -11199,7 +11198,6 @@
     "highcharter": [
         "broom"
     ],
-    "cytometree": [],
     "RFOC": [
         "GEOmap",
         "fields"
