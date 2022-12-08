@@ -603,7 +603,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "NADA",
-        "RcppZiggurat",
         "Rfast",
         "SummarizedExperiment",
         "XVector",
@@ -755,7 +754,6 @@
         "BiocParallel",
         "RSpectra",
         "RcppEigen",
-        "RcppZiggurat",
         "Rfast",
         "baseline",
         "bslib",
@@ -3296,7 +3294,6 @@
         "Rcgmin",
         "RcppEigen",
         "RcppML",
-        "RcppZiggurat",
         "Rfast",
         "Rvmmin",
         "ScaledMatrix",
@@ -10059,7 +10056,6 @@
         "GenomicRanges",
         "RcppEigen",
         "RcppML",
-        "RcppZiggurat",
         "Rfast",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -10678,7 +10674,6 @@
     ],
     "COTAN": [
         "ComplexHeatmap",
-        "RcppZiggurat",
         "Rfast",
         "doParallel",
         "dplyr",
@@ -14059,7 +14054,6 @@
         "GenomicRanges",
         "RcppEigen",
         "RcppML",
-        "RcppZiggurat",
         "Rfast",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -25334,7 +25328,6 @@
         "GenomicRanges",
         "KEGGREST",
         "RSQLite",
-        "RcppZiggurat",
         "Rfast",
         "SummarizedExperiment",
         "XVector",
@@ -29015,7 +29008,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
-        "RcppZiggurat",
         "Rfast",
         "SummarizedExperiment",
         "XVector",
@@ -29576,7 +29568,6 @@
         "RSQLite",
         "RcppEigen",
         "RcppML",
-        "RcppZiggurat",
         "Rfast",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -34579,7 +34570,6 @@
         "RSQLite",
         "RUVSeq",
         "RcppEigen",
-        "RcppZiggurat",
         "Rfast",
         "Rsamtools",
         "ScaledMatrix",
@@ -34900,7 +34890,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "NADA",
-        "RcppZiggurat",
         "Rfast",
         "SummarizedExperiment",
         "XVector",
@@ -35608,7 +35597,6 @@
     ],
     "optimalFlow": [
         "RcppEigen",
-        "RcppZiggurat",
         "Rfast",
         "doParallel",
         "dplyr",
@@ -37105,7 +37093,6 @@
     ],
     "PhenStat": [
         "RcppEigen",
-        "RcppZiggurat",
         "Rfast",
         "SmoothWin",
         "broom",
@@ -39088,7 +39075,6 @@
         "R.utils",
         "RSQLite",
         "RcppEigen",
-        "RcppZiggurat",
         "Rfast",
         "Rsamtools",
         "SummarizedExperiment",
@@ -54437,7 +54423,6 @@
         "vctrs"
     ],
     "VERSO": [
-        "RcppZiggurat",
         "Rfast",
         "ape"
     ],
@@ -55445,7 +55430,6 @@
         "KEGGgraph",
         "RSQLite",
         "RcppEigen",
-        "RcppZiggurat",
         "Rfast",
         "Rgraphviz",
         "SPIA",
@@ -56118,10 +56102,7 @@
         "NADA",
         "survival"
     ],
-    "Rfast": [
-        "RcppZiggurat"
-    ],
-    "RcppZiggurat": [],
+    "Rfast": [],
     "NADA": [
         "survival"
     ],
@@ -56149,7 +56130,6 @@
         "vctrs"
     ],
     "speaq": [
-        "RcppZiggurat",
         "Rfast",
         "doRNG",
         "doSNOW",
@@ -62469,7 +62449,6 @@
         "memoise"
     ],
     "SmoothWin": [
-        "RcppZiggurat",
         "Rfast"
     ],
     "pingr": [],
