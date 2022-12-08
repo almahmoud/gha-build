@@ -347,7 +347,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "GenomicRanges",
-        "RcppNumerical",
         "ScaledMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -918,7 +917,6 @@
     ],
     "apeglm": [
         "GenomicRanges",
-        "RcppNumerical",
         "SummarizedExperiment",
         "emdbook"
     ],
@@ -4907,7 +4905,6 @@
         "GreyListChIP",
         "KEGGREST",
         "RSQLite",
-        "RcppNumerical",
         "Rsamtools",
         "ShortRead",
         "SummarizedExperiment",
@@ -7872,7 +7869,6 @@
         "KEGGREST",
         "KEGGgraph",
         "RSQLite",
-        "RcppNumerical",
         "SummarizedExperiment",
         "annotate",
         "apeglm",
@@ -8598,7 +8594,6 @@
         "GreyListChIP",
         "KEGGREST",
         "RSQLite",
-        "RcppNumerical",
         "Rsamtools",
         "ShortRead",
         "SummarizedExperiment",
@@ -32881,7 +32876,6 @@
         "GenomicRanges",
         "KEGGREST",
         "RSQLite",
-        "RcppNumerical",
         "SummarizedExperiment",
         "annotate",
         "apeglm",
@@ -34840,7 +34834,6 @@
         "InteractionSet",
         "KEGGREST",
         "RSQLite",
-        "RcppNumerical",
         "Rsamtools",
         "ShortRead",
         "SummarizedExperiment",
@@ -35612,7 +35605,6 @@
         "glmnet"
     ],
     "emdbook": [],
-    "RcppNumerical": [],
     "ggbeeswarm": [
         "ggplot2",
         "pillar",
