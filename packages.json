@@ -383,7 +383,6 @@
         "MultiAssayExperiment",
         "Seurat",
         "TreeSummarizedExperiment",
-        "corncob",
         "genefilter",
         "geneplotter",
         "lme4",
@@ -7595,7 +7594,6 @@
     "heatmaply": [
         "plotly"
     ],
-    "corncob": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "GEOquery",
         "GenomicFeatures",
