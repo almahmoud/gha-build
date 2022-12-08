@@ -2258,7 +2258,6 @@
         "treeio"
     ],
     "ExploreModelMatrix": [],
-    "ExpressionAtlas": [],
     "extraChIPs": [
         "GenomicFeatures",
         "GenomicInteractions",
