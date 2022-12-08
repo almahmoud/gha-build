@@ -15,7 +15,6 @@
     "abseqR": [
         "BiocStyle",
         "bookdown",
-        "ggcorrplot",
         "ggdendro",
         "plotly",
         "tidyr"
@@ -2160,7 +2159,6 @@
         "viridis"
     ],
     "CIMICE": [
-        "ggcorrplot",
         "ggforce",
         "ggraph",
         "ggrepel",
@@ -14816,7 +14814,6 @@
         "genefilter"
     ],
     "GO.db": [],
-    "ggcorrplot": [],
     "ggdendro": [],
     "plotly": [
         "tidyr"
