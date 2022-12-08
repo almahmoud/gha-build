@@ -5131,7 +5131,6 @@
         "ellipsis",
         "hms",
         "httr",
-        "lgr",
         "lifecycle",
         "memoise",
         "openssl",
@@ -5163,7 +5162,6 @@
         "ellipsis",
         "hms",
         "httr",
-        "lgr",
         "lifecycle",
         "memoise",
         "openssl",
@@ -5195,7 +5193,6 @@
         "ellipsis",
         "hms",
         "httr",
-        "lgr",
         "lifecycle",
         "memoise",
         "openssl",
@@ -5227,7 +5224,6 @@
         "ellipsis",
         "hms",
         "httr",
-        "lgr",
         "lifecycle",
         "memoise",
         "openssl",
@@ -5259,7 +5255,6 @@
         "ellipsis",
         "hms",
         "httr",
-        "lgr",
         "lifecycle",
         "memoise",
         "openssl",
@@ -5291,7 +5286,6 @@
         "ellipsis",
         "hms",
         "httr",
-        "lgr",
         "lifecycle",
         "memoise",
         "openssl",
@@ -5323,7 +5317,6 @@
         "ellipsis",
         "hms",
         "httr",
-        "lgr",
         "lifecycle",
         "memoise",
         "openssl",
@@ -5355,7 +5348,6 @@
         "ellipsis",
         "hms",
         "httr",
-        "lgr",
         "lifecycle",
         "memoise",
         "openssl",
@@ -5387,7 +5379,6 @@
         "ellipsis",
         "hms",
         "httr",
-        "lgr",
         "lifecycle",
         "memoise",
         "openssl",
@@ -5419,7 +5410,6 @@
         "ellipsis",
         "hms",
         "httr",
-        "lgr",
         "lifecycle",
         "memoise",
         "openssl",
@@ -16010,7 +16000,6 @@
         "koRpus",
         "koRpus.lang.en",
         "lexicon",
-        "lgr",
         "lifecycle",
         "mgcv",
         "mlapi",
@@ -25046,7 +25035,6 @@
         "koRpus",
         "koRpus.lang.en",
         "lexicon",
-        "lgr",
         "lifecycle",
         "mgcv",
         "mlapi",
@@ -46158,7 +46146,6 @@
         "htmlwidgets",
         "httr",
         "igraph",
-        "lgr",
         "lifecycle",
         "memoise",
         "mgcv",
@@ -58611,7 +58598,6 @@
         "glmnet",
         "hms",
         "igraph",
-        "lgr",
         "lifecycle",
         "lme4",
         "lmerTest",
@@ -66694,7 +66680,6 @@
         "koRpus",
         "koRpus.lang.en",
         "lexicon",
-        "lgr",
         "lifecycle",
         "mgcv",
         "mlapi",
@@ -67292,7 +67277,6 @@
         "koRpus",
         "koRpus.lang.en",
         "lexicon",
-        "lgr",
         "lifecycle",
         "mgcv",
         "mlapi",
@@ -72417,7 +72401,6 @@
     "chk": [
         "lifecycle"
     ],
-    "lgr": [],
     "rms": [
         "Hmisc",
         "Matrix",
@@ -75122,7 +75105,6 @@
     "text2vec": [
         "Matrix",
         "MatrixExtra",
-        "lgr",
         "mlapi",
         "rsparse"
     ],
@@ -75147,8 +75129,7 @@
     ],
     "rsparse": [
         "Matrix",
-        "MatrixExtra",
-        "lgr"
+        "MatrixExtra"
     ],
     "mlapi": [
         "Matrix"
@@ -79207,7 +79188,6 @@
     "mlr3": [
         "future",
         "future.apply",
-        "lgr",
         "mlr3measures",
         "mlr3misc",
         "paradox"
@@ -79215,7 +79195,6 @@
     "mlr3learners": [
         "future",
         "future.apply",
-        "lgr",
         "mlr3",
         "mlr3measures",
         "mlr3misc",
@@ -79225,7 +79204,6 @@
         "bbotk",
         "future",
         "future.apply",
-        "lgr",
         "mlr3",
         "mlr3measures",
         "mlr3misc",
@@ -79237,7 +79215,6 @@
     "mlr3measures": [],
     "mlr3misc": [],
     "bbotk": [
-        "lgr",
         "mlr3misc",
         "paradox"
     ],
