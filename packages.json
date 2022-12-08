@@ -27,7 +27,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "AMARETTO": [],
     "Anaquin": [],
     "ANCOMBC": [
         "TreeSummarizedExperiment",
