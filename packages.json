@@ -48805,7 +48805,6 @@
         "mgcv",
         "mlr3",
         "mlr3learners",
-        "mlr3measures",
         "mlr3misc",
         "mlr3tuning",
         "multtest",
@@ -65498,7 +65497,6 @@
     "mlr3": [
         "future",
         "future.apply",
-        "mlr3measures",
         "mlr3misc",
         "paradox"
     ],
@@ -65506,7 +65504,6 @@
         "future",
         "future.apply",
         "mlr3",
-        "mlr3measures",
         "mlr3misc",
         "paradox"
     ],
@@ -65515,14 +65512,12 @@
         "future",
         "future.apply",
         "mlr3",
-        "mlr3measures",
         "mlr3misc",
         "paradox"
     ],
     "paradox": [
         "mlr3misc"
     ],
-    "mlr3measures": [],
     "mlr3misc": [],
     "bbotk": [
         "mlr3misc",
