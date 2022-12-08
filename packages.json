@@ -367,7 +367,6 @@
         "VariantAnnotation",
         "annotatr",
         "biscuiteerData",
-        "bsseq",
         "bumphunter",
         "dmrseq",
         "regioneR"
@@ -400,8 +399,7 @@
         "ggbio"
     ],
     "borealis": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "brainflowprobes": [
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -424,7 +422,6 @@
     "BRGenomics": [
         "DESeq2"
     ],
-    "bsseq": [],
     "BubbleTree": [
         "GenomicFeatures",
         "VariantAnnotation",
@@ -593,7 +590,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation",
         "biovizBase",
-        "bsseq",
         "bumphunter",
         "ensembldb",
         "geneLenDataBase",
@@ -735,8 +731,7 @@
         "VariantAnnotation"
     ],
     "COCOA": [
-        "MIRA",
-        "bsseq"
+        "MIRA"
     ],
     "CODEX": [
         "BSgenome.Hsapiens.UCSC.hg19"
@@ -1075,7 +1070,6 @@
     ],
     "DeMixT": [
         "DSS",
-        "bsseq",
         "sva"
     ],
     "DepecheR": [],
@@ -1172,7 +1166,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation",
         "biovizBase",
-        "bsseq",
         "bumphunter",
         "ensembldb",
         "methylumi",
@@ -1189,7 +1182,6 @@
     "dmrseq": [
         "GenomicFeatures",
         "annotatr",
-        "bsseq",
         "bumphunter",
         "regioneR"
     ],
@@ -1220,9 +1212,7 @@
         "ensembldb"
     ],
     "DrugVsDisease": [],
-    "DSS": [
-        "bsseq"
-    ],
+    "DSS": [],
     "easier": [
         "DESeq2",
         "car",
@@ -2190,7 +2180,6 @@
         "DESeq2",
         "DSS",
         "FactoMineR",
-        "bsseq",
         "car",
         "factoextra",
         "ggpubr",
@@ -2467,8 +2456,7 @@
         "DESeq2",
         "DSS",
         "EDASeq",
-        "GenomicFeatures",
-        "bsseq"
+        "GenomicFeatures"
     ],
     "metavizr": [
         "GenomicFeatures",
@@ -2480,8 +2468,7 @@
         "epivizrStandalone"
     ],
     "MethCP": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "MethReg": [
         "car",
@@ -2505,7 +2492,6 @@
         "GenomicFeatures",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
-        "bsseq",
         "bumphunter",
         "minfi"
     ],
@@ -2555,8 +2541,7 @@
     ],
     "MethylSeekR": [],
     "methylSig": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "methylumi": [
         "FDb.InfiniumMethylation.hg19",
@@ -2652,9 +2637,7 @@
         "BSgenome.Hsapiens.UCSC.hg18",
         "VanillaICE"
     ],
-    "MIRA": [
-        "bsseq"
-    ],
+    "MIRA": [],
     "miRLAB": [
         "Category",
         "GOstats"
@@ -2970,9 +2953,7 @@
         "regioneR",
         "trackViewer"
     ],
-    "NanoMethViz": [
-        "bsseq"
-    ],
+    "NanoMethViz": [],
     "nanotatoR": [
         "testthat",
         "tidyverse"
@@ -3987,7 +3968,6 @@
     "scmeth": [
         "GenomicFeatures",
         "annotatr",
-        "bsseq",
         "regioneR"
     ],
     "scone": [
