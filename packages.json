@@ -531,7 +531,6 @@
     "SomaticSignatures": [],
     "SpatialDecon": [],
     "spatzie": [],
-    "SPLINTER": [],
     "SPONGE": [
         "ggpubr",
         "rstatix"
