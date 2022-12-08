@@ -72,7 +72,6 @@
     "ACE": [
         "BiocParallel",
         "Biostrings",
-        "CGHcall",
         "GenomicRanges",
         "QDNAseq",
         "Rsamtools",
@@ -3477,7 +3476,6 @@
         "BiocFileCache",
         "BiocParallel",
         "Biostrings",
-        "CGHcall",
         "DT",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -5383,7 +5381,6 @@
         "vctrs"
     ],
     "CGEN": [],
-    "CGHcall": [],
     "cghMCR": [
         "AnnotationDbi",
         "Biostrings",
@@ -5396,9 +5393,7 @@
         "genefilter",
         "vctrs"
     ],
-    "CGHnormaliter": [
-        "CGHcall"
-    ],
+    "CGHnormaliter": [],
     "ChAMP": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -14425,7 +14420,6 @@
     "GeneBreak": [
         "BiocParallel",
         "Biostrings",
-        "CGHcall",
         "GenomicRanges",
         "QDNAseq",
         "Rsamtools",
@@ -16860,7 +16854,6 @@
     "HiCcompare": [
         "BiocParallel",
         "Biostrings",
-        "CGHcall",
         "DelayedArray",
         "GenomicRanges",
         "InteractionSet",
@@ -16924,7 +16917,6 @@
     "HiCDOC": [
         "BiocParallel",
         "Biostrings",
-        "CGHcall",
         "DelayedArray",
         "GenomicRanges",
         "HiCcompare",
@@ -24470,7 +24462,6 @@
     "multiHiCcompare": [
         "BiocParallel",
         "Biostrings",
-        "CGHcall",
         "DelayedArray",
         "GenomicRanges",
         "HiCcompare",
@@ -29635,7 +29626,6 @@
     "QDNAseq": [
         "BiocParallel",
         "Biostrings",
-        "CGHcall",
         "GenomicRanges",
         "Rsamtools",
         "XVector",
@@ -36729,7 +36719,6 @@
     "SpectralTAD": [
         "BiocParallel",
         "Biostrings",
-        "CGHcall",
         "DelayedArray",
         "GenomicRanges",
         "HiCcompare",
@@ -38336,7 +38325,6 @@
     "TADCompare": [
         "BiocParallel",
         "Biostrings",
-        "CGHcall",
         "DelayedArray",
         "GenomicRanges",
         "HiCcompare",
