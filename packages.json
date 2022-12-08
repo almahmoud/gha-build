@@ -7543,7 +7543,6 @@
         "askpass",
         "bit64",
         "blob",
-        "bmp",
         "cachem",
         "checkmate",
         "class",
@@ -17478,7 +17477,6 @@
         "SamSPECTRAL",
         "SparseM",
         "TH.data",
-        "bmp",
         "changepoint",
         "checkmate",
         "contrast",
@@ -72445,7 +72443,6 @@
         "askpass",
         "bit64",
         "blob",
-        "bmp",
         "bslib",
         "cachem",
         "crosstalk",
@@ -86009,7 +86006,6 @@
         "beachmat",
         "bit64",
         "blob",
-        "bmp",
         "bslib",
         "caTools",
         "cachem",
@@ -101233,7 +101229,6 @@
     "imager": [
         "Matrix",
         "Rcpp",
-        "bmp",
         "digest",
         "downloader",
         "igraph",
@@ -101250,7 +101245,6 @@
         "xlsxjars"
     ],
     "readbitmap": [
-        "bmp",
         "png"
     ],
     "multcomp": [
@@ -101266,7 +101260,6 @@
         "Matrix",
         "survival"
     ],
-    "bmp": [],
     "latex2exp": [
         "lifecycle",
         "magrittr",
