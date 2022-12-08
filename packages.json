@@ -1773,7 +1773,6 @@
         "tidygraph",
         "tidyr"
     ],
-    "CINdex": [],
     "circRNAprofiler": [
         "AnnotationHub",
         "BSgenome",
