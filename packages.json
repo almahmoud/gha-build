@@ -1508,7 +1508,6 @@
         "qvalue",
         "readr",
         "rtracklayer",
-        "ruv",
         "sva",
         "tidyr",
         "wateRmelon"
@@ -2913,7 +2912,6 @@
         "org.Hs.eg.db",
         "readr",
         "rtracklayer",
-        "ruv",
         "tidyr"
     ],
     "DMRforPairs": [
@@ -5694,7 +5692,6 @@
         "lmerTest",
         "nloptr",
         "phyloseq",
-        "ruv",
         "sva",
         "testthat",
         "tidyr",
@@ -5776,7 +5773,6 @@
         "qvalue",
         "readr",
         "rtracklayer",
-        "ruv",
         "sva",
         "tidyr"
     ],
@@ -6151,7 +6147,6 @@
         "reactome.db",
         "readr",
         "rtracklayer",
-        "ruv",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -6580,7 +6575,6 @@
         "org.Hs.eg.db",
         "readr",
         "rtracklayer",
-        "ruv",
         "tidyr"
     ],
     "missRows": [
@@ -7985,7 +7979,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "ruv",
         "testthat",
         "tidyr",
         "waldo"
@@ -9649,8 +9642,7 @@
         "Hmisc",
         "M3Drop",
         "densEstBayes",
-        "reldist",
-        "ruv"
+        "reldist"
     ],
     "scMET": [
         "BiocStyle"
@@ -10155,7 +10147,6 @@
         "qvalue",
         "reldist",
         "rtracklayer",
-        "ruv",
         "scDblFinder",
         "scMerge",
         "scRNAseq",
@@ -10582,7 +10573,6 @@
         "ggalluvial",
         "readr",
         "rtracklayer",
-        "ruv",
         "scuttle",
         "tidyr"
     ],
@@ -12169,7 +12159,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "ruv": [],
     "spp": [],
     "ChIC.data": [
         "caret",
