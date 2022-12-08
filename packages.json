@@ -1511,7 +1511,6 @@
         "nloptr",
         "testthat"
     ],
-    "DMCHMM": [],
     "DMRcate": [
         "DSS",
         "ExperimentHub",
