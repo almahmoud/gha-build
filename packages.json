@@ -8079,7 +8079,6 @@
         "vroom",
         "wateRmelon"
     ],
-    "ChemmineOB": [],
     "ChemmineR": [
         "DT",
         "crosstalk",
@@ -46150,7 +46149,6 @@
     ],
     "RMassBank": [
         "BiocParallel",
-        "ChemmineOB",
         "ChemmineR",
         "DT",
         "IRanges",
