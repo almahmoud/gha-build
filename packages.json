@@ -9546,9 +9546,7 @@
         "BiocFileCache",
         "biomaRt"
     ],
-    "velociraptor": [
-        "zellkonverter"
-    ],
+    "velociraptor": [],
     "VennDetail": [],
     "vidger": [
         "DESeq2",
@@ -9722,7 +9720,6 @@
         "quantro",
         "readr"
     ],
-    "zellkonverter": [],
     "zenith": [
         "BiocFileCache",
         "EnrichmentBrowser",
