@@ -2377,7 +2377,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "CODEX"
     ],
-    "iCOBRA": [],
     "ideal": [
         "Category",
         "DESeq2",
