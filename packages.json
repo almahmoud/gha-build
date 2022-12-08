@@ -180,7 +180,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "BioCor": [],
     "biodb": [],
     "biodbChebi": [
         "biodb"
