@@ -12570,7 +12570,6 @@
         "ggplot2",
         "htmlTable",
         "knitr",
-        "mboost",
         "org.Hs.eg.db",
         "readr",
         "rvest",
@@ -25094,10 +25093,7 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "InvariantCausalPrediction": [
-        "mboost"
-    ],
-    "mboost": [],
+    "InvariantCausalPrediction": [],
     "miRBaseVersions.db": [
         "AnnotationDbi",
         "KEGGREST"
