@@ -381,7 +381,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "dce": [],
     "ddPCRclust": [
         "car",
         "flowDensity",
