@@ -909,9 +909,7 @@
     "CSSQ": [
         "GenomicFeatures"
     ],
-    "cTRAP": [
-        "highcharter"
-    ],
+    "cTRAP": [],
     "CTSV": [
         "SpatialExperiment"
     ],
@@ -989,9 +987,7 @@
         "sva",
         "testthat"
     ],
-    "DAPAR": [
-        "highcharter"
-    ],
+    "DAPAR": [],
     "dasper": [
         "GenomicFeatures",
         "car",
@@ -3400,8 +3396,7 @@
         "sva"
     ],
     "Prostar": [
-        "DAPAR",
-        "highcharter"
+        "DAPAR"
     ],
     "proteasy": [
         "EnsDb.Hsapiens.v86",
@@ -3432,7 +3427,6 @@
         "VariantAnnotation",
         "bumphunter",
         "derfinder",
-        "highcharter",
         "recount"
     ],
     "PSMatch": [
@@ -4974,7 +4968,6 @@
         "viper"
     ],
     "crisprScoreData": [],
-    "highcharter": [],
     "mbest": [
         "lme4",
         "nloptr",
