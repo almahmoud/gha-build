@@ -357,7 +357,6 @@
         "pbkrtest"
     ],
     "DEsubs": [],
-    "DEWSeq": [],
     "DiffBind": [],
     "diffcyt": [
         "FlowSOM",
