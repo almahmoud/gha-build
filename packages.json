@@ -29902,7 +29902,6 @@
         "mice",
         "openssl",
         "pillar",
-        "qdapTools",
         "rmarkdown",
         "rvest",
         "sass",
@@ -61913,7 +61912,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "qdapTools": [],
     "ismev": [
         "mgcv"
     ],
