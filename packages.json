@@ -275,7 +275,6 @@
         "Seurat",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "patchwork",
         "plotly",
         "scattermore",
         "tidyr",
@@ -644,7 +643,6 @@
         "lmerTest",
         "mia",
         "nloptr",
-        "patchwork",
         "phyloseq",
         "plotly",
         "scater",
@@ -739,7 +737,6 @@
         "nloptr",
         "org.Bt.eg.db",
         "org.Hs.eg.db",
-        "patchwork",
         "pbkrtest",
         "plotly",
         "qvalue",
@@ -901,7 +898,6 @@
         "genefilter",
         "ggnetwork",
         "intergraph",
-        "patchwork",
         "sna",
         "sva"
     ],
@@ -1174,7 +1170,6 @@
         "ggbio",
         "ggnetwork",
         "intergraph",
-        "patchwork",
         "rtracklayer",
         "sna",
         "sva",
@@ -1214,7 +1209,6 @@
         "biomaRt",
         "ggfun",
         "ggtree",
-        "patchwork",
         "rtracklayer",
         "tidyr",
         "tidytree",
@@ -1343,7 +1337,6 @@
         "Seurat",
         "fgsea",
         "ggrastr",
-        "patchwork",
         "plotly",
         "scater",
         "scattermore",
@@ -1398,7 +1391,6 @@
         "ggtree",
         "gson",
         "intergraph",
-        "patchwork",
         "qvalue",
         "scatterpie",
         "shadowtext",
@@ -1426,8 +1418,7 @@
     ],
     "Cepo": [
         "GSEABase",
-        "annotate",
-        "patchwork"
+        "annotate"
     ],
     "ceRNAnetsim": [
         "ggraph",
@@ -1459,7 +1450,6 @@
         "gson",
         "lme4",
         "nloptr",
-        "patchwork",
         "pbkrtest",
         "qvalue",
         "rstatix",
@@ -1645,7 +1635,6 @@
         "ggfun",
         "ggraph",
         "ggtree",
-        "patchwork",
         "qvalue",
         "rtracklayer",
         "scatterpie",
@@ -1826,7 +1815,6 @@
         "ggraph",
         "ggtree",
         "gson",
-        "patchwork",
         "qvalue",
         "scatterpie",
         "shadowtext",
@@ -1942,7 +1930,6 @@
         "aplot",
         "ggfun",
         "ggtree",
-        "patchwork",
         "tidyr",
         "tidytree",
         "treeio"
@@ -2053,7 +2040,6 @@
         "nloptr",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "patchwork",
         "pbkrtest",
         "qvalue",
         "readr",
@@ -2272,7 +2258,6 @@
         "ensembldb",
         "haven",
         "keras",
-        "patchwork",
         "readr",
         "regioneR",
         "rio",
@@ -2565,7 +2550,6 @@
         "waldo"
     ],
     "dearseq": [
-        "patchwork",
         "scattermore"
     ],
     "debCAM": [
@@ -2594,7 +2578,6 @@
         "heatmaply",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "patchwork",
         "pathview",
         "plotly",
         "qvalue",
@@ -2878,7 +2861,6 @@
     ],
     "Dino": [
         "Seurat",
-        "patchwork",
         "plotly",
         "scattermore",
         "scran",
@@ -3101,7 +3083,6 @@
         "gson",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "patchwork",
         "qvalue",
         "scatterpie",
         "shadowtext",
@@ -3165,7 +3146,6 @@
         "gson",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "patchwork",
         "qvalue",
         "scatterpie",
         "shadowtext",
@@ -3275,7 +3255,6 @@
         "ggfun",
         "ggraph",
         "ggtree",
-        "patchwork",
         "qvalue",
         "scatterpie",
         "shadowtext",
@@ -3307,7 +3286,6 @@
         "lme4",
         "motifmatchr",
         "nloptr",
-        "patchwork",
         "pbkrtest",
         "pipeFrame",
         "qvalue",
@@ -3360,7 +3338,6 @@
         "ggfun",
         "ggraph",
         "ggtree",
-        "patchwork",
         "plotly",
         "qvalue",
         "readr",
@@ -3420,7 +3397,6 @@
         "ggtree",
         "graphite",
         "gson",
-        "patchwork",
         "qvalue",
         "reactome.db",
         "scatterpie",
@@ -3574,7 +3550,6 @@
         "ggtree",
         "gson",
         "motifmatchr",
-        "patchwork",
         "pipeFrame",
         "qvalue",
         "readr",
@@ -3593,7 +3568,6 @@
         "annotate",
         "broom",
         "msigdbr",
-        "patchwork",
         "tidyr"
     ],
     "esetVis": [
@@ -3630,7 +3604,6 @@
         "lme4",
         "nloptr",
         "orthogene",
-        "patchwork",
         "pbkrtest",
         "plotly",
         "readr",
@@ -3699,7 +3672,6 @@
         "biovizBase",
         "broom",
         "ensembldb",
-        "patchwork",
         "rtracklayer",
         "tidyr"
     ],
@@ -3733,7 +3705,6 @@
         "gprofiler2",
         "gson",
         "org.Hs.eg.db",
-        "patchwork",
         "plotly",
         "qvalue",
         "rWikiPathways",
@@ -3782,7 +3753,6 @@
         "ggtree",
         "gson",
         "intergraph",
-        "patchwork",
         "qvalue",
         "scatterpie",
         "shadowtext",
@@ -3835,7 +3805,6 @@
         "GenomicFeatures",
         "MultiAssayExperiment",
         "biomaRt",
-        "patchwork",
         "qvalue",
         "rtracklayer",
         "tidyr"
@@ -4110,7 +4079,6 @@
         "lme4",
         "nloptr",
         "org.Hs.eg.db",
-        "patchwork",
         "pathview",
         "pbkrtest",
         "qvalue",
@@ -4222,7 +4190,6 @@
         "colourpicker",
         "dendextend",
         "geneplotter",
-        "patchwork",
         "plotly",
         "tidyr"
     ],
@@ -4443,7 +4410,6 @@
         "ggalt",
         "ggfun",
         "ggtree",
-        "patchwork",
         "plotly",
         "statebins",
         "tidyr",
@@ -4464,7 +4430,6 @@
     "ggtree": [
         "aplot",
         "ggfun",
-        "patchwork",
         "tidyr",
         "tidytree",
         "treeio"
@@ -4473,7 +4438,6 @@
         "aplot",
         "ggfun",
         "ggtree",
-        "patchwork",
         "tidyr",
         "tidytree",
         "treeio"
@@ -4482,7 +4446,6 @@
         "aplot",
         "ggfun",
         "ggtree",
-        "patchwork",
         "tidyr",
         "tidytree",
         "treeio"
@@ -4614,7 +4577,6 @@
         "goProfiles",
         "gson",
         "org.Hs.eg.db",
-        "patchwork",
         "qvalue",
         "scatterpie",
         "shadowtext",
@@ -4654,7 +4616,6 @@
         "annotate",
         "biomaRt",
         "geneplotter",
-        "patchwork",
         "readr",
         "tidyr"
     ],
@@ -4745,7 +4706,6 @@
         "ensembldb",
         "haven",
         "keras",
-        "patchwork",
         "readr",
         "regioneR",
         "rio",
@@ -4836,8 +4796,7 @@
         "tidyr"
     ],
     "HGC": [
-        "dendextend",
-        "patchwork"
+        "dendextend"
     ],
     "hiAnnotator": [
         "BSgenome",
@@ -5105,7 +5064,6 @@
     ],
     "infercnv": [
         "Seurat",
-        "patchwork",
         "plotly",
         "scattermore",
         "tidyr"
@@ -5255,7 +5213,6 @@
         "nloptr",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "patchwork",
         "pbkrtest",
         "plotly",
         "qvalue",
@@ -5481,7 +5438,6 @@
         "aplot",
         "ggfun",
         "ggtree",
-        "patchwork",
         "tidyr",
         "tidytree",
         "treeio"
@@ -5570,7 +5526,6 @@
         "aplot",
         "ggfun",
         "ggtree",
-        "patchwork",
         "tidyr",
         "tidytree",
         "treeio"
@@ -5680,7 +5635,6 @@
         "gson",
         "msigdbr",
         "org.Hs.eg.db",
-        "patchwork",
         "pathview",
         "qvalue",
         "scatterpie",
@@ -5903,7 +5857,6 @@
     ],
     "memes": [
         "cmdfun",
-        "patchwork",
         "readr",
         "testthat",
         "tidyr",
@@ -5924,7 +5877,6 @@
         "ggfun",
         "ggraph",
         "ggtree",
-        "patchwork",
         "qvalue",
         "scatterpie",
         "shadowtext",
@@ -6035,7 +5987,6 @@
         "ggraph",
         "ggtree",
         "gson",
-        "patchwork",
         "qvalue",
         "scatterpie",
         "shadowtext",
@@ -6222,7 +6173,6 @@
         "minfi",
         "missMethyl",
         "org.Hs.eg.db",
-        "patchwork",
         "qvalue",
         "reactome.db",
         "readr",
@@ -6331,7 +6281,6 @@
         "ggrastr",
         "ggtree",
         "mia",
-        "patchwork",
         "scater",
         "scuttle",
         "tidygraph",
@@ -6381,7 +6330,6 @@
         "lmerTest",
         "mia",
         "nloptr",
-        "patchwork",
         "phyloseq",
         "recipes",
         "scater",
@@ -6406,7 +6354,6 @@
         "ggtree",
         "golem",
         "gson",
-        "patchwork",
         "qvalue",
         "scatterpie",
         "shadowtext",
@@ -6420,7 +6367,6 @@
         "ggfun",
         "ggtree",
         "ggtreeExtra",
-        "patchwork",
         "tidyr",
         "tidytree",
         "treeio"
@@ -6445,7 +6391,6 @@
     ],
     "miloR": [
         "ggraph",
-        "patchwork",
         "tidygraph",
         "tidyr"
     ],
@@ -6576,7 +6521,6 @@
         "modelr",
         "nloptr",
         "org.Hs.eg.db",
-        "patchwork",
         "pbkrtest",
         "qvalue",
         "reactome.db",
@@ -6626,7 +6570,6 @@
         "modelr",
         "nloptr",
         "org.Hs.eg.db",
-        "patchwork",
         "pbkrtest",
         "qvalue",
         "reactome.db",
@@ -6790,7 +6733,6 @@
         "ggraph",
         "ggtree",
         "gson",
-        "patchwork",
         "qvalue",
         "readr",
         "scatterpie",
@@ -7113,7 +7055,6 @@
         "gson",
         "metap",
         "mixOmics",
-        "patchwork",
         "plotly",
         "qvalue",
         "rWikiPathways",
@@ -7261,7 +7202,6 @@
         "BSgenome",
         "bsseq",
         "ggrastr",
-        "patchwork",
         "readr",
         "rtracklayer",
         "tidyr"
@@ -7323,7 +7263,6 @@
     ],
     "Nebulosa": [
         "Seurat",
-        "patchwork",
         "plotly",
         "scattermore",
         "tidyr"
@@ -7357,7 +7296,6 @@
         "ggraph",
         "ggtree",
         "gson",
-        "patchwork",
         "qvalue",
         "scatterpie",
         "shadowtext",
@@ -7437,7 +7375,6 @@
     ],
     "NewWave": [],
     "ngsReports": [
-        "patchwork",
         "plotly",
         "readr",
         "tidyr"
@@ -7773,7 +7710,6 @@
         "homologene",
         "lme4",
         "nloptr",
-        "patchwork",
         "pbkrtest",
         "plotly",
         "readr",
@@ -7863,7 +7799,6 @@
         "gson",
         "metap",
         "org.Hs.eg.db",
-        "patchwork",
         "qvalue",
         "scatterpie",
         "shadowtext",
@@ -8001,7 +7936,6 @@
         "ggraph",
         "ggtree",
         "gson",
-        "patchwork",
         "qvalue",
         "scatterpie",
         "shadowtext",
@@ -8068,7 +8002,6 @@
         "aplot",
         "ggfun",
         "ggtree",
-        "patchwork",
         "tidyr",
         "tidytree",
         "treeio"
@@ -8135,7 +8068,6 @@
         "ggtree",
         "graphite",
         "gson",
-        "patchwork",
         "qvalue",
         "reactome.db",
         "scatterpie",
@@ -8164,7 +8096,6 @@
     "pipeComp": [
         "Seurat",
         "ggrastr",
-        "patchwork",
         "plotly",
         "scater",
         "scattermore",
@@ -8374,7 +8305,6 @@
         "ggtree",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "patchwork",
         "qvalue",
         "rGREAT",
         "rtracklayer",
@@ -8600,7 +8530,6 @@
         "heatmaply",
         "lme4",
         "nloptr",
-        "patchwork",
         "pbkrtest",
         "plotly",
         "testthat",
@@ -8824,7 +8753,6 @@
         "ggtree",
         "graphite",
         "gson",
-        "patchwork",
         "qvalue",
         "reactome.db",
         "scatterpie",
@@ -9362,7 +9290,6 @@
         "nloptr",
         "org.Hs.eg.db",
         "org.Sc.sgd.db",
-        "patchwork",
         "pathview",
         "pbkrtest",
         "qvalue",
@@ -9440,9 +9367,7 @@
         "BiocStyle",
         "phyloseq"
     ],
-    "rprimer": [
-        "patchwork"
-    ],
+    "rprimer": [],
     "rpx": [
         "BiocFileCache"
     ],
@@ -9612,7 +9537,6 @@
     "Scale4C": [],
     "scAlign": [
         "Seurat",
-        "patchwork",
         "plotly",
         "scattermore",
         "tensorflow",
@@ -9645,7 +9569,6 @@
         "BiocFileCache",
         "Seurat",
         "caret",
-        "patchwork",
         "plotly",
         "recipes",
         "scattermore",
@@ -9672,7 +9595,6 @@
         "annotate",
         "genefilter",
         "geneplotter",
-        "patchwork",
         "plotly",
         "scattermore",
         "tidyr",
@@ -9683,7 +9605,6 @@
         "aplot",
         "ggfun",
         "ggtree",
-        "patchwork",
         "plotly",
         "scattermore",
         "tidyr",
@@ -9693,7 +9614,6 @@
     "scCB2": [
         "DropletUtils",
         "Seurat",
-        "patchwork",
         "plotly",
         "scattermore",
         "scuttle",
@@ -9705,19 +9625,16 @@
         "annotate",
         "ggraph",
         "mixtools",
-        "patchwork",
         "plotly",
         "tidygraph",
         "tidyr"
     ],
     "sccomp": [
-        "patchwork",
         "readr",
         "tidyr"
     ],
     "scDataviz": [
         "Seurat",
-        "patchwork",
         "plotly",
         "scattermore",
         "tidyr"
@@ -9759,7 +9676,6 @@
     "schex": [
         "Seurat",
         "concaveman",
-        "patchwork",
         "plotly",
         "scattermore",
         "tidyr"
@@ -9770,7 +9686,6 @@
     ],
     "scMAGeCK": [
         "Seurat",
-        "patchwork",
         "plotly",
         "scattermore",
         "tidyr"
@@ -9856,7 +9771,6 @@
         "Rmagic"
     ],
     "ScreenR": [
-        "patchwork",
         "tidyr"
     ],
     "scRepertoire": [
@@ -9914,7 +9828,6 @@
         "heatmaply",
         "meshr",
         "nnTensor",
-        "patchwork",
         "plotly",
         "qvalue",
         "reactome.db",
@@ -9936,7 +9849,6 @@
         "fields",
         "msigdbr",
         "nnTensor",
-        "patchwork",
         "plotly",
         "scattermore",
         "schex",
@@ -9955,7 +9867,6 @@
         "epivizrData",
         "ggraph",
         "ggrastr",
-        "patchwork",
         "plotly",
         "rtracklayer",
         "scater",
@@ -9985,7 +9896,6 @@
         "ggfun",
         "ggraph",
         "ggtree",
-        "patchwork",
         "qvalue",
         "rtracklayer",
         "scatterpie",
@@ -10148,7 +10058,6 @@
         "ggtree",
         "gson",
         "org.Hs.eg.db",
-        "patchwork",
         "qvalue",
         "reactome.db",
         "readr",
@@ -10200,7 +10109,6 @@
         "nloptr",
         "openair",
         "org.Hs.eg.db",
-        "patchwork",
         "pbkrtest",
         "readr",
         "rstatix",
@@ -10293,7 +10201,6 @@
         "msigdbr",
         "multipanelfigure",
         "org.Hs.eg.db",
-        "patchwork",
         "plotly",
         "qvalue",
         "reldist",
@@ -10346,7 +10253,6 @@
         "aplot",
         "ggfun",
         "ggtree",
-        "patchwork",
         "tidyr",
         "tidytree",
         "treeio"
@@ -10447,7 +10353,6 @@
         "DropletUtils",
         "Seurat",
         "ggrastr",
-        "patchwork",
         "plotly",
         "scater",
         "scattermore",
@@ -10650,7 +10555,6 @@
         "DropletUtils",
         "Seurat",
         "SpatialExperiment",
-        "patchwork",
         "plotly",
         "scattermore",
         "scuttle",
@@ -10730,7 +10634,6 @@
         "SpatialExperiment",
         "biomaRt",
         "ggalluvial",
-        "patchwork",
         "readr",
         "rtracklayer",
         "ruv",
@@ -10772,7 +10675,6 @@
         "DropletUtils",
         "Seurat",
         "SpatialExperiment",
-        "patchwork",
         "plotly",
         "scattermore",
         "scuttle",
@@ -10938,7 +10840,6 @@
         "geneplotter",
         "ggfun",
         "ggtree",
-        "patchwork",
         "plotly",
         "tidyr",
         "tidytree",
@@ -10963,7 +10864,6 @@
         "aplot",
         "ggfun",
         "ggtree",
-        "patchwork",
         "tidyr",
         "tidytree",
         "treeio"
@@ -11050,7 +10950,6 @@
         "lme4",
         "nloptr",
         "org.Hs.eg.db",
-        "patchwork",
         "pathview",
         "pbkrtest",
         "plotly",
@@ -11195,7 +11094,6 @@
         "ggraph",
         "ggtree",
         "gson",
-        "patchwork",
         "qvalue",
         "rWikiPathways",
         "scatterpie",
@@ -11369,7 +11267,6 @@
         "ggtree",
         "lme4",
         "nloptr",
-        "patchwork",
         "pbkrtest",
         "rstatix",
         "testthat",
@@ -11682,7 +11579,6 @@
         "DropletUtils",
         "SpatialExperiment",
         "SpatialFeatureExperiment",
-        "patchwork",
         "scuttle"
     ],
     "VplotR": [],
@@ -11965,14 +11861,12 @@
     ],
     "org.Sc.sgd.db": [],
     "Seurat": [
-        "patchwork",
         "plotly",
         "scattermore",
         "tidyr"
     ],
     "org.Hs.eg.db": [],
     "org.Mm.eg.db": [],
-    "patchwork": [],
     "scattermore": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
@@ -12160,7 +12054,6 @@
         "car",
         "lme4",
         "nloptr",
-        "patchwork",
         "pbkrtest",
         "plotly",
         "readr",
@@ -12182,8 +12075,7 @@
         "tidyr"
     ],
     "aplot": [
-        "ggfun",
-        "patchwork"
+        "ggfun"
     ],
     "scatterpie": [
         "ggfun",
@@ -12585,9 +12477,7 @@
         "plotly",
         "tidyr"
     ],
-    "ComplexUpset": [
-        "patchwork"
-    ],
+    "ComplexUpset": [],
     "gap": [
         "plotly",
         "tidyr"
@@ -13053,7 +12943,6 @@
     ],
     "SoupX": [
         "Seurat",
-        "patchwork",
         "plotly",
         "scattermore",
         "tidyr"
