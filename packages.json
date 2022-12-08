@@ -522,7 +522,6 @@
         "BASiCS",
         "colourpicker",
         "ggExtra",
-        "glmGamPoi",
         "scran",
         "scuttle"
     ],
@@ -4041,7 +4040,6 @@
         "annotate",
         "geneplotter"
     ],
-    "glmGamPoi": [],
     "glmSparseNet": [
         "BiocFileCache",
         "MultiAssayExperiment",
@@ -10053,9 +10051,7 @@
         "recipes",
         "rtracklayer"
     ],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "transite": [],
     "tRanslatome": [
         "DESeq2",
