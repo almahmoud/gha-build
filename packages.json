@@ -67217,7 +67217,6 @@
         "httr",
         "interp",
         "knitr",
-        "lassopv",
         "latticeExtra",
         "lifecycle",
         "memoise",
@@ -81132,7 +81131,6 @@
     ],
     "tractor.base": [],
     "vbsr": [],
-    "lassopv": [],
     "RPostgreSQL": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
