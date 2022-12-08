@@ -22144,7 +22144,6 @@
         "interactiveDisplayBase",
         "progress",
         "reshape2",
-        "rhdf5client",
         "shiny",
         "tibble",
         "tidyselect"
@@ -22305,7 +22304,6 @@
         "tibble",
         "tidyselect"
     ],
-    "rhdf5client": [],
     "Rhisat2": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -27503,7 +27501,6 @@
         "progress",
         "reshape2",
         "restfulSE",
-        "rhdf5client",
         "shiny",
         "tibble",
         "tidyselect"
