@@ -7335,7 +7335,6 @@
         "lambda.r",
         "lifecycle",
         "lmtest",
-        "lokern",
         "memoise",
         "openssl",
         "restfulr",
@@ -57587,7 +57586,6 @@
         "cachem",
         "httr",
         "lifecycle",
-        "lokern",
         "memoise",
         "multtest",
         "openssl",
@@ -87949,7 +87947,6 @@
         "sandwich",
         "zoo"
     ],
-    "lokern": [],
     "pasilla": [
         "AnnotationDbi",
         "Biobase",
