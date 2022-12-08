@@ -594,7 +594,6 @@
         "dplyr",
         "dqrng",
         "emdbook",
-        "forestplot",
         "futile.logger",
         "ggbeeswarm",
         "ggplot2",
@@ -54445,7 +54444,6 @@
         "dplyr",
         "e1071",
         "forcats",
-        "forestplot",
         "futile.logger",
         "ggplot2",
         "ggpubr",
@@ -58182,7 +58180,6 @@
     "emdbook": [
         "bbmle"
     ],
-    "forestplot": [],
     "RcppNumerical": [
         "RcppEigen"
     ],
