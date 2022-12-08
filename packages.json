@@ -1898,7 +1898,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "biobtreeR": [],
     "bioCancer": [
         "AnnotationDbi",
         "Biostrings",
