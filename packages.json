@@ -85,7 +85,6 @@
         "spp"
     ],
     "ChIPQC": [],
-    "ChIPseeker": [],
     "CircSeqAlignTk": [],
     "CiteFuse": [
         "propr"
@@ -197,9 +196,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "EpiCompare": [
-        "ChIPseeker"
-    ],
+    "EpiCompare": [],
     "epidecodeR": [
         "ggpubr",
         "rstatix"
@@ -217,7 +214,6 @@
     ],
     "erma": [],
     "esATAC": [
-        "ChIPseeker",
         "clusterProfiler"
     ],
     "EWCE": [
@@ -582,9 +578,7 @@
     "preciseTAD": [],
     "primirTSS": [],
     "proBatch": [],
-    "profileplyr": [
-        "ChIPseeker"
-    ],
+    "profileplyr": [],
     "projectR": [],
     "protGear": [
         "FactoMineR",
@@ -675,9 +669,7 @@
     "scTensor": [
         "ReactomePA"
     ],
-    "segmenter": [
-        "ChIPseeker"
-    ],
+    "segmenter": [],
     "shinyMethyl": [],
     "SIAMCAT": [],
     "signatureSearch": [
