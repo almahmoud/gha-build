@@ -1786,7 +1786,6 @@
         "clue",
         "covr",
         "crosstalk",
-        "dirmult",
         "dplyr",
         "e1071",
         "ellipsis",
@@ -11779,7 +11778,6 @@
         "desc",
         "diffcyt",
         "diffobj",
-        "dirmult",
         "doParallel",
         "dplyr",
         "edgeR",
@@ -94301,7 +94299,6 @@
         "Rcpp",
         "ape",
         "clue",
-        "dirmult",
         "fBasics",
         "foreach",
         "ggplot2",
@@ -94358,7 +94355,6 @@
         "vctrs"
     ],
     "rex": [],
-    "dirmult": [],
     "modeest": [
         "clue",
         "fBasics",
