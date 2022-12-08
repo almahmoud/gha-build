@@ -13844,9 +13844,7 @@
     "loci2path": [
         "GenomicRanges"
     ],
-    "logicFS": [
-        "LogicReg"
-    ],
+    "logicFS": [],
     "LOLA": [
         "GenomicRanges",
         "reshape2"
@@ -28556,7 +28554,6 @@
         "tibble"
     ],
     "trio": [
-        "LogicReg",
         "siggenes"
     ],
     "triplex": [
@@ -32317,7 +32314,6 @@
         "rmarkdown",
         "shiny"
     ],
-    "LogicReg": [],
     "reldist": [
         "densEstBayes",
         "ggplot2",
