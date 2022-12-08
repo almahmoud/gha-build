@@ -28302,7 +28302,6 @@
         "memoise",
         "vctrs"
     ],
-    "miRcomp": [],
     "mirIntegrator": [
         "AnnotationDbi",
         "Biostrings",
