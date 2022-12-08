@@ -11021,7 +11021,6 @@
         "GOSemSim",
         "treemap"
     ],
-    "rScudo": [],
     "RSVSim": [
         "GenomicAlignments",
         "ShortRead"
