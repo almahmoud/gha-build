@@ -9908,7 +9908,6 @@
         "oligoClasses",
         "pillar",
         "progress",
-        "reader",
         "readr",
         "readxl",
         "sass",
@@ -52570,7 +52569,6 @@
         "vctrs"
     ],
     "tfautograph": [],
-    "reader": [],
     "shinypanel": [
         "bslib",
         "httpuv",
