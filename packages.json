@@ -14346,7 +14346,6 @@
         "tidyr",
         "viridis"
     ],
-    "sparseDOSSA": [],
     "SparseSignatures": [
         "BSgenome",
         "GenomicAlignments",
