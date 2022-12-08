@@ -13140,7 +13140,6 @@
         "R.utils",
         "RSQLite",
         "RWeka",
-        "RWekajars",
         "RcppEigen",
         "Rsamtools",
         "ShortRead",
@@ -20346,7 +20345,6 @@
         "R.utils",
         "RSQLite",
         "RWeka",
-        "RWekajars",
         "RcppEigen",
         "Rsamtools",
         "ShortRead",
@@ -64982,8 +64980,7 @@
         "igraph"
     ],
     "FSelector": [
-        "RWeka",
-        "RWekajars"
+        "RWeka"
     ],
     "arm": [
         "RcppEigen",
@@ -64998,9 +64995,7 @@
         "vctrs",
         "waldo"
     ],
-    "RWeka": [
-        "RWekajars"
-    ],
+    "RWeka": [],
     "MSQC": [
         "htmlwidgets",
         "knitr",
@@ -65008,7 +65003,6 @@
         "stringr",
         "vctrs"
     ],
-    "RWekajars": [],
     "DAPARdata": [
         "BiocParallel",
         "IRanges",
