@@ -26643,7 +26643,6 @@
         "tidyselect",
         "vegan"
     ],
-    "SIMD": [],
     "SimFFPE": [
         "Biostrings",
         "GenomicRanges",
