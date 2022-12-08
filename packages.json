@@ -3676,7 +3676,6 @@
         "tidytree",
         "treeio"
     ],
-    "metapone": [],
     "metaseqR2": [
         "DESeq2",
         "DSS",
