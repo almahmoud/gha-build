@@ -11376,9 +11376,7 @@
         "withr",
         "zlibbioc"
     ],
-    "bridge": [
-        "rama"
-    ],
+    "bridge": [],
     "BridgeDbR": [
         "rJava"
     ],
@@ -85064,7 +85062,6 @@
         "multtest",
         "survival"
     ],
-    "rama": [],
     "ramr": [
         "BiocGenerics",
         "EnvStats",
