@@ -314,7 +314,6 @@
         "enrichplot",
         "ggtree"
     ],
-    "CNORfuzzy": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "biovizBase",
