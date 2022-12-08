@@ -2336,7 +2336,6 @@
         "scran",
         "scuttle",
         "shinyFiles",
-        "shinyWidgets",
         "shinydashboard",
         "shinydashboardPlus",
         "shinyjs",
@@ -3224,7 +3223,6 @@
         "readr",
         "readxl",
         "shinyBS",
-        "shinyWidgets",
         "shinyjs",
         "shinypanel",
         "sva",
@@ -5809,7 +5807,6 @@
         "ggrepel",
         "patchwork",
         "plotly",
-        "shinyWidgets",
         "shinyjs",
         "tidyr",
         "tippy",
@@ -7274,7 +7271,6 @@
         "readr",
         "readxl",
         "rio",
-        "shinyWidgets",
         "tidyr",
         "vroom"
     ],
@@ -7282,7 +7278,6 @@
         "SingleCellExperiment",
         "colourpicker",
         "ggrepel",
-        "shinyWidgets",
         "shinydashboard",
         "shinyjs"
     ],
@@ -7291,7 +7286,6 @@
         "colourpicker",
         "ggrepel",
         "iSEE",
-        "shinyWidgets",
         "shinydashboard",
         "shinyjs"
     ],
@@ -7305,7 +7299,6 @@
         "dbplyr",
         "ggrepel",
         "iSEE",
-        "shinyWidgets",
         "shinydashboard",
         "shinyjs"
     ],
@@ -7315,7 +7308,6 @@
         "ggrepel",
         "iSEE",
         "iSEEhex",
-        "shinyWidgets",
         "shinydashboard",
         "shinyjs"
     ],
@@ -8771,7 +8763,6 @@
         "plotly",
         "readr",
         "rematch2",
-        "shinyWidgets",
         "shinydashboard",
         "shinyjs",
         "testthat",
@@ -8847,7 +8838,6 @@
         "roxygen2",
         "scatterpie",
         "shadowtext",
-        "shinyWidgets",
         "shinycustomloader",
         "tidygraph",
         "tidyr",
@@ -10558,7 +10548,6 @@
         "plotly",
         "rematch2",
         "rstatix",
-        "shinyWidgets",
         "shinyjs",
         "shinythemes",
         "survMisc",
@@ -11624,7 +11613,6 @@
         "pRoloc",
         "plotly",
         "recipes",
-        "shinyWidgets",
         "shinydashboard",
         "shinydashboardPlus",
         "shinyjs",
@@ -11852,8 +11840,7 @@
         "dbplyr",
         "genefilter",
         "pwrEWAS.data",
-        "shinyBS",
-        "shinyWidgets"
+        "shinyBS"
     ],
     "qckitfastq": [],
     "qcmetrics": [],
@@ -13220,7 +13207,6 @@
         "bookdown",
         "ggdendro",
         "plotly",
-        "shinyWidgets",
         "shinydashboard",
         "shinyjs",
         "tidyr"
@@ -13958,7 +13944,6 @@
         "plotly",
         "readr",
         "rtracklayer",
-        "shinyWidgets",
         "shinyjs",
         "shinythemes",
         "tidyr",
@@ -14073,7 +14058,6 @@
         "rematch2",
         "rstatix",
         "rtracklayer",
-        "shinyWidgets",
         "shinydashboard",
         "survMisc",
         "survivalAnalysis",
@@ -14485,7 +14469,6 @@
         "ggiraph",
         "ggrepel",
         "readr",
-        "shinyWidgets",
         "shinyjs",
         "tidyr",
         "vroom"
@@ -14664,7 +14647,6 @@
         "plotly",
         "rtracklayer",
         "shinyFiles",
-        "shinyWidgets",
         "shinydashboard",
         "tidyr",
         "viridis"
@@ -15155,7 +15137,6 @@
         "drawer",
         "plotly",
         "shinyFiles",
-        "shinyWidgets",
         "shinydashboard",
         "shinydashboardPlus",
         "shinyjqui",
@@ -15994,7 +15975,6 @@
         "org.Hs.eg.db",
         "rtracklayer",
         "shinyBS",
-        "shinyWidgets",
         "shinyjs",
         "viridis"
     ],
@@ -16346,7 +16326,6 @@
     "wpm": [
         "golem",
         "roxygen2",
-        "shinyWidgets",
         "shinycustomloader",
         "shinydashboard"
     ],
@@ -17244,7 +17223,6 @@
         "dbplyr",
         "rtracklayer"
     ],
-    "shinyWidgets": [],
     "shinydashboardPlus": [
         "shinydashboard",
         "waiter"
@@ -17658,7 +17636,6 @@
         "readr",
         "readxl",
         "rio",
-        "shinyWidgets",
         "vroom"
     ],
     "pd.mapping50k.xba240": [
