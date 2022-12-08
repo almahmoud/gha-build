@@ -437,7 +437,6 @@
         "plotly",
         "radiant.data",
         "reactome.db",
-        "scatterpie",
         "testthat",
         "tidygraph",
         "tidytree",
@@ -826,7 +825,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -872,7 +870,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "scatterpie",
         "testthat",
         "tidygraph",
         "tidytree",
@@ -987,7 +984,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -1086,7 +1082,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -1218,7 +1213,6 @@
         "pbkrtest",
         "rstatix",
         "scater",
-        "scatterpie",
         "scran",
         "testthat",
         "tidygraph",
@@ -1554,7 +1548,6 @@
         "heatmaply",
         "pathview",
         "plotly",
-        "scatterpie",
         "sva",
         "tidygraph",
         "tidytree",
@@ -1869,7 +1862,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -1910,7 +1902,6 @@
         "geneplotter",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -1974,7 +1965,6 @@
         "aplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -1998,7 +1988,6 @@
         "pbkrtest",
         "pipeFrame",
         "rstatix",
-        "scatterpie",
         "testthat",
         "tidygraph",
         "tidytree",
@@ -2029,7 +2018,6 @@
         "ggraph",
         "ggtree",
         "plotly",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -2067,7 +2055,6 @@
         "ggraph",
         "ggtree",
         "reactome.db",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -2172,7 +2159,6 @@
         "ggtree",
         "motifmatchr",
         "pipeFrame",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -2264,7 +2250,6 @@
         "plotly",
         "rWikiPathways",
         "reactome.db",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -2288,7 +2273,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -2506,7 +2490,6 @@
         "pathview",
         "pbkrtest",
         "rstatix",
-        "scatterpie",
         "survminer",
         "testthat",
         "tidygraph",
@@ -2814,7 +2797,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -3189,7 +3171,6 @@
         "plotly",
         "rstatix",
         "scater",
-        "scatterpie",
         "scran",
         "testthat",
         "tidygraph",
@@ -3452,7 +3433,6 @@
         "ggraph",
         "ggtree",
         "pathview",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -3600,7 +3580,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -3669,7 +3648,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -3791,7 +3769,6 @@
         "minfi",
         "missMethyl",
         "reactome.db",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -3902,7 +3879,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -4007,7 +3983,6 @@
         "rqubic",
         "rstatix",
         "s4vd",
-        "scatterpie",
         "subspace",
         "testthat",
         "tidygraph",
@@ -4039,7 +4014,6 @@
         "reactome.db",
         "recipes",
         "rstatix",
-        "scatterpie",
         "testthat",
         "tidygraph",
         "tidytree",
@@ -4136,7 +4110,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -4344,7 +4317,6 @@
         "reactome.db",
         "recipes",
         "ropls",
-        "scatterpie",
         "testthat",
         "tidygraph",
         "tidytree",
@@ -4498,7 +4470,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -4816,7 +4787,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -4891,7 +4861,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -4972,7 +4941,6 @@
         "ggraph",
         "ggtree",
         "reactome.db",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -5112,7 +5080,6 @@
         "ggraph",
         "ggtree",
         "rGREAT",
-        "scatterpie",
         "soGGi",
         "tidygraph",
         "tidytree",
@@ -5391,7 +5358,6 @@
         "ggraph",
         "ggtree",
         "reactome.db",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -5722,7 +5688,6 @@
         "pathview",
         "pbkrtest",
         "rstatix",
-        "scatterpie",
         "sva",
         "systemPipeR",
         "testthat",
@@ -6046,7 +6011,6 @@
         "meshr",
         "plotly",
         "reactome.db",
-        "scatterpie",
         "schex",
         "tidygraph",
         "tidytree",
@@ -6086,7 +6050,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -6180,7 +6143,6 @@
         "ggraph",
         "ggtree",
         "reactome.db",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -6545,9 +6507,7 @@
         "modelr",
         "tidyverse"
     ],
-    "STdeconvolve": [
-        "scatterpie"
-    ],
+    "STdeconvolve": [],
     "stJoincount": [
         "Seurat",
         "SpatialExperiment",
@@ -6734,7 +6694,6 @@
         "plotly",
         "recipes",
         "rstatix",
-        "scatterpie",
         "sesame",
         "sesameData",
         "testthat",
@@ -6814,7 +6773,6 @@
         "ggraph",
         "ggtree",
         "rWikiPathways",
-        "scatterpie",
         "tidygraph",
         "tidytree",
         "treeio"
@@ -7389,7 +7347,6 @@
         "tidygraph"
     ],
     "aplot": [],
-    "scatterpie": [],
     "tidygraph": [],
     "rms": [],
     "synaptome.db": [
