@@ -550,7 +550,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "genotypeeval": [],
     "GenProSeq": [
         "DeepPINCS",
         "textstem",
