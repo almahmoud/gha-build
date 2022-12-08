@@ -1192,7 +1192,6 @@
     "DeepPINCS": [
         "DiagrammeR",
         "lexicon",
-        "syuzhet",
         "textclean",
         "textstem",
         "ttgsea"
@@ -1798,7 +1797,6 @@
     "fobitools": [
         "ggraph",
         "lexicon",
-        "syuzhet",
         "textclean",
         "tidygraph"
     ],
@@ -1988,7 +1986,6 @@
         "DeepPINCS",
         "DiagrammeR",
         "lexicon",
-        "syuzhet",
         "textclean",
         "textstem",
         "ttgsea"
@@ -5178,7 +5175,6 @@
     "ttgsea": [
         "DiagrammeR",
         "lexicon",
-        "syuzhet",
         "textclean",
         "textstem"
     ],
@@ -5227,7 +5223,6 @@
         "DeepPINCS",
         "DiagrammeR",
         "lexicon",
-        "syuzhet",
         "textclean",
         "textstem",
         "ttgsea"
@@ -5289,7 +5284,6 @@
         "ggraph",
         "lexicon",
         "msigdb",
-        "syuzhet",
         "textclean",
         "textstem",
         "tidygraph"
@@ -5658,17 +5652,12 @@
     ],
     "textstem": [
         "lexicon",
-        "syuzhet",
         "textclean"
     ],
-    "lexicon": [
-        "syuzhet"
-    ],
+    "lexicon": [],
     "textclean": [
-        "lexicon",
-        "syuzhet"
+        "lexicon"
     ],
-    "syuzhet": [],
     "VIM": [
         "car",
         "lme4",
