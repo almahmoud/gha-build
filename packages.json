@@ -194,7 +194,6 @@
     "cBioPortalData": [
         "RTCGAToolbox"
     ],
-    "cellHTS2": [],
     "cellmigRation": [
         "FactoMineR",
         "car",
@@ -776,9 +775,7 @@
         "lme4",
         "lmerTest"
     ],
-    "gespeR": [
-        "cellHTS2"
-    ],
+    "gespeR": [],
     "GEWIST": [
         "car",
         "lme4",
@@ -868,9 +865,7 @@
         "pcaExplorer"
     ],
     "igvR": [],
-    "imageHTS": [
-        "cellHTS2"
-    ],
+    "imageHTS": [],
     "IMAS": [
         "IVAS",
         "lme4"
@@ -1666,9 +1661,7 @@
         "recount"
     ],
     "RNAdecay": [],
-    "RNAinteract": [
-        "cellHTS2"
-    ],
+    "RNAinteract": [],
     "RNAmodR": [
         "Gviz",
         "biovizBase"
@@ -1900,9 +1893,7 @@
     "standR": [
         "RUVSeq"
     ],
-    "staRank": [
-        "cellHTS2"
-    ],
+    "staRank": [],
     "StarBioTrek": [],
     "Statial": [],
     "StructuralVariantAnnotation": [],
