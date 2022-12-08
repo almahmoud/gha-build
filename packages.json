@@ -969,7 +969,6 @@
         "GGally",
         "Hmisc",
         "plotly",
-        "shinycssloaders",
         "shinydashboard",
         "tidyr",
         "viridis"
@@ -1803,7 +1802,6 @@
     "cbpManager": [
         "rapportools",
         "shinyBS",
-        "shinycssloaders",
         "shinydashboard",
         "vroom"
     ],
@@ -2339,7 +2337,6 @@
         "scuttle",
         "shinyFiles",
         "shinyWidgets",
-        "shinycssloaders",
         "shinydashboard",
         "shinydashboardPlus",
         "shinyjs",
@@ -3266,7 +3263,6 @@
         "ggrepel",
         "highcharter",
         "readxl",
-        "shinycssloaders",
         "tidyr"
     ],
     "ctsGE": [],
@@ -4017,7 +4013,6 @@
         "plotly",
         "rvest",
         "shinyBS",
-        "shinycssloaders",
         "shinydashboard",
         "shinyjs",
         "tidyr",
@@ -5815,7 +5810,6 @@
         "patchwork",
         "plotly",
         "shinyWidgets",
-        "shinycssloaders",
         "shinyjs",
         "tidyr",
         "tippy",
@@ -7149,7 +7143,6 @@
         "rstatix",
         "shinyFeedback",
         "shinyFiles",
-        "shinycssloaders",
         "shinydashboard",
         "shinyjs",
         "testthat",
@@ -7501,7 +7494,6 @@
         "rematch2",
         "rstatix",
         "rtracklayer",
-        "shinycssloaders",
         "testthat",
         "tidyr",
         "viridis",
@@ -8780,7 +8772,6 @@
         "readr",
         "rematch2",
         "shinyWidgets",
-        "shinycssloaders",
         "shinydashboard",
         "shinyjs",
         "testthat",
@@ -10568,7 +10559,6 @@
         "rematch2",
         "rstatix",
         "shinyWidgets",
-        "shinycssloaders",
         "shinyjs",
         "shinythemes",
         "survMisc",
@@ -11009,7 +10999,6 @@
     ],
     "peakPantheR": [
         "MSnbase",
-        "shinycssloaders",
         "vsn"
     ],
     "PECA": [
@@ -11662,7 +11651,6 @@
         "broom",
         "highcharter",
         "shinyBS",
-        "shinycssloaders",
         "shinyjqui",
         "shinyjs",
         "shinythemes",
@@ -13016,8 +13004,7 @@
     ],
     "rprimer": [
         "patchwork",
-        "shinyFeedback",
-        "shinycssloaders"
+        "shinyFeedback"
     ],
     "rpx": [
         "BiocFileCache",
@@ -13234,7 +13221,6 @@
         "ggdendro",
         "plotly",
         "shinyWidgets",
-        "shinycssloaders",
         "shinydashboard",
         "shinyjs",
         "tidyr"
@@ -13297,7 +13283,6 @@
         "rtracklayer",
         "scanMiR",
         "scanMiRData",
-        "shinycssloaders",
         "shinydashboard",
         "shinyjqui",
         "tidyr",
@@ -13974,7 +13959,6 @@
         "readr",
         "rtracklayer",
         "shinyWidgets",
-        "shinycssloaders",
         "shinyjs",
         "shinythemes",
         "tidyr",
@@ -14090,7 +14074,6 @@
         "rstatix",
         "rtracklayer",
         "shinyWidgets",
-        "shinycssloaders",
         "shinydashboard",
         "survMisc",
         "survivalAnalysis",
@@ -14276,7 +14259,6 @@
         "scran",
         "sctransform",
         "scuttle",
-        "shinycssloaders",
         "shinyjs",
         "sva",
         "tidyr",
@@ -14504,7 +14486,6 @@
         "ggrepel",
         "readr",
         "shinyWidgets",
-        "shinycssloaders",
         "shinyjs",
         "tidyr",
         "vroom"
@@ -16014,7 +15995,6 @@
         "rtracklayer",
         "shinyBS",
         "shinyWidgets",
-        "shinycssloaders",
         "shinyjs",
         "viridis"
     ],
@@ -16074,8 +16054,7 @@
         "BSgenome",
         "GenomicAlignments",
         "rtracklayer",
-        "shinyFiles",
-        "shinycssloaders"
+        "shinyFiles"
     ],
     "variancePartition": [
         "broom",
@@ -16931,7 +16910,6 @@
         "tidyr",
         "vroom"
     ],
-    "shinycssloaders": [],
     "ggforce": [],
     "radiant.data": [
         "broom",
