@@ -3896,7 +3896,6 @@
     ],
     "combi": [
         "SummarizedExperiment",
-        "cobs",
         "ggplot2",
         "phyloseq",
         "reshape2"
@@ -6967,7 +6966,6 @@
         "SGSeq",
         "SummarizedExperiment",
         "biomaRt",
-        "cobs",
         "cowplot",
         "dbplyr",
         "dplyr",
@@ -24346,7 +24344,6 @@
     "benchmarkmeData": [
         "dplyr"
     ],
-    "cobs": [],
     "rio": [
         "cellranger",
         "forcats",
