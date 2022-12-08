@@ -1589,7 +1589,6 @@
     "spicyR": [
         "lmerTest"
     ],
-    "SpliceWiz": [],
     "SPLINTER": [
         "Gviz",
         "biovizBase"
