@@ -7733,7 +7733,6 @@
         "DataVisualizations",
         "FCPS",
         "SummarizedExperiment",
-        "analogue",
         "broom",
         "car",
         "cowplot",
@@ -24771,7 +24770,6 @@
         "ggplot2",
         "reshape2"
     ],
-    "analogue": [],
     "DataVisualizations": [
         "ggplot2",
         "reshape2"
