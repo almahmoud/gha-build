@@ -1050,7 +1050,6 @@
         "nloptr",
         "testthat"
     ],
-    "COMPASS": [],
     "compEpiTools": [
         "GenomicFeatures",
         "Gviz",
