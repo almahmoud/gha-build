@@ -8794,7 +8794,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
-        "HTSCluster",
         "HTSFilter",
         "KEGGREST",
         "RSQLite",
@@ -49489,7 +49488,6 @@
         "vctrs"
     ],
     "Rmixmod": [],
-    "HTSCluster": [],
     "compositions": [],
     "faahKO": [
         "BiocParallel",
