@@ -45432,7 +45432,6 @@
         "progress",
         "raster",
         "reshape2",
-        "rgdal",
         "rhdf5",
         "sass",
         "scales",
@@ -58697,7 +58696,6 @@
         "miniUI",
         "pillar",
         "raster",
-        "rgdal",
         "sass",
         "scales",
         "shiny",
@@ -58709,7 +58707,6 @@
     "elsa": [
         "raster"
     ],
-    "rgdal": [],
     "miRNAtap.db": [
         "AnnotationDbi",
         "Biostrings",
