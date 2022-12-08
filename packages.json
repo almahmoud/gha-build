@@ -9847,7 +9847,6 @@
         "rtracklayer",
         "tidyr"
     ],
-    "seqcombo": [],
     "SeqGSEA": [
         "BiocFileCache",
         "DESeq2",
