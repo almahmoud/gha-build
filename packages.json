@@ -7697,7 +7697,6 @@
         "reactome.db",
         "readr",
         "readxl",
-        "rearrr",
         "recipes",
         "reprex",
         "rqubic",
@@ -7760,7 +7759,6 @@
         "reactome.db",
         "readr",
         "readxl",
-        "rearrr",
         "recipes",
         "reprex",
         "rstatix",
@@ -12470,7 +12468,6 @@
         "pbkrtest",
         "readr",
         "readxl",
-        "rearrr",
         "recipes",
         "reprex",
         "rstatix",
@@ -15051,17 +15048,14 @@
         "ipred",
         "lme4",
         "nloptr",
-        "rearrr",
         "recipes",
         "testthat",
         "tidyr",
         "waldo"
     ],
     "groupdata2": [
-        "rearrr",
         "tidyr"
     ],
-    "rearrr": [],
     "echarts4r": [
         "broom",
         "tidyr"
