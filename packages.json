@@ -6,13 +6,11 @@
         "rstatix"
     ],
     "affycoretools": [
-        "ReportingTools",
-        "ggbio"
+        "ReportingTools"
     ],
     "AgiMicroRna": [
         "ReportingTools",
-        "affycoretools",
-        "ggbio"
+        "affycoretools"
     ],
     "AllelicImbalance": [],
     "ANCOMBC": [
@@ -71,27 +69,20 @@
     "blacksheepr": [
         "pasilla"
     ],
-    "BOBaFIT": [
-        "ggbio"
-    ],
+    "BOBaFIT": [],
     "borealis": [
         "DSS"
     ],
     "brainflowprobes": [
         "GenomicState",
         "derfinder",
-        "derfinderPlot",
-        "ggbio"
+        "derfinderPlot"
     ],
-    "CAFE": [
-        "ggbio"
-    ],
+    "CAFE": [],
     "CAGEfightR": [
         "GenomicInteractions"
     ],
-    "cageminer": [
-        "ggbio"
-    ],
+    "cageminer": [],
     "CancerInSilico": [],
     "CATALYST": [
         "FlowSOM",
@@ -250,8 +241,7 @@
     ],
     "derfinder": [],
     "derfinderPlot": [
-        "derfinder",
-        "ggbio"
+        "derfinder"
     ],
     "destiny": [
         "VIM",
@@ -364,9 +354,7 @@
         "lumi",
         "methylumi"
     ],
-    "FLAMES": [
-        "ggbio"
-    ],
+    "FLAMES": [],
     "flowCL": [
         "SPARQL"
     ],
@@ -433,9 +421,7 @@
     ],
     "GeneStructureTools": [],
     "GenomicInteractions": [],
-    "GenomicOZone": [
-        "ggbio"
-    ],
+    "GenomicOZone": [],
     "GenomicSuperSignature": [
         "car",
         "ggpubr",
@@ -466,7 +452,6 @@
         "car",
         "pbkrtest"
     ],
-    "ggbio": [],
     "ggtreeDendro": [],
     "glmSparseNet": [
         "car",
@@ -511,9 +496,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "intansv": [
-        "ggbio"
-    ],
+    "intansv": [],
     "InterCellar": [
         "FactoMineR",
         "car",
@@ -743,9 +726,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "msgbsR": [
-        "ggbio"
-    ],
+    "msgbsR": [],
     "MSPrep": [
         "VIM",
         "car",
@@ -964,9 +945,7 @@
     "qrqc": [],
     "quantro": [],
     "QuasR": [],
-    "R3CPET": [
-        "ggbio"
-    ],
+    "R3CPET": [],
     "ReactomePA": [],
     "recount": [
         "derfinder"
@@ -979,9 +958,7 @@
     ],
     "regutools": [],
     "REMP": [],
-    "ReportingTools": [
-        "ggbio"
-    ],
+    "ReportingTools": [],
     "rexposome": [
         "FactoMineR",
         "car",
@@ -990,9 +967,7 @@
     "rfaRm": [],
     "rgsepd": [],
     "RiboCrypt": [],
-    "RiboProfiling": [
-        "ggbio"
-    ],
+    "RiboProfiling": [],
     "ribosomeProfilingQC": [],
     "rifi": [
         "car",
@@ -1071,9 +1046,7 @@
     "scRecover": [
         "Rmagic"
     ],
-    "scruff": [
-        "ggbio"
-    ],
+    "scruff": [],
     "scTensor": [
         "ReactomePA"
     ],
@@ -1124,9 +1097,7 @@
     "sojourner": [
         "sampSurf"
     ],
-    "SomaticSignatures": [
-        "ggbio"
-    ],
+    "SomaticSignatures": [],
     "SpatialDecon": [
         "GeomxTools",
         "lmerTest"
@@ -1247,8 +1218,7 @@
     ],
     "Xeva": [],
     "YAPSA": [
-        "SomaticSignatures",
-        "ggbio"
+        "SomaticSignatures"
     ],
     "yarn": [
         "quantro"
