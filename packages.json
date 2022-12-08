@@ -20020,7 +20020,6 @@
         "RSQLite",
         "XVector",
         "blob",
-        "clusterSim",
         "multtest",
         "reactome.db",
         "vctrs"
@@ -20283,7 +20282,6 @@
         "WGCNA",
         "XVector",
         "blob",
-        "clusterSim",
         "ggplot2",
         "htmlTable",
         "knitr",
@@ -45913,7 +45911,6 @@
         "vctrs",
         "vroom"
     ],
-    "clusterSim": [],
     "PairedData": [
         "ggplot2",
         "gld",
