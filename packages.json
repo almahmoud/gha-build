@@ -27463,9 +27463,7 @@
         "vctrs",
         "viridis"
     ],
-    "PANR": [
-        "RedeR"
-    ],
+    "PANR": [],
     "PanViz": [
         "dplyr",
         "pillar",
@@ -31073,7 +31071,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "RedeR": [],
     "RedisParam": [
         "BiocParallel"
     ],
@@ -33172,7 +33169,6 @@
     "RTN": [
         "DelayedArray",
         "GenomicRanges",
-        "RedeR",
         "SummarizedExperiment",
         "XVector",
         "broom",
@@ -33203,7 +33199,6 @@
         "DelayedArray",
         "GenomicRanges",
         "RTN",
-        "RedeR",
         "SummarizedExperiment",
         "XVector",
         "broom",
@@ -33235,7 +33230,6 @@
         "GenomicRanges",
         "RTN",
         "RTNduals",
-        "RedeR",
         "SummarizedExperiment",
         "XVector",
         "broom",
@@ -40005,7 +39999,6 @@
         "GO.db",
         "KEGGREST",
         "RSQLite",
-        "RedeR",
         "XVector",
         "biomaRt",
         "blob",
@@ -40183,9 +40176,7 @@
         "vctrs",
         "viridis"
     ],
-    "TreeAndLeaf": [
-        "RedeR"
-    ],
+    "TreeAndLeaf": [],
     "treeio": [
         "dplyr",
         "pillar",
