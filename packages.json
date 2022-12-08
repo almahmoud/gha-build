@@ -7859,7 +7859,6 @@
     "gcrma": [],
     "GCSscore": [
         "devtools",
-        "dplR",
         "knitr",
         "miniUI",
         "pkgdown",
@@ -24745,7 +24744,6 @@
         "ggplot2",
         "reshape2"
     ],
-    "dplR": [],
     "survminer": [
         "broom",
         "car",
