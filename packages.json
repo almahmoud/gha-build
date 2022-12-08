@@ -510,7 +510,6 @@
         "dendextend",
         "genefilter",
         "ggalluvial",
-        "ggvis",
         "mixtools",
         "pRoloc",
         "pRolocdata",
@@ -549,7 +548,6 @@
         "annotate",
         "dendextend",
         "genefilter",
-        "ggvis",
         "heatmaply",
         "plotly",
         "sva"
@@ -5997,7 +5995,6 @@
         "ggpubr",
         "ggraph",
         "ggtree",
-        "ggvis",
         "googlesheets4",
         "graphite",
         "groupdata2",
@@ -6113,8 +6110,7 @@
     "mixOmics": [],
     "MLInterfaces": [
         "annotate",
-        "genefilter",
-        "ggvis"
+        "genefilter"
     ],
     "MLP": [],
     "MLSeq": [
@@ -7655,7 +7651,6 @@
         "caret",
         "dendextend",
         "genefilter",
-        "ggvis",
         "mixtools",
         "plotly",
         "recipes"
@@ -7670,7 +7665,6 @@
         "colourpicker",
         "dendextend",
         "genefilter",
-        "ggvis",
         "mixtools",
         "pRoloc",
         "plotly",
@@ -9201,8 +9195,7 @@
     "SigCheck": [
         "MLInterfaces",
         "annotate",
-        "genefilter",
-        "ggvis"
+        "genefilter"
     ],
     "sights": [],
     "signatureSearch": [
@@ -11010,7 +11003,6 @@
         "MSnbase"
     ],
     "dendextend": [],
-    "ggvis": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "rtracklayer"
@@ -11606,9 +11598,7 @@
         "biclust",
         "dendextend"
     ],
-    "subspace": [
-        "ggvis"
-    ],
+    "subspace": [],
     "SOMbrero": [],
     "cvms": [
         "groupdata2",
