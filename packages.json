@@ -3321,9 +3321,7 @@
         "caret",
         "minfi"
     ],
-    "Repitools": [
-        "Ringo"
-    ],
+    "Repitools": [],
     "ReportingTools": [
         "Category",
         "DESeq2",
@@ -3390,7 +3388,6 @@
         "pbkrtest",
         "testthat"
     ],
-    "Ringo": [],
     "RIPAT": [
         "VariantAnnotation",
         "biovizBase",
@@ -3783,9 +3780,7 @@
         "VariantAnnotation"
     ],
     "SIM": [],
-    "SimBindProfiles": [
-        "Ringo"
-    ],
+    "SimBindProfiles": [],
     "simpleSeg": [
         "SpatialExperiment",
         "cytomapper"
