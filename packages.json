@@ -2376,7 +2376,6 @@
         "VariantAnnotation",
         "car",
         "decompTumor2Sig",
-        "deconstructSigs",
         "factoextra",
         "ggpubr",
         "lme4",
@@ -4068,7 +4067,6 @@
         "lme4",
         "nloptr"
     ],
-    "deconstructSigs": [],
     "mppa": [],
     "RcmdrMisc": [
         "car",
