@@ -16069,7 +16069,6 @@
         "RcppEigen",
         "Rgraphviz",
         "S4Vectors",
-        "SamSPECTRAL",
         "SparseM",
         "TH.data",
         "changepoint",
@@ -19716,7 +19715,6 @@
         "RcppEigen",
         "Rgraphviz",
         "S4Vectors",
-        "SamSPECTRAL",
         "SparseM",
         "XML",
         "brio",
@@ -70325,7 +70323,6 @@
         "vctrs",
         "viridisLite"
     ],
-    "SamSPECTRAL": [],
     "sangeranalyseR": [
         "BiocStyle",
         "Biostrings",
