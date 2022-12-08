@@ -575,7 +575,6 @@
     "CONFESS": [],
     "consensusDE": [
         "DESeq2",
-        "EDASeq",
         "EnsDb.Hsapiens.v86",
         "RUVSeq",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
@@ -702,7 +701,6 @@
     ],
     "DaMiRseq": [
         "DESeq2",
-        "EDASeq",
         "FactoMineR",
         "arm",
         "car",
@@ -891,7 +889,6 @@
         "DESeq2"
     ],
     "EBSeqHMM": [],
-    "EDASeq": [],
     "edge": [
         "lme4",
         "snm"
@@ -1186,7 +1183,6 @@
     "GARS": [
         "DESeq2",
         "DaMiRseq",
-        "EDASeq",
         "FactoMineR",
         "MLSeq",
         "arm",
@@ -1796,8 +1792,7 @@
     ],
     "metaseqR2": [
         "DESeq2",
-        "DSS",
-        "EDASeq"
+        "DSS"
     ],
     "metavizr": [
         "ensembldb",
@@ -2227,7 +2222,6 @@
     ],
     "octad": [
         "DESeq2",
-        "EDASeq",
         "GSVA",
         "RUVSeq",
         "octad.db"
@@ -2686,7 +2680,6 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "motifStack"
     ],
@@ -2832,9 +2825,7 @@
         "pbkrtest",
         "viper"
     ],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "sampleClassifier": [],
     "SBGNview": [],
     "scAlign": [],
@@ -2876,7 +2867,6 @@
     ],
     "scmeth": [],
     "scone": [
-        "EDASeq",
         "RUVSeq"
     ],
     "SCOPE": [],
@@ -3124,7 +3114,6 @@
         "ensembldb"
     ],
     "standR": [
-        "EDASeq",
         "RUVSeq"
     ],
     "staRank": [
