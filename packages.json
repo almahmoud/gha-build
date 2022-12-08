@@ -59232,7 +59232,6 @@
         "plyr",
         "reshape2",
         "scales",
-        "seqTools",
         "stringr",
         "tibble",
         "tidyselect",
@@ -70052,7 +70051,6 @@
         "urltools",
         "vctrs"
     ],
-    "seqTools": [],
     "SeqVarTools": [
         "Biobase",
         "Biostrings",
