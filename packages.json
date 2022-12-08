@@ -1828,7 +1828,6 @@
     "FEAST": [
         "TSCAN"
     ],
-    "fedup": [],
     "ffpe": [
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
