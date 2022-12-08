@@ -3610,7 +3610,6 @@
         "EBSeq",
         "testthat"
     ],
-    "OTUbase": [],
     "OUTRIDER": [
         "DESeq2",
         "GenomicFeatures",
