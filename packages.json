@@ -14,9 +14,7 @@
         "snapCGH",
         "tilingArray"
     ],
-    "ADAM": [],
     "ADAMgui": [
-        "ADAM",
         "broom",
         "car",
         "ggpubr",
