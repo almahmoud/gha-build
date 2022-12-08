@@ -2183,7 +2183,6 @@
         "ggplot2",
         "ggrastr",
         "ggrepel",
-        "maxLik",
         "pheatmap",
         "pillar",
         "ragg",
@@ -9754,8 +9753,7 @@
     ],
     "DEsingle": [
         "BiocParallel",
-        "gamlss",
-        "maxLik"
+        "gamlss"
     ],
     "destiny": [
         "GenomicRanges",
@@ -14017,7 +14015,6 @@
         "hms",
         "knitr",
         "lme4",
-        "maxLik",
         "nloptr",
         "pbkrtest",
         "pillar",
@@ -17932,7 +17929,6 @@
         "gson",
         "knitr",
         "lme4",
-        "maxLik",
         "miniUI",
         "mixtools",
         "nloptr",
@@ -42073,10 +42069,7 @@
         "tibble",
         "vctrs"
     ],
-    "DirichletReg": [
-        "maxLik"
-    ],
-    "maxLik": [],
+    "DirichletReg": [],
     "corncob": [
         "Biostrings",
         "Rcgmin",
