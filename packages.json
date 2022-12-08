@@ -1032,7 +1032,6 @@
     "GenomicFiles": [
         "VariantAnnotation"
     ],
-    "genomicInstability": [],
     "GenomicInteractions": [
         "Gviz",
         "VariantAnnotation",
