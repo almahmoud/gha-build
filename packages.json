@@ -1038,7 +1038,6 @@
         "scatterpie",
         "shadowtext",
         "shinyFiles",
-        "shinythemes",
         "testthat",
         "tidygraph",
         "tidyr",
@@ -2116,7 +2115,6 @@
         "readr",
         "rtracklayer",
         "ruv",
-        "shinythemes",
         "sva",
         "tidyr",
         "viridis",
@@ -5555,7 +5553,6 @@
         "dbplyr",
         "rtracklayer",
         "shinyjs",
-        "shinythemes",
         "tidyr"
     ],
     "gage": [
@@ -7506,7 +7503,6 @@
         "shinyFiles",
         "shinydashboard",
         "shinyjs",
-        "shinythemes",
         "sortable",
         "tidyr",
         "vroom"
@@ -10538,7 +10534,6 @@
         "rematch2",
         "rstatix",
         "shinyjs",
-        "shinythemes",
         "survMisc",
         "survminer",
         "testthat",
@@ -11301,7 +11296,6 @@
         "rematch2",
         "rstatix",
         "shinyjs",
-        "shinythemes",
         "testthat",
         "tidyr",
         "viridis",
@@ -11626,7 +11620,6 @@
         "shinyBS",
         "shinyjqui",
         "shinyjs",
-        "shinythemes",
         "tidyr",
         "vsn"
     ],
@@ -13921,7 +13914,6 @@
         "readr",
         "rtracklayer",
         "shinyjs",
-        "shinythemes",
         "tidyr",
         "viridis",
         "vroom"
@@ -16058,7 +16050,6 @@
         "rtracklayer",
         "shinyTree",
         "shinyjs",
-        "shinythemes",
         "viridis"
     ],
     "VariantTools": [
@@ -16881,7 +16872,6 @@
         "vroom",
         "waldo"
     ],
-    "shinythemes": [],
     "org.Bt.eg.db": [
         "AnnotationDbi"
     ],
