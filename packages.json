@@ -600,7 +600,6 @@
         "rstatix",
         "survminer"
     ],
-    "gmapR": [],
     "GmicR": [],
     "goSorensen": [
         "clusterProfiler",
@@ -631,8 +630,7 @@
         "Gviz"
     ],
     "HTSeqGenie": [
-        "VariantTools",
-        "gmapR"
+        "VariantTools"
     ],
     "HTSFilter": [],
     "icetea": [],
