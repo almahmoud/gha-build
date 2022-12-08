@@ -3788,8 +3788,7 @@
     "tLOH": [
         "VariantAnnotation",
         "bestNormalize",
-        "naniar",
-        "visdat"
+        "naniar"
     ],
     "TNBC.CMS": [
         "GSVA",
@@ -4326,10 +4325,7 @@
     ],
     "GenKern": [],
     "bestNormalize": [],
-    "naniar": [
-        "visdat"
-    ],
-    "visdat": [],
+    "naniar": [],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [],
     "kmlShape": [],
