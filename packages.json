@@ -1548,7 +1548,6 @@
     "pageRank": [
         "motifmatchr"
     ],
-    "PAIRADISE": [],
     "PanomiR": [
         "clusterProfiler",
         "enrichplot",
