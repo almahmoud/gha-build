@@ -41,7 +41,6 @@
         "lmerTest"
     ],
     "bigmelon": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "lumi",
         "methylumi",
         "wateRmelon"
@@ -109,7 +108,6 @@
     "ChAMP": [
         "DMRcate",
         "DSS",
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "lumi",
         "methylumi",
@@ -153,7 +151,6 @@
     ],
     "contiBAIT": [],
     "conumee": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
     ],
     "CopyNumberPlots": [],
@@ -230,7 +227,6 @@
     "DMCFB": [],
     "DMRcate": [
         "DSS",
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "methylumi",
         "missMethyl"
@@ -286,7 +282,6 @@
         "ReactomePA"
     ],
     "epimutacions": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
     ],
     "erma": [],
@@ -339,9 +334,7 @@
         "NHPoisson",
         "car"
     ],
-    "funtooNorm": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19"
-    ],
+    "funtooNorm": [],
     "FuseSOM": [
         "car",
         "ggpubr",
@@ -513,13 +506,11 @@
     ],
     "mCSEA": [],
     "MEAL": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "methylumi",
         "missMethyl"
     ],
     "MEAT": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "lumi",
         "methylumi",
         "wateRmelon"
@@ -556,8 +547,7 @@
     ],
     "MethylAid": [],
     "methylCC": [
-        "FlowSorted.Blood.450k",
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19"
+        "FlowSorted.Blood.450k"
     ],
     "methylclock": [
         "car",
@@ -566,7 +556,6 @@
         "rstatix"
     ],
     "methylGSA": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "clusterProfiler",
         "methylumi",
@@ -614,7 +603,6 @@
         "rstatix"
     ],
     "missMethyl": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "methylumi"
     ],
@@ -952,7 +940,6 @@
     ],
     "sitePath": [],
     "skewr": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "lumi",
         "methylumi",
         "wateRmelon"
@@ -1067,7 +1054,6 @@
     "vulcan": [],
     "waddR": [],
     "wateRmelon": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "lumi",
         "methylumi"
     ],
@@ -1093,7 +1079,6 @@
     "lmerTest": [],
     "mGSZ": [],
     "doBy": [],
-    "IlluminaHumanMethylation450kanno.ilmn12.hg19": [],
     "radiant.data": [
         "car"
     ],
