@@ -49028,7 +49028,6 @@
         "Matrix",
         "RcppEigen",
         "StanHeaders",
-        "arrayhelpers",
         "benchmarkme",
         "benchmarkmeData",
         "callr",
@@ -81085,7 +81084,6 @@
     "evmix": [],
     "tidybayes": [
         "Matrix",
-        "arrayhelpers",
         "distributional",
         "dplyr",
         "ellipsis",
@@ -81115,7 +81113,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "arrayhelpers": [],
     "posterior": [
         "Matrix",
         "distributional",
