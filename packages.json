@@ -523,7 +523,6 @@
         "drc",
         "pbkrtest"
     ],
-    "GSReg": [],
     "Gviz": [],
     "HiCDCPlus": [
         "GenomicInteractions",
