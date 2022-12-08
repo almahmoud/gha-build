@@ -165,7 +165,6 @@
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
-    "ballgown": [],
     "bambu": [],
     "bandle": [
         "caret",
@@ -3083,7 +3082,6 @@
         "DESeq2",
         "DOSE",
         "FactoMineR",
-        "ballgown",
         "car",
         "clusterProfiler",
         "enrichplot",
@@ -3761,9 +3759,7 @@
     "VariantTools": [
         "VariantAnnotation"
     ],
-    "VaSP": [
-        "ballgown"
-    ],
+    "VaSP": [],
     "VCFArray": [
         "GenomicFiles",
         "VariantAnnotation"
