@@ -19283,7 +19283,6 @@
         "selectr",
         "stopwords",
         "stringr",
-        "sylly.en",
         "syuzhet",
         "tensorflow",
         "text2vec",
@@ -30186,7 +30185,6 @@
         "selectr",
         "stopwords",
         "stringr",
-        "sylly.en",
         "syuzhet",
         "tensorflow",
         "text2vec",
@@ -80326,7 +80324,6 @@
         "scales",
         "stopwords",
         "stringr",
-        "sylly.en",
         "syuzhet",
         "tensorflow",
         "text2vec",
@@ -81055,7 +81052,6 @@
         "sparseMatrixStats",
         "stopwords",
         "stringr",
-        "sylly.en",
         "systemfonts",
         "syuzhet",
         "tensorflow",
@@ -81922,7 +81918,6 @@
         "shiny",
         "stopwords",
         "stringr",
-        "sylly.en",
         "systemfonts",
         "syuzhet",
         "textclean",
@@ -90444,7 +90439,6 @@
         "qdapRegex",
         "quanteda",
         "stopwords",
-        "sylly.en",
         "syuzhet",
         "textclean",
         "textshape",
@@ -90466,8 +90460,7 @@
     ],
     "koRpus.lang.en": [
         "Matrix",
-        "koRpus",
-        "sylly.en"
+        "koRpus"
     ],
     "koRpus": [
         "Matrix"
@@ -90508,7 +90501,6 @@
         "zoo"
     ],
     "textshape": [],
-    "sylly.en": [],
     "syuzhet": [
         "dplyr",
         "ellipsis",
