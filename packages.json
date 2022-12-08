@@ -95,7 +95,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "ASSIGN": [],
     "ATACCoGAPS": [
         "Homo.sapiens",
         "Mus.musculus",
@@ -2938,7 +2937,6 @@
         "rstatix"
     ],
     "TBSignatureProfiler": [
-        "ASSIGN",
         "DESeq2",
         "singscore"
     ],
