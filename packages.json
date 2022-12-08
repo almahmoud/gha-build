@@ -1046,7 +1046,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "phantasus": [],
     "PhenStat": [
         "car",
         "pbkrtest"
