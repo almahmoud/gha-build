@@ -12135,7 +12135,6 @@
         "flowViz",
         "flowWorkspace",
         "forcats",
-        "geometry",
         "ggplot2",
         "gplots",
         "hms",
@@ -12975,7 +12974,6 @@
         "doParallel",
         "dplyr",
         "futile.logger",
-        "geometry",
         "ggplot2",
         "hms",
         "mgcv",
@@ -36334,7 +36332,6 @@
         "e1071",
         "forcats",
         "fpc",
-        "geometry",
         "ggplot2",
         "glmnet",
         "hardhat",
@@ -62361,7 +62358,6 @@
     ],
     "mrfDepth": [
         "RcppEigen",
-        "geometry",
         "ggplot2",
         "mgcv",
         "pillar",
@@ -62384,7 +62380,6 @@
         "vctrs",
         "viridis"
     ],
-    "geometry": [],
     "GEOmap": [
         "fields",
         "ggplot2",
@@ -64826,9 +64821,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "pdfCluster": [
-        "geometry"
-    ],
+    "pdfCluster": [],
     "diceR": [
         "NMF",
         "R.cache",
