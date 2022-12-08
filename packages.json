@@ -4329,8 +4329,7 @@
         "topGO",
         "vctrs",
         "vioplot",
-        "viridis",
-        "xlsx"
+        "viridis"
     ],
     "BioMVCClass": [
         "Rgraphviz"
@@ -57470,7 +57469,6 @@
         "stringr",
         "vctrs"
     ],
-    "xlsx": [],
     "multcomp": [
         "TH.data",
         "sandwich",
