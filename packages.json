@@ -3685,7 +3685,6 @@
         "epiNEM",
         "genefilter",
         "ggdendro",
-        "ggm",
         "ggplot2",
         "knitr",
         "latex2exp",
@@ -9150,7 +9149,6 @@
         "gargle",
         "ggdendro",
         "ggforce",
-        "ggm",
         "ggplot2",
         "ggraph",
         "ggrepel",
@@ -12115,7 +12113,6 @@
         "BoolNet",
         "Linnorm",
         "ggdendro",
-        "ggm",
         "ggplot2",
         "latex2exp",
         "latticeExtra",
@@ -22688,7 +22685,6 @@
         "dbplyr",
         "dplyr",
         "genefilter",
-        "ggm",
         "ggplot2",
         "glmnet",
         "hms",
@@ -25295,7 +25291,6 @@
         "Linnorm",
         "epiNEM",
         "ggdendro",
-        "ggm",
         "ggplot2",
         "latex2exp",
         "latticeExtra",
@@ -25423,7 +25418,6 @@
     "nethet": [
         "ICS",
         "ICSNP",
-        "ggm",
         "ggplot2",
         "glmnet",
         "huge",
@@ -43615,10 +43609,7 @@
         "vctrs"
     ],
     "BoolNet": [],
-    "pcalg": [
-        "ggm"
-    ],
-    "ggm": [],
+    "pcalg": [],
     "gamlss": [],
     "GenomicState": [
         "AnnotationDbi",
