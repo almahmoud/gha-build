@@ -6242,7 +6242,6 @@
     "Maaslin2": [
         "broom",
         "car",
-        "cplm",
         "glmmTMB",
         "lme4",
         "lmerTest",
@@ -6259,7 +6258,6 @@
         "WGCNA",
         "broom",
         "car",
-        "cplm",
         "glmmTMB",
         "lme4",
         "lmerTest",
@@ -7504,7 +7502,6 @@
         "Maaslin2",
         "broom",
         "car",
-        "cplm",
         "glmmTMB",
         "lme4",
         "lmerTest",
@@ -14180,7 +14177,6 @@
         "testthat",
         "waldo"
     ],
-    "cplm": [],
     "bigstatsr": [],
     "depmap": [
         "AnnotationHub",
