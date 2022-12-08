@@ -10792,7 +10792,6 @@
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "dplyr",
-        "rols",
         "struct",
         "tidyr"
     ],
@@ -16927,7 +16926,6 @@
         "ggplot2",
         "qvalue"
     ],
-    "rols": [],
     "ROntoTools": [
         "KEGGREST"
     ],
@@ -19522,15 +19520,13 @@
         "sqldf"
     ],
     "struct": [
-        "SummarizedExperiment",
-        "rols"
+        "SummarizedExperiment"
     ],
     "Structstrings": [],
     "structToolbox": [
         "SummarizedExperiment",
         "ggplot2",
         "ggthemes",
-        "rols",
         "struct"
     ],
     "StructuralVariantAnnotation": [
