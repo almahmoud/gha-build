@@ -883,8 +883,7 @@
         "pbkrtest"
     ],
     "DEsubs": [
-        "DESeq2",
-        "EBSeq"
+        "DESeq2"
     ],
     "DEWSeq": [
         "DESeq2"
@@ -992,10 +991,7 @@
     "EBSEA": [
         "DESeq2"
     ],
-    "EBSeq": [],
-    "EBSeqHMM": [
-        "EBSeq"
-    ],
+    "EBSeqHMM": [],
     "EDASeq": [],
     "edge": [
         "lme4",
@@ -2589,9 +2585,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "Oscope": [
-        "EBSeq"
-    ],
+    "Oscope": [],
     "OUTRIDER": [
         "DESeq2"
     ],
@@ -3194,13 +3188,11 @@
     "scDataviz": [],
     "scDblFinder": [],
     "scDD": [
-        "EBSeq",
         "arm",
         "lme4",
         "nloptr"
     ],
     "scDDboost": [
-        "EBSeq",
         "Oscope"
     ],
     "scGPS": [
