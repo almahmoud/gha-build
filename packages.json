@@ -2225,7 +2225,6 @@
         "assertive.data.us",
         "assertive.datetimes",
         "assertive.strings",
-        "assertive.types",
         "blob",
         "cellranger",
         "dbplyr",
@@ -5908,7 +5907,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "assertive.types",
         "beachmat",
         "bluster",
         "doParallel",
@@ -29483,7 +29481,6 @@
         "assertive.data.us",
         "assertive.datetimes",
         "assertive.strings",
-        "assertive.types",
         "bamsignals",
         "biomaRt",
         "biovizBase",
@@ -43317,7 +43314,6 @@
         "XVector",
         "annotate",
         "aplot",
-        "assertive.types",
         "babelgene",
         "batchelor",
         "bbmle",
@@ -52000,33 +51996,22 @@
         "assertive.data.us",
         "assertive.datetimes",
         "assertive.strings",
-        "assertive.types",
         "knitr",
         "stringr",
         "vctrs"
     ],
-    "assertive.types": [],
-    "assertive.strings": [
-        "assertive.types"
-    ],
-    "assertive.datetimes": [
-        "assertive.types"
-    ],
+    "assertive.strings": [],
+    "assertive.datetimes": [],
     "assertive.data": [
-        "assertive.strings",
-        "assertive.types"
+        "assertive.strings"
     ],
     "assertive.data.uk": [
-        "assertive.strings",
-        "assertive.types"
+        "assertive.strings"
     ],
     "assertive.data.us": [
-        "assertive.strings",
-        "assertive.types"
+        "assertive.strings"
     ],
-    "assertive.code": [
-        "assertive.types"
-    ],
+    "assertive.code": [],
     "doBy": [
         "broom",
         "callr",
@@ -53112,7 +53097,6 @@
     ],
     "MCMCprecision": [],
     "multipanelfigure": [
-        "assertive.types",
         "ggplot2",
         "mgcv",
         "pillar",
