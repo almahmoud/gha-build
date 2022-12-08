@@ -6525,8 +6525,7 @@
         "geepack",
         "ggformula",
         "haven",
-        "labelled",
-        "mosaicCore"
+        "labelled"
     ],
     "STAN": [
         "GenomicFeatures",
@@ -7924,15 +7923,12 @@
         "geepack",
         "ggformula",
         "haven",
-        "labelled",
-        "mosaicCore"
+        "labelled"
     ],
     "ggformula": [
         "haven",
-        "labelled",
-        "mosaicCore"
+        "labelled"
     ],
-    "mosaicCore": [],
     "rsample": [],
     "SpatialExtremes": [],
     "GenKern": [],
