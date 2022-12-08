@@ -1570,7 +1570,6 @@
     "HiContacts": [
         "GenomicInteractions",
         "Gviz",
-        "HiContactsData",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb"
@@ -4003,7 +4002,6 @@
     ],
     "logistf": [],
     "shinyHeatmaply": [],
-    "HiContactsData": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
     "datamods": [
         "rio"
