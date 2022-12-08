@@ -9997,7 +9997,6 @@
         "tidyr",
         "waldo"
     ],
-    "RUVcorr": [],
     "RUVSeq": [
         "BiocFileCache",
         "EDASeq",
