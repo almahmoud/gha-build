@@ -11569,7 +11569,6 @@
         "cowplot",
         "fgsea",
         "geneplotter",
-        "opencpu",
         "readr",
         "tidyr",
         "vroom"
@@ -18844,7 +18843,6 @@
         "viridis"
     ],
     "aroma.affymetrix": [],
-    "opencpu": [],
     "C50": [
         "Cubist"
     ],
