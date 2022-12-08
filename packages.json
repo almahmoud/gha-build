@@ -237,9 +237,7 @@
         "Biostrings",
         "XVector"
     ],
-    "affyContam": [
-        "affydata"
-    ],
+    "affyContam": [],
     "affycoretools": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -1261,7 +1259,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "XVector",
         "affyContam",
-        "affydata",
         "annotate",
         "biomaRt",
         "blob",
@@ -42042,7 +42039,6 @@
     "SAVER": [
         "glmnet"
     ],
-    "affydata": [],
     "PFAM.db": [
         "AnnotationDbi",
         "Biostrings",
