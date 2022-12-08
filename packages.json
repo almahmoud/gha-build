@@ -449,8 +449,7 @@
         "pasilla"
     ],
     "BLMA": [
-        "PADOG",
-        "hgu133plus2.db"
+        "PADOG"
     ],
     "BloodGen3Module": [
         "ExperimentHub",
@@ -1430,8 +1429,7 @@
         "ensembldb"
     ],
     "DrugVsDisease": [
-        "GEOquery",
-        "hgu133plus2.db"
+        "GEOquery"
     ],
     "DSS": [
         "bsseq"
@@ -1501,7 +1499,6 @@
         "GSVA",
         "PADOG",
         "gage",
-        "hgu133plus2.db",
         "pathview",
         "topGO"
     ],
@@ -2736,8 +2733,7 @@
     ],
     "mAPKL": [],
     "maPredictDSC": [
-        "caret",
-        "hgu133plus2.db"
+        "caret"
     ],
     "maser": [
         "GenomicFeatures",
@@ -3776,9 +3772,7 @@
         "pbkrtest",
         "testthat"
     ],
-    "PADOG": [
-        "hgu133plus2.db"
-    ],
+    "PADOG": [],
     "pageRank": [
         "CNEr",
         "TFBSTools",
@@ -5779,7 +5773,6 @@
         "DESeq2",
         "DEXSeq"
     ],
-    "hgu133plus2.db": [],
     "GenomicState": [
         "GenomicFeatures",
         "GenomicFiles",
