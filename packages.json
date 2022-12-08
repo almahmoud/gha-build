@@ -3319,7 +3319,6 @@
         "ggplot2",
         "mbkmeans",
         "phylobase",
-        "rncl",
         "tidyr",
         "zinbwave"
     ],
@@ -13315,7 +13314,6 @@
         "ggrepel",
         "mbkmeans",
         "phylobase",
-        "rncl",
         "scater",
         "scuttle",
         "tidyr",
@@ -22710,7 +22708,6 @@
     "phylobase": [
         "RNeXML",
         "dplyr",
-        "rncl",
         "tidyr"
     ],
     "ClusterR": [
@@ -22720,7 +22717,6 @@
         "benchmarkmeData",
         "dplyr"
     ],
-    "rncl": [],
     "RNeXML": [
         "dplyr",
         "tidyr"
