@@ -18294,7 +18294,6 @@
         "rtracklayer",
         "tibble"
     ],
-    "RedisParam": [],
     "REDseq": [
         "AnnotationDbi",
         "AnnotationFilter",
