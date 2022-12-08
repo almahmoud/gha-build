@@ -11976,7 +11976,6 @@
     ],
     "DeepPINCS": [
         "DiagrammeR",
-        "MatrixExtra",
         "dplyr",
         "ggplot2",
         "hms",
@@ -18798,7 +18797,6 @@
     "GenProSeq": [
         "DeepPINCS",
         "DiagrammeR",
-        "MatrixExtra",
         "dplyr",
         "ggplot2",
         "hms",
@@ -50201,7 +50199,6 @@
     ],
     "ttgsea": [
         "DiagrammeR",
-        "MatrixExtra",
         "dplyr",
         "ggplot2",
         "hms",
@@ -50633,7 +50630,6 @@
         "DiagrammeR",
         "GenomeInfoDb",
         "GenomicRanges",
-        "MatrixExtra",
         "RcppEigen",
         "RcppML",
         "ScaledMatrix",
@@ -56275,7 +56271,6 @@
         "vctrs"
     ],
     "text2vec": [
-        "MatrixExtra",
         "rsparse"
     ],
     "textstem": [
@@ -56291,9 +56286,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "rsparse": [
-        "MatrixExtra"
-    ],
+    "rsparse": [],
     "koRpus.lang.en": [],
     "lexicon": [
         "dplyr",
@@ -56323,7 +56316,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "MatrixExtra": [],
     "tseries": [
         "TTR",
         "quantmod",
