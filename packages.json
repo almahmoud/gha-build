@@ -2319,7 +2319,6 @@
         "sva",
         "testthat"
     ],
-    "mbOmic": [],
     "mBPCR": [
         "GWASTools",
         "logistf"
