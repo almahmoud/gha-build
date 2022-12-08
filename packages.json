@@ -8733,8 +8733,7 @@
         "AnnotationHub",
         "BiocFileCache",
         "ExperimentHub",
-        "GGally",
-        "rbokeh"
+        "GGally"
     ],
     "SeqVarTools": [
         "broom",
@@ -11304,7 +11303,6 @@
         "ggraph",
         "tidygraph"
     ],
-    "rbokeh": [],
     "survivalAnalysis": [
         "broom",
         "car",
