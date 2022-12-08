@@ -12562,7 +12562,6 @@
         "jquerylib",
         "lifecycle",
         "memoise",
-        "metaMA",
         "mgcv",
         "miniUI",
         "oligo",
@@ -66726,7 +66725,6 @@
     "tfautograph": [
         "reticulate"
     ],
-    "metaMA": [],
     "reader": [],
     "shinypanel": [
         "bslib",
