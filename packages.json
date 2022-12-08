@@ -17751,7 +17751,6 @@
         "testthat",
         "waldo"
     ],
-    "scde": [],
     "scds": [
         "SingleCellExperiment",
         "SummarizedExperiment",
