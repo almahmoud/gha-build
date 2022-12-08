@@ -1451,7 +1451,6 @@
         "ggfun",
         "ggplotify",
         "ggpmisc",
-        "ggpp",
         "ggraph",
         "ggthemes",
         "ggtree",
@@ -6554,7 +6553,6 @@
         "dtplyr",
         "genefilter",
         "ggpmisc",
-        "ggpp",
         "ggpubr",
         "ggsci",
         "ggsignif",
@@ -13072,10 +13070,7 @@
         "waldo"
     ],
     "EnvStats": [],
-    "ggpmisc": [
-        "ggpp"
-    ],
-    "ggpp": [],
+    "ggpmisc": [],
     "broom.mixed": [
         "broom",
         "tidyr"
