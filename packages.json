@@ -34910,7 +34910,6 @@
         "memoise",
         "pillar",
         "progress",
-        "rBiopaxParser",
         "sass",
         "shiny",
         "sqldf",
@@ -35695,7 +35694,6 @@
     ],
     "RBGL": [],
     "RBioinf": [],
-    "rBiopaxParser": [],
     "Rbowtie2": [
         "BiocParallel",
         "Biostrings",
