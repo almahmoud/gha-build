@@ -2836,7 +2836,6 @@
     "GOpro": [
         "MultiAssayExperiment"
     ],
-    "goProfiles": [],
     "GOSemSim": [],
     "goseq": [
         "GenomicFeatures",
@@ -2854,7 +2853,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "goProfiles",
         "gson",
         "scatterpie",
         "tidygraph",
