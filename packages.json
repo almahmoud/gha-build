@@ -17854,7 +17854,6 @@
         "snow",
         "spatial",
         "timeSeries",
-        "timsac",
         "zlibbioc"
     ],
     "ChIPsim": [
@@ -136049,7 +136048,6 @@
     ],
     "etrunct": [],
     "invgamma": [],
-    "timsac": [],
     "ChIPXpressData": [
         "BH",
         "Rcpp",
