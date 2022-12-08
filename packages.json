@@ -2876,7 +2876,6 @@
         "pbkrtest"
     ],
     "qpgraph": [],
-    "qPLEXanalyzer": [],
     "qrqc": [
         "VariantAnnotation",
         "biovizBase",
