@@ -37241,7 +37241,6 @@
         "memoise",
         "mgcv",
         "pillar",
-        "rcellminerData",
         "sass",
         "scales",
         "shiny",
@@ -57745,7 +57744,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "rcellminerData": [],
     "arrow": [
         "tidyselect",
         "vctrs"
