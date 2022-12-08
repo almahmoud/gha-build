@@ -899,7 +899,6 @@
         "ggraph",
         "ggtree"
     ],
-    "EGAD": [],
     "EGSEA": [
         "GSVA"
     ],
