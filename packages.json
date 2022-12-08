@@ -9371,7 +9371,6 @@
         "ggrepel",
         "igraph",
         "lifecycle",
-        "maptree",
         "mgcv",
         "pillar",
         "reshape2",
@@ -79384,7 +79383,6 @@
         "tibble",
         "vctrs"
     ],
-    "maptree": [],
     "topicmodels": [
         "tm"
     ],
