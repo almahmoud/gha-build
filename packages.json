@@ -3281,7 +3281,6 @@
         "tidytree",
         "treeio"
     ],
-    "easyreporting": [],
     "easyRNASeq": [
         "BiocFileCache",
         "ShortRead",
