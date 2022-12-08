@@ -149,9 +149,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "canceR": [
-        "phenoTest"
-    ],
+    "canceR": [],
     "CancerInSilico": [],
     "cardelino": [],
     "CATALYST": [
@@ -1276,7 +1274,6 @@
     "phantasus": [],
     "PharmacoGx": [],
     "phenomis": [],
-    "phenoTest": [],
     "PhenStat": [
         "car",
         "pbkrtest"
