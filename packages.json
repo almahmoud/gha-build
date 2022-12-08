@@ -103,7 +103,6 @@
         "pillar",
         "scales",
         "snapCGH",
-        "strucchange",
         "tibble",
         "tilingArray",
         "vctrs",
@@ -8879,7 +8878,6 @@
         "shinyMatrix",
         "shinyjs",
         "stringr",
-        "strucchange",
         "testthat",
         "tibble",
         "tidyr",
@@ -8925,7 +8923,6 @@
         "rstatix",
         "scales",
         "stringr",
-        "strucchange",
         "testthat",
         "tibble",
         "tidyr",
@@ -36564,7 +36561,6 @@
         "multtest",
         "pillar",
         "scales",
-        "strucchange",
         "tibble",
         "tilingArray",
         "vctrs",
@@ -39509,7 +39505,6 @@
         "ggplot2",
         "pillar",
         "scales",
-        "strucchange",
         "tibble",
         "vctrs",
         "vsn"
@@ -42222,7 +42217,6 @@
         "vctrs"
     ],
     "future.apply": [],
-    "strucchange": [],
     "DT": [],
     "ggrepel": [
         "ggplot2",
