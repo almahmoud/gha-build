@@ -466,7 +466,6 @@
         "GenomicFeatures",
         "Homo.sapiens",
         "Mus.musculus",
-        "NMF",
         "OrganismDbi",
         "SingleCellExperiment",
         "TFBSTools",
@@ -1395,9 +1394,7 @@
         "viridis"
     ],
     "CancerInSilico": [],
-    "CancerSubtypes": [
-        "NMF"
-    ],
+    "CancerSubtypes": [],
     "cardelino": [
         "BSgenome",
         "BiocFileCache",
@@ -1989,7 +1986,6 @@
     ],
     "chromswitch": [
         "GenomicAlignments",
-        "NMF",
         "rtracklayer",
         "tidyr"
     ],
@@ -2123,7 +2119,6 @@
     ],
     "clusterExperiment": [
         "ClusterR",
-        "NMF",
         "RNeXML",
         "SingleCellExperiment",
         "annotate",
@@ -3034,7 +3029,6 @@
     ],
     "debCAM": [
         "DMwR2",
-        "NMF",
         "readr"
     ],
     "debrowser": [
@@ -5869,7 +5863,6 @@
         "GSEABase",
         "GenomicAlignments",
         "GenomicFeatures",
-        "NMF",
         "UpSetR",
         "annotate",
         "biomaRt",
@@ -7674,7 +7667,6 @@
         "GSEABase",
         "HDO.db",
         "Hmisc",
-        "NMF",
         "ReactomePA",
         "SOMbrero",
         "SPONGE",
@@ -8403,7 +8395,6 @@
         "FactoMineR",
         "GenomicAlignments",
         "GenomicFeatures",
-        "NMF",
         "TCGAbiolinks",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -8439,7 +8430,6 @@
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
-        "NMF",
         "VariantAnnotation",
         "biomaRt",
         "ggalluvial",
@@ -8522,7 +8512,6 @@
         "ggthemes"
     ],
     "NanoStringQCPro": [
-        "NMF",
         "org.Hs.eg.db"
     ],
     "nanotatoR": [
@@ -8673,7 +8662,6 @@
     ],
     "netSmooth": [
         "ClusterR",
-        "NMF",
         "RNeXML",
         "SingleCellExperiment",
         "annotate",
@@ -8888,7 +8876,6 @@
     ],
     "oligoClasses": [],
     "omada": [
-        "NMF",
         "diceR",
         "haven",
         "klaR",
@@ -9288,7 +9275,6 @@
         "GO.db",
         "GOstats",
         "GSEABase",
-        "NMF",
         "annotate",
         "biomaRt",
         "dendextend",
@@ -9837,7 +9823,6 @@
     ],
     "projectR": [
         "CoGAPS",
-        "NMF",
         "SingleCellExperiment",
         "ggalluvial",
         "tidyr",
@@ -10546,7 +10531,6 @@
         "BSgenome",
         "BSgenome.Hsapiens.1000genomes.hs37d5",
         "GenomicAlignments",
-        "NMF",
         "rtracklayer"
     ],
     "restfulSE": [
@@ -11945,7 +11929,6 @@
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
-        "NMF",
         "VariantAnnotation",
         "biomaRt",
         "broom",
@@ -12265,7 +12248,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Hmisc",
-        "NMF",
         "OrganismDbi",
         "VariantAnnotation",
         "biomaRt",
@@ -12305,7 +12287,6 @@
     "SparseSignatures": [
         "BSgenome",
         "GenomicAlignments",
-        "NMF",
         "rtracklayer"
     ],
     "spaSim": [
@@ -12543,7 +12524,6 @@
         "viridis"
     ],
     "SPOTlight": [
-        "NMF",
         "SingleCellExperiment"
     ],
     "spqn": [
@@ -13914,7 +13894,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Hmisc",
-        "NMF",
         "OrganismDbi",
         "SomaticSignatures",
         "VariantAnnotation",
@@ -14244,7 +14223,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "NMF": [],
     "ggalluvial": [
         "tidyr"
     ],
@@ -15176,7 +15154,6 @@
         "ExperimentHub"
     ],
     "diceR": [
-        "NMF",
         "haven",
         "klaR",
         "labelled",
