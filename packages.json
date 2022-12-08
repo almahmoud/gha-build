@@ -6407,7 +6407,6 @@
         "ggtree",
         "patchwork",
         "plotly",
-        "seqmagick",
         "statebins",
         "tidyr",
         "tidytree",
@@ -18362,7 +18361,6 @@
         "plotly",
         "tidyr"
     ],
-    "seqmagick": [],
     "statebins": [],
     "HH": [
         "Hmisc",
