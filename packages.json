@@ -4603,7 +4603,6 @@
         "GOSemSim",
         "GSEABase",
         "ReactomePA",
-        "SOMbrero",
         "SPONGE",
         "WGCNA",
         "aplot",
@@ -8984,7 +8983,6 @@
         "biclust"
     ],
     "subspace": [],
-    "SOMbrero": [],
     "cvms": [
         "groupdata2",
         "lme4",
