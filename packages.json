@@ -801,7 +801,6 @@
         "tidygraph",
         "treeio"
     ],
-    "ChIPseqR": [],
     "ChIPXpress": [
         "GEOquery",
         "frma"
