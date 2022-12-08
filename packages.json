@@ -3466,8 +3466,7 @@
         "testthat",
         "tibble",
         "usethis",
-        "waldo",
-        "xopen"
+        "waldo"
     ],
     "bumphunter": [
         "AnnotationDbi",
@@ -5951,8 +5950,7 @@
         "tidyr",
         "tidyselect",
         "usethis",
-        "waldo",
-        "xopen"
+        "waldo"
     ],
     "cogeqc": [
         "Biostrings",
@@ -12040,8 +12038,7 @@
         "testthat",
         "tibble",
         "usethis",
-        "waldo",
-        "xopen"
+        "waldo"
     ],
     "GDCRNATools": [
         "AnnotationDbi",
@@ -15116,8 +15113,7 @@
         "testthat",
         "tibble",
         "usethis",
-        "waldo",
-        "xopen"
+        "waldo"
     ],
     "infercnv": [
         "GenomicRanges",
@@ -18321,8 +18317,7 @@
         "tidyverse",
         "usethis",
         "vroom",
-        "waldo",
-        "xopen"
+        "waldo"
     ],
     "methylGSA": [
         "AnnotationDbi",
@@ -18580,8 +18575,7 @@
         "testthat",
         "tibble",
         "usethis",
-        "waldo",
-        "xopen"
+        "waldo"
     ],
     "MetNet": [
         "GENIE3",
@@ -20885,8 +20879,7 @@
         "tweenr",
         "usethis",
         "viridis",
-        "waldo",
-        "xopen"
+        "waldo"
     ],
     "multtest": [],
     "mumosa": [
@@ -22701,8 +22694,7 @@
         "testthat",
         "tibble",
         "usethis",
-        "waldo",
-        "xopen"
+        "waldo"
     ],
     "optimalFlow": [
         "dplyr",
@@ -23195,8 +23187,7 @@
         "usethis",
         "vegan",
         "waldo",
-        "webshot",
-        "xopen"
+        "webshot"
     ],
     "pathRender": [
         "AnnotationDbi",
@@ -27122,8 +27113,7 @@
         "tibble",
         "tidyselect",
         "usethis",
-        "waldo",
-        "xopen"
+        "waldo"
     ],
     "rmspc": [
         "Biostrings",
@@ -31643,8 +31633,7 @@
         "tidyselect",
         "usethis",
         "viridis",
-        "waldo",
-        "xopen"
+        "waldo"
     ],
     "sscu": [
         "Biostrings",
@@ -36957,8 +36946,7 @@
         "testthat",
         "tibble",
         "usethis",
-        "waldo",
-        "xopen"
+        "waldo"
     ],
     "pkgdown": [
         "bslib",
@@ -36974,15 +36962,13 @@
         "stringr"
     ],
     "rcmdcheck": [
-        "pkgbuild",
-        "xopen"
+        "pkgbuild"
     ],
     "roxygen2": [
         "knitr",
         "stringr"
     ],
     "downlit": [],
-    "xopen": [],
     "pryr": [
         "stringr"
     ],
@@ -39127,8 +39113,7 @@
         "testthat",
         "tibble",
         "usethis",
-        "waldo",
-        "xopen"
+        "waldo"
     ],
     "googleAuthR": [
         "gargle"
