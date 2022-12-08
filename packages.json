@@ -16806,7 +16806,6 @@
         "genefilter",
         "ggdendro",
         "ggplot2",
-        "ismev",
         "org.Hs.eg.db",
         "reshape2",
         "stringr",
@@ -34324,7 +34323,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "ismev": [],
     "lumiHumanAll.db": [
         "AnnotationDbi",
         "Biostrings",
