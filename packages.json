@@ -61,7 +61,6 @@
     "dasper": [
         "ggpubr"
     ],
-    "DeepPINCS": [],
     "DeMixT": [
         "DSS"
     ],
@@ -117,9 +116,7 @@
     "GenomicSuperSignature": [
         "ggpubr"
     ],
-    "GenProSeq": [
-        "DeepPINCS"
-    ],
+    "GenProSeq": [],
     "GEOexplorer": [
         "factoextra",
         "ggpubr"
@@ -311,9 +308,7 @@
         "diffcyt",
         "ggpubr"
     ],
-    "VAExprs": [
-        "DeepPINCS"
-    ],
+    "VAExprs": [],
     "YAPSA": [],
     "ggpubr": [],
     "mGSZ": [],
