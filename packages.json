@@ -1836,7 +1836,6 @@
         "quantro",
         "yarn"
     ],
-    "nnSVG": [],
     "nondetects": [
         "arm",
         "lme4"
