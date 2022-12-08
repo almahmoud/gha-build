@@ -49783,7 +49783,6 @@
         "pillar",
         "progress",
         "promises",
-        "protolite",
         "purrr",
         "readr",
         "rhdf5",
@@ -84591,7 +84590,6 @@
         "Matrix",
         "igraph"
     ],
-    "protolite": [],
     "Rook": [],
     "opencpu": [
         "highr",
@@ -84600,7 +84598,6 @@
         "lifecycle",
         "openssl",
         "promises",
-        "protolite",
         "stringr",
         "vctrs",
         "webutils"
