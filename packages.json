@@ -7685,7 +7685,6 @@
         "GSEABase",
         "HDO.db",
         "Hmisc",
-        "MetBrewer",
         "NMF",
         "ReactomePA",
         "SOMbrero",
@@ -7760,7 +7759,6 @@
         "GO.db",
         "GOSemSim",
         "HDO.db",
-        "MetBrewer",
         "ReactomePA",
         "SPONGE",
         "aplot",
@@ -12512,7 +12510,6 @@
     ],
     "SPONGE": [
         "BiocFileCache",
-        "MetBrewer",
         "biomaRt",
         "broom",
         "car",
@@ -15128,7 +15125,6 @@
         "tidyr",
         "waldo"
     ],
-    "MetBrewer": [],
     "groupdata2": [
         "rearrr",
         "tidyr"
