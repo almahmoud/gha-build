@@ -2092,7 +2092,6 @@
         "latticeExtra",
         "pillar",
         "prettydoc",
-        "raster",
         "rmarkdown",
         "scales",
         "stringr",
@@ -7630,7 +7629,6 @@
         "multcomp",
         "pillar",
         "quantreg",
-        "raster",
         "reshape2",
         "rms",
         "rrcov",
@@ -8977,7 +8975,6 @@
         "ggbeeswarm",
         "ggplot2",
         "pillar",
-        "raster",
         "scales",
         "scuttle",
         "shiny",
@@ -17978,7 +17975,6 @@
         "pheatmap",
         "pillar",
         "progress",
-        "raster",
         "readr",
         "scales",
         "scuttle",
@@ -18121,7 +18117,6 @@
         "vctrs"
     ],
     "infinityFlow": [
-        "raster",
         "uwot"
     ],
     "InPAS": [
@@ -26111,7 +26106,6 @@
         "pillar",
         "progress",
         "quantreg",
-        "raster",
         "readr",
         "readxl",
         "rematch2",
@@ -36087,7 +36081,6 @@
         "ggbeeswarm",
         "ggplot2",
         "pillar",
-        "raster",
         "scales",
         "scuttle",
         "shiny",
@@ -37209,7 +37202,6 @@
         "pillar",
         "plotly",
         "progress",
-        "raster",
         "reshape2",
         "scales",
         "scuttle",
@@ -38090,7 +38082,6 @@
         "pheatmap",
         "pillar",
         "plotly",
-        "raster",
         "reshape2",
         "scales",
         "scattermore",
@@ -43542,7 +43533,6 @@
         "stringr",
         "vctrs"
     ],
-    "raster": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "BiocParallel",
@@ -47942,7 +47932,6 @@
         "ggplot2",
         "miniUI",
         "pillar",
-        "raster",
         "scales",
         "shiny",
         "shinyjs",
@@ -47950,9 +47939,7 @@
         "tibble",
         "vctrs"
     ],
-    "elsa": [
-        "raster"
-    ],
+    "elsa": [],
     "miRNAtap.db": [
         "AnnotationDbi",
         "Biostrings",
