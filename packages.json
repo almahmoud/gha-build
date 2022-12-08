@@ -240,9 +240,7 @@
     "CopyNumberPlots": [
         "karyoploteR"
     ],
-    "coseq": [
-        "HTSFilter"
-    ],
+    "coseq": [],
     "cosmosR": [],
     "crisprseekplus": [],
     "crisprVerse": [
@@ -608,7 +606,6 @@
         "Gviz"
     ],
     "HTSeqGenie": [],
-    "HTSFilter": [],
     "icetea": [],
     "iCheck": [
         "lumi",
