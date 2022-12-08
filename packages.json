@@ -3940,7 +3940,6 @@
         "fda",
         "fds",
         "genomation",
-        "hdrcde",
         "rainbow",
         "readr",
         "rtracklayer"
@@ -4127,7 +4126,6 @@
         "fda",
         "fds",
         "flowWorkspace",
-        "hdrcde",
         "rainbow"
     ],
     "flowVS": [
@@ -4135,7 +4133,6 @@
         "fds",
         "flowStats",
         "flowWorkspace",
-        "hdrcde",
         "rainbow"
     ],
     "flowWorkspace": [],
@@ -4187,7 +4184,6 @@
     "FRGEpistasis": [
         "fda",
         "fds",
-        "hdrcde",
         "rainbow"
     ],
     "frma": [
@@ -4197,7 +4193,6 @@
     "FunChIP": [
         "fda",
         "fds",
-        "hdrcde",
         "rainbow"
     ],
     "funtooNorm": [
@@ -5664,7 +5659,6 @@
     "IWTomics": [
         "fda",
         "fds",
-        "hdrcde",
         "rainbow"
     ],
     "karyoploteR": [
@@ -8633,7 +8627,6 @@
         "ensembldb",
         "fda",
         "fds",
-        "hdrcde",
         "rainbow",
         "rtracklayer"
     ],
@@ -12165,7 +12158,6 @@
         "fda",
         "fds",
         "geneplotter",
-        "hdrcde",
         "org.Hs.eg.db",
         "rainbow",
         "regioneR",
@@ -13327,17 +13319,12 @@
     ],
     "fda": [
         "fds",
-        "hdrcde",
         "rainbow"
     ],
     "fds": [
-        "hdrcde",
         "rainbow"
     ],
-    "rainbow": [
-        "hdrcde"
-    ],
-    "hdrcde": [],
+    "rainbow": [],
     "SPARQL": [],
     "ggiraph": [],
     "RecordLinkage": [
