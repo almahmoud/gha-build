@@ -76213,7 +76213,6 @@
         "rappdirs",
         "rlang",
         "survival",
-        "svd",
         "vctrs",
         "xtable",
         "zlibbioc"
@@ -154168,7 +154167,6 @@
     ],
     "countrycode": [],
     "NMI": [],
-    "svd": [],
     "MKmisc": [
         "MASS",
         "Matrix",
