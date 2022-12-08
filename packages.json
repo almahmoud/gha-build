@@ -2162,9 +2162,7 @@
         "SpatialExperiment",
         "scuttle"
     ],
-    "CytoML": [
-        "openCyto"
-    ],
+    "CytoML": [],
     "dada2": [
         "ShortRead"
     ],
@@ -6711,7 +6709,6 @@
         "AnnotationHub",
         "BiocFileCache"
     ],
-    "openCyto": [],
     "openPrimeR": [],
     "openPrimeRui": [
         "openPrimeR"
