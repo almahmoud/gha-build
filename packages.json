@@ -15603,7 +15603,6 @@
         "memoise",
         "vctrs"
     ],
-    "gaggle": [],
     "GAprediction": [
         "glmnet"
     ],
