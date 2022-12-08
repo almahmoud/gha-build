@@ -6925,7 +6925,6 @@
         "testthat",
         "waldo"
     ],
-    "procoil": [],
     "proFIA": [
         "MSnbase",
         "MultiAssayExperiment",
