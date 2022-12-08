@@ -36286,7 +36286,6 @@
         "XVector",
         "seqinr"
     ],
-    "ssize": [],
     "sSNAPPY": [
         "AnnotationDbi",
         "BiocParallel",
