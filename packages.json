@@ -6987,9 +6987,7 @@
         "rmarkdown"
     ],
     "flowBeads": [],
-    "flowBin": [
-        "flowFP"
-    ],
+    "flowBin": [],
     "flowcatchR": [
         "dplyr",
         "ggplot2",
@@ -7039,7 +7037,6 @@
         "viridis",
         "waldo"
     ],
-    "flowFP": [],
     "flowGraph": [
         "ggiraph",
         "ggplot2",
@@ -7336,9 +7333,7 @@
         "viridis",
         "waldo"
     ],
-    "GateFinder": [
-        "flowFP"
-    ],
+    "GateFinder": [],
     "GBScleanR": [
         "SeqArray",
         "dplyr",
