@@ -749,7 +749,6 @@
         "GenomicFeatures",
         "qpgraph"
     ],
-    "cliProfiler": [],
     "cliqueMS": [
         "xcms"
     ],
