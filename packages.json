@@ -15617,7 +15617,6 @@
         "dbplyr",
         "ensembldb",
         "rtracklayer",
-        "shinyTree",
         "viridis"
     ],
     "VariantTools": [
@@ -17754,7 +17753,6 @@
         "AnnotationDbi"
     ],
     "condformat": [],
-    "shinyTree": [],
     "msigdb": [
         "AnnotationDbi",
         "AnnotationHub",
