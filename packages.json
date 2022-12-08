@@ -4531,7 +4531,6 @@
         "annotate",
         "broom",
         "car",
-        "coin",
         "cowplot",
         "dbplyr",
         "decoupleR",
@@ -7184,7 +7183,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "MultiAssayExperiment",
-        "coin",
         "dbplyr",
         "tidyr"
     ],
@@ -7476,7 +7474,6 @@
     "infercnv": [
         "Seurat",
         "SingleCellExperiment",
-        "coin",
         "cowplot",
         "ggrepel",
         "ggridges",
@@ -8021,9 +8018,7 @@
         "testthat",
         "waldo"
     ],
-    "lefser": [
-        "coin"
-    ],
+    "lefser": [],
     "levi": [
         "rematch2",
         "rmarkdown",
@@ -9349,7 +9344,6 @@
         "annotate",
         "aplot",
         "caret",
-        "coin",
         "decontam",
         "geneplotter",
         "ggbeeswarm",
@@ -9415,7 +9409,6 @@
     ],
     "MicrobiotaProcess": [
         "aplot",
-        "coin",
         "dtplyr",
         "ggfun",
         "ggnewscale",
@@ -18592,7 +18585,6 @@
         "ExperimentHub",
         "dbplyr"
     ],
-    "coin": [],
     "EntropyExplorer": [],
     "EpiMix.data": [
         "AnnotationDbi",
