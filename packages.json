@@ -2001,7 +2001,6 @@
         "vsn"
     ],
     "clusterExperiment": [
-        "ClusterR",
         "RNeXML",
         "annotate",
         "benchmarkme",
@@ -6453,7 +6452,6 @@
         "waldo"
     ],
     "mbkmeans": [
-        "ClusterR",
         "benchmarkme"
     ],
     "mbOmic": [
@@ -7532,7 +7530,6 @@
         "Linnorm"
     ],
     "moanin": [
-        "ClusterR",
         "GO.db",
         "topGO"
     ],
@@ -8265,7 +8262,6 @@
         "biomaRt"
     ],
     "netSmooth": [
-        "ClusterR",
         "RNeXML",
         "annotate",
         "benchmarkme",
@@ -13867,7 +13863,6 @@
         "RNeXML",
         "tidyr"
     ],
-    "ClusterR": [],
     "benchmarkme": [],
     "RNeXML": [
         "tidyr"
