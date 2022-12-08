@@ -4992,7 +4992,6 @@
     ],
     "ChIPXpress": [
         "Biostrings",
-        "ChIPXpressData",
         "GEOquery",
         "GenomicRanges",
         "RSQLite",
@@ -37311,7 +37310,6 @@
         "tidyselect"
     ],
     "ashr": [],
-    "ChIPXpressData": [],
     "shinyhelper": [
         "bslib",
         "shiny"
