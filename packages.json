@@ -5158,7 +5158,6 @@
         "RnBeads",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "annotate",
-        "bigstatsr",
         "biomaRt",
         "bumphunter",
         "crlmm",
@@ -11462,7 +11461,6 @@
         "testthat",
         "waldo"
     ],
-    "bigstatsr": [],
     "depmap": [
         "AnnotationHub",
         "BiocFileCache",
