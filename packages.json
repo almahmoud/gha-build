@@ -721,7 +721,6 @@
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
-        "biocViews",
         "biomaRt",
         "bslib",
         "dbplyr",
@@ -2272,7 +2271,6 @@
         "waldo"
     ],
     "BiocCheck": [
-        "biocViews",
         "knitr",
         "stringr"
     ],
@@ -2373,7 +2371,6 @@
     "BiocPkgTools": [
         "BiocFileCache",
         "RSQLite",
-        "biocViews",
         "dbplyr",
         "dplyr",
         "gh",
@@ -2420,7 +2417,6 @@
         "styler",
         "usethis"
     ],
-    "biocViews": [],
     "BiocWorkflowTools": [
         "BiocStyle",
         "bookdown",
@@ -5056,7 +5052,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biocViews",
         "biomaRt",
         "biovizBase",
         "dbplyr",
@@ -10478,7 +10473,6 @@
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
-        "biocViews",
         "biomaRt",
         "bslib",
         "dbplyr",
@@ -17738,7 +17732,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "annotate",
-        "biocViews",
         "biomaRt",
         "broom",
         "bslib",
@@ -19366,7 +19359,6 @@
         "vroom"
     ],
     "monocle": [
-        "biocViews",
         "dplyr",
         "ggplot2",
         "pheatmap",
@@ -26214,7 +26206,6 @@
         "MSnbase",
         "MsFeatures",
         "SummarizedExperiment",
-        "biocViews",
         "ggplot2",
         "pillar",
         "tibble",
@@ -29122,7 +29113,6 @@
     "sigFeature": [
         "GenomicRanges",
         "SummarizedExperiment",
-        "biocViews",
         "pheatmap"
     ],
     "SigFuge": [
@@ -33371,7 +33361,6 @@
         "tibble"
     ],
     "uSORT": [
-        "biocViews",
         "dplyr",
         "ggplot2",
         "monocle",
@@ -37857,7 +37846,6 @@
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
-        "biocViews",
         "biomaRt",
         "bslib",
         "dbplyr",
