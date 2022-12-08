@@ -88,9 +88,7 @@
         "pbkrtest"
     ],
     "BadRegionFinder": [],
-    "bandle": [
-        "pRoloc"
-    ],
+    "bandle": [],
     "BBCAnalyzer": [],
     "benchdamic": [
         "ANCOMBC",
@@ -1609,10 +1607,7 @@
         "rGREAT"
     ],
     "projectR": [],
-    "pRoloc": [],
-    "pRolocGUI": [
-        "pRoloc"
-    ],
+    "pRolocGUI": [],
     "Prostar": [],
     "proteasy": [
         "EnsDb.Hsapiens.v86",
