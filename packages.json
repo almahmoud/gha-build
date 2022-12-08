@@ -90,9 +90,7 @@
     "DeMixT": [
         "DSS"
     ],
-    "destiny": [
-        "VIM"
-    ],
+    "destiny": [],
     "diffcyt": [
         "FlowSOM",
         "ggpubr",
@@ -270,9 +268,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "MSPrep": [
-        "VIM"
-    ],
+    "MSPrep": [],
     "MSstatsLiP": [
         "factoextra",
         "ggpubr",
@@ -349,9 +345,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "qmtools": [
-        "VIM"
-    ],
+    "qmtools": [],
     "recount": [],
     "regionReport": [],
     "rexposome": [],
@@ -480,7 +474,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "VIM": [],
     "EntropyExplorer": [],
     "SPARQL": [],
     "survminer": [
