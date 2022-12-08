@@ -181,7 +181,6 @@
         "biovizBase"
     ],
     "BioNAR": [],
-    "BioNERO": [],
     "biosigner": [],
     "biovizBase": [
         "VariantAnnotation"
@@ -240,7 +239,6 @@
         "biovizBase"
     ],
     "cageminer": [
-        "BioNERO",
         "VariantAnnotation",
         "biovizBase",
         "ggbio"
