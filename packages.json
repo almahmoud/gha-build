@@ -11390,7 +11390,6 @@
         "fgsea",
         "sqldf"
     ],
-    "pqsfinder": [],
     "pram": [
         "GenomicAlignments",
         "rtracklayer"
