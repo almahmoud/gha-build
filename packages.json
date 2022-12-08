@@ -2468,7 +2468,6 @@
     "simplifyEnrichment": [],
     "singleCellTK": [
         "DESeq2",
-        "TENxPBMCData",
         "ggtree",
         "scMerge",
         "scRNAseq"
@@ -3030,7 +3029,6 @@
         "survminer"
     ],
     "scRNAseq": [],
-    "TENxPBMCData": [],
     "sampSurf": [],
     "MESS": [
         "ggformula"
