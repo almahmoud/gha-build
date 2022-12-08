@@ -2638,9 +2638,7 @@
     "scAnnotatR": [
         "caret"
     ],
-    "SCATE": [
-        "SCATEData"
-    ],
+    "SCATE": [],
     "scBFA": [
         "DESeq2"
     ],
@@ -3387,7 +3385,6 @@
     "caretEnsemble": [
         "caret"
     ],
-    "SCATEData": [],
     "Rmagic": [],
     "clustree": [
         "ggraph"
