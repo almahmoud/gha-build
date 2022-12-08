@@ -6996,7 +6996,6 @@
         "struct",
         "tidyr"
     ],
-    "metabomxtr": [],
     "MetaboSignal": [
         "BiocFileCache",
         "EnsDb.Hsapiens.v75",
