@@ -3566,7 +3566,6 @@
         "flowStats",
         "rainbow"
     ],
-    "fmcsR": [],
     "fobitools": [
         "RecordLinkage",
         "fgsea",
