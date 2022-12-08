@@ -228,9 +228,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "BUMHMM": [
-        "devtools"
-    ],
+    "BUMHMM": [],
     "BUSpaRse": [],
     "CAFE": [
         "VariantAnnotation",
@@ -409,9 +407,7 @@
     "COCOA": [
         "MIRA"
     ],
-    "cogena": [
-        "devtools"
-    ],
+    "cogena": [],
     "cogeqc": [
         "ggtree"
     ],
@@ -982,9 +978,7 @@
         "lme4",
         "pbkrtest"
     ],
-    "GCSscore": [
-        "devtools"
-    ],
+    "GCSscore": [],
     "GDCRNATools": [
         "DESeq2",
         "car",
@@ -1229,9 +1223,7 @@
         "lme4"
     ],
     "imcRtools": [],
-    "INDEED": [
-        "devtools"
-    ],
+    "INDEED": [],
     "InPAS": [],
     "INSPEcT": [
         "DESeq2"
@@ -1525,7 +1517,6 @@
         "AnnotationHubData",
         "ExperimentHubData",
         "car",
-        "devtools",
         "ggpubr",
         "lme4",
         "methylclockData",
@@ -1561,9 +1552,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "minfi"
     ],
-    "MetID": [
-        "devtools"
-    ],
+    "MetID": [],
     "mia": [
         "TreeSummarizedExperiment"
     ],
@@ -1777,7 +1766,6 @@
         "anyLib",
         "biosigner",
         "clusterProfiler",
-        "devtools",
         "enrichplot",
         "ggtree"
     ],
@@ -1943,9 +1931,7 @@
         "unmarked"
     ],
     "oppar": [],
-    "oppti": [
-        "devtools"
-    ],
+    "oppti": [],
     "ORFik": [
         "DESeq2"
     ],
@@ -1980,8 +1966,7 @@
     ],
     "pareg": [],
     "PathoStat": [
-        "DESeq2",
-        "devtools"
+        "DESeq2"
     ],
     "pcaExplorer": [
         "DESeq2",
@@ -2279,8 +2264,7 @@
         "caretEnsemble"
     ],
     "Rmmquant": [
-        "DESeq2",
-        "devtools"
+        "DESeq2"
     ],
     "RNAAgeCalc": [
         "GenomicFiles",
@@ -2605,8 +2589,7 @@
         "DESeq2",
         "Gviz",
         "VariantAnnotation",
-        "biovizBase",
-        "devtools"
+        "biovizBase"
     ],
     "sSNAPPY": [],
     "ssPATHS": [
@@ -2951,7 +2934,6 @@
         "VariantAnnotation",
         "derfinder"
     ],
-    "devtools": [],
     "drc": [
         "car",
         "lme4",
@@ -3053,9 +3035,7 @@
     "cvms": [
         "lme4"
     ],
-    "anyLib": [
-        "devtools"
-    ],
+    "anyLib": [],
     "blme": [
         "lme4"
     ],
