@@ -7379,9 +7379,7 @@
         "MultiAssayExperiment",
         "tidyr"
     ],
-    "nethet": [
-        "ICSNP"
-    ],
+    "nethet": [],
     "netOmics": [
         "GO.db",
         "RandomWalkRestartMH",
@@ -9286,7 +9284,6 @@
     "RNAinteract": [
         "Category",
         "GSEABase",
-        "ICSNP",
         "annotate",
         "cellHTS2",
         "genefilter",
@@ -12866,7 +12863,6 @@
         "rtracklayer"
     ],
     "mppa": [],
-    "ICSNP": [],
     "dnet": [
         "readr",
         "supraHex",
