@@ -46980,7 +46980,6 @@
         "R.cache",
         "R.oo",
         "R.utils",
-        "RankAggreg",
         "RcppEigen",
         "bit64",
         "bslib",
@@ -84399,7 +84398,6 @@
         "R.cache",
         "R.oo",
         "R.utils",
-        "RankAggreg",
         "bit64",
         "bslib",
         "cachem",
@@ -84448,7 +84446,6 @@
         "yardstick"
     ],
     "clValid": [],
-    "RankAggreg": [],
     "yardstick": [
         "dplyr",
         "hardhat",
