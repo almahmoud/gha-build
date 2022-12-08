@@ -1186,7 +1186,6 @@
         "rentrez",
         "reshape2",
         "reticulate",
-        "rex",
         "rhdf5",
         "sass",
         "scales",
@@ -61090,8 +61089,7 @@
     ],
     "covr": [
         "httr",
-        "openssl",
-        "rex"
+        "openssl"
     ],
     "plotROC": [
         "bslib",
@@ -61149,7 +61147,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "rex": [],
     "modeest": [
         "fBasics",
         "statip"
