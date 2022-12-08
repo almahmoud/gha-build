@@ -14461,7 +14461,6 @@
     "HilbertCurve": [
         "GenomicRanges"
     ],
-    "HilbertVisGUI": [],
     "HiLDA": [
         "AnnotationDbi",
         "BSgenome",
