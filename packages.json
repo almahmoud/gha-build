@@ -2525,7 +2525,6 @@
     ],
     "sparrow": [],
     "spaSim": [],
-    "spatialDE": [],
     "SpatialDecon": [
         "GeomxTools",
         "lme4",
