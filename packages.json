@@ -1752,7 +1752,6 @@
         "htmlTable",
         "interactiveDisplayBase",
         "knitr",
-        "latex2exp",
         "org.Hs.eg.db",
         "synaptome.data",
         "synaptome.db",
@@ -1973,7 +1972,6 @@
         "ggdendro",
         "ggplot2",
         "knitr",
-        "latex2exp",
         "mnem",
         "rmarkdown",
         "sva",
@@ -5015,7 +5013,6 @@
         "graphite",
         "haven",
         "knitr",
-        "latex2exp",
         "metap",
         "mnem",
         "modelr",
@@ -6717,7 +6714,6 @@
         "Linnorm",
         "ggdendro",
         "ggplot2",
-        "latex2exp",
         "mnem"
     ],
     "epistack": [
@@ -14120,7 +14116,6 @@
         "epiNEM",
         "ggdendro",
         "ggplot2",
-        "latex2exp",
         "mnem"
     ],
     "NetActivity": [
@@ -22218,7 +22213,6 @@
         "kml",
         "kmlShape",
         "knitr",
-        "latex2exp",
         "longitudinalData",
         "prettydoc",
         "rgl",
@@ -23847,7 +23841,6 @@
     ],
     "imager": [],
     "multcomp": [],
-    "latex2exp": [],
     "synaptome.db": [
         "AnnotationDbi",
         "AnnotationHub",
