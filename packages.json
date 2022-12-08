@@ -375,7 +375,6 @@
         "lme4",
         "pbkrtest"
     ],
-    "CellMixS": [],
     "cellTree": [],
     "CEMiTool": [
         "DOSE",
