@@ -159,7 +159,6 @@
         "flowDensity"
     ],
     "flowDensity": [],
-    "flowPloidy": [],
     "FlowSOM": [
         "ggpubr",
         "rstatix"
