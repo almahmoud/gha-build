@@ -2599,7 +2599,6 @@
     "proActiv": [
         "DESeq2"
     ],
-    "proBAMr": [],
     "proBatch": [
         "lme4",
         "pvca"
