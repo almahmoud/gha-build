@@ -240,7 +240,6 @@
     "BioNAR": [],
     "BioNERO": [],
     "biosigner": [],
-    "BioTIP": [],
     "biovizBase": [
         "VariantAnnotation",
         "ensembldb"
