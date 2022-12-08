@@ -4712,7 +4712,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Modstrings",
-        "Structstrings",
         "biomaRt",
         "dbplyr",
         "rtracklayer",
@@ -14637,7 +14636,6 @@
         "sqldf"
     ],
     "struct": [],
-    "Structstrings": [],
     "structToolbox": [
         "ggthemes",
         "struct"
@@ -15513,19 +15511,16 @@
         "tidyr"
     ],
     "tRNA": [
-        "Modstrings",
-        "Structstrings"
+        "Modstrings"
     ],
     "tRNAdbImport": [
         "Modstrings",
-        "Structstrings",
         "tRNA"
     ],
     "tRNAscanImport": [
         "BSgenome",
         "GenomicAlignments",
         "Modstrings",
-        "Structstrings",
         "rtracklayer",
         "tRNA"
     ],
