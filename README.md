@@ -1,10 +1,10 @@
 # Summary
 
-3735 built packages
+3736 built packages
 
 18 failed packages
 
-57 unclaimed packages
+56 unclaimed packages
 
 
 
@@ -30,7 +30,7 @@
 | [spp](https://github.com/almahmoud/gha-build/actions/runs/3650360818/jobs/6166382771)             | Failed   | N/A: CRAN Package                                                                  | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/spp)             | [CRAN Package 'spp'](https://cran.r-project.org/web/packages/spp/index.html) archived. Extracted text: Archived on 2022-11-20 as issues were not corrected despite reminders.                      |
 | [vbsr](https://github.com/almahmoud/gha-build/actions/runs/3650360818/jobs/6166381575)            | Failed   | N/A: CRAN Package                                                                  | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/vbsr)            | [CRAN Package 'vbsr'](https://cran.r-project.org/web/packages/vbsr/index.html) archived. Extracted text: Archived on 2022-05-23 as email to the maintainer is undeliverable.                       |
 
-## Unclaimed (57)
+## Unclaimed (56)
 | Package                                                                                                 | Status    | Tarball   |
 |---------------------------------------------------------------------------------------------------------|-----------|-----------|
 | ASpediaFI                                                                                               | Unclaimed |           |
@@ -49,7 +49,6 @@
 | diffcyt                                                                                                 | Unclaimed |           |
 | DMRcate                                                                                                 | Unclaimed |           |
 | [DSS](https://github.com/almahmoud/gha-build/actions/runs/3651795783/jobs/6169724975)                   | Unclaimed |           |
-| [epigraHMM](https://github.com/almahmoud/gha-build/actions/runs/3652504461/jobs/6170985348)             | Unclaimed |           |
 | epihet                                                                                                  | Unclaimed |           |
 | [EWCE](https://github.com/almahmoud/gha-build/actions/runs/3652527698/jobs/6171038472)                  | Unclaimed |           |
 | [fastLiquidAssociation](https://github.com/almahmoud/gha-build/actions/runs/3651932085/jobs/6169861186) | Unclaimed |           |
@@ -91,7 +90,7 @@
 | treekoR                                                                                                 | Unclaimed |           |
 | survivalAnalysis                                                                                        | Unclaimed |           |
 
-## Succeeded (3735)
+## Succeeded (3736)
 | Package                                                                                                                         | Status    | Tarball                                                                                                                                                                                                                                |
 |---------------------------------------------------------------------------------------------------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [a4](almahmoud/gha-build/actions/runs/3651795783)                                                                               | Succeeded | [a4_1.46.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/a4_1.46.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                     |
@@ -690,6 +689,7 @@
 | [epidecodeR](https://github.com/almahmoud/gha-build/actions/runs/3652504461/jobs/6170986054)                                    | Succeeded | [epidecodeR_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/epidecodeR_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | [EpiDISH](https://github.com/almahmoud/gha-build/actions/runs/3651033218/jobs/6167833570)                                       | Succeeded | [EpiDISH_2.14.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/EpiDISH_2.14.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | [epigenomix](https://github.com/almahmoud/gha-build/actions/runs/3651481762/jobs/6168760343)                                    | Succeeded | [epigenomix_1.38.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/epigenomix_1.38.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                     |
+| [epigraHMM](https://github.com/almahmoud/gha-build/actions/runs/3652504461/jobs/6170985348)                                     | Succeeded | [epigraHMM_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/epigraHMM_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
 | [EpiMix](https://github.com/almahmoud/gha-build/actions/runs/3651932085/jobs/6169867379)                                        | Succeeded | [EpiMix_0.99.16_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/EpiMix_0.99.16_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | [epimutacions](https://github.com/almahmoud/gha-build/actions/runs/3652325211/jobs/6170737828)                                  | Succeeded | [epimutacions_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/epimutacions_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
 | [epiNEM](almahmoud/gha-build/actions/runs/3651589140)                                                                           | Succeeded | [epiNEM_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/epiNEM_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                             |
