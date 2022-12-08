@@ -54,7 +54,6 @@
         "pbkrtest",
         "rematch2",
         "rstatix",
-        "shinyjs",
         "testthat",
         "tidyr",
         "waldo"
@@ -281,7 +280,6 @@
         "plotROC",
         "plotly",
         "recipes",
-        "shinyjs",
         "tidyr"
     ],
     "annaffy": [
@@ -418,8 +416,7 @@
         "biomaRt",
         "dbplyr",
         "org.Hs.eg.db",
-        "rtracklayer",
-        "shinyjs"
+        "rtracklayer"
     ],
     "ArrayExpress": [
         "oligo",
@@ -791,7 +788,6 @@
         "ggExtra",
         "scran",
         "scuttle",
-        "shinyjs",
         "viridis"
     ],
     "BASiCStan": [
@@ -804,7 +800,6 @@
         "rstan",
         "scran",
         "scuttle",
-        "shinyjs",
         "viridis"
     ],
     "BasicSTARRseq": [
@@ -2336,7 +2331,6 @@
         "shinyFiles",
         "shinydashboard",
         "shinydashboardPlus",
-        "shinyjs",
         "tidyr",
         "viridis",
         "waiter"
@@ -2636,7 +2630,6 @@
         "exomeCopy",
         "rematch2",
         "shinyFiles",
-        "shinyjs",
         "testthat",
         "waldo"
     ],
@@ -2814,7 +2807,6 @@
         "readxl",
         "rio",
         "shinydashboard",
-        "shinyjs",
         "tidyr",
         "vroom"
     ],
@@ -3013,7 +3005,6 @@
         "fgsea",
         "piano",
         "shinydashboard",
-        "shinyjs",
         "tidyr"
     ],
     "corral": [
@@ -3149,7 +3140,6 @@
         "regioneR",
         "rio",
         "rtracklayer",
-        "shinyjs",
         "tensorflow",
         "tidyr",
         "vroom"
@@ -3220,7 +3210,6 @@
         "readr",
         "readxl",
         "shinyBS",
-        "shinyjs",
         "shinypanel",
         "sva",
         "tidyr",
@@ -3355,7 +3344,6 @@
         "recipes",
         "rematch2",
         "rstatix",
-        "shinyjs",
         "testthat",
         "tidyr",
         "viridis",
@@ -3609,7 +3597,6 @@
         "shadowtext",
         "shinyBS",
         "shinydashboard",
-        "shinyjs",
         "sva",
         "tidygraph",
         "tidyr",
@@ -4008,7 +3995,6 @@
         "rvest",
         "shinyBS",
         "shinydashboard",
-        "shinyjs",
         "tidyr",
         "viridis"
     ],
@@ -5053,7 +5039,6 @@
     "ExploreModelMatrix": [
         "cowplot",
         "shinydashboard",
-        "shinyjs",
         "tidyr"
     ],
     "ExpressionAtlas": [
@@ -5552,7 +5537,6 @@
         "biomaRt",
         "dbplyr",
         "rtracklayer",
-        "shinyjs",
         "tidyr"
     ],
     "gage": [
@@ -5798,7 +5782,6 @@
         "ggrepel",
         "patchwork",
         "plotly",
-        "shinyjs",
         "tidyr",
         "tippy",
         "viridis",
@@ -6692,7 +6675,6 @@
         "pbkrtest",
         "rematch2",
         "rstatix",
-        "shinyjs",
         "testthat",
         "tidyr",
         "waldo"
@@ -7130,7 +7112,6 @@
         "rstatix",
         "shinyFiles",
         "shinydashboard",
-        "shinyjs",
         "testthat",
         "tidyr",
         "viridis",
@@ -7267,16 +7248,14 @@
         "SingleCellExperiment",
         "colourpicker",
         "ggrepel",
-        "shinydashboard",
-        "shinyjs"
+        "shinydashboard"
     ],
     "iSEEhex": [
         "SingleCellExperiment",
         "colourpicker",
         "ggrepel",
         "iSEE",
-        "shinydashboard",
-        "shinyjs"
+        "shinydashboard"
     ],
     "iSEEhub": [
         "AnnotationDbi",
@@ -7288,8 +7267,7 @@
         "dbplyr",
         "ggrepel",
         "iSEE",
-        "shinydashboard",
-        "shinyjs"
+        "shinydashboard"
     ],
     "iSEEu": [
         "SingleCellExperiment",
@@ -7297,8 +7275,7 @@
         "ggrepel",
         "iSEE",
         "iSEEhex",
-        "shinydashboard",
-        "shinyjs"
+        "shinydashboard"
     ],
     "ISLET": [],
     "isobar": [
@@ -7502,7 +7479,6 @@
         "shinyBS",
         "shinyFiles",
         "shinydashboard",
-        "shinyjs",
         "sortable",
         "tidyr",
         "vroom"
@@ -7516,7 +7492,6 @@
     "levi": [
         "rematch2",
         "shinydashboard",
-        "shinyjs",
         "testthat",
         "waldo"
     ],
@@ -7927,7 +7902,6 @@
         "plotly",
         "proDA",
         "shinydashboard",
-        "shinyjs",
         "tidyr",
         "viridis",
         "vsn"
@@ -8612,8 +8586,7 @@
         "viridis"
     ],
     "methylscaper": [
-        "shinyFiles",
-        "shinyjs"
+        "shinyFiles"
     ],
     "MethylSeekR": [
         "AnnotationDbi",
@@ -8750,7 +8723,6 @@
         "readr",
         "rematch2",
         "shinydashboard",
-        "shinyjs",
         "testthat",
         "tidyr",
         "viridis",
@@ -9622,7 +9594,6 @@
         "ggExtra",
         "plotly",
         "qcmetrics",
-        "shinyjs",
         "tidyr",
         "vsn"
     ],
@@ -9633,7 +9604,6 @@
         "ggExtra",
         "plotly",
         "qcmetrics",
-        "shinyjs",
         "tidyr",
         "vsn"
     ],
@@ -9661,7 +9631,6 @@
         "nloptr",
         "rematch2",
         "shinyBS",
-        "shinyjs",
         "testthat",
         "tidyr",
         "viridis",
@@ -9886,7 +9855,6 @@
         "shinyBS",
         "shinydashboard",
         "shinyjqui",
-        "shinyjs",
         "sortable",
         "testthat",
         "tidyr",
@@ -10533,7 +10501,6 @@
         "plotly",
         "rematch2",
         "rstatix",
-        "shinyjs",
         "survMisc",
         "survminer",
         "testthat",
@@ -10598,7 +10565,6 @@
         "Hmisc",
         "openPrimeR",
         "shinyBS",
-        "shinyjs",
         "viridis"
     ],
     "OpenStats": [
@@ -10876,7 +10842,6 @@
         "plotly",
         "rematch2",
         "roxygen2",
-        "shinyjs",
         "testthat",
         "tidyr",
         "waldo"
@@ -10953,7 +10918,6 @@
         "rematch2",
         "rstatix",
         "shinydashboard",
-        "shinyjs",
         "survMisc",
         "survcomp",
         "survminer",
@@ -11052,7 +11016,6 @@
         "fgsea",
         "piano",
         "shinydashboard",
-        "shinyjs",
         "tidyr"
     ],
     "PhenoGeneRanker": [],
@@ -11151,7 +11114,6 @@
         "dbplyr",
         "shinyBS",
         "shinyFiles",
-        "shinyjs",
         "topGO"
     ],
     "phyloseq": [],
@@ -11171,8 +11133,7 @@
     "piano": [
         "cowplot",
         "fgsea",
-        "shinydashboard",
-        "shinyjs"
+        "shinydashboard"
     ],
     "PICS": [
         "GenomicAlignments"
@@ -11295,7 +11256,6 @@
         "readxl",
         "rematch2",
         "rstatix",
-        "shinyjs",
         "testthat",
         "tidyr",
         "viridis",
@@ -11316,7 +11276,6 @@
     "pmp": [],
     "PoDCall": [
         "readr",
-        "shinyjs",
         "vroom"
     ],
     "podkat": [
@@ -11594,7 +11553,6 @@
         "recipes",
         "shinydashboard",
         "shinydashboardPlus",
-        "shinyjs",
         "tidyr",
         "viridis",
         "vsn",
@@ -11619,7 +11577,6 @@
         "highcharter",
         "shinyBS",
         "shinyjqui",
-        "shinyjs",
         "tidyr",
         "vsn"
     ],
@@ -11716,7 +11673,6 @@
         "recount",
         "rtracklayer",
         "shinyBS",
-        "shinyjs",
         "tidyr",
         "viridis",
         "vroom"
@@ -11988,7 +11944,6 @@
         "fgsea",
         "piano",
         "shinydashboard",
-        "shinyjs",
         "tidyr"
     ],
     "RaggedExperiment": [],
@@ -13180,7 +13135,6 @@
         "ggdendro",
         "plotly",
         "shinydashboard",
-        "shinyjs",
         "tidyr"
     ],
     "sarks": [],
@@ -13913,7 +13867,6 @@
         "plotly",
         "readr",
         "rtracklayer",
-        "shinyjs",
         "tidyr",
         "viridis",
         "vroom"
@@ -14211,7 +14164,6 @@
         "scran",
         "sctransform",
         "scuttle",
-        "shinyjs",
         "sva",
         "tidyr",
         "tidytree",
@@ -14364,7 +14316,6 @@
         "mixtools",
         "plotly",
         "sampSurf",
-        "shinyjs",
         "tidyr"
     ],
     "SomaticSignatures": [
@@ -14437,7 +14388,6 @@
         "ggiraph",
         "ggrepel",
         "readr",
-        "shinyjs",
         "tidyr",
         "vroom"
     ],
@@ -14554,7 +14504,6 @@
         "ggridges",
         "plotly",
         "scuttle",
-        "shinyjs",
         "tidyr",
         "vroom",
         "xROI"
@@ -15106,7 +15055,6 @@
         "shinydashboard",
         "shinydashboardPlus",
         "shinyjqui",
-        "shinyjs",
         "shinytoastr",
         "spsComps",
         "tidyr",
@@ -15291,7 +15239,6 @@
         "shinyBS",
         "shinyFiles",
         "shinydashboard",
-        "shinyjs",
         "testthat",
         "tidygraph",
         "tidyr",
@@ -15596,7 +15543,6 @@
         "fgsea",
         "piano",
         "shinydashboard",
-        "shinyjs",
         "tidyr"
     ],
     "TPP": [
@@ -15800,7 +15746,6 @@
         "roxygen2",
         "shinyBS",
         "shinyFiles",
-        "shinyjs",
         "tidyr"
     ],
     "tRNA": [
@@ -15889,8 +15834,7 @@
         "plyranges",
         "rtracklayer",
         "shinyFiles",
-        "shinydashboard",
-        "shinyjs"
+        "shinydashboard"
     ],
     "UMI4Cats": [
         "AnnotationDbi",
@@ -15941,7 +15885,6 @@
         "org.Hs.eg.db",
         "rtracklayer",
         "shinyBS",
-        "shinyjs",
         "viridis"
     ],
     "UniProt.ws": [
@@ -16048,7 +15991,6 @@
         "ensembldb",
         "rtracklayer",
         "shinyTree",
-        "shinyjs",
         "viridis"
     ],
     "VariantTools": [
@@ -16325,7 +16267,6 @@
         "fgsea",
         "piano",
         "shinydashboard",
-        "shinyjs",
         "tidyr"
     ],
     "XINA": [
@@ -16447,7 +16388,6 @@
         "waldo"
     ],
     "ggsignif": [],
-    "shinyjs": [],
     "testthat": [
         "rematch2",
         "waldo"
@@ -16817,12 +16757,9 @@
         "rtracklayer"
     ],
     "ggExtra": [
-        "colourpicker",
-        "shinyjs"
+        "colourpicker"
     ],
-    "colourpicker": [
-        "shinyjs"
-    ],
+    "colourpicker": [],
     "heatmaply": [
         "dendextend",
         "egg",
@@ -17318,8 +17255,7 @@
     ],
     "tensorflow": [],
     "shinypanel": [
-        "shinyBS",
-        "shinyjs"
+        "shinyBS"
     ],
     "highcharter": [
         "broom",
@@ -18163,8 +18099,7 @@
     "sampSurf": [],
     "alphahull": [],
     "xROI": [
-        "colourpicker",
-        "shinyjs"
+        "colourpicker"
     ],
     "miRNAtap.db": [
         "AnnotationDbi",
