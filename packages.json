@@ -19329,8 +19329,7 @@
     ],
     "packFinder": [
         "Biostrings",
-        "GenomicRanges",
-        "kmer"
+        "GenomicRanges"
     ],
     "padma": [
         "FactoMineR",
@@ -32904,7 +32903,6 @@
         "tidyselect",
         "vroom"
     ],
-    "kmer": [],
     "tfprobability": [
         "keras",
         "tensorflow",
