@@ -67026,7 +67026,6 @@
         "memoise",
         "mgcv",
         "miniUI",
-        "mmand",
         "openssl",
         "pheatmap",
         "pillar",
@@ -87158,7 +87157,6 @@
     "PRIMME": [
         "Matrix"
     ],
-    "mmand": [],
     "alphahull": [
         "Matrix",
         "R.oo",
