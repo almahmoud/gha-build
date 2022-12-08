@@ -8092,7 +8092,6 @@
         "GenomicFeatures",
         "Organism.dplyr",
         "biomaRt",
-        "mirbase.db",
         "plotgardener",
         "plyranges"
     ],
@@ -9260,7 +9259,6 @@
     "kml": [
         "longitudinalData"
     ],
-    "mirbase.db": [],
     "msigdb": [
         "AnnotationHub",
         "ExperimentHub",
