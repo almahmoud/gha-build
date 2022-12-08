@@ -10987,7 +10987,6 @@
         "knitr",
         "lifecycle",
         "markdown",
-        "matrixTests",
         "memoise",
         "mgcv",
         "miniUI",
@@ -19056,7 +19055,6 @@
         "knitr",
         "lifecycle",
         "magick",
-        "matrixTests",
         "memoise",
         "mgcv",
         "miniUI",
@@ -44689,7 +44687,6 @@
         "lme4",
         "maftools",
         "markdown",
-        "matrixTests",
         "memoise",
         "mgcv",
         "nloptr",
@@ -80569,7 +80566,6 @@
         "stringfish"
     ],
     "rlist": [],
-    "matrixTests": [],
     "ggfittext": [
         "Matrix",
         "ggplot2",
