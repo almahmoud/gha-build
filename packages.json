@@ -18357,7 +18357,6 @@
         "ggplot2",
         "lme4",
         "lmerTest",
-        "mlr3learners",
         "nloptr",
         "phyloseq",
         "rematch2",
@@ -24048,7 +24047,6 @@
         "dplyr",
         "rmarkdown"
     ],
-    "mlr3learners": [],
     "survivalAnalysis": [
         "broom",
         "car",
