@@ -5721,9 +5721,7 @@
         "org.Hs.eg.db",
         "readr"
     ],
-    "miRNAmeConverter": [
-        "miRBaseVersions.db"
-    ],
+    "miRNAmeConverter": [],
     "miRNAtap": [],
     "miRSM": [
         "BiBitR",
@@ -11150,7 +11148,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "miRBaseVersions.db": [],
     "s4vd": [
         "biclust"
     ],
