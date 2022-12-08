@@ -54578,7 +54578,6 @@
         "keras",
         "lambda.r",
         "lifecycle",
-        "matrixLaplacian",
         "memoise",
         "mgcv",
         "munsell",
@@ -94457,7 +94456,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "matrixLaplacian": [],
     "Matching": [],
     "reportROC": [
         "lmtest",
