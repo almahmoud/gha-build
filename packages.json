@@ -844,7 +844,6 @@
         "ensembldb",
         "plyranges"
     ],
-    "BUSseq": [],
     "CAFE": [
         "BSgenome",
         "GGally",
