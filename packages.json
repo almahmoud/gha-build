@@ -19550,7 +19550,6 @@
         "scran",
         "scuttle",
         "selectr",
-        "shades",
         "shiny",
         "shinyFiles",
         "shinyWidgets",
@@ -103363,7 +103362,6 @@
         "rtracklayer",
         "scales",
         "seqLogo",
-        "shades",
         "snow",
         "sp",
         "stringi",
@@ -128894,7 +128892,6 @@
         "ore",
         "reportr",
         "rlang",
-        "shades",
         "snow",
         "stringi",
         "stringr",
@@ -146526,7 +146523,6 @@
         "pillar",
         "rlang",
         "scales",
-        "shades",
         "stringi",
         "tibble",
         "vctrs",
@@ -146567,7 +146563,6 @@
         "pillar",
         "rlang",
         "scales",
-        "shades",
         "stringi",
         "tibble",
         "vctrs",
@@ -146637,7 +146632,6 @@
         "BH",
         "Rcpp"
     ],
-    "shades": [],
     "DDRTree": [
         "BH",
         "Matrix",
@@ -159288,8 +159282,7 @@
         "RNifti",
         "Rcpp",
         "ore",
-        "reportr",
-        "shades"
+        "reportr"
     ],
     "ore": [],
     "reportr": [
