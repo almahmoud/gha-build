@@ -4288,7 +4288,6 @@
         "blob",
         "bslib",
         "epiNEM",
-        "flexclust",
         "genefilter",
         "ggdendro",
         "ggm",
@@ -10458,7 +10457,6 @@
         "dplyr",
         "dtplyr",
         "epiNEM",
-        "flexclust",
         "forcats",
         "gargle",
         "ggdendro",
@@ -13778,7 +13776,6 @@
         "Linnorm",
         "RBGL",
         "Rgraphviz",
-        "flexclust",
         "ggdendro",
         "ggm",
         "ggplot2",
@@ -19663,7 +19660,6 @@
     "iBBiG": [
         "biclust",
         "dplyr",
-        "flexclust",
         "ggplot2",
         "pillar",
         "scales",
@@ -25896,7 +25892,6 @@
         "dtplyr",
         "enrichplot",
         "fgsea",
-        "flexclust",
         "forcats",
         "future.apply",
         "gRbase",
@@ -26439,7 +26434,6 @@
     "mnem": [
         "Linnorm",
         "Rgraphviz",
-        "flexclust",
         "ggdendro",
         "ggplot2",
         "gmodels",
@@ -26741,7 +26735,6 @@
         "QUBIC",
         "biclust",
         "dplyr",
-        "flexclust",
         "ggplot2",
         "pillar",
         "scales",
@@ -28715,7 +28708,6 @@
         "RBGL",
         "Rgraphviz",
         "epiNEM",
-        "flexclust",
         "ggdendro",
         "ggm",
         "ggplot2",
@@ -33988,7 +33980,6 @@
     "QUBIC": [
         "biclust",
         "dplyr",
-        "flexclust",
         "ggplot2",
         "pillar",
         "scales",
@@ -37056,7 +37047,6 @@
     "rqubic": [
         "biclust",
         "dplyr",
-        "flexclust",
         "ggplot2",
         "pillar",
         "scales",
@@ -37413,7 +37403,6 @@
         "biclust",
         "callr",
         "dplyr",
-        "flexclust",
         "ggplot2",
         "pillar",
         "rematch2",
@@ -44581,8 +44570,7 @@
         "vroom"
     ],
     "TMixClust": [
-        "BiocParallel",
-        "flexclust"
+        "BiocParallel"
     ],
     "TNBC.CMS": [
         "AnnotationDbi",
@@ -49484,7 +49472,6 @@
         "stringr",
         "vctrs"
     ],
-    "flexclust": [],
     "BoolNet": [],
     "pcalg": [
         "RBGL",
@@ -51630,7 +51617,6 @@
     "reactable": [],
     "biclust": [
         "dplyr",
-        "flexclust",
         "ggplot2",
         "pillar",
         "scales",
@@ -52331,7 +52317,6 @@
     "s4vd": [
         "biclust",
         "dplyr",
-        "flexclust",
         "ggplot2",
         "pillar",
         "scales",
@@ -52344,7 +52329,6 @@
         "biclust",
         "dendextend",
         "dplyr",
-        "flexclust",
         "ggplot2",
         "pillar",
         "randomcoloR",
