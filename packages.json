@@ -5872,7 +5872,6 @@
         "ggplot2",
         "htmlTable",
         "knitr",
-        "ks",
         "multcomp",
         "pillar",
         "quantreg",
@@ -8050,7 +8049,6 @@
     "diggit": [
         "dplyr",
         "ggplot2",
-        "ks",
         "mixtools",
         "pillar",
         "plotly",
@@ -10232,7 +10230,6 @@
         "genomation",
         "ggplot2",
         "hdrcde",
-        "ks",
         "pillar",
         "progress",
         "rainbow",
@@ -10636,12 +10633,10 @@
         "stringr"
     ],
     "flowMeans": [
-        "feature",
-        "ks"
+        "feature"
     ],
     "flowMerge": [
-        "feature",
-        "ks"
+        "feature"
     ],
     "flowPloidy": [
         "broom",
@@ -10707,7 +10702,6 @@
         "flowWorkspace",
         "ggplot2",
         "hdrcde",
-        "ks",
         "pillar",
         "rainbow",
         "tibble",
@@ -10732,7 +10726,6 @@
         "flowWorkspace",
         "ggplot2",
         "hdrcde",
-        "ks",
         "pillar",
         "rainbow",
         "tibble",
@@ -10857,7 +10850,6 @@
         "fds",
         "ggplot2",
         "hdrcde",
-        "ks",
         "pillar",
         "rainbow",
         "tibble"
@@ -10880,7 +10872,6 @@
         "fds",
         "ggplot2",
         "hdrcde",
-        "ks",
         "pillar",
         "rainbow",
         "shiny",
@@ -14759,7 +14750,6 @@
         "fds",
         "ggplot2",
         "hdrcde",
-        "ks",
         "pillar",
         "rainbow",
         "tibble"
@@ -19923,7 +19913,6 @@
         "ggplot2",
         "ggrepel",
         "ggridges",
-        "ks",
         "miniUI",
         "patchwork",
         "pillar",
@@ -20395,7 +20384,6 @@
         "dplyr",
         "ggplot2",
         "ggridges",
-        "ks",
         "pillar",
         "plyranges",
         "progress",
@@ -21055,7 +21043,6 @@
         "feature",
         "flowMeans",
         "knitr",
-        "ks",
         "pillar",
         "rgl",
         "stringr",
@@ -22186,7 +22173,6 @@
         "hdrcde",
         "htmlTable",
         "knitr",
-        "ks",
         "pillar",
         "progress",
         "rainbow",
@@ -24106,7 +24092,6 @@
     "reconsi": [
         "Biostrings",
         "ggplot2",
-        "ks",
         "multtest",
         "phyloseq",
         "pillar",
@@ -31729,7 +31714,6 @@
         "geneplotter",
         "ggplot2",
         "hdrcde",
-        "ks",
         "org.Hs.eg.db",
         "pillar",
         "progress",
@@ -34956,10 +34940,7 @@
         "tibble",
         "viridis"
     ],
-    "feature": [
-        "ks"
-    ],
-    "ks": [],
+    "feature": [],
     "airway": [
         "GenomicRanges",
         "SummarizedExperiment"
@@ -35460,7 +35441,6 @@
         "fds",
         "ggplot2",
         "hdrcde",
-        "ks",
         "pillar",
         "rainbow",
         "tibble"
@@ -35468,7 +35448,6 @@
     "fds": [
         "ggplot2",
         "hdrcde",
-        "ks",
         "pillar",
         "rainbow",
         "tibble"
@@ -35476,13 +35455,11 @@
     "rainbow": [
         "ggplot2",
         "hdrcde",
-        "ks",
         "pillar",
         "tibble"
     ],
     "hdrcde": [
         "ggplot2",
-        "ks",
         "pillar",
         "tibble"
     ],
