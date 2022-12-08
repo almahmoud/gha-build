@@ -107,7 +107,6 @@
         "MultiAssayExperiment",
         "curatedTCGAData"
     ],
-    "amplican": [],
     "Anaquin": [
         "DESeq2",
         "geneplotter"
