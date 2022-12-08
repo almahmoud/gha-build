@@ -354,7 +354,6 @@
         "EnsDb.Hsapiens.v86",
         "RUVSeq"
     ],
-    "consensusOV": [],
     "contiBAIT": [
         "GenomicFiles"
     ],
@@ -1998,7 +1997,6 @@
     ],
     "signifinder": [
         "car",
-        "consensusOV",
         "ggpubr",
         "lme4",
         "pbkrtest",
