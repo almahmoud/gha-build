@@ -14981,7 +14981,6 @@
         "Rgraphviz",
         "SPARQL"
     ],
-    "flowClean": [],
     "flowClust": [],
     "flowCut": [
         "DelayedArray",
