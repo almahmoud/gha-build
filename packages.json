@@ -1033,9 +1033,7 @@
         "GenomicRanges",
         "RSQLite"
     ],
-    "ASSET": [
-        "msm"
-    ],
+    "ASSET": [],
     "ASSIGN": [
         "AnnotationDbi",
         "Biostrings",
@@ -1044,7 +1042,6 @@
         "annotate",
         "genefilter",
         "ggplot2",
-        "msm",
         "sva",
         "tibble"
     ],
@@ -15169,7 +15166,6 @@
         "fastseg",
         "ggplot2",
         "methylKit",
-        "msm",
         "qvalue",
         "reshape2",
         "rtracklayer",
@@ -21751,8 +21747,7 @@
         "viridis"
     ],
     "REBET": [
-        "ASSET",
-        "msm"
+        "ASSET"
     ],
     "rebook": [
         "BiocStyle",
@@ -27335,7 +27330,6 @@
         "geneplotter",
         "ggplot2",
         "ggrepel",
-        "msm",
         "plotly",
         "reshape2",
         "singscore",
@@ -30222,7 +30216,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "msm": [],
     "msigdbr": [
         "babelgene",
         "dplyr",
