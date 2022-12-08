@@ -47943,9 +47943,7 @@
         "viridisLite",
         "withr"
     ],
-    "ibh": [
-        "simpIntLists"
-    ],
+    "ibh": [],
     "iBMQ": [
         "Biobase",
         "BiocGenerics",
@@ -128222,7 +128220,6 @@
         "viridisLite",
         "withr"
     ],
-    "simpIntLists": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "AnnotationDbi",
         "BH",
