@@ -1391,7 +1391,6 @@
         "rstatix",
         "testthat"
     ],
-    "DifferentialRegulation": [],
     "diffHic": [],
     "diffUTR": [
         "DESeq2",
