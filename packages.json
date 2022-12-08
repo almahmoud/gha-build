@@ -592,8 +592,7 @@
         "clusterProfiler"
     ],
     "MAIT": [
-        "agricolae",
-        "klaR"
+        "agricolae"
     ],
     "maser": [],
     "MBECS": [
@@ -843,8 +842,7 @@
     ],
     "OGRE": [],
     "omada": [
-        "diceR",
-        "klaR"
+        "diceR"
     ],
     "omicRexposome": [
         "FactoMineR",
@@ -1328,10 +1326,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "agricolae": [
-        "klaR"
-    ],
-    "klaR": [],
+    "agricolae": [],
     "FlowSorted.Blood.450k": [],
     "methylclockData": [],
     "blme": [],
@@ -1340,9 +1335,7 @@
         "car",
         "pbkrtest"
     ],
-    "diceR": [
-        "klaR"
-    ],
+    "diceR": [],
     "AICcmodavg": [
         "unmarked"
     ],
