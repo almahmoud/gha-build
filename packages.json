@@ -12745,9 +12745,7 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "GRridge": [
-        "penalized"
-    ],
+    "GRridge": [],
     "GSCA": [
         "ggplot2",
         "pillar",
@@ -20172,7 +20170,6 @@
         "multtest",
         "org.Hs.eg.db",
         "pandaR",
-        "penalized",
         "pillar",
         "progress",
         "quantro",
@@ -26982,8 +26979,7 @@
     ],
     "scRecover": [
         "Rmagic",
-        "SAVER",
-        "penalized"
+        "SAVER"
     ],
     "ScreenR": [
         "dplyr",
@@ -35634,7 +35630,6 @@
         "stringr"
     ],
     "sf": [],
-    "penalized": [],
     "fGarch": [
         "cvar"
     ],
