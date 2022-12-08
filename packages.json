@@ -2725,7 +2725,6 @@
         "knitr",
         "latex2exp",
         "mnem",
-        "pcalg",
         "rmarkdown",
         "stringr",
         "sva",
@@ -6832,7 +6831,6 @@
         "multcomp",
         "mutoss",
         "org.Hs.eg.db",
-        "pcalg",
         "progress",
         "quantreg",
         "readr",
@@ -9061,7 +9059,6 @@
         "ggplot2",
         "latex2exp",
         "mnem",
-        "pcalg",
         "stringr",
         "tibble",
         "vegan"
@@ -17004,7 +17001,6 @@
         "mboost",
         "org.Hs.eg.db",
         "partykit",
-        "pcalg",
         "progress",
         "readr",
         "rvest",
@@ -19007,7 +19003,6 @@
         "ggplot2",
         "latex2exp",
         "mnem",
-        "pcalg",
         "stringr",
         "tibble",
         "vegan"
@@ -32519,7 +32514,6 @@
     "randomcoloR": [
         "stringr"
     ],
-    "pcalg": [],
     "GenomicState": [
         "AnnotationDbi",
         "AnnotationHub",
