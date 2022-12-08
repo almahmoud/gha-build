@@ -6053,7 +6053,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "biomaRt"
     ],
-    "SemDist": [],
     "seq2pathway": [
         "WGCNA",
         "biomaRt"
