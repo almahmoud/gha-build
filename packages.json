@@ -23033,7 +23033,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "HSMMSingleCell",
         "Hmisc",
         "IRanges",
         "KEGGREST",
@@ -88009,7 +88008,6 @@
         "BiocGenerics",
         "BiocManager",
         "DDRTree",
-        "HSMMSingleCell",
         "MASS",
         "Matrix",
         "R6",
@@ -151896,7 +151894,6 @@
         "BiocManager",
         "DDRTree",
         "DEoptimR",
-        "HSMMSingleCell",
         "KernSmooth",
         "MASS",
         "Matrix",
@@ -169031,7 +169028,6 @@
         "irlba",
         "lattice"
     ],
-    "HSMMSingleCell": [],
     "leidenbase": [
         "Matrix",
         "igraph",
