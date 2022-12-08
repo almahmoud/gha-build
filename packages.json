@@ -2966,7 +2966,6 @@
     "coRdon": [],
     "CoreGx": [
         "MultiAssayExperiment",
-        "bench",
         "cowplot",
         "fgsea",
         "piano",
@@ -10727,7 +10726,6 @@
         "BiocFileCache",
         "CoreGx",
         "MultiAssayExperiment",
-        "bench",
         "biomaRt",
         "broom",
         "car",
@@ -10844,7 +10842,6 @@
     "PharmacoGx": [
         "CoreGx",
         "MultiAssayExperiment",
-        "bench",
         "cowplot",
         "fgsea",
         "piano",
@@ -11759,7 +11756,6 @@
     "RadioGx": [
         "CoreGx",
         "MultiAssayExperiment",
-        "bench",
         "cowplot",
         "fgsea",
         "piano",
@@ -15298,7 +15294,6 @@
     "ToxicoGx": [
         "CoreGx",
         "MultiAssayExperiment",
-        "bench",
         "cowplot",
         "fgsea",
         "piano",
@@ -16010,7 +16005,6 @@
         "CoreGx",
         "MultiAssayExperiment",
         "PharmacoGx",
-        "bench",
         "cowplot",
         "fgsea",
         "piano",
@@ -16960,7 +16954,6 @@
         "rtracklayer",
         "tidyr"
     ],
-    "bench": [],
     "faahKO": [
         "MSnbase",
         "MsFeatures",
