@@ -973,7 +973,6 @@
         "VariantAnnotation"
     ],
     "cyanoFilter": [
-        "RFOC",
         "car",
         "flowDensity",
         "lme4",
@@ -1057,7 +1056,6 @@
         "tidyverse"
     ],
     "ddPCRclust": [
-        "RFOC",
         "car",
         "flowDensity",
         "lme4",
@@ -1629,7 +1627,6 @@
         "SPARQL"
     ],
     "flowCut": [
-        "RFOC",
         "car",
         "flowDensity",
         "lme4",
@@ -1638,7 +1635,6 @@
         "testthat"
     ],
     "flowDensity": [
-        "RFOC",
         "car",
         "lme4",
         "nloptr",
@@ -5212,7 +5208,6 @@
     ],
     "crisprScoreData": [],
     "highcharter": [],
-    "RFOC": [],
     "mbest": [
         "lme4",
         "nloptr",
