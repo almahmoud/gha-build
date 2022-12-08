@@ -28370,7 +28370,6 @@
         "highcharter",
         "pillar",
         "quantmod",
-        "rhandsontable",
         "scales",
         "shiny",
         "shinyAce",
@@ -35931,7 +35930,6 @@
         "plotly",
         "progress",
         "reshape2",
-        "rhandsontable",
         "rtracklayer",
         "scales",
         "seriation",
@@ -45474,7 +45472,6 @@
         "tseries",
         "vctrs"
     ],
-    "rhandsontable": [],
     "EnsDb.Mmusculus.v79": [
         "AnnotationDbi",
         "AnnotationFilter",
