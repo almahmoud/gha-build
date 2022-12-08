@@ -6922,7 +6922,6 @@
         "scuttle",
         "shiny",
         "sitmo",
-        "slam",
         "snow",
         "softImpute",
         "sp",
@@ -9753,8 +9752,7 @@
         "Rtsne",
         "igraph",
         "magrittr",
-        "rlang",
-        "slam"
+        "rlang"
     ],
     "biscuiteer": [
         "AnnotationDbi",
@@ -14257,7 +14255,6 @@
         "openssl",
         "png",
         "rlang",
-        "slam",
         "tm",
         "topGO",
         "topicmodels",
@@ -17036,7 +17033,6 @@
         "rstudioapi",
         "rtracklayer",
         "scales",
-        "slam",
         "snow",
         "sparsesvd",
         "stringi",
@@ -17763,7 +17759,6 @@
         "rlang",
         "robustbase",
         "scales",
-        "slam",
         "snow",
         "sparsesvd",
         "tibble",
@@ -19643,7 +19638,6 @@
         "rjson",
         "rlang",
         "skmeans",
-        "slam",
         "stringi",
         "stringr",
         "vctrs"
@@ -21657,7 +21651,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "slam",
         "snow",
         "tibble",
         "tidyr",
@@ -26513,7 +26506,6 @@
         "rvest",
         "scales",
         "selectr",
-        "slam",
         "stopwords",
         "stringi",
         "stringr",
@@ -38051,7 +38043,6 @@
         "qdapRegex",
         "rlang",
         "scales",
-        "slam",
         "snow",
         "stringi",
         "stringr",
@@ -40589,7 +40580,6 @@
         "rmarkdown",
         "rtracklayer",
         "sass",
-        "slam",
         "snow",
         "stringi",
         "stringr",
@@ -41679,7 +41669,6 @@
         "rvest",
         "scales",
         "selectr",
-        "slam",
         "stopwords",
         "stringi",
         "stringr",
@@ -48398,7 +48387,6 @@
         "shinyAce",
         "shinyBS",
         "shinydashboard",
-        "slam",
         "snow",
         "stringi",
         "stringr",
@@ -48682,8 +48670,7 @@
         "zlibbioc"
     ],
     "IHW": [
-        "BiocGenerics",
-        "slam"
+        "BiocGenerics"
     ],
     "illuminaio": [
         "askpass",
@@ -64796,7 +64783,6 @@
         "reshape2",
         "rlang",
         "scales",
-        "slam",
         "sparsesvd",
         "stringi",
         "stringr",
@@ -68528,7 +68514,6 @@
         "shinyjqui",
         "shinyjs",
         "sitmo",
-        "slam",
         "snow",
         "sortable",
         "stringi",
@@ -76070,7 +76055,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "slam",
         "snow",
         "spam",
         "stringi",
@@ -76864,7 +76848,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "slam",
         "snow",
         "stringi",
         "stringr",
@@ -77677,7 +77660,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "slam",
         "snow",
         "tibble",
         "vctrs",
@@ -83399,7 +83381,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "slam",
         "snow",
         "stringi",
         "stringr",
@@ -90530,7 +90511,6 @@
         "sass",
         "scales",
         "shiny",
-        "slam",
         "tibble",
         "tm",
         "treemap",
@@ -98948,7 +98928,6 @@
         "proxyC",
         "rjson",
         "rlang",
-        "slam",
         "tm",
         "vctrs",
         "zlibbioc"
@@ -104205,7 +104184,6 @@
         "rlang",
         "scales",
         "scatterpie",
-        "slam",
         "snow",
         "stringi",
         "stringr",
@@ -109209,7 +109187,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "slam",
         "snow",
         "stringi",
         "stringr",
@@ -111114,7 +111091,6 @@
         "rsparse",
         "rstudioapi",
         "scales",
-        "slam",
         "stopwords",
         "stringi",
         "stringr",
@@ -111999,7 +111975,6 @@
         "rlang",
         "robustbase",
         "scales",
-        "slam",
         "sparsesvd",
         "stringi",
         "stringr",
@@ -112126,7 +112101,6 @@
         "scuttle",
         "selectr",
         "sitmo",
-        "slam",
         "snow",
         "sparseMatrixStats",
         "stopwords",
@@ -113312,7 +113286,6 @@
         "scales",
         "scico",
         "shiny",
-        "slam",
         "stopwords",
         "stringi",
         "stringr",
@@ -114622,7 +114595,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "slam",
         "snow",
         "stringi",
         "stringr",
@@ -120166,7 +120138,6 @@
         "rlang",
         "rprojroot",
         "scales",
-        "slam",
         "sp",
         "stringi",
         "stringr",
@@ -120212,7 +120183,6 @@
         "pkgload",
         "rlang",
         "rprojroot",
-        "slam",
         "withr"
     ],
     "CompQuadForm": [],
@@ -120234,13 +120204,10 @@
     "softImpute": [
         "Matrix"
     ],
-    "ROI": [
-        "slam"
-    ],
+    "ROI": [],
     "ROI.plugin.lpsolve": [
         "ROI",
-        "lpSolveAPI",
-        "slam"
+        "lpSolveAPI"
     ],
     "lpSolveAPI": [],
     "optextras": [],
@@ -120251,7 +120218,6 @@
         "optextras"
     ],
     "mitools": [],
-    "slam": [],
     "sjmisc": [
         "datawizard",
         "dplyr",
@@ -122652,17 +122618,13 @@
         "NLP",
         "Rcpp",
         "modeltools",
-        "slam",
         "tm"
     ],
-    "maptpx": [
-        "slam"
-    ],
+    "maptpx": [],
     "tm": [
         "BH",
         "NLP",
-        "Rcpp",
-        "slam"
+        "Rcpp"
     ],
     "NLP": [],
     "rjsoncons": [
@@ -124109,7 +124071,6 @@
     ],
     "qlcMatrix": [
         "Matrix",
-        "slam",
         "sparsesvd"
     ],
     "sparsesvd": [
@@ -124326,8 +124287,7 @@
         "robustbase"
     ],
     "skmeans": [
-        "clue",
-        "slam"
+        "clue"
     ],
     "eulerr": [
         "Rcpp",
@@ -124865,9 +124825,7 @@
         "vctrs"
     ],
     "profmem": [],
-    "relations": [
-        "slam"
-    ],
+    "relations": [],
     "pals": [
         "dichromat",
         "mapproj"
@@ -125892,7 +125850,6 @@
         "qdapRegex",
         "quanteda",
         "rlang",
-        "slam",
         "stopwords",
         "stringi",
         "sylly.en",
@@ -125939,7 +125896,6 @@
         "pillar",
         "purrr",
         "rlang",
-        "slam",
         "stringi",
         "syuzhet",
         "textshape",
@@ -125971,7 +125927,6 @@
         "purrr",
         "qdapRegex",
         "rlang",
-        "slam",
         "stringi",
         "syuzhet",
         "textshape",
@@ -125983,7 +125938,6 @@
         "zoo"
     ],
     "textshape": [
-        "slam",
         "stringi"
     ],
     "sylly.en": [],
@@ -125997,7 +125951,6 @@
         "pillar",
         "purrr",
         "rlang",
-        "slam",
         "stringi",
         "textshape",
         "tibble",
