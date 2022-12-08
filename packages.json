@@ -5102,7 +5102,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "uSORT": [],
     "VAExprs": [
         "DeepPINCS",
         "DiagrammeR",
