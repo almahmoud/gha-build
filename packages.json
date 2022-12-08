@@ -3349,7 +3349,6 @@
         "SoupX",
         "TENxPBMCData",
         "celda",
-        "celldex",
         "ensembldb",
         "ggtree",
         "scDblFinder",
@@ -4130,7 +4129,6 @@
         "rstatix",
         "survminer"
     ],
-    "celldex": [],
     "GSVAdata": [],
     "SoupX": [],
     "scRNAseq": [
