@@ -774,7 +774,6 @@
         "biovizBase"
     ],
     "HiLDA": [],
-    "HPiP": [],
     "HTSeqGenie": [
         "VariantTools",
         "gmapR"
