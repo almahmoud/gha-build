@@ -27564,7 +27564,6 @@
         "RSQLite",
         "Rcpp",
         "S4Vectors",
-        "SMVar",
         "SummarizedExperiment",
         "XML",
         "XVector",
@@ -149666,7 +149665,6 @@
         "withr"
     ],
     "metaMA": [
-        "SMVar",
         "limma"
     ],
     "reader": [
@@ -149701,7 +149699,6 @@
         "withr",
         "xtable"
     ],
-    "SMVar": [],
     "NCmisc": [],
     "binr": [],
     "highcharter": [
