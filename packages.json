@@ -6894,7 +6894,6 @@
         "reshape2",
         "tibble"
     ],
-    "DelayedDataFrame": [],
     "DelayedRandomArray": [],
     "DelayedTensor": [
         "BiocSingular",
@@ -28985,7 +28984,6 @@
     ],
     "VariantExperiment": [
         "Biostrings",
-        "DelayedDataFrame",
         "GDSArray",
         "GenomicRanges",
         "SeqArray",
