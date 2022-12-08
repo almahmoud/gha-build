@@ -749,7 +749,6 @@
         "rsq"
     ],
     "DeepPINCS": [
-        "lexicon",
         "textclean",
         "textstem",
         "ttgsea"
@@ -1142,7 +1141,6 @@
     ],
     "fobitools": [
         "ggraph",
-        "lexicon",
         "textclean"
     ],
     "FRASER": [
@@ -1268,7 +1266,6 @@
     ],
     "GenProSeq": [
         "DeepPINCS",
-        "lexicon",
         "textclean",
         "textstem",
         "ttgsea"
@@ -3304,7 +3301,6 @@
         "kmlShape"
     ],
     "ttgsea": [
-        "lexicon",
         "textclean",
         "textstem"
     ],
@@ -3337,7 +3333,6 @@
     ],
     "VAExprs": [
         "DeepPINCS",
-        "lexicon",
         "textclean",
         "textstem",
         "ttgsea"
@@ -3374,7 +3369,6 @@
     "ViSEAGO": [],
     "vissE": [
         "ggraph",
-        "lexicon",
         "msigdb",
         "textclean",
         "textstem"
@@ -3566,13 +3560,9 @@
         "lme4"
     ],
     "textstem": [
-        "lexicon",
         "textclean"
     ],
-    "lexicon": [],
-    "textclean": [
-        "lexicon"
-    ],
+    "textclean": [],
     "VIM": [
         "car",
         "lme4",
