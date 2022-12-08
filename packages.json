@@ -103,7 +103,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "COSMIC.67",
         "GenomicFeatures",
-        "GenomicScores",
         "Homo.sapiens",
         "MafDb.1Kgenomes.phase3.hs37d5",
         "MafDb.ExAC.r1.0.hs37d5",
@@ -182,7 +181,6 @@
         "CNEr",
         "ChIPpeakAnno",
         "GenomicFeatures",
-        "GenomicScores",
         "TFBSTools",
         "ensembldb",
         "motifStack",
@@ -1856,7 +1854,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "GenomicScores": [],
     "GenomicSuperSignature": [
         "car",
         "ggpubr",
@@ -3156,7 +3153,6 @@
         "CNEr",
         "ChIPpeakAnno",
         "GenomicFeatures",
-        "GenomicScores",
         "Gviz",
         "TFBSTools",
         "VariantAnnotation",
@@ -3591,7 +3587,6 @@
         "BSgenome.Hsapiens.UCSC.hg38",
         "CNEr",
         "GenomicFeatures",
-        "GenomicScores",
         "Gviz",
         "TFBSTools",
         "VariantAnnotation",
@@ -3792,7 +3787,6 @@
     "RareVariantVis": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicFeatures",
-        "GenomicScores",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation",
         "phastCons100way.UCSC.hg19"
@@ -4990,7 +4984,6 @@
     ],
     "VariantFiltering": [
         "GenomicFeatures",
-        "GenomicScores",
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
@@ -5164,15 +5157,9 @@
     ],
     "SNPlocs.Hsapiens.dbSNP144.GRCh37": [],
     "XtraSNPlocs.Hsapiens.dbSNP144.GRCh37": [],
-    "MafDb.1Kgenomes.phase3.hs37d5": [
-        "GenomicScores"
-    ],
-    "MafDb.ExAC.r1.0.hs37d5": [
-        "GenomicScores"
-    ],
-    "MafDb.gnomADex.r2.1.hs37d5": [
-        "GenomicScores"
-    ],
+    "MafDb.1Kgenomes.phase3.hs37d5": [],
+    "MafDb.ExAC.r1.0.hs37d5": [],
+    "MafDb.gnomADex.r2.1.hs37d5": [],
     "COSMIC.67": [
         "GenomicFeatures",
         "VariantAnnotation"
@@ -5521,9 +5508,7 @@
     ],
     "tfprobability": [],
     "tidybayes": [],
-    "phastCons100way.UCSC.hg38": [
-        "GenomicScores"
-    ],
+    "phastCons100way.UCSC.hg38": [],
     "EnsDb.Mmusculus.v79": [
         "GenomicFeatures",
         "ensembldb"
@@ -5533,9 +5518,7 @@
         "ensembldb"
     ],
     "pwrEWAS.data": [],
-    "phastCons100way.UCSC.hg19": [
-        "GenomicScores"
-    ],
+    "phastCons100way.UCSC.hg19": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [],
     "rGenomeTracksData": [],
     "valr": [],
