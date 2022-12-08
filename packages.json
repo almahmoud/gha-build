@@ -1023,7 +1023,6 @@
         "covr",
         "dplyr",
         "e1071",
-        "fBasics",
         "forcats",
         "future",
         "future.apply",
@@ -7700,7 +7699,6 @@
         "ShortRead",
         "SummarizedExperiment",
         "XVector",
-        "fBasics",
         "interp",
         "latticeExtra"
     ],
@@ -9489,7 +9487,6 @@
         "ROCR",
         "ape",
         "edgeR",
-        "fBasics",
         "future",
         "future.apply",
         "ggplot2",
@@ -12672,7 +12669,6 @@
     ],
     "deltaGseg": [
         "TTR",
-        "fBasics",
         "ggplot2",
         "mgcv",
         "pillar",
@@ -20963,7 +20959,6 @@
         "XVector",
         "callr",
         "cvar",
-        "fBasics",
         "fGarch",
         "gbutils",
         "nloptr",
@@ -29033,7 +29028,6 @@
         "MCMCpack",
         "callr",
         "dplyr",
-        "fBasics",
         "ggplot2",
         "mgcv",
         "modeest",
@@ -54659,7 +54653,6 @@
     ],
     "GUniFrac": [
         "ape",
-        "fBasics",
         "ggplot2",
         "ggrepel",
         "mgcv",
@@ -54690,11 +54683,9 @@
         "vctrs"
     ],
     "modeest": [
-        "fBasics",
         "statip"
     ],
     "gridSVG": [],
-    "fBasics": [],
     "statip": [],
     "clock": [
         "vctrs"
@@ -59001,7 +58992,6 @@
     ],
     "fGarch": [
         "cvar",
-        "fBasics",
         "gbutils"
     ],
     "cvar": [
