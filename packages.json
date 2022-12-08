@@ -1645,8 +1645,7 @@
     ],
     "factR": [
         "GenomicFeatures",
-        "drawProteins",
-        "wiggleplotr"
+        "drawProteins"
     ],
     "FamAgg": [
         "gap"
@@ -5221,7 +5220,6 @@
         "GenomicFeatures"
     ],
     "webbioc": [],
-    "wiggleplotr": [],
     "wpm": [],
     "wppi": [
         "OmnipathR"
