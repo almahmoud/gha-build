@@ -8548,7 +8548,6 @@
         "readr",
         "snpStats",
         "sva",
-        "swamp",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -38060,7 +38059,6 @@
         "stringr",
         "tibble"
     ],
-    "swamp": [],
     "DiffCorr": [
         "multtest"
     ],
