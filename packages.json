@@ -1349,9 +1349,7 @@
     "projectR": [],
     "pRolocGUI": [],
     "Prostar": [],
-    "proteasy": [
-        "EnsDb.Rnorvegicus.v79"
-    ],
+    "proteasy": [],
     "ProteoDisco": [],
     "protGear": [
         "FactoMineR",
@@ -1938,7 +1936,6 @@
         "unmarked"
     ],
     "unmarked": [],
-    "EnsDb.Rnorvegicus.v79": [],
     "Rmagic": [],
     "survivalAnalysis": [
         "car",
