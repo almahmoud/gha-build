@@ -14540,7 +14540,6 @@
         "gridExtra",
         "irlba",
         "lifecycle",
-        "mapproj",
         "mgcv",
         "pals",
         "pillar",
@@ -50900,7 +50899,6 @@
         "jquerylib",
         "lifecycle",
         "magicaxis",
-        "mapproj",
         "marray",
         "memoise",
         "mgcv",
@@ -55215,7 +55213,6 @@
         "jquerylib",
         "lifecycle",
         "magicaxis",
-        "mapproj",
         "marray",
         "memoise",
         "mgcv",
@@ -65236,7 +65233,6 @@
         "lifecycle",
         "lme4",
         "lubridate",
-        "mapproj",
         "markdown",
         "memoise",
         "mgcv",
@@ -76015,7 +76011,6 @@
         "jquerylib",
         "lifecycle",
         "magicaxis",
-        "mapproj",
         "marray",
         "memoise",
         "mgcv",
@@ -82392,10 +82387,7 @@
         "vctrs"
     ],
     "relations": [],
-    "pals": [
-        "mapproj"
-    ],
-    "mapproj": [],
+    "pals": [],
     "capushe": [],
     "Rmixmod": [
         "Matrix",
@@ -86419,8 +86411,7 @@
     ],
     "webutils": [],
     "magicaxis": [
-        "celestial",
-        "mapproj"
+        "celestial"
     ],
     "celestial": [],
     "PMCMRplus": [
@@ -87586,7 +87577,6 @@
         "latticeExtra",
         "lifecycle",
         "lubridate",
-        "mapproj",
         "mgcv",
         "pillar",
         "progress",
