@@ -2539,7 +2539,6 @@
         "EnsDb.Hsapiens.v86"
     ],
     "RLSeq": [
-        "RLHub",
         "caret",
         "caretEnsemble"
     ],
@@ -3443,7 +3442,6 @@
     "caretEnsemble": [
         "caret"
     ],
-    "RLHub": [],
     "SCATEData": [],
     "Rmagic": [],
     "clustree": [
