@@ -1623,7 +1623,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "urltools",
         "vctrs"
     ],
     "aroma.light": [
@@ -3951,7 +3950,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "urltools",
         "vctrs",
         "vroom"
     ],
@@ -37022,7 +37020,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "urltools",
         "vctrs",
         "vroom"
     ],
@@ -46265,7 +46262,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "urltools",
         "vctrs"
     ],
     "SeqVarTools": [
@@ -56213,7 +56209,6 @@
         "httr",
         "openssl",
         "stringr",
-        "urltools",
         "vctrs"
     ],
     "MafDb.1Kgenomes.phase3.hs37d5": [
@@ -56444,10 +56439,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "crul": [
-        "urltools"
-    ],
-    "urltools": [],
+    "crul": [],
     "FDb.InfiniumMethylation.hg19": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -57416,7 +57408,6 @@
         "openssl",
         "pillar",
         "tibble",
-        "urltools",
         "vctrs"
     ],
     "fauxpas": [],
@@ -61872,7 +61863,6 @@
         "openssl",
         "pillar",
         "tibble",
-        "urltools",
         "vctrs"
     ],
     "C50": [
@@ -62549,7 +62539,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "urltools",
         "vctrs"
     ],
     "gistr": [
@@ -62567,7 +62556,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "urltools",
         "vctrs"
     ],
     "mlr3": [
