@@ -4935,7 +4935,6 @@
     ],
     "graper": [],
     "graphite": [],
-    "GraphPAC": [],
     "GRENITS": [],
     "GreyListChIP": [
         "BSgenome",
@@ -9210,7 +9209,6 @@
         "tidyr"
     ],
     "QuartPAC": [
-        "GraphPAC",
         "SpacePAC"
     ],
     "QuasR": [
