@@ -14368,7 +14368,6 @@
         "mgcv",
         "openssl",
         "pillar",
-        "pscl",
         "purrr",
         "qvalue",
         "reshape2",
@@ -16754,7 +16753,6 @@
         "gamlss",
         "maxLik",
         "miscTools",
-        "pscl",
         "sandwich",
         "survival"
     ],
@@ -28025,7 +28023,6 @@
         "openssl",
         "pillar",
         "progress",
-        "pscl",
         "purrr",
         "restfulr",
         "rtracklayer",
@@ -30550,7 +30547,6 @@
         "plotly",
         "processx",
         "promises",
-        "pscl",
         "purrr",
         "quantreg",
         "qvalue",
@@ -32625,7 +32621,6 @@
         "pillar",
         "pkgload",
         "processx",
-        "pscl",
         "purrr",
         "quantreg",
         "rematch2",
@@ -32703,7 +32698,6 @@
         "pillar",
         "pkgload",
         "processx",
-        "pscl",
         "psych",
         "purrr",
         "quantreg",
@@ -35511,7 +35505,6 @@
         "processx",
         "progress",
         "promises",
-        "pscl",
         "purrr",
         "quantreg",
         "readr",
@@ -38085,7 +38078,6 @@
         "mgcv",
         "pheatmap",
         "pillar",
-        "pscl",
         "purrr",
         "reshape2",
         "scales",
@@ -38547,7 +38539,6 @@
         "pillar",
         "pkgload",
         "processx",
-        "pscl",
         "purrr",
         "quantreg",
         "rematch2",
@@ -57007,7 +56998,6 @@
         "glmnet",
         "penalized",
         "preseqR",
-        "pscl",
         "rsvd",
         "survival"
     ],
@@ -57171,8 +57161,7 @@
         "Matrix",
         "bbmle",
         "emdbook",
-        "futile.logger",
-        "pscl"
+        "futile.logger"
     ],
     "scTensor": [
         "AnnotationDbi",
@@ -74698,7 +74687,6 @@
     "ccaPP": [
         "pcaPP"
     ],
-    "pscl": [],
     "cytometree": [
         "GoFKernel",
         "Matrix",
