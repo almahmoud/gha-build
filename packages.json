@@ -632,7 +632,6 @@
         "geneplotter",
         "ggplot2",
         "ggrepel",
-        "repmis",
         "rtracklayer",
         "tibble",
         "tidyr"
@@ -7791,7 +7790,6 @@
         "plotly",
         "readr",
         "rematch2",
-        "repmis",
         "reshape2",
         "rstatix",
         "shiny",
@@ -16684,7 +16682,6 @@
         "plotly",
         "readr",
         "rematch2",
-        "repmis",
         "rstatix",
         "testthat",
         "tibble",
@@ -22634,7 +22631,6 @@
         "nloptr",
         "readxl",
         "rematch2",
-        "repmis",
         "reshape2",
         "testthat",
         "tibble",
@@ -26064,7 +26060,6 @@
     "shinytoastr": [
         "shiny"
     ],
-    "repmis": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi",
         "Biostrings",
