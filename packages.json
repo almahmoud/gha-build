@@ -329,9 +329,7 @@
         "RTCGAToolbox",
         "TCGAutils"
     ],
-    "CCPROMISE": [
-        "PROMISE"
-    ],
+    "CCPROMISE": [],
     "celda": [],
     "cellHTS2": [
         "Category"
@@ -2322,7 +2320,6 @@
         "caret",
         "pRoloc"
     ],
-    "PROMISE": [],
     "PROPS": [],
     "Prostar": [
         "DAPAR"
