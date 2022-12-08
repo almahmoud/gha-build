@@ -5593,7 +5593,6 @@
     "flowAI": [
         "rmarkdown"
     ],
-    "flowBeads": [],
     "flowBin": [],
     "flowcatchR": [
         "plotly",
