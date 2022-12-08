@@ -8043,7 +8043,6 @@
         "ShortRead"
     ],
     "systemPipeShiny": [
-        "drawer",
         "plotly",
         "shinydashboardPlus"
     ],
@@ -9622,7 +9621,6 @@
     "mosaicCore": [],
     "rsample": [],
     "SpatialExtremes": [],
-    "drawer": [],
     "GenKern": [],
     "bestNormalize": [
         "recipes"
