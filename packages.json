@@ -8318,7 +8318,6 @@
         "tibble",
         "vctrs"
     ],
-    "bridge": [],
     "BridgeDbR": [],
     "BrowserViz": [
         "httpuv",
