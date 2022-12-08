@@ -3147,7 +3147,6 @@
         "memoise",
         "pillar",
         "progress",
-        "rslurm",
         "rtracklayer",
         "sjmisc",
         "stringr",
@@ -53069,7 +53068,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "rslurm": [],
     "LIM": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "AnnotationDbi",
