@@ -2496,7 +2496,6 @@
         "flowDensity",
         "flowWorkspace",
         "lme4",
-        "mrfDepth",
         "nloptr",
         "pbkrtest",
         "testthat",
@@ -13167,7 +13166,6 @@
         "tidyr"
     ],
     "cytometree": [],
-    "mrfDepth": [],
     "RFOC": [
         "GEOmap",
         "fields"
