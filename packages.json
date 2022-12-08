@@ -23301,7 +23301,6 @@
         "Biostrings",
         "KEGGREST",
         "RSQLite",
-        "RankProd",
         "XVector",
         "blob",
         "org.Hs.eg.db",
@@ -27706,7 +27705,6 @@
         "GenomicRanges",
         "KEGGREST",
         "RSQLite",
-        "RankProd",
         "SummarizedExperiment",
         "XVector",
         "annotate",
@@ -29384,7 +29382,6 @@
         "vctrs",
         "vroom"
     ],
-    "RankProd": [],
     "RAREsim": [
         "nloptr",
         "pillar",
@@ -37164,7 +37161,6 @@
         "vctrs"
     ],
     "synlet": [
-        "RankProd",
         "broom",
         "doBy",
         "dplyr",
@@ -38650,7 +38646,6 @@
         "GenomicRanges",
         "KEGGREST",
         "RSQLite",
-        "RankProd",
         "SummarizedExperiment",
         "XVector",
         "annotate",
