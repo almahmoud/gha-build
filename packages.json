@@ -19396,7 +19396,6 @@
         "rmarkdown",
         "rtracklayer"
     ],
-    "pkgDepTools": [],
     "planet": [
         "dplyr",
         "tibble"
