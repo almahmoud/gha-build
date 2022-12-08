@@ -3837,7 +3837,6 @@
     "CONFESS": [
         "Hmisc",
         "contrast",
-        "flowMerge",
         "ggplot2",
         "htmlTable",
         "rms",
@@ -7050,7 +7049,6 @@
         "ggrepel"
     ],
     "flowMap": [],
-    "flowMerge": [],
     "flowPloidy": [
         "broom",
         "car",
