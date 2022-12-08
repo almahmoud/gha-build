@@ -3178,7 +3178,6 @@
     "ViSEAGO": [],
     "vissE": [
         "ggraph",
-        "msigdb",
         "textclean",
         "textstem"
     ],
@@ -3475,6 +3474,5 @@
     "ggformula": [],
     "GenKern": [],
     "bestNormalize": [],
-    "vbsr": [],
-    "msigdb": []
+    "vbsr": []
 }
