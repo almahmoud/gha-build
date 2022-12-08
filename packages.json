@@ -3821,7 +3821,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "RepViz": [],
     "RESOLVE": [
         "BSgenome.Hsapiens.1000genomes.hs37d5"
     ],
