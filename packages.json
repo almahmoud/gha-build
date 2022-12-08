@@ -3731,9 +3731,7 @@
         "rstatix"
     ],
     "TreeSummarizedExperiment": [],
-    "trena": [
-        "SNPlocs.Hsapiens.dbSNP150.GRCh38"
-    ],
+    "trena": [],
     "TRESS": [],
     "tricycle": [],
     "trigger": [],
@@ -4211,7 +4209,6 @@
     "bestNormalize": [],
     "naniar": [],
     "vbsr": [],
-    "SNPlocs.Hsapiens.dbSNP150.GRCh38": [],
     "kmlShape": [],
     "msigdb": []
 }
