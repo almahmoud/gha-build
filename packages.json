@@ -2748,7 +2748,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation",
         "biomaRt",
-        "ggseqlogo",
         "readxl",
         "rtracklayer"
     ],
@@ -6223,7 +6222,6 @@
     ],
     "memes": [
         "cmdfun",
-        "ggseqlogo",
         "patchwork",
         "readr",
         "testthat",
@@ -7589,7 +7587,6 @@
         "factoextra",
         "ggpubr",
         "ggsci",
-        "ggseqlogo",
         "ggsignif",
         "lme4",
         "nloptr",
@@ -8085,7 +8082,6 @@
         "fgsea",
         "ggpubr",
         "ggsci",
-        "ggseqlogo",
         "ggsignif",
         "lme4",
         "nloptr",
@@ -9259,7 +9255,6 @@
         "GenomicFeatures",
         "biomaRt",
         "genomation",
-        "ggseqlogo",
         "gprofiler2",
         "plotly",
         "readr",
@@ -10166,16 +10161,13 @@
         "sva",
         "tidyr"
     ],
-    "scanMiR": [
-        "ggseqlogo"
-    ],
+    "scanMiR": [],
     "scanMiRApp": [
         "AnnotationHub",
         "BiocFileCache",
         "GenomicFeatures",
         "biomaRt",
         "ensembldb",
-        "ggseqlogo",
         "plotly",
         "rtracklayer",
         "scanMiR",
@@ -10583,9 +10575,7 @@
         "WGCNA",
         "biomaRt"
     ],
-    "seqArchR": [
-        "ggseqlogo"
-    ],
+    "seqArchR": [],
     "seqCAT": [
         "BSgenome",
         "BiocFileCache",
@@ -11980,9 +11970,7 @@
     "transformGamPoi": [
         "glmGamPoi"
     ],
-    "transite": [
-        "ggseqlogo"
-    ],
+    "transite": [],
     "tRanslatome": [
         "DESeq2",
         "GO.db",
@@ -13235,7 +13223,6 @@
     "DMwR2": [
         "readr"
     ],
-    "ggseqlogo": [],
     "rsq": [
         "lme4",
         "nloptr",
@@ -13752,7 +13739,6 @@
     "TBX20BamSubset": [],
     "SBGNview.data": [],
     "scanMiRData": [
-        "ggseqlogo",
         "scanMiR"
     ],
     "SCATEData": [
