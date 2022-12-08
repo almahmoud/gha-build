@@ -1718,9 +1718,7 @@
     "RITAN": [
         "EnsDb.Hsapiens.v86"
     ],
-    "RLSeq": [
-        "caretEnsemble"
-    ],
+    "RLSeq": [],
     "Rmmquant": [],
     "RNAAgeCalc": [
         "GenomicFiles",
@@ -2306,7 +2304,6 @@
         "lme4"
     ],
     "EnsDb.Rnorvegicus.v79": [],
-    "caretEnsemble": [],
     "Rmagic": [],
     "survivalAnalysis": [
         "car",
