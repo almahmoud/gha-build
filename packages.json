@@ -172,9 +172,7 @@
         "Gviz"
     ],
     "ChIPexoQual": [],
-    "ChIPQC": [
-        "DiffBind"
-    ],
+    "ChIPQC": [],
     "ChIPseeker": [
         "enrichplot"
     ],
@@ -314,7 +312,6 @@
         "car",
         "pbkrtest"
     ],
-    "DiffBind": [],
     "diffcyt": [
         "FlowSOM",
         "car",
@@ -1415,9 +1412,7 @@
         "textstem"
     ],
     "vtpnet": [],
-    "vulcan": [
-        "DiffBind"
-    ],
+    "vulcan": [],
     "waddR": [],
     "wateRmelon": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
