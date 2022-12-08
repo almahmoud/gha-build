@@ -122,8 +122,7 @@
         "chromVAR",
         "motifmatchr",
         "projectR",
-        "rGREAT",
-        "tidyverse"
+        "rGREAT"
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
@@ -753,8 +752,7 @@
         "rstatix"
     ],
     "dce": [
-        "ggraph",
-        "tidyverse"
+        "ggraph"
     ],
     "ddPCRclust": [
         "car",
@@ -1731,8 +1729,7 @@
         "ggtree"
     ],
     "MAI": [
-        "caret",
-        "tidyverse"
+        "caret"
     ],
     "MAIT": [
         "CAMERA",
@@ -1899,8 +1896,7 @@
         "methylclockData",
         "minfi",
         "pbkrtest",
-        "rstatix",
-        "tidyverse"
+        "rstatix"
     ],
     "methylGSA": [
         "DOSE",
@@ -2023,8 +2019,7 @@
         "lme4",
         "miRspongeR",
         "pbkrtest",
-        "rstatix",
-        "tidyverse"
+        "rstatix"
     ],
     "miRspongeR": [
         "DOSE",
@@ -2040,8 +2035,7 @@
         "ggtree",
         "lme4",
         "pbkrtest",
-        "rstatix",
-        "tidyverse"
+        "rstatix"
     ],
     "missMethyl": [
         "FDb.InfiniumMethylation.hg19",
@@ -2149,8 +2143,7 @@
         "lme4",
         "lmerTest",
         "pbkrtest",
-        "rstatix",
-        "tidyverse"
+        "rstatix"
     ],
     "MSstatsPTM": [
         "MSstats",
@@ -2250,9 +2243,7 @@
         "trackViewer"
     ],
     "NanoMethViz": [],
-    "nanotatoR": [
-        "tidyverse"
-    ],
+    "nanotatoR": [],
     "NBAMSeq": [
         "DESeq2"
     ],
@@ -3209,8 +3200,7 @@
         "ggpubr",
         "lme4",
         "pbkrtest",
-        "rstatix",
-        "tidyverse"
+        "rstatix"
     ],
     "SpotClean": [],
     "srnadiff": [
@@ -3245,9 +3235,7 @@
     "StarBioTrek": [
         "SpidermiR"
     ],
-    "Statial": [
-        "tidyverse"
-    ],
+    "Statial": [],
     "stJoincount": [],
     "strandCheckR": [
         "TxDb.Hsapiens.UCSC.hg38.knownGene"
@@ -3283,8 +3271,7 @@
         "car",
         "drc",
         "lme4",
-        "pbkrtest",
-        "tidyverse"
+        "pbkrtest"
     ],
     "synlet": [
         "doBy",
@@ -3608,7 +3595,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "mGSZ": [],
-    "tidyverse": [],
     "Mus.musculus": [
         "TxDb.Mmusculus.UCSC.mm10.knownGene"
     ],
