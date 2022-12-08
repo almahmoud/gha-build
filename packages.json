@@ -3844,7 +3844,6 @@
         "GGally",
         "ggmcmc"
     ],
-    "MGFM": [],
     "MGFR": [
         "biomaRt"
     ],
@@ -5891,7 +5890,6 @@
     ],
     "rWikiPathways": [],
     "sampleClassifier": [
-        "MGFM",
         "MGFR",
         "biomaRt"
     ],
