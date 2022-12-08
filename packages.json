@@ -2636,7 +2636,6 @@
         "dbplyr",
         "rtracklayer"
     ],
-    "cola": [],
     "comapr": [
         "AnnotationDbi",
         "BSgenome",
