@@ -4521,9 +4521,7 @@
         "annotate",
         "geneplotter"
     ],
-    "HubPub": [
-        "available"
-    ],
+    "HubPub": [],
     "HumanTranscriptomeCompendium": [],
     "hypeR": [
         "kableExtra",
@@ -11425,7 +11423,6 @@
         "BiocFileCache",
         "ExperimentHub"
     ],
-    "available": [],
     "biclust": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "BiocFileCache",
