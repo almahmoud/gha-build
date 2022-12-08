@@ -1092,7 +1092,6 @@
     ],
     "chipenrich": [
         "chipenrich.data",
-        "org.Dm.eg.db",
         "org.Rn.eg.db",
         "readr",
         "rms"
@@ -8684,7 +8683,6 @@
     "chipenrich.data": [
         "readr"
     ],
-    "org.Dm.eg.db": [],
     "org.Rn.eg.db": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [
         "GenomicFeatures",
