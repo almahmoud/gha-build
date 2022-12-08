@@ -104112,7 +104112,6 @@
         "tzdb",
         "vctrs",
         "viridisLite",
-        "warp",
         "withr",
         "zlibbioc"
     ],
@@ -132946,16 +132945,13 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "warp",
         "withr"
     ],
     "slider": [
         "lifecycle",
         "rlang",
-        "vctrs",
-        "warp"
+        "vctrs"
     ],
-    "warp": [],
     "clustvarsel": [
         "BMA",
         "Matrix",
