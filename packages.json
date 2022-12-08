@@ -2193,7 +2193,6 @@
         "EDASeq",
         "FactoMineR",
         "GenomicFeatures",
-        "MSQC",
         "ShortRead",
         "annotate",
         "arm",
@@ -3559,7 +3558,6 @@
         "FactoMineR",
         "GenomicFeatures",
         "MLSeq",
-        "MSQC",
         "ShortRead",
         "annotate",
         "arm",
@@ -10839,16 +10837,13 @@
         "testthat",
         "waldo"
     ],
-    "plsVarSel": [
-        "MSQC"
-    ],
+    "plsVarSel": [],
     "arm": [
         "lme4",
         "nloptr",
         "testthat",
         "waldo"
     ],
-    "MSQC": [],
     "DAPARdata": [
         "MSnbase"
     ],
