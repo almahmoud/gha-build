@@ -41573,7 +41573,6 @@
         "prodlim",
         "progress",
         "progressr",
-        "protr",
         "purrr",
         "readr",
         "recipes",
@@ -92041,7 +92040,6 @@
         "png",
         "processx",
         "progress",
-        "protr",
         "ps",
         "purrr",
         "readr",
@@ -112094,7 +112092,6 @@
         "promises",
         "rlang"
     ],
-    "protr": [],
     "MCL": [
         "Matrix",
         "expm"
