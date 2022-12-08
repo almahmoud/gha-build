@@ -82083,7 +82083,6 @@
         "munsell",
         "mzID",
         "mzR",
-        "naivebayes",
         "nlme",
         "pcaMethods",
         "pillar",
@@ -135778,7 +135777,6 @@
         "xts",
         "zoo"
     ],
-    "naivebayes": [],
     "urca": [
         "nlme"
     ],
