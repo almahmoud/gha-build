@@ -6230,7 +6230,6 @@
         "vctrs",
         "viridis"
     ],
-    "cancerclass": [],
     "CancerInSilico": [],
     "CancerSubtypes": [
         "ConsensusClusterPlus",
