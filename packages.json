@@ -805,7 +805,6 @@
     "segmenter": [
         "ChIPseeker"
     ],
-    "selectKSigs": [],
     "shinyMethyl": [],
     "SIAMCAT": [],
     "signatureSearch": [
