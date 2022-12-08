@@ -87,8 +87,7 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "rvest",
-        "selectr"
+        "rvest"
     ],
     "ADImpute": [
         "SingleCellExperiment",
@@ -290,7 +289,6 @@
         "readxl",
         "rmarkdown",
         "rvest",
-        "selectr",
         "speaq",
         "tidyr"
     ],
@@ -814,7 +812,6 @@
         "rmarkdown",
         "rtracklayer",
         "rvest",
-        "selectr",
         "tidyr",
         "tidyverse",
         "viridis",
@@ -1498,7 +1495,6 @@
         "readr",
         "rorcid",
         "rvest",
-        "selectr",
         "vroom"
     ],
     "BiocSet": [
@@ -2394,7 +2390,6 @@
         "readr",
         "rtracklayer",
         "rvest",
-        "selectr",
         "tidyr",
         "vroom"
     ],
@@ -2434,7 +2429,6 @@
         "readr",
         "rtracklayer",
         "rvest",
-        "selectr",
         "tidyr",
         "vroom"
     ],
@@ -3144,7 +3138,6 @@
         "scater",
         "scran",
         "scuttle",
-        "selectr",
         "shinyFiles",
         "shinyWidgets",
         "shinycssloaders",
@@ -4794,7 +4787,6 @@
         "reprex",
         "rmarkdown",
         "rvest",
-        "selectr",
         "shadowtext",
         "sn",
         "tidygraph",
@@ -4987,7 +4979,6 @@
         "lexicon",
         "readr",
         "rvest",
-        "selectr",
         "syuzhet",
         "tensorflow",
         "textclean",
@@ -5428,7 +5419,6 @@
         "plotly",
         "rmarkdown",
         "rvest",
-        "selectr",
         "shinyBS",
         "shinycssloaders",
         "shinydashboard",
@@ -5994,7 +5984,6 @@
         "rstatix",
         "rtracklayer",
         "rvest",
-        "selectr",
         "testthat",
         "tidyr",
         "viridis",
@@ -6632,7 +6621,6 @@
         "kableExtra",
         "rmarkdown",
         "rvest",
-        "selectr",
         "tidyr"
     ],
     "EventPointer": [
@@ -7968,7 +7956,6 @@
         "lexicon",
         "readr",
         "rvest",
-        "selectr",
         "syuzhet",
         "tensorflow",
         "textclean",
@@ -8054,8 +8041,7 @@
         "waldo"
     ],
     "GEOfastq": [
-        "rvest",
-        "selectr"
+        "rvest"
     ],
     "GEOmetadb": [
         "GEOquery",
@@ -9128,8 +9114,7 @@
         "kableExtra",
         "msigdbr",
         "rmarkdown",
-        "rvest",
-        "selectr"
+        "rvest"
     ],
     "iasva": [
         "SummarizedExperiment"
@@ -9389,7 +9374,6 @@
         "ggplot2",
         "readr",
         "rvest",
-        "selectr",
         "tidyr",
         "vroom"
     ],
@@ -9518,8 +9502,7 @@
     "InteractiveComplexHeatmap": [
         "kableExtra",
         "rmarkdown",
-        "rvest",
-        "selectr"
+        "rvest"
     ],
     "interactiveDisplay": [
         "AnnotationDbi",
@@ -10253,7 +10236,6 @@
         "readr",
         "rtracklayer",
         "rvest",
-        "selectr",
         "tidyr",
         "vroom"
     ],
@@ -10401,8 +10383,7 @@
         "prettydoc",
         "readxl",
         "rmarkdown",
-        "rvest",
-        "selectr"
+        "rvest"
     ],
     "MACSr": [
         "AnnotationDbi",
@@ -10535,7 +10516,6 @@
         "reprex",
         "rmarkdown",
         "rvest",
-        "selectr",
         "tidyr",
         "tidyverse",
         "vroom"
@@ -11423,7 +11403,6 @@
         "rstatix",
         "rtracklayer",
         "rvest",
-        "selectr",
         "testthat",
         "tidyr",
         "tidyverse",
@@ -11851,7 +11830,6 @@
         "mice",
         "rmarkdown",
         "rvest",
-        "selectr",
         "tidyr"
     ],
     "MIGSA": [
@@ -12020,7 +11998,6 @@
         "org.Hs.eg.db",
         "readr",
         "rvest",
-        "selectr",
         "tidyr",
         "viridis",
         "vroom"
@@ -12123,7 +12100,6 @@
         "rvest",
         "s4vd",
         "scatterpie",
-        "selectr",
         "shadowtext",
         "subspace",
         "testthat",
@@ -12201,7 +12177,6 @@
         "rstatix",
         "rvest",
         "scatterpie",
-        "selectr",
         "shadowtext",
         "testthat",
         "tidygraph",
@@ -12481,7 +12456,6 @@
         "rgl",
         "rvest",
         "scatterpie",
-        "selectr",
         "shadowtext",
         "tidygraph",
         "tidyr",
@@ -12814,7 +12788,6 @@
         "rmarkdown",
         "rstatix",
         "rvest",
-        "selectr",
         "testthat",
         "tidyr",
         "tidyverse",
@@ -13185,7 +13158,6 @@
         "rstatix",
         "rtracklayer",
         "rvest",
-        "selectr",
         "shinyBS",
         "shinyalert",
         "shinybusy",
@@ -13371,7 +13343,6 @@
         "reprex",
         "rmarkdown",
         "rvest",
-        "selectr",
         "testthat",
         "tidyr",
         "tidyverse",
@@ -14015,7 +13986,6 @@
         "rstatix",
         "rtracklayer",
         "rvest",
-        "selectr",
         "testthat",
         "tidyr",
         "viridis",
@@ -14073,7 +14043,6 @@
         "readxl",
         "rmarkdown",
         "rvest",
-        "selectr",
         "tidyr",
         "vroom"
     ],
@@ -15567,7 +15536,6 @@
         "rmarkdown",
         "rstatix",
         "rvest",
-        "selectr",
         "shinydashboard",
         "testthat",
         "tidyr",
@@ -16565,8 +16533,7 @@
         "waldo"
     ],
     "rfaRm": [
-        "rvest",
-        "selectr"
+        "rvest"
     ],
     "Rfastp": [
         "ggplot2"
@@ -16917,7 +16884,6 @@
         "dplyr",
         "ggplot2",
         "rvest",
-        "selectr",
         "vsn",
         "webchem"
     ],
@@ -17411,7 +17377,6 @@
         "rmarkdown",
         "rstatix",
         "rvest",
-        "selectr",
         "survMisc",
         "survminer",
         "testthat",
@@ -17437,7 +17402,6 @@
         "readr",
         "rtracklayer",
         "rvest",
-        "selectr",
         "tidyr",
         "vroom"
     ],
@@ -17975,8 +17939,7 @@
         "kableExtra",
         "rmarkdown",
         "rvest",
-        "sangerseqR",
-        "selectr"
+        "sangerseqR"
     ],
     "scMAGeCK": [
         "Seurat",
@@ -19627,7 +19590,6 @@
         "rmarkdown",
         "rstatix",
         "rvest",
-        "selectr",
         "testthat",
         "tidyr",
         "tidyverse",
@@ -19875,7 +19837,6 @@
         "reprex",
         "rmarkdown",
         "rvest",
-        "selectr",
         "tidyr",
         "tidyverse",
         "vroom"
@@ -20150,7 +20111,6 @@
         "reprex",
         "rmarkdown",
         "rvest",
-        "selectr",
         "stars",
         "testthat",
         "tidyr",
@@ -20367,7 +20327,6 @@
         "ggplot2",
         "readr",
         "rvest",
-        "selectr",
         "tidyr",
         "vroom"
     ],
@@ -20442,7 +20401,6 @@
         "rtracklayer",
         "rvest",
         "scatterpie",
-        "selectr",
         "sesame",
         "sesameData",
         "shadowtext",
@@ -20476,7 +20434,6 @@
         "readr",
         "rtracklayer",
         "rvest",
-        "selectr",
         "tidyr",
         "vroom"
     ],
@@ -20548,7 +20505,6 @@
         "readr",
         "rtracklayer",
         "rvest",
-        "selectr",
         "tidyr",
         "vroom"
     ],
@@ -21381,7 +21337,6 @@
         "rvest",
         "scater",
         "scuttle",
-        "selectr",
         "syuzhet",
         "tensorflow",
         "textclean",
@@ -21818,7 +21773,6 @@
         "readxl",
         "rmarkdown",
         "rvest",
-        "selectr",
         "tidyr",
         "vroom"
     ],
@@ -22105,10 +22059,7 @@
         "dplyr",
         "interactiveDisplayBase"
     ],
-    "rvest": [
-        "selectr"
-    ],
-    "selectr": [],
+    "rvest": [],
     "dbplyr": [
         "dplyr"
     ],
@@ -22146,8 +22097,7 @@
     ],
     "speaq": [
         "ggplot2",
-        "rvest",
-        "selectr"
+        "rvest"
     ],
     "cellranger": [],
     "curatedTCGAData": [
@@ -22445,7 +22395,6 @@
         "reprex",
         "rmarkdown",
         "rvest",
-        "selectr",
         "tidyr",
         "vroom"
     ],
@@ -23141,8 +23090,7 @@
     ],
     "kableExtra": [
         "rmarkdown",
-        "rvest",
-        "selectr"
+        "rvest"
     ],
     "gggenes": [
         "ggfittext",
@@ -23408,8 +23356,7 @@
     ],
     "webchem": [
         "dplyr",
-        "rvest",
-        "selectr"
+        "rvest"
     ],
     "textstem": [
         "dplyr",
