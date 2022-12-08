@@ -442,8 +442,7 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "ggbio",
-        "plyranges"
+        "ggbio"
     ],
     "borealis": [
         "DSS",
@@ -487,8 +486,7 @@
     ],
     "BUSpaRse": [
         "GenomicFeatures",
-        "ensembldb",
-        "plyranges"
+        "ensembldb"
     ],
     "CAFE": [
         "GenomicFeatures",
@@ -641,9 +639,7 @@
     "CexoR": [
         "genomation"
     ],
-    "cfDNAPro": [
-        "plyranges"
-    ],
+    "cfDNAPro": [],
     "cghMCR": [
         "CNTools"
     ],
@@ -1124,7 +1120,6 @@
         "megadepth",
         "nloptr",
         "pbkrtest",
-        "plyranges",
         "rstatix",
         "testthat"
     ],
@@ -2290,8 +2285,7 @@
     "InPAS": [
         "BSgenome.Drerio.UCSC.danRer7",
         "GenomicFeatures",
-        "cleanUpdTSeq",
-        "plyranges"
+        "cleanUpdTSeq"
     ],
     "INSPEcT": [
         "DESeq2",
@@ -2426,8 +2420,7 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
         "GenomicFeatures",
-        "VariantAnnotation",
-        "plyranges"
+        "VariantAnnotation"
     ],
     "KEGGlincs": [],
     "keggorthology": [],
@@ -2787,8 +2780,7 @@
         "IlluminaHumanMethylation450kmanifest",
         "bsseq",
         "bumphunter",
-        "minfi",
-        "plyranges"
+        "minfi"
     ],
     "methylclock": [
         "AnnotationHubData",
@@ -3208,7 +3200,6 @@
         "biovizBase",
         "ensembldb",
         "karyoploteR",
-        "plyranges",
         "regioneR"
     ],
     "multiHiCcompare": [],
@@ -3325,8 +3316,7 @@
     "nearBynding": [
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "plyranges"
+        "TxDb.Hsapiens.UCSC.hg38.knownGene"
     ],
     "Nebulosa": [
         "Seurat"
@@ -3395,9 +3385,7 @@
     ],
     "NPARC": [],
     "npGSEA": [],
-    "nullranges": [
-        "plyranges"
-    ],
+    "nullranges": [],
     "NxtIRFcore": [
         "ExperimentHub",
         "NxtIRFdata"
@@ -3425,7 +3413,6 @@
         "megadepth",
         "nloptr",
         "pbkrtest",
-        "plyranges",
         "rstatix",
         "testthat"
     ],
@@ -3701,9 +3688,7 @@
         "Category",
         "GOstats"
     ],
-    "plotgardener": [
-        "plyranges"
-    ],
+    "plotgardener": [],
     "plotGrouper": [
         "car",
         "ggpubr",
@@ -3713,7 +3698,6 @@
         "rstatix",
         "testthat"
     ],
-    "plyranges": [],
     "pmm": [
         "lme4",
         "nloptr",
@@ -5131,8 +5115,7 @@
     "Ularcirc": [
         "GenomicFeatures",
         "Organism.dplyr",
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "UMI4Cats": [
         "DESeq2",
