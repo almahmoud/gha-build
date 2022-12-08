@@ -12,9 +12,7 @@
     ],
     "CancerInSilico": [],
     "CATALYST": [],
-    "censcyt": [
-        "diffcyt"
-    ],
+    "censcyt": [],
     "CeTF": [
         "GenomicTools"
     ],
@@ -28,13 +26,10 @@
     "CiteFuse": [
         "propr"
     ],
-    "CyTOFpower": [
-        "diffcyt"
-    ],
+    "CyTOFpower": [],
     "DeMixT": [
         "DSS"
     ],
-    "diffcyt": [],
     "DMRcate": [
         "DSS"
     ],
@@ -91,9 +86,7 @@
         "vbsr"
     ],
     "Travel": [],
-    "treekoR": [
-        "diffcyt"
-    ],
+    "treekoR": [],
     "mGSZ": [],
     "GenomicTools": [],
     "spp": [],
