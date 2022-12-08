@@ -11387,7 +11387,6 @@
     ],
     "signifinder": [
         "BiocFileCache",
-        "DGEobj.utils",
         "GSEABase",
         "GSVA",
         "GenomicAlignments",
@@ -14598,7 +14597,6 @@
     "tidytidbits": [
         "tidyr"
     ],
-    "DGEobj.utils": [],
     "openair": [
         "readr",
         "tidyr"
