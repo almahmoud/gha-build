@@ -22803,9 +22803,7 @@
         "rgl",
         "stringr"
     ],
-    "ReactomeContentService4R": [],
     "ReactomeGraph4R": [
-        "ReactomeContentService4R",
         "dplyr",
         "neo4r",
         "shiny",
