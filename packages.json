@@ -9764,7 +9764,6 @@
         "drc",
         "fields",
         "googlesheets4",
-        "gstat",
         "haven",
         "lme4",
         "mice",
@@ -11724,7 +11723,6 @@
     ],
     "mosaicCore": [],
     "rsample": [],
-    "gstat": [],
     "SpatialExtremes": [
         "fields"
     ],
