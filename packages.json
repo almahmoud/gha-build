@@ -113273,7 +113273,6 @@
         "labeling",
         "lattice",
         "lifecycle",
-        "logitnorm",
         "loo",
         "magrittr",
         "matrixStats",
@@ -160082,7 +160081,6 @@
     "coro": [
         "rlang"
     ],
-    "logitnorm": [],
     "elasticnet": [
         "lars"
     ],
