@@ -1712,7 +1712,6 @@
         "vsn"
     ],
     "banocc": [
-        "StanHeaders",
         "ggplot2",
         "pillar",
         "pkgbuild",
@@ -1802,7 +1801,6 @@
         "HDF5Array",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "StanHeaders",
         "SummarizedExperiment",
         "beachmat",
         "bluster",
@@ -14913,7 +14911,6 @@
     ],
     "IgGeneUsage": [
         "GenomicRanges",
-        "StanHeaders",
         "SummarizedExperiment",
         "ggplot2",
         "pillar",
@@ -16572,7 +16569,6 @@
     ],
     "M3Drop": [
         "Hmisc",
-        "StanHeaders",
         "densEstBayes",
         "ggplot2",
         "htmlTable",
@@ -24222,7 +24218,6 @@
         "tibble"
     ],
     "ppcseq": [
-        "StanHeaders",
         "benchmarkme",
         "benchmarkmeData",
         "distributional",
@@ -26752,7 +26747,6 @@
         "KEGGREST",
         "RSQLite",
         "Rsamtools",
-        "StanHeaders",
         "SummarizedExperiment",
         "annotate",
         "biomaRt",
@@ -28560,7 +28554,6 @@
         "GenomicRanges",
         "SeuratObject",
         "SingleCellExperiment",
-        "StanHeaders",
         "SummarizedExperiment",
         "dplyr",
         "forcats",
@@ -28838,7 +28831,6 @@
         "M3Drop",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "StanHeaders",
         "SummarizedExperiment",
         "beachmat",
         "densEstBayes",
@@ -28859,7 +28851,6 @@
         "BiocStyle",
         "GenomicRanges",
         "SingleCellExperiment",
-        "StanHeaders",
         "SummarizedExperiment",
         "bookdown",
         "bslib",
@@ -30362,7 +30353,6 @@
         "SingleCellExperiment",
         "SingleR",
         "SoupX",
-        "StanHeaders",
         "SummarizedExperiment",
         "TENxPBMCData",
         "TFisher",
@@ -36427,13 +36417,11 @@
     ],
     "gbm": [],
     "rstan": [
-        "StanHeaders",
         "ggplot2",
         "pillar",
         "pkgbuild",
         "tibble"
     ],
-    "StanHeaders": [],
     "pkgbuild": [],
     "prettydoc": [
         "bslib",
@@ -38636,7 +38624,6 @@
     "scam": [],
     "LogicReg": [],
     "reldist": [
-        "StanHeaders",
         "densEstBayes",
         "ggplot2",
         "pillar",
@@ -38645,7 +38632,6 @@
         "tibble"
     ],
     "densEstBayes": [
-        "StanHeaders",
         "ggplot2",
         "pillar",
         "pkgbuild",
