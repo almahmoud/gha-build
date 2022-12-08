@@ -13,8 +13,7 @@
     ],
     "AllelicImbalance": [],
     "ANCOMBC": [
-        "lmerTest",
-        "mia"
+        "lmerTest"
     ],
     "appreci8R": [],
     "ArrayExpressHTS": [],
@@ -39,8 +38,7 @@
     ],
     "benchdamic": [
         "ANCOMBC",
-        "lmerTest",
-        "mia"
+        "lmerTest"
     ],
     "bigmelon": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -586,18 +584,14 @@
         "DSS"
     ],
     "methylumi": [],
-    "mia": [],
     "miaSim": [],
-    "miaViz": [
-        "mia"
-    ],
+    "miaViz": [],
     "microbiomeExplorer": [
         "car"
     ],
     "microbiomeMarker": [
         "ANCOMBC",
-        "lmerTest",
-        "mia"
+        "lmerTest"
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler"
