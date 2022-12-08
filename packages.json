@@ -9060,9 +9060,7 @@
         "rtracklayer",
         "tidyr"
     ],
-    "QuartPAC": [
-        "SpacePAC"
-    ],
+    "QuartPAC": [],
     "QuasR": [
         "BSgenome",
         "BiocFileCache",
@@ -10912,7 +10910,6 @@
         "rtracklayer",
         "tidyr"
     ],
-    "SpacePAC": [],
     "Spaniel": [
         "DropletUtils",
         "Seurat",
