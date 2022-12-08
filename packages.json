@@ -6811,14 +6811,12 @@
         "readr",
         "sva"
     ],
-    "scanMiR": [],
     "scanMiRApp": [
         "AnnotationHub",
         "GenomicFeatures",
         "biomaRt",
         "ensembldb",
         "plotly",
-        "scanMiR",
         "scanMiRData"
     ],
     "scAnnotatR": [
@@ -9156,9 +9154,7 @@
         "AnnotationHub",
         "ExperimentHub"
     ],
-    "scanMiRData": [
-        "scanMiR"
-    ],
+    "scanMiRData": [],
     "SCATEData": [
         "AnnotationHub",
         "ExperimentHub"
