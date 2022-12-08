@@ -41,7 +41,6 @@
     "ATACCoGAPS": [
         "projectR"
     ],
-    "ATACseqQC": [],
     "ATACseqTFEA": [],
     "atSNP": [],
     "BaalChIP": [
@@ -889,7 +888,6 @@
         "pbkrtest"
     ],
     "NADfinder": [
-        "ATACseqQC",
         "Gviz",
         "trackViewer"
     ],
