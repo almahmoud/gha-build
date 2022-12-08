@@ -4298,7 +4298,6 @@
         "GetoptLong",
         "Homo.sapiens",
         "IRanges",
-        "JASPAR2016",
         "KEGGREST",
         "Matrix",
         "MatrixGenerics",
@@ -119246,7 +119245,6 @@
         "vroom",
         "withr"
     ],
-    "JASPAR2016": [],
     "Mus.musculus": [
         "AnnotationDbi",
         "BH",
