@@ -1716,7 +1716,6 @@
     "ChromSCape": [
         "batchelor",
         "colourpicker",
-        "ggfittext",
         "gggenes",
         "ggrastr",
         "kableExtra",
@@ -9436,7 +9435,6 @@
         "TFBSTools",
         "annotate",
         "biomaRt",
-        "ggfittext",
         "motifStack",
         "readr",
         "rtracklayer"
@@ -12786,10 +12784,7 @@
     ],
     "shinydashboardPlus": [],
     "kableExtra": [],
-    "gggenes": [
-        "ggfittext"
-    ],
-    "ggfittext": [],
+    "gggenes": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
