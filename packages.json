@@ -11706,7 +11706,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "KEGGREST",
-        "R.matlab",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -21192,7 +21191,6 @@
         "vctrs"
     ],
     "MethylMix": [
-        "R.matlab",
         "ggplot2",
         "pillar",
         "scales",
@@ -35353,7 +35351,6 @@
     ],
     "sojourner": [
         "EBImage",
-        "R.matlab",
         "bslib",
         "dplyr",
         "fitdistrplus",
@@ -39101,7 +39098,6 @@
         "vctrs"
     ],
     "TRONCO": [
-        "R.matlab",
         "scales"
     ],
     "TSCAN": [
@@ -43979,7 +43975,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "R.matlab": [],
     "batchtools": [
         "hms",
         "progress",
