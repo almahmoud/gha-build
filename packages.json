@@ -13752,7 +13752,6 @@
         "biomaRt",
         "dbplyr",
         "dplyr",
-        "googleAuthR",
         "rtracklayer"
     ],
     "muscat": [
@@ -25270,7 +25269,6 @@
         "usethis",
         "waldo"
     ],
-    "googleAuthR": [],
     "blme": [
         "lme4",
         "nloptr",
