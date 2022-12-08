@@ -502,7 +502,6 @@
     "GARS": [
         "DaMiRseq",
         "FactoMineR",
-        "MLSeq",
         "arm",
         "car",
         "pbkrtest"
@@ -873,7 +872,6 @@
         "methylumi"
     ],
     "mitoClone2": [],
-    "MLSeq": [],
     "MMUPHin": [
         "Maaslin2",
         "car",
