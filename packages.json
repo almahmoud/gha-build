@@ -93,7 +93,6 @@
         "ggbio"
     ],
     "airpart": [
-        "ggrastr",
         "scater"
     ],
     "alevinQC": [
@@ -135,7 +134,6 @@
     "ANCOMBC": [
         "MultiAssayExperiment",
         "TreeSummarizedExperiment",
-        "ggrastr",
         "lme4",
         "lmerTest",
         "mia",
@@ -433,7 +431,6 @@
         "sva"
     ],
     "BayesSpace": [
-        "ggrastr",
         "scater",
         "scran"
     ],
@@ -460,7 +457,6 @@
         "dearseq",
         "genefilter",
         "geneplotter",
-        "ggrastr",
         "lme4",
         "lmerTest",
         "mia",
@@ -891,7 +887,6 @@
         "car",
         "drc",
         "ggpubr",
-        "ggrastr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -950,7 +945,6 @@
         "readr"
     ],
     "celda": [
-        "ggrastr",
         "scater",
         "scran"
     ],
@@ -967,7 +961,6 @@
     ],
     "CelliD": [
         "Seurat",
-        "ggrastr",
         "plotly",
         "scater"
     ],
@@ -986,7 +979,6 @@
         "waldo"
     ],
     "CellMixS": [
-        "ggrastr",
         "scater"
     ],
     "CellTrails": [],
@@ -1215,7 +1207,6 @@
     ],
     "ChromSCape": [
         "batchelor",
-        "ggrastr",
         "kableExtra",
         "plotly",
         "scater",
@@ -1473,7 +1464,6 @@
         "factoextra",
         "ggpubr",
         "ggraph",
-        "ggrastr",
         "ggtree",
         "gson",
         "lme4",
@@ -1494,7 +1484,6 @@
         "Ecume",
         "caret",
         "distinct",
-        "ggrastr",
         "recipes",
         "scater",
         "slingshot",
@@ -2107,7 +2096,6 @@
         "plotly"
     ],
     "distinct": [
-        "ggrastr",
         "scater"
     ],
     "dittoSeq": [],
@@ -2811,7 +2799,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "ggrastr",
         "scater",
         "scran"
     ],
@@ -3581,8 +3568,7 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "ensembldb",
-        "ggrastr"
+        "ensembldb"
     ],
     "HiLDA": [
         "BSgenome",
@@ -3833,7 +3819,6 @@
         "enrichplot",
         "ggpubr",
         "ggraph",
-        "ggrastr",
         "ggtree",
         "gson",
         "lme4",
@@ -4618,7 +4603,6 @@
     "mia": [
         "MultiAssayExperiment",
         "TreeSummarizedExperiment",
-        "ggrastr",
         "scater",
         "tidytree",
         "treeio"
@@ -4633,7 +4617,6 @@
         "TreeSummarizedExperiment",
         "aplot",
         "ggraph",
-        "ggrastr",
         "ggtree",
         "mia",
         "scater",
@@ -4665,7 +4648,6 @@
         "aplot",
         "caret",
         "geneplotter",
-        "ggrastr",
         "ggtree",
         "lme4",
         "lmerTest",
@@ -5242,7 +5224,6 @@
         "blme",
         "broom",
         "geneplotter",
-        "ggrastr",
         "glmmTMB",
         "lme4",
         "lmerTest",
@@ -5332,7 +5313,6 @@
     "NanoMethViz": [
         "BSgenome",
         "bsseq",
-        "ggrastr",
         "readr"
     ],
     "NanoStringQCPro": [],
@@ -5430,7 +5410,6 @@
         "RNeXML",
         "clusterExperiment",
         "genefilter",
-        "ggrastr",
         "mbkmeans",
         "phylobase",
         "scater",
@@ -5866,7 +5845,6 @@
         "genefilter"
     ],
     "peco": [
-        "ggrastr",
         "scater"
     ],
     "pepStat": [],
@@ -5995,7 +5973,6 @@
     ],
     "pipeComp": [
         "Seurat",
-        "ggrastr",
         "plotly",
         "scater",
         "scran"
@@ -7078,9 +7055,7 @@
         "ExperimentHub",
         "SCATEData"
     ],
-    "scater": [
-        "ggrastr"
-    ],
+    "scater": [],
     "scBFA": [
         "DESeq2",
         "Seurat",
@@ -7118,7 +7093,6 @@
         "plotly"
     ],
     "scDblFinder": [
-        "ggrastr",
         "scater",
         "scran"
     ],
@@ -7202,7 +7176,6 @@
     "scPipe": [
         "GGally",
         "biomaRt",
-        "ggrastr",
         "scater",
         "testthat",
         "waldo"
@@ -7278,7 +7251,6 @@
         "epivizr",
         "epivizrData",
         "ggraph",
-        "ggrastr",
         "plotly",
         "scater",
         "scran",
@@ -7511,7 +7483,6 @@
         "fishpond",
         "genefilter",
         "geneplotter",
-        "ggrastr",
         "ggtree",
         "hgu95a.db",
         "metap",
@@ -7626,7 +7597,6 @@
     "Spaniel": [
         "DropletUtils",
         "Seurat",
-        "ggrastr",
         "plotly",
         "scater",
         "scran"
@@ -7670,7 +7640,6 @@
         "GO.db",
         "WGCNA",
         "genefilter",
-        "ggrastr",
         "plotly",
         "scater",
         "scran"
@@ -7718,7 +7687,6 @@
         "BSgenome"
     ],
     "splatter": [
-        "ggrastr",
         "scater"
     ],
     "SpliceWiz": [
@@ -8322,7 +8290,6 @@
         "biomaRt"
     ],
     "tricycle": [
-        "ggrastr",
         "scater"
     ],
     "trigger": [
@@ -8420,7 +8387,6 @@
     "VAExprs": [
         "DeepPINCS",
         "DiagrammeR",
-        "ggrastr",
         "keras",
         "lexicon",
         "readr",
@@ -8713,7 +8679,6 @@
     ],
     "PFAM.db": [],
     "GGally": [],
-    "ggrastr": [],
     "curatedTCGAData": [
         "AnnotationHub",
         "ExperimentHub",
