@@ -16229,7 +16229,6 @@
         "glmnet",
         "penalized"
     ],
-    "GSAR": [],
     "GSCA": [
         "bslib",
         "ggplot2",
