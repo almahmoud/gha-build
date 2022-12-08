@@ -1905,7 +1905,6 @@
         "base64enc",
         "bslib",
         "cachem",
-        "clusterCrit",
         "cpp11",
         "deldir",
         "digest",
@@ -76420,7 +76419,6 @@
         "classInt",
         "clipr",
         "clue",
-        "clusterCrit",
         "cpp11",
         "diceR",
         "digest",
@@ -99017,7 +99015,6 @@
         "RhpcBLASctl",
         "bit64",
         "callr",
-        "clusterCrit",
         "coro",
         "cpp11",
         "ellipsis",
@@ -123792,7 +123789,6 @@
         "viridisLite",
         "withr"
     ],
-    "clusterCrit": [],
     "extrafont": [
         "Rttf2pt1"
     ],
@@ -138464,7 +138460,6 @@
         "classInt",
         "clipr",
         "clue",
-        "clusterCrit",
         "cpp11",
         "digest",
         "doParallel",
