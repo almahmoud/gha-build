@@ -17213,8 +17213,7 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridis",
-        "yeastCC"
+        "viridis"
     ],
     "FastqCleaner": [
         "BiocParallel",
@@ -25432,8 +25431,7 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vctrs",
-        "yeastCC"
+        "vctrs"
     ],
     "lisaClust": [
         "BiocFileCache",
@@ -59848,7 +59846,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "yeastCC": [],
     "fda": [
         "fds",
         "ggplot2",
