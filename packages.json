@@ -38324,7 +38324,6 @@
         "ellipsis",
         "ggplot2",
         "gplots",
-        "irr",
         "lifecycle",
         "mgcv",
         "munsell",
@@ -92591,7 +92590,6 @@
     "akima": [
         "sp"
     ],
-    "irr": [],
     "scam": [
         "Matrix",
         "mgcv",
