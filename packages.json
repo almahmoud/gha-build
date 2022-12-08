@@ -2759,7 +2759,6 @@
         "RandomWalkRestartMH",
         "dnet"
     ],
-    "NetSAM": [],
     "netSmooth": [
         "clusterExperiment",
         "zinbwave"
