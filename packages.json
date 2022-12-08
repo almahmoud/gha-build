@@ -13480,7 +13480,6 @@
         "futile.logger",
         "lambda.r"
     ],
-    "CNAnorm": [],
     "CNEr": [
         "AnnotationDbi",
         "Biobase",
