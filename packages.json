@@ -9831,7 +9831,6 @@
         "intergraph",
         "network",
         "patchwork",
-        "pathwayPCA",
         "progress",
         "qvalue",
         "reshape2",
@@ -20535,7 +20534,6 @@
         "RSQLite",
         "org.Hs.eg.db"
     ],
-    "pathwayPCA": [],
     "paxtoolsr": [
         "progress",
         "readr",
