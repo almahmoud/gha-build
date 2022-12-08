@@ -5338,7 +5338,6 @@
         "broom",
         "car",
         "dbplyr",
-        "flextable",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -5773,7 +5772,6 @@
     ],
     "granulator": [
         "epiR",
-        "flextable",
         "ggplotify",
         "tidyr"
     ],
@@ -15755,7 +15753,6 @@
         "tidyr"
     ],
     "bs4Dash": [],
-    "flextable": [],
     "shinyHeatmaply": [
         "dendextend",
         "egg",
@@ -15778,9 +15775,7 @@
         "broom",
         "tidyr"
     ],
-    "epiR": [
-        "flextable"
-    ],
+    "epiR": [],
     "ggwordcloud": [],
     "HiContactsData": [
         "AnnotationHub",
