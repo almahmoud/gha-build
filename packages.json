@@ -28584,7 +28584,6 @@
         "vroom"
     ],
     "nnSVG": [
-        "BRISC",
         "BiocFileCache",
         "BiocParallel",
         "DelayedArray",
@@ -51564,7 +51563,6 @@
         "vctrs",
         "vroom"
     ],
-    "BRISC": [],
     "RcmdrMisc": [
         "Hmisc",
         "broom",
