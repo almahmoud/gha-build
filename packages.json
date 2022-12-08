@@ -32828,7 +32828,6 @@
         "vroom"
     ],
     "LPEadj": [],
-    "lpNet": [],
     "LRBaseDbi": [
         "AnnotationDbi",
         "Biostrings",
