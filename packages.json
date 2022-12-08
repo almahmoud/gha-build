@@ -351,7 +351,6 @@
     "ChIPQC": [
         "DESeq2",
         "DiffBind",
-        "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene"
     ],
@@ -448,8 +447,7 @@
     "consensusDE": [
         "DESeq2",
         "EnsDb.Hsapiens.v86",
-        "RUVSeq",
-        "TxDb.Dmelanogaster.UCSC.dm3.ensGene"
+        "RUVSeq"
     ],
     "consensusOV": [],
     "contiBAIT": [
@@ -2877,7 +2875,6 @@
     ],
     "spp": [],
     "ChIC.data": [],
-    "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [],
     "propr": [],
     "factoextra": [
         "FactoMineR",
