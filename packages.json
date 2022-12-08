@@ -83,9 +83,7 @@
     "CNVfilteR": [],
     "CNViz": [],
     "coMethDMR": [],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "conclus": [
         "FactoMineR",
         "factoextra",
@@ -347,7 +345,6 @@
     "methylGSA": [
         "missMethyl"
     ],
-    "methylPipe": [],
     "methylSig": [
         "DSS"
     ],
