@@ -12416,7 +12416,6 @@
         "sva",
         "viridis"
     ],
-    "QSutils": [],
     "qsvaR": [
         "AnnotationDbi",
         "annotate",
