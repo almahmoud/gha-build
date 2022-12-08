@@ -144,8 +144,7 @@
     "biovizBase": [],
     "biscuiteer": [
         "Homo.sapiens",
-        "Mus.musculus",
-        "dmrseq"
+        "Mus.musculus"
     ],
     "BitSeq": [],
     "blacksheepr": [
@@ -525,7 +524,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "dmrseq": [],
     "DominoEffect": [],
     "Doscheda": [
         "car",
