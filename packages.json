@@ -44,7 +44,6 @@
         "Gviz"
     ],
     "ATACCoGAPS": [
-        "Mus.musculus",
         "projectR",
         "rGREAT"
     ],
@@ -89,9 +88,7 @@
     "biomvRCNS": [
         "Gviz"
     ],
-    "biscuiteer": [
-        "Mus.musculus"
-    ],
+    "biscuiteer": [],
     "BitSeq": [],
     "blacksheepr": [
         "pasilla"
@@ -1586,7 +1583,6 @@
     "PolyPhen.Hsapiens.dbSNP131": [],
     "SIFT.Hsapiens.dbSNP137": [],
     "mGSZ": [],
-    "Mus.musculus": [],
     "doBy": [
         "pbkrtest"
     ],
