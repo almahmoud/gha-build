@@ -114,7 +114,6 @@
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
     ],
     "CopyNumberPlots": [],
-    "coseq": [],
     "crisprVerse": [],
     "cyanoFilter": [
         "flowDensity"
