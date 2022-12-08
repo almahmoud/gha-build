@@ -41705,7 +41705,6 @@
         "quantreg",
         "raster",
         "readr",
-        "readstata13",
         "readxl",
         "rematch2",
         "sandwich",
@@ -75614,7 +75613,6 @@
         "purrr",
         "quantreg",
         "readr",
-        "readstata13",
         "readxl",
         "rematch2",
         "sandwich",
@@ -75630,7 +75628,6 @@
         "vroom",
         "waldo"
     ],
-    "readstata13": [],
     "qpcR": [
         "highr",
         "htmlwidgets",
