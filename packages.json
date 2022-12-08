@@ -14838,7 +14838,6 @@
         "IRanges",
         "Matrix",
         "MatrixGenerics",
-        "PoiClaClu",
         "RCurl",
         "S4Vectors",
         "SummarizedExperiment",
@@ -154665,7 +154664,6 @@
         "processx",
         "ps"
     ],
-    "PoiClaClu": [],
     "pryr": [
         "Rcpp",
         "cli",
