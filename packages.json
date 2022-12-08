@@ -2487,8 +2487,7 @@
         "BSgenome",
         "fda",
         "fds",
-        "genomation",
-        "rainbow"
+        "genomation"
     ],
     "fcoex": [
         "DOSE",
@@ -2601,14 +2600,12 @@
     ],
     "flowStats": [
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "flowVS": [
         "fda",
         "fds",
-        "flowStats",
-        "rainbow"
+        "flowStats"
     ],
     "fobitools": [
         "ggraph",
@@ -2641,14 +2638,12 @@
     ],
     "FRGEpistasis": [
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "frma": [],
     "FunChIP": [
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "funtooNorm": [
         "GEOquery",
@@ -3553,8 +3548,7 @@
     ],
     "IWTomics": [
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "karyoploteR": [
         "BSgenome",
@@ -5394,8 +5388,7 @@
         "biovizBase",
         "ensembldb",
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "pipeComp": [
         "Seurat",
@@ -7571,7 +7564,6 @@
         "fda",
         "fds",
         "geneplotter",
-        "rainbow",
         "regioneR"
     ],
     "uncoverappLib": [
@@ -8275,13 +8267,9 @@
         "broom"
     ],
     "fda": [
-        "fds",
-        "rainbow"
+        "fds"
     ],
-    "fds": [
-        "rainbow"
-    ],
-    "rainbow": [],
+    "fds": [],
     "SPARQL": [],
     "NHPoisson": [
         "broom",
