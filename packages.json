@@ -24695,7 +24695,6 @@
         "reshape2",
         "stringr"
     ],
-    "RUVnormalize": [],
     "RUVSeq": [
         "AnnotationDbi",
         "BiocFileCache",
