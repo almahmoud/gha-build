@@ -8109,7 +8109,6 @@
         "scuttle",
         "shiny",
         "shinydashboard",
-        "svgPanZoom",
         "tibble",
         "tidyselect",
         "viridis"
@@ -16202,7 +16201,6 @@
         "shiny",
         "shinydashboard",
         "stringr",
-        "svgPanZoom",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -32514,7 +32512,6 @@
         "scuttle",
         "shiny",
         "shinydashboard",
-        "svgPanZoom",
         "tibble",
         "tidyselect",
         "viridis"
@@ -40677,7 +40674,6 @@
         "tibble",
         "waldo"
     ],
-    "svgPanZoom": [],
     "httpcache": [],
     "plsVarSel": [
         "MSQC",
