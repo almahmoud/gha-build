@@ -636,7 +636,6 @@
         "org.Hs.eg.db",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
@@ -1327,7 +1326,6 @@
         "org.Hs.eg.db",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom",
         "wateRmelon"
@@ -2857,7 +2855,6 @@
         "rtracklayer",
         "ruv",
         "shinythemes",
-        "siggenes",
         "sva",
         "tidyr",
         "viridis",
@@ -3643,7 +3640,6 @@
         "ggplot2",
         "readr",
         "rmarkdown",
-        "siggenes",
         "sqldf",
         "tidyr",
         "vroom",
@@ -4040,7 +4036,6 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
@@ -4974,7 +4969,6 @@
         "rematch2",
         "rsq",
         "rtracklayer",
-        "siggenes",
         "testthat",
         "tidyr",
         "vroom",
@@ -5541,7 +5535,6 @@
         "readr",
         "rtracklayer",
         "ruv",
-        "siggenes",
         "tidyr",
         "viridis",
         "vroom"
@@ -6067,7 +6060,6 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
@@ -6418,7 +6410,6 @@
         "org.Hs.eg.db",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "viridis",
         "vroom"
@@ -7049,7 +7040,6 @@
         "org.Hs.eg.db",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
@@ -7389,7 +7379,6 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
@@ -9222,7 +9211,6 @@
         "readr",
         "rgl",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
@@ -10005,9 +9993,7 @@
         "rtracklayer",
         "tidyr"
     ],
-    "KCsmart": [
-        "siggenes"
-    ],
+    "KCsmart": [],
     "kebabs": [],
     "KEGGlincs": [
         "AnnotationDbi",
@@ -10328,7 +10314,6 @@
         "org.Hs.eg.db",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
@@ -10498,7 +10483,6 @@
         "org.Hs.eg.db",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "viridis",
         "vroom"
@@ -10853,7 +10837,6 @@
         "readr",
         "rtracklayer",
         "ruv",
-        "siggenes",
         "sva",
         "tidyr",
         "viridis",
@@ -10885,7 +10868,6 @@
         "org.Hs.eg.db",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom",
         "wateRmelon"
@@ -11372,7 +11354,6 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
@@ -11400,7 +11381,6 @@
         "plyranges",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
@@ -11463,7 +11443,6 @@
         "rtracklayer",
         "rvest",
         "selectr",
-        "siggenes",
         "testthat",
         "tidyr",
         "tidyverse",
@@ -11522,7 +11501,6 @@
         "ruv",
         "scatterpie",
         "shadowtext",
-        "siggenes",
         "tidygraph",
         "tidyr",
         "tidytree",
@@ -11622,7 +11600,6 @@
         "org.Hs.eg.db",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
@@ -11979,7 +11956,6 @@
         "org.Hs.eg.db",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "viridis",
         "vroom"
@@ -12001,7 +11977,6 @@
         "genefilter",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
@@ -12291,7 +12266,6 @@
         "readr",
         "rtracklayer",
         "ruv",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
@@ -13682,7 +13656,6 @@
         "quantro",
         "readr",
         "rtracklayer",
-        "siggenes",
         "sqldf",
         "tidyr",
         "vroom",
@@ -15937,7 +15910,6 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
@@ -16335,7 +16307,6 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
@@ -16508,7 +16479,6 @@
         "readr",
         "recipes",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
@@ -17315,7 +17285,6 @@
         "org.Hs.eg.db",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "viridis",
         "vroom"
@@ -18684,7 +18653,6 @@
         "shinycssloaders",
         "shinyjs",
         "shinythemes",
-        "siggenes",
         "tidyr",
         "viridis",
         "vroom"
@@ -18708,7 +18676,6 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
@@ -18748,7 +18715,6 @@
     "SigFuge": [
         "ggplot2"
     ],
-    "siggenes": [],
     "sights": [
         "ggplot2",
         "qvalue"
@@ -19178,7 +19144,6 @@
         "org.Hs.eg.db",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom",
         "wateRmelon"
@@ -21212,9 +21177,7 @@
         "qvalue",
         "sva"
     ],
-    "trio": [
-        "siggenes"
-    ],
+    "trio": [],
     "triplex": [],
     "tripr": [
         "dplyr",
@@ -21841,7 +21804,6 @@
         "org.Hs.eg.db",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
@@ -21928,8 +21890,7 @@
         "GeneMeta",
         "KEGGREST",
         "annotate",
-        "genefilter",
-        "siggenes"
+        "genefilter"
     ],
     "Xeva": [
         "CoreGx",
@@ -22016,7 +21977,6 @@
         "quantro",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
@@ -22727,7 +22687,6 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
@@ -23057,7 +23016,6 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
@@ -23079,7 +23037,6 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
@@ -23101,7 +23058,6 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
@@ -23381,7 +23337,6 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
@@ -23997,7 +23952,6 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "siggenes",
         "tidyr",
         "vroom"
     ],
