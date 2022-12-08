@@ -109390,7 +109390,6 @@
         "nlme",
         "nloptr",
         "pROC",
-        "palmerpenguins",
         "paradox",
         "parallelly",
         "permute",
@@ -149489,7 +149488,6 @@
         "mlbench",
         "mlr3measures",
         "mlr3misc",
-        "palmerpenguins",
         "paradox",
         "parallelly",
         "uuid"
@@ -149509,7 +149507,6 @@
         "mlr3",
         "mlr3measures",
         "mlr3misc",
-        "palmerpenguins",
         "paradox",
         "parallelly",
         "uuid"
@@ -149530,7 +149527,6 @@
         "mlr3",
         "mlr3measures",
         "mlr3misc",
-        "palmerpenguins",
         "paradox",
         "parallelly",
         "uuid"
@@ -149553,7 +149549,6 @@
         "checkmate",
         "digest"
     ],
-    "palmerpenguins": [],
     "bbotk": [
         "R6",
         "backports",
