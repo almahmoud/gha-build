@@ -3638,12 +3638,10 @@
         "ggplot2",
         "rtracklayer"
     ],
-    "crisprBase": [],
     "crisprBowtie": [
         "BSgenome",
         "GenomicAlignments",
         "Rsamtools",
-        "crisprBase",
         "readr",
         "rtracklayer",
         "vroom"
@@ -3652,7 +3650,6 @@
         "BSgenome",
         "GenomicAlignments",
         "Rsamtools",
-        "crisprBase",
         "readr",
         "rtracklayer",
         "vroom"
@@ -3669,7 +3666,6 @@
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
-        "crisprBase",
         "crisprBowtie",
         "crisprScore",
         "crisprScoreData",
@@ -3746,7 +3742,6 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "crisprBase",
         "crisprBowtie",
         "crisprDesign",
         "crisprScore",
@@ -3776,7 +3771,6 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "crisprBase",
         "crisprBowtie",
         "crisprDesign",
         "crisprScore",
