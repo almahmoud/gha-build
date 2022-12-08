@@ -1762,7 +1762,6 @@
         "enrichplot",
         "ggtree"
     ],
-    "mumosa": [],
     "MungeSumstats": [
         "VariantAnnotation"
     ],
