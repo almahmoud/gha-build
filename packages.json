@@ -3563,7 +3563,6 @@
     "coRdon": [
         "ggplot2"
     ],
-    "CoRegNet": [],
     "CoreGx": [
         "MultiAssayExperiment",
         "bench",
