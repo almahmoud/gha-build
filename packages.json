@@ -13565,7 +13565,6 @@
         "tensor",
         "textshaping",
         "tibble",
-        "tictoc",
         "tidyr",
         "tidyselect",
         "umap",
@@ -26479,7 +26478,6 @@
         "rlang",
         "scales",
         "tibble",
-        "tictoc",
         "vctrs",
         "viridisLite",
         "withr"
@@ -37277,7 +37275,6 @@
         "textclean",
         "textshape",
         "tibble",
-        "tictoc",
         "tidygraph",
         "tidyr",
         "tidyselect",
@@ -120118,7 +120115,6 @@
         "Rcpp",
         "Rdpack"
     ],
-    "tictoc": [],
     "mvoutlier": [
         "robustbase",
         "sgeostat"
