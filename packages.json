@@ -30179,7 +30179,6 @@
         "httr",
         "memoise",
         "pillar",
-        "rdist",
         "scuttle",
         "tibble",
         "tidyselect",
@@ -54582,10 +54581,7 @@
         "vctrs",
         "vroom"
     ],
-    "BRISC": [
-        "rdist"
-    ],
-    "rdist": [],
+    "BRISC": [],
     "RcmdrMisc": [
         "Hmisc",
         "broom",
