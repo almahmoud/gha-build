@@ -514,9 +514,7 @@
         "biovizBase",
         "methylPipe"
     ],
-    "ComPrAn": [
-        "rio"
-    ],
+    "ComPrAn": [],
     "conclus": [
         "DOSE",
         "FactoMineR",
@@ -584,8 +582,7 @@
     "crisprseekplus": [
         "CRISPRseek",
         "ChIPpeakAnno",
-        "GUIDEseq",
-        "rio"
+        "GUIDEseq"
     ],
     "crisprVerse": [
         "Gviz",
@@ -1290,8 +1287,7 @@
     ],
     "GUIDEseq": [
         "CRISPRseek",
-        "ChIPpeakAnno",
-        "rio"
+        "ChIPpeakAnno"
     ],
     "Gviz": [
         "VariantAnnotation",
@@ -1444,8 +1440,7 @@
         "rstatix"
     ],
     "ISAnalytics": [
-        "datamods",
-        "rio"
+        "datamods"
     ],
     "iSEEhub": [],
     "iSEEu": [],
@@ -1502,7 +1497,6 @@
         "ggpubr",
         "lme4",
         "pbkrtest",
-        "rio",
         "rstatix"
     ],
     "LinTInd": [
@@ -3342,7 +3336,6 @@
     "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [],
     "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [],
     "propr": [],
-    "rio": [],
     "factoextra": [
         "FactoMineR",
         "car",
@@ -3399,9 +3392,7 @@
     ],
     "shinyHeatmaply": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
-    "datamods": [
-        "rio"
-    ],
+    "datamods": [],
     "adabag": [
         "caret"
     ],
