@@ -1537,8 +1537,7 @@
         "treeio"
     ],
     "fastLiquidAssociation": [
-        "LiquidAssociation",
-        "geepack"
+        "LiquidAssociation"
     ],
     "fCCAC": [
         "fda"
@@ -2270,9 +2269,7 @@
     "lipidr": [
         "ropls"
     ],
-    "LiquidAssociation": [
-        "geepack"
-    ],
+    "LiquidAssociation": [],
     "lisaClust": [
         "SpatialExperiment",
         "lme4",
@@ -4405,7 +4402,6 @@
     ],
     "ssPATHS": [
         "MESS",
-        "geepack",
         "ggformula",
         "labelled"
     ],
@@ -5123,7 +5119,6 @@
     "ewceData": [],
     "homologene": [],
     "gprofiler2": [],
-    "geepack": [],
     "fda": [],
     "SPARQL": [],
     "NHPoisson": [
@@ -5290,7 +5285,6 @@
     "TENxPBMCData": [],
     "sampSurf": [],
     "MESS": [
-        "geepack",
         "ggformula",
         "labelled"
     ],
