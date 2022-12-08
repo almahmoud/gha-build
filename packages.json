@@ -2842,7 +2842,6 @@
         "lme4",
         "lmerTest"
     ],
-    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [],
     "spatzie": [
         "GenomicInteractions",
@@ -3139,9 +3138,7 @@
         "textclean",
         "textstem"
     ],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "vsclust": [],
     "vtpnet": [
         "VariantAnnotation",
