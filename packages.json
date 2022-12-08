@@ -1224,9 +1224,7 @@
     ],
     "meshr": [],
     "metabCombiner": [],
-    "MetaboAnnotation": [
-        "QFeatures"
-    ],
+    "MetaboAnnotation": [],
     "MetaboSignal": [
         "EnsDb.Hsapiens.v75",
         "MWASTools",
@@ -1438,9 +1436,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "MsExperiment": [
-        "QFeatures"
-    ],
+    "MsExperiment": [],
     "msgbsR": [
         "biovizBase",
         "ggbio"
@@ -1453,7 +1449,6 @@
         "pbkrtest"
     ],
     "msqrob2": [
-        "QFeatures",
         "lme4"
     ],
     "MSstats": [
@@ -1785,9 +1780,7 @@
         "derfinder",
         "recount"
     ],
-    "PSMatch": [
-        "QFeatures"
-    ],
+    "PSMatch": [],
     "psygenet2r": [],
     "ptairMS": [
         "car",
@@ -1805,7 +1798,6 @@
         "biovizBase"
     ],
     "pwrEWAS": [],
-    "QFeatures": [],
     "qmtools": [
         "VIM",
         "car",
@@ -2039,9 +2031,7 @@
         "RUVSeq"
     ],
     "scoreInvHap": [],
-    "scp": [
-        "QFeatures"
-    ],
+    "scp": [],
     "scRecover": [
         "Rmagic"
     ],
