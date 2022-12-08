@@ -5578,7 +5578,6 @@
         "vctrs"
     ],
     "BumpyMatrix": [],
-    "BUS": [],
     "BUScorrect": [
         "DelayedArray",
         "GenomeInfoDb",
