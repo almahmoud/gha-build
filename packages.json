@@ -32995,7 +32995,6 @@
         "Matrix",
         "MatrixGenerics",
         "MatrixModels",
-        "Polychrome",
         "RCurl",
         "ROCR",
         "RSQLite",
@@ -82604,7 +82603,6 @@
         "htmlwidgets"
     ],
     "rsm": [],
-    "Polychrome": [],
     "AdaptGauss": [
         "DataVisualizations",
         "Matrix",
