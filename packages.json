@@ -5449,8 +5449,7 @@
     ],
     "supersigs": [
         "caret",
-        "recipes",
-        "rsample"
+        "recipes"
     ],
     "supraHex": [],
     "surfaltr": [
@@ -6552,7 +6551,6 @@
         "haven",
         "labelled"
     ],
-    "rsample": [],
     "SpatialExtremes": [],
     "GenKern": [],
     "bestNormalize": [
