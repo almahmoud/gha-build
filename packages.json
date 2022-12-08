@@ -1129,7 +1129,6 @@
     ],
     "BLMA": [
         "PADOG",
-        "ROntoTools",
         "hgu133a.db",
         "hgu133plus2.db",
         "org.Hs.eg.db"
@@ -7599,7 +7598,6 @@
     ],
     "MiRaGE": [],
     "mirIntegrator": [
-        "ROntoTools",
         "org.Hs.eg.db"
     ],
     "miRLAB": [
@@ -10960,7 +10958,6 @@
     "RolDE": [
         "qvalue"
     ],
-    "ROntoTools": [],
     "ropls": [
         "MultiAssayExperiment",
         "MultiDataSet",
