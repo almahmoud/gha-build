@@ -9293,7 +9293,6 @@
         "tidytree",
         "treeio"
     ],
-    "microRNA": [],
     "midasHLA": [
         "HardyWeinberg",
         "MultiAssayExperiment",
