@@ -333,7 +333,6 @@
         "ff",
         "genefilter",
         "ggplot2",
-        "gsl",
         "gtable",
         "httr",
         "isoband",
@@ -2119,7 +2118,6 @@
         "gld",
         "gmp",
         "gridExtra",
-        "gsl",
         "gtable",
         "highr",
         "hms",
@@ -7241,7 +7239,6 @@
         "goftest",
         "gplots",
         "gridExtra",
-        "gsl",
         "gtable",
         "here",
         "highr",
@@ -23417,7 +23414,6 @@
         "Biobase",
         "BiocGenerics",
         "Matrix",
-        "gsl",
         "igraph",
         "lattice",
         "magrittr",
@@ -45590,8 +45586,7 @@
         "zoo"
     ],
     "GLAD": [
-        "aws",
-        "gsl"
+        "aws"
     ],
     "GladiaTOX": [
         "Matrix",
@@ -54839,7 +54834,6 @@
         "cli",
         "ff",
         "foreach",
-        "gsl",
         "iterators",
         "lattice",
         "lifecycle",
@@ -58697,8 +58691,7 @@
     ],
     "MANOR": [
         "GLAD",
-        "aws",
-        "gsl"
+        "aws"
     ],
     "mAPKL": [
         "AnnotationDbi",
@@ -65171,7 +65164,6 @@
         "gridExtra",
         "gridGraphics",
         "gridSVG",
-        "gsl",
         "gtable",
         "hardhat",
         "highr",
@@ -66522,7 +66514,6 @@
         "gplots",
         "graph",
         "gridExtra",
-        "gsl",
         "gtable",
         "highr",
         "hms",
@@ -66828,7 +66819,6 @@
         "gridExtra",
         "gridGraphics",
         "groupdata2",
-        "gsl",
         "gson",
         "gtable",
         "hardhat",
@@ -82149,7 +82139,6 @@
         "ggplot2",
         "graph",
         "gridExtra",
-        "gsl",
         "gtable",
         "highr",
         "htmltools",
@@ -83732,7 +83721,6 @@
         "doParallel",
         "evmix",
         "foreach",
-        "gsl",
         "iterators",
         "lattice",
         "magrittr",
@@ -98445,7 +98433,6 @@
         "goftest",
         "gplots",
         "gridExtra",
-        "gsl",
         "gtable",
         "here",
         "htmltools",
@@ -101083,7 +101070,6 @@
         "globals",
         "graphlayouts",
         "gridExtra",
-        "gsl",
         "gtable",
         "igraph",
         "isoband",
@@ -102591,7 +102577,6 @@
         "boot",
         "doSNOW",
         "foreach",
-        "gsl",
         "iterators",
         "lattice",
         "snow",
@@ -106216,7 +106201,6 @@
         "farver",
         "genefilter",
         "ggplot2",
-        "gsl",
         "gtable",
         "httr",
         "isoband",
@@ -122872,15 +122856,12 @@
     "parallelly": [],
     "ff": [],
     "waveslim": [],
-    "aws": [
-        "gsl"
-    ],
+    "aws": [],
     "strucchange": [
         "lattice",
         "sandwich",
         "zoo"
     ],
-    "gsl": [],
     "zoo": [
         "lattice"
     ],
@@ -124416,8 +124397,7 @@
     ],
     "energy": [
         "Rcpp",
-        "boot",
-        "gsl"
+        "boot"
     ],
     "lmerTest": [
         "Matrix",
@@ -139874,8 +139854,7 @@
     ],
     "logspline": [],
     "evmix": [
-        "SparseM",
-        "gsl"
+        "SparseM"
     ],
     "tidybayes": [
         "Matrix",
@@ -141241,7 +141220,6 @@
     ],
     "copula": [
         "Matrix",
-        "gsl",
         "lattice",
         "mvtnorm",
         "pcaPP"
