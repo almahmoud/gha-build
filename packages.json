@@ -490,7 +490,6 @@
     ],
     "BioNERO": [
         "genefilter",
-        "ggnetwork",
         "sva"
     ],
     "BioNetStat": [
@@ -642,7 +641,6 @@
         "ensembldb",
         "genefilter",
         "ggbio",
-        "ggnetwork",
         "sva"
     ],
     "CAGEr": [
@@ -796,7 +794,6 @@
         "clusterProfiler",
         "enrichplot",
         "geneplotter",
-        "ggnetwork",
         "ggpubr",
         "ggraph",
         "ggtree",
@@ -4531,7 +4528,6 @@
     "Pi": [
         "caret",
         "dnet",
-        "ggnetwork",
         "recipes",
         "supraHex"
     ],
@@ -6050,7 +6046,6 @@
         "testthat"
     ],
     "syntenet": [
-        "ggnetwork",
         "testthat"
     ],
     "systemPipeR": [],
@@ -6733,7 +6728,6 @@
         "synaptome.data"
     ],
     "synaptome.data": [],
-    "ggnetwork": [],
     "biscuiteerData": [
         "ExperimentHub"
     ],
