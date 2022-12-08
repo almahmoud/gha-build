@@ -5622,7 +5622,6 @@
         "plotly",
         "topGO"
     ],
-    "PCAtools": [],
     "PDATK": [
         "CoreGx",
         "MultiAssayExperiment",
