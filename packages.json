@@ -276,7 +276,6 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "plotly",
-        "scattermore",
         "tidyr",
         "topGO"
     ],
@@ -646,7 +645,6 @@
         "phyloseq",
         "plotly",
         "scater",
-        "scattermore",
         "scuttle",
         "testthat",
         "tidyr",
@@ -1338,7 +1336,6 @@
         "ggrastr",
         "plotly",
         "scater",
-        "scattermore",
         "scuttle",
         "tidyr"
     ],
@@ -2548,9 +2545,7 @@
         "tidyr",
         "waldo"
     ],
-    "dearseq": [
-        "scattermore"
-    ],
+    "dearseq": [],
     "debCAM": [
         "DMwR2",
         "readr"
@@ -2859,7 +2854,6 @@
     "Dino": [
         "Seurat",
         "plotly",
-        "scattermore",
         "scran",
         "scuttle",
         "tidyr"
@@ -5062,7 +5056,6 @@
     "infercnv": [
         "Seurat",
         "plotly",
-        "scattermore",
         "tidyr"
     ],
     "InPAS": [
@@ -5215,7 +5208,6 @@
         "qvalue",
         "rstatix",
         "scater",
-        "scattermore",
         "scatterpie",
         "scran",
         "scuttle",
@@ -7255,7 +7247,6 @@
     "Nebulosa": [
         "Seurat",
         "plotly",
-        "scattermore",
         "tidyr"
     ],
     "nempi": [
@@ -8087,7 +8078,6 @@
         "ggrastr",
         "plotly",
         "scater",
-        "scattermore",
         "scran",
         "scuttle",
         "tidyr"
@@ -9526,7 +9516,6 @@
     "scAlign": [
         "Seurat",
         "plotly",
-        "scattermore",
         "tensorflow",
         "tidyr"
     ],
@@ -9559,7 +9548,6 @@
         "caret",
         "plotly",
         "recipes",
-        "scattermore",
         "tidyr"
     ],
     "SCANVIS": [
@@ -9584,7 +9572,6 @@
         "genefilter",
         "geneplotter",
         "plotly",
-        "scattermore",
         "tidyr",
         "zinbwave"
     ],
@@ -9594,7 +9581,6 @@
         "ggfun",
         "ggtree",
         "plotly",
-        "scattermore",
         "tidyr",
         "tidytree",
         "treeio"
@@ -9603,7 +9589,6 @@
         "DropletUtils",
         "Seurat",
         "plotly",
-        "scattermore",
         "scuttle",
         "tidyr"
     ],
@@ -9624,7 +9609,6 @@
     "scDataviz": [
         "Seurat",
         "plotly",
-        "scattermore",
         "tidyr"
     ],
     "scDblFinder": [
@@ -9665,7 +9649,6 @@
         "Seurat",
         "concaveman",
         "plotly",
-        "scattermore",
         "tidyr"
     ],
     "scHOT": [],
@@ -9675,7 +9658,6 @@
     "scMAGeCK": [
         "Seurat",
         "plotly",
-        "scattermore",
         "tidyr"
     ],
     "scmap": [],
@@ -9819,7 +9801,6 @@
         "plotly",
         "qvalue",
         "reactome.db",
-        "scattermore",
         "scatterpie",
         "schex",
         "shadowtext",
@@ -9838,7 +9819,6 @@
         "msigdbr",
         "nnTensor",
         "plotly",
-        "scattermore",
         "schex",
         "tidyr"
     ],
@@ -9858,7 +9838,6 @@
         "plotly",
         "rtracklayer",
         "scater",
-        "scattermore",
         "scran",
         "scuttle",
         "tidygraph",
@@ -10198,7 +10177,6 @@
         "scMerge",
         "scRNAseq",
         "scater",
-        "scattermore",
         "scds",
         "scran",
         "scuttle",
@@ -10343,7 +10321,6 @@
         "ggrastr",
         "plotly",
         "scater",
-        "scattermore",
         "scran",
         "scuttle",
         "tidyr"
@@ -10544,7 +10521,6 @@
         "Seurat",
         "SpatialExperiment",
         "plotly",
-        "scattermore",
         "scuttle",
         "tidyr"
     ],
@@ -10664,7 +10640,6 @@
         "Seurat",
         "SpatialExperiment",
         "plotly",
-        "scattermore",
         "scuttle",
         "tidyr"
     ],
@@ -11293,7 +11268,6 @@
     "tricycle": [
         "ggrastr",
         "scater",
-        "scattermore",
         "scuttle"
     ],
     "trigger": [
@@ -11850,12 +11824,10 @@
     "org.Sc.sgd.db": [],
     "Seurat": [
         "plotly",
-        "scattermore",
         "tidyr"
     ],
     "org.Hs.eg.db": [],
     "org.Mm.eg.db": [],
-    "scattermore": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
         "rtracklayer"
@@ -12930,7 +12902,6 @@
     "SoupX": [
         "Seurat",
         "plotly",
-        "scattermore",
         "tidyr"
     ],
     "scRNAseq": [
