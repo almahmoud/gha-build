@@ -7717,7 +7717,6 @@
         "RSQLite",
         "SummarizedExperiment",
         "XVector",
-        "biganalytics",
         "blob",
         "dplyr",
         "frma",
@@ -29027,7 +29026,6 @@
         "MCL",
         "RSpectra",
         "RcppEigen",
-        "biganalytics",
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
@@ -57407,7 +57405,6 @@
     ],
     "mixsqp": [],
     "ChIPXpressData": [],
-    "biganalytics": [],
     "shinyhelper": [
         "bslib",
         "httpuv",
