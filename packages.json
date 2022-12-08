@@ -3574,7 +3574,6 @@
     ],
     "canceR": [
         "AnnotationDbi",
-        "BMA",
         "BiocFileCache",
         "Biostrings",
         "Category",
@@ -15391,12 +15390,8 @@
         "oligoClasses",
         "pd.mapping50k.xba240"
     ],
-    "iterativeBMA": [
-        "BMA"
-    ],
-    "iterativeBMAsurv": [
-        "BMA"
-    ],
+    "iterativeBMA": [],
+    "iterativeBMAsurv": [],
     "IVAS": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -22944,7 +22939,6 @@
     ],
     "phenoTest": [
         "AnnotationDbi",
-        "BMA",
         "BiocFileCache",
         "Biostrings",
         "Category",
@@ -31270,7 +31264,6 @@
         "prodlim"
     ],
     "survtype": [
-        "BMA",
         "GenomicRanges",
         "SummarizedExperiment",
         "broom",
@@ -35974,7 +35967,6 @@
     "gridtext": [
         "stringr"
     ],
-    "BMA": [],
     "vcfR": [
         "dplyr",
         "pillar",
@@ -39032,9 +39024,7 @@
         "tidyselect"
     ],
     "slider": [],
-    "clustvarsel": [
-        "BMA"
-    ],
+    "clustvarsel": [],
     "gstat": [
         "lwgeom",
         "sf",
