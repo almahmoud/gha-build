@@ -423,7 +423,6 @@
         "biomaRt",
         "broom",
         "chromVAR",
-        "dtplyr",
         "fgsea",
         "ggalluvial",
         "googlesheets4",
@@ -2599,7 +2598,6 @@
     "dce": [
         "Linnorm",
         "broom",
-        "dtplyr",
         "epiNEM",
         "ggforce",
         "ggraph",
@@ -5887,7 +5885,6 @@
     "MAI": [
         "broom",
         "caret",
-        "dtplyr",
         "googlesheets4",
         "haven",
         "ipred",
@@ -6383,7 +6380,6 @@
         "bumphunter",
         "car",
         "devtools",
-        "dtplyr",
         "genefilter",
         "ggpmisc",
         "ggpubr",
@@ -6640,7 +6636,6 @@
     ],
     "MicrobiotaProcess": [
         "aplot",
-        "dtplyr",
         "ggfun",
         "ggplotify",
         "ggsignif",
@@ -6785,7 +6780,6 @@
         "clusterProfiler",
         "cvms",
         "dendextend",
-        "dtplyr",
         "enrichplot",
         "fgsea",
         "ggforce",
@@ -6845,7 +6839,6 @@
         "caret",
         "clusterProfiler",
         "cvms",
-        "dtplyr",
         "enrichplot",
         "fgsea",
         "ggforce",
@@ -7212,7 +7205,6 @@
         "broom",
         "car",
         "dendextend",
-        "dtplyr",
         "factoextra",
         "ggpubr",
         "ggsci",
@@ -7531,7 +7523,6 @@
     ],
     "nanotatoR": [
         "broom",
-        "dtplyr",
         "googlesheets4",
         "haven",
         "modelr",
@@ -10983,7 +10974,6 @@
         "car",
         "caret",
         "cvms",
-        "dtplyr",
         "ggpubr",
         "ggsci",
         "ggsignif",
@@ -11115,7 +11105,6 @@
     "Statial": [
         "broom",
         "concaveman",
-        "dtplyr",
         "googlesheets4",
         "haven",
         "modelr",
@@ -11255,7 +11244,6 @@
         "broom",
         "car",
         "drc",
-        "dtplyr",
         "fields",
         "ggforce",
         "googlesheets4",
@@ -12470,7 +12458,6 @@
     "msigdbr": [],
     "tidyverse": [
         "broom",
-        "dtplyr",
         "googlesheets4",
         "haven",
         "modelr",
@@ -12506,7 +12493,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "dtplyr": [],
     "googlesheets4": [],
     "haven": [
         "readr"
