@@ -2784,7 +2784,6 @@
         "rainbow"
     ],
     "fobitools": [
-        "RecordLinkage",
         "ggraph",
         "lexicon",
         "syuzhet",
@@ -4264,7 +4263,6 @@
     "MetaPhOR": [
         "DOSE",
         "GOSemSim",
-        "RecordLinkage",
         "aplot",
         "clusterProfiler",
         "enrichplot",
@@ -8889,7 +8887,6 @@
     ],
     "rainbow": [],
     "SPARQL": [],
-    "RecordLinkage": [],
     "NHPoisson": [
         "broom",
         "car",
