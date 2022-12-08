@@ -2065,7 +2065,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "ToxicoGx": [],
     "trackViewer": [
         "Gviz",
         "biovizBase"
