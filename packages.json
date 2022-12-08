@@ -66187,7 +66187,6 @@
         "rlang",
         "stringi",
         "stringr",
-        "tcltk2",
         "tibble",
         "tidyselect",
         "tzdb",
@@ -72005,8 +72004,7 @@
         "zlibbioc"
     ],
     "MBCB": [
-        "preprocessCore",
-        "tcltk2"
+        "preprocessCore"
     ],
     "MBECS": [
         "AnnotationDbi",
@@ -165564,7 +165562,6 @@
         "startupmsg"
     ],
     "startupmsg": [],
-    "tcltk2": [],
     "pd.mapping50k.xba240": [
         "Biobase",
         "BiocGenerics",
