@@ -1075,7 +1075,6 @@
         "rsq",
         "testthat"
     ],
-    "decoupleR": [],
     "DeepPINCS": [
         "DiagrammeR",
         "lexicon",
@@ -1259,7 +1258,6 @@
     "easier": [
         "DESeq2",
         "car",
-        "decoupleR",
         "dorothea",
         "easierData",
         "ggpubr",
@@ -3492,9 +3490,7 @@
         "soGGi",
         "treeio"
     ],
-    "progeny": [
-        "decoupleR"
-    ],
+    "progeny": [],
     "projectR": [],
     "pRoloc": [
         "caret"
