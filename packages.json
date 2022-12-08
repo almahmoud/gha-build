@@ -270,22 +270,18 @@
         "BSgenome.Ecoli.NCBI.20080805"
     ],
     "BASiCS": [
-        "ggExtra",
-        "scran"
+        "ggExtra"
     ],
     "BASiCStan": [
         "BASiCS",
-        "ggExtra",
-        "scran"
+        "ggExtra"
     ],
     "batchelor": [],
     "BatchQC": [
         "heatmaply",
         "sva"
     ],
-    "BayesSpace": [
-        "scran"
-    ],
+    "BayesSpace": [],
     "BBCAnalyzer": [
         "GenomicFeatures",
         "VariantAnnotation"
@@ -439,9 +435,7 @@
         "MultiAssayExperiment",
         "ropls"
     ],
-    "BioTIP": [
-        "scran"
-    ],
+    "BioTIP": [],
     "biovizBase": [
         "GenomicFeatures",
         "VariantAnnotation",
@@ -637,9 +631,7 @@
         "PROMISE"
     ],
     "celaref": [],
-    "celda": [
-        "scran"
-    ],
+    "celda": [],
     "CellBarcode": [],
     "CellBench": [],
     "cellHTS2": [
@@ -819,8 +811,7 @@
     "ChromHeatMap": [],
     "chromPlot": [],
     "ChromSCape": [
-        "batchelor",
-        "scran"
+        "batchelor"
     ],
     "chromVAR": [
         "CNEr",
@@ -855,7 +846,6 @@
         "ggraph",
         "mixtools",
         "propr",
-        "scran",
         "tidygraph"
     ],
     "ClassifyR": [
@@ -993,7 +983,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "scran",
         "testthat",
         "tidygraph",
         "treeio"
@@ -1426,8 +1415,7 @@
         "viper"
     ],
     "Dino": [
-        "Seurat",
-        "scran"
+        "Seurat"
     ],
     "DiscoRhythm": [
         "ggExtra",
@@ -1916,8 +1904,7 @@
         "bambu",
         "biovizBase",
         "ensembldb",
-        "ggbio",
-        "scran"
+        "ggbio"
     ],
     "flowcatchR": [],
     "flowCL": [
@@ -2619,7 +2606,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "scran",
         "testthat",
         "tidygraph",
         "treeio"
@@ -3433,9 +3419,7 @@
         "ensembldb",
         "ggbio"
     ],
-    "msImpute": [
-        "scran"
-    ],
+    "msImpute": [],
     "msmsEDA": [],
     "msmsTests": [
         "msmsEDA"
@@ -3565,8 +3549,7 @@
         "treeio"
     ],
     "mumosa": [
-        "batchelor",
-        "scran"
+        "batchelor"
     ],
     "MungeSumstats": [
         "GenomicFeatures",
@@ -4083,8 +4066,7 @@
         "fds"
     ],
     "pipeComp": [
-        "Seurat",
-        "scran"
+        "Seurat"
     ],
     "pipeFrame": [],
     "PloGO2": [
@@ -4839,15 +4821,12 @@
     "scDataviz": [
         "Seurat"
     ],
-    "scDblFinder": [
-        "scran"
-    ],
+    "scDblFinder": [],
     "scDD": [
         "EBSeq",
         "arm",
         "lme4",
         "nloptr",
-        "scran",
         "testthat"
     ],
     "scDDboost": [
@@ -4899,7 +4878,6 @@
     "scPipe": [
         "testthat"
     ],
-    "scran": [],
     "scRecover": [
         "Rmagic"
     ],
@@ -4948,7 +4926,6 @@
         "epivizr",
         "epivizrData",
         "ggraph",
-        "scran",
         "tidygraph"
     ],
     "SDAMS": [],
@@ -5087,9 +5064,7 @@
         "GOSemSim"
     ],
     "single": [],
-    "SingleCellSignalR": [
-        "scran"
-    ],
+    "SingleCellSignalR": [],
     "singleCellTK": [
         "DESeq2",
         "ExperimentHub",
@@ -5112,7 +5087,6 @@
         "scDblFinder",
         "scMerge",
         "scRNAseq",
-        "scran",
         "sva",
         "treeio",
         "zinbwave"
@@ -5186,8 +5160,7 @@
         "ggbio"
     ],
     "Spaniel": [
-        "Seurat",
-        "scran"
+        "Seurat"
     ],
     "sparrow": [
         "GSEABase"
@@ -5211,9 +5184,7 @@
     "SpatialFeatureExperiment": [
         "SpatialExperiment"
     ],
-    "spatialHeatmap": [
-        "scran"
-    ],
+    "spatialHeatmap": [],
     "spatzie": [
         "CNEr",
         "GenomicFeatures",
