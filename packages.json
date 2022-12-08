@@ -1961,7 +1961,6 @@
         "rstatix",
         "survminer"
     ],
-    "peco": [],
     "PFP": [
         "clusterProfiler",
         "enrichplot",
