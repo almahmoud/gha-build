@@ -5760,7 +5760,6 @@
         "methylumi",
         "minfi"
     ],
-    "roar": [],
     "RolDE": [],
     "ropls": [
         "MultiAssayExperiment",
