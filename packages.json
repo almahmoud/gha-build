@@ -24194,9 +24194,7 @@
         "tibble",
         "tidyselect"
     ],
-    "SCFA": [
-        "torch"
-    ],
+    "SCFA": [],
     "scFeatureFilter": [
         "dplyr",
         "ggplot2",
@@ -33275,7 +33273,6 @@
         "tibble",
         "tidyselect"
     ],
-    "torch": [],
     "origami": [],
     "Rmagic": [],
     "ggvenn": [
