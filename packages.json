@@ -4663,7 +4663,6 @@
         "geneplotter",
         "rtracklayer"
     ],
-    "IntramiRExploreR": [],
     "IONiseR": [
         "ShortRead"
     ],
