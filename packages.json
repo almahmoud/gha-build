@@ -25568,7 +25568,6 @@
         "vctrs",
         "viridis"
     ],
-    "maSigPro": [],
     "maskBAD": [
         "Biostrings",
         "GenomeInfoDb",
