@@ -13961,7 +13961,6 @@
     "TimiRGeN": [
         "BiocFileCache",
         "DOSE",
-        "FreqProf",
         "GO.db",
         "GOSemSim",
         "HDO.db",
@@ -16403,7 +16402,6 @@
     ],
     "GenKern": [],
     "ttservice": [],
-    "FreqProf": [],
     "gghighlight": [
         "ggrepel"
     ],
