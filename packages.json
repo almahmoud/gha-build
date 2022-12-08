@@ -3281,7 +3281,6 @@
         "ggraph",
         "tidygraph"
     ],
-    "mimager": [],
     "MIMOSA": [
         "testthat"
     ],
