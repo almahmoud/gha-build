@@ -716,7 +716,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "bugsigdbr": [],
     "BUMHMM": [
         "devtools",
         "testthat"
