@@ -15,7 +15,6 @@
     "abseqR": [
         "BiocStyle",
         "bookdown",
-        "flexdashboard",
         "ggcorrplot",
         "ggdendro",
         "plotly",
@@ -10685,7 +10684,6 @@
         "cowplot",
         "dendextend",
         "factoextra",
-        "flexdashboard",
         "genefilter",
         "ggpubr",
         "ggrepel",
@@ -15030,7 +15028,6 @@
         "genefilter"
     ],
     "GO.db": [],
-    "flexdashboard": [],
     "ggcorrplot": [],
     "ggdendro": [],
     "plotly": [
