@@ -271,7 +271,6 @@
     ],
     "bioCancer": [
         "DOSE",
-        "DiagrammeR",
         "ReactomePA",
         "car",
         "clusterProfiler",
@@ -1072,7 +1071,6 @@
         "testthat"
     ],
     "DeepPINCS": [
-        "DiagrammeR",
         "lexicon",
         "textclean",
         "textstem",
@@ -1805,7 +1803,6 @@
     ],
     "GenProSeq": [
         "DeepPINCS",
-        "DiagrammeR",
         "lexicon",
         "textclean",
         "textstem",
@@ -1909,9 +1906,7 @@
     "gmoviz": [
         "GenomicFeatures"
     ],
-    "GNET2": [
-        "DiagrammeR"
-    ],
+    "GNET2": [],
     "GOpro": [],
     "goseq": [
         "GenomicFeatures",
@@ -3655,11 +3650,8 @@
         "AUCell"
     ],
     "Rcpi": [],
-    "Rcwl": [
-        "DiagrammeR"
-    ],
+    "Rcwl": [],
     "RcwlPipelines": [
-        "DiagrammeR",
         "Rcwl"
     ],
     "ReactomeGraph4R": [],
@@ -4713,7 +4705,6 @@
         "kmlShape"
     ],
     "ttgsea": [
-        "DiagrammeR",
         "lexicon",
         "textclean",
         "textstem"
@@ -4758,7 +4749,6 @@
     ],
     "VAExprs": [
         "DeepPINCS",
-        "DiagrammeR",
         "lexicon",
         "textclean",
         "textstem",
@@ -4807,9 +4797,7 @@
         "DESeq2"
     ],
     "viper": [],
-    "ViSEAGO": [
-        "DiagrammeR"
-    ],
+    "ViSEAGO": [],
     "vissE": [
         "ggraph",
         "lexicon",
@@ -5004,7 +4992,6 @@
         "pbkrtest",
         "testthat"
     ],
-    "DiagrammeR": [],
     "ggraph": [],
     "synaptome.db": [],
     "biscuiteerData": [],
