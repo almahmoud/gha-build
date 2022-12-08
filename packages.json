@@ -24962,7 +24962,6 @@
         "blob",
         "cleanUpdTSeq",
         "dbplyr",
-        "depmixS4",
         "dplyr",
         "e1071",
         "futile.logger",
@@ -54899,7 +54898,6 @@
         "butcher",
         "clock",
         "dbplyr",
-        "depmixS4",
         "doParallel",
         "doRNG",
         "dplyr",
@@ -63868,7 +63866,6 @@
     "phyclust": [
         "ape"
     ],
-    "depmixS4": [],
     "golem": [
         "bslib",
         "credentials",
