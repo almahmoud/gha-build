@@ -9805,7 +9805,6 @@
         "dplyr",
         "ggplot2",
         "ggrepel",
-        "gmm",
         "hms",
         "imputeLCMD",
         "knitr",
@@ -19242,7 +19241,6 @@
         "forcats",
         "ggplot2",
         "ggrepel",
-        "gmm",
         "imputeLCMD",
         "pillar",
         "plotly",
@@ -20115,7 +20113,6 @@
         "bslib",
         "dplyr",
         "ggplot2",
-        "gmm",
         "htmlTable",
         "imputeLCMD",
         "knitr",
@@ -22097,7 +22094,6 @@
         "XVector",
         "ggplot2",
         "glmnet",
-        "gmm",
         "metagenomeSeq",
         "multtest",
         "phyloseq",
@@ -26218,7 +26214,6 @@
         "ggplot2",
         "ggrepel",
         "glmnet",
-        "gmm",
         "htmlTable",
         "imputeLCMD",
         "isva",
@@ -31188,7 +31183,6 @@
         "ggplot2",
         "ggrepel",
         "glmnet",
-        "gmm",
         "htmlTable",
         "imputeLCMD",
         "knitr",
@@ -36382,7 +36376,6 @@
     ],
     "sparseDOSSA": [
         "MCMCpack",
-        "gmm",
         "quantreg",
         "tmvtnorm"
     ],
@@ -44932,13 +44925,9 @@
         "quantmod"
     ],
     "imputeLCMD": [
-        "gmm",
         "tmvtnorm"
     ],
-    "tmvtnorm": [
-        "gmm"
-    ],
-    "gmm": [],
+    "tmvtnorm": [],
     "ggplot.multistats": [
         "ggplot2",
         "pillar",
