@@ -41511,7 +41511,6 @@
         "knitr",
         "latticeExtra",
         "lava",
-        "lhs",
         "lifecycle",
         "linkcomm",
         "lme4",
@@ -64526,7 +64525,6 @@
         "kknn",
         "km.ci",
         "knitr",
-        "lhs",
         "lifecycle",
         "lme4",
         "lubridate",
@@ -84807,8 +84805,7 @@
         "vctrs"
     ],
     "ppclust": [
-        "inaparc",
-        "lhs"
+        "inaparc"
     ],
     "MatrixCorrelation": [
         "Matrix",
@@ -84821,9 +84818,7 @@
         "progress",
         "vctrs"
     ],
-    "inaparc": [
-        "lhs"
-    ],
+    "inaparc": [],
     "metR": [
         "Matrix",
         "cachem",
@@ -84841,7 +84836,6 @@
         "tibble",
         "vctrs"
     ],
-    "lhs": [],
     "cvms": [
         "Matrix",
         "MuMIn",
