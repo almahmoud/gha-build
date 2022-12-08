@@ -12402,7 +12402,6 @@
         "egg",
         "ggExtra",
         "ggplot2",
-        "gnm",
         "heatmaply",
         "httpuv",
         "httr",
@@ -53393,10 +53392,7 @@
         "pcaMethods",
         "survival"
     ],
-    "MetaCycle": [
-        "gnm"
-    ],
-    "gnm": [],
+    "MetaCycle": [],
     "fastDummies": [
         "pillar",
         "stringr",
