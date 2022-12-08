@@ -2672,7 +2672,6 @@
         "biomaRt"
     ],
     "FEAST": [
-        "SC3",
         "TSCAN"
     ],
     "fedup": [],
@@ -6793,7 +6792,6 @@
     "SBGNview": [
         "pathview"
     ],
-    "SC3": [],
     "scAlign": [
         "Seurat",
         "plotly"
