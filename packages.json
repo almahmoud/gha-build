@@ -4046,7 +4046,6 @@
         "motifStack",
         "readr"
     ],
-    "LRBaseDbi": [],
     "LRcell": [
         "AnnotationHub",
         "ExperimentHub"
