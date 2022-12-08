@@ -10169,7 +10169,6 @@
         "caret",
         "caretEnsemble",
         "ggplotify",
-        "ggprism",
         "ipred",
         "readr",
         "recipes",
@@ -14386,7 +14385,6 @@
         "recipes",
         "tidyr"
     ],
-    "ggprism": [],
     "RLHub": [
         "AnnotationHub",
         "BiocFileCache",
