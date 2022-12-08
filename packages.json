@@ -1535,7 +1535,6 @@
         "enrichplot",
         "ggtree"
     ],
-    "pareg": [],
     "PathoStat": [],
     "pcaExplorer": [
         "GOstats"
