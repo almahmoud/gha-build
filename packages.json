@@ -7355,7 +7355,6 @@
         "genefilter",
         "minfi",
         "org.Hs.eg.db",
-        "pandaR",
         "quantro",
         "readr",
         "rtracklayer",
@@ -7771,7 +7770,6 @@
         "testthat",
         "waldo"
     ],
-    "pandaR": [],
     "panelcn.mops": [
         "cn.mops"
     ],
