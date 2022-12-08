@@ -504,7 +504,6 @@
         "GOstats"
     ],
     "cbaf": [
-        "GenomicDataCommons",
         "GenomicFeatures",
         "RTCGAToolbox",
         "TCGAutils",
@@ -515,7 +514,6 @@
         "treeio"
     ],
     "cBioPortalData": [
-        "GenomicDataCommons",
         "GenomicFeatures",
         "RTCGAToolbox",
         "TCGAutils"
@@ -1695,7 +1693,6 @@
     "GDCRNATools": [
         "DESeq2",
         "DOSE",
-        "GenomicDataCommons",
         "car",
         "clusterProfiler",
         "enrichplot",
@@ -1752,7 +1749,6 @@
     ],
     "geneXtendeR": [],
     "genomes": [],
-    "GenomicDataCommons": [],
     "GenomicFeatures": [],
     "GenomicFiles": [
         "GenomicFeatures",
@@ -2281,7 +2277,6 @@
         "CAMERA"
     ],
     "LowMACA": [
-        "GenomicDataCommons",
         "GenomicFeatures",
         "RTCGAToolbox",
         "TCGAutils",
@@ -3940,7 +3935,6 @@
         "testthat"
     ],
     "RTCGAToolbox": [
-        "GenomicDataCommons",
         "GenomicFeatures",
         "TCGAutils"
     ],
@@ -4559,7 +4553,6 @@
         "treeio"
     ],
     "TCGAutils": [
-        "GenomicDataCommons",
         "GenomicFeatures"
     ],
     "TDARACNE": [
@@ -4572,7 +4565,6 @@
         "restfulSE"
     ],
     "terraTCGAdata": [
-        "GenomicDataCommons",
         "GenomicFeatures",
         "TCGAutils"
     ],
