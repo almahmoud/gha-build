@@ -482,7 +482,6 @@
         "enrichplot"
     ],
     "fastLiquidAssociation": [],
-    "fCCAC": [],
     "fcoex": [
         "clusterProfiler",
         "enrichplot"
