@@ -1210,7 +1210,6 @@
         "IlluminaHumanMethylation450kmanifest"
     ],
     "REDseq": [],
-    "RegEnrich": [],
     "regionReport": [
         "GenomicFiles",
         "derfinder"
