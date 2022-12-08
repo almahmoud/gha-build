@@ -550,7 +550,6 @@
         "lme4",
         "pbkrtest"
     ],
-    "DAPAR": [],
     "dasper": [
         "car",
         "ggpubr",
@@ -2015,9 +2014,7 @@
         "pRoloc"
     ],
     "PROPS": [],
-    "Prostar": [
-        "DAPAR"
-    ],
+    "Prostar": [],
     "proteasy": [
         "EnsDb.Hsapiens.v86",
         "EnsDb.Mmusculus.v79",
