@@ -368,7 +368,6 @@
         "lme4",
         "pbkrtest"
     ],
-    "cellTree": [],
     "CEMiTool": [
         "DOSE",
         "clusterProfiler",
