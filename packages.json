@@ -2817,7 +2817,6 @@
         "Rsamtools",
         "caret",
         "dplyr",
-        "genomeIntervals",
         "ggplot2",
         "hardhat",
         "ipred",
@@ -5704,8 +5703,7 @@
         "SummarizedExperiment",
         "biomaRt",
         "dbplyr",
-        "dplyr",
-        "genomeIntervals"
+        "dplyr"
     ],
     "EBSEA": [
         "AnnotationDbi",
@@ -7651,7 +7649,6 @@
     "GenomAutomorphism": [
         "dplyr"
     ],
-    "genomeIntervals": [],
     "genomes": [
         "readr",
         "vroom"
@@ -8100,8 +8097,7 @@
         "GenomicAlignments",
         "Rsamtools",
         "ShortRead",
-        "SummarizedExperiment",
-        "genomeIntervals"
+        "SummarizedExperiment"
     ],
     "GISPA": [
         "AnnotationDbi",
@@ -12478,7 +12474,6 @@
         "easyRNASeq",
         "ensembldb",
         "forcats",
-        "genomeIntervals",
         "ggbio",
         "ggplot2",
         "htmlTable",
@@ -22687,7 +22682,6 @@
     "ChIC.data": [
         "caret",
         "dplyr",
-        "genomeIntervals",
         "ggplot2",
         "hardhat",
         "ipred",
