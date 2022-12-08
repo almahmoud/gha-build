@@ -3840,8 +3840,7 @@
     ],
     "LACE": [
         "biomaRt",
-        "readr",
-        "sortable"
+        "readr"
     ],
     "LedPred": [
         "testthat",
@@ -5082,7 +5081,6 @@
         "plotly",
         "readr",
         "rstatix",
-        "sortable",
         "testthat",
         "waldo"
     ],
@@ -8899,7 +8897,6 @@
     ],
     "pd.mapping50k.xba240": [],
     "hgu95av2.db": [],
-    "sortable": [],
     "reldist": [],
     "adabag": [
         "caret",
