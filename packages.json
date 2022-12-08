@@ -2146,7 +2146,6 @@
         "genomation",
         "readr",
         "rtracklayer",
-        "seqPattern",
         "vroom"
     ],
     "cfDNAPro": [
@@ -4854,7 +4853,6 @@
         "rmarkdown",
         "rtracklayer",
         "scatterpie",
-        "seqPattern",
         "shadowtext",
         "tidygraph",
         "tidyr",
@@ -5419,7 +5417,6 @@
         "rainbow",
         "readr",
         "rtracklayer",
-        "seqPattern",
         "vroom"
     ],
     "fCI": [
@@ -6104,7 +6101,6 @@
         "Rsamtools",
         "readr",
         "rtracklayer",
-        "seqPattern",
         "vroom"
     ],
     "GenomAutomorphism": [],
@@ -12599,7 +12595,6 @@
         "readr",
         "rmarkdown",
         "rtracklayer",
-        "seqPattern",
         "tidyr",
         "vroom"
     ],
@@ -14474,7 +14469,6 @@
         "dbplyr",
         "geneplotter"
     ],
-    "seqPattern": [],
     "seqsetvis": [
         "GenomicAlignments",
         "Rsamtools",
