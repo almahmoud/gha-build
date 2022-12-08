@@ -276,7 +276,6 @@
     "dagLogo": [],
     "DaMiRseq": [
         "FactoMineR",
-        "arm",
         "car",
         "pbkrtest"
     ],
@@ -324,9 +323,7 @@
         "rstatix"
     ],
     "diffUTR": [],
-    "DMCFB": [
-        "arm"
-    ],
+    "DMCFB": [],
     "DMRcate": [
         "DSS",
         "Gviz",
@@ -489,7 +486,6 @@
     "GARS": [
         "DaMiRseq",
         "FactoMineR",
-        "arm",
         "car",
         "pbkrtest"
     ],
@@ -961,9 +957,7 @@
         "quantro",
         "yarn"
     ],
-    "nondetects": [
-        "arm"
-    ],
+    "nondetects": [],
     "NormalyzerDE": [
         "RcmdrMisc",
         "car",
@@ -1228,9 +1222,7 @@
         "pbkrtest"
     ],
     "scBubbletree": [],
-    "scDD": [
-        "arm"
-    ],
+    "scDD": [],
     "scone": [],
     "scRecover": [
         "Rmagic"
@@ -1427,9 +1419,7 @@
     "vulcan": [
         "DiffBind"
     ],
-    "waddR": [
-        "arm"
-    ],
+    "waddR": [],
     "wateRmelon": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "lumi",
@@ -1498,7 +1488,6 @@
     ],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [],
     "mbest": [],
-    "arm": [],
     "rsq": [],
     "textstem": [],
     "VIM": [
