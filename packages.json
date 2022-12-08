@@ -10646,7 +10646,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
-        "diffr",
         "dplyr",
         "pillar",
         "rtracklayer",
@@ -49823,7 +49822,6 @@
         "vctrs",
         "waldo"
     ],
-    "diffr": [],
     "webchem": [
         "dplyr",
         "httr",
