@@ -308,7 +308,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "tidyr",
         "topGO"
     ],
@@ -735,7 +734,6 @@
         "readxl",
         "scater",
         "scattermore",
-        "sctransform",
         "scuttle",
         "testthat",
         "tidyr",
@@ -1519,7 +1517,6 @@
         "plotly",
         "scater",
         "scattermore",
-        "sctransform",
         "scuttle",
         "tidyr",
         "viridis"
@@ -3313,7 +3310,6 @@
         "plotly",
         "scattermore",
         "scran",
-        "sctransform",
         "scuttle",
         "tidyr"
     ],
@@ -5861,7 +5857,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "tidyr"
     ],
     "InPAS": [
@@ -6044,7 +6039,6 @@
         "scattermore",
         "scatterpie",
         "scran",
-        "sctransform",
         "scuttle",
         "shadowtext",
         "testthat",
@@ -8202,7 +8196,6 @@
         "nloptr",
         "pbkrtest",
         "scater",
-        "sctransform",
         "scuttle",
         "testthat",
         "tidyr",
@@ -8401,7 +8394,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "tidyr"
     ],
     "nempi": [
@@ -9361,7 +9353,6 @@
         "scater",
         "scattermore",
         "scran",
-        "sctransform",
         "scuttle",
         "tidyr",
         "viridis"
@@ -11011,7 +11002,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "tensorflow",
         "tidyr"
     ],
@@ -11053,7 +11043,6 @@
         "plotly",
         "recipes",
         "scattermore",
-        "sctransform",
         "tidyr"
     ],
     "SCANVIS": [
@@ -11084,7 +11073,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "tidyr",
         "zinbwave"
     ],
@@ -11098,7 +11086,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "tidyr",
         "tidytree",
         "treeio"
@@ -11110,7 +11097,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "scuttle",
         "tidyr"
     ],
@@ -11139,7 +11125,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "tidyr"
     ],
     "scDblFinder": [
@@ -11188,7 +11173,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "tidyr"
     ],
     "scHOT": [
@@ -11203,7 +11187,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "tidyr"
     ],
     "scmap": [],
@@ -11377,7 +11360,6 @@
         "scattermore",
         "scatterpie",
         "schex",
-        "sctransform",
         "shadowtext",
         "tidygraph",
         "tidyr",
@@ -11402,7 +11384,6 @@
         "plotly",
         "scattermore",
         "schex",
-        "sctransform",
         "tidyr",
         "viridis"
     ],
@@ -11428,7 +11409,6 @@
         "scater",
         "scattermore",
         "scran",
-        "sctransform",
         "scuttle",
         "tidygraph",
         "tidyr",
@@ -11828,7 +11808,6 @@
         "scattermore",
         "scds",
         "scran",
-        "sctransform",
         "scuttle",
         "sva",
         "tidyr",
@@ -11991,7 +11970,6 @@
         "scater",
         "scattermore",
         "scran",
-        "sctransform",
         "scuttle",
         "tidyr",
         "viridis"
@@ -12227,7 +12205,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "scuttle",
         "tidyr",
         "viridis"
@@ -12374,7 +12351,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "scuttle",
         "tidyr"
     ],
@@ -13728,7 +13704,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "tidyr"
     ],
     "org.Hs.eg.db": [],
@@ -13736,7 +13711,6 @@
     "ggridges": [],
     "patchwork": [],
     "scattermore": [],
-    "sctransform": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
         "GenomicAlignments",
@@ -14991,7 +14965,6 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
         "tidyr"
     ],
     "scRNAseq": [
