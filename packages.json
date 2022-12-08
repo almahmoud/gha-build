@@ -360,7 +360,6 @@
         "rstatix",
         "survminer"
     ],
-    "GmicR": [],
     "goSorensen": [
         "clusterProfiler"
     ],
