@@ -4697,7 +4697,6 @@
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Modstrings",
         "biomaRt",
         "dbplyr",
         "rtracklayer",
@@ -9081,7 +9080,6 @@
         "WGCNA",
         "viridis"
     ],
-    "Modstrings": [],
     "MOFA2": [
         "cowplot",
         "ggrepel",
@@ -12467,7 +12465,6 @@
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
-        "Modstrings",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -12484,7 +12481,6 @@
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
-        "Modstrings",
         "RNAmodR",
         "VariantAnnotation",
         "biomaRt",
@@ -12502,7 +12498,6 @@
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
-        "Modstrings",
         "RNAmodR",
         "VariantAnnotation",
         "biomaRt",
@@ -12520,7 +12515,6 @@
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
-        "Modstrings",
         "RNAmodR",
         "VariantAnnotation",
         "biomaRt",
@@ -15441,17 +15435,13 @@
         "shinyFiles",
         "tidyr"
     ],
-    "tRNA": [
-        "Modstrings"
-    ],
+    "tRNA": [],
     "tRNAdbImport": [
-        "Modstrings",
         "tRNA"
     ],
     "tRNAscanImport": [
         "BSgenome",
         "GenomicAlignments",
-        "Modstrings",
         "rtracklayer",
         "tRNA"
     ],
