@@ -22006,7 +22006,6 @@
         "methylKit",
         "pillar",
         "qvalue",
-        "rebus",
         "reshape2",
         "rtracklayer",
         "scales",
@@ -46706,7 +46705,6 @@
         "vctrs"
     ],
     "PerformanceAnalytics": [],
-    "rebus": [],
     "ggmcmc": [
         "GGally",
         "dplyr",
