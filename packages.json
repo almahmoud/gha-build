@@ -201,7 +201,6 @@
         "VariantAnnotation",
         "dmrseq"
     ],
-    "BiSeq": [],
     "BitSeq": [],
     "blacksheepr": [
         "DESeq2",
