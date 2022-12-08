@@ -24,7 +24,6 @@
     "animalcules": [],
     "anota2seq": [],
     "appreci8R": [
-        "Homo.sapiens",
         "PolyPhen.Hsapiens.dbSNP131",
         "SIFT.Hsapiens.dbSNP137"
     ],
@@ -46,7 +45,6 @@
         "Gviz"
     ],
     "ATACCoGAPS": [
-        "Homo.sapiens",
         "Mus.musculus",
         "projectR",
         "rGREAT"
@@ -94,7 +92,6 @@
         "Gviz"
     ],
     "biscuiteer": [
-        "Homo.sapiens",
         "Mus.musculus"
     ],
     "BitSeq": [],
@@ -445,7 +442,6 @@
     ],
     "epimutacions": [
         "Gviz",
-        "Homo.sapiens",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
@@ -453,8 +449,7 @@
     ],
     "epivizrStandalone": [],
     "erma": [
-        "GenomicFiles",
-        "Homo.sapiens"
+        "GenomicFiles"
     ],
     "esATAC": [
         "ChIPseeker",
@@ -631,9 +626,7 @@
         "drc",
         "pbkrtest"
     ],
-    "GSReg": [
-        "Homo.sapiens"
-    ],
+    "GSReg": [],
     "GUIDEseq": [],
     "Gviz": [],
     "gwasurvivr": [],
@@ -786,8 +779,7 @@
     ],
     "mBPCR": [],
     "mCSEA": [
-        "Gviz",
-        "Homo.sapiens"
+        "Gviz"
     ],
     "MEAL": [
         "FDb.InfiniumMethylation.hg19",
@@ -1576,8 +1568,7 @@
     ],
     "UMI4Cats": [],
     "uncoverappLib": [
-        "Gviz",
-        "Homo.sapiens"
+        "Gviz"
     ],
     "Uniquorn": [],
     "VAExprs": [
@@ -1641,7 +1632,6 @@
     ],
     "pbkrtest": [],
     "lmerTest": [],
-    "Homo.sapiens": [],
     "PolyPhen.Hsapiens.dbSNP131": [],
     "SIFT.Hsapiens.dbSNP137": [],
     "FDb.InfiniumMethylation.hg19": [],
