@@ -1071,7 +1071,6 @@
     "ISAnalytics": [
         "datamods"
     ],
-    "iSEEhub": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "tximeta"
