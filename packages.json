@@ -106957,9 +106957,7 @@
         "withr",
         "zlibbioc"
     ],
-    "SNAGEE": [
-        "SNAGEEdata"
-    ],
+    "SNAGEE": [],
     "snapCGH": [
         "AnnotationDbi",
         "Biobase",
@@ -142950,7 +142948,6 @@
         "cpp11",
         "gmp"
     ],
-    "SNAGEEdata": [],
     "sampSurf": [],
     "logNormReg": [],
     "spdep": [
