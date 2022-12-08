@@ -13,7 +13,6 @@
         "genefilter"
     ],
     "abseqR": [
-        "BiocStyle",
         "plotly"
     ],
     "ACE": [],
@@ -349,7 +348,6 @@
     "ASpli": [
         "BSgenome",
         "BiocFileCache",
-        "BiocStyle",
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
@@ -500,7 +498,6 @@
     "BANDITS": [],
     "bandle": [
         "BiocFileCache",
-        "BiocStyle",
         "MLInterfaces",
         "MSnbase",
         "annotate",
@@ -729,10 +726,7 @@
         "readr"
     ],
     "BiocSet": [],
-    "BiocStyle": [],
-    "BiocWorkflowTools": [
-        "BiocStyle"
-    ],
+    "BiocWorkflowTools": [],
     "biodb": [
         "BiocFileCache",
         "testthat",
@@ -953,9 +947,7 @@
         "bsseq",
         "rtracklayer"
     ],
-    "BPRMeth": [
-        "BiocStyle"
-    ],
+    "BPRMeth": [],
     "brainflowprobes": [
         "AnnotationHub",
         "BSgenome",
@@ -1011,7 +1003,6 @@
     "BubbleTree": [
         "BSgenome",
         "BiocFileCache",
-        "BiocStyle",
         "GenomicFeatures",
         "Hmisc",
         "VariantAnnotation",
@@ -1423,7 +1414,6 @@
     "chimeraviz": [
         "BSgenome",
         "BiocFileCache",
-        "BiocStyle",
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
@@ -1836,9 +1826,7 @@
     "compartmap": [
         "rtracklayer"
     ],
-    "COMPASS": [
-        "BiocStyle"
-    ],
+    "COMPASS": [],
     "compEpiTools": [
         "BSgenome",
         "BiocFileCache",
@@ -2401,9 +2389,7 @@
         "tidytree",
         "treeio"
     ],
-    "deco": [
-        "BiocStyle"
-    ],
+    "deco": [],
     "DEComplexDisease": [
         "DESeq2",
         "annotate",
@@ -2651,7 +2637,6 @@
         "scuttle"
     ],
     "DiscoRhythm": [
-        "BiocStyle",
         "broom",
         "colourpicker",
         "dendextend",
@@ -3375,9 +3360,7 @@
         "treeio"
     ],
     "ExploreModelMatrix": [],
-    "ExpressionAtlas": [
-        "BiocStyle"
-    ],
+    "ExpressionAtlas": [],
     "extraChIPs": [
         "BSgenome",
         "BiocFileCache",
@@ -3865,7 +3848,6 @@
         "plotly"
     ],
     "geneXtendeR": [
-        "BiocStyle",
         "GO.db",
         "org.Rn.eg.db",
         "rtracklayer"
@@ -5379,8 +5361,7 @@
         "CNORode"
     ],
     "Melissa": [
-        "BPRMeth",
-        "BiocStyle"
+        "BPRMeth"
     ],
     "memes": [
         "cmdfun",
@@ -5408,7 +5389,6 @@
         "treeio"
     ],
     "meshr": [
-        "BiocStyle",
         "Category",
         "GSEABase",
         "MeSHDbi",
@@ -6281,7 +6261,6 @@
     "MSnID": [
         "AnnotationHub",
         "BiocFileCache",
-        "BiocStyle",
         "MSnbase",
         "msmsEDA",
         "msmsTests"
@@ -6699,9 +6678,7 @@
         "readr",
         "supraHex"
     ],
-    "netresponse": [
-        "BiocStyle"
-    ],
+    "netresponse": [],
     "NetSAM": [
         "BiocFileCache",
         "GO.db",
@@ -7166,7 +7143,6 @@
         "rtracklayer"
     ],
     "PathoStat": [
-        "BiocStyle",
         "DESeq2",
         "annotate",
         "devtools",
@@ -7338,7 +7314,6 @@
     "PhyloProfile": [
         "AnnotationHub",
         "BiocFileCache",
-        "BiocStyle",
         "ExperimentHub",
         "GO.db",
         "OmaDB",
@@ -7358,7 +7333,6 @@
     ],
     "PICS": [],
     "Pigengene": [
-        "BiocStyle",
         "C50",
         "DOSE",
         "GO.db",
@@ -7488,7 +7462,6 @@
         "rtracklayer"
     ],
     "prebs": [
-        "BiocStyle",
         "RPA"
     ],
     "preciseTAD": [
@@ -8004,9 +7977,7 @@
         "tidytree",
         "treeio"
     ],
-    "rebook": [
-        "BiocStyle"
-    ],
+    "rebook": [],
     "receptLoss": [],
     "reconsi": [],
     "recount": [
@@ -8083,7 +8054,6 @@
     "regionReport": [
         "BSgenome",
         "BiocFileCache",
-        "BiocStyle",
         "DEFormats",
         "DESeq2",
         "GenomicFeatures",
@@ -8365,7 +8335,6 @@
     ],
     "Rmmquant": [
         "BiocFileCache",
-        "BiocStyle",
         "DESeq2",
         "GenomicFeatures",
         "TBX20BamSubset",
@@ -8567,9 +8536,7 @@
         "MultiDataSet",
         "plotly"
     ],
-    "RPA": [
-        "BiocStyle"
-    ],
+    "RPA": [],
     "rprimer": [],
     "rpx": [
         "BiocFileCache"
@@ -8577,7 +8544,6 @@
     "Rqc": [
         "BSgenome",
         "BiocFileCache",
-        "BiocStyle",
         "GenomicFeatures",
         "GenomicFiles",
         "Hmisc",
@@ -8714,7 +8680,6 @@
         "biomaRt"
     ],
     "sangeranalyseR": [
-        "BiocStyle",
         "plotly"
     ],
     "SBGNview": [
@@ -8859,9 +8824,7 @@
         "densEstBayes",
         "reldist"
     ],
-    "scMET": [
-        "BiocStyle"
-    ],
+    "scMET": [],
     "scmeth": [
         "AnnotationHub",
         "BSgenome",
@@ -8954,7 +8917,6 @@
         "AnnotationForge",
         "AnnotationHub",
         "BiocFileCache",
-        "BiocStyle",
         "Category",
         "DOSE",
         "GO.db",
@@ -8989,7 +8951,6 @@
         "treeio"
     ],
     "scTGIF": [
-        "BiocStyle",
         "GSEABase",
         "Seurat",
         "annotate",
@@ -9657,7 +9618,6 @@
     "srnadiff": [
         "BSgenome",
         "BiocFileCache",
-        "BiocStyle",
         "DESeq2",
         "GenomicFeatures",
         "Gviz",
