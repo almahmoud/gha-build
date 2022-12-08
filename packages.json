@@ -1009,7 +1009,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggpmisc",
         "ggraph",
         "ggtree",
         "gson",
@@ -4563,7 +4562,6 @@
         "car",
         "devtools",
         "genefilter",
-        "ggpmisc",
         "ggpubr",
         "googlesheets4",
         "haven",
@@ -9019,7 +9017,6 @@
         "testthat",
         "waldo"
     ],
-    "ggpmisc": [],
     "broom.mixed": [
         "broom"
     ],
