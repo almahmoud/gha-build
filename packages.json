@@ -9073,7 +9073,6 @@
         "bslib",
         "cachem",
         "clusterProfiler",
-        "confintr",
         "cowplot",
         "crosstalk",
         "doParallel",
@@ -37135,7 +37134,6 @@
         "callr",
         "car",
         "cellranger",
-        "confintr",
         "cowplot",
         "credentials",
         "crosstalk",
@@ -76113,7 +76111,6 @@
     "ggpmisc": [
         "Matrix",
         "MatrixModels",
-        "confintr",
         "dplyr",
         "ggplot2",
         "ggpp",
@@ -76147,7 +76144,6 @@
         "xts",
         "zoo"
     ],
-    "confintr": [],
     "broom.mixed": [
         "Matrix",
         "broom",
