@@ -5248,7 +5248,6 @@
         "htmlTable",
         "knitr",
         "latticeExtra",
-        "leidenbase",
         "monocle",
         "pheatmap",
         "pillar",
@@ -19952,7 +19951,6 @@
         "biocViews",
         "dplyr",
         "ggplot2",
-        "leidenbase",
         "pheatmap",
         "pillar",
         "reshape2",
@@ -34343,7 +34341,6 @@
         "biocViews",
         "dplyr",
         "ggplot2",
-        "leidenbase",
         "monocle",
         "pheatmap",
         "pillar",
@@ -37569,7 +37566,6 @@
         "bslib",
         "shiny"
     ],
-    "leidenbase": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
