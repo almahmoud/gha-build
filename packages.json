@@ -10573,7 +10573,6 @@
         "testthat",
         "waldo"
     ],
-    "SICtools": [],
     "SigCheck": [
         "MLInterfaces",
         "annotate",
