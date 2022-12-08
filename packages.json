@@ -2655,7 +2655,6 @@
         "Cepo",
         "ggraph"
     ],
-    "scDblFinder": [],
     "scDD": [
         "arm",
         "lme4"
@@ -2789,7 +2788,6 @@
         "TENxPBMCData",
         "celda",
         "ggtree",
-        "scDblFinder",
         "scMerge",
         "scRNAseq"
     ],
