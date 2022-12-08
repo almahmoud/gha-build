@@ -3158,9 +3158,7 @@
     "trena": [],
     "TRESS": [],
     "tricycle": [],
-    "tscR": [
-        "kmlShape"
-    ],
+    "tscR": [],
     "ttgsea": [
         "textclean",
         "textstem"
@@ -3529,6 +3527,5 @@
     "bestNormalize": [],
     "naniar": [],
     "vbsr": [],
-    "kmlShape": [],
     "msigdb": []
 }
