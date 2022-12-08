@@ -43,8 +43,7 @@
         "mia"
     ],
     "animalcules": [
-        "DESeq2",
-        "caret"
+        "DESeq2"
     ],
     "AnnotationHubData": [],
     "anota2seq": [
@@ -123,7 +122,6 @@
         "VariantAnnotation"
     ],
     "bandle": [
-        "caret",
         "pRoloc"
     ],
     "BASiCStan": [],
@@ -223,9 +221,7 @@
         "derfinderPlot",
         "ggbio"
     ],
-    "branchpointer": [
-        "caret"
-    ],
+    "branchpointer": [],
     "BRGenomics": [
         "DESeq2"
     ],
@@ -349,7 +345,6 @@
     ],
     "ChIC": [
         "ChIC.data",
-        "caret",
         "spp"
     ],
     "chimeraviz": [
@@ -464,8 +459,7 @@
         "rstatix"
     ],
     "condiments": [
-        "Ecume",
-        "caret"
+        "Ecume"
     ],
     "CONFESS": [],
     "consensusDE": [
@@ -555,7 +549,6 @@
         "FactoMineR",
         "FlowSOM",
         "car",
-        "caret",
         "diffcyt",
         "factoextra",
         "ggpubr",
@@ -567,7 +560,6 @@
     "CytoGLMM": [
         "FactoMineR",
         "car",
-        "caret",
         "factoextra",
         "ggpubr",
         "lme4",
@@ -587,7 +579,6 @@
         "FactoMineR",
         "arm",
         "car",
-        "caret",
         "lme4",
         "pbkrtest"
     ],
@@ -1020,7 +1011,6 @@
         "MLSeq",
         "arm",
         "car",
-        "caret",
         "lme4",
         "pbkrtest"
     ],
@@ -1202,9 +1192,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "GWAS.BAYES": [
-        "caret"
-    ],
+    "GWAS.BAYES": [],
     "gwascat": [
         "VariantAnnotation"
     ],
@@ -1242,9 +1230,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "hipathia": [],
-    "HPiP": [
-        "caret"
-    ],
+    "HPiP": [],
     "HTSeqGenie": [
         "VariantAnnotation",
         "VariantTools",
@@ -1386,9 +1372,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "KnowSeq": [
-        "caret"
-    ],
+    "KnowSeq": [],
     "levi": [],
     "lineagespot": [
         "VariantAnnotation"
@@ -1428,8 +1412,7 @@
         "ggtree"
     ],
     "m6Aboost": [
-        "adabag",
-        "caret"
+        "adabag"
     ],
     "Maaslin2": [
         "car",
@@ -1463,19 +1446,14 @@
         "enrichplot",
         "ggtree"
     ],
-    "MAI": [
-        "caret"
-    ],
+    "MAI": [],
     "MAIT": [
         "CAMERA",
         "agricolae",
-        "caret",
         "klaR",
         "questionr"
     ],
-    "maPredictDSC": [
-        "caret"
-    ],
+    "maPredictDSC": [],
     "maser": [
         "Gviz",
         "VariantAnnotation",
@@ -1537,9 +1515,7 @@
         "ggtree"
     ],
     "meshr": [],
-    "metabCombiner": [
-        "caret"
-    ],
+    "metabCombiner": [],
     "MetaboAnnotation": [
         "QFeatures"
     ],
@@ -1664,7 +1640,6 @@
         "ANCOMBC",
         "DESeq2",
         "TreeSummarizedExperiment",
-        "caret",
         "ggtree",
         "lme4",
         "lmerTest",
@@ -1707,7 +1682,6 @@
         "ReactomePA",
         "SPONGE",
         "car",
-        "caret",
         "clusterProfiler",
         "cvms",
         "enrichplot",
@@ -1723,7 +1697,6 @@
         "ReactomePA",
         "SPONGE",
         "car",
-        "caret",
         "clusterProfiler",
         "cvms",
         "enrichplot",
@@ -1743,17 +1716,14 @@
         "methylumi",
         "minfi"
     ],
-    "mistyR": [
-        "caret"
-    ],
+    "mistyR": [],
     "mitch": [],
     "mitoClone2": [
         "VariantAnnotation",
         "deepSNV"
     ],
     "MLSeq": [
-        "DESeq2",
-        "caret"
+        "DESeq2"
     ],
     "MMUPHin": [
         "Maaslin2",
@@ -1838,7 +1808,6 @@
     ],
     "MSstatsSampleSize": [
         "MSstats",
-        "caret",
         "lme4"
     ],
     "MSstatsShiny": [
@@ -1867,7 +1836,6 @@
         "ReactomePA",
         "anyLib",
         "biosigner",
-        "caret",
         "clusterProfiler",
         "devtools",
         "enrichplot",
@@ -2085,7 +2053,6 @@
     ],
     "PDATK": [
         "car",
-        "caret",
         "ggpubr",
         "lme4",
         "pbkrtest",
@@ -2123,9 +2090,7 @@
         "rstatix"
     ],
     "PhyloProfile": [],
-    "Pi": [
-        "caret"
-    ],
+    "Pi": [],
     "Pigengene": [
         "DOSE",
         "ReactomePA",
@@ -2153,8 +2118,7 @@
         "lme4"
     ],
     "POMA": [
-        "DESeq2",
-        "caret"
+        "DESeq2"
     ],
     "ppcseq": [
         "tidybayes"
@@ -2162,7 +2126,6 @@
     "prebs": [],
     "preciseTAD": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "caret",
         "rCGH"
     ],
     "primirTSS": [
@@ -2189,11 +2152,8 @@
         "rGREAT"
     ],
     "projectR": [],
-    "pRoloc": [
-        "caret"
-    ],
+    "pRoloc": [],
     "pRolocGUI": [
-        "caret",
         "pRoloc"
     ],
     "PROPS": [],
@@ -2323,7 +2283,6 @@
         "biovizBase"
     ],
     "REMP": [
-        "caret",
         "minfi"
     ],
     "ReportingTools": [
@@ -2387,7 +2346,6 @@
         "EnsDb.Hsapiens.v86"
     ],
     "RLSeq": [
-        "caret",
         "caretEnsemble"
     ],
     "Rmmquant": [
@@ -2507,9 +2465,7 @@
     "SBGNview": [],
     "scAlign": [],
     "scanMiRApp": [],
-    "scAnnotatR": [
-        "caret"
-    ],
+    "scAnnotatR": [],
     "SCATE": [],
     "scBFA": [
         "DESeq2"
@@ -2526,8 +2482,7 @@
         "Oscope"
     ],
     "scGPS": [
-        "DESeq2",
-        "caret"
+        "DESeq2"
     ],
     "schex": [],
     "scMAGeCK": [],
@@ -2717,7 +2672,6 @@
     ],
     "SPONGE": [
         "car",
-        "caret",
         "cvms",
         "ggpubr",
         "lme4",
@@ -2755,13 +2709,9 @@
     "StructuralVariantAnnotation": [
         "VariantAnnotation"
     ],
-    "SubCellBarCode": [
-        "caret"
-    ],
+    "SubCellBarCode": [],
     "Summix": [],
-    "supersigs": [
-        "caret"
-    ],
+    "supersigs": [],
     "survtype": [
         "car",
         "ggpubr",
@@ -2825,7 +2775,6 @@
         "VariantAnnotation",
         "biovizBase",
         "car",
-        "caret",
         "clusterProfiler",
         "enrichplot",
         "ggpubr",
@@ -2885,9 +2834,7 @@
         "biovizBase"
     ],
     "tradeSeq": [],
-    "transcriptR": [
-        "caret"
-    ],
+    "transcriptR": [],
     "tRanslatome": [
         "DESeq2"
     ],
@@ -3039,7 +2986,6 @@
     "lmerTest": [
         "lme4"
     ],
-    "caret": [],
     "TxDb.Hsapiens.UCSC.hg19.knownGene": [],
     "Homo.sapiens": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
@@ -3107,9 +3053,7 @@
     ],
     "geneLenDataBase": [],
     "spp": [],
-    "ChIC.data": [
-        "caret"
-    ],
+    "ChIC.data": [],
     "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [],
     "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [],
     "propr": [],
@@ -3121,9 +3065,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "Ecume": [
-        "caret"
-    ],
+    "Ecume": [],
     "EnsDb.Hsapiens.v86": [],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "minfi"
@@ -3170,9 +3112,7 @@
     "shinyHeatmaply": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
     "datamods": [],
-    "adabag": [
-        "caret"
-    ],
+    "adabag": [],
     "glmmTMB": [
         "lme4"
     ],
@@ -3225,9 +3165,7 @@
     "EnsDb.Rnorvegicus.v79": [],
     "pwrEWAS.data": [],
     "phastCons100way.UCSC.hg19": [],
-    "caretEnsemble": [
-        "caret"
-    ],
+    "caretEnsemble": [],
     "Rmagic": [],
     "clustree": [],
     "survivalAnalysis": [
