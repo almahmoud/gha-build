@@ -9527,7 +9527,6 @@
         "ggrastr",
         "scuttle"
     ],
-    "scatterHatch": [],
     "scBFA": [
         "DESeq2",
         "Seurat",
