@@ -14078,7 +14078,6 @@
         "GenomicRanges",
         "KEGGREST",
         "R.cache",
-        "RNOmni",
         "RSQLite",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -50208,7 +50207,6 @@
         "vctrs",
         "viridis"
     ],
-    "RNOmni": [],
     "ewceData": [
         "AnnotationDbi",
         "AnnotationHub",
