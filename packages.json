@@ -4133,9 +4133,7 @@
         "tidybayes"
     ],
     "PPInfer": [],
-    "prebs": [
-        "RPA"
-    ],
+    "prebs": [],
     "preciseTAD": [
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
@@ -4717,7 +4715,6 @@
     "ropls": [
         "MultiAssayExperiment"
     ],
-    "RPA": [],
     "Rqc": [
         "GenomicFeatures",
         "GenomicFiles",
