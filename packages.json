@@ -582,7 +582,6 @@
         "ggnetwork",
         "sva"
     ],
-    "BioNet": [],
     "BioNetStat": [
         "pathview"
     ],
@@ -6833,7 +6832,6 @@
     "slingshot": [],
     "SMAD": [],
     "SMITE": [
-        "BioNet",
         "GenomicFeatures",
         "biomaRt",
         "geneLenDataBase",
