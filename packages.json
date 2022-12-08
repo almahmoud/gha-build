@@ -1904,7 +1904,6 @@
         "lme4",
         "pbkrtest"
     ],
-    "openPrimeRui": [],
     "OpenStats": [
         "AICcmodavg",
         "car",
