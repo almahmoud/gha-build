@@ -17417,7 +17417,6 @@
         "vctrs"
     ],
     "HPiP": [
-        "MCL",
         "caret",
         "clock",
         "dplyr",
@@ -18609,7 +18608,6 @@
         "GenomicRanges",
         "HDO.db",
         "KEGGREST",
-        "MCL",
         "ROCR",
         "RSQLite",
         "RcppML",
@@ -22812,7 +22810,6 @@
     ],
     "mina": [
         "Hmisc",
-        "MCL",
         "RSpectra",
         "ggplot2",
         "htmlTable",
@@ -23106,7 +23103,6 @@
         "HDO.db",
         "Hmisc",
         "KEGGREST",
-        "MCL",
         "MatrixCorrelation",
         "MetBrewer",
         "NMF",
@@ -23235,7 +23231,6 @@
         "GOSemSim",
         "HDO.db",
         "KEGGREST",
-        "MCL",
         "MetBrewer",
         "RBGL",
         "RSQLite",
@@ -32239,7 +32234,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "KEGGREST",
-        "MCL",
         "RSQLite",
         "Rsamtools",
         "STRINGdb",
@@ -46200,7 +46194,6 @@
     ],
     "R2jags": [],
     "servr": [],
-    "MCL": [],
     "available": [
         "dplyr",
         "pillar",
