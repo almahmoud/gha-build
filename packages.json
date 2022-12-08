@@ -4377,7 +4377,6 @@
         "ggplot2",
         "rtracklayer"
     ],
-    "cqn": [],
     "CRImage": [],
     "crisprBase": [],
     "crisprBowtie": [
@@ -10499,7 +10498,6 @@
         "KEGGREST",
         "annotate",
         "caret",
-        "cqn",
         "dplyr",
         "genefilter",
         "ggplot2",
@@ -22239,9 +22237,7 @@
         "knitr",
         "rgl"
     ],
-    "tweeDEseq": [
-        "cqn"
-    ],
+    "tweeDEseq": [],
     "twoddpcr": [
         "ggplot2"
     ],
