@@ -474,7 +474,6 @@
     ],
     "BiocPkgTools": [],
     "BiocSet": [],
-    "BiocWorkflowTools": [],
     "biodb": [
         "testthat"
     ],
