@@ -2335,7 +2335,6 @@
         "RUVSeq",
         "ShortRead",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
-        "airway",
         "annotate",
         "biomaRt",
         "dendextend",
@@ -8181,7 +8180,6 @@
     ],
     "NetActivity": [
         "DESeq2",
-        "airway",
         "annotate",
         "geneplotter"
     ],
@@ -13877,7 +13875,6 @@
         "Hmisc",
         "rms"
     ],
-    "airway": [],
     "EnsDb.Hsapiens.v86": [
         "BiocFileCache",
         "GenomicAlignments",
