@@ -4102,7 +4102,6 @@
         "ggpubr",
         "lme4",
         "nloptr",
-        "openair",
         "pbkrtest",
         "rstatix",
         "survminer",
@@ -5149,7 +5148,6 @@
         "survminer",
         "testthat"
     ],
-    "openair": [],
     "celldex": [],
     "GSVAdata": [],
     "SoupX": [
