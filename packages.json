@@ -14920,7 +14920,6 @@
         "withr",
         "xml2",
         "yaml",
-        "zeallot",
         "zlibbioc"
     ],
     "BUSseq": [
@@ -28794,7 +28793,6 @@
         "whisker",
         "withr",
         "yaml",
-        "zeallot",
         "zlibbioc"
     ],
     "crisprseekplus": [
@@ -28964,7 +28962,6 @@
         "xml2",
         "xtable",
         "yaml",
-        "zeallot",
         "zip",
         "zlibbioc"
     ],
@@ -33751,7 +33748,6 @@
         "withr",
         "xml2",
         "yaml",
-        "zeallot",
         "zoo"
     ],
     "deepSNV": [
@@ -53019,7 +53015,6 @@
         "word2vec",
         "xml2",
         "yaml",
-        "zeallot",
         "zoo"
     ],
     "GenVisR": [
@@ -57845,7 +57840,6 @@
         "withr",
         "xml2",
         "yaml",
-        "zeallot",
         "zip",
         "zlibbioc"
     ],
@@ -86055,7 +86049,6 @@
         "xfun",
         "xml2",
         "yaml",
-        "zeallot",
         "zlibbioc"
     ],
     "MultiDataSet": [
@@ -90326,7 +90319,6 @@
         "whisker",
         "withr",
         "yaml",
-        "zeallot",
         "zlibbioc"
     ],
     "NewWave": [
@@ -95856,7 +95848,6 @@
         "whisker",
         "withr",
         "yaml",
-        "zeallot",
         "zlibbioc"
     ],
     "parglms": [
@@ -116763,7 +116754,6 @@
         "xfun",
         "xtable",
         "yaml",
-        "zeallot",
         "zip",
         "zlibbioc"
     ],
@@ -128491,7 +128481,6 @@
         "withr",
         "xtable",
         "yaml",
-        "zeallot",
         "zlibbioc"
     ],
     "spatialDE": [
@@ -141212,7 +141201,6 @@
         "withr",
         "xml2",
         "yaml",
-        "zeallot",
         "zoo"
     ],
     "TTMap": [
@@ -142496,7 +142484,6 @@
         "withr",
         "xml2",
         "yaml",
-        "zeallot",
         "zlibbioc",
         "zoo"
     ],
@@ -155624,7 +155611,6 @@
         "processx",
         "ps"
     ],
-    "zeallot": [],
     "PoiClaClu": [],
     "pryr": [
         "Rcpp",
@@ -159420,8 +159406,7 @@
         "vctrs",
         "whisker",
         "withr",
-        "yaml",
-        "zeallot"
+        "yaml"
     ],
     "mltools": [
         "Matrix",
@@ -167586,8 +167571,7 @@
         "vctrs",
         "whisker",
         "withr",
-        "yaml",
-        "zeallot"
+        "yaml"
     ],
     "matrixLaplacian": [
         "scatterplot3d"
