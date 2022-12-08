@@ -7417,7 +7417,6 @@
         "tidyr",
         "waldo"
     ],
-    "OmicsLonDA": [],
     "OMICsPCA": [
         "BSgenome",
         "BiocFileCache",
