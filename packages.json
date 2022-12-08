@@ -1197,8 +1197,7 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "ensembldb",
-        "monocle"
+        "ensembldb"
     ],
     "CIMICE": [
         "ggraph",
@@ -4803,7 +4802,6 @@
         "TFBSTools",
         "readr"
     ],
-    "monocle": [],
     "MoonlightR": [
         "DOSE",
         "GEOquery",
@@ -8169,9 +8167,7 @@
         "VariantAnnotation",
         "biomaRt"
     ],
-    "uSORT": [
-        "monocle"
-    ],
+    "uSORT": [],
     "VAExprs": [
         "DeepPINCS",
         "DiagrammeR",
