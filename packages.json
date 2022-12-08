@@ -5068,7 +5068,6 @@
         "kableExtra",
         "msigdbr"
     ],
-    "iasva": [],
     "iBBiG": [
         "biclust",
         "tidyr"
