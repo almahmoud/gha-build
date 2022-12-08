@@ -1222,7 +1222,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BUScorrect": [],
     "BUSpaRse": [
         "BSgenome",
         "BiocFileCache",
