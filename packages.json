@@ -61,13 +61,9 @@
         "projectR",
         "rGREAT"
     ],
-    "ATACseqQC": [
-        "motifStack"
-    ],
+    "ATACseqQC": [],
     "ATACseqTFEA": [],
-    "atSNP": [
-        "motifStack"
-    ],
+    "atSNP": [],
     "attract": [],
     "BaalChIP": [
         "doBy",
@@ -355,9 +351,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "dagLogo": [
-        "motifStack"
-    ],
+    "dagLogo": [],
     "DAMEfinder": [],
     "DaMiRseq": [
         "FactoMineR",
@@ -858,8 +852,7 @@
     ],
     "LowMACA": [
         "RTCGAToolbox",
-        "cBioPortalData",
-        "motifStack"
+        "cBioPortalData"
     ],
     "lumi": [
         "FDb.InfiniumMethylation.hg19",
@@ -1083,10 +1076,8 @@
     ],
     "motifbreakR": [
         "Gviz",
-        "biovizBase",
-        "motifStack"
+        "biovizBase"
     ],
-    "motifStack": [],
     "MQmetrics": [
         "car",
         "ggpubr",
@@ -1173,7 +1164,6 @@
         "ATACseqQC",
         "Gviz",
         "biovizBase",
-        "motifStack",
         "trackViewer"
     ],
     "NBAMSeq": [],
@@ -1430,9 +1420,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "ribosomeProfilingQC": [
-        "motifStack"
-    ],
+    "ribosomeProfilingQC": [],
     "rifi": [
         "car",
         "pbkrtest"
