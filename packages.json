@@ -269,9 +269,7 @@
         "DEXSeq",
         "pasilla"
     ],
-    "BLMA": [
-        "PADOG"
-    ],
+    "BLMA": [],
     "BloodGen3Module": [],
     "bnbc": [],
     "bnem": [],
@@ -941,8 +939,7 @@
     ],
     "EGAD": [],
     "EGSEA": [
-        "GSVA",
-        "PADOG"
+        "GSVA"
     ],
     "ELMER": [
         "Gviz",
@@ -2400,7 +2397,6 @@
         "lme4",
         "pbkrtest"
     ],
-    "PADOG": [],
     "pageRank": [
         "TFBSTools",
         "motifmatchr"
