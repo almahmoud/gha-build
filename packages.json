@@ -1634,7 +1634,6 @@
         "MultiAssayExperiment",
         "MultiDataSet",
         "PepsNMR",
-        "RcppDE",
         "SummarizedExperiment",
         "XVector",
         "dplyr",
@@ -32388,7 +32387,6 @@
         "survival"
     ],
     "PepsNMR": [
-        "RcppDE",
         "ggplot2",
         "mgcv",
         "pillar",
@@ -50163,10 +50161,7 @@
         "tibble",
         "vctrs"
     ],
-    "ptw": [
-        "RcppDE"
-    ],
-    "RcppDE": [],
+    "ptw": [],
     "DRaWR": [
         "ROCR"
     ],
