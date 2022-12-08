@@ -3489,7 +3489,6 @@
         "assertive.datetimes",
         "assertive.files",
         "assertive.models",
-        "assertive.reflection",
         "assertive.sets",
         "assertive.strings",
         "assertive.types",
@@ -45743,7 +45742,6 @@
         "assertive.datetimes",
         "assertive.files",
         "assertive.models",
-        "assertive.reflection",
         "assertive.sets",
         "assertive.strings",
         "assertive.types",
@@ -80853,7 +80851,6 @@
         "assertive.datetimes",
         "assertive.files",
         "assertive.models",
-        "assertive.reflection",
         "assertive.sets",
         "assertive.strings",
         "assertive.types",
@@ -80885,7 +80882,6 @@
         "assertive.strings",
         "assertive.types"
     ],
-    "assertive.reflection": [],
     "assertive.code": [
         "assertive.types"
     ],
