@@ -8557,7 +8557,6 @@
     "COHCAP": [],
     "cola": [
         "ComplexHeatmap",
-        "eulerr",
         "httr",
         "knitr",
         "skmeans",
@@ -41927,7 +41926,6 @@
         "UpSetR",
         "XVector",
         "cowplot",
-        "eulerr",
         "ggplot2",
         "ggplotify",
         "mgcv",
@@ -53385,7 +53383,6 @@
         "vctrs"
     ],
     "skmeans": [],
-    "eulerr": [],
     "cobs": [
         "quantreg",
         "survival"
