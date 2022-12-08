@@ -2185,7 +2185,6 @@
         "pbkrtest",
         "testthat"
     ],
-    "groHMM": [],
     "gscreend": [
         "nloptr",
         "testthat"
