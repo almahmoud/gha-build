@@ -20618,7 +20618,6 @@
         "vctrs",
         "viridis"
     ],
-    "metaSeq": [],
     "metaseqR2": [
         "AnnotationDbi",
         "BSgenome",
