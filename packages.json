@@ -9343,7 +9343,6 @@
         "qvalue",
         "rtracklayer"
     ],
-    "regsplice": [],
     "regutools": [
         "AnnotationHub",
         "BSgenome",
