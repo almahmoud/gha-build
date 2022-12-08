@@ -5256,7 +5256,6 @@
     "NeuCA": [
         "keras"
     ],
-    "NewWave": [],
     "ngsReports": [
         "plotly",
         "readr"
