@@ -2499,7 +2499,6 @@
         "tidyr",
         "waldo"
     ],
-    "cytoKernel": [],
     "cytomapper": [
         "BiocFileCache",
         "DropletUtils",
