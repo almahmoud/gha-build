@@ -4,7 +4,6 @@
         "GO.db",
         "KEGGREST",
         "a4Base",
-        "a4Classif",
         "annaffy",
         "annotate",
         "genefilter"
@@ -17,7 +16,6 @@
         "annotate",
         "genefilter"
     ],
-    "a4Classif": [],
     "abseqR": [
         "BiocStyle",
         "bookdown",
