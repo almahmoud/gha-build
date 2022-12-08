@@ -18753,7 +18753,6 @@
         "GenomicRanges",
         "XVector"
     ],
-    "GeneSelectMMD": [],
     "GENESIS": [
         "BiocParallel",
         "Biostrings",
@@ -22400,7 +22399,6 @@
         "DelayedMatrixStats",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
-        "GeneSelectMMD",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
