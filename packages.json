@@ -6829,7 +6829,6 @@
         "HardyWeinberg",
         "MultiAssayExperiment",
         "broom",
-        "formattable",
         "kableExtra",
         "mice",
         "tidyr"
@@ -12560,7 +12559,6 @@
     ],
     "XNAString": [
         "BSgenome",
-        "formattable",
         "rtracklayer"
     ],
     "YAPSA": [
@@ -13616,7 +13614,6 @@
         "tidyr"
     ],
     "ggstar": [],
-    "formattable": [],
     "HardyWeinberg": [
         "broom",
         "mice",
