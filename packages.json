@@ -1469,7 +1469,6 @@
         "GenomicFeatures",
         "MultiAssayExperiment",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "annotate",
         "biomaRt",
@@ -1498,7 +1497,6 @@
         "GenomicFeatures",
         "MultiAssayExperiment",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "biomaRt",
         "readr",
@@ -2236,8 +2234,7 @@
         "waldo"
     ],
     "CNVRanger": [
-        "GDSArray",
-        "RaggedExperiment"
+        "GDSArray"
     ],
     "CNVrd2": [
         "BSgenome",
@@ -2353,7 +2350,6 @@
     ],
     "compartmap": [
         "GenomicAlignments",
-        "RaggedExperiment",
         "rtracklayer"
     ],
     "COMPASS": [
@@ -6466,7 +6462,6 @@
         "GenomicFeatures",
         "MultiAssayExperiment",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "TFBSTools",
         "annotate",
@@ -8936,7 +8931,6 @@
     ],
     "omicsPrint": [
         "MultiAssayExperiment",
-        "RaggedExperiment",
         "tidyr"
     ],
     "omicsViewer": [
@@ -10171,7 +10165,6 @@
         "piano",
         "tidyr"
     ],
-    "RaggedExperiment": [],
     "ramr": [
         "EnvStats"
     ],
@@ -11088,7 +11081,6 @@
         "GenomicDataCommons",
         "GenomicFeatures",
         "MultiAssayExperiment",
-        "RaggedExperiment",
         "TCGAutils",
         "biomaRt",
         "readr",
@@ -13004,7 +12996,6 @@
         "GenomicDataCommons",
         "GenomicFeatures",
         "MultiAssayExperiment",
-        "RaggedExperiment",
         "biomaRt",
         "readr",
         "rtracklayer",
@@ -13046,7 +13037,6 @@
         "GenomicDataCommons",
         "GenomicFeatures",
         "MultiAssayExperiment",
-        "RaggedExperiment",
         "TCGAutils",
         "biomaRt",
         "readr",
