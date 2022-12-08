@@ -48529,7 +48529,6 @@
         "SummarizedExperiment",
         "XVector",
         "bslib",
-        "clv",
         "dplyr",
         "ggplot2",
         "htmlwidgets",
@@ -57840,7 +57839,6 @@
         "rtracklayer"
     ],
     "kmlShape": [
-        "clv",
         "htmlwidgets",
         "kml",
         "knitr",
@@ -57850,7 +57848,6 @@
         "vctrs"
     ],
     "longitudinalData": [
-        "clv",
         "htmlwidgets",
         "knitr",
         "rgl",
@@ -57858,7 +57855,6 @@
         "vctrs"
     ],
     "kml": [
-        "clv",
         "htmlwidgets",
         "knitr",
         "longitudinalData",
@@ -57866,7 +57862,6 @@
         "stringr",
         "vctrs"
     ],
-    "clv": [],
     "mirbase.db": [
         "AnnotationDbi",
         "Biostrings",
