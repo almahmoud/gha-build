@@ -3957,7 +3957,6 @@
         "tibble",
         "topGO",
         "vctrs",
-        "vioplot",
         "viridis"
     ],
     "BioMVCClass": [
@@ -6168,7 +6167,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "vioplot",
         "viridis",
         "waldo"
     ],
@@ -8873,8 +8871,7 @@
         "statip",
         "stringr",
         "tibble",
-        "vctrs",
-        "vioplot"
+        "vctrs"
     ],
     "compEpiTools": [
         "AnnotationDbi",
@@ -19130,8 +19127,7 @@
         "blob",
         "httr",
         "memoise",
-        "vctrs",
-        "vioplot"
+        "vctrs"
     ],
     "GOpro": [
         "AnnotationDbi",
@@ -28356,7 +28352,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "vioplot",
         "vroom"
     ],
     "monocle": [
@@ -35296,7 +35291,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "vioplot",
         "vsn",
         "webshot",
         "xts"
@@ -52613,7 +52607,6 @@
         "vctrs"
     ],
     "ranger": [],
-    "vioplot": [],
     "imager": [
         "stringr",
         "vctrs"
