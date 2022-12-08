@@ -15083,7 +15083,6 @@
         "tidyr",
         "waldo"
     ],
-    "SynMut": [],
     "syntenet": [
         "GenomicAlignments",
         "ggnetwork",
