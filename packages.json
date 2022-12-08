@@ -2726,7 +2726,6 @@
         "dplyr",
         "enrichplot",
         "fgsea",
-        "geNetClassifier",
         "ggforce",
         "ggfun",
         "ggnewscale",
@@ -4390,7 +4389,6 @@
         "blob",
         "dbplyr",
         "dplyr",
-        "geNetClassifier",
         "genefilter",
         "ggplot2",
         "hgu133a.db",
@@ -14594,7 +14592,6 @@
         "vctrs",
         "viridis"
     ],
-    "geNetClassifier": [],
     "GeneticsPed": [],
     "GeneTonic": [
         "AnnotationDbi",
