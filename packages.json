@@ -31581,7 +31581,6 @@
         "Hmisc",
         "KEGGREST",
         "RSQLite",
-        "RnaSeqSampleSizeData",
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -45851,7 +45850,6 @@
         "Biostrings",
         "XVector"
     ],
-    "RnaSeqSampleSizeData": [],
     "fission": [
         "GenomicRanges",
         "SummarizedExperiment",
