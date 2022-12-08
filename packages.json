@@ -3319,7 +3319,6 @@
         "SummarizedExperiment",
         "bslib",
         "devtools",
-        "downlit",
         "gert",
         "gh",
         "knitr",
@@ -5732,7 +5731,6 @@
     "cogena": [
         "bslib",
         "devtools",
-        "downlit",
         "dplyr",
         "gert",
         "ggplot2",
@@ -11663,7 +11661,6 @@
         "RSQLite",
         "bslib",
         "devtools",
-        "downlit",
         "dplR",
         "gert",
         "gh",
@@ -14654,7 +14651,6 @@
     "INDEED": [
         "bslib",
         "devtools",
-        "downlit",
         "gert",
         "gh",
         "knitr",
@@ -17741,7 +17737,6 @@
         "cowplot",
         "dbplyr",
         "devtools",
-        "downlit",
         "dplyr",
         "dtplyr",
         "forcats",
@@ -18031,7 +18026,6 @@
         "ChemmineR",
         "bslib",
         "devtools",
-        "downlit",
         "gert",
         "ggplot2",
         "gh",
@@ -20239,7 +20233,6 @@
         "clusterProfiler",
         "cowplot",
         "devtools",
-        "downlit",
         "dplyr",
         "enrichplot",
         "fgsea",
@@ -22047,7 +22040,6 @@
     "oppti": [
         "bslib",
         "devtools",
-        "downlit",
         "gert",
         "ggplot2",
         "gh",
@@ -22515,7 +22507,6 @@
         "bookdown",
         "bslib",
         "devtools",
-        "downlit",
         "dplyr",
         "geneplotter",
         "gert",
@@ -26352,7 +26343,6 @@
         "bslib",
         "dbplyr",
         "devtools",
-        "downlit",
         "dplyr",
         "geneplotter",
         "gert",
@@ -30748,7 +30738,6 @@
         "bslib",
         "dbplyr",
         "devtools",
-        "downlit",
         "dplyr",
         "ensembldb",
         "geneplotter",
@@ -35933,7 +35922,6 @@
     ],
     "devtools": [
         "bslib",
-        "downlit",
         "gert",
         "gh",
         "knitr",
@@ -35956,7 +35944,6 @@
     ],
     "pkgdown": [
         "bslib",
-        "downlit",
         "knitr",
         "pillar",
         "ragg",
@@ -35974,7 +35961,6 @@
         "knitr",
         "stringr"
     ],
-    "downlit": [],
     "pryr": [
         "stringr"
     ],
@@ -38057,7 +38043,6 @@
     "anyLib": [
         "bslib",
         "devtools",
-        "downlit",
         "gert",
         "gh",
         "knitr",
