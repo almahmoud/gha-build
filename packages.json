@@ -243,9 +243,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "BioNAR": [
-        "synaptome.db"
-    ],
+    "BioNAR": [],
     "BioNERO": [],
     "BioNetStat": [],
     "biosigner": [],
@@ -3612,7 +3610,6 @@
         "pbkrtest"
     ],
     "ggraph": [],
-    "synaptome.db": [],
     "pasilla": [
         "DESeq2",
         "DEXSeq"
