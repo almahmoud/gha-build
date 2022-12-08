@@ -1373,7 +1373,6 @@
     "CAMERA": [
         "Hmisc",
         "MSnbase",
-        "MsFeatures",
         "viridis",
         "vsn",
         "xcms"
@@ -2099,7 +2098,6 @@
     ],
     "cliqueMS": [
         "MSnbase",
-        "MsFeatures",
         "vsn",
         "xcms"
     ],
@@ -2575,7 +2573,6 @@
     ],
     "cosmiq": [
         "MSnbase",
-        "MsFeatures",
         "faahKO",
         "vsn",
         "xcms"
@@ -4502,7 +4499,6 @@
         "CAMERA",
         "Hmisc",
         "MSnbase",
-        "MsFeatures",
         "viridis",
         "vsn",
         "xcms"
@@ -6112,7 +6108,6 @@
         "CAMERA",
         "Hmisc",
         "MSnbase",
-        "MsFeatures",
         "viridis",
         "vsn",
         "xcms"
@@ -6452,7 +6447,6 @@
         "CAMERA",
         "Hmisc",
         "MSnbase",
-        "MsFeatures",
         "viridis",
         "vsn",
         "xcms"
@@ -6675,7 +6669,6 @@
         "CAMERA",
         "Hmisc",
         "MSnbase",
-        "MsFeatures",
         "agricolae",
         "caret",
         "fields",
@@ -6956,7 +6949,6 @@
     "messina": [],
     "Metab": [
         "MSnbase",
-        "MsFeatures",
         "vsn",
         "xcms"
     ],
@@ -7035,7 +7027,6 @@
         "CAMERA",
         "Hmisc",
         "MSnbase",
-        "MsFeatures",
         "viridis",
         "vsn",
         "xcms"
@@ -7892,7 +7883,6 @@
     ],
     "MobilityTransformR": [
         "MSnbase",
-        "MsFeatures",
         "vsn",
         "xcms"
     ],
@@ -8063,7 +8053,6 @@
         "plotly",
         "tidyr"
     ],
-    "MsFeatures": [],
     "msgbsR": [
         "BSgenome",
         "BiocFileCache",
@@ -8548,7 +8537,6 @@
     ],
     "ncGTW": [
         "MSnbase",
-        "MsFeatures",
         "vsn",
         "xcms"
     ],
@@ -9762,7 +9750,6 @@
     "proDA": [],
     "proFIA": [
         "MSnbase",
-        "MsFeatures",
         "MultiAssayExperiment",
         "MultiDataSet",
         "plotly",
@@ -10715,7 +10702,6 @@
     ],
     "Risa": [
         "MSnbase",
-        "MsFeatures",
         "vsn",
         "xcms"
     ],
@@ -13850,7 +13836,6 @@
     ],
     "xcms": [
         "MSnbase",
-        "MsFeatures",
         "vsn"
     ],
     "xcore": [
@@ -14656,7 +14641,6 @@
     ],
     "faahKO": [
         "MSnbase",
-        "MsFeatures",
         "vsn",
         "xcms"
     ],
