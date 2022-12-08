@@ -1865,7 +1865,6 @@
         "tidytree",
         "treeio"
     ],
-    "clusterSeq": [],
     "clustifyr": [
         "fgsea",
         "readr",
