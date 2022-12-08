@@ -19288,7 +19288,6 @@
         "sva",
         "tibble",
         "tinytex",
-        "truncdist",
         "vctrs",
         "viridis"
     ],
@@ -55600,7 +55599,6 @@
         "mgcv",
         "nlme",
         "purrr",
-        "truncdist",
         "vegan"
     ],
     "POWSC": [
@@ -67125,7 +67123,6 @@
         "tidygraph",
         "tidyr",
         "tidyselect",
-        "truncdist",
         "tweenr",
         "vctrs",
         "vegan",
@@ -88270,7 +88267,6 @@
         "xts",
         "zoo"
     ],
-    "truncdist": [],
     "imputeLCMD": [
         "Biobase",
         "Matrix",
