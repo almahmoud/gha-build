@@ -32,8 +32,7 @@
         "DSS"
     ],
     "brainflowprobes": [
-        "GenomicState",
-        "derfinderPlot"
+        "GenomicState"
     ],
     "CAGEfightR": [],
     "CancerInSilico": [],
@@ -108,7 +107,6 @@
     "DeMixT": [
         "DSS"
     ],
-    "derfinderPlot": [],
     "destiny": [
         "VIM"
     ],
