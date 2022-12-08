@@ -1879,7 +1879,6 @@
         "ggraph",
         "ggtree",
         "gprofiler2",
-        "rWikiPathways",
         "tidygraph",
         "treeio"
     ],
@@ -3585,7 +3584,6 @@
         "ggraph",
         "ggtree",
         "mixOmics",
-        "rWikiPathways",
         "ropls",
         "testthat",
         "tidygraph",
@@ -3763,8 +3761,7 @@
         "testthat"
     ],
     "NoRCE": [
-        "GenomicFeatures",
-        "rWikiPathways"
+        "GenomicFeatures"
     ],
     "NormalyzerDE": [
         "RcmdrMisc",
@@ -4826,7 +4823,6 @@
     "RVS": [
         "gRain"
     ],
-    "rWikiPathways": [],
     "sampleClassifier": [
         "MGFR"
     ],
@@ -5595,7 +5591,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "rWikiPathways",
         "tidygraph",
         "treeio"
     ],
