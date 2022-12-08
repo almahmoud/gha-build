@@ -10650,7 +10650,6 @@
         "M3Drop",
         "MAST",
         "Seurat",
-        "SingleR",
         "SoupX",
         "TENxPBMCData",
         "TSCAN",
@@ -10708,7 +10707,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "SingleR": [],
     "singscore": [
         "GSEABase",
         "annotate",
