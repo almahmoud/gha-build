@@ -160,7 +160,6 @@
     ],
     "ATACCoGAPS": [
         "BSgenome.Hsapiens.UCSC.hg19",
-        "BSgenome.Mmusculus.UCSC.mm10",
         "CNEr",
         "GenomicFeatures",
         "Homo.sapiens",
@@ -1790,7 +1789,6 @@
         "logistf"
     ],
     "GeneStructureTools": [
-        "BSgenome.Mmusculus.UCSC.mm10",
         "GenomicFeatures",
         "Gviz",
         "VariantAnnotation",
@@ -3052,7 +3050,6 @@
     "musicatk": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
-        "BSgenome.Mmusculus.UCSC.mm10",
         "BSgenome.Mmusculus.UCSC.mm9",
         "FactoMineR",
         "GenomicFeatures",
@@ -4791,7 +4788,6 @@
     "trena": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
-        "BSgenome.Mmusculus.UCSC.mm10",
         "SNPlocs.Hsapiens.dbSNP150.GRCh38"
     ],
     "TRESS": [
@@ -5074,7 +5070,6 @@
         "OrganismDbi",
         "TxDb.Mmusculus.UCSC.mm10.knownGene"
     ],
-    "BSgenome.Mmusculus.UCSC.mm10": [],
     "TxDb.Mmusculus.UCSC.mm10.knownGene": [
         "GenomicFeatures"
     ],
