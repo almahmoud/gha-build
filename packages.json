@@ -13172,7 +13172,6 @@
         "vctrs",
         "viridis"
     ],
-    "farms": [],
     "fastLiquidAssociation": [
         "AnnotationDbi",
         "Biostrings",
