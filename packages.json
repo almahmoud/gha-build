@@ -49,7 +49,6 @@
         "GenomicFeatures",
         "Glimma",
         "OrganismDbi",
-        "PFAM.db",
         "ReportingTools",
         "VariantAnnotation",
         "biomaRt",
@@ -72,7 +71,6 @@
         "GenomicFeatures",
         "Glimma",
         "OrganismDbi",
-        "PFAM.db",
         "ReportingTools",
         "VariantAnnotation",
         "affycoretools",
@@ -6360,7 +6358,6 @@
         "GSEABase",
         "GenomicFeatures",
         "OrganismDbi",
-        "PFAM.db",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -8427,7 +8424,6 @@
         "AnnotationHub",
         "ExperimentHub"
     ],
-    "PFAM.db": [],
     "GGally": [],
     "curatedTCGAData": [
         "AnnotationHub",
