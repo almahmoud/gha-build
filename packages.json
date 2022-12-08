@@ -22107,7 +22107,6 @@
         "flowCore",
         "flowMeans",
         "flowMerge",
-        "flowPeaks",
         "foreach",
         "ggplot2",
         "graph",
@@ -27174,7 +27173,6 @@
         "fields",
         "flowCore",
         "flowDensity",
-        "flowPeaks",
         "flowViz",
         "flowWorkspace",
         "ggplot2",
@@ -39866,7 +39864,6 @@
         "rrcov",
         "snow"
     ],
-    "flowPeaks": [],
     "flowPloidy": [
         "BH",
         "Biobase",
