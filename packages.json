@@ -1728,7 +1728,6 @@
     ],
     "condiments": [
         "Ecume",
-        "TrajectoryUtils",
         "caret",
         "distinct",
         "ggrastr",
@@ -3173,8 +3172,7 @@
     ],
     "FEAST": [
         "SC3",
-        "TSCAN",
-        "TrajectoryUtils"
+        "TSCAN"
     ],
     "fedup": [],
     "ffpe": [
@@ -8490,7 +8488,6 @@
         "SoupX",
         "TENxPBMCData",
         "TSCAN",
-        "TrajectoryUtils",
         "annotate",
         "aplot",
         "batchelor",
@@ -8577,9 +8574,7 @@
         "GSEABase",
         "annotate"
     ],
-    "slingshot": [
-        "TrajectoryUtils"
-    ],
+    "slingshot": [],
     "SMAD": [],
     "SMITE": [
         "BioNet",
@@ -9344,11 +9339,9 @@
         "ensembldb"
     ],
     "tradeSeq": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "TrajectoryGeometry": [],
-    "TrajectoryUtils": [],
     "transcriptogramer": [
         "BiocFileCache",
         "GO.db",
@@ -9386,7 +9379,6 @@
     ],
     "Travel": [],
     "traviz": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "treeio": [
@@ -9454,9 +9446,7 @@
         "BSgenome",
         "tRNA"
     ],
-    "TSCAN": [
-        "TrajectoryUtils"
-    ],
+    "TSCAN": [],
     "tscR": [
         "kml",
         "kmlShape",
