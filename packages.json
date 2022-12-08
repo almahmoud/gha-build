@@ -24394,7 +24394,6 @@
         "jquerylib",
         "knitr",
         "learnr",
-        "logr",
         "memoise",
         "openssl",
         "pillar",
@@ -58754,7 +58753,6 @@
         "sass",
         "shiny"
     ],
-    "logr": [],
     "learnr": [
         "bslib",
         "htmlwidgets",
