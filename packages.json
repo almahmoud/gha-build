@@ -1678,7 +1678,6 @@
         "readr",
         "rtracklayer"
     ],
-    "CNORdt": [],
     "CNORfeeder": [],
     "CNORfuzzy": [
         "nloptr",
