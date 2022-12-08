@@ -41169,7 +41169,6 @@
         "lattice",
         "survival"
     ],
-    "garfield": [],
     "GARS": [
         "AnnotationDbi",
         "BH",
