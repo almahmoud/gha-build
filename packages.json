@@ -2433,7 +2433,6 @@
         "sva",
         "tidyr"
     ],
-    "csaw": [],
     "csdR": [
         "GO.db",
         "Hmisc",
@@ -2991,7 +2990,6 @@
     "diffHic": [
         "BSgenome",
         "InteractionSet",
-        "csaw",
         "rtracklayer"
     ],
     "diffuStats": [
@@ -3559,7 +3557,6 @@
         "GreyListChIP",
         "broom",
         "car",
-        "csaw",
         "ggpubr",
         "ggsci",
         "ggsignif",
@@ -3875,7 +3872,6 @@
         "biomaRt",
         "biovizBase",
         "broom",
-        "csaw",
         "ensembldb",
         "ggforce",
         "patchwork",
@@ -5248,7 +5244,6 @@
         "VariantAnnotation",
         "annotate",
         "biomaRt",
-        "csaw",
         "geneplotter",
         "rtracklayer"
     ],
@@ -7675,7 +7670,6 @@
         "annotate",
         "biomaRt",
         "biovizBase",
-        "csaw",
         "ensembldb",
         "metap",
         "motifStack",
@@ -12411,7 +12405,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "annotate",
         "biomaRt",
-        "csaw",
         "ensembldb",
         "geneplotter",
         "mixtools",
