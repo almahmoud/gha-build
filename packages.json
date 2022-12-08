@@ -58,9 +58,7 @@
         "geneplotter",
         "ggbio"
     ],
-    "airpart": [
-        "scater"
-    ],
+    "airpart": [],
     "alevinQC": [],
     "AllelicImbalance": [
         "GenomicFeatures",
@@ -92,7 +90,6 @@
         "lmerTest",
         "mia",
         "nloptr",
-        "scater",
         "testthat",
         "treeio"
     ],
@@ -287,7 +284,6 @@
         "sva"
     ],
     "BayesSpace": [
-        "scater",
         "scran"
     ],
     "BBCAnalyzer": [
@@ -307,7 +303,6 @@
         "lmerTest",
         "mia",
         "nloptr",
-        "scater",
         "testthat",
         "treeio",
         "zinbwave"
@@ -608,7 +603,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "scater",
         "testthat"
     ],
     "Category": [
@@ -645,7 +639,6 @@
     ],
     "celaref": [],
     "celda": [
-        "scater",
         "scran"
     ],
     "CellBarcode": [],
@@ -655,8 +648,7 @@
         "GSEABase"
     ],
     "CelliD": [
-        "Seurat",
-        "scater"
+        "Seurat"
     ],
     "cellity": [
         "topGO"
@@ -669,9 +661,7 @@
         "pbkrtest",
         "testthat"
     ],
-    "CellMixS": [
-        "scater"
-    ],
+    "CellMixS": [],
     "CellTrails": [],
     "cellTree": [
         "topGO"
@@ -832,7 +822,6 @@
     "chromPlot": [],
     "ChromSCape": [
         "batchelor",
-        "scater",
         "scran"
     ],
     "chromVAR": [
@@ -1006,7 +995,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "scater",
         "scran",
         "testthat",
         "tidygraph",
@@ -1016,7 +1004,6 @@
         "Ecume",
         "caret",
         "distinct",
-        "scater",
         "spatstat"
     ],
     "CONFESS": [
@@ -1449,9 +1436,7 @@
         "ggExtra",
         "heatmaply"
     ],
-    "distinct": [
-        "scater"
-    ],
+    "distinct": [],
     "DMCFB": [
         "arm",
         "lme4",
@@ -1935,7 +1920,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "scater",
         "scran"
     ],
     "flowcatchR": [],
@@ -2638,7 +2622,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "scater",
         "scran",
         "testthat",
         "tidygraph",
@@ -3169,7 +3152,6 @@
     "mia": [
         "MultiAssayExperiment",
         "TreeSummarizedExperiment",
-        "scater",
         "treeio"
     ],
     "miaSim": [
@@ -3182,7 +3164,6 @@
         "ggraph",
         "ggtree",
         "mia",
-        "scater",
         "tidygraph",
         "treeio"
     ],
@@ -3210,7 +3191,6 @@
         "lmerTest",
         "mia",
         "nloptr",
-        "scater",
         "testthat",
         "treeio"
     ],
@@ -3604,7 +3584,6 @@
         "lmerTest",
         "nloptr",
         "pbkrtest",
-        "scater",
         "testthat",
         "variancePartition"
     ],
@@ -3731,7 +3710,6 @@
     "netSmooth": [
         "clusterExperiment",
         "phylobase",
-        "scater",
         "zinbwave"
     ],
     "netZooR": [
@@ -4024,9 +4002,7 @@
     ],
     "peakPantheR": [],
     "PECA": [],
-    "peco": [
-        "scater"
-    ],
+    "peco": [],
     "periodicDNA": [],
     "PFP": [
         "DOSE",
@@ -4112,7 +4088,6 @@
     ],
     "pipeComp": [
         "Seurat",
-        "scater",
         "scran"
     ],
     "pipeFrame": [],
@@ -4849,7 +4824,6 @@
         "ExperimentHub",
         "SCATEData"
     ],
-    "scater": [],
     "scBFA": [
         "DESeq2",
         "Seurat",
@@ -4876,7 +4850,6 @@
         "Seurat"
     ],
     "scDblFinder": [
-        "scater",
         "scran"
     ],
     "scDD": [
@@ -4934,7 +4907,6 @@
         "QFeatures"
     ],
     "scPipe": [
-        "scater",
         "testthat"
     ],
     "scran": [],
@@ -4986,7 +4958,6 @@
         "epivizr",
         "epivizrData",
         "ggraph",
-        "scater",
         "scran",
         "tidygraph"
     ],
@@ -5153,7 +5124,6 @@
         "scDblFinder",
         "scMerge",
         "scRNAseq",
-        "scater",
         "scran",
         "sva",
         "treeio",
@@ -5229,7 +5199,6 @@
     ],
     "Spaniel": [
         "Seurat",
-        "scater",
         "scran"
     ],
     "sparrow": [
@@ -5255,7 +5224,6 @@
         "SpatialExperiment"
     ],
     "spatialHeatmap": [
-        "scater",
         "scran"
     ],
     "spatzie": [
@@ -5285,9 +5253,7 @@
         "miRNAtap.db"
     ],
     "spiky": [],
-    "splatter": [
-        "scater"
-    ],
+    "splatter": [],
     "SpliceWiz": [
         "ExperimentHub",
         "NxtIRFdata",
@@ -5683,9 +5649,7 @@
     "TRESS": [
         "GenomicFeatures"
     ],
-    "tricycle": [
-        "scater"
-    ],
+    "tricycle": [],
     "trigger": [
         "sva"
     ],
@@ -5752,7 +5716,6 @@
         "DiagrammeR",
         "keras",
         "lexicon",
-        "scater",
         "syuzhet",
         "textclean",
         "textstem",
