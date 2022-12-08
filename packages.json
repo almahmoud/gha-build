@@ -31696,7 +31696,6 @@
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "GenomicRanges",
-        "HGNChelper",
         "IRanges",
         "KEGGREST",
         "Matrix",
@@ -115873,7 +115872,6 @@
         "vctrs",
         "withr"
     ],
-    "HGNChelper": [],
     "homologene": [
         "R.methodsS3",
         "R.oo",
