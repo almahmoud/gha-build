@@ -4140,7 +4140,6 @@
         "tidyr"
     ],
     "FuseSOM": [
-        "DataVisualizations",
         "FCPS",
         "broom",
         "car",
@@ -5417,7 +5416,6 @@
     "IRISFGM": [
         "AdaptGauss",
         "DOSE",
-        "DataVisualizations",
         "GO.db",
         "GOSemSim",
         "HDO.db",
@@ -13053,10 +13051,7 @@
         "tidyr",
         "waldo"
     ],
-    "FCPS": [
-        "DataVisualizations"
-    ],
-    "DataVisualizations": [],
+    "FCPS": [],
     "survminer": [
         "broom",
         "car",
@@ -13113,9 +13108,7 @@
     ],
     "concaveman": [],
     "golem": [],
-    "AdaptGauss": [
-        "DataVisualizations"
-    ],
+    "AdaptGauss": [],
     "datamods": [
         "haven",
         "readr",
