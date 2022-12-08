@@ -1123,7 +1123,6 @@
         "RcppAnnoy",
         "RcppEigen",
         "RcppML",
-        "Rdpack",
         "Rmpfr",
         "Rtsne",
         "ScaledMatrix",
@@ -3848,7 +3847,6 @@
     ],
     "BEclear": [
         "BiocParallel",
-        "Rdpack",
         "futile.logger",
         "ids",
         "openssl"
@@ -3915,7 +3913,6 @@
         "RcppEigen",
         "RcppML",
         "RcppZiggurat",
-        "Rdpack",
         "Rfast",
         "Rmpfr",
         "Rtsne",
@@ -5332,7 +5329,6 @@
         "RSQLite",
         "RSpectra",
         "RcppEigen",
-        "Rdpack",
         "WGCNA",
         "XVector",
         "apcluster",
@@ -7702,7 +7698,6 @@
         "GenomicRanges",
         "IRanges",
         "RcppEigen",
-        "Rdpack",
         "Rtsne",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -7873,7 +7868,6 @@
         "GenomicRanges",
         "IRanges",
         "RcppEigen",
-        "Rdpack",
         "Rsamtools",
         "ShortRead",
         "SummarizedExperiment",
@@ -14624,7 +14618,6 @@
         "RBGL",
         "RSQLite",
         "RcppEigen",
-        "Rdpack",
         "Rgraphviz",
         "Rtsne",
         "TFisher",
@@ -14855,7 +14848,6 @@
         "RSQLite",
         "RcppEigen",
         "RcppNumerical",
-        "Rdpack",
         "Rgraphviz",
         "SummarizedExperiment",
         "TSP",
@@ -18056,7 +18048,6 @@
         "MatrixModels",
         "PADOG",
         "RSQLite",
-        "Rdpack",
         "Rgraphviz",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -19826,7 +19817,6 @@
         "GenomicRanges",
         "IRanges",
         "MultiAssayExperiment",
-        "Rdpack",
         "SummarizedExperiment",
         "XVector",
         "bslib",
@@ -21463,7 +21453,6 @@
         "latticeExtra"
     ],
     "flowGraph": [
-        "Rdpack",
         "furrr",
         "future",
         "ggiraph",
@@ -23626,7 +23615,6 @@
         "RBGL",
         "RSQLite",
         "RcppEigen",
-        "Rdpack",
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -25693,7 +25681,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "Rdpack",
         "SummarizedExperiment",
         "XVector",
         "callr",
@@ -26409,8 +26396,7 @@
         "fabia"
     ],
     "Harman": [
-        "Ckmeans.1d.dp",
-        "Rdpack"
+        "Ckmeans.1d.dp"
     ],
     "Harshlight": [
         "Biostrings",
@@ -26533,7 +26519,6 @@
         "KEGGREST",
         "MultiAssayExperiment",
         "RSQLite",
-        "Rdpack",
         "SummarizedExperiment",
         "XVector",
         "annotate",
@@ -29864,7 +29849,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "Rdpack",
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -33661,7 +33645,6 @@
     ],
     "MetaVolcanoR": [
         "MatrixModels",
-        "Rdpack",
         "TFisher",
         "TH.data",
         "cowplot",
@@ -35141,7 +35124,6 @@
         "RcppEigen",
         "RcppML",
         "RcppZiggurat",
-        "Rdpack",
         "Rfast",
         "Rmpfr",
         "Rtsne",
@@ -38673,7 +38655,6 @@
         "KEGGREST",
         "MatrixModels",
         "RSQLite",
-        "Rdpack",
         "TFisher",
         "TH.data",
         "XVector",
@@ -38794,7 +38775,6 @@
         "RSQLite",
         "RSpectra",
         "RcppEigen",
-        "Rdpack",
         "ReactomePA",
         "SummarizedExperiment",
         "TFisher",
@@ -39017,7 +38997,6 @@
         "RcppAnnoy",
         "RcppEigen",
         "RcppML",
-        "Rdpack",
         "Rtsne",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -39467,7 +39446,6 @@
         "RBGL",
         "RSQLite",
         "RcppEigen",
-        "Rdpack",
         "Rgraphviz",
         "Rsamtools",
         "SummarizedExperiment",
@@ -42912,7 +42890,6 @@
         "MatrixModels",
         "RSQLite",
         "RcppEigen",
-        "Rdpack",
         "TFisher",
         "TH.data",
         "XVector",
@@ -45482,7 +45459,6 @@
         "MSnbase",
         "MsCoreUtils",
         "RcppEigen",
-        "Rdpack",
         "TTR",
         "affy",
         "doParallel",
@@ -47769,9 +47745,7 @@
         "vroom"
     ],
     "randPack": [],
-    "randRotation": [
-        "Rdpack"
-    ],
+    "randRotation": [],
     "RankProd": [
         "Rmpfr"
     ],
@@ -50503,9 +50477,7 @@
         "vsn",
         "webchem"
     ],
-    "rmelting": [
-        "Rdpack"
-    ],
+    "rmelting": [],
     "Rmmquant": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -51628,7 +51600,6 @@
         "MultiAssayExperiment",
         "MultiDataSet",
         "RcppEigen",
-        "Rdpack",
         "SummarizedExperiment",
         "TFisher",
         "TH.data",
@@ -52493,7 +52464,6 @@
         "KEGGREST",
         "KEGGgraph",
         "RSQLite",
-        "Rdpack",
         "Rgraphviz",
         "SBGNview.data",
         "SummarizedExperiment",
@@ -54247,7 +54217,6 @@
         "IRanges",
         "RSpectra",
         "RcppEigen",
-        "Rdpack",
         "ScaledMatrix",
         "dplyr",
         "futile.logger",
@@ -56679,7 +56648,6 @@
         "RcppAnnoy",
         "RcppEigen",
         "RcppML",
-        "Rdpack",
         "ResidualMatrix",
         "Rsamtools",
         "Rtsne",
@@ -59377,7 +59345,6 @@
         "RSQLite",
         "RUVSeq",
         "RcppEigen",
-        "Rdpack",
         "Rsamtools",
         "ShortRead",
         "SingleCellExperiment",
@@ -64195,7 +64162,6 @@
     "variancePartition": [
         "BiocParallel",
         "RcppEigen",
-        "Rdpack",
         "broom",
         "callr",
         "doParallel",
@@ -65287,7 +65253,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "Rdpack",
         "SummarizedExperiment",
         "XVector",
         "dplyr",
@@ -65784,7 +65749,6 @@
         "RSQLite",
         "RcppEigen",
         "RcppZiggurat",
-        "Rdpack",
         "Rfast",
         "Rgraphviz",
         "SPIA",
@@ -66834,7 +66798,6 @@
         "tibble",
         "vctrs"
     ],
-    "Rdpack": [],
     "lmerTest": [
         "RcppEigen",
         "callr",
@@ -68983,7 +68946,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "Rdpack",
         "XVector",
         "bit64",
         "blob",
@@ -69017,7 +68979,6 @@
         "apcluster"
     ],
     "rSpectral": [
-        "Rdpack",
         "graph",
         "igraph"
     ],
@@ -69702,9 +69663,7 @@
         "tibble",
         "vctrs"
     ],
-    "Ckmeans.1d.dp": [
-        "Rdpack"
-    ],
+    "Ckmeans.1d.dp": [],
     "mvoutlier": [],
     "FME": [],
     "SpatialTools": [
@@ -71362,7 +71321,6 @@
     ],
     "metap": [
         "MatrixModels",
-        "Rdpack",
         "TFisher",
         "TH.data",
         "multcomp",
@@ -72409,18 +72367,14 @@
         "survival"
     ],
     "fGarch": [
-        "Rdpack",
         "cvar",
         "fBasics",
         "gbutils"
     ],
     "cvar": [
-        "Rdpack",
         "gbutils"
     ],
-    "gbutils": [
-        "Rdpack"
-    ],
+    "gbutils": [],
     "KEGGandMetacoreDzPathwaysGEO": [],
     "ggwordcloud": [
         "ggplot2",
@@ -72721,7 +72675,6 @@
         "vctrs"
     ],
     "changepoint.np": [
-        "Rdpack",
         "changepoint"
     ],
     "hgu95av2.db": [
@@ -75866,9 +75819,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "mclustcomp": [
-        "Rdpack"
-    ],
+    "mclustcomp": [],
     "MLmetrics": [
         "ROCR",
         "gplots"
