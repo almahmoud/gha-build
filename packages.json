@@ -960,7 +960,6 @@
         "MSstatsTMT",
         "lmerTest"
     ],
-    "MSstatsQCgui": [],
     "MSstatsSampleSize": [
         "MSstats"
     ],
