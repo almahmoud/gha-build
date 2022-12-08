@@ -1434,7 +1434,6 @@
         "biomaRt"
     ],
     "cyanoFilter": [
-        "GEOmap",
         "GGally",
         "RFOC",
         "broom",
@@ -1548,7 +1547,6 @@
         "tidyverse"
     ],
     "ddPCRclust": [
-        "GEOmap",
         "RFOC",
         "broom",
         "car",
@@ -2382,7 +2380,6 @@
         "SPARQL"
     ],
     "flowCut": [
-        "GEOmap",
         "RFOC",
         "broom",
         "car",
@@ -2393,7 +2390,6 @@
         "testthat"
     ],
     "flowDensity": [
-        "GEOmap",
         "RFOC",
         "broom",
         "car",
@@ -7682,10 +7678,7 @@
     "highcharter": [
         "broom"
     ],
-    "RFOC": [
-        "GEOmap"
-    ],
-    "GEOmap": [],
+    "RFOC": [],
     "mbest": [
         "lme4",
         "nloptr",
