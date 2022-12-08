@@ -336,7 +336,6 @@
     ],
     "bandle": [
         "MLInterfaces",
-        "MSnbase",
         "biomaRt",
         "caret",
         "genefilter",
@@ -734,7 +733,6 @@
         "MultiAssayExperiment"
     ],
     "CAMERA": [
-        "MSnbase",
         "xcms"
     ],
     "canceR": [
@@ -1106,12 +1104,10 @@
     ],
     "cliProfiler": [],
     "cliqueMS": [
-        "MSnbase",
         "xcms"
     ],
     "CluMSID": [
         "GGally",
-        "MSnbase",
         "plotly"
     ],
     "clusterExperiment": [
@@ -1350,7 +1346,6 @@
         "geneplotter"
     ],
     "cosmiq": [
-        "MSnbase",
         "faahKO",
         "xcms"
     ],
@@ -1562,7 +1557,6 @@
     ],
     "DAPAR": [
         "DAPARdata",
-        "MSnbase",
         "broom",
         "highcharter"
     ],
@@ -1700,9 +1694,7 @@
         "genefilter",
         "sva"
     ],
-    "DEP": [
-        "MSnbase"
-    ],
+    "DEP": [],
     "DepecheR": [
         "mixOmics"
     ],
@@ -2418,7 +2410,6 @@
     "fishpond": [],
     "flagme": [
         "CAMERA",
-        "MSnbase",
         "xcms"
     ],
     "FLAMES": [
@@ -3293,7 +3284,6 @@
     ],
     "IPO": [
         "CAMERA",
-        "MSnbase",
         "xcms"
     ],
     "IRISFGM": [
@@ -3490,7 +3480,6 @@
     ],
     "LOBSTAHS": [
         "CAMERA",
-        "MSnbase",
         "xcms"
     ],
     "LowMACA": [
@@ -3609,7 +3598,6 @@
     ],
     "MAIT": [
         "CAMERA",
-        "MSnbase",
         "agricolae",
         "caret",
         "haven",
@@ -3758,7 +3746,6 @@
     ],
     "MesKit": [],
     "Metab": [
-        "MSnbase",
         "xcms"
     ],
     "metabCombiner": [
@@ -3807,7 +3794,6 @@
     "metagene2": [],
     "metaMS": [
         "CAMERA",
-        "MSnbase",
         "xcms"
     ],
     "MetaNeighbor": [],
@@ -4269,7 +4255,6 @@
         "topGO"
     ],
     "MobilityTransformR": [
-        "MSnbase",
         "xcms"
     ],
     "MODA": [
@@ -4369,17 +4354,12 @@
         "scran"
     ],
     "mslp": [],
-    "msmsEDA": [
-        "MSnbase"
-    ],
+    "msmsEDA": [],
     "msmsTests": [
-        "MSnbase",
         "msmsEDA"
     ],
-    "MSnbase": [],
     "MSnID": [
         "AnnotationHub",
-        "MSnbase",
         "msmsEDA",
         "msmsTests"
     ],
@@ -4435,12 +4415,10 @@
         "testthat"
     ],
     "MSstatsQC": [
-        "MSnbase",
         "ggExtra",
         "plotly"
     ],
     "MSstatsQCgui": [
-        "MSnbase",
         "MSstatsQC",
         "ggExtra",
         "plotly"
@@ -4640,7 +4618,6 @@
         "testthat"
     ],
     "ncGTW": [
-        "MSnbase",
         "xcms"
     ],
     "NCIgraph": [],
@@ -5062,9 +5039,7 @@
         "verification"
     ],
     "pdInfoBuilder": [],
-    "peakPantheR": [
-        "MSnbase"
-    ],
+    "peakPantheR": [],
     "PECA": [
         "genefilter"
     ],
@@ -5269,7 +5244,6 @@
         "phastCons100way.UCSC.hg38"
     ],
     "PrInCE": [
-        "MSnbase",
         "forecast"
     ],
     "proActiv": [
@@ -5293,7 +5267,6 @@
         "testthat"
     ],
     "proFIA": [
-        "MSnbase",
         "MultiAssayExperiment",
         "plotly",
         "ropls",
@@ -5330,7 +5303,6 @@
     ],
     "pRoloc": [
         "MLInterfaces",
-        "MSnbase",
         "biomaRt",
         "caret",
         "genefilter",
@@ -5340,7 +5312,6 @@
     ],
     "pRolocGUI": [
         "MLInterfaces",
-        "MSnbase",
         "biomaRt",
         "caret",
         "genefilter",
@@ -5359,7 +5330,6 @@
     "Prostar": [
         "DAPAR",
         "DAPARdata",
-        "MSnbase",
         "broom",
         "highcharter"
     ],
@@ -5420,7 +5390,6 @@
         "topGO"
     ],
     "ptairMS": [
-        "MSnbase",
         "broom",
         "car",
         "ggpubr",
@@ -5479,9 +5448,7 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "qPLEXanalyzer": [
-        "MSnbase"
-    ],
+    "qPLEXanalyzer": [],
     "qrqc": [
         "GenomicFeatures",
         "VariantAnnotation",
@@ -5818,7 +5785,6 @@
         "regioneR"
     ],
     "Risa": [
-        "MSnbase",
         "xcms"
     ],
     "RITAN": [
@@ -5845,9 +5811,7 @@
         "regioneR",
         "valr"
     ],
-    "RMassBank": [
-        "MSnbase"
-    ],
+    "RMassBank": [],
     "Rmmquant": [
         "DESeq2",
         "GenomicFeatures",
@@ -6875,9 +6839,7 @@
     "SWATH2stats": [
         "biomaRt"
     ],
-    "synapter": [
-        "MSnbase"
-    ],
+    "synapter": [],
     "synergyfinder": [
         "SpatialExtremes",
         "broom",
@@ -7126,9 +7088,7 @@
     "tomoseqr": [
         "plotly"
     ],
-    "topdownr": [
-        "MSnbase"
-    ],
+    "topdownr": [],
     "topGO": [],
     "ToxicoGx": [
         "CoreGx",
@@ -7448,9 +7408,7 @@
     "wppi": [
         "OmnipathR"
     ],
-    "xcms": [
-        "MSnbase"
-    ],
+    "xcms": [],
     "xcore": [
         "MultiAssayExperiment"
     ],
@@ -7649,9 +7607,7 @@
         "pbkrtest",
         "testthat"
     ],
-    "pRolocdata": [
-        "MSnbase"
-    ],
+    "pRolocdata": [],
     "BSgenome.Ecoli.NCBI.20080805": [],
     "ggExtra": [],
     "heatmaply": [
@@ -7841,7 +7797,6 @@
         "minfi"
     ],
     "faahKO": [
-        "MSnbase",
         "xcms"
     ],
     "dorothea": [
@@ -7872,9 +7827,7 @@
         "nloptr",
         "testthat"
     ],
-    "DAPARdata": [
-        "MSnbase"
-    ],
+    "DAPARdata": [],
     "cmdfun": [
         "testthat"
     ],
