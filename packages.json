@@ -7409,7 +7409,6 @@
         "futile.logger",
         "hms",
         "httr",
-        "insight",
         "lambda.r",
         "lattice",
         "lifecycle",
@@ -66796,7 +66795,6 @@
         "igraph",
         "impute",
         "inaparc",
-        "insight",
         "interp",
         "ipred",
         "irlba",
@@ -67047,7 +67045,6 @@
         "httr",
         "ids",
         "igraph",
-        "insight",
         "ipred",
         "isoband",
         "iterators",
@@ -108876,7 +108873,6 @@
         "httr",
         "ids",
         "igraph",
-        "insight",
         "ipred",
         "isoband",
         "iterators",
@@ -127634,7 +127630,6 @@
         "cli",
         "datawizard",
         "dplyr",
-        "insight",
         "lifecycle",
         "magrittr",
         "pillar",
@@ -127649,14 +127644,10 @@
     "rslurm": [
         "whisker"
     ],
-    "insight": [],
     "sjlabelled": [
-        "datawizard",
-        "insight"
+        "datawizard"
     ],
-    "datawizard": [
-        "insight"
-    ],
+    "datawizard": [],
     "poibin": [],
     "LIM": [
         "diagram",
@@ -138260,7 +138251,6 @@
         "groupdata2",
         "gtable",
         "hardhat",
-        "insight",
         "ipred",
         "isoband",
         "labeling",
@@ -138366,8 +138356,7 @@
     ],
     "parameters": [
         "bayestestR",
-        "datawizard",
-        "insight"
+        "datawizard"
     ],
     "rearrr": [
         "Rcpp",
@@ -138386,8 +138375,7 @@
         "withr"
     ],
     "bayestestR": [
-        "datawizard",
-        "insight"
+        "datawizard"
     ],
     "echarts4r": [
         "Matrix",
