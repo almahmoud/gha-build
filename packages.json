@@ -4032,7 +4032,6 @@
         "hms",
         "htmltools",
         "htmlwidgets",
-        "httpcode",
         "httpuv",
         "httr",
         "interactiveDisplayBase",
@@ -9893,7 +9892,6 @@
         "hms",
         "htmltools",
         "htmlwidgets",
-        "httpcode",
         "httr",
         "igraph",
         "ini",
@@ -94804,7 +94802,6 @@
         "hardhat",
         "hexbin",
         "hms",
-        "httpcode",
         "httr",
         "igraph",
         "ipred",
@@ -118445,7 +118442,6 @@
         "hms",
         "htmltools",
         "htmlwidgets",
-        "httpcode",
         "httpuv",
         "httr",
         "interactiveDisplayBase",
@@ -144688,7 +144684,6 @@
         "askpass",
         "cli",
         "crul",
-        "httpcode",
         "httr",
         "jsonlite",
         "lifecycle",
@@ -145252,7 +145247,6 @@
     "crul": [
         "R6",
         "Rcpp",
-        "httpcode",
         "jsonlite",
         "mime",
         "triebeard",
@@ -145262,7 +145256,6 @@
         "Rcpp",
         "triebeard"
     ],
-    "httpcode": [],
     "triebeard": [
         "Rcpp"
     ],
@@ -148068,7 +148061,6 @@
         "cli",
         "crul",
         "fauxpas",
-        "httpcode",
         "httr",
         "jsonlite",
         "lifecycle",
@@ -148089,7 +148081,6 @@
     "ini": [],
     "fauxpas": [
         "R6",
-        "httpcode",
         "whisker"
     ],
     "styler": [
@@ -161377,7 +161368,6 @@
         "cachem",
         "cli",
         "crul",
-        "httpcode",
         "httr",
         "jsonlite",
         "lifecycle",
@@ -163320,7 +163310,6 @@
         "highr",
         "htmltools",
         "htmlwidgets",
-        "httpcode",
         "httr",
         "jquerylib",
         "jsonlite",
@@ -163374,7 +163363,6 @@
         "generics",
         "highr",
         "htmltools",
-        "httpcode",
         "httr",
         "jquerylib",
         "jsonlite",
