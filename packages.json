@@ -4135,8 +4135,7 @@
         "dplyr",
         "keras",
         "rtracklayer",
-        "tensorflow",
-        "tfruns"
+        "tensorflow"
     ],
     "crisprseekplus": [
         "AnnotationDbi",
@@ -4168,7 +4167,6 @@
         "rtracklayer",
         "shinyjs",
         "tensorflow",
-        "tfruns",
         "tidyr",
         "vroom"
     ],
@@ -4873,7 +4871,6 @@
         "tensorflow",
         "textclean",
         "textstem",
-        "tfruns",
         "tidyr",
         "ttgsea",
         "viridis",
@@ -7794,7 +7791,6 @@
         "tensorflow",
         "textclean",
         "textstem",
-        "tfruns",
         "tidyr",
         "ttgsea",
         "viridis",
@@ -8530,7 +8526,6 @@
         "rio",
         "rtracklayer",
         "tensorflow",
-        "tfruns",
         "tidyr",
         "vroom"
     ],
@@ -12707,7 +12702,6 @@
         "regioneR",
         "rtracklayer",
         "tensorflow",
-        "tfruns",
         "tidyr",
         "viridis"
     ],
@@ -13360,8 +13354,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "keras",
-        "tensorflow",
-        "tfruns"
+        "tensorflow"
     ],
     "NewWave": [
         "SingleCellExperiment",
@@ -14172,7 +14165,6 @@
         "tensorflow",
         "testthat",
         "tfprobability",
-        "tfruns",
         "tidygraph",
         "tidyr",
         "viridis",
@@ -17294,7 +17286,6 @@
         "scattermore",
         "sctransform",
         "tensorflow",
-        "tfruns",
         "tidyr"
     ],
     "SCAN.UPC": [
@@ -20768,7 +20759,6 @@
         "tensorflow",
         "textclean",
         "textstem",
-        "tfruns",
         "tidyr",
         "viridis",
         "vroom"
@@ -20957,7 +20947,6 @@
         "tensorflow",
         "textclean",
         "textstem",
-        "tfruns",
         "tidyr",
         "ttgsea",
         "viridis",
@@ -22846,13 +22835,9 @@
         "interactiveDisplayBase"
     ],
     "keras": [
-        "tensorflow",
-        "tfruns"
+        "tensorflow"
     ],
-    "tensorflow": [
-        "tfruns"
-    ],
-    "tfruns": [],
+    "tensorflow": [],
     "shinypanel": [
         "shinyBS",
         "shinyjs"
@@ -23687,8 +23672,7 @@
     ],
     "tfprobability": [
         "keras",
-        "tensorflow",
-        "tfruns"
+        "tensorflow"
     ],
     "verification": [
         "fields",
