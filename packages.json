@@ -10617,7 +10617,6 @@
         "reshape",
         "reshape2",
         "scales",
-        "splancs",
         "stringr",
         "survival",
         "testthat",
@@ -11281,7 +11280,6 @@
         "quantreg",
         "rematch2",
         "scales",
-        "splancs",
         "stringr",
         "survival",
         "testthat",
@@ -16405,7 +16403,6 @@
         "quantreg",
         "rematch2",
         "scales",
-        "splancs",
         "stringr",
         "survival",
         "testthat",
@@ -16446,7 +16443,6 @@
         "quantreg",
         "rematch2",
         "scales",
-        "splancs",
         "stringr",
         "survival",
         "testthat",
@@ -17145,8 +17141,7 @@
         "flowFP",
         "flowViz",
         "interp",
-        "latticeExtra",
-        "splancs"
+        "latticeExtra"
     ],
     "GBScleanR": [
         "Biostrings",
@@ -44767,7 +44762,6 @@
         "spatstat.geom",
         "spatstat.random",
         "spatstat.sparse",
-        "splancs",
         "stringr",
         "tibble",
         "tidyr",
@@ -54498,7 +54492,6 @@
         "mgcv",
         "pillar",
         "scales",
-        "splancs",
         "tibble",
         "vctrs",
         "viridis"
@@ -54509,12 +54502,10 @@
         "mgcv",
         "pillar",
         "scales",
-        "splancs",
         "tibble",
         "vctrs",
         "viridis"
     ],
-    "splancs": [],
     "fields": [
         "ggplot2",
         "mgcv",
@@ -57807,7 +57798,6 @@
         "scales",
         "spatstat.geom",
         "spatstat.random",
-        "splancs",
         "tibble",
         "vctrs"
     ],
