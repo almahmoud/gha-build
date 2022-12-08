@@ -4612,7 +4612,6 @@
     "SigCheck": [
         "MLInterfaces"
     ],
-    "sights": [],
     "signatureSearch": [
         "DOSE",
         "ExperimentHub",
