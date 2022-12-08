@@ -31183,8 +31183,7 @@
     ],
     "RedeR": [],
     "RedisParam": [
-        "BiocParallel",
-        "redux"
+        "BiocParallel"
     ],
     "REDseq": [
         "AnnotationDbi",
@@ -47535,7 +47534,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "redux": [],
     "BSgenome.Celegans.UCSC.ce2": [
         "BSgenome",
         "BiocParallel",
