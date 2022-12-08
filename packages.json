@@ -514,12 +514,10 @@
         "ensembldb"
     ],
     "BioNAR": [
-        "WGCNA",
         "synaptome.data",
         "synaptome.db"
     ],
     "BioNERO": [
-        "WGCNA",
         "genefilter",
         "ggnetwork",
         "sva"
@@ -682,7 +680,6 @@
         "GenomicFeatures",
         "OrganismDbi",
         "VariantAnnotation",
-        "WGCNA",
         "biomaRt",
         "biovizBase",
         "ensembldb",
@@ -809,7 +806,6 @@
     "CEMiTool": [
         "DOSE",
         "GOSemSim",
-        "WGCNA",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -1357,9 +1353,7 @@
         "genefilter",
         "sva"
     ],
-    "csdR": [
-        "WGCNA"
-    ],
+    "csdR": [],
     "CSSQ": [
         "GenomicFeatures",
         "biomaRt"
@@ -1671,9 +1665,7 @@
         "geneplotter",
         "systemPipeR"
     ],
-    "diffcoexp": [
-        "WGCNA"
-    ],
+    "diffcoexp": [],
     "diffcyt": [
         "FlowSOM",
         "broom",
@@ -2011,7 +2003,6 @@
         "EntropyExplorer",
         "GOSemSim",
         "ReactomePA",
-        "WGCNA",
         "enrichplot",
         "ggraph",
         "ggtree",
@@ -2209,7 +2200,6 @@
     ],
     "fastLiquidAssociation": [
         "LiquidAssociation",
-        "WGCNA",
         "broom",
         "geepack"
     ],
@@ -2703,7 +2693,6 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "WGCNA",
         "broom",
         "gRain",
         "genefilter"
@@ -2842,7 +2831,6 @@
         "mice"
     ],
     "GWENA": [
-        "WGCNA",
         "gprofiler2",
         "plotly"
     ],
@@ -3319,7 +3307,6 @@
     ],
     "Macarron": [
         "Maaslin2",
-        "WGCNA",
         "broom",
         "car",
         "glmmTMB",
@@ -3415,9 +3402,7 @@
         "sva",
         "testthat"
     ],
-    "mbOmic": [
-        "WGCNA"
-    ],
+    "mbOmic": [],
     "mBPCR": [
         "GWASTools",
         "broom",
@@ -3426,8 +3411,7 @@
     ],
     "MBQN": [],
     "MCbiclust": [
-        "GGally",
-        "WGCNA"
+        "GGally"
     ],
     "mCSEA": [
         "GenomicFeatures",
@@ -3868,7 +3852,6 @@
         "GSEABase",
         "ReactomePA",
         "SPONGE",
-        "WGCNA",
         "biomaRt",
         "broom",
         "car",
@@ -3988,9 +3971,7 @@
     "MobilityTransformR": [
         "xcms"
     ],
-    "MODA": [
-        "WGCNA"
-    ],
+    "MODA": [],
     "MOFA2": [],
     "MOGAMUN": [],
     "mogsa": [
@@ -4359,9 +4340,7 @@
         "geneplotter"
     ],
     "netbiov": [],
-    "netboost": [
-        "WGCNA"
-    ],
+    "netboost": [],
     "netboxr": [
         "DOSE",
         "GOSemSim",
@@ -4383,7 +4362,6 @@
         "supraHex"
     ],
     "NetSAM": [
-        "WGCNA",
         "biomaRt"
     ],
     "netSmooth": [
@@ -4819,7 +4797,6 @@
         "DOSE",
         "GOSemSim",
         "ReactomePA",
-        "WGCNA",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -4934,7 +4911,6 @@
         "biomaRt"
     ],
     "proBatch": [
-        "WGCNA",
         "genefilter",
         "lme4",
         "nloptr",
@@ -5274,7 +5250,6 @@
         "DESeq2",
         "DOSE",
         "GOSemSim",
-        "WGCNA",
         "geneplotter"
     ],
     "regioneR": [],
@@ -5921,7 +5896,6 @@
         "biomaRt"
     ],
     "seq2pathway": [
-        "WGCNA",
         "biomaRt"
     ],
     "seqCAT": [
@@ -6208,7 +6182,6 @@
         "SpatialExperiment"
     ],
     "spatialHeatmap": [
-        "WGCNA",
         "genefilter",
         "plotly",
         "scater",
@@ -6293,9 +6266,7 @@
         "SpatialExperiment",
         "plotly"
     ],
-    "SPsimSeq": [
-        "WGCNA"
-    ],
+    "SPsimSeq": [],
     "SRAdb": [
         "GEOquery"
     ],
@@ -6614,9 +6585,7 @@
         "tidygraph",
         "treeio"
     ],
-    "TIN": [
-        "WGCNA"
-    ],
+    "TIN": [],
     "TissueEnrich": [
         "GSEABase"
     ],
@@ -6726,7 +6695,6 @@
         "BSgenome.Mmusculus.UCSC.mm10",
         "MotifDb",
         "SNPlocs.Hsapiens.dbSNP150.GRCh38",
-        "WGCNA",
         "biomaRt"
     ],
     "TRESS": [
@@ -7176,7 +7144,6 @@
     "synaptome.db": [
         "synaptome.data"
     ],
-    "WGCNA": [],
     "synaptome.data": [],
     "ggnetwork": [],
     "biscuiteerData": [
