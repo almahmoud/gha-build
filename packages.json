@@ -69052,7 +69052,6 @@
         "dqrng",
         "foreach",
         "futile.logger",
-        "geigen",
         "genlasso",
         "ggbeeswarm",
         "ggplot2",
@@ -118968,16 +118967,13 @@
     "circular": [
         "mvtnorm"
     ],
-    "conicfit": [
-        "geigen"
-    ],
+    "conicfit": [],
     "genlasso": [
         "Matrix",
         "igraph",
         "magrittr",
         "rlang"
     ],
-    "geigen": [],
     "protolite": [
         "Rcpp"
     ],
