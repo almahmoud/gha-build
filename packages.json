@@ -11720,7 +11720,6 @@
     "TPP2D": [
         "tidyr"
     ],
-    "tracktables": [],
     "trackViewer": [
         "BSgenome",
         "BiocFileCache",
