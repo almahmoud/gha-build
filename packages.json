@@ -781,9 +781,7 @@
     ],
     "CSSQ": [],
     "cTRAP": [],
-    "CTSV": [
-        "SpatialExperiment"
-    ],
+    "CTSV": [],
     "cummeRbund": [
         "Gviz",
         "VariantAnnotation",
@@ -827,9 +825,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "cytomapper": [
-        "SpatialExperiment"
-    ],
+    "cytomapper": [],
     "dagLogo": [
         "TFBSTools",
         "motifStack"
@@ -1271,7 +1267,6 @@
         "OrganismDbi"
     ],
     "ExperimentSubset": [
-        "SpatialExperiment",
         "TreeSummarizedExperiment",
         "treeio"
     ],
@@ -1564,9 +1559,7 @@
         "ggtree",
         "treeio"
     ],
-    "ggspavis": [
-        "SpatialExperiment"
-    ],
+    "ggspavis": [],
     "ggtree": [
         "treeio"
     ],
@@ -1752,7 +1745,6 @@
         "nloptr"
     ],
     "imcRtools": [
-        "SpatialExperiment",
         "cytomapper",
         "ggraph"
     ],
@@ -1906,7 +1898,6 @@
     ],
     "LiquidAssociation": [],
     "lisaClust": [
-        "SpatialExperiment",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -2610,9 +2601,7 @@
         "yarn"
     ],
     "NeuCA": [],
-    "nnSVG": [
-        "SpatialExperiment"
-    ],
+    "nnSVG": [],
     "nondetects": [
         "arm",
         "lme4",
@@ -3541,7 +3530,6 @@
     "SIM": [],
     "SimBindProfiles": [],
     "simpleSeg": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "simplifyEnrichment": [],
@@ -3615,23 +3603,16 @@
     ],
     "Spaniel": [],
     "sparrow": [],
-    "spaSim": [
-        "SpatialExperiment"
-    ],
+    "spaSim": [],
     "SpatialCPie": [],
-    "spatialDE": [
-        "SpatialExperiment"
-    ],
+    "spatialDE": [],
     "SpatialDecon": [
         "GeomxTools",
         "lme4",
         "lmerTest",
         "nloptr"
     ],
-    "SpatialExperiment": [],
-    "SpatialFeatureExperiment": [
-        "SpatialExperiment"
-    ],
+    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [],
     "spatzie": [
         "GenomicInteractions",
@@ -3642,11 +3623,8 @@
         "ensembldb",
         "motifmatchr"
     ],
-    "SPIAT": [
-        "SpatialExperiment"
-    ],
+    "SPIAT": [],
     "spicyR": [
-        "SpatialExperiment",
         "lme4",
         "lmerTest",
         "nloptr"
@@ -3676,9 +3654,7 @@
         "rstatix",
         "tidyverse"
     ],
-    "SpotClean": [
-        "SpatialExperiment"
-    ],
+    "SpotClean": [],
     "SPsimSeq": [],
     "SRAdb": [],
     "srnadiff": [
@@ -3705,8 +3681,7 @@
     ],
     "standR": [
         "EDASeq",
-        "RUVSeq",
-        "SpatialExperiment"
+        "RUVSeq"
     ],
     "staRank": [
         "Category",
@@ -3718,9 +3693,7 @@
     "Statial": [
         "tidyverse"
     ],
-    "stJoincount": [
-        "SpatialExperiment"
-    ],
+    "stJoincount": [],
     "strandCheckR": [
         "TxDb.Hsapiens.UCSC.hg38.knownGene"
     ],
@@ -4021,7 +3994,6 @@
         "textstem"
     ],
     "Voyager": [
-        "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
     "vsclust": [],
