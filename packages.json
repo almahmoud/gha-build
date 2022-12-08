@@ -8417,7 +8417,6 @@
     "Pigengene": [
         "BiocStyle",
         "C50",
-        "Cubist",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -13366,10 +13365,7 @@
     "verification": [
         "fields"
     ],
-    "C50": [
-        "Cubist"
-    ],
-    "Cubist": [],
+    "C50": [],
     "tidybayes": [
         "distributional",
         "ggdist",
