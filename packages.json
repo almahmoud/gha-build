@@ -46,13 +46,11 @@
         "ggplot2",
         "tibble"
     ],
-    "aCGH": [],
     "ADaCGH2": [
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
         "RSQLite",
-        "aCGH",
         "annotate",
         "genefilter",
         "ggplot2",
@@ -5424,9 +5422,7 @@
         "tibble"
     ],
     "cqn": [],
-    "CRImage": [
-        "aCGH"
-    ],
+    "CRImage": [],
     "crisprBase": [
         "Biostrings",
         "GenomicRanges"
@@ -19496,7 +19492,6 @@
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "aCGH",
         "biomaRt",
         "caret",
         "dbplyr",
@@ -20682,7 +20677,6 @@
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "aCGH",
         "biomaRt",
         "dbplyr",
         "dplyr",
@@ -24626,7 +24620,6 @@
         "Biostrings",
         "KEGGREST",
         "RSQLite",
-        "aCGH",
         "annotate",
         "genefilter",
         "ggplot2",
