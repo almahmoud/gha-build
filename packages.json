@@ -1716,7 +1716,6 @@
         "scuttle",
         "shiny",
         "spatstat.explore",
-        "survey",
         "testthat",
         "tibble",
         "tidyr",
@@ -6517,7 +6516,6 @@
         "patchwork",
         "reshape2",
         "scattermore",
-        "survey",
         "tibble",
         "tidyselect"
     ],
@@ -9169,7 +9167,6 @@
         "kinship2",
         "knitr",
         "plotly",
-        "survey",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -18084,7 +18081,6 @@
         "ICSNP",
         "ggplot2",
         "network",
-        "survey",
         "tibble"
     ],
     "netOmics": [
@@ -22785,7 +22781,6 @@
         "genefilter",
         "geneplotter",
         "ggplot2",
-        "survey",
         "tibble",
         "vsn"
     ],
@@ -30410,7 +30405,6 @@
         "tibble",
         "tidyselect"
     ],
-    "survey": [],
     "sjmisc": [
         "dplyr",
         "tibble",
@@ -32498,12 +32492,9 @@
     "VarfromPDB": [],
     "mppa": [],
     "ICSNP": [
-        "ICS",
-        "survey"
+        "ICS"
     ],
-    "ICS": [
-        "survey"
-    ],
+    "ICS": [],
     "dnet": [
         "dplyr",
         "progress",
