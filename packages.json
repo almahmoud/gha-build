@@ -232,7 +232,6 @@
         "caret",
         "geneplotter",
         "ipred",
-        "plotROC",
         "plotly",
         "recipes",
         "tidyr"
@@ -7450,7 +7449,6 @@
         "nloptr",
         "patchwork",
         "phyloseq",
-        "plotROC",
         "readxl",
         "recipes",
         "scater",
@@ -14013,7 +14011,6 @@
         "recipes",
         "tidyr"
     ],
-    "plotROC": [],
     "GUniFrac": [],
     "recipes": [
         "ipred",
