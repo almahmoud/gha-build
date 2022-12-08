@@ -7626,7 +7626,6 @@
         "KEGGREST",
         "MSQC",
         "RSQLite",
-        "RWeka",
         "Rsamtools",
         "ShortRead",
         "SummarizedExperiment",
@@ -11943,7 +11942,6 @@
         "MLSeq",
         "MSQC",
         "RSQLite",
-        "RWeka",
         "Rsamtools",
         "ShortRead",
         "SummarizedExperiment",
@@ -37930,9 +37928,7 @@
         "rgl",
         "stringr"
     ],
-    "FSelector": [
-        "RWeka"
-    ],
+    "FSelector": [],
     "arm": [
         "lme4",
         "nloptr",
@@ -37942,7 +37938,6 @@
         "tibble",
         "waldo"
     ],
-    "RWeka": [],
     "MSQC": [
         "knitr",
         "rgl",
