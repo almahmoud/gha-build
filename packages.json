@@ -2858,7 +2858,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "SpotClean": [],
     "srnadiff": [
         "DESeq2",
         "Gviz",
