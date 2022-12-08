@@ -20036,7 +20036,6 @@
         "reshape",
         "reshape2",
         "robust",
-        "roptim",
         "rrcov",
         "scales",
         "stringr",
@@ -60165,7 +60164,6 @@
     "robust": [
         "rrcov"
     ],
-    "roptim": [],
     "shinyHeatmaply": [
         "bslib",
         "callr",
