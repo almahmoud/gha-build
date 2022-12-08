@@ -34,18 +34,13 @@
     "CiteFuse": [
         "propr"
     ],
-    "conclus": [
-        "factoextra"
-    ],
+    "conclus": [],
     "CyTOFpower": [
         "CytoGLMM",
         "FlowSOM",
-        "diffcyt",
-        "factoextra"
+        "diffcyt"
     ],
-    "CytoGLMM": [
-        "factoextra"
-    ],
+    "CytoGLMM": [],
     "dasper": [],
     "DeMixT": [
         "DSS"
@@ -80,17 +75,13 @@
     "GeneAccord": [],
     "GenomicSuperSignature": [],
     "GenProSeq": [],
-    "GEOexplorer": [
-        "factoextra"
-    ],
+    "GEOexplorer": [],
     "glmSparseNet": [
         "survminer"
     ],
     "HiCDOC": [],
     "InTAD": [],
-    "InterCellar": [
-        "factoextra"
-    ],
+    "InterCellar": [],
     "iPath": [
         "survminer"
     ],
@@ -100,8 +91,7 @@
         "survminer"
     ],
     "kissDE": [
-        "DSS",
-        "factoextra"
+        "DSS"
     ],
     "LinkHD": [],
     "MEAT": [],
@@ -128,12 +118,8 @@
         "SPONGE"
     ],
     "MQmetrics": [],
-    "MSstatsLiP": [
-        "factoextra"
-    ],
-    "musicatk": [
-        "factoextra"
-    ],
+    "MSstatsLiP": [],
+    "musicatk": [],
     "NBSplice": [
         "mppa"
     ],
@@ -142,9 +128,7 @@
         "dasper"
     ],
     "omicRexposome": [],
-    "OMICsPCA": [
-        "factoextra"
-    ],
+    "OMICsPCA": [],
     "omicsViewer": [
         "survminer"
     ],
@@ -155,14 +139,10 @@
     "PhosR": [],
     "plotGrouper": [],
     "projectR": [],
-    "protGear": [
-        "factoextra"
-    ],
+    "protGear": [],
     "ptairMS": [],
     "rfaRm": [],
-    "RNASeqR": [
-        "factoextra"
-    ],
+    "RNASeqR": [],
     "RnaSeqSampleSize": [],
     "RTCGA": [
         "survminer"
@@ -211,7 +191,6 @@
     "GenomicTools": [],
     "spp": [],
     "propr": [],
-    "factoextra": [],
     "EntropyExplorer": [],
     "SPARQL": [],
     "survminer": [],
