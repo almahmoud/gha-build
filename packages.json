@@ -24233,7 +24233,6 @@
         "vctrs",
         "vroom"
     ],
-    "lapmix": [],
     "ldblock": [
         "httr",
         "openssl"
