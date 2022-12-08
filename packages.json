@@ -2055,7 +2055,6 @@
     "hermes": [
         "DESeq2"
     ],
-    "hiAnnotator": [],
     "HiCBricks": [],
     "HiCDCPlus": [
         "GenomicFeatures",
@@ -2090,9 +2089,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "hipathia": [],
-    "hiReadsProcessor": [
-        "hiAnnotator"
-    ],
+    "hiReadsProcessor": [],
     "HPiP": [
         "caret"
     ],
