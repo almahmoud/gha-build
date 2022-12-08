@@ -340,9 +340,7 @@
         "karyoploteR"
     ],
     "CNVrd2": [],
-    "COCOA": [
-        "MIRA"
-    ],
+    "COCOA": [],
     "cogena": [],
     "cogeqc": [
         "ggtree"
@@ -1367,7 +1365,6 @@
     ],
     "minfi": [],
     "MinimumDistance": [],
-    "MIRA": [],
     "miRLAB": [
         "GOstats"
     ],
