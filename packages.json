@@ -142,7 +142,6 @@
         "biomaRt",
         "regioneR"
     ],
-    "anota": [],
     "anota2seq": [
         "DESeq2",
         "geneplotter"
@@ -7005,7 +7004,6 @@
     "tRanslatome": [
         "DESeq2",
         "GOSemSim",
-        "anota",
         "geneplotter",
         "topGO"
     ],
