@@ -10533,7 +10533,6 @@
         "readr",
         "tidyr"
     ],
-    "stageR": [],
     "STAN": [
         "BSgenome",
         "BiocFileCache",
