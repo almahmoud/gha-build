@@ -5093,7 +5093,6 @@
     "simplifyEnrichment": [
         "GOSemSim"
     ],
-    "sincell": [],
     "single": [],
     "SingleCellSignalR": [
         "scran"
