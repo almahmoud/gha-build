@@ -11269,7 +11269,6 @@
         "genefilter",
         "sva"
     ],
-    "packFinder": [],
     "padma": [
         "FactoMineR",
         "MultiAssayExperiment",
