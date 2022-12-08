@@ -1935,8 +1935,7 @@
     "simpleSeg": [],
     "singleCellTK": [
         "ggtree",
-        "scMerge",
-        "scRNAseq"
+        "scMerge"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
@@ -2372,7 +2371,6 @@
         "rstatix",
         "survminer"
     ],
-    "scRNAseq": [],
     "sampSurf": [],
     "MESS": [],
     "GenKern": [],
