@@ -48,7 +48,6 @@
         "doBy",
         "pbkrtest"
     ],
-    "bandle": [],
     "benchdamic": [
         "ANCOMBC",
         "lmerTest",
