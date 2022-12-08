@@ -58119,7 +58119,6 @@
         "cachem",
         "lifecycle",
         "memoise",
-        "protViz",
         "segmented",
         "seqinr",
         "vctrs"
@@ -75619,7 +75618,6 @@
         "spData"
     ],
     "spData": [],
-    "protViz": [],
     "PRIMME": [],
     "alphahull": [
         "R.utils",
