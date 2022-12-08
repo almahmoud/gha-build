@@ -8696,8 +8696,7 @@
         "labelled",
         "questionr",
         "readr",
-        "tidyr",
-        "yardstick"
+        "tidyr"
     ],
     "OmaDB": [
         "GO.db",
@@ -14793,10 +14792,8 @@
         "labelled",
         "questionr",
         "readr",
-        "tidyr",
-        "yardstick"
+        "tidyr"
     ],
-    "yardstick": [],
     "OMICsPCAdata": [
         "MultiAssayExperiment",
         "tidyr"
