@@ -1614,7 +1614,6 @@
         "GenomicFiles",
         "QuasR"
     ],
-    "SISPA": [],
     "sitePath": [],
     "skewr": [
         "FDb.InfiniumMethylation.hg19",
