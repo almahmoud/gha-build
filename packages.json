@@ -520,7 +520,6 @@
         "tidyr",
         "waldo"
     ],
-    "bacon": [],
     "BadRegionFinder": [
         "BSgenome",
         "BiocFileCache",
