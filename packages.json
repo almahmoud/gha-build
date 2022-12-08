@@ -1110,7 +1110,6 @@
         "GO.db",
         "GOstats",
         "GSEABase",
-        "RCy3",
         "annotate",
         "genefilter"
     ],
@@ -1264,7 +1263,6 @@
         "GO.db",
         "GOSemSim",
         "GenomicTools",
-        "RCy3",
         "annotate",
         "aplot",
         "broom",
@@ -2374,8 +2372,7 @@
         "rtracklayer"
     ],
     "DEGraph": [
-        "NCIgraph",
-        "RCy3"
+        "NCIgraph"
     ],
     "DEGreport": [
         "DESeq2",
@@ -3343,9 +3340,7 @@
         "TSCAN",
         "TrajectoryUtils"
     ],
-    "fedup": [
-        "RCy3"
-    ],
+    "fedup": [],
     "ffpe": [
         "BiocFileCache",
         "FDb.InfiniumMethylation.hg19",
@@ -5277,7 +5272,6 @@
         "DOSE",
         "GO.db",
         "GOSemSim",
-        "RCy3",
         "RecordLinkage",
         "aplot",
         "clusterProfiler",
@@ -5891,9 +5885,7 @@
         "WGCNA"
     ],
     "MOFA2": [],
-    "MOGAMUN": [
-        "RCy3"
-    ],
+    "MOGAMUN": [],
     "mogsa": [
         "GSEABase",
         "annotate",
@@ -6376,9 +6368,7 @@
         "MSnbase",
         "xcms"
     ],
-    "NCIgraph": [
-        "RCy3"
-    ],
+    "NCIgraph": [],
     "ndexr": [],
     "nearBynding": [
         "BiocFileCache",
@@ -6464,7 +6454,6 @@
         "GOstats",
         "GSEABase",
         "GenomicFeatures",
-        "RCy3",
         "STRINGdb",
         "annotate",
         "biomaRt",
@@ -7665,7 +7654,6 @@
         "Rcwl",
         "readr"
     ],
-    "RCy3": [],
     "RDRToolbox": [],
     "ReactomeGraph4R": [
         "neo4r"
@@ -7779,7 +7767,6 @@
         "BiocFileCache",
         "GenomicFeatures",
         "Gviz",
-        "RCy3",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -9712,7 +9699,6 @@
         "GO.db",
         "GOSemSim",
         "MultiAssayExperiment",
-        "RCy3",
         "aplot",
         "biomaRt",
         "clusterProfiler",
@@ -9843,9 +9829,7 @@
         "org.Hs.eg.db",
         "topGO"
     ],
-    "transomics2cytoscape": [
-        "RCy3"
-    ],
+    "transomics2cytoscape": [],
     "TraRe": [
         "vbsr"
     ],
