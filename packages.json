@@ -17752,7 +17752,6 @@
         "BiocFileCache",
         "MultiAssayExperiment",
         "MultiDataSet",
-        "PMCMRplus",
         "RSQLite",
         "SummarizedExperiment",
         "biodb",
@@ -22601,7 +22600,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "NMF",
-        "PMCMRplus",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -26411,7 +26409,6 @@
         "KEGGREST",
         "NMF",
         "OrganismDbi",
-        "PMCMRplus",
         "RSQLite",
         "Rsamtools",
         "SomaticSignatures",
@@ -29410,7 +29407,6 @@
     "opencpu": [
         "knitr"
     ],
-    "PMCMRplus": [],
     "osfr": [
         "tibble"
     ],
