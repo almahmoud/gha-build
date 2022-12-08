@@ -9235,7 +9235,6 @@
         "rtracklayer",
         "viridis"
     ],
-    "motifcounter": [],
     "MotifDb": [
         "GenomicAlignments",
         "rtracklayer"
