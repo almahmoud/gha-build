@@ -101,7 +101,6 @@
         "tidyr",
         "viridis"
     ],
-    "affyILM": [],
     "affylmGUI": [],
     "AGDEX": [
         "GSEABase",
