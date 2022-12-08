@@ -11695,7 +11695,6 @@
         "dplyr",
         "interactiveDisplayBase",
         "multcomp",
-        "servr",
         "shiny",
         "tibble",
         "tidyr"
@@ -30738,7 +30737,6 @@
         "shiny",
         "tibble"
     ],
-    "servr": [],
     "available": [
         "dplyr",
         "tibble",
