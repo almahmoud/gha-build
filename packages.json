@@ -599,7 +599,6 @@
         "ensembldb",
         "karyoploteR"
     ],
-    "CoreGx": [],
     "coseq": [
         "DESeq2",
         "HTSFilter"
@@ -2337,7 +2336,6 @@
         "GOstats"
     ],
     "PDATK": [
-        "CoreGx",
         "car",
         "caret",
         "ggpubr",
@@ -2357,9 +2355,7 @@
     "phantasus": [
         "DESeq2"
     ],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "phenomis": [
         "biodb",
         "biodbChebi"
@@ -2558,9 +2554,7 @@
     "R453Plus1Toolbox": [
         "VariantAnnotation"
     ],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "RandomWalkRestartMH": [],
     "RAREsim": [],
     "RareVariantVis": [
@@ -3254,9 +3248,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
+    "ToxicoGx": [],
     "trackViewer": [
         "Gviz",
         "VariantAnnotation",
@@ -3396,7 +3388,6 @@
     ],
     "xcore": [],
     "Xeva": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "YAPSA": [
