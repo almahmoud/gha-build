@@ -5089,7 +5089,6 @@
     "CONFESS": [
         "Hmisc",
         "contrast",
-        "feature",
         "flowMeans",
         "flowMerge",
         "ggplot2",
@@ -9246,12 +9245,8 @@
     "flowMap": [
         "reshape2"
     ],
-    "flowMeans": [
-        "feature"
-    ],
-    "flowMerge": [
-        "feature"
-    ],
+    "flowMeans": [],
+    "flowMerge": [],
     "flowPloidy": [
         "broom",
         "car",
@@ -18234,7 +18229,6 @@
     ],
     "optimalFlow": [
         "dplyr",
-        "feature",
         "flowMeans",
         "knitr",
         "rgl",
@@ -30053,7 +30047,6 @@
         "tibble",
         "viridis"
     ],
-    "feature": [],
     "airway": [
         "GenomicRanges",
         "SummarizedExperiment"
