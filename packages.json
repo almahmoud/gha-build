@@ -617,9 +617,7 @@
     "ChIPComp": [
         "BSgenome.Hsapiens.UCSC.hg19"
     ],
-    "chipenrich": [
-        "chipenrich.data"
-    ],
+    "chipenrich": [],
     "ChIPexoQual": [
         "GenomicFeatures",
         "VariantAnnotation",
@@ -4912,7 +4910,6 @@
     "ChIC.data": [
         "caret"
     ],
-    "chipenrich.data": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [
         "GenomicFeatures"
     ],
