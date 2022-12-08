@@ -1825,7 +1825,6 @@
         "ggdendro",
         "ggplot2",
         "ggsci",
-        "np",
         "superheat"
     ],
     "biovizBase": [
@@ -23850,11 +23849,9 @@
         "ggplot2"
     ],
     "drtmle": [
-        "SuperLearner",
-        "np"
+        "SuperLearner"
     ],
     "SuperLearner": [],
-    "np": [],
     "biscuiteerData": [
         "AnnotationDbi",
         "AnnotationHub",
