@@ -1677,7 +1677,6 @@
         "testthat",
         "waldo"
     ],
-    "CNORode": [],
     "CNTools": [
         "annotate",
         "genefilter"
@@ -5313,9 +5312,7 @@
         "testthat",
         "waldo"
     ],
-    "MEIGOR": [
-        "CNORode"
-    ],
+    "MEIGOR": [],
     "Melissa": [
         "BPRMeth"
     ],
