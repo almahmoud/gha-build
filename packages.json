@@ -520,7 +520,6 @@
         "rstatix"
     ],
     "exomePeak2": [],
-    "ExperimentHubData": [],
     "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
@@ -935,7 +934,6 @@
         "IlluminaHumanMethylation450kmanifest"
     ],
     "methylclock": [
-        "ExperimentHubData",
         "car",
         "ggpubr",
         "methylclockData",
@@ -1827,9 +1825,7 @@
     ],
     "klaR": [],
     "FlowSorted.Blood.450k": [],
-    "methylclockData": [
-        "ExperimentHubData"
-    ],
+    "methylclockData": [],
     "cvms": [],
     "blme": [],
     "mppa": [],
