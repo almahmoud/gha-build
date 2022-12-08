@@ -10504,7 +10504,6 @@
         "httr",
         "jquerylib",
         "knitr",
-        "kohonen",
         "lifecycle",
         "memoise",
         "mgcv",
@@ -66299,7 +66298,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "kohonen": [],
     "biwt": [],
     "skmeans": [],
     "eulerr": [],
