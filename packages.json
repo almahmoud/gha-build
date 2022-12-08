@@ -3836,9 +3836,7 @@
     ],
     "rfaRm": [],
     "rGADEM": [],
-    "rGenomeTracks": [
-        "rGenomeTracksData"
-    ],
+    "rGenomeTracks": [],
     "RgnTX": [
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -5414,7 +5412,6 @@
     "pwrEWAS.data": [],
     "phastCons100way.UCSC.hg19": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [],
-    "rGenomeTracksData": [],
     "valr": [],
     "caretEnsemble": [
         "caret"
