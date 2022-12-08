@@ -8535,7 +8535,6 @@
         "SummarizedExperiment",
         "annotate"
     ],
-    "gtrellis": [],
     "GUIDEseq": [
         "AnnotationDbi",
         "BSgenome",
@@ -21557,7 +21556,6 @@
         "ggbeeswarm",
         "ggbio",
         "ggplot2",
-        "gtrellis",
         "htmlTable",
         "rtracklayer",
         "tidyr",
