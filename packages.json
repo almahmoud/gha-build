@@ -36888,7 +36888,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "anocva",
         "ape",
         "aplot",
         "askpass",
@@ -92439,7 +92438,6 @@
         "htmlwidgets"
     ],
     "rsm": [],
-    "anocva": [],
     "Polychrome": [],
     "AdaptGauss": [
         "DataVisualizations",
