@@ -6510,7 +6510,6 @@
         "memoise",
         "mgcv",
         "pillar",
-        "plotmo",
         "rmarkdown",
         "sass",
         "scales",
@@ -34259,7 +34258,6 @@
         "memoise",
         "mgcv",
         "pillar",
-        "plotmo",
         "quantreg",
         "rmarkdown",
         "sass",
@@ -72626,10 +72624,7 @@
         "Matrix",
         "survival"
     ],
-    "earth": [
-        "plotmo"
-    ],
-    "plotmo": [],
+    "earth": [],
     "PolynomF": [],
     "GenomicState": [
         "AnnotationDbi",
