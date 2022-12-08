@@ -2440,7 +2440,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "s4vd",
         "testthat",
         "tidyverse",
         "treeio"
@@ -4640,7 +4639,6 @@
         "OrganismDbi"
     ],
     "HardyWeinberg": [],
-    "s4vd": [],
     "BiBitR": [],
     "cvms": [
         "lme4",
