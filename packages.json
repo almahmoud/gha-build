@@ -912,7 +912,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MAI": [],
     "MAIT": [
         "agricolae",
         "klaR"
