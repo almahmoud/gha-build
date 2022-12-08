@@ -633,8 +633,7 @@
     ],
     "condiments": [
         "Ecume",
-        "caret",
-        "distinct"
+        "caret"
     ],
     "CONFESS": [],
     "consensusDE": [
@@ -909,7 +908,6 @@
     ],
     "Dino": [],
     "DiscoRhythm": [],
-    "distinct": [],
     "DMCFB": [
         "arm",
         "lme4",
