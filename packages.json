@@ -1519,7 +1519,6 @@
     ],
     "scDDboost": [],
     "scGPS": [],
-    "scMerge": [],
     "scone": [],
     "scoreInvHap": [],
     "scp": [],
@@ -1576,9 +1575,7 @@
         "survminer"
     ],
     "SigsPack": [],
-    "singleCellTK": [
-        "scMerge"
-    ],
+    "singleCellTK": [],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
         "QuasR"
