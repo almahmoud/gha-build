@@ -19,7 +19,6 @@
         "DESeq2",
         "GOstats",
         "Glimma",
-        "OrganismDbi",
         "ReportingTools",
         "VariantAnnotation",
         "biovizBase",
@@ -32,7 +31,6 @@
         "DESeq2",
         "GOstats",
         "Glimma",
-        "OrganismDbi",
         "ReportingTools",
         "VariantAnnotation",
         "affycoretools",
@@ -63,9 +61,7 @@
         "DESeq2",
         "caret"
     ],
-    "AnnotationHubData": [
-        "OrganismDbi"
-    ],
+    "AnnotationHubData": [],
     "annotatr": [],
     "anota2seq": [
         "DESeq2"
@@ -81,7 +77,6 @@
         "MafDb.1Kgenomes.phase3.hs37d5",
         "MafDb.ExAC.r1.0.hs37d5",
         "MafDb.gnomADex.r2.1.hs37d5",
-        "OrganismDbi",
         "PolyPhen.Hsapiens.dbSNP131",
         "SIFT.Hsapiens.dbSNP137",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -122,7 +117,6 @@
     "ATACCoGAPS": [
         "Homo.sapiens",
         "Mus.musculus",
-        "OrganismDbi",
         "TFBSTools",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -268,7 +262,6 @@
     "biscuiteer": [
         "Homo.sapiens",
         "Mus.musculus",
-        "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "VariantAnnotation",
@@ -290,7 +283,6 @@
     "bnbc": [],
     "bnem": [],
     "BOBaFIT": [
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
@@ -302,7 +294,6 @@
     "brainflowprobes": [
         "GenomicFiles",
         "GenomicState",
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "bumphunter",
@@ -330,7 +321,6 @@
         "ensembldb"
     ],
     "CAFE": [
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
@@ -346,7 +336,6 @@
     ],
     "cageminer": [
         "BioNERO",
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
@@ -828,7 +817,6 @@
     ],
     "derfinderPlot": [
         "GenomicFiles",
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "bumphunter",
@@ -1050,7 +1038,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
         "IlluminaHumanMethylationEPICmanifest",
-        "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -1063,22 +1050,18 @@
     "epistasisGA": [],
     "EpiTxDb": [],
     "epivizr": [
-        "OrganismDbi",
         "bumphunter",
         "ensembldb",
         "epivizrData"
     ],
     "epivizrChart": [
-        "OrganismDbi",
         "ensembldb",
         "epivizrData"
     ],
     "epivizrData": [
-        "OrganismDbi",
         "ensembldb"
     ],
     "epivizrStandalone": [
-        "OrganismDbi",
         "bumphunter",
         "ensembldb",
         "epivizr",
@@ -1087,7 +1070,6 @@
     "erma": [
         "GenomicFiles",
         "Homo.sapiens",
-        "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation"
     ],
@@ -1125,8 +1107,7 @@
         "DESeq2"
     ],
     "ExperimentHubData": [
-        "AnnotationHubData",
-        "OrganismDbi"
+        "AnnotationHubData"
     ],
     "ExperimentSubset": [
         "TreeSummarizedExperiment"
@@ -1176,7 +1157,6 @@
         "CAMERA"
     ],
     "FLAMES": [
-        "OrganismDbi",
         "VariantAnnotation",
         "bambu",
         "biovizBase",
@@ -1329,7 +1309,6 @@
         "ensembldb"
     ],
     "GenomicOZone": [
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
@@ -1386,7 +1365,6 @@
         "pbkrtest"
     ],
     "ggbio": [
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb"
@@ -1452,7 +1430,6 @@
     "gsean": [],
     "GSReg": [
         "Homo.sapiens",
-        "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "GSVA": [],
@@ -1580,7 +1557,6 @@
         "rstatix"
     ],
     "intansv": [
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
@@ -1796,7 +1772,6 @@
     "mCSEA": [
         "Gviz",
         "Homo.sapiens",
-        "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation",
         "biovizBase",
@@ -1893,7 +1868,6 @@
         "EDASeq"
     ],
     "metavizr": [
-        "OrganismDbi",
         "bumphunter",
         "ensembldb",
         "epivizr",
@@ -1926,7 +1900,6 @@
     "methylclock": [
         "AnnotationHubData",
         "ExperimentHubData",
-        "OrganismDbi",
         "bumphunter",
         "car",
         "devtools",
@@ -2151,7 +2124,6 @@
         "QFeatures"
     ],
     "msgbsR": [
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
@@ -2434,7 +2406,6 @@
         "DESeq2"
     ],
     "Organism.dplyr": [],
-    "OrganismDbi": [],
     "orthogene": [
         "car",
         "ggpubr",
@@ -2703,7 +2674,6 @@
         "VariantAnnotation"
     ],
     "R3CPET": [
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
@@ -2785,7 +2755,6 @@
         "Category",
         "DESeq2",
         "GOstats",
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
@@ -2824,7 +2793,6 @@
         "DESeq2"
     ],
     "RiboProfiling": [
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
@@ -3052,7 +3020,6 @@
         "ggraph"
     ],
     "scruff": [
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
@@ -3073,7 +3040,6 @@
         "schex"
     ],
     "scTreeViz": [
-        "OrganismDbi",
         "bumphunter",
         "clustree",
         "ensembldb",
@@ -3218,7 +3184,6 @@
         "sampSurf"
     ],
     "SomaticSignatures": [
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
@@ -3516,7 +3481,6 @@
         "EnsDb.Hsapiens.v86",
         "Gviz",
         "Homo.sapiens",
-        "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "VariantAnnotation",
@@ -3608,7 +3572,6 @@
         "PharmacoGx"
     ],
     "YAPSA": [
-        "OrganismDbi",
         "SomaticSignatures",
         "VariantAnnotation",
         "biovizBase",
@@ -3654,7 +3617,6 @@
     "caret": [],
     "TxDb.Hsapiens.UCSC.hg19.knownGene": [],
     "Homo.sapiens": [
-        "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "MafDb.1Kgenomes.phase3.hs37d5": [],
@@ -3675,7 +3637,6 @@
     "mGSZ": [],
     "tidyverse": [],
     "Mus.musculus": [
-        "OrganismDbi",
         "TxDb.Mmusculus.UCSC.mm10.knownGene"
     ],
     "TxDb.Mmusculus.UCSC.mm10.knownGene": [],
@@ -3835,8 +3796,7 @@
     ],
     "methylclockData": [
         "AnnotationHubData",
-        "ExperimentHubData",
-        "OrganismDbi"
+        "ExperimentHubData"
     ],
     "cvms": [
         "lme4"
