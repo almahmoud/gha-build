@@ -477,8 +477,7 @@
     ],
     "cosmiq": [],
     "cosmosR": [
-        "dorothea",
-        "viper"
+        "dorothea"
     ],
     "countsimQC": [
         "DESeq2"
@@ -661,9 +660,7 @@
         "DESeq2",
         "DEXSeq"
     ],
-    "diggit": [
-        "viper"
-    ],
+    "diggit": [],
     "DMCFB": [
         "arm",
         "lme4"
@@ -710,8 +707,7 @@
         "ggpubr",
         "lme4",
         "pbkrtest",
-        "rstatix",
-        "viper"
+        "rstatix"
     ],
     "EasyCellType": [
         "clusterProfiler",
@@ -2328,23 +2324,20 @@
     "RTN": [
         "car",
         "lme4",
-        "pbkrtest",
-        "viper"
+        "pbkrtest"
     ],
     "RTNduals": [
         "RTN",
         "car",
         "lme4",
-        "pbkrtest",
-        "viper"
+        "pbkrtest"
     ],
     "RTNsurvival": [
         "RTN",
         "RTNduals",
         "car",
         "lme4",
-        "pbkrtest",
-        "viper"
+        "pbkrtest"
     ],
     "RUVSeq": [],
     "sampleClassifier": [],
@@ -2769,7 +2762,6 @@
     "vidger": [
         "DESeq2"
     ],
-    "viper": [],
     "ViSEAGO": [],
     "vissE": [
         "textclean",
@@ -2784,8 +2776,7 @@
         "ChIPpeakAnno",
         "DESeq2",
         "DiffBind",
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "viper"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "waddR": [
         "arm",
@@ -2922,9 +2913,7 @@
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "minfi"
     ],
-    "dorothea": [
-        "viper"
-    ],
+    "dorothea": [],
     "mbest": [
         "lme4"
     ],
