@@ -1478,7 +1478,6 @@
         "methylPipe",
         "topGO"
     ],
-    "CompoundDb": [],
     "ComPrAn": [
         "haven",
         "readr",
@@ -4427,7 +4426,6 @@
         "recipes"
     ],
     "MetaboAnnotation": [
-        "CompoundDb",
         "MultiAssayExperiment",
         "QFeatures",
         "plotly"
