@@ -4033,7 +4033,6 @@
         "BiocFileCache",
         "biomaRt"
     ],
-    "GOfuncR": [],
     "GOpro": [
         "GO.db",
         "MultiAssayExperiment",
