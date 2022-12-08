@@ -1448,7 +1448,6 @@
         "bamsignals",
         "cowplot",
         "doParallel",
-        "ecp",
         "foreach",
         "futile.logger",
         "ggdendro",
@@ -14256,7 +14255,6 @@
         "changepoint",
         "contrast",
         "cytolib",
-        "ecp",
         "feature",
         "flexmix",
         "flowClust",
@@ -79283,7 +79281,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "ecp": [],
     "ReorderCluster": [
         "gplots"
     ],
