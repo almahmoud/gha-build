@@ -1569,7 +1569,6 @@
         "pbkrtest",
         "testthat"
     ],
-    "cydar": [],
     "CyTOFpower": [
         "CytoGLMM",
         "FactoMineR",
