@@ -1146,7 +1146,6 @@
         "dplyr",
         "rtracklayer"
     ],
-    "BCRANK": [],
     "bcSeq": [],
     "BDMMAcorrect": [
         "SummarizedExperiment",
