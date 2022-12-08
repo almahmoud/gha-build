@@ -7850,7 +7850,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "nnls",
         "np",
         "pillar",
         "plyr",
@@ -10335,7 +10334,6 @@
         "munsell",
         "nlme",
         "nloptr",
-        "nnls",
         "pbkrtest",
         "pheatmap",
         "pillar",
@@ -19867,7 +19865,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "nnls",
         "openssl",
         "pillar",
         "png",
@@ -20769,7 +20766,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "nnls",
         "pcaPP",
         "pillar",
         "plyr",
@@ -21242,7 +21238,6 @@
         "munsell",
         "nlme",
         "nloptr",
-        "nnls",
         "openssl",
         "pillar",
         "pkgload",
@@ -27920,7 +27915,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "nnls",
         "openssl",
         "pillar",
         "plyr",
@@ -35814,7 +35808,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "nnls",
         "officer",
         "pander",
         "pheatmap",
@@ -39439,7 +39432,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "nnls",
         "openssl",
         "pheatmap",
         "pillar",
@@ -50457,7 +50449,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "nnls",
         "openssl",
         "org.Hs.eg.db",
         "partykit",
@@ -69414,7 +69405,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "nnls",
         "pillar",
         "plyr",
         "reshape2",
@@ -79471,7 +79461,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "nnls",
         "openssl",
         "pillar",
         "png",
@@ -81151,7 +81140,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "nnls",
         "pillar",
         "plyr",
         "reshape2",
@@ -82823,7 +82811,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "nnls",
         "pillar",
         "plyr",
         "reshape2",
@@ -87592,7 +87579,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "nnls",
         "pillar",
         "plyr",
         "progress",
@@ -89875,8 +89861,7 @@
         "viridisLite"
     ],
     "UNDO": [
-        "Biobase",
-        "nnls"
+        "Biobase"
     ],
     "unifiedWMWqPCR": [
         "Biobase",
@@ -97544,7 +97529,6 @@
         "gam",
         "globals",
         "gplots",
-        "nnls",
         "np",
         "quantreg",
         "survival"
@@ -97555,8 +97539,7 @@
         "cvAUC",
         "foreach",
         "gam",
-        "gplots",
-        "nnls"
+        "gplots"
     ],
     "np": [
         "Matrix",
@@ -97570,7 +97553,6 @@
     "cubature": [
         "Rcpp"
     ],
-    "nnls": [],
     "gam": [
         "foreach"
     ],
@@ -103986,7 +103968,6 @@
         "inum",
         "libcoin",
         "mboost",
-        "nnls",
         "partykit",
         "stabs",
         "survival"
@@ -103995,7 +103976,6 @@
         "Matrix",
         "inum",
         "libcoin",
-        "nnls",
         "partykit",
         "stabs",
         "survival"
