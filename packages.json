@@ -4088,7 +4088,6 @@
         "ggplot2",
         "rtracklayer"
     ],
-    "CRImage": [],
     "crisprBase": [],
     "crisprBowtie": [
         "BSgenome",
