@@ -8940,7 +8940,6 @@
         "textclean",
         "textstem"
     ],
-    "TTMap": [],
     "txcutr": [
         "GenomicFeatures",
         "biomaRt"
