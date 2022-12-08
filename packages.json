@@ -637,7 +637,6 @@
         "DSS",
         "bsseq"
     ],
-    "BPRMeth": [],
     "brainflowprobes": [
         "AnnotationHub",
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -3712,9 +3711,7 @@
         "testthat"
     ],
     "MEIGOR": [],
-    "Melissa": [
-        "BPRMeth"
-    ],
+    "Melissa": [],
     "memes": [
         "cmdfun",
         "testthat"
