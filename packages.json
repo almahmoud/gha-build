@@ -2652,7 +2652,6 @@
     "terraTCGAdata": [
         "TCGAutils"
     ],
-    "TFEA.ChIP": [],
     "TFHAZ": [
         "DESeq2",
         "ORFik"
