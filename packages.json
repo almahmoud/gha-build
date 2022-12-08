@@ -1076,8 +1076,7 @@
     "MAI": [],
     "MAIT": [
         "agricolae",
-        "klaR",
-        "questionr"
+        "klaR"
     ],
     "maPredictDSC": [],
     "maser": [
@@ -1487,8 +1486,7 @@
     ],
     "omada": [
         "diceR",
-        "klaR",
-        "questionr"
+        "klaR"
     ],
     "omicRexposome": [
         "FactoMineR",
@@ -2356,13 +2354,9 @@
         "lme4"
     ],
     "agricolae": [
-        "klaR",
-        "questionr"
+        "klaR"
     ],
-    "klaR": [
-        "questionr"
-    ],
-    "questionr": [],
+    "klaR": [],
     "FlowSorted.Blood.450k": [
         "minfi"
     ],
@@ -2383,8 +2377,7 @@
         "pbkrtest"
     ],
     "diceR": [
-        "klaR",
-        "questionr"
+        "klaR"
     ],
     "AICcmodavg": [
         "lme4",
