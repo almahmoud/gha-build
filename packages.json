@@ -9340,7 +9340,6 @@
     "tradeSeq": [
         "slingshot"
     ],
-    "TrajectoryGeometry": [],
     "transcriptogramer": [
         "BiocFileCache",
         "GO.db",
