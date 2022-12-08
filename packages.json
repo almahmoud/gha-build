@@ -24432,7 +24432,6 @@
         "knitr",
         "lambda.r",
         "latticeExtra",
-        "lavaan",
         "lifecycle",
         "mgcv",
         "munsell",
@@ -91222,7 +91221,6 @@
         "interp",
         "knitr",
         "latticeExtra",
-        "lavaan",
         "lifecycle",
         "mgcv",
         "munsell",
@@ -91238,7 +91236,6 @@
         "vctrs",
         "viridis"
     ],
-    "lavaan": [],
     "RNOmni": [
         "RcppArmadillo",
         "plyr"
