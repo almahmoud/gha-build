@@ -1133,7 +1133,6 @@
         "rstatix",
         "testthat"
     ],
-    "diffHic": [],
     "diffUTR": [
         "DESeq2",
         "DEXSeq",
