@@ -27375,7 +27375,6 @@
         "BiocParallel",
         "DelayedArray",
         "GENIE3",
-        "GeneNet",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -31795,7 +31794,6 @@
         "vctrs"
     ],
     "nethet": [
-        "GeneNet",
         "ICS",
         "ICSNP",
         "RcppEigen",
@@ -46331,7 +46329,6 @@
         "AnnotationDbi",
         "Biostrings",
         "GSEABase",
-        "GeneNet",
         "GenomeInfoDb",
         "KEGGREST",
         "RSQLite",
@@ -57774,7 +57771,6 @@
         "xts"
     ],
     "rebus": [],
-    "GeneNet": [],
     "ggmcmc": [
         "GGally",
         "dplyr",
