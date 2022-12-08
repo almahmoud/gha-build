@@ -283,7 +283,6 @@
     "APL": [
         "GO.db",
         "Seurat",
-        "ggridges",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "patchwork",
@@ -583,7 +582,6 @@
         "rstan"
     ],
     "barcodetrackR": [
-        "ggridges",
         "tidyr"
     ],
     "basecallQC": [
@@ -669,7 +667,6 @@
         "genefilter",
         "geneplotter",
         "ggrastr",
-        "ggridges",
         "lme4",
         "lmerTest",
         "mia",
@@ -1283,7 +1280,6 @@
         "ggforce",
         "ggpubr",
         "ggrastr",
-        "ggridges",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -1394,7 +1390,6 @@
         "Seurat",
         "fgsea",
         "ggrastr",
-        "ggridges",
         "patchwork",
         "plotly",
         "scater",
@@ -1422,7 +1417,6 @@
     ],
     "CellMixS": [
         "ggrastr",
-        "ggridges",
         "scater",
         "scuttle",
         "tidyr"
@@ -1836,7 +1830,6 @@
     "CiteFuse": [
         "ggforce",
         "ggraph",
-        "ggridges",
         "mixtools",
         "plotly",
         "propr",
@@ -3027,7 +3020,6 @@
     ],
     "Dino": [
         "Seurat",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -3053,9 +3045,7 @@
         "scater",
         "scuttle"
     ],
-    "dittoSeq": [
-        "ggridges"
-    ],
+    "dittoSeq": [],
     "DMCFB": [
         "arm",
         "benchmarkme",
@@ -3778,7 +3768,6 @@
         "UCell",
         "annotate",
         "broom",
-        "ggridges",
         "msigdbr",
         "patchwork",
         "tidyr"
@@ -5399,7 +5388,6 @@
     ],
     "infercnv": [
         "Seurat",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -5554,7 +5542,6 @@
         "ggpubr",
         "ggraph",
         "ggrastr",
-        "ggridges",
         "ggsci",
         "ggsignif",
         "ggtree",
@@ -6296,7 +6283,6 @@
         "genefilter"
     ],
     "MesKit": [
-        "ggridges",
         "tidyr"
     ],
     "messina": [],
@@ -6962,7 +6948,6 @@
         "ggplotify",
         "ggpubr",
         "ggraph",
-        "ggridges",
         "ggsci",
         "ggsignif",
         "ggtree",
@@ -7025,7 +7010,6 @@
         "ggplotify",
         "ggpubr",
         "ggraph",
-        "ggridges",
         "ggsci",
         "ggsignif",
         "ggtree",
@@ -7780,7 +7764,6 @@
     ],
     "Nebulosa": [
         "Seurat",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -7966,7 +7949,6 @@
     ],
     "nullranges": [
         "InteractionSet",
-        "ggridges",
         "plyranges",
         "rtracklayer"
     ],
@@ -8677,7 +8659,6 @@
     "pipeComp": [
         "Seurat",
         "ggrastr",
-        "ggridges",
         "patchwork",
         "plotly",
         "scater",
@@ -10196,7 +10177,6 @@
     "Scale4C": [],
     "scAlign": [
         "Seurat",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -10234,7 +10214,6 @@
         "BiocFileCache",
         "Seurat",
         "caret",
-        "ggridges",
         "ipred",
         "patchwork",
         "plotly",
@@ -10263,7 +10242,6 @@
         "annotate",
         "genefilter",
         "geneplotter",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -10275,7 +10253,6 @@
         "aplot",
         "ggfun",
         "ggplotify",
-        "ggridges",
         "ggtree",
         "patchwork",
         "plotly",
@@ -10287,7 +10264,6 @@
     "scCB2": [
         "DropletUtils",
         "Seurat",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -10314,7 +10290,6 @@
     ],
     "scDataviz": [
         "Seurat",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -10359,7 +10334,6 @@
         "Seurat",
         "concaveman",
         "ggforce",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -10373,7 +10347,6 @@
     ],
     "scMAGeCK": [
         "Seurat",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -10522,7 +10495,6 @@
         "ggfun",
         "ggplotify",
         "ggraph",
-        "ggridges",
         "ggtree",
         "graphite",
         "gson",
@@ -10550,7 +10522,6 @@
         "concaveman",
         "fields",
         "ggforce",
-        "ggridges",
         "msigdbr",
         "nnTensor",
         "patchwork",
@@ -10573,7 +10544,6 @@
         "ggforce",
         "ggraph",
         "ggrastr",
-        "ggridges",
         "patchwork",
         "plotly",
         "rtracklayer",
@@ -10829,7 +10799,6 @@
         "ensembldb",
         "genefu",
         "ggpubr",
-        "ggridges",
         "ggsci",
         "ggsignif",
         "ipred",
@@ -10930,7 +10899,6 @@
         "ggfun",
         "ggplotify",
         "ggrastr",
-        "ggridges",
         "ggtree",
         "hgu95a.db",
         "metap",
@@ -11097,7 +11065,6 @@
         "DropletUtils",
         "Seurat",
         "ggrastr",
-        "ggridges",
         "patchwork",
         "plotly",
         "scater",
@@ -11212,7 +11179,6 @@
         "alphahull",
         "colourpicker",
         "dittoSeq",
-        "ggridges",
         "plotly",
         "scuttle",
         "tidyr",
@@ -11294,7 +11260,6 @@
         "cvms",
         "dtplyr",
         "ggpubr",
-        "ggridges",
         "ggsci",
         "ggsignif",
         "googlesheets4",
@@ -11319,7 +11284,6 @@
         "DropletUtils",
         "Seurat",
         "SpatialExperiment",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -11327,9 +11291,7 @@
         "tidyr"
     ],
     "SPOTlight": [],
-    "spqn": [
-        "ggridges"
-    ],
+    "spqn": [],
     "SPsimSeq": [
         "GO.db",
         "Hmisc",
@@ -11375,7 +11337,6 @@
         "geepack",
         "ggforce",
         "ggformula",
-        "ggridges",
         "ggstance",
         "haven",
         "labelled",
@@ -11454,7 +11415,6 @@
         "DropletUtils",
         "Seurat",
         "SpatialExperiment",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -12723,7 +12683,6 @@
     "ipred": [],
     "org.Sc.sgd.db": [],
     "Seurat": [
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -12731,7 +12690,6 @@
     ],
     "org.Hs.eg.db": [],
     "org.Mm.eg.db": [],
-    "ggridges": [],
     "patchwork": [],
     "scattermore": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
@@ -13889,7 +13847,6 @@
     ],
     "SoupX": [
         "Seurat",
-        "ggridges",
         "patchwork",
         "plotly",
         "scattermore",
@@ -13925,7 +13882,6 @@
         "geepack",
         "ggforce",
         "ggformula",
-        "ggridges",
         "ggstance",
         "haven",
         "labelled",
@@ -13935,7 +13891,6 @@
     ],
     "ggformula": [
         "ggforce",
-        "ggridges",
         "ggstance",
         "haven",
         "labelled",
