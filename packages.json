@@ -8022,7 +8022,6 @@
     ],
     "ppcseq": [
         "benchmarkme",
-        "distributional",
         "ggdist",
         "posterior",
         "tidybayes",
@@ -12546,18 +12545,12 @@
     ],
     "C50": [],
     "tidybayes": [
-        "distributional",
         "ggdist",
         "posterior",
         "tidyr"
     ],
-    "ggdist": [
-        "distributional"
-    ],
-    "posterior": [
-        "distributional"
-    ],
-    "distributional": [],
+    "ggdist": [],
+    "posterior": [],
     "phastCons100way.UCSC.hg38": [
         "AnnotationHub",
         "BSgenome",
