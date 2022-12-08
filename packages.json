@@ -122,7 +122,6 @@
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
-    "bambu": [],
     "bandle": [
         "caret",
         "pRoloc"
@@ -940,7 +939,6 @@
     ],
     "FLAMES": [
         "VariantAnnotation",
-        "bambu",
         "biovizBase",
         "ggbio"
     ],
