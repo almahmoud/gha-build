@@ -70956,7 +70956,6 @@
         "XVector",
         "futile.logger",
         "lifecycle",
-        "reportr",
         "stringr",
         "tractor.base",
         "vctrs"
@@ -86465,10 +86464,7 @@
     "animation": [
         "magick"
     ],
-    "tractor.base": [
-        "reportr"
-    ],
-    "reportr": [],
+    "tractor.base": [],
     "vbsr": [],
     "lassopv": [],
     "RPostgreSQL": [],
