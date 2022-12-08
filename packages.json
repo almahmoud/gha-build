@@ -13781,14 +13781,12 @@
         "ggdendro",
         "plotly",
         "rmarkdown",
-        "sangerseqR",
         "shinyWidgets",
         "shinycssloaders",
         "shinydashboard",
         "shinyjs",
         "tidyr"
     ],
-    "sangerseqR": [],
     "sarks": [],
     "satuRn": [],
     "savR": [],
@@ -14058,8 +14056,7 @@
     "scifer": [
         "kableExtra",
         "rmarkdown",
-        "rvest",
-        "sangerseqR"
+        "rvest"
     ],
     "scMAGeCK": [
         "Seurat",
