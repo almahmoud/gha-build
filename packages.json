@@ -15421,7 +15421,6 @@
         "vctrs",
         "viridis"
     ],
-    "factDesign": [],
     "factR": [
         "AnnotationDbi",
         "BiocFileCache",
