@@ -3774,7 +3774,6 @@
         "ttgsea"
     ],
     "VanillaICE": [],
-    "VarCon": [],
     "variancePartition": [
         "lme4",
         "lmerTest",
