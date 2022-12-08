@@ -1476,7 +1476,6 @@
         "scales",
         "shiny",
         "shinyjs",
-        "stable",
         "statip",
         "stringr",
         "survival",
@@ -13050,7 +13049,6 @@
         "phylolm",
         "pillar",
         "scales",
-        "stable",
         "statip",
         "stringr",
         "tibble",
@@ -39786,7 +39784,6 @@
         "rematch2",
         "reshape",
         "scales",
-        "stable",
         "statip",
         "survival",
         "testthat",
@@ -74985,7 +74982,6 @@
         "modeest",
         "pillar",
         "scales",
-        "stable",
         "statip",
         "tibble",
         "vctrs",
@@ -75018,7 +75014,6 @@
     "rex": [],
     "modeest": [
         "fBasics",
-        "stable",
         "statip"
     ],
     "gridSVG": [],
@@ -75028,7 +75023,6 @@
         "here"
     ],
     "fBasics": [],
-    "stable": [],
     "statip": [],
     "clock": [
         "lifecycle",
