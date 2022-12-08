@@ -63596,8 +63596,7 @@
     ],
     "lmdme": [
         "limma",
-        "pls",
-        "stemHypoxia"
+        "pls"
     ],
     "LOBSTAHS": [
         "BH",
@@ -153371,7 +153370,6 @@
         "mgcv",
         "nlme"
     ],
-    "stemHypoxia": [],
     "LogicReg": [
         "Matrix",
         "lattice",
