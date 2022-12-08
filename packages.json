@@ -676,9 +676,7 @@
         "car",
         "pbkrtest"
     ],
-    "GENESIS": [
-        "GWASTools"
-    ],
+    "GENESIS": [],
     "GeneStructureTools": [
         "Gviz",
         "biovizBase"
@@ -762,10 +760,7 @@
         "biovizBase"
     ],
     "gwascat": [],
-    "GWASTools": [],
-    "gwasurvivr": [
-        "GWASTools"
-    ],
+    "gwasurvivr": [],
     "HelloRanges": [],
     "hermes": [],
     "HiCDCPlus": [
@@ -940,9 +935,7 @@
     "MBECS": [
         "lmerTest"
     ],
-    "mBPCR": [
-        "GWASTools"
-    ],
+    "mBPCR": [],
     "mCSEA": [
         "Gviz",
         "Homo.sapiens",
