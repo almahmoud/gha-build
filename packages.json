@@ -2243,7 +2243,6 @@
         "GOstats"
     ],
     "miRSM": [
-        "BiBitR",
         "BicARE",
         "DOSE",
         "ReactomePA",
@@ -4230,7 +4229,6 @@
         "OrganismDbi"
     ],
     "HardyWeinberg": [],
-    "BiBitR": [],
     "cvms": [
         "lme4",
         "nloptr"
