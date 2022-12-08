@@ -25941,7 +25941,6 @@
         "recipes",
         "reshape2",
         "rsample",
-        "slider",
         "tibble",
         "tidyr"
     ],
@@ -32116,11 +32115,9 @@
     ],
     "rsample": [
         "dplyr",
-        "slider",
         "tibble",
         "tidyr"
     ],
-    "slider": [],
     "clustvarsel": [],
     "gstat": [
         "lwgeom",
