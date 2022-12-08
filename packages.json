@@ -2516,7 +2516,6 @@
         "ggbio"
     ],
     "sparrow": [],
-    "spaSim": [],
     "SpatialDecon": [
         "GeomxTools",
         "lme4",
