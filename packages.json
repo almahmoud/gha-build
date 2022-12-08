@@ -479,9 +479,7 @@
         "sva"
     ],
     "CAGEr": [],
-    "CAMERA": [
-        "xcms"
-    ],
+    "CAMERA": [],
     "canceR": [
         "Category",
         "phenoTest"
@@ -714,9 +712,7 @@
         "GenomicFeatures",
         "qpgraph"
     ],
-    "cliqueMS": [
-        "xcms"
-    ],
+    "cliqueMS": [],
     "CluMSID": [],
     "clusterExperiment": [
         "zinbwave"
@@ -884,8 +880,7 @@
         "HTSFilter"
     ],
     "cosmiq": [
-        "faahKO",
-        "xcms"
+        "faahKO"
     ],
     "cosmosR": [
         "dorothea",
@@ -1602,8 +1597,7 @@
         "GenomicFeatures"
     ],
     "flagme": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "FLAMES": [
         "GenomicFeatures",
@@ -2189,8 +2183,7 @@
         "testthat"
     ],
     "IPO": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "IRISFGM": [
         "DOSE",
@@ -2321,8 +2314,7 @@
         "testthat"
     ],
     "LOBSTAHS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "LowMACA": [
         "CNEr",
@@ -2407,8 +2399,7 @@
         "caret",
         "klaR",
         "labelled",
-        "questionr",
-        "xcms"
+        "questionr"
     ],
     "maPredictDSC": [
         "caret"
@@ -2506,9 +2497,7 @@
     "meshr": [
         "Category"
     ],
-    "Metab": [
-        "xcms"
-    ],
+    "Metab": [],
     "metabCombiner": [
         "caret"
     ],
@@ -2544,8 +2533,7 @@
         "ensembldb"
     ],
     "metaMS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "MetaPhOR": [
         "DOSE",
@@ -2844,9 +2832,7 @@
         "testthat"
     ],
     "moanin": [],
-    "MobilityTransformR": [
-        "xcms"
-    ],
+    "MobilityTransformR": [],
     "MODA": [],
     "mogsa": [],
     "MOMA": [],
@@ -3098,9 +3084,7 @@
         "pbkrtest",
         "testthat"
     ],
-    "ncGTW": [
-        "xcms"
-    ],
+    "ncGTW": [],
     "nearBynding": [
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -3510,8 +3494,7 @@
         "testthat"
     ],
     "proFIA": [
-        "ropls",
-        "xcms"
+        "ropls"
     ],
     "profileplyr": [
         "ChIPseeker",
@@ -3859,9 +3842,7 @@
         "karyoploteR",
         "regioneR"
     ],
-    "Risa": [
-        "xcms"
-    ],
+    "Risa": [],
     "RITAN": [
         "BgeeDB",
         "EnsDb.Hsapiens.v86",
@@ -4912,7 +4893,6 @@
     "wppi": [
         "OmnipathR"
     ],
-    "xcms": [],
     "xcore": [],
     "XDE": [
         "GeneMeta"
@@ -5160,9 +5140,7 @@
         "bumphunter",
         "minfi"
     ],
-    "faahKO": [
-        "xcms"
-    ],
+    "faahKO": [],
     "dorothea": [
         "viper"
     ],
