@@ -34367,7 +34367,6 @@
         "pillar",
         "qvalue",
         "rebus",
-        "rebus.datetimes",
         "reshape2",
         "restfulr",
         "rtracklayer",
@@ -73441,10 +73440,7 @@
     "PerformanceAnalytics": [
         "xts"
     ],
-    "rebus": [
-        "rebus.datetimes"
-    ],
-    "rebus.datetimes": [],
+    "rebus": [],
     "mhsmm": [],
     "GeneNet": [],
     "ggmcmc": [
