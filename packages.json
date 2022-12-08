@@ -14044,7 +14044,6 @@
         "scatterpie",
         "shadowtext",
         "sna",
-        "splus2R",
         "statnet.common",
         "stringi",
         "stringr",
@@ -58163,7 +58162,6 @@
         "shiny",
         "siggenes",
         "sparseMatrixStats",
-        "splus2R",
         "stringi",
         "stringr",
         "survival",
@@ -119505,7 +119503,6 @@
         "quantreg",
         "rlang",
         "scales",
-        "splus2R",
         "stringi",
         "stringr",
         "survival",
@@ -119551,7 +119548,6 @@
     "confintr": [
         "boot"
     ],
-    "splus2R": [],
     "broom.mixed": [
         "Matrix",
         "broom",
