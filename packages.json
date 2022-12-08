@@ -1739,9 +1739,7 @@
         "lme4"
     ],
     "POMA": [],
-    "ppcseq": [
-        "tidybayes"
-    ],
+    "ppcseq": [],
     "preciseTAD": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "rCGH"
@@ -2589,7 +2587,6 @@
     "unmarked": [
         "lme4"
     ],
-    "tidybayes": [],
     "phastCons100way.UCSC.hg38": [],
     "EnsDb.Mmusculus.v79": [],
     "EnsDb.Rnorvegicus.v79": [],
