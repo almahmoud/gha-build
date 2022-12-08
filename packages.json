@@ -315,7 +315,6 @@
         "pbkrtest",
         "radiant.data",
         "testthat",
-        "tidygraph",
         "treeio"
     ],
     "BiocDockerManager": [],
@@ -603,7 +602,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidygraph",
         "treeio"
     ],
     "censcyt": [
@@ -621,8 +619,7 @@
     ],
     "Cepo": [],
     "ceRNAnetsim": [
-        "ggraph",
-        "tidygraph"
+        "ggraph"
     ],
     "CeTF": [
         "DESeq2",
@@ -639,7 +636,6 @@
         "pbkrtest",
         "rstatix",
         "testthat",
-        "tidygraph",
         "treeio"
     ],
     "CexoR": [
@@ -731,7 +727,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidygraph",
         "treeio"
     ],
     "ChIPXpress": [
@@ -752,8 +747,7 @@
         "ensembldb"
     ],
     "CIMICE": [
-        "ggraph",
-        "tidygraph"
+        "ggraph"
     ],
     "circRNAprofiler": [
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -770,8 +764,7 @@
     "CiteFuse": [
         "ggraph",
         "mixtools",
-        "propr",
-        "tidygraph"
+        "propr"
     ],
     "ClassifyR": [],
     "cleanUpdTSeq": [
@@ -795,7 +788,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidygraph",
         "treeio"
     ],
     "clustifyr": [],
@@ -904,7 +896,6 @@
         "pbkrtest",
         "rstatix",
         "testthat",
-        "tidygraph",
         "treeio"
     ],
     "condiments": [
@@ -1142,7 +1133,6 @@
         "ggraph",
         "haven",
         "modelr",
-        "tidygraph",
         "tidyverse"
     ],
     "ddPCRclust": [
@@ -1166,7 +1156,6 @@
         "ggtree",
         "heatmaply",
         "sva",
-        "tidygraph",
         "treeio"
     ],
     "DEComplexDisease": [
@@ -1399,7 +1388,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidygraph",
         "treeio"
     ],
     "easyRNASeq": [],
@@ -1430,7 +1418,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidygraph",
         "treeio"
     ],
     "EGAD": [
@@ -1473,7 +1460,6 @@
         "DOSE",
         "ggraph",
         "ggtree",
-        "tidygraph",
         "treeio"
     ],
     "enrichTF": [
@@ -1493,7 +1479,6 @@
         "pipeFrame",
         "rstatix",
         "testthat",
-        "tidygraph",
         "treeio"
     ],
     "ensembldb": [
@@ -1514,7 +1499,6 @@
         "genomation",
         "ggraph",
         "ggtree",
-        "tidygraph",
         "treeio"
     ],
     "epidecodeR": [
@@ -1543,7 +1527,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidygraph",
         "treeio"
     ],
     "EpiMix": [
@@ -1628,7 +1611,6 @@
         "ggtree",
         "motifmatchr",
         "pipeFrame",
-        "tidygraph",
         "treeio"
     ],
     "escape": [
@@ -1694,7 +1676,6 @@
         "ggraph",
         "ggtree",
         "gprofiler2",
-        "tidygraph",
         "treeio"
     ],
     "fastLiquidAssociation": [
@@ -1712,7 +1693,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidygraph",
         "treeio"
     ],
     "fcScan": [
@@ -1797,8 +1777,7 @@
     "fobitools": [
         "ggraph",
         "lexicon",
-        "textclean",
-        "tidygraph"
+        "textclean"
     ],
     "FoldGO": [
         "topGO"
@@ -1888,7 +1867,6 @@
         "rstatix",
         "survminer",
         "testthat",
-        "tidygraph",
         "treeio"
     ],
     "gemini": [
@@ -2109,7 +2087,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidygraph",
         "treeio"
     ],
     "goSTAG": [],
@@ -2297,8 +2274,7 @@
     "imcRtools": [
         "SpatialExperiment",
         "cytomapper",
-        "ggraph",
-        "tidygraph"
+        "ggraph"
     ],
     "ImmuneSpaceR": [
         "heatmaply"
@@ -2388,7 +2364,6 @@
         "pbkrtest",
         "rstatix",
         "testthat",
-        "tidygraph",
         "treeio"
     ],
     "ISAnalytics": [
@@ -2595,7 +2570,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidygraph",
         "treeio"
     ],
     "MAI": [
@@ -2709,7 +2683,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidygraph",
         "treeio"
     ],
     "meshr": [
@@ -2762,7 +2735,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidygraph",
         "treeio"
     ],
     "metaseqR2": [
@@ -2858,7 +2830,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "tidygraph",
         "treeio"
     ],
     "methylInheritance": [],
@@ -2903,7 +2874,6 @@
         "ggraph",
         "ggtree",
         "mia",
-        "tidygraph",
         "treeio"
     ],
     "microbiomeExplorer": [
@@ -2934,7 +2904,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidygraph",
         "treeio"
     ],
     "MicrobiotaProcess": [
@@ -2951,8 +2920,7 @@
         "GOstats"
     ],
     "miloR": [
-        "ggraph",
-        "tidygraph"
+        "ggraph"
     ],
     "MIMOSA": [
         "testthat"
@@ -3012,7 +2980,6 @@
         "s4vd",
         "subspace",
         "testthat",
-        "tidygraph",
         "tidyverse",
         "treeio"
     ],
@@ -3035,7 +3002,6 @@
         "pbkrtest",
         "rstatix",
         "testthat",
-        "tidygraph",
         "tidyverse",
         "treeio"
     ],
@@ -3102,7 +3068,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidygraph",
         "treeio"
     ],
     "mosbi": [
@@ -3262,7 +3227,6 @@
         "ggtree",
         "ropls",
         "testthat",
-        "tidygraph",
         "treeio"
     ],
     "mumosa": [],
@@ -3382,7 +3346,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidygraph",
         "treeio"
     ],
     "netDx": [],
@@ -3617,7 +3580,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidygraph",
         "treeio"
     ],
     "pareg": [
@@ -3625,8 +3587,7 @@
         "ggraph",
         "nloptr",
         "testthat",
-        "tfprobability",
-        "tidygraph"
+        "tfprobability"
     ],
     "PathoStat": [
         "DESeq2",
@@ -3665,7 +3626,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidygraph",
         "treeio"
     ],
     "phantasus": [
@@ -3723,7 +3683,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidygraph",
         "treeio"
     ],
     "PING": [
@@ -3827,7 +3786,6 @@
         "ggtree",
         "rGREAT",
         "soGGi",
-        "tidygraph",
         "treeio"
     ],
     "progeny": [
@@ -4028,7 +3986,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidygraph",
         "treeio"
     ],
     "rebook": [],
@@ -4287,7 +4244,6 @@
         "sva",
         "systemPipeR",
         "testthat",
-        "tidygraph",
         "treeio"
     ],
     "RnaSeqSampleSize": [
@@ -4429,8 +4385,7 @@
     "scClassify": [
         "Cepo",
         "ggraph",
-        "mixtools",
-        "tidygraph"
+        "mixtools"
     ],
     "sccomp": [],
     "scDataviz": [
@@ -4493,8 +4448,7 @@
         "Rmagic"
     ],
     "scRepertoire": [
-        "ggraph",
-        "tidygraph"
+        "ggraph"
     ],
     "scruff": [
         "GenomicFeatures",
@@ -4516,7 +4470,6 @@
         "heatmaply",
         "meshr",
         "schex",
-        "tidygraph",
         "treeio"
     ],
     "scTGIF": [
@@ -4532,8 +4485,7 @@
         "ensembldb",
         "epivizr",
         "epivizrData",
-        "ggraph",
-        "tidygraph"
+        "ggraph"
     ],
     "segmenter": [
         "ChIPseeker",
@@ -4543,7 +4495,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidygraph",
         "treeio"
     ],
     "selectKSigs": [
@@ -4610,7 +4561,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidygraph",
         "treeio"
     ],
     "signeR": [
@@ -4845,8 +4795,7 @@
         "testthat"
     ],
     "sSNAPPY": [
-        "ggraph",
-        "tidygraph"
+        "ggraph"
     ],
     "ssPATHS": [
         "MESS",
@@ -5021,7 +4970,6 @@
         "sesame",
         "sesameData",
         "testthat",
-        "tidygraph",
         "treeio"
     ],
     "TCGAutils": [
@@ -5071,7 +5019,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidygraph",
         "treeio"
     ],
     "TIN": [],
@@ -5285,8 +5232,7 @@
         "lexicon",
         "msigdb",
         "textclean",
-        "textstem",
-        "tidygraph"
+        "textstem"
     ],
     "Voyager": [
         "SpatialExperiment",
@@ -5501,10 +5447,7 @@
         "testthat"
     ],
     "DiagrammeR": [],
-    "ggraph": [
-        "tidygraph"
-    ],
-    "tidygraph": [],
+    "ggraph": [],
     "synaptome.db": [
         "synaptome.data"
     ],
@@ -5868,8 +5811,7 @@
     ],
     "Rmagic": [],
     "clustree": [
-        "ggraph",
-        "tidygraph"
+        "ggraph"
     ],
     "survivalAnalysis": [
         "car",
