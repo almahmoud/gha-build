@@ -4940,7 +4940,6 @@
         "tidygraph",
         "treeio"
     ],
-    "segmentSeq": [],
     "selectKSigs": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicFeatures",
