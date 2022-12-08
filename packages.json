@@ -2372,7 +2372,6 @@
     "scGPS": [
         "DESeq2"
     ],
-    "schex": [],
     "scMAGeCK": [],
     "scMerge": [],
     "scmeth": [],
@@ -2400,12 +2399,9 @@
         "ReactomePA",
         "enrichplot",
         "ggtree",
-        "meshr",
-        "schex"
+        "meshr"
     ],
-    "scTGIF": [
-        "schex"
-    ],
+    "scTGIF": [],
     "scTreeViz": [
         "clustree",
         "epivizr",
