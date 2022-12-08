@@ -37950,7 +37950,6 @@
         "tzdb",
         "vctrs"
     ],
-    "metabinR": [],
     "MetaboAnnotation": [
         "AnnotationFilter",
         "Biobase",
