@@ -873,8 +873,7 @@
         "ensembldb"
     ],
     "consensusOV": [
-        "GSVA",
-        "genefu"
+        "GSVA"
     ],
     "consICA": [],
     "contiBAIT": [
@@ -1802,7 +1801,6 @@
     "geneAttribution": [
         "GenomicFeatures"
     ],
-    "genefu": [],
     "GeneGeneInteR": [
         "FactoMineR",
         "car",
@@ -3468,7 +3466,6 @@
         "CoreGx",
         "car",
         "caret",
-        "genefu",
         "ggpubr",
         "lme4",
         "nloptr",
@@ -4418,7 +4415,6 @@
         "car",
         "consensusOV",
         "ensembldb",
-        "genefu",
         "ggpubr",
         "lme4",
         "nloptr",
