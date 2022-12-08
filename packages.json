@@ -6833,9 +6833,7 @@
     "graphite": [
         "AnnotationDbi"
     ],
-    "GraphPAC": [
-        "iPAC"
-    ],
+    "GraphPAC": [],
     "GRENITS": [],
     "GreyListChIP": [
         "BSgenome",
@@ -7645,7 +7643,6 @@
         "ShortRead",
         "tidyr"
     ],
-    "iPAC": [],
     "iPath": [
         "broom",
         "car",
@@ -12699,8 +12696,7 @@
     ],
     "QuartPAC": [
         "GraphPAC",
-        "SpacePAC",
-        "iPAC"
+        "SpacePAC"
     ],
     "QuasR": [
         "AnnotationDbi",
@@ -15358,9 +15354,7 @@
         "tidyr",
         "viridis"
     ],
-    "SpacePAC": [
-        "iPAC"
-    ],
+    "SpacePAC": [],
     "Spaniel": [
         "DropletUtils",
         "Seurat",
