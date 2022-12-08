@@ -2346,7 +2346,6 @@
         "MultiAssayExperiment",
         "biomaRt"
     ],
-    "fishpond": [],
     "flagme": [
         "CAMERA",
         "xcms"
@@ -6352,7 +6351,6 @@
         "celda",
         "celldex",
         "ensembldb",
-        "fishpond",
         "genefilter",
         "geneplotter",
         "ggtree",
