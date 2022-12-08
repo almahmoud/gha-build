@@ -5433,7 +5433,6 @@
     "SWATH2stats": [],
     "synapter": [],
     "synergyfinder": [
-        "SpatialExtremes",
         "car",
         "drc",
         "haven",
@@ -6492,7 +6491,6 @@
         "haven",
         "labelled"
     ],
-    "SpatialExtremes": [],
     "GenKern": [],
     "bestNormalize": [],
     "naniar": [
