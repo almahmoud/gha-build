@@ -10185,7 +10185,6 @@
         "ggplot2",
         "ggthemes",
         "knitr",
-        "knn.covertree",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -45663,7 +45662,6 @@
         "vctrs",
         "waldo"
     ],
-    "knn.covertree": [],
     "NBPSeq": [
         "ggplot2",
         "pillar",
