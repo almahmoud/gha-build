@@ -73,9 +73,7 @@
         "ggpubr"
     ],
     "ddPCRclust": [],
-    "DeepPINCS": [
-        "ttgsea"
-    ],
+    "DeepPINCS": [],
     "DeMixT": [
         "DSS"
     ],
@@ -139,8 +137,7 @@
         "ggpubr"
     ],
     "GenProSeq": [
-        "DeepPINCS",
-        "ttgsea"
+        "DeepPINCS"
     ],
     "GEOexplorer": [
         "factoextra",
@@ -384,10 +381,8 @@
         "diffcyt",
         "ggpubr"
     ],
-    "ttgsea": [],
     "VAExprs": [
-        "DeepPINCS",
-        "ttgsea"
+        "DeepPINCS"
     ],
     "vissE": [],
     "wateRmelon": [],
