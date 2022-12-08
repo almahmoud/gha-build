@@ -14,7 +14,6 @@
     ],
     "abseqR": [
         "BiocStyle",
-        "bookdown",
         "plotly",
         "tidyr"
     ],
@@ -419,7 +418,6 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "bookdown",
         "ensembldb",
         "rtracklayer",
         "tidyr"
@@ -592,7 +590,6 @@
         "MSnbase",
         "annotate",
         "biomaRt",
-        "bookdown",
         "caret",
         "dendextend",
         "genefilter",
@@ -875,12 +872,9 @@
         "tidyr"
     ],
     "BiocSklearn": [],
-    "BiocStyle": [
-        "bookdown"
-    ],
+    "BiocStyle": [],
     "BiocWorkflowTools": [
-        "BiocStyle",
-        "bookdown"
+        "BiocStyle"
     ],
     "biodb": [
         "BiocFileCache",
@@ -1122,8 +1116,7 @@
         "rtracklayer"
     ],
     "BPRMeth": [
-        "BiocStyle",
-        "bookdown"
+        "BiocStyle"
     ],
     "brainflowprobes": [
         "AnnotationHub",
@@ -1199,7 +1192,6 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "bookdown",
         "ensembldb",
         "rtracklayer"
     ],
@@ -1712,7 +1704,6 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "bookdown",
         "ensembldb",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -2228,7 +2219,6 @@
     ],
     "COMPASS": [
         "BiocStyle",
-        "bookdown",
         "tidyr"
     ],
     "compcodeR": [],
@@ -2906,7 +2896,6 @@
     ],
     "deco": [
         "BiocStyle",
-        "bookdown",
         "made4"
     ],
     "DEComplexDisease": [
@@ -3217,7 +3206,6 @@
     "DiscoRhythm": [
         "BiocStyle",
         "UpSetR",
-        "bookdown",
         "broom",
         "colourpicker",
         "dendextend",
@@ -4100,8 +4088,7 @@
         "tidyr"
     ],
     "ExpressionAtlas": [
-        "BiocStyle",
-        "bookdown"
+        "BiocStyle"
     ],
     "extraChIPs": [
         "BSgenome",
@@ -4721,7 +4708,6 @@
         "BiocStyle",
         "GO.db",
         "GenomicAlignments",
-        "bookdown",
         "org.Rn.eg.db",
         "rtracklayer"
     ],
@@ -6575,8 +6561,7 @@
     ],
     "Melissa": [
         "BPRMeth",
-        "BiocStyle",
-        "bookdown"
+        "BiocStyle"
     ],
     "memes": [
         "cmdfun",
@@ -6620,7 +6605,6 @@
         "GSEABase",
         "MeSHDbi",
         "annotate",
-        "bookdown",
         "genefilter"
     ],
     "MesKit": [
@@ -6758,7 +6742,6 @@
         "ShortRead",
         "annotate",
         "biomaRt",
-        "bookdown",
         "bsseq",
         "dendextend",
         "egg",
@@ -7727,7 +7710,6 @@
         "BiocFileCache",
         "BiocStyle",
         "MSnbase",
-        "bookdown",
         "msmsEDA",
         "msmsTests",
         "qvalue",
@@ -8234,7 +8216,6 @@
     ],
     "netresponse": [
         "BiocStyle",
-        "bookdown",
         "qvalue"
     ],
     "NetSAM": [
@@ -8804,7 +8785,6 @@
         "BiocStyle",
         "DESeq2",
         "annotate",
-        "bookdown",
         "devtools",
         "geneplotter",
         "phyloseq",
@@ -9019,7 +8999,6 @@
         "ExperimentHub",
         "GO.db",
         "OmaDB",
-        "bookdown",
         "colourpicker",
         "topGO"
     ],
@@ -9053,7 +9032,6 @@
         "ReactomePA",
         "WGCNA",
         "aplot",
-        "bookdown",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -9210,7 +9188,6 @@
         "BiocStyle",
         "GenomicAlignments",
         "RPA",
-        "bookdown",
         "phyloseq"
     ],
     "preciseTAD": [
@@ -9842,8 +9819,7 @@
         "treeio"
     ],
     "rebook": [
-        "BiocStyle",
-        "bookdown"
+        "BiocStyle"
     ],
     "receptLoss": [
         "tidyr"
@@ -9948,7 +9924,6 @@
         "VariantAnnotation",
         "annotate",
         "biomaRt",
-        "bookdown",
         "bumphunter",
         "derfinder",
         "geneplotter",
@@ -10280,7 +10255,6 @@
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "annotate",
         "biomaRt",
-        "bookdown",
         "devtools",
         "geneplotter",
         "org.Mm.eg.db",
@@ -10513,7 +10487,6 @@
     ],
     "RPA": [
         "BiocStyle",
-        "bookdown",
         "phyloseq"
     ],
     "rprimer": [
@@ -10534,7 +10507,6 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "bookdown",
         "ensembldb",
         "rtracklayer"
     ],
@@ -10691,7 +10663,6 @@
     ],
     "sangeranalyseR": [
         "BiocStyle",
-        "bookdown",
         "plotly",
         "tidyr"
     ],
@@ -10699,7 +10670,6 @@
     "savR": [],
     "SBGNview": [
         "SBGNview.data",
-        "bookdown",
         "org.Hs.eg.db",
         "pathview"
     ],
@@ -10905,7 +10875,6 @@
     ],
     "scMET": [
         "BiocStyle",
-        "bookdown",
         "rstan"
     ],
     "scmeth": [
@@ -11032,7 +11001,6 @@
         "Seurat",
         "annotate",
         "aplot",
-        "bookdown",
         "ccTensor",
         "concaveman",
         "dendextend",
@@ -11071,7 +11039,6 @@
         "GSEABase",
         "Seurat",
         "annotate",
-        "bookdown",
         "concaveman",
         "fields",
         "ggforce",
@@ -11912,7 +11879,6 @@
         "annotate",
         "biomaRt",
         "biovizBase",
-        "bookdown",
         "devtools",
         "ensembldb",
         "geneplotter",
@@ -13232,7 +13198,6 @@
     "plotly": [
         "tidyr"
     ],
-    "bookdown": [],
     "tidyr": [],
     "ggpubr": [
         "broom",
@@ -14225,9 +14190,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "rmdformats": [
-        "bookdown"
-    ],
+    "rmdformats": [],
     "sesameData": [
         "AnnotationHub",
         "BiocFileCache",
@@ -14504,9 +14467,7 @@
     ],
     "TBX20BamSubset": [],
     "GENLIB": [],
-    "SBGNview.data": [
-        "bookdown"
-    ],
+    "SBGNview.data": [],
     "scanMiRData": [
         "ggseqlogo",
         "scanMiR"
