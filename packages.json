@@ -7516,7 +7516,6 @@
         "shinydashboard",
         "shinyjs",
         "shinythemes",
-        "shinyvalidate",
         "sortable",
         "tidyr",
         "vroom"
@@ -17650,7 +17649,6 @@
         "learnr"
     ],
     "bsplus": [],
-    "shinyvalidate": [],
     "learnr": [],
     "reldist": [
         "densEstBayes",
