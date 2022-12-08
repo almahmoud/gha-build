@@ -1214,7 +1214,6 @@
         "nloptr",
         "testthat"
     ],
-    "dpeak": [],
     "drawProteins": [],
     "drugTargetInteractions": [
         "GenomicFeatures",
