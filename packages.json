@@ -42153,7 +42153,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "cvTools",
         "ggplot2",
         "ggseqlogo",
         "mgcv",
@@ -57167,7 +57166,6 @@
         "vctrs",
         "viridis"
     ],
-    "cvTools": [],
     "adehabitatLT": [],
     "rbokeh": [
         "bslib",
