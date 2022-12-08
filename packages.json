@@ -2507,7 +2507,6 @@
         "GSEABase",
         "genefilter"
     ],
-    "GladiaTOX": [],
     "Glimma": [
         "DESeq2",
         "geneplotter"
