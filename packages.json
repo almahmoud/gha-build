@@ -1597,7 +1597,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylationEPICmanifest",
-        "SmartSVA",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation",
         "biovizBase",
@@ -2113,7 +2112,6 @@
     ],
     "omicRexposome": [
         "FactoMineR",
-        "SmartSVA",
         "car",
         "lme4",
         "pbkrtest",
@@ -3383,7 +3381,6 @@
         "questionr"
     ],
     "questionr": [],
-    "SmartSVA": [],
     "EnsDb.Hsapiens.v75": [],
     "sesameData": [],
     "FlowSorted.Blood.450k": [
