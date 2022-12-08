@@ -3162,7 +3162,6 @@
     "bnem": [
         "AnnotationDbi",
         "Biostrings",
-        "BoolNet",
         "CellNOptR",
         "KEGGREST",
         "Linnorm",
@@ -7837,7 +7836,6 @@
     "dce": [
         "AnnotationDbi",
         "Biostrings",
-        "BoolNet",
         "KEGGREST",
         "Linnorm",
         "RSQLite",
@@ -10391,7 +10389,6 @@
         "vroom"
     ],
     "epiNEM": [
-        "BoolNet",
         "Linnorm",
         "ggdendro",
         "ggplot2",
@@ -21738,7 +21735,6 @@
     ],
     "NeighborNet": [],
     "nempi": [
-        "BoolNet",
         "Linnorm",
         "epiNEM",
         "ggdendro",
@@ -37325,7 +37321,6 @@
     "randomcoloR": [
         "stringr"
     ],
-    "BoolNet": [],
     "pcalg": [],
     "gamlss": [],
     "GenomicState": [
