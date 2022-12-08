@@ -36792,7 +36792,6 @@
         "R.huge",
         "R.rsp",
         "R.utils",
-        "ROTS",
         "RSQLite",
         "XVector",
         "annotate",
@@ -43385,7 +43384,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
-        "ROTS",
         "SummarizedExperiment",
         "XVector",
         "doParallel",
@@ -43445,7 +43443,6 @@
     "ROSeq": [
         "edgeR"
     ],
-    "ROTS": [],
     "RPA": [
         "BiocStyle",
         "Biostrings",
