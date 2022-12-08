@@ -54,10 +54,7 @@
     "methylSig": [
         "DSS"
     ],
-    "miRSM": [
-        "miRspongeR"
-    ],
-    "miRspongeR": [],
+    "miRSM": [],
     "musicatk": [],
     "NBSplice": [
         "mppa"
