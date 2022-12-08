@@ -7549,7 +7549,6 @@
         "annotate"
     ],
     "GeneRegionScan": [],
-    "geneRxCluster": [],
     "GENESIS": [
         "GWASTools",
         "SeqArray",
