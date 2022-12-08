@@ -10688,7 +10688,6 @@
         "phyloseq",
         "tidyr"
     ],
-    "SimFFPE": [],
     "simpleSeg": [
         "BiocFileCache",
         "DropletUtils",
