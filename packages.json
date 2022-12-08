@@ -44817,7 +44817,6 @@
         "Rsamtools",
         "XVector",
         "stringr",
-        "tractor.base",
         "vctrs"
     ],
     "trackViewer": [
@@ -54061,7 +54060,6 @@
         "vctrs",
         "vroom"
     ],
-    "tractor.base": [],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
