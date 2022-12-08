@@ -26462,7 +26462,6 @@
         "GenomicRanges",
         "Rsamtools",
         "SummarizedExperiment",
-        "bamlss",
         "ggplot2",
         "rtracklayer",
         "tibble"
@@ -33691,7 +33690,6 @@
         "miRNAtap",
         "sqldf"
     ],
-    "bamlss": [],
     "dml": [
         "lfda"
     ],
