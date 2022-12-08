@@ -1899,7 +1899,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "omicsPrint": [],
     "omicsViewer": [
         "car",
         "ggpubr",
