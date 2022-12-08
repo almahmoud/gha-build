@@ -153,7 +153,6 @@
         "future.apply",
         "ggplot2",
         "lifecycle",
-        "marray",
         "mgcv",
         "pillar",
         "scales",
@@ -2219,9 +2218,7 @@
         "vctrs",
         "vroom"
     ],
-    "arrayQuality": [
-        "marray"
-    ],
+    "arrayQuality": [],
     "arrayQualityMetrics": [
         "AnnotationDbi",
         "Biostrings",
@@ -2303,7 +2300,6 @@
         "httr",
         "lifecycle",
         "lme4",
-        "marray",
         "memoise",
         "mgcv",
         "nloptr",
@@ -6039,7 +6035,6 @@
         "interactiveDisplayBase",
         "jquerylib",
         "lifecycle",
-        "marray",
         "memoise",
         "mgcv",
         "openssl",
@@ -9145,12 +9140,9 @@
         "Matrix",
         "survival"
     ],
-    "CGHbase": [
-        "marray"
-    ],
+    "CGHbase": [],
     "CGHcall": [
-        "CGHbase",
-        "marray"
+        "CGHbase"
     ],
     "cghMCR": [
         "AnnotationDbi",
@@ -9177,12 +9169,10 @@
     ],
     "CGHnormaliter": [
         "CGHbase",
-        "CGHcall",
-        "marray"
+        "CGHcall"
     ],
     "CGHregions": [
-        "CGHbase",
-        "marray"
+        "CGHbase"
     ],
     "ChAMP": [
         "AnnotationDbi",
@@ -9271,7 +9261,6 @@
         "latticeExtra",
         "lifecycle",
         "lumi",
-        "marray",
         "memoise",
         "methylumi",
         "mgcv",
@@ -12319,7 +12308,6 @@
         "knitr",
         "latticeExtra",
         "lifecycle",
-        "marray",
         "memoise",
         "methylPipe",
         "mgcv",
@@ -12988,9 +12976,7 @@
         "vctrs",
         "vroom"
     ],
-    "convert": [
-        "marray"
-    ],
+    "convert": [],
     "copa": [],
     "copynumber": [
         "GenomeInfoDb",
@@ -13150,7 +13136,6 @@
         "igraph",
         "jquerylib",
         "lifecycle",
-        "marray",
         "memoise",
         "mgcv",
         "piano",
@@ -18439,9 +18424,7 @@
         "Matrix",
         "Rsubread"
     ],
-    "dyebias": [
-        "marray"
-    ],
+    "dyebias": [],
     "easier": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -23959,8 +23942,7 @@
         "XVector",
         "futile.logger",
         "future",
-        "future.apply",
-        "marray"
+        "future.apply"
     ],
     "geneClassifiers": [],
     "GeneExpressionSignature": [],
@@ -27990,7 +27972,6 @@
         "future.apply",
         "ggplot2",
         "lifecycle",
-        "marray",
         "mgcv",
         "pheatmap",
         "pillar",
@@ -28115,7 +28096,6 @@
         "knitr",
         "lifecycle",
         "lme4",
-        "marray",
         "memoise",
         "mgcv",
         "miniUI",
@@ -33176,8 +33156,7 @@
     ],
     "maigesPack": [
         "convert",
-        "graph",
-        "marray"
+        "graph"
     ],
     "MAIT": [
         "BiocParallel",
@@ -33380,7 +33359,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "marray": [],
     "martini": [
         "Matrix",
         "RcppEigen",
@@ -36149,7 +36127,6 @@
         "knitr",
         "latticeExtra",
         "lifecycle",
-        "marray",
         "memoise",
         "mgcv",
         "openssl",
@@ -37421,7 +37398,6 @@
         "lifecycle",
         "lumi",
         "lumiHumanAll.db",
-        "marray",
         "memoise",
         "methylumi",
         "mgcv",
@@ -39974,7 +39950,6 @@
         "gplots",
         "lifecycle",
         "lme4",
-        "marray",
         "mgcv",
         "nloptr",
         "pillar",
@@ -40042,7 +40017,6 @@
         "lme4",
         "lmerTest",
         "lubridate",
-        "marray",
         "memoise",
         "mgcv",
         "modelr",
@@ -40110,7 +40084,6 @@
         "lifecycle",
         "lme4",
         "lmerTest",
-        "marray",
         "mgcv",
         "nloptr",
         "pillar",
@@ -40247,7 +40220,6 @@
         "lifecycle",
         "lme4",
         "lubridate",
-        "marray",
         "mgcv",
         "nloptr",
         "pROC",
@@ -40304,7 +40276,6 @@
         "lifecycle",
         "lme4",
         "lmerTest",
-        "marray",
         "memoise",
         "mgcv",
         "nloptr",
@@ -40343,7 +40314,6 @@
         "lifecycle",
         "lme4",
         "lmerTest",
-        "marray",
         "mgcv",
         "nloptr",
         "pillar",
@@ -40634,7 +40604,6 @@
         "future.apply",
         "ggplot2",
         "lifecycle",
-        "marray",
         "mgcv",
         "pheatmap",
         "pillar",
@@ -42633,9 +42602,7 @@
         "vctrs",
         "vroom"
     ],
-    "nnNorm": [
-        "marray"
-    ],
+    "nnNorm": [],
     "nnSVG": [
         "BRISC",
         "BiocFileCache",
@@ -43362,12 +43329,9 @@
         "memoise",
         "vctrs"
     ],
-    "OLIN": [
-        "marray"
-    ],
+    "OLIN": [],
     "OLINgui": [
         "OLIN",
-        "marray",
         "tkWidgets"
     ],
     "omada": [
@@ -45614,7 +45578,6 @@
         "lmtest",
         "lubridate",
         "markdown",
-        "marray",
         "memoise",
         "mgcv",
         "nloptr",
@@ -46078,7 +46041,6 @@
         "jquerylib",
         "lifecycle",
         "magicaxis",
-        "marray",
         "memoise",
         "mgcv",
         "piano",
@@ -46577,7 +46539,6 @@
         "igraph",
         "jquerylib",
         "lifecycle",
-        "marray",
         "memoise",
         "mgcv",
         "pillar",
@@ -49238,8 +49199,7 @@
         "XVector",
         "futile.logger",
         "future",
-        "future.apply",
-        "marray"
+        "future.apply"
     ],
     "QFeatures": [
         "AnnotationFilter",
@@ -49994,7 +49954,6 @@
         "jquerylib",
         "lifecycle",
         "magicaxis",
-        "marray",
         "memoise",
         "mgcv",
         "piano",
@@ -50246,9 +50205,7 @@
         "graph"
     ],
     "rBiopaxParser": [],
-    "RBM": [
-        "marray"
-    ],
+    "RBM": [],
     "Rbowtie2": [
         "BiocParallel",
         "Biostrings",
@@ -61099,7 +61056,6 @@
         "future.apply",
         "ggplot2",
         "lifecycle",
-        "marray",
         "mgcv",
         "pheatmap",
         "pillar",
@@ -62577,9 +62533,7 @@
         "vctrs",
         "viridis"
     ],
-    "stepNorm": [
-        "marray"
-    ],
+    "stepNorm": [],
     "stJoincount": [
         "BiocFileCache",
         "BiocParallel",
@@ -63777,7 +63731,6 @@
         "knitr",
         "lifecycle",
         "lme4",
-        "marray",
         "mgcv",
         "nloptr",
         "pbkrtest",
@@ -64957,9 +64910,7 @@
         "vctrs",
         "vsn"
     ],
-    "timecourse": [
-        "marray"
-    ],
+    "timecourse": [],
     "timeOmics": [
         "BiocParallel",
         "Matrix",
@@ -65579,7 +65530,6 @@
         "igraph",
         "jquerylib",
         "lifecycle",
-        "marray",
         "memoise",
         "mgcv",
         "piano",
@@ -66729,8 +66679,7 @@
     ],
     "TurboNorm": [
         "affy",
-        "convert",
-        "marray"
+        "convert"
     ],
     "tweeDEseq": [
         "Matrix",
@@ -68790,7 +68739,6 @@
         "jquerylib",
         "lifecycle",
         "magicaxis",
-        "marray",
         "memoise",
         "mgcv",
         "piano",
