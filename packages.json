@@ -604,7 +604,6 @@
         "clusterProfiler"
     ],
     "muscat": [
-        "blme",
         "variancePartition"
     ],
     "musicatk": [
@@ -1024,7 +1023,6 @@
     "agricolae": [],
     "FlowSorted.Blood.450k": [],
     "methylclockData": [],
-    "blme": [],
     "mppa": [],
     "RcmdrMisc": [
         "car"
