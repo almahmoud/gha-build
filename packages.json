@@ -785,7 +785,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -1740,7 +1739,6 @@
         "scuttle",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "survey",
         "testthat",
         "tibble",
@@ -3515,7 +3513,6 @@
         "scuttle",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -5358,7 +5355,6 @@
         "spatstat.explore",
         "spatstat.linnet",
         "spatstat.model",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -7390,7 +7386,6 @@
         "scuttle",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -12827,7 +12822,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -13217,7 +13211,6 @@
         "shadowtext",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "testthat",
         "tibble",
         "tidygraph",
@@ -13876,7 +13869,6 @@
         "rematch2",
         "scuttle",
         "spatstat.explore",
-        "spatstat.random",
         "spicyR",
         "testthat",
         "tibble",
@@ -18221,7 +18213,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -20299,7 +20290,6 @@
         "scuttle",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -23916,7 +23906,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tensorflow",
         "tfruns",
         "tibble",
@@ -24022,7 +24011,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -24106,7 +24094,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -24132,7 +24119,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -24160,7 +24146,6 @@
         "scuttle",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -24229,7 +24214,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -24356,7 +24340,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -24405,7 +24388,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -24787,7 +24769,6 @@
         "shadowtext",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -24834,7 +24815,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -24892,7 +24872,6 @@
         "scuttle",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -25774,7 +25753,6 @@
         "shinyjs",
         "sn",
         "spatstat.explore",
-        "spatstat.random",
         "sva",
         "tibble",
         "tidyr",
@@ -26127,7 +26105,6 @@
         "scuttle",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -26180,7 +26157,6 @@
         "dplyr",
         "ggplot2",
         "scuttle",
-        "spatstat.random",
         "tibble",
         "tidyselect"
     ],
@@ -26409,7 +26385,6 @@
         "shiny",
         "shinyjs",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -26435,7 +26410,6 @@
         "rematch2",
         "scuttle",
         "spatstat.explore",
-        "spatstat.random",
         "testthat",
         "tibble",
         "tidyr",
@@ -26664,7 +26638,6 @@
         "scuttle",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -26971,7 +26944,6 @@
         "rvest",
         "selectr",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -27020,7 +26992,6 @@
         "scuttle",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "spdep",
         "tibble",
         "tidyr",
@@ -30274,7 +30245,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -30311,10 +30281,7 @@
         "tidyselect"
     ],
     "SeuratObject": [],
-    "spatstat.explore": [
-        "spatstat.random"
-    ],
-    "spatstat.random": [],
+    "spatstat.explore": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
         "Biostrings",
@@ -31740,7 +31707,6 @@
         "spatstat.explore",
         "spatstat.linnet",
         "spatstat.model",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -31748,17 +31714,14 @@
     "spatstat": [
         "spatstat.explore",
         "spatstat.linnet",
-        "spatstat.model",
-        "spatstat.random"
+        "spatstat.model"
     ],
     "spatstat.model": [
-        "spatstat.explore",
-        "spatstat.random"
+        "spatstat.explore"
     ],
     "spatstat.linnet": [
         "spatstat.explore",
-        "spatstat.model",
-        "spatstat.random"
+        "spatstat.model"
     ],
     "contrast": [
         "Hmisc",
@@ -33607,7 +33570,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -33667,7 +33629,6 @@
     "spdep": [],
     "alphahull": [
         "ggplot2",
-        "spatstat.random",
         "tibble"
     ],
     "xROI": [
