@@ -20950,7 +20950,6 @@
         "jquerylib",
         "knitr",
         "lme4",
-        "maptools",
         "memoise",
         "mgcv",
         "nloptr",
@@ -62803,7 +62802,6 @@
         "rrcov"
     ],
     "roptim": [],
-    "maptools": [],
     "shinyHeatmaply": [
         "TSP",
         "bslib",
