@@ -5645,7 +5645,6 @@
     "LACE": [
         "BiocFileCache",
         "biomaRt",
-        "bsplus",
         "readr",
         "sortable",
         "tidyr"
@@ -10541,7 +10540,6 @@
         "VariantAnnotation",
         "biomaRt",
         "broom",
-        "bsplus",
         "car",
         "ggpubr",
         "ggsci",
@@ -11335,7 +11333,6 @@
         "ShortRead"
     ],
     "systemPipeShiny": [
-        "bsplus",
         "drawer",
         "plotly",
         "shinydashboardPlus",
@@ -13160,7 +13157,6 @@
         "org.Hs.eg.db"
     ],
     "sortable": [],
-    "bsplus": [],
     "reldist": [
         "densEstBayes"
     ],
@@ -13607,9 +13603,7 @@
         "fields"
     ],
     "spsComps": [],
-    "drawer": [
-        "bsplus"
-    ],
+    "drawer": [],
     "GenKern": [],
     "gghighlight": [],
     "bestNormalize": [
