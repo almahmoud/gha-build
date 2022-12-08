@@ -14416,7 +14416,6 @@
         "lmerTest",
         "nloptr",
         "rematch2",
-        "scam",
         "scuttle",
         "sf",
         "spatstat.explore",
@@ -27474,7 +27473,6 @@
         "lmerTest",
         "nloptr",
         "rematch2",
-        "scam",
         "scuttle",
         "sf",
         "spatstat.explore",
@@ -33867,7 +33865,6 @@
         "shiny",
         "stringr"
     ],
-    "scam": [],
     "LogicReg": [],
     "reldist": [
         "densEstBayes",
