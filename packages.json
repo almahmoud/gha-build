@@ -22,7 +22,6 @@
         "wateRmelon"
     ],
     "bioCancer": [
-        "ReactomePA",
         "radiant.data"
     ],
     "BiocOncoTK": [
@@ -164,8 +163,7 @@
         "rstatix"
     ],
     "epihet": [
-        "EntropyExplorer",
-        "ReactomePA"
+        "EntropyExplorer"
     ],
     "epimutacions": [],
     "esATAC": [],
@@ -339,14 +337,12 @@
     "MicrobiomeProfiler": [],
     "MineICA": [],
     "miRSM": [
-        "ReactomePA",
         "SPONGE",
         "ggpubr",
         "miRspongeR",
         "rstatix"
     ],
     "miRspongeR": [
-        "ReactomePA",
         "SPONGE",
         "ggpubr",
         "rstatix"
@@ -374,9 +370,7 @@
     "MSstatsShiny": [
         "MSstatsPTM"
     ],
-    "multiSight": [
-        "ReactomePA"
-    ],
+    "multiSight": [],
     "muscat": [
         "variancePartition"
     ],
@@ -445,9 +439,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "Pigengene": [
-        "ReactomePA"
-    ],
+    "Pigengene": [],
     "plotGrouper": [
         "ggpubr",
         "rstatix"
@@ -471,7 +463,6 @@
     "qmtools": [
         "VIM"
     ],
-    "ReactomePA": [],
     "recount": [],
     "regionReport": [],
     "regutools": [],
@@ -524,9 +515,7 @@
         "Rmagic"
     ],
     "scruff": [],
-    "scTensor": [
-        "ReactomePA"
-    ],
+    "scTensor": [],
     "segmenter": [],
     "shinyMethyl": [],
     "SIAMCAT": [],
