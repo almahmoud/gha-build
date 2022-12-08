@@ -93,7 +93,6 @@
         "Homo.sapiens",
         "Mus.musculus",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "chromVAR",
         "motifmatchr",
         "projectR",
@@ -191,7 +190,6 @@
         "Homo.sapiens",
         "Mus.musculus",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "VariantAnnotation",
         "dmrseq"
     ],
@@ -351,8 +349,7 @@
     "ChIPQC": [
         "DESeq2",
         "DiffBind",
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Mmusculus.UCSC.mm10.knownGene"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "ChIPseeker": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -2010,7 +2007,6 @@
     "profileplyr": [
         "ChIPseeker",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "enrichplot",
         "ggtree",
         "rGREAT"
@@ -2814,10 +2810,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "mGSZ": [],
-    "Mus.musculus": [
-        "TxDb.Mmusculus.UCSC.mm10.knownGene"
-    ],
-    "TxDb.Mmusculus.UCSC.mm10.knownGene": [],
+    "Mus.musculus": [],
     "doBy": [
         "lme4",
         "pbkrtest"
