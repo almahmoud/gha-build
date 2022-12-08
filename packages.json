@@ -1884,7 +1884,6 @@
         "miniUI",
         "multtest",
         "nloptr",
-        "optimr",
         "patchwork",
         "pheatmap",
         "phyloseq",
@@ -33829,7 +33828,6 @@
         "dplyr",
         "ggplot2",
         "multtest",
-        "optimr",
         "phyloseq",
         "pillar",
         "reshape2",
@@ -33845,7 +33843,6 @@
         "tibble",
         "tidyselect"
     ],
-    "optimr": [],
     "detectseparation": [],
     "survey": [],
     "sjmisc": [
