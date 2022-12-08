@@ -37029,7 +37029,6 @@
         "pcaMethods",
         "pillar",
         "scales",
-        "svDialogs",
         "tibble",
         "vctrs",
         "vsn",
@@ -82262,7 +82261,6 @@
         "tibble",
         "vctrs"
     ],
-    "svDialogs": [],
     "EnsDb.Hsapiens.v75": [
         "AnnotationDbi",
         "AnnotationFilter",
