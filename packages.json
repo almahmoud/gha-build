@@ -3081,8 +3081,7 @@
     ],
     "tLOH": [
         "VariantAnnotation",
-        "bestNormalize",
-        "naniar"
+        "bestNormalize"
     ],
     "TNBC.CMS": [
         "car",
@@ -3489,7 +3488,6 @@
     "ggformula": [],
     "GenKern": [],
     "bestNormalize": [],
-    "naniar": [],
     "vbsr": [],
     "msigdb": []
 }
