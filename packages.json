@@ -1086,7 +1086,6 @@
         "munsell",
         "nlme",
         "openssl",
-        "optimx",
         "pillar",
         "plotly",
         "promises",
@@ -41951,7 +41950,6 @@
         "multtest",
         "munsell",
         "nlme",
-        "optimx",
         "pillar",
         "plyr",
         "scales",
@@ -60485,7 +60483,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "optimx",
         "pillar",
         "plyr",
         "reshape2",
@@ -84637,7 +84634,6 @@
     "segmented": [
         "nlme"
     ],
-    "optimx": [],
     "expm": [
         "Matrix"
     ],
@@ -94927,9 +94923,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "ExtDist": [
-        "optimx"
-    ],
+    "ExtDist": [],
     "phastCons100way.UCSC.hg19": [
         "AnnotationDbi",
         "AnnotationHub",
