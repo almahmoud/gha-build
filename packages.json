@@ -168,8 +168,7 @@
     "bambu": [],
     "bandle": [
         "caret",
-        "pRoloc",
-        "pRolocdata"
+        "pRoloc"
     ],
     "Basic4Cseq": [],
     "BASiCStan": [],
@@ -3875,7 +3874,6 @@
         "nloptr",
         "pbkrtest"
     ],
-    "pRolocdata": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "bumphunter",
         "minfi"
