@@ -94,7 +94,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "apComplex": [],
     "APL": [
         "Seurat"
     ],
