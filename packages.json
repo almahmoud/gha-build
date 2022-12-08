@@ -9239,7 +9239,6 @@
     "MSA2dist": [
         "tidyr"
     ],
-    "MsBackendMassbank": [],
     "MsBackendMgf": [],
     "MsExperiment": [
         "MultiAssayExperiment",
