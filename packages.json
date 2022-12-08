@@ -4132,7 +4132,6 @@
         "treeio"
     ],
     "M3Drop": [
-        "densEstBayes",
         "reldist"
     ],
     "m6Aboost": [
@@ -6749,7 +6748,6 @@
         "DESeq2",
         "GenomicFeatures",
         "biomaRt",
-        "densEstBayes",
         "geneplotter",
         "reldist"
     ],
@@ -7239,7 +7237,6 @@
     "scmap": [],
     "scMerge": [
         "M3Drop",
-        "densEstBayes",
         "reldist"
     ],
     "scMET": [],
@@ -7592,7 +7589,6 @@
         "biomaRt",
         "celda",
         "celldex",
-        "densEstBayes",
         "ensembldb",
         "fishpond",
         "genefilter",
@@ -9331,10 +9327,7 @@
     ],
     "hgu95av2.db": [],
     "sortable": [],
-    "reldist": [
-        "densEstBayes"
-    ],
-    "densEstBayes": [],
+    "reldist": [],
     "adabag": [
         "caret",
         "recipes"
