@@ -217,9 +217,7 @@
         "pRoloc",
         "pRolocdata"
     ],
-    "Basic4Cseq": [
-        "BSgenome.Ecoli.NCBI.20080805"
-    ],
+    "Basic4Cseq": [],
     "BASiCS": [],
     "BASiCStan": [
         "BASiCS"
@@ -4975,7 +4973,6 @@
         "testthat"
     ],
     "pRolocdata": [],
-    "BSgenome.Ecoli.NCBI.20080805": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "GEOquery",
         "GenomicFeatures",
