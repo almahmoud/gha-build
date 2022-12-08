@@ -43,7 +43,6 @@
     ],
     "DSS": [],
     "ELMER": [],
-    "enrichTF": [],
     "epigraHMM": [],
     "epihet": [
         "EntropyExplorer"
