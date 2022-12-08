@@ -8536,7 +8536,6 @@
         "broom",
         "car",
         "ggforce",
-        "gghalves",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -16038,7 +16037,6 @@
     ],
     "MKmisc": [],
     "HiveR": [],
-    "gghalves": [],
     "anyLib": [
         "devtools",
         "pkgdown",
