@@ -23036,7 +23036,6 @@
     ],
     "LedPred": [
         "ROCR",
-        "akima",
         "callr",
         "e1071",
         "ggplot2",
@@ -55411,7 +55410,6 @@
         "stringr",
         "vctrs"
     ],
-    "akima": [],
     "scam": [
         "mgcv"
     ],
