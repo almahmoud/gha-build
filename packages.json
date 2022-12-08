@@ -416,7 +416,6 @@
         "testthat"
     ],
     "BioMM": [
-        "rms",
         "topGO"
     ],
     "biomvRCNS": [
@@ -773,8 +772,7 @@
         "BSgenome.Mmusculus.UCSC.mm9"
     ],
     "chipenrich": [
-        "chipenrich.data",
-        "rms"
+        "chipenrich.data"
     ],
     "ChIPexoQual": [
         "GenomicFeatures",
@@ -1007,8 +1005,7 @@
         "spatstat"
     ],
     "CONFESS": [
-        "contrast",
-        "rms"
+        "contrast"
     ],
     "consensusDE": [
         "DESeq2",
@@ -6002,7 +5999,6 @@
         "tidygraph"
     ],
     "tidygraph": [],
-    "rms": [],
     "synaptome.db": [
         "synaptome.data"
     ],
@@ -6107,9 +6103,7 @@
         "spatstat"
     ],
     "spatstat": [],
-    "contrast": [
-        "rms"
-    ],
+    "contrast": [],
     "EnsDb.Hsapiens.v86": [
         "GenomicFeatures",
         "ensembldb"
