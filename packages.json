@@ -491,7 +491,6 @@
     "clipper": [
         "qpgraph"
     ],
-    "clusterExperiment": [],
     "clusterProfiler": [
         "DOSE",
         "enrichplot",
@@ -2188,9 +2187,7 @@
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "netSmooth": [
-        "clusterExperiment"
-    ],
+    "netSmooth": [],
     "netZooR": [
         "Category",
         "GOstats",
