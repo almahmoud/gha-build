@@ -17,9 +17,7 @@
         "plotly",
         "tidyr"
     ],
-    "ACE": [
-        "QDNAseq"
-    ],
+    "ACE": [],
     "ADaCGH2": [
         "annotate",
         "genefilter",
@@ -936,7 +934,6 @@
         "Homo.sapiens",
         "Mus.musculus",
         "OrganismDbi",
-        "QDNAseq",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "VariantAnnotation",
@@ -4119,9 +4116,7 @@
         "org.Hs.eg.db",
         "rtracklayer"
     ],
-    "GeneBreak": [
-        "QDNAseq"
-    ],
+    "GeneBreak": [],
     "genefilter": [
         "annotate"
     ],
@@ -4794,8 +4789,7 @@
         "readr"
     ],
     "HiCcompare": [
-        "InteractionSet",
-        "QDNAseq"
+        "InteractionSet"
     ],
     "HiCDCPlus": [
         "BSgenome",
@@ -4815,7 +4809,6 @@
     "HiCDOC": [
         "HiCcompare",
         "InteractionSet",
-        "QDNAseq",
         "broom",
         "car",
         "colourpicker",
@@ -7003,8 +6996,7 @@
     ],
     "multiHiCcompare": [
         "HiCcompare",
-        "InteractionSet",
-        "QDNAseq"
+        "InteractionSet"
     ],
     "multiMiR": [],
     "multiSight": [
@@ -8489,7 +8481,6 @@
         "genefilter",
         "pwrEWAS.data"
     ],
-    "QDNAseq": [],
     "QFeatures": [
         "MultiAssayExperiment",
         "plotly",
@@ -10406,8 +10397,7 @@
     ],
     "SpectralTAD": [
         "HiCcompare",
-        "InteractionSet",
-        "QDNAseq"
+        "InteractionSet"
     ],
     "SPIAT": [
         "BiocFileCache",
@@ -10803,7 +10793,6 @@
     "TADCompare": [
         "HiCcompare",
         "InteractionSet",
-        "QDNAseq",
         "broom",
         "car",
         "ggpubr",
