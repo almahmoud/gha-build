@@ -282,7 +282,6 @@
         "broom",
         "chromVAR",
         "ggalluvial",
-        "googlesheets4",
         "haven",
         "modelr",
         "motifmatchr",
@@ -1723,7 +1722,6 @@
         "broom",
         "epiNEM",
         "ggraph",
-        "googlesheets4",
         "haven",
         "mnem",
         "modelr",
@@ -3897,7 +3895,6 @@
     "MAI": [
         "broom",
         "caret",
-        "googlesheets4",
         "haven",
         "modelr",
         "readr",
@@ -4227,7 +4224,6 @@
         "devtools",
         "genefilter",
         "ggpubr",
-        "googlesheets4",
         "haven",
         "lme4",
         "methylclockData",
@@ -4482,7 +4478,6 @@
         "ggpubr",
         "ggraph",
         "ggtree",
-        "googlesheets4",
         "groupdata2",
         "gson",
         "haven",
@@ -4522,7 +4517,6 @@
         "ggpubr",
         "ggraph",
         "ggtree",
-        "googlesheets4",
         "groupdata2",
         "gson",
         "haven",
@@ -4767,7 +4761,6 @@
         "car",
         "factoextra",
         "ggpubr",
-        "googlesheets4",
         "haven",
         "lme4",
         "lmerTest",
@@ -4982,7 +4975,6 @@
     "NanoStringQCPro": [],
     "nanotatoR": [
         "broom",
-        "googlesheets4",
         "haven",
         "modelr",
         "readr",
@@ -7230,7 +7222,6 @@
         "caret",
         "cvms",
         "ggpubr",
-        "googlesheets4",
         "groupdata2",
         "haven",
         "lme4",
@@ -7314,7 +7305,6 @@
     ],
     "Statial": [
         "broom",
-        "googlesheets4",
         "haven",
         "modelr",
         "readr",
@@ -7404,7 +7394,6 @@
         "broom",
         "car",
         "drc",
-        "googlesheets4",
         "haven",
         "lme4",
         "mice",
@@ -8209,7 +8198,6 @@
     "ggfortify": [],
     "tidyverse": [
         "broom",
-        "googlesheets4",
         "haven",
         "modelr",
         "readr"
@@ -8232,7 +8220,6 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "googlesheets4": [],
     "haven": [
         "readr"
     ],
