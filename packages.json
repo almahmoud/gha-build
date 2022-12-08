@@ -11809,7 +11809,6 @@
         "HDO.db",
         "Hmisc",
         "KEGGREST",
-        "MatrixCorrelation",
         "MetBrewer",
         "NMF",
         "ReactomePA",
@@ -23519,7 +23518,6 @@
         "ggwordcloud",
         "metR"
     ],
-    "MatrixCorrelation": [],
     "metR": [
         "ggplot2"
     ],
