@@ -17002,7 +17002,6 @@
         "gridBase",
         "gtable",
         "hms",
-        "idr",
         "impute",
         "isoband",
         "labeling",
@@ -55507,7 +55506,6 @@
         "ggplot2",
         "gtable",
         "here",
-        "idr",
         "isoband",
         "labeling",
         "lambda.r",
@@ -140710,7 +140708,6 @@
         "survival",
         "zlibbioc"
     ],
-    "idr": [],
     "quantmod": [
         "TTR",
         "lattice",
