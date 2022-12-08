@@ -14704,7 +14704,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "ctc": [],
     "CTDquerier": [
         "BiocFileCache",
         "Matrix",
@@ -38916,7 +38915,6 @@
         "bit64",
         "blob",
         "cachem",
-        "ctc",
         "dbplyr",
         "dplyr",
         "ellipsis",
@@ -41774,7 +41772,6 @@
     ],
     "multiClust": [
         "Matrix",
-        "ctc",
         "dendextend",
         "ggplot2",
         "lifecycle",
