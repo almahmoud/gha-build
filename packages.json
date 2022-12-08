@@ -7665,7 +7665,6 @@
         "tidyr",
         "viridis"
     ],
-    "miRmine": [],
     "miRNAmeConverter": [
         "miRBaseVersions.db"
     ],
