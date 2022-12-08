@@ -6032,8 +6032,7 @@
         "viridisLite",
         "visNetwork",
         "vroom",
-        "waldo",
-        "writexl"
+        "waldo"
     ],
     "BiocCheck": [
         "Biobase",
@@ -38945,8 +38944,7 @@
         "tzdb",
         "vctrs",
         "viridisLite",
-        "vroom",
-        "writexl"
+        "vroom"
     ],
     "iSEE": [
         "Biobase",
@@ -91791,8 +91789,7 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "waldo",
-        "writexl"
+        "waldo"
     ],
     "shinythemes": [
         "bslib",
@@ -91925,7 +91922,6 @@
     "psych": [
         "nlme"
     ],
-    "writexl": [],
     "shinyFiles": [
         "bslib",
         "cachem",
@@ -97277,8 +97273,7 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "vroom",
-        "writexl"
+        "vroom"
     ],
     "phosphoricons": [
         "htmltools"
