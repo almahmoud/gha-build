@@ -625,7 +625,6 @@
     "ENmix": [
         "minfi"
     ],
-    "EnrichmentBrowser": [],
     "enrichplot": [
         "ggtree"
     ],
@@ -950,9 +949,7 @@
         "pbkrtest"
     ],
     "gscreend": [],
-    "GSEABenchmarkeR": [
-        "EnrichmentBrowser"
-    ],
+    "GSEABenchmarkeR": [],
     "GSReg": [
         "Homo.sapiens",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
@@ -2428,7 +2425,6 @@
         "quantro"
     ],
     "zenith": [
-        "EnrichmentBrowser",
         "lme4",
         "lmerTest",
         "pbkrtest",
