@@ -1663,7 +1663,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "flowcatchR": [],
     "flowCL": [
         "SPARQL"
     ],
