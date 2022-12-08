@@ -2809,7 +2809,6 @@
     ],
     "GeneTonic": [
         "DESeq2",
-        "bs4Dash",
         "geneplotter",
         "plotly"
     ],
@@ -8313,7 +8312,6 @@
         "broom",
         "mice"
     ],
-    "bs4Dash": [],
     "shinyHeatmaply": [
         "heatmaply",
         "plotly"
