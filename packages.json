@@ -29,9 +29,7 @@
     "borealis": [
         "DSS"
     ],
-    "brainflowprobes": [
-        "GenomicState"
-    ],
+    "brainflowprobes": [],
     "CancerInSilico": [],
     "CATALYST": [
         "FlowSOM",
@@ -529,7 +527,6 @@
     "rstatix": [],
     "mGSZ": [],
     "radiant.data": [],
-    "GenomicState": [],
     "GenomicTools": [],
     "spp": [],
     "propr": [],
