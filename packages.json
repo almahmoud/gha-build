@@ -8816,7 +8816,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "cba",
         "dendextend",
         "ggplot2",
         "ggrepel",
@@ -17579,9 +17578,7 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "DiffLogo": [
-        "cba"
-    ],
+    "DiffLogo": [],
     "diffuStats": [
         "Matrix",
         "expm",
@@ -74615,7 +74612,6 @@
         "magic"
     ],
     "magic": [],
-    "cba": [],
     "EnvStats": [
         "Matrix",
         "ggplot2",
