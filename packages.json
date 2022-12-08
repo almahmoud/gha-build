@@ -2519,7 +2519,6 @@
         "ensembldb",
         "fda"
     ],
-    "pipeComp": [],
     "PloGO2": [
         "Category",
         "GOstats"
