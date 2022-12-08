@@ -2478,7 +2478,6 @@
     ],
     "simpleSeg": [],
     "simplifyEnrichment": [],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "DESeq2",
         "TENxPBMCData",
