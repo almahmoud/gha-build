@@ -360,9 +360,7 @@
         "biomaRt"
     ],
     "BEAT": [],
-    "beer": [
-        "PhIPData"
-    ],
+    "beer": [],
     "benchdamic": [
         "ANCOMBC",
         "DESeq2",
@@ -4940,7 +4938,6 @@
         "tidytree",
         "treeio"
     ],
-    "PhIPData": [],
     "PhosR": [
         "GGally",
         "broom",
