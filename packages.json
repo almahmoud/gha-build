@@ -754,7 +754,6 @@
         "lmerTest",
         "pbkrtest"
     ],
-    "MADSEQ": [],
     "MAGAR": [
         "FDb.InfiniumMethylation.hg19",
         "RnBeads",
