@@ -1851,7 +1851,6 @@
         "ensembldb"
     ],
     "ggmsa": [
-        "ggalt",
         "ggtree",
         "treeio"
     ],
@@ -5139,7 +5138,6 @@
     ],
     "logistf": [],
     "shinyHeatmaply": [],
-    "ggalt": [],
     "HiContactsData": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "GenomicFeatures"
