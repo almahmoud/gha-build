@@ -381,7 +381,6 @@
         "ttgsea"
     ],
     "deepSNV": [],
-    "DEFormats": [],
     "DEGreport": [],
     "deltaCaptureC": [],
     "DeMixT": [
@@ -1379,7 +1378,6 @@
     "REDseq": [],
     "RegEnrich": [],
     "regionReport": [
-        "DEFormats",
         "GenomicFiles",
         "derfinder"
     ],
