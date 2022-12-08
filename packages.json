@@ -12220,7 +12220,6 @@
         "XVector",
         "annotate",
         "blob",
-        "blockmodeling",
         "callr",
         "edgeR",
         "geneplotter",
@@ -13573,7 +13572,6 @@
         "vctrs"
     ],
     "EBSeq": [
-        "blockmodeling",
         "callr",
         "pillar",
         "rematch2",
@@ -13584,7 +13582,6 @@
     ],
     "EBSeqHMM": [
         "EBSeq",
-        "blockmodeling",
         "callr",
         "pillar",
         "rematch2",
@@ -32516,7 +32513,6 @@
     "Oscope": [
         "BiocParallel",
         "EBSeq",
-        "blockmodeling",
         "callr",
         "pillar",
         "rematch2",
@@ -40832,7 +40828,6 @@
         "XVector",
         "arm",
         "beachmat",
-        "blockmodeling",
         "bluster",
         "callr",
         "dqrng",
@@ -40863,7 +40858,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "blockmodeling",
         "callr",
         "ggplot2",
         "mgcv",
@@ -54538,7 +54532,6 @@
         "tibble",
         "vctrs"
     ],
-    "blockmodeling": [],
     "swamp": [],
     "bnstruct": [],
     "phangorn": [],
