@@ -2988,7 +2988,6 @@
         "readxl",
         "tidyr"
     ],
-    "ctsGE": [],
     "CTSV": [
         "BiocFileCache",
         "DropletUtils",
