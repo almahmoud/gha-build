@@ -2810,9 +2810,7 @@
         "treeio",
         "vcfR"
     ],
-    "Cardinal": [
-        "matter"
-    ],
+    "Cardinal": [],
     "CARNIVAL": [
         "dplyr",
         "knitr",
@@ -12863,7 +12861,6 @@
         "tibble",
         "vroom"
     ],
-    "matter": [],
     "MBASED": [
         "SummarizedExperiment"
     ],
