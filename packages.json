@@ -6710,7 +6710,6 @@
         "Hmisc",
         "UpSetR",
         "plotly",
-        "proDA",
         "tidyr",
         "viridis",
         "vsn"
@@ -9729,7 +9728,6 @@
         "waldo"
     ],
     "procoil": [],
-    "proDA": [],
     "proFIA": [
         "MSnbase",
         "MultiAssayExperiment",
