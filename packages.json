@@ -1686,7 +1686,6 @@
         "cowplot",
         "dearseq",
         "decontam",
-        "detectseparation",
         "dplyr",
         "genefilter",
         "geneplotter",
@@ -30399,7 +30398,6 @@
     ],
     "corncob": [
         "Biostrings",
-        "detectseparation",
         "dplyr",
         "ggplot2",
         "phyloseq",
@@ -30412,7 +30410,6 @@
         "tibble",
         "tidyselect"
     ],
-    "detectseparation": [],
     "survey": [],
     "sjmisc": [
         "dplyr",
