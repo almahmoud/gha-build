@@ -1552,7 +1552,6 @@
         "nloptr",
         "pbkrtest",
         "progeny",
-        "quantiseqr",
         "rstatix",
         "testthat",
         "viper"
@@ -4390,7 +4389,6 @@
     "qsvaR": [
         "sva"
     ],
-    "quantiseqr": [],
     "quantro": [
         "GEOquery",
         "GenomicFeatures",
