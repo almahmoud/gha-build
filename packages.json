@@ -3446,7 +3446,6 @@
         "jquerylib",
         "knitr",
         "lava",
-        "lbfgs",
         "lifecycle",
         "lubridate",
         "memoise",
@@ -72714,7 +72713,6 @@
         "vctrs",
         "vsn"
     ],
-    "lbfgs": [],
     "dendextend": [
         "Matrix",
         "ggplot2",
