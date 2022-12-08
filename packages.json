@@ -16452,8 +16452,7 @@
         "treeio",
         "tweenr",
         "vctrs",
-        "viridis",
-        "wordcloud"
+        "viridis"
     ],
     "EGAD": [
         "GEOquery",
@@ -21237,8 +21236,7 @@
         "tibble",
         "tidyselect",
         "tm",
-        "vctrs",
-        "wordcloud"
+        "vctrs"
     ],
     "GENIE3": [
         "dplyr",
@@ -27964,8 +27962,7 @@
         "XVector",
         "futile.logger",
         "pheatmap",
-        "scales",
-        "wordcloud"
+        "scales"
     ],
     "logicFS": [
         "LogicReg",
@@ -47257,8 +47254,7 @@
         "tm",
         "treemap",
         "umap",
-        "vctrs",
-        "wordcloud"
+        "vctrs"
     ],
     "Rsamtools": [
         "BiocParallel",
@@ -59482,8 +59478,7 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viper",
-        "wordcloud"
+        "viper"
     ],
     "waddR": [
         "BiocFileCache",
@@ -65369,7 +65364,6 @@
         "sandwich",
         "survival"
     ],
-    "wordcloud": [],
     "ELMER.data": [
         "GenomeInfoDb",
         "GenomicRanges",
