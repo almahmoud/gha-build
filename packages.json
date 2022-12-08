@@ -19870,7 +19870,6 @@
         "RSQLite",
         "annotate",
         "aroma.affymetrix",
-        "aroma.apd",
         "aroma.core",
         "genefilter"
     ],
@@ -28213,7 +28212,6 @@
         "RSQLite",
         "WGCNA",
         "aroma.affymetrix",
-        "aroma.apd",
         "aroma.core",
         "ggplot2",
         "htmlTable",
@@ -33222,7 +33220,6 @@
         "PSCBS",
         "R.filesets",
         "R.rsp",
-        "aroma.apd",
         "aroma.core"
     ],
     "aroma.core": [
@@ -33231,7 +33228,6 @@
         "R.rsp"
     ],
     "R.filesets": [],
-    "aroma.apd": [],
     "R.rsp": [],
     "PSCBS": [],
     "opencpu": [
