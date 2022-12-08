@@ -2753,7 +2753,6 @@
     "girafe": [],
     "GISPA": [
         "GSEABase",
-        "HH",
         "genefilter"
     ],
     "GladiaTOX": [],
@@ -7699,7 +7698,6 @@
     "ggalt": [
         "plotly"
     ],
-    "HH": [],
     "gRain": [
         "broom"
     ],
