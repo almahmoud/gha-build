@@ -64,24 +64,16 @@
     ],
     "FlowSOM": [],
     "FuseSOM": [],
-    "GDCRNATools": [
-        "survminer"
-    ],
+    "GDCRNATools": [],
     "GeneAccord": [],
     "GEOexplorer": [],
-    "glmSparseNet": [
-        "survminer"
-    ],
+    "glmSparseNet": [],
     "HiCDOC": [],
     "InterCellar": [],
-    "iPath": [
-        "survminer"
-    ],
+    "iPath": [],
     "IRISFGM": [],
     "ISAnalytics": [],
-    "ivygapSE": [
-        "survminer"
-    ],
+    "ivygapSE": [],
     "kissDE": [
         "DSS"
     ],
@@ -114,39 +106,28 @@
     "netbiov": [],
     "ODER": [],
     "OMICsPCA": [],
-    "omicsViewer": [
-        "survminer"
-    ],
-    "PDATK": [
-        "survminer"
-    ],
+    "omicsViewer": [],
+    "PDATK": [],
     "projectR": [],
     "protGear": [],
     "ptairMS": [],
     "rfaRm": [],
     "RNASeqR": [],
     "RnaSeqSampleSize": [],
-    "RTCGA": [
-        "survminer"
-    ],
+    "RTCGA": [],
     "scRecover": [
         "Rmagic"
     ],
     "signeR": [
-        "survivalAnalysis",
-        "survminer"
+        "survivalAnalysis"
     ],
-    "signifinder": [
-        "survminer"
-    ],
+    "signifinder": [],
     "skewr": [],
     "sojourner": [
         "sampSurf"
     ],
     "SPONGE": [],
-    "survtype": [
-        "survminer"
-    ],
+    "survtype": [],
     "TADCompare": [],
     "TargetDecoy": [],
     "TCGAbiolinksGUI": [
@@ -174,12 +155,9 @@
     "propr": [],
     "EntropyExplorer": [],
     "SPARQL": [],
-    "survminer": [],
     "mppa": [],
     "Rmagic": [],
-    "survivalAnalysis": [
-        "survminer"
-    ],
+    "survivalAnalysis": [],
     "sampSurf": [],
     "GenKern": [],
     "vbsr": []
