@@ -7958,7 +7958,6 @@
         "plotly"
     ],
     "SBGNview": [
-        "SBGNview.data",
         "org.Hs.eg.db",
         "pathview"
     ],
@@ -10711,7 +10710,6 @@
         "BiocFileCache",
         "ExperimentHub"
     ],
-    "SBGNview.data": [],
     "scanMiRData": [
         "scanMiR"
     ],
