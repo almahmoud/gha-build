@@ -1339,7 +1339,6 @@
     "proBatch": [
         "pvca"
     ],
-    "proFIA": [],
     "profileplyr": [
         "ChIPseeker",
         "enrichplot",
