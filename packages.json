@@ -11844,7 +11844,6 @@
         "BiocFileCache",
         "ExperimentHub",
         "GGally",
-        "gistr",
         "rbokeh",
         "tidyr"
     ],
@@ -15393,10 +15392,7 @@
         "tidyr",
         "viridis"
     ],
-    "rbokeh": [
-        "gistr"
-    ],
-    "gistr": [],
+    "rbokeh": [],
     "survivalAnalysis": [
         "broom",
         "car",
