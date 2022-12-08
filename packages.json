@@ -1524,7 +1524,6 @@
     "ChromSCape": [
         "batchelor",
         "colourpicker",
-        "gggenes",
         "ggrastr",
         "kableExtra",
         "msigdbr",
@@ -11108,7 +11107,6 @@
     ],
     "shinydashboardPlus": [],
     "kableExtra": [],
-    "gggenes": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
