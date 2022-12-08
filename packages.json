@@ -11337,7 +11337,6 @@
         "vctrs"
     ],
     "CoRegNet": [
-        "arules",
         "bslib",
         "fontawesome",
         "httpuv",
@@ -56049,7 +56048,6 @@
         "GenomicRanges",
         "IRanges",
         "XVector",
-        "arules",
         "fields",
         "ggplot2",
         "gplots",
@@ -64474,7 +64472,6 @@
         "vctrs",
         "vroom"
     ],
-    "arules": [],
     "bench": [
         "pillar",
         "tibble",
