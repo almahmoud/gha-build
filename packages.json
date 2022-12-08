@@ -154,7 +154,6 @@
     ],
     "AlpsNMR": [
         "mixOmics",
-        "readxl",
         "speaq",
         "tidyr"
     ],
@@ -188,7 +187,6 @@
         "lmerTest",
         "mia",
         "nloptr",
-        "readxl",
         "scater",
         "scuttle",
         "testthat",
@@ -441,7 +439,6 @@
         "projectR",
         "rGREAT",
         "readr",
-        "readxl",
         "rtracklayer",
         "tidyr",
         "tidyverse"
@@ -513,7 +510,6 @@
     "autonomics": [
         "BiocFileCache",
         "MultiAssayExperiment",
-        "readxl",
         "tidyr"
     ],
     "awst": [],
@@ -669,7 +665,6 @@
         "patchwork",
         "phyloseq",
         "plotly",
-        "readxl",
         "scater",
         "scattermore",
         "scuttle",
@@ -772,7 +767,6 @@
         "radiant.data",
         "reactome.db",
         "readr",
-        "readxl",
         "scatterpie",
         "shadowtext",
         "testthat",
@@ -2102,7 +2096,6 @@
     "ComPrAn": [
         "haven",
         "readr",
-        "readxl",
         "rio",
         "tidyr"
     ],
@@ -2364,7 +2357,6 @@
         "keras",
         "patchwork",
         "readr",
-        "readxl",
         "regioneR",
         "rio",
         "rtracklayer",
@@ -2418,7 +2410,6 @@
         "genefilter",
         "oligo",
         "readr",
-        "readxl",
         "shinypanel",
         "sva",
         "tidyr"
@@ -2443,7 +2434,6 @@
         "broom",
         "fgsea",
         "highcharter",
-        "readxl",
         "tidyr"
     ],
     "CTSV": [
@@ -2655,7 +2645,6 @@
         "modelr",
         "org.Hs.eg.db",
         "readr",
-        "readxl",
         "shadowtext",
         "tidygraph",
         "tidyr",
@@ -2737,7 +2726,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation",
         "biomaRt",
-        "readxl",
         "rtracklayer"
     ],
     "deconvR": [
@@ -3125,7 +3113,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "readxl",
         "testthat",
         "tidyr",
         "vsn",
@@ -4560,7 +4547,6 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "readxl",
         "testthat",
         "tidyr",
         "waldo"
@@ -4582,7 +4568,6 @@
         "pbkrtest",
         "plotly",
         "readr",
-        "readxl",
         "rstatix",
         "shinyHeatmaply",
         "testthat",
@@ -4604,7 +4589,6 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "readxl",
         "testthat",
         "tidyr",
         "waldo"
@@ -4874,8 +4858,7 @@
     ],
     "GPA": [],
     "gpuMagic": [
-        "DescTools",
-        "readxl"
+        "DescTools"
     ],
     "GRaNIE": [
         "BiocFileCache",
@@ -4979,7 +4962,6 @@
         "keras",
         "patchwork",
         "readr",
-        "readxl",
         "regioneR",
         "rio",
         "rtracklayer",
@@ -5160,7 +5142,6 @@
     "hiReadsProcessor": [
         "BSgenome",
         "hiAnnotator",
-        "readxl",
         "rtracklayer"
     ],
     "HiTC": [
@@ -5298,8 +5279,7 @@
     ],
     "ILoReg": [
         "DescTools",
-        "dendextend",
-        "readxl"
+        "dendextend"
     ],
     "imageHTS": [
         "Category",
@@ -5442,7 +5422,6 @@
         "nloptr",
         "pbkrtest",
         "plotly",
-        "readxl",
         "rstatix",
         "testthat",
         "tidyr",
@@ -5542,7 +5521,6 @@
         "datamods",
         "haven",
         "readr",
-        "readxl",
         "rio",
         "tidyr"
     ],
@@ -5570,13 +5548,11 @@
         "biomaRt"
     ],
     "IsoCorrectoR": [
-        "readr",
-        "readxl"
+        "readr"
     ],
     "IsoCorrectoRGUI": [
         "IsoCorrectoR",
-        "readr",
-        "readxl"
+        "readr"
     ],
     "IsoformSwitchAnalyzeR": [
         "AnnotationHub",
@@ -5748,7 +5724,6 @@
         "nloptr",
         "pbkrtest",
         "readr",
-        "readxl",
         "rio",
         "rstatix",
         "testthat",
@@ -5910,8 +5885,7 @@
         "annotate"
     ],
     "MACSQuantifyR": [
-        "prettydoc",
-        "readxl"
+        "prettydoc"
     ],
     "MACSr": [
         "AnnotationHub",
@@ -5990,7 +5964,6 @@
         "ipred",
         "modelr",
         "readr",
-        "readxl",
         "recipes",
         "tidyr",
         "tidyverse"
@@ -6504,7 +6477,6 @@
         "pbkrtest",
         "planet",
         "readr",
-        "readxl",
         "rstatix",
         "rtracklayer",
         "testthat",
@@ -6711,7 +6683,6 @@
         "nloptr",
         "patchwork",
         "phyloseq",
-        "readxl",
         "recipes",
         "scater",
         "scuttle",
@@ -6924,7 +6895,6 @@
         "qvalue",
         "reactome.db",
         "readr",
-        "readxl",
         "recipes",
         "rqubic",
         "rstatix",
@@ -6981,7 +6951,6 @@
         "qvalue",
         "reactome.db",
         "readr",
-        "readxl",
         "recipes",
         "rstatix",
         "scatterpie",
@@ -7343,7 +7312,6 @@
         "nloptr",
         "pbkrtest",
         "readr",
-        "readxl",
         "rstatix",
         "testthat",
         "tidyr",
@@ -7567,7 +7535,6 @@
         "pbkrtest",
         "plotly",
         "readr",
-        "readxl",
         "rstatix",
         "rtracklayer",
         "sortable",
@@ -7663,7 +7630,6 @@
         "modelr",
         "org.Hs.eg.db",
         "readr",
-        "readxl",
         "testthat",
         "tidyr",
         "tidyverse",
@@ -7870,7 +7836,6 @@
         "nloptr",
         "pbkrtest",
         "readr",
-        "readxl",
         "testthat",
         "tidyr",
         "vsn",
@@ -8067,7 +8032,6 @@
     ],
     "OmnipathR": [
         "readr",
-        "readxl",
         "tidyr"
     ],
     "oncomix": [],
@@ -8636,7 +8600,6 @@
         "nloptr",
         "pbkrtest",
         "readr",
-        "readxl",
         "rstatix",
         "testthat",
         "tidyr",
@@ -10322,7 +10285,6 @@
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "DescTools",
-        "readxl",
         "rtracklayer"
     ],
     "scoreInvHap": [
@@ -11034,7 +10996,6 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "readxl",
         "testthat",
         "tidyr",
         "waldo"
@@ -11193,7 +11154,6 @@
         "nloptr",
         "pbkrtest",
         "readr",
-        "readxl",
         "recipes",
         "rstatix",
         "testthat",
@@ -11321,7 +11281,6 @@
         "haven",
         "modelr",
         "readr",
-        "readxl",
         "tidyr",
         "tidyverse"
     ],
@@ -11472,7 +11431,6 @@
         "pbkrtest",
         "plotly",
         "readr",
-        "readxl",
         "stars",
         "testthat",
         "tidyr",
@@ -11741,8 +11699,7 @@
         "BiocFileCache",
         "GSEABase",
         "annotate",
-        "org.Hs.eg.db",
-        "readxl"
+        "org.Hs.eg.db"
     ],
     "tidybulk": [
         "readr",
@@ -11793,7 +11750,6 @@
         "patchwork",
         "qvalue",
         "rWikiPathways",
-        "readxl",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -12394,7 +12350,6 @@
     "wppi": [
         "OmnipathR",
         "readr",
-        "readxl",
         "tidyr"
     ],
     "xcms": [
@@ -12560,7 +12515,6 @@
         "tidyr"
     ],
     "ggrastr": [],
-    "readxl": [],
     "speaq": [],
     "curatedTCGAData": [
         "AnnotationHub",
@@ -12572,9 +12526,7 @@
     "readr": [],
     "ggthemes": [],
     "waffle": [],
-    "DescTools": [
-        "readxl"
-    ],
+    "DescTools": [],
     "lmerTest": [
         "lme4",
         "nloptr",
@@ -12700,7 +12652,6 @@
         "haven",
         "modelr",
         "readr",
-        "readxl",
         "tidyr"
     ],
     "Mus.musculus": [
@@ -12805,7 +12756,6 @@
         "pbkrtest",
         "plotly",
         "readr",
-        "readxl",
         "testthat",
         "tidyr",
         "waldo"
@@ -13057,8 +13007,7 @@
     ],
     "rio": [
         "haven",
-        "readr",
-        "readxl"
+        "readr"
     ],
     "factoextra": [
         "FactoMineR",
@@ -13309,7 +13258,6 @@
         "egg",
         "heatmaply",
         "plotly",
-        "readxl",
         "tidyr"
     ],
     "ggalt": [
@@ -13349,7 +13297,6 @@
     "datamods": [
         "haven",
         "readr",
-        "readxl",
         "rio"
     ],
     "pd.mapping50k.xba240": [
@@ -13546,7 +13493,6 @@
         "nloptr",
         "pbkrtest",
         "readr",
-        "readxl",
         "testthat",
         "tidyr",
         "waldo"
