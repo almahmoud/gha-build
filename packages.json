@@ -8636,7 +8636,6 @@
     ],
     "waddR": [
         "arm",
-        "eva",
         "lme4",
         "nloptr",
         "testthat",
@@ -9647,6 +9646,5 @@
         "AnnotationHub",
         "ExperimentHub",
         "GSEABase"
-    ],
-    "eva": []
+    ]
 }
