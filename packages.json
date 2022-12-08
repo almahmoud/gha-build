@@ -498,7 +498,6 @@
     "methylclock": [
         "car",
         "ggpubr",
-        "methylclockData",
         "rstatix"
     ],
     "methylGSA": [
@@ -975,7 +974,6 @@
         "rstatix"
     ],
     "FlowSorted.Blood.450k": [],
-    "methylclockData": [],
     "mppa": [],
     "RcmdrMisc": [
         "car"
