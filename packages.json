@@ -6212,7 +6212,6 @@
         "httr",
         "lifecycle",
         "memoise",
-        "metadat",
         "metafor",
         "openssl",
         "org.Hs.eg.db",
@@ -34834,7 +34833,6 @@
         "knitr",
         "lifecycle",
         "lme4",
-        "metadat",
         "metafor",
         "mgcv",
         "nloptr",
@@ -35308,7 +35306,6 @@
         "htmlwidgets",
         "httr",
         "lifecycle",
-        "metadat",
         "metafor",
         "metap",
         "mgcv",
@@ -38539,7 +38536,6 @@
         "lifecycle",
         "lme4",
         "lmerTest",
-        "metadat",
         "metafor",
         "metagenomeSeq",
         "mgcv",
@@ -72716,10 +72712,8 @@
         "vctrs"
     ],
     "metafor": [
-        "Matrix",
-        "metadat"
+        "Matrix"
     ],
-    "metadat": [],
     "KEGGdzPathwaysGEO": [],
     "hgu133plus2.db": [
         "AnnotationDbi",
