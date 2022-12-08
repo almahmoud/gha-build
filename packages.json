@@ -121897,7 +121897,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "nnlasso",
         "nnls",
         "pillar",
         "plyr",
@@ -162450,7 +162449,6 @@
     ],
     "SNAGEEdata": [],
     "sampSurf": [],
-    "nnlasso": [],
     "logNormReg": [],
     "spdep": [
         "MASS",
