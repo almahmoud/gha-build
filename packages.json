@@ -326,7 +326,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "Cepo": [],
     "ceRNAnetsim": [],
     "CeTF": [
         "DESeq2",
@@ -2552,9 +2551,7 @@
     "scBubbletree": [
         "ggtree"
     ],
-    "scClassify": [
-        "Cepo"
-    ],
+    "scClassify": [],
     "scDD": [
         "arm",
         "lme4"
