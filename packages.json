@@ -367,7 +367,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "decompTumor2Sig": [],
     "deconvR": [
         "rsq"
     ],
@@ -1134,7 +1133,6 @@
     "musicatk": [
         "FactoMineR",
         "car",
-        "decompTumor2Sig",
         "factoextra",
         "ggpubr",
         "pbkrtest",
