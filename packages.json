@@ -48601,7 +48601,6 @@
         "GenomicRanges",
         "MultiAssayExperiment",
         "PharmacoGx",
-        "Rmisc",
         "SummarizedExperiment",
         "XVector",
         "bench",
@@ -56207,6 +56206,5 @@
         "scales",
         "tibble",
         "vctrs"
-    ],
-    "Rmisc": []
+    ]
 }
