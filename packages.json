@@ -11,11 +11,8 @@
         "DSS"
     ],
     "CancerInSilico": [],
-    "CATALYST": [
-        "FlowSOM"
-    ],
+    "CATALYST": [],
     "censcyt": [
-        "FlowSOM",
         "diffcyt"
     ],
     "CeTF": [
@@ -34,16 +31,13 @@
     "conclus": [],
     "CyTOFpower": [
         "CytoGLMM",
-        "FlowSOM",
         "diffcyt"
     ],
     "CytoGLMM": [],
     "DeMixT": [
         "DSS"
     ],
-    "diffcyt": [
-        "FlowSOM"
-    ],
+    "diffcyt": [],
     "DMRcate": [
         "DSS"
     ],
@@ -60,7 +54,6 @@
     "flowCL": [
         "SPARQL"
     ],
-    "FlowSOM": [],
     "FuseSOM": [],
     "GDCRNATools": [],
     "GEOexplorer": [],
@@ -72,9 +65,7 @@
     "kissDE": [
         "DSS"
     ],
-    "MetaCyto": [
-        "FlowSOM"
-    ],
+    "MetaCyto": [],
     "metaseqR2": [
         "DSS"
     ],
@@ -136,7 +127,6 @@
     ],
     "Travel": [],
     "treekoR": [
-        "FlowSOM",
         "diffcyt"
     ],
     "mGSZ": [],
