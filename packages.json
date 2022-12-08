@@ -966,7 +966,6 @@
         "DESeq2",
         "car",
         "dorothea",
-        "easierData",
         "ggpubr",
         "lme4",
         "nloptr",
@@ -3992,7 +3991,6 @@
         "nloptr",
         "pbkrtest"
     ],
-    "easierData": [],
     "EntropyExplorer": [],
     "EpiMix.data": [],
     "ewceData": [],
