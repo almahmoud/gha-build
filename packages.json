@@ -9861,7 +9861,6 @@
         "ggplot2",
         "ggthemes",
         "mgcv",
-        "pals",
         "pillar",
         "reshape2",
         "scales",
@@ -55935,7 +55934,6 @@
         "tibble",
         "vctrs"
     ],
-    "pals": [],
     "Rmixmod": [
         "RcppEigen"
     ],
