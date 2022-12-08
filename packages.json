@@ -139,7 +139,6 @@
     "biodbKegg": [],
     "biodbNcbi": [],
     "biodbNci": [],
-    "biodbUniprot": [],
     "biomvRCNS": [
         "Gviz",
         "biovizBase"
