@@ -4292,7 +4292,6 @@
         "scuttle",
         "tidyr"
     ],
-    "flowBin": [],
     "flowcatchR": [
         "plotly",
         "tidyr"
