@@ -235,9 +235,7 @@
         "mppa"
     ],
     "netbiov": [],
-    "netZooR": [
-        "yarn"
-    ],
+    "netZooR": [],
     "NormalyzerDE": [],
     "ODER": [
         "dasper",
@@ -367,7 +365,6 @@
     ],
     "wateRmelon": [],
     "YAPSA": [],
-    "yarn": [],
     "zenith": [],
     "ggpubr": [],
     "mGSZ": [],
