@@ -1360,7 +1360,6 @@
         "rstatix",
         "survminer"
     ],
-    "SigsPack": [],
     "singleCellTK": [],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
