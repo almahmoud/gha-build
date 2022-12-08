@@ -2162,7 +2162,6 @@
         "lme4",
         "lmerTest"
     ],
-    "SpidermiR": [],
     "SpliceWiz": [],
     "SPLINTER": [
         "Gviz",
@@ -2195,9 +2194,7 @@
     "staRank": [
         "cellHTS2"
     ],
-    "StarBioTrek": [
-        "SpidermiR"
-    ],
+    "StarBioTrek": [],
     "Statial": [],
     "strandCheckR": [],
     "StructuralVariantAnnotation": [],
