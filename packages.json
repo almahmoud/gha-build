@@ -4064,8 +4064,7 @@
         "vctrs"
     ],
     "BAGS": [
-        "Biobase",
-        "breastCancerVDX"
+        "Biobase"
     ],
     "ballgown": [
         "AnnotationDbi",
@@ -90368,7 +90367,6 @@
         "viridisLite",
         "waldo"
     ],
-    "breastCancerVDX": [],
     "xgboost": [
         "Matrix"
     ],
