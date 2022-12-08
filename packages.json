@@ -863,7 +863,6 @@
     "BioMM": [
         "GO.db",
         "Hmisc",
-        "precrec",
         "rms",
         "topGO"
     ],
@@ -2838,9 +2837,7 @@
         "InteractionSet",
         "rtracklayer"
     ],
-    "diffuStats": [
-        "precrec"
-    ],
+    "diffuStats": [],
     "diffUTR": [
         "BiocFileCache",
         "DESeq2",
@@ -12085,7 +12082,6 @@
     "rms": [
         "Hmisc"
     ],
-    "precrec": [],
     "synaptome.db": [
         "AnnotationHub",
         "BiocFileCache",
