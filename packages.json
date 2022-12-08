@@ -1845,7 +1845,6 @@
         "agricolae",
         "caret",
         "klaR",
-        "labelled",
         "questionr"
     ],
     "maPredictDSC": [
@@ -2489,7 +2488,6 @@
     "omada": [
         "diceR",
         "klaR",
-        "labelled",
         "questionr"
     ],
     "OmaDB": [],
@@ -3444,8 +3442,7 @@
     ],
     "ssPATHS": [
         "MESS",
-        "ggformula",
-        "labelled"
+        "ggformula"
     ],
     "STAN": [
         "Gviz",
@@ -4010,17 +4007,12 @@
     "depmap": [],
     "agricolae": [
         "klaR",
-        "labelled",
         "questionr"
     ],
     "klaR": [
-        "labelled",
         "questionr"
     ],
-    "questionr": [
-        "labelled"
-    ],
-    "labelled": [],
+    "questionr": [],
     "SmartSVA": [],
     "EnsDb.Hsapiens.v75": [
         "ensembldb"
@@ -4057,7 +4049,6 @@
     "octad.db": [],
     "diceR": [
         "klaR",
-        "labelled",
         "questionr"
     ],
     "OMICsPCAdata": [],
@@ -4106,12 +4097,9 @@
     "TENxPBMCData": [],
     "sampSurf": [],
     "MESS": [
-        "ggformula",
-        "labelled"
+        "ggformula"
     ],
-    "ggformula": [
-        "labelled"
-    ],
+    "ggformula": [],
     "GenKern": [],
     "bestNormalize": [],
     "naniar": [],
