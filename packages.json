@@ -23682,7 +23682,6 @@
         "nloptr",
         "pbkrtest",
         "pillar",
-        "pingr",
         "quantreg",
         "rematch2",
         "stringr",
@@ -39466,7 +39465,6 @@
     ],
     "BWStest": [],
     "SmoothWin": [],
-    "pingr": [],
     "osfr": [
         "pillar",
         "tibble"
