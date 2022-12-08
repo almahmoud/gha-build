@@ -284,7 +284,6 @@
         "speaq",
         "tidyr"
     ],
-    "altcdfenvs": [],
     "AMARETTO": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -8640,9 +8639,7 @@
         "Rsamtools",
         "ggplot2"
     ],
-    "Harshlight": [
-        "altcdfenvs"
-    ],
+    "Harshlight": [],
     "hca": [
         "BiocFileCache",
         "dbplyr",
