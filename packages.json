@@ -41,7 +41,6 @@
         "reshape2",
         "rmarkdown",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -80,7 +79,6 @@
         "SummarizedExperiment",
         "dplyr",
         "knitr",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -112,7 +110,6 @@
         "rstatix",
         "shiny",
         "shinyjs",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -137,7 +134,6 @@
         "selectr",
         "shiny",
         "smoother",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -210,7 +206,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -291,7 +286,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -335,7 +329,6 @@
         "rmarkdown",
         "shiny",
         "shinydashboard",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -367,7 +360,6 @@
         "progress",
         "rtracklayer",
         "seqinr",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -376,7 +368,6 @@
         "dplyr",
         "ggplot2",
         "plotly",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -397,7 +388,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -415,7 +405,6 @@
         "rvest",
         "selectr",
         "speaq",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -445,7 +434,6 @@
         "reshape2",
         "rmarkdown",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -463,7 +451,6 @@
         "ggthemes",
         "knitr",
         "rmarkdown",
-        "stringr",
         "tibble",
         "tidyselect",
         "waffle"
@@ -482,7 +469,6 @@
         "knitr",
         "qvalue",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "ANCOMBC": [
@@ -518,7 +504,6 @@
         "reshape2",
         "scater",
         "scuttle",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -542,7 +527,6 @@
         "ggplot2",
         "ggrepel",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "animalcules": [
@@ -575,7 +559,6 @@
         "reshape2",
         "shiny",
         "shinyjs",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -655,7 +638,6 @@
         "progress",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -683,7 +665,6 @@
         "reshape2",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -692,7 +673,6 @@
         "ggplot2",
         "qvalue",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "anota2seq": [
@@ -708,7 +688,6 @@
         "ggplot2",
         "qvalue",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "AnVIL": [
@@ -743,7 +722,6 @@
         "readr",
         "rmarkdown",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -773,7 +751,6 @@
         "progress",
         "repmis",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -816,7 +793,6 @@
         "shiny",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -862,7 +838,6 @@
         "seqinr",
         "shiny",
         "shinyjs",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -893,7 +868,6 @@
         "htmlTable",
         "knitr",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -928,7 +902,6 @@
         "reshape2",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -950,7 +923,6 @@
         "htmlTable",
         "knitr",
         "reshape2",
-        "stringr",
         "tibble",
         "viridis",
         "vsn"
@@ -972,7 +944,6 @@
         "plotly",
         "rematch2",
         "seqinr",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -991,7 +962,6 @@
         "plotly",
         "reshape2",
         "ropls",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -1032,7 +1002,6 @@
         "rematch2",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -1070,7 +1039,6 @@
         "progress",
         "rmarkdown",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -1167,7 +1135,6 @@
         "rvest",
         "selectr",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -1209,7 +1176,6 @@
         "reshape2",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -1236,7 +1202,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -1283,7 +1248,6 @@
         "rematch2",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "testthat",
         "tibble",
         "tidyselect",
@@ -1339,7 +1303,6 @@
         "knitr",
         "progress",
         "readxl",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -1364,7 +1327,6 @@
         "pbkrtest",
         "rematch2",
         "reshape2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -1393,7 +1355,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -1428,7 +1389,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -1441,7 +1401,6 @@
         "GenomicRanges",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "bandle": [
@@ -1483,7 +1442,6 @@
         "reshape2",
         "rmarkdown",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -1493,7 +1451,6 @@
     "banocc": [
         "ggplot2",
         "rstan",
-        "stringr",
         "tibble"
     ],
     "barcodetrackR": [
@@ -1523,7 +1480,6 @@
         "knitr",
         "prettydoc",
         "rmarkdown",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -1556,7 +1512,6 @@
         "scuttle",
         "shiny",
         "shinyjs",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -1581,7 +1536,6 @@
         "scuttle",
         "shiny",
         "shinyjs",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -1622,7 +1576,6 @@
         "reshape2",
         "rmarkdown",
         "shiny",
-        "stringr",
         "sva",
         "tibble",
         "tidyr",
@@ -1680,7 +1633,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -1705,7 +1657,6 @@
         "RSQLite",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "beadarraySNP": [
@@ -1802,7 +1753,6 @@
         "shiny",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "survey",
         "testthat",
         "tibble",
@@ -1835,7 +1785,6 @@
         "progress",
         "rtracklayer",
         "sjmisc",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -1867,8 +1816,7 @@
         "GenomicRanges"
     ],
     "BiGGR": [
-        "hyperdraw",
-        "stringr"
+        "hyperdraw"
     ],
     "bigmelon": [
         "AnnotationDbi",
@@ -1903,7 +1851,6 @@
         "reshape2",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -1925,7 +1872,6 @@
         "shiny",
         "shinycssloaders",
         "shinydashboard",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -1958,7 +1904,6 @@
         "knitr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -1975,7 +1920,6 @@
         "broom",
         "dplyr",
         "ggplot2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -2035,7 +1979,6 @@
         "shinyAce",
         "shinyFiles",
         "shinythemes",
-        "stringr",
         "testthat",
         "tibble",
         "tidygraph",
@@ -2049,8 +1992,7 @@
         "waldo"
     ],
     "BiocCheck": [
-        "knitr",
-        "stringr"
+        "knitr"
     ],
     "BiocDockerManager": [
         "dplyr",
@@ -2122,7 +2064,6 @@
         "rstatix",
         "rtracklayer",
         "shiny",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -2147,7 +2088,6 @@
         "rorcid",
         "rvest",
         "selectr",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -2172,8 +2112,7 @@
     "BiocStyle": [
         "bookdown",
         "knitr",
-        "rmarkdown",
-        "stringr"
+        "rmarkdown"
     ],
     "biocthis": [
         "gert",
@@ -2186,7 +2125,6 @@
         "gert",
         "knitr",
         "rmarkdown",
-        "stringr",
         "usethis"
     ],
     "biodb": [
@@ -2196,7 +2134,6 @@
         "dplyr",
         "progress",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyselect",
@@ -2210,7 +2147,6 @@
         "dplyr",
         "progress",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyselect",
@@ -2224,7 +2160,6 @@
         "dplyr",
         "progress",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyselect",
@@ -2238,7 +2173,6 @@
         "dplyr",
         "progress",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyselect",
@@ -2252,7 +2186,6 @@
         "dplyr",
         "progress",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyselect",
@@ -2266,7 +2199,6 @@
         "dplyr",
         "progress",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyselect",
@@ -2280,7 +2212,6 @@
         "dplyr",
         "progress",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyselect",
@@ -2294,7 +2225,6 @@
         "dplyr",
         "progress",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyselect",
@@ -2308,7 +2238,6 @@
         "dplyr",
         "progress",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyselect",
@@ -2322,7 +2251,6 @@
         "dplyr",
         "progress",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyselect",
@@ -2337,7 +2265,6 @@
         "dbplyr",
         "dplyr",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -2357,7 +2284,6 @@
         "precrec",
         "quantreg",
         "rms",
-        "stringr",
         "tibble",
         "topGO",
         "viridis"
@@ -2389,7 +2315,6 @@
         "knitr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -2416,7 +2341,6 @@
         "latex2exp",
         "org.Hs.eg.db",
         "shiny",
-        "stringr",
         "synaptome.data",
         "synaptome.db",
         "tibble",
@@ -2448,7 +2372,6 @@
         "patchwork",
         "reshape2",
         "sna",
-        "stringr",
         "sva",
         "tibble",
         "tidyselect",
@@ -2475,7 +2398,6 @@
         "rmarkdown",
         "shiny",
         "shinyBS",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -2503,8 +2425,7 @@
         "SummarizedExperiment",
         "bluster",
         "scran",
-        "scuttle",
-        "stringr"
+        "scuttle"
     ],
     "biotmle": [
         "GenomicRanges",
@@ -2546,7 +2467,6 @@
         "knitr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -2591,7 +2511,6 @@
         "reshape2",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -2634,7 +2553,6 @@
         "ggplot2",
         "pasilla",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -2648,7 +2566,6 @@
         "beadarray",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "BLMA": [
@@ -2681,7 +2598,6 @@
         "rematch2",
         "reshape2",
         "shiny",
-        "stringr",
         "testthat",
         "tibble",
         "tidyselect",
@@ -2717,7 +2633,6 @@
         "latex2exp",
         "mnem",
         "rmarkdown",
-        "stringr",
         "sva",
         "tibble",
         "vegan",
@@ -2755,7 +2670,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -2786,7 +2700,6 @@
         "ggplot2",
         "knitr",
         "rmarkdown",
-        "stringr",
         "tibble"
     ],
     "BRAIN": [
@@ -2834,7 +2747,6 @@
         "reshape2",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -2853,7 +2765,6 @@
         "dplyr",
         "progress",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -2885,7 +2796,6 @@
         "recipes",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -2905,7 +2815,6 @@
         "RSQLite",
         "dbplyr",
         "dplyr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -2972,7 +2881,6 @@
         "progress",
         "rmarkdown",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -3002,7 +2910,6 @@
         "rmarkdown",
         "roxygen2",
         "shiny",
-        "stringr",
         "testthat",
         "tibble",
         "usethis",
@@ -3024,7 +2931,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -3053,7 +2959,6 @@
         "plyranges",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -3098,7 +3003,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -3134,7 +3038,6 @@
         "progress",
         "pryr",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -3184,7 +3087,6 @@
         "reshape2",
         "rtracklayer",
         "sna",
-        "stringr",
         "sva",
         "tibble",
         "tidyr",
@@ -3203,7 +3105,6 @@
         "ggplot2",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -3218,7 +3119,6 @@
         "ggplot2",
         "htmlTable",
         "knitr",
-        "stringr",
         "tibble",
         "viridis",
         "vsn",
@@ -3245,7 +3145,6 @@
         "org.Hs.eg.db",
         "phenoTest",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -3255,7 +3154,6 @@
         "NMF",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "cardelino": [
@@ -3283,7 +3181,6 @@
         "progress",
         "rtracklayer",
         "snpStats",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -3301,7 +3198,6 @@
         "progress",
         "readr",
         "rmarkdown",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -3324,7 +3220,6 @@
         "progress",
         "rtracklayer",
         "sqldf",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -3363,7 +3258,6 @@
         "rstatix",
         "scater",
         "scuttle",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -3430,7 +3324,6 @@
         "rvest",
         "selectr",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -3484,7 +3377,6 @@
         "rvest",
         "selectr",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -3500,7 +3392,6 @@
         "shinyBS",
         "shinycssloaders",
         "shinydashboard",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -3536,7 +3427,6 @@
         "progress",
         "readr",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -3559,7 +3449,6 @@
         "scater",
         "scran",
         "scuttle",
-        "stringr",
         "tibble",
         "uwot",
         "viridis"
@@ -3570,7 +3459,6 @@
         "forcats",
         "progress",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -3585,7 +3473,6 @@
         "egg",
         "ggplot2",
         "seqinr",
-        "stringr",
         "tibble"
     ],
     "cellbaseR": [
@@ -3650,7 +3537,6 @@
         "shiny",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -3686,7 +3572,6 @@
         "quantreg",
         "rematch2",
         "reshape2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -3720,13 +3605,11 @@
         "ggplot2",
         "knitr",
         "rmarkdown",
-        "stringr",
         "tibble"
     ],
     "cellscape": [
         "dplyr",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -3739,7 +3622,6 @@
         "ggplot2",
         "ggrepel",
         "reshape2",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -3799,7 +3681,6 @@
         "scatterpie",
         "shadowtext",
         "sna",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -3839,7 +3720,6 @@
         "rematch2",
         "reshape2",
         "rstatix",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -3861,7 +3741,6 @@
         "ggplot2",
         "patchwork",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -3938,7 +3817,6 @@
         "shadowtext",
         "sna",
         "snpStats",
-        "stringr",
         "testthat",
         "tibble",
         "tidygraph",
@@ -3964,7 +3842,6 @@
         "reshape2",
         "rtracklayer",
         "seqPattern",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -3981,7 +3858,6 @@
         "plyranges",
         "quantmod",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -4059,7 +3935,6 @@
         "shiny",
         "shinythemes",
         "siggenes",
-        "stringr",
         "sva",
         "tibble",
         "tidyr",
@@ -4083,7 +3958,6 @@
         "plotly",
         "reshape2",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -4107,7 +3981,6 @@
         "recipes",
         "reshape2",
         "spp",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -4117,7 +3990,6 @@
         "ggplot2",
         "htmlTable",
         "knitr",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -4152,7 +4024,6 @@
         "progress",
         "rmarkdown",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -4203,7 +4074,6 @@
         "readr",
         "rms",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis",
@@ -4236,7 +4106,6 @@
         "progress",
         "rmarkdown",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -4264,7 +4133,6 @@
         "progress",
         "regioneR",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -4304,7 +4172,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "systemPipeR",
         "tibble",
         "tidyselect"
@@ -4347,7 +4214,6 @@
         "rtracklayer",
         "scatterpie",
         "shadowtext",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -4425,7 +4291,6 @@
         "dbplyr",
         "dplyr",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -4473,7 +4338,6 @@
         "shinydashboardPlus",
         "shinyhelper",
         "shinyjs",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -4492,7 +4356,6 @@
         "bamsignals",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "chromswitch": [
@@ -4506,7 +4369,6 @@
         "ggplot2",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -4534,7 +4396,6 @@
         "reshape2",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -4550,7 +4411,6 @@
         "dbplyr",
         "dplyr",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -4582,7 +4442,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -4596,7 +4455,6 @@
         "ggraph",
         "ggrepel",
         "reshape2",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -4607,7 +4465,6 @@
     "CINdex": [
         "GenomicRanges",
         "dplyr",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -4642,7 +4499,6 @@
         "seqinr",
         "shiny",
         "snpStats",
-        "stringr",
         "tibble",
         "tidyselect",
         "universalmotif",
@@ -4669,7 +4525,6 @@
         "ggplot2",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -4695,7 +4550,6 @@
         "reshape2",
         "scran",
         "scuttle",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -4728,16 +4582,14 @@
         "Rsamtools",
         "SummarizedExperiment",
         "rtracklayer",
-        "seqinr",
-        "stringr"
+        "seqinr"
     ],
     "cleaver": [
         "Biostrings"
     ],
     "clippda": [
         "knitr",
-        "rgl",
-        "stringr"
+        "rgl"
     ],
     "clipper": [
         "AnnotationDbi",
@@ -4758,7 +4610,6 @@
         "progress",
         "qpgraph",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -4787,15 +4638,13 @@
     ],
     "clst": [
         "ROC",
-        "knitr",
-        "stringr"
+        "knitr"
     ],
     "clstutils": [
         "ROC",
         "RSQLite",
         "clst",
-        "knitr",
-        "stringr"
+        "knitr"
     ],
     "CluMSID": [
         "GGally",
@@ -4836,7 +4685,6 @@
         "progress",
         "reshape2",
         "rncl",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -4871,7 +4719,6 @@
         "reshape2",
         "scatterpie",
         "shadowtext",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -4895,7 +4742,6 @@
         "ggplot2",
         "progress",
         "readr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -4935,7 +4781,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -4945,7 +4790,6 @@
         "ggplot2",
         "knitr",
         "rmarkdown",
-        "stringr",
         "tibble"
     ],
     "CNORfeeder": [
@@ -4953,7 +4797,6 @@
         "ggplot2",
         "knitr",
         "rmarkdown",
-        "stringr",
         "tibble"
     ],
     "CNORfuzzy": [
@@ -4963,7 +4806,6 @@
         "nloptr",
         "rematch2",
         "rmarkdown",
-        "stringr",
         "testthat",
         "tibble",
         "waldo"
@@ -4973,7 +4815,6 @@
         "ggplot2",
         "knitr",
         "rmarkdown",
-        "stringr",
         "tibble"
     ],
     "CNTools": [
@@ -5015,7 +4856,6 @@
         "progress",
         "regioneR",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -5060,7 +4900,6 @@
         "regioneR",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -5080,7 +4919,6 @@
         "shiny",
         "shinyFiles",
         "shinyjs",
-        "stringr",
         "testthat",
         "tibble",
         "waldo"
@@ -5092,8 +4930,7 @@
         "RaggedExperiment",
         "SeqArray",
         "SummarizedExperiment",
-        "reshape2",
-        "stringr"
+        "reshape2"
     ],
     "CNVrd2": [
         "AnnotationDbi",
@@ -5114,7 +4951,6 @@
         "ggplot2",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -5172,7 +5008,6 @@
         "rmarkdown",
         "siggenes",
         "sqldf",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -5199,7 +5034,6 @@
         "rmarkdown",
         "roxygen2",
         "shiny",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -5217,7 +5051,6 @@
         "ggtree",
         "patchwork",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -5244,13 +5077,11 @@
         "progress",
         "rmarkdown",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
     "cola": [
-        "knitr",
-        "stringr"
+        "knitr"
     ],
     "comapr": [
         "AnnotationDbi",
@@ -5280,7 +5111,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -5295,7 +5125,6 @@
         "phyloseq",
         "quantreg",
         "reshape2",
-        "stringr",
         "tibble",
         "vegan"
     ],
@@ -5325,7 +5154,6 @@
         "knitr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -5356,7 +5184,6 @@
         "rematch2",
         "rtracklayer",
         "shiny",
-        "stringr",
         "testthat",
         "tibble",
         "tidyselect",
@@ -5374,7 +5201,6 @@
         "ggplot2",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble"
     ],
     "COMPASS": [
@@ -5384,7 +5210,6 @@
         "knitr",
         "reshape2",
         "rmarkdown",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -5394,7 +5219,6 @@
         "knitr",
         "modeest",
         "phylolm",
-        "stringr",
         "tibble"
     ],
     "compEpiTools": [
@@ -5425,7 +5249,6 @@
         "methylPipe",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "topGO",
@@ -5456,7 +5279,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -5526,7 +5348,6 @@
         "scran",
         "scuttle",
         "shadowtext",
-        "stringr",
         "testthat",
         "tibble",
         "tidygraph",
@@ -5571,7 +5392,6 @@
         "spatstat.linnet",
         "spatstat.model",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -5592,7 +5412,6 @@
         "quantreg",
         "reshape2",
         "rms",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -5626,7 +5445,6 @@
         "org.Hs.eg.db",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -5654,7 +5472,6 @@
         "lava",
         "prodlim",
         "progress",
-        "stringr",
         "survcomp",
         "tibble",
         "tidyselect"
@@ -5665,8 +5482,7 @@
         "GenomicRanges",
         "Rsamtools",
         "SummarizedExperiment",
-        "rtracklayer",
-        "stringr"
+        "rtracklayer"
     ],
     "consICA": [
         "AnnotationDbi",
@@ -5701,7 +5517,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -5732,7 +5547,6 @@
         "readr",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -5771,7 +5585,6 @@
         "progress",
         "regioneR",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -5789,7 +5602,6 @@
         "Biostrings",
         "dplyr",
         "ggplot2",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -5822,7 +5634,6 @@
         "ggplot2",
         "ggthemes",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -5869,7 +5680,6 @@
         "progress",
         "readr",
         "rmarkdown",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -5899,7 +5709,6 @@
         "ggplot2",
         "knitr",
         "rmarkdown",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -5939,7 +5748,6 @@
         "ggplot2",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -5951,8 +5759,7 @@
     ],
     "crisprBase": [
         "Biostrings",
-        "GenomicRanges",
-        "stringr"
+        "GenomicRanges"
     ],
     "crisprBowtie": [
         "BSgenome",
@@ -5965,7 +5772,6 @@
         "progress",
         "readr",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -5981,7 +5787,6 @@
         "progress",
         "readr",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -6013,7 +5818,6 @@
         "readr",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -6031,7 +5835,6 @@
         "dplyr",
         "interactiveDisplayBase",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -6087,7 +5890,6 @@
         "seqinr",
         "shiny",
         "shinyjs",
-        "stringr",
         "tensorflow",
         "tfruns",
         "tibble",
@@ -6106,7 +5908,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "crisprVerse": [
@@ -6146,7 +5947,6 @@
         "readr",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis",
@@ -6188,7 +5988,6 @@
         "readr",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis",
@@ -6224,7 +6023,6 @@
         "shinyWidgets",
         "shinyjs",
         "shinypanel",
-        "stringr",
         "sva",
         "tibble",
         "tidyr",
@@ -6251,7 +6049,6 @@
         "ggplot2",
         "htmlTable",
         "knitr",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -6272,7 +6069,6 @@
         "ggplot2",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -6282,7 +6078,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -6310,7 +6105,6 @@
         "reshape2",
         "shiny",
         "shinycssloaders",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -6319,7 +6113,6 @@
         "ggplot2",
         "reshape2",
         "shiny",
-        "stringr",
         "tibble"
     ],
     "CTSV": [
@@ -6337,7 +6130,6 @@
         "qvalue",
         "reshape2",
         "scuttle",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -6368,7 +6160,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -6407,7 +6198,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -6435,7 +6225,6 @@
         "quantreg",
         "rematch2",
         "reshape2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -6500,7 +6289,6 @@
         "shinyFeedback",
         "shinyMatrix",
         "shinyjs",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -6538,7 +6326,6 @@
         "rematch2",
         "reshape2",
         "rstatix",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -6592,7 +6379,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "dagLogo": [
@@ -6621,7 +6407,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -6649,7 +6434,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -6702,7 +6486,6 @@
         "reshape2",
         "rgl",
         "rtracklayer",
-        "stringr",
         "sva",
         "testthat",
         "tibble",
@@ -6720,7 +6503,6 @@
         "ggplot2",
         "highcharter",
         "quantmod",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -6762,7 +6544,6 @@
         "rematch2",
         "rstatix",
         "rtracklayer",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -6772,8 +6553,7 @@
         "waldo"
     ],
     "dcanr": [
-        "reshape2",
-        "stringr"
+        "reshape2"
     ],
     "dce": [
         "AnnotationDbi",
@@ -6820,7 +6600,6 @@
         "selectr",
         "shadowtext",
         "sn",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -6849,7 +6628,6 @@
         "pbkrtest",
         "quantreg",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -6863,7 +6641,6 @@
         "patchwork",
         "reshape2",
         "scattermore",
-        "stringr",
         "survey",
         "tibble",
         "tidyselect"
@@ -6880,7 +6657,6 @@
         "quantmod",
         "readr",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -6936,7 +6712,6 @@
         "shinyBS",
         "shinydashboard",
         "shinyjs",
-        "stringr",
         "sva",
         "tibble",
         "tidygraph",
@@ -6966,7 +6741,6 @@
         "made4",
         "reshape2",
         "rmarkdown",
-        "stringr",
         "tibble"
     ],
     "DEComplexDisease": [
@@ -7006,7 +6780,6 @@
         "progress",
         "readxl",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -7017,7 +6790,6 @@
     "decontam": [
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "deconvR": [
@@ -7052,7 +6824,6 @@
         "rsq",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -7064,7 +6835,6 @@
         "broom",
         "dplyr",
         "ggplot2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -7077,7 +6847,6 @@
         "SummarizedExperiment",
         "dplyr",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -7091,7 +6860,6 @@
         "readr",
         "rvest",
         "selectr",
-        "stringr",
         "syuzhet",
         "tensorflow",
         "text2vec",
@@ -7124,7 +6892,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -7163,7 +6930,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -7195,7 +6961,6 @@
         "ggplot2",
         "ggrepel",
         "knitr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -7204,7 +6969,6 @@
         "ggplot2",
         "qvalue",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "DelayedDataFrame": [],
@@ -7253,7 +7017,6 @@
         "knitr",
         "rmarkdown",
         "rtracklayer",
-        "stringr",
         "sva",
         "tibble",
         "viridis"
@@ -7276,7 +7039,6 @@
         "rmarkdown",
         "shiny",
         "shinydashboard",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -7290,7 +7052,6 @@
         "ggrepel",
         "mixOmics",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -7327,7 +7088,6 @@
         "qvalue",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -7366,7 +7126,6 @@
         "qvalue",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -7395,7 +7154,6 @@
         "progress",
         "regioneR",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -7431,7 +7189,6 @@
         "quantreg",
         "rematch2",
         "smoother",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -7454,7 +7211,6 @@
         "qvalue",
         "rematch2",
         "reshape2",
-        "stringr",
         "testthat",
         "tibble",
         "waldo"
@@ -7508,7 +7264,6 @@
         "geneplotter",
         "ggplot2",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -7541,7 +7296,6 @@
         "ggplot2",
         "ggrepel",
         "rtracklayer",
-        "stringr",
         "systemPipeR",
         "tibble",
         "tidyselect"
@@ -7560,7 +7314,6 @@
         "ggplot2",
         "htmlTable",
         "knitr",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -7589,7 +7342,6 @@
         "rematch2",
         "reshape2",
         "rstatix",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -7605,7 +7357,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "diffHic": [
@@ -7649,7 +7400,6 @@
         "ggrepel",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -7689,7 +7439,6 @@
         "shiny",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -7727,7 +7476,6 @@
         "shinycssloaders",
         "shinydashboard",
         "shinyjs",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -7760,7 +7508,6 @@
         "ggrepel",
         "ggridges",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "divergence": [
@@ -7782,7 +7529,6 @@
         "nloptr",
         "rematch2",
         "rtracklayer",
-        "stringr",
         "testthat",
         "tibble",
         "tidyselect",
@@ -7852,7 +7598,6 @@
         "ruv",
         "shiny",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -7885,7 +7630,6 @@
         "knitr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -7920,14 +7664,12 @@
         "reshape2",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
     ],
     "DNABarcodeCompatibility": [
         "dplyr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -7966,7 +7708,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -8003,7 +7744,6 @@
         "reshape2",
         "shiny",
         "shinydashboard",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -8024,7 +7764,6 @@
         "ggplot2",
         "qvalue",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "doseR": [
@@ -8060,7 +7799,6 @@
         "GenomicRanges",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "DropletUtils": [
@@ -8089,7 +7827,6 @@
         "httpcache",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -8118,7 +7855,6 @@
         "qvalue",
         "readr",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -8137,7 +7873,6 @@
     "dStruct": [
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "Dune": [
@@ -8195,7 +7930,6 @@
         "reshape2",
         "rstatix",
         "shiny",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -8235,7 +7969,6 @@
         "reshape2",
         "scatterpie",
         "shadowtext",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -8248,8 +7981,7 @@
     "easyreporting": [
         "knitr",
         "rmarkdown",
-        "shiny",
-        "stringr"
+        "shiny"
     ],
     "easyRNASeq": [
         "AnnotationDbi",
@@ -8267,7 +7999,6 @@
         "dplyr",
         "genomeIntervals",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -8314,7 +8045,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -8332,7 +8062,6 @@
         "rematch2",
         "reshape2",
         "snm",
-        "stringr",
         "sva",
         "testthat",
         "tibble",
@@ -8376,7 +8105,6 @@
         "scatterpie",
         "shadowtext",
         "sna",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -8493,7 +8221,6 @@
         "rtracklayer",
         "rvest",
         "selectr",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -8534,7 +8261,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -8567,7 +8293,6 @@
         "rtracklayer",
         "shiny",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -8624,7 +8349,6 @@
         "reshape2",
         "scatterpie",
         "shadowtext",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -8689,7 +8413,6 @@
         "rtracklayer",
         "scatterpie",
         "shadowtext",
-        "stringr",
         "testthat",
         "tibble",
         "tidygraph",
@@ -8719,7 +8442,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -8741,7 +8463,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -8798,7 +8519,6 @@
         "seqPattern",
         "shadowtext",
         "shiny",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -8833,16 +8553,13 @@
         "rematch2",
         "rstatix",
         "rtracklayer",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
         "tidyselect",
         "waldo"
     ],
-    "EpiDISH": [
-        "stringr"
-    ],
+    "EpiDISH": [],
     "epigenomix": [
         "AnnotationDbi",
         "Biostrings",
@@ -8856,7 +8573,6 @@
         "ggplot2",
         "quantreg",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "epigraHMM": [
@@ -8886,7 +8602,6 @@
         "rematch2",
         "rstatix",
         "rtracklayer",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -8930,7 +8645,6 @@
         "reshape2",
         "scatterpie",
         "shadowtext",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -8965,7 +8679,6 @@
         "readr",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -9021,7 +8734,6 @@
         "rtracklayer",
         "shiny",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -9034,7 +8746,6 @@
         "ggplot2",
         "latex2exp",
         "mnem",
-        "stringr",
         "tibble",
         "vegan"
     ],
@@ -9051,7 +8762,6 @@
         "progress",
         "qgraph",
         "reshape2",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -9074,7 +8784,6 @@
         "ggplot2",
         "progress",
         "rtracklayer",
-        "stringr",
         "tRNA",
         "tRNAdbImport",
         "tibble",
@@ -9102,7 +8811,6 @@
         "epivizrServer",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -9127,7 +8835,6 @@
         "epivizrServer",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -9151,7 +8858,6 @@
         "epivizrServer",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -9179,7 +8885,6 @@
         "epivizrServer",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -9187,7 +8892,6 @@
         "ggplot2",
         "qvalue",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "erma": [
@@ -9216,7 +8920,6 @@
         "progress",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -9285,7 +8988,6 @@
         "rtracklayer",
         "scatterpie",
         "shadowtext",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -9319,7 +9021,6 @@
         "msigdbr",
         "patchwork",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -9349,7 +9050,6 @@
         "rmarkdown",
         "rvest",
         "selectr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -9382,7 +9082,6 @@
         "qvalue",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -9431,7 +9130,6 @@
         "reshape2",
         "rstatix",
         "shiny",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -9475,7 +9173,6 @@
         "ggplot2",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -9518,7 +9215,6 @@
         "progress",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -9559,8 +9255,7 @@
         "SummarizedExperiment",
         "bookdown",
         "knitr",
-        "rmarkdown",
-        "stringr"
+        "rmarkdown"
     ],
     "extraChIPs": [
         "AnnotationDbi",
@@ -9599,7 +9294,6 @@
         "patchwork",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -9626,7 +9320,6 @@
         "progress",
         "readr",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -9640,7 +9333,6 @@
         "kinship2",
         "knitr",
         "plotly",
-        "stringr",
         "survey",
         "tibble",
         "tidyr",
@@ -9683,7 +9375,6 @@
         "shiny",
         "shinyBS",
         "shinydashboard",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -9709,7 +9400,6 @@
         "htmlTable",
         "knitr",
         "org.Sc.sgd.db",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -9725,9 +9415,7 @@
         "shiny",
         "shinyBS"
     ],
-    "fastreeR": [
-        "stringr"
-    ],
+    "fastreeR": [],
     "fastseg": [
         "GenomicRanges"
     ],
@@ -9755,15 +9443,13 @@
         "reshape2",
         "rtracklayer",
         "seqPattern",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
     ],
     "fCI": [
         "knitr",
-        "rgl",
-        "stringr"
+        "rgl"
     ],
     "fcoex": [
         "AnnotationDbi",
@@ -9802,7 +9488,6 @@
         "scatterpie",
         "shadowtext",
         "sna",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -9830,7 +9515,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -9854,7 +9538,6 @@
         "ggplot2",
         "ggthemes",
         "repr",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -9893,7 +9576,6 @@
         "reshape2",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -9908,8 +9590,7 @@
         "tidyselect"
     ],
     "FGNet": [
-        "reshape2",
-        "stringr"
+        "reshape2"
     ],
     "fgsea": [
         "cowplot",
@@ -9943,7 +9624,6 @@
         "qvalue",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -9956,7 +9636,6 @@
         "ggplot2",
         "qvalue",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "flagme": [
@@ -9969,7 +9648,6 @@
         "ggplot2",
         "htmlTable",
         "knitr",
-        "stringr",
         "tibble",
         "viridis",
         "vsn",
@@ -10020,7 +9698,6 @@
         "scater",
         "scran",
         "scuttle",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -10032,12 +9709,10 @@
         "knitr",
         "reshape2",
         "rmarkdown",
-        "stringr",
         "tibble"
     ],
     "flowBeads": [
-        "knitr",
-        "stringr"
+        "knitr"
     ],
     "flowBin": [
         "flowFP",
@@ -10077,7 +9752,6 @@
         "pbkrtest",
         "quantreg",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -10104,7 +9778,6 @@
         "pbkrtest",
         "quantreg",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -10120,12 +9793,10 @@
         "ggiraph",
         "ggplot2",
         "ggrepel",
-        "stringr",
         "tibble"
     ],
     "flowMap": [
-        "reshape2",
-        "stringr"
+        "reshape2"
     ],
     "flowMeans": [
         "feature"
@@ -10146,7 +9817,6 @@
         "rematch2",
         "rmarkdown",
         "shiny",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -10172,7 +9842,6 @@
         "quantreg",
         "rematch2",
         "rstatix",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -10183,7 +9852,6 @@
     "flowSpecs": [
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "flowStats": [
@@ -10247,7 +9915,6 @@
         "lexicon",
         "prodlim",
         "progress",
-        "stringr",
         "syuzhet",
         "textclean",
         "tibble",
@@ -10300,7 +9967,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -10320,7 +9986,6 @@
         "pbkrtest",
         "quantreg",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -10382,7 +10047,6 @@
         "readr",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -10412,7 +10076,6 @@
         "rematch2",
         "reshape2",
         "rstatix",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -10438,7 +10101,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -10464,7 +10126,6 @@
         "shiny",
         "shinyjs",
         "shinythemes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -10527,7 +10188,6 @@
         "reshape2",
         "rgl",
         "rtracklayer",
-        "stringr",
         "sva",
         "testthat",
         "tibble",
@@ -10565,7 +10225,6 @@
         "ggplot2",
         "knitr",
         "rmarkdown",
-        "stringr",
         "tibble"
     ],
     "gcrma": [
@@ -10585,7 +10244,6 @@
         "rmarkdown",
         "roxygen2",
         "shiny",
-        "stringr",
         "testthat",
         "tibble",
         "usethis",
@@ -10649,7 +10307,6 @@
         "scatterpie",
         "shadowtext",
         "shiny",
-        "stringr",
         "survMisc",
         "survminer",
         "testthat",
@@ -10686,7 +10343,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "dplyr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -10709,7 +10365,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -10739,7 +10394,6 @@
         "rematch2",
         "reshape2",
         "rstatix",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -10763,7 +10417,6 @@
         "org.Hs.eg.db",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -10794,7 +10447,6 @@
         "lava",
         "prodlim",
         "progress",
-        "stringr",
         "survcomp",
         "tibble",
         "tidyselect"
@@ -10819,7 +10471,6 @@
         "quantreg",
         "rematch2",
         "snpStats",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -10863,7 +10514,6 @@
         "quantreg",
         "quantsmooth",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -10895,7 +10545,6 @@
         "knitr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -10932,7 +10581,6 @@
         "shinyWidgets",
         "shinycssloaders",
         "shinyjs",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -10958,14 +10606,12 @@
         "org.Rn.eg.db",
         "rmarkdown",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
     "GENIE3": [
         "dplyr",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -10982,7 +10628,6 @@
         "reshape2",
         "rtracklayer",
         "seqPattern",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -11026,7 +10671,6 @@
         "dplyr",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -11046,7 +10690,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -11068,7 +10711,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -11100,7 +10742,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -11131,7 +10772,6 @@
         "knitr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -11166,7 +10806,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -11213,7 +10852,6 @@
         "rematch2",
         "rmarkdown",
         "rstatix",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -11242,7 +10880,6 @@
         "ggplot2",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -11257,7 +10894,6 @@
         "readr",
         "rvest",
         "selectr",
-        "stringr",
         "syuzhet",
         "tensorflow",
         "text2vec",
@@ -11292,7 +10928,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -11318,7 +10953,6 @@
         "readxl",
         "rematch2",
         "reshape2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -11359,7 +10993,6 @@
         "shinyBS",
         "shinyHeatmaply",
         "shinybusy",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -11373,7 +11006,6 @@
     "GEOfastq": [
         "rvest",
         "selectr",
-        "stringr",
         "tibble"
     ],
     "GEOmetadb": [
@@ -11407,7 +11039,6 @@
         "readxl",
         "rematch2",
         "reshape2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -11448,7 +11079,6 @@
         "ggplot2",
         "progress",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyselect",
         "vsn"
@@ -11468,7 +11098,6 @@
         "pbkrtest",
         "quantreg",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -11504,7 +11133,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -11643,7 +11271,6 @@
         "multcomp",
         "reshape2",
         "shiny",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -11652,7 +11279,6 @@
         "dplyr",
         "ggplot2",
         "ggrepel",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -11708,7 +11334,6 @@
         "rematch2",
         "reshape2",
         "rstatix",
-        "stringr",
         "survMisc",
         "survminer",
         "testthat",
@@ -11756,7 +11381,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -11784,7 +11408,6 @@
         "org.Mm.eg.db",
         "reshape2",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -11806,7 +11429,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -11822,7 +11444,6 @@
         "progress",
         "readr",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -11840,7 +11461,6 @@
         "dplyr",
         "ggplot2",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -11874,8 +11494,7 @@
         "Biostrings",
         "GO.db",
         "KEGGREST",
-        "RSQLite",
-        "stringr"
+        "RSQLite"
     ],
     "GOSemSim": [
         "AnnotationDbi",
@@ -11902,7 +11521,6 @@
         "geneLenDataBase",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -11947,7 +11565,6 @@
         "reshape2",
         "scatterpie",
         "shadowtext",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -11968,7 +11585,6 @@
         "dbplyr",
         "dplyr",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -11987,7 +11603,6 @@
     "GOsummaries": [
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "GOTHiC": [
@@ -12023,7 +11638,6 @@
         "progress",
         "pryr",
         "readxl",
-        "stringr",
         "tibble"
     ],
     "GRaNIE": [
@@ -12046,7 +11660,6 @@
         "progress",
         "readr",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -12063,7 +11676,6 @@
         "knitr",
         "rmarkdown",
         "sf",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -12090,7 +11702,6 @@
     "GRENITS": [
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "GreyListChIP": [
@@ -12119,7 +11730,6 @@
         "plotly",
         "quantreg",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -12139,7 +11749,6 @@
         "ggplot2",
         "reshape2",
         "shiny",
-        "stringr",
         "tibble"
     ],
     "gscreend": [
@@ -12192,7 +11801,6 @@
         "dplyr",
         "ggplot2",
         "ggwordcloud",
-        "stringr",
         "tibble",
         "tidyselect",
         "tidytext",
@@ -12214,7 +11822,6 @@
         "ggplot2",
         "progress",
         "sqldf",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -12240,7 +11847,6 @@
         "org.Hs.eg.db",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -12302,7 +11908,6 @@
         "rio",
         "rtracklayer",
         "seqinr",
-        "stringr",
         "tensorflow",
         "tfruns",
         "tibble",
@@ -12328,7 +11933,6 @@
         "knitr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -12357,7 +11961,6 @@
         "knitr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -12373,7 +11976,6 @@
         "prodlim",
         "recipes",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -12401,7 +12003,6 @@
         "rtracklayer",
         "shiny",
         "snpStats",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -12415,7 +12016,6 @@
         "mice",
         "quantreg",
         "quantsmooth",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -12445,7 +12045,6 @@
         "quantreg",
         "quantsmooth",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -12466,7 +12065,6 @@
         "htmlTable",
         "knitr",
         "plotly",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -12521,7 +12119,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -12546,7 +12143,6 @@
         "ggplot2",
         "ggrepel",
         "progress",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -12579,7 +12175,6 @@
         "progress",
         "readr",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis",
@@ -12625,7 +12220,6 @@
         "knitr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -12661,7 +12255,6 @@
         "rstatix",
         "shiny",
         "shinyjs",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -12703,7 +12296,6 @@
         "progress",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -12737,7 +12329,6 @@
         "ggplot2",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -12772,7 +12363,6 @@
         "ggplot2",
         "ggrepel",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyselect",
         "umap"
@@ -12811,7 +12401,6 @@
     "HPAStainR": [
         "dplyr",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -12829,7 +12418,6 @@
         "readr",
         "recipes",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -12857,7 +12445,6 @@
         "gmapR",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -12879,7 +12466,6 @@
         "biocthis",
         "dplyr",
         "gert",
-        "stringr",
         "styler",
         "tibble",
         "tidyselect",
@@ -12909,7 +12495,6 @@
         "rvest",
         "selectr",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect",
         "tweenr",
@@ -12937,7 +12522,6 @@
         "ggplot2",
         "htmlTable",
         "knitr",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -12967,7 +12551,6 @@
         "ggplot2",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -13003,7 +12586,6 @@
         "rgl",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -13035,7 +12617,6 @@
         "shiny",
         "shinyBS",
         "shinydashboard",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -13083,7 +12664,6 @@
         "shinyAce",
         "shinyBS",
         "shinydashboard",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -13117,7 +12697,6 @@
         "GenomicRanges",
         "dplyr",
         "ggplot2",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -13127,7 +12706,6 @@
         "ggplot2",
         "reshape2",
         "rstan",
-        "stringr",
         "tibble"
     ],
     "igvR": [
@@ -13149,7 +12727,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -13166,7 +12743,6 @@
         "progress",
         "readxl",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyselect",
         "umap",
@@ -13208,7 +12784,6 @@
         "progress",
         "rematch2",
         "rtracklayer",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -13239,7 +12814,6 @@
         "sf",
         "shiny",
         "shinydashboard",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -13267,7 +12841,6 @@
         "plotly",
         "reshape2",
         "rmarkdown",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -13281,7 +12854,6 @@
         "readr",
         "rvest",
         "selectr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -13299,7 +12871,6 @@
         "rmarkdown",
         "roxygen2",
         "shiny",
-        "stringr",
         "testthat",
         "tibble",
         "usethis",
@@ -13328,7 +12899,6 @@
         "shiny",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -13362,7 +12932,6 @@
         "reshape2",
         "rtracklayer",
         "seqinr",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -13389,7 +12958,6 @@
         "progress",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -13419,7 +12987,6 @@
         "reshape2",
         "rstatix",
         "rtracklayer",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -13456,7 +13023,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -13473,7 +13039,6 @@
         "rvest",
         "selectr",
         "shiny",
-        "stringr",
         "tibble",
         "webshot"
     ],
@@ -13490,7 +13055,6 @@
         "interactiveDisplayBase",
         "reshape2",
         "shiny",
-        "stringr",
         "tibble"
     ],
     "interactiveDisplayBase": [
@@ -13540,7 +13104,6 @@
         "shinycssloaders",
         "shinydashboard",
         "shinyjs",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -13573,7 +13136,6 @@
         "progress",
         "rtracklayer",
         "seqinr",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -13587,8 +13149,7 @@
     "IntramiRExploreR": [
         "FGNet",
         "knitr",
-        "reshape2",
-        "stringr"
+        "reshape2"
     ],
     "IONiseR": [
         "Biostrings",
@@ -13599,7 +13160,6 @@
         "SummarizedExperiment",
         "dplyr",
         "ggplot2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -13626,7 +13186,6 @@
         "quantreg",
         "rematch2",
         "rstatix",
-        "stringr",
         "survMisc",
         "survminer",
         "testthat",
@@ -13660,7 +13219,6 @@
         "ggplot2",
         "htmlTable",
         "knitr",
-        "stringr",
         "tibble",
         "viridis",
         "vsn",
@@ -13735,7 +13293,6 @@
         "shiny",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "testthat",
         "tibble",
         "tidygraph",
@@ -13763,7 +13320,6 @@
         "shiny",
         "shinyWidgets",
         "shinybusy",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -13863,7 +13419,6 @@
         "dplyr",
         "ggplot2",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -13873,7 +13428,6 @@
         "progress",
         "readr",
         "readxl",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -13885,7 +13439,6 @@
         "progress",
         "readr",
         "readxl",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -13921,7 +13474,6 @@
         "reshape2",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect",
         "tximeta",
@@ -13949,7 +13501,6 @@
         "knitr",
         "progress",
         "readr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -13987,7 +13538,6 @@
         "progress",
         "rematch2",
         "rtracklayer",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -14018,7 +13568,6 @@
         "rematch2",
         "rstatix",
         "shiny",
-        "stringr",
         "survMisc",
         "survminer",
         "testthat",
@@ -14063,7 +13612,6 @@
         "progress",
         "regioneR",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -14092,7 +13640,6 @@
         "plyranges",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -14166,7 +13713,6 @@
         "rtracklayer",
         "shiny",
         "shinycssloaders",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -14197,7 +13743,6 @@
         "recipes",
         "reshape2",
         "rmarkdown",
-        "stringr",
         "sva",
         "tibble",
         "tidyr",
@@ -14230,7 +13775,6 @@
         "shinythemes",
         "shinyvalidate",
         "sortable",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -14262,7 +13806,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "stringr",
         "testthat",
         "tibble",
         "tidyselect",
@@ -14274,7 +13817,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "knitr",
-        "stringr",
         "tibble"
     ],
     "lineagespot": [
@@ -14295,7 +13837,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -14327,7 +13868,6 @@
         "reshape2",
         "rio",
         "rstatix",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -14354,7 +13894,6 @@
         "ggtree",
         "patchwork",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -14394,7 +13933,6 @@
         "geepack",
         "ggplot2",
         "org.Sc.sgd.db",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -14438,7 +13976,6 @@
         "ggplot2",
         "htmlTable",
         "knitr",
-        "stringr",
         "tibble",
         "viridis",
         "vsn",
@@ -14452,14 +13989,12 @@
     ],
     "LOLA": [
         "GenomicRanges",
-        "reshape2",
-        "stringr"
+        "reshape2"
     ],
     "LoomExperiment": [
         "GenomicRanges",
         "SingleCellExperiment",
-        "SummarizedExperiment",
-        "stringr"
+        "SummarizedExperiment"
     ],
     "LowMACA": [
         "AnVIL",
@@ -14498,7 +14033,6 @@
         "rvest",
         "selectr",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -14556,7 +14090,6 @@
         "reshape2",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -14592,7 +14125,6 @@
         "knitr",
         "reldist",
         "rstan",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -14624,7 +14156,6 @@
         "reshape2",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -14645,7 +14176,6 @@
         "quantreg",
         "rematch2",
         "reshape2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -14680,7 +14210,6 @@
         "quantreg",
         "rematch2",
         "reshape2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -14707,7 +14236,6 @@
         "rmarkdown",
         "rvest",
         "selectr",
-        "stringr",
         "tibble"
     ],
     "MACSr": [
@@ -14748,7 +14276,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "vcfR",
@@ -14792,7 +14319,6 @@
         "rtracklayer",
         "siggenes",
         "snpStats",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -14840,7 +14366,6 @@
         "scatterpie",
         "shadowtext",
         "shiny",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -14883,7 +14408,6 @@
         "rmarkdown",
         "rvest",
         "selectr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -14921,7 +14445,6 @@
         "recipes",
         "reshape2",
         "shiny",
-        "stringr",
         "styler",
         "tibble",
         "tidyr",
@@ -14958,14 +14481,11 @@
         "prodlim",
         "recipes",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
     ],
-    "mapscape": [
-        "stringr"
-    ],
+    "mapscape": [],
     "marr": [
         "GenomicRanges",
         "SummarizedExperiment",
@@ -15004,7 +14524,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -15020,7 +14539,6 @@
         "ggplot2",
         "progress",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "MatrixQCvis": [
@@ -15040,7 +14558,6 @@
         "shinydashboard",
         "shinyhelper",
         "shinyjs",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -15068,7 +14585,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -15096,7 +14612,6 @@
         "reshape2",
         "rmarkdown",
         "ruv",
-        "stringr",
         "sva",
         "testthat",
         "tibble",
@@ -15114,7 +14629,6 @@
         "benchmarkmeData",
         "dplyr",
         "ggplot2",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -15129,7 +14643,6 @@
         "ggplot2",
         "htmlTable",
         "knitr",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -15147,7 +14660,6 @@
         "oligoClasses",
         "quantreg",
         "quantsmooth",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -15163,7 +14675,6 @@
         "ggplot2",
         "knitr",
         "rmarkdown",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -15183,7 +14694,6 @@
         "knitr",
         "org.Hs.eg.db",
         "progress",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -15222,7 +14732,6 @@
         "org.Hs.eg.db",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -15236,8 +14745,7 @@
         "GenomicAlignments",
         "GenomicRanges",
         "Rsamtools",
-        "SummarizedExperiment",
-        "stringr"
+        "SummarizedExperiment"
     ],
     "MEAL": [
         "AnnotationDbi",
@@ -15289,7 +14797,6 @@
         "rtracklayer",
         "ruv",
         "siggenes",
-        "stringr",
         "sva",
         "tibble",
         "tidyr",
@@ -15331,7 +14838,6 @@
         "reshape2",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -15358,7 +14864,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -15377,7 +14882,6 @@
         "pbkrtest",
         "quantreg",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -15405,7 +14909,6 @@
         "ggplot2",
         "knitr",
         "rmarkdown",
-        "stringr",
         "tibble"
     ],
     "Melissa": [
@@ -15419,7 +14922,6 @@
         "knitr",
         "quantreg",
         "rmarkdown",
-        "stringr",
         "tibble"
     ],
     "memes": [
@@ -15482,7 +14984,6 @@
         "scatterpie",
         "shadowtext",
         "shiny",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -15505,8 +15006,7 @@
         "bookdown",
         "genefilter",
         "knitr",
-        "rmarkdown",
-        "stringr"
+        "rmarkdown"
     ],
     "MesKit": [
         "AnnotationDbi",
@@ -15547,7 +15047,6 @@
         "prodlim",
         "recipes",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -15578,7 +15077,6 @@
         "knitr",
         "progress",
         "rols",
-        "stringr",
         "struct",
         "tibble",
         "tidyr",
@@ -15625,7 +15123,6 @@
         "reshape2",
         "rtracklayer",
         "sqldf",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -15653,7 +15150,6 @@
         "quantreg",
         "rematch2",
         "rstatix",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -15681,7 +15177,6 @@
         "ggplot2",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -15695,7 +15190,6 @@
         "ggplot2",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -15710,7 +15204,6 @@
         "ggplot2",
         "htmlTable",
         "knitr",
-        "stringr",
         "tibble",
         "viridis",
         "vsn",
@@ -15763,7 +15256,6 @@
         "reshape2",
         "scatterpie",
         "shadowtext",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -15823,7 +15315,6 @@
         "rmarkdown",
         "rmdformats",
         "rtracklayer",
-        "stringr",
         "survcomp",
         "tibble",
         "tidyr",
@@ -15860,7 +15351,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "vegan"
@@ -15903,7 +15393,6 @@
         "qvalue",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble"
     ],
     "methimpute": [
@@ -15911,7 +15400,6 @@
         "GenomicRanges",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "methInheritSim": [
@@ -15927,7 +15415,6 @@
         "qvalue",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble"
     ],
     "MethReg": [
@@ -15964,7 +15451,6 @@
         "sesame",
         "sesameData",
         "shiny",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -15985,8 +15471,7 @@
     ],
     "MethTargetedNGS": [
         "Biostrings",
-        "seqinr",
-        "stringr"
+        "seqinr"
     ],
     "MethylAid": [
         "AnnotationDbi",
@@ -16013,7 +15498,6 @@
         "rtracklayer",
         "shiny",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -16048,7 +15532,6 @@
         "readr",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -16125,7 +15608,6 @@
         "selectr",
         "shiny",
         "siggenes",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -16193,7 +15675,6 @@
         "shadowtext",
         "shiny",
         "siggenes",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -16216,7 +15697,6 @@
         "qvalue",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble"
     ],
     "methylKit": [
@@ -16230,7 +15710,6 @@
         "qvalue",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble"
     ],
     "MethylMix": [
@@ -16263,7 +15742,6 @@
         "knitr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -16331,7 +15809,6 @@
         "reshape2",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -16351,7 +15828,6 @@
         "rmarkdown",
         "roxygen2",
         "shiny",
-        "stringr",
         "testthat",
         "tibble",
         "usethis",
@@ -16364,7 +15840,6 @@
         "dplyr",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -16400,7 +15875,6 @@
         "dbplyr",
         "dplyr",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -16425,7 +15899,6 @@
         "reshape2",
         "scater",
         "scuttle",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -16478,7 +15951,6 @@
         "reshape2",
         "scater",
         "scuttle",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -16496,7 +15968,6 @@
         "ggplot2",
         "phyloseq",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -16508,7 +15979,6 @@
         "metagenomeSeq",
         "phyloseq",
         "reshape2",
-        "stringr",
         "tibble",
         "tmvtnorm",
         "vegan"
@@ -16548,7 +16018,6 @@
         "shinycssloaders",
         "shinydashboard",
         "shinyjs",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -16620,7 +16089,6 @@
         "scater",
         "scuttle",
         "shiny",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -16669,7 +16137,6 @@
         "shiny",
         "shinyWidgets",
         "shinycustomloader",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -16725,7 +16192,6 @@
         "rmarkdown",
         "rvest",
         "selectr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -16747,7 +16213,6 @@
         "ggplot2",
         "org.Hs.eg.db",
         "reshape2",
-        "stringr",
         "tibble",
         "vegan"
     ],
@@ -16766,7 +16231,6 @@
         "ggraph",
         "ggrepel",
         "patchwork",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -16803,7 +16267,6 @@
         "htmlTable",
         "knitr",
         "reshape2",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -16846,7 +16309,6 @@
         "reshape2",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -16875,7 +16337,6 @@
         "readr",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -16962,7 +16423,6 @@
         "readr",
         "rvest",
         "selectr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -16979,16 +16439,14 @@
         "KEGGREST",
         "RSQLite",
         "miRBaseVersions.db",
-        "reshape2",
-        "stringr"
+        "reshape2"
     ],
     "miRNAtap": [
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
         "RSQLite",
-        "sqldf",
-        "stringr"
+        "sqldf"
     ],
     "miRSM": [
         "AnnotationDbi",
@@ -17089,7 +16547,6 @@
         "selectr",
         "shadowtext",
         "shiny",
-        "stringr",
         "subspace",
         "testthat",
         "tibble",
@@ -17180,7 +16637,6 @@
         "scatterpie",
         "selectr",
         "shadowtext",
-        "stringr",
         "testthat",
         "tibble",
         "tidygraph",
@@ -17198,7 +16654,6 @@
         "dplyr",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -17237,7 +16692,6 @@
         "rtracklayer",
         "ruv",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -17267,7 +16721,6 @@
         "readr",
         "recipes",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -17285,7 +16738,6 @@
         "reshape2",
         "rmarkdown",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -17311,7 +16763,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -17320,7 +16771,6 @@
         "ggplot2",
         "ggrepel",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -17368,7 +16818,6 @@
         "recipes",
         "rematch2",
         "reshape2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -17405,7 +16854,6 @@
         "quantreg",
         "rematch2",
         "reshape2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -17431,7 +16879,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble",
         "topGO",
         "viridis"
@@ -17458,14 +16905,12 @@
         "ggplot2",
         "htmlTable",
         "knitr",
-        "stringr",
         "tibble",
         "viridis"
     ],
     "Modstrings": [
         "Biostrings",
-        "GenomicRanges",
-        "stringr"
+        "GenomicRanges"
     ],
     "MOFA2": [
         "cowplot",
@@ -17474,7 +16919,6 @@
         "ggplot2",
         "ggrepel",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -17484,8 +16928,7 @@
         "IRdisplay",
         "IRkernel",
         "RCy3",
-        "repr",
-        "stringr"
+        "repr"
     ],
     "mogsa": [
         "AnnotationDbi",
@@ -17508,7 +16951,6 @@
         "qvalue",
         "readr",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -17533,7 +16975,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -17542,7 +16983,6 @@
         "dplyr",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -17590,7 +17030,6 @@
         "scatterpie",
         "selectr",
         "shadowtext",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -17620,7 +17059,6 @@
     "MOSim": [
         "dplyr",
         "ggplot2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -17675,7 +17113,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis",
@@ -17711,7 +17148,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -17735,7 +17171,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -17753,7 +17188,6 @@
         "ggplot2",
         "progress",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -17790,7 +17224,6 @@
         "reshape2",
         "rmarkdown",
         "rstatix",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -17807,7 +17240,6 @@
         "GenomicRanges",
         "dplyr",
         "seqinr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -17875,7 +17307,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -17915,7 +17346,6 @@
         "msmsEDA",
         "qvalue",
         "reshape2",
-        "stringr",
         "tibble",
         "vsn"
     ],
@@ -17945,7 +17375,6 @@
         "reshape2",
         "rmarkdown",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect",
         "vsn"
@@ -17970,7 +17399,6 @@
         "pbkrtest",
         "quantreg",
         "rematch2",
-        "stringr",
         "sva",
         "testthat",
         "tibble",
@@ -17984,7 +17412,6 @@
         "dplyr",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -18058,7 +17485,6 @@
         "rstatix",
         "rvest",
         "selectr",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -18083,7 +17509,6 @@
         "lmerTest",
         "nloptr",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyselect",
@@ -18101,7 +17526,6 @@
         "qcmetrics",
         "shiny",
         "shinyjs",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -18120,7 +17544,6 @@
         "qcmetrics",
         "shiny",
         "shinyjs",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -18142,7 +17565,6 @@
         "recipes",
         "rematch2",
         "reshape2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -18168,7 +17590,6 @@
         "shinyBS",
         "shinybusy",
         "shinyjs",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -18266,7 +17687,6 @@
         "regioneR",
         "rtracklayer",
         "seqinr",
-        "stringr",
         "tensorflow",
         "tfruns",
         "tibble",
@@ -18399,7 +17819,6 @@
         "shiny",
         "shinydashboard",
         "sn",
-        "stringr",
         "testthat",
         "tibble",
         "tidygraph",
@@ -18446,7 +17865,6 @@
         "googleAuthR",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -18483,7 +17901,6 @@
         "scater",
         "sctransform",
         "scuttle",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -18560,7 +17977,6 @@
         "shinyjqui",
         "shinyjs",
         "sortable",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -18594,7 +18010,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -18617,7 +18032,6 @@
         "qvalue",
         "rematch2",
         "reshape2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -18645,7 +18059,6 @@
         "progress",
         "rtracklayer",
         "sqldf",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -18672,7 +18085,6 @@
         "knitr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -18726,7 +18138,6 @@
         "rtracklayer",
         "shiny",
         "sn",
-        "stringr",
         "tibble",
         "tidyselect",
         "trackViewer",
@@ -18755,7 +18166,6 @@
         "progress",
         "readr",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -18767,7 +18177,6 @@
         "ggiraph",
         "ggplot2",
         "ggthemes",
-        "stringr",
         "tibble"
     ],
     "NanoStringQCPro": [
@@ -18780,7 +18189,6 @@
         "knitr",
         "org.Hs.eg.db",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "nanotatoR": [
@@ -18812,7 +18220,6 @@
         "rmarkdown",
         "rvest",
         "selectr",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -18854,7 +18261,6 @@
         "quantreg",
         "rematch2",
         "reshape2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -18909,7 +18315,6 @@
         "plyranges",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -18933,7 +18338,6 @@
         "shiny",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -18946,7 +18350,6 @@
         "ggplot2",
         "latex2exp",
         "mnem",
-        "stringr",
         "tibble",
         "vegan"
     ],
@@ -18976,7 +18379,6 @@
         "ggplot2",
         "htmlTable",
         "knitr",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -19009,7 +18411,6 @@
         "reshape2",
         "scatterpie",
         "shadowtext",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -19029,7 +18430,6 @@
         "dplyr",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -19056,7 +18456,6 @@
         "plotly",
         "progress",
         "readr",
-        "stringr",
         "supraHex",
         "tibble",
         "tidyr",
@@ -19077,7 +18476,6 @@
         "qvalue",
         "reshape2",
         "rmarkdown",
-        "stringr",
         "tibble"
     ],
     "NetSAM": [
@@ -19096,7 +18494,6 @@
         "htmlTable",
         "knitr",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -19132,7 +18529,6 @@
         "rncl",
         "scater",
         "scuttle",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -19180,7 +18576,6 @@
         "rtracklayer",
         "siggenes",
         "sqldf",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -19217,7 +18612,6 @@
         "readr",
         "reshape2",
         "rmarkdown",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -19268,7 +18662,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -19298,7 +18691,6 @@
         "readr",
         "readxl",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -19312,8 +18704,7 @@
     "NormqPCR": [
         "knitr",
         "qpcR",
-        "rgl",
-        "stringr"
+        "rgl"
     ],
     "normr": [
         "Biostrings",
@@ -19326,14 +18717,12 @@
         "qvalue",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble"
     ],
     "NPARC": [
         "broom",
         "dplyr",
         "ggplot2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -19437,7 +18826,6 @@
         "reshape2",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -19488,7 +18876,6 @@
         "reshape2",
         "rstatix",
         "rtracklayer",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -19535,7 +18922,6 @@
         "shinyBS",
         "shinyFiles",
         "shinydashboard",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -19570,7 +18956,6 @@
         "readr",
         "reshape2",
         "shiny",
-        "stringr",
         "styler",
         "tibble",
         "tidyr",
@@ -19603,7 +18988,6 @@
         "knitr",
         "rmarkdown",
         "shiny",
-        "stringr",
         "vegan",
         "zCompositions"
     ],
@@ -19641,7 +19025,6 @@
         "rematch2",
         "reshape2",
         "rexposome",
-        "stringr",
         "sva",
         "testthat",
         "tibble",
@@ -19702,7 +19085,6 @@
         "rtracklayer",
         "rvest",
         "selectr",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -19753,7 +19135,6 @@
         "shinycssloaders",
         "shinyjs",
         "shinythemes",
-        "stringr",
         "survMisc",
         "survminer",
         "testthat",
@@ -19768,7 +19149,6 @@
         "ggplot2",
         "progress",
         "readr",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -19783,7 +19163,6 @@
         "rmarkdown",
         "rvest",
         "selectr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -19814,7 +19193,6 @@
         "dbplyr",
         "dplyr",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -19830,7 +19208,6 @@
         "pbkrtest",
         "quantreg",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -19887,7 +19264,6 @@
         "knitr",
         "reshape2",
         "seqinr",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -19909,7 +19285,6 @@
         "shiny",
         "shinyBS",
         "shinyjs",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -19931,7 +19306,6 @@
         "rapportools",
         "rematch2",
         "reshape2",
-        "stringr",
         "summarytools",
         "testthat",
         "tibble",
@@ -19951,7 +19325,6 @@
         "dbplyr",
         "dplyr",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -19982,7 +19355,6 @@
         "rmarkdown",
         "roxygen2",
         "shiny",
-        "stringr",
         "testthat",
         "tibble",
         "usethis",
@@ -19994,7 +19366,6 @@
         "flowMeans",
         "knitr",
         "rgl",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -20002,7 +19373,6 @@
         "ggplot2",
         "qvalue",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "ORFhunteR": [
@@ -20013,8 +19383,7 @@
         "GenomicRanges",
         "Rsamtools",
         "SummarizedExperiment",
-        "rtracklayer",
-        "stringr"
+        "rtracklayer"
     ],
     "ORFik": [
         "AnnotationDbi",
@@ -20040,7 +19409,6 @@
         "progress",
         "readr",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -20062,7 +19430,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -20082,7 +19449,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -20115,7 +19481,6 @@
         "rematch2",
         "repmis",
         "rstatix",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -20166,7 +19531,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -20207,7 +19571,6 @@
         "pbkrtest",
         "quantreg",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -20243,7 +19606,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -20316,7 +19678,6 @@
         "scatterpie",
         "shadowtext",
         "sn",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -20328,7 +19689,6 @@
     ],
     "PanViz": [
         "dplyr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -20357,7 +19717,6 @@
         "rematch2",
         "reshape2",
         "shadowtext",
-        "stringr",
         "tensorflow",
         "testthat",
         "tfprobability",
@@ -20385,7 +19744,6 @@
         "qvalue",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -20418,7 +19776,6 @@
         "roxygen2",
         "shiny",
         "shinyjs",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -20488,7 +19845,6 @@
         "shinyAce",
         "shinyBS",
         "shinydashboard",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -20504,7 +19860,6 @@
         "ggplot2",
         "ggrepel",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "pcxn": [],
@@ -20558,7 +19913,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "stringr",
         "survMisc",
         "survcomp",
         "survminer",
@@ -20590,7 +19944,6 @@
         "ggplot2",
         "shiny",
         "shinycssloaders",
-        "stringr",
         "tibble",
         "vsn"
     ],
@@ -20629,7 +19982,6 @@
     "PepsNMR": [
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "pepStat": [
@@ -20646,7 +19998,6 @@
         "quantreg",
         "reshape2",
         "sn",
-        "stringr",
         "tibble",
         "vegan"
     ],
@@ -20692,7 +20043,6 @@
         "reshape2",
         "scatterpie",
         "shadowtext",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -20721,7 +20071,6 @@
         "opencpu",
         "progress",
         "readr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -20742,7 +20091,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -20770,7 +20118,6 @@
         "progress",
         "rematch2",
         "ropls",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -20806,7 +20153,6 @@
         "knitr",
         "org.Hs.eg.db",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -20824,7 +20170,6 @@
         "pbkrtest",
         "quantreg",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -20884,7 +20229,6 @@
         "reshape2",
         "rstatix",
         "ruv",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -20917,7 +20261,6 @@
         "shinyBS",
         "shinyFiles",
         "shinyjs",
-        "stringr",
         "tibble",
         "tidyselect",
         "topGO"
@@ -20926,7 +20269,6 @@
         "Biostrings",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble",
         "vegan"
     ],
@@ -20950,7 +20292,6 @@
         "recipes",
         "reshape2",
         "sna",
-        "stringr",
         "supraHex",
         "tibble",
         "tidyr",
@@ -21015,7 +20356,6 @@
         "rmarkdown",
         "scatterpie",
         "shadowtext",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -21056,7 +20396,6 @@
         "progress",
         "rainbow",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -21092,7 +20431,6 @@
         "shiny",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -21108,8 +20446,7 @@
         "SummarizedExperiment",
         "knitr",
         "rmarkdown",
-        "rtracklayer",
-        "stringr"
+        "rtracklayer"
     ],
     "pkgDepTools": [],
     "planet": [
@@ -21122,7 +20459,6 @@
         "Streamer",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "PloGO2": [
@@ -21181,7 +20517,6 @@
         "shiny",
         "shinyjs",
         "shinythemes",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -21214,7 +20549,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "PoDCall": [
@@ -21282,7 +20616,6 @@
         "recipes",
         "reshape2",
         "rmarkdown",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -21308,7 +20641,6 @@
         "ggplot2",
         "progress",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "ppcseq": [
@@ -21321,7 +20653,6 @@
         "ggplot2",
         "posterior",
         "rstan",
-        "stringr",
         "tibble",
         "tidybayes",
         "tidyr",
@@ -21342,7 +20673,6 @@
         "ggplot2",
         "progress",
         "sqldf",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -21372,7 +20702,6 @@
         "phyloseq",
         "reshape2",
         "rmarkdown",
-        "stringr",
         "tibble",
         "vegan"
     ],
@@ -21408,7 +20737,6 @@
         "reshape2",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -21458,7 +20786,6 @@
         "reshape2",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -21476,7 +20803,6 @@
         "knitr",
         "progress",
         "quantmod",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -21504,7 +20830,6 @@
         "ggplot2",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -21524,7 +20849,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -21548,7 +20872,6 @@
         "pvca",
         "rematch2",
         "reshape2",
-        "stringr",
         "sva",
         "testthat",
         "tibble",
@@ -21637,7 +20960,6 @@
         "shadowtext",
         "shiny",
         "soGGi",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -21654,7 +20976,6 @@
         "ggplot2",
         "ggrepel",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -21669,7 +20990,6 @@
         "ggalluvial",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -21707,7 +21027,6 @@
         "recipes",
         "reshape2",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -21755,7 +21074,6 @@
         "shinydashboardPlus",
         "shinyhelper",
         "shinyjs",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -21779,7 +21097,6 @@
         "annotate",
         "genefilter",
         "reshape2",
-        "stringr",
         "sva"
     ],
     "Prostar": [
@@ -21799,7 +21116,6 @@
         "shinyjqui",
         "shinyjs",
         "shinythemes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -21830,7 +21146,6 @@
         "ensembldb",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -21853,7 +21168,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -21870,7 +21184,6 @@
         "ggplot2",
         "ggrepel",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -21913,7 +21226,6 @@
         "selectr",
         "shiny",
         "shinydashboard",
-        "stringr",
         "styler",
         "testthat",
         "tibble",
@@ -21968,7 +21280,6 @@
         "shiny",
         "shinyBS",
         "shinyjs",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -22002,7 +21313,6 @@
         "ggplot2",
         "progress",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -22031,7 +21341,6 @@
         "rstatix",
         "shiny",
         "shinyscreenshot",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -22067,7 +21376,6 @@
         "ggplot2",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -22107,7 +21415,6 @@
         "knitr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -22131,7 +21438,6 @@
         "progress",
         "shiny",
         "sqldf",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -22160,13 +21466,11 @@
         "dplyr",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
     "qcmetrics": [
-        "knitr",
-        "stringr"
+        "knitr"
     ],
     "QDNAseq": [
         "Biostrings",
@@ -22205,7 +21509,6 @@
         "quantreg",
         "rematch2",
         "reshape2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -22231,7 +21534,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -22243,7 +21545,6 @@
         "ggplot2",
         "progress",
         "readr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -22276,7 +21577,6 @@
         "progress",
         "rematch2",
         "rtracklayer",
-        "stringr",
         "testthat",
         "tibble",
         "tidyselect",
@@ -22305,7 +21605,6 @@
         "ggplot2",
         "htmlTable",
         "knitr",
-        "stringr",
         "sva",
         "tibble",
         "viridis"
@@ -22362,7 +21661,6 @@
         "readr",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -22397,7 +21695,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -22417,7 +21714,6 @@
     "qvalue": [
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "R3CPET": [
@@ -22450,7 +21746,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -22468,7 +21763,6 @@
         "reshape2",
         "rtracklayer",
         "sqldf",
-        "stringr",
         "tibble"
     ],
     "R453Plus1Toolbox": [
@@ -22490,7 +21784,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -22512,7 +21805,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -22527,7 +21819,6 @@
         "GenomicRanges",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "ramwas": [
@@ -22544,7 +21835,6 @@
         "dbplyr",
         "dplyr",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -22553,7 +21843,6 @@
         "dplyr",
         "progress",
         "readr",
-        "stringr",
         "supraHex",
         "tibble",
         "tidyr",
@@ -22592,7 +21881,6 @@
         "progress",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -22608,7 +21896,6 @@
         "progress",
         "readr",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -22626,8 +21913,7 @@
         "SummarizedExperiment",
         "baySeq",
         "knitr",
-        "rgl",
-        "stringr"
+        "rgl"
     ],
     "RCAS": [
         "AnnotationDbi",
@@ -22658,7 +21944,6 @@
         "rmarkdown",
         "rtracklayer",
         "seqPattern",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -22667,7 +21952,6 @@
     "rcellminer": [
         "ggplot2",
         "shiny",
-        "stringr",
         "tibble"
     ],
     "rCGH": [
@@ -22693,7 +21977,6 @@
         "progress",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -22724,7 +22007,6 @@
         "phyloseq",
         "quantmod",
         "reshape2",
-        "stringr",
         "tibble",
         "tseries",
         "vegan"
@@ -22750,7 +22032,6 @@
         "progress",
         "readr",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -22769,7 +22050,6 @@
         "progress",
         "readr",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -22786,8 +22066,7 @@
     ],
     "RDRToolbox": [
         "knitr",
-        "rgl",
-        "stringr"
+        "rgl"
     ],
     "ReactomeGraph4R": [
         "dplyr",
@@ -22835,7 +22114,6 @@
         "reshape2",
         "scatterpie",
         "shadowtext",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -22853,8 +22131,7 @@
         "BiocStyle",
         "bookdown",
         "knitr",
-        "rmarkdown",
-        "stringr"
+        "rmarkdown"
     ],
     "receptLoss": [
         "GenomicRanges",
@@ -22870,7 +22147,6 @@
         "ggplot2",
         "phyloseq",
         "reshape2",
-        "stringr",
         "tibble",
         "vegan"
     ],
@@ -22903,7 +22179,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -22948,7 +22223,6 @@
         "readr",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -22971,7 +22245,6 @@
         "ggplot2",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -23000,7 +22273,6 @@
         "progress",
         "regioneR",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -23034,7 +22306,6 @@
         "knitr",
         "qvalue",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -23061,7 +22332,6 @@
         "regioneR",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "umap"
     ],
@@ -23101,7 +22371,6 @@
         "reshape2",
         "rmarkdown",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -23143,7 +22412,6 @@
         "repr",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -23185,7 +22453,6 @@
         "rtracklayer",
         "shiny",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -23249,7 +22516,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -23267,7 +22533,6 @@
         "dbplyr",
         "dplyr",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -23290,7 +22555,6 @@
         "ggplot2",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble"
     ],
     "restfulSE": [
@@ -23313,7 +22577,6 @@
         "reshape2",
         "rhdf5client",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -23336,7 +22599,6 @@
         "quantreg",
         "rematch2",
         "reshape2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -23349,13 +22611,11 @@
         "Biostrings",
         "rvest",
         "selectr",
-        "stringr",
         "tibble"
     ],
     "Rfastp": [
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "rfPred": [
@@ -23385,7 +22645,6 @@
         "interactiveDisplayBase",
         "rGenomeTracksData",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -23420,7 +22679,6 @@
         "progress",
         "regioneR",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -23450,7 +22708,6 @@
         "progress",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -23478,7 +22735,6 @@
         "org.Hs.eg.db",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -23500,7 +22756,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -23530,7 +22785,6 @@
         "progress",
         "readr",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -23561,7 +22815,6 @@
         "reshape2",
         "rstan",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -23596,7 +22849,6 @@
         "reshape2",
         "rtracklayer",
         "sqldf",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -23645,7 +22897,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -23670,7 +22921,6 @@
         "rematch2",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -23682,7 +22932,6 @@
         "dplyr",
         "reshape2",
         "sqldf",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -23725,7 +22974,6 @@
         "progress",
         "regioneR",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -23766,7 +23014,6 @@
         "reshape2",
         "rtracklayer",
         "sqldf",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -23783,8 +23030,7 @@
         "Rsamtools",
         "SummarizedExperiment",
         "consensusSeekeR",
-        "rtracklayer",
-        "stringr"
+        "rtracklayer"
     ],
     "RLassoCox": [],
     "RLSeq": [
@@ -23824,7 +23070,6 @@
         "reshape2",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -23840,7 +23085,6 @@
         "readJDX",
         "rvest",
         "selectr",
-        "stringr",
         "tibble",
         "tidyselect",
         "vsn",
@@ -23882,7 +23126,6 @@
         "roxygen2",
         "rtracklayer",
         "shiny",
-        "stringr",
         "testthat",
         "tibble",
         "tidyselect",
@@ -23895,8 +23138,7 @@
         "GenomicRanges",
         "Rsamtools",
         "SummarizedExperiment",
-        "rtracklayer",
-        "stringr"
+        "rtracklayer"
     ],
     "RNAAgeCalc": [
         "AnnotationDbi",
@@ -23929,7 +23171,6 @@
         "recount",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -23965,7 +23206,6 @@
         "mice",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -24016,7 +23256,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -24050,7 +23289,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -24084,7 +23322,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -24118,7 +23355,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -24130,7 +23366,6 @@
         "ggplot2",
         "qvalue",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "RNASeqR": [
@@ -24192,7 +23427,6 @@
         "rtracklayer",
         "scatterpie",
         "shadowtext",
-        "stringr",
         "sva",
         "systemPipeR",
         "systemPipeRdata",
@@ -24250,7 +23484,6 @@
         "reshape2",
         "rstatix",
         "rtracklayer",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -24289,7 +23522,6 @@
         "reshape2",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -24305,15 +23537,13 @@
         "rtracklayer"
     ],
     "ROC": [
-        "knitr",
-        "stringr"
+        "knitr"
     ],
     "ROCpAI": [
         "GenomicRanges",
         "SummarizedExperiment",
         "fission",
-        "knitr",
-        "stringr"
+        "knitr"
     ],
     "RolDE": [
         "GenomicRanges",
@@ -24321,7 +23551,6 @@
         "ggplot2",
         "qvalue",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "rols": [
@@ -24354,7 +23583,6 @@
         "phyloseq",
         "reshape2",
         "rmarkdown",
-        "stringr",
         "tibble",
         "vegan"
     ],
@@ -24366,7 +23594,6 @@
         "shiny",
         "shinyFeedback",
         "shinycssloaders",
-        "stringr",
         "tibble"
     ],
     "rpx": [
@@ -24409,7 +23636,6 @@
         "rmarkdown",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -24438,7 +23664,6 @@
         "rematch2",
         "ropls",
         "sn",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -24477,12 +23702,10 @@
     ],
     "rScudo": [
         "GenomicRanges",
-        "SummarizedExperiment",
-        "stringr"
+        "SummarizedExperiment"
     ],
     "rsemmed": [
         "dplyr",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -24517,7 +23740,6 @@
         "rstatix",
         "rvest",
         "selectr",
-        "stringr",
         "survMisc",
         "survminer",
         "testthat",
@@ -24550,7 +23772,6 @@
         "rtracklayer",
         "rvest",
         "selectr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -24571,7 +23792,6 @@
         "plotly",
         "quantreg",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -24595,7 +23815,6 @@
         "plotly",
         "quantreg",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -24621,7 +23840,6 @@
         "plotly",
         "quantreg",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -24649,7 +23867,6 @@
         "ggplot2",
         "htmlTable",
         "knitr",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -24689,8 +23906,7 @@
         "waldo"
     ],
     "RUVcorr": [
-        "reshape2",
-        "stringr"
+        "reshape2"
     ],
     "RUVSeq": [
         "AnnotationDbi",
@@ -24710,7 +23926,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -24723,7 +23938,6 @@
         "kinship2",
         "knitr",
         "snpStats",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -24759,7 +23973,6 @@
         "dplyr",
         "ggplot2",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -24783,7 +23996,6 @@
         "shinycssloaders",
         "shinydashboard",
         "shinyjs",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -24804,7 +24016,6 @@
     "savR": [
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "SBGNview": [
@@ -24820,8 +24031,7 @@
         "knitr",
         "org.Hs.eg.db",
         "pathview",
-        "rmarkdown",
-        "stringr"
+        "rmarkdown"
     ],
     "SC3": [
         "GenomicRanges",
@@ -24856,7 +24066,6 @@
         "shiny",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "tensorflow",
         "tfruns",
         "tibble",
@@ -24924,7 +24133,6 @@
         "shinycssloaders",
         "shinydashboard",
         "shinyjqui",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -24965,7 +24173,6 @@
         "shiny",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -25052,7 +24259,6 @@
         "shiny",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -25080,7 +24286,6 @@
         "shiny",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -25110,7 +24315,6 @@
         "shiny",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -25136,7 +24340,6 @@
         "patchwork",
         "plotly",
         "reshape2",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -25157,7 +24360,6 @@
         "progress",
         "readr",
         "rstan",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -25183,7 +24385,6 @@
         "shiny",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -25288,7 +24489,6 @@
         "prodlim",
         "recipes",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -25316,7 +24516,6 @@
         "shiny",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -25346,7 +24545,6 @@
         "sangerseqR",
         "selectr",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect",
         "webshot"
@@ -25368,7 +24566,6 @@
         "shiny",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -25381,7 +24578,6 @@
         "dplyr",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -25400,7 +24596,6 @@
         "reldist",
         "rstan",
         "ruv",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -25416,7 +24611,6 @@
         "knitr",
         "rmarkdown",
         "rstan",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -25449,7 +24643,6 @@
         "rmarkdown",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -25486,7 +24679,6 @@
         "plotly",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -25534,7 +24726,6 @@
         "progress",
         "rtracklayer",
         "snpStats",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -25556,7 +24747,6 @@
         "ScaledMatrix",
         "dplyr",
         "origami",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -25590,7 +24780,6 @@
         "rtracklayer",
         "scater",
         "scuttle",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -25623,7 +24812,6 @@
         "ggplot2",
         "ggvenn",
         "patchwork",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -25641,7 +24829,6 @@
         "ggrepel",
         "powerTCR",
         "reshape2",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -25683,7 +24870,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -25766,7 +24952,6 @@
         "shiny",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -25816,7 +25001,6 @@
         "shiny",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -25876,7 +25060,6 @@
         "shiny",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -25896,14 +25079,12 @@
         "ggplot2",
         "qvalue",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "sechm": [
         "GenomicRanges",
         "SummarizedExperiment",
-        "randomcoloR",
-        "stringr"
+        "randomcoloR"
     ],
     "segmenter": [
         "AnnotationDbi",
@@ -25945,7 +25126,6 @@
         "rtracklayer",
         "scatterpie",
         "shadowtext",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -25987,7 +25167,6 @@
         "ggplot2",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -26020,7 +25199,6 @@
         "htmlTable",
         "knitr",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -26030,7 +25208,6 @@
         "ggplot2",
         "ggseqlogo",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "SeqArray": [
@@ -26060,7 +25237,6 @@
         "ggplot2",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -26089,7 +25265,6 @@
         "geneplotter",
         "ggplot2",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -26133,7 +25308,6 @@
         "reshape2",
         "rmarkdown",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -26147,7 +25321,6 @@
         "ggplot2",
         "logistf",
         "mice",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -26171,7 +25344,6 @@
         "reshape2",
         "sesameData",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -26190,13 +25362,10 @@
         "ggplot2",
         "randomcoloR",
         "sechm",
-        "stringr",
         "sva",
         "tibble"
     ],
-    "sevenbridges": [
-        "stringr"
-    ],
+    "sevenbridges": [],
     "sevenC": [
         "Biostrings",
         "GenomicAlignments",
@@ -26227,7 +25396,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -26267,7 +25435,6 @@
         "shinyjs",
         "shinythemes",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -26300,7 +25467,6 @@
         "rtracklayer",
         "shiny",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -26327,7 +25493,6 @@
         "progress",
         "rematch2",
         "reshape2",
-        "stringr",
         "testthat",
         "tibble",
         "vegan",
@@ -26336,8 +25501,7 @@
     "SICtools": [
         "Biostrings",
         "GenomicRanges",
-        "Rsamtools",
-        "stringr"
+        "Rsamtools"
     ],
     "SigCheck": [
         "AnnotationDbi",
@@ -26370,7 +25534,6 @@
         "ggplot2",
         "qvalue",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "signatureSearch": [
@@ -26416,7 +25579,6 @@
         "scatterpie",
         "shadowtext",
         "shiny",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -26473,7 +25635,6 @@
         "shinyWidgets",
         "shinycssloaders",
         "shinydashboard",
-        "stringr",
         "survMisc",
         "survivalAnalysis",
         "survminer",
@@ -26541,7 +25702,6 @@
         "rematch2",
         "rstatix",
         "rtracklayer",
-        "stringr",
         "survMisc",
         "survcomp",
         "survminer",
@@ -26571,7 +25731,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -26588,7 +25747,6 @@
     "SIMAT": [
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "SimBindProfiles": [
@@ -26611,7 +25769,6 @@
         "ggplot2",
         "phyloseq",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -26658,7 +25815,6 @@
         "fields",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -26670,7 +25826,6 @@
         "SummarizedExperiment",
         "dplyr",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -26688,8 +25843,7 @@
         "SummarizedExperiment",
         "bluster",
         "scran",
-        "scuttle",
-        "stringr"
+        "scuttle"
     ],
     "singleCellTK": [
         "AnnotationDbi",
@@ -26792,7 +25946,6 @@
         "sn",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "sva",
         "tibble",
         "tidyr",
@@ -26824,7 +25977,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -26849,7 +26001,6 @@
         "ggrepel",
         "plotly",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -26887,7 +26038,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -26941,7 +26091,6 @@
         "reshape2",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -26999,7 +26148,6 @@
         "progress",
         "reactome.db",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -27019,8 +26167,7 @@
     ],
     "snapcount": [
         "GenomicRanges",
-        "SummarizedExperiment",
-        "stringr"
+        "SummarizedExperiment"
     ],
     "snm": [
         "lme4",
@@ -27053,7 +26200,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -27069,7 +26215,6 @@
         "ggplot2",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble"
     ],
     "sojourner": [
@@ -27081,7 +26226,6 @@
         "sampSurf",
         "shiny",
         "shinyjs",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -27117,7 +26261,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -27157,7 +26300,6 @@
         "shiny",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -27198,7 +26340,6 @@
         "ggplot2",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble"
     ],
     "spaSim": [
@@ -27275,7 +26416,6 @@
         "rematch2",
         "repmis",
         "reshape2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -27347,7 +26487,6 @@
         "scuttle",
         "shiny",
         "shinydashboard",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -27389,7 +26528,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis",
@@ -27448,7 +26586,6 @@
         "shinyjs",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -27492,8 +26629,7 @@
         "miRNAtap",
         "miRNAtap.db",
         "org.Hs.eg.db",
-        "sqldf",
-        "stringr"
+        "sqldf"
     ],
     "spiky": [
         "BSgenome",
@@ -27555,7 +26691,6 @@
         "shinyFiles",
         "shinyWidgets",
         "shinydashboard",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -27582,7 +26717,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -27621,7 +26755,6 @@
         "knitr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -27678,7 +26811,6 @@
         "rstatix",
         "rvest",
         "selectr",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -27713,7 +26845,6 @@
         "shiny",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -27727,7 +26858,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "spqn": [
@@ -27753,7 +26883,6 @@
         "knitr",
         "phyloseq",
         "reshape2",
-        "stringr",
         "tibble",
         "vegan",
         "viridis"
@@ -27770,7 +26899,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble",
         "umap"
     ],
@@ -27827,7 +26955,6 @@
         "roxygen2",
         "rtracklayer",
         "shiny",
-        "stringr",
         "testthat",
         "tibble",
         "tidyselect",
@@ -27855,7 +26982,6 @@
         "graphite",
         "org.Hs.eg.db",
         "reshape2",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -27885,7 +27011,6 @@
         "mosaicCore",
         "progress",
         "readr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -27932,7 +27057,6 @@
         "knitr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -27965,7 +27089,6 @@
         "rtracklayer",
         "ruv",
         "scuttle",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -27998,7 +27121,6 @@
         "org.Hs.eg.db",
         "reshape2",
         "sqldf",
-        "stringr",
         "tibble"
     ],
     "STATegRa": [
@@ -28034,7 +27156,6 @@
         "sf",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -28043,8 +27164,7 @@
     ],
     "statTarget": [
         "ROC",
-        "knitr",
-        "stringr"
+        "knitr"
     ],
     "STdeconvolve": [
         "dplyr",
@@ -28053,7 +27173,6 @@
         "ggplot2",
         "reshape2",
         "scatterpie",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -28088,7 +27207,6 @@
         "spatstat.explore",
         "spatstat.random",
         "spdep",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -28115,7 +27233,6 @@
         "reshape2",
         "rmarkdown",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -28130,12 +27247,10 @@
         "SummarizedExperiment",
         "knitr",
         "progress",
-        "rols",
-        "stringr"
+        "rols"
     ],
     "Structstrings": [
-        "Biostrings",
-        "stringr"
+        "Biostrings"
     ],
     "structToolbox": [
         "GenomicRanges",
@@ -28145,7 +27260,6 @@
         "knitr",
         "progress",
         "rols",
-        "stringr",
         "struct",
         "tibble"
     ],
@@ -28167,7 +27281,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -28188,7 +27301,6 @@
         "prodlim",
         "recipes",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -28198,7 +27310,6 @@
         "ggplot2",
         "qvalue",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -28213,7 +27324,6 @@
         "UpSetR",
         "dplyr",
         "ggplot2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -28245,7 +27355,6 @@
         "reshape2",
         "rsample",
         "slider",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -28254,7 +27363,6 @@
         "dplyr",
         "progress",
         "readr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -28275,7 +27383,6 @@
         "readr",
         "rematch2",
         "seqinr",
-        "stringr",
         "testthat",
         "tibble",
         "tidyselect",
@@ -28309,7 +27416,6 @@
         "quantreg",
         "rematch2",
         "rstatix",
-        "stringr",
         "survMisc",
         "survminer",
         "testthat",
@@ -28345,7 +27451,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -28368,7 +27473,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -28384,7 +27488,6 @@
         "ggplot2",
         "progress",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -28410,7 +27513,6 @@
         "readr",
         "reshape2",
         "rmarkdown",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom",
@@ -28461,7 +27563,6 @@
         "sftime",
         "spacetime",
         "stars",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -28489,7 +27590,6 @@
         "pbkrtest",
         "rematch2",
         "reshape2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -28498,8 +27598,7 @@
     ],
     "SynMut": [
         "Biostrings",
-        "seqinr",
-        "stringr"
+        "seqinr"
     ],
     "syntenet": [
         "Biostrings",
@@ -28527,7 +27626,6 @@
         "ShortRead",
         "SummarizedExperiment",
         "ggplot2",
-        "stringr",
         "tibble"
     ],
     "systemPipeShiny": [
@@ -28552,7 +27650,6 @@
         "shinytoastr",
         "spsComps",
         "spsUtil",
-        "stringr",
         "styler",
         "tibble",
         "tidyr",
@@ -28613,7 +27710,6 @@
         "rematch2",
         "reshape2",
         "rstatix",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -28651,7 +27747,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -28679,7 +27774,6 @@
         "rematch2",
         "rstatix",
         "shiny",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -28698,7 +27792,6 @@
         "htmlTable",
         "knitr",
         "reshape2",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -28726,7 +27819,6 @@
         "plotly",
         "reshape2",
         "singscore",
-        "stringr",
         "sva",
         "tibble",
         "tidyr",
@@ -28746,7 +27838,6 @@
         "geneplotter",
         "ggplot2",
         "knitr",
-        "stringr",
         "tibble"
     ],
     "TCGAbiolinks": [
@@ -28766,7 +27857,6 @@
         "readr",
         "rvest",
         "selectr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -28862,7 +27952,6 @@
         "shinyFiles",
         "shinydashboard",
         "shinyjs",
-        "stringr",
         "testthat",
         "tibble",
         "tidygraph",
@@ -28897,7 +27986,6 @@
         "rtracklayer",
         "rvest",
         "selectr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -28911,7 +27999,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "TDARACNE": [
@@ -28934,7 +28021,6 @@
         "geneplotter",
         "ggplot2",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -28971,7 +28057,6 @@
         "restfulSE",
         "rhdf5client",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -29008,7 +28093,6 @@
         "rvest",
         "selectr",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -29018,7 +28102,6 @@
         "GenomicRanges",
         "fields",
         "ggplot2",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -29040,7 +28123,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -29062,7 +28144,6 @@
         "org.Hs.eg.db",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -29091,7 +28172,6 @@
         "progress",
         "readr",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -29123,7 +28203,6 @@
         "dplyr",
         "progress",
         "readr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -29136,7 +28215,6 @@
         "dplyr",
         "ggplot2",
         "plotly",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -29148,7 +28226,6 @@
         "dplyr",
         "ggplot2",
         "plotly",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -29181,14 +28258,12 @@
         "mixOmics",
         "propr",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
     ],
     "timescape": [
         "dplyr",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -29239,7 +28314,6 @@
         "scatterpie",
         "shadowtext",
         "shiny",
-        "stringr",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -29266,7 +28340,6 @@
         "ggplot2",
         "htmlTable",
         "knitr",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -29303,7 +28376,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -29340,7 +28412,6 @@
         "recipes",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -29381,7 +28452,6 @@
         "quantreg",
         "rematch2",
         "rstatix",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -29390,8 +28460,7 @@
     ],
     "TnT": [
         "GenomicRanges",
-        "knitr",
-        "stringr"
+        "knitr"
     ],
     "TOAST": [
         "EpiDISH",
@@ -29402,7 +28471,6 @@
         "forcats",
         "ggplot2",
         "progress",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -29413,7 +28481,6 @@
         "ggplot2",
         "ggrepel",
         "reshape2",
-        "stringr",
         "tibble",
         "umap"
     ],
@@ -29427,7 +28494,6 @@
         "progress",
         "readr",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -29466,7 +28532,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -29479,7 +28544,6 @@
         "knitr",
         "reshape2",
         "rmarkdown",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -29487,7 +28551,6 @@
     "TPP2D": [
         "dplyr",
         "ggplot2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -29495,8 +28558,7 @@
     "tracktables": [
         "Biostrings",
         "GenomicRanges",
-        "Rsamtools",
-        "stringr"
+        "Rsamtools"
     ],
     "trackViewer": [
         "AnnotationDbi",
@@ -29525,7 +28587,6 @@
         "knitr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -29544,7 +28605,6 @@
         "ggplot2",
         "knitr",
         "rgl",
-        "stringr",
         "tibble"
     ],
     "TrajectoryUtils": [
@@ -29564,7 +28624,6 @@
         "dplyr",
         "ggplot2",
         "progress",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -29597,7 +28656,6 @@
         "recipes",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -29634,7 +28692,6 @@
         "org.Hs.eg.db",
         "qvalue",
         "reshape2",
-        "stringr",
         "tibble",
         "topGO"
     ],
@@ -29679,7 +28736,6 @@
         "knitr",
         "rgl",
         "slingshot",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -29724,7 +28780,6 @@
         "rematch2",
         "reshape2",
         "rstatix",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -29778,7 +28833,6 @@
         "org.Hs.eg.db",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -29806,7 +28860,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -29845,7 +28898,6 @@
         "ggplot2",
         "qvalue",
         "reshape2",
-        "stringr",
         "sva",
         "tibble"
     ],
@@ -29870,7 +28922,6 @@
         "shinyBS",
         "shinyFiles",
         "shinyjs",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -29882,7 +28933,6 @@
         "Modstrings",
         "Structstrings",
         "ggplot2",
-        "stringr",
         "tibble"
     ],
     "tRNAdbImport": [
@@ -29891,7 +28941,6 @@
         "Modstrings",
         "Structstrings",
         "ggplot2",
-        "stringr",
         "tRNA",
         "tibble"
     ],
@@ -29906,7 +28955,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "rtracklayer",
-        "stringr",
         "tRNA",
         "tibble"
     ],
@@ -29933,7 +28981,6 @@
         "prettydoc",
         "rgl",
         "rmarkdown",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -29945,7 +28992,6 @@
         "lexicon",
         "progress",
         "readr",
-        "stringr",
         "syuzhet",
         "tensorflow",
         "text2vec",
@@ -29962,8 +29008,7 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "knitr",
-        "rgl",
-        "stringr"
+        "rgl"
     ],
     "tweeDEseq": [
         "cqn",
@@ -29990,7 +29035,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -30015,7 +29059,6 @@
         "progress",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -30056,7 +29099,6 @@
         "shinyFiles",
         "shinydashboard",
         "shinyjs",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -30092,7 +29134,6 @@
         "regioneR",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -30139,7 +29180,6 @@
         "shinyWidgets",
         "shinycssloaders",
         "shinyjs",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -30176,7 +29216,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -30190,7 +29229,6 @@
         "ggplot2",
         "monocle",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -30217,7 +29255,6 @@
         "scater",
         "scuttle",
         "selectr",
-        "stringr",
         "syuzhet",
         "tensorflow",
         "text2vec",
@@ -30272,7 +29309,6 @@
         "progress",
         "rematch2",
         "reshape2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -30296,7 +29332,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -30313,7 +29348,6 @@
         "ggplot2",
         "logistf",
         "mice",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -30351,7 +29385,6 @@
         "shinyTree",
         "shinyjs",
         "shinythemes",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -30374,7 +29407,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -30412,7 +29444,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -30434,7 +29465,6 @@
         "dbplyr",
         "dplyr",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -30474,7 +29504,6 @@
         "knitr",
         "progress",
         "rmarkdown",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -30512,7 +29541,6 @@
         "progress",
         "readr",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -30545,7 +29573,6 @@
         "org.Mm.eg.db",
         "reshape2",
         "shiny",
-        "stringr",
         "syuzhet",
         "textclean",
         "textstem",
@@ -30587,7 +29614,6 @@
         "cowplot",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "vsclust": [
@@ -30599,7 +29625,6 @@
         "qvalue",
         "reshape2",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -30632,7 +29657,6 @@
         "rtracklayer",
         "shiny",
         "snpStats",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -30673,7 +29697,6 @@
         "progress",
         "regioneR",
         "rtracklayer",
-        "stringr",
         "systemPipeR",
         "tibble",
         "tidyr",
@@ -30733,7 +29756,6 @@
         "reshape2",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -30760,7 +29782,6 @@
         "progress",
         "rtracklayer",
         "seqinr",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -30776,7 +29797,6 @@
         "ggplot2",
         "qvalue",
         "reshape2",
-        "stringr",
         "tibble",
         "vsn"
     ],
@@ -30786,7 +29806,6 @@
         "dplyr",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyselect",
         "topconfects"
@@ -30817,7 +29836,6 @@
         "shinyWidgets",
         "shinycustomloader",
         "shinydashboard",
-        "stringr",
         "tibble",
         "tidyselect",
         "usethis"
@@ -30833,7 +29851,6 @@
         "rmarkdown",
         "rvest",
         "selectr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -30883,7 +29900,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -30905,8 +29921,7 @@
         "formattable",
         "knitr",
         "rmarkdown",
-        "rtracklayer",
-        "stringr"
+        "rtracklayer"
     ],
     "yamss": [
         "GenomicRanges",
@@ -30949,7 +29964,6 @@
         "progress",
         "reshape2",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -30980,7 +29994,6 @@
         "readr",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -31023,7 +30036,6 @@
         "rematch2",
         "reshape2",
         "safe",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -31061,27 +30073,20 @@
     "ggplot2": [
         "tibble"
     ],
-    "reshape2": [
-        "stringr"
-    ],
+    "reshape2": [],
     "flexdashboard": [
         "knitr",
         "rmarkdown",
-        "shiny",
-        "stringr"
+        "shiny"
     ],
     "rmarkdown": [
-        "knitr",
-        "stringr"
+        "knitr"
     ],
-    "knitr": [
-        "stringr"
-    ],
+    "knitr": [],
     "vegan": [],
     "ggcorrplot": [
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "ggdendro": [
@@ -31095,11 +30100,9 @@
         "tidyr",
         "tidyselect"
     ],
-    "stringr": [],
     "bookdown": [
         "knitr",
-        "rmarkdown",
-        "stringr"
+        "rmarkdown"
     ],
     "shiny": [],
     "tibble": [],
@@ -31133,7 +30136,6 @@
         "quantreg",
         "rematch2",
         "rstatix",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -31171,7 +30173,6 @@
         "pbkrtest",
         "quantreg",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -31185,7 +30186,6 @@
     "broom": [
         "dplyr",
         "ggplot2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -31200,7 +30200,6 @@
         "pbkrtest",
         "quantreg",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -31218,7 +30217,6 @@
         "lme4",
         "nloptr",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -31256,15 +30254,12 @@
     ],
     "rvest": [
         "selectr",
-        "stringr",
         "tibble"
     ],
     "smoother": [
         "TTR"
     ],
-    "selectr": [
-        "stringr"
-    ],
+    "selectr": [],
     "TTR": [],
     "dbplyr": [
         "dplyr",
@@ -31282,7 +30277,6 @@
         "ggplot2",
         "htmlTable",
         "knitr",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -31300,8 +30294,7 @@
     ],
     "progress": [],
     "htmlTable": [
-        "knitr",
-        "stringr"
+        "knitr"
     ],
     "viridis": [
         "ggplot2",
@@ -31336,7 +30329,6 @@
         "reshape2",
         "rvest",
         "selectr",
-        "stringr",
         "tibble"
     ],
     "cellranger": [
@@ -31374,7 +30366,6 @@
     ],
     "ggthemes": [
         "ggplot2",
-        "stringr",
         "tibble"
     ],
     "waffle": [
@@ -31412,7 +30403,6 @@
         "prodlim",
         "recipes",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -31491,7 +30481,6 @@
         "shiny",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -31525,7 +30514,6 @@
         "dplyr",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -31559,7 +30547,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -31583,7 +30570,6 @@
         "org.Hs.eg.db",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -31605,9 +30591,7 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "rsnps": [
-        "stringr"
-    ],
+    "rsnps": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -31689,7 +30673,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -31711,7 +30694,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -31733,7 +30715,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -31755,7 +30736,6 @@
         "org.Hs.eg.db",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -31768,7 +30748,6 @@
     "ggfortify": [
         "dplyr",
         "ggplot2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -31802,7 +30781,6 @@
         "rmarkdown",
         "rvest",
         "selectr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -31828,7 +30806,6 @@
         "org.Mm.eg.db",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -31862,14 +30839,12 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
     "NMF": [
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "ggalluvial": [
@@ -31895,7 +30870,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -31927,15 +30901,13 @@
         "broom",
         "dplyr",
         "ggplot2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
     ],
     "reprex": [
         "knitr",
-        "rmarkdown",
-        "stringr"
+        "rmarkdown"
     ],
     "reactome.db": [
         "AnnotationDbi",
@@ -31953,8 +30925,7 @@
     ],
     "assertive": [
         "assertive.data.us",
-        "knitr",
-        "stringr"
+        "knitr"
     ],
     "assertive.data.us": [],
     "doBy": [
@@ -31966,7 +30937,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -31997,8 +30967,7 @@
     ],
     "prettydoc": [
         "knitr",
-        "rmarkdown",
-        "stringr"
+        "rmarkdown"
     ],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
@@ -32034,7 +31003,6 @@
         "ggplot2",
         "plotly",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -32053,14 +31021,12 @@
         "ggplot2",
         "phyloseq",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyselect",
         "vegan"
     ],
     "tidytext": [
         "dplyr",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -32094,7 +31060,6 @@
         "readr",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -32131,7 +31096,6 @@
         "shiny",
         "shinyAce",
         "shinyFiles",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -32153,7 +31117,6 @@
         "ggplot2",
         "progress",
         "readr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -32246,7 +31209,6 @@
         "knitr",
         "multcomp",
         "quantreg",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -32254,16 +31216,12 @@
         "ggplot2",
         "tibble"
     ],
-    "imager": [
-        "stringr"
-    ],
+    "imager": [],
     "multcomp": [
         "TH.data"
     ],
     "TH.data": [],
-    "latex2exp": [
-        "stringr"
-    ],
+    "latex2exp": [],
     "synaptome.db": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -32289,7 +31247,6 @@
         "ggplot2",
         "htmlTable",
         "knitr",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -32382,7 +31339,6 @@
         "geneplotter",
         "ggplot2",
         "progress",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -32400,9 +31356,7 @@
         "RSQLite",
         "org.Hs.eg.db"
     ],
-    "randomcoloR": [
-        "stringr"
-    ],
+    "randomcoloR": [],
     "GenomicState": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -32434,7 +31388,6 @@
         "reshape2",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect",
         "viridis"
@@ -32459,7 +31412,6 @@
         "rmarkdown",
         "roxygen2",
         "shiny",
-        "stringr",
         "testthat",
         "tibble",
         "usethis",
@@ -32468,32 +31420,22 @@
     "pkgdown": [
         "knitr",
         "rmarkdown",
-        "stringr",
         "tibble"
     ],
-    "profvis": [
-        "stringr"
-    ],
+    "profvis": [],
     "rcmdcheck": [],
     "roxygen2": [
-        "knitr",
-        "stringr"
+        "knitr"
     ],
-    "pryr": [
-        "stringr"
-    ],
+    "pryr": [],
     "ggtext": [
         "ggplot2",
         "gridtext",
-        "stringr",
         "tibble"
     ],
-    "gridtext": [
-        "stringr"
-    ],
+    "gridtext": [],
     "vcfR": [
         "dplyr",
-        "stringr",
         "tibble",
         "tidyselect",
         "vegan"
@@ -32514,7 +31456,6 @@
         "pbkrtest",
         "quantreg",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -32530,8 +31471,7 @@
     ],
     "repr": [],
     "rapportools": [
-        "reshape2",
-        "stringr"
+        "reshape2"
     ],
     "rintrojs": [
         "shiny"
@@ -32556,7 +31496,6 @@
         "pbkrtest",
         "quantreg",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -32572,14 +31511,12 @@
         "ggplot2",
         "ggpp",
         "quantreg",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
     "ggpp": [
         "dplyr",
         "ggplot2",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -32589,7 +31526,6 @@
         "forcats",
         "furrr",
         "ggplot2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -32598,7 +31534,6 @@
         "broom",
         "dplyr",
         "ggplot2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -32637,7 +31572,6 @@
         "readr",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -32666,7 +31600,6 @@
         "readr",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -32695,7 +31628,6 @@
         "readr",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -32705,7 +31637,6 @@
         "ggplot2",
         "qvalue",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "geneLenDataBase": [
@@ -32724,7 +31655,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -32746,7 +31676,6 @@
         "prodlim",
         "recipes",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -32810,7 +31739,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -32830,7 +31758,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -32850,7 +31777,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -32870,7 +31796,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -32890,7 +31815,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -32912,7 +31836,6 @@
         "rmarkdown",
         "rvest",
         "selectr",
-        "stringr",
         "tibble",
         "webshot"
     ],
@@ -32942,8 +31865,7 @@
         "rtracklayer"
     ],
     "rgl": [
-        "knitr",
-        "stringr"
+        "knitr"
     ],
     "phylobase": [
         "RNeXML",
@@ -32951,7 +31873,6 @@
         "progress",
         "reshape2",
         "rncl",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -32963,7 +31884,6 @@
     "benchmarkme": [
         "benchmarkmeData",
         "dplyr",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -32973,7 +31893,6 @@
     "RNeXML": [
         "dplyr",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -33018,7 +31937,6 @@
         "rematch2",
         "reshape2",
         "rstatix",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -33042,7 +31960,6 @@
         "spatstat.linnet",
         "spatstat.model",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -33071,7 +31988,6 @@
         "multcomp",
         "quantreg",
         "rms",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -33098,7 +32014,6 @@
         "ensembldb",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -33126,7 +32041,6 @@
         "readr",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -33193,7 +32107,6 @@
         "dplyr",
         "ggplot2",
         "quantmod",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -33206,7 +32119,6 @@
     "mrfDepth": [
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "RFOC": [
@@ -33246,8 +32158,7 @@
         "MSQC",
         "knitr",
         "progress",
-        "rgl",
-        "stringr"
+        "rgl"
     ],
     "FSelector": [],
     "arm": [
@@ -33260,8 +32171,7 @@
     ],
     "MSQC": [
         "knitr",
-        "rgl",
-        "stringr"
+        "rgl"
     ],
     "DAPARdata": [
         "MSnbase",
@@ -33322,7 +32232,6 @@
         "dplyr",
         "rvest",
         "selectr",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -33380,7 +32289,6 @@
         "pbkrtest",
         "quantreg",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -33391,12 +32299,10 @@
         "ggplot2",
         "qvalue",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "DiffCorr": [],
     "fastDummies": [
-        "stringr",
         "tibble"
     ],
     "hgu133a2.db": [
@@ -33461,7 +32367,6 @@
         "htmlTable",
         "knitr",
         "reshape2",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -33506,8 +32411,7 @@
         "tibble"
     ],
     "kinship2": [
-        "knitr",
-        "stringr"
+        "knitr"
     ],
     "gap": [
         "dplyr",
@@ -33521,7 +32425,6 @@
         "broom",
         "dplyr",
         "ggplot2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -33570,7 +32473,6 @@
         "pbkrtest",
         "quantreg",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -33581,7 +32483,6 @@
         "DataVisualizations",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "analogue": [
@@ -33590,12 +32491,9 @@
     "DataVisualizations": [
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
-    "dplR": [
-        "stringr"
-    ],
+    "dplR": [],
     "survminer": [
         "broom",
         "car",
@@ -33615,7 +32513,6 @@
         "quantreg",
         "rematch2",
         "rstatix",
-        "stringr",
         "survMisc",
         "testthat",
         "tibble",
@@ -33626,7 +32523,6 @@
     "survMisc": [
         "ggplot2",
         "knitr",
-        "stringr",
         "tibble"
     ],
     "logistf": [
@@ -33634,7 +32530,6 @@
         "dplyr",
         "ggplot2",
         "mice",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -33650,8 +32545,7 @@
     ],
     "flextable": [
         "knitr",
-        "rmarkdown",
-        "stringr"
+        "rmarkdown"
     ],
     "shinyHeatmaply": [
         "cellranger",
@@ -33667,7 +32561,6 @@
         "reshape2",
         "rmarkdown",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -33701,7 +32594,6 @@
         "multcomp",
         "reshape2",
         "shiny",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -33709,7 +32601,6 @@
         "broom",
         "dplyr",
         "ggplot2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -33718,8 +32609,7 @@
         "flextable",
         "knitr",
         "rmarkdown",
-        "sf",
-        "stringr"
+        "sf"
     ],
     "sf": [],
     "fGarch": [
@@ -33751,7 +32641,6 @@
     "servr": [],
     "available": [
         "dplyr",
-        "stringr",
         "tibble",
         "tidyselect",
         "tidytext"
@@ -33779,7 +32668,6 @@
         "dplyr",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -33795,20 +32683,17 @@
         "knitr",
         "roxygen2",
         "shiny",
-        "stringr",
         "usethis"
     ],
     "shinyalert": [
         "knitr",
-        "shiny",
-        "stringr"
+        "shiny"
     ],
     "AdaptGauss": [
         "DataVisualizations",
         "ggplot2",
         "reshape2",
         "shiny",
-        "stringr",
         "tibble"
     ],
     "datamods": [
@@ -33845,16 +32730,12 @@
         "knitr",
         "learnr",
         "rmarkdown",
-        "shiny",
-        "stringr"
+        "shiny"
     ],
-    "configr": [
-        "stringr"
-    ],
+    "configr": [],
     "bsplus": [
         "knitr",
-        "rmarkdown",
-        "stringr"
+        "rmarkdown"
     ],
     "shinyvalidate": [
         "shiny"
@@ -33862,8 +32743,7 @@
     "learnr": [
         "knitr",
         "rmarkdown",
-        "shiny",
-        "stringr"
+        "shiny"
     ],
     "LogicReg": [],
     "reldist": [
@@ -33888,7 +32768,6 @@
         "prodlim",
         "recipes",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -33904,7 +32783,6 @@
     "cplm": [
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "bigstatsr": [
@@ -33934,7 +32812,6 @@
         "fields",
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble",
         "viridis"
     ],
@@ -33949,7 +32826,6 @@
         "questionr",
         "readr",
         "shiny",
-        "stringr",
         "styler",
         "tibble",
         "tidyr",
@@ -33966,7 +32842,6 @@
         "questionr",
         "readr",
         "shiny",
-        "stringr",
         "styler",
         "tibble",
         "tidyr",
@@ -33982,7 +32857,6 @@
         "progress",
         "readr",
         "shiny",
-        "stringr",
         "styler",
         "tibble",
         "tidyr",
@@ -33995,7 +32869,6 @@
         "haven",
         "progress",
         "readr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -34016,7 +32889,6 @@
         "isva",
         "qvalue",
         "reshape2",
-        "stringr",
         "sva",
         "tibble"
     ],
@@ -34038,15 +32910,13 @@
         "ensembldb",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
     "rmdformats": [
         "bookdown",
         "knitr",
-        "rmarkdown",
-        "stringr"
+        "rmarkdown"
     ],
     "sesameData": [
         "AnnotationDbi",
@@ -34063,7 +32933,6 @@
         "progress",
         "readr",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -34091,7 +32960,6 @@
         "readr",
         "rtracklayer",
         "siggenes",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -34123,7 +32991,6 @@
         "progress",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -34146,15 +33013,13 @@
     ],
     "formattable": [
         "knitr",
-        "rmarkdown",
-        "stringr"
+        "rmarkdown"
     ],
     "HardyWeinberg": [
         "broom",
         "dplyr",
         "ggplot2",
         "mice",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -34203,7 +33068,6 @@
         "dplyr",
         "ggplot2",
         "randomcoloR",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -34213,7 +33077,6 @@
         "dplyr",
         "ggvis",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -34222,7 +33085,6 @@
         "ggwordcloud",
         "metR",
         "shiny",
-        "stringr",
         "tibble"
     ],
     "MatrixCorrelation": [
@@ -34230,7 +33092,6 @@
     ],
     "metR": [
         "ggplot2",
-        "stringr",
         "tibble"
     ],
     "cvms": [
@@ -34247,7 +33108,6 @@
         "rearrr",
         "recipes",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -34275,7 +33135,6 @@
         "dplyr",
         "ggplot2",
         "shiny",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -34286,8 +33145,7 @@
     ],
     "HiveR": [
         "knitr",
-        "rgl",
-        "stringr"
+        "rgl"
     ],
     "gghalves": [
         "ggplot2",
@@ -34305,7 +33163,6 @@
         "rmarkdown",
         "roxygen2",
         "shiny",
-        "stringr",
         "testthat",
         "tibble",
         "usethis",
@@ -34331,15 +33188,12 @@
         "Rsamtools",
         "SummarizedExperiment",
         "reshape2",
-        "rtracklayer",
-        "stringr"
+        "rtracklayer"
     ],
     "shinyjqui": [
         "shiny"
     ],
-    "VarfromPDB": [
-        "stringr"
-    ],
+    "VarfromPDB": [],
     "mppa": [],
     "ICSNP": [
         "ICS",
@@ -34352,7 +33206,6 @@
         "dplyr",
         "progress",
         "readr",
-        "stringr",
         "supraHex",
         "tibble",
         "tidyr",
@@ -34378,7 +33231,6 @@
         "readr",
         "readxl",
         "rematch2",
-        "stringr",
         "testthat",
         "tibble",
         "tidyr",
@@ -34389,8 +33241,7 @@
     ],
     "qpcR": [
         "knitr",
-        "rgl",
-        "stringr"
+        "rgl"
     ],
     "NxtIRFdata": [
         "AnnotationDbi",
@@ -34442,7 +33293,6 @@
         "readr",
         "reshape2",
         "shiny",
-        "stringr",
         "styler",
         "tibble",
         "tidyr",
@@ -34479,7 +33329,6 @@
         "pryr",
         "rapportools",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -34503,7 +33352,6 @@
         "dplyr",
         "progress",
         "readr",
-        "stringr",
         "tibble",
         "tidyselect",
         "vroom"
@@ -34539,8 +33387,7 @@
     "R.rsp": [],
     "PSCBS": [],
     "opencpu": [
-        "knitr",
-        "stringr"
+        "knitr"
     ],
     "PMCMRplus": [],
     "osfr": [
@@ -34549,12 +33396,10 @@
     "C50": [
         "Cubist",
         "partykit",
-        "reshape2",
-        "stringr"
+        "reshape2"
     ],
     "Cubist": [
-        "reshape2",
-        "stringr"
+        "reshape2"
     ],
     "tidybayes": [
         "distributional",
@@ -34628,7 +33473,6 @@
         "ensembldb",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -34650,7 +33494,6 @@
         "ensembldb",
         "progress",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -34717,12 +33560,9 @@
     ],
     "knitrBootstrap": [
         "knitr",
-        "rmarkdown",
-        "stringr"
+        "rmarkdown"
     ],
-    "RefManageR": [
-        "stringr"
-    ],
+    "RefManageR": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [
         "BSgenome",
         "Biostrings",
@@ -34758,7 +33598,6 @@
         "progress",
         "readr",
         "rtracklayer",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -34775,7 +33614,6 @@
         "prodlim",
         "recipes",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -34799,9 +33637,7 @@
         "tibble",
         "tidyselect"
     ],
-    "readJDX": [
-        "stringr"
-    ],
+    "readJDX": [],
     "TBX20BamSubset": [
         "Biostrings",
         "GenomicRanges",
@@ -34821,14 +33657,12 @@
     ],
     "GENLIB": [
         "kinship2",
-        "knitr",
-        "stringr"
+        "knitr"
     ],
     "SBGNview.data": [
         "bookdown",
         "knitr",
-        "rmarkdown",
-        "stringr"
+        "rmarkdown"
     ],
     "scanMiRData": [
         "Biostrings",
@@ -34898,7 +33732,6 @@
         "knitr",
         "pryr",
         "rmarkdown",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -34906,7 +33739,6 @@
         "dplyr",
         "knitr",
         "rmarkdown",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -34939,7 +33771,6 @@
         "quantreg",
         "rematch2",
         "rstatix",
-        "stringr",
         "survMisc",
         "survminer",
         "testthat",
@@ -34952,7 +33783,6 @@
     "tidytidbits": [
         "dplyr",
         "forcats",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -34960,7 +33790,6 @@
     "DGEobj.utils": [
         "DGEobj",
         "dplyr",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -34973,9 +33802,7 @@
         "tidyselect",
         "vroom"
     ],
-    "DGEobj": [
-        "stringr"
-    ],
+    "DGEobj": [],
     "celldex": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -35020,7 +33847,6 @@
         "shiny",
         "spatstat.explore",
         "spatstat.random",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -35049,7 +33875,6 @@
         "progress",
         "rtracklayer",
         "shiny",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
@@ -35093,7 +33918,6 @@
         "miniUI",
         "shiny",
         "shinyjs",
-        "stringr",
         "tibble"
     ],
     "miRNAtap.db": [
@@ -35102,8 +33926,7 @@
         "KEGGREST",
         "RSQLite",
         "miRNAtap",
-        "sqldf",
-        "stringr"
+        "sqldf"
     ],
     "bamlss": [],
     "dml": [
@@ -35126,7 +33949,6 @@
         "mosaicCore",
         "progress",
         "readr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -35146,7 +33968,6 @@
         "mosaicCore",
         "progress",
         "readr",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -35197,21 +34018,17 @@
     "lwgeom": [
         "sf"
     ],
-    "spsUtil": [
-        "stringr"
-    ],
+    "spsUtil": [],
     "spsComps": [
         "shiny",
         "shinyAce",
-        "shinytoastr",
-        "stringr"
+        "shinytoastr"
     ],
     "drawer": [
         "bsplus",
         "knitr",
         "rmarkdown",
-        "shiny",
-        "stringr"
+        "shiny"
     ],
     "GenKern": [],
     "ttservice": [
@@ -35224,7 +34041,6 @@
         "ggplot2",
         "reshape2",
         "shiny",
-        "stringr",
         "tibble"
     ],
     "gghighlight": [
@@ -35246,7 +34062,6 @@
         "prodlim",
         "recipes",
         "reshape2",
-        "stringr",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -35268,7 +34083,6 @@
     "LambertW": [
         "ggplot2",
         "reshape2",
-        "stringr",
         "tibble"
     ],
     "butcher": [
@@ -35298,19 +34112,16 @@
         "kml",
         "knitr",
         "longitudinalData",
-        "rgl",
-        "stringr"
+        "rgl"
     ],
     "longitudinalData": [
         "knitr",
-        "rgl",
-        "stringr"
+        "rgl"
     ],
     "kml": [
         "knitr",
         "longitudinalData",
-        "rgl",
-        "stringr"
+        "rgl"
     ],
     "mirbase.db": [
         "AnnotationDbi",
@@ -35323,13 +34134,11 @@
         "htmlTable",
         "knitr",
         "rmarkdown",
-        "stringr",
         "tibble",
         "tidyselect"
     ],
     "shinyTree": [
-        "shiny",
-        "stringr"
+        "shiny"
     ],
     "msigdb": [
         "AnnotationDbi",
