@@ -1372,7 +1372,6 @@
         "lmerTest",
         "pbkrtest"
     ],
-    "MACSr": [],
     "MADSEQ": [
         "VariantAnnotation"
     ],
