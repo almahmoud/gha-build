@@ -1380,7 +1380,6 @@
         "VariantAnnotation"
     ],
     "genomicInstability": [],
-    "GenomicInteractionNodes": [],
     "GenomicInteractions": [
         "Gviz",
         "VariantAnnotation",
