@@ -167,7 +167,6 @@
     ],
     "amplican": [
         "ShortRead",
-        "ggthemes",
         "waffle"
     ],
     "Anaquin": [
@@ -1412,7 +1411,6 @@
         "ggfun",
         "ggpmisc",
         "ggraph",
-        "ggthemes",
         "ggtree",
         "gson",
         "intergraph",
@@ -2211,7 +2209,6 @@
     ],
     "corral": [
         "MultiAssayExperiment",
-        "ggthemes",
         "tidyr"
     ],
     "coseq": [
@@ -2827,7 +2824,6 @@
         "VIM",
         "broom",
         "car",
-        "ggthemes",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -3883,8 +3879,7 @@
         "TrajectoryUtils"
     ],
     "fedup": [
-        "RCy3",
-        "ggthemes"
+        "RCy3"
     ],
     "ffpe": [
         "BiocFileCache",
@@ -4450,7 +4445,6 @@
         "GGally",
         "GeomxTools",
         "NanoStringNCTools",
-        "ggthemes",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -4490,7 +4484,6 @@
         "EnvStats",
         "GGally",
         "NanoStringNCTools",
-        "ggthemes",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -7449,9 +7442,7 @@
         "rtracklayer",
         "tidyr"
     ],
-    "NanoStringNCTools": [
-        "ggthemes"
-    ],
+    "NanoStringNCTools": [],
     "NanoStringQCPro": [
         "org.Hs.eg.db"
     ],
@@ -9723,7 +9714,6 @@
         "ggpubr",
         "ggsci",
         "ggsignif",
-        "ggthemes",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -10119,7 +10109,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "ggthemes",
         "rtracklayer",
         "tidyr"
     ],
@@ -10740,7 +10729,6 @@
         "GGally",
         "GeomxTools",
         "NanoStringNCTools",
-        "ggthemes",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -11051,7 +11039,6 @@
     "STRINGdb": [],
     "struct": [],
     "structToolbox": [
-        "ggthemes",
         "struct"
     ],
     "StructuralVariantAnnotation": [
@@ -12238,7 +12225,6 @@
         "tidyr"
     ],
     "readr": [],
-    "ggthemes": [],
     "waffle": [],
     "DescTools": [],
     "lmerTest": [
