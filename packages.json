@@ -1280,7 +1280,6 @@
         "annotate"
     ],
     "BiFET": [],
-    "BiGGR": [],
     "bigmelon": [
         "AnnotationDbi",
         "BiocFileCache",
