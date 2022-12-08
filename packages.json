@@ -2211,8 +2211,7 @@
     "CRISPRseek": [
         "BSgenome",
         "keras",
-        "rtracklayer",
-        "tensorflow"
+        "rtracklayer"
     ],
     "crisprseekplus": [
         "BSgenome",
@@ -2230,7 +2229,6 @@
         "regioneR",
         "rio",
         "rtracklayer",
-        "tensorflow",
         "tidyr"
     ],
     "CrispRVariants": [],
@@ -2603,7 +2601,6 @@
         "lexicon",
         "readr",
         "syuzhet",
-        "tensorflow",
         "textclean",
         "textstem",
         "tidyr",
@@ -4229,7 +4226,6 @@
         "lexicon",
         "readr",
         "syuzhet",
-        "tensorflow",
         "textclean",
         "textstem",
         "tidyr",
@@ -4636,7 +4632,6 @@
         "regioneR",
         "rio",
         "rtracklayer",
-        "tensorflow",
         "tidyr"
     ],
     "Guitar": [
@@ -6898,7 +6893,6 @@
         "plyranges",
         "regioneR",
         "rtracklayer",
-        "tensorflow",
         "tidyr"
     ],
     "MultiDataSet": [],
@@ -7248,8 +7242,7 @@
         "yarn"
     ],
     "NeuCA": [
-        "keras",
-        "tensorflow"
+        "keras"
     ],
     "NewWave": [],
     "ngsReports": [
@@ -7691,7 +7684,6 @@
         "keras",
         "nloptr",
         "shadowtext",
-        "tensorflow",
         "testthat",
         "tfprobability",
         "tidygraph",
@@ -9369,7 +9361,6 @@
     "scAlign": [
         "Seurat",
         "plotly",
-        "tensorflow",
         "tidyr"
     ],
     "SCAN.UPC": [
@@ -11126,7 +11117,6 @@
         "lexicon",
         "readr",
         "syuzhet",
-        "tensorflow",
         "textclean",
         "textstem",
         "tidyr"
@@ -11222,7 +11212,6 @@
         "scater",
         "scuttle",
         "syuzhet",
-        "tensorflow",
         "textclean",
         "textstem",
         "tidyr",
@@ -12131,10 +12120,7 @@
         "BiocFileCache",
         "ExperimentHub"
     ],
-    "keras": [
-        "tensorflow"
-    ],
-    "tensorflow": [],
+    "keras": [],
     "shinypanel": [],
     "highcharter": [
         "broom",
@@ -12560,8 +12546,7 @@
         "readr"
     ],
     "tfprobability": [
-        "keras",
-        "tensorflow"
+        "keras"
     ],
     "verification": [
         "fields"
