@@ -2442,10 +2442,7 @@
     ],
     "RcisTarget": [],
     "Rcpi": [],
-    "Rcwl": [],
-    "RcwlPipelines": [
-        "Rcwl"
-    ],
+    "RcwlPipelines": [],
     "ReactomePA": [
         "DOSE",
         "enrichplot",
