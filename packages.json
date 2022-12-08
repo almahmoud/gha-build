@@ -18858,7 +18858,6 @@
         "restfulr",
         "rgl",
         "rtracklayer",
-        "sSeq",
         "scales",
         "stringr",
         "survival",
@@ -30976,7 +30975,6 @@
         "recipes",
         "rematch2",
         "reshape2",
-        "sSeq",
         "scales",
         "stringr",
         "survival",
@@ -49963,7 +49961,6 @@
         "segmented",
         "seqinr"
     ],
-    "sSeq": [],
     "ssize": [],
     "sSNAPPY": [
         "AnnotationDbi",
