@@ -12419,7 +12419,6 @@
         "qvalue",
         "tidyr"
     ],
-    "SUITOR": [],
     "SummarizedBenchmark": [
         "UpSetR",
         "tidyr"
