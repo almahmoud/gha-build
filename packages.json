@@ -10237,7 +10237,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "RnBeads",
-        "RnBeads.hg19",
         "Rsamtools",
         "SummarizedExperiment",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -23314,7 +23313,6 @@
         "cowplot",
         "ggplot2"
     ],
-    "RnBeads.hg19": [],
     "depmap": [
         "AnnotationDbi",
         "AnnotationHub",
