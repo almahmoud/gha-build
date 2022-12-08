@@ -6,12 +6,10 @@
         "rstatix"
     ],
     "affycoretools": [
-        "Glimma",
         "ReportingTools",
         "ggbio"
     ],
     "AgiMicroRna": [
-        "Glimma",
         "ReportingTools",
         "affycoretools",
         "ggbio"
@@ -618,7 +616,6 @@
     "ggmsa": [],
     "ggtreeDendro": [],
     "ggtreeExtra": [],
-    "Glimma": [],
     "glmSparseNet": [
         "car",
         "ggpubr",
