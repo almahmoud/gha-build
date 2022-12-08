@@ -8801,7 +8801,6 @@
         "vctrs",
         "vroom"
     ],
-    "CMA": [],
     "cmapR": [
         "DelayedArray",
         "GenomeInfoDb",
