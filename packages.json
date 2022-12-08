@@ -31193,7 +31193,6 @@
         "RSQLite",
         "XVector",
         "blob",
-        "distrEx",
         "dplyr",
         "fitdistrplus",
         "ggplot2",
@@ -31226,7 +31225,6 @@
         "XVector",
         "blob",
         "bslib",
-        "distrEx",
         "dplyr",
         "fitdistrplus",
         "ggplot2",
@@ -54748,7 +54746,6 @@
     "ontologyPlot": [
         "Rgraphviz"
     ],
-    "distrEx": [],
     "AICcmodavg": [
         "TMB",
         "callr",
