@@ -1293,7 +1293,6 @@
         "BSgenome",
         "BSgenome.Drerio.UCSC.danRer7"
     ],
-    "clippda": [],
     "clipper": [
         "GenomicFeatures",
         "biomaRt",
