@@ -9011,7 +9011,6 @@
     ],
     "gscreend": [
         "SummarizedExperiment",
-        "fGarch",
         "nloptr",
         "rematch2",
         "testthat",
@@ -24847,7 +24846,6 @@
         "knitr",
         "rmarkdown"
     ],
-    "fGarch": [],
     "ggwordcloud": [
         "ggplot2"
     ],
