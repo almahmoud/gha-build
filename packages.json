@@ -11581,7 +11581,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tiff",
         "topGO",
         "utf8",
         "vctrs",
@@ -13336,7 +13335,6 @@
         "snow",
         "survival",
         "sva",
-        "tiff",
         "vctrs",
         "xtable",
         "yaml",
@@ -16163,7 +16161,6 @@
         "signal",
         "snow",
         "sp",
-        "tiff",
         "viridisLite",
         "yaml"
     ],
@@ -18079,7 +18076,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tiff",
         "utf8",
         "vctrs",
         "vioplot",
@@ -26818,7 +26814,6 @@
         "survival",
         "terra",
         "tibble",
-        "tiff",
         "utf8",
         "vctrs",
         "viridis",
@@ -28648,7 +28643,6 @@
         "rlang",
         "sgeostat",
         "survival",
-        "tiff",
         "yaml"
     ],
     "crisprBase": [
@@ -31645,7 +31639,6 @@
         "terra",
         "tibble",
         "tidyselect",
-        "tiff",
         "utf8",
         "vctrs",
         "vipor",
@@ -39860,7 +39853,6 @@
         "locfit",
         "png",
         "rlang",
-        "tiff",
         "yaml"
     ],
     "EBSEA": [
@@ -46982,7 +46974,6 @@
         "locfit",
         "png",
         "rlang",
-        "tiff",
         "yaml"
     ],
     "fishpond": [
@@ -47573,7 +47564,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tiff",
         "utf8",
         "vctrs",
         "viridisLite",
@@ -47631,7 +47621,6 @@
         "rlang",
         "scales",
         "tibble",
-        "tiff",
         "utf8",
         "vctrs",
         "vegan",
@@ -59417,7 +59406,6 @@
         "plotrix",
         "png",
         "rlang",
-        "tiff",
         "yaml",
         "zlibbioc"
     ],
@@ -62814,7 +62802,6 @@
         "splots",
         "survival",
         "tibble",
-        "tiff",
         "utf8",
         "vctrs",
         "viridisLite",
@@ -63105,7 +63092,6 @@
         "tidygraph",
         "tidyr",
         "tidyselect",
-        "tiff",
         "tweenr",
         "tzdb",
         "units",
@@ -103103,7 +103089,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tiff",
         "treeio",
         "tweenr",
         "utf8",
@@ -111543,7 +111528,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tiff",
         "utf8",
         "vctrs",
         "withr",
@@ -127048,7 +127032,6 @@
         "terra",
         "tibble",
         "tidyselect",
-        "tiff",
         "utf8",
         "vctrs",
         "vipor",
@@ -129034,7 +129017,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tiff",
         "truncnorm",
         "utf8",
         "vctrs",
@@ -130950,7 +130932,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tiff",
         "timechange",
         "tzdb",
         "umap",
@@ -132182,7 +132163,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tiff",
         "utf8",
         "uwot",
         "vctrs",
@@ -135510,7 +135490,6 @@
         "locfit",
         "png",
         "rlang",
-        "tiff",
         "yaml"
     ],
     "synapter": [
@@ -147369,7 +147348,6 @@
         "mzR",
         "png",
         "rlang",
-        "tiff",
         "yaml",
         "zlibbioc"
     ],
@@ -155911,7 +155889,6 @@
         "rlang",
         "stringi",
         "stringr",
-        "tiff",
         "vctrs"
     ],
     "xlsx": [
@@ -155921,8 +155898,7 @@
     "readbitmap": [
         "bmp",
         "jpeg",
-        "png",
-        "tiff"
+        "png"
     ],
     "multcomp": [
         "MASS",
@@ -155944,7 +155920,6 @@
         "survival"
     ],
     "bmp": [],
-    "tiff": [],
     "latex2exp": [
         "cli",
         "lifecycle",
@@ -172821,7 +172796,6 @@
         "stringr",
         "terra",
         "tibble",
-        "tiff",
         "timechange",
         "utf8",
         "vctrs",
