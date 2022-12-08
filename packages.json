@@ -54398,7 +54398,6 @@
         "QUBIC",
         "Rcpp",
         "RcppArmadillo",
-        "akmbiclust",
         "biclust",
         "class",
         "dplyr",
@@ -108991,7 +108990,6 @@
         "httr",
         "openssl"
     ],
-    "akmbiclust": [],
     "gghalves": [
         "Matrix",
         "ggplot2",
