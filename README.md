@@ -1,10 +1,10 @@
 # Summary
 
-3537 built packages
+3539 built packages
 
 18 failed packages
 
-255 unclaimed packages
+253 unclaimed packages
 
 
 
@@ -30,7 +30,7 @@
 | [spp](https://github.com/almahmoud/gha-build/actions/runs/3650360818/jobs/6166382771)             | Failed   | N/A: CRAN Package                                                                  | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/spp)             | [CRAN Package 'spp'](https://cran.r-project.org/web/packages/spp/index.html) archived. Extracted text: Archived on 2022-11-20 as issues were not corrected despite reminders.                      |
 | [vbsr](https://github.com/almahmoud/gha-build/actions/runs/3650360818/jobs/6166381575)            | Failed   | N/A: CRAN Package                                                                  | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/vbsr)            | [CRAN Package 'vbsr'](https://cran.r-project.org/web/packages/vbsr/index.html) archived. Extracted text: Archived on 2022-05-23 as email to the maintainer is undeliverable.                       |
 
-## Unclaimed (255)
+## Unclaimed (253)
 | Package                                                                                                 | Status    | Tarball   |
 |---------------------------------------------------------------------------------------------------------|-----------|-----------|
 | ADAMgui                                                                                                 | Unclaimed |           |
@@ -158,7 +158,6 @@
 | missMethyl                                                                                              | Unclaimed |           |
 | MMUPHin                                                                                                 | Unclaimed |           |
 | MoonlightR                                                                                              | Unclaimed |           |
-| [motifbreakR](https://github.com/almahmoud/gha-build/actions/runs/3652239723/jobs/6170566062)           | Unclaimed |           |
 | MQmetrics                                                                                               | Unclaimed |           |
 | [msgbsR](https://github.com/almahmoud/gha-build/actions/runs/3652239723/jobs/6170562504)                | Unclaimed |           |
 | MSPrep                                                                                                  | Unclaimed |           |
@@ -203,7 +202,6 @@
 | [R3CPET](https://github.com/almahmoud/gha-build/actions/runs/3652239723/jobs/6170557737)                | Unclaimed |           |
 | [ReactomePA](almahmoud/gha-build/actions/runs/3652239723)                                               | Unclaimed |           |
 | recount                                                                                                 | Unclaimed |           |
-| [recountmethylation](https://github.com/almahmoud/gha-build/actions/runs/3652239723/jobs/6170566881)    | Unclaimed |           |
 | regionReport                                                                                            | Unclaimed |           |
 | regutools                                                                                               | Unclaimed |           |
 | [ReportingTools](https://github.com/almahmoud/gha-build/actions/runs/3652239723/jobs/6170558220)        | Unclaimed |           |
@@ -238,7 +236,7 @@
 | SingleMoleculeFootprinting                                                                              | Unclaimed |           |
 | skewr                                                                                                   | Unclaimed |           |
 | sojourner                                                                                               | Unclaimed |           |
-| SomaticSignatures                                                                                       | Unclaimed |           |
+| [SomaticSignatures](https://github.com/almahmoud/gha-build/actions/runs/3652239723/jobs/6170563349)     | Unclaimed |           |
 | SpatialDecon                                                                                            | Unclaimed |           |
 | spatzie                                                                                                 | Unclaimed |           |
 | [spicyR](https://github.com/almahmoud/gha-build/actions/runs/3652239723/jobs/6170559744)                | Unclaimed |           |
@@ -248,7 +246,7 @@
 | [STAN](https://github.com/almahmoud/gha-build/actions/runs/3652239723/jobs/6170567304)                  | Unclaimed |           |
 | survtype                                                                                                | Unclaimed |           |
 | svaNUMT                                                                                                 | Unclaimed |           |
-| svaRetro                                                                                                | Unclaimed |           |
+| [svaRetro](https://github.com/almahmoud/gha-build/actions/runs/3652239723/jobs/6170560745)              | Unclaimed |           |
 | synergyfinder                                                                                           | Unclaimed |           |
 | synlet                                                                                                  | Unclaimed |           |
 | TADCompare                                                                                              | Unclaimed |           |
@@ -265,7 +263,7 @@
 | ttgsea                                                                                                  | Unclaimed |           |
 | [uncoverappLib](https://github.com/almahmoud/gha-build/actions/runs/3652239723/jobs/6170566260)         | Unclaimed |           |
 | VAExprs                                                                                                 | Unclaimed |           |
-| variancePartition                                                                                       | Unclaimed |           |
+| [variancePartition](https://github.com/almahmoud/gha-build/actions/runs/3652239723/jobs/6170565362)     | Unclaimed |           |
 | VariantFiltering                                                                                        | Unclaimed |           |
 | VCFArray                                                                                                | Unclaimed |           |
 | vissE                                                                                                   | Unclaimed |           |
@@ -289,7 +287,7 @@
 | AICcmodavg                                                                                              | Unclaimed |           |
 | survivalAnalysis                                                                                        | Unclaimed |           |
 
-## Succeeded (3537)
+## Succeeded (3539)
 | Package                                                                                                                         | Status    | Tarball                                                                                                                                                                                                                                |
 |---------------------------------------------------------------------------------------------------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [a4](almahmoud/gha-build/actions/runs/3651795783)                                                                               | Succeeded | [a4_1.46.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/a4_1.46.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                     |
@@ -1403,6 +1401,7 @@
 | [mosbi](https://github.com/almahmoud/gha-build/actions/runs/3651693005/jobs/6169428054)                                         | Succeeded | [mosbi_1.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/mosbi_1.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                 |
 | [MOSim](https://github.com/almahmoud/gha-build/actions/runs/3651481762/jobs/6168761513)                                         | Succeeded | [MOSim_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/MOSim_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
 | [Motif2Site](https://github.com/almahmoud/gha-build/actions/runs/3651795783/jobs/6169724217)                                    | Succeeded | [Motif2Site_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/Motif2Site_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
+| [motifbreakR](https://github.com/almahmoud/gha-build/actions/runs/3652239723/jobs/6170566062)                                   | Succeeded | [motifbreakR_2.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/motifbreakR_2.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
 | [motifcounter](https://github.com/almahmoud/gha-build/actions/runs/3651123953/jobs/6168120019)                                  | Succeeded | [motifcounter_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/motifcounter_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                 |
 | [MotifDb](https://github.com/almahmoud/gha-build/actions/runs/3651481762/jobs/6168763806)                                       | Succeeded | [MotifDb_1.40.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/MotifDb_1.40.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | [motifmatchr](https://github.com/almahmoud/gha-build/actions/runs/3651932085/jobs/6169862654)                                   | Succeeded | [motifmatchr_1.20.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/motifmatchr_1.20.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
@@ -1736,6 +1735,7 @@
 | [receptLoss](https://github.com/almahmoud/gha-build/actions/runs/3651419720/jobs/6168754521)                                    | Succeeded | [receptLoss_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/receptLoss_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                     |
 | [reconsi](https://github.com/almahmoud/gha-build/actions/runs/3651487839/jobs/6168975770)                                       | Succeeded | [reconsi_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/reconsi_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | [recount3](https://github.com/almahmoud/gha-build/actions/runs/3651419720/jobs/6168749388)                                      | Succeeded | [recount3_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/recount3_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
+| [recountmethylation](https://github.com/almahmoud/gha-build/actions/runs/3652239723/jobs/6170566881)                            | Succeeded | [recountmethylation_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/recountmethylation_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                                       |
 | [recoup](https://github.com/almahmoud/gha-build/actions/runs/3651693005/jobs/6169432502)                                        | Succeeded | [recoup_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/recoup_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                             |
 | [RedeR](https://github.com/almahmoud/gha-build/actions/runs/3650765988/jobs/6167372880)                                         | Succeeded | [RedeR_2.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/RedeR_2.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                 |
 | [RedisParam](https://github.com/almahmoud/gha-build/actions/runs/3650973591/jobs/6167760945)                                    | Succeeded | [RedisParam_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/RedisParam_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
