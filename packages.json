@@ -1049,7 +1049,6 @@
         "DelayedMatrixStats",
         "DescTools",
         "DirichletMultinomial",
-        "Exact",
         "GenomeInfoDb",
         "GenomicRanges",
         "Hmisc",
@@ -3680,7 +3679,6 @@
         "DelayedMatrixStats",
         "DescTools",
         "DirichletMultinomial",
-        "Exact",
         "GenomeInfoDb",
         "GenomicRanges",
         "Hmisc",
@@ -23977,7 +23975,6 @@
     ],
     "gpuMagic": [
         "DescTools",
-        "Exact",
         "cellranger",
         "e1071",
         "expm",
@@ -26298,7 +26295,6 @@
     "ILoReg": [
         "DelayedArray",
         "DescTools",
-        "Exact",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -33169,7 +33165,6 @@
         "DelayedMatrixStats",
         "DescTools",
         "DirichletMultinomial",
-        "Exact",
         "GenomeInfoDb",
         "GenomicRanges",
         "Hmisc",
@@ -51166,7 +51161,6 @@
         "Biostrings",
         "DelayedArray",
         "DescTools",
-        "Exact",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -63168,7 +63162,6 @@
         "osqp"
     ],
     "DescTools": [
-        "Exact",
         "cellranger",
         "e1071",
         "expm",
@@ -63202,7 +63195,6 @@
     ],
     "Rmpfr": [],
     "osqp": [],
-    "Exact": [],
     "gld": [
         "e1071"
     ],
