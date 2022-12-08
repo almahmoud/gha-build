@@ -8803,7 +8803,6 @@
     "DiscoRhythm": [
         "BiocStyle",
         "GenomicRanges",
-        "MetaCycle",
         "SummarizedExperiment",
         "UpSetR",
         "bookdown",
@@ -38107,7 +38106,6 @@
     "DiffCorr": [
         "multtest"
     ],
-    "MetaCycle": [],
     "fastDummies": [
         "pillar",
         "stringr",
