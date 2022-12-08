@@ -53215,7 +53215,6 @@
         "densEstBayes",
         "doParallel",
         "dplyr",
-        "elitism",
         "ellipsis",
         "futile.logger",
         "geneplotter",
@@ -80046,7 +80045,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "elitism": [],
     "doMC": [],
     "nls2": [],
     "valr": [
