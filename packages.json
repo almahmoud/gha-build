@@ -1435,9 +1435,7 @@
         "enrichplot",
         "ggtree"
     ],
-    "netOmics": [
-        "RandomWalkRestartMH"
-    ],
+    "netOmics": [],
     "netSmooth": [],
     "netZooR": [
         "GOstats",
@@ -1683,7 +1681,6 @@
     ],
     "R453Plus1Toolbox": [],
     "RadioGx": [],
-    "RandomWalkRestartMH": [],
     "RareVariantVis": [],
     "rCGH": [],
     "RcisTarget": [],
