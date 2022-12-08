@@ -25544,7 +25544,6 @@
         "biomaRt",
         "bit64",
         "blob",
-        "cMap2data",
         "cachem",
         "dbplyr",
         "digest",
@@ -105616,7 +105615,6 @@
     ],
     "corrgram": [],
     "DrugVsDiseasedata": [],
-    "cMap2data": [],
     "hgu133a2.db": [
         "AnnotationDbi",
         "Biobase",
