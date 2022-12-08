@@ -2190,8 +2190,7 @@
     ],
     "pareg": [
         "DOSE",
-        "ggraph",
-        "tfprobability"
+        "ggraph"
     ],
     "PathoStat": [
         "DESeq2",
@@ -3417,7 +3416,6 @@
     "unmarked": [
         "lme4"
     ],
-    "tfprobability": [],
     "tidybayes": [],
     "phastCons100way.UCSC.hg38": [],
     "EnsDb.Mmusculus.v79": [],
