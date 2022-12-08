@@ -27025,7 +27025,6 @@
         "SummarizedExperiment",
         "stringr"
     ],
-    "snifter": [],
     "snm": [
         "lme4",
         "nloptr",
