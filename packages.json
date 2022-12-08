@@ -25371,7 +25371,6 @@
         "rtracklayer"
     ],
     "hmdbQuery": [],
-    "HMMcopy": [],
     "hopach": [],
     "HPAanalyze": [
         "dplyr",
@@ -44226,7 +44225,6 @@
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
-        "HMMcopy",
         "IRanges",
         "Rsamtools",
         "SummarizedExperiment",
