@@ -2234,7 +2234,6 @@
         "tidytree",
         "treeio"
     ],
-    "ExCluster": [],
     "exomePeak2": [
         "DESeq2",
         "GenomicFeatures",
