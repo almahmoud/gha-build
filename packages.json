@@ -668,9 +668,7 @@
         "DESeq2",
         "HTSFilter"
     ],
-    "cosmiq": [
-        "faahKO"
-    ],
+    "cosmiq": [],
     "cosmosR": [
         "dorothea",
         "viper"
@@ -3937,7 +3935,6 @@
         "bumphunter",
         "minfi"
     ],
-    "faahKO": [],
     "dorothea": [
         "viper"
     ],
