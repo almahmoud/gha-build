@@ -3113,7 +3113,6 @@
     "bnbc": [
         "AnnotationDbi",
         "Biostrings",
-        "EBImage",
         "GenomicRanges",
         "KEGGREST",
         "RSQLite",
@@ -3799,7 +3798,6 @@
         "vegan"
     ],
     "Cardinal": [
-        "EBImage",
         "matter"
     ],
     "CARNIVAL": [
@@ -6389,7 +6387,6 @@
         "viridis"
     ],
     "CONFESS": [
-        "EBImage",
         "Hmisc",
         "TH.data",
         "contrast",
@@ -6812,7 +6809,6 @@
         "quantreg"
     ],
     "CRImage": [
-        "EBImage",
         "aCGH",
         "multtest"
     ],
@@ -7504,7 +7500,6 @@
         "BiocFileCache",
         "DelayedMatrixStats",
         "DropletUtils",
-        "EBImage",
         "GenomicRanges",
         "HDF5Array",
         "RSQLite",
@@ -9450,7 +9445,6 @@
         "tibble",
         "tidyselect"
     ],
-    "EBImage": [],
     "EBSEA": [
         "AnnotationDbi",
         "Biostrings",
@@ -11324,9 +11318,7 @@
         "tidyr",
         "tidyselect"
     ],
-    "FISHalyseR": [
-        "EBImage"
-    ],
+    "FISHalyseR": [],
     "fishpond": [
         "GenomicRanges",
         "SingleCellExperiment",
@@ -11437,7 +11429,6 @@
         "latticeExtra"
     ],
     "flowcatchR": [
-        "EBImage",
         "bslib",
         "dplyr",
         "ggplot2",
@@ -11449,7 +11440,6 @@
         "tidyselect"
     ],
     "flowCHIC": [
-        "EBImage",
         "ggplot2",
         "pillar",
         "tibble",
@@ -14231,7 +14221,6 @@
     "HDF5Array": [],
     "heatmaps": [
         "Biostrings",
-        "EBImage",
         "GenomicRanges"
     ],
     "HelloRanges": [
@@ -15007,7 +14996,6 @@
         "AnnotationDbi",
         "Biostrings",
         "Category",
-        "EBImage",
         "GSEABase",
         "KEGGREST",
         "RSQLite",
@@ -15057,7 +15045,6 @@
         "BiocNeighbors",
         "DelayedMatrixStats",
         "DropletUtils",
-        "EBImage",
         "GenomicRanges",
         "HDF5Array",
         "RSQLite",
@@ -30296,7 +30283,6 @@
         "BiocFileCache",
         "DelayedMatrixStats",
         "DropletUtils",
-        "EBImage",
         "GenomicRanges",
         "HDF5Array",
         "RSQLite",
@@ -30810,7 +30796,6 @@
         "tibble"
     ],
     "sojourner": [
-        "EBImage",
         "bslib",
         "dplyr",
         "fitdistrplus",
@@ -32355,9 +32340,7 @@
         "tibble",
         "tidyselect"
     ],
-    "synapsis": [
-        "EBImage"
-    ],
+    "synapsis": [],
     "synapter": [
         "Biostrings",
         "MSnbase",
@@ -35200,7 +35183,6 @@
         "stringr"
     ],
     "yamss": [
-        "EBImage",
         "GenomicRanges",
         "SummarizedExperiment"
     ],
