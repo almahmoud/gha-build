@@ -454,7 +454,6 @@
         "rsq"
     ],
     "DeepPINCS": [
-        "textclean",
         "textstem",
         "ttgsea"
     ],
@@ -706,9 +705,7 @@
     "flowVS": [
         "flowStats"
     ],
-    "fobitools": [
-        "textclean"
-    ],
+    "fobitools": [],
     "FRASER": [
         "OUTRIDER"
     ],
@@ -798,7 +795,6 @@
     "genotypeeval": [],
     "GenProSeq": [
         "DeepPINCS",
-        "textclean",
         "textstem",
         "ttgsea"
     ],
@@ -2131,7 +2127,6 @@
     "trena": [],
     "tscR": [],
     "ttgsea": [
-        "textclean",
         "textstem"
     ],
     "tximeta": [],
@@ -2146,7 +2141,6 @@
     "Uniquorn": [],
     "VAExprs": [
         "DeepPINCS",
-        "textclean",
         "textstem",
         "ttgsea"
     ],
@@ -2169,7 +2163,6 @@
     ],
     "vidger": [],
     "vissE": [
-        "textclean",
         "textstem"
     ],
     "Voyager": [],
@@ -2301,10 +2294,7 @@
     "rsq": [
         "lme4"
     ],
-    "textstem": [
-        "textclean"
-    ],
-    "textclean": [],
+    "textstem": [],
     "VIM": [
         "car",
         "lme4",
