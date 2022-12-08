@@ -732,7 +732,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "factR": [],
     "famat": [
         "clusterProfiler",
         "enrichplot",
