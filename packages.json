@@ -223,10 +223,7 @@
         "rstatix"
     ],
     "lisaClust": [],
-    "Maaslin2": [],
-    "Macarron": [
-        "Maaslin2"
-    ],
+    "Macarron": [],
     "MAGAR": [],
     "MAIT": [],
     "MEAL": [
@@ -279,9 +276,7 @@
         "rstatix"
     ],
     "missMethyl": [],
-    "MMUPHin": [
-        "Maaslin2"
-    ],
+    "MMUPHin": [],
     "MoonlightR": [],
     "MQmetrics": [
         "ggpubr",
