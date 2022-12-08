@@ -1847,7 +1847,6 @@
     "scBubbletree": [
         "ggtree"
     ],
-    "scClassify": [],
     "scDD": [
         "arm",
         "lme4"
