@@ -11438,7 +11438,6 @@
     "SDAMS": [
         "qvalue"
     ],
-    "sechm": [],
     "segmenter": [
         "BiocFileCache",
         "ChIPseeker",
@@ -11551,7 +11550,6 @@
         "annotate",
         "genefilter",
         "geneplotter",
-        "sechm",
         "sva"
     ],
     "sevenC": [
