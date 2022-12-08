@@ -23185,7 +23185,6 @@
         "patchwork",
         "pbkrtest",
         "pillar",
-        "ppclust",
         "prodlim",
         "progress",
         "quantreg",
@@ -35960,7 +35959,6 @@
         "pbkrtest",
         "pheatmap",
         "pillar",
-        "ppclust",
         "progress",
         "quantreg",
         "readr",
@@ -46881,7 +46879,6 @@
         "tibble",
         "vctrs"
     ],
-    "ppclust": [],
     "MatrixCorrelation": [
         "RSpectra",
         "hms",
