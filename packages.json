@@ -777,7 +777,6 @@
         "dbplyr",
         "rtracklayer"
     ],
-    "bcSeq": [],
     "BDMMAcorrect": [],
     "beadarray": [],
     "beadarraySNP": [],
