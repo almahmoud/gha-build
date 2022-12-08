@@ -433,7 +433,6 @@
         "ggraph",
         "ggtree"
     ],
-    "ChIPXpress": [],
     "chromVAR": [],
     "cicero": [
         "Gviz",
