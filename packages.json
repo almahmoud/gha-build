@@ -221,8 +221,7 @@
         "viridis"
     ],
     "ALDEx2": [
-        "SummarizedExperiment",
-        "zCompositions"
+        "SummarizedExperiment"
     ],
     "alevinQC": [
         "GGally",
@@ -1247,7 +1246,6 @@
         "treeio",
         "viridis",
         "waldo",
-        "zCompositions",
         "zinbwave"
     ],
     "BgeeCall": [
@@ -11669,8 +11667,7 @@
         "tidytree",
         "treeio",
         "viridis",
-        "waldo",
-        "zCompositions"
+        "waldo"
     ],
     "MicrobiomeProfiler": [
         "AnnotationDbi",
@@ -13808,8 +13805,7 @@
     "omicplotR": [
         "ALDEx2",
         "SummarizedExperiment",
-        "rmarkdown",
-        "zCompositions"
+        "rmarkdown"
     ],
     "omicRexposome": [
         "AnnotationDbi",
@@ -21935,7 +21931,6 @@
         "ggbeeswarm",
         "ggplot2"
     ],
-    "zCompositions": [],
     "shinydashboard": [],
     "readxl": [
         "cellranger"
