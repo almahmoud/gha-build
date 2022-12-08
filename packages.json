@@ -18,9 +18,7 @@
     "arrayMvout": [
         "lumi"
     ],
-    "artMS": [
-        "MSstats"
-    ],
+    "artMS": [],
     "ASpediaFI": [
         "mGSZ"
     ],
@@ -596,10 +594,8 @@
         "car"
     ],
     "msqrob2": [],
-    "MSstats": [],
     "MSstatsLiP": [
         "FactoMineR",
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT",
         "car",
@@ -608,20 +604,14 @@
         "rstatix"
     ],
     "MSstatsPTM": [
-        "MSstats",
         "MSstatsTMT"
     ],
-    "MSstatsSampleSize": [
-        "MSstats"
-    ],
+    "MSstatsSampleSize": [],
     "MSstatsShiny": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
-    "MSstatsTMT": [
-        "MSstats"
-    ],
+    "MSstatsTMT": [],
     "multicrispr": [],
     "multiSight": [
         "ReactomePA",
