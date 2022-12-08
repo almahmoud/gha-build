@@ -2658,7 +2658,6 @@
         "GO.db",
         "GOSemSim",
         "GenomicTools",
-        "GenomicTools.fileHandler",
         "HDO.db",
         "IRdisplay",
         "IRkernel",
@@ -22593,7 +22592,6 @@
         "tidyr"
     ],
     "GenomicTools": [],
-    "GenomicTools.fileHandler": [],
     "ChAMPdata": [],
     "IlluminaHumanMethylationEPICmanifest": [
         "AnnotationDbi",
