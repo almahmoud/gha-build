@@ -730,7 +730,6 @@
     ],
     "CluMSID": [],
     "clusterExperiment": [
-        "phylobase",
         "zinbwave"
     ],
     "clusterProfiler": [
@@ -3171,7 +3170,6 @@
     "NetSAM": [],
     "netSmooth": [
         "clusterExperiment",
-        "phylobase",
         "zinbwave"
     ],
     "netZooR": [
@@ -5222,7 +5220,6 @@
     ],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [],
-    "phylobase": [],
     "rio": [],
     "factoextra": [
         "FactoMineR",
