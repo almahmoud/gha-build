@@ -721,7 +721,6 @@
         "DESeq2"
     ],
     "cpvSNP": [],
-    "crisprBwa": [],
     "crisprDesign": [
         "VariantAnnotation",
         "crisprScore",
