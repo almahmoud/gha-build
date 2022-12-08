@@ -4875,7 +4875,6 @@
         "bumphunter",
         "dbplyr",
         "dplyr",
-        "fastseg",
         "genefilter",
         "ggplot2",
         "lme4",
@@ -6810,7 +6809,6 @@
         "SummarizedExperiment",
         "shinyBS"
     ],
-    "fastseg": [],
     "FCBF": [
         "SummarizedExperiment",
         "ggplot2"
@@ -11121,7 +11119,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "bsseq",
-        "fastseg",
         "ggplot2",
         "methylKit",
         "qvalue",
@@ -11134,7 +11131,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
-        "fastseg",
         "ggplot2",
         "methylKit",
         "qvalue",
@@ -11355,7 +11351,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
-        "fastseg",
         "ggplot2",
         "methylKit",
         "qvalue",
@@ -11365,7 +11360,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
-        "fastseg",
         "ggplot2",
         "qvalue",
         "rtracklayer"
