@@ -11653,9 +11653,7 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "ROCpAI": [
-        "fission"
-    ],
+    "ROCpAI": [],
     "RolDE": [
         "qvalue"
     ],
@@ -16206,7 +16204,6 @@
         "dbplyr"
     ],
     "TBX20BamSubset": [],
-    "fission": [],
     "treemap": [],
     "GENLIB": [],
     "SBGNview.data": [
