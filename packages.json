@@ -2324,7 +2324,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "KEGGlincs": [],
     "keggorthology": [],
     "kissDE": [
         "DESeq2",
