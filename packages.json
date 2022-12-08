@@ -1328,7 +1328,6 @@
         "ggrepel",
         "htmlTable",
         "intergraph",
-        "network",
         "patchwork",
         "sna",
         "sva",
@@ -1735,7 +1734,6 @@
         "ggtext",
         "htmlTable",
         "intergraph",
-        "network",
         "patchwork",
         "rtracklayer",
         "sna",
@@ -2084,7 +2082,6 @@
         "gson",
         "htmlTable",
         "intergraph",
-        "network",
         "patchwork",
         "qvalue",
         "rmarkdown",
@@ -2169,7 +2166,6 @@
         "ggtree",
         "gson",
         "lme4",
-        "network",
         "nloptr",
         "patchwork",
         "pbkrtest",
@@ -2677,7 +2673,6 @@
     "CluMSID": [
         "GGally",
         "MSnbase",
-        "network",
         "plotly",
         "sna",
         "tidyr",
@@ -4661,7 +4656,6 @@
         "ggrepel",
         "ggtree",
         "gson",
-        "network",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "patchwork",
@@ -5541,7 +5535,6 @@
         "ggtree",
         "gson",
         "intergraph",
-        "network",
         "patchwork",
         "qvalue",
         "scatterpie",
@@ -6528,7 +6521,6 @@
     ],
     "GGPA": [
         "GGally",
-        "network",
         "sna",
         "tidyr"
     ],
@@ -10780,8 +10772,7 @@
         "tidyr"
     ],
     "nethet": [
-        "ICSNP",
-        "network"
+        "ICSNP"
     ],
     "netOmics": [
         "AnnotationDbi",
@@ -11820,7 +11811,6 @@
         "ggsignif",
         "ggtext",
         "lme4",
-        "network",
         "nloptr",
         "pbkrtest",
         "rematch2",
@@ -11856,7 +11846,6 @@
         "ggnetwork",
         "ggrepel",
         "ipred",
-        "network",
         "readr",
         "recipes",
         "sna",
@@ -16074,7 +16063,6 @@
         "ggnetwork",
         "ggrepel",
         "intergraph",
-        "network",
         "rematch2",
         "rtracklayer",
         "sna",
@@ -18045,16 +18033,10 @@
     ],
     "ggnetwork": [
         "ggrepel",
-        "network",
         "sna"
     ],
-    "intergraph": [
-        "network"
-    ],
-    "network": [],
-    "sna": [
-        "network"
-    ],
+    "intergraph": [],
+    "sna": [],
     "shinyBS": [],
     "superheat": [
         "ggdendro"
