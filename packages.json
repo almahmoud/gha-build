@@ -609,9 +609,7 @@
         "testthat",
         "treeio"
     ],
-    "CexoR": [
-        "genomation"
-    ],
+    "CexoR": [],
     "cfDNAPro": [],
     "cghMCR": [],
     "ChAMP": [
@@ -1431,7 +1429,6 @@
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "enrichplot",
-        "genomation",
         "ggraph",
         "ggtree",
         "treeio"
@@ -1612,8 +1609,7 @@
         "geepack"
     ],
     "fCCAC": [
-        "fda",
-        "genomation"
+        "fda"
     ],
     "fcoex": [
         "DOSE",
@@ -1834,7 +1830,6 @@
         "DESeq2"
     ],
     "geneXtendeR": [],
-    "genomation": [],
     "genomes": [],
     "GenomicDataCommons": [],
     "GenomicFeatures": [],
@@ -3816,7 +3811,6 @@
     "RCAS": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicFeatures",
-        "genomation",
         "gprofiler2"
     ],
     "rCGH": [
