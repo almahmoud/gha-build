@@ -102,7 +102,6 @@
         "methylumi",
         "minfi"
     ],
-    "arrayQualityMetrics": [],
     "artMS": [
         "MSstats",
         "lme4",
