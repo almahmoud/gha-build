@@ -9603,7 +9603,6 @@
         "tidyr",
         "topGO"
     ],
-    "RIVER": [],
     "RJMCMCNucleosomes": [
         "consensusSeekeR",
         "rtracklayer"
