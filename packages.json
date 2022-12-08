@@ -1926,8 +1926,7 @@
         "geneplotter",
         "gwascat",
         "readr",
-        "rtracklayer",
-        "universalmotif"
+        "rtracklayer"
     ],
     "CircSeqAlignTk": [
         "BiocFileCache",
@@ -6591,7 +6590,6 @@
         "readr",
         "testthat",
         "tidyr",
-        "universalmotif",
         "waldo"
     ],
     "MeSHDbi": [],
@@ -12871,7 +12869,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "universalmotif": [],
     "uSORT": [
         "monocle"
     ],
