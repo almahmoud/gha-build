@@ -2682,7 +2682,6 @@
         "org.Rn.eg.db",
         "pathview",
         "plotly",
-        "safe",
         "topGO"
     ],
     "ELMER": [
@@ -2739,8 +2738,7 @@
         "GSEABase",
         "annotate",
         "org.Hs.eg.db",
-        "pathview",
-        "safe"
+        "pathview"
     ],
     "enrichplot": [
         "DOSE",
@@ -3933,8 +3931,7 @@
         "GSEABase",
         "annotate",
         "org.Hs.eg.db",
-        "pathview",
-        "safe"
+        "pathview"
     ],
     "GSEAmining": [
         "dendextend"
@@ -7957,7 +7954,6 @@
         "gRain"
     ],
     "rWikiPathways": [],
-    "safe": [],
     "sampleClassifier": [
         "BiocFileCache",
         "MGFM",
@@ -9829,7 +9825,6 @@
         "org.Hs.eg.db",
         "pathview",
         "pbkrtest",
-        "safe",
         "testthat",
         "variancePartition",
         "waldo"
