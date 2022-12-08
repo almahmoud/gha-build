@@ -24,6 +24,8 @@ for pkg in list(pkgs):
                     runurl = u
             if not runurl:
                 runurl = runurls[-1]
+            if "github.com" not in runurl:
+                runurl = f"https://github.com/{runurl}"
             name = f"[{pkg}]({runurl})"
     # if "https://github.com/" in runid:
     #     runurl = runid.strip().replace("null\n", "").split("\n")[-1]
