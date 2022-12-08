@@ -2307,8 +2307,7 @@
         "shinydashboard",
         "shinydashboardPlus",
         "tidyr",
-        "viridis",
-        "waiter"
+        "viridis"
     ],
     "chromstaR": [
         "GenomicAlignments"
@@ -5709,8 +5708,7 @@
         "plotly",
         "tidyr",
         "tippy",
-        "viridis",
-        "waiter"
+        "viridis"
     ],
     "geneXtendeR": [
         "AnnotationDbi",
@@ -11387,8 +11385,7 @@
         "shinydashboardPlus",
         "tidyr",
         "viridis",
-        "vsn",
-        "waiter"
+        "vsn"
     ],
     "PROMISE": [
         "AnnotationDbi",
@@ -13005,8 +13002,7 @@
         "scanMiRData",
         "shinydashboard",
         "shinyjqui",
-        "tidyr",
-        "waiter"
+        "tidyr"
     ],
     "scAnnotatR": [
         "AnnotationDbi",
@@ -14841,8 +14837,7 @@
         "shinyjqui",
         "shinytoastr",
         "spsComps",
-        "tidyr",
-        "waiter"
+        "tidyr"
     ],
     "systemPipeTools": [
         "AnnotationDbi",
@@ -16874,8 +16869,7 @@
         "rtracklayer"
     ],
     "shinydashboardPlus": [
-        "shinydashboard",
-        "waiter"
+        "shinydashboard"
     ],
     "kableExtra": [
         "rvest"
@@ -16884,7 +16878,6 @@
         "ggfittext"
     ],
     "ggfittext": [],
-    "waiter": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
@@ -17213,9 +17206,7 @@
         "mice",
         "tidyr"
     ],
-    "bs4Dash": [
-        "waiter"
-    ],
+    "bs4Dash": [],
     "tippy": [],
     "flextable": [],
     "shinyHeatmaply": [
