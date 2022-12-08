@@ -171,7 +171,6 @@
     "alevinQC": [
         "GGally",
         "cowplot",
-        "shinydashboard",
         "tidyr"
     ],
     "AllelicImbalance": [
@@ -955,7 +954,6 @@
         "GGally",
         "Hmisc",
         "plotly",
-        "shinydashboard",
         "tidyr",
         "viridis"
     ],
@@ -1775,8 +1773,7 @@
         "tidyr"
     ],
     "cbpManager": [
-        "rapportools",
-        "shinydashboard"
+        "rapportools"
     ],
     "ccfindR": [
         "SingleCellExperiment"
@@ -2303,7 +2300,6 @@
         "scran",
         "scuttle",
         "shinyFiles",
-        "shinydashboard",
         "shinydashboardPlus",
         "tidyr",
         "viridis"
@@ -2773,7 +2769,6 @@
         "readr",
         "readxl",
         "rio",
-        "shinydashboard",
         "tidyr"
     ],
     "conclus": [
@@ -2967,7 +2962,6 @@
         "cowplot",
         "fgsea",
         "piano",
-        "shinydashboard",
         "tidyr"
     ],
     "corral": [
@@ -3337,7 +3331,6 @@
         "dbplyr",
         "ggbeeswarm",
         "scuttle",
-        "shinydashboard",
         "viridis"
     ],
     "CytoML": [
@@ -3544,7 +3537,6 @@
         "qvalue",
         "scatterpie",
         "shadowtext",
-        "shinydashboard",
         "sva",
         "tidygraph",
         "tidyr",
@@ -3707,7 +3699,6 @@
         "MSnbase",
         "ggrepel",
         "readr",
-        "shinydashboard",
         "tidyr",
         "vsn"
     ],
@@ -3937,7 +3928,6 @@
         "kableExtra",
         "plotly",
         "rvest",
-        "shinydashboard",
         "tidyr",
         "viridis"
     ],
@@ -4079,7 +4069,6 @@
         "pbkrtest",
         "readxl",
         "rematch2",
-        "shinydashboard",
         "testthat",
         "tidyr",
         "vsn",
@@ -4966,7 +4955,6 @@
     ],
     "ExploreModelMatrix": [
         "cowplot",
-        "shinydashboard",
         "tidyr"
     ],
     "ExpressionAtlas": [
@@ -5046,7 +5034,6 @@
         "reactome.db",
         "scatterpie",
         "shadowtext",
-        "shinydashboard",
         "tidygraph",
         "tidyr",
         "tidytree",
@@ -6749,8 +6736,7 @@
         "viridis"
     ],
     "iCOBRA": [
-        "UpSetR",
-        "shinydashboard"
+        "UpSetR"
     ],
     "ideal": [
         "AnnotationDbi",
@@ -6779,7 +6765,6 @@
         "pcaExplorer",
         "plotly",
         "rtracklayer",
-        "shinydashboard",
         "tidyr",
         "topGO",
         "viridis"
@@ -6856,7 +6841,6 @@
         "ggrepel",
         "readr",
         "scuttle",
-        "shinydashboard",
         "tidygraph",
         "tidyr",
         "viridis"
@@ -7002,7 +6986,6 @@
         "rematch2",
         "rstatix",
         "shinyFiles",
-        "shinydashboard",
         "testthat",
         "tidyr",
         "viridis",
@@ -7137,15 +7120,13 @@
     "iSEE": [
         "SingleCellExperiment",
         "colourpicker",
-        "ggrepel",
-        "shinydashboard"
+        "ggrepel"
     ],
     "iSEEhex": [
         "SingleCellExperiment",
         "colourpicker",
         "ggrepel",
-        "iSEE",
-        "shinydashboard"
+        "iSEE"
     ],
     "iSEEhub": [
         "AnnotationDbi",
@@ -7156,16 +7137,14 @@
         "colourpicker",
         "dbplyr",
         "ggrepel",
-        "iSEE",
-        "shinydashboard"
+        "iSEE"
     ],
     "iSEEu": [
         "SingleCellExperiment",
         "colourpicker",
         "ggrepel",
         "iSEE",
-        "iSEEhex",
-        "shinydashboard"
+        "iSEEhex"
     ],
     "ISLET": [],
     "isobar": [
@@ -7363,7 +7342,6 @@
         "learnr",
         "readr",
         "shinyFiles",
-        "shinydashboard",
         "sortable",
         "tidyr"
     ],
@@ -7375,7 +7353,6 @@
     "lefser": [],
     "levi": [
         "rematch2",
-        "shinydashboard",
         "testthat",
         "waldo"
     ],
@@ -7779,7 +7756,6 @@
         "UpSetR",
         "plotly",
         "proDA",
-        "shinydashboard",
         "tidyr",
         "viridis",
         "vsn"
@@ -8586,7 +8562,6 @@
         "plotly",
         "readr",
         "rematch2",
-        "shinydashboard",
         "testthat",
         "tidyr",
         "viridis",
@@ -9603,7 +9578,6 @@
         "ropls",
         "scatterpie",
         "shadowtext",
-        "shinydashboard",
         "testthat",
         "tidygraph",
         "tidyr",
@@ -9696,7 +9670,6 @@
         "rstatix",
         "rtracklayer",
         "rvest",
-        "shinydashboard",
         "shinyjqui",
         "sortable",
         "testthat",
@@ -10216,7 +10189,6 @@
         "ensembldb",
         "rtracklayer",
         "shinyFiles",
-        "shinydashboard",
         "tidyr",
         "viridis"
     ],
@@ -10699,7 +10671,6 @@
         "ggrepel",
         "heatmaply",
         "plotly",
-        "shinydashboard",
         "tidyr",
         "topGO",
         "viridis"
@@ -10736,7 +10707,6 @@
         "recipes",
         "rematch2",
         "rstatix",
-        "shinydashboard",
         "survMisc",
         "survcomp",
         "survminer",
@@ -10832,7 +10802,6 @@
         "cowplot",
         "fgsea",
         "piano",
-        "shinydashboard",
         "tidyr"
     ],
     "PhenoGeneRanker": [],
@@ -10947,8 +10916,7 @@
     ],
     "piano": [
         "cowplot",
-        "fgsea",
-        "shinydashboard"
+        "fgsea"
     ],
     "PICS": [
         "GenomicAlignments"
@@ -11363,7 +11331,6 @@
         "pRoloc",
         "plotly",
         "recipes",
-        "shinydashboard",
         "shinydashboardPlus",
         "tidyr",
         "viridis",
@@ -11451,7 +11418,6 @@
         "rematch2",
         "rstatix",
         "rvest",
-        "shinydashboard",
         "testthat",
         "tidyr",
         "viridis",
@@ -11746,7 +11712,6 @@
         "cowplot",
         "fgsea",
         "piano",
-        "shinydashboard",
         "tidyr"
     ],
     "RaggedExperiment": [],
@@ -12921,7 +12886,6 @@
         "bookdown",
         "ggdendro",
         "plotly",
-        "shinydashboard",
         "tidyr"
     ],
     "satuRn": [],
@@ -12980,7 +12944,6 @@
         "rtracklayer",
         "scanMiR",
         "scanMiRData",
-        "shinydashboard",
         "shinyjqui",
         "tidyr"
     ],
@@ -13755,7 +13718,6 @@
         "rematch2",
         "rstatix",
         "rtracklayer",
-        "shinydashboard",
         "survMisc",
         "survivalAnalysis",
         "survminer",
@@ -13847,7 +13809,6 @@
         "dbplyr",
         "ggbeeswarm",
         "scuttle",
-        "shinydashboard",
         "viridis"
     ],
     "simplifyEnrichment": [
@@ -14223,7 +14184,6 @@
         "scater",
         "scran",
         "scuttle",
-        "shinydashboard",
         "tidyr",
         "viridis"
     ],
@@ -14332,7 +14292,6 @@
         "plotly",
         "rtracklayer",
         "shinyFiles",
-        "shinydashboard",
         "tidyr",
         "viridis"
     ],
@@ -14809,7 +14768,6 @@
         "drawer",
         "plotly",
         "shinyFiles",
-        "shinydashboard",
         "shinydashboardPlus",
         "shinyjqui",
         "shinytoastr",
@@ -14990,7 +14948,6 @@
         "sesameData",
         "shadowtext",
         "shinyFiles",
-        "shinydashboard",
         "testthat",
         "tidygraph",
         "tidyr",
@@ -15282,7 +15239,6 @@
         "cowplot",
         "fgsea",
         "piano",
-        "shinydashboard",
         "tidyr"
     ],
     "TPP": [
@@ -15566,8 +15522,7 @@
         "plotgardener",
         "plyranges",
         "rtracklayer",
-        "shinyFiles",
-        "shinydashboard"
+        "shinyFiles"
     ],
     "UMI4Cats": [
         "AnnotationDbi",
@@ -15959,8 +15914,7 @@
     ],
     "wpm": [
         "golem",
-        "shinycustomloader",
-        "shinydashboard"
+        "shinycustomloader"
     ],
     "wppi": [
         "OmnipathR",
@@ -15991,7 +15945,6 @@
         "cowplot",
         "fgsea",
         "piano",
-        "shinydashboard",
         "tidyr"
     ],
     "XINA": [
@@ -16189,7 +16142,6 @@
     "ggrastr": [
         "ggbeeswarm"
     ],
-    "shinydashboard": [],
     "readxl": [],
     "speaq": [
         "rvest"
@@ -16832,9 +16784,7 @@
         "dbplyr",
         "rtracklayer"
     ],
-    "shinydashboardPlus": [
-        "shinydashboard"
-    ],
+    "shinydashboardPlus": [],
     "kableExtra": [
         "rvest"
     ],
