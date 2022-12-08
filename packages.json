@@ -1168,8 +1168,7 @@
         "batchelor",
         "plotly",
         "scater",
-        "scran",
-        "shinydashboardPlus"
+        "scran"
     ],
     "chromswitch": [],
     "chromVAR": [
@@ -5950,8 +5949,7 @@
         "mixtools",
         "pRoloc",
         "plotly",
-        "recipes",
-        "shinydashboardPlus"
+        "recipes"
     ],
     "PROMISE": [
         "GSEABase"
@@ -7690,8 +7688,7 @@
         "ShortRead"
     ],
     "systemPipeShiny": [
-        "plotly",
-        "shinydashboardPlus"
+        "plotly"
     ],
     "systemPipeTools": [
         "DESeq2",
@@ -8704,7 +8701,6 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "shinydashboardPlus": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome"
