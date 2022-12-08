@@ -4509,7 +4509,6 @@
     "rGenomeTracks": [
         "rGenomeTracksData"
     ],
-    "RGMQL": [],
     "RgnTX": [
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
