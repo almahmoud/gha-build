@@ -29726,7 +29726,6 @@
         "vctrs",
         "vroom"
     ],
-    "INPower": [],
     "INSPEcT": [
         "AnnotationDbi",
         "BiocFileCache",
