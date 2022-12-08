@@ -897,7 +897,6 @@
         "lme4",
         "pbkrtest"
     ],
-    "gscreend": [],
     "GSEABenchmarkeR": [],
     "GSReg": [
         "Homo.sapiens"
