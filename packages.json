@@ -11126,7 +11126,6 @@
         "RSQLite",
         "XVector",
         "annotate",
-        "bcellViper",
         "blob",
         "bslib",
         "dorothea",
@@ -15508,7 +15507,6 @@
         "TH.data",
         "XVector",
         "annotate",
-        "bcellViper",
         "blob",
         "broom",
         "bslib",
@@ -62551,7 +62549,6 @@
         "xcms"
     ],
     "dorothea": [
-        "bcellViper",
         "dplyr",
         "e1071",
         "ggplot2",
@@ -62572,7 +62569,6 @@
         "vctrs",
         "viper"
     ],
-    "bcellViper": [],
     "crisprScoreData": [
         "AnnotationDbi",
         "AnnotationHub",
