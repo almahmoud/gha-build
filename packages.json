@@ -2051,7 +2051,6 @@
         "genefilter",
         "oligo",
         "readr",
-        "shinypanel",
         "sva"
     ],
     "csdR": [
@@ -10823,7 +10822,6 @@
         "ExperimentHub"
     ],
     "keras": [],
-    "shinypanel": [],
     "highcharter": [
         "broom"
     ],
