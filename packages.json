@@ -10132,7 +10132,6 @@
         "rtracklayer"
     ],
     "RVS": [
-        "GENLIB",
         "broom",
         "gRain",
         "tidyr"
@@ -13772,7 +13771,6 @@
         "ExperimentHub"
     ],
     "TBX20BamSubset": [],
-    "GENLIB": [],
     "SBGNview.data": [],
     "scanMiRData": [
         "ggseqlogo",
