@@ -1434,7 +1434,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "TBSignatureProfiler": [],
     "TCGAbiolinksGUI": [
         "ELMER",
         "Gviz",
