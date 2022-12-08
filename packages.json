@@ -66,9 +66,7 @@
         "rstatix"
     ],
     "conumee": [],
-    "cyanoFilter": [
-        "flowDensity"
-    ],
+    "cyanoFilter": [],
     "CyTOFpower": [
         "CytoGLMM",
         "FlowSOM",
@@ -87,9 +85,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "ddPCRclust": [
-        "flowDensity"
-    ],
+    "ddPCRclust": [],
     "DeepPINCS": [
         "ttgsea"
     ],
@@ -148,10 +144,7 @@
     "flowCL": [
         "SPARQL"
     ],
-    "flowCut": [
-        "flowDensity"
-    ],
-    "flowDensity": [],
+    "flowCut": [],
     "FlowSOM": [
         "ggpubr",
         "rstatix"
