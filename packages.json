@@ -1129,7 +1129,6 @@
     "GSEABenchmarkeR": [
         "EnrichmentBrowser"
     ],
-    "gsean": [],
     "GSReg": [
         "Homo.sapiens",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
