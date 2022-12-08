@@ -417,7 +417,6 @@
         "memoise",
         "mzR",
         "openssl",
-        "pastecs",
         "pillar",
         "plyr",
         "prabclus",
@@ -84144,7 +84143,6 @@
         "tibble",
         "vctrs"
     ],
-    "pastecs": [],
     "fpc": [
         "class",
         "flexmix",
