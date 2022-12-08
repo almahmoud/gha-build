@@ -9557,7 +9557,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "bayesm",
         "blob",
         "compositions",
         "e1071",
@@ -26665,7 +26664,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "bayesm",
         "biomformat",
         "compositions",
         "dplyr",
@@ -31648,7 +31646,6 @@
         "Rfast",
         "SummarizedExperiment",
         "XVector",
-        "bayesm",
         "bslib",
         "compositions",
         "htmlwidgets",
@@ -41258,7 +41255,6 @@
         "SummarizedExperiment",
         "XVector",
         "aroma.light",
-        "bayesm",
         "biomaRt",
         "blob",
         "compositions",
@@ -54039,10 +54035,7 @@
     "HTSCluster": [
         "edgeR"
     ],
-    "compositions": [
-        "bayesm"
-    ],
-    "bayesm": [],
+    "compositions": [],
     "faahKO": [
         "BiocParallel",
         "DelayedArray",
