@@ -697,9 +697,7 @@
         "propr"
     ],
     "ClassifyR": [],
-    "cleanUpdTSeq": [
-        "BSgenome.Drerio.UCSC.danRer7"
-    ],
+    "cleanUpdTSeq": [],
     "clipper": [
         "GenomicFeatures",
         "qpgraph"
@@ -2101,7 +2099,6 @@
         "Seurat"
     ],
     "InPAS": [
-        "BSgenome.Drerio.UCSC.danRer7",
         "GenomicFeatures",
         "cleanUpdTSeq"
     ],
@@ -5059,7 +5056,6 @@
         "GenomicFeatures"
     ],
     "propr": [],
-    "BSgenome.Drerio.UCSC.danRer7": [],
     "rio": [],
     "factoextra": [
         "FactoMineR",
