@@ -49177,7 +49177,6 @@
         "GenomicRanges",
         "HiCcompare",
         "InteractionSet",
-        "PRIMME",
         "QDNAseq",
         "R.utils",
         "Rsamtools",
@@ -51321,7 +51320,6 @@
         "GenomicRanges",
         "HiCcompare",
         "InteractionSet",
-        "PRIMME",
         "QDNAseq",
         "R.utils",
         "RcppEigen",
@@ -63675,7 +63673,6 @@
         "spData"
     ],
     "spData": [],
-    "PRIMME": [],
     "alphahull": [
         "R.utils",
         "RcppEigen",
