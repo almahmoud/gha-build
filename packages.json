@@ -536,7 +536,6 @@
         "SummarizedExperiment",
         "annotate",
         "caret",
-        "covr",
         "dplyr",
         "forcats",
         "geneplotter",
@@ -30062,7 +30061,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "covr": [],
     "plotROC": [
         "ggplot2",
         "shiny",
