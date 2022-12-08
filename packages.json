@@ -112,7 +112,6 @@
     "ADaCGH2": [
         "AnnotationDbi",
         "Biostrings",
-        "GLAD",
         "GenomeInfoDb",
         "KEGGREST",
         "RSQLite",
@@ -18403,7 +18402,6 @@
         "vctrs",
         "viridis"
     ],
-    "GLAD": [],
     "GladiaTOX": [
         "RSQLite",
         "blob",
@@ -22112,7 +22110,6 @@
     "ITALICS": [
         "Biostrings",
         "DelayedArray",
-        "GLAD",
         "GenomeInfoDb",
         "GenomicRanges",
         "RSQLite",
@@ -23660,9 +23657,7 @@
         "xcms"
     ],
     "makecdfenv": [],
-    "MANOR": [
-        "GLAD"
-    ],
+    "MANOR": [],
     "mAPKL": [
         "AnnotationDbi",
         "Biostrings",
@@ -41339,7 +41334,6 @@
         "vctrs"
     ],
     "seqCNA": [
-        "GLAD",
         "adehabitatLT"
     ],
     "seqcombo": [
@@ -42837,7 +42831,6 @@
     "snapCGH": [
         "AnnotationDbi",
         "Biostrings",
-        "GLAD",
         "GenomeInfoDb",
         "KEGGREST",
         "RSQLite",
