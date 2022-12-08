@@ -483,7 +483,6 @@
         "tidyr",
         "viridis"
     ],
-    "AssessORF": [],
     "ASSIGN": [
         "annotate",
         "genefilter",
