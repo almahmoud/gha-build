@@ -2201,7 +2201,6 @@
         "pbkrtest"
     ],
     "rfaRm": [],
-    "rGenomeTracks": [],
     "RgnTX": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
