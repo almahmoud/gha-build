@@ -310,7 +310,6 @@
     ],
     "ALDEx2": [
         "GenomicRanges",
-        "NADA",
         "SummarizedExperiment",
         "zCompositions"
     ],
@@ -1678,7 +1677,6 @@
         "KEGGREST",
         "MAST",
         "MultiAssayExperiment",
-        "NADA",
         "RSQLite",
         "ScaledMatrix",
         "Seurat",
@@ -15781,7 +15779,6 @@
         "Hmisc",
         "KEGGREST",
         "MultiAssayExperiment",
-        "NADA",
         "RSQLite",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -18667,7 +18664,6 @@
     "omicplotR": [
         "ALDEx2",
         "GenomicRanges",
-        "NADA",
         "SummarizedExperiment",
         "knitr",
         "rmarkdown",
@@ -29792,10 +29788,7 @@
         "ggplot2",
         "tibble"
     ],
-    "zCompositions": [
-        "NADA"
-    ],
-    "NADA": [],
+    "zCompositions": [],
     "shinydashboard": [
         "shiny"
     ],
