@@ -610,8 +610,7 @@
     "altcdfenvs": [
         "Biostrings",
         "XVector",
-        "hypergraph",
-        "makecdfenv"
+        "hypergraph"
     ],
     "AMARETTO": [
         "AnnotationDbi",
@@ -17378,8 +17377,7 @@
         "Biostrings",
         "XVector",
         "altcdfenvs",
-        "hypergraph",
-        "makecdfenv"
+        "hypergraph"
     ],
     "hca": [
         "BiocFileCache",
@@ -20790,7 +20788,6 @@
         "vsn",
         "xcms"
     ],
-    "makecdfenv": [],
     "MANOR": [],
     "mAPKL": [
         "AnnotationDbi",
