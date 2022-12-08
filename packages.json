@@ -19720,7 +19720,6 @@
         "AnnotationFilter",
         "BiocFileCache",
         "BiocSingular",
-        "DGEobj",
         "DGEobj.utils",
         "GSEABase",
         "GSVA",
@@ -25714,7 +25713,6 @@
         "tidyr"
     ],
     "DGEobj.utils": [
-        "DGEobj",
         "dplyr"
     ],
     "openair": [
@@ -25723,7 +25721,6 @@
         "tidyr",
         "vroom"
     ],
-    "DGEobj": [],
     "celldex": [
         "AnnotationDbi",
         "AnnotationHub",
