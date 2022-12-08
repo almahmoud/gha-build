@@ -434,7 +434,6 @@
         "ensembldb"
     ],
     "ChIPComp": [],
-    "chipenrich": [],
     "ChIPexoQual": [
         "VariantAnnotation",
         "biovizBase",
