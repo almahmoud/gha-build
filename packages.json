@@ -4385,7 +4385,6 @@
         "ggfun",
         "ggtree",
         "plotly",
-        "statebins",
         "tidyr",
         "tidytree",
         "treeio"
@@ -12446,7 +12445,6 @@
         "plotly",
         "tidyr"
     ],
-    "statebins": [],
     "HH": [
         "Hmisc"
     ],
