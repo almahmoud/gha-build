@@ -3065,7 +3065,6 @@
         "sass",
         "scales",
         "stringr",
-        "terra",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -10992,7 +10991,6 @@
         "scales",
         "stringr",
         "survival",
-        "terra",
         "tibble",
         "vctrs",
         "viridis"
@@ -12947,7 +12945,6 @@
         "svgPanZoom",
         "svglite",
         "systemfonts",
-        "terra",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -25593,7 +25590,6 @@
         "svgPanZoom",
         "svglite",
         "systemfonts",
-        "terra",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -25814,7 +25810,6 @@
         "flowCore",
         "irlba",
         "raster",
-        "terra",
         "uwot",
         "xgboost"
     ],
@@ -37242,7 +37237,6 @@
         "stringr",
         "survival",
         "systemfonts",
-        "terra",
         "testthat",
         "tibble",
         "tidyr",
@@ -51630,7 +51624,6 @@
         "svgPanZoom",
         "svglite",
         "systemfonts",
-        "terra",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -53272,7 +53265,6 @@
         "spatstat.sparse",
         "splancs",
         "stringr",
-        "terra",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -54556,7 +54548,6 @@
         "spdep",
         "stringr",
         "survival",
-        "terra",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -62296,10 +62287,7 @@
         "stringr",
         "vctrs"
     ],
-    "raster": [
-        "terra"
-    ],
-    "terra": [],
+    "raster": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "BiocIO",
@@ -68856,13 +68844,11 @@
         "shiny",
         "shinyjs",
         "stringr",
-        "terra",
         "tibble",
         "vctrs"
     ],
     "elsa": [
-        "raster",
-        "terra"
+        "raster"
     ],
     "rgdal": [],
     "miRNAtap.db": [
