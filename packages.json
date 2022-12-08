@@ -9933,7 +9933,6 @@
     ],
     "MsBackendMassbank": [],
     "MsBackendMgf": [],
-    "MsBackendMsp": [],
     "MsExperiment": [
         "MultiAssayExperiment",
         "QFeatures",
