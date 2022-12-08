@@ -6754,7 +6754,6 @@
         "ggplot2",
         "tibble"
     ],
-    "DEsingle": [],
     "destiny": [
         "GenomicRanges",
         "SingleCellExperiment",
@@ -12470,7 +12469,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
-        "DEsingle",
         "DOSE",
         "DataVisualizations",
         "GO.db",
