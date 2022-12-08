@@ -1532,7 +1532,6 @@
     ],
     "celda": [
         "SingleCellExperiment",
-        "enrichR",
         "ggrastr",
         "multipanelfigure",
         "scater",
@@ -12127,7 +12126,6 @@
         "celldex",
         "colourpicker",
         "densEstBayes",
-        "enrichR",
         "ensembldb",
         "fields",
         "fishpond",
@@ -14500,7 +14498,6 @@
     ],
     "IRkernel": [],
     "rapportools": [],
-    "enrichR": [],
     "multipanelfigure": [],
     "FactoMineR": [
         "broom",
