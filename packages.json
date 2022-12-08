@@ -361,7 +361,6 @@
         "BSgenome.Mmusculus.UCSC.mm10",
         "BiocFileCache",
         "CNEr",
-        "CoGAPS",
         "GO.db",
         "GenomicFeatures",
         "Homo.sapiens",
@@ -1740,7 +1739,6 @@
         "STRINGdb",
         "readr"
     ],
-    "CoGAPS": [],
     "cogena": [
         "devtools",
         "testthat",
@@ -7468,7 +7466,6 @@
         "decoupleR"
     ],
     "projectR": [
-        "CoGAPS",
         "ggalluvial"
     ],
     "pRoloc": [
