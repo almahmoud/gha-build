@@ -2995,7 +2995,6 @@
         "pbkrtest",
         "testthat"
     ],
-    "macat": [],
     "MACSr": [
         "ExperimentHub"
     ],
