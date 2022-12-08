@@ -3076,7 +3076,6 @@
         "XVector"
     ],
     "BiGGR": [
-        "LIM",
         "Rgraphviz",
         "hyperdraw",
         "hypergraph",
@@ -51153,7 +51152,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "LIM": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "AnnotationDbi",
         "BiocFileCache",
