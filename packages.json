@@ -57679,7 +57679,6 @@
         "IRanges",
         "KEGGREST",
         "MotifDb",
-        "RPostgreSQL",
         "RSQLite",
         "RcppEigen",
         "Rsamtools",
@@ -69258,7 +69257,6 @@
     "animation": [],
     "tractor.base": [],
     "vbsr": [],
-    "RPostgreSQL": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
         "BiocIO",
