@@ -6811,7 +6811,6 @@
         "ggfun",
         "ggplotify",
         "ggsignif",
-        "ggstar",
         "ggtree",
         "ggtreeExtra",
         "patchwork",
@@ -13603,7 +13602,6 @@
         "GGally",
         "tidyr"
     ],
-    "ggstar": [],
     "HardyWeinberg": [
         "broom",
         "mice",
