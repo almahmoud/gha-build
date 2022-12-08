@@ -2437,7 +2437,6 @@
         "RSQLite",
         "Rcgmin",
         "RcppML",
-        "Rvmmin",
         "ScaledMatrix",
         "Seurat",
         "SeuratObject",
@@ -43580,7 +43579,6 @@
     "corncob": [
         "Biostrings",
         "Rcgmin",
-        "Rvmmin",
         "XVector",
         "detectseparation",
         "dplyr",
@@ -43606,12 +43604,10 @@
         "vctrs"
     ],
     "optimr": [
-        "Rcgmin",
-        "Rvmmin"
+        "Rcgmin"
     ],
     "detectseparation": [],
     "survey": [],
-    "Rvmmin": [],
     "Rcgmin": [],
     "sjmisc": [
         "dplyr",
