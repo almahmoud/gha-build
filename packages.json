@@ -6352,7 +6352,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "httpcache",
         "motifStack",
         "progress",
         "readr",
@@ -7760,7 +7759,6 @@
         "dbplyr",
         "dplyr",
         "ensembldb",
-        "httpcache",
         "progress",
         "rtracklayer",
         "tibble",
@@ -28944,7 +28942,6 @@
         "RSQLite",
         "dbplyr",
         "dplyr",
-        "httpcache",
         "progress",
         "tibble",
         "tidyselect"
@@ -31864,7 +31861,6 @@
         "tibble",
         "waldo"
     ],
-    "httpcache": [],
     "plsVarSel": [
         "MSQC",
         "knitr",
