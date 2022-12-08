@@ -1310,7 +1310,6 @@
         "CoGAPS",
         "DT",
         "GO.db",
-        "GeneOverlap",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
@@ -12453,7 +12452,6 @@
         "genefilter"
     ],
     "GeneNetworkBuilder": [],
-    "GeneOverlap": [],
     "geneplotter": [
         "AnnotationDbi",
         "Biostrings",
