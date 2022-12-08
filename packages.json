@@ -13481,7 +13481,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "DFP": [],
     "DIAlignR": [
         "RSQLite",
         "RcppEigen",
