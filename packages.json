@@ -52,7 +52,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -247,7 +246,6 @@
         "mia",
         "nloptr",
         "readxl",
-        "rematch2",
         "scater",
         "scuttle",
         "testthat",
@@ -466,7 +464,6 @@
         "nloptr",
         "org.Hs.eg.db",
         "plotly",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -500,7 +497,6 @@
         "lme4",
         "mGSZ",
         "nloptr",
-        "rematch2",
         "rtracklayer",
         "testthat",
         "tidyr",
@@ -579,7 +575,6 @@
         "rGREAT",
         "readr",
         "readxl",
-        "rematch2",
         "reprex",
         "rtracklayer",
         "rvest",
@@ -641,7 +636,6 @@
         "dbplyr",
         "motifStack",
         "readr",
-        "rematch2",
         "rtracklayer",
         "testthat",
         "waldo"
@@ -682,7 +676,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -888,7 +881,6 @@
         "phyloseq",
         "plotly",
         "readxl",
-        "rematch2",
         "scater",
         "scattermore",
         "sctransform",
@@ -1015,7 +1007,6 @@
         "reactome.db",
         "readr",
         "readxl",
-        "rematch2",
         "scatterpie",
         "shadowtext",
         "testthat",
@@ -1061,7 +1052,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "rtracklayer",
         "testthat",
@@ -1095,7 +1085,6 @@
     "biodb": [
         "BiocFileCache",
         "dbplyr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -1103,7 +1092,6 @@
         "BiocFileCache",
         "biodb",
         "dbplyr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -1111,7 +1099,6 @@
         "BiocFileCache",
         "biodb",
         "dbplyr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -1119,7 +1106,6 @@
         "BiocFileCache",
         "biodb",
         "dbplyr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -1127,7 +1113,6 @@
         "BiocFileCache",
         "biodb",
         "dbplyr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -1135,7 +1120,6 @@
         "BiocFileCache",
         "biodb",
         "dbplyr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -1143,7 +1127,6 @@
         "BiocFileCache",
         "biodb",
         "dbplyr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -1151,7 +1134,6 @@
         "BiocFileCache",
         "biodb",
         "dbplyr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -1159,7 +1141,6 @@
         "BiocFileCache",
         "biodb",
         "dbplyr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -1167,7 +1148,6 @@
         "BiocFileCache",
         "biodb",
         "dbplyr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -1345,7 +1325,6 @@
         "BiocFileCache",
         "ExperimentHub",
         "dbplyr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -1501,7 +1480,6 @@
     "BUMHMM": [
         "devtools",
         "pkgdown",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -1691,7 +1669,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "scater",
         "scuttle",
@@ -1859,7 +1836,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "viridis",
@@ -1946,7 +1922,6 @@
         "mice",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -2004,7 +1979,6 @@
         "patchwork",
         "pbkrtest",
         "qvalue",
-        "rematch2",
         "rstatix",
         "scatterpie",
         "shadowtext",
@@ -2528,7 +2502,6 @@
     "CNORfuzzy": [
         "CellNOptR",
         "nloptr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -2585,7 +2558,6 @@
     ],
     "CNVPanelizer": [
         "exomeCopy",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -2640,7 +2612,6 @@
     "cogena": [
         "devtools",
         "pkgdown",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -2716,7 +2687,6 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "rematch2",
         "rtracklayer",
         "testthat",
         "waldo"
@@ -2804,7 +2774,6 @@
         "pbkrtest",
         "qvalue",
         "readr",
-        "rematch2",
         "rstatix",
         "scater",
         "scatterpie",
@@ -3247,7 +3216,6 @@
         "mrfDepth",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "viridis",
@@ -3281,7 +3249,6 @@
         "nloptr",
         "pbkrtest",
         "recipes",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -3306,7 +3273,6 @@
         "nloptr",
         "pbkrtest",
         "recipes",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -3390,7 +3356,6 @@
         "pbkrtest",
         "plsVarSel",
         "recipes",
-        "rematch2",
         "rtracklayer",
         "sva",
         "testthat",
@@ -3427,7 +3392,6 @@
         "pbkrtest",
         "plyranges",
         "readr",
-        "rematch2",
         "rstatix",
         "rtracklayer",
         "testthat",
@@ -3456,7 +3420,6 @@
         "org.Hs.eg.db",
         "readr",
         "readxl",
-        "rematch2",
         "reprex",
         "rvest",
         "shadowtext",
@@ -3476,7 +3439,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "viridis",
@@ -3580,7 +3542,6 @@
         "nloptr",
         "qvalue",
         "readr",
-        "rematch2",
         "rsq",
         "rtracklayer",
         "testthat",
@@ -3767,7 +3728,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -3780,7 +3740,6 @@
         "annotate",
         "geneplotter",
         "qvalue",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -3847,7 +3806,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -3944,7 +3902,6 @@
         "benchmarkmeData",
         "lme4",
         "nloptr",
-        "rematch2",
         "rtracklayer",
         "testthat",
         "waldo"
@@ -4058,7 +4015,6 @@
         "nloptr",
         "pbkrtest",
         "readxl",
-        "rematch2",
         "testthat",
         "tidyr",
         "vsn",
@@ -4076,7 +4032,6 @@
     "doseR": [
         "lme4",
         "nloptr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -4160,7 +4115,6 @@
         "plotly",
         "progeny",
         "quantiseqr",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -4214,13 +4168,11 @@
         "geneplotter"
     ],
     "EBSeq": [
-        "rematch2",
         "testthat",
         "waldo"
     ],
     "EBSeqHMM": [
         "EBSeq",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -4241,7 +4193,6 @@
         "lme4",
         "nloptr",
         "qvalue",
-        "rematch2",
         "snm",
         "sva",
         "testthat",
@@ -4341,7 +4292,6 @@
         "pbkrtest",
         "plotly",
         "readr",
-        "rematch2",
         "rstatix",
         "rtracklayer",
         "rvest",
@@ -4462,7 +4412,6 @@
         "pipeFrame",
         "qvalue",
         "readr",
-        "rematch2",
         "rstatix",
         "rtracklayer",
         "scatterpie",
@@ -4552,7 +4501,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "rtracklayer",
         "testthat",
@@ -4578,7 +4526,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "rtracklayer",
         "testthat",
@@ -4884,7 +4831,6 @@
         "pbkrtest",
         "plotly",
         "readr",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -5222,7 +5168,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "viridis",
@@ -5238,7 +5183,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "viridis",
@@ -5255,7 +5199,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -5273,7 +5216,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -5350,7 +5292,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -5404,7 +5345,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -5467,7 +5407,6 @@
         "pbkrtest",
         "plsVarSel",
         "recipes",
-        "rematch2",
         "rtracklayer",
         "sva",
         "testthat",
@@ -5488,7 +5427,6 @@
     "GCSscore": [
         "devtools",
         "pkgdown",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -5532,7 +5470,6 @@
         "pbkrtest",
         "qvalue",
         "readr",
-        "rematch2",
         "rstatix",
         "scatterpie",
         "shadowtext",
@@ -5582,7 +5519,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -5621,7 +5557,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -5797,7 +5732,6 @@
         "nloptr",
         "pbkrtest",
         "plotly",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -5854,7 +5788,6 @@
         "lmerTest",
         "nloptr",
         "readxl",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -5879,7 +5812,6 @@
         "plotly",
         "readr",
         "readxl",
-        "rematch2",
         "rstatix",
         "shinyHeatmaply",
         "testthat",
@@ -5906,7 +5838,6 @@
         "lmerTest",
         "nloptr",
         "readxl",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -5939,7 +5870,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -6070,7 +6000,6 @@
         "nloptr",
         "pbkrtest",
         "readr",
-        "rematch2",
         "rstatix",
         "survMisc",
         "survminer",
@@ -6284,7 +6213,6 @@
         "nloptr",
         "pbkrtest",
         "plotly",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -6296,7 +6224,6 @@
     "GSCA": [],
     "gscreend": [
         "nloptr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -6547,7 +6474,6 @@
         "multiHiCcompare",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -6804,7 +6730,6 @@
         "ggfortify",
         "lme4",
         "nloptr",
-        "rematch2",
         "rtracklayer",
         "testthat",
         "tidyr",
@@ -6849,7 +6774,6 @@
     "INDEED": [
         "devtools",
         "pkgdown",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -6906,7 +6830,6 @@
         "nloptr",
         "pbkrtest",
         "qvalue",
-        "rematch2",
         "rstatix",
         "rtracklayer",
         "testthat",
@@ -6966,7 +6889,6 @@
         "pbkrtest",
         "plotly",
         "readxl",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -7010,7 +6932,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "survMisc",
         "survminer",
@@ -7073,7 +6994,6 @@
         "pbkrtest",
         "plotly",
         "qvalue",
-        "rematch2",
         "rstatix",
         "scater",
         "scattermore",
@@ -7193,7 +7113,6 @@
         "ggfortify",
         "lme4",
         "nloptr",
-        "rematch2",
         "rtracklayer",
         "testthat",
         "tidyr",
@@ -7213,7 +7132,6 @@
         "nloptr",
         "pbkrtest",
         "plotly",
-        "rematch2",
         "rstatix",
         "survMisc",
         "survminer",
@@ -7295,7 +7213,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "rtracklayer",
         "testthat",
@@ -7327,13 +7244,11 @@
         "tidyr"
     ],
     "LedPred": [
-        "rematch2",
         "testthat",
         "waldo"
     ],
     "lefser": [],
     "levi": [
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -7366,7 +7281,6 @@
         "pbkrtest",
         "readr",
         "readxl",
-        "rematch2",
         "rio",
         "rstatix",
         "testthat",
@@ -7417,7 +7331,6 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "rematch2",
         "scuttle",
         "spicyR",
         "testthat",
@@ -7537,7 +7450,6 @@
         "lmerTest",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -7556,7 +7468,6 @@
         "lmerTest",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "viridis",
@@ -7671,7 +7582,6 @@
         "readr",
         "readxl",
         "recipes",
-        "rematch2",
         "reprex",
         "rvest",
         "tidyr",
@@ -7761,7 +7671,6 @@
         "lmerTest",
         "nloptr",
         "phyloseq",
-        "rematch2",
         "ruv",
         "sva",
         "testthat",
@@ -7911,7 +7820,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -7919,7 +7827,6 @@
     "megadepth": [
         "cmdfun",
         "readr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -7938,7 +7845,6 @@
         "ggseqlogo",
         "patchwork",
         "readr",
-        "rematch2",
         "testthat",
         "tidyr",
         "universalmotif",
@@ -8042,7 +7948,6 @@
         "org.Hs.eg.db",
         "pbkrtest",
         "qvalue",
-        "rematch2",
         "rtracklayer",
         "sqldf",
         "testthat",
@@ -8064,7 +7969,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -8227,7 +8131,6 @@
         "nloptr",
         "pbkrtest",
         "readr",
-        "rematch2",
         "rstatix",
         "sesame",
         "sesameData",
@@ -8318,7 +8221,6 @@
         "planet",
         "readr",
         "readxl",
-        "rematch2",
         "reprex",
         "rstatix",
         "rtracklayer",
@@ -8447,7 +8349,6 @@
         "ChemmineR",
         "devtools",
         "pkgdown",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -8540,7 +8441,6 @@
         "pbkrtest",
         "plotly",
         "readr",
-        "rematch2",
         "testthat",
         "tidyr",
         "viridis",
@@ -8578,7 +8478,6 @@
         "plotROC",
         "readxl",
         "recipes",
-        "rematch2",
         "scater",
         "scuttle",
         "testthat",
@@ -8673,7 +8572,6 @@
         "oligoClasses"
     ],
     "MIMOSA": [
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -8847,7 +8745,6 @@
         "readxl",
         "rearrr",
         "recipes",
-        "rematch2",
         "reprex",
         "rqubic",
         "rstatix",
@@ -8916,7 +8813,6 @@
         "readxl",
         "rearrr",
         "recipes",
-        "rematch2",
         "reprex",
         "rstatix",
         "rvest",
@@ -9008,7 +8904,6 @@
         "geneplotter",
         "ipred",
         "recipes",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -9029,7 +8924,6 @@
         "lmerTest",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -9223,7 +9117,6 @@
         "nloptr",
         "pbkrtest",
         "readr",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -9307,7 +9200,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "sva",
         "testthat",
         "tidyr",
@@ -9322,7 +9214,6 @@
         "lme4",
         "nloptr",
         "plotly",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -9331,7 +9222,6 @@
         "ggrepel",
         "lme4",
         "nloptr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -9360,7 +9250,6 @@
         "pbkrtest",
         "readr",
         "readxl",
-        "rematch2",
         "reprex",
         "rstatix",
         "rvest",
@@ -9378,7 +9267,6 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -9409,7 +9297,6 @@
         "lme4",
         "nloptr",
         "recipes",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -9423,7 +9310,6 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "rematch2",
         "testthat",
         "tidyr",
         "viridis",
@@ -9435,7 +9321,6 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -9547,7 +9432,6 @@
         "rWikiPathways",
         "reactome.db",
         "recipes",
-        "rematch2",
         "ropls",
         "scatterpie",
         "shadowtext",
@@ -9592,7 +9476,6 @@
         "lmerTest",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "scater",
         "sctransform",
         "scuttle",
@@ -9639,7 +9522,6 @@
         "plotly",
         "readr",
         "readxl",
-        "rematch2",
         "rstatix",
         "rtracklayer",
         "rvest",
@@ -9673,7 +9555,6 @@
         "nloptr",
         "pbkrtest",
         "qvalue",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -9768,7 +9649,6 @@
         "org.Hs.eg.db",
         "readr",
         "readxl",
-        "rematch2",
         "reprex",
         "rvest",
         "testthat",
@@ -9794,7 +9674,6 @@
         "mppa",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -10002,7 +9881,6 @@
         "arm",
         "lme4",
         "nloptr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -10032,7 +9910,6 @@
         "pbkrtest",
         "readr",
         "readxl",
-        "rematch2",
         "testthat",
         "tidyr",
         "viridis",
@@ -10134,7 +10011,6 @@
         "plyranges",
         "qvalue",
         "readr",
-        "rematch2",
         "rstatix",
         "rtracklayer",
         "testthat",
@@ -10208,7 +10084,6 @@
         "omicade4",
         "pbkrtest",
         "qvalue",
-        "rematch2",
         "rexposome",
         "sva",
         "testthat",
@@ -10243,7 +10118,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "rtracklayer",
         "rvest",
@@ -10272,7 +10146,6 @@
         "nloptr",
         "pbkrtest",
         "plotly",
-        "rematch2",
         "rstatix",
         "survMisc",
         "survminer",
@@ -10308,7 +10181,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -10344,7 +10216,6 @@
         "nloptr",
         "pbkrtest",
         "rapportools",
-        "rematch2",
         "summarytools",
         "testthat",
         "tidyr",
@@ -10368,7 +10239,6 @@
     "oppti": [
         "devtools",
         "pkgdown",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -10437,7 +10307,6 @@
         "pbkrtest",
         "plotly",
         "readr",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -10447,7 +10316,6 @@
     ],
     "Oscope": [
         "EBSeq",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -10489,7 +10357,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -10514,7 +10381,6 @@
     ],
     "PAIRADISE": [
         "nloptr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -10575,7 +10441,6 @@
         "keras",
         "nloptr",
         "qvalue",
-        "rematch2",
         "shadowtext",
         "tensorflow",
         "testthat",
@@ -10602,7 +10467,6 @@
         "phyloseq",
         "pkgdown",
         "plotly",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -10672,7 +10536,6 @@
         "pbkrtest",
         "piano",
         "recipes",
-        "rematch2",
         "rstatix",
         "survMisc",
         "survcomp",
@@ -10781,7 +10644,6 @@
         "dbplyr",
         "ggrepel",
         "plotly",
-        "rematch2",
         "ropls",
         "testthat",
         "tidyr",
@@ -10812,7 +10674,6 @@
         "mice",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -10846,7 +10707,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "ruv",
         "testthat",
@@ -11003,7 +10863,6 @@
         "pbkrtest",
         "readr",
         "readxl",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -11017,7 +10876,6 @@
     "pmm": [
         "lme4",
         "nloptr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -11179,7 +11037,6 @@
         "lme4",
         "nloptr",
         "pvca",
-        "rematch2",
         "sva",
         "testthat",
         "tidyr",
@@ -11380,7 +11237,6 @@
         "pbkrtest",
         "plotly",
         "readr",
-        "rematch2",
         "rstatix",
         "rvest",
         "testthat",
@@ -11445,7 +11301,6 @@
         "nloptr",
         "pbkrtest",
         "plotly",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -11471,7 +11326,6 @@
     "pvca": [
         "lme4",
         "nloptr",
-        "rematch2",
         "testthat",
         "vsn",
         "waldo"
@@ -11531,7 +11385,6 @@
         "patchwork",
         "pbkrtest",
         "plotly",
-        "rematch2",
         "testthat",
         "tidyr",
         "viridis",
@@ -11566,7 +11419,6 @@
         "biovizBase",
         "dbplyr",
         "ensembldb",
-        "rematch2",
         "rtracklayer",
         "testthat",
         "viridis",
@@ -11697,7 +11549,6 @@
     ],
     "RAREsim": [
         "nloptr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -12079,7 +11930,6 @@
         "mice",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "viridis",
@@ -12247,7 +12097,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rtracklayer",
         "testthat",
         "tidyr",
@@ -12356,7 +12205,6 @@
         "geneplotter",
         "org.Mm.eg.db",
         "pkgdown",
-        "rematch2",
         "rtracklayer",
         "testthat",
         "waldo"
@@ -12389,7 +12237,6 @@
     ],
     "RNAdecay": [
         "nloptr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -12531,7 +12378,6 @@
         "pathview",
         "pbkrtest",
         "qvalue",
-        "rematch2",
         "rstatix",
         "rtracklayer",
         "scatterpie",
@@ -12573,7 +12419,6 @@
         "qvalue",
         "readr",
         "recount",
-        "rematch2",
         "rstatix",
         "rtracklayer",
         "testthat",
@@ -12664,7 +12509,6 @@
         "nloptr",
         "pbkrtest",
         "plotly",
-        "rematch2",
         "ropls",
         "testthat",
         "tidyr",
@@ -12700,7 +12544,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "rvest",
         "survMisc",
@@ -12734,7 +12577,6 @@
         "nloptr",
         "pbkrtest",
         "plotly",
-        "rematch2",
         "testthat",
         "tidyr",
         "viper",
@@ -12749,7 +12591,6 @@
         "nloptr",
         "pbkrtest",
         "plotly",
-        "rematch2",
         "testthat",
         "tidyr",
         "viper",
@@ -12766,7 +12607,6 @@
         "nloptr",
         "pbkrtest",
         "plotly",
-        "rematch2",
         "testthat",
         "tidyr",
         "viper",
@@ -12796,7 +12636,6 @@
     ],
     "runibic": [
         "biclust",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -13049,7 +12888,6 @@
         "fields",
         "lme4",
         "nloptr",
-        "rematch2",
         "scran",
         "scuttle",
         "testthat",
@@ -13060,7 +12898,6 @@
         "EBSeq",
         "Oscope",
         "SingleCellExperiment",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -13210,7 +13047,6 @@
         "ggrepel",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "rematch2",
         "rtracklayer",
         "scater",
         "scuttle",
@@ -13591,7 +13427,6 @@
         "lmerTest",
         "nloptr",
         "phyloseq",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -13669,7 +13504,6 @@
         "nloptr",
         "pbkrtest",
         "readr",
-        "rematch2",
         "rstatix",
         "rtracklayer",
         "survMisc",
@@ -13714,7 +13548,6 @@
         "patchwork",
         "pbkrtest",
         "readr",
-        "rematch2",
         "rstatix",
         "rtracklayer",
         "survMisc",
@@ -13976,7 +13809,6 @@
     "snm": [
         "lme4",
         "nloptr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -14098,7 +13930,6 @@
         "lmerTest",
         "nloptr",
         "readxl",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -14202,7 +14033,6 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "rematch2",
         "scuttle",
         "testthat",
         "tidyr",
@@ -14309,7 +14139,6 @@
         "readxl",
         "rearrr",
         "recipes",
-        "rematch2",
         "reprex",
         "rstatix",
         "rvest",
@@ -14381,7 +14210,6 @@
         "ensembldb",
         "geneplotter",
         "pkgdown",
-        "rematch2",
         "rtracklayer",
         "testthat",
         "viridis",
@@ -14482,7 +14310,6 @@
         "modelr",
         "readr",
         "readxl",
-        "rematch2",
         "reprex",
         "rvest",
         "tidyr",
@@ -14562,7 +14389,6 @@
     ],
     "Summix": [
         "nloptr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -14584,7 +14410,6 @@
         "dbplyr",
         "msa",
         "readr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -14603,7 +14428,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "survMisc",
         "survminer",
@@ -14677,7 +14501,6 @@
         "plotly",
         "readr",
         "readxl",
-        "rematch2",
         "reprex",
         "rvest",
         "stars",
@@ -14694,7 +14517,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -14704,7 +14526,6 @@
         "ggnetwork",
         "ggrepel",
         "intergraph",
-        "rematch2",
         "rtracklayer",
         "sna",
         "testthat",
@@ -14755,7 +14576,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -14793,7 +14613,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -14889,7 +14708,6 @@
         "qvalue",
         "readr",
         "recipes",
-        "rematch2",
         "rstatix",
         "rtracklayer",
         "rvest",
@@ -15153,7 +14971,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -15315,7 +15132,6 @@
         "nloptr",
         "patchwork",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -15571,7 +15387,6 @@
         "lmerTest",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -15793,7 +15608,6 @@
         "eva",
         "lme4",
         "nloptr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -15952,7 +15766,6 @@
         "org.Hs.eg.db",
         "pathview",
         "pbkrtest",
-        "rematch2",
         "safe",
         "testthat",
         "tidyr",
@@ -15990,7 +15803,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -15998,7 +15810,6 @@
     ],
     "ggsignif": [],
     "testthat": [
-        "rematch2",
         "waldo"
     ],
     "ggsci": [],
@@ -16009,14 +15820,11 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
     ],
-    "waldo": [
-        "rematch2"
-    ],
+    "waldo": [],
     "broom": [
         "tidyr"
     ],
@@ -16025,29 +15833,24 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
     ],
-    "rematch2": [],
     "pbkrtest": [
         "broom",
         "lme4",
         "nloptr",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
     ],
     "lme4": [
         "nloptr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
     "nloptr": [
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -16096,7 +15899,6 @@
     "lmerTest": [
         "lme4",
         "nloptr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -16269,7 +16071,6 @@
         "modelr",
         "readr",
         "readxl",
-        "rematch2",
         "reprex",
         "rvest",
         "tidyr"
@@ -16316,9 +16117,7 @@
         "rtracklayer"
     ],
     "dtplyr": [],
-    "googlesheets4": [
-        "rematch2"
-    ],
+    "googlesheets4": [],
     "haven": [
         "readr"
     ],
@@ -16339,7 +16138,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -16403,7 +16201,6 @@
         "plotly",
         "readr",
         "readxl",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -16532,7 +16329,6 @@
     ],
     "devtools": [
         "pkgdown",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -16546,7 +16342,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -16562,7 +16357,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -16758,7 +16552,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -16861,7 +16654,6 @@
     "mbest": [
         "lme4",
         "nloptr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -16871,7 +16663,6 @@
     "arm": [
         "lme4",
         "nloptr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -16881,7 +16672,6 @@
         "vsn"
     ],
     "cmdfun": [
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -16896,7 +16686,6 @@
     "rsq": [
         "lme4",
         "nloptr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -16929,7 +16718,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -17011,7 +16799,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -17032,7 +16819,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "survMisc",
         "testthat",
@@ -17136,7 +16922,6 @@
     "glmmTMB": [
         "lme4",
         "nloptr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -17290,7 +17075,6 @@
         "nloptr",
         "rearrr",
         "recipes",
-        "rematch2",
         "testthat",
         "tidyr",
         "waldo"
@@ -17311,14 +17095,12 @@
     "anyLib": [
         "devtools",
         "pkgdown",
-        "rematch2",
         "testthat",
         "waldo"
     ],
     "blme": [
         "lme4",
         "nloptr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -17346,7 +17128,6 @@
         "pbkrtest",
         "readr",
         "readxl",
-        "rematch2",
         "testthat",
         "tidyr",
         "viridis",
@@ -17387,7 +17168,6 @@
     "AICcmodavg": [
         "lme4",
         "nloptr",
-        "rematch2",
         "testthat",
         "unmarked",
         "waldo"
@@ -17399,7 +17179,6 @@
     "unmarked": [
         "lme4",
         "nloptr",
-        "rematch2",
         "testthat",
         "waldo"
     ],
@@ -17581,7 +17360,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rematch2",
         "rstatix",
         "survMisc",
         "survminer",
