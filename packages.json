@@ -40033,7 +40033,6 @@
         "KEGGREST",
         "R.utils",
         "RSQLite",
-        "Rook",
         "SummarizedExperiment",
         "XVector",
         "annotate",
@@ -48900,7 +48899,6 @@
         "BiocParallel",
         "Lmoments",
         "MatrixModels",
-        "Rook",
         "edgeR",
         "extRemes",
         "futile.logger",
@@ -67734,7 +67732,6 @@
     "genlasso": [
         "igraph"
     ],
-    "Rook": [],
     "opencpu": [
         "httpuv",
         "knitr",
