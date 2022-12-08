@@ -7032,7 +7032,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tmvtnorm",
         "vroom",
         "vsn"
     ],
@@ -13894,8 +13893,7 @@
         "ropls",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "tmvtnorm"
+        "tidyselect"
     ],
     "LiquidAssociation": [
         "AnnotationDbi",
@@ -14533,7 +14531,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tmvtnorm",
         "viridis",
         "vsn"
     ],
@@ -15949,7 +15946,6 @@
         "phyloseq",
         "reshape2",
         "tibble",
-        "tmvtnorm",
         "vegan"
     ],
     "microbiomeExplorer": [
@@ -18994,7 +18990,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tmvtnorm",
         "viridis",
         "waldo"
     ],
@@ -22563,7 +22558,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tmvtnorm",
         "viridis",
         "waldo"
     ],
@@ -26278,8 +26272,7 @@
     ],
     "sparseDOSSA": [
         "MCMCpack",
-        "quantreg",
-        "tmvtnorm"
+        "quantreg"
     ],
     "sparsenetgls": [],
     "SparseSignatures": [
@@ -32201,10 +32194,7 @@
         "TTR",
         "quantmod"
     ],
-    "imputeLCMD": [
-        "tmvtnorm"
-    ],
-    "tmvtnorm": [],
+    "imputeLCMD": [],
     "ggplot.multistats": [
         "ggplot2",
         "tibble"
