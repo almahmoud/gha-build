@@ -958,8 +958,7 @@
         "car",
         "ggpubr",
         "pbkrtest",
-        "rstatix",
-        "sesame"
+        "rstatix"
     ],
     "MethylAid": [],
     "methylCC": [
@@ -1541,7 +1540,6 @@
     ],
     "seqCAT": [],
     "SeqGSEA": [],
-    "sesame": [],
     "SEtools": [],
     "shinyepico": [],
     "shinyMethyl": [
@@ -1681,8 +1679,7 @@
         "enrichplot",
         "ggpubr",
         "pbkrtest",
-        "rstatix",
-        "sesame"
+        "rstatix"
     ],
     "TDARACNE": [
         "GenKern"
