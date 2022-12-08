@@ -6565,7 +6565,6 @@
         "tidyr",
         "waldo"
     ],
-    "EpiDISH": [],
     "epigenomix": [
         "AnnotationDbi",
         "KEGGREST",
@@ -21860,7 +21859,6 @@
         "knitr"
     ],
     "TOAST": [
-        "EpiDISH",
         "GGally",
         "SummarizedExperiment",
         "dplyr",
