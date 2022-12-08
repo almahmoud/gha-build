@@ -34,7 +34,6 @@
         "ExperimentHub",
         "adductData"
     ],
-    "adSplit": [],
     "AffiXcan": [
         "MultiAssayExperiment"
     ],
