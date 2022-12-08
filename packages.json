@@ -11857,7 +11857,6 @@
         "ggrepel",
         "ipred",
         "network",
-        "osfr",
         "readr",
         "recipes",
         "sna",
@@ -19112,7 +19111,6 @@
     ],
     "aroma.affymetrix": [],
     "opencpu": [],
-    "osfr": [],
     "C50": [
         "Cubist"
     ],
