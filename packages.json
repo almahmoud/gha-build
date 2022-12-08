@@ -11124,7 +11124,6 @@
         "SummarizedExperiment",
         "biomaRt",
         "bsplus",
-        "configr",
         "dbplyr",
         "dplyr",
         "knitr",
@@ -26500,7 +26499,6 @@
         "learnr",
         "rmarkdown"
     ],
-    "configr": [],
     "bsplus": [
         "knitr",
         "rmarkdown"
