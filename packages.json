@@ -1950,7 +1950,6 @@
     "GWENA": [
         "gprofiler2"
     ],
-    "hca": [],
     "HelloRanges": [
         "GenomicFeatures",
         "VariantAnnotation"
