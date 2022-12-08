@@ -14283,7 +14283,6 @@
         "KEGGREST",
         "annotate",
         "aroma.affymetrix",
-        "aroma.core",
         "genefilter"
     ],
     "peco": [
@@ -20247,7 +20246,6 @@
         "KEGGREST",
         "WGCNA",
         "aroma.affymetrix",
-        "aroma.core",
         "ggplot2",
         "htmlTable",
         "viridis"
@@ -23616,10 +23614,7 @@
         "ggplot2",
         "viridis"
     ],
-    "aroma.affymetrix": [
-        "aroma.core"
-    ],
-    "aroma.core": [],
+    "aroma.affymetrix": [],
     "opencpu": [],
     "osfr": [],
     "C50": [
