@@ -367,7 +367,6 @@
     "GEWIST": [
         "car"
     ],
-    "ggtreeDendro": [],
     "glmSparseNet": [
         "car",
         "ggpubr",
