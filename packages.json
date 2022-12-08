@@ -434,7 +434,6 @@
         "GSEABase"
     ],
     "BiocPkgTools": [],
-    "BiocSet": [],
     "biodb": [
         "testthat"
     ],
@@ -703,7 +702,6 @@
         "genefilter"
     ],
     "CBEA": [
-        "BiocSet",
         "TreeSummarizedExperiment",
         "mixtools",
         "plotly",
@@ -4957,7 +4955,6 @@
         "regioneR"
     ],
     "RegEnrich": [
-        "BiocSet",
         "DESeq2",
         "DOSE",
         "GOSemSim",
@@ -5812,7 +5809,6 @@
         "scran"
     ],
     "sparrow": [
-        "BiocSet",
         "GSEABase",
         "plotly"
     ],
