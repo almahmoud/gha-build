@@ -1531,9 +1531,7 @@
         "GenomicFeatures",
         "drawProteins"
     ],
-    "FamAgg": [
-        "gap"
-    ],
+    "FamAgg": [],
     "famat": [
         "DOSE",
         "clusterProfiler",
@@ -5134,7 +5132,6 @@
     "ewceData": [],
     "homologene": [],
     "gprofiler2": [],
-    "gap": [],
     "geepack": [],
     "fda": [],
     "SPARQL": [],
