@@ -1005,7 +1005,6 @@
         "lme4",
         "nloptr"
     ],
-    "drawProteins": [],
     "drugTargetInteractions": [
         "ensembldb"
     ],
@@ -1247,9 +1246,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "factR": [
-        "drawProteins"
-    ],
+    "factR": [],
     "FamAgg": [],
     "famat": [
         "DOSE",
