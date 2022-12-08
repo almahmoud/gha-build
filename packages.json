@@ -1678,7 +1678,6 @@
         "ggplot2",
         "rmarkdown"
     ],
-    "BRAIN": [],
     "brainflowprobes": [
         "AnnotationDbi",
         "AnnotationHub",
