@@ -2425,7 +2425,6 @@
         "testthat",
         "waldo"
     ],
-    "EnhancedVolcano": [],
     "enhancerHomologSearch": [
         "BSgenome",
         "CNEr",
