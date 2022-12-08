@@ -202,7 +202,6 @@
     "APL": [
         "GO.db",
         "Seurat",
-        "org.Mm.eg.db",
         "plotly",
         "topGO"
     ],
@@ -317,7 +316,6 @@
         "haven",
         "modelr",
         "motifmatchr",
-        "org.Mm.eg.db",
         "plotly",
         "projectR",
         "rGREAT",
@@ -702,7 +700,6 @@
         "bsseq",
         "bumphunter",
         "dmrseq",
-        "org.Mm.eg.db",
         "readr",
         "regioneR"
     ],
@@ -986,7 +983,6 @@
     ],
     "cellity": [
         "GO.db",
-        "org.Mm.eg.db",
         "topGO"
     ],
     "cellmigRation": [
@@ -1143,8 +1139,7 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "ensembldb",
-        "org.Mm.eg.db"
+        "ensembldb"
     ],
     "ChIPanalyser": [
         "BSgenome"
@@ -1157,7 +1152,6 @@
     "chipenrich": [
         "chipenrich.data",
         "org.Dm.eg.db",
-        "org.Mm.eg.db",
         "org.Rn.eg.db",
         "readr",
         "rms"
@@ -1503,7 +1497,6 @@
         "gson",
         "lme4",
         "nloptr",
-        "org.Mm.eg.db",
         "pbkrtest",
         "readr",
         "rstatix",
@@ -1919,7 +1912,6 @@
         "ggtree",
         "gson",
         "heatmaply",
-        "org.Mm.eg.db",
         "pathview",
         "plotly",
         "scatterpie",
@@ -2293,7 +2285,6 @@
         "ggraph",
         "ggtree",
         "gson",
-        "org.Mm.eg.db",
         "scatterpie",
         "tidygraph",
         "tidytree",
@@ -2343,7 +2334,6 @@
         "ggraph",
         "ggtree",
         "gson",
-        "org.Mm.eg.db",
         "scatterpie",
         "tidygraph",
         "tidytree",
@@ -2363,7 +2353,6 @@
         "hgu133a.db",
         "hgu133plus2.db",
         "metap",
-        "org.Mm.eg.db",
         "org.Rn.eg.db",
         "pathview",
         "plotly",
@@ -3389,8 +3378,7 @@
         "WGCNA",
         "broom",
         "gRain",
-        "genefilter",
-        "org.Mm.eg.db"
+        "genefilter"
     ],
     "gmoviz": [
         "GenomicFeatures",
@@ -3894,7 +3882,6 @@
         "lme4",
         "mixtools",
         "nloptr",
-        "org.Mm.eg.db",
         "pbkrtest",
         "plotly",
         "rstatix",
@@ -6231,7 +6218,6 @@
         "fgsea",
         "ggraph",
         "ggtree",
-        "org.Mm.eg.db",
         "rGREAT",
         "scatterpie",
         "soGGi",
@@ -6855,7 +6841,6 @@
         "biomaRt",
         "devtools",
         "geneplotter",
-        "org.Mm.eg.db",
         "testthat",
         "waldo"
     ],
@@ -7109,7 +7094,6 @@
     "rTRM": [],
     "rTRMui": [
         "MotifDb",
-        "org.Mm.eg.db",
         "rTRM"
     ],
     "runibic": [
@@ -7301,7 +7285,6 @@
         "GGally",
         "biomaRt",
         "ggrastr",
-        "org.Mm.eg.db",
         "scater",
         "testthat",
         "waldo"
@@ -8208,7 +8191,6 @@
         "ExperimentHub",
         "GO.db",
         "ontoProc",
-        "org.Mm.eg.db",
         "restfulSE"
     ],
     "terraTCGAdata": [
@@ -8628,7 +8610,6 @@
         "ggraph",
         "lexicon",
         "msigdb",
-        "org.Mm.eg.db",
         "syuzhet",
         "textclean",
         "textstem",
@@ -8848,7 +8829,6 @@
     "Seurat": [
         "plotly"
     ],
-    "org.Mm.eg.db": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome"
     ],
@@ -8921,8 +8901,7 @@
         "GenomicFeatures",
         "OrganismDbi",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
-        "biomaRt",
-        "org.Mm.eg.db"
+        "biomaRt"
     ],
     "BSgenome.Mmusculus.UCSC.mm10": [
         "BSgenome"
@@ -9688,8 +9667,7 @@
     "msigdb": [
         "AnnotationHub",
         "ExperimentHub",
-        "GSEABase",
-        "org.Mm.eg.db"
+        "GSEABase"
     ],
     "eva": []
 }
