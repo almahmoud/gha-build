@@ -1836,7 +1836,6 @@
         "GEOquery",
         "biomaRt",
         "hgu133a.db",
-        "hgu133a2.db",
         "hgu133plus2.db"
     ],
     "DSS": [
@@ -7620,7 +7619,6 @@
         "testthat"
     ],
     "NBPSeq": [],
-    "hgu133a2.db": [],
     "easierData": [
         "ExperimentHub"
     ],
