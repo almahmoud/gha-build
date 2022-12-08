@@ -2126,7 +2126,6 @@
     "HTSFilter": [
         "DESeq2"
     ],
-    "iBBiG": [],
     "icetea": [
         "DESeq2",
         "GenomicFeatures",
@@ -2846,7 +2845,6 @@
         "ggpubr",
         "ggraph",
         "ggtree",
-        "iBBiG",
         "lme4",
         "miRspongeR",
         "modelr",
