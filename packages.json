@@ -75213,7 +75213,6 @@
         "doParallel",
         "dplyr",
         "ellipsis",
-        "enviPat",
         "farver",
         "fontawesome",
         "foreach",
@@ -81496,7 +81495,6 @@
         "doParallel",
         "dplyr",
         "ellipsis",
-        "enviPat",
         "farver",
         "fingerprint",
         "foreach",
@@ -121934,7 +121932,6 @@
         "shiny",
         "withr"
     ],
-    "enviPat": [],
     "shinyscreenshot": [
         "Rcpp",
         "bslib",
