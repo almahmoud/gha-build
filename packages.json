@@ -3839,7 +3839,6 @@
     "CONFESS": [
         "Hmisc",
         "contrast",
-        "flowMeans",
         "flowMerge",
         "ggplot2",
         "htmlTable",
@@ -7055,7 +7054,6 @@
         "ggrepel"
     ],
     "flowMap": [],
-    "flowMeans": [],
     "flowMerge": [],
     "flowPloidy": [
         "broom",
@@ -13982,7 +13980,6 @@
     ],
     "optimalFlow": [
         "dplyr",
-        "flowMeans",
         "rgl"
     ],
     "OPWeight": [
