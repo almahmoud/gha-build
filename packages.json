@@ -35535,8 +35535,7 @@
         "viridis"
     ],
     "maSigPro": [
-        "Biobase",
-        "venn"
+        "Biobase"
     ],
     "maskBAD": [
         "Biobase",
@@ -81669,7 +81668,6 @@
         "ade4",
         "e1071"
     ],
-    "venn": [],
     "PairedData": [
         "Matrix",
         "e1071",
