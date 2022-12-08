@@ -670,7 +670,6 @@
         "methylumi",
         "minfi"
     ],
-    "flagme": [],
     "FLAMES": [
         "biovizBase",
         "ggbio"
