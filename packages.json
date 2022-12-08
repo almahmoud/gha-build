@@ -56976,7 +56976,6 @@
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "GenomicRanges",
-        "HiddenMarkov",
         "IRanges",
         "MASS",
         "Matrix",
@@ -75053,7 +75052,6 @@
     "MOSim": [
         "Biobase",
         "BiocGenerics",
-        "HiddenMarkov",
         "IRanges",
         "MASS",
         "Matrix",
@@ -148274,7 +148272,6 @@
         "lattice",
         "nlme"
     ],
-    "HiddenMarkov": [],
     "argparse": [
         "R6",
         "findpython"
