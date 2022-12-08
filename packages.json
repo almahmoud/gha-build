@@ -143,9 +143,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "frenchFISH": [
-        "NHPoisson"
-    ],
+    "frenchFISH": [],
     "FuseSOM": [
         "ggpubr",
         "rstatix"
@@ -502,7 +500,6 @@
     "VIM": [],
     "EntropyExplorer": [],
     "SPARQL": [],
-    "NHPoisson": [],
     "survminer": [
         "ggpubr",
         "rstatix"
