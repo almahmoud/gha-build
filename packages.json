@@ -13299,7 +13299,6 @@
     "nanotatoR": [
         "AnnotationDbi",
         "KEGGREST",
-        "VarfromPDB",
         "broom",
         "cellranger",
         "dbplyr",
@@ -23947,7 +23946,6 @@
         "rtracklayer"
     ],
     "shinyjqui": [],
-    "VarfromPDB": [],
     "mppa": [],
     "ICSNP": [
         "ICS"
