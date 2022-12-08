@@ -14860,7 +14860,6 @@
         "vctrs",
         "waldo"
     ],
-    "ecolitk": [],
     "EDASeq": [
         "AnnotationDbi",
         "BiocFileCache",
