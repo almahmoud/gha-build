@@ -2055,8 +2055,7 @@
     ],
     "sSNAPPY": [],
     "ssPATHS": [
-        "MESS",
-        "ggformula"
+        "MESS"
     ],
     "STAN": [
         "Gviz",
@@ -2438,10 +2437,7 @@
     ],
     "scRNAseq": [],
     "sampSurf": [],
-    "MESS": [
-        "ggformula"
-    ],
-    "ggformula": [],
+    "MESS": [],
     "GenKern": [],
     "vbsr": []
 }
