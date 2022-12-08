@@ -1001,7 +1001,6 @@
         "rstatix",
         "survminer"
     ],
-    "gemini": [],
     "genbankr": [
         "VariantAnnotation"
     ],
