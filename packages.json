@@ -22,7 +22,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "Anaquin": [],
     "ANCOMBC": [
         "lmerTest",
         "mia"
