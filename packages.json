@@ -2846,7 +2846,6 @@
     "DEGseq": [
         "qvalue"
     ],
-    "DelayedTensor": [],
     "deltaCaptureC": [
         "DESeq2",
         "annotate",
