@@ -121,11 +121,8 @@
         "rstatix"
     ],
     "categoryCompare": [],
-    "cbaf": [
-        "cBioPortalData"
-    ],
+    "cbaf": [],
     "CBEA": [],
-    "cBioPortalData": [],
     "cellmigRation": [
         "FactoMineR",
         "car",
@@ -661,9 +658,7 @@
         "lmerTest",
         "spicyR"
     ],
-    "LowMACA": [
-        "cBioPortalData"
-    ],
+    "LowMACA": [],
     "lumi": [
         "methylumi"
     ],
