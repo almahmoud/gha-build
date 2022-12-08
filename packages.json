@@ -5740,8 +5740,7 @@
         "tidyr"
     ],
     "MBQN": [
-        "BiocFileCache",
-        "PairedData"
+        "BiocFileCache"
     ],
     "MCbiclust": [
         "GGally",
@@ -12624,7 +12623,6 @@
         "readr",
         "tidyr"
     ],
-    "PairedData": [],
     "SmartSVA": [
         "annotate",
         "genefilter",
