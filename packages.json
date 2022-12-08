@@ -517,7 +517,6 @@
         "ggtree",
         "treeio"
     ],
-    "CARNIVAL": [],
     "casper": [
         "GenomicFeatures"
     ],
@@ -928,7 +927,6 @@
         "xcms"
     ],
     "cosmosR": [
-        "CARNIVAL",
         "dorothea",
         "mixtools",
         "viper"
