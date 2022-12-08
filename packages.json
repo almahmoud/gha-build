@@ -1274,7 +1274,6 @@
         "lexicon",
         "textclean"
     ],
-    "FoldGO": [],
     "FRASER": [
         "DESeq2",
         "OUTRIDER"
