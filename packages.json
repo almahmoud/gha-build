@@ -24690,7 +24690,6 @@
         "lubridate",
         "memoise",
         "mgcv",
-        "phosphoricons",
         "pillar",
         "progress",
         "promises",
@@ -61487,7 +61486,6 @@
         "httpuv",
         "jquerylib",
         "memoise",
-        "phosphoricons",
         "pillar",
         "progress",
         "promises",
@@ -61505,7 +61503,6 @@
         "vctrs",
         "vroom"
     ],
-    "phosphoricons": [],
     "pd.mapping50k.xba240": [
         "Biostrings",
         "DelayedArray",
