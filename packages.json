@@ -27832,7 +27832,6 @@
         "survMisc",
         "survcomp",
         "survminer",
-        "switchBox",
         "testthat",
         "tibble",
         "tidyr",
@@ -38500,7 +38499,6 @@
     "SwathXtend": [
         "VennDiagram"
     ],
-    "switchBox": [],
     "switchde": [
         "DelayedArray",
         "GenomicRanges",
