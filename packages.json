@@ -14624,7 +14624,6 @@
     "HubPub": [
         "R.cache",
         "available",
-        "aws.s3",
         "biocthis",
         "dplyr",
         "gert",
@@ -27026,7 +27025,6 @@
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
-        "aws.s3",
         "biomaRt",
         "blob",
         "broom",
@@ -38480,7 +38478,6 @@
         "tidyselect",
         "tidytext"
     ],
-    "aws.s3": [],
     "biclust": [
         "dplyr",
         "ggplot2",
