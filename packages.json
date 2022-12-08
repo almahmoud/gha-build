@@ -20962,7 +20962,6 @@
         "tibble",
         "vctrs"
     ],
-    "diffGeneAnalysis": [],
     "diffHic": [
         "BSgenome",
         "Biobase",
