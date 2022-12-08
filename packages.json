@@ -578,7 +578,6 @@
     ],
     "basecallQC": [
         "ShortRead",
-        "prettydoc",
         "tidyr"
     ],
     "Basic4Cseq": [
@@ -1573,7 +1572,6 @@
         "missMethyl",
         "org.Hs.eg.db",
         "plotly",
-        "prettydoc",
         "qvalue",
         "readr",
         "rtracklayer",
@@ -5871,9 +5869,7 @@
     "macat": [
         "annotate"
     ],
-    "MACSQuantifyR": [
-        "prettydoc"
-    ],
+    "MACSQuantifyR": [],
     "MACSr": [
         "AnnotationHub",
         "BiocFileCache",
@@ -11982,8 +11978,7 @@
     "tscR": [
         "kml",
         "kmlShape",
-        "longitudinalData",
-        "prettydoc"
+        "longitudinalData"
     ],
     "ttgsea": [
         "DiagrammeR",
@@ -12692,7 +12687,6 @@
     "dendextend": [],
     "ggvis": [],
     "rstan": [],
-    "prettydoc": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "rtracklayer"
