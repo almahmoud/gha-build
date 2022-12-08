@@ -30110,7 +30110,6 @@
         "waldo",
         "webshot"
     ],
-    "qpcrNorm": [],
     "qpgraph": [
         "AnnotationDbi",
         "BiocFileCache",
