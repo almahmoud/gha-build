@@ -141,7 +141,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "biodbChebi": [],
     "biodbExpasy": [],
     "biodbHmdb": [],
     "biodbKegg": [],
@@ -1679,9 +1678,7 @@
     ],
     "phantasus": [],
     "PharmacoGx": [],
-    "phenomis": [
-        "biodbChebi"
-    ],
+    "phenomis": [],
     "phenoTest": [],
     "PhenStat": [
         "car",
