@@ -13176,7 +13176,6 @@
         "vctrs",
         "vsn"
     ],
-    "clustComp": [],
     "clusterExperiment": [
         "AnnotationDbi",
         "Biobase",
