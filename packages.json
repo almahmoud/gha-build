@@ -3921,7 +3921,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "VegaMC": [],
     "vidger": [
         "DESeq2"
     ],
