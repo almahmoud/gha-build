@@ -27592,7 +27592,6 @@
         "tibble",
         "vctrs"
     ],
-    "plier": [],
     "PloGO2": [
         "AnnotationDbi",
         "AnnotationForge",
