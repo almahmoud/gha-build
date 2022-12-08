@@ -75,7 +75,6 @@
     "anota2seq": [
         "DESeq2"
     ],
-    "AnVILBilling": [],
     "APAlyzer": [
         "DESeq2",
         "VariantAnnotation"
