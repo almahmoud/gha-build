@@ -6323,10 +6323,8 @@
     ],
     "Rtpca": [],
     "Rtreemix": [],
-    "rTRM": [],
     "rTRMui": [
-        "MotifDb",
-        "rTRM"
+        "MotifDb"
     ],
     "runibic": [
         "biclust",
