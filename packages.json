@@ -1205,7 +1205,6 @@
         "ensembldb",
         "plotly"
     ],
-    "combi": [],
     "coMET": [
         "GenomicFeatures",
         "Gviz",
