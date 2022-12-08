@@ -234,7 +234,6 @@
         "BASiCS"
     ],
     "BatchQC": [
-        "heatmaply",
         "sva"
     ],
     "BayesSpace": [],
@@ -1080,7 +1079,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "heatmaply",
         "sva",
         "treeio"
     ],
@@ -1119,8 +1117,7 @@
         "DESeq2"
     ],
     "DegNorm": [
-        "GenomicFeatures",
-        "heatmaply"
+        "GenomicFeatures"
     ],
     "DEGraph": [],
     "DEGreport": [
@@ -1210,9 +1207,7 @@
     "Dino": [
         "Seurat"
     ],
-    "DiscoRhythm": [
-        "heatmaply"
-    ],
+    "DiscoRhythm": [],
     "distinct": [],
     "DMCFB": [
         "arm",
@@ -1686,8 +1681,7 @@
     "FRASER": [
         "DESeq2",
         "GenomicFeatures",
-        "OUTRIDER",
-        "heatmaply"
+        "OUTRIDER"
     ],
     "frenchFISH": [
         "NHPoisson",
@@ -1875,7 +1869,6 @@
         "car",
         "factoextra",
         "ggpubr",
-        "heatmaply",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -2129,7 +2122,6 @@
         "GenomicFeatures",
         "geneLenDataBase",
         "goseq",
-        "heatmaply",
         "pcaExplorer"
     ],
     "igvR": [
@@ -2152,9 +2144,7 @@
         "cytomapper",
         "ggraph"
     ],
-    "ImmuneSpaceR": [
-        "heatmaply"
-    ],
+    "ImmuneSpaceR": [],
     "immunotation": [],
     "INDEED": [
         "devtools",
@@ -2595,8 +2585,7 @@
         "DSS",
         "EDASeq",
         "GenomicFeatures",
-        "bsseq",
-        "heatmaply"
+        "bsseq"
     ],
     "metavizr": [
         "GenomicFeatures",
@@ -2724,7 +2713,6 @@
     "microbiomeExplorer": [
         "DESeq2",
         "car",
-        "heatmaply",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -3364,8 +3352,7 @@
     ],
     "OUTRIDER": [
         "DESeq2",
-        "GenomicFeatures",
-        "heatmaply"
+        "GenomicFeatures"
     ],
     "PAA": [
         "sva"
@@ -3413,8 +3400,7 @@
     "pcaExplorer": [
         "Category",
         "DESeq2",
-        "GOstats",
-        "heatmaply"
+        "GOstats"
     ],
     "PDATK": [
         "CoreGx",
@@ -3687,7 +3673,6 @@
     "qmtools": [
         "VIM",
         "car",
-        "heatmaply",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -4247,7 +4232,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "heatmaply",
         "meshr",
         "schex",
         "treeio"
@@ -4311,7 +4295,6 @@
         "GEOquery",
         "GenomicFeatures",
         "bumphunter",
-        "heatmaply",
         "minfi"
     ],
     "shinyMethyl": [
@@ -4513,8 +4496,7 @@
     "spiky": [],
     "splatter": [],
     "SpliceWiz": [
-        "NxtIRFdata",
-        "heatmaply"
+        "NxtIRFdata"
     ],
     "SplicingGraphs": [
         "GenomicFeatures"
@@ -4961,8 +4943,7 @@
     ],
     "viper": [],
     "ViSEAGO": [
-        "DiagrammeR",
-        "heatmaply"
+        "DiagrammeR"
     ],
     "vissE": [
         "ggraph",
@@ -5148,7 +5129,6 @@
     ],
     "pRolocdata": [],
     "BSgenome.Ecoli.NCBI.20080805": [],
-    "heatmaply": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "GEOquery",
         "GenomicFeatures",
@@ -5344,9 +5324,7 @@
     "logistf": [
         "mice"
     ],
-    "shinyHeatmaply": [
-        "heatmaply"
-    ],
+    "shinyHeatmaply": [],
     "ggalt": [],
     "HiContactsData": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
