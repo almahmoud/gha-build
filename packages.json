@@ -17470,7 +17470,6 @@
         "vctrs"
     ],
     "customProDB": [
-        "AhoCorasickTrie",
         "AnnotationDbi",
         "BSgenome",
         "Biobase",
@@ -90480,7 +90479,6 @@
         "robustbase"
     ],
     "pscl": [],
-    "AhoCorasickTrie": [],
     "cytometree": [
         "GoFKernel",
         "Matrix",
