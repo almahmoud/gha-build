@@ -2275,7 +2275,6 @@
         "Hmisc",
         "KEGGREST",
         "RSQLite",
-        "TH.data",
         "ggplot2",
         "htmlTable",
         "imager",
@@ -3231,7 +3230,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "TH.data",
         "broom",
         "car",
         "cowplot",
@@ -3694,7 +3692,6 @@
         "FlowSOM",
         "GenomicRanges",
         "SummarizedExperiment",
-        "TH.data",
         "broom",
         "broom.mixed",
         "car",
@@ -4058,7 +4055,6 @@
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
-        "TH.data",
         "chipenrich.data",
         "ggplot2",
         "htmlTable",
@@ -5400,7 +5396,6 @@
     ],
     "CONFESS": [
         "Hmisc",
-        "TH.data",
         "contrast",
         "feature",
         "flowMeans",
@@ -6253,7 +6248,6 @@
         "FlowSOM",
         "GenomicRanges",
         "SummarizedExperiment",
-        "TH.data",
         "broom",
         "car",
         "caret",
@@ -6562,7 +6556,6 @@
         "Linnorm",
         "RSQLite",
         "TFisher",
-        "TH.data",
         "broom",
         "cellranger",
         "dbplyr",
@@ -7321,7 +7314,6 @@
         "FlowSOM",
         "GenomicRanges",
         "SummarizedExperiment",
-        "TH.data",
         "broom",
         "car",
         "cowplot",
@@ -7540,7 +7532,6 @@
         "GenomicRanges",
         "Rsamtools",
         "SummarizedExperiment",
-        "TH.data",
         "multcomp",
         "rtracklayer"
     ],
@@ -7723,7 +7714,6 @@
         "sva"
     ],
     "Doscheda": [
-        "TH.data",
         "broom",
         "car",
         "cellranger",
@@ -7898,7 +7888,6 @@
         "KEGGREST",
         "RSQLite",
         "SummarizedExperiment",
-        "TH.data",
         "annotate",
         "broom",
         "car",
@@ -8140,7 +8129,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "TFisher",
-        "TH.data",
         "annotate",
         "dplyr",
         "gage",
@@ -11262,7 +11250,6 @@
         "Hmisc",
         "KEGGREST",
         "RSQLite",
-        "TH.data",
         "annotate",
         "genefilter",
         "ggplot2",
@@ -11715,7 +11702,6 @@
     "GRmetrics": [
         "GenomicRanges",
         "SummarizedExperiment",
-        "TH.data",
         "broom",
         "car",
         "dplyr",
@@ -12342,7 +12328,6 @@
         "MultiAssayExperiment",
         "RSQLite",
         "SummarizedExperiment",
-        "TH.data",
         "coin",
         "dbplyr",
         "dplyr",
@@ -12880,7 +12865,6 @@
         "SeuratObject",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "TH.data",
         "coin",
         "cowplot",
         "dplyr",
@@ -13788,7 +13772,6 @@
     "lefser": [
         "GenomicRanges",
         "SummarizedExperiment",
-        "TH.data",
         "coin",
         "ggplot2",
         "multcomp",
@@ -14866,7 +14849,6 @@
     ],
     "MEDME": [
         "Biostrings",
-        "TH.data",
         "broom",
         "car",
         "dplyr",
@@ -15354,7 +15336,6 @@
     ],
     "MetaVolcanoR": [
         "TFisher",
-        "TH.data",
         "cowplot",
         "dplyr",
         "ggplot2",
@@ -16044,7 +16025,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "TH.data",
         "TreeSummarizedExperiment",
         "annotate",
         "aplot",
@@ -16148,7 +16128,6 @@
         "Biostrings",
         "GenomicRanges",
         "SummarizedExperiment",
-        "TH.data",
         "aplot",
         "coin",
         "dplyr",
@@ -17704,7 +17683,6 @@
         "KEGGREST",
         "RSQLite",
         "TFisher",
-        "TH.data",
         "cowplot",
         "dplyr",
         "fgsea",
@@ -17760,7 +17738,6 @@
         "ReactomePA",
         "SummarizedExperiment",
         "TFisher",
-        "TH.data",
         "annotate",
         "anyLib",
         "aplot",
@@ -18110,7 +18087,6 @@
         "SummarizedExperiment",
         "TFBSTools",
         "TFisher",
-        "TH.data",
         "VariantAnnotation",
         "annotate",
         "biomaRt",
@@ -19646,7 +19622,6 @@
         "KEGGREST",
         "RSQLite",
         "TFisher",
-        "TH.data",
         "annotate",
         "aplot",
         "clusterProfiler",
@@ -23643,7 +23618,6 @@
         "MultiDataSet",
         "SummarizedExperiment",
         "TFisher",
-        "TH.data",
         "broom",
         "car",
         "dplyr",
@@ -25872,7 +25846,6 @@
         "SummarizedExperiment",
         "TENxPBMCData",
         "TFisher",
-        "TH.data",
         "TSCAN",
         "TrajectoryUtils",
         "annotate",
@@ -27510,7 +27483,6 @@
     ],
     "synergyfinder": [
         "SpatialExtremes",
-        "TH.data",
         "broom",
         "car",
         "cellranger",
@@ -28741,7 +28713,6 @@
         "GenomicRanges",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "TH.data",
         "aplot",
         "broom",
         "car",
@@ -31191,7 +31162,6 @@
     "gert": [],
     "rms": [
         "Hmisc",
-        "TH.data",
         "ggplot2",
         "htmlTable",
         "knitr",
@@ -31205,10 +31175,7 @@
         "tibble"
     ],
     "imager": [],
-    "multcomp": [
-        "TH.data"
-    ],
-    "TH.data": [],
+    "multcomp": [],
     "latex2exp": [],
     "synaptome.db": [
         "AnnotationDbi",
@@ -31432,7 +31399,6 @@
         "RSQLite"
     ],
     "drc": [
-        "TH.data",
         "broom",
         "car",
         "dplyr",
@@ -31969,7 +31935,6 @@
     ],
     "contrast": [
         "Hmisc",
-        "TH.data",
         "ggplot2",
         "htmlTable",
         "knitr",
@@ -32177,7 +32142,6 @@
     ],
     "metap": [
         "TFisher",
-        "TH.data",
         "multcomp",
         "mutoss",
         "quantreg",
@@ -32188,7 +32152,6 @@
         "sn"
     ],
     "mutoss": [
-        "TH.data",
         "multcomp"
     ],
     "sn": [
@@ -32324,7 +32287,6 @@
         "tidyselect"
     ],
     "coin": [
-        "TH.data",
         "multcomp"
     ],
     "ELMER.data": [
@@ -32575,7 +32537,6 @@
     ],
     "HH": [
         "Hmisc",
-        "TH.data",
         "ggplot2",
         "htmlTable",
         "knitr",
