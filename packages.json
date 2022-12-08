@@ -2659,7 +2659,6 @@
         "missMethyl",
         "treeio"
     ],
-    "methylInheritance": [],
     "methylPipe": [
         "GenomicFeatures",
         "Gviz",
