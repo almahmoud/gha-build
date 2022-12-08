@@ -41,7 +41,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "airpart": [],
     "AllelicImbalance": [
         "Gviz",
         "VariantAnnotation",
