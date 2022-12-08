@@ -17426,7 +17426,6 @@
         "miniUI",
         "multcomp",
         "patchwork",
-        "phyclust",
         "pillar",
         "plotly",
         "reshape2",
@@ -44455,7 +44454,6 @@
         "vctrs"
     ],
     "Rlabkey": [],
-    "phyclust": [],
     "golem": [
         "bslib",
         "gert",
