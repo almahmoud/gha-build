@@ -289,7 +289,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "biobroom": [],
     "bioCancer": [
         "DOSE",
         "DiagrammeR",
@@ -4956,9 +4955,7 @@
     "ToxicoGx": [
         "CoreGx"
     ],
-    "TPP": [
-        "biobroom"
-    ],
+    "TPP": [],
     "trackViewer": [
         "GenomicFeatures",
         "Gviz",
