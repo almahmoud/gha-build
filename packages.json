@@ -6034,7 +6034,6 @@
         "plotly",
         "tidyr"
     ],
-    "MetCirc": [],
     "MethCP": [
         "BSgenome",
         "DSS",
