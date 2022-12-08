@@ -4236,7 +4236,6 @@
     "compcodeR": [
         "ggplot2",
         "knitr",
-        "phylolm",
         "tibble"
     ],
     "compEpiTools": [
@@ -26187,7 +26186,6 @@
         "tibble"
     ],
     "cobs": [],
-    "phylolm": [],
     "rio": [
         "cellranger",
         "forcats",
