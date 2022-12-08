@@ -15384,8 +15384,7 @@
         "umap",
         "usethis",
         "viridis",
-        "waldo",
-        "wordcloud2"
+        "waldo"
     ],
     "IntEREst": [
         "AnnotationDbi",
@@ -38510,7 +38509,6 @@
         "shiny",
         "stringr"
     ],
-    "wordcloud2": [],
     "AdaptGauss": [
         "DataVisualizations",
         "bslib",
