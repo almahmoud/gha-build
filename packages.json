@@ -1022,7 +1022,6 @@
         "pbkrtest",
         "unmarked"
     ],
-    "ORFik": [],
     "orthogene": [
         "car",
         "ggpubr",
@@ -1160,9 +1159,7 @@
     "RgnTX": [],
     "rgsepd": [],
     "Rhisat2": [],
-    "RiboCrypt": [
-        "ORFik"
-    ],
+    "RiboCrypt": [],
     "RiboDiPA": [],
     "RiboProfiling": [
         "ggbio"
@@ -1392,9 +1389,7 @@
         "GenKern"
     ],
     "TEKRABber": [],
-    "TFHAZ": [
-        "ORFik"
-    ],
+    "TFHAZ": [],
     "timeOmics": [
         "propr"
     ],
