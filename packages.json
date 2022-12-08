@@ -8483,7 +8483,6 @@
         "quantreg",
         "qvalue",
         "radiant.data",
-        "randomizr",
         "rappdirs",
         "reactome.db",
         "readr",
@@ -133000,7 +132999,6 @@
         "psych",
         "purrr",
         "quantreg",
-        "randomizr",
         "rappdirs",
         "readr",
         "readxl",
@@ -133265,7 +133263,6 @@
         "vctrs",
         "withr"
     ],
-    "randomizr": [],
     "ggraph": [
         "Matrix",
         "RColorBrewer",
