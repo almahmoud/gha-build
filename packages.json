@@ -21405,7 +21405,6 @@
     "sparseDOSSA": [
         "MCMCpack"
     ],
-    "sparsenetgls": [],
     "SparseSignatures": [
         "BSgenome",
         "GenomicAlignments",
