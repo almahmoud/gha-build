@@ -13837,7 +13837,6 @@
         "googlesheets4",
         "graphite",
         "graphlayouts",
-        "harmonicmeanp",
         "haven",
         "highr",
         "hms",
@@ -31643,7 +31642,6 @@
         "geneplotter",
         "ggplot2",
         "gplots",
-        "harmonicmeanp",
         "heatmaply",
         "highr",
         "hms",
@@ -67451,7 +67449,6 @@
         "sn",
         "survival"
     ],
-    "harmonicmeanp": [],
     "TFisher": [
         "MatrixModels",
         "quantreg",
