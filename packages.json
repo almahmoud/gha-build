@@ -3620,7 +3620,6 @@
         "rtracklayer"
     ],
     "FuseSOM": [
-        "FCPS",
         "broom",
         "car",
         "ggpubr",
@@ -11249,7 +11248,6 @@
         "testthat",
         "waldo"
     ],
-    "FCPS": [],
     "survminer": [
         "broom",
         "car",
