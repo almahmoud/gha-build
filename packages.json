@@ -2778,7 +2778,6 @@
     "SingleCellSignalR": [],
     "singleCellTK": [
         "DESeq2",
-        "SoupX",
         "TENxPBMCData",
         "celda",
         "ggtree",
@@ -3397,7 +3396,6 @@
         "rstatix",
         "survminer"
     ],
-    "SoupX": [],
     "scRNAseq": [],
     "TENxPBMCData": [],
     "sampSurf": [],
