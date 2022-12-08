@@ -4217,7 +4217,6 @@
     "CompoundDb": [
         "AnnotationFilter",
         "ChemmineR",
-        "Spectra",
         "dbplyr",
         "dplyr",
         "ggplot2",
@@ -12198,7 +12197,6 @@
         "CompoundDb",
         "MultiAssayExperiment",
         "QFeatures",
-        "Spectra",
         "SummarizedExperiment",
         "dbplyr",
         "dplyr",
@@ -12462,7 +12460,6 @@
         "topconfects"
     ],
     "MetCirc": [
-        "Spectra",
         "ggplot2",
         "tibble"
     ],
@@ -13709,7 +13706,6 @@
     "MobilityTransformR": [
         "MSnbase",
         "MsFeatures",
-        "Spectra",
         "SummarizedExperiment",
         "ggplot2",
         "tibble",
@@ -13997,23 +13993,14 @@
         "tibble",
         "tidyr"
     ],
-    "MsBackendMassbank": [
-        "Spectra"
-    ],
-    "MsBackendMgf": [
-        "Spectra"
-    ],
-    "MsBackendMsp": [
-        "Spectra"
-    ],
-    "MsBackendRawFileReader": [
-        "Spectra"
-    ],
+    "MsBackendMassbank": [],
+    "MsBackendMgf": [],
+    "MsBackendMsp": [],
+    "MsBackendRawFileReader": [],
     "MsExperiment": [
         "AnnotationFilter",
         "MultiAssayExperiment",
         "QFeatures",
-        "Spectra",
         "SummarizedExperiment",
         "dplyr",
         "ggplot2",
@@ -21571,7 +21558,6 @@
         "tibble",
         "viridis"
     ],
-    "Spectra": [],
     "SpectralTAD": [
         "HiCcompare",
         "InteractionSet",
