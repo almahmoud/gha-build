@@ -37,7 +37,6 @@
         "broom",
         "car",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -142,7 +141,6 @@
         "apeglm",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "scater",
         "scuttle",
         "viridis"
@@ -180,7 +178,6 @@
         "rtracklayer"
     ],
     "AlpsNMR": [
-        "ggrepel",
         "mixOmics",
         "readxl",
         "rvest",
@@ -218,7 +215,6 @@
         "decontam",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "lme4",
         "lmerTest",
         "mia",
@@ -234,8 +230,7 @@
         "waldo"
     ],
     "AneuFinder": [
-        "GenomicAlignments",
-        "ggrepel"
+        "GenomicAlignments"
     ],
     "animalcules": [
         "DESeq2",
@@ -244,7 +239,6 @@
         "annotate",
         "caret",
         "geneplotter",
-        "ggrepel",
         "ipred",
         "plotROC",
         "plotly",
@@ -319,7 +313,6 @@
         "biomaRt",
         "dbplyr",
         "geneplotter",
-        "ggrepel",
         "rtracklayer",
         "tidyr"
     ],
@@ -331,7 +324,6 @@
         "GO.db",
         "Seurat",
         "SingleCellExperiment",
-        "ggrepel",
         "ggridges",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -412,7 +404,6 @@
     "artMS": [
         "MSstats",
         "UpSetR",
-        "ggrepel",
         "lme4",
         "nloptr",
         "org.Hs.eg.db",
@@ -425,7 +416,6 @@
         "MultiAssayExperiment",
         "MultiDataSet",
         "PepsNMR",
-        "ggrepel",
         "plotly",
         "ropls",
         "tidyr"
@@ -556,7 +546,6 @@
         "GenomicAlignments",
         "TFBSTools",
         "annotate",
-        "ggrepel",
         "motifmatchr",
         "readr",
         "rtracklayer"
@@ -604,7 +593,6 @@
         "BiocFileCache",
         "MultiAssayExperiment",
         "dbplyr",
-        "ggrepel",
         "readxl",
         "tidyr"
     ],
@@ -664,7 +652,6 @@
         "dendextend",
         "genefilter",
         "ggalluvial",
-        "ggrepel",
         "ggvis",
         "ipred",
         "mixtools",
@@ -740,7 +727,6 @@
         "dbplyr",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "scater",
         "scran",
         "scuttle",
@@ -794,7 +780,6 @@
         "geneplotter",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "ggridges",
         "lme4",
         "lmerTest",
@@ -904,7 +889,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "graphite",
         "gson",
@@ -956,7 +940,6 @@
         "curatedTCGAData",
         "dbplyr",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -1094,7 +1077,6 @@
         "WGCNA",
         "dbplyr",
         "fgsea",
-        "ggrepel",
         "org.Hs.eg.db",
         "synaptome.data",
         "synaptome.db",
@@ -1109,7 +1091,6 @@
         "genefilter",
         "ggnetwork",
         "ggnewscale",
-        "ggrepel",
         "intergraph",
         "patchwork",
         "sna",
@@ -1126,7 +1107,6 @@
     "biosigner": [
         "MultiAssayExperiment",
         "MultiDataSet",
-        "ggrepel",
         "plotly",
         "ropls",
         "tidyr"
@@ -1444,7 +1424,6 @@
         "ggbio",
         "ggnetwork",
         "ggnewscale",
-        "ggrepel",
         "ggtext",
         "intergraph",
         "patchwork",
@@ -1529,7 +1508,6 @@
         "ggnewscale",
         "ggpubr",
         "ggrastr",
-        "ggrepel",
         "ggridges",
         "ggsci",
         "ggsignif",
@@ -1629,7 +1607,6 @@
         "enrichR",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "multipanelfigure",
         "scater",
         "scran",
@@ -1666,7 +1643,6 @@
         "fgsea",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -1688,7 +1664,6 @@
         "Hmisc",
         "broom",
         "car",
-        "ggrepel",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -1701,7 +1676,6 @@
         "SingleCellExperiment",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "ggridges",
         "scater",
         "scuttle",
@@ -1714,7 +1688,6 @@
         "EnvStats",
         "SingleCellExperiment",
         "dendextend",
-        "ggrepel",
         "viridis"
     ],
     "cellTree": [
@@ -1739,7 +1712,6 @@
         "ggpmisc",
         "ggpp",
         "ggraph",
-        "ggrepel",
         "ggthemes",
         "ggtree",
         "gson",
@@ -1764,7 +1736,6 @@
         "ggforce",
         "ggnewscale",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -1785,7 +1756,6 @@
     "ceRNAnetsim": [
         "ggforce",
         "ggraph",
-        "ggrepel",
         "tidygraph",
         "tidyr",
         "viridis"
@@ -1815,7 +1785,6 @@
         "ggplotify",
         "ggpubr",
         "ggraph",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "ggtree",
@@ -2017,7 +1986,6 @@
         "chipseq",
         "dbplyr",
         "geneplotter",
-        "ggrepel",
         "rtracklayer",
         "systemPipeR"
     ],
@@ -2040,7 +2008,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "patchwork",
         "qvalue",
@@ -2093,7 +2060,6 @@
         "ggfittext",
         "gggenes",
         "ggrastr",
-        "ggrepel",
         "kableExtra",
         "msigdbr",
         "plotly",
@@ -2152,7 +2118,6 @@
     "CIMICE": [
         "ggforce",
         "ggraph",
-        "ggrepel",
         "tidygraph",
         "tidyr",
         "viridis"
@@ -2193,7 +2158,6 @@
         "SingleCellExperiment",
         "ggforce",
         "ggraph",
-        "ggrepel",
         "ggridges",
         "mixtools",
         "plotly",
@@ -2276,7 +2240,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "gson",
         "patchwork",
@@ -2563,7 +2526,6 @@
         "ggpubr",
         "ggraph",
         "ggrastr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "ggtree",
@@ -2598,7 +2560,6 @@
         "distinct",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "ipred",
         "recipes",
         "scater",
@@ -2749,7 +2710,6 @@
         "viper"
     ],
     "COTAN": [
-        "ggrepel",
         "tidyr"
     ],
     "countsimQC": [
@@ -2930,7 +2890,6 @@
         "broom",
         "dbplyr",
         "fgsea",
-        "ggrepel",
         "highcharter",
         "readxl",
         "tidyr"
@@ -3010,7 +2969,6 @@
         "ggforce",
         "ggnewscale",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "ipred",
@@ -3033,7 +2991,6 @@
         "dendextend",
         "factoextra",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "ipred",
@@ -3114,7 +3071,6 @@
         "dbplyr",
         "genefilter",
         "geneplotter",
-        "ggrepel",
         "ipred",
         "lme4",
         "nloptr",
@@ -3146,7 +3102,6 @@
         "cmdfun",
         "dbplyr",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -3171,7 +3126,6 @@
         "epiNEM",
         "ggforce",
         "ggraph",
-        "ggrepel",
         "googlesheets4",
         "graphite",
         "haven",
@@ -3236,7 +3190,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "gson",
         "heatmaply",
@@ -3365,7 +3318,6 @@
         "annotate",
         "broom",
         "geneplotter",
-        "ggrepel",
         "tidyr"
     ],
     "DEGseq": [
@@ -3395,13 +3347,11 @@
     "demuxmix": [],
     "DEP": [
         "MSnbase",
-        "ggrepel",
         "readr",
         "tidyr",
         "vsn"
     ],
     "DepecheR": [
-        "ggrepel",
         "mixOmics",
         "tidyr",
         "viridis"
@@ -3518,7 +3468,6 @@
         "annotate",
         "apeglm",
         "geneplotter",
-        "ggrepel",
         "rtracklayer",
         "systemPipeR"
     ],
@@ -3535,7 +3484,6 @@
         "ggforce",
         "ggnewscale",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -3573,7 +3521,6 @@
         "ensembldb",
         "genefilter",
         "geneplotter",
-        "ggrepel",
         "rtracklayer"
     ],
     "diggit": [
@@ -3585,7 +3532,6 @@
     "Dino": [
         "Seurat",
         "SingleCellExperiment",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -3616,14 +3562,12 @@
         "SingleCellExperiment",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "scater",
         "scuttle",
         "viridis"
     ],
     "dittoSeq": [
         "SingleCellExperiment",
-        "ggrepel",
         "ggridges"
     ],
     "divergence": [],
@@ -3825,7 +3769,6 @@
         "easierData",
         "geneplotter",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -3855,7 +3798,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "gson",
         "org.Hs.eg.db",
@@ -3929,7 +3871,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "gson",
         "org.Hs.eg.db",
@@ -3991,7 +3932,6 @@
         "dbplyr",
         "ensembldb",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -4007,9 +3947,7 @@
         "viridis",
         "waldo"
     ],
-    "EnhancedVolcano": [
-        "ggrepel"
-    ],
+    "EnhancedVolcano": [],
     "enhancerHomologSearch": [
         "BSgenome",
         "BiocFileCache",
@@ -4064,7 +4002,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "patchwork",
         "qvalue",
@@ -4098,7 +4035,6 @@
         "ggplotify",
         "ggpubr",
         "ggraph",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "ggtree",
@@ -4168,7 +4104,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "patchwork",
         "plotly",
@@ -4189,7 +4124,6 @@
         "broom",
         "car",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -4212,7 +4146,6 @@
         "car",
         "csaw",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -4241,7 +4174,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "graphite",
         "gson",
@@ -4298,7 +4230,6 @@
         "dbplyr",
         "ensembldb",
         "genefilter",
-        "ggrepel",
         "minfi",
         "org.Hs.eg.db",
         "readr",
@@ -4423,7 +4354,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "gson",
         "motifmatchr",
@@ -4489,7 +4419,6 @@
         "ggfun",
         "ggplotify",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "ggtree",
@@ -4581,7 +4510,6 @@
         "dbplyr",
         "ensembldb",
         "ggforce",
-        "ggrepel",
         "ggside",
         "patchwork",
         "rtracklayer",
@@ -4619,7 +4547,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "gprofiler2",
         "gson",
@@ -4681,7 +4608,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "gson",
         "intergraph",
@@ -4752,7 +4678,6 @@
         "MultiAssayExperiment",
         "biomaRt",
         "dbplyr",
-        "ggrepel",
         "patchwork",
         "qvalue",
         "rtracklayer",
@@ -4791,7 +4716,6 @@
         "ggbeeswarm",
         "ggbio",
         "ggrastr",
-        "ggrepel",
         "rtracklayer",
         "scater",
         "scran",
@@ -4841,8 +4765,7 @@
         "waldo"
     ],
     "flowGraph": [
-        "ggiraph",
-        "ggrepel"
+        "ggiraph"
     ],
     "flowPloidy": [
         "broom",
@@ -4860,7 +4783,6 @@
         "ggforce",
         "ggnewscale",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -4894,7 +4816,6 @@
         "fgsea",
         "ggforce",
         "ggraph",
-        "ggrepel",
         "ipred",
         "lexicon",
         "syuzhet",
@@ -4921,7 +4842,6 @@
         "dendextend",
         "egg",
         "geneplotter",
-        "ggrepel",
         "heatmaply",
         "plotly",
         "rtracklayer",
@@ -4980,7 +4900,6 @@
         "car",
         "ggplotify",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -5037,7 +4956,6 @@
         "dbplyr",
         "genefilter",
         "geneplotter",
-        "ggrepel",
         "ipred",
         "lme4",
         "nloptr",
@@ -5090,7 +5008,6 @@
         "ggplotify",
         "ggpubr",
         "ggraph",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "ggtext",
@@ -5144,7 +5061,6 @@
         "car",
         "dbplyr",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -5181,7 +5097,6 @@
         "FactoMineR",
         "broom",
         "car",
-        "ggrepel",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -5230,7 +5145,6 @@
         "dendextend",
         "geneplotter",
         "ggforce",
-        "ggrepel",
         "patchwork",
         "plotly",
         "tidyr",
@@ -5339,7 +5253,6 @@
         "car",
         "dbplyr",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -5413,7 +5326,6 @@
         "egg",
         "factoextra",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "heatmaply",
@@ -5503,9 +5415,7 @@
     "ggcyto": [
         "flowWorkspace"
     ],
-    "ggmanh": [
-        "ggrepel"
-    ],
+    "ggmanh": [],
     "ggmsa": [
         "aplot",
         "ggalt",
@@ -5577,7 +5487,6 @@
         "viridis"
     ],
     "GladiaTOX": [
-        "ggrepel",
         "tidyr"
     ],
     "Glimma": [
@@ -5596,7 +5505,6 @@
         "car",
         "dbplyr",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "ggtext",
@@ -5712,7 +5620,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "goProfiles",
         "gson",
@@ -5751,9 +5658,7 @@
     "goTools": [
         "GO.db"
     ],
-    "GPA": [
-        "ggrepel"
-    ],
+    "GPA": [],
     "gpuMagic": [
         "DescTools",
         "readxl"
@@ -5980,7 +5885,6 @@
         "dbplyr",
         "geneplotter",
         "ggfortify",
-        "ggrepel",
         "tidyr"
     ],
     "HGC": [
@@ -6028,7 +5932,6 @@
         "colourpicker",
         "ggExtra",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -6083,8 +5986,7 @@
         "tidyr"
     ],
     "HIPPO": [
-        "SingleCellExperiment",
-        "ggrepel"
+        "SingleCellExperiment"
     ],
     "hiReadsProcessor": [
         "BSgenome",
@@ -6220,7 +6122,6 @@
         "geneLenDataBase",
         "genefilter",
         "geneplotter",
-        "ggrepel",
         "goseq",
         "heatmaply",
         "pcaExplorer",
@@ -6293,7 +6194,6 @@
         "ggbeeswarm",
         "ggforce",
         "ggraph",
-        "ggrepel",
         "readr",
         "scuttle",
         "tidygraph",
@@ -6326,7 +6226,6 @@
     "infercnv": [
         "Seurat",
         "SingleCellExperiment",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -6365,7 +6264,6 @@
         "broom",
         "car",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -6418,7 +6316,6 @@
         "dendextend",
         "factoextra",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "golem",
@@ -6459,7 +6356,6 @@
         "broom",
         "car",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "ggtext",
@@ -6510,7 +6406,6 @@
         "ggpubr",
         "ggraph",
         "ggrastr",
-        "ggrepel",
         "ggridges",
         "ggsci",
         "ggsignif",
@@ -6543,7 +6438,6 @@
     ],
     "ISAnalytics": [
         "datamods",
-        "ggrepel",
         "haven",
         "readr",
         "readxl",
@@ -6552,13 +6446,11 @@
     ],
     "iSEE": [
         "SingleCellExperiment",
-        "colourpicker",
-        "ggrepel"
+        "colourpicker"
     ],
     "iSEEhex": [
         "SingleCellExperiment",
         "colourpicker",
-        "ggrepel",
         "iSEE"
     ],
     "iSEEhub": [
@@ -6568,13 +6460,11 @@
         "SingleCellExperiment",
         "colourpicker",
         "dbplyr",
-        "ggrepel",
         "iSEE"
     ],
     "iSEEu": [
         "SingleCellExperiment",
         "colourpicker",
-        "ggrepel",
         "iSEE",
         "iSEEhex"
     ],
@@ -6619,7 +6509,6 @@
         "annotate",
         "broom",
         "geneplotter",
-        "ggrepel",
         "readr",
         "tidyr"
     ],
@@ -6647,7 +6536,6 @@
         "broom",
         "car",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "ggtext",
@@ -6722,7 +6610,6 @@
         "factoextra",
         "geneplotter",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -6783,7 +6670,6 @@
         "broom",
         "car",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "haven",
@@ -6815,7 +6701,6 @@
         "MultiAssayExperiment",
         "MultiDataSet",
         "fgsea",
-        "ggrepel",
         "plotly",
         "ropls",
         "tidyr"
@@ -6885,8 +6770,7 @@
         "AnnotationHub",
         "BiocFileCache",
         "ExperimentHub",
-        "dbplyr",
-        "ggrepel"
+        "dbplyr"
     ],
     "lumi": [
         "BiocFileCache",
@@ -6975,7 +6859,6 @@
         "annotate"
     ],
     "MACSQuantifyR": [
-        "ggrepel",
         "prettydoc",
         "readxl",
         "rvest"
@@ -7045,7 +6928,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "gson",
         "msigdbr",
@@ -7246,7 +7128,6 @@
         "dbplyr",
         "ensembldb",
         "genefilter",
-        "ggrepel",
         "isva",
         "methylumi",
         "minfi",
@@ -7345,7 +7226,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "patchwork",
         "qvalue",
@@ -7367,7 +7247,6 @@
         "genefilter"
     ],
     "MesKit": [
-        "ggrepel",
         "ggridges",
         "tidyr"
     ],
@@ -7429,7 +7308,6 @@
         "ggforce",
         "ggnewscale",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -7484,7 +7362,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "gson",
         "ipred",
@@ -7501,7 +7378,6 @@
     "metapone": [
         "fgsea",
         "fields",
-        "ggrepel",
         "viridis"
     ],
     "metaseqR2": [
@@ -7581,7 +7457,6 @@
         "car",
         "dbplyr",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -7659,7 +7534,6 @@
         "ggpmisc",
         "ggpp",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "googlesheets4",
@@ -7712,7 +7586,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "gson",
         "methylumi",
@@ -7824,7 +7697,6 @@
         "decontam",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "scater",
         "scuttle",
         "tidyr",
@@ -7852,7 +7724,6 @@
         "ggplotify",
         "ggraph",
         "ggrastr",
-        "ggrepel",
         "ggtree",
         "mia",
         "patchwork",
@@ -7908,7 +7779,6 @@
         "ggfun",
         "ggplotify",
         "ggrastr",
-        "ggrepel",
         "ggsignif",
         "ggtree",
         "ipred",
@@ -7944,7 +7814,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "golem",
         "gson",
@@ -7964,7 +7833,6 @@
         "ggfun",
         "ggnewscale",
         "ggplotify",
-        "ggrepel",
         "ggsignif",
         "ggstar",
         "ggtree",
@@ -7999,7 +7867,6 @@
         "ggbeeswarm",
         "ggforce",
         "ggraph",
-        "ggrepel",
         "patchwork",
         "tidygraph",
         "tidyr",
@@ -8143,7 +8010,6 @@
         "ggplotify",
         "ggpubr",
         "ggraph",
-        "ggrepel",
         "ggridges",
         "ggsci",
         "ggsignif",
@@ -8214,7 +8080,6 @@
         "ggplotify",
         "ggpubr",
         "ggraph",
-        "ggrepel",
         "ggridges",
         "ggsci",
         "ggsignif",
@@ -8306,7 +8171,6 @@
         "rtracklayer"
     ],
     "mixOmics": [
-        "ggrepel",
         "tidyr"
     ],
     "MLInterfaces": [
@@ -8367,7 +8231,6 @@
         "viridis"
     ],
     "MOFA2": [
-        "ggrepel",
         "tidyr"
     ],
     "MOGAMUN": [
@@ -8420,7 +8283,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "gson",
         "patchwork",
@@ -8513,7 +8375,6 @@
         "car",
         "ggforce",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -8617,7 +8478,6 @@
         "waldo"
     ],
     "MSstats": [
-        "ggrepel",
         "lme4",
         "nloptr",
         "testthat",
@@ -8635,7 +8495,6 @@
         "dtplyr",
         "factoextra",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "googlesheets4",
@@ -8660,7 +8519,6 @@
     "MSstatsPTM": [
         "MSstats",
         "MSstatsTMT",
-        "ggrepel",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -8687,7 +8545,6 @@
     "MSstatsSampleSize": [
         "MSstats",
         "caret",
-        "ggrepel",
         "ipred",
         "lme4",
         "nloptr",
@@ -8701,7 +8558,6 @@
         "MSstats",
         "MSstatsPTM",
         "MSstatsTMT",
-        "ggrepel",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -8712,7 +8568,6 @@
     ],
     "MSstatsTMT": [
         "MSstats",
-        "ggrepel",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -8734,7 +8589,6 @@
     "MultiBaC": [
         "MultiAssayExperiment",
         "MultiDataSet",
-        "ggrepel",
         "plotly",
         "ropls",
         "tidyr"
@@ -8764,9 +8618,7 @@
         "tidyr",
         "viridis"
     ],
-    "MultiDataSet": [
-        "ggrepel"
-    ],
+    "MultiDataSet": [],
     "multiGSEA": [
         "TFisher",
         "fgsea",
@@ -8805,7 +8657,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "golem",
         "graphite",
@@ -8856,7 +8707,6 @@
         "geneplotter",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "glmmTMB",
         "lme4",
         "lmerTest",
@@ -8895,7 +8745,6 @@
         "dendextend",
         "factoextra",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggseqlogo",
         "ggsignif",
@@ -9077,7 +8926,6 @@
     "Nebulosa": [
         "Seurat",
         "SingleCellExperiment",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -9117,7 +8965,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "gson",
         "patchwork",
@@ -9175,7 +9022,6 @@
         "genefilter",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "mbkmeans",
         "phylobase",
         "scater",
@@ -9351,7 +9197,6 @@
         "dbplyr",
         "derfinder",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -9420,7 +9265,6 @@
         "broom",
         "car",
         "genefilter",
-        "ggrepel",
         "isva",
         "lme4",
         "made4",
@@ -9454,7 +9298,6 @@
         "dendextend",
         "factoextra",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "kableExtra",
@@ -9479,7 +9322,6 @@
         "car",
         "fgsea",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggseqlogo",
         "ggsignif",
@@ -9504,9 +9346,7 @@
         "rvest",
         "tidyr"
     ],
-    "oncomix": [
-        "ggrepel"
-    ],
+    "oncomix": [],
     "oncoscanR": [
         "readr"
     ],
@@ -9518,7 +9358,6 @@
     "OncoSimulR": [
         "broom",
         "car",
-        "ggrepel",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -9628,7 +9467,6 @@
         "ggfun",
         "ggplotify",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "ggtree",
@@ -9684,7 +9522,6 @@
         "MultiAssayExperiment",
         "broom",
         "car",
-        "ggrepel",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -9736,7 +9573,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "gson",
         "metap",
@@ -9762,7 +9598,6 @@
         "fgsea",
         "ggforce",
         "ggraph",
-        "ggrepel",
         "keras",
         "nloptr",
         "qvalue",
@@ -9819,16 +9654,13 @@
         "egg",
         "genefilter",
         "geneplotter",
-        "ggrepel",
         "heatmaply",
         "plotly",
         "tidyr",
         "topGO",
         "viridis"
     ],
-    "PCAtools": [
-        "ggrepel"
-    ],
+    "PCAtools": [],
     "PDATK": [
         "BiocFileCache",
         "CoreGx",
@@ -9843,7 +9675,6 @@
         "genefu",
         "ggplotify",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "ggtext",
@@ -9883,7 +9714,6 @@
         "SingleCellExperiment",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "scater",
         "scuttle",
         "viridis"
@@ -9915,7 +9745,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "gson",
         "patchwork",
@@ -9952,7 +9781,6 @@
         "biodb",
         "biodbChebi",
         "dbplyr",
-        "ggrepel",
         "plotly",
         "ropls",
         "testthat",
@@ -10007,7 +9835,6 @@
         "car",
         "dendextend",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "ggtext",
@@ -10038,7 +9865,6 @@
         "caret",
         "dnet",
         "ggnetwork",
-        "ggrepel",
         "ipred",
         "readr",
         "recipes",
@@ -10073,7 +9899,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "graphite",
         "gson",
@@ -10113,7 +9938,6 @@
         "SingleCellExperiment",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -10154,7 +9978,6 @@
         "colourpicker",
         "egg",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -10199,7 +10022,6 @@
         "broom",
         "caret",
         "geneplotter",
-        "ggrepel",
         "ipred",
         "mixOmics",
         "recipes",
@@ -10337,7 +10159,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "MultiDataSet",
-        "ggrepel",
         "plotly",
         "ropls",
         "tidyr",
@@ -10369,7 +10190,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -10389,7 +10209,6 @@
     "progeny": [
         "broom",
         "decoupleR",
-        "ggrepel",
         "tidyr"
     ],
     "projectR": [
@@ -10488,8 +10307,7 @@
     "ProteoMM": [
         "BiocFileCache",
         "biomaRt",
-        "dbplyr",
-        "ggrepel"
+        "dbplyr"
     ],
     "protGear": [
         "FactoMineR",
@@ -10501,7 +10319,6 @@
         "factoextra",
         "genefilter",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "kableExtra",
@@ -10534,7 +10351,6 @@
         "colourpicker",
         "dbplyr",
         "derfinder",
-        "ggrepel",
         "highcharter",
         "qvalue",
         "readr",
@@ -10564,7 +10380,6 @@
         "broom",
         "car",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -10914,7 +10729,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "graphite",
         "gson",
@@ -11027,7 +10841,6 @@
     "regioneReloaded": [
         "BSgenome",
         "GenomicAlignments",
-        "ggrepel",
         "regioneR",
         "rtracklayer"
     ],
@@ -11156,7 +10969,6 @@
         "Hmisc",
         "broom",
         "car",
-        "ggrepel",
         "lme4",
         "mice",
         "nloptr",
@@ -11303,7 +11115,6 @@
         "biomaRt",
         "dbplyr",
         "ggfittext",
-        "ggrepel",
         "motifStack",
         "readr",
         "rtracklayer"
@@ -11566,7 +11377,6 @@
         "ggplotify",
         "ggpubr",
         "ggraph",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "ggtree",
@@ -11609,7 +11419,6 @@
         "dbplyr",
         "derfinder",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -11658,7 +11467,6 @@
     "ropls": [
         "MultiAssayExperiment",
         "MultiDataSet",
-        "ggrepel",
         "plotly",
         "tidyr"
     ],
@@ -11698,7 +11506,6 @@
         "TFisher",
         "broom",
         "car",
-        "ggrepel",
         "lme4",
         "metap",
         "nloptr",
@@ -11716,7 +11523,6 @@
     "rrvgo": [
         "GO.db",
         "GOSemSim",
-        "ggrepel",
         "treemap"
     ],
     "rScudo": [],
@@ -11729,7 +11535,6 @@
         "broom",
         "car",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "ggtext",
@@ -11880,7 +11685,6 @@
     "scAlign": [
         "Seurat",
         "SingleCellExperiment",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -11924,7 +11728,6 @@
         "SingleCellExperiment",
         "caret",
         "dbplyr",
-        "ggrepel",
         "ggridges",
         "ipred",
         "patchwork",
@@ -11953,7 +11756,6 @@
         "SingleCellExperiment",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "scuttle",
         "viridis"
     ],
@@ -11965,7 +11767,6 @@
         "annotate",
         "genefilter",
         "geneplotter",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -11979,7 +11780,6 @@
         "aplot",
         "ggfun",
         "ggplotify",
-        "ggrepel",
         "ggridges",
         "ggtree",
         "patchwork",
@@ -11994,7 +11794,6 @@
         "DropletUtils",
         "Seurat",
         "SingleCellExperiment",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -12010,7 +11809,6 @@
         "annotate",
         "ggforce",
         "ggraph",
-        "ggrepel",
         "mixtools",
         "patchwork",
         "plotly",
@@ -12020,7 +11818,6 @@
     ],
     "sccomp": [
         "SingleCellExperiment",
-        "ggrepel",
         "patchwork",
         "readr",
         "rstan",
@@ -12029,7 +11826,6 @@
     "scDataviz": [
         "Seurat",
         "SingleCellExperiment",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -12042,7 +11838,6 @@
         "SingleCellExperiment",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "rtracklayer",
         "scater",
         "scran",
@@ -12088,7 +11883,6 @@
         "SingleCellExperiment",
         "concaveman",
         "ggforce",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -12106,7 +11900,6 @@
     ],
     "scMAGeCK": [
         "Seurat",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -12204,7 +11997,6 @@
         "dbplyr",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "rtracklayer",
@@ -12235,7 +12027,6 @@
         "ggalluvial",
         "ggforce",
         "ggraph",
-        "ggrepel",
         "tidygraph",
         "tidyr",
         "viridis"
@@ -12297,7 +12088,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggridges",
         "ggtree",
         "graphite",
@@ -12331,7 +12121,6 @@
         "concaveman",
         "fields",
         "ggforce",
-        "ggrepel",
         "ggridges",
         "msigdbr",
         "nnTensor",
@@ -12361,7 +12150,6 @@
         "ggforce",
         "ggraph",
         "ggrastr",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -12402,7 +12190,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "patchwork",
         "qvalue",
@@ -12600,7 +12387,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "gson",
         "org.Hs.eg.db",
@@ -12629,7 +12415,6 @@
         "car",
         "dbplyr",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "ggtext",
@@ -12666,7 +12451,6 @@
         "ensembldb",
         "genefu",
         "ggpubr",
-        "ggrepel",
         "ggridges",
         "ggsci",
         "ggsignif",
@@ -12787,7 +12571,6 @@
         "ggfun",
         "ggplotify",
         "ggrastr",
-        "ggrepel",
         "ggridges",
         "ggtree",
         "hgu95a.db",
@@ -12835,7 +12618,6 @@
     "singscore": [
         "GSEABase",
         "annotate",
-        "ggrepel",
         "plotly",
         "tidyr"
     ],
@@ -12858,7 +12640,6 @@
         "aplot",
         "ggfun",
         "ggplotify",
-        "ggrepel",
         "ggtree",
         "patchwork",
         "tidyr",
@@ -12980,7 +12761,6 @@
         "SingleCellExperiment",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -13018,7 +12798,6 @@
     "SpatialCPie": [
         "ggforce",
         "ggiraph",
-        "ggrepel",
         "readr",
         "tidyr"
     ],
@@ -13028,7 +12807,6 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "dbplyr",
-        "ggrepel",
         "scuttle"
     ],
     "SpatialDecon": [
@@ -13075,7 +12853,6 @@
         "ggbeeswarm",
         "ggplotify",
         "ggrastr",
-        "ggrepel",
         "plotly",
         "scater",
         "scran",
@@ -13124,7 +12901,6 @@
         "colourpicker",
         "dbplyr",
         "dittoSeq",
-        "ggrepel",
         "ggridges",
         "plotly",
         "scuttle",
@@ -13161,7 +12937,6 @@
         "SingleCellExperiment",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "scater",
         "scuttle",
         "viridis"
@@ -13224,7 +12999,6 @@
         "dbplyr",
         "dtplyr",
         "ggpubr",
-        "ggrepel",
         "ggridges",
         "ggsci",
         "ggsignif",
@@ -13255,7 +13029,6 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "dbplyr",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -13317,7 +13090,6 @@
         "ggforce",
         "ggnewscale",
         "ggraph",
-        "ggrepel",
         "graphite",
         "org.Hs.eg.db",
         "tidygraph",
@@ -13422,7 +13194,6 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "dbplyr",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -13458,7 +13229,6 @@
     ],
     "SubCellBarCode": [
         "caret",
-        "ggrepel",
         "ipred",
         "org.Hs.eg.db",
         "recipes",
@@ -13504,7 +13274,6 @@
         "broom",
         "car",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "ggtext",
@@ -13567,7 +13336,6 @@
         "dtplyr",
         "fields",
         "ggforce",
-        "ggrepel",
         "googlesheets4",
         "gstat",
         "haven",
@@ -13603,7 +13371,6 @@
     "syntenet": [
         "GenomicAlignments",
         "ggnetwork",
-        "ggrepel",
         "intergraph",
         "rtracklayer",
         "sna",
@@ -13630,7 +13397,6 @@
         "geneplotter",
         "ggfun",
         "ggplotify",
-        "ggrepel",
         "ggtree",
         "patchwork",
         "plotly",
@@ -13645,7 +13411,6 @@
         "broom",
         "car",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -13680,7 +13445,6 @@
         "broom",
         "car",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -13705,7 +13469,6 @@
         "annotate",
         "genefilter",
         "geneplotter",
-        "ggrepel",
         "plotly",
         "singscore",
         "sva",
@@ -13759,7 +13522,6 @@
         "ggplotify",
         "ggpubr",
         "ggraph",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "ggtree",
@@ -13918,7 +13680,6 @@
         "vsn"
     ],
     "timeOmics": [
-        "ggrepel",
         "mixOmics",
         "propr",
         "tidyr"
@@ -13945,7 +13706,6 @@
         "ggnewscale",
         "ggplotify",
         "ggraph",
-        "ggrepel",
         "ggtree",
         "gson",
         "patchwork",
@@ -14011,7 +13771,6 @@
         "broom",
         "car",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -14026,9 +13785,7 @@
         "GGally",
         "tidyr"
     ],
-    "tomoda": [
-        "ggrepel"
-    ],
+    "tomoda": [],
     "tomoseqr": [
         "BiocFileCache",
         "dbplyr",
@@ -14163,7 +13920,6 @@
         "ggnewscale",
         "ggplotify",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "ggtree",
@@ -14217,7 +13973,6 @@
         "ggbeeswarm",
         "ggnewscale",
         "ggrastr",
-        "ggrepel",
         "scater",
         "scattermore",
         "scuttle",
@@ -14300,7 +14055,6 @@
         "biomaRt",
         "dbplyr",
         "ggplotify",
-        "ggrepel",
         "mirbase.db",
         "plotgardener",
         "plyranges",
@@ -14377,7 +14131,6 @@
         "SingleCellExperiment",
         "ggbeeswarm",
         "ggrastr",
-        "ggrepel",
         "keras",
         "lexicon",
         "readr",
@@ -14500,7 +14253,6 @@
         "GGally",
         "annotate",
         "geneplotter",
-        "ggrepel",
         "tidyr"
     ],
     "viper": [
@@ -14536,7 +14288,6 @@
         "dbplyr",
         "ggforce",
         "ggraph",
-        "ggrepel",
         "ggwordcloud",
         "lexicon",
         "msigdb",
@@ -14601,7 +14352,6 @@
         "dbplyr",
         "ensembldb",
         "geneplotter",
-        "ggrepel",
         "mixtools",
         "plotly",
         "regioneR",
@@ -14787,11 +14537,9 @@
     ],
     "bookdown": [],
     "tidyr": [],
-    "ggrepel": [],
     "ggpubr": [
         "broom",
         "car",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -14900,9 +14648,7 @@
         "tidyr"
     ],
     "plotROC": [],
-    "GUniFrac": [
-        "ggrepel"
-    ],
+    "GUniFrac": [],
     "recipes": [
         "ipred",
         "tidyr"
@@ -14910,7 +14656,6 @@
     "ipred": [],
     "org.Sc.sgd.db": [],
     "Seurat": [
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -15183,7 +14928,6 @@
     "HDO.db": [],
     "ggraph": [
         "ggforce",
-        "ggrepel",
         "tidygraph",
         "tidyr",
         "viridis"
@@ -15227,7 +14971,6 @@
         "dbplyr"
     ],
     "ggnetwork": [
-        "ggrepel",
         "sna"
     ],
     "intergraph": [],
@@ -15304,7 +15047,6 @@
     "FactoMineR": [
         "broom",
         "car",
-        "ggrepel",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -15477,7 +15219,6 @@
         "car",
         "dendextend",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "lme4",
@@ -15733,7 +15474,6 @@
         "broom",
         "car",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "ggtext",
@@ -16227,7 +15967,6 @@
     "clustree": [
         "ggforce",
         "ggraph",
-        "ggrepel",
         "tidygraph",
         "tidyr",
         "viridis"
@@ -16240,7 +15979,6 @@
         "broom",
         "car",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "ggtext",
@@ -16277,7 +16015,6 @@
     ],
     "SoupX": [
         "Seurat",
-        "ggrepel",
         "ggridges",
         "patchwork",
         "plotly",
@@ -16359,9 +16096,7 @@
     ],
     "GenKern": [],
     "ttservice": [],
-    "gghighlight": [
-        "ggrepel"
-    ],
+    "gghighlight": [],
     "bestNormalize": [
         "LambertW",
         "ipred",
