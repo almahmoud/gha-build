@@ -203,9 +203,7 @@
     "cicero": [
         "Gviz"
     ],
-    "circRNAprofiler": [
-        "gwascat"
-    ],
+    "circRNAprofiler": [],
     "CircSeqAlignTk": [
         "Rhisat2"
     ],
@@ -638,7 +636,6 @@
     ],
     "GUIDEseq": [],
     "Gviz": [],
-    "gwascat": [],
     "gwasurvivr": [],
     "HelloRanges": [],
     "hermes": [],
@@ -1605,9 +1602,7 @@
     "vissE": [
         "textstem"
     ],
-    "vtpnet": [
-        "gwascat"
-    ],
+    "vtpnet": [],
     "vulcan": [
         "DiffBind"
     ],
