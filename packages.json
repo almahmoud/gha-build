@@ -68344,7 +68344,6 @@
         "purrr",
         "rappdirs",
         "readr",
-        "renv",
         "rlang",
         "rmarkdown",
         "rprojroot",
@@ -88822,7 +88821,6 @@
         "readxl",
         "rematch",
         "rematch2",
-        "renv",
         "reshape2",
         "restfulr",
         "rjson",
@@ -167072,7 +167070,6 @@
         "mime",
         "promises",
         "rappdirs",
-        "renv",
         "rlang",
         "rmarkdown",
         "rprojroot",
@@ -167205,7 +167202,6 @@
         "mime",
         "promises",
         "rappdirs",
-        "renv",
         "rlang",
         "rmarkdown",
         "rprojroot",
@@ -167221,7 +167217,6 @@
         "xtable",
         "yaml"
     ],
-    "renv": [],
     "akima": [
         "lattice",
         "sp"
