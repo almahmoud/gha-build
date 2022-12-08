@@ -3710,7 +3710,6 @@
         "stringr",
         "sva",
         "tibble",
-        "vcd",
         "vctrs",
         "vegan",
         "vsn"
@@ -9214,7 +9213,6 @@
         "tidyselect",
         "tidyverse",
         "tweenr",
-        "vcd",
         "vctrs",
         "vegan",
         "viridis",
@@ -10062,7 +10060,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vcd",
         "vctrs",
         "waldo"
     ],
@@ -12154,7 +12151,6 @@
         "scales",
         "stringr",
         "tibble",
-        "vcd",
         "vctrs",
         "vegan"
     ],
@@ -15608,7 +15604,6 @@
         "shiny",
         "stringr",
         "tibble",
-        "vcd",
         "vctrs",
         "viridis"
     ],
@@ -22757,7 +22752,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vcd",
         "vctrs",
         "viridis",
         "vroom"
@@ -24082,7 +24076,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vcd",
         "vctrs",
         "waldo"
     ],
@@ -25358,7 +25351,6 @@
         "scales",
         "stringr",
         "tibble",
-        "vcd",
         "vctrs",
         "vegan"
     ],
@@ -27545,7 +27537,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vcd",
         "vctrs",
         "verification",
         "viridis",
@@ -29734,7 +29725,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vcd",
         "vctrs",
         "viridis",
         "waldo",
@@ -43694,11 +43684,9 @@
     ],
     "BoolNet": [],
     "pcalg": [
-        "ggm",
-        "vcd"
+        "ggm"
     ],
     "ggm": [],
-    "vcd": [],
     "gamlss": [],
     "GenomicState": [
         "AnnotationDbi",
@@ -45061,7 +45049,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vcd",
         "vctrs",
         "waldo"
     ],
@@ -45514,7 +45501,6 @@
         "shiny",
         "stringr",
         "tibble",
-        "vcd",
         "vctrs",
         "viridis"
     ],
@@ -46655,9 +46641,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "reportROC": [
-        "vcd"
-    ],
+    "reportROC": [],
     "verification": [
         "fields",
         "ggplot2",
