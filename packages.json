@@ -12,7 +12,6 @@
         "affycoretools"
     ],
     "AllelicImbalance": [],
-    "ANCOMBC": [],
     "appreci8R": [],
     "ArrayExpressHTS": [],
     "arrayMvout": [
@@ -29,9 +28,7 @@
     "BaalChIP": [
         "doBy"
     ],
-    "benchdamic": [
-        "ANCOMBC"
-    ],
+    "benchdamic": [],
     "bigmelon": [
         "lumi",
         "wateRmelon"
@@ -512,9 +509,7 @@
     "microbiomeExplorer": [
         "car"
     ],
-    "microbiomeMarker": [
-        "ANCOMBC"
-    ],
+    "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler"
     ],
