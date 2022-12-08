@@ -202,7 +202,6 @@
     "APL": [
         "GO.db",
         "Seurat",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "plotly",
         "topGO"
@@ -226,8 +225,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation",
         "XtraSNPlocs.Hsapiens.dbSNP144.GRCh37",
-        "biomaRt",
-        "org.Hs.eg.db"
+        "biomaRt"
     ],
     "ArrayExpress": [
         "oligo"
@@ -247,7 +245,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "readr"
     ],
     "arrayQualityMetrics": [
@@ -258,7 +255,6 @@
         "MSstats",
         "lme4",
         "nloptr",
-        "org.Hs.eg.db",
         "plotly",
         "testthat",
         "waldo"
@@ -321,7 +317,6 @@
         "haven",
         "modelr",
         "motifmatchr",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "plotly",
         "projectR",
@@ -371,7 +366,6 @@
         "GOstats",
         "GSEABase",
         "genefilter",
-        "org.Hs.eg.db",
         "reactome.db"
     ],
     "AUCell": [
@@ -509,7 +503,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "readr",
         "wateRmelon"
     ],
@@ -547,7 +540,6 @@
         "lme4",
         "nloptr",
         "org.Bt.eg.db",
-        "org.Hs.eg.db",
         "pbkrtest",
         "plotly",
         "radiant.data",
@@ -661,7 +653,6 @@
         "GO.db",
         "WGCNA",
         "fgsea",
-        "org.Hs.eg.db",
         "synaptome.data",
         "synaptome.db"
     ],
@@ -674,7 +665,6 @@
     ],
     "BioNet": [],
     "BioNetStat": [
-        "org.Hs.eg.db",
         "pathview"
     ],
     "biosigner": [
@@ -713,7 +703,6 @@
         "bsseq",
         "bumphunter",
         "dmrseq",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "readr",
         "regioneR"
@@ -736,8 +725,7 @@
     "BLMA": [
         "PADOG",
         "hgu133a.db",
-        "hgu133plus2.db",
-        "org.Hs.eg.db"
+        "hgu133plus2.db"
     ],
     "BloodGen3Module": [
         "AnnotationHub",
@@ -790,8 +778,7 @@
         "derfinder",
         "derfinderPlot",
         "ensembldb",
-        "ggbio",
-        "org.Hs.eg.db"
+        "ggbio"
     ],
     "BrainSABER": [
         "biomaRt"
@@ -891,7 +878,6 @@
         "biomaRt",
         "genefilter",
         "hgu133a.db",
-        "org.Hs.eg.db",
         "phenoTest"
     ],
     "CancerInSilico": [],
@@ -1001,7 +987,6 @@
     ],
     "cellity": [
         "GO.db",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "topGO"
     ],
@@ -1137,7 +1122,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "org.Hs.eg.db",
         "plotly",
         "readr",
         "sva",
@@ -1161,7 +1145,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "org.Hs.eg.db",
         "org.Mm.eg.db"
     ],
     "ChIPanalyser": [
@@ -1175,7 +1158,6 @@
     "chipenrich": [
         "chipenrich.data",
         "org.Dm.eg.db",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "org.Rn.eg.db",
         "readr",
@@ -1419,9 +1401,7 @@
         "VariantAnnotation",
         "biomaRt"
     ],
-    "CoCiteStats": [
-        "org.Hs.eg.db"
-    ],
+    "CoCiteStats": [],
     "COCOA": [
         "BSgenome",
         "MIRA",
@@ -1525,7 +1505,6 @@
         "gson",
         "lme4",
         "nloptr",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "pbkrtest",
         "readr",
@@ -1564,8 +1543,7 @@
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
         "biomaRt",
         "ensembldb",
-        "geneplotter",
-        "org.Hs.eg.db"
+        "geneplotter"
     ],
     "consensusOV": [
         "GSEABase",
@@ -1577,7 +1555,6 @@
     "consensusSeekeR": [],
     "consICA": [
         "GO.db",
-        "org.Hs.eg.db",
         "topGO"
     ],
     "contiBAIT": [
@@ -1908,7 +1885,6 @@
         "metap",
         "mnem",
         "modelr",
-        "org.Hs.eg.db",
         "readr",
         "tidygraph",
         "tidyverse"
@@ -1945,7 +1921,6 @@
         "ggtree",
         "gson",
         "heatmaply",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "pathview",
         "plotly",
@@ -2204,7 +2179,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "org.Hs.eg.db",
         "readr"
     ],
     "DMRforPairs": [
@@ -2282,7 +2256,6 @@
         "hgu133a2.db",
         "hgu133plus2.db",
         "oligo",
-        "org.Hs.eg.db",
         "readr"
     ],
     "DSS": [
@@ -2324,7 +2297,6 @@
         "ggraph",
         "ggtree",
         "gson",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "scatterpie",
         "tidygraph",
@@ -2375,7 +2347,6 @@
         "ggraph",
         "ggtree",
         "gson",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "scatterpie",
         "tidygraph",
@@ -2396,7 +2367,6 @@
         "hgu133a.db",
         "hgu133plus2.db",
         "metap",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "org.Rn.eg.db",
         "pathview",
@@ -2448,7 +2418,6 @@
     "EnrichmentBrowser": [
         "GO.db",
         "GSEABase",
-        "org.Hs.eg.db",
         "pathview"
     ],
     "enrichplot": [
@@ -2610,7 +2579,6 @@
         "ensembldb",
         "genefilter",
         "minfi",
-        "org.Hs.eg.db",
         "readr"
     ],
     "epiNEM": [
@@ -2666,8 +2634,7 @@
         "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation",
-        "biomaRt",
-        "org.Hs.eg.db"
+        "biomaRt"
     ],
     "ERSSA": [
         "DESeq2",
@@ -2802,7 +2769,6 @@
         "ggtree",
         "gprofiler2",
         "gson",
-        "org.Hs.eg.db",
         "plotly",
         "rWikiPathways",
         "reactome.db",
@@ -2869,7 +2835,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "readr"
     ],
     "fgga": [],
@@ -3100,7 +3065,6 @@
         "gson",
         "lme4",
         "nloptr",
-        "org.Hs.eg.db",
         "pathview",
         "pbkrtest",
         "readr",
@@ -3138,8 +3102,7 @@
     ],
     "geneAttribution": [
         "GenomicFeatures",
-        "biomaRt",
-        "org.Hs.eg.db"
+        "biomaRt"
     ],
     "GeneBreak": [],
     "genefilter": [],
@@ -3431,7 +3394,6 @@
         "broom",
         "gRain",
         "genefilter",
-        "org.Hs.eg.db",
         "org.Mm.eg.db"
     ],
     "gmoviz": [
@@ -3447,8 +3409,7 @@
     ],
     "GOpro": [
         "GO.db",
-        "MultiAssayExperiment",
-        "org.Hs.eg.db"
+        "MultiAssayExperiment"
     ],
     "goProfiles": [
         "GO.db"
@@ -3464,7 +3425,6 @@
     ],
     "GOSim": [
         "GO.db",
-        "org.Hs.eg.db",
         "topGO"
     ],
     "goSorensen": [
@@ -3479,7 +3439,6 @@
         "ggtree",
         "goProfiles",
         "gson",
-        "org.Hs.eg.db",
         "scatterpie",
         "tidygraph",
         "tidytree",
@@ -3540,7 +3499,6 @@
         "ExperimentHub",
         "GO.db",
         "GSEABase",
-        "org.Hs.eg.db",
         "pathview"
     ],
     "GSEAmining": [],
@@ -3555,8 +3513,7 @@
         "Homo.sapiens",
         "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "biomaRt",
-        "org.Hs.eg.db"
+        "biomaRt"
     ],
     "GSRI": [
         "GSEABase",
@@ -3752,7 +3709,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "readr"
     ],
     "iCNV": [
@@ -3942,7 +3898,6 @@
         "lme4",
         "mixtools",
         "nloptr",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "pbkrtest",
         "plotly",
@@ -4056,12 +4011,10 @@
         "plyranges"
     ],
     "KEGGlincs": [
-        "hgu133a.db",
-        "org.Hs.eg.db"
+        "hgu133a.db"
     ],
     "keggorthology": [
-        "hgu95av2.db",
-        "org.Hs.eg.db"
+        "hgu95av2.db"
     ],
     "KinSwingR": [],
     "kissDE": [
@@ -4187,7 +4140,6 @@
         "genefilter",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "readr"
     ],
     "LymphoSeq": [
@@ -4258,7 +4210,6 @@
         "genefilter",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "readr"
     ],
     "MAGeCKFlute": [
@@ -4275,7 +4226,6 @@
         "ggraph",
         "ggtree",
         "gson",
-        "org.Hs.eg.db",
         "pathview",
         "scatterpie",
         "tidygraph",
@@ -4312,7 +4262,6 @@
     "maPredictDSC": [
         "caret",
         "hgu133plus2.db",
-        "org.Hs.eg.db",
         "recipes"
     ],
     "maser": [
@@ -4358,8 +4307,7 @@
     "MCbiclust": [
         "GGally",
         "GO.db",
-        "WGCNA",
-        "org.Hs.eg.db"
+        "WGCNA"
     ],
     "mCSEA": [
         "BSgenome",
@@ -4373,8 +4321,7 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "fgsea",
-        "org.Hs.eg.db"
+        "fgsea"
     ],
     "MEAL": [
         "BSgenome",
@@ -4399,7 +4346,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "org.Hs.eg.db",
         "readr",
         "sva"
     ],
@@ -4415,7 +4361,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "readr",
         "wateRmelon"
     ],
@@ -4501,7 +4446,6 @@
         "lme4",
         "mygene",
         "nloptr",
-        "org.Hs.eg.db",
         "pbkrtest",
         "testthat",
         "waldo"
@@ -4689,7 +4633,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "org.Hs.eg.db",
         "reactome.db",
         "readr",
         "scatterpie",
@@ -4728,7 +4671,6 @@
         "bumphunter",
         "genefilter",
         "minfi",
-        "org.Hs.eg.db",
         "readr"
     ],
     "MetID": [
@@ -4844,8 +4786,7 @@
         "GO.db",
         "GOstats",
         "GSEABase",
-        "genefilter",
-        "org.Hs.eg.db"
+        "genefilter"
     ],
     "miloR": [
         "ggraph",
@@ -4875,7 +4816,6 @@
         "lumiHumanAll.db",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "readr"
     ],
     "minfi": [
@@ -4896,9 +4836,7 @@
         "BSgenome",
         "bsseq"
     ],
-    "mirIntegrator": [
-        "org.Hs.eg.db"
-    ],
+    "mirIntegrator": [],
     "miRLAB": [
         "Category",
         "GO.db",
@@ -4907,7 +4845,6 @@
         "TCGAbiolinks",
         "biomaRt",
         "genefilter",
-        "org.Hs.eg.db",
         "readr"
     ],
     "miRNAmeConverter": [],
@@ -4945,7 +4882,6 @@
         "miRspongeR",
         "modelr",
         "nloptr",
-        "org.Hs.eg.db",
         "pbkrtest",
         "reactome.db",
         "readr",
@@ -4987,7 +4923,6 @@
         "lme4",
         "modelr",
         "nloptr",
-        "org.Hs.eg.db",
         "pbkrtest",
         "reactome.db",
         "readr",
@@ -5016,7 +4951,6 @@
         "genefilter",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "readr"
     ],
     "missRows": [
@@ -5196,9 +5130,7 @@
     "msImpute": [
         "scran"
     ],
-    "mslp": [
-        "org.Hs.eg.db"
-    ],
+    "mslp": [],
     "msmsEDA": [
         "MSnbase"
     ],
@@ -5482,15 +5414,12 @@
         "ggrastr",
         "readr"
     ],
-    "NanoStringQCPro": [
-        "org.Hs.eg.db"
-    ],
+    "NanoStringQCPro": [],
     "nanotatoR": [
         "broom",
         "googlesheets4",
         "haven",
         "modelr",
-        "org.Hs.eg.db",
         "readr",
         "testthat",
         "tidyverse",
@@ -5600,7 +5529,6 @@
         "bumphunter",
         "genefilter",
         "minfi",
-        "org.Hs.eg.db",
         "quantro",
         "readr",
         "yarn"
@@ -5913,8 +5841,7 @@
     ],
     "PADOG": [
         "hgu133a.db",
-        "hgu133plus2.db",
-        "org.Hs.eg.db"
+        "hgu133plus2.db"
     ],
     "pageRank": [
         "BSgenome",
@@ -5945,7 +5872,6 @@
         "ggtree",
         "gson",
         "metap",
-        "org.Hs.eg.db",
         "scatterpie",
         "tidygraph",
         "tidytree",
@@ -5975,9 +5901,7 @@
         "waldo"
     ],
     "pathRender": [],
-    "pathview": [
-        "org.Hs.eg.db"
-    ],
+    "pathview": [],
     "paxtoolsr": [
         "readr"
     ],
@@ -6080,8 +6004,7 @@
         "GSEABase",
         "biomaRt",
         "genefilter",
-        "hgu133a.db",
-        "org.Hs.eg.db"
+        "hgu133a.db"
     ],
     "PhenStat": [
         "broom",
@@ -6219,9 +6142,7 @@
         "mixOmics",
         "recipes"
     ],
-    "PoTRA": [
-        "org.Hs.eg.db"
-    ],
+    "PoTRA": [],
     "POWSC": [],
     "ppcseq": [
         "ggdist",
@@ -6243,7 +6164,6 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "biomaRt",
         "caret",
-        "org.Hs.eg.db",
         "rCGH",
         "recipes"
     ],
@@ -6316,7 +6236,6 @@
         "fgsea",
         "ggraph",
         "ggtree",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "rGREAT",
         "scatterpie",
@@ -6616,8 +6535,7 @@
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "biomaRt",
-        "org.Hs.eg.db"
+        "biomaRt"
     ],
     "RcisTarget": [
         "AUCell",
@@ -6748,7 +6666,6 @@
         "caret",
         "genefilter",
         "minfi",
-        "org.Hs.eg.db",
         "readr",
         "recipes"
     ],
@@ -6820,8 +6737,7 @@
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "biomaRt",
-        "org.Hs.eg.db"
+        "biomaRt"
     ],
     "rgsepd": [
         "DESeq2",
@@ -6830,8 +6746,7 @@
         "biomaRt",
         "geneLenDataBase",
         "geneplotter",
-        "goseq",
-        "org.Hs.eg.db"
+        "goseq"
     ],
     "Rhisat2": [
         "GenomicFeatures",
@@ -6959,7 +6874,6 @@
         "biomaRt",
         "bumphunter",
         "derfinder",
-        "org.Hs.eg.db",
         "readr",
         "recount"
     ],
@@ -7048,7 +6962,6 @@
         "gson",
         "lme4",
         "nloptr",
-        "org.Hs.eg.db",
         "org.Sc.sgd.db",
         "pathview",
         "pbkrtest",
@@ -7093,7 +7006,6 @@
         "genefilter",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "readr"
     ],
     "roar": [],
@@ -7202,7 +7114,6 @@
     "rTRM": [],
     "rTRMui": [
         "MotifDb",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "rTRM"
     ],
@@ -7231,7 +7142,6 @@
         "plotly"
     ],
     "SBGNview": [
-        "org.Hs.eg.db",
         "pathview"
     ],
     "SC3": [],
@@ -7396,7 +7306,6 @@
         "GGally",
         "biomaRt",
         "ggrastr",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "scater",
         "testthat",
@@ -7608,7 +7517,6 @@
         "ggraph",
         "ggtree",
         "gson",
-        "org.Hs.eg.db",
         "reactome.db",
         "readr",
         "scatterpie",
@@ -7651,7 +7559,6 @@
         "lme4",
         "nloptr",
         "openair",
-        "org.Hs.eg.db",
         "pbkrtest",
         "readr",
         "rstatix",
@@ -7681,8 +7588,7 @@
     ],
     "simplifyEnrichment": [
         "GO.db",
-        "GOSemSim",
-        "org.Hs.eg.db"
+        "GOSemSim"
     ],
     "sincell": [],
     "single": [],
@@ -7717,7 +7623,6 @@
         "ggtree",
         "hgu95a.db",
         "metap",
-        "org.Hs.eg.db",
         "plotly",
         "reldist",
         "scDblFinder",
@@ -7771,7 +7676,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "readr",
         "wateRmelon"
     ],
@@ -7787,7 +7691,6 @@
         "biomaRt",
         "geneLenDataBase",
         "goseq",
-        "org.Hs.eg.db",
         "reactome.db"
     ],
     "snapCGH": [
@@ -7917,8 +7820,7 @@
     ],
     "SpidermiR": [
         "miRNAtap",
-        "miRNAtap.db",
-        "org.Hs.eg.db"
+        "miRNAtap.db"
     ],
     "spiky": [
         "BSgenome"
@@ -8006,7 +7908,6 @@
     ],
     "sSNAPPY": [
         "ggraph",
-        "org.Hs.eg.db",
         "tidygraph"
     ],
     "ssPATHS": [
@@ -8048,8 +7949,7 @@
     "StarBioTrek": [
         "SpidermiR",
         "miRNAtap",
-        "miRNAtap.db",
-        "org.Hs.eg.db"
+        "miRNAtap.db"
     ],
     "Statial": [
         "broom",
@@ -8082,7 +7982,6 @@
     ],
     "SubCellBarCode": [
         "caret",
-        "org.Hs.eg.db",
         "recipes"
     ],
     "subSeq": [],
@@ -8276,7 +8175,6 @@
         "gson",
         "lme4",
         "nloptr",
-        "org.Hs.eg.db",
         "pathview",
         "pbkrtest",
         "plotly",
@@ -8336,8 +8234,7 @@
     ],
     "TFEA.ChIP": [
         "GenomicFeatures",
-        "biomaRt",
-        "org.Hs.eg.db"
+        "biomaRt"
     ],
     "TFHAZ": [
         "BSgenome",
@@ -8350,8 +8247,7 @@
         "readr"
     ],
     "TFutils": [
-        "GSEABase",
-        "org.Hs.eg.db"
+        "GSEABase"
     ],
     "tidybulk": [
         "readr"
@@ -8485,7 +8381,6 @@
         "GOSemSim",
         "anota",
         "geneplotter",
-        "org.Hs.eg.db",
         "topGO"
     ],
     "transomics2cytoscape": [],
@@ -8533,8 +8428,7 @@
         "MotifDb",
         "SNPlocs.Hsapiens.dbSNP150.GRCh38",
         "WGCNA",
-        "biomaRt",
-        "org.Hs.eg.db"
+        "biomaRt"
     ],
     "Trendy": [],
     "TRESS": [
@@ -8606,7 +8500,6 @@
         "fda",
         "fds",
         "geneplotter",
-        "org.Hs.eg.db",
         "rainbow",
         "regioneR"
     ],
@@ -8626,8 +8519,7 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "ensembldb",
-        "org.Hs.eg.db"
+        "ensembldb"
     ],
     "UniProt.ws": [],
     "Uniquorn": [
@@ -8742,7 +8634,6 @@
         "ggraph",
         "lexicon",
         "msigdb",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "syuzhet",
         "textclean",
@@ -8805,7 +8696,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "readr"
     ],
     "wavClusteR": [
@@ -8876,7 +8766,6 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "org.Hs.eg.db",
         "pathview",
         "pbkrtest",
         "testthat",
@@ -8965,7 +8854,6 @@
     "Seurat": [
         "plotly"
     ],
-    "org.Hs.eg.db": [],
     "org.Mm.eg.db": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome"
@@ -8979,8 +8867,7 @@
         "GenomicFeatures",
         "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "biomaRt",
-        "org.Hs.eg.db"
+        "biomaRt"
     ],
     "SNPlocs.Hsapiens.dbSNP144.GRCh37": [
         "BSgenome"
@@ -9024,8 +8911,7 @@
     "FDb.InfiniumMethylation.hg19": [
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "biomaRt",
-        "org.Hs.eg.db"
+        "biomaRt"
     ],
     "mGSZ": [],
     "ggfortify": [],
@@ -9141,12 +9027,8 @@
         "genefilter",
         "geneplotter"
     ],
-    "hgu133plus2.db": [
-        "org.Hs.eg.db"
-    ],
-    "hgu133a.db": [
-        "org.Hs.eg.db"
-    ],
+    "hgu133plus2.db": [],
+    "hgu133a.db": [],
     "GenomicState": [
         "AnnotationHub",
         "BSgenome",
@@ -9155,8 +9037,7 @@
         "VariantAnnotation",
         "biomaRt",
         "bumphunter",
-        "derfinder",
-        "org.Hs.eg.db"
+        "derfinder"
     ],
     "BSgenome.Hsapiens.UCSC.hg38": [
         "BSgenome"
@@ -9383,9 +9264,7 @@
         "waldo"
     ],
     "NBPSeq": [],
-    "hgu133a2.db": [
-        "org.Hs.eg.db"
-    ],
+    "hgu133a2.db": [],
     "easierData": [
         "AnnotationHub",
         "ExperimentHub"
@@ -9477,9 +9356,7 @@
     "pd.mapping50k.xba240": [
         "oligo"
     ],
-    "hgu95av2.db": [
-        "org.Hs.eg.db"
-    ],
+    "hgu95av2.db": [],
     "sortable": [],
     "reldist": [
         "densEstBayes"
@@ -9563,9 +9440,7 @@
         "broom",
         "mice"
     ],
-    "lumiHumanAll.db": [
-        "org.Hs.eg.db"
-    ],
+    "lumiHumanAll.db": [],
     "BSgenome.Hsapiens.UCSC.hg18": [
         "BSgenome"
     ],
@@ -9750,8 +9625,7 @@
     ],
     "GSVAdata": [
         "GSEABase",
-        "hgu95a.db",
-        "org.Hs.eg.db"
+        "hgu95a.db"
     ],
     "SoupX": [
         "Seurat",
@@ -9768,9 +9642,7 @@
         "AnnotationHub",
         "ExperimentHub"
     ],
-    "hgu95a.db": [
-        "org.Hs.eg.db"
-    ],
+    "hgu95a.db": [],
     "sampSurf": [],
     "xROI": [],
     "miRNAtap.db": [
@@ -9824,7 +9696,6 @@
         "AnnotationHub",
         "ExperimentHub",
         "GSEABase",
-        "org.Hs.eg.db",
         "org.Mm.eg.db"
     ],
     "eva": []
