@@ -32,7 +32,6 @@
     ],
     "ASpediaFI": [
         "Gviz",
-        "IVAS",
         "mGSZ"
     ],
     "ASpli": [
@@ -545,9 +544,7 @@
         "pcaExplorer"
     ],
     "imageHTS": [],
-    "IMAS": [
-        "IVAS"
-    ],
+    "IMAS": [],
     "InTAD": [
         "car",
         "ggpubr",
@@ -583,7 +580,6 @@
     "ISAnalytics": [],
     "IsoformSwitchAnalyzeR": [],
     "isomiRs": [],
-    "IVAS": [],
     "ivygapSE": [
         "car",
         "ggpubr",
