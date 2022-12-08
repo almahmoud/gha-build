@@ -1457,8 +1457,7 @@
         "GSEABase",
         "GSVA",
         "biomaRt",
-        "genefu",
-        "survcomp"
+        "genefu"
     ],
     "consensusSeekeR": [],
     "consICA": [
@@ -2944,8 +2943,7 @@
     "GeneBreak": [],
     "genefilter": [],
     "genefu": [
-        "biomaRt",
-        "survcomp"
+        "biomaRt"
     ],
     "GeneGeneInteR": [
         "FactoMineR",
@@ -4279,8 +4277,7 @@
         "genefilter",
         "geneplotter",
         "heatmaply",
-        "plotly",
-        "survcomp"
+        "plotly"
     ],
     "metavizr": [
         "GenomicFeatures",
@@ -5631,7 +5628,6 @@
         "piano",
         "recipes",
         "rstatix",
-        "survcomp",
         "survminer",
         "testthat",
         "verification",
@@ -7179,7 +7175,6 @@
         "pbkrtest",
         "readr",
         "rstatix",
-        "survcomp",
         "survminer",
         "testthat",
         "waldo"
@@ -7607,7 +7602,6 @@
         "testthat",
         "waldo"
     ],
-    "survcomp": [],
     "survtype": [
         "broom",
         "car",
