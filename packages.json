@@ -5510,7 +5510,6 @@
         "GSEABase",
         "ReactomePA",
         "Seurat",
-        "ccTensor",
         "enrichplot",
         "genefilter",
         "ggraph",
@@ -7175,7 +7174,6 @@
         "ExperimentHub"
     ],
     "Rmagic": [],
-    "ccTensor": [],
     "clustree": [
         "ggraph",
         "tidygraph"
