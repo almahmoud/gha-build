@@ -162,7 +162,6 @@
         "VariantAnnotation",
         "XtraSNPlocs.Hsapiens.dbSNP144.GRCh37"
     ],
-    "ArrayExpress": [],
     "ArrayExpressHTS": [],
     "arrayMvout": [
         "FDb.InfiniumMethylation.hg19",
@@ -1631,7 +1630,6 @@
         "ensembldb"
     ],
     "DrugVsDisease": [
-        "ArrayExpress",
         "GEOquery",
         "hgu133plus2.db"
     ],
