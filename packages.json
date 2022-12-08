@@ -4108,7 +4108,6 @@
     "granulator": [
         "epiR"
     ],
-    "graper": [],
     "GreyListChIP": [
         "BSgenome",
         "rtracklayer"
