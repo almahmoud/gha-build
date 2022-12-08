@@ -9398,7 +9398,6 @@
         "vctrs",
         "vroom"
     ],
-    "convert": [],
     "copynumber": [
         "GenomeInfoDb",
         "GenomicRanges",
@@ -24089,9 +24088,7 @@
         "vctrs",
         "vroom"
     ],
-    "maigesPack": [
-        "convert"
-    ],
+    "maigesPack": [],
     "MAIT": [
         "BiocParallel",
         "CAMERA",
@@ -48603,9 +48600,7 @@
         "stringr",
         "vctrs"
     ],
-    "TurboNorm": [
-        "convert"
-    ],
+    "TurboNorm": [],
     "tweeDEseq": [
         "cqn",
         "edgeR",
