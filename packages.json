@@ -31371,7 +31371,6 @@
         "stringdist",
         "stringi",
         "stringr",
-        "sylly",
         "sylly.en",
         "syuzhet",
         "tensorflow",
@@ -49341,7 +49340,6 @@
         "stringdist",
         "stringi",
         "stringr",
-        "sylly",
         "sylly.en",
         "syuzhet",
         "tensorflow",
@@ -131618,7 +131616,6 @@
         "stopwords",
         "stringi",
         "stringr",
-        "sylly",
         "sylly.en",
         "syuzhet",
         "tensorflow",
@@ -132812,7 +132809,6 @@
         "stringdist",
         "stringi",
         "stringr",
-        "sylly",
         "sylly.en",
         "systemfonts",
         "syuzhet",
@@ -134212,7 +134208,6 @@
         "stopwords",
         "stringi",
         "stringr",
-        "sylly",
         "sylly.en",
         "systemfonts",
         "syuzhet",
@@ -149573,7 +149568,6 @@
         "slam",
         "stopwords",
         "stringi",
-        "sylly",
         "sylly.en",
         "syuzhet",
         "textclean",
@@ -149612,13 +149606,11 @@
         "Matrix",
         "koRpus",
         "lattice",
-        "sylly",
         "sylly.en"
     ],
     "koRpus": [
         "Matrix",
-        "lattice",
-        "sylly"
+        "lattice"
     ],
     "lexicon": [
         "NLP",
@@ -149692,10 +149684,7 @@
         "slam",
         "stringi"
     ],
-    "sylly": [],
-    "sylly.en": [
-        "sylly"
-    ],
+    "sylly.en": [],
     "syuzhet": [
         "NLP",
         "R6",
