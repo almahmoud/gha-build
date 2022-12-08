@@ -3510,9 +3510,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
-    "ccImpute": [
-        "SIMLR"
-    ],
+    "ccImpute": [],
     "ccmap": [
         "AnnotationDbi",
         "Biostrings",
@@ -26634,7 +26632,6 @@
         "tibble",
         "tidyselect"
     ],
-    "SIMLR": [],
     "simpleSeg": [
         "BiocFileCache",
         "DropletUtils",
@@ -26693,7 +26690,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "GenomicRanges",
-        "SIMLR",
         "ScaledMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
