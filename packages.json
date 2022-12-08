@@ -39561,7 +39561,6 @@
         "lme4",
         "mgcv",
         "nloptr",
-        "nls2",
         "pbkrtest",
         "pillar",
         "quantreg",
@@ -45358,7 +45357,6 @@
         "memoise",
         "mgcv",
         "mixtools",
-        "nls2",
         "pillar",
         "plotly",
         "reshape2",
@@ -49403,7 +49401,6 @@
         "knitr",
         "memoise",
         "mgcv",
-        "nls2",
         "pillar",
         "reshape2",
         "rmarkdown",
@@ -58863,7 +58860,6 @@
         "vctrs"
     ],
     "doMC": [],
-    "nls2": [],
     "valr": [
         "BiocParallel",
         "Biostrings",
