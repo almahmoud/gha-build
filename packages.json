@@ -88,8 +88,7 @@
         "dplyr",
         "interactiveDisplayBase",
         "rvest",
-        "selectr",
-        "smoother"
+        "selectr"
     ],
     "ADImpute": [
         "SingleCellExperiment",
@@ -5232,7 +5231,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "smoother",
         "testthat",
         "tidyr",
         "waldo"
@@ -22159,7 +22157,6 @@
     "rvest": [
         "selectr"
     ],
-    "smoother": [],
     "selectr": [],
     "dbplyr": [
         "dplyr"
