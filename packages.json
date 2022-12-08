@@ -26572,7 +26572,6 @@
         "tibble",
         "tidyselect"
     ],
-    "RGraph2js": [],
     "rGREAT": [
         "AnnotationDbi",
         "BiocFileCache",
