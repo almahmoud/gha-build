@@ -1320,7 +1320,6 @@
         "GenomicFeatures",
         "bumphunter",
         "lme4",
-        "methylKit",
         "minfi",
         "nloptr",
         "rsq",
@@ -3080,12 +3079,9 @@
     "MetaVolcanoR": [],
     "MethCP": [
         "DSS",
-        "bsseq",
-        "methylKit"
+        "bsseq"
     ],
-    "methInheritSim": [
-        "methylKit"
-    ],
+    "methInheritSim": [],
     "MethReg": [
         "ExperimentHub",
         "car",
@@ -3160,10 +3156,7 @@
         "tidygraph",
         "treeio"
     ],
-    "methylInheritance": [
-        "methylKit"
-    ],
-    "methylKit": [],
+    "methylInheritance": [],
     "methylPipe": [
         "GenomicFeatures",
         "Gviz",
