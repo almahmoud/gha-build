@@ -6189,7 +6189,6 @@
         "modelr",
         "nloptr",
         "pbkrtest",
-        "planet",
         "readr",
         "rstatix",
         "rtracklayer",
@@ -8183,7 +8182,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "planet": [],
     "plethy": [],
     "PloGO2": [
         "AnnotationForge",
