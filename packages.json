@@ -26132,7 +26132,6 @@
         "rvest",
         "selectr",
         "sftime",
-        "spacetime",
         "stars",
         "testthat",
         "tibble",
@@ -32126,7 +32125,6 @@
     "gstat": [
         "lwgeom",
         "sftime",
-        "spacetime",
         "stars"
     ],
     "SpatialExtremes": [
@@ -32136,7 +32134,6 @@
         "viridis"
     ],
     "sftime": [],
-    "spacetime": [],
     "stars": [
         "lwgeom"
     ],
