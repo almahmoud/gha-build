@@ -992,7 +992,6 @@
         "ggplot2",
         "ggrepel",
         "plotly",
-        "ptw",
         "reshape2",
         "ropls",
         "stringr",
@@ -20680,7 +20679,6 @@
     "pengls": [],
     "PepsNMR": [
         "ggplot2",
-        "ptw",
         "reshape2",
         "stringr",
         "tibble"
@@ -31853,7 +31851,6 @@
         "ggplot2",
         "tibble"
     ],
-    "ptw": [],
     "DRaWR": [],
     "mGSZ": [],
     "ggfortify": [
