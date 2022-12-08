@@ -813,7 +813,6 @@
         "genefilter",
         "globaltest",
         "goseq",
-        "isva",
         "lumi",
         "methylumi",
         "minfi",
@@ -3117,7 +3116,6 @@
         "bumphunter",
         "ensembldb",
         "genefilter",
-        "isva",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -4095,7 +4093,6 @@
         "SmartSVA",
         "car",
         "genefilter",
-        "isva",
         "lme4",
         "mice",
         "nloptr",
@@ -6562,7 +6559,6 @@
         "genefilter",
         "minfi"
     ],
-    "isva": [],
     "geneLenDataBase": [
         "GenomicFeatures"
     ],
@@ -6778,7 +6774,6 @@
     ],
     "SmartSVA": [
         "genefilter",
-        "isva",
         "sva"
     ],
     "EnsDb.Hsapiens.v75": [
