@@ -15239,7 +15239,6 @@
         "VariantAnnotation",
         "bestNormalize",
         "biomaRt",
-        "butcher",
         "dbplyr",
         "ipred",
         "naniar",
@@ -17870,7 +17869,6 @@
     ],
     "bestNormalize": [
         "LambertW",
-        "butcher",
         "ipred",
         "recipes",
         "tidyr"
@@ -17883,7 +17881,6 @@
         "visdat"
     ],
     "LambertW": [],
-    "butcher": [],
     "visdat": [
         "readr",
         "tidyr"
