@@ -10,9 +10,7 @@
     "ATACCoGAPS": [
         "projectR"
     ],
-    "bigmelon": [
-        "wateRmelon"
-    ],
+    "bigmelon": [],
     "bioCancer": [],
     "BiocOncoTK": [
         "ggpubr"
@@ -37,8 +35,7 @@
     ],
     "ChAMP": [
         "DMRcate",
-        "DSS",
-        "wateRmelon"
+        "DSS"
     ],
     "ChIC": [
         "spp"
@@ -164,9 +161,7 @@
     "Macarron": [],
     "MAGAR": [],
     "MEAL": [],
-    "MEAT": [
-        "wateRmelon"
-    ],
+    "MEAT": [],
     "MetaboSignal": [],
     "MetaCyto": [
         "FlowSOM",
@@ -293,9 +288,7 @@
         "ggpubr",
         "survminer"
     ],
-    "skewr": [
-        "wateRmelon"
-    ],
+    "skewr": [],
     "sojourner": [
         "sampSurf"
     ],
@@ -338,7 +331,6 @@
     "VAExprs": [
         "DeepPINCS"
     ],
-    "wateRmelon": [],
     "YAPSA": [],
     "zenith": [],
     "ggpubr": [],
