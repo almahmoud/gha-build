@@ -189,9 +189,7 @@
     "debrowser": [
         "clusterProfiler"
     ],
-    "deconvR": [
-        "rsq"
-    ],
+    "deconvR": [],
     "DeepPINCS": [
         "textstem",
         "ttgsea"
@@ -1041,7 +1039,6 @@
     ],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [],
     "mbest": [],
-    "rsq": [],
     "textstem": [],
     "VIM": [
         "car"
