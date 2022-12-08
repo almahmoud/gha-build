@@ -5060,7 +5060,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "gCrisprTools": [],
     "GCSscore": [
         "devtools",
         "pkgdown",
