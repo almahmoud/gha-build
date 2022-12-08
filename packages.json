@@ -95,9 +95,7 @@
         "MSstats",
         "lme4"
     ],
-    "ASICS": [
-        "ropls"
-    ],
+    "ASICS": [],
     "ASpediaFI": [
         "Gviz",
         "IVAS",
@@ -251,9 +249,7 @@
     ],
     "BioNERO": [],
     "BioNetStat": [],
-    "biosigner": [
-        "ropls"
-    ],
+    "biosigner": [],
     "BioTIP": [],
     "biovizBase": [
         "VariantAnnotation",
@@ -1668,9 +1664,7 @@
     "LinTInd": [
         "ggtree"
     ],
-    "lipidr": [
-        "ropls"
-    ],
+    "lipidr": [],
     "LiquidAssociation": [],
     "lisaClust": [
         "lme4",
@@ -2187,9 +2181,7 @@
         "lmerTest"
     ],
     "MuData": [],
-    "MultiBaC": [
-        "ropls"
-    ],
+    "MultiBaC": [],
     "multicrispr": [
         "CRISPRseek",
         "VariantAnnotation",
@@ -2208,8 +2200,7 @@
         "devtools",
         "enrichplot",
         "ggraph",
-        "ggtree",
-        "ropls"
+        "ggtree"
     ],
     "mumosa": [],
     "MungeSumstats": [
@@ -2475,8 +2466,7 @@
     ],
     "phenomis": [
         "biodb",
-        "biodbChebi",
-        "ropls"
+        "biodbChebi"
     ],
     "phenoTest": [
         "Category"
@@ -2565,9 +2555,7 @@
         "lme4",
         "pvca"
     ],
-    "proFIA": [
-        "ropls"
-    ],
+    "proFIA": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -2901,7 +2889,6 @@
         "methylumi",
         "minfi"
     ],
-    "ropls": [],
     "Rqc": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -2911,8 +2898,7 @@
     "rqt": [
         "car",
         "lme4",
-        "pbkrtest",
-        "ropls"
+        "pbkrtest"
     ],
     "rrvgo": [],
     "RTCGA": [
