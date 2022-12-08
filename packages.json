@@ -3873,7 +3873,6 @@
         "testthat",
         "waldo"
     ],
-    "LineagePulse": [],
     "lineagespot": [
         "BSgenome",
         "GenomicFeatures",
