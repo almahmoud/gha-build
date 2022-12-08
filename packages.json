@@ -2175,7 +2175,6 @@
         "RFOC",
         "broom",
         "car",
-        "fields",
         "flowDensity",
         "lme4",
         "nloptr",
@@ -2330,7 +2329,6 @@
         "RFOC",
         "broom",
         "car",
-        "fields",
         "flowDensity",
         "lme4",
         "nloptr",
@@ -2704,9 +2702,7 @@
     ],
     "DNABarcodeCompatibility": [],
     "DNAfusion": [],
-    "DNAshapeR": [
-        "fields"
-    ],
+    "DNAshapeR": [],
     "DominoEffect": [
         "BSgenome",
         "BiocFileCache",
@@ -3513,7 +3509,6 @@
         "RFOC",
         "broom",
         "car",
-        "fields",
         "flowDensity",
         "lme4",
         "nloptr",
@@ -3526,7 +3521,6 @@
         "RFOC",
         "broom",
         "car",
-        "fields",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -4523,7 +4517,6 @@
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "CODEX",
-        "fields",
         "rtracklayer"
     ],
     "iCOBRA": [],
@@ -5112,7 +5105,6 @@
         "biomaRt",
         "bumphunter",
         "crlmm",
-        "fields",
         "genefilter",
         "methylumi",
         "minfi",
@@ -5160,7 +5152,6 @@
         "MSnbase",
         "agricolae",
         "caret",
-        "fields",
         "haven",
         "klaR",
         "labelled",
@@ -5454,8 +5445,7 @@
         "treeio"
     ],
     "metapone": [
-        "fgsea",
-        "fields"
+        "fgsea"
     ],
     "metaseqR2": [
         "BSgenome",
@@ -6337,9 +6327,7 @@
     "MuData": [
         "MultiAssayExperiment"
     ],
-    "Mulcom": [
-        "fields"
-    ],
+    "Mulcom": [],
     "MultiAssayExperiment": [],
     "MultiBaC": [
         "MultiAssayExperiment",
@@ -7150,7 +7138,6 @@
         "car",
         "caret",
         "fgsea",
-        "fields",
         "genefu",
         "ggpubr",
         "lme4",
@@ -7181,9 +7168,7 @@
         "scater",
         "scuttle"
     ],
-    "pepStat": [
-        "fields"
-    ],
+    "pepStat": [],
     "PERFect": [],
     "periodicDNA": [
         "BSgenome",
@@ -8479,7 +8464,6 @@
         "annotate",
         "biomaRt",
         "bumphunter",
-        "fields",
         "genefilter",
         "methylumi",
         "minfi",
@@ -8743,7 +8727,6 @@
     "scDD": [
         "EBSeq",
         "arm",
-        "fields",
         "lme4",
         "nloptr",
         "scran",
@@ -8891,7 +8874,6 @@
         "dendextend",
         "enrichplot",
         "fgsea",
-        "fields",
         "genefilter",
         "ggraph",
         "ggtree",
@@ -8912,7 +8894,6 @@
         "GSEABase",
         "Seurat",
         "annotate",
-        "fields",
         "msigdbr",
         "nnTensor",
         "plotly",
@@ -9186,9 +9167,7 @@
         "GOSemSim",
         "org.Hs.eg.db"
     ],
-    "sincell": [
-        "fields"
-    ],
+    "sincell": [],
     "single": [],
     "SingleCellSignalR": [
         "scran",
@@ -9221,7 +9200,6 @@
         "colourpicker",
         "densEstBayes",
         "ensembldb",
-        "fields",
         "fishpond",
         "genefilter",
         "geneplotter",
@@ -9454,9 +9432,7 @@
         "readr",
         "rtracklayer"
     ],
-    "SpeCond": [
-        "fields"
-    ],
+    "SpeCond": [],
     "SpectralTAD": [
         "HiCcompare"
     ],
@@ -9759,7 +9735,6 @@
         "broom",
         "car",
         "drc",
-        "fields",
         "googlesheets4",
         "haven",
         "lme4",
@@ -9962,9 +9937,7 @@
         "readr",
         "rtracklayer"
     ],
-    "TFARM": [
-        "fields"
-    ],
+    "TFARM": [],
     "TFBSTools": [
         "BSgenome",
         "CNEr",
@@ -11181,13 +11154,9 @@
         "broom"
     ],
     "RFOC": [
-        "GEOmap",
-        "fields"
+        "GEOmap"
     ],
-    "GEOmap": [
-        "fields"
-    ],
-    "fields": [],
+    "GEOmap": [],
     "mbest": [
         "lme4",
         "nloptr",
@@ -11374,9 +11343,7 @@
         "BiocFileCache",
         "ExperimentHub"
     ],
-    "plsgenomics": [
-        "fields"
-    ],
+    "plsgenomics": [],
     "agricolae": [
         "haven",
         "klaR",
@@ -11556,9 +11523,7 @@
     "tfprobability": [
         "keras"
     ],
-    "verification": [
-        "fields"
-    ],
+    "verification": [],
     "tidybayes": [
         "ggdist",
         "posterior"
@@ -11636,12 +11601,8 @@
         "ExperimentHub"
     ],
     "Rmagic": [],
-    "nnTensor": [
-        "fields"
-    ],
-    "ccTensor": [
-        "fields"
-    ],
+    "nnTensor": [],
+    "ccTensor": [],
     "clustree": [
         "ggraph",
         "tidygraph"
@@ -11720,9 +11681,7 @@
     ],
     "mosaicCore": [],
     "rsample": [],
-    "SpatialExtremes": [
-        "fields"
-    ],
+    "SpatialExtremes": [],
     "spsComps": [],
     "drawer": [],
     "GenKern": [],
