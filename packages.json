@@ -30529,7 +30529,6 @@
         "MCL",
         "MatrixCorrelation",
         "MetBrewer",
-        "MuMIn",
         "NMF",
         "RBGL",
         "RSQLite",
@@ -30690,7 +30689,6 @@
         "KEGGREST",
         "MCL",
         "MetBrewer",
-        "MuMIn",
         "RBGL",
         "RSQLite",
         "RcppEigen",
@@ -49836,7 +49834,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "MetBrewer",
-        "MuMIn",
         "RBGL",
         "RSQLite",
         "RcppEigen",
@@ -62314,7 +62311,6 @@
         "vctrs"
     ],
     "cvms": [
-        "MuMIn",
         "RcppEigen",
         "bayestestR",
         "callr",
@@ -62370,7 +62366,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "MuMIn": [],
     "parameters": [
         "bayestestR"
     ],
