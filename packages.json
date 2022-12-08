@@ -683,7 +683,6 @@
     "AnVIL": [
         "dplyr",
         "miniUI",
-        "rapiclient",
         "shiny",
         "tibble",
         "tidyr",
@@ -707,7 +706,6 @@
         "knitr",
         "miniUI",
         "progress",
-        "rapiclient",
         "readr",
         "rmarkdown",
         "shiny",
@@ -3279,7 +3277,6 @@
         "genefilter",
         "miniUI",
         "progress",
-        "rapiclient",
         "readr",
         "rtracklayer",
         "rvest",
@@ -3332,7 +3329,6 @@
         "dplyr",
         "miniUI",
         "progress",
-        "rapiclient",
         "readr",
         "rtracklayer",
         "rvest",
@@ -13883,7 +13879,6 @@
         "miniUI",
         "motifStack",
         "progress",
-        "rapiclient",
         "readr",
         "reshape2",
         "rtracklayer",
@@ -27744,7 +27739,6 @@
         "dplyr",
         "miniUI",
         "progress",
-        "rapiclient",
         "readr",
         "rtracklayer",
         "rvest",
@@ -30072,7 +30066,6 @@
         "lava"
     ],
     "lava": [],
-    "rapiclient": [],
     "miniUI": [
         "shiny"
     ],
