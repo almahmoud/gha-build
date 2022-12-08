@@ -356,7 +356,6 @@
         "ensembldb"
     ],
     "BioNAR": [
-        "synaptome.data",
         "synaptome.db"
     ],
     "BioNERO": [
@@ -5081,10 +5080,7 @@
     ],
     "DiagrammeR": [],
     "ggraph": [],
-    "synaptome.db": [
-        "synaptome.data"
-    ],
-    "synaptome.data": [],
+    "synaptome.db": [],
     "biscuiteerData": [],
     "pasilla": [
         "DESeq2",
