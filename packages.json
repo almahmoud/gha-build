@@ -11682,7 +11682,6 @@
     "gscreend": [
         "GenomicRanges",
         "SummarizedExperiment",
-        "cvar",
         "fGarch",
         "nloptr",
         "rematch2",
@@ -32340,10 +32339,7 @@
         "knitr",
         "rmarkdown"
     ],
-    "fGarch": [
-        "cvar"
-    ],
-    "cvar": [],
+    "fGarch": [],
     "ggwordcloud": [
         "ggplot2",
         "tibble"
