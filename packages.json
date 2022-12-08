@@ -1454,7 +1454,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "TitanCNA": [],
     "tLOH": [],
     "TNBC.CMS": [
         "car",
