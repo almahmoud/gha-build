@@ -10937,7 +10937,6 @@
         "BiocFileCache",
         "DropletUtils",
         "SpatialExperiment",
-        "alphahull",
         "colourpicker",
         "dittoSeq",
         "plotly",
@@ -13562,7 +13561,6 @@
         "org.Hs.eg.db"
     ],
     "sampSurf": [],
-    "alphahull": [],
     "xROI": [
         "colourpicker"
     ],
