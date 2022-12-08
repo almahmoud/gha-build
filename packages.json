@@ -4465,7 +4465,6 @@
         "phenoTest",
         "pillar",
         "progress",
-        "rrcov",
         "scales",
         "stringr",
         "tibble",
@@ -7629,7 +7628,6 @@
         "quantreg",
         "reshape2",
         "rms",
-        "rrcov",
         "scales",
         "stringr",
         "tibble",
@@ -9791,7 +9789,6 @@
         "Rgraphviz",
         "pillar",
         "repr",
-        "rrcov",
         "vctrs"
     ],
     "DEGreport": [
@@ -13338,7 +13335,6 @@
         "ggplot2",
         "pheatmap",
         "pillar",
-        "rrcov",
         "scales",
         "shiny",
         "tibble",
@@ -13612,7 +13608,6 @@
     ],
     "flowBeads": [
         "knitr",
-        "rrcov",
         "stringr",
         "vctrs"
     ],
@@ -13742,15 +13737,13 @@
     ],
     "flowMeans": [
         "feature",
-        "ks",
-        "rrcov"
+        "ks"
     ],
     "flowMerge": [
         "Rgraphviz",
         "feature",
         "flowClust",
-        "ks",
-        "rrcov"
+        "ks"
     ],
     "flowPloidy": [
         "broom",
@@ -13832,7 +13825,6 @@
         "ncdfFlow",
         "pillar",
         "rainbow",
-        "rrcov",
         "scales",
         "tibble",
         "tidyselect",
@@ -13870,7 +13862,6 @@
         "ncdfFlow",
         "pillar",
         "rainbow",
-        "rrcov",
         "scales",
         "tibble",
         "tidyselect",
@@ -15349,7 +15340,6 @@
         "rematch2",
         "reshape2",
         "robust",
-        "rrcov",
         "scales",
         "stringr",
         "testthat",
@@ -18941,12 +18931,10 @@
         "vctrs"
     ],
     "iterativeBMA": [
-        "BMA",
-        "rrcov"
+        "BMA"
     ],
     "iterativeBMAsurv": [
-        "BMA",
-        "rrcov"
+        "BMA"
     ],
     "IVAS": [
         "AnnotationDbi",
@@ -27059,7 +27047,6 @@
         "ks",
         "pillar",
         "rgl",
-        "rrcov",
         "stringr",
         "tibble",
         "tidyselect",
@@ -28189,7 +28176,6 @@
         "org.Hs.eg.db",
         "pillar",
         "progress",
-        "rrcov",
         "scales",
         "stringr",
         "tibble",
@@ -33592,7 +33578,6 @@
         "ggplot2",
         "pheatmap",
         "pillar",
-        "rrcov",
         "scales",
         "shiny",
         "tibble",
@@ -38024,7 +38009,6 @@
     "statTarget": [
         "ROC",
         "knitr",
-        "rrcov",
         "stringr",
         "vctrs"
     ],
@@ -38389,7 +38373,6 @@
         "pillar",
         "quantreg",
         "rematch2",
-        "rrcov",
         "rstatix",
         "scales",
         "stringr",
@@ -44254,10 +44237,7 @@
         "stringr",
         "vctrs"
     ],
-    "BMA": [
-        "rrcov"
-    ],
-    "rrcov": [],
+    "BMA": [],
     "vcfR": [
         "dplyr",
         "pillar",
@@ -45880,9 +45860,7 @@
         "vctrs"
     ],
     "gdtools": [],
-    "robust": [
-        "rrcov"
-    ],
+    "robust": [],
     "shinyHeatmaply": [
         "bslib",
         "cellranger",
@@ -48039,8 +48017,7 @@
         "vctrs"
     ],
     "clustvarsel": [
-        "BMA",
-        "rrcov"
+        "BMA"
     ],
     "gstat": [
         "lwgeom",
