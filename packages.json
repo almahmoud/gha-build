@@ -33,7 +33,6 @@
     "brainflowprobes": [
         "GenomicState"
     ],
-    "CAGEfightR": [],
     "CancerInSilico": [],
     "CATALYST": [
         "FlowSOM",
