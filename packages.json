@@ -2643,7 +2643,6 @@
         "rstatix",
         "survminer"
     ],
-    "OncoScore": [],
     "OncoSimulR": [
         "car",
         "lme4",
