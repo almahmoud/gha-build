@@ -159,13 +159,10 @@
         "DESeq2",
         "geneplotter"
     ],
-    "AnVIL": [],
     "AnVILBilling": [
         "plotly"
     ],
-    "AnVILPublish": [
-        "AnVIL"
-    ],
+    "AnVILPublish": [],
     "APAlyzer": [
         "BSgenome",
         "DESeq2",
@@ -823,7 +820,6 @@
         "genefilter"
     ],
     "cbaf": [
-        "AnVIL",
         "GenomicDataCommons",
         "GenomicFeatures",
         "MultiAssayExperiment",
@@ -842,7 +838,6 @@
         "treeio"
     ],
     "cBioPortalData": [
-        "AnVIL",
         "GenomicDataCommons",
         "GenomicFeatures",
         "MultiAssayExperiment",
@@ -3646,7 +3641,6 @@
         "xcms"
     ],
     "LowMACA": [
-        "AnVIL",
         "BSgenome",
         "CNEr",
         "GenomicDataCommons",
@@ -7295,7 +7289,6 @@
         "restfulSE"
     ],
     "terraTCGAdata": [
-        "AnVIL",
         "GenomicDataCommons",
         "GenomicFeatures",
         "MultiAssayExperiment",
