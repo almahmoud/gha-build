@@ -478,7 +478,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "exomePeak2": [],
     "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
