@@ -4793,7 +4793,6 @@
         "MultiAssayExperiment"
     ],
     "RPA": [],
-    "rpx": [],
     "Rqc": [
         "GenomicFeatures",
         "GenomicFiles",
