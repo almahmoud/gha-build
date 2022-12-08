@@ -1442,7 +1442,6 @@
     "DEsubs": [
         "DESeq2",
         "EBSeq",
-        "NBPSeq",
         "geneplotter",
         "testthat"
     ],
@@ -3139,7 +3138,6 @@
         "DSS",
         "EDASeq",
         "GenomicFeatures",
-        "NBPSeq",
         "bsseq",
         "geneplotter",
         "heatmaply",
@@ -4870,9 +4868,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "RNAsense": [
-        "NBPSeq"
-    ],
+    "RNAsense": [],
     "RNASeqR": [
         "DESeq2",
         "DOSE",
@@ -6500,7 +6496,6 @@
         "pbkrtest",
         "testthat"
     ],
-    "NBPSeq": [],
     "easierData": [
         "ExperimentHub"
     ],
