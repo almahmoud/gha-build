@@ -1,11 +1,9 @@
 {
     "a4": [
         "a4Base",
-        "annaffy",
         "genefilter"
     ],
     "a4Base": [
-        "annaffy",
         "genefilter"
     ],
     "abseqR": [
@@ -128,7 +126,6 @@
         "plotly",
         "recipes"
     ],
-    "annaffy": [],
     "annmap": [
         "genefilter"
     ],
@@ -7200,9 +7197,7 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "webbioc": [
-        "annaffy"
-    ],
+    "webbioc": [],
     "wiggleplotr": [],
     "wpm": [],
     "wppi": [
