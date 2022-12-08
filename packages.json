@@ -286,9 +286,7 @@
     "Macarron": [
         "Maaslin2"
     ],
-    "MAGAR": [
-        "RnBeads"
-    ],
+    "MAGAR": [],
     "MAGeCKFlute": [],
     "MAIT": [],
     "MEAL": [
@@ -491,7 +489,6 @@
         "recount",
         "rstatix"
     ],
-    "RnBeads": [],
     "rqt": [],
     "RTCGA": [
         "ggpubr",
