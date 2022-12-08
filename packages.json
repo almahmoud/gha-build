@@ -759,7 +759,6 @@
     "DEFormats": [
         "DESeq2"
     ],
-    "DEGraph": [],
     "DEGreport": [
         "DESeq2"
     ],
