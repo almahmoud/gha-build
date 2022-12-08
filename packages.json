@@ -1750,7 +1750,6 @@
         "lme4",
         "lmerTest"
     ],
-    "MuData": [],
     "MultiBaC": [],
     "multicrispr": [
         "CRISPRseek",
