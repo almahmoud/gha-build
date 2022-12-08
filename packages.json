@@ -23577,7 +23577,6 @@
         "tidyselect"
     ],
     "phenomis": [
-        "BWStest",
         "BiocFileCache",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -30007,7 +30006,6 @@
     "signeR": [
         "AnnotationDbi",
         "BSgenome",
-        "BWStest",
         "BiocFileCache",
         "Biostrings",
         "GenomicAlignments",
@@ -35137,7 +35135,6 @@
         "AnnotationFilter",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
-        "BWStest",
         "BiocFileCache",
         "Biostrings",
         "GGally",
@@ -39409,10 +39406,7 @@
         "knitr",
         "stringr"
     ],
-    "PMCMRplus": [
-        "BWStest"
-    ],
-    "BWStest": [],
+    "PMCMRplus": [],
     "SmoothWin": [],
     "osfr": [
         "pillar",
