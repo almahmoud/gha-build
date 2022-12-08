@@ -541,9 +541,7 @@
         "rtracklayer",
         "tidyr"
     ],
-    "BANDITS": [
-        "DRIMSeq"
-    ],
+    "BANDITS": [],
     "bandle": [
         "BiocFileCache",
         "BiocStyle",
@@ -2904,8 +2902,7 @@
         "waldo"
     ],
     "DifferentialRegulation": [
-        "BANDITS",
-        "DRIMSeq"
+        "BANDITS"
     ],
     "diffHic": [
         "BSgenome",
@@ -3083,7 +3080,6 @@
         "readr",
         "tidyr"
     ],
-    "DRIMSeq": [],
     "DropletUtils": [
         "scuttle"
     ],
@@ -5449,7 +5445,6 @@
         "BiocFileCache",
         "DESeq2",
         "DEXSeq",
-        "DRIMSeq",
         "GenomicFeatures",
         "annotate",
         "biomaRt",
