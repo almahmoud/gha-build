@@ -29883,7 +29883,6 @@
         "mlr3tuning",
         "multtest",
         "nloptr",
-        "paradox",
         "phyloseq",
         "pillar",
         "progress",
@@ -39828,22 +39827,15 @@
         "tibble",
         "tidyselect"
     ],
-    "mlr3": [
-        "paradox"
-    ],
+    "mlr3": [],
     "mlr3learners": [
-        "mlr3",
-        "paradox"
+        "mlr3"
     ],
     "mlr3tuning": [
         "bbotk",
-        "mlr3",
-        "paradox"
+        "mlr3"
     ],
-    "paradox": [],
-    "bbotk": [
-        "paradox"
-    ],
+    "bbotk": [],
     "survivalAnalysis": [
         "broom",
         "car",
