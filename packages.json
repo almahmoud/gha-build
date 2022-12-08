@@ -228,7 +228,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "ggfortify",
         "lme4",
         "mGSZ",
         "nloptr",
@@ -3031,8 +3030,7 @@
         "DESeq2",
         "MultiAssayExperiment",
         "biomaRt",
-        "geneplotter",
-        "ggfortify"
+        "geneplotter"
     ],
     "HGC": [],
     "hiAnnotator": [],
@@ -3168,7 +3166,6 @@
         "GenomicFeatures",
         "IVAS",
         "biomaRt",
-        "ggfortify",
         "lme4",
         "nloptr",
         "testthat"
@@ -3352,7 +3349,6 @@
     "IVAS": [
         "GenomicFeatures",
         "biomaRt",
-        "ggfortify",
         "lme4",
         "nloptr",
         "testthat"
@@ -5247,7 +5243,6 @@
     "proBatch": [
         "WGCNA",
         "genefilter",
-        "ggfortify",
         "lme4",
         "nloptr",
         "pvca",
@@ -7558,7 +7553,6 @@
         "biomaRt"
     ],
     "mGSZ": [],
-    "ggfortify": [],
     "tidyverse": [
         "broom",
         "haven",
