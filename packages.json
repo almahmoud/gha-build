@@ -2421,9 +2421,7 @@
         "rtracklayer"
     ],
     "cleaver": [],
-    "clippda": [
-        "rgl"
-    ],
+    "clippda": [],
     "clipper": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -3397,7 +3395,6 @@
         "plsVarSel",
         "recipes",
         "rematch2",
-        "rgl",
         "rtracklayer",
         "sva",
         "testthat",
@@ -5064,9 +5061,7 @@
         "readr",
         "rtracklayer"
     ],
-    "fCI": [
-        "rgl"
-    ],
+    "fCI": [],
     "fcoex": [
         "AnnotationDbi",
         "DOSE",
@@ -5477,7 +5472,6 @@
         "plsVarSel",
         "recipes",
         "rematch2",
-        "rgl",
         "rtracklayer",
         "sva",
         "testthat",
@@ -6715,7 +6709,6 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "rgl",
         "rtracklayer",
         "tidyr"
     ],
@@ -9136,7 +9129,6 @@
         "patchwork",
         "qvalue",
         "readr",
-        "rgl",
         "rvest",
         "scatterpie",
         "shadowtext",
@@ -10056,8 +10048,7 @@
         "waldo"
     ],
     "NormqPCR": [
-        "qpcR",
-        "rgl"
+        "qpcR"
     ],
     "normr": [
         "GenomicAlignments",
@@ -10261,7 +10252,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "rgl",
         "rstatix",
         "rtracklayer",
         "rvest",
@@ -10390,9 +10380,7 @@
         "testthat",
         "waldo"
     ],
-    "optimalFlow": [
-        "rgl"
-    ],
+    "optimalFlow": [],
     "OPWeight": [
         "qvalue"
     ],
@@ -11746,8 +11734,7 @@
     ],
     "Rbowtie2": [],
     "Rcade": [
-        "GenomicAlignments",
-        "rgl"
+        "GenomicAlignments"
     ],
     "RCAS": [
         "AnnotationDbi",
@@ -11818,9 +11805,7 @@
     "RCy3": [
         "IRkernel"
     ],
-    "RDRToolbox": [
-        "rgl"
-    ],
+    "RDRToolbox": [],
     "ReactomeGraph4R": [
         "neo4r",
         "tidyr"
@@ -15250,9 +15235,7 @@
         "slingshot",
         "viridis"
     ],
-    "TrajectoryGeometry": [
-        "rgl"
-    ],
+    "TrajectoryGeometry": [],
     "TrajectoryUtils": [
         "SingleCellExperiment"
     ],
@@ -15316,7 +15299,6 @@
     "traviz": [
         "SingleCellExperiment",
         "TrajectoryUtils",
-        "rgl",
         "slingshot",
         "viridis"
     ],
@@ -15433,8 +15415,7 @@
         "kml",
         "kmlShape",
         "longitudinalData",
-        "prettydoc",
-        "rgl"
+        "prettydoc"
     ],
     "ttgsea": [
         "DiagrammeR",
@@ -15448,9 +15429,7 @@
         "tidyr",
         "viridis"
     ],
-    "TTMap": [
-        "rgl"
-    ],
+    "TTMap": [],
     "tweeDEseq": [],
     "twoddpcr": [],
     "txcutr": [
@@ -16764,7 +16743,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "rgl": [],
     "phylobase": [
         "RNeXML",
         "tidyr"
@@ -16903,8 +16881,7 @@
         "waldo"
     ],
     "plsVarSel": [
-        "MSQC",
-        "rgl"
+        "MSQC"
     ],
     "arm": [
         "lme4",
@@ -16913,9 +16890,7 @@
         "testthat",
         "waldo"
     ],
-    "MSQC": [
-        "rgl"
-    ],
+    "MSQC": [],
     "DAPARdata": [
         "MSnbase",
         "vsn"
@@ -17347,9 +17322,7 @@
         "tidyr"
     ],
     "MKmisc": [],
-    "HiveR": [
-        "rgl"
-    ],
+    "HiveR": [],
     "gghalves": [],
     "anyLib": [
         "devtools",
@@ -17395,9 +17368,7 @@
         "viridis",
         "waldo"
     ],
-    "qpcR": [
-        "rgl"
-    ],
+    "qpcR": [],
     "NxtIRFdata": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -17780,15 +17751,11 @@
     ],
     "kmlShape": [
         "kml",
-        "longitudinalData",
-        "rgl"
+        "longitudinalData"
     ],
-    "longitudinalData": [
-        "rgl"
-    ],
+    "longitudinalData": [],
     "kml": [
-        "longitudinalData",
-        "rgl"
+        "longitudinalData"
     ],
     "mirbase.db": [
         "AnnotationDbi"
