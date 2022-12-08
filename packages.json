@@ -29,7 +29,6 @@
     ],
     "Anaquin": [],
     "ANCOMBC": [
-        "TreeSummarizedExperiment",
         "lme4",
         "lmerTest",
         "mia"
@@ -92,7 +91,6 @@
     "BBCAnalyzer": [],
     "benchdamic": [
         "ANCOMBC",
-        "TreeSummarizedExperiment",
         "lme4",
         "lmerTest",
         "mia"
@@ -202,9 +200,7 @@
         "RTCGAToolbox",
         "cBioPortalData"
     ],
-    "CBEA": [
-        "TreeSummarizedExperiment"
-    ],
+    "CBEA": [],
     "cBioPortalData": [
         "RTCGAToolbox"
     ],
@@ -641,9 +637,7 @@
     ],
     "exomePeak2": [],
     "ExperimentHubData": [],
-    "ExperimentSubset": [
-        "TreeSummarizedExperiment"
-    ],
+    "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
@@ -1197,14 +1191,9 @@
         "minfi"
     ],
     "MetID": [],
-    "mia": [
-        "TreeSummarizedExperiment"
-    ],
-    "miaSim": [
-        "TreeSummarizedExperiment"
-    ],
+    "mia": [],
+    "miaSim": [],
     "miaViz": [
-        "TreeSummarizedExperiment",
         "ggtree",
         "mia"
     ],
@@ -1215,7 +1204,6 @@
     ],
     "microbiomeMarker": [
         "ANCOMBC",
-        "TreeSummarizedExperiment",
         "ggtree",
         "lme4",
         "lmerTest",
@@ -2105,7 +2093,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "TreeSummarizedExperiment": [],
     "trena": [],
     "tscR": [],
     "ttgsea": [
