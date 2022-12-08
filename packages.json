@@ -7247,7 +7247,6 @@
         "irlba",
         "isoband",
         "iterators",
-        "janeaustenr",
         "jpeg",
         "jquerylib",
         "knitr",
@@ -47744,7 +47743,6 @@
         "gtable",
         "hunspell",
         "isoband",
-        "janeaustenr",
         "labeling",
         "lattice",
         "lifecycle",
@@ -50479,7 +50477,6 @@
         "gitcreds",
         "httr",
         "hunspell",
-        "janeaustenr",
         "lattice",
         "lifecycle",
         "magrittr",
@@ -127546,7 +127543,6 @@
         "digest",
         "dplyr",
         "hunspell",
-        "janeaustenr",
         "lattice",
         "lifecycle",
         "magrittr",
@@ -127593,7 +127589,6 @@
         "Rcpp",
         "digest"
     ],
-    "janeaustenr": [],
     "tokenizers": [
         "Rcpp",
         "stringi"
@@ -135913,7 +135908,6 @@
         "digest",
         "dplyr",
         "hunspell",
-        "janeaustenr",
         "lattice",
         "lifecycle",
         "magrittr",
