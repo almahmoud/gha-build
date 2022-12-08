@@ -28422,7 +28422,6 @@
         "bookdown",
         "bslib",
         "dplyr",
-        "excelR",
         "ggdendro",
         "ggplot2",
         "knitr",
@@ -40202,7 +40201,6 @@
         "knitr",
         "stringr"
     ],
-    "excelR": [],
     "SBGNview.data": [
         "bookdown",
         "bslib",
