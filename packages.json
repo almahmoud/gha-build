@@ -840,7 +840,6 @@
     "DEFormats": [
         "DESeq2"
     ],
-    "DegNorm": [],
     "DEGraph": [],
     "DEGreport": [
         "DESeq2"
