@@ -15277,7 +15277,6 @@
         "vctrs",
         "vroom"
     ],
-    "GEOsubmission": [],
     "gep2pep": [
         "AnnotationDbi",
         "Biostrings",
