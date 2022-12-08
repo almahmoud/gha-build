@@ -62,7 +62,6 @@
         "factoextra",
         "ggpubr"
     ],
-    "DaMiRseq": [],
     "dasper": [
         "ggpubr"
     ],
@@ -112,9 +111,7 @@
     "FuseSOM": [
         "ggpubr"
     ],
-    "GARS": [
-        "DaMiRseq"
-    ],
+    "GARS": [],
     "GDCRNATools": [
         "ggpubr",
         "survminer"
