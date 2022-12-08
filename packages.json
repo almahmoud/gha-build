@@ -2031,7 +2031,6 @@
         "TreeSummarizedExperiment",
         "treeio"
     ],
-    "ExploreModelMatrix": [],
     "extraChIPs": [
         "GenomicFeatures",
         "GenomicInteractions",
