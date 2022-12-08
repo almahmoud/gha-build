@@ -1730,9 +1730,7 @@
     "GSEABenchmarkeR": [
         "EnrichmentBrowser"
     ],
-    "gsean": [
-        "PPInfer"
-    ],
+    "gsean": [],
     "GSReg": [
         "Homo.sapiens",
         "OrganismDbi",
@@ -3072,7 +3070,6 @@
     "ppcseq": [
         "tidybayes"
     ],
-    "PPInfer": [],
     "prebs": [],
     "preciseTAD": [
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
