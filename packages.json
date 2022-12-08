@@ -10630,8 +10630,7 @@
     ],
     "cycle": [
         "Mfuzz",
-        "e1071",
-        "tkWidgets"
+        "e1071"
     ],
     "cydar": [
         "BiocNeighbors",
@@ -26638,8 +26637,7 @@
         "vctrs"
     ],
     "Mfuzz": [
-        "e1071",
-        "tkWidgets"
+        "e1071"
     ],
     "MGFM": [
         "AnnotationDbi",
@@ -31747,9 +31745,7 @@
         "memoise",
         "vctrs"
     ],
-    "OLINgui": [
-        "tkWidgets"
-    ],
+    "OLINgui": [],
     "omada": [
         "NMF",
         "R.cache",
@@ -47650,7 +47646,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tkWidgets",
         "treeio",
         "tweenr",
         "vctrs",
@@ -47753,7 +47748,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "tkWidgets": [],
     "tLOH": [
         "AnnotationDbi",
         "BSgenome",
