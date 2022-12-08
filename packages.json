@@ -2938,12 +2938,8 @@
         "ggbio"
     ],
     "msImpute": [],
-    "msmsEDA": [],
-    "msmsTests": [
-        "msmsEDA"
-    ],
+    "msmsTests": [],
     "MSnID": [
-        "msmsEDA",
         "msmsTests"
     ],
     "MSPrep": [
