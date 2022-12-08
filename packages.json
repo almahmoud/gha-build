@@ -1824,7 +1824,6 @@
         "GO.db",
         "GOstats",
         "GSEABase",
-        "IRdisplay",
         "IRkernel",
         "RCy3",
         "annotate",
@@ -2103,7 +2102,6 @@
         "GOSemSim",
         "GenomicTools",
         "HDO.db",
-        "IRdisplay",
         "IRkernel",
         "RCy3",
         "annotate",
@@ -3924,7 +3922,6 @@
         "viridis"
     ],
     "DEGraph": [
-        "IRdisplay",
         "IRkernel",
         "NCIgraph",
         "RCy3"
@@ -5491,7 +5488,6 @@
         "TrajectoryUtils"
     ],
     "fedup": [
-        "IRdisplay",
         "IRkernel",
         "RCy3",
         "ggthemes"
@@ -8721,7 +8717,6 @@
         "GO.db",
         "GOSemSim",
         "HDO.db",
-        "IRdisplay",
         "IRkernel",
         "RCy3",
         "RecordLinkage",
@@ -9742,7 +9737,6 @@
         "tidyr"
     ],
     "MOGAMUN": [
-        "IRdisplay",
         "IRkernel",
         "RCy3"
     ],
@@ -10540,7 +10534,6 @@
         "xcms"
     ],
     "NCIgraph": [
-        "IRdisplay",
         "IRkernel",
         "RCy3"
     ],
@@ -10694,7 +10687,6 @@
         "GSEABase",
         "GenomicAlignments",
         "GenomicFeatures",
-        "IRdisplay",
         "IRkernel",
         "RCy3",
         "Rsamtools",
@@ -12699,7 +12691,6 @@
         "vroom"
     ],
     "RCy3": [
-        "IRdisplay",
         "IRkernel"
     ],
     "RDRToolbox": [
@@ -12899,7 +12890,6 @@
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
-        "IRdisplay",
         "IRkernel",
         "RCy3",
         "Rsamtools",
@@ -16235,7 +16225,6 @@
         "GO.db",
         "GOSemSim",
         "HDO.db",
-        "IRdisplay",
         "IRkernel",
         "MultiAssayExperiment",
         "RCy3",
@@ -16464,7 +16453,6 @@
         "topGO"
     ],
     "transomics2cytoscape": [
-        "IRdisplay",
         "IRkernel",
         "RCy3"
     ],
@@ -17881,10 +17869,7 @@
         "tidyr",
         "waldo"
     ],
-    "IRkernel": [
-        "IRdisplay"
-    ],
-    "IRdisplay": [],
+    "IRkernel": [],
     "rapportools": [],
     "rintrojs": [],
     "enrichR": [],
