@@ -1,10 +1,10 @@
 # Summary
 
-3758 built packages
+3760 built packages
 
 18 failed packages
 
-34 unclaimed packages
+32 unclaimed packages
 
 
 
@@ -30,7 +30,7 @@
 | [spp](https://github.com/almahmoud/gha-build/actions/runs/3650360818/jobs/6166382771)             | Failed   | N/A: CRAN Package                                                                  | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/spp)             | [CRAN Package 'spp'](https://cran.r-project.org/web/packages/spp/index.html) archived. Extracted text: Archived on 2022-11-20 as issues were not corrected despite reminders.                      |
 | [vbsr](https://github.com/almahmoud/gha-build/actions/runs/3650360818/jobs/6166381575)            | Failed   | N/A: CRAN Package                                                                  | [Build Log](https://github.com/almahmoud/gha-build/blob/main/lists/failed/vbsr)            | [CRAN Package 'vbsr'](https://cran.r-project.org/web/packages/vbsr/index.html) archived. Extracted text: Archived on 2022-05-23 as email to the maintainer is undeliverable.                       |
 
-## Unclaimed (34)
+## Unclaimed (32)
 | Package                                                                                                 | Status    | Tarball   |
 |---------------------------------------------------------------------------------------------------------|-----------|-----------|
 | ASpediaFI                                                                                               | Unclaimed |           |
@@ -54,13 +54,11 @@
 | MethCP                                                                                                  | Unclaimed |           |
 | methylSig                                                                                               | Unclaimed |           |
 | miRSM                                                                                                   | Unclaimed |           |
-| [miRspongeR](https://github.com/almahmoud/gha-build/actions/runs/3652545935/jobs/6171068845)            | Unclaimed |           |
 | [musicatk](https://github.com/almahmoud/gha-build/actions/runs/3652506338/jobs/6171028650)              | Unclaimed |           |
 | NBSplice                                                                                                | Unclaimed |           |
 | netbiov                                                                                                 | Unclaimed |           |
 | scRecover                                                                                               | Unclaimed |           |
 | [signeR](https://github.com/almahmoud/gha-build/actions/runs/3652547865/jobs/6171097063)                | Unclaimed |           |
-| [signifinder](https://github.com/almahmoud/gha-build/actions/runs/3652533010/jobs/6171056698)           | Unclaimed |           |
 | sojourner                                                                                               | Unclaimed |           |
 | [TCGAbiolinksGUI](https://github.com/almahmoud/gha-build/actions/runs/3652541536/jobs/6171065224)       | Unclaimed |           |
 | TDARACNE                                                                                                | Unclaimed |           |
@@ -68,7 +66,7 @@
 | TraRe                                                                                                   | Unclaimed |           |
 | treekoR                                                                                                 | Unclaimed |           |
 
-## Succeeded (3758)
+## Succeeded (3760)
 | Package                                                                                                                         | Status    | Tarball                                                                                                                                                                                                                                |
 |---------------------------------------------------------------------------------------------------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [a4](almahmoud/gha-build/actions/runs/3651795783)                                                                               | Succeeded | [a4_1.46.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/a4_1.46.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                     |
@@ -1256,6 +1254,7 @@
 | [miRNAmeConverter](https://github.com/almahmoud/gha-build/actions/runs/3651481762/jobs/6168763163)                              | Succeeded | [miRNAmeConverter_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/miRNAmeConverter_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                                                         |
 | [miRNApath](https://github.com/almahmoud/gha-build/actions/runs/3650280461/jobs/6166126037)                                     | Succeeded | [miRNApath_1.58.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/miRNApath_1.58.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | [miRNAtap](https://github.com/almahmoud/gha-build/actions/runs/3651361977/jobs/6168510340)                                      | Succeeded | [miRNAtap_1.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/miRNAtap_1.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
+| [miRspongeR](https://github.com/almahmoud/gha-build/actions/runs/3652545935/jobs/6171068845)                                    | Succeeded | [miRspongeR_2.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/miRspongeR_2.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | [mirTarRnaSeq](https://github.com/almahmoud/gha-build/actions/runs/3651204594/jobs/6168249535)                                  | Succeeded | [mirTarRnaSeq_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/mirTarRnaSeq_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
 | [missMethyl](https://github.com/almahmoud/gha-build/actions/runs/3652325211/jobs/6170733787)                                    | Succeeded | [missMethyl_1.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/missMethyl_1.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                     |
 | [missRows](https://github.com/almahmoud/gha-build/actions/runs/3651793030/jobs/6169442049)                                      | Succeeded | [missRows_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/missRows_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
@@ -1891,6 +1890,7 @@
 | [siggenes](https://github.com/almahmoud/gha-build/actions/runs/3650973591/jobs/6167759556)                                      | Succeeded | [siggenes_1.72.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/siggenes_1.72.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
 | [sights](https://github.com/almahmoud/gha-build/actions/runs/3651487839/jobs/6168981523)                                        | Succeeded | [sights_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/sights_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                             |
 | [signatureSearch](https://github.com/almahmoud/gha-build/actions/runs/3652325211/jobs/6170739421)                               | Succeeded | [signatureSearch_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/signatureSearch_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                                           |
+| [signifinder](https://github.com/almahmoud/gha-build/actions/runs/3652533010/jobs/6171056698)                                   | Succeeded | [signifinder_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/signifinder_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                     |
 | [sigPathway](https://github.com/almahmoud/gha-build/actions/runs/3650360818/jobs/6166381221)                                    | Succeeded | [sigPathway_1.66.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/sigPathway_1.66.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                     |
 | [SigsPack](https://github.com/almahmoud/gha-build/actions/runs/3652015157/jobs/6170065956)                                      | Succeeded | [SigsPack_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/SigsPack_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
 | [sigsquared](https://github.com/almahmoud/gha-build/actions/runs/3650906628/jobs/6167630481)                                    | Succeeded | [sigsquared_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/sigsquared_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                     |
