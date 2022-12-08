@@ -42042,7 +42042,6 @@
         "patchwork",
         "pillar",
         "plotly",
-        "proxyC",
         "reshape2",
         "rhdf5",
         "scales",
@@ -44561,7 +44560,6 @@
         "multtest",
         "phyloseq",
         "pillar",
-        "proxyC",
         "reshape2",
         "rhdf5",
         "scales",
@@ -44657,7 +44655,6 @@
         "httr",
         "memoise",
         "org.Hs.eg.db",
-        "proxyC",
         "vctrs"
     ],
     "sincell": [
@@ -59067,7 +59064,6 @@
         "vctrs"
     ],
     "copula": [],
-    "proxyC": [],
     "extRemes": [],
     "torch": [
         "callr"
