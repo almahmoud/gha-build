@@ -62,9 +62,7 @@
     ],
     "biomvRCNS": [],
     "BitSeq": [],
-    "blacksheepr": [
-        "pasilla"
-    ],
+    "blacksheepr": [],
     "BOBaFIT": [],
     "borealis": [
         "DSS"
@@ -1117,7 +1115,6 @@
     "radiant.data": [
         "car"
     ],
-    "pasilla": [],
     "GenomicState": [
         "derfinder"
     ],
