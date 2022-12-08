@@ -82486,7 +82486,6 @@
         "vctrs",
         "viridis"
     ],
-    "weaver": [],
     "webbioc": [
         "AnnotationDbi",
         "Biobase",
