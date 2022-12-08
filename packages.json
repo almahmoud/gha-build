@@ -7317,7 +7317,6 @@
     ],
     "PICS": [],
     "Pigengene": [
-        "C50",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -11585,7 +11584,6 @@
     "verification": [
         "fields"
     ],
-    "C50": [],
     "tidybayes": [
         "ggdist",
         "posterior"
