@@ -4042,9 +4042,7 @@
         "ensembldb",
         "phastCons100way.UCSC.hg38"
     ],
-    "PrInCE": [
-        "forecast"
-    ],
+    "PrInCE": [],
     "proActiv": [
         "DESeq2",
         "GenomicFeatures"
@@ -6199,7 +6197,6 @@
     "phastCons100way.UCSC.hg38": [
         "GenomicScores"
     ],
-    "forecast": [],
     "EnsDb.Mmusculus.v79": [
         "GenomicFeatures",
         "ensembldb"
