@@ -1343,7 +1343,6 @@
         "Hmisc",
         "KEGGREST",
         "htmlTable",
-        "imager",
         "precrec",
         "rms",
         "topGO",
@@ -13781,7 +13780,6 @@
         "BiocFileCache",
         "KEGGREST",
         "dbplyr",
-        "imager",
         "rGenomeTracksData"
     ],
     "RGMQL": [
@@ -18769,7 +18767,6 @@
         "viridis"
     ],
     "precrec": [],
-    "imager": [],
     "synaptome.db": [
         "AnnotationDbi",
         "AnnotationHub",
