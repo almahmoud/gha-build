@@ -5519,7 +5519,6 @@
         "MultiAssayExperiment",
         "TCGAutils"
     ],
-    "TFARM": [],
     "TFBSTools": [
         "CNEr"
     ],
