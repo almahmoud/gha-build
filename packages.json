@@ -8652,7 +8652,6 @@
     ],
     "rWikiPathways": [],
     "safe": [],
-    "SAIGEgds": [],
     "sampleClassifier": [
         "BiocFileCache",
         "MGFM",
