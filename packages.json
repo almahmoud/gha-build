@@ -27962,7 +27962,6 @@
         "KEGGREST",
         "PSCBS",
         "R.cache",
-        "R.devices",
         "R.filesets",
         "R.huge",
         "R.rsp",
@@ -39774,7 +39773,6 @@
         "KEGGREST",
         "PSCBS",
         "R.cache",
-        "R.devices",
         "R.filesets",
         "R.huge",
         "R.rsp",
@@ -47293,7 +47291,6 @@
     "aroma.affymetrix": [
         "PSCBS",
         "R.cache",
-        "R.devices",
         "R.filesets",
         "R.huge",
         "R.rsp",
@@ -47304,12 +47301,10 @@
     "aroma.core": [
         "PSCBS",
         "R.cache",
-        "R.devices",
         "R.filesets",
         "R.rsp",
         "aroma.light"
     ],
-    "R.devices": [],
     "R.filesets": [
         "R.cache"
     ],
