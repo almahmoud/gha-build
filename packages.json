@@ -283,7 +283,6 @@
         "lumi"
     ],
     "ideal": [],
-    "IMAS": [],
     "InTAD": [
         "ggpubr",
         "rstatix"
