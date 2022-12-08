@@ -1196,7 +1196,6 @@
         "nloptr",
         "testthat"
     ],
-    "compartmap": [],
     "COMPASS": [],
     "compEpiTools": [
         "GenomicFeatures",
