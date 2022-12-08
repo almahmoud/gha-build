@@ -2546,7 +2546,6 @@
         "treeio",
         "tweenr",
         "viridis",
-        "visNetwork",
         "vroom",
         "waldo"
     ],
@@ -2573,8 +2572,7 @@
         "shiny",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "visNetwork"
+        "tidyselect"
     ],
     "BiocFileCache": [
         "RSQLite",
@@ -5684,8 +5682,7 @@
         "tidyr",
         "tidyselect",
         "tweenr",
-        "viridis",
-        "visNetwork"
+        "viridis"
     ],
     "CINdex": [
         "GenomicRanges",
@@ -7169,8 +7166,7 @@
         "shinyjs",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "visNetwork"
+        "tidyselect"
     ],
     "corral": [
         "GenomicRanges",
@@ -7248,7 +7244,6 @@
         "tidyr",
         "tidyselect",
         "viper",
-        "visNetwork",
         "vroom"
     ],
     "COTAN": [
@@ -8745,7 +8740,6 @@
         "tidyselect",
         "ttgsea",
         "viridis",
-        "visNetwork",
         "vroom",
         "webchem"
     ],
@@ -10682,7 +10676,6 @@
         "treeio",
         "tweenr",
         "viridis",
-        "visNetwork",
         "vroom",
         "waldo"
     ],
@@ -11384,7 +11377,6 @@
         "treeio",
         "tweenr",
         "viridis",
-        "visNetwork",
         "vroom"
     ],
     "escape": [
@@ -12386,8 +12378,7 @@
         "ggrepel",
         "pillar",
         "stringr",
-        "tibble",
-        "visNetwork"
+        "tibble"
     ],
     "flowMap": [
         "reshape2",
@@ -13378,7 +13369,6 @@
         "tippy",
         "tweenr",
         "viridis",
-        "visNetwork",
         "waiter"
     ],
     "geneXtendeR": [
@@ -13784,7 +13774,6 @@
         "tidyselect",
         "ttgsea",
         "viridis",
-        "visNetwork",
         "vroom",
         "webchem"
     ],
@@ -14453,7 +14442,6 @@
         "tidyr",
         "tidyselect",
         "viridis",
-        "visNetwork",
         "vroom"
     ],
     "GOexpress": [
@@ -15789,7 +15777,6 @@
         "tibble",
         "tidyselect",
         "tweenr",
-        "visNetwork",
         "webshot"
     ],
     "hyperdraw": [
@@ -16277,7 +16264,6 @@
         "testthat",
         "tibble",
         "usethis",
-        "visNetwork",
         "waldo",
         "xopen"
     ],
@@ -16567,7 +16553,6 @@
         "umap",
         "usethis",
         "viridis",
-        "visNetwork",
         "waldo",
         "wordcloud2"
     ],
@@ -18486,8 +18471,7 @@
         "pillar",
         "stringr",
         "tibble",
-        "viridis",
-        "visNetwork"
+        "viridis"
     ],
     "mBPCR": [
         "Biostrings",
@@ -25081,7 +25065,6 @@
         "tidyselect",
         "verification",
         "viridis",
-        "visNetwork",
         "waldo"
     ],
     "pdInfoBuilder": [
@@ -25306,8 +25289,7 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "visNetwork"
+        "tidyselect"
     ],
     "PhenoGeneRanker": [
         "dplyr",
@@ -25568,8 +25550,7 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "tibble",
-        "visNetwork"
+        "tibble"
     ],
     "PICS": [
         "BiocParallel",
@@ -25743,8 +25724,7 @@
         "knitr",
         "rmarkdown",
         "rtracklayer",
-        "stringr",
-        "visNetwork"
+        "stringr"
     ],
     "pkgDepTools": [],
     "planet": [
@@ -27445,8 +27425,7 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "visNetwork"
+        "tidyselect"
     ],
     "RaggedExperiment": [
         "GenomicRanges",
@@ -27752,7 +27731,6 @@
         "tidyr",
         "tidyselect",
         "viridis",
-        "visNetwork",
         "vroom"
     ],
     "RcwlPipelines": [
@@ -27778,7 +27756,6 @@
         "tidyr",
         "tidyselect",
         "viridis",
-        "visNetwork",
         "vroom"
     ],
     "RCX": [],
@@ -31434,7 +31411,6 @@
         "tweenr",
         "uwot",
         "viridis",
-        "visNetwork",
         "webshot"
     ],
     "scTGIF": [
@@ -32240,7 +32216,6 @@
         "treeio",
         "tweenr",
         "viridis",
-        "visNetwork",
         "vroom"
     ],
     "signeR": [
@@ -33400,8 +33375,7 @@
         "tidyr",
         "tidyselect",
         "uwot",
-        "viridis",
-        "visNetwork"
+        "viridis"
     ],
     "spatzie": [
         "AnnotationDbi",
@@ -33926,8 +33900,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "umap",
-        "visNetwork"
+        "umap"
     ],
     "SRAdb": [
         "GEOquery",
@@ -35984,8 +35957,7 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "visNetwork"
+        "tidyselect"
     ],
     "TPP": [
         "biobroom",
@@ -36581,7 +36553,6 @@
         "tidyr",
         "tidyselect",
         "viridis",
-        "visNetwork",
         "vroom"
     ],
     "TTMap": [
@@ -36923,7 +36894,6 @@
         "ttgsea",
         "uwot",
         "viridis",
-        "visNetwork",
         "vroom",
         "webchem"
     ],
@@ -37278,7 +37248,6 @@
         "tidyselect",
         "topGO",
         "viridis",
-        "visNetwork",
         "vroom",
         "webshot"
     ],
@@ -37736,8 +37705,7 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "visNetwork"
+        "tidyselect"
     ],
     "XINA": [
         "RSQLite",
@@ -39328,10 +39296,8 @@
         "tidyr",
         "tidyselect",
         "viridis",
-        "visNetwork",
         "vroom"
     ],
-    "visNetwork": [],
     "gson": [
         "dplyr",
         "pillar",
