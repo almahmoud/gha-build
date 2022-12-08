@@ -2623,7 +2623,6 @@
         "viridis",
         "vsn"
     ],
-    "ARRmNormalization": [],
     "artMS": [
         "AnnotationDbi",
         "Biobase",
