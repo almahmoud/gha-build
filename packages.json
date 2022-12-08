@@ -8901,7 +8901,6 @@
     ],
     "PECA": [
         "annotate",
-        "aroma.affymetrix",
         "genefilter"
     ],
     "peco": [
@@ -12526,8 +12525,7 @@
     "TIN": [
         "GO.db",
         "Hmisc",
-        "WGCNA",
-        "aroma.affymetrix"
+        "WGCNA"
     ],
     "TissueEnrich": [
         "GSEABase",
@@ -14439,7 +14437,6 @@
     "verification": [
         "fields"
     ],
-    "aroma.affymetrix": [],
     "C50": [
         "Cubist"
     ],
