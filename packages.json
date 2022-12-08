@@ -3392,8 +3392,7 @@
     ],
     "ORFik": [
         "DESeq2",
-        "GenomicFeatures",
-        "biomartr"
+        "GenomicFeatures"
     ],
     "Organism.dplyr": [
         "GenomicFeatures"
@@ -3959,8 +3958,7 @@
     "RiboCrypt": [
         "DESeq2",
         "GenomicFeatures",
-        "ORFik",
-        "biomartr"
+        "ORFik"
     ],
     "RiboDiPA": [
         "DESeq2",
@@ -4832,8 +4830,7 @@
     "TFHAZ": [
         "DESeq2",
         "GenomicFeatures",
-        "ORFik",
-        "biomartr"
+        "ORFik"
     ],
     "TFutils": [],
     "tidybulk": [],
@@ -5545,7 +5542,6 @@
         "nloptr",
         "testthat"
     ],
-    "biomartr": [],
     "tfprobability": [],
     "tidybayes": [],
     "phastCons100way.UCSC.hg38": [
