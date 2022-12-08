@@ -2106,9 +2106,7 @@
         "ggtree",
         "ggtreeExtra"
     ],
-    "midasHLA": [
-        "HardyWeinberg"
-    ],
+    "midasHLA": [],
     "MIGSA": [
         "Category",
         "GOstats"
@@ -4046,7 +4044,6 @@
         "ExperimentHubData",
         "OrganismDbi"
     ],
-    "HardyWeinberg": [],
     "cvms": [
         "lme4",
         "nloptr"
