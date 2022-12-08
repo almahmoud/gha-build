@@ -38996,7 +38996,6 @@
         "qvalue",
         "rebus",
         "rebus.datetimes",
-        "rebus.numbers",
         "reshape2",
         "restfulr",
         "rtracklayer",
@@ -83461,11 +83460,9 @@
         "zoo"
     ],
     "rebus": [
-        "rebus.datetimes",
-        "rebus.numbers"
+        "rebus.datetimes"
     ],
     "rebus.datetimes": [],
-    "rebus.numbers": [],
     "mhsmm": [],
     "GeneNet": [],
     "ggmcmc": [
