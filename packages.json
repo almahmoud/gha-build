@@ -1837,7 +1837,6 @@
         "car",
         "ensembldb",
         "lme4",
-        "mygene",
         "pbkrtest"
     ],
     "MetaCyto": [
@@ -2247,7 +2246,6 @@
         "lme4",
         "pbkrtest"
     ],
-    "mygene": [],
     "myvariant": [
         "VariantAnnotation"
     ],
