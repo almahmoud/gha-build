@@ -6585,7 +6585,6 @@
         "treeio",
         "waldo"
     ],
-    "mirTarRnaSeq": [],
     "missMethyl": [
         "BiocFileCache",
         "FDb.InfiniumMethylation.hg19",
