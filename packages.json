@@ -266,9 +266,7 @@
     "coseq": [
         "HTSFilter"
     ],
-    "cosmosR": [
-        "dorothea"
-    ],
+    "cosmosR": [],
     "crisprseekplus": [
         "GUIDEseq"
     ],
@@ -393,7 +391,6 @@
     "DSS": [],
     "easier": [
         "car",
-        "dorothea",
         "ggpubr",
         "pbkrtest",
         "rstatix"
@@ -1708,7 +1705,6 @@
         "rstatix"
     ],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [],
-    "dorothea": [],
     "mbest": [],
     "arm": [],
     "rsq": [],
