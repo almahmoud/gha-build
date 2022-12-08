@@ -429,13 +429,11 @@
         "BSgenome.Ecoli.NCBI.20080805"
     ],
     "BASiCS": [
-        "colourpicker",
         "ggExtra",
         "scran"
     ],
     "BASiCStan": [
         "BASiCS",
-        "colourpicker",
         "ggExtra",
         "scran"
     ],
@@ -1256,7 +1254,6 @@
     ],
     "ChromSCape": [
         "batchelor",
-        "colourpicker",
         "ggrastr",
         "kableExtra",
         "plotly",
@@ -1940,7 +1937,6 @@
         "GOSemSim",
         "aplot",
         "clusterProfiler",
-        "colourpicker",
         "enrichplot",
         "fgsea",
         "genefilter",
@@ -2165,7 +2161,6 @@
     ],
     "DiscoRhythm": [
         "broom",
-        "colourpicker",
         "ggExtra",
         "heatmaply",
         "kableExtra",
@@ -3188,7 +3183,6 @@
         "DESeq2",
         "GO.db",
         "bs4Dash",
-        "colourpicker",
         "geneplotter",
         "plotly"
     ],
@@ -3668,7 +3662,6 @@
         "HiCcompare",
         "broom",
         "car",
-        "colourpicker",
         "ggExtra",
         "ggpubr",
         "lme4",
@@ -3889,7 +3882,6 @@
         "biomaRt",
         "broom",
         "car",
-        "colourpicker",
         "factoextra",
         "ggpubr",
         "golem",
@@ -3971,21 +3963,16 @@
         "readr",
         "rio"
     ],
-    "iSEE": [
-        "colourpicker"
-    ],
+    "iSEE": [],
     "iSEEhex": [
-        "colourpicker",
         "iSEE"
     ],
     "iSEEhub": [
         "AnnotationHub",
         "ExperimentHub",
-        "colourpicker",
         "iSEE"
     ],
     "iSEEu": [
-        "colourpicker",
         "iSEE",
         "iSEEhex"
     ],
@@ -5287,14 +5274,12 @@
     ],
     "MSstatsQC": [
         "MSnbase",
-        "colourpicker",
         "ggExtra",
         "plotly"
     ],
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
-        "colourpicker",
         "ggExtra",
         "plotly"
     ],
@@ -6134,7 +6119,6 @@
         "ExperimentHub",
         "GO.db",
         "OmaDB",
-        "colourpicker",
         "topGO"
     ],
     "Pi": [
@@ -6202,7 +6186,6 @@
     "plotGrouper": [
         "broom",
         "car",
-        "colourpicker",
         "ggpubr",
         "lme4",
         "nloptr",
@@ -6365,7 +6348,6 @@
         "MSnbase",
         "biomaRt",
         "caret",
-        "colourpicker",
         "genefilter",
         "mixtools",
         "pRoloc",
@@ -6435,7 +6417,6 @@
         "biomaRt",
         "broom",
         "bumphunter",
-        "colourpicker",
         "derfinder",
         "highcharter",
         "readr",
@@ -7728,7 +7709,6 @@
         "biomaRt",
         "celda",
         "celldex",
-        "colourpicker",
         "densEstBayes",
         "ensembldb",
         "fishpond",
@@ -7923,7 +7903,6 @@
     "SPIAT": [
         "DropletUtils",
         "SpatialExperiment",
-        "colourpicker",
         "dittoSeq",
         "plotly",
         "xROI"
@@ -8289,7 +8268,6 @@
         "car",
         "caret",
         "clusterProfiler",
-        "colourpicker",
         "enrichplot",
         "ensembldb",
         "fgsea",
@@ -9104,10 +9082,7 @@
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome"
     ],
-    "ggExtra": [
-        "colourpicker"
-    ],
-    "colourpicker": [],
+    "ggExtra": [],
     "heatmaply": [
         "plotly"
     ],
@@ -9798,9 +9773,7 @@
         "org.Hs.eg.db"
     ],
     "sampSurf": [],
-    "xROI": [
-        "colourpicker"
-    ],
+    "xROI": [],
     "miRNAtap.db": [
         "miRNAtap"
     ],
