@@ -2978,7 +2978,6 @@
         "rqubic",
         "rstatix",
         "s4vd",
-        "subspace",
         "testthat",
         "tidyverse",
         "treeio"
@@ -5719,7 +5718,6 @@
     "BSgenome.Hsapiens.UCSC.hg18": [],
     "s4vd": [],
     "BiBitR": [],
-    "subspace": [],
     "cvms": [
         "lme4",
         "nloptr",
