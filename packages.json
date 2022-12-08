@@ -8008,7 +8008,6 @@
         "pillar",
         "tibble"
     ],
-    "densvis": [],
     "DEP": [
         "GenomicRanges",
         "MSnbase",
