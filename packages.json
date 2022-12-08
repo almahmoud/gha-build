@@ -339,7 +339,6 @@
         "ttgsea"
     ],
     "deepSNV": [],
-    "DEGreport": [],
     "DeMixT": [
         "DSS"
     ],
@@ -729,9 +728,7 @@
     ],
     "ISAnalytics": [],
     "IsoformSwitchAnalyzeR": [],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "IVAS": [],
     "ivygapSE": [
         "car",
