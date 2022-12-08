@@ -36807,7 +36807,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "qusage": [],
     "qvalue": [
         "ggplot2",
         "mgcv",
