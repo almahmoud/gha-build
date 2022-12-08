@@ -885,7 +885,6 @@
         "apeglm",
         "bbmle",
         "beachmat",
-        "catdata",
         "circlize",
         "coda",
         "doParallel",
@@ -84916,7 +84915,6 @@
         "Matrix",
         "RcppArmadillo",
         "RcppEigen",
-        "catdata",
         "foreach",
         "glmnet",
         "mgcv",
@@ -84985,7 +84983,6 @@
         "tibble",
         "vctrs"
     ],
-    "catdata": [],
     "speedglm": [
         "Matrix"
     ],
