@@ -2837,7 +2837,6 @@
         "MultiAssayExperiment",
         "NADA",
         "ROCR",
-        "ROI.plugin.lpsolve",
         "RSQLite",
         "Rcgmin",
         "RcppML",
@@ -50149,7 +50148,6 @@
     "corncob": [
         "Biostrings",
         "GenomeInfoDb",
-        "ROI.plugin.lpsolve",
         "Rcgmin",
         "Rvmmin",
         "XVector",
@@ -50183,13 +50181,10 @@
         "Rcgmin",
         "Rvmmin"
     ],
-    "detectseparation": [
-        "ROI.plugin.lpsolve"
-    ],
+    "detectseparation": [],
     "survey": [
         "survival"
     ],
-    "ROI.plugin.lpsolve": [],
     "Rvmmin": [],
     "Rcgmin": [],
     "sjmisc": [
