@@ -26579,7 +26579,6 @@
         "tibble",
         "tidyselect"
     ],
-    "sigsquared": [],
     "SIM": [
         "AnnotationDbi",
         "Biostrings",
