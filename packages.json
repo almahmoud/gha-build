@@ -2345,7 +2345,6 @@
         "Biostrings",
         "Hmisc",
         "KEGGREST",
-        "KEGGgraph",
         "RSQLite",
         "ggplot2",
         "htmlTable",
@@ -2527,7 +2526,6 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "KEGGgraph",
         "PADOG",
         "ROntoTools",
         "RSQLite",
@@ -4521,7 +4519,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "KEGGREST",
-        "KEGGgraph",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -6560,7 +6557,6 @@
         "GenomicRanges",
         "HDO.db",
         "KEGGREST",
-        "KEGGgraph",
         "RSQLite",
         "SummarizedExperiment",
         "annotate",
@@ -6827,7 +6823,6 @@
     "DEGraph": [
         "IRdisplay",
         "IRkernel",
-        "KEGGgraph",
         "NCIgraph",
         "RCy3",
         "repr"
@@ -8002,7 +7997,6 @@
         "GSVA",
         "GenomicRanges",
         "KEGGREST",
-        "KEGGgraph",
         "PADOG",
         "RSQLite",
         "ScaledMatrix",
@@ -8175,7 +8169,6 @@
         "GSEABase",
         "GenomicRanges",
         "KEGGREST",
-        "KEGGgraph",
         "RSQLite",
         "SPIA",
         "SummarizedExperiment",
@@ -10098,7 +10091,6 @@
         "GenomicRanges",
         "HDO.db",
         "KEGGREST",
-        "KEGGgraph",
         "RSQLite",
         "SummarizedExperiment",
         "annotate",
@@ -11600,7 +11592,6 @@
         "GSEABase",
         "GenomicRanges",
         "KEGGREST",
-        "KEGGgraph",
         "RSQLite",
         "SPIA",
         "SummarizedExperiment",
@@ -13441,12 +13432,10 @@
     "kebabs": [
         "Biostrings"
     ],
-    "KEGGgraph": [],
     "KEGGlincs": [
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "KEGGgraph",
         "RSQLite",
         "hgu133a.db",
         "org.Hs.eg.db"
@@ -14107,7 +14096,6 @@
         "GOSemSim",
         "HDO.db",
         "KEGGREST",
-        "KEGGgraph",
         "RSQLite",
         "aplot",
         "babelgene",
@@ -14853,7 +14841,6 @@
         "GenomicRanges",
         "Hmisc",
         "KEGGREST",
-        "KEGGgraph",
         "MWASTools",
         "RSQLite",
         "Rsamtools",
@@ -16108,7 +16095,6 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "KEGGgraph",
         "ROntoTools",
         "RSQLite",
         "ggplot2",
@@ -17709,7 +17695,6 @@
         "Biostrings",
         "GenomicRanges",
         "KEGGREST",
-        "KEGGgraph",
         "SummarizedExperiment",
         "broom",
         "car",
@@ -17966,7 +17951,6 @@
     "NCIgraph": [
         "IRdisplay",
         "IRkernel",
-        "KEGGgraph",
         "RCy3",
         "repr"
     ],
@@ -19458,7 +19442,6 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "KEGGgraph",
         "RSQLite",
         "org.Hs.eg.db"
     ],
@@ -19673,7 +19656,6 @@
         "GOSemSim",
         "HDO.db",
         "KEGGREST",
-        "KEGGgraph",
         "RSQLite",
         "aplot",
         "clusterProfiler",
@@ -22986,7 +22968,6 @@
         "GenomicRanges",
         "HDO.db",
         "KEGGREST",
-        "KEGGgraph",
         "RSQLite",
         "Rsamtools",
         "ShortRead",
@@ -23162,8 +23143,7 @@
     ],
     "ROntoTools": [
         "Biostrings",
-        "KEGGREST",
-        "KEGGgraph"
+        "KEGGREST"
     ],
     "ropls": [
         "GenomicRanges",
@@ -23619,7 +23599,6 @@
         "Biostrings",
         "GenomicRanges",
         "KEGGREST",
-        "KEGGgraph",
         "RSQLite",
         "SBGNview.data",
         "SummarizedExperiment",
@@ -26098,9 +26077,7 @@
         "tibble",
         "tidyselect"
     ],
-    "SPIA": [
-        "KEGGgraph"
-    ],
+    "SPIA": [],
     "SPIAT": [
         "BiocFileCache",
         "DropletUtils",
@@ -27389,7 +27366,6 @@
         "HDO.db",
         "Hmisc",
         "KEGGREST",
-        "KEGGgraph",
         "MultiAssayExperiment",
         "RSQLite",
         "Rsamtools",
@@ -29496,7 +29472,6 @@
         "GSEABase",
         "GenomicRanges",
         "KEGGREST",
-        "KEGGgraph",
         "RSQLite",
         "SPIA",
         "SummarizedExperiment",
