@@ -879,7 +879,6 @@
     "BiocStyle": [
         "bookdown"
     ],
-    "biocthis": [],
     "BiocWorkflowTools": [
         "BiocStyle",
         "bookdown"
@@ -5531,8 +5530,7 @@
         "geneplotter"
     ],
     "HubPub": [
-        "available",
-        "biocthis"
+        "available"
     ],
     "HumanTranscriptomeCompendium": [],
     "hypeR": [
