@@ -497,12 +497,9 @@
     ],
     "crisprDesign": [
         "VariantAnnotation",
-        "crisprScore",
-        "crisprScoreData"
+        "crisprScore"
     ],
-    "crisprScore": [
-        "crisprScoreData"
-    ],
+    "crisprScore": [],
     "CRISPRseek": [],
     "crisprseekplus": [
         "CRISPRseek",
@@ -515,7 +512,6 @@
         "biovizBase",
         "crisprDesign",
         "crisprScore",
-        "crisprScoreData",
         "crisprViz"
     ],
     "crisprViz": [
@@ -523,8 +519,7 @@
         "VariantAnnotation",
         "biovizBase",
         "crisprDesign",
-        "crisprScore",
-        "crisprScoreData"
+        "crisprScore"
     ],
     "cTRAP": [],
     "cummeRbund": [
@@ -3054,7 +3049,6 @@
     "dorothea": [
         "viper"
     ],
-    "crisprScoreData": [],
     "mbest": [
         "lme4"
     ],
