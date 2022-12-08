@@ -6052,7 +6052,6 @@
         "GEOquery",
         "GO.db",
         "GOSemSim",
-        "HiveR",
         "TCGAbiolinks",
         "aplot",
         "biomaRt",
@@ -11377,7 +11376,6 @@
     "echarts4r": [
         "broom"
     ],
-    "HiveR": [],
     "anyLib": [
         "devtools",
         "testthat",
