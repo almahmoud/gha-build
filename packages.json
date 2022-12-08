@@ -58225,7 +58225,6 @@
     "sevenbridges": [
         "httr",
         "lifecycle",
-        "objectProperties",
         "openssl",
         "stringr",
         "vctrs"
@@ -79065,7 +79064,6 @@
         "urltools",
         "vctrs"
     ],
-    "objectProperties": [],
     "mlr3": [
         "future",
         "future.apply",
