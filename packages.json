@@ -10001,7 +10001,6 @@
         "htmlTable",
         "httr",
         "ipred",
-        "kknn",
         "knitr",
         "latticeExtra",
         "lava",
@@ -15530,7 +15529,6 @@
         "htmlTable",
         "httr",
         "ipred",
-        "kknn",
         "knitr",
         "latticeExtra",
         "lava",
@@ -38989,7 +38987,6 @@
         "hms",
         "httpuv",
         "httr",
-        "kknn",
         "km.ci",
         "knitr",
         "lme4",
@@ -49319,7 +49316,6 @@
         "stringr",
         "vctrs"
     ],
-    "kknn": [],
     "FSelector": [
         "RWeka"
     ],
