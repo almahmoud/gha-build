@@ -4909,8 +4909,7 @@
         "safe"
     ],
     "GSEAmining": [
-        "dendextend",
-        "ggwordcloud"
+        "dendextend"
     ],
     "gsean": [
         "BiocFileCache",
@@ -6864,7 +6863,6 @@
         "ggsignif",
         "ggtree",
         "ggvis",
-        "ggwordcloud",
         "googlesheets4",
         "graphite",
         "groupdata2",
@@ -12222,7 +12220,6 @@
         "annotate",
         "ggforce",
         "ggraph",
-        "ggwordcloud",
         "lexicon",
         "msigdb",
         "org.Hs.eg.db",
@@ -13257,7 +13254,6 @@
         "tidyr"
     ],
     "epiR": [],
-    "ggwordcloud": [],
     "HiContactsData": [
         "AnnotationHub",
         "BiocFileCache",
@@ -13422,7 +13418,6 @@
         "ggvis"
     ],
     "SOMbrero": [
-        "ggwordcloud",
         "metR"
     ],
     "metR": [],
