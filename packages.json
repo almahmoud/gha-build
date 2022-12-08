@@ -201,9 +201,7 @@
         "Category",
         "GOstats"
     ],
-    "AUCell": [
-        "mixtools"
-    ],
+    "AUCell": [],
     "autonomics": [],
     "BaalChIP": [
         "doBy",
@@ -225,7 +223,6 @@
     "bandle": [
         "MLInterfaces",
         "caret",
-        "mixtools",
         "pRoloc",
         "pRolocdata"
     ],
@@ -534,7 +531,6 @@
     ],
     "CBEA": [
         "TreeSummarizedExperiment",
-        "mixtools",
         "treeio"
     ],
     "cBioPortalData": [
@@ -720,7 +716,6 @@
     ],
     "CiteFuse": [
         "ggraph",
-        "mixtools",
         "propr"
     ],
     "ClassifyR": [],
@@ -907,7 +902,6 @@
     ],
     "cosmosR": [
         "dorothea",
-        "mixtools",
         "viper"
     ],
     "countsimQC": [
@@ -1211,7 +1205,6 @@
         "ensembldb"
     ],
     "diggit": [
-        "mixtools",
         "viper"
     ],
     "Dino": [
@@ -1302,7 +1295,6 @@
         "easierData",
         "ggpubr",
         "lme4",
-        "mixtools",
         "nloptr",
         "pbkrtest",
         "progeny",
@@ -1775,9 +1767,7 @@
         "testthat",
         "treeio"
     ],
-    "gemini": [
-        "mixtools"
-    ],
+    "gemini": [],
     "genbankr": [
         "GenomicFeatures",
         "VariantAnnotation"
@@ -1828,9 +1818,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "genomicInstability": [
-        "mixtools"
-    ],
+    "genomicInstability": [],
     "GenomicInteractionNodes": [
         "GenomicFeatures"
     ],
@@ -2248,7 +2236,6 @@
         "ggraph",
         "ggtree",
         "lme4",
-        "mixtools",
         "nloptr",
         "pbkrtest",
         "rstatix",
@@ -2926,9 +2913,7 @@
     "mosbi": [
         "QUBIC"
     ],
-    "Motif2Site": [
-        "mixtools"
-    ],
+    "Motif2Site": [],
     "motifbreakR": [
         "CNEr",
         "GenomicFeatures",
@@ -3618,13 +3603,11 @@
     "projectR": [],
     "pRoloc": [
         "MLInterfaces",
-        "caret",
-        "mixtools"
+        "caret"
     ],
     "pRolocGUI": [
         "MLInterfaces",
         "caret",
-        "mixtools",
         "pRoloc"
     ],
     "PROMISE": [],
@@ -3788,8 +3771,7 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene"
     ],
     "RcisTarget": [
-        "AUCell",
-        "mixtools"
+        "AUCell"
     ],
     "Rcpi": [],
     "Rcwl": [
@@ -4118,7 +4100,6 @@
     "RTN": [
         "car",
         "lme4",
-        "mixtools",
         "nloptr",
         "pbkrtest",
         "testthat",
@@ -4128,7 +4109,6 @@
         "RTN",
         "car",
         "lme4",
-        "mixtools",
         "nloptr",
         "pbkrtest",
         "testthat",
@@ -4139,7 +4119,6 @@
         "RTNduals",
         "car",
         "lme4",
-        "mixtools",
         "nloptr",
         "pbkrtest",
         "testthat",
@@ -4192,8 +4171,7 @@
     ],
     "scClassify": [
         "Cepo",
-        "ggraph",
-        "mixtools"
+        "ggraph"
     ],
     "sccomp": [],
     "scDataviz": [
@@ -4234,8 +4212,7 @@
     "scone": [
         "EDASeq",
         "GenomicFeatures",
-        "RUVSeq",
-        "mixtools"
+        "RUVSeq"
     ],
     "Sconify": [],
     "SCOPE": [
@@ -4480,7 +4457,6 @@
     ],
     "soGGi": [],
     "sojourner": [
-        "mixtools",
         "sampSurf"
     ],
     "SomaticSignatures": [
@@ -4987,9 +4963,7 @@
     "vidger": [
         "DESeq2"
     ],
-    "viper": [
-        "mixtools"
-    ],
+    "viper": [],
     "ViSEAGO": [
         "DiagrammeR",
         "heatmaply"
@@ -5019,7 +4993,6 @@
         "GreyListChIP",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "ensembldb",
-        "mixtools",
         "regioneR",
         "viper"
     ],
@@ -5171,7 +5144,6 @@
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [
         "GenomicFeatures"
     ],
-    "mixtools": [],
     "doBy": [
         "lme4",
         "nloptr",
@@ -5308,7 +5280,6 @@
         "xcms"
     ],
     "dorothea": [
-        "mixtools",
         "viper"
     ],
     "crisprScoreData": [],
