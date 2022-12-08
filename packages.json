@@ -1169,9 +1169,7 @@
         "minfi"
     ],
     "epistasisGA": [],
-    "EpiTxDb": [
-        "tRNAdbImport"
-    ],
+    "EpiTxDb": [],
     "epivizr": [
         "OrganismDbi",
         "bumphunter",
@@ -3850,7 +3848,6 @@
     "tricycle": [],
     "trigger": [],
     "tripr": [],
-    "tRNAdbImport": [],
     "tRNAscanImport": [],
     "tscR": [
         "kmlShape"
