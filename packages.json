@@ -1916,7 +1916,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "CNVgears": [],
     "CNViz": [
         "BSgenome",
         "BiocFileCache",
