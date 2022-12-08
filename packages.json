@@ -848,7 +848,6 @@
     ],
     "EWCE": [
         "car",
-        "ewceData",
         "ggpubr",
         "ggtree",
         "lme4",
@@ -3015,7 +3014,6 @@
         "pbkrtest"
     ],
     "EntropyExplorer": [],
-    "ewceData": [],
     "fda": [],
     "SPARQL": [],
     "NHPoisson": [
