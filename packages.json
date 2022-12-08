@@ -34,7 +34,6 @@
         "openssl",
         "pamr",
         "survival",
-        "varSelRF",
         "vctrs"
     ],
     "a4Base": [
@@ -80,8 +79,7 @@
         "glmnet",
         "gplots",
         "pamr",
-        "survival",
-        "varSelRF"
+        "survival"
     ],
     "a4Core": [
         "Biobase",
@@ -73769,7 +73767,6 @@
         "Matrix",
         "survival"
     ],
-    "varSelRF": [],
     "GO.db": [
         "AnnotationDbi",
         "Biobase",
