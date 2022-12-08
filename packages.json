@@ -448,7 +448,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "GA4GHshiny": [],
     "GARS": [
         "DaMiRseq",
         "FactoMineR",
