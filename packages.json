@@ -1305,7 +1305,6 @@
     ],
     "celda": [
         "ggrastr",
-        "multipanelfigure",
         "scater",
         "scran",
         "scuttle"
@@ -10164,7 +10163,6 @@
         "hgu95a.db",
         "metap",
         "msigdbr",
-        "multipanelfigure",
         "org.Hs.eg.db",
         "plotly",
         "qvalue",
@@ -12120,7 +12118,6 @@
         "tidyr",
         "waldo"
     ],
-    "multipanelfigure": [],
     "FactoMineR": [
         "broom",
         "car",
