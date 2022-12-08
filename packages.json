@@ -980,7 +980,6 @@
         "hms",
         "httr",
         "igraph",
-        "itertools",
         "jquerylib",
         "knitr",
         "lifecycle",
@@ -16238,7 +16237,6 @@
         "httr",
         "igraph",
         "influenceR",
-        "itertools",
         "keras",
         "koRpus",
         "koRpus.lang.en",
@@ -25415,7 +25413,6 @@
         "httr",
         "igraph",
         "influenceR",
-        "itertools",
         "keras",
         "koRpus",
         "koRpus.lang.en",
@@ -33633,7 +33630,6 @@
         "httr",
         "ids",
         "ipred",
-        "itertools",
         "jquerylib",
         "knitr",
         "lava",
@@ -40451,7 +40447,6 @@
         "ggplot2",
         "highr",
         "httr",
-        "itertools",
         "knitr",
         "lifecycle",
         "lme4",
@@ -47803,7 +47798,6 @@
         "XVector",
         "doRNG",
         "ggplot2",
-        "itertools",
         "lifecycle",
         "mgcv",
         "missForest",
@@ -48666,7 +48660,6 @@
         "ggrepel",
         "htmlwidgets",
         "httr",
-        "itertools",
         "lifecycle",
         "mgcv",
         "missForest",
@@ -49195,7 +49188,6 @@
         "futile.logger",
         "hms",
         "httr",
-        "itertools",
         "lifecycle",
         "memoise",
         "openssl",
@@ -51275,7 +51267,6 @@
         "cachem",
         "doParallel",
         "httr",
-        "itertools",
         "lifecycle",
         "memoise",
         "openssl",
@@ -53732,7 +53723,6 @@
         "ggplot2",
         "htmlwidgets",
         "httr",
-        "itertools",
         "jquerylib",
         "lifecycle",
         "mgcv",
@@ -68285,7 +68275,6 @@
         "igraph",
         "influenceR",
         "irlba",
-        "itertools",
         "keras",
         "koRpus",
         "koRpus.lang.en",
@@ -71092,7 +71081,6 @@
         "doSNOW",
         "ggplot2",
         "httr",
-        "itertools",
         "lifecycle",
         "mgcv",
         "missForest",
@@ -71120,10 +71108,8 @@
         "vctrs"
     ],
     "missForest": [
-        "doRNG",
-        "itertools"
+        "doRNG"
     ],
-    "itertools": [],
     "doRNG": [],
     "RSpectra": [
         "Matrix",
@@ -76186,9 +76172,7 @@
     "CatEncoders": [
         "Matrix"
     ],
-    "rcdk": [
-        "itertools"
-    ],
+    "rcdk": [],
     "webchem": [
         "dplyr",
         "httr",
