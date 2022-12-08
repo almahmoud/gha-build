@@ -18799,7 +18799,6 @@
         "ragg",
         "readr",
         "rtracklayer",
-        "scico",
         "stringr",
         "tibble",
         "tidyr",
@@ -30626,7 +30625,6 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "reshape2",
-        "scico",
         "shiny",
         "stringr",
         "syuzhet",
@@ -30655,7 +30653,6 @@
         "ggnewscale",
         "ggplot2",
         "patchwork",
-        "scico",
         "scuttle",
         "sf",
         "spdep",
@@ -34433,7 +34430,6 @@
     "shinyjqui": [
         "shiny"
     ],
-    "scico": [],
     "VarfromPDB": [
         "RISmed",
         "stringr"
