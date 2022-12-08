@@ -1849,9 +1849,7 @@
         "pbkrtest"
     ],
     "npGSEA": [],
-    "NxtIRFcore": [
-        "NxtIRFdata"
-    ],
+    "NxtIRFcore": [],
     "octad": [
         "DESeq2",
         "RUVSeq"
@@ -2553,9 +2551,7 @@
         "lmerTest"
     ],
     "SpidermiR": [],
-    "SpliceWiz": [
-        "NxtIRFdata"
-    ],
+    "SpliceWiz": [],
     "SplicingGraphs": [],
     "splineTimeR": [],
     "SPLINTER": [
@@ -3028,7 +3024,6 @@
         "lme4",
         "pbkrtest"
     ],
-    "NxtIRFdata": [],
     "diceR": [
         "klaR",
         "questionr"
