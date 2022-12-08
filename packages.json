@@ -26455,7 +26455,6 @@
         "mzR",
         "pcaMethods",
         "pillar",
-        "rsm",
         "scales",
         "stringr",
         "survival",
@@ -66190,7 +66189,6 @@
     "wordcloud2": [
         "htmlwidgets"
     ],
-    "rsm": [],
     "AdaptGauss": [
         "DataVisualizations",
         "bslib",
