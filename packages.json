@@ -663,8 +663,7 @@
     "condiments": [
         "Ecume",
         "caret",
-        "distinct",
-        "spatstat"
+        "distinct"
     ],
     "CONFESS": [
         "contrast"
@@ -4096,10 +4095,8 @@
         "rstatix"
     ],
     "Ecume": [
-        "caret",
-        "spatstat"
+        "caret"
     ],
-    "spatstat": [],
     "contrast": [],
     "EnsDb.Hsapiens.v86": [
         "ensembldb"
