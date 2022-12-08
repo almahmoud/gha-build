@@ -22046,7 +22046,6 @@
         "tibble",
         "vctrs"
     ],
-    "methylMnM": [],
     "methylPipe": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -36148,9 +36147,7 @@
         "vctrs",
         "vegan"
     ],
-    "SIMD": [
-        "methylMnM"
-    ],
+    "SIMD": [],
     "SimFFPE": [
         "BiocParallel",
         "Biostrings",
