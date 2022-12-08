@@ -1985,7 +1985,6 @@
     ],
     "scTGIF": [],
     "scTreeViz": [
-        "clustree",
         "epivizr",
         "epivizrData"
     ],
@@ -2485,7 +2484,6 @@
     "EnsDb.Rnorvegicus.v79": [],
     "caretEnsemble": [],
     "Rmagic": [],
-    "clustree": [],
     "survivalAnalysis": [
         "car",
         "ggpubr",
