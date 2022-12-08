@@ -2021,8 +2021,7 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "AneuFinder": [
         "AneuFinderData",
@@ -6776,7 +6775,6 @@
         "viridisLite",
         "waldo",
         "withr",
-        "yulab.utils",
         "zCompositions",
         "zinbwave",
         "zoo"
@@ -7542,8 +7540,7 @@
         "vroom",
         "waldo",
         "withr",
-        "writexl",
-        "yulab.utils"
+        "writexl"
     ],
     "BiocCheck": [
         "BH",
@@ -12168,8 +12165,7 @@
         "vctrs",
         "vegan",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "Cardinal": [
         "BH",
@@ -12727,8 +12723,7 @@
         "treeio",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "cBioPortalData": [
         "AnVIL",
@@ -14081,7 +14076,6 @@
         "viridisLite",
         "withr",
         "xts",
-        "yulab.utils",
         "zoo"
     ],
     "censcyt": [
@@ -14481,8 +14475,7 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "CexoR": [
         "BH",
@@ -15792,8 +15785,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "chipseq": [
         "BH",
@@ -17634,8 +17626,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "clusterSeq": [
         "BH",
@@ -19005,8 +18996,7 @@
         "treeio",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "Cogito": [
         "AnnotationDbi",
@@ -20116,8 +20106,7 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "condiments": [
         "BH",
@@ -25238,8 +25227,7 @@
         "viridis",
         "viridisLite",
         "webshot",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "DECIPHER": [
         "BiocGenerics",
@@ -30105,8 +30093,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "easyreporting": [
         "Rcpp",
@@ -30618,8 +30605,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "wordcloud",
-        "yulab.utils"
+        "wordcloud"
     ],
     "EGAD": [
         "Biobase",
@@ -31427,8 +31413,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "enrichTF": [
         "AnnotationDbi",
@@ -31591,8 +31576,7 @@
         "visNetwork",
         "vroom",
         "waldo",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "ensembldb": [
         "AnnotationDbi",
@@ -31868,8 +31852,7 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "epidecodeR": [
         "BH",
@@ -32251,8 +32234,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "EpiMix": [
         "AnnotationDbi",
@@ -33403,8 +33385,7 @@
         "viridisLite",
         "visNetwork",
         "vroom",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "escape": [
         "AnnotationDbi",
@@ -33879,8 +33860,7 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "ExCluster": [
         "BH",
@@ -34227,8 +34207,7 @@
         "tidytree",
         "treeio",
         "vctrs",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "ExploreModelMatrix": [
         "BiocGenerics",
@@ -34696,8 +34675,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "farms": [
         "Biobase",
@@ -35119,8 +35097,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "fcScan": [
         "AnnotationDbi",
@@ -37674,8 +37651,7 @@
         "vegan",
         "viridisLite",
         "waldo",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "GA4GHclient": [
         "AnnotationDbi",
@@ -38490,7 +38466,6 @@
         "vroom",
         "waldo",
         "withr",
-        "yulab.utils",
         "zoo"
     ],
     "GDSArray": [
@@ -41556,8 +41531,7 @@
         "tweenr",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "GGPA": [
         "GGally",
@@ -41702,8 +41676,7 @@
         "treeio",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "ggtreeDendro": [
         "Matrix",
@@ -41739,8 +41712,7 @@
         "treeio",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "ggtreeExtra": [
         "Matrix",
@@ -41777,8 +41749,7 @@
         "treeio",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "GIGSEA": [
         "Matrix",
@@ -42967,8 +42938,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "goSTAG": [
         "AnnotationDbi",
@@ -43405,7 +43375,6 @@
         "viridisLite",
         "withr",
         "wk",
-        "yulab.utils",
         "zip",
         "zoo"
     ],
@@ -49643,7 +49612,6 @@
         "viridisLite",
         "waldo",
         "withr",
-        "yulab.utils",
         "zoo"
     ],
     "ISAnalytics": [
@@ -51861,8 +51829,7 @@
         "treeio",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "lionessR": [
         "Biobase",
@@ -52685,8 +52652,7 @@
         "treeio",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "M3C": [
         "Matrix",
@@ -53653,8 +53619,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "magrene": [
         "BH",
@@ -55981,8 +55946,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "meshr": [
         "AnnotationDbi",
@@ -57023,8 +56987,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "metapod": [
         "Rcpp"
@@ -58444,8 +58407,7 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "methylInheritance": [
         "BH",
@@ -59354,8 +59316,7 @@
         "vegan",
         "viridis",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "miaSim": [
         "BH",
@@ -59396,8 +59357,7 @@
         "tidytree",
         "treeio",
         "vctrs",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "miaViz": [
         "BH",
@@ -59507,8 +59467,7 @@
         "vegan",
         "viridis",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "MiChip": [
         "Biobase",
@@ -60009,7 +59968,6 @@
         "viridisLite",
         "waldo",
         "withr",
-        "yulab.utils",
         "zCompositions",
         "zoo"
     ],
@@ -60138,7 +60096,6 @@
         "viridisLite",
         "whisker",
         "withr",
-        "yulab.utils",
         "zip"
     ],
     "MicrobiotaProcess": [
@@ -60209,7 +60166,6 @@
         "vegan",
         "viridisLite",
         "withr",
-        "yulab.utils",
         "zoo"
     ],
     "microRNA": [
@@ -61559,8 +61515,7 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "miRspongeR": [
         "AnnotationDbi",
@@ -61772,8 +61727,7 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "mirTarRnaSeq": [
         "Matrix",
@@ -63334,8 +63288,7 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "mosaics": [
         "BH",
@@ -66384,7 +66337,6 @@
         "whisker",
         "withr",
         "xopen",
-        "yulab.utils",
         "zip",
         "zoo"
     ],
@@ -68554,8 +68506,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "netDx": [
         "BH",
@@ -72608,8 +72559,7 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "Oscope": [
         "BH",
@@ -73326,7 +73276,6 @@
         "viridis",
         "viridisLite",
         "withr",
-        "yulab.utils",
         "zoo"
     ],
     "panp": [
@@ -74236,7 +74185,6 @@
         "visNetwork",
         "waldo",
         "withr",
-        "yulab.utils",
         "zoo"
     ],
     "pdInfoBuilder": [
@@ -74805,8 +74753,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "pgca": [],
     "phantasus": [
@@ -75350,8 +75297,7 @@
         "treeio",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "PhIPData": [
         "Biobase",
@@ -75952,7 +75898,6 @@
         "viridis",
         "viridisLite",
         "withr",
-        "yulab.utils",
         "zip"
     ],
     "PING": [
@@ -76432,8 +76377,7 @@
         "tidyselect",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "plotGrouper": [
         "Hmisc",
@@ -78224,8 +78168,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "profileScoreDist": [
         "BiocGenerics",
@@ -82692,8 +82635,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "ReadqPCR": [
         "Biobase",
@@ -86118,8 +86060,7 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "Rmagpie": [
         "Biobase",
@@ -87341,7 +87282,6 @@
         "waldo",
         "withr",
         "xts",
-        "yulab.utils",
         "zoo"
     ],
     "RnaSeqSampleSize": [
@@ -90679,7 +90619,6 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "yulab.utils",
         "zoo"
     ],
     "scCB2": [
@@ -93342,7 +93281,6 @@
         "webshot",
         "withr",
         "wk",
-        "yulab.utils",
         "zoo"
     ],
     "scTGIF": [
@@ -93919,8 +93857,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "segmentSeq": [
         "BH",
@@ -94352,8 +94289,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "SeqGate": [
         "Biobase",
@@ -94512,8 +94448,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "SeqSQC": [
         "AnnotationDbi",
@@ -95682,8 +95617,7 @@
         "viridisLite",
         "visNetwork",
         "vroom",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "signeR": [
         "AnnotationDbi",
@@ -96951,7 +96885,6 @@
         "viridisLite",
         "withr",
         "xgboost",
-        "yulab.utils",
         "zinbwave",
         "zoo"
     ],
@@ -97308,8 +97241,7 @@
         "treeio",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "skewr": [
         "AnnotationDbi",
@@ -99044,8 +98976,7 @@
         "viridis",
         "viridisLite",
         "visNetwork",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "spatzie": [
         "AnnotationDbi",
@@ -103536,8 +103467,7 @@
         "treeio",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "TADCompare": [
         "BH",
@@ -103680,8 +103610,7 @@
         "treeio",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "TAPseq": [
         "AnnotationDbi",
@@ -104421,8 +104350,7 @@
         "vroom",
         "waldo",
         "wheatmap",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "TCGAutils": [
         "AnnotationDbi",
@@ -105674,8 +105602,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "TIN": [
         "AnnotationDbi",
@@ -107387,8 +107314,7 @@
         "tidyselect",
         "tidytree",
         "vctrs",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "treekoR": [
         "ALL",
@@ -107512,7 +107438,6 @@
         "viridisLite",
         "waldo",
         "withr",
-        "yulab.utils",
         "zoo"
     ],
     "TreeSummarizedExperiment": [
@@ -107552,8 +107477,7 @@
         "tidytree",
         "treeio",
         "vctrs",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "TREG": [
         "Biobase",
@@ -108765,8 +108689,7 @@
         "tidyselect",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "UMI4Cats": [
         "AnnotationDbi",
@@ -114391,10 +114314,8 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
-    "yulab.utils": [],
     "AneuFinderData": [],
     "ecp": [
         "Rcpp"
@@ -117852,8 +117773,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "ggnewscale": [
         "Matrix",
@@ -117991,8 +117911,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "gridGraphics": [],
     "gh": [
