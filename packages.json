@@ -1272,7 +1272,6 @@
         "enrichplot"
     ],
     "phantasus": [],
-    "PharmacoGx": [],
     "phenomis": [],
     "PhenStat": [
         "car",
@@ -1777,9 +1776,7 @@
         "lumi",
         "methylumi"
     ],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "YAPSA": [
         "SomaticSignatures",
         "biovizBase",
