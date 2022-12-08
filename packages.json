@@ -5593,7 +5593,6 @@
         "sass",
         "scales",
         "segmented",
-        "sfsmisc",
         "shiny",
         "snow",
         "stringi",
@@ -9968,7 +9967,6 @@
         "rlang",
         "rtracklayer",
         "sandwich",
-        "sfsmisc",
         "snow",
         "survival",
         "vctrs",
@@ -10453,7 +10451,6 @@
         "robustbase",
         "sass",
         "scales",
-        "sfsmisc",
         "snow",
         "snowfall",
         "statmod",
@@ -25537,7 +25534,6 @@
         "sass",
         "scales",
         "selectr",
-        "sfsmisc",
         "shadowtext",
         "sn",
         "snow",
@@ -26047,7 +26043,6 @@
         "rmarkdown",
         "sass",
         "scales",
-        "sfsmisc",
         "snow",
         "sp",
         "stringi",
@@ -33493,7 +33488,6 @@
         "rlang",
         "robustbase",
         "scales",
-        "sfsmisc",
         "snow",
         "snowfall",
         "statmod",
@@ -36441,7 +36435,6 @@
         "rtracklayer",
         "scales",
         "scrime",
-        "sfsmisc",
         "siggenes",
         "snow",
         "sparseMatrixStats",
@@ -37182,7 +37175,6 @@
         "cpp11",
         "cytolib",
         "flowCore",
-        "sfsmisc",
         "zoo"
     ],
     "flowClust": [
@@ -51464,7 +51456,6 @@
         "purrr",
         "rlang",
         "scales",
-        "sfsmisc",
         "stringi",
         "stringr",
         "tibble",
@@ -59311,7 +59302,6 @@
         "scales",
         "sesame",
         "sesameData",
-        "sfsmisc",
         "shiny",
         "snow",
         "stringi",
@@ -62851,7 +62841,6 @@
         "rvest",
         "scales",
         "selectr",
-        "sfsmisc",
         "stabs",
         "stringi",
         "stringr",
@@ -63971,7 +63960,6 @@
         "robustbase",
         "rpart",
         "sass",
-        "sfsmisc",
         "shiny",
         "survival",
         "threejs",
@@ -70139,7 +70127,6 @@
         "rlang",
         "robustbase",
         "scales",
-        "sfsmisc",
         "snow",
         "snowfall",
         "statmod",
@@ -73686,7 +73673,6 @@
         "scales",
         "segmented",
         "seqinr",
-        "sfsmisc",
         "sp",
         "stringi",
         "stringr",
@@ -73778,7 +73764,6 @@
         "scales",
         "segmented",
         "seqinr",
-        "sfsmisc",
         "shiny",
         "shinyBS",
         "shinyjs",
@@ -79527,7 +79512,6 @@
         "openssl",
         "png",
         "rlang",
-        "sfsmisc",
         "survival",
         "vctrs",
         "zlibbioc"
@@ -80548,7 +80532,6 @@
         "sass",
         "scales",
         "segmented",
-        "sfsmisc",
         "shiny",
         "snow",
         "stringi",
@@ -80706,7 +80689,6 @@
         "sass",
         "scales",
         "segmented",
-        "sfsmisc",
         "shiny",
         "shinyWidgets",
         "shinydashboard",
@@ -94492,7 +94474,6 @@
         "rsvd",
         "ruv",
         "scales",
-        "sfsmisc",
         "snow",
         "sparseMatrixStats",
         "statmod",
@@ -98012,7 +97993,6 @@
         "robustbase",
         "rpart",
         "sass",
-        "sfsmisc",
         "shiny",
         "snow",
         "survival",
@@ -99530,7 +99510,6 @@
         "scran",
         "sctransform",
         "scuttle",
-        "sfsmisc",
         "shiny",
         "shinyalert",
         "shinycssloaders",
@@ -119913,7 +119892,6 @@
         "withr"
     ],
     "gdata": [],
-    "sfsmisc": [],
     "ggvis": [
         "Rcpp",
         "base64enc",
@@ -121802,9 +121780,7 @@
         "sandwich",
         "zoo"
     ],
-    "lokern": [
-        "sfsmisc"
-    ],
+    "lokern": [],
     "pasilla": [
         "AnnotationDbi",
         "BH",
@@ -122002,7 +121978,6 @@
         "magrittr",
         "rlang",
         "robustbase",
-        "sfsmisc",
         "vcd",
         "zoo"
     ],
@@ -128473,9 +128448,7 @@
         "htmltools",
         "rlang"
     ],
-    "distr": [
-        "sfsmisc"
-    ],
+    "distr": [],
     "pd.mapping50k.xba240": [
         "Biobase",
         "BiocGenerics",
@@ -131208,8 +131181,7 @@
         "graph"
     ],
     "distrEx": [
-        "distr",
-        "sfsmisc"
+        "distr"
     ],
     "uniqtag": [],
     "AICcmodavg": [
