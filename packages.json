@@ -393,7 +393,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "epialleleR": [],
     "EpiCompare": [
         "ChIPseeker",
         "enrichplot"
