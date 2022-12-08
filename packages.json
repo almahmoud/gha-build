@@ -1075,9 +1075,7 @@
     ],
     "pmm": [],
     "POMA": [],
-    "preciseTAD": [
-        "rCGH"
-    ],
+    "preciseTAD": [],
     "primirTSS": [
         "Gviz"
     ],
@@ -1125,7 +1123,6 @@
         "ggbio"
     ],
     "R453Plus1Toolbox": [],
-    "rCGH": [],
     "ReactomePA": [
         "enrichplot"
     ],
