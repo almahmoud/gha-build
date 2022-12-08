@@ -14638,7 +14638,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "XVector",
-        "aricode",
         "dplyr",
         "futile.logger",
         "gganimate",
@@ -23246,7 +23245,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "aricode",
         "cellranger",
         "cowplot",
         "dendextend",
@@ -37210,7 +37208,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "aricode",
         "beachmat",
         "bluster",
         "bslib",
@@ -59644,7 +59641,6 @@
         "tweenr",
         "vctrs"
     ],
-    "aricode": [],
     "easierData": [
         "AnnotationDbi",
         "AnnotationHub",
