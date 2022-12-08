@@ -19295,7 +19295,6 @@
         "yeastExpData"
     ],
     "GSgalgoR": [
-        "matchingR",
         "survival"
     ],
     "GSReg": [
@@ -53842,7 +53841,6 @@
         "vctrs"
     ],
     "yeastExpData": [],
-    "matchingR": [],
     "BatchJobs": [
         "RSQLite",
         "blob",
