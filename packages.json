@@ -2477,7 +2477,6 @@
     "BiGGR": [
         "hyperdraw",
         "hypergraph",
-        "rsbml",
         "stringr",
         "vctrs"
     ],
@@ -31835,7 +31834,6 @@
         "GenomicRanges",
         "XVector"
     ],
-    "rsbml": [],
     "rScudo": [
         "GenomicRanges",
         "SummarizedExperiment",
