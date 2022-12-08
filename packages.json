@@ -1110,7 +1110,6 @@
         "GOstats"
     ],
     "GNET2": [],
-    "GOpro": [],
     "goseq": [],
     "goSorensen": [
         "clusterProfiler",
