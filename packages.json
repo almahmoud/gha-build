@@ -810,7 +810,6 @@
     "BiocSet": [
         "tidyr"
     ],
-    "BiocSklearn": [],
     "BiocStyle": [],
     "BiocWorkflowTools": [
         "BiocStyle"
