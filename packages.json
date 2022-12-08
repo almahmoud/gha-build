@@ -1139,7 +1139,6 @@
     "metagene": [
         "EnsDb.Hsapiens.v86"
     ],
-    "metaMS": [],
     "MetaPhOR": [
         "clusterProfiler",
         "enrichplot",
