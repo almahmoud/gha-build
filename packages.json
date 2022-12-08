@@ -21652,7 +21652,6 @@
         "ICSNP",
         "ggplot2",
         "glmnet",
-        "huge",
         "multtest",
         "network",
         "pillar",
@@ -30946,8 +30945,7 @@
         "tmvtnorm"
     ],
     "sparsenetgls": [
-        "glmnet",
-        "huge"
+        "glmnet"
     ],
     "SparseSignatures": [
         "BSgenome",
@@ -39265,7 +39263,6 @@
         "stringr"
     ],
     "mppa": [],
-    "huge": [],
     "ICSNP": [
         "ICS",
         "survey"
