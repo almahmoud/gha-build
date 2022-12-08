@@ -12810,8 +12810,7 @@
     ],
     "tidySingleCellExperiment": [
         "plotly",
-        "tidyr",
-        "ttservice"
+        "tidyr"
     ],
     "tidySummarizedExperiment": [
         "plotly",
@@ -15068,7 +15067,6 @@
         "bsplus"
     ],
     "GenKern": [],
-    "ttservice": [],
     "gghighlight": [],
     "bestNormalize": [
         "LambertW",
