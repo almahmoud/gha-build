@@ -1063,8 +1063,7 @@
         "ggpubr",
         "lme4",
         "pbkrtest",
-        "rstatix",
-        "shinyHeatmaply"
+        "rstatix"
     ],
     "GeomxTools": [
         "lme4",
@@ -3001,7 +3000,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "shinyHeatmaply": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
     "datamods": [],
     "adabag": [],
