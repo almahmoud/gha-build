@@ -38797,7 +38797,6 @@
         "memoise",
         "pillar",
         "shiny",
-        "splines2",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -54675,7 +54674,6 @@
         "tibble",
         "vctrs"
     ],
-    "splines2": [],
     "SCATEData": [
         "AnnotationDbi",
         "AnnotationHub",
