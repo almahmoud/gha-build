@@ -588,7 +588,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "GRaNIE": [],
     "GRmetrics": [
         "car",
         "drc",
