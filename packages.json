@@ -7378,7 +7378,6 @@
         "GOSemSim",
         "GenomicRanges",
         "HDO.db",
-        "Harman",
         "KEGGREST",
         "KEGGgraph",
         "RSQLite",
@@ -13356,7 +13355,6 @@
         "pillar",
         "tibble"
     ],
-    "Harman": [],
     "Harshlight": [
         "Biostrings",
         "altcdfenvs"
