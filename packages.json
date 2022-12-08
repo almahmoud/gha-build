@@ -3969,7 +3969,6 @@
         "tidyr",
         "vroom"
     ],
-    "copynumber": [],
     "CopyNumberPlots": [
         "AnnotationDbi",
         "BSgenome",
