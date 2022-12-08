@@ -309,7 +309,6 @@
     ],
     "AnVILBilling": [
         "plotly",
-        "shinytoastr",
         "tidyr"
     ],
     "AnVILPublish": [
@@ -13854,7 +13853,6 @@
         "drawer",
         "plotly",
         "shinydashboardPlus",
-        "shinytoastr",
         "spsComps",
         "tidyr"
     ],
@@ -15167,7 +15165,6 @@
         "tidyr"
     ],
     "ipred": [],
-    "shinytoastr": [],
     "org.Sc.sgd.db": [],
     "Seurat": [
         "cowplot",
@@ -16630,9 +16627,7 @@
         "viridis"
     ],
     "stars": [],
-    "spsComps": [
-        "shinytoastr"
-    ],
+    "spsComps": [],
     "drawer": [
         "bsplus"
     ],
