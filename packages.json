@@ -16727,7 +16727,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "HIREewas": [],
     "HiTC": [
         "BiocParallel",
         "Biostrings",
