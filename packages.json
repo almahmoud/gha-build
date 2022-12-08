@@ -7128,7 +7128,6 @@
         "viridis",
         "waldo"
     ],
-    "cycle": [],
     "cydar": [
         "BiocNeighbors",
         "GenomicRanges",
