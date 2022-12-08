@@ -14,8 +14,7 @@
     ],
     "abseqR": [
         "BiocStyle",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "ACE": [],
     "ADaCGH2": [
@@ -38,7 +37,6 @@
         "pbkrtest",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "adductomicsR": [
@@ -52,8 +50,7 @@
         "GO.db"
     ],
     "AffiXcan": [
-        "MultiAssayExperiment",
-        "tidyr"
+        "MultiAssayExperiment"
     ],
     "affycoretools": [
         "AnnotationForge",
@@ -79,8 +76,7 @@
         "genefilter",
         "geneplotter",
         "ggbio",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "affylmGUI": [],
     "AGDEX": [
@@ -113,8 +109,7 @@
         "genefilter",
         "geneplotter",
         "ggbio",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "airpart": [
         "ggrastr",
@@ -122,8 +117,7 @@
         "scuttle"
     ],
     "alevinQC": [
-        "GGally",
-        "tidyr"
+        "GGally"
     ],
     "AllelicImbalance": [
         "BSgenome",
@@ -138,8 +132,7 @@
         "rtracklayer"
     ],
     "AlphaBeta": [
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "alpine": [
         "BiocFileCache",
@@ -149,8 +142,7 @@
     ],
     "AlpsNMR": [
         "mixOmics",
-        "speaq",
-        "tidyr"
+        "speaq"
     ],
     "AMARETTO": [
         "AnnotationHub",
@@ -158,8 +150,7 @@
         "ExperimentHub",
         "MultiAssayExperiment",
         "curatedTCGAData",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "amplican": [
         "ShortRead"
@@ -182,7 +173,6 @@
         "scater",
         "scuttle",
         "testthat",
-        "tidyr",
         "tidytree",
         "treeio",
         "waldo"
@@ -196,8 +186,7 @@
         "caret",
         "geneplotter",
         "plotly",
-        "recipes",
-        "tidyr"
+        "recipes"
     ],
     "annaffy": [
         "GO.db"
@@ -236,17 +225,13 @@
         "annotate",
         "geneplotter"
     ],
-    "AnVIL": [
-        "tidyr"
-    ],
+    "AnVIL": [],
     "AnVILBilling": [
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "AnVILPublish": [
         "AnVIL",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "APAlyzer": [
         "BSgenome",
@@ -257,8 +242,7 @@
         "annotate",
         "biomaRt",
         "geneplotter",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "apComplex": [
         "org.Sc.sgd.db"
@@ -269,7 +253,6 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "plotly",
-        "tidyr",
         "topGO"
     ],
     "appreci8R": [
@@ -320,8 +303,7 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "arrayQualityMetrics": [
         "Hmisc",
@@ -336,15 +318,13 @@
         "org.Hs.eg.db",
         "plotly",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "ASICS": [
         "MultiAssayExperiment",
         "MultiDataSet",
         "plotly",
-        "ropls",
-        "tidyr"
+        "ropls"
     ],
     "ASpediaFI": [
         "BSgenome",
@@ -364,7 +344,6 @@
         "nloptr",
         "rtracklayer",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "ASpli": [
@@ -378,8 +357,7 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "ASSIGN": [
         "annotate",
@@ -421,7 +399,6 @@
         "rGREAT",
         "readr",
         "rtracklayer",
-        "tidyr",
         "tidyverse"
     ],
     "ATACseqQC": [
@@ -485,13 +462,11 @@
         "GSEABase",
         "annotate",
         "mixtools",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "autonomics": [
         "BiocFileCache",
-        "MultiAssayExperiment",
-        "tidyr"
+        "MultiAssayExperiment"
     ],
     "BaalChIP": [
         "broom",
@@ -500,7 +475,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "BadRegionFinder": [
@@ -522,8 +496,7 @@
         "BiocFileCache",
         "GenomicFeatures",
         "biomaRt",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "BANDITS": [],
     "bandle": [
@@ -542,16 +515,12 @@
         "pRoloc",
         "pRolocdata",
         "plotly",
-        "recipes",
-        "tidyr"
+        "recipes"
     ],
     "banocc": [],
-    "barcodetrackR": [
-        "tidyr"
-    ],
+    "barcodetrackR": [],
     "basecallQC": [
-        "ShortRead",
-        "tidyr"
+        "ShortRead"
     ],
     "Basic4Cseq": [
         "BSgenome",
@@ -583,8 +552,7 @@
         "ggvis",
         "heatmaply",
         "plotly",
-        "sva",
-        "tidyr"
+        "sva"
     ],
     "BayesSpace": [
         "BiocFileCache",
@@ -636,7 +604,6 @@
         "scater",
         "scuttle",
         "testthat",
-        "tidyr",
         "tidytree",
         "treeio",
         "waldo",
@@ -650,7 +617,6 @@
     ],
     "BgeeDB": [
         "GO.db",
-        "tidyr",
         "topGO"
     ],
     "BicARE": [
@@ -674,14 +640,12 @@
         "org.Hs.eg.db",
         "readr",
         "rtracklayer",
-        "tidyr",
         "wateRmelon"
     ],
     "bigPint": [
         "GGally",
         "Hmisc",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "BindingSiteFinder": [
         "BSgenome",
@@ -693,13 +657,11 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "bioassayR": [],
     "biobroom": [
-        "broom",
-        "tidyr"
+        "broom"
     ],
     "bioCancer": [
         "DOSE",
@@ -730,7 +692,6 @@
         "scatterpie",
         "testthat",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio",
         "waldo"
@@ -738,9 +699,7 @@
     "BiocDockerManager": [
         "readr"
     ],
-    "BiocFHIR": [
-        "tidyr"
-    ],
+    "BiocFHIR": [],
     "BiocFileCache": [],
     "biocGraph": [
         "annotate",
@@ -763,7 +722,6 @@
         "rstatix",
         "rtracklayer",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "BioCor": [
@@ -774,9 +732,7 @@
         "BiocFileCache",
         "readr"
     ],
-    "BiocSet": [
-        "tidyr"
-    ],
+    "BiocSet": [],
     "BiocStyle": [],
     "BiocWorkflowTools": [
         "BiocStyle"
@@ -892,8 +848,7 @@
         "MultiAssayExperiment",
         "MultiDataSet",
         "plotly",
-        "ropls",
-        "tidyr"
+        "ropls"
     ],
     "BioTIP": [
         "scran",
@@ -995,8 +950,7 @@
         "ensembldb",
         "ggbio",
         "plyranges",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "borealis": [
         "BSgenome",
@@ -1027,8 +981,7 @@
         "ensembldb",
         "ggbio",
         "org.Hs.eg.db",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "BrainSABER": [
         "BiocFileCache",
@@ -1041,13 +994,11 @@
         "biomaRt",
         "caret",
         "recipes",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "breakpointR": [],
     "brendaDb": [
-        "BiocFileCache",
-        "tidyr"
+        "BiocFileCache"
     ],
     "BRGenomics": [
         "DESeq2",
@@ -1095,8 +1046,7 @@
         "biomaRt",
         "ensembldb",
         "plyranges",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "BUSseq": [],
     "CAFE": [
@@ -1112,8 +1062,7 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "CAGEfightR": [
         "BSgenome",
@@ -1150,14 +1099,12 @@
         "ggnetwork",
         "intergraph",
         "rtracklayer",
-        "sva",
-        "tidyr"
+        "sva"
     ],
     "CAGEr": [
         "BSgenome",
         "MultiAssayExperiment",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "CAMERA": [
         "Hmisc",
@@ -1187,13 +1134,11 @@
         "biomaRt",
         "ggtree",
         "rtracklayer",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
     "CARNIVAL": [
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "casper": [
         "BiocFileCache",
@@ -1215,7 +1160,6 @@
         "scater",
         "scuttle",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "Category": [
@@ -1246,15 +1190,13 @@
         "cBioPortalData",
         "genefilter",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "CBEA": [
         "BiocSet",
         "TreeSummarizedExperiment",
         "mixtools",
         "plotly",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -1268,8 +1210,7 @@
         "TCGAutils",
         "biomaRt",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "cbpManager": [],
     "ccfindR": [],
@@ -1289,18 +1230,13 @@
         "scran",
         "scuttle"
     ],
-    "CellaRepertorium": [
-        "tidyr"
-    ],
+    "CellaRepertorium": [],
     "CellBarcode": [
         "ShortRead"
     ],
-    "cellbaseR": [
-        "tidyr"
-    ],
+    "cellbaseR": [],
     "CellBench": [
-        "BiocFileCache",
-        "tidyr"
+        "BiocFileCache"
     ],
     "cellHTS2": [
         "Category",
@@ -1314,8 +1250,7 @@
         "ggrastr",
         "plotly",
         "scater",
-        "scuttle",
-        "tidyr"
+        "scuttle"
     ],
     "cellity": [
         "GO.db",
@@ -1332,14 +1267,12 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "CellMixS": [
         "ggrastr",
         "scater",
-        "scuttle",
-        "tidyr"
+        "scuttle"
     ],
     "CellTrails": [
         "dendextend"
@@ -1366,7 +1299,6 @@
         "intergraph",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -1383,7 +1315,6 @@
         "pbkrtest",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "Cepo": [
@@ -1392,8 +1323,7 @@
     ],
     "ceRNAnetsim": [
         "ggraph",
-        "tidygraph",
-        "tidyr"
+        "tidygraph"
     ],
     "CeTF": [
         "DESeq2",
@@ -1424,7 +1354,6 @@
         "scatterpie",
         "testthat",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio",
         "waldo"
@@ -1484,20 +1413,17 @@
         "readr",
         "rtracklayer",
         "sva",
-        "tidyr",
         "wateRmelon"
     ],
     "CHETAH": [
         "dendextend",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "ChIC": [
         "ChIC.data",
         "caret",
         "recipes",
-        "spp",
-        "tidyr"
+        "spp"
     ],
     "Chicago": [
         "Hmisc"
@@ -1549,8 +1475,7 @@
         "biovizBase",
         "broom",
         "ensembldb",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "ChIPpeakAnno": [
         "BSgenome",
@@ -1601,7 +1526,6 @@
         "rtracklayer",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -1618,8 +1542,7 @@
         "GEOquery",
         "frma",
         "oligo",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "ChromHeatMap": [
         "annotate",
@@ -1641,13 +1564,11 @@
         "scater",
         "scran",
         "scuttle",
-        "shinydashboardPlus",
-        "tidyr"
+        "shinydashboardPlus"
     ],
     "chromstaR": [],
     "chromswitch": [
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "chromVAR": [
         "BSgenome",
@@ -1657,8 +1578,7 @@
         "annotate",
         "plotly",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "CHRONOS": [
         "BiocFileCache",
@@ -1675,13 +1595,11 @@
         "biovizBase",
         "ensembldb",
         "monocle",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "CIMICE": [
         "ggraph",
-        "tidygraph",
-        "tidyr"
+        "tidygraph"
     ],
     "circRNAprofiler": [
         "AnnotationHub",
@@ -1705,8 +1623,7 @@
         "SGSeq",
         "ShortRead",
         "biomaRt",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "CiteFuse": [
         "ggraph",
@@ -1715,14 +1632,12 @@
         "propr",
         "scran",
         "scuttle",
-        "tidygraph",
-        "tidyr"
+        "tidygraph"
     ],
     "ClassifyR": [
         "MultiAssayExperiment",
         "annotate",
-        "genefilter",
-        "tidyr"
+        "genefilter"
     ],
     "cleanUpdTSeq": [
         "BSgenome",
@@ -1750,8 +1665,7 @@
     "CluMSID": [
         "GGally",
         "MSnbase",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "clusterExperiment": [
         "RNeXML",
@@ -1760,7 +1674,6 @@
         "genefilter",
         "mbkmeans",
         "phylobase",
-        "tidyr",
         "zinbwave"
     ],
     "clusterProfiler": [
@@ -1776,14 +1689,12 @@
         "gson",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
     "clustifyr": [
         "fgsea",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "cn.farms": [
         "oligo"
@@ -1836,8 +1747,7 @@
         "karyoploteR",
         "plotly",
         "regioneR",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "CNVPanelizer": [
         "testthat",
@@ -1859,8 +1769,7 @@
         "BSgenome",
         "MIRA",
         "bsseq",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "codelink": [
         "annotate"
@@ -1873,20 +1782,17 @@
     "coexnet": [
         "GEOquery",
         "STRINGdb",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "CoGAPS": [],
     "cogena": [
         "devtools",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "cogeqc": [
         "aplot",
         "ggtree",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -1908,8 +1814,7 @@
         "biovizBase",
         "ensembldb",
         "plotly",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "combi": [],
     "coMET": [
@@ -1942,8 +1847,7 @@
         "rtracklayer"
     ],
     "COMPASS": [
-        "BiocStyle",
-        "tidyr"
+        "BiocStyle"
     ],
     "compEpiTools": [
         "BSgenome",
@@ -1964,8 +1868,7 @@
     "ComPrAn": [
         "haven",
         "readr",
-        "rio",
-        "tidyr"
+        "rio"
     ],
     "conclus": [
         "BiocFileCache",
@@ -2002,7 +1905,6 @@
         "scuttle",
         "testthat",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio",
         "waldo"
@@ -2018,8 +1920,7 @@
         "scuttle",
         "slingshot",
         "spatstat",
-        "spatstat.linnet",
-        "tidyr"
+        "spatstat.linnet"
     ],
     "CONFESS": [
         "Hmisc",
@@ -2083,8 +1984,7 @@
         "genefilter",
         "minfi",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "CopyNumberPlots": [
         "BSgenome",
@@ -2107,12 +2007,10 @@
     "CoreGx": [
         "MultiAssayExperiment",
         "fgsea",
-        "piano",
-        "tidyr"
+        "piano"
     ],
     "corral": [
-        "MultiAssayExperiment",
-        "tidyr"
+        "MultiAssayExperiment"
     ],
     "coseq": [
         "DESeq2",
@@ -2133,18 +2031,14 @@
         "mixtools",
         "plotly",
         "readr",
-        "tidyr",
         "viper"
     ],
-    "COTAN": [
-        "tidyr"
-    ],
+    "COTAN": [],
     "countsimQC": [
         "DESeq2",
         "annotate",
         "genefilter",
-        "geneplotter",
-        "tidyr"
+        "geneplotter"
     ],
     "CoverageView": [
         "rtracklayer"
@@ -2211,8 +2105,7 @@
         "readr",
         "regioneR",
         "rio",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "CrispRVariants": [],
     "crisprVerse": [
@@ -2262,8 +2155,7 @@
         "oligo",
         "readr",
         "shinypanel",
-        "sva",
-        "tidyr"
+        "sva"
     ],
     "csdR": [
         "GO.db",
@@ -2284,8 +2176,7 @@
         "BiocFileCache",
         "broom",
         "fgsea",
-        "highcharter",
-        "tidyr"
+        "highcharter"
     ],
     "CTSV": [
         "BiocFileCache",
@@ -2330,7 +2221,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "cydar": [],
@@ -2352,7 +2242,6 @@
         "recipes",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "CytoGLMM": [
@@ -2370,7 +2259,6 @@
         "recipes",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "cytomapper": [
@@ -2434,15 +2322,13 @@
         "rtracklayer",
         "sva",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "DAPAR": [
         "DAPARdata",
         "MSnbase",
         "broom",
-        "highcharter",
-        "tidyr"
+        "highcharter"
     ],
     "dasper": [
         "BiocFileCache",
@@ -2461,7 +2347,6 @@
         "rstatix",
         "rtracklayer",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "dcanr": [],
@@ -2479,7 +2364,6 @@
         "org.Hs.eg.db",
         "readr",
         "tidygraph",
-        "tidyr",
         "tidyverse"
     ],
     "ddPCRclust": [
@@ -2493,7 +2377,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "dearseq": [],
@@ -2527,7 +2410,6 @@
         "scatterpie",
         "sva",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -2565,12 +2447,10 @@
         "rsq",
         "rtracklayer",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "decoupleR": [
-        "broom",
-        "tidyr"
+        "broom"
     ],
     "DeepBlueR": [
         "rtracklayer"
@@ -2583,7 +2463,6 @@
         "syuzhet",
         "textclean",
         "textstem",
-        "tidyr",
         "ttgsea",
         "webchem"
     ],
@@ -2607,8 +2486,7 @@
         "dendextend",
         "heatmaply",
         "plotly",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "DEGraph": [
         "NCIgraph",
@@ -2618,8 +2496,7 @@
         "DESeq2",
         "annotate",
         "broom",
-        "geneplotter",
-        "tidyr"
+        "geneplotter"
     ],
     "DEGseq": [],
     "deltaCaptureC": [
@@ -2640,12 +2517,10 @@
     ],
     "DEP": [
         "MSnbase",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "DepecheR": [
-        "mixOmics",
-        "tidyr"
+        "mixOmics"
     ],
     "derfinder": [
         "BSgenome",
@@ -2673,8 +2548,7 @@
         "derfinder",
         "ensembldb",
         "ggbio",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "DEScan2": [
         "BSgenome",
@@ -2699,7 +2573,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "DEsubs": [
@@ -2721,8 +2594,7 @@
         "annotate",
         "genefilter",
         "readr",
-        "sva",
-        "tidyr"
+        "sva"
     ],
     "DEXSeq": [
         "BiocFileCache",
@@ -2732,9 +2604,7 @@
         "genefilter",
         "geneplotter"
     ],
-    "DIAlignR": [
-        "tidyr"
-    ],
+    "DIAlignR": [],
     "DiffBind": [
         "BSgenome",
         "DESeq2",
@@ -2760,7 +2630,6 @@
         "pbkrtest",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "DifferentialRegulation": [
@@ -2787,15 +2656,13 @@
     "diggit": [
         "mixtools",
         "plotly",
-        "tidyr",
         "viper"
     ],
     "Dino": [
         "Seurat",
         "plotly",
         "scran",
-        "scuttle",
-        "tidyr"
+        "scuttle"
     ],
     "DiscoRhythm": [
         "BiocStyle",
@@ -2805,8 +2672,7 @@
         "ggExtra",
         "heatmaply",
         "kableExtra",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "distinct": [
         "ggrastr",
@@ -2856,8 +2722,7 @@
         "missMethyl",
         "org.Hs.eg.db",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "DMRforPairs": [
         "BSgenome",
@@ -2884,9 +2749,7 @@
         "regioneR",
         "rtracklayer"
     ],
-    "DNABarcodeCompatibility": [
-        "tidyr"
-    ],
+    "DNABarcodeCompatibility": [],
     "DNAfusion": [],
     "DNAshapeR": [
         "fields"
@@ -2912,7 +2775,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "DOSE": [
@@ -2932,8 +2794,7 @@
         "rtracklayer"
     ],
     "drawProteins": [
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "DropletUtils": [
         "scuttle"
@@ -2957,17 +2818,14 @@
         "hgu133plus2.db",
         "oligo",
         "org.Hs.eg.db",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "DSS": [
         "BSgenome",
         "bsseq",
         "rtracklayer"
     ],
-    "Dune": [
-        "tidyr"
-    ],
+    "Dune": [],
     "easier": [
         "AnnotationHub",
         "BiocFileCache",
@@ -2990,7 +2848,6 @@
         "quantiseqr",
         "rstatix",
         "testthat",
-        "tidyr",
         "viper",
         "waldo"
     ],
@@ -3010,7 +2867,6 @@
         "org.Mm.eg.db",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -3069,14 +2925,12 @@
         "org.Mm.eg.db",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
     "EGAD": [
         "GEOquery",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "EGSEA": [
         "GO.db",
@@ -3095,7 +2949,6 @@
         "pathview",
         "plotly",
         "safe",
-        "tidyr",
         "topGO"
     ],
     "eiR": [],
@@ -3122,7 +2975,6 @@
         "rstatix",
         "rtracklayer",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "EnhancedVolcano": [],
@@ -3150,8 +3002,7 @@
         "geneplotter",
         "minfi",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "EnrichmentBrowser": [
         "BiocFileCache",
@@ -3174,7 +3025,6 @@
         "ggtree",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -3208,7 +3058,6 @@
         "scatterpie",
         "testthat",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio",
         "waldo"
@@ -3254,7 +3103,6 @@
         "rtracklayer",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -3268,7 +3116,6 @@
         "rstatix",
         "rtracklayer",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "epigenomix": [
@@ -3286,7 +3133,6 @@
         "rstatix",
         "rtracklayer",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "epihet": [
@@ -3308,7 +3154,6 @@
         "reactome.db",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -3321,8 +3166,7 @@
         "GenomicFeatures",
         "biomaRt",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "epimutacions": [
         "AnnotationHub",
@@ -3353,8 +3197,7 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "epiNEM": [
         "Linnorm",
@@ -3458,7 +3301,6 @@
         "rtracklayer",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -3468,16 +3310,14 @@
         "UCell",
         "annotate",
         "broom",
-        "msigdbr",
-        "tidyr"
+        "msigdbr"
     ],
     "esetVis": [
         "MLP"
     ],
     "evaluomeR": [
         "MultiAssayExperiment",
-        "kableExtra",
-        "tidyr"
+        "kableExtra"
     ],
     "EventPointer": [
         "BSgenome",
@@ -3508,7 +3348,6 @@
         "readr",
         "rstatix",
         "testthat",
-        "tidyr",
         "tidytree",
         "treeio",
         "waldo"
@@ -3547,13 +3386,10 @@
         "SpatialExperiment",
         "TreeSummarizedExperiment",
         "scuttle",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
-    "ExploreModelMatrix": [
-        "tidyr"
-    ],
+    "ExploreModelMatrix": [],
     "ExpressionAtlas": [
         "BiocStyle"
     ],
@@ -3571,8 +3407,7 @@
         "biovizBase",
         "broom",
         "ensembldb",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "factR": [
         "BiocFileCache",
@@ -3581,13 +3416,11 @@
         "drawProteins",
         "readr",
         "rtracklayer",
-        "tidyr",
         "wiggleplotr"
     ],
     "FamAgg": [
         "gap",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "famat": [
         "DOSE",
@@ -3608,7 +3441,6 @@
         "reactome.db",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -3619,8 +3451,7 @@
         "WGCNA",
         "broom",
         "geepack",
-        "org.Sc.sgd.db",
-        "tidyr"
+        "org.Sc.sgd.db"
     ],
     "FastqCleaner": [
         "ShortRead"
@@ -3650,7 +3481,6 @@
         "intergraph",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -3685,8 +3515,7 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "fgga": [
         "BiocFileCache"
@@ -3697,8 +3526,7 @@
         "GenomicFeatures",
         "MultiAssayExperiment",
         "biomaRt",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "fishpond": [],
     "flagme": [
@@ -3726,12 +3554,10 @@
         "rtracklayer",
         "scater",
         "scran",
-        "scuttle",
-        "tidyr"
+        "scuttle"
     ],
     "flowcatchR": [
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "flowCL": [
         "SPARQL"
@@ -3747,7 +3573,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "flowDensity": [
@@ -3760,7 +3585,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "flowGraph": [],
@@ -3771,7 +3595,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "FlowSOM": [
@@ -3783,7 +3606,6 @@
         "pbkrtest",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "flowStats": [
@@ -3805,12 +3627,10 @@
         "lexicon",
         "syuzhet",
         "textclean",
-        "tidygraph",
-        "tidyr"
+        "tidygraph"
     ],
     "FoldGO": [
         "GO.db",
-        "tidyr",
         "topGO"
     ],
     "FRASER": [
@@ -3825,8 +3645,7 @@
         "geneplotter",
         "heatmaply",
         "plotly",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "frenchFISH": [
         "NHPoisson",
@@ -3836,7 +3655,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "FRGEpistasis": [
@@ -3864,8 +3682,7 @@
         "genefilter",
         "minfi",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "FuseSOM": [
         "FCPS",
@@ -3877,7 +3694,6 @@
         "pbkrtest",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "GA4GHclient": [
@@ -3895,8 +3711,7 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "biomaRt",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "gage": [
         "GO.db"
@@ -3928,12 +3743,9 @@
         "rtracklayer",
         "sva",
         "testthat",
-        "tidyr",
         "waldo"
     ],
-    "GBScleanR": [
-        "tidyr"
-    ],
+    "GBScleanR": [],
     "gcapc": [
         "BSgenome",
         "rtracklayer"
@@ -3975,19 +3787,15 @@
         "survminer",
         "testthat",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio",
         "waldo"
     ],
     "gemini": [
         "mixtools",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
-    "gemma.R": [
-        "tidyr"
-    ],
+    "gemma.R": [],
     "genbankr": [
         "BSgenome",
         "BiocFileCache",
@@ -4007,7 +3815,6 @@
         "pbkrtest",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "geneAttribution": [
@@ -4034,7 +3841,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "GeneMeta": [
@@ -4049,8 +3855,7 @@
         "SeqVarTools",
         "broom",
         "logistf",
-        "mice",
-        "tidyr"
+        "mice"
     ],
     "GeneStructureTools": [
         "BSgenome",
@@ -4074,8 +3879,7 @@
         "colourpicker",
         "dendextend",
         "geneplotter",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "geneXtendeR": [
         "BiocStyle",
@@ -4095,8 +3899,7 @@
         "readr"
     ],
     "GenomicDistributions": [
-        "broom",
-        "tidyr"
+        "broom"
     ],
     "GenomicFeatures": [
         "BiocFileCache",
@@ -4113,8 +3916,7 @@
     ],
     "genomicInstability": [
         "mixtools",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "GenomicInteractionNodes": [
         "BiocFileCache",
@@ -4148,8 +3950,7 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "GenomicScores": [
         "AnnotationHub",
@@ -4166,7 +3967,6 @@
         "plotly",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "genotypeeval": [
@@ -4186,7 +3986,6 @@
         "syuzhet",
         "textclean",
         "textstem",
-        "tidyr",
         "ttgsea",
         "webchem"
     ],
@@ -4206,7 +4005,6 @@
         "lmerTest",
         "nloptr",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "GEOexplorer": [
@@ -4226,14 +4024,12 @@
         "rstatix",
         "shinyHeatmaply",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "GEOfastq": [],
     "GEOmetadb": [
         "GEOquery",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "GeomxTools": [
         "GGally",
@@ -4242,12 +4038,10 @@
         "lmerTest",
         "nloptr",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "GEOquery": [
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "gep2pep": [
         "GSEABase",
@@ -4269,7 +4063,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "ggbio": [
@@ -4283,8 +4076,7 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "ggcyto": [],
     "ggmanh": [],
@@ -4293,13 +4085,11 @@
         "ggalt",
         "ggtree",
         "plotly",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
     "GGPA": [
-        "GGally",
-        "tidyr"
+        "GGally"
     ],
     "ggspavis": [
         "BiocFileCache",
@@ -4309,21 +4099,18 @@
     ],
     "ggtree": [
         "aplot",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
     "ggtreeDendro": [
         "aplot",
         "ggtree",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
     "ggtreeExtra": [
         "aplot",
         "ggtree",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -4337,9 +4124,7 @@
         "annotate",
         "genefilter"
     ],
-    "GladiaTOX": [
-        "tidyr"
-    ],
+    "GladiaTOX": [],
     "Glimma": [
         "DESeq2",
         "annotate",
@@ -4360,7 +4145,6 @@
         "rstatix",
         "survminer",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "GlobalAncova": [
@@ -4393,8 +4177,7 @@
         "gRain",
         "genefilter",
         "org.Hs.eg.db",
-        "org.Mm.eg.db",
-        "tidyr"
+        "org.Mm.eg.db"
     ],
     "gmoviz": [
         "BiocFileCache",
@@ -4404,8 +4187,7 @@
     ],
     "GNET2": [
         "DiagrammeR",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "GOexpress": [
         "BiocFileCache",
@@ -4416,8 +4198,7 @@
         "GO.db",
         "MultiAssayExperiment",
         "dendextend",
-        "org.Hs.eg.db",
-        "tidyr"
+        "org.Hs.eg.db"
     ],
     "goProfiles": [
         "GO.db"
@@ -4455,7 +4236,6 @@
         "org.Hs.eg.db",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -4490,12 +4270,10 @@
         "annotate",
         "biomaRt",
         "geneplotter",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "granulator": [
-        "epiR",
-        "tidyr"
+        "epiR"
     ],
     "graper": [],
     "graphite": [],
@@ -4512,7 +4290,6 @@
         "pbkrtest",
         "plotly",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "groHMM": [
@@ -4583,8 +4360,7 @@
         "readr",
         "regioneR",
         "rio",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "Guitar": [
         "BiocFileCache",
@@ -4605,8 +4381,7 @@
     ],
     "GWAS.BAYES": [
         "caret",
-        "recipes",
-        "tidyr"
+        "recipes"
     ],
     "gwascat": [
         "AnnotationHub",
@@ -4621,8 +4396,7 @@
     "GWASTools": [
         "broom",
         "logistf",
-        "mice",
-        "tidyr"
+        "mice"
     ],
     "gwasurvivr": [
         "BSgenome",
@@ -4634,21 +4408,18 @@
         "broom",
         "logistf",
         "mice",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "GWENA": [
         "GO.db",
         "Hmisc",
         "WGCNA",
         "gprofiler2",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "hca": [
         "BiocFileCache",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "HelloRanges": [
         "BSgenome",
@@ -4665,8 +4436,7 @@
         "annotate",
         "biomaRt",
         "geneplotter",
-        "ggfortify",
-        "tidyr"
+        "ggfortify"
     ],
     "HGC": [
         "dendextend"
@@ -4693,8 +4463,7 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "HiCDOC": [
         "HiCcompare",
@@ -4710,7 +4479,6 @@
         "pbkrtest",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "HiContacts": [
@@ -4729,8 +4497,7 @@
         "biovizBase",
         "ensembldb",
         "ggrastr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "HiLDA": [
         "BSgenome",
@@ -4739,14 +4506,12 @@
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "biomaRt",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "hipathia": [
         "AnnotationHub",
         "BiocFileCache",
-        "MultiAssayExperiment",
-        "tidyr"
+        "MultiAssayExperiment"
     ],
     "HIPPO": [],
     "hiReadsProcessor": [
@@ -4757,14 +4522,11 @@
     "HiTC": [
         "rtracklayer"
     ],
-    "HPAStainR": [
-        "tidyr"
-    ],
+    "HPAStainR": [],
     "HPiP": [
         "caret",
         "readr",
-        "recipes",
-        "tidyr"
+        "recipes"
     ],
     "HTSeqGenie": [
         "BSgenome",
@@ -4792,8 +4554,7 @@
         "msigdbr"
     ],
     "iBBiG": [
-        "biclust",
-        "tidyr"
+        "biclust"
     ],
     "iCARE": [
         "Hmisc"
@@ -4826,16 +4587,14 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "iCNV": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "CODEX",
         "fields",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "iCOBRA": [],
     "ideal": [
@@ -4858,7 +4617,6 @@
         "pcaExplorer",
         "plotly",
         "rtracklayer",
-        "tidyr",
         "topGO"
     ],
     "IdeoViz": [
@@ -4897,7 +4655,6 @@
         "nloptr",
         "rtracklayer",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "imcRtools": [
@@ -4909,8 +4666,7 @@
         "ggraph",
         "readr",
         "scuttle",
-        "tidygraph",
-        "tidyr"
+        "tidygraph"
     ],
     "IMMAN": [
         "STRINGdb"
@@ -4918,12 +4674,10 @@
     "ImmuneSpaceR": [
         "dendextend",
         "heatmaply",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "immunotation": [
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "INDEED": [
         "devtools",
@@ -4932,8 +4686,7 @@
     ],
     "infercnv": [
         "Seurat",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "InPAS": [
         "BSgenome",
@@ -4967,7 +4720,6 @@
         "rstatix",
         "rtracklayer",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "intansv": [
@@ -4982,8 +4734,7 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "InteractionSet": [],
     "InteractiveComplexHeatmap": [
@@ -5012,7 +4763,6 @@
         "plotly",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "IntEREst": [
@@ -5029,8 +4779,7 @@
     "InterMineR": [],
     "IntramiRExploreR": [],
     "IONiseR": [
-        "ShortRead",
-        "tidyr"
+        "ShortRead"
     ],
     "iPath": [
         "broom",
@@ -5042,7 +4791,6 @@
         "rstatix",
         "survminer",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "ipdDb": [
@@ -5087,7 +4835,6 @@
         "scuttle",
         "testthat",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio",
         "waldo"
@@ -5096,8 +4843,7 @@
         "datamods",
         "haven",
         "readr",
-        "rio",
-        "tidyr"
+        "rio"
     ],
     "iSEE": [
         "colourpicker"
@@ -5152,8 +4898,7 @@
         "annotate",
         "broom",
         "geneplotter",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "ITALICS": [
         "oligo",
@@ -5168,7 +4913,6 @@
         "nloptr",
         "rtracklayer",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "ivygapSE": [
@@ -5182,7 +4926,6 @@
         "rstatix",
         "survminer",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "IWTomics": [
@@ -5211,8 +4954,7 @@
         "VariantAnnotation",
         "biomaRt",
         "plyranges",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "KEGGlincs": [
         "hgu133a.db",
@@ -5242,7 +4984,6 @@
         "rstatix",
         "rtracklayer",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "KnowSeq": [
@@ -5251,15 +4992,13 @@
         "caret",
         "genefilter",
         "recipes",
-        "sva",
-        "tidyr"
+        "sva"
     ],
     "LACE": [
         "BiocFileCache",
         "biomaRt",
         "readr",
-        "sortable",
-        "tidyr"
+        "sortable"
     ],
     "LedPred": [
         "testthat",
@@ -5291,14 +5030,12 @@
         "rio",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "Linnorm": [],
     "LinTInd": [
         "aplot",
         "ggtree",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -5307,14 +5044,12 @@
         "MultiDataSet",
         "fgsea",
         "plotly",
-        "ropls",
-        "tidyr"
+        "ropls"
     ],
     "LiquidAssociation": [
         "broom",
         "geepack",
-        "org.Sc.sgd.db",
-        "tidyr"
+        "org.Sc.sgd.db"
     ],
     "lisaClust": [
         "BiocFileCache",
@@ -5327,7 +5062,6 @@
         "scuttle",
         "spicyR",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "LOBSTAHS": [
@@ -5354,8 +5088,7 @@
         "cBioPortalData",
         "motifStack",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "LRBaseDbi": [],
     "LRcell": [
@@ -5377,13 +5110,11 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "LymphoSeq": [
         "aplot",
         "ggtree",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -5400,8 +5131,7 @@
         "adabag",
         "caret",
         "recipes",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "Maaslin2": [
         "broom",
@@ -5412,7 +5142,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "Macarron": [
@@ -5428,7 +5157,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "macat": [
@@ -5467,8 +5195,7 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "MAGeCKFlute": [
         "AnnotationHub",
@@ -5491,7 +5218,6 @@
         "pathview",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -5503,7 +5229,6 @@
         "modelr",
         "readr",
         "recipes",
-        "tidyr",
         "tidyverse"
     ],
     "MAIT": [
@@ -5520,7 +5245,6 @@
         "questionr",
         "readr",
         "recipes",
-        "tidyr",
         "xcms"
     ],
     "mAPKL": [
@@ -5530,8 +5254,7 @@
         "caret",
         "hgu133plus2.db",
         "org.Hs.eg.db",
-        "recipes",
-        "tidyr"
+        "recipes"
     ],
     "maser": [
         "BSgenome",
@@ -5548,8 +5271,7 @@
     "MAST": [],
     "MatrixQCvis": [
         "Hmisc",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "MatrixRider": [
         "BSgenome",
@@ -5568,7 +5290,6 @@
         "nloptr",
         "sva",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "mbkmeans": [
@@ -5583,8 +5304,7 @@
         "GWASTools",
         "broom",
         "logistf",
-        "mice",
-        "tidyr"
+        "mice"
     ],
     "MBQN": [
         "BiocFileCache"
@@ -5594,8 +5314,7 @@
         "GO.db",
         "Hmisc",
         "WGCNA",
-        "org.Hs.eg.db",
-        "tidyr"
+        "org.Hs.eg.db"
     ],
     "mCSEA": [
         "BSgenome",
@@ -5646,8 +5365,7 @@
         "org.Hs.eg.db",
         "readr",
         "rtracklayer",
-        "sva",
-        "tidyr"
+        "sva"
     ],
     "MEAT": [
         "BiocFileCache",
@@ -5666,7 +5384,6 @@
         "org.Hs.eg.db",
         "readr",
         "rtracklayer",
-        "tidyr",
         "wateRmelon"
     ],
     "MEDIPS": [
@@ -5683,7 +5400,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "megadepth": [
@@ -5703,7 +5419,6 @@
         "cmdfun",
         "readr",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "MeSHDbi": [],
@@ -5722,7 +5437,6 @@
         "ggtree",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -5734,9 +5448,7 @@
         "annotate",
         "genefilter"
     ],
-    "MesKit": [
-        "tidyr"
-    ],
+    "MesKit": [],
     "messina": [],
     "Metab": [
         "MSnbase",
@@ -5744,19 +5456,16 @@
     ],
     "metabCombiner": [
         "caret",
-        "recipes",
-        "tidyr"
+        "recipes"
     ],
     "MetaboAnnotation": [
         "CompoundDb",
         "MultiAssayExperiment",
         "QFeatures",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "metabolomicsWorkbenchR": [
-        "MultiAssayExperiment",
-        "tidyr"
+        "MultiAssayExperiment"
     ],
     "MetaboSignal": [
         "BiocFileCache",
@@ -5775,7 +5484,6 @@
         "pbkrtest",
         "rtracklayer",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "MetaCyto": [
@@ -5788,7 +5496,6 @@
         "pbkrtest",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "metagene": [
@@ -5808,9 +5515,7 @@
         "MSnbase",
         "xcms"
     ],
-    "MetaNeighbor": [
-        "tidyr"
-    ],
+    "MetaNeighbor": [],
     "MetaPhOR": [
         "DOSE",
         "GO.db",
@@ -5827,7 +5532,6 @@
         "gson",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -5854,8 +5558,7 @@
         "plotly",
         "rmdformats",
         "rtracklayer",
-        "survcomp",
-        "tidyr"
+        "survcomp"
     ],
     "metavizr": [
         "BiocFileCache",
@@ -5871,8 +5574,7 @@
     ],
     "MetaVolcanoR": [
         "metap",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "MethCP": [
         "BSgenome",
@@ -5900,7 +5602,6 @@
         "sesame",
         "sesameData",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "methrix": [
@@ -5917,8 +5618,7 @@
         "genefilter",
         "minfi",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "methylCC": [
         "BSgenome",
@@ -5936,8 +5636,7 @@
         "minfi",
         "plyranges",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "methylclock": [
         "AnnotationForge",
@@ -5970,7 +5669,6 @@
         "rstatix",
         "rtracklayer",
         "testthat",
-        "tidyr",
         "tidyverse",
         "waldo"
     ],
@@ -6008,7 +5706,6 @@
         "rtracklayer",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -6057,21 +5754,17 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "MetID": [
         "devtools",
         "testthat",
         "waldo"
     ],
-    "MetNet": [
-        "tidyr"
-    ],
+    "MetNet": [],
     "mfa": [
         "GGally",
-        "ggmcmc",
-        "tidyr"
+        "ggmcmc"
     ],
     "MGFM": [
         "annotate"
@@ -6087,13 +5780,11 @@
         "ggrastr",
         "scater",
         "scuttle",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
     "miaSim": [
         "TreeSummarizedExperiment",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -6108,13 +5799,10 @@
         "scater",
         "scuttle",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
-    "microbiome": [
-        "tidyr"
-    ],
+    "microbiome": [],
     "microbiomeDASim": [],
     "microbiomeExplorer": [
         "DESeq2",
@@ -6130,7 +5818,6 @@
         "plotly",
         "readr",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "microbiomeMarker": [
@@ -6154,7 +5841,6 @@
         "scater",
         "scuttle",
         "testthat",
-        "tidyr",
         "tidytree",
         "treeio",
         "waldo"
@@ -6174,7 +5860,6 @@
         "gson",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -6182,7 +5867,6 @@
         "aplot",
         "ggtree",
         "ggtreeExtra",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -6191,8 +5875,7 @@
         "MultiAssayExperiment",
         "broom",
         "kableExtra",
-        "mice",
-        "tidyr"
+        "mice"
     ],
     "MIGSA": [
         "AnnotationForge",
@@ -6206,15 +5889,13 @@
     ],
     "miloR": [
         "ggraph",
-        "tidygraph",
-        "tidyr"
+        "tidygraph"
     ],
     "mimager": [
         "oligo"
     ],
     "MIMOSA": [
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "mina": [
@@ -6242,8 +5923,7 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "minfi": [
         "BiocFileCache",
@@ -6254,8 +5934,7 @@
         "bumphunter",
         "genefilter",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "MinimumDistance": [
         "BSgenome",
@@ -6287,8 +5966,7 @@
         "biomaRt",
         "genefilter",
         "org.Hs.eg.db",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "miRNAmeConverter": [
         "miRBaseVersions.db"
@@ -6346,7 +6024,6 @@
         "subspace",
         "testthat",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "tidyverse",
         "treeio",
@@ -6389,7 +6066,6 @@
         "scatterpie",
         "testthat",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "tidyverse",
         "treeio",
@@ -6414,24 +6090,20 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "missRows": [
-        "MultiAssayExperiment",
-        "tidyr"
+        "MultiAssayExperiment"
     ],
     "mistyR": [
         "caret",
         "readr",
-        "recipes",
-        "tidyr"
+        "recipes"
     ],
     "mitch": [
         "GGally",
         "broom",
-        "echarts4r",
-        "tidyr"
+        "echarts4r"
     ],
     "mitoClone2": [
         "BSgenome",
@@ -6442,9 +6114,7 @@
         "deepSNV",
         "rtracklayer"
     ],
-    "mixOmics": [
-        "tidyr"
-    ],
+    "mixOmics": [],
     "MLInterfaces": [
         "annotate",
         "genefilter",
@@ -6458,7 +6128,6 @@
         "geneplotter",
         "recipes",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "MMDiff2": [
@@ -6475,7 +6144,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "mnem": [
@@ -6494,9 +6162,7 @@
         "Hmisc",
         "WGCNA"
     ],
-    "MOFA2": [
-        "tidyr"
-    ],
+    "MOFA2": [],
     "MOGAMUN": [
         "RCy3"
     ],
@@ -6508,8 +6174,7 @@
     ],
     "MOMA": [
         "MultiAssayExperiment",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "monaLisa": [
         "BSgenome",
@@ -6541,25 +6206,20 @@
         "readr",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
     "mosaics": [],
     "mosbi": [
         "QUBIC",
-        "biclust",
-        "tidyr"
+        "biclust"
     ],
-    "MOSim": [
-        "tidyr"
-    ],
+    "MOSim": [],
     "Motif2Site": [
         "BSgenome",
         "mixtools",
         "plotly",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "motifbreakR": [
         "BSgenome",
@@ -6603,8 +6263,7 @@
     ],
     "MouseFM": [
         "BiocFileCache",
-        "biomaRt",
-        "tidyr"
+        "biomaRt"
     ],
     "MQmetrics": [
         "broom",
@@ -6616,17 +6275,13 @@
         "readr",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
-    "MSA2dist": [
-        "tidyr"
-    ],
+    "MSA2dist": [],
     "MsExperiment": [
         "MultiAssayExperiment",
         "QFeatures",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "msgbsR": [
         "BSgenome",
@@ -6642,13 +6297,11 @@
         "easyRNASeq",
         "ensembldb",
         "ggbio",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "msImpute": [
         "scran",
-        "scuttle",
-        "tidyr"
+        "scuttle"
     ],
     "mslp": [
         "org.Hs.eg.db"
@@ -6680,7 +6333,6 @@
         "pbkrtest",
         "sva",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "msPurity": [],
@@ -6691,7 +6343,6 @@
         "nloptr",
         "plotly",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "MSstats": [
@@ -6720,7 +6371,6 @@
         "readr",
         "rstatix",
         "testthat",
-        "tidyr",
         "tidyverse",
         "waldo"
     ],
@@ -6737,16 +6387,14 @@
         "MSnbase",
         "colourpicker",
         "ggExtra",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
         "colourpicker",
         "ggExtra",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "MSstatsSampleSize": [
         "MSstats",
@@ -6755,7 +6403,6 @@
         "nloptr",
         "recipes",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "MSstatsShiny": [
@@ -6767,7 +6414,6 @@
         "lmerTest",
         "nloptr",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "MSstatsTMT": [
@@ -6779,21 +6425,17 @@
         "waldo"
     ],
     "MuData": [
-        "MultiAssayExperiment",
-        "tidyr"
+        "MultiAssayExperiment"
     ],
     "Mulcom": [
         "fields"
     ],
-    "MultiAssayExperiment": [
-        "tidyr"
-    ],
+    "MultiAssayExperiment": [],
     "MultiBaC": [
         "MultiAssayExperiment",
         "MultiDataSet",
         "plotly",
-        "ropls",
-        "tidyr"
+        "ropls"
     ],
     "multiClust": [
         "dendextend"
@@ -6812,8 +6454,7 @@
         "keras",
         "plyranges",
         "regioneR",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "MultiDataSet": [],
     "multiGSEA": [
@@ -6860,7 +6501,6 @@
         "scatterpie",
         "testthat",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio",
         "waldo"
@@ -6893,7 +6533,6 @@
         "scater",
         "scuttle",
         "testthat",
-        "tidyr",
         "variancePartition",
         "waldo"
     ],
@@ -6927,7 +6566,6 @@
         "rtracklayer",
         "sortable",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "MutationalPatterns": [
@@ -6937,8 +6575,7 @@
         "VariantAnnotation",
         "biomaRt",
         "ggalluvial",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "MWASTools": [
         "broom",
@@ -6947,7 +6584,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "mygene": [
@@ -6997,8 +6633,7 @@
         "bsseq",
         "ggrastr",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "NanoStringNCTools": [],
     "NanoStringQCPro": [
@@ -7012,7 +6647,6 @@
         "org.Hs.eg.db",
         "readr",
         "testthat",
-        "tidyr",
         "tidyverse",
         "waldo"
     ],
@@ -7033,7 +6667,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "ncGTW": [
@@ -7043,9 +6676,7 @@
     "NCIgraph": [
         "RCy3"
     ],
-    "ndexr": [
-        "tidyr"
-    ],
+    "ndexr": [],
     "nearBynding": [
         "BiocFileCache",
         "GenomicFeatures",
@@ -7057,8 +6688,7 @@
     ],
     "Nebulosa": [
         "Seurat",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "nempi": [
         "Linnorm",
@@ -7090,14 +6720,12 @@
         "gson",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
     "netDx": [
         "BiocFileCache",
-        "MultiAssayExperiment",
-        "tidyr"
+        "MultiAssayExperiment"
     ],
     "nethet": [],
     "netOmics": [
@@ -7107,8 +6735,7 @@
         "gprofiler2",
         "plotly",
         "readr",
-        "supraHex",
-        "tidyr"
+        "supraHex"
     ],
     "netresponse": [
         "BiocStyle"
@@ -7131,7 +6758,6 @@
         "phylobase",
         "scater",
         "scuttle",
-        "tidyr",
         "zinbwave"
     ],
     "netZooR": [
@@ -7154,7 +6780,6 @@
         "quantro",
         "readr",
         "rtracklayer",
-        "tidyr",
         "yarn"
     ],
     "NeuCA": [
@@ -7163,8 +6788,7 @@
     "NewWave": [],
     "ngsReports": [
         "plotly",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "nnSVG": [
         "BiocFileCache",
@@ -7187,8 +6811,7 @@
         "rWikiPathways",
         "reactome.db",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "NormalyzerDE": [
         "Hmisc",
@@ -7201,7 +6824,6 @@
         "pbkrtest",
         "readr",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "NormqPCR": [
@@ -7211,8 +6833,7 @@
         "rtracklayer"
     ],
     "NPARC": [
-        "broom",
-        "tidyr"
+        "broom"
     ],
     "npGSEA": [
         "GSEABase",
@@ -7235,8 +6856,7 @@
         "annotate",
         "genefilter",
         "plotly",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "octad": [
         "AnnotationHub",
@@ -7254,8 +6874,7 @@
         "geneplotter",
         "octad.db",
         "plotly",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "ODER": [
         "BSgenome",
@@ -7281,7 +6900,6 @@
         "rstatix",
         "rtracklayer",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "odseq": [],
@@ -7296,8 +6914,7 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "oligo": [],
     "omada": [
@@ -7306,8 +6923,7 @@
         "klaR",
         "labelled",
         "questionr",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "OmaDB": [
         "GO.db",
@@ -7333,7 +6949,6 @@
         "rexposome",
         "sva",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "OMICsPCA": [
@@ -7358,12 +6973,10 @@
         "rstatix",
         "rtracklayer",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "omicsPrint": [
-        "MultiAssayExperiment",
-        "tidyr"
+        "MultiAssayExperiment"
     ],
     "omicsViewer": [
         "broom",
@@ -7377,15 +6990,13 @@
         "rstatix",
         "survminer",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "Omixer": [
         "readr"
     ],
     "OmnipathR": [
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "oncomix": [],
     "oncoscanR": [
@@ -7402,12 +7013,10 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "oneSENSE": [
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "ontoProc": [
         "AnnotationHub",
@@ -7431,7 +7040,6 @@
         "pbkrtest",
         "summarytools",
         "testthat",
-        "tidyr",
         "unmarked",
         "waldo"
     ],
@@ -7495,7 +7103,6 @@
         "readr",
         "rstatix",
         "testthat",
-        "tidyr",
         "tidytree",
         "treeio",
         "waldo"
@@ -7518,8 +7125,7 @@
         "geneplotter",
         "heatmaply",
         "plotly",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "PAA": [
         "annotate",
@@ -7535,7 +7141,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "PADOG": [
@@ -7579,13 +7184,10 @@
         "org.Hs.eg.db",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
-    "PanViz": [
-        "tidyr"
-    ],
+    "PanViz": [],
     "pareg": [
         "DOSE",
         "GO.db",
@@ -7598,7 +7200,6 @@
         "testthat",
         "tfprobability",
         "tidygraph",
-        "tidyr",
         "waldo"
     ],
     "PAST": [
@@ -7612,7 +7213,6 @@
         "geneplotter",
         "plotly",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "pathRender": [],
@@ -7637,7 +7237,6 @@
         "geneplotter",
         "heatmaply",
         "plotly",
-        "tidyr",
         "topGO"
     ],
     "PCAtools": [],
@@ -7662,7 +7261,6 @@
         "survcomp",
         "survminer",
         "testthat",
-        "tidyr",
         "verification",
         "waldo"
     ],
@@ -7704,7 +7302,6 @@
         "gson",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -7714,15 +7311,13 @@
         "annotate",
         "fgsea",
         "geneplotter",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "PharmacoGx": [
         "CoreGx",
         "MultiAssayExperiment",
         "fgsea",
-        "piano",
-        "tidyr"
+        "piano"
     ],
     "phenomis": [
         "BiocFileCache",
@@ -7733,12 +7328,9 @@
         "plotly",
         "ropls",
         "testthat",
-        "tidyr",
         "waldo"
     ],
-    "phenopath": [
-        "tidyr"
-    ],
+    "phenopath": [],
     "phenoTest": [
         "BiocFileCache",
         "Category",
@@ -7759,13 +7351,11 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "philr": [
         "aplot",
         "ggtree",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -7783,7 +7373,6 @@
         "pbkrtest",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "PhyloProfile": [
@@ -7802,8 +7391,7 @@
         "ggnetwork",
         "readr",
         "recipes",
-        "supraHex",
-        "tidyr"
+        "supraHex"
     ],
     "piano": [
         "fgsea"
@@ -7830,7 +7418,6 @@
         "reactome.db",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -7856,8 +7443,7 @@
         "plotly",
         "scater",
         "scran",
-        "scuttle",
-        "tidyr"
+        "scuttle"
     ],
     "pipeFrame": [
         "BSgenome",
@@ -7888,7 +7474,6 @@
         "readr",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "plyranges": [
@@ -7919,8 +7504,7 @@
         "caret",
         "geneplotter",
         "mixOmics",
-        "recipes",
-        "tidyr"
+        "recipes"
     ],
     "PoTRA": [
         "graphite",
@@ -7933,8 +7517,7 @@
         "benchmarkme",
         "ggdist",
         "posterior",
-        "tidybayes",
-        "tidyr"
+        "tidybayes"
     ],
     "PPInfer": [
         "BiocFileCache",
@@ -7960,8 +7543,7 @@
         "org.Hs.eg.db",
         "rCGH",
         "recipes",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "PREDA": [
         "annotate"
@@ -7985,14 +7567,12 @@
         "ensembldb",
         "phastCons100way.UCSC.hg38",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "PrInCE": [
         "Hmisc",
         "MSnbase",
-        "forecast",
-        "tidyr"
+        "forecast"
     ],
     "proActiv": [
         "BiocFileCache",
@@ -8021,7 +7601,6 @@
         "pvca",
         "sva",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "procoil": [],
@@ -8031,7 +7610,6 @@
         "MultiDataSet",
         "plotly",
         "ropls",
-        "tidyr",
         "xcms"
     ],
     "profileplyr": [
@@ -8061,19 +7639,16 @@
         "scatterpie",
         "soGGi",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
     "progeny": [
         "broom",
-        "decoupleR",
-        "tidyr"
+        "decoupleR"
     ],
     "projectR": [
         "CoGAPS",
-        "ggalluvial",
-        "tidyr"
+        "ggalluvial"
     ],
     "pRoloc": [
         "BiocFileCache",
@@ -8087,8 +7662,7 @@
         "ggvis",
         "mixtools",
         "plotly",
-        "recipes",
-        "tidyr"
+        "recipes"
     ],
     "pRolocGUI": [
         "BiocFileCache",
@@ -8105,8 +7679,7 @@
         "pRoloc",
         "plotly",
         "recipes",
-        "shinydashboardPlus",
-        "tidyr"
+        "shinydashboardPlus"
     ],
     "PROMISE": [
         "GSEABase",
@@ -8122,8 +7695,7 @@
         "DAPARdata",
         "MSnbase",
         "broom",
-        "highcharter",
-        "tidyr"
+        "highcharter"
     ],
     "proteasy": [
         "BiocFileCache",
@@ -8144,8 +7716,7 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "biomaRt",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "ProteoMM": [
         "BiocFileCache",
@@ -8169,7 +7740,6 @@
         "readr",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "psichomics": [
@@ -8189,21 +7759,18 @@
         "highcharter",
         "readr",
         "recount",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "PSMatch": [
         "MultiAssayExperiment",
         "QFeatures",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "psygenet2r": [
         "BgeeDB",
         "BiocFileCache",
         "GO.db",
         "biomaRt",
-        "tidyr",
         "topGO"
     ],
     "ptairMS": [
@@ -8218,7 +7785,6 @@
         "plotly",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "puma": [
@@ -8266,8 +7832,7 @@
     ],
     "QFeatures": [
         "MultiAssayExperiment",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "qmtools": [
         "VIM",
@@ -8280,7 +7845,6 @@
         "pbkrtest",
         "plotly",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "qpgraph": [
@@ -8292,8 +7856,7 @@
     ],
     "qPLEXanalyzer": [
         "MSnbase",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "qrqc": [
         "BSgenome",
@@ -8323,9 +7886,7 @@
         "genefilter",
         "sva"
     ],
-    "quantiseqr": [
-        "tidyr"
-    ],
+    "quantiseqr": [],
     "quantro": [
         "BiocFileCache",
         "GEOquery",
@@ -8336,8 +7897,7 @@
         "genefilter",
         "minfi",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "QuartPAC": [],
     "QuasR": [
@@ -8351,8 +7911,7 @@
         "rtracklayer"
     ],
     "QUBIC": [
-        "biclust",
-        "tidyr"
+        "biclust"
     ],
     "R3CPET": [
         "BSgenome",
@@ -8366,8 +7925,7 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "r3Cseq": [
         "rtracklayer"
@@ -8385,8 +7943,7 @@
         "CoreGx",
         "MultiAssayExperiment",
         "fgsea",
-        "piano",
-        "tidyr"
+        "piano"
     ],
     "ramr": [],
     "ramwas": [
@@ -8396,8 +7953,7 @@
     "RandomWalkRestartMH": [
         "dnet",
         "readr",
-        "supraHex",
-        "tidyr"
+        "supraHex"
     ],
     "RAREsim": [
         "nloptr",
@@ -8433,8 +7989,7 @@
         "gprofiler2",
         "plotly",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "rCGH": [
         "BiocFileCache",
@@ -8451,8 +8006,7 @@
         "GSEABase",
         "annotate",
         "mixtools",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "RCM": [],
     "Rcpi": [
@@ -8461,25 +8015,20 @@
     ],
     "Rcwl": [
         "DiagrammeR",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "RcwlPipelines": [
         "BiocFileCache",
         "DiagrammeR",
         "Rcwl",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "RCy3": [],
     "RDRToolbox": [],
     "ReactomeGraph4R": [
-        "neo4r",
-        "tidyr"
+        "neo4r"
     ],
-    "ReactomeGSA": [
-        "tidyr"
-    ],
+    "ReactomeGSA": [],
     "ReactomePA": [
         "DOSE",
         "GO.db",
@@ -8495,16 +8044,13 @@
         "reactome.db",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
     "rebook": [
         "BiocStyle"
     ],
-    "receptLoss": [
-        "tidyr"
-    ],
+    "receptLoss": [],
     "reconsi": [],
     "recount": [
         "BSgenome",
@@ -8518,8 +8064,7 @@
         "bumphunter",
         "derfinder",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "recount3": [
         "BiocFileCache",
@@ -8536,8 +8081,7 @@
         "genefilter",
         "minfi",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "recoup": [
         "BiocFileCache",
@@ -8569,8 +8113,7 @@
         "WGCNA",
         "annotate",
         "fgsea",
-        "geneplotter",
-        "tidyr"
+        "geneplotter"
     ],
     "regioneR": [
         "BSgenome",
@@ -8627,8 +8170,7 @@
         "org.Hs.eg.db",
         "readr",
         "recipes",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "Repitools": [
         "BSgenome",
@@ -8659,8 +8201,7 @@
         "genefilter",
         "geneplotter",
         "ggbio",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "RepViz": [
         "BiocFileCache",
@@ -8687,7 +8228,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "rfaRm": [],
@@ -8754,8 +8294,7 @@
         "geneplotter",
         "plotly",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "RiboDiPA": [
         "BiocFileCache",
@@ -8780,12 +8319,9 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
-    "ribor": [
-        "tidyr"
-    ],
+    "ribor": [],
     "ribosomeProfilingQC": [
         "BSgenome",
         "BiocFileCache",
@@ -8810,7 +8346,6 @@
         "pbkrtest",
         "rtracklayer",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "RImmPort": [],
@@ -8845,7 +8380,6 @@
         "biomaRt",
         "ensembldb",
         "rtracklayer",
-        "tidyr",
         "topGO"
     ],
     "RJMCMCNucleosomes": [
@@ -8867,7 +8401,6 @@
         "recipes",
         "regioneR",
         "rtracklayer",
-        "tidyr",
         "valr"
     ],
     "RMassBank": [
@@ -8907,8 +8440,7 @@
         "org.Hs.eg.db",
         "readr",
         "recount",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "RNAdecay": [
         "nloptr",
@@ -8923,8 +8455,7 @@
         "bumphunter",
         "logistf",
         "mice",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "RNAinteract": [
         "Category",
@@ -9025,7 +8556,6 @@
         "systemPipeR",
         "testthat",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio",
         "waldo"
@@ -9052,7 +8582,6 @@
         "rstatix",
         "rtracklayer",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "RnBeads": [
@@ -9070,8 +8599,7 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "roar": [
         "rtracklayer"
@@ -9081,8 +8609,7 @@
     "ropls": [
         "MultiAssayExperiment",
         "MultiDataSet",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "RPA": [
         "BiocStyle"
@@ -9117,12 +8644,10 @@
         "plotly",
         "ropls",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "rqubic": [
-        "biclust",
-        "tidyr"
+        "biclust"
     ],
     "rrvgo": [
         "GO.db",
@@ -9141,7 +8666,6 @@
         "rstatix",
         "survminer",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "RTCGAToolbox": [
@@ -9152,8 +8676,7 @@
         "TCGAutils",
         "biomaRt",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "RTN": [
         "broom",
@@ -9164,7 +8687,6 @@
         "pbkrtest",
         "plotly",
         "testthat",
-        "tidyr",
         "viper",
         "waldo"
     ],
@@ -9178,7 +8700,6 @@
         "pbkrtest",
         "plotly",
         "testthat",
-        "tidyr",
         "viper",
         "waldo"
     ],
@@ -9193,13 +8714,10 @@
         "pbkrtest",
         "plotly",
         "testthat",
-        "tidyr",
         "viper",
         "waldo"
     ],
-    "Rtpca": [
-        "tidyr"
-    ],
+    "Rtpca": [],
     "rtracklayer": [],
     "Rtreemix": [
         "Hmisc"
@@ -9215,7 +8733,6 @@
     "runibic": [
         "biclust",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "RUVSeq": [
@@ -9228,12 +8745,9 @@
     ],
     "RVS": [
         "broom",
-        "gRain",
-        "tidyr"
+        "gRain"
     ],
-    "rWikiPathways": [
-        "tidyr"
-    ],
+    "rWikiPathways": [],
     "safe": [],
     "SAIGEgds": [],
     "sampleClassifier": [
@@ -9245,8 +8759,7 @@
     ],
     "sangeranalyseR": [
         "BiocStyle",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "SBGNview": [
         "SBGNview.data",
@@ -9256,8 +8769,7 @@
     "SC3": [],
     "scAlign": [
         "Seurat",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "SCAN.UPC": [
         "GEOquery",
@@ -9265,8 +8777,7 @@
         "genefilter",
         "oligo",
         "readr",
-        "sva",
-        "tidyr"
+        "sva"
     ],
     "scanMiR": [],
     "scanMiRApp": [
@@ -9278,8 +8789,7 @@
         "plotly",
         "rtracklayer",
         "scanMiR",
-        "scanMiRData",
-        "tidyr"
+        "scanMiRData"
     ],
     "scAnnotatR": [
         "AnnotationHub",
@@ -9287,8 +8797,7 @@
         "Seurat",
         "caret",
         "plotly",
-        "recipes",
-        "tidyr"
+        "recipes"
     ],
     "SCANVIS": [
         "rtracklayer"
@@ -9311,7 +8820,6 @@
         "genefilter",
         "geneplotter",
         "plotly",
-        "tidyr",
         "zinbwave"
     ],
     "scBubbletree": [
@@ -9319,7 +8827,6 @@
         "aplot",
         "ggtree",
         "plotly",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -9327,8 +8834,7 @@
         "DropletUtils",
         "Seurat",
         "plotly",
-        "scuttle",
-        "tidyr"
+        "scuttle"
     ],
     "scClassify": [
         "Cepo",
@@ -9337,17 +8843,14 @@
         "ggraph",
         "mixtools",
         "plotly",
-        "tidygraph",
-        "tidyr"
+        "tidygraph"
     ],
     "sccomp": [
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "scDataviz": [
         "Seurat",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "scDblFinder": [
         "ggrastr",
@@ -9379,14 +8882,12 @@
         "annotate",
         "caret",
         "geneplotter",
-        "recipes",
-        "tidyr"
+        "recipes"
     ],
     "schex": [
         "Seurat",
         "concaveman",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "scHOT": [],
     "scifer": [
@@ -9394,8 +8895,7 @@
     ],
     "scMAGeCK": [
         "Seurat",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "scmap": [],
     "scMerge": [
@@ -9429,8 +8929,7 @@
         "biomaRt",
         "mixtools",
         "plotly",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "Sconify": [
         "readr"
@@ -9452,8 +8951,7 @@
     "scp": [
         "MultiAssayExperiment",
         "QFeatures",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "scPipe": [
         "BiocFileCache",
@@ -9466,7 +8964,6 @@
         "scater",
         "scuttle",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "scran": [
@@ -9476,14 +8973,11 @@
     "scRecover": [
         "Rmagic"
     ],
-    "ScreenR": [
-        "tidyr"
-    ],
+    "ScreenR": [],
     "scRepertoire": [
         "ggalluvial",
         "ggraph",
-        "tidygraph",
-        "tidyr"
+        "tidygraph"
     ],
     "scruff": [
         "BSgenome",
@@ -9498,8 +8992,7 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "scry": [],
     "scTensor": [
@@ -9538,7 +9031,6 @@
         "scatterpie",
         "schex",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -9552,8 +9044,7 @@
         "msigdbr",
         "nnTensor",
         "plotly",
-        "schex",
-        "tidyr"
+        "schex"
     ],
     "scTreeViz": [
         "BiocFileCache",
@@ -9573,8 +9064,7 @@
         "scater",
         "scran",
         "scuttle",
-        "tidygraph",
-        "tidyr"
+        "tidygraph"
     ],
     "scuttle": [],
     "SDAMS": [],
@@ -9596,7 +9086,6 @@
         "rtracklayer",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -9611,8 +9100,7 @@
         "HiLDA",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "biomaRt",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "SemDist": [
         "GO.db",
@@ -9632,8 +9120,7 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "biomaRt",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "SeqGSEA": [
         "BiocFileCache",
@@ -9650,14 +9137,12 @@
         "BiocFileCache",
         "ExperimentHub",
         "GGally",
-        "rbokeh",
-        "tidyr"
+        "rbokeh"
     ],
     "SeqVarTools": [
         "broom",
         "logistf",
-        "mice",
-        "tidyr"
+        "mice"
     ],
     "sesame": [
         "AnnotationHub",
@@ -9697,8 +9182,7 @@
         "minfi",
         "plotly",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "shinyMethyl": [
         "BiocFileCache",
@@ -9711,8 +9195,7 @@
         "genefilter",
         "minfi",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "ShortRead": [],
     "SIAMCAT": [
@@ -9751,7 +9234,6 @@
         "readr",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -9773,7 +9255,6 @@
         "survivalAnalysis",
         "survminer",
         "testthat",
-        "tidyr",
         "tidytidbits",
         "waldo"
     ],
@@ -9803,7 +9284,6 @@
         "survcomp",
         "survminer",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "SigsPack": [
@@ -9823,9 +9303,7 @@
         "annotate",
         "genefilter"
     ],
-    "SimBu": [
-        "tidyr"
-    ],
+    "SimBu": [],
     "simpleSeg": [
         "BiocFileCache",
         "DropletUtils",
@@ -9841,9 +9319,7 @@
     "sincell": [
         "fields"
     ],
-    "single": [
-        "tidyr"
-    ],
+    "single": [],
     "SingleCellSignalR": [
         "scran",
         "scuttle"
@@ -9896,7 +9372,6 @@
         "scran",
         "scuttle",
         "sva",
-        "tidyr",
         "tidytree",
         "treeio",
         "zinbwave"
@@ -9915,8 +9390,7 @@
     "singscore": [
         "GSEABase",
         "annotate",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "SISPA": [
         "GSEABase",
@@ -9933,7 +9407,6 @@
     "sitePath": [
         "aplot",
         "ggtree",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -9955,7 +9428,6 @@
         "org.Hs.eg.db",
         "readr",
         "rtracklayer",
-        "tidyr",
         "wateRmelon"
     ],
     "slalom": [
@@ -9965,9 +9437,7 @@
     "slingshot": [
         "TrajectoryUtils"
     ],
-    "SMAD": [
-        "tidyr"
-    ],
+    "SMAD": [],
     "SMITE": [
         "BioNet",
         "BiocFileCache",
@@ -10011,8 +9481,7 @@
     "sojourner": [
         "mixtools",
         "plotly",
-        "sampSurf",
-        "tidyr"
+        "sampSurf"
     ],
     "SomaticSignatures": [
         "BSgenome",
@@ -10026,8 +9495,7 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "Spaniel": [
         "DropletUtils",
@@ -10036,15 +9504,13 @@
         "plotly",
         "scater",
         "scran",
-        "scuttle",
-        "tidyr"
+        "scuttle"
     ],
     "sparrow": [
         "BiocSet",
         "GSEABase",
         "annotate",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "SparseSignatures": [
         "BSgenome",
@@ -10057,8 +9523,7 @@
         "scuttle"
     ],
     "SpatialCPie": [
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "spatialDE": [
         "BiocFileCache",
@@ -10074,7 +9539,6 @@
         "lmerTest",
         "nloptr",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "SpatialExperiment": [
@@ -10099,8 +9563,7 @@
         "plotly",
         "scater",
         "scran",
-        "scuttle",
-        "tidyr"
+        "scuttle"
     ],
     "spatzie": [
         "BSgenome",
@@ -10137,7 +9600,6 @@
         "dittoSeq",
         "plotly",
         "scuttle",
-        "tidyr",
         "xROI"
     ],
     "spicyR": [
@@ -10150,7 +9612,6 @@
         "nloptr",
         "scuttle",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "SpidermiR": [
@@ -10178,8 +9639,7 @@
         "genefilter",
         "heatmaply",
         "plotly",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "SplicingGraphs": [
         "BiocFileCache",
@@ -10223,7 +9683,6 @@
         "recipes",
         "rstatix",
         "testthat",
-        "tidyr",
         "tidyverse",
         "waldo"
     ],
@@ -10233,8 +9692,7 @@
         "Seurat",
         "SpatialExperiment",
         "plotly",
-        "scuttle",
-        "tidyr"
+        "scuttle"
     ],
     "SPOTlight": [],
     "spqn": [],
@@ -10246,8 +9704,7 @@
     "SQLDataFrame": [],
     "SRAdb": [
         "GEOquery",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "srnadiff": [
         "BSgenome",
@@ -10272,8 +9729,7 @@
         "ggraph",
         "graphite",
         "org.Hs.eg.db",
-        "tidygraph",
-        "tidyr"
+        "tidygraph"
     ],
     "ssPATHS": [
         "MESS",
@@ -10283,8 +9739,7 @@
         "haven",
         "labelled",
         "mosaicCore",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "STAN": [
         "BSgenome",
@@ -10310,8 +9765,7 @@
         "ggalluvial",
         "readr",
         "rtracklayer",
-        "scuttle",
-        "tidyr"
+        "scuttle"
     ],
     "staRank": [
         "Category",
@@ -10334,12 +9788,10 @@
         "haven",
         "modelr",
         "readr",
-        "tidyr",
         "tidyverse"
     ],
     "STdeconvolve": [
-        "scatterpie",
-        "tidyr"
+        "scatterpie"
     ],
     "stJoincount": [
         "BiocFileCache",
@@ -10347,8 +9799,7 @@
         "Seurat",
         "SpatialExperiment",
         "plotly",
-        "scuttle",
-        "tidyr"
+        "scuttle"
     ],
     "strandCheckR": [
         "BiocFileCache",
@@ -10370,15 +9821,10 @@
     "SubCellBarCode": [
         "caret",
         "org.Hs.eg.db",
-        "recipes",
-        "tidyr"
+        "recipes"
     ],
-    "subSeq": [
-        "tidyr"
-    ],
-    "SummarizedBenchmark": [
-        "tidyr"
-    ],
+    "subSeq": [],
+    "SummarizedBenchmark": [],
     "Summix": [
         "nloptr",
         "testthat",
@@ -10387,12 +9833,10 @@
     "supersigs": [
         "caret",
         "recipes",
-        "rsample",
-        "tidyr"
+        "rsample"
     ],
     "supraHex": [
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "surfaltr": [
         "BiocFileCache",
@@ -10412,7 +9856,6 @@
         "rstatix",
         "survminer",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "sva": [
@@ -10463,7 +9906,6 @@
         "plotly",
         "readr",
         "testthat",
-        "tidyr",
         "tidyverse",
         "waldo"
     ],
@@ -10474,7 +9916,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "syntenet": [
@@ -10491,8 +9932,7 @@
         "drawer",
         "plotly",
         "shinydashboardPlus",
-        "spsComps",
-        "tidyr"
+        "spsComps"
     ],
     "systemPipeTools": [
         "DESeq2",
@@ -10502,7 +9942,6 @@
         "geneplotter",
         "ggtree",
         "plotly",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -10517,13 +9956,11 @@
         "pbkrtest",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "tanggle": [
         "aplot",
         "ggtree",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -10532,8 +9969,7 @@
         "BiocFileCache",
         "GenomicFeatures",
         "biomaRt",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "TargetDecoy": [
         "broom",
@@ -10544,7 +9980,6 @@
         "pbkrtest",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "TarSeqQC": [
@@ -10560,8 +9995,7 @@
         "geneplotter",
         "plotly",
         "singscore",
-        "sva",
-        "tidyr"
+        "sva"
     ],
     "TCC": [
         "DESeq2",
@@ -10571,8 +10005,7 @@
     "TCGAbiolinks": [
         "BiocFileCache",
         "biomaRt",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "TCGAbiolinksGUI": [
         "AnnotationHub",
@@ -10620,7 +10053,6 @@
         "sesameData",
         "testthat",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio",
         "waldo"
@@ -10632,8 +10064,7 @@
         "MultiAssayExperiment",
         "biomaRt",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "TCseq": [],
     "TDARACNE": [
@@ -10667,8 +10098,7 @@
         "TCGAutils",
         "biomaRt",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "TFARM": [
         "fields"
@@ -10708,16 +10138,13 @@
         "org.Hs.eg.db"
     ],
     "tidybulk": [
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "tidySingleCellExperiment": [
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "tidySummarizedExperiment": [
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "tigre": [
         "annotate"
@@ -10728,8 +10155,7 @@
     ],
     "timeOmics": [
         "mixOmics",
-        "propr",
-        "tidyr"
+        "propr"
     ],
     "TimiRGeN": [
         "BiocFileCache",
@@ -10751,7 +10177,6 @@
         "rWikiPathways",
         "scatterpie",
         "tidygraph",
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -10762,8 +10187,7 @@
     ],
     "TissueEnrich": [
         "GSEABase",
-        "annotate",
-        "tidyr"
+        "annotate"
     ],
     "TitanCNA": [
         "BSgenome",
@@ -10784,7 +10208,6 @@
         "readr",
         "recipes",
         "rtracklayer",
-        "tidyr",
         "visdat"
     ],
     "TNBC.CMS": [
@@ -10800,19 +10223,16 @@
         "pbkrtest",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "TOAST": [
-        "GGally",
-        "tidyr"
+        "GGally"
     ],
     "tomoda": [],
     "tomoseqr": [
         "BiocFileCache",
         "plotly",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "topdownr": [
         "MSnbase"
@@ -10824,17 +10244,13 @@
         "CoreGx",
         "MultiAssayExperiment",
         "fgsea",
-        "piano",
-        "tidyr"
+        "piano"
     ],
     "TPP": [
         "biobroom",
-        "broom",
-        "tidyr"
+        "broom"
     ],
-    "TPP2D": [
-        "tidyr"
-    ],
+    "TPP2D": [],
     "trackViewer": [
         "BSgenome",
         "BiocFileCache",
@@ -10858,7 +10274,6 @@
         "BiocFileCache",
         "GO.db",
         "biomaRt",
-        "tidyr",
         "topGO"
     ],
     "transcriptR": [
@@ -10869,8 +10284,7 @@
         "caret",
         "chipseq",
         "recipes",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "transformGamPoi": [
         "glmGamPoi"
@@ -10903,7 +10317,6 @@
         "slingshot"
     ],
     "treeio": [
-        "tidyr",
         "tidytree"
     ],
     "treekoR": [
@@ -10919,13 +10332,11 @@
         "pbkrtest",
         "rstatix",
         "testthat",
-        "tidyr",
         "tidytree",
         "treeio",
         "waldo"
     ],
     "TreeSummarizedExperiment": [
-        "tidyr",
         "tidytree",
         "treeio"
     ],
@@ -10963,8 +10374,7 @@
     ],
     "tripr": [
         "golem",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "tRNA": [],
     "tRNAdbImport": [
@@ -10990,8 +10400,7 @@
         "readr",
         "syuzhet",
         "textclean",
-        "textstem",
-        "tidyr"
+        "textstem"
     ],
     "TTMap": [],
     "txcutr": [
@@ -11086,7 +10495,6 @@
         "syuzhet",
         "textclean",
         "textstem",
-        "tidyr",
         "ttgsea",
         "webchem"
     ],
@@ -11107,7 +10515,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "VariantAnnotation": [
@@ -11121,8 +10528,7 @@
         "SeqVarTools",
         "broom",
         "logistf",
-        "mice",
-        "tidyr"
+        "mice"
     ],
     "VariantFiltering": [
         "AnnotationHub",
@@ -11176,13 +10582,11 @@
         "DESeq2",
         "GGally",
         "annotate",
-        "geneplotter",
-        "tidyr"
+        "geneplotter"
     ],
     "viper": [
         "mixtools",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "ViSEAGO": [
         "AnnotationForge",
@@ -11196,7 +10600,6 @@
         "heatmaply",
         "plotly",
         "readr",
-        "tidyr",
         "topGO"
     ],
     "vissE": [
@@ -11213,8 +10616,7 @@
         "syuzhet",
         "textclean",
         "textstem",
-        "tidygraph",
-        "tidyr"
+        "tidygraph"
     ],
     "Voyager": [
         "BiocFileCache",
@@ -11225,8 +10627,7 @@
     ],
     "VplotR": [],
     "vsclust": [
-        "MultiAssayExperiment",
-        "tidyr"
+        "MultiAssayExperiment"
     ],
     "vtpnet": [
         "AnnotationHub",
@@ -11259,7 +10660,6 @@
         "regioneR",
         "rtracklayer",
         "systemPipeR",
-        "tidyr",
         "viper"
     ],
     "waddR": [
@@ -11287,8 +10687,7 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "wavClusteR": [
         "BiocFileCache",
@@ -11310,15 +10709,13 @@
     ],
     "wppi": [
         "OmnipathR",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "xcms": [
         "MSnbase"
     ],
     "xcore": [
-        "MultiAssayExperiment",
-        "tidyr"
+        "MultiAssayExperiment"
     ],
     "XDE": [
         "GeneMeta",
@@ -11330,8 +10727,7 @@
         "MultiAssayExperiment",
         "PharmacoGx",
         "fgsea",
-        "piano",
-        "tidyr"
+        "piano"
     ],
     "XINA": [
         "STRINGdb"
@@ -11355,8 +10751,7 @@
         "dendextend",
         "ensembldb",
         "ggbio",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "yarn": [
         "BiocFileCache",
@@ -11369,8 +10764,7 @@
         "minfi",
         "quantro",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "zellkonverter": [],
     "zenith": [
@@ -11390,22 +10784,16 @@
         "pbkrtest",
         "safe",
         "testthat",
-        "tidyr",
         "variancePartition",
         "waldo"
     ],
-    "zFPKM": [
-        "tidyr"
-    ],
+    "zFPKM": [],
     "zinbwave": [
         "annotate",
         "genefilter"
     ],
     "GO.db": [],
-    "plotly": [
-        "tidyr"
-    ],
-    "tidyr": [],
+    "plotly": [],
     "ggpubr": [
         "broom",
         "car",
@@ -11414,7 +10802,6 @@
         "pbkrtest",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "testthat": [
@@ -11427,20 +10814,16 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "waldo": [],
-    "broom": [
-        "tidyr"
-    ],
+    "broom": [],
     "car": [
         "broom",
         "lme4",
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "pbkrtest": [
@@ -11448,7 +10831,6 @@
         "lme4",
         "nloptr",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "lme4": [
@@ -11467,17 +10849,14 @@
     ],
     "PFAM.db": [],
     "Hmisc": [],
-    "GGally": [
-        "tidyr"
-    ],
+    "GGally": [],
     "ggrastr": [],
     "speaq": [],
     "curatedTCGAData": [
         "AnnotationHub",
         "BiocFileCache",
         "ExperimentHub",
-        "MultiAssayExperiment",
-        "tidyr"
+        "MultiAssayExperiment"
     ],
     "readr": [],
     "DescTools": [],
@@ -11487,21 +10866,15 @@
         "testthat",
         "waldo"
     ],
-    "tidytree": [
-        "tidyr"
-    ],
+    "tidytree": [],
     "caret": [
-        "recipes",
-        "tidyr"
+        "recipes"
     ],
     "GUniFrac": [],
-    "recipes": [
-        "tidyr"
-    ],
+    "recipes": [],
     "org.Sc.sgd.db": [],
     "Seurat": [
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "org.Hs.eg.db": [],
     "org.Mm.eg.db": [],
@@ -11587,17 +10960,14 @@
         "rtracklayer"
     ],
     "mGSZ": [],
-    "ggfortify": [
-        "tidyr"
-    ],
+    "ggfortify": [],
     "msigdbr": [],
     "tidyverse": [
         "broom",
         "googlesheets4",
         "haven",
         "modelr",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "Mus.musculus": [
         "BiocFileCache",
@@ -11619,9 +10989,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "ggalluvial": [
-        "tidyr"
-    ],
+    "ggalluvial": [],
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [
         "BiocFileCache",
         "GenomicFeatures",
@@ -11633,13 +11001,11 @@
         "readr"
     ],
     "modelr": [
-        "broom",
-        "tidyr"
+        "broom"
     ],
     "reactome.db": [],
     "mixtools": [
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "doBy": [
         "broom",
@@ -11647,7 +11013,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "pRolocdata": [
@@ -11665,8 +11030,7 @@
     "colourpicker": [],
     "heatmaply": [
         "dendextend",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "corncob": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
@@ -11679,8 +11043,7 @@
         "genefilter",
         "minfi",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "radiant.data": [
         "broom",
@@ -11691,29 +11054,20 @@
         "plotly",
         "readr",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "org.Bt.eg.db": [],
     "DiagrammeR": [
-        "readr",
-        "tidyr"
+        "readr"
     ],
-    "gson": [
-        "tidyr"
-    ],
+    "gson": [],
     "HDO.db": [],
     "ggraph": [
-        "tidygraph",
-        "tidyr"
+        "tidygraph"
     ],
     "aplot": [],
-    "scatterpie": [
-        "tidyr"
-    ],
-    "tidygraph": [
-        "tidyr"
-    ],
+    "scatterpie": [],
+    "tidygraph": [],
     "rms": [
         "Hmisc"
     ],
@@ -11782,7 +11136,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "FactoMineR": [
@@ -11792,17 +11145,14 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "ggpmisc": [],
     "broom.mixed": [
-        "broom",
-        "tidyr"
+        "broom"
     ],
     "mice": [
-        "broom",
-        "tidyr"
+        "broom"
     ],
     "GenomicTools": [],
     "IlluminaHumanMethylationEPICmanifest": [
@@ -11815,8 +11165,7 @@
         "genefilter",
         "minfi",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "IlluminaHumanMethylation450kmanifest": [
         "BiocFileCache",
@@ -11828,8 +11177,7 @@
         "genefilter",
         "minfi",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [
         "BiocFileCache",
@@ -11841,8 +11189,7 @@
         "genefilter",
         "minfi",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "isva": [],
     "geneLenDataBase": [
@@ -11854,8 +11201,7 @@
     "spp": [],
     "ChIC.data": [
         "caret",
-        "recipes",
-        "tidyr"
+        "recipes"
     ],
     "BSgenome.Mmusculus.UCSC.mm9": [
         "BSgenome",
@@ -11907,13 +11253,10 @@
         "rtracklayer"
     ],
     "phylobase": [
-        "RNeXML",
-        "tidyr"
+        "RNeXML"
     ],
     "benchmarkme": [],
-    "RNeXML": [
-        "tidyr"
-    ],
+    "RNeXML": [],
     "rio": [
         "haven",
         "readr"
@@ -11929,15 +11272,13 @@
         "pbkrtest",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "Ecume": [
         "caret",
         "recipes",
         "spatstat",
-        "spatstat.linnet",
-        "tidyr"
+        "spatstat.linnet"
     ],
     "spatstat": [
         "spatstat.linnet"
@@ -11964,8 +11305,7 @@
         "genefilter",
         "minfi",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "faahKO": [
         "MSnbase",
@@ -11974,7 +11314,6 @@
     "dorothea": [
         "mixtools",
         "plotly",
-        "tidyr",
         "viper"
     ],
     "crisprScoreData": [
@@ -11985,8 +11324,7 @@
     "keras": [],
     "shinypanel": [],
     "highcharter": [
-        "broom",
-        "tidyr"
+        "broom"
     ],
     "cytometree": [],
     "RFOC": [
@@ -12034,21 +11372,16 @@
     "textstem": [
         "lexicon",
         "syuzhet",
-        "textclean",
-        "tidyr"
+        "textclean"
     ],
     "lexicon": [
-        "syuzhet",
-        "tidyr"
+        "syuzhet"
     ],
     "textclean": [
         "lexicon",
-        "syuzhet",
-        "tidyr"
+        "syuzhet"
     ],
-    "syuzhet": [
-        "tidyr"
-    ],
+    "syuzhet": [],
     "VIM": [
         "broom",
         "car",
@@ -12056,7 +11389,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "NBPSeq": [],
@@ -12086,17 +11418,14 @@
         "readr"
     ],
     "gprofiler2": [
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "ComplexUpset": [],
     "gap": [
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "geepack": [
-        "broom",
-        "tidyr"
+        "broom"
     ],
     "fda": [
         "fds",
@@ -12115,7 +11444,6 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "FCPS": [],
@@ -12128,31 +11456,26 @@
         "pbkrtest",
         "rstatix",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "logistf": [
         "broom",
-        "mice",
-        "tidyr"
+        "mice"
     ],
     "bs4Dash": [],
     "shinyHeatmaply": [
         "dendextend",
         "heatmaply",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "ggalt": [
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "HH": [
         "Hmisc"
     ],
     "gRain": [
-        "broom",
-        "tidyr"
+        "broom"
     ],
     "epiR": [],
     "HiContactsData": [
@@ -12161,9 +11484,7 @@
         "ExperimentHub"
     ],
     "available": [],
-    "biclust": [
-        "tidyr"
-    ],
+    "biclust": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "BiocFileCache",
         "GenomicFeatures",
@@ -12191,8 +11512,7 @@
     "densEstBayes": [],
     "adabag": [
         "caret",
-        "recipes",
-        "tidyr"
+        "recipes"
     ],
     "glmmTMB": [
         "lme4",
@@ -12214,26 +11534,22 @@
         "klaR",
         "labelled",
         "questionr",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "klaR": [
         "haven",
         "labelled",
         "questionr",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "questionr": [
         "haven",
         "labelled",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "labelled": [
         "haven",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "SmartSVA": [
         "annotate",
@@ -12265,8 +11581,7 @@
         "genefilter",
         "minfi",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "methylclockData": [
         "AnnotationForge",
@@ -12281,13 +11596,11 @@
         "rtracklayer"
     ],
     "ggmcmc": [
-        "GGally",
-        "tidyr"
+        "GGally"
     ],
     "HardyWeinberg": [
         "broom",
-        "mice",
-        "tidyr"
+        "mice"
     ],
     "lumiHumanAll.db": [
         "org.Hs.eg.db"
@@ -12298,13 +11611,11 @@
     ],
     "miRBaseVersions.db": [],
     "s4vd": [
-        "biclust",
-        "tidyr"
+        "biclust"
     ],
     "BiBitR": [
         "biclust",
-        "dendextend",
-        "tidyr"
+        "dendextend"
     ],
     "subspace": [
         "ggvis"
@@ -12316,15 +11627,11 @@
         "nloptr",
         "recipes",
         "testthat",
-        "tidyr",
         "waldo"
     ],
-    "groupdata2": [
-        "tidyr"
-    ],
+    "groupdata2": [],
     "echarts4r": [
-        "broom",
-        "tidyr"
+        "broom"
     ],
     "HiveR": [],
     "anyLib": [
@@ -12346,8 +11653,7 @@
     "mppa": [],
     "dnet": [
         "readr",
-        "supraHex",
-        "tidyr"
+        "supraHex"
     ],
     "RcmdrMisc": [
         "Hmisc",
@@ -12359,7 +11665,6 @@
         "pbkrtest",
         "readr",
         "testthat",
-        "tidyr",
         "waldo"
     ],
     "qpcR": [],
@@ -12379,12 +11684,10 @@
         "klaR",
         "labelled",
         "questionr",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "OMICsPCAdata": [
-        "MultiAssayExperiment",
-        "tidyr"
+        "MultiAssayExperiment"
     ],
     "AICcmodavg": [
         "lme4",
@@ -12393,9 +11696,7 @@
         "unmarked",
         "waldo"
     ],
-    "summarytools": [
-        "tidyr"
-    ],
+    "summarytools": [],
     "unmarked": [
         "lme4",
         "nloptr",
@@ -12416,8 +11717,7 @@
     "C50": [],
     "tidybayes": [
         "ggdist",
-        "posterior",
-        "tidyr"
+        "posterior"
     ],
     "ggdist": [],
     "posterior": [],
@@ -12455,9 +11755,7 @@
         "GenomicScores",
         "rtracklayer"
     ],
-    "neo4r": [
-        "tidyr"
-    ],
+    "neo4r": [],
     "BSgenome.Celegans.UCSC.ce2": [
         "BSgenome",
         "rtracklayer"
@@ -12473,13 +11771,11 @@
     "valr": [
         "broom",
         "readr",
-        "rtracklayer",
-        "tidyr"
+        "rtracklayer"
     ],
     "caretEnsemble": [
         "caret",
-        "recipes",
-        "tidyr"
+        "recipes"
     ],
     "RLHub": [
         "AnnotationHub",
@@ -12505,8 +11801,7 @@
     ],
     "clustree": [
         "ggraph",
-        "tidygraph",
-        "tidyr"
+        "tidygraph"
     ],
     "rbokeh": [],
     "survivalAnalysis": [
@@ -12519,16 +11814,12 @@
         "rstatix",
         "survminer",
         "testthat",
-        "tidyr",
         "tidytidbits",
         "waldo"
     ],
-    "tidytidbits": [
-        "tidyr"
-    ],
+    "tidytidbits": [],
     "openair": [
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "celldex": [
         "AnnotationHub",
@@ -12543,8 +11834,7 @@
     ],
     "SoupX": [
         "Seurat",
-        "plotly",
-        "tidyr"
+        "plotly"
     ],
     "scRNAseq": [
         "AnnotationHub",
@@ -12577,22 +11867,16 @@
         "haven",
         "labelled",
         "mosaicCore",
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "ggformula": [
         "haven",
         "labelled",
         "mosaicCore",
-        "readr",
-        "tidyr"
+        "readr"
     ],
-    "mosaicCore": [
-        "tidyr"
-    ],
-    "rsample": [
-        "tidyr"
-    ],
+    "mosaicCore": [],
+    "rsample": [],
     "gstat": [],
     "SpatialExtremes": [
         "fields"
@@ -12602,17 +11886,14 @@
     "GenKern": [],
     "gghighlight": [],
     "bestNormalize": [
-        "recipes",
-        "tidyr"
+        "recipes"
     ],
     "naniar": [
         "readr",
-        "tidyr",
         "visdat"
     ],
     "visdat": [
-        "readr",
-        "tidyr"
+        "readr"
     ],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
