@@ -579,7 +579,6 @@
         "ggtree"
     ],
     "EBSEA": [],
-    "EBSeqHMM": [],
     "edge": [
         "lme4",
         "snm"
