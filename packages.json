@@ -14162,7 +14162,6 @@
     ],
     "GeneNetworkBuilder": [],
     "GeneOverlap": [],
-    "geneplast": [],
     "geneplotter": [
         "AnnotationDbi",
         "Biostrings",
