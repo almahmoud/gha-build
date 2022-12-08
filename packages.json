@@ -129,9 +129,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "ASSIGN": [
-        "sva"
-    ],
+    "ASSIGN": [],
     "ATACCoGAPS": [
         "Homo.sapiens",
         "Mus.musculus",
@@ -176,9 +174,7 @@
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
-    "ballgown": [
-        "sva"
-    ],
+    "ballgown": [],
     "bambu": [],
     "bandle": [
         "caret",
@@ -190,9 +186,7 @@
     "BASiCStan": [
         "BASiCS"
     ],
-    "BatchQC": [
-        "sva"
-    ],
+    "BatchQC": [],
     "BayesSpace": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
@@ -291,9 +285,7 @@
     "BioNAR": [
         "synaptome.db"
     ],
-    "BioNERO": [
-        "sva"
-    ],
+    "BioNERO": [],
     "BioNetStat": [],
     "biosigner": [
         "ropls"
@@ -326,12 +318,8 @@
         "PADOG"
     ],
     "BloodGen3Module": [],
-    "bnbc": [
-        "sva"
-    ],
-    "bnem": [
-        "sva"
-    ],
+    "bnbc": [],
+    "bnem": [],
     "BOBaFIT": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -393,8 +381,7 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "ggbio",
-        "sva"
+        "ggbio"
     ],
     "CAGEr": [],
     "CAMERA": [],
@@ -516,7 +503,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "sva",
         "wateRmelon"
     ],
     "ChIC": [
@@ -776,9 +762,7 @@
         "crisprScoreData",
         "ensembldb"
     ],
-    "crossmeta": [
-        "sva"
-    ],
+    "crossmeta": [],
     "CSSQ": [],
     "cTRAP": [],
     "CTSV": [],
@@ -843,8 +827,7 @@
         "caret",
         "lme4",
         "nloptr",
-        "pbkrtest",
-        "sva"
+        "pbkrtest"
     ],
     "DAPAR": [],
     "dasper": [
@@ -876,7 +859,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "sva",
         "treeio"
     ],
     "DEComplexDisease": [
@@ -914,8 +896,7 @@
         "DESeq2"
     ],
     "DeMixT": [
-        "DSS",
-        "sva"
+        "DSS"
     ],
     "DepecheR": [],
     "derfinder": [
@@ -952,9 +933,7 @@
     "DEWSeq": [
         "DESeq2"
     ],
-    "DExMA": [
-        "sva"
-    ],
+    "DExMA": [],
     "DEXSeq": [
         "DESeq2"
     ],
@@ -1017,9 +996,7 @@
     "DominoEffect": [
         "VariantAnnotation"
     ],
-    "doppelgangR": [
-        "sva"
-    ],
+    "doppelgangR": [],
     "Doscheda": [
         "car",
         "drc",
@@ -1071,8 +1048,7 @@
     "edge": [
         "lme4",
         "nloptr",
-        "snm",
-        "sva"
+        "snm"
     ],
     "eegc": [
         "DESeq2",
@@ -1419,8 +1395,7 @@
         "caret",
         "lme4",
         "nloptr",
-        "pbkrtest",
-        "sva"
+        "pbkrtest"
     ],
     "GCSscore": [
         "devtools"
@@ -1872,8 +1847,7 @@
         "rstatix"
     ],
     "KnowSeq": [
-        "caret",
-        "sva"
+        "caret"
     ],
     "LedPred": [],
     "levi": [],
@@ -1995,8 +1969,7 @@
     "MBECS": [
         "lme4",
         "lmerTest",
-        "nloptr",
-        "sva"
+        "nloptr"
     ],
     "mBPCR": [
         "GWASTools",
@@ -2026,8 +1999,7 @@
         "ensembldb",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "sva"
+        "missMethyl"
     ],
     "MEAT": [
         "FDb.InfiniumMethylation.hg19",
@@ -2411,8 +2383,7 @@
         "car",
         "lme4",
         "nloptr",
-        "pbkrtest",
-        "sva"
+        "pbkrtest"
     ],
     "msqrob2": [
         "QFeatures",
@@ -2660,8 +2631,7 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rexposome",
-        "sva"
+        "rexposome"
     ],
     "OMICsPCA": [
         "FactoMineR",
@@ -2731,9 +2701,7 @@
     "OUTRIDER": [
         "DESeq2"
     ],
-    "PAA": [
-        "sva"
-    ],
+    "PAA": [],
     "padma": [
         "FactoMineR",
         "car",
@@ -2900,8 +2868,7 @@
     "proBatch": [
         "lme4",
         "nloptr",
-        "pvca",
-        "sva"
+        "pvca"
     ],
     "proFIA": [
         "ropls"
@@ -2929,9 +2896,7 @@
         "pRoloc"
     ],
     "PROMISE": [],
-    "PROPS": [
-        "sva"
-    ],
+    "PROPS": [],
     "Prostar": [
         "DAPAR"
     ],
@@ -3008,12 +2973,8 @@
         "ensembldb"
     ],
     "qsea": [],
-    "qsmooth": [
-        "sva"
-    ],
-    "qsvaR": [
-        "sva"
-    ],
+    "qsmooth": [],
+    "qsvaR": [],
     "quantro": [
         "bumphunter",
         "minfi"
@@ -3257,7 +3218,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "sva",
         "treeio"
     ],
     "RnaSeqSampleSize": [
@@ -3341,9 +3301,7 @@
     ],
     "SBGNview": [],
     "scAlign": [],
-    "SCAN.UPC": [
-        "sva"
-    ],
+    "SCAN.UPC": [],
     "scanMiRApp": [
         "ensembldb"
     ],
@@ -3468,8 +3426,7 @@
         "sesameData"
     ],
     "SEtools": [
-        "DESeq2",
-        "sva"
+        "DESeq2"
     ],
     "sevenC": [],
     "SGSeq": [],
@@ -3545,7 +3502,6 @@
         "scDblFinder",
         "scMerge",
         "scRNAseq",
-        "sva",
         "treeio",
         "zinbwave"
     ],
@@ -3716,7 +3672,6 @@
         "rstatix",
         "survminer"
     ],
-    "sva": [],
     "svaNUMT": [
         "StructuralVariantAnnotation",
         "VariantAnnotation"
@@ -3771,8 +3726,7 @@
         "ASSIGN",
         "DESeq2",
         "GSVA",
-        "singscore",
-        "sva"
+        "singscore"
     ],
     "TCC": [
         "DESeq2"
@@ -3898,9 +3852,7 @@
     ],
     "TRESS": [],
     "tricycle": [],
-    "trigger": [
-        "sva"
-    ],
+    "trigger": [],
     "tripr": [],
     "tRNAdbImport": [],
     "tRNAscanImport": [],
@@ -3970,8 +3922,7 @@
         "VariantAnnotation"
     ],
     "VaSP": [
-        "ballgown",
-        "sva"
+        "ballgown"
     ],
     "VCFArray": [
         "GenomicFiles",
@@ -4283,9 +4234,7 @@
         "labelled"
     ],
     "labelled": [],
-    "SmartSVA": [
-        "sva"
-    ],
+    "SmartSVA": [],
     "EnsDb.Hsapiens.v75": [
         "ensembldb"
     ],
