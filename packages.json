@@ -490,8 +490,7 @@
         "tidyselect"
     ],
     "altcdfenvs": [
-        "Biostrings",
-        "hypergraph"
+        "Biostrings"
     ],
     "AMARETTO": [
         "AnnotationDbi",
@@ -2154,7 +2153,6 @@
     ],
     "BiGGR": [
         "hyperdraw",
-        "hypergraph",
         "stringr"
     ],
     "bigmelon": [
@@ -14190,8 +14188,7 @@
     "Harman": [],
     "Harshlight": [
         "Biostrings",
-        "altcdfenvs",
-        "hypergraph"
+        "altcdfenvs"
     ],
     "hca": [
         "BiocFileCache",
@@ -14685,10 +14682,7 @@
         "tweenr",
         "webshot"
     ],
-    "hyperdraw": [
-        "hypergraph"
-    ],
-    "hypergraph": [],
+    "hyperdraw": [],
     "iasva": [
         "GenomicRanges",
         "SummarizedExperiment"
