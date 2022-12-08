@@ -3255,7 +3255,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "RNAsense": [],
     "RNASeqR": [
         "DESeq2",
         "DOSE",
