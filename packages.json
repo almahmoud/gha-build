@@ -63183,7 +63183,6 @@
         "Biobase",
         "BiocGenerics"
     ],
-    "LBE": [],
     "ldblock": [
         "BiocGenerics",
         "Matrix",
