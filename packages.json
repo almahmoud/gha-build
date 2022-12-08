@@ -6661,9 +6661,7 @@
         "biocthis",
         "tidytext"
     ],
-    "HumanTranscriptomeCompendium": [
-        "ssrch"
-    ],
+    "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
     "hypeR": [
         "babelgene",
@@ -14442,7 +14440,6 @@
         "readr",
         "tidyr"
     ],
-    "ssrch": [],
     "ssviz": [],
     "stageR": [],
     "STAN": [
