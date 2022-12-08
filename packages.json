@@ -26663,7 +26663,6 @@
         "TH.data",
         "XVector",
         "ape",
-        "argparse",
         "bslib",
         "coin",
         "cowplot",
@@ -29614,7 +29613,6 @@
         "UpSetR",
         "XVector",
         "annotate",
-        "argparse",
         "base64",
         "bigparallelr",
         "bigstatsr",
@@ -68620,7 +68618,6 @@
     "phyclust": [
         "ape"
     ],
-    "argparse": [],
     "depmixS4": [],
     "golem": [
         "bslib",
