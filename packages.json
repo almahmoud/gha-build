@@ -15554,7 +15554,6 @@
         "ggplot2",
         "sva"
     ],
-    "Qtlizer": [],
     "quantiseqr": [
         "SummarizedExperiment",
         "dplyr",
