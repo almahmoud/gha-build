@@ -21,7 +21,6 @@
         "ggcorrplot",
         "ggdendro",
         "plotly",
-        "rmarkdown",
         "tidyr"
     ],
     "ACE": [
@@ -173,7 +172,6 @@
     "alevinQC": [
         "GGally",
         "cowplot",
-        "rmarkdown",
         "shinydashboard",
         "tidyr"
     ],
@@ -210,7 +208,6 @@
         "ggrepel",
         "mixOmics",
         "readxl",
-        "rmarkdown",
         "rvest",
         "speaq",
         "tidyr"
@@ -224,7 +221,6 @@
         "curatedTCGAData",
         "dbplyr",
         "readr",
-        "rmarkdown",
         "tidyr",
         "vroom"
     ],
@@ -232,7 +228,6 @@
         "GenomicAlignments",
         "ShortRead",
         "ggthemes",
-        "rmarkdown",
         "waffle"
     ],
     "Anaquin": [
@@ -357,7 +352,6 @@
     "AnVILPublish": [
         "AnVIL",
         "readr",
-        "rmarkdown",
         "tidyr",
         "vroom"
     ],
@@ -540,7 +534,6 @@
         "bookdown",
         "dbplyr",
         "ensembldb",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -599,7 +592,6 @@
         "readxl",
         "rematch2",
         "reprex",
-        "rmarkdown",
         "rtracklayer",
         "rvest",
         "tidyr",
@@ -766,7 +758,6 @@
         "pRolocdata",
         "plotly",
         "recipes",
-        "rmarkdown",
         "tidyr",
         "viridis",
         "vsn"
@@ -785,7 +776,6 @@
         "GenomicAlignments",
         "ShortRead",
         "prettydoc",
-        "rmarkdown",
         "tidyr"
     ],
     "Basic4Cseq": [
@@ -833,7 +823,6 @@
         "ggvis",
         "heatmaply",
         "plotly",
-        "rmarkdown",
         "sva",
         "tidyr",
         "viridis"
@@ -1047,7 +1036,6 @@
         "readr",
         "readxl",
         "rematch2",
-        "rmarkdown",
         "scatterpie",
         "shadowtext",
         "shinyFiles",
@@ -1122,14 +1110,12 @@
     ],
     "BiocSklearn": [],
     "BiocStyle": [
-        "bookdown",
-        "rmarkdown"
+        "bookdown"
     ],
     "biocthis": [],
     "BiocWorkflowTools": [
         "BiocStyle",
-        "bookdown",
-        "rmarkdown"
+        "bookdown"
     ],
     "biodb": [
         "BiocFileCache",
@@ -1281,7 +1267,6 @@
         "Hmisc",
         "org.Hs.eg.db",
         "pathview",
-        "rmarkdown",
         "shinyBS",
         "viridis"
     ],
@@ -1406,7 +1391,6 @@
         "genefilter",
         "ggdendro",
         "mnem",
-        "rmarkdown",
         "sva",
         "vsn"
     ],
@@ -1442,8 +1426,7 @@
     "BPRMeth": [
         "BiocStyle",
         "bookdown",
-        "cowplot",
-        "rmarkdown"
+        "cowplot"
     ],
     "brainflowprobes": [
         "AnnotationDbi",
@@ -1535,7 +1518,6 @@
         "bookdown",
         "dbplyr",
         "ensembldb",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -1548,7 +1530,6 @@
         "devtools",
         "pkgdown",
         "rematch2",
-        "rmarkdown",
         "roxygen2",
         "testthat",
         "waldo"
@@ -1708,7 +1689,6 @@
     ],
     "CARNIVAL": [
         "readr",
-        "rmarkdown",
         "tidyr",
         "vroom"
     ],
@@ -1934,9 +1914,7 @@
         "tidyr",
         "viridis"
     ],
-    "CellNOptR": [
-        "rmarkdown"
-    ],
+    "CellNOptR": [],
     "cellscape": [],
     "CellTrails": [
         "EnvStats",
@@ -1979,7 +1957,6 @@
         "intergraph",
         "patchwork",
         "qvalue",
-        "rmarkdown",
         "scatterpie",
         "shadowtext",
         "sna",
@@ -2139,7 +2116,6 @@
         "prettydoc",
         "qvalue",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "ruv",
         "shinythemes",
@@ -2187,7 +2163,6 @@
         "ensembldb",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -2232,7 +2207,6 @@
         "broom",
         "dbplyr",
         "ensembldb",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -2358,7 +2332,6 @@
         "kableExtra",
         "msigdbr",
         "plotly",
-        "rmarkdown",
         "rtracklayer",
         "rvest",
         "scater",
@@ -2603,24 +2576,20 @@
         "vroom"
     ],
     "CNORdt": [
-        "CellNOptR",
-        "rmarkdown"
+        "CellNOptR"
     ],
     "CNORfeeder": [
-        "CellNOptR",
-        "rmarkdown"
+        "CellNOptR"
     ],
     "CNORfuzzy": [
         "CellNOptR",
         "nloptr",
         "rematch2",
-        "rmarkdown",
         "testthat",
         "waldo"
     ],
     "CNORode": [
-        "CellNOptR",
-        "rmarkdown"
+        "CellNOptR"
     ],
     "CNTools": [
         "AnnotationDbi",
@@ -2720,7 +2689,6 @@
         "GEOquery",
         "STRINGdb",
         "readr",
-        "rmarkdown",
         "sqldf",
         "tidyr",
         "vroom",
@@ -2733,7 +2701,6 @@
         "devtools",
         "pkgdown",
         "rematch2",
-        "rmarkdown",
         "roxygen2",
         "testthat",
         "tidyr",
@@ -2757,7 +2724,6 @@
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "biomaRt",
         "dbplyr",
-        "rmarkdown",
         "rtracklayer"
     ],
     "cola": [],
@@ -2824,7 +2790,6 @@
     "COMPASS": [
         "BiocStyle",
         "bookdown",
-        "rmarkdown",
         "tidyr"
     ],
     "compcodeR": [],
@@ -3088,7 +3053,6 @@
         "mixtools",
         "plotly",
         "readr",
-        "rmarkdown",
         "tidyr",
         "viper",
         "vroom"
@@ -3103,7 +3067,6 @@
         "annotate",
         "genefilter",
         "geneplotter",
-        "rmarkdown",
         "tidyr"
     ],
     "CoverageView": [
@@ -3584,7 +3547,6 @@
         "readxl",
         "rematch2",
         "reprex",
-        "rmarkdown",
         "rvest",
         "shadowtext",
         "tidygraph",
@@ -3670,8 +3632,7 @@
         "AnnotationDbi",
         "BiocStyle",
         "bookdown",
-        "made4",
-        "rmarkdown"
+        "made4"
     ],
     "DEComplexDisease": [
         "AnnotationDbi",
@@ -3815,7 +3776,6 @@
         "bsseq",
         "dendextend",
         "genefilter",
-        "rmarkdown",
         "rtracklayer",
         "sva",
         "viridis"
@@ -3825,7 +3785,6 @@
         "MSnbase",
         "ggrepel",
         "readr",
-        "rmarkdown",
         "shinydashboard",
         "tidyr",
         "vroom",
@@ -4057,7 +4016,6 @@
         "heatmaply",
         "kableExtra",
         "plotly",
-        "rmarkdown",
         "rvest",
         "shinyBS",
         "shinycssloaders",
@@ -4348,9 +4306,7 @@
         "treeio",
         "viridis"
     ],
-    "easyreporting": [
-        "rmarkdown"
-    ],
+    "easyreporting": [],
     "easyRNASeq": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -4495,7 +4451,6 @@
         "plotly",
         "readr",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "rtracklayer",
         "rvest",
@@ -4620,7 +4575,6 @@
         "qvalue",
         "readr",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "rtracklayer",
         "scatterpie",
@@ -4689,7 +4643,6 @@
         "plotly",
         "qvalue",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "scatterpie",
         "shadowtext",
@@ -4971,7 +4924,6 @@
         "pipeFrame",
         "qvalue",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "scatterpie",
         "shadowtext",
@@ -5005,7 +4957,6 @@
         "MultiAssayExperiment",
         "ggdendro",
         "kableExtra",
-        "rmarkdown",
         "rvest",
         "tidyr"
     ],
@@ -5119,8 +5070,7 @@
     ],
     "ExpressionAtlas": [
         "BiocStyle",
-        "bookdown",
-        "rmarkdown"
+        "bookdown"
     ],
     "extraChIPs": [
         "AnnotationDbi",
@@ -5381,9 +5331,7 @@
         "tidyr",
         "viridis"
     ],
-    "flowAI": [
-        "rmarkdown"
-    ],
+    "flowAI": [],
     "flowBin": [],
     "flowcatchR": [
         "plotly",
@@ -5438,7 +5386,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "rmarkdown",
         "testthat",
         "tidyr",
         "waldo"
@@ -5673,14 +5620,11 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "gCrisprTools": [
-        "rmarkdown"
-    ],
+    "gCrisprTools": [],
     "GCSscore": [
         "devtools",
         "pkgdown",
         "rematch2",
-        "rmarkdown",
         "roxygen2",
         "testthat",
         "waldo"
@@ -5871,7 +5815,6 @@
         "ggrepel",
         "patchwork",
         "plotly",
-        "rmarkdown",
         "shinyWidgets",
         "shinycssloaders",
         "shinyjs",
@@ -5887,7 +5830,6 @@
         "GenomicAlignments",
         "bookdown",
         "org.Rn.eg.db",
-        "rmarkdown",
         "rtracklayer"
     ],
     "GENIE3": [],
@@ -6004,7 +5946,6 @@
         "pbkrtest",
         "plotly",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "testthat",
         "tidyr",
@@ -6088,7 +6029,6 @@
         "readr",
         "readxl",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "shinyBS",
         "shinyHeatmaply",
@@ -6480,7 +6420,6 @@
         "epiR",
         "flextable",
         "ggplotify",
-        "rmarkdown",
         "tidyr"
     ],
     "graper": [
@@ -6888,7 +6827,6 @@
         "ggforce",
         "kableExtra",
         "msigdbr",
-        "rmarkdown",
         "rvest"
     ],
     "iasva": [],
@@ -6982,7 +6920,6 @@
         "heatmaply",
         "pcaExplorer",
         "plotly",
-        "rmarkdown",
         "rtracklayer",
         "shinyBS",
         "shinydashboard",
@@ -7078,7 +7015,6 @@
         "flowWorkspace",
         "heatmaply",
         "plotly",
-        "rmarkdown",
         "tidyr",
         "viridis"
     ],
@@ -7092,7 +7028,6 @@
         "devtools",
         "pkgdown",
         "rematch2",
-        "rmarkdown",
         "roxygen2",
         "testthat",
         "waldo"
@@ -7180,7 +7115,6 @@
     "InteractionSet": [],
     "InteractiveComplexHeatmap": [
         "kableExtra",
-        "rmarkdown",
         "rvest"
     ],
     "interactiveDisplay": [
@@ -7584,7 +7518,6 @@
         "genefilter",
         "ipred",
         "recipes",
-        "rmarkdown",
         "sva",
         "tidyr",
         "viridis"
@@ -7597,7 +7530,6 @@
         "dbplyr",
         "learnr",
         "readr",
-        "rmarkdown",
         "shinyBS",
         "shinyFiles",
         "shinydashboard",
@@ -7616,7 +7548,6 @@
     "lefser": [],
     "levi": [
         "rematch2",
-        "rmarkdown",
         "shinydashboard",
         "shinyjs",
         "testthat",
@@ -7858,7 +7789,6 @@
         "ggrepel",
         "prettydoc",
         "readxl",
-        "rmarkdown",
         "rvest"
     ],
     "MACSr": [
@@ -7963,7 +7893,6 @@
         "recipes",
         "rematch2",
         "reprex",
-        "rmarkdown",
         "rvest",
         "tidyr",
         "tidyverse",
@@ -8030,7 +7959,6 @@
         "UpSetR",
         "plotly",
         "proDA",
-        "rmarkdown",
         "shinydashboard",
         "shinyhelper",
         "shinyjs",
@@ -8060,7 +7988,6 @@
         "nloptr",
         "phyloseq",
         "rematch2",
-        "rmarkdown",
         "ruv",
         "sva",
         "testthat",
@@ -8091,8 +8018,7 @@
     "MBQN": [
         "BiocFileCache",
         "PairedData",
-        "dbplyr",
-        "rmarkdown"
+        "dbplyr"
     ],
     "MCbiclust": [
         "AnnotationDbi",
@@ -8228,15 +8154,13 @@
     ],
     "MEIGOR": [
         "CNORode",
-        "CellNOptR",
-        "rmarkdown"
+        "CellNOptR"
     ],
     "Melissa": [
         "BPRMeth",
         "BiocStyle",
         "bookdown",
-        "cowplot",
-        "rmarkdown"
+        "cowplot"
     ],
     "memes": [
         "cmdfun",
@@ -8292,8 +8216,7 @@
         "MeSHDbi",
         "annotate",
         "bookdown",
-        "genefilter",
-        "rmarkdown"
+        "genefilter"
     ],
     "MesKit": [
         "AnnotationDbi",
@@ -8469,7 +8392,6 @@
         "ipred",
         "plotly",
         "qvalue",
-        "rmarkdown",
         "rmdformats",
         "rtracklayer",
         "survcomp",
@@ -8632,7 +8554,6 @@
         "readxl",
         "rematch2",
         "reprex",
-        "rmarkdown",
         "roxygen2",
         "rstatix",
         "rtracklayer",
@@ -8768,7 +8689,6 @@
         "devtools",
         "pkgdown",
         "rematch2",
-        "rmarkdown",
         "roxygen2",
         "testthat",
         "waldo"
@@ -8863,7 +8783,6 @@
         "plotly",
         "readr",
         "rematch2",
-        "rmarkdown",
         "shinyWidgets",
         "shinycssloaders",
         "shinydashboard",
@@ -8972,7 +8891,6 @@
         "formattable",
         "kableExtra",
         "mice",
-        "rmarkdown",
         "rvest",
         "tidyr"
     ],
@@ -9185,7 +9103,6 @@
         "recipes",
         "rematch2",
         "reprex",
-        "rmarkdown",
         "rqubic",
         "rstatix",
         "rvest",
@@ -9256,7 +9173,6 @@
         "recipes",
         "rematch2",
         "reprex",
-        "rmarkdown",
         "rstatix",
         "rvest",
         "scatterpie",
@@ -9315,7 +9231,6 @@
         "GGally",
         "broom",
         "echarts4r",
-        "rmarkdown",
         "tidyr"
     ],
     "mitoClone2": [
@@ -9576,7 +9491,6 @@
         "pbkrtest",
         "readr",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "testthat",
         "tidyr",
@@ -9651,7 +9565,6 @@
         "msmsEDA",
         "msmsTests",
         "qvalue",
-        "rmarkdown",
         "vsn"
     ],
     "MSPrep": [
@@ -9719,7 +9632,6 @@
         "readxl",
         "rematch2",
         "reprex",
-        "rmarkdown",
         "rstatix",
         "rvest",
         "testthat",
@@ -9912,7 +9824,6 @@
         "reactome.db",
         "recipes",
         "rematch2",
-        "rmarkdown",
         "ropls",
         "roxygen2",
         "scatterpie",
@@ -10007,7 +9918,6 @@
         "readr",
         "readxl",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "rtracklayer",
         "rvest",
@@ -10145,7 +10055,6 @@
         "readxl",
         "rematch2",
         "reprex",
-        "rmarkdown",
         "rvest",
         "testthat",
         "tidyr",
@@ -10289,8 +10198,7 @@
     "netresponse": [
         "BiocStyle",
         "bookdown",
-        "qvalue",
-        "rmarkdown"
+        "qvalue"
     ],
     "NetSAM": [
         "AnnotationDbi",
@@ -10368,7 +10276,6 @@
         "patchwork",
         "plotly",
         "readr",
-        "rmarkdown",
         "tidyr",
         "vroom"
     ],
@@ -10578,8 +10485,7 @@
         "made4"
     ],
     "omicplotR": [
-        "ALDEx2",
-        "rmarkdown"
+        "ALDEx2"
     ],
     "omicRexposome": [
         "AnnotationDbi",
@@ -10637,7 +10543,6 @@
         "pbkrtest",
         "rematch2",
         "rgl",
-        "rmarkdown",
         "rstatix",
         "rtracklayer",
         "rvest",
@@ -10686,7 +10591,6 @@
     "OmnipathR": [
         "readr",
         "readxl",
-        "rmarkdown",
         "rvest",
         "tidyr",
         "vroom"
@@ -10737,7 +10641,6 @@
     "openPrimeRui": [
         "Hmisc",
         "openPrimeR",
-        "rmarkdown",
         "shinyBS",
         "shinyjs",
         "viridis"
@@ -10776,7 +10679,6 @@
         "devtools",
         "pkgdown",
         "rematch2",
-        "rmarkdown",
         "roxygen2",
         "testthat",
         "waldo"
@@ -11017,7 +10919,6 @@
         "pkgdown",
         "plotly",
         "rematch2",
-        "rmarkdown",
         "roxygen2",
         "shinyjs",
         "testthat",
@@ -11056,7 +10957,6 @@
         "ggrepel",
         "heatmaply",
         "plotly",
-        "rmarkdown",
         "shinyBS",
         "shinydashboard",
         "tidyr",
@@ -11294,7 +11194,6 @@
         "bookdown",
         "colourpicker",
         "dbplyr",
-        "rmarkdown",
         "shinyBS",
         "shinyFiles",
         "shinyjs",
@@ -11353,7 +11252,6 @@
         "patchwork",
         "qvalue",
         "reactome.db",
-        "rmarkdown",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -11404,7 +11302,6 @@
     "pipeFrame": [
         "BSgenome",
         "GenomicAlignments",
-        "rmarkdown",
         "rtracklayer"
     ],
     "planet": [],
@@ -11492,7 +11389,6 @@
         "ipred",
         "mixOmics",
         "recipes",
-        "rmarkdown",
         "tidyr"
     ],
     "PoTRA": [
@@ -11534,8 +11430,7 @@
         "GenomicAlignments",
         "RPA",
         "bookdown",
-        "phyloseq",
-        "rmarkdown"
+        "phyloseq"
     ],
     "preciseTAD": [
         "AnnotationDbi",
@@ -11841,7 +11736,6 @@
         "plotly",
         "readr",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "rvest",
         "shinydashboard",
@@ -12220,7 +12114,6 @@
         "gprofiler2",
         "plotly",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "vroom"
@@ -12320,8 +12213,7 @@
     ],
     "rebook": [
         "BiocStyle",
-        "bookdown",
-        "rmarkdown"
+        "bookdown"
     ],
     "receptLoss": [
         "tidyr"
@@ -12452,7 +12344,6 @@
         "geneplotter",
         "knitrBootstrap",
         "qvalue",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -12853,7 +12744,6 @@
         "org.Mm.eg.db",
         "pkgdown",
         "rematch2",
-        "rmarkdown",
         "roxygen2",
         "rtracklayer",
         "testthat",
@@ -13130,8 +13020,7 @@
     "RPA": [
         "BiocStyle",
         "bookdown",
-        "phyloseq",
-        "rmarkdown"
+        "phyloseq"
     ],
     "rprimer": [
         "patchwork",
@@ -13158,7 +13047,6 @@
         "bookdown",
         "dbplyr",
         "ensembldb",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -13211,7 +13099,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "rvest",
         "survMisc",
@@ -13354,7 +13241,6 @@
         "bookdown",
         "ggdendro",
         "plotly",
-        "rmarkdown",
         "shinyWidgets",
         "shinycssloaders",
         "shinydashboard",
@@ -13369,8 +13255,7 @@
         "SBGNview.data",
         "bookdown",
         "org.Hs.eg.db",
-        "pathview",
-        "rmarkdown"
+        "pathview"
     ],
     "SC3": [
         "SingleCellExperiment"
@@ -13625,7 +13510,6 @@
     ],
     "scifer": [
         "kableExtra",
-        "rmarkdown",
         "rvest"
     ],
     "scMAGeCK": [
@@ -13657,7 +13541,6 @@
         "SingleCellExperiment",
         "bookdown",
         "cowplot",
-        "rmarkdown",
         "rstan",
         "viridis"
     ],
@@ -13674,7 +13557,6 @@
         "dbplyr",
         "readr",
         "regioneR",
-        "rmarkdown",
         "rtracklayer",
         "vroom"
     ],
@@ -13847,7 +13729,6 @@
         "plotly",
         "qvalue",
         "reactome.db",
-        "rmarkdown",
         "scattermore",
         "scatterpie",
         "schex",
@@ -13878,7 +13759,6 @@
         "nnTensor",
         "patchwork",
         "plotly",
-        "rmarkdown",
         "scattermore",
         "schex",
         "sctransform",
@@ -14039,7 +13919,6 @@
         "dbplyr",
         "gistr",
         "rbokeh",
-        "rmarkdown",
         "tidyr"
     ],
     "SeqVarTools": [
@@ -14101,7 +13980,6 @@
         "minfi",
         "plotly",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "shinyWidgets",
         "shinycssloaders",
@@ -14217,7 +14095,6 @@
         "pbkrtest",
         "readr",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "rtracklayer",
         "shinyWidgets",
@@ -14395,7 +14272,6 @@
         "plotly",
         "qvalue",
         "reldist",
-        "rmarkdown",
         "rstan",
         "rtracklayer",
         "ruv",
@@ -14883,7 +14759,6 @@
         "recipes",
         "rematch2",
         "reprex",
-        "rmarkdown",
         "rstatix",
         "rvest",
         "testthat",
@@ -14957,7 +14832,6 @@
         "geneplotter",
         "pkgdown",
         "rematch2",
-        "rmarkdown",
         "roxygen2",
         "rtracklayer",
         "testthat",
@@ -15065,7 +14939,6 @@
         "readxl",
         "rematch2",
         "reprex",
-        "rmarkdown",
         "rvest",
         "tidyr",
         "tidyverse",
@@ -15104,7 +14977,6 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "biomaRt",
         "dbplyr",
-        "rmarkdown",
         "rtracklayer"
     ],
     "STRINGdb": [
@@ -15241,7 +15113,6 @@
         "cleaver",
         "qvalue",
         "readr",
-        "rmarkdown",
         "vroom",
         "vsn"
     ],
@@ -15269,7 +15140,6 @@
         "readxl",
         "rematch2",
         "reprex",
-        "rmarkdown",
         "rvest",
         "stars",
         "testthat",
@@ -15311,7 +15181,6 @@
         "bsplus",
         "drawer",
         "plotly",
-        "rmarkdown",
         "shinyFiles",
         "shinyWidgets",
         "shinydashboard",
@@ -15492,7 +15361,6 @@
         "readr",
         "recipes",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "rtracklayer",
         "rvest",
@@ -15814,7 +15682,6 @@
     "TPP": [
         "biobroom",
         "broom",
-        "rmarkdown",
         "tidyr"
     ],
     "TPP2D": [
@@ -16042,8 +15909,7 @@
         "kmlShape",
         "longitudinalData",
         "prettydoc",
-        "rgl",
-        "rmarkdown"
+        "rgl"
     ],
     "ttgsea": [
         "DiagrammeR",
@@ -16153,7 +16019,6 @@
         "dbplyr",
         "ensembldb",
         "org.Hs.eg.db",
-        "rmarkdown",
         "rtracklayer",
         "shinyBS",
         "shinyWidgets",
@@ -16328,7 +16193,6 @@
         "annotate",
         "geneplotter",
         "ggrepel",
-        "rmarkdown",
         "tidyr"
     ],
     "viper": [
@@ -16519,7 +16383,6 @@
         "OmnipathR",
         "readr",
         "readxl",
-        "rmarkdown",
         "rvest",
         "tidyr",
         "vroom"
@@ -16559,7 +16422,6 @@
         "BSgenome",
         "GenomicAlignments",
         "formattable",
-        "rmarkdown",
         "rtracklayer"
     ],
     "yamss": [],
@@ -16645,18 +16507,13 @@
     "GO.db": [
         "AnnotationDbi"
     ],
-    "flexdashboard": [
-        "rmarkdown"
-    ],
-    "rmarkdown": [],
+    "flexdashboard": [],
     "ggcorrplot": [],
     "ggdendro": [],
     "plotly": [
         "tidyr"
     ],
-    "bookdown": [
-        "rmarkdown"
-    ],
+    "bookdown": [],
     "tidyr": [],
     "ggrepel": [],
     "ggpubr": [
@@ -16955,7 +16812,6 @@
         "readxl",
         "rematch2",
         "reprex",
-        "rmarkdown",
         "rvest",
         "tidyr",
         "vroom"
@@ -17013,9 +16869,7 @@
         "broom",
         "tidyr"
     ],
-    "reprex": [
-        "rmarkdown"
-    ],
+    "reprex": [],
     "reactome.db": [
         "AnnotationDbi"
     ],
@@ -17042,9 +16896,7 @@
     ],
     "ggvis": [],
     "rstan": [],
-    "prettydoc": [
-        "rmarkdown"
-    ],
+    "prettydoc": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "GenomicAlignments",
@@ -17100,7 +16952,6 @@
         "readr",
         "readxl",
         "rematch2",
-        "rmarkdown",
         "shinyFiles",
         "testthat",
         "tidyr",
@@ -17236,14 +17087,11 @@
     "devtools": [
         "pkgdown",
         "rematch2",
-        "rmarkdown",
         "roxygen2",
         "testthat",
         "waldo"
     ],
-    "pkgdown": [
-        "rmarkdown"
-    ],
+    "pkgdown": [],
     "roxygen2": [],
     "ggtext": [],
     "vcfR": [],
@@ -17433,7 +17281,6 @@
         "waiter"
     ],
     "kableExtra": [
-        "rmarkdown",
         "rvest"
     ],
     "gggenes": [
@@ -17781,16 +17628,13 @@
         "waiter"
     ],
     "tippy": [],
-    "flextable": [
-        "rmarkdown"
-    ],
+    "flextable": [],
     "shinyHeatmaply": [
         "dendextend",
         "egg",
         "heatmaply",
         "plotly",
         "readxl",
-        "rmarkdown",
         "tidyr",
         "viridis"
     ],
@@ -17809,8 +17653,7 @@
         "tidyr"
     ],
     "epiR": [
-        "flextable",
-        "rmarkdown"
+        "flextable"
     ],
     "ggwordcloud": [],
     "HiContactsData": [
@@ -17860,16 +17703,11 @@
         "org.Hs.eg.db"
     ],
     "sortable": [
-        "learnr",
-        "rmarkdown"
+        "learnr"
     ],
-    "bsplus": [
-        "rmarkdown"
-    ],
+    "bsplus": [],
     "shinyvalidate": [],
-    "learnr": [
-        "rmarkdown"
-    ],
+    "learnr": [],
     "reldist": [
         "densEstBayes",
         "rstan"
@@ -17955,8 +17793,7 @@
         "rtracklayer"
     ],
     "rmdformats": [
-        "bookdown",
-        "rmarkdown"
+        "bookdown"
     ],
     "sesameData": [
         "AnnotationDbi",
@@ -18005,9 +17842,7 @@
     ],
     "shinycustomloader": [],
     "ggstar": [],
-    "formattable": [
-        "rmarkdown"
-    ],
+    "formattable": [],
     "HardyWeinberg": [
         "broom",
         "mice",
@@ -18074,7 +17909,6 @@
         "devtools",
         "pkgdown",
         "rematch2",
-        "rmarkdown",
         "roxygen2",
         "testthat",
         "waldo"
@@ -18265,9 +18099,7 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "knitrBootstrap": [
-        "rmarkdown"
-    ],
+    "knitrBootstrap": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [
         "BSgenome",
         "GenomicAlignments",
@@ -18307,8 +18139,7 @@
     "treemap": [],
     "GENLIB": [],
     "SBGNview.data": [
-        "bookdown",
-        "rmarkdown"
+        "bookdown"
     ],
     "scanMiRData": [
         "cowplot",
@@ -18342,12 +18173,9 @@
         "viridis"
     ],
     "rbokeh": [
-        "gistr",
-        "rmarkdown"
+        "gistr"
     ],
-    "gistr": [
-        "rmarkdown"
-    ],
+    "gistr": [],
     "survivalAnalysis": [
         "broom",
         "car",
@@ -18483,8 +18311,7 @@
         "shinytoastr"
     ],
     "drawer": [
-        "bsplus",
-        "rmarkdown"
+        "bsplus"
     ],
     "GenKern": [],
     "ttservice": [],
@@ -18535,9 +18362,7 @@
     "mirbase.db": [
         "AnnotationDbi"
     ],
-    "condformat": [
-        "rmarkdown"
-    ],
+    "condformat": [],
     "shinyTree": [],
     "msigdb": [
         "AnnotationDbi",
