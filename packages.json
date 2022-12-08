@@ -40207,7 +40207,6 @@
         "ellipsis",
         "farver",
         "gap",
-        "gap.datasets",
         "generics",
         "ggplot2",
         "gtable",
@@ -144334,7 +144333,6 @@
         "dplyr",
         "ellipsis",
         "farver",
-        "gap.datasets",
         "generics",
         "ggplot2",
         "gtable",
@@ -144367,7 +144365,6 @@
         "withr",
         "yaml"
     ],
-    "gap.datasets": [],
     "geepack": [
         "MASS",
         "Matrix",
