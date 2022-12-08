@@ -5210,7 +5210,6 @@
         "bit64",
         "blob",
         "cachem",
-        "datawizard",
         "dbplyr",
         "dplyr",
         "ellipsis",
@@ -45749,7 +45748,6 @@
         "clusterProfiler",
         "cowplot",
         "cvms",
-        "datawizard",
         "dbplyr",
         "dendextend",
         "diffobj",
@@ -45951,7 +45949,6 @@
         "clusterProfiler",
         "cowplot",
         "cvms",
-        "datawizard",
         "dbplyr",
         "diffobj",
         "doParallel",
@@ -74588,7 +74585,6 @@
         "clock",
         "cowplot",
         "cvms",
-        "datawizard",
         "dbplyr",
         "diffobj",
         "doParallel",
@@ -87056,7 +87052,6 @@
     ],
     "mitools": [],
     "sjmisc": [
-        "datawizard",
         "dplyr",
         "lifecycle",
         "pillar",
@@ -87067,10 +87062,7 @@
         "vctrs"
     ],
     "rslurm": [],
-    "sjlabelled": [
-        "datawizard"
-    ],
-    "datawizard": [],
+    "sjlabelled": [],
     "LIM": [
         "diagram",
         "limSolve"
@@ -93730,7 +93722,6 @@
         "callr",
         "class",
         "clock",
-        "datawizard",
         "diffobj",
         "dplyr",
         "ellipsis",
@@ -93809,8 +93800,7 @@
         "nlme"
     ],
     "parameters": [
-        "bayestestR",
-        "datawizard"
+        "bayestestR"
     ],
     "rearrr": [
         "dplyr",
@@ -93822,9 +93812,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "bayestestR": [
-        "datawizard"
-    ],
+    "bayestestR": [],
     "echarts4r": [
         "Matrix",
         "broom",
