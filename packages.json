@@ -869,7 +869,6 @@
         "missForest",
         "mixOmics",
         "openssl",
-        "pcaPP",
         "pillar",
         "progress",
         "purrr",
@@ -6667,7 +6666,6 @@
         "mgcv",
         "openssl",
         "org.Hs.eg.db",
-        "pcaPP",
         "phenoTest",
         "pillar",
         "progress",
@@ -11279,7 +11277,6 @@
         "lifecycle",
         "mgcv",
         "multcomp",
-        "pcaPP",
         "pillar",
         "quantreg",
         "raster",
@@ -12769,7 +12766,6 @@
         "lifecycle",
         "memoise",
         "mgcv",
-        "pcaPP",
         "pillar",
         "promises",
         "reshape2",
@@ -13873,7 +13869,6 @@
         "hms",
         "lifecycle",
         "mgcv",
-        "pcaPP",
         "pillar",
         "progress",
         "quantmod",
@@ -14443,7 +14438,6 @@
         "httr",
         "lifecycle",
         "openssl",
-        "pcaPP",
         "pillar",
         "repr",
         "rrcov",
@@ -19384,7 +19378,6 @@
         "ks",
         "lifecycle",
         "mgcv",
-        "pcaPP",
         "pillar",
         "progress",
         "rainbow",
@@ -19551,7 +19544,6 @@
         "lifecycle",
         "memoise",
         "mgcv",
-        "pcaPP",
         "pheatmap",
         "pillar",
         "promises",
@@ -19954,7 +19946,6 @@
         "flowCore",
         "knitr",
         "lifecycle",
-        "pcaPP",
         "rrcov",
         "stringr",
         "vctrs"
@@ -20163,7 +20154,6 @@
         "flowCore",
         "ks",
         "mgcv",
-        "pcaPP",
         "rrcov"
     ],
     "flowMerge": [
@@ -20173,7 +20163,6 @@
         "flowCore",
         "ks",
         "mgcv",
-        "pcaPP",
         "rrcov"
     ],
     "flowPloidy": [
@@ -20293,7 +20282,6 @@
         "lifecycle",
         "mgcv",
         "ncdfFlow",
-        "pcaPP",
         "pillar",
         "rainbow",
         "rrcov",
@@ -20346,7 +20334,6 @@
         "lifecycle",
         "mgcv",
         "ncdfFlow",
-        "pcaPP",
         "pillar",
         "rainbow",
         "rrcov",
@@ -20570,7 +20557,6 @@
         "ks",
         "lifecycle",
         "mgcv",
-        "pcaPP",
         "pillar",
         "rainbow",
         "scales",
@@ -20622,7 +20608,6 @@
         "lifecycle",
         "memoise",
         "mgcv",
-        "pcaPP",
         "pillar",
         "promises",
         "rainbow",
@@ -22463,7 +22448,6 @@
         "lmerTest",
         "mgcv",
         "nloptr",
-        "pcaPP",
         "pheatmap",
         "pillar",
         "pkgload",
@@ -27739,13 +27723,11 @@
     ],
     "iterativeBMA": [
         "BMA",
-        "pcaPP",
         "rrcov",
         "survival"
     ],
     "iterativeBMAsurv": [
         "BMA",
-        "pcaPP",
         "rrcov",
         "survival"
     ],
@@ -27873,7 +27855,6 @@
         "ks",
         "lifecycle",
         "mgcv",
-        "pcaPP",
         "pillar",
         "rainbow",
         "scales",
@@ -29116,7 +29097,6 @@
         "mgcv",
         "nloptr",
         "pbkrtest",
-        "pcaPP",
         "pheatmap",
         "pillar",
         "pkgload",
@@ -29185,7 +29165,6 @@
         "nloptr",
         "openssl",
         "pbkrtest",
-        "pcaPP",
         "pheatmap",
         "pillar",
         "pkgload",
@@ -34472,7 +34451,6 @@
         "mgcv",
         "nloptr",
         "pbkrtest",
-        "pcaPP",
         "pheatmap",
         "pillar",
         "pkgload",
@@ -39656,7 +39634,6 @@
         "ks",
         "lifecycle",
         "mgcv",
-        "pcaPP",
         "pillar",
         "rgl",
         "rrcov",
@@ -41119,7 +41096,6 @@
         "mgcv",
         "opencpu",
         "openssl",
-        "pcaPP",
         "pheatmap",
         "pillar",
         "progress",
@@ -41305,7 +41281,6 @@
         "mgcv",
         "openssl",
         "org.Hs.eg.db",
-        "pcaPP",
         "pillar",
         "progress",
         "purrr",
@@ -41766,7 +41741,6 @@
         "memoise",
         "mgcv",
         "openssl",
-        "pcaPP",
         "pillar",
         "progress",
         "purrr",
@@ -49253,7 +49227,6 @@
         "lifecycle",
         "memoise",
         "mgcv",
-        "pcaPP",
         "pheatmap",
         "pillar",
         "promises",
@@ -49734,7 +49707,6 @@
         "miniUI",
         "openssl",
         "patchwork",
-        "pcaPP",
         "pillar",
         "plotly",
         "promises",
@@ -55929,7 +55901,6 @@
         "ROC",
         "knitr",
         "lifecycle",
-        "pcaPP",
         "rrcov",
         "stringr",
         "vctrs"
@@ -56455,7 +56426,6 @@
         "mgcv",
         "nloptr",
         "pbkrtest",
-        "pcaPP",
         "pheatmap",
         "pillar",
         "pkgload",
@@ -59899,7 +59869,6 @@
         "mgcv",
         "openssl",
         "org.Hs.eg.db",
-        "pcaPP",
         "pillar",
         "progress",
         "purrr",
@@ -62595,7 +62564,6 @@
         "tibble",
         "vctrs"
     ],
-    "pcaPP": [],
     "baseline": [],
     "rARPACK": [
         "RSpectra",
@@ -65267,13 +65235,10 @@
         "vctrs"
     ],
     "BMA": [
-        "pcaPP",
         "rrcov",
         "survival"
     ],
-    "rrcov": [
-        "pcaPP"
-    ],
+    "rrcov": [],
     "ALL": [],
     "vcfR": [
         "ape",
@@ -66747,9 +66712,7 @@
         "vctrs",
         "xts"
     ],
-    "ccaPP": [
-        "pcaPP"
-    ],
+    "ccaPP": [],
     "cytometree": [
         "cowplot",
         "ggplot2",
@@ -67478,7 +67441,6 @@
         "ks",
         "lifecycle",
         "mgcv",
-        "pcaPP",
         "pillar",
         "rainbow",
         "scales",
@@ -67491,7 +67453,6 @@
         "ks",
         "lifecycle",
         "mgcv",
-        "pcaPP",
         "pillar",
         "rainbow",
         "scales",
@@ -67504,7 +67465,6 @@
         "ks",
         "lifecycle",
         "mgcv",
-        "pcaPP",
         "pillar",
         "scales",
         "tibble",
@@ -67729,7 +67689,6 @@
         "systemfonts"
     ],
     "robust": [
-        "pcaPP",
         "rrcov"
     ],
     "roptim": [],
@@ -68341,8 +68300,7 @@
         "vctrs"
     ],
     "chemometrics": [
-        "e1071",
-        "pcaPP"
+        "e1071"
     ],
     "glmmTMB": [
         "RcppEigen",
@@ -70451,9 +70409,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "copula": [
-        "pcaPP"
-    ],
+    "copula": [],
     "proxyC": [],
     "extRemes": [
         "Lmoments"
@@ -71127,7 +71083,6 @@
     ],
     "clustvarsel": [
         "BMA",
-        "pcaPP",
         "rrcov",
         "survival"
     ],
