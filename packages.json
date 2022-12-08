@@ -560,7 +560,6 @@
     "DAPAR": [],
     "dasper": [
         "car",
-        "cmdfun",
         "ggpubr",
         "lme4",
         "megadepth",
@@ -1430,12 +1429,8 @@
         "lme4",
         "pbkrtest"
     ],
-    "megadepth": [
-        "cmdfun"
-    ],
-    "memes": [
-        "cmdfun"
-    ],
+    "megadepth": [],
+    "memes": [],
     "meshes": [
         "enrichplot",
         "ggtree"
@@ -1845,7 +1840,6 @@
         "GenomicFiles",
         "VariantAnnotation",
         "car",
-        "cmdfun",
         "dasper",
         "derfinder",
         "ggpubr",
@@ -2909,7 +2903,6 @@
     "arm": [
         "lme4"
     ],
-    "cmdfun": [],
     "rsq": [
         "lme4"
     ],
