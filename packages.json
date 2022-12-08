@@ -14602,9 +14602,7 @@
         "viridis"
     ],
     "geNetClassifier": [],
-    "GeneticsPed": [
-        "genetics"
-    ],
+    "GeneticsPed": [],
     "GeneTonic": [
         "AnnotationDbi",
         "BiocParallel",
@@ -45364,7 +45362,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "genetics": [],
     "backbone": [],
     "bs4Dash": [
         "bslib",
