@@ -1588,7 +1588,6 @@
         "modelr",
         "motifmatchr",
         "msigdbr",
-        "nabor",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "pillar",
@@ -6180,7 +6179,6 @@
         "ggplot2",
         "hms",
         "miniUI",
-        "nabor",
         "pillar",
         "plotly",
         "progress",
@@ -43293,7 +43291,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "nabor": [],
     "babelgene": [
         "dplyr",
         "pillar",
