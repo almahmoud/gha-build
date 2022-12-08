@@ -111192,7 +111192,6 @@
         "MatrixGenerics",
         "R6",
         "RCurl",
-        "RGMQLlib",
         "Rcpp",
         "Rhtslib",
         "Rsamtools",
@@ -170212,7 +170211,6 @@
         "yaml",
         "zlibbioc"
     ],
-    "RGMQLlib": [],
     "elitism": [
         "MASS"
     ],
