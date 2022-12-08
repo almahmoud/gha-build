@@ -3669,7 +3669,6 @@
         "car",
         "factoextra",
         "ggpubr",
-        "golem",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -4554,7 +4553,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "golem",
         "gson",
         "scatterpie",
         "tidygraph",
@@ -5061,7 +5059,6 @@
         "geneplotter",
         "ggraph",
         "ggtree",
-        "golem",
         "gson",
         "mixOmics",
         "plotly",
@@ -8101,7 +8098,6 @@
         "sva"
     ],
     "tripr": [
-        "golem",
         "plotly"
     ],
     "tRNA": [],
@@ -8356,9 +8352,7 @@
         "annaffy"
     ],
     "wiggleplotr": [],
-    "wpm": [
-        "golem"
-    ],
+    "wpm": [],
     "wppi": [
         "OmnipathR",
         "readr"
@@ -8983,7 +8977,6 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "golem": [],
     "datamods": [
         "haven",
         "readr",
