@@ -20790,7 +20790,6 @@
         "tibble"
     ],
     "ndexr": [
-        "RCX",
         "dplyr",
         "pillar",
         "tibble",
@@ -25109,7 +25108,6 @@
         "viridis",
         "vroom"
     ],
-    "RCX": [],
     "RCy3": [
         "IRdisplay",
         "IRkernel",
