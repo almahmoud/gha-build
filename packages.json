@@ -32583,7 +32583,6 @@
         "httr",
         "lifecycle",
         "memoise",
-        "mhsmm",
         "openssl",
         "restfulr",
         "rtracklayer",
@@ -69332,7 +69331,6 @@
         "xts"
     ],
     "rebus": [],
-    "mhsmm": [],
     "GeneNet": [],
     "ggmcmc": [
         "GGally",
