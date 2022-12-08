@@ -35,7 +35,6 @@
         "mia"
     ],
     "animalcules": [],
-    "AnnotationHubData": [],
     "anota2seq": [],
     "APAlyzer": [],
     "appreci8R": [
@@ -674,9 +673,7 @@
         "rstatix"
     ],
     "exomePeak2": [],
-    "ExperimentHubData": [
-        "AnnotationHubData"
-    ],
+    "ExperimentHubData": [],
     "ExperimentSubset": [
         "TreeSummarizedExperiment"
     ],
@@ -1220,7 +1217,6 @@
         "minfi"
     ],
     "methylclock": [
-        "AnnotationHubData",
         "ExperimentHubData",
         "car",
         "ggpubr",
@@ -2428,7 +2424,6 @@
         "minfi"
     ],
     "methylclockData": [
-        "AnnotationHubData",
         "ExperimentHubData"
     ],
     "cvms": [
