@@ -2624,7 +2624,6 @@
     "dcanr": [],
     "dce": [
         "Linnorm",
-        "TFisher",
         "broom",
         "dtplyr",
         "epiNEM",
@@ -3299,7 +3298,6 @@
         "GSEABase",
         "GSVA",
         "PADOG",
-        "TFisher",
         "annotate",
         "gage",
         "globaltest",
@@ -6346,7 +6344,6 @@
         "rtracklayer"
     ],
     "MetaVolcanoR": [
-        "TFisher",
         "metap",
         "plotly",
         "tidyr"
@@ -7390,7 +7387,6 @@
     ],
     "MultiDataSet": [],
     "multiGSEA": [
-        "TFisher",
         "fgsea",
         "graphite",
         "metap"
@@ -7410,7 +7406,6 @@
         "MultiAssayExperiment",
         "MultiDataSet",
         "ReactomePA",
-        "TFisher",
         "annotate",
         "anyLib",
         "aplot",
@@ -7566,7 +7561,6 @@
         "Hmisc",
         "InteractionSet",
         "TFBSTools",
-        "TFisher",
         "VariantAnnotation",
         "annotate",
         "biomaRt",
@@ -8196,7 +8190,6 @@
         "GOSemSim",
         "GSEABase",
         "HDO.db",
-        "TFisher",
         "annotate",
         "aplot",
         "clusterProfiler",
@@ -9874,7 +9867,6 @@
     "rqt": [
         "MultiAssayExperiment",
         "MultiDataSet",
-        "TFisher",
         "broom",
         "car",
         "lme4",
@@ -10715,7 +10707,6 @@
         "SingleR",
         "SoupX",
         "TENxPBMCData",
-        "TFisher",
         "TSCAN",
         "TrajectoryUtils",
         "annotate",
@@ -13058,10 +13049,7 @@
         "testthat",
         "waldo"
     ],
-    "metap": [
-        "TFisher"
-    ],
-    "TFisher": [],
+    "metap": [],
     "DMwR2": [
         "readr"
     ],
