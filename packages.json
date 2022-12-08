@@ -54,7 +54,6 @@
         "factoextra",
         "ggpubr"
     ],
-    "cyanoFilter": [],
     "CyTOFpower": [
         "CytoGLMM",
         "FlowSOM",
