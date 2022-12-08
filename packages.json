@@ -32133,7 +32133,6 @@
         "RSQLite",
         "Rhtslib",
         "Rsamtools",
-        "Rsolnp",
         "SummarizedExperiment",
         "XVector",
         "ade4",
@@ -37037,7 +37036,6 @@
         "RBGL",
         "RCurl",
         "Rgraphviz",
-        "Rsolnp",
         "bslib",
         "cachem",
         "ggplot2",
@@ -40080,7 +40078,6 @@
         "MatrixGenerics",
         "MultiAssayExperiment",
         "RCurl",
-        "Rsolnp",
         "SummarizedExperiment",
         "XVector",
         "broom",
@@ -55656,7 +55653,6 @@
         "Rhtslib",
         "Ringo",
         "Rsamtools",
-        "Rsolnp",
         "SummarizedExperiment",
         "XVector",
         "affy",
@@ -65943,8 +65939,7 @@
         "vctrs"
     ],
     "SPEM": [
-        "Biobase",
-        "Rsolnp"
+        "Biobase"
     ],
     "SPIA": [
         "KEGGgraph",
@@ -67199,7 +67194,6 @@
         "RcppEigen",
         "Rhtslib",
         "Rsamtools",
-        "Rsolnp",
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
@@ -70399,7 +70393,6 @@
         "RSQLite",
         "Rhtslib",
         "Rsamtools",
-        "Rsolnp",
         "SummarizedExperiment",
         "UpSetR",
         "VariantAnnotation",
@@ -70461,7 +70454,6 @@
     "TMixClust": [
         "Biobase",
         "BiocParallel",
-        "Rsolnp",
         "SPEM",
         "flexclust",
         "futile.logger",
@@ -82335,10 +82327,7 @@
         "ape"
     ],
     "argparse": [],
-    "depmixS4": [
-        "Rsolnp"
-    ],
-    "Rsolnp": [],
+    "depmixS4": [],
     "golem": [
         "bslib",
         "cachem",
@@ -83315,7 +83304,6 @@
     ],
     "HardyWeinberg": [
         "Matrix",
-        "Rsolnp",
         "broom",
         "dplyr",
         "ellipsis",
