@@ -2396,7 +2396,6 @@
     "OMICsPCA": [
         "FactoMineR",
         "HelloRanges",
-        "OMICsPCAdata",
         "VariantAnnotation",
         "car",
         "factoextra",
@@ -3865,7 +3864,6 @@
         "klaR",
         "questionr"
     ],
-    "OMICsPCAdata": [],
     "AICcmodavg": [
         "lme4",
         "unmarked"
