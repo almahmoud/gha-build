@@ -3139,7 +3139,6 @@
         "textstem"
     ],
     "Voyager": [],
-    "vsclust": [],
     "vtpnet": [
         "VariantAnnotation",
         "gwascat"
