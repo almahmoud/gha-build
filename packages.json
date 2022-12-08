@@ -2211,8 +2211,7 @@
         "syuzhet",
         "textclean",
         "textstem",
-        "ttgsea",
-        "webchem"
+        "ttgsea"
     ],
     "deepSNV": [
         "BSgenome",
@@ -3601,8 +3600,7 @@
         "syuzhet",
         "textclean",
         "textstem",
-        "ttgsea",
-        "webchem"
+        "ttgsea"
     ],
     "GenVisR": [
         "BSgenome",
@@ -7601,8 +7599,7 @@
         "valr"
     ],
     "RMassBank": [
-        "MSnbase",
-        "webchem"
+        "MSnbase"
     ],
     "Rmmquant": [
         "BiocFileCache",
@@ -9476,8 +9473,7 @@
         "syuzhet",
         "textclean",
         "textstem",
-        "ttgsea",
-        "webchem"
+        "ttgsea"
     ],
     "VanillaICE": [
         "BSgenome",
@@ -10259,7 +10255,6 @@
         "testthat",
         "waldo"
     ],
-    "webchem": [],
     "textstem": [
         "lexicon",
         "syuzhet",
