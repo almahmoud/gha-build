@@ -1551,8 +1551,7 @@
         "GenomicFeatures",
         "biomaRt",
         "dbplyr",
-        "rtracklayer",
-        "sqldf"
+        "rtracklayer"
     ],
     "CATALYST": [
         "FlowSOM",
@@ -2466,7 +2465,6 @@
         "GEOquery",
         "STRINGdb",
         "readr",
-        "sqldf",
         "tidyr",
         "vsn"
     ],
@@ -5958,8 +5956,7 @@
         "biomaRt",
         "cowplot",
         "dbplyr",
-        "fgsea",
-        "sqldf"
+        "fgsea"
     ],
     "GSReg": [
         "BiocFileCache",
@@ -6428,8 +6425,7 @@
         "viridis"
     ],
     "IMMAN": [
-        "STRINGdb",
-        "sqldf"
+        "STRINGdb"
     ],
     "ImmuneSpaceR": [
         "dendextend",
@@ -6577,9 +6573,7 @@
         "geneplotter",
         "rtracklayer"
     ],
-    "InterMineR": [
-        "sqldf"
-    ],
+    "InterMineR": [],
     "IntramiRExploreR": [
         "FGNet"
     ],
@@ -6845,9 +6839,7 @@
         "hgu95av2.db",
         "org.Hs.eg.db"
     ],
-    "KinSwingR": [
-        "sqldf"
-    ],
+    "KinSwingR": [],
     "kissDE": [
         "BSgenome",
         "DESeq2",
@@ -7572,7 +7564,6 @@
         "pbkrtest",
         "qvalue",
         "rtracklayer",
-        "sqldf",
         "testthat",
         "tidyr",
         "viridis",
@@ -8273,9 +8264,7 @@
     "miRNAmeConverter": [
         "miRBaseVersions.db"
     ],
-    "miRNAtap": [
-        "sqldf"
-    ],
+    "miRNAtap": [],
     "miRSM": [
         "BiBitR",
         "BicARE",
@@ -9131,7 +9120,6 @@
         "biomaRt",
         "dbplyr",
         "rtracklayer",
-        "sqldf",
         "viridis"
     ],
     "myvariant": [
@@ -9399,7 +9387,6 @@
         "quantro",
         "readr",
         "rtracklayer",
-        "sqldf",
         "tidyr",
         "yarn"
     ],
@@ -10443,8 +10430,7 @@
         "biomaRt",
         "cowplot",
         "dbplyr",
-        "fgsea",
-        "sqldf"
+        "fgsea"
     ],
     "pram": [
         "GenomicAlignments",
@@ -10840,8 +10826,7 @@
         "BiocFileCache",
         "STRINGdb",
         "biomaRt",
-        "dbplyr",
-        "sqldf"
+        "dbplyr"
     ],
     "pwrEWAS": [
         "AnnotationHub",
@@ -10986,8 +10971,7 @@
     "r3Cseq": [
         "GenomicAlignments",
         "qvalue",
-        "rtracklayer",
-        "sqldf"
+        "rtracklayer"
     ],
     "R453Plus1Toolbox": [
         "BSgenome",
@@ -11510,7 +11494,6 @@
         "ensembldb",
         "ggbio",
         "rtracklayer",
-        "sqldf",
         "tidyr",
         "viridis"
     ],
@@ -11552,9 +11535,7 @@
         "tidyr",
         "waldo"
     ],
-    "RImmPort": [
-        "sqldf"
-    ],
+    "RImmPort": [],
     "Ringo": [
         "annotate",
         "genefilter",
@@ -11594,7 +11575,6 @@
         "dbplyr",
         "ensembldb",
         "rtracklayer",
-        "sqldf",
         "tidyr",
         "topGO"
     ],
@@ -13415,8 +13395,7 @@
     "SpidermiR": [
         "miRNAtap",
         "miRNAtap.db",
-        "org.Hs.eg.db",
-        "sqldf"
+        "org.Hs.eg.db"
     ],
     "spiky": [
         "BSgenome",
@@ -13656,8 +13635,7 @@
         "graphite",
         "miRNAtap",
         "miRNAtap.db",
-        "org.Hs.eg.db",
-        "sqldf"
+        "org.Hs.eg.db"
     ],
     "STATegRa": [],
     "Statial": [
@@ -13710,9 +13688,7 @@
         "dbplyr",
         "rtracklayer"
     ],
-    "STRINGdb": [
-        "sqldf"
-    ],
+    "STRINGdb": [],
     "struct": [],
     "structToolbox": [
         "ggthemes",
@@ -14992,8 +14968,7 @@
         "tidyr"
     ],
     "XINA": [
-        "STRINGdb",
-        "sqldf"
+        "STRINGdb"
     ],
     "XNAString": [
         "BSgenome",
@@ -15590,7 +15565,6 @@
     "pkgdown": [],
     "ggtext": [],
     "vcfR": [],
-    "sqldf": [],
     "drc": [
         "broom",
         "car",
@@ -16635,8 +16609,7 @@
         "colourpicker"
     ],
     "miRNAtap.db": [
-        "miRNAtap",
-        "sqldf"
+        "miRNAtap"
     ],
     "MESS": [
         "broom",
