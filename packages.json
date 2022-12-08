@@ -515,7 +515,6 @@
     ],
     "bnem": [
         "epiNEM",
-        "mnem",
         "sva"
     ],
     "BOBaFIT": [
@@ -1310,7 +1309,6 @@
         "epiNEM",
         "ggraph",
         "haven",
-        "mnem",
         "modelr",
         "tidygraph",
         "tidyverse"
@@ -1804,9 +1802,7 @@
         "ensembldb",
         "minfi"
     ],
-    "epiNEM": [
-        "mnem"
-    ],
+    "epiNEM": [],
     "epistasisGA": [
         "qgraph"
     ],
@@ -3503,7 +3499,6 @@
         "pbkrtest",
         "testthat"
     ],
-    "mnem": [],
     "moanin": [
         "topGO"
     ],
@@ -3843,8 +3838,7 @@
         "plotly"
     ],
     "nempi": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "NetActivity": [
         "DESeq2",
