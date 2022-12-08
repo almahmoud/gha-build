@@ -1490,7 +1490,6 @@
         "broom",
         "geneplotter"
     ],
-    "DEGseq": [],
     "deltaCaptureC": [
         "DESeq2",
         "geneplotter"
