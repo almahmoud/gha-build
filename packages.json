@@ -637,7 +637,6 @@
     "netboxr": [
         "clusterProfiler"
     ],
-    "netOmics": [],
     "netZooR": [
         "quantro",
         "yarn"
