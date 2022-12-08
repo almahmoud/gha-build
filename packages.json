@@ -411,7 +411,6 @@
         "sva"
     ],
     "bnem": [
-        "epiNEM",
         "sva"
     ],
     "BOBaFIT": [
@@ -1066,7 +1065,6 @@
         "testthat"
     ],
     "dce": [
-        "epiNEM",
         "ggraph",
         "modelr",
         "tidyverse"
@@ -1482,7 +1480,6 @@
         "ensembldb",
         "minfi"
     ],
-    "epiNEM": [],
     "epistasisGA": [],
     "EpiTxDb": [
         "GenomicFeatures",
@@ -3191,9 +3188,7 @@
     "Nebulosa": [
         "Seurat"
     ],
-    "nempi": [
-        "epiNEM"
-    ],
+    "nempi": [],
     "NetActivity": [
         "DESeq2"
     ],
