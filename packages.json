@@ -1,8 +1,6 @@
 {
     "a4": [],
-    "ADaCGH2": [
-        "snapCGH"
-    ],
+    "ADaCGH2": [],
     "ADAMgui": [
         "car",
         "ggpubr",
@@ -2833,7 +2831,6 @@
         "geneLenDataBase",
         "goseq"
     ],
-    "snapCGH": [],
     "snm": [
         "lme4"
     ],
