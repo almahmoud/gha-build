@@ -400,7 +400,6 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "BANDITS": [],
     "bandle": [
         "MLInterfaces",
         "MSnbase",
@@ -2107,9 +2106,7 @@
         "testthat",
         "waldo"
     ],
-    "DifferentialRegulation": [
-        "BANDITS"
-    ],
+    "DifferentialRegulation": [],
     "diffHic": [
         "BSgenome"
     ],
