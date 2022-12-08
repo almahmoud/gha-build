@@ -18921,7 +18921,6 @@
         "pheatmap",
         "pillar",
         "rmarkdown",
-        "s2",
         "sass",
         "scales",
         "sf",
@@ -20814,7 +20813,6 @@
         "progress",
         "raster",
         "readr",
-        "s2",
         "sass",
         "scales",
         "scuttle",
@@ -22667,7 +22665,6 @@
         "pheatmap",
         "pillar",
         "rematch2",
-        "s2",
         "scales",
         "scam",
         "scuttle",
@@ -39763,7 +39760,6 @@
         "pillar",
         "plotly",
         "reshape2",
-        "s2",
         "sass",
         "scales",
         "scattermore",
@@ -40483,7 +40479,6 @@
         "reactome.db",
         "reshape2",
         "rmarkdown",
-        "s2",
         "sass",
         "scales",
         "scattermore",
@@ -40560,7 +40555,6 @@
         "plotly",
         "reshape2",
         "rmarkdown",
-        "s2",
         "sass",
         "scales",
         "scattermore",
@@ -42962,7 +42956,6 @@
         "httr",
         "memoise",
         "pillar",
-        "s2",
         "scuttle",
         "sf",
         "spdep",
@@ -43239,7 +43232,6 @@
         "pheatmap",
         "pillar",
         "rematch2",
-        "s2",
         "scales",
         "scam",
         "scuttle",
@@ -44136,7 +44128,6 @@
         "reprex",
         "rmarkdown",
         "rvest",
-        "s2",
         "sass",
         "scales",
         "selectr",
@@ -44222,7 +44213,6 @@
         "plotly",
         "raster",
         "reshape2",
-        "s2",
         "sass",
         "scales",
         "scattermore",
@@ -44804,7 +44794,6 @@
         "reshape2",
         "rmarkdown",
         "rvest",
-        "s2",
         "sass",
         "scales",
         "selectr",
@@ -48097,7 +48086,6 @@
         "mgcv",
         "patchwork",
         "pillar",
-        "s2",
         "scales",
         "scico",
         "scuttle",
@@ -53442,7 +53430,6 @@
         "knitr",
         "memoise",
         "rmarkdown",
-        "s2",
         "sass",
         "sf",
         "stringr",
@@ -53450,11 +53437,9 @@
         "vctrs"
     ],
     "sf": [
-        "classInt",
-        "s2"
+        "classInt"
     ],
     "classInt": [],
-    "s2": [],
     "penalized": [
         "survival"
     ],
@@ -53572,7 +53557,6 @@
         "classInt",
         "dplyr",
         "pillar",
-        "s2",
         "sf",
         "tibble",
         "tidyselect",
@@ -55749,7 +55733,6 @@
     "sampSurf": [],
     "spdep": [
         "classInt",
-        "s2",
         "sf"
     ],
     "alphahull": [
@@ -55908,7 +55891,6 @@
     "gstat": [
         "classInt",
         "lwgeom",
-        "s2",
         "sf",
         "sftime",
         "spacetime",
@@ -55927,7 +55909,6 @@
     ],
     "sftime": [
         "classInt",
-        "s2",
         "sf"
     ],
     "spacetime": [
@@ -55936,12 +55917,10 @@
     "stars": [
         "classInt",
         "lwgeom",
-        "s2",
         "sf"
     ],
     "lwgeom": [
         "classInt",
-        "s2",
         "sf"
     ],
     "spsUtil": [
