@@ -11060,7 +11060,6 @@
         "reshape2",
         "tidyr"
     ],
-    "mapscape": [],
     "marr": [
         "SummarizedExperiment",
         "dplyr",
