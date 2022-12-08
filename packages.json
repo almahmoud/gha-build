@@ -1059,7 +1059,6 @@
         "testthat"
     ],
     "DAPAR": [
-        "DAPARdata",
         "highcharter"
     ],
     "dasper": [
@@ -3690,7 +3689,6 @@
     ],
     "Prostar": [
         "DAPAR",
-        "DAPARdata",
         "highcharter"
     ],
     "proteasy": [
@@ -5411,7 +5409,6 @@
         "nloptr",
         "testthat"
     ],
-    "DAPARdata": [],
     "cmdfun": [
         "testthat"
     ],
