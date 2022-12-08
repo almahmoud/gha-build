@@ -23039,7 +23039,6 @@
         "ggplot2",
         "lme4",
         "lmerTest",
-        "mlr3",
         "mlr3learners",
         "mlr3tuning",
         "nloptr",
@@ -30439,13 +30438,8 @@
         "rmarkdown",
         "tibble"
     ],
-    "mlr3": [],
-    "mlr3learners": [
-        "mlr3"
-    ],
-    "mlr3tuning": [
-        "mlr3"
-    ],
+    "mlr3learners": [],
+    "mlr3tuning": [],
     "survivalAnalysis": [
         "broom",
         "car",
