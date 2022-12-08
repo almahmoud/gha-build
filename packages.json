@@ -4146,7 +4146,6 @@
         "TxDb.Rnorvegicus.UCSC.rn4.ensGene",
         "annotate",
         "apeglm",
-        "ashr",
         "biomaRt",
         "chipseq",
         "dbplyr",
@@ -6317,7 +6316,6 @@
     "cytoKernel": [
         "GenomicRanges",
         "SummarizedExperiment",
-        "ashr",
         "dplyr",
         "tibble",
         "tidyselect"
@@ -6656,7 +6654,6 @@
         "annotate",
         "apeglm",
         "aplot",
-        "ashr",
         "clusterProfiler",
         "colourpicker",
         "cowplot",
@@ -7268,7 +7265,6 @@
         "SummarizedExperiment",
         "annotate",
         "apeglm",
-        "ashr",
         "dplyr",
         "geneplotter",
         "ggplot2",
@@ -29561,7 +29557,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "annotate",
         "apeglm",
-        "ashr",
         "biomaRt",
         "csaw",
         "dbplyr",
@@ -31686,7 +31681,6 @@
         "tibble",
         "tidyselect"
     ],
-    "ashr": [],
     "shinyhelper": [
         "shiny"
     ],
