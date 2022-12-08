@@ -125,7 +125,6 @@
         "dbplyr",
         "dplyr",
         "ensembldb",
-        "gcrma",
         "genefilter",
         "geneplotter",
         "ggbio",
@@ -136,18 +135,13 @@
         "tidyr",
         "viridis"
     ],
-    "affyILM": [
-        "gcrma"
-    ],
+    "affyILM": [],
     "affylmGUI": [
         "AnnotationDbi",
         "KEGGREST",
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
-    "affyPLM": [
-        "gcrma"
-    ],
+    "affyPLM": [],
     "AGDEX": [
         "AnnotationDbi",
         "GSEABase",
@@ -185,7 +179,6 @@
         "dbplyr",
         "dplyr",
         "ensembldb",
-        "gcrma",
         "genefilter",
         "geneplotter",
         "ggbio",
@@ -592,7 +585,6 @@
         "affyPLM",
         "annotate",
         "beadarray",
-        "gcrma",
         "genefilter",
         "ggplot2",
         "htmlTable",
@@ -1176,9 +1168,7 @@
         "tidyr",
         "topGO"
     ],
-    "bgx": [
-        "gcrma"
-    ],
+    "bgx": [],
     "BicARE": [
         "AnnotationDbi",
         "GSEABase",
@@ -6958,7 +6948,6 @@
         "ggplot2",
         "rmarkdown"
     ],
-    "gcrma": [],
     "GCSscore": [
         "devtools",
         "miniUI",
@@ -9836,7 +9825,6 @@
         "ROC",
         "caret",
         "dplyr",
-        "gcrma",
         "ggplot2",
         "hardhat",
         "hgu133plus2.db",
@@ -9870,9 +9858,7 @@
         "rtracklayer",
         "viridis"
     ],
-    "maskBAD": [
-        "gcrma"
-    ],
+    "maskBAD": [],
     "MAST": [
         "SingleCellExperiment",
         "ggplot2"
@@ -11050,7 +11036,6 @@
     ],
     "mimager": [
         "affyPLM",
-        "gcrma",
         "oligo",
         "oligoClasses"
     ],
@@ -15200,8 +15185,7 @@
         "rtracklayer"
     ],
     "RefPlus": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
     "RegEnrich": [
         "AnnotationDbi",
@@ -20244,7 +20228,6 @@
         "GO.db",
         "KEGGREST",
         "annaffy",
-        "gcrma",
         "ggplot2",
         "qvalue",
         "vsn"
