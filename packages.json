@@ -70,16 +70,13 @@
         "Homo.sapiens",
         "Mus.musculus",
         "chromVAR",
-        "motifmatchr",
         "projectR",
         "rGREAT"
     ],
     "ATACseqQC": [
         "motifStack"
     ],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
+    "ATACseqTFEA": [],
     "atSNP": [
         "motifStack"
     ],
@@ -566,9 +563,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [
         "minfi"
     ],
@@ -582,7 +577,6 @@
         "ggpubr",
         "ggtree",
         "lme4",
-        "motifmatchr",
         "pbkrtest",
         "rstatix"
     ],
@@ -637,8 +631,7 @@
         "ChIPseeker",
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "motifmatchr"
+        "ggtree"
     ],
     "EventPointer": [],
     "EWCE": [
@@ -1322,7 +1315,6 @@
         "biovizBase",
         "motifStack"
     ],
-    "motifmatchr": [],
     "motifStack": [],
     "MQmetrics": [
         "car",
@@ -1542,9 +1534,7 @@
         "lme4",
         "pbkrtest"
     ],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "PanomiR": [
         "clusterProfiler",
         "enrichplot",
@@ -1999,8 +1989,7 @@
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
-        "biovizBase",
-        "motifmatchr"
+        "biovizBase"
     ],
     "spicyR": [
         "lme4",
