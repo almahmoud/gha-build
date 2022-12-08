@@ -941,7 +941,6 @@
         "scales",
         "shiny",
         "shinyjs",
-        "statip",
         "stringr",
         "survival",
         "tibble",
@@ -8513,7 +8512,6 @@
         "phylolm",
         "pillar",
         "scales",
-        "statip",
         "stringr",
         "tibble",
         "vctrs"
@@ -26091,7 +26089,6 @@
         "quantreg",
         "rematch2",
         "scales",
-        "statip",
         "survival",
         "testthat",
         "tibble",
@@ -49013,7 +49010,6 @@
         "modeest",
         "pillar",
         "scales",
-        "statip",
         "tibble",
         "vctrs",
         "vegan"
@@ -49033,10 +49029,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "modeest": [
-        "statip"
-    ],
-    "statip": [],
+    "modeest": [],
     "clock": [
         "vctrs"
     ],
