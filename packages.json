@@ -10626,7 +10626,6 @@
     "ribor": [
         "tidyr"
     ],
-    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "BSgenome",
         "BiocFileCache",
