@@ -6293,7 +6293,6 @@
         "genefilter",
         "geneplotter",
         "ggtree",
-        "hgu95a.db",
         "plotly",
         "reldist",
         "scDblFinder",
@@ -7916,8 +7915,7 @@
         "ExperimentHub"
     ],
     "GSVAdata": [
-        "GSEABase",
-        "hgu95a.db"
+        "GSEABase"
     ],
     "SoupX": [
         "Seurat",
@@ -7932,7 +7930,6 @@
     "TENxPBMCData": [
         "ExperimentHub"
     ],
-    "hgu95a.db": [],
     "sampSurf": [],
     "xROI": [],
     "miRNAtap.db": [],
