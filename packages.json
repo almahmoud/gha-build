@@ -3715,7 +3715,6 @@
         "XVector",
         "blob",
         "bslib",
-        "clusterCons",
         "cowplot",
         "dbplyr",
         "dplyr",
@@ -48374,7 +48373,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "clusterCons": [],
     "rSpectral": [],
     "WGCNA": [
         "AnnotationDbi",
