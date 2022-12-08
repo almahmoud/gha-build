@@ -11774,7 +11774,6 @@
         "plotly",
         "rematch2",
         "rstatix",
-        "shinyscreenshot",
         "testthat",
         "tidyr",
         "viridis",
@@ -18015,7 +18014,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "shinyscreenshot": [],
     "pwrEWAS.data": [
         "AnnotationDbi",
         "AnnotationHub",
