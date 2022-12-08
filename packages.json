@@ -58,9 +58,7 @@
     "epihet": [
         "EntropyExplorer"
     ],
-    "EWCE": [
-        "orthogene"
-    ],
+    "EWCE": [],
     "fastLiquidAssociation": [],
     "flowCL": [
         "SPARQL"
@@ -125,7 +123,6 @@
     "omicsViewer": [
         "survminer"
     ],
-    "orthogene": [],
     "PDATK": [
         "survminer"
     ],
