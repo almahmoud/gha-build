@@ -26,7 +26,6 @@
         "ggcorrplot",
         "ggdendro",
         "ggplot2",
-        "knitr",
         "plotly",
         "reshape2",
         "rmarkdown",
@@ -52,8 +51,7 @@
         "GO.db",
         "KEGGREST",
         "SummarizedExperiment",
-        "dplyr",
-        "knitr"
+        "dplyr"
     ],
     "ADAMgui": [
         "ADAM",
@@ -70,7 +68,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -149,7 +146,6 @@
         "ggbio",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "oligoClasses",
         "reshape2",
         "rtracklayer",
@@ -215,7 +211,6 @@
         "ggbio",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "oligoClasses",
         "reshape2",
         "rtracklayer",
@@ -246,7 +241,6 @@
         "dplyr",
         "forcats",
         "ggplot2",
-        "knitr",
         "rmarkdown",
         "shinydashboard",
         "tidyr"
@@ -271,7 +265,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "rtracklayer",
         "viridis"
     ],
@@ -299,7 +292,6 @@
         "dplyr",
         "ggplot2",
         "ggrepel",
-        "knitr",
         "mixOmics",
         "readxl",
         "reshape2",
@@ -323,7 +315,6 @@
         "dplyr",
         "ggplot2",
         "interactiveDisplayBase",
-        "knitr",
         "readr",
         "reshape2",
         "rmarkdown",
@@ -338,7 +329,6 @@
         "dplyr",
         "ggplot2",
         "ggthemes",
-        "knitr",
         "rmarkdown",
         "waffle"
     ],
@@ -350,7 +340,6 @@
         "annotate",
         "geneplotter",
         "ggplot2",
-        "knitr",
         "qvalue",
         "reshape2"
     ],
@@ -371,7 +360,6 @@
         "ggrastr",
         "ggrepel",
         "htmlTable",
-        "knitr",
         "lme4",
         "lmerTest",
         "mia",
@@ -471,7 +459,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "knitr",
         "rtracklayer"
     ],
     "annotatr": [
@@ -527,7 +514,6 @@
     "AnVILPublish": [
         "AnVIL",
         "dplyr",
-        "knitr",
         "miniUI",
         "readr",
         "rmarkdown",
@@ -640,7 +626,6 @@
         "dplyr",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "viridis"
     ],
     "arrayMvout": [
@@ -683,7 +668,6 @@
         "genefilter",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "viridis",
         "vsn"
@@ -743,7 +727,6 @@
         "ggfortify",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "lme4",
         "mGSZ",
         "nloptr",
@@ -778,7 +761,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -839,7 +821,6 @@
         "googledrive",
         "googlesheets4",
         "haven",
-        "knitr",
         "miniUI",
         "modelr",
         "motifmatchr",
@@ -985,7 +966,6 @@
         "dplyr",
         "ggplot2",
         "ggrepel",
-        "knitr",
         "readxl",
         "tidyr"
     ],
@@ -1000,7 +980,6 @@
         "doBy",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -1082,7 +1061,6 @@
         "ggvis",
         "hardhat",
         "ipred",
-        "knitr",
         "mixtools",
         "pRoloc",
         "pRolocdata",
@@ -1116,7 +1094,6 @@
         "SummarizedExperiment",
         "dplyr",
         "ggplot2",
-        "knitr",
         "prettydoc",
         "rmarkdown",
         "tidyr"
@@ -1186,7 +1163,6 @@
         "ggplot2",
         "ggvis",
         "heatmaply",
-        "knitr",
         "plotly",
         "reshape2",
         "rmarkdown",
@@ -1298,7 +1274,6 @@
         "ggrepel",
         "ggridges",
         "htmlTable",
-        "knitr",
         "lme4",
         "lmerTest",
         "mia",
@@ -1378,7 +1353,6 @@
         "dplyr",
         "genefilter",
         "ggplot2",
-        "knitr",
         "lumi",
         "methylumi",
         "minfi",
@@ -1399,7 +1373,6 @@
         "forcats",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "plotly",
         "shinycssloaders",
         "shinydashboard",
@@ -1427,7 +1400,6 @@
         "ggforce",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -1470,7 +1442,6 @@
         "ggtree",
         "graphite",
         "gson",
-        "knitr",
         "lme4",
         "nloptr",
         "org.Bt.eg.db",
@@ -1500,9 +1471,7 @@
         "vroom",
         "waldo"
     ],
-    "BiocCheck": [
-        "knitr"
-    ],
+    "BiocCheck": [],
     "BiocDockerManager": [
         "dplyr",
         "readr",
@@ -1547,7 +1516,6 @@
         "ggsci",
         "ggsignif",
         "interactiveDisplayBase",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -1586,7 +1554,6 @@
     ],
     "BiocStyle": [
         "bookdown",
-        "knitr",
         "rmarkdown"
     ],
     "biocthis": [
@@ -1595,7 +1562,6 @@
     "BiocWorkflowTools": [
         "BiocStyle",
         "bookdown",
-        "knitr",
         "rmarkdown",
         "usethis"
     ],
@@ -1703,7 +1669,6 @@
         "ggplot2",
         "htmlTable",
         "imager",
-        "knitr",
         "precrec",
         "rms",
         "topGO",
@@ -1729,7 +1694,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "rtracklayer",
         "viridis"
     ],
@@ -1749,7 +1713,6 @@
         "ggrepel",
         "htmlTable",
         "interactiveDisplayBase",
-        "knitr",
         "org.Hs.eg.db",
         "synaptome.data",
         "synaptome.db",
@@ -1772,7 +1735,6 @@
         "ggrepel",
         "htmlTable",
         "intergraph",
-        "knitr",
         "network",
         "patchwork",
         "reshape2",
@@ -1790,7 +1752,6 @@
         "KEGGREST",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "org.Hs.eg.db",
         "pathview",
         "rmarkdown",
@@ -1844,7 +1805,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "rtracklayer",
         "viridis"
     ],
@@ -1968,7 +1928,6 @@
         "genefilter",
         "ggdendro",
         "ggplot2",
-        "knitr",
         "mnem",
         "rmarkdown",
         "sva",
@@ -1998,7 +1957,6 @@
         "ggforce",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "plyranges",
         "reshape2",
         "rtracklayer",
@@ -2022,7 +1980,6 @@
         "bookdown",
         "cowplot",
         "ggplot2",
-        "knitr",
         "rmarkdown"
     ],
     "BRAIN": [],
@@ -2058,7 +2015,6 @@
         "ggplot2",
         "htmlTable",
         "interactiveDisplayBase",
-        "knitr",
         "org.Hs.eg.db",
         "qvalue",
         "reshape2",
@@ -2157,7 +2113,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -2171,7 +2126,6 @@
     "BUMHMM": [
         "SummarizedExperiment",
         "devtools",
-        "knitr",
         "miniUI",
         "pkgdown",
         "rematch2",
@@ -2247,7 +2201,6 @@
         "ggbio",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "rtracklayer",
         "tidyr",
@@ -2276,7 +2229,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "pryr",
         "rtracklayer",
         "viridis"
@@ -2315,7 +2267,6 @@
         "ggtext",
         "htmlTable",
         "intergraph",
-        "knitr",
         "network",
         "patchwork",
         "reshape2",
@@ -2344,7 +2295,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "viridis",
         "vsn",
         "xcms"
@@ -2364,7 +2314,6 @@
         "ggplot2",
         "hgu133a.db",
         "htmlTable",
-        "knitr",
         "org.Hs.eg.db",
         "phenoTest",
         "viridis"
@@ -2403,7 +2352,6 @@
     "Cardinal": [],
     "CARNIVAL": [
         "dplyr",
-        "knitr",
         "readr",
         "rmarkdown",
         "tidyr",
@@ -2443,7 +2391,6 @@
         "ggridges",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -2678,7 +2625,6 @@
         "ggplot2",
         "ggrepel",
         "htmlTable",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -2707,7 +2653,6 @@
     ],
     "CellNOptR": [
         "ggplot2",
-        "knitr",
         "rmarkdown"
     ],
     "cellscape": [
@@ -2763,7 +2708,6 @@
         "gson",
         "htmlTable",
         "intergraph",
-        "knitr",
         "network",
         "patchwork",
         "qvalue",
@@ -2795,7 +2739,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "mice",
         "nloptr",
@@ -2868,7 +2811,6 @@
         "ggsignif",
         "ggtree",
         "gson",
-        "knitr",
         "lme4",
         "network",
         "nloptr",
@@ -2963,7 +2905,6 @@
         "htmlTable",
         "interactiveDisplayBase",
         "isva",
-        "knitr",
         "lumi",
         "methylumi",
         "minfi",
@@ -3019,7 +2960,6 @@
         "Hmisc",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "viridis"
     ],
     "chimeraviz": [
@@ -3044,7 +2984,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "rmarkdown",
@@ -3077,7 +3016,6 @@
         "chipenrich.data",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "org.Dm.eg.db",
         "org.Dr.eg.db",
         "org.Hs.eg.db",
@@ -3109,7 +3047,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -3274,7 +3211,6 @@
         "ggrastr",
         "ggrepel",
         "kableExtra",
-        "knitr",
         "miniUI",
         "msigdbr",
         "plotly",
@@ -3364,7 +3300,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "monocle",
         "reshape2",
         "rtracklayer",
@@ -3474,7 +3409,6 @@
     ],
     "cleaver": [],
     "clippda": [
-        "knitr",
         "rgl"
     ],
     "clipper": [
@@ -3510,13 +3444,11 @@
         "xcms"
     ],
     "clst": [
-        "ROC",
-        "knitr"
+        "ROC"
     ],
     "clstutils": [
         "ROC",
-        "clst",
-        "knitr"
+        "clst"
     ],
     "CluMSID": [
         "GGally",
@@ -3627,19 +3559,16 @@
     "CNORdt": [
         "CellNOptR",
         "ggplot2",
-        "knitr",
         "rmarkdown"
     ],
     "CNORfeeder": [
         "CellNOptR",
         "ggplot2",
-        "knitr",
         "rmarkdown"
     ],
     "CNORfuzzy": [
         "CellNOptR",
         "ggplot2",
-        "knitr",
         "nloptr",
         "rematch2",
         "rmarkdown",
@@ -3649,7 +3578,6 @@
     "CNORode": [
         "CellNOptR",
         "ggplot2",
-        "knitr",
         "rmarkdown"
     ],
     "CNTools": [
@@ -3682,7 +3610,6 @@
         "ggplot2",
         "htmlTable",
         "karyoploteR",
-        "knitr",
         "regioneR",
         "rtracklayer",
         "viridis"
@@ -3715,7 +3642,6 @@
         "ggplot2",
         "htmlTable",
         "karyoploteR",
-        "knitr",
         "plotly",
         "regioneR",
         "rtracklayer",
@@ -3793,7 +3719,6 @@
         "SummarizedExperiment",
         "dplyr",
         "ggplot2",
-        "knitr",
         "readr",
         "rmarkdown",
         "siggenes",
@@ -3810,7 +3735,6 @@
         "devtools",
         "dplyr",
         "ggplot2",
-        "knitr",
         "miniUI",
         "pkgdown",
         "rematch2",
@@ -3848,13 +3772,10 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "knitr",
         "rmarkdown",
         "rtracklayer"
     ],
-    "cola": [
-        "knitr"
-    ],
+    "cola": [],
     "comapr": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -3875,7 +3796,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "plotly",
         "reshape2",
         "rtracklayer",
@@ -3908,7 +3828,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "rtracklayer",
         "viridis"
     ],
@@ -3950,14 +3869,12 @@
         "BiocStyle",
         "bookdown",
         "dplyr",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "tidyr"
     ],
     "compcodeR": [
-        "ggplot2",
-        "knitr"
+        "ggplot2"
     ],
     "compEpiTools": [
         "AnnotationDbi",
@@ -3980,7 +3897,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "methylPipe",
         "rtracklayer",
         "topGO",
@@ -4047,7 +3963,6 @@
         "ggsignif",
         "ggtree",
         "gson",
-        "knitr",
         "lme4",
         "nloptr",
         "org.Hs.eg.db",
@@ -4108,7 +4023,6 @@
         "flowMerge",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "rms",
         "viridis"
@@ -4242,7 +4156,6 @@
         "ggplot2",
         "htmlTable",
         "karyoploteR",
-        "knitr",
         "regioneR",
         "rtracklayer",
         "viridis"
@@ -4310,7 +4223,6 @@
         "dorothea",
         "dplyr",
         "ggplot2",
-        "knitr",
         "mixtools",
         "plotly",
         "readr",
@@ -4335,7 +4247,6 @@
         "genefilter",
         "geneplotter",
         "ggplot2",
-        "knitr",
         "rmarkdown",
         "tidyr"
     ],
@@ -4508,7 +4419,6 @@
         "ggplot2",
         "htmlTable",
         "interactiveDisplayBase",
-        "knitr",
         "readr",
         "rtracklayer",
         "viridis",
@@ -4542,7 +4452,6 @@
         "ggplot2",
         "htmlTable",
         "interactiveDisplayBase",
-        "knitr",
         "readr",
         "rtracklayer",
         "viridis",
@@ -4587,7 +4496,6 @@
         "WGCNA",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "viridis"
     ],
     "CSSQ": [
@@ -4644,7 +4552,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "knitr",
         "qvalue",
         "reshape2",
         "scuttle"
@@ -4669,7 +4576,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "rtracklayer",
         "viridis"
@@ -4714,7 +4620,6 @@
         "flowWorkspace",
         "forcats",
         "ggplot2",
-        "knitr",
         "lme4",
         "mrfDepth",
         "nloptr",
@@ -4757,7 +4662,6 @@
         "ggsignif",
         "hardhat",
         "ipred",
-        "knitr",
         "lme4",
         "mbest",
         "nloptr",
@@ -4791,7 +4695,6 @@
         "ggsignif",
         "hardhat",
         "ipred",
-        "knitr",
         "lme4",
         "mbest",
         "nloptr",
@@ -4912,7 +4815,6 @@
         "hardhat",
         "htmlTable",
         "ipred",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -4960,7 +4862,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "megadepth",
         "nloptr",
@@ -5000,7 +4901,6 @@
         "googlesheets4",
         "graphite",
         "haven",
-        "knitr",
         "metap",
         "mnem",
         "modelr",
@@ -5032,7 +4932,6 @@
         "flowDensity",
         "flowWorkspace",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -5120,7 +5019,6 @@
         "SummarizedExperiment",
         "bookdown",
         "ggplot2",
-        "knitr",
         "made4",
         "reshape2",
         "rmarkdown"
@@ -5292,7 +5190,6 @@
         "ggdendro",
         "ggplot2",
         "ggrepel",
-        "knitr",
         "tidyr"
     ],
     "DEGseq": [
@@ -5330,7 +5227,6 @@
         "dendextend",
         "genefilter",
         "ggplot2",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "sva",
@@ -5346,7 +5242,6 @@
         "ggplot2",
         "ggrepel",
         "imputeLCMD",
-        "knitr",
         "readr",
         "rmarkdown",
         "shinydashboard",
@@ -5384,7 +5279,6 @@
         "dplyr",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "qvalue",
         "reshape2",
         "rtracklayer",
@@ -5416,7 +5310,6 @@
         "ggbio",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "qvalue",
         "reshape2",
         "rtracklayer",
@@ -5461,7 +5354,6 @@
         "ggplot.multistats",
         "ggplot2",
         "ggthemes",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -5556,7 +5448,6 @@
         "WGCNA",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "viridis"
     ],
     "diffcyt": [
@@ -5573,7 +5464,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -5674,7 +5564,6 @@
         "ggplot2",
         "heatmaply",
         "kableExtra",
-        "knitr",
         "miniUI",
         "plotly",
         "reshape2",
@@ -5771,7 +5660,6 @@
         "ggplot2",
         "htmlTable",
         "interactiveDisplayBase",
-        "knitr",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -5805,7 +5693,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "rtracklayer",
         "viridis"
     ],
@@ -5879,7 +5766,6 @@
         "dplyr",
         "drc",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -6020,7 +5906,6 @@
         "ggsci",
         "ggsignif",
         "interactiveDisplayBase",
-        "knitr",
         "lme4",
         "mixtools",
         "nloptr",
@@ -6073,7 +5958,6 @@
         "viridis"
     ],
     "easyreporting": [
-        "knitr",
         "rmarkdown"
     ],
     "easyRNASeq": [
@@ -6254,7 +6138,6 @@
         "ggsci",
         "ggsignif",
         "htmlTable",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -6408,7 +6291,6 @@
         "ggsignif",
         "ggtree",
         "gson",
-        "knitr",
         "lme4",
         "motifmatchr",
         "nloptr",
@@ -6499,7 +6381,6 @@
         "ggrepel",
         "ggtree",
         "interactiveDisplayBase",
-        "knitr",
         "patchwork",
         "plotly",
         "qvalue",
@@ -6531,7 +6412,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -6568,7 +6448,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -6606,7 +6485,6 @@
         "graphite",
         "gson",
         "htmlTable",
-        "knitr",
         "patchwork",
         "qvalue",
         "reactome.db",
@@ -6680,7 +6558,6 @@
         "ggrepel",
         "htmlTable",
         "interactiveDisplayBase",
-        "knitr",
         "minfi",
         "org.Hs.eg.db",
         "readr",
@@ -6705,7 +6582,6 @@
         "batchtools",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "qgraph",
         "reshape2",
         "viridis"
@@ -6871,7 +6747,6 @@
         "ggrepel",
         "ggtree",
         "gson",
-        "knitr",
         "motifmatchr",
         "patchwork",
         "pipeFrame",
@@ -6924,7 +6799,6 @@
         "ggdendro",
         "ggplot2",
         "kableExtra",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rvest",
@@ -6979,7 +6853,6 @@
         "gprofiler2",
         "homologene",
         "interactiveDisplayBase",
-        "knitr",
         "lme4",
         "nloptr",
         "orthogene",
@@ -7051,7 +6924,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "knitr",
         "rtracklayer"
     ],
     "ExperimentSubset": [
@@ -7081,7 +6953,6 @@
         "BiocStyle",
         "SummarizedExperiment",
         "bookdown",
-        "knitr",
         "rmarkdown"
     ],
     "extraChIPs": [
@@ -7114,7 +6985,6 @@
         "ggrepel",
         "ggside",
         "htmlTable",
-        "knitr",
         "patchwork",
         "rtracklayer",
         "tidyr",
@@ -7145,7 +7015,6 @@
         "gap",
         "ggplot2",
         "kinship2",
-        "knitr",
         "plotly",
         "tidyr"
     ],
@@ -7201,7 +7070,6 @@
         "geepack",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "org.Sc.sgd.db",
         "tidyr",
         "viridis"
@@ -7236,7 +7104,6 @@
         "vroom"
     ],
     "fCI": [
-        "knitr",
         "rgl"
     ],
     "fcoex": [
@@ -7392,7 +7259,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "viridis",
         "vsn",
         "xcms"
@@ -7430,7 +7296,6 @@
         "ggrastr",
         "ggrepel",
         "htmlTable",
-        "knitr",
         "reshape2",
         "rtracklayer",
         "scater",
@@ -7441,13 +7306,10 @@
     ],
     "flowAI": [
         "ggplot2",
-        "knitr",
         "reshape2",
         "rmarkdown"
     ],
-    "flowBeads": [
-        "knitr"
-    ],
+    "flowBeads": [],
     "flowBin": [
         "flowFP"
     ],
@@ -7473,7 +7335,6 @@
         "flowDensity",
         "flowWorkspace",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -7492,7 +7353,6 @@
         "fields",
         "flowWorkspace",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -7518,7 +7378,6 @@
         "car",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -7540,7 +7399,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -7647,7 +7505,6 @@
         "car",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -7716,7 +7573,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -7797,7 +7653,6 @@
         "hardhat",
         "htmlTable",
         "ipred",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -7833,13 +7688,11 @@
     "gCrisprTools": [
         "SummarizedExperiment",
         "ggplot2",
-        "knitr",
         "rmarkdown"
     ],
     "gcrma": [],
     "GCSscore": [
         "devtools",
-        "knitr",
         "miniUI",
         "pkgdown",
         "rematch2",
@@ -7885,7 +7738,6 @@
         "ggtext",
         "ggtree",
         "gson",
-        "knitr",
         "lme4",
         "nloptr",
         "org.Hs.eg.db",
@@ -7958,7 +7810,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -8011,7 +7862,6 @@
         "dplyr",
         "ggplot2",
         "ggrepel",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -8067,7 +7917,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "rtracklayer",
         "viridis"
     ],
@@ -8088,7 +7937,6 @@
         "ggforce",
         "ggplot2",
         "ggrepel",
-        "knitr",
         "miniUI",
         "patchwork",
         "plotly",
@@ -8113,7 +7961,6 @@
         "SummarizedExperiment",
         "bookdown",
         "dplyr",
-        "knitr",
         "org.Rn.eg.db",
         "rmarkdown",
         "rtracklayer"
@@ -8228,7 +8075,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "rtracklayer",
         "viridis"
     ],
@@ -8255,7 +8101,6 @@
         "ggbio",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "rtracklayer",
         "tidyr",
@@ -8284,7 +8129,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -8391,7 +8235,6 @@
         "ggsci",
         "ggsignif",
         "heatmaply",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -8479,7 +8322,6 @@
         "car",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -8510,7 +8352,6 @@
         "forcats",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "rtracklayer",
         "tidyr",
@@ -8618,7 +8459,6 @@
         "genefilter",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "viridis"
     ],
@@ -8660,7 +8500,6 @@
         "ggsci",
         "ggsignif",
         "ggtext",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -8722,7 +8561,6 @@
         "genefilter",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "reshape2",
@@ -8923,7 +8761,6 @@
         "flextable",
         "ggplot2",
         "ggplotify",
-        "knitr",
         "rmarkdown",
         "tidyr"
     ],
@@ -8957,7 +8794,6 @@
         "dplyr",
         "drc",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -9111,7 +8947,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "knitr",
         "rtracklayer"
     ],
     "Gviz": [
@@ -9133,7 +8968,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "rtracklayer",
         "viridis"
     ],
@@ -9209,7 +9043,6 @@
         "ggplot2",
         "gprofiler2",
         "htmlTable",
-        "knitr",
         "plotly",
         "tidyr",
         "viridis"
@@ -9319,7 +9152,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -9341,7 +9173,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "miniUI",
         "multiHiCcompare",
@@ -9382,7 +9213,6 @@
         "ggrastr",
         "htmlTable",
         "interactiveDisplayBase",
-        "knitr",
         "rtracklayer",
         "tidyr",
         "viridis",
@@ -9517,7 +9347,6 @@
         "ggforce",
         "ggplot2",
         "kableExtra",
-        "knitr",
         "msigdbr",
         "reshape2",
         "rmarkdown",
@@ -9540,7 +9369,6 @@
         "Hmisc",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "viridis"
     ],
     "icetea": [
@@ -9583,7 +9411,6 @@
         "dplyr",
         "genefilter",
         "ggplot2",
-        "knitr",
         "lumi",
         "methylumi",
         "minfi",
@@ -9647,7 +9474,6 @@
         "ggrepel",
         "goseq",
         "heatmaply",
-        "knitr",
         "pcaExplorer",
         "plotly",
         "reshape2",
@@ -9781,7 +9607,6 @@
         "flowWorkspace",
         "ggplot2",
         "heatmaply",
-        "knitr",
         "plotly",
         "reshape2",
         "rmarkdown",
@@ -9799,7 +9624,6 @@
     ],
     "INDEED": [
         "devtools",
-        "knitr",
         "miniUI",
         "pkgdown",
         "rematch2",
@@ -9882,7 +9706,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -9918,7 +9741,6 @@
         "ggbio",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "rtracklayer",
         "tidyr",
@@ -9929,7 +9751,6 @@
     ],
     "InteractiveComplexHeatmap": [
         "kableExtra",
-        "knitr",
         "rmarkdown",
         "rvest",
         "selectr"
@@ -9967,7 +9788,6 @@
         "ggsci",
         "ggsignif",
         "golem",
-        "knitr",
         "lme4",
         "miniUI",
         "nloptr",
@@ -10015,7 +9835,6 @@
     ],
     "IntramiRExploreR": [
         "FGNet",
-        "knitr",
         "reshape2"
     ],
     "IONiseR": [
@@ -10039,7 +9858,6 @@
         "ggsci",
         "ggsignif",
         "ggtext",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -10068,7 +9886,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "viridis",
         "vsn",
         "xcms"
@@ -10110,7 +9927,6 @@
         "ggsignif",
         "ggtree",
         "gson",
-        "knitr",
         "lme4",
         "miniUI",
         "mixtools",
@@ -10292,7 +10108,6 @@
         "ggdendro",
         "ggplot2",
         "ggrepel",
-        "knitr",
         "readr",
         "tidyr",
         "vroom"
@@ -10337,7 +10152,6 @@
         "ggsci",
         "ggsignif",
         "ggtext",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -10377,7 +10191,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "regioneR",
         "rtracklayer",
         "viridis"
@@ -10447,7 +10260,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -10473,7 +10285,6 @@
         "hardhat",
         "htmlTable",
         "ipred",
-        "knitr",
         "prodlim",
         "recipes",
         "reshape2",
@@ -10491,7 +10302,6 @@
         "bsplus",
         "dbplyr",
         "dplyr",
-        "knitr",
         "learnr",
         "readr",
         "rmarkdown",
@@ -10519,7 +10329,6 @@
     "levi": [
         "dplyr",
         "ggplot2",
-        "knitr",
         "rematch2",
         "reshape2",
         "rmarkdown",
@@ -10531,8 +10340,7 @@
     "LineagePulse": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "ggplot2",
-        "knitr"
+        "ggplot2"
     ],
     "lineagespot": [
         "AnnotationDbi",
@@ -10564,7 +10372,6 @@
         "ggsci",
         "ggsignif",
         "haven",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -10656,7 +10463,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "viridis",
         "vsn",
         "xcms"
@@ -10769,7 +10575,6 @@
         "densEstBayes",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reldist",
         "rstan",
         "viridis"
@@ -10805,7 +10610,6 @@
         "dplyr",
         "ggplot2",
         "glmmTMB",
-        "knitr",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -10831,7 +10635,6 @@
         "ggplot2",
         "glmmTMB",
         "htmlTable",
-        "knitr",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -10852,7 +10655,6 @@
         "cellranger",
         "ggplot2",
         "ggrepel",
-        "knitr",
         "prettydoc",
         "readxl",
         "rmarkdown",
@@ -10984,7 +10786,6 @@
         "hardhat",
         "haven",
         "ipred",
-        "knitr",
         "modelr",
         "prodlim",
         "readr",
@@ -11017,7 +10818,6 @@
         "htmlTable",
         "ipred",
         "klaR",
-        "knitr",
         "labelled",
         "miniUI",
         "plsgenomics",
@@ -11048,7 +10848,6 @@
         "hardhat",
         "hgu133plus2.db",
         "ipred",
-        "knitr",
         "org.Hs.eg.db",
         "prodlim",
         "recipes",
@@ -11081,7 +10880,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "rtracklayer",
         "viridis"
@@ -11103,7 +10901,6 @@
         "ggplot2",
         "htmlTable",
         "imputeLCMD",
-        "knitr",
         "plotly",
         "proDA",
         "rmarkdown",
@@ -11141,7 +10938,6 @@
         "dplyr",
         "genefilter",
         "ggplot2",
-        "knitr",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -11172,7 +10968,6 @@
         "WGCNA",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "viridis"
     ],
     "mBPCR": [
@@ -11194,7 +10989,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "knitr",
         "rmarkdown"
     ],
     "MCbiclust": [
@@ -11208,7 +11002,6 @@
         "forcats",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "org.Hs.eg.db",
         "tidyr",
         "viridis"
@@ -11239,7 +11032,6 @@
         "fgsea",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "org.Hs.eg.db",
         "rtracklayer",
         "viridis"
@@ -11287,7 +11079,6 @@
         "ggrepel",
         "htmlTable",
         "isva",
-        "knitr",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -11323,7 +11114,6 @@
         "dplyr",
         "genefilter",
         "ggplot2",
-        "knitr",
         "lumi",
         "methylumi",
         "minfi",
@@ -11358,7 +11148,6 @@
         "dplyr",
         "drc",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -11381,7 +11170,6 @@
         "CNORode",
         "CellNOptR",
         "ggplot2",
-        "knitr",
         "rmarkdown"
     ],
     "Melissa": [
@@ -11390,7 +11178,6 @@
         "bookdown",
         "cowplot",
         "ggplot2",
-        "knitr",
         "rmarkdown"
     ],
     "memes": [
@@ -11458,7 +11245,6 @@
         "annotate",
         "bookdown",
         "genefilter",
-        "knitr",
         "rmarkdown"
     ],
     "MesKit": [
@@ -11510,7 +11296,6 @@
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "dplyr",
-        "knitr",
         "rols",
         "struct",
         "tidyr"
@@ -11538,7 +11323,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "lme4",
         "mygene",
         "nloptr",
@@ -11567,7 +11351,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -11611,7 +11394,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "viridis",
         "vsn",
         "xcms"
@@ -11698,7 +11480,6 @@
         "ggplot2",
         "heatmaply",
         "ipred",
-        "knitr",
         "plotly",
         "prodlim",
         "qvalue",
@@ -11796,7 +11577,6 @@
         "ggsci",
         "ggsignif",
         "interactiveDisplayBase",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -11911,7 +11691,6 @@
         "googlesheets4",
         "haven",
         "interactiveDisplayBase",
-        "knitr",
         "lme4",
         "methylclockData",
         "minfi",
@@ -12043,7 +11822,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "rtracklayer",
         "viridis"
     ],
@@ -12103,7 +11881,6 @@
         "ChemmineR",
         "devtools",
         "ggplot2",
-        "knitr",
         "miniUI",
         "pkgdown",
         "rematch2",
@@ -12231,7 +12008,6 @@
         "geneplotter",
         "ggplot2",
         "heatmaply",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -12283,7 +12059,6 @@
         "hardhat",
         "htmlTable",
         "ipred",
-        "knitr",
         "lme4",
         "lmerTest",
         "mia",
@@ -12329,7 +12104,6 @@
         "ggtree",
         "golem",
         "gson",
-        "knitr",
         "patchwork",
         "qvalue",
         "reshape2",
@@ -12375,7 +12149,6 @@
         "formattable",
         "ggplot2",
         "kableExtra",
-        "knitr",
         "mice",
         "rmarkdown",
         "rvest",
@@ -12432,7 +12205,6 @@
         "Hmisc",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "viridis"
     ],
@@ -12461,7 +12233,6 @@
         "genefilter",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "lumi",
         "lumiHumanAll.db",
         "methylumi",
@@ -12552,7 +12323,6 @@
         "genefilter",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "org.Hs.eg.db",
         "readr",
         "rvest",
@@ -12637,7 +12407,6 @@
         "htmlTable",
         "iBBiG",
         "ipred",
-        "knitr",
         "lme4",
         "metR",
         "miRspongeR",
@@ -12722,7 +12491,6 @@
         "hardhat",
         "haven",
         "ipred",
-        "knitr",
         "lme4",
         "modelr",
         "nloptr",
@@ -12821,7 +12589,6 @@
         "echarts4r",
         "forcats",
         "ggplot2",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "tidyr"
@@ -12901,7 +12668,6 @@
         "dplyr",
         "ggplot2",
         "glmmTMB",
-        "knitr",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -12944,7 +12710,6 @@
         "WGCNA",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "viridis"
     ],
     "Modstrings": [],
@@ -13034,7 +12799,6 @@
         "ggrepel",
         "ggtree",
         "gson",
-        "knitr",
         "patchwork",
         "qvalue",
         "readr",
@@ -13105,7 +12869,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "motifStack",
         "readr",
         "reshape2",
@@ -13183,7 +12946,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -13245,7 +13007,6 @@
         "ggbio",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "rtracklayer",
         "tidyr",
@@ -13295,7 +13056,6 @@
         "dplyr",
         "ggplot2",
         "interactiveDisplayBase",
-        "knitr",
         "msmsEDA",
         "msmsTests",
         "qvalue",
@@ -13314,7 +13074,6 @@
         "dplyr",
         "genefilter",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -13377,7 +13136,6 @@
         "googledrive",
         "googlesheets4",
         "haven",
-        "knitr",
         "lme4",
         "lmerTest",
         "modelr",
@@ -13421,7 +13179,6 @@
         "dplyr",
         "ggExtra",
         "ggplot2",
-        "knitr",
         "miniUI",
         "plotly",
         "qcmetrics",
@@ -13436,7 +13193,6 @@
         "dplyr",
         "ggExtra",
         "ggplot2",
-        "knitr",
         "miniUI",
         "plotly",
         "qcmetrics",
@@ -13471,7 +13227,6 @@
         "ggplot2",
         "ggrepel",
         "htmlTable",
-        "knitr",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -13552,7 +13307,6 @@
         "htmlTable",
         "karyoploteR",
         "keras",
-        "knitr",
         "plyranges",
         "regioneR",
         "rtracklayer",
@@ -13634,7 +13388,6 @@
         "gson",
         "hardhat",
         "ipred",
-        "knitr",
         "metap",
         "miniUI",
         "mixOmics",
@@ -13706,7 +13459,6 @@
         "ggrastr",
         "ggrepel",
         "glmmTMB",
-        "knitr",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -13759,7 +13511,6 @@
         "ggsci",
         "ggseqlogo",
         "ggsignif",
-        "knitr",
         "learnr",
         "lme4",
         "nloptr",
@@ -13816,7 +13567,6 @@
         "car",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -13841,7 +13591,6 @@
         "dplyr",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "rtracklayer",
         "sqldf",
         "viridis"
@@ -13862,7 +13611,6 @@
         "dplyr",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "rtracklayer",
         "viridis"
     ],
@@ -13898,7 +13646,6 @@
         "ggplot2",
         "htmlTable",
         "interactiveDisplayBase",
-        "knitr",
         "metap",
         "motifStack",
         "mutoss",
@@ -13942,7 +13689,6 @@
         "KEGGREST",
         "NMF",
         "ggplot2",
-        "knitr",
         "org.Hs.eg.db",
         "reshape2"
     ],
@@ -13960,7 +13706,6 @@
         "googledrive",
         "googlesheets4",
         "haven",
-        "knitr",
         "modelr",
         "org.Hs.eg.db",
         "readr",
@@ -13996,7 +13741,6 @@
         "car",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "mppa",
         "nloptr",
@@ -14088,7 +13832,6 @@
         "WGCNA",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "viridis"
     ],
     "netboxr": [
@@ -14163,7 +13906,6 @@
         "BiocStyle",
         "bookdown",
         "ggplot2",
-        "knitr",
         "qvalue",
         "reshape2",
         "rmarkdown"
@@ -14180,7 +13922,6 @@
         "dplyr",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "viridis"
     ],
     "netSmooth": [
@@ -14268,7 +14009,6 @@
         "forcats",
         "ggdendro",
         "ggplot2",
-        "knitr",
         "patchwork",
         "plotly",
         "readr",
@@ -14329,7 +14069,6 @@
         "ggplot2",
         "haven",
         "htmlTable",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -14344,7 +14083,6 @@
         "waldo"
     ],
     "NormqPCR": [
-        "knitr",
         "qpcR",
         "rgl"
     ],
@@ -14469,7 +14207,6 @@
         "ggsci",
         "ggsignif",
         "htmlTable",
-        "knitr",
         "lme4",
         "megadepth",
         "nloptr",
@@ -14514,7 +14251,6 @@
         "ggplot2",
         "htmlTable",
         "interactiveDisplayBase",
-        "knitr",
         "rtracklayer",
         "shinyBS",
         "shinyFiles",
@@ -14561,7 +14297,6 @@
     "omicplotR": [
         "ALDEx2",
         "SummarizedExperiment",
-        "knitr",
         "rmarkdown",
         "zCompositions"
     ],
@@ -14583,7 +14318,6 @@
         "htmlTable",
         "imputeLCMD",
         "isva",
-        "knitr",
         "lme4",
         "made4",
         "mice",
@@ -14633,7 +14367,6 @@
         "ggsci",
         "ggsignif",
         "kableExtra",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -14671,7 +14404,6 @@
         "ggseqlogo",
         "ggsignif",
         "ggtext",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -14700,7 +14432,6 @@
     "OmnipathR": [
         "cellranger",
         "dplyr",
-        "knitr",
         "readr",
         "readxl",
         "rmarkdown",
@@ -14732,7 +14463,6 @@
         "dplyr",
         "ggplot2",
         "ggrepel",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -14770,7 +14500,6 @@
         "dplyr",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "viridis"
     ],
@@ -14780,7 +14509,6 @@
         "dplyr",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "openPrimeR",
         "reshape2",
         "rmarkdown",
@@ -14796,7 +14524,6 @@
         "dplyr",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -14832,7 +14559,6 @@
     "oppti": [
         "devtools",
         "ggplot2",
-        "knitr",
         "miniUI",
         "pkgdown",
         "rematch2",
@@ -14845,7 +14571,6 @@
     "optimalFlow": [
         "dplyr",
         "flowMeans",
-        "knitr",
         "rgl"
     ],
     "OPWeight": [
@@ -14927,7 +14652,6 @@
         "ggtree",
         "gprofiler2",
         "homologene",
-        "knitr",
         "lme4",
         "nloptr",
         "patchwork",
@@ -14999,7 +14723,6 @@
         "dplyr",
         "ggplot2",
         "ggrepel",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -15151,7 +14874,6 @@
         "dplyr",
         "geneplotter",
         "ggplot2",
-        "knitr",
         "miniUI",
         "phyloseq",
         "pkgdown",
@@ -15205,7 +14927,6 @@
         "ggplot2",
         "ggrepel",
         "heatmaply",
-        "knitr",
         "plotly",
         "reshape2",
         "rmarkdown",
@@ -15250,7 +14971,6 @@
         "ggtext",
         "hardhat",
         "ipred",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -15376,7 +15096,6 @@
         "fgsea",
         "geneplotter",
         "ggplot2",
-        "knitr",
         "opencpu",
         "readr",
         "tidyr",
@@ -15439,7 +15158,6 @@
         "ggplot2",
         "hgu133a.db",
         "htmlTable",
-        "knitr",
         "org.Hs.eg.db",
         "viridis"
     ],
@@ -15448,7 +15166,6 @@
         "car",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "logistf",
         "mice",
@@ -15493,7 +15210,6 @@
         "ggsci",
         "ggsignif",
         "ggtext",
-        "knitr",
         "lme4",
         "network",
         "nloptr",
@@ -15522,7 +15238,6 @@
         "dplyr",
         "ggplot2",
         "interactiveDisplayBase",
-        "knitr",
         "miniUI",
         "rmarkdown",
         "shinyBS",
@@ -15597,7 +15312,6 @@
         "graphite",
         "gson",
         "htmlTable",
-        "knitr",
         "patchwork",
         "qvalue",
         "reactome.db",
@@ -15635,7 +15349,6 @@
         "ggplot2",
         "hdrcde",
         "htmlTable",
-        "knitr",
         "rainbow",
         "rtracklayer",
         "viridis"
@@ -15653,7 +15366,6 @@
         "ggrastr",
         "ggrepel",
         "ggridges",
-        "knitr",
         "miniUI",
         "patchwork",
         "plotly",
@@ -15673,7 +15385,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
-        "knitr",
         "rmarkdown",
         "rtracklayer"
     ],
@@ -15720,7 +15431,6 @@
         "ggsci",
         "ggsignif",
         "htmlTable",
-        "knitr",
         "lme4",
         "miniUI",
         "nloptr",
@@ -15796,7 +15506,6 @@
         "ggrepel",
         "hardhat",
         "ipred",
-        "knitr",
         "mixOmics",
         "prodlim",
         "recipes",
@@ -15858,7 +15567,6 @@
         "SummarizedExperiment",
         "bookdown",
         "ggplot2",
-        "knitr",
         "phyloseq",
         "reshape2",
         "rmarkdown"
@@ -15922,7 +15630,6 @@
         "ggplot2",
         "htmlTable",
         "interactiveDisplayBase",
-        "knitr",
         "phastCons100way.UCSC.hg38",
         "readr",
         "reshape2",
@@ -15938,7 +15645,6 @@
         "forecast",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "quantmod",
         "tidyr",
         "tseries",
@@ -15987,7 +15693,6 @@
         "ggfortify",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "lme4",
         "nloptr",
         "pvca",
@@ -16111,7 +15816,6 @@
         "ggvis",
         "hardhat",
         "ipred",
-        "knitr",
         "mixtools",
         "plotly",
         "prodlim",
@@ -16141,7 +15845,6 @@
         "ggvis",
         "hardhat",
         "ipred",
-        "knitr",
         "miniUI",
         "mixtools",
         "pRoloc",
@@ -16260,7 +15963,6 @@
         "ggsci",
         "ggsignif",
         "kableExtra",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -16306,7 +16008,6 @@
         "highcharter",
         "htmlTable",
         "interactiveDisplayBase",
-        "knitr",
         "miniUI",
         "pairsD3",
         "quantmod",
@@ -16358,7 +16059,6 @@
         "ggsci",
         "ggsignif",
         "htmlTable",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -16422,7 +16122,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "rtracklayer",
         "viridis"
     ],
@@ -16460,9 +16159,7 @@
         "ggplot2",
         "reshape2"
     ],
-    "qcmetrics": [
-        "knitr"
-    ],
+    "qcmetrics": [],
     "QDNAseq": [
         "Rsamtools"
     ],
@@ -16485,7 +16182,6 @@
         "egg",
         "ggplot2",
         "heatmaply",
-        "knitr",
         "lme4",
         "nloptr",
         "patchwork",
@@ -16541,7 +16237,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "rematch2",
         "rtracklayer",
         "testthat",
@@ -16564,7 +16259,6 @@
         "genefilter",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "sva",
         "viridis"
     ],
@@ -16667,7 +16361,6 @@
         "ggbio",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "rtracklayer",
         "tidyr",
@@ -16788,7 +16481,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "baySeq",
-        "knitr",
         "rgl"
     ],
     "RCAS": [
@@ -16809,7 +16501,6 @@
         "ggplot2",
         "ggseqlogo",
         "gprofiler2",
-        "knitr",
         "plotly",
         "readr",
         "reshape2",
@@ -16899,7 +16590,6 @@
     ],
     "RCyjs": [],
     "RDRToolbox": [
-        "knitr",
         "rgl"
     ],
     "ReactomeGraph4R": [
@@ -16950,7 +16640,6 @@
     "rebook": [
         "BiocStyle",
         "bookdown",
-        "knitr",
         "rmarkdown"
     ],
     "receptLoss": [
@@ -16984,7 +16673,6 @@
         "dplyr",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "qvalue",
         "readr",
         "reshape2",
@@ -17083,7 +16771,6 @@
         "geneplotter",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "qvalue",
         "reshape2",
         "tidyr",
@@ -17133,7 +16820,6 @@
         "geneplotter",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "knitrBootstrap",
         "qvalue",
         "reshape2",
@@ -17169,7 +16855,6 @@
         "ggplot2",
         "htmlTable",
         "interactiveDisplayBase",
-        "knitr",
         "rtracklayer",
         "viridis"
     ],
@@ -17253,7 +16938,6 @@
         "ggbio",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "rtracklayer",
         "tidyr",
@@ -17307,7 +16991,6 @@
         "ggrepel",
         "htmlTable",
         "imputeLCMD",
-        "knitr",
         "lme4",
         "mice",
         "nloptr",
@@ -17498,7 +17181,6 @@
         "ggbio",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "rtracklayer",
         "sqldf",
@@ -17552,7 +17234,6 @@
         "dplyr",
         "egg",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -17597,7 +17278,6 @@
         "ggplot2",
         "htmlTable",
         "karyoploteR",
-        "knitr",
         "regioneR",
         "rtracklayer",
         "viridis"
@@ -17628,7 +17308,6 @@
         "dplyr",
         "ensembldb",
         "ggplot2",
-        "knitr",
         "reshape2",
         "rtracklayer",
         "sqldf",
@@ -17710,7 +17389,6 @@
         "dplyr",
         "geneplotter",
         "ggplot2",
-        "knitr",
         "miniUI",
         "org.Mm.eg.db",
         "pkgdown",
@@ -17748,7 +17426,6 @@
         "dplyr",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "org.Hs.eg.db",
         "qvalue",
         "readr",
@@ -17820,7 +17497,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "rtracklayer",
         "viridis"
@@ -17847,7 +17523,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "rtracklayer",
         "viridis"
@@ -17874,7 +17549,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "rtracklayer",
         "viridis"
@@ -17901,7 +17575,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "rtracklayer",
         "viridis"
@@ -17952,7 +17625,6 @@
         "ggsignif",
         "ggtree",
         "gson",
-        "knitr",
         "lme4",
         "nloptr",
         "org.Hs.eg.db",
@@ -18005,7 +17677,6 @@
         "ggsci",
         "ggsignif",
         "htmlTable",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -18058,13 +17729,10 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "ROC": [
-        "knitr"
-    ],
+    "ROC": [],
     "ROCpAI": [
         "SummarizedExperiment",
-        "fission",
-        "knitr"
+        "fission"
     ],
     "RolDE": [
         "SummarizedExperiment",
@@ -18090,7 +17758,6 @@
         "BiocStyle",
         "bookdown",
         "ggplot2",
-        "knitr",
         "phyloseq",
         "reshape2",
         "rmarkdown"
@@ -18130,7 +17797,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -18146,7 +17812,6 @@
         "dplyr",
         "ggplot2",
         "ggrepel",
-        "knitr",
         "lme4",
         "metap",
         "mutoss",
@@ -18201,7 +17866,6 @@
         "ggsignif",
         "ggtext",
         "ggthemes",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -18245,7 +17909,6 @@
         "car",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "mixtools",
         "nloptr",
@@ -18264,7 +17927,6 @@
         "car",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "mixtools",
         "nloptr",
@@ -18285,7 +17947,6 @@
         "dplyr",
         "egg",
         "ggplot2",
-        "knitr",
         "lme4",
         "mixtools",
         "nloptr",
@@ -18311,7 +17972,6 @@
         "Hmisc",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "viridis"
     ],
     "rTRM": [
@@ -18365,7 +18025,6 @@
         "gRain",
         "ggplot2",
         "kinship2",
-        "knitr",
         "tidyr"
     ],
     "rWikiPathways": [
@@ -18398,7 +18057,6 @@
         "dplyr",
         "ggdendro",
         "ggplot2",
-        "knitr",
         "plotly",
         "reshape2",
         "rmarkdown",
@@ -18425,7 +18083,6 @@
         "SBGNview.data",
         "SummarizedExperiment",
         "bookdown",
-        "knitr",
         "org.Hs.eg.db",
         "pathview",
         "rmarkdown"
@@ -18798,7 +18455,6 @@
         "dplyr",
         "ggplot2",
         "kableExtra",
-        "knitr",
         "rmarkdown",
         "rvest",
         "sangerseqR",
@@ -18836,7 +18492,6 @@
         "densEstBayes",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reldist",
         "rstan",
         "ruv",
@@ -18850,7 +18505,6 @@
         "cowplot",
         "dplyr",
         "ggplot2",
-        "knitr",
         "rmarkdown",
         "rstan",
         "viridis"
@@ -18872,7 +18526,6 @@
         "dplyr",
         "ggplot2",
         "interactiveDisplayBase",
-        "knitr",
         "readr",
         "regioneR",
         "reshape2",
@@ -19044,7 +18697,6 @@
         "ggplot2",
         "ggthemes",
         "htmlTable",
-        "knitr",
         "reshape2",
         "rtracklayer",
         "tidyr",
@@ -19101,7 +18753,6 @@
         "gson",
         "heatmaply",
         "interactiveDisplayBase",
-        "knitr",
         "meshr",
         "miniUI",
         "nnTensor",
@@ -19142,7 +18793,6 @@
         "ggplot2",
         "ggrepel",
         "ggridges",
-        "knitr",
         "miniUI",
         "msigdbr",
         "nnTensor",
@@ -19305,7 +18955,6 @@
         "dplyr",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "viridis"
     ],
     "seqArchR": [
@@ -19375,7 +19024,6 @@
         "ggplot2",
         "gistr",
         "interactiveDisplayBase",
-        "knitr",
         "pryr",
         "rbokeh",
         "reshape2",
@@ -19462,7 +19110,6 @@
         "genefilter",
         "ggplot2",
         "heatmaply",
-        "knitr",
         "minfi",
         "plotly",
         "readr",
@@ -19614,7 +19261,6 @@
         "ggsci",
         "ggsignif",
         "ggtext",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -19670,7 +19316,6 @@
         "ggsignif",
         "ggtext",
         "ipred",
-        "knitr",
         "lme4",
         "nloptr",
         "openair",
@@ -19843,7 +19488,6 @@
         "hgu95a.db",
         "htmlTable",
         "interactiveDisplayBase",
-        "knitr",
         "metap",
         "miniUI",
         "msigdbr",
@@ -19974,7 +19618,6 @@
         "dplyr",
         "genefilter",
         "ggplot2",
-        "knitr",
         "lumi",
         "methylumi",
         "minfi",
@@ -20023,7 +19666,6 @@
         "ggplot2",
         "goseq",
         "htmlTable",
-        "knitr",
         "org.Hs.eg.db",
         "reactome.db",
         "rtracklayer",
@@ -20112,7 +19754,6 @@
         "ggbio",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "rtracklayer",
         "tidyr",
@@ -20274,7 +19915,6 @@
         "ggrastr",
         "ggrepel",
         "htmlTable",
-        "knitr",
         "plotly",
         "reshape2",
         "scater",
@@ -20310,7 +19950,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "motifmatchr",
         "readr",
         "reshape2",
@@ -20480,7 +20119,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "rtracklayer",
         "viridis"
     ],
@@ -20512,7 +20150,6 @@
         "hardhat",
         "haven",
         "ipred",
-        "knitr",
         "lme4",
         "modelr",
         "nloptr",
@@ -20581,7 +20218,6 @@
         "WGCNA",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "phyloseq",
         "reshape2",
         "viridis"
@@ -20629,7 +20265,6 @@
         "geneplotter",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "miniUI",
         "pkgdown",
         "rematch2",
@@ -20674,7 +20309,6 @@
         "ggstance",
         "haven",
         "kinship2",
-        "knitr",
         "labelled",
         "mosaicCore",
         "readr",
@@ -20709,7 +20343,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "rtracklayer",
         "viridis"
     ],
@@ -20780,7 +20413,6 @@
         "googledrive",
         "googlesheets4",
         "haven",
-        "knitr",
         "modelr",
         "readr",
         "readxl",
@@ -20795,8 +20427,7 @@
         "vroom"
     ],
     "statTarget": [
-        "ROC",
-        "knitr"
+        "ROC"
     ],
     "STdeconvolve": [
         "dplyr",
@@ -20845,7 +20476,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rtracklayer"
@@ -20855,7 +20485,6 @@
     ],
     "struct": [
         "SummarizedExperiment",
-        "knitr",
         "rols"
     ],
     "Structstrings": [],
@@ -20863,7 +20492,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "ggthemes",
-        "knitr",
         "rols",
         "struct"
     ],
@@ -20971,7 +20599,6 @@
         "ggsci",
         "ggsignif",
         "ggtext",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -21041,7 +20668,6 @@
         "MSnbase",
         "cleaver",
         "ggplot2",
-        "knitr",
         "qvalue",
         "readr",
         "reshape2",
@@ -21067,7 +20693,6 @@
         "googlesheets4",
         "gstat",
         "haven",
-        "knitr",
         "lme4",
         "lwgeom",
         "metR",
@@ -21101,7 +20726,6 @@
         "doBy",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -21140,7 +20764,6 @@
         "drawer",
         "fresh",
         "ggplot2",
-        "knitr",
         "plotly",
         "rmarkdown",
         "shinyAce",
@@ -21194,7 +20817,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -21243,7 +20865,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "miniUI",
         "nloptr",
@@ -21262,7 +20883,6 @@
         "cowplot",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "viridis"
     ],
@@ -21297,8 +20917,7 @@
         "annotate",
         "baySeq",
         "geneplotter",
-        "ggplot2",
-        "knitr"
+        "ggplot2"
     ],
     "TCGAbiolinks": [
         "AnnotationDbi",
@@ -21309,7 +20928,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "knitr",
         "readr",
         "rvest",
         "selectr",
@@ -21369,7 +20987,6 @@
         "htmlTable",
         "interactiveDisplayBase",
         "ipred",
-        "knitr",
         "lme4",
         "miniUI",
         "nloptr",
@@ -21679,7 +21296,6 @@
         "aroma.core",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "viridis"
     ],
     "TissueEnrich": [
@@ -21759,7 +21375,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -21769,9 +21384,7 @@
         "tidyr",
         "waldo"
     ],
-    "TnT": [
-        "knitr"
-    ],
+    "TnT": [],
     "TOAST": [
         "GGally",
         "SummarizedExperiment",
@@ -21829,7 +21442,6 @@
         "broom",
         "dplyr",
         "ggplot2",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "tidyr"
@@ -21863,7 +21475,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "rtracklayer",
         "viridis"
     ],
@@ -21877,7 +21488,6 @@
     ],
     "TrajectoryGeometry": [
         "ggplot2",
-        "knitr",
         "rgl"
     ],
     "TrajectoryUtils": [
@@ -21972,7 +21582,6 @@
         "SummarizedExperiment",
         "TrajectoryUtils",
         "ggplot2",
-        "knitr",
         "rgl",
         "slingshot",
         "viridis"
@@ -22003,7 +21612,6 @@
         "ggsci",
         "ggsignif",
         "ggtree",
-        "knitr",
         "lme4",
         "nloptr",
         "patchwork",
@@ -22049,7 +21657,6 @@
         "dplyr",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "org.Hs.eg.db",
         "rtracklayer",
         "viridis"
@@ -22106,7 +21713,6 @@
         "dplyr",
         "ggplot2",
         "golem",
-        "knitr",
         "plotly",
         "pryr",
         "roxygen2",
@@ -22150,7 +21756,6 @@
         "ggplot2",
         "kml",
         "kmlShape",
-        "knitr",
         "longitudinalData",
         "prettydoc",
         "rgl",
@@ -22174,7 +21779,6 @@
     ],
     "TTMap": [
         "SummarizedExperiment",
-        "knitr",
         "rgl"
     ],
     "tweeDEseq": [],
@@ -22301,7 +21905,6 @@
         "ensembldb",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "org.Hs.eg.db",
         "rmarkdown",
         "rtracklayer",
@@ -22396,7 +21999,6 @@
         "broom",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -22456,7 +22058,6 @@
         "ggplot2",
         "htmlTable",
         "interactiveDisplayBase",
-        "knitr",
         "rtracklayer",
         "shinyTree",
         "shinyjs",
@@ -22544,7 +22145,6 @@
         "geneplotter",
         "ggplot2",
         "ggrepel",
-        "knitr",
         "rmarkdown",
         "tidyr"
     ],
@@ -22736,7 +22336,6 @@
         "dplyr",
         "genefilter",
         "ggplot2",
-        "knitr",
         "lumi",
         "methylumi",
         "minfi",
@@ -22762,7 +22361,6 @@
         "dplyr",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "rtracklayer",
         "viridis"
     ],
@@ -22798,7 +22396,6 @@
         "dplyr",
         "ggplot2",
         "golem",
-        "knitr",
         "roxygen2",
         "shinyWidgets",
         "shinycustomloader",
@@ -22809,7 +22406,6 @@
         "OmnipathR",
         "cellranger",
         "dplyr",
-        "knitr",
         "readr",
         "readxl",
         "rmarkdown",
@@ -22866,7 +22462,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "formattable",
-        "knitr",
         "rmarkdown",
         "rtracklayer"
     ],
@@ -22902,7 +22497,6 @@
         "ggplot2",
         "gtrellis",
         "htmlTable",
-        "knitr",
         "reshape2",
         "rtracklayer",
         "tidyr",
@@ -22952,7 +22546,6 @@
         "dplyr",
         "ggplot2",
         "graphite",
-        "knitr",
         "lme4",
         "lmerTest",
         "msigdbr",
@@ -22989,13 +22582,9 @@
     "ggplot2": [],
     "reshape2": [],
     "flexdashboard": [
-        "knitr",
         "rmarkdown"
     ],
-    "rmarkdown": [
-        "knitr"
-    ],
-    "knitr": [],
+    "rmarkdown": [],
     "ggcorrplot": [
         "ggplot2",
         "reshape2"
@@ -23009,7 +22598,6 @@
         "tidyr"
     ],
     "bookdown": [
-        "knitr",
         "rmarkdown"
     ],
     "tidyr": [
@@ -23028,7 +22616,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -23057,7 +22644,6 @@
         "car",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -23078,7 +22664,6 @@
         "broom",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -23092,7 +22677,6 @@
         "broom",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "rematch2",
@@ -23136,7 +22720,6 @@
     "Hmisc": [
         "ggplot2",
         "htmlTable",
-        "knitr",
         "viridis"
     ],
     "GGally": [
@@ -23146,9 +22729,7 @@
         "tidyr"
     ],
     "forcats": [],
-    "htmlTable": [
-        "knitr"
-    ],
+    "htmlTable": [],
     "viridis": [
         "ggplot2"
     ],
@@ -23465,7 +23046,6 @@
         "googledrive",
         "googlesheets4",
         "haven",
-        "knitr",
         "modelr",
         "readr",
         "readxl",
@@ -23560,7 +23140,6 @@
         "tidyr"
     ],
     "reprex": [
-        "knitr",
         "rmarkdown"
     ],
     "reactome.db": [
@@ -23573,14 +23152,11 @@
         "plotly",
         "tidyr"
     ],
-    "assertive": [
-        "knitr"
-    ],
+    "assertive": [],
     "doBy": [
         "broom",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -23605,7 +23181,6 @@
         "ggplot2"
     ],
     "prettydoc": [
-        "knitr",
         "rmarkdown"
     ],
     "BSgenome.Ecoli.NCBI.20080805": [
@@ -23683,7 +23258,6 @@
         "cellranger",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "patchwork",
@@ -23767,7 +23341,6 @@
         "Hmisc",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "viridis"
     ],
     "precrec": [
@@ -23791,7 +23364,6 @@
         "KEGGREST",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "viridis"
     ],
     "synaptome.data": [
@@ -23884,7 +23456,6 @@
         "ggplot2",
         "htmlTable",
         "interactiveDisplayBase",
-        "knitr",
         "org.Hs.eg.db",
         "qvalue",
         "reshape2",
@@ -23899,7 +23470,6 @@
         "rtracklayer"
     ],
     "devtools": [
-        "knitr",
         "miniUI",
         "pkgdown",
         "rematch2",
@@ -23910,12 +23480,9 @@
         "waldo"
     ],
     "pkgdown": [
-        "knitr",
         "rmarkdown"
     ],
-    "roxygen2": [
-        "knitr"
-    ],
+    "roxygen2": [],
     "pryr": [],
     "ggtext": [
         "ggplot2"
@@ -23929,7 +23496,6 @@
         "car",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -23958,7 +23524,6 @@
         "dplyr",
         "ggplot2",
         "ggrepel",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -24198,7 +23763,6 @@
         "waiter"
     ],
     "kableExtra": [
-        "knitr",
         "rmarkdown",
         "rvest",
         "selectr"
@@ -24220,9 +23784,7 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "rgl": [
-        "knitr"
-    ],
+    "rgl": [],
     "phylobase": [
         "RNeXML",
         "dplyr",
@@ -24266,7 +23828,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -24309,7 +23870,6 @@
         "Hmisc",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "rms",
         "viridis"
     ],
@@ -24433,7 +23993,6 @@
     ],
     "plsVarSel": [
         "MSQC",
-        "knitr",
         "rgl"
     ],
     "arm": [
@@ -24444,7 +24003,6 @@
         "waldo"
     ],
     "MSQC": [
-        "knitr",
         "rgl"
     ],
     "DAPARdata": [
@@ -24523,7 +24081,6 @@
         "car",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -24575,7 +24132,6 @@
         "Hmisc",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "viridis"
     ],
@@ -24607,9 +24163,7 @@
     "ggside": [
         "ggplot2"
     ],
-    "kinship2": [
-        "knitr"
-    ],
+    "kinship2": [],
     "gap": [
         "dplyr",
         "ggplot2",
@@ -24653,7 +24207,6 @@
         "car",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -24682,7 +24235,6 @@
         "ggsci",
         "ggsignif",
         "ggtext",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -24694,8 +24246,7 @@
         "waldo"
     ],
     "survMisc": [
-        "ggplot2",
-        "knitr"
+        "ggplot2"
     ],
     "logistf": [
         "broom",
@@ -24710,7 +24261,6 @@
     ],
     "tippy": [],
     "flextable": [
-        "knitr",
         "rmarkdown"
     ],
     "shinyHeatmaply": [
@@ -24720,7 +24270,6 @@
         "egg",
         "ggplot2",
         "heatmaply",
-        "knitr",
         "plotly",
         "readxl",
         "reshape2",
@@ -24743,7 +24292,6 @@
         "Hmisc",
         "ggplot2",
         "htmlTable",
-        "knitr",
         "reshape2",
         "viridis"
     ],
@@ -24755,7 +24303,6 @@
     ],
     "epiR": [
         "flextable",
-        "knitr",
         "rmarkdown"
     ],
     "ggwordcloud": [
@@ -24798,13 +24345,10 @@
         "dplyr"
     ],
     "golem": [
-        "knitr",
         "roxygen2",
         "usethis"
     ],
-    "shinyalert": [
-        "knitr"
-    ],
+    "shinyalert": [],
     "AdaptGauss": [
         "DataVisualizations",
         "ggplot2",
@@ -24832,17 +24376,14 @@
         "org.Hs.eg.db"
     ],
     "sortable": [
-        "knitr",
         "learnr",
         "rmarkdown"
     ],
     "bsplus": [
-        "knitr",
         "rmarkdown"
     ],
     "shinyvalidate": [],
     "learnr": [
-        "knitr",
         "rmarkdown"
     ],
     "reldist": [
@@ -24969,7 +24510,6 @@
     ],
     "rmdformats": [
         "bookdown",
-        "knitr",
         "rmarkdown"
     ],
     "sesameData": [
@@ -25025,7 +24565,6 @@
         "dbplyr",
         "dplyr",
         "interactiveDisplayBase",
-        "knitr",
         "rtracklayer"
     ],
     "ggmcmc": [
@@ -25040,7 +24579,6 @@
         "ggplot2"
     ],
     "formattable": [
-        "knitr",
         "rmarkdown"
     ],
     "HardyWeinberg": [
@@ -25132,7 +24670,6 @@
         "ggplot2"
     ],
     "HiveR": [
-        "knitr",
         "rgl"
     ],
     "gghalves": [
@@ -25140,7 +24677,6 @@
     ],
     "anyLib": [
         "devtools",
-        "knitr",
         "miniUI",
         "pkgdown",
         "rematch2",
@@ -25190,7 +24726,6 @@
         "ggplot2",
         "haven",
         "htmlTable",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -25204,7 +24739,6 @@
         "waldo"
     ],
     "qpcR": [
-        "knitr",
         "rgl"
     ],
     "NxtIRFdata": [
@@ -25304,9 +24838,7 @@
         "aroma.core"
     ],
     "aroma.core": [],
-    "opencpu": [
-        "knitr"
-    ],
+    "opencpu": [],
     "osfr": [],
     "C50": [
         "Cubist",
@@ -25425,7 +24957,6 @@
         "rtracklayer"
     ],
     "knitrBootstrap": [
-        "knitr",
         "rmarkdown"
     ],
     "RefManageR": [],
@@ -25493,12 +25024,10 @@
         "ggplot2"
     ],
     "GENLIB": [
-        "kinship2",
-        "knitr"
+        "kinship2"
     ],
     "SBGNview.data": [
         "bookdown",
-        "knitr",
         "rmarkdown"
     ],
     "scanMiRData": [
@@ -25548,13 +25077,11 @@
     "rbokeh": [
         "dplyr",
         "gistr",
-        "knitr",
         "pryr",
         "rmarkdown"
     ],
     "gistr": [
         "dplyr",
-        "knitr",
         "rmarkdown"
     ],
     "mlr3learners": [],
@@ -25571,7 +25098,6 @@
         "ggsci",
         "ggsignif",
         "ggtext",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -25699,7 +25225,6 @@
         "ggstance",
         "haven",
         "kinship2",
-        "knitr",
         "labelled",
         "mosaicCore",
         "readr",
@@ -25753,7 +25278,6 @@
     ],
     "drawer": [
         "bsplus",
-        "knitr",
         "rmarkdown"
     ],
     "GenKern": [],
@@ -25814,16 +25338,13 @@
     ],
     "kmlShape": [
         "kml",
-        "knitr",
         "longitudinalData",
         "rgl"
     ],
     "longitudinalData": [
-        "knitr",
         "rgl"
     ],
     "kml": [
-        "knitr",
         "longitudinalData",
         "rgl"
     ],
@@ -25834,7 +25355,6 @@
     "condformat": [
         "dplyr",
         "htmlTable",
-        "knitr",
         "rmarkdown"
     ],
     "shinyTree": [],
