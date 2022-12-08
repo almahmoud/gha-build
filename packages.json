@@ -1973,10 +1973,7 @@
         "vsn",
         "xcms"
     ],
-    "clst": [],
-    "clstutils": [
-        "clst"
-    ],
+    "clstutils": [],
     "CluMSID": [
         "GGally",
         "MSnbase",
