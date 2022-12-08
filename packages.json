@@ -12260,7 +12260,6 @@
         "rlang",
         "rngtools",
         "scales",
-        "sigclust",
         "stringi",
         "stringr",
         "survival",
@@ -96945,7 +96944,6 @@
         "reshape",
         "rlang",
         "scales",
-        "sigclust",
         "tibble",
         "vctrs",
         "viridisLite",
@@ -121034,7 +121032,6 @@
         "pcaPP",
         "robustbase"
     ],
-    "sigclust": [],
     "ALL": [
         "Biobase",
         "BiocGenerics"
