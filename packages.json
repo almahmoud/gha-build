@@ -16268,7 +16268,6 @@
         "XVector",
         "cvar",
         "fGarch",
-        "gbutils",
         "nloptr",
         "pillar",
         "rematch2",
@@ -45481,13 +45480,9 @@
     "sf": [],
     "penalized": [],
     "fGarch": [
-        "cvar",
-        "gbutils"
+        "cvar"
     ],
-    "cvar": [
-        "gbutils"
-    ],
-    "gbutils": [],
+    "cvar": [],
     "ggwordcloud": [
         "ggplot2",
         "pillar",
