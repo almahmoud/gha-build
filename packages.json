@@ -9880,7 +9880,6 @@
         "bit64",
         "blob",
         "cachem",
-        "ccdata",
         "doParallel",
         "foreach",
         "httr",
@@ -89692,7 +89691,6 @@
         "sass",
         "shiny"
     ],
-    "ccdata": [],
     "enrichR": [
         "Matrix",
         "askpass",
