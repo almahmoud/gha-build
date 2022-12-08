@@ -4231,7 +4231,6 @@
         "tidyselect",
         "vroom"
     ],
-    "chopsticks": [],
     "chromDraw": [
         "GenomicRanges"
     ],
