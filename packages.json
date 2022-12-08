@@ -3854,7 +3854,6 @@
         "crul",
         "dbplyr",
         "dplyr",
-        "fauxpas",
         "gh",
         "hms",
         "htmlwidgets",
@@ -56370,14 +56369,12 @@
     ],
     "rorcid": [
         "crul",
-        "fauxpas",
         "httr",
         "openssl",
         "pillar",
         "tibble",
         "vctrs"
     ],
-    "fauxpas": [],
     "styler": [
         "R.cache",
         "R.utils",
