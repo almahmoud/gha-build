@@ -33765,7 +33765,6 @@
         "XVector",
         "doParallel"
     ],
-    "multiscan": [],
     "multiSight": [
         "AnnotationDbi",
         "BiocParallel",
