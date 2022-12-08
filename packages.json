@@ -62,7 +62,6 @@
         "caret"
     ],
     "AnnotationHubData": [],
-    "annotatr": [],
     "anota2seq": [
         "DESeq2"
     ],
@@ -258,7 +257,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "VariantAnnotation",
-        "annotatr",
         "bumphunter",
         "dmrseq"
     ],
@@ -882,7 +880,6 @@
         "ensembldb"
     ],
     "dmrseq": [
-        "annotatr",
         "bumphunter"
     ],
     "DominoEffect": [
@@ -2958,9 +2955,7 @@
     "scMerge": [
         "M3Drop"
     ],
-    "scmeth": [
-        "annotatr"
-    ],
+    "scmeth": [],
     "scone": [
         "EDASeq",
         "RUVSeq"
