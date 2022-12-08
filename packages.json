@@ -410,7 +410,6 @@
         "GO.db",
         "GenomicFeatures",
         "GenomicScores",
-        "InteractionSet",
         "TFBSTools",
         "annotate",
         "biomaRt",
@@ -1069,7 +1068,6 @@
         "GenomicInteractions",
         "Gviz",
         "Hmisc",
-        "InteractionSet",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1476,7 +1474,6 @@
         "BSgenome",
         "BiocFileCache",
         "GenomicFeatures",
-        "InteractionSet",
         "biomaRt",
         "ensembldb",
         "regioneR",
@@ -2092,7 +2089,6 @@
         "ChIPpeakAnno",
         "GUIDEseq",
         "GenomicFeatures",
-        "InteractionSet",
         "biomaRt",
         "ensembldb",
         "haven",
@@ -2549,7 +2545,6 @@
         "BiocFileCache",
         "ChIPpeakAnno",
         "GenomicFeatures",
-        "InteractionSet",
         "biomaRt",
         "ensembldb",
         "regioneR",
@@ -2631,7 +2626,6 @@
     ],
     "diffHic": [
         "BSgenome",
-        "InteractionSet",
         "rtracklayer"
     ],
     "diffuStats": [],
@@ -3395,7 +3389,6 @@
         "GenomicInteractions",
         "Gviz",
         "Hmisc",
-        "InteractionSet",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -3924,7 +3917,6 @@
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
-        "InteractionSet",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -4345,7 +4337,6 @@
         "CRISPRseek",
         "ChIPpeakAnno",
         "GenomicFeatures",
-        "InteractionSet",
         "biomaRt",
         "ensembldb",
         "haven",
@@ -4441,9 +4432,7 @@
     "HiCBricks": [
         "readr"
     ],
-    "HiCcompare": [
-        "InteractionSet"
-    ],
+    "HiCcompare": [],
     "HiCDCPlus": [
         "BSgenome",
         "BiocFileCache",
@@ -4451,7 +4440,6 @@
         "GenomicInteractions",
         "Gviz",
         "Hmisc",
-        "InteractionSet",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -4460,7 +4448,6 @@
     ],
     "HiCDOC": [
         "HiCcompare",
-        "InteractionSet",
         "broom",
         "car",
         "colourpicker",
@@ -4484,7 +4471,6 @@
         "Gviz",
         "HiContactsData",
         "Hmisc",
-        "InteractionSet",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -4728,7 +4714,6 @@
         "ggbio",
         "rtracklayer"
     ],
-    "InteractionSet": [],
     "InteractiveComplexHeatmap": [
         "kableExtra"
     ],
@@ -6451,8 +6436,7 @@
         "metap"
     ],
     "multiHiCcompare": [
-        "HiCcompare",
-        "InteractionSet"
+        "HiCcompare"
     ],
     "multiMiR": [],
     "multiSight": [
@@ -6602,7 +6586,6 @@
         "GenomicScores",
         "Gviz",
         "Hmisc",
-        "InteractionSet",
         "TFBSTools",
         "VariantAnnotation",
         "annotate",
@@ -6831,7 +6814,6 @@
         "ShortRead"
     ],
     "nullranges": [
-        "InteractionSet",
         "plyranges",
         "rtracklayer"
     ],
@@ -8081,7 +8063,6 @@
         "BiocFileCache",
         "ChIPpeakAnno",
         "GenomicFeatures",
-        "InteractionSet",
         "biomaRt",
         "ensembldb",
         "regioneR",
@@ -9142,7 +9123,6 @@
         "sva"
     ],
     "sevenC": [
-        "InteractionSet",
         "readr",
         "rtracklayer"
     ],
@@ -9556,7 +9536,6 @@
         "GenomicInteractions",
         "Gviz",
         "Hmisc",
-        "InteractionSet",
         "TFBSTools",
         "VariantAnnotation",
         "annotate",
@@ -9571,8 +9550,7 @@
         "fields"
     ],
     "SpectralTAD": [
-        "HiCcompare",
-        "InteractionSet"
+        "HiCcompare"
     ],
     "SPIAT": [
         "BiocFileCache",
@@ -9926,7 +9904,6 @@
     ],
     "TADCompare": [
         "HiCcompare",
-        "InteractionSet",
         "broom",
         "car",
         "ggpubr",
@@ -10236,7 +10213,6 @@
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
-        "InteractionSet",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -10627,7 +10603,6 @@
         "DiffBind",
         "GenomicFeatures",
         "GreyListChIP",
-        "InteractionSet",
         "ShortRead",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "annotate",
