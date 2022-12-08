@@ -4660,7 +4660,6 @@
         "BiocFileCache",
         "DropletUtils",
         "SpatialExperiment",
-        "concaveman",
         "cytomapper",
         "ggraph",
         "readr",
@@ -5054,7 +5053,6 @@
         "BiocFileCache",
         "DropletUtils",
         "SpatialExperiment",
-        "concaveman",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -8885,7 +8883,6 @@
     ],
     "schex": [
         "Seurat",
-        "concaveman",
         "plotly"
     ],
     "scHOT": [],
@@ -9012,7 +9009,6 @@
         "annotate",
         "aplot",
         "ccTensor",
-        "concaveman",
         "dendextend",
         "enrichplot",
         "fgsea",
@@ -9038,7 +9034,6 @@
         "GSEABase",
         "Seurat",
         "annotate",
-        "concaveman",
         "fields",
         "msigdbr",
         "nnTensor",
@@ -9605,7 +9600,6 @@
         "BiocFileCache",
         "DropletUtils",
         "SpatialExperiment",
-        "concaveman",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -9782,7 +9776,6 @@
     ],
     "Statial": [
         "broom",
-        "concaveman",
         "googlesheets4",
         "haven",
         "modelr",
@@ -11490,7 +11483,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "concaveman": [],
     "golem": [],
     "AdaptGauss": [],
     "datamods": [
