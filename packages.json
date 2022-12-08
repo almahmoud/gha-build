@@ -498,7 +498,6 @@
     "lumi": [
         "methylumi"
     ],
-    "LymphoSeq": [],
     "Maaslin2": [
         "car",
         "lmerTest"
