@@ -39880,7 +39880,6 @@
         "nlme",
         "nnet",
         "pbapply",
-        "pbivnorm",
         "pillar",
         "plyr",
         "png",
@@ -151251,7 +151250,6 @@
         "nlme",
         "nnet",
         "pbapply",
-        "pbivnorm",
         "pillar",
         "plyr",
         "png",
@@ -151275,10 +151273,8 @@
     ],
     "lavaan": [
         "MASS",
-        "mnormt",
-        "pbivnorm"
+        "mnormt"
     ],
-    "pbivnorm": [],
     "RNOmni": [
         "Rcpp",
         "RcppArmadillo",
