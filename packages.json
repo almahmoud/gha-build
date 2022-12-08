@@ -590,7 +590,6 @@
         "ggplot2",
         "ggrastr",
         "ggrepel",
-        "gld",
         "hms",
         "htmlTable",
         "knitr",
@@ -2052,7 +2051,6 @@
         "ggrastr",
         "ggrepel",
         "ggridges",
-        "gld",
         "glmnet",
         "hms",
         "htmlTable",
@@ -13671,7 +13669,6 @@
     "gpuMagic": [
         "DescTools",
         "cellranger",
-        "gld",
         "hms",
         "pillar",
         "progress",
@@ -14978,7 +14975,6 @@
         "dendextend",
         "dplyr",
         "ggplot2",
-        "gld",
         "hms",
         "pheatmap",
         "pillar",
@@ -17243,7 +17239,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "gld",
         "knitr",
         "pillar",
         "rmarkdown",
@@ -18891,7 +18886,6 @@
         "ggrepel",
         "ggsignif",
         "ggtree",
-        "gld",
         "glmnet",
         "hardhat",
         "hms",
@@ -29007,7 +29001,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "cellranger",
-        "gld",
         "hms",
         "pillar",
         "progress",
@@ -35753,7 +35746,6 @@
     ],
     "DescTools": [
         "cellranger",
-        "gld",
         "hms",
         "pillar",
         "progress",
@@ -35770,7 +35762,6 @@
         "tibble",
         "waldo"
     ],
-    "gld": [],
     "tidytree": [
         "dplyr",
         "pillar",
@@ -38841,7 +38832,6 @@
     ],
     "PairedData": [
         "ggplot2",
-        "gld",
         "pillar",
         "tibble"
     ],
