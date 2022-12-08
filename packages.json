@@ -75529,7 +75529,6 @@
         "doParallel",
         "dplyr",
         "ellipsis",
-        "enviPat",
         "fontawesome",
         "foreach",
         "futile.logger",
@@ -81845,7 +81844,6 @@
         "digest",
         "doParallel",
         "dplyr",
-        "enviPat",
         "fingerprint",
         "foreach",
         "futile.logger",
@@ -122352,7 +122350,6 @@
         "shiny",
         "withr"
     ],
-    "enviPat": [],
     "shinyscreenshot": [
         "Rcpp",
         "bslib",
