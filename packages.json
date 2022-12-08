@@ -2,7 +2,6 @@
     "ADAMgui": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -25,7 +24,6 @@
     ],
     "Anaquin": [],
     "ANCOMBC": [
-        "lme4",
         "lmerTest",
         "mia"
     ],
@@ -46,14 +44,12 @@
         "minfi"
     ],
     "artMS": [
-        "MSstats",
-        "lme4"
+        "MSstats"
     ],
     "ASpediaFI": [
         "Gviz",
         "IVAS",
         "biovizBase",
-        "lme4",
         "mGSZ"
     ],
     "ASpli": [
@@ -77,7 +73,6 @@
     "attract": [],
     "BaalChIP": [
         "doBy",
-        "lme4",
         "pbkrtest"
     ],
     "BadRegionFinder": [],
@@ -85,7 +80,6 @@
     "BBCAnalyzer": [],
     "benchdamic": [
         "ANCOMBC",
-        "lme4",
         "lmerTest",
         "mia"
     ],
@@ -106,14 +100,12 @@
         "car",
         "clusterProfiler",
         "enrichplot",
-        "lme4",
         "pbkrtest",
         "radiant.data"
     ],
     "BiocOncoTK": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -175,7 +167,6 @@
         "car",
         "drc",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -191,7 +182,6 @@
     "cellmigRation": [
         "FactoMineR",
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "CEMiTool": [
@@ -203,7 +193,6 @@
         "car",
         "diffcyt",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -213,7 +202,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -289,7 +277,6 @@
         "biovizBase"
     ],
     "coMethDMR": [
-        "lme4",
         "lmerTest"
     ],
     "compEpiTools": [
@@ -304,7 +291,6 @@
         "enrichplot",
         "factoextra",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -358,7 +344,6 @@
     "cyanoFilter": [
         "car",
         "flowDensity",
-        "lme4",
         "pbkrtest"
     ],
     "CyTOFpower": [
@@ -369,7 +354,6 @@
         "diffcyt",
         "factoextra",
         "ggpubr",
-        "lme4",
         "mbest",
         "pbkrtest",
         "rstatix"
@@ -379,7 +363,6 @@
         "car",
         "factoextra",
         "ggpubr",
-        "lme4",
         "mbest",
         "pbkrtest",
         "rstatix"
@@ -392,13 +375,11 @@
         "FactoMineR",
         "arm",
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "dasper": [
         "car",
         "ggpubr",
-        "lme4",
         "megadepth",
         "pbkrtest",
         "rstatix"
@@ -407,7 +388,6 @@
     "ddPCRclust": [
         "car",
         "flowDensity",
-        "lme4",
         "pbkrtest"
     ],
     "debrowser": [
@@ -417,7 +397,6 @@
     "DEComplexDisease": [],
     "decompTumor2Sig": [],
     "deconvR": [
-        "lme4",
         "minfi",
         "rsq"
     ],
@@ -445,7 +424,6 @@
     "destiny": [
         "VIM",
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "DEsubs": [],
@@ -456,7 +434,6 @@
         "FlowSOM",
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -465,8 +442,7 @@
     ],
     "diggit": [],
     "DMCFB": [
-        "arm",
-        "lme4"
+        "arm"
     ],
     "DMRcate": [
         "DSS",
@@ -489,19 +465,15 @@
     "Doscheda": [
         "car",
         "drc",
-        "lme4",
         "pbkrtest"
     ],
-    "doseR": [
-        "lme4"
-    ],
+    "doseR": [],
     "drugTargetInteractions": [],
     "DSS": [],
     "easier": [
         "car",
         "dorothea",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -511,7 +483,6 @@
     ],
     "EBSEA": [],
     "edge": [
-        "lme4",
         "snm"
     ],
     "eegc": [
@@ -523,7 +494,6 @@
         "biovizBase",
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -537,7 +507,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -550,14 +519,12 @@
     "epidecodeR": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
     "epigraHMM": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -595,7 +562,6 @@
     "EWCE": [
         "car",
         "ggpubr",
-        "lme4",
         "orthogene",
         "pbkrtest",
         "rstatix"
@@ -635,23 +601,19 @@
     "flowCut": [
         "car",
         "flowDensity",
-        "lme4",
         "pbkrtest"
     ],
     "flowDensity": [
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "flowPloidy": [
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "FlowSOM": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -666,7 +628,6 @@
     "frenchFISH": [
         "NHPoisson",
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "FRGEpistasis": [],
@@ -679,7 +640,6 @@
     "FuseSOM": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -693,7 +653,6 @@
         "MLSeq",
         "arm",
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "GDCRNATools": [
@@ -701,7 +660,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix",
         "survminer"
@@ -710,14 +668,12 @@
     "GeneAccord": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
     "GeneGeneInteR": [
         "FactoMineR",
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "GENESIS": [
@@ -740,7 +696,6 @@
     "GenomicSuperSignature": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -753,7 +708,6 @@
     "GenVisR": [],
     "GeoDiff": [
         "GeomxTools",
-        "lme4",
         "lmerTest"
     ],
     "GEOexplorer": [
@@ -761,18 +715,15 @@
         "car",
         "factoextra",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
     "GeomxTools": [
-        "lme4",
         "lmerTest"
     ],
     "gespeR": [],
     "GEWIST": [
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "ggbio": [
@@ -785,7 +736,6 @@
     "glmSparseNet": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix",
         "survminer"
@@ -801,7 +751,6 @@
     "GRmetrics": [
         "car",
         "drc",
-        "lme4",
         "pbkrtest"
     ],
     "GSEABenchmarkeR": [],
@@ -827,7 +776,6 @@
     "HiCDOC": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -857,15 +805,13 @@
     "igvR": [],
     "imageHTS": [],
     "IMAS": [
-        "IVAS",
-        "lme4"
+        "IVAS"
     ],
     "imcRtools": [],
     "INSPEcT": [],
     "InTAD": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -879,7 +825,6 @@
         "car",
         "factoextra",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -889,7 +834,6 @@
     "iPath": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix",
         "survminer"
@@ -899,7 +843,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -911,13 +854,10 @@
     "isomiRs": [
         "DEGreport"
     ],
-    "IVAS": [
-        "lme4"
-    ],
+    "IVAS": [],
     "ivygapSE": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix",
         "survminer"
@@ -933,7 +873,6 @@
         "car",
         "factoextra",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -942,14 +881,12 @@
     "LinkHD": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
     "LinTInd": [],
     "lipidr": [],
     "lisaClust": [
-        "lme4",
         "lmerTest",
         "spicyR"
     ],
@@ -968,7 +905,6 @@
     "Maaslin2": [
         "car",
         "glmmTMB",
-        "lme4",
         "lmerTest",
         "pbkrtest"
     ],
@@ -976,7 +912,6 @@
         "Maaslin2",
         "car",
         "glmmTMB",
-        "lme4",
         "lmerTest",
         "pbkrtest"
     ],
@@ -1003,7 +938,6 @@
     ],
     "MatrixRider": [],
     "MBECS": [
-        "lme4",
         "lmerTest"
     ],
     "mBPCR": [
@@ -1037,7 +971,6 @@
     "MEDME": [
         "car",
         "drc",
-        "lme4",
         "pbkrtest"
     ],
     "megadepth": [],
@@ -1049,14 +982,12 @@
     "MetaboSignal": [
         "MWASTools",
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "MetaCyto": [
         "FlowSOM",
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -1080,7 +1011,6 @@
     "MethReg": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix",
         "sesame"
@@ -1098,7 +1028,6 @@
         "ExperimentHubData",
         "car",
         "ggpubr",
-        "lme4",
         "methylclockData",
         "minfi",
         "pbkrtest",
@@ -1135,12 +1064,10 @@
     ],
     "microbiomeExplorer": [
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "microbiomeMarker": [
         "ANCOMBC",
-        "lme4",
         "lmerTest",
         "mia"
     ],
@@ -1170,7 +1097,6 @@
         "cvms",
         "enrichplot",
         "ggpubr",
-        "lme4",
         "miRspongeR",
         "pbkrtest",
         "rstatix"
@@ -1183,7 +1109,6 @@
         "cvms",
         "enrichplot",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -1204,7 +1129,6 @@
         "Maaslin2",
         "car",
         "glmmTMB",
-        "lme4",
         "lmerTest",
         "pbkrtest"
     ],
@@ -1221,7 +1145,6 @@
     "MQmetrics": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -1234,15 +1157,10 @@
     "MSPrep": [
         "VIM",
         "car",
-        "lme4",
         "pbkrtest"
     ],
-    "msqrob2": [
-        "lme4"
-    ],
-    "MSstats": [
-        "lme4"
-    ],
+    "msqrob2": [],
+    "MSstats": [],
     "MSstatsLiP": [
         "FactoMineR",
         "MSstats",
@@ -1251,7 +1169,6 @@
         "car",
         "factoextra",
         "ggpubr",
-        "lme4",
         "lmerTest",
         "pbkrtest",
         "rstatix"
@@ -1259,24 +1176,20 @@
     "MSstatsPTM": [
         "MSstats",
         "MSstatsTMT",
-        "lme4",
         "lmerTest"
     ],
     "MSstatsQCgui": [],
     "MSstatsSampleSize": [
-        "MSstats",
-        "lme4"
+        "MSstats"
     ],
     "MSstatsShiny": [
         "MSstats",
         "MSstatsPTM",
         "MSstatsTMT",
-        "lme4",
         "lmerTest"
     ],
     "MSstatsTMT": [
         "MSstats",
-        "lme4",
         "lmerTest"
     ],
     "multicrispr": [
@@ -1292,7 +1205,6 @@
     "muscat": [
         "blme",
         "glmmTMB",
-        "lme4",
         "lmerTest",
         "pbkrtest",
         "variancePartition"
@@ -1303,14 +1215,12 @@
         "decompTumor2Sig",
         "factoextra",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
     "MutationalPatterns": [],
     "MWASTools": [
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "myvariant": [],
@@ -1325,7 +1235,6 @@
     "NBAMSeq": [],
     "NBSplice": [
         "car",
-        "lme4",
         "mppa",
         "pbkrtest"
     ],
@@ -1343,13 +1252,11 @@
         "yarn"
     ],
     "nondetects": [
-        "arm",
-        "lme4"
+        "arm"
     ],
     "NormalyzerDE": [
         "RcmdrMisc",
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "octad": [
@@ -1361,7 +1268,6 @@
         "dasper",
         "derfinder",
         "ggpubr",
-        "lme4",
         "megadepth",
         "pbkrtest",
         "rstatix"
@@ -1377,7 +1283,6 @@
     "omicRexposome": [
         "FactoMineR",
         "car",
-        "lme4",
         "pbkrtest",
         "rexposome"
     ],
@@ -1387,27 +1292,23 @@
         "car",
         "factoextra",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
     "omicsViewer": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix",
         "survminer"
     ],
     "OncoSimulR": [
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "OpenStats": [
         "AICcmodavg",
         "car",
-        "lme4",
         "pbkrtest",
         "unmarked"
     ],
@@ -1415,7 +1316,6 @@
     "orthogene": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -1423,7 +1323,6 @@
     "padma": [
         "FactoMineR",
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "pageRank": [],
@@ -1436,7 +1335,6 @@
     "PDATK": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix",
         "survminer"
@@ -1451,14 +1349,12 @@
     "phenoTest": [],
     "PhenStat": [
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "philr": [],
     "PhosR": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -1476,13 +1372,10 @@
     "plotGrouper": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
-    "pmm": [
-        "lme4"
-    ],
+    "pmm": [],
     "POMA": [],
     "ppcseq": [],
     "preciseTAD": [
@@ -1494,7 +1387,6 @@
     ],
     "proActiv": [],
     "proBatch": [
-        "lme4",
         "pvca"
     ],
     "proFIA": [],
@@ -1516,7 +1408,6 @@
         "car",
         "factoextra",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -1530,14 +1421,11 @@
     "ptairMS": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
     "PureCN": [],
-    "pvca": [
-        "lme4"
-    ],
+    "pvca": [],
     "Pviz": [
         "Gviz",
         "biovizBase"
@@ -1546,7 +1434,6 @@
     "qmtools": [
         "VIM",
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "qrqc": [
@@ -1598,7 +1485,6 @@
     "rexposome": [
         "FactoMineR",
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "rfaRm": [],
@@ -1622,7 +1508,6 @@
     ],
     "rifi": [
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "RIPAT": [
@@ -1667,7 +1552,6 @@
         "enrichplot",
         "factoextra",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -1676,7 +1560,6 @@
         "car",
         "derfinder",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "recount",
         "rstatix"
@@ -1692,13 +1575,11 @@
     ],
     "rqt": [
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "RTCGA": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix",
         "survminer"
@@ -1706,20 +1587,17 @@
     "RTCGAToolbox": [],
     "RTN": [
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "RTNduals": [
         "RTN",
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "RTNsurvival": [
         "RTN",
         "RTNduals",
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "RUVSeq": [],
@@ -1728,8 +1606,7 @@
     "scBFA": [],
     "scBubbletree": [],
     "scDD": [
-        "arm",
-        "lme4"
+        "arm"
     ],
     "scDDboost": [],
     "scGPS": [],
@@ -1773,7 +1650,6 @@
         "minfi"
     ],
     "SIAMCAT": [
-        "lme4",
         "lmerTest"
     ],
     "signatureSearch": [
@@ -1783,7 +1659,6 @@
     "signeR": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix",
         "survivalAnalysis",
@@ -1792,7 +1667,6 @@
     "signifinder": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix",
         "survminer"
@@ -1819,9 +1693,7 @@
     "SMITE": [
         "goseq"
     ],
-    "snm": [
-        "lme4"
-    ],
+    "snm": [],
     "SNPhood": [],
     "sojourner": [
         "sampSurf"
@@ -1832,7 +1704,6 @@
     ],
     "SpatialDecon": [
         "GeomxTools",
-        "lme4",
         "lmerTest"
     ],
     "spatzie": [
@@ -1841,7 +1712,6 @@
         "biovizBase"
     ],
     "spicyR": [
-        "lme4",
         "lmerTest"
     ],
     "SpliceWiz": [],
@@ -1853,7 +1723,6 @@
         "car",
         "cvms",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -1878,7 +1747,6 @@
     "survtype": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix",
         "survminer"
@@ -1892,19 +1760,16 @@
     "synergyfinder": [
         "car",
         "drc",
-        "lme4",
         "pbkrtest"
     ],
     "synlet": [
         "doBy",
-        "lme4",
         "pbkrtest"
     ],
     "systemPipeTools": [],
     "TADCompare": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -1912,7 +1777,6 @@
     "TargetDecoy": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -1926,7 +1790,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix",
         "sesame"
@@ -1952,7 +1815,6 @@
     "TNBC.CMS": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -1971,7 +1833,6 @@
         "car",
         "diffcyt",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -1996,7 +1857,6 @@
         "ttgsea"
     ],
     "variancePartition": [
-        "lme4",
         "lmerTest",
         "pbkrtest"
     ],
@@ -2020,8 +1880,7 @@
         "DiffBind"
     ],
     "waddR": [
-        "arm",
-        "lme4"
+        "arm"
     ],
     "wateRmelon": [
         "FDb.InfiniumMethylation.hg19",
@@ -2043,33 +1902,24 @@
         "quantro"
     ],
     "zenith": [
-        "lme4",
         "lmerTest",
         "pbkrtest",
         "variancePartition"
     ],
     "ggpubr": [
         "car",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
     "rstatix": [
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "car": [
-        "lme4",
         "pbkrtest"
     ],
-    "pbkrtest": [
-        "lme4"
-    ],
-    "lme4": [],
-    "lmerTest": [
-        "lme4"
-    ],
+    "pbkrtest": [],
+    "lmerTest": [],
     "Homo.sapiens": [],
     "COSMIC.67": [],
     "PolyPhen.Hsapiens.dbSNP131": [],
@@ -2078,7 +1928,6 @@
     "mGSZ": [],
     "Mus.musculus": [],
     "doBy": [
-        "lme4",
         "pbkrtest"
     ],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
@@ -2086,7 +1935,6 @@
     ],
     "radiant.data": [
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "pasilla": [
@@ -2098,12 +1946,10 @@
     ],
     "drc": [
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "FactoMineR": [
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "GenomicTools": [],
@@ -2122,7 +1968,6 @@
         "FactoMineR",
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
@@ -2131,38 +1976,27 @@
         "minfi"
     ],
     "dorothea": [],
-    "mbest": [
-        "lme4"
-    ],
-    "arm": [
-        "lme4"
-    ],
-    "rsq": [
-        "lme4"
-    ],
+    "mbest": [],
+    "arm": [],
+    "rsq": [],
     "textstem": [],
     "VIM": [
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "EntropyExplorer": [],
     "SPARQL": [],
     "NHPoisson": [
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "survminer": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix"
     ],
-    "glmmTMB": [
-        "lme4"
-    ],
+    "glmmTMB": [],
     "agricolae": [
         "klaR"
     ],
@@ -2173,34 +2007,25 @@
     "methylclockData": [
         "ExperimentHubData"
     ],
-    "cvms": [
-        "lme4"
-    ],
-    "blme": [
-        "lme4"
-    ],
+    "cvms": [],
+    "blme": [],
     "mppa": [],
     "RcmdrMisc": [
         "car",
-        "lme4",
         "pbkrtest"
     ],
     "diceR": [
         "klaR"
     ],
     "AICcmodavg": [
-        "lme4",
         "unmarked"
     ],
-    "unmarked": [
-        "lme4"
-    ],
+    "unmarked": [],
     "EnsDb.Rnorvegicus.v79": [],
     "Rmagic": [],
     "survivalAnalysis": [
         "car",
         "ggpubr",
-        "lme4",
         "pbkrtest",
         "rstatix",
         "survminer"
