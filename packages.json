@@ -2800,9 +2800,7 @@
         "devtools",
         "testthat"
     ],
-    "mfa": [
-        "ggmcmc"
-    ],
+    "mfa": [],
     "MGFR": [],
     "mia": [
         "TreeSummarizedExperiment",
@@ -5607,7 +5605,6 @@
         "GenomicFeatures",
         "OrganismDbi"
     ],
-    "ggmcmc": [],
     "HardyWeinberg": [
         "mice"
     ],
