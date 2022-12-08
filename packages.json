@@ -3266,7 +3266,6 @@
         "testthat"
     ],
     "oneSENSE": [],
-    "ontoProc": [],
     "openPrimeRui": [],
     "OpenStats": [
         "AICcmodavg",
@@ -3475,9 +3474,7 @@
         "testthat"
     ],
     "podkat": [],
-    "pogos": [
-        "ontoProc"
-    ],
+    "pogos": [],
     "POMA": [
         "DESeq2",
         "caret"
@@ -4659,7 +4656,6 @@
         "DESeq2"
     ],
     "tenXplore": [
-        "ontoProc",
         "restfulSE"
     ],
     "terraTCGAdata": [
