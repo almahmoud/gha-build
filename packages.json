@@ -22332,7 +22332,6 @@
     ],
     "scPCA": [
         "dplyr",
-        "origami",
         "tibble"
     ],
     "scPipe": [
@@ -30338,7 +30337,6 @@
         "shiny",
         "tibble"
     ],
-    "origami": [],
     "Rmagic": [],
     "ggvenn": [
         "dplyr",
