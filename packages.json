@@ -1056,7 +1056,6 @@
     ],
     "chipenrich": [
         "chipenrich.data",
-        "org.Rn.eg.db",
         "readr",
         "rms"
     ],
@@ -2169,7 +2168,6 @@
         "globaltest",
         "hgu133a.db",
         "hgu133plus2.db",
-        "org.Rn.eg.db",
         "pathview",
         "plotly",
         "topGO"
@@ -2889,9 +2887,7 @@
         "geneplotter",
         "plotly"
     ],
-    "geneXtendeR": [
-        "org.Rn.eg.db"
-    ],
+    "geneXtendeR": [],
     "genomation": [
         "BSgenome",
         "readr"
@@ -8379,7 +8375,6 @@
     "chipenrich.data": [
         "readr"
     ],
-    "org.Rn.eg.db": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [
         "GenomicFeatures",
         "biomaRt"
