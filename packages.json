@@ -1409,7 +1409,6 @@
         "ggtree"
     ],
     "netOmics": [],
-    "netSmooth": [],
     "netZooR": [
         "GOstats",
         "minfi",
