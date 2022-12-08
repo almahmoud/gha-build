@@ -3785,7 +3785,6 @@
         "ggtree",
         "treeio"
     ],
-    "TIN": [],
     "TissueEnrich": [],
     "TitanCNA": [
         "VariantAnnotation"
