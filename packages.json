@@ -105,7 +105,6 @@
         "derfinderPlot",
         "ggbio"
     ],
-    "BRGenomics": [],
     "BubbleTree": [],
     "CAFE": [
         "ggbio"
@@ -405,7 +404,6 @@
     ],
     "epialleleR": [],
     "EpiCompare": [
-        "BRGenomics",
         "ChIPseeker",
         "enrichplot"
     ],
