@@ -20364,7 +20364,6 @@
         "Matrix",
         "MatrixExtra",
         "NLP",
-        "PRROC",
         "RcppArmadillo",
         "RcppTOML",
         "askpass",
@@ -29257,7 +29256,6 @@
         "Matrix",
         "MatrixGenerics",
         "OUTRIDER",
-        "PRROC",
         "R.oo",
         "R.utils",
         "RCurl",
@@ -31923,7 +31921,6 @@
         "Matrix",
         "MatrixExtra",
         "NLP",
-        "PRROC",
         "RcppArmadillo",
         "RcppTOML",
         "askpass",
@@ -36318,7 +36315,6 @@
         "MCL",
         "Matrix",
         "ModelMetrics",
-        "PRROC",
         "askpass",
         "bit64",
         "caret",
@@ -57105,7 +57101,6 @@
         "KEGGREST",
         "Matrix",
         "MatrixGenerics",
-        "PRROC",
         "RCurl",
         "RSQLite",
         "RcppArmadillo",
@@ -60744,7 +60739,6 @@
         "Matrix",
         "MatrixGenerics",
         "ModelMetrics",
-        "PRROC",
         "RCurl",
         "RSQLite",
         "Rhtslib",
@@ -74845,7 +74839,6 @@
         "GenomeInfoDbData",
         "IRanges",
         "Matrix",
-        "PRROC",
         "RCurl",
         "RcppEigen",
         "S4Vectors",
@@ -85892,7 +85885,6 @@
         "MatrixExtra",
         "MatrixGenerics",
         "NLP",
-        "PRROC",
         "RCurl",
         "RcppAnnoy",
         "RcppArmadillo",
@@ -95953,7 +95945,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "PRROC": [],
     "rcdklibs": [],
     "fingerprint": [],
     "text2vec": [
@@ -101151,7 +101142,6 @@
     ],
     "objectProperties": [],
     "mlr3": [
-        "PRROC",
         "checkmate",
         "future",
         "future.apply",
@@ -101162,7 +101152,6 @@
         "paradox"
     ],
     "mlr3learners": [
-        "PRROC",
         "checkmate",
         "future",
         "future.apply",
@@ -101174,7 +101163,6 @@
         "paradox"
     ],
     "mlr3tuning": [
-        "PRROC",
         "bbotk",
         "checkmate",
         "future",
@@ -101191,7 +101179,6 @@
         "mlr3misc"
     ],
     "mlr3measures": [
-        "PRROC",
         "checkmate"
     ],
     "mlr3misc": [
