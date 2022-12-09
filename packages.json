@@ -58139,8 +58139,7 @@
         "IRanges",
         "RCurl",
         "S4Vectors",
-        "XVector",
-        "logspline"
+        "XVector"
     ],
     "POMA": [
         "AnnotationDbi",
@@ -96427,7 +96426,6 @@
     ],
     "intrinsicDimension": [],
     "strawr": [],
-    "logspline": [],
     "evmix": [],
     "tidybayes": [
         "Matrix",
