@@ -7436,7 +7436,6 @@
         "multcomp",
         "munsell",
         "nlme",
-        "nsprcomp",
         "openssl",
         "pillar",
         "png",
@@ -99090,7 +99089,6 @@
         "vctrs",
         "viridisLite"
     ],
-    "nsprcomp": [],
     "ranger": [
         "Matrix",
         "Rcpp",
