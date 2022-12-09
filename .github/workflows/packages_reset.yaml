@@ -20,6 +20,7 @@ jobs:
           mv original.json "$ARCHIVEDIR"/
           mv packages.json "$ARCHIVEDIR"/
           mv tobuild.txt "$ARCHIVEDIR"/
+          mv README.md "$ARCHIVEDIR"/
           mv lists "$ARCHIVEDIR"/lists
           mv logs "$ARCHIVEDIR"/logs
 
