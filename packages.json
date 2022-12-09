@@ -62141,7 +62141,6 @@
     "pcxn": [
         "lifecycle",
         "munsell",
-        "pcxnData",
         "pheatmap",
         "rlang",
         "scales",
@@ -107297,7 +107296,6 @@
     ],
     "matrixLaplacian": [],
     "Matching": [],
-    "pcxnData": [],
     "reportROC": [
         "Rcpp",
         "lmtest",
