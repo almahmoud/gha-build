@@ -32761,7 +32761,6 @@
         "tinytex",
         "units",
         "vctrs",
-        "wk",
         "zoo"
     ],
     "graper": [
@@ -36076,8 +36075,7 @@
         "units",
         "vctrs",
         "viridis",
-        "vroom",
-        "wk"
+        "vroom"
     ],
     "IMMAN": [
         "Biostrings",
@@ -39316,8 +39314,7 @@
         "tweenr",
         "units",
         "vctrs",
-        "waldo",
-        "wk"
+        "waldo"
     ],
     "lmdme": [],
     "LOBSTAHS": [
@@ -69061,7 +69058,6 @@
         "units",
         "uwot",
         "vctrs",
-        "wk",
         "zoo"
     ],
     "scHOT": [
@@ -70334,7 +70330,6 @@
         "viridis",
         "visNetwork",
         "webshot",
-        "wk",
         "zoo"
     ],
     "scTGIF": [
@@ -70459,7 +70454,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "wk",
         "zoo"
     ],
     "scTHI": [
@@ -74582,8 +74576,7 @@
         "tibble",
         "tidyselect",
         "units",
-        "vctrs",
-        "wk"
+        "vctrs"
     ],
     "spatialHeatmap": [
         "AnnotationDbi",
@@ -75092,8 +75085,7 @@
         "tweenr",
         "units",
         "vctrs",
-        "waldo",
-        "wk"
+        "waldo"
     ],
     "SpidermiR": [
         "AnnotationDbi",
@@ -76634,8 +76626,7 @@
         "tzdb",
         "units",
         "vctrs",
-        "vroom",
-        "wk"
+        "vroom"
     ],
     "statTarget": [
         "ROC",
@@ -76807,7 +76798,6 @@
         "units",
         "uwot",
         "vctrs",
-        "wk",
         "zoo"
     ],
     "strandCheckR": [
@@ -77796,7 +77786,6 @@
         "viridis",
         "vroom",
         "waldo",
-        "wk",
         "xts",
         "zoo"
     ],
@@ -83413,8 +83402,7 @@
         "tibble",
         "tidyselect",
         "units",
-        "vctrs",
-        "wk"
+        "vctrs"
     ],
     "VplotR": [
         "Biobase",
@@ -93305,7 +93293,6 @@
         "tinytex",
         "units",
         "vctrs",
-        "wk",
         "zoo"
     ],
     "dtangle": [],
@@ -93314,18 +93301,14 @@
         "classInt",
         "e1071",
         "s2",
-        "units",
-        "wk"
+        "units"
     ],
     "classInt": [
         "class",
         "e1071"
     ],
-    "s2": [
-        "wk"
-    ],
+    "s2": [],
     "units": [],
-    "wk": [],
     "RMallow": [],
     "penalized": [
         "Matrix",
@@ -93563,8 +93546,7 @@
         "tibble",
         "tidyselect",
         "units",
-        "vctrs",
-        "wk"
+        "vctrs"
     ],
     "Rlabkey": [
         "askpass",
@@ -97553,8 +97535,7 @@
         "sf",
         "sp",
         "spData",
-        "units",
-        "wk"
+        "units"
     ],
     "spData": [
         "sp"
@@ -97839,7 +97820,6 @@
         "spacetime",
         "stars",
         "units",
-        "wk",
         "xts",
         "zoo"
     ],
@@ -97865,8 +97845,7 @@
         "e1071",
         "s2",
         "sf",
-        "units",
-        "wk"
+        "units"
     ],
     "spacetime": [
         "sp",
@@ -97880,8 +97859,7 @@
         "lwgeom",
         "s2",
         "sf",
-        "units",
-        "wk"
+        "units"
     ],
     "lwgeom": [
         "class",
@@ -97889,8 +97867,7 @@
         "e1071",
         "s2",
         "sf",
-        "units",
-        "wk"
+        "units"
     ],
     "spsUtil": [
         "askpass",
