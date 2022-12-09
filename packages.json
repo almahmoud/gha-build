@@ -45451,7 +45451,6 @@
         "purrr",
         "reshape2",
         "scales",
-        "stabs",
         "stringr",
         "tibble",
         "tidyr",
@@ -47080,7 +47079,6 @@
         "rvest",
         "scales",
         "selectr",
-        "stabs",
         "stringr",
         "survival",
         "tibble",
@@ -48585,7 +48583,6 @@
         "rtracklayer",
         "scales",
         "seqLogo",
-        "stabs",
         "stringr",
         "survival",
         "tibble",
@@ -96494,7 +96491,6 @@
     "GeneNet": [
         "longitudinal"
     ],
-    "stabs": [],
     "longitudinal": [],
     "ggmcmc": [
         "GGally",
@@ -96657,7 +96653,6 @@
         "libcoin",
         "mboost",
         "partykit",
-        "stabs",
         "survival"
     ],
     "mboost": [
@@ -96665,7 +96660,6 @@
         "inum",
         "libcoin",
         "partykit",
-        "stabs",
         "survival"
     ],
     "partykit": [
