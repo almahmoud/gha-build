@@ -22600,7 +22600,6 @@
         "callr",
         "car",
         "cellranger",
-        "corrgram",
         "crosstalk",
         "desc",
         "diffobj",
@@ -94163,7 +94162,6 @@
         "tibble",
         "vctrs"
     ],
-    "corrgram": [],
     "hgu133a2.db": [
         "AnnotationDbi",
         "Biobase",
