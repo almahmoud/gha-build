@@ -12695,7 +12695,6 @@
         "AnnotationFilter",
         "AnnotationHub",
         "BSgenome",
-        "BiasedUrn",
         "Biobase",
         "BiocFileCache",
         "BiocIO",
@@ -24653,7 +24652,6 @@
         "AnnotationFilter",
         "AnnotationHub",
         "BSgenome",
-        "BiasedUrn",
         "Biobase",
         "BiocFileCache",
         "BiocIO",
@@ -29824,7 +29822,6 @@
     ],
     "famat": [
         "AnnotationDbi",
-        "BiasedUrn",
         "Biobase",
         "BiocParallel",
         "Biostrings",
@@ -36800,7 +36797,6 @@
     ],
     "goseq": [
         "AnnotationDbi",
-        "BiasedUrn",
         "Biobase",
         "BiocFileCache",
         "BiocIO",
@@ -37294,7 +37290,6 @@
         "vroom"
     ],
     "granulator": [
-        "BiasedUrn",
         "Matrix",
         "Rcpp",
         "bslib",
@@ -40452,7 +40447,6 @@
     "ideal": [
         "AnnotationDbi",
         "AnnotationForge",
-        "BiasedUrn",
         "Biobase",
         "BiocFileCache",
         "BiocIO",
@@ -47425,7 +47419,6 @@
         "AnnotationDbi",
         "AnnotationFilter",
         "BSgenome",
-        "BiasedUrn",
         "Biobase",
         "BiocFileCache",
         "BiocIO",
@@ -50068,7 +50061,6 @@
     ],
     "methylGSA": [
         "AnnotationDbi",
-        "BiasedUrn",
         "Biobase",
         "BiocFileCache",
         "BiocIO",
@@ -53120,7 +53112,6 @@
     ],
     "missMethyl": [
         "AnnotationDbi",
-        "BiasedUrn",
         "Biobase",
         "BiocFileCache",
         "BiocIO",
@@ -72847,7 +72838,6 @@
     "RGSEA": [],
     "rgsepd": [
         "AnnotationDbi",
-        "BiasedUrn",
         "Biobase",
         "BiocFileCache",
         "BiocIO",
@@ -83782,7 +83772,6 @@
     ],
     "SMITE": [
         "AnnotationDbi",
-        "BiasedUrn",
         "BioNet",
         "Biobase",
         "BiocFileCache",
@@ -103213,7 +103202,6 @@
         "vctrs",
         "viridisLite"
     ],
-    "BiasedUrn": [],
     "geneLenDataBase": [
         "AnnotationDbi",
         "Biobase",
@@ -106956,7 +106944,6 @@
         "plyr"
     ],
     "epiR": [
-        "BiasedUrn",
         "Matrix",
         "Rcpp",
         "bslib",
