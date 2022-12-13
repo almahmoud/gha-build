@@ -73661,7 +73661,6 @@
         "cachem",
         "cli",
         "corrplot",
-        "countrycode",
         "cpp11",
         "crayon",
         "digest",
@@ -151356,7 +151355,6 @@
         "cachem",
         "cli",
         "corrplot",
-        "countrycode",
         "cpp11",
         "crayon",
         "digest",
@@ -151401,7 +151399,6 @@
         "withr",
         "yaml"
     ],
-    "countrycode": [],
     "NMI": [],
     "MKmisc": [
         "MASS",
