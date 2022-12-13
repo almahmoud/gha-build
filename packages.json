@@ -12252,10 +12252,7 @@
         "withr",
         "zlibbioc"
     ],
-    "BufferedMatrix": [],
-    "BufferedMatrixMethods": [
-        "BufferedMatrix"
-    ],
+    "BufferedMatrixMethods": [],
     "bugsigdbr": [
         "BiocFileCache",
         "RSQLite",
