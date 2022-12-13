@@ -9589,7 +9589,6 @@
         "rlang",
         "rtracklayer",
         "scales",
-        "som",
         "sparseMatrixStats",
         "stringr",
         "tibble",
@@ -13502,7 +13501,6 @@
         "lifecycle",
         "pillar",
         "rlang",
-        "som",
         "stringr",
         "tibble",
         "tidyselect",
@@ -42513,7 +42511,6 @@
         "rlang",
         "robustbase",
         "scales",
-        "som",
         "stringr",
         "survival",
         "testthat",
@@ -42621,7 +42618,6 @@
         "rlang",
         "robustbase",
         "scales",
-        "som",
         "stringr",
         "survival",
         "testthat",
@@ -50283,7 +50279,6 @@
         "rlang",
         "robustbase",
         "scales",
-        "som",
         "stringr",
         "survival",
         "testthat",
@@ -95503,7 +95498,6 @@
         "vctrs"
     ],
     "formula.tools": [],
-    "som": [],
     "BMA": [
         "Matrix",
         "pcaPP",
@@ -100248,8 +100242,7 @@
         "class",
         "e1071",
         "pcaPP",
-        "robustbase",
-        "som"
+        "robustbase"
     ],
     "optparse": [],
     "glmmTMB": [
