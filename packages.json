@@ -6326,7 +6326,6 @@
         "lmom",
         "lmtest",
         "locfit",
-        "lpSolveAPI",
         "magrittr",
         "memoise",
         "metagenomeSeq",
@@ -67896,7 +67895,6 @@
         "labeling",
         "latticeExtra",
         "lifecycle",
-        "lpSolveAPI",
         "magrittr",
         "memoise",
         "mgcv",
@@ -67976,7 +67974,6 @@
         "later",
         "latticeExtra",
         "lifecycle",
-        "lpSolveAPI",
         "magrittr",
         "memoise",
         "mgcv",
@@ -110982,7 +110979,6 @@
         "iterators",
         "labeling",
         "lifecycle",
-        "lpSolveAPI",
         "magrittr",
         "mgcv",
         "multtest",
@@ -111041,7 +111037,6 @@
         "ROI",
         "ROI.plugin.lpsolve",
         "desc",
-        "lpSolveAPI",
         "pkgload",
         "rlang",
         "rprojroot",
@@ -111068,10 +111063,8 @@
     ],
     "ROI": [],
     "ROI.plugin.lpsolve": [
-        "ROI",
-        "lpSolveAPI"
+        "ROI"
     ],
-    "lpSolveAPI": [],
     "optextras": [],
     "Rvmmin": [
         "optextras"
