@@ -14448,7 +14448,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "breakpointRdata",
         "cli",
         "colorspace",
         "cowplot",
@@ -159433,7 +159432,6 @@
         "yaml",
         "zlibbioc"
     ],
-    "breakpointRdata": [],
     "WriteXLS": [],
     "devtools": [
         "R6",
