@@ -405,7 +405,6 @@
         "annotate",
         "askpass",
         "aws",
-        "awsMethods",
         "bit",
         "bit64",
         "blob",
@@ -56071,7 +56070,6 @@
     ],
     "GLAD": [
         "aws",
-        "awsMethods",
         "gsl"
     ],
     "GladiaTOX": [
@@ -67469,7 +67467,6 @@
         "affxparser",
         "affyio",
         "aws",
-        "awsMethods",
         "bit",
         "bit64",
         "blob",
@@ -72248,7 +72245,6 @@
     "MANOR": [
         "GLAD",
         "aws",
-        "awsMethods",
         "gsl"
     ],
     "MantelCorr": [],
@@ -126097,7 +126093,6 @@
         "adehabitatLT",
         "adehabitatMA",
         "aws",
-        "awsMethods",
         "boot",
         "doSNOW",
         "foreach",
@@ -130488,7 +130483,6 @@
         "annotate",
         "askpass",
         "aws",
-        "awsMethods",
         "bit",
         "bit64",
         "blob",
@@ -151045,7 +151039,6 @@
     ],
     "waveslim": [],
     "aws": [
-        "awsMethods",
         "gsl"
     ],
     "pixmap": [],
@@ -151054,7 +151047,6 @@
         "sandwich",
         "zoo"
     ],
-    "awsMethods": [],
     "gsl": [],
     "zoo": [
         "lattice"
