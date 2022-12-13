@@ -4051,7 +4051,6 @@
         "stringi",
         "stringr",
         "survival",
-        "svMisc",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -42760,7 +42759,6 @@
         "scales",
         "stringi",
         "stringr",
-        "svMisc",
         "tibble",
         "vctrs",
         "viridisLite",
@@ -116063,7 +116061,6 @@
         "stringi",
         "stringr",
         "survival",
-        "svMisc",
         "sva",
         "systemfonts",
         "tensor",
@@ -138966,7 +138963,6 @@
         "lpSolve"
     ],
     "rJava": [],
-    "svMisc": [],
     "sendmailR": [
         "base64enc"
     ],
