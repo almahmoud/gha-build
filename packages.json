@@ -11617,7 +11617,6 @@
         "Rcpp",
         "RcppEigen",
         "Rdpack",
-        "Rmpi",
         "Rtsne",
         "S4Vectors",
         "SingleCellExperiment",
@@ -107115,7 +107114,6 @@
         "shiny",
         "withr"
     ],
-    "Rmpi": [],
     "ccdata": [],
     "enrichR": [
         "Matrix",
