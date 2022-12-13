@@ -19894,7 +19894,6 @@
         "downloader",
         "dplyr",
         "ellipsis",
-        "fingerprint",
         "ggplot2",
         "gridExtra",
         "here",
@@ -31225,7 +31224,6 @@
         "downloader",
         "dplyr",
         "ellipsis",
-        "fingerprint",
         "ggplot2",
         "gridExtra",
         "here",
@@ -60559,7 +60557,6 @@
         "dplyr",
         "ellipsis",
         "ensembldb",
-        "fingerprint",
         "foreach",
         "futile.logger",
         "hms",
@@ -63112,7 +63109,6 @@
         "blob",
         "cachem",
         "doParallel",
-        "fingerprint",
         "foreach",
         "httr",
         "itertools",
@@ -66132,7 +66128,6 @@
         "doParallel",
         "dplyr",
         "ellipsis",
-        "fingerprint",
         "foreach",
         "futile.logger",
         "ggplot2",
@@ -84028,7 +84023,6 @@
         "dplyr",
         "dqrng",
         "ellipsis",
-        "fingerprint",
         "futile.logger",
         "ggbeeswarm",
         "ggplot2",
@@ -93794,7 +93788,6 @@
         "Matrix"
     ],
     "rcdk": [
-        "fingerprint",
         "itertools",
         "rcdklibs"
     ],
@@ -93815,7 +93808,6 @@
         "vctrs"
     ],
     "rcdklibs": [],
-    "fingerprint": [],
     "text2vec": [
         "Matrix",
         "MatrixExtra",
