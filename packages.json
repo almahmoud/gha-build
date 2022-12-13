@@ -13901,7 +13901,6 @@
         "blob",
         "cachem",
         "cli",
-        "combinat",
         "cpp11",
         "dbplyr",
         "digest",
@@ -15001,7 +15000,6 @@
         "circlize",
         "cli",
         "clue",
-        "combinat",
         "cpp11",
         "dbscan",
         "digest",
@@ -16887,7 +16885,6 @@
         "cli",
         "clipr",
         "clue",
-        "combinat",
         "cpp11",
         "crosstalk",
         "dbplyr",
@@ -18953,7 +18950,6 @@
         "cachem",
         "checkmate",
         "cli",
-        "combinat",
         "cpp11",
         "dbplyr",
         "deldir",
@@ -40401,7 +40397,6 @@
         "cachem",
         "class",
         "cli",
-        "combinat",
         "cpp11",
         "digest",
         "doParallel",
@@ -45178,7 +45173,6 @@
         "proxy"
     ],
     "GeneticsPed": [
-        "combinat",
         "gdata",
         "genetics",
         "mvtnorm"
@@ -49910,7 +49904,6 @@
         "S4Vectors",
         "TSP",
         "XVector",
-        "combinat",
         "foreach",
         "gdata",
         "iPAC",
@@ -61800,7 +61793,6 @@
         "clipr",
         "clock",
         "clue",
-        "combinat",
         "cpp11",
         "deldir",
         "digest",
@@ -72565,7 +72557,6 @@
         "XML",
         "biocViews",
         "cli",
-        "combinat",
         "dplyr",
         "farver",
         "generics",
@@ -76612,7 +76603,6 @@
         "cli",
         "clipr",
         "clue",
-        "combinat",
         "corrplot",
         "cowplot",
         "cpp11",
@@ -78730,7 +78720,6 @@
         "caTools",
         "cachem",
         "cli",
-        "combinat",
         "cpp11",
         "dbplyr",
         "doParallel",
@@ -80982,7 +80971,6 @@
         "clipr",
         "clue",
         "clusterCrit",
-        "combinat",
         "cpp11",
         "diceR",
         "digest",
@@ -92795,7 +92783,6 @@
         "SpacePAC",
         "TSP",
         "XVector",
-        "combinat",
         "foreach",
         "gdata",
         "iPAC",
@@ -110996,7 +110983,6 @@
         "cli",
         "clue",
         "colourpicker",
-        "combinat",
         "cowplot",
         "cpp11",
         "crosstalk",
@@ -124104,7 +124090,6 @@
         "caTools",
         "cachem",
         "cli",
-        "combinat",
         "digest",
         "ellipsis",
         "farver",
@@ -125358,7 +125343,6 @@
         "caTools",
         "class",
         "cli",
-        "combinat",
         "diptest",
         "dplyr",
         "farver",
@@ -137154,7 +137138,6 @@
         "Biobase",
         "BiocGenerics"
     ],
-    "combinat": [],
     "vcfR": [
         "Matrix",
         "R6",
@@ -137394,7 +137377,6 @@
         "RcppArmadillo",
         "RcppEigen",
         "RcppProgress",
-        "combinat",
         "lattice"
     ],
     "dbscan": [
@@ -142921,7 +142903,6 @@
         "withr"
     ],
     "genetics": [
-        "combinat",
         "gdata",
         "mvtnorm"
     ],
@@ -143462,9 +143443,7 @@
         "Rcpp"
     ],
     "wk": [],
-    "RMallow": [
-        "combinat"
-    ],
+    "RMallow": [],
     "penalized": [
         "Matrix",
         "Rcpp",
@@ -144789,7 +144768,6 @@
         "classInt",
         "cli",
         "clipr",
-        "combinat",
         "cpp11",
         "digest",
         "dplyr",
@@ -144854,7 +144832,6 @@
         "classInt",
         "cli",
         "clipr",
-        "combinat",
         "cpp11",
         "digest",
         "dplyr",
@@ -147107,7 +147084,6 @@
         "clipr",
         "clue",
         "clusterCrit",
-        "combinat",
         "cpp11",
         "digest",
         "doParallel",
