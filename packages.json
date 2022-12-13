@@ -95222,7 +95222,6 @@
         "multicool",
         "mvtnorm",
         "nlme",
-        "optimalFlowData",
         "pcaPP",
         "pillar",
         "plot3D",
@@ -169254,7 +169253,6 @@
         "waldo",
         "withr"
     ],
-    "optimalFlowData": [],
     "Peptides": [
         "Rcpp"
     ],
