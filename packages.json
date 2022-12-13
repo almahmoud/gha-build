@@ -71842,7 +71842,6 @@
         "vctrs"
     ],
     "pathVar": [
-        "EMT",
         "Matching",
         "Matrix",
         "farver",
@@ -124860,7 +124859,6 @@
         "withr"
     ],
     "matrixLaplacian": [],
-    "EMT": [],
     "Matching": [],
     "pcxnData": [],
     "reportROC": [
