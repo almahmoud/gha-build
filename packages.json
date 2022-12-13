@@ -37936,7 +37936,6 @@
         "patchwork",
         "pillar",
         "plotly",
-        "proj4",
         "promises",
         "purrr",
         "rlang",
@@ -113374,7 +113373,6 @@
         "openssl",
         "pillar",
         "plotly",
-        "proj4",
         "promises",
         "purrr",
         "rlang",
@@ -113412,7 +113410,6 @@
         "viridisLite",
         "withr"
     ],
-    "proj4": [],
     "HH": [
         "Hmisc",
         "Matrix",
