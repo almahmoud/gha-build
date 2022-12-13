@@ -21168,7 +21168,6 @@
         "MatrixGenerics",
         "RColorBrewer",
         "RCurl",
-        "RMTstat",
         "RaggedExperiment",
         "Rcpp",
         "Rhtslib",
@@ -99144,7 +99143,6 @@
         "Matrix",
         "MatrixModels",
         "RColorBrewer",
-        "RMTstat",
         "Rcpp",
         "RcppArmadillo",
         "Rook",
@@ -131803,7 +131801,6 @@
         "quantreg",
         "survival"
     ],
-    "RMTstat": [],
     "pdist": [],
     "phylolm": [
         "Rcpp",
