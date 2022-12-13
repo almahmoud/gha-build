@@ -78726,7 +78726,6 @@
         "scales",
         "stringi",
         "stringr",
-        "svUnit",
         "tensorA",
         "tibble",
         "tidybayes",
@@ -131006,7 +131005,6 @@
         "purrr",
         "rlang",
         "scales",
-        "svUnit",
         "tensorA",
         "tibble",
         "tidyr",
@@ -131039,9 +131037,7 @@
         "viridisLite",
         "withr"
     ],
-    "arrayhelpers": [
-        "svUnit"
-    ],
+    "arrayhelpers": [],
     "posterior": [
         "Matrix",
         "checkmate",
@@ -131066,7 +131062,6 @@
         "viridisLite",
         "withr"
     ],
-    "svUnit": [],
     "distributional": [
         "Matrix",
         "digest",
