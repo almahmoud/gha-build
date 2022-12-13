@@ -18185,7 +18185,6 @@
     "coGPS": [],
     "COHCAP": [
         "BH",
-        "COHCAPanno",
         "Rcpp",
         "RcppArmadillo",
         "WriteXLS",
@@ -115716,7 +115715,6 @@
     "biwt": [
         "robustbase"
     ],
-    "COHCAPanno": [],
     "skmeans": [
         "clue"
     ],
