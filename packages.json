@@ -8498,7 +8498,6 @@
         "askpass",
         "cpp11",
         "data.table",
-        "dixonTest",
         "futile.logger",
         "futile.options",
         "ids",
@@ -154191,7 +154190,6 @@
     "BB": [
         "quadprog"
     ],
-    "dixonTest": [],
     "rjags": [
         "coda",
         "lattice"
