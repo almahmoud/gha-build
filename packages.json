@@ -4788,7 +4788,6 @@
         "XVector",
         "askpass",
         "assertive",
-        "assertive.base",
         "assertive.code",
         "assertive.data",
         "assertive.data.uk",
@@ -12847,7 +12846,6 @@
         "SummarizedExperiment",
         "XVector",
         "askpass",
-        "assertive.base",
         "assertive.files",
         "assertive.numbers",
         "assertive.properties",
@@ -49510,7 +49508,6 @@
         "XVector",
         "annotate",
         "askpass",
-        "assertive.base",
         "assertive.sets",
         "bit64",
         "blob",
@@ -64847,7 +64844,6 @@
         "ade4",
         "askpass",
         "assertive",
-        "assertive.base",
         "assertive.code",
         "assertive.data",
         "assertive.data.uk",
@@ -95245,7 +95241,6 @@
         "ape",
         "aplot",
         "askpass",
-        "assertive.base",
         "assertive.files",
         "assertive.numbers",
         "assertive.properties",
@@ -114885,7 +114880,6 @@
         "withr"
     ],
     "assertive": [
-        "assertive.base",
         "assertive.code",
         "assertive.data",
         "assertive.data.uk",
@@ -114909,67 +114903,46 @@
         "stringr",
         "vctrs"
     ],
-    "assertive.base": [],
-    "assertive.properties": [
-        "assertive.base"
-    ],
+    "assertive.properties": [],
     "assertive.types": [
-        "assertive.base",
         "assertive.properties"
     ],
-    "assertive.numbers": [
-        "assertive.base"
-    ],
+    "assertive.numbers": [],
     "assertive.strings": [
-        "assertive.base",
         "assertive.properties",
         "assertive.types",
         "stringi"
     ],
     "assertive.datetimes": [
-        "assertive.base",
         "assertive.properties",
         "assertive.types"
     ],
     "assertive.files": [
-        "assertive.base",
         "assertive.numbers"
     ],
-    "assertive.sets": [
-        "assertive.base"
-    ],
-    "assertive.matrices": [
-        "assertive.base"
-    ],
-    "assertive.models": [
-        "assertive.base"
-    ],
+    "assertive.sets": [],
+    "assertive.matrices": [],
+    "assertive.models": [],
     "assertive.data": [
-        "assertive.base",
         "assertive.properties",
         "assertive.strings",
         "assertive.types",
         "stringi"
     ],
     "assertive.data.uk": [
-        "assertive.base",
         "assertive.properties",
         "assertive.strings",
         "assertive.types",
         "stringi"
     ],
     "assertive.data.us": [
-        "assertive.base",
         "assertive.properties",
         "assertive.strings",
         "assertive.types",
         "stringi"
     ],
-    "assertive.reflection": [
-        "assertive.base"
-    ],
+    "assertive.reflection": [],
     "assertive.code": [
-        "assertive.base",
         "assertive.properties",
         "assertive.types"
     ],
@@ -117787,7 +117760,6 @@
     "multipanelfigure": [
         "Matrix",
         "Rcpp",
-        "assertive.base",
         "assertive.files",
         "assertive.numbers",
         "assertive.properties",
