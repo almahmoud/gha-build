@@ -6366,7 +6366,6 @@
         "ellipsis",
         "gert",
         "gh",
-        "git2r",
         "highr",
         "htmltools",
         "httr",
@@ -25585,7 +25584,6 @@
         "epivizrServer",
         "foreach",
         "futile.logger",
-        "git2r",
         "graph",
         "hms",
         "httpuv",
@@ -44081,7 +44079,6 @@
         "foreach",
         "futile.logger",
         "ggplot2",
-        "git2r",
         "glmnet",
         "gplots",
         "graph",
@@ -63385,7 +63382,6 @@
         "fontawesome",
         "futile.logger",
         "ggplot2",
-        "git2r",
         "gridExtra",
         "here",
         "hms",
@@ -90630,7 +90626,6 @@
         "askpass",
         "openssl"
     ],
-    "git2r": [],
     "chk": [
         "lifecycle"
     ],
