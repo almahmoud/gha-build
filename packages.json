@@ -50112,7 +50112,6 @@
         "IRanges",
         "KEGGREST",
         "KEGGgraph",
-        "KMsurv",
         "MASS",
         "Matrix",
         "MatrixGenerics",
@@ -54981,7 +54980,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "KMsurv",
         "MASS",
         "Matrix",
         "MatrixGenerics",
@@ -64373,7 +64371,6 @@
     "iPath": [
         "BH",
         "BiocParallel",
-        "KMsurv",
         "MASS",
         "Matrix",
         "MatrixModels",
@@ -66110,7 +66107,6 @@
         "GenomeInfoDbData",
         "GenomicRanges",
         "IRanges",
-        "KMsurv",
         "MASS",
         "Matrix",
         "MatrixGenerics",
@@ -93025,7 +93021,6 @@
         "GenomeInfoDbData",
         "GenomicRanges",
         "IRanges",
-        "KMsurv",
         "MASS",
         "Matrix",
         "MatrixGenerics",
@@ -96828,7 +96823,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "KMsurv",
         "MASS",
         "Matrix",
         "MatrixGenerics",
@@ -115584,7 +115578,6 @@
         "gtools"
     ],
     "RTCGA": [
-        "KMsurv",
         "MASS",
         "Matrix",
         "MatrixModels",
@@ -124994,7 +124987,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "KMsurv",
         "MASS",
         "Matrix",
         "MatrixGenerics",
@@ -125233,7 +125225,6 @@
         "HDF5Array",
         "IRanges",
         "KEGGREST",
-        "KMsurv",
         "MASS",
         "Matrix",
         "MatrixGenerics",
@@ -133817,7 +133808,6 @@
         "GenomeInfoDbData",
         "GenomicRanges",
         "IRanges",
-        "KMsurv",
         "MASS",
         "Matrix",
         "MatrixGenerics",
@@ -162557,7 +162547,6 @@
         "vctrs"
     ],
     "survminer": [
-        "KMsurv",
         "MASS",
         "Matrix",
         "MatrixModels",
@@ -162662,7 +162651,6 @@
         "mvtnorm"
     ],
     "survMisc": [
-        "KMsurv",
         "MASS",
         "Matrix",
         "R6",
@@ -162703,7 +162691,6 @@
         "zoo"
     ],
     "exactRankTests": [],
-    "KMsurv": [],
     "km.ci": [
         "Matrix",
         "lattice",
@@ -170470,7 +170457,6 @@
         "paradox"
     ],
     "survivalAnalysis": [
-        "KMsurv",
         "MASS",
         "Matrix",
         "MatrixModels",
