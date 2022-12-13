@@ -22760,7 +22760,6 @@
         "processx",
         "promises",
         "purrr",
-        "qvcalc",
         "reshape2",
         "rmarkdown",
         "rvest",
@@ -98298,14 +98297,11 @@
     ],
     "MetaCycle": [
         "Matrix",
-        "gnm",
-        "qvcalc"
+        "gnm"
     ],
     "gnm": [
-        "Matrix",
-        "qvcalc"
+        "Matrix"
     ],
-    "qvcalc": [],
     "fastDummies": [
         "lifecycle",
         "pillar",
