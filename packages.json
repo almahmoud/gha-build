@@ -35490,7 +35490,6 @@
         "Biostrings",
         "DESeq2",
         "DelayedArray",
-        "EmpiricalBrownsMethod",
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "GenomicRanges",
@@ -36411,7 +36410,6 @@
         "viridisLite",
         "withr"
     ],
-    "EmpiricalBrownsMethod": [],
     "EnhancedVolcano": [
         "MASS",
         "Matrix",
@@ -79029,7 +79027,6 @@
         "DT",
         "DelayedArray",
         "DirichletMultinomial",
-        "EmpiricalBrownsMethod",
         "Formula",
         "GO.db",
         "GenomeInfoDb",
