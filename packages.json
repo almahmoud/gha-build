@@ -10237,7 +10237,6 @@
         "httpuv",
         "httr",
         "igraph",
-        "import",
         "influenceR",
         "infotheo",
         "isoband",
@@ -161804,7 +161803,6 @@
         "htmlwidgets",
         "httpuv",
         "httr",
-        "import",
         "isoband",
         "jquerylib",
         "jsonlite",
@@ -161884,7 +161882,6 @@
         "yaml"
     ],
     "AlgDesign": [],
-    "import": [],
     "shinythemes": [
         "R6",
         "Rcpp",
