@@ -12664,7 +12664,6 @@
         "Rcpp",
         "RcppArmadillo",
         "S4Vectors",
-        "TeachingDemos",
         "XVector",
         "assertthat",
         "base64enc",
@@ -68172,7 +68171,6 @@
         "RcppArmadillo",
         "S4Vectors",
         "SparseM",
-        "TeachingDemos",
         "XVector",
         "assertthat",
         "base64enc",
@@ -99311,7 +99309,6 @@
         "S4Vectors",
         "ShortRead",
         "SummarizedExperiment",
-        "TeachingDemos",
         "VariantAnnotation",
         "XML",
         "XVector",
@@ -145608,17 +145605,14 @@
     ],
     "earth": [
         "Formula",
-        "TeachingDemos",
         "plotmo",
         "plotrix"
     ],
     "matrixcalc": [],
     "plotmo": [
         "Formula",
-        "TeachingDemos",
         "plotrix"
     ],
-    "TeachingDemos": [],
     "plotrix": [],
     "PolynomF": [
         "Rcpp"
