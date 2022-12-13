@@ -1733,7 +1733,6 @@
         "waldo"
     ],
     "AneuFinder": [
-        "AneuFinderData",
         "Biobase",
         "BiocParallel",
         "Biostrings",
@@ -96938,7 +96937,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "AneuFinderData": [],
     "ecp": [
         "Rcpp"
     ],
