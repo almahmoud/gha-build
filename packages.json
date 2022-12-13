@@ -3099,7 +3099,6 @@
         "prettyunits",
         "progress",
         "purrr",
-        "rJava",
         "rlang",
         "rstudioapi",
         "sampling",
@@ -8040,7 +8039,6 @@
         "precrec",
         "purrr",
         "quantreg",
-        "rJava",
         "ranger",
         "readbitmap",
         "rlang",
@@ -9987,9 +9985,7 @@
         "withr"
     ],
     "bridge": [],
-    "BridgeDbR": [
-        "rJava"
-    ],
+    "BridgeDbR": [],
     "BrowserViz": [
         "Rcpp",
         "httpuv",
@@ -15110,7 +15106,6 @@
         "prettyunits",
         "progress",
         "purrr",
-        "rJava",
         "rlang",
         "stringi",
         "stringr",
@@ -22320,7 +22315,6 @@
         "ps",
         "purrr",
         "quantreg",
-        "rJava",
         "recipes",
         "rematch2",
         "reshape2",
@@ -22886,7 +22880,6 @@
         "prettyunits",
         "progress",
         "quantmod",
-        "rJava",
         "readr",
         "reshape2",
         "rlang",
@@ -23564,7 +23557,6 @@
         "purrr",
         "qdapRegex",
         "quanteda",
-        "rJava",
         "rcdk",
         "rcdklibs",
         "readr",
@@ -30515,7 +30507,6 @@
         "progress",
         "purrr",
         "qvalue",
-        "rJava",
         "readr",
         "reshape2",
         "restfulr",
@@ -31857,7 +31848,6 @@
         "lifecycle",
         "magrittr",
         "nlme",
-        "rJava",
         "rlang",
         "stringi",
         "stringr",
@@ -34556,8 +34546,7 @@
     ],
     "gaggle": [
         "RUnit",
-        "graph",
-        "rJava"
+        "graph"
     ],
     "GAprediction": [
         "Matrix",
@@ -34710,7 +34699,6 @@
         "ps",
         "purrr",
         "quantreg",
-        "rJava",
         "recipes",
         "rematch2",
         "reshape2",
@@ -37053,7 +37041,6 @@
         "purrr",
         "qdapRegex",
         "quanteda",
-        "rJava",
         "rcdk",
         "rcdklibs",
         "readr",
@@ -51239,9 +51226,7 @@
         "viridisLite",
         "withr"
     ],
-    "metabinR": [
-        "rJava"
-    ],
+    "metabinR": [],
     "MetaboAnnotation": [
         "AnnotationFilter",
         "BH",
@@ -56014,7 +55999,6 @@
         "purrr",
         "quantreg",
         "qvalue",
-        "rJava",
         "randomcoloR",
         "reactome.db",
         "readr",
@@ -67221,7 +67205,6 @@
         "plyr",
         "prettyunits",
         "progress",
-        "rJava",
         "readr",
         "rlang",
         "tibble",
@@ -71798,7 +71781,6 @@
         "prettyunits",
         "progress",
         "purrr",
-        "rJava",
         "rcdk",
         "rcdklibs",
         "restfulr",
@@ -74829,7 +74811,6 @@
         "mime",
         "openssl",
         "png",
-        "rJava",
         "rcdk",
         "rcdklibs",
         "rlang",
@@ -76594,7 +76575,6 @@
         "XVector",
         "futile.logger",
         "lambda.r",
-        "rJava",
         "seqbias"
     ],
     "ResidualMatrix": [
@@ -77012,7 +76992,6 @@
         "openssl",
         "pillar",
         "plyr",
-        "rJava",
         "restfulr",
         "rlang",
         "rtracklayer",
@@ -78438,7 +78417,6 @@
         "png",
         "promises",
         "purrr",
-        "rJava",
         "rcdk",
         "rcdklibs",
         "readJDX",
@@ -78457,8 +78435,7 @@
         "withr"
     ],
     "rmelting": [
-        "Rdpack",
-        "rJava"
+        "Rdpack"
     ],
     "Rmmquant": [
         "AnnotationDbi",
@@ -81459,8 +81436,7 @@
         "IRanges",
         "RCurl",
         "S4Vectors",
-        "XVector",
-        "rJava"
+        "XVector"
     ],
     "satuRn": [
         "BH",
@@ -85583,8 +85559,7 @@
         "IRanges",
         "RCurl",
         "S4Vectors",
-        "XVector",
-        "rJava"
+        "XVector"
     ],
     "SemDist": [
         "AnnotationDbi",
@@ -99575,7 +99550,6 @@
         "purrr",
         "qdapRegex",
         "quanteda",
-        "rJava",
         "ragg",
         "rcdk",
         "rcdklibs",
@@ -105481,7 +105455,6 @@
         "Rcpp"
     ],
     "sampling": [],
-    "rJava": [],
     "sendmailR": [],
     "FDb.InfiniumMethylation.hg19": [
         "AnnotationDbi",
@@ -107585,7 +107558,6 @@
         "vctrs"
     ],
     "xlsx": [
-        "rJava",
         "xlsxjars"
     ],
     "readbitmap": [
@@ -107600,9 +107572,7 @@
         "survival",
         "zoo"
     ],
-    "xlsxjars": [
-        "rJava"
-    ],
+    "xlsxjars": [],
     "TH.data": [
         "Matrix",
         "survival"
@@ -111536,8 +111506,7 @@
     "FSelector": [
         "RWeka",
         "RWekajars",
-        "digest",
-        "rJava"
+        "digest"
     ],
     "ineq": [],
     "arm": [
@@ -111573,8 +111542,7 @@
         "Rcpp"
     ],
     "RWeka": [
-        "RWekajars",
-        "rJava"
+        "RWekajars"
     ],
     "MSQC": [
         "digest",
@@ -111592,9 +111560,7 @@
         "stringr",
         "vctrs"
     ],
-    "RWekajars": [
-        "rJava"
-    ],
+    "RWekajars": [],
     "DAPARdata": [
         "BH",
         "Biobase",
@@ -111809,7 +111775,6 @@
         "iterators",
         "itertools",
         "png",
-        "rJava",
         "rcdklibs"
     ],
     "webchem": [
@@ -111834,9 +111799,7 @@
         "withr"
     ],
     "PRROC": [],
-    "rcdklibs": [
-        "rJava"
-    ],
+    "rcdklibs": [],
     "fingerprint": [],
     "text2vec": [
         "Matrix",
@@ -115462,7 +115425,6 @@
         "mime",
         "pillar",
         "promises",
-        "rJava",
         "rlang",
         "sass",
         "shiny",
