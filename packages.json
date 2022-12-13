@@ -46329,7 +46329,6 @@
         "withr",
         "zlibbioc"
     ],
-    "globalSeq": [],
     "globaltest": [
         "AnnotationDbi",
         "Biobase",
