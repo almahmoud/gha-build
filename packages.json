@@ -59665,7 +59665,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "Kendall",
         "Matrix",
         "MatrixModels",
         "R.cache",
@@ -96401,7 +96400,6 @@
         "vctrs"
     ],
     "ParallelLogger": [],
-    "Kendall": [],
     "pairsD3": [
         "bslib",
         "cachem",
