@@ -36505,7 +36505,6 @@
         "doParallel",
         "foreach",
         "matchingR",
-        "mco",
         "nsga2R",
         "survival"
     ],
@@ -102944,10 +102943,7 @@
         "Rcpp",
         "RcppArmadillo"
     ],
-    "nsga2R": [
-        "mco"
-    ],
-    "mco": [],
+    "nsga2R": [],
     "GA": [
         "Rcpp",
         "RcppArmadillo",
