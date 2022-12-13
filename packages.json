@@ -56803,7 +56803,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "uniqtag",
         "vctrs",
         "viridis"
     ],
@@ -56876,7 +56875,6 @@
         "tibble",
         "tidyselect",
         "tinytex",
-        "uniqtag",
         "vctrs",
         "viridis"
     ],
@@ -100639,7 +100637,6 @@
     "distrEx": [
         "distr"
     ],
-    "uniqtag": [],
     "AICcmodavg": [
         "Matrix",
         "Rcpp",
