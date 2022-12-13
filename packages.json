@@ -3958,7 +3958,6 @@
         "ellipsis",
         "farver",
         "futile.logger",
-        "getopt",
         "ggdendro",
         "ggplot2",
         "ggrepel",
@@ -57598,7 +57597,6 @@
         "ellipsis",
         "farver",
         "foreach",
-        "getopt",
         "ggplot2",
         "glmmTMB",
         "glmnet",
@@ -57727,7 +57725,6 @@
         "ff",
         "foreach",
         "futile.logger",
-        "getopt",
         "ggplot2",
         "glmmTMB",
         "glmnet",
@@ -68054,7 +68051,6 @@
         "flexmix",
         "foreach",
         "fpc",
-        "getopt",
         "ggplot2",
         "glmmTMB",
         "glmnet",
@@ -106953,7 +106949,6 @@
         "MatrixModels",
         "SparseM",
         "coda",
-        "getopt",
         "gmm",
         "lattice",
         "mvtnorm",
@@ -126239,7 +126234,6 @@
         "cpp11",
         "systemfonts"
     ],
-    "getopt": [],
     "UpSetR": [
         "Matrix",
         "RColorBrewer",
@@ -136868,9 +136862,7 @@
         "rpart",
         "som"
     ],
-    "optparse": [
-        "getopt"
-    ],
+    "optparse": [],
     "glmmTMB": [
         "Matrix",
         "Rcpp",
