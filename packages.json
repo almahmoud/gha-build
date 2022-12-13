@@ -6301,7 +6301,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "LaplacesDemon",
         "MASS",
         "MLInterfaces",
         "MSnbase",
@@ -25509,7 +25508,6 @@
     "covEB": [
         "Biobase",
         "BiocGenerics",
-        "LaplacesDemon",
         "Matrix",
         "gsl",
         "igraph",
@@ -90885,7 +90883,6 @@
     ],
     "PoDCall": [
         "DT",
-        "LaplacesDemon",
         "MASS",
         "Matrix",
         "R6",
@@ -92901,7 +92898,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "LaplacesDemon",
         "MASS",
         "MLInterfaces",
         "MSnbase",
@@ -93077,7 +93073,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "LaplacesDemon",
         "MASS",
         "MLInterfaces",
         "MSnbase",
@@ -138716,7 +138711,6 @@
         "viridisLite",
         "withr"
     ],
-    "LaplacesDemon": [],
     "gdata": [],
     "pls": [],
     "sfsmisc": [],
