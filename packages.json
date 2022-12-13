@@ -10998,8 +10998,7 @@
         "Biobase",
         "caTools",
         "gplots",
-        "lsa",
-        "squash"
+        "lsa"
     ],
     "CellTrails": [
         "Biobase",
@@ -83471,7 +83470,6 @@
         "openssl",
         "pillar",
         "scales",
-        "squash",
         "stringr",
         "survival",
         "tibble",
@@ -94029,7 +94027,6 @@
     ],
     "magic": [],
     "kSamples": [],
-    "squash": [],
     "cba": [],
     "dtw": [],
     "EnvStats": [
