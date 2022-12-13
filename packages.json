@@ -706,7 +706,6 @@
         "lifecycle",
         "memoise",
         "openssl",
-        "tkrplot",
         "vctrs"
     ],
     "affyPLM": [
@@ -9353,7 +9352,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tkrplot",
         "vctrs",
         "viridis"
     ],
@@ -29722,8 +29720,7 @@
         "vctrs"
     ],
     "genArise": [
-        "locfit",
-        "tkrplot"
+        "locfit"
     ],
     "genbankr": [
         "AnnotationDbi",
@@ -39611,9 +39608,7 @@
         "waldo"
     ],
     "lfa": [],
-    "limmaGUI": [
-        "tkrplot"
-    ],
+    "limmaGUI": [],
     "LineagePulse": [
         "Biobase",
         "BiocParallel",
@@ -87358,7 +87353,6 @@
         "lifecycle",
         "vctrs"
     ],
-    "tkrplot": [],
     "e1071": [
         "class"
     ],
