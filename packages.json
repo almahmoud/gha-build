@@ -53919,7 +53919,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "LowMACAAnnotation",
         "Matrix",
         "MatrixGenerics",
         "MultiAssayExperiment",
@@ -129277,7 +129276,6 @@
         "Matrix",
         "survival"
     ],
-    "LowMACAAnnotation": [],
     "LymphoSeqDB": [],
     "reldist": [
         "BH",
