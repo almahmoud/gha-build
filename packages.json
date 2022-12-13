@@ -49111,7 +49111,6 @@
         "httr",
         "lattice",
         "lifecycle",
-        "mapplots",
         "memoise",
         "mime",
         "openssl",
@@ -143842,7 +143841,6 @@
         "viridisLite",
         "withr"
     ],
-    "mapplots": [],
     "gProfileR": [
         "RCurl",
         "Rcpp",
