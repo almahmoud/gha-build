@@ -87057,7 +87057,6 @@
         "XML",
         "XVector",
         "annotate",
-        "aod",
         "askpass",
         "backports",
         "beachmat",
@@ -143052,7 +143051,6 @@
         "RcppEigen",
         "Rdpack",
         "RhpcBLASctl",
-        "aod",
         "backports",
         "boot",
         "brio",
@@ -146607,7 +146605,6 @@
         "XML",
         "XVector",
         "annotate",
-        "aod",
         "askpass",
         "assertthat",
         "babelgene",
@@ -166965,7 +166962,6 @@
         "waldo",
         "withr"
     ],
-    "aod": [],
     "deconstructSigs": [
         "BH",
         "BSgenome",
