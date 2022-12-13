@@ -80383,7 +80383,6 @@
         "blob",
         "caTools",
         "cachem",
-        "chromhmmData",
         "circlize",
         "clue",
         "cowplot",
@@ -111094,7 +111093,6 @@
         "viridis",
         "viridisLite"
     ],
-    "chromhmmData": [],
     "cvTools": [
         "robustbase"
     ],
