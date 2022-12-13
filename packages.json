@@ -84246,7 +84246,6 @@
         "mgcv",
         "mice",
         "minqa",
-        "msgps",
         "munsell",
         "nlme",
         "nloptr",
@@ -143936,7 +143935,6 @@
         "lattice",
         "nlme"
     ],
-    "msgps": [],
     "pingr": [
         "processx",
         "ps"
