@@ -157,14 +157,34 @@ jobs:
             git commit -m "push run_id container $PKG"
             git push
 
-      - name: Get dependency artifacts list 
+      - name: Get R, OS, and Bioc versions
+        id: versions
+        run: |
+          echo os=$(Rscript -e 'sessionInfo()$running') >> $GITHUB_OUTPUT
+          echo r=$(Rscript -e 'R.Version()$version.string') >> $GITHUB_OUTPUT
+          echo bioc=$(Rscript -e 'BiocManager::version()') >> $GITHUB_OUTPUT
+          echo runstart=${{ hashFiles('runstarttime') }} >> $GITHUB_OUTPUT
+          echo library=$(echo "$(pwd)/built/") >> $GITHUB_OUTPUT
+
+      - name: Get deps list
+        id: deps
+        run: |
+          PKG=${{ matrix.pkg }}
+          sed -n "/^    \"$PKG\"/,/^    \"/p" alldeps.json | grep '^        "' | awk -F'"' '{print $2}' > /tmp/deps
+          sed -n "/^    \"$PKG\"/,/^    \"/p" directdeps.json | grep '^        "' | awk -F'"' '{print $2}' > /tmp/directdeps
+
+      - name: Restore packages cache
+        uses: actions/cache@v3
+        with:
+          path: ${{ steps.versions.outputs.library }}
+          key: ${{ steps.versions.outputs.os }}-${{ steps.versions.outputs.r }}-${{ steps.versions.outputs.bioc }}-${{ steps.versions.outputs.runstart }}
+
+      - name: Get dependency artifacts 
         run: |
           # Install gh cli and jq
           curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg && sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg && echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null && sudo apt update && sudo apt install gh jq -y
           PKG=${{ matrix.pkg }}
-          LIBRARY=$(echo "$(pwd)/built/")
-          sed -n "/^    \"$PKG\"/,/^    \"/p" original.json | grep '^        "' | awk -F'"' '{print $2}' > /tmp/deps
-          cat /tmp/deps | xargs -i bash .github/scripts/download_artifact.sh {} $LIBRARY ${{github.repository}}
+          cat /tmp/deps | xargs -i bash .github/scripts/download_artifact.sh {} ${{ steps.versions.outputs.library }} ${{github.repository}}
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -172,9 +192,8 @@ jobs:
       - name: Build claimed package
         id: pkgbuild
         run: |
-          LIBRARY=$(echo "$(pwd)/built/")
           PKG="${{ matrix.pkg }}"
-          bash .github/scripts/build_package.sh $LIBRARY $PKG
+          bash .github/scripts/build_package.sh ${{ steps.versions.outputs.library }} $PKG
         continue-on-error: true
 
       - name: Get tar name

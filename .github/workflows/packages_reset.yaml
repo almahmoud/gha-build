@@ -17,7 +17,7 @@ jobs:
           ARCHIVEDIR="archive/$STARTTIME"
           mkdir -p "$ARCHIVEDIR"
           mv runstarttime "$ARCHIVEDIR"/
-          mv original.json "$ARCHIVEDIR"/
+          mv alldeps.json "$ARCHIVEDIR"/
           mv packages.json "$ARCHIVEDIR"/
           mv tobuild.txt "$ARCHIVEDIR"/
           mv README.md "$ARCHIVEDIR"/
@@ -26,8 +26,7 @@ jobs:
 
       - shell: sh
         run: |
-          Rscript deps_json.R packages.json
-          cp packages.json original.json
+          Rscript deps_json.R packages.json alldeps.json
           python3 -c """
           import json
           f = open('packages.json', 'r')
@@ -38,6 +37,7 @@ jobs:
           f = open('packages.json', 'w')
           f.write(json.dumps(pkgs, indent=4))
           f.close()"""
+          cp packages.json alldeps.json
           echo "$(TZ=EST date '+%Y-%m-%d_%H-%M')" > runstarttime
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
           git config user.email "action@github.com"

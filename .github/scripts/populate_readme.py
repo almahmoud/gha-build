@@ -1,7 +1,7 @@
 import json, yaml
 from os.path import exists
 from tabulate import tabulate
-with open("original.json", "r") as f:
+with open("alldeps.json", "r") as f:
     pkgs = json.load(f)
 import requests, time
 

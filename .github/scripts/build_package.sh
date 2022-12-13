@@ -5,7 +5,7 @@ LIBRARY=$1
 PKG=$2
 mkdir -p $LIBRARY
 mkdir -p /tmp/tars/
-sed -n "/^    \"$PKG\"/,/^    \"/p" original.json | grep '^        "' | awk -F'"' '{print $2}' > /tmp/deps
+sed -n "/^    \"$PKG\"/,/^    \"/p" alldeps.json | grep '^        "' | awk -F'"' '{print $2}' > /tmp/deps
 # if [ -s /tmp/deps ]; then cat /tmp/deps | xargs -i cat lists/{} | xargs -i bash -c "curl -o $LIBRARY/{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/{} && ( cd $LIBRARY && tar -xvf {} && rm {} )"; else echo "No dependencies"; fi
 
 if [ -s /tmp/deps ]; then cat /tmp/deps | xargs -I## bash -c 'if [ -d $LIBRARY/## ]; then echo "Dependency ## is already found."; else cat lists/## | xargs -i bash -c "curl -o $LIBRARY/{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/{} && ( cd $LIBRARY && tar -xvf {} && rm {} )"; fi'; else echo "No dependencies"; fi

@@ -1,7 +1,10 @@
 #!/usr/local/bin/RScript
 if (!require("BiocManager", quietly = TRUE))
     install.packages("BiocManager", repos = "http://cran.us.r-project.org")
-outputfile <- commandArgs(trailingOnly = TRUE)
+outputfiles <- commandArgs(trailingOnly = TRUE)
+outputs <- unlist(strsplit(outputfiles,' '))
+alldepsfile <- outputs[[1]]
+directdepsfile <- outputs[[2]]
 BiocManager::install(version = "3.16", ask = FALSE)
 
 .exlude_packages <- function() {
@@ -10,6 +13,8 @@ BiocManager::install(version = "3.16", ask = FALSE)
 }
 exclude <- .exlude_packages()
 db <- available.packages(repos = BiocManager::repositories())
+
+# Recursive dependencies
 biocpkgs <- available.packages(repos = BiocManager::repositories()["BioCsoft"])[,1]
 pkgdeps <- c()
 while (length(biocpkgs) > 0)
@@ -25,18 +30,38 @@ while (length(biocpkgs) > 0)
     pkgdeps <- c(pkgdeps, pdeps)
     ## Add dependencies to list to add to final list of packages to buil
 }
-# BiocManager::install("BiocPkgTools", ask = FALSE)
-# BiocManager::install("dplyr", ask = FALSE)
-# depdf <- buildPkgDependencyDataFrame(c("Depends", "Imports", "Suggests", "Enhances")) # not "LinkingTo"
-# notype <- depdf[-3]
-# deps <- lapply(with(unique(notype), split(dependency, Package)), function(x) c(x))
 
-
-# if (!require("BiocKubeInstall", quietly = TRUE))
-# 	BiocManager::install("Bioconductor/BiocKubeInstall")
-# library(BiocKubeInstall)
-# deps <- BiocKubeInstall::pkg_dependencies(version = "3.16")
 library(jsonlite)
-fileConn<-file(outputfile)
+fileConn<-file(alldepsfile)
 writeLines(prettify(toJSON(pkgdeps)), fileConn)
+close(fileConn)
+
+# Direct dependencies
+biocpkgs <- available.packages(repos = BiocManager::repositories()["BioCsoft"])[,1]
+directdeps <- c()
+while (length(biocpkgs) > 0)
+{
+    biocpkgs <- biocpkgs[!(biocpkgs %in% names(directdeps))]
+    pdeps <- tools::package_dependencies(biocpkgs, db = db, recursive = FALSE, which ="strong")
+    pdeps <- lapply(pdeps, function(x){x[!(x %in% exclude)] } )
+    for (p in names(pdeps)) {
+        biocpkgs <- c(biocpkgs, pdeps[[p]][!(pdeps[[p]]) %in% c(names(directdeps), biocpkgs)])
+    }
+    
+    ## Add this package and its reverse dependencies to the list
+    directdeps <- c(directdeps, pdeps)
+    ## Add dependencies to list to add to final list of packages to buil
+}
+
+
+# Remove direct dependencies that are already dependencies of other dependencies
+directdeps <- lapply(directdeps, function(x) {
+  elements_to_remove <- unique(unlist(pkgdeps[unlist(x)]))
+  elements_to_remove <- elements_to_remove[elements_to_remove %in% x]
+  return(x[!(x %in% elements_to_remove)])
+})
+
+library(jsonlite)
+fileConn<-file(directdepsfile)
+writeLines(prettify(toJSON(directdeps)), fileConn)
 close(fileConn)
