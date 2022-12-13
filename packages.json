@@ -56073,7 +56073,6 @@
         "SummarizedExperiment",
         "XVector",
         "bitops",
-        "htm2txt",
         "lattice",
         "matrixStats",
         "zlibbioc"
@@ -169442,7 +169441,6 @@
     "repo": [
         "digest"
     ],
-    "htm2txt": [],
     "ggalt": [
         "KernSmooth",
         "MASS",
