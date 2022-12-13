@@ -61775,7 +61775,6 @@
         "aws",
         "gsl"
     ],
-    "MantelCorr": [],
     "mAPKL": [
         "AnnotationDbi",
         "Biobase",
