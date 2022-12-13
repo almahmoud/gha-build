@@ -41224,7 +41224,6 @@
         "shinyvalidate",
         "sortable",
         "stringr",
-        "this.path",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -100078,10 +100077,7 @@
         "sass",
         "shiny"
     ],
-    "logr": [
-        "this.path"
-    ],
-    "this.path": [],
+    "logr": [],
     "learnr": [
         "bslib",
         "cachem",
