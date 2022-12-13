@@ -92299,7 +92299,6 @@
         "withr",
         "xfun",
         "xtable",
-        "yaImpute",
         "yaml",
         "zlibbioc",
         "zoo"
@@ -155944,10 +155943,7 @@
         "stringr",
         "vctrs"
     ],
-    "intrinsicDimension": [
-        "yaImpute"
-    ],
-    "yaImpute": [],
+    "intrinsicDimension": [],
     "strawr": [
         "Rcpp"
     ],
