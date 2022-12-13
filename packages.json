@@ -13351,7 +13351,6 @@
         "askpass",
         "base64enc",
         "bdsmatrix",
-        "binom",
         "bit",
         "bit64",
         "blob",
@@ -15910,8 +15909,7 @@
     ],
     "cancerclass": [
         "Biobase",
-        "BiocGenerics",
-        "binom"
+        "BiocGenerics"
     ],
     "CancerInSilico": [
         "BH",
@@ -117773,7 +117771,6 @@
         "RCurl",
         "S4Vectors",
         "XVector",
-        "binom",
         "cluster",
         "crayon",
         "rJava",
@@ -156441,7 +156438,6 @@
         "lattice",
         "modeltools"
     ],
-    "binom": [],
     "BoolNet": [
         "Matrix",
         "XML",
