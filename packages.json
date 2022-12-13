@@ -93783,7 +93783,6 @@
         "class",
         "cli",
         "clock",
-        "clusterRepro",
         "colorspace",
         "corrplot",
         "cowplot",
@@ -162942,7 +162941,6 @@
         "MASS"
     ],
     "pcxnData": [],
-    "clusterRepro": [],
     "reportROC": [
         "MASS",
         "Rcpp",
