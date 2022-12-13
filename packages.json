@@ -267,7 +267,6 @@
         "tilingArray",
         "vctrs",
         "vsn",
-        "waveslim",
         "zoo"
     ],
     "ADAM": [
@@ -16222,7 +16221,6 @@
         "tibble",
         "vctrs",
         "viridis",
-        "waveslim",
         "wavethresh",
         "zoo"
     ],
@@ -89397,7 +89395,6 @@
     "globals": [],
     "R.oo": [],
     "ff": [],
-    "waveslim": [],
     "aws": [],
     "strucchange": [
         "sandwich",
