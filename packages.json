@@ -776,7 +776,6 @@
         "tibble",
         "vctrs"
     ],
-    "agilp": [],
     "AgiMicroRna": [
         "AnnotationDbi",
         "AnnotationFilter",
