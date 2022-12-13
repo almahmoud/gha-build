@@ -28498,7 +28498,6 @@
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "GenomicRanges",
-        "HGNChelper",
         "IRanges",
         "KEGGREST",
         "Matrix",
@@ -103741,7 +103740,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "HGNChelper": [],
     "homologene": [
         "R.oo",
         "R.utils",
