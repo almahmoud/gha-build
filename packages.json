@@ -18797,7 +18797,6 @@
         "rlang",
         "robustbase",
         "scales",
-        "tensorA",
         "tibble",
         "vctrs",
         "viridisLite"
@@ -52149,7 +52148,6 @@
         "rlang",
         "scales",
         "survival",
-        "tensorA",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -52508,7 +52506,6 @@
         "stringi",
         "stringr",
         "survival",
-        "tensorA",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -62359,7 +62356,6 @@
         "stringi",
         "stringr",
         "survival",
-        "tensorA",
         "tinytex",
         "vctrs",
         "vegan",
@@ -67943,7 +67939,6 @@
         "scales",
         "stringi",
         "stringr",
-        "tensorA",
         "tibble",
         "tidybayes",
         "tidyr",
@@ -81364,7 +81359,6 @@
         "stringi",
         "stringr",
         "survival",
-        "tensorA",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -107354,10 +107348,8 @@
         "Rcpp",
         "RcppArmadillo",
         "bayesm",
-        "robustbase",
-        "tensorA"
+        "robustbase"
     ],
-    "tensorA": [],
     "bayesm": [
         "Rcpp",
         "RcppArmadillo"
@@ -111361,8 +111353,7 @@
         "coda",
         "corpcor",
         "cubature",
-        "nlme",
-        "tensorA"
+        "nlme"
     ],
     "shinycustomloader": [
         "Rcpp",
@@ -113035,7 +113026,6 @@
         "purrr",
         "rlang",
         "scales",
-        "tensorA",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -113076,7 +113066,6 @@
         "pillar",
         "rlang",
         "scales",
-        "tensorA",
         "tibble",
         "vctrs",
         "viridisLite"
