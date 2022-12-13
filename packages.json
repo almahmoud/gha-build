@@ -93981,7 +93981,6 @@
         "stringi",
         "stringr",
         "survival",
-        "tester",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -156129,7 +156128,6 @@
         "zoo"
     ],
     "naivebayes": [],
-    "tester": [],
     "fracdiff": [],
     "urca": [
         "lattice",
