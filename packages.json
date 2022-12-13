@@ -51720,7 +51720,6 @@
         "ggplot2",
         "gridExtra",
         "gtable",
-        "h5vcData",
         "isoband",
         "labeling",
         "lambda.r",
@@ -144047,7 +144046,6 @@
         "stringi",
         "vctrs"
     ],
-    "h5vcData": [],
     "aggregation": [],
     "HiContactsData": [
         "AnnotationDbi",
