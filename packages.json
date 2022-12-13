@@ -57175,7 +57175,6 @@
         "vctrs",
         "viridisLite"
     ],
-    "NuPoP": [],
     "NxtIRFcore": [
         "AnnotationDbi",
         "AnnotationHub",
