@@ -8872,7 +8872,6 @@
         "tokenizers",
         "treeio",
         "truncnorm",
-        "trust",
         "utf8",
         "uwot",
         "vctrs",
@@ -123220,7 +123219,6 @@
         "stringi",
         "stringr",
         "tibble",
-        "trust",
         "utf8",
         "vctrs",
         "viridisLite",
@@ -154320,7 +154318,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "trust",
         "utf8",
         "vctrs",
         "vegan",
@@ -154361,7 +154358,6 @@
         "setRNG"
     ],
     "VGAM": [],
-    "trust": [],
     "detectseparation": [
         "R6",
         "ROI",
