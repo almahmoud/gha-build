@@ -30543,7 +30543,6 @@
         "ggplot2",
         "ggraph",
         "ggrepel",
-        "glm2",
         "gmodels",
         "googledrive",
         "googlesheets4",
@@ -69907,7 +69906,6 @@
         "futile.options",
         "generics",
         "ggplot2",
-        "glm2",
         "graph",
         "gridExtra",
         "gsubfn",
@@ -82915,7 +82913,6 @@
         "fs",
         "generics",
         "ggplot2",
-        "glm2",
         "graph",
         "gridExtra",
         "gtable",
@@ -137796,7 +137793,6 @@
         "futile.options",
         "generics",
         "ggplot2",
-        "glm2",
         "gtable",
         "isoband",
         "labeling",
@@ -152216,7 +152212,6 @@
     "ppcor": [
         "MASS"
     ],
-    "glm2": [],
     "harmonicmeanp": [],
     "logger": [],
     "TFisher": [
