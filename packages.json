@@ -52386,7 +52386,6 @@
         "edgeR",
         "ellipsis",
         "farver",
-        "findpython",
         "fitdistrplus",
         "fontawesome",
         "foreach",
@@ -58165,7 +58164,6 @@
         "farver",
         "ff",
         "fields",
-        "findpython",
         "flock",
         "foreach",
         "futile.logger",
@@ -136253,10 +136251,7 @@
         "lattice",
         "nlme"
     ],
-    "argparse": [
-        "findpython"
-    ],
-    "findpython": [],
+    "argparse": [],
     "depmixS4": [
         "Rsolnp",
         "lattice",
