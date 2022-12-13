@@ -64597,8 +64597,7 @@
     "miRBaseConverter": [],
     "miRcomp": [
         "Biobase",
-        "BiocGenerics",
-        "miRcompData"
+        "BiocGenerics"
     ],
     "mirIntegrator": [
         "AnnotationDbi",
@@ -134004,7 +134003,6 @@
         "snow",
         "zlibbioc"
     ],
-    "miRcompData": [],
     "InvariantCausalPrediction": [
         "Matrix",
         "Rcpp",
