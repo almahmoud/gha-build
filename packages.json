@@ -75589,7 +75589,6 @@
         "jpeg",
         "jquerylib",
         "knitr",
-        "kpeaks",
         "labeling",
         "lambda.r",
         "later",
@@ -117818,7 +117817,6 @@
         "kknn",
         "km.ci",
         "knitr",
-        "kpeaks",
         "labeling",
         "lambda.r",
         "later",
@@ -156723,7 +156721,6 @@
         "MASS",
         "Rcpp",
         "inaparc",
-        "kpeaks",
         "lhs"
     ],
     "MatrixCorrelation": [
@@ -156748,7 +156745,6 @@
     ],
     "inaparc": [
         "Rcpp",
-        "kpeaks",
         "lhs"
     ],
     "metR": [
@@ -156796,7 +156792,6 @@
         "viridisLite",
         "withr"
     ],
-    "kpeaks": [],
     "lhs": [
         "Rcpp"
     ],
