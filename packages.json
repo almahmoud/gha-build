@@ -27468,9 +27468,7 @@
         "withr",
         "zoo"
     ],
-    "DTA": [
-        "LSD"
-    ],
+    "DTA": [],
     "Dune": [
         "BH",
         "Biobase",
@@ -27789,7 +27787,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "LSD",
         "Matrix",
         "MatrixGenerics",
         "RCurl",
@@ -59198,7 +59195,6 @@
         "Hmisc",
         "IRanges",
         "KEGGREST",
-        "LSD",
         "Matrix",
         "MatrixGenerics",
         "OrganismDbi",
@@ -113503,7 +113499,6 @@
         "rlang",
         "vctrs"
     ],
-    "LSD": [],
     "gganimate": [
         "Matrix",
         "ellipsis",
