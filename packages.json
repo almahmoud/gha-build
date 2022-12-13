@@ -14907,7 +14907,6 @@
         "iterators",
         "lambda.r",
         "lifecycle",
-        "locfdr",
         "locfit",
         "magrittr",
         "mbkmeans",
@@ -27188,7 +27187,6 @@
         "class",
         "e1071",
         "lifecycle",
-        "locfdr",
         "magrittr",
         "rlang",
         "stringr",
@@ -35438,8 +35436,7 @@
         "viridisLite"
     ],
     "GIGSEA": [
-        "Matrix",
-        "locfdr"
+        "Matrix"
     ],
     "girafe": [
         "Biobase",
@@ -58475,7 +58472,6 @@
         "iterators",
         "lambda.r",
         "lifecycle",
-        "locfdr",
         "locfit",
         "magrittr",
         "mbkmeans",
@@ -75846,7 +75842,6 @@
         "ggplot2",
         "lambda.r",
         "lifecycle",
-        "locfdr",
         "magrittr",
         "mgcv",
         "munsell",
@@ -90017,7 +90012,6 @@
         "hms",
         "iterators",
         "lifecycle",
-        "locfdr",
         "magrittr",
         "mgcv",
         "munsell",
@@ -102594,7 +102588,6 @@
     ],
     "qtl": [],
     "howmany": [],
-    "locfdr": [],
     "phylobase": [
         "RNeXML",
         "Rcpp",
