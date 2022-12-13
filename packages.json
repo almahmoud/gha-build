@@ -9449,7 +9449,6 @@
         "KEGGREST",
         "Matrix",
         "MatrixGenerics",
-        "NbClust",
         "OrganismDbi",
         "ProtGenerics",
         "RBGL",
@@ -65080,7 +65079,6 @@
         "MatrixGenerics",
         "MatrixModels",
         "MultiAssayExperiment",
-        "NbClust",
         "OMICsPCAdata",
         "PerformanceAnalytics",
         "RCurl",
@@ -75382,7 +75380,6 @@
     ],
     "RCSL": [
         "Matrix",
-        "NbClust",
         "RSpectra",
         "Rcpp",
         "RcppAnnoy",
@@ -109013,7 +109010,6 @@
         "lmtest",
         "zoo"
     ],
-    "NbClust": [],
     "gamlss": [
         "Matrix",
         "gamlss.dist",
