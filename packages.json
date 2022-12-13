@@ -18838,7 +18838,6 @@
         "htmlwidgets",
         "httr",
         "igraph",
-        "ineq",
         "interp",
         "ipred",
         "jquerylib",
@@ -29219,7 +29218,6 @@
         "htmlwidgets",
         "httr",
         "igraph",
-        "ineq",
         "interp",
         "ipred",
         "jquerylib",
@@ -40425,7 +40423,6 @@
         "ggtree",
         "gridExtra",
         "igraph",
-        "ineq",
         "lambda.r",
         "lifecycle",
         "mgcv",
@@ -93501,7 +93498,6 @@
         "RWeka",
         "RWekajars"
     ],
-    "ineq": [],
     "arm": [
         "Matrix",
         "RcppEigen",
