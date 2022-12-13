@@ -9157,7 +9157,6 @@
         "AnnotationDbi",
         "Biobase",
         "Biostrings",
-        "GSA",
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "IRanges",
@@ -28268,7 +28267,6 @@
         "DelayedArray",
         "DelayedMatrixStats",
         "GO.db",
-        "GSA",
         "GSEABase",
         "GSVA",
         "GenomeInfoDb",
@@ -63185,7 +63183,6 @@
     "nethet": [
         "Biobase",
         "CompQuadForm",
-        "GSA",
         "GeneNet",
         "ICS",
         "ICSNP",
@@ -67169,7 +67166,6 @@
         "AnnotationDbi",
         "Biobase",
         "Biostrings",
-        "GSA",
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "IRanges",
@@ -86590,7 +86586,6 @@
         "BiocFileCache",
         "Biostrings",
         "GO.db",
-        "GSA",
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "GenomicRanges",
@@ -109329,7 +109324,6 @@
         "viridisLite",
         "withr"
     ],
-    "GSA": [],
     "metafor": [
         "Matrix",
         "mathjaxr",
