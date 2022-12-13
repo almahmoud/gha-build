@@ -40253,10 +40253,7 @@
         "vctrs",
         "vroom"
     ],
-    "LPE": [],
-    "LPEadj": [
-        "LPE"
-    ],
+    "LPEadj": [],
     "lpNet": [],
     "LRBaseDbi": [
         "AnnotationDbi",
@@ -58739,8 +58736,7 @@
         "waldo"
     ],
     "PLPE": [
-        "Biobase",
-        "LPE"
+        "Biobase"
     ],
     "plyranges": [
         "Biobase",
