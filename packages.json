@@ -4851,9 +4851,7 @@
         "yaml",
         "zlibbioc"
     ],
-    "ARRmNormalization": [
-        "ARRmData"
-    ],
+    "ARRmNormalization": [],
     "artMS": [
         "AnnotationDbi",
         "Biobase",
@@ -155125,7 +155123,6 @@
         "cpp11",
         "systemfonts"
     ],
-    "ARRmData": [],
     "getopt": [],
     "UpSetR": [
         "MASS",
