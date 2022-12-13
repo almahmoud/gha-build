@@ -22672,7 +22672,6 @@
         "data.table",
         "dplyr",
         "ellipsis",
-        "entropy",
         "farver",
         "fastmatch",
         "fgsea",
@@ -24421,7 +24420,6 @@
         "digest",
         "dplyr",
         "ellipsis",
-        "entropy",
         "evaluate",
         "farver",
         "fastmap",
@@ -31284,7 +31282,6 @@
         "ellipse",
         "ellipsis",
         "emmeans",
-        "entropy",
         "estimability",
         "evaluate",
         "farver",
@@ -48804,7 +48801,6 @@
         "ellipse",
         "ellipsis",
         "emmeans",
-        "entropy",
         "estimability",
         "evaluate",
         "farver",
@@ -62077,9 +62073,7 @@
         "uwot",
         "xgboost"
     ],
-    "Informeasure": [
-        "entropy"
-    ],
+    "Informeasure": [],
     "InPAS": [
         "AnnotationDbi",
         "BH",
@@ -78642,7 +78636,6 @@
         "dplyr",
         "ellipsis",
         "energy",
-        "entropy",
         "evaluate",
         "farver",
         "fastmap",
@@ -88757,7 +88750,6 @@
         "dqrng",
         "edgeR",
         "ellipsis",
-        "entropy",
         "farver",
         "fastmap",
         "foreach",
@@ -117795,7 +117787,6 @@
         "dqrng",
         "e1071",
         "ellipsis",
-        "entropy",
         "farver",
         "fastmap",
         "fitdistrplus",
@@ -119858,7 +119849,6 @@
         "egg",
         "ellipsis",
         "enrichplot",
-        "entropy",
         "evaluate",
         "farver",
         "fastmap",
@@ -120087,7 +120077,6 @@
         "dqrng",
         "e1071",
         "ellipsis",
-        "entropy",
         "evaluate",
         "farver",
         "fastmap",
@@ -124049,7 +124038,6 @@
         "cli",
         "colorspace",
         "dotCall64",
-        "entropy",
         "farver",
         "fields",
         "foreach",
@@ -156311,7 +156299,6 @@
     "princurve": [
         "Rcpp"
     ],
-    "entropy": [],
     "genalg": [],
     "bezier": [],
     "brglm": [
@@ -157909,7 +157896,6 @@
         "RWeka",
         "RWekajars",
         "digest",
-        "entropy",
         "rJava",
         "randomForest"
     ],
