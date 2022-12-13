@@ -27090,7 +27090,6 @@
         "BiocGenerics",
         "BiocParallel",
         "Biostrings",
-        "CopyhelpeR",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomeInfoDbData",
@@ -158107,7 +158106,6 @@
         "yaml",
         "zlibbioc"
     ],
-    "CopyhelpeR": [],
     "arules": [
         "Matrix",
         "generics",
