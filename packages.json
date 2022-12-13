@@ -14800,7 +14800,6 @@
         "IRanges",
         "Matrix",
         "MatrixGenerics",
-        "RApiSerialize",
         "RCurl",
         "RSpectra",
         "Rcpp",
@@ -21029,7 +21028,6 @@
         "R.methodsS3",
         "R.oo",
         "R.utils",
-        "RApiSerialize",
         "RCurl",
         "RSQLite",
         "Rcpp",
@@ -111090,7 +111088,6 @@
         "withr"
     ],
     "qs": [
-        "RApiSerialize",
         "Rcpp",
         "stringfish"
     ],
@@ -111117,7 +111114,6 @@
         "viridisLite",
         "withr"
     ],
-    "RApiSerialize": [],
     "stringfish": [
         "Rcpp"
     ],
