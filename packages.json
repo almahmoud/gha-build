@@ -30297,7 +30297,6 @@
         "ellipsis",
         "farver",
         "fingerprint",
-        "float",
         "generics",
         "ggplot2",
         "gridExtra",
@@ -47762,7 +47761,6 @@
         "ellipsis",
         "farver",
         "fingerprint",
-        "float",
         "generics",
         "ggplot2",
         "gridExtra",
@@ -127406,7 +127404,6 @@
         "dplyr",
         "ellipsis",
         "farver",
-        "float",
         "generics",
         "ggplot2",
         "gridExtra",
@@ -128659,7 +128656,6 @@
         "ellipsis",
         "farver",
         "fingerprint",
-        "float",
         "futile.logger",
         "futile.options",
         "generics",
@@ -144852,7 +144848,6 @@
         "RcppArmadillo",
         "RhpcBLASctl",
         "digest",
-        "float",
         "lattice",
         "lgr",
         "mlapi",
@@ -144911,7 +144906,6 @@
         "Rcpp",
         "RcppArmadillo",
         "RhpcBLASctl",
-        "float",
         "lattice",
         "lgr"
     ],
@@ -145026,10 +145020,8 @@
         "Matrix",
         "Rcpp",
         "RhpcBLASctl",
-        "float",
         "lattice"
     ],
-    "float": [],
     "mgsub": [],
     "qdapRegex": [
         "stringi"
