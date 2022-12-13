@@ -4212,7 +4212,6 @@
     ],
     "arrayQualityMetrics": [
         "AnnotationDbi",
-        "BeadDataPackR",
         "Biobase",
         "BiocGenerics",
         "BiocManager",
@@ -7570,7 +7569,6 @@
     ],
     "beadarray": [
         "AnnotationDbi",
-        "BeadDataPackR",
         "Biobase",
         "BiocGenerics",
         "Biostrings",
@@ -7641,7 +7639,6 @@
         "quantsmooth",
         "survival"
     ],
-    "BeadDataPackR": [],
     "BEARscc": [
         "Biobase",
         "BiocGenerics",
@@ -11726,7 +11723,6 @@
     ],
     "blima": [
         "AnnotationDbi",
-        "BeadDataPackR",
         "Biobase",
         "BiocGenerics",
         "Biostrings",
@@ -38336,7 +38332,6 @@
     "epigenomix": [
         "AnnotationDbi",
         "BH",
-        "BeadDataPackR",
         "Biobase",
         "BiocGenerics",
         "BiocParallel",
