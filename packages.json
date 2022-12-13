@@ -30377,7 +30377,6 @@
         "ellipsis",
         "foreach",
         "futile.logger",
-        "gcspikelite",
         "ggplot2",
         "gplots",
         "graph",
@@ -104812,7 +104811,6 @@
         "vctrs",
         "viridisLite"
     ],
-    "gcspikelite": [],
     "SPARQL": [],
     "ggiraph": [
         "Matrix",
