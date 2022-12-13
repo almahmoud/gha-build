@@ -6303,8 +6303,7 @@
         "IRanges",
         "RCurl",
         "S4Vectors",
-        "XVector",
-        "poibin"
+        "XVector"
     ],
     "BiGGR": [
         "LIM",
@@ -30507,7 +30506,6 @@
         "pillar",
         "plyr",
         "png",
-        "poibin",
         "prodlim",
         "progress",
         "progressr",
@@ -105806,7 +105804,6 @@
         "datawizard"
     ],
     "datawizard": [],
-    "poibin": [],
     "LIM": [
         "diagram",
         "limSolve"
