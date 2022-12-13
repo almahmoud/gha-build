@@ -10130,7 +10130,6 @@
         "vegan",
         "viridisLite",
         "vsn",
-        "wesanderson",
         "withr",
         "zoo"
     ],
@@ -24670,7 +24669,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "wesanderson",
         "withr",
         "zoo"
     ],
@@ -32427,7 +32425,6 @@
         "vctrs",
         "vegan",
         "viridisLite",
-        "wesanderson",
         "withr",
         "zoo"
     ],
@@ -62319,7 +62316,6 @@
         "vctrs",
         "vegan",
         "viridisLite",
-        "wesanderson",
         "withr",
         "zoo"
     ],
@@ -67953,7 +67949,6 @@
         "vctrs",
         "vegan",
         "viridisLite",
-        "wesanderson",
         "withr",
         "zoo"
     ],
@@ -77514,7 +77509,6 @@
         "viridisLite",
         "vsn",
         "waldo",
-        "wesanderson",
         "withr"
     ],
     "PROcess": [
@@ -118226,7 +118220,6 @@
         "vcd",
         "zoo"
     ],
-    "wesanderson": [],
     "gmodels": [
         "gdata"
     ],
