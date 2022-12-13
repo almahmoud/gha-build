@@ -2467,7 +2467,6 @@
         "snow",
         "spatial",
         "stable",
-        "stabledist",
         "statip",
         "statmod",
         "stringi",
@@ -17709,7 +17708,6 @@
         "png",
         "snow",
         "spatial",
-        "stabledist",
         "timeDate",
         "timeSeries",
         "timsac",
@@ -21967,7 +21965,6 @@
         "scales",
         "spatial",
         "stable",
-        "stabledist",
         "statip",
         "stringi",
         "stringr",
@@ -29491,7 +29488,6 @@
         "rlang",
         "scales",
         "spatial",
-        "stabledist",
         "tibble",
         "timeDate",
         "timeSeries",
@@ -49009,7 +49005,6 @@
         "rprojroot",
         "snow",
         "spatial",
-        "stabledist",
         "testthat",
         "tibble",
         "timeDate",
@@ -67734,7 +67729,6 @@
         "scales",
         "spatial",
         "stable",
-        "stabledist",
         "statip",
         "survival",
         "testthat",
@@ -101349,7 +101343,6 @@
         "spatstat.geom",
         "spatstat.random",
         "spatstat.sparse",
-        "stabledist",
         "stringi",
         "stringr",
         "survival",
@@ -128326,7 +128319,6 @@
         "scales",
         "spatial",
         "stable",
-        "stabledist",
         "statip",
         "statmod",
         "tibble",
@@ -128394,7 +128386,6 @@
         "rpart",
         "spatial",
         "stable",
-        "stabledist",
         "statip",
         "timeDate",
         "timeSeries"
@@ -128415,12 +128406,10 @@
     ],
     "fBasics": [
         "spatial",
-        "stabledist",
         "timeDate",
         "timeSeries"
     ],
     "stable": [],
-    "stabledist": [],
     "statip": [
         "clue",
         "rpart"
@@ -139830,7 +139819,6 @@
         "gbutils",
         "lattice",
         "spatial",
-        "stabledist",
         "timeDate",
         "timeSeries"
     ],
@@ -145411,8 +145399,7 @@
         "gsl",
         "lattice",
         "mvtnorm",
-        "pcaPP",
-        "stabledist"
+        "pcaPP"
     ],
     "proxyC": [
         "Matrix",
