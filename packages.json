@@ -31155,7 +31155,6 @@
         "RcppProgress",
         "Rgraphviz",
         "Rhdf5lib",
-        "Rwave",
         "S4Vectors",
         "SparseM",
         "XML",
@@ -33179,7 +33178,6 @@
         "RcppEigen",
         "Rgraphviz",
         "Rhdf5lib",
-        "Rwave",
         "S4Vectors",
         "SamSPECTRAL",
         "SparseM",
@@ -48272,7 +48270,6 @@
         "RcppEigen",
         "Rgraphviz",
         "Rhdf5lib",
-        "Rwave",
         "S4Vectors",
         "SparseM",
         "XML",
@@ -48411,7 +48408,6 @@
         "RcppEigen",
         "Rgraphviz",
         "Rhdf5lib",
-        "Rwave",
         "S4Vectors",
         "SparseM",
         "XML",
@@ -163366,7 +163362,6 @@
         "RColorBrewer",
         "RPMG",
         "RSEIS",
-        "Rwave",
         "cli",
         "colorspace",
         "dotCall64",
@@ -163453,8 +163448,7 @@
         "withr"
     ],
     "RSEIS": [
-        "RPMG",
-        "Rwave"
+        "RPMG"
     ],
     "splancs": [
         "lattice",
@@ -163496,7 +163490,6 @@
     "MBA": [
         "BH"
     ],
-    "Rwave": [],
     "spam": [
         "dotCall64"
     ],
