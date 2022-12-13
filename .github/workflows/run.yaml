@@ -222,7 +222,7 @@ jobs:
       - uses: actions/upload-artifact@v3
         with:
           name: "artifact-${{ matrix.pkg }}"
-          path: /tmp/tars/${{steps.tar.outputs.name}}
+          path: ${{steps.tar.outputs.name}}
 
       - name: Install rclone
         shell: bash
