@@ -17,4 +17,4 @@ curl -o $DEPNAME.zip -L \
   -H "X-GitHub-Api-Version: 2022-11-28" \
   https://api.github.com/repos/$GITREPO/actions/artifacts/$ARTIFACT_ID/zip &&\
 unzip $DEPNAME.zip && rm $DEPNAME.zip &&\
-tar -xvf "$TARNAME" && rm "$TARNAME" )
+tar -xvf "$DEPNAME".tar.gz && rm "$DEPNAME".tar.gz )
