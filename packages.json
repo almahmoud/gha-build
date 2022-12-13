@@ -8752,7 +8752,6 @@
         "KernSmooth",
         "MASS",
         "MAST",
-        "MGLM",
         "Matrix",
         "MatrixGenerics",
         "MultiAssayExperiment",
@@ -156876,7 +156875,6 @@
         "withr",
         "zlibbioc"
     ],
-    "MGLM": [],
     "tidytext": [
         "Matrix",
         "R6",
