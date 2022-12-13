@@ -40858,7 +40858,6 @@
         "vctrs",
         "viridisLite"
     ],
-    "iSeq": [],
     "ISLET": [
         "Biobase",
         "BiocParallel",
