@@ -96843,7 +96843,6 @@
         "yaml",
         "zlibbioc"
     ],
-    "proteinProfiles": [],
     "ProteoDisco": [
         "AnnotationDbi",
         "BH",
