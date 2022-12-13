@@ -63240,7 +63240,6 @@
         "lattice",
         "latticeExtra",
         "lifecycle",
-        "mCSEAdata",
         "magrittr",
         "matrixStats",
         "memoise",
@@ -145007,7 +145006,6 @@
         "viridisLite",
         "withr"
     ],
-    "mCSEAdata": [],
     "SmartSVA": [
         "AnnotationDbi",
         "BH",
