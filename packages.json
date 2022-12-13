@@ -81423,7 +81423,6 @@
         "lambda.r",
         "openxlsx"
     ],
-    "swfdr": [],
     "switchBox": [
         "Rcpp",
         "caTools",
