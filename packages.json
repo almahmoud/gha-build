@@ -10412,7 +10412,6 @@
         "vegan",
         "viridisLite",
         "vsn",
-        "wesanderson",
         "withr",
         "zlibbioc",
         "zoo"
@@ -25392,7 +25391,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "wesanderson",
         "withr",
         "zlibbioc",
         "zoo"
@@ -33365,7 +33363,6 @@
         "vctrs",
         "vegan",
         "viridisLite",
-        "wesanderson",
         "withr",
         "zoo"
     ],
@@ -64163,7 +64160,6 @@
         "vctrs",
         "vegan",
         "viridisLite",
-        "wesanderson",
         "withr",
         "zoo"
     ],
@@ -69965,7 +69961,6 @@
         "vctrs",
         "vegan",
         "viridisLite",
-        "wesanderson",
         "withr",
         "zoo"
     ],
@@ -79812,7 +79807,6 @@
         "viridisLite",
         "vsn",
         "waldo",
-        "wesanderson",
         "withr",
         "zlibbioc"
     ],
@@ -121759,7 +121753,6 @@
         "vcd",
         "zoo"
     ],
-    "wesanderson": [],
     "gmodels": [
         "gdata"
     ],
