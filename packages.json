@@ -51280,7 +51280,6 @@
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "IRanges",
-        "LymphoSeqDB",
         "Matrix",
         "RCurl",
         "Rcpp",
@@ -122355,7 +122354,6 @@
         "Matrix",
         "survival"
     ],
-    "LymphoSeqDB": [],
     "reldist": [
         "BH",
         "Matrix",
