@@ -30052,7 +30052,6 @@
         "plyr",
         "png",
         "praise",
-        "praznik",
         "prettyunits",
         "processx",
         "prodlim",
@@ -46862,7 +46861,6 @@
         "plyr",
         "png",
         "praise",
-        "praznik",
         "prettyunits",
         "processx",
         "prodlim",
@@ -63204,7 +63202,6 @@
         "plogr",
         "plyr",
         "png",
-        "praznik",
         "preprocessCore",
         "prodlim",
         "progressr",
@@ -151517,7 +151514,6 @@
         "mime",
         "mvtnorm",
         "pls",
-        "praznik",
         "prettyunits",
         "progress",
         "rgl",
@@ -151611,7 +151607,6 @@
         "xfun",
         "yaml"
     ],
-    "praznik": [],
     "RWekajars": [
         "rJava"
     ],
