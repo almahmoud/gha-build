@@ -52549,7 +52549,6 @@
         "GenomeInfoDbData",
         "IRanges",
         "KEGGREST",
-        "LungCancerACvsSCCGEO",
         "Matrix",
         "ModelMetrics",
         "RCurl",
@@ -122779,7 +122778,6 @@
         "sp"
     ],
     "parmigene": [],
-    "LungCancerACvsSCCGEO": [],
     "venn": [],
     "PairedData": [
         "Matrix",
