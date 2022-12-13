@@ -17482,7 +17482,6 @@
         "KEGGREST",
         "Matrix",
         "MatrixGenerics",
-        "NCmisc",
         "R.oo",
         "R.utils",
         "RCurl",
@@ -93500,9 +93499,7 @@
         "reticulate"
     ],
     "metaMA": [],
-    "reader": [
-        "NCmisc"
-    ],
+    "reader": [],
     "shinypanel": [
         "bslib",
         "cachem",
@@ -93520,7 +93517,6 @@
         "shinyBS",
         "shinyjs"
     ],
-    "NCmisc": [],
     "highcharter": [
         "Matrix",
         "TTR",
