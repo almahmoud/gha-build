@@ -46887,7 +46887,6 @@
         "IRanges",
         "KEGGREST",
         "KEGGgraph",
-        "KOdata",
         "Matrix",
         "RCurl",
         "RJSONIO",
@@ -115344,7 +115343,6 @@
         "changepoint",
         "zoo"
     ],
-    "KOdata": [],
     "hgu95av2.db": [
         "AnnotationDbi",
         "Biobase",
