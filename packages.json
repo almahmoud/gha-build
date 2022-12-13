@@ -1791,7 +1791,6 @@
         "withr"
     ],
     "AneuFinder": [
-        "AneuFinderData",
         "BH",
         "Biobase",
         "BiocParallel",
@@ -100785,7 +100784,6 @@
         "vctrs",
         "withr"
     ],
-    "AneuFinderData": [],
     "ecp": [
         "Rcpp"
     ],
