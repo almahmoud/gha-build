@@ -79255,7 +79255,6 @@
         "lifecycle",
         "lme4",
         "lmerTest",
-        "logNormReg",
         "mgcv",
         "minqa",
         "munsell",
@@ -104108,7 +104107,6 @@
         "gmp"
     ],
     "sampSurf": [],
-    "logNormReg": [],
     "spdep": [
         "Rcpp",
         "class",
