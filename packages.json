@@ -18183,7 +18183,6 @@
         "visNetwork",
         "vroom"
     ],
-    "COSNet": [],
     "COTAN": [
         "ComplexHeatmap",
         "GetoptLong",
