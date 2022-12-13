@@ -1237,7 +1237,6 @@
         "tidyr",
         "tidyselect",
         "tinytex",
-        "tximport",
         "vctrs",
         "viridisLite",
         "withr"
@@ -6639,7 +6638,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tximport",
         "vctrs",
         "whisker",
         "withr"
@@ -32872,7 +32870,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tximport",
         "vctrs",
         "viridisLite",
         "withr"
@@ -48923,7 +48920,6 @@
         "tibble",
         "tidyselect",
         "tximeta",
-        "tximport",
         "tzdb",
         "vctrs",
         "viridisLite",
@@ -94379,7 +94375,6 @@
         "tidytree",
         "tinytex",
         "treeio",
-        "tximport",
         "uwot",
         "vctrs",
         "viridis",
@@ -105870,11 +105865,9 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tximport",
         "vctrs",
         "withr"
     ],
-    "tximport": [],
     "UCell": [
         "BH",
         "Biobase",
