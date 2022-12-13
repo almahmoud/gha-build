@@ -99885,7 +99885,6 @@
         "Rcpp",
         "RcppArmadillo",
         "S4Vectors",
-        "SPAtest",
         "SeqArray",
         "XVector",
         "zlibbioc"
@@ -145105,7 +145104,6 @@
         "vctrs",
         "yaml"
     ],
-    "SPAtest": [],
     "excelR": [
         "base64enc",
         "digest",
