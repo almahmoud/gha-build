@@ -2533,7 +2533,6 @@
         "DelayedMatrixStats",
         "DescTools",
         "DirichletMultinomial",
-        "ECOSolveR",
         "Exact",
         "FNN",
         "Formula",
@@ -8747,7 +8746,6 @@
         "DelayedMatrixStats",
         "DescTools",
         "DirichletMultinomial",
-        "ECOSolveR",
         "Exact",
         "FNN",
         "Formula",
@@ -80009,7 +80007,6 @@
         "DelayedMatrixStats",
         "DescTools",
         "DirichletMultinomial",
-        "ECOSolveR",
         "Exact",
         "FNN",
         "Formula",
@@ -152870,7 +152867,6 @@
     ],
     "Rttf2pt1": [],
     "CVXR": [
-        "ECOSolveR",
         "Matrix",
         "R6",
         "Rcpp",
@@ -152998,7 +152994,6 @@
     "Rmpfr": [
         "gmp"
     ],
-    "ECOSolveR": [],
     "scs": [],
     "osqp": [
         "Matrix",
