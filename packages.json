@@ -23875,7 +23875,6 @@
         "nlme",
         "pillar",
         "plyr",
-        "pvclust",
         "quantmod",
         "reshape",
         "rlang",
@@ -66216,7 +66215,6 @@
         "RedeR",
         "igraph",
         "magrittr",
-        "pvclust",
         "rlang"
     ],
     "PanViz": [
@@ -86475,7 +86473,6 @@
         "progress",
         "promises",
         "purrr",
-        "pvclust",
         "quantreg",
         "readr",
         "rematch2",
@@ -96817,7 +96814,6 @@
         "munsell",
         "nlme",
         "pillar",
-        "pvclust",
         "rlang",
         "scales",
         "sitmo",
@@ -111071,7 +111067,6 @@
         "xts",
         "zoo"
     ],
-    "pvclust": [],
     "truncdist": [],
     "imputeLCMD": [
         "Biobase",
