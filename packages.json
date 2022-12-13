@@ -13331,7 +13331,6 @@
         "htmlwidgets",
         "httr",
         "interp",
-        "invgamma",
         "irlba",
         "lambda.r",
         "latticeExtra",
@@ -20267,7 +20266,6 @@
         "dplyr",
         "foreach",
         "futile.logger",
-        "invgamma",
         "irlba",
         "iterators",
         "lambda.r",
@@ -21371,7 +21369,6 @@
         "httpuv",
         "httr",
         "igraph",
-        "invgamma",
         "irlba",
         "iterators",
         "jquerylib",
@@ -23404,7 +23401,6 @@
         "htmlwidgets",
         "httr",
         "interp",
-        "invgamma",
         "irlba",
         "lambda.r",
         "latticeExtra",
@@ -93978,7 +93974,6 @@
         "htmlwidgets",
         "httr",
         "interp",
-        "invgamma",
         "irlba",
         "lambda.r",
         "later",
@@ -102222,7 +102217,6 @@
         "Matrix",
         "Rcpp",
         "RcppArmadillo",
-        "invgamma",
         "irlba",
         "mixsqp"
     ],
@@ -102232,7 +102226,6 @@
         "RcppArmadillo",
         "irlba"
     ],
-    "invgamma": [],
     "ChIPXpressData": [
         "Rcpp",
         "bigmemory"
