@@ -82297,7 +82297,6 @@
         "Matrix",
         "MatrixGenerics",
         "RCurl",
-        "ROCit",
         "RSQLite",
         "Rcpp",
         "RcppArmadillo",
@@ -103055,7 +103054,6 @@
         "tinytex",
         "vctrs"
     ],
-    "ROCit": [],
     "GenKern": [],
     "ttservice": [
         "dplyr",
