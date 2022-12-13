@@ -25167,7 +25167,6 @@
         "biomaRt",
         "bit64",
         "blob",
-        "cMap2data",
         "cachem",
         "dbplyr",
         "dplyr",
@@ -104200,7 +104199,6 @@
         "vctrs"
     ],
     "corrgram": [],
-    "cMap2data": [],
     "hgu133a2.db": [
         "AnnotationDbi",
         "Biobase",
