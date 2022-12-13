@@ -67522,7 +67522,6 @@
         "Rcpp",
         "princurve"
     ],
-    "PathNet": [],
     "PathoStat": [
         "AnnotationDbi",
         "BH",
