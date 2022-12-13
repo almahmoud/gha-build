@@ -49927,7 +49927,6 @@
         "rlang",
         "vctrs"
     ],
-    "miRBaseConverter": [],
     "miRcomp": [
         "Biobase"
     ],
@@ -50308,7 +50307,6 @@
         "memoise",
         "metR",
         "mgcv",
-        "miRBaseConverter",
         "miRspongeR",
         "minqa",
         "modelr",
@@ -50501,7 +50499,6 @@
         "lubridate",
         "memoise",
         "mgcv",
-        "miRBaseConverter",
         "minqa",
         "modelr",
         "munsell",
@@ -82016,7 +82013,6 @@
         "lubridate",
         "memoise",
         "mgcv",
-        "miRBaseConverter",
         "minqa",
         "modelr",
         "munsell",
