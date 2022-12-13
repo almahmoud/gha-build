@@ -25030,7 +25030,6 @@
         "BiocFileCache",
         "Biostrings",
         "DelayedArray",
-        "DrugVsDiseasedata",
         "GEOquery",
         "GenomeInfoDb",
         "GenomeInfoDbData",
@@ -103759,7 +103758,6 @@
         "vctrs"
     ],
     "corrgram": [],
-    "DrugVsDiseasedata": [],
     "hgu133a2.db": [
         "AnnotationDbi",
         "Biobase",
