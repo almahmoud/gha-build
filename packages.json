@@ -45958,7 +45958,6 @@
         "cytomapper",
         "dbplyr",
         "digest",
-        "distances",
         "dplyr",
         "dqrng",
         "e1071",
@@ -59684,7 +59683,6 @@
         "clock",
         "deldir",
         "digest",
-        "distances",
         "dplyr",
         "e1071",
         "ellipsis",
@@ -120546,7 +120544,6 @@
         "withr",
         "wk"
     ],
-    "distances": [],
     "Rlabkey": [
         "Rcpp",
         "askpass",
