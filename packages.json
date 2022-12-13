@@ -75728,7 +75728,6 @@
         "waldo",
         "zoo"
     ],
-    "sigPathway": [],
     "SigsPack": [
         "AnnotationDbi",
         "BSgenome",
@@ -84525,7 +84524,6 @@
         "qvalue",
         "reshape2",
         "scales",
-        "sigPathway",
         "stringr",
         "survival",
         "tibble",
