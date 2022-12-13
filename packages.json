@@ -98623,7 +98623,6 @@
         "bit",
         "bit64",
         "blob",
-        "cMAP",
         "cachem",
         "cli",
         "crayon",
@@ -172005,7 +172004,6 @@
     "matrixLaplacian": [
         "scatterplot3d"
     ],
-    "cMAP": [],
     "EMT": [],
     "Matching": [
         "MASS"
