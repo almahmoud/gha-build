@@ -43245,7 +43245,6 @@
         "memoise",
         "multtest",
         "openssl",
-        "parmigene",
         "reactome.db",
         "sp",
         "survival",
@@ -47311,7 +47310,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "parmigene",
         "pillar",
         "plyr",
         "psych",
@@ -50752,7 +50750,6 @@
         "munsell",
         "nlme",
         "openssl",
-        "parmigene",
         "patchwork",
         "pillar",
         "plyr",
@@ -100378,7 +100375,6 @@
         "e1071",
         "sp"
     ],
-    "parmigene": [],
     "venn": [],
     "PairedData": [
         "Matrix",
