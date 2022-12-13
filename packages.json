@@ -26876,7 +26876,6 @@
         "stringr",
         "survcomp",
         "survival",
-        "survivalROC",
         "tibble",
         "tidyselect",
         "utf8",
@@ -51024,7 +51023,6 @@
         "stringr",
         "survcomp",
         "survival",
-        "survivalROC",
         "tibble",
         "tidyselect",
         "utf8",
@@ -75024,7 +75022,6 @@
         "stringr",
         "survcomp",
         "survival",
-        "survivalROC",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -97165,7 +97162,6 @@
         "survMisc",
         "survcomp",
         "survival",
-        "survivalROC",
         "survminer",
         "switchBox",
         "testthat",
@@ -125596,7 +125592,6 @@
         "survMisc",
         "survcomp",
         "survival",
-        "survivalROC",
         "survminer",
         "testthat",
         "tibble",
@@ -133999,8 +133994,7 @@
         "progressr",
         "rmeta",
         "rpart",
-        "survival",
-        "survivalROC"
+        "survival"
     ],
     "survtype": [
         "BMA",
@@ -159608,7 +159602,6 @@
         "survival"
     ],
     "iC10TrainingData": [],
-    "survivalROC": [],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "AnnotationDbi",
         "BH",
