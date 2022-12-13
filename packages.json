@@ -51105,7 +51105,6 @@
     "ISAnalytics": [
         "BH",
         "Matrix",
-        "Rcapture",
         "Rcpp",
         "anytime",
         "base64enc",
@@ -128730,7 +128729,6 @@
         "viridisLite",
         "withr"
     ],
-    "Rcapture": [],
     "datamods": [
         "BH",
         "Rcpp",
