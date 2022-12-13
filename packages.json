@@ -125219,7 +125219,6 @@
         "withr"
     ],
     "scBFA": [
-        "ADGofTest",
         "AnnotationDbi",
         "BH",
         "Biobase",
@@ -180230,7 +180229,6 @@
         "zlibbioc"
     ],
     "copula": [
-        "ADGofTest",
         "Matrix",
         "colorspace",
         "gsl",
@@ -180241,7 +180239,6 @@
         "pspline",
         "stabledist"
     ],
-    "ADGofTest": [],
     "pspline": [],
     "proxyC": [
         "Matrix",
