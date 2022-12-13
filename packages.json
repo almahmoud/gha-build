@@ -27392,7 +27392,6 @@
         "assertthat",
         "backports",
         "base64enc",
-        "binr",
         "bit64",
         "blob",
         "broom",
@@ -146702,7 +146701,6 @@
         "withr"
     ],
     "NCmisc": [],
-    "binr": [],
     "highcharter": [
         "MASS",
         "Matrix",
