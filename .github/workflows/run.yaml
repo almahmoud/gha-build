@@ -173,18 +173,12 @@ jobs:
           sed -n "/^    \"$PKG\"/,/^    \"/p" alldeps.json | grep '^        "' | awk -F'"' '{print $2}' > /tmp/deps
           sed -n "/^    \"$PKG\"/,/^    \"/p" directdeps.json | grep '^        "' | awk -F'"' '{print $2}' > /tmp/directdeps
 
-      - name: Restore packages cache
-        uses: actions/cache@v3
-        with:
-          path: ${{ steps.versions.outputs.library }}
-          key: ${{ steps.versions.outputs.os }}-${{ steps.versions.outputs.r }}-${{ steps.versions.outputs.bioc }}-${{ steps.versions.outputs.runstart }}
-
       - name: Get dependency artifacts 
         run: |
           # Install gh cli and jq
           curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg && sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg && echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null && sudo apt update && sudo apt install gh jq -y
           PKG=${{ matrix.pkg }}
-          cat /tmp/deps | xargs -i bash .github/scripts/download_artifact.sh {} ${{ steps.versions.outputs.library }} ${{github.repository}}
+          cat /tmp/directdeps | xargs -i bash .github/scripts/download_artifact.sh {} ${{ steps.versions.outputs.library }} ${{github.repository}}
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -200,6 +194,7 @@ jobs:
         id: tar
         run: |
           echo name=$(ls /tmp/tars/ | grep ${{matrix.pkg}} | sed 's#/tmp/tars/##g') >> $GITHUB_OUTPUT
+          cd ${{ steps.versions.outputs.library }} && tar -zcvf "${{ matrix.pkg }}.tar.gz" ./
         if: steps.pkgbuild.outcome=='success'
 
       - name: Push failed before exit
