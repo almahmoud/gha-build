@@ -134897,7 +134897,6 @@
         "pkgconfig",
         "plogr",
         "png",
-        "poilog",
         "prettyunits",
         "progress",
         "purrr",
@@ -175410,7 +175409,6 @@
         "vctrs",
         "withr"
     ],
-    "poilog": [],
     "mclustcomp": [
         "Rcpp",
         "RcppArmadillo",
