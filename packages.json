@@ -109731,7 +109731,6 @@
         "XVector",
         "lattice",
         "matrixStats",
-        "smoothie",
         "zlibbioc"
     ],
     "ScaledMatrix": [
@@ -158934,7 +158933,6 @@
         "xfun",
         "yaml"
     ],
-    "smoothie": [],
     "scanMiRData": [
         "BH",
         "BiocGenerics",
