@@ -123981,7 +123981,6 @@
         "diffobj",
         "digest",
         "dplyr",
-        "dunn.test",
         "e1071",
         "egg",
         "ellipsis",
@@ -181626,7 +181625,6 @@
         "xtable"
     ],
     "pwr": [],
-    "dunn.test": [],
     "bladderbatch": [
         "Biobase",
         "BiocGenerics"
