@@ -65505,7 +65505,6 @@
         "vctrs",
         "zlibbioc"
     ],
-    "miRNApath": [],
     "miRNAtap": [
         "AnnotationDbi",
         "Biobase",
