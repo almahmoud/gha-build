@@ -111195,7 +111195,6 @@
         "png",
         "progressr",
         "promises",
-        "pspline",
         "purrr",
         "rappdirs",
         "reshape2",
@@ -159863,10 +159862,8 @@
         "mvtnorm",
         "numDeriv",
         "pcaPP",
-        "pspline",
         "stabledist"
     ],
-    "pspline": [],
     "proxyC": [
         "Matrix",
         "Rcpp",
