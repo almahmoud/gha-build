@@ -59318,7 +59318,6 @@
     "pcxn": [
         "lifecycle",
         "munsell",
-        "pcxnData",
         "pheatmap",
         "scales",
         "viridisLite"
@@ -102082,7 +102081,6 @@
     ],
     "matrixLaplacian": [],
     "Matching": [],
-    "pcxnData": [],
     "reportROC": [
         "Rcpp",
         "lmtest",
