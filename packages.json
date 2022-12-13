@@ -8178,7 +8178,6 @@
         "abind",
         "askpass",
         "cpp11",
-        "dixonTest",
         "futile.logger",
         "futile.options",
         "ids",
@@ -148578,7 +148577,6 @@
     "BB": [
         "quadprog"
     ],
-    "dixonTest": [],
     "rjags": [
         "coda",
         "lattice"
