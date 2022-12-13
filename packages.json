@@ -22294,7 +22294,6 @@
         "doParallel",
         "foreach",
         "iterators",
-        "profileModel",
         "splitstackshape",
         "zlibbioc"
     ],
@@ -46194,7 +46193,6 @@
         "praise",
         "princurve",
         "processx",
-        "profileModel",
         "proxy",
         "ps",
         "psych",
@@ -149272,11 +149270,8 @@
     ],
     "genalg": [],
     "bezier": [],
-    "brglm": [
-        "profileModel"
-    ],
+    "brglm": [],
     "splitstackshape": [],
-    "profileModel": [],
     "simpleCache": [],
     "hash": [],
     "kohonen": [
@@ -152746,7 +152741,6 @@
         "nlme",
         "permute",
         "princurve",
-        "profileModel",
         "vegan"
     ],
     "DataVisualizations": [
