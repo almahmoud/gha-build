@@ -82315,7 +82315,6 @@
         "cachem",
         "dplyr",
         "ellipsis",
-        "ensurer",
         "ggplot2",
         "graph",
         "httr",
@@ -101038,7 +101037,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "ensurer": [],
     "bestNormalize": [
         "LambertW",
         "Matrix",
