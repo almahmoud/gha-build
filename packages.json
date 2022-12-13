@@ -14326,7 +14326,6 @@
         "Biobase",
         "BiocGenerics",
         "Biostrings",
-        "CCP",
         "GSEABase",
         "GenomeInfoDb",
         "GenomeInfoDbData",
@@ -132508,7 +132507,6 @@
     ],
     "Rmpi": [],
     "ccdata": [],
-    "CCP": [],
     "enrichR": [
         "Matrix",
         "RColorBrewer",
