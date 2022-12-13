@@ -85175,7 +85175,6 @@
         "farver",
         "foreach",
         "forecast",
-        "fracdiff",
         "futile.logger",
         "generics",
         "ggplot2",
@@ -141384,7 +141383,6 @@
         "TTR",
         "cli",
         "farver",
-        "fracdiff",
         "generics",
         "ggplot2",
         "gtable",
@@ -141411,7 +141409,6 @@
         "zoo"
     ],
     "naivebayes": [],
-    "fracdiff": [],
     "urca": [
         "lattice",
         "nlme"
