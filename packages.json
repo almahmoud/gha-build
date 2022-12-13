@@ -10999,7 +10999,6 @@
         "labeling",
         "lifecycle",
         "magrittr",
-        "matrixcalc",
         "memoise",
         "mgcv",
         "munsell",
@@ -27992,7 +27991,6 @@
         "locfit",
         "magrittr",
         "matrixStats",
-        "matrixcalc",
         "memoise",
         "mgcv",
         "mime",
@@ -55832,7 +55830,6 @@
         "labeling",
         "lifecycle",
         "magrittr",
-        "matrixcalc",
         "mgcv",
         "munsell",
         "nlme",
@@ -59055,7 +59052,6 @@
         "labeling",
         "lifecycle",
         "magrittr",
-        "matrixcalc",
         "mclust",
         "memoise",
         "mgcv",
@@ -125928,7 +125924,6 @@
         "plotmo",
         "plotrix"
     ],
-    "matrixcalc": [],
     "plotmo": [
         "plotrix"
     ],
