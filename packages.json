@@ -7320,7 +7320,6 @@
         "Rcpp",
         "RcppArmadillo",
         "RcppEigen",
-        "RhpcBLASctl",
         "S4Vectors",
         "SummarizedExperiment",
         "WGCNA",
@@ -9463,7 +9462,6 @@
         "Rcpp",
         "RcppArmadillo",
         "RcppEigen",
-        "RhpcBLASctl",
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
@@ -18305,7 +18303,6 @@
         "RSQLite",
         "Rcpp",
         "RcppEigen",
-        "RhpcBLASctl",
         "S4Vectors",
         "WGCNA",
         "XVector",
@@ -20727,7 +20724,6 @@
         "Rcpp",
         "RcppArmadillo",
         "RcppTOML",
-        "RhpcBLASctl",
         "askpass",
         "bit64",
         "config",
@@ -32562,7 +32558,6 @@
         "Rcpp",
         "RcppArmadillo",
         "RcppTOML",
-        "RhpcBLASctl",
         "askpass",
         "bit64",
         "config",
@@ -35948,7 +35943,6 @@
         "Rcpp",
         "RcppArmadillo",
         "RcppEigen",
-        "RhpcBLASctl",
         "S4Vectors",
         "SummarizedExperiment",
         "WGCNA",
@@ -42822,7 +42816,6 @@
         "Rcpp",
         "RcppArmadillo",
         "RcppEigen",
-        "RhpcBLASctl",
         "Rhtslib",
         "RnBeads",
         "RnBeads.hg19",
@@ -43142,7 +43135,6 @@
         "RCurl",
         "Rcpp",
         "RcppEigen",
-        "RhpcBLASctl",
         "S4Vectors",
         "SummarizedExperiment",
         "XML",
@@ -53359,7 +53351,6 @@
         "RcppHNSW",
         "RcppML",
         "Rdpack",
-        "RhpcBLASctl",
         "Rtsne",
         "S4Vectors",
         "ScaledMatrix",
@@ -73223,7 +73214,6 @@
         "Matrix",
         "Rcpp",
         "RcppEigen",
-        "RhpcBLASctl",
         "bit64",
         "callr",
         "coro",
@@ -86815,7 +86805,6 @@
         "Rcpp",
         "RcppArmadillo",
         "RcppTOML",
-        "RhpcBLASctl",
         "bit64",
         "config",
         "downloader",
@@ -87652,7 +87641,6 @@
         "RcppHNSW",
         "RcppML",
         "RcppTOML",
-        "RhpcBLASctl",
         "Rtsne",
         "S4Vectors",
         "ScaledMatrix",
@@ -87852,7 +87840,6 @@
         "Rcpp",
         "RcppEigen",
         "Rdpack",
-        "RhpcBLASctl",
         "brio",
         "broom",
         "caTools",
@@ -89324,7 +89311,6 @@
         "RCurl",
         "Rcpp",
         "Rdpack",
-        "RhpcBLASctl",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -90032,7 +90018,6 @@
         "Rdpack",
         "Rfast",
         "Rgraphviz",
-        "RhpcBLASctl",
         "S4Vectors",
         "SPIA",
         "SummarizedExperiment",
@@ -94738,7 +94723,6 @@
     "NetRep": [
         "Rcpp",
         "RcppArmadillo",
-        "RhpcBLASctl",
         "foreach"
     ],
     "network": [
@@ -94758,7 +94742,6 @@
         "tibble",
         "vctrs"
     ],
-    "RhpcBLASctl": [],
     "statnet.common": [
         "coda"
     ],
@@ -98075,7 +98058,6 @@
         "MatrixExtra",
         "Rcpp",
         "RcppArmadillo",
-        "RhpcBLASctl",
         "lgr",
         "mlapi",
         "rsparse"
@@ -98114,7 +98096,6 @@
         "MatrixExtra",
         "Rcpp",
         "RcppArmadillo",
-        "RhpcBLASctl",
         "lgr"
     ],
     "mlapi": [
@@ -98184,8 +98165,7 @@
     ],
     "MatrixExtra": [
         "Matrix",
-        "Rcpp",
-        "RhpcBLASctl"
+        "Rcpp"
     ],
     "qdapRegex": [],
     "einsum": [
@@ -100199,7 +100179,6 @@
         "Rcpp",
         "RcppArmadillo",
         "RcppEigen",
-        "RhpcBLASctl",
         "bigparallelr",
         "cowplot",
         "doParallel",
@@ -100229,7 +100208,6 @@
     ],
     "bigparallelr": [
         "Rcpp",
-        "RhpcBLASctl",
         "doParallel",
         "flock",
         "foreach"
@@ -100286,7 +100264,6 @@
     "plsgenomics": [
         "Matrix",
         "Rcpp",
-        "RhpcBLASctl",
         "fields",
         "ggplot2",
         "gridExtra",
