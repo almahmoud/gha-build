@@ -84138,7 +84138,6 @@
         "downloader",
         "dplyr",
         "e1071",
-        "easyPubMed",
         "ellipse",
         "ellipsis",
         "enrichplot",
@@ -162259,7 +162258,6 @@
         "yaml",
         "zip"
     ],
-    "easyPubMed": [],
     "googleAuthR": [
         "R6",
         "askpass",
