@@ -74545,7 +74545,6 @@
         "mime",
         "ontologyPlot",
         "openssl",
-        "paintmap",
         "pillar",
         "png",
         "promises",
@@ -79888,7 +79887,6 @@
         "ontoProc",
         "ontologyPlot",
         "openssl",
-        "paintmap",
         "pillar",
         "png",
         "promises",
@@ -108921,7 +108919,6 @@
         "ontologyPlot",
         "openssl",
         "org.Mm.eg.db",
-        "paintmap",
         "pillar",
         "plyr",
         "png",
@@ -133011,10 +133008,8 @@
     "ontologyPlot": [
         "BiocGenerics",
         "Rgraphviz",
-        "graph",
-        "paintmap"
+        "graph"
     ],
-    "paintmap": [],
     "distrEx": [
         "distr",
         "sfsmisc"
