@@ -99704,7 +99704,6 @@
         "rlang",
         "zlibbioc"
     ],
-    "SLqPCR": [],
     "SMAD": [
         "Rcpp",
         "RcppAlgos",
