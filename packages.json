@@ -17339,7 +17339,6 @@
         "promises",
         "purrr",
         "ragg",
-        "randtests",
         "rlang",
         "rmarkdown",
         "sass",
@@ -97554,7 +97553,6 @@
     "bcellViper": [
         "Biobase"
     ],
-    "randtests": [],
     "crisprScoreData": [
         "AnnotationDbi",
         "AnnotationHub",
