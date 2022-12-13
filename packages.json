@@ -30163,7 +30163,6 @@
         "Matrix",
         "MatrixGenerics",
         "RCurl",
-        "RobustRankAggreg",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -45992,7 +45991,6 @@
         "RcppArmadillo",
         "RcppEigen",
         "Rhtslib",
-        "RobustRankAggreg",
         "Rsamtools",
         "S4Vectors",
         "SummarizedExperiment",
@@ -97258,7 +97256,6 @@
         "vctrs",
         "viridisLite"
     ],
-    "RobustRankAggreg": [],
     "dplR": [
         "Matrix",
         "R.oo",
