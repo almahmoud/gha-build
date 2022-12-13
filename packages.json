@@ -11648,7 +11648,6 @@
         "globals",
         "hardhat",
         "hms",
-        "intervals",
         "ipred",
         "lambda.r",
         "lava",
@@ -23244,7 +23243,6 @@
         "hms",
         "httr",
         "interp",
-        "intervals",
         "lambda.r",
         "latticeExtra",
         "lifecycle",
@@ -30531,8 +30529,7 @@
         "IRanges",
         "RCurl",
         "S4Vectors",
-        "XVector",
-        "intervals"
+        "XVector"
     ],
     "genomes": [
         "bit64",
@@ -32136,7 +32133,6 @@
         "futile.logger",
         "genomeIntervals",
         "interp",
-        "intervals",
         "lambda.r",
         "latticeExtra"
     ],
@@ -49395,7 +49391,6 @@
         "htmlwidgets",
         "httr",
         "interp",
-        "intervals",
         "knitr",
         "lambda.r",
         "latticeExtra",
@@ -79105,7 +79100,6 @@
         "htmlwidgets",
         "httr",
         "ids",
-        "intervals",
         "jquerylib",
         "knitr",
         "later",
@@ -91922,7 +91916,6 @@
         "ggplot2",
         "globals",
         "hardhat",
-        "intervals",
         "ipred",
         "lava",
         "lifecycle",
@@ -91948,7 +91941,6 @@
         "tzdb",
         "vctrs"
     ],
-    "intervals": [],
     "RcppRoll": [],
     "BSgenome.Mmusculus.UCSC.mm9": [
         "BSgenome",
@@ -99546,7 +99538,6 @@
         "class",
         "classInt",
         "e1071",
-        "intervals",
         "lwgeom",
         "s2",
         "sf",
@@ -99585,7 +99576,6 @@
         "wk"
     ],
     "spacetime": [
-        "intervals",
         "sp",
         "xts",
         "zoo"
