@@ -38554,7 +38554,6 @@
         "vctrs",
         "zoo"
     ],
-    "KBoost": [],
     "KCsmart": [
         "Biobase",
         "Matrix",
