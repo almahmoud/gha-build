@@ -30649,8 +30649,7 @@
         "class",
         "e1071",
         "proxy",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "cydar": [
         "BH",
@@ -77410,8 +77409,7 @@
         "class",
         "e1071",
         "proxy",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "MGFM": [
         "AnnotationDbi",
@@ -92196,8 +92194,7 @@
         "limma",
         "locfit",
         "marray",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "omada": [
         "Biobase",
@@ -137877,7 +137874,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "widgetTools",
         "withr",
         "xml2",
         "xtable",
@@ -138166,8 +138162,7 @@
         "zlibbioc"
     ],
     "tkWidgets": [
-        "DynDoc",
-        "widgetTools"
+        "DynDoc"
     ],
     "tLOH": [
         "AnnotationDbi",
@@ -145441,7 +145436,6 @@
         "withr",
         "zlibbioc"
     ],
-    "widgetTools": [],
     "wiggleplotr": [
         "BH",
         "Biobase",
