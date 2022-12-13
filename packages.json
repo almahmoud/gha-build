@@ -3138,7 +3138,6 @@
         "munsell",
         "nlme",
         "openssl",
-        "pbmcapply",
         "pillar",
         "plyr",
         "progress",
@@ -29646,7 +29645,6 @@
         "munsell",
         "nlme",
         "openssl",
-        "pbmcapply",
         "pillar",
         "plotly",
         "promises",
@@ -67316,8 +67314,7 @@
     ],
     "ROSeq": [
         "edgeR",
-        "locfit",
-        "pbmcapply"
+        "locfit"
     ],
     "ROTS": [
         "Biobase"
@@ -72464,7 +72461,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "pbmcapply",
         "pillar",
         "plyr",
         "polylabelr",
@@ -88838,7 +88834,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "pbmcapply": [],
     "msm": [
         "Matrix",
         "expm",
