@@ -192,8 +192,9 @@ jobs:
       - name: Get tar name
         id: tar
         run: |
-          echo name=$(ls /tmp/tars/ | grep ${{matrix.pkg}} | sed 's#/tmp/tars/##g') >> $GITHUB_OUTPUT
-          cd ${{ steps.versions.outputs.library }}/../ && tar -zcvf "${{ matrix.pkg }}.tar.gz" "$(basename ${{ steps.versions.outputs.library }})"
+          echo pkg=$(ls /tmp/tars/ | grep ${{matrix.pkg}} | sed 's#/tmp/tars/##g') >> $GITHUB_OUTPUT
+          cd $(dirname ${{ steps.versions.outputs.library }}) && tar -zcvf "${{ matrix.pkg }}.tar.gz" "$(basename ${{ steps.versions.outputs.library }})"
+          echo name=$(echo "$(dirname ${{ steps.versions.outputs.library }})/${{ matrix.pkg }}.tar.gz") >> $GITHUB_OUTPUT
         if: steps.pkgbuild.outcome=='success'
 
       - name: Push failed before exit
@@ -236,7 +237,7 @@ jobs:
       - name: Rclone push package
         run: |
           set -x
-          rclone copy /tmp/tars/${{steps.tar.outputs.name}} js2:/gha-build/container/ -vvvvvv
+          rclone copy /tmp/tars/${{steps.tar.outputs.pkg}} js2:/gha-build/container/ -vvvvvv
 
       - name: Rclone mark as pushed
         uses: nick-fields/retry@v2

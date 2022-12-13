@@ -18,6 +18,7 @@ jobs:
           mkdir -p "$ARCHIVEDIR"
           mv runstarttime "$ARCHIVEDIR"/ || true
           mv alldeps.json "$ARCHIVEDIR"/ || true
+          mv directdeps.json "$ARCHIVEDIR"/ || true
           mv packages.json "$ARCHIVEDIR"/ || true
           mv tobuild.txt "$ARCHIVEDIR"/ || true
           mv README.md "$ARCHIVEDIR"/ || true
