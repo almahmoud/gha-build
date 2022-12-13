@@ -60631,7 +60631,6 @@
     "maSigPro": [
         "Biobase",
         "BiocGenerics",
-        "admisc",
         "mclust",
         "venn"
     ],
@@ -141034,10 +141033,7 @@
     ],
     "parmigene": [],
     "LungCancerACvsSCCGEO": [],
-    "venn": [
-        "admisc"
-    ],
-    "admisc": [],
+    "venn": [],
     "PairedData": [
         "Matrix",
         "RColorBrewer",
