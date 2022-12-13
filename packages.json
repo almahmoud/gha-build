@@ -44380,7 +44380,6 @@
         "withr",
         "zip"
     ],
-    "hpar": [],
     "HPAStainR": [
         "Rcpp",
         "bslib",
@@ -54324,7 +54323,6 @@
         "gtable",
         "highr",
         "hms",
-        "hpar",
         "htmlTable",
         "htmltools",
         "htmlwidgets",
