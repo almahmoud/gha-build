@@ -115247,7 +115247,6 @@
         "gsl",
         "iterators",
         "lattice",
-        "seqCNA.annot",
         "snow",
         "sp"
     ],
@@ -159260,7 +159259,6 @@
         "lattice",
         "sp"
     ],
-    "seqCNA.annot": [],
     "adehabitatMA": [
         "lattice",
         "sp"
