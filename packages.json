@@ -14902,7 +14902,6 @@
         "ggplot2",
         "gmp",
         "hms",
-        "howmany",
         "httr",
         "irlba",
         "iterators",
@@ -58398,7 +58397,6 @@
         "gmp",
         "gridExtra",
         "hms",
-        "howmany",
         "httr",
         "irlba",
         "iterators",
@@ -102494,7 +102492,6 @@
         "rlang"
     ],
     "qtl": [],
-    "howmany": [],
     "locfdr": [],
     "phylobase": [
         "RNeXML",
