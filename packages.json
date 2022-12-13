@@ -16337,7 +16337,6 @@
         "RcppEigen",
         "Rgraphviz",
         "S4Vectors",
-        "SamSPECTRAL",
         "TH.data",
         "changepoint",
         "checkmate",
@@ -20034,7 +20033,6 @@
         "RcppEigen",
         "Rgraphviz",
         "S4Vectors",
-        "SamSPECTRAL",
         "XML",
         "brio",
         "broom",
@@ -71554,7 +71552,6 @@
         "vctrs",
         "viridisLite"
     ],
-    "SamSPECTRAL": [],
     "sangeranalyseR": [
         "BiocStyle",
         "Biostrings",
