@@ -46454,7 +46454,6 @@
         "vctrs",
         "whisker",
         "withr",
-        "yesno",
         "zip"
     ],
     "HumanTranscriptomeCompendium": [
@@ -124951,8 +124950,7 @@
         "tidytext",
         "tokenizers",
         "vctrs",
-        "withr",
-        "yesno"
+        "withr"
     ],
     "aws.s3": [
         "askpass",
@@ -124963,7 +124961,6 @@
         "mime",
         "openssl"
     ],
-    "yesno": [],
     "aws.signature": [
         "base64enc",
         "digest"
