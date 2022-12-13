@@ -58634,7 +58634,6 @@
         "yaml",
         "zlibbioc"
     ],
-    "ISoLDE": [],
     "isomiRs": [
         "ALL",
         "AnnotationDbi",
