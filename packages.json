@@ -3695,7 +3695,6 @@
         "rpart",
         "rstudioapi",
         "scales",
-        "setRNG",
         "stringi",
         "stringr",
         "survival",
@@ -6932,7 +6931,6 @@
         "scs",
         "sctransform",
         "scuttle",
-        "setRNG",
         "shiny",
         "sitmo",
         "slam",
@@ -119295,7 +119293,6 @@
     "beanplot": [],
     "nor1mix": [],
     "hexbin": [],
-    "setRNG": [],
     "svglite": [
         "cpp11",
         "systemfonts"
@@ -120636,7 +120633,6 @@
         "rlang",
         "rprojroot",
         "scales",
-        "setRNG",
         "slam",
         "sp",
         "stringi",
@@ -120672,8 +120668,7 @@
     "optimr": [
         "Rcgmin",
         "Rvmmin",
-        "optextras",
-        "setRNG"
+        "optextras"
     ],
     "VGAM": [],
     "detectseparation": [
