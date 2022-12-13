@@ -8323,7 +8323,6 @@
         "Biobase",
         "BiocParallel",
         "Biostrings",
-        "CMplot",
         "GO.db",
         "GenomeInfoDb",
         "GenomeInfoDbData",
@@ -113566,7 +113565,6 @@
     "vioplot": [
         "zoo"
     ],
-    "CMplot": [],
     "imager": [
         "Matrix",
         "Rcpp",
