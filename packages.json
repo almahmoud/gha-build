@@ -27690,7 +27690,6 @@
         "viridisLite",
         "withr"
     ],
-    "DriverNet": [],
     "DropletUtils": [
         "BH",
         "Biobase",
