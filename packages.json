@@ -45988,7 +45988,6 @@
         "argparse",
         "askpass",
         "base64",
-        "bigassertr",
         "bigparallelr",
         "bigstatsr",
         "biomaRt",
@@ -107926,7 +107925,6 @@
         "RcppArmadillo",
         "RcppEigen",
         "RhpcBLASctl",
-        "bigassertr",
         "bigparallelr",
         "cowplot",
         "doParallel",
@@ -107957,18 +107955,15 @@
         "S4Vectors",
         "XVector"
     ],
-    "bigassertr": [],
     "bigparallelr": [
         "Rcpp",
         "RhpcBLASctl",
-        "bigassertr",
         "doParallel",
         "flock",
         "foreach",
         "iterators"
     ],
     "rmio": [
-        "bigassertr",
         "ff"
     ],
     "depmap": [
