@@ -3969,7 +3969,6 @@
         "hms",
         "htmltools",
         "htmlwidgets",
-        "httpcode",
         "httpuv",
         "httr",
         "interactiveDisplayBase",
@@ -9733,7 +9732,6 @@
         "hms",
         "htmltools",
         "htmlwidgets",
-        "httpcode",
         "httr",
         "igraph",
         "ini",
@@ -93340,7 +93338,6 @@
         "hardhat",
         "hexbin",
         "hms",
-        "httpcode",
         "httr",
         "igraph",
         "ipred",
@@ -116604,7 +116601,6 @@
         "hms",
         "htmltools",
         "htmlwidgets",
-        "httpcode",
         "httpuv",
         "httr",
         "interactiveDisplayBase",
@@ -142550,7 +142546,6 @@
         "askpass",
         "cli",
         "crul",
-        "httpcode",
         "httr",
         "lifecycle",
         "magrittr",
@@ -143101,7 +143096,6 @@
     "crul": [
         "R6",
         "Rcpp",
-        "httpcode",
         "mime",
         "triebeard",
         "urltools"
@@ -143110,7 +143104,6 @@
         "Rcpp",
         "triebeard"
     ],
-    "httpcode": [],
     "triebeard": [
         "Rcpp"
     ],
@@ -145877,7 +145870,6 @@
         "cli",
         "crul",
         "fauxpas",
-        "httpcode",
         "httr",
         "lifecycle",
         "magrittr",
@@ -145897,7 +145889,6 @@
     "ini": [],
     "fauxpas": [
         "R6",
-        "httpcode",
         "whisker"
     ],
     "styler": [
@@ -158987,7 +158978,6 @@
         "cli",
         "crul",
         "fs",
-        "httpcode",
         "httr",
         "lifecycle",
         "magrittr",
@@ -160907,7 +160897,6 @@
         "highr",
         "htmltools",
         "htmlwidgets",
-        "httpcode",
         "httr",
         "jquerylib",
         "knitr",
@@ -160960,7 +160949,6 @@
         "generics",
         "highr",
         "htmltools",
-        "httpcode",
         "httr",
         "jquerylib",
         "knitr",
