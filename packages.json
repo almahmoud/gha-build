@@ -70039,7 +70039,6 @@
         "abind",
         "ade4",
         "annotate",
-        "aods3",
         "askpass",
         "backports",
         "base64enc",
@@ -172192,7 +172191,6 @@
         "vctrs",
         "zlibbioc"
     ],
-    "aods3": [],
     "sortable": [
         "R6",
         "Rcpp",
