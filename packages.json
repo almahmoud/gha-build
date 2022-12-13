@@ -60171,7 +60171,6 @@
         "LogicReg",
         "Matrix",
         "lattice",
-        "mcbiopi",
         "survival"
     ],
     "logitT": [
@@ -144847,7 +144846,6 @@
         "lattice",
         "survival"
     ],
-    "mcbiopi": [],
     "LowMACAAnnotation": [],
     "LymphoSeqDB": [],
     "reldist": [
