@@ -2465,7 +2465,6 @@
         "snow",
         "spatial",
         "stable",
-        "stabledist",
         "statip",
         "statmod",
         "stringi",
@@ -17693,7 +17692,6 @@
         "png",
         "snow",
         "spatial",
-        "stabledist",
         "timeSeries",
         "zlibbioc"
     ],
@@ -21949,7 +21947,6 @@
         "scales",
         "spatial",
         "stable",
-        "stabledist",
         "statip",
         "stringi",
         "stringr",
@@ -29458,7 +29455,6 @@
         "rlang",
         "scales",
         "spatial",
-        "stabledist",
         "tibble",
         "timeSeries",
         "tseries",
@@ -48962,7 +48958,6 @@
         "rprojroot",
         "snow",
         "spatial",
-        "stabledist",
         "testthat",
         "tibble",
         "timeSeries",
@@ -67663,7 +67658,6 @@
         "scales",
         "spatial",
         "stable",
-        "stabledist",
         "statip",
         "survival",
         "testthat",
@@ -101247,7 +101241,6 @@
         "spatstat.geom",
         "spatstat.random",
         "spatstat.sparse",
-        "stabledist",
         "stringi",
         "stringr",
         "survival",
@@ -128202,7 +128195,6 @@
         "scales",
         "spatial",
         "stable",
-        "stabledist",
         "statip",
         "statmod",
         "tibble",
@@ -128267,7 +128259,6 @@
         "rpart",
         "spatial",
         "stable",
-        "stabledist",
         "statip",
         "timeSeries"
     ],
@@ -128287,11 +128278,9 @@
     ],
     "fBasics": [
         "spatial",
-        "stabledist",
         "timeSeries"
     ],
     "stable": [],
-    "stabledist": [],
     "statip": [
         "clue",
         "rpart"
@@ -139686,7 +139675,6 @@
         "gbutils",
         "lattice",
         "spatial",
-        "stabledist",
         "timeSeries"
     ],
     "cvar": [
@@ -145253,8 +145241,7 @@
         "gsl",
         "lattice",
         "mvtnorm",
-        "pcaPP",
-        "stabledist"
+        "pcaPP"
     ],
     "proxyC": [
         "Matrix",
