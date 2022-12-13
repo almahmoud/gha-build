@@ -19783,7 +19783,6 @@
         "scran",
         "scuttle",
         "selectr",
-        "shades",
         "shiny",
         "shinyFiles",
         "shinyWidgets",
@@ -104840,7 +104839,6 @@
         "rtracklayer",
         "scales",
         "seqLogo",
-        "shades",
         "snow",
         "sp",
         "stringi",
@@ -130739,7 +130737,6 @@
         "magrittr",
         "reportr",
         "rlang",
-        "shades",
         "snow",
         "stringi",
         "stringr",
@@ -148798,7 +148795,6 @@
         "pillar",
         "rlang",
         "scales",
-        "shades",
         "stringi",
         "tibble",
         "utf8",
@@ -148840,7 +148836,6 @@
         "pillar",
         "rlang",
         "scales",
-        "shades",
         "stringi",
         "tibble",
         "utf8",
@@ -148913,7 +148908,6 @@
         "BH",
         "Rcpp"
     ],
-    "shades": [],
     "DDRTree": [
         "BH",
         "Matrix",
@@ -161823,8 +161817,7 @@
     "tractor.base": [
         "RNifti",
         "Rcpp",
-        "reportr",
-        "shades"
+        "reportr"
     ],
     "reportr": [],
     "RNifti": [
