@@ -109573,7 +109573,6 @@
         "bbmle",
         "coda",
         "cpp11",
-        "dgof",
         "emdbook",
         "futile.logger",
         "futile.options",
@@ -153073,7 +153072,6 @@
     "glmpca": [
         "MASS"
     ],
-    "dgof": [],
     "nnTensor": [
         "MASS",
         "Matrix",
