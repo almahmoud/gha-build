@@ -128011,7 +128011,6 @@
         "vctrs",
         "zlibbioc"
     ],
-    "spikeLI": [],
     "spiky": [
         "BH",
         "BSgenome",
