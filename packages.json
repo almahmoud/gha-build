@@ -54071,7 +54071,6 @@
         "quantreg",
         "rematch2",
         "scales",
-        "smatr",
         "stringr",
         "survival",
         "testthat",
@@ -95998,7 +95997,6 @@
         "httr",
         "openssl"
     ],
-    "smatr": [],
     "ontologyPlot": [
         "Rgraphviz",
         "graph"
