@@ -10,7 +10,7 @@ TARNAME="$(cat lists/$DEPNAME)"
 echo $RUNID
 echo $ARTIFACT_ID
 
-( cd $LIBRARY && \
+( cd $LIBRARY/../ && \
 curl -o $DEPNAME.zip -L \
   -H "Accept: application/vnd.github+json" \
   -H "Authorization: Bearer $GITHUB_TOKEN" \
