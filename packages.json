@@ -4417,7 +4417,6 @@
         "timechange",
         "tinytex",
         "tzdb",
-        "uuid",
         "vctrs",
         "viridis",
         "viridisLite",
@@ -6630,8 +6629,7 @@
         "futile.logger",
         "ids",
         "lambda.r",
-        "openssl",
-        "uuid"
+        "openssl"
     ],
     "beer": [
         "BH",
@@ -12799,7 +12797,6 @@
         "repr",
         "rlang",
         "survival",
-        "uuid",
         "vctrs",
         "zlibbioc"
     ],
@@ -14775,7 +14772,6 @@
         "tidytree",
         "treeio",
         "tweenr",
-        "uuid",
         "vctrs",
         "viridis",
         "viridisLite",
@@ -16285,7 +16281,6 @@
         "tidyr",
         "tidyselect",
         "tzdb",
-        "uuid",
         "vctrs",
         "vroom",
         "withr",
@@ -17897,7 +17892,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uuid",
         "vctrs",
         "viridisLite",
         "withr",
@@ -24218,7 +24212,6 @@
         "timechange",
         "tweenr",
         "tzdb",
-        "uuid",
         "vctrs",
         "viridis",
         "viridisLite",
@@ -24340,7 +24333,6 @@
         "tidyselect",
         "timechange",
         "tzdb",
-        "uuid",
         "vctrs",
         "viridis",
         "viridisLite",
@@ -25384,7 +25376,6 @@
         "tinytex",
         "tweenr",
         "tzdb",
-        "uuid",
         "vcd",
         "vctrs",
         "vegan",
@@ -26682,7 +26673,6 @@
         "rlang",
         "robustbase",
         "rrcov",
-        "uuid",
         "vctrs"
     ],
     "DEGreport": [
@@ -36141,7 +36131,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "uuid",
         "vctrs",
         "viridisLite",
         "withr",
@@ -37302,7 +37291,6 @@
         "stringr",
         "systemfonts",
         "tibble",
-        "uuid",
         "vctrs",
         "viridisLite",
         "visNetwork",
@@ -41379,7 +41367,6 @@
         "tidyr",
         "tidyselect",
         "tinytex",
-        "uuid",
         "vctrs",
         "viridisLite",
         "waldo",
@@ -41754,7 +41741,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uuid",
         "vctrs",
         "viridisLite",
         "waldo",
@@ -42036,7 +42022,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uuid",
         "vctrs",
         "viridisLite",
         "waldo",
@@ -44418,7 +44403,6 @@
         "timechange",
         "tinytex",
         "units",
-        "uuid",
         "vctrs",
         "viridisLite",
         "withr",
@@ -50109,7 +50093,6 @@
         "tidyselect",
         "umap",
         "usethis",
-        "uuid",
         "vctrs",
         "viridis",
         "viridisLite",
@@ -55031,7 +55014,6 @@
         "timechange",
         "tinytex",
         "tzdb",
-        "uuid",
         "vctrs",
         "viridisLite",
         "vroom",
@@ -58351,7 +58333,6 @@
         "tidytree",
         "treeio",
         "tweenr",
-        "uuid",
         "vctrs",
         "viridis",
         "viridisLite",
@@ -59626,7 +59607,6 @@
         "tzdb",
         "urlchecker",
         "usethis",
-        "uuid",
         "vctrs",
         "viridisLite",
         "vroom",
@@ -61998,7 +61978,6 @@
         "stringr",
         "survival",
         "tibble",
-        "uuid",
         "vctrs",
         "viridis",
         "viridisLite",
@@ -62982,7 +62961,6 @@
         "treeio",
         "tweenr",
         "tzdb",
-        "uuid",
         "vctrs",
         "viridis",
         "viridisLite",
@@ -63197,7 +63175,6 @@
         "treeio",
         "tweenr",
         "tzdb",
-        "uuid",
         "vctrs",
         "viridis",
         "viridisLite",
@@ -64480,7 +64457,6 @@
         "rlang",
         "stringi",
         "stringr",
-        "uuid",
         "vctrs"
     ],
     "mogsa": [
@@ -66710,7 +66686,6 @@
         "timechange",
         "tinytex",
         "tzdb",
-        "uuid",
         "vctrs",
         "viridis",
         "viridisLite",
@@ -67156,7 +67131,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uuid",
         "vctrs",
         "viridis",
         "viridisLite",
@@ -68465,7 +68439,6 @@
         "tm",
         "topicmodels",
         "tzdb",
-        "uuid",
         "uwot",
         "vctrs",
         "viridis",
@@ -69185,7 +69158,6 @@
         "stringr",
         "systemfonts",
         "tibble",
-        "uuid",
         "vctrs",
         "viridisLite",
         "withr",
@@ -69351,7 +69323,6 @@
         "timechange",
         "tinytex",
         "tzdb",
-        "uuid",
         "vctrs",
         "viridisLite",
         "vroom",
@@ -69623,7 +69594,6 @@
         "pillar",
         "repr",
         "rlang",
-        "uuid",
         "vctrs"
     ],
     "ncRNAtools": [
@@ -70276,7 +70246,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uuid",
         "vctrs",
         "viridisLite",
         "withr",
@@ -70703,7 +70672,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uuid",
         "uwot",
         "vctrs",
         "viridis",
@@ -70856,7 +70824,6 @@
         "tidyr",
         "tidyselect",
         "tzdb",
-        "uuid",
         "vctrs",
         "vegan",
         "viridisLite",
@@ -81465,7 +81432,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uuid",
         "vctrs",
         "viridis",
         "viridisLite",
@@ -84433,7 +84399,6 @@
         "pillar",
         "repr",
         "rlang",
-        "uuid",
         "vctrs"
     ],
     "RCyjs": [
@@ -85740,7 +85705,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "uuid",
         "vctrs",
         "viridis",
         "viridisLite",
@@ -97087,7 +97051,6 @@
         "rlang",
         "stringi",
         "stringr",
-        "uuid",
         "vctrs"
     ],
     "sevenC": [
@@ -97589,7 +97552,6 @@
         "survival",
         "testthat",
         "tibble",
-        "uuid",
         "vctrs",
         "vegan",
         "viridisLite",
@@ -99237,7 +99199,6 @@
         "tinytex",
         "treeio",
         "tximport",
-        "uuid",
         "uwot",
         "vctrs",
         "viridis",
@@ -100920,7 +100881,6 @@
         "tidyselect",
         "tweenr",
         "tzdb",
-        "uuid",
         "vctrs",
         "viridisLite",
         "vroom",
@@ -101102,7 +101062,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uuid",
         "vctrs",
         "viridisLite",
         "waldo",
@@ -102611,7 +102570,6 @@
         "tinytex",
         "tnet",
         "tzdb",
-        "uuid",
         "vctrs",
         "viridisLite",
         "vroom",
@@ -103968,7 +103926,6 @@
         "tinytex",
         "tzdb",
         "units",
-        "uuid",
         "vctrs",
         "viridisLite",
         "vroom",
@@ -105559,7 +105516,6 @@
         "tweenr",
         "tzdb",
         "units",
-        "uuid",
         "vctrs",
         "vegan",
         "viridis",
@@ -108161,7 +108117,6 @@
         "tkWidgets",
         "treeio",
         "tweenr",
-        "uuid",
         "vctrs",
         "viridis",
         "viridisLite",
@@ -109737,7 +109692,6 @@
         "rlang",
         "tibble",
         "tidyselect",
-        "uuid",
         "vctrs",
         "withr",
         "zlibbioc"
@@ -110047,7 +110001,6 @@
         "tidytree",
         "treeio",
         "tweenr",
-        "uuid",
         "vctrs",
         "viridisLite",
         "waldo",
@@ -118900,7 +118853,6 @@
         "timechange",
         "tinytex",
         "tzdb",
-        "uuid",
         "vctrs",
         "viridisLite",
         "vroom",
@@ -119238,7 +119190,6 @@
         "rlang",
         "rstudioapi",
         "tibble",
-        "uuid",
         "vctrs",
         "withr"
     ],
@@ -119259,7 +119210,6 @@
         "rlang",
         "rstudioapi",
         "tibble",
-        "uuid",
         "vctrs",
         "withr"
     ],
@@ -119342,11 +119292,9 @@
         "withr"
     ],
     "poweRlaw": [],
-    "uuid": [],
     "ids": [
         "askpass",
-        "openssl",
-        "uuid"
+        "openssl"
     ],
     "preseqR": [],
     "reactome.db": [
@@ -122306,7 +122254,6 @@
         "pillar",
         "repr",
         "rlang",
-        "uuid",
         "vctrs"
     ],
     "IRdisplay": [
@@ -123762,13 +123709,11 @@
     "ChIPXpressData": [
         "BH",
         "Rcpp",
-        "bigmemory",
-        "uuid"
+        "bigmemory"
     ],
     "bigmemory": [
         "BH",
-        "Rcpp",
-        "uuid"
+        "Rcpp"
     ],
     "biganalytics": [
         "BH",
@@ -123776,8 +123721,7 @@
         "biglm",
         "bigmemory",
         "foreach",
-        "iterators",
-        "uuid"
+        "iterators"
     ],
     "shinyhelper": [
         "Rcpp",
@@ -124121,7 +124065,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uuid",
         "vctrs",
         "withr"
     ],
@@ -124205,7 +124148,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uuid",
         "vctrs",
         "withr"
     ],
@@ -125390,7 +125332,6 @@
         "rprojroot",
         "testthat",
         "tibble",
-        "uuid",
         "vctrs",
         "waldo",
         "withr"
@@ -126866,7 +126807,6 @@
         "scales",
         "systemfonts",
         "tibble",
-        "uuid",
         "vctrs",
         "viridisLite",
         "withr"
@@ -127283,12 +127223,10 @@
         "stringr",
         "systemfonts",
         "tinytex",
-        "uuid",
         "vctrs",
         "zip"
     ],
     "officer": [
-        "uuid",
         "zip"
     ],
     "gdtools": [
@@ -127644,7 +127582,6 @@
         "timechange",
         "tinytex",
         "units",
-        "uuid",
         "vctrs",
         "wk",
         "zip",
@@ -128106,7 +128043,6 @@
         "shiny",
         "stringi",
         "stringr",
-        "uuid",
         "vctrs",
         "withr"
     ],
@@ -131854,7 +131790,6 @@
         "rlang",
         "sass",
         "shiny",
-        "uuid",
         "withr"
     ],
     "CpGassoc": [
@@ -132988,8 +132923,7 @@
         "mlr3measures",
         "mlr3misc",
         "paradox",
-        "parallelly",
-        "uuid"
+        "parallelly"
     ],
     "mlr3learners": [
         "PRROC",
@@ -133004,8 +132938,7 @@
         "mlr3measures",
         "mlr3misc",
         "paradox",
-        "parallelly",
-        "uuid"
+        "parallelly"
     ],
     "mlr3tuning": [
         "PRROC",
@@ -133021,8 +132954,7 @@
         "mlr3measures",
         "mlr3misc",
         "paradox",
-        "parallelly",
-        "uuid"
+        "parallelly"
     ],
     "paradox": [
         "checkmate",
