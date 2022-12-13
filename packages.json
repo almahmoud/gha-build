@@ -18131,7 +18131,6 @@
     ],
     "cycle": [
         "Biobase",
-        "DynDoc",
         "Mfuzz",
         "class",
         "e1071",
@@ -23006,7 +23005,6 @@
         "Biobase",
         "marray"
     ],
-    "DynDoc": [],
     "easier": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -45414,7 +45412,6 @@
     ],
     "Mfuzz": [
         "Biobase",
-        "DynDoc",
         "class",
         "e1071",
         "tkWidgets"
@@ -54152,7 +54149,6 @@
         "marray"
     ],
     "OLINgui": [
-        "DynDoc",
         "OLIN",
         "locfit",
         "marray",
@@ -81110,7 +81106,6 @@
         "Biostrings",
         "DOSE",
         "DelayedArray",
-        "DynDoc",
         "FreqProf",
         "GO.db",
         "GOSemSim",
@@ -81372,9 +81367,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "tkWidgets": [
-        "DynDoc"
-    ],
+    "tkWidgets": [],
     "tLOH": [
         "AnnotationDbi",
         "BSgenome",
