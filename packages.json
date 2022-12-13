@@ -32816,7 +32816,6 @@
         "rjson",
         "rlang",
         "rtracklayer",
-        "settings",
         "snow",
         "stringi",
         "stringr",
@@ -107223,7 +107222,6 @@
         "sass",
         "scales",
         "scrime",
-        "settings",
         "shiny",
         "siggenes",
         "snow",
@@ -157297,7 +157295,6 @@
         "rlang",
         "yaml"
     ],
-    "settings": [],
     "filehash": [],
     "CatEncoders": [
         "Matrix",
