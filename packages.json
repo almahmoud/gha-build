@@ -103030,7 +103030,6 @@
     ],
     "ppcseq": [
         "BH",
-        "HDInterval",
         "MASS",
         "Matrix",
         "R6",
@@ -172347,7 +172346,6 @@
         "gsl"
     ],
     "tidybayes": [
-        "HDInterval",
         "MASS",
         "Matrix",
         "R6",
@@ -172396,7 +172394,6 @@
         "withr"
     ],
     "ggdist": [
-        "HDInterval",
         "MASS",
         "Matrix",
         "R6",
@@ -172471,7 +172468,6 @@
         "withr"
     ],
     "svUnit": [],
-    "HDInterval": [],
     "distributional": [
         "MASS",
         "Matrix",
