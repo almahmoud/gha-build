@@ -58562,7 +58562,6 @@
         "RColorBrewer",
         "RCurl",
         "RSQLite",
-        "RTriangle",
         "Rcpp",
         "RcppArmadillo",
         "RcppEigen",
@@ -153820,7 +153819,6 @@
         "Rcpp",
         "RcppArmadillo"
     ],
-    "RTriangle": [],
     "concaveman": [
         "MASS",
         "R6",
