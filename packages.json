@@ -16141,7 +16141,6 @@
         "vctrs",
         "viridisLite"
     ],
-    "coGPS": [],
     "COHCAP": [
         "Rcpp",
         "RcppArmadillo",
