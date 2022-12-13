@@ -5683,7 +5683,6 @@
         "BiocSingular",
         "Biostrings",
         "CVXR",
-        "CompQuadForm",
         "DECIPHER",
         "DESeq2",
         "DelayedArray",
@@ -21538,7 +21537,6 @@
         "waldo"
     ],
     "dearseq": [
-        "CompQuadForm",
         "Matrix",
         "Rcpp",
         "dplyr",
@@ -36790,7 +36788,6 @@
         "AnnotationDbi",
         "Biobase",
         "Biostrings",
-        "CompQuadForm",
         "GO.db",
         "GenomeInfoDb",
         "GenomeInfoDbData",
@@ -36941,7 +36938,6 @@
         "Biobase",
         "BiocParallel",
         "Biostrings",
-        "CompQuadForm",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -59046,7 +59042,6 @@
     ],
     "nethet": [
         "Biobase",
-        "CompQuadForm",
         "GeneNet",
         "ICS",
         "ICSNP",
@@ -62911,7 +62906,6 @@
     "pairkat": [
         "Biobase",
         "Biostrings",
-        "CompQuadForm",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomeInfoDbData",
@@ -75736,7 +75730,6 @@
     ],
     "rqt": [
         "Biobase",
-        "CompQuadForm",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomeInfoDbData",
@@ -100874,7 +100867,6 @@
         "pkgload",
         "rlang"
     ],
-    "CompQuadForm": [],
     "survey": [
         "Matrix",
         "Rcpp",
