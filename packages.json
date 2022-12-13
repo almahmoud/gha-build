@@ -100787,7 +100787,6 @@
         "BiocIO",
         "BiocParallel",
         "Biostrings",
-        "BlandAltmanLeh",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomeInfoDbData",
@@ -132188,7 +132187,6 @@
         "sp",
         "survival"
     ],
-    "BlandAltmanLeh": [],
     "dml": [
         "Matrix",
         "RSpectra",
