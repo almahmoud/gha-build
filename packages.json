@@ -2259,7 +2259,6 @@
         "scales",
         "shiny",
         "shinyjs",
-        "spatial",
         "stable",
         "statip",
         "statmod",
@@ -16187,7 +16186,6 @@
         "lambda.r",
         "latticeExtra",
         "png",
-        "spatial",
         "timeSeries",
         "zlibbioc"
     ],
@@ -20082,7 +20080,6 @@
         "pillar",
         "rlang",
         "scales",
-        "spatial",
         "stable",
         "statip",
         "stringi",
@@ -26935,7 +26932,6 @@
         "reshape",
         "rlang",
         "scales",
-        "spatial",
         "tibble",
         "timeSeries",
         "tseries",
@@ -44786,7 +44782,6 @@
         "rematch2",
         "rlang",
         "rprojroot",
-        "spatial",
         "testthat",
         "tibble",
         "timeSeries",
@@ -61911,7 +61906,6 @@
         "rlang",
         "rprojroot",
         "scales",
-        "spatial",
         "stable",
         "statip",
         "survival",
@@ -117307,7 +117301,6 @@
         "pillar",
         "rlang",
         "scales",
-        "spatial",
         "stable",
         "statip",
         "statmod",
@@ -117365,7 +117358,6 @@
     "modeest": [
         "clue",
         "fBasics",
-        "spatial",
         "stable",
         "statip",
         "timeSeries"
@@ -117383,7 +117375,6 @@
         "withr"
     ],
     "fBasics": [
-        "spatial",
         "timeSeries"
     ],
     "stable": [],
@@ -117431,7 +117422,6 @@
         "rprojroot"
     ],
     "timeSeries": [],
-    "spatial": [],
     "prodlim": [
         "Matrix",
         "Rcpp",
@@ -127623,7 +127613,6 @@
         "cvar",
         "fBasics",
         "gbutils",
-        "spatial",
         "timeSeries"
     ],
     "cvar": [
