@@ -4891,7 +4891,6 @@
         "viridisLite",
         "withr"
     ],
-    "BADER": [],
     "BadRegionFinder": [
         "AnnotationDbi",
         "BH",
