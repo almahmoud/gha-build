@@ -64799,7 +64799,6 @@
         "R.oo",
         "R.utils",
         "RCurl",
-        "RITANdata",
         "RSQLite",
         "Rhtslib",
         "Rsamtools",
@@ -96808,7 +96807,6 @@
     "nls2": [
         "proto"
     ],
-    "RITANdata": [],
     "valr": [
         "Biobase",
         "BiocIO",
