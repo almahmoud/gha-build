@@ -99788,7 +99788,6 @@
         "Matrix",
         "MatrixGenerics",
         "MultiAssayExperiment",
-        "NISTunits",
         "R6",
         "RANN",
         "RColorBrewer",
@@ -108321,7 +108320,6 @@
         "Matrix",
         "MatrixGenerics",
         "MultiAssayExperiment",
-        "NISTunits",
         "R6",
         "RANN",
         "RColorBrewer",
@@ -148695,7 +148693,6 @@
         "Matrix",
         "MatrixGenerics",
         "MultiAssayExperiment",
-        "NISTunits",
         "PharmacoGx",
         "R6",
         "RANN",
@@ -171519,7 +171516,6 @@
     ],
     "magicaxis": [
         "MASS",
-        "NISTunits",
         "RANN",
         "celestial",
         "mapproj",
@@ -171529,11 +171525,9 @@
         "sm"
     ],
     "celestial": [
-        "NISTunits",
         "RANN",
         "pracma"
     ],
-    "NISTunits": [],
     "PMCMRplus": [
         "BWStest",
         "MASS",
