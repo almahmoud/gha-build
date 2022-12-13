@@ -74339,7 +74339,6 @@
         "cli",
         "colorspace",
         "corrplot",
-        "countrycode",
         "cpp11",
         "crayon",
         "digest",
@@ -152778,7 +152777,6 @@
         "cli",
         "colorspace",
         "corrplot",
-        "countrycode",
         "cpp11",
         "crayon",
         "digest",
@@ -152823,7 +152821,6 @@
         "withr",
         "yaml"
     ],
-    "countrycode": [],
     "NMI": [],
     "MKmisc": [
         "MASS",
