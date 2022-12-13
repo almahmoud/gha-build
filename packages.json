@@ -2260,8 +2260,7 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "vroom",
-        "whisker"
+        "vroom"
     ],
     "APAlyzer": [
         "AnnotationDbi",
@@ -5404,8 +5403,7 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "vctrs",
-        "whisker"
+        "vctrs"
     ],
     "BgeeDB": [
         "AnnotationDbi",
@@ -5974,8 +5972,7 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "vroom",
-        "whisker"
+        "vroom"
     ],
     "BiocFHIR": [
         "DT",
@@ -6254,8 +6251,7 @@
         "tzdb",
         "urltools",
         "vctrs",
-        "vroom",
-        "whisker"
+        "vroom"
     ],
     "BiocSet": [
         "AnnotationDbi",
@@ -6354,8 +6350,7 @@
         "purrr",
         "styler",
         "usethis",
-        "vctrs",
-        "whisker"
+        "vctrs"
     ],
     "biocViews": [
         "Biobase",
@@ -6389,8 +6384,7 @@
         "stringr",
         "tinytex",
         "usethis",
-        "vctrs",
-        "whisker"
+        "vctrs"
     ],
     "biodb": [
         "BiocFileCache",
@@ -7218,8 +7212,7 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridis",
-        "whisker"
+        "viridis"
     ],
     "BioQC": [
         "Biobase",
@@ -8754,7 +8747,6 @@
         "usethis",
         "vctrs",
         "waldo",
-        "whisker",
         "xopen"
     ],
     "bumphunter": [
@@ -14743,7 +14735,6 @@
         "usethis",
         "vctrs",
         "waldo",
-        "whisker",
         "xopen"
     ],
     "cogeqc": [
@@ -17115,8 +17106,7 @@
         "tfruns",
         "tibble",
         "tidyselect",
-        "vctrs",
-        "whisker"
+        "vctrs"
     ],
     "crisprseekplus": [
         "AnnotationDbi",
@@ -17224,8 +17214,7 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "vroom",
-        "whisker"
+        "vroom"
     ],
     "CrispRVariants": [
         "AnnotationDbi",
@@ -19128,8 +19117,7 @@
         "usethis",
         "vctrs",
         "vroom",
-        "waldo",
-        "whisker"
+        "waldo"
     ],
     "dcanr": [
         "Matrix",
@@ -20027,7 +20015,6 @@
         "visNetwork",
         "vroom",
         "webchem",
-        "whisker",
         "zoo"
     ],
     "deepSNV": [
@@ -29586,7 +29573,6 @@
         "usethis",
         "vctrs",
         "waldo",
-        "whisker",
         "xopen"
     ],
     "GDCRNATools": [
@@ -31394,7 +31380,6 @@
         "visNetwork",
         "vroom",
         "webchem",
-        "whisker",
         "word2vec",
         "zoo"
     ],
@@ -34192,8 +34177,7 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "vroom",
-        "whisker"
+        "vroom"
     ],
     "Guitar": [
         "AnnotationDbi",
@@ -35803,8 +35787,7 @@
         "tidytext",
         "tokenizers",
         "usethis",
-        "vctrs",
-        "whisker"
+        "vctrs"
     ],
     "HumanTranscriptomeCompendium": [
         "Biobase",
@@ -37062,7 +37045,6 @@
         "vctrs",
         "visNetwork",
         "waldo",
-        "whisker",
         "xopen"
     ],
     "infercnv": [
@@ -37751,7 +37733,6 @@
         "viridis",
         "visNetwork",
         "waldo",
-        "whisker",
         "wordcloud2"
     ],
     "IntEREst": [
@@ -42899,8 +42880,7 @@
         "usethis",
         "vctrs",
         "vroom",
-        "waldo",
-        "whisker"
+        "waldo"
     ],
     "MEIGOR": [
         "CNORode",
@@ -43036,8 +43016,7 @@
         "usethis",
         "vctrs",
         "vroom",
-        "waldo",
-        "whisker"
+        "waldo"
     ],
     "MeSHDbi": [
         "AnnotationDbi",
@@ -44895,7 +44874,6 @@
         "vctrs",
         "vroom",
         "waldo",
-        "whisker",
         "xopen",
         "xts",
         "zoo"
@@ -45505,7 +45483,6 @@
         "usethis",
         "vctrs",
         "waldo",
-        "whisker",
         "xopen"
     ],
     "MetNet": [
@@ -46361,8 +46338,7 @@
         "tweenr",
         "usethis",
         "vctrs",
-        "viridis",
-        "whisker"
+        "viridis"
     ],
     "MicrobiotaProcess": [
         "Biobase",
@@ -50824,8 +50800,7 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridis",
-        "whisker"
+        "viridis"
     ],
     "MultiDataSet": [
         "Biobase",
@@ -51185,7 +51160,6 @@
         "vctrs",
         "viridis",
         "waldo",
-        "whisker",
         "xopen",
         "zoo"
     ],
@@ -53359,8 +53333,7 @@
         "tfautograph",
         "tfruns",
         "tidyselect",
-        "vctrs",
-        "whisker"
+        "vctrs"
     ],
     "NewWave": [
         "Biobase",
@@ -54196,8 +54169,7 @@
         "vctrs",
         "viridis",
         "vroom",
-        "waldo",
-        "whisker"
+        "waldo"
     ],
     "odseq": [
         "Biostrings",
@@ -55613,7 +55585,6 @@
         "usethis",
         "vctrs",
         "waldo",
-        "whisker",
         "xopen"
     ],
     "optimalFlow": [
@@ -56635,8 +56606,7 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "waldo",
-        "whisker"
+        "waldo"
     ],
     "parglms": [
         "BBmisc",
@@ -56826,7 +56796,6 @@
         "vegan",
         "waldo",
         "webshot",
-        "whisker",
         "xopen"
     ],
     "pathRender": [
@@ -65265,8 +65234,7 @@
         "vctrs"
     ],
     "RGraph2js": [
-        "graph",
-        "whisker"
+        "graph"
     ],
     "Rgraphviz": [
         "graph"
@@ -66514,7 +66482,6 @@
         "usethis",
         "vctrs",
         "waldo",
-        "whisker",
         "xopen"
     ],
     "rmspc": [
@@ -69200,7 +69167,6 @@
         "tidyselect",
         "uwot",
         "vctrs",
-        "whisker",
         "zoo"
     ],
     "SCAN.UPC": [
@@ -77759,7 +77725,6 @@
         "vctrs",
         "viridis",
         "waldo",
-        "whisker",
         "xopen"
     ],
     "sscore": [
@@ -83296,8 +83261,7 @@
         "tidyr",
         "tidyselect",
         "usethis",
-        "vctrs",
-        "whisker"
+        "vctrs"
     ],
     "tRNA": [
         "Biostrings",
@@ -83555,7 +83519,6 @@
         "viridis",
         "visNetwork",
         "vroom",
-        "whisker",
         "zoo"
     ],
     "TTMap": [
@@ -84398,7 +84361,6 @@
         "visNetwork",
         "vroom",
         "webchem",
-        "whisker",
         "zoo"
     ],
     "VanillaICE": [
@@ -86033,8 +85995,7 @@
         "tibble",
         "tidyselect",
         "usethis",
-        "vctrs",
-        "whisker"
+        "vctrs"
     ],
     "wppi": [
         "Matrix",
@@ -88349,7 +88310,6 @@
         "httr",
         "openssl"
     ],
-    "whisker": [],
     "repmis": [
         "R.cache",
         "R.oo",
@@ -90218,9 +90178,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "rslurm": [
-        "whisker"
-    ],
+    "rslurm": [],
     "sjlabelled": [
         "datawizard"
     ],
@@ -90714,12 +90672,9 @@
         "tibble",
         "triebeard",
         "urltools",
-        "vctrs",
-        "whisker"
+        "vctrs"
     ],
-    "fauxpas": [
-        "whisker"
-    ],
+    "fauxpas": [],
     "styler": [
         "R.cache",
         "R.oo",
@@ -90737,8 +90692,7 @@
         "httr",
         "lifecycle",
         "openssl",
-        "purrr",
-        "whisker"
+        "purrr"
     ],
     "gert": [
         "askpass",
@@ -91519,7 +91473,6 @@
         "usethis",
         "vctrs",
         "waldo",
-        "whisker",
         "xopen"
     ],
     "pkgdown": [
@@ -91550,8 +91503,7 @@
         "textshaping",
         "tibble",
         "tinytex",
-        "vctrs",
-        "whisker"
+        "vctrs"
     ],
     "profvis": [
         "ellipsis",
@@ -93646,8 +93598,7 @@
         "tfautograph",
         "tfruns",
         "tidyselect",
-        "vctrs",
-        "whisker"
+        "vctrs"
     ],
     "mltools": [
         "Matrix"
@@ -93663,8 +93614,7 @@
         "tfautograph",
         "tfruns",
         "tidyselect",
-        "vctrs",
-        "whisker"
+        "vctrs"
     ],
     "tfruns": [
         "Matrix",
@@ -93674,8 +93624,7 @@
         "lifecycle",
         "reticulate",
         "tidyselect",
-        "vctrs",
-        "whisker"
+        "vctrs"
     ],
     "config": [],
     "tfautograph": [
@@ -94030,8 +93979,7 @@
         "tibble",
         "usethis",
         "vctrs",
-        "waldo",
-        "whisker"
+        "waldo"
     ],
     "metap": [
         "Biobase",
@@ -95742,8 +95690,7 @@
         "shiny",
         "stringr",
         "usethis",
-        "vctrs",
-        "whisker"
+        "vctrs"
     ],
     "shinyalert": [
         "bslib",
@@ -97356,7 +97303,6 @@
         "usethis",
         "vctrs",
         "waldo",
-        "whisker",
         "xopen"
     ],
     "googleAuthR": [
@@ -97975,8 +97921,7 @@
         "tfautograph",
         "tfruns",
         "tidyselect",
-        "vctrs",
-        "whisker"
+        "vctrs"
     ],
     "matrixLaplacian": [],
     "Matching": [],
