@@ -193,7 +193,7 @@ jobs:
         id: tar
         run: |
           echo name=$(ls /tmp/tars/ | grep ${{matrix.pkg}} | sed 's#/tmp/tars/##g') >> $GITHUB_OUTPUT
-          cd ${{ steps.versions.outputs.library }}/../ && tar -zcvf "${{ matrix.pkg }}.tar.gz" "$(basename ${{ steps.versions.outputs.library }}"
+          cd ${{ steps.versions.outputs.library }}/../ && tar -zcvf "${{ matrix.pkg }}.tar.gz" "$(basename ${{ steps.versions.outputs.library }})"
         if: steps.pkgbuild.outcome=='success'
 
       - name: Push failed before exit
