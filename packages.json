@@ -82083,7 +82083,6 @@
         "plyr",
         "png",
         "polynom",
-        "poorman",
         "praise",
         "prettyunits",
         "processx",
@@ -88890,7 +88889,6 @@
         "pillar",
         "plogr",
         "png",
-        "poorman",
         "prettyunits",
         "progress",
         "purrr",
@@ -104507,7 +104505,6 @@
         "plogr",
         "plotly",
         "png",
-        "poorman",
         "prettyunits",
         "progress",
         "promises",
@@ -129033,7 +129030,6 @@
         "pillar",
         "plogr",
         "png",
-        "poorman",
         "prettyunits",
         "progress",
         "purrr",
@@ -157104,8 +157100,7 @@
         "zlibbioc"
     ],
     "philentropy": [
-        "Rcpp",
-        "poorman"
+        "Rcpp"
     ],
     "shinyjqui": [
         "R6",
@@ -157137,7 +157132,6 @@
         "xtable",
         "yaml"
     ],
-    "poorman": [],
     "grImport": [
         "XML"
     ],
@@ -157958,7 +157952,6 @@
         "pillar",
         "plogr",
         "png",
-        "poorman",
         "prettyunits",
         "progress",
         "purrr",
