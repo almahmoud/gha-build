@@ -118233,7 +118233,6 @@
         "rpart",
         "rstudioapi",
         "scales",
-        "seq2pathway.data",
         "stringi",
         "stringr",
         "survival",
@@ -163871,7 +163870,6 @@
         "withr"
     ],
     "chromhmmData": [],
-    "seq2pathway.data": [],
     "cvTools": [
         "lattice",
         "robustbase"
