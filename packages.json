@@ -57353,7 +57353,6 @@
         "scales",
         "snow",
         "svDialogs",
-        "svGUI",
         "tibble",
         "vctrs",
         "viridisLite",
@@ -128676,10 +128675,8 @@
         "zlibbioc"
     ],
     "svDialogs": [
-        "rstudioapi",
-        "svGUI"
+        "rstudioapi"
     ],
-    "svGUI": [],
     "EnsDb.Hsapiens.v75": [
         "AnnotationDbi",
         "AnnotationFilter",
