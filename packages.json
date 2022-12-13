@@ -75822,7 +75822,6 @@
         "rappdirs",
         "rlang",
         "survival",
-        "svd",
         "vctrs",
         "zlibbioc"
     ],
@@ -153352,7 +153351,6 @@
     ],
     "countrycode": [],
     "NMI": [],
-    "svd": [],
     "MKmisc": [
         "MASS",
         "Matrix",
