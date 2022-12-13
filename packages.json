@@ -42797,7 +42797,6 @@
         "cli",
         "cpp11",
         "digest",
-        "effsize",
         "ellipsis",
         "farver",
         "furrr",
@@ -145836,7 +145835,6 @@
     "lars": [],
     "gcspikelite": [],
     "SPARQL": [],
-    "effsize": [],
     "ggiraph": [
         "MASS",
         "Matrix",
