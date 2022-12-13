@@ -110731,7 +110731,6 @@
         "zlibbioc",
         "zoo"
     ],
-    "SCBN": [],
     "scBubbletree": [
         "BH",
         "FNN",
@@ -127706,7 +127705,6 @@
         "RcppEigen",
         "RcppNumerical",
         "S4Vectors",
-        "SCBN",
         "SummarizedExperiment",
         "XML",
         "XVector",
