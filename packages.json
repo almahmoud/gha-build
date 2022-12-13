@@ -109185,7 +109185,6 @@
         "magrittr",
         "mime",
         "objectProperties",
-        "objectSignals",
         "openssl",
         "rlang",
         "stringi",
@@ -150029,10 +150028,7 @@
         "withr",
         "yaml"
     ],
-    "objectProperties": [
-        "objectSignals"
-    ],
-    "objectSignals": [],
+    "objectProperties": [],
     "mlr3": [
         "PRROC",
         "R6",
