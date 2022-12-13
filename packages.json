@@ -13139,7 +13139,6 @@
         "progress",
         "purrr",
         "qpgraph",
-        "qtl",
         "restfulr",
         "rtracklayer",
         "stringr",
@@ -60708,7 +60707,6 @@
         "pillar",
         "progress",
         "purrr",
-        "qtl",
         "restfulr",
         "rtracklayer",
         "stringr",
@@ -81621,7 +81619,6 @@
         "openssl",
         "pillar",
         "plyr",
-        "qtl",
         "qvalue",
         "reshape2",
         "scales",
@@ -91229,7 +91226,6 @@
         "graph",
         "igraph"
     ],
-    "qtl": [],
     "phylobase": [
         "RNeXML",
         "ade4",
