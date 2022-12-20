@@ -145,8 +145,8 @@ jobs:
 
       - name: Get dependency artifacts 
         run: |
-          # Install gh cli and jq
-          curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg && sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg && echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null && sudo apt update && sudo apt install gh jq -y
+          # Install gh cli, jq, time
+          curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg && sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg && echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null && sudo apt update && sudo apt install gh jq time -y
           PKG=${{ matrix.pkg }}
           cat /tmp/directdeps | xargs -i bash .github/scripts/download_artifact.sh {} ${{ steps.versions.outputs.library }} ${{github.repository}}
         env:
@@ -158,7 +158,7 @@ jobs:
         run: |
           PKG="${{ matrix.pkg }}"
           mkdir -p logs/times/rstudio-binary/
-          time bash .github/scripts/build_package.sh ${{ steps.versions.outputs.library }} $PKG > logs/times/rstudio-binary/$PKG
+          (time bash .github/scripts/build_package.sh ${{ steps.versions.outputs.library }} $PKG ) > logs/times/rstudio-binary/$PKG
         continue-on-error: true
 
       - name: Get tar name
