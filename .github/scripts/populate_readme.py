@@ -43,6 +43,8 @@ for pkg in list(pkgs):
         if sizeinfo:
             size_b = int(sizeinfo.split(" ")[0])
             tartext = f"{humanize.naturalsize(size_b)} {tarname}"
+        if not tartext:
+            tartext = tarname
         tartext = f"[{tartext}](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/{tarname})"
     tables[status].append([name, status, tartext])\
 
