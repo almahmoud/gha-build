@@ -3,7 +3,7 @@ from os.path import exists
 from tabulate import tabulate
 with open("alldeps.json", "r") as f:
     pkgs = json.load(f)
-import requests, time
+import requests, time, humanize
 
 tables = {"Failed": [], "Unclaimed": [], "Succeeded": []}
 
@@ -36,8 +36,15 @@ for pkg in list(pkgs):
     if plog.endswith("tar.gz\n"):
         status = "Succeeded"
         tarname = plog.strip()
-        tarname = f"[{tarname}](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/{tarname})"
-    tables[status].append([name, status, tarname])\
+        sizeinfo = ""
+        if exists(f"logs/sizes/rstudio-binaries/binaries/{pkg}"):
+            with open(f"logs/sizes/rstudio-binaries/binaries/{pkg}", "r") as sf:
+                sizeinfo = sf.read()
+        if sizeinfo:
+            size_b = int(sizeinfo.split(" ")[0])
+            tartext = f"{humanize.naturalsize(size_b)} {tarname}"
+        tartext = f"[{tartext}](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/{tarname})"
+    tables[status].append([name, status, tartext])\
 
 for each in tables["Failed"]:
     logurl = each[2]

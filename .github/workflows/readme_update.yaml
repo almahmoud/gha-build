@@ -9,12 +9,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: |
-          python -m pip install tabulate
+          python -m pip install tabulate humanize
           python .github/scripts/populate_readme.py
           mkdir -p /tmp
           cp README.md /tmp/README.md
           COMMIT=$(git rev-parse --short HEAD)
           sed -i "s#/main/#/$COMMIT/#g" /tmp/README.md
+          sed -i "s#/rstudio-binaries/#/rstudio-binaries/$(cat runstarttime)/#g" /tmp/README.md
 
       - name: Update README and push
         uses: nick-fields/retry@v2

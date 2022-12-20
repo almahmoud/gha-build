@@ -71,12 +71,14 @@ jobs:
             git config --global --add safe.directory "$GITHUB_WORKSPACE"
             git pull origin main || git reset --hard origin/main
             cp /tmp/newtobuild tobuild.txt
-            mkdir -p lists/dispatchlists
-            cp /tmp/pkglist lists/dispatchlists/${{ steps.uniq.outputs.time }}_pkglist
+            mkdir -p logs/dispatchlists
+            mkdir -p lists
+            cp /tmp/pkglist logs/dispatchlists/${{ steps.uniq.outputs.time }}_pkglist
             cat /tmp/pkglist | xargs -i sed -i 's/readytobuild/claimed/g' "lists/{}"
             git config user.name github-actions
             git config user.email github-actions@github.com
             git add lists
+            git add logs
             git add tobuild.txt
             git commit -m "Updating tobuild list"
             git push
@@ -166,6 +168,7 @@ jobs:
           # make tar of library
           cd $(dirname ${{ steps.versions.outputs.library }}) && tar -zcvf "${{ matrix.pkg }}.tar.gz" "$(basename ${{ steps.versions.outputs.library }})"
           echo name=$(echo "$(dirname ${{ steps.versions.outputs.library }})/${{ matrix.pkg }}.tar.gz") >> $GITHUB_OUTPUT
+
         if: steps.pkgbuild.outcome=='success'
 
       - name: Push failed before exit
@@ -178,6 +181,10 @@ jobs:
             PKG="${{ matrix.pkg }}"
             git pull origin main || git reset --hard origin/main
             mkdir -p lists/failed
+            mkdir -p logs/sizes/rstudio-binaries/libraries
+            mkdir -p logs/sizes/rstudio-binaries/binaries
+            wc -c "${{steps.tar.outputs.name}}" > logs/sizes/rstudio-binaries/libraries/$PKG
+            wc -c "/tmp/tars/${{steps.tar.outputs.pkg}}" > logs/sizes/rstudio-binaries/binaries/$PKG
             cp /tmp/$PKG lists/failed/$PKG;
             git config user.name github-actions
             git config user.email github-actions@github.com
