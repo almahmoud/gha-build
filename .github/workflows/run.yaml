@@ -110,7 +110,7 @@ jobs:
           command: |
             set -x
             mkdir -p /tmp/logs/run_ids/container
-            echo "${{ steps.jobs.outputs.html_url }}" >> /tmp/logs/run_ids/container/${{ matrix.pkg }}
+            echo "${{ steps.jobs.outputs.html_url }}" >> /tmp/logs/run_ids/rstudio-binaries/${{ matrix.pkg }}
             git config --global --add safe.directory "$GITHUB_WORKSPACE"
             git pull origin main || git reset --hard origin/main
             git config user.name github-actions
@@ -118,9 +118,9 @@ jobs:
             mkdir -p logs/run_ids/container
             PKG="${{ matrix.pkg }}"
             sed -i 's/claimed/building/g' "lists/$PKG"
-            cat /tmp/logs/run_ids/container/$PKG >> logs/run_ids/container/$PKG
+            cat /tmp/logs/run_ids/rstudio-binaries/$PKG >> logs/run_ids/rstudio-binaries/$PKG
             # Add workflow URL as backup, in case above failed
-            echo "${{ github.repository }}/actions/runs/${{ github.run_id }}" >> logs/run_ids/container/$PKG
+            echo "${{ github.repository }}/actions/runs/${{ github.run_id }}" >> logs/run_ids/rstudio-binaries/$PKG
             git add logs
             git commit -m "push run_id container $PKG"
             git push
@@ -215,7 +215,7 @@ jobs:
           command: |
             set -x
             # Push binary
-            rclone copy /tmp/tars/${{steps.tar.outputs.pkg}} js2:/gha-build/container/$(cat runstarttime)/ -vvvvvv
+            rclone copy /tmp/tars/${{steps.tar.outputs.pkg}} js2:/gha-build/rstudio-binaries/$(cat runstarttime)/ -vvvvvv
             # Push copy of library
             rclone copy ${{steps.tar.outputs.name}} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/$(cat runstarttime)/ -vvvvvv
 

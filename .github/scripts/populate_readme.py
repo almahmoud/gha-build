@@ -14,8 +14,8 @@ for pkg in list(pkgs):
     status = "Unclaimed"
     tarname = ""
     plog = ""
-    if exists(f"logs/run_ids/container/{pkg}"):
-        with open(f"logs/run_ids/container/{pkg}", "r") as frun:
+    if exists(f"logs/run_ids/rstudio-binaries/{pkg}"):
+        with open(f"logs/run_ids/rstudio-binaries/{pkg}", "r") as frun:
             runid = frun.read()
             runurls = runid.strip().replace("null\n", "").split("\n")
             runurl = ""
@@ -36,7 +36,7 @@ for pkg in list(pkgs):
     if plog.endswith("tar.gz\n"):
         status = "Succeeded"
         tarname = plog.strip()
-        tarname = f"[{tarname}](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/container/{tarname})"
+        tarname = f"[{tarname}](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/{tarname})"
     tables[status].append([name, status, tarname])\
 
 for each in tables["Failed"]:
