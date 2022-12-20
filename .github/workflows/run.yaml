@@ -22,7 +22,7 @@ jobs:
         run: |
           echo "time=$(TZ=EST date '+%Y-%m-%d_%H-%M')" >> $GITHUB_OUTPUT
 
-      - name: Initialize if necessary
+      - name: Initialize to build list
         id: claim
         uses: nick-fields/retry@v2
         with:
@@ -36,20 +36,26 @@ jobs:
             git config user.email github-actions@github.com
             bash .github/scripts/list_tobuild.sh
 
-      - id: matrix
+      - name: Output list of up to 90 packages to build
+        id: matrix
         run: |
           mkdir -p /tmp
           head -n90 tobuild.txt > /tmp/pkglist
+          # Output it as json parsable list "['pkg1', 'pkg2']"
           echo pkglist=$(echo "['$(cat /tmp/pkglist |  paste -d, -s | sed s/,/\',\'/g)']") >> $GITHUB_OUTPUT
+          # Remove first 90 liunes from to build
           sed '1,90d' tobuild.txt > /tmp/newtobuild
 
-      - id: tokenlist
+      - name: Set token depending on whether a new workflow is needed
+        id: tokenlist
         run: |
           # PAT will trigger a push workflow, GITHUB_TOKEN won't
+          # Trigger a new workflow if tobuild is not empty
           if [ -s tobuild.txt ]; then TOK=${{secrets.PAT}}; else TOK=${{secrets.GITHUB_TOKEN}}; fi
           echo tok=$(echo "$TOK") >> $GITHUB_OUTPUT
 
-      - uses: actions/checkout@v3
+      - name: Checkout with new token
+        uses: actions/checkout@v3
         with:
           token: ${{ steps.tokenlist.outputs.tok }}
           persist-credentials: true
@@ -95,47 +101,6 @@ jobs:
           job_name: build (${{ matrix.pkg }})
           per_page: 100
 
-      - id: checkurl
-        run: |
-          JOBURL="${{ steps.jobs.outputs.html_url }}"
-          mkdir -p /tmp/logs/run_ids/container
-          if [ "$JOBURL" = "null" ]; then sleep 20; exit 1; else if [ "$JOBURL" = "" ]; then sleep 20; exit 1; else echo "$JOBURL" >> /tmp/logs/run_ids/container/${{ matrix.pkg }}; exit 0; fi; fi;
-        continue-on-error: true
-
-      - name: Get Current Job Log URL x2
-        uses: Tiryoh/gha-jobid-action@v0
-        if: steps.checkurl.outcome=='failure'
-        id: jobs2
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          job_name: build (${{ matrix.pkg }})
-          per_page: 100
-
-      - id: checkurl2
-        if: steps.checkurl.outcome=='failure'
-        run: |
-          JOBURL="${{ steps.jobs2.outputs.html_url }}"
-          mkdir -p /tmp/logs/run_ids/container
-          if [ "$JOBURL" = "null" ]; then sleep 20; exit 1; else if [ "$JOBURL" = "" ]; then sleep 20; exit 1; else echo "$JOBURL" >> /tmplogs/run_ids/container/${{ matrix.pkg }}; exit 0; fi; fi;
-        continue-on-error: true
-
-      - name: Get Current Job Log URL x3
-        uses: Tiryoh/gha-jobid-action@v0
-        if: steps.checkurl2.outcome=='failure'
-        id: jobs3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          job_name: build (${{ matrix.pkg }})
-          per_page: 100
-
-      - id: checkurl3
-        if: steps.checkurl2.outcome=='failure'
-        run: |
-          JOBURL="${{ steps.jobs3.outputs.html_url }}"
-          mkdir -p /tmp/logs/run_ids/container
-          if [ "$JOBURL" = "null" ]; then sleep 20; exit 1; else if [ "$JOBURL" = "" ]; then sleep 20; exit 1; else echo "$JOBURL" >> /tmp/logs/run_ids/container/${{ matrix.pkg }}; exit 0; fi; fi;
-        continue-on-error: true
-
       - name: Push run_id
         uses: nick-fields/retry@v2
         with:
@@ -144,6 +109,8 @@ jobs:
           shell: bash
           command: |
             set -x
+            mkdir -p /tmp/logs/run_ids/container
+            echo "${{ steps.jobs.outputs.html_url }}" >> /tmp/logs/run_ids/container/${{ matrix.pkg }}
             git config --global --add safe.directory "$GITHUB_WORKSPACE"
             git pull origin main || git reset --hard origin/main
             git config user.name github-actions
@@ -152,6 +119,7 @@ jobs:
             PKG="${{ matrix.pkg }}"
             sed -i 's/claimed/building/g' "lists/$PKG"
             cat /tmp/logs/run_ids/container/$PKG >> logs/run_ids/container/$PKG
+            # Add workflow URL as backup, in case above failed
             echo "${{ github.repository }}/actions/runs/${{ github.run_id }}" >> logs/run_ids/container/$PKG
             git add logs
             git commit -m "push run_id container $PKG"
@@ -181,18 +149,21 @@ jobs:
           cat /tmp/directdeps | xargs -i bash .github/scripts/download_artifact.sh {} ${{ steps.versions.outputs.library }} ${{github.repository}}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
 
       - name: Build claimed package
         id: pkgbuild
         run: |
           PKG="${{ matrix.pkg }}"
-          bash .github/scripts/build_package.sh ${{ steps.versions.outputs.library }} $PKG
+          mkdir -p logs/times/rstudio-binary/
+          time bash .github/scripts/build_package.sh ${{ steps.versions.outputs.library }} $PKG > logs/times/rstudio-binary/$PKG
         continue-on-error: true
 
       - name: Get tar name
         id: tar
         run: |
           echo pkg=$(ls /tmp/tars/ | grep ${{matrix.pkg}} | sed 's#/tmp/tars/##g') >> $GITHUB_OUTPUT
+          # make tar of library
           cd $(dirname ${{ steps.versions.outputs.library }}) && tar -zcvf "${{ matrix.pkg }}.tar.gz" "$(basename ${{ steps.versions.outputs.library }})"
           echo name=$(echo "$(dirname ${{ steps.versions.outputs.library }})/${{ matrix.pkg }}.tar.gz") >> $GITHUB_OUTPUT
         if: steps.pkgbuild.outcome=='success'
@@ -211,6 +182,7 @@ jobs:
             git config user.name github-actions
             git config user.email github-actions@github.com
             git add lists
+            git add logs
             git commit -m "Marked failed $PKG"
             git push
         if: steps.pkgbuild.outcome=='failure'
@@ -235,9 +207,17 @@ jobs:
           RCLONE_CONF: ${{secrets.RCLONE_CONF}}
 
       - name: Rclone push package
-        run: |
-          set -x
-          rclone copy /tmp/tars/${{steps.tar.outputs.pkg}} js2:/gha-build/container/ -vvvvvv
+        uses: nick-fields/retry@v2
+        with:
+          timeout_minutes: 20
+          max_attempts: 3
+          shell: bash
+          command: |
+            set -x
+            # Push binary
+            rclone copy /tmp/tars/${{steps.tar.outputs.pkg}} js2:/gha-build/container/$(cat runstarttime)/ -vvvvvv
+            # Push copy of library
+            rclone copy ${{steps.tar.outputs.name}} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/$(cat runstarttime)/ -vvvvvv
 
       - name: Rclone mark as pushed
         uses: nick-fields/retry@v2

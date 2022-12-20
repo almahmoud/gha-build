@@ -27,17 +27,6 @@ for pkg in list(pkgs):
             if "github.com" not in runurl:
                 runurl = f"https://github.com/{runurl}"
             name = f"[{pkg}]({runurl})"
-    # if "https://github.com/" in runid:
-    #     runurl = runid.strip().replace("null\n", "").split("\n")[-1]
-    #     r = requests.get(runurl)
-    #     while r.status_code not in [404, 200]:
-    #         r = requests.get(runurl)
-    #     if r.status_code == 404:
-    #         runurl = runurl.replace("gha-build", "gha-build-old")
-    #         while r.status_code not in [404, 200]:
-    #             r = requests.get(runurl)
-    #     if r.status_code == 200:
-    #         name = f"[{pkg}]({runurl})"
     if exists(f"lists/failed/{pkg}"):
         status = "Failed"
         tarname = f"https://github.com/almahmoud/gha-build/blob/main/lists/failed/{pkg}"

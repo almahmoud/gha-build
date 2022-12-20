@@ -24,6 +24,8 @@ jobs:
           mv README.md "$ARCHIVEDIR"/ || true
           mv lists "$ARCHIVEDIR"/lists || true
           mv logs "$ARCHIVEDIR"/logs || true
+          sed -i "s#/lists/#/$ARCHIVEDIR/lists/#g" "$ARCHIVEDIR/README.md"
+          sed -i "s#/logs/#/$ARCHIVEDIR/logs/#g" "$ARCHIVEDIR/README.md"
 
       - shell: sh
         run: |
@@ -39,7 +41,7 @@ jobs:
           f.write(json.dumps(pkgs, indent=4))
           f.close()"""
           cp packages.json alldeps.json
-          echo "$(TZ=EST date '+%Y-%m-%d_%H-%M')" > runstarttime
+          echo "$(TZ=EST date '+%Y-%m-%d-%H-%M')" > runstarttime
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
