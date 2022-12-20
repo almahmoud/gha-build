@@ -40,6 +40,7 @@ for pkg in list(pkgs):
         if exists(f"logs/sizes/rstudio-binaries/binaries/{pkg}"):
             with open(f"logs/sizes/rstudio-binaries/binaries/{pkg}", "r") as sf:
                 sizeinfo = sf.read()
+        tartext = ""
         if sizeinfo:
             size_b = int(sizeinfo.split(" ")[0])
             tartext = f"{humanize.naturalsize(size_b)} {tarname}"

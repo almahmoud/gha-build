@@ -224,7 +224,7 @@ jobs:
             # Push binary
             rclone copy /tmp/tars/${{steps.tar.outputs.pkg}} js2:/gha-build/rstudio-binaries/$(cat runstarttime)/ -vvvvvv
             # Push copy of library
-            rclone copy ${{steps.tar.outputs.name}} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/$(cat runstarttime)/ -vvvvvv
+            rclone copy ${{steps.tar.outputs.name}} js2:/gha-build/running/$(cat runstarttime)/ -vvvvvv
 
       - name: Rclone mark as pushed
         uses: nick-fields/retry@v2
