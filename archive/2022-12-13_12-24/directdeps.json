@@ -72,6 +72,7 @@
     ],
     "ADAM": [
         "GO.db",
+        "knitr",
         "pbapply",
         "dplyr",
         "DT",
@@ -208,6 +209,7 @@
         "multtest"
     ],
     "alevinQC": [
+        "rmarkdown",
         "GGally",
         "rjson",
         "shinydashboard",
@@ -220,6 +222,7 @@
         "seqinr"
     ],
     "AlphaBeta": [
+        "stringr",
         "gtools",
         "optimx",
         "expm",
@@ -256,6 +259,7 @@
         "limma",
         "readr",
         "reshape2",
+        "rmarkdown",
         "ggplot2",
         "gridExtra"
     ],
@@ -412,6 +416,7 @@
     ],
     "AnVILPublish": [
         "AnVIL",
+        "rmarkdown",
         "readr",
         "whisker"
     ],
@@ -516,6 +521,7 @@
         "pheatmap",
         "plotly",
         "seqinr",
+        "stringr",
         "UpSetR",
         "VennDiagram"
     ],
@@ -791,6 +797,7 @@
         "ResidualMatrix"
     ],
     "BatchQC": [
+        "rmarkdown",
         "pander",
         "gplots",
         "MCMCpack",
@@ -1245,6 +1252,7 @@
         "plyr",
         "Hmisc",
         "psych",
+        "rmarkdown",
         "markdown"
     ],
     "BioQC": [
@@ -1419,6 +1427,7 @@
         "BiocParallel",
         "crayon",
         "tidyr",
+        "xml2",
         "BiocFileCache"
     ],
     "BRGenomics": [
@@ -1591,6 +1600,7 @@
         "S4Vectors",
         "Biobase",
         "matter",
+        "magrittr",
         "mclust",
         "nlme",
         "signal",
@@ -1847,6 +1857,7 @@
         "ggthemes",
         "sna",
         "clusterProfiler",
+        "rmarkdown",
         "DT",
         "pracma",
         "intergraph",
@@ -1960,6 +1971,7 @@
         "png",
         "DT",
         "rsvg",
+        "stringi",
         "BH"
     ],
     "CHETAH": [
@@ -2022,7 +2034,8 @@
     "ChIPexoQual": [
         "biovizBase",
         "broom",
-        "hexbin"
+        "hexbin",
+        "rmarkdown"
     ],
     "ChIPpeakAnno": [
         "ensembldb",
@@ -2608,6 +2621,7 @@
     "ComPrAn": [
         "ggplot2",
         "tidyr",
+        "stringr",
         "DT",
         "VennDiagram",
         "rio",
@@ -2806,6 +2820,7 @@
         "Rfast"
     ],
     "countsimQC": [
+        "rmarkdown",
         "edgeR",
         "DESeq2",
         "tidyr",
@@ -2875,7 +2890,8 @@
     "crisprScore": [
         "crisprScoreData",
         "basilisk",
-        "randomForest"
+        "randomForest",
+        "stringr"
     ],
     "CRISPRseek": [
         "seqinr",
@@ -2926,6 +2942,7 @@
         "miniUI",
         "oligo",
         "reader",
+        "stringr",
         "sva",
         "shinyWidgets",
         "shinypanel",
@@ -3270,11 +3287,11 @@
         "minfi"
     ],
     "decoupleR": [
-        "broom",
-        "Matrix"
+        "broom"
     ],
     "DeepBlueR": [
         "data.table",
+        "stringr",
         "diffr",
         "dplyr",
         "R.utils",
@@ -3398,6 +3415,7 @@
         "ComplexHeatmap",
         "shinydashboard",
         "DT",
+        "rmarkdown",
         "assertthat",
         "gridExtra",
         "imputeLCMD"
@@ -3947,6 +3965,7 @@
         "hwriter",
         "gplots",
         "safe",
+        "stringi",
         "metap",
         "org.Mm.eg.db",
         "org.Rn.eg.db",
@@ -3972,6 +3991,7 @@
         "ComplexHeatmap",
         "MultiAssayExperiment",
         "plotly",
+        "rmarkdown",
         "reshape2",
         "ggpubr"
     ],
@@ -4055,7 +4075,8 @@
         "BRGenomics",
         "ChIPseeker",
         "genomation",
-        "plotly"
+        "plotly",
+        "rmarkdown"
     ],
     "epidecodeR": [
         "EnvStats",
@@ -4588,6 +4609,7 @@
         "igraph",
         "matrixStats",
         "visNetwork",
+        "stringr",
         "Rdpack",
         "data.table",
         "gridExtra"
@@ -5013,6 +5035,7 @@
         "GO.db",
         "plotly",
         "rintrojs",
+        "rmarkdown",
         "shinyAce",
         "shinycssloaders",
         "shinyWidgets",
@@ -5085,7 +5108,6 @@
     "GenomicDistributions": [
         "GenomicRanges",
         "data.table",
-        "ggplot2",
         "reshape2",
         "Biostrings",
         "broom"
@@ -5485,8 +5507,7 @@
         "readr",
         "tidyr",
         "viridis",
-        "biomaRt",
-        "topGO"
+        "biomaRt"
     ],
     "granulator": [
         "cowplot",
@@ -6123,6 +6144,7 @@
     ],
     "imcRtools": [
         "pheatmap",
+        "stringr",
         "readr",
         "cytomapper",
         "DT",
@@ -6143,6 +6165,7 @@
         "pheatmap",
         "gplots",
         "heatmaply",
+        "rmarkdown",
         "preprocessCore",
         "flowWorkspace"
     ],
@@ -6355,6 +6378,7 @@
     ],
     "ISAnalytics": [
         "tidyr",
+        "stringr",
         "lubridate",
         "ggrepel",
         "psych",
@@ -6538,6 +6562,7 @@
         "cqn",
         "kernlab",
         "rlist",
+        "rmarkdown",
         "randomForest",
         "caret",
         "praznik",
@@ -6616,7 +6641,8 @@
         "shinydashboard",
         "shinyjs",
         "xml2",
-        "testthat"
+        "testthat",
+        "rmarkdown"
     ],
     "lfa": [
         "corpcor"
@@ -6935,7 +6961,8 @@
         "LungCancerACvsSCCGEO"
     ],
     "mapscape": [
-        "htmlwidgets"
+        "htmlwidgets",
+        "stringr"
     ],
     "marr": [
         "Rcpp",
@@ -6997,6 +7024,7 @@
         "Hmisc",
         "imputeLCMD",
         "proDA",
+        "rmarkdown",
         "Rtsne",
         "shinydashboard",
         "shinyhelper",
@@ -7553,6 +7581,7 @@
         "shinydashboard",
         "shinycssloaders",
         "shinyWidgets",
+        "rmarkdown",
         "DESeq2",
         "readr",
         "DT",
@@ -7835,6 +7864,7 @@
         "reshape2",
         "GGally",
         "gridExtra",
+        "rmarkdown",
         "gplots",
         "beeswarm",
         "echarts4r"
@@ -8546,7 +8576,6 @@
         "car",
         "mppa",
         "BiocParallel",
-        "ggplot2",
         "reshape2"
     ],
     "ncdfFlow": [
@@ -8718,6 +8747,7 @@
         "plotly",
         "readr",
         "reshape2",
+        "rmarkdown",
         "zoo"
     ],
     "nnNorm": [
@@ -8772,8 +8802,7 @@
     ],
     "NPARC": [
         "BiocParallel",
-        "broom",
-        "MASS"
+        "broom"
     ],
     "npGSEA": [
         "GSEABase"
@@ -8893,6 +8922,7 @@
         "ALDEx2",
         "compositions",
         "DT",
+        "rmarkdown",
         "shiny",
         "vegan"
     ],
@@ -9041,7 +9071,8 @@
         "openPrimeR",
         "shinyjs",
         "shinyBS",
-        "DT"
+        "DT",
+        "rmarkdown"
     ],
     "OpenStats": [
         "Hmisc",
@@ -9339,7 +9370,8 @@
         "shinyAce",
         "threejs",
         "biomaRt",
-        "pheatmap"
+        "pheatmap",
+        "rmarkdown"
     ],
     "pcaMethods": [
         "Biobase",
@@ -9385,11 +9417,11 @@
     "peakPantheR": [
         "gridExtra",
         "MSnbase",
+        "stringr",
         "minpack.lm",
         "shinycssloaders",
         "DT",
-        "pracma",
-        "lubridate"
+        "pracma"
     ],
     "PECA": [
         "ROTS",
@@ -9507,7 +9539,6 @@
         "msgps",
         "logistf",
         "pingr",
-        "ggplot2",
         "reshape",
         "corrplot",
         "graph"
@@ -9625,11 +9656,13 @@
         "scran",
         "randomcoloR",
         "intrinsicDimension",
-        "scater"
+        "scater",
+        "knitr"
     ],
     "pipeFrame": [
         "BSgenome",
-        "visNetwork"
+        "visNetwork",
+        "rmarkdown"
     ],
     "pkgDepTools": [
         "RBGL"
@@ -9902,6 +9935,7 @@
         "FNN",
         "hexbin",
         "dendextend",
+        "knitr",
         "mvtnorm",
         "LaplacesDemon",
         "coda",
@@ -10346,6 +10380,7 @@
         "DT",
         "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicFeatures",
+        "rmarkdown",
         "genomation",
         "pbapply",
         "proxy",
@@ -11574,6 +11609,7 @@
         "dplyr"
     ],
     "scmeth": [
+        "rmarkdown",
         "bsseq",
         "annotatr"
     ],
@@ -11937,6 +11973,7 @@
         "gplots",
         "heatmaply",
         "minfi",
+        "rmarkdown",
         "shinyWidgets",
         "shinycssloaders",
         "shinyjs",
@@ -12175,6 +12212,7 @@
         "zinbwave",
         "scRNAseq",
         "TENxPBMCData",
+        "rmarkdown",
         "scDblFinder",
         "metap",
         "VAM",
@@ -12978,6 +13016,7 @@
     "systemPipeR": [
         "ShortRead",
         "ggplot2",
+        "stringr",
         "htmlwidgets"
     ],
     "systemPipeShiny": [
@@ -13185,11 +13224,13 @@
     "tidySingleCellExperiment": [
         "ttservice",
         "SingleCellExperiment",
-        "plotly"
+        "plotly",
+        "stringr"
     ],
     "tidySummarizedExperiment": [
         "SummarizedExperiment",
-        "plotly"
+        "plotly",
+        "stringr"
     ],
     "tigre": [
         "gplots",
@@ -13217,6 +13258,7 @@
     ],
     "timescape": [
         "htmlwidgets",
+        "stringr",
         "dplyr",
         "gtools"
     ],
@@ -13284,7 +13326,8 @@
         "GenomicRanges",
         "htmlwidgets",
         "data.table",
-        "Biobase"
+        "Biobase",
+        "knitr"
     ],
     "TOAST": [
         "EpiDISH",
@@ -13304,6 +13347,7 @@
     ],
     "tomoseqr": [
         "animation",
+        "stringr",
         "shiny",
         "BiocFileCache",
         "readr",
@@ -13334,7 +13378,6 @@
         "biobroom",
         "data.table",
         "doParallel",
-        "ggplot2",
         "gridExtra",
         "limma",
         "mefa",
@@ -13590,9 +13633,7 @@
         "dplyr",
         "gridExtra",
         "dtw",
-        "class",
         "kmlShape",
-        "cluster",
         "prettydoc",
         "ggplot2",
         "latex2exp",
@@ -14136,6 +14177,7 @@
     ],
     "flexdashboard": [
         "htmlwidgets",
+        "rmarkdown",
         "shiny",
         "scales"
     ],
@@ -14222,10 +14264,12 @@
     "DT": [
         "htmlwidgets",
         "crosstalk",
+        "jquerylib",
         "promises"
     ],
     "shiny": [
         "httpuv",
+        "mime",
         "xtable",
         "fontawesome",
         "sourcetools",
@@ -14999,7 +15043,6 @@
     "tidyverse": [
         "dbplyr",
         "dtplyr",
-        "ggplot2",
         "googlesheets4",
         "haven",
         "lubridate",
@@ -15067,7 +15110,6 @@
     ],
     "doBy": [
         "Deriv",
-        "ggplot2",
         "microbenchmark",
         "pbkrtest"
     ],
@@ -15264,7 +15306,9 @@
         "MASS"
     ],
     "htmlwidgets": [
-        "rmarkdown"
+        "htmltools",
+        "jsonlite",
+        "yaml"
     ],
     "reshape": [
         "plyr"
@@ -15283,7 +15327,8 @@
     "broom": [
         "backports",
         "stringr",
-        "tidyr"
+        "tidyr",
+        "ggplot2"
     ],
     "httpuv": [
         "promises"
@@ -15292,6 +15337,7 @@
         "lubridate",
         "car",
         "markdown",
+        "rmarkdown",
         "shinyAce",
         "psych",
         "DT",
@@ -15323,12 +15369,14 @@
         "influenceR",
         "readr",
         "rstudioapi",
+        "stringr",
         "tidyr",
         "viridis",
         "visNetwork"
     ],
     "visNetwork": [
-        "htmlwidgets"
+        "htmlwidgets",
+        "magrittr"
     ],
     "stringdist": [
 
@@ -15355,11 +15403,9 @@
     "car": [
         "carData",
         "abind",
-        "mgcv",
         "nnet",
         "pbkrtest",
-        "quantreg",
-        "scales"
+        "quantreg"
     ],
     "cpp11": [
 
@@ -15922,7 +15968,6 @@
         "broom",
         "coda",
         "forcats",
-        "nlme",
         "furrr"
     ],
     "dirmult": [
@@ -15930,7 +15975,6 @@
     ],
     "mice": [
         "broom",
-        "lattice",
         "Rcpp"
     ],
     "multcomp": [
@@ -16149,7 +16193,10 @@
 
     ],
     "rgl": [
-        "htmlwidgets"
+        "htmlwidgets",
+        "knitr",
+        "R6",
+        "mime"
     ],
     "scatterplot3d": [
 
@@ -17209,6 +17256,7 @@
     "shinyHeatmaply": [
         "heatmaply",
         "shiny",
+        "rmarkdown",
         "readxl"
     ],
     "shinybusy": [
@@ -17354,7 +17402,6 @@
     ],
     "logistf": [
         "mice",
-        "mgcv",
         "formula.tools"
     ],
     "BatchJobs": [
@@ -17564,8 +17611,7 @@
         "jsonlite",
         "sass",
         "jquerylib",
-        "memoise",
-        "mime"
+        "memoise"
     ],
     "vipor": [
 
@@ -17649,7 +17695,6 @@
         "lpSolve"
     ],
     "geepack": [
-        "MASS",
         "broom"
     ],
     "yeastCC": [
@@ -17819,6 +17864,7 @@
     "sesameData": [
         "ExperimentHub",
         "readr",
+        "stringr",
         "GenomicRanges"
     ],
     "FlowSorted.Blood.450k": [
@@ -17894,7 +17940,8 @@
         "ellipsis"
     ],
     "formattable": [
-        "htmlwidgets"
+        "htmlwidgets",
+        "rmarkdown"
     ],
     "HardyWeinberg": [
         "mice",
@@ -17995,7 +18042,6 @@
         "countrycode",
         "broom",
         "shiny",
-        "scales",
         "corrplot",
         "rstudioapi"
     ],
@@ -18498,7 +18544,8 @@
 
     ],
     "rhandsontable": [
-        "htmlwidgets"
+        "htmlwidgets",
+        "magrittr"
     ],
     "promises": [
         "R6",
@@ -18678,7 +18725,6 @@
     ],
     "valr": [
         "broom",
-        "ggplot2",
         "Rcpp",
         "readr",
         "rtracklayer"
@@ -19042,6 +19088,7 @@
         "raster",
         "rgdal",
         "rjson",
+        "stringr",
         "tiff"
     ],
     "elsa": [
@@ -19252,6 +19299,10 @@
         "MASS",
         "nlme"
     ],
+    "kmlShape": [
+        "kml",
+        "lattice"
+    ],
     "text2vec": [
         "rsparse",
         "stringi",
@@ -19275,6 +19326,7 @@
         "gridExtra",
         "htmlTable",
         "openxlsx",
+        "rmarkdown",
         "scales"
     ],
     "httpcache": [
@@ -19295,7 +19347,8 @@
     ],
     "shinyTree": [
         "shiny",
-        "htmlwidgets"
+        "htmlwidgets",
+        "stringr"
     ],
     "msigdb": [
         "ExperimentHub",
@@ -19347,9 +19400,6 @@
 
     },
     "vbsr": {
-
-    },
-    "kmlShape": {
 
     },
     "shape": [
@@ -19496,6 +19546,7 @@
         "lmom"
     ],
     "htmlTable": [
+        "knitr",
         "checkmate",
         "htmlwidgets",
         "rstudioapi"
@@ -19768,7 +19819,8 @@
         "xml2"
     ],
     "profvis": [
-        "htmlwidgets"
+        "htmlwidgets",
+        "stringr"
     ],
     "rcmdcheck": [
         "curl",
@@ -20216,6 +20268,7 @@
         "htmlwidgets",
         "markdown",
         "renv",
+        "rmarkdown",
         "rprojroot",
         "shiny"
     ],
@@ -20590,6 +20643,14 @@
     "RNifti": [
         "Rcpp"
     ],
+    "longitudinalData": [
+        "clv",
+        "rgl",
+        "misc3d"
+    ],
+    "kml": [
+        "longitudinalData"
+    ],
     "rsparse": [
         "MatrixExtra",
         "data.table",
@@ -20823,6 +20884,10 @@
     "lamW": [
         "Rcpp",
         "RcppParallel"
+    ],
+    "clv": [
+        "cluster",
+        "class"
     ],
     "MatrixExtra": [
         "Matrix",
