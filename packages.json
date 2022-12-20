@@ -166,7 +166,6 @@
     "ABSSeq": [
         "locfit"
     ],
-    "acde": [],
     "ACE": [
         "Biobase",
         "BiocParallel",
@@ -10669,7 +10668,6 @@
         "checkmate",
         "clusterProfiler",
         "coda",
-        "confintr",
         "cowplot",
         "crosstalk",
         "doParallel",
@@ -14287,7 +14285,6 @@
         "STRINGdb",
         "SummarizedExperiment",
         "XVector",
-        "acde",
         "affy",
         "affyio",
         "bit64",
@@ -43860,7 +43857,6 @@
         "callr",
         "car",
         "cellranger",
-        "confintr",
         "cowplot",
         "credentials",
         "crosstalk",
@@ -59665,7 +59661,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "Kendall",
         "Matrix",
         "MatrixModels",
         "R.cache",
@@ -90001,7 +89996,6 @@
     "ggpmisc": [
         "Matrix",
         "MatrixModels",
-        "confintr",
         "dplyr",
         "ggplot2",
         "ggpp",
@@ -90044,7 +90038,6 @@
         "xts",
         "zoo"
     ],
-    "confintr": [],
     "broom.mixed": [
         "Matrix",
         "broom",
@@ -96401,7 +96394,6 @@
         "vctrs"
     ],
     "ParallelLogger": [],
-    "Kendall": [],
     "pairsD3": [
         "bslib",
         "cachem",
