@@ -14910,7 +14910,6 @@
         "progress",
         "promises",
         "purrr",
-        "reader",
         "readr",
         "readxl",
         "rmarkdown",
@@ -79538,7 +79537,6 @@
         "here",
         "reticulate"
     ],
-    "reader": [],
     "shinypanel": [
         "bslib",
         "httpuv",
