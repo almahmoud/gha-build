@@ -12493,6 +12493,7 @@
         "dittoSeq",
         "alphahull",
         "spatstat.explore",
+        "xROI",
         "elsa",
         "Rtsne",
         "umap"
@@ -14537,7 +14538,7 @@
     ],
     "purrr": [
         "magrittr",
-        "vctrs"
+        "rlang"
     ],
     "glue": [
 
@@ -15235,6 +15236,7 @@
     ],
     "tidytext": [
         "dplyr",
+        "hunspell",
         "janeaustenr",
         "Matrix",
         "purrr",
@@ -15392,6 +15394,7 @@
         "purrr",
         "R.cache",
         "rprojroot",
+        "vctrs",
         "withr"
     ],
     "usethis": [
@@ -15401,6 +15404,7 @@
         "fs",
         "gert",
         "gh",
+        "lifecycle",
         "purrr",
         "rappdirs",
         "whisker",
@@ -15941,7 +15945,8 @@
     ],
     "furrr": [
         "future",
-        "purrr"
+        "purrr",
+        "vctrs"
     ],
     "ggraph": [
         "ggforce",
@@ -16432,7 +16437,8 @@
     "keras": [
         "generics",
         "tensorflow",
-        "zeallot"
+        "zeallot",
+        "ellipsis"
     ],
     "mltools": [
         "data.table",
@@ -19026,6 +19032,18 @@
         "spatstat.random",
         "splancs"
     ],
+    "xROI": [
+        "colourpicker",
+        "data.table",
+        "jpeg",
+        "lubridate",
+        "moments",
+        "RCurl",
+        "raster",
+        "rgdal",
+        "rjson",
+        "tiff"
+    ],
     "elsa": [
         "raster"
     ],
@@ -19647,6 +19665,10 @@
     "detectseparation": [
         "ROI.plugin.lpsolve",
         "pkgload"
+    ],
+    "hunspell": [
+        "Rcpp",
+        "digest"
     ],
     "janeaustenr": [
 
@@ -20477,6 +20499,9 @@
     "spData": [
         "sp"
     ],
+    "rgdal": [
+        "sp"
+    ],
     "MBA": [
         "BH"
     ],
@@ -20578,10 +20603,6 @@
     "koRpus.lang.en": [
         "koRpus",
         "sylly.en"
-    ],
-    "hunspell": [
-        "Rcpp",
-        "digest"
     ],
     "koRpus": [
         "sylly",
