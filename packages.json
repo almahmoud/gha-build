@@ -2740,7 +2740,6 @@
         "IRanges",
         "KEGGREST",
         "Matrix",
-        "R.cache",
         "RColorBrewer",
         "RCurl",
         "RSQLite",
@@ -7560,7 +7559,6 @@
         "xfun"
     ],
     "biocthis": [
-        "R.cache",
         "askpass",
         "cli",
         "credentials",
@@ -31591,7 +31589,6 @@
         "KEGGREST",
         "Matrix",
         "MatrixModels",
-        "R.cache",
         "RColorBrewer",
         "RCurl",
         "RSQLite",
@@ -43547,7 +43544,6 @@
     ],
     "HubPub": [
         "Matrix",
-        "R.cache",
         "askpass",
         "available",
         "aws.s3",
@@ -50530,7 +50526,6 @@
         "MsCoreUtils",
         "MsFeatures",
         "ProtGenerics",
-        "R.cache",
         "RBGL",
         "RColorBrewer",
         "RCurl",
@@ -60589,7 +60584,6 @@
         "Matrix",
         "MsCoreUtils",
         "ProtGenerics",
-        "R.cache",
         "RColorBrewer",
         "RCurl",
         "RSQLite",
@@ -66101,7 +66095,6 @@
         "DEoptimR",
         "Matrix",
         "NMF",
-        "R.cache",
         "RColorBrewer",
         "RankAggreg",
         "RcppEigen",
@@ -67959,7 +67952,6 @@
         "IRanges",
         "Matrix",
         "MatrixModels",
-        "R.cache",
         "RColorBrewer",
         "RCurl",
         "RcppEigen",
@@ -69727,7 +69719,6 @@
         "KEGGREST",
         "Matrix",
         "PSCBS",
-        "R.cache",
         "R.filesets",
         "R.rsp",
         "RColorBrewer",
@@ -74042,7 +74033,6 @@
         "KEGGREST",
         "Matrix",
         "MatrixModels",
-        "R.cache",
         "RColorBrewer",
         "RCurl",
         "RSQLite",
@@ -92421,7 +92411,6 @@
         "IRanges",
         "Matrix",
         "NanoStringNCTools",
-        "R.cache",
         "RColorBrewer",
         "RCurl",
         "RcppEigen",
@@ -96849,7 +96838,6 @@
     "systemPipeShiny": [
         "DT",
         "Matrix",
-        "R.cache",
         "RColorBrewer",
         "RSQLite",
         "anytime",
@@ -99039,7 +99027,6 @@
         "KEGGREST",
         "Matrix",
         "PSCBS",
-        "R.cache",
         "R.filesets",
         "R.rsp",
         "RColorBrewer",
@@ -107660,7 +107647,6 @@
         "withr"
     ],
     "repmis": [
-        "R.cache",
         "askpass",
         "httr",
         "jsonlite",
@@ -107669,7 +107655,6 @@
         "sys"
     ],
     "fdrtool": [],
-    "R.cache": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi",
         "Biobase",
@@ -110757,7 +110742,6 @@
     ],
     "ontologyIndex": [],
     "styler": [
-        "R.cache",
         "cli",
         "lifecycle",
         "magrittr",
@@ -118048,7 +118032,6 @@
     ],
     "agricolae": [
         "AlgDesign",
-        "R.cache",
         "bit64",
         "bslib",
         "class",
@@ -118097,7 +118080,6 @@
         "xfun"
     ],
     "klaR": [
-        "R.cache",
         "bit64",
         "bslib",
         "class",
@@ -118143,7 +118125,6 @@
         "xfun"
     ],
     "questionr": [
-        "R.cache",
         "bit64",
         "bslib",
         "class",
@@ -119840,7 +119821,6 @@
         "BiocGenerics",
         "Matrix",
         "NMF",
-        "R.cache",
         "RColorBrewer",
         "RankAggreg",
         "abind",
@@ -120202,7 +120182,6 @@
     "CircStats": [],
     "aroma.affymetrix": [
         "PSCBS",
-        "R.cache",
         "R.filesets",
         "R.rsp",
         "RColorBrewer",
@@ -120213,22 +120192,16 @@
     ],
     "aroma.core": [
         "PSCBS",
-        "R.cache",
         "R.filesets",
         "R.rsp",
         "RColorBrewer",
         "future",
         "listenv"
     ],
-    "R.filesets": [
-        "R.cache"
-    ],
+    "R.filesets": [],
     "aroma.apd": [],
-    "R.rsp": [
-        "R.cache"
-    ],
+    "R.rsp": [],
     "PSCBS": [
-        "R.cache",
         "future",
         "listenv"
     ],
