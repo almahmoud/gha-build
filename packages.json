@@ -9882,7 +9882,6 @@
         "XVector",
         "affy",
         "biganalytics",
-        "bigmemory",
         "blob",
         "dplyr",
         "frma",
@@ -14586,7 +14585,6 @@
         "SummarizedExperiment",
         "TH.data",
         "XVector",
-        "bigmemory",
         "broom",
         "bslib",
         "callr",
@@ -14680,7 +14678,6 @@
         "Matrix",
         "MatrixModels",
         "RcppEigen",
-        "bigmemory",
         "broom",
         "bslib",
         "callr",
@@ -37431,7 +37428,6 @@
         "RcppEigen",
         "apcluster",
         "biganalytics",
-        "bigmemory",
         "bslib",
         "checkmate",
         "expm",
@@ -42355,7 +42351,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "bigmemory",
         "blob",
         "dbplyr",
         "doParallel",
@@ -74244,13 +74239,8 @@
         "Matrix",
         "irlba"
     ],
-    "ChIPXpressData": [
-        "bigmemory"
-    ],
-    "bigmemory": [],
-    "biganalytics": [
-        "bigmemory"
-    ],
+    "ChIPXpressData": [],
+    "biganalytics": [],
     "shinyhelper": [
         "bslib",
         "httpuv",
@@ -75122,7 +75112,6 @@
     "mbest": [
         "Matrix",
         "RcppEigen",
-        "bigmemory",
         "callr",
         "desc",
         "lifecycle",
