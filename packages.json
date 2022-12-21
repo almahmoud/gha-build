@@ -14878,7 +14878,6 @@
         "recipes",
         "reshape2",
         "scales",
-        "spp",
         "stringi",
         "stringr",
         "survival",
@@ -118873,7 +118872,6 @@
         "vctrs",
         "withr"
     ],
-    "spp": [],
     "ChIC.data": [
         "BiocGenerics",
         "GenomeInfoDb",
