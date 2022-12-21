@@ -23319,7 +23319,6 @@
     ],
     "flowCL": [
         "Rgraphviz",
-        "SPARQL",
         "graph"
     ],
     "flowClean": [
@@ -79019,7 +79018,6 @@
         "tibble",
         "vctrs"
     ],
-    "SPARQL": [],
     "ggiraph": [
         "Matrix",
         "bslib",
