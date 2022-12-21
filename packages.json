@@ -11490,7 +11490,6 @@
         "lattice",
         "lifecycle",
         "magrittr",
-        "matrixcalc",
         "memoise",
         "mgcv",
         "mime",
@@ -28998,7 +28997,6 @@
         "lifecycle",
         "locfit",
         "magrittr",
-        "matrixcalc",
         "memoise",
         "mgcv",
         "mime",
@@ -57898,7 +57896,6 @@
         "lattice",
         "lifecycle",
         "magrittr",
-        "matrixcalc",
         "mgcv",
         "munsell",
         "nlme",
@@ -61236,7 +61233,6 @@
         "lattice",
         "lifecycle",
         "magrittr",
-        "matrixcalc",
         "mclust",
         "mcmc",
         "memoise",
@@ -130563,7 +130559,6 @@
         "TeachingDemos",
         "plotmo"
     ],
-    "matrixcalc": [],
     "plotmo": [
         "TeachingDemos"
     ],
