@@ -18331,7 +18331,6 @@
         "latticeExtra",
         "lazyeval",
         "lifecycle",
-        "lmodel2",
         "lubridate",
         "magrittr",
         "matrixStats",
@@ -75866,7 +75865,6 @@
         "lifecycle",
         "limma",
         "lme4",
-        "lmodel2",
         "locfit",
         "lubridate",
         "magrittr",
@@ -156296,7 +156294,6 @@
         "labeling",
         "lattice",
         "lifecycle",
-        "lmodel2",
         "lubridate",
         "magrittr",
         "mgcv",
@@ -156362,7 +156359,6 @@
         "zoo"
     ],
     "confintr": [],
-    "lmodel2": [],
     "splus2R": [],
     "broom.mixed": [
         "R6",
