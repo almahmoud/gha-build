@@ -8432,7 +8432,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "CORREP": [],
     "coseq": [
         "AnnotationDbi",
         "Biostrings",
