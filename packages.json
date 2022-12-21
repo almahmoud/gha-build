@@ -6,7 +6,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "ROCR",
         "RSQLite",
         "XVector",
         "a4Base",
@@ -48,7 +47,6 @@
         "vctrs"
     ],
     "a4Classif": [
-        "ROCR",
         "a4Core",
         "a4Preproc",
         "glmnet",
@@ -835,7 +833,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "ROCR",
         "RSQLite",
         "SummarizedExperiment",
         "XVector",
@@ -1415,7 +1412,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "ROCR",
         "RSQLite",
         "Seurat",
         "SeuratObject",
@@ -1779,7 +1775,6 @@
         "IRanges",
         "IVAS",
         "KEGGREST",
-        "ROCR",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -1958,7 +1953,6 @@
         "Mus.musculus",
         "NMF",
         "OrganismDbi",
-        "ROCR",
         "RSQLite",
         "Rsamtools",
         "SingleCellExperiment",
@@ -3056,7 +3050,6 @@
         "MultiAssayExperiment",
         "NADA",
         "NOISeq",
-        "ROCR",
         "ROI.plugin.lpsolve",
         "RSQLite",
         "RcppML",
@@ -4332,7 +4325,6 @@
         "GenomicRanges",
         "IRanges",
         "MatrixModels",
-        "ROCR",
         "SummarizedExperiment",
         "SuperLearner",
         "XVector",
@@ -6235,7 +6227,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "ROCR",
         "RSpectra",
         "RcppML",
         "ScaledMatrix",
@@ -7103,7 +7094,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "IRanges",
-        "ROCR",
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
@@ -9164,7 +9154,6 @@
         "vctrs"
     ],
     "compcodeR": [
-        "ROCR",
         "ape",
         "edgeR",
         "fBasics",
@@ -13051,7 +13040,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "ROCR",
         "ScaledMatrix",
         "Seurat",
         "SeuratObject",
@@ -13880,7 +13868,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixModels",
-        "ROCR",
         "RSQLite",
         "SummarizedExperiment",
         "TH.data",
@@ -15473,7 +15460,6 @@
         "vctrs"
     ],
     "erccdashboard": [
-        "ROCR",
         "edgeR",
         "ggplot2",
         "mgcv",
@@ -16520,7 +16506,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "ROCR",
         "SC3",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -21919,7 +21904,6 @@
     ],
     "iCOBRA": [
         "DT",
-        "ROCR",
         "UpSetR",
         "bslib",
         "dplyr",
@@ -22416,7 +22400,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "ROCR",
         "Seurat",
         "SeuratObject",
         "SingleCellExperiment",
@@ -23047,7 +23030,6 @@
         "KEGGREST",
         "MCL",
         "MatrixModels",
-        "ROCR",
         "RSQLite",
         "RcppML",
         "ScaledMatrix",
@@ -23963,7 +23945,6 @@
         "openssl"
     ],
     "LedPred": [
-        "ROCR",
         "ggplot2",
         "mgcv",
         "pillar",
@@ -25161,7 +25142,6 @@
         "IRanges",
         "KEGGREST",
         "ROC",
-        "ROCR",
         "RSQLite",
         "XVector",
         "affy",
@@ -25955,7 +25935,6 @@
         "IRanges",
         "MCMCpack",
         "MatrixModels",
-        "ROCR",
         "XVector",
         "bookdown",
         "bslib",
@@ -31728,7 +31707,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "ROCR",
         "Seurat",
         "SeuratObject",
         "SingleCellExperiment",
@@ -31924,7 +31902,6 @@
         "GenomicRanges",
         "IRanges",
         "MultiAssayExperiment",
-        "ROCR",
         "RSQLite",
         "SummarizedExperiment",
         "XVector",
@@ -33867,7 +33844,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "ROCR",
         "RSQLite",
         "XVector",
         "annotate",
@@ -34226,7 +34202,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "ROCR",
         "RSQLite",
         "SummarizedExperiment",
         "XVector",
@@ -35140,7 +35115,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "ROCR",
         "XVector",
         "ape",
         "caret",
@@ -35350,7 +35324,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "ROCR",
         "RcppML",
         "ScaledMatrix",
         "Seurat",
@@ -36361,7 +36334,6 @@
         "GenomicRanges",
         "IRanges",
         "NMF",
-        "ROCR",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
@@ -40314,7 +40286,6 @@
         "IRanges",
         "KEGGREST",
         "Modstrings",
-        "ROCR",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -40369,7 +40340,6 @@
         "KEGGREST",
         "Modstrings",
         "RNAmodR",
-        "ROCR",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -40424,7 +40394,6 @@
         "KEGGREST",
         "Modstrings",
         "RNAmodR",
-        "ROCR",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -40480,7 +40449,6 @@
         "KEGGREST",
         "Modstrings",
         "RNAmodR",
-        "ROCR",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -41698,7 +41666,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "ROCR",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
@@ -41730,7 +41697,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "ROCR",
         "Seurat",
         "SeuratObject",
         "SingleCellExperiment",
@@ -41897,7 +41863,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "ROCR",
         "RSQLite",
         "Seurat",
         "SeuratObject",
@@ -42065,7 +42030,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "ROCR",
         "RSQLite",
         "Seurat",
         "SeuratObject",
@@ -42119,7 +42083,6 @@
         "zinbwave"
     ],
     "scBubbletree": [
-        "ROCR",
         "Seurat",
         "SeuratObject",
         "ape",
@@ -42177,7 +42140,6 @@
         "GenomicRanges",
         "HDF5Array",
         "IRanges",
-        "ROCR",
         "Seurat",
         "SeuratObject",
         "SingleCellExperiment",
@@ -42314,7 +42276,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "ROCR",
         "RSpectra",
         "Seurat",
         "SeuratObject",
@@ -42545,7 +42506,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "ROCR",
         "Seurat",
         "SeuratObject",
         "SingleCellExperiment",
@@ -42648,7 +42608,6 @@
         "webshot"
     ],
     "scMAGeCK": [
-        "ROCR",
         "Seurat",
         "SeuratObject",
         "bslib",
@@ -43272,7 +43231,6 @@
         "IRanges",
         "KEGGREST",
         "MeSHDbi",
-        "ROCR",
         "RSQLite",
         "ReactomePA",
         "Seurat",
@@ -43372,7 +43330,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "ROCR",
         "RSQLite",
         "Seurat",
         "SeuratObject",
@@ -43451,7 +43408,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "ROCR",
         "RSQLite",
         "RcppML",
         "Rsamtools",
@@ -44936,7 +44892,6 @@
         "MAST",
         "MCMCprecision",
         "MatrixModels",
-        "ROCR",
         "RSQLite",
         "RcppML",
         "ResidualMatrix",
@@ -45634,7 +45589,6 @@
         "GenomicRanges",
         "HDF5Array",
         "IRanges",
-        "ROCR",
         "RcppML",
         "ScaledMatrix",
         "Seurat",
@@ -46620,7 +46574,6 @@
         "GenomicRanges",
         "HDF5Array",
         "IRanges",
-        "ROCR",
         "RSQLite",
         "Seurat",
         "SeuratObject",
@@ -46935,7 +46888,6 @@
         "GenomicRanges",
         "IRanges",
         "MESS",
-        "ROCR",
         "RSpectra",
         "SummarizedExperiment",
         "XVector",
@@ -47144,7 +47096,6 @@
         "IRanges",
         "KEGGREST",
         "MLmetrics",
-        "ROCR",
         "RSQLite",
         "SpidermiR",
         "XVector",
@@ -47264,7 +47215,6 @@
         "GenomicRanges",
         "HDF5Array",
         "IRanges",
-        "ROCR",
         "RSQLite",
         "Seurat",
         "SeuratObject",
@@ -52296,7 +52246,6 @@
     "glmnet": [
         "survival"
     ],
-    "ROCR": [],
     "pamr": [
         "survival"
     ],
@@ -53121,7 +53070,6 @@
         "vctrs"
     ],
     "Seurat": [
-        "ROCR",
         "SeuratObject",
         "bslib",
         "cowplot",
@@ -53635,9 +53583,7 @@
         "tibble",
         "vctrs"
     ],
-    "DRaWR": [
-        "ROCR"
-    ],
+    "DRaWR": [],
     "ggfortify": [
         "dplyr",
         "ggplot2",
@@ -54710,7 +54656,6 @@
     ],
     "drtmle": [
         "MatrixModels",
-        "ROCR",
         "SuperLearner",
         "cvAUC",
         "future.apply",
@@ -54719,7 +54664,6 @@
         "survival"
     ],
     "SuperLearner": [
-        "ROCR",
         "cvAUC"
     ],
     "np": [
@@ -54727,9 +54671,7 @@
         "quantreg",
         "survival"
     ],
-    "cvAUC": [
-        "ROCR"
-    ],
+    "cvAUC": [],
     "biscuiteerData": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -59399,7 +59341,6 @@
         "vctrs"
     ],
     "SoupX": [
-        "ROCR",
         "Seurat",
         "SeuratObject",
         "bslib",
@@ -59676,9 +59617,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "MLmetrics": [
-        "ROCR"
-    ],
+    "MLmetrics": [],
     "rsample": [
         "dplyr",
         "furrr",
