@@ -70470,7 +70470,6 @@
         "withr"
     ],
     "phenomis": [
-        "BWStest",
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
@@ -89846,7 +89845,6 @@
     "signeR": [
         "AnnotationDbi",
         "BSgenome",
-        "BWStest",
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
@@ -105273,7 +105271,6 @@
         "AnnotationFilter",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
-        "BWStest",
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
@@ -120652,11 +120649,9 @@
     ],
     "celestial": [],
     "PMCMRplus": [
-        "BWStest",
         "Rmpfr",
         "kSamples"
     ],
-    "BWStest": [],
     "SmoothWin": [
         "lattice",
         "nlme"
