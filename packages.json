@@ -8430,7 +8430,6 @@
         "httpuv",
         "httr",
         "igraph",
-        "import",
         "influenceR",
         "infotheo",
         "jquerylib",
@@ -132165,7 +132164,6 @@
         "htmlwidgets",
         "httpuv",
         "httr",
-        "import",
         "jquerylib",
         "knitr",
         "labeling",
@@ -132227,7 +132225,6 @@
         "xtable",
         "yaml"
     ],
-    "import": [],
     "shinythemes": [
         "R6",
         "Rcpp",
