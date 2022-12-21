@@ -55928,7 +55928,6 @@
         "vctrs",
         "waldo"
     ],
-    "SNPediaR": [],
     "SNPhood": [
         "AnnotationDbi",
         "BSgenome",
