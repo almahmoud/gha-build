@@ -4503,7 +4503,6 @@
         "S4Vectors",
         "WGCNA",
         "XVector",
-        "apcluster",
         "blob",
         "bslib",
         "clusterCons",
@@ -5117,7 +5116,6 @@
         "XVector",
         "affy",
         "annotate",
-        "apcluster",
         "blob",
         "bslib",
         "edgeR",
@@ -9610,7 +9608,6 @@
         "rhdf5filters"
     ],
     "cogena": [
-        "apcluster",
         "biwt",
         "bslib",
         "credentials",
@@ -12555,7 +12552,6 @@
         "TFisher",
         "TH.data",
         "XVector",
-        "apcluster",
         "blob",
         "broom",
         "bslib",
@@ -12705,7 +12701,6 @@
         "SummarizedExperiment",
         "TTR",
         "XVector",
-        "apcluster",
         "dplyr",
         "geometry",
         "ggplot2",
@@ -16551,7 +16546,6 @@
         "RBGL",
         "RcppEigen",
         "Rgraphviz",
-        "apcluster",
         "fpc",
         "ggdendro",
         "ggm",
@@ -25780,8 +25774,7 @@
         "GenomeInfoDb",
         "IRanges",
         "S4Vectors",
-        "XVector",
-        "apcluster"
+        "XVector"
     ],
     "KEGGgraph": [
         "Rgraphviz"
@@ -26194,7 +26187,6 @@
         "waldo"
     ],
     "Linnorm": [
-        "apcluster",
         "fpc",
         "ggdendro",
         "ggplot2",
@@ -27299,7 +27291,6 @@
         "S4Vectors",
         "XVector",
         "ade4",
-        "apcluster",
         "blob",
         "clusterSim",
         "httr",
@@ -30637,7 +30628,6 @@
         "MCL",
         "RSpectra",
         "RcppEigen",
-        "apcluster",
         "bslib",
         "ggplot2",
         "htmlTable",
@@ -31719,7 +31709,6 @@
         "Linnorm",
         "RcppEigen",
         "Rgraphviz",
-        "apcluster",
         "fpc",
         "ggdendro",
         "ggplot2",
@@ -34492,7 +34481,6 @@
         "RBGL",
         "RcppEigen",
         "Rgraphviz",
-        "apcluster",
         "epiNEM",
         "fpc",
         "ggdendro",
@@ -35536,7 +35524,6 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "apcluster",
         "kebabs",
         "msa"
     ],
@@ -39308,7 +39295,6 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "apcluster",
         "kebabs"
     ],
     "proDA": [
@@ -50178,7 +50164,6 @@
         "SummarizedExperiment",
         "XVector",
         "alphahull",
-        "apcluster",
         "beachmat",
         "blob",
         "bslib",
@@ -59283,9 +59268,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "clusterCons": [
-        "apcluster"
-    ],
+    "clusterCons": [],
     "rSpectral": [
         "igraph"
     ],
@@ -59321,7 +59304,6 @@
         "vctrs",
         "viridis"
     ],
-    "apcluster": [],
     "synaptome.data": [
         "AnnotationDbi",
         "AnnotationHub",
