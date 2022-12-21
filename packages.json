@@ -33730,7 +33730,6 @@
         "blob",
         "class",
         "cli",
-        "clisymbols",
         "cowplot",
         "cpp11",
         "dplyr",
@@ -42372,7 +42371,6 @@
         "aws.signature",
         "biocthis",
         "cli",
-        "clisymbols",
         "credentials",
         "desc",
         "dplyr",
@@ -44454,7 +44452,6 @@
         "callr",
         "circlize",
         "cli",
-        "clisymbols",
         "clue",
         "cpp11",
         "doParallel",
@@ -113076,7 +113073,6 @@
         "withr",
         "xfun"
     ],
-    "clisymbols": [],
     "RecordLinkage": [
         "Matrix",
         "RSQLite",
@@ -113925,7 +113921,6 @@
     "available": [
         "Matrix",
         "cli",
-        "clisymbols",
         "desc",
         "dplyr",
         "fansi",
