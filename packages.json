@@ -23549,7 +23549,6 @@
         "evaluate",
         "fansi",
         "fs",
-        "genalg",
         "ggplot2",
         "graph",
         "gtable",
@@ -31841,7 +31840,6 @@
         "futile.options",
         "future",
         "future.apply",
-        "genalg",
         "genefilter",
         "geneplotter",
         "generics",
@@ -49562,7 +49560,6 @@
         "futile.options",
         "future",
         "future.apply",
-        "genalg",
         "genefilter",
         "geneplotter",
         "generics",
@@ -72822,7 +72819,6 @@
         "evaluate",
         "fansi",
         "fs",
-        "genalg",
         "ggplot2",
         "graph",
         "gtable",
@@ -158761,7 +158757,6 @@
         "Rcpp"
     ],
     "entropy": [],
-    "genalg": [],
     "bezier": [],
     "brglm": [
         "profileModel"
@@ -160366,7 +160361,6 @@
         "ellipsis",
         "evaluate",
         "fs",
-        "genalg",
         "highr",
         "hms",
         "htmltools",
