@@ -2951,7 +2951,6 @@
         "shiny",
         "shinyjs",
         "sourcetools",
-        "spatial",
         "stable",
         "stabledist",
         "statip",
@@ -21307,7 +21306,6 @@
         "lattice",
         "latticeExtra",
         "matrixStats",
-        "spatial",
         "stabledist",
         "timeDate",
         "timeSeries",
@@ -26424,7 +26422,6 @@
         "rmutil",
         "scales",
         "sm",
-        "spatial",
         "stable",
         "stabledist",
         "statip",
@@ -35449,7 +35446,6 @@
         "reshape",
         "rlang",
         "scales",
-        "spatial",
         "stabledist",
         "tibble",
         "timeDate",
@@ -58913,7 +58909,6 @@
         "rematch2",
         "rlang",
         "rprojroot",
-        "spatial",
         "stabledist",
         "testthat",
         "tibble",
@@ -81281,7 +81276,6 @@
         "rmutil",
         "rprojroot",
         "scales",
-        "spatial",
         "stable",
         "stabledist",
         "statip",
@@ -153943,7 +153937,6 @@
         "rlang",
         "rmutil",
         "scales",
-        "spatial",
         "stable",
         "stabledist",
         "statip",
@@ -154024,7 +154017,6 @@
         "cluster",
         "fBasics",
         "rmutil",
-        "spatial",
         "stable",
         "stabledist",
         "statip",
@@ -154048,7 +154040,6 @@
     ],
     "fBasics": [
         "MASS",
-        "spatial",
         "stabledist",
         "timeDate",
         "timeSeries"
@@ -154118,7 +154109,6 @@
     "timeSeries": [
         "timeDate"
     ],
-    "spatial": [],
     "prodlim": [
         "KernSmooth",
         "Matrix",
@@ -168096,7 +168086,6 @@
         "fastICA",
         "gbutils",
         "lattice",
-        "spatial",
         "stabledist",
         "timeDate",
         "timeSeries"
