@@ -2111,7 +2111,6 @@
         "SummarizedExperiment",
         "XVector",
         "assertive",
-        "assertive.code",
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
@@ -28288,7 +28287,6 @@
         "VariantAnnotation",
         "XVector",
         "assertive",
-        "assertive.code",
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
@@ -49729,7 +49727,6 @@
         "vctrs"
     ],
     "assertive": [
-        "assertive.code",
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
@@ -49740,7 +49737,6 @@
     "assertive.data": [],
     "assertive.data.uk": [],
     "assertive.data.us": [],
-    "assertive.code": [],
     "doBy": [
         "broom",
         "dplyr",
