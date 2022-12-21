@@ -44405,7 +44405,6 @@
         "promises",
         "quantreg",
         "qvalue",
-        "rafalib",
         "rematch2",
         "reshape2",
         "restfulr",
@@ -54764,8 +54763,7 @@
         "IRanges",
         "S4Vectors",
         "SummarizedExperiment",
-        "XVector",
-        "rafalib"
+        "XVector"
     ],
     "trena": [
         "AnnotationDbi",
@@ -64626,7 +64624,6 @@
         "S4Vectors",
         "XVector"
     ],
-    "rafalib": [],
     "systemPipeRdata": [
         "Biostrings",
         "GenomeInfoDb",
