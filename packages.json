@@ -59615,7 +59615,6 @@
         "BiocParallel",
         "Matrix",
         "RcppEigen",
-        "Rmagic",
         "SAVER",
         "bbmle",
         "doParallel",
@@ -82396,7 +82395,6 @@
         "future",
         "future.apply"
     ],
-    "Rmagic": [],
     "ggvenn": [
         "Matrix",
         "dplyr",
