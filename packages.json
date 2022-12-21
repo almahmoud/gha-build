@@ -47602,7 +47602,6 @@
         "vctrs",
         "vroom"
     ],
-    "ompBAM": [],
     "oncomix": [
         "Biobase",
         "DelayedArray",
@@ -66591,7 +66590,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "ompBAM",
         "openssl",
         "pheatmap",
         "pillar",
