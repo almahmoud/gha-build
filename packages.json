@@ -35345,7 +35345,6 @@
         "Biostrings",
         "DESeq2",
         "DelayedArray",
-        "EmpiricalBrownsMethod",
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "GenomicRanges",
@@ -36274,7 +36273,6 @@
         "viridisLite",
         "withr"
     ],
-    "EmpiricalBrownsMethod": [],
     "EnhancedVolcano": [
         "Matrix",
         "RColorBrewer",
@@ -78708,7 +78706,6 @@
         "DT",
         "DelayedArray",
         "DirichletMultinomial",
-        "EmpiricalBrownsMethod",
         "GO.db",
         "GenomeInfoDb",
         "GenomeInfoDbData",
