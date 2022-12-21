@@ -58120,7 +58120,6 @@
         "pkgconfig",
         "pkgload",
         "plogr",
-        "ppclust",
         "praise",
         "processx",
         "prodlim",
@@ -90465,7 +90464,6 @@
         "pkgconfig",
         "pkgload",
         "plogr",
-        "ppclust",
         "praise",
         "processx",
         "progress",
@@ -120102,7 +120100,6 @@
         "withr",
         "xfun"
     ],
-    "ppclust": [],
     "MatrixCorrelation": [
         "Matrix",
         "RSpectra",
