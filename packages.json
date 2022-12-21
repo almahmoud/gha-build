@@ -4288,7 +4288,6 @@
         "nlme",
         "nnet",
         "openssl",
-        "pbmcapply",
         "pillar",
         "plyr",
         "prettyunits",
@@ -40694,7 +40693,6 @@
         "munsell",
         "nlme",
         "openssl",
-        "pbmcapply",
         "pillar",
         "plotly",
         "promises",
@@ -92490,8 +92488,7 @@
         "Rcpp",
         "edgeR",
         "limma",
-        "locfit",
-        "pbmcapply"
+        "locfit"
     ],
     "ROTS": [
         "Biobase",
@@ -99429,7 +99426,6 @@
         "munsell",
         "nlme",
         "pbapply",
-        "pbmcapply",
         "pillar",
         "plyr",
         "polylabelr",
@@ -122153,7 +122149,6 @@
         "vctrs",
         "viridisLite"
     ],
-    "pbmcapply": [],
     "msm": [
         "Matrix",
         "expm",
