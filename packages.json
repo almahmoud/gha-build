@@ -56358,7 +56358,6 @@
         "foreach",
         "iterators",
         "matchingR",
-        "mco",
         "nsga2R",
         "proxy",
         "survival"
@@ -159697,10 +159696,7 @@
         "Rcpp",
         "RcppArmadillo"
     ],
-    "nsga2R": [
-        "mco"
-    ],
-    "mco": [],
+    "nsga2R": [],
     "GA": [
         "Rcpp",
         "RcppArmadillo",
