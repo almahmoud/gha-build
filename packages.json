@@ -74674,7 +74674,6 @@
         "purrr",
         "rappdirs",
         "survival",
-        "svd",
         "sys",
         "vctrs",
         "zlibbioc"
@@ -150912,7 +150911,6 @@
     ],
     "countrycode": [],
     "NMI": [],
-    "svd": [],
     "MKmisc": [
         "DEoptimR",
         "Matrix",
