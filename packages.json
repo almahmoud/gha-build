@@ -2042,7 +2042,6 @@
         "blob",
         "bslib",
         "crosstalk",
-        "crul",
         "dbplyr",
         "dplyr",
         "futile.logger",
@@ -5024,7 +5023,6 @@
         "blob",
         "bslib",
         "crosstalk",
-        "crul",
         "dbplyr",
         "dplyr",
         "fauxpas",
@@ -47628,7 +47626,6 @@
         "caret",
         "clock",
         "coda",
-        "crul",
         "dnet",
         "dplyr",
         "e1071",
@@ -59529,7 +59526,6 @@
         "blob",
         "bslib",
         "crosstalk",
-        "crul",
         "dbplyr",
         "dplyr",
         "e1071",
@@ -72486,7 +72482,6 @@
         "rtracklayer"
     ],
     "rsnps": [
-        "crul",
         "httr",
         "lifecycle",
         "openssl",
@@ -72779,7 +72774,6 @@
         "vctrs"
     ],
     "openxlsx": [],
-    "crul": [],
     "FDb.InfiniumMethylation.hg19": [
         "AnnotationDbi",
         "Biobase",
@@ -74055,7 +74049,6 @@
         "openssl"
     ],
     "rorcid": [
-        "crul",
         "fauxpas",
         "httr",
         "lifecycle",
@@ -79959,7 +79952,6 @@
         "processx"
     ],
     "osfr": [
-        "crul",
         "httr",
         "lifecycle",
         "openssl",
@@ -80859,7 +80851,6 @@
     ],
     "rbokeh": [
         "bslib",
-        "crul",
         "dplyr",
         "gistr",
         "hexbin",
@@ -80883,7 +80874,6 @@
     ],
     "gistr": [
         "bslib",
-        "crul",
         "dplyr",
         "highr",
         "httr",
