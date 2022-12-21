@@ -34252,8 +34252,7 @@
         "tokenizers",
         "usethis",
         "vctrs",
-        "withr",
-        "yesno"
+        "withr"
     ],
     "HumanTranscriptomeCompendium": [
         "Biobase",
@@ -91424,8 +91423,7 @@
         "tidytext",
         "tokenizers",
         "vctrs",
-        "withr",
-        "yesno"
+        "withr"
     ],
     "aws.s3": [
         "askpass",
@@ -91433,7 +91431,6 @@
         "httr",
         "openssl"
     ],
-    "yesno": [],
     "aws.signature": [],
     "reactable": [
         "bslib",
