@@ -16144,7 +16144,6 @@
         "locfit",
         "magrittr",
         "markdown",
-        "matrixTests",
         "memoise",
         "metapod",
         "mgcv",
@@ -28234,7 +28233,6 @@
         "lifecycle",
         "magick",
         "magrittr",
-        "matrixTests",
         "memoise",
         "mgcv",
         "mime",
@@ -66723,7 +66721,6 @@
         "maftools",
         "magrittr",
         "markdown",
-        "matrixTests",
         "memoise",
         "mgcv",
         "mime",
@@ -121058,7 +121055,6 @@
     "rlist": [
         "jsonlite"
     ],
-    "matrixTests": [],
     "ggfittext": [
         "Matrix",
         "RColorBrewer",
