@@ -6594,7 +6594,6 @@
         "httr",
         "igraph",
         "influenceR",
-        "infotheo",
         "jquerylib",
         "knitr",
         "labeling",
@@ -7970,7 +7969,6 @@
         "htmlwidgets",
         "httr",
         "igraph",
-        "infotheo",
         "intergraph",
         "interp",
         "jpeg",
@@ -8951,7 +8949,6 @@
         "htmltools",
         "httr",
         "igraph",
-        "infotheo",
         "interp",
         "jpeg",
         "jquerylib",
@@ -9956,7 +9953,6 @@
         "S4Vectors"
     ],
     "BUS": [
-        "infotheo",
         "minet"
     ],
     "BUScorrect": [
@@ -10355,7 +10351,6 @@
         "htmlwidgets",
         "httr",
         "igraph",
-        "infotheo",
         "intergraph",
         "interp",
         "jpeg",
@@ -10597,7 +10592,6 @@
         "htmltools",
         "htmlwidgets",
         "httr",
-        "infotheo",
         "interp",
         "jpeg",
         "jquerylib",
@@ -11489,9 +11483,7 @@
         "openssl",
         "vctrs"
     ],
-    "ccrepe": [
-        "infotheo"
-    ],
+    "ccrepe": [],
     "celaref": [
         "Biobase",
         "DelayedArray",
@@ -15498,7 +15490,6 @@
         "askpass",
         "curl",
         "httr",
-        "infotheo",
         "interp",
         "jpeg",
         "latticeExtra",
@@ -16546,7 +16537,6 @@
         "hms",
         "htmltools",
         "igraph",
-        "infotheo",
         "jquerylib",
         "knitr",
         "labeling",
@@ -21830,7 +21820,6 @@
         "httr",
         "ids",
         "igraph",
-        "infotheo",
         "interp",
         "jpeg",
         "jquerylib",
@@ -28653,7 +28642,6 @@
         "gmodels",
         "graph",
         "igraph",
-        "infotheo",
         "interp",
         "jpeg",
         "kernlab",
@@ -34581,7 +34569,6 @@
         "class",
         "cluster",
         "e1071",
-        "infotheo",
         "minet",
         "proxy"
     ],
@@ -53216,9 +53203,7 @@
         "xml2",
         "yaml"
     ],
-    "minet": [
-        "infotheo"
-    ],
+    "minet": [],
     "minfi": [
         "AnnotationDbi",
         "Biobase",
@@ -58036,7 +58021,6 @@
         "httpuv",
         "httr",
         "igraph",
-        "infotheo",
         "ipred",
         "jquerylib",
         "knitr",
@@ -59775,7 +59759,6 @@
         "gmodels",
         "graph",
         "igraph",
-        "infotheo",
         "interp",
         "jpeg",
         "kernlab",
@@ -60158,7 +60141,6 @@
         "htmlwidgets",
         "httr",
         "igraph",
-        "infotheo",
         "jquerylib",
         "knitr",
         "labeling",
@@ -60233,7 +60215,6 @@
         "highr",
         "htmltools",
         "igraph",
-        "infotheo",
         "jquerylib",
         "knitr",
         "labeling",
@@ -61782,7 +61763,6 @@
         "hms",
         "htmltools",
         "httpuv",
-        "infotheo",
         "jquerylib",
         "kernlab",
         "klaR",
@@ -77569,7 +77549,6 @@
         "htmlwidgets",
         "httr",
         "igraph",
-        "infotheo",
         "jquerylib",
         "kernlab",
         "knitr",
@@ -77656,7 +77635,6 @@
         "htmlwidgets",
         "httr",
         "igraph",
-        "infotheo",
         "jquerylib",
         "kernlab",
         "knitr",
@@ -77746,7 +77724,6 @@
         "htmlwidgets",
         "httr",
         "igraph",
-        "infotheo",
         "jquerylib",
         "kernlab",
         "knitr",
@@ -83396,7 +83373,6 @@
         "gridExtra",
         "hms",
         "igraph",
-        "infotheo",
         "labeling",
         "lgr",
         "lifecycle",
@@ -103064,7 +103040,6 @@
         "RcppArmadillo",
         "igraph"
     ],
-    "infotheo": [],
     "ggfun": [
         "Matrix",
         "ggplot2",
@@ -111315,7 +111290,6 @@
         "hms",
         "htmltools",
         "httpuv",
-        "infotheo",
         "jquerylib",
         "klaR",
         "labeling",
