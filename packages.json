@@ -81,7 +81,6 @@
         "vctrs",
         "vegan"
     ],
-    "ABSSeq": [],
     "ACE": [
         "Biostrings",
         "CGHbase",
@@ -24857,7 +24856,6 @@
         "NOISeq"
     ],
     "metaseqR2": [
-        "ABSSeq",
         "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
