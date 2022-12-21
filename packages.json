@@ -938,7 +938,6 @@
         "memoise",
         "openssl",
         "rlang",
-        "tkrplot",
         "vctrs",
         "xtable",
         "zlibbioc"
@@ -12612,7 +12611,6 @@
         "tibble",
         "tidyselect",
         "tinytex",
-        "tkrplot",
         "utf8",
         "vctrs",
         "viridis",
@@ -40214,7 +40212,6 @@
     ],
     "genArise": [
         "locfit",
-        "tkrplot",
         "xtable"
     ],
     "genbankr": [
@@ -53671,7 +53668,6 @@
     "limma": [],
     "limmaGUI": [
         "limma",
-        "tkrplot",
         "xtable"
     ],
     "LineagePulse": [
@@ -118129,7 +118125,6 @@
     ],
     "prettyunits": [],
     "rjson": [],
-    "tkrplot": [],
     "e1071": [
         "MASS",
         "class",
