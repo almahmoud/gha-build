@@ -18664,7 +18664,6 @@
         "Matrix",
         "MatrixGenerics",
         "RCurl",
-        "Rbwa",
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
@@ -69458,7 +69457,6 @@
         "Matrix",
         "survival"
     ],
-    "Rbwa": [],
     "Rcade": [
         "Biobase",
         "BiocParallel",
