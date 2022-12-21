@@ -28219,7 +28219,6 @@
         "rmarkdown",
         "rtracklayer",
         "sass",
-        "settings",
         "stringr",
         "tibble",
         "tidyselect",
@@ -91437,7 +91436,6 @@
         "rtracklayer",
         "sass",
         "scales",
-        "settings",
         "shiny",
         "siggenes",
         "sourcetools",
@@ -133700,7 +133698,6 @@
         "vctrs",
         "yaml"
     ],
-    "settings": [],
     "filehash": [],
     "CatEncoders": [
         "Matrix",
