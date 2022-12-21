@@ -38407,7 +38407,6 @@
         "cytomapper",
         "dbplyr",
         "digest",
-        "distances",
         "dplyr",
         "dqrng",
         "e1071",
@@ -49842,7 +49841,6 @@
         "class",
         "clock",
         "digest",
-        "distances",
         "dplyr",
         "e1071",
         "ellipsis",
@@ -100039,7 +100037,6 @@
         "units",
         "vctrs"
     ],
-    "distances": [],
     "Rlabkey": [
         "askpass",
         "httr",
