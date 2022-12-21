@@ -22523,7 +22523,6 @@
         "tibble",
         "vctrs"
     ],
-    "FitHiC": [],
     "flagme": [
         "Biobase",
         "BiocParallel",
