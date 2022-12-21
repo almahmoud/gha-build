@@ -52804,7 +52804,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "conicfit",
         "doParallel",
         "dqrng",
         "foreach",
@@ -90071,7 +90070,6 @@
     "PSCBS": [
         "future"
     ],
-    "conicfit": [],
     "genlasso": [
         "Matrix",
         "igraph",
