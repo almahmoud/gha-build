@@ -6958,7 +6958,6 @@
         "sandwich",
         "sass",
         "scales",
-        "sm",
         "stringr",
         "survival",
         "tibble",
@@ -10851,7 +10850,6 @@
         "rmarkdown",
         "sass",
         "scales",
-        "sm",
         "sp",
         "spBayes",
         "stringr",
@@ -13871,9 +13869,7 @@
         "viridisLite",
         "vsn"
     ],
-    "clustComp": [
-        "sm"
-    ],
+    "clustComp": [],
     "clusterExperiment": [
         "AnnotationDbi",
         "Biobase",
@@ -15581,7 +15577,6 @@
         "phylolm",
         "pillar",
         "scales",
-        "sm",
         "stable",
         "statip",
         "stringr",
@@ -16360,7 +16355,6 @@
         "org.Hs.eg.db",
         "pheatmap",
         "scales",
-        "sm",
         "survival",
         "topGO",
         "vctrs",
@@ -33690,7 +33684,6 @@
         "lifecycle",
         "memoise",
         "openssl",
-        "sm",
         "vctrs",
         "vioplot",
         "zoo"
@@ -49796,7 +49789,6 @@
         "restfulr",
         "rtracklayer",
         "scales",
-        "sm",
         "stringr",
         "survival",
         "tibble",
@@ -59031,7 +59023,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "sm",
         "stringr",
         "tibble",
         "tidyr",
@@ -62049,7 +62040,6 @@
         "shinyjqui",
         "shinyjs",
         "shinythemes",
-        "sm",
         "stringr",
         "tibble",
         "tidyr",
@@ -64061,7 +64051,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "sm",
         "stringr",
         "tibble",
         "tidyr",
@@ -88162,7 +88151,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "sm",
         "stringr",
         "tibble",
         "tidyr",
@@ -92871,7 +92859,6 @@
         "RcppEigen"
     ],
     "vioplot": [
-        "sm",
         "zoo"
     ],
     "imager": [
@@ -92895,7 +92882,6 @@
         "survival",
         "zoo"
     ],
-    "sm": [],
     "xlsxjars": [],
     "TH.data": [
         "Matrix",
@@ -100421,8 +100407,7 @@
     "webutils": [],
     "magicaxis": [
         "celestial",
-        "mapproj",
-        "sm"
+        "mapproj"
     ],
     "celestial": [],
     "PMCMRplus": [
