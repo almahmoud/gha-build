@@ -67896,7 +67896,6 @@
         "futile.logger",
         "futile.options",
         "ggplot2",
-        "grImport",
         "graph",
         "gridExtra",
         "gtable",
@@ -99699,7 +99698,6 @@
         "ggrastr",
         "ggrepel",
         "gplots",
-        "grImport",
         "gridExtra",
         "gtable",
         "highr",
@@ -107561,7 +107559,6 @@
         "futile.logger",
         "futile.options",
         "ggplot2",
-        "grImport",
         "graph",
         "gridExtra",
         "gtable",
@@ -128798,7 +128795,6 @@
         "withr",
         "xfun"
     ],
-    "grImport": [],
     "scico": [
         "RColorBrewer",
         "cli",
