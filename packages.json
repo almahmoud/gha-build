@@ -4797,7 +4797,6 @@
         "vctrs",
         "viridisLite"
     ],
-    "BADER": [],
     "BadRegionFinder": [
         "AnnotationDbi",
         "BSgenome",
