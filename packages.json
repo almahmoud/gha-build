@@ -12316,7 +12316,6 @@
         "egg",
         "ggExtra",
         "ggplot2",
-        "gnm",
         "heatmaply",
         "htmlwidgets",
         "httpuv",
@@ -52959,10 +52958,7 @@
         "multtest",
         "pcaMethods"
     ],
-    "MetaCycle": [
-        "gnm"
-    ],
-    "gnm": [],
+    "MetaCycle": [],
     "fastDummies": [
         "pillar",
         "stringr",
