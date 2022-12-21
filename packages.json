@@ -13793,7 +13793,6 @@
         "tweenr",
         "viridis"
     ],
-    "fabia": [],
     "factDesign": [],
     "factR": [
         "AnnotationDbi",
@@ -17864,9 +17863,7 @@
         "scales",
         "tibble"
     ],
-    "hapFabia": [
-        "fabia"
-    ],
+    "hapFabia": [],
     "Harshlight": [
         "Biostrings",
         "GenomeInfoDb",
@@ -24402,7 +24399,6 @@
         "dplyr",
         "dtplyr",
         "enrichplot",
-        "fabia",
         "fgsea",
         "forcats",
         "gRbase",
@@ -25225,7 +25221,6 @@
         "QUBIC",
         "biclust",
         "dplyr",
-        "fabia",
         "ggplot2",
         "pillar",
         "scales",
