@@ -9936,7 +9936,6 @@
         "cowplot",
         "doParallel",
         "e1071",
-        "earth",
         "fansi",
         "foreach",
         "fs",
@@ -53087,7 +53086,6 @@
         "cowplot",
         "doParallel",
         "e1071",
-        "earth",
         "fansi",
         "foreach",
         "fs",
@@ -113253,7 +113251,6 @@
         "survival"
     ],
     "gamlss.dist": [],
-    "earth": [],
     "PolynomF": [],
     "GenomicState": [
         "AnnotationDbi",
