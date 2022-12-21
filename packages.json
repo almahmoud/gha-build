@@ -31855,7 +31855,6 @@
         "MCL",
         "Matrix",
         "MatrixModels",
-        "Polychrome",
         "ROCR",
         "RSQLite",
         "RcppEigen",
@@ -79751,7 +79750,6 @@
         "tinytex",
         "vctrs"
     ],
-    "Polychrome": [],
     "AdaptGauss": [
         "DataVisualizations",
         "Matrix",
