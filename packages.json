@@ -2699,7 +2699,6 @@
         "sass",
         "scales",
         "scater",
-        "scs",
         "scuttle",
         "sitmo",
         "snow",
@@ -9046,7 +9045,6 @@
         "scales",
         "scater",
         "scattermore",
-        "scs",
         "sctransform",
         "scuttle",
         "setRNG",
@@ -80563,7 +80561,6 @@
         "sass",
         "scales",
         "scater",
-        "scs",
         "scuttle",
         "shape",
         "shiny",
@@ -153398,8 +153395,7 @@
         "bit",
         "bit64",
         "gmp",
-        "osqp",
-        "scs"
+        "osqp"
     ],
     "DescTools": [
         "BH",
@@ -153512,7 +153508,6 @@
     "Rmpfr": [
         "gmp"
     ],
-    "scs": [],
     "osqp": [
         "Matrix",
         "R6",
