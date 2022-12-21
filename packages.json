@@ -116397,7 +116397,6 @@
         "blob",
         "caTools",
         "cachem",
-        "chromhmmData",
         "circlize",
         "cli",
         "clue",
@@ -162103,7 +162102,6 @@
         "viridisLite",
         "withr"
     ],
-    "chromhmmData": [],
     "cvTools": [
         "DEoptimR",
         "lattice",
