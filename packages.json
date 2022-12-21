@@ -30324,7 +30324,6 @@
         "IRanges",
         "KEGGREST",
         "Matrix",
-        "R.matlab",
         "RColorBrewer",
         "RCurl",
         "RSQLite",
@@ -55117,7 +55116,6 @@
     ],
     "MethylMix": [
         "Matrix",
-        "R.matlab",
         "RColorBrewer",
         "RCurl",
         "cli",
@@ -91945,7 +91943,6 @@
         "BiocGenerics",
         "EBImage",
         "Matrix",
-        "R.matlab",
         "RColorBrewer",
         "RCurl",
         "abind",
@@ -101670,7 +101667,6 @@
     "TRONCO": [
         "BiocGenerics",
         "Matrix",
-        "R.matlab",
         "RColorBrewer",
         "Rgraphviz",
         "bnlearn",
@@ -116159,7 +116155,6 @@
         "withr",
         "xfun"
     ],
-    "R.matlab": [],
     "batchtools": [
         "backports",
         "base64url",
