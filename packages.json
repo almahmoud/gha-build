@@ -912,7 +912,6 @@
         "vctrs",
         "zlibbioc"
     ],
-    "agilp": [],
     "AgiMicroRna": [
         "AnnotationDbi",
         "AnnotationFilter",
