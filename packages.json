@@ -43725,7 +43725,6 @@
         "stringi",
         "stringr",
         "sys",
-        "this.path",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -106316,10 +106315,8 @@
         "withr"
     ],
     "logr": [
-        "this.path",
         "withr"
     ],
-    "this.path": [],
     "learnr": [
         "bslib",
         "checkmate",
