@@ -71960,7 +71960,6 @@
         "Biobase",
         "BiocGenerics",
         "MASS",
-        "admisc",
         "venn"
     ],
     "maskBAD": [
@@ -167068,10 +167067,7 @@
         "sp"
     ],
     "parmigene": [],
-    "venn": [
-        "admisc"
-    ],
-    "admisc": [],
+    "venn": [],
     "PairedData": [
         "MASS",
         "Matrix",
