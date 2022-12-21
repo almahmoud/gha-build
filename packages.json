@@ -33394,7 +33394,6 @@
     ],
     "EMDomics": [
         "BiocParallel",
-        "CDFt",
         "Matrix",
         "RColorBrewer",
         "cli",
@@ -133305,7 +133304,6 @@
     ],
     "TCGAbiolinksGUI.data": [],
     "emdist": [],
-    "CDFt": [],
     "heatmap3": [
         "fastcluster"
     ],
