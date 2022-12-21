@@ -23239,7 +23239,6 @@
         "xfun"
     ],
     "customProDB": [
-        "AhoCorasickTrie",
         "AnnotationDbi",
         "BSgenome",
         "Biobase",
@@ -122272,7 +122271,6 @@
         "robustbase"
     ],
     "pscl": [],
-    "AhoCorasickTrie": [],
     "cytometree": [
         "Matrix",
         "RColorBrewer",
