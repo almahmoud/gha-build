@@ -3491,7 +3491,6 @@
         "sampling",
         "sass",
         "scales",
-        "sendmailR",
         "stringi",
         "stringr",
         "survival",
@@ -45843,7 +45842,6 @@
         "rhdf5",
         "rhdf5filters",
         "scales",
-        "sendmailR",
         "stringi",
         "tibble",
         "vctrs",
@@ -74919,7 +74917,6 @@
         "memoise",
         "pkgconfig",
         "plogr",
-        "sendmailR",
         "stringi",
         "vctrs"
     ],
@@ -118172,7 +118169,6 @@
     "triebeard": [],
     "sampling": [],
     "rJava": [],
-    "sendmailR": [],
     "FDb.InfiniumMethylation.hg19": [
         "AnnotationDbi",
         "Biobase",
@@ -127417,7 +127413,6 @@
         "memoise",
         "pkgconfig",
         "plogr",
-        "sendmailR",
         "stringi",
         "vctrs"
     ],
