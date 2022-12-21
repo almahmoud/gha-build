@@ -35617,7 +35617,6 @@
         "DT",
         "DelayedArray",
         "DelayedMatrixStats",
-        "EGSEAdata",
         "GO.db",
         "GSA",
         "GSEABase",
@@ -142606,7 +142605,6 @@
         "Rcpp"
     ],
     "HTMLUtils": [],
-    "EGSEAdata": [],
     "ELMER.data": [
         "GenomeInfoDb",
         "GenomicRanges",
