@@ -42449,7 +42449,6 @@
         "doParallel",
         "foreach",
         "lattice",
-        "matchingR",
         "mco",
         "nsga2R",
         "survival"
@@ -120333,7 +120332,6 @@
         "BiocGenerics",
         "graph"
     ],
-    "matchingR": [],
     "nsga2R": [
         "mco"
     ],
