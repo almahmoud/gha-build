@@ -62882,7 +62882,6 @@
     "pathifier": [
         "princurve"
     ],
-    "PathNet": [],
     "PathoStat": [
         "AnnotationDbi",
         "Biobase",
