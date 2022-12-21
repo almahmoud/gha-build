@@ -12164,7 +12164,6 @@
         "isva",
         "jsonlite",
         "knitr",
-        "kpmt",
         "later",
         "latticeExtra",
         "lifecycle",
@@ -98219,7 +98218,6 @@
         "vroom",
         "withr"
     ],
-    "kpmt": [],
     "isva": [
         "JADE",
         "Matrix",
