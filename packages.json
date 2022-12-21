@@ -20240,7 +20240,6 @@
         "gridBase",
         "gtools",
         "hms",
-        "howmany",
         "httr",
         "irlba",
         "iterators",
@@ -79267,7 +79266,6 @@
         "gridExtra",
         "gtools",
         "hms",
-        "howmany",
         "httr",
         "irlba",
         "iterators",
@@ -139096,7 +139094,6 @@
         "igraph",
         "rlang"
     ],
-    "howmany": [],
     "locfdr": [],
     "phylobase": [
         "MASS",
