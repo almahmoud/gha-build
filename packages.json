@@ -44301,7 +44301,6 @@
         "argparse",
         "askpass",
         "base64",
-        "bigassertr",
         "bigparallelr",
         "bigstatsr",
         "biomaRt",
@@ -103714,7 +103713,6 @@
         "RColorBrewer",
         "RSpectra",
         "RcppEigen",
-        "bigassertr",
         "bigparallelr",
         "cowplot",
         "doParallel",
@@ -103746,16 +103744,12 @@
         "S4Vectors",
         "XVector"
     ],
-    "bigassertr": [],
     "bigparallelr": [
-        "bigassertr",
         "doParallel",
         "flock",
         "foreach"
     ],
-    "rmio": [
-        "bigassertr"
-    ],
+    "rmio": [],
     "depmap": [
         "AnnotationDbi",
         "AnnotationHub",
