@@ -10425,7 +10425,6 @@
         "IRanges",
         "S4Vectors",
         "doParallel",
-        "eulerr",
         "httr",
         "irlba",
         "knitr",
@@ -51272,7 +51271,6 @@
         "UpSetR",
         "XVector",
         "cowplot",
-        "eulerr",
         "ggplot2",
         "ggplotify",
         "lifecycle",
@@ -65387,7 +65385,6 @@
         "vctrs"
     ],
     "biwt": [],
-    "eulerr": [],
     "cobs": [
         "MatrixModels",
         "quantreg",
