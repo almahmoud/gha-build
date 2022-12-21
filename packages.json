@@ -8240,7 +8240,6 @@
         "HTSFilter",
         "KEGGREST",
         "RSQLite",
-        "Rmixmod",
         "SummarizedExperiment",
         "XVector",
         "annotate",
@@ -46589,7 +46588,6 @@
         "pillar",
         "tibble"
     ],
-    "Rmixmod": [],
     "HTSCluster": [],
     "faahKO": [
         "DelayedArray",
