@@ -12562,7 +12562,6 @@
         "BiocGenerics",
         "BiocParallel",
         "Biostrings",
-        "Ckmeans.1d.dp",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomeInfoDbData",
@@ -23850,7 +23849,6 @@
         "BiocGenerics",
         "BiocParallel",
         "Biostrings",
-        "Ckmeans.1d.dp",
         "DESeq2",
         "DOSE",
         "DT",
@@ -38196,7 +38194,6 @@
         "BiocIO",
         "BiocParallel",
         "Biostrings",
-        "Ckmeans.1d.dp",
         "DelayedArray",
         "GGally",
         "GenomeInfoDb",
@@ -42755,9 +42752,7 @@
         "BiocGenerics",
         "fabia"
     ],
-    "Harman": [
-        "Ckmeans.1d.dp"
-    ],
+    "Harman": [],
     "Harshlight": [
         "Biobase",
         "BiocGenerics",
@@ -105901,7 +105896,6 @@
         "Biobase",
         "BiocGenerics",
         "BiocParallel",
-        "Ckmeans.1d.dp",
         "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
@@ -113861,7 +113855,6 @@
     "magick": [
         "magrittr"
     ],
-    "Ckmeans.1d.dp": [],
     "mvoutlier": [
         "DEoptimR",
         "robustbase",
