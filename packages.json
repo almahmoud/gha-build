@@ -69729,7 +69729,6 @@
         "affyio",
         "annotate",
         "aroma.affymetrix",
-        "aroma.apd",
         "aroma.core",
         "askpass",
         "bit64",
@@ -99035,7 +99034,6 @@
         "WGCNA",
         "XVector",
         "aroma.affymetrix",
-        "aroma.apd",
         "aroma.core",
         "askpass",
         "backports",
@@ -120183,7 +120181,6 @@
         "R.filesets",
         "R.rsp",
         "RColorBrewer",
-        "aroma.apd",
         "aroma.core",
         "future",
         "listenv"
@@ -120197,7 +120194,6 @@
         "listenv"
     ],
     "R.filesets": [],
-    "aroma.apd": [],
     "R.rsp": [],
     "PSCBS": [
         "future",
