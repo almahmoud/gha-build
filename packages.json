@@ -4289,7 +4289,6 @@
         "rstudioapi",
         "sass",
         "scales",
-        "setRNG",
         "stringi",
         "stringr",
         "survival",
@@ -8001,7 +8000,6 @@
         "scs",
         "sctransform",
         "scuttle",
-        "setRNG",
         "shape",
         "shiny",
         "sitmo",
@@ -137728,7 +137726,6 @@
     "hexbin": [
         "lattice"
     ],
-    "setRNG": [],
     "svglite": [
         "cpp11",
         "systemfonts"
@@ -139333,7 +139330,6 @@
         "rhdf5filters",
         "rprojroot",
         "scales",
-        "setRNG",
         "slam",
         "sp",
         "stringi",
@@ -139377,8 +139373,7 @@
         "Rcgmin",
         "Rvmmin",
         "numDeriv",
-        "optextras",
-        "setRNG"
+        "optextras"
     ],
     "trust": [],
     "detectseparation": [
