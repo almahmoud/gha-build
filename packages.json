@@ -459,7 +459,6 @@
         "tidyselect",
         "tinytex",
         "utf8",
-        "varhandle",
         "vctrs",
         "viridisLite",
         "waldo",
@@ -106196,7 +106195,6 @@
         "vctrs",
         "yaml"
     ],
-    "varhandle": [],
     "ggrepel": [
         "Matrix",
         "ggplot2",
