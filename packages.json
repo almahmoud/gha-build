@@ -97398,7 +97398,6 @@
         "locfit",
         "magick",
         "magrittr",
-        "mclustcomp",
         "memoise",
         "mgcv",
         "mime",
@@ -126256,7 +126255,6 @@
         "withr"
     ],
     "poilog": [],
-    "mclustcomp": [],
     "MLmetrics": [
         "ROCR",
         "caTools",
