@@ -3798,7 +3798,6 @@
         "snow",
         "stringr",
         "survival",
-        "svMisc",
         "tibble",
         "tidyselect",
         "tinytex",
@@ -39792,7 +39791,6 @@
         "rlang",
         "scales",
         "stringr",
-        "svMisc",
         "tibble",
         "utf8",
         "vctrs",
@@ -107358,7 +107356,6 @@
         "startupmsg",
         "stringr",
         "survival",
-        "svMisc",
         "sva",
         "systemfonts",
         "tensor",
@@ -128364,7 +128361,6 @@
         "MASS",
         "lpSolve"
     ],
-    "svMisc": [],
     "sendmailR": [
         "base64enc"
     ],
