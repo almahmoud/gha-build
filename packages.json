@@ -27,7 +27,6 @@
         "gplots",
         "httr",
         "lifecycle",
-        "mpm",
         "multtest",
         "openssl",
         "pamr",
@@ -59,7 +58,6 @@
         "gplots",
         "httr",
         "lifecycle",
-        "mpm",
         "multtest",
         "openssl",
         "survival",
@@ -22432,7 +22430,6 @@
         "hexbin",
         "httr",
         "lifecycle",
-        "mpm",
         "openssl",
         "vctrs"
     ],
@@ -75031,7 +75028,6 @@
         "survival",
         "vctrs"
     ],
-    "mpm": [],
     "glmnet": [
         "Matrix",
         "RcppEigen",
