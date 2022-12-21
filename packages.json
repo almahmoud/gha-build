@@ -45522,7 +45522,6 @@
         "vctrs",
         "withr"
     ],
-    "iGC": [],
     "IgGeneUsage": [
         "Biobase",
         "BiocGenerics",
