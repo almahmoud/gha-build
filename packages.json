@@ -3633,7 +3633,6 @@
         "PepsNMR",
         "RColorBrewer",
         "RCurl",
-        "RcppDE",
         "RcppEigen",
         "S4Vectors",
         "SummarizedExperiment",
@@ -71734,7 +71733,6 @@
     "PepsNMR": [
         "Matrix",
         "RColorBrewer",
-        "RcppDE",
         "cli",
         "fansi",
         "ggplot2",
@@ -111708,13 +111706,10 @@
         "vctrs",
         "withr"
     ],
-    "ptw": [
-        "RcppDE"
-    ],
+    "ptw": [],
     "qqman": [
         "calibrate"
     ],
-    "RcppDE": [],
     "calibrate": [],
     "DRaWR": [
         "Matrix",
