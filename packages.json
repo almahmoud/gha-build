@@ -88033,7 +88033,6 @@
         "memoise",
         "ontologyPlot",
         "openssl",
-        "paintmap",
         "pillar",
         "plogr",
         "png",
@@ -94288,7 +94287,6 @@
         "ontoProc",
         "ontologyPlot",
         "openssl",
-        "paintmap",
         "pillar",
         "plogr",
         "png",
@@ -128442,7 +128440,6 @@
         "ontologyPlot",
         "openssl",
         "org.Mm.eg.db",
-        "paintmap",
         "pillar",
         "plogr",
         "plyr",
@@ -157365,10 +157362,8 @@
     "smatr": [],
     "ontologyPlot": [
         "Rgraphviz",
-        "graph",
-        "paintmap"
+        "graph"
     ],
-    "paintmap": [],
     "distrEx": [
         "MASS",
         "distr",
