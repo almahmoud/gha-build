@@ -14945,7 +14945,6 @@
         "knitr",
         "lifecycle",
         "locfit",
-        "metaMA",
         "mgcv",
         "miniUI",
         "nlme",
@@ -79751,7 +79750,6 @@
         "here",
         "reticulate"
     ],
-    "metaMA": [],
     "reader": [],
     "shinypanel": [
         "bslib",
