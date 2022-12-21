@@ -47642,7 +47642,6 @@
         "RSQLite",
         "Rhtslib",
         "Rsamtools",
-        "Rsolnp",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -54972,7 +54971,6 @@
         "RColorBrewer",
         "RCurl",
         "Rgraphviz",
-        "Rsolnp",
         "bslib",
         "cli",
         "ellipsis",
@@ -59400,7 +59398,6 @@
         "MultiAssayExperiment",
         "RColorBrewer",
         "RCurl",
-        "Rsolnp",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -82665,7 +82662,6 @@
         "Rhtslib",
         "Ringo",
         "Rsamtools",
-        "Rsolnp",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -97755,8 +97751,7 @@
     ],
     "SPEM": [
         "Biobase",
-        "BiocGenerics",
-        "Rsolnp"
+        "BiocGenerics"
     ],
     "SPIA": [
         "BiocGenerics",
@@ -99573,7 +99568,6 @@
         "RcppEigen",
         "Rhtslib",
         "Rsamtools",
-        "Rsolnp",
         "S4Vectors",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -104359,7 +104353,6 @@
         "RcppParallel",
         "Rhtslib",
         "Rsamtools",
-        "Rsolnp",
         "S4Vectors",
         "SQUAREM",
         "SummarizedExperiment",
@@ -104446,7 +104439,6 @@
         "Biobase",
         "BiocGenerics",
         "BiocParallel",
-        "Rsolnp",
         "SPEM",
         "class",
         "cpp11",
@@ -123529,12 +123521,10 @@
         "jsonlite"
     ],
     "depmixS4": [
-        "Rsolnp",
         "lattice",
         "nlme"
     ],
     "flock": [],
-    "Rsolnp": [],
     "golem": [
         "askpass",
         "attempt",
@@ -125040,7 +125030,6 @@
         "xfun"
     ],
     "HardyWeinberg": [
-        "Rsolnp",
         "backports",
         "broom",
         "cli",
