@@ -817,7 +817,6 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "hypergraph",
         "makecdfenv"
     ],
     "AMARETTO": [
@@ -3544,7 +3543,6 @@
         "LIM",
         "Rgraphviz",
         "hyperdraw",
-        "hypergraph",
         "rsbml",
         "stringr",
         "vctrs"
@@ -22744,7 +22742,6 @@
         "XVector",
         "affy",
         "altcdfenvs",
-        "hypergraph",
         "makecdfenv"
     ],
     "hca": [
@@ -23567,10 +23564,8 @@
         "webshot"
     ],
     "hyperdraw": [
-        "Rgraphviz",
-        "hypergraph"
+        "Rgraphviz"
     ],
-    "hypergraph": [],
     "iasva": [
         "BiocParallel",
         "DelayedArray",
