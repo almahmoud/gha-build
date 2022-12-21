@@ -94952,7 +94952,6 @@
         "dplyr",
         "ellipsis",
         "fansi",
-        "filematrix",
         "foreach",
         "futile.logger",
         "futile.options",
@@ -150643,7 +150642,6 @@
         "numDeriv",
         "optimx"
     ],
-    "filematrix": [],
     "googleVis": [
         "jsonlite"
     ],
