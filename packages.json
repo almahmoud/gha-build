@@ -1004,7 +1004,6 @@
         "sass",
         "scales",
         "selectr",
-        "signal",
         "speaq",
         "stringr",
         "tibble",
@@ -7662,7 +7661,6 @@
         "nlme",
         "rmarkdown",
         "sass",
-        "signal",
         "sp",
         "stringr",
         "tinytex",
@@ -17296,7 +17294,6 @@
         "purrr",
         "reticulate",
         "scales",
-        "signal",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -24114,7 +24111,6 @@
         "sass",
         "sessioninfo",
         "shiny",
-        "signal",
         "stringr",
         "systemfonts",
         "testthat",
@@ -30832,7 +30828,6 @@
         "shinycssloaders",
         "shinydashboard",
         "shinyjs",
-        "signal",
         "stringr",
         "survival",
         "testthat",
@@ -42384,7 +42379,6 @@
         "sass",
         "scales",
         "shiny",
-        "signal",
         "sn",
         "sp",
         "stringr",
@@ -49979,7 +49973,6 @@
         "scales",
         "shiny",
         "shinyscreenshot",
-        "signal",
         "stringr",
         "survival",
         "testthat",
@@ -71560,7 +71553,6 @@
     "igraph": [
         "Matrix"
     ],
-    "signal": [],
     "readxl": [
         "cellranger",
         "hms",
@@ -77406,7 +77398,6 @@
     "dplR": [
         "Matrix",
         "lifecycle",
-        "signal",
         "stringr",
         "vctrs"
     ],
