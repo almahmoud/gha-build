@@ -5946,8 +5946,7 @@
         "IRanges",
         "RCurl",
         "S4Vectors",
-        "XVector",
-        "poibin"
+        "XVector"
     ],
     "BiGGR": [
         "BiocGenerics",
@@ -28788,7 +28787,6 @@
         "pillar",
         "pkgconfig",
         "plogr",
-        "poibin",
         "prodlim",
         "progress",
         "progressr",
@@ -100182,7 +100180,6 @@
         "vctrs",
         "withr"
     ],
-    "poibin": [],
     "LIM": [
         "diagram",
         "shape"
