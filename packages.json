@@ -70847,7 +70847,6 @@
         "GenomeInfoDbData",
         "GlobalOptions",
         "IRanges",
-        "LymphoSeqDB",
         "MASS",
         "Matrix",
         "R6",
@@ -168904,7 +168903,6 @@
     ],
     "mcbiopi": [],
     "LowMACAAnnotation": [],
-    "LymphoSeqDB": [],
     "reldist": [
         "BH",
         "MASS",
