@@ -8961,7 +8961,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "breakpointRdata",
         "cowplot",
         "doParallel",
         "foreach",
@@ -98489,7 +98488,6 @@
         "restfulr",
         "rtracklayer"
     ],
-    "breakpointRdata": [],
     "devtools": [
         "askpass",
         "brio",
