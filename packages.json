@@ -13695,7 +13695,6 @@
         "tweenr",
         "viridis"
     ],
-    "factDesign": [],
     "factR": [
         "AnnotationDbi",
         "BiocFileCache",
