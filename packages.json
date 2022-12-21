@@ -47899,8 +47899,7 @@
     "seqCNA": [
         "GLAD",
         "ade4",
-        "adehabitatLT",
-        "adehabitatMA"
+        "adehabitatLT"
     ],
     "seqcombo": [
         "ggplot2",
@@ -64634,10 +64633,8 @@
     ],
     "cvTools": [],
     "adehabitatLT": [
-        "ade4",
-        "adehabitatMA"
+        "ade4"
     ],
-    "adehabitatMA": [],
     "rbokeh": [
         "bslib",
         "dplyr",
