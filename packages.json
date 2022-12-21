@@ -1433,7 +1433,6 @@
         "SummarizedExperiment",
         "XVector",
         "bslib",
-        "clusterCrit",
         "deldir",
         "dplyr",
         "extrafont",
@@ -58366,7 +58365,6 @@
         "class",
         "classInt",
         "clue",
-        "clusterCrit",
         "diceR",
         "doParallel",
         "dplyr",
@@ -75590,7 +75588,6 @@
         "RcppEigen",
         "bit64",
         "callr",
-        "clusterCrit",
         "foreach",
         "futile.logger",
         "glmnet",
@@ -94555,7 +94552,6 @@
         "vctrs",
         "withr"
     ],
-    "clusterCrit": [],
     "extrafont": [
         "Rttf2pt1"
     ],
@@ -105446,7 +105442,6 @@
         "class",
         "classInt",
         "clue",
-        "clusterCrit",
         "doParallel",
         "dplyr",
         "e1071",
