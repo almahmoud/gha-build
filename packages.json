@@ -11199,7 +11199,6 @@
     "DExMA": [
         "AnnotationDbi",
         "Biostrings",
-        "DExMAdata",
         "GEOquery",
         "GenomeInfoDb",
         "KEGGREST",
@@ -49886,7 +49885,6 @@
         "tibble",
         "vctrs"
     ],
-    "DExMAdata": [],
     "bnstruct": [],
     "phangorn": [],
     "DiffCorr": [
