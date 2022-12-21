@@ -18011,7 +18011,6 @@
         "futile.logger",
         "futile.options"
     ],
-    "CNAnorm": [],
     "CNEr": [
         "AnnotationDbi",
         "Biobase",
