@@ -42279,7 +42279,6 @@
     ],
     "ISAnalytics": [
         "Matrix",
-        "Rcapture",
         "anytime",
         "bit64",
         "bslib",
@@ -105937,7 +105936,6 @@
         "vctrs",
         "viridisLite"
     ],
-    "Rcapture": [],
     "datamods": [
         "anytime",
         "bit64",
