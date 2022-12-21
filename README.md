@@ -1,10 +1,10 @@
 # Summary
 
-526 built packages
+529 built packages
 
 0 failed packages
 
-3284 unclaimed packages
+3281 unclaimed packages
 
 
 
@@ -12,7 +12,7 @@
 | Package   | Status   | BBS Status   | Log   | Known Error   |
 |-----------|----------|--------------|-------|---------------|
 
-## Unclaimed (3284)
+## Unclaimed (3281)
 | Package                                                                                             | Status    | Tarball   |
 |-----------------------------------------------------------------------------------------------------|-----------|-----------|
 | a4                                                                                                  | Unclaimed |           |
@@ -3113,9 +3113,6 @@
 | [CircStats](https://github.com/almahmoud/gha-build/actions/runs/3747238726/jobs/6363278709)         | Unclaimed |           |
 | aroma.affymetrix                                                                                    | Unclaimed |           |
 | aroma.core                                                                                          | Unclaimed |           |
-| R.filesets                                                                                          | Unclaimed |           |
-| aroma.apd                                                                                           | Unclaimed |           |
-| R.rsp                                                                                               | Unclaimed |           |
 | PSCBS                                                                                               | Unclaimed |           |
 | [conicfit](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                          | Unclaimed |           |
 | genlasso                                                                                            | Unclaimed |           |
@@ -3300,7 +3297,7 @@
 | eva                                                                                                 | Unclaimed |           |
 | Rmisc                                                                                               | Unclaimed |           |
 
-## Succeeded (526)
+## Succeeded (529)
 | Package                                                                                                       | Status    | Tarball                                                                                                                                                                                             |
 |---------------------------------------------------------------------------------------------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [a4Reporting](https://github.com/almahmoud/gha-build/actions/runs/3747804409/jobs/6364436831)                 | Succeeded | [0 Bytes a4Reporting_1.46.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/a4Reporting_1.46.0_R_x86_64-pc-linux-gnu.tar.gz)                 |
@@ -3785,6 +3782,9 @@
 | [pcxnData](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362919711)                    | Succeeded | [/__w/gha-build/gha-build/pcxnData.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/pcxnData.tar.gz)                                       |
 | [clusterRepro](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362918266)                | Succeeded | [/__w/gha-build/gha-build/clusterRepro.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/clusterRepro.tar.gz)                               |
 | [R.devices](https://github.com/almahmoud/gha-build/actions/runs/3747881154/jobs/6364654753)                   | Succeeded | [R.devices_2.17.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/R.devices_2.17.1_R_x86_64-pc-linux-gnu.tar.gz)                             |
+| [R.filesets](https://github.com/almahmoud/gha-build/actions/runs/3747933665/jobs/6364712263)                  | Succeeded | [R.filesets_2.15.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/R.filesets_2.15.0_R_x86_64-pc-linux-gnu.tar.gz)                           |
+| [aroma.apd](https://github.com/almahmoud/gha-build/actions/runs/3747909735/jobs/6364703597)                   | Succeeded | [aroma.apd_0.6.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/aroma.apd_0.6.1_R_x86_64-pc-linux-gnu.tar.gz)                               |
+| [R.rsp](https://github.com/almahmoud/gha-build/actions/runs/3747933665/jobs/6364712120)                       | Succeeded | [R.rsp_0.45.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/R.rsp_0.45.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | [R.huge](https://github.com/almahmoud/gha-build/actions/runs/3747881154/jobs/6364654429)                      | Succeeded | [R.huge_0.9.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/R.huge_0.9.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | [circular](https://github.com/almahmoud/gha-build/actions/runs/3747806018/jobs/6364437102)                    | Succeeded | [0 Bytes circular_0.4-95_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/circular_0.4-95_R_x86_64-pc-linux-gnu.tar.gz)                       |
 | [geigen](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362976573)                      | Succeeded | [/__w/gha-build/gha-build/geigen.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/geigen.tar.gz)                                           |
