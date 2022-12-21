@@ -68233,7 +68233,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "LowMACAAnnotation",
         "MASS",
         "Matrix",
         "MatrixGenerics",
@@ -164095,7 +164094,6 @@
         "survival"
     ],
     "mcbiopi": [],
-    "LowMACAAnnotation": [],
     "LymphoSeqDB": [],
     "reldist": [
         "MASS",
