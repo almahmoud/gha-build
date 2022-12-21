@@ -582,7 +582,6 @@
         "tidyselect",
         "tinytex",
         "utf8",
-        "varhandle",
         "vctrs",
         "viridisLite",
         "waldo",
@@ -132278,7 +132277,6 @@
         "xfun",
         "yaml"
     ],
-    "varhandle": [],
     "ggrepel": [
         "Matrix",
         "RColorBrewer",
