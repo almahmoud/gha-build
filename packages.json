@@ -52466,7 +52466,6 @@
         "xtable",
         "zlibbioc"
     ],
-    "globalSeq": [],
     "globaltest": [
         "AnnotationDbi",
         "Biobase",
