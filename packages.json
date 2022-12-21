@@ -102006,7 +102006,6 @@
         "cli",
         "clock",
         "cluster",
-        "clusterRepro",
         "codetools",
         "colorspace",
         "commonmark",
@@ -177183,7 +177182,6 @@
         "MASS"
     ],
     "pcxnData": [],
-    "clusterRepro": [],
     "reportROC": [
         "MASS",
         "Rcpp",
