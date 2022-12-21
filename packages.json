@@ -21803,7 +21803,6 @@
         "blob",
         "genefilter",
         "httr",
-        "les",
         "openssl",
         "survival",
         "vctrs"
@@ -25412,7 +25411,6 @@
         "tibble",
         "vctrs"
     ],
-    "les": [],
     "levi": [
         "DT",
         "bslib",
