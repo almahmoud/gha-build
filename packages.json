@@ -31054,7 +31054,6 @@
         "promises",
         "ps",
         "purrr",
-        "qvcalc",
         "rappdirs",
         "registry",
         "relimp",
@@ -135318,17 +135317,14 @@
         "gnm",
         "lattice",
         "nnet",
-        "qvcalc",
         "relimp"
     ],
     "gnm": [
         "Matrix",
         "lattice",
         "nnet",
-        "qvcalc",
         "relimp"
     ],
-    "qvcalc": [],
     "relimp": [],
     "fastDummies": [
         "cli",
