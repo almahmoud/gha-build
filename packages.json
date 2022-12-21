@@ -19256,7 +19256,6 @@
         "scran",
         "scuttle",
         "selectr",
-        "shades",
         "shiny",
         "shinyFiles",
         "shinyWidgets",
@@ -101462,7 +101461,6 @@
         "sass",
         "scales",
         "seqLogo",
-        "shades",
         "sp",
         "stringi",
         "stringr",
@@ -126508,7 +126506,6 @@
         "magrittr",
         "ore",
         "reportr",
-        "shades",
         "stringi",
         "stringr",
         "tractor.base",
@@ -143852,7 +143849,6 @@
         "pillar",
         "pkgconfig",
         "scales",
-        "shades",
         "stringi",
         "tibble",
         "utf8",
@@ -143890,7 +143886,6 @@
         "pillar",
         "pkgconfig",
         "scales",
-        "shades",
         "stringi",
         "tibble",
         "utf8",
@@ -143952,7 +143947,6 @@
         "withr"
     ],
     "anytime": [],
-    "shades": [],
     "chromstaRData": [],
     "DDRTree": [
         "Matrix",
@@ -156310,8 +156304,7 @@
     "tractor.base": [
         "RNifti",
         "ore",
-        "reportr",
-        "shades"
+        "reportr"
     ],
     "ore": [],
     "reportr": [
