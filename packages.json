@@ -4589,7 +4589,6 @@
         "purrr",
         "quantreg",
         "ranger",
-        "readbitmap",
         "rmarkdown",
         "rms",
         "sandwich",
@@ -10724,7 +10723,6 @@
         "pillar",
         "quantreg",
         "raster",
-        "readbitmap",
         "reshape2",
         "rmarkdown",
         "rms",
@@ -44291,7 +44289,6 @@
         "promises",
         "purrr",
         "rGenomeTracksData",
-        "readbitmap",
         "reticulate",
         "rmarkdown",
         "sass",
@@ -52637,7 +52634,6 @@
         "plotly",
         "promises",
         "purrr",
-        "readbitmap",
         "reshape2",
         "reticulate",
         "rhdf5",
@@ -61544,14 +61540,12 @@
     "imager": [
         "igraph",
         "purrr",
-        "readbitmap",
         "stringr",
         "vctrs"
     ],
     "xlsx": [
         "xlsxjars"
     ],
-    "readbitmap": [],
     "multcomp": [
         "TH.data",
         "sandwich",
