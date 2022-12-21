@@ -1,10 +1,10 @@
 # Summary
 
-785 built packages
+794 built packages
 
 0 failed packages
 
-3025 unclaimed packages
+3016 unclaimed packages
 
 
 
@@ -12,7 +12,7 @@
 | Package   | Status   | BBS Status   | Log   | Known Error   |
 |-----------|----------|--------------|-------|---------------|
 
-## Unclaimed (3025)
+## Unclaimed (3016)
 | Package                                                                                             | Status    | Tarball   |
 |-----------------------------------------------------------------------------------------------------|-----------|-----------|
 | a4                                                                                                  | Unclaimed |           |
@@ -334,7 +334,6 @@
 | cliProfiler                                                                                         | Unclaimed |           |
 | cliqueMS                                                                                            | Unclaimed |           |
 | Clomial                                                                                             | Unclaimed |           |
-| [Clonality](https://github.com/almahmoud/gha-build/actions/runs/3750970365/jobs/6371491179)         | Unclaimed |           |
 | clst                                                                                                | Unclaimed |           |
 | clstutils                                                                                           | Unclaimed |           |
 | CluMSID                                                                                             | Unclaimed |           |
@@ -876,7 +875,6 @@
 | HIREewas                                                                                            | Unclaimed |           |
 | HiTC                                                                                                | Unclaimed |           |
 | hmdbQuery                                                                                           | Unclaimed |           |
-| [HMMcopy](https://github.com/almahmoud/gha-build/actions/runs/3750970365/jobs/6371490231)           | Unclaimed |           |
 | hopach                                                                                              | Unclaimed |           |
 | HPAanalyze                                                                                          | Unclaimed |           |
 | HPAStainR                                                                                           | Unclaimed |           |
@@ -996,7 +994,6 @@
 | LoomExperiment                                                                                      | Unclaimed |           |
 | LowMACA                                                                                             | Unclaimed |           |
 | LPEadj                                                                                              | Unclaimed |           |
-| [lpNet](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                             | Unclaimed |           |
 | LRBaseDbi                                                                                           | Unclaimed |           |
 | LRcell                                                                                              | Unclaimed |           |
 | lumi                                                                                                | Unclaimed |           |
@@ -1026,7 +1023,7 @@
 | maPredictDSC                                                                                        | Unclaimed |           |
 | mapscape                                                                                            | Unclaimed |           |
 | marr                                                                                                | Unclaimed |           |
-| [marray](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                            | Unclaimed |           |
+| [marray](https://github.com/almahmoud/gha-build/actions/runs/3750970365/jobs/6371489769)            | Unclaimed |           |
 | martini                                                                                             | Unclaimed |           |
 | maser                                                                                               | Unclaimed |           |
 | maSigPro                                                                                            | Unclaimed |           |
@@ -1496,7 +1493,7 @@
 | Rbec                                                                                                | Unclaimed |           |
 | RBGL                                                                                                | Unclaimed |           |
 | RBioinf                                                                                             | Unclaimed |           |
-| [rBiopaxParser](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                     | Unclaimed |           |
+| [rBiopaxParser](https://github.com/almahmoud/gha-build/actions/runs/3750970365/jobs/6371490588)     | Unclaimed |           |
 | RBM                                                                                                 | Unclaimed |           |
 | Rbowtie2                                                                                            | Unclaimed |           |
 | rbsurv                                                                                              | Unclaimed |           |
@@ -1653,7 +1650,7 @@
 | satuRn                                                                                              | Unclaimed |           |
 | savR                                                                                                | Unclaimed |           |
 | SBGNview                                                                                            | Unclaimed |           |
-| [SBMLR](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                             | Unclaimed |           |
+| [SBMLR](https://github.com/almahmoud/gha-build/actions/runs/3750970365/jobs/6371489574)             | Unclaimed |           |
 | SC3                                                                                                 | Unclaimed |           |
 | Scale4C                                                                                             | Unclaimed |           |
 | ScaledMatrix                                                                                        | Unclaimed |           |
@@ -1729,7 +1726,6 @@
 | seqPattern                                                                                          | Unclaimed |           |
 | seqsetvis                                                                                           | Unclaimed |           |
 | SeqSQC                                                                                              | Unclaimed |           |
-| [seqTools](https://github.com/almahmoud/gha-build/actions/runs/3750915577/jobs/6371384289)          | Unclaimed |           |
 | SeqVarTools                                                                                         | Unclaimed |           |
 | sesame                                                                                              | Unclaimed |           |
 | SEtools                                                                                             | Unclaimed |           |
@@ -1894,7 +1890,7 @@
 | target                                                                                              | Unclaimed |           |
 | TargetDecoy                                                                                         | Unclaimed |           |
 | TargetScore                                                                                         | Unclaimed |           |
-| [TargetSearch](https://github.com/almahmoud/gha-build/actions/runs/3747238726)                      | Unclaimed |           |
+| [TargetSearch](https://github.com/almahmoud/gha-build/actions/runs/3750915577/jobs/6371383285)      | Unclaimed |           |
 | TarSeqQC                                                                                            | Unclaimed |           |
 | TBSignatureProfiler                                                                                 | Unclaimed |           |
 | TCC                                                                                                 | Unclaimed |           |
@@ -2183,7 +2179,6 @@
 | shinydashboard                                                                                      | Unclaimed |           |
 | seqinr                                                                                              | Unclaimed |           |
 | segmented                                                                                           | Unclaimed |           |
-| [optimx](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                            | Unclaimed |           |
 | expm                                                                                                | Unclaimed |           |
 | igraph                                                                                              | Unclaimed |           |
 | [signal](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                            | Unclaimed |           |
@@ -2206,7 +2201,6 @@
 | DescTools                                                                                           | Unclaimed |           |
 | energy                                                                                              | Unclaimed |           |
 | lmerTest                                                                                            | Unclaimed |           |
-| [Rmpfr](https://github.com/almahmoud/gha-build/actions/runs/3750915577/jobs/6371385988)             | Unclaimed |           |
 | osqp                                                                                                | Unclaimed |           |
 | Exact                                                                                               | Unclaimed |           |
 | gld                                                                                                 | Unclaimed |           |
@@ -2237,7 +2231,6 @@
 | prodlim                                                                                             | Unclaimed |           |
 | timechange                                                                                          | Unclaimed |           |
 | lava                                                                                                | Unclaimed |           |
-| [SQUAREM](https://github.com/almahmoud/gha-build/actions/runs/3750915577/jobs/6371374755)           | Unclaimed |           |
 | rapiclient                                                                                          | Unclaimed |           |
 | miniUI                                                                                              | Unclaimed |           |
 | bigrquery                                                                                           | Unclaimed |           |
@@ -2276,7 +2269,7 @@
 | openxlsx                                                                                            | Unclaimed |           |
 | crul                                                                                                | Unclaimed |           |
 | [urltools](https://github.com/almahmoud/gha-build/actions/runs/3747808196/jobs/6364584543)          | Unclaimed |           |
-| [sampling](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                          | Unclaimed |           |
+| [sampling](https://github.com/almahmoud/gha-build/actions/runs/3750970365/jobs/6371489326)          | Unclaimed |           |
 | FDb.InfiniumMethylation.hg19                                                                        | Unclaimed |           |
 | base64                                                                                              | Unclaimed |           |
 | hexbin                                                                                              | Unclaimed |           |
@@ -2359,7 +2352,7 @@
 | ROI.plugin.lpsolve                                                                                  | Unclaimed |           |
 | [Rvmmin](https://github.com/almahmoud/gha-build/actions/runs/3747808196/jobs/6364581654)            | Unclaimed |           |
 | [Rcgmin](https://github.com/almahmoud/gha-build/actions/runs/3747808196/jobs/6364583381)            | Unclaimed |           |
-| [mitools](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                           | Unclaimed |           |
+| [mitools](https://github.com/almahmoud/gha-build/actions/runs/3750970365/jobs/6371489918)           | Unclaimed |           |
 | sjmisc                                                                                              | Unclaimed |           |
 | [sjlabelled](https://github.com/almahmoud/gha-build/actions/runs/3747808196/jobs/6364583945)        | Unclaimed |           |
 | LIM                                                                                                 | Unclaimed |           |
@@ -2548,7 +2541,7 @@
 | rncl                                                                                                | Unclaimed |           |
 | RNeXML                                                                                              | Unclaimed |           |
 | benchmarkmeData                                                                                     | Unclaimed |           |
-| [princurve](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                         | Unclaimed |           |
+| [princurve](https://github.com/almahmoud/gha-build/actions/runs/3750970365/jobs/6371490072)         | Unclaimed |           |
 | biwt                                                                                                | Unclaimed |           |
 | skmeans                                                                                             | Unclaimed |           |
 | eulerr                                                                                              | Unclaimed |           |
@@ -2707,7 +2700,6 @@
 | flextable                                                                                           | Unclaimed |           |
 | officer                                                                                             | Unclaimed |           |
 | gdtools                                                                                             | Unclaimed |           |
-| [word2vec](https://github.com/almahmoud/gha-build/actions/runs/3750915577/jobs/6371378539)          | Unclaimed |           |
 | robust                                                                                              | Unclaimed |           |
 | [roptim](https://github.com/almahmoud/gha-build/actions/runs/3747808196/jobs/6364585278)            | Unclaimed |           |
 | fit.models                                                                                          | Unclaimed |           |
@@ -2766,7 +2758,7 @@
 | logr                                                                                                | Unclaimed |           |
 | learnr                                                                                              | Unclaimed |           |
 | akima                                                                                               | Unclaimed |           |
-| [irr](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                               | Unclaimed |           |
+| [irr](https://github.com/almahmoud/gha-build/actions/runs/3750970365/jobs/6371490467)               | Unclaimed |           |
 | scam                                                                                                | Unclaimed |           |
 | LogicReg                                                                                            | Unclaimed |           |
 | reldist                                                                                             | Unclaimed |           |
@@ -2798,7 +2790,7 @@
 | methylclockData                                                                                     | Unclaimed |           |
 | PerformanceAnalytics                                                                                | Unclaimed |           |
 | rebus                                                                                               | Unclaimed |           |
-| [rebus.numbers](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                     | Unclaimed |           |
+| [rebus.numbers](https://github.com/almahmoud/gha-build/actions/runs/3750970365/jobs/6371491452)     | Unclaimed |           |
 | GeneNet                                                                                             | Unclaimed |           |
 | ggmcmc                                                                                              | Unclaimed |           |
 | MCMCglmm                                                                                            | Unclaimed |           |
@@ -2860,7 +2852,6 @@
 | pdfCluster                                                                                          | Unclaimed |           |
 | diceR                                                                                               | Unclaimed |           |
 | clValid                                                                                             | Unclaimed |           |
-| [RankAggreg](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                        | Unclaimed |           |
 | yardstick                                                                                           | Unclaimed |           |
 | OMICsPCAdata                                                                                        | Unclaimed |           |
 | pdftools                                                                                            | Unclaimed |           |
@@ -3041,7 +3032,7 @@
 | eva                                                                                                 | Unclaimed |           |
 | Rmisc                                                                                               | Unclaimed |           |
 
-## Succeeded (785)
+## Succeeded (794)
 | Package                                                                                                       | Status    | Tarball                                                                                                                                                                                             |
 |---------------------------------------------------------------------------------------------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [a4Reporting](https://github.com/almahmoud/gha-build/actions/runs/3747804409/jobs/6364436831)                 | Succeeded | [0 Bytes a4Reporting_1.46.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/a4Reporting_1.46.0_R_x86_64-pc-linux-gnu.tar.gz)                 |
@@ -3068,6 +3059,7 @@
 | [ccrepe](https://github.com/almahmoud/gha-build/actions/runs/3747806018/jobs/6364436139)                      | Succeeded | [0 Bytes ccrepe_1.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/ccrepe_1.34.0_R_x86_64-pc-linux-gnu.tar.gz)                           |
 | [CFAssay](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362919477)                     | Succeeded | [/__w/gha-build/gha-build/CFAssay.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/CFAssay.tar.gz)                                         |
 | [cisPath](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362920167)                     | Succeeded | [/__w/gha-build/gha-build/cisPath.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/cisPath.tar.gz)                                         |
+| [Clonality](https://github.com/almahmoud/gha-build/actions/runs/3750970365/jobs/6371491179)                   | Succeeded | [0 Bytes Clonality_1.46.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/Clonality_1.46.0_R_x86_64-pc-linux-gnu.tar.gz)                     |
 | [clustComp](https://github.com/almahmoud/gha-build/actions/runs/3747159396/jobs/6363281657)                   | Succeeded | [0 Bytes clustComp_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/clustComp_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                     |
 | [CNAnorm](https://github.com/almahmoud/gha-build/actions/runs/3747804409/jobs/6364440901)                     | Succeeded | [0 Bytes CNAnorm_1.44.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/CNAnorm_1.44.2_R_x86_64-pc-linux-gnu.tar.gz)                         |
 | [coGPS](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362915268)                       | Succeeded | [/__w/gha-build/gha-build/coGPS.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/coGPS.tar.gz)                                             |
@@ -3096,6 +3088,7 @@
 | [gpls](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362918526)                        | Succeeded | [/__w/gha-build/gha-build/gpls.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/gpls.tar.gz)                                               |
 | [GraphAlignment](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362917268)              | Succeeded | [/__w/gha-build/gha-build/GraphAlignment.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/GraphAlignment.tar.gz)                           |
 | [Harman](https://github.com/almahmoud/gha-build/actions/runs/3747881154/jobs/6364653832)                      | Succeeded | [Harman_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/Harman_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                                   |
+| [HMMcopy](https://github.com/almahmoud/gha-build/actions/runs/3750970365/jobs/6371490231)                     | Succeeded | [0 Bytes HMMcopy_1.40.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/HMMcopy_1.40.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
 | [hpar](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362916246)                        | Succeeded | [/__w/gha-build/gha-build/hpar.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/hpar.tar.gz)                                               |
 | [iASeq](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362922387)                       | Succeeded | [/__w/gha-build/gha-build/iASeq.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/iASeq.tar.gz)                                             |
 | [iChip](https://github.com/almahmoud/gha-build/actions/runs/3750915577/jobs/6371377431)                       | Succeeded | [0 Bytes iChip_1.52.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/iChip_1.52.0_R_x86_64-pc-linux-gnu.tar.gz)                             |
@@ -3113,6 +3106,7 @@
 | [limma](https://github.com/almahmoud/gha-build/actions/runs/3747083661/jobs/6363050744)                       | Succeeded | [/__w/gha-build/gha-build/limma.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/limma.tar.gz)                                             |
 | [lmdme](https://github.com/almahmoud/gha-build/actions/runs/3747804409/jobs/6364439546)                       | Succeeded | [0 Bytes lmdme_1.40.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/lmdme_1.40.0_R_x86_64-pc-linux-gnu.tar.gz)                             |
 | [LPE](https://github.com/almahmoud/gha-build/actions/runs/3750792145/jobs/6371251620)                         | Succeeded | [LPE_1.72.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/LPE_1.72.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
+| [lpNet](https://github.com/almahmoud/gha-build/actions/runs/3750970365/jobs/6371489446)                       | Succeeded | [0 Bytes lpNet_2.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/lpNet_2.30.0_R_x86_64-pc-linux-gnu.tar.gz)                             |
 | [lpsymphony](https://github.com/almahmoud/gha-build/actions/runs/3750792145/jobs/6371244605)                  | Succeeded | [lpsymphony_1.26.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/lpsymphony_1.26.2_R_x86_64-pc-linux-gnu.tar.gz)                           |
 | [MantelCorr](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362974842)                  | Succeeded | [/__w/gha-build/gha-build/MantelCorr.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/MantelCorr.tar.gz)                                   |
 | [MassArray](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362977260)                   | Succeeded | [/__w/gha-build/gha-build/MassArray.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/MassArray.tar.gz)                                     |
@@ -3165,6 +3159,7 @@
 | [semisup](https://github.com/almahmoud/gha-build/actions/runs/3747804409/jobs/6364431613)                     | Succeeded | [0 Bytes semisup_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/semisup_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
 | [SEPIRA](https://github.com/almahmoud/gha-build/actions/runs/3747159396/jobs/6363276941)                      | Succeeded | [0 Bytes SEPIRA_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/SEPIRA_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                           |
 | [seqLogo](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362976037)                     | Succeeded | [/__w/gha-build/gha-build/seqLogo.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/seqLogo.tar.gz)                                         |
+| [seqTools](https://github.com/almahmoud/gha-build/actions/runs/3750915577/jobs/6371384289)                    | Succeeded | [0 Bytes seqTools_1.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/seqTools_1.32.0_R_x86_64-pc-linux-gnu.tar.gz)                       |
 | [sigPathway](https://github.com/almahmoud/gha-build/actions/runs/3750792145/jobs/6371248213)                  | Succeeded | [sigPathway_1.66.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/sigPathway_1.66.1_R_x86_64-pc-linux-gnu.tar.gz)                           |
 | [similaRpeak](https://github.com/almahmoud/gha-build/actions/runs/3750915577/jobs/6371382778)                 | Succeeded | [0 Bytes similaRpeak_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/similaRpeak_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                 |
 | [sizepower](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362914782)                   | Succeeded | [/__w/gha-build/gha-build/sizepower.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/sizepower.tar.gz)                                     |
@@ -3330,6 +3325,7 @@
 | [RcppProgress](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362917171)                | Succeeded | [/__w/gha-build/gha-build/RcppProgress.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/RcppProgress.tar.gz)                               |
 | [truncnorm](https://github.com/almahmoud/gha-build/actions/runs/3747083661/jobs/6363053332)                   | Succeeded | [/__w/gha-build/gha-build/truncnorm.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/truncnorm.tar.gz)                                     |
 | [RcppGSL](https://github.com/almahmoud/gha-build/actions/runs/3747806018/jobs/6364436503)                     | Succeeded | [0 Bytes RcppGSL_0.3.12_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/RcppGSL_0.3.12_R_x86_64-pc-linux-gnu.tar.gz)                         |
+| [optimx](https://github.com/almahmoud/gha-build/actions/runs/3750970365/jobs/6371491084)                      | Succeeded | [0 Bytes optimx_2022-4.30_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/optimx_2022-4.30_R_x86_64-pc-linux-gnu.tar.gz)                     |
 | [pcaPP](https://github.com/almahmoud/gha-build/actions/runs/3747804409/jobs/6364437548)                       | Succeeded | [0 Bytes pcaPP_2.0-3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/pcaPP_2.0-3_R_x86_64-pc-linux-gnu.tar.gz)                               |
 | [limSolve](https://github.com/almahmoud/gha-build/actions/runs/3747806018/jobs/6364438516)                    | Succeeded | [0 Bytes limSolve_1.5.6_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/limSolve_1.5.6_R_x86_64-pc-linux-gnu.tar.gz)                         |
 | [ellipse](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362918948)                     | Succeeded | [/__w/gha-build/gha-build/ellipse.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/ellipse.tar.gz)                                         |
@@ -3345,6 +3341,7 @@
 | [Rdpack](https://github.com/almahmoud/gha-build/actions/runs/3747804409/jobs/6364437810)                      | Succeeded | [0 Bytes Rdpack_2.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/Rdpack_2.4_R_x86_64-pc-linux-gnu.tar.gz)                                 |
 | [emmeans](https://github.com/almahmoud/gha-build/actions/runs/3747804409/jobs/6364433596)                     | Succeeded | [0 Bytes emmeans_1.8.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/emmeans_1.8.3_R_x86_64-pc-linux-gnu.tar.gz)                           |
 | [gmp](https://github.com/almahmoud/gha-build/actions/runs/3747083661/jobs/6363053284)                         | Succeeded | [/__w/gha-build/gha-build/gmp.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/gmp.tar.gz)                                                 |
+| [Rmpfr](https://github.com/almahmoud/gha-build/actions/runs/3750915577/jobs/6371385988)                       | Succeeded | [0 Bytes Rmpfr_0.8-9_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/Rmpfr_0.8-9_R_x86_64-pc-linux-gnu.tar.gz)                               |
 | [ECOSolveR](https://github.com/almahmoud/gha-build/actions/runs/3750792145)                                   | Succeeded | [ECOSolveR_0.5.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/ECOSolveR_0.5.4_R_x86_64-pc-linux-gnu.tar.gz)                               |
 | [scs](https://github.com/almahmoud/gha-build/actions/runs/3750792145/jobs/6371249760)                         | Succeeded | [scs_3.0-1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/scs_3.0-1_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [estimability](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362919818)                | Succeeded | [/__w/gha-build/gha-build/estimability.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/estimability.tar.gz)                               |
@@ -3366,6 +3363,7 @@
 | [spatial](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362915726)                     | Succeeded | [/__w/gha-build/gha-build/spatial.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/spatial.tar.gz)                                         |
 | [gss](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362919912)                         | Succeeded | [/__w/gha-build/gha-build/gss.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/gss.tar.gz)                                                 |
 | [progressr](https://github.com/almahmoud/gha-build/actions/runs/3750915577/jobs/6371385594)                   | Succeeded | [0 Bytes progressr_0.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/progressr_0.12.0_R_x86_64-pc-linux-gnu.tar.gz)                     |
+| [SQUAREM](https://github.com/almahmoud/gha-build/actions/runs/3750915577/jobs/6371374755)                     | Succeeded | [SQUAREM_2021.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/SQUAREM_2021.1_R_x86_64-pc-linux-gnu.tar.gz)                                 |
 | [RMySQL](https://github.com/almahmoud/gha-build/actions/runs/3747804409/jobs/6364432476)                      | Succeeded | [0 Bytes RMySQL_0.10.25_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/RMySQL_0.10.25_R_x86_64-pc-linux-gnu.tar.gz)                         |
 | [stringdist](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362916872)                  | Succeeded | [/__w/gha-build/gha-build/stringdist.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/stringdist.tar.gz)                                   |
 | [RUnit](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362975814)                       | Succeeded | [/__w/gha-build/gha-build/RUnit.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/RUnit.tar.gz)                                             |
@@ -3663,6 +3661,7 @@
 | [KMsurv](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362976714)                      | Succeeded | [/__w/gha-build/gha-build/KMsurv.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/KMsurv.tar.gz)                                           |
 | [GWASExactHW](https://github.com/almahmoud/gha-build/actions/runs/3750912394)                                 | Succeeded | [GWASExactHW_1.01_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/GWASExactHW_1.01_R_x86_64-pc-linux-gnu.tar.gz)                             |
 | [lsr](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362975982)                         | Succeeded | [/__w/gha-build/gha-build/lsr.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/lsr.tar.gz)                                                 |
+| [word2vec](https://github.com/almahmoud/gha-build/actions/runs/3750915577/jobs/6371378539)                    | Succeeded | [0 Bytes word2vec_0.3.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/word2vec_0.3.4_R_x86_64-pc-linux-gnu.tar.gz)                         |
 | [repo](https://github.com/almahmoud/gha-build/actions/runs/3750915577/jobs/6371384145)                        | Succeeded | [0 Bytes repo_2.1.5_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/repo_2.1.5_R_x86_64-pc-linux-gnu.tar.gz)                                 |
 | [htm2txt](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362974123)                     | Succeeded | [/__w/gha-build/gha-build/htm2txt.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/htm2txt.tar.gz)                                         |
 | [proj4](https://github.com/almahmoud/gha-build/actions/runs/3750915577/jobs/6371377857)                       | Succeeded | [proj4_1.0-12_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/proj4_1.0-12_R_x86_64-pc-linux-gnu.tar.gz)                                     |
@@ -3745,6 +3744,7 @@
 | [BRISC](https://github.com/almahmoud/gha-build/actions/runs/3747881154/jobs/6364655557)                       | Succeeded | [BRISC_1.0.5_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/BRISC_1.0.5_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | [readstata13](https://github.com/almahmoud/gha-build/actions/runs/3747804409/jobs/6364435978)                 | Succeeded | [0 Bytes readstata13_0.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/readstata13_0.10.0_R_x86_64-pc-linux-gnu.tar.gz)                 |
 | [fstcore](https://github.com/almahmoud/gha-build/actions/runs/3747806018/jobs/6364438410)                     | Succeeded | [0 Bytes fstcore_0.9.12_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/fstcore_0.9.12_R_x86_64-pc-linux-gnu.tar.gz)                         |
+| [RankAggreg](https://github.com/almahmoud/gha-build/actions/runs/3750970365/jobs/6371489189)                  | Succeeded | [0 Bytes RankAggreg_0.6.6_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/RankAggreg_0.6.6_R_x86_64-pc-linux-gnu.tar.gz)                     |
 | [smatr](https://github.com/almahmoud/gha-build/actions/runs/3747121763/jobs/6363121664)                       | Succeeded | [/__w/gha-build/gha-build/smatr.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/smatr.tar.gz)                                             |
 | [paintmap](https://github.com/almahmoud/gha-build/actions/runs/3750912394/jobs/6371260176)                    | Succeeded | [paintmap_1.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47/paintmap_1.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | [uniqtag](https://github.com/almahmoud/gha-build/actions/runs/3747083661/jobs/6363049359)                     | Succeeded | [/__w/gha-build/gha-build/uniqtag.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/uniqtag.tar.gz)                                         |
