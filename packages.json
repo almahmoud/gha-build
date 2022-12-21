@@ -3252,7 +3252,6 @@
         "tibble",
         "tidyselect",
         "tinytex",
-        "triebeard",
         "urltools",
         "vctrs",
         "withr",
@@ -7879,7 +7878,6 @@
         "tibble",
         "tidyselect",
         "tinytex",
-        "triebeard",
         "tzdb",
         "urltools",
         "vctrs",
@@ -74626,7 +74624,6 @@
         "tidyselect",
         "timeDate",
         "timechange",
-        "triebeard",
         "tzdb",
         "urltools",
         "vctrs",
@@ -93171,7 +93168,6 @@
         "tidyr",
         "tidyselect",
         "tinytex",
-        "triebeard",
         "urltools",
         "vctrs",
         "withr",
@@ -113863,7 +113859,6 @@
         "stringi",
         "stringr",
         "sys",
-        "triebeard",
         "urltools",
         "vctrs"
     ],
@@ -114315,14 +114310,10 @@
         "httpcode",
         "jsonlite",
         "mime",
-        "triebeard",
         "urltools"
     ],
-    "urltools": [
-        "triebeard"
-    ],
+    "urltools": [],
     "httpcode": [],
-    "triebeard": [],
     "sampling": [],
     "rJava": [],
     "FDb.InfiniumMethylation.hg19": [
@@ -116560,7 +116551,6 @@
         "pkgconfig",
         "sys",
         "tibble",
-        "triebeard",
         "urltools",
         "vctrs"
     ],
@@ -126779,7 +126769,6 @@
         "stringi",
         "sys",
         "tibble",
-        "triebeard",
         "urltools",
         "vctrs"
     ],
@@ -128338,7 +128327,6 @@
         "tibble",
         "tidyselect",
         "tinytex",
-        "triebeard",
         "urltools",
         "vctrs",
         "withr",
@@ -128375,7 +128363,6 @@
         "tibble",
         "tidyselect",
         "tinytex",
-        "triebeard",
         "urltools",
         "vctrs",
         "withr",
