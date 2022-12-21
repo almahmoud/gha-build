@@ -28778,7 +28778,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "KEGGREST",
-        "ROTS",
         "RSQLite",
         "XVector",
         "affy",
@@ -33958,7 +33957,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
-        "ROTS",
         "SummarizedExperiment",
         "XVector",
         "ggplot2",
@@ -34006,7 +34004,6 @@
         "tidyselect"
     ],
     "ROSeq": [],
-    "ROTS": [],
     "RPA": [
         "BiocStyle",
         "Biostrings",
