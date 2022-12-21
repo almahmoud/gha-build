@@ -6763,7 +6763,6 @@
         "pheatmap",
         "pillar",
         "plotly",
-        "qs",
         "ragg",
         "restfulr",
         "reticulate",
@@ -9578,7 +9577,6 @@
         "knitr",
         "pillar",
         "progress",
-        "qs",
         "quantmod",
         "readxl",
         "reshape2",
@@ -49729,7 +49727,6 @@
         "tibble",
         "vctrs"
     ],
-    "qs": [],
     "ggfittext": [
         "ggplot2",
         "pillar",
