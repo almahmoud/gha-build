@@ -39418,7 +39418,6 @@
         "scales",
         "tibble"
     ],
-    "spkTools": [],
     "splatter": [
         "BiocNeighbors",
         "BiocSingular",
