@@ -5590,8 +5590,7 @@
         "visNetwork",
         "vroom",
         "waldo",
-        "withr",
-        "writexl"
+        "withr"
     ],
     "BiocCheck": [
         "Biobase",
@@ -36668,8 +36667,7 @@
         "tzdb",
         "vctrs",
         "vroom",
-        "withr",
-        "writexl"
+        "withr"
     ],
     "iSEE": [
         "Biobase",
@@ -86416,8 +86414,7 @@
         "vctrs",
         "vroom",
         "waldo",
-        "withr",
-        "writexl"
+        "withr"
     ],
     "shinythemes": [
         "bslib",
@@ -86553,7 +86550,6 @@
         "mnormt",
         "nlme"
     ],
-    "writexl": [],
     "shinyFiles": [
         "bslib",
         "httpuv",
@@ -91654,8 +91650,7 @@
         "tzdb",
         "vctrs",
         "vroom",
-        "withr",
-        "writexl"
+        "withr"
     ],
     "pd.mapping50k.xba240": [
         "Biobase",
