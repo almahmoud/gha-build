@@ -3169,7 +3169,6 @@
         "assertive.files",
         "assertive.matrices",
         "assertive.models",
-        "assertive.numbers",
         "assertive.properties",
         "assertive.reflection",
         "assertive.sets",
@@ -8396,7 +8395,6 @@
         "XVector",
         "askpass",
         "assertive.files",
-        "assertive.numbers",
         "assertive.properties",
         "assertive.types",
         "beachmat",
@@ -42029,7 +42027,6 @@
         "assertive.files",
         "assertive.matrices",
         "assertive.models",
-        "assertive.numbers",
         "assertive.properties",
         "assertive.reflection",
         "assertive.sets",
@@ -61701,7 +61698,6 @@
         "aplot",
         "askpass",
         "assertive.files",
-        "assertive.numbers",
         "assertive.properties",
         "assertive.types",
         "babelgene",
@@ -74200,7 +74196,6 @@
         "assertive.files",
         "assertive.matrices",
         "assertive.models",
-        "assertive.numbers",
         "assertive.properties",
         "assertive.reflection",
         "assertive.sets",
@@ -74216,7 +74211,6 @@
     "assertive.types": [
         "assertive.properties"
     ],
-    "assertive.numbers": [],
     "assertive.strings": [
         "assertive.properties",
         "assertive.types"
@@ -74225,9 +74219,7 @@
         "assertive.properties",
         "assertive.types"
     ],
-    "assertive.files": [
-        "assertive.numbers"
-    ],
+    "assertive.files": [],
     "assertive.sets": [],
     "assertive.matrices": [],
     "assertive.models": [],
@@ -75936,7 +75928,6 @@
     "multipanelfigure": [
         "Matrix",
         "assertive.files",
-        "assertive.numbers",
         "assertive.properties",
         "assertive.types",
         "ggplot2",
