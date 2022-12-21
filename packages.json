@@ -119026,7 +119026,6 @@
         "proxy",
         "ps",
         "purrr",
-        "pwr",
         "quantreg",
         "rappdirs",
         "rematch2",
@@ -119152,7 +119151,6 @@
         "proxy",
         "ps",
         "purrr",
-        "pwr",
         "quantreg",
         "rappdirs",
         "rematch2",
@@ -119282,7 +119280,6 @@
         "proxy",
         "ps",
         "purrr",
-        "pwr",
         "quantreg",
         "rappdirs",
         "rematch2",
@@ -174388,7 +174385,6 @@
         "withr",
         "xtable"
     ],
-    "pwr": [],
     "dunn.test": [],
     "bladderbatch": [
         "Biobase",
