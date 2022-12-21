@@ -92439,7 +92439,6 @@
         "foreach",
         "futile.logger",
         "futile.options",
-        "geigen",
         "genlasso",
         "ggbeeswarm",
         "ggplot2",
@@ -160056,7 +160055,6 @@
     ],
     "circular": [],
     "conicfit": [
-        "geigen",
         "pracma"
     ],
     "genlasso": [
@@ -160067,7 +160065,6 @@
         "pkgconfig",
         "rlang"
     ],
-    "geigen": [],
     "protolite": [
         "Rcpp",
         "jsonlite"
