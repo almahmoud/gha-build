@@ -70145,7 +70145,6 @@
         "lambda.r",
         "lattice"
     ],
-    "MBAmethyl": [],
     "MBASED": [
         "Biobase",
         "BiocGenerics",
