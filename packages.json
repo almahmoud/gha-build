@@ -12142,7 +12142,6 @@
         "MatrixModels",
         "RBGL",
         "RFOC",
-        "RSEIS",
         "RcppEigen",
         "Rgraphviz",
         "S4Vectors",
@@ -12930,7 +12929,6 @@
         "MatrixModels",
         "RBGL",
         "RFOC",
-        "RSEIS",
         "RcppEigen",
         "Rgraphviz",
         "S4Vectors",
@@ -18828,7 +18826,6 @@
         "MatrixModels",
         "RBGL",
         "RFOC",
-        "RSEIS",
         "RcppEigen",
         "Rgraphviz",
         "S4Vectors",
@@ -18879,7 +18876,6 @@
         "MatrixModels",
         "RBGL",
         "RFOC",
-        "RSEIS",
         "RcppEigen",
         "Rgraphviz",
         "S4Vectors",
@@ -62479,7 +62475,6 @@
     "rgeos": [],
     "RFOC": [
         "GEOmap",
-        "RSEIS",
         "fields",
         "ggplot2",
         "mgcv",
@@ -62502,7 +62497,6 @@
         "vctrs",
         "viridis"
     ],
-    "RSEIS": [],
     "splancs": [],
     "fields": [
         "ggplot2",
