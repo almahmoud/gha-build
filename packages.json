@@ -34402,9 +34402,7 @@
         "vctrs",
         "withr"
     ],
-    "ibh": [
-        "simpIntLists"
-    ],
+    "ibh": [],
     "iBMQ": [
         "Biobase",
         "Matrix",
@@ -91470,7 +91468,6 @@
         "vctrs",
         "withr"
     ],
-    "simpIntLists": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "AnnotationDbi",
         "Biobase",
