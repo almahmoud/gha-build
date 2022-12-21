@@ -62931,7 +62931,6 @@
         "purrr",
         "reshape2",
         "rmarkdown",
-        "sampSurf",
         "sass",
         "scales",
         "segmented",
@@ -82943,7 +82942,6 @@
         "vctrs"
     ],
     "RcppAlgos": [],
-    "sampSurf": [],
     "spdep": [
         "classInt",
         "e1071",
