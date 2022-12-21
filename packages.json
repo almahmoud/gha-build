@@ -929,7 +929,6 @@
         "mgcv",
         "nlme",
         "openssl",
-        "optimx",
         "pillar",
         "plotly",
         "promises",
@@ -36227,7 +36226,6 @@
         "mgcv",
         "multtest",
         "nlme",
-        "optimx",
         "pillar",
         "scales",
         "survival",
@@ -52213,7 +52211,6 @@
         "lifecycle",
         "mgcv",
         "nlme",
-        "optimx",
         "pillar",
         "reshape2",
         "scales",
@@ -73043,7 +73040,6 @@
     "segmented": [
         "nlme"
     ],
-    "optimx": [],
     "expm": [
         "Matrix"
     ],
@@ -81769,9 +81765,7 @@
         "tinytex",
         "vctrs"
     ],
-    "ExtDist": [
-        "optimx"
-    ],
+    "ExtDist": [],
     "googleVis": [],
     "phastCons100way.UCSC.hg19": [
         "AnnotationDbi",
