@@ -49170,7 +49170,6 @@
         "crosstalk",
         "cytomapper",
         "dbplyr",
-        "distances",
         "dplyr",
         "dqrng",
         "e1071",
@@ -63728,7 +63727,6 @@
         "clock",
         "cpp11",
         "deldir",
-        "distances",
         "dplyr",
         "e1071",
         "ellipsis",
@@ -128884,7 +128882,6 @@
         "withr",
         "wk"
     ],
-    "distances": [],
     "Rlabkey": [
         "askpass",
         "httr",
