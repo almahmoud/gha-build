@@ -35478,7 +35478,6 @@
         "pillar",
         "pkgconfig",
         "plyr",
-        "pvclust",
         "quadprog",
         "quantmod",
         "reshape",
@@ -98581,7 +98580,6 @@
         "lattice",
         "magrittr",
         "pkgconfig",
-        "pvclust",
         "rlang"
     ],
     "PanViz": [
@@ -128638,7 +128636,6 @@
         "proxy",
         "ps",
         "purrr",
-        "pvclust",
         "quantreg",
         "randomForest",
         "rappdirs",
@@ -143983,7 +143980,6 @@
         "nlme",
         "pillar",
         "pkgconfig",
-        "pvclust",
         "rlang",
         "scales",
         "shape",
@@ -165858,7 +165854,6 @@
         "xts",
         "zoo"
     ],
-    "pvclust": [],
     "truncdist": [
         "evd"
     ],
