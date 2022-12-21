@@ -48716,7 +48716,6 @@
         "HiCcompare",
         "IRanges",
         "InteractionSet",
-        "PRIMME",
         "QDNAseq",
         "Rsamtools",
         "S4Vectors",
@@ -50833,7 +50832,6 @@
         "IRanges",
         "InteractionSet",
         "MatrixModels",
-        "PRIMME",
         "QDNAseq",
         "RcppEigen",
         "Rsamtools",
@@ -62766,7 +62764,6 @@
         "spData"
     ],
     "spData": [],
-    "PRIMME": [],
     "alphahull": [
         "RcppEigen",
         "ggplot2",
