@@ -85868,7 +85868,6 @@
         "rmarkdown",
         "sass",
         "shiny",
-        "splines2",
         "stringi",
         "stringr",
         "sys",
@@ -123374,7 +123373,6 @@
         "vctrs",
         "withr"
     ],
-    "splines2": [],
     "SCATEData": [
         "AnnotationDbi",
         "AnnotationHub",
