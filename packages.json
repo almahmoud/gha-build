@@ -1392,7 +1392,6 @@
         "scales",
         "shiny",
         "shinyjs",
-        "stable",
         "statip",
         "stringr",
         "survival",
@@ -12391,7 +12390,6 @@
         "phylolm",
         "pillar",
         "scales",
-        "stable",
         "statip",
         "stringr",
         "tibble",
@@ -38115,7 +38113,6 @@
         "quantreg",
         "rematch2",
         "scales",
-        "stable",
         "statip",
         "survival",
         "testthat",
@@ -71943,7 +71940,6 @@
         "nlme",
         "pillar",
         "scales",
-        "stable",
         "statip",
         "tibble",
         "timeSeries",
@@ -71975,7 +71971,6 @@
     "rex": [],
     "modeest": [
         "fBasics",
-        "stable",
         "statip",
         "timeSeries"
     ],
@@ -71987,7 +71982,6 @@
     "fBasics": [
         "timeSeries"
     ],
-    "stable": [],
     "statip": [],
     "clock": [
         "lifecycle",
