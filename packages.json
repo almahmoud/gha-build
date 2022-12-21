@@ -230,7 +230,6 @@
         "blob",
         "genefilter",
         "ggplot2",
-        "gsl",
         "gtable",
         "httr",
         "lifecycle",
@@ -1514,7 +1513,6 @@
         "ggrepel",
         "gld",
         "gridExtra",
-        "gsl",
         "gtable",
         "highr",
         "hms",
@@ -5252,7 +5250,6 @@
         "glmnet",
         "gplots",
         "gridExtra",
-        "gsl",
         "gtable",
         "here",
         "highr",
@@ -16950,7 +16947,6 @@
     "covEB": [
         "Biobase",
         "Matrix",
-        "gsl",
         "igraph",
         "pkgconfig"
     ],
@@ -32960,8 +32956,7 @@
         "zoo"
     ],
     "GLAD": [
-        "aws",
-        "gsl"
+        "aws"
     ],
     "GladiaTOX": [
         "Matrix",
@@ -39661,7 +39656,6 @@
         "bit64",
         "blob",
         "foreach",
-        "gsl",
         "lifecycle",
         "oligo",
         "oligoClasses",
@@ -42443,8 +42437,7 @@
     ],
     "MANOR": [
         "GLAD",
-        "aws",
-        "gsl"
+        "aws"
     ],
     "mAPKL": [
         "AnnotationDbi",
@@ -47083,7 +47076,6 @@
         "gplots",
         "gridExtra",
         "gridSVG",
-        "gsl",
         "gtable",
         "hardhat",
         "highr",
@@ -48068,7 +48060,6 @@
         "gplots",
         "graph",
         "gridExtra",
-        "gsl",
         "gtable",
         "highr",
         "hms",
@@ -48301,7 +48292,6 @@
         "graphlayouts",
         "gridExtra",
         "groupdata2",
-        "gsl",
         "gson",
         "gtable",
         "hardhat",
@@ -59311,7 +59301,6 @@
         "ggplot2",
         "graph",
         "gridExtra",
-        "gsl",
         "gtable",
         "highr",
         "htmlwidgets",
@@ -60450,7 +60439,6 @@
         "doParallel",
         "evmix",
         "foreach",
-        "gsl",
         "mgcv",
         "nlme",
         "permute",
@@ -71025,7 +71013,6 @@
         "ggridges",
         "gplots",
         "gridExtra",
-        "gsl",
         "gtable",
         "here",
         "highr",
@@ -72925,7 +72912,6 @@
         "ggrepel",
         "graphlayouts",
         "gridExtra",
-        "gsl",
         "gtable",
         "igraph",
         "lifecycle",
@@ -74019,7 +74005,6 @@
         "aws",
         "doSNOW",
         "foreach",
-        "gsl",
         "pixmap",
         "sp"
     ],
@@ -76643,7 +76628,6 @@
         "blob",
         "genefilter",
         "ggplot2",
-        "gsl",
         "gtable",
         "httr",
         "lifecycle",
@@ -88667,15 +88651,12 @@
         "future"
     ],
     "future": [],
-    "aws": [
-        "gsl"
-    ],
+    "aws": [],
     "pixmap": [],
     "strucchange": [
         "sandwich",
         "zoo"
     ],
-    "gsl": [],
     "zoo": [],
     "sandwich": [
         "zoo"
@@ -89699,9 +89680,7 @@
         "tibble",
         "vctrs"
     ],
-    "energy": [
-        "gsl"
-    ],
+    "energy": [],
     "lmerTest": [
         "Matrix",
         "RColorBrewer",
@@ -100077,9 +100056,7 @@
         "stringr",
         "vctrs"
     ],
-    "evmix": [
-        "gsl"
-    ],
+    "evmix": [],
     "tidybayes": [
         "Matrix",
         "RColorBrewer",
@@ -101051,8 +101028,7 @@
         "xfun"
     ],
     "copula": [
-        "Matrix",
-        "gsl"
+        "Matrix"
     ],
     "proxyC": [
         "Matrix"
