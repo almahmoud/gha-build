@@ -27380,7 +27380,6 @@
         "patchwork",
         "pillar",
         "plotly",
-        "proj4",
         "promises",
         "purrr",
         "rmarkdown",
@@ -81101,7 +81100,6 @@
         "openssl",
         "pillar",
         "plotly",
-        "proj4",
         "promises",
         "purrr",
         "rmarkdown",
@@ -81133,7 +81131,6 @@
         "tibble",
         "vctrs"
     ],
-    "proj4": [],
     "HH": [
         "Hmisc",
         "Matrix",
