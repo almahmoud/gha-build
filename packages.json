@@ -1308,7 +1308,6 @@
         "rematch2",
         "reshape2",
         "rmarkdown",
-        "rootSolve",
         "rsvd",
         "sass",
         "scales",
@@ -4466,7 +4465,6 @@
         "rhdf5",
         "rhdf5filters",
         "rmarkdown",
-        "rootSolve",
         "rsvd",
         "sass",
         "scales",
@@ -8996,7 +8994,6 @@
         "rematch2",
         "reshape2",
         "rmarkdown",
-        "rootSolve",
         "sass",
         "scales",
         "sp",
@@ -28450,7 +28447,6 @@
         "progress",
         "pryr",
         "readxl",
-        "rootSolve",
         "stringr",
         "tibble",
         "vctrs"
@@ -31233,7 +31229,6 @@
         "readxl",
         "reshape2",
         "reticulate",
-        "rootSolve",
         "scales",
         "stringr",
         "tibble",
@@ -31822,7 +31817,6 @@
         "promises",
         "purrr",
         "restfulr",
-        "rootSolve",
         "rtracklayer",
         "sass",
         "scales",
@@ -39355,7 +39349,6 @@
         "rhdf5",
         "rhdf5filters",
         "rmarkdown",
-        "rootSolve",
         "rsvd",
         "sandwich",
         "sass",
@@ -60561,7 +60554,6 @@
         "progress",
         "readxl",
         "restfulr",
-        "rootSolve",
         "rtracklayer",
         "tibble",
         "vctrs"
@@ -74791,7 +74783,6 @@
         "pillar",
         "progress",
         "readxl",
-        "rootSolve",
         "tibble",
         "vctrs"
     ],
@@ -74821,16 +74812,13 @@
     "osqp": [
         "Matrix"
     ],
-    "Exact": [
-        "rootSolve"
-    ],
+    "Exact": [],
     "gld": [
         "e1071"
     ],
     "ape": [
         "nlme"
     ],
-    "rootSolve": [],
     "tidytree": [
         "ape",
         "dplyr",
@@ -77994,8 +77982,7 @@
         "robustbase"
     ],
     "FME": [
-        "coda",
-        "rootSolve"
+        "coda"
     ],
     "SpatialTools": [
         "Matrix",
