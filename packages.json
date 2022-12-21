@@ -33074,7 +33074,6 @@
         "e1071",
         "ggplot2",
         "gplots",
-        "irr",
         "lifecycle",
         "mgcv",
         "nlme",
@@ -79796,7 +79795,6 @@
     "akima": [
         "sp"
     ],
-    "irr": [],
     "scam": [
         "Matrix",
         "mgcv",
