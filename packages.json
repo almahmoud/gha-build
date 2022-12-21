@@ -73381,7 +73381,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "circular",
         "cli",
         "conicfit",
         "cpp11",
@@ -106275,7 +106274,6 @@
         "beachmat",
         "bit64",
         "blob",
-        "circular",
         "cli",
         "cpp11",
         "dplyr",
@@ -126674,7 +126672,6 @@
         "R.oo",
         "R.utils"
     ],
-    "circular": [],
     "conicfit": [],
     "genlasso": [
         "Matrix",
