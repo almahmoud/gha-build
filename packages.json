@@ -5479,7 +5479,6 @@
         "RCurl",
         "RSQLite",
         "Rcpp",
-        "Rlab",
         "S4Vectors",
         "XML",
         "XVector",
@@ -137760,7 +137759,6 @@
         "Rcpp",
         "RcppArmadillo",
         "Rhdf5lib",
-        "Rlab",
         "S4Vectors",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -154020,7 +154018,6 @@
         "survival"
     ],
     "rmeta": [],
-    "Rlab": [],
     "plot3D": [
         "misc3d"
     ],
