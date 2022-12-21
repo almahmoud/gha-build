@@ -4736,7 +4736,6 @@
         "Hmisc",
         "IRanges",
         "KEGGREST",
-        "NetRep",
         "RSQLite",
         "RcppEigen",
         "S4Vectors",
@@ -6136,7 +6135,6 @@
         "Hmisc",
         "IRanges",
         "KEGGREST",
-        "NetRep",
         "OrganismDbi",
         "RBGL",
         "RSQLite",
@@ -23590,7 +23588,6 @@
         "Hmisc",
         "IRanges",
         "KEGGREST",
-        "NetRep",
         "RSQLite",
         "RcppEigen",
         "S4Vectors",
@@ -61718,7 +61715,6 @@
         "stringr",
         "vctrs"
     ],
-    "NetRep": [],
     "network": [
         "pillar",
         "statnet.common",
