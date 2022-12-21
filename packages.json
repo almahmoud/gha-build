@@ -101159,7 +101159,6 @@
         "bit64",
         "lattice",
         "nanotime",
-        "spdl",
         "tiledb",
         "zoo"
     ],
@@ -126110,7 +126109,6 @@
         "bit64",
         "lattice",
         "nanotime",
-        "spdl",
         "zoo"
     ],
     "nanotime": [
@@ -126118,7 +126116,6 @@
         "lattice",
         "zoo"
     ],
-    "spdl": [],
     "FreqProf": [
         "Matrix",
         "RColorBrewer",
