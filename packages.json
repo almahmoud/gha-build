@@ -18613,7 +18613,6 @@
         "processx",
         "promises",
         "purrr",
-        "relimp",
         "reshape2",
         "rmarkdown",
         "rvest",
@@ -80232,14 +80231,11 @@
     ],
     "MetaCycle": [
         "Matrix",
-        "gnm",
-        "relimp"
+        "gnm"
     ],
     "gnm": [
-        "Matrix",
-        "relimp"
+        "Matrix"
     ],
-    "relimp": [],
     "fastDummies": [
         "lifecycle",
         "pillar",
