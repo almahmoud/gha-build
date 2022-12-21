@@ -8032,7 +8032,6 @@
         "tokenizers",
         "treeio",
         "truncnorm",
-        "trust",
         "utf8",
         "uwot",
         "vctrs",
@@ -111238,7 +111237,6 @@
         "stringi",
         "stringr",
         "tibble",
-        "trust",
         "utf8",
         "vctrs",
         "viridisLite",
@@ -139331,7 +139329,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "trust",
         "utf8",
         "vctrs",
         "vegan",
@@ -139369,7 +139366,6 @@
         "numDeriv",
         "optextras"
     ],
-    "trust": [],
     "detectseparation": [
         "ROI",
         "ROI.plugin.lpsolve",
