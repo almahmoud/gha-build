@@ -2542,7 +2542,6 @@
         "highr",
         "hms",
         "htmlwidgets",
-        "httpcode",
         "httpuv",
         "httr",
         "interactiveDisplayBase",
@@ -6247,7 +6246,6 @@
         "highr",
         "hms",
         "htmlwidgets",
-        "httpcode",
         "httr",
         "igraph",
         "knitr",
@@ -59405,7 +59403,6 @@
         "hardhat",
         "hexbin",
         "hms",
-        "httpcode",
         "httr",
         "igraph",
         "ipred",
@@ -74171,7 +74168,6 @@
         "highr",
         "hms",
         "htmlwidgets",
-        "httpcode",
         "httpuv",
         "httr",
         "interactiveDisplayBase",
@@ -90438,7 +90434,6 @@
     "rsnps": [
         "askpass",
         "crul",
-        "httpcode",
         "httr",
         "lifecycle",
         "openssl",
@@ -90801,10 +90796,7 @@
     "openxlsx": [
         "stringi"
     ],
-    "crul": [
-        "httpcode"
-    ],
-    "httpcode": [],
+    "crul": [],
     "sampling": [],
     "FDb.InfiniumMethylation.hg19": [
         "AnnotationDbi",
@@ -92456,7 +92448,6 @@
         "askpass",
         "crul",
         "fauxpas",
-        "httpcode",
         "httr",
         "lifecycle",
         "openssl",
@@ -92467,9 +92458,7 @@
         "vctrs"
     ],
     "gitcreds": [],
-    "fauxpas": [
-        "httpcode"
-    ],
+    "fauxpas": [],
     "styler": [
         "lifecycle",
         "purrr",
@@ -100005,7 +99994,6 @@
     "osfr": [
         "askpass",
         "crul",
-        "httpcode",
         "httr",
         "lifecycle",
         "openssl",
@@ -101150,7 +101138,6 @@
         "hexbin",
         "highr",
         "htmlwidgets",
-        "httpcode",
         "httr",
         "knitr",
         "lifecycle",
@@ -101179,7 +101166,6 @@
         "crul",
         "dplyr",
         "highr",
-        "httpcode",
         "httr",
         "knitr",
         "lifecycle",
