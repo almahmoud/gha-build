@@ -39550,7 +39550,6 @@
         "jsonlite",
         "labeling",
         "lambda.r",
-        "lars",
         "lattice",
         "lazyeval",
         "lifecycle",
@@ -59813,7 +59812,6 @@
         "jsonlite",
         "knitr",
         "labeling",
-        "lars",
         "lattice",
         "lifecycle",
         "limma",
@@ -59966,7 +59964,6 @@
         "knitr",
         "labeling",
         "lambda.r",
-        "lars",
         "lattice",
         "latticeExtra",
         "lifecycle",
@@ -70559,7 +70556,6 @@
         "kernlab",
         "knitr",
         "labeling",
-        "lars",
         "lattice",
         "lifecycle",
         "limma",
@@ -83203,7 +83199,6 @@
     ],
     "pathwayPCA": [
         "Matrix",
-        "lars",
         "lattice",
         "survival"
     ],
@@ -104448,7 +104443,6 @@
         "globals",
         "kernlab",
         "lambda.r",
-        "lars",
         "lattice",
         "lifecycle",
         "listenv",
@@ -121285,7 +121279,6 @@
         "knitr",
         "labeling",
         "lambda.r",
-        "lars",
         "lassopv",
         "lattice",
         "latticeExtra",
@@ -139953,7 +139946,6 @@
         "withr"
     ],
     "ash": [],
-    "lars": [],
     "gcspikelite": [],
     "SPARQL": [],
     "effsize": [],
@@ -141947,7 +141939,6 @@
         "DEoptimR",
         "class",
         "e1071",
-        "lars",
         "mclust",
         "nnet",
         "pcaPP",
@@ -146584,9 +146575,7 @@
     ],
     "coro": [],
     "logitnorm": [],
-    "elasticnet": [
-        "lars"
-    ],
+    "elasticnet": [],
     "sparsepca": [
         "Matrix",
         "lattice",
@@ -148463,9 +148452,7 @@
     ],
     "RNifti": [],
     "vbsr": [],
-    "lassopv": [
-        "lars"
-    ],
+    "lassopv": [],
     "RPostgreSQL": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
