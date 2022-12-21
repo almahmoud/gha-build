@@ -80056,7 +80056,6 @@
         "cpp11",
         "futile.logger",
         "futile.options",
-        "redux",
         "withr"
     ],
     "REDseq": [
@@ -124433,7 +124432,6 @@
         "BiocGenerics",
         "graph"
     ],
-    "redux": [],
     "BSgenome.Celegans.UCSC.ce2": [
         "BSgenome",
         "Biobase",
