@@ -34044,7 +34044,6 @@
         "vctrs",
         "vroom"
     ],
-    "nnNorm": [],
     "nnSVG": [
         "BiocFileCache",
         "DelayedArray",
