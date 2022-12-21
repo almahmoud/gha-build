@@ -19121,7 +19121,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "HSMMSingleCell",
         "Hmisc",
         "IRanges",
         "KEGGREST",
@@ -72728,7 +72727,6 @@
         "BH",
         "Biobase",
         "DDRTree",
-        "HSMMSingleCell",
         "MASS",
         "Matrix",
         "R6",
@@ -125511,7 +125509,6 @@
         "BH",
         "Biobase",
         "DDRTree",
-        "HSMMSingleCell",
         "KernSmooth",
         "MASS",
         "Matrix",
@@ -139194,7 +139191,6 @@
         "RcppEigen",
         "irlba"
     ],
-    "HSMMSingleCell": [],
     "leidenbase": [
         "Matrix",
         "igraph",
