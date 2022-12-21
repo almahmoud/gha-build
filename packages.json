@@ -9856,10 +9856,7 @@
         "withr",
         "xfun"
     ],
-    "BufferedMatrix": [],
-    "BufferedMatrixMethods": [
-        "BufferedMatrix"
-    ],
+    "BufferedMatrixMethods": [],
     "bugsigdbr": [
         "BiocFileCache",
         "RSQLite",
