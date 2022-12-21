@@ -59859,7 +59859,6 @@
         "abind",
         "ade4",
         "annotate",
-        "aods3",
         "askpass",
         "backports",
         "beachmat",
@@ -147039,7 +147038,6 @@
         "sys",
         "vctrs"
     ],
-    "aods3": [],
     "sortable": [
         "backports",
         "bslib",
