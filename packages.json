@@ -6439,7 +6439,6 @@
         "tokenizers",
         "treeio",
         "truncnorm",
-        "trust",
         "utf8",
         "uwot",
         "vctrs",
@@ -88096,7 +88095,6 @@
         "scales",
         "stringr",
         "tibble",
-        "trust",
         "utf8",
         "vctrs",
         "viridisLite",
@@ -110010,7 +110008,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "trust",
         "utf8",
         "vctrs",
         "vegan",
@@ -110039,7 +110036,6 @@
         "optextras",
         "setRNG"
     ],
-    "trust": [],
     "detectseparation": [
         "ROI",
         "ROI.plugin.lpsolve",
