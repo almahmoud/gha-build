@@ -3013,7 +3013,6 @@
         "lumi",
         "magrittr",
         "mclust",
-        "mdqc",
         "methylumi",
         "mgcv",
         "mime",
@@ -47827,7 +47826,6 @@
         "vctrs",
         "withr"
     ],
-    "mdqc": [],
     "MDTS": [
         "Biobase",
         "BiocGenerics",
