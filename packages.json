@@ -642,7 +642,6 @@
         "BiocVersion",
         "Biostrings",
         "DBI",
-        "DEoptimR",
         "DT",
         "ExperimentHub",
         "GenomeInfoDb",
@@ -6855,7 +6854,6 @@
         "BiocStyle",
         "Biostrings",
         "DBI",
-        "DEoptimR",
         "DelayedArray",
         "FNN",
         "GenomeInfoDb",
@@ -12953,7 +12951,6 @@
         "BoolNet",
         "CellNOptR",
         "DBI",
-        "DEoptimR",
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
@@ -15208,7 +15205,6 @@
         "Biobase",
         "BiocManager",
         "BiocParallel",
-        "DEoptimR",
         "DelayedArray",
         "Formula",
         "GenomeInfoDb",
@@ -15329,7 +15325,6 @@
         "Biostrings",
         "Category",
         "DBI",
-        "DEoptimR",
         "EBarrays",
         "Formula",
         "GSEABase",
@@ -17368,7 +17363,6 @@
         "Biobase",
         "Biostrings",
         "DBI",
-        "DEoptimR",
         "GO.db",
         "GenomeInfoDb",
         "IRanges",
@@ -22124,7 +22118,6 @@
         "Biobase",
         "BiocManager",
         "BiocParallel",
-        "DEoptimR",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -24172,7 +24165,6 @@
     ],
     "cogena": [
         "Biobase",
-        "DEoptimR",
         "KernSmooth",
         "MASS",
         "Matrix",
@@ -25584,7 +25576,6 @@
         "Biostrings",
         "Cairo",
         "DBI",
-        "DEoptimR",
         "DOSE",
         "DT",
         "DelayedArray",
@@ -25968,7 +25959,6 @@
     "CONFESS": [
         "BH",
         "Biobase",
-        "DEoptimR",
         "EBImage",
         "FNN",
         "Formula",
@@ -27177,7 +27167,6 @@
         "Biostrings",
         "DBI",
         "DESeq2",
-        "DEoptimR",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -27264,7 +27253,6 @@
         "Biobase",
         "BiocManager",
         "BiocParallel",
-        "DEoptimR",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -29488,7 +29476,6 @@
         "zoo"
     ],
     "ctsGE": [
-        "DEoptimR",
         "MASS",
         "Matrix",
         "R6",
@@ -31686,7 +31673,6 @@
         "Biostrings",
         "BoolNet",
         "DBI",
-        "DEoptimR",
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
@@ -33460,7 +33446,6 @@
     ],
     "DEGraph": [
         "BH",
-        "DEoptimR",
         "IRdisplay",
         "IRkernel",
         "KEGGgraph",
@@ -34144,7 +34129,6 @@
     "DepecheR": [
         "BH",
         "BiocParallel",
-        "DEoptimR",
         "FNN",
         "KernSmooth",
         "MASS",
@@ -34759,7 +34743,6 @@
     ],
     "destiny": [
         "Biobase",
-        "DEoptimR",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -36214,7 +36197,6 @@
     ],
     "discordant": [
         "Biobase",
-        "DEoptimR",
         "MASS",
         "R6",
         "Rcpp",
@@ -39256,7 +39238,6 @@
         "BiocSingular",
         "Biostrings",
         "DBI",
-        "DEoptimR",
         "DT",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -41496,7 +41477,6 @@
         "BiocVersion",
         "Biostrings",
         "DBI",
-        "DEoptimR",
         "DT",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -41684,7 +41664,6 @@
     "epiNEM": [
         "BH",
         "BoolNet",
-        "DEoptimR",
         "Linnorm",
         "MASS",
         "Matrix",
@@ -42979,7 +42958,6 @@
     "evaluomeR": [
         "Biobase",
         "BiocBaseUtils",
-        "DEoptimR",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -45090,7 +45068,6 @@
         "BH",
         "Biobase",
         "BiocParallel",
-        "DEoptimR",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -45760,7 +45737,6 @@
         "BiocManager",
         "BiocParallel",
         "CAMERA",
-        "DEoptimR",
         "DelayedArray",
         "Formula",
         "GenomeInfoDb",
@@ -46145,7 +46121,6 @@
     "flowBeads": [
         "BH",
         "Biobase",
-        "DEoptimR",
         "RProtoBufLib",
         "Rcpp",
         "Rhdf5lib",
@@ -46765,7 +46740,6 @@
     "flowMeans": [
         "BH",
         "Biobase",
-        "DEoptimR",
         "FNN",
         "KernSmooth",
         "Matrix",
@@ -46793,7 +46767,6 @@
     "flowMerge": [
         "BH",
         "Biobase",
-        "DEoptimR",
         "FNN",
         "KernSmooth",
         "Matrix",
@@ -47064,7 +47037,6 @@
     "flowStats": [
         "BH",
         "Biobase",
-        "DEoptimR",
         "DelayedArray",
         "FNN",
         "IDPmisc",
@@ -47218,7 +47190,6 @@
     "flowVS": [
         "BH",
         "Biobase",
-        "DEoptimR",
         "DelayedArray",
         "FNN",
         "IDPmisc",
@@ -48134,7 +48105,6 @@
     ],
     "FuseSOM": [
         "Biobase",
-        "DEoptimR",
         "DataVisualizations",
         "DelayedArray",
         "FCPS",
@@ -48739,7 +48709,6 @@
     "GateFinder": [
         "BH",
         "Biobase",
-        "DEoptimR",
         "IDPmisc",
         "KernSmooth",
         "MASS",
@@ -52159,7 +52128,6 @@
     "GeoDiff": [
         "Biobase",
         "Biostrings",
-        "DEoptimR",
         "EnvStats",
         "GGally",
         "GenomeInfoDb",
@@ -55536,7 +55504,6 @@
     "granulator": [
         "BiasedUrn",
         "DBI",
-        "DEoptimR",
         "KernSmooth",
         "MASS",
         "Matrix",
@@ -63232,7 +63199,6 @@
         "BiocManager",
         "BiocParallel",
         "CAMERA",
-        "DEoptimR",
         "DelayedArray",
         "Formula",
         "GenomeInfoDb",
@@ -64628,7 +64594,6 @@
     "iterativeBMA": [
         "BMA",
         "Biobase",
-        "DEoptimR",
         "Matrix",
         "inline",
         "leaps",
@@ -64640,7 +64605,6 @@
     ],
     "iterativeBMAsurv": [
         "BMA",
-        "DEoptimR",
         "Matrix",
         "inline",
         "leaps",
@@ -66330,7 +66294,6 @@
         "zlibbioc"
     ],
     "Linnorm": [
-        "DEoptimR",
         "MASS",
         "Matrix",
         "R6",
@@ -66792,7 +66755,6 @@
         "BiocManager",
         "BiocParallel",
         "CAMERA",
-        "DEoptimR",
         "DelayedArray",
         "Formula",
         "GenomeInfoDb",
@@ -67819,7 +67781,6 @@
     "Maaslin2": [
         "Biobase",
         "DBI",
-        "DEoptimR",
         "KernSmooth",
         "MASS",
         "Matrix",
@@ -67937,7 +67898,6 @@
         "BiocParallel",
         "Biostrings",
         "DBI",
-        "DEoptimR",
         "DelayedArray",
         "Formula",
         "GO.db",
@@ -68938,7 +68898,6 @@
         "BiocManager",
         "BiocParallel",
         "CAMERA",
-        "DEoptimR",
         "DelayedArray",
         "Formula",
         "GenomeInfoDb",
@@ -71933,7 +71892,6 @@
         "Biobase",
         "BiocManager",
         "BiocParallel",
-        "DEoptimR",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -72760,7 +72718,6 @@
         "BiocManager",
         "BiocParallel",
         "CAMERA",
-        "DEoptimR",
         "DelayedArray",
         "Formula",
         "GenomeInfoDb",
@@ -73475,7 +73432,6 @@
     ],
     "MetaVolcanoR": [
         "Biobase",
-        "DEoptimR",
         "MASS",
         "Matrix",
         "MatrixModels",
@@ -76184,7 +76140,6 @@
     "microbiome": [
         "Biobase",
         "Biostrings",
-        "DEoptimR",
         "GenomeInfoDb",
         "IRanges",
         "MASS",
@@ -77526,7 +77481,6 @@
         "Biostrings",
         "Category",
         "DBI",
-        "DEoptimR",
         "DelayedArray",
         "DelayedMatrixStats",
         "FDb.InfiniumMethylation.hg19",
@@ -78142,7 +78096,6 @@
         "Biostrings",
         "Category",
         "DBI",
-        "DEoptimR",
         "DelayedArray",
         "Formula",
         "GO.db",
@@ -79551,7 +79504,6 @@
         "Biobase",
         "Biostrings",
         "DBI",
-        "DEoptimR",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -79995,7 +79947,6 @@
     "MMUPHin": [
         "Biobase",
         "DBI",
-        "DEoptimR",
         "KernSmooth",
         "MASS",
         "Maaslin2",
@@ -80119,7 +80070,6 @@
         "yaml"
     ],
     "mnem": [
-        "DEoptimR",
         "Linnorm",
         "MASS",
         "Matrix",
@@ -80266,7 +80216,6 @@
         "Biobase",
         "BiocManager",
         "BiocParallel",
-        "DEoptimR",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -80642,7 +80591,6 @@
         "Biobase",
         "BiocBaseUtils",
         "ComplexHeatmap",
-        "DEoptimR",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -82834,7 +82782,6 @@
         "BiocParallel",
         "Biostrings",
         "DBI",
-        "DEoptimR",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -84429,7 +84376,6 @@
         "BiocParallel",
         "Biostrings",
         "DBI",
-        "DEoptimR",
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
@@ -84681,7 +84627,6 @@
         "Biostrings",
         "DBI",
         "DESeq2",
-        "DEoptimR",
         "DOSE",
         "DT",
         "DelayedArray",
@@ -86012,7 +85957,6 @@
         "CNEr",
         "ChIPpeakAnno",
         "DBI",
-        "DEoptimR",
         "DT",
         "DelayedArray",
         "DirichletMultinomial",
@@ -86826,7 +86770,6 @@
         "Biobase",
         "BiocManager",
         "BiocParallel",
-        "DEoptimR",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -87268,7 +87211,6 @@
     "nempi": [
         "BH",
         "BoolNet",
-        "DEoptimR",
         "Linnorm",
         "MASS",
         "Matrix",
@@ -89068,7 +89010,6 @@
     ],
     "NormqPCR": [
         "Biobase",
-        "DEoptimR",
         "MASS",
         "Matrix",
         "R6",
@@ -90159,7 +90100,6 @@
     "omada": [
         "Biobase",
         "BiocManager",
-        "DEoptimR",
         "KernSmooth",
         "MASS",
         "Matrix",
@@ -90367,7 +90307,6 @@
         "BH",
         "Biobase",
         "BiocParallel",
-        "DEoptimR",
         "DT",
         "DelayedArray",
         "GenomeInfoDb",
@@ -90698,7 +90637,6 @@
         "BiocParallel",
         "Biostrings",
         "DBI",
-        "DEoptimR",
         "DT",
         "DelayedArray",
         "FactoMineR",
@@ -92242,7 +92180,6 @@
     "optimalFlow": [
         "BH",
         "Biobase",
-        "DEoptimR",
         "FNN",
         "KernSmooth",
         "Matrix",
@@ -93586,7 +93523,6 @@
         "BiocParallel",
         "Biostrings",
         "DBI",
-        "DEoptimR",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -95569,7 +95505,6 @@
         "Biostrings",
         "DBI",
         "DESeq2",
-        "DEoptimR",
         "DelayedArray",
         "GEOquery",
         "GenomeInfoDb",
@@ -96023,7 +95958,6 @@
         "Biostrings",
         "Category",
         "DBI",
-        "DEoptimR",
         "Formula",
         "GSEABase",
         "GenomeInfoDb",
@@ -99135,7 +99069,6 @@
         "Biobase",
         "BiocManager",
         "BiocParallel",
-        "DEoptimR",
         "Formula",
         "Hmisc",
         "IRanges",
@@ -99641,7 +99574,6 @@
         "BiocBaseUtils",
         "BiocManager",
         "BiocParallel",
-        "DEoptimR",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -100087,7 +100019,6 @@
         "BiocParallel",
         "Biostrings",
         "DBI",
-        "DEoptimR",
         "DelayedArray",
         "FNN",
         "GenomeInfoDb",
@@ -100280,7 +100211,6 @@
         "BiocParallel",
         "Biostrings",
         "DBI",
-        "DEoptimR",
         "DT",
         "DelayedArray",
         "FNN",
@@ -102431,7 +102361,6 @@
     ],
     "qmtools": [
         "Biobase",
-        "DEoptimR",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -109627,7 +109556,6 @@
         "Biobase",
         "BiocManager",
         "BiocParallel",
-        "DEoptimR",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -112613,7 +112541,6 @@
         "Biobase",
         "BiocBaseUtils",
         "CompQuadForm",
-        "DEoptimR",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -114580,7 +114507,6 @@
     ],
     "SC3": [
         "Biobase",
-        "DEoptimR",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -117868,7 +117794,6 @@
         "BiocParallel",
         "Biostrings",
         "DBI",
-        "DEoptimR",
         "DelayedArray",
         "EDASeq",
         "GenomeInfoDb",
@@ -118385,7 +118310,6 @@
         "Biostrings",
         "Cairo",
         "DBI",
-        "DEoptimR",
         "DelayedArray",
         "DelayedMatrixStats",
         "FNN",
@@ -120235,7 +120159,6 @@
         "BH",
         "BiocParallel",
         "Biostrings",
-        "DEoptimR",
         "GenomeInfoDb",
         "IRanges",
         "MASS",
@@ -121735,7 +121658,6 @@
         "BiocParallel",
         "Biostrings",
         "DBI",
-        "DEoptimR",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -123378,7 +123300,6 @@
         "ComplexHeatmap",
         "DBI",
         "DESeq2",
-        "DEoptimR",
         "DT",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -129574,7 +129495,6 @@
         "zlibbioc"
     ],
     "statTarget": [
-        "DEoptimR",
         "ROC",
         "Rcpp",
         "evaluate",
@@ -130765,7 +130685,6 @@
     "survtype": [
         "BMA",
         "Biobase",
-        "DEoptimR",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -139455,7 +139374,6 @@
         "Biobase",
         "BiocManager",
         "DDRTree",
-        "DEoptimR",
         "HSMMSingleCell",
         "KernSmooth",
         "MASS",
@@ -142513,7 +142431,6 @@
         "Biobase",
         "BiocManager",
         "BiocParallel",
-        "DEoptimR",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -145079,7 +144996,6 @@
     ],
     "pracma": [],
     "fpc": [
-        "DEoptimR",
         "MASS",
         "class",
         "cluster",
@@ -145116,9 +145032,7 @@
         "MASS"
     ],
     "diptest": [],
-    "robustbase": [
-        "DEoptimR"
-    ],
+    "robustbase": [],
     "kernlab": [],
     "ncdf4": [],
     "selectr": [
@@ -145159,7 +145073,6 @@
     ],
     "filelock": [],
     "modeltools": [],
-    "DEoptimR": [],
     "xts": [
         "zoo"
     ],
@@ -152112,7 +152025,6 @@
     ],
     "pcalg": [
         "BH",
-        "DEoptimR",
         "MASS",
         "Matrix",
         "RBGL",
@@ -152696,7 +152608,6 @@
     ],
     "operator.tools": [],
     "BMA": [
-        "DEoptimR",
         "Matrix",
         "inline",
         "leaps",
@@ -152708,7 +152619,6 @@
     ],
     "leaps": [],
     "rrcov": [
-        "DEoptimR",
         "mvtnorm",
         "pcaPP",
         "robustbase"
@@ -153029,7 +152939,6 @@
     ],
     "tictoc": [],
     "mvoutlier": [
-        "DEoptimR",
         "robustbase",
         "sgeostat"
     ],
@@ -155267,7 +155176,6 @@
         "Rcpp"
     ],
     "biwt": [
-        "DEoptimR",
         "MASS",
         "robustbase"
     ],
@@ -155984,7 +155892,6 @@
         "plotrix"
     ],
     "compositions": [
-        "DEoptimR",
         "MASS",
         "Rcpp",
         "RcppArmadillo",
@@ -156002,7 +155909,6 @@
         "Biobase",
         "BiocManager",
         "BiocParallel",
-        "DEoptimR",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -156426,7 +156332,6 @@
         "zoo"
     ],
     "ccaPP": [
-        "DEoptimR",
         "Rcpp",
         "RcppArmadillo",
         "mvtnorm",
@@ -157042,7 +156947,6 @@
     ],
     "metap": [
         "Biobase",
-        "DEoptimR",
         "MASS",
         "Matrix",
         "MatrixModels",
@@ -157100,7 +157004,6 @@
         "zoo"
     ],
     "qqconf": [
-        "DEoptimR",
         "MASS",
         "Rcpp",
         "robustbase"
@@ -157584,7 +157487,6 @@
         "withr"
     ],
     "VIM": [
-        "DEoptimR",
         "MASS",
         "Matrix",
         "MatrixModels",
@@ -159285,7 +159187,6 @@
         "RcppProgress"
     ],
     "robust": [
-        "DEoptimR",
         "MASS",
         "fit.models",
         "mvtnorm",
@@ -159737,9 +159638,7 @@
         "zip",
         "zoo"
     ],
-    "dtangle": [
-        "DEoptimR"
-    ],
+    "dtangle": [],
     "sf": [
         "DBI",
         "KernSmooth",
@@ -160995,7 +160894,6 @@
         "withr"
     ],
     "chemometrics": [
-        "DEoptimR",
         "MASS",
         "class",
         "e1071",
@@ -163013,7 +162911,6 @@
     "countrycode": [],
     "svd": [],
     "MKmisc": [
-        "DEoptimR",
         "MASS",
         "Matrix",
         "R6",
@@ -163614,7 +163511,6 @@
         "Rcpp"
     ],
     "qpcR": [
-        "DEoptimR",
         "MASS",
         "Matrix",
         "R6",
@@ -166554,7 +166450,6 @@
     "chromhmmData": [],
     "seq2pathway.data": [],
     "cvTools": [
-        "DEoptimR",
         "robustbase"
     ],
     "adehabitatLT": [
@@ -167868,7 +167763,6 @@
     ],
     "clustvarsel": [
         "BMA",
-        "DEoptimR",
         "Matrix",
         "codetools",
         "foreach",
