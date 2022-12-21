@@ -2633,7 +2633,6 @@
         "viridis",
         "webshot"
     ],
-    "BayesKnockdown": [],
     "BayesSpace": [
         "BiocFileCache",
         "BiocNeighbors",
