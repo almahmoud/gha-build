@@ -10332,7 +10332,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "WriteXLS",
         "XVector",
         "askpass",
         "biomaRt",
@@ -17852,7 +17851,6 @@
     "COHCAP": [
         "KernSmooth",
         "RcppArmadillo",
-        "WriteXLS",
         "caTools",
         "gplots",
         "gtools"
@@ -32885,7 +32883,6 @@
         "SummarizedExperiment",
         "TSCAN",
         "TrajectoryUtils",
-        "WriteXLS",
         "XVector",
         "bslib",
         "caTools",
@@ -46634,7 +46631,6 @@
         "zlibbioc"
     ],
     "IsoCorrectoR": [
-        "WriteXLS",
         "bit",
         "bit64",
         "cellranger",
@@ -46659,7 +46655,6 @@
     ],
     "IsoCorrectoRGUI": [
         "IsoCorrectoR",
-        "WriteXLS",
         "bit",
         "bit64",
         "cellranger",
@@ -83217,7 +83212,6 @@
         "S4Vectors",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "WriteXLS",
         "XVector",
         "bslib",
         "caTools",
@@ -101307,7 +101301,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "WriteXLS",
         "XVector",
         "askpass",
         "biomaRt",
@@ -110230,7 +110223,6 @@
         "yaml",
         "zlibbioc"
     ],
-    "WriteXLS": [],
     "devtools": [
         "askpass",
         "bslib",
