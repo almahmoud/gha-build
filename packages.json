@@ -208,8 +208,7 @@
         "smoother",
         "stringr",
         "tibble",
-        "tidyselect",
-        "xts"
+        "tidyselect"
     ],
     "ADImpute": [
         "DelayedArray",
@@ -5412,8 +5411,7 @@
         "tidytree",
         "treeio",
         "tweenr",
-        "viridis",
-        "xts"
+        "viridis"
     ],
     "censcyt": [
         "ComplexHeatmap",
@@ -5632,8 +5630,7 @@
         "scales",
         "stringr",
         "tibble",
-        "tidyselect",
-        "xts"
+        "tidyselect"
     ],
     "CGEN": [],
     "CGHbase": [],
@@ -8912,8 +8909,7 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "xts"
+        "tidyselect"
     ],
     "ctsGE": [
         "ggplot2",
@@ -9485,8 +9481,7 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vsn",
-        "xts"
+        "vsn"
     ],
     "DART": [],
     "dasper": [
@@ -9687,8 +9682,7 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "vroom",
-        "xts"
+        "vroom"
     ],
     "debrowser": [
         "AnnotationDbi",
@@ -10182,8 +10176,7 @@
         "quantmod",
         "scales",
         "tibble",
-        "tseries",
-        "xts"
+        "tseries"
     ],
     "DeMixT": [
         "AnnotationDbi",
@@ -10478,8 +10471,7 @@
         "tidyr",
         "tidyselect",
         "vcd",
-        "waldo",
-        "xts"
+        "waldo"
     ],
     "DEsubs": [
         "AnnotationDbi",
@@ -13850,8 +13842,7 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vroom",
-        "xts"
+        "vroom"
     ],
     "fgga": [
         "BiocFileCache",
@@ -22552,8 +22543,7 @@
         "tidyverse",
         "usethis",
         "vroom",
-        "waldo",
-        "xts"
+        "waldo"
     ],
     "methylGSA": [
         "AnnotationDbi",
@@ -27498,8 +27488,7 @@
         "tidyr",
         "tidyselect",
         "viridis",
-        "waldo",
-        "xts"
+        "waldo"
     ],
     "omicsPrint": [
         "DelayedArray",
@@ -29939,8 +29928,7 @@
         "tidyselect",
         "tseries",
         "viridis",
-        "vsn",
-        "xts"
+        "vsn"
     ],
     "proActiv": [
         "AnnotationDbi",
@@ -30381,8 +30369,7 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vsn",
-        "xts"
+        "vsn"
     ],
     "proteasy": [
         "AnnotationDbi",
@@ -30600,8 +30587,7 @@
         "tidyr",
         "tidyselect",
         "viridis",
-        "vroom",
-        "xts"
+        "vroom"
     ],
     "PSMatch": [
         "AnnotationFilter",
@@ -31698,8 +31684,7 @@
         "stringr",
         "tibble",
         "tseries",
-        "vegan",
-        "xts"
+        "vegan"
     ],
     "Rcpi": [
         "AnnotationDbi",
@@ -33754,8 +33739,7 @@
         "treeio",
         "tweenr",
         "viridis",
-        "waldo",
-        "xts"
+        "waldo"
     ],
     "RnaSeqSampleSize": [
         "AnnotationDbi",
@@ -39757,8 +39741,7 @@
         "vegan",
         "viridis",
         "vroom",
-        "waldo",
-        "xts"
+        "waldo"
     ],
     "SynExtend": [
         "Biostrings",
@@ -43704,15 +43687,12 @@
     ],
     "fpc": [],
     "smoother": [
-        "TTR",
-        "xts"
+        "TTR"
     ],
     "selectr": [
         "stringr"
     ],
-    "TTR": [
-        "xts"
-    ],
+    "TTR": [],
     "dbplyr": [
         "blob",
         "dplyr",
@@ -43720,7 +43700,6 @@
         "tibble",
         "tidyselect"
     ],
-    "xts": [],
     "SAVER": [
         "glmnet"
     ],
@@ -45605,8 +45584,7 @@
         "scales",
         "stringr",
         "tibble",
-        "tidyselect",
-        "xts"
+        "tidyselect"
     ],
     "ggpp": [
         "dplyr",
@@ -45615,8 +45593,7 @@
         "scales",
         "stringr",
         "tibble",
-        "tidyselect",
-        "xts"
+        "tidyselect"
     ],
     "broom.mixed": [
         "broom",
@@ -45643,8 +45620,7 @@
         "snpStats"
     ],
     "quantmod": [
-        "TTR",
-        "xts"
+        "TTR"
     ],
     "ChAMPdata": [
         "GenomeInfoDb",
@@ -46464,8 +46440,7 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "xts"
+        "tidyselect"
     ],
     "cytometree": [
         "cowplot",
@@ -46615,8 +46590,7 @@
         "readr",
         "tibble",
         "tidyselect",
-        "vroom",
-        "xts"
+        "vroom"
     ],
     "ggseqlogo": [
         "ggplot2",
@@ -46692,8 +46666,7 @@
     ],
     "tseries": [
         "TTR",
-        "quantmod",
-        "xts"
+        "quantmod"
     ],
     "imputeLCMD": [
         "gmm",
@@ -47761,9 +47734,7 @@
         "tibble",
         "tidyselect"
     ],
-    "PerformanceAnalytics": [
-        "xts"
-    ],
+    "PerformanceAnalytics": [],
     "ggmcmc": [
         "GGally",
         "dplyr",
@@ -48396,8 +48367,7 @@
         "quantmod",
         "scales",
         "tibble",
-        "tseries",
-        "xts"
+        "tseries"
     ],
     "rhandsontable": [
         "htmlwidgets",
@@ -49203,8 +49173,7 @@
         "sf",
         "sftime",
         "spacetime",
-        "stars",
-        "xts"
+        "stars"
     ],
     "SpatialExtremes": [
         "fields",
@@ -49217,9 +49186,7 @@
     "sftime": [
         "sf"
     ],
-    "spacetime": [
-        "xts"
-    ],
+    "spacetime": [],
     "stars": [
         "lwgeom",
         "sf"
