@@ -12730,7 +12730,6 @@
         "snpStats",
         "survival",
         "sva",
-        "swamp",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -56577,7 +56576,6 @@
         "vctrs"
     ],
     "DExMAdata": [],
-    "swamp": [],
     "bnstruct": [
         "igraph"
     ],
