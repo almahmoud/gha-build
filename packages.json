@@ -3644,7 +3644,6 @@
         "NADA",
         "NOISeq",
         "ROCR",
-        "ROI",
         "ROI.plugin.lpsolve",
         "RSQLite",
         "RcppEigen",
@@ -64508,7 +64507,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
-        "ROI",
         "ROI.plugin.lpsolve",
         "S4Vectors",
         "XVector",
@@ -64548,7 +64546,6 @@
         "vctrs"
     ],
     "detectseparation": [
-        "ROI",
         "ROI.plugin.lpsolve",
         "pkgload"
     ],
@@ -64557,10 +64554,7 @@
     ],
     "tokenizers": [],
     "softImpute": [],
-    "ROI": [],
-    "ROI.plugin.lpsolve": [
-        "ROI"
-    ],
+    "ROI.plugin.lpsolve": [],
     "sjmisc": [
         "dplyr",
         "lifecycle",
