@@ -123033,7 +123033,6 @@
         "coda",
         "codetools",
         "cpp11",
-        "dgof",
         "emdbook",
         "formatR",
         "futile.logger",
@@ -172421,7 +172420,6 @@
     "glmpca": [
         "MASS"
     ],
-    "dgof": [],
     "nnTensor": [
         "MASS",
         "Matrix",
