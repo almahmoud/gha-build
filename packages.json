@@ -110217,7 +110217,6 @@
         "isoband",
         "jquerylib",
         "jsonlite",
-        "kmlShape",
         "knitr",
         "latex2exp",
         "lattice",
@@ -134110,7 +134109,6 @@
         "restfulr",
         "rtracklayer"
     ],
-    "kmlShape": [],
     "mirbase.db": [
         "AnnotationDbi",
         "Biobase",
