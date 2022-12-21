@@ -63576,7 +63576,6 @@
         "xml2",
         "zip"
     ],
-    "hpar": [],
     "HPAStainR": [
         "R6",
         "RColorBrewer",
@@ -77833,7 +77832,6 @@
         "gtable",
         "highr",
         "hms",
-        "hpar",
         "htmlTable",
         "htmltools",
         "htmlwidgets",
