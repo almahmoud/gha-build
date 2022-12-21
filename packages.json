@@ -101235,7 +101235,6 @@
         "forecast",
         "foreign",
         "formatR",
-        "fracdiff",
         "fs",
         "futile.logger",
         "futile.options",
@@ -168681,7 +168680,6 @@
         "colorspace",
         "curl",
         "fansi",
-        "fracdiff",
         "generics",
         "ggplot2",
         "gtable",
@@ -168714,7 +168712,6 @@
     ],
     "naivebayes": [],
     "tester": [],
-    "fracdiff": [],
     "urca": [
         "lattice",
         "nlme"
