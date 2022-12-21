@@ -38349,7 +38349,6 @@
         "future.apply",
         "origami",
         "pillar",
-        "sparsepca",
         "stringr",
         "tibble",
         "tidyselect",
@@ -52660,7 +52659,6 @@
         "vctrs"
     ],
     "torch": [],
-    "sparsepca": [],
     "origami": [
         "future.apply"
     ],
