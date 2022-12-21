@@ -81548,7 +81548,6 @@
         "xfun",
         "zoo"
     ],
-    "sigPathway": [],
     "SigsPack": [
         "AnnotationDbi",
         "BSgenome",
@@ -91076,7 +91075,6 @@
         "qvalue",
         "reshape2",
         "scales",
-        "sigPathway",
         "stringi",
         "stringr",
         "survival",
