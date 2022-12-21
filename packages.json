@@ -1303,7 +1303,6 @@
         "ggplot2",
         "ggrepel",
         "glmnet",
-        "gridSVG",
         "hardhat",
         "here",
         "highr",
@@ -2180,7 +2179,6 @@
         "gcrma",
         "genefilter",
         "ggplot2",
-        "gridSVG",
         "hexbin",
         "highr",
         "htmlTable",
@@ -29636,7 +29634,6 @@
         "crosstalk",
         "genefilter",
         "ggplot2",
-        "gridSVG",
         "highr",
         "htmlwidgets",
         "httpuv",
@@ -36377,7 +36374,6 @@
         "ggtree",
         "gld",
         "glmnet",
-        "gridSVG",
         "hardhat",
         "highr",
         "hms",
@@ -69330,7 +69326,6 @@
         "Matrix",
         "bslib",
         "ggplot2",
-        "gridSVG",
         "httpuv",
         "lifecycle",
         "mgcv",
@@ -69397,7 +69392,6 @@
         "statip",
         "timeSeries"
     ],
-    "gridSVG": [],
     "reticulate": [
         "Matrix",
         "here"
