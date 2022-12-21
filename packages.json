@@ -73667,7 +73667,6 @@
         "rematch2",
         "rprojroot",
         "scales",
-        "smatr",
         "stringi",
         "stringr",
         "survival",
@@ -132115,7 +132114,6 @@
         "openssl",
         "sys"
     ],
-    "smatr": [],
     "ontologyPlot": [
         "BiocGenerics",
         "Rgraphviz",
