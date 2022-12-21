@@ -103988,7 +103988,6 @@
         "Matrix",
         "MatrixGenerics",
         "RcppCCTZ",
-        "RcppSpdlog",
         "S4Vectors",
         "bit64",
         "lattice",
@@ -129706,7 +129705,6 @@
     ],
     "tiledb": [
         "RcppCCTZ",
-        "RcppSpdlog",
         "bit64",
         "lattice",
         "nanotime",
@@ -129719,10 +129717,7 @@
         "lattice",
         "zoo"
     ],
-    "spdl": [
-        "RcppSpdlog"
-    ],
-    "RcppSpdlog": [],
+    "spdl": [],
     "RcppCCTZ": [],
     "FreqProf": [
         "Matrix",
