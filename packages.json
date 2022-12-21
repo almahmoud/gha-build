@@ -43437,7 +43437,6 @@
         "vctrs",
         "withr"
     ],
-    "genoCN": [],
     "genomation": [
         "BSgenome",
         "Biobase",
