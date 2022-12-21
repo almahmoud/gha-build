@@ -77503,7 +77503,6 @@
         "httr",
         "ica",
         "igraph",
-        "intrinsicDimension",
         "irlba",
         "isoband",
         "jquerylib",
@@ -130991,7 +130990,6 @@
         "stringr",
         "vctrs"
     ],
-    "intrinsicDimension": [],
     "strawr": [],
     "logspline": [],
     "evmix": [
