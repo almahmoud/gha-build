@@ -9824,7 +9824,6 @@
         "lambda.r",
         "lifecycle",
         "memoise",
-        "memuse",
         "mgcv",
         "munsell",
         "nlme",
@@ -42949,7 +42948,6 @@
         "lambda.r",
         "lifecycle",
         "memoise",
-        "memuse",
         "mgcv",
         "nlme",
         "openssl",
@@ -95704,7 +95702,6 @@
         "ape",
         "dplyr",
         "lifecycle",
-        "memuse",
         "mgcv",
         "nlme",
         "pillar",
@@ -95715,7 +95712,6 @@
         "vegan",
         "viridisLite"
     ],
-    "memuse": [],
     "biglm": [],
     "sqldf": [
         "RSQLite",
