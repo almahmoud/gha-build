@@ -16748,7 +16748,6 @@
         "XVector",
         "future.apply"
     ],
-    "geneClassifiers": [],
     "GeneExpressionSignature": [],
     "genefilter": [
         "AnnotationDbi",
