@@ -25245,7 +25245,6 @@
     ],
     "COHCAP": [
         "BH",
-        "COHCAPanno",
         "KernSmooth",
         "RColorBrewer",
         "Rcpp",
@@ -160796,7 +160795,6 @@
         "MASS",
         "robustbase"
     ],
-    "COHCAPanno": [],
     "skmeans": [
         "clue",
         "cluster",
