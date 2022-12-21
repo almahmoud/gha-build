@@ -17889,7 +17889,6 @@
         "ScaledMatrix",
         "beachmat",
         "dqrng",
-        "einsum",
         "futile.logger",
         "irlba",
         "rhdf5",
@@ -82896,7 +82895,6 @@
         "Matrix"
     ],
     "qdapRegex": [],
-    "einsum": [],
     "tseries": [
         "TTR",
         "quantmod",
