@@ -8252,7 +8252,6 @@
         "progress",
         "promises",
         "purrr",
-        "qualV",
         "readr",
         "regioneR",
         "reshape2",
@@ -13822,7 +13821,6 @@
         "ps",
         "purrr",
         "qs",
-        "qualV",
         "ragg",
         "restfulr",
         "reticulate",
@@ -101105,7 +101103,6 @@
         "withr",
         "xfun"
     ],
-    "qualV": [],
     "betareg": [
         "flexmix",
         "lmtest",
