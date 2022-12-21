@@ -98183,7 +98183,6 @@
         "pixmap",
         "pkgconfig",
         "plogr",
-        "protViz",
         "segmented",
         "seqinr",
         "sp",
@@ -129728,7 +129727,6 @@
         "lattice",
         "sp"
     ],
-    "protViz": [],
     "PRIMME": [
         "Matrix",
         "lattice"
