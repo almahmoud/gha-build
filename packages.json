@@ -1274,7 +1274,6 @@
         "rentrez",
         "reshape2",
         "reticulate",
-        "rex",
         "rhdf5",
         "rhdf5filters",
         "rmarkdown",
@@ -66171,8 +66170,7 @@
     ],
     "covr": [
         "httr",
-        "openssl",
-        "rex"
+        "openssl"
     ],
     "plotROC": [
         "bslib",
@@ -66232,7 +66230,6 @@
         "tzdb",
         "vctrs"
     ],
-    "rex": [],
     "modeest": [
         "fBasics",
         "statip",
