@@ -1,10 +1,10 @@
 # Summary
 
-556 built packages
+566 built packages
 
 0 failed packages
 
-3252 unclaimed packages
+3242 unclaimed packages
 
 
 
@@ -12,7 +12,7 @@
 | Package   | Status   | BBS Status   | Log   | Known Error   |
 |-----------|----------|--------------|-------|---------------|
 
-## Unclaimed (3252)
+## Unclaimed (3242)
 | Package                                                                                                | Status    | Tarball   |
 |--------------------------------------------------------------------------------------------------------|-----------|-----------|
 | a4                                                                                                     | Unclaimed |           |
@@ -252,7 +252,7 @@
 | CAMERA                                                                                                 | Unclaimed |           |
 | canceR                                                                                                 | Unclaimed |           |
 | cancerclass                                                                                            | Unclaimed |           |
-| CancerInSilico                                                                                         | Unclaimed |           |
+| [CancerInSilico](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374905672)       | Unclaimed |           |
 | CancerSubtypes                                                                                         | Unclaimed |           |
 | cardelino                                                                                              | Unclaimed |           |
 | Cardinal                                                                                               | Unclaimed |           |
@@ -342,7 +342,7 @@
 | clipper                                                                                                | Unclaimed |           |
 | cliProfiler                                                                                            | Unclaimed |           |
 | cliqueMS                                                                                               | Unclaimed |           |
-| Clomial                                                                                                | Unclaimed |           |
+| [Clomial](https://github.com/almahmoud/gha-build/actions/runs/3752525309)                              | Unclaimed |           |
 | Clonality                                                                                              | Unclaimed |           |
 | clst                                                                                                   | Unclaimed |           |
 | clstutils                                                                                              | Unclaimed |           |
@@ -359,7 +359,7 @@
 | cmapR                                                                                                  | Unclaimed |           |
 | cn.farms                                                                                               | Unclaimed |           |
 | cn.mops                                                                                                | Unclaimed |           |
-| CNAnorm                                                                                                | Unclaimed |           |
+| [CNAnorm](https://github.com/almahmoud/gha-build/actions/runs/3752580911)                              | Unclaimed |           |
 | CNEr                                                                                                   | Unclaimed |           |
 | CNORdt                                                                                                 | Unclaimed |           |
 | CNORfeeder                                                                                             | Unclaimed |           |
@@ -460,7 +460,7 @@
 | CyTOFpower                                                                                             | Unclaimed |           |
 | CytoGLMM                                                                                               | Unclaimed |           |
 | cytoKernel                                                                                             | Unclaimed |           |
-| cytolib                                                                                                | Unclaimed |           |
+| [cytolib](https://github.com/almahmoud/gha-build/actions/runs/3752580911)                              | Unclaimed |           |
 | cytomapper                                                                                             | Unclaimed |           |
 | cytoMEM                                                                                                | Unclaimed |           |
 | CytoML                                                                                                 | Unclaimed |           |
@@ -503,7 +503,7 @@
 | DelayedTensor                                                                                          | Unclaimed |           |
 | deltaCaptureC                                                                                          | Unclaimed |           |
 | deltaGseg                                                                                              | Unclaimed |           |
-| DeMAND                                                                                                 | Unclaimed |           |
+| [DeMAND](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374908560)               | Unclaimed |           |
 | DeMixT                                                                                                 | Unclaimed |           |
 | demuxmix                                                                                               | Unclaimed |           |
 | densvis                                                                                                | Unclaimed |           |
@@ -528,14 +528,14 @@
 | diffcoexp                                                                                              | Unclaimed |           |
 | diffcyt                                                                                                | Unclaimed |           |
 | DifferentialRegulation                                                                                 | Unclaimed |           |
-| diffGeneAnalysis                                                                                       | Unclaimed |           |
+| [diffGeneAnalysis](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374905565)     | Unclaimed |           |
 | diffHic                                                                                                | Unclaimed |           |
 | DiffLogo                                                                                               | Unclaimed |           |
 | diffuStats                                                                                             | Unclaimed |           |
 | diffUTR                                                                                                | Unclaimed |           |
 | diggit                                                                                                 | Unclaimed |           |
 | Dino                                                                                                   | Unclaimed |           |
-| dir.expiry                                                                                             | Unclaimed |           |
+| [dir.expiry](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374935997)           | Unclaimed |           |
 | Director                                                                                               | Unclaimed |           |
 | DirichletMultinomial                                                                                   | Unclaimed |           |
 | discordant                                                                                             | Unclaimed |           |
@@ -568,7 +568,7 @@
 | DrugVsDisease                                                                                          | Unclaimed |           |
 | DSS                                                                                                    | Unclaimed |           |
 | dStruct                                                                                                | Unclaimed |           |
-| DTA                                                                                                    | Unclaimed |           |
+| [DTA](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374906651)                  | Unclaimed |           |
 | Dune                                                                                                   | Unclaimed |           |
 | dupRadar                                                                                               | Unclaimed |           |
 | dyebias                                                                                                | Unclaimed |           |
@@ -667,7 +667,7 @@
 | FindIT2                                                                                                | Unclaimed |           |
 | FISHalyseR                                                                                             | Unclaimed |           |
 | fishpond                                                                                               | Unclaimed |           |
-| FitHiC                                                                                                 | Unclaimed |           |
+| [FitHiC](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374908198)               | Unclaimed |           |
 | flagme                                                                                                 | Unclaimed |           |
 | FLAMES                                                                                                 | Unclaimed |           |
 | flowAI                                                                                                 | Unclaimed |           |
@@ -830,7 +830,7 @@
 | GRaNIE                                                                                                 | Unclaimed |           |
 | granulator                                                                                             | Unclaimed |           |
 | graper                                                                                                 | Unclaimed |           |
-| graph                                                                                                  | Unclaimed |           |
+| [graph](https://github.com/almahmoud/gha-build/actions/runs/3752580911)                                | Unclaimed |           |
 | GraphAT                                                                                                | Unclaimed |           |
 | graphite                                                                                               | Unclaimed |           |
 | GraphPAC                                                                                               | Unclaimed |           |
@@ -877,7 +877,7 @@
 | Herper                                                                                                 | Unclaimed |           |
 | HGC                                                                                                    | Unclaimed |           |
 | hiAnnotator                                                                                            | Unclaimed |           |
-| HIBAG                                                                                                  | Unclaimed |           |
+| [HIBAG](https://github.com/almahmoud/gha-build/actions/runs/3752525309)                                | Unclaimed |           |
 | HiCBricks                                                                                              | Unclaimed |           |
 | HiCcompare                                                                                             | Unclaimed |           |
 | HiCDCPlus                                                                                              | Unclaimed |           |
@@ -912,13 +912,13 @@
 | hypergraph                                                                                             | Unclaimed |           |
 | iasva                                                                                                  | Unclaimed |           |
 | iBBiG                                                                                                  | Unclaimed |           |
-| ibh                                                                                                    | Unclaimed |           |
+| [ibh](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374907005)                  | Unclaimed |           |
 | iBMQ                                                                                                   | Unclaimed |           |
 | iCARE                                                                                                  | Unclaimed |           |
 | Icens                                                                                                  | Unclaimed |           |
 | icetea                                                                                                 | Unclaimed |           |
 | iCheck                                                                                                 | Unclaimed |           |
-| iChip                                                                                                  | Unclaimed |           |
+| [iChip](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374932530)                | Unclaimed |           |
 | iCNV                                                                                                   | Unclaimed |           |
 | iCOBRA                                                                                                 | Unclaimed |           |
 | ideal                                                                                                  | Unclaimed |           |
@@ -939,13 +939,13 @@
 | ImmuneSpaceR                                                                                           | Unclaimed |           |
 | immunoClust                                                                                            | Unclaimed |           |
 | immunotation                                                                                           | Unclaimed |           |
-| IMPCdata                                                                                               | Unclaimed |           |
+| [IMPCdata](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374934407)             | Unclaimed |           |
 | INDEED                                                                                                 | Unclaimed |           |
 | infercnv                                                                                               | Unclaimed |           |
 | infinityFlow                                                                                           | Unclaimed |           |
-| Informeasure                                                                                           | Unclaimed |           |
+| [Informeasure](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374903839)         | Unclaimed |           |
 | InPAS                                                                                                  | Unclaimed |           |
-| INPower                                                                                                | Unclaimed |           |
+| [INPower](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374936422)              | Unclaimed |           |
 | INSPEcT                                                                                                | Unclaimed |           |
 | InTAD                                                                                                  | Unclaimed |           |
 | intansv                                                                                                | Unclaimed |           |
@@ -1001,7 +1001,7 @@
 | lefser                                                                                                 | Unclaimed |           |
 | les                                                                                                    | Unclaimed |           |
 | levi                                                                                                   | Unclaimed |           |
-| lfa                                                                                                    | Unclaimed |           |
+| [lfa](https://github.com/almahmoud/gha-build/actions/runs/3752580911)                                  | Unclaimed |           |
 | limmaGUI                                                                                               | Unclaimed |           |
 | LineagePulse                                                                                           | Unclaimed |           |
 | lineagespot                                                                                            | Unclaimed |           |
@@ -1012,7 +1012,7 @@
 | lipidr                                                                                                 | Unclaimed |           |
 | LiquidAssociation                                                                                      | Unclaimed |           |
 | lisaClust                                                                                              | Unclaimed |           |
-| lmdme                                                                                                  | Unclaimed |           |
+| [lmdme](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374904495)                | Unclaimed |           |
 | LOBSTAHS                                                                                               | Unclaimed |           |
 | loci2path                                                                                              | Unclaimed |           |
 | logicFS                                                                                                | Unclaimed |           |
@@ -1020,7 +1020,7 @@
 | LOLA                                                                                                   | Unclaimed |           |
 | LoomExperiment                                                                                         | Unclaimed |           |
 | LowMACA                                                                                                | Unclaimed |           |
-| LPEadj                                                                                                 | Unclaimed |           |
+| [LPEadj](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374904980)               | Unclaimed |           |
 | lpNet                                                                                                  | Unclaimed |           |
 | LRBaseDbi                                                                                              | Unclaimed |           |
 | LRcell                                                                                                 | Unclaimed |           |
@@ -1063,7 +1063,7 @@
 | MatrixRider                                                                                            | Unclaimed |           |
 | matter                                                                                                 | Unclaimed |           |
 | MBASED                                                                                                 | Unclaimed |           |
-| MBCB                                                                                                   | Unclaimed |           |
+| [MBCB](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374939173)                 | Unclaimed |           |
 | MBECS                                                                                                  | Unclaimed |           |
 | mbkmeans                                                                                               | Unclaimed |           |
 | mbOmic                                                                                                 | Unclaimed |           |
@@ -1073,7 +1073,7 @@
 | MCbiclust                                                                                              | Unclaimed |           |
 | mCSEA                                                                                                  | Unclaimed |           |
 | mdp                                                                                                    | Unclaimed |           |
-| mdqc                                                                                                   | Unclaimed |           |
+| [mdqc](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374906064)                 | Unclaimed |           |
 | MDTS                                                                                                   | Unclaimed |           |
 | MEAL                                                                                                   | Unclaimed |           |
 | MEAT                                                                                                   | Unclaimed |           |
@@ -1091,7 +1091,7 @@
 | messina                                                                                                | Unclaimed |           |
 | Metab                                                                                                  | Unclaimed |           |
 | metabCombiner                                                                                          | Unclaimed |           |
-| metabinR                                                                                               | Unclaimed |           |
+| [metabinR](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374935654)             | Unclaimed |           |
 | MetaboAnnotation                                                                                       | Unclaimed |           |
 | MetaboCoreUtils                                                                                        | Unclaimed |           |
 | metabolomicsWorkbenchR                                                                                 | Unclaimed |           |
@@ -1104,7 +1104,7 @@
 | metaMS                                                                                                 | Unclaimed |           |
 | MetaNeighbor                                                                                           | Unclaimed |           |
 | MetaPhOR                                                                                               | Unclaimed |           |
-| metapod                                                                                                | Unclaimed |           |
+| [metapod](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374938856)              | Unclaimed |           |
 | metapone                                                                                               | Unclaimed |           |
 | metaSeq                                                                                                | Unclaimed |           |
 | metaseqR2                                                                                              | Unclaimed |           |
@@ -1188,7 +1188,7 @@
 | moanin                                                                                                 | Unclaimed |           |
 | MobilityTransformR                                                                                     | Unclaimed |           |
 | MODA                                                                                                   | Unclaimed |           |
-| ModCon                                                                                                 | Unclaimed |           |
+| [ModCon](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374936676)               | Unclaimed |           |
 | Modstrings                                                                                             | Unclaimed |           |
 | MOFA2                                                                                                  | Unclaimed |           |
 | MOGAMUN                                                                                                | Unclaimed |           |
@@ -1309,7 +1309,7 @@
 | normr                                                                                                  | Unclaimed |           |
 | NPARC                                                                                                  | Unclaimed |           |
 | npGSEA                                                                                                 | Unclaimed |           |
-| NTW                                                                                                    | Unclaimed |           |
+| [NTW](https://github.com/almahmoud/gha-build/actions/runs/3752525309)                                  | Unclaimed |           |
 | nucleoSim                                                                                              | Unclaimed |           |
 | nucleR                                                                                                 | Unclaimed |           |
 | nullranges                                                                                             | Unclaimed |           |
@@ -1401,7 +1401,7 @@
 | pengls                                                                                                 | Unclaimed |           |
 | PepsNMR                                                                                                | Unclaimed |           |
 | pepStat                                                                                                | Unclaimed |           |
-| pepXMLTab                                                                                              | Unclaimed |           |
+| [pepXMLTab](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374903765)            | Unclaimed |           |
 | PERFect                                                                                                | Unclaimed |           |
 | periodicDNA                                                                                            | Unclaimed |           |
 | PFP                                                                                                    | Unclaimed |           |
@@ -1519,7 +1519,6 @@
 | RadioGx                                                                                                | Unclaimed |           |
 | RaggedExperiment                                                                                       | Unclaimed |           |
 | rain                                                                                                   | Unclaimed |           |
-| [rama](https://github.com/almahmoud/gha-build/actions/runs/3752472120/jobs/6374788011)                 | Unclaimed |           |
 | ramr                                                                                                   | Unclaimed |           |
 | ramwas                                                                                                 | Unclaimed |           |
 | RandomWalkRestartMH                                                                                    | Unclaimed |           |
@@ -1595,13 +1594,13 @@
 | RGraph2js                                                                                              | Unclaimed |           |
 | Rgraphviz                                                                                              | Unclaimed |           |
 | rGREAT                                                                                                 | Unclaimed |           |
-| RGSEA                                                                                                  | Unclaimed |           |
+| [RGSEA](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374909393)                | Unclaimed |           |
 | rgsepd                                                                                                 | Unclaimed |           |
 | rhdf5                                                                                                  | Unclaimed |           |
 | rhdf5client                                                                                            | Unclaimed |           |
 | rhdf5filters                                                                                           | Unclaimed |           |
 | Rhisat2                                                                                                | Unclaimed |           |
-| Rhtslib                                                                                                | Unclaimed |           |
+| [Rhtslib](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374909310)              | Unclaimed |           |
 | RiboCrypt                                                                                              | Unclaimed |           |
 | RiboDiPA                                                                                               | Unclaimed |           |
 | RiboProfiling                                                                                          | Unclaimed |           |
@@ -1617,7 +1616,7 @@
 | RIVER                                                                                                  | Unclaimed |           |
 | RJMCMCNucleosomes                                                                                      | Unclaimed |           |
 | RLassoCox                                                                                              | Unclaimed |           |
-| RLMM                                                                                                   | Unclaimed |           |
+| [RLMM](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374905968)                 | Unclaimed |           |
 | RLSeq                                                                                                  | Unclaimed |           |
 | Rmagpie                                                                                                | Unclaimed |           |
 | RMassBank                                                                                              | Unclaimed |           |
@@ -1634,7 +1633,6 @@
 | RNAmodR.RiboMethSeq                                                                                    | Unclaimed |           |
 | RNAsense                                                                                               | Unclaimed |           |
 | rnaseqcomp                                                                                             | Unclaimed |           |
-| [RNASeqPower](https://github.com/almahmoud/gha-build/actions/runs/3752472120/jobs/6374785371)          | Unclaimed |           |
 | RNASeqR                                                                                                | Unclaimed |           |
 | RnaSeqSampleSize                                                                                       | Unclaimed |           |
 | RnBeads                                                                                                | Unclaimed |           |
@@ -1660,10 +1658,10 @@
 | rsbml                                                                                                  | Unclaimed |           |
 | rScudo                                                                                                 | Unclaimed |           |
 | rsemmed                                                                                                | Unclaimed |           |
-| RSeqAn                                                                                                 | Unclaimed |           |
+| [RSeqAn](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374910864)               | Unclaimed |           |
 | Rsubread                                                                                               | Unclaimed |           |
 | RSVSim                                                                                                 | Unclaimed |           |
-| rSWeeP                                                                                                 | Unclaimed |           |
+| [rSWeeP](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374907288)               | Unclaimed |           |
 | RTCA                                                                                                   | Unclaimed |           |
 | RTCGA                                                                                                  | Unclaimed |           |
 | RTCGAToolbox                                                                                           | Unclaimed |           |
@@ -1684,7 +1682,7 @@
 | rWikiPathways                                                                                          | Unclaimed |           |
 | S4Vectors                                                                                              | Unclaimed |           |
 | safe                                                                                                   | Unclaimed |           |
-| sagenhaft                                                                                              | Unclaimed |           |
+| [sagenhaft](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374903352)            | Unclaimed |           |
 | SAIGEgds                                                                                               | Unclaimed |           |
 | sampleClassifier                                                                                       | Unclaimed |           |
 | sangeranalyseR                                                                                         | Unclaimed |           |
@@ -1758,8 +1756,8 @@
 | selectKSigs                                                                                            | Unclaimed |           |
 | SELEX                                                                                                  | Unclaimed |           |
 | SemDist                                                                                                | Unclaimed |           |
-| semisup                                                                                                | Unclaimed |           |
-| SEPIRA                                                                                                 | Unclaimed |           |
+| [semisup](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374908277)              | Unclaimed |           |
+| [SEPIRA](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374906735)               | Unclaimed |           |
 | seq2pathway                                                                                            | Unclaimed |           |
 | seqArchR                                                                                               | Unclaimed |           |
 | SeqArray                                                                                               | Unclaimed |           |
@@ -1779,7 +1777,7 @@
 | sevenbridges                                                                                           | Unclaimed |           |
 | sevenC                                                                                                 | Unclaimed |           |
 | SGSeq                                                                                                  | Unclaimed |           |
-| SharedObject                                                                                           | Unclaimed |           |
+| [SharedObject](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374903525)         | Unclaimed |           |
 | shinyepico                                                                                             | Unclaimed |           |
 | shinyMethyl                                                                                            | Unclaimed |           |
 | ShortRead                                                                                              | Unclaimed |           |
@@ -1866,14 +1864,14 @@
 | SplicingGraphs                                                                                         | Unclaimed |           |
 | splineTimeR                                                                                            | Unclaimed |           |
 | SPLINTER                                                                                               | Unclaimed |           |
-| splots                                                                                                 | Unclaimed |           |
+| [splots](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374909832)               | Unclaimed |           |
 | SPONGE                                                                                                 | Unclaimed |           |
 | SpotClean                                                                                              | Unclaimed |           |
 | SPOTlight                                                                                              | Unclaimed |           |
 | spqn                                                                                                   | Unclaimed |           |
 | SPsimSeq                                                                                               | Unclaimed |           |
 | SQLDataFrame                                                                                           | Unclaimed |           |
-| SQUADD                                                                                                 | Unclaimed |           |
+| [SQUADD](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374907950)               | Unclaimed |           |
 | sRACIPE                                                                                                | Unclaimed |           |
 | SRAdb                                                                                                  | Unclaimed |           |
 | srnadiff                                                                                               | Unclaimed |           |
@@ -1999,7 +1997,7 @@
 | TransView                                                                                              | Unclaimed |           |
 | TraRe                                                                                                  | Unclaimed |           |
 | traseR                                                                                                 | Unclaimed |           |
-| Travel                                                                                                 | Unclaimed |           |
+| [Travel](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374909004)               | Unclaimed |           |
 | traviz                                                                                                 | Unclaimed |           |
 | TreeAndLeaf                                                                                            | Unclaimed |           |
 | treeio                                                                                                 | Unclaimed |           |
@@ -2090,7 +2088,7 @@
 | zenith                                                                                                 | Unclaimed |           |
 | zFPKM                                                                                                  | Unclaimed |           |
 | zinbwave                                                                                               | Unclaimed |           |
-| mpm                                                                                                    | Unclaimed |           |
+| [mpm](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374911261)                  | Unclaimed |           |
 | glmnet                                                                                                 | Unclaimed |           |
 | gplots                                                                                                 | Unclaimed |           |
 | ROCR                                                                                                   | Unclaimed |           |
@@ -2098,10 +2096,10 @@
 | varSelRF                                                                                               | Unclaimed |           |
 | GO.db                                                                                                  | Unclaimed |           |
 | survival                                                                                               | Unclaimed |           |
-| Matrix                                                                                                 | Unclaimed |           |
-| foreach                                                                                                | Unclaimed |           |
+| [Matrix](https://github.com/almahmoud/gha-build/actions/runs/3752525309)                               | Unclaimed |           |
+| [foreach](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374937909)              | Unclaimed |           |
 | RcppEigen                                                                                              | Unclaimed |           |
-| caTools                                                                                                | Unclaimed |           |
+| [caTools](https://github.com/almahmoud/gha-build/actions/runs/3752525309)                              | Unclaimed |           |
 | httr                                                                                                   | Unclaimed |           |
 | RSQLite                                                                                                | Unclaimed |           |
 | openssl                                                                                                | Unclaimed |           |
@@ -2109,17 +2107,17 @@
 | blob                                                                                                   | Unclaimed |           |
 | memoise                                                                                                | Unclaimed |           |
 | vctrs                                                                                                  | Unclaimed |           |
-| cachem                                                                                                 | Unclaimed |           |
-| askpass                                                                                                | Unclaimed |           |
+| [cachem](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374936093)               | Unclaimed |           |
+| [askpass](https://github.com/almahmoud/gha-build/actions/runs/3752580911)                              | Unclaimed |           |
 | RCurl                                                                                                  | Unclaimed |           |
 | lifecycle                                                                                              | Unclaimed |           |
 | ggplot2                                                                                                | Unclaimed |           |
 | circlize                                                                                               | Unclaimed |           |
 | reshape2                                                                                               | Unclaimed |           |
 | VennDiagram                                                                                            | Unclaimed |           |
-| plyr                                                                                                   | Unclaimed |           |
+| [plyr](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374939882)                 | Unclaimed |           |
 | flexdashboard                                                                                          | Unclaimed |           |
-| gridExtra                                                                                              | Unclaimed |           |
+| [gridExtra](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374932718)            | Unclaimed |           |
 | rmarkdown                                                                                              | Unclaimed |           |
 | knitr                                                                                                  | Unclaimed |           |
 | vegan                                                                                                  | Unclaimed |           |
@@ -2137,7 +2135,7 @@
 | bslib                                                                                                  | Unclaimed |           |
 | mgcv                                                                                                   | Unclaimed |           |
 | tibble                                                                                                 | Unclaimed |           |
-| highr                                                                                                  | Unclaimed |           |
+| [highr](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374940935)                | Unclaimed |           |
 | tidyr                                                                                                  | Unclaimed |           |
 | dplyr                                                                                                  | Unclaimed |           |
 | crosstalk                                                                                              | Unclaimed |           |
@@ -2149,22 +2147,22 @@
 | pillar                                                                                                 | Unclaimed |           |
 | lambda.r                                                                                               | Unclaimed |           |
 | ellipsis                                                                                               | Unclaimed |           |
-| nlme                                                                                                   | Unclaimed |           |
-| later                                                                                                  | Unclaimed |           |
+| [nlme](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374933121)                 | Unclaimed |           |
+| [later](https://github.com/almahmoud/gha-build/actions/runs/3752525309)                                | Unclaimed |           |
 | munsell                                                                                                | Unclaimed |           |
 | httpuv                                                                                                 | Unclaimed |           |
 | fontawesome                                                                                            | Unclaimed |           |
 | locfit                                                                                                 | Unclaimed |           |
 | R.utils                                                                                                | Unclaimed |           |
 | future.apply                                                                                           | Unclaimed |           |
-| snowfall                                                                                               | Unclaimed |           |
+| [snowfall](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374905462)             | Unclaimed |           |
 | future                                                                                                 | Unclaimed |           |
 | globals                                                                                                | Unclaimed |           |
 | R.oo                                                                                                   | Unclaimed |           |
 | ff                                                                                                     | Unclaimed |           |
-| aws                                                                                                    | Unclaimed |           |
+| [aws](https://github.com/almahmoud/gha-build/actions/runs/3752525309)                                  | Unclaimed |           |
 | strucchange                                                                                            | Unclaimed |           |
-| zoo                                                                                                    | Unclaimed |           |
+| [zoo](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374906354)                  | Unclaimed |           |
 | sandwich                                                                                               | Unclaimed |           |
 | DT                                                                                                     | Unclaimed |           |
 | ggrepel                                                                                                | Unclaimed |           |
@@ -2176,18 +2174,18 @@
 | cowplot                                                                                                | Unclaimed |           |
 | rstatix                                                                                                | Unclaimed |           |
 | callr                                                                                                  | Unclaimed |           |
-| desc                                                                                                   | Unclaimed |           |
+| [desc](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374910023)                 | Unclaimed |           |
 | pkgload                                                                                                | Unclaimed |           |
-| processx                                                                                               | Unclaimed |           |
+| [processx](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374935355)             | Unclaimed |           |
 | waldo                                                                                                  | Unclaimed |           |
 | broom                                                                                                  | Unclaimed |           |
 | car                                                                                                    | Unclaimed |           |
-| diffobj                                                                                                | Unclaimed |           |
+| [diffobj](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374909554)              | Unclaimed |           |
 | rematch2                                                                                               | Unclaimed |           |
 | pbkrtest                                                                                               | Unclaimed |           |
 | quantreg                                                                                               | Unclaimed |           |
 | lme4                                                                                                   | Unclaimed |           |
-| minqa                                                                                                  | Unclaimed |           |
+| [minqa](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374906827)                | Unclaimed |           |
 | nloptr                                                                                                 | Unclaimed |           |
 | MatrixModels                                                                                           | Unclaimed |           |
 | adductData                                                                                             | Unclaimed |           |
@@ -2199,14 +2197,14 @@
 | smoother                                                                                               | Unclaimed |           |
 | sp                                                                                                     | Unclaimed |           |
 | flexmix                                                                                                | Unclaimed |           |
-| prabclus                                                                                               | Unclaimed |           |
-| class                                                                                                  | Unclaimed |           |
-| robustbase                                                                                             | Unclaimed |           |
+| [prabclus](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374932109)             | Unclaimed |           |
+| [class](https://github.com/almahmoud/gha-build/actions/runs/3752580911)                                | Unclaimed |           |
+| [robustbase](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374908666)           | Unclaimed |           |
 | selectr                                                                                                | Unclaimed |           |
 | TTR                                                                                                    | Unclaimed |           |
 | dbplyr                                                                                                 | Unclaimed |           |
 | xts                                                                                                    | Unclaimed |           |
-| checkmate                                                                                              | Unclaimed |           |
+| [checkmate](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374904768)            | Unclaimed |           |
 | DrImpute                                                                                               | Unclaimed |           |
 | rsvd                                                                                                   | Unclaimed |           |
 | SAVER                                                                                                  | Unclaimed |           |
@@ -2232,10 +2230,10 @@
 | forestplot                                                                                             | Unclaimed |           |
 | RcppNumerical                                                                                          | Unclaimed |           |
 | GetoptLong                                                                                             | Unclaimed |           |
-| coda                                                                                                   | Unclaimed |           |
+| [coda](https://github.com/almahmoud/gha-build/actions/runs/3752525309)                                 | Unclaimed |           |
 | bbmle                                                                                                  | Unclaimed |           |
 | ggbeeswarm                                                                                             | Unclaimed |           |
-| Rtsne                                                                                                  | Unclaimed |           |
+| [Rtsne](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374903601)                | Unclaimed |           |
 | RcppML                                                                                                 | Unclaimed |           |
 | uwot                                                                                                   | Unclaimed |           |
 | pheatmap                                                                                               | Unclaimed |           |
@@ -2245,7 +2243,7 @@
 | RcppHNSW                                                                                               | Unclaimed |           |
 | irlba                                                                                                  | Unclaimed |           |
 | ragg                                                                                                   | Unclaimed |           |
-| RcppAnnoy                                                                                              | Unclaimed |           |
+| [RcppAnnoy](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374904286)            | Unclaimed |           |
 | dqrng                                                                                                  | Unclaimed |           |
 | sitmo                                                                                                  | Unclaimed |           |
 | systemfonts                                                                                            | Unclaimed |           |
@@ -2254,7 +2252,7 @@
 | Rfast                                                                                                  | Unclaimed |           |
 | RcppZiggurat                                                                                           | Unclaimed |           |
 | NADA                                                                                                   | Unclaimed |           |
-| RcppGSL                                                                                                | Unclaimed |           |
+| [RcppGSL](https://github.com/almahmoud/gha-build/actions/runs/3752525309)                              | Unclaimed |           |
 | shinydashboard                                                                                         | Unclaimed |           |
 | seqinr                                                                                                 | Unclaimed |           |
 | segmented                                                                                              | Unclaimed |           |
@@ -2264,23 +2262,23 @@
 | signal                                                                                                 | Unclaimed |           |
 | readxl                                                                                                 | Unclaimed |           |
 | speaq                                                                                                  | Unclaimed |           |
-| pcaPP                                                                                                  | Unclaimed |           |
+| [pcaPP](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374911345)                | Unclaimed |           |
 | baseline                                                                                               | Unclaimed |           |
 | limSolve                                                                                               | Unclaimed |           |
 | rARPACK                                                                                                | Unclaimed |           |
 | cellranger                                                                                             | Unclaimed |           |
 | missForest                                                                                             | Unclaimed |           |
-| itertools                                                                                              | Unclaimed |           |
+| [itertools](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374938446)            | Unclaimed |           |
 | doRNG                                                                                                  | Unclaimed |           |
 | RSpectra                                                                                               | Unclaimed |           |
 | rngtools                                                                                               | Unclaimed |           |
 | curatedTCGAData                                                                                        | Unclaimed |           |
 | readr                                                                                                  | Unclaimed |           |
 | vroom                                                                                                  | Unclaimed |           |
-| tzdb                                                                                                   | Unclaimed |           |
+| [tzdb](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374908480)                 | Unclaimed |           |
 | ggthemes                                                                                               | Unclaimed |           |
 | waffle                                                                                                 | Unclaimed |           |
-| extrafont                                                                                              | Unclaimed |           |
+| [extrafont](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374939339)            | Unclaimed |           |
 | CVXR                                                                                                   | Unclaimed |           |
 | DescTools                                                                                              | Unclaimed |           |
 | Rdpack                                                                                                 | Unclaimed |           |
@@ -2289,11 +2287,11 @@
 | lmerTest                                                                                               | Unclaimed |           |
 | Rmpfr                                                                                                  | Unclaimed |           |
 | osqp                                                                                                   | Unclaimed |           |
-| Exact                                                                                                  | Unclaimed |           |
+| [Exact](https://github.com/almahmoud/gha-build/actions/runs/3752525309)                                | Unclaimed |           |
 | gld                                                                                                    | Unclaimed |           |
 | ape                                                                                                    | Unclaimed |           |
 | tidytree                                                                                               | Unclaimed |           |
-| ecp                                                                                                    | Unclaimed |           |
+| [ecp](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374934219)                  | Unclaimed |           |
 | [ReorderCluster](https://github.com/almahmoud/gha-build/actions/runs/3752324441/jobs/6374474908)       | Unclaimed |           |
 | caret                                                                                                  | Unclaimed |           |
 | rentrez                                                                                                | Unclaimed |           |
@@ -2301,12 +2299,12 @@
 | plotROC                                                                                                | Unclaimed |           |
 | umap                                                                                                   | Unclaimed |           |
 | GUniFrac                                                                                               | Unclaimed |           |
-| ModelMetrics                                                                                           | Unclaimed |           |
+| [ModelMetrics](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374936593)         | Unclaimed |           |
 | pROC                                                                                                   | Unclaimed |           |
 | recipes                                                                                                | Unclaimed |           |
 | rex                                                                                                    | Unclaimed |           |
 | modeest                                                                                                | Unclaimed |           |
-| gridSVG                                                                                                | Unclaimed |           |
+| [gridSVG](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374910514)              | Unclaimed |           |
 | reticulate                                                                                             | Unclaimed |           |
 | fBasics                                                                                                | Unclaimed |           |
 | stable                                                                                                 | Unclaimed |           |
@@ -2359,7 +2357,7 @@
 | COSMIC.67                                                                                              | Unclaimed |           |
 | PolyPhen.Hsapiens.dbSNP131                                                                             | Unclaimed |           |
 | SIFT.Hsapiens.dbSNP137                                                                                 | Unclaimed |           |
-| openxlsx                                                                                               | Unclaimed |           |
+| [openxlsx](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374937502)             | Unclaimed |           |
 | crul                                                                                                   | Unclaimed |           |
 | urltools                                                                                               | Unclaimed |           |
 | triebeard                                                                                              | Unclaimed |           |
@@ -2367,13 +2365,13 @@
 | sendmailR                                                                                              | Unclaimed |           |
 | FDb.InfiniumMethylation.hg19                                                                           | Unclaimed |           |
 | base64                                                                                                 | Unclaimed |           |
-| hexbin                                                                                                 | Unclaimed |           |
+| [hexbin](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374937664)               | Unclaimed |           |
 | svglite                                                                                                | Unclaimed |           |
 | UpSetR                                                                                                 | Unclaimed |           |
 | ptw                                                                                                    | Unclaimed |           |
 | qqman                                                                                                  | Unclaimed |           |
 | RcppDE                                                                                                 | Unclaimed |           |
-| calibrate                                                                                              | Unclaimed |           |
+| [calibrate](https://github.com/almahmoud/gha-build/actions/runs/3752580911)                            | Unclaimed |           |
 | DRaWR                                                                                                  | Unclaimed |           |
 | [mGSZ](https://github.com/almahmoud/gha-build/actions/runs/3752417452/jobs/6374676880)                 | Unclaimed |           |
 | ggfortify                                                                                              | Unclaimed |           |
@@ -2404,25 +2402,24 @@
 | assertive                                                                                              | Unclaimed |           |
 | [assertive.properties](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374904404) | Unclaimed |           |
 | assertive.types                                                                                        | Unclaimed |           |
-| assertive.numbers                                                                                      | Unclaimed |           |
+| [assertive.numbers](https://github.com/almahmoud/gha-build/actions/runs/3752580911)                    | Unclaimed |           |
 | assertive.strings                                                                                      | Unclaimed |           |
 | assertive.datetimes                                                                                    | Unclaimed |           |
 | assertive.files                                                                                        | Unclaimed |           |
-| assertive.sets                                                                                         | Unclaimed |           |
+| [assertive.sets](https://github.com/almahmoud/gha-build/actions/runs/3752580911)                       | Unclaimed |           |
 | assertive.matrices                                                                                     | Unclaimed |           |
 | assertive.models                                                                                       | Unclaimed |           |
 | assertive.data                                                                                         | Unclaimed |           |
 | assertive.data.uk                                                                                      | Unclaimed |           |
 | assertive.data.us                                                                                      | Unclaimed |           |
-| assertive.reflection                                                                                   | Unclaimed |           |
+| [assertive.reflection](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374933323) | Unclaimed |           |
 | assertive.code                                                                                         | Unclaimed |           |
 | doBy                                                                                                   | Unclaimed |           |
 | xgboost                                                                                                | Unclaimed |           |
 | pRolocdata                                                                                             | Unclaimed |           |
 | lbfgs                                                                                                  | Unclaimed |           |
 | dendextend                                                                                             | Unclaimed |           |
-| gdata                                                                                                  | Unclaimed |           |
-| [sfsmisc](https://github.com/almahmoud/gha-build/actions/runs/3752472120/jobs/6374786294)              | Unclaimed |           |
+| [gdata](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374935222)                | Unclaimed |           |
 | ggvis                                                                                                  | Unclaimed |           |
 | gbm                                                                                                    | Unclaimed |           |
 | threejs                                                                                                | Unclaimed |           |
@@ -2465,7 +2462,7 @@
 | Rcgmin                                                                                                 | Unclaimed |           |
 | mitools                                                                                                | Unclaimed |           |
 | sjmisc                                                                                                 | Unclaimed |           |
-| rslurm                                                                                                 | Unclaimed |           |
+| [rslurm](https://github.com/almahmoud/gha-build/actions/runs/3752525309)                               | Unclaimed |           |
 | sjlabelled                                                                                             | Unclaimed |           |
 | datawizard                                                                                             | Unclaimed |           |
 | LIM                                                                                                    | Unclaimed |           |
@@ -2483,7 +2480,7 @@
 | gson                                                                                                   | Unclaimed |           |
 | influenceR                                                                                             | Unclaimed |           |
 | HDO.db                                                                                                 | Unclaimed |           |
-| markdown                                                                                               | Unclaimed |           |
+| [markdown](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374939073)             | Unclaimed |           |
 | shinyAce                                                                                               | Unclaimed |           |
 | psych                                                                                                  | Unclaimed |           |
 | shinyFiles                                                                                             | Unclaimed |           |
@@ -2498,13 +2495,13 @@
 | ggplotify                                                                                              | Unclaimed |           |
 | gh                                                                                                     | Unclaimed |           |
 | rorcid                                                                                                 | Unclaimed |           |
-| fauxpas                                                                                                | Unclaimed |           |
+| [fauxpas](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374939250)              | Unclaimed |           |
 | styler                                                                                                 | Unclaimed |           |
 | usethis                                                                                                | Unclaimed |           |
 | gert                                                                                                   | Unclaimed |           |
 | credentials                                                                                            | Unclaimed |           |
 | chk                                                                                                    | Unclaimed |           |
-| lgr                                                                                                    | Unclaimed |           |
+| [lgr](https://github.com/almahmoud/gha-build/actions/runs/3752580911)                                  | Unclaimed |           |
 | rms                                                                                                    | Unclaimed |           |
 | precrec                                                                                                | Unclaimed |           |
 | ranger                                                                                                 | Unclaimed |           |
@@ -2534,11 +2531,11 @@
 | drtmle                                                                                                 | Unclaimed |           |
 | SuperLearner                                                                                           | Unclaimed |           |
 | np                                                                                                     | Unclaimed |           |
-| cubature                                                                                               | Unclaimed |           |
+| [cubature](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374934589)             | Unclaimed |           |
 | gam                                                                                                    | Unclaimed |           |
 | cvAUC                                                                                                  | Unclaimed |           |
 | biscuiteerData                                                                                         | Unclaimed |           |
-| qualV                                                                                                  | Unclaimed |           |
+| [qualV](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374903440)                | Unclaimed |           |
 | betareg                                                                                                | Unclaimed |           |
 | lokern                                                                                                 | Unclaimed |           |
 | pasilla                                                                                                | Unclaimed |           |
@@ -2556,13 +2553,12 @@
 | ggm                                                                                                    | Unclaimed |           |
 | vcd                                                                                                    | Unclaimed |           |
 | gamlss                                                                                                 | Unclaimed |           |
-| gamlss.dist                                                                                            | Unclaimed |           |
+| [gamlss.dist](https://github.com/almahmoud/gha-build/actions/runs/3752580911)                          | Unclaimed |           |
 | earth                                                                                                  | Unclaimed |           |
 | plotmo                                                                                                 | Unclaimed |           |
-| [TeachingDemos](https://github.com/almahmoud/gha-build/actions/runs/3752472120/jobs/6374785477)        | Unclaimed |           |
-| PolynomF                                                                                               | Unclaimed |           |
+| [PolynomF](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374936521)             | Unclaimed |           |
 | GenomicState                                                                                           | Unclaimed |           |
-| lsa                                                                                                    | Unclaimed |           |
+| [lsa](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374907550)                  | Unclaimed |           |
 | BSgenome.Hsapiens.UCSC.hg38                                                                            | Unclaimed |           |
 | devtools                                                                                               | Unclaimed |           |
 | pkgdown                                                                                                | Unclaimed |           |
@@ -2574,7 +2570,6 @@
 | urlchecker                                                                                             | Unclaimed |           |
 | downlit                                                                                                | Unclaimed |           |
 | xopen                                                                                                  | Unclaimed |           |
-| [zeallot](https://github.com/almahmoud/gha-build/actions/runs/3752472120/jobs/6374787685)              | Unclaimed |           |
 | pryr                                                                                                   | Unclaimed |           |
 | lobstr                                                                                                 | Unclaimed |           |
 | ggtext                                                                                                 | Unclaimed |           |
@@ -2584,7 +2579,7 @@
 | rrcov                                                                                                  | Unclaimed |           |
 | ALL                                                                                                    | Unclaimed |           |
 | vcfR                                                                                                   | Unclaimed |           |
-| biglm                                                                                                  | Unclaimed |           |
+| [biglm](https://github.com/almahmoud/gha-build/actions/runs/3752580911)                                | Unclaimed |           |
 | sqldf                                                                                                  | Unclaimed |           |
 | gsubfn                                                                                                 | Unclaimed |           |
 | drc                                                                                                    | Unclaimed |           |
@@ -2594,7 +2589,6 @@
 | repr                                                                                                   | Unclaimed |           |
 | rapportools                                                                                            | Unclaimed |           |
 | rintrojs                                                                                               | Unclaimed |           |
-| [Rmpi](https://github.com/almahmoud/gha-build/actions/runs/3752417452/jobs/6374677595)                 | Unclaimed |           |
 | enrichR                                                                                                | Unclaimed |           |
 | MCMCprecision                                                                                          | Unclaimed |           |
 | dbscan                                                                                                 | Unclaimed |           |
@@ -2606,19 +2600,19 @@
 | SpatialTools                                                                                           | Unclaimed |           |
 | FactoMineR                                                                                             | Unclaimed |           |
 | spBayes                                                                                                | Unclaimed |           |
-| magic                                                                                                  | Unclaimed |           |
-| kSamples                                                                                               | Unclaimed |           |
+| [magic](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374911048)                | Unclaimed |           |
+| [kSamples](https://github.com/almahmoud/gha-build/actions/runs/3752525309)                             | Unclaimed |           |
 | cba                                                                                                    | Unclaimed |           |
 | dtw                                                                                                    | Unclaimed |           |
 | EnvStats                                                                                               | Unclaimed |           |
 | maptree                                                                                                | Unclaimed |           |
 | topicmodels                                                                                            | Unclaimed |           |
-| maptpx                                                                                                 | Unclaimed |           |
+| [maptpx](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374939981)               | Unclaimed |           |
 | tm                                                                                                     | Unclaimed |           |
-| rjsoncons                                                                                              | Unclaimed |           |
+| [rjsoncons](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374910952)            | Unclaimed |           |
 | ggpmisc                                                                                                | Unclaimed |           |
 | ggpp                                                                                                   | Unclaimed |           |
-| confintr                                                                                               | Unclaimed |           |
+| [confintr](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374910333)             | Unclaimed |           |
 | broom.mixed                                                                                            | Unclaimed |           |
 | mice                                                                                                   | Unclaimed |           |
 | furrr                                                                                                  | Unclaimed |           |
@@ -2630,14 +2624,14 @@
 | RPMM                                                                                                   | Unclaimed |           |
 | IlluminaHumanMethylation450kmanifest                                                                   | Unclaimed |           |
 | IlluminaHumanMethylationEPICanno.ilm10b4.hg19                                                          | Unclaimed |           |
-| kpmt                                                                                                   | Unclaimed |           |
+| [kpmt](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374908852)                 | Unclaimed |           |
 | isva                                                                                                   | Unclaimed |           |
 | geneLenDataBase                                                                                        | Unclaimed |           |
 | JADE                                                                                                   | Unclaimed |           |
 | ruv                                                                                                    | Unclaimed |           |
 | [spp](https://github.com/almahmoud/gha-build/actions/runs/3752324441/jobs/6374478952)                  | Unclaimed |           |
 | ChIC.data                                                                                              | Unclaimed |           |
-| RcppRoll                                                                                               | Unclaimed |           |
+| [RcppRoll](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374908396)             | Unclaimed |           |
 | BSgenome.Mmusculus.UCSC.mm9                                                                            | Unclaimed |           |
 | chipenrich.data                                                                                        | Unclaimed |           |
 | org.Dm.eg.db                                                                                           | Unclaimed |           |
@@ -2651,7 +2645,7 @@
 | ashr                                                                                                   | Unclaimed |           |
 | mixsqp                                                                                                 | Unclaimed |           |
 | ChIPXpressData                                                                                         | Unclaimed |           |
-| bigmemory                                                                                              | Unclaimed |           |
+| [bigmemory](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374904682)            | Unclaimed |           |
 | biganalytics                                                                                           | Unclaimed |           |
 | shinyhelper                                                                                            | Unclaimed |           |
 | shinyWidgets                                                                                           | Unclaimed |           |
@@ -2660,7 +2654,7 @@
 | gggenes                                                                                                | Unclaimed |           |
 | qs                                                                                                     | Unclaimed |           |
 | rlist                                                                                                  | Unclaimed |           |
-| matrixTests                                                                                            | Unclaimed |           |
+| [matrixTests](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374940635)          | Unclaimed |           |
 | ggfittext                                                                                              | Unclaimed |           |
 | stringfish                                                                                             | Unclaimed |           |
 | fresh                                                                                                  | Unclaimed |           |
@@ -2682,13 +2676,12 @@
 | benchmarkmeData                                                                                        | Unclaimed |           |
 | princurve                                                                                              | Unclaimed |           |
 | brglm                                                                                                  | Unclaimed |           |
-| splitstackshape                                                                                        | Unclaimed |           |
-| [profileModel](https://github.com/almahmoud/gha-build/actions/runs/3752417452/jobs/6374678687)         | Unclaimed |           |
-| kohonen                                                                                                | Unclaimed |           |
+| [splitstackshape](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374905263)      | Unclaimed |           |
+| [kohonen](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374905154)              | Unclaimed |           |
 | biwt                                                                                                   | Unclaimed |           |
 | skmeans                                                                                                | Unclaimed |           |
 | eulerr                                                                                                 | Unclaimed |           |
-| polylabelr                                                                                             | Unclaimed |           |
+| [polylabelr](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374907197)           | Unclaimed |           |
 | alabama                                                                                                | Unclaimed |           |
 | cobs                                                                                                   | Unclaimed |           |
 | phylolm                                                                                                | Unclaimed |           |
@@ -2727,9 +2720,9 @@
 | mltools                                                                                                | Unclaimed |           |
 | tensorflow                                                                                             | Unclaimed |           |
 | tfruns                                                                                                 | Unclaimed |           |
-| config                                                                                                 | Unclaimed |           |
+| [config](https://github.com/almahmoud/gha-build/actions/runs/3752580911)                               | Unclaimed |           |
 | tfautograph                                                                                            | Unclaimed |           |
-| metaMA                                                                                                 | Unclaimed |           |
+| [metaMA](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374937977)               | Unclaimed |           |
 | reader                                                                                                 | Unclaimed |           |
 | shinypanel                                                                                             | Unclaimed |           |
 | highcharter                                                                                            | Unclaimed |           |
@@ -2738,18 +2731,18 @@
 | [AhoCorasickTrie](https://github.com/almahmoud/gha-build/actions/runs/3752525309)                      | Unclaimed |           |
 | cytometree                                                                                             | Unclaimed |           |
 | mrfDepth                                                                                               | Unclaimed |           |
-| GoFKernel                                                                                              | Unclaimed |           |
+| [GoFKernel](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374910601)            | Unclaimed |           |
 | rgeos                                                                                                  | Unclaimed |           |
 | RFOC                                                                                                   | Unclaimed |           |
 | geometry                                                                                               | Unclaimed |           |
-| IDPmisc                                                                                                | Unclaimed |           |
-| linprog                                                                                                | Unclaimed |           |
+| [IDPmisc](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374910683)              | Unclaimed |           |
+| [linprog](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374905074)              | Unclaimed |           |
 | GEOmap                                                                                                 | Unclaimed |           |
 | RSEIS                                                                                                  | Unclaimed |           |
 | splancs                                                                                                | Unclaimed |           |
 | fields                                                                                                 | Unclaimed |           |
-| MBA                                                                                                    | Unclaimed |           |
-| spam                                                                                                   | Unclaimed |           |
+| [MBA](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374908116)                  | Unclaimed |           |
+| [spam](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374903953)                 | Unclaimed |           |
 | rpart.plot                                                                                             | Unclaimed |           |
 | shinyFeedback                                                                                          | Unclaimed |           |
 | shinyMatrix                                                                                            | Unclaimed |           |
@@ -2760,7 +2753,7 @@
 | kknn                                                                                                   | Unclaimed |           |
 | FSelector                                                                                              | Unclaimed |           |
 | arm                                                                                                    | Unclaimed |           |
-| RSNNS                                                                                                  | Unclaimed |           |
+| [RSNNS](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374902968)                | Unclaimed |           |
 | RWeka                                                                                                  | Unclaimed |           |
 | MSQC                                                                                                   | Unclaimed |           |
 | RWekajars                                                                                              | Unclaimed |           |
@@ -2768,7 +2761,7 @@
 | cmdfun                                                                                                 | Unclaimed |           |
 | metap                                                                                                  | Unclaimed |           |
 | ppcor                                                                                                  | Unclaimed |           |
-| harmonicmeanp                                                                                          | Unclaimed |           |
+| [harmonicmeanp](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374904063)        | Unclaimed |           |
 | TFisher                                                                                                | Unclaimed |           |
 | mutoss                                                                                                 | Unclaimed |           |
 | qqconf                                                                                                 | Unclaimed |           |
@@ -2780,10 +2773,10 @@
 | CatEncoders                                                                                            | Unclaimed |           |
 | rcdk                                                                                                   | Unclaimed |           |
 | webchem                                                                                                | Unclaimed |           |
-| rcdklibs                                                                                               | Unclaimed |           |
+| [rcdklibs](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374941035)             | Unclaimed |           |
 | text2vec                                                                                               | Unclaimed |           |
 | textstem                                                                                               | Unclaimed |           |
-| stopwords                                                                                              | Unclaimed |           |
+| [stopwords](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374907097)            | Unclaimed |           |
 | data.tree                                                                                              | Unclaimed |           |
 | rsparse                                                                                                | Unclaimed |           |
 | mlapi                                                                                                  | Unclaimed |           |
@@ -2794,10 +2787,10 @@
 | quanteda                                                                                               | Unclaimed |           |
 | textclean                                                                                              | Unclaimed |           |
 | textshape                                                                                              | Unclaimed |           |
-| sylly.en                                                                                               | Unclaimed |           |
+| [sylly.en](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374904168)             | Unclaimed |           |
 | syuzhet                                                                                                | Unclaimed |           |
 | MatrixExtra                                                                                            | Unclaimed |           |
-| qdapRegex                                                                                              | Unclaimed |           |
+| [qdapRegex](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374937009)            | Unclaimed |           |
 | einsum                                                                                                 | Unclaimed |           |
 | tseries                                                                                                | Unclaimed |           |
 | truncdist                                                                                              | Unclaimed |           |
@@ -2807,34 +2800,32 @@
 | ggplot.multistats                                                                                      | Unclaimed |           |
 | VIM                                                                                                    | Unclaimed |           |
 | knn.covertree                                                                                          | Unclaimed |           |
-| laeken                                                                                                 | Unclaimed |           |
+| [laeken](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374903669)               | Unclaimed |           |
 | NBPSeq                                                                                                 | Unclaimed |           |
 | blockmodeling                                                                                          | Unclaimed |           |
 | DExMAdata                                                                                              | Unclaimed |           |
 | swamp                                                                                                  | Unclaimed |           |
 | bnstruct                                                                                               | Unclaimed |           |
 | phangorn                                                                                               | Unclaimed |           |
-| RMSNumpress                                                                                            | Unclaimed |           |
+| [RMSNumpress](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374906260)          | Unclaimed |           |
 | DiffCorr                                                                                               | Unclaimed |           |
 | MetaCycle                                                                                              | Unclaimed |           |
 | gnm                                                                                                    | Unclaimed |           |
-| [qvcalc](https://github.com/almahmoud/gha-build/actions/runs/3752417452/jobs/6374678035)               | Unclaimed |           |
 | fastDummies                                                                                            | Unclaimed |           |
 | hgu133a2.db                                                                                            | Unclaimed |           |
 | gganimate                                                                                              | Unclaimed |           |
 | aricode                                                                                                | Unclaimed |           |
 | easierData                                                                                             | Unclaimed |           |
 | coin                                                                                                   | Unclaimed |           |
-| libcoin                                                                                                | Unclaimed |           |
-| wordcloud                                                                                              | Unclaimed |           |
+| [libcoin](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374934804)              | Unclaimed |           |
+| [wordcloud](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374907654)            | Unclaimed |           |
 | HTMLUtils                                                                                              | Unclaimed |           |
 | ELMER.data                                                                                             | Unclaimed |           |
-| [TCGAbiolinksGUI.data](https://github.com/almahmoud/gha-build/actions/runs/3752472120/jobs/6374787837) | Unclaimed |           |
 | heatmap3                                                                                               | Unclaimed |           |
 | [EntropyExplorer](https://github.com/almahmoud/gha-build/actions/runs/3752324441/jobs/6374478385)      | Unclaimed |           |
 | EpiMix.data                                                                                            | Unclaimed |           |
 | R.matlab                                                                                               | Unclaimed |           |
-| isotree                                                                                                | Unclaimed |           |
+| [isotree](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374940342)              | Unclaimed |           |
 | batchtools                                                                                             | Unclaimed |           |
 | qgraph                                                                                                 | Unclaimed |           |
 | lavaan                                                                                                 | Unclaimed |           |
@@ -2855,9 +2846,9 @@
 | [SPARQL](https://github.com/almahmoud/gha-build/actions/runs/3752298549/jobs/6374370507)               | Unclaimed |           |
 | ggiraph                                                                                                | Unclaimed |           |
 | RecordLinkage                                                                                          | Unclaimed |           |
-| ada                                                                                                    | Unclaimed |           |
+| [ada](https://github.com/almahmoud/gha-build/actions/runs/3752580911)                                  | Unclaimed |           |
 | BBmisc                                                                                                 | Unclaimed |           |
-| extraDistr                                                                                             | Unclaimed |           |
+| [extraDistr](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374908766)           | Unclaimed |           |
 | NHPoisson                                                                                              | Unclaimed |           |
 | FCPS                                                                                                   | Unclaimed |           |
 | analogue                                                                                               | Unclaimed |           |
@@ -2890,11 +2881,11 @@
 | gRain                                                                                                  | Unclaimed |           |
 | gProfileR                                                                                              | Unclaimed |           |
 | epiR                                                                                                   | Unclaimed |           |
-| dtangle                                                                                                | Unclaimed |           |
+| [dtangle](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374908042)              | Unclaimed |           |
 | sf                                                                                                     | Unclaimed |           |
 | classInt                                                                                               | Unclaimed |           |
-| s2                                                                                                     | Unclaimed |           |
-| units                                                                                                  | Unclaimed |           |
+| [s2](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374910092)                   | Unclaimed |           |
+| [units](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374907370)                | Unclaimed |           |
 | RMallow                                                                                                | Unclaimed |           |
 | penalized                                                                                              | Unclaimed |           |
 | fGarch                                                                                                 | Unclaimed |           |
@@ -2923,17 +2914,17 @@
 | concaveman                                                                                             | Unclaimed |           |
 | Rlabkey                                                                                                | Unclaimed |           |
 | phyclust                                                                                               | Unclaimed |           |
-| argparse                                                                                               | Unclaimed |           |
+| [argparse](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374938536)             | Unclaimed |           |
 | depmixS4                                                                                               | Unclaimed |           |
 | flock                                                                                                  | Unclaimed |           |
 | Rsolnp                                                                                                 | Unclaimed |           |
 | golem                                                                                                  | Unclaimed |           |
 | shinyalert                                                                                             | Unclaimed |           |
 | wordcloud2                                                                                             | Unclaimed |           |
-| attempt                                                                                                | Unclaimed |           |
-| rsm                                                                                                    | Unclaimed |           |
+| [attempt](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374904591)              | Unclaimed |           |
+| [rsm](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374909952)                  | Unclaimed |           |
 | anocva                                                                                                 | Unclaimed |           |
-| Polychrome                                                                                             | Unclaimed |           |
+| [Polychrome](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374935887)           | Unclaimed |           |
 | AdaptGauss                                                                                             | Unclaimed |           |
 | datamods                                                                                               | Unclaimed |           |
 | phosphoricons                                                                                          | Unclaimed |           |
@@ -2984,10 +2975,10 @@
 | rebus                                                                                                  | Unclaimed |           |
 | rebus.datetimes                                                                                        | Unclaimed |           |
 | rebus.numbers                                                                                          | Unclaimed |           |
-| rebus.unicode                                                                                          | Unclaimed |           |
-| mhsmm                                                                                                  | Unclaimed |           |
+| [rebus.unicode](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374910784)        | Unclaimed |           |
+| [mhsmm](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374934713)                | Unclaimed |           |
 | GeneNet                                                                                                | Unclaimed |           |
-| longitudinal                                                                                           | Unclaimed |           |
+| [longitudinal](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374903253)         | Unclaimed |           |
 | ggmcmc                                                                                                 | Unclaimed |           |
 | MCMCglmm                                                                                               | Unclaimed |           |
 | shinycustomloader                                                                                      | Unclaimed |           |
@@ -3032,9 +3023,9 @@
 | googleAuthR                                                                                            | Unclaimed |           |
 | blme                                                                                                   | Unclaimed |           |
 | deconstructSigs                                                                                        | Unclaimed |           |
-| philentropy                                                                                            | Unclaimed |           |
+| [philentropy](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374910170)          | Unclaimed |           |
 | shinyjqui                                                                                              | Unclaimed |           |
-| grImport                                                                                               | Unclaimed |           |
+| [grImport](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374905855)             | Unclaimed |           |
 | scico                                                                                                  | Unclaimed |           |
 | VarfromPDB                                                                                             | Unclaimed |           |
 | XML2R                                                                                                  | Unclaimed |           |
@@ -3078,7 +3069,7 @@
 | Matching                                                                                               | Unclaimed |           |
 | reportROC                                                                                              | Unclaimed |           |
 | verification                                                                                           | Unclaimed |           |
-| CircStats                                                                                              | Unclaimed |           |
+| [CircStats](https://github.com/almahmoud/gha-build/actions/runs/3752580911)                            | Unclaimed |           |
 | aroma.affymetrix                                                                                       | Unclaimed |           |
 | aroma.core                                                                                             | Unclaimed |           |
 | R.devices                                                                                              | Unclaimed |           |
@@ -3090,12 +3081,12 @@
 | circular                                                                                               | Unclaimed |           |
 | conicfit                                                                                               | Unclaimed |           |
 | genlasso                                                                                               | Unclaimed |           |
-| protolite                                                                                              | Unclaimed |           |
+| [protolite](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374907830)            | Unclaimed |           |
 | Rook                                                                                                   | Unclaimed |           |
 | opencpu                                                                                                | Unclaimed |           |
 | webutils                                                                                               | Unclaimed |           |
 | magicaxis                                                                                              | Unclaimed |           |
-| celestial                                                                                              | Unclaimed |           |
+| [celestial](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374936754)            | Unclaimed |           |
 | PMCMRplus                                                                                              | Unclaimed |           |
 | BWStest                                                                                                | Unclaimed |           |
 | SmoothWin                                                                                              | Unclaimed |           |
@@ -3108,7 +3099,7 @@
 | evmix                                                                                                  | Unclaimed |           |
 | tidybayes                                                                                              | Unclaimed |           |
 | ggdist                                                                                                 | Unclaimed |           |
-| arrayhelpers                                                                                           | Unclaimed |           |
+| [arrayhelpers](https://github.com/almahmoud/gha-build/actions/runs/3752580911)                         | Unclaimed |           |
 | posterior                                                                                              | Unclaimed |           |
 | distributional                                                                                         | Unclaimed |           |
 | phastCons100way.UCSC.hg38                                                                              | Unclaimed |           |
@@ -3118,13 +3109,13 @@
 | EnsDb.Mmusculus.v79                                                                                    | Unclaimed |           |
 | EnsDb.Rnorvegicus.v79                                                                                  | Unclaimed |           |
 | ParallelLogger                                                                                         | Unclaimed |           |
-| Kendall                                                                                                | Unclaimed |           |
+| [Kendall](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374939799)              | Unclaimed |           |
 | pairsD3                                                                                                | Unclaimed |           |
 | shinyscreenshot                                                                                        | Unclaimed |           |
 | CpGassoc                                                                                               | Unclaimed |           |
 | pwrEWAS.data                                                                                           | Unclaimed |           |
 | ExtDist                                                                                                | Unclaimed |           |
-| googleVis                                                                                              | Unclaimed |           |
+| [googleVis](https://github.com/almahmoud/gha-build/actions/runs/3752580911)                            | Unclaimed |           |
 | phastCons100way.UCSC.hg19                                                                              | Unclaimed |           |
 | rcellminerData                                                                                         | Unclaimed |           |
 | arrow                                                                                                  | Unclaimed |           |
@@ -3139,7 +3130,7 @@
 | bibtex                                                                                                 | Unclaimed |           |
 | BSgenome.Hsapiens.1000genomes.hs37d5                                                                   | Unclaimed |           |
 | rGenomeTracksData                                                                                      | Unclaimed |           |
-| elitism                                                                                                | Unclaimed |           |
+| [elitism](https://github.com/almahmoud/gha-build/actions/runs/3752580911)                              | Unclaimed |           |
 | doMC                                                                                                   | Unclaimed |           |
 | nls2                                                                                                   | Unclaimed |           |
 | valr                                                                                                   | Unclaimed |           |
@@ -3156,7 +3147,6 @@
 | bladderbatch                                                                                           | Unclaimed |           |
 | RUVnormalizeData                                                                                       | Unclaimed |           |
 | GENLIB                                                                                                 | Unclaimed |           |
-| [SPAtest](https://github.com/almahmoud/gha-build/actions/runs/3752472120/jobs/6374787507)              | Unclaimed |           |
 | excelR                                                                                                 | Unclaimed |           |
 | SBGNview.data                                                                                          | Unclaimed |           |
 | scanMiRData                                                                                            | Unclaimed |           |
@@ -3167,13 +3157,13 @@
 | extRemes                                                                                               | Unclaimed |           |
 | Lmoments                                                                                               | Unclaimed |           |
 | torch                                                                                                  | Unclaimed |           |
-| coro                                                                                                   | Unclaimed |           |
-| elasticnet                                                                                             | Unclaimed |           |
+| [coro](https://github.com/almahmoud/gha-build/actions/runs/3752525309)                                 | Unclaimed |           |
+| [elasticnet](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374910427)           | Unclaimed |           |
 | sparsepca                                                                                              | Unclaimed |           |
 | origami                                                                                                | Unclaimed |           |
 | [Rmagic](https://github.com/almahmoud/gha-build/actions/runs/3752382865/jobs/6374559495)               | Unclaimed |           |
 | ggvenn                                                                                                 | Unclaimed |           |
-| glmpca                                                                                                 | Unclaimed |           |
+| [glmpca](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374934327)               | Unclaimed |           |
 | nnTensor                                                                                               | Unclaimed |           |
 | ccTensor                                                                                               | Unclaimed |           |
 | tagcloud                                                                                               | Unclaimed |           |
@@ -3183,7 +3173,7 @@
 | adehabitatMA                                                                                           | Unclaimed |           |
 | rbokeh                                                                                                 | Unclaimed |           |
 | gistr                                                                                                  | Unclaimed |           |
-| objectProperties                                                                                       | Unclaimed |           |
+| [objectProperties](https://github.com/almahmoud/gha-build/actions/runs/3752580911/jobs/6374932419)     | Unclaimed |           |
 | mlr3                                                                                                   | Unclaimed |           |
 | mlr3learners                                                                                           | Unclaimed |           |
 | mlr3tuning                                                                                             | Unclaimed |           |
@@ -3204,7 +3194,7 @@
 | VAM                                                                                                    | Unclaimed |           |
 | hgu95a.db                                                                                              | Unclaimed |           |
 | mixsmsn                                                                                                | Unclaimed |           |
-| RcppAlgos                                                                                              | Unclaimed |           |
+| [RcppAlgos](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374909696)            | Unclaimed |           |
 | [sampSurf](https://github.com/almahmoud/gha-build/actions/runs/3752382865/jobs/6374558354)             | Unclaimed |           |
 | spdep                                                                                                  | Unclaimed |           |
 | spData                                                                                                 | Unclaimed |           |
@@ -3251,13 +3241,13 @@
 | LambertW                                                                                               | Unclaimed |           |
 | butcher                                                                                                | Unclaimed |           |
 | visdat                                                                                                 | Unclaimed |           |
-| lamW                                                                                                   | Unclaimed |           |
+| [lamW](https://github.com/almahmoud/gha-build/actions/runs/3752580911)                                 | Unclaimed |           |
 | animation                                                                                              | Unclaimed |           |
 | tractor.base                                                                                           | Unclaimed |           |
 | reportr                                                                                                | Unclaimed |           |
 | RNifti                                                                                                 | Unclaimed |           |
 | [vbsr](https://github.com/almahmoud/gha-build/actions/runs/3752382865/jobs/6374561666)                 | Unclaimed |           |
-| lassopv                                                                                                | Unclaimed |           |
+| [lassopv](https://github.com/almahmoud/gha-build/actions/runs/3752525309/jobs/6374910238)              | Unclaimed |           |
 | RPostgreSQL                                                                                            | Unclaimed |           |
 | SNPlocs.Hsapiens.dbSNP150.GRCh38                                                                       | Unclaimed |           |
 | [kmlShape](https://github.com/almahmoud/gha-build/actions/runs/3752382865/jobs/6374554360)             | Unclaimed |           |
@@ -3268,7 +3258,7 @@
 | eva                                                                                                    | Unclaimed |           |
 | Rmisc                                                                                                  | Unclaimed |           |
 
-## Succeeded (556)
+## Succeeded (566)
 | Package                                                                                                       | Status    | Tarball                                                                                                                                                                                                     |
 |---------------------------------------------------------------------------------------------------------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [affxparser](https://github.com/almahmoud/gha-build/actions/runs/3752417452/jobs/6374675028)                  | Succeeded | [affxparser_1.70.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/affxparser_1.70.0_R_x86_64-pc-linux-gnu.tar.gz)                                   |
@@ -3340,11 +3330,13 @@
 | [preprocessCore](https://github.com/almahmoud/gha-build/actions/runs/3752298549)                              | Succeeded | [preprocessCore_1.60.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/preprocessCore_1.60.1_R_x86_64-pc-linux-gnu.tar.gz)                           |
 | [proteinProfiles](https://github.com/almahmoud/gha-build/actions/runs/3752324441/jobs/6374480190)             | Succeeded | [proteinProfiles_1.38.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/proteinProfiles_1.38.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
 | [ProtGenerics](https://github.com/almahmoud/gha-build/actions/runs/3752281011)                                | Succeeded | [ProtGenerics_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/ProtGenerics_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                               |
+| [rama](https://github.com/almahmoud/gha-build/actions/runs/3752472120/jobs/6374788011)                        | Succeeded | [rama_1.72.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/rama_1.72.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [rawrr](https://github.com/almahmoud/gha-build/actions/runs/3752281011)                                       | Succeeded | [rawrr_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/rawrr_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [Rbowtie](https://github.com/almahmoud/gha-build/actions/runs/3752296040)                                     | Succeeded | [Rbowtie_1.38.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/Rbowtie_1.38.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | [Rbwa](https://github.com/almahmoud/gha-build/actions/runs/3752417452)                                        | Succeeded | [Rbwa_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/Rbwa_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [RCASPAR](https://github.com/almahmoud/gha-build/actions/runs/3752298549)                                     | Succeeded | [RCASPAR_1.44.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/RCASPAR_1.44.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | [Rhdf5lib](https://github.com/almahmoud/gha-build/actions/runs/3752296040)                                    | Succeeded | [Rhdf5lib_1.20.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/Rhdf5lib_1.20.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
+| [RNASeqPower](https://github.com/almahmoud/gha-build/actions/runs/3752472120/jobs/6374785371)                 | Succeeded | [RNASeqPower_1.38.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/RNASeqPower_1.38.0_R_x86_64-pc-linux-gnu.tar.gz)                                 |
 | [RProtoBufLib](https://github.com/almahmoud/gha-build/actions/runs/3752324441/jobs/6374480405)                | Succeeded | [RProtoBufLib_2.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/RProtoBufLib_2.10.0_R_x86_64-pc-linux-gnu.tar.gz)                               |
 | [SamSPECTRAL](https://github.com/almahmoud/gha-build/actions/runs/3752298549/jobs/6374373287)                 | Succeeded | [SamSPECTRAL_1.52.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/SamSPECTRAL_1.52.0_R_x86_64-pc-linux-gnu.tar.gz)                                 |
 | [SCBN](https://github.com/almahmoud/gha-build/actions/runs/3752472120/jobs/6374784256)                        | Succeeded | [SCBN_1.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/SCBN_1.16.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
@@ -3548,6 +3540,7 @@
 | [MALDIquant](https://github.com/almahmoud/gha-build/actions/runs/3752324441/jobs/6374475606)                  | Succeeded | [MALDIquant_1.22_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/MALDIquant_1.22_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | [LaplacesDemon](https://github.com/almahmoud/gha-build/actions/runs/3752382865/jobs/6374553346)               | Succeeded | [LaplacesDemon_16.1.6_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/LaplacesDemon_16.1.6_R_x86_64-pc-linux-gnu.tar.gz)                             |
 | [pls](https://github.com/almahmoud/gha-build/actions/runs/3752382865/jobs/6374560782)                         | Succeeded | [pls_2.8-1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/pls_2.8-1_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
+| [sfsmisc](https://github.com/almahmoud/gha-build/actions/runs/3752472120/jobs/6374786294)                     | Succeeded | [sfsmisc_1.1-14_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/sfsmisc_1.1-14_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | [mlbench](https://github.com/almahmoud/gha-build/actions/runs/3752281011)                                     | Succeeded | [mlbench_2.1-3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/mlbench_2.1-3_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [inline](https://github.com/almahmoud/gha-build/actions/runs/3752324441/jobs/6374476912)                      | Succeeded | [inline_0.3.19_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/inline_0.3.19_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [RcppParallel](https://github.com/almahmoud/gha-build/actions/runs/3752281011)                                | Succeeded | [RcppParallel_5.1.5_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/RcppParallel_5.1.5_R_x86_64-pc-linux-gnu.tar.gz)                                 |
@@ -3600,11 +3593,13 @@
 | [NbClust](https://github.com/almahmoud/gha-build/actions/runs/3752382865)                                     | Succeeded | [NbClust_3.0.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/NbClust_3.0.1_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [gamlss.data](https://github.com/almahmoud/gha-build/actions/runs/3752298549)                                 | Succeeded | [gamlss.data_6.0-2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/gamlss.data_6.0-2_R_x86_64-pc-linux-gnu.tar.gz)                                   |
 | [matrixcalc](https://github.com/almahmoud/gha-build/actions/runs/3752417452/jobs/6374674352)                  | Succeeded | [matrixcalc_1.0-6_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/matrixcalc_1.0-6_R_x86_64-pc-linux-gnu.tar.gz)                                     |
+| [TeachingDemos](https://github.com/almahmoud/gha-build/actions/runs/3752472120/jobs/6374785477)               | Succeeded | [TeachingDemos_2.12_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/TeachingDemos_2.12_R_x86_64-pc-linux-gnu.tar.gz)                                 |
 | [plotrix](https://github.com/almahmoud/gha-build/actions/runs/3752417452/jobs/6374679232)                     | Succeeded | [plotrix_3.8-2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/plotrix_3.8-2_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [breakpointRdata](https://github.com/almahmoud/gha-build/actions/runs/3752296040)                             | Succeeded | [breakpointRdata_1.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/breakpointRdata_1.16.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
 | [WriteXLS](https://github.com/almahmoud/gha-build/actions/runs/3752382865/jobs/6374560520)                    | Succeeded | [WriteXLS_6.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/WriteXLS_6.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | [remotes](https://github.com/almahmoud/gha-build/actions/runs/3752417452/jobs/6374677189)                     | Succeeded | [remotes_2.4.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/remotes_2.4.2_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [brew](https://github.com/almahmoud/gha-build/actions/runs/3752298549)                                        | Succeeded | [brew_1.0-8_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/brew_1.0-8_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
+| [zeallot](https://github.com/almahmoud/gha-build/actions/runs/3752472120/jobs/6374787685)                     | Succeeded | [zeallot_0.1.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/zeallot_0.1.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [PoiClaClu](https://github.com/almahmoud/gha-build/actions/runs/3752382865)                                   | Succeeded | [PoiClaClu_1.0.2.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/PoiClaClu_1.0.2.1_R_x86_64-pc-linux-gnu.tar.gz)                                   |
 | [som](https://github.com/almahmoud/gha-build/actions/runs/3752281011)                                         | Succeeded | [som_0.3-5.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/som_0.3-5.1_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [operator.tools](https://github.com/almahmoud/gha-build/actions/runs/3752298549)                              | Succeeded | [operator.tools_1.6.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/operator.tools_1.6.3_R_x86_64-pc-linux-gnu.tar.gz)                             |
@@ -3617,6 +3612,7 @@
 | [chron](https://github.com/almahmoud/gha-build/actions/runs/3752296040)                                       | Succeeded | [chron_2.3-58_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/chron_2.3-58_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [uchardet](https://github.com/almahmoud/gha-build/actions/runs/3752382865/jobs/6374553009)                    | Succeeded | [uchardet_1.1.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/uchardet_1.1.1_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | [pbdZMQ](https://github.com/almahmoud/gha-build/actions/runs/3752281011)                                      | Succeeded | [pbdZMQ_0.3-8_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/pbdZMQ_0.3-8_R_x86_64-pc-linux-gnu.tar.gz)                                             |
+| [Rmpi](https://github.com/almahmoud/gha-build/actions/runs/3752417452/jobs/6374677595)                        | Succeeded | [Rmpi_0.6-9.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/Rmpi_0.6-9.2_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [ccdata](https://github.com/almahmoud/gha-build/actions/runs/3752324441/jobs/6374481288)                      | Succeeded | [ccdata_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/ccdata_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [CCP](https://github.com/almahmoud/gha-build/actions/runs/3752298549)                                         | Succeeded | [CCP_1.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/CCP_1.2_R_x86_64-pc-linux-gnu.tar.gz)                                                       |
 | [tictoc](https://github.com/almahmoud/gha-build/actions/runs/3752382865/jobs/6374552340)                      | Succeeded | [tictoc_1.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/tictoc_1.1_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
@@ -3656,6 +3652,7 @@
 | [entropy](https://github.com/almahmoud/gha-build/actions/runs/3752382865)                                     | Succeeded | [entropy_1.3.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/entropy_1.3.1_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [genalg](https://github.com/almahmoud/gha-build/actions/runs/3752324441/jobs/6374474281)                      | Succeeded | [genalg_0.2.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/genalg_0.2.1_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [bezier](https://github.com/almahmoud/gha-build/actions/runs/3752281011)                                      | Succeeded | [bezier_1.1.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/bezier_1.1.2_R_x86_64-pc-linux-gnu.tar.gz)                                             |
+| [profileModel](https://github.com/almahmoud/gha-build/actions/runs/3752417452/jobs/6374678687)                | Succeeded | [profileModel_0.6.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/profileModel_0.6.1_R_x86_64-pc-linux-gnu.tar.gz)                                 |
 | [simpleCache](https://github.com/almahmoud/gha-build/actions/runs/3752324441/jobs/6374477838)                 | Succeeded | [simpleCache_0.4.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/simpleCache_0.4.2_R_x86_64-pc-linux-gnu.tar.gz)                                   |
 | [hash](https://github.com/almahmoud/gha-build/actions/runs/3752281011)                                        | Succeeded | [hash_2.2.6.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/hash_2.2.6.2_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [COHCAPanno](https://github.com/almahmoud/gha-build/actions/runs/3752324441/jobs/6374478591)                  | Succeeded | [COHCAPanno_1.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/COHCAPanno_1.34.0_R_x86_64-pc-linux-gnu.tar.gz)                                   |
@@ -3697,6 +3694,7 @@
 | [pvclust](https://github.com/almahmoud/gha-build/actions/runs/3752298549)                                     | Succeeded | [pvclust_2.2-0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/pvclust_2.2-0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [evd](https://github.com/almahmoud/gha-build/actions/runs/3752324441/jobs/6374480709)                         | Succeeded | [evd_2.3-6.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/evd_2.3-6.1_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [norm](https://github.com/almahmoud/gha-build/actions/runs/3752382865/jobs/6374552201)                        | Succeeded | [norm_1.0-10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/norm_1.0-10.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
+| [qvcalc](https://github.com/almahmoud/gha-build/actions/runs/3752417452/jobs/6374678035)                      | Succeeded | [qvcalc_1.0.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/qvcalc_1.0.2_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [relimp](https://github.com/almahmoud/gha-build/actions/runs/3752296040)                                      | Succeeded | [relimp_1.0-5_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/relimp_1.0-5_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [numbers](https://github.com/almahmoud/gha-build/actions/runs/3752382865/jobs/6374557100)                     | Succeeded | [numbers_0.8-5_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/numbers_0.8-5_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [corrgram](https://github.com/almahmoud/gha-build/actions/runs/3752296040)                                    | Succeeded | [corrgram_1.14_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/corrgram_1.14_R_x86_64-pc-linux-gnu.tar.gz)                                           |
@@ -3704,6 +3702,7 @@
 | [cMap2data](https://github.com/almahmoud/gha-build/actions/runs/3752324441)                                   | Succeeded | [cMap2data_1.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/cMap2data_1.34.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | [LSD](https://github.com/almahmoud/gha-build/actions/runs/3752324441)                                         | Succeeded | [LSD_4.1-0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/LSD_4.1-0_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
 | [EGSEAdata](https://github.com/almahmoud/gha-build/actions/runs/3752298549)                                   | Succeeded | [EGSEAdata_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/EGSEAdata_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
+| [TCGAbiolinksGUI.data](https://github.com/almahmoud/gha-build/actions/runs/3752472120/jobs/6374787837)        | Succeeded | [TCGAbiolinksGUI.data_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/TCGAbiolinksGUI.data_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)               |
 | [emdist](https://github.com/almahmoud/gha-build/actions/runs/3752281011)                                      | Succeeded | [emdist_0.3-2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/emdist_0.3-2_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [CDFt](https://github.com/almahmoud/gha-build/actions/runs/3752472120/jobs/6374787604)                        | Succeeded | [CDFt_1.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/CDFt_1.2_R_x86_64-pc-linux-gnu.tar.gz)                                                     |
 | [JASPAR2018](https://github.com/almahmoud/gha-build/actions/runs/3752382865/jobs/6374558185)                  | Succeeded | [JASPAR2018_1.1.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/JASPAR2018_1.1.1_R_x86_64-pc-linux-gnu.tar.gz)                                     |
@@ -3802,6 +3801,7 @@
 | [RITANdata](https://github.com/almahmoud/gha-build/actions/runs/3752298549/jobs/6374374955)                   | Succeeded | [RITANdata_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/RITANdata_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | [pwr](https://github.com/almahmoud/gha-build/actions/runs/3752281011)                                         | Succeeded | [pwr_1.3-0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/pwr_1.3-0_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
 | [dunn.test](https://github.com/almahmoud/gha-build/actions/runs/3752296040)                                   | Succeeded | [dunn.test_1.3.5_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/dunn.test_1.3.5_R_x86_64-pc-linux-gnu.tar.gz)                                       |
+| [SPAtest](https://github.com/almahmoud/gha-build/actions/runs/3752472120/jobs/6374787507)                     | Succeeded | [SPAtest_3.1.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/SPAtest_3.1.2_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [smoothie](https://github.com/almahmoud/gha-build/actions/runs/3752281011)                                    | Succeeded | [smoothie_1.0-3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/smoothie_1.0-3_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | [ADGofTest](https://github.com/almahmoud/gha-build/actions/runs/3752417452/jobs/6374676552)                   | Succeeded | [ADGofTest_0.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/ADGofTest_0.3_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [pspline](https://github.com/almahmoud/gha-build/actions/runs/3752382865/jobs/6374553475)                     | Succeeded | [pspline_1.0-19_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-21-14-37/pspline_1.0-19_R_x86_64-pc-linux-gnu.tar.gz)                                         |
