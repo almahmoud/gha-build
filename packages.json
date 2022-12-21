@@ -1895,7 +1895,6 @@
         "RcppEigen",
         "RcppHNSW",
         "RcppML",
-        "Rdpack",
         "Rmpfr",
         "Rtsne",
         "S4Vectors",
@@ -6490,7 +6489,6 @@
     "BEclear": [
         "BiocParallel",
         "Matrix",
-        "Rdpack",
         "abind",
         "askpass",
         "cpp11",
@@ -6599,7 +6597,6 @@
         "RcppML",
         "RcppTOML",
         "RcppZiggurat",
-        "Rdpack",
         "Rfast",
         "Rhdf5lib",
         "Rmpfr",
@@ -8936,7 +8933,6 @@
         "RSpectra",
         "RcppArmadillo",
         "RcppEigen",
-        "Rdpack",
         "S4Vectors",
         "WGCNA",
         "XVector",
@@ -12919,7 +12915,6 @@
         "RColorBrewer",
         "RCurl",
         "RcppEigen",
-        "Rdpack",
         "Rtsne",
         "S4Vectors",
         "SingleCellExperiment",
@@ -13209,7 +13204,6 @@
         "RColorBrewer",
         "RCurl",
         "RcppEigen",
-        "Rdpack",
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
@@ -24660,7 +24654,6 @@
         "RSQLite",
         "RcppArmadillo",
         "RcppEigen",
-        "Rdpack",
         "Rgraphviz",
         "Rtsne",
         "S4Vectors",
@@ -25046,7 +25039,6 @@
         "RcppArmadillo",
         "RcppEigen",
         "RcppNumerical",
-        "Rdpack",
         "Rgraphviz",
         "S4Vectors",
         "SQUAREM",
@@ -30574,7 +30566,6 @@
         "RColorBrewer",
         "RCurl",
         "RSQLite",
-        "Rdpack",
         "Rgraphviz",
         "Rhdf5lib",
         "S4Vectors",
@@ -33471,7 +33462,6 @@
         "MultiAssayExperiment",
         "RColorBrewer",
         "RCurl",
-        "Rdpack",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -36351,7 +36341,6 @@
     "flowGraph": [
         "Matrix",
         "RColorBrewer",
-        "Rdpack",
         "bslib",
         "cli",
         "cpp11",
@@ -40122,7 +40111,6 @@
         "RCurl",
         "RSQLite",
         "RcppEigen",
-        "Rdpack",
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
@@ -43710,7 +43698,6 @@
         "Matrix",
         "MatrixGenerics",
         "RCurl",
-        "Rdpack",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -44874,8 +44861,7 @@
         "fabia"
     ],
     "Harman": [
-        "Ckmeans.1d.dp",
-        "Rdpack"
+        "Ckmeans.1d.dp"
     ],
     "Harshlight": [
         "Biobase",
@@ -45104,7 +45090,6 @@
         "RCurl",
         "RSQLite",
         "RcppArmadillo",
-        "Rdpack",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -50789,7 +50774,6 @@
         "RColorBrewer",
         "RCurl",
         "RSQLite",
-        "Rdpack",
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
@@ -57331,7 +57315,6 @@
         "Matrix",
         "MatrixModels",
         "RColorBrewer",
-        "Rdpack",
         "SparseM",
         "TFisher",
         "TH.data",
@@ -59742,7 +59725,6 @@
         "RcppHNSW",
         "RcppML",
         "RcppZiggurat",
-        "Rdpack",
         "Rfast",
         "Rhdf5lib",
         "Rmpfr",
@@ -65918,7 +65900,6 @@
         "RColorBrewer",
         "RCurl",
         "RSQLite",
-        "Rdpack",
         "S4Vectors",
         "SparseM",
         "TFisher",
@@ -66127,7 +66108,6 @@
         "RSpectra",
         "RcppArmadillo",
         "RcppEigen",
-        "Rdpack",
         "ReactomePA",
         "S4Vectors",
         "SQUAREM",
@@ -66453,7 +66433,6 @@
         "RcppEigen",
         "RcppHNSW",
         "RcppML",
-        "Rdpack",
         "Rtsne",
         "S4Vectors",
         "ScaledMatrix",
@@ -67176,7 +67155,6 @@
         "RCurl",
         "RSQLite",
         "RcppEigen",
-        "Rdpack",
         "Rgraphviz",
         "Rhdf5lib",
         "Rhtslib",
@@ -73135,7 +73113,6 @@
         "RSQLite",
         "RcppArmadillo",
         "RcppEigen",
-        "Rdpack",
         "S4Vectors",
         "SparseM",
         "TFisher",
@@ -77455,7 +77432,6 @@
         "RColorBrewer",
         "RcppArmadillo",
         "RcppEigen",
-        "Rdpack",
         "Rhdf5lib",
         "S4Vectors",
         "TTR",
@@ -81365,9 +81341,7 @@
         "Biobase",
         "BiocGenerics"
     ],
-    "randRotation": [
-        "Rdpack"
-    ],
+    "randRotation": [],
     "RankProd": [
         "Rmpfr"
     ],
@@ -86025,7 +85999,6 @@
         "xfun"
     ],
     "rmelting": [
-        "Rdpack",
         "rJava"
     ],
     "Rmmquant": [
@@ -87897,7 +87870,6 @@
         "RColorBrewer",
         "RCurl",
         "RcppEigen",
-        "Rdpack",
         "S4Vectors",
         "SparseM",
         "SummarizedExperiment",
@@ -89445,7 +89417,6 @@
         "MatrixGenerics",
         "RCurl",
         "RSQLite",
-        "Rdpack",
         "Rgraphviz",
         "S4Vectors",
         "SBGNview.data",
@@ -92464,7 +92435,6 @@
         "MatrixGenerics",
         "RSpectra",
         "RcppEigen",
-        "Rdpack",
         "S4Vectors",
         "ScaledMatrix",
         "abind",
@@ -96461,7 +96431,6 @@
         "RcppML",
         "RcppParallel",
         "RcppTOML",
-        "Rdpack",
         "ResidualMatrix",
         "Rhdf5lib",
         "Rhtslib",
@@ -100990,7 +100959,6 @@
         "RUVSeq",
         "RcppArmadillo",
         "RcppEigen",
-        "Rdpack",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -109405,7 +109373,6 @@
         "Matrix",
         "RColorBrewer",
         "RcppEigen",
-        "Rdpack",
         "backports",
         "brio",
         "broom",
@@ -111229,7 +111196,6 @@
         "MatrixGenerics",
         "RColorBrewer",
         "RCurl",
-        "Rdpack",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -112113,7 +112079,6 @@
         "RcppEigen",
         "RcppGSL",
         "RcppZiggurat",
-        "Rdpack",
         "Rfast",
         "Rgraphviz",
         "S4Vectors",
@@ -114263,7 +114228,6 @@
         "tibble",
         "vctrs"
     ],
-    "Rdpack": [],
     "energy": [
         "gsl"
     ],
@@ -118249,7 +118213,6 @@
         "Matrix",
         "RCurl",
         "RSQLite",
-        "Rdpack",
         "S4Vectors",
         "XVector",
         "askpass",
@@ -118311,7 +118274,6 @@
         "BiocGenerics",
         "Matrix",
         "RcppArmadillo",
-        "Rdpack",
         "graph",
         "igraph",
         "lattice",
@@ -119591,9 +119553,7 @@
     "magick": [
         "magrittr"
     ],
-    "Ckmeans.1d.dp": [
-        "Rdpack"
-    ],
+    "Ckmeans.1d.dp": [],
     "mvoutlier": [
         "DEoptimR",
         "robustbase",
@@ -122662,7 +122622,6 @@
         "DEoptimR",
         "Matrix",
         "MatrixModels",
-        "Rdpack",
         "SparseM",
         "TFisher",
         "TH.data",
@@ -124781,7 +124740,6 @@
     "Iso": [],
     "fGarch": [
         "Matrix",
-        "Rdpack",
         "cvar",
         "fBasics",
         "gbutils",
@@ -124790,12 +124748,9 @@
         "timeSeries"
     ],
     "cvar": [
-        "Rdpack",
         "gbutils"
     ],
-    "gbutils": [
-        "Rdpack"
-    ],
+    "gbutils": [],
     "KEGGandMetacoreDzPathwaysGEO": [
         "Biobase",
         "BiocGenerics"
@@ -125376,7 +125331,6 @@
         "vctrs"
     ],
     "changepoint.np": [
-        "Rdpack",
         "changepoint",
         "lattice",
         "zoo"
@@ -131004,8 +130958,7 @@
     ],
     "poilog": [],
     "mclustcomp": [
-        "RcppArmadillo",
-        "Rdpack"
+        "RcppArmadillo"
     ],
     "MLmetrics": [
         "ROCR",
