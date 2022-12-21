@@ -8155,7 +8155,6 @@
         "setRNG",
         "shiny",
         "sitmo",
-        "slam",
         "snow",
         "softImpute",
         "sourcetools",
@@ -11516,8 +11515,7 @@
         "Rcpp",
         "Rtsne",
         "igraph",
-        "rlang",
-        "slam"
+        "rlang"
     ],
     "biscuiteer": [
         "AnnotationDbi",
@@ -16870,7 +16868,6 @@
         "openssl",
         "png",
         "rlang",
-        "slam",
         "tm",
         "topGO",
         "topicmodels",
@@ -20108,7 +20105,6 @@
         "rtracklayer",
         "sass",
         "scales",
-        "slam",
         "snow",
         "sparsesvd",
         "stringi",
@@ -20975,7 +20971,6 @@
         "rlang",
         "robustbase",
         "scales",
-        "slam",
         "snow",
         "sparsesvd",
         "tibble",
@@ -23163,7 +23158,6 @@
         "rjson",
         "rlang",
         "skmeans",
-        "slam",
         "stringi",
         "stringr",
         "vctrs",
@@ -25576,7 +25570,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "slam",
         "snow",
         "sourcetools",
         "stringi",
@@ -31284,7 +31277,6 @@
         "sass",
         "scales",
         "selectr",
-        "slam",
         "stopwords",
         "stringdist",
         "stringi",
@@ -44834,7 +44826,6 @@
         "rlang",
         "rpart",
         "scales",
-        "slam",
         "snow",
         "stringi",
         "stringr",
@@ -47805,7 +47796,6 @@
         "rmarkdown",
         "rtracklayer",
         "sass",
-        "slam",
         "snow",
         "stringi",
         "stringr",
@@ -49102,7 +49092,6 @@
         "sass",
         "scales",
         "selectr",
-        "slam",
         "stopwords",
         "stringdist",
         "stringi",
@@ -57018,7 +57007,6 @@
         "shinyAce",
         "shinyBS",
         "shinydashboard",
-        "slam",
         "snow",
         "sourcetools",
         "stringi",
@@ -57338,9 +57326,7 @@
         "yaml",
         "zlibbioc"
     ],
-    "IHW": [
-        "slam"
-    ],
+    "IHW": [],
     "illuminaio": [
         "askpass",
         "base64",
@@ -76269,7 +76255,6 @@
         "reshape2",
         "rlang",
         "scales",
-        "slam",
         "sparsesvd",
         "stringi",
         "stringr",
@@ -80601,7 +80586,6 @@
         "shinyjqui",
         "shinyjs",
         "sitmo",
-        "slam",
         "snow",
         "sortable",
         "sourcetools",
@@ -89373,7 +89357,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "slam",
         "snow",
         "sourcetools",
         "spam",
@@ -90303,7 +90286,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "slam",
         "sm",
         "snow",
         "sourcetools",
@@ -91258,7 +91240,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "slam",
         "snow",
         "sourcetools",
         "stringi",
@@ -98036,7 +98017,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "slam",
         "sm",
         "snow",
         "sourcetools",
@@ -106418,7 +106398,6 @@
         "sass",
         "scales",
         "shiny",
-        "slam",
         "sourcetools",
         "tibble",
         "tm",
@@ -116158,7 +116137,6 @@
         "proxyC",
         "rjson",
         "rlang",
-        "slam",
         "tm",
         "vctrs",
         "xml2",
@@ -122285,7 +122263,6 @@
         "rlang",
         "scales",
         "scatterpie",
-        "slam",
         "snow",
         "stringi",
         "stringr",
@@ -128176,7 +128153,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "slam",
         "snow",
         "sourcetools",
         "stringi",
@@ -130384,7 +130360,6 @@
         "rstudioapi",
         "sass",
         "scales",
-        "slam",
         "stopwords",
         "stringi",
         "stringr",
@@ -131561,7 +131536,6 @@
         "rlang",
         "robustbase",
         "scales",
-        "slam",
         "sparsesvd",
         "stringi",
         "stringr",
@@ -131711,7 +131685,6 @@
         "scuttle",
         "selectr",
         "sitmo",
-        "slam",
         "snow",
         "sparseMatrixStats",
         "stopwords",
@@ -133101,7 +133074,6 @@
         "scales",
         "scico",
         "shiny",
-        "slam",
         "sourcetools",
         "stopwords",
         "stringi",
@@ -134654,7 +134626,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "slam",
         "sm",
         "snow",
         "sourcetools",
@@ -141275,7 +141246,6 @@
         "rlang",
         "scales",
         "setRNG",
-        "slam",
         "sp",
         "stringi",
         "stringr",
@@ -141332,7 +141302,6 @@
         "pkgload",
         "registry",
         "rlang",
-        "slam",
         "withr"
     ],
     "CompQuadForm": [],
@@ -141355,13 +141324,11 @@
         "Matrix"
     ],
     "ROI": [
-        "registry",
-        "slam"
+        "registry"
     ],
     "ROI.plugin.lpsolve": [
         "ROI",
-        "registry",
-        "slam"
+        "registry"
     ],
     "optextras": [
         "numDeriv"
@@ -141378,7 +141345,6 @@
         "DBI"
     ],
     "SnowballC": [],
-    "slam": [],
     "sjmisc": [
         "R6",
         "datawizard",
@@ -144291,18 +144257,14 @@
         "NLP",
         "Rcpp",
         "modeltools",
-        "slam",
         "tm",
         "xml2"
     ],
-    "maptpx": [
-        "slam"
-    ],
+    "maptpx": [],
     "tm": [
         "BH",
         "NLP",
         "Rcpp",
-        "slam",
         "xml2"
     ],
     "NLP": [],
@@ -145972,7 +145934,6 @@
     ],
     "qlcMatrix": [
         "Matrix",
-        "slam",
         "sparsesvd"
     ],
     "sparsesvd": [
@@ -146227,8 +146188,7 @@
     "COHCAPanno": [],
     "skmeans": [
         "clue",
-        "cluster",
-        "slam"
+        "cluster"
     ],
     "eulerr": [
         "Rcpp",
@@ -146871,8 +146831,7 @@
     "profmem": [],
     "relations": [
         "cluster",
-        "sets",
-        "slam"
+        "sets"
     ],
     "sets": [],
     "pals": [
@@ -148141,7 +148100,6 @@
         "qdapRegex",
         "quanteda",
         "rlang",
-        "slam",
         "stopwords",
         "stringi",
         "sylly",
@@ -148211,7 +148169,6 @@
         "pillar",
         "purrr",
         "rlang",
-        "slam",
         "stringi",
         "syuzhet",
         "textshape",
@@ -148251,7 +148208,6 @@
         "purrr",
         "qdapRegex",
         "rlang",
-        "slam",
         "stringi",
         "syuzhet",
         "textshape",
@@ -148265,7 +148221,6 @@
     ],
     "textshape": [
         "data.table",
-        "slam",
         "stringi"
     ],
     "sylly": [],
@@ -148285,7 +148240,6 @@
         "pillar",
         "purrr",
         "rlang",
-        "slam",
         "stringi",
         "textshape",
         "tibble",
