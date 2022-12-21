@@ -10466,7 +10466,6 @@
         "sys"
     ],
     "bioCancer": [
-        "AlgDesign",
         "AnnotationDbi",
         "BH",
         "Biobase",
@@ -76642,7 +76641,6 @@
         "marray"
     ],
     "MAIT": [
-        "AlgDesign",
         "BH",
         "Biobase",
         "BiocGenerics",
@@ -167377,7 +167375,6 @@
         "xtable",
         "yaml"
     ],
-    "AlgDesign": [],
     "import": [],
     "shinythemes": [
         "R6",
@@ -179627,7 +179624,6 @@
         "withr"
     ],
     "agricolae": [
-        "AlgDesign",
         "KernSmooth",
         "MASS",
         "R.cache",
