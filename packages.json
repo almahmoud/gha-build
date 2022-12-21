@@ -73799,7 +73799,6 @@
         "RCurl",
         "RSQLite",
         "Rhdf5lib",
-        "Rook",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -90122,7 +90121,6 @@
         "Matrix",
         "MatrixModels",
         "RColorBrewer",
-        "Rook",
         "SparseM",
         "cpp11",
         "distillery",
@@ -126861,7 +126859,6 @@
     "protolite": [
         "jsonlite"
     ],
-    "Rook": [],
     "opencpu": [
         "askpass",
         "cli",
