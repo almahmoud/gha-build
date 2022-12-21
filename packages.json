@@ -26396,7 +26396,6 @@
         "zoo"
     ],
     "dir.expiry": [],
-    "Director": [],
     "DirichletMultinomial": [
         "BiocGenerics",
         "IRanges",
