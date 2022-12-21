@@ -72585,7 +72585,6 @@
         "cachem",
         "cli",
         "corrplot",
-        "countrycode",
         "cpp11",
         "digest",
         "dplyr",
@@ -149130,7 +149129,6 @@
         "cachem",
         "cli",
         "corrplot",
-        "countrycode",
         "cpp11",
         "digest",
         "dplyr",
@@ -149177,7 +149175,6 @@
         "xfun",
         "yaml"
     ],
-    "countrycode": [],
     "NMI": [],
     "MKmisc": [
         "DEoptimR",
