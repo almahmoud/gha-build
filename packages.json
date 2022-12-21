@@ -31883,9 +31883,7 @@
         "viridisLite",
         "zoo"
     ],
-    "DTA": [
-        "LSD"
-    ],
+    "DTA": [],
     "Dune": [
         "Biobase",
         "BiocParallel",
@@ -32236,7 +32234,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "LSD",
         "MASS",
         "Matrix",
         "MatrixGenerics",
@@ -68579,7 +68576,6 @@
         "Hmisc",
         "IRanges",
         "KEGGREST",
-        "LSD",
         "MASS",
         "Matrix",
         "MatrixGenerics",
@@ -131291,7 +131287,6 @@
         "vctrs",
         "zlibbioc"
     ],
-    "LSD": [],
     "gganimate": [
         "MASS",
         "Matrix",
