@@ -5879,7 +5879,6 @@
         "RColorBrewer",
         "RCurl",
         "RSQLite",
-        "RcppDist",
         "RcppEigen",
         "RcppHNSW",
         "RcppML",
@@ -112929,7 +112928,6 @@
         "sandwich",
         "zoo"
     ],
-    "RcppDist": [],
     "maxLik": [
         "lattice",
         "sandwich",
