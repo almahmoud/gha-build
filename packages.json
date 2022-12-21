@@ -20132,7 +20132,6 @@
         "MatrixGenerics",
         "RColorBrewer",
         "RCurl",
-        "RMTstat",
         "RaggedExperiment",
         "Rhdf5lib",
         "Rhtslib",
@@ -94107,7 +94106,6 @@
         "Matrix",
         "MatrixModels",
         "RColorBrewer",
-        "RMTstat",
         "RcppArmadillo",
         "Rook",
         "SparseM",
@@ -125216,7 +125214,6 @@
         "quantreg",
         "survival"
     ],
-    "RMTstat": [],
     "phylolm": [
         "ape",
         "future",
