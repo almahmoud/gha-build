@@ -32001,7 +32001,6 @@
         "bit64",
         "bitops",
         "blob",
-        "cMap2data",
         "cachem",
         "clipr",
         "codetools",
@@ -132264,7 +132263,6 @@
         "vctrs"
     ],
     "numbers": [],
-    "cMap2data": [],
     "hgu133a2.db": [
         "AnnotationDbi",
         "Biobase",
