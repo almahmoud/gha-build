@@ -22717,7 +22717,6 @@
         "magrittr",
         "pillar",
         "pkgconfig",
-        "rpart.plot",
         "shape",
         "survival",
         "tibble",
@@ -118084,7 +118083,6 @@
         "withr"
     ],
     "Rwave": [],
-    "rpart.plot": [],
     "shinyFeedback": [
         "bslib",
         "cli",
