@@ -23998,7 +23998,6 @@
     ],
     "LedPred": [
         "ROCR",
-        "akima",
         "ggplot2",
         "mgcv",
         "pillar",
@@ -57540,7 +57539,6 @@
         "stringr",
         "vctrs"
     ],
-    "akima": [],
     "scam": [
         "mgcv"
     ],
