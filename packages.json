@@ -24179,7 +24179,6 @@
         "callr",
         "car",
         "cellranger",
-        "corrgram",
         "crosstalk",
         "desc",
         "dplyr",
@@ -101776,7 +101775,6 @@
         "tibble",
         "vctrs"
     ],
-    "corrgram": [],
     "DrugVsDiseasedata": [],
     "hgu133a2.db": [
         "AnnotationDbi",
