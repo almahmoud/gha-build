@@ -77635,7 +77635,6 @@
         "openssl",
         "pillar",
         "pkgconfig",
-        "poilog",
         "progress",
         "purrr",
         "restfulr",
@@ -99653,7 +99652,6 @@
         "vctrs",
         "withr"
     ],
-    "poilog": [],
     "MLmetrics": [
         "ROCR",
         "gplots"
