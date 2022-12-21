@@ -26382,7 +26382,6 @@
         "stringr",
         "survcomp",
         "survival",
-        "survivalROC",
         "sys",
         "tibble",
         "tidyselect",
@@ -50062,7 +50061,6 @@
         "stringr",
         "survcomp",
         "survival",
-        "survivalROC",
         "sys",
         "tibble",
         "tidyselect",
@@ -73624,7 +73622,6 @@
         "stringr",
         "survcomp",
         "survival",
-        "survivalROC",
         "sys",
         "tibble",
         "tidyr",
@@ -95234,7 +95231,6 @@
         "survMisc",
         "survcomp",
         "survival",
-        "survivalROC",
         "survminer",
         "switchBox",
         "sys",
@@ -123096,7 +123092,6 @@
         "survMisc",
         "survcomp",
         "survival",
-        "survivalROC",
         "survminer",
         "sys",
         "testthat",
@@ -131375,8 +131370,7 @@
         "numDeriv",
         "prodlim",
         "progressr",
-        "survival",
-        "survivalROC"
+        "survival"
     ],
     "survtype": [
         "BMA",
@@ -156699,7 +156693,6 @@
         "survival"
     ],
     "iC10TrainingData": [],
-    "survivalROC": [],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "AnnotationDbi",
         "Biobase",
