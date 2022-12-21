@@ -36778,7 +36778,6 @@
         "IRanges",
         "MultiAssayExperiment",
         "MultiDataSet",
-        "PMCMRplus",
         "RSQLite",
         "RcppEigen",
         "S4Vectors",
@@ -46927,7 +46926,6 @@
         "KEGGREST",
         "MatrixModels",
         "NMF",
-        "PMCMRplus",
         "RSQLite",
         "RcppEigen",
         "Rsamtools",
@@ -54984,7 +54982,6 @@
         "KEGGREST",
         "NMF",
         "OrganismDbi",
-        "PMCMRplus",
         "RBGL",
         "RSQLite",
         "RcppEigen",
@@ -61757,7 +61754,6 @@
         "stringr",
         "vctrs"
     ],
-    "PMCMRplus": [],
     "SmoothWin": [],
     "pingr": [],
     "osfr": [
