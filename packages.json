@@ -1519,7 +1519,6 @@
         "knitr",
         "lattice",
         "lifecycle",
-        "limSolve",
         "listenv",
         "magrittr",
         "memoise",
@@ -6738,7 +6737,6 @@
         "hyperdraw",
         "hypergraph",
         "lifecycle",
-        "limSolve",
         "magrittr",
         "rsbml",
         "shape",
@@ -24570,7 +24568,6 @@
         "isoband",
         "lattice",
         "lifecycle",
-        "limSolve",
         "magrittr",
         "mgcv",
         "munsell",
@@ -28801,7 +28798,6 @@
         "lazyeval",
         "libcoin",
         "lifecycle",
-        "limSolve",
         "lme4",
         "locfit",
         "magrittr",
@@ -41843,7 +41839,6 @@
         "knitr",
         "lattice",
         "lifecycle",
-        "limSolve",
         "lubridate",
         "magrittr",
         "memoise",
@@ -64907,7 +64902,6 @@
         "latticeExtra",
         "lazyeval",
         "lifecycle",
-        "limSolve",
         "locfit",
         "magrittr",
         "memoise",
@@ -77770,7 +77764,6 @@
         "isoband",
         "lattice",
         "lifecycle",
-        "limSolve",
         "magrittr",
         "mgcv",
         "munsell",
@@ -108017,7 +108010,6 @@
         "latticeExtra",
         "lazyeval",
         "lifecycle",
-        "limSolve",
         "magrittr",
         "memoise",
         "mgcv",
@@ -110030,10 +110022,8 @@
         "withr"
     ],
     "baseline": [
-        "SparseM",
-        "limSolve"
+        "SparseM"
     ],
-    "limSolve": [],
     "rARPACK": [
         "Matrix",
         "RSpectra",
@@ -113212,7 +113202,6 @@
     "poibin": [],
     "LIM": [
         "diagram",
-        "limSolve",
         "shape"
     ],
     "diagram": [
