@@ -739,7 +739,6 @@
         "ggplot2",
         "ggrastr",
         "ggrepel",
-        "gld",
         "hms",
         "htmlTable",
         "htmlwidgets",
@@ -2571,7 +2570,6 @@
         "ggrastr",
         "ggrepel",
         "ggridges",
-        "gld",
         "glmnet",
         "hms",
         "htmlTable",
@@ -16896,7 +16894,6 @@
     "gpuMagic": [
         "DescTools",
         "cellranger",
-        "gld",
         "hms",
         "httr",
         "pillar",
@@ -18522,7 +18519,6 @@
         "dendextend",
         "dplyr",
         "ggplot2",
-        "gld",
         "hms",
         "httr",
         "pheatmap",
@@ -21347,7 +21343,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "gld",
         "httr",
         "knitr",
         "pillar",
@@ -23335,7 +23330,6 @@
         "ggrepel",
         "ggsignif",
         "ggtree",
-        "gld",
         "glmnet",
         "hardhat",
         "hms",
@@ -35834,7 +35828,6 @@
         "SummarizedExperiment",
         "XVector",
         "cellranger",
-        "gld",
         "hms",
         "httr",
         "pillar",
@@ -44191,7 +44184,6 @@
     "CVXR": [],
     "DescTools": [
         "cellranger",
-        "gld",
         "hms",
         "httr",
         "pillar",
@@ -44210,7 +44202,6 @@
         "tibble",
         "waldo"
     ],
-    "gld": [],
     "tidytree": [
         "dplyr",
         "pillar",
@@ -47910,7 +47901,6 @@
     "clusterSim": [],
     "PairedData": [
         "ggplot2",
-        "gld",
         "pillar",
         "scales",
         "tibble"
