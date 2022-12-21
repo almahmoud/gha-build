@@ -9341,7 +9341,6 @@
         "shinyhelper",
         "shinyjs",
         "sparseMatrixStats",
-        "stringfish",
         "stringr",
         "svglite",
         "textshaping",
@@ -13198,7 +13197,6 @@
         "scales",
         "shiny",
         "shinycssloaders",
-        "stringfish",
         "stringr",
         "tibble",
         "tidyr",
@@ -68581,9 +68579,7 @@
         "tibble",
         "vctrs"
     ],
-    "qs": [
-        "stringfish"
-    ],
+    "qs": [],
     "ggfittext": [
         "ggplot2",
         "lifecycle",
@@ -68593,7 +68589,6 @@
         "tibble",
         "vctrs"
     ],
-    "stringfish": [],
     "fresh": [
         "bslib",
         "httpuv",
