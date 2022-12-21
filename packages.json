@@ -63284,7 +63284,6 @@
         "purrr",
         "rappdirs",
         "readr",
-        "renv",
         "rlang",
         "rmarkdown",
         "sass",
@@ -82151,7 +82150,6 @@
         "registry",
         "rematch",
         "rematch2",
-        "renv",
         "reshape2",
         "restfulr",
         "rjson",
@@ -154126,7 +154124,6 @@
         "memoise",
         "promises",
         "rappdirs",
-        "renv",
         "rlang",
         "rmarkdown",
         "sass",
@@ -154243,7 +154240,6 @@
         "memoise",
         "promises",
         "rappdirs",
-        "renv",
         "rlang",
         "rmarkdown",
         "sass",
@@ -154258,7 +154254,6 @@
         "xtable",
         "yaml"
     ],
-    "renv": [],
     "akima": [
         "sp"
     ],
