@@ -564,7 +564,6 @@
         "scater",
         "scuttle",
         "smurf",
-        "speedglm",
         "survival",
         "textshaping",
         "tibble",
@@ -710,7 +709,6 @@
         "progress",
         "restfulr",
         "rtracklayer",
-        "speedglm",
         "stringr",
         "tibble",
         "tidyselect",
@@ -11089,7 +11087,6 @@
         "shinyFeedback",
         "shinyMatrix",
         "shinyjs",
-        "speedglm",
         "stringr",
         "strucchange",
         "survival",
@@ -11143,7 +11140,6 @@
         "rstatix",
         "sandwich",
         "scales",
-        "speedglm",
         "stringr",
         "strucchange",
         "survival",
@@ -13288,7 +13284,6 @@
         "rematch2",
         "restfulr",
         "rtracklayer",
-        "speedglm",
         "stringr",
         "testthat",
         "tibble",
@@ -15824,7 +15819,6 @@
         "rhdf5",
         "rtracklayer",
         "scales",
-        "speedglm",
         "stringr",
         "survival",
         "tibble",
@@ -15965,7 +15959,6 @@
         "restfulr",
         "rtracklayer",
         "scales",
-        "speedglm",
         "stringr",
         "tibble",
         "tidyselect",
@@ -32612,7 +32605,6 @@
         "restfulr",
         "rtracklayer",
         "scales",
-        "speedglm",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -36166,7 +36158,6 @@
         "ranger",
         "rmarkdown",
         "scales",
-        "speedglm",
         "stringr",
         "survival",
         "tibble",
@@ -52922,7 +52913,6 @@
     "smurf": [
         "glmnet",
         "mgcv",
-        "speedglm",
         "survival"
     ],
     "emdbook": [],
@@ -52954,7 +52944,6 @@
         "tibble",
         "vctrs"
     ],
-    "speedglm": [],
     "irlba": [],
     "ragg": [
         "textshaping"
