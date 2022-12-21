@@ -15107,7 +15107,6 @@
         "waldo"
     ],
     "edgeR": [],
-    "eds": [],
     "eegc": [
         "AnnotationDbi",
         "Biostrings",
