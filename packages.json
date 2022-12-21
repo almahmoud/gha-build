@@ -4321,7 +4321,6 @@
         "sass",
         "scales",
         "segmented",
-        "sfsmisc",
         "shiny",
         "stringr",
         "survival",
@@ -7623,7 +7622,6 @@
         "restfulr",
         "rtracklayer",
         "sandwich",
-        "sfsmisc",
         "survival",
         "vctrs",
         "zoo"
@@ -7994,7 +7992,6 @@
         "robustbase",
         "sass",
         "scales",
-        "sfsmisc",
         "snowfall",
         "stringr",
         "survival",
@@ -19373,7 +19370,6 @@
         "sass",
         "scales",
         "selectr",
-        "sfsmisc",
         "shadowtext",
         "sn",
         "snowfall",
@@ -19757,7 +19753,6 @@
         "rmarkdown",
         "sass",
         "scales",
-        "sfsmisc",
         "sp",
         "stringr",
         "tibble",
@@ -25397,7 +25392,6 @@
         "prabclus",
         "robustbase",
         "scales",
-        "sfsmisc",
         "snowfall",
         "stringr",
         "tibble",
@@ -27628,7 +27622,6 @@
         "rngtools",
         "rtracklayer",
         "scales",
-        "sfsmisc",
         "siggenes",
         "sparseMatrixStats",
         "stringr",
@@ -28185,7 +28178,6 @@
         "changepoint",
         "cytolib",
         "flowCore",
-        "sfsmisc",
         "zoo"
     ],
     "flowClust": [
@@ -38896,7 +38888,6 @@
         "progress",
         "purrr",
         "scales",
-        "sfsmisc",
         "stringr",
         "tibble",
         "tidyselect",
@@ -44745,7 +44736,6 @@
         "scales",
         "sesame",
         "sesameData",
-        "sfsmisc",
         "shiny",
         "stringr",
         "survival",
@@ -47413,7 +47403,6 @@
         "sass",
         "scales",
         "selectr",
-        "sfsmisc",
         "stringr",
         "survival",
         "tibble",
@@ -48270,7 +48259,6 @@
         "rmarkdown",
         "robustbase",
         "sass",
-        "sfsmisc",
         "shiny",
         "stringr",
         "survival",
@@ -52894,7 +52882,6 @@
         "prabclus",
         "robustbase",
         "scales",
-        "sfsmisc",
         "snowfall",
         "stringr",
         "tibble",
@@ -55572,7 +55559,6 @@
         "scales",
         "segmented",
         "seqinr",
-        "sfsmisc",
         "sp",
         "stringr",
         "survival",
@@ -55639,7 +55625,6 @@
         "scales",
         "segmented",
         "seqinr",
-        "sfsmisc",
         "shiny",
         "shinyBS",
         "shinyjs",
@@ -59937,7 +59922,6 @@
         "memoise",
         "multtest",
         "openssl",
-        "sfsmisc",
         "survival",
         "vctrs"
     ],
@@ -60724,7 +60708,6 @@
         "sass",
         "scales",
         "segmented",
-        "sfsmisc",
         "shiny",
         "stringr",
         "survival",
@@ -60848,7 +60831,6 @@
         "sass",
         "scales",
         "segmented",
-        "sfsmisc",
         "shiny",
         "shinyWidgets",
         "shinydashboard",
@@ -71234,7 +71216,6 @@
         "ruv",
         "sass",
         "scales",
-        "sfsmisc",
         "sparseMatrixStats",
         "stringr",
         "survival",
@@ -73865,7 +73846,6 @@
         "rmarkdown",
         "robustbase",
         "sass",
-        "sfsmisc",
         "shiny",
         "stringr",
         "survival",
@@ -75021,7 +75001,6 @@
         "scran",
         "sctransform",
         "scuttle",
-        "sfsmisc",
         "shiny",
         "shinyalert",
         "shinycssloaders",
@@ -90273,7 +90252,6 @@
         "viridis"
     ],
     "gdata": [],
-    "sfsmisc": [],
     "ggvis": [
         "bslib",
         "cachem",
@@ -91670,9 +91648,7 @@
         "sandwich",
         "zoo"
     ],
-    "lokern": [
-        "sfsmisc"
-    ],
+    "lokern": [],
     "pasilla": [
         "AnnotationDbi",
         "Biobase",
@@ -91809,7 +91785,6 @@
         "igraph",
         "lmtest",
         "robustbase",
-        "sfsmisc",
         "vcd",
         "zoo"
     ],
@@ -96424,9 +96399,7 @@
         "ellipsis",
         "htmltools"
     ],
-    "distr": [
-        "sfsmisc"
-    ],
+    "distr": [],
     "pd.mapping50k.xba240": [
         "Biobase",
         "Biostrings",
@@ -98420,8 +98393,7 @@
         "graph"
     ],
     "distrEx": [
-        "distr",
-        "sfsmisc"
+        "distr"
     ],
     "AICcmodavg": [
         "Matrix",
