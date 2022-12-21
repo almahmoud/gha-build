@@ -14247,7 +14247,6 @@
         "DiagrammeR",
         "MatrixExtra",
         "bslib",
-        "data.tree",
         "dplyr",
         "ggplot2",
         "here",
@@ -22452,7 +22451,6 @@
         "DiagrammeR",
         "MatrixExtra",
         "bslib",
-        "data.tree",
         "dplyr",
         "ggplot2",
         "here",
@@ -28388,7 +28386,6 @@
         "bsplus",
         "callr",
         "configr",
-        "data.tree",
         "dbplyr",
         "doParallel",
         "dplyr",
@@ -28649,7 +28646,6 @@
         "aplot",
         "bslib",
         "cowplot",
-        "data.tree",
         "dplyr",
         "ggfun",
         "ggnewscale",
@@ -47463,7 +47459,6 @@
         "S4Vectors",
         "affy",
         "bslib",
-        "data.tree",
         "doParallel",
         "dplyr",
         "ggplot2",
@@ -49658,7 +49653,6 @@
         "caret",
         "clock",
         "cowplot",
-        "data.tree",
         "dbplyr",
         "dplyr",
         "dqrng",
@@ -60354,7 +60348,6 @@
         "XVector",
         "beachmat",
         "bslib",
-        "data.tree",
         "dplyr",
         "dqrng",
         "ggbeeswarm",
@@ -67208,7 +67201,6 @@
         "rcdklibs"
     ],
     "webchem": [
-        "data.tree",
         "dplyr",
         "httr",
         "lifecycle",
@@ -67246,7 +67238,6 @@
         "vctrs",
         "zoo"
     ],
-    "data.tree": [],
     "rsparse": [
         "MatrixExtra"
     ],
