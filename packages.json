@@ -29978,7 +29978,6 @@
     ],
     "plethy": [
         "RSQLite",
-        "Streamer",
         "blob",
         "ggplot2",
         "pillar",
@@ -40044,7 +40043,6 @@
         "tibble",
         "tidyselect"
     ],
-    "Streamer": [],
     "STRINGdb": [
         "RSQLite",
         "blob",
