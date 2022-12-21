@@ -64950,7 +64950,6 @@
         "SummarizedExperiment",
         "XVector",
         "abind",
-        "aggregation",
         "backports",
         "base64enc",
         "bitops",
@@ -94055,7 +94054,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "aggregation",
         "bitops",
         "calibrate",
         "cli",
@@ -178194,7 +178192,6 @@
         "vctrs"
     ],
     "h5vcData": [],
-    "aggregation": [],
     "HiContactsData": [
         "AnnotationDbi",
         "AnnotationHub",
