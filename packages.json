@@ -56069,7 +56069,6 @@
         "bslib",
         "caTools",
         "cachem",
-        "countrycode",
         "digest",
         "dplyr",
         "echarts4r",
@@ -114130,7 +114129,6 @@
         "broom",
         "bslib",
         "cachem",
-        "countrycode",
         "digest",
         "dplyr",
         "ellipsis",
@@ -114164,7 +114162,6 @@
         "viridisLite",
         "yaml"
     ],
-    "countrycode": [],
     "MKmisc": [
         "Matrix",
         "ggplot2",
