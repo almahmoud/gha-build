@@ -45279,7 +45279,6 @@
         "Biobase",
         "Matrix",
         "NMF",
-        "RankAggreg",
         "RcppEigen",
         "bslib",
         "clValid",
@@ -81178,7 +81177,6 @@
         "Biobase",
         "Matrix",
         "NMF",
-        "RankAggreg",
         "bslib",
         "clValid",
         "classInt",
@@ -81219,7 +81217,6 @@
         "yardstick"
     ],
     "clValid": [],
-    "RankAggreg": [],
     "yardstick": [
         "dplyr",
         "hardhat",
