@@ -15825,7 +15825,6 @@
         "rlang",
         "robustbase",
         "scales",
-        "sgeostat",
         "tibble",
         "topGO",
         "utf8",
@@ -25292,7 +25291,6 @@
         "rlang",
         "rmarkdown",
         "sass",
-        "sgeostat",
         "stringr",
         "survival",
         "tinytex",
@@ -44239,7 +44237,6 @@
         "mvoutlier",
         "png",
         "robustbase",
-        "sgeostat",
         "sp",
         "splancs"
     ],
@@ -114885,7 +114882,6 @@
         "sass",
         "scales",
         "scuttle",
-        "sgeostat",
         "sitmo",
         "snow",
         "sp",
@@ -138230,10 +138226,8 @@
     ],
     "tictoc": [],
     "mvoutlier": [
-        "robustbase",
-        "sgeostat"
+        "robustbase"
     ],
-    "sgeostat": [],
     "FME": [
         "MASS",
         "Rcpp",
@@ -151007,7 +151001,6 @@
         "polyclip",
         "rlang",
         "scales",
-        "sgeostat",
         "sp",
         "spatstat.data",
         "spatstat.geom",
