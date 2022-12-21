@@ -20463,7 +20463,6 @@
         "Biobase",
         "Biostrings",
         "BoolNet",
-        "FMStable",
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "IRanges",
@@ -47313,7 +47312,6 @@
         "DelayedArray",
         "DelayedMatrixStats",
         "EDASeq",
-        "FMStable",
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "GenomicAlignments",
@@ -101315,10 +101313,7 @@
         "survival",
         "zoo"
     ],
-    "harmonicmeanp": [
-        "FMStable"
-    ],
-    "FMStable": [],
+    "harmonicmeanp": [],
     "TFisher": [
         "Matrix",
         "MatrixModels",
