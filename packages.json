@@ -27215,7 +27215,6 @@
         "igraph",
         "knitr",
         "learnr",
-        "logr",
         "lubridate",
         "openssl",
         "pillar",
@@ -65340,7 +65339,6 @@
         "sass",
         "shiny"
     ],
-    "logr": [],
     "learnr": [
         "bslib",
         "htmlwidgets",
