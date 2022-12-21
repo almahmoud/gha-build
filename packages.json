@@ -107519,7 +107519,6 @@
         "plyr",
         "progressr",
         "promises",
-        "pspline",
         "purrr",
         "rappdirs",
         "reshape2",
@@ -154334,11 +154333,9 @@
         "gsl",
         "lattice",
         "numDeriv",
-        "pcaPP",
-        "pspline"
+        "pcaPP"
     ],
     "ADGofTest": [],
-    "pspline": [],
     "proxyC": [
         "Matrix",
         "RcppArmadillo",
