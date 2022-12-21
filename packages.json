@@ -21286,7 +21286,6 @@
         "codetools",
         "colorspace",
         "colourpicker",
-        "coop",
         "cpp11",
         "crosstalk",
         "curl",
@@ -49720,7 +49719,6 @@
         "cli",
         "cluster",
         "colorspace",
-        "coop",
         "corrplot",
         "cowplot",
         "cpp11",
@@ -98857,7 +98855,6 @@
         "cluster",
         "codetools",
         "colorspace",
-        "coop",
         "cowplot",
         "cpp11",
         "crosstalk",
@@ -122258,7 +122255,6 @@
         "cli",
         "cluster",
         "codetools",
-        "coop",
         "cpp11",
         "digest",
         "dplyr",
@@ -147457,7 +147453,6 @@
         "cluster",
         "codetools",
         "colorspace",
-        "coop",
         "cowplot",
         "cpp11",
         "crosstalk",
@@ -160196,7 +160191,6 @@
         "jsonlite",
         "yaml"
     ],
-    "coop": [],
     "matrixTests": [
         "matrixStats"
     ],
