@@ -69033,7 +69033,6 @@
         "DBI",
         "DOSE",
         "DelayedArray",
-        "GFA",
         "GO.db",
         "GOSemSim",
         "GSEABase",
@@ -142422,7 +142421,6 @@
         "vctrs",
         "zlibbioc"
     ],
-    "GFA": [],
     "linkcomm": [
         "Matrix",
         "igraph",
