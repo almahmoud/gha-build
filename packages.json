@@ -216,7 +216,6 @@
         "lattice",
         "locfit"
     ],
-    "acde": [],
     "ACE": [
         "Biobase",
         "BiocGenerics",
@@ -19168,7 +19167,6 @@
         "STRINGdb",
         "SummarizedExperiment",
         "XVector",
-        "acde",
         "affy",
         "affyio",
         "bit64",
