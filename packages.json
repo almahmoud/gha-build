@@ -46071,7 +46071,6 @@
     "maSigPro": [
         "Biobase",
         "BiocGenerics",
-        "admisc",
         "venn"
     ],
     "maskBAD": [
@@ -106496,10 +106495,7 @@
         "sp"
     ],
     "LungCancerACvsSCCGEO": [],
-    "venn": [
-        "admisc"
-    ],
-    "admisc": [],
+    "venn": [],
     "PairedData": [
         "Matrix",
         "RColorBrewer",
