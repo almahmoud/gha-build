@@ -104804,7 +104804,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "nnlasso",
         "nnls",
         "pillar",
         "plyr",
@@ -139077,7 +139076,6 @@
         "gmp"
     ],
     "sampSurf": [],
-    "nnlasso": [],
     "spdep": [
         "DBI",
         "KernSmooth",
