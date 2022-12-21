@@ -44917,7 +44917,6 @@
         "GenomeInfoDbData",
         "IRanges",
         "KEGGREST",
-        "LungCancerACvsSCCGEO",
         "Matrix",
         "RColorBrewer",
         "RCurl",
@@ -104403,7 +104402,6 @@
         "pixmap",
         "sp"
     ],
-    "LungCancerACvsSCCGEO": [],
     "venn": [],
     "PairedData": [
         "Matrix",
