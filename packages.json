@@ -33809,7 +33809,6 @@
         "english",
         "evaluate",
         "fansi",
-        "fingerprint",
         "fs",
         "generics",
         "ggplot2",
@@ -53218,7 +53217,6 @@
         "english",
         "evaluate",
         "fansi",
-        "fingerprint",
         "fs",
         "generics",
         "ggplot2",
@@ -103276,7 +103274,6 @@
         "ensembldb",
         "fansi",
         "filelock",
-        "fingerprint",
         "foreach",
         "formatR",
         "futile.logger",
@@ -107718,7 +107715,6 @@
         "codetools",
         "curl",
         "doParallel",
-        "fingerprint",
         "foreach",
         "httr",
         "iterators",
@@ -112927,7 +112923,6 @@
         "enviPat",
         "evaluate",
         "fansi",
-        "fingerprint",
         "foreach",
         "formatR",
         "fs",
@@ -143154,7 +143149,6 @@
         "english",
         "evaluate",
         "fansi",
-        "fingerprint",
         "formatR",
         "fs",
         "futile.logger",
@@ -161530,7 +161524,6 @@
         "lattice"
     ],
     "rcdk": [
-        "fingerprint",
         "iterators",
         "itertools",
         "rJava",
@@ -161571,7 +161564,6 @@
     "rcdklibs": [
         "rJava"
     ],
-    "fingerprint": [],
     "text2vec": [
         "Matrix",
         "MatrixExtra",
