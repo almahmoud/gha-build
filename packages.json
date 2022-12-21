@@ -90268,7 +90268,6 @@
         "AnnotationDbi",
         "Biobase",
         "Biostrings",
-        "FIs",
         "GSEABase",
         "GeneNet",
         "GenomeInfoDb",
@@ -117229,7 +117228,6 @@
         "sp",
         "survival"
     ],
-    "FIs": [],
     "dml": [
         "Matrix",
         "RSpectra",
