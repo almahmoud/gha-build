@@ -73621,9 +73621,7 @@
         "viridis",
         "withr"
     ],
-    "SNAGEE": [
-        "SNAGEEdata"
-    ],
+    "SNAGEE": [],
     "snapCGH": [
         "AnnotationDbi",
         "Biobase",
@@ -97645,7 +97643,6 @@
         "vctrs"
     ],
     "RcppAlgos": [],
-    "SNAGEEdata": [],
     "sampSurf": [],
     "spdep": [
         "class",
