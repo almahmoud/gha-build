@@ -69906,7 +69906,6 @@
         "PSCBS",
         "R.cache",
         "R.filesets",
-        "R.huge",
         "R.rsp",
         "RColorBrewer",
         "RCurl",
@@ -99301,7 +99300,6 @@
         "PSCBS",
         "R.cache",
         "R.filesets",
-        "R.huge",
         "R.rsp",
         "RColorBrewer",
         "RCurl",
@@ -120555,7 +120553,6 @@
         "PSCBS",
         "R.cache",
         "R.filesets",
-        "R.huge",
         "R.rsp",
         "RColorBrewer",
         "aroma.apd",
@@ -120575,9 +120572,7 @@
     "R.filesets": [
         "R.cache"
     ],
-    "aroma.apd": [
-        "R.huge"
-    ],
+    "aroma.apd": [],
     "R.rsp": [
         "R.cache"
     ],
@@ -120586,7 +120581,6 @@
         "future",
         "listenv"
     ],
-    "R.huge": [],
     "conicfit": [],
     "genlasso": [
         "Matrix",
