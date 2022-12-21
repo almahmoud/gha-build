@@ -7319,7 +7319,6 @@
         "baySeq",
         "edgeR"
     ],
-    "clusterStab": [],
     "clustifyr": [
         "DelayedArray",
         "GenomeInfoDb",
