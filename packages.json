@@ -663,7 +663,6 @@
         "GenomeInfoDbData",
         "IRanges",
         "KEGGREST",
-        "R2HTML",
         "RCurl",
         "RSQLite",
         "S4Vectors",
@@ -2531,7 +2530,6 @@
         "IRanges",
         "KEGGREST",
         "Matrix",
-        "R2HTML",
         "RCurl",
         "RSQLite",
         "RcppEigen",
@@ -21770,7 +21768,6 @@
         "IRanges",
         "KEGGREST",
         "Matrix",
-        "R2HTML",
         "RCurl",
         "RSQLite",
         "RcppEigen",
@@ -23172,7 +23169,6 @@
         "Matrix",
         "MatrixModels",
         "PADOG",
-        "R2HTML",
         "RCurl",
         "RSQLite",
         "Rgraphviz",
@@ -38981,9 +38977,7 @@
         "withr"
     ],
     "lfa": [],
-    "limmaGUI": [
-        "R2HTML"
-    ],
+    "limmaGUI": [],
     "LineagePulse": [
         "Biobase",
         "BiocParallel",
@@ -40795,7 +40789,6 @@
         "IRanges",
         "KEGGREST",
         "Matrix",
-        "R2HTML",
         "RCurl",
         "RSQLite",
         "S4Vectors",
@@ -41363,7 +41356,6 @@
         "IRanges",
         "KEGGREST",
         "Matrix",
-        "R2HTML",
         "RCurl",
         "RSQLite",
         "RcppEigen",
@@ -51975,7 +51967,6 @@
         "IRanges",
         "KEGGREST",
         "Matrix",
-        "R2HTML",
         "RCurl",
         "RSQLite",
         "RcppEigen",
@@ -61269,7 +61260,6 @@
         "IRanges",
         "KEGGREST",
         "Matrix",
-        "R2HTML",
         "RCurl",
         "RSQLite",
         "RcppEigen",
@@ -85855,7 +85845,6 @@
         "vctrs"
     ],
     "deldir": [],
-    "R2HTML": [],
     "e1071": [
         "class"
     ],
@@ -92675,9 +92664,7 @@
     ],
     "libcoin": [],
     "wordcloud": [],
-    "HTMLUtils": [
-        "R2HTML"
-    ],
+    "HTMLUtils": [],
     "ELMER.data": [
         "GenomeInfoDb",
         "GenomeInfoDbData",
@@ -94514,7 +94501,6 @@
         "withr"
     ],
     "clusterSim": [
-        "R2HTML",
         "ade4",
         "class",
         "e1071",
