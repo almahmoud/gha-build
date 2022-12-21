@@ -61385,7 +61385,6 @@
         "rlang",
         "rtracklayer",
         "scales",
-        "sonicLength",
         "tibble",
         "tidyselect",
         "utf8",
@@ -166716,7 +166715,6 @@
         "rlang",
         "xfun"
     ],
-    "sonicLength": [],
     "protr": [],
     "MCL": [
         "Matrix",
