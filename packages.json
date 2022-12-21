@@ -111929,7 +111929,6 @@
         "iterators",
         "lattice",
         "pixmap",
-        "seqCNA.annot",
         "sp"
     ],
     "seqcombo": [
@@ -154531,7 +154530,6 @@
         "pixmap",
         "sp"
     ],
-    "seqCNA.annot": [],
     "adehabitatMA": [
         "lattice",
         "sp"
