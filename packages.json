@@ -50369,7 +50369,6 @@
         "R6",
         "RCurl",
         "RSQLite",
-        "RTriangle",
         "Rcpp",
         "RcppArmadillo",
         "RcppEigen",
@@ -131592,7 +131591,6 @@
         "Rcpp",
         "RcppArmadillo"
     ],
-    "RTriangle": [],
     "concaveman": [
         "DBI",
         "KernSmooth",
