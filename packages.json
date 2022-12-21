@@ -48403,7 +48403,6 @@
         "Matrix",
         "RcppEigen",
         "StanHeaders",
-        "arrayhelpers",
         "benchmarkme",
         "benchmarkmeData",
         "callr",
@@ -79795,7 +79794,6 @@
     "evmix": [],
     "tidybayes": [
         "Matrix",
-        "arrayhelpers",
         "checkmate",
         "distributional",
         "dplyr",
@@ -79827,7 +79825,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "arrayhelpers": [],
     "posterior": [
         "Matrix",
         "checkmate",
