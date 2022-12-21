@@ -89784,7 +89784,6 @@
     "rnaseqcomp": [
         "RColorBrewer"
     ],
-    "RNASeqPower": [],
     "RNASeqR": [
         "AnnotationDbi",
         "Biobase",
