@@ -155,7 +155,7 @@ jobs:
         id: pkgbuild
         run: |
           PKG="${{ matrix.pkg }}"
-          mkdir -p logs/times/rstudio-binary/
+          mkdir -p /tmp/logs/times/rstudio-binary/
           (time bash .github/scripts/build_package.sh ${{ steps.versions.outputs.library }} $PKG ) 2>&1 | tee /tmp/logs/times/rstudio-binary/$PKG
         continue-on-error: true
 
