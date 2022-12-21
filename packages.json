@@ -67750,7 +67750,6 @@
         "magrittr",
         "mgcv",
         "minqa",
-        "mppa",
         "munsell",
         "nlme",
         "nloptr",
@@ -127543,7 +127542,6 @@
         "RCurl",
         "plyr"
     ],
-    "mppa": [],
     "huge": [
         "Matrix",
         "RcppEigen",
