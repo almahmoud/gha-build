@@ -56317,7 +56317,6 @@
         "xtable",
         "yaml"
     ],
-    "gpls": [],
     "gpuMagic": [
         "BiocGenerics",
         "DescTools",
