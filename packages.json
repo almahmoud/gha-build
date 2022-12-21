@@ -66624,7 +66624,6 @@
         "pkgconfig",
         "plogr",
         "purrr",
-        "rdist",
         "rhdf5",
         "rhdf5filters",
         "scuttle",
@@ -122647,10 +122646,7 @@
         "Matrix",
         "lattice"
     ],
-    "BRISC": [
-        "rdist"
-    ],
-    "rdist": [],
+    "BRISC": [],
     "RcmdrMisc": [
         "Hmisc",
         "Matrix",
