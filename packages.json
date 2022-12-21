@@ -23495,7 +23495,6 @@
         "GenomeInfoDbData",
         "GenomicRanges",
         "HDO.db",
-        "Harman",
         "IRanges",
         "KEGGREST",
         "KEGGgraph",
@@ -42157,7 +42156,6 @@
         "BiocGenerics",
         "fabia"
     ],
-    "Harman": [],
     "Harshlight": [
         "Biobase",
         "BiocGenerics",
