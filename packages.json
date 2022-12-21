@@ -1801,7 +1801,6 @@
         "vctrs",
         "vroom"
     ],
-    "arrayQuality": [],
     "arrayQualityMetrics": [
         "AnnotationDbi",
         "Biostrings",
