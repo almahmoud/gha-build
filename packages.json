@@ -5308,7 +5308,6 @@
         "lattice",
         "lava",
         "lazyeval",
-        "lbfgs",
         "lifecycle",
         "listenv",
         "lubridate",
@@ -113975,7 +113974,6 @@
         "vsn",
         "withr"
     ],
-    "lbfgs": [],
     "dendextend": [
         "Matrix",
         "RColorBrewer",
