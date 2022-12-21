@@ -11377,7 +11377,6 @@
         "mvtnorm",
         "nlme",
         "nnet",
-        "nsprcomp",
         "openssl",
         "pillar",
         "pkgconfig",
@@ -153900,7 +153899,6 @@
         "viridisLite",
         "withr"
     ],
-    "nsprcomp": [],
     "ranger": [
         "Matrix",
         "Rcpp",
