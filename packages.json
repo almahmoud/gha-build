@@ -72215,7 +72215,6 @@
         "highr",
         "knitr",
         "lifecycle",
-        "logitnorm",
         "loo",
         "mgcv",
         "munsell",
@@ -100999,7 +100998,6 @@
         "ps",
         "withr"
     ],
-    "logitnorm": [],
     "elasticnet": [],
     "sparsepca": [
         "Matrix",
