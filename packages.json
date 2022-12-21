@@ -10985,7 +10985,6 @@
         "pillar",
         "plotly",
         "promises",
-        "propr",
         "purrr",
         "reshape2",
         "rhdf5",
@@ -67824,7 +67823,6 @@
         "mixOmics",
         "nlme",
         "pillar",
-        "propr",
         "purrr",
         "rARPACK",
         "reshape2",
@@ -77376,7 +77374,6 @@
     "sparsesvd": [
         "Matrix"
     ],
-    "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
         "Biobase",
