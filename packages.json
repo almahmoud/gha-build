@@ -2710,7 +2710,6 @@
         "withr",
         "xfun",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "AneuFinder": [
@@ -9069,7 +9068,6 @@
         "xfun",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zCompositions",
         "zinbwave",
         "zlibbioc",
@@ -10067,7 +10065,6 @@
         "xfun",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "BiocBaseUtils": [],
@@ -16391,7 +16388,6 @@
         "withr",
         "xml2",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "Cardinal": [
@@ -17170,7 +17166,6 @@
         "withr",
         "xfun",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "cBioPortalData": [
@@ -18982,7 +18977,6 @@
         "xfun",
         "xts",
         "yaml",
-        "yulab.utils",
         "zlibbioc",
         "zoo"
     ],
@@ -19481,7 +19475,6 @@
         "xfun",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "CexoR": [
@@ -21230,7 +21223,6 @@
         "withr",
         "xml2",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "chipseq": [
@@ -23707,7 +23699,6 @@
         "viridis",
         "viridisLite",
         "withr",
-        "yulab.utils",
         "zlibbioc"
     ],
     "clusterSeq": [
@@ -25538,7 +25529,6 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "yulab.utils",
         "zlibbioc"
     ],
     "Cogito": [
@@ -27059,7 +27049,6 @@
         "xfun",
         "xml2",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "condiments": [
@@ -33936,7 +33925,6 @@
         "xfun",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "DECIPHER": [
@@ -40422,7 +40410,6 @@
         "viridis",
         "viridisLite",
         "withr",
-        "yulab.utils",
         "zlibbioc"
     ],
     "easyreporting": [
@@ -41127,7 +41114,6 @@
         "withr",
         "wordcloud",
         "xtable",
-        "yulab.utils",
         "zlibbioc"
     ],
     "EGAD": [
@@ -42208,7 +42194,6 @@
         "viridis",
         "viridisLite",
         "withr",
-        "yulab.utils",
         "zlibbioc"
     ],
     "enrichTF": [
@@ -42411,7 +42396,6 @@
         "xfun",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "ensembldb": [
@@ -42862,7 +42846,6 @@
         "xml2",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "epidecodeR": [
@@ -43369,7 +43352,6 @@
         "withr",
         "xfun",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "EpiMix": [
@@ -44892,7 +44874,6 @@
         "xml2",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "escape": [
@@ -45511,7 +45492,6 @@
         "xfun",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "ExCluster": [
@@ -45985,7 +45965,6 @@
         "utf8",
         "vctrs",
         "withr",
-        "yulab.utils",
         "zlibbioc"
     ],
     "ExploreModelMatrix": [
@@ -46629,7 +46608,6 @@
         "xfun",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "farms": [
@@ -47198,7 +47176,6 @@
         "viridis",
         "viridisLite",
         "withr",
-        "yulab.utils",
         "zlibbioc"
     ],
     "fcScan": [
@@ -50656,7 +50633,6 @@
         "withr",
         "xfun",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "GA4GHclient": [
@@ -51721,7 +51697,6 @@
         "xml2",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zlibbioc",
         "zoo"
     ],
@@ -55932,7 +55907,6 @@
         "withr",
         "xfun",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "GGPA": [
@@ -56125,8 +56099,7 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "ggtreeDendro": [
         "MASS",
@@ -56173,8 +56146,7 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "ggtreeExtra": [
         "MASS",
@@ -56222,8 +56194,7 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "GIGSEA": [
         "MASS",
@@ -57837,7 +57808,6 @@
         "viridis",
         "viridisLite",
         "withr",
-        "yulab.utils",
         "zlibbioc"
     ],
     "goSTAG": [
@@ -58437,7 +58407,6 @@
         "xfun",
         "xml2",
         "yaml",
-        "yulab.utils",
         "zip",
         "zoo"
     ],
@@ -66847,7 +66816,6 @@
         "xfun",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zlibbioc",
         "zoo"
     ],
@@ -69856,7 +69824,6 @@
         "withr",
         "xfun",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "lionessR": [
@@ -70960,7 +70927,6 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "yulab.utils",
         "zlibbioc"
     ],
     "M3C": [
@@ -72270,7 +72236,6 @@
         "xfun",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "magrene": [
@@ -75386,7 +75351,6 @@
         "xfun",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "meshr": [
@@ -76801,7 +76765,6 @@
         "viridisLite",
         "withr",
         "xtable",
-        "yulab.utils",
         "zlibbioc"
     ],
     "metapod": [
@@ -78631,7 +78594,6 @@
         "xml2",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "methylInheritance": [
@@ -79835,7 +79797,6 @@
         "viridis",
         "viridisLite",
         "withr",
-        "yulab.utils",
         "zlibbioc"
     ],
     "miaSim": [
@@ -79895,7 +79856,6 @@
         "utf8",
         "vctrs",
         "withr",
-        "yulab.utils",
         "zlibbioc"
     ],
     "miaViz": [
@@ -80029,7 +79989,6 @@
         "viridis",
         "viridisLite",
         "withr",
-        "yulab.utils",
         "zlibbioc"
     ],
     "MiChip": [
@@ -80666,7 +80625,6 @@
         "xfun",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zCompositions",
         "zlibbioc",
         "zoo"
@@ -80828,7 +80786,6 @@
         "xml2",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zip",
         "zlibbioc"
     ],
@@ -80916,7 +80873,6 @@
         "vegan",
         "viridisLite",
         "withr",
-        "yulab.utils",
         "zlibbioc",
         "zoo"
     ],
@@ -82681,7 +82637,6 @@
         "xml2",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "miRspongeR": [
@@ -82940,7 +82895,6 @@
         "xfun",
         "xml2",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "mirTarRnaSeq": [
@@ -85131,7 +85085,6 @@
         "xfun",
         "xml2",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "mosaics": [
@@ -89222,7 +89175,6 @@
         "xopen",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zip",
         "zlibbioc",
         "zoo"
@@ -92114,7 +92066,6 @@
         "withr",
         "xfun",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "netDx": [
@@ -97542,8 +97493,7 @@
         "waldo",
         "withr",
         "xfun",
-        "yaml",
-        "yulab.utils"
+        "yaml"
     ],
     "OSAT": [],
     "Oscope": [
@@ -98502,7 +98452,6 @@
         "viridisLite",
         "withr",
         "xtable",
-        "yulab.utils",
         "zlibbioc",
         "zoo"
     ],
@@ -99678,7 +99627,6 @@
         "xml2",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zlibbioc",
         "zoo"
     ],
@@ -100423,7 +100371,6 @@
         "viridis",
         "viridisLite",
         "withr",
-        "yulab.utils",
         "zlibbioc"
     ],
     "pgca": [],
@@ -101178,8 +101125,7 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "PhIPData": [
         "Biobase",
@@ -101978,7 +101924,6 @@
         "withr",
         "xfun",
         "yaml",
-        "yulab.utils",
         "zip",
         "zlibbioc"
     ],
@@ -102608,7 +102553,6 @@
         "viridisLite",
         "withr",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "plotGrouper": [
@@ -105027,7 +104971,6 @@
         "xml2",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "profileScoreDist": [
@@ -111087,7 +111030,6 @@
         "viridis",
         "viridisLite",
         "withr",
-        "yulab.utils",
         "zlibbioc"
     ],
     "ReadqPCR": [
@@ -115702,7 +115644,6 @@
         "xml2",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "Rmagpie": [
@@ -117326,7 +117267,6 @@
         "xtable",
         "xts",
         "yaml",
-        "yulab.utils",
         "zlibbioc",
         "zoo"
     ],
@@ -121809,7 +121749,6 @@
         "xfun",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zoo"
     ],
     "scCB2": [
@@ -125320,7 +125259,6 @@
         "xfun",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zlibbioc",
         "zoo"
     ],
@@ -126046,7 +125984,6 @@
         "withr",
         "xml2",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "segmentSeq": [
@@ -126636,8 +126573,7 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "SeqGate": [
         "Biobase",
@@ -126846,7 +126782,6 @@
         "viridisLite",
         "withr",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "SeqSQC": [
@@ -128385,7 +128320,6 @@
         "xfun",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "signeR": [
@@ -130023,7 +129957,6 @@
         "xml2",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zinbwave",
         "zlibbioc",
         "zoo"
@@ -130511,8 +130444,7 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "skewr": [
         "AnnotationDbi",
@@ -132849,7 +132781,6 @@
         "xml2",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "spatzie": [
@@ -138862,7 +138793,6 @@
         "xfun",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "TADCompare": [
@@ -139050,8 +138980,7 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "TAPseq": [
         "AnnotationDbi",
@@ -140026,7 +139955,6 @@
         "xml2",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "TCGAutils": [
@@ -141745,7 +141673,6 @@
         "withr",
         "xml2",
         "xtable",
-        "yulab.utils",
         "zlibbioc"
     ],
     "TIN": [
@@ -144072,8 +143999,7 @@
         "tidytree",
         "utf8",
         "vctrs",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "treekoR": [
         "ALL",
@@ -144234,7 +144160,6 @@
         "withr",
         "xfun",
         "yaml",
-        "yulab.utils",
         "zlibbioc",
         "zoo"
     ],
@@ -144290,7 +144215,6 @@
         "utf8",
         "vctrs",
         "withr",
-        "yulab.utils",
         "zlibbioc"
     ],
     "TREG": [
@@ -146079,7 +146003,6 @@
         "xml2",
         "xtable",
         "yaml",
-        "yulab.utils",
         "zlibbioc"
     ],
     "UMI4Cats": [
@@ -153813,10 +153736,8 @@
         "tidyselect",
         "utf8",
         "vctrs",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
-    "yulab.utils": [],
     "ecp": [
         "Rcpp"
     ],
@@ -158610,8 +158531,7 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "ggnewscale": [
         "MASS",
@@ -158801,8 +158721,7 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yulab.utils"
+        "withr"
     ],
     "gridGraphics": [],
     "gh": [
