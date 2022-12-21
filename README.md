@@ -1100,7 +1100,7 @@
 | mia                                                                                                     | Unclaimed |           |
 | miaSim                                                                                                  | Unclaimed |           |
 | miaViz                                                                                                  | Unclaimed |           |
-| [MiChip](https://github.com/almahmoud/gha-build/actions/runs/3751142430)                                | Unclaimed |           |
+| MiChip                                                                                                  | Unclaimed |           |
 | microbiome                                                                                              | Unclaimed |           |
 | microbiomeDASim                                                                                         | Unclaimed |           |
 | microbiomeExplorer                                                                                      | Unclaimed |           |
@@ -1223,7 +1223,7 @@
 | [mzR](https://github.com/almahmoud/gha-build/actions/runs/3751142430)                                   | Unclaimed |           |
 | NADfinder                                                                                               | Unclaimed |           |
 | NanoMethViz                                                                                             | Unclaimed |           |
-| [NanoStringDiff](https://github.com/almahmoud/gha-build/actions/runs/3751142430)                        | Unclaimed |           |
+| NanoStringDiff                                                                                          | Unclaimed |           |
 | NanoStringNCTools                                                                                       | Unclaimed |           |
 | NanoStringQCPro                                                                                         | Unclaimed |           |
 | nanotatoR                                                                                               | Unclaimed |           |
@@ -1323,7 +1323,7 @@
 | PADOG                                                                                                   | Unclaimed |           |
 | pageRank                                                                                                | Unclaimed |           |
 | PAIRADISE                                                                                               | Unclaimed |           |
-| [paircompviz](https://github.com/almahmoud/gha-build/actions/runs/3751142430)                           | Unclaimed |           |
+| paircompviz                                                                                             | Unclaimed |           |
 | pairkat                                                                                                 | Unclaimed |           |
 | pandaR                                                                                                  | Unclaimed |           |
 | panelcn.mops                                                                                            | Unclaimed |           |
@@ -1379,7 +1379,7 @@
 | PING                                                                                                    | Unclaimed |           |
 | pipeComp                                                                                                | Unclaimed |           |
 | pipeFrame                                                                                               | Unclaimed |           |
-| [pkgDepTools](https://github.com/almahmoud/gha-build/actions/runs/3751142430)                           | Unclaimed |           |
+| pkgDepTools                                                                                             | Unclaimed |           |
 | planet                                                                                                  | Unclaimed |           |
 | plethy                                                                                                  | Unclaimed |           |
 | plgem                                                                                                   | Unclaimed |           |
@@ -1462,7 +1462,7 @@
 | QuasR                                                                                                   | Unclaimed |           |
 | QuaternaryProd                                                                                          | Unclaimed |           |
 | QUBIC                                                                                                   | Unclaimed |           |
-| [qusage](https://github.com/almahmoud/gha-build/actions/runs/3751142430)                                | Unclaimed |           |
+| qusage                                                                                                  | Unclaimed |           |
 | qvalue                                                                                                  | Unclaimed |           |
 | R3CPET                                                                                                  | Unclaimed |           |
 | r3Cseq                                                                                                  | Unclaimed |           |
@@ -1474,7 +1474,7 @@
 | ramr                                                                                                    | Unclaimed |           |
 | ramwas                                                                                                  | Unclaimed |           |
 | RandomWalkRestartMH                                                                                     | Unclaimed |           |
-| [randPack](https://github.com/almahmoud/gha-build/actions/runs/3751142430)                              | Unclaimed |           |
+| randPack                                                                                                | Unclaimed |           |
 | [randRotation](https://github.com/almahmoud/gha-build/actions/runs/3747808196/jobs/6364586078)          | Unclaimed |           |
 | [RankProd](https://github.com/almahmoud/gha-build/actions/runs/3751085901)                              | Unclaimed |           |
 | RAREsim                                                                                                 | Unclaimed |           |
