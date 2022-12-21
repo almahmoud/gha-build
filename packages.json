@@ -77091,7 +77091,6 @@
         "nloptr",
         "numDeriv",
         "pROC",
-        "palmerpenguins",
         "paradox",
         "phyloseq",
         "pillar",
@@ -104577,7 +104576,6 @@
         "lgr",
         "mlr3measures",
         "mlr3misc",
-        "palmerpenguins",
         "paradox"
     ],
     "mlr3learners": [
@@ -104590,7 +104588,6 @@
         "mlr3",
         "mlr3measures",
         "mlr3misc",
-        "palmerpenguins",
         "paradox"
     ],
     "mlr3tuning": [
@@ -104604,7 +104601,6 @@
         "mlr3",
         "mlr3measures",
         "mlr3misc",
-        "palmerpenguins",
         "paradox"
     ],
     "paradox": [
@@ -104619,7 +104615,6 @@
         "checkmate",
         "digest"
     ],
-    "palmerpenguins": [],
     "bbotk": [
         "checkmate",
         "digest",
