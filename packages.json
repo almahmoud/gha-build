@@ -15062,7 +15062,6 @@
         "googlesheets4",
         "graphite",
         "graphlayouts",
-        "harmonicmeanp",
         "haven",
         "highr",
         "hms",
@@ -34736,7 +34735,6 @@
         "genefilter",
         "geneplotter",
         "ggplot2",
-        "harmonicmeanp",
         "heatmaply",
         "highr",
         "hms",
@@ -74002,7 +74000,6 @@
         "survival",
         "zoo"
     ],
-    "harmonicmeanp": [],
     "TFisher": [
         "Matrix",
         "MatrixModels",
