@@ -19476,7 +19476,6 @@
         "SummarizedExperiment",
         "XVector",
         "ade4",
-        "alabama",
         "ape",
         "biomformat",
         "cli",
@@ -82952,7 +82951,6 @@
         "TTR",
         "XVector",
         "ade4",
-        "alabama",
         "ape",
         "biomformat",
         "cli",
@@ -122756,7 +122754,6 @@
     ],
     "GenSA": [],
     "polylabelr": [],
-    "alabama": [],
     "cobs": [
         "Matrix",
         "MatrixModels",
