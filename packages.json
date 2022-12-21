@@ -40677,7 +40677,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "htm2txt",
         "matrixStats",
         "zlibbioc"
     ],
@@ -122346,7 +122345,6 @@
     "repo": [
         "digest"
     ],
-    "htm2txt": [],
     "ggalt": [
         "KernSmooth",
         "MASS",
