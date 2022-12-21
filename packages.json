@@ -25898,7 +25898,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "mgsa": [],
     "mia": [
         "BiocNeighbors",
         "BiocSingular",
