@@ -51385,7 +51385,6 @@
         "pillar",
         "reshape2",
         "scales",
-        "seqTools",
         "stringr",
         "tibble",
         "tidyselect",
@@ -60739,7 +60738,6 @@
         "tinytex",
         "vctrs"
     ],
-    "seqTools": [],
     "SeqVarTools": [
         "Biobase",
         "Biostrings",
