@@ -38030,8 +38030,7 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "vroom",
-        "webutils"
+        "vroom"
     ],
     "PharmacoGx": [
         "BiocParallel",
@@ -63939,10 +63938,8 @@
         "openssl",
         "promises",
         "stringr",
-        "vctrs",
-        "webutils"
+        "vctrs"
     ],
-    "webutils": [],
     "PMCMRplus": [],
     "SmoothWin": [],
     "pingr": [],
