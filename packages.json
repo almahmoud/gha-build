@@ -3089,7 +3089,6 @@
         "httr",
         "openssl",
         "pillar",
-        "rjags",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -8861,7 +8860,6 @@
         "pillar",
         "progress",
         "restfulr",
-        "rjags",
         "rtracklayer",
         "scales",
         "stringr",
@@ -21797,7 +21795,6 @@
         "pillar",
         "progress",
         "restfulr",
-        "rjags",
         "rtracklayer",
         "scales",
         "stringr",
@@ -22860,7 +22857,6 @@
         "plotly",
         "reshape2",
         "reticulate",
-        "rjags",
         "rmarkdown",
         "sandwich",
         "scales",
@@ -25300,7 +25296,6 @@
         "pillar",
         "progress",
         "restfulr",
-        "rjags",
         "rtracklayer",
         "stringr",
         "tibble",
@@ -44479,7 +44474,6 @@
         "pillar",
         "progress",
         "restfulr",
-        "rjags",
         "rtracklayer",
         "scales",
         "stringr",
@@ -55129,7 +55123,6 @@
     "maxLik": [
         "sandwich"
     ],
-    "rjags": [],
     "corncob": [
         "Biostrings",
         "GenomeInfoDb",
@@ -58258,8 +58251,7 @@
         "vctrs"
     ],
     "R2jags": [
-        "R2WinBUGS",
-        "rjags"
+        "R2WinBUGS"
     ],
     "R2WinBUGS": [],
     "servr": [
