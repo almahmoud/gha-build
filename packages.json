@@ -3174,7 +3174,6 @@
         "tibble",
         "tidyselect",
         "tinytex",
-        "urltools",
         "vctrs",
         "withr",
         "xfun"
@@ -7673,7 +7672,6 @@
         "tidyselect",
         "tinytex",
         "tzdb",
-        "urltools",
         "vctrs",
         "vroom",
         "withr",
@@ -72691,7 +72689,6 @@
         "timeDate",
         "timechange",
         "tzdb",
-        "urltools",
         "vctrs",
         "vroom",
         "withr"
@@ -90761,7 +90758,6 @@
         "tidyr",
         "tidyselect",
         "tinytex",
-        "urltools",
         "vctrs",
         "withr",
         "xfun"
@@ -110873,7 +110869,6 @@
         "stringi",
         "stringr",
         "sys",
-        "urltools",
         "vctrs"
     ],
     "MafDb.1Kgenomes.phase3.hs37d5": [
@@ -111311,10 +111306,8 @@
     "crul": [
         "httpcode",
         "jsonlite",
-        "mime",
-        "urltools"
+        "mime"
     ],
-    "urltools": [],
     "httpcode": [],
     "sampling": [],
     "rJava": [],
@@ -113494,7 +113487,6 @@
         "pkgconfig",
         "sys",
         "tibble",
-        "urltools",
         "vctrs"
     ],
     "gitcreds": [],
@@ -123416,7 +123408,6 @@
         "stringi",
         "sys",
         "tibble",
-        "urltools",
         "vctrs"
     ],
     "C50": [
@@ -124937,7 +124928,6 @@
         "tibble",
         "tidyselect",
         "tinytex",
-        "urltools",
         "vctrs",
         "withr",
         "xfun"
@@ -124972,7 +124962,6 @@
         "tibble",
         "tidyselect",
         "tinytex",
-        "urltools",
         "vctrs",
         "withr",
         "xfun"
