@@ -16372,8 +16372,7 @@
         "lattice",
         "latticeExtra",
         "timeDate",
-        "timeSeries",
-        "timsac"
+        "timeSeries"
     ],
     "ChIPsim": [
         "Biobase",
@@ -124786,7 +124785,6 @@
         "irlba",
         "lattice"
     ],
-    "timsac": [],
     "ChIPXpressData": [
         "bigmemory",
         "uuid"
