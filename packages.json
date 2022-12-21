@@ -33429,7 +33429,6 @@
         "interp",
         "ipred",
         "irlba",
-        "isa2",
         "knitr",
         "latticeExtra",
         "lava",
@@ -34483,7 +34482,6 @@
         "fabia",
         "ggplot2",
         "igraph",
-        "isa2",
         "lifecycle",
         "mgcv",
         "pillar",
@@ -67973,7 +67971,6 @@
     "linkcomm": [
         "igraph"
     ],
-    "isa2": [],
     "s4vd": [
         "biclust",
         "dplyr",
