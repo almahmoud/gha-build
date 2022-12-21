@@ -4917,7 +4917,6 @@
         "crosstalk",
         "dbplyr",
         "dplyr",
-        "fauxpas",
         "gh",
         "graph",
         "highr",
@@ -72601,7 +72600,6 @@
         "openssl"
     ],
     "rorcid": [
-        "fauxpas",
         "httr",
         "lifecycle",
         "openssl",
@@ -72609,7 +72607,6 @@
         "tibble",
         "vctrs"
     ],
-    "fauxpas": [],
     "styler": [
         "lifecycle",
         "purrr",
