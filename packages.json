@@ -96243,7 +96243,6 @@
         "blob",
         "caTools",
         "cachem",
-        "chromhmmData",
         "circlize",
         "clue",
         "cluster",
@@ -133052,7 +133051,6 @@
         "viridis",
         "viridisLite"
     ],
-    "chromhmmData": [],
     "seq2pathway.data": [],
     "cvTools": [
         "robustbase"
