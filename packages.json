@@ -25461,7 +25461,6 @@
         "stopwords",
         "stringi",
         "stringr",
-        "sylly.en",
         "sys",
         "syuzhet",
         "tensorflow",
@@ -40085,7 +40084,6 @@
         "stopwords",
         "stringi",
         "stringr",
-        "sylly.en",
         "sys",
         "syuzhet",
         "tensorflow",
@@ -106900,7 +106898,6 @@
         "stopwords",
         "stringi",
         "stringr",
-        "sylly.en",
         "syuzhet",
         "tensorflow",
         "text2vec",
@@ -107965,7 +107962,6 @@
         "stopwords",
         "stringi",
         "stringr",
-        "sylly.en",
         "sys",
         "systemfonts",
         "syuzhet",
@@ -109097,7 +109093,6 @@
         "stopwords",
         "stringi",
         "stringr",
-        "sylly.en",
         "sys",
         "systemfonts",
         "syuzhet",
@@ -121446,7 +121441,6 @@
         "slam",
         "stopwords",
         "stringi",
-        "sylly.en",
         "syuzhet",
         "textclean",
         "textshape",
@@ -121473,8 +121467,7 @@
     "koRpus.lang.en": [
         "Matrix",
         "koRpus",
-        "lattice",
-        "sylly.en"
+        "lattice"
     ],
     "koRpus": [
         "Matrix",
@@ -121541,7 +121534,6 @@
         "slam",
         "stringi"
     ],
-    "sylly.en": [],
     "syuzhet": [
         "cli",
         "cpp11",
