@@ -79892,7 +79892,6 @@
         "sys",
         "vctrs"
     ],
-    "SEPIRA": [],
     "seq2pathway": [
         "AnnotationDbi",
         "Biobase",
