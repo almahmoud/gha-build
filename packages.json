@@ -39483,7 +39483,6 @@
         "ps",
         "purrr",
         "readr",
-        "renv",
         "rmarkdown",
         "rprojroot",
         "sass",
@@ -51325,7 +51324,6 @@
         "readr",
         "readxl",
         "rematch2",
-        "renv",
         "reshape2",
         "restfulr",
         "rmarkdown",
@@ -95721,7 +95719,6 @@
         "lifecycle",
         "markdown",
         "promises",
-        "renv",
         "rmarkdown",
         "rprojroot",
         "sass",
@@ -95777,7 +95774,6 @@
         "lifecycle",
         "markdown",
         "promises",
-        "renv",
         "rmarkdown",
         "rprojroot",
         "sass",
@@ -95789,7 +95785,6 @@
         "withr",
         "xfun"
     ],
-    "renv": [],
     "akima": [
         "sp"
     ],
