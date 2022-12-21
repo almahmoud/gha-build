@@ -95197,7 +95197,6 @@
         "R.utils",
         "R6",
         "RCurl",
-        "RITANdata",
         "RSQLite",
         "Rcpp",
         "Rhtslib",
@@ -143040,7 +143039,6 @@
         "iterators"
     ],
     "nls2": [],
-    "RITANdata": [],
     "valr": [
         "BH",
         "Biobase",
