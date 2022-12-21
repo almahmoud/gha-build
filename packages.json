@@ -89064,7 +89064,6 @@
         "genefilter",
         "ggplot2",
         "gplots",
-        "gsmoothr",
         "gtable",
         "httr",
         "isoband",
@@ -137514,7 +137513,6 @@
     "bibtex": [
         "backports"
     ],
-    "gsmoothr": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [
         "BSgenome",
         "Biobase",
