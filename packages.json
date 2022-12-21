@@ -49766,7 +49766,6 @@
         "dml",
         "dplyr",
         "forcats",
-        "geeM",
         "geepack",
         "ggforce",
         "ggformula",
@@ -63087,7 +63086,6 @@
         "broom",
         "dplyr",
         "forcats",
-        "geeM",
         "geepack",
         "ggforce",
         "ggformula",
@@ -63120,7 +63118,6 @@
         "RcppEigen",
         "rARPACK"
     ],
-    "geeM": [],
     "ggformula": [
         "RcppEigen",
         "dplyr",
