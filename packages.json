@@ -21114,7 +21114,6 @@
         "lattice",
         "lifecycle",
         "magrittr",
-        "mapproj",
         "mgcv",
         "munsell",
         "nlme",
@@ -74854,7 +74853,6 @@
         "lsa",
         "magicaxis",
         "magrittr",
-        "mapproj",
         "marray",
         "memoise",
         "mgcv",
@@ -81216,7 +81214,6 @@
         "lsa",
         "magicaxis",
         "magrittr",
-        "mapproj",
         "marray",
         "memoise",
         "mgcv",
@@ -95785,7 +95782,6 @@
         "lme4",
         "lubridate",
         "magrittr",
-        "mapproj",
         "markdown",
         "maxstat",
         "mclust",
@@ -111711,7 +111707,6 @@
         "lsa",
         "magicaxis",
         "magrittr",
-        "mapproj",
         "marray",
         "memoise",
         "mgcv",
@@ -121912,10 +121907,7 @@
     "relations": [
         "slam"
     ],
-    "pals": [
-        "mapproj"
-    ],
-    "mapproj": [],
+    "pals": [],
     "Rmixmod": [
         "Matrix",
         "RcppEigen",
@@ -128462,8 +128454,7 @@
         "jsonlite"
     ],
     "magicaxis": [
-        "celestial",
-        "mapproj"
+        "celestial"
     ],
     "celestial": [],
     "PMCMRplus": [
@@ -130326,7 +130317,6 @@
         "lifecycle",
         "lubridate",
         "magrittr",
-        "mapproj",
         "mgcv",
         "nlme",
         "pillar",
