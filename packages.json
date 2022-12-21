@@ -6242,7 +6242,6 @@
         "sys"
     ],
     "bioCancer": [
-        "AlgDesign",
         "AnnotationDbi",
         "Biobase",
         "BiocGenerics",
@@ -45568,7 +45567,6 @@
         "marray"
     ],
     "MAIT": [
-        "AlgDesign",
         "Biobase",
         "BiocGenerics",
         "BiocParallel",
@@ -99311,7 +99309,6 @@
         "writexl",
         "xfun"
     ],
-    "AlgDesign": [],
     "shinythemes": [
         "bslib",
         "fs",
@@ -106056,7 +106053,6 @@
         "withr"
     ],
     "agricolae": [
-        "AlgDesign",
         "bit64",
         "bslib",
         "class",
