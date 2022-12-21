@@ -947,7 +947,6 @@
         "tidyr",
         "tidyselect",
         "tinytex",
-        "tximport",
         "vctrs"
     ],
     "AllelicImbalance": [
@@ -5016,7 +5015,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tximport",
         "vctrs"
     ],
     "BgeeDB": [
@@ -24517,7 +24515,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tximport",
         "vctrs"
     ],
     "EWCE": [
@@ -36499,7 +36496,6 @@
         "tidyselect",
         "tinytex",
         "tximeta",
-        "tximport",
         "tzdb",
         "vctrs",
         "vroom"
@@ -70257,7 +70253,6 @@
         "tidytree",
         "tinytex",
         "treeio",
-        "tximport",
         "uwot",
         "vctrs",
         "viridis",
@@ -78860,10 +78855,8 @@
         "tibble",
         "tidyselect",
         "tinytex",
-        "tximport",
         "vctrs"
     ],
-    "tximport": [],
     "UCell": [
         "Biobase",
         "BiocNeighbors",
