@@ -46384,7 +46384,6 @@
         "xtable",
         "yaml"
     ],
-    "gpls": [],
     "gpuMagic": [
         "DescTools",
         "Exact",
