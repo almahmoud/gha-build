@@ -10764,7 +10764,6 @@
         "RCurl",
         "RcppArmadillo",
         "S4Vectors",
-        "TeachingDemos",
         "XVector",
         "bookdown",
         "bslib",
@@ -57508,7 +57507,6 @@
         "RcppArmadillo",
         "S4Vectors",
         "SparseM",
-        "TeachingDemos",
         "XVector",
         "bookdown",
         "bslib",
@@ -83686,7 +83684,6 @@
         "S4Vectors",
         "ShortRead",
         "SummarizedExperiment",
-        "TeachingDemos",
         "VariantAnnotation",
         "XVector",
         "askpass",
@@ -122793,13 +122790,9 @@
     ],
     "gamlss.dist": [],
     "earth": [
-        "TeachingDemos",
         "plotmo"
     ],
-    "plotmo": [
-        "TeachingDemos"
-    ],
-    "TeachingDemos": [],
+    "plotmo": [],
     "PolynomF": [],
     "GenomicState": [
         "AnnotationDbi",
