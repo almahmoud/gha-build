@@ -110025,7 +110025,6 @@
         "intervals",
         "jquerylib",
         "knitr",
-        "kriging",
         "labeling",
         "later",
         "lifecycle",
@@ -139870,7 +139869,6 @@
         "viridis",
         "viridisLite"
     ],
-    "kriging": [],
     "sftime": [
         "DBI",
         "KernSmooth",
