@@ -45603,7 +45603,6 @@
         "gtools",
         "httr",
         "lifecycle",
-        "mapplots",
         "memoise",
         "openssl",
         "rlang",
@@ -132747,7 +132746,6 @@
         "utf8",
         "vctrs"
     ],
-    "mapplots": [],
     "gProfileR": [
         "RCurl",
         "Rcpp",
