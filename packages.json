@@ -18765,7 +18765,6 @@
         "AnnotationFilter",
         "AnnotationHub",
         "BSgenome",
-        "BiasedUrn",
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
@@ -36562,7 +36561,6 @@
         "AnnotationFilter",
         "AnnotationHub",
         "BSgenome",
-        "BiasedUrn",
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
@@ -44175,7 +44173,6 @@
     ],
     "famat": [
         "AnnotationDbi",
-        "BiasedUrn",
         "Biobase",
         "BiocGenerics",
         "BiocParallel",
@@ -54701,7 +54698,6 @@
     ],
     "goseq": [
         "AnnotationDbi",
-        "BiasedUrn",
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
@@ -55428,7 +55424,6 @@
         "zlibbioc"
     ],
     "granulator": [
-        "BiasedUrn",
         "DBI",
         "DEoptimR",
         "KernSmooth",
@@ -60202,7 +60197,6 @@
     "ideal": [
         "AnnotationDbi",
         "AnnotationForge",
-        "BiasedUrn",
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
@@ -70608,7 +70602,6 @@
         "AnnotationDbi",
         "AnnotationFilter",
         "BSgenome",
-        "BiasedUrn",
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
@@ -74536,7 +74529,6 @@
     ],
     "methylGSA": [
         "AnnotationDbi",
-        "BiasedUrn",
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
@@ -78855,7 +78847,6 @@
     ],
     "missMethyl": [
         "AnnotationDbi",
-        "BiasedUrn",
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
@@ -108275,7 +108266,6 @@
     ],
     "rgsepd": [
         "AnnotationDbi",
-        "BiasedUrn",
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
@@ -124286,7 +124276,6 @@
     "SMAP": [],
     "SMITE": [
         "AnnotationDbi",
-        "BiasedUrn",
         "BioNet",
         "Biobase",
         "BiocFileCache",
@@ -153812,7 +153801,6 @@
         "viridisLite",
         "withr"
     ],
-    "BiasedUrn": [],
     "geneLenDataBase": [
         "AnnotationDbi",
         "Biobase",
@@ -159687,7 +159675,6 @@
         "plyr"
     ],
     "epiR": [
-        "BiasedUrn",
         "DBI",
         "KernSmooth",
         "MASS",
