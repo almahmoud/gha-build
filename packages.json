@@ -8940,7 +8940,6 @@
         "Biobase",
         "BiocParallel",
         "Biostrings",
-        "CMplot",
         "DBI",
         "GO.db",
         "GenomeInfoDb",
@@ -121165,7 +121164,6 @@
         "sm",
         "zoo"
     ],
-    "CMplot": [],
     "imager": [
         "Matrix",
         "Rcpp",
