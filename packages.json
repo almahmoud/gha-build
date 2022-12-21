@@ -11759,8 +11759,7 @@
         "tidyselect",
         "vctrs",
         "viridisLite",
-        "withr",
-        "zeallot"
+        "withr"
     ],
     "BUSseq": [
         "Biobase",
@@ -22732,8 +22731,7 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "withr",
-        "zeallot"
+        "withr"
     ],
     "crisprseekplus": [
         "AnnotationDbi",
@@ -22872,8 +22870,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xfun",
-        "zeallot"
+        "xfun"
     ],
     "CrispRVariants": [
         "AnnotationDbi",
@@ -26619,7 +26616,6 @@
         "webchem",
         "withr",
         "xfun",
-        "zeallot",
         "zoo"
     ],
     "deepSNV": [
@@ -41911,7 +41907,6 @@
         "withr",
         "word2vec",
         "xfun",
-        "zeallot",
         "zoo"
     ],
     "GenVisR": [
@@ -45726,8 +45721,7 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "withr",
-        "zeallot"
+        "withr"
     ],
     "Guitar": [
         "AnnotationDbi",
@@ -68005,8 +67999,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "zeallot"
+        "xfun"
     ],
     "MultiDataSet": [
         "Biobase",
@@ -71365,8 +71358,7 @@
         "tfruns",
         "tidyselect",
         "vctrs",
-        "withr",
-        "zeallot"
+        "withr"
     ],
     "NewWave": [
         "Biobase",
@@ -75754,8 +75746,7 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "withr",
-        "zeallot"
+        "withr"
     ],
     "parglms": [
         "BBmisc",
@@ -92206,8 +92197,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "zeallot"
+        "xfun"
     ],
     "sangerseqR": [
         "BiocGenerics",
@@ -101519,8 +101509,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xfun",
-        "zeallot"
+        "xfun"
     ],
     "spatialDE": [
         "Biobase",
@@ -111716,7 +111705,6 @@
         "vroom",
         "withr",
         "xfun",
-        "zeallot",
         "zoo"
     ],
     "TTMap": [
@@ -112826,7 +112814,6 @@
         "webchem",
         "withr",
         "xfun",
-        "zeallot",
         "zoo"
     ],
     "VanillaICE": [
@@ -123155,7 +123142,6 @@
         "processx",
         "ps"
     ],
-    "zeallot": [],
     "pryr": [
         "cli",
         "cpp11",
@@ -126046,8 +126032,7 @@
         "tfruns",
         "tidyselect",
         "vctrs",
-        "withr",
-        "zeallot"
+        "withr"
     ],
     "mltools": [
         "Matrix",
@@ -132415,8 +132400,7 @@
         "tfruns",
         "tidyselect",
         "vctrs",
-        "withr",
-        "zeallot"
+        "withr"
     ],
     "matrixLaplacian": [],
     "Matching": [],
