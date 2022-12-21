@@ -103656,7 +103656,6 @@
         "MotifDb",
         "RColorBrewer",
         "RCurl",
-        "RPostgreSQL",
         "RSQLite",
         "RcppEigen",
         "Rhtslib",
@@ -126835,7 +126834,6 @@
     ],
     "RNifti": [],
     "vbsr": [],
-    "RPostgreSQL": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
         "Biobase",
