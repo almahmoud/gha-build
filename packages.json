@@ -66831,7 +66831,6 @@
         "rstudioapi",
         "scales",
         "svDialogs",
-        "svGUI",
         "tibble",
         "utf8",
         "vctrs",
@@ -149979,10 +149978,8 @@
         "zlibbioc"
     ],
     "svDialogs": [
-        "rstudioapi",
-        "svGUI"
+        "rstudioapi"
     ],
-    "svGUI": [],
     "EnsDb.Hsapiens.v75": [
         "AnnotationDbi",
         "AnnotationFilter",
