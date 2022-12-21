@@ -14345,7 +14345,6 @@
         "cli",
         "clusterProfiler",
         "coda",
-        "confintr",
         "cowplot",
         "cpp11",
         "crosstalk",
@@ -59337,7 +59336,6 @@
         "carData",
         "cellranger",
         "cli",
-        "confintr",
         "corrplot",
         "cowplot",
         "cpp11",
@@ -122212,7 +122210,6 @@
         "RColorBrewer",
         "SparseM",
         "cli",
-        "confintr",
         "cpp11",
         "dplyr",
         "fansi",
@@ -122276,7 +122273,6 @@
         "xts",
         "zoo"
     ],
-    "confintr": [],
     "splus2R": [],
     "broom.mixed": [
         "backports",
