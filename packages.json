@@ -75992,7 +75992,6 @@
         "reshape2",
         "rlang",
         "scales",
-        "stabs",
         "stringi",
         "stringr",
         "tibble",
@@ -78562,7 +78561,6 @@
         "selectr",
         "sfsmisc",
         "shape",
-        "stabs",
         "stringi",
         "stringr",
         "survival",
@@ -81115,7 +81113,6 @@
         "seqLogo",
         "shape",
         "sm",
-        "stabs",
         "stringi",
         "stringr",
         "survival",
@@ -163027,7 +163024,6 @@
         "fdrtool",
         "longitudinal"
     ],
-    "stabs": [],
     "longitudinal": [
         "corpcor"
     ],
@@ -163296,7 +163292,6 @@
         "partykit",
         "quadprog",
         "shape",
-        "stabs",
         "survival"
     ],
     "mboost": [
@@ -163306,7 +163301,6 @@
         "libcoin",
         "partykit",
         "quadprog",
-        "stabs",
         "survival"
     ],
     "partykit": [
