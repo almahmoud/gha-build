@@ -34609,7 +34609,6 @@
         "rmarkdown",
         "rtracklayer",
         "sass",
-        "settings",
         "stringi",
         "stringr",
         "tibble",
@@ -112673,7 +112672,6 @@
         "sass",
         "scales",
         "scrime",
-        "settings",
         "shiny",
         "siggenes",
         "sourcetools",
@@ -165485,7 +165483,6 @@
         "xfun",
         "yaml"
     ],
-    "settings": [],
     "filehash": [],
     "CatEncoders": [
         "Matrix",
