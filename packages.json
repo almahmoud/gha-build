@@ -37039,7 +37039,6 @@
         "BiocParallel",
         "DelayedArray",
         "GENIE3",
-        "GeneNet",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -42994,7 +42993,6 @@
     ],
     "nethet": [
         "Biobase",
-        "GeneNet",
         "ICS",
         "ICSNP",
         "Matrix",
@@ -62631,7 +62629,6 @@
         "Biobase",
         "Biostrings",
         "GSEABase",
-        "GeneNet",
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
@@ -78514,7 +78511,6 @@
         "zoo"
     ],
     "rebus": [],
-    "GeneNet": [],
     "ggmcmc": [
         "GGally",
         "Matrix",
