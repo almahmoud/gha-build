@@ -55967,7 +55967,6 @@
         "bslib",
         "doParallel",
         "dplyr",
-        "getPass",
         "httpuv",
         "httr",
         "igraph",
@@ -86509,7 +86508,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "getPass": [],
     "CodeDepends": [
         "graph"
     ],
