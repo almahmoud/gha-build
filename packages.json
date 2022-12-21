@@ -6635,7 +6635,6 @@
         "hgu133plus2.db",
         "httr",
         "lifecycle",
-        "metadat",
         "metafor",
         "nlme",
         "openssl",
@@ -37770,7 +37769,6 @@
         "knitr",
         "lifecycle",
         "lme4",
-        "metadat",
         "metafor",
         "mgcv",
         "munsell",
@@ -38295,7 +38293,6 @@
         "httr",
         "knitr",
         "lifecycle",
-        "metadat",
         "metafor",
         "metap",
         "mgcv",
@@ -41808,7 +41805,6 @@
         "lme4",
         "lmerTest",
         "locfit",
-        "metadat",
         "metafor",
         "metagenomeSeq",
         "mgcv",
@@ -78913,10 +78909,8 @@
     ],
     "metafor": [
         "Matrix",
-        "metadat",
         "nlme"
     ],
-    "metadat": [],
     "KEGGdzPathwaysGEO": [
         "Biobase"
     ],
