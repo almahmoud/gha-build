@@ -10238,7 +10238,6 @@
         "nlme",
         "pillar",
         "pkgconfig",
-        "plotmo",
         "rmarkdown",
         "sass",
         "scales",
@@ -54499,7 +54498,6 @@
         "nlme",
         "pillar",
         "pkgconfig",
-        "plotmo",
         "quantreg",
         "rmarkdown",
         "sass",
@@ -116209,10 +116207,7 @@
         "survival"
     ],
     "gamlss.dist": [],
-    "earth": [
-        "plotmo"
-    ],
-    "plotmo": [],
+    "earth": [],
     "PolynomF": [],
     "GenomicState": [
         "AnnotationDbi",
