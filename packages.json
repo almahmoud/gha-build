@@ -39229,7 +39229,6 @@
         "bit",
         "bit64",
         "blob",
-        "cMap2data",
         "cachem",
         "cli",
         "clipr",
@@ -163409,7 +163408,6 @@
     "numbers": [],
     "corrgram": [],
     "DrugVsDiseasedata": [],
-    "cMap2data": [],
     "hgu133a2.db": [
         "AnnotationDbi",
         "Biobase",
