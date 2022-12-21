@@ -81963,7 +81963,6 @@
         "futile.logger",
         "futile.options",
         "redux",
-        "storr",
         "withr"
     ],
     "REDseq": [
@@ -127457,10 +127456,7 @@
         "BiocGenerics",
         "graph"
     ],
-    "redux": [
-        "storr"
-    ],
-    "storr": [],
+    "redux": [],
     "BSgenome.Celegans.UCSC.ce2": [
         "BSgenome",
         "Biobase",
