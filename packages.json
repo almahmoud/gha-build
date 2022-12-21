@@ -43363,7 +43363,6 @@
         "pillar",
         "progress",
         "promises",
-        "protolite",
         "purrr",
         "readr",
         "rhdf5",
@@ -73355,7 +73354,6 @@
     "genlasso": [
         "igraph"
     ],
-    "protolite": [],
     "opencpu": [
         "highr",
         "httpuv",
@@ -73363,7 +73361,6 @@
         "lifecycle",
         "openssl",
         "promises",
-        "protolite",
         "stringr",
         "vctrs",
         "webutils"
