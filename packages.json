@@ -28630,9 +28630,7 @@
         "stringr",
         "tibble"
     ],
-    "OrderedList": [
-        "twilight"
-    ],
+    "OrderedList": [],
     "ORFhunteR": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg38",
@@ -42964,7 +42962,6 @@
         "edgeR",
         "quantreg"
     ],
-    "twilight": [],
     "twoddpcr": [
         "ggplot2",
         "httpuv",
