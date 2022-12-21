@@ -2023,7 +2023,6 @@
         "cowplot",
         "cpp11",
         "doParallel",
-        "ecp",
         "fansi",
         "foreach",
         "futile.logger",
@@ -20001,7 +20000,6 @@
         "cpp11",
         "cytolib",
         "deldir",
-        "ecp",
         "ellipsis",
         "fansi",
         "feature",
@@ -112868,7 +112866,6 @@
         "vctrs",
         "withr"
     ],
-    "ecp": [],
     "caret": [
         "Matrix",
         "ModelMetrics",
