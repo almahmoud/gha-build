@@ -494,7 +494,6 @@
         "IRanges",
         "KEGGREST",
         "Matrix",
-        "OrgMassSpecR",
         "RCurl",
         "RSQLite",
         "Rcpp",
@@ -110012,7 +110011,6 @@
         "yaml",
         "zlibbioc"
     ],
-    "OrgMassSpecR": [],
     "ade4": [
         "sp"
     ],
