@@ -69917,7 +69917,6 @@
         "GenomicRanges",
         "IRanges",
         "RCurl",
-        "RNifti",
         "Rsamtools",
         "S4Vectors",
         "XVector",
@@ -85026,11 +85025,9 @@
         "magick"
     ],
     "tractor.base": [
-        "RNifti",
         "reportr"
     ],
     "reportr": [],
-    "RNifti": [],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
