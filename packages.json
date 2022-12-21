@@ -13884,7 +13884,6 @@
         "lattice",
         "lifecycle",
         "magrittr",
-        "maptree",
         "mgcv",
         "munsell",
         "nlme",
@@ -119796,7 +119795,6 @@
         "vctrs",
         "withr"
     ],
-    "maptree": [],
     "topicmodels": [
         "slam",
         "tm"
