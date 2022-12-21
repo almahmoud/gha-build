@@ -39267,7 +39267,6 @@
         "blob",
         "sqldf"
     ],
-    "STROMA4": [],
     "struct": [
         "DelayedArray",
         "GenomeInfoDb",
