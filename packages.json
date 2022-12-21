@@ -72870,7 +72870,6 @@
         "digest",
         "dplyr",
         "ellipsis",
-        "filematrix",
         "foreach",
         "futile.logger",
         "glmnet",
@@ -114604,7 +114603,6 @@
         "numDeriv",
         "optimx"
     ],
-    "filematrix": [],
     "googleVis": [],
     "phastCons100way.UCSC.hg19": [
         "AnnotationDbi",
