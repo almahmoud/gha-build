@@ -5194,8 +5194,7 @@
         "tibble",
         "usethis",
         "vctrs",
-        "waldo",
-        "xopen"
+        "waldo"
     ],
     "bumphunter": [
         "AnnotationDbi",
@@ -8869,8 +8868,7 @@
         "tidyselect",
         "usethis",
         "vctrs",
-        "waldo",
-        "xopen"
+        "waldo"
     ],
     "cogeqc": [
         "Biostrings",
@@ -17844,8 +17842,7 @@
         "tibble",
         "usethis",
         "vctrs",
-        "waldo",
-        "xopen"
+        "waldo"
     ],
     "GDCRNATools": [
         "AnnotationDbi",
@@ -22443,8 +22440,7 @@
         "usethis",
         "vctrs",
         "visNetwork",
-        "waldo",
-        "xopen"
+        "waldo"
     ],
     "infercnv": [
         "DelayedArray",
@@ -27198,7 +27194,6 @@
         "vctrs",
         "vroom",
         "waldo",
-        "xopen",
         "xts"
     ],
     "methylGSA": [
@@ -27565,8 +27560,7 @@
         "tibble",
         "usethis",
         "vctrs",
-        "waldo",
-        "xopen"
+        "waldo"
     ],
     "MetNet": [
         "DelayedArray",
@@ -30970,8 +30964,7 @@
         "usethis",
         "vctrs",
         "viridis",
-        "waldo",
-        "xopen"
+        "waldo"
     ],
     "multtest": [
         "survival"
@@ -33625,8 +33618,7 @@
         "tibble",
         "usethis",
         "vctrs",
-        "waldo",
-        "xopen"
+        "waldo"
     ],
     "optimalFlow": [
         "bslib",
@@ -34352,8 +34344,7 @@
         "vctrs",
         "vegan",
         "waldo",
-        "webshot",
-        "xopen"
+        "webshot"
     ],
     "pathRender": [
         "AnnotationDbi",
@@ -40212,8 +40203,7 @@
         "tidyselect",
         "usethis",
         "vctrs",
-        "waldo",
-        "xopen"
+        "waldo"
     ],
     "rmspc": [
         "BiocIO",
@@ -46966,8 +46956,7 @@
         "usethis",
         "vctrs",
         "viridis",
-        "waldo",
-        "xopen"
+        "waldo"
     ],
     "sscore": [
         "affy"
@@ -55057,8 +55046,7 @@
         "tibble",
         "usethis",
         "vctrs",
-        "waldo",
-        "xopen"
+        "waldo"
     ],
     "pkgdown": [
         "bslib",
@@ -55083,8 +55071,7 @@
         "vctrs"
     ],
     "rcmdcheck": [
-        "pkgbuild",
-        "xopen"
+        "pkgbuild"
     ],
     "roxygen2": [
         "knitr",
@@ -55094,7 +55081,6 @@
     "downlit": [
         "vctrs"
     ],
-    "xopen": [],
     "pryr": [
         "stringr",
         "vctrs"
@@ -58311,8 +58297,7 @@
         "tibble",
         "usethis",
         "vctrs",
-        "waldo",
-        "xopen"
+        "waldo"
     ],
     "googleAuthR": [
         "gargle",
