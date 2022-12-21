@@ -39542,7 +39542,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "RGraph2js": [],
     "rGREAT": [
         "AnnotationDbi",
         "BiocFileCache",
