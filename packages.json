@@ -44099,7 +44099,6 @@
     "tomoseqr": [
         "BiocFileCache",
         "RSQLite",
-        "animation",
         "blob",
         "dbplyr",
         "dplyr",
@@ -53281,7 +53280,6 @@
         "vctrs",
         "vroom"
     ],
-    "animation": [],
     "tractor.base": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
