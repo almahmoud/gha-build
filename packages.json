@@ -12497,7 +12497,6 @@
         "KEGGREST",
         "Matrix",
         "MatrixGenerics",
-        "NbClust",
         "OrganismDbi",
         "ProtGenerics",
         "RBGL",
@@ -86229,7 +86228,6 @@
         "MatrixGenerics",
         "MatrixModels",
         "MultiAssayExperiment",
-        "NbClust",
         "OMICsPCAdata",
         "PerformanceAnalytics",
         "RColorBrewer",
@@ -99917,7 +99915,6 @@
     ],
     "RCSL": [
         "Matrix",
-        "NbClust",
         "RColorBrewer",
         "RSpectra",
         "Rcpp",
@@ -144891,7 +144888,6 @@
         "zoo"
     ],
     "fastICA": [],
-    "NbClust": [],
     "gamlss": [
         "Matrix",
         "gamlss.dist",
