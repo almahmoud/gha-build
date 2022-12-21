@@ -44881,7 +44881,6 @@
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "IRanges",
-        "LymphoSeqDB",
         "Matrix",
         "RColorBrewer",
         "RCurl",
@@ -106515,7 +106514,6 @@
         "Matrix",
         "survival"
     ],
-    "LymphoSeqDB": [],
     "reldist": [
         "Matrix",
         "RColorBrewer",
