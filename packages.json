@@ -30015,7 +30015,6 @@
         "fastmap",
         "fastmatch",
         "fingerprint",
-        "float",
         "generics",
         "ggplot2",
         "glue",
@@ -47127,7 +47126,6 @@
         "fastmap",
         "fastmatch",
         "fingerprint",
-        "float",
         "generics",
         "ggplot2",
         "glue",
@@ -125099,7 +125097,6 @@
         "evaluate",
         "fastmap",
         "fastmatch",
-        "float",
         "generics",
         "ggplot2",
         "glue",
@@ -126354,7 +126351,6 @@
         "fastmap",
         "fastmatch",
         "fingerprint",
-        "float",
         "formatR",
         "futile.logger",
         "generics",
@@ -142002,7 +141998,6 @@
         "RhpcBLASctl",
         "data.table",
         "digest",
-        "float",
         "lgr",
         "mlapi",
         "rsparse"
@@ -142064,7 +142059,6 @@
         "RcppArmadillo",
         "RhpcBLASctl",
         "data.table",
-        "float",
         "lgr"
     ],
     "mlapi": [
@@ -142176,10 +142170,8 @@
     "MatrixExtra": [
         "Matrix",
         "Rcpp",
-        "RhpcBLASctl",
-        "float"
+        "RhpcBLASctl"
     ],
-    "float": [],
     "english": [],
     "qdapRegex": [],
     "dtt": [],
