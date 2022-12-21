@@ -54117,7 +54117,6 @@
         "httr",
         "openssl"
     ],
-    "Rdisop": [],
     "RDRToolbox": [
         "bslib",
         "highr",
