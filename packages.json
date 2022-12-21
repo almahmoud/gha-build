@@ -17382,7 +17382,6 @@
         "Biobase",
         "BiocParallel",
         "Biostrings",
-        "CopyhelpeR",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomeInfoDbData",
@@ -100772,7 +100771,6 @@
         "vroom",
         "withr"
     ],
-    "CopyhelpeR": [],
     "arules": [
         "Matrix"
     ],
