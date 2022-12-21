@@ -49451,7 +49451,6 @@
         "blob",
         "cli",
         "dbplyr",
-        "distr",
         "dplyr",
         "ellipsis",
         "fansi",
@@ -70696,7 +70695,6 @@
         "checkmate",
         "cli",
         "deldir",
-        "distr",
         "distrEx",
         "dplyr",
         "ellipsis",
@@ -70776,7 +70774,6 @@
         "cli",
         "crosstalk",
         "deldir",
-        "distr",
         "distrEx",
         "dplyr",
         "ellipsis",
@@ -90623,7 +90620,6 @@
         "deldir",
         "densEstBayes",
         "desc",
-        "distr",
         "ellipsis",
         "fansi",
         "fs",
@@ -95259,7 +95255,6 @@
         "deldir",
         "densEstBayes",
         "desc",
-        "distr",
         "doParallel",
         "dplyr",
         "dqrng",
@@ -123712,7 +123707,6 @@
         "ellipsis",
         "htmltools"
     ],
-    "distr": [],
     "pd.mapping50k.xba240": [
         "Biobase",
         "BiocGenerics",
@@ -126361,9 +126355,7 @@
         "paintmap"
     ],
     "paintmap": [],
-    "distrEx": [
-        "distr"
-    ],
+    "distrEx": [],
     "AICcmodavg": [
         "Matrix",
         "RcppEigen",
