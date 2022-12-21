@@ -99188,7 +99188,6 @@
         "mgcv",
         "mime",
         "miniUI",
-        "mmand",
         "munsell",
         "nlme",
         "openssl",
@@ -130756,7 +130755,6 @@
         "Matrix",
         "lattice"
     ],
-    "mmand": [],
     "alphahull": [
         "Matrix",
         "R.oo",
