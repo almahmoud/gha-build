@@ -94906,7 +94906,6 @@
         "vctrs",
         "zlibbioc"
     ],
-    "spikeLI": [],
     "spiky": [
         "BSgenome",
         "Biobase",
