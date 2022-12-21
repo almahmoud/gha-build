@@ -23090,7 +23090,6 @@
         "GGally",
         "IDPmisc",
         "IRanges",
-        "MBA",
         "Matrix",
         "MatrixGenerics",
         "MatrixModels",
@@ -24593,7 +24592,6 @@
         "GEOmap",
         "IDPmisc",
         "IRanges",
-        "MBA",
         "Matrix",
         "MatrixGenerics",
         "MatrixModels",
@@ -35772,7 +35770,6 @@
         "GEOmap",
         "IDPmisc",
         "IRanges",
-        "MBA",
         "Matrix",
         "MatrixGenerics",
         "MatrixModels",
@@ -35878,7 +35875,6 @@
         "GEOmap",
         "IDPmisc",
         "IRanges",
-        "MBA",
         "Matrix",
         "MatrixGenerics",
         "MatrixModels",
@@ -98351,7 +98347,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "IRanges",
-        "MBA",
         "Matrix",
         "MatrixGenerics",
         "RColorBrewer",
@@ -121033,7 +121028,6 @@
     ],
     "RFOC": [
         "GEOmap",
-        "MBA",
         "Matrix",
         "RColorBrewer",
         "RSEIS",
@@ -121072,7 +121066,6 @@
     ],
     "linprog": [],
     "GEOmap": [
-        "MBA",
         "Matrix",
         "RColorBrewer",
         "cli",
@@ -121130,7 +121123,6 @@
         "viridis",
         "withr"
     ],
-    "MBA": [],
     "Rwave": [],
     "spam": [],
     "rpart.plot": [],
@@ -129503,7 +129495,6 @@
         "vctrs"
     ],
     "bamlss": [
-        "MBA",
         "Matrix",
         "coda",
         "lattice",
