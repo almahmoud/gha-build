@@ -21436,9 +21436,7 @@
     "geNetClassifier": [
         "EBarrays"
     ],
-    "GeneticsPed": [
-        "genetics"
-    ],
+    "GeneticsPed": [],
     "GeneTonic": [
         "AnnotationDbi",
         "BiocParallel",
@@ -66769,7 +66767,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "genetics": [],
     "backbone": [
         "igraph"
     ],
