@@ -26551,7 +26551,6 @@
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "GenomicRanges",
-        "HGNChelper",
         "IRanges",
         "KEGGREST",
         "Matrix",
@@ -96601,7 +96600,6 @@
         "withr",
         "xfun"
     ],
-    "HGNChelper": [],
     "homologene": [
         "bit64",
         "dplyr",
