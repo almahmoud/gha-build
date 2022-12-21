@@ -77911,7 +77911,6 @@
         "labeling",
         "lifecycle",
         "munsell",
-        "pcxnData",
         "pheatmap",
         "rlang",
         "scales",
@@ -134901,7 +134900,6 @@
     "Matching": [
         "MASS"
     ],
-    "pcxnData": [],
     "reportROC": [
         "MASS",
         "Rcpp",
