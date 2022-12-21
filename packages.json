@@ -6901,7 +6901,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
-        "PolynomF",
         "RCurl",
         "S4Vectors",
         "XVector"
@@ -77784,7 +77783,6 @@
         "nlme",
         "survival"
     ],
-    "PolynomF": [],
     "GenomicState": [
         "AnnotationDbi",
         "AnnotationHub",
