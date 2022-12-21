@@ -115311,7 +115311,6 @@
         "R6",
         "RColorBrewer",
         "RCurl",
-        "RITANdata",
         "RSQLite",
         "Rcpp",
         "Rhtslib",
@@ -174372,7 +174371,6 @@
     "nls2": [
         "proto"
     ],
-    "RITANdata": [],
     "valr": [
         "BH",
         "Biobase",
