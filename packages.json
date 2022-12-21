@@ -6710,7 +6710,6 @@
     ],
     "cellmigRation": [
         "DT",
-        "FME",
         "FactoMineR",
         "Hmisc",
         "MatrixModels",
@@ -58349,7 +58348,6 @@
         "vctrs"
     ],
     "mvoutlier": [],
-    "FME": [],
     "SpatialTools": [
         "spBayes"
     ],
