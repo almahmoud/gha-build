@@ -53930,7 +53930,6 @@
     "ISAnalytics": [
         "Matrix",
         "RColorBrewer",
-        "Rcapture",
         "anytime",
         "bit64",
         "bslib",
@@ -136121,7 +136120,6 @@
         "viridisLite",
         "withr"
     ],
-    "Rcapture": [],
     "datamods": [
         "anytime",
         "bit64",
