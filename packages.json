@@ -127647,7 +127647,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "nnlasso",
         "nnls",
         "pillar",
         "pkgconfig",
@@ -170643,7 +170642,6 @@
     ],
     "SNAGEEdata": [],
     "sampSurf": [],
-    "nnlasso": [],
     "logNormReg": [],
     "spdep": [
         "DBI",
