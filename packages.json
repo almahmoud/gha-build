@@ -57389,7 +57389,6 @@
         "Matrix",
         "MatrixModels",
         "edgeR",
-        "extRemes",
         "flexmix",
         "futile.logger",
         "locfit",
@@ -80565,7 +80564,6 @@
     "proxyC": [
         "Matrix"
     ],
-    "extRemes": [],
     "torch": [
         "callr",
         "processx"
