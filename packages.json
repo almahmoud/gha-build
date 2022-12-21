@@ -13147,7 +13147,6 @@
         "vegan",
         "viridisLite",
         "vsn",
-        "wesanderson",
         "withr",
         "xfun",
         "xtable",
@@ -31939,7 +31938,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "wesanderson",
         "withr",
         "xfun",
         "xml2",
@@ -41857,7 +41855,6 @@
         "vctrs",
         "vegan",
         "viridisLite",
-        "wesanderson",
         "withr",
         "zoo"
     ],
@@ -80453,7 +80450,6 @@
         "vctrs",
         "vegan",
         "viridisLite",
-        "wesanderson",
         "withr",
         "zoo"
     ],
@@ -87681,7 +87677,6 @@
         "vctrs",
         "vegan",
         "viridisLite",
-        "wesanderson",
         "withr",
         "zoo"
     ],
@@ -99957,7 +99952,6 @@
         "viridisLite",
         "vsn",
         "waldo",
-        "wesanderson",
         "withr",
         "xfun",
         "xtable",
@@ -152921,7 +152915,6 @@
         "zoo"
     ],
     "naturalsort": [],
-    "wesanderson": [],
     "amap": [],
     "gmodels": [
         "MASS",
