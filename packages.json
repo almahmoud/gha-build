@@ -11816,7 +11816,6 @@
     "BioMVCClass": [
         "Biobase",
         "BiocGenerics",
-        "MVCClass",
         "Rgraphviz",
         "graph"
     ],
@@ -89882,7 +89881,6 @@
         "yaml",
         "zlibbioc"
     ],
-    "MVCClass": [],
     "MWASTools": [
         "Biobase",
         "BiocGenerics",
