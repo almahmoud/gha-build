@@ -53386,7 +53386,6 @@
         "IRanges",
         "KEGGREST",
         "Matrix",
-        "NMI",
         "RColorBrewer",
         "RCurl",
         "RSQLite",
@@ -107869,7 +107868,6 @@
         "withr",
         "xfun"
     ],
-    "NMI": [],
     "MKmisc": [
         "DEoptimR",
         "Matrix",
