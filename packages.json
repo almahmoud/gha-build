@@ -46112,10 +46112,7 @@
         "withr",
         "xfun"
     ],
-    "LPE": [],
-    "LPEadj": [
-        "LPE"
-    ],
+    "LPEadj": [],
     "lpNet": [],
     "lpsymphony": [],
     "LRBaseDbi": [
@@ -67207,8 +67204,7 @@
     ],
     "PLPE": [
         "Biobase",
-        "BiocGenerics",
-        "LPE"
+        "BiocGenerics"
     ],
     "plyranges": [
         "Biobase",
