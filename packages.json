@@ -16423,7 +16423,6 @@
         "ggplot2",
         "gridBase",
         "hms",
-        "idr",
         "impute",
         "labeling",
         "lambda.r",
@@ -53374,7 +53373,6 @@
         "generics",
         "ggplot2",
         "here",
-        "idr",
         "labeling",
         "lambda.r",
         "lifecycle",
@@ -134710,7 +134708,6 @@
         "survival",
         "zlibbioc"
     ],
-    "idr": [],
     "quantmod": [
         "TTR",
         "curl",
