@@ -16964,7 +16964,6 @@
         "interp",
         "knitr",
         "latticeExtra",
-        "lavaan",
         "mgcv",
         "pillar",
         "progress",
@@ -63017,7 +63016,6 @@
         "interp",
         "knitr",
         "latticeExtra",
-        "lavaan",
         "mgcv",
         "pillar",
         "psych",
@@ -63031,7 +63029,6 @@
         "vctrs",
         "viridis"
     ],
-    "lavaan": [],
     "ewceData": [
         "AnnotationDbi",
         "AnnotationHub",
