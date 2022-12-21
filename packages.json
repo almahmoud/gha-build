@@ -6436,7 +6436,6 @@
         "Rcpp",
         "Rdpack",
         "askpass",
-        "dixonTest",
         "futile.logger",
         "ids",
         "lambda.r",
@@ -115331,7 +115330,6 @@
     "BB": [
         "quadprog"
     ],
-    "dixonTest": [],
     "rjags": [
         "coda"
     ],
