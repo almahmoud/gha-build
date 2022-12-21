@@ -17544,7 +17544,6 @@
         "curl",
         "dplyr",
         "ellipsis",
-        "entropy",
         "fgsea",
         "futile.logger",
         "generics",
@@ -18833,7 +18832,6 @@
         "digest",
         "dplyr",
         "ellipsis",
-        "entropy",
         "evaluate",
         "filelock",
         "futile.logger",
@@ -24106,7 +24104,6 @@
         "edgeR",
         "ellipsis",
         "emmeans",
-        "entropy",
         "evaluate",
         "filelock",
         "flashClust",
@@ -37451,7 +37448,6 @@
         "edgeR",
         "ellipsis",
         "emmeans",
-        "entropy",
         "evaluate",
         "filelock",
         "flashClust",
@@ -47576,9 +47572,7 @@
         "uwot",
         "xgboost"
     ],
-    "Informeasure": [
-        "entropy"
-    ],
+    "Informeasure": [],
     "InPAS": [
         "AnnotationDbi",
         "BSgenome",
@@ -60217,7 +60211,6 @@
         "dplyr",
         "ellipsis",
         "energy",
-        "entropy",
         "evaluate",
         "fastICA",
         "filelock",
@@ -67946,7 +67939,6 @@
         "dqrng",
         "edgeR",
         "ellipsis",
-        "entropy",
         "foreach",
         "futile.logger",
         "genefilter",
@@ -90190,7 +90182,6 @@
         "dqrng",
         "e1071",
         "ellipsis",
-        "entropy",
         "evaluate",
         "fitdistrplus",
         "fontawesome",
@@ -91791,7 +91782,6 @@
         "egg",
         "ellipsis",
         "enrichplot",
-        "entropy",
         "evaluate",
         "fgsea",
         "fields",
@@ -91971,7 +91961,6 @@
         "dqrng",
         "e1071",
         "ellipsis",
-        "entropy",
         "evaluate",
         "fields",
         "fitdistrplus",
@@ -94985,7 +94974,6 @@
         "Rtsne",
         "TSP",
         "cluster",
-        "entropy",
         "fastICA",
         "fields",
         "foreach",
@@ -119409,7 +119397,6 @@
     "princurve": [
         "Rcpp"
     ],
-    "entropy": [],
     "brglm": [
         "profileModel"
     ],
@@ -120610,7 +120597,6 @@
         "RWeka",
         "RWekajars",
         "digest",
-        "entropy",
         "randomForest"
     ],
     "arm": [
