@@ -92191,7 +92191,6 @@
         "callr",
         "cli",
         "clusterCrit",
-        "coro",
         "cpp11",
         "ellipsis",
         "foreach",
@@ -131185,14 +131184,12 @@
         "bit64",
         "callr",
         "cli",
-        "coro",
         "ellipsis",
         "magrittr",
         "processx",
         "ps",
         "withr"
     ],
-    "coro": [],
     "logitnorm": [],
     "elasticnet": [],
     "sparsepca": [
