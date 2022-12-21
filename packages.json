@@ -6609,7 +6609,6 @@
         "restfulr",
         "rhdf5",
         "rhdf5filters",
-        "rslurm",
         "rtracklayer",
         "sjlabelled",
         "sjmisc",
@@ -113195,7 +113194,6 @@
         "vctrs",
         "withr"
     ],
-    "rslurm": [],
     "sjlabelled": [],
     "poibin": [],
     "LIM": [
