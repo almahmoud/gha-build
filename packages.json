@@ -10120,7 +10120,6 @@
         "RCurl",
         "RcppEigen",
         "Rdpack",
-        "Rmpi",
         "Rtsne",
         "S4Vectors",
         "SingleCellExperiment",
@@ -92246,7 +92245,6 @@
         "sass",
         "shiny"
     ],
-    "Rmpi": [],
     "enrichR": [
         "Matrix",
         "askpass",
