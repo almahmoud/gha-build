@@ -3921,7 +3921,6 @@
         "lazyeval",
         "lifecycle",
         "lme4",
-        "mGSZ",
         "magrittr",
         "memoise",
         "mgcv",
@@ -115955,7 +115954,6 @@
         "gplots",
         "lattice"
     ],
-    "mGSZ": [],
     "ggfortify": [
         "Matrix",
         "RColorBrewer",
