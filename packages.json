@@ -28737,7 +28737,6 @@
         "viridis",
         "webshot"
     ],
-    "PCAN": [],
     "PCAtools": [
         "BiocSingular",
         "DelayedArray",
