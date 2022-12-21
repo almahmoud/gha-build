@@ -44148,7 +44148,6 @@
         "vctrs",
         "viridis"
     ],
-    "stepNorm": [],
     "stJoincount": [
         "BiocFileCache",
         "DelayedArray",
