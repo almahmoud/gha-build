@@ -72542,7 +72542,6 @@
         "zlibbioc"
     ],
     "pathVar": [
-        "EMT",
         "MASS",
         "Matching",
         "Matrix",
@@ -125999,7 +125998,6 @@
     ],
     "matrixLaplacian": [],
     "cMAP": [],
-    "EMT": [],
     "Matching": [
         "MASS"
     ],
