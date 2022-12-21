@@ -1657,7 +1657,6 @@
         "DelayedMatrixStats",
         "DescTools",
         "DirichletMultinomial",
-        "ECOSolveR",
         "Exact",
         "GenomeInfoDb",
         "GenomeInfoDbData",
@@ -5803,7 +5802,6 @@
         "DelayedMatrixStats",
         "DescTools",
         "DirichletMultinomial",
-        "ECOSolveR",
         "Exact",
         "GenomeInfoDb",
         "GenomeInfoDbData",
@@ -53084,7 +53082,6 @@
         "DelayedMatrixStats",
         "DescTools",
         "DirichletMultinomial",
-        "ECOSolveR",
         "Exact",
         "GenomeInfoDb",
         "GenomeInfoDbData",
@@ -101381,7 +101378,6 @@
     "extrafontdb": [],
     "Rttf2pt1": [],
     "CVXR": [
-        "ECOSolveR",
         "Matrix",
         "RcppEigen",
         "Rmpfr",
@@ -101455,7 +101451,6 @@
         "withr"
     ],
     "Rmpfr": [],
-    "ECOSolveR": [],
     "scs": [],
     "osqp": [
         "Matrix"
