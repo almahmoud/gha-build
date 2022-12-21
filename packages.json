@@ -2410,7 +2410,6 @@
         "yaml",
         "zlibbioc"
     ],
-    "AMOUNTAIN": [],
     "amplican": [
         "BH",
         "Biobase",
@@ -87118,7 +87117,6 @@
         "zlibbioc"
     ],
     "MODA": [
-        "AMOUNTAIN",
         "AnnotationDbi",
         "Biobase",
         "BiocGenerics",
