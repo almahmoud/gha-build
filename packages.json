@@ -47703,7 +47703,6 @@
         "pkgconfig",
         "rmarkdown",
         "robustbase",
-        "rsm",
         "sass",
         "scales",
         "stringi",
@@ -120842,7 +120841,6 @@
         "xfun"
     ],
     "attempt": [],
-    "rsm": [],
     "Polychrome": [],
     "AdaptGauss": [
         "DataVisualizations",
