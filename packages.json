@@ -52522,7 +52522,6 @@
         "BiocParallel",
         "Biostrings",
         "BumpyMatrix",
-        "CircStats",
         "ConsensusClusterPlus",
         "CoreGx",
         "DT",
@@ -66887,7 +66886,6 @@
         "vctrs"
     ],
     "seqCNA": [
-        "CircStats",
         "GLAD",
         "ade4",
         "adehabitatLT",
@@ -90039,7 +90037,6 @@
         "zoo"
     ],
     "verification": [
-        "CircStats",
         "Matrix",
         "dtw",
         "fields",
@@ -90057,7 +90054,6 @@
         "vctrs",
         "viridis"
     ],
-    "CircStats": [],
     "aroma.affymetrix": [
         "PSCBS",
         "aroma.core",
@@ -91109,7 +91105,6 @@
         "robustbase"
     ],
     "adehabitatLT": [
-        "CircStats",
         "ade4",
         "adehabitatMA",
         "pixmap",
