@@ -31302,7 +31302,6 @@
         "vctrs",
         "visNetwork"
     ],
-    "pkgDepTools": [],
     "planet": [
         "dplyr",
         "pillar",
