@@ -43087,7 +43087,6 @@
         "lmerTest",
         "mlr3",
         "mlr3learners",
-        "mlr3measures",
         "mlr3tuning",
         "multtest",
         "nloptr",
@@ -57633,24 +57632,20 @@
     ],
     "mlr3": [
         "future.apply",
-        "mlr3measures",
         "paradox"
     ],
     "mlr3learners": [
         "future.apply",
         "mlr3",
-        "mlr3measures",
         "paradox"
     ],
     "mlr3tuning": [
         "bbotk",
         "future.apply",
         "mlr3",
-        "mlr3measures",
         "paradox"
     ],
     "paradox": [],
-    "mlr3measures": [],
     "bbotk": [
         "paradox"
     ],
