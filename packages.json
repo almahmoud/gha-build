@@ -41660,7 +41660,6 @@
         "fs",
         "futile.logger",
         "futile.options",
-        "gbutils",
         "jsonlite",
         "lattice",
         "lifecycle",
@@ -118787,15 +118786,11 @@
         "Matrix",
         "cvar",
         "fBasics",
-        "gbutils",
         "lattice",
         "timeDate",
         "timeSeries"
     ],
-    "cvar": [
-        "gbutils"
-    ],
-    "gbutils": [],
+    "cvar": [],
     "KEGGandMetacoreDzPathwaysGEO": [
         "Biobase",
         "BiocGenerics"
