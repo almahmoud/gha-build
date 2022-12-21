@@ -25154,7 +25154,6 @@
     ],
     "EMDomics": [
         "BiocParallel",
-        "CDFt",
         "Matrix",
         "futile.logger",
         "ggplot2",
@@ -99444,7 +99443,6 @@
         "XVector"
     ],
     "TCGAbiolinksGUI.data": [],
-    "CDFt": [],
     "heatmap3": [
         "fastcluster"
     ],
