@@ -2710,7 +2710,6 @@
         "tzdb",
         "vctrs",
         "vroom",
-        "whisker",
         "yaml"
     ],
     "APAlyzer": [
@@ -6440,7 +6439,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "whisker",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -7113,8 +7111,7 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "vroom",
-        "whisker"
+        "vroom"
     ],
     "BiocFHIR": [
         "BiocBaseUtils",
@@ -7453,7 +7450,6 @@
         "urltools",
         "vctrs",
         "vroom",
-        "whisker",
         "xml2",
         "yaml"
     ],
@@ -7569,7 +7565,6 @@
         "styler",
         "usethis",
         "vctrs",
-        "whisker",
         "yaml",
         "zip"
     ],
@@ -7611,7 +7606,6 @@
         "tinytex",
         "usethis",
         "vctrs",
-        "whisker",
         "yaml",
         "zip"
     ],
@@ -8630,7 +8624,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "whisker",
         "yaml",
         "zlibbioc"
     ],
@@ -10505,7 +10498,6 @@
         "usethis",
         "vctrs",
         "waldo",
-        "whisker",
         "xml2",
         "xopen",
         "yaml",
@@ -17715,7 +17707,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "whisker",
         "xml2",
         "xopen",
         "yaml",
@@ -20616,7 +20607,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "whisker",
         "yaml",
         "zeallot",
         "zlibbioc"
@@ -20744,7 +20734,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "whisker",
         "xml2",
         "yaml",
         "zeallot",
@@ -23060,7 +23049,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "whisker",
         "xml2",
         "yaml",
         "zip",
@@ -24142,7 +24130,6 @@
         "visNetwork",
         "vroom",
         "webchem",
-        "whisker",
         "xml2",
         "yaml",
         "zeallot",
@@ -35645,7 +35632,6 @@
         "usethis",
         "vctrs",
         "waldo",
-        "whisker",
         "xml2",
         "xopen",
         "yaml",
@@ -37835,7 +37821,6 @@
         "visNetwork",
         "vroom",
         "webchem",
-        "whisker",
         "word2vec",
         "xml2",
         "yaml",
@@ -41180,7 +41165,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "whisker",
         "xml2",
         "yaml",
         "zeallot",
@@ -43144,7 +43128,6 @@
         "tokenizers",
         "usethis",
         "vctrs",
-        "whisker",
         "xml2",
         "yaml",
         "zip"
@@ -44670,7 +44653,6 @@
         "vctrs",
         "visNetwork",
         "waldo",
-        "whisker",
         "xml2",
         "xopen",
         "yaml",
@@ -45526,7 +45508,6 @@
         "viridisLite",
         "visNetwork",
         "waldo",
-        "whisker",
         "wordcloud2",
         "xml2",
         "yaml",
@@ -51755,7 +51736,6 @@
         "vctrs",
         "vroom",
         "waldo",
-        "whisker",
         "yaml",
         "zip",
         "zlibbioc"
@@ -51926,7 +51906,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "whisker",
         "xml2",
         "yaml",
         "zip",
@@ -54144,7 +54123,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "whisker",
         "xml2",
         "xopen",
         "xts",
@@ -54869,7 +54847,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "whisker",
         "xml2",
         "xopen",
         "yaml",
@@ -55836,7 +55813,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "whisker",
         "xml2",
         "yaml",
         "zip",
@@ -61197,7 +61173,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "whisker",
         "xml2",
         "yaml",
         "zeallot",
@@ -61608,7 +61583,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "whisker",
         "xml2",
         "xopen",
         "yaml",
@@ -64237,7 +64211,6 @@
         "tfruns",
         "tidyselect",
         "vctrs",
-        "whisker",
         "yaml",
         "zeallot",
         "zlibbioc"
@@ -65232,7 +65205,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "whisker",
         "xml2",
         "yaml",
         "zip",
@@ -66945,7 +66917,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "whisker",
         "xml2",
         "xopen",
         "yaml",
@@ -68154,7 +68125,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "whisker",
         "yaml",
         "zeallot",
         "zlibbioc"
@@ -68372,7 +68342,6 @@
         "viridisLite",
         "waldo",
         "webshot",
-        "whisker",
         "xml2",
         "xopen",
         "yaml",
@@ -78585,8 +78554,7 @@
     "RGraph2js": [
         "digest",
         "graph",
-        "rjson",
-        "whisker"
+        "rjson"
     ],
     "Rgraphviz": [
         "graph"
@@ -80099,7 +80067,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "whisker",
         "xml2",
         "xopen",
         "yaml",
@@ -83351,7 +83318,6 @@
         "uwot",
         "vctrs",
         "viridisLite",
-        "whisker",
         "yaml",
         "zlibbioc",
         "zoo"
@@ -93490,7 +93456,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "whisker",
         "xml2",
         "xopen",
         "yaml",
@@ -100169,7 +100134,6 @@
         "usethis",
         "vctrs",
         "viridisLite",
-        "whisker",
         "xml2",
         "yaml",
         "zip"
@@ -100475,7 +100439,6 @@
         "viridisLite",
         "visNetwork",
         "vroom",
-        "whisker",
         "xml2",
         "yaml",
         "zeallot",
@@ -101509,7 +101472,6 @@
         "visNetwork",
         "vroom",
         "webchem",
-        "whisker",
         "xml2",
         "yaml",
         "zeallot",
@@ -103480,7 +103442,6 @@
         "usethis",
         "vctrs",
         "viridisLite",
-        "whisker",
         "xml2",
         "yaml",
         "zip",
@@ -106333,7 +106294,6 @@
         "rappdirs"
     ],
     "rapidjsonr": [],
-    "whisker": [],
     "repmis": [
         "R.cache",
         "R.oo",
@@ -108609,9 +108569,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "rslurm": [
-        "whisker"
-    ],
+    "rslurm": [],
     "insight": [],
     "sjlabelled": [
         "datawizard",
@@ -109211,12 +109169,9 @@
         "triebeard",
         "urltools",
         "vctrs",
-        "whisker",
         "xml2"
     ],
-    "fauxpas": [
-        "whisker"
-    ],
+    "fauxpas": [],
     "styler": [
         "R.cache",
         "R.oo",
@@ -109239,7 +109194,6 @@
         "purrr",
         "rappdirs",
         "vctrs",
-        "whisker",
         "yaml",
         "zip"
     ],
@@ -110225,7 +110179,6 @@
         "usethis",
         "vctrs",
         "waldo",
-        "whisker",
         "xml2",
         "xopen",
         "yaml",
@@ -110263,7 +110216,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "whisker",
         "xml2",
         "yaml"
     ],
@@ -112812,7 +112764,6 @@
         "tfruns",
         "tidyselect",
         "vctrs",
-        "whisker",
         "yaml",
         "zeallot"
     ],
@@ -112832,7 +112783,6 @@
         "tfruns",
         "tidyselect",
         "vctrs",
-        "whisker",
         "yaml"
     ],
     "tfruns": [
@@ -112845,7 +112795,6 @@
         "reticulate",
         "tidyselect",
         "vctrs",
-        "whisker",
         "yaml"
     ],
     "config": [
@@ -113299,7 +113248,6 @@
         "usethis",
         "vctrs",
         "waldo",
-        "whisker",
         "yaml",
         "zip"
     ],
@@ -115436,7 +115384,6 @@
         "stringr",
         "usethis",
         "vctrs",
-        "whisker",
         "xml2",
         "yaml",
         "zip"
@@ -117379,7 +117326,6 @@
         "usethis",
         "vctrs",
         "waldo",
-        "whisker",
         "xml2",
         "xopen",
         "yaml",
@@ -118147,7 +118093,6 @@
         "tfruns",
         "tidyselect",
         "vctrs",
-        "whisker",
         "yaml",
         "zeallot"
     ],
