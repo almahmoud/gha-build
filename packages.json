@@ -8030,7 +8030,6 @@
         "mgcv",
         "mnem",
         "munsell",
-        "naturalsort",
         "nlme",
         "openssl",
         "pcalg",
@@ -19517,7 +19516,6 @@
         "multtest",
         "munsell",
         "mutoss",
-        "naturalsort",
         "nlme",
         "openssl",
         "org.Hs.eg.db",
@@ -25634,7 +25632,6 @@
         "mgcv",
         "mnem",
         "munsell",
-        "naturalsort",
         "nlme",
         "pcalg",
         "permute",
@@ -49242,7 +49239,6 @@
         "lifecycle",
         "mgcv",
         "munsell",
-        "naturalsort",
         "nlme",
         "permute",
         "pillar",
@@ -53632,7 +53628,6 @@
         "mgcv",
         "mnem",
         "munsell",
-        "naturalsort",
         "nlme",
         "pcalg",
         "permute",
@@ -93114,7 +93109,6 @@
         "vcd",
         "zoo"
     ],
-    "naturalsort": [],
     "gmodels": [
         "gdata"
     ],
