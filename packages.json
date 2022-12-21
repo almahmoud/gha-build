@@ -22796,7 +22796,6 @@
         "pillar",
         "pkgconfig",
         "plogr",
-        "pscl",
         "purrr",
         "qvalue",
         "reshape2",
@@ -26694,7 +26693,6 @@
         "lattice",
         "maxLik",
         "nlme",
-        "pscl",
         "sandwich",
         "survival",
         "zoo"
@@ -44941,7 +44939,6 @@
         "pkgconfig",
         "plogr",
         "progress",
-        "pscl",
         "purrr",
         "restfulr",
         "rmarkdown",
@@ -49011,7 +49008,6 @@
         "progressr",
         "promises",
         "ps",
-        "pscl",
         "purrr",
         "quantreg",
         "qvalue",
@@ -52381,7 +52377,6 @@
         "praise",
         "processx",
         "ps",
-        "pscl",
         "purrr",
         "quantreg",
         "rematch2",
@@ -52516,7 +52511,6 @@
         "praise",
         "processx",
         "ps",
-        "pscl",
         "psych",
         "purrr",
         "quantreg",
@@ -57070,7 +57064,6 @@
         "progress",
         "promises",
         "ps",
-        "pscl",
         "purrr",
         "quantreg",
         "readr",
@@ -60970,7 +60963,6 @@
         "pheatmap",
         "pillar",
         "pkgconfig",
-        "pscl",
         "purrr",
         "reshape2",
         "scales",
@@ -61786,7 +61778,6 @@
         "praise",
         "processx",
         "ps",
-        "pscl",
         "purrr",
         "quantreg",
         "rematch2",
@@ -91609,7 +91600,6 @@
         "nlme",
         "penalized",
         "preseqR",
-        "pscl",
         "rsvd",
         "shape",
         "survival"
@@ -91871,8 +91861,7 @@
         "futile.logger",
         "futile.options",
         "lattice",
-        "magrittr",
-        "pscl"
+        "magrittr"
     ],
     "scTensor": [
         "AnnotationDbi",
@@ -120799,7 +120788,6 @@
         "DEoptimR",
         "robustbase"
     ],
-    "pscl": [],
     "cytometree": [
         "Matrix",
         "RColorBrewer",
