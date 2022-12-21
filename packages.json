@@ -23742,7 +23742,6 @@
         "blob",
         "httr"
     ],
-    "miRcomp": [],
     "mirIntegrator": [
         "AnnotationDbi",
         "Biostrings",
