@@ -5120,7 +5120,6 @@
         "scuttle",
         "shiny",
         "sitmo",
-        "slam",
         "softImpute",
         "sp",
         "sparseMatrixStats",
@@ -7208,8 +7207,7 @@
     "BiRewire": [
         "Matrix",
         "igraph",
-        "pkgconfig",
-        "slam"
+        "pkgconfig"
     ],
     "biscuiteer": [
         "AnnotationDbi",
@@ -10535,7 +10533,6 @@
         "maptpx",
         "openssl",
         "pkgconfig",
-        "slam",
         "sys",
         "tm",
         "topGO",
@@ -12589,7 +12586,6 @@
         "rtracklayer",
         "sass",
         "scales",
-        "slam",
         "sparsesvd",
         "stringi",
         "stringr",
@@ -13145,7 +13141,6 @@
         "qlcMatrix",
         "robustbase",
         "scales",
-        "slam",
         "sparsesvd",
         "tibble",
         "vctrs",
@@ -14492,7 +14487,6 @@
         "markdown",
         "openssl",
         "skmeans",
-        "slam",
         "stringi",
         "stringr",
         "sys",
@@ -15991,7 +15985,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "slam",
         "stringi",
         "stringr",
         "tibble",
@@ -19531,7 +19524,6 @@
         "sass",
         "scales",
         "selectr",
-        "slam",
         "stringi",
         "stringr",
         "sys",
@@ -28004,7 +27996,6 @@
         "purrr",
         "qdapRegex",
         "scales",
-        "slam",
         "stringi",
         "stringr",
         "survival",
@@ -29878,7 +29869,6 @@
         "rmarkdown",
         "rtracklayer",
         "sass",
-        "slam",
         "stringi",
         "stringr",
         "sys",
@@ -30698,7 +30688,6 @@
         "sass",
         "scales",
         "selectr",
-        "slam",
         "stringi",
         "stringr",
         "sys",
@@ -35673,7 +35662,6 @@
         "shinyAce",
         "shinyBS",
         "shinydashboard",
-        "slam",
         "stringi",
         "stringr",
         "survival",
@@ -35879,9 +35867,7 @@
         "vctrs",
         "withr"
     ],
-    "IHW": [
-        "slam"
-    ],
+    "IHW": [],
     "illuminaio": [
         "askpass",
         "base64",
@@ -47745,7 +47731,6 @@
         "qlcMatrix",
         "reshape2",
         "scales",
-        "slam",
         "sparsesvd",
         "stringi",
         "stringr",
@@ -50464,7 +50449,6 @@
         "shinyjqui",
         "shinyjs",
         "sitmo",
-        "slam",
         "sortable",
         "stringi",
         "stringr",
@@ -55980,7 +55964,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "slam",
         "stringi",
         "stringr",
         "survMisc",
@@ -56543,7 +56526,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "slam",
         "stringi",
         "stringr",
         "tibble",
@@ -57150,7 +57132,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "slam",
         "stringi",
         "stringr",
         "tibble",
@@ -61361,7 +61342,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "slam",
         "stringi",
         "stringr",
         "tibble",
@@ -66604,7 +66584,6 @@
         "sass",
         "scales",
         "shiny",
-        "slam",
         "sys",
         "tibble",
         "tm",
@@ -72769,7 +72748,6 @@
         "org.Hs.eg.db",
         "pkgconfig",
         "proxyC",
-        "slam",
         "sys",
         "tm",
         "vctrs"
@@ -76705,7 +76683,6 @@
         "reshape2",
         "scales",
         "scatterpie",
-        "slam",
         "stringi",
         "stringr",
         "systemfonts",
@@ -80419,7 +80396,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "slam",
         "stringi",
         "stringr",
         "tibble",
@@ -81806,7 +81782,6 @@
         "rsparse",
         "sass",
         "scales",
-        "slam",
         "stringi",
         "stringr",
         "syuzhet",
@@ -82526,7 +82501,6 @@
         "reshape2",
         "robustbase",
         "scales",
-        "slam",
         "sparsesvd",
         "stringi",
         "stringr",
@@ -82619,7 +82593,6 @@
         "scuttle",
         "selectr",
         "sitmo",
-        "slam",
         "sparseMatrixStats",
         "stringi",
         "stringr",
@@ -83488,7 +83461,6 @@
         "scales",
         "scico",
         "shiny",
-        "slam",
         "stringi",
         "stringr",
         "sys",
@@ -84457,7 +84429,6 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "slam",
         "stringi",
         "stringr",
         "tibble",
@@ -88314,7 +88285,6 @@
         "rhdf5",
         "rhdf5filters",
         "scales",
-        "slam",
         "sp",
         "stringi",
         "stringr",
@@ -88346,7 +88316,6 @@
         "ROI.plugin.lpsolve",
         "desc",
         "pkgload",
-        "slam",
         "withr"
     ],
     "survey": [
@@ -88361,15 +88330,11 @@
     "softImpute": [
         "Matrix"
     ],
-    "ROI": [
-        "slam"
-    ],
+    "ROI": [],
     "ROI.plugin.lpsolve": [
-        "ROI",
-        "slam"
+        "ROI"
     ],
     "mitools": [],
-    "slam": [],
     "sjmisc": [
         "dplyr",
         "lifecycle",
@@ -90058,15 +90023,10 @@
         "withr"
     ],
     "topicmodels": [
-        "slam",
         "tm"
     ],
-    "maptpx": [
-        "slam"
-    ],
-    "tm": [
-        "slam"
-    ],
+    "maptpx": [],
+    "tm": [],
     "rjsoncons": [],
     "ggpmisc": [
         "Matrix",
@@ -91055,7 +91015,6 @@
     ],
     "qlcMatrix": [
         "Matrix",
-        "slam",
         "sparsesvd"
     ],
     "sparsesvd": [
@@ -91214,8 +91173,7 @@
         "robustbase"
     ],
     "skmeans": [
-        "clue",
-        "slam"
+        "clue"
     ],
     "eulerr": [],
     "cobs": [
@@ -91607,9 +91565,7 @@
         "tibble",
         "vctrs"
     ],
-    "relations": [
-        "slam"
-    ],
+    "relations": [],
     "Rmixmod": [
         "Matrix",
         "RcppEigen"
@@ -92301,7 +92257,6 @@
         "purrr",
         "qdapRegex",
         "quanteda",
-        "slam",
         "stringi",
         "syuzhet",
         "textclean",
@@ -92336,7 +92291,6 @@
         "pillar",
         "pkgconfig",
         "purrr",
-        "slam",
         "stringi",
         "syuzhet",
         "textshape",
@@ -92359,7 +92313,6 @@
         "pkgconfig",
         "purrr",
         "qdapRegex",
-        "slam",
         "stringi",
         "syuzhet",
         "textshape",
@@ -92371,7 +92324,6 @@
         "zoo"
     ],
     "textshape": [
-        "slam",
         "stringi"
     ],
     "syuzhet": [
@@ -92380,7 +92332,6 @@
         "pillar",
         "pkgconfig",
         "purrr",
-        "slam",
         "stringi",
         "textshape",
         "tibble",
