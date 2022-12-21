@@ -17600,8 +17600,7 @@
         "caTools",
         "gplots",
         "gtools",
-        "lsa",
-        "squash"
+        "lsa"
     ],
     "CellTrails": [
         "Biobase",
@@ -133747,7 +133746,6 @@
         "rstudioapi",
         "sass",
         "scales",
-        "squash",
         "stringi",
         "stringr",
         "survival",
@@ -151934,7 +151932,6 @@
         "SuppDists"
     ],
     "SuppDists": [],
-    "squash": [],
     "cba": [
         "proxy"
     ],
