@@ -87110,7 +87110,6 @@
         "listenv",
         "lme4",
         "lmerTest",
-        "logNormReg",
         "magrittr",
         "mgcv",
         "mime",
@@ -114950,7 +114949,6 @@
     "RcppAlgos": [],
     "SNAGEEdata": [],
     "sampSurf": [],
-    "logNormReg": [],
     "spdep": [
         "class",
         "classInt",
