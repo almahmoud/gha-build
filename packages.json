@@ -91235,7 +91235,6 @@
         "Matrix",
         "MatrixGenerics",
         "RCurl",
-        "RGMQLlib",
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
@@ -139859,7 +139858,6 @@
         "xfun",
         "yaml"
     ],
-    "RGMQLlib": [],
     "elitism": [],
     "doMC": [
         "foreach"
