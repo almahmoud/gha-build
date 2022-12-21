@@ -69717,7 +69717,6 @@
         "KEGGREST",
         "Matrix",
         "PSCBS",
-        "R.rsp",
         "RColorBrewer",
         "RCurl",
         "ROTS",
@@ -99023,7 +99022,6 @@
         "KEGGREST",
         "Matrix",
         "PSCBS",
-        "R.rsp",
         "RColorBrewer",
         "RCurl",
         "RSQLite",
@@ -120176,7 +120174,6 @@
     "CircStats": [],
     "aroma.affymetrix": [
         "PSCBS",
-        "R.rsp",
         "RColorBrewer",
         "aroma.core",
         "future",
@@ -120184,12 +120181,10 @@
     ],
     "aroma.core": [
         "PSCBS",
-        "R.rsp",
         "RColorBrewer",
         "future",
         "listenv"
     ],
-    "R.rsp": [],
     "PSCBS": [
         "future",
         "listenv"
