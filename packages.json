@@ -54164,7 +54164,6 @@
         "purrr",
         "scales",
         "sfsmisc",
-        "startupmsg",
         "stringi",
         "stringr",
         "sys",
@@ -77417,7 +77416,6 @@
         "seqinr",
         "sfsmisc",
         "sp",
-        "startupmsg",
         "stringi",
         "stringr",
         "survival",
@@ -77517,7 +77515,6 @@
         "shinyjs",
         "sourcetools",
         "sp",
-        "startupmsg",
         "stringi",
         "stringr",
         "survival",
@@ -99265,7 +99262,6 @@
         "scales",
         "sfsmisc",
         "sparseMatrixStats",
-        "startupmsg",
         "statmod",
         "stringi",
         "stringr",
@@ -104440,7 +104436,6 @@
         "spatstat.geom",
         "spatstat.random",
         "spatstat.sparse",
-        "startupmsg",
         "statmod",
         "stringi",
         "stringr",
@@ -135569,10 +135564,8 @@
         "htmltools"
     ],
     "distr": [
-        "sfsmisc",
-        "startupmsg"
+        "sfsmisc"
     ],
-    "startupmsg": [],
     "pd.mapping50k.xba240": [
         "Biobase",
         "BiocGenerics",
@@ -138491,8 +138484,7 @@
     "paintmap": [],
     "distrEx": [
         "distr",
-        "sfsmisc",
-        "startupmsg"
+        "sfsmisc"
     ],
     "uniqtag": [],
     "AICcmodavg": [
