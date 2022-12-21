@@ -106222,7 +106222,6 @@
         "BiocGenerics",
         "emmeans",
         "estimability",
-        "fftw",
         "limma",
         "mvtnorm",
         "nlme",
@@ -169467,7 +169466,6 @@
         "yaml",
         "zlibbioc"
     ],
-    "fftw": [],
     "ExtDist": [
         "numDeriv",
         "optimx"
