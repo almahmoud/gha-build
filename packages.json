@@ -27856,7 +27856,6 @@
         "httr",
         "interactiveDisplayBase",
         "knitr",
-        "ontologyPlot",
         "pillar",
         "rmarkdown",
         "shiny",
@@ -29776,7 +29775,6 @@
         "interactiveDisplayBase",
         "knitr",
         "ontoProc",
-        "ontologyPlot",
         "pillar",
         "rmarkdown",
         "scales",
@@ -40650,7 +40648,6 @@
         "interactiveDisplayBase",
         "knitr",
         "ontoProc",
-        "ontologyPlot",
         "org.Mm.eg.db",
         "pillar",
         "progress",
@@ -48504,7 +48501,6 @@
     "flatxml": [
         "httr"
     ],
-    "ontologyPlot": [],
     "AICcmodavg": [
         "TMB",
         "lme4",
