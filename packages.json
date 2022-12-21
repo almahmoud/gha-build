@@ -5335,8 +5335,7 @@
         "XVector",
         "blob",
         "httr",
-        "topGO",
-        "topicmodels"
+        "topGO"
     ],
     "cellxgenedp": [
         "DT",
@@ -25877,7 +25876,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "topicmodels",
         "uwot",
         "viridis",
         "vroom",
@@ -39175,7 +39173,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "topicmodels",
         "tweenr",
         "viridis"
     ],
@@ -45570,7 +45567,6 @@
         "scales",
         "tibble"
     ],
-    "topicmodels": [],
     "ggpmisc": [
         "dplyr",
         "ggplot2",
