@@ -19700,7 +19700,6 @@
         "httr",
         "interactiveDisplayBase",
         "knitr",
-        "libcoin",
         "lifecycle",
         "lme4",
         "locfit",
@@ -30272,7 +30271,6 @@
         "igraph",
         "interactiveDisplayBase",
         "knitr",
-        "libcoin",
         "lifecycle",
         "multcomp",
         "openssl",
@@ -31712,7 +31710,6 @@
         "irlba",
         "knitr",
         "leiden",
-        "libcoin",
         "lifecycle",
         "lmtest",
         "locfit",
@@ -33884,7 +33881,6 @@
         "XVector",
         "coin",
         "ggplot2",
-        "libcoin",
         "lifecycle",
         "mgcv",
         "multcomp",
@@ -39404,7 +39400,6 @@
         "knitr",
         "latticeExtra",
         "lava",
-        "libcoin",
         "lifecycle",
         "lme4",
         "lmerTest",
@@ -39589,7 +39584,6 @@
         "ggtree",
         "ggtreeExtra",
         "gridExtra",
-        "libcoin",
         "lifecycle",
         "mgcv",
         "multcomp",
@@ -40223,7 +40217,6 @@
         "inum",
         "knitr",
         "latticeExtra",
-        "libcoin",
         "lifecycle",
         "lmtest",
         "mboost",
@@ -49832,7 +49825,6 @@
         "inum",
         "knitr",
         "latticeExtra",
-        "libcoin",
         "lifecycle",
         "mgcv",
         "nlme",
@@ -80445,13 +80437,11 @@
     "coin": [
         "Matrix",
         "TH.data",
-        "libcoin",
         "multcomp",
         "sandwich",
         "survival",
         "zoo"
     ],
-    "libcoin": [],
     "wordcloud": [],
     "HTMLUtils": [],
     "ELMER.data": [
@@ -82409,7 +82399,6 @@
         "RcppEigen",
         "glmnet",
         "inum",
-        "libcoin",
         "mboost",
         "partykit",
         "survival"
@@ -82417,19 +82406,15 @@
     "mboost": [
         "Matrix",
         "inum",
-        "libcoin",
         "partykit",
         "survival"
     ],
     "partykit": [
         "Matrix",
         "inum",
-        "libcoin",
         "survival"
     ],
-    "inum": [
-        "libcoin"
-    ],
+    "inum": [],
     "miRBaseVersions.db": [
         "AnnotationDbi",
         "Biobase",
@@ -83352,7 +83337,6 @@
         "Cubist",
         "Matrix",
         "inum",
-        "libcoin",
         "lifecycle",
         "partykit",
         "reshape2",
