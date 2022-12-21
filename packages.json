@@ -39183,7 +39183,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "Biostrings",
-        "CpGassoc",
         "DT",
         "ExperimentHub",
         "GenomeInfoDb",
@@ -61976,7 +61975,6 @@
         "httpuv",
         "shiny"
     ],
-    "CpGassoc": [],
     "pwrEWAS.data": [
         "AnnotationDbi",
         "AnnotationHub",
