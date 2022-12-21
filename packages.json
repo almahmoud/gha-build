@@ -2479,8 +2479,7 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vctrs",
-        "xgboost"
+        "vctrs"
     ],
     "bamsignals": [
         "GenomeInfoDb",
@@ -2873,8 +2872,7 @@
         "tidyselect",
         "uwot",
         "vctrs",
-        "viridis",
-        "xgboost"
+        "viridis"
     ],
     "bayNorm": [
         "DelayedArray",
@@ -6054,8 +6052,7 @@
         "blob",
         "httr",
         "openssl",
-        "vctrs",
-        "xgboost"
+        "vctrs"
     ],
     "CCPROMISE": [
         "AnnotationDbi",
@@ -16903,8 +16900,7 @@
         "tidyselect",
         "uwot",
         "vctrs",
-        "viridis",
-        "xgboost"
+        "viridis"
     ],
     "flowAI": [
         "bslib",
@@ -19912,8 +19908,7 @@
         "vctrs",
         "viridis",
         "visNetwork",
-        "vroom",
-        "xgboost"
+        "vroom"
     ],
     "GOexpress": [
         "AnnotationDbi",
@@ -22534,8 +22529,7 @@
         "flowCore",
         "irlba",
         "raster",
-        "uwot",
-        "xgboost"
+        "uwot"
     ],
     "InPAS": [
         "AnnotationDbi",
@@ -42135,8 +42129,7 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "vctrs",
-        "xgboost"
+        "vctrs"
     ],
     "scater": [
         "BiocNeighbors",
@@ -42526,8 +42519,7 @@
         "tibble",
         "uwot",
         "vctrs",
-        "viridis",
-        "xgboost"
+        "viridis"
     ],
     "scDD": [
         "BiocNeighbors",
@@ -42604,8 +42596,7 @@
         "pillar",
         "tibble",
         "tidyselect",
-        "vctrs",
-        "xgboost"
+        "vctrs"
     ],
     "SCFA": [
         "glmnet",
@@ -45194,7 +45185,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "xgboost",
         "zinbwave"
     ],
     "SingleMoleculeFootprinting": [
@@ -50214,8 +50204,7 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridis",
-        "xgboost"
+        "viridis"
     ],
     "Trendy": [
         "DT",
@@ -54135,7 +54124,6 @@
         "vctrs",
         "waldo"
     ],
-    "xgboost": [],
     "pRolocdata": [
         "IRanges",
         "MSnbase",
