@@ -10468,7 +10468,6 @@
         "BiocGenerics",
         "BiocParallel",
         "Biostrings",
-        "CMplot",
         "GO.db",
         "GenomeInfoDb",
         "GenomeInfoDbData",
@@ -142259,7 +142258,6 @@
         "sm",
         "zoo"
     ],
-    "CMplot": [],
     "imager": [
         "Matrix",
         "bmp",
