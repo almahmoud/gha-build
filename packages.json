@@ -54963,7 +54963,6 @@
     ],
     "qusage": [
         "Biobase",
-        "fftw",
         "nlme"
     ],
     "qvalue": [
@@ -86440,7 +86439,6 @@
         "tinytex",
         "vctrs"
     ],
-    "fftw": [],
     "ExtDist": [
         "optimx"
     ],
