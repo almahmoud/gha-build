@@ -42081,7 +42081,6 @@
         "annotate",
         "blob",
         "bslib",
-        "copula",
         "cowplot",
         "dplyr",
         "edgeR",
@@ -59165,7 +59164,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "copula": [],
     "torch": [],
     "sparsepca": [],
     "origami": [
