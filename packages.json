@@ -3173,7 +3173,6 @@
         "sctransform",
         "scuttle",
         "shiny",
-        "softImpute",
         "spatstat.explore",
         "spatstat.geom",
         "spatstat.random",
@@ -8316,7 +8315,6 @@
         "rncl",
         "rsvd",
         "scales",
-        "softImpute",
         "stringr",
         "survival",
         "tibble",
@@ -30360,7 +30358,6 @@
         "rsvd",
         "scran",
         "scuttle",
-        "softImpute",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -32462,7 +32459,6 @@
         "scales",
         "scater",
         "scuttle",
-        "softImpute",
         "stringr",
         "survival",
         "textshaping",
@@ -42539,7 +42535,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "softImpute",
         "spatstat.explore",
         "spatstat.geom",
         "spatstat.random",
@@ -45530,7 +45525,6 @@
         "shinycssloaders",
         "shinyjs",
         "sn",
-        "softImpute",
         "spatstat.explore",
         "spatstat.geom",
         "spatstat.random",
@@ -52847,7 +52841,6 @@
         "genefilter",
         "httr",
         "openssl",
-        "softImpute",
         "survival",
         "vctrs"
     ],
@@ -54762,7 +54755,6 @@
     "survey": [
         "survival"
     ],
-    "softImpute": [],
     "ROI.plugin.lpsolve": [],
     "sjmisc": [
         "dplyr",
