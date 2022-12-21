@@ -16165,7 +16165,6 @@
         "hms",
         "httr",
         "iC10",
-        "iC10TrainingData",
         "ipred",
         "irlba",
         "lava",
@@ -30590,7 +30589,6 @@
         "hms",
         "httr",
         "iC10",
-        "iC10TrainingData",
         "ipred",
         "lava",
         "lifecycle",
@@ -58224,7 +58222,6 @@
         "httpuv",
         "httr",
         "iC10",
-        "iC10TrainingData",
         "igraph",
         "ipred",
         "km.ci",
@@ -75272,7 +75269,6 @@
         "hms",
         "httr",
         "iC10",
-        "iC10TrainingData",
         "interp",
         "ipred",
         "irlba",
@@ -95232,11 +95228,9 @@
     ],
     "iC10": [
         "Matrix",
-        "iC10TrainingData",
         "pamr",
         "survival"
     ],
-    "iC10TrainingData": [],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "AnnotationDbi",
         "Biobase",
