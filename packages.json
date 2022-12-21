@@ -1168,7 +1168,6 @@
         "backports",
         "bbmle",
         "beachmat",
-        "catdata",
         "checkmate",
         "circlize",
         "cli",
@@ -114904,7 +114903,6 @@
         "RColorBrewer",
         "RcppArmadillo",
         "RcppEigen",
-        "catdata",
         "foreach",
         "glmnet",
         "lattice",
@@ -115008,7 +115006,6 @@
         "vctrs",
         "withr"
     ],
-    "catdata": [],
     "speedglm": [
         "Matrix",
         "lattice"
