@@ -14006,7 +14006,6 @@
         "RCurl",
         "RcppEigen",
         "Rdpack",
-        "Rmpi",
         "Rtsne",
         "S4Vectors",
         "SingleCellExperiment",
@@ -129197,7 +129196,6 @@
         "sourcetools",
         "withr"
     ],
-    "Rmpi": [],
     "enrichR": [
         "Matrix",
         "RColorBrewer",
