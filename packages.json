@@ -20242,7 +20242,6 @@
         "gridBase",
         "gtable",
         "hms",
-        "idr",
         "impute",
         "isoband",
         "labeling",
@@ -65889,7 +65888,6 @@
         "ggplot2",
         "gtable",
         "here",
-        "idr",
         "isoband",
         "jsonlite",
         "labeling",
@@ -166833,7 +166831,6 @@
         "survival",
         "zlibbioc"
     ],
-    "idr": [],
     "quantmod": [
         "TTR",
         "curl",
