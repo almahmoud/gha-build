@@ -21621,7 +21621,6 @@
         "htmlwidgets",
         "httr",
         "igraph",
-        "ineq",
         "interp",
         "ipred",
         "isoband",
@@ -33627,7 +33626,6 @@
         "htmlwidgets",
         "httr",
         "igraph",
-        "ineq",
         "interp",
         "ipred",
         "isoband",
@@ -46783,7 +46781,6 @@
         "gridExtra",
         "gtable",
         "igraph",
-        "ineq",
         "isoband",
         "jsonlite",
         "lazyeval",
@@ -108506,7 +108503,6 @@
         "RWekajars",
         "rJava"
     ],
-    "ineq": [],
     "arm": [
         "Matrix",
         "RcppEigen",
