@@ -11419,7 +11419,6 @@
         "influenceR",
         "keras",
         "knitr",
-        "koRpus",
         "koRpus.lang.en",
         "lexicon",
         "pillar",
@@ -17985,7 +17984,6 @@
         "influenceR",
         "keras",
         "knitr",
-        "koRpus",
         "koRpus.lang.en",
         "lexicon",
         "pillar",
@@ -47766,7 +47764,6 @@
         "influenceR",
         "keras",
         "knitr",
-        "koRpus",
         "koRpus.lang.en",
         "lexicon",
         "pillar",
@@ -48255,7 +48252,6 @@
         "influenceR",
         "keras",
         "knitr",
-        "koRpus",
         "koRpus.lang.en",
         "lexicon",
         "pheatmap",
@@ -48776,7 +48772,6 @@
         "httr",
         "interactiveDisplayBase",
         "knitr",
-        "koRpus",
         "koRpus.lang.en",
         "lexicon",
         "msigdb",
@@ -53508,7 +53503,6 @@
     ],
     "textstem": [
         "dplyr",
-        "koRpus",
         "koRpus.lang.en",
         "lexicon",
         "pillar",
@@ -53520,10 +53514,7 @@
         "vctrs"
     ],
     "rsparse": [],
-    "koRpus.lang.en": [
-        "koRpus"
-    ],
-    "koRpus": [],
+    "koRpus.lang.en": [],
     "lexicon": [
         "dplyr",
         "pillar",
