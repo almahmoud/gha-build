@@ -27958,7 +27958,6 @@
         "viridis"
     ],
     "GWAS.BAYES": [
-        "GA",
         "Matrix",
         "RcppEigen",
         "caret",
@@ -77532,7 +77531,6 @@
         "graph"
     ],
     "nsga2R": [],
-    "GA": [],
     "BatchJobs": [
         "BBmisc",
         "RSQLite",
