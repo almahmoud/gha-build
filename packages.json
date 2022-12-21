@@ -54289,7 +54289,6 @@
         "Rsamtools",
         "S4Vectors",
         "XVector",
-        "reportr",
         "stringr",
         "tractor.base",
         "vctrs"
@@ -65502,10 +65501,7 @@
         "vroom"
     ],
     "animation": [],
-    "tractor.base": [
-        "reportr"
-    ],
-    "reportr": [],
+    "tractor.base": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
         "BiocIO",
