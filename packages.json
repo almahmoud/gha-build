@@ -4256,7 +4256,6 @@
         "nor1mix",
         "openssl",
         "org.Hs.eg.db",
-        "parody",
         "pillar",
         "pkgconfig",
         "plogr",
@@ -89374,7 +89373,6 @@
         "stringi",
         "vctrs"
     ],
-    "parody": [],
     "PAST": [
         "Biobase",
         "BiocGenerics",
