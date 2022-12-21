@@ -85214,7 +85214,6 @@
         "DOSE",
         "DelayedArray",
         "Formula",
-        "GFA",
         "GO.db",
         "GOSemSim",
         "GSEABase",
@@ -176726,7 +176725,6 @@
         "vctrs",
         "zlibbioc"
     ],
-    "GFA": [],
     "linkcomm": [
         "Matrix",
         "RColorBrewer",
