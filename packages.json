@@ -586,7 +586,6 @@
         "BiocGenerics",
         "BiocParallel",
         "DelayedArray",
-        "DrImpute",
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "GenomicRanges",
@@ -47603,7 +47602,6 @@
         "DataVisualizations",
         "DelayedArray",
         "DelayedMatrixStats",
-        "DrImpute",
         "GO.db",
         "GOSemSim",
         "GenomeInfoDb",
@@ -109216,7 +109214,6 @@
     "checkmate": [
         "backports"
     ],
-    "DrImpute": [],
     "rsvd": [
         "Matrix",
         "lattice"
