@@ -8417,7 +8417,6 @@
         "httr",
         "igraph",
         "lifecycle",
-        "maptpx",
         "openssl",
         "tm",
         "topGO",
@@ -72187,7 +72186,6 @@
     "topicmodels": [
         "tm"
     ],
-    "maptpx": [],
     "tm": [],
     "rjsoncons": [],
     "ggpmisc": [
