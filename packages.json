@@ -46710,7 +46710,6 @@
         "raster",
         "reshape2",
         "reticulate",
-        "rgdal",
         "rhdf5",
         "rhdf5filters",
         "rmarkdown",
@@ -60194,7 +60193,6 @@
         "miniUI",
         "pillar",
         "raster",
-        "rgdal",
         "rmarkdown",
         "scales",
         "shiny",
@@ -60206,7 +60204,6 @@
     "elsa": [
         "raster"
     ],
-    "rgdal": [],
     "miRNAtap.db": [
         "AnnotationDbi",
         "Biostrings",
