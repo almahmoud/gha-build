@@ -2,30 +2,17 @@
 
 394 built packages
 
-13 failed packages
+0 failed packages
 
-3403 unclaimed packages
+3416 unclaimed packages
 
 
 
-## Failed (13)
-| Package                                                                                           | Status   | BBS Status        | Log                                                                                        | Known Error                                                                                                                                                                                        |
-|---------------------------------------------------------------------------------------------------|----------|-------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [EntropyExplorer](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362921346) | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a514a85/lists/failed/EntropyExplorer) | [CRAN Package 'EntropyExplorer'](https://cran.r-project.org/web/packages/EntropyExplorer/index.html) archived. Extracted text: Archived on 2022-05-24 as email to the maintainer is undeliverable. |
-| [GenKern](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362917318)         | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a514a85/lists/failed/GenKern)         | [CRAN Package 'GenKern'](https://cran.r-project.org/web/packages/GenKern/index.html) archived. Extracted text: Archived on 2022-05-23 as check issues were not corrected despite reminders.        |
-| [GenomicTools](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362919065)    | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a514a85/lists/failed/GenomicTools)    | [CRAN Package 'GenomicTools'](https://cran.r-project.org/web/packages/GenomicTools/index.html) archived. Extracted text: Archived on 2022-10-09 as requires archived package 'gMWT'.               |
-| [ReorderCluster](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362918658)  | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a514a85/lists/failed/ReorderCluster)  | [CRAN Package 'ReorderCluster'](https://cran.r-project.org/web/packages/ReorderCluster/index.html) archived. Extracted text: Archived on 2022-12-09 as issues were not corrected in time.          |
-| [Rmagic](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362977469)          | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a514a85/lists/failed/Rmagic)          | [CRAN Package 'Rmagic'](https://cran.r-project.org/web/packages/Rmagic/index.html) archived. Extracted text: Archived on 2022-10-07 as email to the maintainer is undeliverable.                   |
-| [SPARQL](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362917051)          | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a514a85/lists/failed/SPARQL)          | [CRAN Package 'SPARQL'](https://cran.r-project.org/web/packages/SPARQL/index.html) archived. Extracted text: Archived on 2022-05-23 as email to the maintainer is undeliverable.                   |
-| [kmlShape](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362975112)        | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a514a85/lists/failed/kmlShape)        | [CRAN Package 'kmlShape'](https://cran.r-project.org/web/packages/kmlShape/index.html) archived. Extracted text: Archived on 2022-12-19 as issues were not corrected despite reminders.            |
-| [mGSZ](https://github.com/almahmoud/gha-build/actions/runs/3747083661/jobs/6363052384)            | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a514a85/lists/failed/mGSZ)            | [CRAN Package 'mGSZ'](https://cran.r-project.org/web/packages/mGSZ/index.html) archived. Extracted text: Archived on 2022-05-23 as check issues were not corrected despite reminders.              |
-| [mppa](https://github.com/almahmoud/gha-build/actions/runs/3747083661/jobs/6363048569)            | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a514a85/lists/failed/mppa)            | [CRAN Package 'mppa'](https://cran.r-project.org/web/packages/mppa/index.html) archived. Extracted text: Archived on 2022-06-24 as check problems were not corrected despite reminders.            |
-| [propr](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362920298)           | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a514a85/lists/failed/propr)           | [CRAN Package 'propr'](https://cran.r-project.org/web/packages/propr/index.html) archived. Extracted text: Archived on 2022-11-10 as issues were not corrected in time.                            |
-| [sampSurf](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362977137)        | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a514a85/lists/failed/sampSurf)        | [CRAN Package 'sampSurf'](https://cran.r-project.org/web/packages/sampSurf/index.html) archived. Extracted text: Archived on 2022-05-17 as email to the maintainer is undeliverable.               |
-| [spp](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362921861)             | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a514a85/lists/failed/spp)             | [CRAN Package 'spp'](https://cran.r-project.org/web/packages/spp/index.html) archived. Extracted text: Archived on 2022-11-20 as issues were not corrected despite reminders.                      |
-| [vbsr](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362978451)            | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a514a85/lists/failed/vbsr)            | [CRAN Package 'vbsr'](https://cran.r-project.org/web/packages/vbsr/index.html) archived. Extracted text: Archived on 2022-05-23 as email to the maintainer is undeliverable.                       |
+## Failed (0)
+| Package   | Status   | BBS Status   | Log   | Known Error   |
+|-----------|----------|--------------|-------|---------------|
 
-## Unclaimed (3403)
+## Unclaimed (3416)
 | Package                                                                                              | Status    | Tarball   |
 |------------------------------------------------------------------------------------------------------|-----------|-----------|
 | a4                                                                                                   | Unclaimed |           |
@@ -2376,6 +2363,7 @@
 | rootSolve                                                                                            | Unclaimed |           |
 | tidytree                                                                                             | Unclaimed |           |
 | [ecp](https://github.com/almahmoud/gha-build/actions/runs/3747159396/jobs/6363281448)                | Unclaimed |           |
+| [ReorderCluster](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362918658)     | Unclaimed |           |
 | caret                                                                                                | Unclaimed |           |
 | rentrez                                                                                              | Unclaimed |           |
 | covr                                                                                                 | Unclaimed |           |
@@ -2465,6 +2453,7 @@
 | RcppDE                                                                                               | Unclaimed |           |
 | [calibrate](https://github.com/almahmoud/gha-build/actions/runs/3747159396/jobs/6363280653)          | Unclaimed |           |
 | DRaWR                                                                                                | Unclaimed |           |
+| [mGSZ](https://github.com/almahmoud/gha-build/actions/runs/3747083661/jobs/6363052384)               | Unclaimed |           |
 | ggfortify                                                                                            | Unclaimed |           |
 | msm                                                                                                  | Unclaimed |           |
 | Rlab                                                                                                 | Unclaimed |           |
@@ -2737,6 +2726,7 @@
 | broom.mixed                                                                                          | Unclaimed |           |
 | mice                                                                                                 | Unclaimed |           |
 | furrr                                                                                                | Unclaimed |           |
+| [GenomicTools](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362919065)       | Unclaimed |           |
 | GenomicTools.fileHandler                                                                             | Unclaimed |           |
 | quantmod                                                                                             | Unclaimed |           |
 | ChAMPdata                                                                                            | Unclaimed |           |
@@ -2749,6 +2739,7 @@
 | geneLenDataBase                                                                                      | Unclaimed |           |
 | JADE                                                                                                 | Unclaimed |           |
 | ruv                                                                                                  | Unclaimed |           |
+| [spp](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362921861)                | Unclaimed |           |
 | ChIC.data                                                                                            | Unclaimed |           |
 | Delaporte                                                                                            | Unclaimed |           |
 | [RcppRoll](https://github.com/almahmoud/gha-build/actions/runs/3747159396/jobs/6363278065)           | Unclaimed |           |
@@ -2787,6 +2778,7 @@
 | sparsesvd                                                                                            | Unclaimed |           |
 | docopt                                                                                               | Unclaimed |           |
 | RcppThread                                                                                           | Unclaimed |           |
+| [propr](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362920298)              | Unclaimed |           |
 | BSgenome.Drerio.UCSC.danRer7                                                                         | Unclaimed |           |
 | rgl                                                                                                  | Unclaimed |           |
 | gRbase                                                                                               | Unclaimed |           |
@@ -2960,6 +2952,7 @@
 | ELMER.data                                                                                           | Unclaimed |           |
 | emdist                                                                                               | Unclaimed |           |
 | [heatmap3](https://github.com/almahmoud/gha-build/actions/runs/3747159396/jobs/6363277469)           | Unclaimed |           |
+| [EntropyExplorer](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362921346)    | Unclaimed |           |
 | EpiMix.data                                                                                          | Unclaimed |           |
 | R.matlab                                                                                             | Unclaimed |           |
 | [isotree](https://github.com/almahmoud/gha-build/actions/runs/3747238726/jobs/6363281329)            | Unclaimed |           |
@@ -2985,6 +2978,7 @@
 | hdrcde                                                                                               | Unclaimed |           |
 | ash                                                                                                  | Unclaimed |           |
 | [gcspikelite](https://github.com/almahmoud/gha-build/actions/runs/3746995395/jobs/6362820481)        | Unclaimed |           |
+| [SPARQL](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362917051)             | Unclaimed |           |
 | [effsize](https://github.com/almahmoud/gha-build/actions/runs/3746995395/jobs/6362822218)            | Unclaimed |           |
 | ggiraph                                                                                              | Unclaimed |           |
 | clisymbols                                                                                           | Unclaimed |           |
@@ -3190,6 +3184,7 @@
 | scico                                                                                                | Unclaimed |           |
 | VarfromPDB                                                                                           | Unclaimed |           |
 | XML2R                                                                                                | Unclaimed |           |
+| [mppa](https://github.com/almahmoud/gha-build/actions/runs/3747083661/jobs/6363048569)               | Unclaimed |           |
 | huge                                                                                                 | Unclaimed |           |
 | ICSNP                                                                                                | Unclaimed |           |
 | ICS                                                                                                  | Unclaimed |           |
@@ -3332,6 +3327,7 @@
 | [elasticnet](https://github.com/almahmoud/gha-build/actions/runs/3747159396/jobs/6363279455)         | Unclaimed |           |
 | sparsepca                                                                                            | Unclaimed |           |
 | origami                                                                                              | Unclaimed |           |
+| [Rmagic](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362977469)             | Unclaimed |           |
 | ggvenn                                                                                               | Unclaimed |           |
 | [glmpca](https://github.com/almahmoud/gha-build/actions/runs/3747159396/jobs/6363281554)             | Unclaimed |           |
 | nnTensor                                                                                             | Unclaimed |           |
@@ -3366,6 +3362,7 @@
 | [mixsmsn](https://github.com/almahmoud/gha-build/actions/runs/3747238726/jobs/6363285889)            | Unclaimed |           |
 | RcppAlgos                                                                                            | Unclaimed |           |
 | SNAGEEdata                                                                                           | Unclaimed |           |
+| [sampSurf](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362977137)           | Unclaimed |           |
 | logNormReg                                                                                           | Unclaimed |           |
 | spdep                                                                                                | Unclaimed |           |
 | spData                                                                                               | Unclaimed |           |
@@ -3403,6 +3400,7 @@
 | spsUtil                                                                                              | Unclaimed |           |
 | spsComps                                                                                             | Unclaimed |           |
 | drawer                                                                                               | Unclaimed |           |
+| [GenKern](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362917318)            | Unclaimed |           |
 | ttservice                                                                                            | Unclaimed |           |
 | tiledb                                                                                               | Unclaimed |           |
 | nanotime                                                                                             | Unclaimed |           |
@@ -3422,9 +3420,11 @@
 | ore                                                                                                  | Unclaimed |           |
 | reportr                                                                                              | Unclaimed |           |
 | [RNifti](https://github.com/almahmoud/gha-build/actions/runs/3747238726/jobs/6363279705)             | Unclaimed |           |
+| [vbsr](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362978451)               | Unclaimed |           |
 | [lassopv](https://github.com/almahmoud/gha-build/actions/runs/3747159396/jobs/6363279283)            | Unclaimed |           |
 | [RPostgreSQL](https://github.com/almahmoud/gha-build/actions/runs/3747159396/jobs/6363280078)        | Unclaimed |           |
 | SNPlocs.Hsapiens.dbSNP150.GRCh38                                                                     | Unclaimed |           |
+| [kmlShape](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362975112)           | Unclaimed |           |
 | mirbase.db                                                                                           | Unclaimed |           |
 | condformat                                                                                           | Unclaimed |           |
 | shinyTree                                                                                            | Unclaimed |           |
