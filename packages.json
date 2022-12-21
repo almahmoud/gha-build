@@ -3870,7 +3870,6 @@
     "BiGGR": [
         "LIM",
         "Rgraphviz",
-        "diagram",
         "hyperdraw",
         "hypergraph",
         "lifecycle",
@@ -11485,7 +11484,6 @@
         "biomaRt",
         "blob",
         "dbplyr",
-        "diagram",
         "dplyr",
         "exomeCopy",
         "ggplot2",
@@ -23578,8 +23576,7 @@
         "GenomicRanges",
         "IRanges",
         "S4Vectors",
-        "XVector",
-        "diagram"
+        "XVector"
     ],
     "GNET2": [
         "DelayedArray",
@@ -64564,10 +64561,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "LIM": [
-        "diagram"
-    ],
-    "diagram": [],
+    "LIM": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "AnnotationDbi",
         "BiocFileCache",
