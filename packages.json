@@ -27433,7 +27433,6 @@
         "BiocParallel",
         "Matrix",
         "RColorBrewer",
-        "emdist",
         "fansi",
         "futile.logger",
         "ggplot2",
@@ -109325,7 +109324,6 @@
         "S4Vectors",
         "XVector"
     ],
-    "emdist": [],
     "heatmap3": [],
     "EntropyExplorer": [],
     "EpiMix.data": [
