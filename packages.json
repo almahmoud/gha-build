@@ -4723,7 +4723,6 @@
         "withr",
         "xfun"
     ],
-    "BAC": [],
     "bacon": [
         "BiocParallel",
         "Matrix",
