@@ -27105,7 +27105,6 @@
         "httr",
         "lifecycle",
         "openssl",
-        "repo",
         "rhdf5",
         "rhdf5filters",
         "vctrs"
@@ -81004,7 +81003,6 @@
         "tinytex",
         "vctrs"
     ],
-    "repo": [],
     "ggalt": [
         "Matrix",
         "askpass",
