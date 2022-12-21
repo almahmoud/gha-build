@@ -20438,7 +20438,6 @@
         "XVector",
         "annotate",
         "askpass",
-        "bayesm",
         "bit64",
         "blob",
         "class",
@@ -57363,7 +57362,6 @@
         "XVector",
         "ade4",
         "ape",
-        "bayesm",
         "biomformat",
         "cli",
         "compositions",
@@ -68063,7 +68061,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "bayesm",
         "bslib",
         "cli",
         "compositions",
@@ -88846,7 +88843,6 @@
         "XVector",
         "aroma.light",
         "askpass",
-        "bayesm",
         "biomaRt",
         "bit64",
         "blob",
@@ -117488,10 +117484,8 @@
     ],
     "compositions": [
         "DEoptimR",
-        "bayesm",
         "robustbase"
     ],
-    "bayesm": [],
     "faahKO": [
         "Biobase",
         "BiocGenerics",
