@@ -6332,7 +6332,6 @@
         "ROI",
         "ROI.plugin.lpsolve",
         "RSQLite",
-        "Rcgmin",
         "RcppEigen",
         "RcppHNSW",
         "RcppML",
@@ -112654,7 +112653,6 @@
         "RCurl",
         "ROI",
         "ROI.plugin.lpsolve",
-        "Rcgmin",
         "Rhdf5lib",
         "Rvmmin",
         "S4Vectors",
@@ -112726,7 +112724,6 @@
         "withr"
     ],
     "optimr": [
-        "Rcgmin",
         "Rvmmin"
     ],
     "detectseparation": [
@@ -112765,7 +112762,6 @@
     ],
     "lpSolveAPI": [],
     "Rvmmin": [],
-    "Rcgmin": [],
     "mitools": [],
     "slam": [],
     "sjmisc": [
