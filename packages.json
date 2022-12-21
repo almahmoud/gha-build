@@ -24407,7 +24407,6 @@
         "crosstalk",
         "dplyr",
         "gap",
-        "gap.datasets",
         "ggplot2",
         "gtable",
         "highr",
@@ -86724,7 +86723,6 @@
         "bslib",
         "crosstalk",
         "dplyr",
-        "gap.datasets",
         "ggplot2",
         "gtable",
         "highr",
@@ -86751,7 +86749,6 @@
         "tinytex",
         "vctrs"
     ],
-    "gap.datasets": [],
     "geepack": [
         "broom",
         "dplyr",
