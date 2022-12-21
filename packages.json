@@ -18783,7 +18783,6 @@
         "SummarizedExperiment",
         "XVector",
         "bamsignals",
-        "chromstaRData",
         "cli",
         "cpp11",
         "doParallel",
@@ -140422,7 +140421,6 @@
         "withr"
     ],
     "anytime": [],
-    "chromstaRData": [],
     "DDRTree": [
         "Matrix",
         "RcppEigen",
