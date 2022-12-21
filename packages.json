@@ -2376,7 +2376,6 @@
         "rhdf5",
         "rhdf5filters",
         "rmarkdown",
-        "rmutil",
         "rprojroot",
         "sass",
         "scales",
@@ -21241,7 +21240,6 @@
         "phylolm",
         "pillar",
         "pkgconfig",
-        "rmutil",
         "scales",
         "sm",
         "stable",
@@ -65305,7 +65303,6 @@
         "quantreg",
         "rematch2",
         "reshape",
-        "rmutil",
         "rprojroot",
         "scales",
         "stable",
@@ -123709,7 +123706,6 @@
         "permute",
         "pillar",
         "pkgconfig",
-        "rmutil",
         "scales",
         "stable",
         "statip",
@@ -123768,12 +123764,10 @@
         "lazyeval"
     ],
     "statmod": [],
-    "rmutil": [],
     "modeest": [
         "clue",
         "cluster",
         "fBasics",
-        "rmutil",
         "stable",
         "statip",
         "timeDate",
@@ -123795,9 +123789,7 @@
         "timeDate",
         "timeSeries"
     ],
-    "stable": [
-        "rmutil"
-    ],
+    "stable": [],
     "statip": [
         "clue",
         "cluster"
