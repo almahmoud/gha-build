@@ -81769,7 +81769,6 @@
         "Matrix",
         "MatrixGenerics",
         "MultiAssayExperiment",
-        "NISTunits",
         "RColorBrewer",
         "RCurl",
         "S4Vectors",
@@ -88753,7 +88752,6 @@
         "Matrix",
         "MatrixGenerics",
         "MultiAssayExperiment",
-        "NISTunits",
         "RColorBrewer",
         "RCurl",
         "S4Vectors",
@@ -122070,7 +122068,6 @@
         "Matrix",
         "MatrixGenerics",
         "MultiAssayExperiment",
-        "NISTunits",
         "PharmacoGx",
         "RColorBrewer",
         "RCurl",
@@ -140623,17 +140620,14 @@
         "jsonlite"
     ],
     "magicaxis": [
-        "NISTunits",
         "celestial",
         "mapproj",
         "pracma",
         "sm"
     ],
     "celestial": [
-        "NISTunits",
         "pracma"
     ],
-    "NISTunits": [],
     "PMCMRplus": [
         "BWStest",
         "Rmpfr",
