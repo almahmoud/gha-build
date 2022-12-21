@@ -38165,7 +38165,6 @@
         "GenomicRanges",
         "HDO.db",
         "IRanges",
-        "JASPAR2018",
         "KEGGREST",
         "Matrix",
         "MatrixGenerics",
@@ -40430,7 +40429,6 @@
         "GenomicRanges",
         "HDO.db",
         "IRanges",
-        "JASPAR2018",
         "KEGGREST",
         "KernSmooth",
         "Matrix",
@@ -94096,7 +94094,6 @@
         "HDF5Array",
         "Hmisc",
         "IRanges",
-        "JASPAR2018",
         "KEGGREST",
         "Matrix",
         "MatrixGenerics",
@@ -150438,7 +150435,6 @@
     "TCGAbiolinksGUI.data": [],
     "emdist": [],
     "CDFt": [],
-    "JASPAR2018": [],
     "heatmap3": [
         "fastcluster"
     ],
