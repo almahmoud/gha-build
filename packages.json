@@ -11125,7 +11125,6 @@
         "knitr",
         "lifecycle",
         "openssl",
-        "skmeans",
         "stringr",
         "vctrs"
     ],
@@ -69610,7 +69609,6 @@
         "vctrs"
     ],
     "biwt": [],
-    "skmeans": [],
     "eulerr": [],
     "cobs": [
         "MatrixModels",
