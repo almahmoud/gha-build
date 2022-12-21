@@ -35673,7 +35673,6 @@
         "Matrix",
         "doParallel",
         "foreach",
-        "mco",
         "nsga2R",
         "survival"
     ],
@@ -100611,10 +100610,7 @@
     "yeastExpData": [
         "graph"
     ],
-    "nsga2R": [
-        "mco"
-    ],
-    "mco": [],
+    "nsga2R": [],
     "GA": [
         "foreach"
     ],
