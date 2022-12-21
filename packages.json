@@ -87776,7 +87776,6 @@
         "Matrix",
         "MatrixGenerics",
         "RcppCCTZ",
-        "RcppDate",
         "RcppSpdlog",
         "S4Vectors",
         "bit64",
@@ -108554,7 +108553,6 @@
     ],
     "tiledb": [
         "RcppCCTZ",
-        "RcppDate",
         "RcppSpdlog",
         "bit64",
         "nanotime",
@@ -108563,7 +108561,6 @@
     ],
     "nanotime": [
         "RcppCCTZ",
-        "RcppDate",
         "bit64",
         "zoo"
     ],
@@ -108572,7 +108569,6 @@
     ],
     "RcppSpdlog": [],
     "RcppCCTZ": [],
-    "RcppDate": [],
     "FreqProf": [
         "Matrix",
         "bslib",
