@@ -31710,7 +31710,6 @@
         "Biobase",
         "BiocParallel",
         "Biostrings",
-        "GWASExactHW",
         "GWASTools",
         "GenomeInfoDb",
         "GenomeInfoDbData",
@@ -36183,7 +36182,6 @@
     ],
     "GWASTools": [
         "Biobase",
-        "GWASExactHW",
         "Matrix",
         "MatrixModels",
         "RSQLite",
@@ -36224,7 +36222,6 @@
         "BiocParallel",
         "Biostrings",
         "DelayedArray",
-        "GWASExactHW",
         "GWASTools",
         "GenomeInfoDb",
         "GenomeInfoDbData",
@@ -44398,7 +44395,6 @@
         "Biobase",
         "Biostrings",
         "DelayedArray",
-        "GWASExactHW",
         "GWASTools",
         "GenomeInfoDb",
         "GenomeInfoDbData",
@@ -76426,7 +76422,6 @@
     "SeqVarTools": [
         "Biobase",
         "Biostrings",
-        "GWASExactHW",
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "GenomicRanges",
@@ -88726,7 +88721,6 @@
         "DelayedArray",
         "DelayedDataFrame",
         "GDSArray",
-        "GWASExactHW",
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "GenomicRanges",
@@ -100203,7 +100197,6 @@
         "Matrix",
         "survival"
     ],
-    "GWASExactHW": [],
     "logistf": [
         "Matrix",
         "broom",
