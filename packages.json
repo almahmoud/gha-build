@@ -10054,7 +10054,6 @@
         "quantreg",
         "qvalue",
         "radiant.data",
-        "randomizr",
         "rappdirs",
         "reactome.db",
         "readr",
@@ -157953,7 +157952,6 @@
         "psych",
         "purrr",
         "quantreg",
-        "randomizr",
         "rappdirs",
         "readr",
         "readxl",
@@ -158310,7 +158308,6 @@
         "withr",
         "xtable"
     ],
-    "randomizr": [],
     "ggraph": [
         "MASS",
         "Matrix",
