@@ -57469,9 +57469,7 @@
         "withr",
         "xtable"
     ],
-    "ibh": [
-        "simpIntLists"
-    ],
+    "ibh": [],
     "iBMQ": [
         "Biobase",
         "MASS",
@@ -153587,7 +153585,6 @@
         "withr"
     ],
     "additivityTests": [],
-    "simpIntLists": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "AnnotationDbi",
         "BH",
