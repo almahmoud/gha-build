@@ -51388,7 +51388,6 @@
     ],
     "qckitfastq": [
         "Matrix",
-        "RSeqAn",
         "dplyr",
         "ggplot2",
         "lifecycle",
@@ -56751,7 +56750,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "RSeqAn": [],
     "Rsubread": [
         "Matrix"
     ],
