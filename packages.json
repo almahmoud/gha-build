@@ -146760,7 +146760,6 @@
         "curl",
         "dplyr",
         "ellipsis",
-        "ensurer",
         "fansi",
         "fastmap",
         "generics",
@@ -183096,7 +183095,6 @@
         "viridisLite",
         "withr"
     ],
-    "ensurer": [],
     "bestNormalize": [
         "KernSmooth",
         "LambertW",
