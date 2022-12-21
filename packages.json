@@ -63714,7 +63714,6 @@
         "withr"
     ],
     "ppcseq": [
-        "HDInterval",
         "Matrix",
         "RColorBrewer",
         "RcppEigen",
@@ -105842,7 +105841,6 @@
         "gsl"
     ],
     "tidybayes": [
-        "HDInterval",
         "Matrix",
         "RColorBrewer",
         "arrayhelpers",
@@ -105872,7 +105870,6 @@
         "withr"
     ],
     "ggdist": [
-        "HDInterval",
         "Matrix",
         "RColorBrewer",
         "distributional",
@@ -105917,7 +105914,6 @@
         "withr"
     ],
     "svUnit": [],
-    "HDInterval": [],
     "distributional": [
         "Matrix",
         "RColorBrewer",
