@@ -55584,7 +55584,6 @@
         "sys",
         "vctrs"
     ],
-    "NTW": [],
     "nucleoSim": [
         "IRanges",
         "S4Vectors"
