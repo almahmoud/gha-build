@@ -99932,7 +99932,6 @@
         "bdsmatrix",
         "coda",
         "codetools",
-        "dgof",
         "emdbook",
         "formatR",
         "futile.logger",
@@ -139196,7 +139195,6 @@
     "glmpca": [
         "MASS"
     ],
-    "dgof": [],
     "nnTensor": [
         "MASS",
         "Matrix",
