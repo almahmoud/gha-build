@@ -56247,7 +56247,6 @@
         "lifecycle",
         "ontologyPlot",
         "openssl",
-        "paintmap",
         "pillar",
         "pkgconfig",
         "plogr",
@@ -60258,7 +60257,6 @@
         "ontoProc",
         "ontologyPlot",
         "openssl",
-        "paintmap",
         "pillar",
         "pkgconfig",
         "plogr",
@@ -82222,7 +82220,6 @@
         "ontologyPlot",
         "openssl",
         "org.Mm.eg.db",
-        "paintmap",
         "pillar",
         "pkgconfig",
         "plogr",
@@ -99751,10 +99748,8 @@
     ],
     "ontologyPlot": [
         "Rgraphviz",
-        "graph",
-        "paintmap"
+        "graph"
     ],
-    "paintmap": [],
     "AICcmodavg": [
         "Matrix",
         "RcppEigen",
