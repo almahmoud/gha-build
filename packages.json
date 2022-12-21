@@ -54636,7 +54636,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "SQUADD": [],
     "sRACIPE": [
         "DelayedArray",
         "GenomeInfoDb",
