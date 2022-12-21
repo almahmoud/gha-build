@@ -11616,7 +11616,6 @@
         "formatR",
         "futile.logger",
         "gamlss",
-        "gamlss.data",
         "gamlss.dist",
         "generics",
         "ggplot2",
@@ -30419,7 +30418,6 @@
         "formatR",
         "futile.logger",
         "gamlss",
-        "gamlss.data",
         "gamlss.dist",
         "generics",
         "lambda.r",
@@ -55437,7 +55435,6 @@
         "future",
         "future.apply",
         "gamlss",
-        "gamlss.data",
         "gamlss.dist",
         "generics",
         "ggbeeswarm",
@@ -103707,7 +103704,6 @@
         "formatR",
         "futile.logger",
         "gamlss",
-        "gamlss.data",
         "gamlss.dist",
         "glmnet",
         "iterators",
@@ -132745,7 +132741,6 @@
     "gamlss": [
         "MASS",
         "Matrix",
-        "gamlss.data",
         "gamlss.dist",
         "nlme",
         "survival"
@@ -132753,7 +132748,6 @@
     "gamlss.dist": [
         "MASS"
     ],
-    "gamlss.data": [],
     "earth": [
         "TeachingDemos",
         "plotmo",
