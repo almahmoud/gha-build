@@ -1,31 +1,31 @@
 # Summary
 
-390 built packages
+393 built packages
 
 13 failed packages
 
-3407 unclaimed packages
+3404 unclaimed packages
 
 
 
 ## Failed (13)
 | Package                                                                                           | Status   | BBS Status        | Log                                                                                        | Known Error                                                                                                                                                                                        |
 |---------------------------------------------------------------------------------------------------|----------|-------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [EntropyExplorer](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362921346) | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/1dfe5f6/lists/failed/EntropyExplorer) | [CRAN Package 'EntropyExplorer'](https://cran.r-project.org/web/packages/EntropyExplorer/index.html) archived. Extracted text: Archived on 2022-05-24 as email to the maintainer is undeliverable. |
-| [GenKern](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362917318)         | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/1dfe5f6/lists/failed/GenKern)         | [CRAN Package 'GenKern'](https://cran.r-project.org/web/packages/GenKern/index.html) archived. Extracted text: Archived on 2022-05-23 as check issues were not corrected despite reminders.        |
-| [GenomicTools](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362919065)    | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/1dfe5f6/lists/failed/GenomicTools)    | [CRAN Package 'GenomicTools'](https://cran.r-project.org/web/packages/GenomicTools/index.html) archived. Extracted text: Archived on 2022-10-09 as requires archived package 'gMWT'.               |
-| [ReorderCluster](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362918658)  | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/1dfe5f6/lists/failed/ReorderCluster)  | [CRAN Package 'ReorderCluster'](https://cran.r-project.org/web/packages/ReorderCluster/index.html) archived. Extracted text: Archived on 2022-12-09 as issues were not corrected in time.          |
-| [Rmagic](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362977469)          | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/1dfe5f6/lists/failed/Rmagic)          | [CRAN Package 'Rmagic'](https://cran.r-project.org/web/packages/Rmagic/index.html) archived. Extracted text: Archived on 2022-10-07 as email to the maintainer is undeliverable.                   |
-| [SPARQL](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362917051)          | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/1dfe5f6/lists/failed/SPARQL)          | [CRAN Package 'SPARQL'](https://cran.r-project.org/web/packages/SPARQL/index.html) archived. Extracted text: Archived on 2022-05-23 as email to the maintainer is undeliverable.                   |
-| [kmlShape](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362975112)        | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/1dfe5f6/lists/failed/kmlShape)        | [CRAN Package 'kmlShape'](https://cran.r-project.org/web/packages/kmlShape/index.html) archived. Extracted text: Archived on 2022-12-19 as issues were not corrected despite reminders.            |
-| [mGSZ](https://github.com/almahmoud/gha-build/actions/runs/3747083661/jobs/6363052384)            | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/1dfe5f6/lists/failed/mGSZ)            | [CRAN Package 'mGSZ'](https://cran.r-project.org/web/packages/mGSZ/index.html) archived. Extracted text: Archived on 2022-05-23 as check issues were not corrected despite reminders.              |
-| [mppa](https://github.com/almahmoud/gha-build/actions/runs/3747083661/jobs/6363048569)            | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/1dfe5f6/lists/failed/mppa)            | [CRAN Package 'mppa'](https://cran.r-project.org/web/packages/mppa/index.html) archived. Extracted text: Archived on 2022-06-24 as check problems were not corrected despite reminders.            |
-| [propr](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362920298)           | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/1dfe5f6/lists/failed/propr)           | [CRAN Package 'propr'](https://cran.r-project.org/web/packages/propr/index.html) archived. Extracted text: Archived on 2022-11-10 as issues were not corrected in time.                            |
-| [sampSurf](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362977137)        | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/1dfe5f6/lists/failed/sampSurf)        | [CRAN Package 'sampSurf'](https://cran.r-project.org/web/packages/sampSurf/index.html) archived. Extracted text: Archived on 2022-05-17 as email to the maintainer is undeliverable.               |
-| [spp](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362921861)             | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/1dfe5f6/lists/failed/spp)             | [CRAN Package 'spp'](https://cran.r-project.org/web/packages/spp/index.html) archived. Extracted text: Archived on 2022-11-20 as issues were not corrected despite reminders.                      |
-| [vbsr](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362978451)            | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/1dfe5f6/lists/failed/vbsr)            | [CRAN Package 'vbsr'](https://cran.r-project.org/web/packages/vbsr/index.html) archived. Extracted text: Archived on 2022-05-23 as email to the maintainer is undeliverable.                       |
+| [EntropyExplorer](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362921346) | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a563eeb/lists/failed/EntropyExplorer) | [CRAN Package 'EntropyExplorer'](https://cran.r-project.org/web/packages/EntropyExplorer/index.html) archived. Extracted text: Archived on 2022-05-24 as email to the maintainer is undeliverable. |
+| [GenKern](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362917318)         | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a563eeb/lists/failed/GenKern)         | [CRAN Package 'GenKern'](https://cran.r-project.org/web/packages/GenKern/index.html) archived. Extracted text: Archived on 2022-05-23 as check issues were not corrected despite reminders.        |
+| [GenomicTools](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362919065)    | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a563eeb/lists/failed/GenomicTools)    | [CRAN Package 'GenomicTools'](https://cran.r-project.org/web/packages/GenomicTools/index.html) archived. Extracted text: Archived on 2022-10-09 as requires archived package 'gMWT'.               |
+| [ReorderCluster](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362918658)  | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a563eeb/lists/failed/ReorderCluster)  | [CRAN Package 'ReorderCluster'](https://cran.r-project.org/web/packages/ReorderCluster/index.html) archived. Extracted text: Archived on 2022-12-09 as issues were not corrected in time.          |
+| [Rmagic](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362977469)          | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a563eeb/lists/failed/Rmagic)          | [CRAN Package 'Rmagic'](https://cran.r-project.org/web/packages/Rmagic/index.html) archived. Extracted text: Archived on 2022-10-07 as email to the maintainer is undeliverable.                   |
+| [SPARQL](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362917051)          | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a563eeb/lists/failed/SPARQL)          | [CRAN Package 'SPARQL'](https://cran.r-project.org/web/packages/SPARQL/index.html) archived. Extracted text: Archived on 2022-05-23 as email to the maintainer is undeliverable.                   |
+| [kmlShape](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362975112)        | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a563eeb/lists/failed/kmlShape)        | [CRAN Package 'kmlShape'](https://cran.r-project.org/web/packages/kmlShape/index.html) archived. Extracted text: Archived on 2022-12-19 as issues were not corrected despite reminders.            |
+| [mGSZ](https://github.com/almahmoud/gha-build/actions/runs/3747083661/jobs/6363052384)            | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a563eeb/lists/failed/mGSZ)            | [CRAN Package 'mGSZ'](https://cran.r-project.org/web/packages/mGSZ/index.html) archived. Extracted text: Archived on 2022-05-23 as check issues were not corrected despite reminders.              |
+| [mppa](https://github.com/almahmoud/gha-build/actions/runs/3747083661/jobs/6363048569)            | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a563eeb/lists/failed/mppa)            | [CRAN Package 'mppa'](https://cran.r-project.org/web/packages/mppa/index.html) archived. Extracted text: Archived on 2022-06-24 as check problems were not corrected despite reminders.            |
+| [propr](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362920298)           | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a563eeb/lists/failed/propr)           | [CRAN Package 'propr'](https://cran.r-project.org/web/packages/propr/index.html) archived. Extracted text: Archived on 2022-11-10 as issues were not corrected in time.                            |
+| [sampSurf](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362977137)        | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a563eeb/lists/failed/sampSurf)        | [CRAN Package 'sampSurf'](https://cran.r-project.org/web/packages/sampSurf/index.html) archived. Extracted text: Archived on 2022-05-17 as email to the maintainer is undeliverable.               |
+| [spp](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362921861)             | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a563eeb/lists/failed/spp)             | [CRAN Package 'spp'](https://cran.r-project.org/web/packages/spp/index.html) archived. Extracted text: Archived on 2022-11-20 as issues were not corrected despite reminders.                      |
+| [vbsr](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362978451)            | Failed   | N/A: CRAN Package | [Build Log](https://github.com/almahmoud/gha-build/blob/a563eeb/lists/failed/vbsr)            | [CRAN Package 'vbsr'](https://cran.r-project.org/web/packages/vbsr/index.html) archived. Extracted text: Archived on 2022-05-23 as email to the maintainer is undeliverable.                       |
 
-## Unclaimed (3407)
+## Unclaimed (3404)
 | Package                                                                                              | Status    | Tarball   |
 |------------------------------------------------------------------------------------------------------|-----------|-----------|
 | a4                                                                                                   | Unclaimed |           |
@@ -1181,7 +1181,6 @@
 | MIMOSA                                                                                               | Unclaimed |           |
 | mina                                                                                                 | Unclaimed |           |
 | MineICA                                                                                              | Unclaimed |           |
-| minet                                                                                                | Unclaimed |           |
 | minfi                                                                                                | Unclaimed |           |
 | MinimumDistance                                                                                      | Unclaimed |           |
 | MiPP                                                                                                 | Unclaimed |           |
@@ -1727,7 +1726,7 @@
 | satuRn                                                                                               | Unclaimed |           |
 | savR                                                                                                 | Unclaimed |           |
 | SBGNview                                                                                             | Unclaimed |           |
-| SBMLR                                                                                                | Unclaimed |           |
+| [SBMLR](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                              | Unclaimed |           |
 | SC3                                                                                                  | Unclaimed |           |
 | Scale4C                                                                                              | Unclaimed |           |
 | ScaledMatrix                                                                                         | Unclaimed |           |
@@ -2325,7 +2324,7 @@
 | ragg                                                                                                 | Unclaimed |           |
 | [RcppAnnoy](https://github.com/almahmoud/gha-build/actions/runs/3747159396/jobs/6363275432)          | Unclaimed |           |
 | dqrng                                                                                                | Unclaimed |           |
-| sitmo                                                                                                | Unclaimed |           |
+| [sitmo](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                              | Unclaimed |           |
 | systemfonts                                                                                          | Unclaimed |           |
 | textshaping                                                                                          | Unclaimed |           |
 | zCompositions                                                                                        | Unclaimed |           |
@@ -2336,10 +2335,10 @@
 | shinydashboard                                                                                       | Unclaimed |           |
 | seqinr                                                                                               | Unclaimed |           |
 | segmented                                                                                            | Unclaimed |           |
-| optimx                                                                                               | Unclaimed |           |
+| [optimx](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                             | Unclaimed |           |
 | expm                                                                                                 | Unclaimed |           |
 | igraph                                                                                               | Unclaimed |           |
-| signal                                                                                               | Unclaimed |           |
+| [signal](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                             | Unclaimed |           |
 | readxl                                                                                               | Unclaimed |           |
 | speaq                                                                                                | Unclaimed |           |
 | [pcaPP](https://github.com/almahmoud/gha-build/actions/runs/3747159396/jobs/6363279939)              | Unclaimed |           |
@@ -2351,7 +2350,7 @@
 | [itertools](https://github.com/almahmoud/gha-build/actions/runs/3747238726/jobs/6363279933)          | Unclaimed |           |
 | doRNG                                                                                                | Unclaimed |           |
 | RSpectra                                                                                             | Unclaimed |           |
-| rngtools                                                                                             | Unclaimed |           |
+| [rngtools](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                           | Unclaimed |           |
 | curatedTCGAData                                                                                      | Unclaimed |           |
 | readr                                                                                                | Unclaimed |           |
 | vroom                                                                                                | Unclaimed |           |
@@ -2393,7 +2392,7 @@
 | gridSVG                                                                                              | Unclaimed |           |
 | reticulate                                                                                           | Unclaimed |           |
 | fBasics                                                                                              | Unclaimed |           |
-| stable                                                                                               | Unclaimed |           |
+| [stable](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                             | Unclaimed |           |
 | statip                                                                                               | Unclaimed |           |
 | clock                                                                                                | Unclaimed |           |
 | hardhat                                                                                              | Unclaimed |           |
@@ -2406,7 +2405,7 @@
 | prodlim                                                                                              | Unclaimed |           |
 | timechange                                                                                           | Unclaimed |           |
 | lava                                                                                                 | Unclaimed |           |
-| progressr                                                                                            | Unclaimed |           |
+| [progressr](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                          | Unclaimed |           |
 | SQUAREM                                                                                              | Unclaimed |           |
 | [RMySQL](https://github.com/almahmoud/gha-build/actions/runs/3747238726/jobs/6363281884)             | Unclaimed |           |
 | rapiclient                                                                                           | Unclaimed |           |
@@ -2453,9 +2452,8 @@
 | urltools                                                                                             | Unclaimed |           |
 | httpcode                                                                                             | Unclaimed |           |
 | [triebeard](https://github.com/almahmoud/gha-build/actions/runs/3747238726)                          | Unclaimed |           |
-| sampling                                                                                             | Unclaimed |           |
+| [sampling](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                           | Unclaimed |           |
 | rJava                                                                                                | Unclaimed |           |
-| sendmailR                                                                                            | Unclaimed |           |
 | FDb.InfiniumMethylation.hg19                                                                         | Unclaimed |           |
 | base64                                                                                               | Unclaimed |           |
 | nor1mix                                                                                              | Unclaimed |           |
@@ -2482,7 +2480,7 @@
 | NMF                                                                                                  | Unclaimed |           |
 | ggalluvial                                                                                           | Unclaimed |           |
 | TxDb.Hsapiens.UCSC.hg38.knownGene                                                                    | Unclaimed |           |
-| TFMPvalue                                                                                            | Unclaimed |           |
+| [TFMPvalue](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                          | Unclaimed |           |
 | dtplyr                                                                                               | Unclaimed |           |
 | googledrive                                                                                          | Unclaimed |           |
 | googlesheets4                                                                                        | Unclaimed |           |
@@ -2528,7 +2526,7 @@
 | pkgbuild                                                                                             | Unclaimed |           |
 | prettydoc                                                                                            | Unclaimed |           |
 | raster                                                                                               | Unclaimed |           |
-| terra                                                                                                | Unclaimed |           |
+| [terra](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                              | Unclaimed |           |
 | BSgenome.Ecoli.NCBI.20080805                                                                         | Unclaimed |           |
 | ggExtra                                                                                              | Unclaimed |           |
 | colourpicker                                                                                         | Unclaimed |           |
@@ -2729,7 +2727,7 @@
 | [cba](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                                | Unclaimed |           |
 | [dtw](https://github.com/almahmoud/gha-build/actions/runs/3747238726/jobs/6363286262)                | Unclaimed |           |
 | EnvStats                                                                                             | Unclaimed |           |
-| maptree                                                                                              | Unclaimed |           |
+| [maptree](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                            | Unclaimed |           |
 | topicmodels                                                                                          | Unclaimed |           |
 | maptpx                                                                                               | Unclaimed |           |
 | tm                                                                                                   | Unclaimed |           |
@@ -2800,7 +2798,7 @@
 | rncl                                                                                                 | Unclaimed |           |
 | RNeXML                                                                                               | Unclaimed |           |
 | benchmarkmeData                                                                                      | Unclaimed |           |
-| princurve                                                                                            | Unclaimed |           |
+| [princurve](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                          | Unclaimed |           |
 | bezier                                                                                               | Unclaimed |           |
 | [brglm](https://github.com/almahmoud/gha-build/actions/runs/3747238726/jobs/6363279289)              | Unclaimed |           |
 | [splitstackshape](https://github.com/almahmoud/gha-build/actions/runs/3747159396/jobs/6363275902)    | Unclaimed |           |
@@ -3073,7 +3071,7 @@
 | argparse                                                                                             | Unclaimed |           |
 | depmixS4                                                                                             | Unclaimed |           |
 | [flock](https://github.com/almahmoud/gha-build/actions/runs/3747238726/jobs/6363285517)              | Unclaimed |           |
-| Rsolnp                                                                                               | Unclaimed |           |
+| [Rsolnp](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                             | Unclaimed |           |
 | golem                                                                                                | Unclaimed |           |
 | shinyalert                                                                                           | Unclaimed |           |
 | wordcloud2                                                                                           | Unclaimed |           |
@@ -3097,7 +3095,7 @@
 | learnr                                                                                               | Unclaimed |           |
 | renv                                                                                                 | Unclaimed |           |
 | akima                                                                                                | Unclaimed |           |
-| irr                                                                                                  | Unclaimed |           |
+| [irr](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                                | Unclaimed |           |
 | scam                                                                                                 | Unclaimed |           |
 | LogicReg                                                                                             | Unclaimed |           |
 | LymphoSeqDB                                                                                          | Unclaimed |           |
@@ -3128,7 +3126,6 @@
 | PairedData                                                                                           | Unclaimed |           |
 | mCSEAdata                                                                                            | Unclaimed |           |
 | SmartSVA                                                                                             | Unclaimed |           |
-| svDialogs                                                                                            | Unclaimed |           |
 | EnsDb.Hsapiens.v75                                                                                   | Unclaimed |           |
 | rmdformats                                                                                           | Unclaimed |           |
 | sesameData                                                                                           | Unclaimed |           |
@@ -3137,7 +3134,7 @@
 | methylclockData                                                                                      | Unclaimed |           |
 | PerformanceAnalytics                                                                                 | Unclaimed |           |
 | rebus                                                                                                | Unclaimed |           |
-| rebus.datetimes                                                                                      | Unclaimed |           |
+| [rebus.datetimes](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                    | Unclaimed |           |
 | [rebus.numbers](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                      | Unclaimed |           |
 | [rebus.unicode](https://github.com/almahmoud/gha-build/actions/runs/3747159396/jobs/6363279645)      | Unclaimed |           |
 | [mhsmm](https://github.com/almahmoud/gha-build/actions/runs/3747159396/jobs/6363282130)              | Unclaimed |           |
@@ -3260,7 +3257,7 @@
 | C50                                                                                                  | Unclaimed |           |
 | Cubist                                                                                               | Unclaimed |           |
 | [intrinsicDimension](https://github.com/almahmoud/gha-build/actions/runs/3747238726/jobs/6363282504) | Unclaimed |           |
-| strawr                                                                                               | Unclaimed |           |
+| [strawr](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                             | Unclaimed |           |
 | logspline                                                                                            | Unclaimed |           |
 | evmix                                                                                                | Unclaimed |           |
 | tidybayes                                                                                            | Unclaimed |           |
@@ -3436,7 +3433,7 @@
 | eva                                                                                                  | Unclaimed |           |
 | Rmisc                                                                                                | Unclaimed |           |
 
-## Succeeded (390)
+## Succeeded (393)
 | Package                                                                                                       | Status    | Tarball                                                                                                                                                                                             |
 |---------------------------------------------------------------------------------------------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [acde](https://github.com/almahmoud/gha-build/actions/runs/3747159396/jobs/6363277080)                        | Succeeded | [/__w/gha-build/gha-build/acde.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/acde.tar.gz)                                               |
@@ -3481,6 +3478,7 @@
 | [MBAmethyl](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362923874)                   | Succeeded | [/__w/gha-build/gha-build/MBAmethyl.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/MBAmethyl.tar.gz)                                     |
 | [MeasurementError.cor](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362914618)        | Succeeded | [/__w/gha-build/gha-build/MeasurementError.cor.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/MeasurementError.cor.tar.gz)               |
 | [metaCCA](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362978379)                     | Succeeded | [/__w/gha-build/gha-build/metaCCA.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/metaCCA.tar.gz)                                         |
+| [minet](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                                       | Succeeded | [/__w/gha-build/gha-build/minet.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/minet.tar.gz)                                             |
 | [miRNApath](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362918300)                   | Succeeded | [/__w/gha-build/gha-build/miRNApath.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/miRNApath.tar.gz)                                     |
 | [MultiMed](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362917357)                    | Succeeded | [/__w/gha-build/gha-build/MultiMed.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/MultiMed.tar.gz)                                       |
 | [occugene](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362917628)                    | Succeeded | [/__w/gha-build/gha-build/occugene.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/occugene.tar.gz)                                       |
@@ -3613,6 +3611,7 @@
 | [tensor](https://github.com/almahmoud/gha-build/actions/runs/3747121763/jobs/6363123156)                      | Succeeded | [/__w/gha-build/gha-build/tensor.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/tensor.tar.gz)                                           |
 | [zip](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362977763)                         | Succeeded | [/__w/gha-build/gha-build/zip.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/zip.tar.gz)                                                 |
 | [svMisc](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362918114)                      | Succeeded | [/__w/gha-build/gha-build/svMisc.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/svMisc.tar.gz)                                           |
+| [sendmailR](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                                   | Succeeded | [/__w/gha-build/gha-build/sendmailR.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/sendmailR.tar.gz)                                     |
 | [nleqslv](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362918894)                     | Succeeded | [/__w/gha-build/gha-build/nleqslv.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/nleqslv.tar.gz)                                         |
 | [beanplot](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362916575)                    | Succeeded | [/__w/gha-build/gha-build/beanplot.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/beanplot.tar.gz)                                       |
 | [gridBase](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362978940)                    | Succeeded | [/__w/gha-build/gha-build/gridBase.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/gridBase.tar.gz)                                       |
@@ -3779,6 +3778,7 @@
 | [mcbiopi](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362923638)                     | Succeeded | [/__w/gha-build/gha-build/mcbiopi.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/mcbiopi.tar.gz)                                         |
 | [LowMACAAnnotation](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362919409)           | Succeeded | [/__w/gha-build/gha-build/LowMACAAnnotation.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/LowMACAAnnotation.tar.gz)                     |
 | [parmigene](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362918814)                   | Succeeded | [/__w/gha-build/gha-build/parmigene.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/parmigene.tar.gz)                                     |
+| [svDialogs](https://github.com/almahmoud/gha-build/actions/runs/3747240859)                                   | Succeeded | [/__w/gha-build/gha-build/svDialogs.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/svDialogs.tar.gz)                                     |
 | [svGUI](https://github.com/almahmoud/gha-build/actions/runs/3747054734/jobs/6362975870)                       | Succeeded | [/__w/gha-build/gha-build/svGUI.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/svGUI.tar.gz)                                             |
 | [rebus.base](https://github.com/almahmoud/gha-build/actions/runs/3747051335/jobs/6362917504)                  | Succeeded | [/__w/gha-build/gha-build/rebus.base.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/rebus.base.tar.gz)                                   |
 | [stabs](https://github.com/almahmoud/gha-build/actions/runs/3747052778/jobs/6362920757)                       | Succeeded | [/__w/gha-build/gha-build/stabs.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-20-15-47//__w/gha-build/gha-build/stabs.tar.gz)                                             |
