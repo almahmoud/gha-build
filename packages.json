@@ -6568,7 +6568,6 @@
         "nlme",
         "nloptr",
         "openssl",
-        "optextras",
         "optimr",
         "osqp",
         "patchwork",
@@ -114430,7 +114429,6 @@
         "multtest",
         "munsell",
         "nlme",
-        "optextras",
         "optimr",
         "permute",
         "phyloseq",
@@ -114476,8 +114474,7 @@
     ],
     "optimr": [
         "Rcgmin",
-        "Rvmmin",
-        "optextras"
+        "Rvmmin"
     ],
     "detectseparation": [
         "ROI",
@@ -114514,13 +114511,8 @@
         "slam"
     ],
     "lpSolveAPI": [],
-    "optextras": [],
-    "Rvmmin": [
-        "optextras"
-    ],
-    "Rcgmin": [
-        "optextras"
-    ],
+    "Rvmmin": [],
+    "Rcgmin": [],
     "mitools": [],
     "slam": [],
     "sjmisc": [
