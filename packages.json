@@ -34980,7 +34980,6 @@
         "qvcalc",
         "rappdirs",
         "registry",
-        "relimp",
         "reshape2",
         "rlang",
         "rmarkdown",
@@ -151394,18 +151393,15 @@
         "Matrix",
         "gnm",
         "nnet",
-        "qvcalc",
-        "relimp"
+        "qvcalc"
     ],
     "gnm": [
         "MASS",
         "Matrix",
         "nnet",
-        "qvcalc",
-        "relimp"
+        "qvcalc"
     ],
     "qvcalc": [],
-    "relimp": [],
     "fastDummies": [
         "data.table",
         "glue",
