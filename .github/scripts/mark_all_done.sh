@@ -7,6 +7,7 @@ AFTER=$(cat packages.json | wc -l)
 until [ $ORIGINAL = $AFTER ];
 do
 	ORIGINAL=$AFTER
+	## OLD
 	rclone ls js2:/gha-build/container | grep "tar" | awk '{print $2}' > /tmp/tars
 	cat /tmp/tars | awk -F'_' '{print $1}' | xargs -i bash .github/scripts/mark_done.sh {}
 

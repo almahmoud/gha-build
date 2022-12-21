@@ -111,16 +111,14 @@ jobs:
           shell: bash
           command: |
             set -x
-            mkdir -p /tmp/logs/run_ids/container
-            echo "${{ steps.jobs.outputs.html_url }}" >> /tmp/logs/run_ids/rstudio-binaries/${{ matrix.pkg }}
             git config --global --add safe.directory "$GITHUB_WORKSPACE"
             git pull origin main || git reset --hard origin/main
             git config user.name github-actions
             git config user.email github-actions@github.com
-            mkdir -p logs/run_ids/container
             PKG="${{ matrix.pkg }}"
             sed -i 's/claimed/building/g' "lists/$PKG"
-            cat /tmp/logs/run_ids/rstudio-binaries/$PKG >> logs/run_ids/rstudio-binaries/$PKG
+            mkdir -p logs/run_ids/rstudio-binaries
+            echo "${{ steps.jobs.outputs.html_url }}" >> logs/run_ids/rstudio-binaries/$PKG
             # Add workflow URL as backup, in case above failed
             echo "${{ github.repository }}/actions/runs/${{ github.run_id }}" >> logs/run_ids/rstudio-binaries/$PKG
             git add logs

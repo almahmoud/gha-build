@@ -13,6 +13,7 @@ for pkg in list(pkgs):
     runurl = ""
     status = "Unclaimed"
     tarname = ""
+    tartext = ""
     plog = ""
     if exists(f"logs/run_ids/rstudio-binaries/{pkg}"):
         with open(f"logs/run_ids/rstudio-binaries/{pkg}", "r") as frun:
@@ -47,7 +48,9 @@ for pkg in list(pkgs):
         if not tartext:
             tartext = tarname
         tartext = f"[{tartext}](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/{tarname})"
-    tables[status].append([name, status, tartext])\
+    if not tartext:
+        tartext = tarname
+    tables[status].append([name, status, tartext])
 
 for each in tables["Failed"]:
     logurl = each[2]
