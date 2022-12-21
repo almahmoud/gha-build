@@ -3313,7 +3313,6 @@
         "LIM",
         "Rgraphviz",
         "hyperdraw",
-        "rsbml",
         "stringr",
         "vctrs"
     ],
@@ -41780,7 +41779,6 @@
         "IRanges",
         "XVector"
     ],
-    "rsbml": [],
     "rScudo": [
         "DelayedArray",
         "GenomeInfoDb",
