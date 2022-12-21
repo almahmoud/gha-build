@@ -14521,7 +14521,6 @@
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "GenomicRanges",
-        "GenomicTools",
         "GenomicTools.fileHandler",
         "HDO.db",
         "IRanges",
@@ -121078,7 +121077,6 @@
         "purrr",
         "vctrs"
     ],
-    "GenomicTools": [],
     "GenomicTools.fileHandler": [
         "BiocGenerics",
         "Matrix",
