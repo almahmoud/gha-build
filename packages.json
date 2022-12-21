@@ -6587,7 +6587,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "sjlabelled",
         "sjmisc",
         "stringi",
         "stringr",
@@ -112839,13 +112838,11 @@
         "pillar",
         "pkgconfig",
         "purrr",
-        "sjlabelled",
         "tibble",
         "tidyselect",
         "vctrs",
         "withr"
     ],
-    "sjlabelled": [],
     "poibin": [],
     "LIM": [
         "diagram",
