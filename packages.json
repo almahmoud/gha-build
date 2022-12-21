@@ -2218,7 +2218,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "BAGS": [],
     "ballgown": [
         "AnnotationDbi",
         "BiocIO",
