@@ -350,7 +350,6 @@
         "PFAM.db",
         "RSQLite",
         "ReportingTools",
-        "Rgraphviz",
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -485,7 +484,6 @@
         "PFAM.db",
         "RSQLite",
         "ReportingTools",
-        "Rgraphviz",
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -1400,7 +1398,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "Rgraphviz",
         "XVector",
         "blob",
         "httr",
@@ -2253,7 +2250,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "Rgraphviz",
         "XVector",
         "annotate",
         "blob",
@@ -3271,7 +3267,6 @@
     ],
     "BiGGR": [
         "LIM",
-        "Rgraphviz",
         "hyperdraw",
         "stringr",
         "vctrs"
@@ -3614,7 +3609,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "Rgraphviz",
         "XVector",
         "annotate",
         "blob",
@@ -3645,7 +3639,6 @@
         "MatrixModels",
         "MultiAssayExperiment",
         "RSQLite",
-        "Rgraphviz",
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
@@ -4090,9 +4083,7 @@
         "viridis",
         "xlsx"
     ],
-    "BioMVCClass": [
-        "Rgraphviz"
-    ],
+    "BioMVCClass": [],
     "biomvRCNS": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -4272,7 +4263,6 @@
         "KEGGREST",
         "KEGGgraph",
         "RSQLite",
-        "Rgraphviz",
         "XVector",
         "blob",
         "bslib",
@@ -4624,7 +4614,6 @@
         "PADOG",
         "ROntoTools",
         "RSQLite",
-        "Rgraphviz",
         "XVector",
         "blob",
         "hgu133a.db",
@@ -4720,7 +4709,6 @@
         "KEGGREST",
         "Linnorm",
         "RSQLite",
-        "Rgraphviz",
         "XVector",
         "affy",
         "annotate",
@@ -5865,7 +5853,6 @@
         "KEGGREST",
         "RCy3",
         "RSQLite",
-        "Rgraphviz",
         "XVector",
         "annotate",
         "blob",
@@ -6443,7 +6430,6 @@
         "viridis"
     ],
     "CellNOptR": [
-        "Rgraphviz",
         "bslib",
         "ggplot2",
         "igraph",
@@ -7109,7 +7095,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "Rgraphviz",
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -8124,7 +8109,6 @@
         "KEGGREST",
         "KEGGgraph",
         "RSQLite",
-        "Rgraphviz",
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
@@ -8463,7 +8447,6 @@
     ],
     "CNORdt": [
         "CellNOptR",
-        "Rgraphviz",
         "bslib",
         "ggplot2",
         "igraph",
@@ -8478,7 +8461,6 @@
     ],
     "CNORfeeder": [
         "CellNOptR",
-        "Rgraphviz",
         "bslib",
         "ggplot2",
         "igraph",
@@ -8493,7 +8475,6 @@
     ],
     "CNORfuzzy": [
         "CellNOptR",
-        "Rgraphviz",
         "bslib",
         "ggplot2",
         "igraph",
@@ -8512,7 +8493,6 @@
     ],
     "CNORode": [
         "CellNOptR",
-        "Rgraphviz",
         "bslib",
         "ggplot2",
         "igraph",
@@ -9540,7 +9520,6 @@
         "EBImage",
         "Hmisc",
         "MatrixModels",
-        "Rgraphviz",
         "TH.data",
         "bslib",
         "changepoint",
@@ -11000,7 +10979,6 @@
         "IRanges",
         "MatrixModels",
         "RFOC",
-        "Rgraphviz",
         "broom",
         "car",
         "cowplot",
@@ -11275,7 +11253,6 @@
     "CytoML": [
         "DelayedArray",
         "IRanges",
-        "Rgraphviz",
         "dplyr",
         "flowClust",
         "flowCore",
@@ -11612,7 +11589,6 @@
         "Linnorm",
         "MatrixModels",
         "RSQLite",
-        "Rgraphviz",
         "TFisher",
         "TH.data",
         "XVector",
@@ -11697,7 +11673,6 @@
         "IRanges",
         "MatrixModels",
         "RFOC",
-        "Rgraphviz",
         "broom",
         "car",
         "dplyr",
@@ -11790,7 +11765,6 @@
         "KEGGgraph",
         "RSQLite",
         "RcppNumerical",
-        "Rgraphviz",
         "SummarizedExperiment",
         "XVector",
         "annotate",
@@ -12247,7 +12221,6 @@
         "KEGGgraph",
         "NCIgraph",
         "RCy3",
-        "Rgraphviz",
         "httr",
         "openssl",
         "pillar",
@@ -14358,7 +14331,6 @@
         "MatrixModels",
         "PADOG",
         "RSQLite",
-        "Rgraphviz",
         "ScaledMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -14650,7 +14622,6 @@
         "KEGGREST",
         "KEGGgraph",
         "RSQLite",
-        "Rgraphviz",
         "SPIA",
         "SummarizedExperiment",
         "XVector",
@@ -15328,7 +15299,6 @@
     "epiNEM": [
         "BoolNet",
         "Linnorm",
-        "Rgraphviz",
         "fpc",
         "ggdendro",
         "ggm",
@@ -16747,7 +16717,6 @@
     "fgga": [
         "BiocFileCache",
         "RSQLite",
-        "Rgraphviz",
         "blob",
         "dbplyr",
         "dplyr",
@@ -17043,9 +17012,7 @@
         "vctrs",
         "vegan"
     ],
-    "flowCL": [
-        "Rgraphviz"
-    ],
+    "flowCL": [],
     "flowClean": [
         "changepoint",
         "flowCore"
@@ -17060,7 +17027,6 @@
         "IRanges",
         "MatrixModels",
         "RFOC",
-        "Rgraphviz",
         "broom",
         "car",
         "dplyr",
@@ -17103,7 +17069,6 @@
         "IRanges",
         "MatrixModels",
         "RFOC",
-        "Rgraphviz",
         "broom",
         "car",
         "dplyr",
@@ -17176,7 +17141,6 @@
         "mgcv"
     ],
     "flowMerge": [
-        "Rgraphviz",
         "feature",
         "flowClust",
         "flowCore",
@@ -17262,7 +17226,6 @@
     "flowStats": [
         "DelayedArray",
         "IRanges",
-        "Rgraphviz",
         "dplyr",
         "fda",
         "fds",
@@ -17306,7 +17269,6 @@
     "flowVS": [
         "DelayedArray",
         "IRanges",
-        "Rgraphviz",
         "dplyr",
         "fda",
         "fds",
@@ -17331,7 +17293,6 @@
     "flowWorkspace": [
         "DelayedArray",
         "IRanges",
-        "Rgraphviz",
         "dplyr",
         "flowCore",
         "ggplot2",
@@ -17969,7 +17930,6 @@
         "KEGGgraph",
         "MatrixModels",
         "RSQLite",
-        "Rgraphviz",
         "SummarizedExperiment",
         "XVector",
         "annotate",
@@ -18340,7 +18300,6 @@
         "vctrs"
     ],
     "GeneNetworkBuilder": [
-        "Rgraphviz",
         "bslib",
         "htmlwidgets",
         "knitr",
@@ -19457,7 +19416,6 @@
     "ggcyto": [
         "DelayedArray",
         "IRanges",
-        "Rgraphviz",
         "dplyr",
         "flowCore",
         "flowWorkspace",
@@ -19891,7 +19849,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "Rgraphviz",
         "WGCNA",
         "XVector",
         "annotate",
@@ -20241,7 +20198,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "Rgraphviz",
         "XVector",
         "annotate",
         "blob",
@@ -20591,7 +20547,6 @@
         "KEGGdzPathwaysGEO",
         "KEGGgraph",
         "RSQLite",
-        "Rgraphviz",
         "SPIA",
         "SummarizedExperiment",
         "XVector",
@@ -21874,9 +21829,7 @@
         "visNetwork",
         "webshot"
     ],
-    "hyperdraw": [
-        "Rgraphviz"
-    ],
+    "hyperdraw": [],
     "iasva": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -22112,7 +22065,6 @@
         "KEGGREST",
         "NMF",
         "RSQLite",
-        "Rgraphviz",
         "Rsamtools",
         "SummarizedExperiment",
         "UpSetR",
@@ -22478,7 +22430,6 @@
     "ImmuneSpaceR": [
         "DelayedArray",
         "IRanges",
-        "Rgraphviz",
         "Rlabkey",
         "bslib",
         "dendextend",
@@ -23903,9 +23854,7 @@
         "IRanges",
         "XVector"
     ],
-    "KEGGgraph": [
-        "Rgraphviz"
-    ],
+    "KEGGgraph": [],
     "KEGGlincs": [
         "AnnotationDbi",
         "Biostrings",
@@ -23914,7 +23863,6 @@
         "KEGGREST",
         "KEGGgraph",
         "RSQLite",
-        "Rgraphviz",
         "XVector",
         "blob",
         "hgu133a.db",
@@ -25117,7 +25065,6 @@
         "KEGGREST",
         "KEGGgraph",
         "RSQLite",
-        "Rgraphviz",
         "XVector",
         "ape",
         "aplot",
@@ -26107,7 +26054,6 @@
     "MEIGOR": [
         "CNORode",
         "CellNOptR",
-        "Rgraphviz",
         "bslib",
         "ggplot2",
         "igraph",
@@ -26455,7 +26401,6 @@
         "MWASTools",
         "MatrixModels",
         "RSQLite",
-        "Rgraphviz",
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
@@ -28313,7 +28258,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "Rgraphviz",
         "XVector",
         "annotate",
         "blob",
@@ -28455,7 +28399,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "Rgraphviz",
         "Rsamtools",
         "SummarizedExperiment",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -28645,7 +28588,6 @@
         "KEGGgraph",
         "ROntoTools",
         "RSQLite",
-        "Rgraphviz",
         "XVector",
         "blob",
         "ggplot2",
@@ -28675,7 +28617,6 @@
         "InvariantCausalPrediction",
         "KEGGREST",
         "RSQLite",
-        "Rgraphviz",
         "SummarizedExperiment",
         "TCGAbiolinks",
         "XVector",
@@ -28786,7 +28727,6 @@
         "RSQLite",
         "RSpectra",
         "ReactomePA",
-        "Rgraphviz",
         "SOMbrero",
         "SPONGE",
         "SummarizedExperiment",
@@ -28928,7 +28868,6 @@
         "MetBrewer",
         "RSQLite",
         "ReactomePA",
-        "Rgraphviz",
         "SPONGE",
         "XVector",
         "ape",
@@ -29430,7 +29369,6 @@
     ],
     "mnem": [
         "Linnorm",
-        "Rgraphviz",
         "fpc",
         "ggdendro",
         "ggplot2",
@@ -31405,7 +31343,6 @@
         "KEGGREST",
         "KEGGgraph",
         "MatrixModels",
-        "Rgraphviz",
         "SummarizedExperiment",
         "XVector",
         "broom",
@@ -31558,7 +31495,6 @@
         "KEGGREST",
         "MatrixModels",
         "RSQLite",
-        "Rgraphviz",
         "Rsamtools",
         "SummarizedExperiment",
         "TFBSTools",
@@ -31862,7 +31798,6 @@
         "IRkernel",
         "KEGGgraph",
         "RCy3",
-        "Rgraphviz",
         "httr",
         "openssl",
         "pillar",
@@ -31990,7 +31925,6 @@
     "nempi": [
         "BoolNet",
         "Linnorm",
-        "Rgraphviz",
         "epiNEM",
         "fpc",
         "ggdendro",
@@ -32187,7 +32121,6 @@
         "KEGGREST",
         "RSQLite",
         "RandomWalkRestartMH",
-        "Rgraphviz",
         "XVector",
         "ape",
         "blob",
@@ -32233,7 +32166,6 @@
     ],
     "netresponse": [
         "BiocStyle",
-        "Rgraphviz",
         "bookdown",
         "bslib",
         "ggplot2",
@@ -32378,7 +32310,6 @@
         "KEGGREST",
         "RCy3",
         "RSQLite",
-        "Rgraphviz",
         "Rsamtools",
         "STRINGdb",
         "SummarizedExperiment",
@@ -33481,7 +33412,6 @@
     ],
     "OncoSimulR": [
         "MatrixModels",
-        "Rgraphviz",
         "broom",
         "car",
         "dplyr",
@@ -33547,7 +33477,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "Rgraphviz",
         "SummarizedExperiment",
         "XVector",
         "blob",
@@ -33573,7 +33502,6 @@
     "openCyto": [
         "DelayedArray",
         "IRanges",
-        "Rgraphviz",
         "dplyr",
         "flowClust",
         "flowCore",
@@ -34236,9 +34164,7 @@
         "vctrs",
         "waldo"
     ],
-    "paircompviz": [
-        "Rgraphviz"
-    ],
+    "paircompviz": [],
     "pairkat": [
         "Biostrings",
         "DelayedArray",
@@ -34529,7 +34455,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "Rgraphviz",
         "XVector",
         "blob",
         "httr",
@@ -34552,7 +34477,6 @@
         "KEGGREST",
         "KEGGgraph",
         "RSQLite",
-        "Rgraphviz",
         "XVector",
         "blob",
         "httr",
@@ -34594,7 +34518,6 @@
         "KEGGREST",
         "NMF",
         "RSQLite",
-        "Rgraphviz",
         "SummarizedExperiment",
         "XVector",
         "annotate",
@@ -34779,7 +34702,6 @@
         "ComplexHeatmap",
         "DelayedArray",
         "IRanges",
-        "Rgraphviz",
         "dplyr",
         "flowCore",
         "flowWorkspace",
@@ -34964,7 +34886,6 @@
         "KEGGREST",
         "KEGGgraph",
         "RSQLite",
-        "Rgraphviz",
         "XVector",
         "ape",
         "aplot",
@@ -35390,7 +35311,6 @@
         "GenomicRanges",
         "IRanges",
         "ROCR",
-        "Rgraphviz",
         "XVector",
         "ape",
         "caret",
@@ -35480,7 +35400,6 @@
         "KEGGREST",
         "RSQLite",
         "ReactomePA",
-        "Rgraphviz",
         "WGCNA",
         "XVector",
         "ape",
@@ -35725,7 +35644,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "Rgraphviz",
         "XVector",
         "annotate",
         "blob",
@@ -35906,7 +35824,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "Rgraphviz",
         "SummarizedExperiment",
         "XVector",
         "blob",
@@ -37560,7 +37477,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "Rgraphviz",
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
@@ -38130,7 +38046,6 @@
         "vctrs"
     ],
     "RandomWalkRestartMH": [
-        "Rgraphviz",
         "ape",
         "dnet",
         "dplyr",
@@ -39301,7 +39216,6 @@
         "OrganismDbi",
         "PFAM.db",
         "RSQLite",
-        "Rgraphviz",
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -39640,7 +39554,6 @@
         "vctrs"
     ],
     "RGraph2js": [],
-    "Rgraphviz": [],
     "rGREAT": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -40826,7 +40739,6 @@
         "MatrixModels",
         "PerformanceAnalytics",
         "RSQLite",
-        "Rgraphviz",
         "Rsamtools",
         "ShortRead",
         "SummarizedExperiment",
@@ -41106,7 +41018,6 @@
         "IRanges",
         "KEGGREST",
         "KEGGgraph",
-        "Rgraphviz",
         "XVector",
         "httr",
         "openssl"
@@ -41782,7 +41693,6 @@
     ],
     "RVS": [
         "GENLIB",
-        "Rgraphviz",
         "broom",
         "dplyr",
         "gRain",
@@ -41955,7 +41865,6 @@
         "KEGGREST",
         "KEGGgraph",
         "RSQLite",
-        "Rgraphviz",
         "SBGNview.data",
         "SummarizedExperiment",
         "XVector",
@@ -43568,7 +43477,6 @@
         "ROCR",
         "RSQLite",
         "ReactomePA",
-        "Rgraphviz",
         "Seurat",
         "SeuratObject",
         "SingleCellExperiment",
@@ -46471,8 +46379,7 @@
     ],
     "SPEM": [],
     "SPIA": [
-        "KEGGgraph",
-        "Rgraphviz"
+        "KEGGgraph"
     ],
     "SPIAT": [
         "BiocFileCache",
@@ -46753,7 +46660,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "Rgraphviz",
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
@@ -46853,7 +46759,6 @@
         "MatrixModels",
         "MetBrewer",
         "RSQLite",
-        "Rgraphviz",
         "XVector",
         "biomaRt",
         "blob",
@@ -48776,7 +48681,6 @@
         "MatrixModels",
         "MultiAssayExperiment",
         "RSQLite",
-        "Rgraphviz",
         "Rsamtools",
         "SummarizedExperiment",
         "TCGAbiolinks",
@@ -48941,9 +48845,7 @@
         "tibble",
         "vctrs"
     ],
-    "TDARACNE": [
-        "Rgraphviz"
-    ],
+    "TDARACNE": [],
     "TEKRABber": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -49011,7 +48913,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "Rgraphviz",
         "SummarizedExperiment",
         "XVector",
         "bigrquery",
@@ -49936,7 +49837,6 @@
         "InteractionSet",
         "KEGGREST",
         "RSQLite",
-        "Rgraphviz",
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -50635,7 +50535,6 @@
         "vctrs"
     ],
     "TRONCO": [
-        "Rgraphviz",
         "igraph",
         "scales"
     ],
@@ -52562,7 +52461,6 @@
         "KEGGREST",
         "KEGGgraph",
         "RSQLite",
-        "Rgraphviz",
         "SPIA",
         "SummarizedExperiment",
         "XVector",
@@ -56138,7 +56036,6 @@
         "vctrs"
     ],
     "gRbase": [
-        "Rgraphviz",
         "igraph"
     ],
     "phylobase": [
@@ -57512,7 +57409,6 @@
         "viridis"
     ],
     "gRain": [
-        "Rgraphviz",
         "broom",
         "dplyr",
         "gRbase",
@@ -58647,7 +58543,6 @@
         "survival"
     ],
     "dnet": [
-        "Rgraphviz",
         "ape",
         "dplyr",
         "hms",
@@ -58842,9 +58737,7 @@
         "httr",
         "openssl"
     ],
-    "ontologyPlot": [
-        "Rgraphviz"
-    ],
+    "ontologyPlot": [],
     "AICcmodavg": [
         "TMB",
         "lme4",
