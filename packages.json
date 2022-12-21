@@ -18811,7 +18811,6 @@
         "brglm",
         "doParallel",
         "foreach",
-        "profileModel",
         "splitstackshape"
     ],
     "CNViz": [
@@ -38784,7 +38783,6 @@
         "praise",
         "princurve",
         "processx",
-        "profileModel",
         "ps",
         "psych",
         "purrr",
@@ -125167,11 +125165,8 @@
     ],
     "princurve": [],
     "bezier": [],
-    "brglm": [
-        "profileModel"
-    ],
+    "brglm": [],
     "splitstackshape": [],
-    "profileModel": [],
     "hash": [],
     "kohonen": [],
     "biwt": [
@@ -128086,7 +128081,6 @@
         "nlme",
         "permute",
         "princurve",
-        "profileModel",
         "vegan"
     ],
     "DataVisualizations": [
