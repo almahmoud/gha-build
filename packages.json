@@ -2132,7 +2132,6 @@
         "vsn"
     ],
     "banocc": [
-        "StanHeaders",
         "ggplot2",
         "pillar",
         "rstan",
@@ -2242,7 +2241,6 @@
         "HDF5Array",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "StanHeaders",
         "SummarizedExperiment",
         "XVector",
         "beachmat",
@@ -18397,7 +18395,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
-        "StanHeaders",
         "SummarizedExperiment",
         "XVector",
         "ggplot2",
@@ -20459,7 +20456,6 @@
     ],
     "M3Drop": [
         "Hmisc",
-        "StanHeaders",
         "densEstBayes",
         "ggplot2",
         "htmlTable",
@@ -29759,7 +29755,6 @@
         "tibble"
     ],
     "ppcseq": [
-        "StanHeaders",
         "benchmarkme",
         "benchmarkmeData",
         "distributional",
@@ -32913,7 +32908,6 @@
         "KEGGREST",
         "RSQLite",
         "Rsamtools",
-        "StanHeaders",
         "SummarizedExperiment",
         "XVector",
         "annotate",
@@ -35148,7 +35142,6 @@
         "GenomicRanges",
         "SeuratObject",
         "SingleCellExperiment",
-        "StanHeaders",
         "SummarizedExperiment",
         "XVector",
         "dplyr",
@@ -35487,7 +35480,6 @@
         "M3Drop",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "StanHeaders",
         "SummarizedExperiment",
         "XVector",
         "beachmat",
@@ -35513,7 +35505,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
-        "StanHeaders",
         "SummarizedExperiment",
         "XVector",
         "bookdown",
@@ -37350,7 +37341,6 @@
         "SingleCellExperiment",
         "SingleR",
         "SoupX",
-        "StanHeaders",
         "SummarizedExperiment",
         "TENxPBMCData",
         "TFisher",
@@ -44829,13 +44819,11 @@
         "stringr"
     ],
     "rstan": [
-        "StanHeaders",
         "ggplot2",
         "pillar",
         "scales",
         "tibble"
     ],
-    "StanHeaders": [],
     "prettydoc": [
         "knitr",
         "rmarkdown",
@@ -47482,7 +47470,6 @@
     "scam": [],
     "LogicReg": [],
     "reldist": [
-        "StanHeaders",
         "densEstBayes",
         "ggplot2",
         "pillar",
@@ -47491,7 +47478,6 @@
         "tibble"
     ],
     "densEstBayes": [
-        "StanHeaders",
         "ggplot2",
         "pillar",
         "rstan",
