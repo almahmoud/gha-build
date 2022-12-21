@@ -86642,7 +86642,6 @@
         "plogr",
         "plotly",
         "plyr",
-        "poorman",
         "praise",
         "prettyunits",
         "processx",
@@ -93851,7 +93850,6 @@
         "pillar",
         "pkgconfig",
         "plogr",
-        "poorman",
         "prettyunits",
         "progress",
         "purrr",
@@ -110344,7 +110342,6 @@
         "pkgconfig",
         "plogr",
         "plotly",
-        "poorman",
         "prettyunits",
         "progress",
         "promises",
@@ -136148,7 +136145,6 @@
         "pillar",
         "pkgconfig",
         "plogr",
-        "poorman",
         "prettyunits",
         "progress",
         "purrr",
@@ -166102,8 +166098,7 @@
     ],
     "philentropy": [
         "KernSmooth",
-        "Rcpp",
-        "poorman"
+        "Rcpp"
     ],
     "shinyjqui": [
         "R6",
@@ -166144,7 +166139,6 @@
         "xtable",
         "yaml"
     ],
-    "poorman": [],
     "grImport": [
         "XML"
     ],
@@ -167047,7 +167041,6 @@
         "pillar",
         "pkgconfig",
         "plogr",
-        "poorman",
         "prettyunits",
         "progress",
         "purrr",
