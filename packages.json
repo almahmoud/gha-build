@@ -89329,7 +89329,6 @@
         "yaml",
         "zlibbioc"
     ],
-    "NuPoP": [],
     "NxtIRFcore": [
         "AnnotationDbi",
         "AnnotationHub",
