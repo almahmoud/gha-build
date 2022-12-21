@@ -33029,7 +33029,6 @@
         "ellipsis",
         "evaluate",
         "fansi",
-        "filehash",
         "foreach",
         "formatR",
         "fs",
@@ -158082,7 +158081,6 @@
         "xfun",
         "yaml"
     ],
-    "filehash": [],
     "CatEncoders": [
         "Matrix",
         "lattice"
