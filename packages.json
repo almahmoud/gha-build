@@ -6706,8 +6706,7 @@
     ],
     "BAGS": [
         "Biobase",
-        "BiocGenerics",
-        "breastCancerVDX"
+        "BiocGenerics"
     ],
     "ballgown": [
         "AnnotationDbi",
@@ -152318,7 +152317,6 @@
         "yaml"
     ],
     "microbenchmark": [],
-    "breastCancerVDX": [],
     "xgboost": [
         "Matrix",
         "jsonlite",
