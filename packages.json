@@ -10072,7 +10072,6 @@
         "restfulr",
         "rtracklayer",
         "scales",
-        "som",
         "sparseMatrixStats",
         "stringi",
         "stringr",
@@ -14206,7 +14205,6 @@
         "magrittr",
         "pillar",
         "pkgconfig",
-        "som",
         "stringi",
         "stringr",
         "tibble",
@@ -45120,7 +45118,6 @@
         "robustbase",
         "rprojroot",
         "scales",
-        "som",
         "statmod",
         "stringi",
         "stringr",
@@ -45238,7 +45235,6 @@
         "rprojroot",
         "sass",
         "scales",
-        "som",
         "statmod",
         "stringi",
         "stringr",
@@ -53250,7 +53246,6 @@
         "robustbase",
         "rprojroot",
         "scales",
-        "som",
         "statmod",
         "stringi",
         "stringr",
@@ -101317,7 +101312,6 @@
         "vctrs",
         "xfun"
     ],
-    "som": [],
     "BMA": [
         "DEoptimR",
         "Matrix",
@@ -106485,8 +106479,7 @@
         "DEoptimR",
         "class",
         "e1071",
-        "robustbase",
-        "som"
+        "robustbase"
     ],
     "glmmTMB": [
         "Matrix",
