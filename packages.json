@@ -11996,8 +11996,7 @@
         "waldo"
     ],
     "cycle": [
-        "Mfuzz",
-        "tkWidgets"
+        "Mfuzz"
     ],
     "cydar": [
         "BiocNeighbors",
@@ -30118,9 +30117,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "Mfuzz": [
-        "tkWidgets"
-    ],
+    "Mfuzz": [],
     "MGFM": [
         "AnnotationDbi",
         "Biostrings",
@@ -35875,8 +35872,7 @@
     ],
     "OLIN": [],
     "OLINgui": [
-        "OLIN",
-        "tkWidgets"
+        "OLIN"
     ],
     "omada": [
         "NMF",
@@ -53746,7 +53742,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tkWidgets",
         "treeio",
         "tweenr",
         "vctrs",
@@ -53851,7 +53846,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "tkWidgets": [],
     "tLOH": [
         "AnnotationDbi",
         "BSgenome",
