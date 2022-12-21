@@ -53015,7 +53015,6 @@
         "XVector",
         "bench",
         "bslib",
-        "celestial",
         "checkmate",
         "cowplot",
         "crosstalk",
@@ -57532,7 +57531,6 @@
         "XVector",
         "bench",
         "bslib",
-        "celestial",
         "checkmate",
         "cowplot",
         "crosstalk",
@@ -79204,7 +79202,6 @@
         "XVector",
         "bench",
         "bslib",
-        "celestial",
         "checkmate",
         "circlize",
         "cowplot",
@@ -89914,10 +89911,7 @@
         "webutils"
     ],
     "webutils": [],
-    "magicaxis": [
-        "celestial"
-    ],
-    "celestial": [],
+    "magicaxis": [],
     "PMCMRplus": [
         "Rmpfr"
     ],
