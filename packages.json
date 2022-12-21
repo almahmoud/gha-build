@@ -12543,7 +12543,6 @@
         "gtable",
         "irlba",
         "isoband",
-        "kSamples",
         "lifecycle",
         "magrittr",
         "mgcv",
@@ -68453,7 +68452,6 @@
         "igraph",
         "isoband",
         "jsonlite",
-        "kSamples",
         "knitr",
         "later",
         "lazyeval",
@@ -87287,7 +87285,6 @@
         "igraph",
         "isoband",
         "jsonlite",
-        "kSamples",
         "kknn",
         "km.ci",
         "knitr",
@@ -102239,7 +102236,6 @@
         "interp",
         "isoband",
         "jsonlite",
-        "kSamples",
         "knitr",
         "latticeExtra",
         "lazyeval",
@@ -109231,7 +109227,6 @@
     "magic": [
         "abind"
     ],
-    "kSamples": [],
     "dtw": [],
     "EnvStats": [
         "Matrix",
@@ -116926,8 +116921,7 @@
     ],
     "celestial": [],
     "PMCMRplus": [
-        "Rmpfr",
-        "kSamples"
+        "Rmpfr"
     ],
     "SmoothWin": [
         "nlme"
