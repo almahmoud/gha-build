@@ -4000,7 +4000,6 @@
         "zoo"
     ],
     "bayNorm": [
-        "BB",
         "Biobase",
         "BiocParallel",
         "DelayedArray",
@@ -12407,7 +12406,6 @@
         "viridis"
     ],
     "combi": [
-        "BB",
         "Biobase",
         "Biostrings",
         "DelayedArray",
@@ -75039,7 +75037,6 @@
         "sandwich",
         "zoo"
     ],
-    "BB": [],
     "rjags": [
         "coda"
     ],
