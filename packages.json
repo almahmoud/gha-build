@@ -2693,7 +2693,6 @@
     ],
     "BiGGR": [
         "LIM",
-        "hyperdraw",
         "stringr"
     ],
     "bigmelon": [
@@ -18153,7 +18152,6 @@
         "visNetwork",
         "webshot"
     ],
-    "hyperdraw": [],
     "iasva": [
         "DelayedArray",
         "GenomeInfoDb",
