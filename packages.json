@@ -73446,7 +73446,6 @@
         "mime",
         "multtest",
         "openssl",
-        "parmigene",
         "pixmap",
         "pkgconfig",
         "plogr",
@@ -80360,7 +80359,6 @@
         "mnormt",
         "munsell",
         "nlme",
-        "parmigene",
         "pillar",
         "pkgconfig",
         "plyr",
@@ -85984,7 +85982,6 @@
         "munsell",
         "nlme",
         "openssl",
-        "parmigene",
         "patchwork",
         "pillar",
         "pkgconfig",
@@ -171729,7 +171726,6 @@
         "proxy",
         "sp"
     ],
-    "parmigene": [],
     "LungCancerACvsSCCGEO": [],
     "venn": [
         "admisc"
