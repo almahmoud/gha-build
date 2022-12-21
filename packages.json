@@ -619,7 +619,6 @@
         "IRanges",
         "KEGGREST",
         "Matrix",
-        "OrgMassSpecR",
         "ProtGenerics",
         "RCurl",
         "RSQLite",
@@ -136477,7 +136476,6 @@
         "yaml",
         "zlibbioc"
     ],
-    "OrgMassSpecR": [],
     "ade4": [
         "lattice",
         "pixmap",
