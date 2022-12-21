@@ -58184,7 +58184,6 @@
         "lattice",
         "lifecycle",
         "memoise",
-        "mhsmm",
         "mime",
         "openssl",
         "pkgconfig",
@@ -125295,7 +125294,6 @@
     "rebus.datetimes": [],
     "rebus.numbers": [],
     "rebus.unicode": [],
-    "mhsmm": [],
     "GeneNet": [
         "fdrtool"
     ],
