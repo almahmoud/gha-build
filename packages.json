@@ -35653,7 +35653,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "genoCN": [],
     "genomation": [
         "BSgenome",
         "Biobase",
