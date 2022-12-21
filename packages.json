@@ -57733,7 +57733,6 @@
         "segmented",
         "seqinr"
     ],
-    "ssize": [],
     "sSNAPPY": [
         "AnnotationDbi",
         "Biobase",
