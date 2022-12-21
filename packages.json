@@ -41165,7 +41165,6 @@
         "callr",
         "cli",
         "cpp11",
-        "cvar",
         "desc",
         "diffobj",
         "fBasics",
@@ -117354,13 +117353,11 @@
     "Iso": [],
     "fGarch": [
         "Matrix",
-        "cvar",
         "fBasics",
         "lattice",
         "timeDate",
         "timeSeries"
     ],
-    "cvar": [],
     "KEGGandMetacoreDzPathwaysGEO": [
         "Biobase",
         "BiocGenerics"
