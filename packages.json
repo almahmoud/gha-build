@@ -82788,7 +82788,6 @@
         "vctrs",
         "zlibbioc"
     ],
-    "miRBaseConverter": [],
     "miRcomp": [
         "Biobase",
         "BiocGenerics",
@@ -83377,7 +83376,6 @@
         "memoise",
         "metR",
         "mgcv",
-        "miRBaseConverter",
         "miRspongeR",
         "minqa",
         "modelr",
@@ -83661,7 +83659,6 @@
         "matrixStats",
         "memoise",
         "mgcv",
-        "miRBaseConverter",
         "minqa",
         "modelr",
         "munsell",
@@ -135612,7 +135609,6 @@
         "matrixStats",
         "memoise",
         "mgcv",
-        "miRBaseConverter",
         "minqa",
         "modelr",
         "munsell",
