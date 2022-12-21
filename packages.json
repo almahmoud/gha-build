@@ -31589,7 +31589,6 @@
     "rcellminer": [
         "ggplot2",
         "pillar",
-        "rcellminerData",
         "scales",
         "shiny",
         "stringr",
@@ -48501,7 +48500,6 @@
         "tibble",
         "tidyselect"
     ],
-    "rcellminerData": [],
     "arrow": [
         "tidyselect"
     ],
