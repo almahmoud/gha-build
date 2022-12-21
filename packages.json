@@ -21937,7 +21937,6 @@
         "scales",
         "selectr",
         "slam",
-        "stopwords",
         "stringi",
         "stringr",
         "sys",
@@ -34519,7 +34518,6 @@
         "scales",
         "selectr",
         "slam",
-        "stopwords",
         "stringi",
         "stringr",
         "sys",
@@ -92111,7 +92109,6 @@
         "sass",
         "scales",
         "slam",
-        "stopwords",
         "stringi",
         "stringr",
         "syuzhet",
@@ -93020,7 +93017,6 @@
         "sitmo",
         "slam",
         "sparseMatrixStats",
-        "stopwords",
         "stringi",
         "stringr",
         "sys",
@@ -93992,7 +93988,6 @@
         "scico",
         "shiny",
         "slam",
-        "stopwords",
         "stringi",
         "stringr",
         "sys",
@@ -104231,7 +104226,6 @@
         "qdapRegex",
         "quanteda",
         "slam",
-        "stopwords",
         "stringi",
         "syuzhet",
         "textclean",
@@ -104243,7 +104237,6 @@
         "withr",
         "zoo"
     ],
-    "stopwords": [],
     "data.tree": [
         "stringi"
     ],
@@ -104282,7 +104275,6 @@
     "quanteda": [
         "Matrix",
         "magrittr",
-        "stopwords",
         "stringi"
     ],
     "textclean": [
