@@ -2330,8 +2330,7 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "BayesSpace": [
         "BiocFileCache",
@@ -6323,8 +6322,7 @@
         "umap",
         "uwot",
         "viridis",
-        "waiter",
-        "webshot"
+        "waiter"
     ],
     "chromstaR": [
         "Biostrings",
@@ -9781,8 +9779,7 @@
         "tidytree",
         "treeio",
         "tweenr",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "DECIPHER": [
         "Biostrings",
@@ -10101,8 +10098,7 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "DEGraph": [
         "IRdisplay",
@@ -10918,8 +10914,7 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "distinct": [
         "BiocNeighbors",
@@ -13119,8 +13114,7 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "webshot"
+        "tidyselect"
     ],
     "EventPointer": [
         "AnnotationDbi",
@@ -14467,8 +14461,7 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "frenchFISH": [
         "MCMCpack",
@@ -15934,8 +15927,7 @@
         "umap",
         "viridis",
         "vroom",
-        "waldo",
-        "webshot"
+        "waldo"
     ],
     "GEOfastq": [
         "httr",
@@ -18111,8 +18103,7 @@
         "tibble",
         "tidyselect",
         "tweenr",
-        "visNetwork",
-        "webshot"
+        "visNetwork"
     ],
     "iasva": [
         "DelayedArray",
@@ -18353,8 +18344,7 @@
         "tidyr",
         "tidyselect",
         "topGO",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "IdeoViz": [
         "Biostrings",
@@ -18632,8 +18622,7 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "immunoClust": [
         "flowCore"
@@ -18913,8 +18902,7 @@
         "selectr",
         "shiny",
         "stringr",
-        "tibble",
-        "webshot"
+        "tibble"
     ],
     "interactiveDisplay": [
         "AnnotationDbi",
@@ -22187,8 +22175,7 @@
         "tidyr",
         "tidyselect",
         "viridis",
-        "vsn",
-        "webshot"
+        "vsn"
     ],
     "metavizr": [
         "AnnotationDbi",
@@ -23205,8 +23192,7 @@
         "vegan",
         "viridis",
         "vroom",
-        "waldo",
-        "webshot"
+        "waldo"
     ],
     "microbiomeMarker": [
         "ALDEx2",
@@ -23424,8 +23410,7 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "webshot"
+        "tidyselect"
     ],
     "MIGSA": [
         "AnnotationDbi",
@@ -27569,7 +27554,6 @@
         "tidyselect",
         "viridis",
         "waldo",
-        "webshot",
         "xts"
     ],
     "omicsPrint": [
@@ -27754,8 +27738,7 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "webshot"
+        "tidyselect"
     ],
     "onlineFDR": [
         "hms",
@@ -28209,8 +28192,7 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "OVESEG": [
         "DelayedArray",
@@ -28563,8 +28545,7 @@
         "tidyselect",
         "usethis",
         "vegan",
-        "waldo",
-        "webshot"
+        "waldo"
     ],
     "pathRender": [
         "AnnotationDbi",
@@ -28658,8 +28639,7 @@
         "tidyr",
         "tidyselect",
         "topGO",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "PCAtools": [
         "BiocSingular",
@@ -30464,7 +30444,6 @@
         "tidyr",
         "tidyselect",
         "vsn",
-        "webshot",
         "xts"
     ],
     "proteasy": [
@@ -30618,8 +30597,7 @@
         "viridis",
         "vroom",
         "vsn",
-        "waldo",
-        "webshot"
+        "waldo"
     ],
     "psichomics": [
         "AnnotationDbi",
@@ -31036,8 +31014,7 @@
         "tidyselect",
         "vcd",
         "viridis",
-        "waldo",
-        "webshot"
+        "waldo"
     ],
     "qpcrNorm": [
         "affy"
@@ -35457,8 +35434,7 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyselect",
-        "webshot"
+        "tidyselect"
     ],
     "scMAGeCK": [
         "Seurat",
@@ -36049,8 +36025,7 @@
         "tweenr",
         "uwot",
         "viridis",
-        "visNetwork",
-        "webshot"
+        "visNetwork"
     ],
     "scTGIF": [
         "AnnotationDbi",
@@ -36745,8 +36720,7 @@
         "tidyr",
         "tidyselect",
         "viridis",
-        "vroom",
-        "webshot"
+        "vroom"
     ],
     "shinyMethyl": [
         "AnnotationDbi",
@@ -38599,8 +38573,7 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "SplicingFactory": [
         "DelayedArray",
@@ -42760,8 +42733,7 @@
         "topGO",
         "viridis",
         "visNetwork",
-        "vroom",
-        "webshot"
+        "vroom"
     ],
     "vissE": [
         "AnnotationDbi",
@@ -44937,11 +44909,9 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "seriation": [],
-    "webshot": [],
     "egg": [
         "ggplot2",
         "pillar",
@@ -46184,8 +46154,7 @@
         "scales",
         "selectr",
         "stringr",
-        "tibble",
-        "webshot"
+        "tibble"
     ],
     "gggenes": [
         "ggfittext",
@@ -47237,8 +47206,7 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "viridis",
-        "webshot"
+        "viridis"
     ],
     "shinybusy": [
         "htmlwidgets",
