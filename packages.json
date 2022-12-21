@@ -26406,7 +26406,6 @@
     ],
     "GOsummaries": [
         "Matrix",
-        "gProfileR",
         "ggplot2",
         "lifecycle",
         "mgcv",
@@ -75642,7 +75641,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "gProfileR": [],
     "epiR": [
         "Matrix",
         "bslib",
