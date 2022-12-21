@@ -17207,7 +17207,6 @@
         "biganalytics",
         "biglm",
         "bigmemory",
-        "bigmemory.sri",
         "bit64",
         "blob",
         "cachem",
@@ -25461,7 +25460,6 @@
         "abind",
         "backports",
         "bigmemory",
-        "bigmemory.sri",
         "brio",
         "broom",
         "bslib",
@@ -25616,7 +25614,6 @@
         "abind",
         "backports",
         "bigmemory",
-        "bigmemory.sri",
         "brio",
         "broom",
         "bslib",
@@ -65291,7 +65288,6 @@
         "biganalytics",
         "biglm",
         "bigmemory",
-        "bigmemory.sri",
         "bslib",
         "cachem",
         "checkmate",
@@ -73936,7 +73932,6 @@
         "XVector",
         "askpass",
         "bigmemory",
-        "bigmemory.sri",
         "bit64",
         "blob",
         "caTools",
@@ -130544,21 +130539,17 @@
     "timsac": [],
     "ChIPXpressData": [
         "bigmemory",
-        "bigmemory.sri",
         "uuid"
     ],
     "bigmemory": [
-        "bigmemory.sri",
         "uuid"
     ],
     "biganalytics": [
         "biglm",
         "bigmemory",
-        "bigmemory.sri",
         "foreach",
         "uuid"
     ],
-    "bigmemory.sri": [],
     "shinyhelper": [
         "bslib",
         "cachem",
@@ -132252,7 +132243,6 @@
         "RcppEigen",
         "abind",
         "bigmemory",
-        "bigmemory.sri",
         "brio",
         "callr",
         "cli",
