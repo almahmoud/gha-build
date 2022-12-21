@@ -166,8 +166,16 @@ jobs:
           # make tar of library
           cd $(dirname ${{ steps.versions.outputs.library }}) && tar -zcvf "${{ matrix.pkg }}.tar.gz" "$(basename ${{ steps.versions.outputs.library }})"
           echo name=$(echo "$(dirname ${{ steps.versions.outputs.library }})/${{ matrix.pkg }}.tar.gz") >> $GITHUB_OUTPUT
-
         if: steps.pkgbuild.outcome=='success'
+
+
+      - name: Save size and time
+        run: |
+          mkdir -p /tmp/logs/sizes/rstudio-binaries/libraries
+          mkdir -p /tmp/logs/sizes/rstudio-binaries/binaries
+          wc -c "${{steps.tar.outputs.name}}" > /tmp/logs/sizes/rstudio-binaries/libraries/$PKG
+          wc -c "/tmp/tars/${{steps.tar.outputs.pkg}}" > /tmp/logs/sizes/rstudio-binaries/binaries/$PKG
+
 
       - name: Push failed before exit
         uses: nick-fields/retry@v2
@@ -181,8 +189,6 @@ jobs:
             mkdir -p lists/failed
             mkdir -p logs/sizes/rstudio-binaries/libraries
             mkdir -p logs/sizes/rstudio-binaries/binaries
-            wc -c "${{steps.tar.outputs.name}}" > logs/sizes/rstudio-binaries/libraries/$PKG
-            wc -c "/tmp/tars/${{steps.tar.outputs.pkg}}" > logs/sizes/rstudio-binaries/binaries/$PKG
             cp /tmp/$PKG lists/failed/$PKG;
             cp -r /tmp/logs logs
             git config user.name github-actions
@@ -236,5 +242,7 @@ jobs:
             git config --global --add safe.directory "$GITHUB_WORKSPACE"
             git config user.name github-actions
             git config user.email github-actions@github.com
+            cp -r /tmp/logs logs
+            git add logs
             if bash -c "bash .github/scripts/rclone_push.sh ${{ matrix.pkg }} ${{steps.tar.outputs.pkg}} 2>&1 | grep -i 'error'"; then exit 1; else 
             echo "Marked pushed ${{ matrix.pkg }}"; fi
