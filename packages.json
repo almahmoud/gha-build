@@ -11153,7 +11153,6 @@
         "blob",
         "cachem",
         "cluster",
-        "combinat",
         "curl",
         "dbplyr",
         "digest",
@@ -12053,7 +12052,6 @@
         "circlize",
         "clue",
         "cluster",
-        "combinat",
         "curl",
         "dbscan",
         "digest",
@@ -13537,7 +13535,6 @@
         "checkmate",
         "clue",
         "cluster",
-        "combinat",
         "crosstalk",
         "curl",
         "dbplyr",
@@ -15207,7 +15204,6 @@
         "cachem",
         "checkmate",
         "cluster",
-        "combinat",
         "curl",
         "dbplyr",
         "digest",
@@ -32307,7 +32303,6 @@
         "cachem",
         "class",
         "cluster",
-        "combinat",
         "digest",
         "doParallel",
         "doRNG",
@@ -36015,7 +36010,6 @@
         "proxy"
     ],
     "GeneticsPed": [
-        "combinat",
         "gdata",
         "genetics",
         "gtools"
@@ -39729,7 +39723,6 @@
         "S4Vectors",
         "TSP",
         "XVector",
-        "combinat",
         "foreach",
         "gdata",
         "gtools",
@@ -49196,7 +49189,6 @@
         "clock",
         "clue",
         "cluster",
-        "combinat",
         "digest",
         "doParallel",
         "dplyr",
@@ -57681,7 +57673,6 @@
         "Rtsne",
         "biocViews",
         "cluster",
-        "combinat",
         "dplyr",
         "fastICA",
         "generics",
@@ -60883,7 +60874,6 @@
         "circlize",
         "clue",
         "cluster",
-        "combinat",
         "cowplot",
         "crosstalk",
         "curl",
@@ -62559,7 +62549,6 @@
         "blob",
         "caTools",
         "cachem",
-        "combinat",
         "curl",
         "dbplyr",
         "doParallel",
@@ -64347,7 +64336,6 @@
         "classInt",
         "clue",
         "cluster",
-        "combinat",
         "diceR",
         "digest",
         "diptest",
@@ -73727,7 +73715,6 @@
         "SpacePAC",
         "TSP",
         "XVector",
-        "combinat",
         "foreach",
         "gdata",
         "gtools",
@@ -88226,7 +88213,6 @@
         "clue",
         "cluster",
         "colourpicker",
-        "combinat",
         "cowplot",
         "crosstalk",
         "curl",
@@ -98653,7 +98639,6 @@
         "bslib",
         "caTools",
         "cachem",
-        "combinat",
         "digest",
         "ellipsis",
         "fastICA",
@@ -99656,7 +99641,6 @@
         "caTools",
         "class",
         "cluster",
-        "combinat",
         "diptest",
         "dplyr",
         "fastICA",
@@ -108554,7 +108538,6 @@
     "ALL": [
         "Biobase"
     ],
-    "combinat": [],
     "vcfR": [
         "Matrix",
         "ape",
@@ -108714,8 +108697,7 @@
     "MCMCprecision": [
         "Matrix",
         "RcppArmadillo",
-        "RcppEigen",
-        "combinat"
+        "RcppEigen"
     ],
     "dbscan": [],
     "multipanelfigure": [
@@ -112748,7 +112730,6 @@
         "vctrs"
     ],
     "genetics": [
-        "combinat",
         "gdata",
         "gtools"
     ],
@@ -113157,9 +113138,7 @@
     ],
     "s2": [],
     "units": [],
-    "RMallow": [
-        "combinat"
-    ],
+    "RMallow": [],
     "penalized": [
         "Matrix",
         "RcppArmadillo",
@@ -114146,7 +114125,6 @@
         "class",
         "classInt",
         "cluster",
-        "combinat",
         "digest",
         "dplyr",
         "e1071",
@@ -114198,7 +114176,6 @@
         "cachem",
         "class",
         "classInt",
-        "combinat",
         "digest",
         "dplyr",
         "e1071",
@@ -115881,7 +115858,6 @@
         "classInt",
         "clue",
         "cluster",
-        "combinat",
         "digest",
         "doParallel",
         "dplyr",
