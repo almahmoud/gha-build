@@ -65178,7 +65178,6 @@
         "marray"
     ],
     "nnSVG": [
-        "BRISC",
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
@@ -119969,7 +119968,6 @@
         "Matrix",
         "lattice"
     ],
-    "BRISC": [],
     "RcmdrMisc": [
         "Hmisc",
         "Matrix",
