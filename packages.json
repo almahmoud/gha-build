@@ -35774,7 +35774,6 @@
         "BH",
         "CatEncoders",
         "DiagrammeR",
-        "ISOcodes",
         "MASS",
         "Matrix",
         "MatrixExtra",
@@ -56329,7 +56328,6 @@
         "CatEncoders",
         "DeepPINCS",
         "DiagrammeR",
-        "ISOcodes",
         "MASS",
         "Matrix",
         "MatrixExtra",
@@ -149956,7 +149954,6 @@
     "ttgsea": [
         "BH",
         "DiagrammeR",
-        "ISOcodes",
         "MASS",
         "Matrix",
         "MatrixExtra",
@@ -151419,7 +151416,6 @@
         "GenomeInfoDbData",
         "GenomicRanges",
         "IRanges",
-        "ISOcodes",
         "MASS",
         "Matrix",
         "MatrixExtra",
@@ -153047,7 +153043,6 @@
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "IRanges",
-        "ISOcodes",
         "KEGGREST",
         "MASS",
         "Matrix",
@@ -170821,7 +170816,6 @@
         "stringi"
     ],
     "textstem": [
-        "ISOcodes",
         "Matrix",
         "NLP",
         "R6",
@@ -170872,14 +170866,11 @@
         "yaml",
         "zoo"
     ],
-    "stopwords": [
-        "ISOcodes"
-    ],
+    "stopwords": [],
     "data.tree": [
         "R6",
         "stringi"
     ],
-    "ISOcodes": [],
     "rsparse": [
         "Matrix",
         "MatrixExtra",
@@ -170942,7 +170933,6 @@
         "zoo"
     ],
     "quanteda": [
-        "ISOcodes",
         "Matrix",
         "Rcpp",
         "RcppArmadillo",
