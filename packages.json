@@ -8728,7 +8728,6 @@
         "EBImage",
         "Hmisc",
         "TH.data",
-        "changepoint",
         "contrast",
         "feature",
         "flowClust",
@@ -11322,7 +11321,6 @@
     ],
     "deltaGseg": [
         "TTR",
-        "changepoint",
         "fBasics",
         "ggplot2",
         "pillar",
@@ -15592,7 +15590,6 @@
         "viridis"
     ],
     "flowAI": [
-        "changepoint",
         "flowCore",
         "ggplot2",
         "knitr",
@@ -15652,7 +15649,6 @@
     ],
     "flowCL": [],
     "flowClean": [
-        "changepoint",
         "flowCore"
     ],
     "flowClust": [
@@ -18049,7 +18045,6 @@
         "XVector",
         "annotate",
         "blob",
-        "changepoint",
         "genefilter",
         "ggplot2",
         "htmlTable",
@@ -21903,7 +21898,6 @@
         "XVector",
         "biomaRt",
         "blob",
-        "changepoint",
         "changepoint.np",
         "dbplyr",
         "dplyr",
@@ -41669,7 +41663,6 @@
         "annotate",
         "beachmat",
         "blob",
-        "changepoint",
         "genefilter",
         "ggplot2",
         "httr",
@@ -51543,7 +51536,6 @@
         "spatstat.model",
         "spatstat.random"
     ],
-    "changepoint": [],
     "contrast": [
         "Hmisc",
         "TH.data",
@@ -52817,9 +52809,7 @@
         "oligoClasses",
         "vctrs"
     ],
-    "changepoint.np": [
-        "changepoint"
-    ],
+    "changepoint.np": [],
     "hgu95av2.db": [
         "AnnotationDbi",
         "Biostrings",
