@@ -7458,7 +7458,6 @@
         "futile.options",
         "hms",
         "httr",
-        "insight",
         "jsonlite",
         "lambda.r",
         "lattice",
@@ -67136,7 +67135,6 @@
         "ids",
         "igraph",
         "inaparc",
-        "insight",
         "interp",
         "ipred",
         "irlba",
@@ -67386,7 +67384,6 @@
         "httr",
         "ids",
         "igraph",
-        "insight",
         "ipred",
         "isoband",
         "jquerylib",
@@ -109311,7 +109308,6 @@
         "httr",
         "ids",
         "igraph",
-        "insight",
         "ipred",
         "isoband",
         "jquerylib",
@@ -128379,7 +128375,6 @@
         "datawizard",
         "dplyr",
         "fansi",
-        "insight",
         "lifecycle",
         "magrittr",
         "pillar",
@@ -128392,14 +128387,10 @@
         "withr"
     ],
     "rslurm": [],
-    "insight": [],
     "sjlabelled": [
-        "datawizard",
-        "insight"
+        "datawizard"
     ],
-    "datawizard": [
-        "insight"
-    ],
+    "datawizard": [],
     "poibin": [],
     "LIM": [
         "diagram",
@@ -139196,7 +139187,6 @@
         "groupdata2",
         "gtable",
         "hardhat",
-        "insight",
         "ipred",
         "isoband",
         "jsonlite",
@@ -139303,8 +139293,7 @@
     ],
     "parameters": [
         "bayestestR",
-        "datawizard",
-        "insight"
+        "datawizard"
     ],
     "rearrr": [
         "backports",
@@ -139324,8 +139313,7 @@
         "withr"
     ],
     "bayestestR": [
-        "datawizard",
-        "insight"
+        "datawizard"
     ],
     "ridge": [],
     "echarts4r": [
