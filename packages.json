@@ -8451,7 +8451,6 @@
         "annotate",
         "apcluster",
         "askpass",
-        "binom",
         "bit64",
         "blob",
         "bslib",
@@ -10022,8 +10021,7 @@
         "xfun"
     ],
     "cancerclass": [
-        "Biobase",
-        "binom"
+        "Biobase"
     ],
     "CancerSubtypes": [
         "ALL",
@@ -74317,8 +74315,7 @@
         "IRanges",
         "RCurl",
         "S4Vectors",
-        "XVector",
-        "binom"
+        "XVector"
     ],
     "satuRn": [
         "Biobase",
@@ -98651,7 +98648,6 @@
     "flexclust": [
         "class"
     ],
-    "binom": [],
     "BoolNet": [
         "Matrix",
         "igraph",
