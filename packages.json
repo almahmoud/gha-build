@@ -11796,7 +11796,6 @@
         "RCurl",
         "S4Vectors",
         "abind",
-        "biglm",
         "bslib",
         "cli",
         "cpp11",
@@ -15408,7 +15407,6 @@
         "affy",
         "affyio",
         "biganalytics",
-        "biglm",
         "bigmemory",
         "bit64",
         "blob",
@@ -51219,7 +51217,6 @@
         "Wrench",
         "abind",
         "backports",
-        "biglm",
         "brio",
         "broom",
         "caTools",
@@ -51329,7 +51326,6 @@
         "abind",
         "askpass",
         "backports",
-        "biglm",
         "bit64",
         "blob",
         "brio",
@@ -52750,7 +52746,6 @@
         "BiocParallel",
         "Matrix",
         "ProtGenerics",
-        "biglm",
         "cpp11",
         "futile.logger",
         "futile.options",
@@ -58498,7 +58493,6 @@
         "apcluster",
         "backports",
         "biganalytics",
-        "biglm",
         "bigmemory",
         "bslib",
         "checkmate",
@@ -60419,7 +60413,6 @@
         "Wrench",
         "abind",
         "backports",
-        "biglm",
         "brio",
         "broom",
         "caTools",
@@ -115450,7 +115443,6 @@
         "withr"
     ],
     "pinfsc50": [],
-    "biglm": [],
     "sqldf": [
         "RSQLite",
         "bit64",
@@ -116871,7 +116863,6 @@
         "uuid"
     ],
     "biganalytics": [
-        "biglm",
         "bigmemory",
         "foreach",
         "uuid"
@@ -121567,7 +121558,6 @@
     "cplm": [
         "Matrix",
         "RColorBrewer",
-        "biglm",
         "cli",
         "coda",
         "fansi",
