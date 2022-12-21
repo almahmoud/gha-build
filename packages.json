@@ -36953,7 +36953,6 @@
         "RcppEigen",
         "RecordLinkage",
         "SQUAREM",
-        "ada",
         "bit64",
         "blob",
         "class",
@@ -56923,7 +56922,6 @@
         "S4Vectors",
         "SQUAREM",
         "XVector",
-        "ada",
         "ape",
         "aplot",
         "askpass",
@@ -95484,7 +95482,6 @@
         "VariantAnnotation",
         "XVector",
         "abind",
-        "ada",
         "anytime",
         "askpass",
         "backports",
@@ -124005,7 +124002,6 @@
         "Matrix",
         "RSQLite",
         "SQUAREM",
-        "ada",
         "bit64",
         "blob",
         "class",
@@ -124027,7 +124023,6 @@
         "survival",
         "vctrs"
     ],
-    "ada": [],
     "BBmisc": [
         "backports",
         "checkmate"
