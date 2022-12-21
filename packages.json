@@ -51277,7 +51277,6 @@
         "pillar",
         "plotly",
         "polyclip",
-        "proj4",
         "promises",
         "purrr",
         "rappdirs",
@@ -153256,7 +153255,6 @@
         "openssl",
         "pillar",
         "plotly",
-        "proj4",
         "promises",
         "purrr",
         "rappdirs",
@@ -153311,7 +153309,6 @@
         "viridisLite",
         "withr"
     ],
-    "proj4": [],
     "HH": [
         "Formula",
         "Hmisc",
