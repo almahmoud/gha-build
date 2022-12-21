@@ -3036,7 +3036,6 @@
         "DOSE",
         "DT",
         "DiagrammeR",
-        "EBarrays",
         "GO.db",
         "GOSemSim",
         "GenomeInfoDb",
@@ -4893,7 +4892,6 @@
         "BiocFileCache",
         "Biostrings",
         "Category",
-        "EBarrays",
         "GSEABase",
         "GenomeInfoDb",
         "Hmisc",
@@ -5013,7 +5011,6 @@
         "BiocFileCache",
         "Biostrings",
         "DelayedArray",
-        "EBarrays",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -12376,10 +12373,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "EBarrays": [],
-    "EBcoexpress": [
-        "EBarrays"
-    ],
+    "EBcoexpress": [],
     "EBImage": [
         "htmlwidgets",
         "knitr",
@@ -15578,9 +15572,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "gaga": [
-        "EBarrays"
-    ],
+    "gaga": [],
     "gage": [
         "AnnotationDbi",
         "Biostrings",
@@ -16205,9 +16197,7 @@
         "vctrs",
         "viridis"
     ],
-    "geNetClassifier": [
-        "EBarrays"
-    ],
+    "geNetClassifier": [],
     "GeneTonic": [
         "AnnotationDbi",
         "Biostrings",
