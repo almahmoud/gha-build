@@ -96566,7 +96566,6 @@
         "rstudioapi",
         "sass",
         "scales",
-        "seq2pathway.data",
         "stringr",
         "survival",
         "tibble",
@@ -133051,7 +133050,6 @@
         "viridis",
         "viridisLite"
     ],
-    "seq2pathway.data": [],
     "cvTools": [
         "robustbase"
     ],
