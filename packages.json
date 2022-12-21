@@ -81173,7 +81173,6 @@
         "igraph",
         "princurve"
     ],
-    "SLqPCR": [],
     "SMAD": [
         "RcppAlgos",
         "dplyr",
