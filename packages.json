@@ -1112,7 +1112,6 @@
         "XVector",
         "bslib",
         "dplyr",
-        "extrafont",
         "futile.logger",
         "ggplot2",
         "ggthemes",
@@ -26200,7 +26199,6 @@
         "bslib",
         "crosstalk",
         "dplyr",
-        "extrafont",
         "ggalt",
         "ggforce",
         "ggfun",
@@ -60210,7 +60208,6 @@
         "doParallel",
         "dplyr",
         "e1071",
-        "extrafont",
         "forcats",
         "futile.logger",
         "future",
@@ -71786,7 +71783,6 @@
     ],
     "waffle": [
         "Matrix",
-        "extrafont",
         "ggplot2",
         "gridExtra",
         "lifecycle",
@@ -71797,7 +71793,6 @@
         "tibble",
         "vctrs"
     ],
-    "extrafont": [],
     "CVXR": [
         "Matrix",
         "RcppEigen",
@@ -77715,7 +77710,6 @@
         "bslib",
         "crosstalk",
         "dplyr",
-        "extrafont",
         "ggplot2",
         "highr",
         "htmlwidgets",
@@ -80848,7 +80842,6 @@
         "cowplot",
         "desc",
         "dplyr",
-        "extrafont",
         "forcats",
         "ggplot2",
         "ggpubr",
@@ -80892,7 +80885,6 @@
     ],
     "tidytidbits": [
         "dplyr",
-        "extrafont",
         "forcats",
         "lifecycle",
         "pillar",
