@@ -31665,7 +31665,6 @@
         "foreach",
         "fs",
         "futile.logger",
-        "gcspikelite",
         "ggplot2",
         "gplots",
         "graph",
@@ -109793,7 +109792,6 @@
         "withr"
     ],
     "ash": [],
-    "gcspikelite": [],
     "SPARQL": [],
     "effsize": [],
     "ggiraph": [
