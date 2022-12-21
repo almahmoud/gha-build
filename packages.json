@@ -53368,7 +53368,6 @@
         "xml2",
         "zip"
     ],
-    "hpar": [],
     "HPAStainR": [
         "R6",
         "Rcpp",
@@ -65265,7 +65264,6 @@
         "gsubfn",
         "highr",
         "hms",
-        "hpar",
         "htmlTable",
         "htmltools",
         "htmlwidgets",
