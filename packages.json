@@ -3677,7 +3677,6 @@
         "timechange",
         "tinytex",
         "tzdb",
-        "uuid",
         "vctrs",
         "viridis",
         "vroom",
@@ -5507,8 +5506,7 @@
         "futile.logger",
         "ids",
         "openssl",
-        "sys",
-        "uuid"
+        "sys"
     ],
     "beer": [
         "Biobase",
@@ -10677,7 +10675,6 @@
         "repr",
         "survival",
         "sys",
-        "uuid",
         "vctrs"
     ],
     "CausalR": [
@@ -12340,7 +12337,6 @@
         "tidytree",
         "treeio",
         "tweenr",
-        "uuid",
         "vctrs",
         "viridis",
         "waldo",
@@ -13579,7 +13575,6 @@
         "tidyr",
         "tidyselect",
         "tzdb",
-        "uuid",
         "vctrs",
         "vroom",
         "withr"
@@ -14930,7 +14925,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uuid",
         "vctrs",
         "withr",
         "zinbwave"
@@ -20156,7 +20150,6 @@
         "tinytex",
         "tweenr",
         "tzdb",
-        "uuid",
         "vctrs",
         "viridis",
         "waldo",
@@ -20260,7 +20253,6 @@
         "timechange",
         "tinytex",
         "tzdb",
-        "uuid",
         "vctrs",
         "viridis",
         "waldo",
@@ -21129,7 +21121,6 @@
         "tinytex",
         "tweenr",
         "tzdb",
-        "uuid",
         "vcd",
         "vctrs",
         "vegan",
@@ -22177,7 +22168,6 @@
         "robustbase",
         "rrcov",
         "sys",
-        "uuid",
         "vctrs"
     ],
     "DEGreport": [
@@ -29984,7 +29974,6 @@
         "sys",
         "tibble",
         "tidyselect",
-        "uuid",
         "vctrs",
         "withr"
     ],
@@ -30964,7 +30953,6 @@
         "systemfonts",
         "tibble",
         "tinytex",
-        "uuid",
         "vctrs",
         "visNetwork",
         "withr",
@@ -34374,7 +34362,6 @@
         "tidyr",
         "tidyselect",
         "tinytex",
-        "uuid",
         "vctrs",
         "waldo",
         "withr",
@@ -34685,7 +34672,6 @@
         "tidyr",
         "tidyselect",
         "tinytex",
-        "uuid",
         "vctrs",
         "waldo",
         "withr",
@@ -34917,7 +34903,6 @@
         "tidyr",
         "tidyselect",
         "tinytex",
-        "uuid",
         "vctrs",
         "waldo",
         "withr",
@@ -36921,7 +36906,6 @@
         "timechange",
         "tinytex",
         "units",
-        "uuid",
         "vctrs",
         "withr",
         "wk",
@@ -41673,7 +41657,6 @@
         "tinytex",
         "umap",
         "usethis",
-        "uuid",
         "vctrs",
         "viridis",
         "visNetwork",
@@ -45788,7 +45771,6 @@
         "timechange",
         "tinytex",
         "tzdb",
-        "uuid",
         "vctrs",
         "vroom",
         "withr",
@@ -48540,7 +48522,6 @@
         "tidytree",
         "treeio",
         "tweenr",
-        "uuid",
         "vctrs",
         "viridis",
         "withr"
@@ -49586,7 +49567,6 @@
         "tzdb",
         "urlchecker",
         "usethis",
-        "uuid",
         "vctrs",
         "vroom",
         "waldo",
@@ -51520,7 +51500,6 @@
         "survival",
         "tibble",
         "tinytex",
-        "uuid",
         "vctrs",
         "viridis",
         "withr",
@@ -52335,7 +52314,6 @@
         "treeio",
         "tweenr",
         "tzdb",
-        "uuid",
         "vctrs",
         "viridis",
         "vroom",
@@ -52516,7 +52494,6 @@
         "treeio",
         "tweenr",
         "tzdb",
-        "uuid",
         "vctrs",
         "viridis",
         "vroom",
@@ -53554,7 +53531,6 @@
         "stringi",
         "stringr",
         "sys",
-        "uuid",
         "vctrs"
     ],
     "mogsa": [
@@ -55364,7 +55340,6 @@
         "timechange",
         "tinytex",
         "tzdb",
-        "uuid",
         "vctrs",
         "viridis",
         "vroom",
@@ -55730,7 +55705,6 @@
         "tidyr",
         "tidyselect",
         "tinytex",
-        "uuid",
         "vctrs",
         "viridis",
         "waldo",
@@ -56835,7 +56809,6 @@
         "tm",
         "topicmodels",
         "tzdb",
-        "uuid",
         "uwot",
         "vctrs",
         "viridis",
@@ -57439,7 +57412,6 @@
         "systemfonts",
         "tibble",
         "tinytex",
-        "uuid",
         "vctrs",
         "withr",
         "xfun"
@@ -57580,7 +57552,6 @@
         "timechange",
         "tinytex",
         "tzdb",
-        "uuid",
         "vctrs",
         "vroom",
         "waldo",
@@ -57793,7 +57764,6 @@
         "pillar",
         "repr",
         "sys",
-        "uuid",
         "vctrs"
     ],
     "ncRNAtools": [
@@ -58338,7 +58308,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uuid",
         "vctrs",
         "withr"
     ],
@@ -58692,7 +58661,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uuid",
         "uwot",
         "vctrs",
         "viridis",
@@ -58813,7 +58781,6 @@
         "tidyr",
         "tidyselect",
         "tzdb",
-        "uuid",
         "vctrs",
         "vegan",
         "vroom",
@@ -67580,7 +67547,6 @@
         "tidyr",
         "tidyselect",
         "tinytex",
-        "uuid",
         "vctrs",
         "viridis",
         "vsn",
@@ -70056,7 +70022,6 @@
         "pillar",
         "repr",
         "sys",
-        "uuid",
         "vctrs"
     ],
     "RCyjs": [
@@ -71128,7 +71093,6 @@
         "tibble",
         "tidyselect",
         "tinytex",
-        "uuid",
         "vctrs",
         "viridis",
         "withr",
@@ -80525,7 +80489,6 @@
         "stringi",
         "stringr",
         "sys",
-        "uuid",
         "vctrs"
     ],
     "sevenC": [
@@ -80926,7 +80889,6 @@
         "survival",
         "testthat",
         "tibble",
-        "uuid",
         "vctrs",
         "vegan",
         "waldo",
@@ -82301,7 +82263,6 @@
         "tinytex",
         "treeio",
         "tximport",
-        "uuid",
         "uwot",
         "vctrs",
         "viridis",
@@ -83719,7 +83680,6 @@
         "tinytex",
         "tweenr",
         "tzdb",
-        "uuid",
         "vctrs",
         "vroom",
         "withr",
@@ -83874,7 +83834,6 @@
         "tidyr",
         "tidyselect",
         "tinytex",
-        "uuid",
         "vctrs",
         "waldo",
         "withr",
@@ -85131,7 +85090,6 @@
         "tinytex",
         "tnet",
         "tzdb",
-        "uuid",
         "vctrs",
         "vroom",
         "waldo",
@@ -86274,7 +86232,6 @@
         "tinytex",
         "tzdb",
         "units",
-        "uuid",
         "vctrs",
         "vroom",
         "withr",
@@ -87609,7 +87566,6 @@
         "tweenr",
         "tzdb",
         "units",
-        "uuid",
         "vctrs",
         "vegan",
         "viridis",
@@ -89809,7 +89765,6 @@
         "tkWidgets",
         "treeio",
         "tweenr",
-        "uuid",
         "vctrs",
         "viridis",
         "widgetTools",
@@ -91106,7 +91061,6 @@
         "sys",
         "tibble",
         "tidyselect",
-        "uuid",
         "vctrs",
         "withr"
     ],
@@ -91366,7 +91320,6 @@
         "tinytex",
         "treeio",
         "tweenr",
-        "uuid",
         "vctrs",
         "waldo",
         "withr",
@@ -98560,7 +98513,6 @@
         "timechange",
         "tinytex",
         "tzdb",
-        "uuid",
         "vctrs",
         "vroom",
         "withr",
@@ -98839,7 +98791,6 @@
         "purrr",
         "sys",
         "tibble",
-        "uuid",
         "vctrs",
         "withr"
     ],
@@ -98861,7 +98812,6 @@
         "rematch2",
         "sys",
         "tibble",
-        "uuid",
         "vctrs",
         "withr"
     ],
@@ -98918,12 +98868,10 @@
         "withr",
         "xfun"
     ],
-    "uuid": [],
     "ids": [
         "askpass",
         "openssl",
-        "sys",
-        "uuid"
+        "sys"
     ],
     "reactome.db": [
         "AnnotationDbi",
@@ -101407,7 +101355,6 @@
         "lifecycle",
         "pillar",
         "repr",
-        "uuid",
         "vctrs"
     ],
     "IRdisplay": [
@@ -102553,16 +102500,12 @@
         "irlba"
     ],
     "ChIPXpressData": [
-        "bigmemory",
-        "uuid"
+        "bigmemory"
     ],
-    "bigmemory": [
-        "uuid"
-    ],
+    "bigmemory": [],
     "biganalytics": [
         "bigmemory",
-        "foreach",
-        "uuid"
+        "foreach"
     ],
     "shinyhelper": [
         "bslib",
@@ -102822,7 +102765,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uuid",
         "vctrs",
         "withr"
     ],
@@ -102893,7 +102835,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "uuid",
         "vctrs",
         "withr"
     ],
@@ -103825,7 +103766,6 @@
         "rprojroot",
         "testthat",
         "tibble",
-        "uuid",
         "vctrs",
         "waldo",
         "withr"
@@ -105095,7 +105035,6 @@
         "systemfonts",
         "tibble",
         "tinytex",
-        "uuid",
         "vctrs",
         "withr",
         "xfun"
@@ -105424,13 +105363,10 @@
         "stringr",
         "systemfonts",
         "tinytex",
-        "uuid",
         "vctrs",
         "xfun"
     ],
-    "officer": [
-        "uuid"
-    ],
+    "officer": [],
     "gdtools": [
         "systemfonts"
     ],
@@ -105715,7 +105651,6 @@
         "timechange",
         "tinytex",
         "units",
-        "uuid",
         "vctrs",
         "wk",
         "xfun",
@@ -106088,7 +106023,6 @@
         "shiny",
         "stringi",
         "stringr",
-        "uuid",
         "vctrs",
         "withr",
         "xfun"
@@ -109025,7 +108959,6 @@
         "promises",
         "sass",
         "shiny",
-        "uuid",
         "withr"
     ],
     "CpGassoc": [
@@ -109964,8 +109897,7 @@
         "future.apply",
         "mlr3measures",
         "mlr3misc",
-        "paradox",
-        "uuid"
+        "paradox"
     ],
     "mlr3learners": [
         "checkmate",
@@ -109974,8 +109906,7 @@
         "mlr3",
         "mlr3measures",
         "mlr3misc",
-        "paradox",
-        "uuid"
+        "paradox"
     ],
     "mlr3tuning": [
         "bbotk",
@@ -109985,8 +109916,7 @@
         "mlr3",
         "mlr3measures",
         "mlr3misc",
-        "paradox",
-        "uuid"
+        "paradox"
     ],
     "paradox": [
         "checkmate",
