@@ -579,7 +579,6 @@
         "mime",
         "mzR",
         "openssl",
-        "pastecs",
         "pillar",
         "pixmap",
         "pkgconfig",
@@ -115797,7 +115796,6 @@
         "vctrs",
         "withr"
     ],
-    "pastecs": [],
     "fpc": [
         "DEoptimR",
         "class",
