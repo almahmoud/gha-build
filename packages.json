@@ -71887,7 +71887,6 @@
         "tibble",
         "vctrs"
     ],
-    "xmapbridge": [],
     "XNAString": [
         "BSgenome",
         "Biobase",
