@@ -82906,7 +82906,6 @@
         "foreach",
         "forecast",
         "formatR",
-        "fracdiff",
         "futile.logger",
         "generics",
         "ggplot2",
@@ -137368,7 +137367,6 @@
         "TTR",
         "colorspace",
         "curl",
-        "fracdiff",
         "generics",
         "ggplot2",
         "labeling",
@@ -137393,7 +137391,6 @@
         "zoo"
     ],
     "tester": [],
-    "fracdiff": [],
     "urca": [
         "nlme"
     ],
