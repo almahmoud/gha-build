@@ -105072,7 +105072,6 @@
         "vctrs",
         "withr"
     ],
-    "SMAP": [],
     "SMITE": [
         "AnnotationDbi",
         "BioNet",
