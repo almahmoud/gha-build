@@ -59811,7 +59811,6 @@
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "GenomicRanges",
-        "HiddenMarkov",
         "IRanges",
         "KernSmooth",
         "MASS",
@@ -78747,7 +78746,6 @@
     "MOSim": [
         "Biobase",
         "BiocGenerics",
-        "HiddenMarkov",
         "IRanges",
         "MASS",
         "Matrix",
@@ -155945,7 +155943,6 @@
         "lattice",
         "nlme"
     ],
-    "HiddenMarkov": [],
     "argparse": [
         "jsonlite"
     ],
