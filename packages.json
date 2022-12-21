@@ -37351,7 +37351,6 @@
         "iterators",
         "survival"
     ],
-    "garfield": [],
     "GARS": [
         "AnnotationDbi",
         "Biobase",
