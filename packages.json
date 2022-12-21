@@ -15240,7 +15240,6 @@
         "RColorBrewer",
         "RCurl",
         "ROCR",
-        "RcppRoll",
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
@@ -28517,7 +28516,6 @@
         "GenomicRanges",
         "IRanges",
         "RCurl",
-        "RcppRoll",
         "S4Vectors",
         "XVector",
         "betareg",
@@ -28792,7 +28790,6 @@
         "IRanges",
         "Matrix",
         "RCurl",
-        "RcppRoll",
         "S4Vectors",
         "XVector",
         "lattice"
@@ -120361,7 +120358,6 @@
         "withr"
     ],
     "Delaporte": [],
-    "RcppRoll": [],
     "BSgenome.Mmusculus.UCSC.mm9": [
         "BSgenome",
         "Biobase",
