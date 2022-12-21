@@ -3056,7 +3056,6 @@
         "assertive.files",
         "assertive.matrices",
         "assertive.models",
-        "assertive.properties",
         "assertive.strings",
         "assertive.types",
         "blob",
@@ -8093,7 +8092,6 @@
         "SummarizedExperiment",
         "XVector",
         "assertive.files",
-        "assertive.properties",
         "assertive.types",
         "beachmat",
         "bluster",
@@ -40674,7 +40672,6 @@
         "assertive.files",
         "assertive.matrices",
         "assertive.models",
-        "assertive.properties",
         "assertive.strings",
         "assertive.types",
         "bamsignals",
@@ -59725,7 +59722,6 @@
         "ape",
         "aplot",
         "assertive.files",
-        "assertive.properties",
         "assertive.types",
         "babelgene",
         "batchelor",
@@ -71822,7 +71818,6 @@
         "assertive.files",
         "assertive.matrices",
         "assertive.models",
-        "assertive.properties",
         "assertive.strings",
         "assertive.types",
         "highr",
@@ -71831,38 +71826,29 @@
         "stringr",
         "vctrs"
     ],
-    "assertive.properties": [],
-    "assertive.types": [
-        "assertive.properties"
-    ],
+    "assertive.types": [],
     "assertive.strings": [
-        "assertive.properties",
         "assertive.types"
     ],
     "assertive.datetimes": [
-        "assertive.properties",
         "assertive.types"
     ],
     "assertive.files": [],
     "assertive.matrices": [],
     "assertive.models": [],
     "assertive.data": [
-        "assertive.properties",
         "assertive.strings",
         "assertive.types"
     ],
     "assertive.data.uk": [
-        "assertive.properties",
         "assertive.strings",
         "assertive.types"
     ],
     "assertive.data.us": [
-        "assertive.properties",
         "assertive.strings",
         "assertive.types"
     ],
     "assertive.code": [
-        "assertive.properties",
         "assertive.types"
     ],
     "doBy": [
@@ -73507,7 +73493,6 @@
     "multipanelfigure": [
         "Matrix",
         "assertive.files",
-        "assertive.properties",
         "assertive.types",
         "ggplot2",
         "lifecycle",
