@@ -39040,7 +39040,6 @@
         "later",
         "lifecycle",
         "locfit",
-        "lpsymphony",
         "magrittr",
         "mgcv",
         "munsell",
@@ -39300,7 +39299,6 @@
         "withr"
     ],
     "IHW": [
-        "lpsymphony",
         "slam"
     ],
     "illuminaio": [
@@ -43458,7 +43456,6 @@
     ],
     "LPEadj": [],
     "lpNet": [],
-    "lpsymphony": [],
     "LRBaseDbi": [
         "AnnotationDbi",
         "Biobase",
@@ -43905,7 +43902,6 @@
         "lmerTest",
         "locfit",
         "logging",
-        "lpsymphony",
         "magrittr",
         "metagenomeSeq",
         "mgcv",
@@ -44010,7 +44006,6 @@
         "lmerTest",
         "locfit",
         "logging",
-        "lpsymphony",
         "magrittr",
         "metagenomeSeq",
         "mgcv",
@@ -51813,7 +51808,6 @@
         "lmerTest",
         "locfit",
         "logging",
-        "lpsymphony",
         "magrittr",
         "metadat",
         "metafor",
