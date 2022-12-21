@@ -32182,7 +32182,6 @@
         "limma",
         "lmtest",
         "locfit",
-        "logger",
         "lubridate",
         "magrittr",
         "mathjaxr",
@@ -92476,7 +92475,6 @@
         "later",
         "lattice",
         "lifecycle",
-        "logger",
         "magrittr",
         "memoise",
         "mime",
@@ -111795,7 +111793,6 @@
         "lazyeval",
         "lifecycle",
         "limma",
-        "logger",
         "magrittr",
         "memoise",
         "mgcv",
@@ -116019,7 +116016,6 @@
         "lattice",
         "lazyeval",
         "lifecycle",
-        "logger",
         "magrittr",
         "memoise",
         "mgcv",
@@ -144660,7 +144656,6 @@
         "later",
         "lattice",
         "lifecycle",
-        "logger",
         "magrittr",
         "memoise",
         "mime",
@@ -159738,7 +159733,6 @@
     "harmonicmeanp": [
         "FMStable"
     ],
-    "logger": [],
     "FMStable": [],
     "TFisher": [
         "MASS",
