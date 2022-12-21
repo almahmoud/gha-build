@@ -20806,7 +20806,6 @@
         "treeio",
         "vctrs"
     ],
-    "GIGSEA": [],
     "girafe": [
         "Biostrings",
         "DelayedArray",
