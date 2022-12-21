@@ -25130,7 +25130,6 @@
         "mnormt",
         "munsell",
         "nlme",
-        "pbivnorm",
         "pillar",
         "pkgconfig",
         "progress",
@@ -94397,7 +94396,6 @@
         "mnormt",
         "munsell",
         "nlme",
-        "pbivnorm",
         "pillar",
         "pkgconfig",
         "psych",
@@ -94416,10 +94414,8 @@
         "xfun"
     ],
     "lavaan": [
-        "mnormt",
-        "pbivnorm"
+        "mnormt"
     ],
-    "pbivnorm": [],
     "ewceData": [
         "AnnotationDbi",
         "AnnotationHub",
