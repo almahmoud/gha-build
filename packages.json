@@ -4440,7 +4440,6 @@
         "zip",
         "zlibbioc"
     ],
-    "ASAFE": [],
     "ASGSCA": [
         "MASS",
         "Matrix"
