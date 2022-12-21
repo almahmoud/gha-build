@@ -585,7 +585,6 @@
         "SummarizedExperiment",
         "XVector",
         "apeglm",
-        "bbmle",
         "beachmat",
         "dplyr",
         "emdbook",
@@ -1504,7 +1503,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "bbmle",
         "emdbook"
     ],
     "APL": [
@@ -7810,7 +7808,6 @@
         "annotate",
         "apeglm",
         "ashr",
-        "bbmle",
         "biomaRt",
         "blob",
         "bslib",
@@ -12512,7 +12509,6 @@
         "apeglm",
         "aplot",
         "ashr",
-        "bbmle",
         "blob",
         "bslib",
         "clusterProfiler",
@@ -12733,7 +12729,6 @@
         "XVector",
         "annotate",
         "base64",
-        "bbmle",
         "biomaRt",
         "blob",
         "bumphunter",
@@ -13442,7 +13437,6 @@
         "vctrs"
     ],
     "DEsingle": [
-        "bbmle",
         "gamlss",
         "maxLik",
         "sandwich",
@@ -13675,7 +13669,6 @@
         "annotate",
         "apeglm",
         "ashr",
-        "bbmle",
         "blob",
         "bslib",
         "dplyr",
@@ -22617,7 +22610,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
-        "bbmle",
         "biomaRt",
         "biovizBase",
         "blob",
@@ -24606,7 +24598,6 @@
         "XVector",
         "ape",
         "aplot",
-        "bbmle",
         "beachmat",
         "blob",
         "bluster",
@@ -26214,7 +26205,6 @@
         "Hmisc",
         "RcppEigen",
         "StanHeaders",
-        "bbmle",
         "bslib",
         "densEstBayes",
         "ggplot2",
@@ -28543,7 +28533,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "bbmle",
         "beachmat",
         "bsseq",
         "emdbook",
@@ -28592,7 +28581,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "bbmle",
         "emdbook",
         "fastseg",
         "ggplot2",
@@ -29072,7 +29060,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "bbmle",
         "emdbook",
         "fastseg",
         "ggplot2",
@@ -29101,7 +29088,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "bbmle",
         "emdbook",
         "fastseg",
         "ggplot2",
@@ -45586,7 +45572,6 @@
         "StanHeaders",
         "SummarizedExperiment",
         "XVector",
-        "bbmle",
         "beachmat",
         "bslib",
         "densEstBayes",
@@ -46019,7 +46004,6 @@
     "scRecover": [
         "RcppEigen",
         "SAVER",
-        "bbmle",
         "gamlss",
         "glmnet",
         "penalized",
@@ -46158,7 +46142,6 @@
         "rsvd"
     ],
     "scShapes": [
-        "bbmle",
         "emdbook"
     ],
     "scTensor": [
@@ -47985,7 +47968,6 @@
         "assertive.files",
         "babelgene",
         "batchelor",
-        "bbmle",
         "beachmat",
         "biomaRt",
         "blob",
@@ -51920,7 +51902,6 @@
         "XVector",
         "annotate",
         "apeglm",
-        "bbmle",
         "biomaRt",
         "blob",
         "dbplyr",
@@ -55073,7 +55054,6 @@
         "annotate",
         "apeglm",
         "ashr",
-        "bbmle",
         "biomaRt",
         "blob",
         "bslib",
@@ -56330,14 +56310,11 @@
         "speedglm",
         "survival"
     ],
-    "emdbook": [
-        "bbmle"
-    ],
+    "emdbook": [],
     "forestplot": [],
     "RcppNumerical": [
         "RcppEigen"
     ],
-    "bbmle": [],
     "ggbeeswarm": [
         "ggplot2",
         "mgcv",
