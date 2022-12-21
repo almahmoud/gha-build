@@ -10452,7 +10452,6 @@
         "vctrs"
     ],
     "Chicago": [
-        "Delaporte",
         "Hmisc",
         "Matrix",
         "RcppEigen",
@@ -82926,7 +82925,6 @@
         "tzdb",
         "vctrs"
     ],
-    "Delaporte": [],
     "BSgenome.Mmusculus.UCSC.mm9": [
         "BSgenome",
         "Biobase",
