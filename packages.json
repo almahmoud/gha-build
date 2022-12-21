@@ -27281,7 +27281,6 @@
         "robustbase",
         "scales",
         "sys",
-        "tensorA",
         "tibble",
         "utf8",
         "vctrs",
@@ -76040,7 +76039,6 @@
         "rlang",
         "scales",
         "survival",
-        "tensorA",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -76529,7 +76527,6 @@
         "stringi",
         "stringr",
         "survival",
-        "tensorA",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -90794,7 +90791,6 @@
         "stringi",
         "stringr",
         "survival",
-        "tensorA",
         "tinytex",
         "truncnorm",
         "vctrs",
@@ -98896,7 +98892,6 @@
         "stringr",
         "svUnit",
         "sys",
-        "tensorA",
         "tibble",
         "tidybayes",
         "tidyr",
@@ -118508,7 +118503,6 @@
         "stringr",
         "survival",
         "sys",
-        "tensorA",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -156831,10 +156825,8 @@
         "Rcpp",
         "RcppArmadillo",
         "bayesm",
-        "robustbase",
-        "tensorA"
+        "robustbase"
     ],
-    "tensorA": [],
     "bayesm": [
         "Rcpp",
         "RcppArmadillo"
@@ -163027,8 +163019,7 @@
         "corpcor",
         "cubature",
         "lattice",
-        "nlme",
-        "tensorA"
+        "nlme"
     ],
     "shinycustomloader": [
         "Rcpp",
@@ -165497,7 +165488,6 @@
         "rlang",
         "scales",
         "svUnit",
-        "tensorA",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -165572,7 +165562,6 @@
         "pkgconfig",
         "rlang",
         "scales",
-        "tensorA",
         "tibble",
         "utf8",
         "vctrs",
