@@ -5786,7 +5786,6 @@
         "viridisLite",
         "withr"
     ],
-    "BADER": [],
     "BadRegionFinder": [
         "AnnotationDbi",
         "BSgenome",
