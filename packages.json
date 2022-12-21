@@ -219,8 +219,7 @@
         "vegan",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ABSSeq": [
         "lattice",
@@ -419,8 +418,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ADAMgui": [
         "ADAM",
@@ -539,8 +537,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "adductomicsR": [
         "AnnotationDbi",
@@ -641,7 +638,6 @@
         "xfun",
         "xml2",
         "xts",
-        "yaml",
         "zoo"
     ],
     "ADImpute": [
@@ -918,8 +914,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "affyILM": [
         "Biobase",
@@ -1191,8 +1186,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "AIMS": [
         "Biobase",
@@ -1389,8 +1383,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "AllelicImbalance": [
         "AnnotationDbi",
@@ -1503,8 +1496,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "AlphaBeta": [
         "BiocParallel",
@@ -1568,8 +1560,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "alpine": [
         "AnnotationDbi",
@@ -1639,8 +1630,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "AlpsNMR": [
         "BiocParallel",
@@ -1732,8 +1722,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "altcdfenvs": [
         "Biobase",
@@ -1862,8 +1851,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "amplican": [
         "Biobase",
@@ -1940,8 +1928,7 @@
         "viridisLite",
         "waffle",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "Anaquin": [
         "AnnotationDbi",
@@ -2012,8 +1999,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ANCOMBC": [
         "Biobase",
@@ -2180,8 +2166,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "AneuFinder": [
         "Biobase",
@@ -2398,8 +2383,7 @@
         "vegan",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "annaffy": [
         "AnnotationDbi",
@@ -2640,8 +2624,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "AnnotationHubData": [
         "AnnotationDbi",
@@ -2736,8 +2719,7 @@
         "vctrs",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "annotationTools": [
         "Biobase",
@@ -2846,8 +2828,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "anota": [
         "Biobase",
@@ -3004,8 +2985,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "AnVILBilling": [
         "DT",
@@ -3077,8 +3057,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "AnVILPublish": [
         "AnVIL",
@@ -3140,8 +3119,7 @@
         "vctrs",
         "vroom",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "APAlyzer": [
         "AnnotationDbi",
@@ -3235,8 +3213,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "apComplex": [
         "AnnotationDbi",
@@ -3429,7 +3406,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "appreci8R": [
@@ -3557,8 +3533,7 @@
         "vctrs",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "aroma.light": [
         "R.oo",
@@ -3697,8 +3672,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "arrayMvout": [
         "AnnotationDbi",
@@ -3818,8 +3792,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "arrayQuality": [
         "RColorBrewer",
@@ -3918,8 +3891,7 @@
         "viridisLite",
         "vsn",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ARRmNormalization": [],
     "artMS": [
@@ -4037,8 +4009,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ASEB": [],
     "ASGSCA": [
@@ -4135,7 +4106,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "ASpediaFI": [
@@ -4277,8 +4247,7 @@
         "waldo",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ASpli": [
         "AnnotationDbi",
@@ -4398,8 +4367,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "AssessORF": [
         "BiocGenerics",
@@ -4490,8 +4458,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "ASURAT": [
         "Biobase",
@@ -4701,8 +4668,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ATACseqQC": [
         "AnnotationDbi",
@@ -4839,8 +4805,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ATACseqTFEA": [
         "AnnotationDbi",
@@ -4928,8 +4893,7 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "atena": [
         "AnnotationDbi",
@@ -5015,8 +4979,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "atSNP": [
         "AnnotationDbi",
@@ -5132,8 +5095,7 @@
         "vroom",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "attract": [
         "AnnotationDbi",
@@ -5269,8 +5231,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "autonomics": [
         "Biobase",
@@ -5360,8 +5321,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "AWFisher": [
         "edgeR",
@@ -5464,8 +5424,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "BAC": [],
     "bacon": [
@@ -5562,8 +5521,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "BAGS": [
         "Biobase",
@@ -5623,8 +5581,7 @@
         "survival",
         "sva",
         "sys",
-        "vctrs",
-        "yaml"
+        "vctrs"
     ],
     "bambu": [
         "AnnotationDbi",
@@ -5695,8 +5652,7 @@
         "vctrs",
         "withr",
         "xgboost",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "bamsignals": [
         "BiocGenerics",
@@ -5923,8 +5879,7 @@
         "vsn",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "banocc": [
         "Matrix",
@@ -6113,8 +6068,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "BaseSpaceR": [
         "RCurl"
@@ -6148,8 +6102,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "BASiCS": [
         "Biobase",
@@ -6246,8 +6199,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "BASiCStan": [
         "BASiCS",
@@ -6365,8 +6317,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "BasicSTARRseq": [
         "Biobase",
@@ -6554,8 +6505,7 @@
         "viridisLite",
         "webshot",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "BayesKnockdown": [
         "Biobase",
@@ -6779,8 +6729,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "BCRANK": [
         "BiocGenerics",
@@ -6989,8 +6938,7 @@
         "lattice",
         "latticeExtra",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "BEclear": [
         "BiocParallel",
@@ -7319,7 +7267,6 @@
         "waldo",
         "withr",
         "xfun",
-        "yaml",
         "zCompositions",
         "zinbwave",
         "zoo"
@@ -7397,8 +7344,7 @@
         "tximport",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "BgeeDB": [
         "AnnotationDbi",
@@ -7651,8 +7597,7 @@
         "wateRmelon",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "bigPint": [
         "Biobase",
@@ -7747,8 +7692,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "BindingSiteFinder": [
         "AnnotationDbi",
@@ -7861,8 +7805,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "bioassayR": [
         "BiocGenerics",
@@ -7916,8 +7859,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "Biobase": [
         "BiocGenerics"
@@ -8136,8 +8078,7 @@
         "waldo",
         "withr",
         "writexl",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "BiocCheck": [
         "Biobase",
@@ -8161,8 +8102,7 @@
         "stringr",
         "sys",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "BiocDockerManager": [
         "askpass",
@@ -8243,8 +8183,7 @@
         "vctrs",
         "visNetwork",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "BiocFileCache": [
         "RSQLite",
@@ -8480,8 +8419,7 @@
         "waldo",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "BioCor": [
         "AnnotationDbi",
@@ -8603,8 +8541,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "BiocSet": [
         "AnnotationDbi",
@@ -8716,8 +8653,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "biocthis": [
         "R.cache",
@@ -8745,8 +8681,7 @@
         "sys",
         "usethis",
         "vctrs",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "biocViews": [
         "Biobase",
@@ -8794,8 +8729,7 @@
         "usethis",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "biodb": [
         "BiocFileCache",
@@ -8848,8 +8782,7 @@
         "tidyselect",
         "vctrs",
         "waldo",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "biodbChebi": [
         "BiocFileCache",
@@ -8903,8 +8836,7 @@
         "tidyselect",
         "vctrs",
         "waldo",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "biodbExpasy": [
         "BiocFileCache",
@@ -8958,8 +8890,7 @@
         "tidyselect",
         "vctrs",
         "waldo",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "biodbHmdb": [
         "BiocFileCache",
@@ -9013,8 +8944,7 @@
         "tidyselect",
         "vctrs",
         "waldo",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "biodbKegg": [
         "BiocFileCache",
@@ -9068,8 +8998,7 @@
         "tidyselect",
         "vctrs",
         "waldo",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "biodbLipidmaps": [
         "BiocFileCache",
@@ -9123,8 +9052,7 @@
         "tidyselect",
         "vctrs",
         "waldo",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "biodbMirbase": [
         "BiocFileCache",
@@ -9178,8 +9106,7 @@
         "tidyselect",
         "vctrs",
         "waldo",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "biodbNcbi": [
         "BiocFileCache",
@@ -9233,8 +9160,7 @@
         "tidyselect",
         "vctrs",
         "waldo",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "biodbNci": [
         "BiocFileCache",
@@ -9288,8 +9214,7 @@
         "tidyselect",
         "vctrs",
         "waldo",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "biodbUniprot": [
         "BiocFileCache",
@@ -9343,8 +9268,7 @@
         "tidyselect",
         "vctrs",
         "waldo",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "bioDist": [
         "Biobase",
@@ -9516,7 +9440,6 @@
         "xfun",
         "xlsx",
         "xlsxjars",
-        "yaml",
         "zoo"
     ],
     "BioMVCClass": [
@@ -9632,8 +9555,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "BioNAR": [
         "AnnotationDbi",
@@ -9749,8 +9671,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "BioNERO": [
         "AnnotationDbi",
@@ -9869,8 +9790,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "BioNet": [
         "AnnotationDbi",
@@ -10006,8 +9926,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "BioQC": [
         "Biobase",
@@ -10091,8 +10010,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "Biostrings": [
         "BiocGenerics",
@@ -10324,8 +10242,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "BiRewire": [
         "Matrix",
@@ -10480,8 +10397,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "BiSeq": [
         "AnnotationDbi",
@@ -10538,7 +10454,6 @@
         "survival",
         "sys",
         "vctrs",
-        "yaml",
         "zoo"
     ],
     "BitSeq": [
@@ -10859,8 +10774,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "bluster": [
         "BiocGenerics",
@@ -10950,8 +10864,7 @@
         "tiff",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "bnem": [
         "AnnotationDbi",
@@ -11075,7 +10988,6 @@
         "vsn",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "BOBaFIT": [
@@ -11197,8 +11109,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "borealis": [
         "BSgenome",
@@ -11268,8 +11179,7 @@
         "tidyselect",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "BPRMeth": [
         "BiocGenerics",
@@ -11330,8 +11240,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "BRAIN": [
         "BiocGenerics",
@@ -11484,8 +11393,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "BrainSABER": [
         "AnnotationDbi",
@@ -11660,8 +11568,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "breakpointR": [
         "Biobase",
@@ -11812,8 +11719,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "bridge": [
         "rama"
@@ -11856,8 +11762,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "bsseq": [
         "BSgenome",
@@ -11903,8 +11808,7 @@
         "rtracklayer",
         "scales",
         "sparseMatrixStats",
-        "viridisLite",
-        "yaml"
+        "viridisLite"
     ],
     "BubbleTree": [
         "AnnotationDbi",
@@ -12017,8 +11921,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "BufferedMatrix": [],
     "BufferedMatrixMethods": [
@@ -12150,8 +12053,7 @@
         "withr",
         "xfun",
         "xml2",
-        "xopen",
-        "yaml"
+        "xopen"
     ],
     "bumphunter": [
         "AnnotationDbi",
@@ -12222,8 +12124,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "BumpyMatrix": [
         "BiocGenerics",
@@ -12336,7 +12237,6 @@
         "viridisLite",
         "withr",
         "xml2",
-        "yaml",
         "zeallot"
     ],
     "BUSseq": [
@@ -12492,8 +12392,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "CAGEfightR": [
         "AnnotationDbi",
@@ -12607,8 +12506,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "cageminer": [
         "AnnotationDbi",
@@ -12761,8 +12659,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "CAGEr": [
         "BSgenome",
@@ -12828,8 +12725,7 @@
         "vctrs",
         "vegan",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "calm": [
         "Matrix",
@@ -12927,8 +12823,7 @@
         "vsn",
         "withr",
         "xcms",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "canceR": [
         "AnnotationDbi",
@@ -13040,8 +12935,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "cancerclass": [
         "Biobase",
@@ -13183,8 +13077,7 @@
         "vegan",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "Cardinal": [
         "Biobase",
@@ -13235,8 +13128,7 @@
         "tinytex",
         "vctrs",
         "viridisLite",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "CARNIVAL": [
         "Matrix",
@@ -13280,8 +13172,7 @@
         "vctrs",
         "vroom",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "casper": [
         "AnnotationDbi",
@@ -13359,8 +13250,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "CATALYST": [
         "ALL",
@@ -13498,7 +13388,6 @@
         "waldo",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "Category": [
@@ -13713,8 +13602,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "CBEA": [
         "AnnotationDbi",
@@ -13808,8 +13696,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "cBioPortalData": [
         "AnVIL",
@@ -13911,8 +13798,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "cbpManager": [
         "DT",
@@ -13978,8 +13864,7 @@
         "vctrs",
         "vroom",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ccfindR": [
         "Biobase",
@@ -14642,7 +14527,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "cellity": [
@@ -14813,7 +14697,6 @@
         "waldo",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "CellMixS": [
@@ -14935,8 +14818,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "cellscape": [
         "bslib",
@@ -14970,8 +14852,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "CellScore": [
         "Biobase",
@@ -15124,8 +15005,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "CEMiTool": [
         "AnnotationDbi",
@@ -15268,7 +15148,6 @@
         "withr",
         "xfun",
         "xts",
-        "yaml",
         "zoo"
     ],
     "censcyt": [
@@ -15394,7 +15273,6 @@
         "waldo",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "Cepo": [
@@ -15684,8 +15562,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "CexoR": [
         "BSgenome",
@@ -15747,8 +15624,7 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "cfDNAPro": [
         "Biobase",
@@ -15804,7 +15680,6 @@
         "viridisLite",
         "withr",
         "xts",
-        "yaml",
         "zoo"
     ],
     "CGEN": [
@@ -16063,8 +15938,7 @@
         "wateRmelon",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ChemmineOB": [
         "BiocGenerics"
@@ -16116,8 +15990,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "CHETAH": [
         "Biobase",
@@ -16199,8 +16072,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ChIC": [
         "BiocGenerics",
@@ -16335,8 +16207,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "chimeraviz": [
         "AnnotationDbi",
@@ -16456,8 +16327,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ChIPanalyser": [
         "BSgenome",
@@ -16491,8 +16361,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "ChIPComp": [
         "BSgenome",
@@ -16523,8 +16392,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "chipenrich": [
         "AnnotationDbi",
@@ -16636,7 +16504,6 @@
         "vroom",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "ChIPexoQual": [
@@ -16747,8 +16614,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ChIPpeakAnno": [
         "AnnotationDbi",
@@ -16836,8 +16702,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ChIPQC": [
         "AnnotationDbi",
@@ -16962,8 +16827,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ChIPseeker": [
         "AnnotationDbi",
@@ -17077,8 +16941,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "chipseq": [
         "Biobase",
@@ -17303,8 +17166,7 @@
         "restfulr",
         "rtracklayer",
         "sys",
-        "vctrs",
-        "yaml"
+        "vctrs"
     ],
     "chromPlot": [
         "AnnotationDbi",
@@ -17518,8 +17380,7 @@
         "webshot",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "chromstaR": [
         "Biobase",
@@ -17634,8 +17495,7 @@
         "tidyselect",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "chromVAR": [
         "AnnotationDbi",
@@ -17749,8 +17609,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "CHRONOS": [
         "AnnotationDbi",
@@ -17936,8 +17795,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "CIMICE": [
         "Matrix",
@@ -18004,8 +17862,7 @@
         "viridisLite",
         "visNetwork",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "CINdex": [
         "BiocGenerics",
@@ -18157,8 +18014,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "CircSeqAlignTk": [
         "AnnotationDbi",
@@ -18245,8 +18101,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "CiteFuse": [
         "Biobase",
@@ -18367,8 +18222,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ClassifyR": [
         "AnnotationDbi",
@@ -18470,8 +18324,7 @@
         "sp",
         "stringi",
         "stringr",
-        "vctrs",
-        "yaml"
+        "vctrs"
     ],
     "cleaver": [
         "BiocGenerics",
@@ -18511,8 +18364,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "clipper": [
         "AnnotationDbi",
@@ -18590,8 +18442,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "cliProfiler": [
         "BSgenome",
@@ -18640,8 +18491,7 @@
         "tidyselect",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "cliqueMS": [
         "Biobase",
@@ -18723,8 +18573,7 @@
         "stringi",
         "stringr",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "clstutils": [
         "ROC",
@@ -18747,8 +18596,7 @@
         "stringi",
         "stringr",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "CluMSID": [
         "Biobase",
@@ -18841,8 +18689,7 @@
         "viridisLite",
         "vsn",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "clustComp": [
         "sm"
@@ -19312,8 +19159,7 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "CNORdt": [
         "BiocGenerics",
@@ -19361,8 +19207,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "CNORfeeder": [
         "BiocGenerics",
@@ -19409,8 +19254,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "CNORfuzzy": [
         "BiocGenerics",
@@ -19470,8 +19314,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "CNORode": [
         "BiocGenerics",
@@ -19518,8 +19361,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "CNTools": [
         "AnnotationDbi",
@@ -19671,8 +19513,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "CNVgears": [
         "Matrix",
@@ -19836,8 +19677,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "CNVMetrics": [
         "BiocGenerics",
@@ -20061,8 +19901,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "CoCiteStats": [
         "AnnotationDbi",
@@ -20169,8 +20008,7 @@
         "tidyselect",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "codelink": [
         "AnnotationDbi",
@@ -20231,8 +20069,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "coexnet": [
         "Biobase",
@@ -20323,8 +20160,7 @@
         "vsn",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "CoGAPS": [
         "Biobase",
@@ -20462,8 +20298,7 @@
         "withr",
         "xfun",
         "xml2",
-        "xopen",
-        "yaml"
+        "xopen"
     ],
     "cogeqc": [
         "BiocGenerics",
@@ -20601,8 +20436,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "COHCAP": [
         "RColorBrewer",
@@ -20651,8 +20485,7 @@
         "sys",
         "vctrs",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "comapr": [
         "AnnotationDbi",
@@ -20770,8 +20603,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "combi": [
         "BB",
@@ -20948,8 +20780,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "coMethDMR": [
         "AnnotationDbi",
@@ -21071,8 +20902,7 @@
         "waldo",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "compartmap": [
         "Biobase",
@@ -21135,8 +20965,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "COMPASS": [
         "BiocStyle",
@@ -21184,8 +21013,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "compcodeR": [
         "Matrix",
@@ -21237,7 +21065,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "compEpiTools": [
@@ -21354,8 +21181,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ComplexHeatmap": [
         "BiocGenerics",
@@ -21447,8 +21273,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ComPrAn": [
         "DT",
@@ -21523,8 +21348,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "conclus": [
         "AnnotationDbi",
@@ -21731,8 +21555,7 @@
         "waldo",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "condiments": [
         "Biobase",
@@ -21965,7 +21788,6 @@
         "wavethresh",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "consensus": [
@@ -22082,8 +21904,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "consensusOV": [
         "AIMS",
@@ -22217,8 +22038,7 @@
         "rtracklayer",
         "stringi",
         "stringr",
-        "vctrs",
-        "yaml"
+        "vctrs"
     ],
     "consICA": [
         "AnnotationDbi",
@@ -22363,8 +22183,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "conumee": [
         "AnnotationDbi",
@@ -22469,8 +22288,7 @@
         "vctrs",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "convert": [
         "Biobase",
@@ -22605,8 +22423,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "CopywriteR": [
         "Biobase",
@@ -22794,8 +22611,7 @@
         "viridisLite",
         "visNetwork",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "Cormotif": [
         "Biobase",
@@ -23086,8 +22902,7 @@
         "visNetwork",
         "vroom",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "COSNet": [],
     "COTAN": [
@@ -23226,8 +23041,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "covEB": [
         "Biobase",
@@ -23265,8 +23079,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "covRNA": [
         "AnnotationDbi",
@@ -23384,8 +23197,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "cqn": [
         "Matrix",
@@ -23440,8 +23252,7 @@
         "tiff",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "crisprBase": [
         "BiocGenerics",
@@ -23509,8 +23320,7 @@
         "tzdb",
         "vctrs",
         "vroom",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "crisprBwa": [
         "BSgenome",
@@ -23560,8 +23370,7 @@
         "tzdb",
         "vctrs",
         "vroom",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "crisprDesign": [
         "AnnotationDbi",
@@ -23668,8 +23477,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "crisprScore": [
         "AnnotationDbi",
@@ -23746,8 +23554,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "CRISPRseek": [
         "BSgenome",
@@ -23813,7 +23620,6 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "yaml",
         "zeallot"
     ],
     "crisprseekplus": [
@@ -23959,7 +23765,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zeallot"
     ],
     "CrispRVariants": [
@@ -24159,8 +23964,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "crisprViz": [
         "AnnotationDbi",
@@ -24295,8 +24099,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "crlmm": [
         "Biobase",
@@ -24442,8 +24245,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "CSAR": [
         "BiocGenerics",
@@ -24559,8 +24361,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "CSSP": [],
     "CSSQ": [
@@ -24637,8 +24438,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ctc": [],
     "CTDquerier": [
@@ -24801,7 +24601,6 @@
         "withr",
         "xfun",
         "xts",
-        "yaml",
         "zoo"
     ],
     "ctsGE": [
@@ -24934,8 +24733,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "cummeRbund": [
         "AnnotationDbi",
@@ -25046,8 +24844,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "customCMPdb": [
         "AnnotationDbi",
@@ -25126,8 +24923,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "customProDB": [
         "AhoCorasickTrie",
@@ -25198,8 +24994,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "cyanoFilter": [
         "Biobase",
@@ -25317,8 +25112,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "cycle": [
         "Biobase",
@@ -25595,7 +25389,6 @@
         "waldo",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "CytoGLMM": [
@@ -25728,7 +25521,6 @@
         "waldo",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "cytoKernel": [
@@ -25890,8 +25682,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "cytoMEM": [
         "Biobase",
@@ -25955,8 +25746,7 @@
         "tidyselect",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "dada2": [
         "Biobase",
@@ -26120,8 +25910,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "daMA": [],
     "DAMEfinder": [
@@ -26211,8 +26000,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "DaMiRseq": [
         "AnnotationDbi",
@@ -26398,8 +26186,7 @@
         "waldo",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "DAPAR": [
         "Biobase",
@@ -26481,7 +26268,6 @@
         "withr",
         "xfun",
         "xts",
-        "yaml",
         "zoo"
     ],
     "DART": [
@@ -26624,8 +26410,7 @@
         "waldo",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "dcanr": [
         "Matrix",
@@ -26826,7 +26611,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "dcGSA": [
@@ -26946,8 +26730,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "dearseq": [
         "Matrix",
@@ -27224,8 +27007,7 @@
         "viridisLite",
         "webshot",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "DECIPHER": [
         "BiocGenerics",
@@ -27329,8 +27111,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "DEComplexDisease": [
         "AnnotationDbi",
@@ -27486,8 +27267,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "DeconRNASeq": [
         "Biobase",
@@ -27677,8 +27457,7 @@
         "vroom",
         "waldo",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "decoupleR": [
         "Matrix",
@@ -27763,8 +27542,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "DeepPINCS": [
         "CatEncoders",
@@ -27876,7 +27654,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zeallot",
         "zoo"
     ],
@@ -27947,8 +27724,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "DEFormats": [
         "AnnotationDbi",
@@ -28123,8 +27899,7 @@
         "webshot",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "DEGraph": [
         "BiocGenerics",
@@ -28259,8 +28034,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "DEGseq": [
         "Matrix",
@@ -28549,8 +28323,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "demuxmix": [
         "Matrix",
@@ -28693,7 +28466,6 @@
         "vsn",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "DepecheR": [
@@ -28894,8 +28666,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "derfinderHelper": [
         "BiocGenerics",
@@ -29028,8 +28799,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "DEScan2": [
         "AnnotationDbi",
@@ -29120,8 +28890,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "DESeq2": [
         "AnnotationDbi",
@@ -29301,7 +29070,6 @@
         "withr",
         "xfun",
         "xts",
-        "yaml",
         "zoo"
     ],
     "DEsubs": [
@@ -29777,8 +29545,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "diffcoexp": [
         "AnnotationDbi",
@@ -29868,8 +29635,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "diffcyt": [
         "ALL",
@@ -29980,7 +29746,6 @@
         "waldo",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "DifferentialRegulation": [
@@ -30075,8 +29840,7 @@
         "restfulr",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "DiffLogo": [
         "cba",
@@ -30211,8 +29975,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "diggit": [
         "Biobase",
@@ -30282,8 +30045,7 @@
         "viper",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "Dino": [
         "Biobase",
@@ -30425,7 +30187,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "dir.expiry": [],
@@ -30572,8 +30333,7 @@
         "webshot",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "distinct": [
         "Biobase",
@@ -30789,8 +30549,7 @@
         "tidyselect",
         "vctrs",
         "waldo",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "DMCHMM": [
         "Biobase",
@@ -30825,7 +30584,6 @@
         "rtracklayer",
         "sandwich",
         "survival",
-        "yaml",
         "zoo"
     ],
     "DMRcaller": [
@@ -31011,8 +30769,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "DMRforPairs": [
         "AnnotationDbi",
@@ -31121,8 +30878,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "DMRScan": [
         "BiocGenerics",
@@ -31257,8 +31013,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "DNABarcodeCompatibility": [
         "DNABarcodes",
@@ -31414,8 +31169,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "doppelgangR": [
         "AnnotationDbi",
@@ -31582,7 +31336,6 @@
         "waldo",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "DOSE": [
@@ -31722,8 +31475,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "drawProteins": [
         "Matrix",
@@ -31917,8 +31669,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "DrugVsDisease": [
         "AnnotationDbi",
@@ -32053,8 +31804,7 @@
         "rtracklayer",
         "scales",
         "sparseMatrixStats",
-        "viridisLite",
-        "yaml"
+        "viridisLite"
     ],
     "dStruct": [
         "BiocGenerics",
@@ -32302,7 +32052,6 @@
         "waldo",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "EasyCellType": [
@@ -32433,8 +32182,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "easyRNASeq": [
         "AnnotationDbi",
@@ -32555,8 +32303,7 @@
         "tiff",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "EBSEA": [
         "AnnotationDbi",
@@ -32762,8 +32509,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "edge": [
         "AnnotationDbi",
@@ -33149,7 +32895,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "eiR": [
@@ -33202,8 +32947,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "eisaR": [
         "Biobase",
@@ -33387,8 +33131,7 @@
         "waldo",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "EMDomics": [
         "BiocParallel",
@@ -33529,8 +33272,7 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "ENmix": [
         "AnnotationDbi",
@@ -33660,8 +33402,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "EnrichedHeatmap": [
         "BiocGenerics",
@@ -34004,8 +33745,7 @@
         "vroom",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ensembldb": [
         "AnnotationDbi",
@@ -34075,8 +33815,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ensemblVEP": [
         "AnnotationDbi",
@@ -34145,8 +33884,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "epialleleR": [
         "AnnotationDbi",
@@ -34215,8 +33953,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "EpiCompare": [
         "AnnotationDbi",
@@ -34364,8 +34101,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "epidecodeR": [
         "Biobase",
@@ -34461,8 +34197,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "EpiDISH": [
         "Matrix",
@@ -34655,8 +34390,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "epihet": [
         "AnnotationDbi",
@@ -34783,8 +34517,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "EpiMix": [
         "AnnotationDbi",
@@ -34900,8 +34633,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "epimutacions": [
         "AnnotationDbi",
@@ -35069,8 +34801,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "epiNEM": [
         "BiocGenerics",
@@ -35235,8 +34966,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "EpiTxDb": [
         "AnnotationDbi",
@@ -35316,8 +35046,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "epivizr": [
         "AnnotationDbi",
@@ -35401,8 +35130,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "epivizrChart": [
         "AnnotationDbi",
@@ -35482,8 +35210,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "epivizrData": [
         "AnnotationDbi",
@@ -35561,8 +35288,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "epivizrServer": [
         "httpuv",
@@ -35655,8 +35381,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "erccdashboard": [
         "Matrix",
@@ -35786,8 +35511,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ERSSA": [
         "AnnotationDbi",
@@ -36002,8 +35726,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "escape": [
         "AnnotationDbi",
@@ -36238,8 +35961,7 @@
         "webshot",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "EventPointer": [
         "AnnotationDbi",
@@ -36351,8 +36073,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "EWCE": [
         "AnnotationDbi",
@@ -36505,8 +36226,7 @@
         "vroom",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ExCluster": [
         "Biobase",
@@ -36535,8 +36255,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "ExiMiR": [
         "Biobase",
@@ -36644,8 +36363,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ExperimentHub": [
         "AnnotationDbi",
@@ -36711,8 +36429,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ExperimentHubData": [
         "AnnotationDbi",
@@ -36809,8 +36526,7 @@
         "vctrs",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ExperimentSubset": [
         "Biobase",
@@ -36946,8 +36662,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ExpressionAtlas": [
         "Biobase",
@@ -36993,8 +36708,7 @@
         "tinytex",
         "vctrs",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "extraChIPs": [
         "AnnotationDbi",
@@ -37128,8 +36842,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "fabia": [
         "Biobase",
@@ -37220,8 +36933,7 @@
         "vroom",
         "wiggleplotr",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "FamAgg": [
         "BiocGenerics",
@@ -37288,8 +37000,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "famat": [
         "AnnotationDbi",
@@ -37412,8 +37123,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "farms": [
         "Biobase",
@@ -37508,7 +37218,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "yeastCC"
     ],
     "FastqCleaner": [
@@ -37575,8 +37284,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "fastreeR": [
         "R.oo",
@@ -37720,8 +37428,7 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "fCI": [
         "VennDiagram",
@@ -37756,7 +37463,6 @@
         "tinytex",
         "vctrs",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "fcoex": [
@@ -37942,8 +37648,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "FEAST": [
         "Biobase",
@@ -38222,7 +37927,6 @@
         "withr",
         "xml2",
         "xts",
-        "yaml",
         "zoo"
     ],
     "fgga": [
@@ -38418,8 +38122,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "FISHalyseR": [
         "BiocGenerics",
@@ -38453,8 +38156,7 @@
         "tiff",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "fishpond": [
         "Biobase",
@@ -38596,8 +38298,7 @@
         "vsn",
         "withr",
         "xcms",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "FLAMES": [
         "AnnotationDbi",
@@ -38772,8 +38473,7 @@
         "withr",
         "xfun",
         "xgboost",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "flowAI": [
         "Biobase",
@@ -38824,7 +38524,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "flowBeads": [
@@ -38848,8 +38547,7 @@
         "stringi",
         "stringr",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "flowBin": [
         "Biobase",
@@ -38943,8 +38641,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "flowCHIC": [
         "Biobase",
@@ -39003,8 +38700,7 @@
         "vegan",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "flowCL": [
         "BiocGenerics",
@@ -39143,8 +38839,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "flowCyBar": [
         "Matrix",
@@ -39253,8 +38948,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "flowFP": [
         "Biobase",
@@ -39330,8 +39024,7 @@
         "viridisLite",
         "visNetwork",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "flowMap": [
         "Matrix",
@@ -39494,8 +39187,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "FlowSOM": [
         "ALL",
@@ -39581,8 +39273,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "flowSpecs": [
         "Biobase",
@@ -39901,8 +39592,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "fmrs": [
         "Matrix",
@@ -40184,8 +39874,7 @@
         "webshot",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "frenchFISH": [
         "MCMCpack",
@@ -40249,8 +39938,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "FRGEpistasis": [
         "Matrix",
@@ -40503,8 +40191,7 @@
         "vctrs",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "FuseSOM": [
         "Biobase",
@@ -40615,8 +40302,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "GA4GHclient": [
         "AnnotationDbi",
@@ -40685,8 +40371,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "GA4GHshiny": [
         "AnnotationDbi",
@@ -40780,8 +40465,7 @@
         "vctrs",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "gaga": [
         "Biobase",
@@ -41030,8 +40714,7 @@
         "waldo",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "GateFinder": [
         "Biobase",
@@ -41128,8 +40811,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "gcatest": [
         "lfa"
@@ -41192,8 +40874,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "gcrma": [
         "Biobase",
@@ -41296,8 +40977,7 @@
         "withr",
         "xfun",
         "xml2",
-        "xopen",
-        "yaml"
+        "xopen"
     ],
     "GDCRNATools": [
         "AnnotationDbi",
@@ -41480,7 +41160,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "GDSArray": [
@@ -41580,8 +41259,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "gemma.R": [
         "Biobase",
@@ -41699,8 +41377,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "GeneAccord": [
         "AnnotationDbi",
@@ -41808,7 +41485,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "geneAttribution": [
@@ -41877,8 +41553,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "GeneBreak": [
         "Biobase",
@@ -42134,8 +41809,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "GeneMeta": [
         "AnnotationDbi",
@@ -42199,8 +41873,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "GeneOverlap": [
         "RColorBrewer",
@@ -42451,8 +42124,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "geNetClassifier": [
         "Biobase",
@@ -42591,8 +42263,7 @@
         "visNetwork",
         "waiter",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "geneXtendeR": [
         "AnnotationDbi",
@@ -42672,8 +42343,7 @@
         "withr",
         "wordcloud",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "GENIE3": [
         "cli",
@@ -42751,8 +42421,7 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "GenomAutomorphism": [
         "BiocGenerics",
@@ -42991,8 +42660,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "GenomicFiles": [
         "AnnotationDbi",
@@ -43061,8 +42729,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "genomicInstability": [
         "Biobase",
@@ -43136,8 +42803,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "GenomicInteractionNodes": [
         "AnnotationDbi",
@@ -43207,8 +42873,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "GenomicInteractions": [
         "AnnotationDbi",
@@ -43318,8 +42983,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "GenomicOZone": [
         "AnnotationDbi",
@@ -43438,8 +43102,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "GenomicRanges": [
         "BiocGenerics",
@@ -43523,8 +43186,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "GenomicSuperSignature": [
         "Biobase",
@@ -43648,8 +43310,7 @@
         "waldo",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "GenomicTuples": [
         "BiocGenerics",
@@ -43737,8 +43398,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "GenProSeq": [
         "CatEncoders",
@@ -43853,7 +43513,6 @@
         "word2vec",
         "xfun",
         "xml2",
-        "yaml",
         "zeallot",
         "zoo"
     ],
@@ -43937,8 +43596,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "GeoDiff": [
         "Biobase",
@@ -44046,8 +43704,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "GEOexplorer": [
         "Biobase",
@@ -44185,8 +43842,7 @@
         "webshot",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "GEOfastq": [
         "RCurl",
@@ -44348,8 +44004,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "GEOquery": [
         "Biobase",
@@ -44584,8 +44239,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ggbio": [
         "AnnotationDbi",
@@ -44701,8 +44355,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ggcyto": [
         "Biobase",
@@ -44862,8 +44515,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "GGPA": [
         "GGally",
@@ -45226,7 +44878,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "GLAD": [
@@ -45348,8 +44999,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "glmGamPoi": [
         "Biobase",
@@ -45502,7 +45152,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "GlobalAncova": [
@@ -45660,8 +45309,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "GmicR": [
         "AnnotationDbi",
@@ -45774,8 +45422,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "gmoviz": [
         "AnnotationDbi",
@@ -45851,8 +45498,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "GMRP": [
         "BiocGenerics",
@@ -45939,8 +45585,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xgboost",
-        "yaml"
+        "xgboost"
     ],
     "GOexpress": [
         "AnnotationDbi",
@@ -46237,8 +45882,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "GOSim": [
         "AnnotationDbi",
@@ -46550,8 +46194,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "goTools": [
         "AnnotationDbi",
@@ -46638,8 +46281,7 @@
         "vegan",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "gpuMagic": [
         "BiocGenerics",
@@ -46850,7 +46492,6 @@
         "wk",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "graper": [
@@ -47003,8 +46644,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "GRmetrics": [
         "Biobase",
@@ -47104,7 +46744,6 @@
         "waldo",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "groHMM": [
@@ -47133,8 +46772,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "GRridge": [
         "BiocGenerics",
@@ -47389,8 +47027,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "GSEAlm": [
         "Biobase",
@@ -47597,8 +47234,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "GSRI": [
         "AnnotationDbi",
@@ -47833,7 +47469,6 @@
         "vroom",
         "withr",
         "xml2",
-        "yaml",
         "zeallot"
     ],
     "Guitar": [
@@ -47913,8 +47548,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "Gviz": [
         "AnnotationDbi",
@@ -48021,8 +47655,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "GWAS.BAYES": [
         "GA",
@@ -48182,8 +47815,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "GWASTools": [
         "Biobase",
@@ -48316,7 +47948,6 @@
         "vctrs",
         "withr",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "GWENA": [
@@ -48417,8 +48048,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "h5vc": [
         "BBmisc",
@@ -48564,8 +48194,7 @@
         "vctrs",
         "vroom",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "HDF5Array": [
         "BiocGenerics",
@@ -48623,8 +48252,7 @@
         "tiff",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "Heatplus": [
         "RColorBrewer"
@@ -48697,8 +48325,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "HELP": [
         "Biobase",
@@ -48891,8 +48518,7 @@
         "tidyselect",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "HIBAG": [
         "RcppParallel"
@@ -49132,8 +48758,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "HiCDOC": [
         "Biobase",
@@ -49266,8 +48891,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "HiContacts": [
         "AnnotationDbi",
@@ -49405,8 +49029,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "hierGWAS": [
         "Matrix",
@@ -49534,8 +49157,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "hipathia": [
         "AnnotationDbi",
@@ -49619,7 +49241,6 @@
         "vctrs",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "HIPPO": [
@@ -49733,8 +49354,7 @@
         "tidyselect",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "HIREewas": [
         "caTools",
@@ -49768,8 +49388,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "hmdbQuery": [
         "BiocGenerics",
@@ -50009,8 +49628,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "HTSFilter": [
         "AnnotationDbi",
@@ -50121,7 +49739,6 @@
         "vctrs",
         "withr",
         "xml2",
-        "yaml",
         "yesno"
     ],
     "HumanTranscriptomeCompendium": [
@@ -50172,8 +49789,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "hummingbird": [
         "Biobase",
@@ -50275,8 +49891,7 @@
         "webshot",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "hyperdraw": [
         "BiocGenerics",
@@ -50424,8 +50039,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "Icens": [
         "Matrix",
@@ -50523,8 +50137,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "iCheck": [
         "AnnotationDbi",
@@ -50657,7 +50270,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "iChip": [],
@@ -50718,8 +50330,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "iCOBRA": [
         "DT",
@@ -50781,8 +50392,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ideal": [
         "AnnotationDbi",
@@ -50936,8 +50546,7 @@
         "webshot",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "IdeoViz": [
         "Biobase",
@@ -50966,8 +50575,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "idiogram": [
         "AnnotationDbi",
@@ -51205,8 +50813,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "IHW": [
         "BiocGenerics",
@@ -51388,8 +50995,7 @@
         "viridisLite",
         "vsn",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "IMAS": [
         "AnnotationDbi",
@@ -51489,8 +51095,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "imcRtools": [
         "Biobase",
@@ -51635,8 +51240,7 @@
         "vroom",
         "withr",
         "wk",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "IMMAN": [
         "BiocGenerics",
@@ -51767,8 +51371,7 @@
         "viridisLite",
         "webshot",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "immunoClust": [
         "Biobase",
@@ -51908,8 +51511,7 @@
         "withr",
         "xfun",
         "xml2",
-        "xopen",
-        "yaml"
+        "xopen"
     ],
     "infercnv": [
         "Biobase",
@@ -52052,7 +51654,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "infinityFlow": [
@@ -52180,8 +51781,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "INPower": [],
     "INSPEcT": [
@@ -52280,8 +51880,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "InTAD": [
         "Biobase",
@@ -52380,8 +51979,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "intansv": [
         "AnnotationDbi",
@@ -52498,8 +52096,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "interacCircos": [
         "RColorBrewer",
@@ -52526,8 +52123,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "InteractionSet": [
         "Biobase",
@@ -52610,8 +52206,7 @@
         "webshot",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "interactiveDisplay": [
         "AnnotationDbi",
@@ -52692,8 +52287,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "interactiveDisplayBase": [
         "BiocGenerics",
@@ -52729,8 +52323,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "InterCellar": [
         "AnnotationDbi",
@@ -52892,8 +52485,7 @@
         "withr",
         "wordcloud2",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "IntEREst": [
         "AnnotationDbi",
@@ -52985,8 +52577,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "InterMineR": [
         "Biobase",
@@ -53048,8 +52639,7 @@
         "stringi",
         "stringr",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "IONiseR": [
         "Biobase",
@@ -53215,7 +52805,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "ipdDb": [
@@ -53283,8 +52872,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "IPO": [
         "Biobase",
@@ -53378,8 +52966,7 @@
         "vsn",
         "withr",
         "xcms",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "IRanges": [
         "BiocGenerics",
@@ -53614,7 +53201,6 @@
         "waldo",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "ISAnalytics": [
@@ -53694,8 +53280,7 @@
         "vroom",
         "withr",
         "writexl",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "iSEE": [
         "Biobase",
@@ -53776,8 +53361,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "iSEEhex": [
         "Biobase",
@@ -53860,8 +53444,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "iSEEhub": [
         "AnnotationDbi",
@@ -53963,8 +53546,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "iSEEu": [
         "Biobase",
@@ -54048,8 +53630,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ISLET": [
         "Biobase",
@@ -54310,8 +53891,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "isomiRs": [
         "ALL",
@@ -54417,8 +53997,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ITALICS": [
         "Biobase",
@@ -54580,8 +54159,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ivygapSE": [
         "Biobase",
@@ -54701,7 +54279,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "IWTomics": [
@@ -54855,8 +54432,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "katdetectr": [
         "AnnotationDbi",
@@ -54951,7 +54527,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "KBoost": [],
@@ -55255,8 +54830,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "KnowSeq": [
         "AnnotationDbi",
@@ -55380,8 +54954,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "LACE": [
         "AnnotationDbi",
@@ -55493,8 +55066,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "lapmix": [
         "Biobase",
@@ -55683,8 +55255,7 @@
         "waldo",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "lfa": [],
     "limmaGUI": [
@@ -55744,8 +55315,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "lineagespot": [
         "AnnotationDbi",
@@ -55814,8 +55384,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "LinkHD": [
         "Biobase",
@@ -55919,8 +55488,7 @@
         "vroom",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "Linnorm": [
         "DEoptimR",
@@ -56036,8 +55604,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "lionessR": [
         "Biobase",
@@ -56140,7 +55707,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "LiquidAssociation": [
@@ -56405,8 +55971,7 @@
         "vsn",
         "withr",
         "xcms",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "loci2path": [
         "BiocGenerics",
@@ -56617,8 +56182,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "LPE": [],
     "LPEadj": [
@@ -56738,8 +56302,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "lumi": [
         "AnnotationDbi",
@@ -56854,8 +56417,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "LymphoSeq": [
         "BiocGenerics",
@@ -57031,8 +56593,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "m6Aboost": [
         "AnnotationDbi",
@@ -57156,8 +56717,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "maanova": [
         "Biobase",
@@ -57263,8 +56823,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "Macarron": [
         "AnnotationDbi",
@@ -57420,8 +56979,7 @@
         "waldo",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "macat": [
         "AnnotationDbi",
@@ -57517,8 +57075,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "MACSr": [
         "AnnotationDbi",
@@ -57594,8 +57151,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "made4": [
         "Biobase",
@@ -57699,8 +57255,7 @@
         "vegan",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "maftools": [
         "Matrix",
@@ -57848,8 +57403,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "MAGeCKFlute": [
         "AnnotationDbi",
@@ -57977,8 +57531,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "magrene": [
         "BiocParallel",
@@ -58110,8 +57663,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "maigesPack": [
         "Biobase",
@@ -58270,8 +57822,7 @@
         "vsn",
         "withr",
         "xcms",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "makecdfenv": [
         "Biobase",
@@ -58425,8 +57976,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "mapscape": [
         "bslib",
@@ -58451,8 +58001,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "marr": [
         "Biobase",
@@ -58614,8 +58163,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "maSigPro": [
         "Biobase",
@@ -58805,7 +58353,6 @@
         "vsn",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "MatrixRider": [
@@ -58890,8 +58437,7 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "matter": [
         "BiocGenerics",
@@ -59040,8 +58586,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "mbkmeans": [
         "Biobase",
@@ -59191,8 +58736,7 @@
         "viridisLite",
         "visNetwork",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "mBPCR": [
         "Biobase",
@@ -59325,8 +58869,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "MBttest": [
         "caTools",
@@ -59426,8 +58969,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "mCSEA": [
         "AnnotationDbi",
@@ -59545,8 +59087,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "mdp": [
         "Matrix",
@@ -59769,8 +59310,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "MEAT": [
         "AnnotationDbi",
@@ -59897,8 +59437,7 @@
         "wateRmelon",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "MEB": [
         "Biobase",
@@ -59986,8 +59525,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "MEDME": [
         "BiocGenerics",
@@ -60060,7 +59598,6 @@
         "waldo",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "megadepth": [
@@ -60122,8 +59659,7 @@
         "vroom",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "MEIGOR": [
         "BiocGenerics",
@@ -60173,8 +59709,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "Melissa": [
         "BPRMeth",
@@ -60247,8 +59782,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "memes": [
         "BiocGenerics",
@@ -60326,8 +59860,7 @@
         "vroom",
         "waldo",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "Mergeomics": [],
     "MeSHDbi": [
@@ -60475,8 +60008,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "meshr": [
         "AnnotationDbi",
@@ -60535,8 +60067,7 @@
         "sys",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "MesKit": [
         "AnnotationDbi",
@@ -60846,8 +60377,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "MetaboCoreUtils": [
         "BiocGenerics",
@@ -60904,8 +60434,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "metabomxtr": [
         "Biobase",
@@ -61091,8 +60620,7 @@
         "waldo",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "MetaCyto": [
         "ALL",
@@ -61182,8 +60710,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "metagene": [
         "AnnotationDbi",
@@ -61266,8 +60793,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "metagene2": [
         "Biobase",
@@ -61320,8 +60846,7 @@
         "tidyselect",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "metagenomeSeq": [
         "Biobase",
@@ -61431,8 +60956,7 @@
         "vsn",
         "withr",
         "xcms",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "MetaNeighbor": [
         "Biobase",
@@ -61820,7 +61344,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "metavizr": [
@@ -61941,8 +61464,7 @@
         "vegan",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "MetaVolcanoR": [
         "Biobase",
@@ -62023,7 +61545,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "MetCirc": [
@@ -62150,8 +61671,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "methimpute": [
         "BiocGenerics",
@@ -62249,8 +61769,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "MethPed": [
         "Biobase",
@@ -62392,8 +61911,7 @@
         "waldo",
         "wheatmap",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "methrix": [
         "BSgenome",
@@ -62446,8 +61964,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "MethTargetedNGS": [
         "BiocGenerics",
@@ -62592,8 +62109,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "methylCC": [
         "AnnotationDbi",
@@ -62705,8 +62221,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "methylclock": [
         "AnnotationDbi",
@@ -62927,7 +62442,6 @@
         "xml2",
         "xopen",
         "xts",
-        "yaml",
         "zoo"
     ],
     "methylGSA": [
@@ -63095,8 +62609,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "methylInheritance": [
         "Biobase",
@@ -63161,8 +62674,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "methylKit": [
         "Biobase",
@@ -63221,8 +62733,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "MethylMix": [
         "Matrix",
@@ -63369,8 +62880,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "methylscaper": [
         "Biobase",
@@ -63488,8 +62998,7 @@
         "restfulr",
         "rtracklayer",
         "sys",
-        "vctrs",
-        "yaml"
+        "vctrs"
     ],
     "methylSig": [
         "BSgenome",
@@ -63537,8 +63046,7 @@
         "rtracklayer",
         "scales",
         "sparseMatrixStats",
-        "viridisLite",
-        "yaml"
+        "viridisLite"
     ],
     "methylumi": [
         "AnnotationDbi",
@@ -63650,8 +63158,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "MetID": [
         "BiocGenerics",
@@ -63747,8 +63254,7 @@
         "withr",
         "xfun",
         "xml2",
-        "xopen",
-        "yaml"
+        "xopen"
     ],
     "MetNet": [
         "Biobase",
@@ -64485,8 +63991,7 @@
         "waldo",
         "webshot",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "microbiomeMarker": [
         "ALDEx2",
@@ -64726,7 +64231,6 @@
         "waldo",
         "withr",
         "xfun",
-        "yaml",
         "zCompositions",
         "zoo"
     ],
@@ -64860,8 +64364,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "MicrobiotaProcess": [
         "Biobase",
@@ -65018,8 +64521,7 @@
         "webshot",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "MIGSA": [
         "AnnotationDbi",
@@ -65336,8 +64838,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "MineICA": [
         "AnnotationDbi",
@@ -65497,8 +64998,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "minet": [],
     "minfi": [
@@ -65599,8 +65099,7 @@
         "vctrs",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "MinimumDistance": [
         "BSgenome",
@@ -65652,8 +65151,7 @@
         "restfulr",
         "rtracklayer",
         "sys",
-        "vctrs",
-        "yaml"
+        "vctrs"
     ],
     "MiPP": [
         "Biobase",
@@ -65755,8 +65253,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "MiRaGE": [
         "AnnotationDbi",
@@ -65980,7 +65477,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "miRmine": [
@@ -66350,8 +65846,7 @@
         "waldo",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "miRspongeR": [
         "AnnotationDbi",
@@ -66571,8 +66066,7 @@
         "waldo",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "mirTarRnaSeq": [
         "Matrix",
@@ -66728,8 +66222,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "missRows": [
         "Biobase",
@@ -66844,8 +66337,7 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "mitch": [
         "GGally",
@@ -66912,8 +66404,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "mitoClone2": [
         "AnnotationDbi",
@@ -66995,8 +66486,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "mixOmics": [
         "BiocParallel",
@@ -67125,8 +66615,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "MLP": [
         "AnnotationDbi",
@@ -67345,8 +66834,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "MMDiff2": [
         "BSgenome",
@@ -67411,8 +66899,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "MMUPHin": [
         "Biobase",
@@ -67524,8 +67011,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "mnem": [
         "BiocGenerics",
@@ -67787,8 +67273,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ModCon": [],
     "Modstrings": [
@@ -68117,7 +67602,6 @@
         "viridisLite",
         "vroom",
         "withr",
-        "yaml",
         "zoo"
     ],
     "monocle": [
@@ -68305,8 +67789,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "mosaics": [
         "Biobase",
@@ -68493,8 +67976,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "motifbreakR": [
         "AnnotationDbi",
@@ -68623,8 +68105,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "motifcounter": [
         "BiocGenerics",
@@ -68663,8 +68144,7 @@
         "lattice",
         "restfulr",
         "rtracklayer",
-        "splitstackshape",
-        "yaml"
+        "splitstackshape"
     ],
     "motifmatchr": [
         "AnnotationDbi",
@@ -68749,8 +68229,7 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "motifStack": [
         "AnnotationDbi",
@@ -68849,8 +68328,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "MouseFM": [
         "AnnotationDbi",
@@ -68916,8 +68394,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "MPFE": [],
     "mpra": [
@@ -69063,8 +68540,7 @@
         "vroom",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "msa": [
         "BiocGenerics",
@@ -69265,8 +68741,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "MsFeatures": [
         "Biobase",
@@ -69410,8 +68885,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "msImpute": [
         "Biobase",
@@ -69774,8 +69248,7 @@
         "viridisLite",
         "vsn",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "MSPrep": [
         "AnnotationDbi",
@@ -69890,7 +69363,6 @@
         "waldo",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "msPurity": [
@@ -70031,8 +69503,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "MSstats": [
         "MSstatsConvert",
@@ -70233,8 +69704,7 @@
         "waldo",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "MSstatsLOBD": [
         "Matrix",
@@ -70413,8 +69883,7 @@
         "viridisLite",
         "vsn",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "MSstatsQCgui": [
         "Biobase",
@@ -70505,8 +69974,7 @@
         "viridisLite",
         "vsn",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "MSstatsSampleSize": [
         "BiocParallel",
@@ -70702,8 +70170,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "MSstatsTMT": [
         "MSstats",
@@ -70928,8 +70395,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "multiClust": [
         "Matrix",
@@ -71111,7 +70577,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zeallot"
     ],
     "MultiDataSet": [
@@ -71575,7 +71040,6 @@
         "xfun",
         "xml2",
         "xopen",
-        "yaml",
         "zoo"
     ],
     "multtest": [
@@ -71705,8 +71169,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "muscat": [
         "AnnotationDbi",
@@ -71852,8 +71315,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "muscle": [
         "BiocGenerics",
@@ -72063,8 +71525,7 @@
         "waldo",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "MutationalPatterns": [
         "AnnotationDbi",
@@ -72155,8 +71616,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "MVCClass": [],
     "MWASTools": [
@@ -72257,8 +71717,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "mygene": [
         "AnnotationDbi",
@@ -72363,8 +71822,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "myvariant": [
         "AnnotationDbi",
@@ -72467,8 +71925,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "mzID": [
         "ProtGenerics",
@@ -72660,7 +72117,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "NanoMethViz": [
@@ -72764,8 +72220,7 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "NanoStringDiff": [
         "Biobase",
@@ -72827,8 +72282,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "NanoStringQCPro": [
         "AnnotationDbi",
@@ -72889,8 +72343,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "nanotatoR": [
         "AnnotationDbi",
@@ -73003,8 +72456,7 @@
         "waldo",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "NanoTube": [
         "Biobase",
@@ -73171,8 +72623,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ncdfFlow": [
         "Biobase",
@@ -73427,8 +72878,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "Nebulosa": [
         "Biobase",
@@ -73556,7 +73006,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "NeighborNet": [
@@ -73786,8 +73235,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "netboxr": [
         "AnnotationDbi",
@@ -73900,8 +73348,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "netDx": [
         "Biobase",
@@ -74110,8 +73557,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "NetPathMiner": [
         "Matrix",
@@ -74199,8 +73645,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "NetSAM": [
         "AnnotationDbi",
@@ -74295,8 +73740,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "netSmooth": [
         "AnnotationDbi",
@@ -74579,7 +74023,6 @@
         "vroom",
         "withr",
         "xml2",
-        "yaml",
         "yarn"
     ],
     "NeuCA": [
@@ -74621,7 +74064,6 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "yaml",
         "zeallot"
     ],
     "NewWave": [
@@ -74733,7 +74175,6 @@
         "vroom",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "nnNorm": [
@@ -74943,8 +74384,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "normalize450K": [
         "Biobase",
@@ -75078,7 +74518,6 @@
         "waldo",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "NormqPCR": [
@@ -75114,8 +74553,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "normr": [
         "Biobase",
@@ -75167,8 +74605,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "NPARC": [
         "BiocParallel",
@@ -75345,8 +74782,7 @@
         "tidyselect",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "NuPoP": [],
     "NxtIRFcore": [
@@ -75457,8 +74893,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "OCplus": [
         "Biobase",
@@ -75609,8 +75044,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ODER": [
         "AnnotationDbi",
@@ -75775,8 +75209,7 @@
         "waldo",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "odseq": [
         "BiocGenerics",
@@ -75918,8 +75351,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "oligo": [
         "Biobase",
@@ -76242,7 +75674,6 @@
         "vegan",
         "withr",
         "xfun",
-        "yaml",
         "zCompositions"
     ],
     "omicRexposome": [
@@ -76401,7 +75832,6 @@
         "waldo",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "OmicsLonDA": [
@@ -76609,7 +76039,6 @@
         "xfun",
         "xml2",
         "xts",
-        "yaml",
         "zoo"
     ],
     "omicsPrint": [
@@ -76786,7 +76215,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "Omixer": [
@@ -76881,8 +76309,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ompBAM": [],
     "oncomix": [
@@ -77066,8 +76493,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "oneSENSE": [
         "Biobase",
@@ -77141,8 +76567,7 @@
         "viridisLite",
         "webshot",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "onlineFDR": [
         "cli",
@@ -77230,8 +76655,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "openCyto": [
         "Biobase",
@@ -77364,8 +76788,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "openPrimeRui": [
         "BiocGenerics",
@@ -77462,8 +76885,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "OpenStats": [
         "AICcmodavg",
@@ -77563,8 +76985,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "oposSOM": [
         "AnnotationDbi",
@@ -77773,8 +77194,7 @@
         "withr",
         "xfun",
         "xml2",
-        "xopen",
-        "yaml"
+        "xopen"
     ],
     "optimalFlow": [
         "Biobase",
@@ -77838,8 +77258,7 @@
         "transport",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "OPWeight": [
         "Matrix",
@@ -77909,8 +77328,7 @@
         "stringi",
         "stringr",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ORFik": [
         "AnnotationDbi",
@@ -78005,8 +77423,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "Organism.dplyr": [
         "AnnotationDbi",
@@ -78075,8 +77492,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "OrganismDbi": [
         "AnnotationDbi",
@@ -78145,8 +77561,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "orthogene": [
         "BiocGenerics",
@@ -78266,8 +77681,7 @@
         "vroom",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "Oscope": [
         "BiocParallel",
@@ -78463,8 +77877,7 @@
         "webshot",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "OVESEG": [
         "Biobase",
@@ -78654,8 +78067,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "PADOG": [
         "AnnotationDbi",
@@ -78782,8 +78194,7 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "PAIRADISE": [
         "Biobase",
@@ -79203,7 +78614,6 @@
         "viridisLite",
         "waldo",
         "withr",
-        "yaml",
         "zeallot"
     ],
     "parglms": [
@@ -79281,8 +78691,7 @@
         "tidyselect",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "Path2PPI": [
         "Matrix",
@@ -79454,8 +78863,7 @@
         "withr",
         "xfun",
         "xml2",
-        "xopen",
-        "yaml"
+        "xopen"
     ],
     "pathRender": [
         "AnnotationDbi",
@@ -79723,8 +79131,7 @@
         "webshot",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "pcaMethods": [
         "Biobase",
@@ -79991,7 +79398,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "pdInfoBuilder": [
@@ -80152,8 +79558,7 @@
         "viridisLite",
         "vsn",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "PECA": [
         "AnnotationDbi",
@@ -80473,7 +79878,6 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "yaml",
         "zoo"
     ],
     "PFP": [
@@ -80674,8 +80078,7 @@
         "webutils",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "PharmacoGx": [
         "Biobase",
@@ -80773,8 +80176,7 @@
         "viridisLite",
         "visNetwork",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "PhenoGeneRanker": [
         "Matrix",
@@ -80903,8 +80305,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "phenopath": [
         "Biobase",
@@ -81045,8 +80446,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "PhenStat": [
         "BiocGenerics",
@@ -81124,8 +80524,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "philr": [
         "Matrix",
@@ -81328,8 +80727,7 @@
         "waldo",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "PhyloProfile": [
         "AnnotationDbi",
@@ -81428,7 +80826,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "phyloseq": [
@@ -81656,8 +81053,7 @@
         "viridisLite",
         "visNetwork",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "pickgene": [],
     "PICS": [
@@ -81820,8 +81216,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "PING": [
         "AnnotationDbi",
@@ -81942,8 +81337,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "pipeComp": [
         "Biobase",
@@ -82105,7 +81499,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "pipeFrame": [
@@ -82159,8 +81552,7 @@
         "tinytex",
         "vctrs",
         "visNetwork",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "pkgDepTools": [
         "BiocGenerics",
@@ -82325,8 +81717,7 @@
         "tidyselect",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "plotGrouper": [
         "Hmisc",
@@ -82436,8 +81827,7 @@
         "vroom",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "PLPE": [
         "Biobase",
@@ -82481,8 +81871,7 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "pmm": [
         "Matrix",
@@ -82626,8 +82015,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "podkat": [
         "BSgenome",
@@ -82656,8 +82044,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "pogos": [
         "AnnotationDbi",
@@ -82745,8 +82132,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "polyester": [
         "BiocGenerics",
@@ -82889,8 +82275,7 @@
         "vegan",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "PoTRA": [
         "AnnotationDbi",
@@ -83185,8 +82570,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "prebs": [
         "Biobase",
@@ -83270,8 +82654,7 @@
         "vegan",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "preciseTAD": [
         "AnnotationDbi",
@@ -83399,8 +82782,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "PREDA": [
         "AnnotationDbi",
@@ -83578,8 +82960,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "PrInCE": [
         "Biobase",
@@ -83681,7 +83062,6 @@
         "withr",
         "xfun",
         "xts",
-        "yaml",
         "zoo"
     ],
     "proActiv": [
@@ -83765,8 +83145,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "proBAMr": [
         "AnnotationDbi",
@@ -83833,8 +83212,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "proBatch": [
         "AnnotationDbi",
@@ -83954,8 +83332,7 @@
         "vsn",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "PROcess": [
         "Icens",
@@ -84097,8 +83474,7 @@
         "vsn",
         "withr",
         "xcms",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "profileplyr": [
         "AnnotationDbi",
@@ -84259,8 +83635,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "profileScoreDist": [
         "BiocGenerics"
@@ -84526,8 +83901,7 @@
         "vsn",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "pRolocGUI": [
         "AnnotationDbi",
@@ -84697,8 +84071,7 @@
         "waiter",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "PROMISE": [
         "AnnotationDbi",
@@ -84894,7 +84267,6 @@
         "withr",
         "xfun",
         "xts",
-        "yaml",
         "zoo"
     ],
     "proteasy": [
@@ -84978,8 +84350,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ProteoDisco": [
         "AnnotationDbi",
@@ -85054,8 +84425,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ProteoMM": [
         "AnnotationDbi",
@@ -85265,8 +84635,7 @@
         "webshot",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ProtGenerics": [],
     "PSEA": [
@@ -85426,7 +84795,6 @@
         "xfun",
         "xml2",
         "xts",
-        "yaml",
         "zoo"
     ],
     "PSMatch": [
@@ -85507,8 +84875,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "psygenet2r": [
         "AnnotationDbi",
@@ -85715,8 +85082,7 @@
         "vsn",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "puma": [
         "Biobase",
@@ -85833,8 +85199,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "pvac": [
         "Biobase",
@@ -85995,8 +85360,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "PWMEnrich": [
         "BiocGenerics",
@@ -86094,8 +85458,7 @@
         "vctrs",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "pwrEWAS": [
         "AnnotationDbi",
@@ -86185,8 +85548,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "qckitfastq": [
         "Matrix",
@@ -86232,8 +85594,7 @@
         "stringi",
         "stringr",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "QDNAseq": [
         "Biobase",
@@ -86338,8 +85699,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "qmtools": [
         "Biobase",
@@ -86464,7 +85824,6 @@
         "webshot",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "qpcrNorm": [
@@ -86542,8 +85901,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "qPLEXanalyzer": [
         "Biobase",
@@ -86731,8 +86089,7 @@
         "waldo",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "qsea": [
         "BSgenome",
@@ -86763,7 +86120,6 @@
         "lattice",
         "restfulr",
         "rtracklayer",
-        "yaml",
         "zoo"
     ],
     "qsmooth": [
@@ -86852,8 +86208,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "QSutils": [
         "BiocGenerics",
@@ -87098,8 +86453,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "quantsmooth": [
         "Matrix",
@@ -87210,8 +86564,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "QuaternaryProd": [
         "cli",
@@ -87224,8 +86577,7 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "QUBIC": [
         "Matrix",
@@ -87413,8 +86765,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "r3Cseq": [
         "Biobase",
@@ -87475,8 +86826,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "R453Plus1Toolbox": [
         "AnnotationDbi",
@@ -87554,8 +86904,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "R4RNA": [
         "BiocGenerics",
@@ -87663,8 +87012,7 @@
         "viridisLite",
         "visNetwork",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "RaggedExperiment": [
         "Biobase",
@@ -87976,8 +87324,7 @@
         "vctrs",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "rawrr": [],
     "RbcBook1": [
@@ -88141,8 +87488,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "RCAS": [
         "AnnotationDbi",
@@ -88253,8 +87599,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "rcellminer": [
         "Biobase",
@@ -88399,8 +87744,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "RcisTarget": [
         "AUCell",
@@ -88492,8 +87836,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "RCM": [
         "Biobase",
@@ -88716,8 +88059,7 @@
         "visNetwork",
         "vroom",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "RcwlPipelines": [
         "BiocFileCache",
@@ -88814,8 +88156,7 @@
         "visNetwork",
         "vroom",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "RCX": [
         "Matrix",
@@ -88901,8 +88242,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ReactomeContentService4R": [
         "askpass",
@@ -89142,8 +88482,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "receptLoss": [
         "Biobase",
@@ -89362,8 +88701,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "recount3": [
         "Biobase",
@@ -89421,8 +88759,7 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "recountmethylation": [
         "AnnotationDbi",
@@ -89524,8 +88861,7 @@
         "vctrs",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "recoup": [
         "AnnotationDbi",
@@ -89609,8 +88945,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "RedeR": [
         "Matrix",
@@ -89718,8 +89053,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "RefPlus": [
         "Biobase",
@@ -89842,8 +89176,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "regioneR": [
         "BSgenome",
@@ -89874,8 +89207,7 @@
         "lattice",
         "memoise",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "regioneReloaded": [
         "BSgenome",
@@ -89943,8 +89275,7 @@
         "umap",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "regionReport": [
         "AnnotationDbi",
@@ -90071,8 +89402,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "regsplice": [
         "Biobase",
@@ -90223,8 +89553,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "REMP": [
         "AnnotationDbi",
@@ -90383,8 +89712,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "Repitools": [
         "AnnotationDbi",
@@ -90460,8 +89788,7 @@
         "vctrs",
         "viridisLite",
         "vsn",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "ReportingTools": [
         "AnnotationDbi",
@@ -90594,8 +89921,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "RepViz": [
         "AnnotationDbi",
@@ -90746,8 +90072,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "restfulSE": [
         "AnnotationDbi",
@@ -90831,8 +90156,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "rexposome": [
         "Biobase",
@@ -90945,7 +90269,6 @@
         "waldo",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "rfaRm": [
@@ -91052,8 +90375,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "rGenomeTracks": [
         "AnnotationDbi",
@@ -91133,8 +90455,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "RGMQL": [
         "Biobase",
@@ -91183,8 +90504,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "RgnTX": [
         "AnnotationDbi",
@@ -91263,8 +90583,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "rgoslin": [
         "cli",
@@ -91383,8 +90702,7 @@
         "vctrs",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "RGSEA": [
         "BiocGenerics"
@@ -91474,8 +90792,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "rhdf5": [
         "Rhdf5lib",
@@ -91568,8 +90885,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "Rhtslib": [],
     "RiboCrypt": [
@@ -91682,8 +90998,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "RiboDiPA": [
         "AnnotationDbi",
@@ -91787,8 +91102,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "RiboProfiling": [
         "AnnotationDbi",
@@ -91909,8 +91223,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ribor": [
         "BiocGenerics",
@@ -91944,8 +91257,7 @@
         "tidyselect",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "riboSeqR": [
         "BiocGenerics",
@@ -92090,8 +91402,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "rifi": [
         "Biobase",
@@ -92186,8 +91497,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "RImmPort": [
         "RSQLite",
@@ -92379,8 +91689,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "Risa": [
         "Biobase",
@@ -92549,8 +91858,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "RIVER": [
         "Biobase",
@@ -92616,8 +91924,7 @@
         "rtracklayer",
         "stringi",
         "stringr",
-        "vctrs",
-        "yaml"
+        "vctrs"
     ],
     "RLassoCox": [
         "Matrix",
@@ -92783,8 +92090,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "Rmagpie": [
         "Biobase",
@@ -92892,8 +92198,7 @@
         "webchem",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "rmelting": [
         "Rdpack",
@@ -93032,8 +92337,7 @@
         "withr",
         "xfun",
         "xml2",
-        "xopen",
-        "yaml"
+        "xopen"
     ],
     "rmspc": [
         "Biobase",
@@ -93069,8 +92373,7 @@
         "rtracklayer",
         "stringi",
         "stringr",
-        "vctrs",
-        "yaml"
+        "vctrs"
     ],
     "RNAAgeCalc": [
         "AnnotationDbi",
@@ -93194,8 +92497,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "RNAdecay": [
         "Matrix",
@@ -93321,8 +92623,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "RNAinteract": [
         "AnnotationDbi",
@@ -93510,8 +92811,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "RNAmodR.AlkAnilineSeq": [
         "AnnotationDbi",
@@ -93626,8 +92926,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "RNAmodR.ML": [
         "AnnotationDbi",
@@ -93743,8 +93042,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "RNAmodR.RiboMethSeq": [
         "AnnotationDbi",
@@ -93859,8 +93157,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "RNAsense": [
         "Biobase",
@@ -94091,7 +93388,6 @@
         "withr",
         "xfun",
         "xts",
-        "yaml",
         "zoo"
     ],
     "RnaSeqSampleSize": [
@@ -94250,8 +93546,7 @@
         "waldo",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "RnBeads": [
         "AnnotationDbi",
@@ -94372,8 +93667,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "roar": [
         "Biobase",
@@ -94401,8 +93695,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "ROC": [
         "cli",
@@ -94413,8 +93706,7 @@
         "stringi",
         "stringr",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ROCpAI": [
         "Biobase",
@@ -94440,8 +93732,7 @@
         "stringi",
         "stringr",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "RolDE": [
         "Biobase",
@@ -94599,8 +93890,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ROSeq": [
         "edgeR",
@@ -94680,8 +93970,7 @@
         "vegan",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "rprimer": [
         "BiocGenerics",
@@ -94744,8 +94033,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "rpx": [
         "BiocFileCache",
@@ -94896,8 +94184,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "rqt": [
         "Biobase",
@@ -95015,7 +94302,6 @@
         "waldo",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "rqubic": [
@@ -95348,7 +94634,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "RTCGAToolbox": [
@@ -95427,8 +94712,7 @@
         "vctrs",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "RTN": [
         "Biobase",
@@ -95535,8 +94819,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "RTNduals": [
         "Biobase",
@@ -95644,8 +94927,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "RTNsurvival": [
         "Biobase",
@@ -95757,8 +95039,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "RTopper": [
         "Biobase",
@@ -95826,8 +95107,7 @@
         "futile.options",
         "lambda.r",
         "lattice",
-        "restfulr",
-        "yaml"
+        "restfulr"
     ],
     "Rtreemix": [
         "Biobase",
@@ -95884,8 +95164,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "rTRM": [
         "AnnotationDbi",
@@ -95987,8 +95266,7 @@
         "splitstackshape",
         "sys",
         "vctrs",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "runibic": [
         "Biobase",
@@ -96157,8 +95435,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "RVS": [
         "BiocGenerics",
@@ -96201,8 +95478,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "rWikiPathways": [
         "RCurl",
@@ -96443,7 +95719,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zeallot"
     ],
     "sangerseqR": [
@@ -96622,8 +95897,7 @@
         "tinytex",
         "vctrs",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "SBMLR": [],
     "SC3": [
@@ -96849,7 +96123,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "SCAN.UPC": [
@@ -97078,8 +96351,7 @@
         "waiter",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "scAnnotatR": [
         "AnnotationDbi",
@@ -97236,7 +96508,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "SCANVIS": [
@@ -97265,8 +96536,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "SCArray": [
         "Biobase",
@@ -97372,8 +96642,7 @@
         "vctrs",
         "withr",
         "xfun",
-        "xgboost",
-        "yaml"
+        "xgboost"
     ],
     "scater": [
         "Biobase",
@@ -97610,7 +96879,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zinbwave",
         "zoo"
     ],
@@ -97730,7 +96998,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "scCB2": [
@@ -97873,7 +97140,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "scClassify": [
@@ -97990,8 +97256,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "sccomp": [
         "Biobase",
@@ -98196,7 +97461,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "scDblFinder": [
@@ -98281,8 +97545,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xgboost",
-        "yaml"
+        "xgboost"
     ],
     "scDD": [
         "Biobase",
@@ -98791,7 +98054,6 @@
         "withr",
         "wk",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "scHOT": [
@@ -98924,8 +98186,7 @@
         "webshot",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "scMAGeCK": [
         "Matrix",
@@ -99035,7 +98296,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "scmap": [
@@ -99188,8 +98448,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "scMET": [
         "Biobase",
@@ -99266,8 +98525,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "scmeth": [
         "AnnotationDbi",
@@ -99385,8 +98643,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "SCnorm": [
         "Biobase",
@@ -99564,8 +98821,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "Sconify": [
         "Biobase",
@@ -99669,8 +98925,7 @@
         "rtracklayer",
         "sys",
         "tibble",
-        "vctrs",
-        "yaml"
+        "vctrs"
     ],
     "scoreInvHap": [
         "AnnotationDbi",
@@ -99741,8 +98996,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "scp": [
         "AnnotationFilter",
@@ -99819,8 +99073,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "scPCA": [
         "BiocGenerics",
@@ -99991,8 +99244,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "scran": [
         "Biobase",
@@ -100316,8 +99568,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "scry": [
         "Biobase",
@@ -100580,7 +99831,6 @@
         "withr",
         "wk",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "scTGIF": [
@@ -100739,7 +99989,6 @@
         "withr",
         "wk",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "scTHI": [
@@ -100941,7 +100190,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "scuttle": [
@@ -101174,8 +100422,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "segmentSeq": [
         "Biobase",
@@ -101299,8 +100546,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "SELEX": [
         "BiocGenerics",
@@ -101435,8 +100681,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "seqArchR": [
         "BiocGenerics",
@@ -101595,8 +100840,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "seqCNA": [
         "CircStats",
@@ -101792,8 +101036,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "SeqSQC": [
         "AnnotationDbi",
@@ -101895,8 +101138,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "seqTools": [],
     "SeqVarTools": [
@@ -102036,8 +101278,7 @@
         "vroom",
         "wheatmap",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "SEtools": [
         "AnnotationDbi",
@@ -102142,8 +101383,7 @@
         "stringr",
         "sys",
         "uuid",
-        "vctrs",
-        "yaml"
+        "vctrs"
     ],
     "sevenC": [
         "Biobase",
@@ -102191,8 +101431,7 @@
         "tzdb",
         "vctrs",
         "vroom",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "SGSeq": [
         "AnnotationDbi",
@@ -102260,8 +101499,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "SharedObject": [
         "BiocGenerics"
@@ -102417,8 +101655,7 @@
         "webshot",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "shinyMethyl": [
         "AnnotationDbi",
@@ -102531,8 +101768,7 @@
         "vctrs",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ShortRead": [
         "Biobase",
@@ -102783,8 +102019,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "sigFeature": [
         "Biobase",
@@ -103032,8 +102267,7 @@
         "visNetwork",
         "vroom",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "signeR": [
         "AnnotationDbi",
@@ -103224,7 +102458,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "signifinder": [
@@ -103420,7 +102653,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "sigPathway": [],
@@ -103492,8 +102724,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "sigsquared": [
         "Biobase",
@@ -103862,8 +103093,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "simplifyEnrichment": [
         "AnnotationDbi",
@@ -104371,7 +103601,6 @@
         "xfun",
         "xgboost",
         "xml2",
-        "yaml",
         "zinbwave",
         "zoo"
     ],
@@ -104453,8 +103682,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "SingleR": [
         "Biobase",
@@ -104572,8 +103800,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "SISPA": [
         "AnnotationDbi",
@@ -104716,8 +103943,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "sitePath": [
         "Matrix",
@@ -104886,8 +104112,7 @@
         "wateRmelon",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "slalom": [
         "AnnotationDbi",
@@ -105093,8 +104318,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "SNAGEE": [
         "SNAGEEdata"
@@ -105332,8 +104556,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "SNPRelate": [],
     "snpStats": [
@@ -105397,8 +104620,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "sojourner": [
         "BiocGenerics",
@@ -105485,8 +104707,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "SomaticSignatures": [
         "AnnotationDbi",
@@ -105610,8 +104831,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "SOMNiBUS": [
         "Matrix",
@@ -105793,7 +105013,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "sparrow": [
@@ -105896,8 +105115,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "sparseDOSSA": [
         "MCMCpack",
@@ -105990,8 +105208,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "spaSim": [
         "Biobase",
@@ -106154,7 +105371,6 @@
         "vroom",
         "withr",
         "xfun",
-        "yaml",
         "zeallot"
     ],
     "spatialDE": [
@@ -106351,8 +105567,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "SpatialExperiment": [
         "Biobase",
@@ -106643,8 +105858,7 @@
         "visNetwork",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "spatzie": [
         "AnnotationDbi",
@@ -106772,8 +105986,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "specL": [
         "RSQLite",
@@ -107072,8 +106285,7 @@
         "vroom",
         "withr",
         "xROI",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "spicyR": [
         "Biobase",
@@ -107292,8 +106504,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "spkTools": [
         "Biobase",
@@ -107508,8 +106719,7 @@
         "viridisLite",
         "webshot",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "SplicingFactory": [
         "Biobase",
@@ -107595,8 +106805,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "splineTimeR": [
         "AnnotationDbi",
@@ -107747,8 +106956,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "splots": [
         "RColorBrewer"
@@ -107931,8 +107139,7 @@
         "waldo",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "SpotClean": [
         "Biobase",
@@ -108085,7 +107292,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "SPOTlight": [
@@ -108269,8 +107475,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "SQLDataFrame": [
         "BiocGenerics",
@@ -108366,8 +107571,7 @@
         "viridisLite",
         "visNetwork",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "SRAdb": [
         "Biobase",
@@ -108561,8 +107765,7 @@
         "withr",
         "xfun",
         "xml2",
-        "xopen",
-        "yaml"
+        "xopen"
     ],
     "sscore": [
         "Biobase",
@@ -108759,8 +107962,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ssrch": [
         "DT",
@@ -108795,8 +107997,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ssviz": [
         "BiocGenerics",
@@ -108962,8 +108163,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "standR": [
         "AnnotationDbi",
@@ -109078,8 +108278,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "staRank": [
         "AnnotationDbi",
@@ -109360,8 +108559,7 @@
         "withr",
         "wk",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "statTarget": [
         "DEoptimR",
@@ -109379,8 +108577,7 @@
         "stringi",
         "stringr",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "STdeconvolve": [
         "BiocParallel",
@@ -109596,7 +108793,6 @@
         "withr",
         "wk",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "strandCheckR": [
@@ -109687,8 +108883,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "Streamer": [
         "BiocGenerics",
@@ -109768,8 +108963,7 @@
         "stringr",
         "sys",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "Structstrings": [
         "BiocGenerics",
@@ -109842,8 +109036,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "StructuralVariantAnnotation": [
         "AnnotationDbi",
@@ -109912,8 +109105,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "SubCellBarCode": [
         "AnnotationDbi",
@@ -110012,8 +109204,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "subSeq": [
         "Biobase",
@@ -110484,7 +109675,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "sva": [
@@ -110599,8 +109789,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "svaRetro": [
         "AnnotationDbi",
@@ -110670,8 +109859,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "SWATH2stats": [
         "AnnotationDbi",
@@ -110823,8 +110011,7 @@
         "tiff",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "synapter": [
         "Biobase",
@@ -110906,8 +110093,7 @@
         "vroom",
         "vsn",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "synergyfinder": [
         "Matrix",
@@ -111059,7 +110245,6 @@
         "xfun",
         "xml2",
         "xts",
-        "yaml",
         "zoo"
     ],
     "SynExtend": [
@@ -111142,8 +110327,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "SynMut": [
         "BiocGenerics",
@@ -111253,8 +110437,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "systemPipeR": [
         "Biobase",
@@ -111322,8 +110505,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "systemPipeShiny": [
         "DT",
@@ -111415,8 +110597,7 @@
         "vroom",
         "waiter",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "systemPipeTools": [
         "AnnotationDbi",
@@ -111520,8 +110701,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "TADCompare": [
         "Biobase",
@@ -111632,8 +110812,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "tanggle": [
         "Matrix",
@@ -111744,8 +110923,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "target": [
         "BiocGenerics",
@@ -111870,8 +111048,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "TargetScore": [
         "Matrix",
@@ -111955,8 +111132,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "TBSignatureProfiler": [
         "ASSIGN",
@@ -112080,8 +111256,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "TCC": [
         "AnnotationDbi",
@@ -112150,8 +111325,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "TCGAbiolinks": [
         "AnnotationDbi",
@@ -112230,8 +111404,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "TCGAbiolinksGUI": [
         "AnnotationDbi",
@@ -112472,8 +111645,7 @@
         "wheatmap",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "TCGAutils": [
         "AnnotationDbi",
@@ -112549,8 +111721,7 @@
         "vctrs",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "TCseq": [
         "Biobase",
@@ -112825,8 +111996,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "TEQC": [
         "Biobase",
@@ -112957,8 +112127,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "TFARM": [
         "BiocGenerics",
@@ -113080,8 +112249,7 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "TFEA.ChIP": [
         "AnnotationDbi",
@@ -113151,8 +112319,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "TFHAZ": [
         "AnnotationDbi",
@@ -113248,8 +112415,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "TFutils": [
         "AnnotationDbi",
@@ -113331,8 +112497,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "tidybulk": [
         "Biobase",
@@ -113446,8 +112611,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "tidySummarizedExperiment": [
         "Biobase",
@@ -113515,8 +112679,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "tigre": [
         "AnnotationDbi",
@@ -113704,8 +112867,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "TimiRGeN": [
         "AnnotationDbi",
@@ -113941,8 +113103,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "TissueEnrich": [
         "AnnotationDbi",
@@ -114071,8 +113232,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "tkWidgets": [
         "widgetTools"
@@ -114196,8 +113356,7 @@
         "visdat",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "TMixClust": [
         "Biobase",
@@ -114347,8 +113506,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "TnT": [
         "Biobase",
@@ -114382,8 +113540,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "TOAST": [
         "Biobase",
@@ -114564,8 +113721,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "topconfects": [
         "Matrix",
@@ -114767,8 +113923,7 @@
         "viridisLite",
         "visNetwork",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "TPP": [
         "Biobase",
@@ -114832,8 +113987,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "TPP2D": [
         "BiocParallel",
@@ -115015,8 +114169,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "tradeSeq": [
         "Biobase",
@@ -115106,8 +114259,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "TrajectoryUtils": [
         "Biobase",
@@ -115308,8 +114460,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "transformGamPoi": [
         "Biobase",
@@ -115594,8 +114745,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "Travel": [],
     "traviz": [
@@ -115657,8 +114807,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "TreeAndLeaf": [
         "Matrix",
@@ -115826,7 +114975,6 @@
         "waldo",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "TreeSummarizedExperiment": [
@@ -116008,8 +115156,7 @@
         "withr",
         "xfun",
         "xgboost",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "Trendy": [
         "Biobase",
@@ -116072,8 +115219,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "TRESS": [
         "AnnotationDbi",
@@ -116140,8 +115286,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "tricycle": [
         "AnnotationDbi",
@@ -116398,8 +115543,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "tRNA": [
         "BiocGenerics",
@@ -116530,8 +115674,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "TRONCO": [
         "BiocGenerics",
@@ -116677,8 +115820,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ttgsea": [
         "DiagrammeR",
@@ -116775,7 +115917,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zeallot",
         "zoo"
     ],
@@ -116817,8 +115958,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "TurboNorm": [
         "Biobase",
@@ -116942,8 +116082,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "tweeDEseq": [
         "Matrix",
@@ -117070,8 +116209,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "tximeta": [
         "AnnotationDbi",
@@ -117164,8 +116302,7 @@
         "vctrs",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "tximport": [],
     "TypeInfo": [],
@@ -117305,8 +116442,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "UMI4Cats": [
         "AnnotationDbi",
@@ -117417,7 +116553,6 @@
         "viridisLite",
         "withr",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "uncoverappLib": [
@@ -117557,8 +116692,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "UNDO": [
         "Biobase",
@@ -117693,8 +116827,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "universalmotif": [
         "BiocGenerics",
@@ -117725,8 +116858,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "updateObject": [
         "BiocGenerics",
@@ -117949,7 +117081,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zeallot",
         "zoo"
     ],
@@ -118002,8 +117133,7 @@
         "restfulr",
         "rtracklayer",
         "sys",
-        "vctrs",
-        "yaml"
+        "vctrs"
     ],
     "VarCon": [
         "BSgenome",
@@ -118069,8 +117199,7 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "variancePartition": [
         "Biobase",
@@ -118143,8 +117272,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "VariantAnnotation": [
         "AnnotationDbi",
@@ -118212,8 +117340,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "VariantExperiment": [
         "Biobase",
@@ -118388,8 +117515,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "VariantTools": [
         "AnnotationDbi",
@@ -118458,8 +117584,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "VaSP": [
         "AnnotationDbi",
@@ -118517,8 +117642,7 @@
         "survival",
         "sva",
         "sys",
-        "vctrs",
-        "yaml"
+        "vctrs"
     ],
     "vbmp": [],
     "VCFArray": [
@@ -118589,8 +117713,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "VDJdive": [
         "Biobase",
@@ -118869,8 +117992,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "viper": [
         "Biobase",
@@ -118935,8 +118057,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ViSEAGO": [
         "AnnotationDbi",
@@ -119055,8 +118176,7 @@
         "webshot",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "vissE": [
         "AnnotationDbi",
@@ -119176,7 +118296,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "Voyager": [
@@ -119510,8 +118629,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "vulcan": [
         "AnnotationDbi",
@@ -119657,7 +118775,6 @@
         "wordcloud",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "waddR": [
@@ -119863,8 +118980,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "wavClusteR": [
         "AnnotationDbi",
@@ -119971,8 +119087,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "weaver": [
         "digest"
@@ -120136,8 +119251,7 @@
         "tidyselect",
         "vctrs",
         "viridisLite",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "wpm": [
         "Biobase",
@@ -120227,8 +119341,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "wppi": [
         "Matrix",
@@ -120287,8 +119400,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "Wrench": [
         "lattice",
@@ -120537,8 +119649,7 @@
         "viridisLite",
         "visNetwork",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "XINA": [
         "Matrix",
@@ -120637,8 +119748,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "XVector": [
         "BiocGenerics",
@@ -120691,8 +119801,7 @@
         "tiff",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "YAPSA": [
         "AnnotationDbi",
@@ -120833,8 +119942,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "yarn": [
         "AnnotationDbi",
@@ -120948,8 +120056,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "zellkonverter": [
         "Biobase",
@@ -121098,8 +120205,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "zFPKM": [
         "Biobase",
@@ -121386,8 +120492,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "gridExtra": [
         "gtable"
@@ -121413,8 +120518,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "knitr": [
         "cli",
@@ -121424,8 +120528,7 @@
         "stringi",
         "stringr",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "vegan": [
         "Matrix",
@@ -121536,8 +120639,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "stringr": [
         "cli",
@@ -121573,10 +120675,8 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
-    "yaml": [],
     "htmltools": [
         "digest",
         "ellipsis"
@@ -121603,8 +120703,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "shiny": [
         "bslib",
@@ -121831,8 +120930,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ggrepel": [
         "Matrix",
@@ -121924,8 +121022,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ggsignif": [
         "Matrix",
@@ -122101,8 +121198,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "brio": [],
     "callr": [
@@ -122216,8 +121312,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "diffobj": [],
     "rematch2": [
@@ -122278,8 +121373,7 @@
         "vctrs",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "quantreg": [
         "Matrix",
@@ -122420,8 +121514,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ade4": [
         "lattice",
@@ -122637,8 +121730,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "GGally": [
         "Matrix",
@@ -122732,8 +121824,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "viridis": [
         "Matrix",
@@ -122761,8 +121852,7 @@
     "restfulr": [
         "BiocGenerics",
         "RCurl",
-        "S4Vectors",
-        "yaml"
+        "S4Vectors"
     ],
     "jpeg": [],
     "interp": [
@@ -123189,8 +122279,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "readr": [
         "bit64",
@@ -123505,8 +122594,7 @@
         "openssl",
         "rex",
         "sys",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "plotROC": [
         "Matrix",
@@ -123763,8 +122851,7 @@
         "jsonlite",
         "mime",
         "openssl",
-        "sys",
-        "yaml"
+        "sys"
     ],
     "miniUI": [
         "bslib",
@@ -124009,7 +123096,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "org.Hs.eg.db": [
@@ -124273,8 +123359,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "TxDb.Hsapiens.UCSC.hg19.knownGene": [
         "AnnotationDbi",
@@ -124341,8 +123426,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "Homo.sapiens": [
         "AnnotationDbi",
@@ -124415,8 +123499,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "SNPlocs.Hsapiens.dbSNP144.GRCh37": [
         "BSgenome",
@@ -124445,8 +123528,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "XtraSNPlocs.Hsapiens.dbSNP144.GRCh37": [
         "BSgenome",
@@ -124475,8 +123557,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "rsnps": [
         "askpass",
@@ -124585,8 +123666,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "MafDb.ExAC.r1.0.hs37d5": [
         "AnnotationDbi",
@@ -124675,8 +123755,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "MafDb.gnomADex.r2.1.hs37d5": [
         "AnnotationDbi",
@@ -124765,8 +123844,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "COSMIC.67": [
         "AnnotationDbi",
@@ -124835,8 +123913,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "PolyPhen.Hsapiens.dbSNP131": [
         "AnnotationDbi",
@@ -124905,8 +123982,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "SIFT.Hsapiens.dbSNP137": [
         "AnnotationDbi",
@@ -124975,8 +124051,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "openxlsx": [
         "stringi"
@@ -125064,8 +124139,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "base64": [
         "askpass",
@@ -125257,8 +124331,7 @@
         "vroom",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "Mus.musculus": [
         "AnnotationDbi",
@@ -125331,8 +124404,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "BSgenome.Mmusculus.UCSC.mm10": [
         "BSgenome",
@@ -125361,8 +124433,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "nabor": [
         "Matrix",
@@ -125447,8 +124518,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "NMF": [
         "Biobase",
@@ -125578,8 +124648,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "TFMPvalue": [],
     "dtplyr": [
@@ -125713,8 +124782,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "poweRlaw": [],
     "uuid": [],
@@ -125813,8 +124881,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "assertive": [
         "assertive.base",
@@ -125840,8 +124907,7 @@
         "stringi",
         "stringr",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "assertive.base": [],
     "assertive.properties": [
@@ -125961,8 +125027,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "xgboost": [
         "Matrix",
@@ -126107,8 +125172,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "mlbench": [],
     "rstan": [
@@ -126190,8 +125254,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "raster": [
         "lattice",
@@ -126226,8 +125289,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "ggExtra": [
         "Matrix",
@@ -126277,8 +125339,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "colourpicker": [
         "Matrix",
@@ -126327,8 +125388,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "rstantools": [
         "RcppParallel",
@@ -126419,8 +125479,7 @@
         "viridisLite",
         "webshot",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "seriation": [
         "TSP",
@@ -126775,8 +125834,7 @@
         "vctrs",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "shinycssloaders": [
         "bslib",
@@ -126940,8 +125998,7 @@
         "waldo",
         "withr",
         "writexl",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "AlgDesign": [],
     "shinythemes": [
@@ -127054,8 +126111,7 @@
         "visNetwork",
         "vroom",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "visNetwork": [
         "bslib",
@@ -127080,8 +126136,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "downloader": [
         "digest"
@@ -127489,8 +126544,7 @@
         "purrr",
         "rprojroot",
         "sys",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "gert": [
         "askpass",
@@ -127573,7 +126627,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "precrec": [
@@ -127734,8 +126787,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "clusterCons": [
         "Matrix",
@@ -127831,8 +126883,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "apcluster": [
         "Matrix",
@@ -127902,8 +126953,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ggnetwork": [
         "Matrix",
@@ -127976,8 +127026,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "NetRep": [
         "RColorBrewer",
@@ -128181,8 +127230,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "qualV": [],
     "betareg": [
@@ -128561,8 +127609,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "lsa": [],
     "BSgenome.Hsapiens.UCSC.hg38": [
@@ -128592,8 +127639,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "breakpointRdata": [],
     "devtools": [
@@ -128670,8 +127716,7 @@
         "withr",
         "xfun",
         "xml2",
-        "xopen",
-        "yaml"
+        "xopen"
     ],
     "pkgdown": [
         "askpass",
@@ -128718,8 +127763,7 @@
         "vctrs",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "profvis": [
         "bslib",
@@ -128744,8 +127788,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "rcmdcheck": [
         "callr",
@@ -128779,8 +127822,7 @@
         "vctrs",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "rversions": [
         "curl",
@@ -128805,8 +127847,7 @@
         "memoise",
         "rprojroot",
         "vctrs",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "xopen": [
         "processx",
@@ -129006,7 +128047,6 @@
         "waldo",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "base64url": [
@@ -129260,8 +128300,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "spBayes": [
         "Matrix",
@@ -129585,8 +128624,7 @@
         "vctrs",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "RPMM": [
         "cluster"
@@ -129690,8 +128728,7 @@
         "vctrs",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [
         "AnnotationDbi",
@@ -129792,8 +128829,7 @@
         "vctrs",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "kpmt": [],
     "isva": [
@@ -129891,8 +128927,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "JADE": [
         "clue",
@@ -130018,8 +129053,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "chipenrich.data": [
         "AnnotationDbi",
@@ -130079,8 +129113,7 @@
         "tzdb",
         "vctrs",
         "vroom",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "org.Dm.eg.db": [
         "AnnotationDbi",
@@ -130237,8 +129270,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "TxDb.Mmusculus.UCSC.mm9.knownGene": [
         "AnnotationDbi",
@@ -130305,8 +129337,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [
         "AnnotationDbi",
@@ -130373,8 +129404,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "TxDb.Celegans.UCSC.ce6.ensGene": [
         "AnnotationDbi",
@@ -130441,8 +129471,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [
         "AnnotationDbi",
@@ -130509,8 +129538,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ashr": [
         "Matrix",
@@ -130661,8 +129689,7 @@
         "webshot",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "gggenes": [
         "Matrix",
@@ -130694,8 +129721,7 @@
         "stringfish"
     ],
     "rlist": [
-        "jsonlite",
-        "yaml"
+        "jsonlite"
     ],
     "matrixTests": [],
     "ggfittext": [
@@ -130826,8 +129852,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "rgl": [
         "bslib",
@@ -130852,8 +129877,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "gRbase": [
         "BiocGenerics",
@@ -131182,8 +130206,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "Ecume": [
         "Matrix",
@@ -131376,7 +130399,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "wavethresh": [],
@@ -131487,8 +130509,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "iC10": [
         "Matrix",
@@ -131598,8 +130619,7 @@
         "vctrs",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "CopyhelpeR": [],
     "arules": [
@@ -131769,8 +130789,7 @@
         "viper",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "bcellViper": [
         "Biobase",
@@ -131842,8 +130861,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "keras": [
         "Matrix",
@@ -131867,7 +130885,6 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "yaml",
         "zeallot"
     ],
     "mltools": [
@@ -131893,8 +130910,7 @@
         "tfruns",
         "tidyselect",
         "vctrs",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "tfruns": [
         "Matrix",
@@ -131910,12 +130926,9 @@
         "rprojroot",
         "tidyselect",
         "vctrs",
-        "withr",
-        "yaml"
+        "withr"
     ],
-    "config": [
-        "yaml"
-    ],
+    "config": [],
     "tfautograph": [
         "Matrix",
         "RcppTOML",
@@ -132001,7 +131014,6 @@
         "withr",
         "xfun",
         "xts",
-        "yaml",
         "zoo"
     ],
     "ccaPP": [
@@ -132291,8 +131303,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "httpcache": [
         "askpass",
@@ -132333,8 +131344,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "kknn": [
         "Matrix",
@@ -132415,8 +131425,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "RWekajars": [
         "rJava"
@@ -132507,8 +131516,7 @@
         "usethis",
         "vctrs",
         "waldo",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "metap": [
         "Biobase",
@@ -132684,8 +131692,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "CatEncoders": [
         "Matrix",
@@ -132773,7 +131780,6 @@
         "vctrs",
         "withr",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "stopwords": [],
@@ -132832,8 +131838,7 @@
         "magrittr",
         "stopwords",
         "stringi",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "textclean": [
         "cli",
@@ -133022,7 +132027,6 @@
         "waldo",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "knn.covertree": [
@@ -133263,8 +132267,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "coin": [
         "Matrix",
@@ -133364,8 +132367,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "R.matlab": [
         "R.oo",
@@ -133451,8 +132453,7 @@
         "viridis",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "lavaan": [
         "mnormt",
@@ -133529,8 +132530,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "HGNChelper": [],
     "homologene": [
@@ -133614,8 +132614,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "ComplexUpset": [
         "Matrix",
@@ -133674,8 +132673,7 @@
         "stringi",
         "stringr",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "gap": [
         "Matrix",
@@ -133732,8 +132730,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "gap.datasets": [],
     "geepack": [
@@ -133938,8 +132935,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "clisymbols": [],
     "RecordLinkage": [
@@ -134037,8 +133033,7 @@
         "viridisLite",
         "waldo",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "FCPS": [
         "DataVisualizations",
@@ -134206,7 +133201,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "maxstat": [
@@ -134241,7 +133235,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "exactRankTests": [],
@@ -134348,8 +133341,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "flextable": [
         "bslib",
@@ -134379,8 +133371,7 @@
         "uuid",
         "vctrs",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "officer": [
         "uuid",
@@ -134489,8 +133480,7 @@
         "viridisLite",
         "webshot",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "shinybusy": [
         "bslib",
@@ -134522,8 +133512,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "repo": [
         "digest"
@@ -134587,8 +133576,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "seqmagick": [
         "BiocGenerics",
@@ -134692,7 +133680,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "bnlearn": [],
@@ -134775,7 +133762,6 @@
         "wk",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "dtangle": [
@@ -134952,8 +133938,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "R2jags": [
         "R2WinBUGS",
@@ -135049,8 +134034,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "reactR": [
         "digest",
@@ -135153,8 +134137,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "parallelDist": [
         "RcppArmadillo",
@@ -135256,8 +134239,7 @@
         "vctrs",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "shinyalert": [
         "bslib",
@@ -135287,8 +134269,7 @@
         "uuid",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "wordcloud2": [
         "bslib",
@@ -135313,8 +134294,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "attempt": [],
     "rsm": [],
@@ -135425,8 +134405,7 @@
         "vroom",
         "withr",
         "writexl",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "phosphoricons": [
         "digest",
@@ -135542,8 +134521,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "configr": [
         "RcppTOML",
@@ -135553,8 +134531,7 @@
         "magrittr",
         "stringi",
         "stringr",
-        "vctrs",
-        "yaml"
+        "vctrs"
     ],
     "bsplus": [
         "bslib",
@@ -135582,8 +134559,7 @@
         "timechange",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "shinyvalidate": [
         "bslib",
@@ -135649,8 +134625,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "renv": [],
     "akima": [
@@ -136012,8 +134987,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "plsgenomics": [
         "Matrix",
@@ -136432,8 +135406,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "rmdformats": [
         "bookdown",
@@ -136458,8 +135431,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "sesameData": [
         "AnnotationDbi",
@@ -136534,8 +135506,7 @@
         "vctrs",
         "vroom",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "wheatmap": [
         "RColorBrewer"
@@ -136639,8 +135610,7 @@
         "vctrs",
         "vroom",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "methylclockData": [
         "AnnotationDbi",
@@ -136738,8 +135708,7 @@
         "vctrs",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "PerformanceAnalytics": [
         "lattice",
@@ -136873,8 +135842,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "HardyWeinberg": [
         "Rsolnp",
@@ -136968,8 +135936,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "InvariantCausalPrediction": [
         "Matrix",
@@ -137475,8 +136442,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "NMI": [],
     "MKmisc": [
@@ -137530,8 +136496,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "RISmed": [
         "askpass",
@@ -137645,8 +136610,7 @@
         "withr",
         "xfun",
         "xml2",
-        "xopen",
-        "yaml"
+        "xopen"
     ],
     "googleAuthR": [
         "askpass",
@@ -137734,8 +136698,7 @@
         "rtracklayer",
         "stringi",
         "stringr",
-        "vctrs",
-        "yaml"
+        "vctrs"
     ],
     "philentropy": [],
     "shinyjqui": [
@@ -137768,8 +136731,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "grImport": [],
     "scico": [
@@ -137978,7 +136940,6 @@
         "waldo",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "readstata13": [],
@@ -138010,8 +136971,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "NxtIRFdata": [
         "AnnotationDbi",
@@ -138097,8 +137057,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "fst": [
         "fstcore"
@@ -138169,8 +137128,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "pdfCluster": [
         "abind",
@@ -138567,7 +137525,6 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "yaml",
         "zeallot"
     ],
     "matrixLaplacian": [],
@@ -138712,8 +137669,7 @@
         "sys",
         "vctrs",
         "webutils",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "webutils": [
         "curl",
@@ -139021,8 +137977,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "forecast": [
         "Matrix",
@@ -139085,8 +138040,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "EnsDb.Mmusculus.v79": [
         "AnnotationDbi",
@@ -139157,8 +138111,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "EnsDb.Rnorvegicus.v79": [
         "AnnotationDbi",
@@ -139229,8 +138182,7 @@
         "tidyselect",
         "vctrs",
         "withr",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "ParallelLogger": [
         "jsonlite",
@@ -139267,8 +138219,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "enviPat": [],
     "shinyscreenshot": [
@@ -139364,8 +138315,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "fftw": [],
     "ExtDist": [
@@ -139462,8 +138412,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "rcellminerData": [
         "Biobase",
@@ -139561,8 +138510,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "knitrBootstrap": [
         "bslib",
@@ -139587,8 +138535,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "RefManageR": [
         "askpass",
@@ -139643,8 +138590,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "rGenomeTracksData": [
         "AnnotationDbi",
@@ -139710,8 +138656,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "elitism": [],
     "doMC": [
@@ -139780,8 +138725,7 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "withr",
-        "yaml"
+        "withr"
     ],
     "caretEnsemble": [
         "Matrix",
@@ -139930,8 +138874,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "readJDX": [
         "cli",
@@ -140060,8 +139003,7 @@
         "stringi",
         "stringr",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "SPAtest": [],
     "excelR": [
@@ -140087,8 +139029,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "SBGNview.data": [
         "bookdown",
@@ -140113,8 +139054,7 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "smoothie": [],
     "scanMiRData": [
@@ -140239,8 +139179,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "copula": [
         "Matrix",
@@ -140486,8 +139425,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "gistr": [
         "askpass",
@@ -140527,8 +139465,7 @@
         "urltools",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "objectProperties": [],
     "mlr3": [
@@ -140693,7 +139630,6 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
         "zoo"
     ],
     "tidytidbits": [
@@ -140855,8 +139791,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "GSVAdata": [
         "AnnotationDbi",
@@ -141001,7 +139936,6 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
         "zoo"
     ],
     "scRNAseq": [
@@ -141096,8 +140030,7 @@
         "vctrs",
         "withr",
         "xfun",
-        "xml2",
-        "yaml"
+        "xml2"
     ],
     "TENxPBMCData": [
         "AnnotationDbi",
@@ -141175,8 +140108,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "VAM": [
         "Matrix",
@@ -141336,8 +140268,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "elsa": [
         "lattice",
@@ -141469,8 +140400,7 @@
         "viridisLite",
         "vroom",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "lfda": [
         "Matrix",
@@ -141792,8 +140722,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "GenKern": [],
     "ttservice": [
@@ -142128,8 +141057,7 @@
         "lambda.r",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "yaml"
+        "rtracklayer"
     ],
     "kmlShape": [],
     "mirbase.db": [
@@ -142202,8 +141130,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "shinyTree": [
         "bslib",
@@ -142235,8 +141162,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "msigdb": [
         "AnnotationDbi",
@@ -142308,8 +141234,7 @@
         "tinytex",
         "vctrs",
         "withr",
-        "xfun",
-        "yaml"
+        "xfun"
     ],
     "eva": [
         "EnvStats",
