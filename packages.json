@@ -16264,7 +16264,6 @@
         "rlang",
         "rngtools",
         "scales",
-        "sigclust",
         "stringi",
         "stringr",
         "survival",
@@ -127738,7 +127737,6 @@
         "reshape",
         "rlang",
         "scales",
-        "sigclust",
         "tibble",
         "utf8",
         "vctrs",
@@ -159965,7 +159963,6 @@
         "pcaPP",
         "robustbase"
     ],
-    "sigclust": [],
     "ALL": [
         "Biobase",
         "BiocGenerics"
