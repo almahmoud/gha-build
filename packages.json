@@ -7897,7 +7897,6 @@
         "rmarkdown",
         "rtracklayer",
         "scales",
-        "sparsesvd",
         "stringr",
         "survival",
         "tibble",
@@ -8251,7 +8250,6 @@
         "pillar",
         "qlcMatrix",
         "scales",
-        "sparsesvd",
         "tibble",
         "vctrs",
         "vsn",
@@ -29891,7 +29889,6 @@
         "qlcMatrix",
         "reshape2",
         "scales",
-        "sparsesvd",
         "stringr",
         "tibble",
         "tidyselect",
@@ -51563,7 +51560,6 @@
         "qlcMatrix",
         "reshape2",
         "scales",
-        "sparsesvd",
         "stringr",
         "tibble",
         "tidyselect",
@@ -56546,10 +56542,7 @@
     "leidenbase": [
         "igraph"
     ],
-    "qlcMatrix": [
-        "sparsesvd"
-    ],
-    "sparsesvd": [],
+    "qlcMatrix": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
         "BiocIO",
