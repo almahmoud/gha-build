@@ -59532,7 +59532,6 @@
         "ModelMetrics",
         "MuMIn",
         "NMF",
-        "PMA",
         "RBGL",
         "RCurl",
         "RSQLite",
@@ -68699,7 +68698,6 @@
         "MatrixGenerics",
         "MatrixModels",
         "MultiDataSet",
-        "PMA",
         "RCurl",
         "RSQLite",
         "RSpectra",
@@ -122939,7 +122937,6 @@
         "viridis",
         "viridisLite"
     ],
-    "PMA": [],
     "subspace": [
         "Rcpp",
         "bslib",
