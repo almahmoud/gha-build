@@ -47125,7 +47125,6 @@
         "igraph",
         "keras",
         "lifecycle",
-        "matrixLaplacian",
         "mgcv",
         "nlme",
         "nloptr",
@@ -81370,7 +81369,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "matrixLaplacian": [],
     "reportROC": [
         "lmtest",
         "vcd",
