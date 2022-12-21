@@ -6444,7 +6444,6 @@
         "reshape2",
         "rmarkdown",
         "scales",
-        "spBayes",
         "stringr",
         "survival",
         "testthat",
@@ -55930,9 +55929,7 @@
         "tibble",
         "vctrs"
     ],
-    "SpatialTools": [
-        "spBayes"
-    ],
+    "SpatialTools": [],
     "FactoMineR": [
         "DT",
         "MatrixModels",
@@ -55962,7 +55959,6 @@
         "vctrs",
         "waldo"
     ],
-    "spBayes": [],
     "EnvStats": [
         "ggplot2",
         "mgcv",
