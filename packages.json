@@ -25945,9 +25945,7 @@
         "restfulr",
         "rtracklayer"
     ],
-    "gcatest": [
-        "lfa"
-    ],
+    "gcatest": [],
     "gCrisprTools": [
         "Biobase",
         "ComplexHeatmap",
@@ -35056,7 +35054,6 @@
         "vctrs",
         "waldo"
     ],
-    "lfa": [],
     "limmaGUI": [],
     "LineagePulse": [
         "Biobase",
