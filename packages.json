@@ -12949,7 +12949,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "WriteXLS",
         "XVector",
         "askpass",
         "backports",
@@ -22373,7 +22372,6 @@
         "KernSmooth",
         "RColorBrewer",
         "RcppArmadillo",
-        "WriteXLS",
         "caTools",
         "gplots",
         "gtools"
@@ -41276,7 +41274,6 @@
         "SummarizedExperiment",
         "TSCAN",
         "TrajectoryUtils",
-        "WriteXLS",
         "XVector",
         "bslib",
         "caTools",
@@ -58836,7 +58833,6 @@
         "xml2"
     ],
     "IsoCorrectoR": [
-        "WriteXLS",
         "bit",
         "bit64",
         "cellranger",
@@ -58869,7 +58865,6 @@
     ],
     "IsoCorrectoRGUI": [
         "IsoCorrectoR",
-        "WriteXLS",
         "bit",
         "bit64",
         "cellranger",
@@ -105064,7 +105059,6 @@
         "S4Vectors",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "WriteXLS",
         "XVector",
         "bslib",
         "caTools",
@@ -127826,7 +127820,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "WriteXLS",
         "XVector",
         "askpass",
         "biomaRt",
@@ -139714,7 +139707,6 @@
         "yaml"
     ],
     "breakpointRdata": [],
-    "WriteXLS": [],
     "devtools": [
         "askpass",
         "brio",
