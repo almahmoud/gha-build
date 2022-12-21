@@ -20564,8 +20564,7 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "vctrs",
-        "yeastExpData"
+        "vctrs"
     ],
     "GSgalgoR": [
         "survival"
@@ -35927,8 +35926,7 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "vctrs",
-        "yeastExpData"
+        "vctrs"
     ],
     "pqsfinder": [
         "Biostrings",
@@ -57325,7 +57323,6 @@
         "tibble",
         "vctrs"
     ],
-    "yeastExpData": [],
     "BatchJobs": [
         "BBmisc",
         "RSQLite",
