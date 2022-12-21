@@ -15838,10 +15838,7 @@
         "yaml",
         "zlibbioc"
     ],
-    "BufferedMatrix": [],
-    "BufferedMatrixMethods": [
-        "BufferedMatrix"
-    ],
+    "BufferedMatrixMethods": [],
     "bugsigdbr": [
         "BiocFileCache",
         "DBI",
