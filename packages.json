@@ -19356,7 +19356,6 @@
         "digest",
         "ellipsis",
         "evaluate",
-        "genalg",
         "ggplot2",
         "graph",
         "highr",
@@ -26144,7 +26143,6 @@
         "futile.logger",
         "future",
         "future.apply",
-        "genalg",
         "genefilter",
         "geneplotter",
         "generics",
@@ -40583,7 +40581,6 @@
         "futile.logger",
         "future",
         "future.apply",
-        "genalg",
         "genefilter",
         "geneplotter",
         "generics",
@@ -59486,7 +59483,6 @@
         "digest",
         "ellipsis",
         "evaluate",
-        "genalg",
         "ggplot2",
         "graph",
         "highr",
@@ -129246,7 +129242,6 @@
         "Rcpp"
     ],
     "entropy": [],
-    "genalg": [],
     "brglm": [
         "profileModel"
     ],
@@ -130497,7 +130492,6 @@
         "digest",
         "ellipsis",
         "evaluate",
-        "genalg",
         "highr",
         "hms",
         "htmltools",
