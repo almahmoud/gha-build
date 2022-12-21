@@ -54628,8 +54628,7 @@
         "Spectra",
         "clue",
         "fs",
-        "futile.logger",
-        "rawrr"
+        "futile.logger"
     ],
     "MsCoreUtils": [
         "BiocGenerics",
@@ -69477,7 +69476,6 @@
         "withr",
         "xfun"
     ],
-    "rawrr": [],
     "RbcBook1": [
         "Biobase",
         "BiocGenerics",
