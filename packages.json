@@ -10,7 +10,6 @@
         "a4Base",
         "a4Classif",
         "a4Core",
-        "a4Preproc",
         "annaffy",
         "annotate",
         "blob",
@@ -30,7 +29,6 @@
         "RSQLite",
         "XVector",
         "a4Core",
-        "a4Preproc",
         "annaffy",
         "annotate",
         "blob",
@@ -42,14 +40,12 @@
     ],
     "a4Classif": [
         "a4Core",
-        "a4Preproc",
         "glmnet",
         "pamr"
     ],
     "a4Core": [
         "glmnet"
     ],
-    "a4Preproc": [],
     "ABarray": [
         "multtest"
     ],
