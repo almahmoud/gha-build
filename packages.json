@@ -24573,7 +24573,6 @@
         "mgcv",
         "nlme",
         "nloptr",
-        "officer",
         "openssl",
         "pbkrtest",
         "pillar",
@@ -26375,7 +26374,6 @@
         "lubridate",
         "mgcv",
         "nlme",
-        "officer",
         "pheatmap",
         "pillar",
         "purrr",
@@ -74855,7 +74853,6 @@
         "highr",
         "knitr",
         "lifecycle",
-        "officer",
         "rmarkdown",
         "sass",
         "stringr",
@@ -74863,7 +74860,6 @@
         "tinytex",
         "vctrs"
     ],
-    "officer": [],
     "gdtools": [
         "systemfonts"
     ],
@@ -75046,7 +75042,6 @@
         "knitr",
         "lifecycle",
         "lubridate",
-        "officer",
         "rmarkdown",
         "s2",
         "sass",
