@@ -8098,7 +8098,6 @@
         "openssl",
         "pillar",
         "promises",
-        "rjsoncons",
         "rmarkdown",
         "sass",
         "shiny",
@@ -14072,7 +14071,6 @@
         "readr",
         "reshape2",
         "restfulr",
-        "rjsoncons",
         "rmarkdown",
         "rtracklayer",
         "sass",
@@ -17161,7 +17159,6 @@
         "progress",
         "purrr",
         "restfulr",
-        "rjsoncons",
         "rtracklayer",
         "stringr",
         "tibble",
@@ -63141,7 +63138,6 @@
         "pillar",
         "progress",
         "purrr",
-        "rjsoncons",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -68765,7 +68761,6 @@
         "tm"
     ],
     "tm": [],
-    "rjsoncons": [],
     "ggpmisc": [
         "MatrixModels",
         "dplyr",
