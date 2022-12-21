@@ -127375,7 +127375,6 @@
         "zlibbioc",
         "zoo"
     ],
-    "sigPathway": [],
     "SigsPack": [
         "AnnotationDbi",
         "BH",
@@ -142100,7 +142099,6 @@
         "reshape2",
         "rlang",
         "scales",
-        "sigPathway",
         "snow",
         "stringi",
         "stringr",
