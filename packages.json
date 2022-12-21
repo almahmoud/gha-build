@@ -86337,7 +86337,6 @@
         "Biobase",
         "BiocGenerics",
         "BiocParallel",
-        "Lmoments",
         "Matrix",
         "MatrixModels",
         "RColorBrewer",
@@ -122713,10 +122712,8 @@
         "lattice"
     ],
     "extRemes": [
-        "Lmoments",
         "distillery"
     ],
-    "Lmoments": [],
     "distillery": [],
     "torch": [
         "bit64",
