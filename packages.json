@@ -105370,7 +105370,6 @@
     "TDARACNE": [
         "Biobase",
         "BiocGenerics",
-        "GenKern",
         "Rgraphviz",
         "graph"
     ],
@@ -132581,7 +132580,6 @@
         "withr",
         "xfun"
     ],
-    "GenKern": [],
     "ttservice": [
         "cli",
         "dplyr",
