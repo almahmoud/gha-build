@@ -44241,7 +44241,6 @@
         "bslib",
         "dbplyr",
         "dplyr",
-        "googleVis",
         "hms",
         "htmlwidgets",
         "httpuv",
@@ -49836,7 +49835,6 @@
         "XVector",
         "dplyr",
         "ggplot2",
-        "googleVis",
         "lifecycle",
         "mgcv",
         "pillar",
@@ -54322,7 +54320,6 @@
         "dplyr",
         "ensembldb",
         "ggplot2",
-        "googleVis",
         "hms",
         "htmlTable",
         "htmlwidgets",
@@ -68963,7 +68960,6 @@
         "vctrs"
     ],
     "ExtDist": [],
-    "googleVis": [],
     "phastCons100way.UCSC.hg19": [
         "AnnotationDbi",
         "AnnotationHub",
