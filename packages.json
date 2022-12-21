@@ -27238,7 +27238,6 @@
         "Rgraphviz",
         "Rhdf5lib",
         "S4Vectors",
-        "SamSPECTRAL",
         "SparseM",
         "TH.data",
         "abind",
@@ -33489,7 +33488,6 @@
         "Rhdf5lib",
         "Rwave",
         "S4Vectors",
-        "SamSPECTRAL",
         "SparseM",
         "XML",
         "abind",
@@ -120106,7 +120104,6 @@
         "xtable",
         "zlibbioc"
     ],
-    "SamSPECTRAL": [],
     "sangeranalyseR": [
         "BH",
         "BiocGenerics",
