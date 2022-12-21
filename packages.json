@@ -1221,7 +1221,6 @@
         "RSQLite",
         "RcppEigen",
         "RcppML",
-        "Rmpfr",
         "S4Vectors",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -4264,7 +4263,6 @@
         "RcppEigen",
         "RcppML",
         "Rhdf5lib",
-        "Rmpfr",
         "S4Vectors",
         "ScaledMatrix",
         "Seurat",
@@ -26953,7 +26951,6 @@
         "Matrix",
         "RSQLite",
         "RcppEigen",
-        "Rmpfr",
         "S4Vectors",
         "TH.data",
         "XVector",
@@ -38432,7 +38429,6 @@
         "RcppEigen",
         "RcppML",
         "Rhdf5lib",
-        "Rmpfr",
         "S4Vectors",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -41399,7 +41395,6 @@
         "KEGGREST",
         "RSQLite",
         "RankProd",
-        "Rmpfr",
         "S4Vectors",
         "XVector",
         "askpass",
@@ -48132,7 +48127,6 @@
         "PMCMRplus",
         "RSQLite",
         "RcppEigen",
-        "Rmpfr",
         "S4Vectors",
         "SummarizedExperiment",
         "VennDiagram",
@@ -49305,7 +49299,6 @@
         "RSpectra",
         "RankProd",
         "RcppEigen",
-        "Rmpfr",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -52297,9 +52290,7 @@
     "randPack": [
         "Biobase"
     ],
-    "RankProd": [
-        "Rmpfr"
-    ],
+    "RankProd": [],
     "RAREsim": [
         "callr",
         "desc",
@@ -61390,7 +61381,6 @@
         "PMCMRplus",
         "RSQLite",
         "RcppEigen",
-        "Rmpfr",
         "Rsamtools",
         "S4Vectors",
         "SummarizedExperiment",
@@ -66227,7 +66217,6 @@
         "Matrix",
         "RankProd",
         "RcppEigen",
-        "Rmpfr",
         "broom",
         "callr",
         "desc",
@@ -68761,7 +68750,6 @@
         "Matrix",
         "RSQLite",
         "RankProd",
-        "Rmpfr",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -71912,7 +71900,6 @@
         "RBGL",
         "RSQLite",
         "RcppEigen",
-        "Rmpfr",
         "Rsamtools",
         "S4Vectors",
         "SomaticSignatures",
@@ -73219,7 +73206,6 @@
     "CVXR": [
         "Matrix",
         "RcppEigen",
-        "Rmpfr",
         "osqp"
     ],
     "DescTools": [
@@ -73262,7 +73248,6 @@
         "vctrs",
         "waldo"
     ],
-    "Rmpfr": [],
     "osqp": [
         "Matrix"
     ],
@@ -79317,7 +79302,6 @@
         "Hmisc",
         "Matrix",
         "RcppEigen",
-        "Rmpfr",
         "TH.data",
         "bslib",
         "checkmate",
@@ -81453,9 +81437,7 @@
     ],
     "webutils": [],
     "magicaxis": [],
-    "PMCMRplus": [
-        "Rmpfr"
-    ],
+    "PMCMRplus": [],
     "SmoothWin": [
         "nlme"
     ],
