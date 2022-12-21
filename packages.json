@@ -32090,7 +32090,6 @@
         "mgcv",
         "pillar",
         "scales",
-        "sparseMVN",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -58427,7 +58426,6 @@
         "vctrs",
         "vroom"
     ],
-    "sparseMVN": [],
     "RcmdrMisc": [
         "Hmisc",
         "MatrixModels",
