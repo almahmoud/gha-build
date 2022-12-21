@@ -57798,7 +57798,6 @@
         "rebus",
         "rebus.datetimes",
         "rebus.numbers",
-        "rebus.unicode",
         "reshape2",
         "restfulr",
         "rtracklayer",
@@ -125103,12 +125102,10 @@
     ],
     "rebus": [
         "rebus.datetimes",
-        "rebus.numbers",
-        "rebus.unicode"
+        "rebus.numbers"
     ],
     "rebus.datetimes": [],
     "rebus.numbers": [],
-    "rebus.unicode": [],
     "GeneNet": [
         "fdrtool"
     ],
