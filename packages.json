@@ -10283,7 +10283,6 @@
         "pkgconfig",
         "reshape2",
         "scales",
-        "sigclust",
         "stringi",
         "stringr",
         "survival",
@@ -81173,7 +81172,6 @@
         "pillar",
         "pkgconfig",
         "scales",
-        "sigclust",
         "tibble",
         "vctrs",
         "withr"
@@ -101435,7 +101433,6 @@
         "DEoptimR",
         "robustbase"
     ],
-    "sigclust": [],
     "ALL": [
         "Biobase",
         "BiocGenerics"
