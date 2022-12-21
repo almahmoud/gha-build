@@ -53965,7 +53965,6 @@
         "desc",
         "doParallel",
         "dplyr",
-        "enviPat",
         "futile.logger",
         "ggplot2",
         "ggpubr",
@@ -58463,7 +58462,6 @@
         "data.tree",
         "doParallel",
         "dplyr",
-        "enviPat",
         "futile.logger",
         "ggplot2",
         "gridExtra",
@@ -86428,7 +86426,6 @@
         "tinytex",
         "vctrs"
     ],
-    "enviPat": [],
     "shinyscreenshot": [
         "bslib",
         "httpuv",
