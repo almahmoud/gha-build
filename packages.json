@@ -78133,7 +78133,6 @@
         "vipor",
         "viridis",
         "viridisLite",
-        "yaImpute",
         "yaml",
         "zlibbioc",
         "zoo"
@@ -131520,10 +131519,7 @@
         "stringr",
         "vctrs"
     ],
-    "intrinsicDimension": [
-        "yaImpute"
-    ],
-    "yaImpute": [],
+    "intrinsicDimension": [],
     "strawr": [
         "Rcpp"
     ],
