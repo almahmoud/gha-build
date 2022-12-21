@@ -12831,7 +12831,6 @@
         "koRpus.lang.en",
         "lexicon",
         "mgcv",
-        "mlapi",
         "openssl",
         "pillar",
         "progress",
@@ -20205,7 +20204,6 @@
         "koRpus.lang.en",
         "lexicon",
         "mgcv",
-        "mlapi",
         "openssl",
         "pillar",
         "progress",
@@ -53747,7 +53745,6 @@
         "koRpus.lang.en",
         "lexicon",
         "mgcv",
-        "mlapi",
         "pillar",
         "progress",
         "quanteda",
@@ -54287,7 +54284,6 @@
         "koRpus.lang.en",
         "lexicon",
         "mgcv",
-        "mlapi",
         "openssl",
         "pheatmap",
         "pillar",
@@ -60239,7 +60235,6 @@
         "vctrs"
     ],
     "text2vec": [
-        "mlapi",
         "rsparse"
     ],
     "textstem": [
@@ -60257,7 +60252,6 @@
         "vctrs"
     ],
     "rsparse": [],
-    "mlapi": [],
     "koRpus.lang.en": [
         "koRpus"
     ],
