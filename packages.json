@@ -55484,7 +55484,6 @@
         "jsonlite",
         "lattice",
         "lifecycle",
-        "mapplots",
         "memoise",
         "mime",
         "openssl",
@@ -162664,7 +162663,6 @@
         "vctrs",
         "withr"
     ],
-    "mapplots": [],
     "gProfileR": [
         "RCurl",
         "Rcpp",
