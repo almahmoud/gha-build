@@ -51316,7 +51316,6 @@
         "R6",
         "RColorBrewer",
         "RCurl",
-        "RobustRankAggreg",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -78481,7 +78480,6 @@
         "RcppEigen",
         "Rhdf5lib",
         "Rhtslib",
-        "RobustRankAggreg",
         "Rsamtools",
         "S4Vectors",
         "SummarizedExperiment",
@@ -167299,7 +167297,6 @@
         "viridisLite",
         "withr"
     ],
-    "RobustRankAggreg": [],
     "dplR": [
         "MASS",
         "Matrix",
