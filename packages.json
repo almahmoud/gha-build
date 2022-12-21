@@ -7676,7 +7676,6 @@
         "foreach",
         "futile.logger",
         "futile.options",
-        "gdsfmt",
         "genefilter",
         "ggplot2",
         "gtable",
@@ -20228,7 +20227,6 @@
         "edgeR",
         "futile.logger",
         "futile.options",
-        "gdsfmt",
         "lambda.r",
         "lattice",
         "lifecycle",
@@ -41612,7 +41610,6 @@
         "ellipsis",
         "expm",
         "fansi",
-        "gdsfmt",
         "ggplot2",
         "gtable",
         "isoband",
@@ -42036,10 +42033,8 @@
         "SNPRelate",
         "SeqArray",
         "XVector",
-        "gdsfmt",
         "lattice"
     ],
-    "gdsfmt": [],
     "GEM": [
         "Matrix",
         "RColorBrewer",
@@ -42865,7 +42860,6 @@
         "formula.tools",
         "futile.logger",
         "futile.options",
-        "gdsfmt",
         "igraph",
         "lambda.r",
         "lattice",
@@ -45349,7 +45343,6 @@
         "XVector",
         "cli",
         "fansi",
-        "gdsfmt",
         "ggplot2",
         "ggrepel",
         "gtable",
@@ -48834,7 +48827,6 @@
         "ellipsis",
         "fansi",
         "formula.tools",
-        "gdsfmt",
         "lattice",
         "lifecycle",
         "lmtest",
@@ -48911,7 +48903,6 @@
         "formula.tools",
         "futile.logger",
         "futile.options",
-        "gdsfmt",
         "hms",
         "httr",
         "jsonlite",
@@ -60004,7 +59995,6 @@
         "ff",
         "foreach",
         "formula.tools",
-        "gdsfmt",
         "lattice",
         "lifecycle",
         "lmtest",
@@ -97510,8 +97500,7 @@
         "S4Vectors",
         "SPAtest",
         "SeqArray",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "sampleClassifier": [
         "AnnotationDbi",
@@ -98526,7 +98515,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "gdsfmt",
         "lattice",
         "sparseMatrixStats"
     ],
@@ -102786,8 +102774,7 @@
         "IRanges",
         "RCurl",
         "S4Vectors",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "seqbias": [
         "BiocGenerics",
@@ -103124,7 +103111,6 @@
         "fontawesome",
         "forcats",
         "fs",
-        "gdsfmt",
         "ggplot2",
         "gistr",
         "gtable",
@@ -103210,7 +103196,6 @@
         "ellipsis",
         "fansi",
         "formula.tools",
-        "gdsfmt",
         "lattice",
         "lifecycle",
         "logistf",
@@ -106668,9 +106653,7 @@
         "xml2",
         "yaml"
     ],
-    "SNPRelate": [
-        "gdsfmt"
-    ],
+    "SNPRelate": [],
     "snpStats": [
         "BiocGenerics",
         "Matrix",
@@ -119743,7 +119726,6 @@
         "ellipsis",
         "fansi",
         "formula.tools",
-        "gdsfmt",
         "lattice",
         "lifecycle",
         "logistf",
