@@ -1,8 +1,0 @@
-sf
-RUVnormalize
-vcd
-aroma.core
-assertive.data
-changepoint.np
-assertive.data.uk
-assertive.data.us
