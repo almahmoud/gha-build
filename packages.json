@@ -82355,7 +82355,6 @@
         "MatrixModels",
         "RColorBrewer",
         "SparseM",
-        "distillery",
         "edgeR",
         "extRemes",
         "flexmix",
@@ -116803,10 +116802,7 @@
         "Matrix",
         "RcppParallel"
     ],
-    "extRemes": [
-        "distillery"
-    ],
-    "distillery": [],
+    "extRemes": [],
     "torch": [
         "bit64",
         "callr",
