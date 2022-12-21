@@ -4234,7 +4234,6 @@
         "futile.logger",
         "futile.options",
         "generics",
-        "getopt",
         "ggdendro",
         "ggplot2",
         "ggrepel",
@@ -61405,7 +61404,6 @@
         "foreach",
         "fs",
         "generics",
-        "getopt",
         "ggplot2",
         "glmmTMB",
         "glmnet",
@@ -61554,7 +61552,6 @@
         "futile.logger",
         "futile.options",
         "generics",
-        "getopt",
         "ggplot2",
         "glmmTMB",
         "glmnet",
@@ -72433,7 +72430,6 @@
         "fpc",
         "fs",
         "generics",
-        "getopt",
         "ggplot2",
         "glmmTMB",
         "glmnet",
@@ -113738,7 +113734,6 @@
         "MatrixModels",
         "SparseM",
         "coda",
-        "getopt",
         "gmm",
         "lattice",
         "mcmc",
@@ -134341,7 +134336,6 @@
         "cpp11",
         "systemfonts"
     ],
-    "getopt": [],
     "UpSetR": [
         "Matrix",
         "RColorBrewer",
@@ -145849,9 +145843,7 @@
         "robustbase",
         "som"
     ],
-    "optparse": [
-        "getopt"
-    ],
+    "optparse": [],
     "glmmTMB": [
         "Matrix",
         "RcppEigen",
