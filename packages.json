@@ -6192,7 +6192,6 @@
         "futile.logger",
         "hms",
         "httr",
-        "insight",
         "lambda.r",
         "lifecycle",
         "matrixStats",
@@ -55008,7 +55007,6 @@
         "ids",
         "igraph",
         "inaparc",
-        "insight",
         "interp",
         "ipred",
         "irlba",
@@ -55226,7 +55224,6 @@
         "httr",
         "ids",
         "igraph",
-        "insight",
         "ipred",
         "iterators",
         "jquerylib",
@@ -89630,7 +89627,6 @@
         "httr",
         "ids",
         "igraph",
-        "insight",
         "ipred",
         "iterators",
         "jquerylib",
@@ -104781,7 +104777,6 @@
     "sjmisc": [
         "datawizard",
         "dplyr",
-        "insight",
         "lifecycle",
         "pillar",
         "purrr",
@@ -104791,14 +104786,10 @@
         "vctrs"
     ],
     "rslurm": [],
-    "insight": [],
     "sjlabelled": [
-        "datawizard",
-        "insight"
+        "datawizard"
     ],
-    "datawizard": [
-        "insight"
-    ],
+    "datawizard": [],
     "LIM": [
         "diagram",
         "limSolve",
@@ -112986,7 +112977,6 @@
         "globals",
         "groupdata2",
         "hardhat",
-        "insight",
         "ipred",
         "labeling",
         "lava",
@@ -113064,8 +113054,7 @@
     ],
     "parameters": [
         "bayestestR",
-        "datawizard",
-        "insight"
+        "datawizard"
     ],
     "rearrr": [
         "checkmate",
@@ -113079,8 +113068,7 @@
         "vctrs"
     ],
     "bayestestR": [
-        "datawizard",
-        "insight"
+        "datawizard"
     ],
     "ridge": [],
     "echarts4r": [
