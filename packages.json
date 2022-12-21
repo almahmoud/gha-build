@@ -37530,7 +37530,6 @@
         "dplyr",
         "egg",
         "ellipsis",
-        "extraDistr",
         "fansi",
         "foreach",
         "fs",
@@ -54949,7 +54948,6 @@
         "doParallel",
         "dplyr",
         "ellipsis",
-        "extraDistr",
         "fansi",
         "fontawesome",
         "foreach",
@@ -78638,7 +78636,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "extraDistr",
         "lattice"
     ],
     "proFIA": [
@@ -125326,7 +125323,6 @@
         "backports",
         "checkmate"
     ],
-    "extraDistr": [],
     "NHPoisson": [
         "Matrix",
         "MatrixModels",
