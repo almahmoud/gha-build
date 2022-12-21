@@ -486,7 +486,6 @@
         "vctrs",
         "viridis"
     ],
-    "AIMS": [],
     "airpart": [
         "BiocNeighbors",
         "BiocSingular",
@@ -8809,7 +8808,6 @@
         "viridis"
     ],
     "consensusOV": [
-        "AIMS",
         "AnnotationDbi",
         "BiocFileCache",
         "BiocSingular",
@@ -16748,7 +16746,6 @@
         "vctrs"
     ],
     "genefu": [
-        "AIMS",
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
@@ -31768,7 +31765,6 @@
         "scales"
     ],
     "PDATK": [
-        "AIMS",
         "ALL",
         "AnnotationDbi",
         "BiocFileCache",
@@ -41069,7 +41065,6 @@
         "waldo"
     ],
     "signifinder": [
-        "AIMS",
         "AnnotationDbi",
         "AnnotationFilter",
         "BiocFileCache",
