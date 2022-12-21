@@ -3464,7 +3464,6 @@
         "tidyselect",
         "tidytext",
         "tidytree",
-        "tokenizers",
         "treeio",
         "uwot",
         "vctrs",
@@ -13167,7 +13166,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tokenizers",
         "ttgsea",
         "vctrs",
         "viridis",
@@ -20736,7 +20734,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tokenizers",
         "ttgsea",
         "vctrs",
         "viridis",
@@ -22399,7 +22396,6 @@
         "tibble",
         "tidyselect",
         "tidytext",
-        "tokenizers",
         "vctrs",
         "viridis"
     ],
@@ -23671,7 +23667,6 @@
         "tibble",
         "tidyselect",
         "tidytext",
-        "tokenizers",
         "usethis",
         "vctrs"
     ],
@@ -55025,7 +55020,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tokenizers",
         "vctrs",
         "viridis",
         "visNetwork",
@@ -55588,7 +55582,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tokenizers",
         "ttgsea",
         "uwot",
         "vctrs",
@@ -59178,7 +59171,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tokenizers",
         "vctrs"
     ],
     "detectseparation": [
@@ -59188,7 +59180,6 @@
     "survey": [
         "survival"
     ],
-    "tokenizers": [],
     "softImpute": [],
     "ROI.plugin.lpsolve": [],
     "sjmisc": [
@@ -62471,7 +62462,6 @@
         "tibble",
         "tidyselect",
         "tidytext",
-        "tokenizers",
         "vctrs"
     ],
     "aws.s3": [
