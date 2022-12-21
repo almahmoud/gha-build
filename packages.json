@@ -26202,7 +26202,6 @@
         "visNetwork",
         "vroom",
         "webchem",
-        "word2vec",
         "zoo"
     ],
     "GenVisR": [
@@ -79264,7 +79263,6 @@
     "gdtools": [
         "systemfonts"
     ],
-    "word2vec": [],
     "robust": [
         "fit.models",
         "robustbase",
