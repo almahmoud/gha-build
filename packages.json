@@ -22308,7 +22308,6 @@
         "BiocParallel",
         "Biostrings",
         "DOSE",
-        "EntropyExplorer",
         "GO.db",
         "GOSemSim",
         "GenomeInfoDb",
@@ -84812,7 +84811,6 @@
         "S4Vectors",
         "XVector"
     ],
-    "EntropyExplorer": [],
     "EpiMix.data": [
         "AnnotationDbi",
         "AnnotationHub",
