@@ -78088,7 +78088,6 @@
         "askpass",
         "bit64",
         "blob",
-        "cMAP",
         "cachem",
         "cli",
         "curl",
@@ -136115,7 +136114,6 @@
         "zeallot"
     ],
     "matrixLaplacian": [],
-    "cMAP": [],
     "Matching": [],
     "reportROC": [
         "lattice",
