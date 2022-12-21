@@ -54967,7 +54967,6 @@
         "prodlim",
         "progress",
         "progressr",
-        "protr",
         "proxy",
         "purrr",
         "readr",
@@ -121509,7 +121508,6 @@
         "prettyunits",
         "processx",
         "progress",
-        "protr",
         "ps",
         "purrr",
         "rappdirs",
@@ -148539,7 +148537,6 @@
         "promises",
         "xfun"
     ],
-    "protr": [],
     "MCL": [
         "Matrix",
         "expm",
