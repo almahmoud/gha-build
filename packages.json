@@ -10763,7 +10763,6 @@
         "vctrs"
     ],
     "CoRegNet": [
-        "arules",
         "bslib",
         "httpuv",
         "igraph",
@@ -53343,7 +53342,6 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "arules",
         "fields",
         "ggplot2",
         "mgcv",
@@ -61293,7 +61291,6 @@
         "vctrs",
         "vroom"
     ],
-    "arules": [],
     "bench": [
         "pillar",
         "tibble",
