@@ -75404,7 +75404,6 @@
         "promises",
         "ps",
         "purrr",
-        "pwr",
         "quantreg",
         "rematch2",
         "rmarkdown",
@@ -75490,7 +75489,6 @@
         "promises",
         "ps",
         "purrr",
-        "pwr",
         "quantreg",
         "rematch2",
         "rmarkdown",
@@ -75580,7 +75578,6 @@
         "promises",
         "ps",
         "purrr",
-        "pwr",
         "quantreg",
         "rematch2",
         "rmarkdown",
@@ -109774,7 +109771,6 @@
         "vctrs",
         "withr"
     ],
-    "pwr": [],
     "dunn.test": [],
     "bladderbatch": [
         "Biobase",
