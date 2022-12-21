@@ -44131,7 +44131,6 @@
         "codetools",
         "colorspace",
         "cpp11",
-        "emdist",
         "fansi",
         "farver",
         "formatR",
@@ -176068,7 +176067,6 @@
         "zlibbioc"
     ],
     "TCGAbiolinksGUI.data": [],
-    "emdist": [],
     "CDFt": [],
     "JASPAR2018": [],
     "heatmap3": [
