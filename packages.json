@@ -12976,7 +12976,6 @@
         "IRanges",
         "SummarizedExperiment",
         "XVector",
-        "aricode",
         "dplyr",
         "gganimate",
         "ggplot2",
@@ -20750,7 +20749,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "aricode",
         "cellranger",
         "cowplot",
         "dendextend",
@@ -33059,7 +33057,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "aricode",
         "beachmat",
         "bluster",
         "bslib",
@@ -52859,7 +52856,6 @@
         "tweenr",
         "vctrs"
     ],
-    "aricode": [],
     "easierData": [
         "AnnotationDbi",
         "AnnotationHub",
