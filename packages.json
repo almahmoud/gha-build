@@ -49505,7 +49505,6 @@
         "rstantools",
         "scales",
         "stringr",
-        "svUnit",
         "tibble",
         "tidybayes",
         "tidyr",
@@ -81585,7 +81584,6 @@
         "posterior",
         "purrr",
         "scales",
-        "svUnit",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -81605,9 +81603,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "arrayhelpers": [
-        "svUnit"
-    ],
+    "arrayhelpers": [],
     "posterior": [
         "Matrix",
         "checkmate",
@@ -81621,7 +81617,6 @@
         "tibble",
         "vctrs"
     ],
-    "svUnit": [],
     "distributional": [
         "Matrix",
         "ggplot2",
