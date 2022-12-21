@@ -1134,7 +1134,6 @@
         "utf8",
         "vctrs"
     ],
-    "agilp": [],
     "AgiMicroRna": [
         "AnnotationDbi",
         "AnnotationFilter",
