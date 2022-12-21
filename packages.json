@@ -27126,7 +27126,6 @@
         "Matrix",
         "ProtGenerics",
         "RColorBrewer",
-        "RMSNumpress",
         "RSQLite",
         "RcppEigen",
         "RcppTOML",
@@ -121976,7 +121975,6 @@
         "nlme",
         "pkgconfig"
     ],
-    "RMSNumpress": [],
     "DiffCorr": [
         "Biobase",
         "BiocGenerics",
