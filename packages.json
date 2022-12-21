@@ -17091,7 +17091,6 @@
         "IRanges",
         "XVector"
     ],
-    "GeneSelectMMD": [],
     "GENESIS": [
         "Biostrings",
         "GWASTools",
@@ -20444,7 +20443,6 @@
         "DelayedMatrixStats",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
-        "GeneSelectMMD",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
