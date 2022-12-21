@@ -58418,7 +58418,6 @@
         "iBBiG",
         "ids",
         "igraph",
-        "inaparc",
         "interp",
         "ipred",
         "irlba",
@@ -90968,7 +90967,6 @@
         "httpuv",
         "httr",
         "igraph",
-        "inaparc",
         "isoband",
         "jquerylib",
         "jsonlite",
@@ -120846,9 +120844,7 @@
         "withr",
         "xfun"
     ],
-    "ppclust": [
-        "inaparc"
-    ],
+    "ppclust": [],
     "MatrixCorrelation": [
         "Matrix",
         "RSpectra",
@@ -120861,7 +120857,6 @@
         "progress",
         "vctrs"
     ],
-    "inaparc": [],
     "metR": [
         "Matrix",
         "RColorBrewer",
