@@ -147910,7 +147910,6 @@
         "RSQLite",
         "Rcpp",
         "STRINGdb",
-        "alluvial",
         "bit",
         "bit64",
         "blob",
@@ -175149,6 +175148,5 @@
         "Rcpp",
         "lattice",
         "plyr"
-    ],
-    "alluvial": []
+    ]
 }
