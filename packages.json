@@ -13624,7 +13624,6 @@
         "IRanges",
         "Matrix",
         "MatrixGenerics",
-        "PoiClaClu",
         "RCurl",
         "S4Vectors",
         "SummarizedExperiment",
@@ -141802,7 +141801,6 @@
         "ps"
     ],
     "zeallot": [],
-    "PoiClaClu": [],
     "pryr": [
         "cli",
         "cpp11",
