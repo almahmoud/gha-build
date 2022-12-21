@@ -41093,7 +41093,6 @@
         "SummarizedExperiment",
         "XVector",
         "abind",
-        "aggregation",
         "backports",
         "brio",
         "broom",
@@ -59611,7 +59610,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "aggregation",
         "calibrate",
         "cli",
         "dplyr",
@@ -112524,7 +112522,6 @@
         "stringi",
         "vctrs"
     ],
-    "aggregation": [],
     "HiContactsData": [
         "AnnotationDbi",
         "AnnotationHub",
