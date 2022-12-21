@@ -18992,7 +18992,6 @@
         "TTR",
         "XVector",
         "askpass",
-        "binr",
         "bit64",
         "blob",
         "broom",
@@ -100915,7 +100914,6 @@
         "shinyjs",
         "withr"
     ],
-    "binr": [],
     "highcharter": [
         "Matrix",
         "TTR",
