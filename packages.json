@@ -20777,7 +20777,6 @@
         "httpuv",
         "httr",
         "pillar",
-        "plgem",
         "progress",
         "restfulr",
         "rtracklayer",
@@ -32609,7 +32608,6 @@
         "tibble",
         "vctrs"
     ],
-    "plgem": [],
     "plier": [
         "affy"
     ],
