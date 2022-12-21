@@ -38996,7 +38996,6 @@
         "NMF",
         "RcppEigen",
         "bslib",
-        "clValid",
         "classInt",
         "diceR",
         "doParallel",
@@ -39242,7 +39241,6 @@
         "bslib",
         "callr",
         "car",
-        "clValid",
         "cowplot",
         "dbplyr",
         "dendextend",
@@ -44747,7 +44745,6 @@
         "biovizBase",
         "blob",
         "bslib",
-        "clValid",
         "dbplyr",
         "dplyr",
         "ensembldb",
@@ -69763,7 +69760,6 @@
     "diceR": [
         "NMF",
         "bslib",
-        "clValid",
         "classInt",
         "doParallel",
         "dplyr",
@@ -69799,7 +69795,6 @@
         "vroom",
         "yardstick"
     ],
-    "clValid": [],
     "yardstick": [
         "dplyr",
         "hardhat",
