@@ -9065,7 +9065,6 @@
         "sass",
         "scales",
         "shape",
-        "sm",
         "stringi",
         "stringr",
         "survival",
@@ -14107,7 +14106,6 @@
         "rprojroot",
         "sass",
         "scales",
-        "sm",
         "sp",
         "spBayes",
         "stringi",
@@ -17984,9 +17982,7 @@
         "withr",
         "xfun"
     ],
-    "clustComp": [
-        "sm"
-    ],
+    "clustComp": [],
     "clusterExperiment": [
         "AnnotationDbi",
         "Biobase",
@@ -20256,7 +20252,6 @@
         "pillar",
         "pkgconfig",
         "scales",
-        "sm",
         "stable",
         "statip",
         "stringi",
@@ -21247,7 +21242,6 @@
         "pkgconfig",
         "plogr",
         "scales",
-        "sm",
         "survival",
         "sys",
         "topGO",
@@ -43985,7 +43979,6 @@
         "openssl",
         "pkgconfig",
         "plogr",
-        "sm",
         "sys",
         "vctrs",
         "vioplot",
@@ -65095,7 +65088,6 @@
         "rtracklayer",
         "scales",
         "shape",
-        "sm",
         "stringi",
         "stringr",
         "survival",
@@ -77240,7 +77232,6 @@
         "shinydashboard",
         "shinyjs",
         "slam",
-        "sm",
         "stringi",
         "stringr",
         "tibble",
@@ -81168,7 +81159,6 @@
         "shinyjqui",
         "shinyjs",
         "shinythemes",
-        "sm",
         "stringi",
         "stringr",
         "tibble",
@@ -83807,7 +83797,6 @@
         "shinydashboard",
         "shinyjs",
         "slam",
-        "sm",
         "stringi",
         "stringr",
         "tibble",
@@ -115242,7 +115231,6 @@
         "shinydashboard",
         "shinyjs",
         "slam",
-        "sm",
         "stringi",
         "stringr",
         "tibble",
@@ -121975,7 +121963,6 @@
     ],
     "vioplot": [
         "lattice",
-        "sm",
         "zoo"
     ],
     "imager": [
@@ -122010,7 +121997,6 @@
         "survival",
         "zoo"
     ],
-    "sm": [],
     "xlsxjars": [
         "rJava"
     ],
@@ -132495,8 +132481,7 @@
     ],
     "magicaxis": [
         "celestial",
-        "mapproj",
-        "sm"
+        "mapproj"
     ],
     "celestial": [],
     "PMCMRplus": [
