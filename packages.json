@@ -78110,7 +78110,6 @@
         "timechange",
         "tzdb",
         "vctrs",
-        "warp",
         "withr"
     ],
     "supraHex": [
@@ -99085,15 +99084,12 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "warp",
         "withr"
     ],
     "slider": [
         "lifecycle",
-        "vctrs",
-        "warp"
+        "vctrs"
     ],
-    "warp": [],
     "clustvarsel": [
         "BMA",
         "Matrix",
