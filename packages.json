@@ -36181,7 +36181,6 @@
         "rtracklayer"
     ],
     "GRridge": [
-        "Iso",
         "Matrix",
         "RcppEigen",
         "foreach",
@@ -102976,7 +102975,6 @@
         "Matrix",
         "survival"
     ],
-    "Iso": [],
     "fGarch": [
         "Matrix",
         "fBasics",
