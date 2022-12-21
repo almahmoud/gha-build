@@ -44805,7 +44805,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "ParallelLogger",
         "RSQLite",
         "Rsamtools",
         "S4Vectors",
@@ -72125,7 +72124,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "ParallelLogger": [],
     "pairsD3": [
         "bslib",
         "highr",
