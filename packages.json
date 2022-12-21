@@ -13733,7 +13733,6 @@
         "checkmate",
         "dbplyr",
         "deldir",
-        "docopt",
         "dplyr",
         "ensembldb",
         "fs",
@@ -14361,7 +14360,6 @@
         "affy",
         "clue",
         "doParallel",
-        "docopt",
         "foreach",
         "futile.logger",
         "ggplot2",
@@ -37389,7 +37387,6 @@
         "bit64",
         "blob",
         "dbplyr",
-        "docopt",
         "dplyr",
         "futile.logger",
         "hms",
@@ -52375,7 +52372,6 @@
         "RCurl",
         "RcppEigen",
         "biocViews",
-        "docopt",
         "dplyr",
         "ggplot2",
         "graph",
@@ -58811,7 +58807,6 @@
         "dbplyr",
         "dendextend",
         "desc",
-        "docopt",
         "dplyr",
         "factoextra",
         "flexmix",
@@ -78482,7 +78477,6 @@
     "sevenbridges": [
         "S4Vectors",
         "askpass",
-        "docopt",
         "httr",
         "jsonlite",
         "lifecycle",
@@ -90529,7 +90523,6 @@
         "RcppEigen",
         "biocViews",
         "class",
-        "docopt",
         "dplyr",
         "flexmix",
         "fpc",
@@ -100173,14 +100166,12 @@
     ],
     "qlcMatrix": [
         "Matrix",
-        "docopt",
         "slam",
         "sparsesvd"
     ],
     "sparsesvd": [
         "Matrix"
     ],
-    "docopt": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
