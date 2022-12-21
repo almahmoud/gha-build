@@ -47490,7 +47490,6 @@
         "XVector",
         "ade4",
         "annotate",
-        "aods3",
         "askpass",
         "beachmat",
         "bit",
@@ -115708,7 +115707,6 @@
         "vctrs",
         "zlibbioc"
     ],
-    "aods3": [],
     "sortable": [
         "bslib",
         "cachem",
