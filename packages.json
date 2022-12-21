@@ -2754,7 +2754,6 @@
         "dbplyr",
         "dplyr",
         "fansi",
-        "fdrtool",
         "futile.logger",
         "futile.options",
         "geneplotter",
@@ -21108,7 +21107,6 @@
         "dplyr",
         "edgeR",
         "fansi",
-        "fdrtool",
         "foreach",
         "fs",
         "futile.logger",
@@ -24775,7 +24773,6 @@
         "doParallel",
         "dplyr",
         "fansi",
-        "fdrtool",
         "foreach",
         "fs",
         "futile.logger",
@@ -25806,7 +25803,6 @@
         "deldir",
         "doParallel",
         "fansi",
-        "fdrtool",
         "foreach",
         "fs",
         "ggplot2",
@@ -26670,7 +26666,6 @@
         "XVector",
         "calibrate",
         "cpp11",
-        "fdrtool",
         "futile.logger",
         "futile.options",
         "lattice",
@@ -30478,7 +30473,6 @@
         "cpp11",
         "deldir",
         "fansi",
-        "fdrtool",
         "fs",
         "futile.logger",
         "futile.options",
@@ -33343,9 +33337,7 @@
         "vctrs",
         "withr"
     ],
-    "FitHiC": [
-        "fdrtool"
-    ],
+    "FitHiC": [],
     "flagme": [
         "Biobase",
         "BiocGenerics",
@@ -41314,7 +41306,6 @@
         "bit64",
         "blob",
         "cli",
-        "fdrtool",
         "genefilter",
         "gplots",
         "graph",
@@ -43546,7 +43537,6 @@
         "Biobase",
         "BiocGenerics",
         "Matrix",
-        "fdrtool",
         "lattice",
         "survival"
     ],
@@ -44107,7 +44097,6 @@
         "dplyr",
         "egg",
         "fansi",
-        "fdrtool",
         "foreach",
         "fs",
         "futile.logger",
@@ -44428,7 +44417,6 @@
     ],
     "IHW": [
         "BiocGenerics",
-        "fdrtool",
         "lpsymphony",
         "slam"
     ],
@@ -48217,7 +48205,6 @@
     ],
     "les": [
         "RColorBrewer",
-        "fdrtool",
         "gplots"
     ],
     "levi": [
@@ -52453,7 +52440,6 @@
         "bookdown",
         "bslib",
         "cli",
-        "fdrtool",
         "fs",
         "genefilter",
         "graph",
@@ -53425,7 +53411,6 @@
         "cowplot",
         "cpp11",
         "fansi",
-        "fdrtool",
         "fgsea",
         "fields",
         "futile.logger",
@@ -55287,7 +55272,6 @@
         "cpp11",
         "dplyr",
         "fansi",
-        "fdrtool",
         "futile.logger",
         "futile.options",
         "ggplot2",
@@ -64178,7 +64162,6 @@
         "cli",
         "coda",
         "fansi",
-        "fdrtool",
         "foreach",
         "ggm",
         "ggplot2",
@@ -67300,7 +67283,6 @@
         "dbplyr",
         "dplyr",
         "fansi",
-        "fdrtool",
         "graph",
         "hms",
         "httr",
@@ -68060,7 +68042,6 @@
         "SummarizedExperiment",
         "XVector",
         "cpp11",
-        "fdrtool",
         "futile.logger",
         "futile.options",
         "lattice"
@@ -83057,7 +83038,6 @@
         "cpp11",
         "dplyr",
         "fansi",
-        "fdrtool",
         "ggplot2",
         "gtable",
         "isoband",
@@ -87089,7 +87069,6 @@
         "egg",
         "enrichplot",
         "fansi",
-        "fdrtool",
         "fgsea",
         "fields",
         "fitdistrplus",
@@ -93359,7 +93338,6 @@
         "bit64",
         "blob",
         "cli",
-        "fdrtool",
         "graph",
         "httr",
         "igraph",
@@ -107374,7 +107352,6 @@
         "openssl",
         "sys"
     ],
-    "fdrtool": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi",
         "Biobase",
@@ -115271,7 +115248,6 @@
         "Biobase",
         "BiocGenerics",
         "Matrix",
-        "fdrtool",
         "igraph",
         "lattice",
         "magrittr",
@@ -115541,7 +115517,6 @@
         "cli",
         "deldir",
         "fansi",
-        "fdrtool",
         "fs",
         "ggplot2",
         "gridExtra",
@@ -118336,9 +118311,7 @@
         "rebus.numbers"
     ],
     "rebus.numbers": [],
-    "GeneNet": [
-        "fdrtool"
-    ],
+    "GeneNet": [],
     "ggmcmc": [
         "GGally",
         "Matrix",
