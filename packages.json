@@ -6270,7 +6270,6 @@
         "Rhdf5lib",
         "Rmpfr",
         "Rtsne",
-        "Rvmmin",
         "S4Vectors",
         "ScaledMatrix",
         "Seurat",
@@ -111556,7 +111555,6 @@
         "ROI",
         "ROI.plugin.lpsolve",
         "Rhdf5lib",
-        "Rvmmin",
         "S4Vectors",
         "XVector",
         "ade4",
@@ -111625,9 +111623,7 @@
         "vctrs",
         "withr"
     ],
-    "optimr": [
-        "Rvmmin"
-    ],
+    "optimr": [],
     "detectseparation": [
         "ROI",
         "ROI.plugin.lpsolve",
@@ -111663,7 +111659,6 @@
         "slam"
     ],
     "lpSolveAPI": [],
-    "Rvmmin": [],
     "mitools": [],
     "slam": [],
     "sjmisc": [
