@@ -17841,8 +17841,7 @@
         "XVector",
         "brglm",
         "doParallel",
-        "foreach",
-        "splitstackshape"
+        "foreach"
     ],
     "CNViz": [
         "AnnotationDbi",
@@ -62106,7 +62105,6 @@
         "sass",
         "scales",
         "sp",
-        "splitstackshape",
         "stringi",
         "stringr",
         "survival",
@@ -62156,8 +62154,7 @@
         "futile.options",
         "lattice",
         "restfulr",
-        "rtracklayer",
-        "splitstackshape"
+        "rtracklayer"
     ],
     "motifmatchr": [
         "AnnotationDbi",
@@ -86868,7 +86865,6 @@
         "rtracklayer",
         "sass",
         "shiny",
-        "splitstackshape",
         "sys",
         "vctrs",
         "withr"
@@ -105031,7 +105027,6 @@
         "sass",
         "scales",
         "shape",
-        "splitstackshape",
         "stringi",
         "stringr",
         "survival",
@@ -118502,7 +118497,6 @@
     "princurve": [],
     "bezier": [],
     "brglm": [],
-    "splitstackshape": [],
     "hash": [],
     "kohonen": [],
     "biwt": [
