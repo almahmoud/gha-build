@@ -11982,7 +11982,6 @@
         "tibble",
         "waldo"
     ],
-    "ecolitk": [],
     "EDASeq": [
         "AnnotationDbi",
         "BiocFileCache",
