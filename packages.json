@@ -128281,7 +128281,6 @@
         "magrittr",
         "mime",
         "objectProperties",
-        "objectSignals",
         "openssl",
         "rlang",
         "stringi",
@@ -176710,10 +176709,7 @@
         "xfun",
         "yaml"
     ],
-    "objectProperties": [
-        "objectSignals"
-    ],
-    "objectSignals": [],
+    "objectProperties": [],
     "mlr3": [
         "R6",
         "backports",
