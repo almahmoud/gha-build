@@ -19596,7 +19596,6 @@
         "lambda.r",
         "lattice",
         "lifecycle",
-        "locfdr",
         "locfit",
         "magrittr",
         "matrixStats",
@@ -35784,7 +35783,6 @@
         "e1071",
         "lattice",
         "lifecycle",
-        "locfdr",
         "magrittr",
         "matrixStats",
         "proxy",
@@ -46834,8 +46832,7 @@
     ],
     "GIGSEA": [
         "Matrix",
-        "lattice",
-        "locfdr"
+        "lattice"
     ],
     "girafe": [
         "Biobase",
@@ -77262,7 +77259,6 @@
         "lambda.r",
         "lattice",
         "lifecycle",
-        "locfdr",
         "locfit",
         "magrittr",
         "matrixStats",
@@ -100284,7 +100280,6 @@
         "lambda.r",
         "lattice",
         "lifecycle",
-        "locfdr",
         "magrittr",
         "matrixStats",
         "mgcv",
@@ -118852,7 +118847,6 @@
         "labeling",
         "lattice",
         "lifecycle",
-        "locfdr",
         "magrittr",
         "matrixStats",
         "mgcv",
@@ -135926,7 +135920,6 @@
         "pkgconfig"
     ],
     "qtl": [],
-    "locfdr": [],
     "phylobase": [
         "RNeXML",
         "ade4",
