@@ -67875,7 +67875,6 @@
         "mgcv",
         "multicool",
         "nlme",
-        "optimalFlowData",
         "pcaPP",
         "pillar",
         "plot3D",
@@ -119741,7 +119740,6 @@
         "vctrs",
         "waldo"
     ],
-    "optimalFlowData": [],
     "Peptides": [],
     "biomartr": [
         "AnnotationDbi",
