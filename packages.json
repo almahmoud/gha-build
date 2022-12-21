@@ -58195,7 +58195,6 @@
         "KEGGREST",
         "Matrix",
         "MatrixGenerics",
-        "NetActivityData",
         "RCurl",
         "RSQLite",
         "RcppArmadillo",
@@ -108080,7 +108079,6 @@
         "plyr"
     ],
     "mppa": [],
-    "NetActivityData": [],
     "huge": [
         "Matrix",
         "RcppEigen",
