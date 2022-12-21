@@ -27733,7 +27733,6 @@
         "mgcv",
         "pillar",
         "qvalue",
-        "rebus",
         "reshape2",
         "restfulr",
         "rtracklayer",
@@ -58884,7 +58883,6 @@
     "PerformanceAnalytics": [
         "xts"
     ],
-    "rebus": [],
     "ggmcmc": [
         "GGally",
         "dplyr",
