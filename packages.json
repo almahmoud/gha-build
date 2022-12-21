@@ -13609,7 +13609,6 @@
         "KEGGREST",
         "KernSmooth",
         "Matrix",
-        "NLP",
         "RCurl",
         "RSQLite",
         "Rcpp",
@@ -25110,7 +25109,6 @@
         "DiagrammeR",
         "Matrix",
         "MatrixExtra",
-        "NLP",
         "Rcpp",
         "RcppArmadillo",
         "RcppTOML",
@@ -35994,7 +35992,6 @@
         "BiocParallel",
         "KernSmooth",
         "Matrix",
-        "NLP",
         "RSQLite",
         "Rcpp",
         "RcppArmadillo",
@@ -38412,7 +38409,6 @@
         "KEGGREST",
         "Matrix",
         "MatrixGenerics",
-        "NLP",
         "RCurl",
         "RSQLite",
         "Rcpp",
@@ -39433,7 +39429,6 @@
         "DiagrammeR",
         "Matrix",
         "MatrixExtra",
-        "NLP",
         "Rcpp",
         "RcppArmadillo",
         "RcppTOML",
@@ -64697,7 +64692,6 @@
         "Matrix",
         "MatrixGenerics",
         "MatrixModels",
-        "NLP",
         "NMF",
         "R.oo",
         "R.utils",
@@ -85596,7 +85590,6 @@
         "IRanges",
         "KEGGREST",
         "Matrix",
-        "NLP",
         "RCurl",
         "RSQLite",
         "RSpectra",
@@ -93480,7 +93473,6 @@
         "IRanges",
         "KEGGREST",
         "Matrix",
-        "NLP",
         "RCurl",
         "RSQLite",
         "Rcpp",
@@ -98453,7 +98445,6 @@
     "STdeconvolve": [
         "BiocParallel",
         "Matrix",
-        "NLP",
         "Rcpp",
         "RcppArmadillo",
         "RcppEigen",
@@ -104952,7 +104943,6 @@
         "DiagrammeR",
         "Matrix",
         "MatrixExtra",
-        "NLP",
         "Rcpp",
         "RcppArmadillo",
         "RcppTOML",
@@ -105987,7 +105977,6 @@
         "Matrix",
         "MatrixExtra",
         "MatrixGenerics",
-        "NLP",
         "RCurl",
         "Rcpp",
         "RcppAnnoy",
@@ -107131,7 +107120,6 @@
         "IRanges",
         "KEGGREST",
         "Matrix",
-        "NLP",
         "RCurl",
         "RSQLite",
         "Rcpp",
@@ -116020,7 +116008,6 @@
     ],
     "nortest": [],
     "topicmodels": [
-        "NLP",
         "Rcpp",
         "modeltools",
         "tm",
@@ -116028,11 +116015,9 @@
     ],
     "maptpx": [],
     "tm": [
-        "NLP",
         "Rcpp",
         "xml2"
     ],
-    "NLP": [],
     "rjsoncons": [],
     "ggpmisc": [
         "Matrix",
@@ -119025,7 +119010,6 @@
     ],
     "textstem": [
         "Matrix",
-        "NLP",
         "Rcpp",
         "RcppArmadillo",
         "digest",
@@ -119081,7 +119065,6 @@
         "Matrix"
     ],
     "lexicon": [
-        "NLP",
         "dplyr",
         "ellipsis",
         "generics",
@@ -119107,7 +119090,6 @@
         "yaml"
     ],
     "textclean": [
-        "NLP",
         "dplyr",
         "ellipsis",
         "generics",
@@ -119129,7 +119111,6 @@
     "textshape": [],
     "sylly.en": [],
     "syuzhet": [
-        "NLP",
         "dplyr",
         "ellipsis",
         "generics",
