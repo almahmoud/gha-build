@@ -32752,7 +32752,6 @@
         "interactiveDisplayBase",
         "interp",
         "isoband",
-        "isotree",
         "jquerylib",
         "jsonlite",
         "knitr",
@@ -124768,7 +124767,6 @@
         "R.oo",
         "R.utils"
     ],
-    "isotree": [],
     "batchtools": [
         "backports",
         "base64url",
