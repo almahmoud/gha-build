@@ -25633,7 +25633,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "IHW",
         "IRanges",
         "KEGGREST",
         "NMF",
@@ -25836,7 +25835,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "IHW": [],
     "illuminaio": [
         "base64",
         "openssl"
