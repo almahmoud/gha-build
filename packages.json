@@ -6649,7 +6649,6 @@
         "SummarizedExperiment",
         "SuperLearner",
         "XVector",
-        "cubature",
         "cvAUC",
         "dplyr",
         "drtmle",
@@ -20222,9 +20221,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "dks": [
-        "cubature"
-    ],
+    "dks": [],
     "DMCFB": [
         "Biobase",
         "BiocIO",
@@ -41939,7 +41936,6 @@
         "MatrixModels",
         "ape",
         "coda",
-        "cubature",
         "dplyr",
         "forcats",
         "ggmcmc",
@@ -54598,7 +54594,6 @@
     ],
     "powerTCR": [
         "Matrix",
-        "cubature",
         "doParallel",
         "evmix",
         "foreach",
@@ -65880,7 +65875,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "cubature",
         "doParallel",
         "dplyr",
         "evmix",
@@ -83865,7 +83859,6 @@
         "MatrixModels",
         "ROCR",
         "SuperLearner",
-        "cubature",
         "cvAUC",
         "foreach",
         "future",
@@ -83886,11 +83879,9 @@
     "np": [
         "Matrix",
         "MatrixModels",
-        "cubature",
         "quantreg",
         "survival"
     ],
-    "cubature": [],
     "gam": [
         "foreach"
     ],
@@ -89001,7 +88992,6 @@
         "Matrix",
         "ape",
         "coda",
-        "cubature",
         "nlme"
     ],
     "shinycustomloader": [
