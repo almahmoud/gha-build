@@ -111294,7 +111294,6 @@
         "yaml",
         "zlibbioc"
     ],
-    "RCASPAR": [],
     "rcellminer": [
         "Biobase",
         "BiocGenerics",
