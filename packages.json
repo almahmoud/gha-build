@@ -51194,7 +51194,6 @@
         "progress",
         "promises",
         "purrr",
-        "rBiopaxParser",
         "rmarkdown",
         "sass",
         "shiny",
@@ -52352,7 +52351,6 @@
     "RBioinf": [
         "graph"
     ],
-    "rBiopaxParser": [],
     "RBM": [
         "marray"
     ],
