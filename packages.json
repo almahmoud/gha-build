@@ -28185,7 +28185,6 @@
         "ggplot2",
         "ggraph",
         "ggrepel",
-        "glm2",
         "gmodels",
         "googledrive",
         "googlesheets4",
@@ -64372,7 +64371,6 @@
         "futile.logger",
         "futile.options",
         "ggplot2",
-        "glm2",
         "graph",
         "gridExtra",
         "gsubfn",
@@ -76223,7 +76221,6 @@
         "foreach",
         "fs",
         "ggplot2",
-        "glm2",
         "graph",
         "gridExtra",
         "gtable",
@@ -126684,7 +126681,6 @@
         "futile.logger",
         "futile.options",
         "ggplot2",
-        "glm2",
         "gtable",
         "isoband",
         "labeling",
@@ -139781,7 +139777,6 @@
         "zoo"
     ],
     "ppcor": [],
-    "glm2": [],
     "harmonicmeanp": [
         "FMStable"
     ],
