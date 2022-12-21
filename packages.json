@@ -9872,7 +9872,6 @@
         "lattice",
         "lifecycle",
         "lmtest",
-        "lokern",
         "memoise",
         "mime",
         "openssl",
@@ -78213,7 +78212,6 @@
         "jsonlite",
         "lattice",
         "lifecycle",
-        "lokern",
         "memoise",
         "mime",
         "multtest",
@@ -120124,7 +120122,6 @@
         "sandwich",
         "zoo"
     ],
-    "lokern": [],
     "pasilla": [
         "AnnotationDbi",
         "Biobase",
