@@ -1907,7 +1907,6 @@
         "DelayedArray",
         "DirichletMultinomial",
         "GO.db",
-        "GeneOverlap",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -17817,7 +17816,6 @@
         "stringr",
         "vctrs"
     ],
-    "GeneOverlap": [],
     "geneplast": [
         "ape",
         "igraph"
