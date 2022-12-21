@@ -70354,7 +70354,6 @@
         "pkgload",
         "plotly",
         "plyr",
-        "poorman",
         "prettyunits",
         "processx",
         "progress",
@@ -76176,7 +76175,6 @@
         "openssl",
         "philentropy",
         "pillar",
-        "poorman",
         "prettyunits",
         "progress",
         "purrr",
@@ -89594,7 +89592,6 @@
         "philentropy",
         "pillar",
         "plotly",
-        "poorman",
         "prettyunits",
         "progress",
         "promises",
@@ -110572,7 +110569,6 @@
         "openssl",
         "philentropy",
         "pillar",
-        "poorman",
         "prettyunits",
         "progress",
         "purrr",
@@ -134080,8 +134076,7 @@
     ],
     "philentropy": [
         "KernSmooth",
-        "Rcpp",
-        "poorman"
+        "Rcpp"
     ],
     "shinyjqui": [
         "R6",
@@ -134114,7 +134109,6 @@
         "xtable",
         "yaml"
     ],
-    "poorman": [],
     "grImport": [
         "XML"
     ],
@@ -134841,7 +134835,6 @@
         "openssl",
         "philentropy",
         "pillar",
-        "poorman",
         "prettyunits",
         "progress",
         "purrr",
