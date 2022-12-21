@@ -94557,7 +94557,6 @@
         "withr",
         "xfun"
     ],
-    "weaver": [],
     "webbioc": [
         "AnnotationDbi",
         "Biobase",
