@@ -17902,7 +17902,6 @@
         "RcppEigen",
         "Rgraphviz",
         "Rhdf5lib",
-        "Rwave",
         "S4Vectors",
         "brio",
         "broom",
@@ -19060,7 +19059,6 @@
         "RcppEigen",
         "Rgraphviz",
         "Rhdf5lib",
-        "Rwave",
         "S4Vectors",
         "brio",
         "broom",
@@ -27683,7 +27681,6 @@
         "RcppEigen",
         "Rgraphviz",
         "Rhdf5lib",
-        "Rwave",
         "S4Vectors",
         "brio",
         "broom",
@@ -27765,7 +27762,6 @@
         "RcppEigen",
         "Rgraphviz",
         "Rhdf5lib",
-        "Rwave",
         "S4Vectors",
         "brio",
         "broom",
@@ -92915,7 +92911,6 @@
         "GEOmap",
         "Matrix",
         "RSEIS",
-        "Rwave",
         "fields",
         "ggplot2",
         "gridExtra",
@@ -92958,9 +92953,7 @@
         "viridis",
         "withr"
     ],
-    "RSEIS": [
-        "Rwave"
-    ],
+    "RSEIS": [],
     "splancs": [
         "sp"
     ],
@@ -92981,7 +92974,6 @@
         "viridis",
         "withr"
     ],
-    "Rwave": [],
     "shinyFeedback": [
         "bslib",
         "httpuv",
