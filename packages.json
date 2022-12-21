@@ -7640,7 +7640,6 @@
     "BioMVCClass": [
         "Biobase",
         "BiocGenerics",
-        "MVCClass",
         "Rgraphviz",
         "graph"
     ],
@@ -57995,7 +57994,6 @@
         "vctrs",
         "withr"
     ],
-    "MVCClass": [],
     "MWASTools": [
         "Biobase",
         "BiocGenerics",
