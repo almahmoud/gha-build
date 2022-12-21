@@ -32464,7 +32464,6 @@
         "R.utils",
         "RColorBrewer",
         "RCurl",
-        "RNOmni",
         "RSQLite",
         "RcppEigen",
         "S4Vectors",
@@ -119092,7 +119091,6 @@
         "pbivnorm"
     ],
     "pbivnorm": [],
-    "RNOmni": [],
     "ewceData": [
         "AnnotationDbi",
         "AnnotationHub",
