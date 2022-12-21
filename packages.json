@@ -41619,7 +41619,6 @@
         "viridisLite",
         "zlibbioc"
     ],
-    "globalSeq": [],
     "globaltest": [
         "AnnotationDbi",
         "Biobase",
