@@ -11168,7 +11168,6 @@
         "vctrs",
         "withr"
     ],
-    "bridge": [],
     "BridgeDbR": [
         "rJava"
     ],
