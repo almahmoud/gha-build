@@ -35340,7 +35340,6 @@
         "Matrix",
         "MatrixExtra",
         "NLP",
-        "PRROC",
         "R6",
         "RColorBrewer",
         "Rcpp",
@@ -51010,7 +51009,6 @@
         "Matrix",
         "MatrixGenerics",
         "OUTRIDER",
-        "PRROC",
         "R.methodsS3",
         "R.oo",
         "R.utils",
@@ -55662,7 +55660,6 @@
         "Matrix",
         "MatrixExtra",
         "NLP",
-        "PRROC",
         "R6",
         "RColorBrewer",
         "Rcpp",
@@ -63441,7 +63438,6 @@
         "MCL",
         "Matrix",
         "ModelMetrics",
-        "PRROC",
         "R6",
         "RColorBrewer",
         "Rcpp",
@@ -99617,7 +99613,6 @@
         "MASS",
         "Matrix",
         "MatrixGenerics",
-        "PRROC",
         "R6",
         "RColorBrewer",
         "RCurl",
@@ -105881,7 +105876,6 @@
         "Matrix",
         "MatrixGenerics",
         "ModelMetrics",
-        "PRROC",
         "R6",
         "RColorBrewer",
         "RCurl",
@@ -130379,7 +130373,6 @@
         "LiblineaR",
         "MASS",
         "Matrix",
-        "PRROC",
         "R6",
         "RColorBrewer",
         "RCurl",
@@ -149665,7 +149658,6 @@
         "MatrixExtra",
         "MatrixGenerics",
         "NLP",
-        "PRROC",
         "R6",
         "RColorBrewer",
         "RCurl",
@@ -168778,7 +168770,6 @@
         "withr",
         "xml2"
     ],
-    "PRROC": [],
     "rcdklibs": [
         "rJava"
     ],
@@ -178791,7 +178782,6 @@
     ],
     "objectSignals": [],
     "mlr3": [
-        "PRROC",
         "R6",
         "backports",
         "checkmate",
@@ -178813,7 +178803,6 @@
         "uuid"
     ],
     "mlr3learners": [
-        "PRROC",
         "R6",
         "backports",
         "checkmate",
@@ -178836,7 +178825,6 @@
         "uuid"
     ],
     "mlr3tuning": [
-        "PRROC",
         "R6",
         "backports",
         "bbotk",
@@ -178868,7 +178856,6 @@
         "mlr3misc"
     ],
     "mlr3measures": [
-        "PRROC",
         "backports",
         "checkmate"
     ],
