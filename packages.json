@@ -68344,7 +68344,6 @@
         "sourcetools",
         "stringi",
         "stringr",
-        "this.path",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -166896,10 +166895,8 @@
         "xtable"
     ],
     "logr": [
-        "this.path",
         "withr"
     ],
-    "this.path": [],
     "learnr": [
         "R6",
         "Rcpp",
