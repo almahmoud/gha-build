@@ -106668,7 +106668,6 @@
         "httr",
         "lifecycle",
         "objectProperties",
-        "objectSignals",
         "openssl",
         "rlang",
         "stringr",
@@ -145989,10 +145988,7 @@
         "vctrs",
         "yaml"
     ],
-    "objectProperties": [
-        "objectSignals"
-    ],
-    "objectSignals": [],
+    "objectProperties": [],
     "mlr3": [
         "PRROC",
         "R6",
