@@ -46771,7 +46771,6 @@
         "munsell",
         "nlme",
         "openxlsx",
-        "phosphoricons",
         "pillar",
         "pkgconfig",
         "progress",
@@ -117833,7 +117832,6 @@
         "magrittr",
         "mime",
         "openxlsx",
-        "phosphoricons",
         "pillar",
         "pkgconfig",
         "progress",
@@ -117860,7 +117858,6 @@
         "writexl",
         "xfun"
     ],
-    "phosphoricons": [],
     "pd.mapping50k.xba240": [
         "Biobase",
         "BiocGenerics",
