@@ -1118,7 +1118,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "timeSeries",
         "umap",
         "vctrs",
         "vegan"
@@ -8127,8 +8126,7 @@
         "XVector",
         "fBasics",
         "interp",
-        "latticeExtra",
-        "timeSeries"
+        "latticeExtra"
     ],
     "ChIPsim": [
         "BiocParallel",
@@ -10046,7 +10044,6 @@
         "scales",
         "stringr",
         "tibble",
-        "timeSeries",
         "vctrs",
         "vioplot"
     ],
@@ -13432,7 +13429,6 @@
         "quantmod",
         "scales",
         "tibble",
-        "timeSeries",
         "tseries",
         "vctrs",
         "xts"
@@ -22325,7 +22321,6 @@
         "rematch2",
         "testthat",
         "tibble",
-        "timeSeries",
         "vctrs",
         "waldo"
     ],
@@ -30824,7 +30819,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "timeSeries",
         "vctrs",
         "waldo"
     ],
@@ -57935,7 +57929,6 @@
         "pillar",
         "scales",
         "tibble",
-        "timeSeries",
         "vctrs",
         "vegan"
     ],
@@ -57956,13 +57949,10 @@
         "vctrs"
     ],
     "modeest": [
-        "fBasics",
-        "timeSeries"
+        "fBasics"
     ],
     "reticulate": [],
-    "fBasics": [
-        "timeSeries"
-    ],
+    "fBasics": [],
     "clock": [
         "vctrs"
     ],
@@ -57978,7 +57968,6 @@
         "survival"
     ],
     "lubridate": [],
-    "timeSeries": [],
     "prodlim": [
         "future.apply",
         "lava",
@@ -62420,8 +62409,7 @@
         "survival"
     ],
     "fGarch": [
-        "fBasics",
-        "timeSeries"
+        "fBasics"
     ],
     "KEGGandMetacoreDzPathwaysGEO": [],
     "ggwordcloud": [
