@@ -30588,7 +30588,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "RankProd",
         "XVector",
         "blob",
         "httr",
@@ -36329,7 +36328,6 @@
         "KEGGREST",
         "RSQLite",
         "RSpectra",
-        "RankProd",
         "SummarizedExperiment",
         "XVector",
         "annotate",
@@ -38538,7 +38536,6 @@
         "vroom"
     ],
     "randPack": [],
-    "RankProd": [],
     "RAREsim": [
         "nloptr",
         "pillar",
@@ -48815,7 +48812,6 @@
         "vctrs"
     ],
     "synlet": [
-        "RankProd",
         "broom",
         "doBy",
         "dplyr",
@@ -50700,7 +50696,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "RankProd",
         "SummarizedExperiment",
         "XVector",
         "annotate",
