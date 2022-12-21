@@ -59082,7 +59082,6 @@
         "aplot",
         "askpass",
         "backports",
-        "bayestestR",
         "biclust",
         "biomaRt",
         "bit64",
@@ -59318,7 +59317,6 @@
         "aplot",
         "askpass",
         "backports",
-        "bayestestR",
         "biomaRt",
         "bit64",
         "blob",
@@ -96275,7 +96273,6 @@
         "abind",
         "askpass",
         "backports",
-        "bayestestR",
         "biomaRt",
         "bit64",
         "blob",
@@ -122461,7 +122458,6 @@
         "RcppEigen",
         "SQUAREM",
         "backports",
-        "bayestestR",
         "brio",
         "callr",
         "checkmate",
@@ -122577,9 +122573,7 @@
         "lattice",
         "nlme"
     ],
-    "parameters": [
-        "bayestestR"
-    ],
+    "parameters": [],
     "rearrr": [
         "backports",
         "checkmate",
@@ -122596,7 +122590,6 @@
         "vctrs",
         "withr"
     ],
-    "bayestestR": [],
     "echarts4r": [
         "RColorBrewer",
         "backports",
