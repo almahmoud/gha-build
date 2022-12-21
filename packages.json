@@ -67425,7 +67425,6 @@
         "genefilter",
         "ggplot2",
         "gplots",
-        "gsmoothr",
         "httr",
         "lambda.r",
         "lifecycle",
@@ -103212,7 +103211,6 @@
         "xml2"
     ],
     "bibtex": [],
-    "gsmoothr": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [
         "BSgenome",
         "Biobase",
