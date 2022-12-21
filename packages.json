@@ -119754,9 +119754,7 @@
         "yaml",
         "zlibbioc"
     ],
-    "SNAGEE": [
-        "SNAGEEdata"
-    ],
+    "SNAGEE": [],
     "snapCGH": [
         "AnnotationDbi",
         "Biobase",
@@ -160591,7 +160589,6 @@
     "RcppAlgos": [
         "gmp"
     ],
-    "SNAGEEdata": [],
     "sampSurf": [],
     "nnlasso": [],
     "spdep": [
