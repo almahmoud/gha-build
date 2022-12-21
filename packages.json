@@ -8951,7 +8951,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylationEPICmanifest",
-        "JADE",
         "KEGGREST",
         "Matrix",
         "ROC",
@@ -33574,7 +33573,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylationEPICmanifest",
-        "JADE",
         "KEGGREST",
         "Matrix",
         "MultiDataSet",
@@ -36858,7 +36856,6 @@
         "HDF5Array",
         "Hmisc",
         "IRanges",
-        "JADE",
         "KEGGREST",
         "Matrix",
         "RBGL",
@@ -42963,7 +42960,6 @@
         "GenomicRanges",
         "Hmisc",
         "IRanges",
-        "JADE",
         "KEGGREST",
         "Matrix",
         "MatrixModels",
@@ -72595,7 +72591,6 @@
         "vroom"
     ],
     "isva": [
-        "JADE",
         "Matrix",
         "ggplot2",
         "lifecycle",
@@ -72647,7 +72642,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "JADE": [],
     "ruv": [
         "Matrix",
         "ggplot2",
@@ -75892,7 +75886,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
-        "JADE",
         "KEGGREST",
         "Matrix",
         "RSQLite",
