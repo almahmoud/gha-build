@@ -28630,7 +28630,6 @@
         "IRanges",
         "Matrix",
         "RCurl",
-        "RMallow",
         "S4Vectors",
         "TSP",
         "XVector",
@@ -53009,7 +53008,6 @@
         "IRanges",
         "Matrix",
         "RCurl",
-        "RMallow",
         "S4Vectors",
         "SpacePAC",
         "TSP",
@@ -81135,7 +81133,6 @@
         "e1071"
     ],
     "s2": [],
-    "RMallow": [],
     "penalized": [
         "Matrix",
         "survival"
