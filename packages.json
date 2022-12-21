@@ -11424,9 +11424,7 @@
         "futile.logger",
         "locfit"
     ],
-    "ClusterSignificance": [
-        "princurve"
-    ],
+    "ClusterSignificance": [],
     "clusterStab": [
         "Biobase"
     ],
@@ -13012,7 +13010,6 @@
         "nlme",
         "pheatmap",
         "pillar",
-        "princurve",
         "prodlim",
         "purrr",
         "ragg",
@@ -24216,7 +24213,6 @@
         "pillar",
         "pkgload",
         "prabclus",
-        "princurve",
         "processx",
         "psych",
         "purrr",
@@ -47195,9 +47191,7 @@
         "Matrix",
         "igraph"
     ],
-    "pathifier": [
-        "princurve"
-    ],
+    "pathifier": [],
     "PathoStat": [
         "AnnotationDbi",
         "Biobase",
@@ -62536,8 +62530,7 @@
         "SummarizedExperiment",
         "TrajectoryUtils",
         "XVector",
-        "igraph",
-        "princurve"
+        "igraph"
     ],
     "SMAD": [
         "RcppAlgos",
@@ -68525,7 +68518,6 @@
         "mgcv",
         "nlme",
         "pillar",
-        "princurve",
         "scales",
         "slingshot",
         "tibble",
@@ -68865,7 +68857,6 @@
         "mgcv",
         "nlme",
         "pillar",
-        "princurve",
         "rgl",
         "rmarkdown",
         "sass",
@@ -77362,7 +77353,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "princurve": [],
     "biwt": [
         "robustbase"
     ],
@@ -78991,7 +78981,6 @@
         "Matrix",
         "mgcv",
         "nlme",
-        "princurve",
         "vegan"
     ],
     "DataVisualizations": [
