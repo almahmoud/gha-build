@@ -6975,7 +6975,6 @@
         "cachem",
         "cli",
         "cpp11",
-        "datawizard",
         "dbplyr",
         "dplyr",
         "ellipsis",
@@ -62491,7 +62490,6 @@
         "cowplot",
         "cpp11",
         "cvms",
-        "datawizard",
         "dbplyr",
         "dbscan",
         "deldir",
@@ -62739,7 +62737,6 @@
         "cowplot",
         "cpp11",
         "cvms",
-        "datawizard",
         "dbplyr",
         "desc",
         "diffobj",
@@ -101849,7 +101846,6 @@
         "cowplot",
         "cpp11",
         "cvms",
-        "datawizard",
         "dbplyr",
         "desc",
         "diffobj",
@@ -119609,7 +119605,6 @@
     "slam": [],
     "sjmisc": [
         "cli",
-        "datawizard",
         "dplyr",
         "fansi",
         "lifecycle",
@@ -119624,10 +119619,7 @@
         "withr"
     ],
     "rslurm": [],
-    "sjlabelled": [
-        "datawizard"
-    ],
-    "datawizard": [],
+    "sjlabelled": [],
     "poibin": [],
     "LIM": [
         "diagram",
@@ -129565,7 +129557,6 @@
         "cli",
         "clock",
         "cpp11",
-        "datawizard",
         "desc",
         "diffobj",
         "dplyr",
@@ -129681,8 +129672,7 @@
         "nlme"
     ],
     "parameters": [
-        "bayestestR",
-        "datawizard"
+        "bayestestR"
     ],
     "rearrr": [
         "backports",
@@ -129701,9 +129691,7 @@
         "vctrs",
         "withr"
     ],
-    "bayestestR": [
-        "datawizard"
-    ],
+    "bayestestR": [],
     "echarts4r": [
         "RColorBrewer",
         "backports",
