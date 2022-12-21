@@ -34024,7 +34024,6 @@
         "viridis"
     ],
     "PhenStat": [
-        "SmoothWin",
         "broom",
         "car",
         "dplyr",
@@ -56979,7 +56978,6 @@
         "stringr",
         "vctrs"
     ],
-    "SmoothWin": [],
     "osfr": [
         "httr",
         "openssl",
