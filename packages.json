@@ -59670,7 +59670,6 @@
         "isoband",
         "lattice",
         "lifecycle",
-        "longitudinal",
         "magrittr",
         "mgcv",
         "mnormt",
@@ -69266,7 +69265,6 @@
         "isoband",
         "lattice",
         "lifecycle",
-        "longitudinal",
         "magrittr",
         "mclust",
         "mgcv",
@@ -100740,7 +100738,6 @@
         "jsonlite",
         "lattice",
         "lifecycle",
-        "longitudinal",
         "magrittr",
         "memoise",
         "mime",
@@ -127914,10 +127911,8 @@
     "rebus.unicode": [],
     "mhsmm": [],
     "GeneNet": [
-        "fdrtool",
-        "longitudinal"
+        "fdrtool"
     ],
-    "longitudinal": [],
     "ggmcmc": [
         "GGally",
         "Matrix",
