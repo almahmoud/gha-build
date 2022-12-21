@@ -44984,7 +44984,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tweedie",
         "vctrs",
         "vegan",
         "waldo",
@@ -45102,7 +45101,6 @@
         "tidyr",
         "tidyselect",
         "tinytex",
-        "tweedie",
         "vctrs",
         "vegan",
         "viridis",
@@ -53074,7 +53072,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tweedie",
         "vctrs",
         "vegan",
         "waldo",
@@ -106141,11 +106138,9 @@
         "stringi",
         "stringr",
         "tibble",
-        "tweedie",
         "vctrs",
         "withr"
     ],
-    "tweedie": [],
     "TMB": [
         "Matrix",
         "RcppEigen"
