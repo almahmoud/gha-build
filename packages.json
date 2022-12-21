@@ -32159,7 +32159,6 @@
         "tidyselect"
     ],
     "RedeR": [],
-    "RedisParam": [],
     "REDseq": [
         "AnnotationDbi",
         "AnnotationFilter",
