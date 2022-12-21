@@ -10880,7 +10880,6 @@
         "Biobase",
         "BiocGenerics",
         "Biostrings",
-        "GSA",
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "IRanges",
@@ -33578,7 +33577,6 @@
         "DelayedArray",
         "DelayedMatrixStats",
         "GO.db",
-        "GSA",
         "GSEABase",
         "GSVA",
         "GenomeInfoDb",
@@ -75241,7 +75239,6 @@
     "nethet": [
         "Biobase",
         "BiocGenerics",
-        "GSA",
         "GeneNet",
         "ICS",
         "ICSNP",
@@ -80009,7 +80006,6 @@
         "Biobase",
         "BiocGenerics",
         "Biostrings",
-        "GSA",
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "IRanges",
@@ -103090,7 +103086,6 @@
         "BiocGenerics",
         "Biostrings",
         "GO.db",
-        "GSA",
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "GenomicRanges",
@@ -130466,7 +130461,6 @@
         "withr",
         "xml2"
     ],
-    "GSA": [],
     "metafor": [
         "Matrix",
         "lattice",
