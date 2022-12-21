@@ -68752,7 +68752,6 @@
         "sitmo",
         "survival",
         "tibble",
-        "vbsr",
         "vctrs"
     ],
     "traseR": [
@@ -83175,7 +83174,6 @@
         "reportr"
     ],
     "reportr": [],
-    "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
         "Biobase",
