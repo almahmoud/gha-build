@@ -50507,7 +50507,6 @@
         "SummarizedExperiment",
         "XVector",
         "abind",
-        "anocva",
         "ape",
         "aplot",
         "askpass",
@@ -127794,7 +127793,6 @@
     ],
     "attempt": [],
     "rsm": [],
-    "anocva": [],
     "Polychrome": [],
     "AdaptGauss": [
         "DataVisualizations",
