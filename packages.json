@@ -1330,7 +1330,6 @@
         "RcppEigen",
         "Rhtslib",
         "Rsamtools",
-        "Rttf2pt1",
         "S4Vectors",
         "ShortRead",
         "SummarizedExperiment",
@@ -31619,7 +31618,6 @@
         "R4RNA",
         "RCurl",
         "RcppEigen",
-        "Rttf2pt1",
         "S4Vectors",
         "XVector",
         "ape",
@@ -72716,7 +72714,6 @@
         "Rhtslib",
         "Rmpfr",
         "Rsamtools",
-        "Rttf2pt1",
         "S4Vectors",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -86810,7 +86807,6 @@
     ],
     "waffle": [
         "Matrix",
-        "Rttf2pt1",
         "extrafont",
         "ggplot2",
         "gridExtra",
@@ -86826,10 +86822,7 @@
         "vctrs",
         "withr"
     ],
-    "extrafont": [
-        "Rttf2pt1"
-    ],
-    "Rttf2pt1": [],
+    "extrafont": [],
     "CVXR": [
         "Matrix",
         "RcppEigen",
@@ -94166,7 +94159,6 @@
     "repo": [],
     "ggalt": [
         "Matrix",
-        "Rttf2pt1",
         "askpass",
         "bslib",
         "crosstalk",
@@ -98051,7 +98043,6 @@
         "Matrix",
         "MatrixModels",
         "RcppEigen",
-        "Rttf2pt1",
         "brio",
         "broom",
         "callr",
@@ -98109,7 +98100,6 @@
         "zoo"
     ],
     "tidytidbits": [
-        "Rttf2pt1",
         "dplyr",
         "extrafont",
         "forcats",
