@@ -63209,7 +63209,6 @@
         "askpass",
         "httr",
         "lifecycle",
-        "objectProperties",
         "openssl",
         "stringr",
         "vctrs"
@@ -85625,7 +85624,6 @@
         "tinytex",
         "vctrs"
     ],
-    "objectProperties": [],
     "mlr3": [
         "checkmate",
         "future",
