@@ -19789,7 +19789,6 @@
     "iterativeBMAsurv": [
         "BMA"
     ],
-    "iterClust": [],
     "IVAS": [
         "AnnotationDbi",
         "BiocFileCache",
