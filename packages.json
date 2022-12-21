@@ -4742,7 +4742,6 @@
         "GetoptLong",
         "Homo.sapiens",
         "IRanges",
-        "JASPAR2016",
         "KEGGREST",
         "KernSmooth",
         "Matrix",
@@ -131102,7 +131101,6 @@
         "xml2",
         "yaml"
     ],
-    "JASPAR2016": [],
     "Mus.musculus": [
         "AnnotationDbi",
         "Biobase",
