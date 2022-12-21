@@ -4978,7 +4978,6 @@
         "viridis"
     ],
     "CancerSubtypes": [
-        "ALL",
         "ConsensusClusterPlus",
         "NMF",
         "ggplot2",
@@ -5093,7 +5092,6 @@
         "vctrs"
     ],
     "CATALYST": [
-        "ALL",
         "BiocNeighbors",
         "BiocSingular",
         "ComplexHeatmap",
@@ -5823,7 +5821,6 @@
         "xts"
     ],
     "censcyt": [
-        "ALL",
         "ComplexHeatmap",
         "ConsensusClusterPlus",
         "DelayedArray",
@@ -6711,7 +6708,6 @@
         "vctrs"
     ],
     "ChromSCape": [
-        "ALL",
         "BiocIO",
         "BiocNeighbors",
         "BiocSingular",
@@ -8463,9 +8459,7 @@
         "vctrs",
         "viridis"
     ],
-    "ConsensusClusterPlus": [
-        "ALL"
-    ],
+    "ConsensusClusterPlus": [],
     "consensusDE": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -9805,7 +9799,6 @@
         "vctrs"
     ],
     "CyTOFpower": [
-        "ALL",
         "ComplexHeatmap",
         "ConsensusClusterPlus",
         "CytoGLMM",
@@ -10856,7 +10849,6 @@
         "vctrs"
     ],
     "DEGreport": [
-        "ALL",
         "AnnotationDbi",
         "Biostrings",
         "ComplexHeatmap",
@@ -11476,7 +11468,6 @@
         "viridis"
     ],
     "diffcyt": [
-        "ALL",
         "ComplexHeatmap",
         "ConsensusClusterPlus",
         "DelayedArray",
@@ -15281,7 +15272,6 @@
         "waldo"
     ],
     "FlowSOM": [
-        "ALL",
         "ConsensusClusterPlus",
         "broom",
         "car",
@@ -20954,7 +20944,6 @@
         "vroom"
     ],
     "isomiRs": [
-        "ALL",
         "AnnotationDbi",
         "Biostrings",
         "ComplexHeatmap",
@@ -23497,7 +23486,6 @@
         "waldo"
     ],
     "MetaCyto": [
-        "ALL",
         "ConsensusClusterPlus",
         "FlowSOM",
         "broom",
@@ -30726,7 +30714,6 @@
         "scales"
     ],
     "PDATK": [
-        "ALL",
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
@@ -44525,7 +44512,6 @@
         "vctrs"
     ],
     "treekoR": [
-        "ALL",
         "ComplexHeatmap",
         "ConsensusClusterPlus",
         "DelayedArray",
@@ -49013,7 +48999,6 @@
         "vctrs"
     ],
     "BMA": [],
-    "ALL": [],
     "vcfR": [
         "dplyr",
         "pillar",
