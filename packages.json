@@ -9250,7 +9250,6 @@
         "backports",
         "bit64",
         "blob",
-        "bmp",
         "bslib",
         "cachem",
         "checkmate",
@@ -21429,7 +21428,6 @@
         "TH.data",
         "abind",
         "backports",
-        "bmp",
         "bslib",
         "cachem",
         "changepoint",
@@ -89273,7 +89271,6 @@
         "askpass",
         "bit64",
         "blob",
-        "bmp",
         "bslib",
         "cachem",
         "cli",
@@ -105836,7 +105833,6 @@
         "beachmat",
         "bit64",
         "blob",
-        "bmp",
         "bslib",
         "caTools",
         "cachem",
@@ -125114,7 +125110,6 @@
     ],
     "imager": [
         "Matrix",
-        "bmp",
         "cli",
         "digest",
         "downloader",
@@ -125135,7 +125130,6 @@
         "xlsxjars"
     ],
     "readbitmap": [
-        "bmp",
         "tiff"
     ],
     "polspline": [],
@@ -125156,7 +125150,6 @@
         "lattice",
         "survival"
     ],
-    "bmp": [],
     "tiff": [],
     "latex2exp": [
         "cli",
