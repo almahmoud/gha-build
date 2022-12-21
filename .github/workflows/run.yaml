@@ -156,7 +156,7 @@ jobs:
         run: |
           PKG="${{ matrix.pkg }}"
           mkdir -p logs/times/rstudio-binary/
-          (time bash .github/scripts/build_package.sh ${{ steps.versions.outputs.library }} $PKG ) > logs/times/rstudio-binary/$PKG
+          (time bash .github/scripts/build_package.sh ${{ steps.versions.outputs.library }} $PKG ) 2>&1 | tee /tmp/logs/times/rstudio-binary/$PKG
         continue-on-error: true
 
       - name: Get tar name
@@ -184,6 +184,7 @@ jobs:
             wc -c "${{steps.tar.outputs.name}}" > logs/sizes/rstudio-binaries/libraries/$PKG
             wc -c "/tmp/tars/${{steps.tar.outputs.pkg}}" > logs/sizes/rstudio-binaries/binaries/$PKG
             cp /tmp/$PKG lists/failed/$PKG;
+            cp -r /tmp/logs logs
             git config user.name github-actions
             git config user.email github-actions@github.com
             git add lists
