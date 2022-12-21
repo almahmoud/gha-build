@@ -13847,7 +13847,6 @@
         "XVector",
         "annotate",
         "blob",
-        "blockmodeling",
         "callr",
         "edgeR",
         "geneplotter",
@@ -15399,7 +15398,6 @@
         "vctrs"
     ],
     "EBSeq": [
-        "blockmodeling",
         "callr",
         "pillar",
         "pkgload",
@@ -15411,7 +15409,6 @@
     ],
     "EBSeqHMM": [
         "EBSeq",
-        "blockmodeling",
         "callr",
         "pillar",
         "pkgload",
@@ -36891,7 +36888,6 @@
     "Oscope": [
         "BiocParallel",
         "EBSeq",
-        "blockmodeling",
         "callr",
         "pillar",
         "pkgload",
@@ -46312,7 +46308,6 @@
         "XVector",
         "arm",
         "beachmat",
-        "blockmodeling",
         "bluster",
         "callr",
         "dqrng",
@@ -46351,7 +46346,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "blockmodeling",
         "callr",
         "ggplot2",
         "mgcv",
@@ -61765,7 +61759,6 @@
         "tibble",
         "vctrs"
     ],
-    "blockmodeling": [],
     "DExMAdata": [],
     "swamp": [],
     "bnstruct": [
