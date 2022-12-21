@@ -95953,7 +95953,6 @@
         "mgcv",
         "mime",
         "minfi",
-        "mixsmsn",
         "multtest",
         "munsell",
         "nlme",
@@ -129098,7 +129097,6 @@
         "sys",
         "vctrs"
     ],
-    "mixsmsn": [],
     "RcppAlgos": [
         "cpp11"
     ],
