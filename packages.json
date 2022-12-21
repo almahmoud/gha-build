@@ -112080,7 +112080,6 @@
         "MatrixGenerics",
         "RColorBrewer",
         "RCurl",
-        "ROCit",
         "RSQLite",
         "RcppArmadillo",
         "Rhdf5lib",
@@ -141929,7 +141928,6 @@
         "xfun",
         "yaml"
     ],
-    "ROCit": [],
     "GenKern": [],
     "ttservice": [
         "cli",
