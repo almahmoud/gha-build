@@ -133456,7 +133456,6 @@
         "jquerylib",
         "jsonlite",
         "knitr",
-        "kriging",
         "labeling",
         "later",
         "lattice",
@@ -170901,7 +170900,6 @@
         "viridisLite",
         "withr"
     ],
-    "kriging": [],
     "sftime": [
         "DBI",
         "KernSmooth",
