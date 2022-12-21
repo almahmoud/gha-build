@@ -122212,7 +122212,6 @@
         "curl",
         "dplyr",
         "ellipsis",
-        "ensurer",
         "fastmap",
         "generics",
         "ggplot2",
@@ -151595,7 +151594,6 @@
         "vctrs",
         "viridisLite"
     ],
-    "ensurer": [],
     "bestNormalize": [
         "KernSmooth",
         "LambertW",
