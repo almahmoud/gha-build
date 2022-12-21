@@ -113,7 +113,6 @@
         "httr",
         "multtest",
         "pillar",
-        "sandwich",
         "scales",
         "snapCGH",
         "strucchange",
@@ -2534,7 +2533,6 @@
         "pillar",
         "ragg",
         "rhdf5",
-        "sandwich",
         "scales",
         "scater",
         "scran",
@@ -3606,7 +3604,6 @@
         "quantreg",
         "rmarkdown",
         "rms",
-        "sandwich",
         "scales",
         "stringr",
         "tibble",
@@ -4003,7 +4000,6 @@
         "httr",
         "restfulr",
         "rtracklayer",
-        "sandwich",
         "vctrs"
     ],
     "BitSeq": [
@@ -5142,7 +5138,6 @@
         "rematch2",
         "reshape2",
         "rstatix",
-        "sandwich",
         "scales",
         "scater",
         "scuttle",
@@ -5867,7 +5862,6 @@
         "rematch2",
         "reshape2",
         "rstatix",
-        "sandwich",
         "scales",
         "stringr",
         "testthat",
@@ -6390,7 +6384,6 @@
         "rmarkdown",
         "rms",
         "rtracklayer",
-        "sandwich",
         "scales",
         "stringr",
         "tibble",
@@ -8464,7 +8457,6 @@
         "reshape2",
         "rmarkdown",
         "rms",
-        "sandwich",
         "scales",
         "stringr",
         "tibble",
@@ -9866,7 +9858,6 @@
         "reshape2",
         "rmarkdown",
         "rstatix",
-        "sandwich",
         "scales",
         "shiny",
         "shinyFeedback",
@@ -9918,7 +9909,6 @@
         "reshape2",
         "rmarkdown",
         "rstatix",
-        "sandwich",
         "scales",
         "stringr",
         "strucchange",
@@ -10342,7 +10332,6 @@
         "reshape2",
         "rmarkdown",
         "rvest",
-        "sandwich",
         "scales",
         "selectr",
         "shadowtext",
@@ -11040,7 +11029,6 @@
         "progress",
         "readr",
         "rmarkdown",
-        "sandwich",
         "scales",
         "shiny",
         "shinydashboard",
@@ -11245,8 +11233,7 @@
     ],
     "DEsingle": [
         "gamlss",
-        "maxLik",
-        "sandwich"
+        "maxLik"
     ],
     "destiny": [
         "DelayedArray",
@@ -11523,7 +11510,6 @@
         "rematch2",
         "reshape2",
         "rstatix",
-        "sandwich",
         "scales",
         "stringr",
         "testthat",
@@ -11842,15 +11828,13 @@
         "XVector",
         "multcomp",
         "restfulr",
-        "rtracklayer",
-        "sandwich"
+        "rtracklayer"
     ],
     "DMRcaller": [
         "GenomeInfoDb",
         "GenomicRanges",
         "XVector",
-        "betareg",
-        "sandwich"
+        "betareg"
     ],
     "DMRcate": [
         "AnnotationDbi",
@@ -12150,7 +12134,6 @@
         "rematch2",
         "reshape2",
         "rmarkdown",
-        "sandwich",
         "scales",
         "shiny",
         "shinydashboard",
@@ -12436,7 +12419,6 @@
         "reshape2",
         "rmarkdown",
         "rstatix",
-        "sandwich",
         "scales",
         "shiny",
         "stringr",
@@ -12772,7 +12754,6 @@
         "rhdf5",
         "rmarkdown",
         "safe",
-        "sandwich",
         "scales",
         "sn",
         "stringr",
@@ -16166,7 +16147,6 @@
         "rematch2",
         "reshape2",
         "rstatix",
-        "sandwich",
         "scales",
         "stringr",
         "testthat",
@@ -16356,7 +16336,6 @@
         "quantreg",
         "quantsmooth",
         "reshape2",
-        "sandwich",
         "stringr",
         "tibble",
         "tidyr",
@@ -17498,7 +17477,6 @@
         "pillar",
         "reshape2",
         "rmarkdown",
-        "sandwich",
         "scales",
         "shiny",
         "stringr",
@@ -18216,7 +18194,6 @@
         "quantreg",
         "rematch2",
         "rmarkdown",
-        "sandwich",
         "scales",
         "stringr",
         "testthat",
@@ -18653,7 +18630,6 @@
         "pillar",
         "quantreg",
         "quantsmooth",
-        "sandwich",
         "stringr",
         "tibble",
         "tidyr",
@@ -18693,7 +18669,6 @@
         "quantsmooth",
         "restfulr",
         "rtracklayer",
-        "sandwich",
         "stringr",
         "tibble",
         "tidyr",
@@ -19192,7 +19167,6 @@
         "multcomp",
         "pillar",
         "rmarkdown",
-        "sandwich",
         "servr",
         "shiny",
         "stringr",
@@ -20085,7 +20059,6 @@
         "reshape2",
         "reticulate",
         "rmarkdown",
-        "sandwich",
         "scales",
         "scattermore",
         "sctransform",
@@ -20679,7 +20652,6 @@
         "reticulate",
         "rmarkdown",
         "rstatix",
-        "sandwich",
         "scales",
         "scater",
         "scattermore",
@@ -21454,7 +21426,6 @@
         "ggplot2",
         "multcomp",
         "pillar",
-        "sandwich",
         "scales",
         "tibble",
         "vctrs"
@@ -21644,7 +21615,6 @@
         "plotly",
         "rmarkdown",
         "ropls",
-        "sandwich",
         "scales",
         "stringr",
         "tibble",
@@ -22653,7 +22623,6 @@
         "proDA",
         "reticulate",
         "rmarkdown",
-        "sandwich",
         "scales",
         "shiny",
         "shinydashboard",
@@ -22819,7 +22788,6 @@
         "pillar",
         "quantreg",
         "quantsmooth",
-        "sandwich",
         "stringr",
         "tibble",
         "tidyr",
@@ -23152,7 +23120,6 @@
         "pillar",
         "quantreg",
         "rematch2",
-        "sandwich",
         "scales",
         "stringr",
         "testthat",
@@ -23885,7 +23852,6 @@
         "plotly",
         "quantreg",
         "rmarkdown",
-        "sandwich",
         "scales",
         "sn",
         "stringr",
@@ -24836,7 +24802,6 @@
         "pillar",
         "reshape2",
         "rhdf5",
-        "sandwich",
         "scales",
         "stringr",
         "tibble",
@@ -24993,7 +24958,6 @@
         "reshape2",
         "rhdf5",
         "rmarkdown",
-        "sandwich",
         "scales",
         "scater",
         "scuttle",
@@ -25098,7 +25062,6 @@
         "multcomp",
         "patchwork",
         "pillar",
-        "sandwich",
         "scales",
         "tibble",
         "tidyr",
@@ -27483,7 +27446,6 @@
         "mutoss",
         "pillar",
         "quantreg",
-        "sandwich",
         "scales",
         "sn",
         "tibble",
@@ -27624,7 +27586,6 @@
         "rmarkdown",
         "ropls",
         "roxygen2",
-        "sandwich",
         "scales",
         "scatterpie",
         "shadowtext",
@@ -28085,7 +28046,6 @@
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
-        "sandwich",
         "scales",
         "shiny",
         "sn",
@@ -28964,7 +28924,6 @@
         "readxl",
         "rematch2",
         "rmarkdown",
-        "sandwich",
         "scales",
         "stringr",
         "testthat",
@@ -29485,7 +29444,6 @@
         "reshape2",
         "rexposome",
         "rmarkdown",
-        "sandwich",
         "scales",
         "stringr",
         "sva",
@@ -30474,7 +30432,6 @@
         "quantreg",
         "qvalue",
         "reshape2",
-        "sandwich",
         "scales",
         "scatterpie",
         "shadowtext",
@@ -35030,7 +34987,6 @@
         "rematch2",
         "reshape2",
         "rmarkdown",
-        "sandwich",
         "scales",
         "stringr",
         "testthat",
@@ -36669,7 +36625,6 @@
         "rematch2",
         "rmarkdown",
         "ropls",
-        "sandwich",
         "scales",
         "sn",
         "stringr",
@@ -40199,7 +40154,6 @@
         "rstan",
         "rtracklayer",
         "ruv",
-        "sandwich",
         "scDblFinder",
         "scMerge",
         "scRNAseq",
@@ -40548,7 +40502,6 @@
         "httr",
         "multtest",
         "pillar",
-        "sandwich",
         "scales",
         "strucchange",
         "tibble",
@@ -40826,7 +40779,6 @@
         "MCMCpack",
         "gmm",
         "quantreg",
-        "sandwich",
         "tmvtnorm"
     ],
     "sparsenetgls": [
@@ -42769,7 +42721,6 @@
         "reshape2",
         "rmarkdown",
         "rvest",
-        "sandwich",
         "scales",
         "selectr",
         "sf",
@@ -43804,7 +43755,6 @@
         "ggplot2",
         "httr",
         "pillar",
-        "sandwich",
         "scales",
         "strucchange",
         "tibble",
@@ -44623,7 +44573,6 @@
         "reshape2",
         "rmarkdown",
         "rstatix",
-        "sandwich",
         "scales",
         "stringr",
         "testthat",
@@ -46837,10 +46786,7 @@
     ],
     "httpuv": [],
     "future.apply": [],
-    "strucchange": [
-        "sandwich"
-    ],
-    "sandwich": [],
+    "strucchange": [],
     "DT": [
         "htmlwidgets",
         "knitr",
@@ -48334,12 +48280,9 @@
         "vctrs"
     ],
     "DirichletReg": [
-        "maxLik",
-        "sandwich"
+        "maxLik"
     ],
-    "maxLik": [
-        "sandwich"
-    ],
+    "maxLik": [],
     "corncob": [
         "Biostrings",
         "GenomeInfoDb",
@@ -48665,7 +48608,6 @@
         "pillar",
         "quantreg",
         "rmarkdown",
-        "sandwich",
         "scales",
         "stringr",
         "tibble",
@@ -48686,8 +48628,7 @@
     ],
     "xlsx": [],
     "multcomp": [
-        "TH.data",
-        "sandwich"
+        "TH.data"
     ],
     "TH.data": [],
     "latex2exp": [
@@ -48862,9 +48803,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "betareg": [
-        "sandwich"
-    ],
+    "betareg": [],
     "pasilla": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -49107,7 +49046,6 @@
         "pillar",
         "quantreg",
         "rematch2",
-        "sandwich",
         "scales",
         "stringr",
         "testthat",
@@ -49931,7 +49869,6 @@
         "quantreg",
         "rmarkdown",
         "rms",
-        "sandwich",
         "scales",
         "stringr",
         "tibble",
@@ -50291,7 +50228,6 @@
         "multtest",
         "mutoss",
         "quantreg",
-        "sandwich",
         "sn"
     ],
     "TFisher": [
@@ -50301,8 +50237,7 @@
     "mutoss": [
         "TH.data",
         "multcomp",
-        "multtest",
-        "sandwich"
+        "multtest"
     ],
     "sn": [
         "quantreg"
@@ -50409,16 +50344,12 @@
     "imputeLCMD": [
         "gmm",
         "pcaMethods",
-        "sandwich",
         "tmvtnorm"
     ],
     "tmvtnorm": [
-        "gmm",
-        "sandwich"
+        "gmm"
     ],
-    "gmm": [
-        "sandwich"
-    ],
+    "gmm": [],
     "ggplot.multistats": [
         "ggplot2",
         "pillar",
@@ -50525,8 +50456,7 @@
     ],
     "coin": [
         "TH.data",
-        "multcomp",
-        "sandwich"
+        "multcomp"
     ],
     "ELMER.data": [
         "GenomeInfoDb",
@@ -50944,7 +50874,6 @@
         "pillar",
         "reshape2",
         "rmarkdown",
-        "sandwich",
         "scales",
         "shiny",
         "stringr",
@@ -51983,7 +51912,6 @@
         "readxl",
         "rematch2",
         "rmarkdown",
-        "sandwich",
         "scales",
         "stringr",
         "testthat",
