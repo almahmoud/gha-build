@@ -6720,7 +6720,6 @@
         "fs",
         "gert",
         "gh",
-        "git2r",
         "gitcreds",
         "highr",
         "httr",
@@ -27359,7 +27358,6 @@
         "epivizrServer",
         "foreach",
         "futile.logger",
-        "git2r",
         "graph",
         "hms",
         "httpuv",
@@ -47485,7 +47483,6 @@
         "foreach",
         "futile.logger",
         "ggplot2",
-        "git2r",
         "glmnet",
         "gplots",
         "graph",
@@ -68120,7 +68117,6 @@
         "fs",
         "futile.logger",
         "ggplot2",
-        "git2r",
         "gridExtra",
         "gtable",
         "here",
@@ -97670,7 +97666,6 @@
         "openssl",
         "sys"
     ],
-    "git2r": [],
     "chk": [
         "lifecycle"
     ],
