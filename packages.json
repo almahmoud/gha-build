@@ -3169,7 +3169,6 @@
         "assertive.matrices",
         "assertive.models",
         "assertive.properties",
-        "assertive.reflection",
         "assertive.strings",
         "assertive.types",
         "blob",
@@ -42025,7 +42024,6 @@
         "assertive.matrices",
         "assertive.models",
         "assertive.properties",
-        "assertive.reflection",
         "assertive.strings",
         "assertive.types",
         "bamsignals",
@@ -74191,7 +74189,6 @@
         "assertive.matrices",
         "assertive.models",
         "assertive.properties",
-        "assertive.reflection",
         "assertive.strings",
         "assertive.types",
         "highr",
@@ -74230,7 +74227,6 @@
         "assertive.strings",
         "assertive.types"
     ],
-    "assertive.reflection": [],
     "assertive.code": [
         "assertive.properties",
         "assertive.types"
