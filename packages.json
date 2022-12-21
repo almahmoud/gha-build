@@ -17171,7 +17171,6 @@
     "geNetClassifier": [
         "EBarrays"
     ],
-    "GeneticsPed": [],
     "GeneTonic": [
         "AnnotationDbi",
         "Biostrings",
