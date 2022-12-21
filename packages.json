@@ -36893,7 +36893,6 @@
         "nloptr",
         "pbkrtest",
         "pillar",
-        "pingr",
         "quantreg",
         "rematch2",
         "scales",
@@ -61743,7 +61742,6 @@
         "vctrs"
     ],
     "SmoothWin": [],
-    "pingr": [],
     "osfr": [
         "httr",
         "openssl",
