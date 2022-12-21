@@ -2891,7 +2891,6 @@
         "plogr",
         "progress",
         "purrr",
-        "rJava",
         "rmarkdown",
         "sampling",
         "sass",
@@ -7490,7 +7489,6 @@
         "precrec",
         "purrr",
         "quantreg",
-        "rJava",
         "ranger",
         "readbitmap",
         "rmarkdown",
@@ -9334,9 +9332,7 @@
         "vctrs",
         "withr"
     ],
-    "BridgeDbR": [
-        "rJava"
-    ],
+    "BridgeDbR": [],
     "BrowserViz": [
         "BiocGenerics",
         "httpuv",
@@ -14092,7 +14088,6 @@
         "plogr",
         "progress",
         "purrr",
-        "rJava",
         "shape",
         "stringi",
         "stringr",
@@ -20855,7 +20850,6 @@
         "ps",
         "purrr",
         "quantreg",
-        "rJava",
         "recipes",
         "rematch2",
         "reshape2",
@@ -21396,7 +21390,6 @@
         "pkgconfig",
         "progress",
         "quantmod",
-        "rJava",
         "readr",
         "reshape2",
         "scales",
@@ -22015,7 +22008,6 @@
         "purrr",
         "qdapRegex",
         "quanteda",
-        "rJava",
         "rcdk",
         "rcdklibs",
         "readr",
@@ -28449,7 +28441,6 @@
         "progress",
         "purrr",
         "qvalue",
-        "rJava",
         "readr",
         "reshape2",
         "restfulr",
@@ -29725,7 +29716,6 @@
         "lifecycle",
         "magrittr",
         "nlme",
-        "rJava",
         "stringi",
         "stringr",
         "vctrs"
@@ -32267,8 +32257,7 @@
     ],
     "gaggle": [
         "BiocGenerics",
-        "graph",
-        "rJava"
+        "graph"
     ],
     "GAprediction": [
         "Matrix",
@@ -32400,7 +32389,6 @@
         "ps",
         "purrr",
         "quantreg",
-        "rJava",
         "recipes",
         "rematch2",
         "reshape2",
@@ -34633,7 +34621,6 @@
         "purrr",
         "qdapRegex",
         "quanteda",
-        "rJava",
         "rcdk",
         "rcdklibs",
         "readr",
@@ -48055,9 +48042,7 @@
         "vctrs",
         "withr"
     ],
-    "metabinR": [
-        "rJava"
-    ],
+    "metabinR": [],
     "MetaboAnnotation": [
         "AnnotationFilter",
         "Biobase",
@@ -52494,7 +52479,6 @@
         "purrr",
         "quantreg",
         "qvalue",
-        "rJava",
         "randomcoloR",
         "reactome.db",
         "readr",
@@ -63001,7 +62985,6 @@
         "pillar",
         "pkgconfig",
         "progress",
-        "rJava",
         "readr",
         "sys",
         "tibble",
@@ -67253,7 +67236,6 @@
         "plogr",
         "progress",
         "purrr",
-        "rJava",
         "rcdk",
         "rcdklibs",
         "restfulr",
@@ -70115,7 +70097,6 @@
         "openssl",
         "pkgconfig",
         "plogr",
-        "rJava",
         "rcdk",
         "rcdklibs",
         "sys",
@@ -71741,7 +71722,6 @@
         "S4Vectors",
         "XVector",
         "futile.logger",
-        "rJava",
         "seqbias"
     ],
     "ResidualMatrix": [
@@ -72137,7 +72117,6 @@
         "openssl",
         "pillar",
         "pkgconfig",
-        "rJava",
         "restfulr",
         "rtracklayer",
         "sys",
@@ -73467,7 +73446,6 @@
         "pkgconfig",
         "promises",
         "purrr",
-        "rJava",
         "rcdk",
         "rcdklibs",
         "readJDX",
@@ -73488,9 +73466,7 @@
         "withr",
         "xfun"
     ],
-    "rmelting": [
-        "rJava"
-    ],
+    "rmelting": [],
     "Rmmquant": [
         "AnnotationDbi",
         "Biobase",
@@ -76354,8 +76330,7 @@
         "RCurl",
         "S4Vectors",
         "XVector",
-        "binom",
-        "rJava"
+        "binom"
     ],
     "satuRn": [
         "Biobase",
@@ -80173,8 +80148,7 @@
         "IRanges",
         "RCurl",
         "S4Vectors",
-        "XVector",
-        "rJava"
+        "XVector"
     ],
     "SemDist": [
         "AnnotationDbi",
@@ -93343,7 +93317,6 @@
         "purrr",
         "qdapRegex",
         "quanteda",
-        "rJava",
         "ragg",
         "rcdk",
         "rcdklibs",
@@ -98746,7 +98719,6 @@
     ],
     "httpcode": [],
     "sampling": [],
-    "rJava": [],
     "FDb.InfiniumMethylation.hg19": [
         "AnnotationDbi",
         "Biobase",
@@ -100746,7 +100718,6 @@
         "vctrs"
     ],
     "xlsx": [
-        "rJava",
         "xlsxjars"
     ],
     "readbitmap": [
@@ -100760,9 +100731,7 @@
         "survival",
         "zoo"
     ],
-    "xlsxjars": [
-        "rJava"
-    ],
+    "xlsxjars": [],
     "TH.data": [
         "Matrix",
         "survival"
@@ -104291,8 +104260,7 @@
     ],
     "FSelector": [
         "RWeka",
-        "RWekajars",
-        "rJava"
+        "RWekajars"
     ],
     "arm": [
         "Matrix",
@@ -104326,8 +104294,7 @@
     ],
     "RSNNS": [],
     "RWeka": [
-        "RWekajars",
-        "rJava"
+        "RWekajars"
     ],
     "MSQC": [
         "bslib",
@@ -104347,9 +104314,7 @@
         "vctrs",
         "xfun"
     ],
-    "RWekajars": [
-        "rJava"
-    ],
+    "RWekajars": [],
     "DAPARdata": [
         "Biobase",
         "BiocGenerics",
@@ -104564,7 +104529,6 @@
         "Matrix"
     ],
     "rcdk": [
-        "rJava",
         "rcdklibs"
     ],
     "webchem": [
@@ -104589,9 +104553,7 @@
         "vctrs",
         "withr"
     ],
-    "rcdklibs": [
-        "rJava"
-    ],
+    "rcdklibs": [],
     "text2vec": [
         "Matrix",
         "MatrixExtra",
@@ -107905,7 +107867,6 @@
         "pillar",
         "pkgconfig",
         "promises",
-        "rJava",
         "sass",
         "shiny",
         "stringi",
