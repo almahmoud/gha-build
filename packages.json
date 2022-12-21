@@ -46615,7 +46615,6 @@
         "IRanges",
         "KEGGREST",
         "KEGGgraph",
-        "KMsurv",
         "KernSmooth",
         "Matrix",
         "MatrixGenerics",
@@ -51211,7 +51210,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "KMsurv",
         "Matrix",
         "MatrixGenerics",
         "MatrixModels",
@@ -59963,7 +59961,6 @@
     ],
     "iPath": [
         "BiocParallel",
-        "KMsurv",
         "Matrix",
         "MatrixModels",
         "RColorBrewer",
@@ -61609,7 +61606,6 @@
         "GenomeInfoDbData",
         "GenomicRanges",
         "IRanges",
-        "KMsurv",
         "Matrix",
         "MatrixGenerics",
         "MatrixModels",
@@ -86530,7 +86526,6 @@
         "GenomeInfoDbData",
         "GenomicRanges",
         "IRanges",
-        "KMsurv",
         "Matrix",
         "MatrixGenerics",
         "MatrixModels",
@@ -90092,7 +90087,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "KMsurv",
         "KernSmooth",
         "Matrix",
         "MatrixGenerics",
@@ -107545,7 +107539,6 @@
         "gtools"
     ],
     "RTCGA": [
-        "KMsurv",
         "Matrix",
         "MatrixModels",
         "RColorBrewer",
@@ -116290,7 +116283,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "KMsurv",
         "Matrix",
         "MatrixGenerics",
         "MatrixModels",
@@ -116510,7 +116502,6 @@
         "HDF5Array",
         "IRanges",
         "KEGGREST",
-        "KMsurv",
         "KernSmooth",
         "Matrix",
         "MatrixGenerics",
@@ -124541,7 +124532,6 @@
         "GenomeInfoDbData",
         "GenomicRanges",
         "IRanges",
-        "KMsurv",
         "Matrix",
         "MatrixGenerics",
         "MatrixModels",
@@ -151602,7 +151592,6 @@
         "vctrs"
     ],
     "survminer": [
-        "KMsurv",
         "Matrix",
         "MatrixModels",
         "RColorBrewer",
@@ -151697,7 +151686,6 @@
         "exactRankTests"
     ],
     "survMisc": [
-        "KMsurv",
         "Matrix",
         "RColorBrewer",
         "cli",
@@ -151734,7 +151722,6 @@
         "zoo"
     ],
     "exactRankTests": [],
-    "KMsurv": [],
     "km.ci": [
         "Matrix",
         "lattice",
@@ -159027,7 +159014,6 @@
         "paradox"
     ],
     "survivalAnalysis": [
-        "KMsurv",
         "Matrix",
         "MatrixModels",
         "RColorBrewer",
