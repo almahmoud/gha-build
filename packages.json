@@ -66881,7 +66881,6 @@
         "readr",
         "recipes",
         "reshape2",
-        "ridge",
         "rlist",
         "scales",
         "stringi",
@@ -137555,7 +137554,6 @@
     "bayestestR": [
         "datawizard"
     ],
-    "ridge": [],
     "echarts4r": [
         "RColorBrewer",
         "backports",
