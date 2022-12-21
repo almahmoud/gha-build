@@ -38696,7 +38696,6 @@
         "codetools",
         "colorspace",
         "commonmark",
-        "corrgram",
         "crayon",
         "crosstalk",
         "curl",
@@ -162931,7 +162930,6 @@
         "vctrs"
     ],
     "numbers": [],
-    "corrgram": [],
     "DrugVsDiseasedata": [],
     "cMap2data": [],
     "hgu133a2.db": [
