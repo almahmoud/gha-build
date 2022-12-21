@@ -37997,7 +37997,6 @@
         "ggtree",
         "gprofiler2",
         "gridExtra",
-        "grr",
         "gtable",
         "highr",
         "hms",
@@ -81570,7 +81569,6 @@
         "ggtree",
         "gprofiler2",
         "gridExtra",
-        "grr",
         "gtable",
         "highr",
         "hms",
@@ -139288,7 +139286,6 @@
         "xfun",
         "yaml"
     ],
-    "grr": [],
     "ComplexUpset": [
         "Matrix",
         "RColorBrewer",
