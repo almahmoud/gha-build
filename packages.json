@@ -30165,7 +30165,6 @@
         "MatrixCorrelation",
         "MatrixModels",
         "MetBrewer",
-        "MuMIn",
         "NMF",
         "RBGL",
         "RSQLite",
@@ -30313,7 +30312,6 @@
         "MCL",
         "MatrixModels",
         "MetBrewer",
-        "MuMIn",
         "RBGL",
         "RSQLite",
         "RcppEigen",
@@ -49132,7 +49130,6 @@
         "KEGGREST",
         "MatrixModels",
         "MetBrewer",
-        "MuMIn",
         "RBGL",
         "RSQLite",
         "RcppEigen",
@@ -61211,7 +61208,6 @@
         "vctrs"
     ],
     "cvms": [
-        "MuMIn",
         "RcppEigen",
         "clock",
         "dplyr",
@@ -61261,7 +61257,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "MuMIn": [],
     "rearrr": [
         "dplyr",
         "pillar",
