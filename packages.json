@@ -9699,7 +9699,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "COHCAP": [],
     "cola": [
         "ComplexHeatmap",
         "IRanges",
