@@ -9447,7 +9447,6 @@
         "SummarizedExperiment",
         "XVector",
         "dendextend",
-        "dtw",
         "ggplot2",
         "ggrepel",
         "gridExtra",
@@ -50312,7 +50311,6 @@
         "dbplyr",
         "desc",
         "dplyr",
-        "dtw",
         "e1071",
         "exactRankTests",
         "fgsea",
@@ -73538,7 +73536,6 @@
         "XVector",
         "bslib",
         "dplyr",
-        "dtw",
         "ggplot2",
         "gridExtra",
         "highr",
@@ -80844,7 +80841,6 @@
         "sp"
     ],
     "magic": [],
-    "dtw": [],
     "EnvStats": [
         "Matrix",
         "ggplot2",
@@ -86037,7 +86033,6 @@
     ],
     "verification": [
         "Matrix",
-        "dtw",
         "fields",
         "ggplot2",
         "gridExtra",
