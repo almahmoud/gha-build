@@ -38744,7 +38744,6 @@
         "waldo"
     ],
     "RUVcorr": [
-        "bladderbatch",
         "reshape2",
         "stringr",
         "vctrs"
@@ -55116,7 +55115,6 @@
         "tibble",
         "vctrs"
     ],
-    "bladderbatch": [],
     "RUVnormalizeData": [],
     "GENLIB": [
         "kinship2",
