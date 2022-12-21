@@ -2850,7 +2850,6 @@
         "shinyjs",
         "sourcetools",
         "stable",
-        "stabledist",
         "statip",
         "statmod",
         "stringi",
@@ -20582,7 +20581,6 @@
         "lattice",
         "latticeExtra",
         "matrixStats",
-        "stabledist",
         "timeDate",
         "timeSeries",
         "timsac",
@@ -25515,7 +25513,6 @@
         "scales",
         "sm",
         "stable",
-        "stabledist",
         "statip",
         "stringi",
         "stringr",
@@ -34223,7 +34220,6 @@
         "reshape",
         "rlang",
         "scales",
-        "stabledist",
         "tibble",
         "timeDate",
         "timeSeries",
@@ -56886,7 +56882,6 @@
         "rematch2",
         "rlang",
         "rprojroot",
-        "stabledist",
         "testthat",
         "tibble",
         "timeDate",
@@ -78505,7 +78500,6 @@
         "rprojroot",
         "scales",
         "stable",
-        "stabledist",
         "statip",
         "survival",
         "testthat",
@@ -117439,7 +117433,6 @@
         "spatstat.random",
         "spatstat.sparse",
         "spatstat.utils",
-        "stabledist",
         "stringi",
         "stringr",
         "survival",
@@ -148775,7 +148768,6 @@
         "rmutil",
         "scales",
         "stable",
-        "stabledist",
         "statip",
         "statmod",
         "tibble",
@@ -148854,7 +148846,6 @@
         "fBasics",
         "rmutil",
         "stable",
-        "stabledist",
         "statip",
         "timeDate",
         "timeSeries"
@@ -148876,14 +148867,12 @@
     ],
     "fBasics": [
         "MASS",
-        "stabledist",
         "timeDate",
         "timeSeries"
     ],
     "stable": [
         "rmutil"
     ],
-    "stabledist": [],
     "statip": [
         "clue",
         "cluster"
@@ -162501,7 +162490,6 @@
         "fastICA",
         "gbutils",
         "lattice",
-        "stabledist",
         "timeDate",
         "timeSeries"
     ],
@@ -169158,8 +169146,7 @@
         "lattice",
         "numDeriv",
         "pcaPP",
-        "pspline",
-        "stabledist"
+        "pspline"
     ],
     "ADGofTest": [],
     "pspline": [],
