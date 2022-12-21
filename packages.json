@@ -22744,7 +22744,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "geva": [],
     "GEWIST": [
         "MatrixModels",
         "RcppEigen",
