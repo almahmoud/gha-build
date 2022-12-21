@@ -112501,7 +112501,6 @@
         "lattice",
         "lifecycle",
         "magrittr",
-        "mefa",
         "memoise",
         "mgcv",
         "mime",
@@ -139242,7 +139241,6 @@
         "magick",
         "magrittr"
     ],
-    "mefa": [],
     "tractor.base": [
         "RNifti",
         "ore",
