@@ -85003,7 +85003,6 @@
         "desc",
         "doParallel",
         "dplyr",
-        "elitism",
         "ellipsis",
         "fansi",
         "foreach",
@@ -129369,7 +129368,6 @@
         "withr",
         "xfun"
     ],
-    "elitism": [],
     "doMC": [
         "foreach"
     ],
