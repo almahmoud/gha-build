@@ -4954,7 +4954,6 @@
         "lme4",
         "matrixStats",
         "mgcv",
-        "microbenchmark",
         "minqa",
         "munsell",
         "nlme",
@@ -18683,7 +18682,6 @@
         "lifecycle",
         "markdown",
         "matrixStats",
-        "microbenchmark",
         "openssl",
         "polylabelr",
         "rjson",
@@ -100099,7 +100097,6 @@
         "lifecycle",
         "lme4",
         "mgcv",
-        "microbenchmark",
         "minqa",
         "munsell",
         "nlme",
@@ -113266,7 +113263,6 @@
         "lifecycle",
         "lme4",
         "mgcv",
-        "microbenchmark",
         "minqa",
         "munsell",
         "nlme",
@@ -113291,7 +113287,6 @@
         "waldo",
         "yaml"
     ],
-    "microbenchmark": [],
     "xgboost": [
         "Matrix"
     ],
