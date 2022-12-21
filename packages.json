@@ -59766,7 +59766,6 @@
         "tibble",
         "tidyselect",
         "tinytex",
-        "uniqtag",
         "vctrs",
         "viridis",
         "viridisLite",
@@ -59843,7 +59842,6 @@
         "tibble",
         "tidyselect",
         "tinytex",
-        "uniqtag",
         "vctrs",
         "viridis",
         "viridisLite",
@@ -106079,7 +106077,6 @@
         "distr",
         "sfsmisc"
     ],
-    "uniqtag": [],
     "AICcmodavg": [
         "Matrix",
         "RcppArmadillo",
