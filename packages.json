@@ -46,7 +46,6 @@
         "shape",
         "survival",
         "sys",
-        "varSelRF",
         "vctrs"
     ],
     "a4Base": [
@@ -109,8 +108,7 @@
         "lattice",
         "pamr",
         "shape",
-        "survival",
-        "varSelRF"
+        "survival"
     ],
     "a4Core": [
         "Biobase",
@@ -108392,7 +108390,6 @@
         "lattice",
         "survival"
     ],
-    "varSelRF": [],
     "GO.db": [
         "AnnotationDbi",
         "Biobase",
