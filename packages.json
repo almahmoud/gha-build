@@ -12531,7 +12531,6 @@
         "openssl",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "outliers",
         "permute",
         "pillar",
         "pkgconfig",
@@ -26382,7 +26381,6 @@
         "mvtnorm",
         "nlme",
         "nnet",
-        "outliers",
         "pcaPP",
         "pillar",
         "pkgconfig",
@@ -37643,7 +37641,6 @@
         "munsell",
         "nlme",
         "openssl",
-        "outliers",
         "permute",
         "pillar",
         "pkgconfig",
@@ -118498,7 +118495,6 @@
         "munsell",
         "nlme",
         "nloptr",
-        "outliers",
         "pillar",
         "pkgconfig",
         "pkgload",
@@ -121086,7 +121082,6 @@
         "nlme",
         "nnTensor",
         "openssl",
-        "outliers",
         "patchwork",
         "pbapply",
         "pillar",
@@ -154615,7 +154610,6 @@
     "qualV": [
         "KernSmooth"
     ],
-    "outliers": [],
     "betareg": [
         "flexmix",
         "lattice",
