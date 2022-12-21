@@ -1325,7 +1325,6 @@
         "lattice",
         "multtest",
         "survival",
-        "truncnorm",
         "zCompositions"
     ],
     "alevinQC": [
@@ -7313,7 +7312,6 @@
         "tinytex",
         "tokenizers",
         "treeio",
-        "truncnorm",
         "uwot",
         "vctrs",
         "vegan",
@@ -11330,7 +11328,6 @@
         "stringr",
         "tibble",
         "tinytex",
-        "truncnorm",
         "vctrs",
         "viridisLite",
         "withr",
@@ -16962,7 +16959,6 @@
         "tibble",
         "tidyselect",
         "tinytex",
-        "truncnorm",
         "vctrs",
         "viridisLite",
         "withr",
@@ -25784,7 +25780,6 @@
         "shape",
         "tibble",
         "tidyselect",
-        "truncnorm",
         "vctrs",
         "withr"
     ],
@@ -27228,7 +27223,6 @@
         "tidytree",
         "tinytex",
         "treeio",
-        "truncnorm",
         "tweenr",
         "vctrs",
         "viridis",
@@ -29785,7 +29779,6 @@
         "tibble",
         "tidyselect",
         "tinytex",
-        "truncnorm",
         "vctrs",
         "viridisLite",
         "withr",
@@ -50729,7 +50722,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "truncnorm",
         "vctrs",
         "viridis",
         "viridisLite",
@@ -52190,7 +52182,6 @@
         "sys",
         "tibble",
         "tidyselect",
-        "truncnorm",
         "tzdb",
         "vctrs",
         "viridisLite",
@@ -60186,7 +60177,6 @@
         "stringr",
         "tibble",
         "tinytex",
-        "truncnorm",
         "vctrs",
         "viridisLite",
         "withr",
@@ -60261,7 +60251,6 @@
         "survival",
         "tibble",
         "tinytex",
-        "truncnorm",
         "vctrs",
         "viridisLite",
         "withr",
@@ -64735,7 +64724,6 @@
         "timechange",
         "tinytex",
         "treeio",
-        "truncnorm",
         "tzdb",
         "uwot",
         "vctrs",
@@ -65032,7 +65020,6 @@
         "tidyr",
         "tidyselect",
         "tinytex",
-        "truncnorm",
         "vctrs",
         "viridisLite",
         "webshot",
@@ -76262,7 +76249,6 @@
         "stringr",
         "survival",
         "tinytex",
-        "truncnorm",
         "vctrs",
         "vegan",
         "withr",
@@ -86207,7 +86193,6 @@
         "tibble",
         "tidyselect",
         "tinytex",
-        "truncnorm",
         "vctrs",
         "viridisLite",
         "withr",
@@ -90484,7 +90469,6 @@
         "survival",
         "sys",
         "tibble",
-        "truncnorm",
         "vctrs",
         "viridisLite",
         "vsn",
@@ -103768,7 +103752,6 @@
         "pkgconfig",
         "tibble",
         "tidyselect",
-        "truncnorm",
         "vctrs",
         "withr"
     ],
@@ -105513,7 +105496,6 @@
         "tidyselect",
         "tiff",
         "tinytex",
-        "truncnorm",
         "vctrs",
         "viridisLite",
         "withr",
@@ -106939,8 +106921,7 @@
     "SPEM": [
         "Biobase",
         "BiocGenerics",
-        "Rsolnp",
-        "truncnorm"
+        "Rsolnp"
     ],
     "SPIA": [
         "BiocGenerics",
@@ -108990,7 +108971,6 @@
         "tibble",
         "tidyselect",
         "tinytex",
-        "truncnorm",
         "vctrs",
         "viridis",
         "viridisLite",
@@ -114223,7 +114203,6 @@
         "tidyselect",
         "timeDate",
         "timechange",
-        "truncnorm",
         "tzdb",
         "vctrs",
         "viridis",
@@ -114248,7 +114227,6 @@
         "futile.options",
         "lambda.r",
         "lattice",
-        "truncnorm",
         "zoo"
     ],
     "TNBC.CMS": [
@@ -119686,7 +119664,6 @@
         "tidyr",
         "tidyselect",
         "tinytex",
-        "truncnorm",
         "vctrs",
         "viper",
         "viridisLite",
@@ -122972,8 +122949,7 @@
         "Matrix",
         "NADA",
         "lattice",
-        "survival",
-        "truncnorm"
+        "survival"
     ],
     "Rfast": [
         "RcppArmadillo",
@@ -122988,7 +122964,6 @@
         "lattice",
         "survival"
     ],
-    "truncnorm": [],
     "RcppGSL": [],
     "shinydashboard": [
         "bslib",
@@ -130558,8 +130533,7 @@
         "SQUAREM",
         "irlba",
         "lattice",
-        "mixsqp",
-        "truncnorm"
+        "mixsqp"
     ],
     "mixsqp": [
         "Matrix",
@@ -135254,13 +135228,10 @@
     "depmixS4": [
         "Rsolnp",
         "lattice",
-        "nlme",
-        "truncnorm"
+        "nlme"
     ],
     "flock": [],
-    "Rsolnp": [
-        "truncnorm"
-    ],
+    "Rsolnp": [],
     "golem": [
         "askpass",
         "attempt",
@@ -136949,7 +136920,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "truncnorm",
         "vctrs",
         "withr"
     ],
