@@ -42214,7 +42214,6 @@
     ],
     "powerTCR": [
         "doParallel",
-        "evmix",
         "mgcv",
         "purrr",
         "vegan"
@@ -50958,7 +50957,6 @@
         "XVector",
         "doParallel",
         "dplyr",
-        "evmix",
         "future",
         "future.apply",
         "ggalluvial",
@@ -69532,7 +69530,6 @@
         "stringr",
         "vctrs"
     ],
-    "evmix": [],
     "tidybayes": [
         "distributional",
         "dplyr",
