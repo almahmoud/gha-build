@@ -18134,7 +18134,6 @@
         "tidyselect"
     ],
     "HPiP": [
-        "MCL",
         "caret",
         "clock",
         "dplyr",
@@ -19383,7 +19382,6 @@
         "GenomicRanges",
         "HDO.db",
         "KEGGREST",
-        "MCL",
         "RSQLite",
         "RcppML",
         "ScaledMatrix",
@@ -23748,7 +23746,6 @@
     ],
     "mina": [
         "Hmisc",
-        "MCL",
         "RSpectra",
         "ggplot2",
         "htmlTable",
@@ -24056,7 +24053,6 @@
         "HDO.db",
         "Hmisc",
         "KEGGREST",
-        "MCL",
         "MatrixCorrelation",
         "MetBrewer",
         "NMF",
@@ -24184,7 +24180,6 @@
         "GenomeInfoDb",
         "HDO.db",
         "KEGGREST",
-        "MCL",
         "MetBrewer",
         "RSQLite",
         "ReactomePA",
@@ -33573,7 +33568,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "KEGGREST",
-        "MCL",
         "RSQLite",
         "Rsamtools",
         "STRINGdb",
@@ -47869,7 +47863,6 @@
     ],
     "R2jags": [],
     "servr": [],
-    "MCL": [],
     "available": [
         "dplyr",
         "pillar",
