@@ -7082,7 +7082,6 @@
         "httr",
         "igraph",
         "openssl",
-        "tm",
         "topGO",
         "topicmodels",
         "vctrs"
@@ -13179,7 +13178,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tm",
         "tokenizers",
         "ttgsea",
         "vctrs",
@@ -20190,7 +20188,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tm",
         "vctrs"
     ],
     "GENIE3": [
@@ -20756,7 +20753,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tm",
         "tokenizers",
         "ttgsea",
         "vctrs",
@@ -34030,7 +34026,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tm",
         "topicmodels",
         "uwot",
         "vctrs",
@@ -44850,7 +44845,6 @@
         "scales",
         "shiny",
         "tibble",
-        "tm",
         "treemap",
         "umap",
         "vctrs"
@@ -49007,7 +49001,6 @@
         "openssl",
         "org.Hs.eg.db",
         "proxyC",
-        "tm",
         "vctrs"
     ],
     "sincell": [
@@ -51673,7 +51666,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tm",
         "topicmodels",
         "tweenr",
         "vctrs",
@@ -55060,7 +55052,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tm",
         "tokenizers",
         "vctrs",
         "viridis",
@@ -55625,7 +55616,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tm",
         "tokenizers",
         "ttgsea",
         "uwot",
@@ -56213,7 +56203,6 @@
         "tidygraph",
         "tidyr",
         "tidyselect",
-        "tm",
         "tweenr",
         "vctrs",
         "viridis"
@@ -60269,10 +60258,7 @@
         "tibble",
         "vctrs"
     ],
-    "topicmodels": [
-        "tm"
-    ],
-    "tm": [],
+    "topicmodels": [],
     "ggpmisc": [
         "MatrixModels",
         "dplyr",
