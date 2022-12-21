@@ -27796,7 +27796,6 @@
         "RBGL",
         "RColorBrewer",
         "RFOC",
-        "RPMG",
         "RSEIS",
         "RcppArmadillo",
         "RcppEigen",
@@ -29605,7 +29604,6 @@
         "RBGL",
         "RColorBrewer",
         "RFOC",
-        "RPMG",
         "RSEIS",
         "RcppEigen",
         "Rgraphviz",
@@ -43033,7 +43031,6 @@
         "RBGL",
         "RColorBrewer",
         "RFOC",
-        "RPMG",
         "RSEIS",
         "RcppEigen",
         "Rgraphviz",
@@ -43159,7 +43156,6 @@
         "RBGL",
         "RColorBrewer",
         "RFOC",
-        "RPMG",
         "RSEIS",
         "RcppEigen",
         "Rgraphviz",
@@ -145396,7 +145392,6 @@
         "MBA",
         "Matrix",
         "RColorBrewer",
-        "RPMG",
         "RSEIS",
         "Rwave",
         "cli",
@@ -145435,12 +145430,10 @@
         "lattice"
     ],
     "linprog": [],
-    "RPMG": [],
     "GEOmap": [
         "MBA",
         "Matrix",
         "RColorBrewer",
-        "RPMG",
         "cli",
         "fansi",
         "fields",
@@ -145469,7 +145462,6 @@
         "withr"
     ],
     "RSEIS": [
-        "RPMG",
         "Rwave"
     ],
     "splancs": [
