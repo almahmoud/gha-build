@@ -6295,7 +6295,6 @@
         "nlme",
         "nloptr",
         "openssl",
-        "optimr",
         "osqp",
         "patchwork",
         "permute",
@@ -110276,7 +110275,6 @@
         "multtest",
         "munsell",
         "nlme",
-        "optimr",
         "permute",
         "phyloseq",
         "pillar",
@@ -110319,7 +110317,6 @@
         "vctrs",
         "withr"
     ],
-    "optimr": [],
     "detectseparation": [
         "ROI",
         "ROI.plugin.lpsolve",
