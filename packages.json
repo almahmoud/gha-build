@@ -20681,7 +20681,6 @@
         "MatrixModels",
         "RColorBrewer",
         "RCurl",
-        "RSNNS",
         "RSQLite",
         "RWeka",
         "RWekajars",
@@ -32187,7 +32186,6 @@
         "MatrixModels",
         "RColorBrewer",
         "RCurl",
-        "RSNNS",
         "RSQLite",
         "RWeka",
         "RWekajars",
@@ -103940,7 +103938,6 @@
         "waldo",
         "withr"
     ],
-    "RSNNS": [],
     "RWeka": [
         "RWekajars"
     ],
