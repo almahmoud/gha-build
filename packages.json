@@ -24591,7 +24591,6 @@
         "blob",
         "cleanUpdTSeq",
         "dbplyr",
-        "depmixS4",
         "dplyr",
         "future.apply",
         "ggplot2",
@@ -53834,7 +53833,6 @@
         "butcher",
         "clock",
         "dbplyr",
-        "depmixS4",
         "dplyr",
         "forcats",
         "future.apply",
@@ -62536,7 +62534,6 @@
     "phyclust": [
         "ape"
     ],
-    "depmixS4": [],
     "golem": [
         "bslib",
         "credentials",
