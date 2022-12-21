@@ -11897,7 +11897,6 @@
         "GenomicRanges",
         "IRanges",
         "Matrix",
-        "RApiSerialize",
         "RCurl",
         "RSpectra",
         "RcppEigen",
@@ -16921,7 +16920,6 @@
         "IRanges",
         "KEGGREST",
         "Matrix",
-        "RApiSerialize",
         "RCurl",
         "RSQLite",
         "Rhdf5lib",
@@ -88786,7 +88784,6 @@
         "withr"
     ],
     "qs": [
-        "RApiSerialize",
         "stringfish"
     ],
     "rlist": [],
@@ -88805,7 +88802,6 @@
         "vctrs",
         "withr"
     ],
-    "RApiSerialize": [],
     "stringfish": [],
     "fresh": [
         "bslib",
