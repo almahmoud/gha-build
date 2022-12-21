@@ -20345,7 +20345,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "pals",
         "pillar",
         "pkgconfig",
         "purrr",
@@ -117144,7 +117143,6 @@
     "relations": [
         "slam"
     ],
-    "pals": [],
     "Rmixmod": [
         "Matrix",
         "RcppEigen",
