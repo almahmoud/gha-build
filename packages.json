@@ -1785,7 +1785,6 @@
         "rhdf5",
         "rhdf5filters",
         "rmarkdown",
-        "rmutil",
         "sass",
         "scales",
         "shiny",
@@ -15847,7 +15846,6 @@
         "nlme",
         "phylolm",
         "pillar",
-        "rmutil",
         "scales",
         "sm",
         "stable",
@@ -48542,7 +48540,6 @@
         "quantreg",
         "rematch2",
         "reshape",
-        "rmutil",
         "scales",
         "stable",
         "statip",
@@ -91779,7 +91776,6 @@
         "munsell",
         "nlme",
         "pillar",
-        "rmutil",
         "scales",
         "stable",
         "statip",
@@ -91821,11 +91817,9 @@
         "vctrs"
     ],
     "rex": [],
-    "rmutil": [],
     "modeest": [
         "clue",
         "fBasics",
-        "rmutil",
         "stable",
         "statip",
         "timeSeries"
@@ -91839,9 +91833,7 @@
     "fBasics": [
         "timeSeries"
     ],
-    "stable": [
-        "rmutil"
-    ],
+    "stable": [],
     "statip": [
         "clue"
     ],
