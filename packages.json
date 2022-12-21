@@ -59652,7 +59652,6 @@
         "readxl",
         "stringi",
         "stringr",
-        "tcltk2",
         "tibble",
         "tidyselect",
         "tzdb",
@@ -64881,9 +64880,7 @@
         "matrixStats",
         "zlibbioc"
     ],
-    "MBCB": [
-        "tcltk2"
-    ],
+    "MBCB": [],
     "MBECS": [
         "AnnotationDbi",
         "Biobase",
@@ -148968,7 +148965,6 @@
         "startupmsg"
     ],
     "startupmsg": [],
-    "tcltk2": [],
     "pd.mapping50k.xba240": [
         "Biobase",
         "BiocGenerics",
