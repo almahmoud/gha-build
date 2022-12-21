@@ -70302,7 +70302,6 @@
         "Matrix",
         "PSCBS",
         "R.cache",
-        "R.devices",
         "R.filesets",
         "R.huge",
         "R.rsp",
@@ -99870,7 +99869,6 @@
         "Matrix",
         "PSCBS",
         "R.cache",
-        "R.devices",
         "R.filesets",
         "R.huge",
         "R.rsp",
@@ -121292,7 +121290,6 @@
     "aroma.affymetrix": [
         "PSCBS",
         "R.cache",
-        "R.devices",
         "R.filesets",
         "R.huge",
         "R.rsp",
@@ -121306,7 +121303,6 @@
     "aroma.core": [
         "PSCBS",
         "R.cache",
-        "R.devices",
         "R.filesets",
         "R.rsp",
         "RColorBrewer",
@@ -121314,7 +121310,6 @@
         "future",
         "listenv"
     ],
-    "R.devices": [],
     "R.filesets": [
         "R.cache"
     ],
