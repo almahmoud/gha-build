@@ -3485,7 +3485,6 @@
         "RColorBrewer",
         "RCurl",
         "RSQLite",
-        "Rlab",
         "S4Vectors",
         "XVector",
         "annotate",
@@ -88496,7 +88495,6 @@
         "RCurl",
         "RSQLite",
         "Rhdf5lib",
-        "Rlab",
         "S4Vectors",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -98649,7 +98647,6 @@
         "expm",
         "survival"
     ],
-    "Rlab": [],
     "msigdbr": [
         "babelgene",
         "dplyr",
