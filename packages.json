@@ -5243,7 +5243,6 @@
         "nlme",
         "nnet",
         "openssl",
-        "pbmcapply",
         "pillar",
         "pkgconfig",
         "plogr",
@@ -50083,7 +50082,6 @@
         "munsell",
         "nlme",
         "openssl",
-        "pbmcapply",
         "pillar",
         "pkgconfig",
         "plotly",
@@ -114044,8 +114042,7 @@
         "edgeR",
         "lattice",
         "limma",
-        "locfit",
-        "pbmcapply"
+        "locfit"
     ],
     "ROTS": [
         "Biobase",
@@ -122610,7 +122607,6 @@
         "munsell",
         "nlme",
         "pbapply",
-        "pbmcapply",
         "pillar",
         "pkgconfig",
         "plyr",
@@ -150925,7 +150921,6 @@
         "viridisLite",
         "withr"
     ],
-    "pbmcapply": [],
     "msm": [
         "Matrix",
         "expm",
