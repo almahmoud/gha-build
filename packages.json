@@ -24484,7 +24484,6 @@
     ],
     "cola": [
         "ComplexHeatmap",
-        "GenSA",
         "GetoptLong",
         "GlobalOptions",
         "IRanges",
@@ -120639,7 +120638,6 @@
         "BiocParallel",
         "Biostrings",
         "DelayedArray",
-        "GenSA",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -155328,13 +155326,11 @@
         "slam"
     ],
     "eulerr": [
-        "GenSA",
         "Rcpp",
         "RcppArmadillo",
         "polyclip",
         "polylabelr"
     ],
-    "GenSA": [],
     "polylabelr": [
         "Rcpp"
     ],
