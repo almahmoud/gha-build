@@ -12537,7 +12537,6 @@
         "lifecycle",
         "magrittr",
         "memoise",
-        "memuse",
         "mgcv",
         "mime",
         "munsell",
@@ -55128,7 +55127,6 @@
         "lifecycle",
         "magrittr",
         "memoise",
-        "memuse",
         "mgcv",
         "mime",
         "nlme",
@@ -123280,7 +123278,6 @@
         "lattice",
         "lifecycle",
         "magrittr",
-        "memuse",
         "mgcv",
         "nlme",
         "permute",
@@ -123296,7 +123293,6 @@
         "viridisLite",
         "withr"
     ],
-    "memuse": [],
     "pinfsc50": [],
     "biglm": [],
     "sqldf": [
