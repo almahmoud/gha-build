@@ -19839,7 +19839,6 @@
         "restfulr",
         "rtracklayer"
     ],
-    "hmdbQuery": [],
     "HPAanalyze": [
         "dplyr",
         "ggplot2",
