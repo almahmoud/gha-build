@@ -67034,7 +67034,6 @@
         "fansi",
         "fastcluster",
         "fastmap",
-        "findpython",
         "fitdistrplus",
         "fontawesome",
         "foreach",
@@ -74501,7 +74500,6 @@
         "ff",
         "fields",
         "filelock",
-        "findpython",
         "flock",
         "foreach",
         "formatR",
@@ -174325,10 +174323,8 @@
     "HiddenMarkov": [],
     "argparse": [
         "R6",
-        "findpython",
         "jsonlite"
     ],
-    "findpython": [],
     "depmixS4": [
         "MASS",
         "Rsolnp",
