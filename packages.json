@@ -38628,7 +38628,6 @@
         "vroom"
     ],
     "RBGL": [],
-    "RBM": [],
     "Rbowtie2": [
         "Biostrings",
         "GenomeInfoDb",
