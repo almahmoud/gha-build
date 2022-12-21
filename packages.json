@@ -23555,7 +23555,6 @@
         "DelayedArray",
         "GEOmap",
         "GGally",
-        "GoFKernel",
         "IDPmisc",
         "IRanges",
         "MBA",
@@ -123447,7 +123446,6 @@
     "pscl": [],
     "AhoCorasickTrie": [],
     "cytometree": [
-        "GoFKernel",
         "Matrix",
         "RColorBrewer",
         "RcppArmadillo",
@@ -123503,7 +123501,6 @@
         "vctrs",
         "withr"
     ],
-    "GoFKernel": [],
     "rgeos": [
         "lattice",
         "sp"
