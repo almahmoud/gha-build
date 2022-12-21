@@ -27281,7 +27281,6 @@
         "restfulr",
         "rhdf5",
         "rhdf5filters",
-        "rmio",
         "rtracklayer",
         "scales",
         "siggenes",
@@ -62977,7 +62976,6 @@
         "ggplot2",
         "mgcv",
         "pillar",
-        "rmio",
         "scales",
         "tibble",
         "vctrs"
@@ -62990,7 +62988,6 @@
         "XVector"
     ],
     "bigparallelr": [],
-    "rmio": [],
     "depmap": [
         "AnnotationDbi",
         "AnnotationHub",
