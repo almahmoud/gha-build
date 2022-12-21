@@ -9080,7 +9080,6 @@
         "vroom",
         "waldo",
         "withr",
-        "writexl",
         "xtable",
         "yaml",
         "yulab.utils",
@@ -59974,7 +59973,6 @@
         "viridisLite",
         "vroom",
         "withr",
-        "writexl",
         "xtable",
         "yaml",
         "zip"
@@ -141415,7 +141413,6 @@
         "vroom",
         "waldo",
         "withr",
-        "writexl",
         "xtable",
         "yaml"
     ],
@@ -141664,7 +141661,6 @@
     "psych": [
         "nlme"
     ],
-    "writexl": [],
     "shinyFiles": [
         "R6",
         "Rcpp",
@@ -150763,7 +150759,6 @@
         "vctrs",
         "vroom",
         "withr",
-        "writexl",
         "xtable",
         "yaml",
         "zip"
