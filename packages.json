@@ -14199,7 +14199,6 @@
         "DelayedArray",
         "GEOmap",
         "GGally",
-        "IDPmisc",
         "IRanges",
         "Matrix",
         "MatrixModels",
@@ -14592,7 +14591,6 @@
     "CytoML": [
         "Biobase",
         "DelayedArray",
-        "IDPmisc",
         "IRanges",
         "Matrix",
         "RBGL",
@@ -15136,7 +15134,6 @@
         "Biobase",
         "DelayedArray",
         "GEOmap",
-        "IDPmisc",
         "IRanges",
         "Matrix",
         "MatrixModels",
@@ -21936,7 +21933,6 @@
     ],
     "flowBin": [
         "Biobase",
-        "IDPmisc",
         "Matrix",
         "RcppEigen",
         "S4Vectors",
@@ -22034,7 +22030,6 @@
         "Biobase",
         "DelayedArray",
         "GEOmap",
-        "IDPmisc",
         "IRanges",
         "Matrix",
         "MatrixModels",
@@ -22098,7 +22093,6 @@
         "Biobase",
         "DelayedArray",
         "GEOmap",
-        "IDPmisc",
         "IRanges",
         "Matrix",
         "MatrixModels",
@@ -22152,7 +22146,6 @@
     ],
     "flowFP": [
         "Biobase",
-        "IDPmisc",
         "Matrix",
         "RcppEigen",
         "S4Vectors",
@@ -22350,7 +22343,6 @@
     "flowStats": [
         "Biobase",
         "DelayedArray",
-        "IDPmisc",
         "IRanges",
         "Matrix",
         "RBGL",
@@ -22398,7 +22390,6 @@
     ],
     "flowTrans": [
         "Biobase",
-        "IDPmisc",
         "Matrix",
         "RcppEigen",
         "S4Vectors",
@@ -22412,7 +22403,6 @@
     ],
     "flowViz": [
         "Biobase",
-        "IDPmisc",
         "Matrix",
         "RcppEigen",
         "S4Vectors",
@@ -22425,7 +22415,6 @@
     "flowVS": [
         "Biobase",
         "DelayedArray",
-        "IDPmisc",
         "IRanges",
         "Matrix",
         "RBGL",
@@ -23140,7 +23129,6 @@
     ],
     "GateFinder": [
         "Biobase",
-        "IDPmisc",
         "Matrix",
         "RcppEigen",
         "S4Vectors",
@@ -43502,7 +43490,6 @@
     "openCyto": [
         "Biobase",
         "DelayedArray",
-        "IDPmisc",
         "IRanges",
         "Matrix",
         "RBGL",
@@ -73793,7 +73780,6 @@
     "geometry": [
         "magic"
     ],
-    "IDPmisc": [],
     "GEOmap": [
         "Matrix",
         "fields",
