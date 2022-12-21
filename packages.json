@@ -28060,7 +28060,6 @@
         "vctrs",
         "waldo"
     ],
-    "limmaGUI": [],
     "LineagePulse": [
         "BiocParallel",
         "ComplexHeatmap",
