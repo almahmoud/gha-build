@@ -10402,7 +10402,6 @@
         "pkgconfig",
         "robustbase",
         "scales",
-        "sgeostat",
         "sys",
         "tibble",
         "topGO",
@@ -16614,7 +16613,6 @@
         "multtest",
         "rmarkdown",
         "sass",
-        "sgeostat",
         "stringi",
         "stringr",
         "survival",
@@ -29067,7 +29065,6 @@
         "latticeExtra",
         "mvoutlier",
         "robustbase",
-        "sgeostat",
         "sp",
         "splancs"
     ],
@@ -75821,7 +75818,6 @@
         "sass",
         "scales",
         "scuttle",
-        "sgeostat",
         "shiny",
         "shinyjs",
         "sitmo",
@@ -90986,10 +90982,8 @@
     ],
     "magick": [],
     "mvoutlier": [
-        "robustbase",
-        "sgeostat"
+        "robustbase"
     ],
-    "sgeostat": [],
     "FME": [
         "coda",
         "rootSolve"
@@ -98867,7 +98861,6 @@
         "pillar",
         "pkgconfig",
         "scales",
-        "sgeostat",
         "sp",
         "spatstat.data",
         "spatstat.geom",
