@@ -2732,7 +2732,6 @@
         "assertive.datetimes",
         "assertive.files",
         "assertive.matrices",
-        "assertive.models",
         "assertive.strings",
         "assertive.types",
         "blob",
@@ -36411,7 +36410,6 @@
         "assertive.datetimes",
         "assertive.files",
         "assertive.matrices",
-        "assertive.models",
         "assertive.strings",
         "assertive.types",
         "bamsignals",
@@ -64225,7 +64223,6 @@
         "assertive.datetimes",
         "assertive.files",
         "assertive.matrices",
-        "assertive.models",
         "assertive.strings",
         "assertive.types",
         "highr",
@@ -64243,7 +64240,6 @@
     ],
     "assertive.files": [],
     "assertive.matrices": [],
-    "assertive.models": [],
     "assertive.data": [
         "assertive.strings",
         "assertive.types"
