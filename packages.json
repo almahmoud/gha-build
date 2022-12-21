@@ -4562,7 +4562,6 @@
         "expm",
         "msm",
         "mvtnorm",
-        "rmeta",
         "survival"
     ],
     "ASSIGN": [
@@ -22917,7 +22916,6 @@
         "rhdf5",
         "rhdf5filters",
         "rlang",
-        "rmeta",
         "rpart",
         "rsvd",
         "snow",
@@ -43359,7 +43357,6 @@
         "purrr",
         "rappdirs",
         "rlang",
-        "rmeta",
         "rpart",
         "stringr",
         "survcomp",
@@ -63567,7 +63564,6 @@
         "rlang",
         "rmarkdown",
         "rmdformats",
-        "rmeta",
         "rpart",
         "rtracklayer",
         "sass",
@@ -82223,7 +82219,6 @@
         "reshape2",
         "rlang",
         "rmarkdown",
-        "rmeta",
         "rpart",
         "rstatix",
         "sass",
@@ -91692,7 +91687,6 @@
         "expm",
         "msm",
         "mvtnorm",
-        "rmeta",
         "survival"
     ],
     "rebook": [
@@ -106392,7 +106386,6 @@
         "rhdf5filters",
         "rjson",
         "rlang",
-        "rmeta",
         "rpart",
         "rstatix",
         "rsvd",
@@ -113515,7 +113508,6 @@
         "numDeriv",
         "prodlim",
         "progressr",
-        "rmeta",
         "rpart",
         "survival",
         "survivalROC"
@@ -128558,7 +128550,6 @@
         "mvtnorm",
         "survival"
     ],
-    "rmeta": [],
     "plot3D": [],
     "msigdbr": [
         "R6",
