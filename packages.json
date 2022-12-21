@@ -18824,7 +18824,6 @@
         "openssl",
         "vctrs"
     ],
-    "gaggle": [],
     "GAprediction": [
         "RcppEigen",
         "glmnet",
