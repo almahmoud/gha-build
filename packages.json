@@ -22809,7 +22809,6 @@
         "MatrixModels",
         "RBGL",
         "RFOC",
-        "RPMG",
         "RSEIS",
         "Rcpp",
         "RcppArmadillo",
@@ -24286,7 +24285,6 @@
         "R.utils",
         "RBGL",
         "RFOC",
-        "RPMG",
         "RSEIS",
         "Rcpp",
         "RcppEigen",
@@ -35263,7 +35261,6 @@
         "MatrixModels",
         "RBGL",
         "RFOC",
-        "RPMG",
         "RSEIS",
         "Rcpp",
         "RcppEigen",
@@ -35363,7 +35360,6 @@
         "MatrixModels",
         "RBGL",
         "RFOC",
-        "RPMG",
         "RSEIS",
         "Rcpp",
         "RcppEigen",
@@ -118470,7 +118466,6 @@
         "GEOmap",
         "MBA",
         "Matrix",
-        "RPMG",
         "RSEIS",
         "fields",
         "ggplot2",
@@ -118499,11 +118494,9 @@
     ],
     "IDPmisc": [],
     "linprog": [],
-    "RPMG": [],
     "GEOmap": [
         "MBA",
         "Matrix",
-        "RPMG",
         "fields",
         "ggplot2",
         "gridExtra",
@@ -118524,9 +118517,7 @@
         "viridis",
         "viridisLite"
     ],
-    "RSEIS": [
-        "RPMG"
-    ],
+    "RSEIS": [],
     "splancs": [
         "sp"
     ],
