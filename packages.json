@@ -50763,7 +50763,6 @@
         "readr",
         "recipes",
         "reshape2",
-        "ridge",
         "rlist",
         "scales",
         "stringr",
@@ -103433,7 +103432,6 @@
     "bayestestR": [
         "datawizard"
     ],
-    "ridge": [],
     "echarts4r": [
         "broom",
         "bslib",
