@@ -38672,7 +38672,6 @@
         "RSQLite",
         "S4Vectors",
         "VarfromPDB",
-        "XML2R",
         "XVector",
         "blob",
         "broom",
@@ -71810,14 +71809,12 @@
     ],
     "VarfromPDB": [
         "RISmed",
-        "XML2R",
         "httr",
         "lifecycle",
         "openssl",
         "stringr",
         "vctrs"
     ],
-    "XML2R": [],
     "huge": [
         "RcppEigen",
         "igraph"
