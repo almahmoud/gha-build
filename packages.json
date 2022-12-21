@@ -8526,7 +8526,6 @@
         "BiocSingular",
         "Biostrings",
         "CVXR",
-        "CompQuadForm",
         "DBI",
         "DECIPHER",
         "DESeq2",
@@ -32608,7 +32607,6 @@
         "zlibbioc"
     ],
     "dearseq": [
-        "CompQuadForm",
         "DBI",
         "KernSmooth",
         "MASS",
@@ -55812,7 +55810,6 @@
         "Biobase",
         "BiocGenerics",
         "Biostrings",
-        "CompQuadForm",
         "DBI",
         "GO.db",
         "GenomeInfoDb",
@@ -56033,7 +56030,6 @@
         "BiocGenerics",
         "BiocParallel",
         "Biostrings",
-        "CompQuadForm",
         "DBI",
         "DOSE",
         "GO.db",
@@ -89543,7 +89539,6 @@
     "nethet": [
         "Biobase",
         "BiocGenerics",
-        "CompQuadForm",
         "DBI",
         "GSA",
         "GeneNet",
@@ -95416,7 +95411,6 @@
         "Biobase",
         "BiocGenerics",
         "Biostrings",
-        "CompQuadForm",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomeInfoDbData",
@@ -114904,7 +114898,6 @@
         "Biobase",
         "BiocBaseUtils",
         "BiocGenerics",
-        "CompQuadForm",
         "DEoptimR",
         "DelayedArray",
         "GenomeInfoDb",
@@ -153280,7 +153273,6 @@
         "slam",
         "withr"
     ],
-    "CompQuadForm": [],
     "survey": [
         "DBI",
         "Matrix",
