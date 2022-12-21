@@ -22550,7 +22550,6 @@
         "stringr",
         "tibble"
     ],
-    "MethPed": [],
     "MethReg": [
         "AnnotationDbi",
         "AnnotationHub",
