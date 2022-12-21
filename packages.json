@@ -18307,7 +18307,6 @@
         "promises",
         "purrr",
         "ragg",
-        "randtests",
         "rmarkdown",
         "sass",
         "scales",
@@ -103629,7 +103628,6 @@
         "Biobase",
         "BiocGenerics"
     ],
-    "randtests": [],
     "crisprScoreData": [
         "AnnotationDbi",
         "AnnotationHub",
