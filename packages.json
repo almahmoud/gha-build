@@ -22813,7 +22813,6 @@
     ],
     "GSgalgoR": [
         "doParallel",
-        "nsga2R",
         "survival"
     ],
     "GSReg": [
@@ -63532,7 +63531,6 @@
         "vctrs"
     ],
     "yeastExpData": [],
-    "nsga2R": [],
     "BatchJobs": [
         "BBmisc",
         "RSQLite",
