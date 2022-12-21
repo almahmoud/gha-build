@@ -18849,7 +18849,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "KEGGandMetacoreDzPathwaysGEO",
         "KEGGdzPathwaysGEO",
         "KEGGgraph",
         "RSQLite",
@@ -52454,7 +52453,6 @@
     "fGarch": [
         "fBasics"
     ],
-    "KEGGandMetacoreDzPathwaysGEO": [],
     "ggwordcloud": [
         "ggplot2",
         "pillar",
