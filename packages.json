@@ -38575,7 +38575,6 @@
         "rmarkdown",
         "robust",
         "robustbase",
-        "roptim",
         "rprojroot",
         "rrcov",
         "sass",
@@ -117724,7 +117723,6 @@
         "robustbase",
         "rrcov"
     ],
-    "roptim": [],
     "fit.models": [
         "lattice"
     ],
