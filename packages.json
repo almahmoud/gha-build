@@ -1202,7 +1202,6 @@
         "MatrixGenerics",
         "NADA",
         "RCurl",
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "S4Vectors",
@@ -1503,7 +1502,6 @@
         "RColorBrewer",
         "RSpectra",
         "RcppEigen",
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "SparseM",
@@ -6438,7 +6436,6 @@
         "RSQLite",
         "Rcgmin",
         "RcppEigen",
-        "RcppGSL",
         "RcppHNSW",
         "RcppML",
         "RcppZiggurat",
@@ -19649,7 +19646,6 @@
         "RColorBrewer",
         "RCurl",
         "RcppEigen",
-        "RcppGSL",
         "RcppHNSW",
         "RcppML",
         "RcppZiggurat",
@@ -20861,7 +20857,6 @@
         "IRanges",
         "Matrix",
         "RColorBrewer",
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "S4Vectors",
@@ -27615,7 +27610,6 @@
         "RColorBrewer",
         "RCurl",
         "RcppEigen",
-        "RcppGSL",
         "RcppHNSW",
         "RcppML",
         "RcppZiggurat",
@@ -50070,7 +50064,6 @@
         "RColorBrewer",
         "RCurl",
         "RSQLite",
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "S4Vectors",
@@ -57290,7 +57283,6 @@
         "Matrix",
         "MatrixGenerics",
         "RCurl",
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "S4Vectors",
@@ -58327,7 +58319,6 @@
         "RCurl",
         "RSQLite",
         "RcppEigen",
-        "RcppGSL",
         "RcppHNSW",
         "RcppML",
         "RcppZiggurat",
@@ -68251,7 +68242,6 @@
         "RSQLite",
         "RUVSeq",
         "RcppEigen",
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "Rhdf5lib",
@@ -68870,7 +68860,6 @@
         "MatrixGenerics",
         "NADA",
         "RCurl",
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "S4Vectors",
@@ -70310,7 +70299,6 @@
         "DEoptimR",
         "Matrix",
         "RcppEigen",
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "Rhdf5lib",
@@ -73279,7 +73267,6 @@
         "MatrixModels",
         "RColorBrewer",
         "RcppEigen",
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "SmoothWin",
@@ -77098,7 +77085,6 @@
         "RCurl",
         "RSQLite",
         "RcppEigen",
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "Rhtslib",
@@ -107388,7 +107374,6 @@
         "withr"
     ],
     "VERSO": [
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "ape",
@@ -109403,7 +109388,6 @@
         "RCurl",
         "RSQLite",
         "RcppEigen",
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "Rgraphviz",
@@ -111135,18 +111119,14 @@
         "survival"
     ],
     "Rfast": [
-        "RcppGSL",
         "RcppZiggurat"
     ],
-    "RcppZiggurat": [
-        "RcppGSL"
-    ],
+    "RcppZiggurat": [],
     "NADA": [
         "Matrix",
         "lattice",
         "survival"
     ],
-    "RcppGSL": [],
     "shinydashboard": [
         "bslib",
         "cli",
@@ -111207,7 +111187,6 @@
     "speaq": [
         "Matrix",
         "RColorBrewer",
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "askpass",
@@ -125162,7 +125141,6 @@
         "memoise"
     ],
     "SmoothWin": [
-        "RcppGSL",
         "RcppZiggurat",
         "Rfast",
         "lattice",
