@@ -5157,7 +5157,6 @@
         "drtmle",
         "future",
         "future.apply",
-        "gam",
         "ggdendro",
         "ggplot2",
         "ggsci",
@@ -64778,22 +64777,19 @@
         "cvAUC",
         "future",
         "future.apply",
-        "gam",
         "np",
         "quantreg",
         "survival"
     ],
     "SuperLearner": [
         "ROCR",
-        "cvAUC",
-        "gam"
+        "cvAUC"
     ],
     "np": [
         "MatrixModels",
         "quantreg",
         "survival"
     ],
-    "gam": [],
     "cvAUC": [
         "ROCR"
     ],
