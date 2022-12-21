@@ -2543,7 +2543,6 @@
         "MAST",
         "MultiAssayExperiment",
         "NADA",
-        "NOISeq",
         "ROI.plugin.lpsolve",
         "RSQLite",
         "RcppML",
@@ -7195,7 +7194,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "GenomicRanges",
-        "NOISeq",
         "Rsamtools",
         "XVector",
         "exomeCopy",
@@ -22221,9 +22219,7 @@
         "tibble",
         "viridis"
     ],
-    "metaSeq": [
-        "NOISeq"
-    ],
+    "metaSeq": [],
     "metaseqR2": [
         "AnnotationDbi",
         "BSgenome",
@@ -27050,7 +27046,6 @@
         "tibble",
         "tidyselect"
     ],
-    "NOISeq": [],
     "nondetects": [
         "HTqPCR",
         "affy",
