@@ -19906,7 +19906,6 @@
         "knitr",
         "latticeExtra",
         "lifecycle",
-        "linprog",
         "lme4",
         "magic",
         "magrittr",
@@ -21296,7 +21295,6 @@
         "hms",
         "isoband",
         "lifecycle",
-        "linprog",
         "magic",
         "magrittr",
         "mgcv",
@@ -59984,7 +59982,6 @@
         "labelled",
         "later",
         "lifecycle",
-        "linprog",
         "magic",
         "magrittr",
         "mgcv",
@@ -103676,7 +103673,6 @@
         "gtable",
         "isoband",
         "lifecycle",
-        "linprog",
         "magic",
         "magrittr",
         "mgcv",
@@ -103723,11 +103719,9 @@
     ],
     "geometry": [
         "abind",
-        "linprog",
         "magic"
     ],
     "IDPmisc": [],
-    "linprog": [],
     "GEOmap": [
         "Matrix",
         "RColorBrewer",
@@ -108239,7 +108233,6 @@
     "pdfCluster": [
         "abind",
         "geometry",
-        "linprog",
         "magic"
     ],
     "diceR": [
