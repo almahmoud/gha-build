@@ -354,7 +354,6 @@
         "vctrs",
         "viridisLite",
         "vsn",
-        "waveslim",
         "withr",
         "zoo"
     ],
@@ -21963,7 +21962,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "waveslim",
         "wavethresh",
         "withr",
         "xfun",
@@ -121793,7 +121791,6 @@
     "R.oo": [],
     "listenv": [],
     "ff": [],
-    "waveslim": [],
     "aws": [
         "awsMethods",
         "gsl"
