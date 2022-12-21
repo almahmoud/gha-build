@@ -7459,7 +7459,6 @@
         "survival",
         "sys",
         "tibble",
-        "tiff",
         "tinytex",
         "topGO",
         "vctrs",
@@ -8601,7 +8600,6 @@
         "survival",
         "sva",
         "sys",
-        "tiff",
         "tinytex",
         "vctrs",
         "xfun"
@@ -10372,7 +10370,6 @@
         "sp",
         "stringi",
         "stringr",
-        "tiff",
         "tinytex",
         "vctrs",
         "xfun"
@@ -11622,7 +11619,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tiff",
         "tinytex",
         "vctrs",
         "vioplot",
@@ -17268,7 +17264,6 @@
         "survival",
         "terra",
         "tibble",
-        "tiff",
         "tinytex",
         "vctrs",
         "viridis",
@@ -18423,7 +18418,6 @@
         "stringi",
         "stringr",
         "survival",
-        "tiff",
         "tinytex",
         "vctrs",
         "xfun"
@@ -20351,7 +20345,6 @@
         "terra",
         "tibble",
         "tidyselect",
-        "tiff",
         "tinytex",
         "vctrs",
         "viridis",
@@ -25580,7 +25573,6 @@
         "sass",
         "stringi",
         "stringr",
-        "tiff",
         "tinytex",
         "vctrs",
         "xfun"
@@ -30215,7 +30207,6 @@
         "sass",
         "stringi",
         "stringr",
-        "tiff",
         "tinytex",
         "vctrs",
         "xfun"
@@ -30594,7 +30585,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tiff",
         "tinytex",
         "vctrs",
         "withr",
@@ -30638,7 +30628,6 @@
         "stringi",
         "stringr",
         "tibble",
-        "tiff",
         "tinytex",
         "vctrs",
         "vegan",
@@ -38229,7 +38218,6 @@
         "sass",
         "stringi",
         "stringr",
-        "tiff",
         "tinytex",
         "vctrs",
         "xfun"
@@ -40401,7 +40389,6 @@
         "survival",
         "sys",
         "tibble",
-        "tiff",
         "tinytex",
         "vctrs",
         "vsn",
@@ -40598,7 +40585,6 @@
         "tidygraph",
         "tidyr",
         "tidyselect",
-        "tiff",
         "tinytex",
         "tweenr",
         "tzdb",
@@ -66277,7 +66263,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tiff",
         "tinytex",
         "treeio",
         "tweenr",
@@ -71657,7 +71642,6 @@
         "sys",
         "tibble",
         "tidyselect",
-        "tiff",
         "tinytex",
         "vctrs",
         "withr",
@@ -81689,7 +81673,6 @@
         "terra",
         "tibble",
         "tidyselect",
-        "tiff",
         "tinytex",
         "vctrs",
         "viridis",
@@ -82988,7 +82971,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tiff",
         "tinytex",
         "vctrs",
         "withr",
@@ -84230,7 +84212,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tiff",
         "timechange",
         "tinytex",
         "tzdb",
@@ -85040,7 +85021,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tiff",
         "tinytex",
         "uwot",
         "vctrs",
@@ -87218,7 +87198,6 @@
         "sass",
         "stringi",
         "stringr",
-        "tiff",
         "tinytex",
         "vctrs",
         "xfun"
@@ -94942,7 +94921,6 @@
         "sass",
         "stringi",
         "stringr",
-        "tiff",
         "tinytex",
         "vctrs",
         "xfun"
@@ -100103,15 +100081,12 @@
         "readbitmap",
         "stringi",
         "stringr",
-        "tiff",
         "vctrs"
     ],
     "xlsx": [
         "xlsxjars"
     ],
-    "readbitmap": [
-        "tiff"
-    ],
+    "readbitmap": [],
     "polspline": [],
     "multcomp": [
         "Matrix",
@@ -100125,7 +100100,6 @@
         "Matrix",
         "survival"
     ],
-    "tiff": [],
     "latex2exp": [
         "lifecycle",
         "magrittr",
@@ -110281,7 +110255,6 @@
         "stringr",
         "terra",
         "tibble",
-        "tiff",
         "timechange",
         "tinytex",
         "vctrs",
