@@ -80506,7 +80506,6 @@
         "GenomeInfoDbData",
         "IRanges",
         "KEGGREST",
-        "Kendall",
         "Matrix",
         "MatrixModels",
         "R.cache",
@@ -131503,7 +131502,6 @@
     "ParallelLogger": [
         "jsonlite"
     ],
-    "Kendall": [],
     "pairsD3": [
         "bslib",
         "cachem",
