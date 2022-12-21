@@ -73669,7 +73669,6 @@
         "ModelMetrics",
         "MuMIn",
         "NMF",
-        "PMA",
         "RBGL",
         "RColorBrewer",
         "RCurl",
@@ -85022,7 +85021,6 @@
         "MatrixGenerics",
         "MatrixModels",
         "MultiDataSet",
-        "PMA",
         "RColorBrewer",
         "RCurl",
         "RSQLite",
@@ -152888,7 +152886,6 @@
         "viridisLite",
         "withr"
     ],
-    "PMA": [],
     "subspace": [
         "bslib",
         "cachem",
