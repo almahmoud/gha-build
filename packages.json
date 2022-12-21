@@ -79252,7 +79252,6 @@
         "xfun",
         "yaml"
     ],
-    "OSAT": [],
     "Oscope": [
         "BiocParallel",
         "EBSeq",
