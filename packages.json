@@ -44131,7 +44131,6 @@
         "lme4",
         "mgcv",
         "nloptr",
-        "nls2",
         "pbkrtest",
         "pillar",
         "pkgload",
@@ -50591,7 +50590,6 @@
         "mgcv",
         "mixtools",
         "mltools",
-        "nls2",
         "openssl",
         "pillar",
         "plotly",
@@ -55051,7 +55049,6 @@
         "ggplot2",
         "knitr",
         "mgcv",
-        "nls2",
         "pillar",
         "reshape2",
         "rmarkdown",
@@ -65502,7 +65499,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "nls2": [],
     "valr": [
         "BiocIO",
         "BiocParallel",
