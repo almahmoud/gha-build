@@ -17893,7 +17893,6 @@
         "Biobase",
         "BiocGenerics",
         "Biostrings",
-        "CCP",
         "DBI",
         "GSEABase",
         "GenomeInfoDb",
@@ -164584,7 +164583,6 @@
     ],
     "Rmpi": [],
     "ccdata": [],
-    "CCP": [],
     "enrichR": [
         "MASS",
         "Matrix",
