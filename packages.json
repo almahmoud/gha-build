@@ -51887,7 +51887,6 @@
         "sys",
         "vctrs"
     ],
-    "miRBaseConverter": [],
     "miRcomp": [
         "Biobase",
         "BiocGenerics"
@@ -52272,7 +52271,6 @@
         "markdown",
         "metR",
         "mgcv",
-        "miRBaseConverter",
         "miRspongeR",
         "modelr",
         "multtest",
@@ -52464,7 +52462,6 @@
         "lubridate",
         "magrittr",
         "mgcv",
-        "miRBaseConverter",
         "modelr",
         "munsell",
         "nlme",
@@ -85093,7 +85090,6 @@
         "lubridate",
         "magrittr",
         "mgcv",
-        "miRBaseConverter",
         "modelr",
         "munsell",
         "nlme",
