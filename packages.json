@@ -26733,7 +26733,6 @@
         "plsVarSel",
         "plyr",
         "praise",
-        "praznik",
         "prettyunits",
         "processx",
         "prodlim",
@@ -41549,7 +41548,6 @@
         "plsVarSel",
         "plyr",
         "praise",
-        "praznik",
         "prettyunits",
         "processx",
         "prodlim",
@@ -56127,7 +56125,6 @@
         "pkgconfig",
         "plogr",
         "plyr",
-        "praznik",
         "prodlim",
         "progressr",
         "proxy",
@@ -134137,7 +134134,6 @@
         "memoise",
         "mime",
         "pkgconfig",
-        "praznik",
         "prettyunits",
         "progress",
         "rappdirs",
@@ -134235,7 +134231,6 @@
         "xfun",
         "yaml"
     ],
-    "praznik": [],
     "RWekajars": [
         "rJava"
     ],
