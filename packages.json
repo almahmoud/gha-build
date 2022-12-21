@@ -8161,7 +8161,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "biganalytics",
         "blob",
         "dplyr",
         "frma",
@@ -30837,7 +30836,6 @@
         "RSpectra",
         "RcppEigen",
         "apcluster",
-        "biganalytics",
         "bslib",
         "expm",
         "ggplot2",
@@ -60816,7 +60814,6 @@
         "irlba"
     ],
     "ChIPXpressData": [],
-    "biganalytics": [],
     "shinyhelper": [
         "bslib",
         "httpuv",
