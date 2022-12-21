@@ -38127,9 +38127,7 @@
         "stringr",
         "vctrs"
     ],
-    "RUVnormalize": [
-        "RUVnormalizeData"
-    ],
+    "RUVnormalize": [],
     "RUVSeq": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -54149,7 +54147,6 @@
         "tibble",
         "vctrs"
     ],
-    "RUVnormalizeData": [],
     "GENLIB": [
         "kinship2",
         "knitr",
