@@ -30043,7 +30043,6 @@
         "igraph",
         "intergraph",
         "lambda.r",
-        "lars",
         "lifecycle",
         "memoise",
         "mgcv",
@@ -45180,7 +45179,6 @@
         "gplots",
         "highr",
         "knitr",
-        "lars",
         "lifecycle",
         "lme4",
         "lmerTest",
@@ -45291,7 +45289,6 @@
         "jquerylib",
         "knitr",
         "lambda.r",
-        "lars",
         "latticeExtra",
         "lifecycle",
         "lme4",
@@ -53340,7 +53337,6 @@
         "igraph",
         "kernlab",
         "knitr",
-        "lars",
         "lifecycle",
         "lme4",
         "lmerTest",
@@ -62799,7 +62795,6 @@
     ],
     "pathwayPCA": [
         "Matrix",
-        "lars",
         "survival"
     ],
     "paxtoolsr": [
@@ -78856,7 +78851,6 @@
         "globals",
         "kernlab",
         "lambda.r",
-        "lars",
         "lifecycle",
         "origami",
         "pillar",
@@ -91604,7 +91598,6 @@
         "jquerylib",
         "knitr",
         "lambda.r",
-        "lars",
         "lassopv",
         "latticeExtra",
         "lifecycle",
@@ -105084,7 +105077,6 @@
         "vctrs",
         "viridisLite"
     ],
-    "lars": [],
     "SPARQL": [],
     "ggiraph": [
         "Matrix",
@@ -106511,7 +106503,6 @@
     "chemometrics": [
         "class",
         "e1071",
-        "lars",
         "nnet",
         "pcaPP",
         "proxy",
@@ -109919,9 +109910,7 @@
         "processx"
     ],
     "coro": [],
-    "elasticnet": [
-        "lars"
-    ],
+    "elasticnet": [],
     "sparsepca": [
         "Matrix",
         "rsvd"
@@ -111232,9 +111221,7 @@
     "reportr": [],
     "RNifti": [],
     "vbsr": [],
-    "lassopv": [
-        "lars"
-    ],
+    "lassopv": [],
     "RPostgreSQL": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
