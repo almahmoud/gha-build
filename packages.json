@@ -63177,7 +63177,6 @@
         "XVector",
         "beachmat",
         "futile.logger",
-        "glmpca",
         "irlba",
         "rhdf5",
         "rhdf5filters",
@@ -70309,7 +70308,6 @@
         "ggplotify",
         "ggrepel",
         "ggtree",
-        "glmpca",
         "highr",
         "hms",
         "htmlwidgets",
@@ -86993,7 +86991,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "glmpca": [],
     "nnTensor": [
         "Matrix",
         "fields",
