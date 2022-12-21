@@ -3456,7 +3456,6 @@
         "stringr",
         "tibble",
         "topGO",
-        "vioplot",
         "viridis",
         "xlsx"
     ],
@@ -5403,7 +5402,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vioplot",
         "viridis",
         "waldo"
     ],
@@ -7815,8 +7813,7 @@
         "pillar",
         "scales",
         "stringr",
-        "tibble",
-        "vioplot"
+        "tibble"
     ],
     "compEpiTools": [
         "AnnotationDbi",
@@ -17004,8 +17001,7 @@
         "RSQLite",
         "XVector",
         "blob",
-        "httr",
-        "vioplot"
+        "httr"
     ],
     "GOpro": [
         "AnnotationDbi",
@@ -25156,7 +25152,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "vioplot",
         "vroom"
     ],
     "monocle": [
@@ -31221,7 +31216,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vioplot",
         "vsn",
         "webshot",
         "xts"
@@ -46390,7 +46384,6 @@
         "scales",
         "tibble"
     ],
-    "vioplot": [],
     "imager": [
         "stringr"
     ],
