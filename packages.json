@@ -177,7 +177,6 @@
         "aCGH",
         "affy",
         "annotate",
-        "aws",
         "blob",
         "genefilter",
         "ggplot2",
@@ -25958,9 +25957,7 @@
         "viridis",
         "zoo"
     ],
-    "GLAD": [
-        "aws"
-    ],
+    "GLAD": [],
     "GladiaTOX": [
         "Matrix",
         "RSQLite",
@@ -31211,7 +31208,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "aws",
         "blob",
         "lifecycle",
         "oligo",
@@ -33388,8 +33384,7 @@
         "affy"
     ],
     "MANOR": [
-        "GLAD",
-        "aws"
+        "GLAD"
     ],
     "mAPKL": [
         "AnnotationDbi",
@@ -58239,7 +58234,6 @@
         "ade4",
         "adehabitatLT",
         "adehabitatMA",
-        "aws",
         "doSNOW",
         "sp"
     ],
@@ -60305,7 +60299,6 @@
         "aCGH",
         "affy",
         "annotate",
-        "aws",
         "blob",
         "genefilter",
         "ggplot2",
@@ -69715,7 +69708,6 @@
         "future"
     ],
     "future": [],
-    "aws": [],
     "strucchange": [
         "sandwich",
         "zoo"
