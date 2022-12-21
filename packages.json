@@ -2795,7 +2795,6 @@
         "zlibbioc"
     ],
     "AneuFinder": [
-        "AneuFinderData",
         "BH",
         "Biobase",
         "BiocGenerics",
@@ -157655,7 +157654,6 @@
         "yulab.utils"
     ],
     "yulab.utils": [],
-    "AneuFinderData": [],
     "ecp": [
         "Rcpp"
     ],
