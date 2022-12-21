@@ -78711,7 +78711,6 @@
         "viridisLite"
     ],
     "scBFA": [
-        "ADGofTest",
         "AnnotationDbi",
         "Biobase",
         "BiocParallel",
@@ -112332,12 +112331,10 @@
         "yaml"
     ],
     "copula": [
-        "ADGofTest",
         "Matrix",
         "numDeriv",
         "pcaPP"
     ],
-    "ADGofTest": [],
     "proxyC": [
         "Matrix",
         "RcppArmadillo"
