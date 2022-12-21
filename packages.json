@@ -30370,7 +30370,6 @@
         "TH.data",
         "XVector",
         "ape",
-        "argparse",
         "bslib",
         "coda",
         "coin",
@@ -33724,7 +33723,6 @@
         "UpSetR",
         "XVector",
         "annotate",
-        "argparse",
         "base64",
         "bigparallelr",
         "bigstatsr",
@@ -78143,7 +78141,6 @@
         "ape",
         "nlme"
     ],
-    "argparse": [],
     "depmixS4": [
         "nlme"
     ],
