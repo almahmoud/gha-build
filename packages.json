@@ -48490,8 +48490,7 @@
         "zlibbioc"
     ],
     "lmdme": [
-        "limma",
-        "stemHypoxia"
+        "limma"
     ],
     "LOBSTAHS": [
         "Biobase",
@@ -115830,7 +115829,6 @@
         "mgcv",
         "nlme"
     ],
-    "stemHypoxia": [],
     "LogicReg": [
         "Matrix",
         "survival"
