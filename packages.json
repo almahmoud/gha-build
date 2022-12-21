@@ -14027,7 +14027,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "cba",
         "cli",
         "dendextend",
         "dtw",
@@ -28119,9 +28118,7 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "DiffLogo": [
-        "cba"
-    ],
+    "DiffLogo": [],
     "diffuStats": [
         "Matrix",
         "RColorBrewer",
@@ -120943,7 +120940,6 @@
         "abind"
     ],
     "kSamples": [],
-    "cba": [],
     "dtw": [],
     "EnvStats": [
         "Matrix",
