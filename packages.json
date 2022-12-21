@@ -4400,7 +4400,6 @@
         "pkgconfig",
         "plogr",
         "poweRlaw",
-        "preseqR",
         "progress",
         "promises",
         "purrr",
@@ -66415,7 +66414,6 @@
         "pkgconfig",
         "plogr",
         "poweRlaw",
-        "preseqR",
         "progress",
         "promises",
         "purrr",
@@ -91520,7 +91518,6 @@
         "lattice",
         "nlme",
         "penalized",
-        "preseqR",
         "rsvd",
         "shape",
         "survival"
@@ -114997,7 +114994,6 @@
         "sys",
         "uuid"
     ],
-    "preseqR": [],
     "reactome.db": [
         "AnnotationDbi",
         "Biobase",
