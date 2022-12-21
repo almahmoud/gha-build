@@ -14838,7 +14838,6 @@
         "globals",
         "hardhat",
         "hms",
-        "intervals",
         "ipred",
         "iterators",
         "labeling",
@@ -29678,7 +29677,6 @@
         "hms",
         "httr",
         "interp",
-        "intervals",
         "jpeg",
         "lambda.r",
         "latticeExtra",
@@ -39031,7 +39029,6 @@
         "RCurl",
         "S4Vectors",
         "XVector",
-        "intervals",
         "zlibbioc"
     ],
     "genomes": [
@@ -41132,7 +41129,6 @@
         "futile.logger",
         "genomeIntervals",
         "interp",
-        "intervals",
         "jpeg",
         "lambda.r",
         "latticeExtra",
@@ -63201,7 +63197,6 @@
         "htmlwidgets",
         "httr",
         "interp",
-        "intervals",
         "jpeg",
         "jquerylib",
         "knitr",
@@ -101109,7 +101104,6 @@
         "htmlwidgets",
         "httr",
         "ids",
-        "intervals",
         "jquerylib",
         "knitr",
         "labeling",
@@ -118111,7 +118105,6 @@
         "ggplot2",
         "globals",
         "hardhat",
-        "intervals",
         "ipred",
         "iterators",
         "labeling",
@@ -118147,7 +118140,6 @@
         "viridisLite",
         "zlibbioc"
     ],
-    "intervals": [],
     "RcppRoll": [
         "Rcpp"
     ],
@@ -128476,7 +128468,6 @@
         "class",
         "classInt",
         "e1071",
-        "intervals",
         "lwgeom",
         "proxy",
         "rlang",
@@ -128524,7 +128515,6 @@
         "units"
     ],
     "spacetime": [
-        "intervals",
         "sp",
         "xts",
         "zoo"
