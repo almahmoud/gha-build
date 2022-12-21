@@ -17746,7 +17746,6 @@
         "withr",
         "xfun"
     ],
-    "COSNet": [],
     "COTAN": [
         "ComplexHeatmap",
         "IRanges",
