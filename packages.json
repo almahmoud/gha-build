@@ -105845,7 +105845,6 @@
         "withr"
     ],
     "scBFA": [
-        "ADGofTest",
         "AnnotationDbi",
         "Biobase",
         "BiocGenerics",
@@ -152170,14 +152169,12 @@
         "yaml"
     ],
     "copula": [
-        "ADGofTest",
         "Matrix",
         "gsl",
         "lattice",
         "numDeriv",
         "pcaPP"
     ],
-    "ADGofTest": [],
     "proxyC": [
         "Matrix",
         "RcppArmadillo",
