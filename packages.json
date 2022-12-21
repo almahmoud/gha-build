@@ -8879,7 +8879,6 @@
         "RSQLite",
         "XVector",
         "annotate",
-        "bcellViper",
         "blob",
         "dorothea",
         "dplyr",
@@ -12383,7 +12382,6 @@
         "TH.data",
         "XVector",
         "annotate",
-        "bcellViper",
         "blob",
         "broom",
         "car",
@@ -49994,7 +49992,6 @@
         "xcms"
     ],
     "dorothea": [
-        "bcellViper",
         "dplyr",
         "ggplot2",
         "htmlwidgets",
@@ -50012,7 +50009,6 @@
         "vctrs",
         "viper"
     ],
-    "bcellViper": [],
     "crisprScoreData": [
         "AnnotationDbi",
         "AnnotationHub",
