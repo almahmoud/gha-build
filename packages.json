@@ -73428,7 +73428,6 @@
         "crosstalk",
         "desc",
         "dplyr",
-        "dunn.test",
         "e1071",
         "egg",
         "fs",
@@ -106745,7 +106744,6 @@
         "vctrs",
         "withr"
     ],
-    "dunn.test": [],
     "bladderbatch": [
         "Biobase"
     ],
