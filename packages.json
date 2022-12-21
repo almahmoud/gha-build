@@ -69124,7 +69124,6 @@
         "checkmate",
         "cli",
         "deldir",
-        "distrEx",
         "dplyr",
         "fansi",
         "fitdistrplus",
@@ -69202,7 +69201,6 @@
         "cli",
         "crosstalk",
         "deldir",
-        "distrEx",
         "dplyr",
         "fansi",
         "fitdistrplus",
@@ -123515,7 +123513,6 @@
         "paintmap"
     ],
     "paintmap": [],
-    "distrEx": [],
     "AICcmodavg": [
         "Matrix",
         "RcppEigen",
