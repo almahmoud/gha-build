@@ -70067,8 +70067,7 @@
         "IRanges",
         "RCurl",
         "S4Vectors",
-        "XVector",
-        "logspline"
+        "XVector"
     ],
     "POMA": [
         "AnnotationDbi",
@@ -116970,7 +116969,6 @@
         "stringr",
         "vctrs"
     ],
-    "logspline": [],
     "evmix": [
         "SparseM",
         "gsl"
