@@ -44564,7 +44564,6 @@
         "patchwork",
         "pillar",
         "plotly",
-        "proxyC",
         "reshape2",
         "rhdf5",
         "rhdf5filters",
@@ -47201,7 +47200,6 @@
         "multtest",
         "phyloseq",
         "pillar",
-        "proxyC",
         "reshape2",
         "reticulate",
         "rhdf5",
@@ -47305,7 +47303,6 @@
         "httr",
         "openssl",
         "org.Hs.eg.db",
-        "proxyC",
         "vctrs"
     ],
     "sincell": [
@@ -62333,7 +62330,6 @@
         "vctrs"
     ],
     "copula": [],
-    "proxyC": [],
     "torch": [],
     "sparsepca": [
         "rsvd"
