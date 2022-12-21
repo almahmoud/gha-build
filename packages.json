@@ -64774,7 +64774,6 @@
         "IRanges",
         "MultiAssayExperiment",
         "PharmacoGx",
-        "Rmisc",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -75105,6 +75104,5 @@
         "scales",
         "tibble",
         "vctrs"
-    ],
-    "Rmisc": []
+    ]
 }
