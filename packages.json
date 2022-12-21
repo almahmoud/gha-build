@@ -8398,7 +8398,6 @@
         "httr",
         "igraph",
         "influenceR",
-        "infotheo",
         "isoband",
         "jquerylib",
         "jsonlite",
@@ -10221,7 +10220,6 @@
         "htmlwidgets",
         "httr",
         "igraph",
-        "infotheo",
         "intergraph",
         "interp",
         "isoband",
@@ -11483,7 +11481,6 @@
         "htmltools",
         "httr",
         "igraph",
-        "infotheo",
         "interp",
         "isoband",
         "jpeg",
@@ -12762,7 +12759,6 @@
         "lattice"
     ],
     "BUS": [
-        "infotheo",
         "minet"
     ],
     "BUScorrect": [
@@ -13253,7 +13249,6 @@
         "htmlwidgets",
         "httr",
         "igraph",
-        "infotheo",
         "intergraph",
         "interp",
         "isoband",
@@ -13563,7 +13558,6 @@
         "htmltools",
         "htmlwidgets",
         "httr",
-        "infotheo",
         "interp",
         "isoband",
         "jpeg",
@@ -14708,9 +14702,7 @@
         "sys",
         "vctrs"
     ],
-    "ccrepe": [
-        "infotheo"
-    ],
+    "ccrepe": [],
     "celaref": [
         "Biobase",
         "BiocGenerics",
@@ -19806,7 +19798,6 @@
         "curl",
         "deldir",
         "httr",
-        "infotheo",
         "interp",
         "jpeg",
         "jsonlite",
@@ -21181,7 +21172,6 @@
         "hms",
         "htmltools",
         "igraph",
-        "infotheo",
         "isoband",
         "jquerylib",
         "jsonlite",
@@ -27966,7 +27956,6 @@
         "httr",
         "ids",
         "igraph",
-        "infotheo",
         "interp",
         "isoband",
         "jpeg",
@@ -36734,7 +36723,6 @@
         "graph",
         "gtable",
         "igraph",
-        "infotheo",
         "interp",
         "isoband",
         "jpeg",
@@ -44448,7 +44436,6 @@
         "class",
         "cluster",
         "e1071",
-        "infotheo",
         "lattice",
         "minet",
         "proxy"
@@ -68555,9 +68542,7 @@
         "xml2",
         "yaml"
     ],
-    "minet": [
-        "infotheo"
-    ],
+    "minet": [],
     "minfi": [
         "AnnotationDbi",
         "Biobase",
@@ -74821,7 +74806,6 @@
         "httpuv",
         "httr",
         "igraph",
-        "infotheo",
         "ipred",
         "isoband",
         "iterators",
@@ -77051,7 +77035,6 @@
         "graph",
         "gtable",
         "igraph",
-        "infotheo",
         "interp",
         "isoband",
         "jpeg",
@@ -77553,7 +77536,6 @@
         "htmlwidgets",
         "httr",
         "igraph",
-        "infotheo",
         "isoband",
         "jquerylib",
         "jsonlite",
@@ -77659,7 +77641,6 @@
         "highr",
         "htmltools",
         "igraph",
-        "infotheo",
         "isoband",
         "jquerylib",
         "jsonlite",
@@ -79621,7 +79602,6 @@
         "hms",
         "htmltools",
         "httpuv",
-        "infotheo",
         "isoband",
         "iterators",
         "jquerylib",
@@ -99975,7 +99955,6 @@
         "htmlwidgets",
         "httr",
         "igraph",
-        "infotheo",
         "isoband",
         "jquerylib",
         "jsonlite",
@@ -100091,7 +100070,6 @@
         "htmlwidgets",
         "httr",
         "igraph",
-        "infotheo",
         "isoband",
         "jquerylib",
         "jsonlite",
@@ -100211,7 +100189,6 @@
         "htmlwidgets",
         "httr",
         "igraph",
-        "infotheo",
         "isoband",
         "jquerylib",
         "jsonlite",
@@ -107426,7 +107403,6 @@
         "gtable",
         "hms",
         "igraph",
-        "infotheo",
         "isoband",
         "iterators",
         "jsonlite",
@@ -133287,7 +133263,6 @@
         "magrittr",
         "pkgconfig"
     ],
-    "infotheo": [],
     "mnormt": [],
     "ggfun": [
         "Matrix",
@@ -144563,7 +144538,6 @@
         "hms",
         "htmltools",
         "httpuv",
-        "infotheo",
         "isoband",
         "iterators",
         "jquerylib",
