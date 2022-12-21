@@ -6695,7 +6695,6 @@
         "ggplot2",
         "httr",
         "mgcv",
-        "mvoutlier",
         "openssl",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -18789,7 +18788,6 @@
         "flowViz",
         "interp",
         "latticeExtra",
-        "mvoutlier",
         "splancs"
     ],
     "GBScleanR": [
@@ -58347,7 +58345,6 @@
         "tibble",
         "vctrs"
     ],
-    "mvoutlier": [],
     "SpatialTools": [
         "spBayes"
     ],
