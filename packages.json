@@ -69996,7 +69996,6 @@
         "XVector",
         "futile.logger",
         "lifecycle",
-        "ore",
         "reportr",
         "stringr",
         "tractor.base",
@@ -85120,13 +85119,9 @@
     ],
     "tractor.base": [
         "RNifti",
-        "ore",
         "reportr"
     ],
-    "ore": [],
-    "reportr": [
-        "ore"
-    ],
+    "reportr": [],
     "RNifti": [],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
