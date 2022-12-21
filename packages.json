@@ -32135,7 +32135,6 @@
         "httr",
         "igraph",
         "interp",
-        "inum",
         "knitr",
         "latticeExtra",
         "lmtest",
@@ -39763,7 +39762,6 @@
         "httr",
         "igraph",
         "interp",
-        "inum",
         "knitr",
         "latticeExtra",
         "mgcv",
@@ -65442,21 +65440,17 @@
     "InvariantCausalPrediction": [
         "RcppEigen",
         "glmnet",
-        "inum",
         "mboost",
         "partykit",
         "survival"
     ],
     "mboost": [
-        "inum",
         "partykit",
         "survival"
     ],
     "partykit": [
-        "inum",
         "survival"
     ],
-    "inum": [],
     "miRBaseVersions.db": [
         "AnnotationDbi",
         "Biostrings",
@@ -66158,7 +66152,6 @@
     ],
     "C50": [
         "Cubist",
-        "inum",
         "partykit",
         "reshape2",
         "stringr",
