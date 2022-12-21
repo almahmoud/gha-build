@@ -60576,7 +60576,6 @@
         "latticeExtra",
         "lava",
         "lazyeval",
-        "lhs",
         "lifecycle",
         "linkcomm",
         "listenv",
@@ -94288,7 +94287,6 @@
         "later",
         "lattice",
         "lazyeval",
-        "lhs",
         "lifecycle",
         "listenv",
         "lme4",
@@ -125328,8 +125326,7 @@
         "xfun"
     ],
     "ppclust": [
-        "inaparc",
-        "lhs"
+        "inaparc"
     ],
     "MatrixCorrelation": [
         "Matrix",
@@ -125344,9 +125341,7 @@
         "progress",
         "vctrs"
     ],
-    "inaparc": [
-        "lhs"
-    ],
+    "inaparc": [],
     "metR": [
         "Matrix",
         "RColorBrewer",
@@ -125379,7 +125374,6 @@
         "vctrs",
         "withr"
     ],
-    "lhs": [],
     "cvms": [
         "Matrix",
         "MuMIn",
