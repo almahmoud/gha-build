@@ -30237,7 +30237,6 @@
         "Matrix",
         "RColorBrewer",
         "bslib",
-        "effsize",
         "fs",
         "furrr",
         "future",
@@ -102659,7 +102658,6 @@
         "withr"
     ],
     "SPARQL": [],
-    "effsize": [],
     "ggiraph": [
         "Matrix",
         "RColorBrewer",
