@@ -2015,7 +2015,6 @@
         "MatrixGenerics",
         "RColorBrewer",
         "RCurl",
-        "ReorderCluster",
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
@@ -113137,7 +113136,6 @@
         "withr"
     ],
     "ecp": [],
-    "ReorderCluster": [],
     "caret": [
         "Matrix",
         "ModelMetrics",
