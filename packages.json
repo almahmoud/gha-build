@@ -27831,7 +27831,6 @@
         "ellipsis",
         "english",
         "evaluate",
-        "fingerprint",
         "generics",
         "ggplot2",
         "gridExtra",
@@ -43686,7 +43685,6 @@
         "ellipsis",
         "english",
         "evaluate",
-        "fingerprint",
         "generics",
         "ggplot2",
         "gridExtra",
@@ -84613,7 +84611,6 @@
         "ellipsis",
         "ensembldb",
         "filelock",
-        "fingerprint",
         "foreach",
         "formatR",
         "futile.logger",
@@ -88243,7 +88240,6 @@
         "codetools",
         "curl",
         "doParallel",
-        "fingerprint",
         "foreach",
         "httr",
         "iterators",
@@ -92518,7 +92514,6 @@
         "dplyr",
         "ellipsis",
         "evaluate",
-        "fingerprint",
         "foreach",
         "formatR",
         "futile.logger",
@@ -117299,7 +117294,6 @@
         "ellipsis",
         "english",
         "evaluate",
-        "fingerprint",
         "formatR",
         "futile.logger",
         "generics",
@@ -131728,7 +131722,6 @@
         "Matrix"
     ],
     "rcdk": [
-        "fingerprint",
         "iterators",
         "itertools",
         "rcdklibs"
@@ -131756,7 +131749,6 @@
         "xml2"
     ],
     "rcdklibs": [],
-    "fingerprint": [],
     "text2vec": [
         "Matrix",
         "MatrixExtra",
