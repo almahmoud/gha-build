@@ -27905,7 +27905,6 @@
         "flowCore",
         "flowMeans",
         "flowMerge",
-        "flowPeaks",
         "foreach",
         "foreign",
         "fs",
@@ -34307,7 +34306,6 @@
         "fields",
         "flowCore",
         "flowDensity",
-        "flowPeaks",
         "flowViz",
         "flowWorkspace",
         "fs",
@@ -50301,7 +50299,6 @@
         "rrcov",
         "snow"
     ],
-    "flowPeaks": [],
     "flowPloidy": [
         "BH",
         "Biobase",
