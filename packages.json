@@ -96525,7 +96525,6 @@
         "isoband",
         "lattice",
         "lifecycle",
-        "liger",
         "magrittr",
         "mgcv",
         "munsell",
@@ -124642,7 +124641,6 @@
         "caTools",
         "gplots"
     ],
-    "liger": [],
     "rsample": [
         "cli",
         "cpp11",
