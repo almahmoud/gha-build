@@ -209,7 +209,6 @@
         "tinytex",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -265,7 +264,6 @@
         "snowfall",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "aCGH": [
@@ -339,7 +337,6 @@
         "tibble",
         "tilingArray",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr",
         "zoo"
@@ -516,7 +513,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -877,7 +873,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -1141,7 +1136,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -1241,7 +1235,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "ALDEx2": [
@@ -1331,7 +1324,6 @@
         "tinytex",
         "tximport",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -1438,7 +1430,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -1499,7 +1490,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -1651,7 +1641,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -1774,7 +1763,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -1849,7 +1837,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "waffle",
         "withr",
         "xfun"
@@ -1920,7 +1907,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -2079,7 +2065,6 @@
         "vctrs",
         "vegan",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -2137,7 +2122,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ANF": [
@@ -2291,7 +2275,6 @@
         "umap",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -2716,7 +2699,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -2749,7 +2731,6 @@
         "survival",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "anota2seq": [
@@ -2816,7 +2797,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "antiProfiles": [
@@ -2937,7 +2917,6 @@
         "timechange",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -3086,7 +3065,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "apComplex": [
@@ -3270,7 +3248,6 @@
         "topGO",
         "uwot",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -3526,7 +3503,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -3640,7 +3616,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -3734,7 +3709,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vsn",
         "withr",
         "xfun"
@@ -3849,7 +3823,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -3943,7 +3916,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -4077,7 +4049,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -4192,7 +4163,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -4283,7 +4253,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ASURAT": [
@@ -4482,7 +4451,6 @@
         "uuid",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -4614,7 +4582,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -4701,7 +4668,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -4784,7 +4750,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -4895,7 +4860,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -5027,7 +4991,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -5115,7 +5078,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -5215,7 +5177,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -5245,7 +5206,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "BadRegionFinder": [
@@ -5496,7 +5456,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "bandle": [
@@ -5649,7 +5608,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vsn",
         "withr",
         "xfun"
@@ -5690,7 +5648,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "barcodetrackR": [
@@ -5754,7 +5711,6 @@
         "vctrs",
         "vegan",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "basecallQC": [
@@ -5832,7 +5788,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -5960,7 +5915,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -6074,7 +6028,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -6256,7 +6209,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "webshot",
         "withr",
         "xfun"
@@ -6364,7 +6316,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xgboost",
         "zoo"
@@ -6535,7 +6486,6 @@
         "tibble",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr"
     ],
     "beachmat": [
@@ -6598,7 +6548,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "beadarraySNP": [
@@ -6645,7 +6594,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "BEAT": [
@@ -6994,7 +6942,6 @@
         "vctrs",
         "vegan",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -7311,7 +7258,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "wateRmelon",
         "withr",
@@ -7402,7 +7348,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -7509,7 +7454,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -7562,7 +7506,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -7769,7 +7712,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "visNetwork",
         "vroom",
         "waldo",
@@ -8098,7 +8040,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -9065,7 +9006,6 @@
         "vctrs",
         "vioplot",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun",
         "xlsx",
@@ -9177,7 +9117,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -9287,7 +9226,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -9401,7 +9339,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -9531,7 +9468,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -9612,7 +9548,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -9736,7 +9671,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "biovizBase": [
@@ -9835,7 +9769,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -9984,7 +9917,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -10145,7 +10077,6 @@
         "tidyselect",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "blima": [
@@ -10200,7 +10131,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "BLMA": [
@@ -10347,7 +10277,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -10547,7 +10476,6 @@
         "vcd",
         "vctrs",
         "vegan",
-        "viridisLite",
         "vsn",
         "withr",
         "xfun",
@@ -10664,7 +10592,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -10735,7 +10662,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "BPRMeth": [
@@ -10791,7 +10717,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -10937,7 +10862,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -11101,7 +11025,6 @@
         "timechange",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "breakpointR": [
@@ -11148,7 +11071,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "brendaDb": [
@@ -11250,7 +11172,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "bridge": [],
@@ -11336,8 +11257,7 @@
         "rhdf5filters",
         "rtracklayer",
         "scales",
-        "sparseMatrixStats",
-        "viridisLite"
+        "sparseMatrixStats"
     ],
     "BubbleTree": [
         "AnnotationDbi",
@@ -11441,7 +11361,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -11742,7 +11661,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "BUSseq": [
@@ -11890,7 +11808,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -11998,7 +11915,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -12144,7 +12060,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -12210,7 +12125,6 @@
         "tidyselect",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr"
     ],
     "calm": [
@@ -12302,7 +12216,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vsn",
         "withr",
         "xcms",
@@ -12409,7 +12322,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -12452,7 +12364,6 @@
         "survival",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "cardelino": [
@@ -12543,7 +12454,6 @@
         "vcfR",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr"
     ],
     "Cardinal": [
@@ -12592,7 +12502,6 @@
         "tiff",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "xfun"
     ],
     "CARNIVAL": [
@@ -12839,7 +12748,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -13138,7 +13046,6 @@
         "tinytex",
         "treeio",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -13455,7 +13362,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -13558,7 +13464,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "CellaRepertorium": [
@@ -13652,7 +13557,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "cellbaseR": [
@@ -13802,7 +13706,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr"
     ],
@@ -13944,7 +13847,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -14003,7 +13905,6 @@
         "tibble",
         "topGO",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "CellMapper": [
@@ -14106,7 +14007,6 @@
         "vctrs",
         "vioplot",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -14184,7 +14084,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "CellNOptR": [
@@ -14228,7 +14127,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -14319,7 +14217,6 @@
         "tibble",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "cellTree": [
@@ -14542,7 +14439,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun",
         "xts",
@@ -14664,7 +14560,6 @@
         "tidyselect",
         "tweenr",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -14738,7 +14633,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ceRNAnetsim": [
@@ -14782,7 +14676,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "CeTF": [
@@ -14947,7 +14840,6 @@
         "uuid",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -15009,7 +14901,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -15063,7 +14954,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr",
         "xts",
         "zoo"
@@ -15311,7 +15201,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "wateRmelon",
         "withr",
@@ -15364,7 +15253,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -15443,7 +15331,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -15520,7 +15407,6 @@
         "timechange",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "Chicago": [
@@ -15571,7 +15457,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -15685,7 +15570,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -15855,7 +15739,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun",
@@ -15961,7 +15844,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -16046,7 +15928,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ChIPQC": [
@@ -16164,7 +16045,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -16275,7 +16155,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "chipseq": [
@@ -16694,7 +16573,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waiter",
         "webshot",
         "withr",
@@ -16747,7 +16625,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "chromswitch": [
@@ -16809,7 +16686,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "chromVAR": [
@@ -16917,7 +16793,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -17093,7 +16968,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -17158,7 +17032,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "visNetwork",
         "withr",
         "xfun"
@@ -17305,7 +17178,6 @@
         "tzdb",
         "universalmotif",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -17389,7 +17261,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "CiteFuse": [
@@ -17505,7 +17376,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -17768,7 +17638,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "cliqueMS": [
@@ -17829,7 +17698,6 @@
         "sparsesvd",
         "tibble",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr",
         "xcms"
@@ -17958,7 +17826,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr",
         "xfun"
@@ -18059,7 +17926,6 @@
         "tidyselect",
         "uuid",
         "vctrs",
-        "viridisLite",
         "withr",
         "zinbwave"
     ],
@@ -18168,7 +18034,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "clusterSeq": [
@@ -18256,7 +18121,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -18411,7 +18275,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -18458,7 +18321,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -18504,7 +18366,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -18562,7 +18423,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -18609,7 +18469,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -18754,7 +18613,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -18777,7 +18635,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "cnvGSA": [
@@ -18910,7 +18767,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -18936,8 +18792,7 @@
         "magrittr",
         "munsell",
         "pheatmap",
-        "scales",
-        "viridisLite"
+        "scales"
     ],
     "CNVPanelizer": [
         "Biobase",
@@ -19013,7 +18868,6 @@
         "testthat",
         "tibble",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr"
     ],
@@ -19129,7 +18983,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "CoCiteStats": [
@@ -19233,7 +19086,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "codelink": [
@@ -19377,7 +19229,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "vsn",
         "withr",
@@ -19507,7 +19358,6 @@
         "urlchecker",
         "usethis",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -19561,7 +19411,6 @@
         "tidytree",
         "treeio",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "Cogito": [
@@ -19643,7 +19492,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -19800,7 +19648,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -19862,7 +19709,6 @@
         "tibble",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr"
     ],
     "coMET": [
@@ -19967,7 +19813,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -20082,7 +19927,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -20146,7 +19990,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "COMPASS": [
@@ -20191,7 +20034,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -20239,7 +20081,6 @@
         "timeSeries",
         "vctrs",
         "vioplot",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -20350,7 +20191,6 @@
         "topGO",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -20437,7 +20277,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -20507,7 +20346,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -20705,7 +20543,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -20832,7 +20669,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "CONFESS": [
@@ -20928,7 +20764,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "wavethresh",
         "withr",
         "xfun",
@@ -21041,7 +20876,6 @@
         "tidyselect",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "consensusOV": [
@@ -21220,8 +21054,7 @@
         "survival",
         "sys",
         "topGO",
-        "vctrs",
-        "viridisLite"
+        "vctrs"
     ],
     "CONSTANd": [],
     "contiBAIT": [
@@ -21306,7 +21139,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "conumee": [
@@ -21534,7 +21366,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -21604,7 +21435,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "CoRegNet": [
@@ -21715,7 +21545,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "visNetwork",
         "withr",
         "xfun"
@@ -21776,7 +21605,6 @@
         "tidyselect",
         "transport",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "CORREP": [
@@ -21852,7 +21680,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "cosmiq": [
@@ -21908,7 +21735,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr",
         "xcms"
@@ -21995,7 +21821,6 @@
         "tzdb",
         "vctrs",
         "viper",
-        "viridisLite",
         "visNetwork",
         "vroom",
         "withr",
@@ -22043,7 +21868,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "countsimQC": [
@@ -22132,7 +21956,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -22284,7 +22107,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "cqn": [
@@ -22829,7 +22651,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -22893,7 +22714,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "crisprVerse": [
@@ -23020,7 +22840,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -23148,7 +22967,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -23401,7 +23219,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -23475,7 +23292,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ctc": [],
@@ -23522,7 +23338,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "cTRAP": [
@@ -23630,7 +23445,6 @@
         "timechange",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun",
         "xts",
@@ -23679,7 +23493,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "CTSV": [
@@ -23761,7 +23574,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -23865,7 +23677,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -23941,7 +23752,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -24121,7 +23931,6 @@
         "tidyselect",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -24194,7 +24003,6 @@
         "tibble",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "CytoDx": [
@@ -24389,7 +24197,6 @@
         "uuid",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -24517,7 +24324,6 @@
         "uuid",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -24674,7 +24480,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -24738,7 +24543,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "dada2": [
@@ -24791,7 +24595,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "dagLogo": [
@@ -24895,7 +24698,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -24982,7 +24784,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -25159,7 +24960,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -25236,7 +25036,6 @@
         "timechange",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr",
         "xfun",
@@ -25374,7 +25173,6 @@
         "tzdb",
         "usethis",
         "vctrs",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -25562,7 +25360,6 @@
         "vctrs",
         "vegan",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun",
@@ -25678,7 +25475,6 @@
         "tidyselect",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -25715,7 +25511,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "debCAM": [
@@ -25781,7 +25576,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xts",
@@ -25943,7 +25737,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "webshot",
         "withr",
         "xfun"
@@ -26044,7 +25837,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -26112,7 +25904,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "decompTumor2Sig": [
@@ -26193,7 +25984,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "DeconRNASeq": [
@@ -26219,7 +26009,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "decontam": [
@@ -26245,7 +26034,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "deconvR": [
@@ -26373,7 +26161,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr"
@@ -26562,7 +26349,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "visNetwork",
         "vroom",
         "webchem",
@@ -26694,7 +26480,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "DegNorm": [
@@ -26798,7 +26583,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "webshot",
         "withr",
         "xfun"
@@ -26929,7 +26713,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -26957,7 +26740,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "DelayedArray": [
@@ -27081,7 +26863,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "deltaGseg": [
@@ -27112,7 +26893,6 @@
         "timeSeries",
         "tseries",
         "vctrs",
-        "viridisLite",
         "wavethresh",
         "withr",
         "xts",
@@ -27213,7 +26993,6 @@
         "truncdist",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -27237,7 +27016,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "densvis": [
@@ -27349,7 +27127,6 @@
         "tmvtnorm",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "vsn",
         "withr",
@@ -27405,7 +27182,6 @@
         "tidyselect",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "DepInfeR": [
@@ -27441,7 +27217,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "derfinder": [
@@ -27546,7 +27321,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -27673,7 +27447,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -27761,7 +27534,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "DESeq2": [
@@ -27819,7 +27591,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "DEsingle": [
@@ -27930,7 +27701,6 @@
         "tidyselect",
         "vcd",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -28023,7 +27793,6 @@
         "testthat",
         "tibble",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr"
     ],
@@ -28085,7 +27854,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "DExMA": [
@@ -28160,7 +27928,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -28236,7 +28003,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "DFP": [
@@ -28290,7 +28056,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr",
         "zoo"
     ],
@@ -28392,7 +28157,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -28477,7 +28241,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -28583,7 +28346,6 @@
         "tidyselect",
         "tweenr",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -28641,7 +28403,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "diffGeneAnalysis": [],
@@ -28713,7 +28474,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "diffUTR": [
@@ -28808,7 +28568,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "diggit": [
@@ -28873,7 +28632,6 @@
         "tinytex",
         "vctrs",
         "viper",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -29009,7 +28767,6 @@
         "tinytex",
         "uwot",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -29148,7 +28905,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "webshot",
         "withr",
         "xfun"
@@ -29225,7 +28981,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "dittoSeq": [
@@ -29269,7 +29024,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "divergence": [
@@ -29573,7 +29327,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -29677,7 +29430,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -29806,7 +29558,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -29895,7 +29646,6 @@
         "tibble",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "DominoEffect": [
@@ -30116,7 +29866,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "vsn",
         "waldo",
         "withr",
@@ -30180,7 +29929,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "doseR": [
@@ -30296,7 +30044,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -30338,7 +30085,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "DropletUtils": [
@@ -30527,7 +30273,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -30575,8 +30320,7 @@
         "rhdf5filters",
         "rtracklayer",
         "scales",
-        "sparseMatrixStats",
-        "viridisLite"
+        "sparseMatrixStats"
     ],
     "dStruct": [
         "BiocGenerics",
@@ -30605,7 +30349,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr",
         "zoo"
     ],
@@ -30657,7 +30400,6 @@
         "tidyselect",
         "tweenr",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "dupRadar": [
@@ -30812,7 +30554,6 @@
         "tinytex",
         "vctrs",
         "viper",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -30912,7 +30653,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "easyreporting": [
@@ -31112,7 +30852,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "EBSeq": [
@@ -31330,7 +31069,6 @@
         "testthat",
         "tibble",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr"
     ],
@@ -31453,7 +31191,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "wordcloud"
     ],
@@ -31625,7 +31362,6 @@
         "tinytex",
         "topGO",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -31677,7 +31413,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -31851,7 +31586,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -31882,7 +31616,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "EnhancedVolcano": [
@@ -31905,7 +31638,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "enhancerHomologSearch": [
@@ -31992,7 +31724,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -32285,7 +32016,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "enrichTF": [
@@ -32445,7 +32175,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "visNetwork",
         "vroom",
         "waldo",
@@ -32786,7 +32515,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -32879,7 +32607,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -32965,7 +32692,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "epigraHMM": [
@@ -33067,7 +32793,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -33190,7 +32915,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -33299,7 +33023,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -33459,7 +33182,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -33525,7 +33247,6 @@
         "vcd",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr",
         "zoo"
     ],
@@ -33543,8 +33264,7 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "lattice",
-        "viridisLite"
+        "lattice"
     ],
     "epistasisGA": [
         "BiocParallel",
@@ -33613,7 +33333,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -33690,7 +33409,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "epivizr": [
@@ -34042,7 +33760,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "erma": [
@@ -34134,7 +33851,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ERSSA": [
@@ -34195,7 +33911,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "esATAC": [
@@ -34340,7 +34055,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "visNetwork",
         "vroom",
         "withr",
@@ -34431,7 +34145,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "esetVis": [
@@ -34568,7 +34281,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "webshot",
         "withr",
         "xfun"
@@ -34677,7 +34389,6 @@
         "tidyselect",
         "tximport",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "EWCE": [
@@ -34822,7 +34533,6 @@
         "treeio",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -34958,7 +34668,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ExperimentHub": [
@@ -35245,7 +34954,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -35416,7 +35124,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -35502,7 +35209,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "wiggleplotr",
         "withr"
@@ -35566,7 +35272,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -35686,7 +35391,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -35775,7 +35479,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun",
         "yeastCC"
@@ -35901,7 +35604,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "fCCAC": [
@@ -35979,7 +35681,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -36124,7 +35825,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "fcScan": [
@@ -36269,7 +35969,6 @@
         "shiny",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "fedup": [
@@ -36321,7 +36020,6 @@
         "tidyselect",
         "uuid",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "FELLA": [
@@ -36455,7 +36153,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xts",
@@ -36543,7 +36240,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "FilterFFPE": [
@@ -36647,7 +36343,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "FISHalyseR": [
@@ -36721,7 +36416,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "FitHiC": [
@@ -36815,7 +36509,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vsn",
         "withr",
         "xcms",
@@ -36985,7 +36678,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun",
         "xgboost"
@@ -37035,7 +36727,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -37148,7 +36839,6 @@
         "tiff",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -37204,7 +36894,6 @@
         "tinytex",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -37337,7 +37026,6 @@
         "tidyselect",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -37442,7 +37130,6 @@
         "tidyselect",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -37516,7 +37203,6 @@
         "tinytex",
         "uuid",
         "vctrs",
-        "viridisLite",
         "visNetwork",
         "withr",
         "xfun"
@@ -37540,8 +37226,7 @@
         "sp",
         "stringi",
         "stringr",
-        "vctrs",
-        "viridisLite"
+        "vctrs"
     ],
     "flowMatch": [
         "Biobase",
@@ -37674,7 +37359,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -37757,7 +37441,6 @@
         "tidyselect",
         "tweenr",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -37796,7 +37479,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr",
         "zoo"
     ],
@@ -37859,7 +37541,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "flowTime": [
@@ -37982,7 +37663,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "flowWorkspace": [
@@ -38020,7 +37700,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "fmcsR": [
@@ -38068,7 +37747,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -38155,7 +37833,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr",
         "zoo"
@@ -38212,7 +37889,6 @@
         "tidyselect",
         "topGO",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "FRASER": [
@@ -38338,7 +38014,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "webshot",
         "withr",
         "xfun"
@@ -38400,7 +38075,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -38436,7 +38110,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "frma": [
@@ -38546,7 +38219,6 @@
         "shiny",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "funtooNorm": [
@@ -38745,7 +38417,6 @@
         "tidyselect",
         "vctrs",
         "vegan",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -39138,7 +38809,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -39206,7 +38876,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "gcapc": [
@@ -39295,7 +38964,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -39566,7 +39234,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -39609,7 +39276,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "gemini": [
@@ -39665,7 +39331,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -39879,7 +39544,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -40187,7 +39851,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -40494,7 +40157,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -40625,7 +40287,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "visNetwork",
         "waiter",
         "withr",
@@ -40781,7 +40442,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -40950,7 +40610,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "GenomicFeatures": [
@@ -41147,7 +40806,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -41317,7 +40975,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -41430,7 +41087,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -41629,7 +41285,6 @@
         "tinytex",
         "uuid",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -41715,7 +41370,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "GenProSeq": [
@@ -41820,7 +41474,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "visNetwork",
         "vroom",
         "webchem",
@@ -41904,7 +41557,6 @@
         "tidyselect",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "GeoDiff": [
@@ -42006,7 +41658,6 @@
         "tinytex",
         "uuid",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -42134,7 +41785,6 @@
         "umap",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "waldo",
         "webshot",
@@ -42289,7 +41939,6 @@
         "tinytex",
         "uuid",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -42436,7 +42085,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr"
     ],
@@ -42512,7 +42160,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -42623,7 +42270,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -42666,7 +42312,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ggmanh": [
@@ -42699,7 +42344,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ggmsa": [
@@ -42781,7 +42425,6 @@
         "treeio",
         "tweenr",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -42821,7 +42464,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ggspavis": [
@@ -42896,7 +42538,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ggtree": [
@@ -42933,7 +42574,6 @@
         "tidytree",
         "treeio",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ggtreeDendro": [
@@ -42971,7 +42611,6 @@
         "tidytree",
         "treeio",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ggtreeExtra": [
@@ -43010,7 +42649,6 @@
         "tidytree",
         "treeio",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "GIGSEA": [
@@ -43135,7 +42773,6 @@
         "vcd",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -43181,7 +42818,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "Glimma": [
@@ -43254,7 +42890,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -43398,7 +43033,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -43455,7 +43089,6 @@
         "tibble",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "globaltest": [
@@ -43659,7 +43292,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -43812,7 +43444,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "visNetwork",
         "vroom",
         "withr",
@@ -43874,7 +43505,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "GOfuncR": [
@@ -43970,7 +43600,6 @@
         "tidyselect",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "goProfiles": [
@@ -44235,7 +43864,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "goSTAG": [
@@ -44350,7 +43978,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "GOTHiC": [
@@ -44402,7 +44029,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "goTools": [
@@ -44484,7 +44110,6 @@
         "tinytex",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -44614,7 +44239,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -44680,7 +44304,6 @@
         "units",
         "uuid",
         "vctrs",
-        "viridisLite",
         "withr",
         "wk",
         "xfun",
@@ -44707,7 +44330,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "graph": [
@@ -44805,7 +44427,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "GreyListChIP": [
@@ -44928,7 +44549,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -45031,7 +44651,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "gscreend": [
@@ -45245,7 +44864,6 @@
         "tokenizers",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "gsean": [
@@ -45320,7 +44938,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr",
         "yeastExpData"
     ],
@@ -45629,7 +45246,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -45704,7 +45320,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -45805,7 +45420,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -45867,7 +45481,6 @@
         "timechange",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "gwascat": [
@@ -46181,7 +45794,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -46239,7 +45851,6 @@
         "stringi",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "hapFabia": [
@@ -46544,7 +46155,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "Herper": [
@@ -46585,7 +46195,6 @@
         "tidyselect",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "hiAnnotator": [
@@ -46635,7 +46244,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "HIBAG": [
@@ -46692,7 +46300,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -46754,7 +46361,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "HiCDCPlus": [
@@ -46863,7 +46469,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -46992,7 +46597,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -47123,7 +46727,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -47248,7 +46851,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "hipathia": [
@@ -47385,7 +46987,6 @@
         "tidyselect",
         "umap",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "hiReadsProcessor": [
@@ -47441,7 +47042,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "HIREewas": [
@@ -47510,7 +47110,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "HPAStainR": [
@@ -47547,7 +47146,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "HPiP": [
@@ -47616,7 +47214,6 @@
         "timechange",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -47760,7 +47357,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "HubPub": [
@@ -47950,7 +47546,6 @@
         "tinytex",
         "tweenr",
         "vctrs",
-        "viridisLite",
         "visNetwork",
         "webshot",
         "withr",
@@ -48019,7 +47614,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ibh": [
@@ -48046,7 +47640,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "iCARE": [
@@ -48096,7 +47689,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -48190,7 +47782,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "iCheck": [
@@ -48315,7 +47906,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun",
@@ -48377,7 +47967,6 @@
         "tidyselect",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "iCOBRA": [
@@ -48436,7 +48025,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -48582,7 +48170,6 @@
         "topGO",
         "vctrs",
         "viridis",
-        "viridisLite",
         "webshot",
         "withr",
         "xfun"
@@ -48677,7 +48264,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "idr2d": [
@@ -48719,7 +48305,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "iGC": [
@@ -48775,7 +48360,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "igvR": [
@@ -48939,7 +48523,6 @@
         "umap",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "imageHTS": [
@@ -49015,7 +48598,6 @@
         "tiff",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr",
         "xfun"
@@ -49112,7 +48694,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr"
     ],
@@ -49248,7 +48829,6 @@
         "units",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr",
         "wk",
@@ -49376,7 +48956,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "webshot",
         "withr",
         "xfun"
@@ -49432,7 +49011,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -49645,7 +49223,6 @@
         "tinytex",
         "uwot",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -49768,7 +49345,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -49863,7 +49439,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "InTAD": [
@@ -49958,7 +49533,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -50070,7 +49644,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -50173,7 +49746,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "webshot",
         "withr",
         "xfun"
@@ -50252,7 +49824,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -50438,7 +50009,6 @@
         "uuid",
         "vctrs",
         "viridis",
-        "viridisLite",
         "visNetwork",
         "waldo",
         "withr",
@@ -50530,7 +50100,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "InterMineR": [
@@ -50649,7 +50218,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "iPAC": [
@@ -50747,7 +50315,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -50902,7 +50469,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vsn",
         "withr",
         "xcms",
@@ -51130,7 +50696,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -51205,7 +50770,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "writexl",
@@ -51285,7 +50849,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -51365,7 +50928,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -51463,7 +51025,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -51544,7 +51105,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -51624,7 +51184,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "IsoCorrectoR": [
@@ -51790,7 +51349,6 @@
         "tximport",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -51892,7 +51450,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -52050,7 +51607,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr"
     ],
@@ -52162,7 +51718,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -52206,7 +51761,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "karyoploteR": [
@@ -52309,7 +51863,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -52398,7 +51951,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -52691,7 +52243,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -52809,7 +52360,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -52979,7 +52529,6 @@
         "testthat",
         "tibble",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr"
     ],
@@ -53020,7 +52569,6 @@
         "survival",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr",
         "zoo"
     ],
@@ -53096,7 +52644,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -53155,7 +52702,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -53317,7 +52863,6 @@
         "tzdb",
         "vctrs",
         "vegan",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -53359,7 +52904,6 @@
         "tibble",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr",
         "zoo"
     ],
@@ -53430,7 +52974,6 @@
         "tinytex",
         "treeio",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -53530,7 +53073,6 @@
         "tinytex",
         "tmvtnorm",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -53694,7 +53236,6 @@
         "tweenr",
         "units",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "wk"
@@ -53784,7 +53325,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vsn",
         "withr",
         "xcms",
@@ -53811,7 +53351,6 @@
         "munsell",
         "pheatmap",
         "scales",
-        "viridisLite",
         "wordcloud"
     ],
     "logicFS": [
@@ -53991,7 +53530,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -54108,7 +53646,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -54218,7 +53755,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -54280,7 +53816,6 @@
         "tidytree",
         "treeio",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "M3C": [
@@ -54317,7 +53852,6 @@
         "tibble",
         "umap",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "M3Drop": [
@@ -54386,7 +53920,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -54505,7 +54038,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -54606,7 +54138,6 @@
         "tweedie",
         "vctrs",
         "vegan",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -54754,7 +54285,6 @@
         "vctrs",
         "vegan",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -54845,7 +54375,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -55017,7 +54546,6 @@
         "vcfR",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr"
     ],
     "maftools": [
@@ -55158,7 +54686,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -55283,7 +54810,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -55408,7 +54934,6 @@
         "tzdb",
         "uuid",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -55558,7 +55083,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "vsn",
         "withr",
@@ -55708,7 +55232,6 @@
         "timechange",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -55769,7 +55292,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "marray": [],
@@ -55888,7 +55410,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -55959,7 +55480,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "MatrixGenerics": [],
@@ -56068,7 +55588,6 @@
         "umap",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vsn",
         "withr",
         "xfun",
@@ -56152,7 +55671,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -56295,7 +55813,6 @@
         "tinytex",
         "vctrs",
         "vegan",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -56355,7 +55872,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "mbOmic": [
@@ -56438,7 +55954,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "visNetwork",
         "withr",
         "xfun"
@@ -56568,7 +56083,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -56662,7 +56176,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -56774,7 +56287,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -56798,7 +56310,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "mdqc": [],
@@ -56987,7 +56498,6 @@
         "vctrs",
         "vegan",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -57107,7 +56617,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "wateRmelon",
         "withr",
@@ -57261,7 +56770,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -57370,7 +56878,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -57439,7 +56946,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -57512,7 +57018,6 @@
         "universalmotif",
         "usethis",
         "vctrs",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr"
@@ -57657,7 +57162,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -57780,7 +57284,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "messina": [
@@ -57805,7 +57308,6 @@
         "survival",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "Metab": [
@@ -57862,7 +57364,6 @@
         "svDialogs",
         "tibble",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr",
         "xcms"
@@ -57921,7 +57422,6 @@
         "timechange",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "metabinR": [
@@ -58011,7 +57511,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -58099,7 +57598,6 @@
         "survival",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "MetaboSignal": [
@@ -58242,7 +57740,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -58328,7 +57825,6 @@
         "tidyselect",
         "tweenr",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -58409,7 +57905,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "metagene2": [
@@ -58462,7 +57957,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "metagenomeSeq": [
@@ -58566,7 +58060,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vsn",
         "withr",
         "xcms",
@@ -58613,7 +58106,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "MetaPhOR": [
@@ -58736,7 +58228,6 @@
         "uuid",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "metapod": [],
@@ -58774,7 +58265,6 @@
         "tibble",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -58941,7 +58431,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vsn",
         "webshot",
         "withr",
@@ -59060,7 +58549,6 @@
         "tidyselect",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr"
     ],
     "MetaVolcanoR": [
@@ -59136,7 +58624,6 @@
         "tinytex",
         "topconfects",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -59189,7 +58676,6 @@
         "shiny",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "MethCP": [
@@ -59260,7 +58746,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "methimpute": [
@@ -59295,7 +58780,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "methInheritSim": [
@@ -59357,7 +58841,6 @@
         "survival",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "MethPed": [
@@ -59489,7 +58972,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "waldo",
         "wheatmap",
@@ -59546,7 +59028,6 @@
         "sparseMatrixStats",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "MethTargetedNGS": [
@@ -59684,7 +59165,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -59791,7 +59271,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -59999,7 +59478,6 @@
         "usethis",
         "uuid",
         "vctrs",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -60165,7 +59643,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -60230,7 +59707,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "methylKit": [
@@ -60288,7 +59764,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "MethylMix": [
@@ -60316,7 +59791,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "methylMnM": [
@@ -60426,7 +59900,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -60588,8 +60061,7 @@
         "rhdf5filters",
         "rtracklayer",
         "scales",
-        "sparseMatrixStats",
-        "viridisLite"
+        "sparseMatrixStats"
     ],
     "methylumi": [
         "AnnotationDbi",
@@ -60694,7 +60166,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -60783,7 +60254,6 @@
         "urlchecker",
         "usethis",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -60841,7 +60311,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "mfa": [
@@ -60888,7 +60357,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "Mfuzz": [
@@ -61071,7 +60539,6 @@
         "vctrs",
         "vegan",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "miaSim": [
@@ -61225,7 +60692,6 @@
         "vctrs",
         "vegan",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "MiChip": [
@@ -61292,7 +60758,6 @@
         "tidyselect",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr"
     ],
     "microbiomeDASim": [
@@ -61354,7 +60819,6 @@
         "tmvtnorm",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr",
         "zoo"
     ],
@@ -61500,7 +60964,6 @@
         "vctrs",
         "vegan",
         "viridis",
-        "viridisLite",
         "vroom",
         "waldo",
         "webshot",
@@ -61733,7 +61196,6 @@
         "vctrs",
         "vegan",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -61864,7 +61326,6 @@
         "usethis",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -61933,7 +61394,6 @@
         "treeio",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr",
         "zoo"
     ],
@@ -62016,7 +61476,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "webshot",
         "withr",
         "xfun"
@@ -62090,7 +61549,6 @@
         "tibble",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr"
     ],
     "miloR": [
@@ -62161,7 +61619,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "mimager": [
@@ -62201,8 +61658,7 @@
         "pkgconfig",
         "plogr",
         "scales",
-        "vctrs",
-        "viridisLite"
+        "vctrs"
     ],
     "MIMOSA": [
         "Biobase",
@@ -62261,7 +61717,6 @@
         "timeDate",
         "timeSeries",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr"
     ],
@@ -62326,7 +61781,6 @@
         "uuid",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -62476,7 +61930,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -62668,7 +62121,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "MIRA": [
@@ -62727,7 +62179,6 @@
         "sparseMatrixStats",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "MiRaGE": [
@@ -62811,7 +62262,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "miRLAB": [
@@ -62937,7 +62387,6 @@
         "vcd",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun",
@@ -63293,7 +62742,6 @@
         "uuid",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -63506,7 +62954,6 @@
         "uuid",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -63544,7 +62991,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "missMethyl": [
@@ -63659,7 +63105,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -63702,7 +63147,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "mistyR": [
@@ -63769,7 +63213,6 @@
         "timechange",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -63833,7 +63276,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -63912,7 +63354,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "mixOmics": [
@@ -63954,7 +63395,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "MLInterfaces": [
@@ -64173,7 +63613,6 @@
         "timechange",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr"
     ],
@@ -64306,7 +63745,6 @@
         "shiny",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "MMUPHin": [
@@ -64410,7 +63848,6 @@
         "tweedie",
         "vctrs",
         "vegan",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -64460,7 +63897,6 @@
         "tibble",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr",
         "zoo"
     ],
@@ -64525,7 +63961,6 @@
         "topGO",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "zoo"
     ],
@@ -64584,7 +64019,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr",
         "xcms"
@@ -64660,7 +64094,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -64739,7 +64172,6 @@
         "tidyselect",
         "uwot",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "MOGAMUN": [
@@ -64883,7 +64315,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -64976,7 +64407,6 @@
         "tzdb",
         "vctrs",
         "vioplot",
-        "viridisLite",
         "vroom",
         "withr",
         "zoo"
@@ -65025,7 +64455,6 @@
         "tidyselect",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "MoonlightR": [
@@ -65155,7 +64584,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -65221,7 +64649,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "MOSim": [
@@ -65256,7 +64683,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr",
         "zoo"
     ],
@@ -65339,7 +64765,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -65461,7 +64886,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -65584,7 +65008,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -65679,7 +65102,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -65743,7 +65165,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "MPFE": [],
@@ -65767,8 +65188,7 @@
         "lifecycle",
         "munsell",
         "scales",
-        "statmod",
-        "viridisLite"
+        "statmod"
     ],
     "MPRAnalyze": [
         "Biobase",
@@ -65882,7 +65302,6 @@
         "tweenr",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -66077,7 +65496,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -66214,7 +65632,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -66360,7 +65777,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr"
     ],
@@ -66414,7 +65830,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr"
     ],
@@ -66458,7 +65873,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr"
     ],
@@ -66563,7 +65977,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr",
         "xfun"
@@ -66673,7 +66086,6 @@
         "tidyselect",
         "vcd",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -66719,7 +66131,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "msqrob2": [
@@ -66810,7 +66221,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -66862,7 +66272,6 @@
         "testthat",
         "tibble",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr"
     ],
@@ -67003,7 +66412,6 @@
         "uuid",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -67028,7 +66436,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "MSstatsPTM": [
@@ -67093,7 +66500,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr"
     ],
@@ -67177,7 +66583,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr",
         "xfun"
@@ -67264,7 +66669,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr",
         "xfun"
@@ -67352,7 +66756,6 @@
         "timechange",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr"
     ],
@@ -67452,7 +66855,6 @@
         "uuid",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -67506,7 +66908,6 @@
         "testthat",
         "tibble",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr"
     ],
@@ -67571,7 +66972,6 @@
         "tibble",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "MultiAssayExperiment": [
@@ -67674,7 +67074,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -67703,7 +67102,6 @@
         "tibble",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "multicrispr": [
@@ -67848,7 +67246,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -67886,7 +67283,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "multiGSEA": [
@@ -67960,7 +67356,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr",
         "zoo"
     ],
@@ -68028,7 +67423,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "multiMiR": [
@@ -68297,7 +67691,6 @@
         "usethis",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -68564,7 +67957,6 @@
         "variancePartition",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -68763,7 +68155,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -68851,7 +68242,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "MVCClass": [],
@@ -68946,7 +68336,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -69046,7 +68435,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -69143,7 +68531,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -69324,7 +68711,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun",
@@ -69426,7 +68812,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -69487,7 +68872,6 @@
         "tinytex",
         "uuid",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -69544,7 +68928,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -69651,7 +69034,6 @@
         "tzdb",
         "uuid",
         "vctrs",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -69687,7 +69069,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "NBAMSeq": [
@@ -69748,7 +69129,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "NBSplice": [
@@ -69816,7 +69196,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -69882,7 +69261,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr",
         "xcms"
@@ -69953,7 +69331,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ndexr": [
@@ -70062,7 +69439,6 @@
         "tidyselect",
         "transport",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "Nebulosa": [
@@ -70182,7 +69558,6 @@
         "tinytex",
         "uwot",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -70253,7 +69628,6 @@
         "vcd",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr",
         "zoo"
     ],
@@ -70316,7 +69690,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "netbiov": [
@@ -70399,7 +69772,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -70510,7 +69882,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -70583,7 +69954,6 @@
         "tidyselect",
         "uuid",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "nethet": [
@@ -70629,7 +69999,6 @@
         "survival",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "netOmics": [
@@ -70713,7 +70082,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -70752,7 +70120,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "netresponse": [
@@ -70801,7 +70168,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -70888,7 +70254,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -71010,7 +70375,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "zinbwave"
     ],
@@ -71157,7 +70521,6 @@
         "uuid",
         "vctrs",
         "vegan",
-        "viridisLite",
         "vroom",
         "withr",
         "yarn"
@@ -71303,7 +70666,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun",
@@ -71508,7 +70870,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -71630,7 +70991,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "vsn",
         "waldo",
@@ -71721,7 +71081,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "NPARC": [
@@ -71834,7 +71193,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "nuCpos": [],
@@ -71894,7 +71252,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "NuPoP": [],
@@ -72001,7 +71358,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -72146,7 +71502,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -72302,7 +71657,6 @@
         "usethis",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -72437,7 +71791,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -72606,7 +71959,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun",
@@ -72898,7 +72250,6 @@
         "tmvtnorm",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -72941,7 +72292,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr",
         "zoo"
     ],
@@ -73094,7 +72444,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "webshot",
         "withr",
@@ -73266,7 +72615,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -73304,7 +72652,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -73395,7 +72742,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "oncoscanR": [
@@ -73532,7 +72878,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -73603,7 +72948,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "webshot",
         "withr",
         "xfun"
@@ -73736,7 +73080,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "openPrimeR": [
@@ -73816,7 +73159,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -73908,7 +73250,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -74001,7 +73342,6 @@
         "unmarked",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -74199,7 +73539,6 @@
         "urlchecker",
         "usethis",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -74291,7 +73630,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "OrderedList": [
@@ -74424,7 +73762,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -74668,7 +74005,6 @@
         "treeio",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -74855,7 +74191,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "webshot",
         "withr",
         "xfun"
@@ -75040,7 +74375,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -75164,7 +74498,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -75278,7 +74611,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "panelcn.mops": [
@@ -75415,7 +74747,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "zoo"
     ],
@@ -75573,7 +74904,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr"
     ],
@@ -75650,7 +74980,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "Path2PPI": [
@@ -75812,7 +75141,6 @@
         "usethis",
         "vctrs",
         "vegan",
-        "viridisLite",
         "waldo",
         "webshot",
         "withr",
@@ -75873,7 +75201,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "pathview": [
@@ -76070,7 +75397,6 @@
         "topGO",
         "vctrs",
         "viridis",
-        "viridisLite",
         "webshot",
         "withr",
         "xfun"
@@ -76130,7 +75456,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "pcxn": [
@@ -76140,8 +75465,7 @@
         "lifecycle",
         "munsell",
         "pheatmap",
-        "scales",
-        "viridisLite"
+        "scales"
     ],
     "PDATK": [
         "AIMS",
@@ -76326,7 +75650,6 @@
         "vctrs",
         "verification",
         "viridis",
-        "viridisLite",
         "visNetwork",
         "waldo",
         "withr",
@@ -76410,7 +75733,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "peakPantheR": [
@@ -76483,7 +75805,6 @@
         "timechange",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr",
         "xfun"
@@ -76611,7 +75932,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "pengls": [
@@ -76656,7 +75976,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "pepStat": [
@@ -76692,7 +76011,6 @@
         "tibble",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "pepXMLTab": [],
@@ -76751,7 +76069,6 @@
         "tibble",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr",
         "zoo"
     ],
@@ -76800,7 +76117,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr",
         "zoo"
     ],
@@ -76898,7 +76214,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "phantasus": [
@@ -76992,7 +76307,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "webutils",
         "withr",
@@ -77087,7 +76401,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "visNetwork",
         "withr",
         "xfun"
@@ -77213,7 +76526,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -77255,7 +76567,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "phenoTest": [
@@ -77349,7 +76660,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -77423,7 +76733,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -77465,7 +76774,6 @@
         "tidytree",
         "treeio",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "PhIPData": [
@@ -77616,7 +76924,6 @@
         "tidyselect",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -77711,7 +77018,6 @@
         "tinytex",
         "topGO",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -77763,7 +77069,6 @@
         "tibble",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr"
     ],
     "Pi": [
@@ -77864,7 +77169,6 @@
         "tzdb",
         "urltools",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -77929,7 +77233,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "visNetwork",
         "withr",
         "xfun"
@@ -78088,7 +77391,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -78202,7 +77504,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -78358,7 +77659,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -78469,7 +77769,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "plgem": [
@@ -78575,7 +77874,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "plotGrouper": [
@@ -78676,7 +77974,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -78800,7 +78097,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "PoDCall": [
@@ -78859,7 +78155,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -78974,7 +78269,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -79112,7 +78406,6 @@
         "uwot",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -79212,7 +78505,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ppcseq": [
@@ -79282,7 +78574,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "PPInfer": [
@@ -79356,7 +78647,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr",
         "yeastExpData"
     ],
@@ -79477,7 +78767,6 @@
         "tinytex",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -79598,7 +78887,6 @@
         "timechange",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "PREDA": [
@@ -79765,7 +79053,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -79859,7 +79146,6 @@
         "urca",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vsn",
         "withr",
         "xfun",
@@ -79942,7 +79228,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "proBAMr": [
@@ -80117,7 +79402,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vsn",
         "waldo",
         "withr",
@@ -80254,7 +79538,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr",
         "xcms",
@@ -80410,7 +79693,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -80453,7 +79735,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "projectR": [
@@ -80517,7 +79798,6 @@
         "tidyselect",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "pRoloc": [
@@ -80661,7 +79941,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vsn",
         "withr",
         "xfun"
@@ -80819,7 +80098,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vsn",
         "waiter",
         "withr",
@@ -81006,7 +80284,6 @@
         "tinytex",
         "vctrs",
         "vioplot",
-        "viridisLite",
         "vsn",
         "webshot",
         "withr",
@@ -81219,7 +80496,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "protGear": [
@@ -81355,7 +80631,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "vsn",
         "waldo",
@@ -81509,7 +80784,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun",
@@ -81589,7 +80863,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -81658,7 +80931,6 @@
         "tidyselect",
         "topGO",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ptairMS": [
@@ -81784,7 +81056,6 @@
         "uuid",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vsn",
         "waldo",
         "withr",
@@ -81900,7 +81171,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "pvac": [
@@ -81950,7 +81220,6 @@
         "testthat",
         "tibble",
         "vctrs",
-        "viridisLite",
         "vsn",
         "waldo",
         "withr"
@@ -82053,7 +81322,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -82233,7 +81501,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -82264,7 +81531,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "qcmetrics": [
@@ -82379,7 +81645,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -82495,7 +81760,6 @@
         "vcd",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "webshot",
         "withr",
@@ -82634,7 +81898,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "vsn",
         "withr"
@@ -82749,7 +82012,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -82865,7 +82127,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -82941,7 +82202,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "Qtlizer": [
@@ -82999,7 +82259,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "quantro": [
@@ -83102,7 +82361,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -83254,7 +82512,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "qusage": [
@@ -83288,7 +82545,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "R3CPET": [
@@ -83402,7 +82658,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -83464,7 +82719,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "R453Plus1Toolbox": [
@@ -83638,7 +82892,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "visNetwork",
         "withr",
         "xfun"
@@ -83705,7 +82958,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ramwas": [
@@ -84006,7 +83258,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -84202,7 +83453,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -84248,7 +83498,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "rCGH": [
@@ -84341,7 +83590,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "RcisTarget": [
@@ -84428,7 +83676,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -84486,7 +83733,6 @@
         "tseries",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr",
         "xts",
         "zoo"
@@ -84561,7 +83807,6 @@
         "tibble",
         "umap",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "Rcwl": [
@@ -84640,7 +83885,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "visNetwork",
         "vroom",
         "withr",
@@ -84733,7 +83977,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "visNetwork",
         "vroom",
         "withr",
@@ -84913,7 +84156,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ReactomePA": [
@@ -85008,7 +84250,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "ReadqPCR": [
@@ -85089,7 +84330,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "reconsi": [
@@ -85144,7 +84384,6 @@
         "tibble",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr"
     ],
     "recount": [
@@ -85258,7 +84497,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -85493,7 +84731,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "RedeR": [
@@ -85596,7 +84833,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "RefPlus": [
@@ -85713,7 +84949,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -85812,7 +85047,6 @@
         "tibble",
         "umap",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "regionReport": [
@@ -85932,7 +85166,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -86076,7 +85309,6 @@
         "uuid",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -86225,7 +85457,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -86299,7 +85530,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr"
     ],
@@ -86426,7 +85656,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -86571,7 +85800,6 @@
         "survival",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "restfulSE": [
@@ -86755,7 +85983,6 @@
         "tmvtnorm",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -86815,7 +86042,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "rfPred": [
@@ -87059,7 +86285,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "rgoslin": [
@@ -87258,7 +86483,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "rhdf5": [
@@ -87453,7 +86677,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -87555,7 +86778,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "RiboProfiling": [
@@ -87669,7 +86891,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -87704,7 +86925,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "riboSeqR": [
@@ -87841,7 +87061,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -87934,7 +87153,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -88013,7 +87231,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr"
     ],
@@ -88120,7 +87337,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -88179,7 +87395,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr",
         "xcms"
@@ -88283,7 +87498,6 @@
         "tidyselect",
         "topGO",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -88315,7 +87529,6 @@
         "survival",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "RJMCMCNucleosomes": [
@@ -88506,7 +87719,6 @@
         "tzdb",
         "valr",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -88606,7 +87818,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "vsn",
         "webchem",
         "withr",
@@ -88740,7 +87951,6 @@
         "urlchecker",
         "usethis",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -88895,7 +88105,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -88938,7 +88147,6 @@
         "testthat",
         "tibble",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr"
     ],
@@ -89088,7 +88296,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr"
     ],
@@ -89196,7 +88403,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -89305,7 +88511,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -89415,7 +88620,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -89524,7 +88728,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -89565,7 +88768,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "rnaseqcomp": [
@@ -89745,7 +88947,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -89896,7 +89097,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -90013,7 +89213,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -90123,7 +89322,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "rols": [
@@ -90230,7 +89428,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -90308,7 +89505,6 @@
         "tinytex",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -90369,7 +89565,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -90511,7 +89706,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -90624,7 +89818,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -90660,7 +89853,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "rRDP": [
@@ -90747,7 +89939,6 @@
         "treemap",
         "umap",
         "vctrs",
-        "viridisLite",
         "withr",
         "wordcloud"
     ],
@@ -90946,7 +90137,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -91123,7 +90313,6 @@
         "tinytex",
         "vctrs",
         "viper",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -91226,7 +90415,6 @@
         "tinytex",
         "vctrs",
         "viper",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -91333,7 +90521,6 @@
         "tinytex",
         "vctrs",
         "viper",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -91376,7 +90563,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "rtracklayer": [
@@ -91456,7 +90642,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -91611,7 +90796,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr"
     ],
@@ -91895,7 +91079,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "sangeranalyseR": [
@@ -91987,7 +91170,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -92075,7 +91257,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "savR": [
@@ -92102,7 +91283,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "SBGNview": [
@@ -92226,7 +91406,6 @@
         "shiny",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "Scale4C": [
@@ -92375,7 +91554,6 @@
         "tinytex",
         "uwot",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -92488,7 +91666,6 @@
         "stringi",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "scanMiRApp": [
@@ -92595,7 +91772,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "waiter",
         "withr",
         "xfun"
@@ -92744,7 +91920,6 @@
         "tzdb",
         "uwot",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -92943,7 +92118,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "scatterHatch": [
@@ -92969,7 +92143,6 @@
         "spatstat.geom",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "scBFA": [
@@ -93106,7 +92279,6 @@
         "tinytex",
         "uwot",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun",
         "zinbwave",
@@ -93219,7 +92391,6 @@
         "treeio",
         "uwot",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -93356,7 +92527,6 @@
         "tinytex",
         "uwot",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -93467,7 +92637,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -93541,7 +92710,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -93664,7 +92832,6 @@
         "umap",
         "uwot",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -93748,7 +92915,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xgboost"
     ],
@@ -93838,7 +93004,6 @@
         "tibble",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr"
     ],
@@ -93900,7 +93065,6 @@
         "testthat",
         "tibble",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr"
     ],
@@ -94014,7 +93178,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "scGPS": [
@@ -94110,7 +93273,6 @@
         "timechange",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "schex": [
@@ -94238,7 +93400,6 @@
         "units",
         "uwot",
         "vctrs",
-        "viridisLite",
         "withr",
         "wk",
         "xfun",
@@ -94289,7 +93450,6 @@
         "tidyselect",
         "tweenr",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "scifer": [
@@ -94367,7 +93527,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "webshot",
         "withr",
         "xfun"
@@ -94472,7 +93631,6 @@
         "tinytex",
         "uwot",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -94520,7 +93678,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "scMerge": [
@@ -94617,7 +93774,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -94692,7 +93848,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -94804,7 +93959,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -94852,7 +94006,6 @@
         "survival",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "scone": [
@@ -94974,7 +94127,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -95013,7 +94165,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -95215,7 +94366,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -95379,7 +94529,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr"
     ],
@@ -95501,7 +94650,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "scRepertoire": [
@@ -95577,7 +94725,6 @@
         "vctrs",
         "vegan",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "scruff": [
@@ -95691,7 +94838,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -95942,7 +95088,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "visNetwork",
         "webshot",
         "withr",
@@ -96096,7 +95241,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "wk",
         "xfun",
@@ -96291,7 +95435,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -96357,7 +95500,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "sechm": [
@@ -96397,8 +95539,7 @@
         "shape",
         "stringi",
         "stringr",
-        "vctrs",
-        "viridisLite"
+        "vctrs"
     ],
     "segmenter": [
         "AnnotationDbi",
@@ -96516,7 +95657,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "segmentSeq": [
@@ -96635,7 +95775,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "SELEX": [
@@ -96761,7 +95900,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -96815,7 +95953,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "SeqArray": [
@@ -96913,7 +96050,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "seqCNA": [
@@ -96951,7 +96087,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "SeqGate": [
@@ -97039,7 +96174,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "seqPattern": [
@@ -97105,7 +96239,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "SeqSQC": [
@@ -97201,7 +96334,6 @@
         "triebeard",
         "urltools",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -97335,7 +96467,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "wheatmap",
         "withr",
@@ -97419,7 +96550,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "sevenbridges": [
@@ -97694,7 +96824,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "webshot",
         "withr",
@@ -97926,7 +97055,6 @@
         "uuid",
         "vctrs",
         "vegan",
-        "viridisLite",
         "waldo",
         "withr"
     ],
@@ -98079,8 +97207,7 @@
         "openxlsx",
         "pheatmap",
         "scales",
-        "stringi",
-        "viridisLite"
+        "stringi"
     ],
     "SigFuge": [
         "BiocGenerics",
@@ -98112,7 +97239,6 @@
         "sigclust",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "siggenes": [
@@ -98148,7 +97274,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "signatureSearch": [
@@ -98281,7 +97406,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "visNetwork",
         "vroom",
         "withr",
@@ -98461,7 +97585,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -98648,7 +97771,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -98794,7 +97916,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "SimBindProfiles": [
@@ -98846,7 +97967,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr"
     ],
@@ -98923,7 +98043,6 @@
         "tidyselect",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr"
     ],
     "SIMD": [
@@ -99079,7 +98198,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -99162,7 +98280,6 @@
         "tibble",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "single": [
@@ -99287,8 +98404,7 @@
         "stringi",
         "stringr",
         "survival",
-        "vctrs",
-        "viridisLite"
+        "vctrs"
     ],
     "singleCellTK": [
         "AnnotationDbi",
@@ -99567,7 +98683,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun",
         "xgboost",
@@ -99761,7 +98876,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -99836,7 +98950,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr",
         "zoo"
     ],
@@ -99945,7 +99058,6 @@
         "tidytree",
         "treeio",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "skewr": [
@@ -100061,7 +99173,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "wateRmelon",
         "withr",
@@ -100119,7 +99230,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "slingshot": [
@@ -100262,7 +99372,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -100326,7 +99435,6 @@
         "tibble",
         "tilingArray",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr",
         "zoo"
@@ -100492,7 +99600,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "SNPRelate": [],
@@ -100555,7 +99662,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "sojourner": [
@@ -100636,7 +99742,6 @@
         "tiff",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -100752,7 +99857,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -100927,7 +100031,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -101027,7 +100130,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -101118,7 +100220,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "spaSim": [
@@ -101196,7 +100297,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "SpatialCPie": [
@@ -101274,7 +100374,6 @@
         "tzdb",
         "uuid",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -101361,7 +100460,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "SpatialDecon": [
@@ -101464,7 +100562,6 @@
         "tinytex",
         "uuid",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -101745,7 +100842,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "visNetwork",
         "withr",
         "xfun"
@@ -101867,7 +100963,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -101918,7 +101013,6 @@
         "tibble",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "Spectra": [
@@ -101995,7 +101089,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "SPEM": [
@@ -102155,7 +101248,6 @@
         "tzdb",
         "umap",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xROI",
@@ -102272,7 +101364,6 @@
         "tweenr",
         "units",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "wk"
@@ -102371,7 +101462,6 @@
         "survival",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "spkTools": [
@@ -102449,7 +101539,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "SpliceWiz": [
@@ -102578,7 +101667,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "webshot",
         "withr",
         "xfun"
@@ -102805,7 +101893,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -102979,7 +102066,6 @@
         "tzdb",
         "uuid",
         "vctrs",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -103126,7 +102212,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -103171,7 +102256,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "spqn": [
@@ -103206,7 +102290,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "SPsimSeq": [
@@ -103302,7 +102385,6 @@
         "vctrs",
         "vegan",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -103396,7 +102478,6 @@
         "tinytex",
         "umap",
         "vctrs",
-        "viridisLite",
         "visNetwork",
         "withr",
         "xfun"
@@ -103579,7 +102660,6 @@
         "usethis",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -103694,7 +102774,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "ssPATHS": [
@@ -103773,7 +102852,6 @@
         "tweenr",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -103848,7 +102926,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "stageR": [
@@ -103967,7 +103044,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -104077,7 +103153,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -104135,7 +103210,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr"
     ],
@@ -104204,7 +103278,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "STATegRa": [
@@ -104237,7 +103310,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "Statial": [
@@ -104347,7 +103419,6 @@
         "units",
         "uuid",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "wk",
@@ -104418,7 +103489,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "stepNorm": [
@@ -104573,7 +103643,6 @@
         "units",
         "uwot",
         "vctrs",
-        "viridisLite",
         "withr",
         "wk",
         "xfun",
@@ -104661,7 +103730,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -104809,7 +103877,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -104969,7 +104036,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -105005,7 +104071,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "SUITOR": [
@@ -105032,7 +104097,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "SummarizedBenchmark": [
@@ -105083,7 +104147,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "SummarizedExperiment": [
@@ -105196,7 +104259,6 @@
         "timechange",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "warp",
         "withr"
     ],
@@ -105305,7 +104367,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr"
@@ -105420,7 +104481,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -105656,7 +104716,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "SwathXtend": [
@@ -105711,7 +104770,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "synapsis": [
@@ -105819,7 +104877,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "vsn",
         "withr",
@@ -105961,7 +105018,6 @@
         "vctrs",
         "vegan",
         "viridis",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -106045,7 +105101,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -106154,7 +105209,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -106221,7 +105275,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -106307,7 +105360,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "waiter",
         "withr",
@@ -106410,7 +105462,6 @@
         "tinytex",
         "treeio",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -106517,7 +105568,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -106559,7 +105609,6 @@
         "tidytree",
         "treeio",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "TAPseq": [
@@ -106742,7 +105791,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -106824,7 +105872,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -106945,7 +105992,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -107013,7 +106059,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -107086,7 +106131,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -107315,7 +106359,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "waldo",
         "wheatmap",
@@ -107442,7 +106485,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "TDARACNE": [
@@ -107526,7 +106568,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "TENxIO": [
@@ -107817,7 +106858,6 @@
         "tibble",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "TFBSTools": [
@@ -107897,7 +106937,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -108055,7 +107094,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -108176,7 +107214,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -108244,7 +107281,6 @@
         "tinytex",
         "ttservice",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -108310,7 +107346,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -108412,7 +107447,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr",
         "zoo"
@@ -108464,7 +107498,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr",
         "zoo"
     ],
@@ -108631,7 +107664,6 @@
         "uuid",
         "vctrs",
         "viridis",
-        "viridisLite",
         "widgetTools",
         "withr"
     ],
@@ -108720,7 +107752,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -108779,7 +107810,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "TitanCNA": [
@@ -108961,7 +107991,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "visdat",
         "vroom",
         "withr"
@@ -109104,7 +108133,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -109192,7 +108220,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "tomoda": [
@@ -109243,7 +108270,6 @@
         "tibble",
         "umap",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "tomoseqr": [
@@ -109311,7 +108337,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -109335,7 +108360,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "topdownr": [
@@ -109384,7 +108408,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr"
     ],
@@ -109507,7 +108530,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "visNetwork",
         "withr",
         "xfun"
@@ -109570,7 +108592,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -109609,7 +108630,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "tracktables": [
@@ -109746,7 +108766,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -109795,7 +108814,6 @@
         "tibble",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "TrajectoryGeometry": [
@@ -109835,7 +108853,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -109922,7 +108939,6 @@
         "tidyselect",
         "topGO",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "transcriptR": [
@@ -110026,7 +109042,6 @@
         "timechange",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "transformGamPoi": [
@@ -110088,7 +109103,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "tRanslatome": [
@@ -110168,7 +109182,6 @@
         "tibble",
         "topGO",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "transomics2cytoscape": [
@@ -110278,7 +109291,6 @@
         "tibble",
         "vbsr",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "traseR": [
@@ -110368,7 +109380,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -110531,7 +109542,6 @@
         "tweenr",
         "uuid",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -110706,7 +109716,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun",
         "xgboost"
@@ -110919,7 +109928,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "trigger": [
@@ -110981,7 +109989,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "trio": [
@@ -111081,7 +110088,6 @@
         "tinytex",
         "usethis",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -111117,7 +110123,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "tRNAdbImport": [
@@ -111159,7 +110164,6 @@
         "tRNA",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "tRNAscanImport": [
@@ -111211,7 +110215,6 @@
         "tRNA",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "TRONCO": [
@@ -111237,8 +110240,7 @@
         "munsell",
         "pkgconfig",
         "scales",
-        "shape",
-        "viridisLite"
+        "shape"
     ],
     "TSCAN": [
         "Biobase",
@@ -111293,7 +110295,6 @@
         "shiny",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "tscR": [
@@ -111351,7 +110352,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -111442,7 +110442,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "visNetwork",
         "vroom",
         "withr",
@@ -111602,7 +110601,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -111661,7 +110659,6 @@
         "shiny",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "txcutr": [
@@ -111945,7 +110942,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -112049,7 +111045,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr",
         "zoo"
     ],
@@ -112181,7 +111176,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -112341,7 +111335,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "updateObject": [
@@ -112403,7 +111396,6 @@
         "tidyselect",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "VAExprs": [
@@ -112550,7 +111542,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "viridisLite",
         "visNetwork",
         "vroom",
         "webchem",
@@ -112670,7 +111661,6 @@
         "shinycssloaders",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "variancePartition": [
@@ -112738,7 +111728,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -112971,7 +111960,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -113210,7 +112198,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "VegaMC": [
@@ -113339,7 +112326,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "VERSO": [
@@ -113431,7 +112417,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -113492,7 +112477,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -113602,7 +112586,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "visNetwork",
         "vroom",
         "webshot",
@@ -113720,7 +112703,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -113814,7 +112796,6 @@
         "tidyselect",
         "units",
         "vctrs",
-        "viridisLite",
         "withr",
         "wk"
     ],
@@ -113863,7 +112844,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr",
         "zoo"
     ],
@@ -113924,7 +112904,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "vsn": [
@@ -113950,7 +112929,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "vtpnet": [
@@ -114180,7 +113158,6 @@
         "tinytex",
         "vctrs",
         "viper",
-        "viridisLite",
         "withr",
         "wordcloud",
         "xfun",
@@ -114263,7 +113240,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr"
     ],
@@ -114378,7 +113354,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -114480,7 +113455,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -114539,7 +113513,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr"
     ],
@@ -114591,7 +113564,6 @@
         "tidyselect",
         "topconfects",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "widgetTools": [],
@@ -114642,7 +113614,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "wpm": [
@@ -114727,7 +113698,6 @@
         "tinytex",
         "usethis",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -114842,7 +113812,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr"
     ],
@@ -115023,7 +113992,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "visNetwork",
         "withr",
         "xfun"
@@ -115066,7 +114034,6 @@
         "sqldf",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "xmapbridge": [],
@@ -115305,7 +114272,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -115414,7 +114380,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -115558,7 +114523,6 @@
         "tidyselect",
         "variancePartition",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -115602,7 +114566,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "zinbwave": [
@@ -115786,7 +114749,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "RColorBrewer": [],
@@ -115838,7 +114800,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -115907,7 +114868,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ggdendro": [
@@ -115929,7 +114889,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "plotly": [
@@ -115981,7 +114940,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -116070,8 +115028,7 @@
         "RColorBrewer",
         "cli",
         "lifecycle",
-        "munsell",
-        "viridisLite"
+        "munsell"
     ],
     "sass": [
         "ellipsis",
@@ -116111,7 +115068,6 @@
     ],
     "xfun": [],
     "magrittr": [],
-    "viridisLite": [],
     "tidyr": [
         "cli",
         "cpp11",
@@ -116280,7 +115236,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ggpubr": [
@@ -116346,7 +115301,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -116370,7 +115324,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "shinyjs": [
@@ -116438,7 +115391,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "cowplot": [
@@ -116460,7 +115412,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "rstatix": [
@@ -116517,7 +115468,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -116629,7 +115579,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -117025,7 +115974,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -117059,7 +116007,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "forcats": [
@@ -117139,7 +116086,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "restfulr": [
@@ -117225,7 +116171,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "Rtsne": [],
@@ -117248,8 +116193,7 @@
         "gtable",
         "lifecycle",
         "munsell",
-        "scales",
-        "viridisLite"
+        "scales"
     ],
     "ggrastr": [
         "Matrix",
@@ -117275,7 +116219,6 @@
         "textshaping",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "catdata": [],
@@ -117427,7 +116370,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "pcaPP": [],
@@ -117608,7 +116550,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "waffle": [
@@ -117634,7 +116575,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "clusterCrit": [],
@@ -117726,7 +116666,6 @@
         "testthat",
         "tibble",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr"
     ],
@@ -117823,7 +116762,6 @@
         "timechange",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "rentrez": [
@@ -117881,7 +116819,6 @@
         "shiny",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "umap": [
@@ -117931,7 +116868,6 @@
         "timeSeries",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr"
     ],
     "ModelMetrics": [],
@@ -118308,7 +117244,6 @@
         "tinytex",
         "uwot",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -118395,7 +117330,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ica": [],
@@ -118435,7 +117369,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "scattermore": [
@@ -118457,7 +117390,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "sctransform": [
@@ -118491,7 +117423,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "SeuratObject": [
@@ -119349,7 +118280,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ptw": [
@@ -119399,7 +118329,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "msm": [
@@ -119497,7 +118426,6 @@
         "tzdb",
         "uuid",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -119709,7 +118637,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ggalluvial": [
@@ -119738,7 +118665,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [
@@ -120024,7 +118950,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -120167,7 +119092,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -120218,7 +119142,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr"
     ],
@@ -120244,7 +119167,6 @@
         "tibble",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "gdata": [],
@@ -120344,7 +119266,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "StanHeaders": [
@@ -120469,7 +119390,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -120516,7 +119436,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -120600,7 +119519,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "webshot",
         "withr",
         "xfun"
@@ -120637,7 +119555,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "mcmc": [],
@@ -120730,7 +119647,6 @@
         "tidyselect",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr"
     ],
     "tidytext": [
@@ -120974,7 +119890,6 @@
         "tidyselect",
         "tweenr",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "tweenr": [
@@ -121079,7 +119994,6 @@
         "tinytex",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -121188,7 +120102,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "visNetwork",
         "vroom",
         "withr",
@@ -121367,7 +120280,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "aplot": [
@@ -121392,7 +120304,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ggnewscale": [
@@ -121414,7 +120325,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "scatterpie": [
@@ -121447,7 +120357,6 @@
         "tidyselect",
         "tweenr",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "shadowtext": [
@@ -121469,7 +120378,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "tidygraph": [
@@ -121520,7 +120428,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ggplotify": [
@@ -121542,7 +120449,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "gh": [
@@ -121686,7 +120592,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -121711,7 +120616,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ranger": [
@@ -121926,7 +120830,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -122022,7 +120925,6 @@
         "statnet.common",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "intergraph": [
@@ -122151,7 +121053,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "drtmle": [
@@ -122347,7 +121248,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "metafor": [
@@ -122433,8 +121333,7 @@
         "scales",
         "stringi",
         "stringr",
-        "vctrs",
-        "viridisLite"
+        "vctrs"
     ],
     "V8": [
         "jsonlite"
@@ -122616,7 +121515,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -122880,7 +121778,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -122938,7 +121835,6 @@
         "tidyselect",
         "vctrs",
         "vegan",
-        "viridisLite",
         "withr"
     ],
     "pinfsc50": [],
@@ -123019,7 +121915,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -123121,7 +122016,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "MCMCprecision": [
@@ -123157,7 +122051,6 @@
         "stringi",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "magick": [
@@ -123261,7 +122154,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -123299,7 +122191,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "maptree": [],
@@ -123352,7 +122243,6 @@
         "tidyselect",
         "timechange",
         "vctrs",
-        "viridisLite",
         "withr",
         "xts",
         "zoo"
@@ -123384,7 +122274,6 @@
         "tidyselect",
         "timechange",
         "vctrs",
-        "viridisLite",
         "withr",
         "xts",
         "zoo"
@@ -123792,7 +122681,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "geneLenDataBase": [
@@ -123881,7 +122769,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "spp": [],
@@ -123946,7 +122833,6 @@
         "timechange",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "Delaporte": [],
@@ -124576,7 +123462,6 @@
         "tibble",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "webshot",
         "withr",
         "xfun"
@@ -124602,7 +123487,6 @@
         "stringi",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "qs": [
@@ -124634,7 +123518,6 @@
         "stringi",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "RApiSerialize": [],
@@ -124836,7 +123719,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "benchmarkme": [
@@ -125068,7 +123950,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -125138,7 +124019,6 @@
         "transport",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "spatstat": [
@@ -125250,7 +124130,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -125558,7 +124437,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr",
         "xcms"
@@ -125622,7 +124500,6 @@
         "tinytex",
         "vctrs",
         "viper",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -125875,7 +124752,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "mrfDepth": [
@@ -125907,7 +124783,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "GoFKernel": [],
@@ -125944,7 +124819,6 @@
         "tibble",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "geometry": [
@@ -125982,7 +124856,6 @@
         "tibble",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "RSEIS": [
@@ -126014,7 +124887,6 @@
         "tibble",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "MBA": [],
@@ -126285,7 +125157,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "vsn",
         "withr"
     ],
@@ -126437,7 +125308,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "rsq": [
@@ -126750,7 +125620,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "VIM": [
@@ -126815,7 +125684,6 @@
         "tidyselect",
         "vcd",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -126851,7 +125719,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "blockmodeling": [
@@ -126977,7 +125844,6 @@
         "tibble",
         "tweenr",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "aricode": [
@@ -127224,7 +126090,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -127378,7 +126243,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -127402,7 +126266,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ggside": [
@@ -127424,7 +126287,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "kinship2": [
@@ -127491,7 +126353,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -127551,7 +126412,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "fds": [
@@ -127583,7 +126443,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "rainbow": [
@@ -127613,7 +126472,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "hdrcde": [
@@ -127641,7 +126499,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ash": [],
@@ -127688,7 +126545,6 @@
         "tinytex",
         "uuid",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -127780,7 +126636,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun"
@@ -127812,7 +126667,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "analogue": [
@@ -127850,7 +126704,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "dplR": [
@@ -127939,7 +126792,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -127974,7 +126826,6 @@
         "survival",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -128205,7 +127056,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
         "webshot",
         "withr",
         "xfun"
@@ -128296,7 +127146,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -128330,7 +127179,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "proj4": [],
@@ -128395,7 +127243,6 @@
         "vcd",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -128548,7 +127395,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "yeastExpData": [
@@ -128769,7 +127615,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "simpIntLists": [],
@@ -129027,7 +127872,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "datamods": [
@@ -129346,7 +128190,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "densEstBayes": [
@@ -129384,7 +128227,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "adabag": [
@@ -129440,7 +128282,6 @@
         "timechange",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "chemometrics": [
@@ -129515,7 +128356,6 @@
         "tibble",
         "tweedie",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "tweedie": [],
@@ -129555,7 +128395,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "RnBeads.hg19": [
@@ -129670,7 +128509,6 @@
         "tibble",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "agricolae": [
@@ -129901,7 +128739,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "mCSEAdata": [],
@@ -129968,7 +128805,6 @@
         "sys",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "svDialogs": [],
@@ -130376,7 +129212,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "MCMCglmm": [
@@ -130428,7 +129263,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "formattable": [
@@ -130649,7 +129483,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "BiBitR": [
@@ -130689,7 +129522,6 @@
         "tidyselect",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "subspace": [
@@ -130776,7 +129608,6 @@
         "tibble",
         "timechange",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -130833,7 +129664,6 @@
         "tibble",
         "timechange",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "lhs": [],
@@ -130909,7 +129739,6 @@
         "timechange",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr"
     ],
@@ -130932,7 +129761,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "tnet": [
@@ -131035,7 +129863,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -131061,7 +129888,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "HiveR": [
@@ -131118,7 +129944,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "crmn": [
@@ -131320,8 +130145,7 @@
         "cli",
         "lifecycle",
         "munsell",
-        "scales",
-        "viridisLite"
+        "scales"
     ],
     "VarfromPDB": [
         "RCurl",
@@ -131504,7 +130328,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "vroom",
         "waldo",
         "withr",
@@ -131774,7 +130597,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun",
@@ -132101,7 +130923,6 @@
         "tibble",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "CircStats": [],
@@ -132328,7 +131149,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ggdist": [
@@ -132354,7 +131174,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "arrayhelpers": [
@@ -132383,7 +131202,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "svUnit": [],
@@ -132407,7 +131225,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "phastCons100way.UCSC.hg38": [
@@ -132522,7 +131339,6 @@
         "tseries",
         "urca",
         "vctrs",
-        "viridisLite",
         "withr",
         "xts",
         "zoo"
@@ -133203,7 +132019,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -133260,7 +132075,6 @@
         "timechange",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "ggprism": [
@@ -133282,7 +132096,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "RLHub": [
@@ -133445,7 +132258,6 @@
         "shiny",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "pwr": [],
@@ -133561,7 +132373,6 @@
         "stringi",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "splines2": [
@@ -133714,7 +132525,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "glmpca": [],
@@ -133743,7 +132553,6 @@
         "tibble",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "ccTensor": [
@@ -133770,7 +132579,6 @@
         "tibble",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "tagcloud": [
@@ -133815,7 +132623,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "cvTools": [
@@ -133881,7 +132688,6 @@
         "triebeard",
         "urltools",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -134067,7 +132873,6 @@
         "tidyselect",
         "tidytidbits",
         "vctrs",
-        "viridisLite",
         "waldo",
         "withr",
         "xfun",
@@ -134362,7 +133167,6 @@
         "tinytex",
         "uwot",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun",
         "zoo"
@@ -134626,7 +133430,6 @@
         "splancs",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "xROI": [
@@ -134682,7 +133485,6 @@
         "timechange",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -134810,7 +133612,6 @@
         "tweenr",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr",
         "xfun"
@@ -134870,7 +133671,6 @@
         "tweenr",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -134894,7 +133694,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "mosaicCore": [
@@ -135011,7 +133810,6 @@
         "tibble",
         "vctrs",
         "viridis",
-        "viridisLite",
         "withr"
     ],
     "sftime": [
@@ -135198,7 +133996,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "gghighlight": [
@@ -135224,7 +134021,6 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "bestNormalize": [
@@ -135283,7 +134079,6 @@
         "timechange",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "naniar": [
@@ -135321,7 +134116,6 @@
         "tzdb",
         "vctrs",
         "viridis",
-        "viridisLite",
         "visdat",
         "vroom",
         "withr"
@@ -135351,7 +134145,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "butcher": [
@@ -135397,7 +134190,6 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "viridisLite",
         "vroom",
         "withr"
     ],
@@ -135517,7 +134309,6 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
         "withr",
         "xfun"
     ],
@@ -135640,7 +134431,6 @@
         "scales",
         "tibble",
         "vctrs",
-        "viridisLite",
         "withr"
     ],
     "Rmisc": [
