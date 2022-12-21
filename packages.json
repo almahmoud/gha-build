@@ -24222,7 +24222,6 @@
         "rtracklayer",
         "scales",
         "shape",
-        "simpleCache",
         "sparseMatrixStats",
         "survival",
         "tibble",
@@ -157869,7 +157868,6 @@
     ],
     "splitstackshape": [],
     "profileModel": [],
-    "simpleCache": [],
     "hash": [],
     "kohonen": [
         "Rcpp"
