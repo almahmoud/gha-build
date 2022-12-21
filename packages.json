@@ -25091,7 +25091,6 @@
         "gridExtra",
         "gson",
         "gtable",
-        "heatmap3",
         "highr",
         "hms",
         "htmlwidgets",
@@ -69548,7 +69547,6 @@
         "ggsignif",
         "gridExtra",
         "gtable",
-        "heatmap3",
         "highr",
         "hms",
         "htmlTable",
@@ -97839,7 +97837,6 @@
         "S4Vectors",
         "XVector"
     ],
-    "heatmap3": [],
     "EntropyExplorer": [],
     "EpiMix.data": [
         "AnnotationDbi",
