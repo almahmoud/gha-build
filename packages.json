@@ -12817,7 +12817,6 @@
     "DeepPINCS": [
         "CatEncoders",
         "DiagrammeR",
-        "MatrixExtra",
         "bslib",
         "dplyr",
         "ggplot2",
@@ -20193,7 +20192,6 @@
         "CatEncoders",
         "DeepPINCS",
         "DiagrammeR",
-        "MatrixExtra",
         "bslib",
         "dplyr",
         "ggplot2",
@@ -53740,7 +53738,6 @@
     ],
     "ttgsea": [
         "DiagrammeR",
-        "MatrixExtra",
         "bslib",
         "dplyr",
         "ggplot2",
@@ -54268,7 +54265,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixExtra",
         "RcppEigen",
         "RcppML",
         "S4Vectors",
@@ -60247,7 +60243,6 @@
         "vctrs"
     ],
     "text2vec": [
-        "MatrixExtra",
         "mlapi",
         "rsparse"
     ],
@@ -60265,9 +60260,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "rsparse": [
-        "MatrixExtra"
-    ],
+    "rsparse": [],
     "mlapi": [],
     "koRpus.lang.en": [
         "koRpus"
@@ -60301,7 +60294,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "MatrixExtra": [],
     "tseries": [
         "TTR",
         "quantmod",
