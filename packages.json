@@ -6100,7 +6100,6 @@
         "vctrs",
         "viridis"
     ],
-    "BufferedMatrixMethods": [],
     "bugsigdbr": [
         "BiocFileCache",
         "RSQLite",
