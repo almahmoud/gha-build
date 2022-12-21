@@ -24672,7 +24672,6 @@
         "vctrs",
         "withr"
     ],
-    "diffGeneAnalysis": [],
     "diffHic": [
         "BSgenome",
         "Biobase",
