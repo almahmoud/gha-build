@@ -4459,8 +4459,7 @@
         "vctrs",
         "vioplot",
         "viridis",
-        "xlsx",
-        "xlsxjars"
+        "xlsx"
     ],
     "BioMVCClass": [
         "Rgraphviz"
@@ -59608,15 +59607,12 @@
         "stringr",
         "vctrs"
     ],
-    "xlsx": [
-        "xlsxjars"
-    ],
+    "xlsx": [],
     "multcomp": [
         "TH.data",
         "sandwich",
         "survival"
     ],
-    "xlsxjars": [],
     "TH.data": [
         "survival"
     ],
