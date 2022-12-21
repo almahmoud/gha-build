@@ -86000,7 +86000,6 @@
         "yaml",
         "zlibbioc"
     ],
-    "MPFE": [],
     "mpra": [
         "Biobase",
         "BiocGenerics",
