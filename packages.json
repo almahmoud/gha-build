@@ -28150,7 +28150,6 @@
         "openssl",
         "vctrs"
     ],
-    "maCorrPlot": [],
     "MACSQuantifyR": [
         "RcppEigen",
         "bslib",
