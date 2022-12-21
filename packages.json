@@ -92051,7 +92051,6 @@
         "RcppArmadillo",
         "RcppParallel",
         "S4Vectors",
-        "SPAtest",
         "SeqArray",
         "XVector"
     ],
@@ -133837,7 +133836,6 @@
         "vctrs",
         "xfun"
     ],
-    "SPAtest": [],
     "excelR": [
         "bslib",
         "cachem",
