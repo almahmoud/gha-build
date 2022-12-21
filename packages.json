@@ -20131,7 +20131,6 @@
         "httr",
         "knitr",
         "lme4",
-        "maptools",
         "mgcv",
         "nloptr",
         "openssl",
@@ -60159,7 +60158,6 @@
     "robust": [
         "rrcov"
     ],
-    "maptools": [],
     "shinyHeatmaply": [
         "bslib",
         "cellranger",
