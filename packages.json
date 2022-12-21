@@ -84318,7 +84318,6 @@
         "RcppArmadillo",
         "RcppParallel",
         "additivityTests",
-        "akmbiclust",
         "biclust",
         "class",
         "cli",
@@ -169994,7 +169993,6 @@
         "sys",
         "xml2"
     ],
-    "akmbiclust": [],
     "gghalves": [
         "MASS",
         "Matrix",
