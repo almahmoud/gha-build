@@ -4333,7 +4333,6 @@
         "mgcv",
         "mia",
         "miniUI",
-        "mitools",
         "multtest",
         "nlme",
         "nloptr",
@@ -16091,7 +16090,6 @@
         "ggplot2",
         "lifecycle",
         "mgcv",
-        "mitools",
         "nlme",
         "patchwork",
         "pillar",
@@ -22279,7 +22277,6 @@
         "knitr",
         "lifecycle",
         "mgcv",
-        "mitools",
         "nlme",
         "openssl",
         "pillar",
@@ -44058,7 +44055,6 @@
         "igraph",
         "lifecycle",
         "mgcv",
-        "mitools",
         "multtest",
         "network",
         "nlme",
@@ -55557,7 +55553,6 @@
         "lifecycle",
         "locfit",
         "mgcv",
-        "mitools",
         "nlme",
         "openssl",
         "pillar",
@@ -74996,7 +74991,6 @@
     ],
     "survey": [
         "Matrix",
-        "mitools",
         "survival"
     ],
     "tokenizers": [],
@@ -75007,7 +75001,6 @@
     "ROI.plugin.lpsolve": [
         "ROI"
     ],
-    "mitools": [],
     "sjmisc": [
         "dplyr",
         "lifecycle",
@@ -80948,13 +80941,11 @@
     "ICSNP": [
         "ICS",
         "Matrix",
-        "mitools",
         "survey",
         "survival"
     ],
     "ICS": [
         "Matrix",
-        "mitools",
         "survey",
         "survival"
     ],
