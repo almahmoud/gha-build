@@ -15758,7 +15758,6 @@
         "Matrix",
         "MatrixGenerics",
         "RCurl",
-        "RMTstat",
         "RaggedExperiment",
         "Rhtslib",
         "Rsamtools",
@@ -73225,7 +73224,6 @@
         "Lmoments",
         "Matrix",
         "MatrixModels",
-        "RMTstat",
         "RcppArmadillo",
         "Rook",
         "edgeR",
@@ -96966,7 +96964,6 @@
         "quantreg",
         "survival"
     ],
-    "RMTstat": [],
     "phylolm": [
         "ape",
         "digest",
