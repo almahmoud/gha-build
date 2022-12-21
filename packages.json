@@ -4669,7 +4669,6 @@
         "Matrix",
         "RColorBrewer",
         "RcppEigen",
-        "RcppParallel",
         "StanHeaders",
         "callr",
         "checkmate",
@@ -4936,7 +4935,6 @@
         "RCurl",
         "RcppEigen",
         "RcppHNSW",
-        "RcppParallel",
         "Rhdf5lib",
         "S4Vectors",
         "ScaledMatrix",
@@ -13759,7 +13757,6 @@
         "RcppEigen",
         "RcppHNSW",
         "RcppML",
-        "RcppParallel",
         "ResidualMatrix",
         "Rhtslib",
         "Rsamtools",
@@ -19547,7 +19544,6 @@
         "RColorBrewer",
         "RCurl",
         "RSQLite",
-        "RcppParallel",
         "Rhdf5lib",
         "S4Vectors",
         "TTR",
@@ -20545,7 +20541,6 @@
         "RColorBrewer",
         "RCurl",
         "RcppEigen",
-        "RcppParallel",
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
@@ -21966,7 +21961,6 @@
         "Matrix",
         "MatrixExtra",
         "RColorBrewer",
-        "RcppParallel",
         "askpass",
         "bit64",
         "bslib",
@@ -23780,7 +23774,6 @@
     "diffuStats": [
         "Matrix",
         "RColorBrewer",
-        "RcppParallel",
         "checkmate",
         "expm",
         "ggplot2",
@@ -32453,7 +32446,6 @@
         "Matrix",
         "RColorBrewer",
         "RCurl",
-        "RcppParallel",
         "S4Vectors",
         "SeqArray",
         "XVector",
@@ -34579,7 +34571,6 @@
         "Matrix",
         "MatrixExtra",
         "RColorBrewer",
-        "RcppParallel",
         "askpass",
         "bit64",
         "bslib",
@@ -38670,9 +38661,7 @@
         "vctrs",
         "withr"
     ],
-    "HIBAG": [
-        "RcppParallel"
-    ],
+    "HIBAG": [],
     "HiCBricks": [
         "BiocGenerics",
         "BiocParallel",
@@ -40404,7 +40393,6 @@
         "RColorBrewer",
         "RCurl",
         "RcppEigen",
-        "RcppParallel",
         "S4Vectors",
         "StanHeaders",
         "SummarizedExperiment",
@@ -40523,7 +40511,6 @@
         "RCurl",
         "RSpectra",
         "RcppEigen",
-        "RcppParallel",
         "Rtsne",
         "S4Vectors",
         "SingleCellExperiment",
@@ -41074,7 +41061,6 @@
         "RCurl",
         "ROCR",
         "RcppEigen",
-        "RcppParallel",
         "Rtsne",
         "S4Vectors",
         "Seurat",
@@ -45055,7 +45041,6 @@
         "Matrix",
         "RColorBrewer",
         "RcppEigen",
-        "RcppParallel",
         "StanHeaders",
         "bbmle",
         "bslib",
@@ -51664,7 +51649,6 @@
         "RColorBrewer",
         "RSpectra",
         "RcppEigen",
-        "RcppParallel",
         "apcluster",
         "biganalytics",
         "bigmemory",
@@ -54096,7 +54080,6 @@
         "Matrix",
         "QUBIC",
         "RColorBrewer",
-        "RcppParallel",
         "biclust",
         "class",
         "dplyr",
@@ -58353,7 +58336,6 @@
         "RCurl",
         "RSQLite",
         "RcppEigen",
-        "RcppParallel",
         "S4Vectors",
         "WGCNA",
         "XVector",
@@ -61409,7 +61391,6 @@
         "Matrix",
         "RCurl",
         "RSQLite",
-        "RcppParallel",
         "S4Vectors",
         "XVector",
         "ape",
@@ -61492,7 +61473,6 @@
     "oppti": [
         "Matrix",
         "RColorBrewer",
-        "RcppParallel",
         "askpass",
         "brio",
         "bslib",
@@ -65704,7 +65684,6 @@
         "Matrix",
         "RColorBrewer",
         "RcppEigen",
-        "RcppParallel",
         "StanHeaders",
         "abind",
         "arrayhelpers",
@@ -69635,7 +69614,6 @@
         "RColorBrewer",
         "RCurl",
         "RcppEigen",
-        "RcppParallel",
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
@@ -72539,7 +72517,6 @@
         "RCurl",
         "RSQLite",
         "RcppEigen",
-        "RcppParallel",
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
@@ -76157,7 +76134,6 @@
         "GenomicRanges",
         "IRanges",
         "RCurl",
-        "RcppParallel",
         "S4Vectors",
         "SeqArray",
         "XVector"
@@ -77432,7 +77408,6 @@
         "RCurl",
         "RSQLite",
         "RcppEigen",
-        "RcppParallel",
         "Rhdf5lib",
         "S4Vectors",
         "SingleCellExperiment",
@@ -77516,7 +77491,6 @@
         "RColorBrewer",
         "RCurl",
         "RcppEigen",
-        "RcppParallel",
         "S4Vectors",
         "SeuratObject",
         "SingleCellExperiment",
@@ -77975,7 +77949,6 @@
         "RCurl",
         "RSQLite",
         "RcppEigen",
-        "RcppParallel",
         "S4Vectors",
         "SQUAREM",
         "SingleCellExperiment",
@@ -78389,7 +78362,6 @@
         "RColorBrewer",
         "RCurl",
         "RcppEigen",
-        "RcppParallel",
         "S4Vectors",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -78465,7 +78437,6 @@
         "RColorBrewer",
         "RCurl",
         "RcppEigen",
-        "RcppParallel",
         "S4Vectors",
         "SingleCellExperiment",
         "StanHeaders",
@@ -82010,7 +81981,6 @@
         "Matrix",
         "RColorBrewer",
         "RCurl",
-        "RcppParallel",
         "Rhdf5lib",
         "S4Vectors",
         "SummarizedExperiment",
@@ -82209,7 +82179,6 @@
         "RColorBrewer",
         "RCurl",
         "RSQLite",
-        "RcppParallel",
         "S4Vectors",
         "XVector",
         "askpass",
@@ -82410,7 +82379,6 @@
         "RcppEigen",
         "RcppHNSW",
         "RcppML",
-        "RcppParallel",
         "ResidualMatrix",
         "Rhdf5lib",
         "Rhtslib",
@@ -90334,7 +90302,6 @@
         "RColorBrewer",
         "RCurl",
         "RSQLite",
-        "RcppParallel",
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
@@ -92377,7 +92344,6 @@
         "Matrix",
         "MatrixExtra",
         "RColorBrewer",
-        "RcppParallel",
         "bit64",
         "bslib",
         "downloader",
@@ -93261,7 +93227,6 @@
         "RcppEigen",
         "RcppHNSW",
         "RcppML",
-        "RcppParallel",
         "Rtsne",
         "S4Vectors",
         "ScaledMatrix",
@@ -94249,7 +94214,6 @@
         "RCurl",
         "RSQLite",
         "RcppEigen",
-        "RcppParallel",
         "S4Vectors",
         "XVector",
         "annotate",
@@ -99592,7 +99556,6 @@
         "Matrix",
         "RColorBrewer",
         "RcppEigen",
-        "RcppParallel",
         "StanHeaders",
         "callr",
         "checkmate",
@@ -99620,10 +99583,8 @@
     ],
     "StanHeaders": [
         "Matrix",
-        "RcppEigen",
-        "RcppParallel"
+        "RcppEigen"
     ],
-    "RcppParallel": [],
     "loo": [
         "checkmate"
     ],
@@ -99754,7 +99715,6 @@
         "xfun"
     ],
     "rstantools": [
-        "RcppParallel",
         "desc",
         "rprojroot"
     ],
@@ -103034,7 +102994,6 @@
     ],
     "qs": [
         "RApiSerialize",
-        "RcppParallel",
         "stringfish"
     ],
     "rlist": [
@@ -103060,9 +103019,7 @@
         "withr"
     ],
     "RApiSerialize": [],
-    "stringfish": [
-        "RcppParallel"
-    ],
+    "stringfish": [],
     "fresh": [
         "bslib",
         "fs",
@@ -104563,7 +104520,6 @@
     ],
     "textstem": [
         "Matrix",
-        "RcppParallel",
         "dplyr",
         "hunspell",
         "koRpus",
@@ -104628,7 +104584,6 @@
     ],
     "quanteda": [
         "Matrix",
-        "RcppParallel",
         "magrittr",
         "stopwords",
         "stringi"
@@ -106381,9 +106336,7 @@
         "vctrs",
         "withr"
     ],
-    "parallelDist": [
-        "RcppParallel"
-    ],
+    "parallelDist": [],
     "concaveman": [
         "V8",
         "class",
@@ -106740,7 +106693,6 @@
         "Matrix",
         "RColorBrewer",
         "RcppEigen",
-        "RcppParallel",
         "StanHeaders",
         "callr",
         "checkmate",
@@ -106773,7 +106725,6 @@
         "Matrix",
         "RColorBrewer",
         "RcppEigen",
-        "RcppParallel",
         "StanHeaders",
         "callr",
         "checkmate",
@@ -110150,8 +110101,7 @@
         "gsl"
     ],
     "proxyC": [
-        "Matrix",
-        "RcppParallel"
+        "Matrix"
     ],
     "extRemes": [],
     "torch": [
@@ -111409,7 +111359,6 @@
         "LambertW",
         "Matrix",
         "RColorBrewer",
-        "RcppParallel",
         "SQUAREM",
         "butcher",
         "class",
@@ -111490,7 +111439,6 @@
     "LambertW": [
         "Matrix",
         "RColorBrewer",
-        "RcppParallel",
         "ggplot2",
         "gtable",
         "isoband",
@@ -111548,9 +111496,7 @@
         "vroom",
         "withr"
     ],
-    "lamW": [
-        "RcppParallel"
-    ],
+    "lamW": [],
     "animation": [
         "magick",
         "magrittr"
