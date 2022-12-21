@@ -6150,7 +6150,6 @@
         "metapod",
         "mgcv",
         "mime",
-        "miscTools",
         "munsell",
         "nlme",
         "openssl",
@@ -27000,7 +26999,6 @@
         "gamlss.dist",
         "lattice",
         "maxLik",
-        "miscTools",
         "nlme",
         "pscl",
         "sandwich",
@@ -38683,7 +38681,6 @@
         "mgcv",
         "mime",
         "minqa",
-        "miscTools",
         "munsell",
         "nlme",
         "nloptr",
@@ -49571,7 +49568,6 @@
         "mime",
         "miniUI",
         "minqa",
-        "miscTools",
         "mixtools",
         "munsell",
         "nlme",
@@ -117196,7 +117192,6 @@
     "DirichletReg": [
         "lattice",
         "maxLik",
-        "miscTools",
         "sandwich",
         "zoo"
     ],
@@ -117205,11 +117200,9 @@
     ],
     "maxLik": [
         "lattice",
-        "miscTools",
         "sandwich",
         "zoo"
     ],
-    "miscTools": [],
     "BB": [],
     "rjags": [
         "coda",
