@@ -3894,7 +3894,6 @@
         "xfun",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "aroma.light": [
@@ -4427,7 +4426,6 @@
         "withr",
         "xfun",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "ASEB": [],
@@ -9573,8 +9571,7 @@
         "usethis",
         "vctrs",
         "withr",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "BiocVersion": [],
     "biocViews": [
@@ -9627,8 +9624,7 @@
         "vctrs",
         "withr",
         "xfun",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "biodb": [
         "BiocFileCache",
@@ -13334,7 +13330,6 @@
         "xml2",
         "xopen",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "bumphunter": [
@@ -15064,7 +15059,6 @@
         "xfun",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "CBEA": [
@@ -19554,7 +19548,6 @@
         "vctrs",
         "withr",
         "xml2",
-        "zip",
         "zlibbioc"
     ],
     "cicero": [
@@ -21889,7 +21882,6 @@
         "viridisLite",
         "waldo",
         "withr",
-        "zip",
         "zlibbioc"
     ],
     "CNVRanger": [
@@ -22468,8 +22460,7 @@
         "xfun",
         "xml2",
         "xopen",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "cogeqc": [
         "BiocGenerics",
@@ -23643,8 +23634,7 @@
         "vroom",
         "withr",
         "xfun",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "conclus": [
         "AnnotationDbi",
@@ -26319,7 +26309,6 @@
         "xml2",
         "yaml",
         "zeallot",
-        "zip",
         "zlibbioc"
     ],
     "CrispRVariants": [
@@ -29257,7 +29246,6 @@
         "xfun",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "dcanr": [
@@ -29607,7 +29595,6 @@
         "withr",
         "xfun",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "dearseq": [
@@ -33597,7 +33584,6 @@
         "xfun",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "distinct": [
@@ -41845,8 +41831,7 @@
         "uuid",
         "vctrs",
         "viridisLite",
-        "withr",
-        "zip"
+        "withr"
     ],
     "FELLA": [
         "BiocGenerics",
@@ -44808,7 +44793,6 @@
         "xfun",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "gaga": [
@@ -45374,8 +45358,7 @@
         "xfun",
         "xml2",
         "xopen",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "GDCRNATools": [
         "AnnotationDbi",
@@ -47962,7 +47945,6 @@
         "xfun",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "GenomicTuples": [
@@ -51465,7 +51447,6 @@
         "xfun",
         "xml2",
         "yaml",
-        "zip",
         "zoo"
     ],
     "graper": [
@@ -52542,7 +52523,6 @@
         "xml2",
         "yaml",
         "zeallot",
-        "zip",
         "zlibbioc"
     ],
     "Guitar": [
@@ -54718,8 +54698,7 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "xml2",
-        "zip"
+        "xml2"
     ],
     "HPAStainR": [
         "RColorBrewer",
@@ -55067,8 +55046,7 @@
         "withr",
         "xml2",
         "yaml",
-        "yesno",
-        "zip"
+        "yesno"
     ],
     "HumanTranscriptomeCompendium": [
         "Biobase",
@@ -55233,8 +55211,7 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "hyperdraw": [
         "BiocGenerics",
@@ -57030,8 +57007,7 @@
         "xfun",
         "xml2",
         "xopen",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "infercnv": [
         "Biobase",
@@ -58108,7 +58084,6 @@
         "xfun",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "IntEREst": [
@@ -58979,8 +58954,7 @@
         "withr",
         "writexl",
         "xfun",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "iSEE": [
         "Biobase",
@@ -61432,7 +61406,6 @@
         "withr",
         "xfun",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "Linnorm": [
@@ -66061,7 +66034,6 @@
         "withr",
         "xfun",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "MEIGOR": [
@@ -66291,7 +66263,6 @@
         "withr",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "Mergeomics": [],
@@ -69138,7 +69109,6 @@
         "xopen",
         "xts",
         "yaml",
-        "zip",
         "zlibbioc",
         "zoo"
     ],
@@ -70038,8 +70008,7 @@
         "xfun",
         "xml2",
         "xopen",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "MetNet": [
         "Biobase",
@@ -71244,7 +71213,6 @@
         "xfun",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "MicrobiotaProcess": [
@@ -78638,7 +78606,6 @@
         "xml2",
         "xopen",
         "yaml",
-        "zip",
         "zlibbioc",
         "zoo"
     ],
@@ -80202,7 +80169,6 @@
         "xfun",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "NanoTube": [
@@ -83256,7 +83222,6 @@
         "xfun",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "odseq": [
@@ -84367,7 +84332,6 @@
         "xfun",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc",
         "zoo"
     ],
@@ -85011,7 +84975,6 @@
         "withr",
         "xfun",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "openPrimeRui": [
@@ -85121,7 +85084,6 @@
         "withr",
         "xfun",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "OpenStats": [
@@ -85457,8 +85419,7 @@
         "xfun",
         "xml2",
         "xopen",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "optimalFlow": [
         "Biobase",
@@ -87295,7 +87256,6 @@
         "xml2",
         "xopen",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "pathRender": [
@@ -88622,7 +88582,6 @@
         "xfun",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "PharmacoGx": [
@@ -89888,7 +89847,6 @@
         "withr",
         "xfun",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "PING": [
@@ -90379,7 +90337,6 @@
         "survival",
         "sys",
         "vctrs",
-        "zip",
         "zlibbioc"
     ],
     "plotgardener": [
@@ -101516,7 +101473,6 @@
         "xfun",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "Risa": [
@@ -102232,7 +102188,6 @@
         "xml2",
         "xopen",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "rmspc": [
@@ -105974,7 +105929,6 @@
         "xfun",
         "yaml",
         "zeallot",
-        "zip",
         "zlibbioc"
     ],
     "sangerseqR": [
@@ -112185,7 +112139,6 @@
         "vctrs",
         "viridisLite",
         "withr",
-        "zip",
         "zlibbioc"
     ],
     "sevenbridges": [
@@ -112510,7 +112463,6 @@
         "xfun",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "shinyMethyl": [
@@ -112952,7 +112904,6 @@
         "scales",
         "stringi",
         "viridisLite",
-        "zip",
         "zlibbioc"
     ],
     "SigFuge": [
@@ -119224,7 +119175,6 @@
         "xml2",
         "xopen",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "sscore": [
@@ -121622,8 +121572,7 @@
         "lattice",
         "openxlsx",
         "proxy",
-        "stringi",
-        "zip"
+        "stringi"
     ],
     "swfdr": [],
     "switchBox": [
@@ -122936,7 +122885,6 @@
         "withr",
         "xfun",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "TBSignatureProfiler": [
@@ -126105,8 +126053,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "TPP2D": [
         "BiocParallel",
@@ -126149,8 +126096,7 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "withr",
-        "zip"
+        "withr"
     ],
     "tracktables": [
         "BiocGenerics",
@@ -127835,8 +127781,7 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "tRNA": [
         "BiocGenerics",
@@ -129106,7 +129051,6 @@
         "xfun",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "UNDO": [
@@ -132054,7 +131998,6 @@
         "xfun",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "wppi": [
@@ -137255,10 +137198,8 @@
         "zlibbioc"
     ],
     "openxlsx": [
-        "stringi",
-        "zip"
+        "stringi"
     ],
-    "zip": [],
     "crul": [
         "curl",
         "httpcode",
@@ -139974,8 +139915,7 @@
         "rprojroot",
         "sys",
         "withr",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "gert": [
         "askpass",
@@ -139983,8 +139923,7 @@
         "curl",
         "jsonlite",
         "openssl",
-        "sys",
-        "zip"
+        "sys"
     ],
     "credentials": [
         "askpass",
@@ -141267,8 +141206,7 @@
         "xfun",
         "xml2",
         "xopen",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "pkgdown": [
         "askpass",
@@ -143903,8 +143841,7 @@
         "utf8",
         "vctrs",
         "vroom",
-        "withr",
-        "zip"
+        "withr"
     ],
     "factoextra": [
         "DT",
@@ -145446,8 +145383,7 @@
         "vctrs",
         "waldo",
         "withr",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "metap": [
         "Biobase",
@@ -147475,13 +147411,11 @@
         "vctrs",
         "xfun",
         "xml2",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "officer": [
         "uuid",
-        "xml2",
-        "zip"
+        "xml2"
     ],
     "gdtools": [
         "cpp11",
@@ -147903,7 +147837,6 @@
         "xfun",
         "xml2",
         "yaml",
-        "zip",
         "zoo"
     ],
     "dtangle": [
@@ -148430,8 +148363,7 @@
         "withr",
         "xfun",
         "xml2",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "shinyalert": [
         "bslib",
@@ -148613,8 +148545,7 @@
         "withr",
         "writexl",
         "xfun",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "phosphoricons": [
         "digest",
@@ -151037,8 +150968,7 @@
         "xfun",
         "xml2",
         "xopen",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "googleAuthR": [
         "askpass",
@@ -152200,8 +152130,7 @@
         "vctrs",
         "webutils",
         "xfun",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "webutils": [
         "curl",
@@ -156011,8 +155940,7 @@
         "viridisLite",
         "withr",
         "xfun",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "shinyTree": [
         "bslib",
