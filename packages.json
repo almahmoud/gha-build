@@ -8958,7 +8958,6 @@
         "kernlab",
         "knitr",
         "lifecycle",
-        "matrixcalc",
         "memoise",
         "mgcv",
         "munsell",
@@ -22631,7 +22630,6 @@
         "lambda.r",
         "lifecycle",
         "locfit",
-        "matrixcalc",
         "memoise",
         "mgcv",
         "munsell",
@@ -44947,7 +44945,6 @@
         "ggplot2",
         "here",
         "lifecycle",
-        "matrixcalc",
         "mgcv",
         "munsell",
         "nlme",
@@ -47539,7 +47536,6 @@
         "kernlab",
         "knitr",
         "lifecycle",
-        "matrixcalc",
         "memoise",
         "mgcv",
         "munsell",
@@ -100964,7 +100960,6 @@
         "plotmo",
         "plotrix"
     ],
-    "matrixcalc": [],
     "plotmo": [
         "TeachingDemos",
         "plotrix"
