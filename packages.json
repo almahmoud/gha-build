@@ -3593,7 +3593,6 @@
         "pkgconfig",
         "plotly",
         "promises",
-        "ptw",
         "purrr",
         "qqman",
         "reshape2",
@@ -70436,7 +70435,6 @@
         "nlme",
         "pillar",
         "pkgconfig",
-        "ptw",
         "reshape2",
         "scales",
         "stringi",
@@ -109666,7 +109664,6 @@
         "vctrs",
         "withr"
     ],
-    "ptw": [],
     "qqman": [
         "calibrate"
     ],
