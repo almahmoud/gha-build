@@ -46856,7 +46856,6 @@
         "callr",
         "car",
         "cowplot",
-        "doMC",
         "dplyr",
         "egg",
         "ggplot2",
@@ -69879,7 +69878,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "doMC": [],
     "nls2": [],
     "valr": [
         "BiocIO",
