@@ -13221,7 +13221,6 @@
         "progress",
         "purrr",
         "qpgraph",
-        "qtl",
         "restfulr",
         "rtracklayer",
         "stringi",
@@ -61274,7 +61273,6 @@
         "pkgconfig",
         "progress",
         "purrr",
-        "qtl",
         "restfulr",
         "rtracklayer",
         "stringi",
@@ -82435,7 +82433,6 @@
         "openssl",
         "pillar",
         "pkgconfig",
-        "qtl",
         "qvalue",
         "reshape2",
         "scales",
@@ -92191,7 +92188,6 @@
         "igraph",
         "pkgconfig"
     ],
-    "qtl": [],
     "phylobase": [
         "RNeXML",
         "ade4",
