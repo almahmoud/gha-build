@@ -1680,7 +1680,6 @@
         "sass",
         "scales",
         "scater",
-        "scs",
         "scuttle",
         "sitmo",
         "sparseMatrixStats",
@@ -5719,7 +5718,6 @@
         "scales",
         "scater",
         "scattermore",
-        "scs",
         "sctransform",
         "scuttle",
         "shiny",
@@ -50979,7 +50977,6 @@
         "sass",
         "scales",
         "scater",
-        "scs",
         "scuttle",
         "shiny",
         "sitmo",
@@ -97041,8 +97038,7 @@
         "RcppEigen",
         "Rmpfr",
         "bit64",
-        "osqp",
-        "scs"
+        "osqp"
     ],
     "DescTools": [
         "Exact",
@@ -97107,7 +97103,6 @@
         "withr"
     ],
     "Rmpfr": [],
-    "scs": [],
     "osqp": [
         "Matrix"
     ],
