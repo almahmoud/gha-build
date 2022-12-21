@@ -10350,7 +10350,6 @@
         "permute",
         "pheatmap",
         "pillar",
-        "pinfsc50",
         "pkgconfig",
         "plogr",
         "progress",
@@ -45514,7 +45513,6 @@
         "openssl",
         "permute",
         "pillar",
-        "pinfsc50",
         "pkgconfig",
         "plogr",
         "progress",
@@ -101482,7 +101480,6 @@
         "nlme",
         "permute",
         "pillar",
-        "pinfsc50",
         "pkgconfig",
         "stringi",
         "stringr",
@@ -101492,7 +101489,6 @@
         "vegan",
         "withr"
     ],
-    "pinfsc50": [],
     "sqldf": [
         "RSQLite",
         "bit64",
