@@ -1156,7 +1156,6 @@
         "plogr",
         "rlang",
         "sys",
-        "tkrplot",
         "vctrs",
         "xtable",
         "zlibbioc"
@@ -15505,7 +15504,6 @@
         "tibble",
         "tidyselect",
         "tinytex",
-        "tkrplot",
         "utf8",
         "vctrs",
         "viridis",
@@ -49590,7 +49588,6 @@
     "genArise": [
         "lattice",
         "locfit",
-        "tkrplot",
         "xtable"
     ],
     "genbankr": [
@@ -66332,7 +66329,6 @@
     "limmaGUI": [
         "R2HTML",
         "limma",
-        "tkrplot",
         "xtable"
     ],
     "LineagePulse": [
@@ -146171,7 +146167,6 @@
     "prettyunits": [],
     "rjson": [],
     "deldir": [],
-    "tkrplot": [],
     "R2HTML": [],
     "e1071": [
         "MASS",
