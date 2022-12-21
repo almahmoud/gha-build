@@ -8616,7 +8616,6 @@
         "rhdf5"
     ],
     "cogena": [
-        "biwt",
         "bslib",
         "credentials",
         "devtools",
@@ -12776,7 +12775,6 @@
         "IRanges"
     ],
     "discordant": [
-        "biwt",
         "dplyr",
         "pillar",
         "tibble",
@@ -54325,7 +54323,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "biwt": [],
     "cobs": [
         "quantreg",
         "survival"
