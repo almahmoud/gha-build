@@ -15684,7 +15684,6 @@
     ],
     "cola": [
         "ComplexHeatmap",
-        "GenSA",
         "IRanges",
         "Matrix",
         "RColorBrewer",
@@ -77223,7 +77222,6 @@
         "BiocParallel",
         "Biostrings",
         "DelayedArray",
-        "GenSA",
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "GenomicAlignments",
@@ -99122,10 +99120,8 @@
         "slam"
     ],
     "eulerr": [
-        "GenSA",
         "polylabelr"
     ],
-    "GenSA": [],
     "polylabelr": [],
     "cobs": [
         "Matrix",
