@@ -10520,7 +10520,6 @@
         "XVector",
         "annotate",
         "blob",
-        "compositions",
         "edgeR",
         "geneplotter",
         "ggplot2",
@@ -29371,7 +29370,6 @@
         "ade4",
         "ape",
         "biomformat",
-        "compositions",
         "dplyr",
         "ggplot2",
         "igraph",
@@ -34858,7 +34856,6 @@
         "SummarizedExperiment",
         "XVector",
         "bslib",
-        "compositions",
         "htmlwidgets",
         "httpuv",
         "knitr",
@@ -45417,7 +45414,6 @@
         "biomaRt",
         "blob",
         "bslib",
-        "compositions",
         "dbplyr",
         "dplyr",
         "edgeR",
@@ -59402,7 +59398,6 @@
     "HTSCluster": [
         "edgeR"
     ],
-    "compositions": [],
     "faahKO": [
         "DelayedArray",
         "GenomeInfoDb",
