@@ -34514,7 +34514,6 @@
         "survcomp",
         "survival",
         "survminer",
-        "switchBox",
         "testthat",
         "tibble",
         "tidyr",
@@ -47807,7 +47806,6 @@
         "vctrs"
     ],
     "SwathXtend": [],
-    "switchBox": [],
     "switchde": [
         "DelayedArray",
         "GenomeInfoDb",
