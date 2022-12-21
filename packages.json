@@ -251,7 +251,6 @@
         "tidyselect"
     ],
     "affy": [],
-    "affycomp": [],
     "AffyCompatible": [
         "Biostrings",
         "GenomeInfoDb",
