@@ -44276,7 +44276,6 @@
         "vsn",
         "webchem"
     ],
-    "rmelting": [],
     "Rmmquant": [
         "AnnotationDbi",
         "BiocFileCache",
