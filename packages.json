@@ -990,7 +990,6 @@
         "RSpectra",
         "RcppEigen",
         "askpass",
-        "baseline",
         "bslib",
         "cellranger",
         "doRNG",
@@ -42977,7 +42976,6 @@
         "ade4",
         "annotate",
         "askpass",
-        "baseline",
         "biomaRt",
         "biovizBase",
         "blob",
@@ -72674,7 +72672,6 @@
         "tibble",
         "vctrs"
     ],
-    "baseline": [],
     "rARPACK": [
         "Matrix",
         "RSpectra",
