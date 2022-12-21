@@ -173,8 +173,8 @@ jobs:
         run: |
           mkdir -p /tmp/logs/sizes/rstudio-binaries/libraries
           mkdir -p /tmp/logs/sizes/rstudio-binaries/binaries
-          wc -c "${{steps.tar.outputs.name}}" > /tmp/logs/sizes/rstudio-binaries/libraries/$PKG
-          wc -c "/tmp/tars/${{steps.tar.outputs.pkg}}" > /tmp/logs/sizes/rstudio-binaries/binaries/$PKG
+          wc -c "${{steps.tar.outputs.name}}" > /tmp/logs/sizes/rstudio-binaries/libraries/${{ matrix.pkg }}
+          wc -c "/tmp/tars/${{steps.tar.outputs.pkg}}" > /tmp/logs/sizes/rstudio-binaries/binaries/${{ matrix.pkg }}
 
 
       - name: Push failed before exit
