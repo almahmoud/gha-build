@@ -8150,7 +8150,6 @@
     ],
     "ChIPXpress": [
         "Biostrings",
-        "ChIPXpressData",
         "DelayedArray",
         "GEOquery",
         "GenomeInfoDb",
@@ -60813,7 +60812,6 @@
     "mixsqp": [
         "irlba"
     ],
-    "ChIPXpressData": [],
     "shinyhelper": [
         "bslib",
         "httpuv",
