@@ -17242,7 +17242,6 @@
         "isoband",
         "jsonlite",
         "knitr",
-        "kohonen",
         "later",
         "lifecycle",
         "magrittr",
@@ -110664,7 +110663,6 @@
     "princurve": [],
     "bezier": [],
     "brglm": [],
-    "kohonen": [],
     "biwt": [
         "DEoptimR",
         "robustbase"
