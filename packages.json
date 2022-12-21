@@ -14845,7 +14845,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "SuppDists",
         "XVector",
         "beachmat",
         "cli",
@@ -22122,7 +22121,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "SuppDists",
         "XVector",
         "annotate",
         "askpass",
@@ -41984,7 +41982,6 @@
         "RSQLite",
         "S4Vectors",
         "SQUAREM",
-        "SuppDists",
         "XVector",
         "askpass",
         "biomaRt",
@@ -61714,7 +61711,6 @@
         "SQUAREM",
         "ShortRead",
         "SummarizedExperiment",
-        "SuppDists",
         "TSP",
         "VennDiagram",
         "XVector",
@@ -79856,7 +79852,6 @@
         "SQUAREM",
         "SparseM",
         "SummarizedExperiment",
-        "SuppDists",
         "XVector",
         "abind",
         "askpass",
@@ -80846,7 +80841,6 @@
         "Rmpfr",
         "S4Vectors",
         "SummarizedExperiment",
-        "SuppDists",
         "VennDiagram",
         "XVector",
         "askpass",
@@ -103108,7 +103102,6 @@
         "S4Vectors",
         "SparseM",
         "SummarizedExperiment",
-        "SuppDists",
         "VariantAnnotation",
         "XVector",
         "abind",
@@ -103309,7 +103302,6 @@
         "SingleCellExperiment",
         "SparseM",
         "SummarizedExperiment",
-        "SuppDists",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "XVector",
@@ -110409,7 +110401,6 @@
     "survcomp": [
         "Matrix",
         "SQUAREM",
-        "SuppDists",
         "bootstrap",
         "class",
         "digest",
@@ -120782,7 +120773,6 @@
         "S4Vectors",
         "SomaticSignatures",
         "SummarizedExperiment",
-        "SuppDists",
         "VariantAnnotation",
         "XVector",
         "askpass",
@@ -129325,10 +129315,7 @@
     "magic": [
         "abind"
     ],
-    "kSamples": [
-        "SuppDists"
-    ],
-    "SuppDists": [],
+    "kSamples": [],
     "cba": [
         "proxy"
     ],
@@ -138797,7 +138784,6 @@
     "PMCMRplus": [
         "BWStest",
         "Rmpfr",
-        "SuppDists",
         "cachem",
         "kSamples",
         "memoise"
