@@ -24367,7 +24367,6 @@
         "gtable",
         "gtools",
         "hms",
-        "howmany",
         "httr",
         "irlba",
         "isoband",
@@ -95907,7 +95906,6 @@
         "gtable",
         "gtools",
         "hms",
-        "howmany",
         "httr",
         "irlba",
         "isoband",
@@ -168688,7 +168686,6 @@
         "rlang"
     ],
     "qtl": [],
-    "howmany": [],
     "locfdr": [],
     "phylobase": [
         "MASS",
