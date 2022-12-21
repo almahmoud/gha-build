@@ -7324,7 +7324,6 @@
         "askpass",
         "bit64",
         "blob",
-        "bmp",
         "bslib",
         "cachem",
         "checkmate",
@@ -17015,7 +17014,6 @@
         "Rgraphviz",
         "S4Vectors",
         "TH.data",
-        "bmp",
         "bslib",
         "cachem",
         "changepoint",
@@ -70357,7 +70355,6 @@
         "askpass",
         "bit64",
         "blob",
-        "bmp",
         "bslib",
         "cachem",
         "crosstalk",
@@ -83494,7 +83491,6 @@
         "beachmat",
         "bit64",
         "blob",
-        "bmp",
         "bslib",
         "caTools",
         "cachem",
@@ -98197,7 +98193,6 @@
     ],
     "imager": [
         "Matrix",
-        "bmp",
         "digest",
         "downloader",
         "igraph",
@@ -98212,7 +98207,6 @@
         "xlsxjars"
     ],
     "readbitmap": [
-        "bmp",
         "jpeg"
     ],
     "multcomp": [
@@ -98228,7 +98222,6 @@
         "Matrix",
         "survival"
     ],
-    "bmp": [],
     "latex2exp": [
         "lifecycle",
         "stringr",
