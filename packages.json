@@ -15368,7 +15368,6 @@
         "tensor",
         "textshaping",
         "tibble",
-        "tictoc",
         "tidyr",
         "tidyselect",
         "tinytex",
@@ -29899,7 +29898,6 @@
         "scales",
         "sys",
         "tibble",
-        "tictoc",
         "vctrs",
         "viridisLite",
         "withr"
@@ -42102,7 +42100,6 @@
         "textclean",
         "textshape",
         "tibble",
-        "tictoc",
         "tidygraph",
         "tidyr",
         "tidyselect",
@@ -135876,7 +135873,6 @@
     "Ckmeans.1d.dp": [
         "Rdpack"
     ],
-    "tictoc": [],
     "mvoutlier": [
         "DEoptimR",
         "robustbase",
