@@ -62043,7 +62043,6 @@
         "RColorBrewer",
         "RCurl",
         "RSQLite",
-        "RTriangle",
         "Rcpp",
         "RcppArmadillo",
         "RcppEigen",
@@ -162931,7 +162930,6 @@
         "RcppArmadillo",
         "RcppParallel"
     ],
-    "RTriangle": [],
     "concaveman": [
         "DBI",
         "KernSmooth",
