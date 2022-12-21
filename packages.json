@@ -11785,7 +11785,6 @@
         "pillar",
         "repr",
         "survival",
-        "uchardet",
         "vctrs",
         "zlibbioc"
     ],
@@ -13573,7 +13572,6 @@
         "tidytree",
         "treeio",
         "tweenr",
-        "uchardet",
         "vctrs",
         "viridis",
         "viridisLite",
@@ -24411,7 +24409,6 @@
         "repr",
         "robustbase",
         "rrcov",
-        "uchardet",
         "vctrs"
     ],
     "DEGreport": [
@@ -32981,7 +32978,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "uchardet",
         "vctrs",
         "viridisLite",
         "zip"
@@ -53039,7 +53035,6 @@
         "tidytree",
         "treeio",
         "tweenr",
-        "uchardet",
         "vctrs",
         "viridis",
         "viridisLite",
@@ -58521,7 +58516,6 @@
         "pillar",
         "repr",
         "stringr",
-        "uchardet",
         "vctrs"
     ],
     "mogsa": [
@@ -63123,7 +63117,6 @@
         "openssl",
         "pillar",
         "repr",
-        "uchardet",
         "vctrs"
     ],
     "ncRNAtools": [
@@ -64245,7 +64238,6 @@
         "tidyr",
         "tidyselect",
         "tzdb",
-        "uchardet",
         "vctrs",
         "vegan",
         "viridisLite",
@@ -76526,7 +76518,6 @@
         "openssl",
         "pillar",
         "repr",
-        "uchardet",
         "vctrs"
     ],
     "RCyjs": [
@@ -77716,7 +77707,6 @@
         "tibble",
         "tidyselect",
         "tinytex",
-        "uchardet",
         "vctrs",
         "viridis",
         "viridisLite",
@@ -98063,7 +98053,6 @@
         "tkWidgets",
         "treeio",
         "tweenr",
-        "uchardet",
         "vctrs",
         "viridis",
         "viridisLite",
@@ -99469,7 +99458,6 @@
         "repr",
         "tibble",
         "tidyselect",
-        "uchardet",
         "vctrs",
         "zlibbioc"
     ],
@@ -110553,7 +110541,6 @@
         "yaml",
         "zoo"
     ],
-    "uchardet": [],
     "base64url": [],
     "IRkernel": [
         "IRdisplay",
