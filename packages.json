@@ -57344,7 +57344,6 @@
         "plyr",
         "robustbase",
         "scales",
-        "svDialogs",
         "tibble",
         "vctrs",
         "vsn",
@@ -128775,7 +128774,6 @@
         "vctrs",
         "withr"
     ],
-    "svDialogs": [],
     "EnsDb.Hsapiens.v75": [
         "AnnotationDbi",
         "AnnotationFilter",
