@@ -43613,7 +43613,6 @@
         "affy",
         "affyio"
     ],
-    "FScanR": [],
     "FunChIP": [
         "Biobase",
         "BiocGenerics",
