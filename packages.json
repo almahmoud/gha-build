@@ -19943,8 +19943,7 @@
         "Mfuzz",
         "class",
         "e1071",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "cydar": [
         "Biobase",
@@ -50294,8 +50293,7 @@
         "BiocGenerics",
         "class",
         "e1071",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "MGFM": [
         "AnnotationDbi",
@@ -59902,8 +59900,7 @@
         "OLIN",
         "locfit",
         "marray",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "omada": [
         "Biobase",
@@ -89764,7 +89761,6 @@
         "tweenr",
         "vctrs",
         "viridis",
-        "widgetTools",
         "withr"
     ],
     "TIN": [
@@ -89937,9 +89933,7 @@
         "vctrs",
         "withr"
     ],
-    "tkWidgets": [
-        "widgetTools"
-    ],
+    "tkWidgets": [],
     "tLOH": [
         "AnnotationDbi",
         "BSgenome",
@@ -94662,7 +94656,6 @@
         "vctrs",
         "withr"
     ],
-    "widgetTools": [],
     "wiggleplotr": [
         "Biobase",
         "BiocGenerics",
