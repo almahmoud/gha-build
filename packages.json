@@ -76341,8 +76341,7 @@
         "RCurl",
         "S4Vectors",
         "SummarizedExperiment",
-        "XVector",
-        "smoothie"
+        "XVector"
     ],
     "ScaledMatrix": [
         "BiocGenerics",
@@ -109829,7 +109828,6 @@
         "vctrs",
         "xfun"
     ],
-    "smoothie": [],
     "scanMiRData": [
         "BiocGenerics",
         "BiocParallel",
