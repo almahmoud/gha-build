@@ -11257,7 +11257,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "DFP": [],
     "DIAlignR": [
         "RSQLite",
         "blob",
