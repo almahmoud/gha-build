@@ -28772,7 +28772,6 @@
         "diffobj",
         "dplyr",
         "ellipsis",
-        "fit.models",
         "forcats",
         "future",
         "future.apply",
@@ -86828,7 +86827,6 @@
     "gdtools": [],
     "word2vec": [],
     "robust": [
-        "fit.models",
         "pcaPP",
         "robustbase",
         "rrcov"
@@ -86836,7 +86834,6 @@
     "roptim": [
         "RcppArmadillo"
     ],
-    "fit.models": [],
     "maptools": [
         "sp"
     ],
