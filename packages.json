@@ -5271,7 +5271,6 @@
     "BiGGR": [
         "LIM",
         "Rgraphviz",
-        "diagram",
         "graph",
         "hyperdraw",
         "hypergraph",
@@ -15506,7 +15505,6 @@
         "cachem",
         "clue",
         "dbplyr",
-        "diagram",
         "dplyr",
         "ellipsis",
         "exomeCopy",
@@ -31744,8 +31742,7 @@
         "IRanges",
         "RCurl",
         "S4Vectors",
-        "XVector",
-        "diagram"
+        "XVector"
     ],
     "GNET2": [
         "DelayedArray",
@@ -87302,10 +87299,8 @@
     "rslurm": [],
     "sjlabelled": [],
     "LIM": [
-        "diagram",
         "limSolve"
     ],
-    "diagram": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "AnnotationDbi",
         "BiocFileCache",
