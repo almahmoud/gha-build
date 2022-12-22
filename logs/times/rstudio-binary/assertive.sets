@@ -1,0 +1,62 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   0180004d..98ca45d8  main       -> origin/main
+Updating 0180004d..98ca45d8
+Fast-forward
+ lists/ada                                 |   2 +-
+ lists/zoo                                 |   2 +-
+ logs/run_ids/rstudio-binaries/RLMM        |   2 +
+ logs/sizes/rstudio-binaries/binaries/zoo  |   1 +
+ logs/sizes/rstudio-binaries/libraries/zoo |   1 +
+ logs/times/rstudio-binary/zoo             |  57 +++
+ packages.json                             | 587 ++++++++++--------------------
+ 7 files changed, 255 insertions(+), 397 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/zoo
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/zoo
+ create mode 100644 logs/times/rstudio-binary/zoo
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=assertive.sets
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "assertive.sets"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ '[' -s /tmp/deps ']'
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
++ cat /tmp/deps
+Dependency assertive.base is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''assertive.sets'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv assertive.sets_0.0-3_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/assertive.sets
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'assertive.sets'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/assertive.sets_0.0-3.tar.gz'
+Content type 'binary/octet-stream' length 18129 bytes (17 KB)
+==================================================
+downloaded 17 KB
+
+* installing *binary* package ‘assertive.sets’ ...
+* ‘assertive.sets’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘assertive.sets’ as ‘assertive.sets_0.0-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (assertive.sets)
+
+The downloaded source packages are in
+	‘/tmp/RtmpStY73Y/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+3.54user 0.38system 0:05.34elapsed 73%CPU (0avgtext+0avgdata 145992maxresident)k
+272inputs+13472outputs (5major+63597minor)pagefaults 0swaps

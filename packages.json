@@ -3356,7 +3356,6 @@
         "assertive.files",
         "assertive.numbers",
         "assertive.reflection",
-        "assertive.sets",
         "assertive.strings",
         "assertive.types",
         "blob",
@@ -33584,7 +33583,6 @@
         "XVector",
         "annotate",
         "askpass",
-        "assertive.sets",
         "blob",
         "broom",
         "cachem",
@@ -43810,7 +43808,6 @@
         "assertive.files",
         "assertive.numbers",
         "assertive.reflection",
-        "assertive.sets",
         "assertive.strings",
         "assertive.types",
         "bamsignals",
@@ -77355,7 +77352,6 @@
         "assertive.files",
         "assertive.numbers",
         "assertive.reflection",
-        "assertive.sets",
         "assertive.strings",
         "assertive.types",
         "knitr",
@@ -77373,7 +77369,6 @@
     "assertive.files": [
         "assertive.numbers"
     ],
-    "assertive.sets": [],
     "assertive.data": [
         "assertive.strings",
         "assertive.types"
