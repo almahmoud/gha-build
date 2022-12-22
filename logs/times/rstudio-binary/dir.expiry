@@ -1,0 +1,79 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   9d010326..563a210d  main       -> origin/main
+Updating 9d010326..563a210d
+Fast-forward
+ lists/cubature                                    |  2 +-
+ lists/ecp                                         |  2 +-
+ lists/gamlss.dist                                 |  2 +-
+ logs/run_ids/rstudio-binaries/futile.logger       |  2 +
+ logs/sizes/rstudio-binaries/binaries/ecp          |  1 +
+ logs/sizes/rstudio-binaries/binaries/gamlss.dist  |  1 +
+ logs/sizes/rstudio-binaries/libraries/ecp         |  1 +
+ logs/sizes/rstudio-binaries/libraries/gamlss.dist |  1 +
+ logs/times/rstudio-binary/ecp                     | 56 +++++++++++++++++++++++
+ logs/times/rstudio-binary/gamlss.dist             | 55 ++++++++++++++++++++++
+ packages.json                                     | 21 +--------
+ 11 files changed, 121 insertions(+), 23 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/ecp
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/gamlss.dist
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/ecp
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/gamlss.dist
+ create mode 100644 logs/times/rstudio-binary/ecp
+ create mode 100644 logs/times/rstudio-binary/gamlss.dist
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=dir.expiry
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "dir.expiry"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ '[' -s /tmp/deps ']'
++ cat /tmp/deps
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
+Dependency filelock is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''dir.expiry'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv dir.expiry_1.6.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/dir.expiry
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'dir.expiry'
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/dir.expiry_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 292837 bytes (285 KB)
+==================================================
+downloaded 285 KB
+
+* installing *source* package ‘dir.expiry’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘dir.expiry’ as ‘dir.expiry_1.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dir.expiry)
+
+The downloaded source packages are in
+	‘/tmp/RtmpYIlAJu/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+4.69user 0.69system 0:08.44elapsed 63%CPU (0avgtext+0avgdata 146072maxresident)k
+872inputs+19360outputs (9major+126038minor)pagefaults 0swaps
