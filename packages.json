@@ -13182,7 +13182,6 @@
         "RCurl",
         "RaggedExperiment",
         "S4Vectors",
-        "SNPRelate",
         "SeqArray",
         "SummarizedExperiment",
         "XVector",
@@ -27317,7 +27316,6 @@
         "MatrixGenerics",
         "RCurl",
         "S4Vectors",
-        "SNPRelate",
         "SeqArray",
         "XVector"
     ],
@@ -27815,7 +27813,6 @@
         "RCurl",
         "RSQLite",
         "S4Vectors",
-        "SNPRelate",
         "SeqArray",
         "SeqVarTools",
         "XVector",
@@ -31659,7 +31656,6 @@
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
-        "SNPRelate",
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
@@ -66795,7 +66791,6 @@
         "RCurl",
         "RSQLite",
         "S4Vectors",
-        "SNPRelate",
         "XVector",
         "askpass",
         "blob",
@@ -69136,7 +69131,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "SNPRelate": [],
     "snpStats": [
         "Matrix",
         "survival"
@@ -77568,7 +77562,6 @@
         "MatrixGenerics",
         "RCurl",
         "S4Vectors",
-        "SNPRelate",
         "SeqArray",
         "SeqVarTools",
         "SummarizedExperiment",
