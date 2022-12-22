@@ -3528,7 +3528,6 @@
         "assertive.data.us",
         "assertive.datetimes",
         "assertive.files",
-        "assertive.matrices",
         "assertive.models",
         "assertive.numbers",
         "assertive.properties",
@@ -46339,7 +46338,6 @@
         "assertive.data.us",
         "assertive.datetimes",
         "assertive.files",
-        "assertive.matrices",
         "assertive.models",
         "assertive.numbers",
         "assertive.properties",
@@ -81853,7 +81851,6 @@
         "assertive.data.us",
         "assertive.datetimes",
         "assertive.files",
-        "assertive.matrices",
         "assertive.models",
         "assertive.numbers",
         "assertive.properties",
@@ -81882,7 +81879,6 @@
         "assertive.numbers"
     ],
     "assertive.sets": [],
-    "assertive.matrices": [],
     "assertive.models": [],
     "assertive.data": [
         "assertive.properties",
