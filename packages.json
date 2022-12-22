@@ -65206,7 +65206,6 @@
         "desc",
         "doParallel",
         "dplyr",
-        "elitism",
         "ellipsis",
         "foreach",
         "futile.logger",
@@ -98251,7 +98250,6 @@
         "tinytex",
         "vctrs"
     ],
-    "elitism": [],
     "doMC": [
         "foreach"
     ],
