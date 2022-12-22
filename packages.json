@@ -74270,7 +74270,6 @@
         "vctrs",
         "viridis"
     ],
-    "weaver": [],
     "webbioc": [
         "AnnotationDbi",
         "Biostrings",

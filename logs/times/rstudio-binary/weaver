@@ -1,0 +1,87 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   4103f7a9..2415d22b  main       -> origin/main
+Updating 4103f7a9..2415d22b
+Fast-forward
+ lists/SEPIRA                                    |   2 +-
+ lists/rSWeeP                                    |   2 +-
+ lists/sagenhaft                                 |   2 +-
+ lists/stopwords                                 |   2 +-
+ lists/tzdb                                      |   2 +-
+ logs/sizes/rstudio-binaries/binaries/sagenhaft  |   1 +
+ logs/sizes/rstudio-binaries/binaries/stopwords  |   1 +
+ logs/sizes/rstudio-binaries/binaries/tzdb       |   1 +
+ logs/sizes/rstudio-binaries/libraries/sagenhaft |   1 +
+ logs/sizes/rstudio-binaries/libraries/stopwords |   1 +
+ logs/sizes/rstudio-binaries/libraries/tzdb      |   1 +
+ logs/times/rstudio-binary/sagenhaft             |  87 +++++++
+ logs/times/rstudio-binary/stopwords             |  69 ++++++
+ logs/times/rstudio-binary/tzdb                  |  63 +++++
+ packages.json                                   | 294 +-----------------------
+ 15 files changed, 231 insertions(+), 298 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/sagenhaft
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/stopwords
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/tzdb
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/sagenhaft
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/stopwords
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/tzdb
+ create mode 100644 logs/times/rstudio-binary/sagenhaft
+ create mode 100644 logs/times/rstudio-binary/stopwords
+ create mode 100644 logs/times/rstudio-binary/tzdb
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=weaver
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ sed -n '/^    "weaver"/,/^    "/p' directdeps.json
++ '[' -s /tmp/deps ']'
++ cat /tmp/deps
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
+Dependency digest is already found.
+Dependency codetools is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''weaver'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv weaver_1.64.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/weaver
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'weaver'
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/weaver_1.64.0.tar.gz'
+Content type 'application/x-gzip' length 83087 bytes (81 KB)
+==================================================
+downloaded 81 KB
+
+* installing *source* package ‘weaver’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘weaver’ as ‘weaver_1.64.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (weaver)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpttp9Hd/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+4.77user 0.67system 0:08.42elapsed 64%CPU (0avgtext+0avgdata 145868maxresident)k
+864inputs+16672outputs (9major+128864minor)pagefaults 0swaps
