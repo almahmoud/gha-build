@@ -11903,7 +11903,6 @@
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
-        "HilbertVis",
         "IRanges",
         "Matrix",
         "MatrixGenerics",
@@ -34146,17 +34145,13 @@
     "HilbertCurve": [
         "GenomeInfoDb",
         "GenomicRanges",
-        "HilbertVis",
         "IRanges",
         "RCurl",
         "S4Vectors",
         "XVector",
         "polylabelr"
     ],
-    "HilbertVis": [],
-    "HilbertVisGUI": [
-        "HilbertVis"
-    ],
+    "HilbertVisGUI": [],
     "HiLDA": [
         "AnnotationDbi",
         "BSgenome",
