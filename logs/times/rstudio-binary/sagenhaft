@@ -1,0 +1,87 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   461f9f81..057c22fa  main       -> origin/main
+Updating 461f9f81..057c22fa
+Fast-forward
+ lists/SQUADD                                       |   2 +-
+ lists/spam                                         |   2 +-
+ lists/splitstackshape                              |   2 +-
+ logs/run_ids/rstudio-binaries/skmeans              |   2 +
+ logs/run_ids/rstudio-binaries/tzdb                 |   2 +
+ logs/sizes/rstudio-binaries/binaries/SQUADD        |   1 +
+ logs/sizes/rstudio-binaries/binaries/spam          |   1 +
+ .../rstudio-binaries/binaries/splitstackshape      |   1 +
+ logs/sizes/rstudio-binaries/libraries/SQUADD       |   1 +
+ logs/sizes/rstudio-binaries/libraries/spam         |   1 +
+ .../rstudio-binaries/libraries/splitstackshape     |   1 +
+ logs/times/rstudio-binary/SQUADD                   | 171 +++++++++++++++++++++
+ logs/times/rstudio-binary/spam                     |  56 +++++++
+ logs/times/rstudio-binary/splitstackshape          |  68 ++++++++
+ packages.json                                      |  41 +----
+ 15 files changed, 310 insertions(+), 42 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/SQUADD
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/spam
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/splitstackshape
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/SQUADD
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/spam
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/splitstackshape
+ create mode 100644 logs/times/rstudio-binary/SQUADD
+ create mode 100644 logs/times/rstudio-binary/spam
+ create mode 100644 logs/times/rstudio-binary/splitstackshape
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=sagenhaft
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "sagenhaft"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ '[' -s /tmp/deps ']'
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
++ cat /tmp/deps
+Dependency SparseM is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''sagenhaft'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv sagenhaft_1.68.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/sagenhaft
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'sagenhaft'
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/sagenhaft_1.68.0.tar.gz'
+Content type 'application/x-gzip' length 2615713 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+* installing *source* package ‘sagenhaft’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘sagenhaft’ as ‘sagenhaft_1.68.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sagenhaft)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp0P4FmD/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+8.40user 0.88system 0:10.79elapsed 86%CPU (0avgtext+0avgdata 147944maxresident)k
+864inputs+60056outputs (9major+134506minor)pagefaults 0swaps
