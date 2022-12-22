@@ -21274,7 +21274,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "HDF5Array",
-        "HTMLUtils",
         "IRanges",
         "KEGGREST",
         "KEGGdzPathwaysGEO",
@@ -84647,7 +84646,6 @@
     ],
     "libcoin": [],
     "wordcloud": [],
-    "HTMLUtils": [],
     "ELMER.data": [
         "GenomeInfoDb",
         "GenomicRanges",
