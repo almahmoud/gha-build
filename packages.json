@@ -17620,7 +17620,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "ctc": [],
     "CTDquerier": [
         "BiocFileCache",
         "Matrix",
@@ -46858,7 +46857,6 @@
         "cachem",
         "checkmate",
         "clue",
-        "ctc",
         "dbplyr",
         "downloader",
         "dplyr",
@@ -50410,7 +50408,6 @@
     ],
     "multiClust": [
         "Matrix",
-        "ctc",
         "dendextend",
         "ggplot2",
         "gridExtra",
