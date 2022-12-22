@@ -6869,7 +6869,6 @@
         "foreach",
         "futile.logger",
         "gamlss",
-        "gamlss.dist",
         "ggplot2",
         "mgcv",
         "nlme",
@@ -17798,7 +17797,6 @@
         "bbmle",
         "futile.logger",
         "gamlss",
-        "gamlss.dist",
         "maxLik",
         "nlme",
         "sandwich",
@@ -32448,7 +32446,6 @@
         "future",
         "future.apply",
         "gamlss",
-        "gamlss.dist",
         "ggbeeswarm",
         "ggforce",
         "ggfun",
@@ -60675,7 +60672,6 @@
         "foreach",
         "futile.logger",
         "gamlss",
-        "gamlss.dist",
         "glmnet",
         "nlme",
         "penalized",
@@ -77431,11 +77427,9 @@
     ],
     "gamlss": [
         "Matrix",
-        "gamlss.dist",
         "nlme",
         "survival"
     ],
-    "gamlss.dist": [],
     "earth": [
         "plotmo"
     ],
