@@ -3790,7 +3790,6 @@
         "knitr",
         "later",
         "lava",
-        "lbfgs",
         "lubridate",
         "memoise",
         "mgcv",
@@ -79466,7 +79465,6 @@
         "vctrs",
         "vsn"
     ],
-    "lbfgs": [],
     "dendextend": [
         "Matrix",
         "ggplot2",
