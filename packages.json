@@ -59273,7 +59273,6 @@
         "ade4",
         "blob",
         "memoise",
-        "protViz",
         "segmented",
         "seqinr",
         "sp",
@@ -76855,7 +76854,6 @@
     "spData": [
         "sp"
     ],
-    "protViz": [],
     "PRIMME": [],
     "mmand": [],
     "alphahull": [
