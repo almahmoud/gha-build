@@ -3355,7 +3355,6 @@
         "assertive.datetimes",
         "assertive.files",
         "assertive.numbers",
-        "assertive.reflection",
         "assertive.strings",
         "assertive.types",
         "blob",
@@ -43807,7 +43806,6 @@
         "assertive.datetimes",
         "assertive.files",
         "assertive.numbers",
-        "assertive.reflection",
         "assertive.strings",
         "assertive.types",
         "bamsignals",
@@ -77351,7 +77349,6 @@
         "assertive.datetimes",
         "assertive.files",
         "assertive.numbers",
-        "assertive.reflection",
         "assertive.strings",
         "assertive.types",
         "knitr",
@@ -77381,7 +77378,6 @@
         "assertive.strings",
         "assertive.types"
     ],
-    "assertive.reflection": [],
     "assertive.code": [
         "assertive.types"
     ],
