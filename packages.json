@@ -60987,7 +60987,6 @@
         "princurve"
     ],
     "SMAD": [
-        "RcppAlgos",
         "dplyr",
         "pillar",
         "purrr",
@@ -80576,7 +80575,6 @@
         "vctrs"
     ],
     "mixsmsn": [],
-    "RcppAlgos": [],
     "sampSurf": [],
     "spdep": [
         "classInt",
