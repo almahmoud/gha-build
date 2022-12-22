@@ -15542,7 +15542,6 @@
         "ggthemes",
         "gridExtra",
         "irlba",
-        "mapproj",
         "mgcv",
         "munsell",
         "nlme",
@@ -54709,7 +54708,6 @@
         "later",
         "lsa",
         "magicaxis",
-        "mapproj",
         "marray",
         "memoise",
         "mgcv",
@@ -59364,7 +59362,6 @@
         "later",
         "lsa",
         "magicaxis",
-        "mapproj",
         "marray",
         "memoise",
         "mgcv",
@@ -70109,7 +70106,6 @@
         "lava",
         "lme4",
         "lubridate",
-        "mapproj",
         "markdown",
         "maxstat",
         "memoise",
@@ -81739,7 +81735,6 @@
         "later",
         "lsa",
         "magicaxis",
-        "mapproj",
         "marray",
         "memoise",
         "mgcv",
@@ -88574,10 +88569,7 @@
         "vctrs"
     ],
     "relations": [],
-    "pals": [
-        "mapproj"
-    ],
-    "mapproj": [],
+    "pals": [],
     "Rmixmod": [
         "Matrix",
         "RcppEigen"
@@ -92977,8 +92969,7 @@
     ],
     "webutils": [],
     "magicaxis": [
-        "celestial",
-        "mapproj"
+        "celestial"
     ],
     "celestial": [],
     "PMCMRplus": [
@@ -94231,7 +94222,6 @@
         "interp",
         "latticeExtra",
         "lubridate",
-        "mapproj",
         "mgcv",
         "nlme",
         "pillar",
