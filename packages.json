@@ -11904,7 +11904,6 @@
         "later",
         "locfit",
         "markdown",
-        "matrixTests",
         "memoise",
         "metapod",
         "mgcv",
@@ -20752,7 +20751,6 @@
         "lambda.r",
         "later",
         "magick",
-        "matrixTests",
         "memoise",
         "mgcv",
         "miniUI",
@@ -48800,7 +48798,6 @@
         "lme4",
         "maftools",
         "markdown",
-        "matrixTests",
         "memoise",
         "mgcv",
         "minqa",
@@ -87983,7 +87980,6 @@
         "stringfish"
     ],
     "rlist": [],
-    "matrixTests": [],
     "ggfittext": [
         "Matrix",
         "ggplot2",
