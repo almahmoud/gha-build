@@ -8179,7 +8179,6 @@
         "vctrs"
     ],
     "bridge": [],
-    "BridgeDbR": [],
     "BrowserViz": [
         "httpuv",
         "later",
