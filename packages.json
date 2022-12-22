@@ -63023,7 +63023,6 @@
         "openssl",
         "vctrs"
     ],
-    "semisup": [],
     "SEPIRA": [],
     "seq2pathway": [
         "AnnotationDbi",
