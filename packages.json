@@ -1404,7 +1404,6 @@
         "ggplot2",
         "ggrepel",
         "glmnet",
-        "gridSVG",
         "hardhat",
         "htmltools",
         "htmlwidgets",
@@ -2358,7 +2357,6 @@
         "gcrma",
         "genefilter",
         "ggplot2",
-        "gridSVG",
         "hexbin",
         "htmlTable",
         "htmltools",
@@ -31574,7 +31572,6 @@
         "genefilter",
         "ggplot2",
         "graph",
-        "gridSVG",
         "htmltools",
         "htmlwidgets",
         "httpuv",
@@ -38731,7 +38728,6 @@
         "gld",
         "glmnet",
         "gplots",
-        "gridSVG",
         "hardhat",
         "hms",
         "htmlTable",
@@ -73781,7 +73777,6 @@
         "bslib",
         "fontawesome",
         "ggplot2",
-        "gridSVG",
         "htmltools",
         "httpuv",
         "jquerylib",
@@ -73853,7 +73848,6 @@
         "statip",
         "timeSeries"
     ],
-    "gridSVG": [],
     "reticulate": [
         "Matrix"
     ],
