@@ -29305,7 +29305,6 @@
         "TH.data",
         "XVector",
         "ape",
-        "argparse",
         "askpass",
         "bslib",
         "coin",
@@ -32541,7 +32540,6 @@
         "UpSetR",
         "XVector",
         "annotate",
-        "argparse",
         "askpass",
         "base64",
         "bigparallelr",
@@ -75123,7 +75121,6 @@
     "phyclust": [
         "ape"
     ],
-    "argparse": [],
     "depmixS4": [
         "Rsolnp"
     ],
