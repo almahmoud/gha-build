@@ -4182,7 +4182,6 @@
         "memoise",
         "metapod",
         "mgcv",
-        "miscTools",
         "nlme",
         "openssl",
         "pheatmap",
@@ -18154,7 +18153,6 @@
         "gamlss",
         "gamlss.dist",
         "maxLik",
-        "miscTools",
         "nlme",
         "sandwich",
         "survival",
@@ -25940,7 +25938,6 @@
         "maxLik",
         "memoise",
         "mgcv",
-        "miscTools",
         "nlme",
         "nloptr",
         "openssl",
@@ -33151,7 +33148,6 @@
         "metapod",
         "mgcv",
         "miniUI",
-        "miscTools",
         "mixtools",
         "nlme",
         "nloptr",
@@ -77905,7 +77901,6 @@
     ],
     "DirichletReg": [
         "maxLik",
-        "miscTools",
         "sandwich",
         "zoo"
     ],
@@ -77913,11 +77908,9 @@
         "RcppArmadillo"
     ],
     "maxLik": [
-        "miscTools",
         "sandwich",
         "zoo"
     ],
-    "miscTools": [],
     "rjags": [],
     "corncob": [
         "Biostrings",
