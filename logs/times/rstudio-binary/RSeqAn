@@ -1,0 +1,79 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   b2bad022..53492033  main       -> origin/main
+Updating b2bad022..53492033
+Fast-forward
+ lists/NTW                                      |  2 +-
+ lists/RcppHNSW                                 |  2 +-
+ logs/run_ids/rstudio-binaries/pcaPP            |  2 +
+ logs/run_ids/rstudio-binaries/rslurm           |  2 +
+ logs/sizes/rstudio-binaries/binaries/RcppHNSW  |  1 +
+ logs/sizes/rstudio-binaries/libraries/RcppHNSW |  1 +
+ logs/times/rstudio-binary/RcppHNSW             | 61 ++++++++++++++++++++++++++
+ packages.json                                  | 54 -----------------------
+ 8 files changed, 69 insertions(+), 56 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/RcppHNSW
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/RcppHNSW
+ create mode 100644 logs/times/rstudio-binary/RcppHNSW
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=RSeqAn
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "RSeqAn"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ '[' -s /tmp/deps ']'
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
++ cat /tmp/deps
+Dependency Rcpp is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''RSeqAn'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv RSeqAn_1.18.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/RSeqAn
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'RSeqAn'
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/RSeqAn_1.18.0.tar.gz'
+Content type 'application/x-gzip' length 1698643 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+* installing *source* package ‘RSeqAn’ ...
+** using staged installation
+** libs
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/__w/gha-build/gha-build/built/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/__w/gha-build/gha-build/built/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c charstring.cpp -o charstring.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o RSeqAn.so RcppExports.o charstring.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-RSeqAn/00new/RSeqAn/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RSeqAn’ as ‘RSeqAn_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RSeqAn)
+
+The downloaded source packages are in
+	‘/tmp/RtmpOAXfrN/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+13.59user 1.18system 0:17.43elapsed 84%CPU (0avgtext+0avgdata 508316maxresident)k
+67864inputs+101488outputs (379major+324634minor)pagefaults 0swaps
