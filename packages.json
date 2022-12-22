@@ -10226,7 +10226,6 @@
         "vroom",
         "wateRmelon"
     ],
-    "ChemmineOB": [],
     "ChemmineR": [
         "DT",
         "Matrix",
@@ -58473,7 +58472,6 @@
     ],
     "RMassBank": [
         "BiocParallel",
-        "ChemmineOB",
         "ChemmineR",
         "DT",
         "IRanges",
