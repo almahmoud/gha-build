@@ -19408,7 +19408,6 @@
         "jquerylib",
         "knitr",
         "later",
-        "libcoin",
         "lme4",
         "memoise",
         "mgcv",
@@ -29759,7 +29758,6 @@
         "jquerylib",
         "knitr",
         "later",
-        "libcoin",
         "memoise",
         "multcomp",
         "openssl",
@@ -31177,7 +31175,6 @@
         "knitr",
         "later",
         "leiden",
-        "libcoin",
         "lmtest",
         "memoise",
         "mgcv",
@@ -33316,7 +33313,6 @@
         "XVector",
         "coin",
         "ggplot2",
-        "libcoin",
         "mgcv",
         "multcomp",
         "nlme",
@@ -38744,7 +38740,6 @@
         "later",
         "latticeExtra",
         "lava",
-        "libcoin",
         "lme4",
         "lmerTest",
         "lubridate",
@@ -38921,7 +38916,6 @@
         "ggstar",
         "ggtree",
         "ggtreeExtra",
-        "libcoin",
         "mgcv",
         "multcomp",
         "nlme",
@@ -39540,7 +39534,6 @@
         "jquerylib",
         "knitr",
         "latticeExtra",
-        "libcoin",
         "lmtest",
         "mboost",
         "memoise",
@@ -48948,7 +48941,6 @@
         "jquerylib",
         "knitr",
         "latticeExtra",
-        "libcoin",
         "memoise",
         "mgcv",
         "nlme",
@@ -79077,12 +79069,10 @@
     "coin": [
         "Matrix",
         "TH.data",
-        "libcoin",
         "multcomp",
         "sandwich",
         "survival"
     ],
-    "libcoin": [],
     "ELMER.data": [
         "GenomeInfoDb",
         "GenomicRanges",
@@ -81074,7 +81064,6 @@
         "foreach",
         "glmnet",
         "inum",
-        "libcoin",
         "mboost",
         "partykit",
         "survival"
@@ -81082,19 +81071,15 @@
     "mboost": [
         "Matrix",
         "inum",
-        "libcoin",
         "partykit",
         "survival"
     ],
     "partykit": [
         "Matrix",
         "inum",
-        "libcoin",
         "survival"
     ],
-    "inum": [
-        "libcoin"
-    ],
+    "inum": [],
     "miRBaseVersions.db": [
         "AnnotationDbi",
         "Biostrings",
@@ -82077,7 +82062,6 @@
         "Cubist",
         "Matrix",
         "inum",
-        "libcoin",
         "partykit",
         "reshape2",
         "stringr",
