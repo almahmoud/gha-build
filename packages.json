@@ -17,7 +17,6 @@
         "a4Classif",
         "a4Core",
         "a4Preproc",
-        "a4Reporting",
         "annaffy",
         "annotate",
         "askpass",
@@ -93,7 +92,6 @@
         "survival"
     ],
     "a4Preproc": [],
-    "a4Reporting": [],
     "ABarray": [
         "Matrix",
         "multtest",
