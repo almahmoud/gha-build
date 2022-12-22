@@ -1,0 +1,3 @@
+spdl
+rhdf5
+RWeka
