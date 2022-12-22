@@ -3237,7 +3237,6 @@
         "openssl",
         "pillar",
         "poweRlaw",
-        "preseqR",
         "progress",
         "promises",
         "purrr",
@@ -48166,7 +48165,6 @@
         "openssl",
         "pillar",
         "poweRlaw",
-        "preseqR",
         "progress",
         "promises",
         "purrr",
@@ -66335,7 +66333,6 @@
         "lambda.r",
         "nlme",
         "penalized",
-        "preseqR",
         "rsvd",
         "survival"
     ],
@@ -83086,7 +83083,6 @@
         "askpass",
         "openssl"
     ],
-    "preseqR": [],
     "reactome.db": [
         "AnnotationDbi",
         "Biostrings",
