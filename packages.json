@@ -24087,7 +24087,6 @@
         "tibble",
         "vctrs"
     ],
-    "FitHiC": [],
     "flagme": [
         "BiocParallel",
         "CAMERA",
