@@ -18484,7 +18484,6 @@
     "DFP": [],
     "DIAlignR": [
         "Matrix",
-        "RMSNumpress",
         "RSQLite",
         "RcppEigen",
         "ape",
@@ -81981,7 +81980,6 @@
         "igraph",
         "nlme"
     ],
-    "RMSNumpress": [],
     "DiffCorr": [
         "Matrix",
         "igraph",
