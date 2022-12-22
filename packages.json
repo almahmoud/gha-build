@@ -43653,7 +43653,6 @@
         "openssl",
         "vctrs"
     ],
-    "NTW": [],
     "nucleoSim": [
         "IRanges",
         "S4Vectors"
