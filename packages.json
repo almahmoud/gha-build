@@ -50937,7 +50937,6 @@
         "vctrs"
     ],
     "pathVar": [
-        "Matching",
         "Matrix",
         "ggplot2",
         "gridExtra",
@@ -87723,7 +87722,6 @@
         "vctrs"
     ],
     "matrixLaplacian": [],
-    "Matching": [],
     "reportROC": [
         "lmtest",
         "pROC",
