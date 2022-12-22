@@ -10229,7 +10229,6 @@
         "graph",
         "httr",
         "igraph",
-        "maptpx",
         "memoise",
         "openssl",
         "tm",
@@ -87079,7 +87078,6 @@
     "topicmodels": [
         "tm"
     ],
-    "maptpx": [],
     "tm": [],
     "rjsoncons": [],
     "ggpmisc": [
