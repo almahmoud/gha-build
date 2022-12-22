@@ -23980,7 +23980,6 @@
         "memoise",
         "mgcv",
         "nloptr",
-        "officer",
         "openssl",
         "pbkrtest",
         "pillar",
@@ -25695,7 +25694,6 @@
         "lubridate",
         "memoise",
         "mgcv",
-        "officer",
         "pheatmap",
         "pillar",
         "purrr",
@@ -72549,14 +72547,12 @@
         "jquerylib",
         "knitr",
         "memoise",
-        "officer",
         "rmarkdown",
         "sass",
         "stringr",
         "tinytex",
         "vctrs"
     ],
-    "officer": [],
     "gdtools": [],
     "robust": [
         "rrcov"
@@ -72734,7 +72730,6 @@
         "knitr",
         "lubridate",
         "memoise",
-        "officer",
         "rmarkdown",
         "sass",
         "sf",
