@@ -7637,7 +7637,6 @@
         "tibble",
         "vctrs"
     ],
-    "bridge": [],
     "BrowserViz": [
         "httpuv",
         "later",
