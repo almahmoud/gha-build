@@ -1,0 +1,154 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   17582b95..c7b6c51c  main       -> origin/main
+Updating 17582b95..c7b6c51c
+Fast-forward
+ lists/ACME                                       |  2 +-
+ lists/ALL                                        |  2 +-
+ lists/BAGS                                       |  2 +-
+ lists/BayesKnockdown                             |  2 +-
+ lists/CMA                                        |  2 +-
+ lists/Ckmeans.1d.dp                              |  2 +-
+ lists/DExMAdata                                  |  2 +-
+ lists/DFP                                        |  2 +-
+ lists/DiffLogo                                   |  2 +-
+ lists/EBarrays                                   |  2 +-
+ lists/GSEAlm                                     |  2 +-
+ lists/GeneExpressionSignature                    |  2 +-
+ lists/GeneSelectMMD                              |  2 +-
+ lists/HELP                                       |  2 +-
+ lists/HEM                                        |  2 +-
+ lists/HilbertVisGUI                              |  2 +-
+ lists/KEGGandMetacoreDzPathwaysGEO               |  2 +-
+ lists/KEGGdzPathwaysGEO                          |  2 +-
+ lists/LIM                                        |  2 +-
+ lists/MethPed                                    |  2 +-
+ lists/MiChip                                     |  2 +-
+ lists/NanoStringDiff                             |  2 +-
+ lists/PLPE                                       |  2 +-
+ lists/PSEA                                       |  2 +-
+ lists/ROTS                                       |  2 +-
+ lists/RTCA                                       |  2 +-
+ lists/RUVnormalizeData                           |  2 +-
+ lists/ReadqPCR                                   |  2 +-
+ lists/Rmisc                                      |  2 +-
+ lists/UNDO                                       |  2 +-
+ lists/a4Preproc                                  |  2 +-
+ lists/affycomp                                   |  2 +-
+ lists/annotationTools                            |  2 +-
+ lists/baseline                                   |  2 +-
+ lists/bayestestR                                 |  2 +-
+ lists/bcellViper                                 |  2 +-
+ lists/bioDist                                    |  2 +-
+ lists/bladderbatch                               |  2 +-
+ lists/cancerclass                                |  2 +-
+ lists/chk                                        |  2 +-
+ lists/clusterStab                                |  2 +-
+ lists/copa                                       |  2 +-
+ lists/ddCt                                       |  2 +-
+ lists/ecolitk                                    |  2 +-
+ lists/energy                                     |  2 +-
+ lists/fabia                                      |  2 +-
+ lists/factDesign                                 |  2 +-
+ lists/fit.models                                 |  2 +-
+ lists/fst                                        |  2 +-
+ lists/futile.logger                              |  2 +-
+ lists/future                                     |  2 +-
+ lists/gbutils                                    |  2 +-
+ lists/gcatest                                    |  2 +-
+ lists/gdtools                                    |  2 +-
+ lists/geneClassifiers                            |  2 +-
+ lists/geneRecommender                            |  2 +-
+ lists/hopach                                     |  2 +-
+ lists/iGC                                        |  2 +-
+ lists/iterClust                                  |  2 +-
+ lists/lapmix                                     |  2 +-
+ lists/lubridate                                  |  2 +-
+ lists/maanova                                    |  2 +-
+ lists/miRcomp                                    |  2 +-
+ lists/multiscan                                  |  2 +-
+ lists/mzR                                        |  2 +-
+ lists/pROC                                       |  2 +-
+ lists/pals                                       |  2 +-
+ lists/pcaMethods                                 |  2 +-
+ lists/phosphonormalizer                          |  2 +-
+ lists/plgem                                      |  2 +-
+ lists/randPack                                   |  2 +-
+ lists/randRotation                               |  2 +-
+ lists/rcellminerData                             |  2 +-
+ lists/reshape                                    |  2 +-
+ lists/rmelting                                   |  2 +-
+ lists/rmio                                       |  2 +-
+ lists/scales                                     |  2 +-
+ lists/sjlabelled                                 |  2 +-
+ lists/spkTools                                   |  2 +-
+ lists/svglite                                    |  2 +-
+ lists/textshaping                                |  2 +-
+ lists/twilight                                   |  2 +-
+ lists/vctrs                                      |  2 +-
+ lists/yeastCC                                    |  2 +-
+ logs/dispatchlists/2022-12-22_01-32_pkglist      | 82 ++++++++++++++++++++++++
+ logs/run_ids/rstudio-binaries/emmeans            |  2 +
+ logs/run_ids/rstudio-binaries/here               |  2 +
+ logs/sizes/rstudio-binaries/binaries/energy      |  1 +
+ logs/sizes/rstudio-binaries/binaries/fit.models  |  1 +
+ logs/sizes/rstudio-binaries/libraries/energy     |  1 +
+ logs/sizes/rstudio-binaries/libraries/fit.models |  1 +
+ logs/times/rstudio-binary/energy                 | 60 +++++++++++++++++
+ logs/times/rstudio-binary/fit.models             | 57 ++++++++++++++++
+ packages.json                                    | 10 ---
+ tobuild.txt                                      | 82 ------------------------
+ 95 files changed, 291 insertions(+), 176 deletions(-)
+ create mode 100644 logs/dispatchlists/2022-12-22_01-32_pkglist
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/energy
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/fit.models
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/energy
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/fit.models
+ create mode 100644 logs/times/rstudio-binary/energy
+ create mode 100644 logs/times/rstudio-binary/fit.models
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=dbscan
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ sed -n '/^    "dbscan"/,/^    "/p' directdeps.json
++ '[' -s /tmp/deps ']'
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
++ cat /tmp/deps
+Dependency Rcpp is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''dbscan'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv dbscan_1.1-11_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/dbscan
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'dbscan'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/dbscan_1.1-11.tar.gz'
+Content type 'binary/octet-stream' length 6400403 bytes (6.1 MB)
+==================================================
+downloaded 6.1 MB
+
+* installing *binary* package ‘dbscan’ ...
+* ‘dbscan’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘dbscan’ as ‘dbscan_1.1-11_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dbscan)
+
+The downloaded source packages are in
+	‘/tmp/RtmpHG5KCU/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+7.32user 0.37system 0:12.89elapsed 59%CPU (0avgtext+0avgdata 145708maxresident)k
+824inputs+110312outputs (8major+66343minor)pagefaults 0swaps
