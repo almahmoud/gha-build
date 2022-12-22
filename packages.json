@@ -18461,7 +18461,6 @@
         "vctrs",
         "vroom"
     ],
-    "daMA": [],
     "DAMEfinder": [
         "AnnotationDbi",
         "BSgenome",
