@@ -53134,7 +53134,6 @@
         "Matrix",
         "cubature",
         "doParallel",
-        "evmix",
         "foreach",
         "mgcv",
         "nlme",
@@ -64165,7 +64164,6 @@
         "cubature",
         "doParallel",
         "dplyr",
-        "evmix",
         "foreach",
         "future",
         "future.apply",
@@ -87877,7 +87875,6 @@
         "vctrs"
     ],
     "strawr": [],
-    "evmix": [],
     "tidybayes": [
         "Matrix",
         "arrayhelpers",
