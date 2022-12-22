@@ -1,0 +1,73 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   3ea5923d..6a40d285  main       -> origin/main
+Updating 3ea5923d..6a40d285
+Fast-forward
+ lists/attempt                                  |  2 +-
+ logs/run_ids/rstudio-binaries/checkmate        |  2 +
+ logs/run_ids/rstudio-binaries/diffGeneAnalysis |  2 +
+ logs/sizes/rstudio-binaries/binaries/attempt   |  1 +
+ logs/sizes/rstudio-binaries/libraries/attempt  |  1 +
+ logs/times/rstudio-binary/attempt              | 69 ++++++++++++++++++++++++++
+ packages.json                                  |  9 ----
+ 7 files changed, 76 insertions(+), 10 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/attempt
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/attempt
+ create mode 100644 logs/times/rstudio-binary/attempt
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=DeMAND
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "DeMAND"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ '[' -s /tmp/deps ']'
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
++ cat /tmp/deps
+Dependency KernSmooth is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''DeMAND'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv DeMAND_1.28.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/DeMAND
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'DeMAND'
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/DeMAND_1.28.0.tar.gz'
+Content type 'application/x-gzip' length 168736 bytes (164 KB)
+==================================================
+downloaded 164 KB
+
+* installing *source* package ‘DeMAND’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DeMAND’ as ‘DeMAND_1.28.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DeMAND)
+
+The downloaded source packages are in
+	‘/tmp/RtmpaQirZh/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+4.94user 0.68system 0:06.46elapsed 87%CPU (0avgtext+0avgdata 145860maxresident)k
+984inputs+15624outputs (11major+126784minor)pagefaults 0swaps
