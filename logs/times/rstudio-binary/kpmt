@@ -1,0 +1,63 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   f57eaf88..65349156  main       -> origin/main
+Updating f57eaf88..65349156
+Fast-forward
+ lists/heatmap3                                     |  2 +-
+ logs/run_ids/rstudio-binaries/assertive.properties |  2 +
+ logs/run_ids/rstudio-binaries/dtangle              |  2 +
+ logs/run_ids/rstudio-binaries/harmonicmeanp        |  2 +
+ logs/sizes/rstudio-binaries/binaries/heatmap3      |  1 +
+ logs/sizes/rstudio-binaries/libraries/heatmap3     |  1 +
+ logs/times/rstudio-binary/heatmap3                 | 56 ++++++++++++++++++++++
+ packages.json                                      |  3 --
+ 8 files changed, 65 insertions(+), 4 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/heatmap3
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/heatmap3
+ create mode 100644 logs/times/rstudio-binary/heatmap3
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=kpmt
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "kpmt"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ '[' -s /tmp/deps ']'
++ cat /tmp/deps
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
+Dependency matrixStats is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''kpmt'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv kpmt_0.1.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/kpmt
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'kpmt'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/kpmt_0.1.0.tar.gz'
+Content type 'binary/octet-stream' length 1182427 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+* installing *binary* package ‘kpmt’ ...
+* ‘kpmt’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘kpmt’ as ‘kpmt_0.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (kpmt)
+
+The downloaded source packages are in
+	‘/tmp/RtmpKJ3lGX/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+3.99user 0.35system 0:07.24elapsed 59%CPU (0avgtext+0avgdata 145916maxresident)k
+1088inputs+24680outputs (9major+66518minor)pagefaults 0swaps
