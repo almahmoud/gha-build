@@ -17403,7 +17403,6 @@
         "sass",
         "scales",
         "selectr",
-        "stopwords",
         "stringr",
         "sylly.en",
         "syuzhet",
@@ -27316,7 +27315,6 @@
         "sass",
         "scales",
         "selectr",
-        "stopwords",
         "stringr",
         "sylly.en",
         "syuzhet",
@@ -72565,7 +72563,6 @@
         "rsparse",
         "sass",
         "scales",
-        "stopwords",
         "stringr",
         "sylly.en",
         "syuzhet",
@@ -73302,7 +73299,6 @@
         "selectr",
         "sitmo",
         "sparseMatrixStats",
-        "stopwords",
         "stringr",
         "sylly.en",
         "syuzhet",
@@ -74077,7 +74073,6 @@
         "scales",
         "scico",
         "shiny",
-        "stopwords",
         "stringr",
         "sylly.en",
         "syuzhet",
@@ -81797,7 +81792,6 @@
         "purrr",
         "qdapRegex",
         "quanteda",
-        "stopwords",
         "sylly.en",
         "syuzhet",
         "textclean",
@@ -81807,7 +81801,6 @@
         "vctrs",
         "zoo"
     ],
-    "stopwords": [],
     "rsparse": [
         "Matrix",
         "MatrixExtra",
@@ -81838,8 +81831,7 @@
     ],
     "quanteda": [
         "Matrix",
-        "RcppArmadillo",
-        "stopwords"
+        "RcppArmadillo"
     ],
     "textclean": [
         "dplyr",
