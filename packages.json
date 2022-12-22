@@ -144,7 +144,6 @@
         "vegan"
     ],
     "ABSSeq": [],
-    "acde": [],
     "ACE": [
         "BiocParallel",
         "Biostrings",
@@ -12793,7 +12792,6 @@
         "STRINGdb",
         "SummarizedExperiment",
         "XVector",
-        "acde",
         "affy",
         "blob",
         "bslib",
