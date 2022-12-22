@@ -60747,7 +60747,6 @@
         "ellipsis",
         "fontawesome",
         "futile.logger",
-        "googleVis",
         "hms",
         "htmltools",
         "htmlwidgets",
@@ -68448,7 +68447,6 @@
         "dplyr",
         "e1071",
         "ggplot2",
-        "googleVis",
         "lifecycle",
         "mgcv",
         "munsell",
@@ -74542,7 +74540,6 @@
         "ensembldb",
         "futile.logger",
         "ggplot2",
-        "googleVis",
         "gridExtra",
         "hms",
         "htmlTable",
@@ -95418,7 +95415,6 @@
     "ExtDist": [
         "optimx"
     ],
-    "googleVis": [],
     "phastCons100way.UCSC.hg19": [
         "AnnotationDbi",
         "AnnotationHub",
