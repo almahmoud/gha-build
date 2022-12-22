@@ -3029,7 +3029,6 @@
         "assertive.data.us",
         "assertive.datetimes",
         "assertive.files",
-        "assertive.numbers",
         "assertive.strings",
         "assertive.types",
         "blob",
@@ -7968,7 +7967,6 @@
         "SummarizedExperiment",
         "XVector",
         "assertive.files",
-        "assertive.numbers",
         "assertive.types",
         "beachmat",
         "bluster",
@@ -39479,7 +39477,6 @@
         "assertive.data.us",
         "assertive.datetimes",
         "assertive.files",
-        "assertive.numbers",
         "assertive.strings",
         "assertive.types",
         "bamsignals",
@@ -57987,7 +57984,6 @@
         "ape",
         "aplot",
         "assertive.files",
-        "assertive.numbers",
         "assertive.types",
         "babelgene",
         "batchelor",
@@ -69641,7 +69637,6 @@
         "assertive.data.us",
         "assertive.datetimes",
         "assertive.files",
-        "assertive.numbers",
         "assertive.strings",
         "assertive.types",
         "knitr",
@@ -69649,16 +69644,13 @@
         "vctrs"
     ],
     "assertive.types": [],
-    "assertive.numbers": [],
     "assertive.strings": [
         "assertive.types"
     ],
     "assertive.datetimes": [
         "assertive.types"
     ],
-    "assertive.files": [
-        "assertive.numbers"
-    ],
+    "assertive.files": [],
     "assertive.data": [
         "assertive.strings",
         "assertive.types"
@@ -71199,7 +71191,6 @@
     ],
     "multipanelfigure": [
         "assertive.files",
-        "assertive.numbers",
         "assertive.types",
         "ggplot2",
         "magick",
