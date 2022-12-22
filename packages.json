@@ -29033,7 +29033,6 @@
         "tidyr",
         "tidyselect",
         "tinytex",
-        "units",
         "vctrs",
         "zoo"
     ],
@@ -31974,7 +31973,6 @@
         "tidyselect",
         "tinytex",
         "tweenr",
-        "units",
         "vctrs",
         "viridis",
         "vroom"
@@ -34837,7 +34835,6 @@
         "tidyr",
         "tidyselect",
         "tweenr",
-        "units",
         "vctrs",
         "waldo"
     ],
@@ -61090,7 +61087,6 @@
         "tidyselect",
         "tinytex",
         "tweenr",
-        "units",
         "uwot",
         "vctrs",
         "zoo"
@@ -62209,7 +62205,6 @@
         "tinytex",
         "treeio",
         "tweenr",
-        "units",
         "uwot",
         "vctrs",
         "viridis",
@@ -62318,7 +62313,6 @@
         "tidyselect",
         "tinytex",
         "tweenr",
-        "units",
         "uwot",
         "vctrs",
         "viridis",
@@ -65943,7 +65937,6 @@
         "spdep",
         "tibble",
         "tidyselect",
-        "units",
         "vctrs"
     ],
     "spatialHeatmap": [
@@ -66381,7 +66374,6 @@
         "tidyr",
         "tidyselect",
         "tweenr",
-        "units",
         "vctrs",
         "waldo"
     ],
@@ -67739,7 +67731,6 @@
         "tidyselect",
         "tidyverse",
         "tinytex",
-        "units",
         "vctrs",
         "vroom"
     ],
@@ -67887,7 +67878,6 @@
         "tidyr",
         "tidyselect",
         "tinytex",
-        "units",
         "uwot",
         "vctrs",
         "zoo"
@@ -68738,7 +68728,6 @@
         "tidyverse",
         "tinytex",
         "tweenr",
-        "units",
         "vctrs",
         "vegan",
         "viridis",
@@ -73821,7 +73810,6 @@
         "spdep",
         "tibble",
         "tidyselect",
-        "units",
         "vctrs"
     ],
     "VplotR": [
@@ -82505,7 +82493,6 @@
         "stringr",
         "survival",
         "tinytex",
-        "units",
         "vctrs",
         "zoo"
     ],
@@ -82513,15 +82500,13 @@
         "class",
         "classInt",
         "e1071",
-        "s2",
-        "units"
+        "s2"
     ],
     "classInt": [
         "class",
         "e1071"
     ],
     "s2": [],
-    "units": [],
     "penalized": [
         "Matrix",
         "RcppArmadillo",
@@ -82736,7 +82721,6 @@
         "sf",
         "tibble",
         "tidyselect",
-        "units",
         "vctrs"
     ],
     "Rlabkey": [
@@ -86246,8 +86230,7 @@
         "s2",
         "sf",
         "sp",
-        "spData",
-        "units"
+        "spData"
     ],
     "spData": [
         "sp"
@@ -86454,7 +86437,6 @@
         "sp",
         "spacetime",
         "stars",
-        "units",
         "xts",
         "zoo"
     ],
@@ -86476,8 +86458,7 @@
         "classInt",
         "e1071",
         "s2",
-        "sf",
-        "units"
+        "sf"
     ],
     "spacetime": [
         "sp",
@@ -86490,16 +86471,14 @@
         "e1071",
         "lwgeom",
         "s2",
-        "sf",
-        "units"
+        "sf"
     ],
     "lwgeom": [
         "class",
         "classInt",
         "e1071",
         "s2",
-        "sf",
-        "units"
+        "sf"
     ],
     "spsUtil": [
         "askpass",
