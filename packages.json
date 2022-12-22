@@ -64609,7 +64609,6 @@
         "XVector",
         "annotate",
         "askpass",
-        "bibtex",
         "biomaRt",
         "bit64",
         "blob",
@@ -99215,7 +99214,6 @@
     ],
     "RefManageR": [
         "askpass",
-        "bibtex",
         "httr",
         "lifecycle",
         "lubridate",
@@ -99225,7 +99223,6 @@
         "timechange",
         "vctrs"
     ],
-    "bibtex": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [
         "BSgenome",
         "Biobase",
