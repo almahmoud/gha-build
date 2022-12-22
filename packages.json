@@ -195,7 +195,6 @@
         "XVector",
         "aCGH",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "aws",
@@ -468,9 +467,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "affy": [
-        "affyio"
-    ],
+    "affy": [],
     "affycomp": [],
     "AffyCompatible": [
         "Biostrings",
@@ -482,8 +479,7 @@
     ],
     "affyContam": [
         "affy",
-        "affydata",
-        "affyio"
+        "affydata"
     ],
     "affycoretools": [
         "AnnotationDbi",
@@ -528,7 +524,6 @@
         "VariantAnnotation",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "biomaRt",
@@ -594,10 +589,8 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "affyio",
         "gcrma"
     ],
-    "affyio": [],
     "affylmGUI": [
         "AnnotationDbi",
         "Biostrings",
@@ -610,7 +603,6 @@
         "XVector",
         "affy",
         "affyPLM",
-        "affyio",
         "askpass",
         "blob",
         "cachem",
@@ -628,12 +620,10 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "affyio",
         "gcrma"
     ],
     "AffyRNADegradation": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "AGDEX": [
         "AnnotationDbi",
@@ -715,7 +705,6 @@
         "XVector",
         "affy",
         "affycoretools",
-        "affyio",
         "annotate",
         "askpass",
         "biomaRt",
@@ -1121,7 +1110,6 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "affyio",
         "graph",
         "hypergraph",
         "makecdfenv"
@@ -2289,7 +2277,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "blob",
         "cachem",
         "foreach",
@@ -2392,7 +2379,6 @@
         "affy",
         "affyContam",
         "affydata",
-        "affyio",
         "annotate",
         "askpass",
         "base64",
@@ -2463,7 +2449,6 @@
         "XVector",
         "affy",
         "affyPLM",
-        "affyio",
         "annotate",
         "askpass",
         "base64",
@@ -3723,7 +3708,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "biomaRt",
@@ -4797,7 +4781,6 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "affyio",
         "gcrma"
     ],
     "BicARE": [
@@ -4873,7 +4856,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "base64",
@@ -6967,7 +6949,6 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "apcluster",
         "askpass",
@@ -7875,7 +7856,6 @@
         "VariantAnnotation",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "biomaRt",
@@ -8166,7 +8146,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "bslib",
         "cachem",
         "checkmate",
@@ -9169,7 +9148,6 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "blob",
@@ -10117,7 +10095,6 @@
         "VariantAnnotation",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "base64",
@@ -10944,7 +10921,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "biganalytics",
         "biglm",
         "bigmemory",
@@ -11898,7 +11874,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "doParallel",
         "foreach",
         "futile.logger",
@@ -11948,7 +11923,6 @@
         "MsCoreUtils",
         "S4Vectors",
         "affy",
-        "affyio",
         "ape",
         "askpass",
         "bslib",
@@ -12218,7 +12192,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "blob",
         "cachem",
         "foreach",
@@ -12869,7 +12842,6 @@
         "XVector",
         "acde",
         "affy",
-        "affyio",
         "blob",
         "bslib",
         "caTools",
@@ -14462,8 +14434,7 @@
         "visNetwork"
     ],
     "Cormotif": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "corral": [
         "DelayedArray",
@@ -14560,7 +14531,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "doParallel",
         "faahKO",
         "foreach",
@@ -15419,7 +15389,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "askpass",
         "base64",
         "blob",
@@ -15451,7 +15420,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "blob",
@@ -16748,7 +16716,6 @@
         "S4Vectors",
         "TTR",
         "affy",
-        "affyio",
         "broom",
         "bslib",
         "cachem",
@@ -18103,7 +18070,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "bslib",
         "cachem",
         "crosstalk",
@@ -19914,7 +19880,6 @@
         "RcppEigen",
         "TH.data",
         "affy",
-        "affyio",
         "askpass",
         "broom",
         "bslib",
@@ -20201,7 +20166,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "biomaRt",
@@ -23161,8 +23125,7 @@
         "rtracklayer"
     ],
     "ExiMiR": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "exomeCopy": [
         "BiocParallel",
@@ -23725,8 +23688,7 @@
         "viridis"
     ],
     "farms": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "fastLiquidAssociation": [
         "AnnotationDbi",
@@ -24176,7 +24138,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "base64",
@@ -24406,7 +24367,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "bslib",
         "caTools",
         "cachem",
@@ -25462,7 +25422,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "blob",
         "cachem",
         "foreach",
@@ -25472,8 +25431,7 @@
         "vctrs"
     ],
     "frmaTools": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "FunChIP": [
         "BiocParallel",
@@ -26031,8 +25989,7 @@
         "RCurl",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio"
+        "affy"
     ],
     "GCSscore": [
         "Matrix",
@@ -28016,8 +27973,7 @@
         "vroom"
     ],
     "GEOsubmission": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "gep2pep": [
         "AnnotationDbi",
@@ -28060,7 +28016,6 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "biomaRt",
@@ -30558,7 +30513,6 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "affyio",
         "altcdfenvs",
         "graph",
         "hypergraph",
@@ -31440,7 +31394,6 @@
     ],
     "HTqPCR": [
         "affy",
-        "affyio",
         "caTools",
         "gplots"
     ],
@@ -31830,7 +31783,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "base64",
@@ -32310,7 +32262,6 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "blob",
@@ -33549,7 +33500,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "bslib",
         "cachem",
         "checkmate",
@@ -34267,7 +34217,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "aws",
         "blob",
         "cachem",
@@ -35443,7 +35392,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "bslib",
         "cachem",
         "checkmate",
@@ -35500,8 +35448,7 @@
         "survival"
     ],
     "logitT": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "LOLA": [
         "GenomeInfoDb",
@@ -35724,7 +35671,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "base64",
@@ -36313,7 +36259,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "UpSetR",
         "XVector",
-        "affyio",
         "annotate",
         "argparse",
         "askpass",
@@ -36587,7 +36532,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "agricolae",
         "bslib",
         "caTools",
@@ -36669,8 +36613,7 @@
         "xcms"
     ],
     "makecdfenv": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "MANOR": [
         "GLAD",
@@ -36720,7 +36663,6 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "affyio",
         "askpass",
         "blob",
         "caTools",
@@ -36891,7 +36833,6 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "affyio",
         "gcrma"
     ],
     "massiR": [
@@ -36938,7 +36879,6 @@
         "UpSetR",
         "XVector",
         "affy",
-        "affyio",
         "askpass",
         "bslib",
         "cachem",
@@ -37245,7 +37185,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "blob",
         "broom",
         "cachem",
@@ -37635,7 +37574,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "base64",
@@ -38148,7 +38086,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "doParallel",
         "foreach",
         "futile.logger",
@@ -38570,7 +38507,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "bslib",
         "cachem",
         "checkmate",
@@ -38781,7 +38717,6 @@
         "VennDiagram",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "aroma.light",
         "askpass",
@@ -41069,7 +41004,6 @@
         "XVector",
         "affy",
         "affyPLM",
-        "affyio",
         "blob",
         "cachem",
         "foreach",
@@ -41193,7 +41127,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "base64",
@@ -41354,7 +41287,6 @@
         "SummarizedExperiment",
         "VanillaICE",
         "XVector",
-        "affyio",
         "askpass",
         "base64",
         "blob",
@@ -42646,7 +42578,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "doParallel",
         "foreach",
         "futile.logger",
@@ -43790,7 +43721,6 @@
         "MsCoreUtils",
         "S4Vectors",
         "affy",
-        "affyio",
         "caTools",
         "doParallel",
         "foreach",
@@ -43816,7 +43746,6 @@
         "MsCoreUtils",
         "S4Vectors",
         "affy",
-        "affyio",
         "caTools",
         "doParallel",
         "edgeR",
@@ -43846,7 +43775,6 @@
         "MsCoreUtils",
         "S4Vectors",
         "affy",
-        "affyio",
         "doParallel",
         "foreach",
         "futile.logger",
@@ -43884,7 +43812,6 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "affyio",
         "askpass",
         "blob",
         "bookdown",
@@ -44284,7 +44211,6 @@
         "MsCoreUtils",
         "S4Vectors",
         "affy",
-        "affyio",
         "askpass",
         "bslib",
         "cachem",
@@ -44340,7 +44266,6 @@
         "MsCoreUtils",
         "S4Vectors",
         "affy",
-        "affyio",
         "askpass",
         "bslib",
         "cachem",
@@ -46104,7 +46029,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "doParallel",
         "foreach",
         "futile.logger",
@@ -47113,7 +47037,6 @@
         "Matrix",
         "RcppEigen",
         "affy",
-        "affyio",
         "arm",
         "caTools",
         "callr",
@@ -47209,7 +47132,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "ape",
         "broom",
         "bslib",
@@ -47835,7 +47757,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "blob",
         "cachem",
         "foreach",
@@ -47855,7 +47776,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "blob",
         "cachem",
         "foreach",
@@ -49776,8 +49696,7 @@
         "zoo"
     ],
     "panp": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "PANR": [
         "Matrix",
@@ -50391,7 +50310,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "blob",
         "cachem",
         "foreach",
@@ -50435,7 +50353,6 @@
         "MsCoreUtils",
         "S4Vectors",
         "affy",
-        "affyio",
         "bslib",
         "cachem",
         "crosstalk",
@@ -50492,7 +50409,6 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "aroma.affymetrix",
         "aroma.apd",
@@ -51777,8 +51693,7 @@
     ],
     "plgem": [],
     "plier": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "PloGO2": [
         "AnnotationDbi",
@@ -52390,7 +52305,6 @@
         "XVector",
         "ade4",
         "affy",
-        "affyio",
         "ape",
         "biomformat",
         "bookdown",
@@ -52450,7 +52364,6 @@
         "XVector",
         "aCGH",
         "affy",
-        "affyio",
         "askpass",
         "biomaRt",
         "blob",
@@ -52641,7 +52554,6 @@
         "S4Vectors",
         "TTR",
         "affy",
-        "affyio",
         "bslib",
         "cachem",
         "checkmate",
@@ -52802,7 +52714,6 @@
         "WGCNA",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "blob",
@@ -52908,7 +52819,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "askpass",
         "bslib",
         "cachem",
@@ -53153,7 +53063,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "biomaRt",
@@ -53256,7 +53165,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "biomaRt",
@@ -53411,7 +53319,6 @@
         "S4Vectors",
         "TTR",
         "affy",
-        "affyio",
         "broom",
         "bslib",
         "caTools",
@@ -53627,7 +53534,6 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "blob",
@@ -53923,7 +53829,6 @@
         "RcppEigen",
         "S4Vectors",
         "affy",
-        "affyio",
         "askpass",
         "broom",
         "bslib",
@@ -54009,7 +53914,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "blob",
         "cachem",
         "foreach",
@@ -54070,14 +53974,12 @@
         "vctrs"
     ],
     "pvac": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "pvca": [
         "Matrix",
         "RcppEigen",
         "affy",
-        "affyio",
         "callr",
         "desc",
         "diffobj",
@@ -54459,8 +54361,7 @@
         "zoo"
     ],
     "qpcrNorm": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "qpgraph": [
         "AnnotationDbi",
@@ -54519,7 +54420,6 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "affyio",
         "doParallel",
         "dplyr",
         "foreach",
@@ -55617,7 +55517,6 @@
         "XVector",
         "aCGH",
         "affy",
-        "affyio",
         "askpass",
         "biomaRt",
         "blob",
@@ -56474,7 +56373,6 @@
         "XVector",
         "affy",
         "affyPLM",
-        "affyio",
         "gcrma"
     ],
     "RegEnrich": [
@@ -56928,7 +56826,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "blob",
@@ -58065,7 +57962,6 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "blob",
@@ -58172,7 +58068,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "biocViews",
         "doParallel",
         "foreach",
@@ -58428,7 +58323,6 @@
         "RCurl",
         "S4Vectors",
         "affy",
-        "affyio",
         "askpass",
         "bslib",
         "cachem",
@@ -58767,7 +58661,6 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "blob",
@@ -59591,7 +59484,6 @@
         "XVector",
         "ade4",
         "affy",
-        "affyio",
         "ape",
         "biomformat",
         "bookdown",
@@ -60975,7 +60867,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "blob",
@@ -65283,7 +65174,6 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "blob",
@@ -66082,7 +65972,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "base64",
@@ -66281,7 +66170,6 @@
         "XVector",
         "aCGH",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "aws",
@@ -68481,8 +68369,7 @@
         "xopen"
     ],
     "sscore": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "sscu": [
         "Biostrings",
@@ -68829,7 +68716,6 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "blob",
@@ -68897,7 +68783,6 @@
     "STATegRa": [
         "Matrix",
         "affy",
-        "affyio",
         "caTools",
         "calibrate",
         "edgeR",
@@ -69870,7 +69755,6 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "affyio",
         "bslib",
         "cachem",
         "cleaver",
@@ -71609,7 +71493,6 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "blob",
@@ -72247,7 +72130,6 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "affyio",
         "doParallel",
         "foreach",
         "futile.logger",
@@ -73604,7 +73486,6 @@
     ],
     "TurboNorm": [
         "affy",
-        "affyio",
         "convert",
         "marray"
     ],
@@ -74084,7 +73965,6 @@
     "unifiedWMWqPCR": [
         "HTqPCR",
         "affy",
-        "affyio",
         "caTools",
         "gplots"
     ],
@@ -74348,7 +74228,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "askpass",
         "base64",
         "blob",
@@ -75232,7 +75111,6 @@
     "vsn": [
         "Matrix",
         "affy",
-        "affyio",
         "ggplot2",
         "mgcv",
         "nlme",
@@ -75493,7 +75371,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "askpass",
         "base64",
@@ -75626,7 +75503,6 @@
         "S4Vectors",
         "XVector",
         "affy",
-        "affyio",
         "annaffy",
         "askpass",
         "blob",
@@ -75817,7 +75693,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "doParallel",
         "foreach",
         "futile.logger",
@@ -77054,8 +76929,7 @@
         "foreach"
     ],
     "affydata": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "PFAM.db": [
         "AnnotationDbi",
@@ -79043,7 +78917,6 @@
         "MsCoreUtils",
         "S4Vectors",
         "affy",
-        "affyio",
         "doParallel",
         "foreach",
         "futile.logger",
@@ -82312,7 +82185,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "doParallel",
         "foreach",
         "futile.logger",
@@ -82738,7 +82610,6 @@
         "MsCoreUtils",
         "S4Vectors",
         "affy",
-        "affyio",
         "doParallel",
         "foreach",
         "futile.logger",
@@ -84420,7 +84291,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "blob",
         "cachem",
         "foreach",
