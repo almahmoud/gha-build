@@ -10880,7 +10880,6 @@
         "affy",
         "biganalytics",
         "biglm",
-        "bigmemory",
         "blob",
         "cachem",
         "dplyr",
@@ -16044,7 +16043,6 @@
         "SummarizedExperiment",
         "TH.data",
         "XVector",
-        "bigmemory",
         "broom",
         "bslib",
         "cachem",
@@ -16145,7 +16143,6 @@
         "MatrixModels",
         "ModelMetrics",
         "RcppEigen",
-        "bigmemory",
         "broom",
         "bslib",
         "cachem",
@@ -40931,7 +40928,6 @@
         "apcluster",
         "biganalytics",
         "biglm",
-        "bigmemory",
         "bslib",
         "cachem",
         "expm",
@@ -46319,7 +46315,6 @@
         "SummarizedExperiment",
         "XVector",
         "askpass",
-        "bigmemory",
         "blob",
         "caTools",
         "cachem",
@@ -81243,13 +81238,9 @@
         "RcppArmadillo",
         "irlba"
     ],
-    "ChIPXpressData": [
-        "bigmemory"
-    ],
-    "bigmemory": [],
+    "ChIPXpressData": [],
     "biganalytics": [
         "biglm",
-        "bigmemory",
         "foreach"
     ],
     "shinyhelper": [
@@ -82222,7 +82213,6 @@
     "mbest": [
         "Matrix",
         "RcppEigen",
-        "bigmemory",
         "callr",
         "desc",
         "diffobj",

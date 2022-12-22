@@ -1,0 +1,438 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   fb75ba8e..c4b5493f  main       -> origin/main
+Updating fb75ba8e..c4b5493f
+Fast-forward
+ lists/affyio                                   |   2 +-
+ lists/kSamples                                 |   2 +-
+ lists/kpmt                                     |   2 +-
+ logs/run_ids/rstudio-binaries/ACME             |   2 +
+ logs/run_ids/rstudio-binaries/CancerInSilico   |   2 +
+ logs/run_ids/rstudio-binaries/GSEAlm           |   2 +
+ logs/run_ids/rstudio-binaries/acde             |   2 +
+ logs/run_ids/rstudio-binaries/attempt          |   2 +
+ logs/run_ids/rstudio-binaries/grImport         |   2 +
+ logs/sizes/rstudio-binaries/binaries/affyio    |   1 +
+ logs/sizes/rstudio-binaries/binaries/kSamples  |   1 +
+ logs/sizes/rstudio-binaries/binaries/kpmt      |   1 +
+ logs/sizes/rstudio-binaries/libraries/affyio   |   1 +
+ logs/sizes/rstudio-binaries/libraries/kSamples |   1 +
+ logs/sizes/rstudio-binaries/libraries/kpmt     |   1 +
+ logs/times/rstudio-binary/affyio               | 154 ++++++++++++++++++++++
+ logs/times/rstudio-binary/kSamples             |  63 +++++++++
+ logs/times/rstudio-binary/kpmt                 |  63 +++++++++
+ packages.json                                  | 172 +++----------------------
+ 19 files changed, 318 insertions(+), 158 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/affyio
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/kSamples
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/kpmt
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/affyio
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/kSamples
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/kpmt
+ create mode 100644 logs/times/rstudio-binary/affyio
+ create mode 100644 logs/times/rstudio-binary/kSamples
+ create mode 100644 logs/times/rstudio-binary/kpmt
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=bigmemory
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "bigmemory"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ '[' -s /tmp/deps ']'
++ cat /tmp/deps
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
+Dependency bigmemory.sri is already found.
+Dependency Rcpp is already found.
+Dependency uuid is already found.
+Dependency BH is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''bigmemory'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv bigmemory_4.6.1_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/bigmemory
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'bigmemory'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/bigmemory_4.6.1.tar.gz'
+Content type 'binary/octet-stream' length 72638 bytes (70 KB)
+==================================================
+downloaded 70 KB
+
+* installing *source* package ‘bigmemory’ ...
+** package ‘bigmemory’ successfully unpacked and MD5 sums checked
+** using staged installation
+  checking for Sun Studio compiler...
+no
+  checking for OS...
+Linux
+** libs
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -DLINUX -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/uuid/include' -I'/__w/gha-build/gha-build/built/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c BigMatrix.cpp -o BigMatrix.o
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:17,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from BigMatrix.cpp:22:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/detail/shared_count.hpp:361:33: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  361 |     explicit shared_count( std::auto_ptr<Y> & r ): pi_( new sp_counted_impl_p<Y>( r.get() ) )
+      |                                 ^~~~~~~~
+In file included from /usr/include/c++/11/bits/locale_conv.h:41,
+                 from /usr/include/c++/11/locale:43,
+                 from /usr/include/c++/11/iomanip:43,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/RcppCommon.h:53,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/Rcpp.h:27,
+                 from BigMatrix.cpp:11:
+/usr/include/c++/11/bits/unique_ptr.h:57:28: note: declared here
+   57 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from BigMatrix.cpp:22:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:250:65: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  250 | template< class T, class R > struct sp_enable_if_auto_ptr< std::auto_ptr< T >, R >
+      |                                                                 ^~~~~~~~
+In file included from /usr/include/c++/11/bits/locale_conv.h:41,
+                 from /usr/include/c++/11/locale:43,
+                 from /usr/include/c++/11/iomanip:43,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/RcppCommon.h:53,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/Rcpp.h:27,
+                 from BigMatrix.cpp:11:
+/usr/include/c++/11/bits/unique_ptr.h:57:28: note: declared here
+   57 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from BigMatrix.cpp:22:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:507:31: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  507 |     explicit shared_ptr( std::auto_ptr<Y> & r ): px(r.get()), pn()
+      |                               ^~~~~~~~
+In file included from /usr/include/c++/11/bits/locale_conv.h:41,
+                 from /usr/include/c++/11/locale:43,
+                 from /usr/include/c++/11/iomanip:43,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/RcppCommon.h:53,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/Rcpp.h:27,
+                 from BigMatrix.cpp:11:
+/usr/include/c++/11/bits/unique_ptr.h:57:28: note: declared here
+   57 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from BigMatrix.cpp:22:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:520:22: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  520 |     shared_ptr( std::auto_ptr<Y> && r ): px(r.get()), pn()
+      |                      ^~~~~~~~
+In file included from /usr/include/c++/11/bits/locale_conv.h:41,
+                 from /usr/include/c++/11/locale:43,
+                 from /usr/include/c++/11/iomanip:43,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/RcppCommon.h:53,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/Rcpp.h:27,
+                 from BigMatrix.cpp:11:
+/usr/include/c++/11/bits/unique_ptr.h:57:28: note: declared here
+   57 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from BigMatrix.cpp:22:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:603:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  603 |     shared_ptr & operator=( std::auto_ptr<Y> & r )
+      |                                  ^~~~~~~~
+In file included from /usr/include/c++/11/bits/locale_conv.h:41,
+                 from /usr/include/c++/11/locale:43,
+                 from /usr/include/c++/11/iomanip:43,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/RcppCommon.h:53,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/Rcpp.h:27,
+                 from BigMatrix.cpp:11:
+/usr/include/c++/11/bits/unique_ptr.h:57:28: note: declared here
+   57 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from BigMatrix.cpp:22:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:612:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  612 |     shared_ptr & operator=( std::auto_ptr<Y> && r )
+      |                                  ^~~~~~~~
+In file included from /usr/include/c++/11/bits/locale_conv.h:41,
+                 from /usr/include/c++/11/locale:43,
+                 from /usr/include/c++/11/iomanip:43,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/RcppCommon.h:53,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/Rcpp.h:27,
+                 from BigMatrix.cpp:11:
+/usr/include/c++/11/bits/unique_ptr.h:57:28: note: declared here
+   57 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from BigMatrix.cpp:22:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp: In member function ‘boost::shared_ptr<T>& boost::shared_ptr<T>::operator=(std::auto_ptr<_Up>&&)’:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:614:38: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  614 |         this_type( static_cast< std::auto_ptr<Y> && >( r ) ).swap( *this );
+      |                                      ^~~~~~~~
+In file included from /usr/include/c++/11/bits/locale_conv.h:41,
+                 from /usr/include/c++/11/locale:43,
+                 from /usr/include/c++/11/iomanip:43,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/RcppCommon.h:53,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/Rcpp.h:27,
+                 from BigMatrix.cpp:11:
+/usr/include/c++/11/bits/unique_ptr.h:57:28: note: declared here
+   57 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -DLINUX -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/uuid/include' -I'/__w/gha-build/gha-build/built/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -DLINUX -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/uuid/include' -I'/__w/gha-build/gha-build/built/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c SharedCounter.cpp -o SharedCounter.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -DLINUX -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/uuid/include' -I'/__w/gha-build/gha-build/built/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c bigmemory.cpp -o bigmemory.o
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:17,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from bigmemory.cpp:7:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/detail/shared_count.hpp:361:33: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  361 |     explicit shared_count( std::auto_ptr<Y> & r ): pi_( new sp_counted_impl_p<Y>( r.get() ) )
+      |                                 ^~~~~~~~
+In file included from /usr/include/c++/11/bits/locale_conv.h:41,
+                 from /usr/include/c++/11/locale:43,
+                 from /usr/include/c++/11/iomanip:43,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/RcppCommon.h:53,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/Rcpp.h:27,
+                 from bigmemory.cpp:6:
+/usr/include/c++/11/bits/unique_ptr.h:57:28: note: declared here
+   57 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from bigmemory.cpp:7:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:250:65: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  250 | template< class T, class R > struct sp_enable_if_auto_ptr< std::auto_ptr< T >, R >
+      |                                                                 ^~~~~~~~
+In file included from /usr/include/c++/11/bits/locale_conv.h:41,
+                 from /usr/include/c++/11/locale:43,
+                 from /usr/include/c++/11/iomanip:43,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/RcppCommon.h:53,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/Rcpp.h:27,
+                 from bigmemory.cpp:6:
+/usr/include/c++/11/bits/unique_ptr.h:57:28: note: declared here
+   57 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from bigmemory.cpp:7:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:507:31: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  507 |     explicit shared_ptr( std::auto_ptr<Y> & r ): px(r.get()), pn()
+      |                               ^~~~~~~~
+In file included from /usr/include/c++/11/bits/locale_conv.h:41,
+                 from /usr/include/c++/11/locale:43,
+                 from /usr/include/c++/11/iomanip:43,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/RcppCommon.h:53,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/Rcpp.h:27,
+                 from bigmemory.cpp:6:
+/usr/include/c++/11/bits/unique_ptr.h:57:28: note: declared here
+   57 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from bigmemory.cpp:7:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:520:22: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  520 |     shared_ptr( std::auto_ptr<Y> && r ): px(r.get()), pn()
+      |                      ^~~~~~~~
+In file included from /usr/include/c++/11/bits/locale_conv.h:41,
+                 from /usr/include/c++/11/locale:43,
+                 from /usr/include/c++/11/iomanip:43,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/RcppCommon.h:53,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/Rcpp.h:27,
+                 from bigmemory.cpp:6:
+/usr/include/c++/11/bits/unique_ptr.h:57:28: note: declared here
+   57 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from bigmemory.cpp:7:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:603:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  603 |     shared_ptr & operator=( std::auto_ptr<Y> & r )
+      |                                  ^~~~~~~~
+In file included from /usr/include/c++/11/bits/locale_conv.h:41,
+                 from /usr/include/c++/11/locale:43,
+                 from /usr/include/c++/11/iomanip:43,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/RcppCommon.h:53,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/Rcpp.h:27,
+                 from bigmemory.cpp:6:
+/usr/include/c++/11/bits/unique_ptr.h:57:28: note: declared here
+   57 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from bigmemory.cpp:7:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:612:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  612 |     shared_ptr & operator=( std::auto_ptr<Y> && r )
+      |                                  ^~~~~~~~
+In file included from /usr/include/c++/11/bits/locale_conv.h:41,
+                 from /usr/include/c++/11/locale:43,
+                 from /usr/include/c++/11/iomanip:43,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/RcppCommon.h:53,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/Rcpp.h:27,
+                 from bigmemory.cpp:6:
+/usr/include/c++/11/bits/unique_ptr.h:57:28: note: declared here
+   57 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from bigmemory.cpp:7:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp: In member function ‘boost::shared_ptr<T>& boost::shared_ptr<T>::operator=(std::auto_ptr<_Up>&&)’:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:614:38: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  614 |         this_type( static_cast< std::auto_ptr<Y> && >( r ) ).swap( *this );
+      |                                      ^~~~~~~~
+In file included from /usr/include/c++/11/bits/locale_conv.h:41,
+                 from /usr/include/c++/11/locale:43,
+                 from /usr/include/c++/11/iomanip:43,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/RcppCommon.h:53,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/Rcpp.h:27,
+                 from bigmemory.cpp:6:
+/usr/include/c++/11/bits/unique_ptr.h:57:28: note: declared here
+   57 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -DLINUX -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/uuid/include' -I'/__w/gha-build/gha-build/built/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c deepcopy.cpp -o deepcopy.o
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:17,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from deepcopy.cpp:10:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/detail/shared_count.hpp:361:33: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  361 |     explicit shared_count( std::auto_ptr<Y> & r ): pi_( new sp_counted_impl_p<Y>( r.get() ) )
+      |                                 ^~~~~~~~
+In file included from /usr/include/c++/11/bits/locale_conv.h:41,
+                 from /usr/include/c++/11/locale:43,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast/detail/converter_lexical_streams.hpp:43,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast/detail/converter_lexical.hpp:54,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast/try_lexical_convert.hpp:44,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast.hpp:32,
+                 from deepcopy.cpp:6:
+/usr/include/c++/11/bits/unique_ptr.h:57:28: note: declared here
+   57 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from deepcopy.cpp:10:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:250:65: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  250 | template< class T, class R > struct sp_enable_if_auto_ptr< std::auto_ptr< T >, R >
+      |                                                                 ^~~~~~~~
+In file included from /usr/include/c++/11/bits/locale_conv.h:41,
+                 from /usr/include/c++/11/locale:43,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast/detail/converter_lexical_streams.hpp:43,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast/detail/converter_lexical.hpp:54,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast/try_lexical_convert.hpp:44,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast.hpp:32,
+                 from deepcopy.cpp:6:
+/usr/include/c++/11/bits/unique_ptr.h:57:28: note: declared here
+   57 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from deepcopy.cpp:10:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:507:31: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  507 |     explicit shared_ptr( std::auto_ptr<Y> & r ): px(r.get()), pn()
+      |                               ^~~~~~~~
+In file included from /usr/include/c++/11/bits/locale_conv.h:41,
+                 from /usr/include/c++/11/locale:43,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast/detail/converter_lexical_streams.hpp:43,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast/detail/converter_lexical.hpp:54,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast/try_lexical_convert.hpp:44,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast.hpp:32,
+                 from deepcopy.cpp:6:
+/usr/include/c++/11/bits/unique_ptr.h:57:28: note: declared here
+   57 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from deepcopy.cpp:10:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:520:22: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  520 |     shared_ptr( std::auto_ptr<Y> && r ): px(r.get()), pn()
+      |                      ^~~~~~~~
+In file included from /usr/include/c++/11/bits/locale_conv.h:41,
+                 from /usr/include/c++/11/locale:43,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast/detail/converter_lexical_streams.hpp:43,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast/detail/converter_lexical.hpp:54,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast/try_lexical_convert.hpp:44,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast.hpp:32,
+                 from deepcopy.cpp:6:
+/usr/include/c++/11/bits/unique_ptr.h:57:28: note: declared here
+   57 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from deepcopy.cpp:10:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:603:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  603 |     shared_ptr & operator=( std::auto_ptr<Y> & r )
+      |                                  ^~~~~~~~
+In file included from /usr/include/c++/11/bits/locale_conv.h:41,
+                 from /usr/include/c++/11/locale:43,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast/detail/converter_lexical_streams.hpp:43,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast/detail/converter_lexical.hpp:54,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast/try_lexical_convert.hpp:44,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast.hpp:32,
+                 from deepcopy.cpp:6:
+/usr/include/c++/11/bits/unique_ptr.h:57:28: note: declared here
+   57 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from deepcopy.cpp:10:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:612:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  612 |     shared_ptr & operator=( std::auto_ptr<Y> && r )
+      |                                  ^~~~~~~~
+In file included from /usr/include/c++/11/bits/locale_conv.h:41,
+                 from /usr/include/c++/11/locale:43,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast/detail/converter_lexical_streams.hpp:43,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast/detail/converter_lexical.hpp:54,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast/try_lexical_convert.hpp:44,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast.hpp:32,
+                 from deepcopy.cpp:6:
+/usr/include/c++/11/bits/unique_ptr.h:57:28: note: declared here
+   57 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from deepcopy.cpp:10:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp: In member function ‘boost::shared_ptr<T>& boost::shared_ptr<T>::operator=(std::auto_ptr<_Up>&&)’:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:614:38: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  614 |         this_type( static_cast< std::auto_ptr<Y> && >( r ) ).swap( *this );
+      |                                      ^~~~~~~~
+In file included from /usr/include/c++/11/bits/locale_conv.h:41,
+                 from /usr/include/c++/11/locale:43,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast/detail/converter_lexical_streams.hpp:43,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast/detail/converter_lexical.hpp:54,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast/try_lexical_convert.hpp:44,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/lexical_cast.hpp:32,
+                 from deepcopy.cpp:6:
+/usr/include/c++/11/bits/unique_ptr.h:57:28: note: declared here
+   57 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -DLINUX -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/uuid/include' -I'/__w/gha-build/gha-build/built/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c util.cpp -o util.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o bigmemory.so BigMatrix.o RcppExports.o SharedCounter.o bigmemory.o deepcopy.o util.o -lrt -lm -luuid -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-bigmemory/00new/bigmemory/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a generic function for ‘ncol’ from package ‘base’ in package ‘bigmemory’
+Creating a generic function for ‘nrow’ from package ‘base’ in package ‘bigmemory’
+Creating a generic function for ‘typeof’ from package ‘base’ in package ‘bigmemory’
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bigmemory’ as ‘bigmemory_4.6.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bigmemory)
+
+The downloaded source packages are in
+	‘/tmp/RtmpWbTBTV/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+45.70user 2.22system 0:50.93elapsed 94%CPU (0avgtext+0avgdata 717832maxresident)k
+63544inputs+232280outputs (352major+794433minor)pagefaults 0swaps
