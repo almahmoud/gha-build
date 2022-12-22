@@ -1,0 +1,57 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   f4366908..b0b97927  main       -> origin/main
+Updating f4366908..b0b97927
+Fast-forward
+ lists/RcppAlgos     |   2 +-
+ lists/RcppArmadillo |   2 +-
+ lists/reader        |   2 +-
+ lists/rslurm        |   2 +-
+ packages.json       | 401 +++-------------------------------------------------
+ 5 files changed, 23 insertions(+), 386 deletions(-)
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=rebus.unicode
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "rebus.unicode"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ '[' -s /tmp/deps ']'
++ cat /tmp/deps
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
+Dependency rebus.base is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''rebus.unicode'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv rebus.unicode_0.0-2_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/rebus.unicode
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'rebus.unicode'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/rebus.unicode_0.0-2.tar.gz'
+Content type 'binary/octet-stream' length 143914 bytes (140 KB)
+==================================================
+downloaded 140 KB
+
+* installing *binary* package ‘rebus.unicode’ ...
+* ‘rebus.unicode’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rebus.unicode’ as ‘rebus.unicode_0.0-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rebus.unicode)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp7Ybg8Z/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+4.90user 0.40system 0:09.57elapsed 55%CPU (0avgtext+0avgdata 145892maxresident)k
+824inputs+15816outputs (8major+65582minor)pagefaults 0swaps
