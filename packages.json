@@ -4046,7 +4046,6 @@
         "multtest",
         "nloptr",
         "openssl",
-        "optextras",
         "optimr",
         "osqp",
         "patchwork",
@@ -68892,7 +68891,6 @@
         "igraph",
         "mgcv",
         "multtest",
-        "optextras",
         "optimr",
         "phyloseq",
         "pillar",
@@ -68920,8 +68918,7 @@
     ],
     "optimr": [
         "Rcgmin",
-        "Rvmmin",
-        "optextras"
+        "Rvmmin"
     ],
     "detectseparation": [
         "ROI.plugin.lpsolve",
@@ -68933,13 +68930,8 @@
     ],
     "softImpute": [],
     "ROI.plugin.lpsolve": [],
-    "optextras": [],
-    "Rvmmin": [
-        "optextras"
-    ],
-    "Rcgmin": [
-        "optextras"
-    ],
+    "Rvmmin": [],
+    "Rcgmin": [],
     "mitools": [],
     "sjmisc": [
         "dplyr",

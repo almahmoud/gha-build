@@ -1,0 +1,56 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   5b8af7fe..4a53619f  main       -> origin/main
+Updating 5b8af7fe..4a53619f
+Fast-forward
+ logs/run_ids/rstudio-binaries/INPower | 2 ++
+ logs/run_ids/rstudio-binaries/mppa    | 2 ++
+ logs/run_ids/rstudio-binaries/ompBAM  | 2 ++
+ logs/run_ids/rstudio-binaries/pander  | 2 ++
+ 4 files changed, 8 insertions(+)
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=optextras
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "optextras"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ '[' -s /tmp/deps ']'
++ cat /tmp/deps
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
+Dependency numDeriv is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''optextras'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv optextras_2019-12.4_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/optextras
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'optextras'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/optextras_2019-12.4.tar.gz'
+Content type 'binary/octet-stream' length 116974 bytes (114 KB)
+==================================================
+downloaded 114 KB
+
+* installing *binary* package ‘optextras’ ...
+* ‘optextras’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘optextras’ as ‘optextras_2019-12.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (optextras)
+
+The downloaded source packages are in
+	‘/tmp/RtmpRTz9PJ/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+3.61user 0.33system 0:06.36elapsed 62%CPU (0avgtext+0avgdata 145552maxresident)k
+824inputs+10416outputs (8major+58439minor)pagefaults 0swaps
