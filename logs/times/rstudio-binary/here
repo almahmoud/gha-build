@@ -1,0 +1,70 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   c7b6c51c..5b2fe20c  main       -> origin/main
+Updating c7b6c51c..5b2fe20c
+Fast-forward
+ lists/clue                                  |    2 +-
+ lists/ellipsis                              |    2 +-
+ lists/flock                                 |    2 +-
+ logs/run_ids/rstudio-binaries/HTMLUtils     |    2 +
+ logs/run_ids/rstudio-binaries/isa2          |    2 +
+ logs/sizes/rstudio-binaries/binaries/clue   |    1 +
+ logs/sizes/rstudio-binaries/binaries/flock  |    1 +
+ logs/sizes/rstudio-binaries/libraries/clue  |    1 +
+ logs/sizes/rstudio-binaries/libraries/flock |    1 +
+ logs/times/rstudio-binary/clue              |  227 ++++
+ logs/times/rstudio-binary/flock             |  220 ++++
+ packages.json                               | 1494 +--------------------------
+ 12 files changed, 465 insertions(+), 1490 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/clue
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/flock
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/clue
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/flock
+ create mode 100644 logs/times/rstudio-binary/clue
+ create mode 100644 logs/times/rstudio-binary/flock
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=here
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "here"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ '[' -s /tmp/deps ']'
++ cat /tmp/deps
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
+Dependency rprojroot is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''here'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv here_1.0.1_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/here
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'here'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/here_1.0.1.tar.gz'
+Content type 'binary/octet-stream' length 52300 bytes (51 KB)
+==================================================
+downloaded 51 KB
+
+* installing *binary* package ‘here’ ...
+* ‘here’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘here’ as ‘here_1.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (here)
+
+The downloaded source packages are in
+	‘/tmp/RtmprtLh0v/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+4.50user 0.40system 0:07.29elapsed 67%CPU (0avgtext+0avgdata 145604maxresident)k
+824inputs+15224outputs (8major+65743minor)pagefaults 0swaps
