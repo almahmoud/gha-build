@@ -17336,7 +17336,6 @@
         "scales",
         "selectr",
         "stringr",
-        "sylly.en",
         "syuzhet",
         "tensorflow",
         "text2vec",
@@ -27202,7 +27201,6 @@
         "scales",
         "selectr",
         "stringr",
-        "sylly.en",
         "syuzhet",
         "tensorflow",
         "text2vec",
@@ -72243,7 +72241,6 @@
         "sass",
         "scales",
         "stringr",
-        "sylly.en",
         "syuzhet",
         "tensorflow",
         "text2vec",
@@ -72977,7 +72974,6 @@
         "sitmo",
         "sparseMatrixStats",
         "stringr",
-        "sylly.en",
         "syuzhet",
         "tensorflow",
         "text2vec",
@@ -73749,7 +73745,6 @@
         "scico",
         "shiny",
         "stringr",
-        "sylly.en",
         "syuzhet",
         "textclean",
         "textstem",
@@ -81423,7 +81418,6 @@
         "purrr",
         "qdapRegex",
         "quanteda",
-        "sylly.en",
         "syuzhet",
         "textclean",
         "tibble",
@@ -81442,8 +81436,7 @@
     ],
     "koRpus.lang.en": [
         "Matrix",
-        "koRpus",
-        "sylly.en"
+        "koRpus"
     ],
     "hunspell": [],
     "koRpus": [
@@ -81477,7 +81470,6 @@
         "vctrs",
         "zoo"
     ],
-    "sylly.en": [],
     "syuzhet": [
         "dplyr",
         "pillar",
