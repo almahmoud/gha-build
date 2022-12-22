@@ -1,0 +1,75 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   4aba5fda..62d036fe  main       -> origin/main
+Updating 4aba5fda..62d036fe
+Fast-forward
+ lists/Rdpack                                       |  2 +-
+ lists/SNPRelate                                    |  2 +-
+ lists/TargetSearch                                 |  2 +-
+ lists/textshape                                    |  2 +-
+ logs/sizes/rstudio-binaries/binaries/SNPRelate     |  1 +
+ logs/sizes/rstudio-binaries/binaries/TargetSearch  |  1 +
+ logs/sizes/rstudio-binaries/binaries/textshape     |  1 +
+ logs/sizes/rstudio-binaries/libraries/SNPRelate    |  1 +
+ logs/sizes/rstudio-binaries/libraries/TargetSearch |  1 +
+ logs/sizes/rstudio-binaries/libraries/textshape    |  1 +
+ logs/times/rstudio-binary/SNPRelate                | 95 ++++++++++++++++++++++
+ logs/times/rstudio-binary/TargetSearch             | 89 ++++++++++++++++++++
+ logs/times/rstudio-binary/textshape                | 64 +++++++++++++++
+ packages.json                                      | 79 ++----------------
+ 14 files changed, 264 insertions(+), 77 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/SNPRelate
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/TargetSearch
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/textshape
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/SNPRelate
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/TargetSearch
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/textshape
+ create mode 100644 logs/times/rstudio-binary/SNPRelate
+ create mode 100644 logs/times/rstudio-binary/TargetSearch
+ create mode 100644 logs/times/rstudio-binary/textshape
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=wavethresh
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "wavethresh"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ '[' -s /tmp/deps ']'
++ cat /tmp/deps
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
+Dependency MASS is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''wavethresh'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv wavethresh_4.7.2_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/wavethresh
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'wavethresh'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/wavethresh_4.7.2.tar.gz'
+Content type 'binary/octet-stream' length 1697219 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+* installing *binary* package ‘wavethresh’ ...
+* ‘wavethresh’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘wavethresh’ as ‘wavethresh_4.7.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (wavethresh)
+
+The downloaded source packages are in
+	‘/tmp/RtmpLJiT5o/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+4.14user 0.39system 0:07.37elapsed 61%CPU (0avgtext+0avgdata 146136maxresident)k
+1336inputs+31928outputs (8major+68158minor)pagefaults 0swaps

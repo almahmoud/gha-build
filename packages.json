@@ -14470,7 +14470,6 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "wavethresh",
         "zoo"
     ],
     "consensus": [
@@ -18709,7 +18708,6 @@
         "timeSeries",
         "tseries",
         "vctrs",
-        "wavethresh",
         "xts",
         "zoo"
     ],
@@ -85406,7 +85404,6 @@
         "viridis",
         "zoo"
     ],
-    "wavethresh": [],
     "feature": [
         "Matrix",
         "ks",
