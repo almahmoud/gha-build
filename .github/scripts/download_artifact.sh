@@ -14,7 +14,6 @@ curl -o $DEPNAME.zip -L \
   -H "Accept: application/vnd.github+json" \
   -H "Authorization: Bearer $GITHUB_TOKEN" \
   -H "X-GitHub-Api-Version: 2022-11-28" \
-  https://api.github.com/repos/almahmoud/gha-build/actions/artifacts/485165954/zip
   https://api.github.com/repos/$GITREPO/actions/artifacts/$ARTIFACT_ID/zip &&\
 unzip $DEPNAME.zip && rm $DEPNAME.zip &&\
 tar -xvf "$DEPNAME".tar.gz && rm "$DEPNAME".tar.gz )
