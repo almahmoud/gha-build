@@ -1374,7 +1374,6 @@
         "cachem",
         "dplyr",
         "ellipsis",
-        "extrafont",
         "futile.logger",
         "ggplot2",
         "ggthemes",
@@ -32001,7 +32000,6 @@
         "crosstalk",
         "dplyr",
         "ellipsis",
-        "extrafont",
         "ggalt",
         "ggforce",
         "ggfun",
@@ -73528,7 +73526,6 @@
         "dplyr",
         "e1071",
         "ellipsis",
-        "extrafont",
         "fontawesome",
         "forcats",
         "foreach",
@@ -87716,7 +87713,6 @@
     ],
     "waffle": [
         "Matrix",
-        "extrafont",
         "ggplot2",
         "gridExtra",
         "lifecycle",
@@ -87728,7 +87724,6 @@
         "tibble",
         "vctrs"
     ],
-    "extrafont": [],
     "CVXR": [
         "Matrix",
         "RcppEigen",
@@ -95065,7 +95060,6 @@
         "crosstalk",
         "dplyr",
         "ellipsis",
-        "extrafont",
         "ggplot2",
         "htmltools",
         "htmlwidgets",
@@ -99134,7 +99128,6 @@
         "diffobj",
         "dplyr",
         "ellipsis",
-        "extrafont",
         "forcats",
         "ggplot2",
         "ggpubr",
@@ -99180,7 +99173,6 @@
     "tidytidbits": [
         "dplyr",
         "ellipsis",
-        "extrafont",
         "forcats",
         "lifecycle",
         "pillar",
