@@ -9409,7 +9409,6 @@
         "ggridges",
         "gridExtra",
         "irlba",
-        "kSamples",
         "mgcv",
         "nlme",
         "pheatmap",
@@ -50835,7 +50834,6 @@
         "httr",
         "igraph",
         "jquerylib",
-        "kSamples",
         "knitr",
         "later",
         "memoise",
@@ -64889,7 +64887,6 @@
         "igraph",
         "inaparc",
         "jquerylib",
-        "kSamples",
         "kknn",
         "km.ci",
         "knitr",
@@ -75975,7 +75972,6 @@
         "httr",
         "interp",
         "jquerylib",
-        "kSamples",
         "knitr",
         "latticeExtra",
         "memoise",
@@ -80760,7 +80756,6 @@
         "sp"
     ],
     "magic": [],
-    "kSamples": [],
     "EnvStats": [
         "Matrix",
         "ggplot2",
@@ -86245,7 +86240,6 @@
         "BWStest",
         "Rmpfr",
         "cachem",
-        "kSamples",
         "memoise"
     ],
     "BWStest": [
