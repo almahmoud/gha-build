@@ -24793,7 +24793,6 @@
         "RcppArmadillo",
         "RcppEigen",
         "RecordLinkage",
-        "ada",
         "blob",
         "cachem",
         "class",
@@ -37996,7 +37995,6 @@
         "RecordLinkage",
         "S4Vectors",
         "XVector",
-        "ada",
         "ape",
         "aplot",
         "askpass",
@@ -63780,7 +63778,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
-        "ada",
         "askpass",
         "biomaRt",
         "blob",
@@ -82040,7 +82037,6 @@
     "RecordLinkage": [
         "Matrix",
         "RSQLite",
-        "ada",
         "blob",
         "cachem",
         "class",
@@ -82055,7 +82051,6 @@
         "survival",
         "vctrs"
     ],
-    "ada": [],
     "BBmisc": [],
     "NHPoisson": [
         "Matrix",
