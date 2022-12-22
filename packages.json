@@ -44859,7 +44859,6 @@
         "XVector",
         "bench",
         "bslib",
-        "celestial",
         "cowplot",
         "crosstalk",
         "dplyr",
@@ -48693,7 +48692,6 @@
         "XVector",
         "bench",
         "bslib",
-        "celestial",
         "cowplot",
         "crosstalk",
         "dplyr",
@@ -67042,7 +67040,6 @@
         "XVector",
         "bench",
         "bslib",
-        "celestial",
         "cowplot",
         "crosstalk",
         "doParallel",
@@ -75857,10 +75854,7 @@
         "webutils"
     ],
     "webutils": [],
-    "magicaxis": [
-        "celestial"
-    ],
-    "celestial": [],
+    "magicaxis": [],
     "PMCMRplus": [
         "BWStest",
         "Rmpfr",
