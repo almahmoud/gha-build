@@ -50197,7 +50197,6 @@
         "pillar",
         "progress",
         "promises",
-        "protolite",
         "purrr",
         "readr",
         "rhdf5",
@@ -85344,7 +85343,6 @@
         "Matrix",
         "igraph"
     ],
-    "protolite": [],
     "opencpu": [
         "askpass",
         "httpuv",
@@ -85352,7 +85350,6 @@
         "later",
         "openssl",
         "promises",
-        "protolite",
         "stringr",
         "vctrs",
         "webutils"
