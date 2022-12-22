@@ -57477,7 +57477,6 @@
         "methylumi",
         "mgcv",
         "minfi",
-        "mixsmsn",
         "multtest",
         "openssl",
         "org.Hs.eg.db",
@@ -75948,7 +75947,6 @@
         "org.Hs.eg.db",
         "vctrs"
     ],
-    "mixsmsn": [],
     "sampSurf": [],
     "spdep": [
         "classInt",
