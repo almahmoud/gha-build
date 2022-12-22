@@ -14320,7 +14320,6 @@
         "progress",
         "promises",
         "purrr",
-        "reader",
         "readr",
         "readxl",
         "rmarkdown",
@@ -75794,7 +75793,6 @@
         "reticulate"
     ],
     "metaMA": [],
-    "reader": [],
     "shinypanel": [
         "bslib",
         "fontawesome",
