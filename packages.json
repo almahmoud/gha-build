@@ -34753,7 +34753,6 @@
         "blob",
         "cachem",
         "dbplyr",
-        "distr",
         "dplyr",
         "ggplot2",
         "hms",
@@ -49654,7 +49653,6 @@
         "bslib",
         "cachem",
         "checkmate",
-        "distr",
         "distrEx",
         "dplyr",
         "fitdistrplus",
@@ -49709,7 +49707,6 @@
         "cachem",
         "checkmate",
         "crosstalk",
-        "distr",
         "distrEx",
         "dplyr",
         "fitdistrplus",
@@ -63664,7 +63661,6 @@
         "checkmate",
         "densEstBayes",
         "desc",
-        "distr",
         "futile.logger",
         "ggplot2",
         "gplots",
@@ -66990,7 +66986,6 @@
         "dbscan",
         "densEstBayes",
         "desc",
-        "distr",
         "doParallel",
         "dplyr",
         "dqrng",
@@ -86051,7 +86046,6 @@
     "phosphoricons": [
         "htmltools"
     ],
-    "distr": [],
     "pd.mapping50k.xba240": [
         "Biostrings",
         "DelayedArray",
@@ -87809,9 +87803,7 @@
         "Rgraphviz",
         "graph"
     ],
-    "distrEx": [
-        "distr"
-    ],
+    "distrEx": [],
     "AICcmodavg": [
         "Matrix",
         "RcppArmadillo",
