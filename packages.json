@@ -35220,7 +35220,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "metabinR": [],
     "MetaboAnnotation": [
         "AnnotationFilter",
         "BiocParallel",
