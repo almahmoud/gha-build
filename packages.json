@@ -1614,7 +1614,6 @@
         "KEGGREST",
         "Matrix",
         "RCurl",
-        "RMySQL",
         "RSQLite",
         "Rhtslib",
         "Rsamtools",
@@ -29678,7 +29677,6 @@
     "GladiaTOX": [
         "Matrix",
         "RCurl",
-        "RMySQL",
         "RSQLite",
         "blob",
         "cachem",
@@ -34631,7 +34629,6 @@
         "Matrix",
         "MatrixGenerics",
         "RCurl",
-        "RMySQL",
         "RSQLite",
         "RcppArmadillo",
         "Rhtslib",
@@ -75940,7 +75937,6 @@
         "MatrixGenerics",
         "MotifDb",
         "RCurl",
-        "RMySQL",
         "RPostgreSQL",
         "RSQLite",
         "RcppEigen",
@@ -80792,7 +80788,6 @@
         "survival"
     ],
     "progressr": [],
-    "RMySQL": [],
     "rapiclient": [
         "askpass",
         "httr",
