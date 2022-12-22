@@ -396,7 +396,6 @@
         "memoise",
         "mzR",
         "openssl",
-        "pastecs",
         "pillar",
         "prabclus",
         "promises",
@@ -82180,7 +82179,6 @@
         "tibble",
         "vctrs"
     ],
-    "pastecs": [],
     "fpc": [
         "class",
         "prabclus",
