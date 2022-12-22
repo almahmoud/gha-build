@@ -9251,7 +9251,6 @@
         "openssl",
         "vctrs"
     ],
-    "ccrepe": [],
     "celaref": [
         "DelayedArray",
         "GenomeInfoDb",
