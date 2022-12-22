@@ -7146,7 +7146,6 @@
         "httr",
         "lambda.r",
         "lmtest",
-        "lokern",
         "memoise",
         "openssl",
         "restfulr",
@@ -56514,7 +56513,6 @@
         "blob",
         "cachem",
         "httr",
-        "lokern",
         "memoise",
         "multtest",
         "openssl",
@@ -86428,7 +86426,6 @@
         "sandwich",
         "zoo"
     ],
-    "lokern": [],
     "pasilla": [
         "AnnotationDbi",
         "BiocFileCache",
