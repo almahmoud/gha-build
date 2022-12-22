@@ -6095,7 +6095,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
-        "PolynomF",
         "S4Vectors",
         "XVector"
     ],
@@ -68193,7 +68192,6 @@
         "survival"
     ],
     "earth": [],
-    "PolynomF": [],
     "GenomicState": [
         "AnnotationDbi",
         "AnnotationHub",
