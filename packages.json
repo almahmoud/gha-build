@@ -52305,7 +52305,6 @@
         "IRanges",
         "Matrix",
         "MatrixGenerics",
-        "Peptides",
         "RCurl",
         "Rhtslib",
         "Rsamtools",
@@ -91994,7 +91993,6 @@
         "vctrs",
         "waldo"
     ],
-    "Peptides": [],
     "biomartr": [
         "AnnotationDbi",
         "BiocFileCache",
