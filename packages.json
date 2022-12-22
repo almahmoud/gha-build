@@ -11098,7 +11098,6 @@
         "RCurl",
         "S4Vectors",
         "XVector",
-        "brglm",
         "doParallel",
         "foreach"
     ],
@@ -22626,7 +22625,6 @@
         "SummarizedExperiment",
         "XVector",
         "analogue",
-        "brglm",
         "broom",
         "callr",
         "car",
@@ -72142,7 +72140,6 @@
         "vctrs"
     ],
     "princurve": [],
-    "brglm": [],
     "biwt": [],
     "skmeans": [],
     "eulerr": [],
@@ -73550,7 +73547,6 @@
         "vctrs"
     ],
     "analogue": [
-        "brglm",
         "mgcv",
         "princurve",
         "vegan"
