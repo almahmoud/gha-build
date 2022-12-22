@@ -15773,7 +15773,6 @@
         "GoFKernel",
         "IDPmisc",
         "IRanges",
-        "MBA",
         "Matrix",
         "MatrixModels",
         "RBGL",
@@ -16801,7 +16800,6 @@
         "GEOmap",
         "IDPmisc",
         "IRanges",
-        "MBA",
         "Matrix",
         "MatrixModels",
         "R.oo",
@@ -24409,7 +24407,6 @@
         "GEOmap",
         "IDPmisc",
         "IRanges",
-        "MBA",
         "Matrix",
         "MatrixModels",
         "RBGL",
@@ -24479,7 +24476,6 @@
         "GEOmap",
         "IDPmisc",
         "IRanges",
-        "MBA",
         "Matrix",
         "MatrixModels",
         "RBGL",
@@ -66752,7 +66748,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "IRanges",
-        "MBA",
         "Matrix",
         "RCurl",
         "Rhtslib",
@@ -81470,7 +81465,6 @@
     ],
     "RFOC": [
         "GEOmap",
-        "MBA",
         "Matrix",
         "RSEIS",
         "fields",
@@ -81492,7 +81486,6 @@
     ],
     "IDPmisc": [],
     "GEOmap": [
-        "MBA",
         "Matrix",
         "fields",
         "ggplot2",
@@ -81525,7 +81518,6 @@
         "vctrs",
         "viridis"
     ],
-    "MBA": [],
     "spam": [],
     "rpart.plot": [],
     "shinyFeedback": [
@@ -86764,7 +86756,6 @@
         "vctrs"
     ],
     "bamlss": [
-        "MBA",
         "Matrix",
         "mgcv",
         "nlme",
