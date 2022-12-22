@@ -26096,7 +26096,6 @@
         "pillar",
         "purrr",
         "rmarkdown",
-        "s2",
         "sass",
         "scales",
         "sf",
@@ -28711,7 +28710,6 @@
         "rhdf5",
         "rhdf5filters",
         "rmarkdown",
-        "s2",
         "sass",
         "scales",
         "scuttle",
@@ -31283,7 +31281,6 @@
         "rematch2",
         "rhdf5",
         "rhdf5filters",
-        "s2",
         "scales",
         "scam",
         "scuttle",
@@ -54917,7 +54914,6 @@
         "reshape2",
         "reticulate",
         "rmarkdown",
-        "s2",
         "sass",
         "scales",
         "scattermore",
@@ -55919,7 +55915,6 @@
         "reshape2",
         "reticulate",
         "rmarkdown",
-        "s2",
         "sass",
         "scales",
         "scattermore",
@@ -56024,7 +56019,6 @@
         "reshape2",
         "reticulate",
         "rmarkdown",
-        "s2",
         "sass",
         "scales",
         "scattermore",
@@ -59314,7 +59308,6 @@
         "purrr",
         "rhdf5",
         "rhdf5filters",
-        "s2",
         "scuttle",
         "sf",
         "sitmo",
@@ -59702,7 +59695,6 @@
         "rematch2",
         "rhdf5",
         "rhdf5filters",
-        "s2",
         "scales",
         "scam",
         "scuttle",
@@ -60927,7 +60919,6 @@
         "reprex",
         "rmarkdown",
         "rvest",
-        "s2",
         "sass",
         "scales",
         "selectr",
@@ -61051,7 +61042,6 @@
         "rhdf5",
         "rhdf5filters",
         "rmarkdown",
-        "s2",
         "sass",
         "scales",
         "scattermore",
@@ -61819,7 +61809,6 @@
         "reshape2",
         "rmarkdown",
         "rvest",
-        "s2",
         "sandwich",
         "sass",
         "scales",
@@ -66389,7 +66378,6 @@
         "purrr",
         "rhdf5",
         "rhdf5filters",
-        "s2",
         "scales",
         "scico",
         "scuttle",
@@ -73897,7 +73885,6 @@
         "officer",
         "pander",
         "rmarkdown",
-        "s2",
         "sass",
         "sf",
         "stringr",
@@ -73907,13 +73894,11 @@
     ],
     "sf": [
         "classInt",
-        "e1071",
-        "s2"
+        "e1071"
     ],
     "classInt": [
         "e1071"
     ],
-    "s2": [],
     "penalized": [
         "survival"
     ],
@@ -74095,7 +74080,6 @@
         "dplyr",
         "e1071",
         "pillar",
-        "s2",
         "sf",
         "tibble",
         "tidyselect",
@@ -77170,7 +77154,6 @@
     "spdep": [
         "classInt",
         "e1071",
-        "s2",
         "sf",
         "sp",
         "spData"
@@ -77347,7 +77330,6 @@
         "classInt",
         "e1071",
         "lwgeom",
-        "s2",
         "sf",
         "sftime",
         "sp",
@@ -77368,7 +77350,6 @@
     "sftime": [
         "classInt",
         "e1071",
-        "s2",
         "sf"
     ],
     "spacetime": [
@@ -77379,13 +77360,11 @@
         "classInt",
         "e1071",
         "lwgeom",
-        "s2",
         "sf"
     ],
     "lwgeom": [
         "classInt",
         "e1071",
-        "s2",
         "sf"
     ],
     "spsUtil": [
