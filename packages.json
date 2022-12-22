@@ -29569,7 +29569,6 @@
         "pcaMethods",
         "pillar",
         "rmarkdown",
-        "rsm",
         "sass",
         "scales",
         "stringr",
@@ -73856,7 +73855,6 @@
         "tinytex",
         "vctrs"
     ],
-    "rsm": [],
     "AdaptGauss": [
         "DataVisualizations",
         "bslib",
