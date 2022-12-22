@@ -46767,7 +46767,6 @@
     "ppcseq": [
         "RcppEigen",
         "StanHeaders",
-        "arrayhelpers",
         "askpass",
         "benchmarkme",
         "benchmarkmeData",
@@ -76967,7 +76966,6 @@
     ],
     "strawr": [],
     "tidybayes": [
-        "arrayhelpers",
         "distributional",
         "dplyr",
         "ggdist",
@@ -76993,7 +76991,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "arrayhelpers": [],
     "posterior": [
         "distributional",
         "ggplot2",

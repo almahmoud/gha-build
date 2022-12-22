@@ -1,0 +1,57 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   7baa2b0c..7a3e8fd8  main       -> origin/main
+Updating 7baa2b0c..7a3e8fd8
+Fast-forward
+ lists/rnaseqcomp                      |  2 +-
+ lists/wheatmap                        |  2 +-
+ logs/run_ids/rstudio-binaries/askpass |  2 ++
+ logs/run_ids/rstudio-binaries/biglm   |  2 ++
+ packages.json                         | 11 +++--------
+ 5 files changed, 9 insertions(+), 10 deletions(-)
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=arrayhelpers
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "arrayhelpers"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ '[' -s /tmp/deps ']'
++ cat /tmp/deps
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
+Dependency svUnit is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''arrayhelpers'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv arrayhelpers_1.1-0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/arrayhelpers
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'arrayhelpers'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/arrayhelpers_1.1-0.tar.gz'
+Content type 'binary/octet-stream' length 97239 bytes (94 KB)
+==================================================
+downloaded 94 KB
+
+* installing *binary* package ‘arrayhelpers’ ...
+* ‘arrayhelpers’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘arrayhelpers’ as ‘arrayhelpers_1.1-0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (arrayhelpers)
+
+The downloaded source packages are in
+	‘/tmp/RtmpihMSY3/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+3.59user 0.28system 0:06.47elapsed 59%CPU (0avgtext+0avgdata 148288maxresident)k
+824inputs+14024outputs (8major+64095minor)pagefaults 0swaps
