@@ -46156,7 +46156,6 @@
         "RCurl",
         "S4Vectors",
         "ScaledMatrix",
-        "SharedObject",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
@@ -63271,7 +63270,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "SharedObject": [],
     "shinyepico": [
         "AnnotationDbi",
         "BiocFileCache",
