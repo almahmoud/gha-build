@@ -1,0 +1,90 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   813de302..f330f9b7  main       -> origin/main
+Updating 813de302..f330f9b7
+Fast-forward
+ lists/metaMA                                    |  2 +-
+ lists/optextras                                 |  2 +-
+ lists/pander                                    |  2 +-
+ logs/run_ids/rstudio-binaries/PolynomF          |  2 +
+ logs/run_ids/rstudio-binaries/progressr         |  2 +
+ logs/run_ids/rstudio-binaries/propr             |  2 +
+ logs/run_ids/rstudio-binaries/qdapRegex         |  2 +
+ logs/sizes/rstudio-binaries/binaries/metaMA     |  1 +
+ logs/sizes/rstudio-binaries/binaries/optextras  |  1 +
+ logs/sizes/rstudio-binaries/binaries/pander     |  1 +
+ logs/sizes/rstudio-binaries/libraries/metaMA    |  1 +
+ logs/sizes/rstudio-binaries/libraries/optextras |  1 +
+ logs/sizes/rstudio-binaries/libraries/pander    |  1 +
+ logs/times/rstudio-binary/metaMA                | 68 +++++++++++++++++++++++++
+ logs/times/rstudio-binary/optextras             | 56 ++++++++++++++++++++
+ logs/times/rstudio-binary/pander                | 56 ++++++++++++++++++++
+ packages.json                                   | 30 ++---------
+ 17 files changed, 200 insertions(+), 30 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/metaMA
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/optextras
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/pander
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/metaMA
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/optextras
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/pander
+ create mode 100644 logs/times/rstudio-binary/metaMA
+ create mode 100644 logs/times/rstudio-binary/optextras
+ create mode 100644 logs/times/rstudio-binary/pander
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=ModCon
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "ModCon"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ '[' -s /tmp/deps ']'
++ cat /tmp/deps
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
+Dependency data.table is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''ModCon'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv ModCon_1.6.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/ModCon
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'ModCon'
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/ModCon_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 2004726 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+* installing *source* package ‘ModCon’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ModCon’ as ‘ModCon_1.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ModCon)
+
+The downloaded source packages are in
+	‘/tmp/RtmpZvZWGZ/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+12.65user 1.00system 0:15.75elapsed 86%CPU (0avgtext+0avgdata 151692maxresident)k
+832inputs+78464outputs (8major+152300minor)pagefaults 0swaps
