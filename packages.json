@@ -52354,7 +52354,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "conicfit",
         "doParallel",
         "dqrng",
         "foreach",
@@ -89493,7 +89492,6 @@
         "R.oo",
         "R.utils"
     ],
-    "conicfit": [],
     "genlasso": [
         "Matrix",
         "igraph"
