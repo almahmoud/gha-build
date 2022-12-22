@@ -65962,7 +65962,6 @@
         "KEGGREST",
         "MotifDb",
         "RCurl",
-        "RPostgreSQL",
         "RSQLite",
         "RcppEigen",
         "Rhtslib",
@@ -79278,7 +79277,6 @@
     "reportr": [],
     "RNifti": [],
     "vbsr": [],
-    "RPostgreSQL": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
         "BiocIO",
