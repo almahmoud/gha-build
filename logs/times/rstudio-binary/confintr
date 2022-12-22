@@ -1,0 +1,68 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   fb499aeb..9fcafa1a  main       -> origin/main
+Updating fb499aeb..9fcafa1a
+Fast-forward
+ lists/clustComp                                 |  2 +-
+ lists/config                                    |  2 +-
+ logs/run_ids/rstudio-binaries/elasticnet        |  2 +
+ logs/sizes/rstudio-binaries/binaries/clustComp  |  1 +
+ logs/sizes/rstudio-binaries/binaries/config     |  1 +
+ logs/sizes/rstudio-binaries/libraries/clustComp |  1 +
+ logs/sizes/rstudio-binaries/libraries/config    |  1 +
+ logs/times/rstudio-binary/clustComp             | 72 +++++++++++++++++++++++++
+ logs/times/rstudio-binary/config                | 62 +++++++++++++++++++++
+ packages.json                                   | 23 --------
+ 10 files changed, 142 insertions(+), 25 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/clustComp
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/config
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/clustComp
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/config
+ create mode 100644 logs/times/rstudio-binary/clustComp
+ create mode 100644 logs/times/rstudio-binary/config
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=confintr
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "confintr"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ '[' -s /tmp/deps ']'
++ cat /tmp/deps
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
+Dependency boot is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''confintr'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv confintr_0.2.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/confintr
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'confintr'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/confintr_0.2.0.tar.gz'
+Content type 'binary/octet-stream' length 172655 bytes (168 KB)
+==================================================
+downloaded 168 KB
+
+* installing *binary* package ‘confintr’ ...
+* ‘confintr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘confintr’ as ‘confintr_0.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (confintr)
+
+The downloaded source packages are in
+	‘/tmp/RtmpYVgwQn/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+4.51user 0.38system 0:08.87elapsed 55%CPU (0avgtext+0avgdata 145776maxresident)k
+824inputs+15336outputs (8major+64465minor)pagefaults 0swaps
