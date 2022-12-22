@@ -15860,7 +15860,6 @@
         "interp",
         "knitr",
         "latticeExtra",
-        "linprog",
         "lme4",
         "magic",
         "mgcv",
@@ -16956,7 +16955,6 @@
         "geometry",
         "ggplot2",
         "hms",
-        "linprog",
         "magic",
         "mgcv",
         "nlme",
@@ -47394,7 +47392,6 @@
         "klaR",
         "labelled",
         "later",
-        "linprog",
         "magic",
         "memoise",
         "mgcv",
@@ -81665,7 +81662,6 @@
         "RcppEigen",
         "geometry",
         "ggplot2",
-        "linprog",
         "magic",
         "mgcv",
         "nlme",
@@ -81700,11 +81696,9 @@
         "viridis"
     ],
     "geometry": [
-        "linprog",
         "magic"
     ],
     "IDPmisc": [],
-    "linprog": [],
     "GEOmap": [
         "MBA",
         "Matrix",
@@ -85142,7 +85136,6 @@
     ],
     "pdfCluster": [
         "geometry",
-        "linprog",
         "magic"
     ],
     "diceR": [
