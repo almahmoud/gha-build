@@ -35078,7 +35078,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "IHW",
         "IRanges",
         "KEGGREST",
         "Matrix",
@@ -35356,7 +35355,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "IHW": [],
     "illuminaio": [
         "askpass",
         "base64",
