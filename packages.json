@@ -29447,7 +29447,6 @@
         "classInt",
         "cowplot",
         "dplyr",
-        "dtangle",
         "e1071",
         "epiR",
         "flextable",
@@ -83895,7 +83894,6 @@
         "vctrs",
         "zoo"
     ],
-    "dtangle": [],
     "sf": [
         "class",
         "classInt",
