@@ -10823,7 +10823,6 @@
         "exomeCopy",
         "futile.logger"
     ],
-    "CNAnorm": [],
     "CNEr": [
         "AnnotationDbi",
         "BiocIO",
